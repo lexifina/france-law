@@ -3038,19 +3038,31 @@ B
 
 Services judiciaires
 
-Désignation de l'emploi
+DÉSIGNATION DE L'EMPLOI
 
 |
 
-Niveau des responsabilités exercées
+NIVEAU
+
+de responsabilités
+
+exercées
 
 |
 
-Nombre d'emplois
+NIVEAU
+
+d'emplois
+
+éligibles
 
 |
 
-Nombre de points par emploi
+NOMBRE
+
+de points
+
+par emploi
 
 |
 
@@ -3102,7 +3114,7 @@ B
 
 |
 
-Responsable de la gestion des ressources humaines adjoint
+Responsable de la gestion des ressources humaines adjoint dans un service administratif régional de cour d'appel
 
 |
 
@@ -3110,7 +3122,7 @@ B
 
 |
 
-35
+132
 
 |
 
@@ -3118,7 +3130,7 @@ B
 
 |
 
-Responsable de la gestion budgétaire adjoint
+Responsable de la gestion budgétaire adjoint dans un service administratif régional de cour d'appel
 
 |
 
@@ -3126,15 +3138,11 @@ B
 
 |
 
-35
-
-|
-
 20
 
 |
 
-Responsable de la gestion informatique adjoint
+Responsable de la gestion informatique adjoint dans un service administratif régional de cour d'appel
 
 |
 
@@ -3142,7 +3150,19 @@ B
 
 |
 
-46
+20
+
+|
+
+Greffier placé
+
+|
+
+B
+
+|
+
+311
 
 |
 
@@ -3150,7 +3170,7 @@ B
 
 |
 
-Greffier responsable du centre de préarchivage de Paris
+Greffier, responsable du centre de préarchivage de Paris
 
 |
 
@@ -3174,7 +3194,7 @@ B
 
 |
 
-186
+121
 
 |
 
@@ -3182,7 +3202,7 @@ B
 
 |
 
-Greffier d'instruction dans un cabinet d'instruction dans les tribunaux de grande instance et dans les tribunaux de première instance de : Agen, Auch, Cahors, Marmande, Aix-en-Provence, Digne, Draguignan, Grasse, Marseille, Nice, Tarascon, Toulon, Abbeville, Amiens, Beauvais, Compiègne, Laon, Péronne, Saint-Quentin, Senlis, Soissons, Angers, Laval, Le Mans, Saumur, Ajaccio, Bastia, Belfort, Besançon, Dole, Lons-le- Saunier, Lure, Montbéliard, Vesoul, Angoulême, Bergerac, Bordeaux, Libourne, Périgueux, Bourges, Châteauroux, Nevers, Alençon, Argentan, Avranches, Caen, Cherbourg, Coutances, Lisieux, Albertville, Annecy, Bonneville, Chambéry, Thonon-les-Bains, Colmar, Mulhouse, Saverne, Strasbourg, Chalon-sur-Saône, Chaumont, Dijon, Mâcon, Arras, Avesnes-sur-Helpe, Béthune, Boulogne-sur-Mer, Cambrai, Douai, Dunkerque, Hazebrouck, Lille, Saint-Omer, Valenciennes, Bourgoin-Jallieu, Gap, Grenoble, Valence, Vienne, Brive-la-Gaillarde, Guéret, Limoges, Tulle, Belley, Bourg-en-Bresse, Lyon, Montbrison, Roanne, Saint-Etienne, Villefranche-sur-Saône, Metz, Sarreguemines, Thionville, Béziers, Carcassonne, Millau, Montpellier, Narbonne, Perpignan, Rodez, Bar-le-Duc, Briey, Epinal, Nancy, Saint-Dié, Verdun, Alès, Avignon, Carpentras, Mende, Nîmes, Privas, Blois, Montargis, Orléans, Tours, Auxerre, Bobigny, Créteil, Evry, Fontainebleau, Meaux, Melun, Paris, Sens, Bayonne, Dax, Mont-de-Marsan, Pau, Tarbes, Bressuire, La Rochelle, La Roche-sur-Yon, Les Sables-d'Olonne, Niort, Poitiers, Rochefort, Saintes, Châlons-en-Champagne, Charleville-Mézières, Reims, Troyes, Brest, Dinan, Guingamp, Lorient, Morlaix, Nantes, Quimper, Rennes, Saint-Brieuc, Saint-Malo, Saint-Nazaire, Vannes, Aurillac, Clermont-Ferrand, Cusset, Le Puy-en-Velay, Montluçon, Moulins, Riom, Dieppe, Bernay, Evreux, Le Havre, Rouen, Albi, Castres, Foix, Montauban, Saint-Gaudens, Toulouse, Chartres, Nanterre, Pontoise, Versailles, Basse-Terre, Pointe-à-Pitre, Fort-de-France, Cayenne, Saint-Denis de la Réunion, Saint-Pierre de la Réunion, Nouméa, Papeete.
+Greffier dans un cabinet du juge d'instruction ou du juge des libertés et de la détention dans un tribunal de grande instance et dans un tribunal de première instance
 
 |
 
@@ -3190,7 +3210,7 @@ B
 
 |
 
-626
+610
 
 |
 
@@ -3198,7 +3218,7 @@ B
 
 |
 
-Greffier d'audience correctionnelle collégiale dans les tribunaux de grande instance et dans les tribunaux de première instance de : Agen, Auch, Cahors, Marmande, Aix-en-Provence, Digne, Draguignan, Grasse, Marseille, Nice, Tarascon, Toulon, Abbeville, Amiens, Beauvais, Compiègne, Laon, Péronne, Saint-Quentin, Senlis, Soissons, Angers, Laval, Le Mans, Saumur, Ajaccio, Bastia, Belfort, Besançon, Dole, Lons-le- Saunier, Lure, Montbéliard, Vesoul, Angoulême, Bergerac, Bordeaux, Libourne, Périgueux, Bourges, Châteauroux, Nevers, Alençon, Argentan, Avranches, Caen, Cherbourg, Coutances, Lisieux, Albertville, Annecy, Bonneville, Chambéry, Thonon-les-Bains, Colmar, Mulhouse, Saverne, Strasbourg, Chalon-sur-Saône, Chaumont, Dijon, Mâcon, Arras, Avesnes-sur-Helpe, Béthune, Boulogne-sur-Mer, Cambrai, Douai, Dunkerque, Hazebrouck, Lille, Saint-Omer, Valenciennes, Bourgoin-Jallieu, Gap, Grenoble, Valence, Vienne, Brive-la-Gaillarde, Guéret, Limoges, Tulle, Belley, Bourg-en-Bresse, Lyon, Montbrison, Roanne, Saint-Etienne, Villefranche-sur-Saône, Metz, Sarreguemines, Thionville, Béziers, Carcassonne, Millau, Montpellier, Narbonne, Perpignan, Rodez, Bar-le-Duc, Briey, Epinal, Nancy, Saint-Dié, Verdun, Alès, Avignon, Carpentras, Mende, Nîmes, Privas, Blois, Montargis, Orléans, Tours, Auxerre, Bobigny, Créteil, Evry, Fontainebleau, Meaux, Melun, Paris, Sens, Bayonne, Dax, Mont-de-Marsan, Pau, Tarbes, Bressuire, La Rochelle, La Roche-sur-Yon, Les Sables-d'Olonne, Niort, Poitiers, Rochefort, Saintes, Châlons-en-Champagne, Charleville-Mézières, Reims, Troyes, Brest, Dinan, Guingamp, Lorient, Morlaix, Nantes, Quimper, Rennes, Saint-Brieuc, Saint-Malo, Saint-Nazaire, Vannes, Aurillac, Clermont-Ferrand, Cusset, Le Puy-en-Velay, Montluçon, Moulins, Riom, Dieppe, Bernay, Evreux, Le Havre, Rouen, Albi, Castres, Foix, Montauban, Saint-Gaudens, Toulouse, Chartres, Nanterre, Pontoise, Versailles, Basse-Terre, Pointe-à-Pitre, Fort-de-France, Cayenne, Saint- Denis de la Réunion, Saint-Pierre de la Réunion, Nouméa, Papeete
+Greffier d'audience correctionnelle collégiale dans un tribunal de grande instance et dans un tribunal de première instance
 
 |
 
@@ -3206,7 +3226,7 @@ B
 
 |
 
-501
+550
 
 |
 
@@ -3214,7 +3234,7 @@ B
 
 |
 
-Greffier d'assises dans les cours d'assises de : Bouches-du-Rhône, Var, Alpes-Maritimes, Somme, Oise, Aisne, Maine-et-Loire, Sarthe, Corse-du-Sud, Doubs, Jura, Haute-Saône, Gironde, Dordogne, Cher, Indre, Calvados, Manche, Savoie, Haute-Savoie, Haut-Rhin, Bas-Rhin, Côte-d'Or, Saône-et-Loire, Haute-Marne, Nord, Pas-de-Calais, Isère, Drôme, Haute-Vienne, Corrèze, Rhône, Ain, Loire, Moselle, Hérault, Meurthe-et-Moselle, Vosges, Gard, Vaucluse, Loiret, Loir-et-Cher, Indre-et-Loire, Paris, Yonne, Seine-Saint-Denis, Val-de-Marne, Essonne, Seine-et-Marne, Pyrénées-Atlantiques, Charente-Maritime, Marne, Aube, Ille-et-Vilaine, Loire-Atlantique, Finistère, Côtes-d'Armor, Morbihan, Puy-de-Dôme, Seine- Maritime, Eure, Haute-Garonne, Tarn, Tarn-et-Garonne, Yvelines, Eure-et-Loir, Hauts-de-Seine, Val-d'Oise, Guadeloupe, Martinique, Guyane, Réunion, Polynésie française.
+Greffier d'assises dans les cours d'assises
 
 |
 
@@ -3222,7 +3242,7 @@ B
 
 |
 
-120
+150
 
 |
 
@@ -3230,7 +3250,7 @@ B
 
 |
 
-Greffier responsable de l'audiovisuel à l'Ecole nationale des greffes
+Responsable de la gestion des ressources humaines adjoint à l'Ecole nationale des greffes
 
 |
 
@@ -3242,11 +3262,11 @@ B
 
 |
 
-10
+20
 
 |
 
-Greffier mis à disposition ou affecté à l'administration centrale ou à l'Ecole nationale des greffes, chargé de développement, d'implantation et de formation en matière informatique au profit des juridictions
+Responsable de la gestion budgétaire adjoint à l'Ecole nationale des greffes
 
 |
 
@@ -3254,7 +3274,7 @@ B
 
 |
 
-58
+1
 
 |
 
@@ -3262,7 +3282,71 @@ B
 
 |
 
-Régisseur d'avances et de recettes dont le montant de l'avance est supérieur à 60 980 €.
+Référent des stages et des parcours professionnels à l'Ecole nationale des greffes
+
+|
+
+B
+
+|
+
+2
+
+|
+
+25
+
+|
+
+Formateur spécialisé et polyvalent à l'Ecole nationale des greffes
+
+|
+
+B
+
+|
+
+19
+
+|
+
+25
+
+|
+
+Coordonnateur de l'organisation informatique des services à l'Ecole nationale des greffes
+
+|
+
+B
+
+|
+
+1
+
+|
+
+12
+
+|
+
+Greffier mis à disposition ou affecté à l'administration centrale chargé de développement, d'implantation et de formation en matière informatique au profit des juridictions
+
+|
+
+B
+
+|
+
+64
+
+|
+
+20
+
+|
+
+Régisseur d'avances et de recettes dont le montant de l'avance est supérieur à 60 980 euros
 
 |
 
@@ -3270,7 +3354,7 @@ A
 
 |
 
-136
+185
 
 |
 
@@ -3286,13 +3370,11 @@ C
 
 |
 
-95
+113
 
 |
 
-20
-
-|
+20 |
 
 Direction de la protection judiciaire de la jeunesse
 
