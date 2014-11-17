@@ -1,6 +1,6 @@
 # Article Annexe I
 
-SPÉCIFICATIONS D'APPROBATION DE L'ORGANISME
+Spécifications d'approbation organisme LPO
 
 Organisation :
 
@@ -18,11 +18,11 @@ Liste nominative du personnel d'encadrement.
 
 Liste nominative des examinateurs (LPE).
 
-Procédures (permettant d'assurer le respect des normes de contrôle des compétences linguistiques telles que décrites au FCL 055 d et à l'appendice 2 de la partie FCL de l'annexe I au règlement 1178/2011 modifié) :
+Procédures (permettant d'assurer le respect des normes de contrôle des compétences linguistiques telles que décrites au FCL 055 a et b et à l'appendice 2 de la partie FCL de l'annexe I au règlement 1178/2011 modifié) :
 
 Description de l'organisation des contrôles.
 
-Description du matériel de contrôle.
+Description du matériel de contrôle, dont le matériel d'enregistrement des épreuves.
 
 Description des outils de contrôle (bandes préenregistrées, banques de données...).
 
