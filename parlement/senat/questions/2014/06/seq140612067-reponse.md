@@ -1,0 +1,9 @@
+# Réponse à la question SEQ140612067
+
+- Question : [SEQ140612067](seq140612067.md) — Congé pour engagement bénévole
+
+## Réponse
+
+*Ville, jeunesse et sports, JO du 2014-11-20, page 2596*
+
+Lors de sa campagne électorale, le président de la République a proposé l'idée d'un « congé d'engagement » pour faciliter et valoriser le bénévolat des responsables associatifs ayant par ailleurs une activité professionnelle. Le haut conseil à la vie associative (HCVA) a été saisi pour conduire une réflexion sur l'utilisation des congés prévus dans le code du travail qui permettent de favoriser l'engagement bénévole des actifs et pour formuler des préconisations sur l'opportunité de créer un congé d'engagement bénévole et ses modalités de mise en œuvre. À l'automne de 2013, le HCVA concluait à la difficulté d'émettre un avis en l'absence d'études et de données sur l'utilisation des congés existants. Il envisageait, par ailleurs, plusieurs pistes de congé : une libération de temps exceptionnelle sur le temps de travail pour les élus bénévoles ou les bénévoles désignés par leur association, un congé de plusieurs mois pour une mission sur le territoire à travers une suspension du contrat de travail, un renforcement des possibilités offertes par le mécénat de compétences. Pour approfondir ces pistes, un groupe de travail a été immédiatement chargé d'étudier les leviers et les freins à l'engagement des actifs. Le projet de loi relatif à l'économie sociale et solidaire adopté prévoit que le Gouvernement remette au Parlement un rapport sur l'évaluation des dispositifs de congés existants pour favoriser le bénévolat associatif et sur la création d'un congé d'engagement pour l'exercice de responsabilités associatives bénévoles. Ce rapport, qui sera remis au ministre au début de novembre, s'appuie sur celui du groupe de travail animé par le ministère qui fera une série de propositions en faveur d'un congé d'engagement.
