@@ -1,0 +1,9 @@
+# Réponse à la question SEQ140411369
+
+- Question : [SEQ140411369](seq140411369.md) — Transposition du droit européen en droit français concernant les notes cachées des constructeurs automobiles et l'accès aux informations techniques des véhicules
+
+## Réponse
+
+*Commerce, artisanat, consommation et économie sociale et solidaire, JO du 2014-11-20, page 2587*
+
+La mise à disposition des informations techniques est encadrée par les règlements européens de réception des véhicules. Ces textes imposent aux constructeurs automobiles de fournir aux réparateurs indépendants un accès approprié, rapide, non-discriminatoire, et normalisé à partir de sites web, à leurs informations techniques. L'autorité en charge de la réception des véhicules a été désignée pour contrôler ce dispositif et prendre les mesures appropriées en cas de manquement. Comme l'a souligné l'autorité de la concurrence dans un avis du 8 octobre 2012, l'accès des réparateurs indépendants à ces informations techniques n'est pas pleinement satisfaisant, ces réparateurs se heurtant à une série de difficultés pratiques. L'autorité de la Concurrence a également souligné qu'il était souhaitable que soit apportée à ces difficultés une réponse harmonisée au plan européen. Aussi les autorités françaises n'ont-elles pas manqué de sensibiliser la Commission européenne sur ce point. Dans ce contexte, la Commission européenne a lancé au mois de janvier 2014 une étude d'impact, portant notamment sur la mise en œuvre des exigences réglementaires concernant l'accès des réparateurs indépendants aux informations techniques des constructeurs. Il va de soi que les autorités françaises seront très attentives aux résultats de cette expertises et veilleront à ce que toute conséquence utile en soit tirée afin de garantir un bon fonctionnement du marché de l'après-vente automobile.
