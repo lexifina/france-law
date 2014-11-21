@@ -20,6 +20,8 @@ Le dossier comprend les pièces suivantes :
 
 7. Trois enveloppes autocollantes de format 23 cm × 16 cm affranchies au tarif en vigueur et libellées au nom et à l'adresse du candidat.
 
+Les convocations aux tests techniques d'accès de la première période (tests se déroulant entre les mois de décembre et février) sont accompagnées d'une attestation de dépôt de dossier complet. Cette attestation est conservée par le candidat dans le cas où il échouerait aux tests, en vue d'une éventuelle inscription aux tests de la seconde période (tests se déroulant entre les mois de mars et avril).
+
 II. ― Modalités d'organisation de l'épreuve de performance
 
 L'épreuve de performance est organisée sur une boucle de 2,5 km et réalisée en technique de patinage, en référence aux règlements FIS. Pour les candidats, le temps de base qui correspond à la note de 20/20, est calculé à partir du temps de course réalisé par l'ouvreur le plus rapide ce jour-là sur le parcours concerné, affecté du coefficient qui lui a été attribué par la section permanente du ski de fond.

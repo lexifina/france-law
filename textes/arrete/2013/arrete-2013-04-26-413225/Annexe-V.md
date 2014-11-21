@@ -20,6 +20,8 @@ Le dossier comprend les pièces suivantes :
 
 7. Une autorisation parentale pour les mineurs.
 
+Les convocations aux tests de capacité technique de la première période (tests se déroulant entre les mois de décembre et février) sont accompagnées d'une attestation de dépôt de dossier complet. Cette attestation est conservée par le candidat dans le cas où il échouerait aux tests, en vue d'une éventuelle inscription aux tests de la seconde période (tests se déroulant entre les mois de mars et avril).
+
 II. ― Organisation et évaluation
 
 Le test de capacité technique est constitué de deux épreuves :
