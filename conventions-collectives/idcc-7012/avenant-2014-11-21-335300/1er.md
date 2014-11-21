@@ -1,0 +1,131 @@
+# Article 1er
+
+L'article 12 A est remplacé par les dispositions suivantes :
+
+« Article 12 A
+
+Conclusion du contrat de travail pour le personnel non cadre
+
+Embauche
+
+Lorsqu'un employeur engage un salarié, il peut demander la dernière attestation de travail, son curriculum vitae et doit lui faire passer une visite médicale d'embauche.
+
+L'engagement est conclu par un contrat conforme à la présente convention collective.
+
+Contrat de travail
+
+Le contrat de travail est établi en double exemplaire, signé par les deux parties et remis à chacune d'elles.
+
+Le contrat de travail, sans préjudice des dispositions des articles L. 1242-12 et L. 1242-13 du code du travail (ancien article L. 122-3), indique obligatoirement :
+
+– la convention collective de référence ;
+
+– la date d'effet du contrat ;
+
+– la nature du contrat ;
+
+– le lieu de travail ;
+
+– la qualification de l'emploi ;
+
+– la catégorie d'emploi ;
+
+– le coefficient de l'emploi ;
+
+– la ou les éventuelles fonctions supplémentaires ;
+
+– la durée et les modalités de la période d'essai ;
+
+– la durée du travail ;
+
+– le salaire réel ;
+
+– les clauses particulières ;
+
+– le régime de protection sociale et la caisse de retraite complémentaire ;
+
+– les primes éventuelles ;
+
+– les avantages en nature éventuels.
+
+Le contrat peut contenir toute clause particulière sous réserve qu'elle ne soit pas contraire aux dispositions de la présente convention collective et de la réglementation en vigueur.
+
+Toute modification ultérieure du contrat fera l'objet d'un nouvel accord écrit des intéressés.
+
+Période d'essai
+
+La période d'essai permet au salarié d'apprécier si les fonctions occupées lui conviennent et à l'employeur d'évaluer les compétences de l'intéressé dans son travail.
+
+La période d'essai, sa durée et son renouvellement doivent être prévus dans le contrat de travail.
+
+1. Durée de la période d'essai
+
+La période d'essai a une durée maximale fixée à :
+
+– 2 mois pour les coefficients 100 à 109 ;
+
+– 3 mois pour les coefficients 111 à 167 sans délégation de pouvoir ;
+
+– 4 mois pour le coefficient 167 lorsque le salarié a une délégation de pouvoir et le coefficient 193.
+
+En cas d'absence du salarié, la période d'essai est prolongée d'une durée équivalente à l'absence, sauf si cette absence est due à la demande de l'employeur.
+
+2. Renouvellement de la période d'essai
+
+Le renouvellement de cette période d'essai est possible une fois pour au maximum une durée équivalente.
+
+L'employeur devra faire savoir au salarié, avant l'expiration de la première période, s'il entend se prévaloir de la faculté de renouveler l'essai.
+
+L'accord écrit du salarié dans le contrat de travail doit être obtenu pour renouveler la période d'essai.
+
+3. Délai de prévenance de la rupture de la période d'essai
+
+Lorsque l'employeur met fin au contrat pendant la période d'essai, il doit prévenir le salarié dans un délai qui ne peut être inférieur à :
+
+Ancienneté du salarié dans l'entreprise |
+
+Délai minimal de prévenance du salarié |
+
+Moins de 8 jours de présence |
+
+24 heures |
+
+Entre 8 jours et 1 mois |
+
+48 heures |
+
+Plus de 1 mois |
+
+2 semaines |
+
+Au moins 3 mois de présence |
+
+1 mois |
+
+Le délai de prévenance ne peut avoir pour effet de prolonger la durée de la période d'essai, renouvellement inclus. Ce délai de prévenance est inclus dans la période d'essai. La rupture de la période d'essai doit tenir compte du délai de prévenance.
+
+Le délai de prévenance court à compter de la date de présentation de la lettre recommandée ou de la lettre remise en main propre ou à compter de la date à laquelle l'employeur ou le salarié a eu connaissance de la rupture de la période d'essai.
+
+Lorsque le salarié est à l'initiative de la rupture, celui-ci doit respecter un préavis de 48 heures.
+
+Ce délai est ramené à 24 heures si la durée de présence du salarié dans l'entreprise est inférieure à 8 jours.
+
+Les parties n'ont pas à motiver leur décision de rompre, aucune procédure particulière ne doit être respectée.
+
+Recommandation :
+
+Une lettre recommandée avec avis de réception ou une remise en main propre contre décharge au salarié ou à l'employeur en double exemplaire avec mention de la date de remise est utile à titre de preuve.
+
+Prime d'ancienneté
+
+Une prime d'ancienneté est versée mensuellement aux salariés non cadres dans les conditions ci-après.
+
+Cette prime fait partie de la rémunération. Elle est soumise aux cotisations d'assurances sociales en application de l'article L. 741-10 du code rural et de la pêche maritime.
+
+Sont assimilées à des heures de présence pour la détermination de l'ancienneté les périodes d'arrêt de travail pour maladie, maternité ou accident du travail, formation continue, congés payés ou formation syndicale.
+
+La prime d'ancienneté est calculée sur le salaire réel, hors primes et heures supplémentaires, dans les conditions suivantes :
+
+– 3 % après 3 ans d'ancienneté ;
+
+– 1 % par année supplémentaire jusqu'à 10 ans d'ancienneté. »
