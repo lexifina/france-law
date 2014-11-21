@@ -1,12 +1,10 @@
 # Article Annexe II
 
-(QUOTAS EN TONNES)
+(Quotas en tonnes)
 
 |
 
-QUOTA EN OCÉAN ATLANTIQUE
-
-à l'est de la longitude 45° Ouest
+QUOTA EN OCÉAN ATLANTIQUE À L'EST DE LA LONGITUDE 45° OUEST
 
 |
 
@@ -24,11 +22,17 @@ Pour la pêche au chalut
 
 |
 
-Pour la pêche à la ligne et à la canne
+Pour la pêche
+
+à la ligne
+
+et à la canne
 
 |
 
-Pour la pêche à la palangre
+Pour la pêche
+
+à la palangre
 
 |
 
@@ -132,7 +136,7 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-Navires adhérant à l'organisation de producteurs Organisation de producteurs de la Cotinière
+Navires adhérant à l'organisation de producteurs Organisation de producteurs de La Cotinière
 
 |
 
@@ -152,7 +156,7 @@ Navires adhérant à l'organisation de producteurs Organisation de producteurs d
 
 |
 
-Navires adhérant à l'organisation de producteurs Marins-Pêcheurs de Basse Normandie (OPBN)
+Navires adhérant à l'Organisation de producteurs marins-pêcheurs de Basse-Normandie (OPBN)
 
 |
 
@@ -172,7 +176,7 @@ Navires adhérant à l'organisation de producteurs Marins-Pêcheurs de Basse Nor
 
 |
 
-Navires adhérant à l'organisation de producteurs Organisation de producteurs des pêcheurs artisans de l'île de Noirmoutier (OPPAN)
+Navires adhérant à l'Organisation de producteurs Organisation de producteurs des pêcheurs artisans de l'île de Noirmoutier (OPPAN)
 
 |
 
@@ -271,5 +275,3 @@ Total
 0
 
 |
-
-.
