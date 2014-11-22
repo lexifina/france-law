@@ -118,6 +118,24 @@ O
 
 |
 
+Mayotte-Longoni
+
+|
+
+FR LON 1
+
+|
+
+Port
+
+|
+
+HC, NHC-NT
+
+|
+
+|
+
 HC = tous produits de consommation humaine.
 
 NHC = autres produits non destinés à la consommation humaine.

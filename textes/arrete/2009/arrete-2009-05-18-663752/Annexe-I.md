@@ -386,7 +386,7 @@ Port
 
 |
 
-HC (1), NHC
+HC (1) (2), NHC-T (FR) (2), NHC-NT
 
 |
 
@@ -562,9 +562,9 @@ O = Autres animaux (y compris animaux de zoo).
 
 (6) Graisses, huiles et huiles de poisson liquides uniquement.
 
-(a) Uniquement primates et animaux non dangereux (au sens de l'arrêté du 10 août 2004 [*]), et présentés en conteneurs fermés, des espèces appartenant aux invertébrés, reptiles, amphibiens et animaux aquatiques d'ornement.
+(a) Uniquement primates, mammifères de la faune sauvage, oiseaux de toutes espèces y compris volailles et animaux non dangereux (au sens de l'arrêté du 10 août 2004 [*]) et présentés en conteneurs fermés, des espèces appartenant aux invertébrés, reptiles, amphibiens et animaux aquatiques d'ornement.
 
-b) Cette autorisation est valable jusqu'au 30 juin 2014.
+b) (supprimé)
 
 c) Uniquement les espèces appartenant aux invertébrés, animaux aquatiques d'ornement, reptiles, amphibiens, oiseaux, rongeurs, lagomorphes et carnivores domestiques.
 

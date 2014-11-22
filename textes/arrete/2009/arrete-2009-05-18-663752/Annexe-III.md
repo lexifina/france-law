@@ -304,6 +304,22 @@ Tous
 
 |
 
+Mayotte-Longoni
+
+|
+
+Aéroport-port
+
+|
+
+Tous
+
+|
+
+|
+
+|
+
 Nantes
 
 |
@@ -382,13 +398,11 @@ Aéroport-port-routier-rail
 
 |
 
-Perpignan
+Tous
 
 |
 
 |
-
-Port-Vendres
 
 |
 
