@@ -1,68 +1,14 @@
 # Article Annexe I
 
-POINTS ET FRÉQUENCES DE PRÉLÈVEMENTS
-
-A. - A l'émergence
-
-OUVERTURE
-
-de l'établissement
+NORMES DE QUALITÉ MICROBIOLOGIQUE DE L'EAU MINÉRALE NATURELLE
 
 |
 
-NOMBRE
-
-de contrôles
+SOURCE
 
 |
 
-TYPE
-
-d'analyses
-
-|
-
-Plus de 7 mois/an
-
-|
-
-4 dont 1 avant l'ouverture
-
-|
-
-CM + BMO + BM1
-
-|
-
-Moins de 7 mois/an
-
-|
-
-3 dont 1 avant l'ouverture
-
-|
-
-CM + BMO + BM1
-
-|
-
-B. - Aux points d'usage
-
-CATÉGORIES
-
-de soins
-
-|
-
-NOMBRE
-
-de contrôles *
-
-|
-
-TYPE
-
-d'analyses
+POINTS D'USAGE
 
 |
 
@@ -70,39 +16,7 @@ d'analyses
 
 |
 
-1 par mois **
-
-1 par mois **
-
-1 par trimestre
-
-|
-
-BMO
-
-BM1
-
-CM
-
-|
-
 (2)
-
-|
-
-1 par mois **
-
-Au moins 1 par trimestre
-
-1 par trimestre
-
-|
-
-BMO
-
-BM1
-
-CM
 
 |
 
@@ -110,30 +24,132 @@ CM
 
 |
 
-1 par mois **
-
-Au moins 1 par trimestre
-
-1 par trimestre
+Coliformes à 37°C dans 250 ml
 
 |
 
-BMO
-
-BM1
-
-CM
+Absence
 
 |
 
-* En conditions normales de fonctionnement.
+Absence
 
-** En l'absence de contamination constatée au terme d'une saison thermale, cette fréquence est portée à 1 par trimestre pour la saison suivante.
+|
+
+Absence
+
+|
+
+Absence
+
+|
+
+Coliformes therrnotolerants (Escherichia coli) à 44,5 °C dans 250 ml
+
+|
+
+Absence
+
+|
+
+Absence
+
+|
+
+Absence
+
+|
+
+Absence
+
+|
+
+Streptocoques fécaux (entérocoques) dans 250 ml
+
+|
+
+Absence
+
+|
+
+Absence
+
+|
+
+Absence
+
+|
+
+Absence
+
+|
+
+Anaérobies sporulés sulfito-réducteurs dans 50 ml
+
+|
+
+Absence
+
+|
+
+Absence
+
+|
+
+Absence
+
+|
+
+Absence
+
+|
+
+Pseudomonas aeruginosa dans 250 ml
+
+|
+
+Absence
+
+|
+
+Absence
+
+|
+
+Absence
+
+|
+
+Absence
+
+|
+
+Legionella/Legionella pneumophila dans 1 litre
+
+|
+
+Absence
+
+|
+
+Absence
+
+|
+
+Absence
+
+|
+
+Absence
+
+|
+
+"Absence" signifie inférieur au seuil de détection de la méthode normalisée.
 
 (1) Soins en contact direct avec les muqueuses respiratoires ou susceptibles de provoquer un contact avec les muqueuses oculaires et respiratoires.
 
 (2) Soins en contact avec les autres muqueuses internes et ingestion d'eau minérale naturelle.
 
-(3) Soins externes individuels (bains, douches) ou collectifs (couloir de marche...).
+(3) Soins externes individuels (bains, douches) ou collectifs (couloir de marche, ...).
 
 |
