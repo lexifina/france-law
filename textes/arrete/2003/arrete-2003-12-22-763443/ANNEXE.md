@@ -1,10 +1,10 @@
 # Article ANNEXE
 
-INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
+Informations requises pour l'inscription du titre professionnel au répertoire national des certifications professionnelles
 
 Intitulé :
 
-Titre professionnel : mécanicien(ne) réparateur(trice) de cycles et motocycles.
+Titre professionnel : mécanicien (ne) réparateur (trice) de cycles et motocycles.
 
 Niveau : V.
 
@@ -12,113 +12,101 @@ Code NSF : 252 r.
 
 Résumé du référentiel d'emploi
 
-Le (la) mécanicien(ne) réparateur(trice) de cycles et motocycles effectue l'entretien courant, les révisions et les remises en état de cycles, de motocycles, ainsi que d'autres engins de loisirs à moteur 2 ou 4 temps.
+Le mécanicien réparateur de cycles et motocycles réalise les interventions de préparation et de service après-vente des cycles, motocycles et autres engins légers de loisirs à 2,3 ou 4 roues, pourvus ou non d'une motorisation de type thermique ou électrique.
 
-Pour établir un diagnostic suite à une avarie de fonctionnement, il (elle) recueille les informations auprès du client, analyse les indices et les symptômes en réalisant les essais et les contrôles appropriés.
+A partir d'une demande de travail, le mécanicien prend en charge le véhicule confié pour intervention.
 
-Il (elle) effectue la réparation des moteurs, des différents organes, des circuits et équipements, en s'appuyant sur les schémas électriques, les plans d'ensemble et les modes opératoires définis par les constructeurs dans les manuels de réparation.
+Il s'informe des prescriptions du fabriquant concernant les modes opératoires et les ingrédients à utiliser.
 
-Il (elle) assemble, règle, met au point les bicyclettes et les engins neufs et prépare à la vente les matériels d'occasion. Il (elle) informe les clients sur les caractéristiques des différents matériels proposés et effectue l'installation des accessoires et des équipements complémentaires, en respectant leur demande. Pour procéder à ces montages, il (elle) peut être conduit à réaliser des supports ou des pièces d'adaptation nécessitant l'utilisation de procédés de mécanique générale et de soudage.
+Il effectue l'entretien périodique, le remplacement de pièces d'usure, le dépannage et la réparation des différents organes et équipements du véhicule afin de le rendre conforme à son état d'origine.
 
-L'activité de service après-vente des cycles et motocycles s'exerçant généralement dans de très petites structures, son domaine d'intervention peut être étendu à la réception des clients, à la gestion de l'intervention, à l'établissement de devis et à la distribution des pièces de rechange.
+Il effectue le montage d'accessoires complémentaires ainsi que leur mise en service éventuelle.
 
-Il (elle) exerce son activité dans des entreprises de vente et de réparation :
+Il restitue le véhicule au client en lui fournissant des explications et des recommandations d'usage.
 
-Polyvalentes : bicyclettes, cycles motorisés légers et scooters ;
+Parallèlement, il effectue les travaux de préparation à la vente de cycles neufs ou d'occasion.
 
-Spécialisées en motocycles, mono ou multimarques ;
+Il réalise des assemblages mécano-soudés pour la confection d'outils ou pour un montage particulier.
 
-Spécialisées en cycles (vélocistes).
+Il participe à la réception des clients, à l'établissement de devis et à la distribution de pièces de rechange.
 
-Capacités attestées et descriptif
+L'emploi s'exerce seul ou en équipe, dans un atelier communiquant ou pas avec l'espace de vente.
 
-des composantes de la certification
+Bien que s'agissant d'un emploi technique, les contacts avec la clientèle sont fréquents pour la prise en charge d'un matériel, l'explication d'une facture, le conseil technique ou le conseil à la vente.
 
-1. Réaliser le service après-vente des cycles
+L'environnement de travail peut être bruyant et soumis à diverses pollutions pour ce qui concerne les engins à moteurs thermiques (hydrocarbures, gaz d'échappement, produits de dégraissage).
 
-Réceptionner et prendre en charge des cycles pour une intervention de service après-vente.
+Le travail, essentiellement manuel, nécessite une bonne dextérité, un soin particulier et une bonne précision dans la manipulation de pièces fines et délicates, lors du désassemblage et du contrôle d'un moteur ou de sous-ensembles mécaniques ou électriques.
 
-Effectuer l'entretien et les réglages courants des cycles.
+Les fluctuations saisonnières de l'activité incitent les entreprises à développer une diversité de produits et de services complémentaires, impliquant une bonne polyvalence et adaptabilité des opérateurs.
 
-Remettre en état les différents types de cycles.
+Capacités attestées et descriptif des composantes de la certification
 
-Monter et régler des cycles neufs ou d'occasion destinés à la vente.
+1. Réaliser le montage et le service après-vente des cycles et des vélos à assistance électrique
 
-Poser et adapter des accessoires complémentaires sur cycles.
+Effectuer l'entretien, les réglages et la remise en état des cycles.
 
-Réaliser des assemblages mécanosoudés pour confectionner des outils spécifiques et des pièces d'adaptation de cycles.
+Monter et régler les cycles neufs ou d'occasion destinés à la vente.
 
-Conseiller le client et développer des arguments techniques pour la vente de cycles et d'accessoires.
+Monter et adapter les accessoires complémentaires de cycles.
 
-2. Effectuer les interventions de service rapide
+Contrôler, réviser ou remplacer les équipements de cycles.
 
-des cycles motorisés légers
+Contrôler et remettre en état un système de motorisation de vélo à assistance électrique.
 
-Effectuer l'entretien périodique courant des cycles motorisés légers.
+2. Réaliser l'entretien périodique et la préparation à la vente des motocycles thermiques et électriques
 
-Remplacer les pièces d'usure courantes des cycles motorisés légers.
+Effectuer l'entretien périodique et le remplacement des pièces d'usure courantes des motocycles.
 
-Monter et régler des cycles à moteur neuf ou d'occasion destinés à la vente.
+Monter et régler les motocycles neufs ou d'occasion destinés à la vente.
 
-Réparer les moteurs 2 temps des cycles motorisés légers.
+Monter et adapter les accessoires complémentaires de motocycles.
 
-Remettre en état les organes des cycles motorisés légers.
+Contrôler, dépanner et remettre en état le système électrique de propulsion d'un motocycle électrique.
 
-Remettre en état les équipements électriques des cycles motorisés légers.
+3. Réparer les motocycles à moteurs thermiques
 
-Poser et adapter des accessoires complémentaires sur cycles motorisés légers.
+Effectuer la réparation mécanique des moteurs thermiques 2 et 4 temps de motocycles.
 
-3. Remettre en état les moteurs et les organes de motocycles
+Contrôler, dépanner ou remplacer les équipements périphériques de motocycles.
 
-Réparer les moteurs 4 temps de motocycles.
-
-Effectuer la réfection d'embrayages et de boîtes de vitesses de motocycles.
-
-Contrôler et régler la carburation des motocycles.
+Remettre en état les systèmes de transmission des motocycles.
 
 Remettre en état les organes de la partie cycle des motocycles.
 
-Remettre en état les organes électriques des motocycles.
+Les différents secteurs d'activités concernés sont principalement :
 
-4. Diagnostiquer, dépanner et mettre au point les motocycles
+-la vente et le service après-vente des cycles et motocycles ;
 
-Effectuer le diagnostic de dysfonctionnement des moteurs de motocycles et réaliser leur mise au point.
+-le commerce et de la distribution de matériel de sport et de loisir ;
 
-Réaliser le diagnostic de dysfonctionnement des organes de motocycles.
+-la maintenance en sous-traitance de flottes de cycles/ motocycles, d'entreprises ou de collectivités ;
 
-Remettre en conformité les circuits et les équipements électriques de motocycles.
+-les centres de loisirs (parcs d'attractions, golf, club de karting) pour la maintenance de leur flotte ;
 
-Installer et mettre en service les équipements complémentaires de motocycles.
+-la distribution et le service après-vente des matériels roulant pour personnes handicapés.
 
-Expertiser des motocycles accidentés.
+Les types d'emplois accessibles sont les suivants :
 
-Secteurs d'activités ou types d'emploi
+Vélociste, mécanicien cycles, conseiller technique cycles.
 
-accessibles par le détenteur du titre
+Mécanicien de maintenance de cycles/ motocycles (sous-traitant gestionnaire de flotte).
 
-Le (la) mécanicien(ne) réparateur(trice) de cycles et motocycles exerce ses activités le plus souvent dans :
+Mécanicien en cycles et motocycles, motociste, mécanicien réparateur de motocycles.
 
-- des concessions, distributeurs ou importateurs de cycles à moteurs ;
+Loueur de cycles/ motocycles.
 
-- des entreprises artisanales de vente et de service après-vente des cycles à moteurs ;
+Mécanicien de maintenance de véhicules pour handicapés.
 
-- des magasins de vente de la grande distribution des matériels de sport (cycles) ;
-
-- des entreprises artisanales spécialisées dans les cycles ;
-
-- des entreprises de location de matériels de loisirs ;
-
-- des écuries de sports mécaniques (préparation de véhicules pour la compétition).
-
-Réglementation de l'activité :
-
-Accords de convention collective n° 3034 " services de l'automobile ".
-
-Réglementation professionnelle en vigueur, afférente à l'hygiène, la sécurité et la protection de l'environnement dans le milieu de travail.
+Ouvrier de maintenance de cycles ou engins légers motorisés dans un parc de loisirs ou de vélos en libre service.
 
 Code ROME :
 
-44322 - Mécanicien en motocycles, matériels d'entretien et de loisirs.
+I1607-Réparation de cycles, motocycles et motoculteurs de loisirs.
+
+Réglementation de l'activité :
+
+L'activité est réglementée par le décret n° 95-937 du 24 août 1995 et le décret n° 98 246 du 2 avril 1998 relatif à la qualification professionnelle.
 
 Autorité responsable de la certification :
 
@@ -126,12 +114,10 @@ Ministère chargé de l'emploi.
 
 Bases légales et réglementaires :
 
-Loi n° 2002-73 du 17 janvier 2002 de modernisation sociale ;
+Articles L. 335-5 et suivants et R. 338-1 et suivants du code de l'éducation ;
 
-Décret n° 2002-1029 du 2 août 2002 ;
-
-Arrêté du 25 novembre 2002.
+Arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi.
 
 NOTA :
 
-Arrêté du 23 décembre 2008 art. 1 : L'arrêté du 22 décembre 2003 a prorogé le présent arrêté jusqu'au 6 janvier 2010.
+Arrêté du 15 mai 2014 article 1 : Le titre professionnel de mécanicien(ne) réparateur(trice) de cycles et motocycles est enregistré au répertoire national des certifications professionnelles pour une durée de cinq ans à compter du 23 novembre 2014.
