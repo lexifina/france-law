@@ -1,0 +1,9 @@
+# Réponse à la question n° 65474
+
+- Question : [65474](65474.md) — Question n° 65474 — livret A; prélèvements; réglementation
+
+## Réponse
+
+*JO du 2014-11-25*
+
+Le livret A, produit d'épargne réglementé, bénéficiant d'un avantage fiscal, n'a pas vocation à se substituer au compte courant. Il est en conséquence logique que les opérations de prélèvement qui peuvent être effectuées sur un livret soient limitées. Il convient de rappeler que toute personne physique ou morale domiciliée en France, dépourvue d'un compte de dépôt, a droit à l'ouverture d'un tel compte dans l'établissement de crédit de son choix. En cas de refus d'ouverture d'un tel compte et conformément à l'article L. 312-1 du code monétaire et financier, il est possible de bénéficier de la procédure du droit au compte qui permet à la Banque de France de désigner un établissement de crédit tenu d'ouvrir un tel compte. La banque, qui sera désignée par la Banque de France pour ouvrir le compte, pourra limiter l'utilisation de ce compte aux services bancaires de base. Ceux-ci sont gratuits. Ces dispositions sont prévues par les articles D. 312-5 et D. 312-6 du code monétaire et financier. Le gouvernement a récemment renforcé cette procédure de droit au compte, dans la loi de séparation et de régulation des activités bancaires. La loi prévoit ainsi l'obligation pour les banques de remettre au demandeur une attestation de refus d'ouverture de compte. Elle fixe un délai de 3 jours ouvrés après réception des pièces requises pour l'ouverture d'un compte par l'établissement désigné par la Banque de France. Elle élargit enfin la procédure en créant une possibilité de saisine de la Banque de France par le conseil général, la caisse d'allocations familiales, le centre communal ou intercommunal d'action sociale dont le demandeur dépend ou une association familiale, une association de consommateurs ou une association de lutte contre l'exclusion.
