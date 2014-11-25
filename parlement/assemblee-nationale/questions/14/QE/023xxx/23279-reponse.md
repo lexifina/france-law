@@ -1,0 +1,9 @@
+# Réponse à la question n° 23279
+
+- Question : [23279](23279.md) — Question n° 23279 — lutte et prévention; propositions
+
+## Réponse
+
+*JO du 2014-11-25*
+
+L'action engagée par le ministère se veut cohérente depuis 2012 : amélioration du parc immobilier pénitentiaire, sécurisation des établissements et mise en oeuvre de dispositifs législatifs et méthodologie de travail en faveur de la réinsertion, de façon privilégiée en milieu ouvert. Ainsi la loi du 15 août 2014 relative à l'individualisation des peines et renforçant l'efficacité des sanctions pénales, en créant la contrainte pénale, offre une nouvelle alternative aux magistrats pour les publics les plus désocialisés aux fins d'éviter les incarcérations de courte durée. La libération sous contrainte, qui entrera en viguer à compter du 1er janvier 2015, a quant à elle, vocation à réduire notablement le taux de sorties « sèches » de détention en systématisant l'examen de chaque situation individuelle pour envisager un aménagement de peine, dont le placement sous surveillance éléctronique fait effectivement partie. Ainsi, en lieu et place de la surveillance éléctronique de fin de peine, instaurée sous le précédent gouvernement uniquement pour réduire la population carcérale mais ne permettant aucunement un accompagnement par le SPIP ni un travail sur les facteurs de réinsertion, la libération sous contrainte doit donner lieu à de véritables aménagements de peines, dans le cadre d'un suivi inndividualisé et d'un accompagnement vers la sortie de délinquance par le SPIP. A cet effet, ce sont 1000 personnels qui seront recrutés au bénéfice des SPIP, dont 360 conseillers pénitentiaires d'insertion et de probation déjà entrés en formation début septembre 2014 à l'Ecole nationale d'administration pénitentiaire, et l'administration pénitentiaire travaille à la rénovation des méthodes d'intervention et de formation de ces professionnels.
