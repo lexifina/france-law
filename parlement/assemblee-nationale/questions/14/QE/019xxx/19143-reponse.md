@@ -1,0 +1,9 @@
+# Réponse à la question n° 19143
+
+- Question : [19143](19143.md) — Question n° 19143 — effectifs; rapport; propositions
+
+## Réponse
+
+*JO du 2014-11-25*
+
+La Garde des sceaux attache une attention particulière à l'évaluation et la recherche comme fondement des politiques mises en oeuvre par le ministère de la justice. Dès son arrivée, avec l'installation de la conférence de consensus, méthode inédite en matière judiciaire, la Garde des sceaux a impulsé cette dynamique pour l'élaboration de politique pénale et pénitentiaire rigoureuses. Ainsi, les travaux de la conférence de consensus ont permis de rassembler et diffuser une meilleure connaissance des études menées depuis de très nombreuses années, en France et à l'étranger dans le domaine de la probation. Ils ont également permis d'aboutir au projet de loi du 15 août 2014 relative à la prévention de la récidive et de l'individualisation des peines. Mais la réforme pénale, ambitieuse, voulue par la Garde des sceaux dépasse le cadre du texte de loi. Ainsi, elle a installé, le 18 octobre 2013 un comité de pilotage sur les métiers des services pénitentiaires d'insertion et de probation (SPIP). Outre les nombreuses thématiques assignées à ces groupes de travail, les réflexions visant les outils d'évaluation mis à la disposition des professionnels sont accompagnées par une recherche-action pilotée par la direction de l'administration pénitentiaire afin d'élaborer de nouvelles méthodes de travail sur la base d'expérimentations de terrain et d'évaluations scientifiques. Cette action recherche prévue sur une durée de dix huit mois, doit permettre d'expérimenter des outils d'évaluation déjà utilisés en Europe et de les adapter à la délinquance nationale. Jamais une méthode aussi pragmatique et scientifique n'a été mise en oeuvre à ce jour pour armer les SPIP dans leur méthodologie d'intervention.
