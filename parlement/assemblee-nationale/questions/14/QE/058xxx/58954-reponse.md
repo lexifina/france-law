@@ -1,0 +1,9 @@
+# Réponse à la question n° 58954
+
+- Question : [58954](58954.md) — Question n° 58954 — identifiants de connexion; liste; épuisement
+
+## Réponse
+
+*JO du 2014-11-25*
+
+La disponibilité très limitée en adresses IPv4 au niveau européen est une réalité depuis deux ans. Le RIPE NCC (en charge de la gestion des blocs d'adresses IP pour l'Europe et le Proche et Moyen Orient) ne distribue plus aujourd'hui de blocs d'adresses IPv4 à ses adhérents. Les opérateurs et hébergeurs ont d'ores et déjà pris leurs dispositions afin de ne pas être affectés par cette situation. Si certains ont décidé de déployer IPV6 dans leurs infrastructures, d'autres ont décidé de réorganiser leurs ressources en adresses IPv4 et de déployer des solutions de type NAT (Network Address Translation). Les acteurs économiques ayant décidé de déployer le protocole IPv6 ont pu se fournir auprès des grands équipementiers qui proposent déjà une large gamme compatible en IPv6. Ces mêmes équipementiers font d'ailleurs la promotion du déploiement IPv6 depuis plusieurs années. Selon Google, en septembre 2014, 5,6 % de ses utilisateurs en France accèdent au moteur de recherche au travers d'une adresse IPV6, contre environ 4 % dans le monde et la France continue à être l'un des leaders mondiaux en termes d'adoption de l'IPV6 dont le déploiement devrait, d'après les spécialistes, fortement s'accélérer au cours des prochains mois (nouveaux équipements de réseau, nouveaux terminaux...). Afin de mobiliser les administrations aux enjeux liés à la transition IPv4/Pv6, une circulaire interministérielle du 8 décembre 2011 a été diffusée demandant aux administrations d'intégrer la norme IPv6 dans leurs marchés publics d'achats de biens et de services faisant appel au protocole IP. Il a été également exigé que les services d'information de l'administration à destination du public soient accessibles en IPv4 et IPv6.
