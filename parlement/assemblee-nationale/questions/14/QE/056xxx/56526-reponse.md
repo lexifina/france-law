@@ -1,0 +1,9 @@
+# Réponse à la question n° 56526
+
+- Question : [56526](56526.md) — Question n° 56526 — Paris; horaires d'ouverture; information du public
+
+## Réponse
+
+*JO du 2014-11-25*
+
+Le nombre de stations-service diminue régulièrement en France depuis plusieurs années et à Paris en particulier où son nombre est passé de 280 en 1995 à 120 en 2012. Cette diminution régulière s'explique par divers facteurs, comme la baisse des consommations de carburants, les coûts de travaux de mise en conformité ou de modernisation, mais aussi le déplacement de zones de chalandise pouvant conduire à la fermeture de certaines stations. Cela étant, la vente de produits pétroliers en France est une activité libre qui obéit aux lois du marché. L'organisation de l'offre de distribution de carburant, y compris nocturne, ne relève donc pas de la compétence de l'État. Néanmoins, soucieux de garantir un réseau de stations-service adapté aux besoins du public, le Gouvernement a créé par le décret n° 91-284 du 19 mars 1991, le Comité professionnel des distributeurs de carburant (CPDC). Ce Comité dont le budget est intégralement étatique, a pour mission principale de soutenir directement les petits détaillants par des aides appropriées pour les mises en conformité en regard de la protection de l'environnement, pour le développement de leur activité, mais aussi lors de la fermeture définitive des points de vente. Il est en outre également chargé de veiller au maintien d'une répartition équilibrée des stations-service sur l'ensemble du territoire national. Enfin, le site internet du Gouvernement « prix-carburants. gouv. fr » sur lequel les stations- service ont une obligation d'affichage de leurs prix de vente, permet aux consommateurs, non seulement de comparer les prix entre les points de vente, mais également de disposer d'informations sur les différents services proposés et sur les horaires d'ouverture.
