@@ -1,0 +1,9 @@
+# Réponse à la question n° 63059
+
+- Question : [63059](63059.md) — Question n° 63059 — fraudes; lutte et prévention
+
+## Réponse
+
+*JO du 2014-11-25*
+
+Le ministre de l'intérieur souhaite indiquer à l'honorable parlementaire que la famille de l'intéressée, dont toutes les demandes d'asile avaient été rejetées et qui a été déboutée de l'ensemble de ses recours juridictionnels, a été éloignée légalement du territoire français. Tout au long de son séjour en France, elle a multiplié les fraudes et les dissimulations pour induire en erreur les autorités françaises, bénéficier de droits qu'elle n'avait pas et se maintenir irrégulièrement sur le territoire. Les autorités françaises ont appris que cette famille aurait entrepris des démarches pour obtenir des passeports croates et bénéficier des libertés de circulation et d'établissement reconnues aux citoyens de l'Union européenne. Cette famille n'avait jamais revendiqué une nationalité croate lors de sa longue présence en France. A supposer même qu'elle obtienne cette nationalité, elle ne bénéficierait pas pour autant d'un droit au séjour sur le territoire national. Il faudra qu'elle atteste de ressources suffisantes, qu'elle justifie que sa liberté de circulation ne soit pas constitutive d'un abus de droit, et enfin que sa présence ne constitue pas une menace grave pour l'ordre public. Les autorités françaises feront preuve de toute la rigueur nécessaire dans l'appréciation de cette situation. La législation et la réglementation en vigueur n'accordent pas aux étrangers en situation irrégulière sur le territoire des droits sociaux équivalents aux citoyens français ou aux étrangers séjournant et travaillant régulièrement en France. Ainsi, ils n'ont pas accès au revenu de solidarité active ou à tout autre revenu de remplacement ou minima social.
