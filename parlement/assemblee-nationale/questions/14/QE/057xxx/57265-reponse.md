@@ -1,0 +1,9 @@
+# Réponse à la question n° 57265
+
+- Question : [57265](57265.md) — Question n° 57265 — réforme; conséquences
+
+## Réponse
+
+*JO du 2014-11-25*
+
+L'indemnité compensatoire de handicaps naturels (ICHN) sera fortement revalorisée au cours de la prochaine programmation de la politique agricole commune. L'augmentation des montants unitaires de 15 % déjà effectuée en 2014 sera suivie en 2015 de l'ajout d'un montant supplémentaire pour tous les bénéficiaires de l'ICHN attribué jusqu'à 75 hectares. Grâce à la mobilisation des crédits du ministère en charge de l'agriculture et du fonds européen agricole pour le développement rural (FEADER), la nouvelle ICHN sera reçue à taux plein dès 2016. Par ailleurs, à partir de 2015, le bénéfice de l'aide sera étendu à tous les éleveurs laitiers dans l'ensemble des zones défavorisées. Ce qui représentera un effort supplémentaire d'environ 70 M€. Les éleveurs de porcs de montagne mixtes et spécialisés deviendront également éligibles à l'ICHN. Le budget consacré à cette mesure représentera plus d'un milliard d'euros au terme de la revalorisation. 83 % des bénéficiaires de la prime herbagère agro-environnementale (PHAE) reçoivent également l'ICHN. La revalorisation de l'ICHN bénéficiera donc directement à ces agriculteurs et permettra de compenser la suppression de la PHAE en 2015. Les agriculteurs situés en dehors des zones défavorisées et ne bénéficiant donc pas de l'ICHN pourront souscrire à des mesures agro-environnementales et climatiques (MAEC) selon les caractéristiques de l'exploitation et les projets agro-environnementaux et climatiques mis en oeuvre au niveau régional. A titre d'exemple, la MAEC « systèmes herbagers et pastoraux » vise au maintien des surfaces toujours en herbe à l'échelle de l'exploitation agricole dans les territoires où un risque de disparition de ces systèmes est identifié.
