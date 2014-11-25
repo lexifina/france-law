@@ -1,0 +1,9 @@
+# Réponse à la question n° 54364
+
+- Question : [54364](54364.md) — Question n° 54364 — sécurité; maison d'arrêt d'Ajaccio; perspectives
+
+## Réponse
+
+*JO du 2014-11-25*
+
+La sous-commission départementale pour la sécurité contre les risques d'incendie, dans son procès-verbal en date du 20 mai 2013, a émis un avis défavorable à la poursuite de l'exploitation de la maison d'arrêt d'Ajaccio. Il n'est pas envisagé, à ce jour, de fermer cet établissement, ne serait ce que pour permettre aux personnes détenues insulaires de pérenniser leurs liens familiaux, au sein d'un établissement qui fait l'objet de travaux réguliers d'entretien et de maintenance. Au vu de cette alerte, une réunion relative à la sécurité incendie s'est tenue le 26 juin dernier à la maison d'arrêt d'Ajaccio, entre les représentants des services pénitentiaires et ceux de la préfecture de Haute-Corse, afin d'aborder les différents points soulevés par le procès-verbal mentionné ci-dessus et les dispositions mises en oeuvre pour lever les réserves. A la suite de cette réunion, des travaux de mise en conformité électrique et d'installation d'un groupe électrogène sont programmés, pour un montant de 73 200 euros. Par ailleurs, la poursuite ou la mise en oeuvre des dispositions suivantes ont été validées : - la conservation et le suivi du registre incendie ; - l'accessibilité de plans exploitables ; - la poursuite des vérifications des installations de gaz et électriques ; - le retrait de produits inflammables au sein de l'établissement ; - l'isolation des locaux à risque ; - la mise en oeuvre d'une formation du personnel par des agents dédiés ; - le diagnostic du système de détection incendie ; - la prescription d'études d'aménagement du bâtiment. La mise en application de ces prescriptions devrait conduire à lever la quasi-intégralité des réserves mentionnées dans le procès-verbal.
