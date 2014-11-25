@@ -1,0 +1,9 @@
+# Réponse à la question n° 63814
+
+- Question : [63814](63814.md) — Question n° 63814 — redéfinition; dénomination
+
+## Réponse
+
+*JO du 2014-11-25*
+
+A compter de mars 2015, au terme du renouvellement général des assemblées départementales, il n'existera plus de chefs-lieux de canton mais des bureaux centralisateurs. Pour en déterminer la liste, le Gouvernement a retenu les principes suivants. Lorsque le périmètre d'un canton reste inchangé ou diffère faiblement du périmètre précédent, le bureau centralisateur correspond à l'actuel chef-lieu, quelle que soit sa population. Dans le cas inverse, c'est la commune la plus peuplée du nouveau canton qui est en principe retenue comme bureau centralisateur, sauf particularités géographiques, historiques ou culturelles majeures. La loi n° 2013-403 du 17 mai 2013 précise en tout état de cause que : « La qualité de chef-lieu de canton est maintenue aux communes qui la perdent dans le cadre d'une modification des limites territoriales des cantons jusqu'au prochain renouvellement général des conseils départementaux ». Ce délai doit permettre de conduire une réflexion spécifique sur les critères d'éligibilité des communes à certaines dotations, le Gouvernement étant conscient de l'importance que revêtent ces dotations pour les communes bénéficiaires qui remplissent souvent une fonction de développement et de structuration de leur territoire. Le Premier ministre s'est d'ailleurs engagé le 19 novembre 2013, lors du congrès des maires de France, à ce que l'évolution de la carte cantonale n'ait aucune incidence sur les éléments liés à la qualité de chef-lieu de canton, s'agissant notamment de la fraction « bourg-centre » de la dotation de solidarité rurale. Lorsque le nouveau canton porte le nom d'une commune, celle-ci correspond au bureau centralisateur du canton.
