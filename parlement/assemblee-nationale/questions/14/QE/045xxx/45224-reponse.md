@@ -1,0 +1,9 @@
+# Réponse à la question n° 45224
+
+- Question : [45224](45224.md) — Question n° 45224 — contrats aidés; conditions d'accès
+
+## Réponse
+
+*JO du 2014-11-25*
+
+Le ministère du travail de l'emploi de la formation professionnelle et du dialogue social souhaite maintenir un engagement fort auprès des collectivités territoriales et des associations concernées par la mise en oeuvre de la réforme des rythmes scolaires en facilitant le recrutement des publics éloignés du marché du travail. Les contrats aidés (CUI-CAE, CUI-CIE, emplois d'avenir) sont des dispositifs d'aide à l'insertion professionnelle des personnes sans emploi rencontrant des difficultés sociales et professionnelles d'accès à l'emploi, permettant aux employeurs de recruter avec une aide financière de l'Etat. L'orientation des bénéficiaires vers les dispositifs d'emploi et de formation professionnelle les plus adaptés à leurs situations individuelles fait l'objet d'une attention particulière de la part des acteurs en charge de la conclusion des contrats aidés (pôle emploi, missions locales, cap emploi et les conseils généraux). Concernant les emplois d'avenir, sont éligibles par dérogation les jeunes ayant atteint le premier cycle d'enseignement supérieur s'ils résident en zone urbaine sensible (ZUS), en zone de revitalisation rurale (ZRR) ou dans un territoire d'outre-mer. Le Gouvernement n'envisage pas d'étendre le bénéfice des emplois d'avenir aux jeunes ayant atteint un niveau égal ou supérieur au niveau IV, soit titulaires du baccalauréat afin de conserver l'ambition initiale du dispositif, à savoir apporter une première expérience professionnelle réussie et une qualification à des jeunes peu ou pas qualifiés. Ces deux dispositifs doivent être mobilisés en fonction des caractéristiques des recrutements envisagés.
