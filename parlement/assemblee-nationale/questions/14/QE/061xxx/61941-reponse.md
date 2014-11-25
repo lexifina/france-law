@@ -1,0 +1,9 @@
+# Réponse à la question n° 61941
+
+- Question : [61941](61941.md) — Question n° 61941 — hébergements d'urgence des demandeurs d'asile; statut particulier; pertinence
+
+## Réponse
+
+*JO du 2014-11-25*
+
+L'hébergement des demandeurs d'asile dans le cadre du dispositif national d'accueil des demandeurs d'asile est actuellement effectué selon deux modes d'hébergement : l'accueil dans des centres d'accueil pour demandeurs d'asile (CADA) ou le recours au dispositif de l'hébergement d'urgence pour demandeurs d'asile (HUDA). Ce dernier a vocation à répondre au besoin d'hébergement des demandeurs d'asile préalablement à une prise en charge en CADA (en l'absence de place correspondant à la situation familiale) ou non admissibles en CADA (demandeurs d'asile en procédure prioritaire et en procédure dite « Dublin »). Cet hébergement peut être effectué en structure collective ou par le recours à des nuitées hôtelières. Le dispositif national d'accueil des demandeurs d'asile a vocation à répondre à un besoin spécifique en hébergement temporaire pour les demandeurs d'asile durant le temps nécessaire à l'instruction de leur demande d'asile et fait l'objet pour cela d'une programmation particulière. A ce titre, l'hébergement offert dans ce cadre n'entre pas dans le champ des objectifs de la loi de solidarité et de renouvellement urbains qui vise à renforcer l'offre de logement locatif social dans les communes où cette offre est insuffisante. Par ailleurs, le projet de loi relatif à la réforme de l'asile, déposé par le Gouvernement le 23 juillet dernier et dont l'examen par l'Assemblée nationale débutera prochainement, fait évoluer dans son article 15 les modalités d'hébergement des demandeurs d'asile. Il prévoit notamment la création d'un schéma national d'hébergement des demandeurs d'asile destiné à mieux répartir cette offre d'hébergement sur le territoire.
