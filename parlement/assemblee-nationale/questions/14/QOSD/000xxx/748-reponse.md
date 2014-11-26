@@ -1,0 +1,29 @@
+# Réponse à la question n° 748
+
+- Question : [748](748.md) — Question n° 748 — Paris-Normandie; perspectives
+
+## Réponse
+
+*JO du 2014-11-26*
+
+PROJET DE NOUVELLE LIGNE FERROVIAIRE ENTRE PARIS ET LA NORMANDIE
+
+Mme la présidente. La parole est à M. Christophe Bouillon, pour exposer sa question, n° 748, relative au projet de nouvelle ligne ferroviaire entre Paris et la Normandie.
+
+M. Christophe Bouillon. Monsieur le secrétaire d'État chargé des transports, de la mer et de la pêche, ma question porte sur le projet ferroviaire de ligne nouvelle Paris-Normandie, dite LNPN. Ce projet d'envergure représente une chance pour la Normandie : synonyme de rapprochement des territoires, il permettra à Caen, Le Havre, Rouen et Évreux de se rapprocher de Paris. Il sera de plus la colonne vertébrale de l'axe Seine. En résumé, la LNPN représente une chance et un facteur de développement économique et social pour la Normandie. J'y suis donc très favorable et je me réjouis que le bouchon mantois et la gare de Rouen soient traités prioritairement.
+
+Je souhaite toutefois appeler votre attention sur une partie de ce chantier. Sur les deux cents kilomètres de voies ferrées, un tronçon retient particulièrement mon attention : il concerne trente-quatre kilomètres de voies, soit environ 15 % du projet total. Ce tronçon, qui reliera la nouvelle gare Rouen-St Sever à Yvetot, traversera le plateau de Caux et la vallée de l'Austreberthe, deux territoires qui ont déjà connu beaucoup de travaux ces deux dernières années avec la réalisation de l'autoroute A150, une infrastructure qui sera ouverte en 2015 – deux années de remembrements, deux années de travaux qui ont coûté en temps, en énergie et en espaces agricoles. Cela a également affecté, vous l'imaginez, la vie quotidienne des habitants.
+
+Des voies ferrées existent déjà : elles sont empruntées chaque jour. Aussi, monsieur le secrétaire d'État, afin de garantir la tranquillité des habitants des territoires que j'ai cités, afin de garantir la bonne utilisation des deniers publics, afin de limiter l'emprise sur les terres agricoles de ce secteur, je souhaiterais savoir si l'utilisation de ces voies pourra être privilégiée sur ce tronçon de voie ferrée dans le cadre de ce grand projet, dont je rappelle bien évidemment qu'il convient de le réaliser dans les meilleurs délais.
+
+Mme la présidente. La parole est à M. le secrétaire d'État chargé des transports, de la mer et de la pêche.
+
+M. Alain Vidalies, secrétaire d'État chargé des transports, de la mer et de la pêche. Monsieur le député Christophe Bouillon, s'agissant de la liaison nouvelle Paris-Normandie, je tiens à rappeler les conclusions de la commission Mobilité 21 qui, dans son rapport remis le 27 juin 2013, a classé ce projet dans les opérations à réaliser en priorité. Mon prédécesseur a relancé la gouvernance du projet en nommant à la tête du comité de pilotage le préfet Philizot, délégué interministériel au développement de la vallée de la Seine. Il a en particulier demandé à Réseau ferré de France de lancer la première phase d'études préalables à l'enquête d'utilité publique afin que, dès 2016, soit choisie la zone de passage préférentielle sur chacune des trois sections considérées aujourd'hui comme prioritaires : Paris-Mantes, Rouen-Yvetot et Mantes-Évreux.
+
+Un dispositif de gouvernance a été mis en place afin de permettre au plus grand nombre de s'exprimer. La Commission nationale du débat public et le comité de pilotage du projet ont tous deux validé le dispositif de concertation prévu dans le cadre du projet de ligne nouvelle Paris-Normandie. Ce dispositif permettra d'associer largement les collectivités locales aux différentes étapes du processus, via des instances qui seront saisies des dessertes envisagées ainsi que des fuseaux étudiés. Il garantira également l'information et l'expression du grand public, en particulier grâce à un site internet dédié et à l'organisation de réunions publiques.
+
+D'autre part, une démarche complémentaire, baptisée « projet de territoire en lien avec le projet LNPN », permettra de faire le lien entre la mission LNPN réalisée par Réseau ferré de France et les collectivités locales pour discuter notamment des synergies et complémentarités avec les projets de développement économique et d'aménagements urbains. C'est dans ce cadre que sera étudiée la question de l'implantation d'une section nouvelle ou de la réutilisation des voies existantes entre la nouvelle gare d'agglomération de Rouen et le raccordement à la ligne existante dans les environs d'Yvetot. Au-delà de l'aspect technique, le contexte environnemental sera un élément essentiel dans le dossier que devra constituer le maître d'ouvrage pour éclairer ma décision sur les conditions de poursuite du projet. J'invite donc tous les élus et les riverains intéressés par ce projet à participer largement aux diverses instances consultatives.
+
+Mme la présidente. La parole est à M. Christophe Bouillon.
+
+M. Christophe Bouillon. Merci, monsieur le secrétaire d'État, pour ces éclaircissements et pour la volonté exprimée que la concertation puisse jouer. Soyez assuré que nombre d'élus sont très mobilisés pour accompagner ce projet qui, je le répète, est une chance pour notre territoire. Mais, vous l'avez compris également, concernant ce tronçon particulier, un projet autoroutier vient de se terminer, qui a déjà tenu compte des conditions environnementales et des conditions de vie des habitants. Il s'agit d'un territoire qui a gagné en population et connu un phénomène d'étalement urbain autour de l'agglomération rouennaise : beaucoup de responsables sur cette partie du territoire partagent le sentiment que nous avons déjà un tracé optimal avec l'autoroute et qu'il sera difficile d'en trouver un deuxième. Il faut donc privilégier la voie existante ; mais vous nous avez conseillé, avec raison, de nous inscrire dans cette démarche de concertation : c'est ce que nous ferons.
