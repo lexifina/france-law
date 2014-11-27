@@ -1,0 +1,9 @@
+# Réponse à la question SEQ140712661
+
+- Question : [SEQ140712661](seq140712661.md) — Renforcement des sanctions pour harcèlement téléphonique
+
+## Réponse
+
+*Commerce, artisanat, consommation et économie sociale et solidaire, JO du 2014-11-27, page 2641*
+
+À partir d'une démarche d'autorégulation initiée par des professionnels de la vente à distance et de la relation-client, à travers le dispositif géré par l'association PACITEL depuis 2011, le Gouvernement a souhaité mettre en place un dispositif contraignant et généralisé à l'ensemble des secteurs d'activité économique et des professionnels recourant au démarchage téléphonique. Ainsi, l'article 9 de la loi n° 2014-344 du 17 mars 2014 relative à la consommation a mis en place un dispositif permettant aux consommateurs de s'inscrire sur une liste d'opposition au démarchage téléphonique qui sera gérée par un organisme désigné par le ministre de l'économie, du redressement productif et du numérique suite à une mise en concurrence (nouvel article L. 121-34 du code de la consommation). Un décret précisant les conditions de fonctionnement de la liste d'opposition est, actuellement, en cours d'élaboration. Afin que ce dispositif soit efficace, la loi relative à la consommation interdit, sous peine d'amende administrative de 15 000 € pour une personne physique et de 75 000 € pour une personne morale, aux professionnels de prospecter, par voie de démarchage téléphonique, des consommateurs inscrits sur cette liste. En outre, les professionnels devront informer les consommateurs sur l'existence de ce dispositif, dès qu'ils sont amenés à recueillir des données téléphoniques de consommateurs. Le non-respect de cette disposition est puni des mêmes sanctions administratives. Ce nouveau dispositif, en ce qu'il fait l'objet de sanctions administratives dissuasives, va renforcer la protection des consommateurs et le respect de leur vie privée.
