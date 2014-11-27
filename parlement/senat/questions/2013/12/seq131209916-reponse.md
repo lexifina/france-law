@@ -1,0 +1,9 @@
+# Réponse à la question SEQ131209916
+
+- Question : [SEQ131209916](seq131209916.md) — Manquement de la France à son engagement européen concernant la lutte contre l'évasion fiscale
+
+## Réponse
+
+*Finances et comptes publics, JO du 2014-11-27, page 2644*
+
+Conformément aux normes internationales en matière de transparence fiscale, la France dispose d'un cadre juridique permettant l'échange de renseignements le plus large possible avec ses partenaires étrangers. Sa pratique de l'assistance administrative s'inscrit totalement dans cette volonté de coopération internationale. Le cadre juridique et la pratique de l'assistance administrative français ont d'ailleurs été jugés conformes avec les standards internationaux, à l'occasion des travaux d'évaluation conduits par le forum mondial sur la transparence et l'échange de renseignements à des fins fiscales. Dès lors, la France s'est, bien entendu, mobilisée lors de la négociation de la directive n° 2011/16/UE du Conseil du 15 février 2011 sur la coopération administrative dans le domaine fiscal afin qu'y soient inscrits les principes les plus exigeants en matière d'échange de renseignements et s'est donc félicitée de son adoption en 2011. Cela étant, la Commission européenne a estimé, dans un avis motivé du 20 novembre 2013, que la France n'avait pas intégralement transposé la directive n° 2011/16/UE. Afin de lever toute ambiguïté vis-à-vis de la Commission européenne, les articles du livre des procédures fiscales concernés par les dispositions de la directive n° 2011/16/UE ont été modifiés par l'article 72 de la loi n° 2013-1279 de finances rectificative (LFR) pour 2013 afin d'apporter des précisions, notamment sur le champ des impôts couverts. La Commission européenne a alors considéré, le 23 juillet 2014, que la transposition par la France de la directive n° 2011/16/UE était achevée. À ce titre, elle a procédé à un classement de la procédure d'infraction amorcée à l'égard de la France.
