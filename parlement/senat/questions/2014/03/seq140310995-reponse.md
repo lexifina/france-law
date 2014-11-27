@@ -1,0 +1,9 @@
+# Réponse à la question SEQ140310995
+
+- Question : [SEQ140310995](seq140310995.md) — Harmonisation des couleurs de conteneurs de déchets soumis au tri sélectif
+
+## Réponse
+
+*Écologie, développement durable et énergie, JO du 2014-11-27, page 2643*
+
+Le geste de tri individuel du citoyen est la première étape d'une boucle vertueuse de recyclage. L'implication citoyenne est importante, mais la connaissance des consignes de tri est également essentielle : chacun peut faire des erreurs de tri de bonne foi et empêcher ainsi la valorisation d'un lot de déchets. La couleur des poubelles peut jouer sur deux aspects : une couleur est facile à reconnaître et joue sur la connaissance. Au cours de sa vie le citoyen français est amené à déménager et à voyager. La remise en question des réflexes qu'il a acquis dans sa précédente commune est de nature à dégrader à la fois la connaissance et l'implication. L'objectif de recyclage étant national, les différences de consigne entre les communes peuvent générer un doute sur l'utilité même de son geste. Le projet de loi sur la transition énergétique pour la croissance verte prévoit que l'Agence de l'environnement et de la maîtrise de l'énergie (ADEME) mette à disposition des recommandations basées sur un nombre restreint de schémas types harmonisés d'organisation de la séparation des flux de déchets, de consignes de tri correspondantes et de couleurs des contenants associés. La transition vers un dispositif harmonisé se fera progressivement, en s'appuyant sur le renouvellement naturel des parcs de contenants de collecte, avec pour objectif que le déploiement de ce dispositif soit effectif sur l'ensemble du territoire national à l'horizon 2025. Les éco-organismes des filières à responsabilité élargie des producteurs concernés peuvent accompagner cette transition.
