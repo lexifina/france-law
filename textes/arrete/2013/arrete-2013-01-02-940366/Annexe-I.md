@@ -2,63 +2,65 @@
 
 LISTE DES DÉCISIONS DE GESTION DÉLÉGUÉES INTÉRESSANT LES CORPS DE FONCTIONNAIRES ET LES EMPLOIS FONCTIONNELS GÉRÉS PAR LE MINISTRE CHARGÉ DES TRANSPORTS
 
-A. ― Liste des corps de fonctionnaires et des emplois fonctionnels
+A. - Liste des corps de fonctionnaires et des emplois fonctionnels
 
 1° Liste des corps :
 
-― inspecteurs généraux et inspecteurs de l'administration et du développement durable ;
+- inspecteurs généraux et inspecteurs de l'administration et du développement durable ;
 
-― architectes et urbanistes de l'Etat ;
+- architectes et urbanistes de l'Etat ;
 
-― attachés d'administration de l'équipement ;
+- attachés d'administration de l'équipement ;
 
-― chargés d'études documentaires ;
+- chargés d'études documentaires ;
 
-― chargés de recherche ;
+- chargés de recherche ;
 
-― conseillers techniques de service social des administrations de l'Etat ;
+- conseillers techniques de service social des administrations de l'Etat ;
 
-― directeurs de recherche ;
+- directeurs de recherche ;
 
-― ingénieurs des travaux publics de l'Etat ;
+- ingénieurs des travaux publics de l'Etat ;
 
-― inspecteurs des affaires maritimes ;
+- inspecteurs des affaires maritimes ;
 
-― officiers de port ;
+- officiers de port ;
 
-― professeurs techniques de l'enseignement maritime ;
+- professeurs techniques de l'enseignement maritime ;
 
-― assistants de service social des administrations de l'Etat ;
+- assistants de service social des administrations de l'Etat ;
 
-― officiers de port adjoint ;
+- officiers de port adjoint ;
 
-― techniciens de l'environnement ;
+- techniciens de l'environnement ;
 
-― secrétaires d'administration et de contrôle du développement durable ;
+- secrétaires d'administration et de contrôle du développement durable ;
 
-― techniciens supérieurs du développement durable ;
+- techniciens supérieurs du développement durable ;
 
-― adjoints techniques des administrations de l'Etat ;
+- adjoints techniques des administrations de l'Etat ;
 
-― agents techniques de l'environnement ;
+- agents techniques de l'environnement ;
 
-― experts techniques des services techniques ;
+- experts techniques des services techniques ;
 
-― syndics des gens de mer.
+- syndics des gens de mer ;
+
+-dessinateurs de l'équipement.
 
 2° Liste des emplois fonctionnels :
 
-― conseillers d'administration de l'écologie, du développement et de l'aménagement durables ;
+- conseillers d'administration de l'écologie, du développement et de l'aménagement durables ;
 
-― conseillers des affaires maritimes ;
+- conseillers des affaires maritimes ;
 
-― ingénieurs en chef des travaux publics de l'Etat du premier groupe et du deuxième groupe ;
+- ingénieurs en chef des travaux publics de l'Etat du premier groupe et du deuxième groupe ;
 
-― agents principaux des services techniques ;
+- agents principaux des services techniques ;
 
-― chefs de service intérieur.
+- chefs de service intérieur.
 
-B. ― Liste des décisions de gestion déléguées
+B. - Liste des décisions de gestion déléguées
 
 1° Les décisions relatives à l'exercice des fonctions à temps partiel ainsi que le retour dans l'exercice des fonctions à temps plein ;
 
