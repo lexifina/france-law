@@ -6,6 +6,6 @@ Sapin pectiné, sapin de Vancouver, érable plane, érable sycomore, aulne gluti
 
 NOTA :
 
-Arrêté du 9 avril 2014 : L'annexe du présent arrêté peut être consultée sur le site du ministère de l'agriculture, de l'agroalimentaire et de la forêt à l'adresse : http://agriculture.gouv.fr/Fournisseurs-especes-et-provenances-forestieres.
+L'annexe du présent arrêté peut être consultée sur le site du ministère de l'agriculture, de l'agroalimentaire et de la forêt à l'adresse : http://www.agriculture.gouv.fr/Fournisseurs-especes-et-provenances-forestieres
 
-Une copie de l'annexe peut également être demandée par courrier adressé à la direction générale des politiques agricole, agroalimentaire et des territoires, service de la forêt, de la ruralité et du cheval, sous-direction de la forêt et du bois, bureau des investissements forestiers, 19, avenue du Maine, 75732 Paris Cedex 15.
+Une copie de l'annexe peut également être demandée par courrier adressé au ministère de l'agriculture, de l'agroalimentaire et de la forêt, direction générale des politiques agricole, agroalimentaire et des territoires, service de la forêt, de la ruralité et du cheval (sous-direction de la forêt et du bois), bureau des investissements forestiers, 19, avenue du Maine, 75732 Paris Cedex 15
