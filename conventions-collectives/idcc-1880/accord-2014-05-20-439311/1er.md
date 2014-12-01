@@ -1,0 +1,5 @@
+# Article 1er
+
+La forme normale de recrutement demeure le contrat à durée indéterminée à temps complet. Dès lors et en conformité avec l'article L. 3123-14-1 du code du travail, les parties entendent affirmer que le temps de travail des salariés à temps partiel ne pourra être inférieur à 24 heures par semaine ou l'équivalent mensuel ou annuel pour, d'une part, atténuer la précarité des salariés en situation de temps partiel subi et, d'autre part, permettre aux salariés concernés de pouvoir prétendre à un certain nombre de garanties sociales.
+
+Toutefois et par exception à ce principe, une durée inférieure pourra être contractuellement convenue. Cette situation pourra concerner les salariés qui ont plusieurs employeurs et les salariés qui souhaitent un temps de travail inférieur à ce seuil pour faire face à des contraintes personnelles, ceci en conformité avec les dispositions de l'article L. 3123-14-2 du code du travail, ainsi que les étudiants de moins de 26 ans poursuivant des études.
