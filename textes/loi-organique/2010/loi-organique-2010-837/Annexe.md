@@ -346,19 +346,13 @@ Président-directeur général
 
 |
 
-Réseau ferré de France
+SNCF |
 
-|
+Président du conseil de surveillance
 
-Président du conseil d'administration
+Président du directoire
 
-|
-
-Société nationale des chemins de fer français
-
-|
-
-Président du conseil d'administration
+Président délégué du directoire
 
 |
 
