@@ -516,197 +516,141 @@ Déclaratif
 
 |
 
-B. - Enregistrement des redevables non abonnés
+INFORMATIONS ET PIÈCES JUSTIFICATIVES NÉCESSAIRES À L'ENREGISTREMENT DU VÉHICULE
+
+ASSUJETTI ET À LA DÉSIGNATION DU REDEVABLE ENREGISTRÉ NON ABONNÉ
+
+Définitions
+
+1. Peuvent être présentées comme pièce d'identité :
+
+- une carte nationale d'identité ;
+
+- un passeport ;
+
+- un permis de conduire ;
+
+- une carte de résident ou un titre de séjour dans un Etat membre de l'Union européenne ou de l'Espace économique européen ; ou
+
+- tout document émanant d'une autorité officielle, comportant la photo de son titulaire et les informations permettant l'identification de son titulaire.
+
+2. CEMT : l'autorisation CEMT (Conférence européenne des ministres des transports), définie par le Forum international des transports, est délivrée par le pays d'origine du véhicule pour les véhicules de transport de marchandises internationaux.
+
+3. PTAC : poids total autorisé en charge correspondant à la masse en charge maximale admissible en service.
+
+4. Qualité du redevable enregistré : est considéré comme :
+
+- propriétaire : le titulaire du certificat d'immatriculation ou du document équivalent ;
+
+- locataire/sous-locataire : celui qui dispose du véhicule dans le cadre d'un crédit-bail ou d'un contrat de location sans conducteur ;
+
+- utilisateur : celui qui dispose du véhicule à un titre autre que celui de propriétaire, locataire/sous-locataire ou conducteur.
 
 1. Informations relatives au véhicule assujetti
 
-INFORMATIONS À RENSEIGNER
+INFORMATION À RENSEIGNER |
 
-|
+TYPE D'INFORMATION |
 
-TYPE D'INFORMATION
+DOCUMENT À FOURNIR PAR LE REDEVABLE |
 
-|
+1.1. Cas de tous les véhicules à l'exception des véhicules visés au 1.2 |
 
-DOCUMENT À FOURNIR
+1.1.a. Coordonnées du véhicule |
 
-par le redevable
+Numéro et pays d'immatriculation du véhicule tracteur |
 
-|
+Obligatoire |
 
-1.1. Cas de tous les véhicules à l'exception des véhicules visés au 1.2
+Certificat d'immatriculation ou document équivalent |
 
-|
+PTAC du tracteur |
 
-1.1.a Coordonnées du véhicule
+Obligatoire (14) |
 
-|
+Certificat d'immatriculation ou document équivalent, ou
 
-Numéro et pays d'immatriculation du véhicule tracteur
+certificat de conformité, ou
 
-|
+CEMT, ou
 
-Obligatoire
+attestation constructeur |
 
-|
+Classe d'émission EURO |
 
-Certificat d'immatriculation
+Obligatoire (15) |
 
-|
+Certificat d'immatriculation ou document équivalent, ou
 
-PTAC du tracteur
+certificat de conformité, ou
 
-|
+CEMT, ou
 
-Obligatoire
+attestation constructeur, ou
 
-|
+pour les véhicules immatriculés dans l'Union européenne, justificatif de la date de première immatriculation |
 
-Certificat d'immatriculation
+Nombre d'essieux du tracteur |
 
-|
+Facultative (16) |
 
-PTRA du tracteur
+Certificat de conformité |
 
-|
+1.1.b. Coordonnées des personnes |
 
-Obligatoire
+Nom et prénom ou raison sociale du titulaire du certificat d'immatriculation |
 
-|
+Obligatoire |
 
-Certificat d'immatriculation ou déclaratif (15)
+Certificat d'immatriculation ou document équivalent |
 
-|
+Personne physique ou morale pouvant disposer du véhicule à un titre juridique autre que celui de propriétaire |
 
-Classe d'émission EURO
+Obligatoire quand cette information est présente sur le certificat d'immatriculation |
 
-|
+Certificat d'immatriculation ou document équivalent |
 
-Facultatif (16)
+1.2. Cas de circulation sous couvert d'un titre d'immatriculation provisoire (17) |
 
-|
+1.2.a. Coordonnées du véhicule |
 
-Certificat d'immatriculation ; ou
+Numéro et pays d'immatriculation provisoire du véhicule tracteur |
 
-Certificat de conformité ; ou
+Obligatoire |
 
-CEMT ; ou
+Titre d'immatriculation provisoire |
 
-Attestation constructeur
+1.2.b. Coordonnées des personnes |
 
-|
+Nom et prénom ou raison sociale du titulaire du certificat provisoire d'immatriculation |
 
-Nombre d'essieux du tracteur
+Obligatoire |
 
-|
+Titre d'immatriculation provisoire |
 
-Facultatif (17)
+Personne physique ou morale pouvant disposer du véhicule à un titre juridique autre que celui de titulaire du titre d'immatriculation provisoire |
 
-|
+Obligatoire quand cette information est présente sur le titre d'immatriculation provisoire |
 
-Certificat de conformité
+Titre d'immatriculation provisoire |
 
-|
+(14) A défaut de justificatif fourni du PTAC, le PTAC le plus défavorable est appliqué. Si le document justificatif du PTAC est fourni ultérieurement, celui-ci est modifiée.
 
-1.1.b Coordonnées des personnes
+(15) A défaut de justificatif de la classe EURO ou pour les véhicules immatriculés dans l'Union européenne, de la date de première immatriculation du véhicule, la classe EURO la plus défavorable est appliquée. La date de première immatriculation du véhicule est prise en compte si elle est égale ou postérieure à la date d'entrée du pays d'immatriculation dans l'Union européenne. Si le document justificatif de la classe EURO est fourni ultérieurement, celle-ci est modifiée.
 
-|
+(16) A défaut de justificatif, le nombre d'essieux du tracteur n'est pas enregistré. Un document justificatif peut être fourni ultérieurement. Dans tous les cas, la liquidation est réalisée sur la base du nombre d'essieux paramétré dans l'équipement électronique embarqué par le redevable, lors du franchissement du point de tarification.
 
-Nom et prénom ou raison sociale du titulaire du certificat d'immatriculation
-
-|
-
-Obligatoire
-
-|
-
-Certificat d'immatriculation
-
-|
-
-Personne physique ou morale pouvant disposer du véhicule à un titre juridique autre que celui de propriétaire
-
-|
-
-Obligatoire quand cette information est présente sur le certificat d'immatriculation
-
-|
-
-Certificat d'immatriculation
-
-|
-
-1.2. Cas de circulation sous couvert d'un titre d'immatriculation provisoire (18)
-
-|
-
-1.2.a Coordonnées du véhicule
-
-|
-
-Numéro d'immatriculation provisoire du véhicule tracteur
-
-|
-
-Obligatoire
-
-|
-
-Titre d'immatriculation provisoire
-
-|
-
-1.2.b Coordonnées des personnes
-
-|
-
-Nom et prénom ou raison sociale du titulaire du certificat provisoire d'immatriculation
-
-|
-
-Obligatoire
-
-|
-
-Titre d'immatriculation provisoire
-
-|
-
-Personne physique ou morale pouvant disposer du véhicule à un titre juridique autre que celui de titulaire du titre d'immatriculation provisoire
-
-|
-
-Obligatoire quand cette information est présente sur le titre d'immatriculation provisoire
-
-|
-
-Titre d'immatriculation provisoire
-
-|
-
-(15) En l'absence de cette mention sur le certificat d'immatriculation, la valeur PTRA déclarée par le redevable sera retenue, cette valeur ne pouvant être inférieure à celle du PTAC.
-
-(16) A défaut de justificatif, la classe EURO la plus défavorable est appliquée. Si le document justificatif de la classe EURO est fourni ultérieurement, celle-ci est modifiée.
-
-(17) A défaut de justificatif, le nombre d'essieux du tracteur n'est pas enregistré. Un document justificatif peut être fourni ultérieurement. Dans tous les cas, la liquidation est réalisée sur la base du nombre d'essieux paramétré dans l'équipement électronique embarqué par le redevable, lors du franchissement du point de tarification.
-
-(18) Le certificat provisoire d'immatriculation doit être présenté en cours de validité.
+(17) Le certificat provisoire d'immatriculation doit être présenté en cours de validité.
 
 |
 
 2. Informations relatives à la personne physique procédant à l'enregistrement (déclarant)
 
-INFORMATIONS À RENSEIGNER
+INFORMATION À RENSEIGNER |
 
-|
+TYPE D'INFORMATION |
 
-TYPE D'INFORMATION
-
-|
-
-DOCUMENT À FOURNIR
-
-|
+DOCUMENT À FOURNIR |
 
 Coordonnées de la personne procédant à l'enregistrement
 
@@ -720,7 +664,7 @@ Obligatoire
 
 |
 
-Pièce d'identité (19)
+Pièce d'identité (18)
 
 |
 
@@ -732,17 +676,11 @@ Obligatoire
 
 |
 
-Pièce d'identité (20) ; ou
-
-Justificatif de location ; ou
-
-Justificatif de l'utilisation du véhicule ; ou
-
-Justificatif de domicile (21)
+Déclaratif
 
 |
 
-Adresse électronique ou numéro du téléphone mobile du déclarant (22)
+Adresse électronique ou numéro du téléphone mobile du déclarant(19)
 
 |
 
@@ -754,7 +692,7 @@ Déclaratif
 
 |
 
-Qualité de la personne procédant à l'enregistrement (23)
+Qualité de la personne procédant à l'enregistrement (20)
 
 |
 
@@ -770,7 +708,7 @@ Certificat d'immatriculation ou document équivalent
 
 |
 
-Locataire/sous-locataire
+Locataire/sous locataire
 
 |
 
@@ -778,7 +716,9 @@ Obligatoire
 
 |
 
-Certificat d'immatriculation, ou document équivalent, ou justificatif de location (24)
+Certificat d'immatriculation ou document équivalent, ou
+
+justificatif de location (21)
 
 |
 
@@ -790,15 +730,7 @@ Obligatoire
 
 |
 
-Permis de conduire
-
-|
-
-Facultatif pour l'enregistrement dans un point de distribution
-
-|
-
-Mandat
+Permis de conduire pour l'enregistrement à un point de distribution (22)
 
 |
 
@@ -815,10 +747,6 @@ Justificatif de l'utilisation du véhicule
 |
 
 Représentant du redevable
-
-|
-
-|
 
 |
 
@@ -842,49 +770,37 @@ Obligatoire
 
 |
 
-K bis (25) ou attestation sur l'honneur quant à sa fonction (26)
+Tout document justificatif, ou
+
+attestation sur l'honneur quant à sa fonction (23)
 
 |
 
-(19) Cf. définition n° 1 ci-dessus.
+(18) Cf. définition n° 1 ci-dessus.
 
-(20) Cf. définition n° 1 ci-dessus.
+(19) L'un des deux est obligatoire lors de l'enregistrement à un point de distribution. L'adresse électronique est obligatoire dans le cas d'un télé-enregistrement (enregistrement auprès du centre d'information et d'assistance ou sur le site internet).
 
-(21) Lorsque cette information ne figure pas sur un des documents précédents.
+(20) Une seule qualité est reprise lors de l'enregistrement.
 
-(22) L'un des deux est obligatoire lors de l'enregistrement à un point de distribution. L'adresse électronique est obligatoire dans le cas d'un télé-enregistrement (enregistrement auprès du centre d'information et d'assistance ou sur le site internet).
+(21) Lorsque le locataire ou sous locataire ne figure pas sur le certificat d'immatriculation, le justificatif de location doit être fourni.
 
-(23) Une seule qualité est reprise lors de l'enregistrement.
+(22) Dans les autres cas, le conducteur devient représentant du redevable et a besoin à ce titre d'un mandat.
 
-(24) Lorsque le locataire ou sous-locataire ne figure pas sur le certificat d'immatriculation, le justificatif de location doit être fourni.
-
-(25) Datant de moins de trois mois lors de sa présentation.
-
-(26) Toute attestation établie dans une langue étrangère doit être traduite en français. Seule la version française fait foi. Cette attestation de fonction peut être remplacée par une déclaration sur l'honneur.
+(23) Toute attestation établie dans une langue étrangère doit être traduite en français. Seule la version française fait foi. Cette attestation de fonction peut être remplacée par une déclaration sur l'honneur.
 
 |
 
 3. Informations relatives au redevable enregistré
 
-INFORMATIONS À RENSEIGNER
+INFORMATION À RENSEIGNER |
 
-|
+TYPE D'INFORMATION |
 
-TYPE D'INFORMATION
+DOCUMENT À FOURNIR |
 
-|
+3.1. Informations générales |
 
-DOCUMENT À FOURNIR
-
-|
-
-3.1. Informations générales
-
-|
-
-3.1.a Cas d'une personne physique
-
-|
+3.1.a Cas d'une personne physique |
 
 Coordonnées du redevable enregistré
 
@@ -898,7 +814,7 @@ Obligatoire
 
 |
 
-Pièce d'identité (27)
+Pièce d'identité (24)
 
 |
 
@@ -910,11 +826,11 @@ Obligatoire
 
 |
 
-Justificatif de domicile
+Pièce d'identité, ou justificatif de domicile
 
 |
 
-Qualité du redevable enregistré (28)
+Qualité du redevable enregistré (25)
 
 |
 
@@ -938,7 +854,9 @@ Obligatoire
 
 |
 
-Certificat d'immatriculation, ou document équivalent, ou justificatif de location (29)
+Certificat d'immatriculation ou document équivalent, ou
+
+justificatif de location (26)
 
 |
 
@@ -954,9 +872,7 @@ Justificatif de l'utilisation du véhicule
 
 |
 
-3.1.b Cas d'une personne morale
-
-|
+3.1.b Cas d'une personne morale |
 
 Coordonnées du redevable enregistré
 
@@ -970,57 +886,45 @@ Obligatoire
 
 |
 
-Tout document justifiant de cette information
+Tout document contenant cette information
 
 |
 
 Numéro d'identification de la personne morale :
 
-- SIRET ; ou
+- SIRET, ou
 
-- identifiant EORI ; ou
+- identifiant EORI, ou
 
-- numéro de TVA intracommunautaire ; ou
+- numéro de TVA intracommunautaire, ou
 
-- absence de numéro d'identification (30)
+absence de numéro d'identification (27) |
 
-|
+Facultative |
 
-Facultative
+Tout document administratif comportant le numéro SIRET, ou
 
-|
+tout document administratif ou commercial comportant le numéro EORI ou TVA intracommunautaire, ou
 
-Tout document administratif portant ce numéro ou faisant état de la demande d'immatriculation
+tout document faisant état de la demande d'immatriculation |
 
-|
-
-Qualité du redevable enregistré (31)
+Qualité du redevable enregistré (28)
 
 |
 
-Propriétaire
+Propriétaire |
 
-|
+Obligatoire |
 
-Obligatoire
+Certificat d'immatriculation ou document équivalent |
 
-|
+Locataire/sous-locataire |
 
-Certificat d'immatriculation ou document équivalent
+Obligatoire |
 
-|
+Certificat d'immatriculation ou document équivalent, ou
 
-Locataire/sous-locataire
-
-|
-
-Obligatoire
-
-|
-
-Certificat d'immatriculation, ou document équivalent, ou justificatif de location (32)
-
-|
+justificatif de location (29) |
 
 Utilisateur
 
@@ -1046,41 +950,29 @@ Facultative
 
 |
 
-K bis (33) ou tout autre document justifiant de la qualité de représentant légal (34)
+Déclaratif
 
 |
 
-3.2. Lorsque le locataire ou sous-locataire est le redevable enregistré
+3.2. Lorsque le locataire ou sous locataire est le redevable enregistré
 
 |
 
-Raison sociale et adresse de la société de location (35)
+Raison sociale et adresse de la société de location |
 
-|
+Obligatoire (30) |
 
-Obligatoire
+Certificat d'immatriculation
 
-|
+ou justificatif de location |
 
-Certificat d'immatriculation ou justificatif de location
+3.3. Autres informations |
 
-|
+Adresse postale d'envoi des avis de paiement et détails de liquidation en cas de demande d'envoi des documents sur support papier, si différente de l'adresse du redevable enregistré |
 
-3.3. Autres informations
+Facultative |
 
-|
-
-Adresse postale d'envoi des avis de paiement et détails de liquidation en cas de demande d'envoi des documents sur support papier, si différente de l'adresse du redevable enregistré
-
-|
-
-Facultative
-
-|
-
-Tout document déclaratif
-
-|
+Tout document déclaratif |
 
 Point de contact chez le redevable enregistré
 
@@ -1110,22 +1002,18 @@ Déclaratif
 
 |
 
-(27) Cf. définition n° 1 ci-dessus.
+(24) Cf. définition n° 1 ci-dessus.
+
+(25) Une seule qualité est reprise lors de l'enregistrement.
+
+(26) Lorsque le locataire ou sous locataire ne figure pas sur le certificat d'immatriculation, le justificatif de location doit être fourni.
+
+(27) Pour les personnes morales ne disposant pas de numéro d'identification.
 
 (28) Une seule qualité est reprise lors de l'enregistrement.
 
-(29) Lorsque le locataire ou sous-locataire ne figure pas sur le certificat d'immatriculation, le justificatif de location doit être fourni.
+(29) Lorsque le locataire ou sous locataire ne figure pas sur le certificat d'immatriculation, le justificatif de location doit être fourni.
 
-(30) Pour les personnes morales ne disposant pas de numéro d'identification.
-
-(31) Une seule qualité est reprise lors de l'enregistrement.
-
-(32) Lorsque le locataire ou sous-locataire ne figure pas sur le certificat d'immatriculation, le justificatif de location doit être fourni.
-
-(33) Datant de moins de trois mois lors de sa présentation.
-
-(34) Datant de moins de trois mois lors de sa présentation.
-
-(35) Dans le cadre du crédit-bail, ces informations ne sont pas requises.
+(30) Dans le cadre du crédit-bail, ces informations ne sont pas requises.
 
 |
