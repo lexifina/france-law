@@ -1,0 +1,9 @@
+# Réponse à la question n° 57986
+
+- Question : [57986](57986.md) — Question n° 57986 — cotisations salariales; allégement; coût
+
+## Réponse
+
+*JO du 2014-12-02*
+
+A l'instar de ce qui était envisagé pour les salariés du secteur privé, il s'agissait d'introduire un dispositif dégressif de diminution des cotisations salariales dans la fonction publique afin de redonner du pouvoir d'achat aux agents les moins bien rémunérés. Le Conseil constitutionnel a invalidé le dispositif envisagé dans sa décision du 6 août 2014 au motif d'une rupture du principe d'égalité. Le Gouvernement a pris acte de cette décision.
