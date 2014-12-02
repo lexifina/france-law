@@ -1,0 +1,9 @@
+# Réponse à la question n° 57158
+
+- Question : [57158](57158.md) — Question n° 57158 — carrière; revalorisation
+
+## Réponse
+
+*JO du 2014-12-02*
+
+L'inscription de la formation conduisant au diplôme d'Etat d'infirmier anesthésiste (DEIA) dans le schéma de l'espace européen de l'enseignement supérieur (licence-master-doctorat) a abouti à l'élaboration d'un référentiel de formation construit sur quatre semestres et pour lequel l'AERES (agence d'évaluation de la recherche et de l'enseignement supérieur) a jugé fondée l'attribution d'un grade de master. La validation par un texte réglementaire de l'attribution du grade de master aux étudiants entrés en formation à compter de la rentrée de septembre 2012, restait conditionnée à la conclusion, par chaque établissement, d'une convention avec les universités de secteur ayant une composante santé. La délégation des organisations syndicales professionnelles et étudiantes, reçue au début du mois de juin 2014 par les représentants des ministres de l'éducation nationale, de l'enseignement supérieur et de la recherche, des affaires sociales et de la santé et de la secrétaire d'Etat chargée de l'enseignement supérieur et de la recherche, a été informée qu'à cette date, deux tiers des établissements avaient signé une convention avec une université, expliquant ainsi l'absence de publication du texte reconnaissant le grade de master au DEIA. Comme ils s'y sont engagés par communiqué conjoint du 6 juin 2014, les deux ministères mènent les médiations nécessaires afin d'aboutir à la conclusion des conventions restantes. Le texte reconnaissant le grade de master à ce diplôme dont le référentiel de formation a été réingénié, sera présenté au conseil national de l'enseignement supérieur et de la recherche (CNESER) de septembre 2014 pour une publication à l'automne. Le grade de master sera conféré à tous les diplômés sortant de formation à compter de septembre 2014.
