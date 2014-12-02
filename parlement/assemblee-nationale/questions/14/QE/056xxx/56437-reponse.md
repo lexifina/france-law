@@ -1,0 +1,9 @@
+# Réponse à la question n° 56437
+
+- Question : [56437](56437.md) — Question n° 56437 — dirigeants; rémunérations; évolution
+
+## Réponse
+
+*JO du 2014-12-02*
+
+Les augmentations citées doivent être remises en perspective avec le niveau de salaire de ces dirigeants par rapport à des entreprises de taille comparable. Sur le plan de la rémunération des dirigeants en général, l'AFEP et le MEDEF ont mis à jour en 2013 leur code de gouvernance et il revient notamment aux actionnaires de s'exprimer, dans le cadre du principe « say on pay », sur le niveau de rémunération des mandataires sociaux. Le principe du « say on pay », c'est-à-dire de la consultation des actionnaires sur la rémunération versée aux dirigeants d'entreprises, a été introduit en 2013 dans la loi de séparation et de régulation des activités bancaires par un amendement en première lecture au Sénat. Le dispositif prévoit un vote de l'assemblée générale sur l'enveloppe des rémunérations versées durant l'exercice écoulé à l'ensemble des preneurs de risque. Il va en particulier plus loin que le code Afep-Medef qui prévoit un say on pay dans l'ensemble des sociétés cotées mais en se limitant à la rémunération des dirigeants mandataires sociaux. Au-delà du « say on pay », la loi de 2013 a également introduit une autre disposition : le plafonnement des rémunérations variables au-delà d'un seuil exprimé par rapport à la rémunération fixe nécessite un accord de l'assemblée générale des actionnaires, sans pour autant dépasser un second seuil exprimé en fonction de la rémunération fixe. C'est un principe que la France a défendu avec succès dans le cadre de la directive CRD4. Il ne s'agit pas d'une consultation des actionnaires mais bien d'un vote conforme en assemblée générale. Avec ces dispositions, le gouvernement agit pour lutter contre les prises de risques excessives et pour un meilleur contrôle par les actionnaires des rémunérations sans pour autant tomber dans la stigmatisation.
