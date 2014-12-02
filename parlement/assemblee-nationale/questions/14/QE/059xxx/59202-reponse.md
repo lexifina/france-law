@@ -1,0 +1,9 @@
+# Réponse à la question n° 59202
+
+- Question : [59202](59202.md) — Question n° 59202 — enseignement plurilingue; formation; professeurs
+
+## Réponse
+
+*JO du 2014-12-02*
+
+Le ministère de l'éducation nationale, de l'enseignement supérieur et de la recherche est très attaché au principe d'une formation adaptée à la formation des enseignants en langues régionales, notamment des enseignants des écoles bilingues immersives laïques associatives. Cette formation est actuellement assurée par l'institut supérieur des langues de la République française (ISLRF) en lien avec l'école supérieure du professorat et de l'éducation (ESPE) de l'académie de Montpellier, dans le cadre d'une convention. Jusqu'à présent, de nombreux étudiants ont eu la possibilité de suivre une formation en langue régionale au sein d'un parcours « enseignement bilingue immersif » d'un master « métiers de l'enseignement, de l'éducation et de la formation » (MEEF). Afin de garantir notamment à ces étudiants une poursuite de ce parcours en deuxième année de master, le ministère de l'éducation nationale, de l'enseignement supérieur et de la recherche a demandé à l'ESPE de l'académie de Montpellier de reconduire pour la prochaine rentrée universitaire la convention conclue avec l'ISLRF. Cette année sera mise à profit pour définir de nouvelles modalités de conventionnement, en lien notamment avec les ESPE des académies de Rennes, Bordeaux et Strasbourg, afin de permettre un encadrement de proximité des étudiants et des fonctionnaires stagiaires concernés dans le cadre notamment des enseignements liés à la culture commune ou de l'encadrement du mémoire. Cette nouvelle convention devra prendre effet à la rentrée 2015. Le ministère veillera avec une attention toute particulière au bon déroulement de l'élaboration de cette évolution afin de garantir la pérennité du dispositif existant.
