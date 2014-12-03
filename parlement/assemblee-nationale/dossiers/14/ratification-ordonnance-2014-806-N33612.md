@@ -1,0 +1,80 @@
+# Outre-mer : université des Antilles
+
+- Procédure : Projet de loi ordinaire
+- Législature : 14
+- Identifiant : DLR5L14N33612
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/ratification_ordonnance_2014-806
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl14-148.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2014-12-03 : 1er dépôt d'une initiative. (PRJLSNR5S239B0148)
+  - 2014-12-03 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2014-12-03 : Renvoi en commission au fond
+      - 2014-12-17 : Nomination de rapporteur
+      - 2015-01-14 : Dépôt de rapport (RAPPSNR5S239B0225)
+  - Discussion en séance publique
+    - 2015-01-29 : Discussion en séance publique
+    - 2015-01-29 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2015-01-30 : Dépôt d'une initiative en navette (PRJLANR5L14B2540)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2015-01-30 : Renvoi en commission au fond
+      - 2015-01-28 : Nomination de rapporteur
+      - 2015-01-28 : Réunion de commission
+      - 2015-02-11 : Réunion de commission
+      - 2015-02-18 : Réunion de commission
+      - 2015-02-11 : Dépôt de rapport (RAPPANR5L14B2559, PRJLANR5L14BTC2559)
+  - Discussion en séance publique
+    - 2015-02-19 : Discussion en séance publique
+    - 2015-02-19 : Décision
+- deuxième lecture
+  - 2015-02-20 : Dépôt d'une initiative en navette (PRJLSNR5S239B0301)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2015-02-20 : Renvoi en commission au fond
+- Commission Mixte Paritaire
+  - 2015-02-20 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2015-03-11 : Nomination de rapporteur
+    - 2015-03-11 : Dépôt du rapport d'une CMP (RAPPANR5L14B2650)
+    - 2015-03-11 : Dépôt du rapport d'une CMP (RAPPSNR5S239B0338)
+  - 2015-03-12 : Décision de la CMP
+- Nouvelle Lecture
+  - 2015-03-12 : Dépôt d'une initiative en navette (PRJLANR5L14B2656)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2015-03-12 : Renvoi en commission au fond
+      - 2015-04-15 : Nomination de rapporteur
+      - 2015-04-15 : Réunion de commission
+      - 2015-05-13 : Réunion de commission
+      - 2015-05-20 : Réunion de commission
+      - 2015-05-13 : Dépôt de rapport (RAPPANR5L14B2764, PRJLANR5L14BTC2764)
+  - Discussion en séance publique
+    - 2015-05-20 : Discussion en séance publique
+    - 2015-05-20 : Discussion en séance publique
+    - 2015-05-20 : Décision
+- Nouvelle Lecture
+  - 2015-05-21 : Dépôt d'une initiative en navette (PRJLSNR5S239B0463)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2015-05-21 : Renvoi en commission au fond
+      - 2015-06-03 : Dépôt de rapport (RAPPSNR5S239B0477)
+  - Discussion en séance publique
+    - 2015-06-10 : Discussion en séance publique
+    - 2015-06-10 : Décision
+- Lecture définitive
+  - 2015-06-11 : Dépôt d'une initiative en navette (PRJLANR5L14B2864)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2015-06-11 : Renvoi en commission au fond
+      - 2015-06-16 : Dépôt de rapport (RAPPANR5L14B2867)
+  - Discussion en séance publique
+    - 2015-06-16 : Discussion en séance publique
+    - 2015-06-16 : Décision
+- Promulgation de la loi
+  - 2015-06-25 : Promulgation d'une loi
