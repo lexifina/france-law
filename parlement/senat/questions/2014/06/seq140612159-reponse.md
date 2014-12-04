@@ -1,0 +1,9 @@
+# Réponse à la question SEQ140612159
+
+- Question : [SEQ140612159](seq140612159.md) — Réforme territoriale : impact sur les l'offre muséale de l'Aisne
+
+## Réponse
+
+*Culture et communication, JO du 2014-12-04, page 2695*
+
+Le territoire de l'Aisne comporte quatorze musées territoriaux qui bénéficient de l'appellation « musée de France ». Ces musées sont des musées municipaux pour la plus grande part, auxquels s'ajoutent des musées associatifs ou relevant d'un syndicat mixte, aucun ne relevant du département. Ces musées, tout comme le musée national de Blérancourt, ne sont pas amenés à voir leur gouvernance directement modifiée par la réforme territoriale engagée par le Gouvernement. Concernant le soutien et l'intervention de l'État à l'égard des musées de France, les modalités en sont définies dans le code du patrimoine. Le ministère de la culture et de la communication, par l'intermédiaire des directions régionales des affaires culturelles (DRAC), peut accorder, en partenariat avec la région, un soutien financier aux projets d'acquisition et de restauration qui ont reçu un avis favorable des commissions scientifiques régionales compétentes. La DRAC peut également apporter une aide pour le récolement, les expositions ou les publications scientifiques. Enfin, le ministère de la culture et de la communication peut accompagner la rénovation d'un musée de France, lorsque celui-ci porte un projet scientifique de qualité et remplit l'ensemble des conditions définies dans le code du patrimoine à l'article D. 442-15. Le département participe, par des subventions ou une assistance technique, au fonctionnement des musées de France du territoire, ainsi qu'à celui d'associations œuvrant dans le domaine culturel. La réforme territoriale engagée par le Gouvernement fera en sorte que les compétences mises en œuvre aujourd'hui par les collectivités pour répondre aux aspirations et besoins culturels du territoire soient maintenues.
