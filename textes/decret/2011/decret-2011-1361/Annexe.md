@@ -24,11 +24,17 @@ IV. - Aires et zones dans lesquelles différentes opérations sont réalisées
 
 La récolte des raisins, la vinification, l'élaboration et l'élevage des vins sont assurés sur le territoire des communes suivantes du département de la Gironde : Caplong, Eynesse, Gensac, Landerrouat, Les Lèves-et-Thoumeyragues, Ligueux, Margueron, Massugas, Pellegrue, Pessac-sur-Dordogne, Pineuilh, Riocaud, La Roquille, Saint-André-et-Appelles, Saint-Avit-de-Soulège, Saint-Avit-Saint-Nazaire, Saint-Philippe-du-Seignal, Saint-Quentin-de-Caplong et Sainte-Foy-la-Grande.
 
-2° - Aire parcellaire délimitée :
+2° Aire parcellaire délimitée.
 
-Les vins sont issus exclusivement des vignes situées dans l'aire parcellaire de production telle qu'approuvée par l'Institut national de l'origine et de la qualité lors des séances du comité national compétent du 18 février 1987.
+Les vins sont issus de raisins récoltés sur des parcelles ayant fait l'objet d'une procédure d'identification.
 
-L'Institut national de l'origine et de la qualité dépose auprès des mairies des communes mentionnées au 1° les documents graphiques établissant les limites parcellaires des aires de production ainsi approuvées.
+L'identification des parcelles est effectuée sur la base des critères relatifs à leur lieu d'implantation fixés par le comité national compétent de l'Institut national de l'origine et de la qualité en sa séance du 13 février 2014, après avis de la commission d'experts désignée à cet effet.
+
+Tout producteur désirant faire identifier une parcelle de vigne en effectue la demande auprès de l'organisme de défense et de gestion, qui en transmet une copie aux services de l'Institut national de l'origine et de la qualité avant le 31 mars de l'année de récolte.
+
+La liste des nouvelles parcelles identifiées est approuvée chaque année par le comité national compétent de l'Institut national de l'origine et de la qualité après avis de la commission d'experts mentionnée ci-dessus.
+
+Les listes des critères et des parcelles identifiées peuvent être consultées auprès des services de l'Institut national de l'origine et de la qualité et de l'organisme de défense et de gestion intéressé.
 
 3° - Aire de proximité immédiate :
 
@@ -642,7 +648,7 @@ Les vins avec sucres résiduels sont moelleux lorsque la richesse minimale en su
 
 La douceur du microclimat induite par la présence de la Dordogne et des nombreux cours d'eau marque l'ensemble du vignoble, favorisant une remarquable maturation du raisin. Ce microclimat est également favorable au développement de la pourriture noble (Botrytis cinerea) pour les vins blancs liquoreux.
 
-Du point de vue des aptitudes viticoles, les formations alluviales organisées en terrasses graveleuses comme les plateaux argilo-calcaires peu fertiles présentent de très bonnes potentialités. Ainsi la délimitation parcellaire de l'aire de production de l'appellation d'origine contrôlée "Sainte-Foy-Bordeaux" a conduit à exclure certaines parcelles en fonction soit de la nature des sols (terrains hydromorphes, aux sols battants, limono-argileux, mal drainés), soit de la situation (terrains gélifs situés en bas-fonds, enclavés dans des zones boisés), soit de la vocation des sols (terrains forestiers, vieilles futaies sans passé viticole, ou encore secteurs densément urbanisés).
+Du point de vue des aptitudes viticoles, les formations alluviales organisées en terrasses graveleuses comme les plateaux argilo-calcaires peu fertiles présentent de très bonnes potentialités. Ainsi, au sein de l'aire de production de l'appellation d'origine contrôlée "Sainte-Foy-Bordeaux", les parcelles sont identifiées en fonction de la nature de leurs sols, de leur situation et de leur vocation viticole.
 
 Les sols, lorsqu'ils sont caractérisés par des terres profondes et à dominantes argilo-calcaires, conviennent bien au merlot N, au sauvignon B et au sémillon B. Lorsqu'ils sont plus légers et plus chauds, ils sont réservés au cabernet sauvignon N et au cabernet franc N. Les vins rouges sont alors colorés et puissants et destinés à s'épanouir dans une longue garde.
 
@@ -656,7 +662,13 @@ Dans le courant de la seconde moitié du XXe siècle, dans un contexte général
 
 XI. - Mesures transitoires
 
-1° - Mode de conduite :
+1° Aire de production.
+
+Les parcelles de vigne en place à la date d'homologation du présent cahier des charges mais non identifiées dans le cadre de la procédure mentionnée au 2° du IV continuent à bénéficier du droit à l'appellation d'origine contrôlée jusqu'à leur arrachage et au plus tard jusqu'au 31 décembre 2030, sous réserve de satisfaire aux autres prescriptions du présent cahier des charges.
+
+La liste des parcelles est consultable auprès des services de l'Institut national de l'origine et de la qualité.
+
+2° - Mode de conduite :
 
 Les parcelles de vigne en place à la date du 31 juillet 2009 et dont la densité à la plantation est comprise entre 3300 pieds par hectare et 4500 pieds par hectare continuent à bénéficier, pour leur production, du droit à l'appellation d'origine contrôlée jusqu'à leur arrachage et au plus tard jusqu'à la récolte 2025 incluse. Ces parcelles ne pourront représenter plus de 50 % de la totalité des surfaces revendiquées pour la récolte 2015.
 
