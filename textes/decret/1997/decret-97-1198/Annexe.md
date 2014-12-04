@@ -1390,6 +1390,12 @@ Article 3-2, paragraphe II.
 
 |
 
+2 bis |
+
+Suspension du document de conformité à la gestion de la sécurité |
+
+Article 8-1 |
+
 3
 
 |
@@ -1473,6 +1479,38 @@ Habilitation, retrait et suspension de l'habilitation des organismes de certific
 |
 
 Article 42-2.
+
+|
+
+10
+
+|
+
+Habilitation des organismes chargés de délivrer les approbations de structures |
+
+Article 42-2
+
+|
+
+11
+
+|
+
+Habilitation des organismes chargés de procéder au mesurage de l'exposition aux vibrations mécaniques des personnes employées à bord des navires |
+
+Article 42-2
+
+|
+
+12
+
+|
+
+Habilitation des organismes chargés de procéder au mesurage du bruit
+
+|
+
+Article 42-2
 
 |
 
