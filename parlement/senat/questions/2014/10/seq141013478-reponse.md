@@ -1,0 +1,9 @@
+# Réponse à la question SEQ141013478
+
+- Question : [SEQ141013478](seq141013478.md) — Fermeture du consulat général de France à Porto
+
+## Réponse
+
+*Affaires étrangères, JO du 2014-12-04, page 2688*
+
+Depuis le 6 août 2007, le consul général de France à Porto n'exerce plus, dans sa circonscription consulaire, que les compétences suivantes : pour l'ensemble des Français résidents ou de passage, la protection consulaire telle que prévue par la convention de Vienne sur les relations consulaires du 24 avril 1963 ; la nomination et le contrôle des consuls honoraires ; la délivrance des laissez-passer ; l'organisation des opérations de vote et l'établissement des procurations de vote ; la légalisation d'actes. Toutes les autres compétences consulaires à l'égard des Français résidant au Portugal sont exercées par l'Ambassadeur de France au Portugal (section consulaire de l'ambassade). La fermeture du consulat général de France à Porto et son remplacement par un consulat honoraire dans la même ville interviendra au printemps 2015. Le choix de la personnalité appelée à occuper les fonctions de consul honoraire dans cette ville sera opéré conjointement par l'Ambassadeur de France au Portugal et par les services centraux du ministère des affaires étrangères et du développement international. Ce choix sera dicté par l'adéquation entre le profil des personnes pressenties et les missions qui seront confiées au futur titulaire du poste. Dans la mesure du possible, il sera fait appel à un ressortissant français, dont les compétences pourront effectivement être plus larges que celles qui seraient attribuées à un consul honoraire non Français (décret n° 94-81 du 26 janvier 1994). L'éventuelle mise à la disposition de ce consul honoraire d'un agent rémunéré sur les crédits du ministère des affaires étrangères et du développement international pourra être étudiée en fonction de l'activité effective de l'agence consulaire.
