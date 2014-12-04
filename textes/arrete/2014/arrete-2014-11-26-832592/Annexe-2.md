@@ -1,12 +1,10 @@
 # Article Annexe 2
 
-NOMBRE DE REPRÉSENTANTS DU PERSONNEL AU SEIN
+NOMBRE DE REPRÉSENTANTS DU PERSONNEL AU SEIN DES COMITÉS D'HYGIÈNE,
 
-DES COMITÉS D'HYGIÈNE, DE SÉCURITÉ ET DES CONDITIONS DE TRAVAIL
+DE SÉCURITÉ ET DES CONDITIONS DE TRAVAIL
 
-EFFECTIF PAR FORMATION ADMINISTRATIVE
-
-et organisme administré comme tels
+EFFECTIF PAR FORMATION ADMINISTRATIVE ET ORGANISME
 
 |
 
@@ -22,7 +20,7 @@ Moins de 50 personnels civils
 
 |
 
-De 50 à 100 personnels civils
+De 50 à 99 personnels civils
 
 |
 
@@ -30,7 +28,7 @@ De 50 à 100 personnels civils
 
 |
 
-De 100 à 200 personnels civils
+De 100 à 199 personnels civils
 
 |
 
