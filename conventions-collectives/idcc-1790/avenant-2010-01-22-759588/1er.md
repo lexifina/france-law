@@ -1,9 +1,0 @@
-# Article 1er
-
-L'article 1er de l'avenant n° 23 du 28 juillet 2006intitulé « Bénéficiaires » est modifié comme suit :
-
-« Les bénéficiaires des garanties sont l'ensemble des salariés des entreprises qui relèvent de la présente convention collective nationale.
-
-Les salariés couverts sont ceux qui sont présents au travail ou dont la suspension du contrat de travail, prévue par le code du travail, donne lieu à un maintien de salaire partiel ou total ou au versement d'indemnités journalières complémentaires financées au moins pour partie par l'employeur.
-
-La notion de salariés s'entend par tous les bénéficiaires d'un contrat de travail, qu'il soit à durée indéterminée ou déterminée et quel que soit le nombre d'heures effectuées. »
