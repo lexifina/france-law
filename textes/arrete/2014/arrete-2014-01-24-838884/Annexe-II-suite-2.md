@@ -1112,11 +1112,11 @@ FR000000000000756
 
 |
 
-SDCSD
+PLAINE COMMUNE ENERGIE
 
 |
 
-SDCSD Fabien
+PLAINE COMMUNE ENERGIE Fabien
 
 |
 
@@ -2568,33 +2568,25 @@ CONSERVES France - site de Vauvert
 
 |
 
-3 958
+0 |
+
+0
 
 |
 
-3 464
+0 |
+
+0 |
+
+0
 
 |
 
-2 984
+0
 
 |
 
-2 520
-
-|
-
-2 070
-
-|
-
-1 638
-
-|
-
-26 099
-
-|
+9 465 |
 
 FR000000000000800
 
@@ -2689,54 +2681,6 @@ OI Manufacturing Béziers
 |
 
 317 381
-
-|
-
-FR000000000000802
-
-|
-
-SETHELEC
-
-|
-
-Centrale de Cogénération SETHELEC de Sète
-
-|
-
-0
-
-|
-
-0
-
-|
-
-0
-
-|
-
-0
-
-|
-
-0
-
-|
-
-0
-
-|
-
-0
-
-|
-
-0
-
-|
-
-0
 
 |
 
@@ -3992,11 +3936,11 @@ FR000000000000838
 
 |
 
-LANA PAPIERS SPECIAUX
+LANA PAPIERS SPECIAUX II
 
 |
 
-LANA PAPIERS SPECIAUX
+LANA PAPIERS SPECIAUX II
 
 |
 
@@ -4455,52 +4399,6 @@ Centrale de production de chaleur hôpital La Colombière
 |
 
 31 036
-
-|
-
-FR000000000000854
-
-|
-
-COGELYO NORD EST
-
-|
-
-COGELYO NORD EST |
-
-0
-
-|
-
-0
-
-|
-
-0
-
-|
-
-0
-
-|
-
-0
-
-|
-
-0
-
-|
-
-0
-
-|
-
-0
-
-|
-
-0
 
 |
 
@@ -6518,11 +6416,11 @@ FR000000000000922
 
 |
 
-MCCAIN
+MC CAIN
 
 |
 
-MCCAIN
+MC CAIN
 
 |
 
@@ -6530,37 +6428,29 @@ MCCAIN
 
 |
 
-19 759
+27 120
 
 |
 
-17 501
+26 635
 
 |
 
-15 313
+26 145 |
+
+25 649
 
 |
 
-13 192
+25 149 |
+
+24 643
 
 |
 
-11 138
+24 135 |
 
-|
-
-9 152
-
-|
-
-7 241
-
-|
-
-115 375
-
-|
+201 555 |
 
 FR000000000000924
 
@@ -7058,37 +6948,29 @@ McCAIN Alimentaire Harnes
 
 |
 
-28 839
+39 581
 
 |
 
-25 544
+38 873
 
 |
 
-22 349
+38 158 |
+
+37 435 |
+
+36 705 |
+
+35 966
 
 |
 
-19 253
+35 224
 
 |
 
-16 256
-
-|
-
-13 358
-
-|
-
-10 567
-
-|
-
-168 390
-
-|
+294 166 |
 
 FR000000000000942
 
@@ -7158,31 +7040,21 @@ BCI Vaulx-Vraucourt
 
 |
 
-3 544
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+0
 
 |
 
-3 101
+0 |
 
-|
-
-2 671
-
-|
-
-2 256
-
-|
-
-1 854
-
-|
-
-1 466
-
-|
-
-23 363
+8 471
 
 |
 
@@ -9490,11 +9362,11 @@ FR000000000001004
 
 |
 
-Guiseppe La Scola
+VERSALIS France SAS
 
 |
 
-POLIMERI EUROPA France SAS
+VERSALIS France SAS
 
 |
 
@@ -9634,9 +9506,7 @@ FR000000000001007
 
 |
 
-SA BRIQUETERIES DU NORD
-
-|
+SA BRIQUETERIES DU NORD |
 
 Briqueterie de TEMPLEUVE
 
@@ -10030,37 +9900,25 @@ BONILAIT PROTEINES
 
 |
 
-14 000
+19 215
 
 |
 
-12 403
+18 874 |
+
+18 534 |
+
+18 194 |
+
+17 854 |
+
+17 513 |
+
+17 173
 
 |
 
-10 855
-
-|
-
-9 357
-
-|
-
-7 907
-
-|
-
-6 504
-
-|
-
-5 152
-
-|
-
-81 822
-
-|
+143 001 |
 
 FR000000000001021
 
@@ -10402,13 +10260,11 @@ FR000000000001031
 
 |
 
-SOCIETE COOPERATIVE AGRICOLE TERRA LACTA
+SAS SOFIVO
 
 |
 
-SOCIETE COOPERATIVE AGRICOLE TERRA LACTA
-
-|
+SAS SOFIVO |
 
 18 524
 
@@ -12700,13 +12556,11 @@ FR000000000001107
 
 |
 
-Pierre DUEZ
+ALBIOMA Le Moule
 
 |
 
-COMPAGNIE THERMIQUE DU MOULE
-
-|
+ALBIOMA Le Moule |
 
 38 412
 
@@ -13132,11 +12986,11 @@ FR000000000001126
 
 |
 
-SDCSD
+PLAINE COMMUNE ENERGIE
 
 |
 
-SDCSD Fort de l'Est
+PLAINE COMMUNE ENERGIE Fort de l'Est
 
 |
 
@@ -13180,7 +13034,7 @@ FR000000000001127
 
 |
 
-ALSTOM Power Systems établissement des turbines à vapeur
+ALSTOM Power Systems Etablissement des turbines à Vapeur
 
 |
 
@@ -13196,33 +13050,19 @@ ALSTOM site de Belfort - CHAUDIERES DU BÂTIMENT 28
 
 |
 
-9 352
+0 |
 
-|
+0 |
 
-9 180
+0 |
 
-|
+0 |
 
-9 006
+0 |
 
-|
+0 |
 
-8 830
-
-|
-
-8 652
-
-|
-
-8 474
-
-|
-
-72 706
-
-|
+19 212 |
 
 FR000000000001129
 
@@ -13752,35 +13592,31 @@ Usine de Sablé-sur-Sarthe
 
 |
 
-13 729
+14 772
 
 |
 
-12 161
+13 454
 
 |
 
-10 639
+12 174
 
 |
 
-9 165
+10 930 |
+
+9 723
 
 |
 
-7 740
+8 553
 
 |
 
-6 359
+7 423 |
 
-|
-
-5 031
-
-|
-
-80 166
+92 371
 
 |
 

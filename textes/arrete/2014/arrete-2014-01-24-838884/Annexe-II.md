@@ -56,47 +56,47 @@ FR000000000000002
 
 |
 
-NESTLE France SAS
+SAICA PAPER FRANCE
 
 |
 
-NESTLE France - usine de Boué
+SAICA VENIZEL
 
 |
 
-18 618
+59192
 
 |
 
-16 661
+58164
 
 |
 
-14 758
+57123
 
 |
 
-12 912
+56072
 
 |
 
-11 123
+55010
 
 |
 
-9 392
+53937
 
 |
 
-7 717
+52851
 
 |
 
-6 105
+51761
 
 |
 
-97 286
+444110
 
 |
 
@@ -936,31 +936,31 @@ COLGATE PALMOLIVE INDUSTRIEL
 
 |
 
-4 299
+0
 
 |
 
-3 992
+0
 
 |
 
-3 694
+0
 
 |
 
-3 403
+0
 
 |
 
-3 119
+0
 
 |
 
-2 845
+0
 
 |
 
-30 902
+9 550
 
 |
 
@@ -1352,7 +1352,7 @@ FR000000000000041
 
 |
 
-COFELY GDF SUEZ
+VSPU
 
 |
 
@@ -1788,7 +1788,7 @@ SITPA SA
 
 |
 
-SITPA - usine de Rosières
+SITPA - Usine de Rosières
 
 |
 
@@ -1796,35 +1796,35 @@ SITPA - usine de Rosières
 
 |
 
-16 118
+22 123
 
 |
 
-14 277
+21 727
 
 |
 
-12 492
+21 328
 
 |
 
-10 761
+20 924
 
 |
 
-9 086
+20 516
 
 |
 
-7 466
+20 102
 
 |
 
-5 907
+19 688
 
 |
 
-94 119
+164 420
 
 |
 
@@ -2076,11 +2076,11 @@ Creil Energie
 
 |
 
-Creil Energie, chaufferie de la ZUP Les Martinets
+Creil Energie, Chaufferie de la ZUP "Les Martinets"
 
 |
 
-4 054
+4 308
 
 |
 
@@ -2112,7 +2112,7 @@ Creil Energie, chaufferie de la ZUP Les Martinets
 
 |
 
-7 683
+7 937
 
 |
 
@@ -2792,11 +2792,11 @@ FR000000000000086
 
 |
 
-ROLPIN
+NP ROLPIN
 
 |
 
-ROLPIN (site de Labouheyre)
+NP ROLPIN
 
 |
 
@@ -3409,54 +3409,6 @@ CELSA France
 |
 
 365 451
-
-|
-
-FR000000000000101
-
-|
-
-TOTAL E&P France
-
-|
-
-TOTAL E&P France
-
-|
-
-0
-
-|
-
-0
-
-|
-
-0
-
-|
-
-0
-
-|
-
-0
-
-|
-
-0
-
-|
-
-0
-
-|
-
-0
-
-|
-
-0
 
 |
 
@@ -4532,35 +4484,35 @@ SOCIETE LAITIERE DU PAYS D'AUGE
 
 |
 
-15 047
+20 654
 
 |
 
-13 330
+20 285
 
 |
 
-11 662
+19 911
 
 |
 
-10 046
+19 534
 
 |
 
-8 483
+19 153
 
 |
 
-6 970
+18 768
 
 |
 
-5 514
+18 381
 
 |
 
-87 867
+153 501
 
 |
 
@@ -4776,31 +4728,31 @@ UNIVERSITE DE BOURGOGNE
 
 |
 
-3 977
+0
 
 |
 
-3 480
+0
 
 |
 
-3 001
+0
 
 |
 
-2 535
+0
 
 |
 
-2 086
+0
 
 |
 
-1 652
+0
 
 |
 
-26 236
+9 505
 
 |
 
@@ -4820,35 +4772,35 @@ EUROSERUM SAINT-MARTIN-DE-BELLEROCHE
 
 |
 
-18 129
+22 251
 
 |
 
-16 590
+21 706
 
 |
 
-15 098
+21 163
 
 |
 
-13 643
+20 621
 
 |
 
-12 234
+20 081
 
 |
 
-10 864
+19 541
 
 |
 
-9 543
+19 005
 
 |
 
-115 805
+164 072
 
 |
 
@@ -5096,11 +5048,11 @@ FR000000000000145
 
 |
 
-NORDEON ET TGI TUBE
+MARVEL GLASS
 
 |
 
-NORDEON ET TGI TUBE
+MARVEL GLASS
 
 |
 
@@ -5480,11 +5432,9 @@ FR000000000000158
 
 |
 
-ANVIS France DECIZE SAS
+TOKAI RUBBER INDUSTRIE |
 
-|
-
-ANVIS France Decize SAS
+TOKAI RUBBER INDUSTRIE
 
 |
 
@@ -5720,11 +5670,11 @@ FR000000000000164
 
 |
 
-CORIANCE
+SODIEN
 
 |
 
-Chaufferie urbaine CORIANCE
+Chaufferie Urbaine SODIEN
 
 |
 
@@ -5772,7 +5722,7 @@ MONCIA
 
 |
 
-Chaufferie de LUCY II Montceau-les-Mines
+MONCIA LUCY II Montceau-les-Mines
 
 |
 
@@ -6068,35 +6018,35 @@ ENTREMONT ALLIANCE CARHAIX
 
 |
 
-8 943
+10 782
 
 |
 
-8 230
+10 512
 
 |
 
-7 536
+10 243
 
 |
 
-6 862
+9 974
 
 |
 
-6 205
+9 707
 
 |
 
-5 569
+9 440
 
 |
 
-4 952
+9 175
 
 |
 
-57 971
+79 507
 
 |
 
@@ -6116,35 +6066,35 @@ ENTREMONT ALLIANCE QUIMPER
 
 |
 
-12 122
+13 215
 
 |
 
-11 188
+12 551
 
 |
 
-10 280
+11 901
 
 |
 
-9 398
+11 264
 
 |
 
-8 539
+10 641
 
 |
 
-7 704
+10 031
 
 |
 
-6 897
+9 438
 
 |
 
-79 205
+92 118
 
 |
 
@@ -6404,35 +6354,35 @@ ENTREMONT ALLIANCE MONTAUBAN-DE-BRETAGNE
 
 |
 
-12 919
+14 447
 
 |
 
-11 746
+13 650
 
 |
 
-10 605
+12 870
 
 |
 
-9 499
+12 109
 
 |
 
-8 426
+11 364
 
 |
 
-7 384
+10 637
 
 |
 
-6 379
+9 930
 
 |
 
-81 079
+99 128
 
 |
 
@@ -6452,35 +6402,35 @@ SOCIETE LAITIERE DE RETIERS
 
 |
 
-18 324
+23 435
 
 |
 
-16 269
+22 609
 
 |
 
-14 276
+21 795
 
 |
 
-12 345
+20 991
 
 |
 
-10 475
+20 199
 
 |
 
-8 666
+19 416
 
 |
 
-6 923
+18 649
 
 |
 
-107 713
+167 529
 
 |
 
@@ -6536,11 +6486,11 @@ FR000000000000185
 
 |
 
-SOCCRAM
+ENERSUD
 
 |
 
-SOCCRAM chaufferie urbaine du Blosnes (ZUP Sud RENNES)
+ENERSUD chaufferie urbaine du Blosnes (ZUP Sud RENNES)
 
 |
 
@@ -6644,35 +6594,35 @@ ENTREMONT ALLIANCE MALESTROIT
 
 |
 
-13 064
+14 681
 
 |
 
-12 004
+14 014
 
 |
 
-10 976
+13 359
 
 |
 
-9 974
+12 717
 
 |
 
-9 001
+12 087
 
 |
 
-8 057
+11 469
 
 |
 
-7 145
+10 866
 
 |
 
-84 368
+103 340
 
 |
 
@@ -6692,35 +6642,35 @@ Société laitière de PONTIVY
 
 |
 
-19 468
+20 722
 
 |
 
-18 644
+20 210
 
 |
 
-17 835
+19 699
 
 |
 
-17 041
+19 190
 
 |
 
-16 261
+18 682
 
 |
 
-15 493
+18 175
 
 |
 
-14 744
+17 672
 
 |
 
-139 789
+154 653
 
 |
 
@@ -6792,31 +6742,31 @@ ESEO BARRE THOMAS - CF GOMMA
 
 |
 
-2 511
+0
 
 |
 
-2 198
+0
 
 |
 
-1 893
+0
 
 |
 
-1 599
+0
 
 |
 
-1 313
+0
 
 |
 
-1 039
+0
 
 |
 
-16 557
+6 004
 
 |
 
@@ -6924,7 +6874,7 @@ ADISSEO SAS
 
 |
 
-ADISSEO SAS
+ADISSEO SAS site de Commentry
 
 |
 
@@ -7212,7 +7162,7 @@ BOUYER LEROUX STRUCTURE
 
 |
 
-BOUYER LEROUX STRUCTURE SA POMEL
+BOUYER LEROUX STRUCTURE SA POMEL site de Vergonghéon
 
 |
 
@@ -7260,7 +7210,7 @@ Aubert et Duval
 
 |
 
-Aubert et Duval
+Aubert et Duval site des Ancizes
 
 |
 
@@ -7308,7 +7258,7 @@ IDEX Energies
 
 |
 
-IDEX - TRELLEBORG INDUSTRIE SA
+IDEX - TRELLEBORG INDUSTRIE SA Clermont-Ferrand
 
 |
 
@@ -7356,7 +7306,7 @@ MFPM site de Cataroux
 
 |
 
-site de CATAROUX
+MFP Michelin site de CATAROUX
 
 |
 
@@ -7404,7 +7354,7 @@ MFPM La Combaude
 
 |
 
-MFPM MICHELIN LA COMBAUDE
+MFPM MICHELIN site de LA COMBAUDE
 
 |
 
@@ -7448,11 +7398,11 @@ FR000000000000210
 
 |
 
-Sucrerie de Bourdon
+Cristal union
 
 |
 
-Sucrerie de Bourdon
+Cristal union Sucrerie de Bourdon
 
 |
 
@@ -7592,7 +7542,7 @@ FR000000000000215
 
 |
 
-PAPETERIE BANQUE de France
+BANQUE DE France
 
 |
 
@@ -7644,7 +7594,7 @@ SARVAL SUD EST
 
 |
 
-SARVAL SUD EST
+SARVAL SUD EST site de Bayet
 
 |
 
@@ -7784,7 +7734,7 @@ FR000000000000219
 
 |
 
-MCCAIN Alimentaire
+MC CAIN Alimentaire
 
 |
 
@@ -7796,35 +7746,35 @@ McCain Alimentaire
 
 |
 
-19 350
+26 557
 
 |
 
-17 138
+26 082
 
 |
 
-14 995
+25 602
 
 |
 
-12 918
+25 117
 
 |
 
-10 907
+24 627
 
 |
 
-8 962
+24 131
 
 |
 
-7 090
+23 633
 
 |
 
-112 980
+197 369
 
 |
 
@@ -8024,11 +7974,11 @@ FR000000000000224
 
 |
 
-DALKIA France
+COFELY GDF SUEZ
 
 |
 
-DALKIA - CHAUFFERIE CENTRALE DU VERT-BOIS
+COFELY- CHAUFFERIE CENTRALE DU VERT BOIS
 
 |
 
@@ -9624,31 +9574,31 @@ PETROPLUS RAFFINAGE PETIT-COURONNE
 
 |
 
-420 782
+0
 
 |
 
-413 040
+0
 
 |
 
-405 214
+0
 
 |
 
-397 313
+0
 
 |
 
-389 312
+0
 
 |
 
-381 284
+0
 
 |
 
-3 271 406
+864 461
 
 |
 
@@ -10136,11 +10086,11 @@ FR000000000000280
 
 |
 
-UPM-KYMMENE France Ets Chapelle-Darblay
+UPM FRANCE
 
 |
 
-UPM-KYMMENE France Ets Chapelle-Darblay
+UPM France Ets Chapelle Darblay
 
 |
 
@@ -10472,11 +10422,11 @@ FR000000000000287
 
 |
 
-Double A
+DA Alizay
 
 |
 
-Double A
+DA Alizay
 
 |
 
@@ -10712,11 +10662,11 @@ FR000000000000292
 
 |
 
-Michel Blin
+Holophane
 
 |
 
-VERRE
+Holophane
 
 |
 
@@ -11048,11 +10998,11 @@ FR000000000000300
 
 |
 
-CORIANCE
+MONT SAINT-AIGNAN ENERGIE VERTE
 
 |
 
-Chaufferie urbaine de Mont-Saint-Aignan, Mont-Saint-Aignan
+Chaufferie urbaine de Mont-Saint-Aignan
 
 |
 
@@ -11096,11 +11046,11 @@ FR000000000000301
 
 |
 
-NeoElectra du Rouvray
+Taranis du Rouvray
 
 |
 
-NEOELECTRA DU ROUVRAY
+Taranis du Rouvray
 
 |
 
@@ -12196,54 +12146,6 @@ PEUGEOT CITROEN AUTOMOBILES SA VESOUL
 
 |
 
-FR000000000000328
-
-|
-
-FRANCHE-COMTE ENERGIES
-
-|
-
-DALKIA - FRANCHE-COMTE ENERGIES
-
-|
-
-0
-
-|
-
-0
-
-|
-
-0
-
-|
-
-0
-
-|
-
-0
-
-|
-
-0
-
-|
-
-0
-
-|
-
-0
-
-|
-
-0
-
-|
-
 FR000000000000329
 
 |
@@ -13160,11 +13062,11 @@ FR000000000000354
 
 |
 
-ATEMAX Sud Est
+ATEMAX France
 
 |
 
-ATEMAX Sud Est
+ATEMAX France
 
 |
 
@@ -13548,7 +13450,7 @@ STORENGY
 
 |
 
-Stockage souterrain de TERSANNE
+Stockage Souterrain de TERSANNE
 
 |
 
@@ -13560,31 +13462,31 @@ Stockage souterrain de TERSANNE
 
 |
 
-3 052
+0
 
 |
 
-2 670
+0
 
 |
 
-2 300
+0
 
 |
 
-1 942
+0
 
 |
 
-1 596
+0
 
 |
 
-1 262
+0
 
 |
 
-20 116
+7 294
 
 |
 

@@ -52,37 +52,29 @@ Lafarge Plâtres - usine d'Auneuil
 
 |
 
-26 534
+36 417
 
 |
 
-23 501
+35 766
 
 |
 
-20 563
+35 108
 
 |
 
-17 714
+34 443 |
+
+33 771 |
+
+33 091 |
+
+32 409
 
 |
 
-14 957
-
-|
-
-12 290
-
-|
-
-9 723
-
-|
-
-154 930
-
-|
+270 653 |
 
 FR-new-05101027
 
@@ -476,7 +468,7 @@ UNION INVIVO
 
 |
 
-Union Invivo côté fleuve
+Union Invivo côté Fleuve
 
 |
 
@@ -488,31 +480,29 @@ Union Invivo côté fleuve
 
 |
 
-1 181
+0
 
 |
 
-1 033
+0
 
 |
 
-890
+0
 
 |
 
-752
+0
 
 |
 
-618
+0 |
+
+0
 
 |
 
-489
-
-|
-
-7 787
+2 824
 
 |
 
@@ -616,49 +606,37 @@ FR-new-05201222
 
 |
 
-Lafarge Plâtres
+SINIAT
 
 |
 
-Lafarge Plâtres - usine de Saint-Loubès
-
-|
+SINIAT- Usine de Saint-Loubès |
 
 22 897
 
 |
 
-20 491
+27 214 |
+
+26 728 |
+
+26 236 |
+
+25 739 |
+
+25 237
 
 |
 
-18 149
+24 729
 
 |
 
-15 880
+24 219
 
 |
 
-13 680
-
-|
-
-11 551
-
-|
-
-9 492
-
-|
-
-7 508
-
-|
-
-119 648
-
-|
+202 999 |
 
 FR-new-05201262
 
@@ -1922,49 +1900,35 @@ BOLAIDOR
 
 |
 
-17 526
+20 782 |
+
+20 315
 
 |
 
-16 275
+19 849
 
 |
 
-15 058
+19 382
 
 |
 
-13 871
+18 914 |
 
-|
+18 446 |
 
-12 716
+17 980 |
 
-|
-
-11 594
-
-|
-
-10 507
-
-|
-
-116 352
-
-|
+154 473 |
 
 FR-new-05401050
 
 |
 
-ISOROY AUXERRE
+KRONOSPAN SAS |
 
-|
-
-ISOROY AUXERRE
-
-|
+KRONOSPAN AUXERRE |
 
 14 574
 
@@ -2306,35 +2270,29 @@ SAS UCLAB INDUSTRIE
 
 |
 
-11 805
+12 442 |
+
+11 953
 
 |
 
-11 210
+11 474 |
+
+11 002 |
+
+10 536
 
 |
 
-10 631
+10 079
 
 |
 
-10 063
+9 631
 
 |
 
-9 507
-
-|
-
-8 963
-
-|
-
-8 433
-
-|
-
-83 019
+89 524
 
 |
 
@@ -2454,31 +2412,31 @@ COOPERL Arc Atlantique, site de Montreuil
 
 |
 
-1 522
+0
 
 |
 
-1 332
+0
 
 |
 
-1 147
+0
 
 |
 
-969
+0
 
 |
 
-796
+0
 
 |
 
-630
+0
 
 |
 
-10 035
+3 639
 
 |
 
@@ -2538,7 +2496,7 @@ Peugeot Citroën Mécanique de l'Est SNC
 
 |
 
-Peugeot Citroën Mécanique de l'Est SNC
+Peugeot Citroën site de Dompierre-sur-Besbre
 
 |
 
@@ -2586,9 +2544,7 @@ Groupe MARAZZI France
 
 |
 
-Groupe MARAZZI France
-
-|
+Groupe MARAZZI site de Paulhaguet |
 
 11 654
 
@@ -2774,13 +2730,11 @@ FR-new-05600419
 
 |
 
-M. Maurice LABOUE
-
-|
-
 Rockwool France SAS
 
 |
+
+Rockwool France site de St-Eloy -les-Mines |
 
 90 502
 
@@ -2870,11 +2824,9 @@ FR-new-05602388
 
 |
 
-COLAS RHÔNE-ALPES AUVERGNE
+COLAS RHONE ALPES AUVERGNE |
 
-|
-
-COLAS RHÔNE-ALPES AUVERGNE (POSTE ASTEC) |
+COLAS RHONE ALPES AUVERGNE (POSTE TSM28) |
 
 1 578
 
@@ -2916,13 +2868,11 @@ FR-new-05602422
 
 |
 
-APPIA Grands Travaux
+EFFAGE
 
 |
 
-Centrale d'enrobage au bitume de matériaux routiers à chaud
-
-|
+Centrale d'enrobage MI707 |
 
 2 351
 
@@ -4560,37 +4510,27 @@ Atelier d'acide nitrique N8
 
 |
 
-67 707
+135 414
 
 |
 
-66 496
+132 993 |
+
+130 546
 
 |
 
-65 273
+128 072 |
+
+125 575 |
+
+123 046
 
 |
 
-64 036
+120 509 |
 
-|
-
-62 787
-
-|
-
-61 523
-
-|
-
-60 254
-
-|
-
-516 980
-
-|
+965 059 |
 
 FR-new-05900536
 
@@ -5894,7 +5834,7 @@ PLACOPLATRE
 
 |
 
-PLACOPLATRE - usine de CHAMBERY
+PLACOPLATRE - Usine de CHAMBERY
 
 |
 
@@ -5902,35 +5842,33 @@ PLACOPLATRE - usine de CHAMBERY
 
 |
 
-31 332
+43 005
 
 |
 
-27 752
+42 235 |
+
+41 458
 
 |
 
-24 282
+40 673
 
 |
 
-20 918
+39 880
 
 |
 
-17 663
+39 077
 
 |
 
-14 514
+38 271
 
 |
 
-11 483
-
-|
-
-182 956
+319 611
 
 |
 
@@ -6146,33 +6084,25 @@ CENTRE HOSPITALIER UNIVERSITAIRE DE SAINT-ETIENNE
 
 |
 
-2 615
+0
 
 |
 
-2 288
+0 |
+
+0 |
+
+0
 
 |
 
-1 972
+0
 
 |
 
-1 667
+0 |
 
-|
-
-1 371
-
-|
-
-1 086
-
-|
-
-17 248
-
-|
+6 249 |
 
 FR-new-06104971
 
@@ -6560,11 +6490,11 @@ Fr-new-06111198
 
 |
 
-COLAS RHÔNE-ALPES AUVERGNE
+COLAS MIDI MEDITERRANEE |
+
+COLAS MIDI MEDITERRANEE (POSTE ASTEC 300)
 
 |
-
-COLAS RHÔNE-ALPES AUVERGNE (POSTE TSM25) |
 
 1 228
 
@@ -6788,7 +6718,7 @@ FR-new-06201019
 
 |
 
-France CERAM
+GROUPE France CERAM
 
 |
 
@@ -7266,13 +7196,9 @@ FR-new-06209168
 
 |
 
-SCREG EST
+COLAS EST |
 
-|
-
-SCREG EST - poste mobile TSM25XLM-R n° 1
-
-|
+COLAS EST - poste mobile TSM25XLM-R n° 1 |
 
 1 914
 
@@ -7418,41 +7344,35 @@ SOFIVO
 
 |
 
-6 623
+6 624
 
 |
 
-6 335
+6 995
 
 |
 
-6 051
+6 870 |
+
+6 744
 
 |
 
-5 771
+6 616
 
 |
 
-5 498
+6 487
 
 |
 
-5 231
+6 656 |
+
+6 225
 
 |
 
-4 966
-
-|
-
-4 710
-
-|
-
-45 185
-
-|
+52 917 |
 
 FR-new-06301359
 
@@ -7606,7 +7526,7 @@ SINIAT
 
 |
 
-SINIAT - usine de Carpentras
+SINIAT - Usine de Carpentras
 
 |
 
@@ -7614,37 +7534,23 @@ SINIAT - usine de Carpentras
 
 |
 
-21 951
+30 128 |
+
+29 589 |
+
+29 045 |
+
+28 495
 
 |
 
-19 443
+27 939 |
 
-|
+37 377 |
 
-17 012
+26 812 |
 
-|
-
-14 653
-
-|
-
-12 375
-
-|
-
-10 167
-
-|
-
-8 044
-
-|
-
-128 173
-
-|
+223 213 |
 
 FR-new-06400928
 
@@ -7794,13 +7700,9 @@ FR-new-06400982
 
 |
 
-VINYLFOS
+KEM ONE |
 
-|
-
-VINYLFOS
-
-|
+KEM ONE |
 
 69 189
 
@@ -7890,13 +7792,11 @@ FR-new-06401076
 
 |
 
-ISOROY TORCY
+KRONOSPAN SAS
 
 |
 
-ISOROY TORCY
-
-|
+KRONOSPAN TORCY |
 
 33 753
 
@@ -7942,7 +7842,7 @@ SINIAT
 
 |
 
-SINIAT - usine de Mazans
+SINIAT - Usine de Mazans
 
 |
 
@@ -7950,35 +7850,31 @@ SINIAT - usine de Mazans
 
 |
 
-6 469
+8 979 |
+
+8 819
 
 |
 
-5 729
+8 656
 
 |
 
-5 013
+8 492
 
 |
 
-4 318
+8 327
 
 |
 
-3 647
+8 159
 
 |
 
-2 997
+7 991 |
 
-|
-
-2 370
-
-|
-
-37 771
+66 651
 
 |
 
@@ -8366,7 +8262,7 @@ Atelier ammoniac Grandpuits
 
 |
 
-FR-new-06501965
+FR-new-06508159
 
 |
 
@@ -8382,37 +8278,27 @@ KNAUF Plâtres & Cie
 
 |
 
-29 611
+40 641
 
 |
 
-26 227
+39 914
 
 |
 
-22 947
+39 180 |
+
+38 437 |
+
+37 688 |
+
+36 929 |
+
+36 167
 
 |
 
-19 768
-
-|
-
-16 692
-
-|
-
-13 716
-
-|
-
-10 850
-
-|
-
-172 897
-
-|
+302 042 |
 
 FR-new-06502229
 
@@ -8430,37 +8316,31 @@ SINIAT
 
 |
 
-15 259
+20 943
 
 |
 
-13 516
+20 568
 
 |
 
-11 826
+20 190
 
 |
 
-10 188
+19 807
 
 |
 
-8 602
+19 421
 
 |
 
-7 067
+19 030 |
 
-|
+18 638 |
 
-5 590
-
-|
-
-89 098
-
-|
+155 647 |
 
 FR-new-06505584
 
@@ -8478,35 +8358,27 @@ PLACOPLATRE - usine de CORMEILLES
 
 |
 
-15 701
+23 029
 
 |
 
-13 906
+22 617 |
+
+22 201 |
+
+21 780
 
 |
 
-12 167
+21 356 |
+
+20 926
 
 |
 
-10 482
+20 494 |
 
-|
-
-8 851
-
-|
-
-7 273
-
-|
-
-5 753
-
-|
-
-91 677
+169 947
 
 |
 
@@ -8514,13 +8386,11 @@ FR-new-06505700
 
 |
 
-LETICO SN
+ALTERNAE
 
 |
 
-Société LETICO silo de GENICOURT
-
-|
+Société ALTERNAE silo de GENICOURT |
 
 1 036
 
@@ -9138,13 +9008,11 @@ FR-new-06700463
 
 |
 
-General Motors Strabourg
+PUNCH POWERGLIDE STRASBOURG
 
 |
 
-General Motors Strasbourg
-
-|
+PUNCH POWERGLIDE STRASBOURG |
 
 74
 
@@ -9190,7 +9058,7 @@ Lafarge Plâtres
 
 |
 
-Lafarge Plâtres - usine de Ottmarsheim
+Lafarge Plâtres - Usine de Ottmarsheim
 
 |
 
@@ -9198,35 +9066,25 @@ Lafarge Plâtres - usine de Ottmarsheim
 
 |
 
-14 200
+19 489
 
 |
 
-12 577
+19 141
 
 |
 
-11 004
+18 789 |
 
-|
+18 433 |
 
-9 480
+18 073 |
 
-|
+17 709 |
 
-8 005
+17 344 |
 
-|
-
-6 577
-
-|
-
-5 203
-
-|
-
-82 913
+144 845
 
 |
 
@@ -11346,11 +11204,9 @@ FR-new-07001047
 
 |
 
-CEREC ANTONIUS
+CEREC |
 
-|
-
-CEREC ANTONIUS
+CEREC
 
 |
 
@@ -11834,35 +11690,31 @@ PLACOPLATRE - usine de COGNAC
 
 |
 
-21 157
+29 038 |
+
+28 519 |
+
+27 994
 
 |
 
-18 740
+27 464
 
 |
 
-16 397
+26 928
 
 |
 
-14 124
+26 386
 
 |
 
-11 927
+25 842
 
 |
 
-9 799
-
-|
-
-7 752
-
-|
-
-123 538
+215 813
 
 |
 
@@ -11982,31 +11834,25 @@ SOCOMAC
 
 |
 
-457
+0
 
 |
 
-399
+0
 
 |
 
-344
+0 |
+
+0 |
+
+0 |
+
+0
 
 |
 
-290
-
-|
-
-239
-
-|
-
-189
-
-|
-
-3 010
+0
 
 |
 
@@ -12014,9 +11860,7 @@ FR-new-07208217
 
 |
 
-Dupont Danisco
-
-|
+Electricité de France |
 
 Chaufferie DANISCO usine de Melle
 
@@ -12122,35 +11966,35 @@ PLACOPLATRE - usine de VAUJOURS
 
 |
 
-62 133
+85 277
 
 |
 
-55 033
+83 752
 
 |
 
-48 152
+82 211
 
 |
 
-41 479
+80 653
 
 |
 
-35 024
+79 080
 
 |
 
-28 778
+77 488
 
 |
 
-22 768
+75 890
 
 |
 
-362 795
+633 779
 
 |
 
@@ -12254,11 +12098,11 @@ FR-new-10000513
 
 |
 
-AREA France CERAM
+SAS GROUPE FRANCE CERAM
 
 |
 
-AREA France CERAM
+SAS GROUPE FRANCE CERAM
 
 |
 
@@ -12292,7 +12136,7 @@ AREA France CERAM
 
 |
 
-86 641 |
+86 639 |
 
 FR-new-10000681
 
@@ -12730,11 +12574,9 @@ FR-new-25200001
 
 |
 
-CREUSOT FORGE
+AREVA NP |
 
-|
-
-CREUSOT FORGE
+AREVA NP
 
 |
 

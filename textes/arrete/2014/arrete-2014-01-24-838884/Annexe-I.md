@@ -10,18 +10,6 @@ NOM DE L'INSTALLATION
 
 |
 
-FR000000000000143
-
-|
-
-E.ON
-
-|
-
-E.ON ― Centrale de LUCY
-
-|
-
 FR000000000000171
 
 |
@@ -276,7 +264,7 @@ FR000000000001040
 
 |
 
-EDF Corse
+EDF SEI
 
 |
 
@@ -288,7 +276,7 @@ FR000000000001041
 
 |
 
-EDF Corse
+EDF SEI
 
 |
 
@@ -372,7 +360,7 @@ FR000000000001114
 
 |
 
-EDF PEI
+EDF SEI
 
 |
 
@@ -384,9 +372,11 @@ FR000000000001116
 
 |
 
-EDF Production électrique insulaire SAS |
+EDF SEI
 
-EDF Production électrique insulaire SAS - Etablissement de Bellefontaine |
+|
+
+EDF SEI centrale de BELLEFONTAINE |
 
 FR000000000001133
 
@@ -500,23 +490,45 @@ FR-New-06208313
 
 |
 
-POWEO
+TOUL POWER SAS
 
 |
 
-POWEO TOUL PRODUCTION Centrale électrique
-
-|
+TOUL POWER SAS, centrale électrique de Toul |
 
 FR-New-06900399
 
 |
 
-CARAÏBES ÉNERGIE
+ALBIOMA CARAÏBES
 
 |
 
-CARAÏBES ÉNERGIE
+ALBIOMA CARAÏBES
+
+|
+
+FR-new6900563
+
+|
+
+EDF PEI
+
+|
+
+EDF PEI centrale de Pointe Jarry
+
+|
+
+FR-New-06900568
+
+|
+
+EDF PEI
+
+|
+
+EDF PEI centrale de Bellefontaine
 
 |
 
@@ -540,7 +552,7 @@ EDF PEI
 
 |
 
-EDF PEI Port Est
+EDF PEI centrale de Port Est
 
 |
 
@@ -548,13 +560,9 @@ FR-new-07300368
 
 |
 
-EDF PEI Haute-Corse
+EDF PEI |
 
-|
-
-EDF Production Electrique Insulaire ― Etablissement de Haute-Corse
-
-|
+EDF PEI centrale de Haute-Corse |
 
 FR-new-07404411
 
@@ -568,7 +576,7 @@ GLOBAL SWITCH
 
 |
 
-FR-new-40000003 |
+FR-new40000003 |
 
 Electricité de Mayotte
 
@@ -578,7 +586,7 @@ EDM Centrale de Badamiers
 
 |
 
-FR-new-40000024 |
+FR-new40000024 |
 
 Electricité de Mayotte
 
