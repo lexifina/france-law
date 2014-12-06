@@ -18,15 +18,11 @@ Semaine
 
 |
 
-a+b+c
-
-(3)
+a+b+c (3)
 
 |
 
-Année
-
-(2)
+Année (2)
 
 |
 
@@ -34,15 +30,11 @@ Semaine
 
 |
 
-a+b+c
-
-(3)
+a+b+c (3)
 
 |
 
-Année
-
-(2)
+Année (2)
 
 |
 
@@ -304,15 +296,11 @@ Semaine
 
 |
 
-a+b+c
-
-(3)
+a+b+c(3)
 
 |
 
-Année
-
-(2)
+Année (2)
 
 |
 
@@ -320,15 +308,11 @@ Semaine
 
 |
 
-a+b+c
-
-(3)
+a+b+c(3)
 
 |
 
-Année
-
-(2)
+Année (2)
 
 |
 
