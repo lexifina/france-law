@@ -1,0 +1,9 @@
+# Réponse à la question n° 27043
+
+- Question : [27043](27043.md) — Question n° 27043 — conditions de travail; Carcassonne
+
+## Réponse
+
+*JO du 2014-12-09*
+
+Au 26 septembre 2014, la maison d'arrêt de Carcassonne accueillait 94 personnes détenues pour une capacité de 66 places, représentant un taux d'occupation de 151,6 % (contre 157, 6 % au 1er janvier 2014 et 153 % au 1er janvier 2013). Afin d'endiguer cette augmentation, des opérations de désencombrements dans d'autres maisons d'arrêt sont régulièrement réalisées. Ainsi, en 2013, plus de 20 personnes détenues ont été transférées sur d'autres établissements de la région. Ces transferts ont permis d'éviter l'utilisation de matelas au sol au sein de la maison d'arrêt de Carcassonne. Il n'a en revanche pas été constaté de croissance exponentielle du nombre des violences commises à l'encontre du personnel pénitentiaire (15 dont 13 violences verbales - menaces ou insultes - pour l'année en cours, contre 15 dont 11 violences verbales en 2013 et 16 en 2012). S'agissant des effectifs de cet établissement, le taux de couverture se situe à 100 % voire plus pour les surveillants. En effet, au 27 octobre 2014, 40 équivalents temps plein travaillés sont comptabilisés dans le personnel de surveillance sur un effectif de référence de 38 personnels. S'agissant enfin des nouvelles missions assignées à l'administration pénitentiaire en matière d'extraction judiciaire, il convient d'indiquer que la région Languedoc-Roussillon, dans le ressort de laquelle se situe la maison d'arrêt de Carcassonne, n'est pas concernée par ce dispositif. En tout état de cause, ces missions sont réalisées par des agents spécialement recrutés et habilités à l'exécution de ces missions spécifiques et non par le personnel des établissements pénitentiaires du ressort.
