@@ -1,0 +1,9 @@
+# Réponse à la question n° 16513
+
+- Question : [16513](16513.md) — Question n° 16513 — tarif de première nécessité; bénéficiaires
+
+## Réponse
+
+*JO du 2014-12-09*
+
+Les tarifs sociaux de l'électricité (tarif de première nécessité - TPN) et du gaz (tarif spécial de solidarité - TSS), constituent un élément important du dispositif d'aide aux ménages modestes afin de garantir leur droit d'accès à l'énergie. Le TPN pour l'électricité et le TSS pour le gaz sont attribués en fonction des revenus et étaient ouverts jusqu'à présent aux personnes disposant de revenus leur donnant droit à la couverture maladie universelle complémentaire (CMUC). Fin 2012, le Gouvernement a élargi les critères aux personnes éligibles à l'aide au paiement d'une assurance complémentaire de santé (ACS), soit une augmentation des plafonds de ressources de 35 %. Le décret du 15 novembre 2013 relatif à l'extension des tarifs sociaux de l'énergie, prévu par la loi du 15 avril 2013 visant à préparer la transition vers un système énergétique sobre, introduit un critère d'éligibilité supplémentaire, fondé sur le revenu fiscal de référence, qui permettra à 4 millions de foyers de bénéficier des tarifs sociaux. En outre, la possibilité est maintenant offerte à tous les fournisseurs de proposer le TPN. L'enjeu est de permettre aux ménages les plus modestes y compris ceux qui ne bénéficient pas de la CMUC ou de l'ACS, de se voir attribuer les tarifs sociaux. Par ailleurs, dans le cadre de la protection des consommateurs en situation de précarité énergétique le projet de loi relatif à la transition énergétique pour la croissance verte, prévoit de mettre en place un chèque énergie, dispositif visant notamment à aider les ménages modestes à payer leurs factures concernant toutes les énergies, alors que les actuels tarifs sociaux ne touchent que le gaz et l'électricité.
