@@ -1,0 +1,9 @@
+# Réponse à la question n° 69927
+
+- Question : [69927](69927.md) — Question n° 69927 — chrétiens; condamnation à mort; attitude de la France
+
+## Réponse
+
+*JO du 2014-12-09*
+
+La France est très préoccupée par la situation d'Asia Bibi, Pakistanaise de confession chrétienne, dont la condamnation à mort pour blasphème prononcée en novembre 2010 a été confirmée en deuxième instance le 16 octobre 2014 par la Haute Cour de Lahore. La France est mobilisée, depuis le début, sur ce dossier qui avait suscité la plus vive indignation au sein de la société civile, en France et en Europe. Elle a exprimé, à plusieurs reprises, sa préoccupation au nouveau gouvernement pakistanais. A la suite du verdict du 16 octobre, le porte-parole du ministère des affaires étrangères et du développement international a exprimé l'inquiétude de la France et invité le Pakistan à respecter ses engagements internationaux, notamment le pacte international relatif aux droits civils et politiques. Cette position est aussi relayée régulièrement par l'Union européenne dans le cadre de son dialogue avec les autorités pakistanaises. Cette affaire illustre, de manière dramatique, les risques d'atteintes aux libertés fondamentales contenus dans la notion de « délit de blasphème », contraire aux principes des droits de l'Homme qui guident l'action de la France sur la scène internationale. Alors que la procédure judiciaire concernant Asia Bibi se poursuit dans un climat de forte tension, la France accorde une attention particulière à la sécurité de cette jeune femme sur son lieu de détention, en appelant régulièrement l'attention des autorités pakistanaises, au plus haut niveau, sur ce point. Le gouvernement fait et fera tout ce qui est son pouvoir, dans le cadre de l'évolution de la procédure engagée par les autorités judiciaires, pour porter à nouveau son message auprès des plus hautes instances pakistanaises, afin qu'un dénouement positif puisse intervenir le plus tôt possible.
