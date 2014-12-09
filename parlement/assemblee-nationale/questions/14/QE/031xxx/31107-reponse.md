@@ -1,0 +1,9 @@
+# Réponse à la question n° 31107
+
+- Question : [31107](31107.md) — Question n° 31107 — système pénitentiaire; établissements; construction
+
+## Réponse
+
+*JO du 2014-12-09*
+
+La maison d'arrêt de Saint-Pierre est installée depuis 1930 dans les anciens locaux de la compagnie des Indes datant de 1863. Dotée de 121 places de détention hommes réparties sur 26 cellules, elle hébergeait 128 personnes détenues au 1er juin 2013. La garde des sceaux s'est engagée dans la lutte pour l'amélioration de la dignité des conditions de détention et des conditions de travail des personnels, en initiant une nouvelle politique pénale, qui vise à la réinsertion et à la prévention de la récidive, et en élaborant un programme immobilier ambitieux, dans le cadre du budget triennal 2013-2015. Ce programme prévoit la construction de places de détention supplémentaires, la fermeture de places de détention particulièrement vétustes et la rénovation d'établissements d'envergure. La liste des établissements concernés par ce premier budget triennal a été arrêtée, d'une part, sur la base de deux critères précis que sont la surpopulation et la vétusté des établissements et, d'autre part, en composant avec les promesses faites par le précédent gouvernement sans le moindre financement. Le projet de construction doit être mis en débat au regard des capacités financières de l' Etat et des besoins. Dans l'attente, et grâce à l'augmentation substantielle des crédits de rénovation des établissements que la ministre a inscrits dans le budget, la maison d'arrêt continue de faire l'objet de travaux d'entretien et de maintenance. Ainsi en 2012 165.000€ ont été investis pour la réhabilitation d'un quartier, le renforcement des plafonds de la détention et le remplacement des caméras des chemins de ronde. Les travaux de mise aux normes éléctriques ont eu lieu quand à eux en 2013 pour 30.000€.
