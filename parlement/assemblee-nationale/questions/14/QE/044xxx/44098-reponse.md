@@ -1,0 +1,9 @@
+# Réponse à la question n° 44098
+
+- Question : [44098](44098.md) — Question n° 44098 — rapport; propositions
+
+## Réponse
+
+*JO du 2014-12-09*
+
+Le rapport de la mission confiée à Monsieur Pierre Lescure sur « les contenus numériques et la politique culturelle à l'heure du numérique » a recommandé de conduire des négociations avec les organisations représentatives, sous l'égide du ministère de la culture et de la communication et du Conseil supérieur de la propriété littéraire et artistique, afin de mettre en oeuvre une gestion collective obligatoire pour les oeuvres indisponibles dans tous les secteurs culturels. La ministre de la culture et de la communication partage pleinement la volonté de la mission de rendre les oeuvres davantage accessibles au public, tout en assurant la juste rémunération de leurs créateurs. Une telle démarche des pouvoirs publics implique nécessairement en amont une importante consultation des acteurs concernés et une approche sectorielle, respectueuse des modèles économiques de chaque secteur ainsi que des pratiques contractuelles qui y sont en vigueur. Sous l'impulsion du ministère, le secteur du livre bénéficie aujourd'hui d'un régime inédit grâce à la loi n° 2012-287 du 1er mars 2012 relative à l'exploitation numérique des livres indisponibles du XXe siècle, qui a instauré un système de gestion collective et paritaire, avec transfert à une société de gestion collective, la Sofia, de l'exercice des droits numériques. Agréée par le ministre chargé de la culture selon les critères définis par décret et gérée à parité par des représentants des auteurs et des représentants des éditeurs, la Sofia peut délivrer des autorisations d'exploitation numérique. 35 200 nouveaux livres ont ainsi été inscrits dans la base des livres indisponibles ReLIRE le 21 mars dernier.
