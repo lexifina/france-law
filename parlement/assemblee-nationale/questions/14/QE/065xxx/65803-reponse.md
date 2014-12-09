@@ -1,0 +1,9 @@
+# Réponse à la question n° 65803
+
+- Question : [65803](65803.md) — Question n° 65803 — terrorisme; position de la Turquie; attitude de la France
+
+## Réponse
+
+*JO du 2014-12-09*
+
+Le trafic de pétrole dans les régions frontalières entre la Turquie, la Syrie et l'Irak est un phénomène ancien. Il connaît aujourd'hui un essor particulièrement inquiétant. Les autorités turques luttent contre ce trafic depuis plusieurs années. De nombreuses interceptions et arrestations ont eu lieu ces derniers mois. Toutefois, les flux continuent de se développer et les mesures de contrôle peinent à freiner ce trafic, qui s'étend sur une zone très étendue. La Turquie partage près de 850 km de frontière avec la Syrie et 350 km avec l'Irak. Sur ce sujet ainsi que sur la lutte contre les filières de combattants radicaux, la France travaille en étroite coopération avec les autorités turques. Lors de l'entretien du ministre des affaires étrangères et du développement international avec son homologue turc le 10 octobre dernier à Paris, la lutte contre ces filières et, plus généralement, la crise en Syrie et en Irak ainsi que la lutte contre le groupe Daech ont été évoquées. Il est important de ne pas faire passer de message d'isolement aux autorités turques, qui accueillent déjà près d'1,5 millions de réfugiés et qui sont confrontées à une menace qui nous concerne tous, contre laquelle nous devons agir ensemble. Le processus d'adhésion de la Turquie à l'Union européenne n'est pas lié à la situation en Syrie et en Irak. C'est un processus de long terme qui répond à l'intérêt commun de l'Union européenne et de la Turquie. Les négociations entamées en 2005 se poursuivent, dans la transparence et le respect du cadre agréé, notamment en matière d'Etat de droit. Bien évidemment, la reprise des négociations ne préjuge en rien de leur aboutissement. Il s'agit d'un processus ouvert et exigeant, à la fin duquel le peuple français sera consulté.
