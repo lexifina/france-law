@@ -1,0 +1,9 @@
+# Réponse à la question n° 11512
+
+- Question : [11512](11512.md) — Question n° 11512 — recouvrement; procédures
+
+## Réponse
+
+*JO du 2014-12-09*
+
+Dans le cadre d'une expérimentation locale, l'Urssaf de Paris a, en 2011 et 2012, externalisé les procédure de recouvrement amiable (notamment les relances téléphoniques), en les confiant à des huissiers, alors que ceux ci n'interviennent normalement qu'au stade du recouvrement forcé. Le bilan de cette expérimentation a conduit à ne pas pérenniser le dispositif localement et à ne pas le généraliser au niveau national. Aujourd'hui, l'Urssaf d'Ile-de-France effectue elle-même, comme les autres organismes, les procédures de recouvrement amiable, notamment les relances et les mises en demeure, avant tout recours aux huissiers. En effet, le Gouvernement a fait du recouvrement amiable une priorité dans le cadre des conventions d'objectifs et de gestion 2010-2013 et 2014-2017. Il doit être réalisé directement par les organismes car il constitue une étape normale dans les relations avec les entreprises. Le recouvrement amiable doit répondre à des objectifs d'efficacité, de souplesse et de réactivité. Parmi les mesures prises ces dernières années peuvent être mentionnées notamment la mise en place d'une approche préventive en cas de risque de non-paiement, des possibilités de demandes de délai de paiement directement par voie dématérialisée et des conditions facilitées de remises des majorations de retard. L'utilisation des nouvelles technologies de communication, les courriels notamment, qui sont de plus en plus utilisés par les cotisants, permet également une relation plus rapide et fiable avec les cotisants. 600 000 relances amiables ont été effectuées en 2013 par les organismes. 166 000 délais de paiement ont été accordés la même année, ce qui révèle l'attention accordée à l'accompagnement et au suivi des entreprises en difficulté par les Urssaf.
