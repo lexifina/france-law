@@ -1,0 +1,9 @@
+# Réponse à la question n° 40466
+
+- Question : [40466](40466.md) — Question n° 40466 — perspectives
+
+## Réponse
+
+*JO du 2014-12-09*
+
+L'Allemagne a fait le choix d'une sortie du nucléaire à l'horizon 2022. C'est un choix politique sur lequel le Gouvernement français n'a pas à porter de jugement. Cette décision conduit à une réduction de la puissance électrique disponible sur la plaque européenne, dont les conséquences en termes d'équilibre offre et demande sont étudiées au niveau européen. Cette décision, aura par, ailleurs un coût élevé, tant en termes financiers pour remplacer l'outil de production nucléaire, qu'en termes écologiques du fait de la mise en service programmée de plusieurs centrales thermiques, émettrices de CO2 notamment au charbon. D'autres pays, à l'instar de la France, ont confirmé le choix du nucléaire pour subvenir à leur approvisionnement électrique, choix que la France a fait de longue date. Le nucléaire constitue une filière industrielle majeure de l'économie française, source de centaines de milliers d'emplois, d'un chiffre d'affaires à l'export qui se compte en milliards d'euros, d'innovation, et productrice d'une source d'électricité bon marché qui améliore la compétitivité des industries françaises et le pouvoir d'achat des ménages. Ce choix constitue également un élément essentiel de la politique énergie-climat du Gouvernement en contribuant à l'indépendance énergétique de notre pays et à notre politique active de lutte contre les émissions de gaz à effet de serre. Il est à noter que projet de loi relatif à la transition énergétique pour la croissance verte adopté par l'Assemblée nationale et prochainement examiné par le Sénat, prévoit de ramener la part du nucléaire à 50 % de la production d'électricité en 2025. La tenue de cet engagement nécessitera de décider d'une configuration nouvelle du parc électrique, et notamment du parc nucléaire, en développant les énergies renouvelables.
