@@ -1,0 +1,9 @@
+# Réponse à la question n° 2916
+
+- Question : [2916](2916.md) — Question n° 2916 — économie numérique; perspectives
+
+## Réponse
+
+*JO du 2014-12-09*
+
+La création d'espaces numériques, notamment au sein d'établissements publics est encouragée par deux mesures : - la première mesure vise le soutien à l'inclusion numérique grâce à l'appui aux réseaux des espaces publics numériques (EPN) qu'assure la délégation aux usages de l'internet (DUI). Cet appui prend la forme d'une coordination, assortie de services (charte et label, cartographie, ressources pédagogiques en ligne, outils et services en ligne, notamment des outils de certification à distance, jeux sérieux, ...) ; - la deuxième mesure concerne la mobilisation de 2 000 emplois d'avenir pour le réseau des EPN, prévoyant un partenariat entre EPN et entreprises marraines. Le fonds solidarité numérique soutient également des projets spécifiques d'inclusion numériques. Le programme Ordi 2.0 encourage enfin les bonnes pratiques et les modèles d'économie circulaire qui font du numérique un facteur d'innovation sociale et d'une meilleure inclusion des individus. Afin d'améliorer les prestations offertes au public par ces réseaux d'acteurs de terrain, la secrétaire d'Etat chargée du numérique a lancé, le 9 juillet 2014, une consultation publique pour inviter, pendant trois mois, l'ensemble des acteurs de la médiation numérique à élaborer un cadre d'action commun. Ce cadre a pour ambition d'identifier les initiatives innovantes et de donner de la visibilité aux actions de médiation menées sur le territoire national. La création prochaine de l'Agence du numérique permettra de rapprocher le développement des infrastructures (réseaux de télécommunications à haut et très haut débit) et le renforcement de l'accompagnement au développement des usages.
