@@ -1,0 +1,9 @@
+# Réponse à la question n° 57745
+
+- Question : [57745](57745.md) — Question n° 57745 — qualité; Conseil économique, social et environnemental; rapport; propositions
+
+## Réponse
+
+*JO du 2014-12-09*
+
+A partir du 1er janvier 2014, les taux de taxe sur la valeur ajoutée (TVA) ont été modifiés comme suit : le taux normal est fixé à 20 % et le taux réduit de 7 % est porté à 10 %. Cette mesure, nécessaire pour redresser les finances publiques, préserve le prix des produits de première nécessité qui demeurent soumis au taux réduit de 5,5 %. En effet, le 1° du A de l'article 278-0 bis du code général des impôts (CGI) soumet au taux réduit de 5,5 % de TVA les livraisons de produits destinés à l'alimentation humaine à l'exception de certains produits, tels que les produits de confiserie ou le caviar qui relèvent du taux normal de la TVA. Les produits alimentaires bruts de première nécessité bénéficient donc déjà du taux réduit de 5,5 % de TVA. Dans la mesure où la directive n° 2006/112/CE relative au système commun de la TVA, ne prévoit que la faculté pour les Etats membres d'appliquer soit un, soit deux taux réduits de TVA, la fixation d'un taux de TVA spécifiquement applicable à ces produits n'est pas envisageable. Par ailleurs, l'aide alimentaire en France est essentiellement distribuée au travers d'associations mettant directement à disposition des denrées achetées aux moyens de crédits institutionnels, ou données. Les modes de distribution varient en fonction du mode de vie de la personne : distributions lors de maraudes, mise à disposition dans des centres de distributions ou des épiceries sociales. Quel que soit le mode de mise à disposition de ces denrées, celui-ci fait toujours l'objet d'un accompagnement social et d'un soutien, ce que la remise de coupons alimentaires ne permet pas.
