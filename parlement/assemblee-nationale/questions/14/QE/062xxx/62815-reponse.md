@@ -1,0 +1,9 @@
+# Réponse à la question n° 62815
+
+- Question : [62815](62815.md) — Question n° 62815 — retards
+
+## Réponse
+
+*JO du 2014-12-09*
+
+La compagnie HOP ! confirme que la liaison Perpignan - Orly a une ponctualité insuffisante, notamment depuis mai dernier. Les causes identifiées par la compagnie sont variées : ainsi, près de 40 % des retards sur cette ligne sont dus à la gestion de l'embarquement, 23 % sont liés à la saturation des installations de l'aéroport de Paris-Orly, particulièrement chargé aux heures de pointe, 8 % à des problèmes techniques sur les appareils. Au-delà de ces causes générales, les avions desservant la liaison Perpignan - Orly, du fait de la longueur de son trajet, ont un programme plus dense que ceux des autres liaisons exploitées par HOP !, ce qui est de nature à accentuer les retards pris en cours de journée. Les temps d'escale plus faibles que sur des liaisons moins longues limitent très fortement les possibilités de rattrapage des retards d'un vol au suivant. En outre, en raison des contraintes liées aux périodes obligatoires de repos des équipages, un retard sur le dernier vol de la journée peut fréquemment, sur cette liaison, se propager au premier vol du lendemain. Ce phénomène est la cause de 8 % des retards. Des actions correctrices sont en cours de mise en place par la compagnie afin de remédier à cette situation et atteindre rapidement l'objectif de 90 % de ponctualité à 15 minutes (contre environ 80 % depuis le début de l'année). À très court terme, les tâches à réaliser pendant le temps d'escale, comme le nettoyage de l'avion, vont être réorganisées afin de gagner quelques minutes à chaque vol. Par ailleurs, la gestion de l'embarquement, source fréquente de retards, sera revue. À plus long terme, le programme de vols va être modifié pour inclure des temps d'escale plus longs, qui permettront de mieux rattraper les éventuels retards en cours de journée.
