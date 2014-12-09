@@ -1,0 +1,9 @@
+# Réponse à la question n° 63399
+
+- Question : [63399](63399.md) — Question n° 63399 — pouvoirs de police; transfert; réglementation
+
+## Réponse
+
+*JO du 2014-12-09*
+
+Les modalités de transfert des pouvoirs de police aux présidents d'établissements publics de coopération intercommunale sont régies par l'article L. 5211-9-2 du code général des collectivités territoriales. Il s'agit des pouvoirs de police spéciale qui sont énumérés dans le I dudit article. En aucun cas les pouvoirs de police générale ne sont transférés : le maire reste garant, en vertu de l'article L. 2212-2 du bon ordre, de la sûreté de la sécurité et de la salubrité publiques sur le territoire de sa commune. En termes de responsabilité, le maire n'est plus titulaire du pouvoir de police spéciale s'il ne s'est pas opposé au transfert dans les délais impartis par le III de l'article L. 5211-9-2. Le président de l'EPCI est tenu d'exercer les pouvoirs de police qui lui ont été transférés et le VI de l'article L. 5211-9-2 prévoit des mécanismes de substitution par le représentant de l'Etat dans le département en cas d'inaction. Néanmoins, les pouvoirs de police spéciale exercés par le président de l'EPCI peuvent s'articuler avec les pouvoirs de police générale exercés par le maire. Le Conseil d'Etat a ainsi considéré que « les pouvoirs de police générale reconnus au maire [...] sont distincts des pouvoirs qui lui sont conférés dans le cadre des procédures de péril ou de péril imminent régies par les articles L. 511-1 à L. 511-4 du code de la construction et de l'habitation [...], que toutefois, en présence d'une situation d'extrême urgence créant un péril particulièrement grave et imminent, le maire peut, quelle que soit la cause du danger, faire légalement usage de ses pouvoirs de police générale, et notamment prescrire l'exécution des mesures de sécurité qui sont nécessaires et appropriées » (Conseil d'Etat - 10 octobre 2005 - n° 259205).
