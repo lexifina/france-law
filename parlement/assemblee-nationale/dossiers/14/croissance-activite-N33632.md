@@ -1,0 +1,159 @@
+# Economie : croissance, activité et égalité des chances économiques
+
+- Procédure : Projet de loi ordinaire
+- Législature : 14
+- Identifiant : DLR5L14N33632
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/croissance_activite
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl14-300.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2014-12-11 : 1er dépôt d'une initiative. (PRJLANR5L14B2447)
+  - 2014-12-11 : Etude d'impact (ETDIANR5L14B2447)
+  - 2015-02-17 : Dépôt d'une déclaration du gouvernement (DECLANR5L14B2498)
+  - 2015-02-17 : Motion de censure
+  - 2014-12-11 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2014-12-11 : Renvoi en commission au fond
+      - 2014-12-16 : Nomination de rapporteur
+      - 2014-12-16 : Réunion de commission
+      - 2014-12-16 : Réunion de commission
+      - 2015-01-12 : Réunion de commission
+      - 2015-01-12 : Réunion de commission
+      - 2015-01-13 : Réunion de commission
+      - 2015-01-13 : Réunion de commission
+      - 2015-01-14 : Réunion de commission
+      - 2015-01-14 : Réunion de commission
+      - 2015-01-14 : Réunion de commission
+      - 2015-01-15 : Réunion de commission
+      - 2015-01-15 : Réunion de commission
+      - 2015-01-15 : Réunion de commission
+      - 2015-01-16 : Réunion de commission
+      - 2015-01-16 : Réunion de commission
+      - 2015-01-16 : Réunion de commission
+      - 2015-01-17 : Réunion de commission
+      - 2015-01-17 : Réunion de commission
+      - 2015-01-17 : Réunion de commission
+      - 2015-01-18 : Réunion de commission
+      - 2015-01-18 : Réunion de commission
+      - 2015-01-18 : Réunion de commission
+      - 2015-01-26 : Réunion de commission
+      - 2015-01-27 : Réunion de commission
+      - 2015-01-30 : Réunion de commission
+      - 2015-02-03 : Réunion de commission
+      - 2015-02-13 : Réunion de commission
+      - 2015-02-13 : Réunion de commission
+      - 2015-01-19 : Dépôt de rapport (RAPPANR5L14B2498, PRJLANR5L14BTC2498)
+  - Discussion en séance publique
+    - 2015-01-26 : Discussion en séance publique
+    - 2015-01-26 : Discussion en séance publique
+    - 2015-01-27 : Discussion en séance publique
+    - 2015-01-27 : Discussion en séance publique
+    - 2015-01-28 : Discussion en séance publique
+    - 2015-01-28 : Discussion en séance publique
+    - 2015-01-30 : Discussion en séance publique
+    - 2015-01-30 : Discussion en séance publique
+    - 2015-01-30 : Discussion en séance publique
+    - 2015-02-02 : Discussion en séance publique
+    - 2015-02-02 : Discussion en séance publique
+    - 2015-02-03 : Discussion en séance publique
+    - 2015-02-03 : Discussion en séance publique
+    - 2015-02-04 : Discussion en séance publique
+    - 2015-02-04 : Discussion en séance publique
+    - 2015-02-06 : Discussion en séance publique
+    - 2015-02-06 : Discussion en séance publique
+    - 2015-02-06 : Discussion en séance publique
+    - 2015-02-09 : Discussion en séance publique
+    - 2015-02-09 : Discussion en séance publique
+    - 2015-02-12 : Discussion en séance publique
+    - 2015-02-12 : Discussion en séance publique
+    - 2015-02-13 : Discussion en séance publique
+    - 2015-02-13 : Discussion en séance publique
+    - 2015-02-13 : Discussion en séance publique
+    - 2015-02-14 : Discussion en séance publique
+    - 2015-02-14 : Discussion en séance publique
+    - 2015-02-14 : Discussion en séance publique
+    - 2015-02-17 : Discussion en séance publique
+    - 2015-02-19 : Décision sur une motion de censure
+    - 2015-02-19 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2015-02-19 : Dépôt d'une initiative en navette (PRJLSNR5S239B0300)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2015-02-19 : Renvoi en commission au fond
+      - 2015-03-03 : Nomination de rapporteur
+      - 2015-03-25 : Dépôt de rapport (RAPPSNR5S239B0370)
+  - Discussion en séance publique
+    - 2015-04-07 : Discussion en séance publique
+    - 2015-04-08 : Discussion en séance publique
+    - 2015-04-09 : Discussion en séance publique
+    - 2015-04-10 : Discussion en séance publique
+    - 2015-04-11 : Discussion en séance publique
+    - 2015-04-13 : Discussion en séance publique
+    - 2015-04-14 : Discussion en séance publique
+    - 2015-04-15 : Discussion en séance publique
+    - 2015-04-16 : Discussion en séance publique
+    - 2015-04-17 : Discussion en séance publique
+    - 2015-05-04 : Discussion en séance publique
+    - 2015-05-05 : Discussion en séance publique
+    - 2015-05-06 : Discussion en séance publique
+    - 2015-05-07 : Discussion en séance publique
+    - 2015-05-11 : Discussion en séance publique
+    - 2015-05-12 : Discussion en séance publique
+    - 2015-05-12 : Décision
+- Commission Mixte Paritaire
+  - 2015-05-13 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2015-06-03 : Nomination de rapporteur
+    - 2015-06-03 : Dépôt du rapport d'une CMP (RAPPANR5L14B2833)
+    - 2015-06-03 : Dépôt du rapport d'une CMP (RAPPSNR5S239B0479)
+  - 2015-06-03 : Décision de la CMP
+- Nouvelle Lecture
+  - 2015-05-13 : Dépôt d'une initiative en navette (PRJLANR5L14B2765)
+  - 2015-06-16 : Dépôt d'une déclaration du gouvernement (DECLANR5L14B2866)
+  - 2015-06-16 : Motion de censure
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2015-05-13 : Renvoi en commission au fond
+      - 2015-06-08 : Réunion de commission
+      - 2015-06-08 : Réunion de commission
+      - 2015-06-09 : Réunion de commission
+      - 2015-06-09 : Réunion de commission
+      - 2015-06-10 : Réunion de commission
+      - 2015-06-10 : Réunion de commission
+      - 2015-06-11 : Réunion de commission
+      - 2015-06-16 : Réunion de commission
+      - 2015-06-11 : Dépôt de rapport (RAPPANR5L14B2866, PRJLANR5L14BTC2866)
+  - Discussion en séance publique
+    - 2015-06-16 : Discussion en séance publique
+    - 2015-06-18 : Décision sur une motion de censure
+    - 2015-06-18 : Décision
+- Nouvelle Lecture
+  - 2015-06-19 : Dépôt d'une initiative en navette (PRJLSNR5S239B0539)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2015-06-19 : Renvoi en commission au fond
+      - 2015-06-23 : Dépôt de rapport (RAPPSNR5S239B0541)
+  - Discussion en séance publique
+    - 2015-06-30 : Discussion en séance publique
+    - 2015-07-01 : Discussion en séance publique
+    - 2015-07-01 : Décision
+- Lecture définitive
+  - 2015-07-02 : Dépôt d'une initiative en navette (PRJLANR5L14B2934)
+  - 2015-07-09 : Dépôt d'une déclaration du gouvernement (DECLANR5L14B2934)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2015-07-02 : Renvoi en commission au fond
+      - 2015-07-09 : Réunion de commission
+      - 2015-07-09 : Dépôt de rapport (RAPPANR5L14B2970)
+  - Discussion en séance publique
+    - 2015-07-09 : Discussion en séance publique
+    - 2015-07-10 : Décision
+- Conseil constitutionnel
+  - 2015-07-15 : Saisine du conseil constitutionnel
+  - 2015-07-15 : Saisine du conseil constitutionnel
+  - 2015-08-05 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2015-08-06 : Promulgation d'une loi
