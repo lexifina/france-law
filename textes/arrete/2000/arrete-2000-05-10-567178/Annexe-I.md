@@ -632,6 +632,10 @@ Liquides inflammables :
 
 |
 
+- fiouls lourds |
+
+2 500 t |
+
 1612
 
 |
