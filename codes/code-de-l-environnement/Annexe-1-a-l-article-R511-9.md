@@ -4972,7 +4972,7 @@ D
 
 |
 
-Produits explosifs (fabrication, chargement, encartouchage, conditionnement (1) de, études et recherches, essais, montage, assemblage, mise en liaison électrique ou pyrotechnique de et travail mécanique sur)
+Produits explosifs (fabrication, chargement, encartouchage, conditionnement [1] de, études et recherches, essais, montage, assemblage, mise en liaison électrique ou pyrotechnique de et travail mécanique sur)
 
 |
 
@@ -4984,7 +4984,9 @@ Produits explosifs (fabrication, chargement, encartouchage, conditionnement (1) 
 
 |
 
-1. Fabrication industrielle par transformation chimique de la quantité totale de matière active susceptible d'être présente dans l'installation étant (2) :
+1. Fabrication industrielle par transformation chimique
+
+La quantité totale de matière active susceptible d'être présente dans l'installation étant (2) :
 
 |
 
@@ -5144,7 +5146,7 @@ a) Supérieure ou égale à 100 kg
 
 b) Inférieure à 100 kg |
 
-DC
+D
 
 |
 

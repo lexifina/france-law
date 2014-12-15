@@ -1946,6 +1946,22 @@ d) supérieure ou égale à 25 000 t pour la catégorie C, y compris les gazoles
 
 |
 
+e) Supérieure ou égale à 25 000 t pour les fiouls lourds
+
+|
+
+AS
+
+|
+
+4
+
+|
+
+|
+
+|
+
 2. stockage de liquides inflammables visés à la rubrique 1430 :
 
 |
