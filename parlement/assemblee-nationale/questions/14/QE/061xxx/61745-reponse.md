@@ -1,0 +1,9 @@
+# Réponse à la question n° 61745
+
+- Question : [61745](61745.md) — Question n° 61745 — pacte de responsabilité; création d'emplois; perspectives
+
+## Réponse
+
+*JO du 2014-12-16*
+
+Le pacte de responsabilité a été lancé par le Président de la République le 14 janvier 2014. Ses modalités de mise en oeuvre ont été précisées par le Premier ministre dans un communiqué d'avril 2014. Le gouvernement prévoit la création d'environ 190 000 emplois grâce au cercle vertueux induit par le pacte de responsabilité. Les aides aux entreprises prévues dans le Pacte de responsabilité s'élèvent à 41 Mds d'euros et visent à réduire le coût du travail. Ces aides combinent allègements de la fiscalité des entreprises à travers le CICE (crédit d'impôt compétitivité emploi - 20 Mds d'euros) et des exonérations de cotisations sociales patronales et enfin des mesures de simplification administrative leur permettant d'économiser de nombreuses heures de travail. De plus, la contribution sociale de solidarité sur les sociétés (C3S) sera supprimée à l'horizon de trois ans. L'efficacité des mesures de baisse du coût du travail est désormais bien documentée dans la littérature économique. S'il est normal que les effets d'une mesure puissent donner lieu à des estimations différentes, rien ne permet de remettre en question l'estimation réalisée par le gouvernement. En 2013, le CICE a d'ores et déjà permis la création de 30 000 emplois. Suite à la grande conférence sociale des 7 et 8 juillet 2014, les missions du comité de suivi du CICE ont été élargies. Ce comité doit devenir compétent pour suivre et évaluer l'ensemble des aides publiques aux entreprises, notamment celles du pacte de responsabilité. Il permettra notamment d'évaluer le nombre d'emplois crées dans les entreprises, les branches professionnelles et dans les territoires et bassins d'emploi.
