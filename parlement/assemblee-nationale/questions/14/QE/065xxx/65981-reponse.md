@@ -1,0 +1,9 @@
+# Réponse à la question n° 65981
+
+- Question : [65981](65981.md) — Question n° 65981 — Centre technique interprofessionnel des fruits et légumes; ressources
+
+## Réponse
+
+*JO du 2014-12-16*
+
+Le Centre technique interprofessionnel des fruits et légumes (CTIFL) est un centre technique industriel (CTI) menant des actions de recherche et d'expérimentation pour le compte des professionnels de la filière fruits et légumes frais. Son budget est financé en 2014 à 70 % par une taxe fiscale affectée (TFA), plafonnée à 17 M€. Dans le cadre de l'établissement du programme budgétaire triennal 2015-2017, qui marque une volonté de réduire la pression fiscale sur les opérateurs économiques, le Gouvernement a prévu de supprimer totalement la TFA en 2016. Dans ce contexte, la mise en place d'une cotisation volontaire obligatoire par l'interprofession des fruits et légumes frais INTERFEL est envisagée pour financer le CTIFL. Les actions de recherche et de développement font en effet partie des actions pour lesquelles la réglementation européenne permet que les interprofessions puissent demander l'extension de leurs règles. L'année 2015 constituera une année de transition dont les modalités sont en cours de précision en lien avec les professionnels. Un accompagnement spécifique permettra au centre de poursuivre ses travaux indispensables pour améliorer la performance économique, sociale et environnementale des exploitations et pour favoriser l'adaptation de l'offre de fruits et légumes aux attentes des consommateurs. La mise en place d'une contribution volontaire obligatoire (CVO) permettra de pérenniser le financement du centre technique, en évitant le plafonnement de la recette générée par la cotisation des opérateurs, tout en associant encore plus étroitement la filière aux décisions stratégiques relatives à son activité.
