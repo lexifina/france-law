@@ -1,0 +1,9 @@
+# Réponse à la question n° 50302
+
+- Question : [50302](50302.md) — Question n° 50302 — lutte et prévention
+
+## Réponse
+
+*JO du 2014-12-16*
+
+En France, 15 % de la population adulte est obèse. Cette prévalence était de l'ordre de 8,5 %, il y a douze ans. Au cours de la période 2009-2012 pour la première fois, il n'y a pas eu d'augmentation significative de cette prévalence. Chez l'enfant, selon l'enquête récente de la direction de la recherche, des études, de l'évaluation et des statistiques (DREES), la prévalence de surpoids et d'obésité était de 14,4 % en 2000, 12,4 % en 2006 et 11,9 % en 2013. Ces tendances à la baisse ou stabilisation ne doivent cependant pas occulter le fait que les inégalités sociales s'accroissent dans ce domaine. Pour réduire la prévalence de l'obésité, les différents programmes nationaux nutrition santé montrent la nécessité de développer des actions multiples et cohérentes, qui visent directement non seulement les enfants mais aussi leurs familles et la diversité des facteurs qui influencent au quotidien la consommation alimentaire et l'activité physique. Des stratégies d'information et d'éducation sont mises en oeuvre ainsi que des actions visant à faire évoluer l'environnement alimentaire et physique afin de les rendre favorables à des choix positifs pour la santé. A la demande de la ministre des affaires sociales, de la santé et des droits des femmes, le Pr Serge Hercberg a établi un rapport, « propositions pour un nouvel élan de la politique nutritionnelle française de santé publique dans le cadre de la stratégie nationale de santé » qui a été remis le 28 janvier 2014. Fondées sur une analyse scientifique approfondie, les propositions visent prioritairement la réduction des inégalités sociales de santé, dont des actions à destination des enfants et de leurs familles, fondées sur le renforcement des programmes d'information et d'éducation.
