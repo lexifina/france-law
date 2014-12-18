@@ -1,0 +1,9 @@
+# Réponse à la question SEQ140210407
+
+- Question : [SEQ140210407](seq140210407.md) — Pérennité du financement des Éclaireuses et Éclaireurs de France
+
+## Réponse
+
+*Éducation nationale, enseignement supérieur et recherche, JO du 2014-12-18, page 2812*
+
+L'association des Éclaireuses Éclaireurs de France (EEDF) est un mouvement de scoutisme laïque qui permet à des enfants d'accéder à des vacances et des loisirs éducatifs. Elle est liée au ministère de l'éducation nationale, de l'enseignement supérieur et de la recherche par une convention pluriannuelle d'objectifs (CPO), qui a été renouvelée pour la période 2014-2016. Ce renouvellement intervenu en avril 2014 témoigne de la reconnaissance de l'engagement des EEDF en faveur de la réduction des inégalités, et des valeurs de solidarité, de laïcité et d'éducation à la citoyenneté portées par ce mouvement, valeurs auxquelles le ministère est fortement attaché. Compte tenu des contraintes budgétaires actuelles, le ministère a du réévaluer son soutien afin de trouver le juste équilibre entre les besoins exprimés par l'association et les moyens disponibles pour aider au financement des projets associatifs plus directement en lien avec l'école. Or, parmi les douze associations bénéficiaires d'une CPO, l'activité des EEDF est davantage centrée sur les temps de loisir et les activités extra-scolaires. Compte tenu des difficultés que ce recentrage de moyens peut induire sur l'activité de cette association dont le financement de l'État constitue une part importante de l'ensemble des ressources, la baisse de la subvention a été contenue : 35 % par rapport aux montants effectivement versés au titre de la précédente CPO, au lieu des 50 % initialement envisagés. En renouvellant sur plusieurs années son engagement et en contenant la diminution de son financement, le ministère a réaffirmé, dans un contexte budgétaire très contraint, sa reconnaissance à l'égard du travail accompli par cette association.
