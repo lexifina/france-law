@@ -1,0 +1,147 @@
+# Article 13 bis
+
+La loi n° 2013-504 du 14 juin 2013 relative à la sécurisation de l'emploi instaure une durée minimale du travail de 24 heures par semaine (soit près de 70 % d'un temps plein) et dispose que des dérogations seront possibles par accord de branche. Nombre d'organismes et d'emplois de la branche PACT sont concernés même si le seuil d'obligation de négociation fixé par la loi à un tiers d'emploi à temps partiel au total n'est pas dépassé.
+
+L'inégale répartition des emplois à temps partiel est constatée, d'une part, concernant plus particulièrement certains emplois et les organismes à faible effectif ou équipes à effectif réduit situées dans des locaux séparés du siège et, d'autre part, concernant davantage le personnel féminin. C'est pourquoi les partenaires sociaux de la branche souhaitent promouvoir une approche globale de la durée du travail favorable au maintien de l'emploi dans les organismes relevant de la présente convention collective et tenant compte de la spécificité de leurs activités.
+
+Les partenaires sociaux rappellent que les salariés à temps partiel bénéficient des dispositions de la convention collective nationale et des droits reconnus aux salariés à temps complet, et notamment des possibilités de promotion, de formation et d'embauche à temps complet.
+
+1. Définition du travail à temps partiel
+
+Conformément aux dispositions de l'article L. 3123-1, alinéa 1, du code du travail, est considéré comme salarié à temps partiel le salarié dont la durée du travail est inférieure à la durée légale du travail ou, lorsque cette durée est inférieure à la durée légale, à la durée du travail fixée conventionnellement au sein de l'entreprise ou l'établissement.
+
+2. Durée minimale d'activité des salariés à temps partiel
+
+Conformément à l'article L. 3123-14-1 du code du travail, la durée minimale de travail du salarié à temps partiel est fixée à 24 heures par semaine ou, le cas échéant, à l'équivalent mensuel de cette durée ou à l'équivalent calculé sur la période prévue par un accord collectif.
+
+Pour les contrats de travail en cours au 1er janvier 2014 et jusqu'au 1er janvier 2016, sauf convention ou accord de branche conclu au titre de l'article L. 3123-14-3 du code du travail, la durée minimale prévue audit article L. 3123-14-1 est applicable au salarié qui en fait la demande, sauf refus de l'employeur justifié par l'impossibilité d'y faire droit compte tenu de l'activité économique de l'entreprise.
+
+3. Conditions d'ouverture des droits sociaux des salariés travaillant à temps partiel
+
+Les seuils d'ouverture des droits sociaux pour le salarié travaillant à temps partiel sont les suivants :
+
+-sur la retraite : dans le cadre de la réforme des retraites intervenue en 2013, la cotisation est à hauteur d'un salaire au moins égal à 150 fois le Smic horaire pour valider un trimestre (soit 150 × 9,53 = 1 429,50 €) et à hauteur de 600 fois le Smic horaire et 5 718 € pour en valider quatre (600 × 9,53 €). En conséquence, 600 heures par an correspond à un minimum de 11,5 heures par semaine.
+
+-sur les soins et prévoyance : à la date des soins, avoir travaillé au moins 60 heures au cours du mois précédent ou avoir cotisé sur un salaire au moins égal à 60 fois le Smic horaire (60 × 9,53 €) = 571,80 €, soit 14 heures par semaine ;
+
+-sur les indemnités journalières maladie : avoir travaillé au moins 200 heures au cours des 3 mois civils ou des 90 jours précédant l'arrêt de travail, ou avoir cotisé sur un salaire au moins égal à 1 015 fois le montant du Smic horaire au cours des 6 mois civils précédant l'arrêt de travail, soit 60 heures par mois ou 15,5 heures par semaine.
+
+4. Dérogation à la durée minimale légale à l'initiative du salarié
+
+Les cas de dérogation individuelle sont les suivants :
+
+-une durée de travail inférieure peut être fixée à la demande du salarié (nouvel article L. 3123-14-2), soit pour lui permettre de faire face à des contraintes personnelles l'obligeant à organiser son travail de façon particulière, soit pour lui permettre de cumuler plusieurs activités afin d'atteindre une durée globale d'activité correspondant à un temps plein ou au moins égal à 24 heures par semaine. Cette demande est écrite et motivée. L'employeur informe chaque année le comité d'entreprise ou, à défaut, les délégués du personnel du nombre de demandes de dérogation individuelle (nouvel article L. 3123-14-1 du code du travail).
+
+En cas d'absence de représentants du personnel, il appartient à l'employeur d'informer les salariés de ces cas de dérogation individuelle ;
+
+-les étudiants de moins de 26 ans auront droit à la fixation d'une durée de travail inférieure à 24 heures compatibles avec leurs études (nouvel article L. 3123-14-5 du code du travail).
+
+5. Dérogation à la durée minimale légale à l'initiative de l'employeur
+
+Les partenaires sociaux décident au titre du présent avenant d'abaisser la durée minimale du travail dans trois types d'emplois en référence à la classification ou concernant des situations spécifiques :
+
+-l'emploi d'employé d'entretien des bureaux ;
+
+-les emplois de la filière gestion concernant l'entretien des immeubles (agent d'entretien, ouvrier d'entretien), les ouvriers qualifiés et hautement qualifiés et les gardiens d'immeubles, ainsi que les emplois rattachés à ces derniers en vertu de l'article 3 (Emplois non cités) de l'accord en vigueur relatif à la classification des emplois ;
+
+-l'ensemble des emplois des sièges ou des implantations distantes pour une taille inférieure à un seuil fixé dans le présent avenant, nonobstant le respect, tous employeurs confondus, des planchers horaires conditionnant l'ouverture des droits sociaux (cf. point 3).
+
+5.1. Cas du temps partiel pour l'emploi d'employé d'entretien des bureaux
+
+Ce cas concerne de nombreux organismes, quelle que soit leur taille, dès lors qu'ils font le choix de salarier la personne plutôt que de recourir à une entreprise extérieure pour effectuer l'entretien des bureaux.
+
+La durée minimale du travail est fixée à 10 heures par semaine ou, le cas échéant, à l'équivalent mensuel de cette durée.
+
+5.2. Cas de certains emplois de la filière gestion
+
+Les emplois de la filière gestion concernant l'entretien des immeubles (agent d'entretien, ouvrier d'entretien), les ouvriers qualifiés et hautement qualifiés et les gardiens d'immeubles prennent en charge avec une exigence de forte proximité des petits groupes locatifs diffus sur le territoire rendant impossible l'emploi au-delà du nouveau seuil de 24 heures par semaine. Dans certain cas, la présence humaine est assurée par des gardiens logés sur place (logement de fonction).
+
+La durée minimale du travail est fixée à 10 heures par semaine ou, le cas échéant, à l'équivalent mensuel de cette durée, et 5 heures par semaine spécifiquement pour les gardiens bénéficiant d'un logement de fonction.
+
+5.3. Cas des organismes ou implantations à très faible effectif
+
+Un nombre important des organismes relevant de la convention collective nationale des personnels PACT et ARIM ont un effectif très réduit. D'autres organismes, du fait de la nécessité d'une forte proximité de l'activité avec les territoires et les populations, disposent d'implantations à distance du siège (antennes, bureaux externes, résidences ou groupes locatifs diffus...) et mobilisant également un nombre réduit d'emplois mais sur des postes divers reflétant la polyvalence des équipes territorialisées (administrative, sociale, technique, immobilière...). Ce n'est donc pas alors la nature de l'emploi qui justifie l'abaissement de la durée minimale légale du travail mais l'effectif de l'organisme ou de l'implantation. Tous les emplois sont alors concernés dès lors que le critère de taille est vérifié et apprécié selon les règles en vigueur, l'effectif maximum de l'organisme ou implantation étant fixé à 9 salariés.
+
+La durée minimale du travail est fixée à 10 heures par semaine ou, le cas échéant, à l'équivalent mensuel de cette durée.
+
+6. Garanties prévues en contrepartie à la durée minimale dérogatoire
+
+En contrepartie à la durée minimale dérogatoire prévue par le présent avenant, les salariés concernés bénéficieront des dispositions suivantes favorisant le cumul d'emplois et l'évolution professionnelle au sein et en dehors de la branche professionnelle.
+
+6.1. Facilitation du cumul d'activités
+
+Les horaires de travail au sein de l'organisme doivent être organisés afin de permettre aux salariés concernés de cumuler une ou plusieurs autres activités.
+
+6.2. Mise en œuvre d'horaires réguliers
+
+Les horaires de travail du salarié à temps partiel dont le contrat déroge à la durée légale doivent être regroupés, en application de l'article L. 3123-14-4 du code du travail, sur des journées ou des demi-journées régulières ou complètes.
+
+Les salariés occupant les emplois mentionnés au point 5 ci-dessus peuvent cumuler un ou plusieurs autres emplois pour atteindre la demi-journée ou la journée régulière ou complète en horaire de travail.
+
+6.3. Changement de planning (nouvel article L. 3123-24 du code du travail)
+
+Lorsque l'employeur demande au salarié de changer la répartition de sa durée du travail, le refus du salarié d'accepter ce changement ne constitue pas une faute ou un motif de licenciement dès lors que ce changement n'est pas compatible avec :
+
+-des obligations familiales impérieuses ;
+
+-le suivi d'un enseignement scolaire ou supérieur ;
+
+-une période d'activité fixée chez un autre employeur ;
+
+-ou une activité professionnelle non salariée.
+
+6.4. Formation professionnelle
+
+Les salariés occupant les emplois mentionnés aux points 4 et 5 ci-dessus et dont le contrat de travail déroge à la durée minimale légale doivent se voir proposer une formation permettant de conforter l'expérience professionnelle acquise au sein de la branche PACT.
+
+Les partenaires sociaux rappellent à cet effet les dispositions de la loi n° 2014-288 du 5 mars 2014 relative à la formation professionnelle, à l'emploi et à la démocratie sociale, prévoyant tous les 2 et 6 ans un entretien professionnel consacré au parcours et aux perspectives d'évolution professionnelle du salarié.
+
+7. Heures complémentaires (en l'absence d'avenant)
+
+Le nombre d'heures complémentaires effectuées par tous les salariés à temps partiel au cours d'une même semaine ou d'un même mois ne peut être supérieur à 1/3 de la durée hebdomadaire ou mensuelle de travail prévue dans leur contrat.
+
+Les heures complémentaires effectuées au-delà de la durée contractuelle, dans la limite de 1/10 de cette durée, sont majorées au taux prévu par la loi, soit 10 %.
+
+Les heures complémentaires effectuées au-delà de 1/10 de la durée contractuelle de travail, et ce dans la limite du tiers de cette même durée, sont majorées au taux de 25 %.
+
+8. Complément d'heures par avenant temporaire
+
+Les partenaires sociaux, soucieux de développer l'emploi dans la branche professionnelle, décident d'instaurer la possibilité pour les organismes et les salariés d'augmenter la durée du travail des salariés à temps partiel par des avenants temporaires.
+
+Le nombre des avenants temporaires pouvant être signés, en dehors des cas de remplacement de salariés nommément désignés, est limité à 8 par année civile et par salarié.
+
+Le refus du salarié d'augmenter sa durée de travail par avenant n'est pas considéré comme une faute et ne saurait entraîner de sanction disciplinaire.
+
+La durée de travail maximale pouvant être fixée par ces avenants ne saurait atteindre la durée légale de travail fixée pour les salariés à temps plein.
+
+Les heures effectuées dans le cadre de cet avenant sont rémunérées au taux normal. Toutefois, les heures effectuées au-delà de la durée prévue par l'avenant sont rémunérées au taux majoré de 25 %.
+
+Les avenants temporaires seront proposés en priorité aux salariés à temps partiel qui bénéficient d'une durée de travail inférieure à la durée minimale légale.
+
+9. Modalités d'accès au complément d'heures par avenant temporaire
+
+Dans le cadre de l'entretien annuel d'évaluation, l'employeur recueille la volonté ou le refus du salarié d'effectuer des compléments d'heures par avenant temporaire afin d'aboutir à un consensus.
+
+De plus, les salariés peuvent à tout moment, par écrit, exprimer leur volonté de réaliser ces compléments d'heures.
+
+Les salariés à temps partiel volontaires se verront proposer un avenant de complément d'heures en fonction des besoins du service, pour occuper des emplois ressortissant ou ne ressortissant pas à leur catégorie professionnelle à condition de remplir les conditions de qualification et de compétences requises.
+
+L'employeur s'engage à garantir l'équité entre les salariés potentiellement intéressés par une augmentation de leur temps de travail par avenant et à informer ceux qui n'auraient pu en bénéficier.
+
+L'employeur informe le comité d'entreprise annuellement et, à défaut, les délégués du personnel, des critères objectifs retenus, du nombre d'avenants signés et du nombre d'heures correspondant.
+
+10. Suivi de l'application du présent avenant
+
+La commission paritaire de branche assure le suivi du présent avenant.
+
+Un premier bilan intermédiaire de l'application de cet accord sera réalisé pour le premier semestre 2017 puis ensuite par période de 3 ans. Le bilan contiendra les indicateurs suivants :
+
+-pourcentage des salariés à temps partiel dans la branche ;
+
+-pourcentage des salariés ayant une durée du travail inférieure à 24 heures ;
+
+-pourcentage par catégorie d'emplois ;
+
+-représentation du personnel féminin ;
+
+-éléments relatifs à la formation des salariés concernés.
