@@ -24,23 +24,21 @@ Une cotisation est retenue sur le traitement nominal, les allocations spéciales
 
 Le taux de la cotisation mentionnée au précédent alinéa est fixé à :
 
-a) 8,54 % pour l'année 2014 ;
+a) 8,86 % pour l'année 2015 ;
 
-b) 8,81 % pour l'année 2015 ;
+b) 9,28 % pour l'année 2016 ;
 
-c) 9,18 % pour l'année 2016 ;
+c) 9,65 % pour l'année 2017 ;
 
-d) 9,50 % pour l'année 2017 ;
+d) 9,97 % pour l'année 2018 ;
 
-e) 9,82 % pour l'année 2018 ;
+e) 10,29 % pour l'année 2019 ;
 
-f) 10,14 % pour l'année 2019 ;
+f) 10,56 % pour l'année 2020 ;
 
-g) 10,41 % pour l'année 2020 ;
+g) 10,83 % pour l'année 2021 ;
 
-h) 10,68 % pour l'année 2021 ;
-
-i) 10,95 % à compter de l'année 2022.
+h) 11,10 % à compter de l'année 2022.
 
 Article 4
 
@@ -1862,16 +1860,14 @@ de l'article 34
 
 NOTA :
 
-Décret n° 2012-701 du 7 mai 2012, art. 41 : I. - Les dispositions des articles 21, 22, 24 et 25 ainsi que celles des 2° et 3° de l'article 26 du présent décret sont applicables aux pensions prenant effet à compter du 1er janvier 2016
+Décret n° 2012-701 du 7 mai 2012, art. 41 :
 
-.
+I. - Les dispositions des articles 21, 22, 24 et 25 ainsi que celles des 2° et 3° de l'article 26 du présent décret sont applicables aux pensions prenant effet à compter du 1er janvier 2016.
 
-II. - L'article 6 du présent décret est applicable aux agents radiés des cadres à compter du 1er janvier 2012
+II. - L'article 6 du présent décret est applicable aux agents radiés des cadres à compter du 1er janvier 2012.
 
-.
-
-III. - Les dispositions de l'article 20 et de l'article 35 du présent décret sont applicables aux pensions prenant effet à compter du 1er janvier 2016
-
-.
+III. - Les dispositions de l'article 20 et de l'article 35 du présent décret sont applicables aux pensions prenant effet à compter du 1er janvier 2016.
 
 IV. - Les dispositions de l'article 27 du présent décret et du III de l'article 72 du règlement annexé au décret du 27 février 2007 susvisé, issues de l'article 38 du présent décret, s'appliquent aux pensions prenant effet à compter du 1er janvier 2016. Toutefois, les agents qui ont atteint, avant cette date, l'âge de liquidation qui leur est applicable en vertu du a de l'article 26 et du premier alinéa de l'article 28 du règlement annexé au décret du 27 février 2007 susvisé, dans leur rédaction antérieure à l'entrée en vigueur du présent décret, conservent le bénéfice des dispositions de l'article 34 du règlement annexé au décret du 27 février 2007 susvisé dans leur rédaction antérieure à l'entrée en vigueur du présent décret.
+
+Conformément au décret n° 2014-1531 du 17 décembre 2014 article 13 I, ces dispositions s'appliquent aux modalités de calcul des cotisations de sécurité sociale dues au titre des rémunérations versées à compter du 1er janvier 2015.
