@@ -1,42 +1,48 @@
 # Article Annexe II
 
-FIXANT POUR L'ANNÉE 2013 LA QUOTE-PART DES RESSOURCES DU BUDGET
+QUOTE-PART POUR L'ANNÉE 2014 DES RESSOURCES DU BUDGET DE LA POLYNÉSIE FRANÇAISE DESTINÉE À ALIMENTER LE FONDS INTERCOMMUNAL DE PÉRÉQUATION
 
-DE LA POLYNÉSIE FRANÇAISE DESTINÉE À ALIMENTER LE FONDS INTERCOMMUNAL DE PÉRÉQUATION
+COMPOSANTES DE L'ASSIETTE DU PRÉLÈVEMENT DU FIP
 
-COMPOSANTES DE L'ASSIETTE DE PRÉLÈVEMENT DU FIP |
+|
 
-MONTANTS BP 2013 |
+MONTANTS BP 2014
 
-en FCFP |
+|
 
-en euros |
+(en FCFP)
+
+|
+
+(en euros)
+
+|
 
 Taxe sur la valeur ajoutée à l'importation
 
 |
 
-17 137 000 000
+17 479 740 000
 
 |
 
-143 608 060
+146 480 221,20
 
 |
 
-Taxe sur la valeur ajoutée ― régime intérieur
+Taxe sur la valeur ajoutée - régime intérieur
 
 |
 
-18 581 900 000
+21 401 538 000
 
 |
 
-155 716 322
+179 344 888,44
 
 |
 
-Droits de consommation sur les hydrocarbures
+Taxe de consommation sur les hydrocarbures
 
 |
 
@@ -44,7 +50,7 @@ Droits de consommation sur les hydrocarbures
 
 |
 
-28 748 156
+28 748 155,65
 
 |
 
@@ -52,11 +58,11 @@ Taxe intérieure sur les produits pétroliers
 
 |
 
-168 136 500
+190 000 000
 
 |
 
-1 408 984
+1 592 200,00
 
 |
 
@@ -68,7 +74,7 @@ Taxe spécifique exceptionnelle sur certains carburants
 
 |
 
-8 949 953
+8 949 953,13
 
 |
 
@@ -76,11 +82,11 @@ Taxe supplémentaire de solidarité ad valorem
 
 |
 
-23 115 000
+25 000 000
 
 |
 
-193 704
+209 500,00
 
 |
 
@@ -92,7 +98,7 @@ Taxe spécifique sur consommation de boissons viniques
 
 |
 
-2 141 689
+2 141 689,17
 
 |
 
@@ -104,7 +110,7 @@ Taxe de consommation sur autres boissons alcoolisées
 
 |
 
-440 465
+440 465,37
 
 |
 
@@ -116,11 +122,11 @@ Taxe pour le développement du sport et de la jeunesse
 
 |
 
-3 486 667
+3 486 666,60
 
 |
 
-Droit spécifique de consommation sur la bière
+Droit spécifique spécial de consommation sur la bière
 
 |
 
@@ -128,7 +134,7 @@ Droit spécifique de consommation sur la bière
 
 |
 
-1 394 667
+1 394 666,64
 
 |
 
@@ -136,11 +142,11 @@ Taxe supplémentaire de solidarité spécifique
 
 |
 
-38 893 500
+40 000 000
 
 |
 
-325 928
+335 200,00
 
 |
 
@@ -148,11 +154,11 @@ Taxe de consommation pour la prévention
 
 |
 
-438 280 500
+480 000 000
 
 |
 
-3 672 791
+4 022 400,00
 
 |
 
@@ -160,11 +166,11 @@ Taxe spécifique grands travaux et routes
 
 |
 
-1 331 022 000
+521 022 000
 
 |
 
-11 153 964
+4 366 164,36
 
 |
 
@@ -176,7 +182,7 @@ Droits de douane
 
 |
 
-59 665 600
+59 665 600,00
 
 |
 
@@ -184,11 +190,11 @@ Taxe pour l'environnement, l'agriculture et la pêche
 
 |
 
-2 369 000 000
+2 372 000 000
 
 |
 
-19 852 220
+19 877 360,00
 
 |
 
@@ -200,7 +206,7 @@ Taxe de statistique
 
 |
 
-1 396 351
+1 396 351,02
 
 |
 
@@ -208,11 +214,11 @@ Taxe forfaitaire postale
 
 |
 
-25 000 000
+60 000 000
 
 |
 
-209 500
+502 800,00
 
 |
 
@@ -220,11 +226,11 @@ Taxe forfaitaire voyageur
 
 |
 
-80 000 000
+106 000 000
 
 |
 
-670 400
+888 280,00
 
 |
 
@@ -232,11 +238,11 @@ Taxe de développement local
 
 |
 
-1 620 000 000
+1 320 000 000
 
 |
 
-13 575 600
+11 061 600,00
 
 |
 
@@ -248,19 +254,7 @@ Taxe de consommation sur les tabacs et alcools importés
 
 |
 
-4 190 000
-
-|
-
-Taxe sur la production de boissons alcoolisées
-
-|
-
-39 200 000
-
-|
-
-328 496
+4 190 000,00
 
 |
 
@@ -272,19 +266,7 @@ Taxe sur les conventions d'assurance
 
 |
 
-9 463 534
-
-|
-
-Taxe sur la publicité
-
-|
-
-134 900 000
-
-|
-
-1 130 462
+9 463 534,00
 
 |
 
@@ -292,11 +274,11 @@ Taxe sur les jeux
 
 |
 
-900 000 000
+950 000 000
 
 |
 
-7 542 000
+7 961 000,00
 
 |
 
@@ -308,7 +290,7 @@ Droit spécifique sur les perles exportées
 
 |
 
-3 788 598
+3 788 598,00
 
 |
 
@@ -320,7 +302,7 @@ Droits d'enregistrement
 
 |
 
-22 626 000
+22 626 000,00
 
 |
 
@@ -328,11 +310,11 @@ Droit de timbre et de visa
 
 |
 
-367 900 000
+500 000 000
 
 |
 
-3 083 002
+4 190 000,00
 
 |
 
@@ -340,11 +322,11 @@ Taxe hypothécaire
 
 |
 
-65 000 000
+70 000 000
 
 |
 
-544 700
+586 600,00
 
 |
 
@@ -352,11 +334,11 @@ Exonérations de droits et taxes à l'importation (E/O)
 
 |
 
-7 150 000 000
+11 200 000 000
 
 |
 
-59 917 000
+93 856 000,00
 
 |
 
@@ -364,35 +346,35 @@ Impôt sur le bénéfice des sociétés (IS)
 
 |
 
-9 400 000 000
+9 080 000 000
 
 |
 
-78 772 000
+76 090 400,00
 
 |
 
-Crédits de défiscalisation (IS)
+Crédits d'impôt de défiscalisation locale IS (E/O)
 
 |
 
-3 600 000 000
+2 490 000 000
 
 |
 
-30 168 000
+20 866 200,00
 
 |
 
-Contribution supplémentaire à l'IS (CSIS)
+Contribution supplémentaire impôt sur bénéfices sociétés
 
 |
 
-2 800 000 000
+3 300 000 000
 
 |
 
-23 464 000
+27 654 000,00
 
 |
 
@@ -400,71 +382,35 @@ Impôt sur les transactions (IT)
 
 |
 
-3 080 800 000
+3 220 800 000
 
 |
 
-25 817 104
+26 990 304,00
 
 |
 
-Crédits de défiscalisation (IT)
+Crédit d'impôt de défiscalisation locale IT (E/O)
 
 |
 
-500 000 000
+350 000 000
 
 |
 
-4 190 000
+2 933 000,00
 
 |
 
-Impôts sur le revenu des capitaux mobiliers (IRCM)
+Impôt sur le revenu des capitaux mobiliers
 
 |
 
-1 348 700 000
+2 348 700 000
 
 |
 
-11 302 106
-
-|
-
-Taxe sur le produit net bancaire
-
-|
-
-717 000 000
-
-|
-
-6 008 460
-
-|
-
-Taxe sur les activités d'assurance
-
-|
-
-303 400 000
-
-|
-
-2 542 492
-
-|
-
-Taxe sur les excédents de provisions techniques
-
-|
-
-79 100 000
-
-|
-
-662 858
+19 682 106,00
 
 |
 
@@ -472,11 +418,11 @@ Impôt forfaitaire sur les sociétés civiles de participation
 
 |
 
-28 900 000
+19 000 000
 
 |
 
-242 182
+159 220,00
 
 |
 
@@ -484,11 +430,11 @@ Impôt sur les plus-values immobilières
 
 |
 
-122 000 000
+70 000 000
 
 |
 
-1 022 360
+586 600,00
 
 |
 
@@ -496,23 +442,23 @@ Retenue à la source sur les revenus des non-résidents
 
 |
 
-506 600 000
+956 600 000
 
 |
 
-4 245 308
+8 016 308,00
 
 |
 
-Impôt forfaitaire sur les très petites entreprises
+Impôt forfaitaire des très petites entreprises
 
 |
 
-17 500 000
+153 000 000
 
 |
 
-146 650
+1 282 140,00
 
 |
 
@@ -524,11 +470,11 @@ Taxe de mise en circulation
 
 |
 
-8 939 784
+8 939 784,00
 
 |
 
-Taxe d'environnement pour le recyclage des voitures
+Taxe d'environnement pour le recyclage des véhicules
 
 |
 
@@ -536,7 +482,7 @@ Taxe d'environnement pour le recyclage des voitures
 
 |
 
-1 234 374
+1 234 374,00
 
 |
 
@@ -544,11 +490,11 @@ Impôt foncier sur les propriétés bâties
 
 |
 
-1 914 900 000
+2 200 000 000
 
 |
 
-16 046 862
+18 436 000,00
 
 |
 
@@ -556,11 +502,11 @@ Redevance de promotion touristique
 
 |
 
-620 500 000
+900 000 000
 
 |
 
-5 199 790
+7 542 000,00
 
 |
 
@@ -572,7 +518,7 @@ Taxe sur les licences de débits de boissons
 
 |
 
-305 870
+305 870,00
 
 |
 
@@ -584,7 +530,7 @@ Taxe d'apprentissage
 
 |
 
-1 485 774
+1 485 774,00
 
 |
 
@@ -592,11 +538,11 @@ Valeur totale de l'assiette
 
 |
 
-94 393 888 500
+100 688 541 000
 
 |
 
-791 020 786
+843 769 973,58
 
 |
 
@@ -608,67 +554,67 @@ Pertes sur créances irrécouvrables
 
 |
 
-13 860 520
+13 860 520,00
 
 |
 
-Reversements et restitutions sur impôts directs et indirects
+Restitution des crédits de TVA
 
 |
 
-2 138 940 000
+2 200 000 000
 
 |
 
-17 924 317
+18 436 000,00
 
 |
 
-Autres charges exceptionnelles
+Titres annulés
 
 |
 
-2 210 000 000
+2 692 940 000
 
 |
 
-18 519 800
+22 566 837,20
 
 |
 
-Exonération des droits et taxes (E/O)
+Reversements et restitution sur impôts indirects (E/O)
 
 |
 
-7 150 000 000
+11 200 000 000
 
 |
 
-59 917 000
+93 856 000,00
 
 |
 
-Crédits d'impôts de défiscalisation IS (E/O)
+Crédit d'impôt de défiscalisation locale IS (E/O)
 
 |
 
-3 600 000 000
+2 490 000 000
 
 |
 
-30 168 000
+20 866 200,00
 
 |
 
-Crédits d'impôts de défiscalisation IT (E/O)
+Crédit d'impôt de défiscalisation locale IT (E/O)
 
 |
 
-500 000 000
+350 000 000
 
 |
 
-4 190 000
+2 933 000,00
 
 |
 
@@ -676,11 +622,11 @@ Montant total des déductions
 
 |
 
-17 252 940 000
+20 586 940 000
 
 |
 
-144 579 637
+172 518 557,20
 
 |
 
@@ -688,10 +634,10 @@ Assiette après déductions
 
 |
 
-77 140 948 500
+80 101 601 000
 
 |
 
-646 441 148
+671 251 416,38
 
 |
