@@ -4,17 +4,13 @@
 
 |
 
-QUOTA EN OCÉAN ATLANTIQUE À L'EST DE LA LONGITUDE 45° OUEST
+Quota en Océan Atlantique
+
+à l’Est de la longitude 45° ouest
 
 |
 
-QUOTA
-
-en mer
-
-Méditerranée
-
-|
+Quota en Mer Méditerranée
 
 |
 
@@ -22,25 +18,15 @@ Pour la pêche au chalut
 
 |
 
-Pour la pêche
-
-à la ligne
-
-et à la canne
+Pour la pêche à la ligne et à la canne
 
 |
 
-Pour la pêche
-
-à la palangre
+Pour la pêche à la palangre
 
 |
 
-Navires n'adhérant pas à une organisation de producteurs
-
-|
-
-3
+Navires non adhérant à une organisation de producteurs
 
 |
 
@@ -56,15 +42,19 @@ Navires n'adhérant pas à une organisation de producteurs
 
 |
 
-Navires adhérant à l'organisation de producteurs Les Pêcheurs d'Aquitaine
+0
 
 |
 
-34
+Navires adhérant à l'organisation de producteurs Les Pêcheurs d’Aquitaine
 
 |
 
-79
+38
+
+|
+
+72
 
 |
 
@@ -80,7 +70,7 @@ Navires adhérant à l'organisation de producteurs Coopérative Bretagne-Nord (C
 
 |
 
-1
+0
 
 |
 
@@ -120,7 +110,7 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-2
+4
 
 |
 
@@ -136,11 +126,7 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-Navires adhérant à l'organisation de producteurs Organisation de producteurs de La Cotinière
-
-|
-
-3
+Navires adhérant à l'organisation de producteurs Organisation de producteurs de la Cotinière
 
 |
 
@@ -156,11 +142,11 @@ Navires adhérant à l'organisation de producteurs Organisation de producteurs d
 
 |
 
-Navires adhérant à l'Organisation de producteurs marins-pêcheurs de Basse-Normandie (OPBN)
+0
 
 |
 
-3
+Navires adhérant à l'organisation de producteurs Marins-Pêcheurs de Basse Normandie (OPBN)
 
 |
 
@@ -176,7 +162,11 @@ Navires adhérant à l'Organisation de producteurs marins-pêcheurs de Basse-Nor
 
 |
 
-Navires adhérant à l'Organisation de producteurs Organisation de producteurs des pêcheurs artisans de l'île de Noirmoutier (OPPAN)
+0
+
+|
+
+Navires adhérant à l'organisation de producteurs Organisation de producteurs des pêcheurs artisans de l'île de Noirmoutier (OPPAN)
 
 |
 
@@ -184,7 +174,7 @@ Navires adhérant à l'Organisation de producteurs Organisation de producteurs d
 
 |
 
-1
+0
 
 |
 
@@ -200,7 +190,7 @@ Navires adhérant à l'organisation de producteurs Les Pêcheurs de Bretagne
 
 |
 
-58
+54
 
 |
 
@@ -208,7 +198,7 @@ Navires adhérant à l'organisation de producteurs Les Pêcheurs de Bretagne
 
 |
 
-2
+0
 
 |
 
@@ -220,7 +210,7 @@ Navires adhérant à l'organisation de producteurs de Vendée
 
 |
 
-39
+41
 
 |
 
@@ -228,7 +218,7 @@ Navires adhérant à l'organisation de producteurs de Vendée
 
 |
 
-20
+26
 
 |
 
@@ -256,19 +246,19 @@ Navires adhérant à l'organisation de producteurs Coopérative maritime étaplo
 
 |
 
-Total
+TOTAL
 
 |
 
-143
+137
 
 |
 
-82
+74
 
 |
 
-22
+26
 
 |
 
