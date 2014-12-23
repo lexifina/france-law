@@ -1,0 +1,9 @@
+# Réponse à la question n° 57407
+
+- Question : [57407](57407.md) — Question n° 57407 — réglementation; agents des SDIS; inéligibilité
+
+## Réponse
+
+*JO du 2014-12-23*
+
+Aux termes du 8° de l'article L. 231 du code électoral dans sa rédaction issue de la loi n° 2013-403 du 17 mai 2013 relative à l'élection des conseillers départementaux, des conseillers municipaux et des conseillers communautaires, et modifiant le calendrier électoral, les personnes exerçant au sein du conseil départemental ou de ses établissements publics les fonctions de directeur général des services, directeur général adjoint des services, directeur des services ou de directeur adjoint des services ou chef de service sont inéligibles au mandat de conseiller municipal dans les communes situées dans le ressort où ils exercent ou ont exercé leurs fonctions depuis moins de 6 mois. Ainsi, la loi du 17 mai 2013 a introduit l'inéligibilité des personnes exerçant des fonctions d'encadrement au sein des établissements publics rattachés au conseil général. Suite aux élections municipales de mars 2014, certains tribunaux administratifs ont considéré que les services départementaux d'incendie et de secours étaient des établissements publics du département au sens des dispositions précitées de l'article L. 231 du code électoral et ont déclaré inéligibles des personnes y exerçant des fonctions d'encadrement. En revanche, d'autres tribunaux administratifs ont jugé que les services départementaux d'incendie et de secours ne pouvaient être regardés comme étant des établissements publics du département. Certains de ces contentieux ont fait l'objet d'un appel devant le Conseil d'Etat. Le Gouvernement reste dès lors dans l'attente de l'interprétation que pourrait avoir celui-ci des dispositions précitées du code électoral.
