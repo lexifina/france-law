@@ -1,0 +1,9 @@
+# Réponse à la question n° 58502
+
+- Question : [58502](58502.md) — Question n° 58502 — histoire-géographie; contenu
+
+## Réponse
+
+*JO du 2014-12-23*
+
+Plaçant le contenu des enseignements au coeur de la refondation pédagogique de l'école de la République, le législateur, par la loi d'orientation et de programmation pour la refondation de l'École de la République du 8 juillet 2013, a institué auprès du ministre chargé de l'Éducation nationale un Conseil supérieur des programmes (CSP) composé, à parité d'hommes et de femmes, de dix-huit membres désignés pour cinq ans. Travaillant en toute indépendance, il a pour mission, entre autres, d'émettre des avis et de formuler des propositions sur la conception générale des enseignements dispensés aux élèves des écoles, des collèges et des lycées, ainsi que sur le contenu des programmes scolaires et du socle commun des connaissances, de compétences et de culture. Comme le souligne la Charte des programmes rendue publique par le CSP le 3 avril dernier conformément au décret du 24 juillet 2013 relatif au CSP, les programmes fixent une norme nationale, définissent de façon synthétique un projet d'enseignement et, n'ayant pas à entrer dans le détail de la mise en oeuvre, laissent ouvert un champ pour des documents plus spécialisés, destinés à aider les enseignants dans l'exercice quotidien de leur profession. Dans cette perspective, l'enseignement de l'histoire mais aussi de la géographie de la Bretagne pourra bénéficier de l'apport essentiel que constitue le Service public du numérique éducatif créé par la loi du 8 juillet 2013 précitée, ainsi que des dynamiques nouvelles impulsées par les acteurs et partenaires régionaux, dont la mise en ligne du nouveau portail des cultures de Bretagne, en février 2014, est un exemple parmi d'autres.
