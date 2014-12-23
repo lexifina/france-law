@@ -1,0 +1,9 @@
+# Réponse à la question n° 68478
+
+- Question : [68478](68478.md) — Question n° 68478 — droits à paiement unique; calcul; réforme
+
+## Réponse
+
+*JO du 2014-12-23*
+
+Les négociations sur la politique agricole commune (PAC) post-2013 sont désormais achevées à l'échelle communautaire. Suite à l'accord obtenu le 26 juin 2013, les règlements ont été adoptés par le Conseil et le Parlement Européen le 17 décembre 2013. L'une des évolutions de cette réforme concerne l'attribution de l'aide découplée dans le cadre du 1er pilier. Le nouveau régime s'appuiera sur des droits à paiement de base (DPB) qui seront alloués en 2015 sous réserve d'être agriculteur actif, de détenir un « ticket d'entrée », et de déposer une demande d'aide PAC en 2015. L'agriculteur détient un ticket d'entrée s'il a reçu des paiements en 2013, ou s'il a bénéficié d'une dotation de droits à paiement unique (DPU) par la réserve en 2014 ou s'il exerçait une activité agricole en 2013 tout en n'ayant jamais détenu de DPU. Si les dispositions communautaires admettent le principe du transfert de ticket d'entrée, en revanche ce transfert ne pourra être pris en compte que si le cédant est agriculteur actif au 15 mai 2015 et qu'il dépose une demande d'aide PAC en 2015. Le transfert de référence ne pourra être automatisé, les dispositions communautaires imposant la signature d'une clause contractuelle. Si aucune clause ne peut être signée entre le cédant et le jeune installé, ce dernier pourra bénéficier d'une dotation de DPB par la réserve nationale s'il en respecte les conditions d'éligibilité. Une note technique détaillée relative à cette question du versement des DPB pour les nouveaux installés en lien avec la réforme de la PAC a été adressée aux services déconcentrés de l'État qui sont désormais en mesure de répondre aux cas particuliers qui se présentent à eux.
