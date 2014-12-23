@@ -1,0 +1,9 @@
+# Réponse à la question n° 62267
+
+- Question : [62267](62267.md) — Question n° 62267 — financement; organisations criminelles; perspectives
+
+## Réponse
+
+*JO du 2014-12-23*
+
+Il est précisé, en liminaire, que le coût de la section transfrontalière, objet de l'accord franco-italien signé à Rome le 30 janvier 2012, est estimé à 8,5 milliards d'euros aux conditions économiques de janvier 2010. Le risque d'infiltration d'organisations mafieuses sur le chantier est pris très au sérieux par les deux pays. L'accord du 30 janvier 2012 prévoit notamment la mise en place d'une commission des contrats et d'un service permanent de contrôle, dont les membres seront différents de ceux du conseil d'administration du futur promoteur public. Ces organes participeront, chacun pour ce qui le concerne, au contrôle du bon déroulement des procédures de passation des contrats, au bon fonctionnement du promoteur public et à l'efficacité financière du projet. Les deux pays sont par ailleurs vigilants à la mise oeuvre de dispositions qui permettront de limiter le risque d'infiltration d'organisations mafieuses dans le cadre de l'élaboration du règlement des contrats qui régira les conditions de passation et d'exécution des marches de travaux du futur promoteur public. Dans l'attente de la mise en place du futur promoteur public, des dispositions sont déjà prises par la société Lyon Turin Ferroviaire (LTF) pour l'ensemble des marchés passés sur le territoire italien. Elles reposent sur l'application du décret législatif 159/11, prochainement remplacé par le décret législatif 153/14, et sur un protocole d'accord signé le 11 septembre 2012 avec la préfecture de Turin. Ainsi, tout contrat, y compris de sous-traitance, ne peut être signé qu'après que la préfecture a vérifié que l'entreprise n'est pas répertoriée comme étant liée à la mafia.
