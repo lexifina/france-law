@@ -1,0 +1,9 @@
+# Réponse à la question n° 69597
+
+- Question : [69597](69597.md) — Question n° 69597 — réduction; objectifs et moyens; perspectives
+
+## Réponse
+
+*JO du 2014-12-23*
+
+Le Gouvernement est très attaché à mettre en oeuvre une politique ambitieuse de réduction des déchets compte tenu que ceux-ci doivent être traités avec tous les inconvénients induits pour l'environnement et les problèmes d'acceptabilité par les riverains des installations de traitement alors qu'ils peuvent au contraire être des matières premières, maillon de l'économie circulaire créatrice d'emplois. Les objectifs qui avaient été fixés pour la période 2009-2012 sont globalement atteints : l'objectif de réduction de 7 % de la production des ordures ménagères et assimilées a été atteint puisque sur la seule période 2007-2011 cette réduction était de 7,5 % en passant de 396 kg/habitant en 2007 à 366 kg/habitant en 2011. Il en est de même pour l'objectif visant à diminuer de 15 % les déchets non dangereux non inertes incinérés et stockés : sur la période 2009-2012, une baisse de 17,1 % a été enregistrée. La loi relative à la transition écologique pour la croissance verte fixe de nouveaux objectifs en matière de déchets. Elle donne ainsi la priorité à la prévention et à la réduction de la production de déchets, en réduisant de 10 % les quantités de déchets ménagers et assimilés produits par habitant en 2020 par rapport à 2010. Elle fixe également un objectif de réduction de 30 % les quantités de déchets non dangereux non inertes admis en installation de stockage en 2020 par rapport à 2010, et de 50 % en 2025. Pour atteindre ces objectifs, la quantité de déchets faisant l'objet d'une valorisation sous forme matière, notamment organique, sera augmentée pour atteindre 55 % en masse des déchets non dangereux non inertes en 2020 et 60 % en masse en 2025.
