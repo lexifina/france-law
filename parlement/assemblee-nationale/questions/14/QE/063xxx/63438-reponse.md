@@ -1,0 +1,9 @@
+# Réponse à la question n° 63438
+
+- Question : [63438](63438.md) — Question n° 63438 — emplois professionnels; accès
+
+## Réponse
+
+*JO du 2014-12-23*
+
+Pôle emploi propose un accompagnement vers l'emploi des femmes, bénéficiaires du complément de libre choix d'activité (CLCA) ayant connu un long retrait d'activité pour s'occuper de leurs jeunes enfants. Plus largement, le ministère du travail, de l'emploi, de la formation professionnelle et du dialogue social promeut l'égalité femmes-hommes, à travers l'élaboration de mesures notamment inscrites dans les dispositifs suivants : - un accord cadre national passé le 28 juin 2013 entre le ministère du travail, de l'emploi, de la formation professionnelle et du dialogue social, le ministère chargé des droits des femmes et Pôle emploi visant à développer la mixité des emplois dans les actions de recrutement et d'insertion et à faciliter le retour à l'emploi des femmes et contribuer à l'amélioration de la qualité des emplois occupés par les femmes, en agissant sur les freins périphériques à l'emploi. Cet accord cadre prévoit non seulement d'organiser la coopération des membres du service public de l'emploi, mais encore de sensibiliser, d'informer et de former les conseillers de Pôle emploi à l'égalité professionnelle entre les femmes et les hommes. - la feuille de route 2014 pour l'égalité femmes-hommes du ministère du travail, de l'emploi, de la formation professionnelle et du dialogue social, vise notamment à faciliter le retour à l'emploi des femmes et à contribuer à l'amélioration de la qualité des emplois occupés par les femmes en agissant sur les freins périphériques à l'emploi, notamment en veillant à l'articulation vie professionnelle et personnelle (mesure n° 6). Elle vise également à s'assurer que les emplois d'avenir bénéficient aux jeunes femmes comme aux jeunes hommes dans des proportions équivalentes à leurs parts respectives dans le chômage des jeunes (mesure n° 5).
