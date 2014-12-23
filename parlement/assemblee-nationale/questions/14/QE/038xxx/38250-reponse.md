@@ -1,0 +1,9 @@
+# Réponse à la question n° 38250
+
+- Question : [38250](38250.md) — Question n° 38250 — carte européenne de stationnement; perspectives
+
+## Réponse
+
+*JO du 2014-12-23*
+
+L'article L. 241-3-2 du code de l'action sociale et des familles (CASF) précise que toute personne atteinte d'un handicap qui réduit de manière importante et durable sa capacité et son autonomie de déplacement à pied ou qui impose qu'elle soit accompagnée par une tierce personne dans ses déplacements peut recevoir une carte de stationnement qui est délivrée par le préfet conformément à l'avis du médecin chargé de l'instruction de la demande. Elle est attribuée à titre définitif ou pour une durée déterminée qui ne peut être inférieure à un an. Ainsi, le législateur, en adoptant la loi du 11 février 2005 pour l'égalité des droits et des chances, la participation et la citoyenneté des personnes handicapées, a souhaité que la mobilité pédestre réduite constitue le critère principal d'attribution de la carte de stationnement. En tout état de cause, d'éventuelles évolutions de la carte de stationnement pour les personnes handicapées ne peuvent être envisagées que dans le cadre d'une réflexion globale, et en tenant compte de l'accessibilité au stationnement des personnes handicapées et des contraintes de nos finances publiques. C'est pourquoi le Gouvernement a décidé au cours du comité interministériel pour la modernisation de l'action publique (CIMAP) du 18 décembre 2012 d'engager un chantier visant à « faciliter les démarches des personnes handicapées auprès des maisons départementales des personnes handicapées (MDPH) grâce, notamment, (...) à la simplification des conditions d'attribution de la carte de stationnement. » Les travaux s'orientent prioritairement sur la fabrication des cartes, afin d'accélérer leur délivrance dans de meilleures conditions de fiabilité. Un système d'information dédié devrait être testé d'ici à la fin d'année 2014 et déployé progressivement en 2015.
