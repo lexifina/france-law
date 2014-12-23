@@ -1,0 +1,9 @@
+# Réponse à la question n° 66083
+
+- Question : [66083](66083.md) — Question n° 66083 — gestion du bruit; politiques communautaires; trafic aérien; Orly; perspectives
+
+## Réponse
+
+*JO du 2014-12-23*
+
+Le règlement n° 598/2014 du Parlement européen et du Conseil du 16 avril 2014 qui entrera en vigueur le 16 juin 2016 remplacera la directive n° 2002/30/CE qui s'applique depuis 2002. Le règlement a le même objet que ladite directive : développer une approche équilibrée pour traiter des problèmes de nuisance sonore au voisinage des aéroports. Le concept d'approche équilibrée n'est pas nouveau. Il a été développé par l'Organisation de l'aviation civile internationale dès la décennie 1990 lorsque, dans son rôle de régulateur mondial du transport aérien, lui est apparue la nécessité de procéder à une harmonisation à l'échelle de la planète des méthodes de maîtrise de l'impact sonore sur les riverains des aéroports, tant sur le fond que sur les processus de décision. Ces dispositions ont fait l'objet de réglementations nationales et communautaires, elles-mêmes évoluant au fur et à mesure du retour d'expérience et des attentes des acteurs concernés. Ainsi, le concept d'approche équilibrée conduit à examiner, avant toute prise de décision, les différents moyens possibles conduisant à diminuer les nuisances sonores, à savoir notamment la réduction du bruit émis par les aéronefs, les mesures d'aménagement du territoire et d'urbanisme, les procédures de navigation aérienne et de conduite du vol et les restrictions d'exploitation, en tenant compte des coûts et avantages respectifs de ces moyens. Ce nouveau règlement ne remet nullement en cause les restrictions d'exploitation existantes, notamment celles en vigueur pour l'aéroport de Paris-Orly et il est donc totalement infondé de craindre qu'il entraîne une dégradation de la situation des riverains de cet aéroport.
