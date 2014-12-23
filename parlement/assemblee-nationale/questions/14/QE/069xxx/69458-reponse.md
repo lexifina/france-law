@@ -1,0 +1,9 @@
+# Réponse à la question n° 69458
+
+- Question : [69458](69458.md) — Question n° 69458 — espèces migratoires; disparition; lutte et prévention
+
+## Réponse
+
+*JO du 2014-12-23*
+
+Lors de la 11e conférence des parties à la convention sur les espèces migratrices (CMS) qui s'est tenue à Quito (Equateur) du 4 au 9 novembre 2014, 31 nouvelles espèces migratrices dont 23 espèces marines ont été classées dans les annexes de la convention. Ces espèces, menacées principalement par des activités humaines (surpêche, braconnage, destruction de l'habitat) et secondairement par les conséquences du changement climatique, bénéficieront ainsi de mesures de conservation coordonnées dans les pays dans lesquels elles résident, qu'elles fréquentent pendant une partie de l'année ou qu'elles traversent lors de leurs migrations. Le classement des espèces dans les annexes de la convention permet en effet d'agir sur les menaces qui pèsent sur elles et les habitats de l'ensemble de leur aire de distribution. Très peu d'espèces classées lors de la conférence de Quito concernent la France métropolitaine : le rollier d'Europe, la baleine de Cuvier, le requin marteau halicorne, deux des trois espèces de requin-renard classées et l'anguille d'Europe. En revanche, plusieurs espèces sont rencontrées dans les Outre-mer ; c'est le cas du bécasseau semi-palmé, mais surtout d'espèces marines comme le grand requin marteau, le requin soyeux, la troisième espèce de requin-renard classée, la raie manta du prince Alfred, une des 9 espèces classées de mantes (raies) et quatre des cinq espèces classées de poisson-scie. La France soutient très fortement la convention sur les espèces migratrices qui regroupe actuellement 120 pays. La france est le deuxième contributeur au budget de la CMS après l'Allemagne et devant le Royaume-Uni et l'Italie. La France contribue donc au premier chef aux actions de conservation des espèces menées par la convention.
