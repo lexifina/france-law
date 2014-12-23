@@ -1,0 +1,9 @@
+# Réponse à la question n° 68981
+
+- Question : [68981](68981.md) — Question n° 68981 — stages; maisons familiales rurales; décret; publication
+
+## Réponse
+
+*JO du 2014-12-23*
+
+Les maisons familiales rurales (MFR) sont des établissements privés sous contrat, créées dès 1937, et placées sous l'autorité académique de la direction régionale de l'alimentation, de l'agriculture et de la forêt. Elles accueillent, dans le cadre d'une pédagogie fondée sur l'alternance, des jeunes, à partir de la classe de quatrième, et contribuent, en raison du caractère approprié de l'enseignement dispensé, à leur insertion scolaire et sociale. Partenaire reconnu de l'enseignement agricole, les MFR sont consultées sur tous les projets de textes applicables à cet enseignement. Comme les autres établissements d'enseignement public et privé relevant du ministère chargé de l'agriculture, elles ont été amenées à émettre un avis sur le décret « relatif à l'encadrement des périodes de formation en milieu professionnel et des stages » qui précise les conditions de la gratification due aux stagiaires. Ce décret a été publié au Journal officiel du 30 novembre 2014. Ainsi, leur demande de ne permettre la gratification des jeunes de l'enseignement du rythme approprié, que pour les périodes de formation en milieu professionnel d'une durée d'au moins trois mois (au lieu de deux pour le reste des établissements ne participant pas à la même pédagogie) a été prise en compte en leur faveur. Pour les conventions de stage conclues avant le 1er décembre 2014, date d'entrée en vigueur du décret précité, aucune gratification n'est due, de la part des maîtres de stage, aux stagiaires relevant de l'enseignement scolaire, quelle que soit la durée des périodes de formation en milieu professionnel. Le fait que le décret n'ait été publié que fin novembre du fait de la consultation de plusieurs instances spécialisées n'a donc pas d'incidence.
