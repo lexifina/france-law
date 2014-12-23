@@ -1,0 +1,9 @@
+# Réponse à la question n° 4515
+
+- Question : [4515](4515.md) — Question n° 4515 — observatoire; actions menées
+
+## Réponse
+
+*JO du 2014-12-23*
+
+L'observatoire sur les services publics d'eau et d'assainissement géré par l'Office national de l'eau et des milieux aquatiques (ONEMA) et créé en 2009, est un outil destiné aux collectivités locales, maires et présidents d'intercommunalité, pour piloter leurs services, suivre leurs évolutions d'une année sur l'autre, et comparer leurs performances avec d'autres services. Il est ainsi un outil de gestion de la performance des services et représente une aide dans l'élaboration des rapports sur le prix et la qualité des services que les collectivités doivent effectuer chaque année. Il s'agit également d'un site d'information consultable par le grand public à l'adresse www. services. eaufrance. fr. Il répond ainsi aux exigences des usagers et des citoyens soucieux d'avoir une information transparente sur le prix de l'eau et sur la qualité du service. Base nationale de données des prix de l'eau et des performances des services publics d'eau et d'assainissement alimentée par les collectivités locales après contrôle de cohérence par les services de l'État, l'observatoire a vocation à être le dispositif de référence dans son domaine. Il permet au plan national d'avoir un panorama de la situation française et alimente la réflexion et la connaissance des acteurs de l'eau. Le rapport sur les données 2010 a été publié début juillet 2014 sur le site référencé ci-dessus et la publication du rapport sur les données 2011 est intervenue courant octobre 2014. Dans l'objectif de renforcer l'observatoire et favoriser l'accès à l'information du plus grand nombre de citoyens sur leurs services publics d'eau et d'assainissement, le projet de loi relatif à la biodiversité prévoit d'introduire une obligation de saisie des données pour les collectivités de plus de 3 500 habitants.
