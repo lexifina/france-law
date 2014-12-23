@@ -1,0 +1,9 @@
+# Réponse à la question n° 63864
+
+- Question : [63864](63864.md) — Question n° 63864 — crise bancaire; fonds européen; perspectives
+
+## Réponse
+
+*JO du 2014-12-23*
+
+Le Fonds de résolution unique (FRU) sera préfinancé selon une clef de répartition principalement indexée sur le total des actifs bancaires, net des fonds propres et des dépôts couverts par le mécanisme de garantie des dépôts. La France risquait alors d'être pénalisée dans la clef de répartition par le faible niveau des dépôts couverts dans le pays (une grande partie de l'épargne française étant attirée par l'assurance-vie et non les dépôts bancaires) et par l'utilisation des dérivés pour couvrir les prêts à taux fixe (qui ont un intérêt évident de protection du consommateur). C'est la raison pour laquelle la France a demandé et obtenu que, lors de la période d'abondement du FRU, la clef effective de calcul soit une moyenne pondérée entre la clef décrite ci-dessus et la cible de financement nationale prévue dans la directive BRRD, qui est indexée sur les dépôts couverts, étant en outre tenu compte du fait que sur la période de constitution du FRU, le mécanisme de mutualisation de ses ressources sera graduel. Par ailleurs, la taxe de risque systémique (TRS) poursuit le même objectif que le FRU de réduction du coût pour le contribuable des crises bancaires, ce qui pose la question de la pertinence de la coexistence de ces deux dispositifs. C'est pourquoi, conformément à un objectif d'équilibre des finances publiques et tout en veillant à ce que la compétitivité du secteur bancaire et sa capacité à financer l'économie réelle ne soient pas excessivement détériorées, dans un souci de juste niveau de prélèvements, le Gouvernement a décidé la non déductibilité des contributions au FRU et de la TRS, et la suppression progressive de cette dernière. L'ensemble de ces mesures permettra un gain total d'environ 830 M€ pour les finances publiques sur les trois prochaines années.
