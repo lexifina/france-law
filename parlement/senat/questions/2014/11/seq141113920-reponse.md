@@ -1,0 +1,9 @@
+# Réponse à la question SEQ141113920
+
+- Question : [SEQ141113920](seq141113920.md) — Soutien au peuple goran
+
+## Réponse
+
+*Affaires étrangères, JO du 2014-12-25, page 2853*
+
+La France suit attentivement la situation des droits de l'Homme dans la région des Balkans, et notamment les problématiques liées à sa diversité ethnique et culturelle. Dans le cadre de sa diplomatie, notamment au sein de l'Union européenne, du Conseil de l'Europe et de l'OSCE, la France soutient les pays des Balkans occidentaux dans la mise en place d'institutions et de cadres législatifs visant à garantir le respect des libertés et droits fondamentaux de l'ensemble des citoyens. Il s'agit là d'un critère clé du rapprochement européen des pays des Balkans occidentaux. Le Kosovo a adopté un texte constitutionnel conforme aux normes et aux valeurs européennes, y compris en matière de droits de l'Homme et de prise en compte des minorités. La France, dans le cadre de ses relations bilatérales, comme au niveau européen, accompagne les autorités kosovares dans la bonne application de ces normes et les encourage dans leurs efforts pour construire un État respectueux des droits de chaque individu. Comme toutes les autres minorités ethniques du Kosovo, les Goranis jouissent d'un cadre juridique protecteur. Leurs droits sont garantis par la constitution et par des textes législatifs et règlementaires (loi sur la protection et la promotion des droits de minorités). En vertu de ces dispositions, les Goranis se voient notamment garantir une représentation politique tant au niveau national (un siège garanti au Parlement en vertu de l'article 64.2 de la constitution), qu'au niveau local. Originaires d'une région très rurale avec un fort taux de chômage, les Goranis du Kosovo optent parfois pour l'émigration vers l'Europe.
