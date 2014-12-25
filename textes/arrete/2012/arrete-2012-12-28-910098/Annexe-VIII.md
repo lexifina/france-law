@@ -6,533 +6,9 @@ Cette annexe définit les coefficients de modulation à prendre en compte dans l
 
 Concernant le contenu CO2 des réseaux de chaleur et de froid, il figure en annexe 7 de l'arrêté du 15 septembre 2006 relatif au diagnostic de performance énergétique pour les bâtiments existants proposés à la vente en France métropolitaine. Si le contenu CO2 d'un réseau de chaleur ou de froid existant ne figure pas dans l'annexe 7 de l'arrêté du 15 septembre 2006 relatif au diagnostic de performance énergétique pour les bâtiments existants proposés à la vente en France métropolitaine, la modulation MCGES relative au contenu en CO2 des réseaux de chaleur et de froid, dans le cas où ce bâtiment est relié à ce réseau de chaleur ou de froid, est égale à 0.
 
-I. - Etablissement d'hébergement pour personnes âgées et établissement d'hébergement pour personnes âgées dépendantes
+I. - Etablissement pour personnes âgées et établissement pour personnes âgées dépendantes
 
-1. Modulations du Bbiomax
-
-La valeur moyenne Bbiomaxmoyen définie par type d'occupation du bâtiment ou de la partie de bâtiment et par catégorie CE1/CE2 prend les valeurs suivantes :
-
-|
-
-CATÉGORIE CE1 |
-
-CATÉGORIE CE2 |
-
-Bbiomaxmoyen
-
-|
-
-100
-
-|
-
-120
-
-|
-
-Le coefficient Mbgéo de modulation du Bbiomax selon la localisation géographique prend les valeurs suivantes :
-
-Dans le cas où le bâtiment ou la partie du bâtiment est en catégorie CE1 :
-
-|
-
-H1a |
-
-H1b |
-
-H1c |
-
-H2a |
-
-H2b |
-
-H2c
-
-|
-
-H2d |
-
-H3 |
-
-Mbgéo
-
-|
-
-1,2
-
-|
-
-1,3
-
-|
-
-1,2
-
-|
-
-1,1
-
-|
-
-1
-
-|
-
-1
-
-|
-
-1
-
-|
-
-0,9
-
-|
-
-Dans le cas où le bâtiment ou la partie du bâtiment est en catégorie CE2 :
-
-|
-
-H1a |
-
-H1b |
-
-H1c |
-
-H2a |
-
-H2b |
-
-H2c
-
-|
-
-H2d |
-
-H3 |
-
-Mbgéo
-
-|
-
-1,1
-
-|
-
-1,3
-
-|
-
-1,2
-
-|
-
-1
-
-|
-
-1
-
-|
-
-1
-
-|
-
-1,1
-
-|
-
-1
-
-|
-
-Le coefficient Mbalt de modulation du Bbiomax selon l'altitude prend les valeurs suivantes :
-
-Dans le cas où le bâtiment ou la partie du bâtiment est en catégorie CE1 :
-
-|
-
-0 à 400 m |
-
-401 à 800 m |
-
-801 m et plus |
-
-Mbalt
-
-|
-
-0
-
-|
-
-0,1
-
-|
-
-0,3
-
-|
-
-Dans le cas où le bâtiment ou la partie du bâtiment est en catégorie CE2 :
-
-|
-
-0 à 400 m |
-
-401 à 800 m |
-
-801 m et plus |
-
-Mbalt
-
-|
-
-0
-
-|
-
-0,1
-
-|
-
-0,2
-
-|
-
-2. Modulations du Cepmax
-
-Le coefficient Mctype de modulation du Cepmax selon le type de bâtiment ou de partie de bâtiment et sa catégorie CE1/CE2 prend les valeurs suivantes :
-
-|
-
-CATÉGORIE CE1 |
-
-CATÉGORIE CE2 |
-
-Mctype
-
-|
-
-2
-
-|
-
-2,4
-
-|
-
-Le coefficient Mcgéo de modulation du Cepmax selon la localisation géographique prend les valeurs suivantes :
-
-Dans le cas où le bâtiment ou la partie du bâtiment est en catégorie CE1 :
-
-|
-
-H1a |
-
-H1b |
-
-H1c |
-
-H2a |
-
-H2b |
-
-H2c
-
-|
-
-H2d
-
-|
-
-H3 |
-
-Mcgéo
-
-|
-
-1,2
-
-|
-
-1,3
-
-|
-
-1,2
-
-|
-
-1,1
-
-|
-
-1
-
-|
-
-1
-
-|
-
-0,9
-
-|
-
-0,8
-
-|
-
-Dans le cas où le bâtiment ou la partie du bâtiment est en catégorie CE2 :
-
-|
-
-H1a |
-
-H1b |
-
-H1c |
-
-H2a |
-
-H2b |
-
-H2c |
-
-H2d
-
-|
-
-H3 |
-
-Mcgéo
-
-|
-
-1,1
-
-|
-
-1,2
-
-|
-
-1,1
-
-|
-
-1
-
-|
-
-1
-
-|
-
-1
-
-|
-
-1
-
-|
-
-0,9
-
-|
-
-Le coefficient Mcalt de modulation du Cepmax selon l'altitude prend les valeurs suivantes :
-
-Dans le cas où le bâtiment ou la partie du bâtiment est en catégorie CE1 :
-
-|
-
-0 à 400 m |
-
-401 à 800 m |
-
-801 m et plus |
-
-Mcalt
-
-|
-
-0
-
-|
-
-0,2
-
-|
-
-0,3
-
-|
-
-Dans le cas où le bâtiment ou la partie du bâtiment est en catégorie CE2 :
-
-|
-
-0 à 400 m |
-
-401 à 800 m |
-
-801 m et plus |
-
-Mcalt
-
-|
-
-0
-
-|
-
-0,1
-
-|
-
-0,2
-
-|
-
-Le coefficient McGES de modulation du Cepmax selon les émissions de gaz à effet de serre prend la valeur suivante :
-
-Dans le cas d'une utilisation locale de bois énergie comme énergie principale utilisée pour la production de chauffage :
-
-McGES = 0,3
-
-Dans le cas où le bâtiment ou la partie de bâtiment est raccordé simultanément à un réseau de chaleur et à un réseau de froid :
-
-McGES = McGESchaud + McGESfroid / 2
-
-où :
-
-Contenu CO2 des réseaux de chaleur en g/kWh |
-
-|
-
-Contenu CO2
-
-≤ 50 |
-
-50 < contenu CO2 ≤ 100 |
-
-100 < contenu CO2 ≤ 150 |
-
-Contenu CO2
-
-> 150 |
-
-McGESchaud
-
-|
-
-0,3 |
-
-0,2 |
-
-0,1 |
-
-0 |
-
-Contenu CO2 des réseaux de froid en g/kWh |
-
-|
-
-Contenu CO2
-
-≤ 50
-
-|
-
-50 < contenu
-
-CO2 ≤ 100
-
-|
-
-100 < contenu
-
-CO2 ≤ 150
-
-|
-
-Contenu CO2
-
-> 150
-
-|
-
-McGESfroid
-
-|
-
-0,3
-
-|
-
-0,2
-
-|
-
-0,1
-
-|
-
-0
-
-|
-
-Dans le cas où le bâtiment ou la partie de bâtiment est raccordé à un réseau de chaleur ou à un réseau de froid :
-
-Contenu CO2 des réseaux de chaleur en g/kWh |
-
-|
-
-Contenu CO2
-
-≤ 50 |
-
-50 < contenu
-
-CO2 ≤ 100 |
-
-100< contenu
-
-CO2 ≤ 150 |
-
-Contenu CO2
-
-> 150
-
-|
-
-McGES
-
-|
-
-0,3
-
-|
-
-0,2
-
-|
-
-0,1
-
-|
-
-0
-
-|
-
-Dans tous les autres cas, le coefficient McGES est égal à 0.
-
-Le coefficient Mcsurf de modulation du Cepmax selon la surface du bâtiment ou de la partie de bâtiment est pris égal à 0.
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'annexe II de l'arrêté du 11 décembre 2014, publiée au Bulletin officiel du ministère de l'écologie, du développement durable et de l'énergie et du ministère du logement, de l'égalité des territoires et de la ruralité, accessible à l'adresse suivante : https://www.bulletin-officiel.developpement-durable.gouv.fr/notice?id=Bulletinofficiel-0028236&reqId=8e64f786-3422-4e96-b861-3661f0934af2&pos=1.
 
 II. - Bâtiments ou parties de bâtiment universitaire d'enseignement et de recherche
 
@@ -550,13 +26,9 @@ Bbiomaxmoyen
 
 |
 
-55
+55 |
 
-|
-
-100
-
-|
+100 |
 
 Le coefficient Mbgéo de modulation du Bbiomax selon la localisation géographique prend les valeurs suivantes :
 
@@ -572,9 +44,7 @@ H1c |
 
 H2a |
 
-H2b
-
-|
+H2b |
 
 H2c |
 
@@ -586,37 +56,21 @@ Mbgéo
 
 |
 
-1,1
+1,1 |
 
-|
+1,3 |
 
-1,3
+1,2 |
 
-|
+1,1 |
 
-1,2
+1 |
 
-|
+1 |
 
-1,1
+0,9 |
 
-|
-
-1
-
-|
-
-1
-
-|
-
-0,9
-
-|
-
-0,8
-
-|
+0,8 |
 
 Dans le cas où le bâtiment ou la partie du bâtiment est en catégorie CE2 :
 
@@ -630,9 +84,7 @@ H1c |
 
 H2a |
 
-H2b
-
-|
+H2b |
 
 H2c |
 
@@ -644,37 +96,21 @@ Mbgéo
 
 |
 
-0,9
+0,9 |
 
-|
+1,1 |
 
-1,1
+1,1 |
 
-|
+0,9 |
 
-1,1
+1 |
 
-|
+1 |
 
-0,9
+1,2 |
 
-|
-
-1
-
-|
-
-1
-
-|
-
-1,2
-
-|
-
-1,2
-
-|
+1,2 |
 
 Le coefficient Mbalt de modulation du Bbiomax selon l'altitude prend les valeurs suivantes :
 
@@ -692,17 +128,11 @@ Mbalt
 
 |
 
-0
+0 |
 
-|
+0,3 |
 
-0,3
-
-|
-
-0,5
-
-|
+0,5 |
 
 Dans le cas où le bâtiment ou la partie du bâtiment est en catégorie CE2 :
 
@@ -710,9 +140,7 @@ Dans le cas où le bâtiment ou la partie du bâtiment est en catégorie CE2 :
 
 0 à 400 m |
 
-401 à 800 m
-
-|
+401 à 800 m |
 
 801 m et plus |
 
@@ -720,17 +148,11 @@ Mbalt
 
 |
 
-0
+0 |
 
-|
+0 |
 
-0
-
-|
-
-0,1
-
-|
+0,1 |
 
 2. Modulations du Cepmax
 
@@ -746,13 +168,9 @@ Mctype
 
 |
 
-1,3
+1,3 |
 
-|
-
-1,6
-
-|
+1,6 |
 
 Le coefficient Mcgéo de modulation du Cepmax selon la localisation géographique prend les valeurs suivantes :
 
@@ -780,37 +198,21 @@ Mbgéo
 
 |
 
-1,1
+1,1 |
 
-|
+1,1 |
 
-1,1
+1 |
 
-|
+1 |
 
-1
+1 |
 
-|
+0,9 |
 
-1
+0,9 |
 
-|
-
-1
-
-|
-
-0,9
-
-|
-
-0,9
-
-|
-
-0,8
-
-|
+0,8 |
 
 Dans le cas où le bâtiment ou la partie du bâtiment est en catégorie CE2 :
 
@@ -822,9 +224,7 @@ H1b |
 
 H1c |
 
-H2a
-
-|
+H2a |
 
 H2b |
 
@@ -838,67 +238,41 @@ Mbgéo
 
 |
 
-0,9
+0,9 |
 
-|
+1,1 |
 
-1,1
+1,1 |
 
-|
+1 |
 
-1,1
+1 |
 
-|
+1 |
 
-1
+1,2 |
 
-|
-
-1
-
-|
-
-1
-
-|
-
-1,2
-
-|
-
-1,2
-
-|
+1,2 |
 
 Le coefficient Mcalt de modulation du Cepmax selon l'altitude prend les valeurs suivantes :
 
 |
 
-0 à 400 m
-
-|
+0 à 400 m |
 
 401 à 800 m |
 
-801 m et plus
-
-|
+801 m et plus |
 
 Mcalt
 
 |
 
-0
+0 |
 
-|
+0 |
 
-0
-
-|
-
-0
-
-|
+0 |
 
 Le coefficient McGES de modulation du Cepmax selon les émissions de gaz à effet de serre prend la valeur suivante :
 
@@ -932,21 +306,13 @@ McGESchaud
 
 |
 
-0,15
+0,15 |
 
-|
+0,1 |
 
-0,1
+0,05 |
 
-|
-
-0,05
-
-|
-
-0
-
-|
+0 |
 
 Contenu CO2 des réseaux de froid en g/kWh |
 
@@ -954,47 +320,31 @@ Contenu CO2 des réseaux de froid en g/kWh |
 
 Contenu CO2
 
-≤ 50
-
-|
+≤ 50 |
 
 50 < contenu
 
-CO2 ≤ 100
-
-|
+CO2 ≤ 100 |
 
 100< contenu
 
-CO2 ≤ 150
-
-|
+CO2 ≤ 150 |
 
 Contenu CO2
 
-> 150
-
-|
+> 150 |
 
 McGESfroid
 
 |
 
-0,15
+0,15 |
 
-|
+0,1 |
 
-0,1
+0,05 |
 
-|
-
-0,05
-
-|
-
-0
-
-|
+0 |
 
 Dans le cas où le bâtiment ou la partie de bâtiment est raccordé à un réseau de chaleur ou à un réseau de froid :
 
@@ -1012,9 +362,7 @@ CO2 ≤ 100 |
 
 100 < contenu
 
-CO2 ≤ 150
-
-|
+CO2 ≤ 150 |
 
 Contenu CO2
 
@@ -1024,21 +372,13 @@ McGES
 
 |
 
-0,15
+0,15 |
 
-|
+0,1 |
 
-0,1
+0,05 |
 
-|
-
-0,05
-
-|
-
-0
-
-|
+0 |
 
 Dans tous les autres cas, le coefficient McGES est égal à 0.
 
@@ -1062,13 +402,9 @@ Bbiomaxmoyen
 
 |
 
-75
+75 |
 
-|
-
-85
-
-|
+85 |
 
 Le coefficient Mbgéo de modulation du Bbiomax selon la localisation géographique prend les valeurs suivantes :
 
@@ -1076,9 +412,7 @@ Dans le cas où le bâtiment ou la partie du bâtiment est en catégorie CE1 :
 
 |
 
-H1a
-
-|
+H1a |
 
 H1b |
 
@@ -1088,9 +422,7 @@ H2a |
 
 H2b |
 
-H2c
-
-|
+H2c |
 
 H2d |
 
@@ -1100,37 +432,21 @@ Mbgéo
 
 |
 
-1,1
+1,1 |
 
-|
+1,3 |
 
-1,3
+1,1 |
 
-|
+1,1 |
 
-1,1
+1 |
 
-|
+1 |
 
-1,1
+0,9 |
 
-|
-
-1
-
-|
-
-1
-
-|
-
-0,9
-
-|
-
-0,8
-
-|
+0,8 |
 
 Dans le cas où le bâtiment ou la partie du bâtiment est en catégorie CE2 :
 
@@ -1144,13 +460,9 @@ H1c |
 
 H2a |
 
-H2b
+H2b |
 
-|
-
-H2c
-
-|
+H2c |
 
 H2d |
 
@@ -1160,37 +472,21 @@ Mbgéo
 
 |
 
-1
+1 |
 
-|
+1,2 |
 
-1,2
+1,2 |
 
-|
+1 |
 
-1,2
+1 |
 
-|
+1 |
 
-1
+1,2 |
 
-|
-
-1
-
-|
-
-1
-
-|
-
-1,2
-
-|
-
-1
-
-|
+1 |
 
 Le coefficient Mbalt de modulation du Bbiomax selon l'altitude prend les valeurs suivantes :
 
@@ -1206,17 +502,11 @@ Mbalt
 
 |
 
-0
+0 |
 
-|
+0,1 |
 
-0,1
-
-|
-
-0,2
-
-|
+0,2 |
 
 1.2. Modulations du Cepmax
 
@@ -1224,9 +514,7 @@ Le coefficient Mctype de modulation du Cepmax selon le type de bâtiment ou de p
 
 |
 
-CATÉGORIE CE1
-
-|
+CATÉGORIE CE1 |
 
 CATÉGORIE CE2 |
 
@@ -1234,13 +522,9 @@ Mctype
 
 |
 
-2
+2 |
 
-|
-
-2,2
-
-|
+2,2 |
 
 Le coefficient Mcgéo de modulation du Cepmax selon la localisation géographique prend les valeurs suivantes :
 
@@ -1268,37 +552,21 @@ Mcgéo
 
 |
 
-1,1
+1,1 |
 
-|
+1,2 |
 
-1,2
+1,1 |
 
-|
+1,1 |
 
-1,1
+1 |
 
-|
+1 |
 
-1,1
+0,9 |
 
-|
-
-1
-
-|
-
-1
-
-|
-
-0,9
-
-|
-
-0,8
-
-|
+0,8 |
 
 Dans le cas où le bâtiment ou la partie du bâtiment est en catégorie CE2 :
 
@@ -1324,45 +592,27 @@ Mcgéo
 
 |
 
-1,1
+1,1 |
 
-|
+1,2 |
 
-1,2
+1,1 |
 
-|
+1 |
 
-1,1
+1 |
 
-|
+1 |
 
-1
+1 |
 
-|
-
-1
-
-|
-
-1
-
-|
-
-1
-
-|
-
-1
-
-|
+1 |
 
 Le coefficient Mcalt de modulation du Cepmax selon l'altitude prend les valeurs suivantes :
 
 |
 
-0 à 400 m
-
-|
+0 à 400 m |
 
 401 à 800 m |
 
@@ -1372,17 +622,11 @@ Mcalt
 
 |
 
-0
+0 |
 
-|
+0,1 |
 
-0,1
-
-|
-
-0,2
-
-|
+0,2 |
 
 Le coefficient McGES de modulation du Cepmax selon les émissions de gaz à effet de serre prend la valeur suivante :
 
@@ -1430,47 +674,29 @@ Contenu CO2 des réseaux de froid en g/kWh |
 
 Contenu CO2
 
-≤ 50
-
-|
+≤ 50 |
 
 50 < contenu
 
-CO2 ≤ 100
+CO2 ≤ 100 |
 
-|
-
-100 <contenu
-
-CO2 ≤ 150
-
-|
+100 CO2 ≤ 150 |
 
 Contenu CO2
 
-> 150
-
-|
+> 150 |
 
 McGESfroid
 
 |
 
-0,3
+0,3 |
 
-|
+0,2 |
 
-0,2
+0,1 |
 
-|
-
-0,1
-
-|
-
-0
-
-|
+0 |
 
 Dans le cas où le bâtiment ou la partie de bâtiment est raccordé à un réseau de chaleur ou à un réseau de froid :
 
@@ -1498,21 +724,13 @@ McGESchaud
 
 |
 
-0,3
+0,3 |
 
-|
+0,2 |
 
-0,2
+0,1 |
 
-|
-
-0,1
-
-|
-
-0
-
-|
+0 |
 
 Dans tous les autres cas, le coefficient McGES est égal à 0.
 
@@ -1534,13 +752,9 @@ Bbiomaxmoyen
 
 |
 
-95
+95 |
 
-|
-
-100
-
-|
+100 |
 
 Le coefficient Mbgéo de modulation du Bbiomax selon la localisation géographique prend les valeurs suivantes :
 
@@ -1568,37 +782,21 @@ Mbgéo
 
 |
 
-1,2
+1,2 |
 
-|
+1,3 |
 
-1,3
+1,2 |
 
-|
+1,1 |
 
-1,2
+1 |
 
-|
+1 |
 
-1,1
+0,9 |
 
-|
-
-1
-
-|
-
-1
-
-|
-
-0,9
-
-|
-
-0,7
-
-|
+0,7 |
 
 Dans le cas où le bâtiment ou la partie du bâtiment est en catégorie CE2 :
 
@@ -1624,37 +822,21 @@ Mbgéo
 
 |
 
-1,2
+1,2 |
 
-|
+1,3 |
 
-1,3
+1,2 |
 
-|
+1,1 |
 
-1,2
+1 |
 
-|
+1 |
 
-1,1
+1,1 |
 
-|
-
-1
-
-|
-
-1
-
-|
-
-1,1
-
-|
-
-0,9
-
-|
+0,9 |
 
 Le coefficient Mbalt de modulation du Bbiomax selon l'altitude prend les valeurs suivantes :
 
@@ -1670,17 +852,11 @@ Mbalt
 
 |
 
-0
+0 |
 
-|
+0,1 |
 
-0,1
-
-|
-
-0,2
-
-|
+0,2 |
 
 2.2. Modulations du Cepmax
 
@@ -1696,13 +872,9 @@ Mctype
 
 |
 
-2,6
+2,6 |
 
-|
-
-2,7
-
-|
+2,7 |
 
 Le coefficient Mcgéo de modulation du Cepmax selon la localisation géographique prend les valeurs suivantes :
 
@@ -1718,9 +890,7 @@ H1c |
 
 H2a |
 
-H2b
-
-|
+H2b |
 
 H2c |
 
@@ -1732,37 +902,21 @@ Mcgéo
 
 |
 
-1,1
+1,1 |
 
-|
+1,2 |
 
-1,2
+1,1 |
 
-|
+1,1 |
 
-1,1
+1 |
 
-|
+1 |
 
-1,1
+0,9 |
 
-|
-
-1
-
-|
-
-1
-
-|
-
-0,9
-
-|
-
-0,8
-
-|
+0,8 |
 
 Dans le cas où le bâtiment ou la partie du bâtiment est en catégorie CE2 :
 
@@ -1788,37 +942,21 @@ Mcgéo
 
 |
 
-1,2
+1,2 |
 
-|
+1,3 |
 
-1,3
+1,2 |
 
-|
+1,1 |
 
-1,2
+1 |
 
-|
+1 |
 
-1,1
+1,1 |
 
-|
-
-1
-
-|
-
-1
-
-|
-
-1,1
-
-|
-
-0,9
-
-|
+0,9 |
 
 Le coefficient Mcalt de modulation du Cepmax selon l'altitude prend les valeurs suivantes :
 
@@ -1834,17 +972,11 @@ Mcalt
 
 |
 
-0
+0 |
 
-|
+0,1 |
 
-0,1
-
-|
-
-0,2
-
-|
+0,2 |
 
 Le coefficient McGES de modulation du Cepmax selon les émissions de gaz à effet de serre prend la valeur suivante :
 
@@ -1892,47 +1024,31 @@ Contenu CO2 des réseaux de froid en g/kWh |
 
 Contenu CO2
 
-≤ 50
-
-|
+≤ 50 |
 
 50 < contenu
 
-CO2 ≤ 100
-
-|
+CO2 ≤ 100 |
 
 100 < contenu
 
-CO2 ≤ 150
-
-|
+CO2 ≤ 150 |
 
 Contenu CO2
 
-> 150
-
-|
+> 150 |
 
 McGESfroid
 
 |
 
-0,3
+0,3 |
 
-|
+0,2 |
 
-0,2
+0,1 |
 
-|
-
-0,1
-
-|
-
-0
-
-|
+0 |
 
 Dans le cas où le bâtiment ou la partie de bâtiment est raccordé à un réseau de chaleur ou à un réseau de froid :
 
@@ -1956,21 +1072,13 @@ McGES
 
 |
 
-0,3
+0,3 |
 
-|
+0,2 |
 
-0,2
+0,1 |
 
-|
-
-0,1
-
-|
-
-0
-
-|
+0 |
 
 Dans tous les autres cas, le coefficient McGES est égal à 0.
 
@@ -1992,13 +1100,9 @@ Bbiomaxmoyen
 
 |
 
-75
+75 |
 
-|
-
-85
-
-|
+85 |
 
 Le coefficient Mbgéo de modulation du Bbiomax selon la localisation géographique prend les valeurs suivantes :
 
@@ -2006,9 +1110,7 @@ Dans le cas où le bâtiment ou la partie du bâtiment est en catégorie CE1 :
 
 |
 
-H1a
-
-|
+H1a |
 
 H1b |
 
@@ -2016,9 +1118,7 @@ H1c |
 
 H2a |
 
-H2b
-
-|
+H2b |
 
 H2c |
 
@@ -2030,37 +1130,21 @@ Mbgéo
 
 |
 
-1,2
+1,2 |
 
-|
+1,3 |
 
-1,3
+1,2 |
 
-|
+1,1 |
 
-1,2
+1 |
 
-|
+1 |
 
-1,1
+0,9 |
 
-|
-
-1
-
-|
-
-1
-
-|
-
-0,9
-
-|
-
-0,7
-
-|
+0,7 |
 
 Dans le cas où le bâtiment ou la partie du bâtiment est en catégorie CE2 :
 
@@ -2076,9 +1160,7 @@ H2a |
 
 H2b |
 
-H2c
-
-|
+H2c |
 
 H2d |
 
@@ -2088,37 +1170,21 @@ Mbgéo
 
 |
 
-1,1
+1,1 |
 
-|
+1,2 |
 
-1,2
+1,1 |
 
-|
+1 |
 
-1,1
+1 |
 
-|
+1 |
 
-1
+1,1 |
 
-|
-
-1
-
-|
-
-1
-
-|
-
-1,1
-
-|
-
-0,9
-
-|
+0,9 |
 
 Le coefficient Mbalt de modulation du Bbiomax selon l'altitude prend les valeurs suivantes :
 
@@ -2134,17 +1200,11 @@ Mbalt
 
 |
 
-0
+0 |
 
-|
+0,1 |
 
-0,1
-
-|
-
-0,2
-
-|
+0,2 |
 
 3.2. Modulations du Cepmax
 
@@ -2160,13 +1220,9 @@ Mctype
 
 |
 
-2,2
+2,2 |
 
-|
-
-2,5
-
-|
+2,5 |
 
 Le coefficient Mcgéo de modulation du Cepmax selon la localisation géographique prend les valeurs suivantes :
 
@@ -2184,9 +1240,7 @@ H2a |
 
 H2b |
 
-H2c
-
-|
+H2c |
 
 H2d |
 
@@ -2196,37 +1250,21 @@ Mcgéo
 
 |
 
-1,1
+1,1 |
 
-|
+1,2 |
 
-1,2
+1,1 |
 
-|
+1,1 |
 
-1,1
+1 |
 
-|
+1 |
 
-1,1
+0,9 |
 
-|
-
-1
-
-|
-
-1
-
-|
-
-0,9
-
-|
-
-0,8
-
-|
+0,8 |
 
 Dans le cas où le bâtiment ou la partie du bâtiment est en catégorie CE2 :
 
@@ -2242,59 +1280,37 @@ H2a |
 
 H2b |
 
-H2c
-
-|
+H2c |
 
 H2d |
 
-H3
-
-|
+H3 |
 
 Mcgéo
 
 |
 
-1,1
+1,1 |
 
-|
+1,2 |
 
-1,2
+1,2 |
 
-|
+1 |
 
-1,2
+1 |
 
-|
+1 |
 
-1
+1 |
 
-|
-
-1
-
-|
-
-1
-
-|
-
-1
-
-|
-
-1
-
-|
+1 |
 
 Le coefficient Mcalt de modulation du Cepmax selon l'altitude prend les valeurs suivantes :
 
 |
 
-0 à 400 m
-
-|
+0 à 400 m |
 
 401 à 800 m |
 
@@ -2304,17 +1320,11 @@ Mcalt
 
 |
 
-0
+0 |
 
-|
+0,1 |
 
-0,1
-
-|
-
-0,2
-
-|
+0,2 |
 
 Le coefficient McGES de modulation du Cepmax selon les émissions de gaz à effet de serre prend la valeur suivante :
 
@@ -2328,9 +1338,7 @@ McGES = McGESchaud + McGESfroid / 2
 
 où :
 
-Contenu CO2 des réseaux de chaleur en g/kWh
-
-|
+Contenu CO2 des réseaux de chaleur en g/kWh |
 
 |
 
@@ -2364,47 +1372,31 @@ Contenu CO2 des réseaux de froid en g/kWh |
 
 Contenu CO2
 
-≤ 50
-
-|
+≤ 50 |
 
 50 < contenu
 
-CO2 ≤ 100
-
-|
+CO2 ≤ 100 |
 
 100 < contenu
 
-CO2 ≤ 150
-
-|
+CO2 ≤ 150 |
 
 Contenu CO2
 
-> 150
-
-|
+> 150 |
 
 McGESfroid
 
 |
 
-0,3
+0,3 |
 
-|
+0,2 |
 
-0,2
+0,1 |
 
-|
-
-0,1
-
-|
-
-0
-
-|
+0 |
 
 Dans le cas où le bâtiment ou la partie de bâtiment est raccordé à un réseau de chaleur ou à un réseau de froid :
 
@@ -2422,29 +1414,17 @@ Contenu CO2
 
 Contenu CO2
 
-> 150
+> 150 |
 
-|
+McGES |
 
-McGES
+0,3 |
 
-|
+0,2 |
 
-0,3
+0,1 |
 
-|
-
-0,2
-
-|
-
-0,1
-
-|
-
-0
-
-|
+0 |
 
 Dans tous les autres cas, le coefficient McGES est égal à 0.
 
@@ -2466,13 +1446,9 @@ Bbiomaxmoyen
 
 |
 
-75
+75 |
 
-|
-
-85
-
-|
+85 |
 
 Le coefficient Mbgéo de modulation du Bbiomax selon la localisation géographique prend les valeurs suivantes :
 
@@ -2488,13 +1464,9 @@ H1c |
 
 H2a |
 
-H2b
+H2b |
 
-|
-
-H2c
-
-|
+H2c |
 
 H2d |
 
@@ -2504,37 +1476,21 @@ Mbgéo
 
 |
 
-1,2
+1,2 |
 
-|
+1,4 |
 
-1,4
+1,2 |
 
-|
+1,1 |
 
-1,2
+1 |
 
-|
+1 |
 
-1,1
+0,9 |
 
-|
-
-1
-
-|
-
-1
-
-|
-
-0,9
-
-|
-
-0,7
-
-|
+0,7 |
 
 Dans le cas où le bâtiment ou la partie du bâtiment est en catégorie CE2 :
 
@@ -2548,9 +1504,7 @@ H1c |
 
 H2a |
 
-H2b
-
-|
+H2b |
 
 H2c |
 
@@ -2562,37 +1516,21 @@ Mbgéo
 
 |
 
-1,2
+1,2 |
 
-|
+1,3 |
 
-1,3
+1,2 |
 
-|
+1,1 |
 
-1,2
+1 |
 
-|
+1 |
 
-1,1
+1,1 |
 
-|
-
-1
-
-|
-
-1
-
-|
-
-1,1
-
-|
-
-0,9
-
-|
+0,9 |
 
 Le coefficient Mbalt de modulation du Bbiomax selon l'altitude prend les valeurs suivantes :
 
@@ -2608,17 +1546,11 @@ Mbalt
 
 |
 
-0
+0 |
 
-|
+0,1 |
 
-0,1
-
-|
-
-0,2
-
-|
+0,2 |
 
 4.2. Modulations du Cepmax
 
@@ -2634,13 +1566,9 @@ Mctype
 
 |
 
-2,1
+2,1 |
 
-|
-
-2,2
-
-|
+2,2 |
 
 Le coefficient Mcgéo de modulation du Cepmax selon la localisation géographique prend les valeurs suivantes :
 
@@ -2668,49 +1596,29 @@ Mcgéo
 
 |
 
-1,1
+1,1 |
 
-|
+1,2 |
 
-1,2
+1,1 |
 
-|
+1,1 |
 
-1,1
+1 |
 
-|
+1 |
 
-1,1
+0,9 |
 
-|
-
-1
-
-|
-
-1
-
-|
-
-0,9
-
-|
-
-0,8
-
-|
+0,8 |
 
 Dans le cas où le bâtiment ou la partie du bâtiment est en catégorie CE2 :
 
 |
 
-H1a
+H1a |
 
-|
-
-H1b
-
-|
+H1b |
 
 H1c |
 
@@ -2718,51 +1626,31 @@ H2a |
 
 H2b |
 
-H2c
-
-|
+H2c |
 
 H2d |
 
-H3
-
-|
+H3 |
 
 Mcgéo
 
 |
 
-1,1
+1,1 |
 
-|
+1,2 |
 
-1,2
+1,2 |
 
-|
+1 |
 
-1,2
+1 |
 
-|
+1 |
 
-1
+1 |
 
-|
-
-1
-
-|
-
-1
-
-|
-
-1
-
-|
-
-1
-
-|
+1 |
 
 Le coefficient Mcalt de modulation du Cepmax selon l'altitude prend les valeurs suivantes :
 
@@ -2778,17 +1666,11 @@ Mcalt
 
 |
 
-0
+0 |
 
-|
+0,1 |
 
-0,1
-
-|
-
-0,2
-
-|
+0,2 |
 
 Le coefficient McGES de modulation du Cepmax selon les émissions de gaz à effet de serre prend la valeur suivante :
 
@@ -2822,21 +1704,13 @@ McGESchaud
 
 |
 
-0,3
+0,3 |
 
-|
+0,2 |
 
-0,2
+0,1 |
 
-|
-
-0,1
-
-|
-
-0
-
-|
+0 |
 
 Contenu CO2 des réseaux de froid en g/kWh |
 
@@ -2844,47 +1718,31 @@ Contenu CO2 des réseaux de froid en g/kWh |
 
 Contenu CO2
 
-≤ 50
-
-|
+≤ 50 |
 
 50 ≤ contenu
 
-CO2 ≤ 100
-
-|
+CO2 ≤ 100 |
 
 100 ≤ contenu
 
-CO2 ≤ 150
-
-|
+CO2 ≤ 150 |
 
 Contenu CO2
 
-> 150
-
-|
+> 150 |
 
 McGESfroid
 
 |
 
-0,3
+0,3 |
 
-|
+0,2 |
 
-0,2
+0,1 |
 
-|
-
-0,1
-
-|
-
-0
-
-|
+0 |
 
 Dans le cas où le bâtiment ou la partie de bâtiment est raccordé à un réseau de chaleur ou à un réseau de froid :
 
@@ -2908,21 +1766,13 @@ McGES
 
 |
 
-0,3
+0,3 |
 
-|
+0,2 |
 
-0,2
+0,1 |
 
-|
-
-0,1
-
-|
-
-0
-
-|
+0 |
 
 Dans tous les autres cas, le coefficient McGES est égal à 0.
 
@@ -2938,21 +1788,15 @@ La valeur moyenne Bbiomaxmoyen définie par type d'occupation du bâtiment ou de
 
 CATÉGORIE CE1 |
 
-CATÉGORIE CE2
-
-|
+CATÉGORIE CE2 |
 
 Bbiomaxmoyen
 
 |
 
-110
+110 |
 
-|
-
-140
-
-|
+140 |
 
 Le coefficient Mbgéo de modulation du Bbiomax selon la localisation géographique prend les valeurs suivantes :
 
@@ -2968,9 +1812,7 @@ H1c |
 
 H2a |
 
-H2b
-
-|
+H2b |
 
 H2c |
 
@@ -2982,37 +1824,21 @@ Mbgéo
 
 |
 
-1,1
+1,1 |
 
-|
+1,3 |
 
-1,3
+1,1 |
 
-|
+1,1 |
 
-1,1
+1 |
 
-|
+1 |
 
-1,1
+0,9 |
 
-|
-
-1
-
-|
-
-1
-
-|
-
-0,9
-
-|
-
-0,8
-
-|
+0,8 |
 
 Dans le cas où le bâtiment ou la partie du bâtiment est en catégorie CE2 :
 
@@ -3024,9 +1850,7 @@ H1b |
 
 H1c |
 
-H2a
-
-|
+H2a |
 
 H2b |
 
@@ -3034,45 +1858,27 @@ H2c |
 
 H2d |
 
-H3
-
-|
+H3 |
 
 Mbgéo
 
 |
 
-1
+1 |
 
-|
+1,2 |
 
-1,2
+1,2 |
 
-|
+1 |
 
-1,2
+1 |
 
-|
+1 |
 
-1
+1,2 |
 
-|
-
-1
-
-|
-
-1
-
-|
-
-1,2
-
-|
-
-1
-
-|
+1 |
 
 Le coefficient Mbalt de modulation du Bbiomax selon l'altitude prend les valeurs suivantes :
 
@@ -3088,17 +1894,11 @@ Mbalt
 
 |
 
-0
+0 |
 
-|
+0,1 |
 
-0,1
-
-|
-
-0,2
-
-|
+0,2 |
 
 5.2. Modulations du Cepmax
 
@@ -3114,13 +1914,9 @@ Mctype
 
 |
 
-3,3
+3,3 |
 
-|
-
-4
-
-|
+4 |
 
 Le coefficient Mcgéo de modulation du Cepmax selon la localisation géographique prend les valeurs suivantes :
 
@@ -3138,9 +1934,7 @@ H2a |
 
 H2b |
 
-H2c
-
-|
+H2c |
 
 H2d |
 
@@ -3150,37 +1944,21 @@ Mcgéo
 
 |
 
-1,1
+1,1 |
 
-|
+1,2 |
 
-1,2
+1,1 |
 
-|
+1,1 |
 
-1,1
+1 |
 
-|
+1 |
 
-1,1
+0,9 |
 
-|
-
-1
-
-|
-
-1
-
-|
-
-0,9
-
-|
-
-0,9
-
-|
+0,9 |
 
 Dans le cas où le bâtiment ou la partie du bâtiment est en catégorie CE2 :
 
@@ -3192,9 +1970,7 @@ H1b |
 
 H1c |
 
-H2a
-
-|
+H2a |
 
 H2b |
 
@@ -3208,37 +1984,21 @@ Mcgéo
 
 |
 
-1
+1 |
 
-|
+1,1 |
 
-1,1
+1,1 |
 
-|
+1 |
 
-1,1
+1 |
 
-|
+1 |
 
-1
+1,1 |
 
-|
-
-1
-
-|
-
-1
-
-|
-
-1,1
-
-|
-
-1
-
-|
+1 |
 
 Le coefficient Mcalt de modulation du Cepmax selon l'altitude prend les valeurs suivantes :
 
@@ -3254,17 +2014,11 @@ Mcalt
 
 |
 
-0
+0 |
 
-|
+0,1 |
 
-0,1
-
-|
-
-0,2
-
-|
+0,2 |
 
 Le coefficient Mcsurf de modulation du Cepmax selon la surface du bâtiment ou de la partie de bâtiment est pris égal à 0.
 
@@ -3286,13 +2040,9 @@ Bbiomaxmoyen
 
 |
 
-110
+110 |
 
-|
-
-165
-
-|
+165 |
 
 Le coefficient Mbgéo de modulation du Bbiomax selon la localisation géographique prend les valeurs suivantes :
 
@@ -3320,37 +2070,21 @@ Mbgéo
 
 |
 
-1,1
+1,1 |
 
-|
+1,3 |
 
-1,3
+1,2 |
 
-|
+1,1 |
 
-1,2
+1 |
 
-|
+0,9 |
 
-1,1
+0,9 |
 
-|
-
-1
-
-|
-
-0,9
-
-|
-
-0,9
-
-|
-
-0,8
-
-|
+0,8 |
 
 Dans le cas où le bâtiment ou la partie du bâtiment est en catégorie CE2 :
 
@@ -3364,9 +2098,7 @@ H1c |
 
 H2a |
 
-H2b
-
-|
+H2b |
 
 H2c |
 
@@ -3378,45 +2110,27 @@ Mbgéo
 
 |
 
-1,1
+1,1 |
 
-|
+1,2 |
 
-1,2
+1,2 |
 
-|
+1 |
 
-1,2
+1 |
 
-|
+1 |
 
-1
+1,2 |
 
-|
-
-1
-
-|
-
-1
-
-|
-
-1,2
-
-|
-
-0,9
-
-|
+0,9 |
 
 Le coefficient Mbalt de modulation du Bbiomax selon l'altitude prend les valeurs suivantes :
 
 |
 
-0 à 400 m
-
-|
+0 à 400 m |
 
 401 à 800 m |
 
@@ -3426,17 +2140,11 @@ Mbalt
 
 |
 
-0
+0 |
 
-|
+0,1 |
 
-0,1
-
-|
-
-0,2
-
-|
+0,2 |
 
 5.2. Modulations du Cepmax
 
@@ -3452,13 +2160,9 @@ Mctype
 
 |
 
-3
+3 |
 
-|
-
-4,1
-
-|
+4,1 |
 
 Le coefficient Mcgéo de modulation du Cepmax selon la localisation géographique prend les valeurs suivantes :
 
@@ -3470,9 +2174,7 @@ H1a |
 
 H1b |
 
-H1c
-
-|
+H1c |
 
 H2a |
 
@@ -3488,37 +2190,21 @@ Mcgéo
 
 |
 
-1,1
+1,1 |
 
-|
+1,2 |
 
-1,2
+1,1 |
 
-|
+1,1 |
 
-1,1
+1 |
 
-|
+1 |
 
-1,1
+0,9 |
 
-|
-
-1
-
-|
-
-1
-
-|
-
-0,9
-
-|
-
-0,8
-
-|
+0,8 |
 
 Dans le cas où le bâtiment ou la partie du bâtiment est en catégorie CE2 :
 
@@ -3536,9 +2222,7 @@ H2b |
 
 H2c |
 
-H2d
-
-|
+H2d |
 
 H3 |
 
@@ -3546,45 +2230,27 @@ Mcgéo
 
 |
 
-1
+1 |
 
-|
+1,1 |
 
-1,1
+1,1 |
 
-|
+1 |
 
-1,1
+1 |
 
-|
+1 |
 
-1
+1 |
 
-|
-
-1
-
-|
-
-1
-
-|
-
-1
-
-|
-
-0,9
-
-|
+0,9 |
 
 Le coefficient Mcalt de modulation du Cepmax selon l'altitude prend les valeurs suivantes :
 
 |
 
-0 à 400 m
-
-|
+0 à 400 m |
 
 401 à 800 m |
 
@@ -3594,17 +2260,11 @@ Mcalt
 
 |
 
-0
+0 |
 
-|
+0,1 |
 
-0,1
-
-|
-
-0,2
-
-|
+0,2 |
 
 Le coefficient Mcsurf de modulation du Cepmax selon la surface du bâtiment ou de la partie de bâtiment est pris égal à 0.
 
@@ -3628,13 +2288,9 @@ Bbiomaxmoyen
 
 |
 
-140
+140 |
 
-|
-
-240
-
-|
+240 |
 
 Le coefficient Mbgéo de modulation du Bbiomax selon la localisation géographique prend les valeurs suivantes :
 
@@ -3662,37 +2318,21 @@ Mbgéo
 
 |
 
-1,1
+1,1 |
 
-|
+1,3 |
 
-1,3
+1,2 |
 
-|
+1,1 |
 
-1,2
+1 |
 
-|
+0,9 |
 
-1,1
+0,9 |
 
-|
-
-1
-
-|
-
-0,9
-
-|
-
-0,9
-
-|
-
-0,7
-
-|
+0,7 |
 
 Dans le cas où le bâtiment ou la partie du bâtiment est en catégorie CE2 :
 
@@ -3704,15 +2344,11 @@ H1b |
 
 H1c |
 
-H2a
-
-|
+H2a |
 
 H2b |
 
-H2c
-
-|
+H2c |
 
 H2d |
 
@@ -3722,37 +2358,21 @@ Mbgéo
 
 |
 
-1
+1 |
 
-|
+1,2 |
 
-1,2
+1,1 |
 
-|
+1 |
 
-1,1
+1 |
 
-|
+1 |
 
-1
+1,2 |
 
-|
-
-1
-
-|
-
-1
-
-|
-
-1,2
-
-|
-
-1
-
-|
+1 |
 
 Le coefficient Mbalt de modulation du Bbiomax selon l'altitude prend les valeurs suivantes :
 
@@ -3770,25 +2390,17 @@ Mbalt
 
 |
 
-0
+0 |
 
-|
+0,2 |
 
-0,2
-
-|
-
-0,4
-
-|
+0,4 |
 
 Dans le cas où le bâtiment ou la partie du bâtiment est en catégorie CE2 :
 
 |
 
-0 à 400 m
-
-|
+0 à 400 m |
 
 401 à 800 m |
 
@@ -3798,17 +2410,11 @@ Mbalt
 
 |
 
-0
+0 |
 
-|
+0 |
 
-0
-
-|
-
-0,1
-
-|
+0,1 |
 
 1.2. Modulations du Cepmax
 
@@ -3824,13 +2430,9 @@ Mctype
 
 |
 
-6,8
+6,8 |
 
-|
-
-10
-
-|
+10 |
 
 Le coefficient Mcgéo de modulation du Cepmax selon la localisation géographique prend les valeurs suivantes :
 
@@ -3846,9 +2448,7 @@ H1c |
 
 H2a |
 
-H2b
-
-|
+H2b |
 
 H2c |
 
@@ -3860,37 +2460,21 @@ Mcgéo
 
 |
 
-1,1
+1,1 |
 
-|
+1,2 |
 
-1,2
+1,1 |
 
-|
+1,1 |
 
-1,1
+1 |
 
-|
+1 |
 
-1,1
+1 |
 
-|
-
-1
-
-|
-
-1
-
-|
-
-1
-
-|
-
-0,9
-
-|
+0,9 |
 
 Dans le cas où le bâtiment ou la partie du bâtiment est en catégorie CE2 :
 
@@ -3916,37 +2500,21 @@ Mcgéo
 
 |
 
-1
+1 |
 
-|
+1,1 |
 
-1,1
+1,1 |
 
-|
+1 |
 
-1,1
+1 |
 
-|
+1 |
 
-1
+1,2 |
 
-|
-
-1
-
-|
-
-1
-
-|
-
-1,2
-
-|
-
-1,1
-
-|
+1,1 |
 
 Le coefficient Mcalt de modulation du Cepmax selon l'altitude prend les valeurs suivantes :
 
@@ -3964,17 +2532,11 @@ Mcalt
 
 |
 
-0
+0 |
 
-|
+0,1 |
 
-0,1
-
-|
-
-0,2
-
-|
+0,2 |
 
 Dans le cas où le bâtiment ou la partie du bâtiment est en catégorie CE2 :
 
@@ -3990,17 +2552,11 @@ Mcalt
 
 |
 
-0
+0 |
 
-|
+0 |
 
-0
-
-|
-
-0,1
-
-|
+0,1 |
 
 Le coefficient Mcsurf de modulation du Cepmax selon la surface du bâtiment ou de la partie de bâtiment est pris égal à 0.
 
@@ -4022,13 +2578,9 @@ Bbiomaxmoyen
 
 |
 
-65
+65 |
 
-|
-
-100
-
-|
+100 |
 
 Le coefficient Mbgéo de modulation du Bbiomax selon la localisation géographique prend les valeurs suivantes :
 
@@ -4044,9 +2596,7 @@ H1c |
 
 H2a |
 
-H2b
-
-|
+H2b |
 
 H2c |
 
@@ -4058,37 +2608,21 @@ Mbgéo
 
 |
 
-1,1
+1,1 |
 
-|
+1,4 |
 
-1,4
+1,2 |
 
-|
+1,1 |
 
-1,2
+1 |
 
-|
+0,9 |
 
-1,1
+0,7 |
 
-|
-
-1
-
-|
-
-0,9
-
-|
-
-0,7
-
-|
-
-0,6
-
-|
+0,6 |
 
 Dans le cas où le bâtiment ou la partie du bâtiment est en catégorie CE2 :
 
@@ -4102,9 +2636,7 @@ H1c |
 
 H2a |
 
-H2b
-
-|
+H2b |
 
 H2c |
 
@@ -4116,37 +2648,21 @@ Mbgéo
 
 |
 
-0,9
+0,9 |
 
-|
+1,1 |
 
-1,1
+1,1 |
 
-|
+0,9 |
 
-1,1
+1 |
 
-|
+0,9 |
 
-0,9
+1,2 |
 
-|
-
-1
-
-|
-
-0,9
-
-|
-
-1,2
-
-|
-
-1,1
-
-|
+1,1 |
 
 Le coefficient Mbalt de modulation du Bbiomax selon l'altitude prend les valeurs suivantes :
 
@@ -4156,9 +2672,7 @@ Dans le cas où le bâtiment ou la partie du bâtiment est en catégorie CE1 :
 
 0 à 400 m |
 
-401 à 800 m
-
-|
+401 à 800 m |
 
 801 m et plus |
 
@@ -4166,17 +2680,11 @@ Mbalt
 
 |
 
-0
+0 |
 
-|
+0,3 |
 
-0,3
-
-|
-
-0,6
-
-|
+0,6 |
 
 Dans le cas où le bâtiment ou la partie du bâtiment est en catégorie CE2 :
 
@@ -4192,17 +2700,11 @@ Mbalt
 
 |
 
-0
+0 |
 
-|
+0 |
 
-0
-
-|
-
-0,2
-
-|
+0,2 |
 
 2.2. Modulations du Cepmax
 
@@ -4218,13 +2720,9 @@ Mctype
 
 |
 
-3,6
+3,6 |
 
-|
-
-5
-
-|
+5 |
 
 Le coefficient Mcgéo de modulation du Cepmax selon la localisation géographique prend les valeurs suivantes :
 
@@ -4252,45 +2750,27 @@ Mcgéo
 
 |
 
-1,1
+1,1 |
 
-|
+1,2 |
 
-1,2
+1,1 |
 
-|
+1,1 |
 
-1,1
+1 |
 
-|
+1 |
 
-1,1
+0,9 |
 
-|
-
-1
-
-|
-
-1
-
-|
-
-0,9
-
-|
-
-0,8
-
-|
+0,8 |
 
 Dans le cas où le bâtiment ou la partie du bâtiment est en catégorie CE2 :
 
 |
 
-H1a
-
-|
+H1a |
 
 H1b |
 
@@ -4310,37 +2790,21 @@ Mcgéo
 
 |
 
-1
+1 |
 
-|
+1,1 |
 
-1,1
+1,1 |
 
-|
+1 |
 
-1,1
+1 |
 
-|
+1 |
 
-1
+1,1 |
 
-|
-
-1
-
-|
-
-1
-
-|
-
-1,1
-
-|
-
-0,9
-
-|
+0,9 |
 
 Le coefficient Mcalt de modulation du Cepmax selon l'altitude prend les valeurs suivantes :
 
@@ -4348,9 +2812,7 @@ Dans le cas où le bâtiment ou la partie du bâtiment est en catégorie CE1 :
 
 |
 
-0 à 400 m
-
-|
+0 à 400 m |
 
 401 à 800 m |
 
@@ -4360,17 +2822,11 @@ Mcalt
 
 |
 
-0
+0 |
 
-|
+0,1 |
 
-0,1
-
-|
-
-0,3
-
-|
+0,3 |
 
 Dans le cas où le bâtiment ou la partie du bâtiment est en catégorie CE2 :
 
@@ -4386,17 +2842,11 @@ Mcalt
 
 |
 
-0
+0 |
 
-|
+0,1 |
 
-0,1
-
-|
-
-0,1
-
-|
+0,1 |
 
 Le coefficient Mcsurf de modulation du Cepmax selon la surface du bâtiment ou de la partie de bâtiment est pris égal à 0.
 
@@ -4418,13 +2868,9 @@ Bbiomaxmoyen
 
 |
 
-110
+110 |
 
-|
-
-180
-
-|
+180 |
 
 Le coefficient Mbgéo de modulation du Bbiomax selon la localisation géographique prend les valeurs suivantes :
 
@@ -4452,37 +2898,21 @@ Mbgéo
 
 |
 
-1,2
+1,2 |
 
-|
+1,3 |
 
-1,3
+1,2 |
 
-|
+1,1 |
 
-1,2
+1 |
 
-|
+0,9 |
 
-1,1
+0,8 |
 
-|
-
-1
-
-|
-
-0,9
-
-|
-
-0,8
-
-|
-
-0,7
-
-|
+0,7 |
 
 Dans le cas où le bâtiment ou la partie du bâtiment est en catégorie CE2 :
 
@@ -4498,13 +2928,9 @@ H2a |
 
 H2b |
 
-H2c
+H2c |
 
-|
-
-H2d
-
-|
+H2d |
 
 H3 |
 
@@ -4512,37 +2938,21 @@ Mbgéo
 
 |
 
-1
+1 |
 
-|
+1,2 |
 
-1,2
+1,2 |
 
-|
+1 |
 
-1,2
+1 |
 
-|
+1 |
 
-1
+1,2 |
 
-|
-
-1
-
-|
-
-1
-
-|
-
-1,2
-
-|
-
-1,1
-
-|
+1,1 |
 
 Le coefficient Mbalt de modulation du Bbiomax selon l'altitude prend les valeurs suivantes :
 
@@ -4550,9 +2960,7 @@ Dans le cas où le bâtiment ou la partie du bâtiment est en catégorie CE1 :
 
 |
 
-0 à 400 m
-
-|
+0 à 400 m |
 
 401 à 800 m |
 
@@ -4562,25 +2970,17 @@ Mbalt
 
 |
 
-0
+0 |
 
-|
+0,2 |
 
-0,2
-
-|
-
-0,4
-
-|
+0,4 |
 
 Dans le cas où le bâtiment ou la partie du bâtiment est en catégorie CE2 :
 
 |
 
-0 à 400 m
-
-|
+0 à 400 m |
 
 401 à 800 m |
 
@@ -4590,17 +2990,11 @@ Mbalt
 
 |
 
-0
+0 |
 
-|
+0 |
 
-0
-
-|
-
-0,1
-
-|
+0,1 |
 
 3.2. Modulations du Cepmax
 
@@ -4616,13 +3010,9 @@ Mctype
 
 |
 
-6
+6 |
 
-|
-
-8,2
-
-|
+8,2 |
 
 Le coefficient Mcgéo de modulation du Cepmax selon la localisation géographique prend les valeurs suivantes :
 
@@ -4642,9 +3032,7 @@ H2b |
 
 H2c |
 
-H2d
-
-|
+H2d |
 
 H3 |
 
@@ -4652,37 +3040,21 @@ Mcgéo
 
 |
 
-1,1
+1,1 |
 
-|
+1,2 |
 
-1,2
+1,1 |
 
-|
+1,1 |
 
-1,1
+1 |
 
-|
+1 |
 
-1,1
+0,9 |
 
-|
-
-1
-
-|
-
-1
-
-|
-
-0,9
-
-|
-
-0,8
-
-|
+0,8 |
 
 Dans le cas où le bâtiment ou la partie du bâtiment est en catégorie CE2 :
 
@@ -4700,9 +3072,7 @@ H2b |
 
 H2c |
 
-H2d
-
-|
+H2d |
 
 H3 |
 
@@ -4710,37 +3080,21 @@ Mcgéo
 
 |
 
-1
+1 |
 
-|
+1,1 |
 
-1,1
+1,1 |
 
-|
+1 |
 
-1,1
+1 |
 
-|
+1 |
 
-1
+1,1 |
 
-|
-
-1
-
-|
-
-1
-
-|
-
-1,1
-
-|
-
-1
-
-|
+1 |
 
 Le coefficient Mcalt de modulation du Cepmax selon l'altitude prend les valeurs suivantes :
 
@@ -4758,17 +3112,11 @@ Mcalt
 
 |
 
-0
+0 |
 
-|
+0,1 |
 
-0,1
-
-|
-
-0,2
-
-|
+0,2 |
 
 Dans le cas où le bâtiment ou la partie du bâtiment est en catégorie CE2 :
 
@@ -4776,9 +3124,7 @@ Dans le cas où le bâtiment ou la partie du bâtiment est en catégorie CE2 :
 
 0 à 400 m |
 
-401 à 800 m
-
-|
+401 à 800 m |
 
 801 m et plus |
 
@@ -4786,17 +3132,11 @@ Mcalt
 
 |
 
-0
+0 |
 
-|
+0 |
 
-0
-
-|
-
-0,1
-
-|
+0,1 |
 
 Le coefficient Mcsurf de modulation du Cepmax selon la surface du bâtiment ou de la partie de bâtiment est pris égal à 0.
 
@@ -4818,13 +3158,9 @@ Bbiomaxmoyen
 
 |
 
-125
+125 |
 
-|
-
-200
-
-|
+200 |
 
 Le coefficient Mbgéo de modulation du Bbiomax selon la localisation géographique prend les valeurs suivantes :
 
@@ -4840,9 +3176,7 @@ H1c |
 
 H2a |
 
-H2b
-
-|
+H2b |
 
 H2c |
 
@@ -4854,37 +3188,21 @@ Mbgéo
 
 |
 
-1,2
+1,2 |
 
-|
+1,3 |
 
-1,3
+1,2 |
 
-|
+1,1 |
 
-1,2
+1 |
 
-|
+0,9 |
 
-1,1
+0,8 |
 
-|
-
-1
-
-|
-
-0,9
-
-|
-
-0,8
-
-|
-
-0,7
-
-|
+0,7 |
 
 Dans le cas où le bâtiment ou la partie du bâtiment est en catégorie CE2 :
 
@@ -4898,53 +3216,33 @@ H1c |
 
 H2a |
 
-H2b
-
-|
+H2b |
 
 H2c |
 
 H2d |
 
-H3
-
-|
+H3 |
 
 Mbgéo
 
 |
 
-1
+1 |
 
-|
+1,1 |
 
-1,1
+1,1 |
 
-|
+1 |
 
-1,1
+1 |
 
-|
+1 |
 
-1
+1,2 |
 
-|
-
-1
-
-|
-
-1
-
-|
-
-1,2
-
-|
-
-1
-
-|
+1 |
 
 Le coefficient Mbalt de modulation du Bbiomax selon l'altitude prend les valeurs suivantes :
 
@@ -4962,29 +3260,19 @@ Mbalt
 
 |
 
-0
+0 |
 
-|
+0,2 |
 
-0,2
-
-|
-
-0,4
-
-|
+0,4 |
 
 Dans le cas où le bâtiment ou la partie du bâtiment est en catégorie CE2 :
 
 |
 
-0 à 400 m
+0 à 400 m |
 
-|
-
-401 à 800 m
-
-|
+401 à 800 m |
 
 801 m et plus |
 
@@ -4992,17 +3280,11 @@ Mbalt
 
 |
 
-0
+0 |
 
-|
+0 |
 
-0
-
-|
-
-0,1
-
-|
+0,1 |
 
 4.2. Modulations du Cepmax
 
@@ -5018,13 +3300,9 @@ Mctype
 
 |
 
-6,6
+6,6 |
 
-|
-
-9,2
-
-|
+9,2 |
 
 Le coefficient Mcgéo de modulation du Cepmax selon la localisation géographique prend les valeurs suivantes :
 
@@ -5044,9 +3322,7 @@ H2b |
 
 H2c |
 
-H2d
-
-|
+H2d |
 
 H3 |
 
@@ -5054,37 +3330,21 @@ Mcgéo
 
 |
 
-1,1
+1,1 |
 
-|
+1,2 |
 
-1,2
+1,1 |
 
-|
+1,1 |
 
-1,1
+1 |
 
-|
+1 |
 
-1,1
+0,9 |
 
-|
-
-1
-
-|
-
-1
-
-|
-
-0,9
-
-|
-
-0,8
-
-|
+0,8 |
 
 Dans le cas où le bâtiment ou la partie du bâtiment est en catégorie CE2 :
 
@@ -5096,57 +3356,35 @@ H1b |
 
 H1c |
 
-H2a
-
-|
+H2a |
 
 H2b |
 
-H2c
-
-|
+H2c |
 
 H2d |
 
-H3
-
-|
+H3 |
 
 Mcgéo
 
 |
 
-1
+1 |
 
-|
+1,1 |
 
-1,1
+1,1 |
 
-|
+1 |
 
-1,1
+1 |
 
-|
+1 |
 
-1
+1,1 |
 
-|
-
-1
-
-|
-
-1
-
-|
-
-1,1
-
-|
-
-1
-
-|
+1 |
 
 Le coefficient Mcalt de modulation du Cepmax selon l'altitude prend les valeurs suivantes :
 
@@ -5164,25 +3402,17 @@ Mcalt
 
 |
 
-0
+0 |
 
-|
+0,1 |
 
-0,1
-
-|
-
-0,2
-
-|
+0,2 |
 
 Dans le cas où le bâtiment ou la partie du bâtiment est en catégorie CE2 :
 
 |
 
-0 à 400 m
-
-|
+0 à 400 m |
 
 401 à 800 m |
 
@@ -5192,17 +3422,11 @@ Mcalt
 
 |
 
-0
+0 |
 
-|
+0 |
 
-0
-
-|
-
-0,1
-
-|
+0,1 |
 
 Le coefficient Mcsurf de modulation du Cepmax selon la surface du bâtiment ou de la partie de bâtiment est pris égal à 0.
 
@@ -5224,13 +3448,9 @@ Bbiomaxmoyen
 
 |
 
-50
+50 |
 
-|
-
-60
-
-|
+60 |
 
 Le coefficient Mbgéo de modulation du Bbiomax selon la localisation géographique prend les valeurs suivantes :
 
@@ -5246,15 +3466,11 @@ H1c |
 
 H2a |
 
-H2b
-
-|
+H2b |
 
 H2c |
 
-H2d
-
-|
+H2d |
 
 H3 |
 
@@ -5262,37 +3478,21 @@ Mbgéo
 
 |
 
-1,2
+1,2 |
 
-|
+1,4 |
 
-1,4
+1,2 |
 
-|
+1,1 |
 
-1,2
+1 |
 
-|
+0,9 |
 
-1,1
+0,8 |
 
-|
-
-1
-
-|
-
-0,9
-
-|
-
-0,8
-
-|
-
-0,7
-
-|
+0,7 |
 
 Dans le cas où le bâtiment ou la partie du bâtiment est en catégorie CE2 :
 
@@ -5304,59 +3504,35 @@ H1b |
 
 H1c |
 
-H2a
-
-|
+H2a |
 
 H2b |
 
-H2c
+H2c |
 
-|
+H2d |
 
-H2d
-
-|
-
-H3
-
-|
+H3 |
 
 Mbgéo
 
 |
 
-1,1
+1,1 |
 
-|
+1,3 |
 
-1,3
+1,2 |
 
-|
+1 |
 
-1,2
+1 |
 
-|
+1 |
 
-1
+1,2 |
 
-|
-
-1
-
-|
-
-1
-
-|
-
-1,2
-
-|
-
-1
-
-|
+1 |
 
 Le coefficient Mbalt de modulation du Bbiomax selon l'altitude prend les valeurs suivantes :
 
@@ -5374,25 +3550,17 @@ Mbalt
 
 |
 
-0
+0 |
 
-|
+0,2 |
 
-0,2
-
-|
-
-0,5
-
-|
+0,5 |
 
 Dans le cas où le bâtiment ou la partie du bâtiment est en catégorie CE2 :
 
 |
 
-0 à 400 m
-
-|
+0 à 400 m |
 
 401 à 800 m |
 
@@ -5402,17 +3570,11 @@ Mbalt
 
 |
 
-0
+0 |
 
-|
+0,2 |
 
-0,2
-
-|
-
-0,4
-
-|
+0,4 |
 
 5.2. Modulations du Cepmax
 
@@ -5428,13 +3590,9 @@ Mctype
 
 |
 
-1,7
+1,7 |
 
-|
-
-2,2
-
-|
+2,2 |
 
 Le coefficient Mcgéo de modulation du Cepmax selon la localisation géographique prend les valeurs suivantes :
 
@@ -5462,45 +3620,27 @@ Mcgéo
 
 |
 
-1,1
+1,1 |
 
-|
+1,2 |
 
-1,2
+1,1 |
 
-|
+1,1 |
 
-1,1
+1 |
 
-|
+1 |
 
-1,1
+1 |
 
-|
-
-1
-
-|
-
-1
-
-|
-
-1
-
-|
-
-0,9
-
-|
+0,9 |
 
 Dans le cas où le bâtiment ou la partie du bâtiment est en catégorie CE2 :
 
 |
 
-H1a
-
-|
+H1a |
 
 H1b |
 
@@ -5520,37 +3660,21 @@ Mcgéo
 
 |
 
-1
+1 |
 
-|
+1,1 |
 
-1,1
+1,1 |
 
-|
+1 |
 
-1,1
+1 |
 
-|
+1 |
 
-1
+1,1 |
 
-|
-
-1
-
-|
-
-1
-
-|
-
-1,1
-
-|
-
-1
-
-|
+1 |
 
 Le coefficient Mcalt de modulation du Cepmax selon l'altitude prend les valeurs suivantes :
 
@@ -5558,9 +3682,7 @@ Dans le cas où le bâtiment ou la partie du bâtiment est en catégorie CE1 :
 
 |
 
-0 à 400 m
-
-|
+0 à 400 m |
 
 401 à 800 m |
 
@@ -5570,17 +3692,11 @@ Mcalt
 
 |
 
-0
+0 |
 
-|
+0,1 |
 
-0,1
-
-|
-
-0,2
-
-|
+0,2 |
 
 Dans le cas où le bâtiment ou la partie du bâtiment est en catégorie CE2 :
 
@@ -5596,17 +3712,11 @@ Mcalt
 
 |
 
-0
+0 |
 
-|
+0 |
 
-0
-
-|
-
-0
-
-|
+0 |
 
 Le coefficient Mcsurf de modulation du Cepmax selon la surface du bâtiment ou de la partie de bâtiment est pris égal à 0.
 
@@ -5628,13 +3738,9 @@ Bbiomaxmoyen
 
 |
 
-75
+75 |
 
-|
-
-85
-
-|
+85 |
 
 Le coefficient Mbgéo de modulation du Bbiomax selon la localisation géographique prend les valeurs suivantes :
 
@@ -5648,9 +3754,7 @@ H1b |
 
 H1c |
 
-H2a
-
-|
+H2a |
 
 H2b |
 
@@ -5664,45 +3768,27 @@ Mbgéo
 
 |
 
-1,1
+1,1 |
 
-|
+1,3 |
 
-1,3
+1,1 |
 
-|
+1 |
 
-1,1
+1 |
 
-|
+0,9 |
 
-1
+0,9 |
 
-|
-
-1
-
-|
-
-0,9
-
-|
-
-0,9
-
-|
-
-0,7
-
-|
+0,7 |
 
 Dans le cas où le bâtiment ou la partie du bâtiment est en catégorie CE2 :
 
 |
 
-H1a
-
-|
+H1a |
 
 H1b |
 
@@ -5712,9 +3798,7 @@ H2a |
 
 H2b |
 
-H2c
-
-|
+H2c |
 
 H2d |
 
@@ -5724,37 +3808,21 @@ Mbgéo
 
 |
 
-1
+1 |
 
-|
+1,3 |
 
-1,3
+1,2 |
 
-|
+1 |
 
-1,2
+1 |
 
-|
+1 |
 
-1
+1,2 |
 
-|
-
-1
-
-|
-
-1
-
-|
-
-1,2
-
-|
-
-1,1
-
-|
+1,1 |
 
 Le coefficient Mbalt de modulation du Bbiomax selon l'altitude prend les valeurs suivantes :
 
@@ -5764,9 +3832,7 @@ Dans le cas où le bâtiment ou la partie du bâtiment est en catégorie CE1 :
 
 0 à 400 m |
 
-401 à 800 m
-
-|
+401 à 800 m |
 
 801 m et plus |
 
@@ -5774,25 +3840,17 @@ Mbalt
 
 |
 
-0
+0 |
 
-|
+0,2 |
 
-0,2
-
-|
-
-0,4
-
-|
+0,4 |
 
 Dans le cas où le bâtiment ou la partie du bâtiment est en catégorie CE2 :
 
 |
 
-0 à 400 m
-
-|
+0 à 400 m |
 
 401 à 800 m |
 
@@ -5802,17 +3860,11 @@ Mbalt
 
 |
 
-0
+0 |
 
-|
+0,1 |
 
-0,1
-
-|
-
-0,2
-
-|
+0,2 |
 
 6.2. Modulations du Cepmax
 
@@ -5828,13 +3880,9 @@ Mctype
 
 |
 
-2,6
+2,6 |
 
-|
-
-3,2
-
-|
+3,2 |
 
 Le coefficient Mcgéo de modulation du Cepmax selon la localisation géographique prend les valeurs suivantes :
 
@@ -5852,9 +3900,7 @@ H2a |
 
 H2b |
 
-H2c
-
-|
+H2c |
 
 H2d |
 
@@ -5864,37 +3910,21 @@ Mcgéo
 
 |
 
-1,1
+1,1 |
 
-|
+1,2 |
 
-1,2
+1,1 |
 
-|
+1,1 |
 
-1,1
+1 |
 
-|
+1 |
 
-1,1
+1 |
 
-|
-
-1
-
-|
-
-1
-
-|
-
-1
-
-|
-
-0,9
-
-|
+0,9 |
 
 Dans le cas où le bâtiment ou la partie du bâtiment est en catégorie CE2 :
 
@@ -5906,15 +3936,11 @@ H1b |
 
 H1c |
 
-H2a
-
-|
+H2a |
 
 H2b |
 
-H2c
-
-|
+H2c |
 
 H2d |
 
@@ -5924,37 +3950,21 @@ Mcgéo
 
 |
 
-1
+1 |
 
-|
+1,1 |
 
-1,1
+1,1 |
 
-|
+1 |
 
-1,1
+1 |
 
-|
+1 |
 
-1
+1,1 |
 
-|
-
-1
-
-|
-
-1
-
-|
-
-1,1
-
-|
-
-1
-
-|
+1 |
 
 Le coefficient Mcalt de modulation du Cepmax selon l'altitude prend les valeurs suivantes :
 
@@ -5972,25 +3982,17 @@ Mcalt
 
 |
 
-0
+0 |
 
-|
+0,1 |
 
-0,1
-
-|
-
-0,2
-
-|
+0,2 |
 
 Dans le cas où le bâtiment ou la partie du bâtiment est en catégorie CE2 :
 
 |
 
-0 à 400 m
-
-|
+0 à 400 m |
 
 401 à 800 m |
 
@@ -6000,17 +4002,11 @@ Mcalt
 
 |
 
-0
+0 |
 
-|
+0 |
 
-0
-
-|
-
-0,1
-
-|
+0,1 |
 
 Le coefficient Mcsurf de modulation du Cepmax selon la surface du bâtiment ou de la partie de bâtiment est pris égal à 0.
 
@@ -6032,13 +4028,9 @@ Bbiomaxmoyen
 
 |
 
-140
+140 |
 
-|
-
-250
-
-|
+250 |
 
 Le coefficient Mbgéo de modulation du Bbiomax selon la localisation géographique prend les valeurs suivantes :
 
@@ -6066,37 +4058,21 @@ Mbgéo
 
 |
 
-1
+1 |
 
-|
+1,1 |
 
-1,1
+1 |
 
-|
+1 |
 
-1
+1 |
 
-|
+0,9 |
 
-1
+0,9 |
 
-|
-
-1
-
-|
-
-0,9
-
-|
-
-0,9
-
-|
-
-0,9
-
-|
+0,9 |
 
 Dans le cas où le bâtiment ou la partie du bâtiment est en catégorie CE2 :
 
@@ -6110,15 +4086,11 @@ H1c |
 
 H2a |
 
-H2b
-
-|
+H2b |
 
 H2c |
 
-H2d
-
-|
+H2d |
 
 H3 |
 
@@ -6126,37 +4098,21 @@ Mbgéo
 
 |
 
-0,9
+0,9 |
 
-|
+1 |
 
-1
+1 |
 
-|
+1 |
 
-1
+1 |
 
-|
+1 |
 
-1
+1,1 |
 
-|
-
-1
-
-|
-
-1
-
-|
-
-1,1
-
-|
-
-1,1
-
-|
+1,1 |
 
 Le coefficient Mbalt de modulation du Bbiomax selon l'altitude prend les valeurs suivantes :
 
@@ -6174,17 +4130,11 @@ Mbalt
 
 |
 
-0
+0 |
 
-|
+0,1 |
 
-0,1
-
-|
-
-0,2
-
-|
+0,2 |
 
 Dans le cas où le bâtiment ou la partie du bâtiment est en catégorie CE2 :
 
@@ -6200,17 +4150,11 @@ Mbalt
 
 |
 
-0
+0 |
 
-|
+0 |
 
-0
-
-|
-
-0
-
-|
+0 |
 
 Le coefficient Mbsurf de modulation du Bbiomax selon la surface du bâtiment ou de la partie de bâtiment prend les valeurs suivantes :
 
@@ -6232,13 +4176,9 @@ Mctype
 
 |
 
-6,4
+6,4 |
 
-|
-
-10,4
-
-|
+10,4 |
 
 Le coefficient Mcgéo de modulation du Cepmax selon la localisation géographique prend les valeurs suivantes :
 
@@ -6260,45 +4200,27 @@ H2c |
 
 H2d |
 
-H3
-
-|
+H3 |
 
 Mcgéo
 
 |
 
-1
+1 |
 
-|
+1 |
 
-1
+1 |
 
-|
+1 |
 
-1
+1 |
 
-|
+1 |
 
-1
+1 |
 
-|
-
-1
-
-|
-
-1
-
-|
-
-1
-
-|
-
-1
-
-|
+1 |
 
 Dans le cas où le bâtiment ou la partie du bâtiment est en catégorie CE2 :
 
@@ -6324,37 +4246,21 @@ Mcgéo
 
 |
 
-1
+1 |
 
-|
+1 |
 
-1
+1 |
 
-|
+1 |
 
-1
+1 |
 
-|
+1 |
 
-1
+1,1 |
 
-|
-
-1
-
-|
-
-1
-
-|
-
-1,1
-
-|
-
-1,1
-
-|
+1,1 |
 
 Le coefficient Mcalt de modulation du Cepmax selon l'altitude prend les valeurs suivantes :
 
@@ -6362,9 +4268,7 @@ Le coefficient Mcalt de modulation du Cepmax selon l'altitude prend les valeurs 
 
 0 à 400 m |
 
-401 à 800 m
-
-|
+401 à 800 m |
 
 801 m et plus |
 
@@ -6372,17 +4276,11 @@ Mcalt
 
 |
 
-0
+0 |
 
-|
+0 |
 
-0
-
-|
-
-0
-
-|
+0 |
 
 Le coefficient Mcsurf de modulation du Cepmax selon la surface du bâtiment ou de la partie de bâtiment prend les valeurs suivantes :
 
@@ -6416,9 +4314,7 @@ CO2 ≤ 100 |
 
 100 ≤ contenu
 
-CO2 ≤ 150
-
-|
+CO2 ≤ 150 |
 
 Contenu CO2
 
@@ -6428,21 +4324,13 @@ McGESfroid
 
 |
 
-0,15
+0,15 |
 
-|
+0,1 |
 
-0,1
+0,05 |
 
-|
-
-0,05
-
-|
-
-0
-
-|
+0 |
 
 Dans tous les autres cas, le coefficient McGES est égal à 0.
 
@@ -6456,9 +4344,7 @@ La valeur moyenne Bbiomaxmoyen définie par type d'occupation du bâtiment ou de
 
 |
 
-CATÉGORIE CE1
-
-|
+CATÉGORIE CE1 |
 
 CATÉGORIE CE2 |
 
@@ -6466,13 +4352,9 @@ Bbiomaxmoyen
 
 |
 
-44
+44 |
 
-|
-
-55
-
-|
+55 |
 
 Le coefficient Mbgéo de modulation du Bbiomax selon la localisation géographique prend les valeurs suivantes :
 
@@ -6492,9 +4374,7 @@ H2b |
 
 H2c |
 
-H2d
-
-|
+H2d |
 
 H3 |
 
@@ -6502,37 +4382,21 @@ Mbgéo
 
 |
 
-1,2
+1,2 |
 
-|
+1,5 |
 
-1,5
+1,2 |
 
-|
+1,1 |
 
-1,2
+1 |
 
-|
+0,9 |
 
-1,1
+0,8 |
 
-|
-
-1
-
-|
-
-0,9
-
-|
-
-0,8
-
-|
-
-0,7
-
-|
+0,7 |
 
 Dans le cas où le bâtiment ou la partie du bâtiment est en catégorie CE2 :
 
@@ -6546,9 +4410,7 @@ H1c |
 
 H2a |
 
-H2b
-
-|
+H2b |
 
 H2c |
 
@@ -6560,37 +4422,21 @@ Mbgéo
 
 |
 
-1,1
+1,1 |
 
-|
+1,4 |
 
-1,4
+1,2 |
 
-|
+1 |
 
-1,2
+1 |
 
-|
+1 |
 
-1
+1,2 |
 
-|
-
-1
-
-|
-
-1
-
-|
-
-1,2
-
-|
-
-1,1
-
-|
+1,1 |
 
 Le coefficient Mbalt de modulation du Bbiomax selon l'altitude prend les valeurs suivantes :
 
@@ -6608,17 +4454,11 @@ Mbalt
 
 |
 
-0
+0 |
 
-|
+0,4 |
 
-0,4
-
-|
-
-0,8
-
-|
+0,8 |
 
 Dans le cas où le bâtiment ou la partie du bâtiment est en catégorie CE2 :
 
@@ -6634,17 +4474,11 @@ Mbalt
 
 |
 
-0
+0 |
 
-|
+0,2 |
 
-0,2
-
-|
-
-0,5
-
-|
+0,5 |
 
 Le coefficient Mbsurf de modulation du Bbiomax selon la surface du bâtiment ou de la partie de bâtiment prend les valeurs suivantes :
 
@@ -6676,13 +4510,9 @@ Mctype
 
 |
 
-1,1
+1,1 |
 
-|
-
-1,2
-
-|
+1,2 |
 
 Le coefficient Mcgéo de modulation du Cepmax selon la localisation géographique prend les valeurs suivantes :
 
@@ -6690,9 +4520,45 @@ Dans le cas où le bâtiment ou la partie du bâtiment est en catégorie CE1 :
 
 |
 
-H1a
+H1a |
+
+H1b |
+
+H1c |
+
+H2a |
+
+H2b |
+
+H2c |
+
+H2d |
+
+H3 |
+
+Mcgéo |
+
+1 |
+
+1,2 |
+
+1,1 |
+
+1 |
+
+1 |
+
+0,9 |
+
+0,9 |
+
+0,7 |
+
+Dans le cas où le bâtiment ou la partie du bâtiment est en catégorie CE2 :
 
 |
+
+H1a |
 
 H1b |
 
@@ -6712,107 +4578,27 @@ Mcgéo
 
 |
 
-1
+1,1 |
 
-|
+1,3 |
 
-1,2
+1,2 |
 
-|
+1 |
 
-1,1
+1 |
 
-|
+1 |
 
-1
+1,1 |
 
-|
-
-1
-
-|
-
-0,9
-
-|
-
-0,9
-
-|
-
-0,7
-
-|
-
-Dans le cas où le bâtiment ou la partie du bâtiment est en catégorie CE2 :
-
-|
-
-H1a
-
-|
-
-H1b |
-
-H1c |
-
-H2a |
-
-H2b
-
-|
-
-H2c
-
-|
-
-H2d |
-
-H3 |
-
-Mcgéo
-
-|
-
-1,1
-
-|
-
-1,3
-
-|
-
-1,2
-
-|
-
-1
-
-|
-
-1
-
-|
-
-1
-
-|
-
-1,1
-
-|
-
-0,9
-
-|
+0,9 |
 
 Le coefficient Mcalt de modulation du Cepmax selon l'altitude prend les valeurs suivantes :
 
 |
 
-0 à 400 m
-
-|
+0 à 400 m |
 
 401 à 800 m |
 
@@ -6822,17 +4608,11 @@ Mcalt
 
 |
 
-0
+0 |
 
-|
+0,2 |
 
-0,2
-
-|
-
-0,5
-
-|
+0,5 |
 
 Le coefficient Mcsurf de modulation du Cepmax selon la surface du bâtiment ou de la partie de bâtiment prend les valeurs suivantes :
 
@@ -6874,21 +4654,13 @@ McGESchaud
 
 |
 
-0,3
+0,3 |
 
-|
+0,2 |
 
-0,2
+0,1 |
 
-|
-
-0,1
-
-|
-
-0
-
-|
+0 |
 
 Contenu CO2 des réseaux de froid en g/kWh |
 
@@ -6898,53 +4670,33 @@ Contenu CO2 des réseaux de froid en g/kWh |
 
 Contenu CO2
 
-≤ 50
-
-|
+≤ 50 |
 
 50 < contenu
 
-CO2 ≤ 100
-
-|
+CO2 ≤ 100 |
 
 100 < contenu
 
-CO2 ≤ 150
-
-|
+CO2 ≤ 150 |
 
 Contenu CO2
 
-> 150
+> 150 |
 
-|
+McGESfroid |
 
-McGESfroid
+0,3 |
 
-|
+0,2 |
 
-0,3
+0,1 |
 
-|
-
-0,2
-
-|
-
-0,1
-
-|
-
-0
-
-|
+0 |
 
 Dans le cas où le bâtiment ou la partie de bâtiment est raccordé à un réseau de chaleur ou à un réseau de froid :
 
-Contenu CO2 des réseaux de chaleur et de froid en g/kWh
-
-|
+Contenu CO2 des réseaux de chaleur et de froid en g/kWh |
 
 |
 
@@ -6968,21 +4720,13 @@ McGES
 
 |
 
-0,3
+0,3 |
 
-|
+0,2 |
 
-0,2
+0,1 |
 
-|
-
-0,1
-
-|
-
-0
-
-|
+0 |
 
 Dans tous les autres cas, le coefficient McGES est égal à 0.
 
@@ -7002,13 +4746,9 @@ Bbiomaxmoyen
 
 |
 
-100
+100 |
 
-|
-
-120
-
-|
+120 |
 
 Le coefficient Mbgéo de modulation du Bbiomax selon la localisation géographique prend les valeurs suivantes :
 
@@ -7036,45 +4776,27 @@ Mbgéo
 
 |
 
-1,1
+1,1 |
 
-|
+1,3 |
 
-1,3
+1,2 |
 
-|
+1,1 |
 
-1,2
+1 |
 
-|
+1 |
 
-1,1
+0,9 |
 
-|
-
-1
-
-|
-
-1
-
-|
-
-0,9
-
-|
-
-0,8
-
-|
+0,8 |
 
 Dans le cas où le bâtiment ou la partie du bâtiment est en catégorie CE2 :
 
 |
 
-H1a
-
-|
+H1a |
 
 H1b |
 
@@ -7086,9 +4808,7 @@ H2b |
 
 H2c |
 
-H2d
-
-|
+H2d |
 
 H3 |
 
@@ -7096,37 +4816,21 @@ Mbgéo
 
 |
 
-1
+1 |
 
-|
+1,2 |
 
-1,2
+1,2 |
 
-|
+1 |
 
-1,2
+1 |
 
-|
+1 |
 
-1
+1,1 |
 
-|
-
-1
-
-|
-
-1
-
-|
-
-1,1
-
-|
-
-1
-
-|
+1 |
 
 Le coefficient Mbalt de modulation du Bbiomax selon l'altitude prend les valeurs suivantes :
 
@@ -7144,25 +4848,17 @@ Mbalt
 
 |
 
-0
+0 |
 
-|
+0,3 |
 
-0,3
-
-|
-
-0,5
-
-|
+0,5 |
 
 Dans le cas où le bâtiment ou la partie du bâtiment est en catégorie CE2 :
 
 |
 
-0 à 400 m
-
-|
+0 à 400 m |
 
 401 à 800 m |
 
@@ -7172,17 +4868,11 @@ Mbalt
 
 |
 
-0
+0 |
 
-|
+0,1 |
 
-0,1
-
-|
-
-0,3
-
-|
+0,3 |
 
 Le coefficient Mbsurf de modulation du Bbiomax selon la surface du bâtiment ou de la partie de bâtiment prend les valeurs suivantes :
 
@@ -7214,13 +4904,9 @@ Mctype
 
 |
 
-2,4
+2,4 |
 
-|
-
-3
-
-|
+3 |
 
 Le coefficient Mcgéo de modulation du Cepmax selon la localisation géographique prend les valeurs suivantes :
 
@@ -7236,9 +4922,7 @@ H1c |
 
 H2a |
 
-H2b
-
-|
+H2b |
 
 H2c |
 
@@ -7250,45 +4934,27 @@ Mcgéo
 
 |
 
-1,1
+1,1 |
 
-|
+1,2 |
 
-1,2
+1,1 |
 
-|
+1,1 |
 
-1,1
+1 |
 
-|
+1 |
 
-1,1
+0,9 |
 
-|
-
-1
-
-|
-
-1
-
-|
-
-0,9
-
-|
-
-0,8
-
-|
+0,8 |
 
 Dans le cas où le bâtiment ou la partie du bâtiment est en catégorie CE2 :
 
 |
 
-H1a
-
-|
+H1a |
 
 H1b |
 
@@ -7296,9 +4962,7 @@ H1c |
 
 H2a |
 
-H2b
-
-|
+H2b |
 
 H2c |
 
@@ -7310,37 +4974,21 @@ Mcgéo
 
 |
 
-1
+1 |
 
-|
+1,2 |
 
-1,2
+1,1 |
 
-|
+1 |
 
-1,1
+1 |
 
-|
+1 |
 
-1
+1 |
 
-|
-
-1
-
-|
-
-1
-
-|
-
-1
-
-|
-
-0,9
-
-|
+0,9 |
 
 Le coefficient Mcalt de modulation du Cepmax selon l'altitude prend les valeurs suivantes :
 
@@ -7358,17 +5006,11 @@ Mcalt
 
 |
 
-0
+0 |
 
-|
+0,1 |
 
-0,1
-
-|
-
-0,3
-
-|
+0,3 |
 
 Dans le cas où le bâtiment ou la partie du bâtiment est en catégorie CE2 :
 
@@ -7384,17 +5026,11 @@ Mcalt
 
 |
 
-0
+0 |
 
-|
+0,1 |
 
-0,1
-
-|
-
-0,3
-
-|
+0,3 |
 
 Le coefficient Mcsurf de modulation du Cepmax selon la surface du bâtiment ou de la partie de bâtiment prend les valeurs suivantes :
 
@@ -7403,552 +5039,6 @@ Si SRT ≤ 1 000 m² : Mcsurf = - 0,0011*SRT + 1,4
 Si 1 000 m² < SRT ≤ 2 000 m² : Mcsurf = - 0,0003*SRT + 0,6
 
 Si SRT > 2 000 m² : Mcsurf = 0
-
-Le coefficient McGES de modulation du Cepmax selon les émissions de gaz à effet de serre prend la valeur suivante :
-
-Dans le cas d'une utilisation locale de bois énergie comme énergie principale utilisée pour la production de chauffage :
-
-McGES = 0,15
-
-Dans le cas où le bâtiment ou la partie de bâtiment est raccordé simultanément à un réseau de chaleur et à un réseau de froid :
-
-McGES = McGESchaud + McGESfroid / 2
-
-où :
-
-Contenu CO2 des réseaux de chaleur en g/kWh
-
-|
-
-|
-
-Contenu CO2
-
-≤ 50 |
-
-50 < contenu CO2 ≤ 100 |
-
-100 < contenu CO2 ≤ 150 |
-
-Contenu CO2
-
-> 150 |
-
-McGESchaud
-
-|
-
-0,15
-
-|
-
-0,1
-
-|
-
-0,05
-
-|
-
-0
-
-|
-
-Contenu CO2 des réseaux de froid en g/kWh |
-
-|
-
-Contenu CO2
-
-≤ 50
-
-|
-
-50 < contenu
-
-CO2 ≤ 100
-
-|
-
-100< contenu
-
-CO2 ≤ 150
-
-|
-
-Contenu CO2
-
-> 150
-
-|
-
-McGESfroid
-
-|
-
-0,15
-
-|
-
-0,1
-
-|
-
-0,05
-
-|
-
-0
-
-|
-
-Dans le cas où le bâtiment ou la partie de bâtiment est raccordé à un réseau de chaleur ou à un réseau de froid :
-
-Contenu CO2 des réseaux de chaleur et de froid en g/kWh |
-
-|
-
-Contenu CO2
-
-≤ 50 |
-
-50 < contenu
-
-CO2 ≤ 100 |
-
-100 < contenu
-
-CO2 ≤ 150 |
-
-Contenu CO2
-
-> 150 |
-
-McGES
-
-|
-
-0,15
-
-|
-
-0,1
-
-|
-
-0,05
-
-|
-
-0
-
-|
-
-Dans tous les autres cas, le coefficient McGES est égal à 0.
-
-VI. - Bâtiments ou parties de bâtiment à usage d'établissement de santé
-
-1. Etablissement de santé (partie nuit)
-
-1.1. Modulations du Bbiomax
-
-La valeur moyenne Bbiomaxmoyen définie par type d'occupation du bâtiment ou de la partie de bâtiment et par catégorie CE1/CE2 prend les valeurs suivantes :
-
-|
-
-CATÉGORIE CE1
-
-|
-
-CATÉGORIE CE2 |
-
-Bbiomaxmoyen
-
-|
-
-230
-
-|
-
-270
-
-|
-
-Le coefficient Mbgéo de modulation du Bbiomax selon la localisation géographique prend les valeurs suivantes :
-
-Dans le cas où le bâtiment ou la partie du bâtiment est en catégorie CE1 :
-
-|
-
-H1a |
-
-H1b |
-
-H1c |
-
-H2a |
-
-H2b
-
-|
-
-H2c |
-
-H2d
-
-|
-
-H3 |
-
-Mbgéo
-
-|
-
-1,1
-
-|
-
-1,2
-
-|
-
-1,1
-
-|
-
-1,1
-
-|
-
-1
-
-|
-
-1
-
-|
-
-1
-
-|
-
-0,9
-
-|
-
-Dans le cas où le bâtiment ou la partie du bâtiment est en catégorie CE2 :
-
-|
-
-H1a |
-
-H1b |
-
-H1c |
-
-H2a |
-
-H2b
-
-|
-
-H2c |
-
-H2d |
-
-H3 |
-
-Mbgéo
-
-|
-
-1
-
-|
-
-1,1
-
-|
-
-1,1
-
-|
-
-1
-
-|
-
-1
-
-|
-
-1
-
-|
-
-1,1
-
-|
-
-1
-
-|
-
-Le coefficient Mbalt de modulation du Bbiomax selon l'altitude prend les valeurs suivantes :
-
-Dans le cas où le bâtiment ou la partie du bâtiment est en catégorie CE1 :
-
-|
-
-0 à 400 m |
-
-401 à 800 m |
-
-801 m et plus |
-
-Mbalt
-
-|
-
-0
-
-|
-
-0,1
-
-|
-
-0,3
-
-|
-
-Dans le cas où le bâtiment ou la partie du bâtiment est en catégorie CE2 :
-
-|
-
-0 à 400 m
-
-|
-
-401 à 800 m |
-
-801 m et plus |
-
-Mbalt
-
-|
-
-0
-
-|
-
-0,1
-
-|
-
-0,2
-
-|
-
-2.2. Modulations du Cepmax
-
-Le coefficient Mctype de modulation du Cepmax selon le type de bâtiment ou de partie de bâtiment et sa catégorie CE1/CE2 prend les valeurs suivantes :
-
-|
-
-CATÉGORIE CE1 |
-
-CATÉGORIE CE2 |
-
-Mctype
-
-|
-
-5,4
-
-|
-
-6,6
-
-|
-
-Le coefficient Mcgéo de modulation du Cepmax selon la localisation géographique prend les valeurs suivantes :
-
-Dans le cas où le bâtiment ou la partie du bâtiment est en catégorie CE1 :
-
-|
-
-H1a |
-
-H1b |
-
-H1c |
-
-H2a
-
-|
-
-H2b |
-
-H2c
-
-|
-
-H2d |
-
-H3 |
-
-Mcgéo
-
-|
-
-1
-
-|
-
-1,1
-
-|
-
-1
-
-|
-
-1
-
-|
-
-1
-
-|
-
-1
-
-|
-
-1
-
-|
-
-0,9
-
-|
-
-Dans le cas où le bâtiment ou la partie du bâtiment est en catégorie CE2 :
-
-|
-
-H1a |
-
-H1b |
-
-H1c |
-
-H2a |
-
-H2b |
-
-H2c
-
-|
-
-H2d |
-
-H3 |
-
-Mcgéo
-
-|
-
-1
-
-|
-
-1,1
-
-|
-
-1,1
-
-|
-
-1
-
-|
-
-1
-
-|
-
-1
-
-|
-
-1,1
-
-|
-
-1
-
-|
-
-Le coefficient Mcalt de modulation du Cepmax selon l'altitude prend les valeurs suivantes :
-
-Dans le cas où le bâtiment ou la partie du bâtiment est en catégorie CE1 :
-
-|
-
-0 à 400 m |
-
-401 à 800 m
-
-|
-
-801 m et plus |
-
-Mcalt
-
-|
-
-0
-
-|
-
-0
-
-|
-
-0,1
-
-|
-
-Dans le cas où le bâtiment ou la partie du bâtiment est en catégorie CE2 :
-
-|
-
-0 à 400 m
-
-|
-
-401 à 800 m |
-
-801 m et plus |
-
-Mcalt
-
-|
-
-0
-
-|
-
-0
-
-|
-
-0,1
-
-|
 
 Le coefficient McGES de modulation du Cepmax selon les émissions de gaz à effet de serre prend la valeur suivante :
 
@@ -7996,47 +5086,31 @@ Contenu CO2 des réseaux de froid en g/kWh |
 
 Contenu CO2
 
-≤ 50
-
-|
+≤ 50 |
 
 50 < contenu
 
-CO2 ≤ 100
+CO2 ≤ 100 |
 
-|
+100< contenu
 
-100 < contenu
-
-CO2 ≤ 150
-
-|
+CO2 ≤ 150 |
 
 Contenu CO2
 
-> 150
-
-|
+> 150 |
 
 McGESfroid
 
 |
 
-0,15
+0,15 |
 
-|
+0,1 |
 
-0,1
+0,05 |
 
-|
-
-0,05
-
-|
-
-0
-
-|
+0 |
 
 Dans le cas où le bâtiment ou la partie de bâtiment est raccordé à un réseau de chaleur ou à un réseau de froid :
 
@@ -8052,7 +5126,7 @@ Contenu CO2
 
 CO2 ≤ 100 |
 
-100 <contenu
+100 < contenu
 
 CO2 ≤ 150 |
 
@@ -8064,29 +5138,21 @@ McGES
 
 |
 
-0,15
+0,15 |
 
-|
+0,1 |
 
-0,1
+0,05 |
 
-|
-
-0,05
-
-|
-
-0
-
-|
+0 |
 
 Dans tous les autres cas, le coefficient McGES est égal à 0.
 
-Le coefficient Mcsurf de modulation du Cepmax selon la surface du bâtiment ou de la partie de bâtiment est pris égal à 0.
+VI. - Bâtiments ou parties de bâtiment à usage d'établissement de santé
 
-2. Etablissement de santé (partie jour)
+1. Etablissement de santé (partie nuit)
 
-2.1. Modulations du Bbiomax
+1.1. Modulations du Bbiomax
 
 La valeur moyenne Bbiomaxmoyen définie par type d'occupation du bâtiment ou de la partie de bâtiment et par catégorie CE1/CE2 prend les valeurs suivantes :
 
@@ -8100,13 +5166,9 @@ Bbiomaxmoyen
 
 |
 
-120
+230 |
 
-|
-
-180
-
-|
+270 |
 
 Le coefficient Mbgéo de modulation du Bbiomax selon la localisation géographique prend les valeurs suivantes :
 
@@ -8122,9 +5184,7 @@ H1c |
 
 H2a |
 
-H2b
-
-|
+H2b |
 
 H2c |
 
@@ -8136,37 +5196,21 @@ Mbgéo
 
 |
 
-1,3
+1,1 |
 
-|
+1,2 |
 
-1,5
+1,1 |
 
-|
+1,1 |
 
-1,3
+1 |
 
-|
+1 |
 
-1,2
+1 |
 
-|
-
-1
-
-|
-
-1
-
-|
-
-0,9
-
-|
-
-0,7
-
-|
+0,9 |
 
 Dans le cas où le bâtiment ou la partie du bâtiment est en catégorie CE2 :
 
@@ -8178,9 +5222,7 @@ H1b |
 
 H1c |
 
-H2a
-
-|
+H2a |
 
 H2b |
 
@@ -8188,45 +5230,27 @@ H2c |
 
 H2d |
 
-H3
-
-|
+H3 |
 
 Mbgéo
 
 |
 
-1,1
+1 |
 
-|
+1,1 |
 
-1,3
+1,1 |
 
-|
+1 |
 
-1,2
+1 |
 
-|
+1 |
 
-1
+1,1 |
 
-|
-
-1
-
-|
-
-1
-
-|
-
-1,1
-
-|
-
-1
-
-|
+1 |
 
 Le coefficient Mbalt de modulation du Bbiomax selon l'altitude prend les valeurs suivantes :
 
@@ -8244,25 +5268,17 @@ Mbalt
 
 |
 
-0
+0 |
 
-|
+0,1 |
 
-0,3
-
-|
-
-0,5
-
-|
+0,3 |
 
 Dans le cas où le bâtiment ou la partie du bâtiment est en catégorie CE2 :
 
 |
 
-0 à 400 m
-
-|
+0 à 400 m |
 
 401 à 800 m |
 
@@ -8272,17 +5288,11 @@ Mbalt
 
 |
 
-0
+0 |
 
-|
+0,1 |
 
-0,1
-
-|
-
-0,2
-
-|
+0,2 |
 
 2.2. Modulations du Cepmax
 
@@ -8298,13 +5308,9 @@ Mctype
 
 |
 
-2,6
+5,4 |
 
-|
-
-3,8
-
-|
+6,6 |
 
 Le coefficient Mcgéo de modulation du Cepmax selon la localisation géographique prend les valeurs suivantes :
 
@@ -8332,45 +5338,27 @@ Mcgéo
 
 |
 
-1,2
+1 |
 
-|
+1,1 |
 
-1,3
+1 |
 
-|
+1 |
 
-1,2
+1 |
 
-|
+1 |
 
-1,1
+1 |
 
-|
-
-1
-
-|
-
-1
-
-|
-
-0,9
-
-|
-
-0,8
-
-|
+0,9 |
 
 Dans le cas où le bâtiment ou la partie du bâtiment est en catégorie CE2 :
 
 |
 
-H1a
-
-|
+H1a |
 
 H1b |
 
@@ -8390,37 +5378,21 @@ Mcgéo
 
 |
 
-1
+1 |
 
-|
+1,1 |
 
-1,1
+1,1 |
 
-|
+1 |
 
-1,1
+1 |
 
-|
+1 |
 
-1
+1,1 |
 
-|
-
-1
-
-|
-
-1
-
-|
-
-1,1
-
-|
-
-1
-
-|
+1 |
 
 Le coefficient Mcalt de modulation du Cepmax selon l'altitude prend les valeurs suivantes :
 
@@ -8438,17 +5410,11 @@ Mcalt
 
 |
 
-0
+0 |
 
-|
+0 |
 
-0,2
-
-|
-
-0,4
-
-|
+0,1 |
 
 Dans le cas où le bâtiment ou la partie du bâtiment est en catégorie CE2 :
 
@@ -8464,17 +5430,11 @@ Mcalt
 
 |
 
-0
+0 |
 
-|
+0 |
 
-0,1
-
-|
-
-0,2
-
-|
+0,1 |
 
 Le coefficient McGES de modulation du Cepmax selon les émissions de gaz à effet de serre prend la valeur suivante :
 
@@ -8488,9 +5448,7 @@ McGES = McGESchaud + McGESfroid / 2
 
 où :
 
-Contenu CO2 des réseaux de chaleur en g/kWh
-
-|
+Contenu CO2 des réseaux de chaleur en g/kWh |
 
 |
 
@@ -8524,47 +5482,425 @@ Contenu CO2 des réseaux de froid en g/kWh |
 
 Contenu CO2
 
-≤ 50
-
-|
+≤ 50 |
 
 50 < contenu
 
-CO2 ≤ 100
-
-|
+CO2 ≤ 100 |
 
 100 < contenu
 
-CO2 ≤ 150
-
-|
+CO2 ≤ 150 |
 
 Contenu CO2
 
-> 150
-
-|
+> 150 |
 
 McGESfroid
 
 |
 
-0,15
+0,15 |
+
+0,1 |
+
+0,05 |
+
+0 |
+
+Dans le cas où le bâtiment ou la partie de bâtiment est raccordé à un réseau de chaleur ou à un réseau de froid :
+
+Contenu CO2 des réseaux de chaleur et de froid en g/kWh |
 
 |
 
-0,1
+Contenu CO2
+
+≤ 50 |
+
+50 < contenu
+
+CO2 ≤ 100 |
+
+100 CO2 ≤ 150 |
+
+Contenu CO2
+
+> 150 |
+
+McGES
 
 |
 
-0,05
+0,15 |
+
+0,1 |
+
+0,05 |
+
+0 |
+
+Dans tous les autres cas, le coefficient McGES est égal à 0.
+
+Le coefficient Mcsurf de modulation du Cepmax selon la surface du bâtiment ou de la partie de bâtiment est pris égal à 0.
+
+2. Etablissement de santé (partie jour)
+
+2.1. Modulations du Bbiomax
+
+La valeur moyenne Bbiomaxmoyen définie par type d'occupation du bâtiment ou de la partie de bâtiment et par catégorie CE1/CE2 prend les valeurs suivantes :
 
 |
 
-0
+CATÉGORIE CE1 |
+
+CATÉGORIE CE2 |
+
+Bbiomaxmoyen
 
 |
+
+120 |
+
+180 |
+
+Le coefficient Mbgéo de modulation du Bbiomax selon la localisation géographique prend les valeurs suivantes :
+
+Dans le cas où le bâtiment ou la partie du bâtiment est en catégorie CE1 :
+
+|
+
+H1a |
+
+H1b |
+
+H1c |
+
+H2a |
+
+H2b |
+
+H2c |
+
+H2d |
+
+H3 |
+
+Mbgéo
+
+|
+
+1,3 |
+
+1,5 |
+
+1,3 |
+
+1,2 |
+
+1 |
+
+1 |
+
+0,9 |
+
+0,7 |
+
+Dans le cas où le bâtiment ou la partie du bâtiment est en catégorie CE2 :
+
+|
+
+H1a |
+
+H1b |
+
+H1c |
+
+H2a |
+
+H2b |
+
+H2c |
+
+H2d |
+
+H3 |
+
+Mbgéo
+
+|
+
+1,1 |
+
+1,3 |
+
+1,2 |
+
+1 |
+
+1 |
+
+1 |
+
+1,1 |
+
+1 |
+
+Le coefficient Mbalt de modulation du Bbiomax selon l'altitude prend les valeurs suivantes :
+
+Dans le cas où le bâtiment ou la partie du bâtiment est en catégorie CE1 :
+
+|
+
+0 à 400 m |
+
+401 à 800 m |
+
+801 m et plus |
+
+Mbalt
+
+|
+
+0 |
+
+0,3 |
+
+0,5 |
+
+Dans le cas où le bâtiment ou la partie du bâtiment est en catégorie CE2 :
+
+|
+
+0 à 400 m |
+
+401 à 800 m |
+
+801 m et plus |
+
+Mbalt
+
+|
+
+0 |
+
+0,1 |
+
+0,2 |
+
+2.2. Modulations du Cepmax
+
+Le coefficient Mctype de modulation du Cepmax selon le type de bâtiment ou de partie de bâtiment et sa catégorie CE1/CE2 prend les valeurs suivantes :
+
+|
+
+CATÉGORIE CE1 |
+
+CATÉGORIE CE2 |
+
+Mctype
+
+|
+
+2,6 |
+
+3,8 |
+
+Le coefficient Mcgéo de modulation du Cepmax selon la localisation géographique prend les valeurs suivantes :
+
+Dans le cas où le bâtiment ou la partie du bâtiment est en catégorie CE1 :
+
+|
+
+H1a |
+
+H1b |
+
+H1c |
+
+H2a |
+
+H2b |
+
+H2c |
+
+H2d |
+
+H3 |
+
+Mcgéo
+
+|
+
+1,2 |
+
+1,3 |
+
+1,2 |
+
+1,1 |
+
+1 |
+
+1 |
+
+0,9 |
+
+0,8 |
+
+Dans le cas où le bâtiment ou la partie du bâtiment est en catégorie CE2 :
+
+|
+
+H1a |
+
+H1b |
+
+H1c |
+
+H2a |
+
+H2b |
+
+H2c |
+
+H2d |
+
+H3 |
+
+Mcgéo
+
+|
+
+1 |
+
+1,1 |
+
+1,1 |
+
+1 |
+
+1 |
+
+1 |
+
+1,1 |
+
+1 |
+
+Le coefficient Mcalt de modulation du Cepmax selon l'altitude prend les valeurs suivantes :
+
+Dans le cas où le bâtiment ou la partie du bâtiment est en catégorie CE1 :
+
+|
+
+0 à 400 m |
+
+401 à 800 m |
+
+801 m et plus |
+
+Mcalt
+
+|
+
+0 |
+
+0,2 |
+
+0,4 |
+
+Dans le cas où le bâtiment ou la partie du bâtiment est en catégorie CE2 :
+
+|
+
+0 à 400 m |
+
+401 à 800 m |
+
+801 m et plus |
+
+Mcalt
+
+|
+
+0 |
+
+0,1 |
+
+0,2 |
+
+Le coefficient McGES de modulation du Cepmax selon les émissions de gaz à effet de serre prend la valeur suivante :
+
+Dans le cas d'une utilisation locale de bois énergie comme énergie principale utilisée pour la production de chauffage :
+
+McGES = 0,15
+
+Dans le cas où le bâtiment ou la partie de bâtiment est raccordé simultanément à un réseau de chaleur et à un réseau de froid :
+
+McGES = McGESchaud + McGESfroid / 2
+
+où :
+
+Contenu CO2 des réseaux de chaleur en g/kWh |
+
+|
+
+Contenu CO2
+
+≤ 50 |
+
+50 < contenu CO2 ≤ 100 |
+
+100 < contenu CO2 ≤ 150 |
+
+Contenu CO2
+
+> 150 |
+
+McGESchaud
+
+|
+
+0,15 |
+
+0,1 |
+
+0,05 |
+
+0 |
+
+Contenu CO2 des réseaux de froid en g/kWh |
+
+|
+
+Contenu CO2
+
+≤ 50 |
+
+50 < contenu
+
+CO2 ≤ 100 |
+
+100 < contenu
+
+CO2 ≤ 150 |
+
+Contenu CO2
+
+> 150 |
+
+McGESfroid
+
+|
+
+0,15 |
+
+0,1 |
+
+0,05 |
+
+0 |
 
 Dans le cas où le bâtiment ou la partie de bâtiment est raccordé à un réseau de chaleur ou à un réseau de froid :
 
@@ -8592,21 +5928,13 @@ McGES
 
 |
 
-0,15
+0,15 |
 
-|
+0,1 |
 
-0,1
+0,05 |
 
-|
-
-0,05
-
-|
-
-0
-
-|
+0 |
 
 Dans tous les autres cas, le coefficient McGES est égal à 0.
 
@@ -8630,13 +5958,9 @@ Bbiomaxmoyen
 
 |
 
-250
+250 |
 
-|
-
-320
-
-|
+320 |
 
 Le coefficient Mbgéo de modulation du Bbiomax selon la localisation géographique prend les valeurs suivantes :
 
@@ -8644,9 +5968,7 @@ Dans le cas où le bâtiment ou la partie du bâtiment est en catégorie CE1 :
 
 |
 
-H1a
-
-|
+H1a |
 
 H1b |
 
@@ -8666,37 +5988,21 @@ Mbgéo
 
 |
 
-1
+1 |
 
-|
+1,1 |
 
-1,1
+1,1 |
 
-|
+1 |
 
-1,1
+1 |
 
-|
+0,9 |
 
-1
+0,9 |
 
-|
-
-1
-
-|
-
-0,9
-
-|
-
-0,9
-
-|
-
-0,8
-
-|
+0,8 |
 
 Dans le cas où le bâtiment ou la partie du bâtiment est en catégorie CE2 :
 
@@ -8710,13 +6016,9 @@ H1c |
 
 H2a |
 
-H2b
+H2b |
 
-|
-
-H2c
-
-|
+H2c |
 
 H2d |
 
@@ -8726,37 +6028,21 @@ Mbgéo
 
 |
 
-1
+1 |
 
-|
+1,1 |
 
-1,1
+1,1 |
 
-|
+1 |
 
-1,1
+1 |
 
-|
+1 |
 
-1
+1,1 |
 
-|
-
-1
-
-|
-
-1
-
-|
-
-1,1
-
-|
-
-1
-
-|
+1 |
 
 Le coefficient Mbalt de modulation du Bbiomax selon l'altitude prend les valeurs suivantes :
 
@@ -8764,9 +6050,7 @@ Dans le cas où le bâtiment ou la partie du bâtiment est en catégorie CE1 :
 
 |
 
-0 à 400 m
-
-|
+0 à 400 m |
 
 401 à 800 m |
 
@@ -8776,25 +6060,17 @@ Mbalt
 
 |
 
-0
+0 |
 
-|
+0,1 |
 
-0,1
-
-|
-
-0,3
-
-|
+0,3 |
 
 Dans le cas où le bâtiment ou la partie du bâtiment est en catégorie CE2 :
 
 |
 
-0 à 400 m
-
-|
+0 à 400 m |
 
 401 à 800 m |
 
@@ -8804,17 +6080,11 @@ Mbalt
 
 |
 
-0
+0 |
 
-|
+0 |
 
-0
-
-|
-
-0,1
-
-|
+0,1 |
 
 1.2. Modulations du Cepmax
 
@@ -8830,13 +6100,9 @@ Mctype
 
 |
 
-7
+7 |
 
-|
-
-8
-
-|
+8 |
 
 Le coefficient Mcgéo de modulation du Cepmax selon la localisation géographique prend les valeurs suivantes :
 
@@ -8856,9 +6122,7 @@ H2b |
 
 H2c |
 
-H2d
-
-|
+H2d |
 
 H3 |
 
@@ -8866,45 +6130,27 @@ Mcgéo
 
 |
 
-1,1
+1,1 |
 
-|
+1,2 |
 
-1,2
+1,1 |
 
-|
+1,1 |
 
-1,1
+1 |
 
-|
+1 |
 
-1,1
+1 |
 
-|
-
-1
-
-|
-
-1
-
-|
-
-1
-
-|
-
-0,9
-
-|
+0,9 |
 
 Dans le cas où le bâtiment ou la partie du bâtiment est en catégorie CE2 :
 
 |
 
-H1a
-
-|
+H1a |
 
 H1b |
 
@@ -8924,37 +6170,21 @@ Mcgéo
 
 |
 
-1
+1 |
 
-|
+1,1 |
 
-1,1
+1,1 |
 
-|
+1 |
 
-1,1
+1 |
 
-|
+1 |
 
-1
+1,1 |
 
-|
-
-1
-
-|
-
-1
-
-|
-
-1,1
-
-|
-
-1
-
-|
+1 |
 
 Le coefficient Mcalt de modulation du Cepmax selon l'altitude prend les valeurs suivantes :
 
@@ -8972,17 +6202,11 @@ Mcalt
 
 |
 
-0
+0 |
 
-|
+0,1 |
 
-0,1
-
-|
-
-0,3
-
-|
+0,3 |
 
 Dans le cas où le bâtiment ou la partie du bâtiment est en catégorie CE2 :
 
@@ -8998,17 +6222,11 @@ Mcalt
 
 |
 
-0
+0 |
 
-|
+0,1 |
 
-0,1
-
-|
-
-0,2
-
-|
+0,2 |
 
 Le coefficient McGES de modulation du Cepmax selon les émissions de gaz à effet de serre prend la valeur suivante :
 
@@ -9056,47 +6274,31 @@ Contenu CO2 des réseaux de froid en g/kWh |
 
 Contenu CO2
 
-≤ 50
-
-|
+≤ 50 |
 
 50 < contenu
 
-CO2 ≤ 100
-
-|
+CO2 ≤ 100 |
 
 100 < contenu
 
-CO2 ≤ 150
-
-|
+CO2 ≤ 150 |
 
 Contenu CO2
 
-≥ 150
-
-|
+≥ 150 |
 
 McGESfroid
 
 |
 
-0,3
+0,3 |
 
-|
+0,2 |
 
-0,2
+0,1 |
 
-|
-
-0,1
-
-|
-
-0
-
-|
+0 |
 
 Dans le cas où le bâtiment ou la partie de bâtiment est raccordé à un réseau de chaleur ou à un réseau de froid :
 
@@ -9120,21 +6322,13 @@ McGESchaud
 
 |
 
-0,3
+0,3 |
 
-|
+0,2 |
 
-0,2
+0,1 |
 
-|
-
-0,1
-
-|
-
-0
-
-|
+0 |
 
 Le coefficient Mcsurf de modulation du Cepmax selon la surface du bâtiment ou de la partie de bâtiment est pris égal à 0.
 
@@ -9154,13 +6348,9 @@ Bbiomaxmoyen
 
 |
 
-90
+90 |
 
-|
-
-130
-
-|
+130 |
 
 Le coefficient Mbgéo de modulation du Bbiomax selon la localisation géographique prend les valeurs suivantes :
 
@@ -9168,9 +6358,7 @@ Dans le cas où le bâtiment ou la partie du bâtiment est en catégorie CE1 :
 
 |
 
-H1a
-
-|
+H1a |
 
 H1b |
 
@@ -9190,45 +6378,27 @@ Mbgéo
 
 |
 
-1
+1 |
 
-|
+1,2 |
 
-1,2
+1,1 |
 
-|
+1,1 |
 
-1,1
+1 |
 
-|
+0,9 |
 
-1,1
+0,9 |
 
-|
-
-1
-
-|
-
-0,9
-
-|
-
-0,9
-
-|
-
-0,8
-
-|
+0,8 |
 
 Dans le cas où le bâtiment ou la partie du bâtiment est en catégorie CE2 :
 
 |
 
-H1a
-
-|
+H1a |
 
 H1b |
 
@@ -9236,9 +6406,7 @@ H1c |
 
 H2a |
 
-H2b
-
-|
+H2b |
 
 H2c |
 
@@ -9250,37 +6418,21 @@ Mbgéo
 
 |
 
-1
+1 |
 
-|
+1,2 |
 
-1,2
+1,2 |
 
-|
+1 |
 
-1,2
+1 |
 
-|
+1 |
 
-1
+1,3 |
 
-|
-
-1
-
-|
-
-1
-
-|
-
-1,3
-
-|
-
-1,2
-
-|
+1,2 |
 
 Le coefficient Mbalt de modulation du Bbiomax selon l'altitude prend les valeurs suivantes :
 
@@ -9298,25 +6450,17 @@ Mbalt
 
 |
 
-0
+0 |
 
-|
+0,2 |
 
-0,2
-
-|
-
-0,5
-
-|
+0,5 |
 
 Dans le cas où le bâtiment ou la partie du bâtiment est en catégorie CE2 :
 
 |
 
-0 à 400 m
-
-|
+0 à 400 m |
 
 401 à 800 m |
 
@@ -9326,17 +6470,11 @@ Mcalt
 
 |
 
-0
+0 |
 
-|
+0,1 |
 
-0,1
-
-|
-
-0,2
-
-|
+0,2 |
 
 2.2. Modulations du Cepmax
 
@@ -9352,13 +6490,9 @@ Mctype
 
 |
 
-2,8
+2,8 |
 
-|
-
-3,4
-
-|
+3,4 |
 
 Le coefficient Mcgéo de modulation du Cepmax selon la localisation géographique prend les valeurs suivantes :
 
@@ -9374,9 +6508,7 @@ H1c |
 
 H2a |
 
-H2b
-
-|
+H2b |
 
 H2c |
 
@@ -9388,37 +6520,21 @@ Mcgéo
 
 |
 
-1
+1 |
 
-|
+1,1 |
 
-1,1
+1 |
 
-|
+1 |
 
-1
+1 |
 
-|
+1 |
 
-1
+0,9 |
 
-|
-
-1
-
-|
-
-1
-
-|
-
-0,9
-
-|
-
-0,8
-
-|
+0,8 |
 
 Dans le cas où le bâtiment ou la partie du bâtiment est en catégorie CE2 :
 
@@ -9434,9 +6550,7 @@ H2a |
 
 H2b |
 
-H2c
-
-|
+H2c |
 
 H2d |
 
@@ -9446,37 +6560,21 @@ Mcgéo
 
 |
 
-1
+1 |
 
-|
+1,1 |
 
-1,1
+1,1 |
 
-|
+1 |
 
-1,1
+1 |
 
-|
+1 |
 
-1
+1,2 |
 
-|
-
-1
-
-|
-
-1
-
-|
-
-1,2
-
-|
-
-1,1
-
-|
+1,1 |
 
 Le coefficient Mcalt de modulation du Cepmax selon l'altitude prend les valeurs suivantes :
 
@@ -9494,17 +6592,11 @@ Mcalt
 
 |
 
-0
+0 |
 
-|
+0,1 |
 
-0,1
-
-|
-
-0,3
-
-|
+0,3 |
 
 Dans le cas où le bâtiment ou la partie du bâtiment est en catégorie CE2 :
 
@@ -9520,17 +6612,11 @@ Mcalt
 
 |
 
-0
+0 |
 
-|
+0,1 |
 
-0,1
-
-|
-
-0,2
-
-|
+0,2 |
 
 Le coefficient McGES de modulation du Cepmax selon les émissions de gaz à effet de serre prend la valeur suivante :
 
@@ -9578,47 +6664,31 @@ Contenu CO2 des réseaux de froid en g/kWh |
 
 Contenu CO2
 
-≤ 50
-
-|
+≤ 50 |
 
 50 < contenu
 
-CO2 ≤ 100
-
-|
+CO2 ≤ 100 |
 
 100 < contenu
 
-CO2 ≤ 150
-
-|
+CO2 ≤ 150 |
 
 Contenu CO2
 
-≥ 150
-
-|
+≥ 150 |
 
 McGESfroid
 
 |
 
-0,3
+0,3 |
 
-|
+0,2 |
 
-0,2
+0,1 |
 
-|
-
-0,1
-
-|
-
-0
-
-|
+0 |
 
 Dans le cas où le bâtiment ou la partie de bâtiment est raccordé à un réseau de chaleur ou à un réseau de froid :
 
@@ -9642,21 +6712,13 @@ McGES
 
 |
 
-0,3
+0,3 |
 
-|
+0,2 |
 
-0,2
+0,1 |
 
-|
-
-0,1
-
-|
-
-0
-
-|
+0 |
 
 Dans tous les autres cas, le coefficient McGES est égal à 0.
 
@@ -9678,13 +6740,9 @@ Bbiomaxmoyen
 
 |
 
-190
+190 |
 
-|
-
-240
-
-|
+240 |
 
 Le coefficient Mbgéo de modulation du Bbiomax selon la localisation géographique prend les valeurs suivantes :
 
@@ -9712,37 +6770,21 @@ Mbgéo
 
 |
 
-1,1
+1,1 |
 
-|
+1,2 |
 
-1,2
+1,1 |
 
-|
+1,1 |
 
-1,1
+1 |
 
-|
+0,9 |
 
-1,1
+0,9 |
 
-|
-
-1
-
-|
-
-0,9
-
-|
-
-0,9
-
-|
-
-0,8
-
-|
+0,8 |
 
 Dans le cas où le bâtiment ou la partie du bâtiment est en catégorie CE2 :
 
@@ -9768,37 +6810,21 @@ Mbgéo
 
 |
 
-1
+1 |
 
-|
+1,1 |
 
-1,1
+1,1 |
 
-|
+1 |
 
-1,1
+1 |
 
-|
+1 |
 
-1
+1,1 |
 
-|
-
-1
-
-|
-
-1
-
-|
-
-1,1
-
-|
-
-1
-
-|
+1 |
 
 Le coefficient Mbalt de modulation du Bbiomax selon l'altitude prend les valeurs suivantes :
 
@@ -9816,17 +6842,11 @@ Mbalt
 
 |
 
-0
+0 |
 
-|
+0,2 |
 
-0,2
-
-|
-
-0,4
-
-|
+0,4 |
 
 Dans le cas où le bâtiment ou la partie du bâtiment est en catégorie CE2 :
 
@@ -9842,17 +6862,11 @@ Mbalt
 
 |
 
-0
+0 |
 
-|
+0 |
 
-0
-
-|
-
-0,1
-
-|
+0,1 |
 
 2. Modulations du Cepmax
 
@@ -9860,9 +6874,7 @@ Le coefficient Mctype de modulation du Cepmax selon le type de bâtiment ou de p
 
 |
 
-CATÉGORIE CE1
-
-|
+CATÉGORIE CE1 |
 
 CATÉGORIE CE2 |
 
@@ -9870,13 +6882,9 @@ Mctype
 
 |
 
-4
+4 |
 
-|
-
-5,8
-
-|
+5,8 |
 
 Le coefficient Mcgéo de modulation du Cepmax selon la localisation géographique prend les valeurs suivantes :
 
@@ -9884,9 +6892,7 @@ Dans le cas où le bâtiment ou la partie du bâtiment est en catégorie CE1 :
 
 |
 
-H1a
-
-|
+H1a |
 
 H1b |
 
@@ -9906,53 +6912,33 @@ Mcgéo
 
 |
 
-1
+1 |
 
-|
+1,1 |
 
-1,1
+1 |
 
-|
+1 |
 
-1
+1 |
 
-|
+0,9 |
 
-1
+0,9 |
 
-|
-
-1
-
-|
-
-0,9
-
-|
-
-0,9
-
-|
-
-0,8
-
-|
+0,8 |
 
 Dans le cas où le bâtiment ou la partie du bâtiment est en catégorie CE2 :
 
 |
 
-H1a
-
-|
+H1a |
 
 H1b |
 
 H1c |
 
-H2a
-
-|
+H2a |
 
 H2b |
 
@@ -9966,37 +6952,21 @@ Mcgéo
 
 |
 
-1
+1 |
 
-|
+1,1 |
 
-1,1
+1,1 |
 
-|
+1 |
 
-1,1
+1 |
 
-|
+1 |
 
-1
+1 |
 
-|
-
-1
-
-|
-
-1
-
-|
-
-1
-
-|
-
-0,9
-
-|
+0,9 |
 
 Le coefficient Mcalt de modulation du Cepmax selon l'altitude prend les valeurs suivantes :
 
@@ -10014,25 +6984,17 @@ Mcalt
 
 |
 
-0
+0 |
 
-|
+0,1 |
 
-0,1
-
-|
-
-0,3
-
-|
+0,3 |
 
 Dans le cas où le bâtiment ou la partie du bâtiment est en catégorie CE2 :
 
 |
 
-0 à 400 m
-
-|
+0 à 400 m |
 
 401 à 800 m |
 
@@ -10042,17 +7004,11 @@ Mcalt
 
 |
 
-0
+0 |
 
-|
+0,1 |
 
-0,1
-
-|
-
-0,2
-
-|
+0,2 |
 
 Le coefficient McGES de modulation du Cepmax selon les émissions de gaz à effet de serre prend la valeur suivante :
 
@@ -10066,9 +7022,7 @@ McGES = McGESchaud + McGESfroid / 2
 
 où :
 
-Contenu CO2 des réseaux de chaleur en g/kWh
-
-|
+Contenu CO2 des réseaux de chaleur en g/kWh |
 
 |
 
@@ -10096,55 +7050,37 @@ McGESchaud
 
 0 |
 
-Contenu CO2 des réseaux de froid en g/kWh
-
-|
+Contenu CO2 des réseaux de froid en g/kWh |
 
 |
 
 Contenu CO2
 
-≤ 50
-
-|
+≤ 50 |
 
 50< contenu
 
-CO2 ≤ 100
-
-|
+CO2 ≤ 100 |
 
 100 < contenu
 
-CO2 ≤ 150
-
-|
+CO2 ≤ 150 |
 
 Contenu CO2
 
-≥ 150
-
-|
+≥ 150 |
 
 McGESfroid
 
 |
 
-0,15
+0,15 |
 
-|
+0,1 |
 
-0,1
+0,05 |
 
-|
-
-0,05
-
-|
-
-0
-
-|
+0 |
 
 Dans le cas où le bâtiment ou la partie de bâtiment est raccordé à un réseau de chaleur ou à un réseau de froid :
 
@@ -10162,29 +7098,19 @@ Contenu CO2
 
 Contenu CO2
 
-≥ 150
-
-|
+≥ 150 |
 
 McGES
 
 |
 
-0,15
+0,15 |
 
-|
+0,1 |
 
-0,1
+0,05 |
 
-|
-
-0,05
-
-|
-
-0
-
-|
+0 |
 
 Dans tous les autres cas, le coefficient McGES est égal à 0.
 
@@ -10206,13 +7132,9 @@ Bbiomaxmoyen
 
 |
 
-120
+120 |
 
-|
-
-140
-
-|
+140 |
 
 Le coefficient Mbgéo de modulation du Bbiomax selon la localisation géographique prend les valeurs suivantes :
 
@@ -10230,13 +7152,9 @@ H2a |
 
 H2b |
 
-H2c
+H2c |
 
-|
-
-H2d
-
-|
+H2d |
 
 H3 |
 
@@ -10244,37 +7162,21 @@ Mbgéo
 
 |
 
-1,1
+1,1 |
 
-|
+1,2 |
 
-1,2
+1,2 |
 
-|
+1,1 |
 
-1,2
+1 |
 
-|
+1 |
 
-1,1
+1 |
 
-|
-
-1
-
-|
-
-1
-
-|
-
-1
-
-|
-
-0,9
-
-|
+0,9 |
 
 Dans le cas où le bâtiment ou la partie du bâtiment est en catégorie CE2 :
 
@@ -10286,13 +7188,9 @@ H1b |
 
 H1c |
 
-H2a
+H2a |
 
-|
-
-H2b
-
-|
+H2b |
 
 H2c |
 
@@ -10304,37 +7202,21 @@ Mbgéo
 
 |
 
-1,1
+1,1 |
 
-|
+1,2 |
 
-1,2
+1,2 |
 
-|
+1 |
 
-1,2
+1 |
 
-|
+1,1 |
 
-1
+1,2 |
 
-|
-
-1
-
-|
-
-1,1
-
-|
-
-1,2
-
-|
-
-1
-
-|
+1 |
 
 Le coefficient Mbalt de modulation du Bbiomax selon l'altitude prend les valeurs suivantes :
 
@@ -10344,25 +7226,17 @@ Le coefficient Mbalt de modulation du Bbiomax selon l'altitude prend les valeurs
 
 401 à 800 m |
 
-801 m et plus
-
-|
+801 m et plus |
 
 Mbalt
 
 |
 
-0
+0 |
 
-|
+0,2 |
 
-0,2
-
-|
-
-0,4
-
-|
+0,4 |
 
 2. Modulations du Cepmax
 
@@ -10378,13 +7252,9 @@ Mctype
 
 |
 
-2,4
+2,4 |
 
-|
-
-3,2
-
-|
+3,2 |
 
 Le coefficient Mcgéo de modulation du Cepmax selon la localisation géographique prend les valeurs suivantes :
 
@@ -10412,37 +7282,21 @@ Mcgéo
 
 |
 
-1,1
+1,1 |
 
-|
+1,2 |
 
-1,2
+1,1 |
 
-|
+1,1 |
 
-1,1
+1 |
 
-|
+1 |
 
-1,1
+1 |
 
-|
-
-1
-
-|
-
-1
-
-|
-
-1
-
-|
-
-1
-
-|
+1 |
 
 Dans le cas où le bâtiment ou la partie du bâtiment est en catégorie CE2 :
 
@@ -10468,37 +7322,21 @@ Mcgéo
 
 |
 
-1,1
+1,1 |
 
-|
+1,2 |
 
-1,2
+1,1 |
 
-|
+1,1 |
 
-1,1
+1 |
 
-|
+1 |
 
-1,1
+0,9 |
 
-|
-
-1
-
-|
-
-1
-
-|
-
-0,9
-
-|
-
-0,9
-
-|
+0,9 |
 
 Le coefficient Mcalt de modulation du Cepmax selon l'altitude prend les valeurs suivantes :
 
@@ -10514,17 +7352,11 @@ Mcalt
 
 |
 
-0
+0 |
 
-|
+0,2 |
 
-0,2
-
-|
-
-0,4
-
-|
+0,4 |
 
 Le coefficient McGES de modulation du Cepmax selon les émissions de gaz à effet de serre prend la valeur suivante :
 
@@ -10538,9 +7370,7 @@ McGES = McGESchaud + McGESfroid / 2
 
 où :
 
-Contenu CO2 des réseaux de chaleur en g/kWh
-
-|
+Contenu CO2 des réseaux de chaleur en g/kWh |
 
 |
 
@@ -10592,27 +7422,17 @@ McGESfroid
 
 |
 
-0,15
+0,15 |
 
-|
+0,1 |
 
-0,1
+0,05 |
 
-|
-
-0,05
-
-|
-
-0
-
-|
+0 |
 
 Dans le cas où le bâtiment ou la partie de bâtiment est raccordé à un réseau de chaleur ou à un réseau de froid :
 
-Contenu CO2 des réseaux de chaleur et de froid en g/kWh
-
-|
+Contenu CO2 des réseaux de chaleur et de froid en g/kWh |
 
 |
 
@@ -10632,22 +7452,18 @@ McGES
 
 |
 
-0,15
+0,15 |
 
-|
+0,1 |
 
-0,1
+0,05 |
 
-|
-
-0,05
-
-|
-
-0
-
-|
+0 |
 
 Dans tous les autres cas, le coefficient McGES est égal à 0.
 
 Le coefficient Mcsurf de modulation du Cepmax selon la surface du bâtiment ou de la partie de bâtiment est pris égal à 0.
+
+NOTA :
+
+Conformément au 6° de l'article 4 de l'arrêté du 11 décembre 2014 (NOR : ETLL1414239A), le I de la présente annexe est remplacé par l'annexe II de l'arrêté précité, publiée au Bulletin officiel du ministère de l'écologie, du développement durable et de l'énergie et du ministère du logement, de l'égalité des territoires et de la ruralité (https://www.bulletin-officiel.developpement-durable.gouv.fr/notice?id=Bulletinofficiel-0028236&reqId=8e64f786-3422-4e96-b861-3661f0934af2&pos=1).
