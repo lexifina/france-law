@@ -4,11 +4,17 @@ TABLEAU I
 
 Fonctions interarmées
 
-DÉSIGNATION DE L'EMPLOI |
+DÉSIGNATION DE L'EMPLOI
 
-NOMBRE D'EMPLOIS |
+|
 
-NOMBRE DE POINTS PAR EMPLOI |
+NOMBRE D'EMPLOIS
+
+|
+
+NOMBRE DE POINTS PAR EMPLOI
+
+|
 
 Inspecteur des armées
 
@@ -46,15 +52,27 @@ Officier général de zone de défense et de sécurité et officier général de
 
 |
 
-Officier général de zone de défense et de sécurité Est, Sud-Est ou Ouest et officier général de zone de soutien de Metz, Lyon ou de Rennes
+Officier général de zone de défense et de sécurité Est, Sud-Est, Ouest ou Sud-Ouest et officier général de zone de soutien de Metz, Lyon, Bordeaux ou Rennes
 
 |
 
-3
+4
 
 |
 
 120
+
+|
+
+Général inspecteur adjoint à l'inspecteur des armées
+
+|
+
+1
+
+|
+
+80
 
 |
 
@@ -202,7 +220,7 @@ Chef de l'état-major interarmées de force et d'entraînement
 
 |
 
-Directeur de l'Ecole de guerre
+Directeur de l'école de guerre
 
 |
 
@@ -295,6 +313,18 @@ Directeur du Centre des hautes études militaires (DEMS)
 |
 
 100
+
+|
+
+Directeur de l'école des commissaires des armées
+
+|
+
+1
+
+|
+
+80
 
 |
 

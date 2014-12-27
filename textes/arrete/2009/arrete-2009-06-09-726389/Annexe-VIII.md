@@ -4,11 +4,17 @@ TABLEAU VIII
 
 Fonctions relevant du contrôle général des armées
 
-DÉSIGNATION DE L'EMPLOI |
+DÉSIGNATION DE L'EMPLOI
 
-NOMBRE D'EMPLOIS |
+|
 
-NOMBRE DE POINTS PAR EMPLOI |
+NOMBRE D'EMPLOIS
+
+|
+
+NOMBRE DE POINTS PAR EMPLOI
+
+|
 
 Chef de l'inspection du travail
 

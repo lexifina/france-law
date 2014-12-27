@@ -4,11 +4,17 @@ TABLEAU II
 
 Fonctions relevant de l'armée de terre
 
-DÉSIGNATION DE L'EMPLOI |
+DÉSIGNATION DE L'EMPLOI
 
-NOMBRE D'EMPLOIS |
+|
 
-NOMBRE DE POINTS PAR EMPLOI |
+NOMBRE D'EMPLOIS
+
+|
+
+NOMBRE DE POINTS PAR EMPLOI
+
+|
 
 Commandant des forces terrestres
 
@@ -46,7 +52,7 @@ Commandant de brigade interarmes
 
 |
 
-Commandant de la légion étrangère
+Commandant de la Légion étrangère
 
 |
 

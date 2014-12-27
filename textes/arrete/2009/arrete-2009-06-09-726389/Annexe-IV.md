@@ -4,11 +4,17 @@ TABLEAU IV
 
 Fonctions relevant de l'armée de l'air
 
-DÉSIGNATION DE L'EMPLOI |
+DÉSIGNATION DE L'EMPLOI
 
-NOMBRE D'EMPLOIS |
+|
 
-NOMBRE DE POINTS PAR EMPLOI |
+NOMBRE D'EMPLOIS
+
+|
+
+NOMBRE DE POINTS PAR EMPLOI
+
+|
 
 Commandant des forces aériennes
 
@@ -35,18 +41,6 @@ Commandant de la défense aérienne et des opérations aériennes
 |
 
 Commandant des forces aériennes stratégiques
-
-|
-
-1
-
-|
-
-140
-
-|
-
-Commandant du soutien des forces aériennes
 
 |
 
@@ -119,18 +113,6 @@ Commandant du centre d'expériences aériennes militaires
 |
 
 Chef d'état-major et adjoint renseignement du commandant de la défense aérienne et des opérations aériennes
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Directeur de la circulation aérienne militaire
 
 |
 

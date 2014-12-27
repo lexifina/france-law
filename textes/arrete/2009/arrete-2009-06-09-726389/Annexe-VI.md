@@ -4,11 +4,17 @@ TABLEAU VI
 
 Fonctions relevant du service de santé des armées
 
-DÉSIGNATION DE L'EMPLOI |
+DÉSIGNATION DE L'EMPLOI
 
-NOMBRE D'EMPLOIS |
+|
 
-NOMBRE DE POINTS PAR EMPLOI |
+NOMBRE D'EMPLOIS
+
+|
+
+NOMBRE DE POINTS PAR EMPLOI
+
+|
 
 Inspecteur général du service de santé des armées
 
@@ -22,7 +28,7 @@ Inspecteur général du service de santé des armées
 
 |
 
-Médecin chef de l'hôpital d'instruction des armées du Val-de-Grâce
+Médecin-chef de l'hôpital d'instruction des armées du "Val-de-Grâce"
 
 |
 
@@ -34,7 +40,7 @@ Médecin chef de l'hôpital d'instruction des armées du Val-de-Grâce
 
 |
 
-Médecin chef de l'hôpital d'instruction des armées Sainte-Anne
+Médecin-chef de l'hôpital d'instruction des armées "Sainte-Anne"
 
 |
 
@@ -46,7 +52,7 @@ Médecin chef de l'hôpital d'instruction des armées Sainte-Anne
 
 |
 
-Médecin chef de l'hôpital d'instruction des armées Laveran
+Médecin-chef de l'hôpital d'instruction des armées "Laveran"
 
 |
 
@@ -58,7 +64,7 @@ Médecin chef de l'hôpital d'instruction des armées Laveran
 
 |
 
-Médecin chef de l'hôpital d'instruction des armées Percy
+Médecin-chef de l'hôpital d'instruction des armées "Percy"
 
 |
 
@@ -70,7 +76,7 @@ Médecin chef de l'hôpital d'instruction des armées Percy
 
 |
 
-Médecin chef de l'hôpital d'instruction des armées Bégin
+Médecin-chef de l'hôpital d'instruction des armées "Bégin"
 
 |
 
@@ -82,7 +88,7 @@ Médecin chef de l'hôpital d'instruction des armées Bégin
 
 |
 
-Médecin chef de l'hôpital d'instruction des armées Desgenettes
+Médecin-chef de l'hôpital d'instruction des armées "Desgenettes"
 
 |
 
@@ -94,7 +100,7 @@ Médecin chef de l'hôpital d'instruction des armées Desgenettes
 
 |
 
-Médecin chef de l'hôpital d'instruction des armées Robert Picqué
+Médecin-chef de l'hôpital d'instruction des armées "Robert Picqué"
 
 |
 
@@ -106,7 +112,7 @@ Médecin chef de l'hôpital d'instruction des armées Robert Picqué
 
 |
 
-Médecin chef de l'hôpital d'instruction des armées Clermont-Tonnerre
+Médecin-chef de l'hôpital d'instruction des armées "Clermont-Tonnerre"
 
 |
 
@@ -118,7 +124,7 @@ Médecin chef de l'hôpital d'instruction des armées Clermont-Tonnerre
 
 |
 
-Médecin chef de l'hôpital d'instruction des armées Legouest
+Médecin-chef de l'hôpital d'instruction des armées "Legouest"
 
 |
 
@@ -142,7 +148,7 @@ Directeur des approvisionnements en produits de santé
 
 |
 
-Directeur de l'école du Val-de-Grâce
+Directeur de l'Ecole du Val-de-Grâce
 
 |
 
