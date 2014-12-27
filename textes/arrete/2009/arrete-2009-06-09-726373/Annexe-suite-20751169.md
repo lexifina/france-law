@@ -4,13 +4,19 @@ TABLEAU VI
 
 Emplois de sous-directeur et assimilé
 
-A. - Emplois de sous-directeur :
+A.-Emplois de sous-directeur
 
-DÉSIGNATION DE L'EMPLOI |
+DÉSIGNATION DE L'EMPLOI
 
-NOMBRE D'EMPLOIS |
+|
 
-NOMBRE DE POINTS PAR EMPLOI |
+NOMBRE D'EMPLOIS
+
+|
+
+NOMBRE DE POINTS PAR EMPLOI
+
+|
 
 Sous-directeur des bureaux des cabinets
 
@@ -25,6 +31,30 @@ Sous-directeur des bureaux des cabinets
 |
 
 Sous-directeur du pilotage des programmes budgétaires (SGA)
+
+|
+
+1
+
+|
+
+100
+
+|
+
+Délégué aux systèmes d'information, d'administration et de gestion (SGA)
+
+|
+
+1
+
+|
+
+80
+
+|
+
+Sous-directeur de la stratégie et des ressources (DPSD)
 
 |
 
@@ -72,7 +102,7 @@ Sous-directeur de la fonction financière et comptable (DAF)
 
 |
 
-Sous-directeur des référentiels et systèmes d'information financiers (DAF)
+Sous-directeur des référentiels et du système d'information financiers (DAF)
 
 |
 
@@ -168,6 +198,18 @@ Sous-directeur de l'action sociale (DRH-MD)
 
 |
 
+Sous-directeur de l'ingénierie des processus RH (DRH-MD)
+
+|
+
+1
+
+|
+
+100
+
+|
+
 Sous-directeur du droit public et du droit privé (DAJ)
 
 |
@@ -224,7 +266,7 @@ Sous-directeur de la mémoire et de l'action éducative (DMPA)
 
 |
 
-80
+100
 
 |
 
@@ -236,11 +278,11 @@ Sous-directeur du logement (DMPA)
 
 |
 
-80
+100
 
 |
 
-Sous-directeur, adjoint au chef de service de l'agence de reconversion de la défense
+Sous-directeur de la reconversion (ARD)
 
 |
 
@@ -248,11 +290,11 @@ Sous-directeur, adjoint au chef de service de l'agence de reconversion de la dé
 
 |
 
-80
+100
 
 |
 
-Sous-directeur, adjoint au chef du service parisien de soutien de l'administration centrale
+Sous-directeur du pilotage opérationnel
 
 |
 
@@ -276,7 +318,7 @@ Sous-directeur de la gestion budgétaire et financière (SPAC)
 
 |
 
-Sous-directeur de l'ingénierie du soutien (SPAC)
+Sous-directeur du soutien général et des sites (SPAC)
 
 |
 
@@ -300,7 +342,7 @@ Sous-directeur des achats (SPAC)
 
 |
 
-Sous-directeur de la gestion du personnel civil de l'administration centrale (SPAC)
+Sous-directeur de la gestion des personnels relevant de l'administration centrale (SPAC)
 
 |
 
@@ -312,7 +354,31 @@ Sous-directeur de la gestion du personnel civil de l'administration centrale (SP
 
 |
 
-Sous-directeur de la performance interne (SPAC)
+Sous-directeur de la qualité et du contrôle interne (SPAC)
+
+|
+
+1
+
+|
+
+100
+
+|
+
+Sous-directeur des transports, de l'impression et de la reprographie (SPAC)
+
+|
+
+1
+
+|
+
+100
+
+|
+
+Sous-directeur du site de Balard
 
 |
 
@@ -336,7 +402,7 @@ Sous-directeur du pilotage des ressources humaines et financières (DCSID)
 
 |
 
-Sous-directeur des ressources humaines (DSN)
+Sous-directeur des achats infrastructure (DCSID)
 
 |
 
@@ -345,6 +411,54 @@ Sous-directeur des ressources humaines (DSN)
 |
 
 80
+
+|
+
+Sous-directeur du pilotage de la stratégie infrastructure (DCSID)
+
+|
+
+1
+
+|
+
+80
+
+|
+
+Sous-directeur maintien en condition gestion du patrimoine (DCSID)
+
+|
+
+1
+
+|
+
+80
+
+|
+
+Sous-directeur projets (DCSID)
+
+|
+
+1
+
+|
+
+80
+
+|
+
+Sous-directeur ressources "métier" (DSN)
+
+|
+
+1
+
+|
+
+100
 
 |
 
@@ -408,7 +522,7 @@ Sous-directeur finances, contrôle et droits individuels (DRHAT)
 
 |
 
-Sous-directeur chargé du budget, des finances et de la comptabilité (SIMMT)
+Sous-directeur du budget, des finances et de la comptabilité (SIMMT)
 
 |
 
@@ -468,6 +582,18 @@ Adjoint "personnel et écoles" au directeur central du service de santé des arm
 
 |
 
+Sous-directeur "appui à l'activité" (DCSSA)
+
+|
+
+1
+
+|
+
+80
+
+|
+
 Sous-directeur synthèses (SCA)
 
 |
@@ -516,7 +642,7 @@ Sous-directeur achats-soutiens communs (SCA)
 
 |
 
-Sous-directeur production (SIAé)
+Sous-directeur production (SIAE)
 
 |
 
@@ -528,19 +654,7 @@ Sous-directeur production (SIAé)
 
 |
 
-Sous-directeur administratif (SIAé)
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Sous-directeur de la formation et des écoles (DGA/ DRH)
+Sous-directeur administratif (SIAE)
 
 |
 
@@ -560,7 +674,7 @@ Sous-directeur de la politique des ressources humaines (DGA/ DRH)
 
 |
 
-80
+100
 
 |
 
@@ -660,7 +774,7 @@ Sous-directeur opérations (DRM)
 
 |
 
-Sous-directeur personnel, finances, capacités (DRM)
+Sous-directeur personnel-finances-capacités (DRM)
 
 |
 
@@ -792,15 +906,21 @@ Sous-directeur de la politique et de la prospective de défense (DAS)
 
 |
 
-B. - Emplois assimilés à sous-directeur :
+B.-Emplois assimilés à sous-directeur
 
-DÉSIGNATION DE L'EMPLOI |
+DÉSIGNATION DE L'EMPLOI
 
-NOMBRE D'EMPLOIS |
+|
 
-NOMBRE DE POINTS PAR EMPLOI |
+NOMBRE D'EMPLOIS
 
-Secrétaire général des architectes de systèmes de forces du service d'architecture des systèmes de forces (DGA/DS)
+|
+
+NOMBRE DE POINTS PAR EMPLOI
+
+|
+
+Secrétaire général des architectes de systèmes de forces du service d'architecture des systèmes de forces (DGA/ DS)
 
 |
 
@@ -812,7 +932,7 @@ Secrétaire général des architectes de systèmes de forces du service d'archit
 
 |
 
-Directeur de l'unité de management Rafale (DGA/DO)
+Directeur de l'unité de management avions de chasse et équipements (DGA/ DO)
 
 |
 
@@ -824,7 +944,7 @@ Directeur de l'unité de management Rafale (DGA/DO)
 
 |
 
-Directeur de l'unité de management Cœlacanthe (DGA/DO)
+Directeur de l'unité de management Cœlacanthe (DGA/ DO)
 
 |
 
@@ -836,7 +956,7 @@ Directeur de l'unité de management Cœlacanthe (DGA/DO)
 
 |
 
-Directeur de l'unité de management Opérations d'armement terrestres (DGA/DO)
+Directeur de l'unité de management Opérations d'armement terrestres (DGA/ DO)
 
 |
 
@@ -848,7 +968,7 @@ Directeur de l'unité de management Opérations d'armement terrestres (DGA/DO)
 
 |
 
-Directeur de l'unité de management Opérations d'armement navales (DGA/DO)
+Directeur de l'unité de management Opérations d'armement navales (DGA/ DO)
 
 |
 
@@ -860,7 +980,7 @@ Directeur de l'unité de management Opérations d'armement navales (DGA/DO)
 
 |
 
-Directeur de l'unité de management Espace et systèmes d'information opérationnels (DGA/DO)
+Directeur de l'unité de management Espace et systèmes d'information opérationnels (DGA/ DO)
 
 |
 
@@ -872,7 +992,7 @@ Directeur de l'unité de management Espace et systèmes d'information opération
 
 |
 
-Adjoint au chef du service centralisé des achats (DGA/DO)
+Adjoint au chef du service centralisé des achats (DGA/ DO)
 
 |
 
@@ -981,6 +1101,18 @@ Chef du secrétariat du comité ministériel des investissements
 |
 
 Chef de la division des affaires pénales militaires
+
+|
+
+1
+
+|
+
+80
+
+|
+
+Chef de la mission d'aide au pilotage
 
 |
 

@@ -4,13 +4,19 @@ TABLEAU III
 
 Emplois de chef de service et assimilé
 
-A. - Emplois de chef de service :
+A.-Emplois de chef de service
 
-DÉSIGNATION DE L'EMPLOI |
+DÉSIGNATION DE L'EMPLOI
 
-NOMBRE D'EMPLOIS |
+|
 
-NOMBRE DE POINTS PAR EMPLOI |
+NOMBRE D'EMPLOIS
+
+|
+
+NOMBRE DE POINTS PAR EMPLOI
+
+|
 
 Chef du service parisien de soutien de l'administration centrale
 
@@ -212,7 +218,7 @@ Chef du service des affaires industrielles et de l'intelligence économique de l
 
 |
 
-80
+100
 
 |
 
@@ -264,18 +270,6 @@ Chef du service de l'exécution budgétaire et des comptabilités des opération
 
 |
 
-Chef du service du soutien aux exportations de défense de la direction du développement international (DGA)
-
-|
-
-1
-
-|
-
-80
-
-|
-
 Chef du service de maintien en condition opérationnelle de la direction des opérations (DGA)
 
 |
@@ -284,7 +278,7 @@ Chef du service de maintien en condition opérationnelle de la direction des op�
 
 |
 
-80
+100
 
 |
 
@@ -301,18 +295,6 @@ Adjoint au sous-chef d'état-major plans (EMA)
 |
 
 Adjoint au sous-chef d'état-major opérations (EMA)
-
-|
-
-1
-
-|
-
-110
-
-|
-
-Adjoint au sous-chef d'état-major ressources humaines (EMA)
 
 |
 
@@ -348,15 +330,69 @@ Adjoint au sous-chef d'état-major soutien (EMA)
 
 |
 
-B. - Emplois de chef de division de l'état-major des armées et assimilé :
+Chef du service de la stratégie de la direction centrale du service d'infrastructure de la défense
 
-DÉSIGNATION DE L'EMPLOI |
+|
 
-NOMBRE D'EMPLOIS |
+1
 
-NOMBRE DE POINTS PAR EMPLOI |
+|
 
-Officier général adjoint au major général des armées-chef de la division études, synthèse, management général
+100
+
+|
+
+Chef du service des réalisations de la direction centrale du service d'infrastructure de la défense
+
+|
+
+1
+
+|
+
+100
+
+|
+
+Directeur de la navigabilité (DSAE)
+
+|
+
+1
+
+|
+
+80
+
+|
+
+Directeur de la circulation aérienne militaire (DSAE)
+
+|
+
+1
+
+|
+
+80
+
+|
+
+B.-Emplois de chef de division de l'état-major des armées et assimilé
+
+DÉSIGNATION DE L'EMPLOI
+
+|
+
+NOMBRE D'EMPLOIS
+
+|
+
+NOMBRE DE POINTS PAR EMPLOI
+
+|
+
+Officier général adjoint au major général des armées, chef de la division études, synthèse, management général
 
 |
 
@@ -365,6 +401,18 @@ Officier général adjoint au major général des armées-chef de la division é
 |
 
 120
+
+|
+
+Officier général adjoint, chef du centre de pilotage et de conduite du soutien
+
+|
+
+1
+
+|
+
+100
 
 |
 
@@ -476,30 +524,6 @@ Officier général chargé de mission équipements
 
 |
 
-Chef de la division ressources humaines
-
-|
-
-1
-
-|
-
-100
-
-|
-
-Chef de la division maintien en condition opérationnelle
-
-|
-
-1
-
-|
-
-100
-
-|
-
 Chef de la division politique et performance des soutiens
 
 |
@@ -509,6 +533,18 @@ Chef de la division politique et performance des soutiens
 |
 
 100
+
+|
+
+Officier général chargé de la transformation et du pilotage des armées
+
+|
+
+1
+
+|
+
+80
 
 |
 
@@ -524,13 +560,19 @@ Délégué interarmées aux réserves
 
 |
 
-C. - Emplois de sous-chef d'état-major d'armée et assimilé :
+C.-Emplois de sous-chef d'état-major d'armée et assimilé
 
-DÉSIGNATION DE L'EMPLOI |
+DÉSIGNATION DE L'EMPLOI
 
-NOMBRE D'EMPLOIS |
+|
 
-NOMBRE DE POINTS PAR EMPLOI |
+NOMBRE D'EMPLOIS
+
+|
+
+NOMBRE DE POINTS PAR EMPLOI
+
+|
 
 Sous-chef d'état-major plans et programmes de l'état-major de l'armée de terre
 

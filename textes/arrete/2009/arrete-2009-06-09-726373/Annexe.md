@@ -36,7 +36,7 @@ Secrétaire général pour l'administration
 
 |
 
-180
+200
 
 |
 
@@ -48,7 +48,7 @@ Délégué général pour l'armement
 
 |
 
-180
+200
 
 |
 

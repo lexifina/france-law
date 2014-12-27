@@ -4,13 +4,19 @@ TABLEAU IV
 
 Emplois de directeur adjoint, adjoint à un directeur et assimilé
 
-A. - Emplois de directeur adjoint :
+A.-Emplois de directeur adjoint
 
-DÉSIGNATION DE L'EMPLOI |
+DÉSIGNATION DE L'EMPLOI
 
-NOMBRE D'EMPLOIS |
+|
 
-NOMBRE DE POINTS PAR EMPLOI |
+NOMBRE D'EMPLOIS
+
+|
+
+NOMBRE DE POINTS PAR EMPLOI
+
+|
 
 Directeur central adjoint à la direction centrale du service d'infrastructure de la défense
 
@@ -28,7 +34,7 @@ Sous-directeur, adjoint au directeur de la protection et de la sécurité de la 
 
 |
 
-2
+1
 
 |
 
@@ -109,6 +115,18 @@ Directeur central adjoint du service de santé des armées
 |
 
 Directeur adjoint des opérations (DGA)
+
+|
+
+1
+
+|
+
+100
+
+|
+
+Directeur adjoint du développement international et chef du service des procédures d'exportation et des moyens (DGA)
 
 |
 
@@ -216,13 +234,19 @@ Directeur adjoint à la direction centrale du service des essences des armées
 
 |
 
-B. - Emplois d'adjoint à un directeur et assimilé :
+B.-Emplois d'adjoint à un directeur et assimilé
 
-DÉSIGNATION DE L'EMPLOI |
+DÉSIGNATION DE L'EMPLOI
 
-NOMBRE D'EMPLOIS |
+|
 
-NOMBRE DE POINTS PAR EMPLOI |
+NOMBRE D'EMPLOIS
+
+|
+
+NOMBRE DE POINTS PAR EMPLOI
+
+|
 
 Adjoint au directeur central de la structure intégrée du maintien en condition opérationnelle des matériels aéronautiques du ministère de la défense
 
@@ -233,18 +257,6 @@ Adjoint au directeur central de la structure intégrée du maintien en condition
 |
 
 100
-
-|
-
-Adjoint au directeur du développement international (DGA)
-
-|
-
-1
-
-|
-
-80
 
 |
 

@@ -4,7 +4,7 @@ TABLEAU II
 
 Emplois de directeur et assimilé
 
-A. - Emplois de directeur :
+A.-Emplois de directeur
 
 DÉSIGNATION DE L'EMPLOI
 
@@ -30,7 +30,7 @@ Directeur, adjoint au secrétaire général pour l'administration
 
 |
 
-Chef de la mission pour la coordination de la réforme
+Chef de la mission d'appui à la transformation
 
 |
 
@@ -258,7 +258,7 @@ Directeur de la stratégie de la direction générale de l'armement
 
 |
 
-Adjoint au délégué général pour l'armement, directeur du développement international
+Directeur du développement international de la direction générale de l'armement
 
 |
 
@@ -378,13 +378,31 @@ Directeur central du service des essences des armées
 
 |
 
-B. - Emplois de délégué :
+Directeur de la sécurité aéronautique d'Etat
 
-DÉSIGNATION DE L'EMPLOI |
+|
 
-NOMBRE D'EMPLOIS |
+1
 
-NOMBRE DE POINTS PAR EMPLOI |
+|
+
+120
+
+|
+
+B.-Emplois de délégué
+
+DÉSIGNATION DE L'EMPLOI
+
+|
+
+NOMBRE D'EMPLOIS
+
+|
+
+NOMBRE DE POINTS PAR EMPLOI
+
+|
 
 Délégué à l'information et à la communication de la défense
 
@@ -398,7 +416,7 @@ Délégué à l'information et à la communication de la défense
 
 |
 
-Délégué aux restructurations
+Délégué à l'accompagnement des restructurations
 
 |
 
@@ -410,13 +428,19 @@ Délégué aux restructurations
 
 |
 
-C. - Emplois de sous-chef d'état-major à l'état-major des armées :
+C.-Emplois de sous-chef d'état-major à l'état-major des armées
 
-DÉSIGNATION DE L'EMPLOI |
+DÉSIGNATION DE L'EMPLOI
 
-NOMBRE D'EMPLOIS |
+|
 
-NOMBRE DE POINTS PAR EMPLOI |
+NOMBRE D'EMPLOIS
+
+|
+
+NOMBRE DE POINTS PAR EMPLOI
+
+|
 
 Sous-chef d'état-major plans
 
@@ -431,18 +455,6 @@ Sous-chef d'état-major plans
 |
 
 Sous-chef d'état-major opérations
-
-|
-
-1
-
-|
-
-140
-
-|
-
-Sous-chef d'état-major ressources humaines
 
 |
 
