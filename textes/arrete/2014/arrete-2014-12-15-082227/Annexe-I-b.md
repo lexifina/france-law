@@ -1,0 +1,35 @@
+# Article Annexe I-b
+
+DANGERS SANITAIRES DE PREMIÈRE CATÉGORIE POUR LES ESPÈCES VÉGÉTALES FAISANT L'OBJET D'UNE ÉMERGENCE ET INSCRITS À TITRE TEMPORAIRE POUR TROIS ANS MAXIMUM
+
+Chapitre Ier. - Territoire métropolitain
+
+GROUPE
+
+|
+
+ESPÈCE
+
+|
+
+DATE D'INSCRIPTION
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
