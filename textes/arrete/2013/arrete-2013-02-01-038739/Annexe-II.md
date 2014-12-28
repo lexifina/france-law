@@ -162,37 +162,35 @@ Primates du Nouveau Monde
 
 Souris
 
+Rat
+
+Hamster
+
+Gerbille
+
+Cobaye
+
+Primates de l'Ancien Monde
+
+Caille
+
 |
 
 20-24
 
 |
 
-Rat
-
-|
-
-Hamster
-
-|
-
-Gerbille
-
-|
-
-Cobaye
-
-|
-
-Primates de l'Ancien Monde
-
-|
-
-Caille
-
-|
-
 Lapin
+
+Chat
+
+Chien
+
+Furet
+
+Volaille
+
+Pigeon
 
 |
 
@@ -200,47 +198,19 @@ Lapin
 
 |
 
-Chat
-
-|
-
-Chien
-
-|
-
-Furet
-
-|
-
-Volaille
-
-|
-
-Pigeon
-
-|
-
 Porc
+
+Chèvre
+
+Mouton
+
+Bovin
+
+Cheval
 
 |
 
 10-24
-
-|
-
-Chèvre
-
-|
-
-Mouton
-
-|
-
-Bovin
-
-|
-
-Cheval
 
 |
 
@@ -254,13 +224,13 @@ Dans les tableaux suivants relatifs aux souris, rats, gerbilles, hamsters et cob
 
 Lors de la conception des compartiments, il convient de prendre en compte la croissance potentielle des animaux de manière à garantir un espace adéquat (conformément aux indications des tableaux 1.1 à 1.5) pendant toute la durée de l'étude.
 
-Tableau 1.1. - Souris
+Tableau 1.1
+
+Souris
 
 |
 
-POIDS CORPOREL
-
-(g)
+POIDS CORPOREL (g)
 
 |
 
@@ -268,7 +238,7 @@ DIMENSION MINIMALE
 
 du compartiment
 
-(cm²)
+(cm2)
 
 |
 
@@ -276,7 +246,7 @@ SURFACE AU SOL
 
 par animal
 
-(cm²)
+(cm2)
 
 |
 
@@ -298,9 +268,21 @@ Réserve et pendant les procédures
 
 |
 
-Jusqu'à 20
+jusqu'à 20
+
+de plus de 20 à 25
+
+de plus de 25 à 30
+
+plus de 30
 
 |
+
+330
+
+330
+
+330
 
 330
 
@@ -308,61 +290,25 @@ Jusqu'à 20
 
 60
 
-|
-
-12
-
-|
-
-1er janvier 2017
-
-|
-
-De plus de 20 à 25
-
-|
-
-330
-
-|
-
 70
 
-|
-
-12
-
-|
-
-De plus de 25 à 30
-
-|
-
-330
-
-|
-
 80
-
-|
-
-12
-
-|
-
-Plus de 30
-
-|
-
-330
-
-|
 
 100
 
 |
 
 12
+
+12
+
+12
+
+12
+
+|
+
+1er janvier 2017
 
 |
 
@@ -374,8 +320,6 @@ Reproduction
 
 330
 
-Pour un couple monogame (non consanguin/consanguin) ou un trio (consanguin). Pour chaque femelle supplémentaire avec sa portée, il faut ajouter 180 cm²
-
 |
 
 |
@@ -384,13 +328,25 @@ Pour un couple monogame (non consanguin/consanguin) ou un trio (consanguin). Pou
 
 |
 
-Réserve chez les éleveurs (*)
-
-Taille du compartiment : 950 cm²
+|
 
 |
 
-Moins de 20
+Pour un couple monogame (non consanguin/consanguin) ou un trio (consanguin). Pour chaque femelle supplémentaire avec sa portée, il faut ajouter 180 cm2.
+
+|
+
+|
+
+|
+
+Réserve chez les éleveurs (*)
+
+Taille du compartiment : 950 cm2
+
+|
+
+moins de 20
 
 |
 
@@ -406,11 +362,11 @@ Moins de 20
 
 |
 
-Taille du compartiment : 1 500 cm²
+Taille du compartiment : 1 500 cm2
 
 |
 
-Moins de 20
+moins de 20
 
 |
 
@@ -430,7 +386,9 @@ Moins de 20
 
 |
 
-Tableau 1.2. - Rats
+Tableau 1.2
+
+Rats
 
 |
 
@@ -444,7 +402,7 @@ DIMENSION MINIMALE
 
 du compartiment
 
-(cm²)
+(cm2)
 
 |
 
@@ -452,7 +410,7 @@ SURFACE AU SOL
 
 par animal
 
-(cm²)
+(cm2)
 
 |
 
@@ -474,87 +432,55 @@ Réserve et pendant les procédures (*)
 
 |
 
-Jusqu'à 200
+jusqu'à 200
+
+de plus de 200 à 300
+
+de plus de 300 à 400
+
+de plus de 400 à 600
+
+plus de 600
 
 |
 
 800
+
+800
+
+800
+
+800
+
+1 500
 
 |
 
 200
 
-|
-
-18
-
-|
-
-1er janvier 2017
-
-|
-
-De plus de 200 à 300
-
-|
-
-800
-
-|
-
 250
-
-|
-
-18
-
-|
-
-De plus de 300 à 400
-
-|
-
-800
-
-|
 
 350
 
-|
-
-18
-
-|
-
-De plus de 400 à 600
-
-|
-
-800
-
-|
-
 450
-
-|
-
-18
-
-|
-
-Plus de 600
-
-|
-
-1 500
-
-|
 
 600
 
 |
 
 18
+
+18
+
+18
+
+18
+
+18
+
+|
+
+1er janvier 2017
 
 |
 
@@ -566,8 +492,6 @@ Reproduction
 
 800
 
-Mère et portée. Pour chaque animal adulte supplémentaire introduit de façon permanente dans le compartiment, ajouter 400 cm².
-
 |
 
 |
@@ -576,15 +500,39 @@ Mère et portée. Pour chaque animal adulte supplémentaire introduit de façon 
 
 |
 
+|
+
+|
+
+Mère et portée. Pour chaque animal adulte supplémentaire introduit de façon permanente dans le compartiment, ajouter 400 cm2.
+
+|
+
+|
+
+|
+
 Réserve chez les éleveurs (**)
 
-Taille du compartiment : 1 500 cm²
+Taille du compartiment : 1 500 cm2
 
 |
 
-Jusqu'à 50
+jusqu'à 50
+
+de plus de 50 à 100
+
+de plus de 100 à 150
+
+de plus de 150 à 200
 
 |
+
+1 500
+
+1 500
+
+1 500
 
 1 500
 
@@ -592,51 +540,9 @@ Jusqu'à 50
 
 100
 
-|
-
-18
-
-|
-
-De plus de 50 à 100
-
-|
-
-1 500
-
-|
-
 125
 
-|
-
-18
-
-|
-
-De plus de 100 à 150
-
-|
-
-1 500
-
-|
-
 150
-
-|
-
-18
-
-|
-
-De plus de 150 à 200
-
-|
-
-1 500
-
-|
 
 175
 
@@ -644,17 +550,31 @@ De plus de 150 à 200
 
 18
 
+18
+
+18
+
+18
+
 |
 
 Réserve chez les éleveurs (**)
 
-Taille du compartiment : 2 500 cm²
+Taille du compartiment : 2 500 cm2
 
 |
 
-Jusqu'à 50
+jusqu'à 100
+
+de plus de 100 à 150
+
+de plus de 150 à 200
 
 |
+
+2 500
+
+2 500
 
 2 500
 
@@ -662,39 +582,15 @@ Jusqu'à 50
 
 100
 
-|
-
-18
-
-|
-
-De plus de 50 à 100
-
-|
-
-2 500
-
-|
-
 125
-
-|
-
-18
-
-|
-
-De plus de 100 à 150
-
-|
-
-2 500
-
-|
 
 150
 
 |
+
+18
+
+18
 
 18
 
@@ -706,7 +602,9 @@ De plus de 100 à 150
 
 |
 
-Tableau 1.3. - Gerbilles
+Tableau 1.3
+
+Gerbilles
 
 |
 
@@ -720,7 +618,7 @@ DIMENSION MINIMALE
 
 du compartiment
 
-(cm²)
+(cm2)
 
 |
 
@@ -728,7 +626,7 @@ SURFACE AU SOL
 
 par animal
 
-(cm²)
+(cm2)
 
 |
 
@@ -750,9 +648,13 @@ Réserve et pendant les procédures
 
 |
 
-Jusqu'à 40
+jusqu'à 40
+
+plus de 40
 
 |
+
+1 200
 
 1 200
 
@@ -760,29 +662,17 @@ Jusqu'à 40
 
 150
 
+250
+
 |
+
+18
 
 18
 
 |
 
 1er janvier 2017
-
-|
-
-Plus de 40
-
-|
-
-1 200
-
-|
-
-250
-
-|
-
-18
 
 |
 
@@ -794,8 +684,6 @@ Reproduction
 
 1 200
 
-Couple monogame ou trio avec descendance
-
 |
 
 |
@@ -804,7 +692,21 @@ Couple monogame ou trio avec descendance
 
 |
 
-Tableau 1.4. - Hamsters
+|
+
+|
+
+Couple monogame ou trio avec descendance
+
+|
+
+|
+
+|
+
+Tableau 1.4
+
+Hamsters
 
 |
 
@@ -818,7 +720,7 @@ DIMENSION MINIMALE
 
 du compartiment
 
-(cm²)
+(cm2)
 
 |
 
@@ -826,7 +728,7 @@ SURFACE AU SOL
 
 par animal
 
-(cm²)
+(cm2)
 
 |
 
@@ -844,13 +746,21 @@ d'application
 
 |
 
-Réserve et pendant les procédures (*)
+Réserve et pendant les procédures
 
 |
 
-Jusqu'à 60
+jusqu'à 60
+
+de plus de 60 à 100
+
+plus de 100
 
 |
+
+800
+
+800
 
 800
 
@@ -858,41 +768,7 @@ Jusqu'à 60
 
 150
 
-|
-
-14
-
-|
-
-1er janvier 2017
-
-|
-
-De plus de 60 à 100
-
-|
-
-800
-
-|
-
 200
-
-|
-
-14
-
-|
-
-|
-
-Plus de 100
-
-|
-
-800
-
-|
 
 250
 
@@ -900,7 +776,13 @@ Plus de 100
 
 14
 
+14
+
+14
+
 |
+
+1er janvier 2017
 
 |
 
@@ -912,8 +794,6 @@ Reproduction
 
 800
 
-Mère ou couple monogame avec portée
-
 |
 
 |
@@ -924,11 +804,21 @@ Mère ou couple monogame avec portée
 
 |
 
-Réserve chez les éleveurs (**)
+|
+
+Mère ou couple monogame avec portée.
 
 |
 
-Moins de 60
+|
+
+|
+
+Réserve chez les éleveurs (*)
+
+|
+
+moins de 60
 
 |
 
@@ -944,19 +834,17 @@ Moins de 60
 
 |
 
-|
-
 (*) Les hamsters sevrés peuvent être hébergés avec ces densités de peuplement plus élevées pendant la courte période qui suit le sevrage jusqu'à ce qu'ils se reproduisent, à condition d'utiliser des compartiments plus grands et d'assurer un enrichissement suffisant et que ces conditions d'hébergement ne réduisent en rien le bien-être des animaux, étant par exemple à l'origine d'une plus grande agressivité, morbidité ou mortalité, de stéréotypies et d'autres troubles du comportement, perte de poids ou autres réactions physiologiques ou comportementales au stress.
 
 |
 
-Tableau 1.5. - Cobayes
+Tableau 1.5
+
+Cobayes
 
 |
 
-POIDS CORPOREL
-
-(g)
+POIDS CORPOREL (g)
 
 |
 
@@ -964,7 +852,7 @@ DIMENSION MINIMALE
 
 du compartiment
 
-(cm²)
+(cm2)
 
 |
 
@@ -972,7 +860,7 @@ SURFACE AU SOL
 
 par animal
 
-(cm²)
+(cm2)
 
 |
 
@@ -990,91 +878,59 @@ d'application
 
 |
 
-Réserve et pendant les procédures (*)
+Réserve et pendant les procédures
 
 |
 
-Jusqu'à 200
+jusqu'à 200
+
+de plus de 200 à 300
+
+de plus de 300 à 450
+
+de plus de 450 à 700
+
+plus de 700
 
 |
 
 1 800
+
+1 800
+
+1 800
+
+2 500
+
+2 500
 
 |
 
 200
 
-|
-
-23
-
-|
-
-1er janvier 2017
-
-|
-
-De plus de 200 à 300
-
-|
-
-1 800
-
-|
-
 350
-
-|
-
-23
-
-|
-
-De plus de 300 à 450
-
-|
-
-1 800
-
-|
 
 500
 
-|
-
-23
-
-|
-
-De plus de 450 à 700
-
-|
-
-2 500
-
-|
-
 700
-
-|
-
-23
-
-|
-
-Plus de 700
-
-|
-
-2 500
-
-|
 
 900
 
 |
 
 23
+
+23
+
+23
+
+23
+
+23
+
+|
+
+1er janvier 2017
 
 |
 
@@ -1086,12 +942,6 @@ Reproduction
 
 2 500
 
-Couple avec portée.
-
-Pour chaque femelle reproductrice supplémentaire,
-
-ajouter 1 000 cm²
-
 |
 
 |
@@ -1100,13 +950,29 @@ ajouter 1 000 cm²
 
 |
 
+|
+
+|
+
+Couple avec portée. Pour chaque femelle reproductrice supplémentaire, ajouter 1 000 cm2.
+
+|
+
+|
+
+|
+
 2.2. Lapins
 
 Dans le cadre de la recherche agricole, lorsque l'objectif du projet exige que les animaux soient hébergés dans des conditions similaires à celles des animaux de ferme élevés dans un but commercial, l'hébergement doit au moins satisfaire aux normes fixées dans la directive 98/58/CE (1).
 
-Une plate-forme doit être prévue à l'intérieur du compartiment. Cette plate-forme doit permettre à l'animal de s'y étendre ou de s'y asseoir et de se déplacer facilement en dessous ; elle ne doit pas couvrir plus de 40 % de l'espace au sol. S'il existe des raisons scientifiques ou vétérinaires de ne pas utiliser une plate-forme, la taille du compartiment doit être supérieure de 33 % pour un lapin seul et de 60 % pour deux lapins. Lorsqu'une plate-forme est mise à la disposition de lapins de moins de dix semaines, la taille de la plate-forme doit être d'au moins 55 cm sur 25 cm et la hauteur doit permettre aux animaux de l'utiliser.
+Une plate-forme doit être prévue à l'intérieur du compartiment. Cette plate-forme doit permettre à l'animal de s'y étendre ou de s'y asseoir et de se déplacer facilement au-dessous ; elle ne doit pas couvrir plus de 40 % de l'espace au sol. S'il existe des raisons scientifiques ou vétérinaires de ne pas utiliser une plate-forme, la taille du compartiment doit être supérieure de 33 % pour un lapin seul et de 60 % pour deux lapins. Lorsqu'une plate-forme est mise à la disposition de lapins de moins de dix semaines, la taille de la plate-forme doit être d'au moins 55 cm sur 25 cm et la hauteur doit permettre aux animaux de l'utiliser.
 
-Tableau 2.1. ― Lapins de plus de dix semaines
+Tableau 2.1
+
+Lapins de plus de dix semaines
+
+Le tableau 2.1 concerne les cages et les enclos. La surface au sol supplémentaire est de 3 000 cm2 par lapin, pour le troisième, le quatrième, le cinquième et le sixième, et de 2 500 cm2 au minimum pour chaque lapin supplémentaire au-delà de six.
 
 POIDS CORPOREL FINAL
 
@@ -1120,7 +986,7 @@ pour un ou deux animaux
 
 socialement harmonieux
 
-(cm²)
+(cm2)
 
 |
 
@@ -1134,15 +1000,27 @@ DATE D'APPLICATION
 
 |
 
-Moins de 3
+moins de 3
+
+de plus de 3 à 5
+
+plus de 5
 
 |
 
 3 500
 
+4 200
+
+5 400
+
 |
 
 45
+
+45
+
+60
 
 |
 
@@ -1150,33 +1028,9 @@ Moins de 3
 
 |
 
-De plus de 3 à 5
+Tableau 2.2
 
-|
-
-4 200
-
-|
-
-45
-
-|
-
-Plus de 5
-
-|
-
-5 400
-
-|
-
-60
-
-|
-
-Le tableau 2.1 concerne les cages et les enclos. La surface au sol supplémentaire est de 3 000 cm² par lapin, pour le troisième, le quatrième, le cinquième et le sixième, et de 2 500 cm² au minimum pour chaque lapin supplémentaire au-delà de six.
-
-Tableau 2.2. ― Lapine avec portée
+Lapine avec portée
 
 POIDS DE LA LAPINE
 
@@ -1188,15 +1042,17 @@ DIMENSION MINIMALE
 
 du compartiment
 
-(cm²)
+(cm2)
 
 |
 
 SUPPLÉMENT
 
-pour les boîtes à nid
+pour les boîtes
 
-(cm²)
+à nid
+
+(cm2)
 
 |
 
@@ -1206,25 +1062,39 @@ HAUTEUR MINIMALE
 
 |
 
-DATE
-
-d'application
+DATE D'APPLICATION
 
 |
 
-Moins de 3
+moins de 3
+
+de plus de 3 à 5
+
+plus de 5
 
 |
 
 3 500
 
+4 200
+
+5 400
+
 |
 
 1 000
 
+1 200
+
+1 400
+
 |
 
 45
+
+45
+
+60
 
 |
 
@@ -1232,39 +1102,9 @@ Moins de 3
 
 |
 
-De plus de 3 à 5
+Tableau 2.3
 
-|
-
-4 200
-
-|
-
-1 200
-
-|
-
-45
-
-|
-
-Plus de 5
-
-|
-
-5 400
-
-|
-
-1 400
-
-|
-
-60
-
-|
-
-Tableau 2.3. ― Lapins de moins de dix semaines
+Lapins de moins de dix semaines
 
 Le tableau 2.3 concerne les cages et les enclos.
 
@@ -1276,33 +1116,35 @@ DIMENSION MINIMALE
 
 du compartiment
 
-(cm²)
+(cm2)
 
 |
 
-SUPPLÉMENT
+SURFACE AU SOL
 
-pour les boîtes à nid
+minimale par animal
 
-(cm²)
+(cm2)
 
 |
 
 HAUTEUR MINIMALE
 
-(cm)
+(CM)
 
 |
 
-DATE
-
-d'application
+DATE D'APPLICATION
 
 |
 
-Du sevrage à 7 semaines
+du sevrage à 7 semaines
+
+de 7 à 10 semaines
 
 |
+
+4 000
 
 4 000
 
@@ -1310,81 +1152,13 @@ Du sevrage à 7 semaines
 
 800
 
-|
-
-40
-
-|
-
-1er janvier 2017
-
-|
-
-De 7 à 10 semaines
-
-|
-
-4 000
-
-|
-
 1 200
 
 |
 
 40
 
-|
-
-Tableau 2.4. ― Lapins : dimensions optimales des plates-formes pour des compartiments
-
-correspondant aux dimensions indiquées dans le tableau 2.1
-
-ÂGE EN SEMAINES
-
-|
-
-DIMENSION MINIMALE
-
-du compartiment
-
-(cm²)
-
-|
-
-SUPPLÉMENT
-
-pour les boîtes à nid
-
-(cm²)
-
-|
-
-HAUTEUR MINIMALE
-
-(cm)
-
-|
-
-DATE
-
-d'application
-
-|
-
-Plus de 10
-
-|
-
-Moins de 3
-
-|
-
-55 × 25
-
-|
-
-25
+40
 
 |
 
@@ -1392,27 +1166,69 @@ Moins de 3
 
 |
 
-De plus de 3 à 5
+Tableau 2.4
+
+Lapins : dimensions optimales des plates-formes pour des compartiments correspondant aux dimensions indiquées dans le tableau 2.1
+
+ÂGE EN SEMAINES
 
 |
+
+POIDS CORPOREL FINAL
+
+(kg)
+
+|
+
+TAILLE OPTIMALE
+
+(cm × cm)
+
+|
+
+HAUTEUR OPTIMALE
+
+au-dessus du sol
+
+du compartiment
+
+(cm)
+
+|
+
+DATE D'APPLICATION
+
+|
+
+plus de 10
+
+|
+
+moins de 3
+
+de plus de 3 à 5
+
+plus de 5
+
+|
+
+55 × 25
 
 55 × 30
-
-|
-
-25
-
-|
-
-Plus de 5
-
-|
 
 60 × 35
 
 |
 
+25
+
+25
+
 30
+
+|
+
+1er janvier 2017
 
 |
 
@@ -1420,23 +1236,25 @@ Plus de 5
 
 Les chats ne peuvent être hébergés individuellement pendant plus de vingt-quatre heures d'affilée. Les chats qui se montrent souvent agressifs envers d'autres chats ne doivent être isolés que s'il n'est pas possible de leur trouver un compagnon compatible. Le stress lié aux interactions sociales doit être contrôlé au moins chaque semaine chez tous les individus hébergés par paire ou en groupe. Les femelles avec des chatons de moins de quatre semaines ou dans les deux dernières semaines de gestation peuvent être hébergées individuellement.
 
-Tableau 3. ― Chats
+Tableau 3
+
+Chats
 
 La superficie minimale dont une chatte et sa portée doivent disposer est la même que celle pour un chat seul et doit être augmentée graduellement de telle façon que, à l'âge de quatre mois, les chatons soient relogés conformément aux exigences d'espace prévues pour les adultes.
 
-Les aires d'alimentation et celles prévues pour les bacs à litière ne doivent pas être distantes de moins de 50 cm et ne doivent jamais être mises à la place l'une de l'autre.
+Les aires d'alimentation et celles prévues pour les bacs à litière ne doivent pas être distantes de moins de 50 centimètres et ne doivent jamais être mises à la place l'une de l'autre.
 
 |
 
-SOL
+SOL (*)
 
-(*) (m²)
+(m2)
 
 |
 
 PLATES-FORMES
 
-(m²)
+(m2)
 
 |
 
@@ -1446,9 +1264,7 @@ HAUTEUR
 
 |
 
-DATE
-
-d'application
+DATE D'APPLICATION
 
 |
 
@@ -1500,9 +1316,11 @@ Le compartiment intérieur doit représenter au moins 50 % de l'espace minimal d
 
 Les dimensions données ci-dessous sont fondées sur les valeurs requises pour les beagles, mais les races géantes, telles que le saint-bernard ou le wolfhound irlandais, doivent disposer d'un espace bien plus important que celui indiqué dans le tableau 4.1. Pour les races autres que le beagle, l'espace nécessaire doit être déterminé en consultation avec le personnel vétérinaire.
 
-Tableau 4.1. ― Chiens
+Tableau 4.1
 
-Un chien logé avec un autre chien ou en groupe peut être confiné dans la moitié de l'espace total prévu (2 m² pour un chien de moins de 20 kg, 4 m² pour un chien de plus de 20 kg) pendant qu'il est soumis à des procédures au sens de la présente directive, si cet isolement est indispensable pour des motifs scientifiques. La période de confinement ne peut dépasser quatre heures d'affilée.
+Chiens
+
+Un chien logé avec un autre chien ou en groupe peut être confiné dans la moitié de l'espace total prévu (2 m2 pour un chien de moins de 20 kg, 4 m2 pour un chien de plus de 20 kg) pendant qu'il est soumis à des procédures au sens de la présente directive, si cet isolement est indispensable pour des motifs scientifiques. La période de confinement ne peut dépasser quatre heures d'affilée.
 
 Une chienne allaitante et sa portée doivent disposer du même espace qu'une chienne seule de poids équivalent. Le compartiment de parturition doit être conçu de manière que la chienne puisse se déplacer dans un compartiment supplémentaire ou sur une plate-forme, à l'écart des chiots.
 
@@ -1516,7 +1334,7 @@ DIMENSION MINIMALE
 
 du compartiment
 
-(m²)
+(m2)
 
 |
 
@@ -1524,7 +1342,7 @@ SURFACE AU SOL
 
 pour un ou deux animaux
 
-(m²)
+(m2)
 
 |
 
@@ -1534,11 +1352,13 @@ supplémentaire ajouter
 
 un minimum de
 
-(m²)
+(m2)
 
 |
 
-HAUTEUR MINIMALE
+HAUTEUR
+
+minimale
 
 (m)
 
@@ -1550,21 +1370,31 @@ d'application
 
 |
 
-Jusqu'à 20
+jusqu'à 20
+
+plus de 20
 
 |
 
 4
 
+8
+
 |
+
+4
+
+8
+
+|
+
+2
 
 4
 
 |
 
 2
-
-|
 
 2
 
@@ -1574,27 +1404,9 @@ Jusqu'à 20
 
 |
 
-Plus de 20
+Tableau 4.2
 
-|
-
-8
-
-|
-
-8
-
-|
-
-4
-
-|
-
-2
-
-|
-
-Tableau 4.2. ― Chiens : après le sevrage
+Chiens après le sevrage
 
 POIDS DU CHIEN
 
@@ -1606,15 +1418,15 @@ DIMENSION MINIMALE
 
 du compartiment
 
-(m²)
+(m2)
 
 |
 
 SURFACE AU SOL
 
-par animal
+minimale par animal
 
-(m²)
+(m2)
 
 |
 
@@ -1624,23 +1436,53 @@ HAUTEUR MINIMALE
 
 |
 
-DATE
-
-d'application
+DATE D'APPLICATION
 
 |
 
-Jusqu'à 5
+jusqu'à 5
+
+de plus de 5 à 10
+
+de plus de 10 à 15
+
+de plus de 15 à 20
+
+plus de 20
 
 |
 
 4
 
+4
+
+4
+
+4
+
+8
+
 |
 
 0,5
 
+1,0
+
+1,5
+
+2
+
+4
+
 |
+
+2
+
+2
+
+2
+
+2
 
 2
 
@@ -1650,73 +1492,11 @@ Jusqu'à 5
 
 |
 
-De plus de 5 à 10
-
-|
-
-4
-
-|
-
-1,0
-
-|
-
-2
-
-|
-
-De plus de 10 à 15
-
-|
-
-4
-
-|
-
-1,5
-
-|
-
-2
-
-|
-
-De plus de 15 à 20
-
-|
-
-4
-
-|
-
-2
-
-|
-
-2
-
-|
-
-Plus de 20
-
-|
-
-8
-
-|
-
-4
-
-|
-
-2
-
-|
-
 2.5. Furets
 
-Tableau 5. ― Furets
+Tableau 5
+
+Furets
 
 |
 
@@ -1724,95 +1504,69 @@ DIMENSION MINIMALE
 
 du compartiment
 
-(m²)
+(cm2)
 
 |
 
 SURFACE AU SOL
 
-par animal
+minimale par animal
 
-(m²)
+(cm2)
 
 |
 
 HAUTEUR MINIMALE
 
-(m)
+(cm)
 
 |
 
-DATE
-
-d'application
+DATE D'APPLICATION
 
 |
 
 Animaux jusqu'à 600 g
 
+Animaux de plus de 600 g
+
+Mâles adultes
+
+Femelles et jeunes
+
 |
 
 4 500
+
+4 500
+
+6 000
+
+5 400
 
 |
 
 1 500
 
+3 000
+
+6 000
+
+5 400
+
 |
+
+50
+
+50
+
+50
 
 50
 
 |
 
 1er janvier 2017
-
-|
-
-Animaux de plus de 600 g
-
-|
-
-4 500
-
-|
-
-3 000
-
-|
-
-50
-
-|
-
-Mâles adultes
-
-|
-
-6 000
-
-|
-
-6 000
-
-|
-
-50
-
-|
-
-Femelles et jeunes
-
-|
-
-5 400
-
-|
-
-5 400
-
-|
-
-50
 
 |
 
@@ -1822,7 +1576,9 @@ Les jeunes primates ne doivent pas être séparés de leur mère avant l'âge de
 
 L'environnement doit permettre aux primates de se livrer quotidiennement à des activités complexes. Le compartiment doit leur permettre d'adopter des comportements aussi variés que possible, leur donner un sentiment de sécurité et leur offrir un environnement assez complexe pour leur permettre de courir, marcher, grimper et sauter.
 
-Tableau 6.1. ― Ouistitis et tamarins
+Tableau 6.1
+
+Ouistitis et tamarins
 
 |
 
@@ -1832,9 +1588,11 @@ du compartiment au sol
 
 pour un (*) ou deux animaux
 
-plus les petits jusqu'à l'âge de 5 mois
+plus les petits
 
-(m²)
+jusqu'à l'âge de 5 mois
+
+(m2)
 
 |
 
@@ -1844,7 +1602,7 @@ par animal supplémentaire
 
 au-dessus de 5 mois
 
-(m³)
+(m3)
 
 |
 
@@ -1852,13 +1610,11 @@ HAUTEUR MINIMALE
 
 du compartiment
 
-(m) (**)
+(m) (* *)
 
 |
 
-DATE
-
-d'application
+DATE D'APPLICATION
 
 |
 
@@ -1906,13 +1662,15 @@ Tamarins
 
 Les jeunes ouistitis et tamarins ne doivent pas être séparés de leur mère avant l'âge de huit mois.
 
-Tableau 6.2. ― Saïmiris
+Tableau 6.2
+
+Saïmiris
 
 SURFACE AU SOL MINIMALE
 
 pour un (*) ou deux animaux
 
-(m²)
+(m2)
 
 |
 
@@ -1922,7 +1680,7 @@ par animal supplémentaire
 
 de plus de 6 mois
 
-(m³)
+(m3)
 
 |
 
@@ -1934,9 +1692,7 @@ du compartiment
 
 |
 
-DATE
-
-d'application
+DATE D'APPLICATION
 
 |
 
@@ -1962,7 +1718,9 @@ d'application
 
 Les jeunes saïmiris ne doivent pas être séparés de leur mère avant l'âge de six mois.
 
-Tableau 6.3. ― Macaques et vervets (*)
+Tableau 6.3
+
+Macaques et vervets (*)
 
 |
 
@@ -1970,7 +1728,7 @@ DIMENSION MINIMALE
 
 du compartiment
 
-(m²)
+(m2)
 
 |
 
@@ -1978,7 +1736,7 @@ VOLUME MINIMAL
 
 du compartiment
 
-(m³)
+(m3)
 
 |
 
@@ -1986,7 +1744,7 @@ VOLUME MINIMAL
 
 par animal
 
-(m³)
+(m3)
 
 |
 
@@ -2016,7 +1774,7 @@ Animaux de moins de 3 ans (**)
 
 |
 
-1,8
+1,0
 
 |
 
@@ -2064,8 +1822,6 @@ Animaux détenus pour la reproduction (****)
 
 |
 
-(*) Les animaux ne doivent être hébergés individuellement que dans des circonstances exceptionnelles.
-
 (**) Un compartiment de dimensions minimales peut héberger jusqu'à trois animaux.
 
 (***) Un compartiment de dimensions minimales peut héberger jusqu'à deux animaux.
@@ -2076,7 +1832,9 @@ Animaux détenus pour la reproduction (****)
 
 Les jeunes macaques et vervets ne doivent pas être séparés de leur mère avant l'âge de huit mois.
 
-Tableau 6.4. ― Babouins (*)
+Tableau 6.4
+
+Babouins (*)
 
 |
 
@@ -2084,7 +1842,7 @@ DIMENSION MINIMALE
 
 du compartiment
 
-(m²)
+(m2)
 
 |
 
@@ -2092,7 +1850,7 @@ VOLUME MINIMAL
 
 du compartiment
 
-(m³)
+(m3)
 
 |
 
@@ -2100,7 +1858,7 @@ VOLUME MINIMAL
 
 par animal
 
-(m³)
+(m3)
 
 |
 
@@ -2178,12 +1936,12 @@ Animaux détenus pour la reproduction (***)
 
 |
 
-(*) Les animaux de doivent être hébergés individuellement que dans des circonstances exceptionnelles.
-
-(**) Un compartiment de dimensions minimales peut héberger jusqu'à trois animaux.
+(**) Un compartiment de dimensions minimales peut héberger jusqu'à deux animaux.
 
 (***) Dans une colonie reproductrice, aucun espace/volume supplémentaire n'est requis pour de jeunes animaux jusqu'à l'âge de deux ans hébergés avec leur mère.
 
 |
 
 Les jeunes babouins ne doivent pas être séparés de leur mère avant l'âge de huit mois.
+
+(*) Les animaux ne doivent être hébergés individuellement que dans des circonstances exceptionnelles.

@@ -1,5 +1,7 @@
 # Article Annexe I
 
+ÉLÉMENTS COMPOSANT LE DOSSIER D'AGRÉMENT
+
 Nom, prénom et coordonnées du directeur ou du responsable de l'établissement et coordonnées de l'établissement.
 
 Pour un établissement utilisateur : nom et cordonnées du comité d'éthique auquel il est rattaché.
