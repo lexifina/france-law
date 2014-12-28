@@ -1,8 +1,6 @@
 # Article Annexe I
 
-LISTE DES ESPACES NATURELS PROTÉGÉS CONCERNÉS ET DES RECETTES RÉGIONALES DES DOUANES CHARGÉES DE PERCEVOIR
-
-LA TAXE SUR LES PASSAGERS MARITIMES PRÉVUE PAR L'ARTICLE 285 QUATER DU CODE DES DOUANES
+LISTE DES ESPACES NATURELS PROTÉGÉS CONCERNÉS ET DES RECETTES RÉGIONALES DES DOUANES CHARGÉES DE PERCEVOIR LA TAXE SUR LES PASSAGERS MARITIMES PRÉVUE PAR L'ARTICLE 285 QUATER DU CODE DES DOUANES
 
 ESPACE NATUREL PROTÉGÉ
 
@@ -32,7 +30,7 @@ Basse-Normandie RR, 44, quai Vendeuvre, 14019 Caen
 
 |
 
-Espaces terrestres classés au titre de l'article L. 341-2 et terrains du Conservatoire de l'espace littoral et des rivages lacustres situés sur l'archipel de Chausey (Manche)
+Espaces terrestres classés au titre de l'article L341-2 et terrains du Conservatoire de l'espace littoral et des rivages lacustres situés sur l'archipel de Chausey (Manche)
 
 |
 
@@ -48,7 +46,7 @@ Réserve naturelle nationale du Banc d'Arguin (Gironde)
 
 |
 
-Bureau d'Arcachon, les Huniers, 14 bis, quai du Capitaine-Allègre, 33311 Arcachon
+Bureau d'Arcachon, Les Huniers, 14 bis, quai Capitaine-Allègre, 33311 Arcachon
 
 |
 
@@ -80,7 +78,7 @@ Bretagne RR, 8, cours des Alliés, 35012 Rennes
 
 |
 
-Sites classés de l'Ile d'Ouessant et port de Lampaul (Finistère)
+Sites classés de l'île d'Ouessant et port de Lampaul (Finistère)
 
 |
 
@@ -104,7 +102,7 @@ Bretagne RR, 8, cours des Alliés, 35012 Rennes
 
 |
 
-Espaces terrestres et marins classés au titre de l'article L. 341-2 et territoires classés de la réserve naturelle nationale de Saint-Nicolas-de-Glénan situés sur l'archipel de Glénan, ainsi que le port de l'île de Saint-Nicolas (Finistère)
+Espaces terrestres et marins classés au titre de l'article L. 341-2 et territoires classés de la réserve naturelle nationale de Saint-Nicolas-des-Glénan situés sur l'archipel de Glénan, ainsi que le port de l'île de Saint-Nicolas (Finistère)
 
 |
 
@@ -152,7 +150,7 @@ Bretagne RR, 8, cours des Alliés, 35012 Rennes
 
 |
 
-Espaces terrestres et marins classés au titre de l'article L. 341-2, territoires classés de la réserve naturelle nationale François-Le Bail, port Tudy, port Lay, port Mélite et terrains du Conservatoire de l'espace littoral et des rivages lacustres situés sur l'île de Groix (Morbihan)
+Espaces terrestres et marins classés au titre de l'article L. 341-2, territoires classés de la réserve naturelle nationale François-le-Bail, port Tudy, port Lay, port Mélite et terrains du Conservatoire de l'espace littoral et des rivages lacustres situés sur l'île de Groix (Morbihan)
 
 |
 
@@ -192,7 +190,9 @@ Espaces terrestres et marins classés en réserve naturelle nationale des Sept-I
 
 |
 
-Bureau de Saint-Brieuc, 3, impasse des Longs-Réages, 22193 Plérin
+Bureau de Saint-Brieuc,
+
+3, impasse des Longs-Réages, 22193 Plérin
 
 |
 
@@ -204,7 +204,9 @@ Sites classés de l'île de Bréhat et port de Bréhat (Côtes-d'Armor)
 
 |
 
-Bureau de Saint-Brieuc, 3, impasse des Longs-Réages, 22193 Plérin
+Bureau de Saint-Brieuc,
+
+3, impasse des Longs-Réages, 22193 Plérin
 
 |
 
@@ -320,7 +322,7 @@ Guadeloupe RR, 51, rue du Docteur-Pitat, 97100 Basse-Terre
 
 |
 
-Parc national de la Guadeloupe : îlet Pigeon, îlets du Grand Cul de Sac marin, mangroves du Grand Cul de Sac marin classés en cœur de parc national ainsi que l'aire maritime adjacente (Guadeloupe)
+Parc national de la Guadeloupe : Îlet pigeon, îlets du Grand Cul de Sac marin, mangroves du Grand Cul de Sac marin classés en coeur de parc national ainsi que l'aire maritime adjacente (Guadeloupe)
 
 |
 
@@ -356,7 +358,7 @@ Guyane RR, 24, rue Lallouette, 97305 Cayenne
 
 |
 
-Sites classés du massif des Calanques (Bouches-du-Rhône)
+Parc national des Calanques (Bouches-du-Rhône)
 
 |
 
@@ -372,11 +374,11 @@ Ilet Madame (Martinique)
 
 |
 
-Bureau de Fort-de-France port, centre d'Affaires Agora bâtiment D ZAC Etang Z'abricot, BP 629,97200 Fort-de-France Cedex
+Bureau de Fort de France port, centre d'affaires Agora bât. D, ZAC Etang Z'abricot, BP 629,97200 Fort-de-France Cedex
 
 |
 
-Martinique RR, centre d'affaires agora bât D, ZAC Etang Z'abricot, BP 629,97261 Fort-de-France Cedex
+Martinique RR, centre d'affaires Agora bât. D, ZAC Etang Z'abricot, BP 629 97261 Fort-de-France Cedex
 
 |
 
@@ -384,7 +386,7 @@ Sites classés de l'île d'Yeu, port Joinville et port de La Meule (Vendée)
 
 |
 
-Bureau des Sables-d'Olonne, rue Alain-Gautier, parc Actilone, 85108 Olonne-sur-mer
+Bureau des Sables-d'Olonne, rue Alain-Gautier, parc Actilone, 85108 Olonne-sur-Mer
 
 |
 
@@ -412,23 +414,11 @@ Bureau de Perpignan, immeuble Le Carré, 3, avenue de Rome, BP 5156,66031 Perpig
 
 |
 
-Perpignan RR, 1, BD Kennedy, immeuble Espadon, 66028 Perpignan Cedex
+Perpignan RR, 1, boulevard Kennedy, immeuble Espadon, 66028 Perpignan Cedex
 
 |
 
-Sites classés du cap Oullestrell situé sur les communes de Banyuls-sur-Mer et Port-Vendres ainsi que le domaine public correspondant maritime (Pyrénées-Orientales)
-
-|
-
-Bureau de Perpignan, immeuble Le Carré, 3, avenue de Rome, BP 5156,66031 Perpignan Cedex
-
-|
-
-Perpignan RR, 1 BD Kennedy, immeuble Espadon, 66028 Perpignan Cedex
-
-|
-
-Sites classés du cap Béar et ses abords (Pyrénées-Orientales)
+Sites classés du Cap Oullestrell situé sur les communes de Banyuls-sur-Mer et Port-Vendres ainsi que le domaine public correspondant maritime (Pyrénées-Orientales)
 
 |
 
@@ -436,11 +426,11 @@ Bureau de Perpignan, immeuble Le Carré, 3, avenue de Rome, BP 5156,66031 Perpig
 
 |
 
-Perpignan RR, 1 BD Kennedy, immeuble Espadon, 66028 Perpignan Cedex
+Perpignan RR, 1, boulevard Kennedy, immeuble Espadon, 66028 Perpignan Cedex
 
 |
 
-Sites classés du cap de l'Abeille (Pyrénées-Orientales)
+Sites classés du Cap Béar et ses abords (Pyrénées-Orientales)
 
 |
 
@@ -448,11 +438,23 @@ Bureau de Perpignan, immeuble Le Carré, 3, avenue de Rome, BP 5156,66031 Perpig
 
 |
 
-Perpignan RR, 1 BD Kennedy, immeuble Espadon, 66028 Perpignan Cedex
+Perpignan RR, 1, boulevard Kennedy, immeuble Espadon, 66028 Perpignan Cedex
 
 |
 
-Espaces terrestres et marins classés au titre de l'article L. 341-2, terrains du Conservatoire de l'espace littoral et des rivages lacustres situés sur l'île d'Aix ainsi que le port de la Rade (Charente-Maritime)
+Sites classés du Cap de l'Abeille (Pyrénées-Orientales)
+
+|
+
+Bureau de Perpignan, immeuble Le Carré, 3, avenue de Rome, BP 5156,66031 Perpignan Cedex
+
+|
+
+Perpignan RR, 1, boulevard Kennedy, immeuble Espadon, 66028 Perpignan Cedex
+
+|
+
+Espaces terrestres et marins classés au titre de l'article L. 341-2, terrains du Conservatoire de l'espace littoral et des rivages lacustres situés sur l'île d'Aix, ainsi que le port de la Rade (Charente-Maritime)
 
 |
 
@@ -466,13 +468,13 @@ Poitiers RR, 32, rue Salvador-Allende, 86020 Poitiers
 
 Parc national de Port-Cros :
 
-- île de Port-Cros (dont le port de Port-Cros), île de Bagaud, île de la Gabinière, classés en cœur de parc national, ainsi que l'aire maritime adjacente (Var) ;
+-île de Port-Cros (dont le port de Port-Cros), île de Bagaud, île de la Gabinière, classés en cœur de parc national, ainsi que l'aire maritime adjacente (Var)
 
-- espaces terrestres et maritimes situés sur l'île de Porquerolles et classés en cœur de parc national en aire maritime adjacente (dont le port de Porquerolles) et en site classé au titre de l' article L. 341-2 du code de l'environnement (Var)
+-Espaces terrestres et maritimes situés sur l'île de Porquerolles et classés en cœur de parc national, en aire maritime adjacente (dont le port de Porquerolles) et en site classé au titre de l'article L. 341-2 du code de l'environnement (Var)
 
 |
 
-Bureau de Toulon-la-Seyne, port marchand, 83070 Toulon
+Bureau de Toulon-La-Seyne, port marchand, 83070 Toulon
 
 |
 
@@ -484,10 +486,10 @@ Réserve naturelle nationale marine de La Réunion (La Réunion)
 
 |
 
-Bureau du Port, Hôtel des douanes, boulevard Mascareignes ZAC Belvédère, BP 52003,97821 Le Port Cedex
+Bureau de Le Port, hôtel des douanes, boulevard Mascareignes ZAC Belvédère, BP 52003,97821 Le Port Cedex
 
 |
 
-La Réunion RR, 13, rue Jules-Auber, BP 02041,97488 Saint-Denis Cedex
+Réunion RR, 13, rue Jules-Auber, BP 02041,7488 Saint-Denis Cedex 9
 
 |
