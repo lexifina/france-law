@@ -202,9 +202,7 @@ Elle veille à exploiter les possibilités offertes par la technologie numériqu
 
 Article 2
 
-Pluralisme des courants de pensée et d'opinion et diversité
-
-de la création et de la production de programmes
+Pluralisme des courants de pensée et d'opinion et diversité de la création et de la production de programmes
 
 France Télévisions développe un ensemble de services de communication audiovisuelle disponibles sur différents supports dont la ligne éditoriale est notamment définie à l'article 3 et qui, par leur diversité, contribuent au pluralisme des courants de pensée et d'opinion et à la création et à la production de programmes.
 
@@ -332,9 +330,7 @@ L'obligation annuelle de diffusion de la société ne peut être inférieure à 
 
 Article 7
 
-Les programmes scientifiques
-
-et l'éducation au développement durable
+Les programmes scientifiques et l'éducation au développement durable
 
 France Télévisions diffuse à des heures de large audience, notamment en première partie de soirée, des programmes de connaissance et de décryptage, permettant de vulgariser la science et de sensibiliser aux problématiques du développement durable : magazine, documentaire, fiction, docu-fiction.
 
@@ -386,7 +382,7 @@ La société veille à diversifier sur ses services de télévision les horaires
 
 IV. ― France Télévisions consacre chaque année une part de son chiffre d'affaires annuel net de l'exercice précédent à des dépenses contribuant au développement de la production d'œuvres audiovisuelles européennes ou d'expression originale française.
 
-Cette contribution est au moins égale à 18,5 % en 2009,19 % en 2010,19,5 % en 2011 et 20 % à compter de 2012.
+Cette contribution est au moins égale à 18,5 % en 2009, 19 % en 2010, 19,5 % en 2011 et 20 % à compter de 2012.
 
 Elle est intégralement réalisée dans des œuvres patrimoniales énumérées à la première phrase du deuxième alinéa du 3° de l'article 27 de la loi n° 86-1067 du 30 septembre 1986 et indépendantes au sens de l'article 15 du décret n° 2010-747 du 2 juillet 2010. Toutefois, dans la limite de 5 % de son montant, la contribution peut être réalisée avec des entreprises qui ne sont pas indépendantes au sens de l'article 15 du décret précité.
 
@@ -508,9 +504,7 @@ III. ― Les nouveaux engagementssur la programmation
 
 Article 19
 
-Les horaires de programmation
-
-Les programmes de soirée débutent vers 20 h 35 sur toutes les chaînes de France Télévisions afin que tous les Français puissent avoir accès à une véritable deuxième partie de soirée, entre 22 heures et 22 h 30. Ces horaires sont adaptés en outre-mer.
+Les horaires de programmation ¶
 
 La société met en œuvre les règles de respect des horaires et de la programmation définies en accord avec le Conseil supérieur de l'audiovisuel.
 
@@ -724,7 +718,7 @@ France Télévisions veille au respect de la personne humaine et de sa dignité.
 
 La société s'abstient de diffuser des programmes susceptibles de nuire à l'épanouissement physique, mental ou moral des mineurs. A ce titre, la société s'abstient de diffuser des programmes comprenant des scènes de pornographie et de montrer, notamment dans les journaux télévisés, de la complaisance pour la violence.
 
-Elle met en œuvre, pour l'ensemble de son offre de programmes, le dispositif relatif à la protection du jeune public, notamment la classification des programmes et la signalétique, défini en accord avec le Conseil supérieur de l'audiovisuel.
+Elle met en œuvre le dispositif relatif à la protection du jeune public, notamment, pour les programmes diffusés sur ses services de télévision, la recommandation du Conseil supérieur de l'audiovisuel du 7 juin 2005 concernant la signalétique jeunesse et la classification des programmes.
 
 En cas de recours à des émissions de reconstitution de faits vécus, la société veille à montrer avec retenue et sans dramatisation complaisante la souffrance, le désarroi ou l'exclusion, et à informer le public de toute reconstitution ou scénarisation de faits réels.
 
@@ -800,9 +794,7 @@ II. ― Une télévision de service public au cœur de la cité
 
 Article 45
 
-L'expression du Parlement
-
-et des assemblées territoriales et locales
+L'expression du Parlement et des assemblées territoriales et locales
 
 France Télévisions rend compte des principaux débats des assemblées nationales, territoriales et locales sous le contrôle du bureau de chacune des assemblées et selon des modalités arrêtées d'un commun accord.
 
@@ -1204,15 +1196,9 @@ Pas de mandats de commercialisation relatifs à la diffusion télévisuelle en F
 
 6 Au premier euro de recette (hors recettes prévues au plan de financement), une fois le plan de financement (y compris l'apport du producteur) couvert.
 
-2) Œuvres d'animation
+2. Œuvres d'animation :
 
-|
-
-Séries
-
-|
-
-Unitaires
+UNITAIRES ET SÉRIES
 
 |
 
@@ -1224,111 +1210,95 @@ Inférieure à 30 %
 
 |
 
-Entre 30 % et 35 %
+Egale ou supérieure à 30 % ou égale
+
+ou supérieure à 2 millions d'euros (7)
 
 |
 
-Supérieure à 35 %
+Egale ou supérieure à 35 % ou égale
+
+ou supérieure à 2,3 millions d'euros (7)
 
 |
 
-Inférieure à 30 %
+Durée des droits (8)
 
 |
 
-Supérieure ou égale à 30 %
+30 mois
 
 |
 
-Durée des droits 6
+48 mois
+
++/-3 mois (9)
 
 |
 
-36 mois dont 9 à titre exclusif (possibilité d'une diffusion parallèle sur un service de télévision dont le financement fait appel à une rémunération de la part des usagers)
+48 mois ou jusqu'à 60 mois (10)
 
 |
 
-42 mois dont 18 à titre exclusif
+Période d'exclusivité (10-1)
 
 |
 
-48 mois à titre exclusif
+6 mois
 
 |
 
-36 mois dont 9 à titre exclusif (possibilité d'une diffusion parallèle sur un service de télévision dont le financement fait appel à une rémunération de la part des usagers)
+12 mois
+
++/-3 mois (9)
 
 |
 
-42 mois dont 18 à titre exclusif
+Exclusivité totale ou avec fenêtre de codiffusion au bénéfice d'un diffuseur tiers démarrant à partir du 13e mois des droits de France Télévisions (10)
 
 |
 
-Nombre de diffusions télévisuelles
+Nombre de diffusions
 
 |
 
-6 multidiffusions et 6 multidiffusions réservées spécifiquement aux services de télévision diffusés sur Internet dits " web TV ".
+Diffusion illimitée pour les œuvres financées par France Télévisions (6 multidiffusions dans le cas contraire) à plus de 25 %
 
 |
 
-Illimité
+Diffusion illimitée
 
 |
 
-Illimité
+Diffusion illimitée
 
 |
 
-6 multidiffusions et 6 multidiffusions réservées spécifiquement aux services de télévision diffusés sur Internet dits " web TV ".
+Télévision de rattrapage
 
 |
 
-6 multidiffusions et 6 multidiffusions réservées spécifiquement aux services de téfévision diffusés sur Internet dits " web TV ".
+7 jours après la diffusion télévisuelle/ en cas d'exploitation payante ou de requête d'un second diffuseur figurant au plan de financement, 48 heures en programmation quotidienne ou 7 jours en programmation hebdomadaire, après la diffusion télévisuelle.
 
 |
 
-Droits d'exploitation sur un service de média audiovisuel à la demande (SMAd) 8
+Prédiffusion
 
 |
 
-Durée de mise à disposition sur un service dit de télévision de rattrapage
+Jusqu'à 90 jours avant la 1re diffusion pour les séries/ Jusqu'à 7 jours avant la 1re diffusion pour les unitaires.
 
 |
 
-48 heures en programmation quotidienne ou 7 jours en programmation hebdomadaire, à compter de la première diffusion télévisuelle
+Và D gratuite
 
 |
 
-Délai de mise à disposition en avant-première
+3 épisodes renouvelés tous les deux mois au cours de la période des droits antennes (10-2).
 
 |
 
-90 jours avant la première diffusion télévisuelle
-
-|
-
-7 jours avant la première diffusion télévisuelle
-
-|
-
-Exploitation payante sur un SMAd 7
-
-|
-
-Exclusivité pendant le premier cycle d'exploitation 9
-
-|
-
-Exclusivité pendant 30 jours
-
-|
-
-puis droits non exclusifs pendant le reste de la durée des droits
-
-|
-
-Droit à recettes 10
+Droit à recettes (10-4)
 
 |
 
@@ -1336,15 +1306,15 @@ Non
 
 |
 
-1 % de droit à recettes par pourcentage apporté par l'éditeur au-delà de 30 %
+1 % de droit à recettes par pourcentage apporté au financement au-delà de 30 %.
 
 |
 
-Non
+Diffusion non linéaire payante
 
 |
 
-1 % de droit à recettes par pourcentage apporté par l'éditeur au-delà de 30 %
+Contrat avec partage de recettes avec le producteur. Possibilité d'exploitation en parallèle par le producteur sur son site ou site dédié avec association marque FTV Exclusivité limitée au premier cycle d'exploitation pour les séries (10-3) et à 30 jours pour les unitaires.
 
 |
 
@@ -1352,17 +1322,29 @@ Mandats
 
 |
 
-Pas de mandats de commercialisation relatifs à la diffusion télévisuelle en France. Autres mandats négociés aux conditions du marché avec droits d'option prioritaire pour FTD lorsque l'apport de FTV est supérieur à 30 %.
+Pas de mandats de commercialisation relatifs à la diffusion télévisuelle en France. Autres mandats négociés aux conditions
+
+du marché avec droits d'option prioritaire pour FTD lorsque l'apport de FTV est supérieur à 30 %.
 
 |
 
-7 Pour une série, la date de début des droits est fixée soit au jour de la diffusion du 1er épisode de la série, soit au plus tard à la date d'acceptation du matériel de diffusion des deux tiers des épisodes de celle-ci. La première des deux dates s'applique. Si la seconde date s'applique, le producteur s'engage à livrer le solde des épisodes dans un délai de 3 mois. Dans le cas contraire, les parties fixeront de gré à gré une nouvelle date pour le début des droits. Pour un unitaire, la date de début des droits est fixée soit au jour de sa 1re diffusion, soit au plus tard 3 mois après sa livraison. La première des deux dates s'applique.
+(7) Ce seuil exprimé en valeur absolue (2 et 2,3 millions d'euros) s'entend pour la commande de 26 demi-heures commerciales. Il est calculé au prorata pour les autres formats.
 
-8 Contrat avec partage de recettes entre l'éditeur et le producteur. Possibilité d'une exploitation en parallèle par le producteur sur son SMAd ou SMAd dédié, associant la dénomination " France Télévisions ".
+(8) Pour une série, la date de début des droits est fixée soit au jour de la diffusion du premier épisode, soit au plus tard à la date d'acceptation des copies antennes des deux tiers des épisodes de celle-ci. La première des deux dates s'applique. Le producteur s'engage à livrer le solde des épisodes dans un délai de 3 mois. Dans le cas contraire, les parties fixeront de gré à gré une nouvelle date pour le début des droits. Pour un unitaire, la date de début des droits est fixée soit au jour de sa première diffusion, soit au plus tard 3 mois après sa livraison. La première des deux dates s'applique.
 
-9 Le premier cycle d'exploitation s'entend de la diffusion de l'ensemble des épisodes d'une saison. La durée de ce premier cycle ne peut excéder 12 mois à compter de la diffusion du premier épisode.
+(9) Variation possible de la durée des droits de diffusion et concomitamment de la durée d'exclusivité (dans la limite de +/-3 mois) : une augmentation de 1 mois de la durée des droits de diffusion entraîne une réduction de 1 mois de la durée d'exclusivité ou une diminution de 1 mois de la durée des droits de diffusion entraîne une augmentation de 1 mois de la durée d'exclusivité/ le tout dans la limite de 51 mois de droits de diffusion et 9 mois d'exclusivité ou de 45 mois de droits de diffusion et 15 mois d'exclusivité.
 
-10 Au premier euro de recette (hors recettes prévues au plan de financement), une fois le plan de financement (y compris l'apport du producteur) couvert.
+(10) Dans l'hypothèse où une fenêtre de codiffusion est concédée par France Télévisions à un diffuseur tiers, la durée des droits de diffusion initiale de France Télévisions de 48 mois avec exclusivité totale passe à 60 mois, avec une fenêtre de codiffusion au bénéfice de ce diffuseur tiers qui démarre à partir du 13e mois des droits de France Télévisions. La date de démarrage de cette codiffusion est fixée de gré à gré entre les parties.
+
+(10-1) Sans préjudice d'une éventuelle première fenêtre de diffusion d'une chaîne payante intervenant avant celle de France Télévisions.
+
+(10-2) Ces épisodes peuvent faire l'objet d'un téléchargement temporaire, pendant une durée maximale de 30 jours, sur un récepteur mobile tel qu'un ordinateur, une tablette ou un téléphone afin de permettre leur visionnage sans limitation, dans des conditions où la connexion internet est inexistante ou insuffisante pour accéder à la plate-forme jeunesse de France Télévisions (zones du territoire non couvertes, voiture, train, avion par exemple). Dès que le récepteur retrouve une connexion internet suffisante, les téléchargements effectués s'effacent automatiquement et, en tout état de cause, dans un délai maximal de 30 jours.
+
+(10-3) Par premier cycle d'exploitation, il faut entendre la diffusion de l'ensemble des épisodes d'une saison (limité à 12 mois après la diffusion du premier épisode).
+
+(10-4) Au premier euro de recette (hors recettes prévues au plan de financement), une fois le plan de financement (dont l'apport producteur) couvert.
+
+|
 
 3) Documentaire-captation ou récréation de spectacles vivants
 
