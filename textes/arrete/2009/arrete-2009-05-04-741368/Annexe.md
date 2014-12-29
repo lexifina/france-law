@@ -1,14 +1,14 @@
 # Article Annexe
 
-CONVENTION CONCLUE ENTRE L'ÉTAT ET LA SGFGAS RELATIVE À L'AVANCE REMBOURSABLE SANS INTÉRÊT DESTINÉE AU FINANCEMENT DE TRAVAUX DE RÉNOVATION AFIN D'AMÉLIORER LA PERFORMANCE ÉNERGÉTIQUE DES LOGEMENTS, DÉNOMMÉE "ÉCO-PRÊT À TAUX ZÉRO"
+CONVENTION CONCLUE ENTRE L'ÉTAT ET LA SGFGAS RELATIVE À L'AVANCE REMBOURSABLE SANS INTÉRÊT DESTINÉE AU FINANCEMENT DE TRAVAUX DE RÉNOVATION AFIN D'AMÉLIORER LA PERFORMANCE ÉNERGÉTIQUE DES LOGEMENTS, DÉNOMMÉE " ÉCO-PRÊT À TAUX ZÉRO "
 
 Entre :
 
-L'Etat, représenté conjointement par le ministre d'Etat, ministre de l'écologie, de l'énergie, du développement durable et de l'aménagement du territoire, la ministre de l'économie, de l'industrie et de l'emploi, la ministre du logement et le ministre du budget, des comptes publics et de la fonction publique (ci-après dénommé l'"Etat"),
+L'Etat, représenté conjointement par le ministre d'Etat, ministre de l'écologie, de l'énergie, du développement durable et de l'aménagement du territoire, la ministre de l'économie, de l'industrie et de l'emploi, la ministre du logement et le ministre du budget, des comptes publics et de la fonction publique (ci-après dénommé l'" Etat "),
 
 D'une part, et
 
-La Société de gestion du fonds de garantie de l'accession sociale à la propriété, société anonyme au capital de 825 015 €, dont le siège social est 13, rue Auber, 75009 Paris, immatriculée au registre du commerce et des sociétés de Paris sous le numéro B 390 818 235, représentée par M. François de RICOLFIS, directeur général (ci-après dénommée la "SGFGAS"),
+La Société de gestion du fonds de garantie de l'accession sociale à la propriété, société anonyme au capital de 825 015 €, dont le siège social est 13, rue Auber, 75009 Paris, immatriculée au registre du commerce et des sociétés de Paris sous le numéro B 390 818 235, représentée par M. François de RICOLFIS, directeur général (ci-après dénommée la " SGFGAS "),
 
 D'autre part,
 
@@ -26,17 +26,39 @@ Vu l'arrêté du 30 mars 2009 relatif aux conditions d'application de dispositio
 
 Vu la délibération du conseil d'administration de la SGFGAS en date du 26 mars 2009 autorisant, après consultation des commissaires du Gouvernement, son directeur général à conclure avec l'Etat une convention précisant les modalités d'octroi et de suivi par la SGFGAS des crédits d'impôts dus aux établissements de crédit au titre de la distribution des avances remboursables sans intérêt, et à conclure avec les établissements de crédit habilités à distribuer l'éco-prêt à taux zéro une convention précisant les modalités d'octroi, de contrôle et de suivi de ces crédits d'impôt ;
 
+Vu la loi n° 65-557 du 10 juillet 1965 fixant le statut de la copropriété des immeubles bâtis, notamment ses articles 25,26-5 et 26-8 ;
+
+Vu la loi n° 2011-1978 du 28 décembre 2011 de finances rectificative pour 2011, notamment son article 43,
+
+Vu la loi n° 2013-1278 du 29 décembre 2013 de finances initiale pour 2014, notamment son article 74 ;
+
+Vu le décret n° 2013-1297 du 27 décembre 2013 relatif aux dispositions particulières à l'octroi aux syndicats de copropriétaires d'avances remboursables sans intérêt destinées au financement de travaux de rénovation afin d'améliorer la performance énergétique des logements anciens ;
+
+Vu l'arrêté modifié du 30 mars 2009 relatif aux conditions d'application de dispositions concernant les avances remboursables sans intérêt destinées au financement de travaux de rénovation afin d'améliorer la performance énergétique des logements anciens ;
+
+Vu la délibération du conseil d'administration de la SGFGAS en date du 29 septembre 2014 autorisant, après consultation des commissaires du Gouvernement, son directeur général à conclure, avec l'Etat et avec les établissements de crédit affiliés, un avenant à la convention relative à l'avance remboursable ne portant pas intérêt pour le financement de travaux d'amélioration de la performance énergétique des logements anciens. Cet avenant a notamment pour objet l'octroi d'éco-prêts aux syndicats de copropriétaires ;
+
+Vu l'arrêté du 23 décembre 2014 relatif aux conditions d'application de dispositions concernant les avances remboursables sans intérêts octroyées aux syndicats de copropriétaires et destinées au financement de travaux de rénovation afin d'améliorer la performance énergétique des logements anciens,
+
 Vu la convention type à conclure entre chacun des établissements de crédit et l'Etat pour la distribution de l'éco-prêt à taux zéro, approuvée par arrêté interministériel,
 
 Il a préalablement été rappelé ce qui suit :
 
 1. En application des dispositions de l'article 244 quater U du code général des impôts, il a été créé une avance remboursable ne portant pas intérêt pour le financement de travaux d'amélioration de la performance énergétique de logements destinés à être utilisés en tant que résidence principale.
 
-Cette avance dénommée l'éco-prêt à taux zéro est désignée ci-après "le prêt" ou "les prêts".
+Cette avance dénommée l'éco-prêt à taux zéro est désignée ci-après " le prêt " ou " les prêts ".
 
 La nature des travaux mentionnés ci-dessus et les bénéficiaires des prêts sont limitativement énumérés par la loi et les textes pris pour l'application de celle-ci (1).
 
 (1) En cas de modification des textes, les conventions seront considérées comme de facto adaptées.
+
+1. Bis. En application des dispositions de l'article 244 quater U du code général des impôts et notamment de son VI bis, l'avance remboursable ne portant pas intérêt pour le financement de travaux d'amélioration de la performance énergétique de logements, dénommée éco-prêt individuel, peut être accordée dans les mêmes conditions à un syndicat de copropriétaires pour financer les travaux d'intérêt collectif réalisés sur les parties privatives prévus au g de l'article 25 de la loi n° 65-557 du 10 juillet 1965 ainsi que les travaux réalisés sur les parties et équipements communs d'un immeuble.
+
+Au moins 75 % des quotes-parts de copropriété doivent être comprises dans des lots affectés à l'usage d'habitation, détenus soit par des personnes physiques membres du syndicat de copropriétaires, soit par des sociétés civiles non soumises à l'impôt sur les sociétés dont au moins un des associés est une personne physique, membres du syndicat de copropriétaires et être utilisés ou destinés à être utilisés en tant que résidence principale.
+
+Ces travaux peuvent porter sur tout ou partie des bâtiments d'une copropriété.
+
+Il est précisé que pour ce prêt dénommé éco-prêt copropriétés, l'emprunteur s'entend du syndicat de copropriétaires, représenté par le syndic.
 
 2. Conformément aux dispositions de l'article L. 312-1, dernier alinéa, du code de la construction et de l'habitation, il a été créé une société anonyme dénommée Société de gestion du fonds de garantie de l'accession sociale à la propriété (SGFGAS), dont l'objet social est :
 
@@ -46,23 +68,25 @@ Et plus généralement toutes opérations de quelque nature qu'elles soient, éc
 
 Chargée successivement de la gestion des dispositifs Fonds de garantie de l'accession sociale à la propriété (ancien puis nouveau), d'une part, et nouveau prêt à 0 %, d'autre part, la SGFGAS a accepté à la demande de l'Etat et conformément aux dispositions du IV de l'article 244 quater U du code général des impôts d'étendre son activité à la gestion et au suivi des crédits d'impôts dus aux établissements de crédit au titre des éco-prêts à taux zéro qu'ils accordent.
 
-3.L'éco-prêt à taux zéro est défini à l'article 244 quater U du code général des impôts, complété de ses textes d'application.
+3. L'éco-prêt à taux zéro est défini à l'article 244 quater U du code général des impôts, complété de ses textes d'application.
 
 4. La présente convention est conclue par la SGFGAS en application de l'article R. 319-12 du code de la construction et de l'habitation.
 
+4. bis. Les termes de la convention, notamment son article 10 bis, résultent également de l'avenant " éco-prêt copropriétés " conclu entre l'Etat et la SGFGAS.
+
 5. Une convention sera conclue entre la SGFGAS et chacun des établissements de crédit, ayant pour objet :
 
-- la définition des modalités de déclaration des éco-prêts à taux zéro octroyés par les établissements de crédit ;
+-la définition des modalités de déclaration des éco-prêts à taux zéro octroyés par les établissements de crédit ;
 
-- la définition des modalités de déclaration des montants de l'avantage indûment perçu au titre des éco-prêts à taux zéro octroyés par les établissements de crédit ;
+-la définition des modalités de déclaration des montants de l'avantage indûment perçu au titre des éco-prêts à taux zéro octroyés par les établissements de crédit ;
 
-- le contrôle a priori de l'éligibilité des éco-prêts à taux zéro déclarés par les établissements de crédit à la SGFGAS ;
+-le contrôle a priori de l'éligibilité des éco-prêts à taux zéro déclarés par les établissements de crédit à la SGFGAS ;
 
-- la détermination et la publication des conditions de remboursement des éco-prêts à taux zéro ;
+-la détermination et la publication des conditions de remboursement des éco-prêts à taux zéro ;
 
-- la définition des éléments de calcul et le suivi pour le compte de l'Etat des crédits d'impôts dus au titre des avances remboursables (ci-après dénommée le crédit d'impôt) ;
+-la définition des éléments de calcul et le suivi pour le compte de l'Etat des crédits d'impôts dus au titre des avances remboursables (ci-après dénommée le crédit d'impôt) ;
 
-- le contrôle a posteriori de l'éligibilité des éco-prêts à taux zéro déclarés par les établissements de crédit à la SGFGAS.
+-le contrôle a posteriori de l'éligibilité des éco-prêts à taux zéro déclarés par les établissements de crédit à la SGFGAS.
 
 6. Une convention entre l'Etat et chacun des établissements de crédit définit les conditions de distribution des éco-prêts à taux zéro.
 
@@ -76,13 +100,13 @@ Objet de la convention
 
 L'Etat donne mandat à la SGFGAS dans les conditions précisées par la présente convention :
 
-- d'enregistrer les éco-prêts à taux zéro ;
+-d'enregistrer les éco-prêts à taux zéro ;
 
-- de gérer le suivi des crédits d'impôt dus aux établissements de crédit au titre des éco-prêts à taux zéro ;
+-de gérer le suivi des crédits d'impôt dus aux établissements de crédit au titre des éco-prêts à taux zéro ;
 
-- de diligenter des contrôles auprès des établissements de crédit ;
+-de diligenter des contrôles auprès des établissements de crédit ;
 
-- de produire les éléments statistiques utiles à l'évaluation du dispositif.
+-de produire les éléments statistiques utiles à l'évaluation du dispositif.
 
 Article 2
 
@@ -142,11 +166,11 @@ Il est créé un comité de suivi, composé des deux commissaires du Gouvernemen
 
 Le comité est tenu informé :
 
-- des éléments statistiques relatifs aux offres et à la mise en force des éco-prêts à taux zéro ;
+-des éléments statistiques relatifs aux offres et à la mise en force des éco-prêts à taux zéro ;
 
-- des moyens mis en œuvre par la SGFGAS pour assurer son obligation de contrôle ;
+-des moyens mis en œuvre par la SGFGAS pour assurer son obligation de contrôle ;
 
-- des diligences effectuées par la SGFGAS pour assurer le suivi des crédits d'impôt en cas de non-respect des dispositions légales ou réglementaires par les établissements de crédit et, le cas échéant, par les personnes visées au II de l'article 199 ter S du code général des impôts.
+-des diligences effectuées par la SGFGAS pour assurer le suivi des crédits d'impôt en cas de non-respect des dispositions légales ou réglementaires par les établissements de crédit et, le cas échéant, par les personnes visées au II de l'article 199 ter S du code général des impôts.
 
 Article 7
 
@@ -160,7 +184,7 @@ Article 8
 
 Commission de la SGFGAS
 
-La SGFGAS est couverte de ses frais de fonctionnement et des investissements qu'elle réalise, pour la bonne application des présentes, par une commission. Les frais de fonctionnement, déduction faite des pénalités de gestion éventuellement versées par les établissements de crédit sur le compte de dépôt visé ci-après, comprennent la quote-part des frais de structure imputable aux missions confiées à la SGFGAS dans le cadre de la présente convention.A cette fin, elle met en place une comptabilité analytique qui lui permet d'identifier parfaitement les charges qu'elle supporte, incluant le coût financier des investissements qu'elle réalise et les produits qu'elle enregistre.
+La SGFGAS est couverte de ses frais de fonctionnement et des investissements qu'elle réalise, pour la bonne application des présentes, par une commission. Les frais de fonctionnement, déduction faite des pénalités de gestion éventuellement versées par les établissements de crédit sur le compte de dépôt visé ci-après, comprennent la quote-part des frais de structure imputable aux missions confiées à la SGFGAS dans le cadre de la présente convention. A cette fin, elle met en place une comptabilité analytique qui lui permet d'identifier parfaitement les charges qu'elle supporte, incluant le coût financier des investissements qu'elle réalise et les produits qu'elle enregistre.
 
 Un montant prévisionnel de cette commission (hors produits ci-dessus décrits) est déterminé sur la base d'un budget prévisionnel arrêté en accord avec les commissaires du Gouvernement avant le 31 mars de chaque année pour l'exercice suivant ; ce budget prévisionnel fait apparaître distinctement les charges de fonctionnement et les dépenses d'investissement.
 
@@ -176,7 +200,7 @@ Pour l'application de la mission confiée, en application de la présente conven
 
 Article 10
 
-Durée. - Résiliation.-Modifications
+Durée.-Résiliation.-Modifications
 
 La présente convention est valable jusqu'à la date d'expiration des dispositions de l'article 244 quater U du code général des impôts.
 
@@ -186,11 +210,29 @@ En dehors des cas prévus au précédent alinéa, la convention peut être rési
 
 La présente convention peut cependant être résiliée sans préavis par l'Etat :
 
-- en cas de dénonciation des conventions liant l'Etat à l'ensemble des établissements de crédit en application de l'article 9 de ces conventions ;
+-en cas de dénonciation des conventions liant l'Etat à l'ensemble des établissements de crédit en application de l'article 9 de ces conventions ;
 
-- en cas de manquement de la SGFGAS aux obligations souscrites dans le cadre de la présente convention ;
+-en cas de manquement de la SGFGAS aux obligations souscrites dans le cadre de la présente convention ;
 
-- en cas de modification législative ou réglementaire affectant les éco-prêts à taux zéro.
+-en cas de modification législative ou réglementaire affectant les éco-prêts à taux zéro.
+
+La totalité des engagements souscrits par la SGFGAS au nom et pour le compte de l'Etat dans le cadre des présentes reste acquise au profit de leurs bénéficiaires.
+
+Article 10 bis
+
+Résiliation-modifications : règles propres à l'éco-prêt copropriétés
+
+La présente convention est valable jusqu'à la date d'expiration des dispositions de l'article 244 quater U du code général des impôts.
+
+Les seules dispositions de la convention conclue entre l'Etat et la SGFGAS relatives à l'éco-PTZ copropriétés peuvent être modifiées sur simple demande de l'Etat à condition que cette modification n'emporte pas de rupture de l'équilibre financier. La modification demandée est exécutoire de plein droit passé un délai de quatre mois ; la SGFGAS a la possibilité de dénoncer ces dispositions dans le même délai.
+
+En dehors des cas prévus au précédent alinéa, les dispositions de la convention conclue entre l'Etat et la SGFGAS relatives à l'éco-PTZ copropriétés peuvent être résiliées par chacune des parties sous réserve du respect d'un préavis d'un an. La durée de ce préavis peut toutefois être réduite par commun accord entre les parties.
+
+L'Etat peut cependant résilier sans préavis les dispositions relatives à l'éco-prêt copropriétés :
+
+-en cas de dénonciation des dispositions des conventions relatives à l'éco-Prêt copropriétés liant l'Etat à l'ensemble des Etablissements de crédit en application des articles 9 et 9 bis de ces conventions ;
+
+-en cas de modification législative ou réglementaire substantielles affectant le régime des éco-prêts copropriétés.
 
 La totalité des engagements souscrits par la SGFGAS au nom et pour le compte de l'Etat dans le cadre des présentes reste acquise au profit de leurs bénéficiaires.
 
