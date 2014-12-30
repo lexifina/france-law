@@ -1,0 +1,9 @@
+# Réponse à la question n° 59300
+
+- Question : [59300](59300.md) — Question n° 59300 — dépenses publiques; réduction; rapport; préconisations
+
+## Réponse
+
+*JO du 2014-12-30*
+
+Le rapport de MM. Alain Lambert et Martin Malvy intitulé « pour un redressement des finances publiques fondé sur la confiance mutuelle et l'engagement de chacun », remis en avril 2014, préconise d'instituer par voie législative l'obligation pour toutes les collectivités de délibérer dans les six mois suivant le renouvellement de l'assemblée délibérante, sur l'organisation de leurs services et le temps de travail de leurs agents. Il s'agit, pour les auteurs du rapport, de permettre un retour au cadre légal du temps de travail dans les collectivités et de favoriser les principes d'égalité de tous devant la loi. Il ressort en effet du dernier rapport de la Cour des comptes qu'un certain nombre de collectivités ne respectent pas la durée légale du temps de travail. Pour répondre à cet objectif partagé, le Gouvernement a prévu à l'article 30 du projet de loi portant nouvelle organisation territoriale de la République, déposé au Sénat le 18 juin 2014, une nouvelle obligation pour les collectivités territoriales dans le cadre du débat d'orientation budgétaire qui précède le vote annuel du budget. Cet article prévoit que dans les communes de plus de 10 000 habitants, dans les conseils généraux, dans les conseils régionaux et dans les établissements publics de coopération intercommunale de plus de 10 000 habitants comprenant au moins une commune de plus de 3 500 habitants, le rapport sur les orientations budgétaires comportera « une présentation de la structure et de l'évolution des dépenses et des effectifs. Ce rapport précisera notamment l'évolution prévisionnelle et l'exécution des dépenses de personnel, des rémunérations, des avantages en nature et du temps de travail ».
