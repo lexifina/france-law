@@ -1,0 +1,9 @@
+# Réponse à la question n° 53254
+
+- Question : [53254](53254.md) — Question n° 53254 — titulaires de zones de remplacement; affectation
+
+## Réponse
+
+*JO du 2014-12-30*
+
+L'examen des demandes de mutation des enseignants du second degré s'appuie sur les dispositions de l'article 60 de la loi n° 84-16 du 11 janvier 1984 modifié qui imposent la priorité de traitement des demandes de certains agents, ceux qui sont séparés de leur conjoint ou ceux exerçant « dans un quartier urbain où se posent des problèmes sociaux et de sécurité particulièrement difficiles », zones où peuvent être affectés des TZR. Dans tous les cas, les enseignants qui exercent en zone de remplacement participent aux opérations de mutation dans les mêmes conditions que ceux qui exercent déjà sur un poste en établissement. Par ailleurs, la note de service annuelle relative aux modalités et procédures définies pour le mouvement national à gestion déconcentrée 2014 (NS N° 2013-168 du 28 octobre 2013 parue au BOEN 41 du 7 novembre 2013) demande à chaque recteur d'académie de veiller à mettre en oeuvre une politique académique de stabilisation des enseignants du second degré titulaires sur zone de remplacement (TZR). Dans ce cadre, ils peuvent bénéficier de bonifications leur permettant d'être stabilisés sur un poste fixe en établissement. En rentrant dans le dispositif, à l'issue d'une période de stabilité de cinq ans, ils bénéficieront d'une bonification supplémentaire pour favoriser leur mobilité interacadémique. Ainsi sans méconnaitre les difficultés rencontrées par les enseignants TZR, la ministre de l'éducation nationale, de l'enseignement supérieur et de la recherche assure un suivi attentif de leurs demandes de mutations déposées dans le cadre des opérations annuelles du mouvement national à gestion déconcentrée.
