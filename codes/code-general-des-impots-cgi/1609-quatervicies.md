@@ -4,7 +4,7 @@ I.-A compter du 1er juillet 1999, une taxe dénommée " taxe d'aéroport " est p
 
 II.-La taxe est due par toute entreprise de transport aérien public et s'ajoute au prix acquitté par le client.
 
-III.-La taxe est assise sur le nombre de passagers et la masse de fret et de courrier embarqués par l'entreprise sur chaque aérodrome, quelles que soient les conditions tarifaires accordées par le transporteur, aux mêmes exceptions et conditions que celles énoncées à l'article 302 bis K.
+III.-La taxe est assise sur le nombre de passagers et la masse de fret et de courrier embarqués par l'entreprise sur chaque aérodrome, quelles que soient les conditions tarifaires accordées par le transporteur, aux mêmes exceptions et conditions que celles énoncées aux 1 et 2 du I l'article 302 bis K.
 
 IV.-Le tarif de la taxe par passager applicable sur chaque aérodrome ou groupement d'aérodromes est compris entre les valeurs correspondant à la classe dont il relève.
 
@@ -74,7 +74,7 @@ De 3,5 à 9,5 €.
 
 |
 
-De 2,6 à 12 €
+De 2,6 à 13 €
 
 |
 

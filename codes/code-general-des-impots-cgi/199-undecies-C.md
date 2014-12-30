@@ -66,22 +66,8 @@ Les dépenses de travaux retenues pour le calcul de la réduction d'impôt prév
 
 IX. - Le présent article est applicable aux acquisitions ou constructions de logements réalisées entre la date de promulgation de la loi n° 2009-594 du 27 mai 2009 pour le développement économique des outre-mer et le 31 décembre 2017.
 
+X. - Le bénéfice de la réduction d'impôt prévue au I est subordonné, pour les investissements réalisés dans les départements d'outre-mer et à Saint-Martin, au respect de la décision 2012/21/UE de la Commission, du 20 décembre 2011, relative à l'application de l'article 106, paragraphe 2, du traité sur le fonctionnement de l'Union européenne aux aides d'Etat sous forme de compensations de service public octroyées à certaines entreprises chargées de la gestion de services d'intérêt économique général.
+
 NOTA :
 
-Conformément à l'article 21 III de la loi n° 2013-1278 du 29 décembre 2013 de finances pour 2014, les dispositions de l'article 199 undecies C, dans leur rédaction issue de la présente loi, sont applicables aux investissements réalisés à compter du 1er juillet 2014, sous réserve que la Commission européenne ait déclaré ses dispositions compatibles avec le droit de l'Union européenne. Toutefois, il reste applicable dans les conditions prévues par les dispositions antérieures à la présente loi :
-
-1° Aux investissements pour l'agrément desquels une demande est parvenue à l'administration avant le 1er juillet 2014 et :
-
-a) Pour les biens meubles, qui font l'objet d'une commande avant le 31 décembre 2014 et pour lesquels des acomptes au moins égaux à 50 % de leur prix ont été versés à cette date ;
-
-b) Pour les travaux de réhabilitation d'immeubles, pour lesquels des acomptes au moins égaux à 50 % de leur prix ont été versés au plus tard le 31 décembre 2014 ;
-
-c) Qui portent sur des biens immeubles dont l'achèvement des fondations intervient au plus tard le 31 décembre 2015 ;
-
-2° Aux acquisitions d'immeubles ayant fait l'objet d'une déclaration d'ouverture de chantier avant le 1er juillet 2014 ;
-
-3° Aux acquisitions de biens meubles corporels commandés avant le 1er juillet 2014 et pour lesquels des acomptes au moins égaux à 50 % de leur prix ont été versés à cette date ;
-
-4° Aux travaux de réhabilitation d'immeubles pour lesquels des acomptes au moins égaux à 50 % de leur prix ont été versés avant le 1er juillet 2014.
-
-Les entreprises qui réalisent les investissements mentionnés aux 1° à 4° du présent III peuvent opter, quel que soit leur chiffre d'affaires, pour l'application à ces investissements du crédit d'impôt prévu à l'article 244 quater W du code général des impôts, dans les conditions prévues au V de ce même article, ou, le cas échéant, pour l'application à ces investissements du crédit d'impôt prévu à l'article 244 quater X du même code, dans les conditions prévues au V de ce même article.
+Conformément à l'article 67 III B de la loi n° 2014-1655 du 29 décembre 2014 de finance rectificative pour 2014, ces dispositions s'appliquent aux déductions et aux réductions et crédits d'impôt dont le fait générateur intervient à compter du 1er janvier 2015 , y compris aux déductions et aux réductions d'impôts afférentes aux investissements mentionnés aux deuxième à dernier alinéas du III de l'article 21 de la loi n° 2013-1278 du 29 décembre 2013 de finances pour 2014, dans leur rédaction résultant du II du présent article .

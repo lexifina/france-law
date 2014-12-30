@@ -1,6 +1,6 @@
 # Article 44 quindecies
 
-I. ― Dans les zones de revitalisation rurale mentionnées à l'article 1465 A, les entreprises qui sont créées ou reprises entre le 1er janvier 2011 et le 31 décembre 2014, soumises de plein droit ou sur option à un régime réel d'imposition de leurs résultats et qui exercent une activité industrielle, commerciale, artisanale au sens de l'article 34 ou professionnelle au sens du 1 de l'article 92, sont exonérées d'impôt sur le revenu ou d'impôt sur les sociétés à raison des bénéfices réalisés, à l'exclusion des plus-values constatées lors de la réévaluation des éléments d'actif, jusqu'au terme du cinquante-neuvième mois suivant celui de leur création ou de leur reprise et déclarés selon les modalités prévues à l'article 53 A.
+I. ― Dans les zones de revitalisation rurale mentionnées à l'article 1465 A, les entreprises qui sont créées ou reprises entre le 1er janvier 2011 et le 31 décembre 2015, soumises de plein droit ou sur option à un régime réel d'imposition de leurs résultats et qui exercent une activité industrielle, commerciale, artisanale au sens de l'article 34 ou professionnelle au sens du 1 de l'article 92, sont exonérées d'impôt sur le revenu ou d'impôt sur les sociétés à raison des bénéfices réalisés, à l'exclusion des plus-values constatées lors de la réévaluation des éléments d'actif, jusqu'au terme du cinquante-neuvième mois suivant celui de leur création ou de leur reprise et déclarés selon les modalités prévues à l'article 53 A.
 
 Les bénéfices ne sont soumis à l'impôt sur le revenu ou à l'impôt sur les sociétés que pour le quart, la moitié ou les trois quarts de leur montant selon qu'ils sont réalisés respectivement au cours de la première, de la deuxième ou de la troisième période de douze mois suivant cette période d'exonération.
 
@@ -32,10 +32,12 @@ b) si l'entreprise individuelle a fait l'objet d'une opération de reprise ou de
 
 IV. ― Lorsqu'elle répond aux conditions requises pour bénéficier des dispositions de l'un des régimes prévus aux articles 44 sexies, 44 sexies A, 44 septies, 44 octies A, 44 duodecies, 44 terdecies, 44 quaterdecies et du régime prévu au présent article, l'entreprise peut opter pour ce dernier régime dans les six mois suivant le début d'activité. L'option est irrévocable et emporte renonciation définitive aux autres régimes.
 
-V. ― Le bénéfice de l'exonération et de l'imposition partielle est subordonné au respect du règlement (CE) n° 1998/2006 de la Commission, du 15 décembre 2006, concernant l'application des articles 87 et 88 du traité aux aides de minimis.
+V. ― Le bénéfice de l'exonération et de l'imposition partielle est subordonné au respect du règlement (UE) n° 1407/2013 de la Commission, du 18 décembre 2013, relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis (1).
 
 VI. ― L'exonération reste applicable pour sa durée restant à courir lorsque la commune d'implantation de l'entreprise sort de la liste des communes classées en zone de revitalisation rurale après la date de sa création ou de sa reprise.
 
 NOTA :
 
 Au premier alinéa du III, les références : ", 44 decies, 44 undecies " sont périmées.
+
+(1) Ces dispositions s'appliquent aux avantages octroyés à compter du 1er janvier 2014.

@@ -18,6 +18,8 @@ La taxe est acquittée lors du dépôt de la déclaration. Elle est recouvrée c
 
 Les dispositions du présent article ne s'appliquent pas aux provisions constituées à raison des opérations de réassurance par les entreprises pratiquant la réassurance de dommages.
 
+La taxe n'est pas déductible de l'assiette de l'impôt sur les sociétés.
+
 NOTA :
 
-Conformément à l'article 20 XXIII de la loi n° 2013-1279 du 29 décembre 2013 de finances rectificative pour 2013, les dispositions de l'article 235 ter X, dans leur rédaction issue de la présente loi, s'appliquent aux déclarations souscrites à compter du 1er février 2014.
+Loi n° 2014-1655 du 29 décembre 2014, article 26 II : les dispositions de l'article 235 ter X s'appliquent aux exercices clos à compter du 31 décembre 2015.

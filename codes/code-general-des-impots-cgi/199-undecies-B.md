@@ -1,6 +1,6 @@
 # Article 199 undecies B
 
-I. - Les contribuables domiciliés en France au sens de l'article 4 B peuvent bénéficier d'une réduction d'impôt sur le revenu à raison des investissements productifs neufs qu'ils réalisent dans les départements d'outre-mer, à Saint-Pierre-et-Miquelon, en Nouvelle-Calédonie, en Polynésie française, à Saint-Martin, à Saint-Barthélemy, dans les îles Wallis-et-Futuna et les Terres australes et antarctiques françaises, dans le cadre d'une entreprise exerçant une activité agricole ou une activité industrielle, commerciale ou artisanale relevant de l'article 34. Lorsque l'activité est exercée dans un département d'outre-mer, l'entreprise doit avoir réalisé un chiffre d'affaires, au titre de son dernier exercice clos, inférieur à 20 millions d'euros. Lorsque l'entreprise n'a clôturé aucun exercice, son chiffre d'affaires est réputé être nul. Si le dernier exercice clos est d'une durée de plus ou de moins de douze mois, le montant du chiffre d'affaires est corrigé pour correspondre à une période de douze mois. Lorsque la réduction d'impôt s'applique dans les conditions prévues aux vingt-sixième et vingt-septième alinéas, le chiffre d'affaires s'apprécie au niveau de l'entreprise locataire ou crédit-preneuse. Celle-ci en communique le montant à la société réalisant l'investissement. Lorsque l'entreprise mentionnée aux deuxième et cinquième phrases du présent alinéa est liée, directement ou indirectement, à une ou plusieurs autres entreprises au sens du 12 de l'article 39, le chiffre d'affaires à retenir s'entend de la somme de son chiffre d'affaires et de celui de l'ensemble des entreprises qui lui sont liées.
+I. - Les contribuables domiciliés en France au sens de l'article 4 B peuvent bénéficier d'une réduction d'impôt sur le revenu à raison des investissements productifs neufs qu'ils réalisent dans les départements d'outre-mer, à Saint-Pierre-et-Miquelon, en Nouvelle-Calédonie, en Polynésie française, à Saint-Martin, à Saint-Barthélemy, dans les îles Wallis-et-Futuna et les Terres australes et antarctiques françaises, dans le cadre d'une entreprise exerçant une activité agricole ou une activité industrielle, commerciale ou artisanale relevant de l'article 34. Lorsque l'activité est exercée dans un département d'outre-mer, l'entreprise doit avoir réalisé un chiffre d'affaires, au titre de son dernier exercice clos, inférieur à 20 millions d'euros. Lorsque l'entreprise n'a clôturé aucun exercice, son chiffre d'affaires est réputé être nul. Si le dernier exercice clos est d'une durée de plus ou de moins de douze mois, le montant du chiffre d'affaires est corrigé pour correspondre à une période de douze mois. Lorsque la réduction d'impôt s'applique dans les conditions prévues aux vingt-sixième et vingt-septième alinéas, le chiffre d'affaires s'apprécie au niveau de l'entreprise locataire ou crédit-preneuse. Celle-ci en communique le montant à la société réalisant l'investissement. Lorsque l'entreprise mentionnée aux deuxième et cinquième phrases du présent alinéa est liée, directement ou indirectement, à une ou plusieurs autres entreprises au sens du 12 de l'article 39, le chiffre d'affaires à retenir s'entend de la somme de son chiffre d'affaires et de celui de l'ensemble des entreprises qui lui sont liées. Lorsque l'activité est exercée dans un département d'outre-mer ou à Saint-Martin, l'investissement doit être un investissement initial, au sens de l'article 2 du règlement (UE) n° 651/2014 de la Commission, du 17 juin 2014, déclarant certaines catégories d'aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité, et il ne doit pas être exploité par une entreprise en difficulté, au sens du même règlement.
 
 Toutefois, n'ouvrent pas droit à la réduction d'impôt les investissements réalisés dans les secteurs d'activité suivants :
 
@@ -98,26 +98,8 @@ III. - Les aides octroyées par la Polynésie française, Saint-Barthélemy, Sai
 
 IV. - Un décret en Conseil d'Etat précise, en tant que de besoin, les modalités d'application des I, I bis, I ter et II et notamment les obligations déclaratives.
 
+V. - Le bénéfice de la réduction d'impôt prévue au I est subordonné, pour les investissements réalisés dans les départements d'outre-mer et à Saint-Martin, au respect du règlement (UE) n° 651/2014 de la Commission, du 17 juin 2014, précité.
+
 NOTA :
 
-Conformément à l'article 21 III de la loi n° 2013-1278 du 29 décembre 2013 de finances pour 2014, les dispositions de l'article 199 undecies B, dans leur rédaction issue de la présente loi, sont applicables aux investissements réalisés à compter du 1er janvier 2015. Toutefois, il reste applicable dans les conditions prévues par les dispositions antérieures à la présente loi :
-
-1° Aux investissements pour l'agrément desquels une demande est parvenue à l'administration avant le 1er janvier 2015 et :
-
-a) Pour les biens meubles, qui font l'objet d'une commande avant le 30 juin 2015 et pour lesquels des acomptes au moins égaux à 50 % de leur prix ont été versés à cette date ;
-
-b) Pour les travaux de réhabilitation d'immeubles, pour lesquels des acomptes au moins égaux à 50 % de leur prix ont été versés au plus tard le 30 juin 2015 ;
-
-c) Qui portent sur des biens immeubles dont l'achèvement des fondations intervient au plus tard le 30 juin 2016 ;
-
-2° Aux acquisitions d'immeubles ayant fait l'objet d'une déclaration d'ouverture de chantier avant le 1er janvier 2015 ;
-
-3° Aux acquisitions de biens meubles corporels commandés avant le 1er janvier 2015 et pour lesquels des acomptes au moins égaux à 50 % de leur prix ont été versés à cette date ;
-
-4° Aux travaux de réhabilitation d'immeubles pour lesquels des acomptes au moins égaux à 50 % de leur prix ont été versés avant le 1er janvier 2015.
-
-Les entreprises qui réalisent les investissements mentionnés aux 1° à 4° du présent III peuvent opter, quel que soit leur chiffre d'affaires, pour l'application à ces investissements du crédit d'impôt prévu à l'article 244 quater W du code général des impôts, dans les conditions prévues au V de ce même article, ou, le cas échéant, pour l'application à ces investissements du crédit d'impôt prévu à l'article 244 quater X du même code, dans les conditions prévues au V de ce même article.
-
-IV.-Une évaluation des dispositifs prévus aux articles 244 quater W et 244 quater X du code général des impôts est réalisée annuellement à compter de 2017.
-
-V.-Le Gouvernement remet au Parlement, avant le 1er octobre 2014, un rapport étudiant l'opportunité et les modalités de la mise en place d'un prêt bonifié servi par la Caisse des dépôts et consignations qui se substituerait au moins partiellement à l'aide fiscale à l'investissement outre-mer pour le secteur du logement social.
+Conformément à l'article 67 III B de la loi n° 2014-1655 du 29 décembre 2014 de finance rectificative pour 2014, ces dispositions s'appliquent aux déductions et aux réductions et crédits d'impôt dont le fait générateur intervient à compter du 1er janvier 2015 , y compris aux déductions et aux réductions d'impôts afférentes aux investissements mentionnés aux deuxième à dernier alinéas du III de l'article 21 de la loi n° 2013-1278 du 29 décembre 2013 de finances pour 2014, dans leur rédaction résultant du II du présent article.
