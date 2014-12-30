@@ -1,0 +1,9 @@
+# Réponse à la question n° 48206
+
+- Question : [48206](48206.md) — Question n° 48206 — épreuves facultatives; langues régionales; suppression; perspectives
+
+## Réponse
+
+*JO du 2014-12-30*
+
+Il convient dans un premier temps, de rappeler l'importance que le ministère chargé de l'éducation nationale accorde à la valorisation des langues et cultures régionales. En effet, aujourd'hui, onze langues régionales peuvent être présentées à l'examen du baccalauréat, au titre des épreuves obligatoires, de spécialité ou facultatives. La réforme des lycées d'enseignement général et technologique a accordé une attention toute particulière aux langues vivantes. Cette attention s'est traduite par la généralisation d'une seconde langue dans l'ensemble des séries, dont les séries technologiques qui, généralement, n'en proposaient qu'une seule. Parallèlement, dans certaines séries a été mis en oeuvre un enseignement technologique en langues vivantes. En renforçant l'étude des langues, la réforme a pour objectif d'améliorer l'attractivité de la voie technologique et d'opérer un nécessaire rééquilibrage des séries. Il s'agissait également de favoriser la poursuite d'études dans l'enseignement supérieur des titulaires d'un baccalauréat technologique tout en en renforçant leur culture générale et leur ouverture au monde. La généralisation de la deuxième langue vivante répond à une véritable demande. En effet, si la réforme prévoit, en STI2D par exemple, une mise en oeuvre progressive de la deuxième langue vivante qui ne deviendra obligatoire qu'à la rentrée 2016, on constate aujourd'hui que la très grande majorité des élèves (90 % des élèves de terminale en 2014) a choisi de suivre cet enseignement. L'ampleur de cette disposition, du point de vue des moyens comme de l'organisation des épreuves, a conduit à la suppression de l'épreuve de langue vivante facultative en séries technologiques.
