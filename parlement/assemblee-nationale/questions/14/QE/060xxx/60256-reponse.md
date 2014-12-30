@@ -1,0 +1,9 @@
+# Réponse à la question n° 60256
+
+- Question : [60256](60256.md) — Question n° 60256 — fonds de solidarité; Ile-de-France; plafonnement; abrogation
+
+## Réponse
+
+*JO du 2014-12-30*
+
+Le 6 juin 2014, le juge constitutionnel a déclaré contraire à la Constitution la disposition prévue au b) du 3° du II de l'article L. 2531-13 du code général des collectivités territoriales (CGCT) définissant les modalités de contribution des communes de la région Ile-de-France au fonds de solidarité des communes de la région Ile-de-France (FSRIF). Le Conseil constitutionnel a en effet jugé que cette disposition instituait une différence de traitement entre les communes qui n'était pas justifiée par des éléments objectifs et portait de ce fait atteinte à l'égalité devant les charges publiques entre les communes contributrices au FSRIF. Seul ce plafonnement, qui s'appliquait aux communes éligibles en 2009, a été annulé par le Conseil constitutionnel. Les autres plafonnements applicables au FSRIF restent en vigueur. Dès sa publication, cette décision a fait disparaître de l'ordre juridique le b) du 3° du II de l'article L. 2531-13 susvisé dans sa rédaction issue de la loi n° 2011-1977 du 28 décembre 2011 de finances pour 2012. Il n'est donc pas nécessaire que le projet de loi de finances pour 2015 prévoit le retrait de ces dispositions. Suite à ce jugement, le Gouvernement a travaillé sur d'autres pistes de plafonnement afin de garantir une répartition équilibrée de la hausse du fonds entre les communes contributrices. Le projet de loi de finances pour 2015 propose ainsi un nouveau plafond : lorsque le montant du FSRIF progresse, la contribution individuelle de chaque commune contributrice ne pourra connaître une augmentation supérieure à la moitié du montant de l'accroissement du fonds en valeur.
