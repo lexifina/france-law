@@ -1,0 +1,9 @@
+# Réponse à la question n° 46836
+
+- Question : [46836](46836.md) — Question n° 46836 — intégration; préconisations
+
+## Réponse
+
+*JO du 2014-12-30*
+
+L'un des groupes de travail mis en place en vue de la refondation de la politique d'intégration avait fait le constat que les Français d'origine étrangère et ultramarins faisant souvent partie des « minorités visibles » étaient constamment renvoyés, dans la manière de les désigner, à une origine présupposée. Il préconisait de « revisiter tous les registres lexicaux utilisés par les institutions publiques, les médias et les partis politiques », et notamment de mettre un terme aux descriptions telles que « personne d'origine arabe, maghrébine, asiatique, noire africaine, de type manouche... » au motif qu'elles étaient stigmatisantes, cette recommandation n'a pas été reprise en l'état par le Gouvernement. En effet, si le Gouvernement comprend les raisons ayant abouti à cette préconisation, il n'en reste pas moins que se refuser à désigner des personnes ou des groupes est problématique, puisque nommer, c'est aussi reconnaître, et même faire exister. On peut dès lors s'interroger sur la possibilité de conduire une politique en direction de catégories sociales précises si les pouvoirs publics s'interdisent de les nommer, dans le plein respect des principes constitutionnels les plus fondamentaux, à savoir « l'égalité devant la loi de tous les citoyens sans distinction d'origine ». De manière plus générale, il a paru au Gouvernement que la question de la désignation des étrangers qui se sont installés dans notre pays pour y vivre durablement - pour importante qu'elle pouvait paraître - ne devait pas faire oublier l'importance des mesures pratiques et opérationnelles à mettre en oeuvre en matière d'intégration, notamment, s'agissant du domaine linguistique, dans le domaine de l'apprentissage de la langue française.
