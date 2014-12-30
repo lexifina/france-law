@@ -1,0 +1,9 @@
+# Réponse à la question n° 67025
+
+- Question : [67025](67025.md) — Question n° 67025 — collaborateurs de cabinet; activités professionnelles futures; conflits d'intérêts; lutte et prévention
+
+## Réponse
+
+*JO du 2014-12-30*
+
+La saisine de la commission de déontologie est obligatoire pour les membres d'un cabinet ministériel qui envisagent d'exercer une activité privée, en application du II de l'article 87 de la loi n° 93-122 du 29 janvier 1993 relative à la prévention de la corruption et à la transparence de la vie économique et des procédures publiques. Sur la base du dossier qui lui est présenté, et des éléments réunis au cours de l'instruction, la commission se prononce sur la compatibilité des fonctions envisagées avec les fonctions précédemment occupées par l'agent, conformément aux interdictions mentionnées à l'article 1er I A du décret n° 2007-611 du 26 avril 2007. Ces dispositions sont appliquées par les ministères économiques et financiers, qui saisissent la commission de déontologie dans les cas prévus par la loi, pour les agents appartenant à un corps placé sous l'autorité du ministre des finances et des comptes publics ou sous l'autorité du ministre de l'économie, de l'industrie et du numérique, ou pour les agents contractuels en fonction au sein de leurs services. Au cas d'espèce, la commission de déontologie a été saisie par le chef du corps auquel appartient l'agent concerné, qui ne relève, toutefois, ni de l'autorité du ministre des finances et des comptes publics, ni de l'autorité du ministre de l'économie, de l'industrie et du numérique. Les responsables hiérarchiques successifs de l'intéressé ont fourni tous les éléments utiles à la constitution du dossier de saisine de la commission de déontologie par le chef de corps, puis à l'instruction du dossier par la commission.
