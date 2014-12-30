@@ -1,0 +1,9 @@
+# Réponse à la question n° 51047
+
+- Question : [51047](51047.md) — Question n° 51047 — contenu
+
+## Réponse
+
+*JO du 2014-12-30*
+
+L'éducation à la sexualité s'intègre dans les missions d'éducation et d'instruction, conférées par l'État aux enseignants, à chaque niveau d'enseignement, et cela dès l'école primaire, en complément du rôle éducatif essentiel des familles. La circulaire n° 2003-027 du 17 février 2003 relative à l'éducation à la sexualité dans les écoles, les collèges et les lycées, établie en application de l'article L. 312-16 du code de l'éducation, définit les principes éthiques de cette éducation dans le cadre scolaire ainsi que les objectifs et les modalités de sa mise en oeuvre. L'école contribue à l'acquisition de connaissances objectives et d'attitudes adaptées permettant aux enfants d'identifier et de comprendre les diverses dimensions de la sexualité humaine. Elle participe en ce sens à la prévention des risques de violences, qu'elles soient sexuelles, physiques ou morales. L'éducation à la sexualité prend appui sur les programmes d'enseignement, notamment dans le domaine des sciences et de l'instruction civique et morale, mais aussi en histoire, en éducation physique et sportive, en littérature ou dans les enseignements artistiques. Dans le cadre de cet enseignement, les enseignants permettent aux élèves de prendre conscience de ce qui relève de l'espace privé et de ce qui peut être, ou non, partagé dans l'espace public de la classe. Ils veillent au respect des consciences, de la sensibilité et du droit à l'intimité des élèves et informent les parents des objectifs et des contenus abordés. Les valeurs d'égalité et de respect entre les filles et les garçons, les femmes et les hommes, sont inscrites dans les objectifs du Socle commun de connaissances, de compétences et de culture et occupent une place de premier ordre dans l'éducation à la sexualité à l'école primaire.
