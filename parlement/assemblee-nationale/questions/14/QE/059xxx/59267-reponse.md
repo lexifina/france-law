@@ -1,0 +1,9 @@
+# Réponse à la question n° 59267
+
+- Question : [59267](59267.md) — Question n° 59267 — dépenses publiques; réduction; rapport; préconisations
+
+## Réponse
+
+*JO du 2014-12-30*
+
+Le rapport de MM. Alain Lambert et Martin Malvy sur la maîtrise collective des finances publiques contient 53 propositions dont l'objet est de réformer les méthodes de pilotage de la dépense locale. La 10e proposition du rapport est celle d'« encourager le dispositif encore récent et méconnu de commune nouvelle, qui réunit plusieurs communes en une seule entité, tout en maintenant un maire délégué ». Le dispositif de fusion de communes issu de la loi « Marcellin » du 16 juillet 1971 n'ayant connu qu'un succès limité, la loi n° 2010-1563 du 16 décembre 2010 de réforme des collectivités territoriales a substitué à ce régime de fusion de communes une procédure rénovée de regroupement, plus simple et plus souple, aboutissant à la création d'une « commune nouvelle ». Les expériences de communes nouvelles menées depuis la loi du 16 décembre 2010 susvisée, certes peu nombreuses, ont montré que certaines dispositions relatives à leur statut méritent d'être améliorées afin de mieux prendre en compte leurs spécificités. A cet égard, deux propositions de loi relatives à l'amélioration du régime de la commune nouvelle ont été respectivement présentées par Mme Pirès Beaune et M. Pélissard, et enregistrées les 17 septembre et 11 février 2014 à la présidence de l'Assemblée nationale. Les objectifs de ces propositions de loi visent notamment à renforcer la place et le rôle des maires délégués, à faciliter les modalités de fusion et à renforcer les incitations financières à la création de communes nouvelles en matière de dotations de l'Etat. Le Gouvernement accompagnera, dans un esprit constructif et positif, toute démarche d'encouragement au développement du dispositif des communes nouvelles.
