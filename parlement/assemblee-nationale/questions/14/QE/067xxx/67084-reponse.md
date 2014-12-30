@@ -1,0 +1,9 @@
+# Réponse à la question n° 67084
+
+- Question : [67084](67084.md) — Question n° 67084 — entretien du ministre; bilan
+
+## Réponse
+
+*JO du 2014-12-30*
+
+La ministre de la culture et de la communication et le Président du Conseil national pour la culture et les arts du Mexique se sont entretenus en marge d'une visite conjointe de l'exposition « Mayas, révélation d'un temps sans fin » au musée du Quai Branly. Cette exposition, produite avec l'Institut national d'anthropologie et d'histoire de Mexico, a été l'occasion pour Madame Fleur Pellerin et Monsieur Rafaël Tovar y de Teresa de se féliciter de la richesse de la coopération bilatérale et de la place qu'occupait la culture dans le partenariat stratégique franco-mexicain. Les ministres ont tracé un premier état des lieux de la mise en oeuvre de la déclaration d'intention relative à la coopération culturelle signée en octobre 2013 et se sont réjouis des premiers résultats enregistrés, que ce soit en matière d'opérations patrimoniales, de projets grand public, de soutien à la création émergente, ou d'échanges entre institutions sur l'enseignement supérieur spécialisé dans les arts. Ils se sont également félicités de la conclusion d'un nouvel accord de partenariat entre l'Institut national de l'audiovisuel et la CONACULTA qui permettra, dès 2015, des coopérations en matière de formation, de conservation du patrimoine audiovisuel et l'organisation d'événements dans les deux pays. Ils ont aussi évoqué l'exposition que devrait accueillir le Grand Palais en 2016 sur « le Mexique de 1860 à nos jours » et les secteurs dans lesquels la coopération pourrait encore être renforcée. Très satisfaite de cet échange à la fois chaleureux et constructif, la ministre de la culture et de la communication entend poursuivre et approfondir cette coopération de grande qualité, notamment dans le domaine du cinéma, des arts vivants et des écoles d'art.
