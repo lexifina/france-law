@@ -1,0 +1,9 @@
+# Réponse à la question n° 60342
+
+- Question : [60342](60342.md) — Question n° 60342 — conseil supérieur des programmes; propositions
+
+## Réponse
+
+*JO du 2014-12-30*
+
+Le Conseil supérieur des programmes a reçu, en novembre 2013, la lettre de saisine du ministre de l'éducation nationale qui précisait que les missions de l'école maternelle devaient être redéfinies, notamment en lui donnant une unité par la création d'un cycle unique. Cette nouvelle organisation pédagogique permettrait de préparer progressivement les enfants aux apprentissages fondamentaux dispensés à l'école élémentaire, selon une temporalité adaptée au rythme de chacun. Cette lettre de saisine réaffirmait la place primordiale du langage et attirait l'attention sur le fait que la numération et le calcul devraient faire l'objet d'une attention comparable à celle qui s'est développée depuis quinze ans au bénéfice de la lecture et de l'écriture. Il était précisé aussi qu'il serait important de tenir compte des remontées de la consultation des enseignants quant au domaine « Devenir élève » qui faisaient apparaître que des clarifications devraient y être apportées. Il était demandé aussi d'apporter des précisions sur le sens qu'il convient de donner aux activités conduites en maternelle, afin que chacune d'entre elles ait une finalité en termes d'apprentissage en particulier en reconsidérant la place et la fonction du jeu. Le Conseil supérieur des programmes a remis le 3 juillet 2014 un projet de programmes pour l'école maternelle. Le ministère a engagé une consultation nationale dès la rentrée 2014, du 22 septembre au 18 octobre, dont la synthèse sera rendue publique. A l'issue de cette consultation, la ministre de l'éducation nationale, de l'enseignement supérieur et de la recherche arrêtera le nouveau programme du cycle des apprentissages premiers qui s'appliquera à compter de la rentrée 2015.
