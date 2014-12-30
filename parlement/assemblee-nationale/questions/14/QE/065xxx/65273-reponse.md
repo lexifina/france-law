@@ -1,0 +1,9 @@
+# Réponse à la question n° 65273
+
+- Question : [65273](65273.md) — Question n° 65273 — patrimoine mondial; saline d'Arc-et-Senans; classement; maintien
+
+## Réponse
+
+*JO du 2014-12-30*
+
+La saline royale est un élément du bien « De la grande saline de Salins-les-bains à la saline royale d'Arc-et-Senans, la production de sel ignigène », inscrit sur la liste du Patrimoine mondial en 1982, puis révisé en 2009. Le projet de la zone de développement éolien de Qingey Val Saint Vitois prévoit la construction de huit mats à une distance de 8 kilomètres de la Saline royale. Présenté à la commission régionale du patrimoine et des sites (CRPS) en septembre 2012, ce projet a fait l'objet de vifs débats. Consulté dans le cadre de la commission départementale de la nature, des paysages et des sites (CDNPS), l'architecte des bâtiments de France (ABF) du Doubs a fait valoir des covisibilités du projet éolien avec la Saline royale et formulé un avis défavorable au projet, qui a cependant été approuvé par la commission. Saisie par les soins de la ministre de la culture et de la communication, l'Inspection des patrimoines a rédigé deux rapports concluant à la nécessité de déplacer de quelques kilomètres le projet éolien en raison des covisibilités constatées sur place. Le préfet a donc commandité une étude paysagère, assortie de simulations photographiques, qui doit être produite dans le courant du mois d'octobre. Par ailleurs, lors d'une communication en Conseil des ministres le 3 septembre dernier, la ministre a réaffirmé, conjointement avec la ministre de l'écologie, du développement durable et de l'énergie, l'importance de concilier la préservation des paysages culturels et naturels avec les objectifs de la transition énergétique. Cette communication a été l'occasion d'indiquer qu'une circulaire conjointe serait adressée aux préfets sur le sujet des éoliennes d'ici la fin de l'année.
