@@ -1,0 +1,9 @@
+# Réponse à la question n° 55895
+
+- Question : [55895](55895.md) — Question n° 55895 — fonctionnement
+
+## Réponse
+
+*JO du 2014-12-30*
+
+Le Gouvernement est particulièrement attentif à la situation des chefs des très petites entreprises, qui sont ceux qui vont bénéficier, à compter de leurs revenus 2015, d'une baisse du taux de leurs cotisations d'allocations familiales de 3,1 points au niveau d'un revenu équivalent au SMIC (soit un gain annuel de près de 1 300 €). S'agissant du calendrier de recouvrement des cotisations, afin de réduire le décalage existant entre l'assiette retenue pour le calcul des cotisations sociales provisionnelles dues au titre d'une année N, qui est constituée du revenu de l'avant-dernière année (N-2), et le revenu courant de cette même année N, la loi de financement de la sécurité sociale pour 2014 (art. 26) généralise, à compter du 1er janvier 2015, le dispositif, jusqu'ici optionnel, d'ajustement des cotisations provisionnelles sur la base du dernier revenu connu. Concrètement, les cotisations provisionnelles d'une année N seront d'abord calculées sur la base du revenu de l'année N-2, mais ensuite ajustées sur la base du revenu de l'année N-1, dès que ce dernier aura été déclaré par le travailleur indépendant non agricole. Cette disposition répond donc au besoin de réduction du décalage temporel. En outre, en cas de décalage persistant entre le revenu servant d'assiette et celui de l'année N, il convient de rappeler que le travailleur indépendant dispose de la faculté de demander que ses cotisations provisionnelles soient recalculées sur la base du revenu estimé pour l'année au titre de laquelle elles sont dues (art. L. 131-6-2 du code de la sécurité sociale). Ce dispositif permet d'ajuster, avec une importante marge de tolérance, les cotisations dues aux disponibilités de l'année en cours.
