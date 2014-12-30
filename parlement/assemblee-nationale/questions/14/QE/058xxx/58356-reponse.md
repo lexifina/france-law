@@ -1,0 +1,9 @@
+# Réponse à la question n° 58356
+
+- Question : [58356](58356.md) — Question n° 58356 — inscription comptable; réglementation
+
+## Réponse
+
+*JO du 2014-12-30*
+
+Le fonds de compensation pour la taxe sur la valeur ajoutée (FCTVA) est, en vertu de l'article 91 de la loi de finances pour 1980, codifié à l'article L. 1615-5 du code général des collectivités territoriales, une recette affectée à la section d'investissement. Il est toutefois possible, à titre exceptionnel, de transférer cette recette de la section d'investissement à la section de fonctionnement. L'article L. 1615-5 alinéa 2 dudit code précise que le transfert du FCTVA de la section d'investissement à la section de fonctionnement est limité à la couverture des frais financiers de la section de fonctionnement, si le montant des recettes définitives d'investissement est supérieur au montant des recettes nécessaires à l'équilibre de la section d'investissement. Cette imputation en section de fonctionnement ne peut être réalisée que l'année même de la liquidation du fonds. Par ailleurs, afin d'éviter l'instauration de pratiques de financement des dépenses de fonctionnement par des recettes d'investissement, les cas dans lesquels une collectivité territoriale peut reprendre un excédent de la section d'investissement en section de fonctionnement sont énumérés par l'article L. 2311-6 du code général des collectivités territoriales. Cependant, dans un cas particulier non prévu par la réglementation, où le montant des excédents cumulés de la section d'investissement serait sans commune mesure avec la politique d'investissement de la collectivité territoriale, les demandes exceptionnelles et dérogatoires de reprise de l'excédent en section de fonctionnement sont examinées, au cas par cas, conjointement par les ministres en charge de l'intérieur et du budget. En conséquence, l'élargissement des dérogations à l'affectation du FCTVA en section d'investissement n'est pas nécessaire.
