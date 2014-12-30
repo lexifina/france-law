@@ -1,0 +1,9 @@
+# Réponse à la question n° 29143
+
+- Question : [29143](29143.md) — Question n° 29143 — réforme; perspectives
+
+## Réponse
+
+*JO du 2014-12-30*
+
+Les prestations familiales sont dues à toute personne française ou étrangère résidant en France qui assume la charge « effective et permanente » de l'enfant (art L. 512-1 du code de la sécurité sociale). Les ressortissants étrangers doivent se trouver en situation régulière du point de vue du droit au séjour sur notre territoire (article L. 512-2 du code de la sécurité sociale). Ils doivent détenir un titre de séjour défini à l'article D. 512-1 du code de la sécurité sociale et prouver la régularité de la situation de leurs enfants en France sur la base de l'un des documents énumérés à l'article D. 512-2 du code de la sécurité sociale. L'exigence du titre de séjour ne s'applique pas aux citoyens de l'Espace économique européen (EEE). Lorsque la famille de nationalité française ou étrangère réside effectivement et régulièrement en France, les conditions d'ouverture du droit aux prestations familiales sont examinées de la même façon. Ainsi en dehors de deux catégories - citoyens de l'EEE et ressortissants étrangers hors EEE - la caisse nationale des allocations familiales ne dispose pas de données sur le montant des prestations versées aux bénéficiaires étrangers possédant une carte de résident ni sur celui versé aux étrangers possédant un titre de séjour inférieur à 10 ans. Au 31 décembre 2013, selon les données de la caisse nationale d'allocations familiales (CNAF), l'effectif des bénéficiaires des allocations familiales atteint 5 millions pour un total de dépenses de 12,4 Md€. Sur ces 5 millions de bénéficiaires, 2 % environ sont des citoyens de l'Espace économique européen et de la Confédération Suisse et 6 % environ sont des ressortissants étrangers hors EEE.
