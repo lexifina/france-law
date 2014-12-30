@@ -1,0 +1,9 @@
+# Réponse à la question n° 44151
+
+- Question : [44151](44151.md) — Question n° 44151 — rapport; propositions
+
+## Réponse
+
+*JO du 2014-12-30*
+
+Le rapport de la mission confiée à Monsieur Pierre Lescure sur « les contenus numériques et la politique culturelle à l'heure du numérique » propose, s'agissant des atteintes au droit d'auteur, de maintenir la réponse graduée dans la mesure où elle vient à peine d'atteindre son régime de croisière et qu'elle a d'ores et déjà produit, sur le périmètre qu'elle couvre, des effets significatifs. Le Gouvernement a suivi cette recommandation. A côté de la réponse graduée, qui est maintenue après avoir été modifiée par le décret n° 2013-596 du 8 juillet 2013 supprimant la sanction de la suspension d'accès à Internet, l'axe prioritaire est désormais celui du développement de l'offre légale en ligne. Trop souvent, les internautes peinent encore à trouver des offres ergonomiques, riches et accessibles financièrement. Le Gouvernement travaille avec les acteurs pour lever les verrous nécessaires, afin que les internautes disposent d'une alternative crédible au piratage. Concernant la lutte contre le piratage, le Gouvernement entend également développer la lutte contre le piratage commercial, autrement dit contre les sites qui tirent profit des contenus piratés, les monétisent sans rémunérer les créateurs. La ministre de la culture et de la communication a ainsi chargé Madame Mireille Imbert-Quaretta, conseillère d'État et présidente de la commission de protection des droits de la Haute Autorité pour la diffusion des oeuvres et la protection des droits sur Internet (HADOPI), de conduire une mission destinée à élaborer les outils opérationnels permettant d'impliquer les intermédiaires techniques et financiers dans la lutte contre la contrefaçon commerciale en ligne. Son rapport a été rendu public le 12 mai dernier, et les dispositifs proposés sont actuellement en cours d'examen interministériel.
