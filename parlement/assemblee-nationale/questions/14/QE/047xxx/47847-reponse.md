@@ -1,0 +1,9 @@
+# Réponse à la question n° 47847
+
+- Question : [47847](47847.md) — Question n° 47847 — école; perspectives
+
+## Réponse
+
+*JO du 2014-12-30*
+
+Un établissement est un lieu régi par des règles dont le respect vise à garantir les conditions de travail et de vie les plus favorables à l'action éducatrice. Ces règles imposent des obligations et confèrent des droits. Lorsqu'une mesure disciplinaire est prononcée pour sanctionner des actes ou des comportements contraires au règlement intérieur, une attention particulière est portée à son caractère éducatif en même temps qu'elle doit s'inscrire dans une politique globale de prévention menée au niveau de l'établissement. La circulaire n° 2014-059 du 27 mai 2014 rappelle à cet égard l'importance des étapes de prévention et de dialogue qui doivent être respectées avant l'application d'une sanction, ainsi que la finalité éducative que toute sanction doit poursuivre. Les droits et obligations des élèves sont garantis par la Convention internationale des droits de l'enfant, signée par la France le 26 janvier 1990. L'article L. 511-2 du code de l'éducation dispose que « dans les collèges et les lycées, les élèves disposent, dans le respect du pluralisme et du principe de neutralité, de la liberté d'information et de la liberté d'expression ». Ces droits sont déterminés par le règlement intérieur de l'établissement. La loi du 8 juillet 2013 d'orientation et de programmation pour la refondation de l'école de la République prévoit, dans son article 2, que « le service public de l'éducation fait acquérir à tous les élèves le respect de l'égale dignité des êtres humains, de la liberté de conscience et de la laïcité ». C'est dans ce cadre que la liberté d'expression des élèves est respectée, que la diversité des points de vue peut s'exprimer mais également que les atteintes à la dignité des personnes peuvent être sanctionnées.
