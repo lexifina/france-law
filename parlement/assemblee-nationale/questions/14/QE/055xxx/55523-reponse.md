@@ -1,0 +1,9 @@
+# Réponse à la question n° 55523
+
+- Question : [55523](55523.md) — Question n° 55523 — hébergeurs; contenus illicites; réglementation
+
+## Réponse
+
+*JO du 2014-12-30*
+
+Le rapport de la mission confiée à Monsieur Pierre Lescure sur « les contenus numériques et la politique culturelle à l'heure du numérique » préconise, s'agissant des atteintes au droit d'auteur, d'encourager les plateformes d'hébergement à mettre en place des outils de détection automatique des contenus protégés afin de faciliter le travail des ayants droit et de leur éviter d'avoir à vérifier eux-mêmes en permanence si leurs oeuvres sont présentes sur ces plateformes. Dans le prolongement de cette réflexion, le rapport sur les « Outils opérationnels de prévention et de lutte contre la contrefaçon en ligne » de Madame Mireille Imbert-Quaretta, remis à la ministre de la culture et de la communication le 12 mai dernier, préconise de renforcer l'implication des acteurs du référencement et des services d'hébergement en instaurant une injonction de retrait prolongé des contenus contrefaisants préalablement notifiés par les ayants droit. Le rapport constate en effet que les fichiers contrefaisants retirés à la suite d'une notification réapparaissent bien souvent, peu après, sur le même site Internet, ce qui oblige les ayants droit à procéder à de nouvelles notifications. Pour réduire cette difficulté, le rapport propose de confier à une autorité administrative la possibilité d'enjoindre à un site de communication au public en ligne de faire cesser et de prévenir, pendant une durée déterminée, la réapparition de contenus qui lui ont été signalés comme constituant une atteinte aux droits d'auteur ou aux droits voisins sur le site. Les préconisations du rapport de Madame Imbert-Quaretta sont actuellement en cours d'examen interministériel.
