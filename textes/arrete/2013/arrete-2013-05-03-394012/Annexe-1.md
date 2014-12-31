@@ -1,57 +1,61 @@
 # Article Annexe 1
 
-PRÉCISANT LA RÉPARTITION DES SÉRIES D'INDICATIFS
-
-DE STATIONS RADIOÉLECTRIQUES D'AÉRONEFS
+PRÉCISANT LA RÉPARTITION DES SÉRIES D'INDICATIFS DE STATIONS RADIOÉLECTRIQUES D'AÉRONEFS
 
 Les autorités mentionnées à l'article 1er utilisent, pour constituer les marques de nationalité et d'immatriculation, les séries d'indicatifs de stations radioélectriques d'aéronefs suivantes :
 
 Direction générale de l'armement (autorité technique)
 
-FZAAA à FZAZZ : aéronefs bancs d'essais utilisés par la direction générale de l'armement.
+F-ZAAA à F-ZAZZ : aéronefs bancs d'essais utilisés par la direction générale de l'armement.
 
-FZWAA à FZWZZ : réservée aux aéronefs prototypes.
+F-ZWAA à F-ZWZZ : réservée aux aéronefs prototypes.
 
-FZIAA à FZVZZ : autres aéronefs.
+F-ZIAA à F-ZVZZ : autres aéronefs.
 
-FZXAA à FZZZZ : autres aéronefs.
+F-ZXAA à F-ZZZZ : autres aéronefs.
 
 Direction de la sécurité aéronautique d'Etat
 
 Direction générale de l'armement (autorité d'emploi)
 
-FZCAA à FZHZZ.
+F-ZCAA à F-ZHZZ.
 
 Armée de terre
 
-FMAAA à FMIZZ.
+F-MAAA à F-MIZZ.
 
-FMKAA à FMMZZ.
+F-MKAA à F-MMZZ.
 
 Marine
 
-FXAAA à FXZZZ.
+F-XAAA à F-XZZZ.
 
-FYAAA à FYZZZ.
+F-YAAA à F-YZZZ.
 
 Armée de l'air
 
-FRAAA à FRZZZ.
+F-RAAA à F-RZZZ.
 
-FSAAA à FSZZZ.
+F-SAAA à F-SZZZ.
 
-FTAAA à FTZZZ.
+F-TAAA à F-TZZZ.
 
-FUAAA à FUZZZ.
+F-UAAA à F-UZZZ.
 
 Direction générale de la gendarmerie nationale
 
-FMJAA à FMJZZ.
+F-MJAA à F-MJZZ.
 
 Direction générale des douanes et droits indirects
 
-FZBAA à FZBLZ.
+F-ZBAA à F-ZBES, à l'exception des six indicatifs F-ZBAA, F-ZBAP, F-ZBAZ, F-ZBCZ, F-ZBEG et F-ZBEH attribués à la direction de la sécurité civile.
+
+F-ZBGA à F-ZBLZ.
 
 Direction de la sécurité civile
 
-FZBMA à FZBZZ.
+F-ZBAA, F-ZBAP, F-ZBAZ, F-ZBCZ, F-ZBEG, F-ZBEH.
+
+F-ZBET à F-ZBFZ.
+
+F-ZBMA à F-ZBZZ.
