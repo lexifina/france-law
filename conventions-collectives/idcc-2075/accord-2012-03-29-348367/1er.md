@@ -1,3 +1,0 @@
-# Article 1er
-
-Le présent accord est applicable aux entreprises employant au moins 50 salariés et moins de 300 salariés ou appartenant à un groupe (au sens de l'article L. 2331-1 du code du travail) dont l'effectif comprend au moins 50 salariés et est inférieur à 300 salariés dont plus de 50 % de salariés sont exposés aux facteurs de risques professionnels mentionnés à l'article L. 4121-3-1 du code du travail, relevant du champ d'application de la convention collective nationale des œufs et industries en produits d'œuf, répertoriée sous le numéro d'identifiant des conventions collectives 3184.
