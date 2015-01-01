@@ -2,7 +2,39 @@
 
 RELATIVE À LA FIXATION DES DURÉES DU LIEN AU SERVICE SUITE À UNE FORMATION SPÉCIALISÉE ET DU COEFFICIENT MULTIPLICATEUR AFFECTANT LE MONTANT DES REMBOURSEMENTS EXIGÉS EN CAS DE RUPTURE DU LIEN AU SERVICE POUR LES FORMATIONS SPÉCIFIQUES À LA GENDARMERIE NATIONALE
 
-1. Formations communes aux officiers et sous-officiers
+1. Formations des officiers
+
+Management :
+
+INTITULÉ DE LA FORMATION
+
+|
+
+DURÉE DU LIEN AU SERVICE
+
+(années)
+
+|
+
+COEFFICIENT
+
+multiplicateur
+
+|
+
+Centre des hautes études du ministère de l'intérieur (CHEMI).
+
+|
+
+4
+
+|
+
+2
+
+|
+
+2. Formations communes aux officiers et sous-officiers
 
 a) Ressources humaines (personnels gérés au niveau central) :
 
@@ -16,7 +48,9 @@ DURÉE DU LIEN AU SERVICE
 
 |
 
-COEFFICIENT MULTIPLICATEUR
+COEFFICIENT
+
+multiplicateur
 
 |
 
@@ -56,6 +90,22 @@ Brevet de spécialiste montagne.
 
 |
 
+Formation de l'enseignement supérieur validant deux semestres de la licence ou équivalent, dont diplômes universitaires (DU) (tous domaines) (*).
+
+|
+
+2
+
+|
+
+1
+
+|
+
+(*) Hors formations de l'enseignement militaire supérieur
+
+|
+
 b) Sécurité publique :
 
 INTITULÉ DE LA FORMATION
@@ -68,7 +118,9 @@ DURÉE DU LIEN AU SERVICE
 
 |
 
-COEFFICIENT MULTIPLICATEUR
+COEFFICIENT
+
+multiplicateur
 
 |
 
@@ -204,11 +256,13 @@ DURÉE DU LIEN AU SERVICE
 
 |
 
-COEFFICIENT MULTIPLICATEUR
+COEFFICIENT
+
+multiplicateur
 
 |
 
-Formation vol aux instruments RATING IFR (1).
+Formation vol aux instruments RATING IFR (*).
 
 |
 
@@ -280,7 +334,7 @@ Qualification de type pilote Visual Flight Rules EC (145 ou 135).
 
 |
 
-Stage d'opérateur de conduite de drones.
+Stage d'opérateur de conduite de drones
 
 |
 
@@ -292,7 +346,7 @@ Stage d'opérateur de conduite de drones.
 
 |
 
-(1) Evolution vers un emploi IFR.
+(*) Evolution vers un emploi IFR.
 
 |
 
@@ -310,7 +364,9 @@ DURÉE DU LIEN AU SERVICE
 
 |
 
-COEFFICIENT MULTIPLICATEUR
+COEFFICIENT
+
+multiplicateur
 
 |
 
@@ -350,7 +406,9 @@ DURÉE DU LIEN AU SERVICE
 
 |
 
-COEFFICIENT MULTIPLICATEUR
+COEFFICIENT
+
+multiplicateur
 
 |
 
@@ -390,7 +448,9 @@ DURÉE DU LIEN AU SERVICE
 
 |
 
-COEFFICIENT MULTIPLICATEUR
+COEFFICIENT
+
+multiplicateur
 
 |
 
@@ -430,7 +490,9 @@ DURÉE DU LIEN AU SERVICE
 
 |
 
-COEFFICIENT MULTIPLICATEUR
+COEFFICIENT
+
+multiplicateur
 
 |
 
@@ -470,23 +532,13 @@ DURÉE DU LIEN AU SERVICE
 
 |
 
-COEFFICIENT MULTIPLICATEUR
+COEFFICIENT
+
+multiplicateur
 
 |
 
-Equitation premier niveau.
-
-|
-
-5
-
-|
-
-1
-
-|
-
-Equitation second niveau.
+Equitation 1er niveau.
 
 |
 
@@ -498,7 +550,7 @@ Equitation second niveau.
 
 |
 
-Maréchalerie premier niveau.
+Equitation 2e niveau.
 
 |
 
@@ -510,7 +562,19 @@ Maréchalerie premier niveau.
 
 |
 
-Maréchalerie second niveau.
+Maréchalerie 1er niveau.
+
+|
+
+5
+
+|
+
+1
+
+|
+
+Maréchalerie 2e niveau.
 
 |
 
@@ -642,7 +706,7 @@ Stage de formation des sous-officiers motocyclistes.
 
 |
 
-Mécanicien cellules et moteurs premier niveau.
+Mécanicien cellules et moteurs 1er niveau.
 
 |
 
@@ -654,7 +718,7 @@ Mécanicien cellules et moteurs premier niveau.
 
 |
 
-Mécanicien cellule et moteurs second niveau.
+Mécanicien cellule et moteurs 2e niveau.
 
 |
 
@@ -666,7 +730,7 @@ Mécanicien cellule et moteurs second niveau.
 
 |
 
-Mécanicien avionique premier niveau.
+Mécanicien avionique 1er niveau.
 
 |
 
@@ -678,7 +742,7 @@ Mécanicien avionique premier niveau.
 
 |
 
-Mécanicien avionique second niveau.
+Mécanicien avionique 2e niveau.
 
 |
 
@@ -687,5 +751,29 @@ Mécanicien avionique second niveau.
 |
 
 3
+
+|
+
+Formation logistique du 2e degré (QLIA 2).
+
+|
+
+2
+
+|
+
+1
+
+|
+
+Formation logistique du 3e degré (QLIA 3).
+
+|
+
+2
+
+|
+
+1
 
 |

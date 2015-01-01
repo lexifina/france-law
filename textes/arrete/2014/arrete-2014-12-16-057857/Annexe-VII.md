@@ -2,6 +2,8 @@
 
 RELATIVE À LA FIXATION DES DURÉES DU LIEN AU SERVICE SUITE À UNE FORMATION SPÉCIALISÉE ET DU COEFFICIENT MULTIPLICATEUR AFFECTANT LE MONTANT DES REMBOURSEMENTS EXIGÉS EN CAS DE RUPTURE DU LIEN AU SERVICE POUR LES FORMATIONS SPÉCIFIQUES AU SERVICE DE SANTÉ DES ARMÉES
 
+1. Formation des officiers
+
 INTITULÉ DE LA FORMATION
 
 |
@@ -12,11 +14,13 @@ DURÉE DU LIEN AU SERVICE
 
 |
 
-COEFFICIENT MULTIPLICATEUR
+COEFFICIENT
+
+multiplicateur
 
 |
 
-Diplôme technique (attribué sur épreuves) et brevet technique.
+Diplôme technique (attribué sur épreuves) et brevet technique
 
 |
 
@@ -64,47 +68,83 @@ Suivi d'au moins trois modules de formation à l'Institut français de l'audit e
 
 |
 
+2. Prévention et gestion des risques
+
+INTITULÉ DE LA FORMATION
+
+|
+
+DURÉE DU LIEN AU SERVICE
+
+(années)
+
+|
+
+COEFFICIENT
+
+multiplicateur
+
+|
+
+Formation au service de sécurité incendie et assistance à personnes (SSIAP) de niveau 1.
+
+|
+
+2
+
+|
+
+1
+
+|
+
+Formation au service de sécurité incendie et assistance à personnes (SSIAP) de niveau 2.
+
+|
+
+2
+
+|
+
+1
+
+|
+
+Formation au service de sécurité incendie et assistance à personnes (SSIAP) de niveau 3.
+
+|
+
+3
+
+|
+
+1
+
+|
+
+3. Divers
+
+INTITULÉ DE LA FORMATION
+
+|
+
+DURÉE DU LIEN AU SERVICE
+
+(années)
+
+|
+
+COEFFICIENT
+
+multiplicateur
+
+|
+
 Formation de l'enseignement supérieur validée par le diplôme universitaire (DU) technicien de l'information médicale.
 
 |
 
 2
-
-|
-
-1
-
-|
-
-Formation au service de sécurité incendie et assistance à personnes (SSIAP) de premier niveau.
-
-|
-
-2
-
-|
-
-1
-
-|
-
-Formation au service de sécurité incendie et assistance à personnes (SSIAP) de deuxième niveau.
-
-|
-
-2
-
-|
-
-1
-
-|
-
-Formation au service de sécurité incendie et assistance à personnes (SSIAP) de troisième niveau.
-
-|
-
-3
 
 |
 

@@ -14,11 +14,13 @@ DURÉE DU LIEN AU SERVICE
 
 |
 
-COEFFICIENT MULTIPLICATEUR
+COEFFICIENT
+
+multiplicateur
 
 |
 
-Formation de l'enseignement supérieur validant quatre semestres de la licence ou équivalent (tous domaines) (1).
+Formation de l'enseignement supérieur validant quatre semestres de la licence ou équivalent (tous domaines) (*).
 
 |
 
@@ -30,7 +32,7 @@ Formation de l'enseignement supérieur validant quatre semestres de la licence o
 
 |
 
-Formation de l'enseignement supérieur validée par la licence (tous domaines) (1).
+Formation de l'enseignement supérieur validée par la licence (tous domaines) (*).
 
 |
 
@@ -66,7 +68,7 @@ Formation de l'enseignement supérieur validée par un diplôme conférant le ti
 
 |
 
-(1) Hors formations de l'enseignement militaire supérieur.
+(*) Hors formations de l'enseignement militaire supérieur
 
 |
 
@@ -82,7 +84,9 @@ DURÉE DU LIEN AU SERVICE
 
 |
 
-COEFFICIENT MULTIPLICATEUR
+COEFFICIENT
+
+multiplicateur
 
 |
 
@@ -98,11 +102,11 @@ Centre des hautes études militaires (CHEM).
 
 |
 
-Enseignement militaire du 2e degré (EMS2).
+Enseignement militaire du second degré (EMS2).
 
 |
 
-4
+2
 
 |
 
@@ -158,11 +162,13 @@ DURÉE DU LIEN AU SERVICE
 
 |
 
-COEFFICIENT MULTIPLICATEUR
+COEFFICIENT
+
+multiplicateur
 
 |
 
-Diplôme de guide de haute montagne du brevet d'Etat d'alpinisme.
+Brevet d'Etat d'éducateur sportif, option alpinisme, attribuant le diplôme de guide de haute montagne.
 
 |
 
@@ -186,7 +192,7 @@ Diplôme d'aspirant guide du brevet d'Etat d'alpinisme.
 
 |
 
-Brevet d'Etat d'alpinisme, option ski alpin.
+Brevet d'Etat d'éducateur sportif, option ski alpin, attribuant le diplôme d'Etat de ski, moniteur national de ski alpin.
 
 |
 
@@ -198,7 +204,7 @@ Brevet d'Etat d'alpinisme, option ski alpin.
 
 |
 
-Brevet d'Etat d'alpinisme, option ski de fond.
+Brevet d'Etat d'éducateur sportif, option ski nordique de fond, attribuant le diplôme d'Etat de ski, moniteur national de ski nordique de fond.
 
 |
 
@@ -210,7 +216,7 @@ Brevet d'Etat d'alpinisme, option ski de fond.
 
 |
 
-Brevet d'Etat d'alpinisme, option escalade.
+Brevet d'Etat d'éducateur sportif, option escalade, conférant le titre de moniteur d'escalade.
 
 |
 
@@ -222,7 +228,7 @@ Brevet d'Etat d'alpinisme, option escalade.
 
 |
 
-Brevet d'Etat d'alpinisme, option parapente.
+Brevet professionnel de la jeunesse, de l'éducation populaire et du sport, spécialité vol libre mention parapente, conférant le titre de moniteur de parapente.
 
 |
 
@@ -246,7 +252,7 @@ Cours du certificat d'instructeur de saut à ouverture commandée et retardée.
 
 |
 
-Stage de moniteur-chef d'entraînement physique, militaire et sportif (EPMS). ― Application de la règle générale.
+Stage de moniteur-chef d'entraînement physique, militaire et sportif (EPMS). Application de la règle générale.
 
 |
 
@@ -258,7 +264,7 @@ Stage de moniteur-chef d'entraînement physique, militaire et sportif (EPMS). �
 
 |
 
-Stage de moniteur d'entraînement physique, militaire et sportif (EPMS). ― Application de la règle générale.
+Stage de moniteur d'entraînement physique, militaire et sportif (EPMS). Application de la règle générale.
 
 |
 
@@ -306,7 +312,7 @@ Stage d'instructeur des techniques d'optimisation du potentiel (EPS, sophrologie
 
 |
 
-Brevet professionnel de la jeunesse, de l'éducation populaire et du sport (BPJEPS), option activités aquatiques, option voile.
+Brevet professionnel de la jeunesse, de l'éducation populaire et du sport, option activités aquatiques, option voile.
 
 |
 
@@ -314,7 +320,7 @@ Brevet professionnel de la jeunesse, de l'éducation populaire et du sport (BPJE
 
 |
 
-1
+3
 
 |
 
@@ -378,7 +384,9 @@ DURÉE DU LIEN AU SERVICE
 
 |
 
-COEFFICIENT MULTIPLICATEUR
+COEFFICIENT
+
+multiplicateur
 
 |
 
@@ -386,11 +394,25 @@ Formations appelées à être sanctionnées par un certificat ou un diplôme per
 
 |
 
-Double de la période de formation
+double de la période
+
+de formation
 
 |
 
 1
+
+|
+
+Validation de cinq semestres (acquisition de 150 ECTS) au centre de préparation au diplôme d'Etat d'infirmier (CPDEI) de l'école du personnel paramédical des armées (EPPA).
+
+|
+
+3
+
+|
+
+2
 
 |
 
@@ -406,7 +428,9 @@ DURÉE DU LIEN AU SERVICE
 
 |
 
-COEFFICIENT MULTIPLICATEUR
+COEFFICIENT
+
+multiplicateur
 
 |
 
@@ -415,30 +439,6 @@ Formation de spécialité deuxième niveau conducteur de travaux.
 |
 
 5
-
-|
-
-2
-
-|
-
-Formation complémentaire au diplôme d'ingénieur d'une durée de quatre mois consécutifs minimum, dispensée à des officiers relevant de l'autorité du service d'infrastructure de la défense ou du domaine des techniques d'opérations d'infrastructure.
-
-|
-
-4
-
-|
-
-2
-
-|
-
-Formation complémentaire au diplôme d'architecte d'une durée de quatre mois consécutifs minimum, dispensée à des officiers relevant de l'autorité du service d'infrastructure de la défense ou du domaine des techniques d'opérations d'infrastructure.
-
-|
-
-4
 
 |
 
@@ -458,11 +458,25 @@ DURÉE DU LIEN AU SERVICE
 
 |
 
-COEFFICIENT MULTIPLICATEUR
+COEFFICIENT
+
+multiplicateur
 
 |
 
 Cours du certificat supérieur d'officier de prévention nucléaire adjoint.
+
+|
+
+2
+
+|
+
+1
+
+|
+
+Certificat d'atomicien appliqué aux armes nucléaires (CATAN).
 
 |
 
@@ -522,7 +536,7 @@ Equipier d'intervention risques radiologiques ou chef d'équipe d'intervention r
 
 |
 
-Chef de CMIC risques chimiques et biologiques (RCH3).
+Chef de CMIC risques chimiques et biologiques (RCH 3).
 
 |
 
@@ -546,30 +560,6 @@ Chef de CMIR risques radiologiques (RAD 3).
 
 |
 
-Conseiller technique risques chimiques et biologiques (RCH4).
-
-|
-
-3
-
-|
-
-2
-
-|
-
-Conseiller technique risques radiologiques (RAD 4).
-
-|
-
-3
-
-|
-
-2
-
-|
-
 Session de formation des inspecteurs hygiène et sécurité (Institut national du travail, de l'emploi et de la formation professionnelle).
 
 |
@@ -582,7 +572,7 @@ Session de formation des inspecteurs hygiène et sécurité (Institut national d
 
 |
 
-Agent de prévention (PRV 1) ou attestation de compétence en matière de prévention de premier niveau (AP 1).
+Agent de prévention (PRV 1) ou attestation de compétence en matière de prévention de niveau 1 (AP 1).
 
 |
 
@@ -594,7 +584,7 @@ Agent de prévention (PRV 1) ou attestation de compétence en matière de préve
 
 |
 
-Préventionniste (PRV 2) ou attestation de compétence en matière de prévention de second niveau (AP 2), formation dispensée à l'ENSOSP.
+Préventionniste (PRV 2) ou attestation de compétence en matière de prévention de niveau 2 (AP 2), formation dispensée à l'ENSOSP.
 
 |
 
@@ -654,7 +644,9 @@ DURÉE DU LIEN AU SERVICE
 
 |
 
-COEFFICIENT MULTIPLICATEUR
+COEFFICIENT
+
+multiplicateur
 
 |
 
@@ -682,7 +674,7 @@ Formation intervention sur engins explosifs improvisés IEDD (Improved Explosive
 
 |
 
-Formation logistique du 2e degré (QLIA2).
+Formation intervention sur munitions spéciales / NRBC BCMD (Biological Chemical Munition Disposal).
 
 |
 
@@ -694,43 +686,7 @@ Formation logistique du 2e degré (QLIA2).
 
 |
 
-Formation logistique du 3e degré (QLIA3).
-
-|
-
-2
-
-|
-
-1
-
-|
-
-Stage du certificat de spécialiste en métrologie électronique.
-
-|
-
-2
-
-|
-
-1
-
-|
-
-Formation intervention sur munitions spéciales/NRBC BCMD (Biological Chemical Munition Disposal).
-
-|
-
-2
-
-|
-
-1
-
-|
-
-Cours du certificat de spécialiste des matériels de parachutage et de largage 1er degré.
+Cours du certificat de spécialiste des matériels de parachutage et de largage 1er degré (2e niveau de spécialiste des matériels de parachutage et de largage).
 
 |
 
@@ -742,7 +698,7 @@ Cours du certificat de spécialiste des matériels de parachutage et de largage 
 
 |
 
-Cours du certificat de spécialiste des matériels de parachutage et de largage 1er degré (supérieur).
+Cours du certificat de spécialiste des matériels de parachutage et de largage 1er degré (supérieur) (3e niveau de spécialiste des matériels de parachutage et de largage).
 
 |
 
@@ -826,7 +782,9 @@ DURÉE DU LIEN AU SERVICE
 
 |
 
-COEFFICIENT MULTIPLICATEUR
+COEFFICIENT
+
+multiplicateur
 
 |
 
@@ -878,6 +836,42 @@ Stage supérieur des formations SAP.
 
 |
 
+Formation technique Air Command and Control System (ACCS).
+
+|
+
+4
+
+|
+
+1
+
+|
+
+Formation SOC (Security Operation Center).
+
+|
+
+3
+
+|
+
+2
+
+|
+
+Formation LID (Lutte Informatique Défensive).
+
+|
+
+3
+
+|
+
+2
+
+|
+
 9. Renseignement
 
 INTITULÉ DE LA FORMATION
@@ -890,7 +884,9 @@ DURÉE DU LIEN AU SERVICE
 
 |
 
-COEFFICIENT MULTIPLICATEUR
+COEFFICIENT
+
+multiplicateur
 
 |
 
@@ -918,19 +914,7 @@ Formation officier renseignement interprète analyste (ORIA).
 
 |
 
-Décodeur décrypteur de second niveau.
-
-|
-
-4
-
-|
-
-1
-
-|
-
-Décodeur décrypteur du premier niveau.
+Stage d'utilisateur du système d'aide à l'interprétation multicapteurs.
 
 |
 
@@ -1002,7 +986,7 @@ Interprète d'image de premier niveau.
 
 |
 
-Stage du certificat d'interprétation d'imagerie détaillée et restitution d'images interprète image de second niveau.
+Stage du certificat d'interprétation d'imagerie détaillée et restitution d'images Interprète image de second niveau.
 
 |
 
@@ -1134,7 +1118,9 @@ DURÉE DU LIEN AU SERVICE
 
 |
 
-COEFFICIENT MULTIPLICATEUR
+COEFFICIENT
+
+multiplicateur
 
 |
 
@@ -1282,7 +1268,7 @@ Formation initiale au CICDA des contrôleurs et opérateurs.
 
 |
 
-Formation Flight Instructor (FI) pilote avion Joint Aviation Requirement (JAR) Flight Crew Licensing (FCL).
+Formation Flight Instructor (FI) pilote avion Joint Aviation Requirement (JAR). Flight Crew Licensing (FCL).
 
 |
 
@@ -1294,7 +1280,7 @@ Formation Flight Instructor (FI) pilote avion Joint Aviation Requirement (JAR) F
 
 |
 
-Formation Flight Instructor (FI) pilote hélicoptère Joint Aviation Requirement (JAR) Flight Crew Licensing (FCL).
+Formation Flight Instructor (FI) pilote hélicoptère Joint Aviation Requirement (JAR). Flight Crew Licensing (FLC).
 
 |
 
@@ -1318,23 +1304,11 @@ Formation d'adaptation moniteur sur hélicoptère NH 90.
 
 |
 
-Stage d'administrateur du système d'aide à l'interprétation multiplicateur.
+Stage d'administrateur du système d'aide à l'interprétation multicapteurs.
 
 |
 
 3
-
-|
-
-1
-
-|
-
-Stage d'utilisateur du système d'aide à l'interprétation multiplicateur.
-
-|
-
-2
 
 |
 
@@ -1354,7 +1328,7 @@ Stage sauveteur plongeur hélicoptère.
 
 |
 
-Formation Instrument Rating Instructor (IRI) pilote avion/hélicoptère Joint Aviation Requirements (JAR). ― Flight Crew Licensing (FCL).
+Formation Instrument Rating Instructor (IRI) pilote avion / hélicoptère Joint Aviation Requirements (JAR). Flight Crew Licensing (FCL).
 
 |
 
@@ -1366,7 +1340,7 @@ Formation Instrument Rating Instructor (IRI) pilote avion/hélicoptère Joint Av
 
 |
 
-Formation Type Rating Instructor (TRI) pilote avion/hélicoptère Joint Aviation Requirements (JAR). ― Flight Crew Licensing (FCL).
+Formation Type Rating Instructor (TRI) pilote avion / hélicoptère Joint Aviation Requirements (JAR). Flight Crew Licensing (FCL).
 
 |
 
@@ -1378,7 +1352,7 @@ Formation Type Rating Instructor (TRI) pilote avion/hélicoptère Joint Aviation
 
 |
 
-Formation Class Rating Instructor (CRI) pilote avion/hélicoptère Joint Aviation Requirements (JAR). ― Flight Crew Licensing (FCL).
+Formation Class Rating Instructor (CRI) pilote avion / hélicoptère Joint Aviation Requirements (JAR). Flight Crew Licensing (FCL).
 
 |
 
@@ -1390,7 +1364,7 @@ Formation Class Rating Instructor (CRI) pilote avion/hélicoptère Joint Aviatio
 
 |
 
-Formation radio de bord calibration 1351.
+Formation radio de bord calibration 1351
 
 |
 
@@ -1414,23 +1388,13 @@ DURÉE DU LIEN AU SERVICE
 
 |
 
-COEFFICIENT MULTIPLICATEUR
+COEFFICIENT
+
+multiplicateur
 
 |
 
-Stage de chef de détachement montagne hiver.
-
-|
-
-3
-
-|
-
-1
-
-|
-
-Stage de chef de détachement montagne été.
+Stage de chef de détachement haute montagne hiver.
 
 |
 
@@ -1442,43 +1406,7 @@ Stage de chef de détachement montagne été.
 
 |
 
-Stage de chef d'unité haute montagne hiver.
-
-|
-
-3
-
-|
-
-1
-
-|
-
-Stage de chef unité haute montagne été.
-
-|
-
-3
-
-|
-
-1
-
-|
-
-Formation au saut opérationnel à grande hauteur.
-
-|
-
-3
-
-|
-
-1
-
-|
-
-Formation au saut opérationnel à très grande hauteur.
+Stage de chef de détachement haute montagne été.
 
 |
 
@@ -1502,66 +1430,6 @@ Formation pilote parachute biplace emport passager.
 
 |
 
-Formation de spécialité de premier niveau en cynotechnie.
-
-|
-
-5
-
-|
-
-3
-
-|
-
-Formation de spécialité de second niveau en cynotechnie.
-
-|
-
-5
-
-|
-
-3
-
-|
-
-Formation d'adaptation cynotechnique d'aide à la recherche et à la détection d'explosifs.
-
-|
-
-4
-
-|
-
-1
-
-|
-
-Formation d'adaptation cynotechnique d'aide à la recherche et à la détection de stupéfiants.
-
-|
-
-4
-
-|
-
-1
-
-|
-
-Formation de spécialité élémentaire chef d'équipe cynotechnie.
-
-|
-
-3
-
-|
-
-1
-
-|
-
 12. Systèmes de forces, systèmes d'armes et équipement
 
 INTITULÉ DE LA FORMATION
@@ -1574,7 +1442,9 @@ DURÉE DU LIEN AU SERVICE
 
 |
 
-COEFFICIENT MULTIPLICATEUR
+COEFFICIENT
+
+multiplicateur
 
 |
 
