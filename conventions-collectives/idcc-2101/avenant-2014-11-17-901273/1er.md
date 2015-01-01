@@ -1,0 +1,723 @@
+# Article 1er
+
+L'annexe « Classification » du 21 juin 1999 et l'avenant n° 1 du 12 avril 2000 de la convention collective de l'enseignement privé à distance, dans leur version en vigueur au 17 novembre 2014 (1), sont annulées et remplacées par les dispositions suivantes.
+
+« Annexe I
+
+Classification
+
+Préambule
+
+Les parties signataires du présent avenant se sont accordées sur la nécessité d'adopter une grille de classification des salariés prenant en compte les nouvelles fonctions de la branche, liées notamment aux évolutions techniques.
+
+A cette fin, les partenaires sociaux, réunis notamment les 14 décembre 2013, 14 février 2014, 17 avril, 10 juin, 1er octobre et 17 novembre 2014, ont élaboré une nouvelle grille de classification comportant dix groupes de fonctions et manifestant, comme la précédente, une volonté de gradation, d'évolution dans les filières, permettant aux salariés de progresser dans leur métier.
+
+En conséquence, les parties signataires ont adopté la classification ci-après, remplaçant la précédente et dont le champ d'application est identique à celui de la convention collective nationale de l'enseignement privé à distance.
+
+Les dix groupes de fonctions retenus sont les suivants :
+
+1. Entretien, logistique.
+
+2. Administratif.
+
+3. Direction.
+
+4. Juridique, ressources humaines.
+
+5. Comptabilité.
+
+6. Pédagogie.
+
+7. Commercial.
+
+8. Marketing, communication.
+
+9. Création.
+
+10. Informatique, web, e-learning.
+
+Pour chaque groupe, les fonctions sont réparties selon les trois catégories suivantes :
+
+Catégorie A : employés (coefficients 238 à 260).
+
+Catégorie B : techniciens (coefficients 270 à 300).
+
+Catégorie C : cadres (coefficients 320 à 450).
+
+Classification
+
+1. Entretien, logistique
+
+Statut |
+
+Coefficient |
+
+Fonction |
+
+Employés |
+
+238 |
+
+Agent d'entretien
+
+Effectue la maintenance et l'entretien des locaux et espaces à usage collectif selon les règles de sécurité. |
+
+|
+
+240 |
+
+Agent technique de reprographie
+
+Réalise une partie des opérations de reproduction de documents (duplication, façonnage...) à partir des indications données par le client, selon les règles de sécurité et les impératifs de production. |
+
+|
+
+250 |
+
+Magasinier(ère), manutentionnaire, archiviste
+
+Exécute des opérations de réception, de stockage, de tenue des stocks, de préparation de commandes et d'expédition de produits selon les procédures qualité, les règles d'hygiène et de sécurité et les impératifs de délais. |
+
+Techniciens |
+
+270 |
+
+Responsable expédition N1 et reprographie
+
+Supervise et coordonne l'activité d'un ou de plusieurs sites logistiques sur le plan technique (réception, magasinage, stockage, préparation de commandes, expédition...) selon les normes et la réglementation en matière d'hygiène et de sécurité et les objectifs qualité (service, coût, délai). Il (elle) peut manager une à deux personnes. |
+
+|
+
+280 |
+
+Responsable expédition N2
+
+Supervise et coordonne l'activité d'un ou de plusieurs sites logistiques sur les plans technique (réception, magasinage, stockage, préparation de commandes, expédition...), commercial (relation clients, fournisseurs, transporteurs), social (management du personnel) et financier, selon les normes et la réglementation en matière d'hygiène et de sécurité et les objectifs qualité (service, coût, délai). |
+
+Cadres |
+
+320 |
+
+Chef d'atelier reprographie
+
+Coordonne la réalisation des opérations de production de documents (prise de commandes, conseil, façonnage...) à partir des indications données par le client (particulier, professionnel), parfois la mise en forme de documents, le conditionnement des produits pour la livraison. Etablit un devis et effectue des encaissements en règlement de commandes. |
+
+|
+
+400 |
+
+Responsable de fabrication des imprimés
+
+Définit et élabore tout ou partie des données nécessaires à la production/fabrication des produits imprimés en fonction des commandes et des impératifs de production. Conçoit ou participe à la conception de nouveaux produits (graphiques, multimédia...) et élabore des solutions d'amélioration de productivité (techniques, organisationnelles...). |
+
+2. Administratif
+
+Statut |
+
+Coefficient |
+
+Fonction |
+
+Employés |
+
+238 |
+
+Employé(e) de bureau
+
+Son activité peut l'amener à effectuer une ou plusieurs tâches de manière régulière ou épisodique (vérification de documents, frappe et mise en forme de courriers préétablis, saisie informatique, suivi de dossiers administratifs...) selon l'organisation de la structure ou du service. |
+
+|
+
+240 |
+
+Secrétaire N1
+
+Ayant une expérience dans le secrétariat inférieure à 5 ans, son activité consiste à réaliser les travaux simples de secrétariat (frappe de courrier, mise en forme de documents...) et à transmettre les informations (e-mails, notes, fax...) pour le compte d'un ou de plusieurs services ou d'un responsable, selon l'organisation de l'entreprise. |
+
+|
+
+|
+
+Personnel d'accueil + standardiste
+
+Accueille, renseigne et oriente les personnes à l'espace de réception ou au standard téléphonique de la structure et délivre des laissez-passer, badges, billets, invitations… |
+
+|
+
+260 |
+
+Secrétaire N2
+
+Ayant une expérience dans le secrétariat supérieure à 5 ans, son activité consiste à effectuer tous les travaux du secrétariat, y compris ceux intégrant une part d'initiative, pour le compte d'un ou de plusieurs services ou d'un responsable, selon l'organisation de l'entreprise. |
+
+Techniciens |
+
+280 |
+
+Secrétaire de direction
+
+Assiste un ou plusieurs responsable(s) afin d'optimiser la gestion de leur activité (gestion de plannings, organisation de déplacements, communication, préparation de réunions, accueil...). Organise et coordonne les informations internes et externes, parfois confidentielles, liées au fonctionnement de la structure. |
+
+|
+
+320 |
+
+Attaché(e) de direction administrative, comptable ou financière
+
+Assiste un ou plusieurs responsable(s) afin d'optimiser la gestion de leur activité (gestion de plannings, organisation de déplacements, communication, préparation de réunions, accueil...). Organise et coordonne les informations internes et externes, parfois confidentielles, liées au fonctionnement de la structure. Prend en charge le suivi complet de dossiers (contrats de maintenance des équipements, suivi de relance clients, gestion administrative du personnel...) ou d'évènements spécifiques (organisation de séminaires, de salons...). |
+
+3. Direction
+
+Statut |
+
+Coefficient |
+
+Fonction |
+
+Cadres |
+
+400 |
+
+Directeur(trice) administratif(ve) et financier(ère) (DAF) adjoint(e)
+
+Assiste et/ou remplace le directeur dans ses missions : définit et supervise la gestion administrative (procédures, fonctionnement, affaires juridiques...) et financière (trésorerie, contrôle de gestion...) d'une structure selon les choix stratégiques adoptés par les instances dirigeantes et les réglementations (financières, fiscales et commerciales) nationales ou internationales. |
+
+|
+
+|
+
+Directeur(trice) général(e), directeur(trice) d'exploitation adjoint(e)
+
+Assiste et/ou remplace le directeur dans ses missions : dirige une entreprise selon des objectifs de développement économique et de rentabilité financière. Dirige et coordonne les pôles opérationnel et fonctionnel que sont les ressources humaines, la comptabilité, le contrôle de gestion, la communication interne et externe, le système d'information et les services généraux. Il (elle) développe le management par projets. |
+
+|
+
+450 |
+
+Directeur(trice) administratif(ve) et financier(ère) (DAF)
+
+Définit et supervise la gestion administrative (procédures, fonctionnement, affaires juridiques...) et financière (trésorerie, contrôle de gestion...) d'une structure selon les choix stratégiques adoptés par les instances dirigeantes et les réglementations (financières, fiscales et commerciales) nationales ou internationales. |
+
+|
+
+|
+
+Directeur(trice) général(e), directeur(trice) d'exploitation
+
+Dirige une entreprise selon des objectifs de développement économique et de rentabilité financière. Dirige et coordonne les pôles opérationnel et fonctionnel que sont les ressources humaines, la comptabilité, le contrôle de gestion, la communication interne et externe, le système d'information et les services généraux. Il (elle) développe le management par projets. |
+
+4. Juridique, ressources humaines
+
+Statut |
+
+Coefficient |
+
+Fonction |
+
+Techniciens |
+
+270 |
+
+Assistant(e) juridique
+
+Conseille et informe en matière juridique et judiciaire la direction de l'entreprise et l'ensemble des collaborateurs. Etablit des actes juridiques. |
+
+|
+
+|
+
+Assistant(e) des ressources humaines
+
+Participe à la mise en œuvre de la politique de recrutement ou de formation selon les orientations stratégiques de la structure et les objectifs de développement visés. Participe à l'élaboration de la politique de l'emploi de l'entreprise. Peut coordonner une équipe ou diriger un service. |
+
+|
+
+280 |
+
+Juriste
+
+Conseille et informe en matière juridique et judiciaire la direction de l'entreprise et l'ensemble des collaborateurs. Etablit des actes juridiques, intervient pour la gestion des contentieux. |
+
+Cadres |
+
+320 |
+
+Juriste confirmé(e)
+
+Conseille et informe en matière juridique et judiciaire la direction de l'entreprise et l'ensemble des collaborateurs. Etablit des actes juridiques, intervient pour la gestion des contentieux. Assure la sécurité juridique. |
+
+|
+
+350 |
+
+Responsable des ressources humaines
+
+Met en œuvre la politique de management et de gestion des ressources humaines (recrutement, rémunération, mobilité, gestion des carrières...) de la structure. Gère l'administration du personnel (dossiers individuels, paie...). Organise le dialogue social dans l'entité. |
+
+|
+
+400 |
+
+Directeur(trice) des ressources humaines
+
+Définit et met en œuvre la politique de management et de gestion des ressources humaines (recrutement, rémunération, mobilité, gestion des carrières...) de la structure. Elabore ou supervise la gestion administrative du personnel (dossiers individuels, paie...). Contrôle l'application des obligations légales et réglementaires relatives aux conditions et aux relations de travail. Organise le dialogue social et participe aux opérations de communication interne liées aux mutations de l'entreprise. Peut participer à la définition des orientations stratégiques de la structure. |
+
+|
+
+|
+
+Directeur(trice) juridique
+
+Support et conseil juridiques permanents aux différents secteurs d'activité de l'entreprise. Met en œuvre la stratégie de l'entreprise en conduisant des plans d'action visant à assurer la sécurité juridique de l'entreprise. Participe à la validation des procédures d'activité des différentes structures de l'entreprise. Détecte et anticipe les risques juridiques éventuels, étudie et analyse de façon permanente la législation, la réglementation et la jurisprudence. |
+
+5. Comptabilité
+
+Statut |
+
+Coefficient |
+
+Fonction |
+
+Employés |
+
+260 |
+
+Secrétaire comptable, aide-comptable, assistant(e) comptable
+
+Réalise les opérations de gestion administrative et comptable (enregistrement d'écritures, suivi de trésorerie, facturation, gestion administrative du personnel, frappe de devis...) d'une structure selon les règles de comptabilité générale. Réalise des documents de synthèse comptable. |
+
+Techniciens |
+
+270 |
+
+Chargé(e) de recouvrement
+
+Intervient auprès des clients en retard de paiement pour réévaluer leur situation, demander une régularisation et mettre en place la procédure juridique de recouvrement si les créanciers n'effectuent pas leur paiement. |
+
+|
+
+280 |
+
+Comptable
+
+Enregistre et centralise les données commerciales, industrielles ou financières d'une structure pour établir des balances de comptes, comptes de résultats, bilans, etc., selon les obligations légales. Contrôle l'exactitude des écritures comptables et rend compte de la situation économique de la structure. |
+
+|
+
+|
+
+Chargé(e) paie/social
+
+Réalise les fiches de paie, les déclarations et les flux de données vers les organismes sociaux. Réalise l'ensemble des tâches de gestion sociale de l'entreprise. |
+
+Cadres |
+
+320 |
+
+Comptable unique, attaché(e) de direction comptable
+
+Enregistre et centralise les données commerciales, financières d'une structure pour établir des balances de comptes, comptes de résultats, bilans, etc., selon les obligations légales. Contrôle l'exactitude des écritures comptables et rend compte de la situation économique de la structure. Peut réaliser des activités ayant trait à la paie et à la gestion de personnel. Peut gérer une structure. |
+
+|
+
+350 |
+
+Contrôleur(euse) de gestion
+
+Organise et contrôle la gestion économique (définition d'objectifs, indicateurs d'activité, mesure de performance...) d'une structure et en optimise la rentabilité financière selon les choix stratégiques décidés par les instances dirigeantes et les réglementations (commerciales, fiscales et financières). Peut réaliser des études prospectives de résultats de la structure. Peut coordonner une équipe. |
+
+|
+
+400 |
+
+Chef comptable
+
+Supervise l'ensemble des opérations de comptabilité générale jusqu'au bilan (paie, déclarations sociales et fiscales, tableaux de bord de gestion...) selon les règles comptables. Garantit la fiabilité des comptes de l'entreprise en conformité avec les législations comptables, sociales et fiscales. Etablit des tableaux de bord d'ordre comptable. |
+
+6. Pédagogie
+
+Statut |
+
+Coefficient |
+
+Fonction |
+
+Employés |
+
+260 |
+
+Tuteur(trice) N1
+
+Accompagne les élèves dans leur parcours, leur apporte un soutien méthodologique et les oriente vers les services et les personnes aptes à répondre à leurs questions d'ordre pédagogique et/ou administratif. |
+
+Techniciens |
+
+270 |
+
+Chargé(e) de mission pédagogique N1
+
+Pilote le dispositif de formation, développe les moyens pédagogiques, procède à l'organisation et à l'accompagnement de la qualification des personnes en formation. |
+
+|
+
+|
+
+Assistant(e) pédagogique
+
+Sous la responsabilité du directeur pédagogique, il (elle) aide à la gestion des ressources pédagogiques matérielles. |
+
+|
+
+280 |
+
+Professeur(e) correcteur(trice)
+
+Son activité consiste, majoritairement dans l'établissement, à corriger des devoirs et, au cours de cette activité, à correspondre avec les élèves sous quelque forme que ce soit, afin de leur apporter des informations complémentaires. |
+
+|
+
+300 |
+
+Animateur(trice) de stage/de regroupement
+
+Encadre les élèves lors des sessions ou stages prévus par le programme d'étude. Aide les élèves à préciser leurs connaissances dans une ou plusieurs matières des programmes conçus par des professeurs spécialisés, en faisant le point sur leur scolarité et en vérifiant l'évolution de leurs acquisitions. |
+
+|
+
+|
+
+Collaborateur(trice) pédagogique
+
+En plus d'activités de contrôle de connaissances, il (elle) effectue la relecture des cours sur le plan de la forme, de la présentation et de la lisibilité. Il (elle) vérifie l'adaptation des contrôles de connaissances et de documents de soutien et de stimulation, sous la responsabilité d'un cadre du service pédagogique |
+
+|
+
+|
+
+Chargé(e) de mission pédagogique N2
+
+Pilote le dispositif de formation, développe les moyens pédagogiques, procède à l'organisation et à l'accompagnement de la qualification des personnes en formation. Peut dispenser des actions de formation, concevoir et commercialiser un dispositif pédagogique. |
+
+|
+
+|
+
+Chargé(e) du suivi éditorial
+
+Assure le suivi des projets d'édition en lien avec les différents intervenants (auteurs, graphistes, imprimeurs...). Conçoit la mise en page et coordonne la réalisation et la fabrication des ouvrages. Gère l'iconographie d'un point de vue technique et juridique. |
+
+|
+
+|
+
+Tuteur(trice) N2
+
+Accompagne individuellement les élèves dans leur parcours, leur apporte un soutien méthodologique personnalisé tout au long de leur formation. |
+
+Cadres |
+
+320 |
+
+Chargé(e) de mission pédagogique N3
+
+Pilote le dispositif de formation, développe les moyens pédagogiques, procède à l'organisation et à l'accompagnement de la qualification des personnes en formation. Peut dispenser des actions de formation, concevoir et commercialiser un dispositif pédagogique. Coordonne et anime une équipe. |
+
+|
+
+|
+
+Professeur(e) expert
+
+Délivre, dans plusieurs domaines de formation, des conseils pédagogiques afin d'assurer le suivi pédagogique des personnes en formation et répond à leur demande dans le cadre de permanences pédagogiques. Dans le cadre des regroupements d'élèves ou de stages, il (elle) transmettra son savoir ou son savoir-faire. Il dispose d'un diplôme de l'enseignement supérieur ou d'une expertise reconnue. |
+
+|
+
+|
+
+Responsable pédagogique et concepteur(trice) de programmes d'enseignement
+
+Outre les activités de collaborateur pédagogique, l'essentiel de sa tâche consiste à mettre au point des programmes d'enseignement ainsi que l'ensemble des périphériques pédagogiques (contrôle des connaissances, stages, travaux pratiques, matériels d'application, etc.). |
+
+|
+
+400 |
+
+Directeur(trice) pédagogique adjoint(e)
+
+Il assiste et/ou remplace le directeur pédagogique, en particulier en ce qui concerne la connaissance du contenu et du fonctionnement de l'enseignement, la gestion et l'organisation, la coordination de l'équipe pédagogique. Il peut être professeur expert. |
+
+|
+
+450 |
+
+Directeur(trice) de la pédagogie/concepteur(trice) de programmes
+
+Il (elle) est chargé de définir la politique de l'établissement tant en termes de gamme, de contenu qu'en termes de méthode. Il (elle) entretient des relations avec les services extérieurs concernés par la pédagogie. |
+
+7. Commercial
+
+Statut |
+
+Coefficient |
+
+Fonction |
+
+Employés |
+
+240 |
+
+Téléconseiller(ère)/Conseiller(ère)
+
+Prospecte, conseille les candidats dans leur recherche de formation et d'orientation, puis vend les services adaptés selon les objectifs commerciaux de l'entreprise. |
+
+|
+
+260 |
+
+Téléconseiller(ère)/Conseiller(ère) référent(e)
+
+Après acquisition d'une expérience au poste de téléconseiller(ère)/conseiller(ère), organise et suit l'activité de la force de vente selon la politique commerciale de l'entreprise. Il est explicitement nommé référent en termes de transfert de compétence et d'expérience. |
+
+Techniciens |
+
+270 |
+
+Animateur(trice) force de vente N1
+
+Organise et suit l'activité de la force de vente selon la politique commerciale de l'entreprise. Coordonne une équipe de deux conseillers/téléconseillers. |
+
+|
+
+280 |
+
+Animateur(trice) force de vente N2
+
+Organise et suit l'activité de la force de vente selon la politique commerciale de l'entreprise. Coordonne une équipe de plus de deux conseillers/téléconseillers. |
+
+|
+
+300 |
+
+Chef des ventes N1
+
+Organise et suit l'activité de la force de vente selon la politique commerciale de l'entreprise. Coordonne plusieurs équipes de conseillers/téléconseillers. |
+
+Cadres |
+
+320 |
+
+Chef des ventes N2
+
+Organise et suit l'activité de la force de vente selon la politique commerciale de l'entreprise. Coordonne une ou plusieurs équipes de conseillers/téléconseillers. Il est responsable de l'atteinte des objectifs de son ou de ses équipe(s). Il participe au recrutement et à la formation du personnel commercial. Il est en charge de la qualité de la relation client pendant le processus de vente. |
+
+|
+
+400 |
+
+Chef des ventes senior ou directeur(trice) commercial(e) adjoint(e)
+
+Organise et suit l'activité de la force de vente selon la politique commerciale de l'entreprise. Coordonne une ou plusieurs équipes de conseillers/télé-
+
+conseillers. Il est en charge du recrutement, en collaboration avec le service RH le cas échéant, et de la qualité de la relation client pendant le processus de vente. Met en œuvre la stratégie commerciale de l'entreprise selon des objectifs de rentabilité économique définis par la direction. |
+
+|
+
+|
+
+Directeur(trice) commercial(e)
+
+Participe à la définition de la stratégie commerciale de l'entreprise selon des objectifs de rentabilité économique. Dirige un service et coordonne une équipe dans l'optique de mettre en œuvre cette stratégie. |
+
+8. Marketing, communication
+
+Statut |
+
+Coefficient |
+
+Fonction |
+
+Techniciens |
+
+270 |
+
+Référenceur(euse)/Community manager
+
+Il (elle) a pour mission d'accroître la visibilité et l'audience des sites internet en optimisant la visibilité des sites et leur référencement dans les moteurs de recherche et les sites partenaires. Définit les axes stratégiques de référencement, les mots clés, les expressions, les outils de recherche et les annuaires. Assure une veille sur les sites et les forums spécialisés, procède à l'optimisation du site en fonction des mots et expressions choisis. |
+
+|
+
+|
+
+Webmarketeur(trice) N1
+
+Il (elle) met en œuvre la stratégie commerciale et marketing de l'entreprise via internet. Il (elle) peut intervenir sur toutes les actions marketing en ligne : animation des différents sites de l'entreprise, mise à jour des contenus, des mots clés et des campagnes marketing, lancement des nouveaux produits web. Il (elle) assure aussi la veille des initiatives concurrentielles sur internet, le calcul du retour sur investissement des actions. |
+
+|
+
+300 |
+
+Chargé(e) de communication
+
+Met en œuvre des actions de communication et de diffusion de l'information et réalise des outils/supports de communication selon la stratégie de l'entreprise sur tous les supports, y compris TV, radio, papier, web, marketing direct, etc. |
+
+Cadres |
+
+350 |
+
+Responsable de la communication
+
+Organise, met en œuvre des actions de communication et de diffusion de l'information et réalise des outils/supports de communication sur tous supports selon la stratégie de l'entreprise. Peut participer à la définition de la politique de communication et élaborer le plan de communication. Peut diriger un service ou une équipe. |
+
+|
+
+|
+
+Webmarketeur(trice) N2
+
+Il (elle) participe à la création et met en œuvre la stratégie commerciale et marketing de l'entreprise via internet. Il (elle) peut intervenir sur toutes les actions marketing en ligne : animation des différents sites de l'entreprise, mise à jour des contenus, des mots clés et des campagnes marketing, lancement des nouveaux produits web. Il (elle) assure aussi la veille des initiatives concurrentielles sur internet. Il (elle) est responsable du retour sur investissement des actions marketing. |
+
+|
+
+400 |
+
+Directeur(trice) marketing (et communication) adjoint(e)
+
+Assiste et remplace le directeur marketing (et/ou communication). Définit et met en œuvre la stratégie marketing (tarifs, promotions, communication, gammes de produits, supports techniques...) pour une partie des produits de l'entreprise ou sur une catégorie de supports en particulier (par exemple, internet). |
+
+|
+
+450 |
+
+Directeur(trice) marketing (et communication)
+
+Définit et met en œuvre la stratégie marketing (tarifs, promotions, communication, gammes de produits, supports techniques...) pour l'ensemble des produits et des supports de l'entreprise. |
+
+9. Création
+
+Statut |
+
+Coefficient |
+
+Fonction |
+
+Techniciens |
+
+270 |
+
+Maquettiste/graphiste/infographiste/illustrateur(trice) N1
+
+Crée tout ou partie d'éléments graphiques et visuels en vue de produire un document imprimé, audiovisuel ou multimédia (livre, plaquette, page web, CD-ROM, film d'animation...). Peut se spécialiser dans le traitement d'un ou de plusieurs médias (textes, images, son, animation, vidéo, pages internet...) entrant dans la composition d'un support de communication. |
+
+|
+
+300 |
+
+Maquettiste/Graphiste/Infographiste/Illustrateur(trice) N2
+
+Crée tout ou partie d'éléments graphiques et visuels en vue de produire un document imprimé, audiovisuel ou multimédia (livre, plaquette, page web, CD-ROM, film d'animation...). Peut se spécialiser dans le traitement d'un ou de plusieurs médias (textes, images, sons, animation, vidéo, pages internet...) entrant dans la composition d'un support de communication. Il coordonne une équipe et/ou des sous-traitants. |
+
+Cadres |
+
+350 |
+
+Responsable de studio
+
+Supervise et coordonne une équipe (éditeurs, maquettistes, graphistes, réalisateurs vidéo...) pour la réalisation de différents contenus multimédias, en suivant la politique pédagogique et commerciale. Organise la production en relation avec les intervenants internes et externes. |
+
+10. Informatique, web, e-learning
+
+Statut |
+
+Coefficient |
+
+Fonction |
+
+Techniciens |
+
+270 |
+
+Développeur(euse) web
+
+Réalise l'ensemble des fonctionnalités d'un site internet. Technicien capable d'analyser les besoins, afin de concevoir un site. |
+
+|
+
+|
+
+Intégrateur(trice) web
+
+Traduit et transpose les maquettes fournies par l'équipe graphique dans un langage informatique destiné au web. Intervient en amont du projet ; il (elle) supervise les aspects techniques de la réalisation. Formalise d'un point de vue graphique, ergonomique, fonctionnel et technique le site web. Compose la mise en page du site web en y intégrant les éléments des maquettes graphiques : textes, sons, images. |
+
+|
+
+|
+
+Webmaster N1
+
+Conçoit, développe, entretient et fait évoluer des sites ou des services en ligne. Il (elle) est en charge du site web, de son fonctionnement, de son administration et de sa mise à jour. Est en charge de la gestion des licences logicielles et des sous-traitants et hébergeurs. |
+
+|
+
+|
+
+Gestionnaire des systèmes informatiques N1
+
+Intervient sur les logiciels et les moyens informatiques en général, y compris sur les réseaux et les architectures cloud. Effectue tout ou partie de l'installation et de la mise en route de ces matériels et logiciels. Assure le dépannage, la gestion des licences logicielles, l'entretien préventif, la maintenance des matériels informatiques, recherche les causes des pannes et y remédie. |
+
+|
+
+300 |
+
+Programmeur(euse), analyste, développeur(euse)
+
+Conçoit, développe et met au point un projet d'application informatique, de la phase d'étude à son intégration, selon des besoins fonctionnels et un cahier des charges. |
+
+|
+
+|
+
+Technicien(ne) informatique
+
+Supervise, installe et assure la disponibilité des ressources physiques (serveurs, disques, automates, cloud, téléphonie...) et des ressources logiques (logiciels, stockage, etc.) nécessaires au fonctionnement des systèmes de production et d'exploitation informatiques et télécoms de l'entreprise. Surveille le fonctionnement des différents systèmes, réseaux... selon les normes et les méthodes d'exploitation et de sécurité. |
+
+Cadres |
+
+350 |
+
+Gestionnaire des systèmes informatiques N2/ingénieur informatique
+
+Responsable de la disponibilité des ressources physiques (serveurs, disques, automates, cloud, téléphonie...) et des ressources logiques (logiciels, stockage, etc.) Effectue le dépannage, l'entretien et l'installation d'équipements ou de parcs d'équipements informatiques ou bureautiques (matériels, logiciels, réseaux...) selon les règles de sécurité et la réglementation. Peut conseiller, former et assister les utilisateurs (sur site, par télémaintenance, téléassistance...). Peut assembler ou intégrer un équipement (configurations standards ou spécifiques...). Peut coordonner une équipe. |
+
+|
+
+|
+
+Chef de projet, analyste, développeur(euse)
+
+Conçoit, développe et met au point un projet d'application informatique, de la phase d'étude à son intégration, selon des besoins fonctionnels et un cahier des charges. Coordonne une équipe de réalisation interne ou externe. |
+
+|
+
+|
+
+Webmaster N2
+
+Conçoit, développe, entretient et fait évoluer un ensemble de sites ou des services en ligne. Il (elle) est en charge du site web, de son fonctionnement, de son administration et de sa mise à jour. Est en charge de la gestion des licences logicielles et des sous-traitants et hébergeurs. Il (elle) est en charge de l'équipe webmaster. |
+
+|
+
+400 |
+
+Directeur(trice) des technologies
+
+Dirige une équipe de développeurs informatiques, réalise les choix d'architecture et des outils de développement, met au point des logiciels ou des fonctionnalités originales. |
+
+|
+
+|
+
+Directeur(trice) des systèmes d'information
+
+Dirige une organisation, des services, des structures informatiques et télécoms et fixe les évolutions des systèmes d'information et de télécommunications selon les besoins fonctionnels et la stratégie de l'entreprise. Supervise la conception, la mise en œuvre et le maintien opérationnel (qualité, sécurité, fiabilité, coûts, délais) des prestations informatiques produites et des systèmes d'information et télécoms. Supervise et pilote des projets en systèmes d'information. |
+
+(1) L'annexe « Classification » et l'avenant n° 1 du 12 avril 2000 ont été modifiés par l'avenant n° 11 du 3 juillet 2006, par l'accord du 29 août 2001 et par l'avenant n° 20 du 13 décembre 2013.
