@@ -1,0 +1,3 @@
+# Article 1er
+
+En application des articles 12.8 et 12.9 de la convention collective nationale du bâtiment du 8 octobre 1990 concernant les ouvriers employés par les entreprises du bâtiment visées par le décret du 1er mars 1962 (occupant jusqu'à 10 salariés), conformément à l'accord national du 12 février 2002 relatif aux barèmes de salaires minimaux des ouvriers et des ETAM du bâtiment, les organisations représentatives d'employeurs et de salariés se sont réunies le vendredi 30 janvier 2015 et ont déterminé les salaires mensuels minimaux des ouvriers des entreprises artisanales du bâtiment de la région Midi-Pyrénées.
