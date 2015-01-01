@@ -26,6 +26,8 @@ Agrément des citernes des types "OMI"
 
 - APAVE
 
+- Association des contrôleurs indépendants (ACI).
+
 2. Pour chaque nouveau type de citerne mobile, l'un des organismes agréés choisi par le demandeur parmi les organismes cités au paragraphe 1 de la présente annexe établit un certificat d'approbation du prototype (voir annexe 411-6.A.10 pour types 1, 2 et 5, annexe 411-6.A.11 pour type 7).
 
 Le numéro d'agrément attribué au certificat est composé :
