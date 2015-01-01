@@ -3174,35 +3174,11 @@ Code risque |
 
 Taux net de cotisation AT |
 
-Extraction et production de roches massives et de pierres de construction.
+Extraction et préparation de matériaux issus des carrières de roches massives ou meubles
 
 |
 
-14.1AG
-
-|
-
-5,20
-
-|
-
-Extraction et préparation d'amendements, de calcaires industriels, de craies, de gypses, de pierre à ciment et à chaux.
-
-|
-
-14.1CH
-
-|
-
-3,00
-
-|
-
-Extraction et préparation de matériaux alluvionnaires et de roches meubles.
-
-|
-
-14.2AE
+14.1AH
 
 |
 
@@ -3214,9 +3190,7 @@ Extraction, broyage et préparation de produits minéraux divers.
 
 |
 
-14.5ZL
-
-|
+14.5ZM |
 
 3,00
 
@@ -3438,47 +3412,11 @@ Fabrication d'objets divers en bois, de sabots, d'articles en bois pour chaussur
 
 |
 
-Fabrication de pâte à papier intégrée ou non.
+Production et transformation des pâtes à papier et carton.
 
 |
 
-21.1AD
-
-|
-
-3,70
-
-|
-
-Fabrication de papier associée ou non à une transformation.
-
-|
-
-21.1CE
-
-|
-
-3,70
-
-|
-
-Fabrication de papiers imprégnés, goudronnés, paraffinés, enduits, peints. Fabrication de papiers ou articles à usage domestique. Fabrication de carton et cartonnage, d'articles en papier et carton hors articles de papeterie.
-
-|
-
-21.2BC
-
-|
-
-3,20
-
-|
-
-Fabrication d'articles de papeterie.
-
-|
-
-21.2GB
+21.2BD
 
 |
 
@@ -5100,18 +5038,6 @@ Accueil à domicile, à titre onéreux, d'enfants pour le compte de particuliers
 
 |
 
-Cadets de golf.
-
-|
-
-92.6CC
-
-|
-
-2,10 TC
-
-|
-
 Toute personne occupée exclusivement au service de particuliers : employés de maison (femme de ménage, lingère, couturière, blanchisseuse à la journée, chauffeur de maître).
 
 |
@@ -5167,18 +5093,6 @@ Personnels des sièges sociaux et bureaux des entreprises relevant de branches p
 |
 
 1,10
-
-|
-
-Salariés âgés d'au moins 50 ans et de moins de 55 ans dispensés d'activité et maintenus aux effectifs de l'entreprise au titre d'une convention passée en application de l'article R. 5111-1 du code du travail.
-
-|
-
-85.3KA
-
-|
-
-1,00 TC
 
 |
 
