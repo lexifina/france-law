@@ -1,6 +1,6 @@
 # Article B I
 
-B-I. - RÉPARTITION DES EMPLOIS D'ADMINISTRATEUR DE L'ÉDUCATION NATIONALE,
+B-I.-RÉPARTITION DES EMPLOIS D'ADMINISTRATEUR DE L'ÉDUCATION NATIONALE,
 
 de l'enseignement supérieur et de la recherche relevant de l'article 57-2 du décret du 3 décembre 1983 susvisé,
 
@@ -66,7 +66,7 @@ Service départemental de l'éducation nationale de Vaucluse
 
 |
 
-Etablissement public local d'enseignement - Lycée - Chef d'agence comptable
+Etablissement public local d'enseignement-Lycée-Chef d'agence comptable
 
 |
 
@@ -98,7 +98,7 @@ Service départemental de l'éducation nationale de l'Aisne
 
 |
 
-Etablissement public local d'enseignement - Lycée - Chef d'agence comptable
+Etablissement public local d'enseignement-Lycée-Chef d'agence comptable
 
 |
 
@@ -160,7 +160,7 @@ Service départemental de l'éducation nationale du Territoire de Belfort
 
 |
 
-Etablissement public local d'enseignement - Lycée - Chef d'agence comptable
+Etablissement public local d'enseignement-Lycée-Chef d'agence comptable
 
 |
 
@@ -222,7 +222,7 @@ Service départemental de l'éducation nationale des Pyrénées-Atlantiques
 
 |
 
-Etablissement public local d'enseignement - Lycée - Chef d'agence comptable
+Etablissement public local d'enseignement-Lycée-Chef d'agence comptable
 
 |
 
@@ -274,7 +274,7 @@ Service départemental de l'éducation nationale de l'Orne
 
 |
 
-Etablissement public local d'enseignement - Lycée - Chef d'agence comptable
+Etablissement public local d'enseignement-Lycée-Chef d'agence comptable
 
 |
 
@@ -348,7 +348,7 @@ Le service départemental de l'éducation nationale du Puy-de-Dôme
 
 |
 
-Etablissement public local d'enseignement - Lycée - Chef d'agence comptable
+Etablissement public local d'enseignement-Lycée-Chef d'agence comptable
 
 |
 
@@ -386,7 +386,7 @@ Service départemental de l'éducation nationale de la Haute-Corse
 
 |
 
-Etablissement public local d'enseignement - Lycée - Chef d'agence comptable
+Etablissement public local d'enseignement-Lycée-Chef d'agence comptable
 
 |
 
@@ -408,7 +408,7 @@ Rectorat
 
 |
 
-Etablissement public local d'enseignement - Lycée - Chef d'agence comptable
+Etablissement public local d'enseignement-Lycée-Chef d'agence comptable
 
 |
 
@@ -474,7 +474,7 @@ Service départemental de l'éducation nationale de l'Yonne
 
 |
 
-Etablissement public local d'enseignement - Lycée - Chef d'agence comptable
+Etablissement public local d'enseignement-Lycée-Chef d'agence comptable
 
 |
 
@@ -544,7 +544,7 @@ Service départemental de l'éducation nationale de la Haute-Savoie
 
 |
 
-Etablissement public local d'enseignement - Lycée - Chef d'agence comptable
+Etablissement public local d'enseignement-Lycée-Chef d'agence comptable
 
 |
 
@@ -570,7 +570,7 @@ A effet du 1er septembre 2014
 
 |
 
-Etablissement public local d'enseignement - Lycée - Chef d'agence comptable
+Etablissement public local d'enseignement-Lycée-Chef d'agence comptable
 
 |
 
@@ -592,7 +592,7 @@ Rectorat
 
 |
 
-Etablissement public local d'enseignement - Lycée - Chef d'agence comptable
+Etablissement public local d'enseignement-Lycée-Chef d'agence comptable
 
 |
 
@@ -618,7 +618,7 @@ Rectorat
 
 |
 
-Etablissement public local d'enseignement - Lycée - Chef d'agence comptable
+Etablissement public local d'enseignement-Lycée-Chef d'agence comptable
 
 |
 
@@ -670,7 +670,7 @@ Service départemental de l'éducation nationale de la Haute-Vienne
 
 |
 
-Etablissement public local d'enseignement - Lycée - Chef d'agence comptable
+Etablissement public local d'enseignement-Lycée-Chef d'agence comptable
 
 |
 
@@ -716,7 +716,7 @@ Service départemental de l'éducation nationale de la Loire
 
 |
 
-Etablissement public local d'enseignement - Lycée - Chef d'agence comptable
+Etablissement public local d'enseignement-Lycée-Chef d'agence comptable
 
 |
 
@@ -742,7 +742,7 @@ Rectorat
 
 |
 
-Etablissement public local d'enseignement - Lycée - Chef d'agence comptable
+Etablissement public local d'enseignement-Lycée-Chef d'agence comptable
 
 |
 
@@ -798,7 +798,7 @@ Service départemental de l'éducation nationale des Pyrénées-Orientales
 
 |
 
-Etablissement public local d'enseignement - Lycée - Chef d'agence comptable
+Etablissement public local d'enseignement-Lycée-Chef d'agence comptable
 
 |
 
@@ -850,7 +850,7 @@ Service départemental de l'éducation nationale des Vosges
 
 |
 
-Etablissement public local d'enseignement - Lycée - Chef d'agence comptable
+Etablissement public local d'enseignement-Lycée-Chef d'agence comptable
 
 |
 
@@ -916,7 +916,7 @@ Service départemental de l'éducation nationale de la Vendée
 
 |
 
-Etablissement public local d'enseignement - Lycée - Chef d'agence comptable
+Etablissement public local d'enseignement-Lycée-Chef d'agence comptable
 
 |
 
@@ -938,7 +938,7 @@ Rectorat
 
 |
 
-Etablissement public local d'enseignement - Lycée - Chef d'agence comptable
+Etablissement public local d'enseignement-Lycée-Chef d'agence comptable
 
 |
 
@@ -1016,7 +1016,7 @@ Service départemental de l'éducation nationale de Loir-et-Cher
 
 |
 
-Etablissement public local d'enseignement - Lycée - Chef d'agence comptable
+Etablissement public local d'enseignement-Lycée-Chef d'agence comptable
 
 |
 
@@ -1048,7 +1048,7 @@ Service interacadémique des examens et concours
 
 |
 
-Etablissement public local d'enseignement - Lycée - Chef d'agence comptable
+Etablissement public local d'enseignement-Lycée-Chef d'agence comptable
 
 |
 
@@ -1100,7 +1100,7 @@ Service départemental de l'éducation nationale des Deux-Sèvres
 
 |
 
-Etablissement public local d'enseignement - Lycée - Chef d'agence comptable
+Etablissement public local d'enseignement-Lycée-Chef d'agence comptable
 
 |
 
@@ -1166,7 +1166,7 @@ Service départemental de l'éducation nationale de la Haute-Marne
 
 |
 
-Etablissement public local d'enseignement - Lycée - Chef d'agence comptable
+Etablissement public local d'enseignement-Lycée-Chef d'agence comptable
 
 |
 
@@ -1208,7 +1208,7 @@ Service départemental de l'éducation nationale du Morbihan
 
 |
 
-Etablissement public local d'enseignement - Lycée - Chef d'agence comptable
+Etablissement public local d'enseignement-Lycée-Chef d'agence comptable
 
 |
 
@@ -1238,7 +1238,7 @@ A effet du 1er septembre 2014
 
 |
 
-Etablissement public local d'enseignement - Lycée - Chef d'agence comptable
+Etablissement public local d'enseignement-Lycée-Chef d'agence comptable
 
 |
 
@@ -1270,7 +1270,7 @@ Service départemental de l'éducation nationale de l'Eure
 
 |
 
-Etablissement public local d'enseignement - Lycée - Chef d'agence comptable
+Etablissement public local d'enseignement-Lycée-Chef d'agence comptable
 
 |
 
@@ -1316,7 +1316,7 @@ Service départemental de l'éducation nationale du Haut-Rhin
 
 |
 
-Etablissement public local d'enseignement - Lycée - Chef d'agence comptable
+Etablissement public local d'enseignement-Lycée-Chef d'agence comptable
 
 |
 
@@ -1408,7 +1408,7 @@ Service départemental de l'éducation nationale de Tarn-et-Garonne
 
 |
 
-Etablissement public local d'enseignement - Lycée - Chef d'agence comptable
+Etablissement public local d'enseignement-Lycée-Chef d'agence comptable
 
 |
 
@@ -1430,7 +1430,7 @@ Rectorat
 
 |
 
-Etablissement public local d'enseignement - Lycée - Chef d'agence comptable
+Etablissement public local d'enseignement-Lycée-Chef d'agence comptable
 
 |
 
@@ -1490,7 +1490,7 @@ A effet du 1er septembre 2014
 
 |
 
-Centre national de documentation pédagogique
+Réseau Canopé
 
 |
 
