@@ -1,0 +1,27 @@
+# Article unique (1)
+
+L'article 40 de la convention collective relatif à la prime d'ancienneté est modifié dans les termes suivants :
+
+« Les salariés des ports de plaisance bénéficient d'une prime d'ancienneté qui est calculée à partir de leur salaire mensuel brut de base.
+
+Ce salaire correspond au salaire du coefficient mentionné sur le bulletin de salaire, à l'exclusion des compléments de rémunération et des points supplémentaires ou complémentaires constituant le salaire mensuel du salarié.
+
+La rémunération servant au calcul de la prime d'ancienneté n'est pas modifiée par le présent article. Ainsi, cette modification de taux ne doit pas remettre en cause certains avantages individuels ou collectifs relatifs à la détermination de l'assiette de rémunération servant au calcul de la prime. Toutefois, chaque employeur devra préciser les modalités de mise en œuvre de cette mesure par la voie d'un accord d'entreprise ou d'une décision unilatérale.
+
+On entend par ancienneté toutes les périodes assimilées à du travail effectif, soit : les périodes de congés payés, les absences pour maternité ou adoption, les absences pour accident du travail ou maladie professionnelle limitées à une durée de 1 an, les jours de repos supplémentaires octroyés en compensation de la réduction du temps de travail, les congés de formation économique et syndicale.
+
+L'ancienneté se décompte à partir du premier jour d'embauche en contrat à durée indéterminée ou du premier jour en contrat à durée déterminée si celui-ci précède l'embauche en durée indéterminée sans interruption entre les contrats successifs.
+
+La prime d'ancienneté est calculée dans les conditions suivantes : 1,5 % après 2 années de présence, plus 1,5 % toutes les 2 années supplémentaires, avec un maximum de 21 %.
+
+Le bénéfice de la prime d'ancienneté interviendra pour la première paie du mois civil suivant la date à laquelle le salarié réunit les conditions d'ouverture au bénéfice de la prime.
+
+Le salarié qui bénéficie actuellement de la prime d'ancienneté de 18 % verra sa prime portée à 21 % si celui-ci bénéficie de l'ancienneté le justifiant. Le relèvement de plafond peut s'effectuer en une ou plusieurs fois. Le nouveau taux sera effectif au plus tard à la fin de la période de mise en conformité, soit le 31 décembre 2016.
+
+Les partenaires sociaux s'engagent à établir un bilan du présent article à la fin de l'année 2015 et à la fin de l'année 2016. »
+
+Les dispositions du présent article sont applicables au 1er janvier 2015.
+
+(1)
+
+Article étendu sous réserve du respect des dispositions législatives et réglementaires assimilant certaines périodes à du temps de travail effectif pour la détermination des droits que le salarié tient de son ancienneté (arrêté du 21 juillet 2015, art. 1er).
