@@ -4,9 +4,9 @@ I.-Les sociétés ou organismes français ou étrangers passibles de l'impôt su
 
 La contribution est égale à 3 % des montants distribués. Toutefois, elle n'est pas applicable :
 
-1° Aux montants distribués entre sociétés du même groupe au sens de l'article 223 A, y compris pour les montants mis en paiement par une société du groupe au cours du premier exercice dont le résultat n'est pas pris en compte dans le résultat d'ensemble si la distribution a lieu avant l'événement qui entraîne sa sortie du groupe ;
+1° Aux montants distribués entre sociétés du même groupe au sens de l'article 223 A ou de l'article 223 A bis, y compris pour les montants mis en paiement par une société du groupe au cours du premier exercice dont le résultat n'est pas pris en compte dans le résultat d'ensemble si la distribution a lieu avant l'événement qui entraîne sa sortie du groupe ;
 
-2° Aux montants distribués aux entités mentionnées au 2° du 6 de l'article 206 par des entités affiliées à un même organe central au sens de l'article L. 511-31 du code monétaire et financier ou aux montants distribués, directement ou indirectement, aux caisses locales, départementales ou interdépartementales mentionnées au troisième alinéa de l'article 223 A du présent code et rattachées au même organe central au sens de l'article L. 511-31 précité par des entités que ces caisses contrôlent conjointement, directement ou indirectement, à plus de 95 % ;
+2° Aux montants distribués aux entités mentionnées au 2° du 6 de l'article 206 par des entités affiliées à un même organe central au sens de l'article L. 511-31 du code monétaire et financier ou aux montants distribués, directement ou indirectement, aux caisses locales, départementales ou interdépartementales mentionnées au cinquième alinéa du I de l'article 223 A du présent code et rattachées au même organe central au sens de l'article L. 511-31 précité par des entités que ces caisses contrôlent conjointement, directement ou indirectement, à plus de 95 % ;
 
 3° Aux montants distribués par les sociétés ayant opté pour le régime prévu à l'article 208 C à des sociétés ayant opté pour le même régime et détenant la société distributrice dans les conditions prévues au premier alinéa du II ou au III bis de ce même article ainsi qu'aux montants distribués par ces sociétés pour satisfaire à leurs obligations de distribution mentionnées aux deuxième à quatrième alinéas du II dudit article ;
 
@@ -24,4 +24,4 @@ Pour l'application du deuxième alinéa du présent III, les sommes réputées d
 
 NOTA :
 
-Modifications effectuées en conséquence de l'article 14-I [3°] b et 14-II de la loi n° 2008-1425 du 27 décembre 2008 : Au II de ces articles, les mots : et l'imposition forfaitaire annuelle mentionnée à l'article 223 septies deviennent sans objet.
+Conformément au II de l'article 71 de la loi n° 2014-1655 du 29 décembre 2014 de finances rectificative pour 2014, ces dispositions s'appliquent aux exercices clos à compter du 31 décembre 2014.
