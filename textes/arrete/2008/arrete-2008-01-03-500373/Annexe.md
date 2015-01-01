@@ -226,7 +226,7 @@ Président et procureur de la République : Saint-Pierre-et-Miquelon
 
 Tribunaux de grande instance et tribunaux de première instance
 
-DESIGNATION DE L'EMPLOI
+DÉSIGNATION DE L'EMPLOI
 
 |
 
@@ -234,15 +234,17 @@ NOMBRE D'EMPLOIS
 
 |
 
-NOMBRE DE POINTS PAR EMPLOI
+NOMBRE DE POINTS
+
+par emploi
 
 |
 
-Président et procureur de la République : tribunal de grande instance de Paris
+Président, procureur de la République et procureur de la République financier : tribunal de grande instance de Paris
 
 |
 
-2
+3
 
 |
 
@@ -250,9 +252,7 @@ Président et procureur de la République : tribunal de grande instance de Paris
 
 |
 
-Président et procureur de la République : tribunaux de grande instance de Bobigny, Bordeaux, Créteil, Evry, Lille, Lyon, Marseille,
-
-Nanterre, Pontoise, Toulouse et Versailles
+Président et procureur de la République : tribunaux de grande instance de Bobigny, Bordeaux, Créteil, Evry, Lille, Lyon, Marseille, Nanterre, Pontoise, Toulouse et Versailles
 
 |
 
@@ -264,13 +264,7 @@ Nanterre, Pontoise, Toulouse et Versailles
 
 |
 
-Président et procureur de la République : tribunaux de grande instance de : Aix-en-Provence, Amiens, Angers, Avignon, Béthune,
-
-Boulogne-sur-Mer, Bourg-en-Bresse, Brest, Caen, Cayenne, Clermont-Ferrand, Dijon, Draguignan, Evreux, Fort-de-France, Grasse,
-
-Grenoble, Le Havre, Le Mans, Meaux, Melun, Metz, Montpellier, Mulhouse, Nancy, Nantes, Nice, Nîmes, Orléans, Perpignan,
-
-Pointe-à-Pitre, Poitiers, Rennes, Rouen, Saint-Brieuc, Saint-Etienne, Saint-Denis de La Réunion, Strasbourg, Toulon, Tours, Valence, Valenciennes
+Président et procureur de la République : tribunaux de grande instance d'Aix-en-Provence, Amiens, Angers, Avignon, Béthune, Boulogne-sur-Mer, Bourg-en-Bresse, Brest, Caen, Cayenne, Clermont-Ferrand, Dijon, Draguignan, Evreux, Fort-de-France, Grasse, Grenoble, Le Havre, Le Mans, Meaux, Melun, Metz, Montpellier, Mulhouse, Nancy, Nantes, Nice, Nîmes, Orléans, Perpignan, Pointe-à-Pitre, Poitiers, Rennes, Rouen, Saint-Brieuc, Saint-Etienne, Saint-Denis de La Réunion, Strasbourg, Toulon, Tours, Valence, Valenciennes
 
 |
 
@@ -282,17 +276,7 @@ Pointe-à-Pitre, Poitiers, Rennes, Rouen, Saint-Brieuc, Saint-Etienne, Saint-Den
 
 |
 
-Président et procureur de la République : tribunaux de grande instance et tribunaux de première instance de : Agen, Albertville,
-
-Angoulême, Annecy, Arras, Avesnes-sur-Helpe, Bayonne, Beauvais, Besançon, Béziers, Blois, Bourges, Brive-la-Gaillarde, Carpentras,
-
-Chalon-sur-Saône, Châlons-en-Champagne, Chambéry, Charleville-Mézières, Chartres, Châteauroux, Colmar, Coutances, Douai,
-
-Dunkerque, Epinal, Laon, La Rochelle, La Roche-sur-Yon, Laval, Limoges, Lons-le-Saunier, Lorient, Montauban, Nevers, Niort, Nouméa,
-
-Papeete, Pau, Périgueux, Privas, Quimper, Reims, Rodez, Saint-Malo, Saint-Nazaire, Saint-Pierre de La Réunion, Saintes, Sarreguemines,
-
-Senlis, Tarascon, Tarbes, Thionville, Thonon-les-Bains, Troyes, Vannes, Vesoul, Vienne
+Président et procureur de la République : tribunaux de grande instance et tribunaux de première instance d'Agen, Albertville, Angoulême, Annecy, Arras, Avesnes-sur-Helpe, Bayonne, Beauvais, Besançon, Béziers, Blois, Bourges, Brive-la-Gaillarde, Carpentras, Chalon-sur-Saône, Châlons-en-Champagne, Chambéry, Charleville-Mézières, Chartres, Châteauroux, Colmar, Coutances, Douai, Dunkerque, Epinal, Laon, La Rochelle, La Roche-sur-Yon, Laval, Limoges, Lons-le-Saunier, Lorient, Montauban, Nevers, Niort, Nouméa, Papeete, Pau, Périgueux, Privas, Quimper, Reims, Rodez, Saint-Malo, Saint-Nazaire, Saint-Pierre de La Réunion, Saintes, Sarreguemines, Senlis, Tarascon, Tarbes, Thionville, Thonon-les-Bains, Troyes, Vannes, Vesoul, Vienne
 
 |
 
