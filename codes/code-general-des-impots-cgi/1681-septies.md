@@ -8,10 +8,10 @@
 
 4. Les paiements mentionnés à l'article 1668 sont effectués par télérèglement.
 
-5. Les entreprises soumises à l'impôt sur les sociétés, qu'elles en soient redevables ou non, acquittent la taxe sur les salaires mentionnée à l'article 231 par télérèglement.
+5. Les paiements de la taxe sur les salaires mentionnée à l'article 231 sont effectués par télérèglement.
 
 6. Les paiements mentionnés aux 2 et 3 de l'article 1681 sexies peuvent également être effectués par télérèglement.
 
 NOTA :
 
-Conformément à l'article 20 de la loi n° 2010-1657 du 29 décembre 2010 de finances pour 2011 l'entrée en vigueur des dispositions du I et du II de l'article 14 de la loi n° 2008-1425 du 27 décembre 2008 prévoyant la suppression des termes "l'imposition forfaitaire annuelle et" à compter du 1er janvier 2011 a été reportée au 1er janvier 2014.
+Conformément à l'article 20 II de la loi n° 2013-1279 du 29 décembre 2013 de finances rectificative pour 2013, les dispositions de l'article 1681 septies, dans leur rédaction issue de la présente loi, s'appliquent à la taxe due sur les rémunérations versées à compter du 1er janvier 2015.
