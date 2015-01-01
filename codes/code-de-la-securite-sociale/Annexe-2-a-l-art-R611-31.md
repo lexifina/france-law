@@ -1,12 +1,44 @@
 # Article Annexe 2 (R611-21 et R611-22)
 
+Annexe 2 à l'article R. 611-21
+
 Circonscription et composition des conseils d'administration des caisses de base du régime social des travailleurs indépendants
 
-|
-
-Élus
+I - Caisses communes aux groupes des artisans et des industriels ou commerçants
 
 |
+
+|
+
+ÉLUS
+
+|
+
+|
+
+|
+
+|
+
+Caisses de base
+
+|
+
+|
+
+Artisans
+
+|
+
+|
+
+Professions libérales
+
+|
+
+Total
+
+des élus
 
 |
 
@@ -16,27 +48,19 @@ Catég.
 
 |
 
-Caisses de base
-
 |
 
 Circonscription
 
 |
 
-Artisans
-
 |
 
-Industriels et commerçants
+Industriels
+
+et commerçants
 
 |
-
-Professions libérales
-
-|
-
-Total des élus
 
 |
 
@@ -48,7 +72,7 @@ Circonscription
 
 |
 
-N°
+No
 
 |
 
@@ -76,13 +100,7 @@ Actifs
 
 |
 
-retraités
-
-|
-
-|
-
-I.- Caisses communes aux groupes des artisans et des industriels ou commerçants
+Retraités
 
 |
 
@@ -146,7 +164,9 @@ Champagne-Ardenne.
 
 |
 
-Ardennes, Aube, Marne, Haute-Marne.
+Ardennes, Aube,
+
+Marne, Haute-Marne.
 
 |
 
@@ -222,8 +242,6 @@ Haute-Corse, Corse-du-Sud.
 
 |
 
-1
-
 |
 
 Franche-Comté.
@@ -234,7 +252,9 @@ Franche-Comté.
 
 |
 
-Doubs, Jura, Haute-Savoie, Territoire de Belfort.
+Doubs, Jura, Haute-Saône,
+
+Territoire-de-Belfort.
 
 |
 
@@ -266,8 +286,6 @@ Doubs, Jura, Haute-Savoie, Territoire de Belfort.
 
 |
 
-1
-
 |
 
 Limousin.
@@ -278,7 +296,9 @@ Limousin.
 
 |
 
-Corrèze, Creuse, Haute-Vienne.
+Corrèze, Creuse,
+
+Haute-Vienne.
 
 |
 
@@ -366,7 +386,11 @@ Auvergne.
 
 |
 
-Allier, Cantal, Haute-Loire, Puy-de-Dôme.
+Allier, Cantal,
+
+Haute-Loire,
+
+Puy-de-Dôme.
 
 |
 
@@ -402,7 +426,7 @@ Allier, Cantal, Haute-Loire, Puy-de-Dôme.
 
 |
 
-Bourgogne.
+Bourgogne,
 
 |
 
@@ -410,7 +434,9 @@ Bourgogne.
 
 |
 
-Côte-d'Or, Nièvre, Saône-et-Loire, Yonne.
+Côte-d'Or, Nièvre,
+
+Saône-et-Loire, Yonne.
 
 |
 
@@ -454,7 +480,9 @@ Lorraine.
 
 |
 
-Meurthe-et-Moselle, Meuse, Moselle, Vosges.
+Meurthe-et-Moselle, Meuse,
+
+Moselle, Vosges.
 
 |
 
@@ -490,7 +518,7 @@ Meurthe-et-Moselle, Meuse, Moselle, Vosges.
 
 |
 
-Bassse-Normandie.
+Basse-Normandie.
 
 |
 
@@ -538,7 +566,7 @@ Haute-Normandie.
 
 |
 
-27-76.
+27-76,
 
 |
 
@@ -586,7 +614,11 @@ Poitou-Charentes.
 
 |
 
-Charente, Charente-Maritime, Deux-Sèvres, Vienne.
+Charente,
+
+Charente-Maritime,
+
+Deux-Sèvres, Vienne.
 
 |
 
@@ -630,7 +662,9 @@ Alpes (Grenoble).
 
 |
 
-Drôme, Isère, Savoie, Haute-Savoie.
+Drôme, Isère, Savoie,
+
+Haute-Savoie.
 
 |
 
@@ -674,7 +708,11 @@ Aquitaine.
 
 |
 
-Dordogne, Gironde, Landes, Lot-et-Garonne, Pyrénées-Atlantiques.
+Dordogne, Gironde, Landes,
+
+Lot-et-Garonne,
+
+Pyrénées-Atlantiques.
 
 |
 
@@ -710,7 +748,7 @@ Dordogne, Gironde, Landes, Lot-et-Garonne, Pyrénées-Atlantiques.
 
 |
 
-Bretagne.
+Bretagne
 
 |
 
@@ -718,7 +756,11 @@ Bretagne.
 
 |
 
-Côtes-d'Armor, Finistère, Ile-et-Vilaine, Morbihan.
+Côtes-d'Armor, Finistère,
+
+Ille-et-Vilaine,
+
+Morbihan.
 
 |
 
@@ -758,11 +800,15 @@ Centre.
 
 |
 
-28-36-37-41-45.
+18-28-36-37-41-45.
 
 |
 
-Cher, Eure-et-Loir, Indre, Indre-et-Loire, Loir-et-Cher, Loiret.
+Cher, Eure-et-Loir, Indre,
+
+Indre-et-Loire,
+
+Loir-et-Cher, Loiret.
 
 |
 
@@ -850,7 +896,9 @@ Languedoc-Roussillon.
 
 |
 
-Aude, Gard, Hérault, Lozère, Pyrénées-Orientales.
+Aude, Gard, Hérault, Lozère,
+
+Pyrénées-Orientales.
 
 |
 
@@ -894,7 +942,15 @@ Midi-Pyrénées.
 
 |
 
-Ariège, Aveyron, Haute-Garonne, Lot, Gers, Hautes-Pyrénées, Tarn, Tarn-et-Garonne.
+Ariège, Aveyron,
+
+Haute-Garonne, Lot,
+
+Gers,
+
+Hautes-Pyrénées, Tarn,
+
+Tarn-et-Garonne.
 
 |
 
@@ -982,7 +1038,9 @@ Paris Centre.
 
 |
 
-Paris, Seine-Saint-Denis.
+Paris,
+
+Seine-Saint-Denis.
 
 |
 
@@ -1026,7 +1084,11 @@ Paris Est.
 
 |
 
-Seine-et-Marne, Essonne, Val-de-Marne.
+Seine-et-Marne,
+
+Essonne,
+
+Val-de-Marne.
 
 |
 
@@ -1070,7 +1132,9 @@ Paris Ouest.
 
 |
 
-Yvelines, Val-d'Oise, Hauts-de-Seine.
+Yvelines, Val-d'Oise,
+
+Hauts-de-Seine.
 
 |
 
@@ -1114,7 +1178,13 @@ Pays de Loire.
 
 |
 
-Loire-Atlantique, Maine-et-Loire, Mayenne, Sarthe, Vendée.
+Loire-Atlantique,
+
+Maine-et-Loire,
+
+Mayenne, Sarthe,
+
+Vendée.
 
 |
 
@@ -1158,7 +1228,15 @@ Provence-Alpes.
 
 |
 
-Alpes-de-Haute-Provence, Hautes-Alpes, Bouches-du-Rhône, Vaucluse.
+Alpes-de-Haute‑
+
+Provence,
+
+Hautes-Alpes,
+
+Bouches-du-Rhône,
+
+Vaucluse.
 
 |
 
@@ -1202,7 +1280,9 @@ Rhône (Lyon).
 
 |
 
-Ain, Ardèche, Loire, Rhône.
+Ain, Ardèche, Loire,
+
+Rhône.
 
 |
 
@@ -1230,7 +1310,7 @@ Ain, Ardèche, Loire, Rhône.
 
 |
 
-II. - Caisses des professions libérales
+II - Caisse des professions libérales de France métropolitaine
 
 |
 
@@ -1238,59 +1318,19 @@ II. - Caisses des professions libérales
 
 |
 
-2
-
-|
-
-PL Ile-de-France.
-
-|
-
-75-77-78-91-92-93-94-95.
-
-|
-
-Paris, Seine-et-Marne, Yvelines, Essonne, Hauts-de-Seine, Seine-Saint-Denis, Val-de-Marne, Val-d'Oise.
-
-|
-
-|
-
-|
-
-|
-
-|
-
-20
-
-|
-
-10
-
-|
-
-30
-
-|
-
-28
-
-|
-
 3
 
 |
 
-PL province.
+France métropolitaine
 
 |
 
-Province.
+France métropolitaine
 
 |
 
-Province.
+France métropolitaine
 
 |
 
@@ -1314,11 +1354,11 @@ Province.
 
 |
 
-III. - Caisses des départements d'outre-mer
+III - Caisses des départements d'outre-mer
 
 |
 
-29
+28
 
 |
 
@@ -1330,11 +1370,13 @@ Antilles-Guyane.
 
 |
 
-971-972-973.
+971-972-973,
 
 |
 
-Guadeloupe, Guyane, Martinique.
+Guadeloupe, Guyane,
+
+Martinique.
 
 |
 
@@ -1366,7 +1408,7 @@ Guadeloupe, Guyane, Martinique.
 
 |
 
-30
+29
 
 |
 
@@ -1413,3 +1455,7 @@ Réunion.
 24
 
 |
+
+NOTA :
+
+Conformément à l’article 17 II du décret n° 2018-174 du 9 mars 2018, jusqu’à leur dissolution les dispositions du présent article restent applicables aux caisses déléguées pour la sécurité sociale des indépendants dans leur rédaction antérieure à la publication dudit décret.

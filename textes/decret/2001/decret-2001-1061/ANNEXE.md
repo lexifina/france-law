@@ -6,9 +6,9 @@ Fonctions de catégories A, B ou C de l'administration pénitentiaire dans les s
 
 Fonctions de catégories A, B ou C de la protection judiciaire de la jeunesse :
 
-1. En centre de placement immédiat, en centre éducatif renforcé ou en foyer accueillant principalement des jeunes issus des zones urbaines sensibles ;
+1. En centre de placement immédiat, en centre éducatif renforcé ou en foyer accueillant principalement des jeunes issus des quartiers prioritaires de la politique de la ville ;
 
-2. En centre d'action éducative situé en zone urbaine sensible ;
+2. En centre d'action éducative situé dans un quartier prioritaire de la politique de la ville ;
 
 3. Intervenant dans le ressort territorial d'un contrat local de sécurité.
 

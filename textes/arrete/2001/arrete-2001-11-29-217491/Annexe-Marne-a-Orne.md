@@ -6,31 +6,23 @@ FONCTIONS EXERCÉES
 
 |
 
-NIVEAU
-
-de qualification
+NIVEAU DE QUALIFICATION
 
 de l'emploi
 
 |
 
-NOMBRE
-
-d'emplois
+NOMBRE D'EMPLOIS
 
 |
 
-NOMBRE
-
-de points (IM)
+NOMBRE DE POINTS (IM)
 
 par emploi
 
 |
 
-Chef du service habitat et construction
-
-|
+Adjoint au chef du service habitat et ville durables |
 
 A
 
@@ -462,7 +454,7 @@ A
 
 |
 
-Mise en oeuvre de la politique sociale de l'habitat
+Mise en œuvre de la politique sociale de l'habitat
 
 |
 

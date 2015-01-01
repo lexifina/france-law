@@ -130,7 +130,7 @@ C
 
 |
 
-Direction départementale de l'équipement et de l'agriculture (2) de l'Yonne
+Direction départementale des territoires (2) de l'Yonne
 
 FONCTIONS EXERCEES
 
@@ -154,9 +154,7 @@ par emploi
 
 |
 
-Chef du bureau des études du logement social
-
-|
+Adjoint au chef de service urbanisme, habitat, renouvellement urbain |
 
 A
 
@@ -932,7 +930,7 @@ NOTA :
 
 (1) En application de l'article 6 du décret n° 2006-1740 du 23 décembre 2006, l'intitulé "direction départementale de l'équipement" est remplacé par l'intitulé "direction départementale de l'équipement et de l'agriculture" au 1er janvier 2007.
 
-(2) En application de l'article 6 du décret n° 2006-1740 du 23 décembre 2006, l'intitulé "direction départementale de l'équipement" est remplacé par l'intitulé "direction départementale de l'équipement et de l'agriculture" au 1er janvier 2009.
+(2) En application de l'article 6 du décret n° 2006-1740 du 23 décembre 2006, l'intitulé "direction départementale de l'équipement" est remplacé par l'intitulé "direction départementale de l'équipement et de l'agriculture" au 1er janvier 2009. En application de l'article 20 du décret n° 2009-1484 du 3 décembre 2009, l'intitulé "direction départementale de l'équipement et de l'agriculture" est remplacé par l'intitulé "direction départementale des territoires".
 
 Arrêté du 12 décembre 2012 art. 1 : les modifications insérées par le présent arrêté sont à effet du 1er novembre 2011 pour le département du Territoire de Belfort.
 

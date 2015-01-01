@@ -1,6 +1,6 @@
 # Article ANNEXE
 
-Fonctions exercées à titre principal dans les zones urbaines sensibles.
+Fonctions exercées à titre principal dans les quartiers prioritaires de la politique de la ville.
 
 Fonctions de coordination de la politique de la ville.
 

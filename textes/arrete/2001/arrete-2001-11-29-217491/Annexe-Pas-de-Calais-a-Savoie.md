@@ -1,20 +1,16 @@
 # Article Annexe Pas-de-Calais à Savoie
 
-Direction départementale de l'équipement du Pas-de-Calais
+Direction départementale des territoires et de la mer du Pas-de-Calais
 
-FONCTIONS EXERCEES
+FONCTIONS EXERCÉES |
 
-|
+NIVEAU DE QUALIFICATION
 
-NIVEAU
-
-de qualification de l'emploi
+de l'emploi
 
 |
 
-NOMBRE
-
-d'emplois
+NOMBRE D'EMPLOIS
 
 |
 
@@ -24,23 +20,7 @@ par emploi
 
 |
 
-Coordinateur territorial habitat et renouvellement urbain
-
-|
-
-A
-
-|
-
-2
-
-|
-
-30
-
-|
-
-Responsable de la cellule ANRU au service habitat
+Responsable d'unité habitat-renouvellement urbain-Coordination territoriale Côte d'Opale
 
 |
 
@@ -56,7 +36,39 @@ A
 
 |
 
-Chargé de l'animation et de la mise en oeuvre du renouvellement urbain
+Responsable d'unité renouvellement urbain-Coordination territoriale Artois
+
+|
+
+A
+
+|
+
+1
+
+|
+
+30
+
+|
+
+Responsable d'unité rénovation et qualité urbaine-Service habitat durable
+
+|
+
+A
+
+|
+
+1
+
+|
+
+30
+
+|
+
+Chargé de mission politique de la ville-Service habitat durable
 
 |
 
@@ -72,7 +84,7 @@ A
 
 |
 
-Gestionnaire renouvellement urbain
+Adjoint au chef d'unité rénovation et qualité urbaine-Service habitat durable
 
 |
 
@@ -80,13 +92,43 @@ B
 
 |
 
-6
+1
 
 |
 
-20 points
+20
 
 |
+
+Chargé d'instruction à l'unité rénovation et qualité urbaine-Service habitat durable
+
+|
+
+B
+
+|
+
+4
+
+|
+
+20
+
+|
+
+Assistant d'études Boulonnais à l'unité habitat-renouvellement urbain-Coordination territoriale Côte d'Opale
+
+|
+
+B
+
+|
+
+1
+
+|
+
+20 |
 
 Direction départementale de l'équipement et de l'agriculture (2) des Pyrénées-Atlantiques
 
@@ -200,7 +242,7 @@ A
 
 |
 
-Direction départementale de l'équipement du Bas-Rhin
+Direction départementale des territoires du Bas-Rhin
 
 FONCTIONS EXERCEES
 
@@ -224,23 +266,7 @@ par emploi
 
 |
 
-Délégué de l'Etat
-
-|
-
-A
-
-|
-
-3
-
-|
-
-30 points
-
-|
-
-Correspondant Etat
+Adjoint au chef de service en charge de la politique de la ville
 
 |
 
@@ -256,7 +282,55 @@ A
 
 |
 
-Responsable de la politique sociale du logement
+Chef du pôle renouvellement urbain
+
+|
+
+A
+
+|
+
+1
+
+|
+
+30 points
+
+|
+
+Chargé de mission renouvellement urbain
+
+|
+
+A
+
+|
+
+1
+
+|
+
+30 points
+
+|
+
+Chargé d'opération renouvellement urbain
+
+|
+
+A
+
+|
+
+1
+
+|
+
+30 points
+
+|
+
+Chargé de mission loi SRU
 
 |
 
@@ -328,7 +402,7 @@ B
 
 |
 
-Direction départementale de l'équipement du Rhône
+Direction départementale des territoires du Rhône
 
 FONCTIONS EXERCEES
 
@@ -352,7 +426,7 @@ par emploi
 
 |
 
-Chef du service politique de la ville
+Adjoint au chef de service, en charge de la mission politique de la ville et renouvellement urbain-service habitat et renouvellement urbain
 
 |
 
@@ -416,7 +490,7 @@ C
 
 |
 
-Direction départementale de l'équipement et de l'agriculture (2) de la Haute-Saône
+Direction départementale des territoires de la Haute-Saône
 
 FONCTIONS EXERCEES
 
@@ -440,7 +514,7 @@ par emploi
 
 |
 
-Chargé du bureau techniques et financement du logement
+Chef de la cellule financement et droit du logement - service urbanisme habitat et constructions
 
 |
 
@@ -456,7 +530,7 @@ A
 
 |
 
-Adjoint au chef du bureau techniques et financement du logement
+Chargé de mission politique sociale du logement - cellule financement et droit du logement - service urbanisme habitat et constructions
 
 |
 
@@ -472,7 +546,7 @@ B
 
 |
 
-Gestionnaire au bureau techniques et financement du logement
+Instructeur dossiers financement du logement social - cellule financement et droit du logement - service urbanisme habitat et constructions
 
 |
 

@@ -4,7 +4,7 @@
 
 DESIGNATION DES FONCTIONS ELIGIBLES
 
-en zone urbaine sensible
+dans les quartiers prioritaires de la politique de la ville
 
 |
 
@@ -250,7 +250,7 @@ Nombre de points attribués
 
 DESIGNATION DES FONCTIONS ELIGIBLES
 
-en zone urbaine sensible
+dans les quartiers prioritaires de la politique de la ville
 
 |
 
