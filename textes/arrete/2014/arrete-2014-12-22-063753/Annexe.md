@@ -1,58 +1,64 @@
-# Article ANNEXE
+# Article Annexe
 
-1° Délivrance de documents à l'unité
+1. Délivrance à l'unité de conclusions de rapporteur public ou de commissaire du Gouvernement
 
-a) Décisions et avis contentieux du Conseil d'Etat et du tribunal des conflits
+La délivrance, à partir de références communiquées par le demandeur, de la copie de conclusions prononcées par les rapporteurs publics devant le Conseil d'Etat ou une cour administrative d'appel, ou de conclusions prononcées par les commissaires du Gouvernement devant le Tribunal des conflits, donne lieu à la perception des redevances suivantes :
 
-5 Euros
+Conclusions prononcées devant les formations d'assemblée du contentieux, de section du contentieux ou de plénière du contentieux du Conseil d'Etat : 10 euros
 
-b) Conclusions de commissaires du Gouvernement :
+Conclusions prononcées devant une autre formation de jugement du Conseil d'Etat ou le Tribunal des conflits : 7 euros
 
-- relatives à une affaire jugée par les formations d'assemblée ou de section du contentieux
+Conclusions prononcées devant une cour administrative d'appel : 7 euros.
 
-10 Euros
+2. Délivrance sur abonnement des décisions juridictionnelles et avis contentieux
 
-- relatives à une affaire jugée par une autre formation du Conseil d'Etat ou par le tribunal des conflits
+Les abonnements portent sur :
 
-7 Euros
+- les décisions et avis contentieux des formations collégiales, à l'exception des décisions refusant l'admission d'un pourvoi en cassation présenté au Conseil d'Etat prises en application de l'article L. 822-1 du code de justice administrative ;
 
-2° Délivrance sur abonnement
+- les décisions des magistrats statuant seuls en audience publique ;
 
-(abonnement annuel)
+- les ordonnances des juges des référés.
 
-a) Analyses mensuelles de jurisprudence du Conseil d'Etat et du tribunal des conflits
+Les documents sont fournis sous forme dématérialisée. Ils contiennent soit le seul texte de la décision ou de l'avis et, le cas échant, son analyse, soit ces éléments enrichis des principales métadonnées associées à la décision ou à l'avis.
 
-180 Euros
+Une participation forfaitaire de 10 euros par abonnement couvre les frais de gestion de l'abonnement et s'ajoute aux tarifs détaillés ci-dessous pour le calcul de la redevance.
 
-b) Analyses trimestrielles de jurisprudence des cours administratives d'appel
+2-1. Abonnements à l'ensemble des décisions et avis contentieux du Tribunal des conflits, du Conseil d'Etat et des cours administratives d'appel
 
-80 Euros
+Ensemble des décisions et avis contentieux du Tribunal des conflits et du Conseil d'Etat :
 
-c) Décisions et avis contentieux rendus par le Conseil d'Etat :
+Texte seul : 980 euros.
 
-- totalité des décisions et avis
+Texte et métadonnées associées : 5 000 euros.
 
-1 900 Euros
+Ensemble des décisions et avis contentieux du Tribunal des conflits, du Conseil d'Etat et des cours administratives d'appel :
 
-- décisions et avis retenus pour publication ou mention au recueil
+Texte seul : 2 980 euros.
 
-750 Euros
+Texte et métadonnées associées : 15 000 euros.
 
-- décisions et avis rendus par les formations d'assemblée et de section du contentieux
+2-2. Abonnements à une partie des décisions et avis contentieux du Tribunal des conflits, du Conseil d'Etat et des cours administratives d'appel
 
-200 Euros
+Les abonnements peuvent ne porter que sur les décisions et avis contentieux d'une ou plusieurs juridictions, ou sur une partie d'entre eux, sélectionnés en fonction de leur intérêt jurisprudentiel ou des rubriques détaillées au point 2-3.
 
-d) Totalité des décisions rendues par le tribunal des conflits
+La redevance due pour l'abonnement est alors calculée, pour chaque rubrique, sur la base du nombre de décisions ou avis rendus au cours de l'année civile précédente correspondant aux critères de sélection du demandeur. Cette redevance est calculée par tranche de 50 décisions ou avis selon les tarifs suivants :
 
-80 Euros
+Texte seul :
 
-e) Conclusions de commissaires du Gouvernement relatives aux affaires jugées par les formations d'assemblée et de section du contentieux
+Tranche de 50 décisions ou avis jusqu'à 3 000 décisions ou avis : 15 euros.
 
-400 Euros
+Tranche de 50 décisions ou avis au-delà de 3 000 décisions ou avis : 5 euros.
 
-f) Décisions et avis contentieux relevant d'un domaine donné :
+Texte enrichi des métadonnées :
 
-Liste des rubriques :
+Tranche de 50 décisions ou avis jusqu'à 3 000 décisions ou avis : 80 euros.
+
+Tranche de 50 décisions ou avis au-delà de 3 000 décisions ou avis : 25 euros.
+
+2-3. Liste des rubriques et sous-rubriques proposées pour la délivrance d'abonnements thématiques
+
+La liste des rubriques et sous-rubriques est la suivante :
 
 1 Actes, régime des actes (procédures d'élaboration, application dans le temps, régime).
 
@@ -339,61 +345,3 @@ Liste des rubriques :
 29-05 Décorations et insignes.
 
 29-06 Divers vie publique.
-
-Tarification :
-
-Rubrique dans laquelle moins de 11 décisions ou avis ont été rendus au cours de l'année précédente
-
-30 Euros
-
-Rubrique dans laquelle de 11 à 25 décisions ou avis ont été rendus au cours de l'année précédente
-
-60 Euros
-
-Rubrique dans laquelle de 26 à 50 décisions ou avis ont été rendus au cours de l'année précédente
-
-100 Euros
-
-Rubrique dans laquelle de 51 à 100 décisions ou avis ont été rendus au cours de l'année précédente
-
-180 Euros
-
-Rubrique dans laquelle de 101 à 200 décisions ou avis ont été rendus au cours de l'année précédente
-
-250 Euros
-
-Rubrique dans laquelle de 201 à 300 décisions ou avis ont été rendus au cours de l'année précédente
-
-350 Euros
-
-Rubrique dans laquelle de 301 à 500 décisions ou avis ont été rendus au cours de l'année précédente
-
-500 Euros
-
-Rubrique dans laquelle de 501 à 1 000 décisions ou avis ont été rendus au cours de l'année précédente
-
-750 Euros
-
-Rubrique dans laquelle plus de 1 000 décisions ou avis ont été rendus au cours de l'année précédente, par tranche de 500
-
-300 Euros
-
-3° Délivrance de documents d'étude, d'analyse et de synthèse
-
-élaborés par le Conseil d'Etat et non édités
-
-Publication de moins de 51 pages
-
-8 Euros
-
-Publication de 51 à 100 pages
-
-23 Euros
-
-Publication de plus de 100 pages
-
-30 Euros
-
-NOTA :
-
-Arrêté du 24 octobre 2005 art. 6 : Les dispositions relatives à la délivrance de documents qui n'étaient pas mentionnés par l'arrêté du 3 juin 1996 fixant le montant des redevances perçues en contrepartie de la délivrance de documents par le Conseil d'Etat, les cours administratives d'appel et les tribunaux administratifs entrent en vigueur immédiatement.
