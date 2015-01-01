@@ -2,7 +2,7 @@
 
 LISTE DES SUBSTANCES FIGURANT DANS CHAQUE CATÉGORIE MENTIONNÉE AU I DE L'ARTICLE R. 213-48-13 DU CODE DE L'ENVIRONNEMENT ET CONCERNÉES PAR LA REDEVANCE POUR POLLUTIONS DIFFUSES VISÉE À L'ARTICLE L. 213-10-8 DU MÊME CODE
 
-Substances classées en raison de leur cancérogénicité, ou de leur mutagénicité sur les cellules germinales, ou de leur toxicité pour la reproduction de catégorie 1A ou 1B :
+Substances classées en raison de leur cancérogénicité ou de leur mutagénicité sur les cellules germinales ou de leur toxicité pour la reproduction de catégorie 1A ou 1B :
 
 DÉNOMINATION
 
@@ -22,7 +22,7 @@ de la décision communautaire
 
 CORRESPONDANT
 
-notamment au CAS
+notamment au cas
 
 |
 
@@ -60,25 +60,11 @@ Flumioxazine
 
 |
 
-Flusilazole
-
-|
-
-540/2011
-
-|
-
-85509-19-9
-
-|
-
-|
-
 Glufosinate
 
 |
 
-365/2013
+823/2012
 
 |
 
@@ -92,7 +78,7 @@ Linuron
 
 |
 
-823/2012
+540/2011
 
 |
 
@@ -114,11 +100,11 @@ Quizalofop-P
 
 |
 
-Quizalofop-P-ethyl
+Quizalofop-P-éthyl
 
 |
 
-Substances classées en raison de leur cancérogénicité, ou de leur mutagénicité sur les cellules germinales, ou de leur toxicité pour la reproduction de catégorie 2 identifiées parmi les substances prioritaires au titre de la directive-cadre sur l'eau :
+Substances classées en raison de leur cancérogénicité ou de leur mutagénicité sur les cellules germinales ou de leur toxicité pour la reproduction de catégorie 2 :
 
 DÉNOMINATION
 
@@ -138,13 +124,419 @@ de la décision communautaire
 
 CORRESPONDANT
 
-notamment au CAS
+notamment au cas
 
 |
 
 À L'EXCEPTION
 
 de la forme structurale
+
+|
+
+6-Benzyladénine
+
+|
+
+540/2011
+
+|
+
+1214-39-7
+
+|
+
+|
+
+Abamectine
+
+|
+
+540/2011
+
+|
+
+71751-41-2
+
+|
+
+|
+
+Aclonifen
+
+|
+
+974/2011
+
+|
+
+74070-46-5
+
+|
+
+|
+
+Amitrole (ou aminotriazole)
+
+|
+
+704/2011
+
+|
+
+61-82-5
+
+|
+
+|
+
+Benfluraline
+
+|
+
+540/2011
+
+|
+
+1861-40-1
+
+|
+
+|
+
+Benthiavalicarbe
+
+|
+
+540/2011
+
+|
+
+177406-68-7
+
+|
+
+|
+
+Bifenthrine
+
+|
+
+582/2012
+
+|
+
+82657-04-3
+
+|
+
+|
+
+Bromoxynil
+
+|
+
+540/2011
+
+|
+
+1689-99-2 ; 1689-84-5 ; 3861-41-4 ; 56634-95-8
+
+|
+
+|
+
+Captane
+
+|
+
+540/2011
+
+|
+
+133-06-2
+
+|
+
+|
+
+Carbétamide
+
+|
+
+540/2011
+
+|
+
+16118-49-3
+
+|
+
+|
+
+Chlorothalonil
+
+|
+
+533/2013
+
+|
+
+1897-45-6
+
+|
+
+|
+
+Chlorprophame
+
+|
+
+540/2011
+
+|
+
+101-21-3
+
+|
+
+|
+
+Chlortoluron
+
+|
+
+540/2011
+
+|
+
+15545-48-9
+
+|
+
+|
+
+Cycloxydime
+
+|
+
+540/2011
+
+|
+
+101205-02-1
+
+|
+
+|
+
+Cyproconazole
+
+|
+
+540/2011
+
+|
+
+94361-06-5
+
+|
+
+|
+
+Diéthofencarbe
+
+|
+
+540/2011
+
+|
+
+87130-20-9
+
+|
+
+|
+
+Dimoxystrobine
+
+|
+
+1136/2013
+
+|
+
+149961-52-4
+
+|
+
+|
+
+Dodemorphe
+
+|
+
+540/2011
+
+|
+
+1593-77-7
+
+|
+
+|
+
+Fenpropimorphe
+
+|
+
+540/2011
+
+|
+
+67564-91-4
+
+|
+
+|
+
+Fluazifop-P
+
+|
+
+201/2013
+
+|
+
+79241-46-6
+
+|
+
+|
+
+Fluazinam
+
+|
+
+540/2011
+
+|
+
+79622-59-6
+
+|
+
+|
+
+Fluopyram
+
+|
+
+802/2013
+
+|
+
+658066-35-4
+
+|
+
+|
+
+Fluoxastrobine
+
+|
+
+540/2011
+
+|
+
+361377-29-9
+
+|
+
+|
+
+Flurochloridone
+
+|
+
+540/2011
+
+|
+
+61213-25-0
+
+|
+
+|
+
+Fluxapyroxad
+
+|
+
+589/2012
+
+|
+
+907204-31-3
+
+|
+
+|
+
+Folpet (Folpel)
+
+|
+
+540/2011
+
+|
+
+133-07-3
+
+|
+
+|
+
+Forchlorfenuron
+
+|
+
+540/2011
+
+|
+
+68157-60-8
+
+|
+
+|
+
+Iprodione
+
+|
+
+823/2012
+
+|
+
+36734-19-7
+
+|
+
+|
+
+Ioxynil
+
+|
+
+540/2011
+
+|
+
+3861-47-0 ; 1689-83-4
+
+|
 
 |
 
@@ -157,6 +549,498 @@ Isoproturon
 |
 
 34123-59-6
+
+|
+
+|
+
+Isoxaflutole
+
+|
+
+823/2012
+
+|
+
+141112-29-0
+
+|
+
+|
+
+Krésoxim-méthyl
+
+|
+
+810/2011
+
+|
+
+143390-89-0
+
+|
+
+|
+
+Mancozèbe
+
+|
+
+762/2013
+
+|
+
+8018-01-7
+
+|
+
+|
+
+Manèbe
+
+|
+
+762/2013
+
+|
+
+12427-38-2
+
+|
+
+|
+
+Mepanipyrim
+
+|
+
+540/2011
+
+|
+
+110235-47-7
+
+|
+
+|
+
+Métazachlore
+
+|
+
+540/2011
+
+|
+
+67129-08-2
+
+|
+
+|
+
+Metconazole
+
+|
+
+540/2011
+
+|
+
+125116-23-6
+
+|
+
+|
+
+Métosulame
+
+|
+
+540/2011
+
+|
+
+139528-85-1
+
+|
+
+|
+
+Molinate
+
+|
+
+540/2011
+
+|
+
+2212-67-1
+
+|
+
+|
+
+Myclobutanil
+
+|
+
+540/2011
+
+|
+
+88671-89-0
+
+|
+
+|
+
+Oryzalin
+
+|
+
+540/2011
+
+|
+
+19044-88-3
+
+|
+
+|
+
+Oxadiargyl
+
+|
+
+823/2012
+
+|
+
+39807-15-3
+
+|
+
+|
+
+Pinoxaden
+
+|
+
+2012/191
+
+|
+
+243973-20-8
+
+|
+
+|
+
+Profoxydim
+
+|
+
+706/2011
+
+|
+
+139001-49-3
+
+|
+
+|
+
+Propyzamide
+
+|
+
+823/2012
+
+|
+
+23950-58-5
+
+|
+
+|
+
+Proquinazid
+
+|
+
+540/2011
+
+|
+
+189278-12-4
+
+|
+
+|
+
+Prothioconazole
+
+|
+
+540/2011
+
+|
+
+178928-70-6
+
+|
+
+|
+
+Pymétrozine
+
+|
+
+540/2011
+
+|
+
+123312-89-0
+
+|
+
+|
+
+Pyroxsulame
+
+|
+
+1176/2013
+
+|
+
+422556-08-9
+
+|
+
+|
+
+Quinoclamine
+
+|
+
+540/2011
+
+|
+
+2797-51-5
+
+|
+
+|
+
+Sintofen (ou Cintofen)
+
+|
+
+540/2011
+
+|
+
+130561-48-7
+
+|
+
+|
+
+Spirodiclofen
+
+|
+
+540/2011
+
+|
+
+148477-71-8
+
+|
+
+|
+
+Spirotetramat
+
+|
+
+1177/2013
+
+|
+
+203313-25-1
+
+|
+
+|
+
+Sulcotrione
+
+|
+
+540/2011
+
+|
+
+99105-77-8
+
+|
+
+|
+
+Tralkoxydime
+
+|
+
+540/2011
+
+|
+
+87820-88-0
+
+|
+
+|
+
+Tébuconazole
+
+|
+
+540/2011
+
+|
+
+107534-96-3
+
+|
+
+|
+
+Tembotrione
+
+|
+
+1192/2013
+
+|
+
+335104-84-2
+
+|
+
+|
+
+Tépraloxydim
+
+|
+
+540/2011
+
+|
+
+149979-41-9
+
+|
+
+|
+
+Thiaclopride
+
+|
+
+540/2011
+
+|
+
+111988-49-9
+
+|
+
+|
+
+Thiencarbazone
+
+|
+
+2013/205
+
+|
+
+317815-83-1
+
+|
+
+|
+
+Thiophanate-méthyl
+
+|
+
+533/2013
+
+|
+
+23564-05-8
+
+|
+
+|
+
+Triflusulfuron
+
+|
+
+287/2012
+
+|
+
+126535-15-7
+
+|
+
+|
+
+Substances classées en raison de leurs effets sur ou via l'allaitement :
+
+DÉNOMINATION
+
+de la substance
+
+|
+
+LE CAS ÉCHÉANT,
+
+dans le cadre du règlement
+
+d'exécution (UE) ou
+
+de la décision communautaire
+
+|
+
+CORRESPONDANT
+
+notamment au cas
+
+|
+
+À L'EXCEPTION
+
+de la forme structurale
+
+|
+
+Etofenprox
+
+|
+
+540/2011
+
+|
+
+80844-07-1
 
 |
 
@@ -182,7 +1066,7 @@ de la décision communautaire
 
 CORRESPONDANT
 
-notamment au CAS
+notamment au cas
 
 |
 
@@ -206,25 +1090,11 @@ de la forme structurale
 
 |
 
-Abamectine
-
-|
-
-540/2011
-
-|
-
-71751-41-2
-
-|
-
-|
-
 Acéquinocyl
 
 |
 
-823/2012
+2013/205
 
 |
 
@@ -234,11 +1104,11 @@ Acéquinocyl
 
 |
 
-Acide benzoïque
+Acide benzoique
 
 |
 
-540/2011
+823/2012
 
 |
 
@@ -262,11 +1132,13 @@ Acide indolylbutyrique
 
 |
 
-Alpha-cyperméthrine (alphaméthrine)
+Alpha-Cyperméthrine
+
+(alphaméthrine)
 
 |
 
-2007/615
+540/2011
 
 |
 
@@ -280,7 +1152,7 @@ Azoxystrobine
 
 |
 
-823/2012
+703/2001
 
 |
 
@@ -294,7 +1166,7 @@ Benfuracarbe
 
 |
 
-582/2012
+2007/615
 
 |
 
@@ -304,29 +1176,15 @@ Benfuracarbe
 
 |
 
-Bétacyfluthrine
+Beta-Cyfluthrine
 
 |
 
-540/2011
+823/2012
 
 |
 
 68359-37-5
-
-|
-
-|
-
-Bifenthrine
-
-|
-
-540/2011
-
-|
-
-82657-04-3
 
 |
 
@@ -346,55 +1204,11 @@ Bromadiolone
 
 |
 
-Bromoxynil
-
-|
-
-2011/36
-
-|
-
-1689-99-2 ; 1689-84-5 ; 3861-41-4
-
-|
-
-Bromoxynil heptanoate
-
-|
-
-Captane
-
-|
-
-540/2011
-
-|
-
-133-06-2
-
-|
-
-|
-
-Chlorothalonil
-
-|
-
-540/2011
-
-|
-
-1897-45-6
-
-|
-
-|
-
 Chlorpyrifos
 
 |
 
-540/2011
+762/2013
 
 |
 
@@ -416,7 +1230,7 @@ Cuivre et composés
 
 |
 
-Cuivre du sulfate de cuivre ; cuivre de l'oxyde cuivreux ; cuivre du sulfate tribasique ; cuivre du sulfate tétracuivrique et tricalcique
+Cuivre du sulfate de cuivre, cuivre de l'oxyde cuivreux, cuivre du sulfate tribasique, cuivre du sulfate tétracuivrique et tricalcique
 
 |
 
@@ -522,7 +1336,7 @@ Emamectine benzoate
 
 |
 
-2013/38
+828/2013
 
 |
 
@@ -532,7 +1346,7 @@ Emamectine benzoate
 
 |
 
-Esfenvalérate
+Esfenvalerate
 
 |
 
@@ -550,7 +1364,7 @@ Ethoprophos
 
 |
 
-540/2011
+1178/2013
 
 |
 
@@ -606,7 +1420,7 @@ Fipronil
 
 |
 
-540/2011
+781/2013
 
 |
 
@@ -620,7 +1434,7 @@ Fluorure de sulfuryle
 
 |
 
-806/2011
+540/2011
 
 |
 
@@ -634,7 +1448,7 @@ Fluquinconazole
 
 |
 
-540/2011
+806/2011
 
 |
 
@@ -648,7 +1462,7 @@ Formétanate
 
 |
 
-823/2012
+540/2011
 
 |
 
@@ -662,7 +1476,7 @@ Fosthiazate
 
 |
 
-2013/205
+823/2012
 
 |
 
@@ -676,7 +1490,7 @@ Gamma-cyhalothrine
 
 |
 
-540/2011
+2013/205
 
 |
 
@@ -690,7 +1504,7 @@ Indoxacarbe
 
 |
 
-540/2011
+533/2013
 
 |
 
@@ -700,21 +1514,7 @@ Indoxacarbe
 
 |
 
-Ioxynil
-
-|
-
-540/2011
-
-|
-
-3861-47-0 ; 1689-83-4
-
-|
-
-|
-
-Lambda-cyhalothrine
+lambda-Cyhalothrine
 
 |
 
@@ -746,7 +1546,7 @@ Oxamyl
 
 |
 
-540/2011
+1136/2013
 
 |
 
@@ -802,6 +1602,8 @@ Phosphure d'hydrogène
 
 |
 
+0
+
 |
 
 7803-51-2
@@ -828,7 +1630,7 @@ Pirimicarbe
 
 |
 
-823/2012
+540/2011
 
 |
 
@@ -842,7 +1644,7 @@ Pyraclostrobine
 
 |
 
-540/2011
+823/2012
 
 |
 
@@ -884,7 +1686,7 @@ Téfluthrine
 
 |
 
-540/2011
+800/2011
 
 |
 
@@ -894,7 +1696,7 @@ Téfluthrine
 
 |
 
-Zétacyperméthrine
+Zeta-Cypermethrine
 
 |
 
@@ -942,7 +1744,7 @@ de la décision communautaire
 
 CORRESPONDANT
 
-notamment au CAS
+notamment au cas
 
 |
 
@@ -1008,20 +1810,6 @@ de la forme structurale
 
 |
 
-6-benzyladénine
-
-|
-
-540/2011
-
-|
-
-1214-39-7
-
-|
-
-|
-
 Acétamipride
 
 |
@@ -1036,13 +1824,13 @@ Acétamipride
 
 |
 
-Acibenzolar-S-méthyl
+Acibenzolar-S-methyl
 
 (ou benzothiadiazole)
 
 |
 
-787/2011
+540/2011
 
 |
 
@@ -1052,29 +1840,15 @@ Acibenzolar-S-méthyl
 
 |
 
-Acide 1-naphthylacétique (ANA)
+acide 1-naphthylacétique (ANA)
 
 |
 
-540/2011
+787/2011
 
 |
 
 86-87-3
-
-|
-
-|
-
-Aclonifen
-
-|
-
-974/2011
-
-|
-
-74070-46-5
 
 |
 
@@ -1112,25 +1886,11 @@ Aminopyralide
 
 |
 
-540/2011
-
-|
-
-150114-71-9
-
-|
-
-|
-
-Amitrole (ou aminotriazole)
-
-|
-
 704/2011
 
 |
 
-61-82-5
+150114-71-9
 
 |
 
@@ -1168,7 +1928,7 @@ Bénalaxyl
 
 |
 
-2011/671
+1175/2013
 
 |
 
@@ -1187,20 +1947,6 @@ Bénalaxyl-M
 |
 
 98243-83-5
-
-|
-
-|
-
-Benfluraline
-
-|
-
-540/2011
-
-|
-
-1861-40-1
 
 |
 
@@ -1234,25 +1980,11 @@ Bentazone
 
 |
 
-Benthiavalicarbe
+Bifenazate
 
 |
 
-540/2011
-
-|
-
-177406-68-7
-
-|
-
-|
-
-Bifénazate
-
-|
-
-540/2011
+1124/2013
 
 |
 
@@ -1304,22 +2036,6 @@ Boscalid
 
 |
 
-Bromoxynil
-
-|
-
-540/2011
-
-|
-
-56634-95-8
-
-|
-
-Bromoxynil octanoate et bromoxynil
-
-|
-
 Bromuconazole
 
 |
@@ -1338,7 +2054,7 @@ Bupirimate
 
 |
 
-540/2011
+823/2012
 
 |
 
@@ -1348,25 +2064,11 @@ Bupirimate
 
 |
 
-Carbétamide
-
-|
-
-540/2011
-
-|
-
-16118-49-3
-
-|
-
-|
-
 Carboxine
 
 |
 
-823/2012
+540/2011
 
 |
 
@@ -1380,7 +2082,7 @@ Carfentrazone-éthyl
 
 |
 
-540/2011
+1199/2013
 
 |
 
@@ -1394,7 +2096,7 @@ Clofentézine
 
 |
 
-2012/191
+540/2011
 
 |
 
@@ -1408,7 +2110,7 @@ Chlorantraniliprole
 
 |
 
-540/2011
+762/2013
 
 |
 
@@ -1432,25 +2134,11 @@ Chloridazone (ou Pyrazone)
 
 |
 
-Chlorprophame
-
-|
-
-540/2011
-
-|
-
-101-21-3
-
-|
-
-|
-
 Chlorpyrifos-méthyl
 
 |
 
-540/2011
+87/2012
 
 |
 
@@ -1474,20 +2162,6 @@ Chlorsulfuron
 
 |
 
-Chlortoluron
-
-|
-
-87/2012
-
-|
-
-15545-48-9
-
-|
-
-|
-
 Cléthodime
 
 |
@@ -1506,7 +2180,7 @@ Clodinafop
 
 |
 
-540/2011
+1136/2013
 
 |
 
@@ -1572,25 +2246,11 @@ Cyclanilide
 
 |
 
-Cycloxydime
-
-|
-
-540/2011
-
-|
-
-101205-02-1
-
-|
-
-|
-
 Cyflufénamid
 
 |
 
-540/2011
+533/2013
 
 |
 
@@ -1642,25 +2302,11 @@ Cyperméthrine
 
 |
 
-Cyproconazole
-
-|
-
-540/2011
-
-|
-
-94361-06-5
-
-|
-
-|
-
 Cyprodinil
 
 |
 
-540/2011
+1100/2011
 
 |
 
@@ -1684,11 +2330,11 @@ Dazomet
 
 |
 
-Desmédiphame
+Desmediphame
 
 |
 
-540/2011
+1100/2011
 
 |
 
@@ -1702,7 +2348,7 @@ Dicamba
 
 |
 
-1100/2011
+540/2011
 
 |
 
@@ -1730,7 +2376,7 @@ Difénoconazole
 
 |
 
-1100/2011
+540/2011
 
 |
 
@@ -1744,7 +2390,7 @@ Diflubenzuron
 
 |
 
-540/2011
+823/2012
 
 |
 
@@ -1800,39 +2446,11 @@ Diméthomorphe
 
 |
 
-540/2011
+823/2012
 
 |
 
 110488-70-5
-
-|
-
-|
-
-Dimoxystrobine
-
-|
-
-540/2011
-
-|
-
-149961-52-4
-
-|
-
-|
-
-Dodémorphe
-
-|
-
-540/2011
-
-|
-
-1593-77-7
 
 |
 
@@ -1870,25 +2488,11 @@ Ethoxysulfuron
 
 |
 
-823/2012
-
-|
-
-126801-58-9
-
-|
-
-|
-
-Etofenprox
-
-|
-
 540/2011
 
 |
 
-80844-07-1
+126801-58-9
 
 |
 
@@ -1926,7 +2530,7 @@ Fénamidone
 
 |
 
-823/2012
+540/2011
 
 |
 
@@ -1940,7 +2544,7 @@ Fenbuconazole
 
 |
 
-540/2011
+823/2012
 
 |
 
@@ -1964,7 +2568,7 @@ Fenhexamid
 
 |
 
-Fénoxaprop-P
+Fenoxaprop-P
 
 |
 
@@ -1982,7 +2586,7 @@ Fénoxycarbe
 
 |
 
-540/2011
+823/2012
 
 |
 
@@ -2006,25 +2610,11 @@ Fenpropidine
 
 |
 
-Fenpropimorphe
-
-|
-
-540/2011
-
-|
-
-67564-91-4
-
-|
-
-|
-
 Flazasulfuron
 
 |
 
-823/2012
+540/2011
 
 |
 
@@ -2038,7 +2628,7 @@ Florasulame
 
 |
 
-540/2011
+736/2011
 
 |
 
@@ -2048,25 +2638,11 @@ Florasulame
 
 |
 
-Fluazifop-P
-
-|
-
-201/2013
-
-|
-
-79241-46-6
-
-|
-
-|
-
 Fludioxonil
 
 |
 
-540/2011
+823/2012
 
 |
 
@@ -2076,25 +2652,11 @@ Fludioxonil
 
 |
 
-Fluazinam
-
-|
-
-540/2011
-
-|
-
-'79622-59-6
-
-|
-
-|
-
 Flufénacet (ou fluthiamide)
 
 |
 
-823/2012
+540/2011
 
 |
 
@@ -2118,35 +2680,7 @@ Fluopicolide
 
 |
 
-Fluopyram
-
-|
-
-2009/464
-
-|
-
-658066-35-4
-
-|
-
-|
-
-Fluoxastrobine
-
-|
-
-540/2011
-
-|
-
-361377-29-9
-
-|
-
-|
-
-Flupyrsulfuron-méthyle
+Flupyrsulfuron méthyle
 
 |
 
@@ -2160,25 +2694,11 @@ Flupyrsulfuron-méthyle
 
 |
 
-Flurochloridone
-
-|
-
-540/2011
-
-|
-
-61213-25-0
-
-|
-
-|
-
 Fluroxypyr
 
 |
 
-736/2011
+540/2011
 
 |
 
@@ -2192,7 +2712,7 @@ Flurtamone
 
 |
 
-823/2012
+540/2011
 
 |
 
@@ -2220,7 +2740,7 @@ Flutriafol
 
 |
 
-540/2011
+1165/2013
 
 |
 
@@ -2230,39 +2750,11 @@ Flutriafol
 
 |
 
-Fluxapyroxad
-
-|
-
-589/2012
-
-|
-
-907204-31-3
-
-|
-
-|
-
-Folpet (Folpel)
-
-|
-
-540/2011
-
-|
-
-133-07-3
-
-|
-
-|
-
 Foramsulfuron
 
 |
 
-823/2012
+608/2012
 
 |
 
@@ -2272,25 +2764,11 @@ Foramsulfuron
 
 |
 
-Forchlorfenuron
-
-|
-
-540/2011
-
-|
-
-68157-60-8
-
-|
-
-|
-
 Fuberidazole
 
 |
 
-540/2011
+705/2011
 
 |
 
@@ -2304,7 +2782,7 @@ Glyphosate
 
 |
 
-540/2011
+823/2012
 
 |
 
@@ -2318,7 +2796,7 @@ Haloxyfop-P (Haloxyfop-R)
 
 |
 
-540/2011
+1100/2011
 
 |
 
@@ -2332,7 +2810,7 @@ Hexythiazox
 
 |
 
-540/2011
+485/2013
 
 |
 
@@ -2346,7 +2824,7 @@ Huile essentielle d'orange douce
 
 |
 
-2009/438
+823/2012
 
 |
 
@@ -2360,7 +2838,7 @@ Huile de menthe verte
 
 |
 
-608/2012
+2013/205
 
 |
 
@@ -2388,7 +2866,7 @@ Imazalil (enilconazole)
 
 |
 
-705/2011
+-
 
 |
 
@@ -2402,7 +2880,7 @@ Imazamox
 
 |
 
-823/2012
+540/2011
 
 |
 
@@ -2416,7 +2894,7 @@ Imazaquine
 
 |
 
-1100/2011
+540/2011
 
 |
 
@@ -2444,7 +2922,7 @@ Iodosulfuron
 
 |
 
-823/2012
+188/2013
 
 |
 
@@ -2458,7 +2936,7 @@ Ipconazole
 
 |
 
-2013/205
+762/2013
 
 |
 
@@ -2468,25 +2946,11 @@ Ipconazole
 
 |
 
-Iprodione
+Isoxabène
 
 |
 
-823/2012
-
-|
-
-36734-19-7
-
-|
-
-|
-
-Isoxaben
-
-|
-
-540/2011
+762/2013
 
 |
 
@@ -2500,7 +2964,7 @@ Isoxadifen-éthyl
 
 |
 
--
+823/2012
 
 |
 
@@ -2510,39 +2974,11 @@ Isoxadifen-éthyl
 
 |
 
-Isoxaflutole
-
-|
-
-823/2012
-
-|
-
-141112-29-0
-
-|
-
-|
-
-Krésoxim-méthyl
-
-|
-
-810/2011
-
-|
-
-143390-89-0
-
-|
-
-|
-
 Lenacile
 
 |
 
-540/2011
+823/2012
 
 |
 
@@ -2570,7 +3006,7 @@ Malathion
 
 |
 
-540/2011
+2012/191
 
 |
 
@@ -2580,25 +3016,11 @@ Malathion
 
 |
 
-Mancozèbe
-
-|
-
-540/2011
-
-|
-
-8018-01-7
-
-|
-
-|
-
 Mandipropamid
 
 |
 
-188/2013
+823/2012
 
 |
 
@@ -2608,25 +3030,11 @@ Mandipropamid
 
 |
 
-Manèbe
-
-|
-
-540/2011
-
-|
-
-12427-38-2
-
-|
-
-|
-
 MCPA
 
 |
 
-540/2011
+823/2012
 
 |
 
@@ -2650,11 +3058,11 @@ MCPB
 
 |
 
-Mécoprop
+Mecoprop
 
 |
 
-823/2012
+359/2012
 
 |
 
@@ -2664,11 +3072,11 @@ Mécoprop
 
 |
 
-Mécoprop-P
+Mecoprop-P
 
 |
 
-823/2012
+540/2011
 
 |
 
@@ -2678,21 +3086,7 @@ Mécoprop-P
 
 |
 
-Mépanipyrim
-
-|
-
-540/2011
-
-|
-
-110235-47-7
-
-|
-
-|
-
-Mépiquat
+Mepiquat
 
 |
 
@@ -2710,7 +3104,7 @@ Meptyldinocap
 
 |
 
-2012/191
+762/2013
 
 |
 
@@ -2720,11 +3114,11 @@ Meptyldinocap
 
 |
 
-Mésosulfuron
+Mesosulfuron
 
 |
 
-823/2012
+540/2011
 
 |
 
@@ -2734,11 +3128,11 @@ Mésosulfuron
 
 |
 
-Mésotrione
+Mesotrione
 
 |
 
-823/2012
+540/2011
 
 |
 
@@ -2748,7 +3142,7 @@ Mésotrione
 
 |
 
-Métalaxyl
+Metalaxyl
 
 |
 
@@ -2762,11 +3156,11 @@ Métalaxyl
 
 |
 
-Métam (incl. potassium et sodium)
+Metam (incl.-potassium and-sodium)
 
 |
 
-359/2012
+540/2011
 
 |
 
@@ -2790,35 +3184,7 @@ Métamitrone
 
 |
 
-Métazachlore
-
-|
-
-540/2011
-
-|
-
-67129-08-2
-
-|
-
-|
-
-Metconazole
-
-|
-
-540/2011
-
-|
-
-125116-23-6
-
-|
-
-|
-
-Méthoxyfénozide
+Methoxyfenozide
 
 |
 
@@ -2846,25 +3212,11 @@ Métirame
 
 |
 
-Métosulame
-
-|
-
-540/2011
-
-|
-
-139528-85-1
-
-|
-
-|
-
 Metrafenone
 
 |
 
-540/2011
+798/2011
 
 |
 
@@ -2902,7 +3254,7 @@ Metsulfuron-méthyl
 
 |
 
-Milbémectine
+Milbemectine
 
 |
 
@@ -2911,34 +3263,6 @@ Milbémectine
 |
 
 51596-10-2
-
-|
-
-|
-
-Molinate
-
-|
-
-540/2011
-
-|
-
-2212-67-1
-
-|
-
-|
-
-Myclobutanil
-
-|
-
-540/2011
-
-|
-
-88671-89-0
 
 |
 
@@ -2972,20 +3296,6 @@ Nicosulfuron
 
 |
 
-Oryzalin
-
-|
-
-540/2011
-
-|
-
-19044-88-3
-
-|
-
-|
-
 Oxadiazon
 
 |
@@ -3000,25 +3310,11 @@ Oxadiazon
 
 |
 
-Oxadiargyl
-
-|
-
-823/2012
-
-|
-
-39807-15-3
-
-|
-
-|
-
 Oxasulfuron
 
 |
 
-823/2012
+540/2011
 
 |
 
@@ -3032,7 +3328,7 @@ Oxyfluorfène
 
 |
 
-798/2011
+540/2011
 
 |
 
@@ -3116,7 +3412,7 @@ Pethoxamid
 
 |
 
-540/2011
+1143/2011
 
 |
 
@@ -3144,11 +3440,11 @@ Phényl-2 phénol
 
 |
 
-540/2011
+823/2012
 
 |
 
-90-43-7 ; 132-27-4
+90-43-7,132-27-4,
 
 |
 
@@ -3160,7 +3456,7 @@ Phéromones de lépidoptères
 
 |
 
-540/2011
+823/2012
 
 |
 
@@ -3174,7 +3470,7 @@ Phosmet
 
 |
 
-540/2011
+823/2012
 
 |
 
@@ -3216,7 +3512,7 @@ Picoxystrobine
 
 |
 
-823/2012
+540/2011
 
 |
 
@@ -3226,25 +3522,11 @@ Picoxystrobine
 
 |
 
-Pinoxaden
+Pirimiphos-methyl
 
 |
 
-2012/191
-
-|
-
-243973-20-8
-
-|
-
-|
-
-Pirimiphos-méthyl
-
-|
-
-540/2011
+798/2013
 
 |
 
@@ -3258,25 +3540,11 @@ Prochloraze
 
 |
 
-1143/2011
+540/2011
 
 |
 
 75747-77-2 ; 67747-09-5
-
-|
-
-|
-
-Profoxydim
-
-|
-
-706/2011
-
-|
-
-139001-49-3
 
 |
 
@@ -3300,7 +3568,7 @@ Propiconazole
 
 |
 
-823/2012
+540/2011
 
 |
 
@@ -3314,7 +3582,7 @@ Propinèbe
 
 |
 
-823/2012
+540/2011
 
 |
 
@@ -3328,39 +3596,11 @@ Propoxycarbazone
 
 |
 
-823/2012
-
-|
-
-181274-15-7
-
-|
-
-|
-
-Propyzamide
-
-|
-
-823/2012
-
-|
-
-23950-58-5
-
-|
-
-|
-
-Proquinazid
-
-|
-
 540/2011
 
 |
 
-189278-12-4
+181274-15-7
 
 |
 
@@ -3384,7 +3624,7 @@ Prosulfuron
 
 |
 
-540/2011
+826/2013
 
 |
 
@@ -3394,39 +3634,11 @@ Prosulfuron
 
 |
 
-Prothioconazole
+Pyraflufen-ethyl
 
 |
 
-540/2011
-
-|
-
-178928-70-6
-
-|
-
-|
-
-Pymétrozine
-
-|
-
-540/2011
-
-|
-
-123312-89-0
-
-|
-
-|
-
-Pyraflufen-éthyl
-
-|
-
-540/2011
+823/2012
 
 |
 
@@ -3454,7 +3666,7 @@ Pyridate
 
 |
 
-540/2011
+2008/740
 
 |
 
@@ -3482,25 +3694,11 @@ Pyriproxyfène
 
 |
 
-540/2011
+797/2011
 
 |
 
 95737-68-1
-
-|
-
-|
-
-Pyroxsulam
-
-|
-
-2013/205
-
-|
-
-422556-08-9
 
 |
 
@@ -3515,20 +3713,6 @@ Quinmérac
 |
 
 90717-03-6
-
-|
-
-|
-
-Quinoclamine
-
-|
-
-540/2011
-
-|
-
-2797-51-5
 
 |
 
@@ -3560,7 +3744,7 @@ Quizalofop-P
 
 |
 
-Quizalofop-P-téfuryl
+quizalofop-P-tefuryl
 
 |
 
@@ -3582,7 +3766,7 @@ Sedaxane
 
 |
 
-2011/123
+540/2011
 
 |
 
@@ -3596,7 +3780,7 @@ Silthiofam
 
 |
 
-823/2012
+485/2013
 
 |
 
@@ -3606,21 +3790,7 @@ Silthiofam
 
 |
 
-Sintofen (ou Cintofen)
-
-|
-
-540/2011
-
-|
-
-130561-48-7
-
-|
-
-|
-
-S-métolachlore
+S-Métolachlore
 
 |
 
@@ -3638,7 +3808,7 @@ Spinetoram
 
 |
 
-2008/740
+540/2011
 
 |
 
@@ -3662,57 +3832,15 @@ Spinosad
 
 |
 
-Spirodiclofen
-
-|
-
-540/2011
-
-|
-
-148477-71-8
-
-|
-
-|
-
-Spirotetramat
-
-|
-
-2012/363
-
-|
-
-203313-25-1
-
-|
-
-|
-
 Spiroxamine
 
 |
 
-797/2011
-
-|
-
-118134-30-8
-
-|
-
-|
-
-Sulcotrione
-
-|
-
 540/2011
 
 |
 
-99105-77-8
+118134-30-8
 
 |
 
@@ -3732,7 +3860,7 @@ Sulfosulfuron
 
 |
 
-Tau-fluvalinate
+tau-Fluvalinate
 
 |
 
@@ -3746,43 +3874,15 @@ Tau-fluvalinate
 
 |
 
-Tébuconazole
-
-|
-
-540/2011
-
-|
-
-107534-96-3
-
-|
-
-|
-
 Tebufénozide
 
 |
 
-540/2011
+533/2013
 
 |
 
 112410-23-8
-
-|
-
-|
-
-Tembotrione
-
-|
-
-2012/191
-
-|
-
-335104-84-2
 
 |
 
@@ -3806,7 +3906,7 @@ Thiabendazole
 
 |
 
-540/2011
+823/2012
 
 |
 
@@ -3816,21 +3916,7 @@ Thiabendazole
 
 |
 
-Thiaclopride
-
-|
-
-540/2011
-
-|
-
-111988-49-9
-
-|
-
-|
-
-Thiaméthoxam
+Thiamethoxam
 
 |
 
@@ -3839,20 +3925,6 @@ Thiaméthoxam
 |
 
 153719-23-4
-
-|
-
-|
-
-Thiencarbazone
-
-|
-
-2013/205
-
-|
-
-317815-83-1
 
 |
 
@@ -3867,20 +3939,6 @@ Thifensulfuron-méthyl
 |
 
 79277-27-3
-
-|
-
-|
-
-Thiophanate-méthyl
-
-|
-
-540/2011
-
-|
-
-23564-05-8
 
 |
 
@@ -3904,25 +3962,11 @@ Tolclofos-méthyl
 
 |
 
-540/2011
+2013/431
 
 |
 
 57018-04-9
-
-|
-
-|
-
-Tralkoxydime
-
-|
-
-540/2011
-
-|
-
-87820-88-0
 
 |
 
@@ -3946,7 +3990,7 @@ Triallate
 
 |
 
-540/2011
+786/2011
 
 |
 
@@ -3974,7 +4018,7 @@ Tribenuron (ou metometuron)
 
 |
 
-540/2011
+823/2012
 
 |
 
@@ -4002,7 +4046,7 @@ Trifloxystrobine
 
 |
 
-823/2012
+540/2011
 
 |
 
@@ -4012,29 +4056,15 @@ Trifloxystrobine
 
 |
 
-Triflusulfuron
+Trinexapac (ou cimetacarb ethyl
 
 |
 
-287/2012
+787/2011
 
 |
 
-126535-15-7
-
-|
-
-|
-
-Trinexapac (ou cimetacarb-éthyl)
-
-|
-
-540/2011
-
-|
-
-104273-73-6,95266-40-3
+104273-73-6 ; 95266-40-3
 
 |
 
@@ -4044,7 +4074,7 @@ Triticonazole
 
 |
 
-540/2011
+974/2011
 
 |
 
@@ -4072,7 +4102,7 @@ Valifenalate
 
 |
 
-2011/671
+2013/205
 
 |
 
@@ -4086,7 +4116,7 @@ Zoxamide
 
 |
 
-823/2012
+704/2011
 
 |
 
@@ -4116,7 +4146,7 @@ de la décision communautaire
 
 CORRESPONDANT
 
-notamment au CAS
+notamment au cas
 
 |
 
@@ -4138,7 +4168,9 @@ Cuivre et composés
 
 |
 
-Cuivre de l'hydroxyde de cuivre ; cuivre de l'oxychlorure de cuivre
+Cuivre de l'hydroxyde de cuivre,
+
+cuivre de l'oxychlorure de cuivre
 
 |
 
@@ -4172,7 +4204,7 @@ Phosphonate de disodium
 
 |
 
-2012/677
+832/2013
 
 |
 
@@ -4190,8 +4222,4 @@ Zinc (incl. sulfate de zinc)
 
 |
 
-7446-19-7
-
-|
-
-|
+7446-19-7 |
