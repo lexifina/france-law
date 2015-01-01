@@ -268,9 +268,9 @@ du préfet de prescrire une nouvelle approbation (date et signature)
 
 -Pour chaque ZAR : numéro de la ZAR et copie de l'arrêté préfectoral créant la ZAR.
 
-2.3. Identification et coordonnées des personnes responsables en matière de sûreté (à placer en page quatre du plan de sûreté de l'installation portuaire [plus éventuellement 4 bis,4 ter, etc., du plan]).
+2.3. Identification et coordonnées des personnes responsables en matière de sûreté (à placer en page quatre du plan de sûreté de l'installation portuaire [plus éventuellement 4 bis, 4 ter, etc., du plan]).
 
-- Noms de l'agent de sûreté de l'installation portuaire (ASIP) et de son ou ses suppléants et coordonnées où ils peuvent être joints 24h/24) ;
+-Noms de l'agent de sûreté de l'installation portuaire (ASIP) et de son ou ses suppléants et coordonnées où ils peuvent être joints 24h/24) ;
 
 Installation portuaire (numéro, nom)
 
@@ -378,7 +378,7 @@ Suppléant
 
 |
 
-- Liste des personnes chargées de la sûreté de l'installation portuaire et coordonnées où elles peuvent être jointes (liste indicative):
+-Liste des personnes chargées de la sûreté de l'installation portuaire et coordonnées où elles peuvent être jointes (liste indicative) :
 
 Installation portuaire (numéro, nom)
 
@@ -452,7 +452,7 @@ PC sûreté
 
 |
 
-Point d'inspection-filtrage n°1
+Point d'inspection-filtrage n° 1
 
 |
 
@@ -468,7 +468,7 @@ Point d'inspection-filtrage n°1
 
 |
 
-Point d'inspection-filtrage n°2
+Point d'inspection-filtrage n° 2
 
 |
 
@@ -534,7 +534,7 @@ Point d'inspection-filtrage n°2
 
 2.4. Liste de diffusion du plan de sûreté de l'installation portuaire
 
-2.4.1. Volume 1 - Confidentiel Sûreté - (Ce volume comprend le plan de sûreté de l'installation portuaire dans son entier)
+2.4.1. Volume 1-Confidentiel Sûreté-(Ce volume comprend le plan de sûreté de l'installation portuaire dans son entier)
 
 NOM PRENOMS
 
@@ -776,7 +776,7 @@ SIGNATURE
 
 |
 
-2.4.2. Volume 2 - Distribution limitée sûreté : ce volume ne reprend que les informations, listées au point 10 du plan de sûreté de l'installation portuaire, communicables aux personnes chargées d'effectuer les visites de sûreté. N'y figure pas l'identification des risques.)
+2.4.2. Volume 2-Distribution limitée sûreté : ce volume ne reprend que les informations, listées au point 10 du plan de sûreté de l'installation portuaire, communicables aux personnes chargées d'effectuer les visites de sûreté. N'y figure pas l'identification des risques.)
 
 NOM PRENOMS
 
@@ -1076,7 +1076,7 @@ Si l'installation portuaire est désignée point d'importance vitale, décrire :
 
 -Identification des personnes ayant accès aux informations de sûreté protégées et des responsables du système de protection ;
 
--Critères de diffusion : le plan de sûreté de l'installation portuaire comporte deux volumes physiquement séparés, l'un exhaustif, portant la mention Confidentiel Sûreté , l'autre ne comprenant que les informations devant être connues par les personnes chargées d'effectuer les visites de sûreté, portant la mention Diffusion Limitée Sûreté . Ces informations sont énumérées limitativement au point 10 du présent plan.
+-Critères de diffusion : le plan de sûreté de l'installation portuaire comporte deux volumes physiquement séparés, l'un exhaustif, portant la mention Confidentiel Sûreté, l'autre ne comprenant que les informations devant être connues par les personnes chargées d'effectuer les visites de sûreté, portant la mention Diffusion Limitée Sûreté. Ces informations sont énumérées limitativement au point 10 du présent plan.
 
 5. Accès et circulation dans l'installation portuaire
 
@@ -1104,7 +1104,7 @@ Identification de chaque ZAR avec les informations suivantes :
 
 -Catégories de personnels et d'activités concernés ;
 
--Flux d'entrée et nombre de titres de circulation par catégorie définie à l'article R. 321-34 du code des ports maritimes ;
+-Flux d'entrée et nombre de titres de circulation par catégorie définie à l'article R. 5332-37 du code des transports ;
 
 -Schéma de circulation. Il sera prêté une attention particulière aux circulations entre les ZAR extérieures aux installations portuaires et les ZAR situées dans une installation portuaire auxquelles elles donnent, le cas échéant, accès.
 
@@ -1152,7 +1152,7 @@ Pour chaque ZAR, préciser les informations ci-dessous. Si certaines catégories
 
 5.5. Zones non librement accessibles
 
-Il peut exister au sein de l'installation portuaire des zones non librement accessibles au public qui ne sont pas des ZAR telles que définies aux articles R. 321-31 et R. 321-32 du code des ports maritimes et où ne sont pas applicables les articles R. 321-33 à R. 321-47 du code des ports maritimes.
+Il peut exister au sein de l'installation portuaire des zones non librement accessibles au public qui ne sont pas des ZAR telles que définies aux articles R. 5332-34 et R. 5332-35 du code des transports et où ne sont pas applicables les articles R. 5332-36 à R. 5332-50du code des transports.
 
 Le plan de sûreté de l'installation portuaire les décrit (plan, clôtures, accès), détaille leurs règles de fonctionnement (contrôles d'accès, circulation) et les articulations avec les règles de sûreté des ZAR adjacentes, en démontrant que la sûreté de l'installation portuaire dans son ensemble et de chaque installation portuaire adjacente n'est pas dégradée, quel que soit le niveau de sûreté.
 
@@ -1202,7 +1202,7 @@ Le plan de sûreté de l'installation portuaire traite au minimum chacun des poi
 
 -Contrôle de l'état des matériels de protection, de surveillance, de contrôle et de communication (préciser procédures et périodicité d'entretien et enregistrement) ;
 
--Création et tenue à jour d'un registre de sûreté comprenant une liste chronologique de tous événements liés à la sûreté : formation, incidents de sûreté et mise en œuvre et de suivi des mesures correctives, exercices et entraînements de sûreté accomplis, changements de niveau, etc.Y sont également annexées les déclarations de sûreté remplies par l'agent de sûreté de l'installation portuaire et le capitaine ou l'agent de sûreté du navire. La durée de conservation du registre de sûreté est au moins égale à la durée de validité du plan majorée de deux ans ;
+-Création et tenue à jour d'un registre de sûreté comprenant une liste chronologique de tous événements liés à la sûreté : formation, incidents de sûreté et mise en œuvre et de suivi des mesures correctives, exercices et entraînements de sûreté accomplis, changements de niveau, etc. Y sont également annexées les déclarations de sûreté remplies par l'agent de sûreté de l'installation portuaire et le capitaine ou l'agent de sûreté du navire. La durée de conservation du registre de sûreté est au moins égale à la durée de validité du plan majorée de deux ans ;
 
 -Procédure d'analyse de chaque incident de sûreté et, le cas échéant, de mise en œuvre et de suivi des mesures correctives ;
 
