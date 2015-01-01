@@ -352,7 +352,7 @@ Commission compétente en matière de transports
 
 |
 
-Président du conseil d'administration de Réseau ferré de France
+Président du conseil de surveillance de la SNCF
 
 |
 
@@ -360,7 +360,15 @@ Commission compétente en matière de transports
 
 |
 
-Président du conseil d'administration de la Société nationale des chemins de fer français
+Président du directoire de la SNCF
+
+|
+
+Commission compétente en matière de transports
+
+|
+
+Président délégué du directoire de la SNCF
 
 |
 
