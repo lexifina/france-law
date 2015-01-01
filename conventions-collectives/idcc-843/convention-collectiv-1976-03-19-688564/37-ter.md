@@ -44,4 +44,6 @@ En cas d'invalidité permanente et totale, il est versé au salarié, sous forme
 
 Cotisations
 
-Le taux de cotisation de la garantie décès-invalidité permanente et totale est fixé à 0,17 % du salaire brut plafonné à la tranche A. Le taux de cotisation est réparti à raison de 60 % pour la part patronale et 40 % pour la part salariale. Compte tenu du taux actuellement en vigueur de 0,17 % du salaire brut TA, la commission paritaire nationale a décidé que la cotisation patronale serait au taux de 0,10 % et que la cotisation salariale serait au taux de 0,07 %.
+Le taux de cotisation de la garantie décès-invalidité permanente et totale est fixé à 0,14 % du salaire brut plafonné à la tranche A.
+
+La cotisation est répartie à raison de 60 % pour la part patronale et de 40 % pour la part salariale.
