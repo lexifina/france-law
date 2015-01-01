@@ -736,7 +736,9 @@ Article R. 522-21
 
 |
 
-Autorisation d'expériences ou d'essais sur des produits biocides ou des substances actives biocides |
+Autorisation d'expériences ou d'essais sur des produits biocides ou des substances actives biocides
+
+|
 
 Articles R. 522-23 et R. 522-24 |
 
@@ -875,5 +877,81 @@ Autorisations d'entrée sur le territoire et d'introduction dans l'environnement
 |
 
 Articles R. 258-6, R. 258-8 et R. 258-9
+
+|
+
+VI.-Code de l'énergie :
+
+1
+
+|
+
+Mises en demeure d'acquérir des certificats d'économies d'énergie.
+
+|
+
+Article L. 221-3
+
+|
+
+2
+
+|
+
+Décisions relatives aux versements libératoires et aux pénalités.
+
+|
+
+Article L. 221-4
+
+|
+
+VII.-Décret n° 2014-1668 du 29 décembre 2014 :
+
+1
+
+|
+
+Décisions relatives aux délégations d'obligations d'économies d'énergie.
+
+|
+
+Article 6 du décret n° 2014-1668 du 29 décembre 2014
+
+|
+
+2
+
+|
+
+Mises en demeure de respecter les articles 8 à 11, établissement d'office des déclarations et prononcé des amendes.
+
+|
+
+Article 12 du décret n° 2014-1668 du 29 décembre 2014
+
+|
+
+3
+
+|
+
+Fixation des obligations d'économies d'énergie.
+
+|
+
+Article 13 du décret n° 2014-1668 du 29 décembre 2014
+
+|
+
+4
+
+|
+
+Annulation des certificats d'économies d'énergie en fin de période.
+
+|
+
+Article 14 du décret n° 2014-1668 du 29 décembre 2014
 
 |
