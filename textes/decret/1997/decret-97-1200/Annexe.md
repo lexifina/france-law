@@ -861,3 +861,17 @@ Décision d’octroi d’une aide financière individuelle pour l’écriture d�
 Article 4.
 
 |
+
+Décret n° 2014-1651 du 26 décembre 2014 relatif à l’attribution des aides aux projets artistiques dans les domaines des arts de la rue et des arts du cirque
+
+1
+
+|
+
+Décision d’attribution d’une aide financière individuelle pour la création, la réalisation ou la production d’un projet artistique dans les domaines des arts de la rue et des arts du cirque, en vue de sa représentation au public.
+
+|
+
+Article 2.
+
+|
