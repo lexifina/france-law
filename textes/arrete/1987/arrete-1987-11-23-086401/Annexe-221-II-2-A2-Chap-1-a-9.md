@@ -724,7 +724,7 @@ Le local où sont habituellement effectués les travaux de soudure doit pouvoir 
 
 .3 Surveiller les sources d'énergie et les circuits nécessaires au fonctionnement du dispositif afin de détecter les pertes d'énergie et les défaillances ; et
 
-.4 Avoir une interface avec les autres systèmes de protection contre l'incendie, notamment :
+.4 Le dispositif peut être agencé de manière à avoir une interface avec les autres systèmes de protection contre l'incendie, notamment :
 
 .1 Les systèmes d'appel de personnes, les dispositifs d'alarme d'incendie ou de communication avec le public ;
 
@@ -756,7 +756,7 @@ Le local où sont habituellement effectués les travaux de soudure doit pouvoir 
 
 2.1.4. Les détecteurs et avertisseurs à commande manuelle doivent être reliés à des sections spécifiques du dispositif de détection de l'incendie. D'autres fonctions de protection contre l'incendie, telles que signaux d'alarme des vannes des diffuseurs, peuvent être assurées si elles concernent d'autres sections.
 
-2.1.5. Le dispositif et son équipement doivent être d'une conception qui leur permette de résister aux variations de tension en régime permanent et en régime transitoire, aux modifications de la température ambiante, aux vibrations, à l'humidité, aux chocs, aux impacts et à la corrosion qui se produisent normalement à bord d'un navire. La compatibilité électromagnétique de tous les équipements électriques et électroniques se trouvant sur la passerelle ou à proximité doit être vérifiée compte tenu des recommandations élaborées par l'organisation (9).
+2.1.5. Le dispositif et son équipement doivent être d'une conception qui leur permette de résister aux variations de tension en régime permanent et en régime transitoire, aux modifications de la température ambiante, aux vibrations, à l'humidité, aux chocs, aux impacts et à la corrosion qui se produisent normalement à bord d'un navire. La compatibilité électromagnétique de tous les équipements électriques et électroniques se trouvant sur la passerelle ou à proximité doit être vérifiée compte tenu des recommandations élaborées par l'organisation (8).
 
 2.1.6. Les dispositifs fixes de détection de l'incendie et d'alarme d'incendie à détecteurs d'incendie individuellement identifiables doivent être disposés de telle sorte que :
 
@@ -798,7 +798,7 @@ Le local où sont habituellement effectués les travaux de soudure doit pouvoir 
 
 2.3.1.6. Tous les détecteurs doivent être d'un type tel que l'on puisse vérifier leur bon fonctionnement et les remettre en position normale de surveillance sans devoir en remplacer un élément.
 
-2.3.1.7. Les dispositifs fixes de détection de l'incendie et d'alarme d'incendie destinés aux balcons de cabine doivent être approuvés par l'administration compte tenu des directives élaborées par l'organisation (2).
+2.3.1.7. Les dispositifs fixes de détection de l'incendie et d'alarme d'incendie destinés aux balcons de cabine doivent être approuvés par l'administration compte tenu des directives élaborées par l'organisation (9).
 
 2.3.1.8. Les détecteurs installés dans les zones dangereuses doivent être mis à l'essai et approuvés à cette fin. Il n'est pas nécessaire que les détecteurs prescrits à la règle 221-II-2/20.4 et installés dans des espaces satisfaisant à la règle 221-II-2/20.3.2.2 de la présente division soient appropriés pour les zones dangereuses. Les détecteurs installés dans les espaces où sont transportées des marchandises dangereuses qui, d'après le tableau 19.3 de la règle 221-II-2/19, doivent satisfaire à la règle 221-II-2/19.3.2 de la présente division doivent être appropriés pour les zones dangereuses.
 

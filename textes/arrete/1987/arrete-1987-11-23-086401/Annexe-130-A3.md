@@ -352,6 +352,12 @@ CSN
 
 |
 
+Dispositif de comptage des passagers (division 170 du règlement annexé) |
+
+CCS/CRS |
+
+CSN |
+
 (1) Visa non requis par la réglementation internationale.
 
 (2) Avec participation du centre de sécurité chargé des visites du navire postérieures à la visite de mise en service.
