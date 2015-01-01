@@ -6,7 +6,7 @@ DISPOSITIONS SPÉCIFIQUES RELATIVES AU TRANSPORT PAR ROUTE DE MARCHANDISES DANGE
 
 1.1. La présente annexe est composée :
 
-- des annexes A et B de l'ADR. Cet accord, y compris les amendements en vigueur au 1er janvier 2013, est publié en français par les Nations unies, section des ventes, bureau E-4, palais des Nations, 1211 Genève 10, Suisse. Il est disponible sur le site internet de la division des transports de la CEE-ONU à l'adresse suivante :
+- des annexes A et B de l'ADR. Cet accord, y compris les amendements en vigueur au 1er janvier 2015, est publié en français par les Nations unies, section des ventes, bureau E-4, palais des Nations, 1211 Genève 10, Suisse. Il est disponible sur le site internet de la division des transports de la CEE-ONU à l'adresse suivante :
 
 http://www.unece.org/trans/danger/danger.htm;
 
@@ -270,7 +270,7 @@ Dans le cadre de la prescription S1 (2) du 8. 5 et sans préjudice des dispositi
 
 Sont reconnues pour exercer cette fonction :
 
-- les personnes habilitées dans le cadre de la section IX du décret n° 79-846 du 28 septembre 1979 portant règlement d'administration publique sur la protection des travailleurs contre les risques particuliers auxquels ils sont soumis dans les établissements pyrotechniques ;
+- les personnes habilitées dans le cadre de l'article R. 4462-27 du code du travail ;
 
 - les personnes titulaires d'un certificat de formation de conducteur conforme au 8. 2. 2. 8 valable pour les transports de marchandises de la classe 1.
 
@@ -332,7 +332,7 @@ Le transport simultané de personnes et de marchandises dangereuses autres que c
 
 3.2. Informations concernant le transport.
 
-3.2.1. Le transport pour compte propre de marchandises dangereuses autres que celles de la classe 7, en quantités n'excédant pas les limites fixées au 1.1.3.6, n'est pas soumis à l'obligation du document de transport prévu au 5.4.1.
+3.2.1. Le transport pour compte propre de marchandises dangereuses autres que les matières radioactives, en quantités n'excédant pas les limites fixées au 1.1.3.6, n'est pas soumis à l'obligation du document de transport prévu au 5.4.1.
 
 3.2.2. Pour les contenants vides (emballages, récipients, GRV, grands emballages, citernes, véhicules pour vrac et conteneurs pour vrac), la désignation des marchandises prévue au 5.4.1.1.6.2.3 peut être portée sur le document de transport ayant accompagné le véhicule en charge. La date à partir de laquelle débute le retour à vide doit être mentionnée sur le même document de transport.
 
@@ -402,7 +402,7 @@ A défaut d'utiliser des véhicules agréés EX / II comme le prévoit la dispos
 
 A défaut d'être titulaire du certificat de formation défini au 8.2 et comportant la spécialisation pour le transport des matières et objets de la classe 1, le conducteur doit posséder :
 
-- soit un certificat de qualification en vue de l'utilisation des artifices de divertissement de la catégorie 4 et des articles pyrotechniques destinés au théâtre de la catégorie T2, délivré en application de l'article 6 du décret n° 2010-580 du 31 mai 2010 susvisé ou, jusqu'au 30 juin 2012, un certificat de qualification en vue de l'utilisation des artifices de divertissement classés dans le groupe K4 délivré en application des dispositions de l'arrêté du 17 mars 2008 relatif à la mise en œuvre des artifices de divertissement du groupe K4 ;
+- soit un certificat de qualification en vue de l'utilisation des artifices de divertissement de la catégorie 4 et des articles pyrotechniques destinés au théâtre de la catégorie T2, délivré en application de l'article 6 du décret n° 2010-580 du 31 mai 2010 susvisé délivré en application des dispositions de l'arrêté du 17 mars 2008 relatif à la mise en œuvre des artifices de divertissement du groupe K4 ;
 
 - soit un certificat de formation spécifique délivré par un organisme agréé à délivrer pour la classe 1 les certificats de formation conformes au 8.2. Ce certificat s'inspire du modèle figurant au 8.2.2.8.3 de l'ADR applicable jusqu'au 31 décembre 2010. Les conditions de validité et de renouvellement de ce certificat sont les mêmes que celles des certificats conformes au 8.2.
 
@@ -656,7 +656,11 @@ Relèvent de cette catégorie les faits suivants :
 
 19) Le non-respect de l'interdiction de fumer.
 
-Catégorie de risque II : risque de dommages corporels ou de dommages environnementaux et devant normalement amener à prendre des mesures correctives appropriées, comme l'obligation de se mettre en ordre sur les lieux mêmes du contrôle dans la mesure du possible ou au plus tard à l'issue de l'opération de transport en cours.
+Catégorie de risque II : risque de dommages corporels ou de dommages environnementaux et devant normalement amener à prendre des mesures correctives appropriées, comme l'obligation de se mettre en ordre sur les lieux mêmes du contrôle dans la mesure du possible ou au plus tard à l'issue de l'opération de transport en cours ;
+
+20) L'absence à bord d'un agent agréé de convoyage ;
+
+21) La présence de voyageur dans un véhicule transportant des marchandises dangereuses.
 
 Relèvent de cette catégorie les faits suivants :
 
@@ -713,3 +717,9 @@ Lorsqu'une ou plusieurs infractions ont été constatées en matière de transpo
 sont transmises par les autorités locales chargées du constat des infractions et de leur sanction au ministère chargé des transports, direction générale des infrastructures, des transports et de la mer.
 
 Pour chaque année calendaire et au plus tard douze mois après l'écoulement de celle-ci, un rapport conformément au modèle figurant en appendice IV. 3 du présent arrêté est transmis à la Commission européenne.
+
+NOTA :
+
+Conformément à l'article 18 de l'arrêté du 2 décembre 2014, les présentes dispositions entrent en vigueur le 1er janvier 2015.
+
+Toutefois, les dispositions de l'arrêté du 29 mai 2009 modifié relatif aux transports de marchandises dangereuses par voies terrestres applicables avant cette date, peuvent continuer d'être appliquées jusqu'au 30 juin 2015.

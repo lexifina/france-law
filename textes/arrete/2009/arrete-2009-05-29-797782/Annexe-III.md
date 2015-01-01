@@ -8,7 +8,7 @@ DANGEREUSES PAR VOIES DE NAVIGATION INTÉRIEURES (ADN)
 
 1.1. La présente annexe est composée :
 
-- de l'accord européen relatif au transport international des marchandises dangereuses par voies de navigation intérieures (ADN) fait à Genève le 26 mai 2000 et son règlement annexé en vigueur au 1er janvier 2013. Ces documents sont publiés en français par les Nations unies, section des ventes, bureau E-4, palais des Nations, 1211 Genève 10, Suisse. Ils sont aussi disponibles sur le site internet de la division des transports de la CEE-ONU à l'adresse suivante :
+- de l'accord européen relatif au transport international des marchandises dangereuses par voies de navigation intérieures (ADN) fait à Genève le 26 mai 2000 et son règlement annexé en vigueur au 1er janvier 2015. Ces documents sont publiés en français par les Nations unies, section des ventes, bureau E-4, palais des Nations, 1211 Genève 10, Suisse. Ils sont aussi disponibles sur le site internet de la division des transports de la CEE-ONU à l'adresse suivante :
 
 http://www.unece.org/trans/danger/danger.htm ;
 
@@ -98,11 +98,11 @@ Les dispositions de la partie 7 du règlement ADN relatives au stationnement des
 
 2.3.3. Règlement de police.
 
-Les références au Code européen des voies de navigation intérieures (CEVNI) reprises dans la partie 7 du Règlement ADN doivent être remplacées, pour les voies de navigation intérieures non soumises à ce code, par les dispositions correspondantes du Règlement général de police de la navigation intérieure (RGP) publié par le décret n° 73-912 du 21 septembre 1973 susvisé et des règlements particuliers de police (RPP) pour les particularités locales.
+Les références au Code européen des voies de navigation intérieures (CEVNI) reprises dans la partie 7 du Règlement ADN doivent être remplacées, pour les voies de navigation intérieures non soumises à ce code, par les dispositions réglementaires correspondantes de la quatrième partie du code des transports et des règlements particuliers de police (RPP) pour les particularités locales.
 
 2.4. Titres de navigation, certificats de visite.
 
-Les références aux prescriptions locales, régionales ou internationales des bateaux reprises au 1.1.4.6 et dans la partie 9 du Règlement annexé à l'ADN sont celles correspondant au décret n° 2007-1168 du 2 août 2007 et à l'arrêté du 21 décembre 2007 relatif aux titres de navigation des bâtiments et établissements flottants destinés au transport de marchandises naviguant ou stationnant sur les eaux intérieures, ainsi que celles correspondant au Règlement de visite des bateaux du Rhin relatives aux certificats de visites.
+Les références aux prescriptions locales, régionales ou internationales des bateaux reprises au 1.1.4.6 et dans la partie 9 du Règlement annexé à l'ADN sont celles correspondant à l'article R.* 4200-1 du code des transports et à l'arrêté du 21 décembre 2007 modifié relatif aux titres de navigation des bâtiments et établissements flottants destinés au transport de marchandises naviguant ou stationnant sur les eaux intérieures, ainsi que celles correspondant au Règlement de visite des bateaux du Rhin relatives aux certificats de visites.
 
 3. Dispositions relatives à la formation.
 
@@ -218,63 +218,7 @@ Huit leçons
 
 |
 
-3.4. Dispositions transitoires.
-
-En application du 1.6.8 du Règlement annexé à l'ADN, les dispositions des 8.2.2.3, 8.2.2.4 et 8.2.2.5, dans leur version applicable le 31 décembre 2012, peuvent continuer d'être appliquées jusqu'au 31 décembre 2014.
-
-Lorsqu'il est fait application de ces dispositions, les durées minimales des formations ci-dessous remplacent les durées correspondantes définies au tableau du 3.3 :
-
-|
-
-FORMATION INITIALE
-
-|
-
-FORMATION DE RECYCLAGE
-
-|
-
-Cours de base
-
-"marchandises sèches"
-
-|
-
-Vingt-quatre leçons, dont 30 % environ sont consacrés à des exercices pratiques
-
-|
-
-Seize leçons, dont 50 % environ sont consacrés à des exercices pratiques
-
-|
-
-Cours de base
-
-"bateaux-citernes"
-
-|
-
-Vingt-quatre leçons, dont 30 % environ sont consacrés à des exercices pratiques
-
-|
-
-Seize leçons, dont 50 % environ sont consacrés à des exercices pratiques
-
-|
-
-Cours de base
-
-"combiné"
-
-|
-
-Trente-deux leçons, dont 30 % environ sont consacrés à des exercices pratiques
-
-|
-
-Seize leçons, dont 50 % environ sont consacrés à des exercices pratiques
-
-|
+3.4. (supprimé)
 
 3.5. Dispositions particulières.
 
@@ -284,10 +228,10 @@ Aux fins de se conformer aux dispositions du 1.6.8 du Règlement annexé à l'AD
 
 - soit à un cours de recyclage de base, qui, par exception aux dispositions du 8.2.2.5 et du 3.3 de la présente annexe III, comprend vingt-quatre leçons de quarante-cinq minutes, dont huit leçons consacrées à la stabilité.
 
+Jusqu'au 31 décembre 2018, l'expert sur le transport des gaz (visé au 8.2.1.5) ne doit pas obligatoirement être le conducteur responsable (visé au 7.2.3.15) mais peut être n'importe quel membre de l'équipage lorsqu'un bateau-citerne du type G ne transporte que le numéro ONU 1972. Dans ce cas, le conducteur responsable doit avoir participé à un cours de spécialisation "gaz" et il doit avoir suivi une formation supplémentaire sur le transport de GNL selon le 1.3.2.2.
+
 NOTA :
 
-Arrêté du 12 décembre 2012 article 27 : Les présentes dispositions entrent en vigueur le 1er janvier 2013
+Conformément à l'article 18 de l'arrêté du 2 décembre 2014, les présentes dispositions entrent en vigueur le 1er janvier 2015.
 
-Toutefois, les dispositions de l'arrêté du 29 mai 2009 modifié relatif aux transports de marchandises dangereuses par voies terrestres applicables avant cette date, peuvent continuer d'être appliquées jusqu'au 30 juin 2013.
-
-Le décret n° 2007-1168 du 2 août 2007 est abrogé et codifié dans la partie réglementaire du code des transports par le décret n° 2013-251 du 25 mars 2013, article 3.
+Toutefois, les dispositions de l'arrêté du 29 mai 2009 modifié relatif aux transports de marchandises dangereuses par voies terrestres applicables avant cette date, peuvent continuer d'être appliquées jusqu'au 30 juin 2015.

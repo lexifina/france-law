@@ -86,7 +86,7 @@ Chapitre 10 : Marquage.
 
 2.3. Flexibles pour les matières de la classe 2 des n°s ONU 1011, 1075, 1965, 1969 et 1978.
 
-Les flexibles sont d'un seul tenant et sont conformes à la norme NF EN 1762 de mai 2004.
+Les flexibles sont d'un seul tenant. Les flexibles réalisés à partir de tuyaux en caoutchouc sont conformes à la norme NF EN 1762 de mai 2004.
 
 2.4. Flexibles pour les gaz liquéfiés réfrigérés de la classe 2.
 
@@ -94,13 +94,11 @@ Les flexibles sont conformes à la norme NF EN 12434 de février 2001.
 
 2.5. Flexibles pour les carburants de la classe 3.
 
-Les flexibles réalisés à partir de tuyaux en caoutchouc sont conformes à la norme NF EN 1360 de novembre 2005, ou à la norme NF EN 1761 de juillet 1999, ou à la norme NF EN 1765 de mars 2005, ou à la norme NF EN 13765 de juin 2010, ou à la norme NF EN ISO 1825 de juillet 2011.
+Les flexibles réalisés à partir de tuyaux en caoutchouc ou en matériaux thermoplastiques sont conformes à la norme NF EN 1360 d'août 2013, ou à la norme NF EN 1761 de juillet 1999, ou à la norme NF EN 1765 de mars 2005, ou à la norme NF EN 13765 de juin 2010, ou à la norme NF EN ISO 1825 de juillet 2011.
 
-2.6. Flexibles en caoutchouc et en matériaux thermoplastiques pour matières chimiques liquides ou gazeuses.
+2.6. Flexibles pour les matières chimiques liquides ou gazeuses.
 
-Les flexibles sont conformes à la norme NF EN 12115 d'avril 2011 ou à la norme NF EN 13765 de juin 2010.
-
-2.7. Les normes NF EN 12115, NF EN 13765 et NF EN ISO 1825 précitées peuvent n'être appliquées qu'à compter du 1er janvier 2014.
+Les flexibles réalisés à partir de tuyaux en caoutchouc ou en matériaux thermoplastiques sont conformes à la norme NF EN 12115 d'avril 2011, ou à la norme NF EN 13765 de juin 2010.
 
 3. Agrément des flexibles
 
@@ -492,7 +490,7 @@ Le cas échéant, d'autres éléments peuvent être intégrés, notamment :
 
 1.2. Place du conseiller à la sécurité dans l'organisation
 
-Le cas échéant, un organigramme est fourni, indiquant clairement la place du (ou des) conseiller(s) à la sécurité.
+Un organigramme est fourni, indiquant clairement la place du (ou des) conseiller(s) à la sécurité.
 
 Si le conseiller n'est pas basé dans l'établissement, il indique les coordonnées de son interlocuteur local.
 
@@ -504,7 +502,17 @@ Afin de quantifier les activités de l'entreprise liées aux marchandises danger
 
 Le relevé des activités de transport de marchandises dangereuses des classes 1 et 7 s'appuie, le cas échéant, sur les données transmises par ailleurs, de façon plus détaillée, à l'autorité compétente.
 
-Selon les activités de l'entreprise, les tableaux correspondants sont complétés en fonction des obligations et des spécificités reprises aux points 2.1.1, 2.1.2, 2.1.3, 2.1.4 et 2.1.5 du présent appendice.
+Selon les activités de l'entreprise, les tableaux correspondants sont complétés en fonction des obligations et des spécificités reprises aux points 2.1.1,2.1.2,2.1.3,2.1.4 et 2.1.5 du présent appendice. Les quantités reportées dans les tableaux portent sur les marchandises concernées par les activités du conseiller à la sécurité ; elles peuvent faire l'objet d'une estimation sous réserve que celle-ci permette au conseiller à la sécurité de remplir les missions listées au 1.8.3.3.
+
+Les informations relatives aux marchandises susvisées comprennent la mention des numéros ONU, complétée des désignations officielles de transport et des groupes d'emballage et figurent :
+
+-soit dans des colonnes supplémentaires ajoutées aux tableaux ;
+
+-soit dans une liste annexée au rapport annuel si la ventilation par numéro ONU dans ces derniers s'avère impossible.
+
+Toutefois celles-ci peuvent faire l'objet de regroupements, par catégories génériques homogènes de marchandises dont les propriétés et les conditions de transport sont similaires, et suivant des principes clairement définis. Dans ce cas la liste exhaustive des numéros ONU n'est pas nécessaire si après regroupement les données listées sont suffisamment précises pour permettre au conseiller de remplir les missions listées au 1.8.3.3.
+
+Les numéros ONU correspondant à des entrées dont les caractéristiques et conditions de transport ne permettent pas un rattachement à une catégorie générique visée à l'alinéa précédent doivent être listés précisément.
 
 La mention des numéros ONU, complétée des désignations officielles de transport et des groupes d'emballage figure :
 
@@ -1160,17 +1168,275 @@ Nombre d'événements intéressants (EIT) (*) :
 
 4.1. Tableau de synthèse des visites et interventions réalisées par le conseiller à la sécurité
 
-Le tableau de synthèse ci-après est rempli afin d'obtenir un récapitulatif clair de toutes les visites ou interventions du conseiller à la sécurité effectuées dans l'entreprise sur le thème du transport de marchandises dangereuses.
+Le tableau de synthèse ci-après est rempli afin d'obtenir un récapitulatif clair de toutes les visites ou interventions du conseiller à la sécurité effectuées dans l'entreprise sur le thème du transport de marchandises dangereuses (MD).
 
-Le tableau est divisé en thèmes et sous-thèmes généraux, correspondant aux tâches du conseiller à la sécurité décrites dans la partie 5 du présent appendice et numérotées de 5.1 à 5.13.
+Ce tableau est divisé en thèmes correspondant aux tâches du conseiller à la sécurité visées au 1.8.3.3, décrites dans la partie 5 du présent appendice et numérotées de 5.1 à 5.13.
 
-Chaque visite ou intervention fait l'objet d'une ligne du tableau avec indication de sa date et du lieu (si plusieurs sites, par exemple). Les sous-thèmes qui auront été abordés par intervention ou visite sont simplement cochés.
+Chaque visite ou intervention fait l'objet d'une ligne du tableau avec indication de sa date et du lieu. Les thèmes qui sont abordés par intervention ou visite sont simplement cochés.
 
-Vous pouvez consulter le tableau dans le JO
+Le cas échéant, il est possible, en fonction des activités de l'entreprise, que certains thèmes indiqués soient sans objet. Dans ce cas, les cases correspondantes de la ligne " sans objet " sont cochées. Le rapport comprend alors les justifications appropriées.
 
-n° 304 du 31/12/2013 texte numéro 56 à l'adresse suivante
+THÈMES
 
-http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20131231&numTexte=56&pageDebut=22353&pageFin=22362
+(TÂCHES DU CONSEILLER)
+
+|
+
+5.1
+
+|
+
+5.2
+
+|
+
+5.3
+
+|
+
+5.4
+
+|
+
+5.5
+
+|
+
+5.6
+
+|
+
+5.7
+
+|
+
+5.8
+
+|
+
+5.9
+
+|
+
+5.10
+
+|
+
+5.11
+
+|
+
+5.12
+
+|
+
+5.13
+
+|
+
+AUTRES (*)
+
+|
+
+Désignation
+
+|
+
+Identification des MD
+
+|
+
+Achats de moyens de transport
+
+|
+
+Vérification du matériel utilisé
+
+|
+
+Formation du personnel
+
+|
+
+Procédures d'urgence pour incidents/ accidents MD
+
+|
+
+Analyse des incidents/ accidents/ infractions graves
+
+|
+
+Mesures pour éviter la répétition d'accidents/ incidents/ infractions graves
+
+|
+
+Sous-traitance et intervenants extérieurs
+
+|
+
+Procédures et consignes
+
+|
+
+Sensibilisation aux risques des MD
+
+|
+
+Documents et équipements de sécurité
+
+|
+
+Chargement-déchargement
+
+|
+
+Plan de sûreté prévu au 1.10.3.2
+
+|
+
+|
+
+Thème (s) sans objet pour l'entreprise
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Visite (s)
+
+|
+
+Thèmes abordés
+
+|
+
+Date
+
+|
+
+Lieu
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+(*) Si cette rubrique est renseignée, préciser la nature du thème concerné par l'intervention ;
 
 4.2. Rappel des autres travaux ou audits réalisés pouvant avoir une incidence sur les activités liées au transport de marchandises dangereuses
 
@@ -1193,8 +1459,6 @@ Le rapport annuel contient :
 ― une description des actions principales dans lesquelles le conseiller à la sécurité s'est investi au cours de l'année et qui lui ont permis d'examiner les pratiques de l'entreprise dans les différentes activités impliquées et d'évaluer leur conformité par rapport aux obligations réglementaires ;
 
 ― les recommandations qui ont été réalisées par le conseiller à la sécurité pour chacune des treize tâches décrites au 1.8.3.3.
-
-Le cas échéant, il est possible, en fonction de l'activité de l'entreprise, que certaines tâches indiquées soient sans objet. Dans ce cas, il en sera fait simplement mention.
 
 Chaque point, numéroté de 5.1 à 5.13 est renseigné par le conseiller à la sécurité.
 
@@ -1500,7 +1764,7 @@ Le cas échéant, une notion de hiérarchisation de ces propositions sera faite 
 
 La conclusion du rapport annuel donne une vision globale de la situation et de la conformité réglementaire de l'entreprise dans ses activités liées au transport de marchandises dangereuses (y compris le chargement et le déchargement).
 
-Le conseiller à la sécurité fait apparaître les points forts de l'entreprise qu'il souhaite mettre en valeur, mais aussi les points faibles sur lesquels un suivi des actions menées pendant l'année visée par le rapport annuel est établi.
+Le conseiller à la sécurité fait apparaître les points forts de l'entreprise qu'il souhaite mettre en valeur, mais aussi les axes d'amélioration sur lesquels un suivi des actions menées pendant l'année visée par le rapport annuel est établi.
 
 APPENDICE IV.5 : MODÈLES DE CERTIFICATS D'AGRÉMENT DES MODÈLES TYPES D'EMBALLAGE ET D'ATTESTATIONS LIÉES AU CONTRÔLE DE FABRICATION DES EMBALLAGES
 
@@ -1930,7 +2194,7 @@ APPENDICE IV.6 : CONTRÔLES MAGNÉTOSCOPIQUES DES CITERNES
 
 1. Les modalités des contrôles par magnétoscopie des citernes visées au 3 d de l'article 25 du présent arrêté sont définies par la norme NF EN ISO 17638 d'avril 2010. Les critères d'acceptation sont ceux du niveau 1 de la norme NF EN ISO 23278 d'avril 2010.
 
-Les contrôles magnétoscopiques doivent être effectués par un personnel qualifié niveau 2 suivant la norme NF EN 473.
+Les contrôles magnétoscopiques doivent être effectués par un personnel qualifié niveau 2 suivant la norme NF EN ISO 9712.
 
 2. Sont soumises au contrôle les soudures suivantes :
 
@@ -2493,3 +2757,9 @@ L'exploitant de la citerne doit pouvoir justifier des dispositions qu'il a prise
 Des consignes affichées soit aux postes de chargement et de déchargement, soit sur la citerne doivent rappeler cette prescription.
 
 L'exploitant de la citerne doit prendre les dispositions appropriées en vue d'empêcher l'obstruction des orifices témoins prévus au 2.5 du présent appendice par les produits transportés et de maintenir en bon état le robinet dont ces orifices sont équipés.
+
+NOTA :
+
+Conformément à l'article 18 de l'arrêté du 2 décembre 2014, les présentes dispositions entrent en vigueur le 1er janvier 2015.
+
+Toutefois, les dispositions de l'arrêté du 29 mai 2009 modifié relatif aux transports de marchandises dangereuses par voies terrestres applicables avant cette date, peuvent continuer d'être appliquées jusqu'au 30 juin 2015.
