@@ -12,37 +12,23 @@ Tp représente le taux de participation personnelle ; son montant est calculé s
 
 Rp est égal à la différence entre les ressources du bénéficiaire appréciées dans les conditions prévues à l'article R. 351-17-4 et un montant forfaitaire défini au II ci-après ; Rp ne peut être inférieur à zéro.
 
-II.-Pour l'application de l'article R. 351-17-4, le forfait visé au I est déterminé, pour chaque composition familiale, d'après la formule suivante :
+II.-Pour l'application de l'article R. 351-17-4, le forfait R0 mentionné au I, servant au calcul du paramètre Rp, est fixé selon le tableau suivant :
 
-R0 = R1-R2,
-
-où R1 et R2, sont respectivement un pourcentage du montant forfaitaire mentionné au 2° de l'article L. 262-2 du code de l'action sociale et des familles et un pourcentage de la base mensuelle de calcul des allocations familiales visée à l'article L. 551-1 du code de la sécurité sociale. Ces pourcentages sont donnés par le tableau ci-dessous :
-
-BENEFICIAIRE
+FOYER
 
 |
 
-R1 du montant forfaitaire
+MONTANT
 
-(en pourcentage)
-
-|
-
-R2 de la BMAF
-
-(en pourcentage)
+(en euros)
 
 |
 
-Personne isolée sans personne à charge
+Personne seule sans personne à charge
 
 |
 
-88
-
-|
-
--
+4 544
 
 |
 
@@ -50,54 +36,72 @@ Couple sans personne à charge
 
 |
 
-126
+6 508
 
 |
 
--
+Personne seule ou couple ayant :
 
 |
 
-Personne isolée ou couple avec une personne à charge
+|
+
+-une personne à charge
 
 |
 
-150,3
+7 762
 
 |
 
--
+-deux personnes à charge
 
 |
 
-Personne isolée ou couple avec deux personnes à charge
+7 938
 
 |
 
-180,3
+-trois personnes à charge
 
 |
 
-32
+8 242
 
 |
 
-Majoration par personne à charge supplémentaire
+-quatre personnes à charge
 
 |
 
-40
+8 547
 
 |
 
-41
+-cinq personnes à charge
 
 |
 
-Le montant forfaitaire mentionné au 2° de l'article L. 262-2 du code de l'action sociale et des familles et le montant de la base mensuelle des allocations familiales sont ceux en vigueur au 1er janvier de l'année civile de référence définie à l'article R. 351-5 du code de la construction et de l'habitation.
+8 851
 
-Le résultat, multiplié par douze, est arrondi à l'euro le plus proche et affecté d'un abattement calculé suivant les règles applicables en matière d'imposition aux traitements et salaires prévues au deuxième alinéa du 3° de l'article 83 du code général des impôts.
+|
+
+-six personnes à charge
+
+|
+
+9 156
+
+|
+
+-par personne à charge supplémentaire
+
+|
+
+304
+
+|
 
 NOTA :
 
-Arrêté du 30 septembre 2014 article 6 : ces dispositions sont applicables pour les prestations dues à compter du mois d'octobre 2014.
+Arrêté du 29 décembre 2014, article 4 : ces dispositions sont applicables aux prestations dues à compter du mois de janvier 2015.
