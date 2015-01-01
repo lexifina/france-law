@@ -1,6 +1,6 @@
 # Article 244 quater U
 
-I.-1. Les établissements de crédit et les sociétés de financement mentionnés à l'article L. 511-1 du code monétaire et financier passibles de l'impôt sur les sociétés, de l'impôt sur le revenu ou d'un impôt équivalent, ayant leur siège dans un Etat membre de l'Union européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen ayant conclu avec la France une convention d'assistance administrative en vue de lutter contre la fraude et l'évasion fiscales, peuvent bénéficier d'un crédit d'impôt au titre d'avances remboursables ne portant pas intérêt versées au cours de l'année d'imposition ou de l'exercice pour financer des travaux d'amélioration de la performance énergétique globale de logements achevés avant le 1er janvier 1990 et utilisés ou destinés à être utilisés en tant que résidence principale.
+I.-1. Les établissements de crédit et les sociétés de financement mentionnés à l'article L. 511-1 du code monétaire et financier passibles de l'impôt sur les sociétés, de l'impôt sur le revenu ou d'un impôt équivalent, ayant leur siège dans un Etat membre de l'Union européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen ayant conclu avec la France une convention d'assistance administrative en vue de lutter contre la fraude et l'évasion fiscales, peuvent bénéficier d'un crédit d'impôt au titre d'avances remboursables ne portant pas intérêt versées au cours de l'année d'imposition ou de l'exercice pour financer des travaux d'amélioration de la performance énergétique globale de logements achevés avant le 1er janvier 1990 en métropole, et de logements dont le permis de construire a été déposé avant le 1er mai 2010 pour les départements de Guadeloupe, de Martinique, de Guyane, de La Réunion et de Mayotte, et utilisés ou destinés à être utilisés en tant que résidence principale.
 
 2. Les travaux mentionnés au 1 sont constitués :
 
@@ -44,7 +44,7 @@ Les modalités de détermination des travaux mentionnés aux 1°, 2° et 3° son
 
 7. Les dépenses de travaux financées par une avance remboursable peuvent ouvrir droit au crédit d'impôt sur le revenu prévu à l'article 200 quater lorsque le montant des revenus du foyer fiscal tel que défini au IV de l'article 1417 n'excède pas un plafond, de 25 000 € pour une personne célibataire, veuve ou divorcée, 35 000 € pour un couple soumis à imposition commune et 7 500 € supplémentaires par personne à charge au sens des articles 196 à 196 B (2), l'avant-dernière année précédant celle de l'offre de l'avance.
 
-8. (Abrogé).
+8. (Abrogé)
 
 9. La durée de remboursement de l'avance remboursable sans intérêt ne peut excéder cent vingt mois. Cette durée est portée à cent quatre-vingts mois pour les travaux comportant au moins trois des six actions prévues au 1° du 2 du I et pour les travaux prévus au 2° du même 2
 
