@@ -4,13 +4,7 @@ LISTE DES ÉTABLISSEMENTS
 
 a) Etablissements exerçant une des activités listées ci-dessous :
 
-- installations classées soumises à autorisation ou enregistrement à l'exclusion des élevages sauf les installations destinées à l'élevage de volailles ou de porcs disposant de plus de :
-
-1. 40 000 emplacements pour la volaille ; ou
-
-2. 2 000 emplacements pour porcs de production (de plus de 30 kg) ; ou
-
-3. 750 emplacements pour truies ;
+- installations classées soumises à autorisation ou enregistrement, à l'exclusion des élevages, sauf les installations relevant de la rubrique 3660 ;
 
 - pisciculture d'une capacité de production supérieure à 1 000 tonnes par an ;
 
