@@ -2,129 +2,21 @@
 
 LISTE ET RESSORT DES JURIDICTIONS COMPÉTENTES POUR CONNAÎTRE DES INFRACTIONS ENTRANT DANS LES CATÉGORIES MENTIONNÉES AUX ARTICLES 697-1 ET 702 (ALINÉA 2) DU CODE DE PROCÉDURE PÉNALE
 
-COURS
-
-d'appel
-
-|
-
 TRIBUNAUX
 
-de
-
-grande instance
+de grande instance compétents
 
 |
 
-COURS
-
-d'assises
-
-ayant leur siège
-
-à :
+COURS D'ASSISES COMPÉTENTES
 
 |
 
-COMPÉTENCES TERRITORIALES
+COMPÉTENCE TERRITORIALE
 
-s'étendant au :
+s'étendant au ressort des cours d'appel
 
-|
-
-Agen
-
-|
-
-Agen
-
-|
-
-Agen
-
-|
-
-Ressort de la cour d'appel d'Agen.
-
-|
-
-Aix-en-Provence
-
-|
-
-Marseille
-
-|
-
-Aix-en-Provence
-
-|
-
-Ressort de la cour d'appel d'Air-en-Provence.
-
-|
-
-Amiens
-
-|
-
-Amiens
-
-|
-
-Amiens
-
-|
-
-Ressort de la cour d'appel d'Amiens.
-
-|
-
-Angers
-
-|
-
-Le Mans
-
-|
-
-Angers
-
-|
-
-Ressort de la cour d'appel d'Angers.
-
-|
-
-Bastia
-
-|
-
-Bastia
-
-|
-
-Bastia
-
-|
-
-Ressort de la cour d'appel de Bastia.
-
-|
-
-Besançon
-
-|
-
-Besançon
-
-|
-
-Besançon
-
-|
-
-Ressort de la cour d'appel de Besançon.
+ou du tribunal supérieur d'appel de :
 
 |
 
@@ -132,99 +24,11 @@ Bordeaux
 
 |
 
-Bordeaux
+Cour d'assises de la Gironde
 
 |
 
-Bordeaux
-
-|
-
-Ressort de la cour d'appel de Bordeaux.
-
-|
-
-Bourges
-
-|
-
-Bourges
-
-|
-
-Bourges
-
-|
-
-Ressort de la cour d'appel de Bourges.
-
-|
-
-Caen
-
-|
-
-Caen
-
-|
-
-Caen
-
-|
-
-Ressort de la cour dappel de Caen.
-
-|
-
-Chambéry
-
-|
-
-Chambéry
-
-|
-
-Chambéry
-
-|
-
-Ressort de la cour d'appel de Chambéry.
-
-|
-
-Colmar
-
-|
-
-Strasbourg
-
-|
-
-Strasbourg
-
-|
-
-Ressort de la cour d'appel de Colmar.
-
-|
-
-Dijon
-
-|
-
-Dijon
-
-|
-
-Dijon
-
-|
-
-Ressort de la cour d'appel de Dijon.
-
-|
-
-Douai
+Bordeaux, Limoges, Pau.
 
 |
 
@@ -232,43 +36,11 @@ Lille
 
 |
 
-Douai
+Cour d'assises du Nord
 
 |
 
-Ressort de la cour d'appel de Douai.
-
-|
-
-Grenoble
-
-|
-
-Grenoble
-
-|
-
-Grenoble
-
-|
-
-Ressort de la cour d'appel de Grenoble.
-
-|
-
-Limoges
-
-|
-
-Limoges
-
-|
-
-Limoges
-
-|
-
-Ressort de la cour d'appel de Limoges.
+Amiens, Douai, Reims, Rouen.
 
 |
 
@@ -276,15 +48,23 @@ Lyon
 
 |
 
-Lyon
+Cour d'assises du Rhône
 
 |
 
-Lyon
+Chambéry, Grenoble, Lyon, Riom.
 
 |
 
-Ressort de la cour d'appel de Lyon.
+Marseille
+
+|
+
+Cour d'assises des Bouches-du-Rhône
+
+|
+
+Aix-en-Provence, Bastia, Nîmes.
 
 |
 
@@ -292,79 +72,11 @@ Metz
 
 |
 
-Metz
+Cour d'assises de la Moselle
 
 |
 
-Metz
-
-|
-
-Ressort de la cour d'appel de Metz.
-
-|
-
-Montpellier
-
-|
-
-Montpellier
-
-|
-
-Montpellier
-
-|
-
-Ressort de la cour d'appel de Montpellier.
-
-|
-
-Nancy
-
-|
-
-Nancy
-
-|
-
-Nancy
-
-|
-
-Ressort de la cour d'appel de Nancy.
-
-|
-
-Nîmes
-
-|
-
-Nîmes
-
-|
-
-Nîmes
-
-|
-
-Ressort de la cour d'appel de Nîmes.
-
-|
-
-Orléans
-
-|
-
-Orléans
-
-|
-
-Orléans
-
-|
-
-Ressort de la cour d'appel d'Orléans.
+Besançon, Colmar, Dijon, Metz, Nancy.
 
 |
 
@@ -372,63 +84,11 @@ Paris
 
 |
 
-Paris
+Cour d'assises de Paris
 
 |
 
-Paris
-
-|
-
-Ressort de la cour d'appel de Paris.
-
-|
-
-Pau
-
-|
-
-Pau
-
-|
-
-Pau
-
-|
-
-Ressort de la cour d'appel de Pau.
-
-|
-
-Poitiers
-
-|
-
-Poitiers
-
-|
-
-Poitiers
-
-|
-
-Ressort de la cour d'appel de Poitiers.
-
-|
-
-Reims
-
-|
-
-Reims
-
-|
-
-Reims
-
-|
-
-Ressort de la cour d'appel de Reims.
+Bourges, Paris, Orléans, Versailles, Nouméa, Papeete, Saint-Denis, Saint-Pierre.
 
 |
 
@@ -436,95 +96,11 @@ Rennes
 
 |
 
-Rennes
+Cour d'assises d'Ille-et-Vilaine
 
 |
 
-Rennes
-
-|
-
-Ressort de la cour d'appel de Rennes.
-
-|
-
-Riom
-
-|
-
-Clermont-Ferrand
-
-|
-
-Riom
-
-|
-
-Ressort de la cour d'appel de Riom.
-
-|
-
-Rouen
-
-|
-
-Rouen
-
-|
-
-Rouen
-
-|
-
-Ressort de la cour d'appel de Rouen.
-
-|
-
-Toulouse
-
-|
-
-Toulouse
-
-|
-
-Toulouse
-
-|
-
-Ressort de la cour d'appel de Toulouse.
-
-|
-
-Versailles
-
-|
-
-Versailles
-
-|
-
-Versailles
-
-|
-
-Ressort de la cour d'appel de Versailles.
-
-|
-
-Basse-Terre
-
-|
-
-Basse-Terre
-
-|
-
-Basse-Terre
-
-|
-
-Ressort de la cour d'appel de Basse-Terre.
+Angers, Caen, Poitiers, Rennes.
 
 |
 
@@ -532,96 +108,22 @@ Cayenne
 
 |
 
-Cayenne
+Cour d'assises de la Guyane
 
 |
 
-Cayenne
+Basse-Terre, Cayenne, Fort-de-France.
 
 |
 
-Ressort de la cour d'appel de Cayenne
+Toulouse
 
 |
 
-Fort-de-France
+Cour d'assises de la Haute-Garonne
 
 |
 
-Fort-de-France
-
-|
-
-Fort-de-France
-
-|
-
-Ressort de la cour d'appel de Fort-de-France.
-
-|
-
-Saint-Denis
-
-|
-
-Saint-Denis
-
-|
-
-Saint-Denis
-
-|
-
-Ressort de la cour d'appel de Saint-Denis.
-
-|
-
-Saint-Pierre
-
-|
-
-Saint-Pierre
-
-|
-
-Saint-Pierre (tribunal criminel)
-
-|
-
-Ressort du tribunal supérieur d'appel
-
-de Saint-Pierre (Saint-Pierre-et-Miquelon).
-
-|
-
-Nouméa
-
-|
-
-Nouméa (tribunal de première instance)
-
-|
-
-Nouméa
-
-|
-
-Ressort de la cour d'appel de Nouméa.
-
-|
-
-Papeete
-
-|
-
-Papeete (tribunal de première instance)
-
-|
-
-Papeete
-
-|
-
-Ressort de la cour d'appel de Papeete.
+Toulouse, Montpellier, Agen.
 
 |
