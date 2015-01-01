@@ -1,6 +1,6 @@
-# Article Annexe
+# Article Annexe I
 
-Situation liée à l'existence de difficultés de circulation et de stationnement (article L. 325-9 du code de la route)
+Tarifs applicables aux communes visées à l'article 2
 
 FRAIS
 
