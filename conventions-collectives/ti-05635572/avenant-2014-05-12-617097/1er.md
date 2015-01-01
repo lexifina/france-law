@@ -1,0 +1,83 @@
+# Article 1er
+
+L'article 42 du règlement du régime professionnel de prévoyance du personnel des sociétés d'assurances est modifié comme suit :
+
+« Article 42
+
+Taux des cotisations
+
+Les cotisations à la charge de l'employeur et du personnel sont fixées comme suit :
+
+(En pourcentage.)
+
+Garantie |
+
+TA |
+
+TB/ TC |
+
+|
+
+Employeur |
+
+Personnel |
+
+Employeur |
+
+Personnel |
+
+Décès
+
+Incapacité-invalidité
+
+Déplacement professionnel |
+
+1,50 |
+
+0,13 |
+
+1,16 |
+
+0,10 |
+
+Remboursement des frais de soins |
+
+1,12 |
+
+0,08 |
+
+1,70 |
+
+0,12 |
+
+Total |
+
+2,62 |
+
+0,21 |
+
+2,86 |
+
+0,22 |
+
+La clé de répartition des cotisations afférentes aux garanties décès, incapacité, invalidité, déplacement professionnel est la suivante :
+
+(En pourcentage.)
+
+|
+
+TA |
+
+TB/ TC |
+
+Employeur |
+
+92 |
+
+92 |
+
+Personnel |
+
+8 |
+
+8 |
