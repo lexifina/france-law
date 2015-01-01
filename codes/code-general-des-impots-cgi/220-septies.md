@@ -48,7 +48,7 @@ b) une activité de services qui n'est pas directement nécessaire à une activi
 
 c) une activité bancaire, financière, d'assurances, de location ou de gestion d'immeubles ou de travaux immobiliers ;
 
-3° elle ne doit pas être soumise aux dispositions des articles 44 sexies, 44 septies et 223 A ;
+3° elle ne doit pas être soumise aux dispositions des articles 44 sexies, 44 septies, 223 A et 223 A bis ;
 
 4° son effectif de salariés, bénéficiant d'un contrat de travail à durée indéterminée ou d'une durée de six mois au moins, doit être égal ou supérieur à dix au cours de chaque exercice de la période définie au premier alinéa du II : si l'effectif varie en cours d'exercice, il est calculé compte tenu de la durée de présence des salariés en cause pendant l'exercice.
 

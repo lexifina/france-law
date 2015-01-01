@@ -22,9 +22,9 @@ Les taux mentionnés aux b, c et d sont exprimés en pourcentages et arrondis au
 
 Pour l'application du présent article, le chiffre d'affaires s'entend de celui mentionné au 1 du II de l'article 1586 ter.
 
-I bis. – Lorsqu'une société est membre d'un groupe mentionné à l'article 223 A, le chiffre d'affaires à retenir pour l'application du I s'entend de la somme des chiffres d'affaires de chacune des sociétés membres du groupe.
+I bis. – Lorsqu'une société est membre d'un groupe mentionné à l'article 223 A ou à l'article 223 A bis, le chiffre d'affaires à retenir pour l'application du I s'entend de la somme des chiffres d'affaires de chacune des sociétés membres du groupe.
 
-Le présent I bis n'est pas applicable aux sociétés membres d'un groupe dont la société mère au sens de l'article 223 A bénéficie des dispositions du b du I de l'article 219.
+Le présent I bis n'est pas applicable aux sociétés membres d'un groupe dont la société mère au sens de l'article 223 A ou de l'article 223 A bis bénéficie des dispositions du b du I de l'article 219.
 
 II. – Le montant du dégrèvement est majoré de 1 000 € pour les entreprises dont le chiffre d'affaires est inférieur à 2 000 000 €.
 
@@ -41,7 +41,5 @@ Les conditions d'exercice de la détention de capital prévues au premier aliné
 Le présent III ne s'applique plus à compter de la huitième année suivant l'opération d'apport, de cession d'activité, de scission d'entreprise ou de transmission universelle du patrimoine mentionnée à l'article 1844-5 du code civil en cause.
 
 NOTA :
-
-Loi n° 2010-1657 du 29 décembre 2010 de finances pour 2011 art 108 XXII, modifié par l'article 50 IV de la loi n° 2010-1658 du 29 décembre 2010 de finances rectificative pour 2010 : les dispositions du I bis de l'article 1586 quater s'appliquent à compter des impositions établies au titre de 2011.
 
 Conformément à la décision n° 2017-629 QPC du 19 mai 2017 (NOR: CSCX1714790S), Art. 1 : Le premier alinéa du paragraphe I bis de l'article 1586 quater du code général des impôts, dans sa rédaction résultant de la loi n° 2010-1657 du 29 décembre 2010 de finances pour 2011, est contraire à la Constitution. Conformément à l'article 2 de ladite décision, la déclaration d'inconstitutionnalité prend effet dans les conditions fixées au paragraphe 13 de cette décision (En l'espèce, aucun motif ne justifie de reporter les effets de la déclaration d'inconstitutionnalité. Celle-ci intervient donc à compter de la date de publication de la présente décision. Elle est applicable à toutes les affaires non jugées définitivement à cette date, sous réserve du respect des délais et conditions prévus par le livre des procédures fiscales.).
