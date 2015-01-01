@@ -1020,54 +1020,6 @@ Articles R. 321-6 et R. 321-15
 
 |
 
-Code rural et de la pêche maritime
-
-|
-
-Autorisations d'exercer des activités de pêche pendant des périodes, dans des zones, pour des espèces ou groupe d'espèces, avec des engins et des volumes déterminés (autorisations de pêche contingentées)
-
-|
-
-2e alinéa de l'article L. 921-1
-
-Article L. 981-4
-
-|
-
-|
-
-Délivrance d'autorisations de pêche prises après avis conforme d'un organisme supranational ou d'un Etat tiers dans le respect du traité sur le fonctionnement de l'Union européenne et dans le respect des engagements internationaux de la France
-
-|
-
-2e alinéa de l'article L. 921-1
-
-Article L. 911-3
-
-|
-
-|
-
-Permis de mise en exploitation des navires avant la construction, l'importation, la modification de la capacité de pêche ou la délivrance d'une autorisation générale d'activité de pêche maritime à l'issue d'une période d'inactivité de plus de six mois (immatriculation d'un navire en pêche professionnelle)
-
-|
-
-Article L. 921-7
-
-|
-
-|
-
-Autorisations d'exercer des activités de pêche pendant des périodes, dans des zones, pour des espèces ou groupe d'espèces, avec des engins ou des volumes déterminés ou non dans les eaux maritimes placées sous souveraineté ou juridiction française pour des navires battant pavillon étranger.
-
-|
-
-Articles L. 921-9 et L. 954-2
-
-|
-
-|
-
 Code de la santé publique
 
 |
