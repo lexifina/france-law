@@ -1,0 +1,505 @@
+# Article 1er
+
+L'article 5 « Cotisation » est modifié comme suit :
+
+« Le taux global de cotisation est fixé à :
+
+– personnel non cadre : 0,78 % de la tranche A et 0,78 % de la tranche B ;
+
+– personnel cadre : 1,50 % de la tranche A et 1,50 % de la tranche B.
+
+Il est réparti de la façon suivante.
+
+Personnel non cadre
+
+(En pourcentage.)
+
+|
+
+Cotisation
+
+totale TA-TB |
+
+A la charge
+
+de l'employeur
+
+TA-TB |
+
+A la charge
+
+du salarié
+
+TA-TB |
+
+Décès |
+
+0,08 |
+
+0,07 |
+
+0,01 |
+
+Rente éducation OCIRP |
+
+0,07 |
+
+0,06 |
+
+0,01 |
+
+Obsèques |
+
+0,02 |
+
+0,02 |
+
+0 |
+
+Maintien de salaire au 31e jour |
+
+0,07 |
+
+0,07 |
+
+0 |
+
+Incapacité de travail en relais |
+
+0,33 |
+
+0 |
+
+0,33 |
+
+Invalidité |
+
+0,21 |
+
+0,20 |
+
+0,01 |
+
+Total |
+
+0,78 |
+
+0,42 |
+
+0,36 |
+
+Personnel cadre
+
+(En pourcentage.)
+
+|
+
+Cotisation
+
+totale TA |
+
+A la charge
+
+de l'employeur
+
+TA |
+
+A la charge
+
+du salarié
+
+TA |
+
+Décès |
+
+0,49 |
+
+0,49 |
+
+0 |
+
+Rente éducation OCIRP |
+
+0,16 |
+
+0,16 |
+
+0 |
+
+Rente de conjoint OCIRP |
+
+0,11 |
+
+0,11 |
+
+0 |
+
+Maintien de salaire au 31e jour |
+
+0,10 |
+
+0,10 |
+
+0 |
+
+Incapacité de travail en relais |
+
+0,30 |
+
+0,30 |
+
+0 |
+
+Invalidité |
+
+0,34 |
+
+0,34 |
+
+0 |
+
+Total |
+
+1,50 |
+
+1,50 |
+
+0 |
+
+(En pourcentage.)
+
+|
+
+Cotisation
+
+totale TB |
+
+A la charge
+
+de l'employeur
+
+TB |
+
+A la charge
+
+du salarié
+
+TB |
+
+Décès |
+
+0,42 |
+
+0,32 |
+
+0,10 |
+
+Rente éducation OCIRP |
+
+0,16 |
+
+0,11 |
+
+0,05 |
+
+Rente de conjoint OCIRP |
+
+0,11 |
+
+0,08 |
+
+0,03 |
+
+Maintien de salaire au 31e jour |
+
+0,10 |
+
+0,10 |
+
+0 |
+
+Incapacité de travail en relais |
+
+0,34 |
+
+0 |
+
+0,34 |
+
+Invalidité |
+
+0,37 |
+
+0,22 |
+
+0,15 |
+
+Total |
+
+1,50 |
+
+0,83 |
+
+0,67 |
+
+A compter du 1er janvier 2015, il sera appliqué un taux d'appel sur les cotisations indiquées ci-dessus. Les cotisations seront donc les suivantes.
+
+Le taux d'appel global de cotisation est fixé à :
+
+– personnel non cadre : 0,66 % de la tranche A et 0,66 % de la tranche B ;
+
+– personnel cadre : 1,50 % de la tranche A et 1,28 % de la tranche B.
+
+Il est réparti de la façon suivante :
+
+Personnel non cadre
+
+(En pourcentage.)
+
+|
+
+Cotisation
+
+totale
+
+Taux d'appel
+
+TA-TB |
+
+A la charge
+
+de l'employeur
+
+TA-TB |
+
+A la charge
+
+du salarié
+
+TA-TB |
+
+Décès |
+
+0,07 |
+
+0,06 |
+
+0,01 |
+
+Rente éducation OCIRP |
+
+0,06 |
+
+0,05 |
+
+0,01 |
+
+Obsèques |
+
+0,02 |
+
+0,02 |
+
+0 |
+
+Maintien de salaire au 31e jour |
+
+0,06 |
+
+0,06 |
+
+0 |
+
+Incapacité de travail en relais |
+
+0,27 |
+
+0 |
+
+0,27 |
+
+Invalidité |
+
+0,18 |
+
+0,17 |
+
+0,01 |
+
+Total |
+
+0,66 |
+
+0,36 |
+
+0,30 |
+
+Personnel cadre
+
+(En pourcentage.)
+
+|
+
+Cotisation
+
+totale
+
+Taux d'appel
+
+TA |
+
+A la charge
+
+de l'employeur
+
+TA |
+
+A la charge
+
+du salarié
+
+TA |
+
+Décès |
+
+0,49 |
+
+0,49 |
+
+0 |
+
+Rente éducation OCIRP |
+
+0,16 |
+
+0,16 |
+
+0 |
+
+Rente de conjoint OCIRP |
+
+0,11 |
+
+0,11 |
+
+0 |
+
+Maintien de salaire au 31e jour |
+
+0,10 |
+
+0,10 |
+
+0 |
+
+Incapacité de travail en relais |
+
+0,30 |
+
+0,30 |
+
+0 |
+
+Invalidité |
+
+0,34 |
+
+0,34 |
+
+0 |
+
+Total |
+
+1,50 |
+
+1,50 |
+
+0 |
+
+(En pourcentage.)
+
+|
+
+Cotisation
+
+totale
+
+Taux d'appel
+
+TB |
+
+A la charge
+
+de l'employeur
+
+TB |
+
+A la charge
+
+du salarié
+
+TB |
+
+Décès |
+
+0,36 |
+
+0,27 |
+
+0,09 |
+
+Rente éducation OCIRP |
+
+0,14 |
+
+0,10 |
+
+0,04 |
+
+Rente de conjoint OCIRP |
+
+0,09 |
+
+0,06 |
+
+0,03 |
+
+Maintien de salaire au 31e jour |
+
+0,08 |
+
+0,08 |
+
+0 |
+
+Incapacité de travail en relais |
+
+0,29 |
+
+0 |
+
+0,29 |
+
+Invalidité |
+
+0,32 |
+
+0,19 |
+
+0,13 |
+
+Total |
+
+1,28 |
+
+0,70 |
+
+0,58 |
+
+Ces taux sont établis sur la base de la législation et de la réglementation (notamment sociale et fiscale) en vigueur au moment de la date d'effet du présent avenant. Ils seront éventuellement revus en cas de changement de ces textes.
+
+Par ailleurs, si les organismes assureurs constatent, à la suite de la présentation annuelle des résultats du régime de prévoyance, une éventuelle dégradation des comptes, ils seront amenés à proposer aux partenaires sociaux une modification des taux et, a minima, la suppression du taux d'appel, permettant un retour à l'équilibre financier du régime.
+
+(1) Article étendu sous réserve de l'application de l'article 7 de la convention collective nationale de retraite et de prévoyance des cadres du 14 mars 1947 étendue.
+
+(Arrêté du 11 décembre 2015 - art. 1)
