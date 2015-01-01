@@ -1,5 +1,0 @@
-# Article 1er
-
-Les dispositions du présent accord concernent les entreprises visées à l'article 1er de la convention collective de la banque ainsi que leurs organismes de rattachement relevant des classes NAF 94-11Z, 94-12Z, 94-99Zp et 66-19B.
-
-Seules les dispositions relatives aux financements mutualisés ne concernent pas les entreprises des départements d'outre-mer, de Saint-Barthélemy, Saint-Martin et Saint-Pierre-et-Miquelon.
