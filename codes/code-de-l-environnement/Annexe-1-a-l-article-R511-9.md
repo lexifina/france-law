@@ -4016,9 +4016,7 @@ A
 
 |
 
-Gaz à effet de serre fluorés visés par le règlement (CE) n° 842/2006 ou substances qui appauvrissent la couche d'ozone visées par le règlement (CE) n° 1005/2009 (fabrication, emploi, stockage).
-
-|
+Gaz à effet de serre fluorés visés à l'annexe du règlement (UE) n° 517/2014 relatif aux gaz à effet de serre fluorés et abrogeant le règlement (CE) n° 842/2006 ou substances qui appauvrissent la couche d'ozone visées par le règlement (CE) n° 1005/2009 (fabrication, emploi, stockage). |
 
 |
 

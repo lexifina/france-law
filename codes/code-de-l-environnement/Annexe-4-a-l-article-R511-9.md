@@ -3698,7 +3698,7 @@ A
 
 |
 
-Installation de stockage de déchets autre que celles mentionnées à la rubrique 2720 et celles relevant des dispositions de l'article L. 541-30-1 du code de l'environnement.
+Installation de stockage de déchets autre que celles mentionnées à la rubrique 2720
 
 |
 
@@ -3714,7 +3714,7 @@ Quels que soient les déchets stockés :
 
 1. Installation de stockage de déchets dangereux ;
 
-2. Installation de stockage de déchets non dangereux.
+2. Installation de stockage de déchets non dangereux autres que celles mentionnées au 3.
 
 |
 
@@ -3749,6 +3749,16 @@ b) La capacité journalière autorisée étant inférieure à 10 t/j et la capac
 |
 
 3
+
+|
+
+3. Installations de stockage de déchets inertes |
+
+E |
+
+|
+
+|
 
 |
 
