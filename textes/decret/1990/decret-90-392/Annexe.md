@@ -10,11 +10,11 @@ Constitution, composition, objet, dénomination, siège social et durée de l'as
 
 Constitution.
 
-Art.... - Il est formé une association régie par la loi du 1er juillet 1901 modifiée, les articles L. 313-1 à L. 313-17 et R. 313-1 à R. 313-56 du code de la construction et de l'habitation, les décrets relatifs à la participation des employeurs à l'effort de construction, tous textes qui viendraient, le cas échéant, à les modifier, ou les compléter, ainsi que par les présents statuts.
+Art....-Il est formé une association régie par la loi du 1er juillet 1901 modifiée, les articles L. 313-1 à L. 313-17 et R. 313-1 à R. 313-56 du code de la construction et de l'habitation, les décrets relatifs à la participation des employeurs à l'effort de construction, tous textes qui viendraient, le cas échéant, à les modifier, ou les compléter, ainsi que par les présents statuts.
 
 Composition.
 
-Art.... - Sont membres de droit de l'association les organisations d'employeurs et de salariés affiliées aux organisations représentatives au plan national.
+Art....-Sont membres de droit de l'association les organisations d'employeurs et de salariés affiliées aux organisations représentatives au plan national.
 
 Ne peuvent être membres actifs de l'association que des personnes physiques ou morales assujetties à la participation à l'effort de construction ou effectuant un versement volontaire auprès de l'association, des syndicats ou groupements d'employeurs régulièrement constitués, des organisations syndicales affiliées aux confédérations syndicales représentatives à l'échelon national.
 
@@ -24,7 +24,7 @@ L'association peut aussi comprendre des membres d'honneur désignés par l'assem
 
 Objet.
 
-Art.... - L'association a pour objet exclusif de concourir au logement, principalement, des salariés..
+Art....-L'association a pour objet exclusif de concourir au logement, principalement, des salariés..
 
 En conséquence, elle peut promouvoir :
 
@@ -50,7 +50,7 @@ Art....-
 
 Siège social.
 
-Art.... - Le siège social de l'association est fixé à... Il ne pourra être transféré hors du département qu'après autorisation de l'Agence nationale pour la Participation des employeurs à l'effort de construction qui en informe les préfets concernés.
+Art....-Le siège social de l'association est fixé à... Il ne pourra être transféré hors du département qu'après autorisation de l'Agence nationale pour la Participation des employeurs à l'effort de construction qui en informe les préfets concernés.
 
 Durée.
 
@@ -292,7 +292,7 @@ Art....-L'association est tenue de financer, dans les limites et conditions fix�
 
 Pouvoirs.
 
-Art....-Un contrôle du fonctionnement de l'association peut être effectué sur la demande d'au moins quatre membres du conseil d'administration s'exprimant par lettre auprès du président de l'association et auprès de l'Agence nationale pour la participation des employeurs à l'effort de construction.
+Art....-Un contrôle du fonctionnement de l'association peut être effectué sur la demande d'au moins quatre membres du conseil d'administration s'exprimant par lettre auprès du président de l'association et auprès de l' Agence nationale de contrôle du logement social .
 
 Présidence.
 
@@ -326,13 +326,13 @@ TITRE V
 
 Règles relatives aux sociétés visées à l'article R. 313-33-3 du C. C. H.
 
-Art.... - Outre les emplois prévus à la section II du chapitre III du titre Ier du livre III du C. C. H., l'association ne peut :
+Art....-Outre les emplois prévus à la section II du chapitre III du titre Ier du livre III du C. C. H., l'association ne peut :
 
 1. Souscrire d'autres titres que ceux de sociétés énumérées ci-dessous ;
 
 2. Accorder des prêts qu'à ces mêmes sociétés et pour une durée égale au moins à un an.
 
-Art.... - Les sociétés visées à l'article ci-dessus sont :
+Art....-Les sociétés visées à l'article ci-dessus sont :
 
 -les sociétés d'H. L. M. ;
 
@@ -340,12 +340,12 @@ Art.... - Les sociétés visées à l'article ci-dessus sont :
 
 -les sociétés commerciales dont les dispositions statutaires et les modalités particulières de contrôle et de financement respectent les dispositions ci-après.
 
-Art.... - L'association doit détenir, seule ou avec d'autres collecteurs agréés au moins 66 p. 100 du capital des sociétés commerciales visées à l'article précédent.
+Art....-L'association doit détenir, seule ou avec d'autres collecteurs agréés au moins 66 p. 100 du capital des sociétés commerciales visées à l'article précédent.
 
 L'objet social de ces sociétés est conforme à celui défini au titre Ier ci-dessus.
 
-Art.... - Soit : la moitié au moins des sièges au conseil d'administration doit être réservée à parts égales à des personnes proposées par les organisations syndicales d'employeurs et de salariés.
+Art....-Soit : la moitié au moins des sièges au conseil d'administration doit être réservée à parts égales à des personnes proposées par les organisations syndicales d'employeurs et de salariés.
 
 Soit : la société est administrée par un conseil de surveillance et un directoire. La moitié au moins des sièges au conseil de surveillance doit être réservée à parts égales à des personnes proposées par les organisations syndicales d'employeurs et de salariés.
 
-Art.... - La société doit communiquer à l'association tous éléments d'information permettant de contrôler le respect des dispositions prévues à l'article R. 313-33-3 et aux présents statuts, notamment les documents comptables de la société et de ses filiales.
+Art....-La société doit communiquer à l'association tous éléments d'information permettant de contrôler le respect des dispositions prévues à l'article R. 313-33-3 et aux présents statuts, notamment les documents comptables de la société et de ses filiales.
