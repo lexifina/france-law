@@ -1,6 +1,6 @@
 # Article Annexe I
 
-1. Propriétés
+.
 
 PROPRIÉTÉS
 
@@ -11,10 +11,6 @@ UNITÉ
 |
 
 LIMITES
-
-|
-
-|
 
 |
 
@@ -32,7 +28,7 @@ Indice de cétane mesuré.
 
 |
 
-51, 0
+51,0
 
 |
 
@@ -44,25 +40,25 @@ Indice de cétane calculé.
 
 |
 
-46, 0
+46,0
 
 |
 
 |
 
-Masse volumique (à 15° C).
+Masse volumique (à 15 °C).
 
 |
 
-kg / m ³
+kg/m³
 
 |
 
-820, 0
+820,0
 
 |
 
-845, 0
+845,0
 
 |
 
@@ -70,7 +66,7 @@ Hydrocarbures aromatiques polycycliques.
 
 |
 
-% (m / m)
+% (m/m)
 
 |
 
@@ -78,35 +74,15 @@ Hydrocarbures aromatiques polycycliques.
 
 |
 
-8, 0
+8,0
 
 |
 
-Teneur en soufre.
+Teneur en soufre
 
 |
 
-mg / kg
-
-|
-
--
-
-|
-
-10, 0
-
-|
-
-Point d'éclair.
-
-|
-
-° C
-
-|
-
-¹ 55
+mg/kg
 
 |
 
@@ -114,27 +90,19 @@ Point d'éclair.
 
 |
 
-Résidu de carbone (sur le résidu 10 % de distillation).
+10,0
 
 |
 
-% (m / m)
+Point d'éclair
 
 |
 
--
+°C
 
 |
 
-0, 30
-
-|
-
-Teneur en cendre.
-
-|
-
-% (m / m)
+55
 
 |
 
@@ -142,15 +110,43 @@ Teneur en cendre.
 
 |
 
-0, 01
+Résidu de carbone (sur le résidu 10 % de distillation)
 
 |
 
-Teneur en eau.
+% (m/m)
 
 |
 
-mg / kg
+-
+
+|
+
+0,30
+
+|
+
+Teneur en cendre
+
+|
+
+% (m/m)
+
+|
+
+-
+
+|
+
+0,01
+
+|
+
+Teneur en eau
+
+|
+
+mg/kg
 
 |
 
@@ -162,11 +158,11 @@ mg / kg
 
 |
 
-Contamination totale.
+Contamination totale
 
 |
 
-mg / kg
+mg/kg
 
 |
 
@@ -178,7 +174,7 @@ mg / kg
 
 |
 
-Corrosion à la lame de cuivre (3 h à 50° C).
+Corrosion à la lame de cuivre (3 h à 50 °C)
 
 |
 
@@ -190,13 +186,11 @@ Classe 1
 
 |
 
-|
-
-Stabilité à l'oxydation 1.
+Stabilité à l'oxydation 1
 
 |
 
-g / m ³
+g/ m³
 
 |
 
@@ -205,8 +199,6 @@ g / m ³
 |
 
 25
-
-|
 
 |
 
@@ -222,13 +214,13 @@ h
 
 |
 
-Stabilité à l'oxydation 2 à 115° C
+Stabilité à l'oxydation 2 à 115 °C
 
 Variation de l'indice d'acide (2).
 
 |
 
-mg KOH / g
+mg KOH/g
 
 |
 
@@ -236,11 +228,11 @@ mg KOH / g
 
 |
 
-0, 30
+0,30
 
 |
 
-Pouvoir lubrifiant, diamètre de marque d'usure corrigée (wsd 1, 4) à 60° C.
+Pouvoir lubrifiant, diamètre de marque d'usure corrigé (wsd 1,4) à 60 °C.
 
 |
 
@@ -256,29 +248,29 @@ Pouvoir lubrifiant, diamètre de marque d'usure corrigée (wsd 1, 4) à 60° C.
 
 |
 
-Viscosité à 40° C.
+Viscosité à 40 °C
 
 |
 
-mm ² / s
+mm2/s
 
 |
 
-2, 00
+2,00
 
 |
 
-4, 50
+4,50
 
 |
 
 Distillation :
 
-% (v / v) évaporé à 250° C ;
+% (v/v) évaporé à 250 °C
 
 |
 
-% (v / v)
+% (v/v)
 
 |
 
@@ -286,15 +278,15 @@ Distillation :
 
 |
 
-¸ 65
+< 65
 
 |
 
-% (v / v) évaporé à 350° C ;
+% (v/v) évaporé à 350 °C
 
 |
 
-% (v / v)
+% (v/v)
 
 |
 
@@ -306,11 +298,11 @@ Distillation :
 
 |
 
-point 95 % (V / V) condensé à :
+point 95 % (V/V) condensé à :
 
 |
 
-° C
+°C
 
 |
 
@@ -322,11 +314,11 @@ point 95 % (V / V) condensé à :
 
 |
 
-Teneur en esters méthyliques d'acides gras conforme à l'arrêté du 30 juin 2010 relatif aux caractéristiques des esters méthyliques d'acides gras (EMAG)
+Teneur en esters d'acides gras conformes à l'arrêté du 30 juin 2010 relatif aux caractéristiques des estersméthyliques d'acides gras (EMAG)
 
 |
 
-% (V / V)
+% (V/V)
 
 |
 
@@ -334,80 +326,16 @@ Teneur en esters méthyliques d'acides gras conforme à l'arrêté du 30 juin 20
 
 |
 
-7, 0
+8,0
 
 |
 
-(1) Il s'agit d'une spécification supplémentaire pour les carburants diesel dont la teneur en EMAG est supérieure à 2 % (V / V). Cette spécification, en révision au CEN, est temporaire.
+(1) Il s'agit d'une spécification supplémentaire pour les carburants Diesel dont la teneur en EMAG est supérieure à 2 % (V/V). Cette spécification, en révision au CEN, est temporaire.
 
 (2) Cette spécification supplémentaire est optionnelle.
 
 |
 
-2. Caractéristiques de tenue au froid
+NOTA :
 
-SAISON
-
-|
-
-DATE
-
-|
-
-CLASSE
-
-|
-
-TLF (C, max)
-
-|
-
-Eté
-
-|
-
-1er avril - 31 octobre
-
-|
-
-B
-
-|
-
-0° C
-
-|
-
-Hiver
-
-|
-
-1er novembre - 31 mars
-
-|
-
-E
-
-|
-
-- 15° C
-
-|
-
-Gazole grand froid
-
-|
-
-|
-
-F
-
-|
-
-- 20° C
-
-|
-
-TLF : température limite de filtrabilité.
-
-|
+Conseil d'Etat, décision n° 388438 du 27 juillet 2016, (ECLI:CECHS:2016:388438.20160727), article 1er : L'arrêté interministériel du 31 décembre 2014 modifiant l'arrêté du 23 décembre 1999 relatif aux caractéristiques du gazole et du gazole grand froid (NOR : DEVR1431074A) est annulé.
