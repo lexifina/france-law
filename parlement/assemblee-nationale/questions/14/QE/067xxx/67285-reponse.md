@@ -1,0 +1,9 @@
+# Réponse à la question n° 67285
+
+- Question : [67285](67285.md) — Question n° 67285 — jeunes; incitations
+
+## Réponse
+
+*JO du 2015-01-06*
+
+Les formes d'engagement dans la vie associative et citoyenne ont évolué. Nos concitoyens, et notamment les jeunes, s'impliquent de façon plus ponctuelle, souvent pour une mission, une action. Les formes d'engagement sont multiples et ne se limitent pas au bénévolat associatif : le service civique, l'investissement dans la vie du quartier, les conseils de jeunes, la signature de pétition, sont aujourd'hui des formes prisées d'investissement. Ainsi, cette diversité d'engagements bénéficie d'une reconnaissance institutionnelle. Un effort d'accompagnement est fait pour que les pratiques associatives évoluent afin de répondre aux attentes de mobilisation des jeunes. La fidélisation de ces nouveaux bénévoles est un enjeu pour le monde associatif. Le réseau de points d'appuis locaux, référencés et appuyés par le ministère de la ville, jeunesse et des sports, joue ce rôle d'accompagnement sur l'ensemble du territoire, tant auprès des associations que des bénévoles potentiels. Enfin, pour favoriser la valorisation de tous les engagements, le ministère a créé un outil, le portefeuille de compétences. Cet outil d autodiagnostic aide chaque personne s engageant dans une action bénévole à formaliser les compétences acquises et réutilisables dans d autres cadres, comme une recherche d emploi. Ce portefeuille de compétence est utilisé en complément des outils de reconnaissance de l'engagement, comme le passeport bénévole de France Bénévolat ou le carnet de vie bénévole du comité national olympique et sportif Français (CNOSF). Il est également utilisé par les étudiants, par exemple dans certaines unités d'enseignement « engagement associatif ou citoyen » mises en place dans la majorité des universités françaises pour reconnaitre l'investissement consacré à l'intérêt général.
