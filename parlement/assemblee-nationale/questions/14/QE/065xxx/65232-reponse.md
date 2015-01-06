@@ -1,0 +1,9 @@
+# Réponse à la question n° 65232
+
+- Question : [65232](65232.md) — Question n° 65232 — développement durable; pérennisation; perspectives
+
+## Réponse
+
+*JO du 2015-01-06*
+
+Conformément aux engagements du président de la République en matière de rénovation énergétique et afin d'augmenter le nombre de travaux de rénovation énergétique, le projet de loi de finances 2015 prévoit : - de réformer le crédit d'impôt développement durable (CIDD) et de le renommer crédit d'impôt pour la transition énergétique (CITE) ; - de porter à 30 % le taux du crédit d'impôt quelle que soit l'action réalisée et cela dès la première dépense réalisée ; - de supprimer la condition de réalisation de dépenses dans le cadre d'un bouquet de travaux pour bénéficier du CIDD (une mesure transitoire accompagne cette réforme pour les contribuables ayant réalisé des dépenses du 1er janvier au 31 août 2014 dans le cadre d'un « bouquet de travaux » afin de maintenir pour ces mêmes dépenses le bénéficie du crédit d'impôt dans ses conditions d'application antérieures à la présente réforme) ; - de supprimer la condition de ressources pour bénéficier du CIDD pour une seule action. Par ailleurs, les équipements actuellement éligibles au CIDD restent les mêmes, avec les mêmes critères techniques de performance associés. De nouveaux équipements seront ajoutés tels que les compteurs individuels pour le chauffage et l'eau chaude sanitaire dans les copropriétés, les bornes de recharges des véhicules électriques, les protections contre les rayonnements solaires des parois vitrées et opaques. Cette réforme devra être appliquée dans le cadre de la loi de finances 2015 qui sera votée à la fin de l'année 2014, avec une application rétroactive au 1er septembre 2014. Le dispositif du crédit d'impôt est actuellement applicable jusqu'au 31 décembre 2015.
