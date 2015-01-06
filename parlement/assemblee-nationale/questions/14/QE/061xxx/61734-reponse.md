@@ -1,0 +1,9 @@
+# Réponse à la question n° 61734
+
+- Question : [61734](61734.md) — Question n° 61734 — SPANC; contrôle des installations
+
+## Réponse
+
+*JO du 2015-01-06*
+
+La réglementation en assainissement non collectif a été révisée en 2012 dans une vision pragmatique. L'obligation de travaux dans un délai de 4 ans ne s'applique aux particuliers qu'en cas d'installation présentant un danger pour la santé des personnes ou un risque avéré de pollution de l'environnement. En cas de non-conformité mais sans danger pour la santé des personnes ou risque avéré de pollution de l'environnement, cas jugé moins urgent, les travaux sont à réaliser mais sans délai précis, sauf en cas de vente de l'immeuble, où ils doivent être réalisés au plus tard un an après la vente. Cette nouvelle réglementation conduit à prioriser l'action des services publics d'assainissement non collectif (SPANC) sur les situations présentant un enjeu fort sur le plan sanitaire ou environnemental, avec une volonté de meilleur rapport coût-efficacité. En parallèle, les transactions immobilières permettront progressivement de remettre le parc d'installations en conformité sans générer de pression financière trop importante pour le particulier. En cas d'absence d'installation, l'article L. 1331-1-1 du code de la santé publique n'est pas respecté. Les travaux doivent donc être réalisés dans les meilleurs délais. Les « meilleurs délais » sont les délais techniques nécessaires pour mettre en oeuvre une installation d'assainissement non collectif. Cela comprend la conception de l'installation, les contrôles et la réalisation de l'installation. Ce délai reste à la libre appréciation du SPANC selon le contexte local. Il peut être précisé dans le règlement de service du SPANC. En tout état de cause, ce délai doit être inférieur à un an.
