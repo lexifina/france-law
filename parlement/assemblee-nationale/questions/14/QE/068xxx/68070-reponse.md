@@ -1,0 +1,9 @@
+# Réponse à la question n° 68070
+
+- Question : [68070](68070.md) — Question n° 68070 — accueil; politiques communautaires
+
+## Réponse
+
+*JO du 2015-01-06*
+
+Le code de l'action sociale et des familles (CASF) prévoit, en ses articles L. 348-1 à L. 348-4, l'accueil des demandeurs d'asile en centre d'accueil pour demandeurs d'asile (CADA). Ces centres sont des établissements sociaux au sens de l'article L. 312-1 du CASF. Le projet de loi relatif à la réforme de l'asile, déposé le 23 juillet 2014 à l'Assemblée nationale, a pour objectif l'extension de ce mode d'hébergement lequel doit devenir le pivot du dispositif d'hébergement. Cependant, afin de remédier aux situations dans lesquelles les capacités d'accueil de ces centres seraient temporairement épuisées, le nouvel article L. 744-3 du code de l'entrée et du séjour des étrangers et du droit d'asile, créé par l'article 15 du projet de loi, envisage une autre forme d'hébergement, l'hébergement d'urgence des demandeurs d'asile (HUDA). Ces structures d'hébergement, qui peuvent prendre la forme de nuitées d'hôtel ou de centres collectifs, feront l'objet d'un meilleur suivi dans le cadre de la réforme, afin, notamment, de limiter le recours à l'hébergement hôtelier. L'HUDA sera, en effet, intégré au schéma national des places d'hébergement et sera donc pris en compte dans le cadre d'une stratégie nationale d'orientation des demandeurs d'asile. Il est, par ailleurs, prévu que l'Office français de l'immigration et de l'intégration, avant l'orientation vers un hébergement, procède à un examen des causes de vulnérabilité du demandeur d'asile pouvant avoir une incidence sur la localisation et l'environnement du futur hébergement. Par suite, il évaluera les besoins d'hébergement et assurera des ordres de priorités pour les admissions en CADA, notamment en fonction des places disponibles.
