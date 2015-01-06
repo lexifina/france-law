@@ -1,0 +1,9 @@
+# Réponse à la question n° 70469
+
+- Question : [70469](70469.md) — Question n° 70469 — accord transatlantique; négociations; attitude de la France
+
+## Réponse
+
+*JO du 2015-01-06*
+
+La France souligne systématiquement que la transparence des négociations conduites par la Commission européenne et les Etats-Unis à propos de l'accord transatlantique sur le commerce et l'investissement (partenariat commercial transatlantique) doit être assurée afin de garantir un accord satisfaisant pour les Etats. Sous l'impulsion de la France, le mandat de négociation a finalement été rendu public par une décision du Conseil du 8 octobre 2014 : cela constitue une étape encourageante. Par ailleurs, le gouvernement s'est engagé à présenter devant l'Assemblée nationale l'état des discussions après chaque session de négociation, afin de faire le point de la manière la plus transparente, ainsi qu'à prendre en considération l'avis des ONG. Des réunions de consultation ont été menées en ce sens au ministère des affaires étrangères et du développement international. En outre, les documents transmis par la Commission sont désormais accessibles aux parlementaires. Au sujet de la ratification de l'accord, le partenariat commercial transatlantique contiendra majoritairement des dispositions relevant de la compétence exclusive de l'Union européenne (dispositions de nature commerciale, notamment), mais également des dispositions qui relèvent de la compétence des Etats membres, qui auront été négociées en leur nom. L'accord final sera bien un accord mixte, comme le sont la quasi-totalité des accords de libre-échange conclus par l'Union européenne. Dès lors, conformément aux traités européens et à la Constitution, à l'issue de la négociation, le texte final devra être ratifié par les parlements nationaux des Etats membres.
