@@ -1,0 +1,9 @@
+# Réponse à la question n° 61732
+
+- Question : [61732](61732.md) — Question n° 61732 — ouvrages non collectifs; réglementation
+
+## Réponse
+
+*JO du 2015-01-06*
+
+L'article L. 1331-11 du code de la santé publique (CSP) prévoit que les agents du service public d'assainissement non collectif (SPANC) puissent accéder aux propriétés privées afin de réaliser leur mission de contrôle. Cet accès doit être précédé d'un avis de visite notifié au propriétaire de l'immeuble et, le cas échéant, à l'occupant dans un délai précisé dans le règlement de service du SPANC, délai qui ne peut être inférieur à sept jours ouvrés. Ce droit d'accès ne leur permet cependant pas de pénétrer de force dans les propriétés privées en cas de refus du propriétaire. Dans le cas où le propriétaire refuse à l'agent du SPANC l'accès à son installation d'assainissement non collectif, l'article L. 1331-8 du CSP astreint le propriétaire au paiement d'une somme au moins équivalente à la redevance qu'il aurait payée au SPANC si son immeuble avait été équipé d'une installation d'assainissement non collectif réglementaire. Cette somme peut être majorée dans une proportion fixée par le conseil municipal dans la limite de 100 %. Pour appliquer cette pénalité, l'agent du SPANC, qu'il soit en délégation de service public ou en régie, informe le maire du refus d'accès du propriétaire pour le contrôle. Il n'existe pas d'habilitation à constater un refus. Le maire, au titre de son pouvoir de police, peut aussi lancer une procédure de mise en demeure par lettre recommandée avec accusé de réception afin de notifier au particulier ses obligations relatives à l'assainissement non collectif et les sanctions encourues en cas de refus. D'après l'article L. 1331-6 du CSP, il peut après mise en demeure, procéder d'office et aux frais de l'intéressé aux travaux indispensables.
