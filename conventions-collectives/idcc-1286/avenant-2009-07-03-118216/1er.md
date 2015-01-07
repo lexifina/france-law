@@ -1,5 +1,0 @@
-# Article 1er
-
-Le présent accord est applicable aux entreprises entrant dans le champ d'application de la
-
-convention collective nationale n° 3224 de la confiserie, chocolaterie, biscuiterie du 1er janvier 1984 et de ses avenants, tel que défini à l'article 1er de celle-ci.
