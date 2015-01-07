@@ -4,13 +4,21 @@ Catégorie B
 
 Grade de lieutenant hors classe
 
-ÉCHELONS |
+ÉCHELONS
 
-INDICE BRUT au 1er mai 2012 |
+|
+
+INDICE BRUT
+
+au 1er mai 2012
+
+|
 
 INDICE MAJORÉ
 
-au 1er mai 2012 |
+au 1er mai 2012
+
+|
 
 INDICE MAJORÉ
 
@@ -438,43 +446,45 @@ Grade de lieutenant de 2e classe
 
 INDICE BRUT
 
-au 1er mai 2012
+au 1er février 2014
+
+|
+
+INDICE MAJORÉ
+
+au 1er février 2014
+
+|
+
+INDICE MAJORÉ
+
+incluant
+
+la prime de feu
+
+au 1er février 2014
 
 |
 
 INDICE BRUT
 
-au 1er juillet 2012
+au 1er janvier 2015
 
 |
 
 INDICE MAJORÉ
 
-au 1er mai 2012
+au 1er janvier 2015
 
 |
 
 INDICE MAJORÉ
 
-au 1er juillet 2012
+incluant
 
-|
+la prime de feu
 
-INDICE MAJORÉ
-
-incluant la prime de feu
-
-au 1er mai 2012
-
-|
-
-INDICE MAJORÉ
-
-incluant la prime
-
-de feu
-
-au 1er juillet 2012
+au 1er janvier 2015
 
 |
 
@@ -486,19 +496,19 @@ au 1er juillet 2012
 
 |
 
-576
-
-|
-
-486
-
-|
-
 486
 
 |
 
 578
+
+|
+
+576
+
+|
+
+486
 
 |
 
@@ -514,19 +524,19 @@ au 1er juillet 2012
 
 |
 
-548
-
-|
-
-466
-
-|
-
 466
 
 |
 
 555
+
+|
+
+548
+
+|
+
+466
 
 |
 
@@ -542,19 +552,19 @@ au 1er juillet 2012
 
 |
 
-516
-
-|
-
-443
-
-|
-
 443
 
 |
 
 527
+
+|
+
+516
+
+|
+
+443
 
 |
 
@@ -570,14 +580,6 @@ au 1er juillet 2012
 
 |
 
-486
-
-|
-
-420
-
-|
-
 420
 
 |
@@ -586,7 +588,15 @@ au 1er juillet 2012
 
 |
 
-500
+488
+
+|
+
+422
+
+|
+
+502
 
 |
 
@@ -598,19 +608,19 @@ au 1er juillet 2012
 
 |
 
-457
-
-|
-
-400
-
-|
-
 400
 
 |
 
 476
+
+|
+
+457
+
+|
+
+400
 
 |
 
@@ -626,14 +636,6 @@ au 1er juillet 2012
 
 |
 
-436
-
-|
-
-384
-
-|
-
 384
 
 |
@@ -642,7 +644,15 @@ au 1er juillet 2012
 
 |
 
-457
+438
+
+|
+
+386
+
+|
+
+459
 
 |
 
@@ -654,19 +664,19 @@ au 1er juillet 2012
 
 |
 
-418
-
-|
-
-371
-
-|
-
 371
 
 |
 
 441
+
+|
+
+418
+
+|
+
+371
 
 |
 
@@ -682,19 +692,19 @@ au 1er juillet 2012
 
 |
 
-393
-
-|
-
-358
-
-|
-
 358
 
 |
 
 426
+
+|
+
+393
+
+|
+
+358
 
 |
 
@@ -710,19 +720,19 @@ au 1er juillet 2012
 
 |
 
-374
-
-|
-
-345
-
-|
-
 345
 
 |
 
 411
+
+|
+
+374
+
+|
+
+345
 
 |
 
@@ -738,14 +748,6 @@ au 1er juillet 2012
 
 |
 
-359
-
-|
-
-334
-
-|
-
 334
 
 |
@@ -754,7 +756,15 @@ au 1er juillet 2012
 
 |
 
-397
+360
+
+|
+
+335
+
+|
+
+399
 
 |
 
@@ -766,14 +776,6 @@ au 1er juillet 2012
 
 |
 
-347
-
-|
-
-325
-
-|
-
 325
 
 |
@@ -782,7 +784,15 @@ au 1er juillet 2012
 
 |
 
-387
+356
+
+|
+
+332
+
+|
+
+395
 
 |
 
@@ -790,27 +800,27 @@ au 1er juillet 2012
 
 |
 
-333
+342
 
 |
 
-333
+323
 
 |
 
-316
+384
 
 |
 
-316
+352
 
 |
 
-376
+329
 
 |
 
-376
+392
 
 |
 
@@ -818,26 +828,26 @@ au 1er juillet 2012
 
 |
 
-325
+340
 
 |
 
-325
+321
 
 |
 
-310
+382
 
 |
 
-314
+348
 
 |
 
-369
+326
 
 |
 
-374
+388
 
 |
