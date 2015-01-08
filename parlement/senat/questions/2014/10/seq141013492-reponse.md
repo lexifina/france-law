@@ -1,0 +1,9 @@
+# Réponse à la question SEQ141013492
+
+- Question : [SEQ141013492](seq141013492.md) — Position française sur la Turquie
+
+## Réponse
+
+*Affaires étrangères, JO du 2015-01-08, page 56*
+
+La Turquie s'est vue reconnaître le statut de candidat par le Conseil européen d'Helsinki en décembre 1999. En décembre 2004, le Conseil européen a estimé qu'elle remplissait suffisamment les critères politiques de Copenhague pour l'ouverture de négociations. Les négociations ont débuté en octobre 2005. A ce jour, 14 chapitres de négociation ont été ouverts sur les 35 que compte l'acquis communautaire. Un chapitre a été fermé. Lors de sa visite à Ankara en janvier 2014, le président de la République a clairement exposé la position de la France vis-à-vis de la candidature de la Turquie. L'Union européenne a pris des engagements en ouvrant les négociations d'adhésion en 2005, tout en rappelant que l'issue de ce processus restait ouverte. Il est important que ces engagements soient tenus, afin de permettre à la Turquie de continuer à se moderniser et à se rapprocher des normes européennes. La poursuite des négociations d'adhésion permet aussi d'accroître la capacité d'influence de l'Union européenne en soutien à la poursuite des réformes en Turquie, notamment dans le domaine des libertés fondamentales et de la promotion de l'Etat de droit, qui est dans l'intérêt mutuel des deux parties. La France souhaite que les négociations se poursuivent sur la base de la bonne foi et de la confiance mutuelle. Par ailleurs, la France et ses partenaires européens savent le rôle majeur que joue la Turquie dans son environnement régional et l'allié précieux qu'elle est dans la lutte contre le terrorisme. Il est entendu qu'in fine, une fois les négociations achevées, il reviendra aux peuples concernés de trancher.
