@@ -1,70 +1,72 @@
 # Article Annexe I
 
-A. ― Liste des corps de fonctionnaires et des emplois fonctionnels
+A. - Liste des corps de fonctionnaires et des emplois fonctionnels
 
 1° Liste des corps :
 
-― inspecteurs généraux et inspecteurs de l'administration et du développement durable ;
+- inspecteurs généraux et inspecteurs de l'administration et du développement durable ;
 
-― architectes et urbanistes de l'Etat ;
+- architectes et urbanistes de l'Etat ;
 
-― attachés de l'administration de l'équipement ;
+- attachés de l'administration de l'équipement ;
 
-― chargés d'études documentaires ;
+- chargés d'études documentaires ;
 
-― chargés de recherche ;
+- chargés de recherche ;
 
-― conseillers techniques de service social des administrations de l'Etat ;
+- conseillers techniques de service social des administrations de l'Etat ;
 
-― délégués au permis de conduire et à la sécurité routière ;
+- délégués au permis de conduire et à la sécurité routière ;
 
-― directeurs de recherche ;
+- directeurs de recherche ;
 
-― ingénieurs des travaux publics de l'Etat ;
+- ingénieurs des travaux publics de l'Etat ;
 
-― inspecteurs des affaires maritimes ;
+- inspecteurs des affaires maritimes ;
 
-― officiers de port ;
+- officiers de port ;
 
-― professeurs techniques de l'enseignement maritime ;
+- professeurs techniques de l'enseignement maritime ;
 
-― assistants de service social des administrations de l'Etat ;
+- assistants de service social des administrations de l'Etat ;
 
-― infirmiers des services médicaux de l'Etat ;
+- infirmiers des services médicaux de l'Etat ;
 
-― inspecteurs du permis de conduire et de la sécurité routière ;
+- inspecteurs du permis de conduire et de la sécurité routière ;
 
-― officiers de port adjoint ;
+- officiers de port adjoint ;
 
-― techniciens de l'environnement ;
+- techniciens de l'environnement ;
 
-― secrétaires d'administration et de contrôle du développement durable ;
+- secrétaires d'administration et de contrôle du développement durable ;
 
-― techniciens supérieurs du développement durable ;
+- techniciens supérieurs du développement durable ;
 
-― adjoints techniques ;
+- adjoints techniques ;
 
-― agents techniques de l'environnement ;
+- agents techniques de l'environnement ;
 
-― conducteurs des travaux publics de l'Etat ;
+- conducteurs des travaux publics de l'Etat ;
 
-― experts techniques des services techniques ;
+- experts techniques des services techniques ;
 
-― syndics des gens de mer ;
+- syndics des gens de mer ;
+
+- dessinateurs de l'équipement ;
 
 2° Liste des emplois fonctionnels :
 
-― conseillers d'administration de l'écologie, du développement et de l'aménagement durables ;
+- conseillers d'administration de l'écologie, du développement et de l'aménagement durables ;
 
-― conseillers des affaires maritimes ;
+- conseillers des affaires maritimes ;
 
-― ingénieurs en chef des travaux publics de l'Etat du premier groupe et du deuxième groupe ;
+- ingénieurs en chef des travaux publics de l'Etat du premier groupe et du deuxième groupe ;
 
-― agents principaux des services techniques ;
+- agents principaux des services techniques ;
 
-― chefs de service intérieur.
+- chefs de service intérieur.
 
-B. ― Liste des décisions de gestion
+B. - Liste des décisions de gestion
 
 1° Les décisions relatives à l'exercice des fonctions à temps partiel ainsi que le retour dans l'exercice des fonctions à temps plein ;
 
@@ -118,4 +120,10 @@ d) D'activités dans la réserve civile de la police nationale ;
 
 9° Les décisions relatives à l'ouverture, la fermeture et la gestion d'un compte épargne-temps ;
 
-10° Les décisions relatives à la gestion du droit individuel à la formation et aux périodes de professionnalisation.
+10° Les décisions relatives à la gestion du droit individuel à la formation et aux périodes de professionnalisation ;
+
+11° Les décisions relatives aux congé de maladie, congé de longue maladie, congé de longue durée, congé pour accident de service ou maladie professionnelle et aux autorisations à temps partiel thérapeutique, sauf lorsque l'avis du comité médical supérieur est requis.
+
+NOTA :
+
+Aux termes de l'article 13 II de l'arrêté du 29 décembre 2016, sont abrogées les dispositions de l'arrêté du 20 novembre 2013 en tant qu'elles concernent les actes mentionnés par le présent arrêté pour les agents mentionnés à l'annexe 1 affectés dans les services mentionnés à l'annexe 2.

@@ -1,8 +1,6 @@
 # Article Annexe II
 
-Liste des décisions de gestion concernant les fonctionnaires stagiaires
-
-des corps listés à l'annexe I-A
+Liste des décisions de gestion concernant les fonctionnaires stagiaires des corps listés à l'annexe I-A
 
 1° Les décisions relatives à l'exercice des fonctions à temps partiel ainsi que le retour dans l'exercice des fonctions à temps plein ;
 
@@ -28,4 +26,10 @@ h) De paternité ;
 
 4° L'instruction et la prise des sanctions disciplinaires de l'avertissement et du blâme ;
 
-5° Les décisions relatives à la gestion du droit individuel à la formation.
+5° Les décisions relatives à la gestion du droit individuel à la formation ;
+
+6° Les décisions relatives aux congé de maladie, congé de longue maladie, congé de longue durée, congé pour accident de service ou maladie professionnelle et aux autorisations à temps partiel thérapeutique, sauf lorsque l'avis du comité médical supérieur est requis.
+
+NOTA :
+
+Aux termes de l'article 13 II de l'arrêté du 29 décembre 2016, sont abrogées les dispositions de l'arrêté du 20 novembre 2013 en tant qu'elles concernent les actes mentionnés par le présent arrêté pour les agents mentionnés à l'annexe 1 affectés dans les services mentionnés à l'annexe 2.
