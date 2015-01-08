@@ -28,7 +28,7 @@ Dans l'hypothèse où la totalité des sommes collectées n'aura pas été dépe
 
 -les frais de consultation d'experts et réalisation d'études pour aménager les textes actuellement en vigueur...
 
-Pour les syndicats de salariés, la part du solde de ce fonds sera répartie entre les organisations syndicales représentatives dans le champ d'application de la convention, au prorata du nombre de voix obtenues par chaque organisation syndicale, lors des élections à l'IRPS caisse de retraite ARRCO du groupe Audiens sections''Spectacle vivant subventionné''et''Artistes''.
+Pour les syndicats de salariés, la part du solde de ce fonds sera répartie entre les organisations syndicales représentatives dans le champ d'application de la convention au prorata de la représentativité de chaque organisation syndicale, telle que définie par la loi du 20 août 2008 et déterminée par les décrets du ministère du travail.
 
 Pour les organisations syndicales d'employeurs, la part du solde de ce fonds sera répartie entre les organisations représentatives dans le champ d'application de la présente convention, chaque syndicat d'employeur recevant une somme proportionnelle au total des sommes collectées auprès de ses adhérents. Le calcul de la proportion attribuée à chaque syndicat d'employeurs sera effectué chaque année, lors de la réunion du comité de gestion du FCAP du mois de juillet, sur la base de la liste des adhérents de chaque syndicat fournie entre le 1er et le 15 juin de la même année.
 

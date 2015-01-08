@@ -378,13 +378,13 @@ Les parties rappellent que les entreprises adhérentes sont tenues de remettre u
 
 XII. 2. 3. 4. Commission paritaire
 
-Il est créé une commission paritaire de suivi du présent accord composée des signataires dudit accord, à savoir un représentant de chacune des organisations syndicales de salariés signataires et un nombre égal de représentants de (des) organisation (s) patronale (s) signataire (s).
+Une commission paritaire de suivi du présent accord est composée de 8 représentants des organisations d'employeurs et de 8 représentants des fédérations syndicales de salariés représentatives dans la branche.
 
-Elle se réunit autant que de besoin, et au moins une fois par an.A cette occasion, elle étudie l'évolution des régimes. En fonction des constats et au regard notamment du rapport transmis par l'organisme désigné à l'article XII. 2. 3. 2, la commission de suivi peut proposer l'aménagement des présentes dispositions.
+1. Chaque fédération syndicale de salariés, reconnue représentative, dispose d'un poste de titulaire et d'un poste de suppléant.
 
-Cette commission conclut pour le compte de la profession le contrat collectif auprès de l'organisme désigné à l'article 21, ainsi que tous les avenants susceptibles d'être proposés par cet organisme assureur.
+Les sièges restants sont répartis au prorata de la représentativité effective, précisée par un décret du ministère du travail.
 
-Elle sera par ailleurs destinataire des éventuelles difficultés rencontrées par de l'organisme désigné à l'article 21 dans la collecte des cotisations.
+2. Chaque organisation syndicale représentative représentant les employeurs dispose d'un poste de titulaire et d'un poste de suppléant.
 
 XII. 2. 3. 5. Durée, révision
 
