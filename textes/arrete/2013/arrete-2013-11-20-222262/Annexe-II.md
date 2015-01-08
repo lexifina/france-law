@@ -1,6 +1,10 @@
 # Article Annexe II
 
-LISTE DES DÉCISIONS DE RECRUTEMENT ET DE GESTION DÉLÉGUÉES INTÉRESSANT LES FONCTIONNAIRES STAGIAIRES DES CORPS DES ADJOINTS ADMINISTRATIFS DES ADMINISTRATIONS DE L'ÉTAT ET DES DESSINATEURS DE L'ÉQUIPEMENT
+LISTE DES DÉCISIONS DE RECRUTEMENT ET DE GESTION DÉLÉGUÉES INTÉRESSANT
+
+LES FONCTIONNAIRES STAGIAIRES DES CORPS DES ADJOINTS ADMINISTRATIFS
+
+DES ADMINISTRATIONS DE L'ÉTAT
 
 A. - 1° Les décisions relatives à l'exercice des fonctions à temps partiel ainsi que le retour dans l'exercice des fonctions à temps plein ;
 
@@ -59,3 +63,7 @@ e) Mise en congé parental ;
 8° La décision de détachement par nécessité de service ;
 
 9° La décision de réintégration après congé sans traitement, congé parental et détachement.
+
+NOTA :
+
+Aux termes de l'article 13 II de l'arrêté du 29 décembre 2016, sont abrogées les dispositions de l'arrêté du 20 novembre 2013 en tant qu'elles concernent les actes mentionnés par le présent arrêté pour les agents mentionnés à l'annexe 1 affectés dans les services mentionnés à l'annexe 2.

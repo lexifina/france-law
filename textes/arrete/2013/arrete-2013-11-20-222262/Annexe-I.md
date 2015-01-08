@@ -1,6 +1,6 @@
 # Article Annexe I
 
-LISTE DES DÉCISIONS DE RECRUTEMENT ET DE GESTION DÉLÉGUÉES INTÉRESSANT LES PERSONNELS TITULAIRES DES CORPS DES ADJOINTS ADMINISTRATIFS DES ADMINISTRATIONS DE L'ÉTAT ET DES DESSINATEURS DE L'ÉQUIPEMENT
+LISTE DES DÉCISIONS DE RECRUTEMENT ET DE GESTION DÉLÉGUÉES INTÉRESSANT LES PERSONNELS TITULAIRES DES CORPS DES ADJOINTS ADMINISTRATIFS DES ADMINISTRATIONS DE L'ÉTAT
 
 A. ― 1° Les décisions relatives à l'exercice des fonctions à temps partiel ainsi que le retour dans l'exercice des fonctions à temps plein ;
 
@@ -125,3 +125,7 @@ d) La radiation des cadres pour abandon de poste ou perte de la qualité de fonc
 11° La décision de reclassement pour inaptitude à l'exercice des fonctions ;
 
 12° La décision de maintien en activité au-delà de la limite d'âge.
+
+NOTA :
+
+Aux termes de l'article 13 II de l'arrêté du 29 décembre 2016, sont abrogées les dispositions de l'arrêté du 20 novembre 2013 en tant qu'elles concernent les actes mentionnés par le présent arrêté pour les agents mentionnés à l'annexe 1 affectés dans les services mentionnés à l'annexe 2.
