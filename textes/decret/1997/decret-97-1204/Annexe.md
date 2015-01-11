@@ -880,6 +880,20 @@ Articles R. 258-6, R. 258-8 et R. 258-9
 
 |
 
+VI.-Décret n° 2006-649 du 2 juin 2006 modifié relatif aux travaux miniers, aux travaux de stockage souterrain et à la police des mines et des stockages souterrains :
+
+1
+
+|
+
+Agrément des experts qui constatent la compatibilité des projets de géothermie de minime importance au regard du contexte géologique de la zone d'implantation et de l'absence de dangers ou inconvénients graves pour la protection des intérêts mentionnés à l'article L. 161-1 du code minier
+
+|
+
+Article 22-8
+
+|
+
 VI.-Code de l'énergie :
 
 1
