@@ -1,0 +1,9 @@
+# Réponse à la question n° 21333
+
+- Question : [21333](21333.md) — Question n° 21333 — sécurité des résidents
+
+## Réponse
+
+*JO du 2015-01-13*
+
+Le dernier plan Alzheimer 2008-2012 a développé des structures spécifiquement dédiées pour la prise en charge des personnes âgées présentant des troubles du comportement modérés ou sévères dans les établissements d'hébergement pour personnes âgées dépendantes et dans les établissements hospitaliers. Ainsi, on compte aujourd'hui 1 200 pôles d'activité et de soins adaptés, 200 unités d'hébergement renforcé, 90 unités cognitivo- comportementales dans les services de soins de suite et de réadaptation. Le plan métiers du plan Alzheimer a permis de valoriser les personnels au contact des personnes âgées dans les unités spécifiques, par la mise en place de la fonction d'assistant de soins en gérontologie pour les aides-soignants et les auxiliaires médico-psychologiques qui bénéficient d'une prime mensuelle de 90 €. Au cours de ces dernières années, de nombreuses actions de formation nationales axées sur la prise en charge des troubles du comportement ont été proposées aux personnels des hôpitaux et des établissements d'hébergement pour personnes âgées dépendantes. Ces actions sont reprises et amplifiées dans le cadre du plan national maladies neuro-dégénératives présenté par le ministère des affaires sociales, de la santé et des droits des femmes, le secrétariat d'Etat chargé de la famille, des personnes âgées et de l'autonomie et le secrétariat d'Etat chargé de l'enseignement supérieur et de la recherche, le 18 novembre 2014. Enfin, le nouveau plan stratégique 2015-2019 de l'assistance publique - hôpitaux de Paris prévoit une série de mesures pour adapter la prise en charge des personnes âgées et en particulier l'extension de l'hôpital Sainte-Périne.
