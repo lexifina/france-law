@@ -1,0 +1,9 @@
+# Réponse à la question n° 51033
+
+- Question : [51033](51033.md) — Question n° 51033 — panneaux photovoltaïques; électricité produite; revente; perspectives
+
+## Réponse
+
+*JO du 2015-01-13*
+
+Les centres communaux d'action sociale (CCAS), de par leur statut d'établissement public soumis au principe de spécialité, ne sont pas autorisés à signer un contrat d'achat avec un fournisseur d'énergie pour la revente de l'électricité qu'ils pourraient produire à partir de panneaux photovoltaïques installés sur leurs bâtiments. En effet, les CCAS poursuivent une mission générale de prévention et de développement social sur le territoire des communes auxquelles ils sont rattachés, ce qui ne leur permet pas d'exercer ce type d'activité de production et de revente. De plus, l'article R. 123-25 du code de l'action sociale et des familles, qui énumère les différentes sources de financement d'un CCAS, ne permet pas à ce dernier de percevoir le bénéfice d'opérations commerciales, dans la mesure où les recettes d'un CCAS sont principalement constituées de subventions et des produits des prestations dont un CCAS a la charge. Toutefois, légalement, rien ne s'oppose à ce que cette opération d'installation de panneaux photovoltaïques et de revente de l'électricité produite soit conduite par la commune de rattachement du CCAS, qui dispose explicitement de cette compétence au regard de l'article L. 2224-32 du code général des collectivités territoriales. De plus, l'état du droit ne semble pas faire obstacle à ce qu'un CCAS puisse installer des panneaux solaires, dont l'énergie produite serait réservée strictement à sa consommation propre, sans achat de l'électricité produite en surplus, dans la mesure où il peut être considéré que cette activité relève de la compétence de gestion d'un établissement et service médico-social d'un CCAS. Il peut ainsi contribuer à la réduction de sa facture énergétique.
