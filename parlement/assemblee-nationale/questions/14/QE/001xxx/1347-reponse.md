@@ -1,0 +1,9 @@
+# Réponse à la question n° 1347
+
+- Question : [1347](1347.md) — Question n° 1347 — prolifération; lutte et prévention
+
+## Réponse
+
+*JO du 2015-01-13*
+
+Les mesures dérogatoires à l'interdiction de destruction du loup doivent se conformer à un ensemble de conditions et limites, que des arrêtés ministériels ont pour objet de définir et de fixer. Conformément notamment à l'article 16 de la directive CEE 92/43 dite « habitats faune flore », elles ne peuvent ainsi intervenir qu'à la condition qu'il n'existe pas d'autre solution satisfaisante et qu'elles ne nuisent pas au maintien de l'espèce dans un état de conservation favorable. Pour la période 2013-2014, le nombre maximum de loups pouvant être prélevés avait été fixé à 24 pour l'ensemble du territoire national. Ce nombre avait notamment été déterminé sur la base d'une approche nouvelle, adoptée à l'occasion du plan d'action national loup 2013-2017 (et décrite en détail dans sa partie II. D.2). Cette méthodologie scientifique s'appuie notamment sur la forte croissance de population de loups dans notre pays, où l'espèce n'est plus menacée. Elle permet : - de modéliser à court terme (un à deux ans) l'évolution la plus probable des effectifs de loups, compte tenu de la croissance observée ainsi que de sa variation au cours des années passées ; - de fixer un plafond qui soit compatible avec le maintien de l'espèce en bon état de conservation. L'arrêté du 30 juin 2014 qui fixe ce nombre plafond pour la période 2014-2015 s'appuie sur la même méthodologie, pour prendre en compte cette préoccupation relative à l'état de conservation de l'espèce. D'une manière plus générale, l'objectif du plan loup est de prévoir et réduire le plus possible les dommages à l'élevage, sans porter atteinte à l'état de conservation de l'espèce. C'est dans ce contexte que dans certains secteurs, où les dégâts sont importants et récurrents, des opérations de prélèvement peuvent s'avérer nécessaires.
