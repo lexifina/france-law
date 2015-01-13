@@ -1,0 +1,9 @@
+# Réponse à la question n° 59363
+
+- Question : [59363](59363.md) — Question n° 59363 — Cour des comptes; rapport; conclusions
+
+## Réponse
+
+*JO du 2015-01-13*
+
+La loi du 30 mai 2013 relative à la biologie médicale a induit une réforme importante de la législation et de l'organisation des laboratoires de biologie médicale tant publics que privés. Au sein de chaque région, l'agence régionale de santé (ARS) a toute autorité pour définir le schéma d'organisation des soins en biologie médicale en concertation avec les biologistes médicaux installés sur ses territoires de santé et veiller au respect des exigences législatives et réglementaires relatives à la biologie médicale. L'administration centrale a mis en place un comité de suivi afin de suivre l'avancée de l'accréditation comprenant toutes les institutions concernées et quatre représentants d'ARS. La nomination, au sein de chaque ARS d'un référent biologie, plus spécifiquement en charge des dossiers des laboratoires de biologie médicale et la constitution de ces référents en réseau permet une communication plus rapide et aisée entre l'administration centrale et les ARS. Parallèlement, le repérage de référents nationaux pouvant être contactés directement par les ARS facilite les échanges et réponses aux diverses questions. Par ailleurs, le développement d'une application informatique dénommée BioMed dans l'ensemble des ARS contribue à donner une facilité de gestion administrative des dossiers des laboratoires et à harmoniser les pratiques dans les régions. L'application permettra dès janvier 2015 de mettre en place une dématérialisation de la déclaration d'activité et de contrôler plus efficacement la mise en place potentielle de monopoles. Grâce à une interface mise au point avec le comité français d'accréditation (COFRAC), l'application permettra un suivi en temps réel des exigences liées à l'accréditation des laboratoires de biologie médicale.
