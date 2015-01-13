@@ -1,0 +1,9 @@
+# Réponse à la question n° 9553
+
+- Question : [9553](9553.md) — Question n° 9553 — durée
+
+## Réponse
+
+*JO du 2015-01-13*
+
+Peuvent être accueillis en crèche tous les enfants de 0 à 3 ans, en règle au regard des vaccinations obligatoires (sauf contre-indication attestée par la présentation d'un certificat médical). Selon les dispositions prévues par le code de la santé publique, il est obligatoire d'effectuer une vaccination contre la diphtérie, le tétanos et la poliomyélite avant les 18 mois de l'enfant (articles L. 3111-2, L. 3111-3, R. 3111-2 et R. 3111-3). Pour ce faire, une première injection doit être réalisée dès les 2 mois de l'enfant. La fixation de critères d'accueil de même que le processus d'attribution de places en établissement d'accueil du jeune enfant relèvent de la compétence des gestionnaires d'établissements. Ainsi, selon la nature de la crèche, les décisions d'admission peuvent être prononcées par une commission d'attribution à laquelle des élus participent, ou être prises par les directeurs des structures d'accueil ou par la coordinatrice du service petite enfance. Le plan pluriannuel de lutte contre la pauvreté a prévu que l'État favoriserait la généralisation de commissions d'attribution des places en crèches ayant recours à des critères sociaux transparents. Cet engagement a été inscrit dans le cadre de la convention d'objectifs et de gestion (COG) conclue entre l'Etat et la caisse nationale d'allocations familiales (CNAF) pour la période 2013-2017. Les modalités de cette mesure sont actuellement en cours d'expertise. En outre, afin de développer l'offre en matière d'accueil de la petite enfance, le Gouvernement, en lien avec la branche famille, s'est fixé comme objectif d'offrir aux parents 275 000 nouvelles solutions d'accueil d'ici 2017, soit 100 000 solutions d'accueil collectif, 100 000 solutions d'accueil individuel, et 75 000 places pour la scolarisation des enfants de 2 ans.
