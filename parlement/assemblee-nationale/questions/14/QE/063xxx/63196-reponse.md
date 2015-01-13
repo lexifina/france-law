@@ -1,0 +1,9 @@
+# Réponse à la question n° 63196
+
+- Question : [63196](63196.md) — Question n° 63196 — services externalisés; rapport; recommandations
+
+## Réponse
+
+*JO du 2015-01-13*
+
+Le ministère de la défense est engagé dans un processus de modernisation visant à maintenir l'effort de défense tout en recherchant une meilleure efficacité à moindre coût et une meilleure répartition de ses moyens. C'est dans ce cadre que les armées, directions et services s'attachent à analyser d'éventuelles opportunités d'externalisations nouvelles ou d'élargissement de domaines déjà externalisés, tant dans la réorganisation générale de l'administration militaire que dans les fonctions de soutien aux forces armées engagées en opérations extérieures (OPEX). S'agissant des opérations d'externalisation dans les fonctions de soutien en OPEX, la préservation des compétences des forces à assurer une intervention en toutes circonstances est impérative. Une externalisation, même partielle, est systématiquement soumise à une analyse préalable, à la fois, des risques opérationnels et de l'environnement économique de chaque théâtre d'opérations. Dans ce contexte, la décision d'ouvrir une fonction de soutien à l'externalisation dépend de plusieurs critères, dont les principaux sont, d'une part, la capacité du prestataire à répondre précisément au besoin exprimé par les armées, d'autre part, sa faculté à ne pas affecter la capacité des forces à réaliser leurs missions opérationnelles, enfin, l'importance du gain économique que pourrait générer l'opération. L'extension du recours à l'externalisation du soutien en OPEX présente donc un enjeu important, qui fait actuellement l'objet d'études approfondies, qui restent à achever. Ainsi, plusieurs sous-fonctions de la logistique opérationnelle font l'objet d'une étude attentive et pourraient constituer des opportunités d'externalisation partielles mais cela implique que l'ensemble des conditions ci-dessus soient respectées.
