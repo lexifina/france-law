@@ -1,0 +1,9 @@
+# Réponse à la question n° 51977
+
+- Question : [51977](51977.md) — Question n° 51977 — contentieux; intervention volontaire en cause d'appel; ministère
+
+## Réponse
+
+*JO du 2015-01-13*
+
+Aux termes de l'article R. 431-10 du code de justice administrative, le préfet a qualité pour représenter l'État, en première instance, devant les tribunaux administratifs, dans les litiges relatifs aux demandes d'annulation de permis de construire délivrés au nom de l'État. Les contestations élevées devant les juridictions administratives par les tiers contre des permis de construire délivrés par les collectivités territoriales ne donnent, en général, pas lieu à la production d'observations et ne font pas l'objet d'un recensement de la part de l'État qui n'y est pas partie. Copie des décisions est toutefois adressée, parfois, par les juridictions aux services de l'État compétents en la matière, pour information. Il advient, par ailleurs, qu'une partie à l'instance saisisse ces mêmes services afin d'attirer leur attention sur l'une de ces décisions. Au cas d'espèce, les services de la ville de Lyon ont ainsi porté à la connaissance des services de l'État un jugement relatif à un permis de construire rendu par le tribunal administratif de Lyon et donnant une interprétation pouvant être regardée comme erronée des dispositions du plan de prévention des risques d'inondation du Grand Lyon, document approuvé par le représentant de l'État dans le département. La ministre de l'écologie, du développement durable et de l'énergie, seule compétente en application de l'article R. 811-10 du code de justice administrative pour produire devant une cour administrative d'appel, est donc intervenu de manière volontaire, dans la nouvelle instance introduite en appel, afin de faire prévaloir l'interprétation de ce document paraissant devoir être légalement retenue.
