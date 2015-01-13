@@ -1,0 +1,9 @@
+# Réponse à la question n° 66145
+
+- Question : [66145](66145.md) — Question n° 66145 — lutte et prévention; politiques communautaires
+
+## Réponse
+
+*JO du 2015-01-13*
+
+La France est convaincue que seule une réponse politique forte et coordonnée dans le cadre européen peut permettre de relever les défis de l'immigration irrégulière et des drames humains qu'elle produit. A la suite des travaux de la task force Méditerranée, mise en place en octobre 2013 après le drame de Lampedusa, le Conseil de l'Union européenne a adopté en octobre 2014 une approche stratégique de l'Union européenne pour mieux gérer les flux migratoires. Cette stratégie repose sur trois séries d'actions principales : la coopération avec les pays tiers (pays de transit et pays sources), le renforcement de la gestion des frontières extérieures et de FRONTEX, et les actions nationales visant à mettre en oeuvre le régime d'asile européen commun. Sur cette base, depuis le 1er novembre 2014, l'opération « Triton » coordonnée par l'agence FRONTEX a débuté en Méditerranée et vise à renforcer la surveillance des frontières maritimes extérieures de l'Union européenne. La France y contribue activement. Par ailleurs, un nouveau processus de dialogue migratoire avec les pays de la corne de l'Afrique lancé fin novembre 2014 devrait se concentrer sur la lutte contre les trafics de migrants et la traite des êtres humains. La France conduira très prochainement le premier projet de mise en oeuvre de ce processus politique. Seule une approche globale, traitant l'ensemble des aspects de la question, permettra d'apporter une réponse pleinement efficace. Cela veut dire concrètement non seulement lutter contre l'immigration irrégulière et contre les trafics des migrants mais aussi mettre en place des politiques de développement efficaces avec et pour les pays d'origine. C'est, en effet, la seule façon de traiter les causes des phénomènes migratoires à leurs racines.
