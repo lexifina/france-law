@@ -1,0 +1,9 @@
+# Réponse à la question n° 58145
+
+- Question : [58145](58145.md) — Question n° 58145 — formation; diplômes
+
+## Réponse
+
+*JO du 2015-01-13*
+
+Le Gouvernement accorde une attention particulière à la réforme de la formation des principaux métiers paramédicaux et de la santé. Depuis 2012, le ministère chargé de l'enseignement supérieur et de la recherche soutient les évolutions du contenu des formations pour l'exercice de ces métiers. Après celle des ergothérapeutes, des orthoptistes, et des orthophonistes, la réforme de la formation des infirmiers anesthésistes se concrétise. L'inscription de la formation conduisant au diplôme d'Etat d'infirmier anesthésiste (DEIA) dans le schéma de l'espace européen de l'enseignement supérieur (licence-master-doctorat) a abouti à l'élaboration d'un référentiel de formation construit sur quatre semestres pour lequel l'agence d'évaluation de la recherche et de l'enseignement supérieur (AERES) a jugé fondée l'attribution d'un grade de master. La validation par un texte réglementaire de l'attribution du grade de master aux étudiants entrés en formation à compter de la rentrée de septembre 2012 restait conditionnée à la conclusion, par chaque établissement, d'une convention avec les universités ayant une composante santé. En juin 2014, seulement deux tiers des établissements avaient signé une convention avec une université, expliquant ainsi l'absence de publication de texte réglementaire. Le projet de décret reconnaissant le grade de master à ce diplôme a été présenté au conseil national de l'enseignement supérieur et de la recherche (CNESER) le 15 septembre 2014 et a reçu un avis favorable de ses membres. Le décret n° 2014-1511 du 15 décembre 2014 relatif aux diplômes de santé conférant le grade de master a été publié au JORF du 17 décembre 2014. Le grade de master sera conféré à tous les diplômés sortant de formation à compter de septembre 2014.
