@@ -1,0 +1,9 @@
+# Réponse à la question n° 63201
+
+- Question : [63201](63201.md) — Question n° 63201 — services externalisés; rapport; recommandations
+
+## Réponse
+
+*JO du 2015-01-13*
+
+Inauguré le 1er septembre 2010, le commandement européen de transport aérien (European air transport command - EATC), basé à Eindhoven, représente le principal dispositif de partage de capacités militaires mis en place en Europe. Ce commandement constitue l'état-major principal des six pays associés (Allemagne, Belgique, France, Luxembourg, Pays-Bas et Espagne) dans le domaine du transport aérien, des évacuations sanitaires aériennes et du ravitaillement en vol. Il dispose d'une flotte d'environ 150 aéronefs. La logique de l'EATC (Pooling and sharing) est unique en Europe et permet d'optimiser l'exploitation des flottes de transport limitées des pays membres par une gestion centralisée des missions à réaliser. Cette approche permet des gains significatifs dans l'emploi des moyens aériens en augmentant le taux de « remplissage » des aéronefs et en réduisant le taux d'étapes aériennes soutes vides. L'EATC répond aux besoins en matière de transport de chacun des États partenaires, notamment dans le cadre des opérations militaires conduites sous l'égide de l'Union européenne (UE) ou de l'OTAN. Comme l'a indiqué le chef d'état-major des armées devant la commission de la défense nationale et des forces armées de l'Assemblée nationale le 7 octobre dernier, les armées françaises entendent explorer les possibilités de coopérations internationales dans une double perspective de développement de l'interopérabilité des forces et de gains financiers. A cet égard, il est précisé que l'état-major de la force expéditionnaire commune interarmées franco-britannique devrait être opérationnel dès 2016. Enfin, il est rappelé que l'Agence européenne de défense demeure le cadre privilégié du développement des programmes militaires menés en coopération par des pays membres de l'UE.
