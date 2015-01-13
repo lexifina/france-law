@@ -1,0 +1,9 @@
+# Réponse à la question n° 58760
+
+- Question : [58760](58760.md) — Question n° 58760 — réglementation
+
+## Réponse
+
+*JO du 2015-01-13*
+
+L'article 21-27-1 du code civil, dans sa rédaction résultant de l'article 4 de la loi n° 2011-672 du 16 juin 2011 relative à l'immigration, à l'intégration et à la nationalité, dispose que « lors de son acquisition de la nationalité française par décision de l'autorité publique ou par déclaration, l'intéressé indique à l'autorité compétente la ou les nationalités qu'il possède déjà, la ou les nationalités qu'il conserve en plus de la nationalité française ainsi que la ou les nationalités auxquelles il entend renoncer ». Avant sa promulgation, la loi du 16 juin 2011 a été soumise au Conseil constitutionnel qui a été amené à se prononcer sur la conformité à la Constitution de certaines de ses dispositions, dont celles de son article 4 sur lesquelles l'attention du ministre de l'intérieur est ici appelée. Dans sa décision n° 2011-631 DC du 9 juin 2011, publiée au Journal officiel du 17 juin 2011, le Conseil constitutionnel a déclaré conformes à la Constitution les dispositions de l'article 4, en estimant que « les dispositions contestées se bornent à prévoir que les personnes qui acquièrent la nationalité française par déclaration ou par décision de l'autorité publique indiquent aux autorités françaises si elles conservent ou non une autre nationalité ; qu'elles n'instituent pas de différence de traitement entre les personnes ayant la nationalité française ; qu'elles ne méconnaissent aucune autre exigence constitutionnelle ». Le gouvernement est en outre attentif à ce que l'existence de ces dispositions n'aient d'intérêt que statistiques et fera en sorte qu'elles n'entraînent aucun fichage des nationaux en fonction de leur souhait de conserver ou non une autre nationalité.
