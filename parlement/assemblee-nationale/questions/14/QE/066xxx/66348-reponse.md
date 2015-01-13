@@ -1,0 +1,9 @@
+# Réponse à la question n° 66348
+
+- Question : [66348](66348.md) — Question n° 66348 — mise en demeure; délais
+
+## Réponse
+
+*JO du 2015-01-13*
+
+La vérification de la qualité à agir fait partie de l'examen de la recevabilité d'une requête. Lorsque le juge administratif invite ou met en demeure une commune ou un établissement public de coopération intercommunale à produire la délibération autorisant l'introduction d'une action en justice, un délai de quinze jours pour y répondre ne devrait pas soulever de difficultés. En effet, soit le maire ou le président de l'établissement public de coopération intercommunale dispose d'une délégation pour intenter au nom de la commune ou de l'établissement les actions en justice dans les cas définis par l'assemblée délibérante, en vertu du 16° de l'article L. 2122-22 et, par renvoi, de l'article L. 5211-2 du code général des collectivités territoriales. La délibération relative à cette délégation préexiste donc et peut alors être transmise à la juridiction administrative pour attester de la qualité à agir, sans convocation de l'organe délibérant. Soit le conseil municipal ou communautaire n'a pas accordé une délégation en la matière au maire ou au président. Dans cette hypothèse, l'engagement d'une action doit avoir été inscrit préalablement à l'ordre du jour d'une séance de l'organe délibérant pour permettre l'adoption d'une délibération spécifique autorisant le dépôt d'un recours et habilitant le maire ou le président de l'établissement public de coopération intercommunale à agir dans cette instance (CE, 25 novembre 2002, n° 217704). Néanmoins, dans le cadre de référés, procédures caractérisées par une certaine urgence, le juge administratif admet que l'exécutif local puisse agir sans autorisation préalable de l'organe délibérant (CE, 28 novembre 1980, n° 17732 ; CE, 18 janvier 2001, n° 229247).
