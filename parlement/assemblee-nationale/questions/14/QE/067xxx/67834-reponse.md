@@ -1,0 +1,9 @@
+# Réponse à la question n° 67834
+
+- Question : [67834](67834.md) — Question n° 67834 — abords; végétaux; fauchage
+
+## Réponse
+
+*JO du 2015-01-13*
+
+Le ministère de l'écologie, du développement durable et de l'énergie (MEDDE), n'est pas directement gestionnaire de routes dans le département du Loiret, qui n'est pas traversé par des routes nationales. La gestion des réseaux routiers incombe dans ce département au conseil général du Loiret pour ce qui est du réseau départemental et à des sociétés concessionnaires pour ce qui est du réseau autoroutier (autoroutes A71, A10, A77, A19, A6). Quoi qu'il en soit, de plus en plus de services routiers pratiquent aujourd'hui le fauchage raisonné des bords de routes. Ce mode de gestion des dépendances vertes qui consiste à limiter au strict nécessaire, notamment du point de vue de la sécurité, les opérations de fauchage et à les mener à des moments bien définis de l'année, permet de concilier les impératifs de sécurité des usagers et les enjeux environnementaux tels que la préservation de la biodiversité. Les dépendances vertes des réseaux routiers accueillent en effet une biodiversité riche en servant notamment de refuge à de nombreuses espèces animales ou végétales, parfois de premier plan. Conformément aux dispositions de l'arrêté du ministre de l'agriculture et de la pêche du 31 juillet 2000 établissant la liste des organismes nuisibles aux végétaux, produits végétaux et autres objets soumis à des mesures de lutte obligatoire, et aux arrêtés préfectoraux fixant le cas échéant les conditions de destruction des chardons des champs, l'ensemble des propriétaires et exploitants publics ou privés sont soumis à des obligations de destruction des chardons des champs sur les parcelles qu'ils occupent ou exploitent. L'État veille à ce que les services agissant pour son compte, comme les autres exploitants, interviennent dans ce cadre.
