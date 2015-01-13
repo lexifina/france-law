@@ -1,0 +1,9 @@
+# Réponse à la question n° 34766
+
+- Question : [34766](34766.md) — Question n° 34766 — instances consultatives; missions; moyens
+
+## Réponse
+
+*JO du 2015-01-13*
+
+A la suite des préconisations faites par la cour des comptes et l'inspection générale des affaires sociales, en 2009 et 2010, il a été conduit une vaste réflexion sur la réforme du pilotage des dispositifs de soutien à la parentalité (réseau d'écoute, d'appui et d'accompagnement des parents (REAAP), contrats locaux d'accompagnement scolaire (CLAS), point info famille, médiation familiale, parrainage) soutenus par l'Etat et la caisse nationale des allocations familiales (CNAF). Cette réforme du pilotage des dispositifs de parentalité s'est traduite par la création du comité national de soutien à la parentalité (décret n° 2010-1308 du 2 novembre 2010) pour un mandat de trois ans. La dernière réunion du conseil national de soutien à la parentalité (CNSP) s'est tenue en novembre 2013. Il n'est pas dans l'intention du gouvernement de donner suite à ce mandat. Les thématiques traitées par le CNSP devraient être intégrées aux travaux du haut conseil à la famille et aux âges de la vie dont la création est prévue dans le projet de loi relatif à l'adaptation de la société au vieillissement, adopté en première lecture à l'Assemblée nationale le 17 septembre 2014. Le comité national de soutien à la parentalité avait pour mission de « contribuer à la conception, à la mise en oeuvre et au suivi de la politique et des mesures de soutien à la parentalité définies par l'Etat et les organismes de la branche famille de la sécurité sociale ». Il était composé de 34 membres, dont 15 institutions et 19 associations nationales impliquées dans la politique de la famille. Le comité n'avait pas de budget autonome et n'avait pas de personnel en propre. Son secrétariat était assuré par la direction générale de la cohésion sociale (DGCS).
