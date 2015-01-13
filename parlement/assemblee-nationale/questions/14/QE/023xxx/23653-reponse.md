@@ -1,0 +1,9 @@
+# Réponse à la question n° 23653
+
+- Question : [23653](23653.md) — Question n° 23653 — conditions d'attribution
+
+## Réponse
+
+*JO du 2015-01-13*
+
+Le complément de libre choix du mode de garde est une prestation familiale versée pour la garde d'un enfant de moins de six ans par une assistante maternelle agréée, une garde à domicile ou une micro-crèche. Le montant de la prestation varie en fonction du mode de garde, des revenus des parents et de l'âge de l'enfant. Il s'élève à 458 euros par mois pour les parents n'ayant qu'un enfant à charge et dont les revenus correspondent à la première tranche du barème. Ce montant initial est réduit de moitié au troisième anniversaire de l'enfant. Cependant un ensemble de dispositifs vise à apporter des réponses aux difficultés rencontrées par les familles en matière de garde d'enfants et à faciliter la conciliation de la vie familiale et de la vie professionnelle des parents. D'une part, le Gouvernement a fait de l'accroissement du niveau de préscolarisation des enfants de deux ans l'une de ses priorités. Au regard des objectifs de recrutements, 75 000 enfants supplémentaires pourront ainsi être accueillis en école maternelle dans les prochaines années. Par ailleurs, la convention d'objectifs et de gestion de la caisse nationale des allocations familiales (CNAF) conclue avec l'Etat pour la période 2013-2017 fait du développement de l'offre d'accueil collective comme individuelle des jeunes enfants un axe majeur de l'offre de service aux familles. Dans le cadre de celle-ci, des mesures tendant à résorber les disparités territoriales de l'offre d'accueil des jeunes enfants seront engagées et bénéficieront de financements complémentaires. De plus, des actions particulières seront mises en oeuvre pour améliorer l'accueil en structures collectives des enfants de familles pauvres et modestes.
