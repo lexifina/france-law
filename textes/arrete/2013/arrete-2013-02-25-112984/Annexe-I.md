@@ -8,29 +8,23 @@ RECOMMANDATIONS
 
 |
 
-ACTIVITÉS
-
-réglementées
+ACTIVITÉS RÉGLEMENTÉES
 
 |
 
 DATE LIMITE
 
-de dépôts
-
-des demandes
+DE DÉPÔTS DES DEMANDES
 
 |
 
 CONDITIONS
 
-d'éligibilité
+D'ÉLIGIBILITÉ
 
 |
 
-MESURES
-
-techniques
+MESURES TECHNIQUES
 
 |
 
@@ -40,7 +34,7 @@ Point 1 de la recommandation n° 11-03 de la Commission internationale pour la c
 
 La prise active (*) d'espadon (SWO) en mer Méditerranée est soumise à la détention d'une autorisation de pêche ORGP "Espadon prise active en Méditerranée".
 
-Les navires non titulaires d'une autorisation de pêche ORGP "Espadon prise active en Méditerranée" ne sont pas autorisés à capturer, à retenir à bord, à transborder, à transporter, à transformer ou à débarquer une quantité d'espadon supérieure à 5 % de la prise totale à bord en poids et/ou en nombre de spécimens.
+Les navires non titulaires d'une autorisation de pêche ORGP "Espadon prise active en Méditerranée" ne sont pas autorisés à capturer, à retenir à bord, à transborder, à transporter, à transformer ou à débarquer une quantité d'espadon supérieure à 5 % de la prise totale à bord en poids et/ ou en nombre de spécimens.
 
 |
 
@@ -64,39 +58,51 @@ Sont éligibles tous les navires actifs de la façade méditerranéenne.
 
 |
 
-Points 1 et suivants de la recommandation n° CGPM/2009/5 de la Commission générale des pêches pour la Méditerranée |
+Points 1 et suivants de la recommandation n° CGPM/2009/5 de la Commission générale des pêches pour la Méditerranée
+
+|
 
 La pêche professionnelle à bord de navires en zone CGPM est soumise à l'inscription sur "le registre régional des navires de pêche de la CGPM".
 
 |
 
-10 jours ouvrés avant la date d'entrée dans la zone CGPM. |
+10 jours ouvrés avant la date d'entrée dans la zone CGPM.
 
-Sont éligibles les navires battant pavillon français ayant accès aux espèces visées par la recommandation dans la zone CGPM. |
+|
 
-Le registre comporte pour chacun des navires au moins les informations obligatoires mentionnées à l'annexe 1 de la recommandation n° CGPM/2009/5 de la CGPM. |
+Sont éligibles les navires battant pavillon français ayant accès aux espèces visées par la recommandation dans la zone CGPM.
 
-Points 1 et suivants de la recommandation n° CGPM/2009/6 de la Commission générale des pêches pour la Méditerranée |
+|
+
+Le registre comporte pour chacun des navires au moins les informations obligatoires mentionnées à l'annexe 1 de la recommandation n° CGPM/2009/5 de la CGPM.
+
+|
+
+Points 1 et suivants de la recommandation n° CGPM/2009/6 de la Commission générale des pêches pour la Méditerranée
+
+|
 
 La pêche professionnelle à bord de navires mesurant plus de 15 mètres en zone CGPM est soumise à la détention d'une autorisation de pêche ORGP "Navires de plus de 15 mètres en zone CGPM".
 
 |
 
-10 jours ouvrés avant la date d'entrée dans la zone CGPM. |
+10 jours ouvrés avant la date d'entrée dans la zone CGPM.
+
+|
 
 Sont éligibles les navires de longueur hors tout supérieure à 15 mètres battant pavillon français ayant accès aux espèces visées par la recommandation dans la zone CGPM.
 
 |
 
-L'autorisation ne peut être délivrée qu'à un navire inscrit sur le registre régional des navires de pêche de la CGPM et comporte pour chacun des navires, lorsqu'elles sont disponibles, les informations mentionnées au point 2 de la recommandation n° CGPM/2009/6 de la CGPM. |
+L'autorisation ne peut être délivrée qu'à un navire inscrit sur le registre régional des navires de pêche de la CGPM et comporte pour chacun des navires, lorsqu'elles sont disponibles, les informations mentionnées au point 2 de la recommandation n° CGPM/2009/6 de la CGPM.
+
+|
 
 Point 3 de la recommandation n° 11-03 de la Commission internationale pour la conservation des thonidés de l'Atlantique (ICCAT) sur des mesures de gestion de l'espadon de la Méditerranée dans le cadre de l'ICCAT.
 
 |
 
-La pêche de l'espadon (SWO) en mer Méditerranée aux harpons (HAR) et la pêche à la palangre du thon blanc (ALB), de la bonite à ventre rayé (SKJ), de la bonite à dos rayé (BON), de thoninés (BKJ, KAN, LTA, EHZ), d'auxides (FRI, BLT), de brème de mer (castagnole) (POA), de marlins (WHH, WHM, MSP, MLS, SSP, SPF, RSP, BLM, BUM), de voiliers (BIL, SFA, SAI), de sauris ou balaous (SAU, SAP), de coryphènes ou dorades tropicales (DOL, CFW), de requins (SBL, BSK, SPY, MSK) est soumise à la détention d'une autorisation de pêche ORGP "stocks de grands migrateurs pélagiques".
-
-Les navires non titulaires d'une autorisation de pêche ORGP "stocks de grands migrateurs pélagiques" ne sont pas autorisés à capturer, à retenir à bord, à transborder, à transporter, à transformer ou à débarquer les espèces ci-dessus référencées.
+La pêche de l'espadon (SWO) en mer Méditerranée aux harpons (HAR) et la pêche à la palangre du thon blanc (ALB), de la bonite à ventre rayé (SKJ), de la bonite à dos rayé (BON), de thoninés (BKJ, KAN, LTA, EHZ), d'auxides (FRI, BLT), de brème de mer (castagnole) (POA), de marlins (WHH, WHM, MSP, MLS, SSP, SPF, RSP, BLM, BUM), de voiliers (BIL, SFA, SAI), de sauris ou balaous (SAU, SAP), de coryphènes ou dorades tropicales (DOL, CFW), de requins (SBL, BSK, SPY, MSK) est soumise à la détention d'une autorisation de pêche ORGP "stocks de grands migrateurs pélagiques". Les navires non titulaires d'une autorisation de pêche ORGP "stocks de grands migrateurs pélagiques" ne sont pas autorisés à capturer, à retenir à bord, à transborder, à transporter, à transformer ou à débarquer les espèces ci-dessus référencées.
 
 |
 
@@ -110,7 +116,7 @@ Sont éligibles tous les navires actifs de la façade méditerranéenne.
 
 1. Les navires pêchant l'espadon (SWO) doivent être titulaires d'une autorisation de pêche ORGP "espadon prise active en Méditerranée".
 
-2. La capture d'espadon mesurant moins de 90 cm de LJFL (**) ou pesant moins de 10 kg poids vif ou 9 kg de poids éviscéré ou 7.5 kg de poids éviscéré et sans branchies est interdite.
+2. La capture d'espadon mesurant moins de 90 cm de LJFL (**) ou pesant moins de 10 kg poids vif ou 9 kg de poids éviscéré ou 7,5 kg de poids éviscéré et sans branchies est interdite.
 
 3. La pêche est interdite entre le 1er octobre et le 30 novembre et entre le 1er mars et le 31 mars.
 
@@ -122,11 +128,11 @@ Sont éligibles tous les navires actifs de la façade méditerranéenne.
 
 |
 
-Article 5 du règlement (CE) n° 1236/2010 établissant un régime de contrôle et de coercition dans la zone de la CPANE.
+Article 5 du règlement (CE) n° 2010-1236 établissant un régime de contrôle et de coercition dans la zone de la CPANE.
 
 |
 
-La pêche des espèces pélagiques, océaniques et d'eau profonde énumérée à l'annexe du règlement (CE) n° 1236/2010 dans la zone de convention CPANE est soumise à la détention d'une autorisation de pêche ORGP "Espèces pélagiques, océaniques et d'eau profonde en zone CPANE".
+La pêche des espèces pélagiques, océaniques et d'eau profonde énumérée à l'annexe du règlement (CE) n° 2010-1236 dans la zone de convention CPANE est soumise à la détention d'une autorisation de pêche ORGP "Espèces pélagiques, océaniques et d'eau profonde en zone CPANE".
 
 |
 
@@ -142,11 +148,11 @@ L'autorisation mentionne les espèces pêchées par le couple navire-armateur ti
 
 |
 
-Points 3 et suivants de la recommandation 13/02 de la Commission des thons de l'océan Indien
+Points 1 et suivants de la recommandation 13/02 de la Commission des thons de l'océan Indien
 
 |
 
-La pêche des thons et espèces apparentées (***) en zones statistiques de la FAO 51 et 57 et les mers adjacentes situées au nord de la convergence Antarctique est soumise à la détention d'une autorisation de pêche ORGP "Thons et espèces apparentées en zone CTOI".
+La pêche des thons et espèces apparentées (***) par des navires de longueur hors tout égale ou supérieure à 24 mètres et par des navires de longueur hors tout inférieure à 24 mètres exerçant notamment leur activité au-delà des limites de la zone économique exclusive sous juridiction française et/ ou n'étant pas immatriculés au port d'immatriculation de La Réunion (RU), en zones statistiques de la FAO 51 et 57 et les mers adjacentes situées au nord de la convergence Antarctique est soumise à la détention d'une autorisation de pêche ORGP "Thons et espèces apparentées en zone CTOI".
 
 |
 
