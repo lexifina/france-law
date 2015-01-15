@@ -1,0 +1,9 @@
+# Réponse à la question SEQ140611915
+
+- Question : [SEQ140611915](seq140611915.md) — Compensation des sociétés des réseaux autoroutiers à la suite des retards suscités par des travaux
+
+## Réponse
+
+*Transports, mer et pêche, JO du 2015-01-15, page 121*
+
+Les contrats de concessions autoroutières sont pris par décret en Conseil d'État. Ces contrats prévoient la fixation d'objectifs de performance assortis de pénalités, qui ont notamment pour vocation de s'assurer que les sociétés concessionnaires d'autoroutes garantissent la meilleure disponibilité possible des infrastructures dont elles assurent l'exploitation. Par ailleurs, lorsque des travaux d'envergure interviennent sur le réseau, les services de l'État veillent à ce que la gêne à l'usager soit minimisée. En revanche, les contrats de concession ne prévoient pas la possibilité de moduler les tarifs de péage en fonction de la disponibilité de l'infrastructure, ce qui poserait un problème juridique lié à la qualification du péage. En effet, le péage est une redevance perçue pour l'usage d'une infrastructure. Son montant est déterminé contractuellement, lors de l'attribution des travaux à la société concessionnaire, afin de couvrir les coûts d'études, de construction, de financement et d'exploitation des autoroutes. Ces modalités de détermination des péages sont très précisément décrites en annexe de la directive eurovignette III et ne prévoient pas de modulation en cas de travaux. Le péage n'est pas un prix payé pour une prestation de transport. À cet égard, le parallèle à établir avec le ferroviaire ou l'aérien serait le prix payé par un usager pour un transport par bus empruntant l'autoroute, l'éventuelle indemnisation de l'usager étant alors assumée par la compagnie de transport, qui seule peut s'engager sur des temps de parcours.
