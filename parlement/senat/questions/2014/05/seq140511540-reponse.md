@@ -1,0 +1,9 @@
+# Réponse à la question SEQ140511540
+
+- Question : [SEQ140511540](seq140511540.md) — Canal des Deux-Mers
+
+## Réponse
+
+*Transports, mer et pêche, JO du 2015-01-15, page 121*
+
+Le développement du transport fluvial et le report modal vers la voie d'eau s'inscrivent complètement dans la politique de transition énergétique que promeut le Gouvernement. Voies navigables de France (VNF) a ainsi engagé, dans le cadre du schéma de développement du canal des Deux-Mers, une étude de faisabilité de fret sur ce canal. Cette étude se décompose en plusieurs phases. La phase 1 comprend une étude de marché des chargeurs potentiels et une évaluation comparative des trois modes de transport (fluvial, ferroviaire et routier). Cette phase inclut également un diagnostic de l'infrastructure et le recensement des équipements sur l'itinéraire complet du canal. L'objectif de cette 1re phase est de mesurer les conditions d'exploitation répondant aux besoins des transporteurs et de déterminer ainsi les caractéristiques des bateaux susceptibles de naviguer sur le canal en liaison avec les professionnels. Dans une hypothèse favorable de faisabilité, la phase deux présentera une stratégie à court, moyen et long termes : proposer des investissements pour l'équipement du canal, construire des hypothèses de trafic en intégrant l'activité touristique et les contraintes du mode d'exploitation et analyser la flotte mobilisable et les cales nécessaires. Enfin, la phase 3 permettra d'établir un plan d'actions intégrant les éléments de langages et de communication pour valoriser cette étude. L'objectif est de conclure cette démarche en 2015. Un comité de pilotage technique de cette étude, animé par VNF, est en cours de constitution, intégrant les services de l'État concernés, les trois régions impliquées, les représentants de la profession, les chambres de commerce et d'industrie et le Grand Port maritime de Bordeaux.
