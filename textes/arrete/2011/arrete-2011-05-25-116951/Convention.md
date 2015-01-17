@@ -8,7 +8,7 @@ L'Etat, représenté conjointement par le ministre chargé de l'économie et le 
 
 Et :
 
-La Société de gestion du fonds de garantie de l'accession sociale à la propriété, société anonyme au capital de 825 015 €, dont le siège social est 13, rue Auber, 75009 Paris, immatriculée au registre du commerce et des sociétés de Paris sous le numéro B 390 818 235, représentée par M. François de Ricolfis, directeur général (ci-après dénommée la SGFGAS), d'autre part,
+La société mentionnée au dernier alinéa de l'article L. 312-1 du code de la construction et de l'habitation, société anonyme au capital de 825 015 €, dont le siège social est 13, rue Auber, 75009 Paris, immatriculée au registre du commerce et des sociétés de Paris sous le numéro B 390 818 235, représentée par M. François de Ricolfis, directeur général (ci-après dénommée la SGFGAS), d'autre part,
 
 Vu le code général des impôts, notamment ses articles 199 ter T, 220 Z ter, 223 O, 244 quater V et l'annexe III à ce code ;
 

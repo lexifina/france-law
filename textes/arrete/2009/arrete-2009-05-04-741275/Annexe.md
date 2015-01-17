@@ -1,14 +1,14 @@
 # Article Annexe
 
-CONVENTION CONCLUE ENTRE LA SGFGAS ET LES ÉTABLISSEMENTS DE CRÉDIT RELATIVE À L'AVANCE REMBOURSABLE SANS INTÉRÊT DESTINÉE AU FINANCEMENT DE TRAVAUX DE RÉNOVATION AFIN D'AMÉLIORER LA PERFORMANCE ÉNERGÉTIQUE DES LOGEMENTS ANCIENS, DÉNOMMÉE "ÉCO-PRÊT À TAUX ZÉRO"
+CONVENTION CONCLUE ENTRE LA SGFGAS ET LES ÉTABLISSEMENTS DE CRÉDIT RELATIVE À L'AVANCE REMBOURSABLE SANS INTÉRÊT DESTINÉE AU FINANCEMENT DE TRAVAUX DE RÉNOVATION AFIN D'AMÉLIORER LA PERFORMANCE ÉNERGÉTIQUE DES LOGEMENTS ANCIENS, DÉNOMMÉE " ÉCO-PRÊT À TAUX ZÉRO "
 
 Entre :
 
-La Société de gestion du fonds de garantie de l'accession sociale à la propriété, société anonyme au capital de 825 015 €, dont le siège social est 13, rue Auber, 75009 Paris, immatriculée au registre du commerce et des sociétés de Paris sous le numéro B 390 818 235, représentée par M. François de Ricolfis, directeur général (ci-après dénommée la "SGFGAS"),
+La société mentionnée au dernier alinéa de l'article L. 312-1 du code de la construction et de l'habitation, société anonyme au capital de 825 015 €, dont le siège social est 13, rue Auber, 75009 Paris, immatriculée au registre du commerce et des sociétés de Paris sous le numéro B 390 818 235, représentée par M. François de Ricolfis, directeur général (ci-après dénommée la " SGFGAS "),
 
 D'une part, et
 
-(Ci-après dénommé l'"établissement de crédit"),
+(Ci-après dénommé l'" établissement de crédit "),
 
 D'autre part.
 
@@ -40,7 +40,7 @@ Vu l'arrêté du 23 décembre 2014 relatif aux conditions d'application de dispo
 
 Il a préalablement été rappelé ce qui suit :
 
-En application des dispositions de l'article 244 quater U du code général des impôts, il a été créé une avance remboursable ne portant pas intérêt pour le financement de travaux d'amélioration de la performance énergétique de logements, dénommée "éco-prêt à taux zéro" et ci-après désignée "le prêt" ou "les prêts", ayant pour objet de contribuer au financement de l'amélioration des performances énergétiques des bâtiments destinés à la résidence principale de l'occupant.
+En application des dispositions de l'article 244 quater U du code général des impôts, il a été créé une avance remboursable ne portant pas intérêt pour le financement de travaux d'amélioration de la performance énergétique de logements, dénommée " éco-prêt à taux zéro " et ci-après désignée " le prêt " ou " les prêts ", ayant pour objet de contribuer au financement de l'amélioration des performances énergétiques des bâtiments destinés à la résidence principale de l'occupant.
 
 En application des dispositions de l'article 244 quater U du code général des impôts, notamment de son VI bis, l'avance remboursable ne portant pas intérêt pour le financement de travaux d'amélioration de la performance énergétique de logements, dénommée éco-PTZ copropriétés peut être accordée dans les mêmes conditions à un syndicat de copropriétaires pour financer les travaux d'intérêt collectif réalisés sur les parties privatives prévus au g de l'article 25 de la loi n° 65-557 du 10 juillet 1965 ainsi que les travaux réalisés sur les parties et équipements communs d'un immeuble.
 
@@ -52,21 +52,21 @@ Il est précisé que pour ce prêt dénommé l'éco-prêt copropriétés, l'empr
 
 La nature des travaux mentionnés ci-dessus et les bénéficiaires des prêts sont limitativement énumérés par la loi et les textes pris pour l'application de celle-ci (1).
 
-Conformément aux dispositions de l'article L. 312-1, dernier alinéa, du code de la construction et de l'habitation, il a été créé une société anonyme dénommée Société de gestion du fonds de garantie de l'accession sociale à la propriété (SGFGAS), dont l'objet social est :
+Conformément aux dispositions de l'article L. 312-1, dernier alinéa, du code de la construction et de l'habitation, il a été créé une société anonyme dénommée société mentionnée au dernier alinéa de l'article L. 312-1 du code de la construction et de l'habitation (SGFGAS), dont l'objet social est :
 
-- la gestion du fonds de garantie de l'accession sociale à la propriété (FGAS), en application de l'article L. 312-1 du code de la construction et de l'habitation ;
+-la gestion du fonds de garantie de l'accession sociale à la propriété (FGAS), en application de l'article L. 312-1 du code de la construction et de l'habitation ;
 
-- et plus généralement toutes opérations de quelque nature qu'elles soient, économiques ou juridiques, financières, civiles ou commerciales, pouvant se rattacher, directement ou indirectement, à cet objet social ou à tous objets similaires, connexes ou complémentaires ; la participation directe ou indirecte de la société à toutes activités pouvant se rattacher directement ou indirectement à son objet social.
+-et plus généralement toutes opérations de quelque nature qu'elles soient, économiques ou juridiques, financières, civiles ou commerciales, pouvant se rattacher, directement ou indirectement, à cet objet social ou à tous objets similaires, connexes ou complémentaires ; la participation directe ou indirecte de la société à toutes activités pouvant se rattacher directement ou indirectement à son objet social.
 
 Dans le cadre de cet objet social, l'activité de la SGFGAS, initialement consacrée à la gestion du fonds de garantie de l'accession sociale à la propriété, a été étendue au versement des subventions afférentes au prêt à 0 % institué par les articles R. 317-1 et suivants du code de la construction et de l'habitation, puis à la gestion du dispositif de l'avance remboursable ne portant pas intérêt institué par l'article 244 quater J du code général des impôts complété par les articles R. 318-1 et suivants du code de la construction de l'habitation (nouveau prêt à 0 %) et, enfin, étendue à la gestion du dispositif de l'avance remboursable ne portant pas intérêt institué par l'article 244 quater U du code général des impôts complété par les articles R. 319-1 et suivants du code de la construction et de l'habitation (éco-prêt à taux zéro). La présente convention est conclue par la SGFGAS en application de l'article R. 319-12, alinéa 2, du code de la construction et de l'habitation. Les termes de la convention, notamment ses articles bis, résultent également de l'avenant conclu entre la SGFGAS et l'établissement de crédit en application de l'article R. 319-29 du code de la construction et de l'habitation.
 
 En application de cet article du code de la construction et de l'habitation et de la convention conclue entre l'Etat et la SGFGAS, cette dernière est notamment habilitée à :
 
-- enregistrer les prêts ;
+-enregistrer les prêts ;
 
-- déterminer les éléments de calcul du montant du crédit d'impôt afférent aux prêts accordés par l'établissement de crédit (ci-après dénommé le "crédit d'impôt") dans les conditions définies au IV de l'article 244 quater U du code général des impôts ;
+-déterminer les éléments de calcul du montant du crédit d'impôt afférent aux prêts accordés par l'établissement de crédit (ci-après dénommé le " crédit d'impôt ") dans les conditions définies au IV de l'article 244 quater U du code général des impôts ;
 
-- adresser le résultat dudit calcul à l'établissement de crédit, d'une part, à l'administration fiscale dans un délai de quatre mois qui court à compter de la date de clôture de l'exercice de chaque établissement de crédit, d'autre part ;
+-adresser le résultat dudit calcul à l'établissement de crédit, d'une part, à l'administration fiscale dans un délai de quatre mois qui court à compter de la date de clôture de l'exercice de chaque établissement de crédit, d'autre part ;
 
 -diligenter des contrôles nécessités par la gestion du crédit d'impôt et des prêts.
 
@@ -82,15 +82,15 @@ Objet de la convention
 
 La présente convention a pour objet :
 
-- la définition des modalités de déclaration par l'établissement de crédit des prêts ;
+-la définition des modalités de déclaration par l'établissement de crédit des prêts ;
 
-- le contrôle a priori de l'éligibilité des prêts déclarés par l'établissement de crédit à la SGFGAS ;
+-le contrôle a priori de l'éligibilité des prêts déclarés par l'établissement de crédit à la SGFGAS ;
 
-- la détermination et la publication des conditions de remboursement des prêts ;
+-la détermination et la publication des conditions de remboursement des prêts ;
 
-- la définition des éléments de calcul et le suivi pour le compte de l'Etat des crédits d'impôts dus au titre des prêts ;
+-la définition des éléments de calcul et le suivi pour le compte de l'Etat des crédits d'impôts dus au titre des prêts ;
 
-- le contrôle a posteriori de l'éligibilité des prêts déclarés par l'établissement de crédit à la SGFGAS.
+-le contrôle a posteriori de l'éligibilité des prêts déclarés par l'établissement de crédit à la SGFGAS.
 
 Article 2
 
@@ -234,9 +234,9 @@ La SGFGAS procède à l'édition d'une attestation qui récapitule le calcul du 
 
 Préalablement, la SGFGAS procède à l'édition d'attestations anticipées le premier jour ouvré des mois de février et de mars de chaque année. La SGFGAS peut toutefois décider de les éditer à d'autres dates.
 
-Le crédit d'impôt est imputé sur l'impôt dû par l'établissement de crédit, au titre de l'impôt sur les sociétés, une première fois à hauteur d'un cinquième au titre de l'exercice au cours duquel l'avance remboursable ne portant pas intérêt a fait l'objet d'un premier versement (sous réserve que ce dernier ait fait l'objet d'une déclaration conforme au b de l'article 5 de la présente convention) et par fractions égales les quatre exercices suivants.L'assiette du calcul de ce premier crédit d'impôt est le montant du prêt accordé par l'établissement de crédit.
+Le crédit d'impôt est imputé sur l'impôt dû par l'établissement de crédit, au titre de l'impôt sur les sociétés, une première fois à hauteur d'un cinquième au titre de l'exercice au cours duquel l'avance remboursable ne portant pas intérêt a fait l'objet d'un premier versement (sous réserve que ce dernier ait fait l'objet d'une déclaration conforme au b de l'article 5 de la présente convention) et par fractions égales les quatre exercices suivants. L'assiette du calcul de ce premier crédit d'impôt est le montant du prêt accordé par l'établissement de crédit.
 
-Un second calcul du crédit d'impôt est ensuite réalisé sur l'assiette du total des versements (y compris, le cas échéant, les ajustements à la baisse) effectués par l'établissement de crédit au plus tard trois mois avant la date visée au c du II de l'article R. 319-14 du code de la construction et de l'habitation et déclaré conformément au c de l'article 5 de la présente convention.S'il y a lieu, la régularisation est imputée par cinquième sur les mêmes années d'imputation que le crédit d'impôt calculé lors du premier versement ; les fractions ne pouvant plus être imputées sont reportées sur le prochain exercice restant à imputer.
+Un second calcul du crédit d'impôt est ensuite réalisé sur l'assiette du total des versements (y compris, le cas échéant, les ajustements à la baisse) effectués par l'établissement de crédit au plus tard trois mois avant la date visée au c du II de l'article R. 319-14 du code de la construction et de l'habitation et déclaré conformément au c de l'article 5 de la présente convention. S'il y a lieu, la régularisation est imputée par cinquième sur les mêmes années d'imputation que le crédit d'impôt calculé lors du premier versement ; les fractions ne pouvant plus être imputées sont reportées sur le prochain exercice restant à imputer.
 
 Les modalités pratiques de communication des attestations définitive et anticipées sont définies en annexe 1 des présentes.
 
@@ -256,7 +256,7 @@ Les montants de crédit d'impôt relatifs à l'éco-prêt copropriétés sont po
 
 Article 10
 
-Durée. - Résiliation
+Durée.-Résiliation
 
 La présente convention est valable jusqu'à la date d'expiration des dispositions de l'article 244 quater U du code général des impôts.
 
@@ -318,7 +318,7 @@ La SGFGAS s'engage à mettre en œuvre tous les moyens dont elle dispose afin d'
 
 L'accès aux services extranet susmentionnés est subordonné au versement d'une redevance initiale, puis au versement d'une redevance annuelle dont le montant et les modalités de règlement sont déterminés en annexe 3, ainsi qu'au respect des conditions générales d'utilisation du site consultables sur ce dernier.
 
-Les établissements ayant déjà acquitté la participation initiale au titre du dispositif du nouveau prêt à 0 % ne sont plus redevables de cette participation initiale, qui est en revanche obligatoire pour tout nouvel établissement de crédit affilié. Les établissements dont l'organe central, au sens des articles L. 511-30 et suivants du code monétaire et financier, s'est d'ores et déjà acquitté des redevances initiales en sont également dispensés.S'agissant des redevances annuelles, les établissements ou les groupes d'établissements ne sont redevables que du différentiel, quand il est positif, susceptible d'exister entre la redevance déterminée à l'annexe 3 de la présente convention et ce qu'ils ont acquitté pour le même exercice au titre du dispositif du nouveau prêt à 0 % ou du nouveau FGAS.
+Les établissements ayant déjà acquitté la participation initiale au titre du dispositif du nouveau prêt à 0 % ne sont plus redevables de cette participation initiale, qui est en revanche obligatoire pour tout nouvel établissement de crédit affilié. Les établissements dont l'organe central, au sens des articles L. 511-30 et suivants du code monétaire et financier, s'est d'ores et déjà acquitté des redevances initiales en sont également dispensés. S'agissant des redevances annuelles, les établissements ou les groupes d'établissements ne sont redevables que du différentiel, quand il est positif, susceptible d'exister entre la redevance déterminée à l'annexe 3 de la présente convention et ce qu'ils ont acquitté pour le même exercice au titre du dispositif du nouveau prêt à 0 % ou du nouveau FGAS.
 
 La résiliation de la convention dans les conditions fixées à l'article 10 de la convention entraîne la suppression, pour l'établissement de crédit, de l'accès au site extranet, et ce à la date de prise d'effet de la résiliation. Dans cette hypothèse, les redevances pour l'année en cours restent dues à la SGFGAS.
 
@@ -336,7 +336,7 @@ Le recours aux fonctionnalités du démembrement sera disponible à une date qui
 
 Article 14
 
-Fusion/absorption d'établissements parties
+Fusion/ absorption d'établissements parties
 
 à la convention
 
@@ -344,11 +344,7 @@ En cas de fusion, la créance de la société absorbée est transférée à la s
 
 Fait à..., en trois (3) exemplaires originaux, le.
 
-Société de gestion
-
-du fonds de garantie
-
-de l'accession sociale à la propriété,
+société mentionnée au dernier alinéa de l'article L. 312-1 du code de la construction et de l'habitation,
 
 F. de Ricolfis
 

@@ -8,7 +8,7 @@ L'Etat, représenté conjointement par le ministre d'Etat, ministre de l'écolog
 
 D'une part, et
 
-La Société de gestion du fonds de garantie de l'accession sociale à la propriété, société anonyme au capital de 825 015 €, dont le siège social est 13, rue Auber, 75009 Paris, immatriculée au registre du commerce et des sociétés de Paris sous le numéro B 390 818 235, représentée par M. François de RICOLFIS, directeur général (ci-après dénommée la " SGFGAS "),
+La société mentionnée au dernier alinéa de l'article L. 312-1 du code de la construction et de l'habitation, société anonyme au capital de 825 015 €, dont le siège social est 13, rue Auber, 75009 Paris, immatriculée au registre du commerce et des sociétés de Paris sous le numéro B 390 818 235, représentée par M. François de RICOLFIS, directeur général (ci-après dénommée la " SGFGAS "),
 
 D'autre part,
 
@@ -72,7 +72,7 @@ Chargée successivement de la gestion des dispositifs Fonds de garantie de l'acc
 
 4. La présente convention est conclue par la SGFGAS en application de l'article R. 319-12 du code de la construction et de l'habitation.
 
-4. bis. Les termes de la convention, notamment son article 10 bis, résultent également de l'avenant " éco-prêt copropriétés " conclu entre l'Etat et la SGFGAS.
+4. bis. Les termes de la convention, notamment son article 10 bis, résultent également de l'avenant " éco-prêt copropriétés " conclu entre l'Etat et la SGFGAS
 
 5. Une convention sera conclue entre la SGFGAS et chacun des établissements de crédit, ayant pour objet :
 
