@@ -270,7 +270,7 @@ Morbihan
 
 |
 
-Centre
+Centre-Val de Loire
 
 |
 
