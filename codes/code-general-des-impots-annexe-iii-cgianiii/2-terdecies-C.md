@@ -8,7 +8,7 @@ a. Les plafonds de loyer mensuel, charges non comprises, sont fixés aux quatre 
 
 -b de l'article 2 terdecies B, pour les baux conclus en 2014, s'agissant de logements visés au b de ce même article.
 
-Pour les baux conclus en 2014, les plafonds de loyer mensuel, charges non comprises, relatifs aux logements situés outre-mer qui ouvrent droit à la réduction d'impôt prévue à l'article 199 septvicies du code général des impôts sont égaux, par mètre carré de surface habitable, à 10,43 € dans les départements d'outre-mer, à Saint-Barthélemy, à Saint-Martin et à Mayotte et à 13,76 € en Polynésie française, en Nouvelle-Calédonie, à Saint-Pierre-et-Miquelon et dans les îles Wallis et Futuna. Ces plafonds sont relevés au 1er janvier de chaque année selon les modalités définies au 1 de l'article 46 AG duodecies.
+Pour les baux conclus en 2014, les plafonds de loyer mensuel, charges non comprises, relatifs aux logements situés outre-mer qui ouvrent droit à la réduction d'impôt prévue à l'article 199 septvicies du code général des impôts sont égaux, par mètre carré de surface habitable, à 10,43 € dans les départements d'outre-mer, à Saint-Barthélemy et Saint-Martin et à 13,76 € en Polynésie française, en Nouvelle-Calédonie, à Saint-Pierre-et-Miquelon et dans les îles Wallis et Futuna. Ces plafonds sont relevés au 1er janvier de chaque année selon les modalités définies au 1 de l'article 46 AG duodecies.
 
 b. Les ressources du locataire s'entendent du revenu fiscal de référence au sens du 1° du IV de l'article 1417 du code général des impôts, figurant sur l'avis d'impôt sur le revenu établi au titre de l'avant-dernière année précédant celle de la signature du contrat de location.
 
@@ -200,7 +200,7 @@ DÉPARTEMENTS D'OUTRE-MER,
 
 Saint-Martin,
 
-Saint-Barthélemy, Mayotte
+Saint-Barthélemy
 
 |
 
@@ -303,7 +303,3 @@ Ces plafonds sont relevés au 1er janvier de chaque année selon les modalités 
 Les personnes à charge pour l'application des présentes dispositions s'entendent des personnes mentionnées aux articles 196 à 196 B du code général des impôts.
 
 Pour l'application du présent article, les zones A, A bis, B 1, B 2 et C sont définies par arrêté des ministres chargés du budget et du logement et la surface habitable à prendre en compte pour l'appréciation des plafonds de loyer mentionnés au premier alinéa du a est la même que celle prévue au troisième alinéa du a de l'article 2 duodecies. Pour l'application du quatrième alinéa du a, la surface habitable à prendre en compte pour l'appréciation des plafonds de loyer est celle déterminée au III de l'article 46 AG terdecies.
-
-NOTA :
-
-Modifications effectuées en conséquence de l'article 1er (G) du décret n° 2006-1005 du 10 août 2006
