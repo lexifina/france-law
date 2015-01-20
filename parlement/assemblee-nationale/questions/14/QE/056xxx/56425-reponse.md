@@ -1,0 +1,9 @@
+# Réponse à la question n° 56425
+
+- Question : [56425](56425.md) — Question n° 56425 — prolifération; lutte et prévention
+
+## Réponse
+
+*JO du 2015-01-20*
+
+Le loup est une espèce est effectivement « strictement protégée » au sens de la Convention de Berne, mais aussi de la directive 92/43/CEE dite « Habitat, faune, flore ». Dans le droit national, ces dispositions sont transcrites dans le Code de l'environnement aux articles L. 411-1, L. 411-2 et R. 411-1 à R. 411-5 et par l'arrêté du 23 avril 2007 fixant la liste des mammifères protégés sur l'ensemble du territoire et les modalités de leur protection. La ministre en charge de l'écologie a pris note de la requête déposée à la commission des pétitions auprès du Parlement européen. Elle a été déclarée « recevable » le 27 février 2014, dans la mesure où elle « concerne l'un des domaines d'activité de l'Union européenne ». Ce qualificatif ne préjuge pas des suites données à la requête. Dans sa réponse du 27 mai 2014, la Commission européenne a d'ailleurs estimé « qu'une révision de la législation n'est pas nécessaire car la directive Habitats offre une flexibilité suffisante pour permettre d'assurer la coexistence du loup avec les activités pastorales ». Cette position n'empêche pas les États membres d'agir, et le Gouvernement français s'est appuyé sur ce principe de flexibilité pour renforcer l'efficacité des opérations de tir organisées par dérogation à la protection stricte de l'espèce. En complément du dispositif mis en place en 2013, un arrêté ministériel du 5 août 2014 prévoit ainsi, à titre expérimental, la possibilité d'abattre des loups aperçus lors de chasses en battue aux grands gibiers, dans les limites du plafond fixé annuellement et dans les zones où des dégâts importants sont constatés du fait d'attaques de loups sur les troupeaux.
