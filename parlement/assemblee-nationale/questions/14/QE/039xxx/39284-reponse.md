@@ -1,0 +1,9 @@
+# Réponse à la question n° 39284
+
+- Question : [39284](39284.md) — Question n° 39284 — sûreté; budget
+
+## Réponse
+
+*JO du 2015-01-20*
+
+Les moyens humains et financiers consacrés à la sûreté nucléaire et la radioprotection ont augmenté régulièrement et fortement depuis de nombreuses années. Ce fut le cas dès 2002 au moment de la réforme engagée par le Gouvernement pour réorganiser le contrôle de la radioprotection, qui a conduit à un renfort significatif et durable des moyens humains et financiers consacrés à ces questions, ainsi qu'à la création en 2002 de l'institut de radioprotection et de sûreté nucléaire (IRSN). Fin 2010, une contribution additionnelle à la taxe sur les installations nucléaires de base (INB) a été créée et affectée à l'IRSN à partir de 2011 afin de financer une partie des coûts d'instruction des dossiers de sûreté déposés par les exploitants d'INB. Dans le contexte post-Fukushima, les moyens consacrés à la sûreté nucléaire et à la radioprotection ont été augmentés en 2012 et 2013 pour mener à bien les évaluations complémentaires de sûreté menées sur l'ensemble des INB en France. Pour l'IRSN, cet effort s'est notamment traduit par une hausse de 15 M € du montant de la contribution additionnelle à la taxe INB, la portant à 48 M €, à nouveau revalorisée en 2013 à hauteur de 53 M €. Le projet de loi de finances pour 2015 réservera à nouveau un traitement exceptionnel à l'IRSN, dont les moyens et les emplois seront sanctuarisés. Enfin, dans le cadre des investissements d'avenir, l'IRSN bénéficiera de 15 à 20 M € de subventions sur les 6 à 8 ans à venir puisque, sur les 23 projets retenus dans le cadre de l'appel à projets « recherche en sûreté nucléaire et radioprotection » lancé à la suite de l'accident de Fukushima, l'IRSN en pilote 7, et participe à 8 autres.
