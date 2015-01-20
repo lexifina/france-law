@@ -1,0 +1,9 @@
+# Réponse à la question n° 60801
+
+- Question : [60801](60801.md) — Question n° 60801 — orthographe; patronymes; respect
+
+## Réponse
+
+*JO du 2015-01-20*
+
+Les documents administratifs destinés à l'autorité publique doivent se conformer, s'agissant des indications relatives à l'état civil, aux énonciations portées sur les actes de l'état civil. Cependant, des difficultés sont apparues sur l'emploi des signes diacritiques dans les actes de l'état civil et, plus précisément, sur les cas dans lesquels les officiers de l'état civil étaient fondés à accepter ou à refuser certains de ces signes revendiqués par les intéressés lors de l'établissement d'un acte. Afin de clarifier ces points, une circulaire émanant de la direction des affaires civiles et du sceau du ministère de la justice (NOR : JUSC1412888C) du 23 juillet 2014, relative à l'état civil, rappelle que seul l'alphabet romain peut être utilisé pour la rédaction des actes de l'état civil et que les seuls signes diacritiques admis sont les points, tréma, accents et cédilles tels qu'ils sont souscrits ou suscrits aux voyelles et consonne autorisés par la langue française. Afin de pallier toutes difficultés, cette circulaire recense ainsi les voyelles et consonnes pouvant être assorties d'un tel signe diacritique étant observé que ces signes diacritiques peuvent être portés tant sur les lettres majuscules que sur les minuscules et que si le nom de famille doit être inscrit en lettres majuscules, il est admis que la lettre accentuée soit inscrite en minuscule si le procédé de mise en forme ne permet pas l'accentuation des majuscules. Ainsi, en clarifiant les règles applicables à l'établissement des actes de l'état civil, auxquels les autres administrations devront se conformer, la circulaire précitée permettra de contribuer à améliorer la prise en compte par toutes les administrations de l'orthographe des noms qui comportent un signe diacritique.
