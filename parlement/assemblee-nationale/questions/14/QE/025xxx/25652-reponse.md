@@ -1,0 +1,9 @@
+# Réponse à la question n° 25652
+
+- Question : [25652](25652.md) — Question n° 25652 — EHPAD; tarification; réglementation
+
+## Réponse
+
+*JO du 2015-01-20*
+
+Le reste à charge des résidents en établissements d'hébergement pour personnes âgées dépendantes (EHPAD) est une préoccupation forte du Gouvernement. Aussi, le projet de loi relatif à l'adaptation de la société au vieillissement comporte des dispositions visant à clarifier les règles relatives au tarif d'hébergement dans ces établissements, notamment l'instauration d'un socle de prestations et l'identification des tarifs correspondants, ce qui permet une comparaison des tarifs appliqués par les établissements. La Caisse nationale de solidarité pour l'autonomie (CNSA) sera par ailleurs chargée au plan national de mettre à la disposition du grand public une information complète permettant le choix éclairé d'un établissement. Par ailleurs, un groupe de travail a été lancé le 9 décembre dernier, pour réfléchir à l'amélioration du système de pilotage et de gestion des EHPAD. Le système actuel apparaît complexe et peu lisible. Dans ce contexte, il importe donc d'agir sur la simplification et la promotion de la responsabilité des gestionnaires. Ce groupe associe, outre les administrations, agences et organismes de sécurité sociale concernés, les représentants des gestionnaires, les départements et les représentants des usagers. Quatre axes de travail prioritaires sont identifiés : l'amélioration de l'efficience de l'outil contractuel ; la modernisation de l'allocation de ressources et de la contractualisation en passant d'un pilotage par la dépense à un pilotage par la ressource ; la généralisation d'indicateurs de performance dans le cadre des dialogues de gestion ; la définition de prestations d'hébergement socles et des prestations supplémentaires prévues par le projet de loi d'adaptation de la société au vieillissement. Ce groupe de travail devra rendre ses conclusions courant 2015.
