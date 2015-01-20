@@ -1,0 +1,9 @@
+# Réponse à la question n° 54361
+
+- Question : [54361](54361.md) — Question n° 54361 — pirates somaliens; libération; statut juridique; perspectives
+
+## Réponse
+
+*JO du 2015-01-20*
+
+En 2008 et 2009, des pirates ont pris en otage des ressortissants français qui naviguaient au large de la Somalie à bord de voiliers de plaisance. Les opérations de libération menées par des commandos des forces armées françaises ont abouti à l'arrestation et au transfert vers la France de quinze ressortissants somaliens qui ont, par la suite, été déférés devant la justice française. Sur ces quinze personnes, douze ont été reconnues coupables d'actes de piraterie ou de complicité de tels actes et condamnés à des peines d'emprisonnement. Trois ont été acquittés. Ces derniers, n'ayant pas souhaité retourner en Somalie, ont déposé une demande d'asile et sont actuellement pris en charge et hébergés dans des centres d'accueil pour demandeurs d'asile. Ils ont été reçus en entretien à l'Office français de protection des réfugiés et apatrides (OFPRA) lequel doit statuer sur leur demande. En ce qui concerne les douze ressortissants somaliens condamnés, dont certains ont depuis accompli leur peine et été libérés, seuls sept ont demandé l'asile et sont dans l'attente d'une décision de l'OFPRA. Ces personnes se trouvent dans une situation analogue à celle applicable à tous les demandeurs d'asile et peuvent bénéficier des droits sociaux afférents à leur situation ainsi que d'une couverture médicale. Enfin, deux des condamnés ont émis le souhait de retourner en Somalie et ont, à cet effet, présenté une demande de libération conditionnelle assortie d'une expulsion (article 729-2 du code de procédure pénale). L'un, à qui la mesure a été accordée, est actuellement en Somalie. L'autre, encore détenu, pourra, avec l'accord des autorités somaliennes, en bénéficier.
