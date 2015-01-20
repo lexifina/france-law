@@ -1,0 +1,9 @@
+# Réponse à la question n° 68917
+
+- Question : [68917](68917.md) — Question n° 68917 — prévention; incitation
+
+## Réponse
+
+*JO du 2015-01-20*
+
+Le Gouvernement est pleinement mobilisé pour prévenir les risques d'inondation et limiter leurs conséquences, que ce soit en termes de victimes humaines, de dégâts économiques ou d'atteintes à l'environnement. Le ministère de l'écologie, du développement durable et de l'énergie encourage déjà les actions de lutte contre le risque d'inondations, dont celles prises par les particuliers, notamment dans le cadre de la mise en oeuvre des plans de prévention des risques d'inondation. Selon l'article L. 561-3-I-4° du code de l'environnement, les crédits du fonds de prévention des risques naturels majeurs (FPRNM) peuvent contribuer au financement des études et travaux de prévention définis et rendus obligatoires par un plan de prévention des risques naturels prévisibles approuvé en application de l'article L. 562-1-II-4° de ce code sur des biens à usage d'habitation, dans la limite de 10 % de la valeur vénale de ces biens. L'article R. 561-15 du code de l'environnement précise que la contribution des crédits du fonds de prévention des risques naturels majeurs est de 40 % des dépenses éligibles réalisées sur des biens à usage d'habitation ou à usage mixte pour les études et travaux de prévention rendus obligatoires par un plan de prévention des risques naturels (PPRN), à la charge des particuliers. Cette contribution des crédits du FPRNM vise donc à aider des particuliers à réaliser les études et travaux de réduction de la vulnérabilité, lorsque celle-ci est officiellement établie par un PPRN. Les achats d'équipement de lutte contre les inondations par des particuliers peuvent être justifiés ponctuellement, mais sont souvent sans intérêt pour se protéger d'inondations majeures. Le Gouvernement n'entend donc pas financer de tels équipements.
