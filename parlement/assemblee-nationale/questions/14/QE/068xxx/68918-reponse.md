@@ -1,0 +1,9 @@
+# Réponse à la question n° 68918
+
+- Question : [68918](68918.md) — Question n° 68918 — financement; modalités
+
+## Réponse
+
+*JO du 2015-01-20*
+
+L'élaboration et la mise en oeuvre des plans de prévention des risques technologiques (PPRT) font partie des grandes priorités du ministère de l'écologie, du développement durable et de l'énergie. Ces plans, introduits par la loi du 30 juillet 2003 suite à la catastrophe d'AZF à Toulouse, ont pour objectif, en traitant les situations héritées du passé, d'améliorer et de pérenniser la coexistence de l'activité des sites industriels dits « à hauts risques » avec leurs riverains. Pour cela, les PPRT peuvent notamment prévoir dans les zones d'aléas les plus importants des mesures foncières (expropriations, délaissements) qui sont cofinancées par les exploitants à l'origine du risque, les collectivités percevant la contribution économique territoriale et l'État. La participation de chacun de ces financeurs est déterminée sur la base d'une convention ou à défaut par la loi. La loi portant diverses dispositions d'adaptation au droit de l'Union européenne (DDADUE), du 16 juillet 2013 a introduit la prise en compte des dépenses liées à la mise en sécurité ou à la démolition des biens concernés par ces mesures foncières dans le financement tripartite. Ainsi, il convient pour les PPRT approuvés, dont les conventions de financement auraient déjà été signées avant la parution de la loi DDADUE et qui par conséquent ne prévoient pas les coûts des mesures de mise en sécurité ou de démolition : - soit de procéder à un avenant à la convention (avec l'accord des différents financeurs) afin d'intégrer ces coûts additionnels ; - soit, à défaut, d'appliquer la répartition par défaut prévue par la loi pour ces coûts additionnels, dès qu'un cas se présente.
