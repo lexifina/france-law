@@ -1,0 +1,9 @@
+# Réponse à la question n° 10822
+
+- Question : [10822](10822.md) — Question n° 10822 — véhicules de fonction; statistiques
+
+## Réponse
+
+*JO du 2015-01-20*
+
+En application de la circulaire du Premier ministre en date du 2 juillet 2010 relative à l'État exemplaire « rationalisation de la gestion du parc automobile de l'État et de ses opérateurs », l'attribution individuelle des véhicules est désormais réalisée selon le seul critère des responsabilités exercées, selon un tableau figurant en annexe de ladite circulaire. Cette dernière insiste sur le fait que la nécessaire réduction des émissions de CO2 doit se conjuguer avec l'obligation de réduire les coûts de gestion du parc automobile. En effet, les émissions de CO2 sont totalement corrélées à la consommation en carburant, qui dépend, elle-même, essentiellement des dimensions et de la puissance du véhicule. Dans ce contexte, il a été demandé, d'une part, de limiter les dotations en véhicules puissants aux plus hautes autorités de l'État et, d'autre part, de réduire les segments de véhicules autorisés selon les fonctions exercées. Les véhicules concernés seront renouvelés régulièrement mais systématiquement aliénés et non recyclés pour l'usage interne. Depuis 2010, les ministères économiques et financiers respectent strictement les consignes édictées par le Premier ministre dans le cadre de cette circulaire. En novembre 2014, le nombre de véhicules attribués individuellement au sein du ministère des finances et des comptes publics est de 38. Le périmètre de référence est le suivant : - cabinet du ministre des finances et des comptes publics : 4 - cabinet du secrétaire d'Etat chargé du budget : 2 - directions et services placés sous l'autorité du ministre des finances et des comptes publics : 22 - directions et services placés sous l'autorité conjointe du ministre des finances et des comptes publics et du ministre de l'économie, de l'industrie et du numérique : 10.
