@@ -1,0 +1,9 @@
+# Réponse à la question n° 51683
+
+- Question : [51683](51683.md) — Question n° 51683 — maintien; Nîmes
+
+## Réponse
+
+*JO du 2015-01-20*
+
+La proximité de la justice par rapport au citoyen est une priorité fixée par le Président de la République et une préoccupation constante du Gouvernement. Depuis 2012, des juridictions ont été créées : les tribunaux de grande instance de Tulle, de Saint-Gaudens et de Saumur ont ouvert en septembre dernier. Des chambres détachées ont également été mises en place à Guingamp, Dôle, Marmande et Saint-Laurent-du-Maroni, et la chambre détachée de Millau ouvrira quant à elle le 1er janvier 2015. La garde des sceaux est ainsi dans une démarche inverse de celle du précédent gouvernement, en remettant de la justice de proximité, au plus près des besoins. Aucune suppression de tribunal de grande instance ou de cour d'appel n'est donc à ce jour à l'étude. La cour d'appel de Nîmes ne sera pas supprimée. C'est dans ce même objectif de proximité qu'a par ailleurs été engagée une réflexion sur l'organisation judiciaire de première instance, dans le cadre de laquelle les recommandations du rapport sur « Les juridictions du 21e siècle » ont été émises, et qui, après le débat national des 10 et 11 janvier derniers à la maison de l'Unesco à Paris, s'est poursuivie par les consultations des juridictions qui ont donné lieu à 2000 contributions. Le 10 septembre dernier, la garde des sceaux a présenté au conseil des ministres la réforme judiciaire « J21 », justice du 21e siècle, découlant de ces différentes concertations. Cette réforme comporte 15 actions pour une justice du quotidien plus proche, plus efficace et plus protectrice et se soucie notamment de la proximité de l'institution et de son accessibilité en facilitant les démarches des citoyens dans toutes les juridictions par l'accueil physique unique, en renforçant l'accès au droit et à la justice et en organisant l'évaluation des besoins de justice au niveau local.
