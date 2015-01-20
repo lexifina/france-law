@@ -1,0 +1,9 @@
+# Réponse à la question n° 944
+
+- Question : [944](944.md) — Question n° 944 — exonération; réglementation
+
+## Réponse
+
+*JO du 2015-01-20*
+
+Aux termes des dispositions de l'article 1380 du code général des impôts, la taxe foncière sur les propriétés bâties est établie annuellement sur les propriétés bâties situées en France à l'exception de celles qui en sont expressément exonérées. Aucun dispositif spécifique n'exonère les bâtiments désaffectés ou dégradés. Cela étant et conformément aux dispositions de l'article 1517 du code général des impôts, il est procédé annuellement à la constatation des changements de caractéristiques physiques de l'immeuble. Tel est le cas lorsque l'immeuble se dégrade, voire se délabre. En outre, une construction ne présentant plus les caractéristiques d'un véritable bâtiment ne peut être soumise à la taxe foncière sur les propriétés bâties au regard des principes régissant cette taxe. La situation des immeubles au regard de ces principes ne peut être résolue que par l'examen de chaque cas particulier. En tout état de cause, lorsque les bâtiments ou édifices menacent de ruine et qu'ils peuvent, par leur effondrement, compromettre la sécurité ou lorsque, d'une façon générale, ils n'offrent pas les garanties de solidité nécessaire au maintien de la sécurité publique, le maire peut en prescrire la réparation ou la démolition. Il résulte en effet des dispositions des articles L. 511-1 à L. 511-3 du code de la construction et de l'habitation que le maire dispose du pouvoir de procéder d'office et aux frais du propriétaire aux travaux de réparation ou de démolition d'un immeuble menaçant ruine, que le péril soit imminent ou non. L'utilisation de ses pouvoirs de police par le maire est susceptible de répondre de façon adéquate à la problématique soulevée par l'auteur de la question.
