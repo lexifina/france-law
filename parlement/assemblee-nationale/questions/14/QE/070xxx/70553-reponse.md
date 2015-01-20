@@ -1,0 +1,9 @@
+# Réponse à la question n° 70553
+
+- Question : [70553](70553.md) — Question n° 70553 — prévention; moyens
+
+## Réponse
+
+*JO du 2015-01-20*
+
+La lutte contre les inondations repose sur un ensemble de mesures de la politique de prévention des risques naturels dont, entre-autres, le financement des projets de travaux de réduction de la vulnérabilité. La Stratégie nationale de gestion des risques d'inondation présentée le 10 juillet dernier et, arrêtée le 7 octobre 2014 a pour objectif de renforcer et rendre le plus cohérent possible l'ensemble des actions de prévention et de gestion du risque inondation qui peuvent être mises en oeuvre. En termes de financement, à travers le dispositif des programmes d'action de prévention des inondations initié en 2002 et rénové en 2011, le ministère de l'écologie, du développement durable et de l'énergie accompagne de façon constante les collectivités porteuses de projets de qualité. Depuis 2011, 101 projets de programmes d'actions de prévention contre les inondations (PAPI) et opérations de confortement des digues ont été labellisés par la commission mixte inondation pour un montant global de 1 200 M€, et l'État s'est engagé à contribuer à hauteur de 480 millions d'euros, soit une aide financière de 40 % environ du montant des projets principalement sur le fonds de prévention des risques naturels majeurs. Les projets des collectivités font l'objet de dossiers répondant à un cahier des charges largement diffusé. Les dossiers sont à déposer auprès des services du préfet en charge de leur instruction avant d'être labellisés par la commission mixte inondation si leur montant total dépasse 3 M€. Dans le cas contraire le dossier est labellisé au niveau de l'instance de bassin. Pour l'avenir, l'État entend donc poursuivre son accompagnement financier sur l'ensemble du territoire pour les projets portés par les collectivités s'inscrivant dans les orientations de la stratégie nationale.
