@@ -1,0 +1,9 @@
+# Réponse à la question SEQ141113930
+
+- Question : [SEQ141113930](seq141113930.md) — Possibilité de superposer une aire de mise en valeur de l'architecture et du patrimoine à un site classé
+
+## Réponse
+
+*Culture et communication, JO du 2015-01-22, page 152*
+
+La loi n° 2010-788 du 12 juillet 2010 portant engagement national pour l'environnement, dite loi Grenelle II, a créé, en substitution au précédent dispositif de la zone de protection du patrimoine architectural, urbain et paysager (ZPPAUP), le dispositif de l'aire de mise en valeur de l'architecture et du patrimoine (AVAP) en lui conférant un statut de servitude d'utilité publique, statut qu'elle partage avec celui du site classé au titre du code de l'environnement. Dans ce cadre, et en l'absence de dispositions contraires, une superposition est tout à fait possible entre ces servitudes. Dans le silence des textes quant à une articulation particulière des modalités d'application de ces deux servitudes, celles-ci suivent leur propre régime d'instruction des demandes d'autorisation de travaux, l'AVAP, en application des articles L. 642-3 et D. 642-11 du code du patrimoine et le site classé, en application des articles L. 341-10, R. 341-10 et R. 341-12 du code de l'environnement. Dès lors, la question de la simplification des procédures se pose. Il est prévu, sans trahir aucun des objectifs poursuivis par chaque servitude, de privilégier l'application d'une de ces deux servitudes. Cette amélioration, menée en concertation avec le ministère de l'écologie, du développement durable et de l'énergie, nécessitera une modification des législations en vigueur. Des propositions visant à intégrer les procédures, en cas de superposition, seront ainsi présentées au Parlement dans le cadre du projet de loi portant sur la liberté de création, l'architecture et le patrimoine.
