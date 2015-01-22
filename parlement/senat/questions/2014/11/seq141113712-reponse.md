@@ -1,0 +1,9 @@
+# Réponse à la question SEQ141113712
+
+- Question : [SEQ141113712](seq141113712.md) — Partage de la contribution économique territoriale et financement des plans de prévention des risques technologiques
+
+## Réponse
+
+*Écologie, développement durable et énergie, JO du 2015-01-22, page 153*
+
+L'élaboration et la mise en œuvre des plans de prévention des risques technologiques (PPRT), font partie des grandes priorités du ministère de l'écologie, du développement durable et de l'énergie (MEDDE). Ces plans, introduits par la loi du 30 juillet 2003 suite à la catastrophe d'AZF à Toulouse, ont pour objectif, en traitant les situations héritées du passé, d'améliorer et de pérenniser la coexistence de l'activité des sites industriels dits « à hauts risques » avec leurs riverains. Pour cela, les PPRT peuvent notamment prévoir sur l'existant, dans les zones d'aléas les plus importants, des mesures foncières (expropriations, délaissements) et dans les zones d'aléas moindres des prescriptions de travaux. Les collectivités percevant tout ou partie de la contribution économique territoriale (CET), comme les industriels et l'État participent au financement de ces mesures en application de la loi. Pour déterminer les collectivités concernées par ce financement, et leur participation par défaut en l'absence de convention de financement, par cohérence avec les dispositions relatives à la répartition entre collectivités pour le financement des travaux (I bis de l'article L. 515-19 CE) et au financement des mesures foncières dont le montant est supérieur à 30 M € (7e alinéa de l'article L. 515-19 CE), le ministère considère que la CET à prendre en compte est toujours celle de l'année d'approbation du plan. Ceci n'empêche toutefois pas des accords entre les différentes collectivités, notamment lors de transfert de perception de CET d'une collectivité à une autre.
