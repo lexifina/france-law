@@ -1,0 +1,9 @@
+# Réponse à la question SEQ140109978
+
+- Question : [SEQ140109978](seq140109978.md) — Éligibilité des entreprises au crédit d'impôt compétitivité emploi
+
+## Réponse
+
+*Finances et comptes publics, JO du 2015-01-22, page 157*
+
+En application de l'article 244 quater C du code général des impôts, (CGI) peuvent bénéficier du crédit d'impôt pour la compétitivité et l'emploi (CICE) les entreprises soumises à l'impôt sur les bénéfices selon le régime du bénéfice réel. Il est calculé sur la base des rémunérations que les entreprises versent à leurs salariés au cours de l'année civile qui n'excèdent pas 2,5 fois le salaire minimum de croissance (SMIC) calculé pour un an sur la base de la durée légale du travail. Les associations dénommées « groupements d'employeurs », régies par les articles L. 1253-1 et suivants du code du travail ont pour principal objet de mettre du personnel salarié à la disposition de leurs membres pour les besoins de leur exploitation, et peuvent également apporter à leurs membres leur aide et leur conseil en matière d'emploi ou de gestion des ressources humaines. D'un point de vue fiscal, les groupements d'employeurs sont considérés comme exerçant une activité à caractère lucratif, indépendamment des précisions apportées par l'article L. 1253-1 du code du travail. Ils sont donc passibles du régime de droit commun de l'impôt sur les sociétés, comme indiqué au paragraphe n° 240 du Bulletin officiel des finances publiques BOI-IS-CHAMP-10-50-10-30-20120912. Ainsi, les groupements d'employeurs peuvent bénéficier du CICE pour les salariés qu'ils mettent à disposition d'une autre entreprise dès lors qu'ils exercent une activité lucrative non exonérée d'impôt sur les bénéfices, comme indiqué au paragraphe n° 120 du BOI-BIC-RICI-10-150-10-20131126. L'entreprise bénéficiaire de la mise à disposition du salarié ne peut, quant à elle, prétendre au crédit d'impôt, y compris lorsque la rémunération est remboursée à l'employeur.
