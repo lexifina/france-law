@@ -1,0 +1,9 @@
+# Réponse à la question SEQ131109091
+
+- Question : [SEQ131109091](seq131109091.md) — Conséquences de la suppression du régime fiscal de faveur pour les associations fiscalisées en cas de fusion
+
+## Réponse
+
+*Finances et comptes publics, JO du 2015-01-22, page 157*
+
+Conformément à l'article 210-0 A du code général des impôts (CGI), le régime fiscal de faveur des fusions est réservé aux opérations de restructuration qui se caractérisent par la transmission de l'ensemble du patrimoine d'une ou plusieurs sociétés au profit d'une autre société, moyennant l'attribution de titres de la société absorbante aux associés de la société absorbée (et éventuellement une soulte en espèces) et sous réserve que les sociétés parties à l'opération soient passibles de l'impôt sur les sociétés (IS) en application des dispositions de l'article 210 C du CGI. Or, la condition légale tenant à l'émission de titres, en contrepartie des apports, fait défaut dans le cas d'opérations de restructuration entre associations, celles-ci étant démunies de capital social. Toutefois, l'administration fiscale a modifié la doctrine commentant le régime spécial des fusions au BOI-IS-FUS-10-20-20-20140613, afin d'accorder le bénéfice de ce régime aux opérations de fusions, scissions et apports partiels d'actifs de plusieurs associations régies par la loi du 1er juillet 1901 ainsi qu'à celles régies par la loi locale maintenue en vigueur dans les départements de la Moselle, du Bas-Rhin et du Haut-Rhin, lorsque ces associations sont soumises à l'impôt sur les sociétés au taux de droit commun. Ainsi, l'application du régime fiscal de faveur prévu aux articles 210 A et suivants du CGI aux fusions et opérations assimilées entre associations permet d'assurer leur neutralité fiscale en accordant un sursis d'imposition des plus-values nettes et des profits dégagés sur l'ensemble des éléments d'actifs apportés lors de l'opération.
