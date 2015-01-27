@@ -1,0 +1,9 @@
+# Réponse à la question n° 68527
+
+- Question : [68527](68527.md) — Question n° 68527 — relevés annuels; informations; perspectives
+
+## Réponse
+
+*JO du 2015-01-27*
+
+Même si il n'existe pas de présentation harmonisée des relevés annuels d'opérations au titre des PEL, les relevés annuels comportent les informations essentielles à la bonne information des titulaires de plan d'épargne logement (PEL). Concernant les PEL souscrits avant le 12 décembre 2002 pour lesquels le versement de la prime est automatique à la clôture du plan, les mentions figurant généralement sur les relevés annuels sont les suivantes : date d'ouverture du plan, montant des intérêts annuels versés, montant de la fiscalité prélevée, solde du plan à date du relevé. L'existence de la prime acquise est rappelée sans indication de montant. Concernant les relevés annuels des PEL souscrits depuis le 12 décembre 2002 pour lesquels le versement de la prime est conditionné notamment à la souscription d'un prêt d'épargne-logement, les relevés précisent la date d'ouverture du plan, les versements réguliers et exceptionnels effectués, les intérêts annuels versés, la fiscalité prélevée, le solde du plan à date du relevé ; le taux de rémunération du plan et la mention sur la faculté qu'a le titulaire du plan de demander une prime d'Etat en cas de souscription d'un prêt d'épargne-logement. La non indication du montant de la prime est justifiée dans la mesure où dans le cas des plans anciens, c'est à la clôture du PEL que la prime est calculée sur la base des intérêts acquis, tandis que pour les plans postérieurs au 12 décembre 2002 la prime n'est que potentielle, son calcul n'aurait donc pas véritablement de sens pendant la phase d'épargne. Par ailleurs, il est précisé que les banques ne prélèvent aucun frais de gestion sur les PEL.
