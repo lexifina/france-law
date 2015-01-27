@@ -1,0 +1,9 @@
+# Réponse à la question n° 36332
+
+- Question : [36332](36332.md) — Question n° 36332 — rapport IGAS; préconisations
+
+## Réponse
+
+*JO du 2015-01-27*
+
+Le dossier pharmaceutique (DP) est un outil professionnel destiné à sécuriser la dispensation des médicaments au bénéfice de la santé des patients. Le DP est disponible dans les officines et les pharmacies à usage intérieur des établissements. L'objectif est d'assurer la sécurité de la dispensation des médicaments, qu'ils soient délivrés en pharmacie de ville ou en pharmacie d'établissement de santé, en donnant accès au pharmacien, avec l'accord du patient, aux médicaments dispensés dans les 4 mois qui précèdent. Au 9 décembre 2013, 29,7 millions de DP ont été créés, 98,3 % des officines et 86 PUI (dont 15 CHU et 122 conventions signées) sont connectées. La durée de conservation des données, actuellement limitée à 4 mois, pourrait être étendue à 6 ou 12 mois. Sous l'égide de la direction générale de l'offre de soins et en collaboration avec le conseil national de l'ordre des pharmaciens, le DP est actuellement expérimenté dans les unités de soins de 55 établissements (en gériatrie, anesthésie, réanimation et urgences) afin de tester l'apport de sa consultation pour le corps médical. Une évaluation qui devrait être disponible au 1er semestre 2015 permettra de mesurer l'impact de cet accès et de réfléchir à son devenir. Une réflexion sera engagée sur la mise à disposition du dossier pharmaceutique dans les établissements d'hébergement pour personnes âgées dépendantes. Il s'agit d'une proposition portée par la ministre des affaires sociales et de la santé et des droits des femmes et la secrétaire d'Etat chargée des personnes âgées dans le cadre du projet de « plan national d'action pour une politique du médicament adaptée aux besoins des personnes âgées » qui accompagne le projet de loi relatif à l'adaptation de la société au vieillissement.
