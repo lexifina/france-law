@@ -1,0 +1,9 @@
+# Réponse à la question n° 72755
+
+- Question : [72755](72755.md) — Question n° 72755 — salaires; revalorisation; perspectives
+
+## Réponse
+
+*JO du 2015-01-27*
+
+La ministre des affaires sociales, de la santé et des droits des femmes et la secrétaire d'Etat chargée de la famille, des personnes âgées et de l'autonomie, ont agréé l'avenant salarial signé le 27 novembre 2014 par les partenaires sociaux de la branche de l'aide et des soins à domicile (BAD). L'agrément est paru au Journal officiel du 1er janvier 2015. Cet accord revalorise de 1%, à compter du 1er juillet 2014, la valeur du point qui n'avait pas évolué depuis avril 2009. Le précédent avenant signé le 18 avril 2014 n'avait pas pu être agréé car il comprenait un effet rétroactif au 1er janvier 2014 incompatible avec le taux d'évolution de la masse salariale du secteur défini pour l'année 2014. Cette mesure profitera aux 230 000 salariés de cette branche professionnelle, dont 97 % de femmes, qui accompagnent au quotidien à leur domicile les personnes fragilisées, en majorité des personnes âgées, qui souhaitent vivre chez elles le plus longtemps possible. Pour compenser le coût auprès des départements, principaux financeurs des services d'aide à domicile, l'Etat revalorisera le montant de la compensation de l'allocation personnalisée d'autonomie (APA) aux conseils généraux à hauteur de 25 millions d'euros par an dès 2015, comme cela est prévu dans le cadre de la loi d'adaptation de la société au vieillissement, votée en première lecture à l'Assemblée nationale en septembre 2014. Cette mesure s'inscrit en faveur du pouvoir d'achat et de l'emploi dans le secteur non lucratif de l'aide et des soins à domicile auprès des publics fragiles. Elle reconnait les efforts de professionnalisation et l'importante transformation que le secteur conduit actuellement avec le soutien de l'Etat et des départements, illustrant un changement de regard et une valorisation des métiers liés au grand âge.
