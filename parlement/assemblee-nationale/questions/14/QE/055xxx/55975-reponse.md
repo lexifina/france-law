@@ -1,0 +1,9 @@
+# Réponse à la question n° 55975
+
+- Question : [55975](55975.md) — Question n° 55975 — oeuvres cinématographiques; diffusions; CSA; rapport; propositions
+
+## Réponse
+
+*JO du 2015-01-27*
+
+La chronologie des médias constitue un pilier essentiel du système vertueux de préfinancement des oeuvres cinématographiques en France. Cette chronologie, résultant d'un accord interprofessionnel étendu par arrêté, repose sur la cohérence et la proportionnalité des différentes fenêtres d'exploitation vis-à-vis du poids et des obligations de chacun dans le préfinancement des oeuvres. Lors du premier trimestre 2014, le Centre national du cinéma et de l'image animée (CNC) a rencontré formellement l'ensemble des organisations professionnelles et sociétés signataires de l'accord du 6 juillet 2009, ainsi que la SACD et l'ARP. Durant cette phase d'échanges bilatéraux, le CNC a recueilli les positions de ces acteurs et sondé auprès d'eux des hypothèses de travail relatives à des évolutions de l'accord, notamment celles formulées dans le cadre des rapports récents de Monsieur Pierre Lescure et de Monsieur René Bonnell, relatives en particulier à la vidéo à la demande (VàD), à l'acte et par abonnement. A l'issue de ce processus et en vue d'une seconde phase de négociations qui pourrait, en cas de succès, conduire à la signature d'un avenant global à l'accord actuel, un ensemble de propositions d'évolution a été transmis aux professionnels, vis-à-vis desquelles ceux-ci doivent désormais se positionner. Ces propositions doivent permettre de favoriser un accès plus rapide, plus lisible et plus continu aux oeuvres, plus en phase avec les attentes du public, tout en confortant le principe vertueux qui lie l'accès aux oeuvres au préfinancement de celles-ci, le préfinancement constituant l'un des socles de la diversité de la production.
