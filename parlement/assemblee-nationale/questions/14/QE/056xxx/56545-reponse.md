@@ -1,0 +1,9 @@
+# Réponse à la question n° 56545
+
+- Question : [56545](56545.md) — Question n° 56545 — enseignants; titularisation; conditions
+
+## Réponse
+
+*JO du 2015-01-27*
+
+Deux voies de titularisation peuvent aujourd'hui être proposées aux agents contractuels exerçant des fonctions d'enseignement. Les professeurs contractuels de l'éducation nationale souhaitant être titularisés peuvent se présenter aux concours internes de recrutement, sous réserve de remplir les conditions statutaires requises, notamment en termes d'ancienneté de service et de niveau de diplôme. Par ailleurs, la loi n° 2012-347 du 12 mars 2012 relative à l'accès à l'emploi titulaire et à l'amélioration des conditions d'emploi des agents contractuels dans la fonction publique, à la lutte contre les discriminations et portant diverses dispositions relatives à la fonction publique, met en place depuis 2013 et jusqu'en 2016 des concours de recrutement réservés aux agents contractuels en CDI à la date du 31 mars 2011, ou aux agents justifiant de quatre années d'ancienneté de services publics sur les six dernières années. Dans ce dernier cas, deux années doivent avoir été accomplies avant le 31 mars 2011. Les sessions 2013 et 2014 de concours réservés ont respectivement permis le recrutement de 2611 et 1906 professeurs, premier et second degrés confondus. Ces deux voies de recrutement offrent une possibilité de titularisation à celles et ceux qui enseignent déjà en qualité de contractuels par le biais notamment d'épreuves davantage axées sur la professionnalisation que celles proposées aux concours externes. Une épreuve de reconnaissance des acquis de l'expérience professionnelle (RAEP) permet ainsi d'évaluer le candidat en fonction de la qualité des services accomplis et de l'expérience acquise en tant que professeur contractuel.
