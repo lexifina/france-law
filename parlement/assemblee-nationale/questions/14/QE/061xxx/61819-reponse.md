@@ -1,0 +1,9 @@
+# Réponse à la question n° 61819
+
+- Question : [61819](61819.md) — Question n° 61819 — épreuves écrites; anonymat des copies
+
+## Réponse
+
+*JO du 2015-01-27*
+
+Selon la jurisprudence administrative, s'il existe un principe général du droit qui consacre l'anonymat des copies dans les concours, celui-ci n'a pas été étendu aux examens universitaires. Dans ce dernier cas, le juge administratif reconnait seulement le principe d'égalité de traitement des candidats, estimant que les candidats se trouvant dans la même situation doivent être soumis aux mêmes règles sauf cas très particuliers liés par exemple au handicap. La haute juridiction administrative veille attentivement au respect par les jurys des dispositions applicables aux examens universitaires. S'agissant notamment de la seconde année de master, l'arrêté du 25 avril 2002 relatif au diplôme national de master modifié par l'arrêté du 22 janvier 2014 prévoit dans son article 6 que les modalités de contrôle des connaissances et des aptitudes figurent dans la demande d'habilitation du diplôme de master. Compte tenu de la récente réforme substituant l'accréditation à l'habilitation, il convient de citer également l'arrêté du 22 janvier 2014 fixant les modalités d'accréditation d'établissement d'enseignement supérieur, dont l'annexe impose à chaque établissement de présenter ses propres modalités de contrôle des connaissances, validées par la commission de la formation et de la vie universitaire du conseil académique conformément à l'article L. 712-6-1 du code de l'éducation. Ces modalités de contrôle des connaissances sont obligatoirement portées à la connaissance des étudiants au plus tard à la fin du premier mois d'enseignement (article L. 613-1 du code de l'éducation). Cette procédure assure une coordination au niveau national des règles en vigueur dans chaque établissement.
