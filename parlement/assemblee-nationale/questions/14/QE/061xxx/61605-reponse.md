@@ -1,0 +1,9 @@
+# Réponse à la question n° 61605
+
+- Question : [61605](61605.md) — Question n° 61605 — zones rurales
+
+## Réponse
+
+*JO du 2015-01-27*
+
+Le ministère de la culture et de la communication, par l'intermédiaire du Centre national du cinéma et de l'image animée (CNC) a toujours veillé à favoriser et maintenir la pluralité de la diffusion cinématographique, ainsi que la diversité du parc cinématographique. Dans ce but, le CNC a mis en place des dispositifs de soutien financier aux salles (soutien automatique à l'exploitation, aide sélective à la création et à la modernisation des salles, aide aux salles classées art et essai). En outre, les dispositions de nature législative relatives à l'implantation et à la construction des établissements de spectacles cinématographiques soumettent les autorisations à l'examen de l'effet potentiel sur la diversité cinématographique offerte aux spectateurs. Il faut ajouter que la loi n° 2014-626 du 18 juin 2014 relative à l'artisanat, au commerce et aux très petites entreprises a affirmé, dans le cadre du dispositif d'aménagement commercial en matière cinématographique, l'objectif du maintien et de la protection du pluralisme dans le secteur de l'exploitation cinématographique. Plus spécifiquement, la question précise de l'accès des salles rurales aux films art et essai dits porteurs et aux films populaires retient toute l'attention du CNC. Cette question est notamment examinée dans le cadre de la réflexion collective menée suite aux Assises pour la diversité du cinéma. Sans attendre les réformes et mesures qui pourront se dessiner suite à ces travaux, le CNC maintient son soutien financier à l'Agence pour le développement régional du cinéma (ADRC) qui déploie une activité accrue de soutien à l'accès des salles aux films par le financement de copies supplémentaires à l'attention des salles rurales et des petites villes.
