@@ -1,0 +1,9 @@
+# Réponse à la question n° 47749
+
+- Question : [47749](47749.md) — Question n° 47749 — aide à domicile; avenant; contenu
+
+## Réponse
+
+*JO du 2015-01-27*
+
+Depuis le 1er janvier 2012 les salariés des associations d'aide à domicile relèvent d'une seule convention collective de branche qui a permis d'unifier les dispositions conventionnelles applicables aux salariés du secteur. Le Gouvernement a marqué son engagement au profit de la valorisation des carrières des salariés de l'aide à domicile en agréant l'avenant salarial du 27 novembre 2014 emportant une augmentation du point de 1 % à compter du 1er juillet 2014. Il s'agit de la première revalorisation du point depuis avril 2009. Par ailleurs, le Gouvernement a lancé le 27 mars 2014 le plan des métiers de l'autonomie, qui s'inscrit pleinement dans la bataille pour l'emploi. Il répond à trois enjeux essentiels : faire évoluer les métiers au service des nouveaux objectifs portés par les politiques de l'âge et du handicap ; s'appuyer sur le dialogue social pour améliorer les conditions de travail et lutter contre la précarité ; soutenir l'effort de création d'emplois sur le secteur de l'accompagnement de l'autonomie des personnes âgées ou handicapées. Ce dernier objectif s'est concrétisé au travers de la signature d'un engagement de développement de l'emploi et des compétences (EDEC) entre l'Etat et les partenaires sociaux. La préparation de cet accord cadre a permis de réunir les branches intervenant dans le champ de l'autonomie, dont l'USB, union syndicale des employeurs de la branche de l'accompagnement des soins et des services à domicile et les quatre organismes paritaires collecteurs agréés (ACTALIANS, AGEFOS-PME, UNIFAF, UNIFORMATION). Ces actions seront cofinancées par l'Etat et les partenaires sociaux pour un montant total de 6 millions d'euros.
