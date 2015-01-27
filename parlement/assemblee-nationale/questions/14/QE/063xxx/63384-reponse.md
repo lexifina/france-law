@@ -1,0 +1,9 @@
+# Réponse à la question n° 63384
+
+- Question : [63384](63384.md) — Question n° 63384 — contrat de gérance-mandat; sous-traitance
+
+## Réponse
+
+*JO du 2015-01-27*
+
+Si le contrat de gérance-mandat est présumé être un contrat de services, et non un contrat de travail, cette présomption simple peut être renversée, selon une jurisprudence constante, si l'autonomie fait défaut au gérant-mandataire dans l'exercice de sa mission. Le contrat de gérance-mandat est alors requalifié en contrat de travail. Dans le prolongement de cette analyse, lorsque le gérant-mandataire fait lui-même appel à un entrepreneur pour le remplacer pendant ses congés, ce dernier risque de se trouver en situation de subordination à l'égard du titulaire de la gérance-mandat, plutôt qu'en situation de véritable sous-traitant. Il est en effet recruté par le gérant-mandataire et exerce ses fonctions sous son contrôle et sa responsabilité pendant une durée limitée, la responsabilité de la gestion du fonds de commerce restant, en principe, confiée au gérant-mandataire. Néanmoins, ce constat relève d'une appréciation au cas par cas. Les redressements auxquels ont pu donner lieu certaines situations de cet ordre n'apparaissent donc pas injustifiés. Il en va tout autrement du recours à la véritable sous-traitance, qui suppose un exercice véritablement autonome par un professionnel exerçant en pleine responsabilité juridique par le sous-traitant désigné, qui prend lui-même l'initiative de conclure un tel contrat avec un gérant-mandataire. Les entrepreneurs relevant du régime micro-social (« auto-entrepreneurs » désormais dénommés « micro-entrepreneurs ») sont des entrepreneurs individuels qui exercent une activité par nature indépendante : ce régime ne saurait donc être utilisé, sous des modalités diverses, à des fins d'externalisation d'emplois normalement occupés par des salariés.
