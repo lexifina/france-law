@@ -1,0 +1,9 @@
+# Réponse à la question n° 71050
+
+- Question : [71050](71050.md) — Question n° 71050 — procédures administratives; simplification
+
+## Réponse
+
+*JO du 2015-01-27*
+
+La complexité des réglementations actuellement en vigueur est le reflet de la prise en compte dans l'action publique tant d'intérêts généraux divers que de situations particulières toujours plus nombreuses. C'est pourquoi, un effort de simplification du droit et des relations entre les citoyens et l'administration est nécessaire afin d'éviter que ce mouvement naturel de complexification n'induise à terme de paralysie. C'est dans cet esprit que le Gouvernement mène une politique de simplification de la vie des entreprises, comme de celle des particuliers, ambitieuse et dynamique. En ce qui concerne plus spécifiquement les agriculteurs, la simplification est menée tant sur le plan de l'allègement du droit que sur celui de la simplification des procédures. Parmi les chantiers de simplification actuellement en cours pour le compte du ministère de l'agriculture, de l'agroalimentaire et de la forêt (MAAF), il faut citer particulièrement l'accès facilité à l'ensemble des démarches par le nouveau site internet « Mes démarches », un accès facilité à la réglementation via le site « Bo-agri », une refonte des formulaires du MAAF afin de les rendre plus clairs et plus faciles à renseigner, et le développement de nombreuses téléprocédures, dont l'amélioration permanente du téléservice « Télépac » qui sécurise et simplifie le dépôt des dossiers de demandes d'aides au titre de la politique agricole commune. Ainsi, le MAAF s'engage-t-il fortement pour simplifier les démarches face aux difficultés précisément dénoncées par les professionnels agricoles dans son domaine de compétence. Un comité ministériel de suivi est réuni régulièrement pour suivre l'avancée de ce chantier.
