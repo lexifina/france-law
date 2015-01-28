@@ -38,7 +38,9 @@ RPA et opérateur, bovins/équidés-manipulations et soins-mise à mort-complém
 
 |
 
-RPA et opérateur, ovins/caprins-manipulations et soins-mise à mort-complément sans étourdissement |
+RPA et opérateur, ovins/caprins-manipulations et soins-mise à mort-complément sans étourdissement
+
+|
 
 //
 
@@ -226,11 +228,13 @@ RPA et opérateur, porcins-manipulations et soins-mise à mort
 
 |
 
-Institut de formation des métiers du secteur associatif juif - SIF, 9, rue Vauquelin, 75005 Paris |
+Institut de formation des métiers du secteur associatif juif - SIF, 9, rue Vauquelin, 75005 Paris
+
+|
 
 Opérateur, bovins, manipulations et soins, mise à mort, complément sans étourdissement
 
-Opérateur, ovins/ caprins, manipulations et soins, mise à mort, complément sans étourdissement
+Opérateur, ovins/caprins, manipulations et soins, mise à mort, complément sans étourdissement
 
 Opérateur, volailles, manipulations et soins, mise à mort, complément sans étourdissement
 
@@ -244,9 +248,11 @@ Opérateur, volailles, manipulations et soins, mise à mort, complément sans é
 
 |
 
-Zoopôle Développement, ISPAÏA, Zoopôle Les Croix, 2, rue Jean-Rostand, BP 7,22440 Ploufragan |
+Zoopôle Développement, ISPAÏA, Zoopôle Les Croix, 2, rue Jean-Rostand, BP 7,22440 Ploufragan
 
-RPA et opérateur, bovins/ équidés, manipulations et soins, mise à mort, complément sans étourdissement
+|
+
+RPA et opérateur, bovins/équidés, manipulations et soins, mise à mort, complément sans étourdissement
 
 RPA et opérateur, ovins/ caprins, manipulations et soins, mise à mort, complément sans étourdissement
 
@@ -262,7 +268,9 @@ RPA et opérateur, porcins, manipulations et soins, mise à mort
 
 |
 
-SECURITEAM, 12, rue Nationale, 41150 Rilly-sur-Loire |
+SECURITEAM, 12, rue Nationale, 41150 Rilly-sur-Loire
+
+|
 
 RPA et opérateur, bovins/ équidés, manipulations et soins, mise à mort, complément sans étourdissement
 
@@ -296,25 +304,15 @@ RPA et opérateur, lagomorphes/ rongeurs, manipulations et soins, mise à mort, 
 
 |
 
-RG Consulting France, La Martinais, 22130 Corseul |
-
-RPA et opérateur, volailles, manipulations et soins, mise à mort, complément sans étourdissement
-
-RPA et opérateur, lagomorphes/rongeurs, manipulations et soins, mise mort, complément sans étourdissement |
-
-15 novembre 2013
+RG Consulting France, La Martinais, 22130 Corseul
 
 |
 
-14 novembre 2018 |
+RPA et opérateur, volailles, manipulations et soins, mise à mort, complément sans étourdissement
 
-AFORVIA, BP 20, 72401 La Ferté-Bernard Cedex |
+RPA et opérateur, lagomorphes/rongeurs, manipulations et soins, mise mort, complément sans étourdissement
 
-Opérateur, bovins/équidés, manipulations et soins, mise à mort, complément sans étourdissement
-
-Opérateur, ovins/caprins, manipulations et soins, mise à mort, complément sans étourdissement
-
-Opérateur, porcins, manipulations et soins, mise à mort |
+|
 
 15 novembre 2013
 
@@ -324,9 +322,33 @@ Opérateur, porcins, manipulations et soins, mise à mort |
 
 |
 
-SOCSA Agroalimentaire, 11, rue d'Ariane, 31240 L'Union |
+AFORVIA, BP 20, 72401 La Ferté-Bernard Cedex
 
-RPA et opérateur, volailles, manipulations et soins, mise à mort, complément sans étourdissement |
+|
+
+Opérateur, bovins/équidés, manipulations et soins, mise à mort, complément sans étourdissement
+
+Opérateur, ovins/caprins, manipulations et soins, mise à mort, complément sans étourdissement
+
+Opérateur, porcins, manipulations et soins, mise à mort
+
+|
+
+15 novembre 2013
+
+|
+
+14 novembre 2018
+
+|
+
+SOCSA Agroalimentaire, 11, rue d'Ariane, 31240 L'Union
+
+|
+
+RPA et opérateur, volailles, manipulations et soins, mise à mort, complément sans étourdissement
+
+|
 
 15 novembre 2013
 
@@ -340,11 +362,15 @@ ALIQUA
 
 3, chemin du Paradis
 
-27220 La Boissière |
+27220 La Boissière
+
+|
 
 RPA et opérateur, volailles, manipulations et soins, mise à mort, complément sans étourdissement.
 
-RPA et opérateur, lagomorphes/rongeurs, manipulations et soins, mise à mort, complément sans étourdissement. |
+RPA et opérateur, lagomorphes/rongeurs, manipulations et soins, mise à mort, complément sans étourdissement.
+
+|
 
 27 janvier 2014
 
@@ -362,15 +388,25 @@ Grande Rue
 
 |
 
-Opérateur, volailles-manipulations et soins |
+Opérateur, volailles-manipulations et soins
 
-19 mai 2014 |
+|
 
-18 mai 2019 |
+19 mai 2014
 
-Marc LE MÉZO, 5, rue du Genévrier, 84000 Avignon |
+|
 
-Opérateur, ovins/ caprins-manipulations et soins-mise à mort-complément sans étourdissement |
+18 mai 2019
+
+|
+
+Marc LE MÉZO, 5, rue du Genévrier, 84000 Avignon
+
+|
+
+Opérateur, ovins/caprins-manipulations et soins-mise à mort-complément sans étourdissement
+
+|
 
 1er août 2014
 
@@ -387,3 +423,25 @@ RPA et opérateur, volailles, manipulations et soins, mise à mort, complément 
 28 octobre 2014 |
 
 27 septembre 2019 |
+
+RCServices Formation, 23, rue Olivier-de-Serres, ZAC de la Buzenière, BP 539,85500 Les Herbiers.
+
+|
+
+RPA et opérateur, bovins/équidés, manipulation et soins, mise à mort, complément sans étourdissement.
+
+RPA et opérateur, ovins/caprins, manipulation et soins, mise à mort, complément sans étourdissement.
+
+RPA et opérateur, porcins, manipulation et soins, mise à mort.
+
+RPA et opérateur, lagomorphes/rongeurs, manipulation et soins, mise à mort, complément sans étourdissement.
+
+|
+
+15 janvier 2015
+
+|
+
+14 janvier 2020
+
+|
