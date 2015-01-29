@@ -72,7 +72,7 @@ Le délégué général pour l'armement.
 
 Le secrétaire général pour l'administration.
 
-Le directeur chargé des affaires stratégiques.
+Le directeur général des relations internationales et de la stratégie.
 
 |
 
