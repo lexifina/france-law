@@ -1,243 +1,1021 @@
 # Article Annexe II
 
-PROGRAMME DE LA SCOLARITÉ DES ADJOINTS DE SÉCURITÉ
+RÈGLEMENT DES ÉPREUVES SPORTIVES
 
-I. ― Les fondamentaux
+I. ― Conditions générales
 
-Fondamentaux 1 : relatifs à l'institution :
+Tout candidat devra être en possession d'un certificat médical d'aptitude délivré par un médecin de son choix.
 
-― les ateliers de l'incorporation ;
+La chronologie de réalisation des épreuves est la suivante :
 
-― les ressources de l'école et ses normes de fonctionnement ;
+― épreuve n° 1 : test de résistance musculaire en isométrie ;
 
-― l'organisation et le découpage de la scolarité des ADS ;
+― épreuve n° 2 : test d'endurance cardio-respiratoire.
 
-― l'utilisation des notes de cours ;
+La note finale attribuée au candidat est la moyenne des notes obtenues au test de résistance musculaire en isométrie et au test d'endurance cardio-respiratoire.
 
-― les corps, grades et marques de respect ;
+Est éliminatoire :
 
-― les mouvements d'ordre serré ;
+― toute moyenne strictement inférieure à 7/20 ;
 
-― les services chargés des missions de sécurité ;
+― toute note strictement inférieure à 7/20 à l'un des deux tests.
 
-― l'organisation et les missions de la police nationale ;
+Avant le commencement du premier test, le responsable en activités physiques et professionnelles en charge de la réalisation des épreuves, dirigera des exercices visant exclusivement l'échauffement musculaire et articulaire des candidats. En effet, est à proscrire tout échauffement cardio-respiratoire de nature à compromettre la bonne réalisation du deuxième test.
 
-― l'organisation d'une circonscription de sécurité publique ;
+Chaque test doit être démontré et expliqué par l'évaluateur préalablement à sa réalisation.
 
-― la rédaction d'un rapport administratif ;
+Seront observées quinze minutes de récupération passive entre la fin du premier test et le commencement du second.
 
-― les règles générales d'emploi des ADS ;
+II. ― Epreuve n° 1 : test de résistance musculaire
 
-― les règles relatives à la déontologie policière ;
+Le test consiste à se tenir en appui facial le plus longtemps possible.
 
-― les caractéristiques du facteur humain en intervention ;
+Le candidat prend la position allongée, bras perpendiculaires au sol (position dite des pompes ) positionnant ses mains (mains nues) à l'aplomb de ses épaules, les pieds en appui contre un plan vertical fixe. L'écartement des pieds correspond à la largeur du bassin. Tout en maintenant la position exacte de ses deux mains au sol, le candidat se met en appui au sol sur ses deux genoux puis avance chaque main d'une distance équivalente à la longueur de deux mains en appui au sol (soit deux fois la mesure prise de l'arrière de la paume à l'extrémité de l'index).
 
-― les causes, mécanismes et conséquences du stress ;
+Le candidat doit prendre et respecter la rectitude jambes-corps-tête, bras et jambes tendus.
 
-― les stratégies relationnelles adaptées ;
+La performance enregistrée est le temps de maintien de cette position dans le respect du règlement précité. La prise de position, avant le déclenchement du chronomètre, sera corrigée par l'évaluateur. Un seul essai est autorisé.
 
-― les dynamiques de groupes dans le cadre des relations professionnelles et des relations avec la population ;
+Le non-respect des consignes, observé et signalé à un candidat à deux reprises, entraîne l'arrêt immédiat du test pour le candidat concerné. Le temps relevé à l'occasion de cette fin d'épreuve est alors retenu pour la notation.
 
-― réagir face aux détresses ; .
+Les temps enregistrés sont arrondis à la fraction des cinq secondes supérieures :
 
-― les fondements démocratiques ;
+Exemple : 1 37''sur le chronomètre donne une performance de 1 40''.
 
-― les différents syndicats.
+Barèmes du test de résistance musculaire :
 
-Fondamentaux 2 : relatifs aux principes de droit pénal général :
+NOTE FEMMES
 
-― les éléments constitutifs de l'infraction ;
+|
 
-― la classification tripartite des infractions ;
+PERFORMANCE RÉALISÉE
 
-― la tentative punissable ;
+|
 
-― les règles d'utilisation du code pénal ;
+NOTE HOMMES
 
-― les différentes qualifications judiciaires du policier ;
+|
 
-― l'organisation judiciaire de la France ;
+1
 
-― la légitime défense.
+|
 
-Fondamentaux 3 : relatifs aux techniques d'intervention :
+0 45''
 
-― les éléments de prise de décision préalables à l'intervention ;
+|
 
-― le principe de protection, liaison, interpellation ;
+0
 
-― la palpation de sécurité ;
+|
 
-― le menottage.
+2
 
-Fondamentaux 4 : relatifs au secourisme :
+|
 
-― les gestes techniques de protection ;
+0 50''
 
-― la procédure d'alerte ;
+|
 
-― les techniques liées à une victime qui s'étouffe ;
+0
 
-― les techniques liées à une victime saignant abondamment ;
+|
 
-― les techniques liées à une victime inconsciente respirant ;
+3
 
-― les techniques liées à une victime inconsciente ne respirant pas ;
+|
 
-― le questionnement lié à une victime qui se plaint.
+0 55''
 
-II. ― Les situations professionnelles
+|
 
-Situation 1 : accueillir le public :
+0
 
-― la situation d'accueil au commissariat ;
+|
 
-― les différentes catégories de publics ;
+4
 
-― les principes d'une communication interpersonnelle ;
+|
 
-― les différents formulaires et registres ;
+1 00''
 
-― les principes d'une communication téléphonique efficace ;
+|
 
-― les tests de discrimination à l'encontre d'une personne ;
+0
 
-― les services partenaires et leurs compétences ;
+|
 
-― la gestion des conflits et du stress.
+5
 
-Situation 2 : effectuer une patrouille :
+|
 
-― les différents types de patrouille ;
+1 05''
 
-― les moyens radioélectriques ;
+|
 
-― les principaux fichiers ;
+0
 
-― les compétences des ADS en matière de circulation routière ;
+|
 
-― les infractions au stationnement ;
+6
 
-― le signalement descriptif ;
+|
 
-― l'activité partenariale ;
+1 10''
 
-― la rédaction d'un rapport d'information ;
+|
 
-― les principales substances psychoactives et leurs effets ;
+0
 
-― la notion de discernement dans la conduite des véhicules ;
+|
 
-― la prise en charge d'un individu en état d'ivresse ;
+7
 
-― les gestes techniques adaptés à l'interpellation d'un piéton ;
+|
 
-― le transport d'un ou plusieurs individus à bord d'un véhicule de police ;
+1 15''
 
-― le relevé, le contrôle et la vérification d'identité ;
+|
 
-― la découverte d'un objet suspect ;
+1
 
-― la rédaction d'une main courante ;
+|
 
-― l'impact des préjugés et des stéréotypes.
+8
 
-Situation 3 : participer aux missions de sécurité routière :
+|
 
-― la découverte de la situation professionnelle relative à la circulation routière ;
+1 20''
 
-― le cadre légal du contrôle routier ;
+|
 
-― les conditions de mise en fourrière d'un véhicule ;
+2
 
-― les gestes techniques d'interception d'un véhicule lors d'une patrouille pédestre ;
+|
 
-― les règles d'utilisation du code de la route ;
+9
 
-― les différentes pièces afférentes à la conduite et à la circulation des véhicules ;
+|
 
-― les infractions liées à la conduite et aux équipements des véhicules ;
+1 25''
 
-― la rédaction des procès-verbaux simplifiés de couleur rose ;
+|
 
-― les modalités de mise en œuvre de l'amende forfaitaire ;
+3
 
-― les différents moyens lumineux et leurs règles d'utilisation ;
+|
 
-― les gestes techniques d'interception d'un véhicule lors d'une patrouille portée ;
+10
 
-― la rédaction du procès-verbal de couleur jaune en matière de vitesse ;
+|
 
-― le dépistage de l'imprégnation alcoolique ;
+1 30''
 
-― les infractions liées à l'alcoolémie ;
+|
 
-― le formulaire d'immobilisation ;
+4
 
-― les conditions d'intervention sur un accident de la circulation ;
+|
 
-― le contact de la mort en situation professionnelle.
+11
 
-Situation 4 : interpeller un individu :
+|
 
-― la découverte des protocoles d'action relatifs à l'interpellation d'un individu ;
+1 35''
 
-― les principaux cadres d'enquête ;
+|
 
-― la notion de flagrance ;
+5
 
-― les compétences judiciaires des OPJ et APJ ;
+|
 
-― les cas de rétention à caractère judiciaire ;
+12
 
-― les éléments constitutifs des destructions, dégradations et détériorations ;
+|
 
-― les éléments constitutifs de l'infraction de tag (graffiti) ;
+1 40''
 
-― la mise en œuvre d'une progression ;
+|
 
-― la rédaction d'un rapport d'information suite à une interpellation ;
+6
 
-― les éléments constitutifs du vol ;
+|
 
-― les conduites à tenir relatives à la préservation des traces et indices ;
+13
 
-― les règles d'utilisation du code de procédure pénale ;
+|
 
-― les éléments constitutifs des violences volontaires ;
+1 45''
 
-― la conduite à tenir vis-à-vis des malades mentaux ;
+|
 
-― les éléments constitutifs de l'outrage et de la rébellion ;
+7
 
-― la mise en œuvre des gestes techniques d'interception d'un véhicule ayant à son bord un ou plusieurs individus dangereux ;
+|
 
-― les violences intrafamiliales ;
+14
 
-― la mise en œuvre des gestes techniques liés à une intervention sur un différend dans un lieu privé.
+|
 
-III. Les autres disciplines-activités physiques et professionnelles :
+1 50''
 
-― les manipulations et le tir ;
+|
 
-― l'armement ;
+8
 
-― les techniques de défense en intervention ;
+|
 
-― la préparation physique du policier.
+15
 
-IV. - La formation informatique :
+|
 
-― les règles de l'utilisation de l'informatique dans la police nationale ;
+1 55''
 
-― l'intranet du ministère de l'intérieur ;
+|
 
-― l'application LRPPN ;
+9
 
-― la main courante informatisée ;
+|
 
-― les fichiers de police informatisés ;
+16
 
-― révisions ;
+|
 
-― évaluation école (utilisation pratique des logiciels).
+2 00''
+
+|
+
+10
+
+|
+
+17
+
+|
+
+2 05''
+
+|
+
+11
+
+|
+
+18
+
+|
+
+2 10''
+
+|
+
+12
+
+|
+
+19
+
+|
+
+2 15''
+
+|
+
+13
+
+|
+
+20
+
+|
+
+2 20''
+
+|
+
+14
+
+|
+
+20
+
+|
+
+2 25''
+
+|
+
+15
+
+|
+
+20
+
+|
+
+2 30''
+
+|
+
+16
+
+|
+
+20
+
+|
+
+2 35''
+
+|
+
+17
+
+|
+
+20
+
+|
+
+2 40''
+
+|
+
+18
+
+|
+
+20
+
+|
+
+2 45''
+
+|
+
+19
+
+|
+
+20
+
+|
+
+2 50''
+
+|
+
+20
+
+|
+
+III. ― Epreuve n° 2 : test d'endurance cardio-respiratoire
+
+Le test consiste à accomplir des allers et retours sur une distance de 20 mètres, à une vitesse progressivement accélérée.
+
+Une bande sonore règle la vitesse en émettant des sons à intervalles réguliers et annonce la progression du candidat en termes de paliers et de fractions de paliers exprimées en temps (exemple : palier 4, palier 7 ― 45 secondes).
+
+Il s'agit pour le candidat d'atteindre le palier ou la fraction de palier le plus élevé possible.
+
+L'épreuve commence lentement, à 8 km/ h, puis le rythme augmente progressivement toutes les minutes.
+
+Au départ, le candidat dispose de deux minutes pour calquer sa vitesse de course sur les signaux sonores. A chaque signal sonore, il doit ajuster sa course pour se retrouver à une des extrémités du tracé des vingt mètres.
+
+A chaque extrémité, il doit bloquer un de ses pieds immédiatement derrière la ligne pour amorcer son retour. Les virages en courbe ne sont pas admis.
+
+Deux mètres maximum de retard sont admis à la condition de pouvoir soit maintenir le retard, soit le combler lors des intervalles suivants. Si le retard s'accroît et devient peu à peu égal ou supérieur à deux mètres sans possibilité de le combler, le candidat arrête l'épreuve.
+
+Le dernier palier ou fraction de palier est alors retenu.
+
+Nota. ― Le candidat qui glisse ou tombe pendant le test est autorisé à le poursuivre, mais l'incident n'entraîne pas l'interruption de la bande sonore.
+
+Barèmes du test d'endurance cardio-respiratoire :
+
+NOTE FEMMES |
+
+PERFORMANCE RÉALISÉE |
+
+NOTE HOMMES |
+
+0
+
+|
+
+Palier 1
+
+|
+
+0
+
+|
+
+0
+
+|
+
+15 secondes
+
+|
+
+0
+
+|
+
+0
+
+|
+
+30 secondes
+
+|
+
+0
+
+|
+
+0
+
+|
+
+45 secondes
+
+|
+
+0
+
+|
+
+0
+
+|
+
+Palier 2
+
+|
+
+0
+
+|
+
+0
+
+|
+
+15 secondes
+
+|
+
+0
+
+|
+
+1
+
+|
+
+30 secondes
+
+|
+
+0
+
+|
+
+2
+
+|
+
+45 secondes
+
+|
+
+0
+
+|
+
+3
+
+|
+
+Palier 3
+
+|
+
+0
+
+|
+
+4
+
+|
+
+15 secondes
+
+|
+
+0
+
+|
+
+5
+
+|
+
+30 secondes
+
+|
+
+0
+
+|
+
+6
+
+|
+
+45 secondes
+
+|
+
+0
+
+|
+
+7
+
+|
+
+Palier 4
+
+|
+
+0
+
+|
+
+7,5
+
+|
+
+15 secondes
+
+|
+
+0
+
+|
+
+8
+
+|
+
+30 secondes
+
+|
+
+0
+
+|
+
+8,5
+
+|
+
+45 secondes
+
+|
+
+1
+
+|
+
+9
+
+|
+
+Palier 5
+
+|
+
+2
+
+|
+
+9,5
+
+|
+
+15 secondes
+
+|
+
+3
+
+|
+
+10
+
+|
+
+30 secondes
+
+|
+
+4
+
+|
+
+10,5
+
+|
+
+45 secondes
+
+|
+
+5
+
+|
+
+10,5
+
+|
+
+Palier 6
+
+|
+
+6
+
+|
+
+11
+
+|
+
+15 secondes
+
+|
+
+7
+
+|
+
+11
+
+|
+
+30 secondes
+
+|
+
+8
+
+|
+
+11,5
+
+|
+
+45 secondes
+
+|
+
+8,5
+
+|
+
+11,5
+
+|
+
+Palier 7
+
+|
+
+9
+
+|
+
+12
+
+|
+
+15 secondes
+
+|
+
+9,5
+
+|
+
+12,5
+
+|
+
+30 secondes
+
+|
+
+10
+
+|
+
+13
+
+|
+
+45 secondes
+
+|
+
+10,5
+
+|
+
+13,5
+
+|
+
+Palier 8
+
+|
+
+10,5
+
+|
+
+14
+
+|
+
+15 secondes
+
+|
+
+11
+
+|
+
+14,5
+
+|
+
+30 secondes
+
+|
+
+11
+
+|
+
+15
+
+|
+
+45 secondes
+
+|
+
+11,5
+
+|
+
+15,5
+
+|
+
+Palier 9
+
+|
+
+11,5
+
+|
+
+16
+
+|
+
+15 secondes
+
+|
+
+12
+
+|
+
+16,5
+
+|
+
+30 secondes
+
+|
+
+12
+
+|
+
+17
+
+|
+
+45 secondes
+
+|
+
+12,5
+
+|
+
+17,5
+
+|
+
+Palier 10
+
+|
+
+12,5
+
+|
+
+18
+
+|
+
+15 secondes
+
+|
+
+13
+
+|
+
+19
+
+|
+
+30 secondes
+
+|
+
+13
+
+|
+
+20
+
+|
+
+45 secondes
+
+|
+
+13,5
+
+|
+
+20
+
+|
+
+Palier 11
+
+|
+
+14
+
+|
+
+20
+
+|
+
+15 secondes
+
+|
+
+14,5
+
+|
+
+20
+
+|
+
+30 secondes
+
+|
+
+15
+
+|
+
+20
+
+|
+
+45 secondes
+
+|
+
+15,5
+
+|
+
+20
+
+|
+
+Palier 12
+
+|
+
+16
+
+|
+
+20
+
+|
+
+15 secondes
+
+|
+
+16,5
+
+|
+
+20
+
+|
+
+30 secondes
+
+|
+
+17
+
+|
+
+20
+
+|
+
+45 secondes
+
+|
+
+17,5
+
+|
+
+20
+
+|
+
+Palier 13
+
+|
+
+18
+
+|
+
+20
+
+|
+
+15 secondes
+
+|
+
+18,5
+
+|
+
+20
+
+|
+
+30 secondes
+
+|
+
+19
+
+|
+
+20
+
+|
+
+45 secondes
+
+|
+
+20
+
+|
