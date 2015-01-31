@@ -210,9 +210,7 @@ Ferodo/Valeo, la Petite Suisse, 61790 Saint-Pierre-du-Regard : de 1949 à 1994 ;
 
 Ferodo/Valeo/Ferlam/Evers-Filature de la Vère, usine Le Platfond, BP 1, 61430 Sainte-Honorine-la-Chardonne : de 1945 à 1996 ;
 
-Ferodo/ Valeo/ Allied-Signal/ Allied-Signal matériaux de friction/ Bendix, établissement de Condé, 14110 Condé-sur-Noireau, de 1960 à 1999
-
-HONEYWELL matériaux de frictions, zone industrielle Est, 14110 Condé-sur-Noireau, de 1999 au 30 juin 2000
+Ferodo/Valeo/Allied-Signal/Allied-Signal matériaux de friction/Bendix, établissement de Condé, 14110 Condé-sur-Noireau, de 1960 à 1996 ;
 
 M. Regne Félix, 61100 Ségrie-Fontaine : de 1960 à 1977 ;
 
@@ -225,6 +223,8 @@ Somec, 14730 Giberville : de 1989 à 1992 ;
 Technisol, 47, rue Paul-Doumer, 14600 Honfleur : de 1957 à 1984.
 
 Haute-Normandie
+
+ALFRED ANDRE Route nationale 15, zone du Camp Dolent, 76700 Gonfreville-L'Orcher De 1983 à 2000 ;
 
 Bitumastic, 24, rue des Pâtis, BP 2, 76144 Le Petit-Quevilly Cedex : de 1930 à 1992 ;
 
@@ -371,7 +371,3 @@ Valeo, 8, rue Yves-Toudic, 69200 Vénissieux : de 1974 à 1987 ;
 Voisin et Pascal, société Guichard, 38300 Nivolas-Vermelle, de 1971 à 1988 ;
 
 Wanner Isofi, quai Fulchiron, 69500 Lyon : de 1967 à 1973 ; - 42, rue A.-Charial, 69003 Lyon : de 1973 à 1985 ; - 63-65, rue André-Sentuc, 69200 Vénissieux : de 1985 à 1997.
-
-NOTA :
-
-Par un jugement n° 1401575 du 4 juin 2015 du tribunal administratif de Caen, l'arrêté du 4 juin 2014 modifiant la liste des établissements de fabrication, flocage et calorifugeage à l’amiante susceptibles d’ouvrir droit à l’allocation de cessation anticipée d’activité des travailleurs de l’amiante (NOR : ETST1401460A) est annulé.
