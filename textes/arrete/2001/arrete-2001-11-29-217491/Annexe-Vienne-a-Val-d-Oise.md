@@ -1,4 +1,4 @@
-# Article Annexe Vienne à Val d'Oise
+# Article Annexe Vienne à Val-d'Oise
 
 Direction départementale de l'équipement de la Vienne
 
@@ -774,7 +774,7 @@ B
 
 |
 
-Direction départementale de l'équipement et de l'agriculture (1) du Val-d'Oise
+Direction départementale des territoires du Val-d'Oise
 
 FONCTIONS EXERCEES
 
@@ -798,7 +798,7 @@ par emploi
 
 |
 
-Chef du bureau du financement locatif et de la politique de la ville
+Responsable du service de l'habitat, de la rénovation urbaine et du bâtiment
 
 |
 
@@ -814,7 +814,7 @@ A
 
 |
 
-Chargé de la mission "politique de la ville - habitat" pour le territoire Sud
+Adjoint au responsable du service de l'habitat, de la rénovation urbaine et du bâtiment
 
 |
 
@@ -830,7 +830,7 @@ A
 
 |
 
-Chargé de la mission "politique de la ville - habitat" pour le territoire Est
+Adjoint au responsable du service de l'habitat, de la rénovation urbaine et du bâtiment, en charge de la rénovation urbaine
 
 |
 
@@ -846,7 +846,7 @@ A
 
 |
 
-Chef de la subdivision aménagement et équipement territoriaux
+Responsable du pôle parc social
 
 |
 
@@ -862,7 +862,23 @@ A
 
 |
 
-Instructeur des dossiers "politique de la ville"
+Chargé de mission au pôle rénovation urbaine
+
+|
+
+B
+
+|
+
+2
+
+|
+
+30 points
+
+|
+
+Chargé d'études référent rénovation urbaine au pôle rénovation urbaine
 
 |
 
@@ -878,39 +894,7 @@ B
 
 |
 
-Adjoint au chargé de la mission "politique de la ville - habitat" pour le territoire Sud
-
-|
-
-B
-
-|
-
-1
-
-|
-
-30 points
-
-|
-
-Adjoint au chargé de la mission "politique de la ville - habitat" pour le territoire Est
-
-|
-
-B
-
-|
-
-1
-
-|
-
-30 points
-
-|
-
-Responsable des opérations à la subdivision aménagement et équipement territoriaux - territoire Ouest
+Instructeur des dossiers hébergement, résidences sociales et opérations ANRU au pôle parc social
 
 |
 
