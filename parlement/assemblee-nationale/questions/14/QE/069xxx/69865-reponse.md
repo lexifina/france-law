@@ -1,0 +1,9 @@
+# Réponse à la question n° 69865
+
+- Question : [69865](69865.md) — Question n° 69865 — réglementation; modification; bilan
+
+## Réponse
+
+*JO du 2015-02-03*
+
+Dans le cadre du pacte de confiance et de responsabilité conclu le 16 juillet 2013 entre l'État et les collectivités territoriales, les régions, la collectivité territoriale de Corse et le département de Mayotte bénéficient de nouvelles ressources dynamiques en substitution de la dotation générale de décentralisation relative à la formation professionnelle. A ce titre, la compensation est composée de ressources fiscales dynamiques correspondant aux frais de gestion perçus par l'État au titre de la taxe d'habitation, de la cotisation foncière des entreprises et de la cotisation sur la valeur ajoutée des entreprises. Au demeurant, cet engagement s'est traduit par l'article 41 de la loi de finances pour 2014 et par le décret n° 2014-1224 du 21 octobre 2014 relatif au reversement aux régions des frais de gestion dus par les redevables de la taxe d'habitation qui définit les modalités de versement de ces frais de gestion sur les différentes composantes de la taxe d'habitation. A ce titre, le comité des finances locales a rendu un avis favorable. Conformément au pacte, la compensation est versée mensuellement par le compte de concours financiers « avances sur le montant des impositions revenant aux régions, départements, communes, établissements et divers organismes » dont l'action 4 du programme 833 retrace spécifiquement les avances aux régions au titre des frais de gestion. En loi de finances initiale (LFI) pour 2014, le montant des frais de gestion au titre des ressources dynamique est de 600,7 M€. Le dynamisme de ces ressources est corrélé à l'évolution moyenne des impôts locaux auxquels se rapportent les frais de gestion, dès lors en LFI 2015, le montant s'élève à 617,3 M€.
