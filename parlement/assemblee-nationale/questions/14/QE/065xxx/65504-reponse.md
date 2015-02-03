@@ -1,0 +1,9 @@
+# Réponse à la question n° 65504
+
+- Question : [65504](65504.md) — Question n° 65504 — démarchage téléphonique; dispositif d'opposition; décret
+
+## Réponse
+
+*JO du 2015-02-03*
+
+L'article 9 de la loi n° 2014-344 du 17 mars 2014 relative à la consommation a mis en place un dispositif permettant aux consommateurs de s'inscrire sur une liste d'opposition au démarchage téléphonique qui sera géré par un organisme désigné par le ministre de l'économie, de l'industrie et du numérique, après mise en concurrence (nouvel article L. 121-34 du code de la consommation). Un décret doit établir les conditions de fonctionnement de la liste d'opposition. La Commission nationale de l'informatique et des libertés a été consultée et le projet de texte a été soumis aux professionnels et associations de consommateurs intéressés. Par la suite, le texte sera transmis au Conseil d'Etat et sa publication pourra intervenir prochainement. Une fois ce dispositif mis en place et qui s'imposera aux entreprises, tout professionnel recourant au démarchage téléphonique à l'égard de consommateurs inscrits sur le registre d'opposition ou commercialisant des fichiers de données téléphoniques comportant les coordonnées de consommateurs figurant sur cette liste s'exposera à une amende administrative de 15 000 euros pour une personne physique et 75 000 euros pour une personne morale. Pour l'heure, l'actuel dispositif d'opposition au démarchage téléphonique « Pacitel », relève d'une démarche volontaire des entreprises qui souhaitent y adhérer. Il n'y a donc pas de sanction possible à l'encontre des entreprises qui ne respectent pas le dispositif, dès lors qu'elles n'y ont pas adhéré. Il n'y a donc pas de contentieux relatif à ce dispositif.
