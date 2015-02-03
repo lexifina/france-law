@@ -1,0 +1,9 @@
+# Réponse à la question n° 69519
+
+- Question : [69519](69519.md) — Question n° 69519 — Algérie; Fondation de la mémoire de la guerre d'Algérie; perspectives
+
+## Réponse
+
+*JO du 2015-02-03*
+
+La loi n° 2005-158 du 23 février 2005 portant reconnaissance de la Nation et contribution nationale en faveur des Français rapatriés a prévu la création d'une Fondation pour la mémoire de la guerre d'Algérie, des combats du Maroc et de Tunisie (FM-GACMT). Ses statuts ont été approuvés, 5 ans plus tard, par décret du 3 août 2010. Comme il est précisé dans le rapport du Gouvernement remis au Parlement, en juin 2013, en exécution de l'article 99 de la loi n° 2012-1509 du 29 décembre 2012 de finances pour 2013, le Gouvernement a décidé de réorienter les travaux de cette fondation tout en favorisant la participation de l'ensemble des acteurs du conflit à ses travaux et à la définition de son objet. Ainsi, dans l'esprit des engagements pris par le Gouvernement, la FM-GACMT s'est engagée dans un vaste programme d'études consacré aux harkis, dont les premiers résultats ont été présentés lors d'un colloque de restitution (« Les harkis, des mémoires à l'histoire ») au Musée de l'armée, les 29 et 30 novembre 2013. Après une année 2014 consacrée à l'Afrique française du Nord pendant la Grande Guerre, les travaux de la fondation seront poursuivis en 2015 grâce à la mise en place d'un centre de ressources documentaires et d'outils spécifiques d'aide à la recherche (fiches de lectures, fiches pédagogiques, publications spécialisées). L'ensemble des études conduites par la fondation est placé sous l'autorité d'un conseil scientifique regroupant chercheurs, témoins, et responsables associatifs. Ce conseil a vocation à s'élargir afin de garantir que les travaux de la fondation représentent, dans son domaine d'intérêt, « la mémoire de tous et la mémoire de tout ».
