@@ -1,0 +1,9 @@
+# Réponse à la question n° 65535
+
+- Question : [65535](65535.md) — Question n° 65535 — maintien en conditions opérationnelles; Cour des comptes; rapport; propositions
+
+## Réponse
+
+*JO du 2015-02-03*
+
+La méthode selon laquelle sont réalisés les systèmes d'armes prévoit, dès l'origine des programmes, la mise en oeuvre d'une démarche de soutien logistique intégré visant à prendre en compte dans les choix de conception les besoins exprimés par les armées. Ces choix concernent à la fois les caractéristiques techniques des équipements et l'organisation étatique du soutien. Les choix d'organisation ont en effet une incidence directe sur le volume des stocks de rechange, sur le niveau des effectifs des agents spécialisés dans la maintenance, ainsi que sur celui des rémunérations et des charges sociales correspondantes. Pour exprimer ces besoins organisationnels, les responsables du soutien en service (RSS) sont présents au sein des équipes de programme intégrées dès leur constitution et sont en mesure de peser sur les décisions dès la phase de conception des matériels. A cet effet, l'état-major des armées et la direction générale de l'armement ont conjointement défini le rôle des RSS en 2013 : améliorer l'expression du besoin en matière de soutien, vérifier la pertinence du concept et la stratégie d'acquisition du soutien et consolider la fiabilité de la planification financière. Pour que le maintien en condition opérationnelle (MCO) soit encore mieux pris en compte dès la phase de conception des matériels, il est ainsi donné toute légitimité aux RSS et le dimensionnement de la ressource humaine des services de soutien est en voie d'adaptation afin que ces structures puissent participer activement aux travaux. Le ministère de la défense a donc bien pour ambition de concevoir ses équipements en appréhendant d'emblée le juste besoin de MCO. Dans ce contexte, le coût du soutien constitue un critère de choix en amont des futurs matériels.
