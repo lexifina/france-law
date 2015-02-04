@@ -1,0 +1,52 @@
+# Collectivités territoriales : accessibilité des établissements, des transports et de la voirie pour les handicapés
+
+- Procédure : Projet de loi ordinaire
+- Législature : 14
+- Identifiant : DLR5L14N33739
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/mise_accessibilite_personnes_handicapees
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl14-276.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2015-02-04 : 1er dépôt d'une initiative. (PRJLSNR5S239B0276)
+  - 2015-02-04 : Etude d'impact (ETDISNR5S239B0276)
+  - 2015-04-10 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2015-02-04 : Renvoi en commission au fond
+      - 2015-04-08 : Nomination de rapporteur
+      - 2015-05-20 : Dépôt de rapport (RAPPSNR5S239B0455)
+  - Discussion en séance publique
+    - 2015-06-02 : Discussion en séance publique
+    - 2015-06-02 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2015-06-03 : Dépôt d'une initiative en navette (PRJLANR5L14B2840)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2015-06-03 : Renvoi en commission au fond
+      - 2015-06-10 : Nomination de rapporteur
+      - 2015-06-10 : Réunion de commission
+      - 2015-06-24 : Réunion de commission
+      - 2015-07-06 : Réunion de commission
+      - 2015-06-24 : Dépôt de rapport (RAPPANR5L14B2892, PRJLANR5L14BTC2892)
+  - Discussion en séance publique
+    - 2015-07-06 : Discussion en séance publique
+    - 2015-07-06 : Discussion en séance publique
+    - 2015-07-06 : Décision
+- Commission Mixte Paritaire
+  - 2015-07-07 : Dépôt d'un projet de loi (PRJLSNR5S239B0597)
+  - 2015-07-07 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2015-07-16 : Nomination de rapporteur
+    - 2015-07-16 : Dépôt du rapport d'une CMP (RAPPANR5L14B2989)
+    - 2015-07-16 : Dépôt du rapport d'une CMP (RAPPSNR5S239B0637)
+  - Discussion en séance publique
+    - 2015-07-20 : Discussion en séance publique
+    - 2015-07-20 : Décision
+  - Discussion en séance publique
+    - 2015-07-21 : Discussion en séance publique
+    - 2015-07-21 : Décision
+  - 2015-07-16 : Décision de la CMP
+- Promulgation de la loi
+  - 2015-08-06 : Promulgation d'une loi
