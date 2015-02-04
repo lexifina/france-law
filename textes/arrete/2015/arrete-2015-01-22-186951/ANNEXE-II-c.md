@@ -1,4 +1,4 @@
-# Article ANNEXE IIc
+# Article ANNEXE II c
 
 DEMANDE D'AUTORISATION RELATIVE À LA CIRCULATION D'UN PETIT TRAIN ROUTIER TOURISTIQUE
 
@@ -34,11 +34,11 @@ Description du service et de son itinéraire :
 
 Détails des déplacements éventuels du petit train routier touristique sans passagers pour les besoins d'exploitation du service :
 
-III. ― Caractéristiques du petit train routier touristique
+III. - Caractéristiques du petit train routier touristique
 
 a) Pour le véhicule tracteur :
 
-N° d'immatriculation :
+Numéro d'immatriculation :
 
 Marque :
 
@@ -56,7 +56,7 @@ b) Pour les véhicules remorqués :
 
 Véhicule remorqué n° 1 :
 
-N° d'immatriculation :
+Numéro d'immatriculation :
 
 Marque :
 
@@ -72,7 +72,7 @@ Propriétaire :
 
 Véhicule remorqué n° 2 :
 
-N° d'immatriculation :
+Numéro d'immatriculation :
 
 Marque :
 
@@ -88,7 +88,7 @@ Propriétaire :
 
 Véhicule remorqué n° 3 :
 
-N° d'immatriculation :
+Numéro d'immatriculation :
 
 Marque :
 
@@ -102,19 +102,17 @@ Date du certificat :
 
 Propriétaire :
 
-IV. ― Identification du demandeur
+IV. - Identification du demandeur
 
 Nom : Prénom :
 
 Qualité :
 
-Fait à : , le
+Fait à , le
 
-Signature du demandeur
+(Signature du demandeur)
 
-V. - Liste des pièces obligatoires
-
-à joindre à la demande
+V. - Liste des pièces obligatoires à joindre à la demande
 
 1. Un document de l'organisateur du service ou du transporteur justifiant la demande d'autorisation d'arrêté préfectoral de circulation d'un petit train routier touristique.
 

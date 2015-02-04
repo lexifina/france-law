@@ -1,8 +1,6 @@
 # Article ANNEXE V
 
-AMÉNAGEMENTS SPÉCIFIQUES POUR LES VÉHICULES
-
-ACCESSIBLES AUX UTILISATEURS DE FAUTEUILS ROULANTS
+AMÉNAGEMENTS SPÉCIFIQUES POUR LES VÉHICULES ACCESSIBLES AUX UTILISATEURS DE FAUTEUILS ROULANTS
 
 Pour l'application de la présente annexe, le fauteuil roulant de référence présente les caractéristiques suivantes :
 
@@ -38,9 +36,9 @@ e) Une main courante escamotable, ou tout autre dispositif équivalent, est mont
 
 f) La surface du sol de l'espace pour fauteuil roulant est antidérapante ;
 
-g) L'inscription ci-après est fixée à proximité immédiate de l'espace pour fauteuil roulant : "Cette place est réservée à un fauteuil roulant. Le fauteuil roulant, dirigé vers l'arrière et freins serrés, est appuyé contre le support ou le dosseret.”
+g) L'inscription ci-après est fixée à proximité immédiate de l'espace pour fauteuil roulant : " Cette place est réservée à un fauteuil roulant. Le fauteuil roulant, dirigé vers l'arrière et freins serrés, est appuyé contre le support ou le dosseret. "
 
-2.2. En alternative au point 2-1, le fauteuil roulant peut être orienté vers l'avant du véhicule. Dans ce cas, le dispositif d'arrimage du fauteuil roulant permet d'assurer la stabilité d'un fauteuil roulant lesté d'une masse de 150 kg (le lest occupant sensiblement la place du passager) lorsque le véhicule lancé à une vitesse d'au moins 40 km/h est soumis à une décélération égale ou supérieure à 5m.s-2.
+2.2. En alternative au point 2.1, le fauteuil roulant peut être orienté vers l'avant du véhicule. Dans ce cas, le dispositif d'arrimage du fauteuil roulant permet d'assurer la stabilité d'un fauteuil roulant lesté d'une masse de 150 kg (le lest occupant sensiblement la place du passager) lorsque le véhicule lancé à une vitesse d'au moins 40 km/h est soumis à une décélération égale ou supérieure à 5m.s-2.
 
 3. Accès et dimensions des accès
 
