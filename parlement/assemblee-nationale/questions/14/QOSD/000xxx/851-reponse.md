@@ -1,0 +1,33 @@
+# Réponse à la question n° 851
+
+- Question : [851](851.md) — Question n° 851 — réhabilitation; logements; Montpellier; contentieux
+
+## Réponse
+
+*JO du 2015-02-04*
+
+DÉSACCORD ENTRE LA MAIRIE DE MONTPELLIER ET FRANCE DOMAINE SUR L'ESTIMATION DU PRIX DE L'ANCIENNE GENDARMERIE
+
+M. le président. La parole est à Mme Anne-Yvonne Le Dain, pour exposer sa question, n° 851, relative au désaccord entre la mairie de Montpellier et France Domaine sur l'estimation du prix de l'ancienne gendarmerie.
+
+Mme Anne-Yvonne Le Dain. J'interroge Mme la ministre du logement, de l'égalité des territoires et de la ruralité au sujet d'une opération avec France Domaine décidément très longue. On trouve dans ma circonscription un site traditionnellement appelé « Lodève-Liberté », proche du centre-ville de Montpellier, d'une surface de 27 hectares et occupé par une gendarmerie, un ancien château et un centre commercial. On y trouve également des bureaux et des logements, le tout étant très éparpillé dans un domaine qui appartenait au ministère de la défense et a été libéré par l'État lors du déplacement de la gendarmerie à l'École d'application de l'infanterie en 2011. L'endroit est en déshérence depuis lors. Entre-temps, la région Languedoc-Roussillon et le rectorat ont requalifié et reconstruit le lycée Jules Guesde pour en faire un lycée international à la visibilité forte en matière de langues et de commerce international, dispensant un enseignement de chinois, de japonais et de bien d'autres langues, en particulier les langues traditionnelles européennes. Il s'agit d'un travail de rénovation lourde d'un montant de 45 millions d'euros.
+
+L'agglomération de Montpellier a mené l'installation de la ligne 3 du tramway. Inaugurée en 2011, elle requalifie complètement l'ensemble du quartier qu'elle relie à Clémentville et aux secteurs de la Mosson, de Las Rebes et du Petit Bard. Nous sommes en présence d'un travail urbain mené par les collectivités territoriales dont le développement est confronté à une difficulté. En effet, France Domaine estime le site en vente à des montants très importants et il en résulte un conflit avec la ville de Montpellier, entamé en 2011, au sujet de la valeur du domaine. Il faut d'autant plus accélérer les négociations qu'une part a récemment été cédée à la clinique Languedoc Mutualité de Beau Soleil, qui se trouve également sur le site, accueille des personnes âgées souvent en situation de dépendance et en avait bien besoin. D'autres, cependant, en ont besoin aussi, notamment la ville de Montpellier confrontée à la nécessité de construire des logements étudiants, sociaux et intermédiaires.
+
+Bref, dans une agglomération en pleine croissance, dans un pays comme la France, qui est en souffrance en matière de logement, il nous semble que ce dossier des 10 000 mètres carrés disponibles depuis que la gendarmerie a été transférée gagnerait à être traité rapidement et simplement par France Domaine, dont l'attitude actuelle relève du blocage.
+
+Le site fait l'objet d'un réel projet urbain. Il y a de quoi aménager un espace qui respire, situé quasiment au centre-ville de Montpellier depuis la requalification du tramway et du lycée, ce qui redonnerait du souffle à tout un pan de la ville. En outre, le besoin en logements est général dans l'ensemble de l'agglomération. J'aimerais donc être éclairée sur l'actuelle situation de blocage résultant du désaccord et rassurée s'il n'en est plus rien. Peut-être serait-il pertinent d'envisager un don car nous sommes là entre entités publiques et il s'agit de travailler pour notre population, qu'il s'agisse d'étudiants, de jeunes couples, de familles monoparentales et même de personnes plus âgées qui ont bien besoin de logements.
+
+M. le président. La parole est à M. le secrétaire d'État chargé des affaires européennes.
+
+M. Harlem Désir, secrétaire d'État chargé des affaires européennes. Madame la députée, vous interrogez Mme la ministre du logement, de l'égalité des territoires et de la ruralité sur le contentieux entre la mairie de Montpellier et France Domaine à propos du prix de vente du terrain de l'ancienne gendarmerie de Montpellier, avenue de Lodève. Je vous prie de bien vouloir excuser Mme la ministre, qui est retenue par la cérémonie organisée à l'occasion de la publication du rapport annuel de la Fondation Abbé Pierre et m'a demandé de répondre en son nom.
+
+La mairie de Montpellier souhaite reconvertir le terrain, mais le prix proposé par France Domaine est beaucoup plus élevé que ses estimations, comme vous venez de le rappeler. Le terrain concerné, d'une superficie de 3 hectares, est inscrit sur la liste des terrains cessibles de l'État arrêtée le 21 juin 2013 par le préfet de région, en application de la loi du 18 janvier 2013 relative à la mobilisation du foncier public en faveur du logement. Dès la fin de l'année 2011, lors du départ de l'état-major de la gendarmerie, la mairie de Montpellier a manifesté son intérêt pour l'emprise foncière et lancé une étude de programmation urbaine.
+
+En accord avec l'État, elle a défini un programme urbain mixte, associant des logements – dont de nombreux logements sociaux –, des activités et un EHPAD, pour une surface de plancher d'environ 37 500 mètres carrés. La partie dédiée à l'activité créera 250 emplois. Des commerces et services de proximité seront également développés. L'accord sera formalisé dans le cadre d'un protocole État-ville qui devrait être signé le 9 février prochain, selon lequel le prix de cession, évalué de manière contradictoire par les parties, est en cours d'élaboration.
+
+Après l'intervention de la Commission nationale de l'aménagement, de l'urbanisme et du foncier, présidée par Thierry Repentin, il a été décidé qu'une contre-expertise indépendante serait diligentée. Elle devrait être achevée à la fin du mois de février. Nous ne doutons pas que les discussions financières aboutiront alors rapidement. Comme d'autres dossiers de mobilisation du foncier public, celui-ci confirme aux yeux du Gouvernement que les actions de médiation entreprises par la Commission nationale de l'aménagement, de l'urbanisme et du foncier sont utiles pour réduire les points de blocage et trouver des solutions innovantes au bénéfice des projets. Cela participe de l'accompagnement des acteurs, que le Gouvernement place au cœur du plan de relance de la construction.
+
+M. le président. La parole est à Mme Anne-Yvonne Le Dain.
+
+Mme Anne-Yvonne Le Dain. Je suis ravie de voir que les choses évoluent. Même si le protocole d'accord ne peut être signé le 9 février, nous allons dans le bon sens, ce qui est vraiment une bonne nouvelle.
