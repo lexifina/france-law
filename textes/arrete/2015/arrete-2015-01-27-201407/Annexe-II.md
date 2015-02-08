@@ -1,16 +1,26 @@
 # Article Annexe II
 
-TAUX DE COMPENSATION AU TITRE DE LA REMISE COMPENSATOIRE APPLICABLES EN 2014
+Taux de compensation au titre de la remise compensatoire applicables en 2015 aux débits de tabac implantés dans un département frontalier
 
-AUX DÉBITS DE TABAC IMPLANTÉS DANS UN DÉPARTEMENT FRONTALIER
+DÉPARTEMENTS
 
-DÉPARTEMENT |
+|
 
-TAUX DE COMPENSATION |
+TAUX DE COMPENSATION
 
-Baisse du chiffre d'affaires de 10 % à 25 % |
+|
 
-Baisse du chiffre d'affaires supérieure à 25 % |
+Baisse de chiffre d'affaires
+
+de 10 à 25 %
+
+|
+
+Baisse de chiffre d'affaires
+
+supérieure à 25 %
+
+|
 
 01
 
@@ -360,4 +370,6 @@ Territoire de Belfort
 
 |
 
-80 % |
+80 %
+
+|
