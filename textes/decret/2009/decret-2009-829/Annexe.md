@@ -96,6 +96,18 @@ Vivaise
 
 |
 
+Allier
+
+|
+
+03298
+
+|
+
+Varennes-sur-Allier
+
+|
+
 Alpes-de-Haute-Provence
 
 |
@@ -826,7 +838,7 @@ Provins
 
 |
 
-77403
+77 403
 
 |
 
