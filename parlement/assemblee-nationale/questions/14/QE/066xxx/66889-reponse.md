@@ -1,0 +1,9 @@
+# Réponse à la question n° 66889
+
+- Question : [66889](66889.md) — Question n° 66889 — prise en charge; rapport; préconisations
+
+## Réponse
+
+*JO du 2015-02-10*
+
+Les opérateurs en charge des centres d'accueil pour demandeurs d'asile (CADA) renseignent l'ensemble des informations relatives aux demandeurs d'asile dans le logiciel dénommé DN@. Si, à l'heure actuelle, les opérateurs en charge des lieux d'hébergement d'urgence n'effectuent pas cette démarche, le projet de loi relatif à la réforme de l'asile prévoit de les soumettre à cette obligation. Son article 15, tel qu'adopté par l'Assemblée nationale le 16 décembre 2014, dispose en effet que : « Dans le cadre de sa mission d'accueil des demandeurs d'asile définie à l'article L. 5223-1 du code du travail, l'Office français de l'immigration et de l'intégration coordonne la gestion de l'hébergement dans les lieux d'hébergement mentionnés à l'article L. 744-3 du présent code. "À cette fin, il conçoit, met en oeuvre et gère, dans les conditions prévues par la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, un traitement automatisé de données relatives aux capacités des lieux d'hébergement, à l'utilisation de ces capacités et aux demandeurs d'asile qui y sont accueillis. "Les personnes morales chargées de la gestion des lieux d'hébergement mentionnés à l'article L. 744-3 sont tenues de déclarer à l'Office, dans le cadre du traitement automatisé de données, les places disponibles dans les lieux d'hébergement. Ces personnes morales sont tenues d'alerter l'autorité administrative compétente en cas d'absence injustifiée et prolongée des personnes qui y ont été orientées pour la durée de la procédure". Cet outil qui permettra d'obtenir différentes informations concernant les demandeurs d'asile sera utile à la réalisation du schéma national d'accueil créé par le projet de loi.
