@@ -1,0 +1,9 @@
+# Réponse à la question n° 71535
+
+- Question : [71535](71535.md) — Question n° 71535 — développement
+
+## Réponse
+
+*JO du 2015-02-10*
+
+Le gouvernement soutient le développement touristique des zones rurales qui participent à l'attractivité de la France et qui comportent de nombreux atouts, comme la variété des paysages, du patrimoine, des espaces naturels, la découverte de traditions et savoir-faire, une offre de loisirs en forte progression ou des prix d'hébergement globalement moins élevés. Cette offre est diffuse, parfois insuffisamment recensée et organisée, ce qui constitue autant de difficultés pour les destinations. Pour pallier ces difficultés, le gouvernement accompagne les acteurs locaux, publics et privés, qui se mobilisent au service de la qualité et de l'organisation de l'offre touristique ou participent à l'avènement de nouvelles destinations touristiques en zone rurale. La politique interministérielle s'oriente principalement sur la valorisation, la protection du patrimoine naturel, rural et sur le développement des produits de qualité à travers le renforcement des réseaux professionnels ainsi qu'au soutien apporté aux structures de développement local capables de coordonner l'ensemble des acteurs. A l'issue des Assises du tourisme, le gouvernement a annoncé le lancement de cinq pôles d'excellence touristique dans des domaines où l'offre est insuffisamment développée ou valorisée. Parmi ceux-ci, quatre permettront aussi d'accompagner les territoires ruraux : oenotourisme, tourisme de montagne, écotourisme, tourisme autour des savoir faire. Enfin, les contrats de destination doivent pleinement participer au développement des territoires ruraux, dès lors qu'ils s'inscrivent dans une destination à vocation internationale. Ces contrats ont en effet pour objectif de conquérir de nouvelles clientèles autour de marques lisibles et fédératrices à l'international, mais aussi de mettre en place des actions structurantes.
