@@ -1,0 +1,9 @@
+# Réponse à la question n° 13743
+
+- Question : [13743](13743.md) — Question n° 13743 — démissions; statistiques
+
+## Réponse
+
+*JO du 2015-02-10*
+
+En vue de mieux soutenir l'entrée dans le métier des jeunes enseignants, leur formation initiale a été profondément rénovée. En vertu du principe selon lequel enseigner est un métier qui s'apprend, cette formation a été fortement professionnalisée et repensée autour du cursus master lequel intègre le concours de recrutement. La réforme engagée a abouti à la création des Ecoles supérieures du professorat et de l'éducation (ESPE) dont les missions sont d'organiser la formation initiale des enseignants du primaire et du secondaire, de mettre en oeuvre la formation initiale avec les autres composantes universitaires, de contribuer à la formation continue et aux actions de validation des acquis de l'expérience (VAE), de contribuer à la formation des enseignants et enseignants-chercheurs du supérieur et de conduire des actions de formation aux autres métiers de la formation et de l'éducation. Par ailleurs, l'attractivité du métier d'enseignant et la préparation à son exercice ont été renforcées par la création du dispositif des emplois d'avenir professeur (EAP), dans le cadre d'un contingent de 10 000 emplois. L'ensemble de ces mesures contribuera à mieux accompagner les enseignants, en particulier les jeunes enseignants, dans leurs fonctions. Concernant l'évolution des démissions des stagiaires, elle se présente de la façon suivante avant mise en oeuvre de la réforme de la formation initiale des enseignants intervenue à la rentrée 2014 : Pour le premier degré, le constat fait état de 47 démissions en 2011-2012, 71 en 2012-2013 et 122 en 2013-2014. Pour le second degré, le constat fait état de 88 démissions en 2011-2012, 95 en 2012-2013 et 133 en 2013-2014.
