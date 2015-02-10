@@ -1,0 +1,9 @@
+# Réponse à la question n° 69909
+
+- Question : [69909](69909.md) — Question n° 69909 — mendicité; lutte et prévention
+
+## Réponse
+
+*JO du 2015-02-10*
+
+Le décret n° 2010-561 du 27 mai 2010 qui a modifié le décret n° 42-730 du 22 mars 1942 portant règlement d'administration publique sur la police, la sûreté et l'exploitation des voies ferrées d'intérêt général et d'intérêt local visait à assurer la transposition en droit interne des dispositions de la directive 2006/123/CE dite « directive services ». Ledit décret est venu supprimer conformément aux exigences européennes en la matière, certains régimes d'autorisation administrative entravant des activités de prestation de service. L'article 85 nouveau a pour finalité de prévoir le cadre juridique permettant la vente selon les prescriptions européennes. Ainsi, l'autorisation spéciale du préfet de département initialement prévue pour toute exploitation commerciale dans les cours ou bâtiments de gare a été remplacée par un titre d'occupation du domaine public ferroviaire délivré par le gestionnaire de la gare ou de la station. En ce qui concerne plus particulièrement la réglementation à bord des trains, l'autorisation du ministre chargé des transports étant devenue obsolète, a été supprimée. L'autonomie de gestion de la SNCF, prévue à l'article 7 du décret n° 83-817 du 13 septembre 1983 permet en effet à la SNCF, par la signature de contrats de services, de réguler elle-même la vente à bord des trains. C'est pourquoi, les références aux dispositions applicables à bord des trains ont été supprimées et partant, les nouvelles dispositions ne prennent pas en compte la police ferroviaire dans les trains. Le ministère chargé des transports et le ministère de l'intérieur travaillent aujourd'hui conjointement à la modification des dispositions du décret du 22 mars 1942.
