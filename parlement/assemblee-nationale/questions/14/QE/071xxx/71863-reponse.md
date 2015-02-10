@@ -1,0 +1,9 @@
+# Réponse à la question n° 71863
+
+- Question : [71863](71863.md) — Question n° 71863 — port de Fort-de-France; extension; biodiversité; préservation
+
+## Réponse
+
+*JO du 2015-02-10*
+
+Le projet d'extension du port de Fort-de-France consiste en une extension de la zone de stockage des conteneurs et une extension de la longueur des quais permettant l'accostage des bateaux de grande capacité qui pourront transiter prochainement par le canal de Panama rénové. Il est d'une grande importance économique pour la Martinique, mais doit toutefois se dérouler dans le strict respect de l'environnement, afin de préserver la biodiversité exceptionnelle de l'île. C'est pour tenir compte de ces enjeux environnementaux que le projet a été récemment revu par le Grand Port Maritime de Martinique, maître d'ouvrage des travaux. Le projet prévoit dorénavant deux phases de réalisation : - une première phase d'extension au sud-est sur une superficie de 3 hectares. Ce remblaiement aura lieu sans dragage et mobilisera des matériaux de carrière qui seront prélevés dans les carrières du nord de l'île. Cette phase n'a donc pas d'impact sur les milieux marins proches et ne nécessitera pas de mise en stockage de matériaux par création de mangrove artificielle. - la seconde phase d'extension au nord, pour une surface équivalente de 3 ha, en est aujourd'hui au stade des études complémentaires. Un dispositif d'information et de concertation concernant les solutions techniques envisagées sera mis en place par le maître d'ouvrage dans le courant de l'année 2015. Cette révision du projet a donc permis de réduire de beaucoup l'impact environnemental potentiel du projet. Il ne nécessitera en particulier aucun prélèvement de matériau en mer lors de sa première phase. Les services de l'État apporteront une vigilance toute particulière au respect du patrimoine environnemental de la Martinique dans le suivi de la réalisation de ce projet d'extension du port de Fort-de-France.
