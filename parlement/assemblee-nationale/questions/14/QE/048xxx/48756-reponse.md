@@ -1,0 +1,9 @@
+# Réponse à la question n° 48756
+
+- Question : [48756](48756.md) — Question n° 48756 — assiette; calcul; réforme
+
+## Réponse
+
+*JO du 2015-02-10*
+
+La loi n° 2010-1658 du 29 décembre 2010 de finances rectificative pour 2010, qui a substitué la taxe d'aménagement à l'ensemble des taxes d'urbanisme (TLE, TDENS et TDCAUE), a simplifié les modalités de détermination de la valeur de la surface taxable en ne faisant plus varier cette valeur en fonction de la catégorie des immeubles. L'assiette de la taxe d'aménagement est ainsi constituée par la valeur déterminée forfaitairement par mètre carré de la surface de la construction, quelle que soit sa nature. Toutefois, un abattement de 50 % est appliqué sur la valeur forfaitaire : des locaux d'habitation et d'hébergement sociaux ainsi que leurs annexes, des 100 premiers mètres carrés des locaux et annexes à usage d'habitation principale et des locaux à usage industriels ou artisanal. En outre, un certain nombre de constructions peuvent être exonérées, ou de plein droit, ou à la diligence des collectivités territoriales bénéficiaires de la taxe. L'abattement et les exonérations lorsqu'elles sont applicables de plein droit permettent bien d'assurer, sur le plan national, l'équité entre une même catégorie de construction. Les exonérations facultatives prises par délibération servent de levier d'action aux collectivités pour un aménagement adapté aux caractéristiques de leur territoire. Par ailleurs, la valeur de la surface de la construction est révisée chaque année, par arrêté du ministre chargé de l'urbanisme, en fonction du dernier indice du coût de la construction publié par l'institut national de la statistique et des études économiques. Il est enfin précisé que le montant de la taxe d'aménagement dépend du taux déterminé par les collectivités territoriales. Ce taux peut être modulé selon les secteurs de leur territoire.
