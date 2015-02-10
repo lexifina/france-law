@@ -1,0 +1,9 @@
+# Réponse à la question n° 66053
+
+- Question : [66053](66053.md) — Question n° 66053 — péréquation intercommunale; notification; perspectives
+
+## Réponse
+
+*JO du 2015-02-10*
+
+La loi de finances pour 2012 a créé le fonds national de péréquation des ressources intercommunales et communales (FPIC). Ce fonds repose sur un prélèvement d'une partie des ressources de certains ensembles intercommunaux et communes isolées pour la reverser à des ensembles intercommunaux et communes moins favorisés. Il s'inscrit dans la progression de la péréquation horizontale, rendue nécessaire par l'existence d'importants écarts de richesse entre collectivités notamment au sein du bloc communal. Dès sa création, le montant du FPIC pour les années 2013 à 2016 a été inscrit dans la loi, afin de permettre aux collectivités territoriales d'anticiper sa montée en puissance. Par ailleurs, le comité des finances locales a été consulté en 2013 sur la poursuite de la progression des montants du FPIC et a souhaité que le rythme de progression inscrit dans la loi soit maintenu. Les modalités de calcul de la répartition du FPIC sont précisées chaque année dans des circulaires et notes d'information spécifiques. Par ailleurs, en ce qui concerne le calendrier de la communication des prélèvements et des attributions des ensembles intercommunaux au titre du FPIC, leur montant a été mis en ligne suffisamment en amont pour permettre aux ensembles intercommunaux de délibérer, avant le 30 juin 2014, sur la répartition interne du FPIC. Enfin, la loi de finances pour 2015 a prévu dans son article 122 que le gouvernement remettrait au Parlement avant le 1er octobre 2015 un rapport sur le FPIC évaluant notamment la question de la soutenabilité des prélèvements pour les communes contributrices aux différents dispositifs de péréquation.
