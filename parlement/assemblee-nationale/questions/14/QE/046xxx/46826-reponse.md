@@ -1,0 +1,9 @@
+# Réponse à la question n° 46826
+
+- Question : [46826](46826.md) — Question n° 46826 — praticiens intérimaires; coût
+
+## Réponse
+
+*JO du 2015-02-10*
+
+Afin de limiter le coût excessif du recrutement médical temporaire, deux dispositions sont inscrites dans le projet de loi relatif à la santé, présenté par la ministre des affaires sociales, de la santé et des droits des femmes devant le conseil des ministres du 15 octobre 2014. Ces dispositions font suite aux conclusions du rapport du député Olivier Véran, du 17 décembre 2013, sur l'emploi médical temporaire à l'hôpital. Une première disposition organise le recours à du personnel médical, pharmaceutique et odontologique intérimaire dans les conditions fixées par le code du travail, et prévoit le plafonnement des frais engagés à ce titre par l'établissement public de santé. Cette disposition législative, qui sera accompagnée de dispositions réglementaires d'application aux fins d'encadrement des pratiques, devrait apporter plus de transparence et de rigueur dans les recrutements temporaires nécessaires pour assurer le remplacement de praticiens hospitaliers pendant des congés imprévus ou pour assurer la permanence des soins. Une seconde disposition vise à introduire la possibilité de recourir à des praticiens hospitaliers titulaires volontaires pour effectuer des remplacements pouvant être planifiés par les établissements. Cette mesure devrait constituer une alternative de recrutement pour les établissements et répondre en même temps aux aspirations des praticiens hospitaliers volontaires pour une diversification des conditions d'exercice. Elle continue de faire l'objet de travaux avec les représentants des professionnels concernés. Ces deux dispositions devraient permettre une moralisation et un assainissement du marché du recrutement médical temporaire.
