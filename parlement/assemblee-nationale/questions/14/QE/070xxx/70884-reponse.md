@@ -1,0 +1,9 @@
+# Réponse à la question n° 70884
+
+- Question : [70884](70884.md) — Question n° 70884 — insertion par l'activité économique; structures d'insertion; perspectives
+
+## Réponse
+
+*JO du 2015-02-10*
+
+Les critères retenus par Pôle emploi pour orienter les bénéficiaires vers une structure d'insertion par l'activité économique sont précisés par la circulaire DGEFP/DGAS n° 2003-24 du 3 octobre 2003 relative à l'aménagement de la procédure d'agrément par l'agence nationale pour l'emploi (ANPE) et au suivi des personnes embauchées dans une structure d'insertion par l'activité économique. L'article 11 de la loi de lutte contre les exclusions dispose que « l'insertion par l'activité économique a pour objet de permettre à des personnes sans emploi rencontrant des difficultés sociales et professionnelles particulières de bénéficier de contrats de travail en vue de faciliter leur insertion sociale et professionnelle ». L'insertion par l'activité économique (IAE) s'adresse donc à des personnes sans emploi rencontrant des difficultés sociales et professionnelles particulières qui, au-delà des critères administratifs traditionnels cumulent des difficultés sociales et professionnelles en raison de leur âge, de leur état de santé, de la précarité de leur situation matérielle. Le diagnostic préalable à la délivrance de l'agrément par Pôle Emploi s'inscrit dans une démarche individualisée d'examen des situations et des besoins des personnes. La prescription d'un parcours IAE fait suite à un diagnostic de la situation sociale et professionnelle de la personne établissant que la personne est sans emploi, que le parcours d'insertion constitue un préalable indispensable à son accès futur au marché de l'emploi et que le type de structures d'insertion par l'activité économique (SIAE) ainsi que le contrat proposés correspondent aux besoins de la personne.
