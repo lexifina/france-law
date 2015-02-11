@@ -1,0 +1,107 @@
+# Entreprises : devoir de vigilance des entreprises donneuses d'ordre
+
+- Procédure : Proposition de loi ordinaire
+- Législature : 14
+- Identifiant : DLR5L14N33752
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/devoir_vigilance_entreprises_donneuses_ordre
+- Sénat : http://www.senat.fr/dossier-legislatif/ppl14-376.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2015-02-11 : 1er dépôt d'une initiative. (PIONANR5L14B2578)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2015-02-11 : Renvoi en commission au fond
+      - 2015-03-04 : Nomination de rapporteur
+      - 2015-03-04 : Réunion de commission
+      - 2015-03-11 : Réunion de commission
+      - 2015-03-11 : Réunion de commission
+      - 2015-03-30 : Réunion de commission
+      - 2015-03-11 : Dépôt de rapport (RAPPANR5L14B2628, PIONANR5L14BTC2628)
+    - Travaux d'une commission saisie pour avis
+      - 2015-03-02 : Saisine pour avis d'une commission
+      - 2015-03-04 : Nomination de rapporteur
+      - 2015-03-11 : Réunion de commission
+      - 2015-03-11 : Dépôt de rapport (AVISANR5L14B2627)
+    - Travaux d'une commission saisie pour avis
+      - 2015-03-04 : Saisine pour avis d'une commission
+      - 2015-03-04 : Nomination de rapporteur
+      - 2015-03-10 : Dépôt de rapport (AVISANR5L14B2625)
+  - Discussion en séance publique
+    - 2015-03-30 : Discussion en séance publique
+    - 2015-03-31 : Discussion en séance publique
+    - 2015-03-30 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2015-03-31 : Dépôt d'une initiative en navette (PIONSNR5S239B0376)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2015-03-31 : Renvoi en commission au fond
+      - 2015-09-16 : Nomination de rapporteur
+      - 2015-10-14 : Dépôt de rapport (RAPPSNR5S259B0074)
+  - Discussion en séance publique
+    - 2015-10-21 : Discussion en séance publique
+    - 2015-11-18 : Discussion en séance publique
+    - 2015-11-18 : Décision
+- deuxième lecture
+  - 2015-11-19 : Dépôt d'une initiative en navette (PIONANR5L14B3239)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2015-11-19 : Renvoi en commission au fond
+      - 2016-03-16 : Réunion de commission
+      - 2016-03-23 : Réunion de commission
+      - 2016-03-16 : Dépôt de rapport (RAPPANR5L14B3582, PIONANR5L14BTC3582)
+  - Discussion en séance publique
+    - 2016-03-23 : Discussion en séance publique
+    - 2016-03-23 : Décision
+- deuxième lecture
+  - 2016-03-24 : Dépôt d'une initiative en navette (PIONSNR5S259B0496)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2016-03-24 : Renvoi en commission au fond
+      - 2016-10-05 : Dépôt de rapport (RAPPSNR5S279B0010)
+  - Discussion en séance publique
+    - 2016-10-13 : Discussion en séance publique
+    - 2016-10-13 : Décision
+- Commission Mixte Paritaire
+  - 2016-10-14 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2016-11-02 : Nomination de rapporteur
+    - 2016-11-02 : Dépôt du rapport d'une CMP (RAPPANR5L14B4184)
+    - 2016-11-02 : Dépôt du rapport d'une CMP (RAPPSNR5S279B0099)
+  - 2016-11-03 : Décision de la CMP
+- Nouvelle Lecture
+  - 2016-10-13 : Dépôt d'une initiative en navette (PIONANR5L14B4133)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2016-10-13 : Renvoi en commission au fond
+      - 2016-11-22 : Réunion de commission
+      - 2016-11-29 : Réunion de commission
+      - 2016-11-23 : Dépôt de rapport (RAPPANR5L14B4242, PIONANR5L14BTC4242)
+  - Discussion en séance publique
+    - 2016-11-29 : Discussion en séance publique
+    - 2016-11-29 : Discussion en séance publique
+    - 2016-11-29 : Décision
+- Nouvelle Lecture
+  - 2016-11-30 : Dépôt d'une initiative en navette (PIONSNR5S279B0159)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2016-11-30 : Renvoi en commission au fond
+      - 2017-01-11 : Dépôt de rapport (RAPPSNR5S279B0289)
+  - Discussion en séance publique
+    - 2017-02-01 : Discussion en séance publique
+    - 2017-02-01 : Décision
+- Lecture définitive
+  - 2017-02-02 : Dépôt d'une initiative en navette (PIONANR5L14B4447)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2017-02-02 : Renvoi en commission au fond
+  - Discussion en séance publique
+    - 2017-02-21 : Discussion en séance publique
+    - 2017-02-21 : Décision
+- Conseil constitutionnel
+  - 2017-02-23 : Saisine du conseil constitutionnel
+  - 2017-02-23 : Saisine du conseil constitutionnel
+  - 2017-03-23 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2017-03-27 : Promulgation d'une loi
