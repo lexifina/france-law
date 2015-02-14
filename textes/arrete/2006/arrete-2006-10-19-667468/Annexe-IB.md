@@ -1808,26 +1808,6 @@ Dose techniquement inévitable.
 
 |
 
-Formol (solution aqueuse de formaldéhyde à 30 %).
-
-|
-
-Divers.
-
-|
-
-Sucre (mi-) blanc cristallisé.
-
-|
-
-Formaldéhyde ≤ 400 g/t de betteraves.
-
-|
-
-Dose techniquement inévitable.
-
-|
-
 Gaz rares non radioactifs.
 
 |
@@ -1850,11 +1830,17 @@ Dose techniquement inévitable.
 
 |
 
-Gel de silice |
+Gel de silice
 
-Agent de clarification |
+|
 
-Jus de légumes |
+Agent de clarification
+
+|
+
+Jus de légumes
+
+|
 
 A la dose strictement nécessaire pour obtenir l'effet recherché.
 
@@ -1864,11 +1850,17 @@ Dose techniquement inévitable.
 
 |
 
-Gélatine alimentaire |
+Gélatine alimentaire
 
-Agent de clarification |
+|
 
-Jus de légumes |
+Agent de clarification
+
+|
+
+Jus de légumes
+
+|
 
 A la dose strictement nécessaire pour obtenir l'effet recherché.
 
@@ -4092,7 +4084,9 @@ Agent de clarification.
 
 |
 
-Jus de légumes |
+Jus de légumes
+
+|
 
 A la dose strictement nécessaire pour obtenir l'effet recherché.
 

@@ -956,6 +956,16 @@ Utilisation pour la préparation d'aliments contenant de la L-asparagine et des 
 
 Dose techniquement inévitable. |
 
+Asparaginase issue d'une souche génétiquement modifiée de Bacillus subtilis (CK) porteuse du gène codant une asparaginase de Pyrococcus furiosus. |
+
+Enzymes. |
+
+Produits céréaliers (à l'exception du pain de tradition française) y compris les céréales pour petit déjeuner, produits frits à base de pommes de terre, extraits de levure. |
+
+Utilisation pour la préparation d'aliments contenant de la L-asparaginase et des hydrates de carbone, cuits à des températures supérieures à 120° C afin de diminuer les niveaux de L-asparagine (principal précurseur de la formation d'acrylamide). |
+
+Teneur résiduelle techniquement inévitable. |
+
 Aspartyl protéase d'Aspergillus oryzae (n° IF 04 177/777) contenant le gène codant pour la protéase de Rhizomucor mieihei.
 
 |
@@ -1067,6 +1077,16 @@ Addition de galactose ou de lactose pour obtenir des galacto-oligosaccharides.
 Dose techniquement inévitable.
 
 |
+
+Bêta galactosidase BbgIV issue d'une souche génétiquement modifiée d'Escherichia coli (BgIA MCB3) porteuse du gène codant une bêta galactosidase BbgIV de Bifidobactérium bifidum. |
+
+Enzymes. |
+
+Galacto-oligosaccharides |
+
+Transgalactosylation générant des galacto-oligosaccharides à partir de lactose. |
+
+Teneur techniquement inévitable. |
 
 Bêta-galactosidase de Kluyveromyces lactis n° 013-2 (FERM P-3513). |
 
@@ -1476,6 +1496,24 @@ Hydrolyse de la cellulose. |
 
 Teneur techniquement inévitable. |
 
+Cellulase issue d'une souche de Trichoderma reesei autoclonée (E2DD2). |
+
+Enzymes.
+
+|
+
+Amidonnerie, production de sirop de glucose.
+
+Brasserie.
+
+Industrie de l'alcool potable.
+
+|
+
+Hydrolyse de la cellulose. |
+
+Teneur résiduelle techniquement inévitable. |
+
 Chymosine d'Aspergillus niger variété Awamori renfermant un gène de prochymosine B de veau.
 
 |
@@ -1691,6 +1729,20 @@ Hydrolyse des liaisons alpha 1-6 des dextranes.
 Dose techniquement inévitable.
 
 |
+
+Endo-bêta-glucanase issue d'une souche génétiquement modifiée de Bacillus subtilis (CF 624B-1) porteuse du gène codant une bêta glucanase de Bacillus subtilis. |
+
+Enzymes. |
+
+Brasserie.
+
+Industrie de l'alcool potable.
+
+|
+
+Hydrolyse des liaisons bêta 1-3 et 1-4 des glucanes. |
+
+Teneur résiduelle techniquement inévitable. |
 
 Endo-bêta-glucanase issue d'une souche non génétiquement modifiée de Geosmithia emersonii (BWW1016. 2). |
 
@@ -4312,6 +4364,16 @@ Hydrolyse des liaisons osidiques des hémicelluloses. |
 
 Teneur résiduelle techniquement inévitable. |
 
+Xylanase issue d'une souche génétiquement modifiée de Bacillus licheniformis (CE) porteuse d'un gène codant une xylanase de de Bacillus licheniformis. |
+
+Enzymes. |
+
+Panification (à l'exception du pain de tradition française) et panification spéciale, biscuiterie, pâtisserie, biscotterie et viennoiserie. |
+
+Hydrolyse des liaisons osidiques des hémicelluloses. |
+
+Teneur résiduelle techniquement inévitable. |
+
 Xylanase de Bacillus subtilis génétiquement modifiée XAS-3. |
 
 Enzymes. |
@@ -4321,6 +4383,16 @@ Produits de boulangerie et boulangerie fine à l'exception du pain de tradition 
 Hydrolyse des liaisons osidiques des xylanes qui sont des hémicelluloses.A la dose strictement nécessaire pour obtenir l'effet recherché. |
 
 Dose techniquement inévitable. |
+
+Xylanase issue d'une souche génétiquement modifiée de Bacillus subtilis (CF307) autoclonée. |
+
+Enzymes. |
+
+Panification (à l'exception du pain de tradition française) et panification spéciale, biscuiterie, pâtisserie, biscotterie et viennoiserie. |
+
+Hydrolyse des liaisons osidiques des hémicelluloses. |
+
+Teneur résiduelle techniquement inévitable. |
 
 Xylanase de Bacillus subtilis Giza 3508 porteuse d'un gène codant une xylanase de Pseudoalteromonas haloplankis. |
 

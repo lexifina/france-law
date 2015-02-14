@@ -1,6 +1,8 @@
 # Article Annexe I D
 
-AUXILIAIRES TECHNOLOGIQUES
+AUXILIAIRES
+
+technologiques
 
 |
 
@@ -16,13 +18,35 @@ alimentaire
 
 |
 
-CONDITIONS D'EMPLOI/FONCTION
+CONDITIONS D'EMPLOI/
+
+fonction
 
 |
 
 TENEUR RÉSIDUELLE
 
 maximale
+
+|
+
+Bêta galactosidase BbgIV issue d'une souche génétiquement modifiée d'Escherichia coli (BgIA MCB3) porteuse du gène codant une bêta galactosidase BbgIV de Bifidobactérium bifidum.
+
+|
+
+Enzymes.
+
+|
+
+Galacto-oligosaccharides.
+
+|
+
+Transgalactosylation générant des galacto-oligosaccharides à partir de lactose.
+
+|
+
+Teneur techniquement inévitable.
 
 |
 

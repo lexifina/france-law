@@ -1240,6 +1240,28 @@ A la dose strictement nécessaire pour obtenir l'effet recherché.
 
 |
 
+Mélanges de copolymères d'oxyde d'éthylène et d'oxyde de propylène condensés sur glycérol (PM > 5 000 g/mol), condensés sur des acides gras du "tall oil", condensés sur l'huile de colza et les acides gras du "tall oil".
+
+|
+
+Antimousse.
+
+|
+
+Pommes de terre blanchies réfrigérées ou cuites sous vide. Frites réfrigérées ou surgelées. Chips.
+
+Flocons déshydratés.
+
+|
+
+A la dose maximale de 0.36 kg/T de pommes de terre pour la fabrication de frites et de 0.05 kg/T de pommes de terre pour la fabrication des flocons deshydratés. Le traitement doit être suivi d'un rinçage à l'eau satisfaisant aux normes fixées pour l'eau potable.
+
+|
+
+Teneur résiduelle techniquement inévitable.
+
+|
+
 Mélange de polystyrène et de polyvinylpyrrolidone réticulée obtenu par un procédé spécial et contenant au plus 8 mg de styrène par kg.
 
 |
@@ -1253,6 +1275,26 @@ Bières et produits à base de bières.
 |
 
 50 à 150 g par hectolitre selon la turbidité des bières traitées.
+
+|
+
+Teneur résiduelle techniquement inévitable.
+
+|
+
+Mélange de sucre et de polyéthylène glycol (PEG 300 à 9 000 daltons).
+
+|
+
+Autre auxiliaire.
+
+|
+
+Sucre (mi-) blanc cristallisé.
+
+|
+
+Diluant des amorces de cristallisation à la teneur maximale de 25 g/m3 de liqueur.
 
 |
 
@@ -1296,7 +1338,7 @@ Décaféination ou suppression des matières irritantes et amères du café ou d
 
 |
 
-≤ 20 mg/kg dans le café ou le thé. La teneur en n-hexane de ce solvant ne doit pas dépasser 50 mg / kg.
+≤ 20 mg/kg dans le café ou le thé. La teneur en n-hexane de ce solvant ne doit pas dépasser 50 mg/kg.
 
 |
 
@@ -1337,6 +1379,26 @@ A la dose maximale de 12 g par tonne utilisés en tant que produits antipoussiè
 |
 
 Dose techniquement inévitable.
+
+|
+
+Oxyde d'éthylène condensé sur les alcools gras C9 à C11.
+
+|
+
+Antimousse.
+
+|
+
+Sel alimentaire minéral.
+
+|
+
+A la dose maximale de 22 mg/T de saumure extraite de mine de sel gemme avant évaporation.
+
+|
+
+Teneur résiduelle inférieure à 1 mg/kg.
 
 |
 
@@ -1684,6 +1746,66 @@ Dose techniquement inévitable.
 
 |
 
+Solution aqueuse de formaldéhyde à 30 %.
+
+|
+
+Agent de décontamination des produits d'origine végétale.
+
+|
+
+Sucre cristallisé.
+
+|
+
+A la dose maximale de 120 g de formaldéhyde par tonne de betterave.
+
+|
+
+1 mg de formaldéhyde/kg de sucre.
+
+|
+
+Solution à base d'acide peracétique, de peroxyde d'hydrogène et d'acide acétique.
+
+|
+
+Agent de décontamination des produits d'origine végétale.
+
+|
+
+Petits pois et haricots verts destinés à l'appertisation.
+
+|
+
+A la dose maximale de 500 mg d'acide peracétique/L d'eau de lavage. Le traitement doit être suivi d'un rinçage à l'eau satisfaisant aux normes fixées pour l'eau potable.
+
+|
+
+Teneur résiduelle techniquement inévitable.
+
+|
+
+Solution à base d'acide peracétique, de peroxyde d'hydrogène et d'acide acétique.
+
+|
+
+Agent de décontamination des produits d'origine végétale.
+
+|
+
+Amidon, fécule et dérivés.
+
+|
+
+Traitement du lait d'amidon à la dose maximale de 1000 g d'acide peracétique par tonne de matière sèche de produit fini amylacé.
+
+|
+
+Teneur résiduelle techniquement inévitable.
+
+|
+
 Solution à base d'acide peracétique, de peroxyde d'hydrogène et d'acide acétique.
 
 |
@@ -1712,7 +1834,7 @@ Agent de décontamination des produits d'origine végétale.
 
 |
 
-Epinards blanchis destinés à la congélation
+Epinards blanchis destinés à la congélation.
 
 |
 
