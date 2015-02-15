@@ -22,6 +22,14 @@ RÉFÉRENCES CADASTRALES
 
 |
 
+Aisne (02) |
+
+Maison forestière de Pré Gueux |
+
+Coyolles |
+
+B45, B46 |
+
 Allier (3)
 
 |
@@ -128,6 +136,14 @@ F24, F25, F26 en partie, F27 en partie dans la limite d'un usage normal du bien
 
 |
 
+Ardennes (08) |
+
+Chalet des Agaces |
+
+Nouzonville |
+
+C75 en partie, C76 en partie afin de constituer une superficie permettant un usage normal du bien |
+
 Aube (10)
 
 |
@@ -164,6 +180,14 @@ Arrelles
 
 A106 en partie, A107 en partie dans limite de la route forestière |
 
+Aube (10) |
+
+Maison forestière de Graviliers |
+
+Champignol-lez-Mondeville |
+
+H7, H6 |
+
 Calvados (14) |
 
 Maison forestière de la Belle Loge
@@ -185,6 +209,46 @@ Chezal-Benoît |
 A72, A73 en partie et A74 en partie dans la limite du parking attenant au local ONF
 
 |
+
+Cher (18) |
+
+Garage des Loges de Méry |
+
+Méry-ès-Bois |
+
+AP48, AP47 en partie afin de constituer une superficie permettant un usage normal du bien |
+
+Côte-d'Or (21) |
+
+Maison forestière de Bagnot |
+
+Argilly |
+
+F15, F16 en partie afin de constituer une superficie permettant un usage normal du bien |
+
+Drôme (26) |
+
+Garage Teston |
+
+Bouvante |
+
+AI20, AI21, AI111 |
+
+Drôme (26) |
+
+Maison forestière des Eygaziers |
+
+Bouvante |
+
+AI67 en partie afin de constituer une superficie permettant un usage normal du bien |
+
+Drôme (26) |
+
+Maison forestière de la Réserve |
+
+Bouvante |
+
+AI67 en partie afin de constituer une superficie permettant un usage normal du bien |
 
 Finistère (29) |
 
@@ -400,6 +464,22 @@ Les Bordes |
 
 ZD6, A183, A184, A178 en partie dans la limite d'un usage normal du bien |
 
+Lozère (48) |
+
+Atelier de Roquedols |
+
+Meyrueis |
+
+G949 |
+
+Lozère (48) |
+
+Maison forestière de Roquedols |
+
+Meyrueis |
+
+G951 |
+
 Haute-Marne (52)
 
 |
@@ -496,13 +576,37 @@ Laxou |
 
 AZ55 en partie dans la limite du jardin attenant |
 
+Meurthe-et-Moselle (54) |
+
+Bâtiment n° 720 - Gymnase |
+
+Velaine-en-Haye |
+
+AK 89 |
+
+Meurthe-et-Moselle (54) |
+
+Maison forestière Marie Chanois |
+
+Maron |
+
+AN 16 en partie, AN 17, AN 18 |
+
 Meuse (55) |
 
 Maison forestière de Ravigny |
 
 Souilly |
 
-C20 et C21 en partie dans la limite d'un usage normal du bien |
+C21, C20 en partie dans la limite d'un usage normal du bien |
+
+Meuse (55) |
+
+Maison forestière du Breuil |
+
+Gremilly |
+
+C7, C18 en partie afin de constituer une superficie permettant un usage normal du bien |
 
 Moselle (57)
 
@@ -672,6 +776,14 @@ Obies |
 
 A208 en partie et A209 en partie dans la limite du jardin attenant, A210 et A211 |
 
+Nord (59) |
+
+Maison forestière de Cataine |
+
+Hasnon |
+
+AL01 en partie afin de constituer une superficie permettant un usage normal du bien |
+
 Oise (60)
 
 |
@@ -717,6 +829,22 @@ Maison forestière du Magasin |
 La Neuville en Hez |
 
 B445, B444 en partie dans la limite d'un usage normal du bien |
+
+Oise (60) |
+
+Maison forestière du Pont de Berne |
+
+Compiègne |
+
+E16, E15 en partie afin de constituer une superficie permettant un usage normal du bien |
+
+Oise (60) |
+
+Maison forestière de la Faisanderie 2 |
+
+Compiègne |
+
+E127, E128 en partie afin de constituer une superficie permettant un usage normal du bien |
 
 Orne (61)
 
@@ -878,6 +1006,14 @@ Labroque |
 
 Section 23 parcelle 2 en partie dans la limite du jardin attenant |
 
+Bas-Rhin (67) |
+
+Maison forestière de la Mésange |
+
+Niederbronn-les-Bains |
+
+Section 31, 316, 317 |
+
 Haut-Rhin (68) |
 
 Maison forestière Le Chant des oiseaux |
@@ -996,6 +1132,30 @@ C13, C12 en partie, C11 en partie pour intégrer les dépendances et permettre u
 
 |
 
+Seine-Maritime (76) |
+
+Maison forestière de l'Ermitage |
+
+Richemont |
+
+Section A, AA 0018 en partie afin de constituer une superficie permettant un usage normal du bien |
+
+Seine-Maritime (76) |
+
+Maison forestière des Hautes Avesnes |
+
+La Feuillie |
+
+H226, H227, H225 en partie afin de constituer une superficie permettant un usage normal du bien |
+
+Seine-Maritime (76) |
+
+Maison forestière de la Bouillarderie |
+
+Millebosc |
+
+Section B, 443 en partie afin de constituer une superficie permettant un usage normal du bien |
+
 Yvelines (78)
 
 |
@@ -1076,6 +1236,34 @@ C07 et C08
 
 |
 
+Yvelines (78) |
+
+Maison forestière
+
+du Butard N° 1 |
+
+La Celle-Saint-Cloud |
+
+AK0018, AK0019 |
+
+Yvelines (78) |
+
+Maison forestière
+
+du Butard N° 2 |
+
+La Celle-Saint-Cloud |
+
+AK0020, AK0021 |
+
+Yvelines (78) |
+
+Pavillon du Butard |
+
+La Celle-Saint-Cloud |
+
+AK17 |
+
 Deux-Sèvres (79)
 
 |
@@ -1115,6 +1303,14 @@ Maison forestière Perilhac |
 Castelnau-Montmiral |
 
 AZ58 en partie pour restitution de surface à la forêt domaniale |
+
+Tarn (81) |
+
+Maison forestière du Pas de Castelnau |
+
+Castelnau-de-Montmiral |
+
+BD0033 |
 
 Vosges (88) |
 
