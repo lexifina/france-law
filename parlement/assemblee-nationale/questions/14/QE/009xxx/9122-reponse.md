@@ -1,0 +1,9 @@
+# Réponse à la question n° 9122
+
+- Question : [9122](9122.md) — Question n° 9122 — comité ministériel d'investissement; réunions; calendrier
+
+## Réponse
+
+*JO du 2015-02-17*
+
+L'article R*1142-4 du code de la défense dispose que les attributions, la composition et le fonctionnement du comité ministériel d'investissement (CMI) sont précisés par un arrêté du ministre de la défense, qui préside cet organisme. En conséquence, un arrêté du 17 février 2010 a défini le CMI comme l'instance du ministère de la défense dédiée à la maîtrise des projets d'investissement du ministère. Le ministre de la défense, le chef d'état-major des armées, le délégué général pour l'armement et le secrétaire général pour l'administration sont membres permanents du CMI ; le chef du contrôle général des armées ainsi que le directeur des affaires financières étant pour leur part invités permanents de cette structure. L'arrêté du 17 octobre 2012 a modifié l'arrêté du 17 février 2010, conformément aux dispositions prévues par l'article R*1142-4 du code de la défense, en disposant que siègent également au sein du CMI le conseiller auprès du ministre, le directeur du cabinet civil et militaire, le directeur adjoint du cabinet civil et militaire et le chef du cabinet militaire. A l'instar du comité exécutif ministériel institué par l'article R*1142-4 précité, le CMI est chargé d'éclairer le ministre, qui reste personnellement chargé de préparer et mettre en oeuvre la politique de défense, et notamment d'établir la programmation des équipements et des infrastructures, de contrôler sa mise en oeuvre, et de déterminer les actions à mener au titre de la politique industrielle et de recherche (aux termes de l'article R*1142-1 du code de la défense). La composition du CMI et la fréquence de ses réunions ont été arrêtées pour répondre le plus efficacement au besoin d'éclairage à fournir au ministre pour sa prise de décision.
