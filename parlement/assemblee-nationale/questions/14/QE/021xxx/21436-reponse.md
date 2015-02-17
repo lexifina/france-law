@@ -1,0 +1,9 @@
+# Réponse à la question n° 21436
+
+- Question : [21436](21436.md) — Question n° 21436 — industries électriques et gazières; calendrier; réforme
+
+## Réponse
+
+*JO du 2015-02-17*
+
+Le régime spécial d'assurance-vieillesse des industries électriques et gazières était l'un des derniers régimes de retraite qui versait les pensions trimestriellement par terme à échoir. Il a été mis fin à cette spécificité par le décret n° 2013 -53 du 15 janvier 2013 relatif au régime spécial de retraite du personnel des industries électriques et gazières. Le versement des retraites s'effectue, depuis le 1er avril 2013, mensuellement pour les pensions à échoir. Cette décision a permis d'améliorer la trésorerie du régime : la caisse nationale des industries électriques et gazières (CNIEG), qui sert ces pensions du régime spécial, était en effet contrainte à avoir un recours croissant à l'emprunt pour financer les décalages entre le versement trimestriel des pensions à échoir et la perception mensuelle de ses recettes, assises notamment sur les cotisations sociales. En outre, la mensualisation du versement des pensions correspond au rythme actuel des principales dépenses d'un ménage (loyers, factures) : elle facilite la gestion des budgets familiaux. Un dispositif d'accompagnement global des pensionnés a été enfin mis en oeuvre par la CNIEG (courriers, service téléphonique dédié, messages électroniques SMS.... ) afin d'informer les pensionnés sur les évolutions des échéances de versement et sur le montant de leur nouvelle pension mensuelle. Cette réforme a ainsi été bien comprise et acceptée par les retraités concernés : une enquête menée par la CNIEG auprès d'un échantillon représentatif de pensionnés indique que 84 % d'entre eux sont satisfaits de cette réforme et de l'accompagnement de la CNIEG dont ils ont bénéficié.
