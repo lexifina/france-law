@@ -1,0 +1,9 @@
+# Réponse à la question n° 64315
+
+- Question : [64315](64315.md) — Question n° 64315 — autorités administratives indépendantes; nombre; réduction
+
+## Réponse
+
+*JO du 2015-02-17*
+
+Le secrétaire d'Etat, auprès du Premier ministre, chargé des relations avec le Parlement, salue la qualité du travail réalisé par M. Patrice Gélard, auteur d'un rapport d'information riche d'enseignements sur les autorités administratives indépendantes. Il rappelle, par ailleurs, que ce rapport recommande non pas de réduire le nombre d'autorités administratives indépendantes, mais de « limiter le développement des autorités publiques indépendantes dotées de la personnalité morale aux seules instances dont l'activité se prête à la perception de taxes ou de droit ». Il souligne également que la création de nouvelles autorités administratives indépendantes depuis 2006, mise en lumière par Patrice Gélard, répondait à des besoins de régulation nouveaux (création de l'Autorité de contrôle prudentiel et de résolution, de l'Autorité de régulation des activités ferroviaires, Autorité de régulation des jeux en ligne, Haute autorité pour la diffusion des oeuvres et la protection des droits sur internet...) ou à la volonté de mieux assurer le respect des principes fondamentaux de notre République (Haute autorité pour la transparence de la vie publique, Contrôleur général des lieux de privation de liberté...). De plus, comme le relève justement Patrice Gélard dans son rapport, des efforts ont déjà été faits pour mettre en place des coopérations entre les différentes autorités administratives indépendantes. De même, certaines fusions pourraient, à l'avenir, être mises à l'étude. Le Gouvernement ne manquera pas de tenir compte des conclusions de ce rapport. Il réaffirme en outre son attachement au contrôle du Parlement sur le fonctionnement des autorités administratives indépendantes.
