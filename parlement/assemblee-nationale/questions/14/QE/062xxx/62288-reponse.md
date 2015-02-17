@@ -1,0 +1,9 @@
+# Réponse à la question n° 62288
+
+- Question : [62288](62288.md) — Question n° 62288 — comités mixtes paritaires; élus; modalités
+
+## Réponse
+
+*JO du 2015-02-17*
+
+L'article 34 de la loi n° 2010-751 du 5 juillet 2010 relative à la rénovation du dialogue social et comportant diverses dispositions relatives à la fonction publique a fixé les modalités d'une convergence des mandats des représentants du personnel : leur durée a été harmonisée à quatre ans dans l'ensemble des organismes consultatifs de la fonction publique. Les élections des organismes consultatifs de la fonction publique ont ainsi eu lieu pour la première fois en même temps le 4 décembre 2014. La date des élections pour le prochain renouvellement général des comités techniques de la fonction publique de l'Etat sera fixée par arrêté conjoint du Premier ministre et de la ministre de la fonction publique, conformément à l'article 12 du décret n° 2011-184 relatif aux comités techniques dans les administrations et les établissements publics de l'Etat, qui fixe la durée des mandats des représentants du personnel à quatre ans. L'article 53 du décret n° 2011-184 du 15 février 2011 relatif aux comités techniques dans les administrations et les établissements publics de l'Etat prévoit toutefois que « dans l'intérêt du service, la durée du mandat des représentants des personnels d'un comité technique peut être réduite ou prorogée, par arrêté conjoint du ministre chargé de la fonction publique et du ministre intéressé. Cette réduction ou prorogation ne peut excéder une durée de dix-huit mois. » Dès lors que cet arrêté a été pris dans les conditions mentionnées ci-dessus, un comité technique peut être réuni en convoquant les membres dont le mandat n'est pas arrivé à échéance après l'organisation des élections professionnelles, tant que la prorogation de ces mandats couvre la période jusqu'à la mise en place de la nouvelle instance concernée suite aux résultats des élections professionnelles.
