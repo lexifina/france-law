@@ -1,0 +1,9 @@
+# Réponse à la question n° 68178
+
+- Question : [68178](68178.md) — Question n° 68178 — rémunérations; décret; champ d'application
+
+## Réponse
+
+*JO du 2015-02-17*
+
+Les agents contractuels de droit public des établissements relevant de la loi du 9 janvier 1986 portant dispositions statutaires relatives à la fonction publique hospitalière sont régis par le décret du 6 février 1991 dont l'article 35 prévoit notamment que : « L'agent contractuel exerçant ses fonctions à temps partiel perçoit une fraction du traitement afférent à son emploi. Cette fraction est égale au rapport entre la durée hebdomadaire de service effectuée et la durée résultant des obligations hebdomadaires de service légalement fixées pour les agents exerçant à temps plein les mêmes fonctions. Toutefois, dans le cas des services représentant 80 et 90 % du temps plein, cette fraction est égale respectivement aux 6/7 et aux 32/35 du traitement afférent à l'emploi. [...] » Ces dispositions s'appliquent de plein droit aux agents contractuels recrutés sur un emploi à temps complet qui demandent à bénéficier d'un exercice de leur fonctions à temps partiel dans les conditions fixées par les articles 32 à 34 du même décret. Il convient cependant de faire la différence entre ces agents et ceux qui, recrutés pour pourvoir des emplois à temps non complet qui ne peuvent être attribués à des agents titulaires et dont la quotité peut se trouver égale à 80 % d'un emploi à temps complet, ne peuvent bénéficier de ces disposition puisque, aux termes du dernier alinéa de l'article 32, « La durée de service à temps partiel sur autorisation que les agents non titulaires peuvent accomplir est fixée à 50 %, 60 %, 70 %, 75 %, 80 % ou 90 % de la durée de service que les agents exerçant à temps plein les mêmes fonctions doivent effectuer [...]. » La quotité de travail de ces derniers est fixée par le contrat de travail, et leur rémunération est dans ce cas strictement proportionnelle à cette quotité.
