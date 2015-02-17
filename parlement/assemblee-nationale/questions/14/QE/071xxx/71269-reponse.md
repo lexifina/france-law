@@ -1,0 +1,9 @@
+# Réponse à la question n° 71269
+
+- Question : [71269](71269.md) — Question n° 71269 — taxe sur le chiffre d'affaires; régime simplifié; modalités
+
+## Réponse
+
+*JO du 2015-02-17*
+
+Le régime simplifié de liquidation des taxes sur le chiffre d'affaires permet d'alléger les modalités déclaratives des redevables dont le chiffre d'affaires n'excède pas certains seuils précisés au I de l'article 302 septies A du code général des impôts (CGI). Les seuils étaient, depuis 2008, actualisés chaque année dans la même proportion que la limite supérieure de la première tranche du barème de l'impôt sur le revenu et arrondis au millier d'euros le plus proche, afin de tenir compte de l'évolution des prix. Pour l'année 2014, ces seuils étaient de 783 000 euros pour les entreprises dont le commerce principal est de vendre des marchandises, objets, fournitures et denrées à emporter ou à consommer sur place ou de fournir le logement, et 236 000 euros pour les autres entreprises. L'article 20 de la loi n° 2013-1279 du 29 décembre 2013 de finances rectificative pour 2013 réforme à compter du 1er janvier 2015 ce régime simplifié d'imposition, s'agissant notamment de la détermination des redevables imposables à ce régime, du mode de calcul et de la détermination des seuils d'imposition en s'appuyant désormais sur le chiffre d'affaires réalisé l'année précédente. De même pour déterminer si une entreprise relève du régime simplifié, le critère n'est plus seulement le montant du chiffre d'affaires réalisé mais également le montant total de la TVA due annuellement au Trésor Public. Les entreprises dont le montant de la TVA exigible de l'année précédente dépasse 15 000 euros ne relèvent ainsi plus de ce régime. En outre, ces seuils sont désormais actualisés de manière triennale dans la même proportion que l'évolution triennale de la limite supérieure de la première tranche du barème de l'impôt sur le revenu ; la première révision interviendra au 1er janvier 2017.
