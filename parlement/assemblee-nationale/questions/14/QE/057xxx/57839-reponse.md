@@ -1,0 +1,9 @@
+# Réponse à la question n° 57839
+
+- Question : [57839](57839.md) — Question n° 57839 — rapport du CESE; préconisations
+
+## Réponse
+
+*JO du 2015-02-17*
+
+Dans son avis « Pour un renouveau des politiques publiques de la culture » du mois d'avril dernier, le Conseil économique, social et environnemental (CESE) formule plusieurs préconisations pour le secteur audiovisuel. Afin de « redynamiser le service public de la culture et de l'audiovisuel », il propose notamment de permettre aux chaînes de télévision de détenir des parts de coproduction sur les oeuvres audiovisuelles dans lesquelles elles investissent. Le Conseil indique ainsi que : « en termes de service public de l'audiovisuel, le CESE estime qu'il est nécessaire de trouver de nouveaux modes de financement et de réfléchir au partage des recettes de la production des fictions : les chaînes publiques doivent pouvoir prendre des parts de coproduction dans les oeuvres qu'elles financent ». Cette préconisation du Conseil, fort intéressante, a été mise en oeuvre par la loi n° 2013-1028 du 15 novembre 2013 relative à l'indépendance de l'audiovisuel public. En effet, son article 29 a modifié l'article 71-1 de la loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication afin d'autoriser les chaînes de télévision, dans le cadre de leur obligation d'investissement dans la production indépendante, à détenir des parts de coproduction dans les oeuvres audiovisuelles qu'elles financent de manière substantielle. Cet article renvoie à un décret le soin de préciser le niveau de la part substantielle de financement de la chaîne dans l'oeuvre ainsi que l'étendue des droits secondaires et des mandats de commercialisation pouvant être détenus par la chaîne lorsqu'elle acquiert des parts de coproduction. Ce décret est en cours d'adoption.
