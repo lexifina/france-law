@@ -1,0 +1,9 @@
+# Réponse à la question n° 62017
+
+- Question : [62017](62017.md) — Question n° 62017 — capitales de la francophonie; propositions
+
+## Réponse
+
+*JO du 2015-02-17*
+
+La création de capitales européennes de la culture a contribué fortement au rayonnement des villes retenues à l'instar de Lille, capitale européenne de la culture en 2012, et de Marseille en 2013, rayonnement à la fois culturel, mais aussi économique. L'idée de reprendre cette démarche dans le cadre de la francophonie est intéressante. La francophonie souffre en effet dans certains pays, et notamment en France, d'un déficit de reconnaissance. Les sommets de la francophonie permettent, tous les deux ans, de réaffirmer l'attachement des Etats et gouvernements membres aux valeurs de paix et de solidarité qui constituent, avec la langue française, le socle de l'organisation. Pour accroître son rayonnement, elle organise diverses manifestations qui s'adressent au grand public et plus particulièrement aux jeunes. On peut citer notamment les Jeux de la francophonie, le Forum mondial de la langue française, ou encore la Journée internationale de la francophonie célébrée le 20 mars de chaque année et qui donne lieu à des évènements y compris dans les pays non francophones. Une initiative relative à la création de capitales francophones, s'ajoutant à ces manifestations, en renforcerait encore l'audience. Cette question mériterait d'être débattue avec nos partenaires, notamment l'association internationale des maires francophones (AIMF), car, la culture du consensus prévalant au sein de la francophonie, il serait essentiel de veiller à ce que cette initiative réponde à l'attente de tous. Ce débat permettrait d'en définir les objectifs, les modalités pratiques, et de l'inscrire dans le calendrier des événements francophones.
