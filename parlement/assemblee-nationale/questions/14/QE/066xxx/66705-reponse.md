@@ -1,0 +1,9 @@
+# Réponse à la question n° 66705
+
+- Question : [66705](66705.md) — Question n° 66705 — quartiers prioritaires; rénovation urbaine; champ d'application
+
+## Réponse
+
+*JO du 2015-02-17*
+
+La convention quadripartite signée par l'Etat avec l'agence nationale pour la rénovation urbaine (ANRU), l'union d'économie sociale pour le logement (UESL) / action logement et l'association foncière logement (AFL) le 14 janvier 2014 a permis d'arrêter la liste des opérations que la foncière logement pourra réaliser au titre de la période 2013-2015. Outil majeur de la diversification de l'offre de logement dans les quartiers éligibles à l'intervention de l'ANRU, les contreparties cédées à l'AFL et sur lesquelles elle réalise des logements locatifs libres constituent un élément indissociable du projet de rénovation urbaine (PRU). A ce titre, elles contribuent à la nécessaire diversification sociale de ces quartiers. Aussi, pour les terrains où l'AFL n'est pas ou plus en mesure d'engager le programme initialement envisagé et conformément à ladite convention qui définit les contreparties non mobilisées, les filiales des associés collecteurs de l'UESL, aussi appelés « opérateurs d'action logement », sont prioritaires pour se positionner comme opérateurs sur ces parcelles. A l'issue du processus de concertation mené par les préfets de département, délégués territoriaux de l'ANRU, en lien avec les partenaires locaux concernés, la dévolution des terrains auxdits opérateurs s'opèrera dans le respect de la cohérence du projet de rénovation urbaine (PRU) et du calendrier de sa réalisation et sera acté par avenant. Dans le cas où aucun opérateur ne se sera positionné, la rétrocession des terrains se fera au profit de la collectivité porteur de projet. Celle-ci s'engagera à en assurer la gestion et à réserver les terrains pour des projets favorisant la diversité résidentielle ou économique des quartiers.
