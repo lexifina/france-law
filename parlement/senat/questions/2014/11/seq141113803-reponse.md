@@ -1,0 +1,9 @@
+# Réponse à la question SEQ141113803
+
+- Question : [SEQ141113803](seq141113803.md) — Suppression de la subvention au service d'aide à l'emploi pour les nouveaux arrivants français et francophones au Québec
+
+## Réponse
+
+*Affaires étrangères, JO du 2015-02-19, page 371*
+
+La loi de finances pour 2015 a supprimé la ligne budgétaire dédiée à la formation et à la recherche d'emplois à l'étranger. Ces aides, allouées par les comités consulaires pour l'emploi et la formation professionnelle, ont été critiquées par la Cour des comptes en 2013. Toutefois, cette suppression n'entraînera pas la fin de l'accompagnement local de nos concitoyens. Afin de ne pas mettre en péril l'équilibre financier des associations qui, dans certains pays, gèrent les services emploi et formation professionnelle en faveur de nos ressortissants, il a été demandé aux postes diplomatiques et consulaires de se rapprocher des opérateurs afin de construire avec eux et avec le concours des services œuvrant à l'étranger à la diplomatie économique, un plan d'augmentation des recettes qui permette de parvenir à un autofinancement à l'horizon 2017. Pendant cette période, le MAEDI continuera à accompagner, de manière dégressive jusqu'en 2017, les dispositifs locaux d'emploi et de formation professionnelle dans les pays où ils existent, grâce à des redéploiements de crédits internes au programme budgétaire 151. Dans ce cadre le MAEDI envisage, sur la base de la demande que la Citim a adressée au Consulat général à Montréal, de lui accorder une nouvelle subvention en 2015, qui sera toutefois vraisemblablement d'un montant inférieur à celle octroyée au titre de 2014. La décision finale sera prise, après avis du Conseil consulaire pour l'emploi et la formation professionnelle auprès du Consulat général à Montréal, lors de la Commission permanente pour l'emploi et la formation professionnelle qui aura lieu le 13 mars 2015.
