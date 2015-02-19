@@ -1,0 +1,9 @@
+# Réponse à la question SEQ140411414
+
+- Question : [SEQ140411414](seq140411414.md) — Soutien au mécénat d'entreprise
+
+## Réponse
+
+*Finances et comptes publics, JO du 2015-02-19, page 395*
+
+Les dispositions de l'article 238 bis du code général des impôts prévoient en faveur des entreprises une réduction d'impôt égale à 60 % du montant des dons, pris dans la limite de 0,5 % du chiffre d'affaires, qu'elles versent à divers organismes d'intérêt général, sous réserve du respect de certaines conditions tenant notamment au caractère de l'activité exercée par l'organisme, aux critères de l'intérêt général (les organismes ne doivent pas exercer d'activité lucrative, doivent être gérés de manière désintéressée et ne pas fonctionner au profit d'un cercle restreint de personnes) et à l'absence de contrepartie en faveur des donateurs. Les versements excédant le plafond de 0,5 % du chiffre d'affaires au cours d'un exercice peuvent donner lieu à réduction d'impôt au titre des cinq exercices suivants, après prise en compte des versements effectués au titre de chacun de ces exercices, sans qu'il puisse en résulter un dépassement dudit plafond. En outre, lorsque le montant de la réduction d'impôt excède le montant de l'impôt à acquitter au titre d'une année ou d'un exercice, le solde non imputé peut être utilisé pour le paiement de l'impôt dû au titre des cinq années ou exercices suivants. Ce dispositif très avantageux, notamment au regard des législations de nos voisins, témoigne de l'attention que les pouvoirs publics portent à l'action de ces organismes. En effet, le Gouvernement est attaché à ce que les entreprises soient incitées à effectuer des dons en faveur d'organismes dont l'action au quotidien est essentielle, dans de nombreux domaines, à la préservation du lien social. Par ailleurs, le coût annuel de cette mesure pour l'État s'élève en 2014 à 750 M€ pour les dons des entreprises.
