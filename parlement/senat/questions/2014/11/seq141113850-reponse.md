@@ -1,0 +1,9 @@
+# Réponse à la question SEQ141113850
+
+- Question : [SEQ141113850](seq141113850.md) — Application de la charia en Europe
+
+## Réponse
+
+*Affaires étrangères, JO du 2015-02-19, page 371*
+
+La spécificité du système judiciaire en Thrace occidentale est reconnue dans le droit grec par la loi du 5 janvier 1914 et par le traité de Lausanne, signé par la Grèce et la Turquie en 1923. Elle n'a pas été remise en cause par le code civil adopté par la Grèce en 1946. Dans la pratique, ce système est toutefois fortement encadré. Le droit islamique ne s'applique qu'aux citoyens grecs musulmans, qui résident dans les juridictions de Komotini, Xanthi et Didimoticho, dans lesquelles trois muftis sont nommés par l'État grec. La compétence des muftis est auxiliaire et facultative. Tout citoyen grec musulman a la possibilité de choisir librement entre le juge islamique et le juge grec, sous condition d'un parallélisme des formes (un mariage prononcé par un mufti ne pourra être annulé que par un mufti). Par ailleurs, les décisions prises par les muftis sont soumises à un contrôle de légalité et de constitutionnalité, selon la nature des affaires, par un officier d'état civil ou une juridiction grecque. Elles doivent donc impérativement être conformes au droit grec et européen. En dehors de quelques cas médiatisés, on assiste à un phénomène de rapprochement du droit islamique appliqué en Thrace occidentale avec le droit grec. En outre, de plus en plus de litiges, notamment en matière de succession, sont désormais systématiquement portés devant les juridictions civiles grecques. Les décisions de muftis en matière successorale restent aujourd'hui exceptionnelles. On observe également une augmentation des mariages civils au sein de la communauté musulmane de Thrace, le mariage religieux n'intervenant qu'en complément.
