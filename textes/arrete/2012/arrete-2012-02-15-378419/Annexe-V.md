@@ -1,165 +1,71 @@
 # Article Annexe V
 
-DOSSIER RECONNAISSANCE DES ACQUIS D'EXPÉRIENCE PROFESSIONNELLE (RAEP)
+DOSSIER " RECONNAISSANCE DES ACQUIS DE L'EXPÉRIENCE PROFESSIONNELLE (RAEP) "
 
-Le dossier RAEP permet au candidat de valoriser les différentes étapes de sa carrière professionnelle ainsi que l'expérience professionnelle acquise dans l'exercice de ses fonctions antérieures au concours.
-
-Le dossier RAEP, établi par le candidat, comporte des informations suffisamment précises pour que le jury puisse faire le lien entre l'activité rapportée par le candidat et le poste mis au concours.
+Le dossier RAEP permet au candidat de valoriser les différentes étapes de sa carrière professionnelle ainsi que l'expérience professionnelle acquise dans l'exercice de ses fonctions antérieures au concours. Il est établi par le candidat et comporte des informations suffisamment précises pour que le jury puisse faire le lien entre l'activité rapportée par le candidat et ses futures fonctions.
 
 1. Identification du candidat
 
-Monsieur Madame
+Monsieur/ Madame : (rayer la mention inutile)
 
-Nom de naissance :
+Nom de naissance : Nom d'époux ou d'épouse (si vous le portez) :
 
-Nom d'époux ou d'épouse :
-
-Premier prénom : Autres prénoms :
-
-Date de naissance :
+Premier prénom : Date de naissance :
 
 Commune de naissance : Région de naissance :
 
-Commune de naissance : ou pays de naissance :
+Pays de naissance : Nationalité française/ Ressortissant européen :
 
-Nationalité française Ressortissant européen
+Je, soussigné (e) (nom, prénom) atteste que toutes les informations données dans le présent document sont exactes et reconnais être informé (e) du fait que toutes fausses déclarations de ma part entraîneraient l'annulation de toute décision favorable prise à mon égard dans le cadre de la présente procédure.
 
-Adresse :
+La loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés s'applique au présent dossier. Elle garantit aux personnes concernées un droit d'accès et de rectification pour les données les concernant, hormis celles qu'elles ont elles-mêmes introduites concernant leur expérience professionnelle.
 
-Code postal : Commune :
+Fait à, le
 
-Pays de résidence :
-
-Tél. domicile : Tél. mobile : Tél. travail :
-
-Courriel :
-
-Je, soussigné(e) (prénom, nom), atteste que toutes les informations données dans le présent document sont exactes et reconnais être informé(e) du fait que toutes fausses déclarations de ma part entraîneraient l'annulation de toute décision favorable prise à mon égard dans le cadre de la présente procédure.
-
-La loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés s'applique au présent dossier. Elle garantit aux personnes concernées un droit d'accès et de rectification pour les données les concernant hormis celles qu'elles ont-elles mêmes introduites concernant leur expérience professionnelle.
-
-A, le
-
-Signature
-
-(Signature de l'agent précédée de la mention lu et approuvé )
+Signature du candidat (précédée de la mention Lu et approuvé).
 
 2. Renseignements concernant votre expérience professionnelle
 
-A. - Parcours professionnel
+A. 1.-Parcours professionnel
 
-Fonction actuelle (joindre relevé de situation)
+Fonction actuelle (joindre la fiche de poste validée par votre DRH)
 
 NOM ET ADRESSE
 
-de l'employeur
-
-ainsi que type d'activité
-
-de l'établissement
+de l'employeur ainsi que le type d'activité de l'établissement
 
 |
 
 PÉRIODE
 
-(du... au...)
+du... au...
 
 |
 
-CATÉGORIE/
+CATÉGORIE/ CORPS/
 
-corps/cadre d'emplois/
-
-métier
+cadre d'emploi/ métier
 
 |
 
-TEMPS PLEIN
+QUOTITÉ
 
-ou % temps partiel
+de travail
 
 |
 
-PRINCIPALES ACTIVITÉS
+PRINCIPALES
+
+activités
 
 ou fonctions exercées
 
 |
 
-PRINCIPALES COMPÉTENCES/
+PRINCIPALES COMPÉTENCES/ connaissances/ savoir-faire
 
-connaissances/
+développés
 
-savoir-faire développés
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
 |
 
 |
@@ -193,175 +99,45 @@ savoir-faire développés
 |
 
 |
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Fonctions antérieures (joindre justificatifs)
-
-NOM(S) ET ADRESSE(S)
 
-de(s) l'employeur(s)
+A. 2.-Description synthétique par ordre chronologique inversé de vos fonctions antérieures (emplois et domaines d'activité occupés) (joindre un certificat de travail validé par votre DRH)
 
-ainsi que type(s) d'activité(s)
+NOM ET ADRESSE
 
-de(s) l'établissement(s)
+de l'employeur ainsi que le type d'activité de l'établissement
 
 |
 
 PÉRIODE
 
-(du... au...)
+du... au...
 
 |
 
-CATÉGORIE/
+CATÉGORIE/ CORPS/
 
-corps/cadre d'emplois/
-
-métier
+cadre d'emploi/ métier
 
 |
 
-TEMPS PLEIN
+QUOTITÉ
 
-ou % temps partiel
+de travail
 
 |
 
-PRINCIPALES ACTIVITÉS
+PRINCIPALES
+
+activités
 
 ou fonctions exercées
 
 |
 
-PRINCIPALES COMPÉTENCES/
+PRINCIPALES COMPÉTENCES/ connaissances/ savoir-faire
 
-connaissances/
+développés
 
-savoir-faire développés
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
 |
 
 |
@@ -459,52 +235,26 @@ savoir-faire développés
 |
 
 |
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-B. - Formations en lien avec parcours professionnel
-
-et/ou projet professionnel (joindre justificatifs)
-
-Inscrire les formations supérieures à deux jours.
 
-Souligner les formations qui vous semblent en lien avec la fonction recherchée.
+B.-Formations en lien avec votre parcours professionnel et/ ou votre projet professionnel supérieures à deux jours (joindre une attestation validée par votre DRH ou votre responsable de formation)
 
-PÉRIODE
+Mentionnez, par ordre chronologique inversé, les actions de formation professionnelle et continue que vous jugerez importantes et en lien avec la fonction d'attaché d'administration hospitalière.
 
-(du... au...)
+PÉRIODE DU... AU...
 
 et durée totale
 
 |
 
-DOMAINE/
+DOMAINE/ SPÉCIALITÉ/
 
-spécialité/thème
+thème
 
 |
 
-DURÉE TOTALE
+DURÉE TOTALE DE LA FORMATION
 
-de la formation
-
-(dont heures
-
-de théorie/stage)
+(dont heures de théorie/ stage)
 
 |
 
@@ -514,9 +264,7 @@ de formation
 
 |
 
-INTITULÉ
-
-et date
+INTITULÉ ET DATE
 
 du diplôme obtenu
 
@@ -582,86 +330,6 @@ du diplôme obtenu
 
 |
 
-|
+C.-Acquis professionnels
 
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-C. - Acquis professionnels
-
-Eléments qui, selon vous, constituent des acquis professionnels pour exercer dans le corps pour lequel vous concourez.
+Le candidat présentera en une page maximum dactylographiée, en police Calibri, taille 12, les éléments qui, selon lui, constituent des acquis de son expérience professionnelle au regard des compétences et aptitudes recherchées et ses motivations à exercer les missions d'un attaché d'administration hospitalière.
