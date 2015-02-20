@@ -90,11 +90,11 @@ Présenter la maîtrise des cycles et les principales méthodes.
 
 |
 
-L'amélioration génétique.
+L'amélioration génétique et génomique.
 
 |
 
-Exposer les objectifs et les principes de l'amélioration génétique.
+Exposer les objectifs et les principes de l'amélioration génétique et notamment la sélection génomique.
 
 Interpréter et utiliser les documents techniques relatifs aux reproducteurs.
 
@@ -104,11 +104,11 @@ L'insémination artificielle. Le geste opératoire. Les règles de sécurité.
 
 |
 
-Manipuler et, si nécessaire, décongeler la semence dans le respect des règles techniques et dans le respect des règles d'hygiène et de sécurité.
+Manipuler et, si nécessaire, décongeler la semence dans le respect des règles techniques y compris la semence sexée et dans le respect des règles d'hygiène et de sécurité.
 
 Mettre en place la semence dans le respect du bien-être animal, des règles d'hygiène et de sécurité.
 
-Mettre en place les traitements de maîtrise des cycles dans le respect des règles d'hygiène et de sécurité.
+Mettre en place les traitements de maîtrise des cycles dans le respect des règles d'hygiène, de sécurité et des protocoles en vigueur et de sécurité.
 
 |
 
