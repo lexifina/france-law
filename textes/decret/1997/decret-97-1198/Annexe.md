@@ -1690,9 +1690,7 @@ Sanctions administratives prises après avis de la commission administrative de 
 
 |
 
-Articles R. 160-1, R. 217-6,
-
-et R. 330-20 et R. 330-22.
+Articles R. 160-1, R. 217-4, R. 217-5 et R. 330-20 et R. 330-22.
 
 |
 
