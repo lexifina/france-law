@@ -1,0 +1,9 @@
+# Réponse à la question n° 69383
+
+- Question : [69383](69383.md) — Question n° 69383 — violences; lutte et prévention
+
+## Réponse
+
+*JO du 2015-02-24*
+
+L'observatoire national des violences en milieu de santé (ONVS) a été créé en 2005 pour recueillir les signalements des faits de violence en milieu de santé. Il a également pour mission de coordonner et d'évaluer les politiques mises en oeuvre par les différents acteurs sur l'ensemble du territoire afin de garantir la sécurité des personnes et des biens. Ce dernier a étendu à la médecine de ville les mesures prévues pour les secteurs sanitaire et médico-social en s'appuyant sur les ordres nationaux. Ces accords ont pour objectif d'améliorer la sécurité des professionnels de santé et de renforcer la coopération avec les services de l'État. Ces protocoles reposent sur la désignation d'un correspondant local police/gendarmerie des professionnels de santé, encouragent des procédures d'alerte particulières, permettent la réalisation de conseils et diagnostics de sécurité, facilitent les démarches avec les services de sécurité de l'État (dépôt de plainte...) et la transmission de l'information judiciaire (suites données...). Le ministère des affaires sociales, de la santé et des droits des femmes promeut la déclinaison des accords nationaux en conventions partenariales locales entre les établissements, les ordres, la justice et l'intérieur. A ce jour, 71 départements ont un protocole national décliné ou un équivalent. Les accords prévoient une rencontre annuelle sous l'égide du préfet et du ou des procureurs de la République afin d'examiner le bilan de la mise en oeuvre du protocole, évaluer les réalisations et l'évolution des conditions de leur coopération. Ces accords concernent l'ensemble des personnels libéraux et en particulier les infirmiers libéraux.
