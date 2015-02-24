@@ -1,0 +1,9 @@
+# Réponse à la question n° 70363
+
+- Question : [70363](70363.md) — Question n° 70363 — réglementation
+
+## Réponse
+
+*JO du 2015-02-24*
+
+La taxe sur les surfaces commerciales (TASCOM) a été créée en 1972 pour, à l'origine, financer des mesures d'aides au bénéfice des affiliés en activité ou retraités des régimes d'assurance vieillesse des professions artisanales, industrielles et commerciales. La TASCOM s'applique aux magasins de vente au détail de biens et est assise sur la surface de vente de commerce de détail. La surface de vente prise en compte pour le calcul de la taxe s'entend des espaces clos et couverts affectés à la circulation de la clientèle pour effectuer ses achats, de ceux affectés à l'exposition des marchandises proposées à la vente et à leur paiement, ainsi que de ceux affectés à la circulation du personnel pour présenter les marchandises à la vente. Dans le cas des « drive », comme des magasins de vente par internet, les surfaces où sont stockées les marchandises à retirer ne sont pas des surfaces ouvertes à la clientèle pour y réaliser ses achats, et ne peuvent donc pas être soumis à la TASCOM sauf à modifier en profondeur le dispositif, ce qui remettrait en cause son principe qui est de taxer les surfaces de ventes accessibles au public. Par ailleurs, les surfaces auxquelles le public a accès pour effectuer le retrait des marchandises dans les magasins « drive » étant de superficies très faibles, le fait de les soumettre à la TASCOM ne permettrait pas de faire peser sur les « drive » une charge fiscale équivalente à celle des autres formes de commerce dans la mesure où la taxe est assise sur les surfaces de vente, le chiffre d'affaires n'intervenant que pour déterminer le seuil de taxation et le niveau de tarif applicable. Enfin, les « drive » ne concurrencent pas les autres distributeurs mais constituent une offre complémentaire développée par les mêmes opérateurs économiques.
