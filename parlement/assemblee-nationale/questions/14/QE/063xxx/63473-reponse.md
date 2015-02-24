@@ -1,0 +1,9 @@
+# Réponse à la question n° 63473
+
+- Question : [63473](63473.md) — Question n° 63473 — sites internet publics; bilan; statistiques
+
+## Réponse
+
+*JO du 2015-02-24*
+
+La délégation aux usages de l'internet (DUI) a piloté, en 2012, dans le cadre de son programme « Solidarités numériques » la création d'un fonds financier dédié au soutien de la réalisation de services et d'applications numériques qui favorisent l'intégration professionnelle et sociale des personnes en difficultés économique et sanitaire. Ce fonds a été mis en place en lien avec les groupes ERDF, Mondial Assistance, l'éco-organisme Écologie, l'association Renaissances Numériques et les sociétés Tadéo et Accéo qui ont tous participé à son abondement. L'association Solidarités Numériques administre le fonds financier et assure le suivi de la mise en oeuvre des projets retenus. Ce fonds est alimenté par les partenaires, réunis au sein d'un comité d'évaluation coordonné par la DUI. L'accès au financement est organisé dans le cadre d'appels à projets thématiques ouverts aux entreprises, aux associations, aux établissements publics et aux collectivités territoriales. Les projets soutenus par le dispositif Solidarités Numériques doivent être « ancrés dans les territoires » et répondre aux préoccupations de la société, en matière de handicap, de dépendance, de logement social, de développement durable, d'accessibilité des savoirs, des apprentissages et de la culture. Deux appels à projets ont été finalisés en 2012 et en 2013 sur le thème de l'intégration professionnelle et sociétale, grâce au numérique, de personnes en difficultés économique et sanitaire. Ces appels à projets ont permis de financer une dizaine d'initiatives innovantes et solidaires, à partir d'une enveloppe globale de 170 000 €. La description de ces appels à projets et le détail des projets soutenus sont consultables sur le site http ://solidarites-numeriques. org.
