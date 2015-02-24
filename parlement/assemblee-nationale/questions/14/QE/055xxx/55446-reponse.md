@@ -1,0 +1,9 @@
+# Réponse à la question n° 55446
+
+- Question : [55446](55446.md) — Question n° 55446 — montant
+
+## Réponse
+
+*JO du 2015-02-24*
+
+La loi n° 2008-1249 du 1er décembre 2008 généralisant le revenu de solidarité active (RSA) et définissant les politiques d'insertion aménage les conditions de dégrèvement de la taxe d'habitation et de la contribution à l'audiovisuel public en privilégiant une logique de revenus. S'agissant de la contribution à l'audiovisuel public, en application du 2° de l'article 1605 bis du code général des impôts (CGI), les personnes ne percevant pas d'autres revenus que le RSA ou dont le revenu fiscal de référence (RFR) est nul bénéficient d'un dégrèvement de cette contribution. S'agissant de la taxe d'habitation, les titulaires du RSA sont soumis au régime de droit commun défini à l'article 1414 A du CGI. Par conséquent, ils peuvent bénéficier du plafonnement de leur cotisation de taxe d'habitation lorsque leur RFR n'excède pas les limites prévues au II de l'article 1417 du CGI. Dans ce cas, le montant maximum de la cotisation restant due est égal à 3,44 % du montant du RFR diminué d'un abattement. Ainsi, en fonction du montant d'abattement, ce dispositif peut conduire au dégrèvement total de la taxe d'habitation mise à la charge des bénéficiaires du RSA. Par ailleurs, les montants des abattements et des seuils de revenus prévus aux articles 1414 A et 1417 du CGI ont été revalorisés depuis les impositions établies au titre de 2013 dans une proportion supérieure à l'évolution de l'inflation sur la même période afin de permettre à un plus grand nombre de ménages modestes de bénéficier des exonérations et dégrèvements de taxe d'habitation. Ces dispositions témoignent du souci du Gouvernement de maintenir le pouvoir d'achat des ménages modestes dans un contexte de contrainte budgétaire forte.
