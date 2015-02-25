@@ -18,6 +18,8 @@ Arrêté du 30 juin 1971
 
 |
 
+|
+
 Brevet d'Etat de professeur de judo, karaté, aïkido ― option principale : aïkido.
 
 |
@@ -32,13 +34,13 @@ Arrêté du 21 octobre 1969
 
 |
 
+|
+
 Brevet d'Etat de prévôt.
 
 |
 
-Brevet d'Etat du premier degré.
-
-|
+Brevet d'Etat du premier degré. |
 
 Brevet d'Etat de professeur.
 
@@ -51,6 +53,8 @@ Brevet d'Etat du deuxième degré.
 Equitation
 
 Arrêté du 12 septembre 1966
+
+|
 
 |
 
@@ -84,17 +88,15 @@ Arrêté du 1er avril 1969
 
 |
 
-Brevet d'Etat de prévôt.
-
 |
+
+Brevet d'Etat de prévôt. |
 
 Brevet d'Etat du premier degré.
 
 |
 
-Brevet d'Etat de maître.
-
-|
+Brevet d'Etat de maître. |
 
 Brevet d'Etat du deuxième degré.
 
@@ -103,6 +105,8 @@ Brevet d'Etat du deuxième degré.
 Football
 
 Arrêté du 12 juin 1973
+
+|
 
 |
 
@@ -136,25 +140,25 @@ Arrêté du 17 mars 1967
 
 |
 
+|
+
 Brevet d'Etat d'assistant-professeur.
 
 |
 
-Brevet d'Etat du premier degré.
-
-|
+Brevet d'Etat du premier degré. |
 
 Brevet d'Etat de professeur.
 
 |
 
-Brevet d'Etat du deuxième degré.
-
-|
+Brevet d'Etat du deuxième degré. |
 
 Gymnastique féminine
 
 Arrêté du 10 août 1968
+
+|
 
 |
 
@@ -172,6 +176,8 @@ Arrêté du 1er avril 1969
 
 |
 
+|
+
 Brevet d'Etat d'entraîneur de gymnastique sportive (option masculine ou féminine).
 
 |
@@ -183,6 +189,8 @@ Brevet d'Etat du deuxième degré.
 Judo
 
 Arrêté du 30 juin 1971
+
+|
 
 |
 
@@ -208,6 +216,8 @@ Arrêté du 30 juin 1971
 
 |
 
+|
+
 Brevet d'Etat de professeur de judo, karaté, aïkido (option principale : karaté).
 
 |
@@ -221,6 +231,8 @@ Natation sportive
 Arrêté du 28 mars 1969
 
 Arrêté du 6 mai 1966
+
+|
 
 |
 
@@ -246,6 +258,8 @@ Arrêté du 23 juillet 1966
 
 |
 
+|
+
 Brevet d'Etat de moniteur.
 
 |
@@ -268,17 +282,21 @@ Arrêté du 24 février 1967
 
 |
 
+|
+
 Brevet d'Etat de moniteur de plongée.
 
 |
 
-Brevet d'Etat du premier degré.
+Brevet d'Etat du deuxième degré.
 
 |
 
 Ski nautique
 
 Arrêté du 20 avril 1970
+
+|
 
 |
 
@@ -304,6 +322,8 @@ Arrêté du 16 janvier 1968
 
 |
 
+|
+
 Brevet d'Etat de moniteur.
 
 |
@@ -325,6 +345,8 @@ Voile
 Arrêté du 7 octobre 1965
 
 Arrêté du 23 octobre 1968
+
+|
 
 |
 
