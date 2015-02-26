@@ -1,0 +1,9 @@
+# Réponse à la question SEQ141113621
+
+- Question : [SEQ141113621](seq141113621.md) — Formation des agents consulaires
+
+## Réponse
+
+*Affaires étrangères, JO du 2015-02-26, page 436*
+
+Le ministère des affaires étrangères et du développement international s'efforce, par des formations internes spécifiques et approfondies, de renforcer la compétence sociale des agents des postes consulaires. Un stage de cinq jours proposé à Paris, intitulé « affaires sociales et protection des Français de l'étranger », traite des aspects concernant la sécurité des personnes, les rapatriements, les comités consulaires pour la protection et l'action sociale, la protection des mineurs et de la famille, la protection des détenus, les régimes de protection sociale et d'aides et les bourses scolaires. Cette formation est dispensée par des intervenants du ministère, de la caisse nationale d'assurance vieillesse, de la caisse des Français de l'étranger, de l'agence pour l'enseignement français à l'étranger et du centre d'accueil du comité d'entraide aux Français rapatriés. Plusieurs agents disposant d'une longue expérience de ces fonctions sont également mobilisés pour des retours d'expérience. Par ailleurs, les formations polyvalentes de l'institut de formation aux affaires administratives et consulaires (IFAAC) à Nantes intègrent des modules consacrés aux affaires sociales. Ainsi, le stage de perfectionnement consulaire des chefs de chancellerie et la formation initiale des agents affectés à l'étranger abordent les questions liées aux régimes de protection et d'aides sociales, aux comités consulaires pour la protection et l'action sociale et à la protection et à la sécurité des personnes (mineurs et familles, français de passage). Ce stage est complété par trois semaines de spécialisation consulaire au cours desquelles sont évoqués les rapatriements, l'assistance aux français de passage en difficulté, les bourses scolaires et la protection des détenus.
