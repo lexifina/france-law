@@ -30,6 +30,34 @@ Chef du bureau des cabinets.
 
 |
 
+Secrétariat général.
+
+|
+
+Chargé de mission préfiguration de la juridiction administrative spécialisée du stationnement.
+
+|
+
+30
+
+|
+
+Direction de la modernisation et de l'action territoriale. |
+
+Chef de projet réforme de l'administration territoriale de l'Etat.
+
+|
+
+30
+
+|
+
+Chargé de mission modernisation de l'action publique. |
+
+30
+
+|
+
 Direction des libertés publiques et des affaires juridiques.
 
 |
@@ -67,6 +95,14 @@ Chef du bureau du droit et des procédures d'expulsion.
 |
 
 Adjoint au chef du bureau des polices administratives.
+
+|
+
+30
+
+|
+
+Chef du bureau des établissements de jeux.
 
 |
 
@@ -154,9 +190,7 @@ Chef de la coordination fonctionnelle.
 
 |
 
-Direction de l'évaluation de la performance et des affaires financières et immobilières.
-
-|
+Direction de l'évaluation de la performance et des affaires financières et immobilières. |
 
 Chef du bureau de la gestion des sites de l'administration centrale.
 
@@ -182,9 +216,7 @@ Adjoint au chef du centre des prestations financières.
 
 |
 
-Adjoint au chef du bureau de la synthèse budgétaire.
-
-|
+Chef du bureau des ressources mutualisées. |
 
 30
 
@@ -354,9 +386,7 @@ Chef de cabinet du directeur des ressources et des compétences de la police nat
 
 |
 
-Chef de la mission d'appui, de synthèse et de coordination.
-
-|
+Chef du bureau du pilotage des structures de soutien. |
 
 30
 
@@ -404,7 +434,7 @@ Chef du bureau des ressources et de la coordination.
 
 |
 
-Chef de la mission contentieux, légistique et fonction publique.
+Adjoint au chef du bureau du droit public et des affaires institutionnelles.
 
 |
 
@@ -489,6 +519,22 @@ Chef du service du fichier national des permis de conduire.
 |
 
 50
+
+|
+
+Chef du bureau de la législation et de la réglementation.
+
+|
+
+30
+
+|
+
+Adjoint au chef du département de contrôle automatisé.
+
+|
+
+30
 
 |
 
