@@ -1,0 +1,9 @@
+# Réponse à la question SEQ140712559
+
+- Question : [SEQ140712559](seq140712559.md) — Modernisation des lignes sur l'axe sud de la ligne Rhin-Rhône
+
+## Réponse
+
+*Transports, mer et pêche, JO du 2015-02-26, page 451*
+
+Sur la base des conclusions de la Commission « Mobilité 21 » qui ont été remises le 27 juin 2013, le Gouvernement a décidé de réorienter la politique des transports vers la conservation et la modernisation des réseaux existants, tout en poursuivant la réalisation de grands projets dans le cadre d'une programmation crédible et responsable. Ainsi, conformément aux propositions de la Commission, les investissements liés aux branches Ouest et Sud de la ligne à grande vitesse Rhin-Rhône ne peuvent s'envisager qu'à très longue échéance, au-delà de l'horizon 2050. En conséquence, le caractère structurant à l'échelon inter-régional de l'axe actuel Besançon - Lons le Saunier - Bourg - Lyon est réaffirmé, car permettant une desserte privilégiée du Jura et de la Franche-Comté depuis l'agglomération lyonnaise. La modernisation de cet itinéraire fait partie des opérations qu'il est envisagé d'inscrire au futur contrat de plan État-région (CPER) et pour lesquelles des financements de l'État seront, bien sûr, alloués. Cette opération devrait notamment permettre la réduction et la fiabilisation des temps de parcours afin d'optimiser les échanges vers le sud de la région Franche-Comté, et au-delà vers le pôle lyonnais. En préalable à la signature du CPER 2015-2020 qui devrait intervenir au printemps de cette année, la présidente du Conseil régional et le préfet de région, en concertation avec l'ensemble des collectivités concernées, ont établi un protocole d'accord qui constituera une première étape de contractualisation entre l'État et la région. Ce protocole reprend l'ensemble des opérations prévues au prochain CPER et notamment la ligne du Revermont.
