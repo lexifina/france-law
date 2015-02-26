@@ -1,0 +1,9 @@
+# Réponse à la question SEQ150114632
+
+- Question : [SEQ150114632](seq150114632.md) — Promotion de la francophonie
+
+## Réponse
+
+*Affaires étrangères, JO du 2015-02-26, page 437*
+
+Le rapport remis par Jacques Attali au président de la République fournit une analyse particulièrement intéressante et riche sur le poids économique de la francophonie dans l'économie mondiale et sur les enjeux qui s'y rapportent. Il identifie les secteurs porteurs où elle peut être créatrice de croissance et d'emplois et précise les leviers sur lesquels il semble possible d'agir. Ce rapport s'inscrit pleinement dans le cadre de la diplomatie économique définie par le ministre des affaires étrangères et du développement international, qui prend en compte l'atout considérable que représentent, sur les cinq continents, le partage de la langue française et les liens tissés au sein de l'organisation internationale de la Francophonie. Les recommandations contenues dans ce rapport font l'objet d'un examen attentif pour mesurer l'impact et le coût de chacune d'elles et de définir des priorités. Parmi les différentes suggestions citées, certaines relèvent d'une approche multilatérale et de long terme, comme celle relative à la création d'une Union économique francophone tandis que d'autres prônent un renforcement des politiques déjà amorcées. C'est le cas en ce qui concerne la diffusion de contenus culturels francophones qui est actuellement assurée au travers du réseau des instituts français dans le monde. C'est le cas également pour la promotion de l'enseignement du français, avec notamment l'initiative « 100 000 professeurs pour l'Afrique » lancée au début de l'année 2014. Comme le recommande Jacques Attali, les actions menées dans ces domaines sont poursuivies et amplifiées. S'agissant de la mobilité des étudiants, chercheurs et entrepreneurs, il convient de noter que l'introduction d'un passeport « talent » s'inscrit dans cette perspective.
