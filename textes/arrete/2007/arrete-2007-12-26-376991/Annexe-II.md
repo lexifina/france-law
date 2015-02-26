@@ -1500,9 +1500,11 @@ Nombre de points NBI
 
 |
 
-987 Polynésie française |
+987 Polynésie française
 
-1 |
+|
+
+2 |
 
 30
 
