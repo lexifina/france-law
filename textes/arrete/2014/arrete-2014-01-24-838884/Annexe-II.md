@@ -200,11 +200,11 @@ FR000000000000005
 
 |
 
-ARKEMA France - usine de Chauny
+ARKEMA France-Usine de Chauny
 
 |
 
-ARKEMA usine de Chauny
+ARKEMA Usine de Chauny
 
 |
 
@@ -216,31 +216,31 @@ ARKEMA usine de Chauny
 
 |
 
-62 622
+0
 
 |
 
-61 470
+0
 
 |
 
-60 305
+0
 
 |
 
-59 129
+0
 
 |
 
-57 939
+0
 
 |
 
-56 744
+0
 
 |
 
-486 860
+128 651
 
 |
 
@@ -1688,11 +1688,11 @@ FR000000000000054
 
 |
 
-Bonduelle Conserve International
+BONDUELLE EUROPE LONG LIFE
 
 |
 
-BCI ESTREES-MONS
+BONDUELLE EUROPE LONG LIFE ESTREES-MONS
 
 |
 
@@ -2076,11 +2076,11 @@ Creil Energie
 
 |
 
-Creil Energie, Chaufferie de la ZUP "Les Martinets"
+Creil Energie, Chaufferie de la Zup "Les Martinets"
 
 |
 
-4 308
+4 054
 
 |
 
@@ -2112,7 +2112,7 @@ Creil Energie, Chaufferie de la ZUP "Les Martinets"
 
 |
 
-7 937
+7 683
 
 |
 
@@ -3320,11 +3320,11 @@ FR000000000000099
 
 |
 
-TIGF
+TRANSPORT ET INFRASTRUCTURES GAZ France
 
 |
 
-TIGF - station de compression de MONT
+TRANSPORT ET INFRASTRUCTURES GAZ France Station de Compression de Mont
 
 |
 
@@ -3656,11 +3656,11 @@ FR000000000000110
 
 |
 
-DALKIA FRANCE SAS
+DALKIA
 
 |
 
-DALKIA FRANCE SAS - usine POLYREY
+DALKIA-usine POLYREY
 
 |
 
@@ -5240,7 +5240,7 @@ FR000000000000150
 
 |
 
-DALKIA France
+DALKIA
 
 |
 
@@ -5256,31 +5256,31 @@ Chaufferie urbaine du Banlay (NEVERS)
 
 |
 
-3 509
+0
 
 |
 
-3 071
+0
 
 |
 
-2 647
+0
 
 |
 
-2 237
+0
 
 |
 
-1 840
+0
 
 |
 
-1 458
+0
 
 |
 
-23 149
+8 387
 
 |
 
@@ -5622,11 +5622,11 @@ FR000000000000162
 
 |
 
-DALKIA France
+DALKIA
 
 |
 
-Chaufferie urbaine de la ZUP de Quetigny
+Chaufferie Urbaine de la ZUP de Quetigny
 
 |
 
@@ -6214,31 +6214,31 @@ PEUGEOT CITROEN RENNES SNC
 
 |
 
-16 628
+25 304
 
 |
 
-14 548
+24 839
 
 |
 
-12 533
+24 368
 
 |
 
-10 582
+23 893
 
 |
 
-8 695
+23 412
 
 |
 
-6 879
+22 930
 
 |
 
-125 551
+200 432
 
 |
 
@@ -7162,7 +7162,7 @@ BOUYER LEROUX STRUCTURE
 
 |
 
-BOUYER LEROUX STRUCTURE SA POMEL site de Vergonghéon
+BOUYER LEROUX STRUCTURE SA site de Vergonghéon
 
 |
 
@@ -7254,11 +7254,11 @@ FR000000000000206
 
 |
 
-IDEX Energies
+IDEX Énergies
 
 |
 
-IDEX - TRELLEBORG INDUSTRIE SA Clermont-Ferrand
+IDEX-TRELLEBORG INDUSTRIE SA. Clermont-Ferrand
 
 |
 
@@ -7270,31 +7270,31 @@ IDEX - TRELLEBORG INDUSTRIE SA Clermont-Ferrand
 
 |
 
-4 222
+0
 
 |
 
-3 695
+0
 
 |
 
-3 185
+0
 
 |
 
-2 692
+0
 
 |
 
-2 214
+0
 
 |
 
-1 754
+0
 
 |
 
-27 853
+10 091
 
 |
 
@@ -7350,11 +7350,11 @@ FR000000000000208
 
 |
 
-MFPM La Combaude
+MFP Michelin La Combaude
 
 |
 
-MFPM MICHELIN site de LA COMBAUDE
+MFP Michelin LA Combaude
 
 |
 
@@ -7366,31 +7366,31 @@ MFPM MICHELIN site de LA COMBAUDE
 
 |
 
-9 593
+11 821
 
 |
 
-8 959
+11 602
 
 |
 
-8 344
+11 383
 
 |
 
-7 742
+11 160
 
 |
 
-7 156
+10 936
 
 |
 
-6 589
+10 711
 
 |
 
-69 523
+88 753
 
 |
 
@@ -7546,7 +7546,7 @@ BANQUE DE France
 
 |
 
-PAPETERIE DE LA BANQUE DE FRANCE LONGUES VIC-LE-COMTE
+PAPETERIE DE LA BANQUE DE FRANCE site de VIC LE COMTE
 
 |
 
@@ -9798,11 +9798,11 @@ FR000000000000273
 
 |
 
-Jérôme MOINARD (directeur de l'usine de Sandouville)
+SNC Renault (Sandouville)
 
 |
 
-SNC Renault Sandouville
+Usine Renault de Sandouville
 
 |
 
@@ -9814,31 +9814,31 @@ SNC Renault Sandouville
 
 |
 
-12 592
+19 164
 
 |
 
-11 017
+18 811
 
 |
 
-9 492
+18 455
 
 |
 
-8 015
+18 094
 
 |
 
-6 585
+17 730
 
 |
 
-5 209
+17 365
 
 |
 
-83 012
+139 721
 
 |
 
@@ -9846,7 +9846,7 @@ FR000000000000274
 
 |
 
-M. Philippe NOTTEZ (directeur de l'usine de Cléon)
+SNC Renault (CLEON)
 
 |
 
@@ -9862,31 +9862,31 @@ Usine Renault de Cléon
 
 |
 
-14 416
+24 358
 
 |
 
-12 614
+24 403
 
 |
 
-10 866
+24 424
 
 |
 
-9 175
+24 430
 
 |
 
-7 539
+24 411
 
 |
 
-5 965
+24 369
 
 |
 
-95 036
+180 856
 
 |
 
@@ -10278,7 +10278,7 @@ FR000000000000284
 
 |
 
-Dalkia France
+DALKIA
 
 |
 
@@ -11334,7 +11334,7 @@ FR000000000000308
 
 |
 
-Dalkia France
+DALKIA
 
 |
 
@@ -11622,11 +11622,11 @@ FR000000000000315
 
 |
 
-DALKIA France
+DALKIA
 
 |
 
-Chaufferie urbaine Dalkia de Montbéliard
+Chaufferie Urbaine Dalkia de Montbéliard
 
 |
 
@@ -11734,31 +11734,31 @@ Peugeot Citroën Sochaux SNC
 
 |
 
-51 464
+78 321
 
 |
 
-45 028
+76 880
 
 |
 
-38 791
+75 423
 
 |
 
-32 754
+73 953
 
 |
 
-26 913
+72 463
 
 |
 
-21 291
+70 969
 
 |
 
-339 270
+571 038
 
 |
 
@@ -12102,11 +12102,11 @@ FR000000000000327
 
 |
 
-PEUGEOT CITROEN AUTOMOBILES SA VESOUL
+Peugeot Citroën Automobiles SA VESOUL
 
 |
 
-PEUGEOT CITROEN AUTOMOBILES SA VESOUL
+Peugeot Citroën Automobiles SA VESOUL
 
 |
 
@@ -12118,31 +12118,31 @@ PEUGEOT CITROEN AUTOMOBILES SA VESOUL
 
 |
 
-7 597
+11 564
 
 |
 
-6 648
+11 351
 
 |
 
-5 727
+11 136
 
 |
 
-4 836
+10 918
 
 |
 
-3 973
+10 698
 
 |
 
-3 143
+10 478
 
 |
 
-50 088
+84 309
 
 |
 
@@ -12678,11 +12678,11 @@ FR000000000000345
 
 |
 
-DALKIA France
+DALKIA
 
 |
 
-DALKIA - ARKEMA BALAN
+DALKIA-ARKEMA BALAN
 
 |
 
@@ -12822,7 +12822,7 @@ FR000000000000348
 
 |
 
-DALKIA France
+DALKIA
 
 |
 
@@ -12970,43 +12970,43 @@ WIENERBERGER SAS
 
 |
 
-Wienerberger - usine de Pont-de-Vaux
+Wienerberger - Usine de Pont-de-Vaux
 
 |
 
-20 534
+20 535
 
 |
 
-20 178
+28 947
 
 |
 
-19 817
+28 430
 
 |
 
-19 453
+27 907
 
 |
 
-19 084
+27 378
 
 |
 
-18 712
+26 844
 
 |
 
-18 335
+26 303
 
 |
 
-17 957
+25 762
 
 |
 
-154 070
+212 106
 
 |
 

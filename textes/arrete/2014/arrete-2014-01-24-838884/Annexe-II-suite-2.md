@@ -728,13 +728,11 @@ FR000000000000745
 
 |
 
-DALKIA France
+DALKIA
 
 |
 
-Chaufferie Urbaine DALKIA - Chaufferie SEM
-
-|
+Chaufferie Urbaine DALKIA-Chaufferie SEM |
 
 3 344
 
@@ -1064,13 +1062,9 @@ FR000000000000755
 
 |
 
-EPS VILLE-EVRARD
+E. P. S VILLE EVRARD |
 
-|
-
-Chaufferie EPS VILLE-EVRARD
-
-|
+Chaufferie EPS VILLE EVRARD |
 
 3 780
 
@@ -1080,31 +1074,31 @@ Chaufferie EPS VILLE-EVRARD
 
 |
 
-2 997
+0
 
 |
 
-2 622
+0
 
 |
 
-2 259
+0
 
 |
 
-1 907
+0
 
 |
 
-1 567
+0
 
 |
 
-1 240
+0
 
 |
 
-19 755
+7 163
 
 |
 
@@ -1976,11 +1970,11 @@ FR000000000000779
 
 |
 
-DALKIA France
+DALKIA
 
 |
 
-Chaufferie urbaine DALKIA Pontoise
+Chaufferie Urbaine DALKIA Pontoise
 
 |
 
@@ -2024,11 +2018,9 @@ FR000000000000783
 
 |
 
-TIGF
+TRANSPORT ET INFRASTRUCTURES GAZ (TIGF) |
 
-|
-
-TIGF - Station de compression de BARBAIRA
+TRANSPORT ET INFRASTRUCTURES GAZ (TIGF)-Station de compression de BARBAIRA
 
 |
 
@@ -3184,31 +3176,31 @@ Peugeot Citroën Mulhouse SNC
 
 |
 
-49 959
+72 151
 
 |
 
-44 504
+70 824
 
 |
 
-39 211
+69 482
 
 |
 
-34 083
+68 127
 
 |
 
-29 116
+66 755
 
 |
 
-24 328
+65 379
 
 |
 
-338 133
+529 650
 
 |
 
@@ -4358,7 +4350,7 @@ FR000000000000852
 
 |
 
-DALKIA France
+DALKIA
 
 |
 
@@ -5652,9 +5644,7 @@ Holcim France Dannes
 
 |
 
-HOLCIM France DANNES
-
-|
+HOLCIM France DANNES |
 
 267 318
 
@@ -5664,31 +5654,29 @@ HOLCIM France DANNES
 
 |
 
-257 978
+0
 
 |
 
-253 231
+0
 
 |
 
-248 433
+0
 
 |
 
-243 588
+0
 
 |
 
-238 684
+0 |
+
+0
 
 |
 
-233 761
-
-|
-
-2 005 668
+529 993
 
 |
 
@@ -6224,11 +6212,11 @@ FR000000000000917
 
 |
 
-BONDUELLE CONSERVE INTERNATIONAL
+BONDUELLE EUROPE LONG LIFE
 
 |
 
-BCI Renescure
+Bonduelle Europe Long Life Renescure
 
 |
 
@@ -6504,9 +6492,7 @@ FR000000000000928
 
 |
 
-M. Philippe DESCAMPS (Directeur de l'usine)
-
-|
+SNC RENAULT (Douai) |
 
 Usine Renault de Douai
 
@@ -6520,31 +6506,25 @@ Usine Renault de Douai
 
 |
 
-30 110
+45 823 |
+
+44 979 |
+
+44 128
 
 |
 
-26 344
+43 267 |
+
+42 396
 
 |
 
-22 695
+41 521
 
 |
 
-19 162
-
-|
-
-15 745
-
-|
-
-12 456
-
-|
-
-198 492
+334 094
 
 |
 
@@ -6552,11 +6532,9 @@ FR000000000000931
 
 |
 
-DOMINIQUE DAUDRUY
+SA CH Daudruy Vancuwen berghe |
 
-|
-
-SA CH DAUDRUY VANCAUWENBERGHE
+SA CH Daudruy Vancuwen berghe
 
 |
 
@@ -6568,31 +6546,29 @@ SA CH DAUDRUY VANCAUWENBERGHE
 
 |
 
-11 169
+16 997
 
 |
 
-9 773
+16 685
 
 |
 
-8 419
+16 369 |
+
+16 049
 
 |
 
-7 109
+15 726
 
 |
 
-5 841
+15 402
 
 |
 
-4 621
-
-|
-
-73 631
+123 927
 
 |
 
@@ -6648,7 +6624,7 @@ FR000000000000933
 
 |
 
-Société de Réalisations Thermiques de Nord (SRTN)
+Société de Réalisations Thermiques de Nord (S. R. T. N.)
 
 |
 
@@ -7040,7 +7016,9 @@ BCI Vaulx-Vraucourt
 
 |
 
-0 |
+0
+
+|
 
 0 |
 
@@ -7052,7 +7030,9 @@ BCI Vaulx-Vraucourt
 
 |
 
-0 |
+0
+
+|
 
 8 471
 
@@ -7062,13 +7042,9 @@ FR000000000000945
 
 |
 
-MAGNESITA REFRACTORIES SCS
+MAGNESITA REFRACTORIES SCS |
 
-|
-
-MAGNESITA
-
-|
+MAGNESITA |
 
 14 296
 
@@ -7078,33 +7054,31 @@ MAGNESITA
 
 |
 
-13 796
+0
 
 |
 
-13 542
+0
 
 |
 
-13 285
+0
 
 |
 
-13 026
+0
 
 |
 
-12 764
+0
 
 |
 
-12 501
+0
 
 |
 
-107 257
-
-|
+28 343 |
 
 FR000000000000946
 
@@ -7206,13 +7180,9 @@ FR000000000000948
 
 |
 
-TOTAL RAFFINAGE France
+TOTAL RAFFINAGE France |
 
-|
-
-Etablissement des Flandres
-
-|
+TOTAL RAFFINAGE France à Mardick |
 
 59 810
 
@@ -7222,31 +7192,19 @@ Etablissement des Flandres
 
 |
 
-47 409
+0 |
 
-|
+0 |
 
-41 481
+0 |
 
-|
+0 |
 
-35 734
+0 |
 
-|
+0 |
 
-30 173
-
-|
-
-24 792
-
-|
-
-19 614
-
-|
-
-312 539
+113 336
 
 |
 
@@ -7634,13 +7592,11 @@ FR000000000000961
 
 |
 
-Dalkia France
+DALKIA
 
 |
 
-Chaufferie Les Cèdres Villeneuve-d'Ascq
-
-|
+Chaufferie "Les Cèdres" Villeneuve-d'Ascq |
 
 3 258
 
@@ -7730,13 +7686,11 @@ FR000000000000963
 
 |
 
-Dalkia France
+DALKIA
 
 |
 
-Chaufferie de la Blanchisserie du CHRU LILLE
-
-|
+Chaufferie de la Blanchisserie du CHRU LILLE |
 
 1 687
 
@@ -7778,13 +7732,11 @@ FR000000000000964
 
 |
 
-Dalkia France
+DALKIA
 
 |
 
-Chaufferie de la ZUP Grande Résidence
-
-|
+Chaufferie de la ZUP Grande Résidence |
 
 4 704
 
@@ -7826,7 +7778,7 @@ FR000000000000965
 
 |
 
-Dalkia France
+DALKIA
 
 |
 
@@ -7874,13 +7826,11 @@ FR000000000000966
 
 |
 
-Dalkia France
+DALKIA
 
 |
 
-Chaufferie de la ZUP du BLANC-RIEZ Wattignies
-
-|
+Chaufferie de la ZUP du Blanc RIEZ Wattignies |
 
 6 026
 
@@ -7922,7 +7872,7 @@ FR000000000000967
 
 |
 
-Dalkia France
+DALKIA
 
 |
 
@@ -7938,31 +7888,31 @@ Chaufferie de Longchamp
 
 |
 
-3 325
+0
 
 |
 
-2 911
+0
 
 |
 
-2 508
+0
 
 |
 
-2 120
+0
 
 |
 
-1 744
+0
 
 |
 
-1 381
+0
 
 |
 
-21 967
+7 978
 
 |
 
@@ -9026,7 +8976,7 @@ FR000000000000995
 
 |
 
-Dalkia France
+DALKIA
 
 |
 
@@ -9042,31 +8992,29 @@ Chaufferie du Quartier de la République
 
 |
 
-2 418
+0
 
 |
 
-2 116
+0
 
 |
 
-1 825
+0
 
 |
 
-1 541
+0
 
 |
 
-1 268
+0 |
+
+0
 
 |
 
-1 005
-
-|
-
-15 952
+5 779
 
 |
 
@@ -9792,11 +9740,11 @@ FR000000000001015
 
 |
 
-JOEL THEOPHIN
+ALBIOMA LE GOL
 
 |
 
-COMPAGNIE THERMIQUE DU GOL
+ALBIOMA LE GOL
 
 |
 
@@ -9840,13 +9788,9 @@ FR000000000001016
 
 |
 
-ALBIOMA
+ALBIOMA BOIS ROUGE |
 
-|
-
-Albioma Bois Rouge
-
-|
+ALBIOMA BOIS ROUGE |
 
 56 489
 
@@ -10546,13 +10490,11 @@ FR000000000001039
 
 |
 
-DALKIA France
+DALKIA
 
 |
 
-CHAUFFERIE DES COURONNERIES - POITIERS
-
-|
+CHAUFFERIE DES COURONNERIES-POITIERS |
 
 6 559
 
@@ -11024,13 +10966,11 @@ FR000000000001063
 
 |
 
-DALKIA France
+DALKIA
 
 |
 
-RESEAU DE CHAUFFAGE URBAIN DE JOUE-LES-TOURS
-
-|
+RESEAU DE CHAUFFAGE URBAIN DE JOUE-LES-TOURS |
 
 13 532
 
@@ -11316,7 +11256,7 @@ SCA TISSUE France
 
 |
 
-SCA TISSUE FRANCE usine de Gien
+SCA TISSUE FRANCE Usine de Gien
 
 |
 
@@ -11324,37 +11264,31 @@ SCA TISSUE FRANCE usine de Gien
 
 |
 
-67 733
+53 344
 
 |
 
-66 459
+52 327
 
 |
 
-65 175
+51 303
 
 |
 
-63 881
+50 272 |
+
+49 234
 
 |
 
-62 578
+48 184
 
 |
 
-61 259
+47 136 |
 
-|
-
-59 941
-
-|
-
-516 020
-
-|
+420 794 |
 
 FR000000000001072
 
@@ -12172,11 +12106,11 @@ FR000000000001093
 
 |
 
-HUTCHINSON SNC
+Hutchinson SNC
 
 |
 
-HUTCHINSON SNC
+Hutchinson SNC
 
 |
 
@@ -12188,31 +12122,31 @@ HUTCHINSON SNC
 
 |
 
-5 546
+8 440
 
 |
 
-4 852
+8 285
 
 |
 
-4 180
+8 128
 
 |
 
-3 529
+7 969
 
 |
 
-2 900
+7 809
 
 |
 
-2 295
+7 648
 
 |
 
-36 559
+61 536
 
 |
 
@@ -13452,29 +13386,29 @@ FR000000000001138
 
 |
 
-Jean-Pierre BARRIE
+ALBIOMA GALION
 
 |
 
-COMPAGNIE DE COGENERATION DU GALION
+ALBIOMA GALION
 
 |
 
-|
+0 |
 
-|
+0 |
 
-|
+0 |
 
-|
+0 |
 
-|
+0 |
 
-|
+0 |
 
-|
+0 |
 
-|
+0 |
 
 0
 
@@ -13720,7 +13654,7 @@ FR000000000001144
 
 |
 
-Dalkia France
+DALKIA
 
 |
 
@@ -14198,11 +14132,9 @@ FR000000000001157
 
 |
 
-TIGF
+TRANSPORT ET INFRASTRUCTURE GAZ France (TIGF) |
 
-|
-
-TIGF - Station de compression de LUSSAGNET
+TRANSPORT ET INFRASTRUCTURE GAZ France (TIGF)-Station de compression de LUSSAGNET
 
 |
 

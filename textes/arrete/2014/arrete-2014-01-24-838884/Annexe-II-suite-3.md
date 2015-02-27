@@ -558,11 +558,11 @@ FR-new-05200768
 
 |
 
-BME - BORDELAISE DE MATERIAUX ENROBES
+BME-BORDELAISE DE MATERIAUX ENROBES
 
 |
 
-BME - BORDELAISE DE MATERIAUX ENROBES
+BME-BORDELAISE DE MATERIAUX ENROBES
 
 |
 
@@ -574,31 +574,31 @@ BME - BORDELAISE DE MATERIAUX ENROBES
 
 |
 
-1 990
+0
 
 |
 
-1 740
+0
 
 |
 
-1 499
+0
 
 |
 
-1 266
+0
 
 |
 
-1 040
+0
 
 |
 
-823
+0
 
 |
 
-13 114
+4 756
 
 |
 
@@ -1600,13 +1600,11 @@ FR-new-05208848
 
 |
 
-DALKIA France
+DALKIA
 
 |
 
-DALKIA France
-
-|
+DALKIA |
 
 0
 
@@ -4414,31 +4412,31 @@ Atelier d'acide nitrique N7
 
 |
 
-87 875
+43 938
 
 |
 
-86 304
+43 152
 
 |
 
-84 716
+42 358
 
 |
 
-83 111
+41 556
 
 |
 
-81 490
+40 745
 
 |
 
-79 849
+39 925
 
 |
 
-78 203
+39 102
 
 |
 
@@ -6438,6 +6436,54 @@ RHODIA OPERATIONS ROUSSILLON
 
 |
 
+FR-new-06110901
+
+|
+
+Drôme Energie Services
+
+|
+
+Drôme Energie Services
+
+|
+
+19 089
+
+|
+
+17 083
+
+|
+
+15 133
+
+|
+
+13 246
+
+|
+
+11 418
+
+|
+
+9 649
+
+|
+
+7 937
+
+|
+
+6 286
+
+|
+
+99 841
+
+|
+
 FR-new-06110996
 
 |
@@ -6600,31 +6646,31 @@ NANCY ENROBES
 
 |
 
-1 142
+0
 
 |
 
-1 000
+0
 
 |
 
-861
+0
 
 |
 
-727
+0
 
 |
 
-598
+0
 
 |
 
-472
+0
 
 |
 
-7 533
+2 733
 
 |
 
@@ -7304,33 +7350,29 @@ HUTCHINSON SNC
 
 |
 
-1 196
+0 |
+
+0
 
 |
 
-1 048
+0
 
 |
 
-903
+0
 
 |
 
-762
+0
 
 |
 
-626
+0
 
 |
 
-494
-
-|
-
-7 888
-
-|
+2 859 |
 
 FR-new-06301125
 
@@ -7344,7 +7386,7 @@ SOFIVO
 
 |
 
-6 624
+6 623
 
 |
 
@@ -7372,7 +7414,7 @@ SOFIVO
 
 |
 
-52 917 |
+52 916 |
 
 FR-new-06301359
 
@@ -8672,9 +8714,7 @@ FR-new-06600079
 
 |
 
-ARTERRIS
-
-|
+ARTERRIS |
 
 LOUDES ARTERRIS CASTELNAUDARY
 
@@ -8688,31 +8728,31 @@ LOUDES ARTERRIS CASTELNAUDARY
 
 |
 
-610
+0
 
 |
 
-533
+0
 
 |
 
-459
+0
 
 |
 
-388
+0
 
 |
 
-319
+0
 
 |
 
-252
+0
 
 |
 
-4 017
+1 456
 
 |
 
@@ -10916,9 +10956,7 @@ FR-new-07000832
 
 |
 
-Antoine Doucerain (Directeur de MCA)
-
-|
+Maubeuge Construction Automobile |
 
 Maubeuge Construction Automobile
 
@@ -10932,33 +10970,31 @@ Maubeuge Construction Automobile
 
 |
 
-22 004
+33 486
 
 |
 
-19 252
+32 870
 
 |
 
-16 585
+32 247
 
 |
 
-14 005
+31 619
 
 |
 
-11 507
+30 982
 
 |
 
-9 103
+30 343
 
 |
 
-145 058
-
-|
+244 149 |
 
 FR-new-07000866
 
@@ -11302,7 +11338,7 @@ SEVELNORD
 
 |
 
-Société européenne de véhicules légers du Nord
+Société Européenne de Véhicules légers du Nord
 
 |
 
@@ -11314,29 +11350,27 @@ Société européenne de véhicules légers du Nord
 
 |
 
-23 106
+35 164
 
 |
 
-20 216
+34 517
 
 |
 
-17 416
+33 863
 
 |
 
-14 705
+33 203
 
 |
 
-12 084 |
+32 534 |
 
-9 560
+31 863 |
 
-|
-
-139 509 |
+243 566 |
 
 FR-new-07001067
 
@@ -11454,31 +11488,29 @@ Centrale d'enrobage au bitume de matériaux routiers à chaud
 
 |
 
-2 359
+0
 
 |
 
-2 064
+0
 
 |
 
-1 777
+0
 
 |
 
-1 502
+0 |
+
+0
 
 |
 
-1 233
+0
 
 |
 
-976
-
-|
-
-15 552
+5 641
 
 |
 
@@ -11502,31 +11534,31 @@ Centrale d'enrobage au bitume de matériaux routiers à chaud
 
 |
 
-1 797
+0
 
 |
 
-1 572
+0
 
 |
 
-1 354
+0
 
 |
 
-1 143
+0
 
 |
 
-940
+0
 
 |
 
-744
+0
 
 |
 
-11 844
+4 294
 
 |
 
@@ -11550,31 +11582,31 @@ SLME
 
 |
 
-1 821
+0
 
 |
 
-1 594
+0
 
 |
 
-1 373
+0
 
 |
 
-1 160
+0
 
 |
 
-953
+0
 
 |
 
-753
+0
 
 |
 
-12 009
+4 355
 
 |
 
@@ -11646,31 +11678,31 @@ RF500
 
 |
 
-1 419
+0
 
 |
 
-1 242
+0
 
 |
 
-1 070
+0
 
 |
 
-904
+0
 
 |
 
-742
+0
 
 |
 
-588
+0
 
 |
 
-9 359
+3 394
 
 |
 
@@ -11786,31 +11818,29 @@ UNION VIENNE LOIRE
 
 |
 
-157
+0 |
+
+0
 
 |
 
-138
+0
 
 |
 
-119
+0
 
 |
 
-101
+0
 
 |
 
-82
+0
 
 |
 
-65
-
-|
-
-1 039
+377
 
 |
 
@@ -12002,13 +12032,11 @@ FR-new-07402252
 
 |
 
-DALKIA France
+DALKIA
 
 |
 
-Centrale SOCOMIN du MIN de Rungis
-
-|
+Centrale "SOCOMIN" du MIN de Rungis |
 
 1 802
 
@@ -12094,15 +12122,63 @@ SIAAP site de SEINE-AMONT
 
 |
 
+FR-new-07409093
+
+|
+
+SOCACHAL chaufferie d'appoint secours centralisé
+
+|
+
+SOCACHAL chaufferie d'appoint secours centralisé
+
+|
+
+14 703
+
+|
+
+13 158
+
+|
+
+11 657
+
+|
+
+10 203
+
+|
+
+8 794
+
+|
+
+7 432
+
+|
+
+6 113
+
+|
+
+4 842
+
+|
+
+76 902
+
+|
+
 FR-new-10000513
 
 |
 
-SAS GROUPE FRANCE CERAM
+Châteauroux ceramics
 
 |
 
-SAS GROUPE FRANCE CERAM
+Châteauroux ceramics
 
 |
 
@@ -12854,7 +12930,9 @@ SIFDDA BRETAGNE, site de Guer
 
 |
 
-FR-new-10010029 |
+FR-new-10010029
+
+|
 
 ICT France |
 
@@ -12878,7 +12956,9 @@ ICT France |
 
 129 370 |
 
-FR-new-06301486 |
+FR-new-06301486
+
+|
 
 CODEMA |
 

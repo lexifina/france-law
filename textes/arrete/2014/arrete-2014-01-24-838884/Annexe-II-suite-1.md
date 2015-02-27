@@ -184,9 +184,7 @@ FR000000000000375
 
 |
 
-CATERPILLAR France SAS
-
-|
+CATERPILLAR France SAS |
 
 CATERPILLAR France SAS
 
@@ -200,31 +198,31 @@ CATERPILLAR France SAS
 
 |
 
-7 350
+0
 
 |
 
-7 215
+0
 
 |
 
-7 078
+0
 
 |
 
-6 940
+0
 
 |
 
-6 800
+0
 
 |
 
-6 660
+0
 
 |
 
-57 143
+15 100
 
 |
 
@@ -1096,11 +1094,11 @@ FR000000000000405
 
 |
 
-STELVIA
+STELVIA |
+
+Chaufferie urbaine du Quartier de Montreynaud
 
 |
-
-Chaufferie urbaine du quartier de Montreynaud |
 
 5 471
 
@@ -1110,31 +1108,31 @@ Chaufferie urbaine du quartier de Montreynaud |
 
 |
 
-4 301
+0
 
 |
 
-3 763
+0
 
 |
 
-3 242
+0
 
 |
 
-2 738
+0
 
 |
 
-2 249
+0
 
 |
 
-1 780
+0
 
 |
 
-28 400
+10 327
 
 |
 
@@ -1622,11 +1620,11 @@ FR000000000000417
 
 |
 
-ALFI
+SOLVAY
 
 |
 
-ALFI
+SOLVAY
 
 |
 
@@ -2678,11 +2676,11 @@ FR000000000000445
 
 |
 
-DALKIA France
+DALKIA
 
 |
 
-DALKIA - Chaufferie SEYNOD
+DALKIA-Chaufferie SEYNOD
 
 |
 
@@ -2820,13 +2818,9 @@ FR000000000000450
 
 |
 
-Pierre MONFLIER (directeur de SOVAB)
+SOVAB |
 
-|
-
-Société des véhicules automobiles de Batilly (SOVAB)
-
-|
+Société des Véhicules Automobiles de Batilly (SOVAB) |
 
 22 020
 
@@ -2836,31 +2830,31 @@ Société des véhicules automobiles de Batilly (SOVAB)
 
 |
 
-17 454
+26 563
 
 |
 
-15 272
+26 074
 
 |
 
-13 156
+25 580
 
 |
 
-11 108
+25 081
 
 |
 
-9 128
+24 577
 
 |
 
-7 221
+24 069
 
 |
 
-115 065
+193 670
 
 |
 
@@ -3638,13 +3632,11 @@ LACTOSERUM France
 
 |
 
-28 605 |
+28 606 |
 
 33 649 |
 
-33 048
-
-|
+33 048 |
 
 32 440
 
@@ -3662,7 +3654,7 @@ LACTOSERUM France
 
 251
 
-293
+294
 
 |
 
@@ -4188,7 +4180,7 @@ FR000000000000494
 
 |
 
-DALKIA France
+DALKIA
 
 |
 
@@ -4300,31 +4292,29 @@ SOUCHE PARTICIPATION
 
 |
 
-24 596
+0
 
 |
 
-24 143
+0
 
 |
 
-23 686
+0
 
 |
 
-23 224
+0
 
 |
 
-22 757
+0 |
+
+0
 
 |
 
-22 287
-
-|
-
-191 223
+50 530
 
 |
 
@@ -4428,11 +4418,11 @@ FR000000000000500
 
 |
 
-UPM FRANCE |
-
-UPM France - Ets PAPETERIES DE DOCELLES
+UPM FRANCE
 
 |
+
+UPM France-Ets PAPETERIES DE DOCELLES |
 
 39 645
 
@@ -4442,31 +4432,31 @@ UPM France - Ets PAPETERIES DE DOCELLES
 
 |
 
-38 260
+0
 
 |
 
-37 556
+0
 
 |
 
-36 844
+0
 
 |
 
-36 126
+0
 
 |
 
-35 399
+0
 
 |
 
-34 669
+0
 
 |
 
-297 456
+78 602
 
 |
 
@@ -4714,13 +4704,11 @@ FR000000000000507
 
 |
 
-PAPETERIE DE RAON
+PAPETERIE RAON
 
 |
 
-PAPETERIE DE RAON
-
-|
+PAPETERIE RAON |
 
 19 393
 
@@ -5326,7 +5314,7 @@ FR000000000000525
 
 |
 
-DALKIA France
+DALKIA
 
 |
 
@@ -5802,7 +5790,7 @@ ELENGY
 
 |
 
-Terminal méthanier de Montoir-de-Bretagne
+Terminal méthanier de Montoir de Bretagne
 
 |
 
@@ -6232,11 +6220,9 @@ FR000000000000553
 
 |
 
-SOCIETE THERMIQUE DE LAVAL SAINT NICOLAS (STLN)
+LAVAL ENERGIE NOUVELLE |
 
-|
-
-SOCIETE THERMIQUE DE LAVAL SAINT NICOLAS (STLN)
+LAVAL ENERGIE NOUVELLE
 
 |
 
@@ -6328,9 +6314,11 @@ FR000000000000555
 
 |
 
-ArcelorMittal Atlantique et Lorraine - Site de Basse-Indre |
+ArcelorMittal Atlantique et Lorraine-Site de Basse-Indre
 
-ArcelorMittal Atlantique et Lorraine - Site de Basse-Indre |
+|
+
+ArcelorMittal Atlantique et Lorraine-Site de Basse-Indre |
 
 33 045
 
@@ -6340,33 +6328,29 @@ ArcelorMittal Atlantique et Lorraine - Site de Basse-Indre |
 
 |
 
-31 890
+0
 
 |
 
-31 303
+0
 
 |
 
-30 710
+0
 
 |
 
-30 111
+0
 
 |
 
-29 505
+0 |
+
+0
 
 |
 
-28 896
-
-|
-
-247 931
-
-|
+65 516 |
 
 FR000000000000556
 
@@ -6804,7 +6788,7 @@ FR000000000000567
 
 |
 
-Bruno Baril
+ALLARD EMBALLAGES
 
 |
 
@@ -6820,19 +6804,19 @@ ALLARD EMBALLAGES
 
 |
 
-0 |
+13 034 |
 
-0 |
+12 795 |
 
-0 |
+12 552 |
 
-0 |
+12 307 |
 
-0 |
+12 060 |
 
-0 |
+11 811 |
 
-9 465 |
+101 337 |
 
 FR000000000000568
 
@@ -6982,47 +6966,41 @@ FR000000000000579
 
 |
 
-BOUYER LEROUX STRUCTURE
+BOUYER LEROUX STRUCTURE |
 
-|
-
-BOUYER LEROUX STRUCTURE site de La Boissière-du-Doré
-
-|
+BOUYER LEROUX STRUCTURE site de la Boissière du Doré |
 
 7 276
 
 |
 
-7 149
+3 849
 
 |
 
-7 021
+3 781
 
 |
 
-6 893
+3 711
 
 |
 
-6 762
+3 641
 
 |
 
-6 630
+3 570
 
 |
 
-6 496
+3 498
 
 |
 
-6 363
+3 426 |
 
-|
-
-54 590
+32 752
 
 |
 
@@ -7046,31 +7024,31 @@ SCEA SERRES LES 3 MOULINS
 
 |
 
-3 594
+0
 
 |
 
-3 144
+0
 
 |
 
-2 708
+0
 
 |
 
-2 287
+0
 
 |
 
-1 879
+0
 
 |
 
-1 486
+0
 
 |
 
-23 689
+8 591
 
 |
 
@@ -7594,13 +7572,11 @@ FR000000000000594
 
 |
 
-DALKIA France
+DALKIA
 
 |
 
-DALKIA-ex COMETHERM-Chaufferie Saint-Augustin
-
-|
+DALKIA-ex COMETHERM-Chaufferie Saint Augustin |
 
 6 378
 
@@ -11146,33 +11122,31 @@ PEUGEOT CITROEN POISSY SNC
 
 |
 
-32 538
+49 517
 
 |
 
-28 469
+48 605
 
 |
 
-24 525
+47 685
 
 |
 
-20 707
+46 755
 
 |
 
-17 016
+45 813
 
 |
 
-13 461
+44 869
 
 |
 
-214 499
-
-|
+361 027 |
 
 FR000000000000695
 
@@ -11338,31 +11312,29 @@ Peugeot Citroën Automobiles SA Vélizy
 
 |
 
-3 983
+6 061
 
 |
 
-3 484
+5 950
 
 |
 
-3 001
+5 837
 
 |
 
-2 534
+5 723 |
+
+5 608
 
 |
 
-2 082
+5 492
 
 |
 
-1 648
-
-|
-
-26 252
+44 191
 
 |
 
@@ -11418,11 +11390,11 @@ FR000000000000701
 
 |
 
-IMPRIMERIE HELIO-CORBEIL
+IMPRIMERIE HELIO CORBEIL
 
 |
 
-IMPRIMERIE HELIO-CORBEIL
+IMPRIMERIE HELIO CORBEIL
 
 |
 
@@ -11440,7 +11412,9 @@ IMPRIMERIE HELIO-CORBEIL
 
 0 |
 
-0 |
+0
+
+|
 
 0
 
@@ -11448,9 +11422,11 @@ IMPRIMERIE HELIO-CORBEIL
 
 0 |
 
-0 |
+0
 
-18 406
+|
+
+6 675
 
 |
 

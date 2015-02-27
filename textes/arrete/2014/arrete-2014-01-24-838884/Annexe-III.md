@@ -38,170 +38,484 @@ QUANTITÉ DE QUOTAS AFFECTÉS |
 
 TOTAL |
 
-FR-new-06601577 |
+FR-new-06601577
 
-Usine Axens |
+|
 
-Axens |
+Usine Axens
 
-3 366 |
+|
 
-3 307 |
+Axens
 
-3 249 |
+|
 
-3 190 |
+3 366
 
-3 132 |
+|
 
-3 073 |
+3 307
 
-3 015 |
+|
 
-2 956 |
+3 249
 
-25 288 |
+|
 
-FR000000000000095 |
+3 190
 
-SEE BRUYERES & FILS |
+|
 
-BRUYERES |
+3 132
 
-7 056 |
+|
 
-6 933 |
+3 073
 
-6 810 |
+|
 
-6 688 |
+3 015
 
-6 565 |
+|
 
-6 442 |
+2 956
 
-6 319 |
+|
 
-6 197 |
+25 288
 
-53 010 |
+|
 
-FR000000000001152 |
+FR000000000000095
 
-SAINT-GOBAIN ISOVER |
+|
 
-SAINT-GOBAIN ISOVER |
+SEE BRUYERES & FILS
 
-4 258 |
+|
 
-4 184 |
+BRUYERES
 
-4 110 |
+|
 
-4 036 |
+7 056
 
-3 962 |
+|
 
-3 888 |
+6 933
 
-3 813 |
+|
 
-3 739 |
+6 810
 
-31 990 |
+|
 
-FR-new-05904915 |
+6 688
 
-SLV-Ta-Specialty Polymers2 |
+|
 
-Solvay Electrolyse France |
+6 565
 
-3 364 |
+|
 
-3 305 |
+6 442
 
-3 247 |
+|
 
-3 197 |
+6 319
 
-3 130 |
+|
 
-3 071 |
+6 197
 
-3 013 |
+|
 
-2 962 |
+53 010
 
-25 289 |
+|
 
-FR000000000000837 |
+FR000000000001152
 
-Tereos Syral |
+|
 
-Tereos Syral |
+SAINT-GOBAIN ISOVER
 
-18 192 |
+|
 
-17 875 |
+SAINT-GOBAIN ISOVER
 
-17 559 |
+|
 
-17 242 |
+4 258
 
-16 926 |
+|
 
-16 609 |
+4 184
 
-16 293 |
+|
 
-15 976 |
+4 110
 
-136 672 |
+|
 
-FR000000000001075 |
+4 036
 
-LABORATOIRES SERVIER INDUSTRIE |
+|
 
-LABORATOIRES SERVIER INDUSTRIE |
+3 962
 
-1 371 |
+|
 
-1 347 |
+3 888
 
-1 323 |
+|
 
-1 299 |
+3 813
 
-1 276 |
+|
 
-1 252 |
+3 739
 
-1 228 |
+|
 
-1 204 |
+31 990
 
-10 300 |
+|
 
-FR000000000000979 |
+FR-new-05904915
 
-NESTLE PURINA PETCARE France - Usine de Marconnelle |
+|
 
-NESTLE PURINA PETCARE France |
+SLV-Ta-Specialty Polymers2
 
-3 411 |
+|
 
-3 053 |
+Solvay Electrolyse France
 
-2 704 |
+|
 
-2 367 |
+3 364
 
-2 040 |
+|
 
-1 724 |
+3 305
 
-1 418 |
+|
 
-1 123 |
+3 247
 
-17 840 |
+|
+
+3 197
+
+|
+
+3 130
+
+|
+
+3 071
+
+|
+
+3 013
+
+|
+
+2 962
+
+|
+
+25 289
+
+|
+
+FR000000000000837
+
+|
+
+Tereos Syral
+
+|
+
+Tereos Syral
+
+|
+
+18 192
+
+|
+
+17 875
+
+|
+
+17 559
+
+|
+
+17 242
+
+|
+
+16 926
+
+|
+
+16 609
+
+|
+
+16 293
+
+|
+
+15 976
+
+|
+
+136 672
+
+|
+
+FR000000000001075
+
+|
+
+LABORATOIRES SERVIER INDUSTRIE
+
+|
+
+LABORATOIRES SERVIER INDUSTRIE
+
+|
+
+1 371
+
+|
+
+1 347
+
+|
+
+1 323
+
+|
+
+1 299
+
+|
+
+1 276
+
+|
+
+1 252
+
+|
+
+1 228
+
+|
+
+1 204
+
+|
+
+10 300
+
+|
+
+FR000000000000979
+
+|
+
+NESTLE PURINA PETCARE France - Usine de Marconnelle
+
+|
+
+NESTLE PURINA PETCARE France
+
+|
+
+3 411
+
+|
+
+3 053
+
+|
+
+2 704
+
+|
+
+2 367
+
+|
+
+2 040
+
+|
+
+1 724
+
+|
+
+1 418
+
+|
+
+1 123
+
+|
+
+17 840
+
+|
+
+FR000000000000274
+
+|
+
+SNC Renault
+
+(CLEON)
+
+|
+
+Usine Renault de Cléon
+
+|
+
+5 834
+
+|
+
+5 221
+
+|
+
+4 625
+
+|
+
+4 049
+
+|
+
+3 490
+
+|
+
+2 949
+
+|
+
+2 426
+
+|
+
+1 921
+
+|
+
+30 515
+
+|
+
+FR000000000000565
+
+|
+
+SOCIETE CELIA-LAITERIE DE CRAON
+
+|
+
+SOCIETE CELIA-LAITERIE DE CRAON
+
+|
+
+6 113
+
+|
+
+12 801
+
+|
+
+11 340
+
+|
+
+9 926
+
+|
+
+8 556
+
+|
+
+7 230
+
+|
+
+5 947
+
+|
+
+4 711
+
+|
+
+66 624
+
+|
+
+FR-new-06203291
+
+|
+
+SNF SAS
+
+|
+
+SNF SAS
+
+|
+
+3 190
+
+|
+
+2 854
+
+|
+
+2 529
+
+|
+
+2 213
+
+|
+
+1 908
+
+|
+
+1 612
+
+|
+
+1 326
+
+|
+
+1 050
+
+|
+
+16 682
+
+|

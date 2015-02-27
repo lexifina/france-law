@@ -46,18 +46,6 @@ Centrale production de Bonneville
 
 |
 
-FR000000000000451
-
-|
-
-Electricité de France
-
-|
-
-EDF ― Site de Production Thermique EDF de BLENOD
-
-|
-
 FR000000000000522
 
 |
@@ -86,11 +74,11 @@ FR000000000000587
 
 |
 
-E.ON
+E. ON France Power SAS
 
 |
 
-E.ON ― Centrale de PROVENCE
+E. ON-centrale de PROVENCE
 
 |
 
@@ -212,18 +200,6 @@ EDF Centre de Production Thermique de BOUCHAIN
 
 |
 
-FR000000000000923
-
-|
-
-E.ON
-
-|
-
-E.ON ― Centrale d'HORNAING
-
-|
-
 FR000000000000988
 
 |
@@ -332,18 +308,6 @@ ENERGIES ANTILLES
 
 |
 
-FR000000000001112
-
-|
-
-EDF SEI
-
-|
-
-CENTRALE DE JARRY NORD
-
-|
-
 FR000000000001113
 
 |
@@ -368,25 +332,15 @@ EDF Pointe des Carrières
 
 |
 
-FR000000000001116
-
-|
-
-EDF SEI
-
-|
-
-EDF SEI centrale de BELLEFONTAINE |
-
 FR000000000001133
 
 |
 
-E.ON
+E. ON France POWER SAS
 
 |
 
-E.ON Centrale EMILE HUCHET
+E. ON-centrale Emile HUCHET
 
 |
 
@@ -494,7 +448,9 @@ TOUL POWER SAS
 
 |
 
-TOUL POWER SAS, centrale électrique de Toul |
+TOUL POWER SAS, centrale électrique de Toul
+
+|
 
 FR-New-06900399
 
@@ -560,9 +516,13 @@ FR-new-07300368
 
 |
 
-EDF PEI |
+EDF PEI
 
-EDF PEI centrale de Haute-Corse |
+|
+
+EDF PEI centrale de Haute-Corse
+
+|
 
 FR-new-07404411
 
