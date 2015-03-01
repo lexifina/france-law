@@ -1492,6 +1492,22 @@ NON SPEC
 
 |
 
+|
+
+|
+
+M1
+
+|
+
+Adaptation réversible dérivée de VP
+
+|
+
+DERIV VP
+
+|
+
 Semi-remorques spécialisées.
 
 |
@@ -1955,3 +1971,7 @@ Pour les motocyclettes d'un type réceptionné avant le 1er juillet 1996 et imma
 Il peut y avoir rectification du certificat d'immatriculation pour y indiquer le nouveau genre MTT1 si elles peuvent être identifiées comme appartenant à ce genre.
 
 En l'absence de rectification de la carte grise, elles sont assimilées à des motocyclettes de genre MTT2 selon la nouvelle nomenclature.
+
+NOTA :
+
+Aux termes de l'article 6 de l'arrêté du 7 novembre 2014, ces dispositions, issues de l'article 4 dudit arrêté, s'appliquent à compter du 1er mars 2015.
