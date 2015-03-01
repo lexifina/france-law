@@ -1,6 +1,6 @@
 # Article Annexe 1
 
-Liste des forfaits dénommés " Groupes homogènes de séjour "
+Liste des forfaits dénommés "Groupes homogènes de séjour"
 
 GHS
 
@@ -62,7 +62,7 @@ Craniotomies pour traumatisme, âge supérieur à 17 ans, niveau 4
 
 |
 
-65
+26
 
 |
 
@@ -74,11 +74,11 @@ Craniotomies en dehors de tout traumatisme, âge supérieur à 17 ans, niveau 1
 
 |
 
-26
+65
 
 |
 
-66
+27
 
 |
 
@@ -90,11 +90,11 @@ Craniotomies en dehors de tout traumatisme, âge supérieur à 17 ans, niveau 2
 
 |
 
-27
+66
 
 |
 
-67
+28
 
 |
 
@@ -106,11 +106,11 @@ Craniotomies en dehors de tout traumatisme, âge supérieur à 17 ans, niveau 3
 
 |
 
-28
+67
 
 |
 
-68
+29
 
 |
 
@@ -122,7 +122,7 @@ Craniotomies en dehors de tout traumatisme, âge supérieur à 17 ans, niveau 4
 
 |
 
-29
+68
 
 |
 
@@ -438,7 +438,7 @@ Craniotomies pour tumeurs, âge inférieur à 18 ans, niveau 4
 
 |
 
-69
+55
 
 |
 
@@ -450,11 +450,11 @@ Craniotomies pour affections non tumorales, âge inférieur à 18 ans, niveau 1
 
 |
 
-55
+69
 
 |
 
-70
+56
 
 |
 
@@ -466,11 +466,11 @@ Craniotomies pour affections non tumorales, âge inférieur à 18 ans, niveau 2
 
 |
 
-56
+70
 
 |
 
-71
+57
 
 |
 
@@ -482,11 +482,11 @@ Craniotomies pour affections non tumorales, âge inférieur à 18 ans, niveau 3
 
 |
 
-57
+71
 
 |
 
-72
+58
 
 |
 
@@ -498,7 +498,7 @@ Craniotomies pour affections non tumorales, âge inférieur à 18 ans, niveau 4
 
 |
 
-58
+72
 
 |
 
@@ -510,7 +510,7 @@ Craniotomies pour affections non tumorales, âge inférieur à 18 ans, niveau 4
 
 |
 
-Libérations de nerfs superficiels, à l'exception du médian au canal carpien, niveau 1
+Libérations de nerfs superficiels à l'exception du médian au canal carpien, niveau 1
 
 |
 
@@ -534,7 +534,7 @@ Libérations de nerfs superficiels à l'exception du médian au canal carpien, n
 
 |
 
-Libérations de nerfs superficiels, à l'exception du médian au canal carpien, niveau 3
+Libérations de nerfs superficiels à l'exception du médian au canal carpien, niveau 3
 
 |
 
@@ -546,7 +546,7 @@ Libérations de nerfs superficiels, à l'exception du médian au canal carpien, 
 
 |
 
-Libérations de nerfs superficiels, à l'exception du médian au canal carpien, niveau 4
+Libérations de nerfs superficiels à l'exception du médian au canal carpien, niveau 4
 
 |
 
@@ -558,7 +558,7 @@ Libérations de nerfs superficiels, à l'exception du médian au canal carpien, 
 
 |
 
-Libérations de nerfs superficiels, à l'exception du médian au canal carpien, en ambulatoire
+Libérations de nerfs superficiels à l'exception du médian au canal carpien, en ambulatoire
 
 |
 
@@ -870,7 +870,7 @@ Méningites virales, très courte durée
 
 |
 
-Infections du système nerveux, à l'exception des méningites virales, niveau 1
+Infections du système nerveux à l'exception des méningites virales, niveau 1
 
 |
 
@@ -882,7 +882,7 @@ Infections du système nerveux, à l'exception des méningites virales, niveau 1
 
 |
 
-Infections du système nerveux, à l'exception des méningites virales, niveau 2
+Infections du système nerveux à l'exception des méningites virales, niveau 2
 
 |
 
@@ -894,7 +894,7 @@ Infections du système nerveux, à l'exception des méningites virales, niveau 2
 
 |
 
-Infections du système nerveux, à l'exception des méningites virales, niveau 3
+Infections du système nerveux à l'exception des méningites virales, niveau 3
 
 |
 
@@ -906,7 +906,7 @@ Infections du système nerveux, à l'exception des méningites virales, niveau 3
 
 |
 
-Infections du système nerveux, à l'exception des méningites virales, niveau 4
+Infections du système nerveux à l'exception des méningites virales, niveau 4
 
 |
 
@@ -918,7 +918,7 @@ Infections du système nerveux, à l'exception des méningites virales, niveau 4
 
 |
 
-Infections du système nerveux, à l'exception des méningites virales, très courte durée
+Infections du système nerveux à l'exception des méningites virales, très courte durée
 
 |
 
@@ -3554,7 +3554,7 @@ Autres affections oculaires d'origine non diabétique, âge supérieur à 17 ans
 
 |
 
-Explorations et surveillance pour affections de l'œil
+Explorations et surveillance pour affections de l'oeil
 
 |
 
@@ -7470,7 +7470,7 @@ Autres interventions cardiothoraciques, âge inférieur à 2 ans, avec circulati
 
 |
 
-1826
+1454
 
 |
 
@@ -7482,11 +7482,11 @@ Autres interventions cardiothoraciques, âge supérieur à 1 an, ou vasculaires 
 
 |
 
-1454
+1826
 
 |
 
-1827
+1455
 
 |
 
@@ -7498,11 +7498,11 @@ Autres interventions cardiothoraciques, âge supérieur à 1 an, ou vasculaires 
 
 |
 
-1455
+1827
 
 |
 
-1828
+1456
 
 |
 
@@ -7514,11 +7514,11 @@ Autres interventions cardiothoraciques, âge supérieur à 1 an, ou vasculaires 
 
 |
 
-1456
+1828
 
 |
 
-1829
+1457
 
 |
 
@@ -7530,7 +7530,7 @@ Autres interventions cardiothoraciques, âge supérieur à 1 an, ou vasculaires 
 
 |
 
-1457
+1829
 
 |
 

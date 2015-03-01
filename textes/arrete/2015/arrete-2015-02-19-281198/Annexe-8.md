@@ -12,9 +12,9 @@ LIBELLÉS CIM-10
 
 |
 
-CODES
+CODES ACTES
 
-actes CCAM
+CCAM
 
 |
 
@@ -834,7 +834,7 @@ G73. 1
 
 |
 
-Syndrome de Lambert-Eaton (C00-D48)
+Syndrome de Lambert-Eaton (C00-D48 †)
 
 |
 
@@ -846,7 +846,7 @@ G73. 2
 
 |
 
-Autres syndromes myasthéniques au cours de maladies tumorales (C00-D48)
+Autres syndromes myasthéniques au cours de maladies tumorales (C00-D48 †)
 
 |
 

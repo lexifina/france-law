@@ -416,11 +416,19 @@ HEFC800-01
 
 |
 
+HEFC801-01
+
+|
+
+Œsophagectomie avec oesophagogastroplastie, par cervicotomie, thoracoscopie et laparotomie ou cœlioscopie.
+
+|
+
 HEMA001-00
 
 |
 
-Œsophagocoloplastie rétrosternale sans œsophagectomie, avec anastomose œsophagocolique cervicale, par cervicotomie et par laparotomie
+Œsophagocoloplastie rétrosternale sans œsophagectomie, avec anastomoses œsophagocolique cervicale, par cervicotomie et par laparotomie
 
 |
 
@@ -452,7 +460,7 @@ HEMA005-00
 
 |
 
-Œsophagocoloplastie rétrosternale sans œsophagectomie, avec anastomose pharyngocolique, par cervicotomie et par laparotomie
+Œsophagocoloplastie rétrosternale sans œsophagectomie, avec anastomoses pharyngocolique, par cervicotomie et par laparotomie
 
 |
 
@@ -460,7 +468,7 @@ HEMA006-00
 
 |
 
-Reconstruction de l'œsophage par lambeau libre de segment digestif, avec anastomoses vasculaires et digestives
+Reconstruction de l'œsophage par lambeau libre de segment digestif, avec anastomosess vasculaires et digestives
 
 |
 
@@ -468,7 +476,7 @@ HEMA008-00
 
 |
 
-Œsophagogastroplastie rétrosternale sans œsophagectomie, avec anastomose œsophagogastrique cervicale, par cervicotomie et par laparotomie
+Œsophagogastroplastie rétrosternale sans œsophagectomie, avec anastomoses œsophagogastrique cervicale, par cervicotomie et par laparotomie
 
 |
 
@@ -476,7 +484,7 @@ HEMA009-00
 
 |
 
-Œsophagogastroplastie rétrosternale sans œsophagectomie, avec anastomose pharyngogastrique, par cervicotomie et par laparotomie
+Œsophagogastroplastie rétrosternale sans œsophagectomie, avec anastomoses pharyngogastrique, par cervicotomie et par laparotomie
 
 |
 
@@ -740,7 +748,7 @@ HHFA004-00
 
 |
 
-Colectomie totale avec conservation du rectum, avec anastomose iléorectale, par cœlioscopie ou par laparotomie avec préparation par cœlioscopie
+Colectomie totale avec conservation du rectum, avec anastomoses iléorectale, par cœlioscopie ou par laparotomie avec préparation par cœlioscopie
 
 |
 
@@ -764,7 +772,7 @@ HHFA022-00
 
 |
 
-Colectomie totale avec conservation du rectum, avec anastomose iléorectale, par laparotomie
+Colectomie totale avec conservation du rectum, avec anastomoses iléorectale, par laparotomie
 
 |
 
@@ -772,7 +780,7 @@ HHFA028-00
 
 |
 
-Coloproctectomie totale avec anastomose iléoanale, par cœlioscopie ou par laparotomie avec préparation par cœlioscopie
+Coloproctectomie totale avec anastomoses iléoanale, par cœlioscopie ou par laparotomie avec préparation par cœlioscopie
 
 |
 
@@ -796,7 +804,7 @@ HHFA031-00
 
 |
 
-Coloproctectomie totale avec anastomose iléoanale, par laparotomie
+Coloproctectomie totale avec anastomoses iléoanale, par laparotomie
 
 |
 
@@ -812,7 +820,7 @@ HJEA002-00
 
 |
 
-Abaissement du rectum pour malformation anorectale haute ou intermédiaire, par abord transsacrococcygien [de Kraske] et par abord périnéal
+Abaissement du rectum pour malformation anorectale haute ou intermédiaire, par abord trans-sacro-coccygien [de Kraske] et par abord périnéal
 
 |
 
@@ -836,7 +844,7 @@ HJFA001-00
 
 |
 
-Résection rectocolique avec abaissement colique rétrorectal par laparotomie, avec anastomose colorectale par voie anale
+Résection rectocolique avec abaissement colique rétrorectal par laparotomie, avec anastomoses colorectale par voie anale
 
 |
 
@@ -844,7 +852,7 @@ HJFA002-00
 
 |
 
-Résection rectosigmoïdienne avec anastomose colorectale infrapéritonéale, par laparotomie
+Résection rectosigmoïdienne avec anastomoses colorectale infrapéritonéale, par laparotomie
 
 |
 
@@ -852,7 +860,7 @@ HJFA004-00
 
 |
 
-Résection rectosigmoïdienne avec anastomose colorectale infrapéritonéale, par cœlioscopie ou par laparotomie avec préparation par cœlioscopie
+Résection rectosigmoïdienne avec anastomoses colorectale infrapéritonéale, par cœlioscopie ou par laparotomie avec préparation par cœlioscopie
 
 |
 
@@ -868,7 +876,7 @@ HJFA006-00
 
 |
 
-Résection rectosigmoïdienne par laparotomie, avec anastomose coloanale par voie anale ou par abord transsphinctérien
+Résection rectosigmoïdienne par laparotomie, avec anastomoses coloanale par voie anale ou par abord transsphinctérien
 
 |
 
@@ -900,7 +908,7 @@ HJFA012-00
 
 |
 
-Proctectomie secondaire par laparotomie avec anastomose iléoanale par voie transanale, après colectomie totale initiale
+Proctectomie secondaire par laparotomie avec anastomoses iléoanale par voie transanale, après colectomie totale initiale
 
 |
 
@@ -924,7 +932,7 @@ HJFA017-00
 
 |
 
-Résection rectosigmoïdienne par cœlioscopie ou par laparotomie avec préparation par cœlioscopie, avec anastomose coloanale par voie anale
+Résection rectosigmoïdienne par cœlioscopie ou par laparotomie avec préparation par cœlioscopie, avec anastomoses coloanale par voie anale
 
 |
 
@@ -972,7 +980,7 @@ HJFC023-00
 
 |
 
-Proctectomie secondaire par cœlioscopie avec anastomose iléoanale par voie transanale, après colectomie totale initiale
+Proctectomie secondaire par cœlioscopie avec anastomoses iléoanale par voie transanale, après colectomie totale initiale
 
 |
 
@@ -1204,7 +1212,7 @@ HNCA002-00
 
 |
 
-Anastomose pancréaticojéjunale avec anastomose biliojéjunale, par laparotomie
+Anastomose pancréaticojéjunale avec anastomoses biliojéjunale, par laparotomie
 
 |
 
@@ -1212,7 +1220,7 @@ HNCA003-00
 
 |
 
-Anastomose pancréaticojéjunale avec anastomose biliojéjunale et gastrojéjunostomie, par laparotomie
+Anastomose pancréaticojéjunale avec anastomoses biliojéjunale et gastrojéjunostomie, par laparotomie
 
 |
 
@@ -1244,7 +1252,7 @@ HNFA002-00
 
 |
 
-Pancréatectomie gauche avec conservation de la rate, avec anastomose pancréatojéjunale ou pancréaticojéjunale, par laparotomie
+Pancréatectomie gauche avec conservation de la rate, avec anastomoses pancréatojéjunale ou pancréaticojéjunale, par laparotomie
 
 |
 
@@ -1292,7 +1300,7 @@ HNFA010-00
 
 |
 
-Pancréatectomie gauche avec splénectomie [Splénopancréatectomie gauche] avec anastomose pancréatojéjunale ou pancréaticojéjunale, par laparotomie
+Pancréatectomie gauche avec splénectomie [Splénopancréatectomie gauche] avec anastomoses pancréatojéjunale ou pancréaticojéjunale, par laparotomie
 
 |
 
@@ -1356,7 +1364,7 @@ HPLB003-00
 
 |
 
-Administration intrapéritonéale d'agent pharmacologique anticancéreux avec hyperthermie [Chimiohyperthermie anticancéreuse intrapéritonéale], sous anesthésie générale
+Administration intrapéritonéale d'agent pharmacologique anticancéreux avec hyperthermie [chimiohyperthermie anticancéreuse intrapéritonéale], sous anesthésie générale
 
 |
 
@@ -1628,7 +1636,7 @@ JDFA006-00
 
 |
 
-Cystectomie totale avec anastomose urétérocolique et confection d'un réservoir détubulé rectosigmoïdien ou iléo-recto-sigmoïdien, par laparotomie
+Cystectomie totale avec anastomoses urétérocolique et confection d'un réservoir détubulé rectosigmoïdien ou iléo-recto-sigmoïdien, par laparotomie
 
 |
 
@@ -1644,7 +1652,7 @@ JDFA009-00
 
 |
 
-Cystectomie totale avec anastomose urétérocolique directe, par laparotomie
+Cystectomie totale avec anastomoses urétérocolique directe, par laparotomie
 
 |
 
@@ -1660,7 +1668,7 @@ JDFA019-00
 
 |
 
-Vésiculo-prostato-cystectomie totale avec anastomose urétérocolique directe, par laparotomie
+Vésiculo-prostato-cystectomie totale avec anastomoses urétérocolique directe, par laparotomie
 
 |
 
@@ -1684,7 +1692,7 @@ JDFA022-00
 
 |
 
-Vésiculo-prostato-cystectomie totale avec anastomose urétérocolique et confection d'un réservoir détubulé rectosigmoïdien ou iléo-recto-sigmoïdien, par laparotomie
+Vésiculo-prostato-cystectomie totale avec anastomoses urétérocolique et confection d'un réservoir détubulé rectosigmoïdien ou iléo-recto-sigmoïdien, par laparotomie
 
 |
 
@@ -1820,7 +1828,7 @@ JFFA009-00
 
 |
 
-Pelvectomie antérieure avec anastomose urétérocolique directe, par laparotomie
+Pelvectomie antérieure avec anastomoses urétérocolique directe, par laparotomie
 
 |
 
@@ -1868,7 +1876,7 @@ JFFA019-00
 
 |
 
-Pelvectomie antérieure avec anastomose urétérocolique et confection d'un réservoir détubulé rectosigmoïdien ou iléo-recto-sigmoïdien, par laparotomie
+Pelvectomie antérieure avec anastomoses urétérocolique et confection d'un réservoir détubulé rectosigmoïdien ou iléo-recto-sigmoïdien, par laparotomie
 
 |
 
@@ -2980,7 +2988,7 @@ MZFA010-00
 
 |
 
-Désarticulation scapulohumérale [Désarticulation de l'épaule]
+Désarticulation scapulohumérale [désarticulation de l'épaule]
 
 |
 
@@ -3004,7 +3012,7 @@ NAFA001-00
 
 |
 
-Résection " en bloc " de l'os coxal ou du fémur avec arthrectomie monobloc de hanche
+Résection en bloc de l'os coxal ou du fémur avec arthrectomie monobloc de hanche
 
 |
 
@@ -3012,7 +3020,7 @@ NAFA003-00
 
 |
 
-Résection complète " en bloc " partielle ou totale d'un os coxal [hémibassin] emportant l'acétabulum
+Résection complète en bloc partielle ou totale d'un os coxal [hémibassin] emportant l'acétabulum
 
 |
 
@@ -3020,7 +3028,7 @@ NAFA006-00
 
 |
 
-Résection complète " en bloc " de l'aile iliaque ou du cadre obturateur interrompant la continuité de l'anneau pelvien
+Résection complète en bloc de l'aile iliaque ou du cadre obturateur interrompant la continuité de l'anneau pelvien
 
 |
 
@@ -3052,7 +3060,7 @@ NEMA013-00
 
 |
 
-Reconstruction osseuse de la hanche après résection " en bloc " de l'os coxal [hémibassin], avec fixation du fémur à l'os coxal
+Reconstruction osseuse de la hanche après résection en bloc de l'os coxal [hémibassin], avec fixation du fémur à l'os coxal
 
 |
 

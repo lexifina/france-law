@@ -800,7 +800,7 @@ Mise en place de certains accès vasculaires pour des affections de la CMD 05, s
 
 |
 
-Surveillances de greffes de cœur avec acte diagnostique par voie vasculaire, niveau 1
+Surveillances de greffes de coeur avec acte diagnostique par voie vasculaire, niveau 1
 
 |
 
@@ -812,7 +812,7 @@ Surveillances de greffes de cœur avec acte diagnostique par voie vasculaire, ni
 
 |
 
-Surveillances de greffes de cœur avec acte diagnostique par voie vasculaire, niveau 2
+Surveillances de greffes de coeur avec acte diagnostique par voie vasculaire, niveau 2
 
 |
 
@@ -824,7 +824,7 @@ Surveillances de greffes de cœur avec acte diagnostique par voie vasculaire, ni
 
 |
 
-Surveillances de greffes de cœur avec acte diagnostique par voie vasculaire, niveau 3
+Surveillances de greffes de coeur avec acte diagnostique par voie vasculaire, niveau 3
 
 |
 
@@ -836,7 +836,7 @@ Surveillances de greffes de cœur avec acte diagnostique par voie vasculaire, ni
 
 |
 
-Surveillances de greffes de cœur avec acte diagnostique par voie vasculaire, niveau 4
+Surveillances de greffes de coeur avec acte diagnostique par voie vasculaire, niveau 4
 
 |
 
@@ -848,7 +848,7 @@ Surveillances de greffes de cœur avec acte diagnostique par voie vasculaire, ni
 
 |
 
-Surveillances de greffes de cœur avec acte diagnostique par voie vasculaire, en ambulatoire
+Surveillances de greffes de coeur avec acte diagnostique par voie vasculaire, en ambulatoire
 
 |
 
@@ -1028,7 +1028,7 @@ Poses de bioprothèses de valves cardiaques par voie vasculaire, niveau 4
 
 |
 
-Actes thérapeutiques par voie vasculaire sur les orifices du cœur, âge supérieur à 17 ans, niveau 1
+Actes thérapeutiques par voie vasculaire sur les orifices du coeur, âge supérieur à 17 ans, niveau 1
 
 |
 
@@ -1040,7 +1040,7 @@ Actes thérapeutiques par voie vasculaire sur les orifices du cœur, âge supér
 
 |
 
-Actes thérapeutiques par voie vasculaire sur les orifices du cœur, âge supérieur à 17 ans, niveau 2
+Actes thérapeutiques par voie vasculaire sur les orifices du coeur, âge supérieur à 17 ans, niveau 2
 
 |
 
@@ -1052,7 +1052,7 @@ Actes thérapeutiques par voie vasculaire sur les orifices du cœur, âge supér
 
 |
 
-Actes thérapeutiques par voie vasculaire sur les orifices du cœur, âge supérieur à 17 ans, niveau 3
+Actes thérapeutiques par voie vasculaire sur les orifices du coeur, âge supérieur à 17 ans, niveau 3
 
 |
 
@@ -1064,7 +1064,7 @@ Actes thérapeutiques par voie vasculaire sur les orifices du cœur, âge supér
 
 |
 
-Actes thérapeutiques par voie vasculaire sur les orifices du cœur, âge supérieur à 17 ans, niveau 4
+Actes thérapeutiques par voie vasculaire sur les orifices du coeur, âge supérieur à 17 ans, niveau 4
 
 |
 
@@ -1136,7 +1136,7 @@ Ablations, repositionnements et poses de sondes cardiaques supplémentaires par 
 
 |
 
-Dilatations coronaires et autres actes thérapeutiques sur le cœur par voie vasculaire, âge supérieur à 17 ans, niveau 1
+Dilatations coronaires et autres actes thérapeutiques sur le coeur par voie vasculaire, âge supérieur à 17 ans, niveau 1
 
 |
 
@@ -1148,7 +1148,7 @@ Dilatations coronaires et autres actes thérapeutiques sur le cœur par voie vas
 
 |
 
-Dilatations coronaires et autres actes thérapeutiques sur le cœur par voie vasculaire, âge supérieur à 17 ans, niveau 2
+Dilatations coronaires et autres actes thérapeutiques sur le coeur par voie vasculaire, âge supérieur à 17 ans, niveau 2
 
 |
 
@@ -1160,7 +1160,7 @@ Dilatations coronaires et autres actes thérapeutiques sur le cœur par voie vas
 
 |
 
-Dilatations coronaires et autres actes thérapeutiques sur le cœur par voie vasculaire, âge supérieur à 17 ans, niveau 3
+Dilatations coronaires et autres actes thérapeutiques sur le coeur par voie vasculaire, âge supérieur à 17 ans, niveau 3
 
 |
 
@@ -1172,7 +1172,7 @@ Dilatations coronaires et autres actes thérapeutiques sur le cœur par voie vas
 
 |
 
-Dilatations coronaires et autres actes thérapeutiques sur le cœur par voie vasculaire, âge supérieur à 17 ans, niveau 4
+Dilatations coronaires et autres actes thérapeutiques sur le coeur par voie vasculaire, âge supérieur à 17 ans, niveau 4
 
 |
 
@@ -1184,7 +1184,7 @@ Dilatations coronaires et autres actes thérapeutiques sur le cœur par voie vas
 
 |
 
-Dilatations coronaires et autres actes thérapeutiques sur le cœur par voie vasculaire, âge supérieur à 17 ans, en ambulatoire
+Dilatations coronaires et autres actes thérapeutiques sur le coeur par voie vasculaire, âge supérieur à 17 ans, en ambulatoire
 
 |
 
@@ -2204,7 +2204,7 @@ Transferts et autres séjours courts pour endocardites aiguës et subaiguës
 
 |
 
-Surveillances de greffes de cœur sans acte diagnostique par voie vasculaire, niveau 1
+Surveillances de greffes de coeur sans acte diagnostique par voie vasculaire, niveau 1
 
 |
 
@@ -2216,7 +2216,7 @@ Surveillances de greffes de cœur sans acte diagnostique par voie vasculaire, ni
 
 |
 
-Surveillances de greffes de cœur sans acte diagnostique par voie vasculaire, niveau 2
+Surveillances de greffes de coeur sans acte diagnostique par voie vasculaire, niveau 2
 
 |
 
@@ -2228,7 +2228,7 @@ Surveillances de greffes de cœur sans acte diagnostique par voie vasculaire, ni
 
 |
 
-Surveillances de greffes de cœur sans acte diagnostique par voie vasculaire, niveau 3
+Surveillances de greffes de coeur sans acte diagnostique par voie vasculaire, niveau 3
 
 |
 
@@ -2240,7 +2240,7 @@ Surveillances de greffes de cœur sans acte diagnostique par voie vasculaire, ni
 
 |
 
-Surveillances de greffes de cœur sans acte diagnostique par voie vasculaire, niveau 4
+Surveillances de greffes de coeur sans acte diagnostique par voie vasculaire, niveau 4
 
 |
 
@@ -2916,7 +2916,7 @@ Interventions sur l'œsophage, l'estomac et le duodénum pour tumeurs malignes, 
 
 |
 
-2014
+1991
 
 |
 
@@ -2928,7 +2928,7 @@ Hémorroïdectomies, niveau 1
 
 |
 
-1991
+2014
 
 |
 
@@ -2968,7 +2968,7 @@ Hémorroïdectomies, niveau 4
 
 |
 
-2013
+1995
 
 |
 
@@ -2980,7 +2980,7 @@ Hémorroïdectomies, en ambulatoire
 
 |
 
-1995
+2013
 
 |
 
@@ -3256,7 +3256,7 @@ Cures d'éventrations postopératoires, âge supérieur à 17 ans, en ambulatoir
 
 |
 
-Interventions réparatrices pour hernies, à l'exception des hernies inguinales, crurales, âge supérieur à 17 ans, niveau 1
+Interventions réparatrices pour hernies à l'exception des hernies inguinales, crurales, âge supérieur à 17 ans, niveau 1
 
 |
 
@@ -3268,7 +3268,7 @@ Interventions réparatrices pour hernies, à l'exception des hernies inguinales,
 
 |
 
-Interventions réparatrices pour hernies, à l'exception des hernies inguinales, crurales, âge supérieur à 17 ans, niveau 2
+Interventions réparatrices pour hernies à l'exception des hernies inguinales, crurales, âge supérieur à 17 ans, niveau 2
 
 |
 
@@ -3280,7 +3280,7 @@ Interventions réparatrices pour hernies, à l'exception des hernies inguinales,
 
 |
 
-Interventions réparatrices pour hernies, à l'exception des hernies inguinales, crurales, âge supérieur à 17 ans, niveau 3
+Interventions réparatrices pour hernies à l'exception des hernies inguinales, crurales, âge supérieur à 17 ans, niveau 3
 
 |
 
@@ -3292,7 +3292,7 @@ Interventions réparatrices pour hernies, à l'exception des hernies inguinales,
 
 |
 
-Interventions réparatrices pour hernies, à l'exception des hernies inguinales, crurales, âge supérieur à 17 ans, niveau 4
+Interventions réparatrices pour hernies à l'exception des hernies inguinales, crurales, âge supérieur à 17 ans, niveau 4
 
 |
 
@@ -3304,7 +3304,7 @@ Interventions réparatrices pour hernies, à l'exception des hernies inguinales,
 
 |
 
-Interventions réparatrices pour hernies, à l'exception des hernies inguinales, crurales, âge supérieur à 17 ans, en ambulatoire
+Interventions réparatrices pour hernies à l'exception des hernies inguinales, crurales, âge supérieur à 17 ans, en ambulatoire
 
 |
 
@@ -3376,7 +3376,7 @@ Affections digestives sans acte opératoire de la CMD 06, avec anesthésie, en a
 
 |
 
-Autres gastroentérites et maladies diverses du tube digestif, âge inférieur à 18 ans, niveau 1
+Autres gastro-entérites et maladies diverses du tube digestif, âge inférieur à 18 ans, niveau 1
 
 |
 
@@ -3388,7 +3388,7 @@ Autres gastroentérites et maladies diverses du tube digestif, âge inférieur �
 
 |
 
-Autres gastroentérites et maladies diverses du tube digestif, âge inférieur à 18 ans, niveau 2
+Autres gastro-entérites et maladies diverses du tube digestif, âge inférieur à 18 ans, niveau 2
 
 |
 
@@ -3400,7 +3400,7 @@ Autres gastroentérites et maladies diverses du tube digestif, âge inférieur �
 
 |
 
-Autres gastroentérites et maladies diverses du tube digestif, âge inférieur à 18 ans, niveau 3
+Autres gastro-entérites et maladies diverses du tube digestif, âge inférieur à 18 ans, niveau 3
 
 |
 
@@ -3412,7 +3412,7 @@ Autres gastroentérites et maladies diverses du tube digestif, âge inférieur �
 
 |
 
-Autres gastroentérites et maladies diverses du tube digestif, âge inférieur à 18 ans, niveau 4
+Autres gastro-entérites et maladies diverses du tube digestif, âge inférieur à 18 ans, niveau 4
 
 |
 
@@ -3424,7 +3424,7 @@ Autres gastroentérites et maladies diverses du tube digestif, âge inférieur �
 
 |
 
-Autres gastroentérites et maladies diverses du tube digestif, âge inférieur à 18 ans, très courte durée
+Autres gastro-entérites et maladies diverses du tube digestif, âge inférieur à 18 ans, très courte durée
 
 |
 
@@ -3436,7 +3436,7 @@ Autres gastroentérites et maladies diverses du tube digestif, âge inférieur �
 
 |
 
-Autres gastroentérites et maladies diverses du tube digestif, âge supérieur à 17 ans, niveau 1
+Autres gastro-entérites et maladies diverses du tube digestif, âge supérieur à 17 ans, niveau 1
 
 |
 
@@ -3448,7 +3448,7 @@ Autres gastroentérites et maladies diverses du tube digestif, âge supérieur �
 
 |
 
-Autres gastroentérites et maladies diverses du tube digestif, âge supérieur à 17 ans, niveau 2
+Autres gastro-entérites et maladies diverses du tube digestif, âge supérieur à 17 ans, niveau 2
 
 |
 
@@ -3460,7 +3460,7 @@ Autres gastroentérites et maladies diverses du tube digestif, âge supérieur �
 
 |
 
-Autres gastroentérites et maladies diverses du tube digestif, âge supérieur à 17 ans, niveau 3
+Autres gastro-entérites et maladies diverses du tube digestif, âge supérieur à 17 ans, niveau 3
 
 |
 
@@ -3472,7 +3472,7 @@ Autres gastroentérites et maladies diverses du tube digestif, âge supérieur �
 
 |
 
-Autres gastroentérites et maladies diverses du tube digestif, âge supérieur à 17 ans, niveau 4
+Autres gastro-entérites et maladies diverses du tube digestif, âge supérieur à 17 ans, niveau 4
 
 |
 
@@ -3484,7 +3484,7 @@ Autres gastroentérites et maladies diverses du tube digestif, âge supérieur �
 
 |
 
-Autres gastroentérites et maladies diverses du tube digestif, âge supérieur à 17 ans, très courte durée
+Autres gastro-entérites et maladies diverses du tube digestif, âge supérieur à 17 ans, très courte durée
 
 |
 
@@ -4744,7 +4744,7 @@ Cholécystectomies sans exploration de la voie biliaire principale pour affectio
 
 |
 
-Cholécystectomies sans exploration de la voie biliaire principale, à l'exception des affections aiguës, niveau 1
+Cholécystectomies sans exploration de la voie biliaire principale à l'exception des affections aiguës, niveau 1
 
 |
 
@@ -4756,7 +4756,7 @@ Cholécystectomies sans exploration de la voie biliaire principale, à l'excepti
 
 |
 
-Cholécystectomies sans exploration de la voie biliaire principale, à l'exception des affections aiguës, niveau 2
+Cholécystectomies sans exploration de la voie biliaire principale à l'exception des affections aiguës, niveau 2
 
 |
 
@@ -4768,7 +4768,7 @@ Cholécystectomies sans exploration de la voie biliaire principale, à l'excepti
 
 |
 
-Cholécystectomies sans exploration de la voie biliaire principale, à l'exception des affections aiguës, niveau 3
+Cholécystectomies sans exploration de la voie biliaire principale à l'exception des affections aiguës, niveau 3
 
 |
 
@@ -4780,7 +4780,7 @@ Cholécystectomies sans exploration de la voie biliaire principale, à l'excepti
 
 |
 
-Cholécystectomies sans exploration de la voie biliaire principale, à l'exception des affections aiguës, niveau 4
+Cholécystectomies sans exploration de la voie biliaire principale à l'exception des affections aiguës, niveau 4
 
 |
 
@@ -4792,7 +4792,7 @@ Cholécystectomies sans exploration de la voie biliaire principale, à l'excepti
 
 |
 
-Cholécystectomies sans exploration de la voie biliaire principale, à l'exception des affections aiguës, en ambulatoire
+Cholécystectomies sans exploration de la voie biliaire principale à l'exception des affections aiguës, en ambulatoire
 
 |
 
@@ -5452,7 +5452,7 @@ Symptômes et autres recours aux soins de la CMD 07
 
 |
 
-Affections hépatiques sévères, à l'exception des tumeurs malignes, des cirrhoses et des hépatites alcooliques, niveau 1
+Affections hépatiques sévères à l'exception des tumeurs malignes, des cirrhoses et des hépatites alcooliques, niveau 1
 
 |
 
@@ -5464,7 +5464,7 @@ Affections hépatiques sévères, à l'exception des tumeurs malignes, des cirrh
 
 |
 
-Affections hépatiques sévères, à l'exception des tumeurs malignes, des cirrhoses et des hépatites alcooliques, niveau 2
+Affections hépatiques sévères à l'exception des tumeurs malignes, des cirrhoses et des hépatites alcooliques, niveau 2
 
 |
 
@@ -5476,7 +5476,7 @@ Affections hépatiques sévères, à l'exception des tumeurs malignes, des cirrh
 
 |
 
-Affections hépatiques sévères, à l'exception des tumeurs malignes, des cirrhoses et des hépatites alcooliques, niveau 3
+Affections hépatiques sévères à l'exception des tumeurs malignes, des cirrhoses et des hépatites alcooliques, niveau 3
 
 |
 
@@ -5488,7 +5488,7 @@ Affections hépatiques sévères, à l'exception des tumeurs malignes, des cirrh
 
 |
 
-Affections hépatiques sévères, à l'exception des tumeurs malignes, des cirrhoses et des hépatites alcooliques, niveau 4
+Affections hépatiques sévères à l'exception des tumeurs malignes, des cirrhoses et des hépatites alcooliques, niveau 4
 
 |
 
@@ -5500,7 +5500,7 @@ Affections hépatiques sévères, à l'exception des tumeurs malignes, des cirrh
 
 |
 
-Affections hépatiques sévères, à l'exception des tumeurs malignes, des cirrhoses et des hépatites alcooliques, très courte durée
+Affections hépatiques sévères à l'exception des tumeurs malignes, des cirrhoses et des hépatites alcooliques, très courte durée
 
 |
 
@@ -6424,7 +6424,7 @@ Interventions sur la jambe, âge supérieur à 17 ans, en ambulatoire
 
 |
 
-Interventions sur la cheville et l'arrière-pied, à l'exception des fractures, niveau 1
+Interventions sur la cheville et l'arrière-pied à l'exception des fractures, niveau 1
 
 |
 
@@ -6436,7 +6436,7 @@ Interventions sur la cheville et l'arrière-pied, à l'exception des fractures, 
 
 |
 
-Interventions sur la cheville et l'arrière-pied, à l'exception des fractures, niveau 2
+Interventions sur la cheville et l'arrière-pied à l'exception des fractures, niveau 2
 
 |
 
@@ -6448,7 +6448,7 @@ Interventions sur la cheville et l'arrière-pied, à l'exception des fractures, 
 
 |
 
-Interventions sur la cheville et l'arrière-pied, à l'exception des fractures, niveau 3
+Interventions sur la cheville et l'arrière-pied à l'exception des fractures, niveau 3
 
 |
 
@@ -6460,7 +6460,7 @@ Interventions sur la cheville et l'arrière-pied, à l'exception des fractures, 
 
 |
 
-Interventions sur la cheville et l'arrière-pied, à l'exception des fractures, niveau 4
+Interventions sur la cheville et l'arrière-pied à l'exception des fractures, niveau 4
 
 |
 
@@ -7624,7 +7624,7 @@ Interventions sur la cheville et l'arrière-pied pour fractures, niveau 4
 
 |
 
-Libérations articulaires du membre inférieur, à l'exception de la hanche et du pied, niveau 1
+Libérations articulaires du membre inférieur à l'exception de la hanche et du pied, niveau 1
 
 |
 
@@ -7636,7 +7636,7 @@ Libérations articulaires du membre inférieur, à l'exception de la hanche et d
 
 |
 
-Libérations articulaires du membre inférieur, à l'exception de la hanche et du pied, niveau 2
+Libérations articulaires du membre inférieur à l'exception de la hanche et du pied, niveau 2
 
 |
 
@@ -7648,7 +7648,7 @@ Libérations articulaires du membre inférieur, à l'exception de la hanche et d
 
 |
 
-Libérations articulaires du membre inférieur, à l'exception de la hanche et du pied, niveau 3
+Libérations articulaires du membre inférieur à l'exception de la hanche et du pied, niveau 3
 
 |
 
@@ -7660,7 +7660,7 @@ Libérations articulaires du membre inférieur, à l'exception de la hanche et d
 
 |
 
-Libérations articulaires du membre inférieur, à l'exception de la hanche et du pied, niveau 4
+Libérations articulaires du membre inférieur à l'exception de la hanche et du pied, niveau 4
 
 |
 
@@ -7672,7 +7672,7 @@ Libérations articulaires du membre inférieur, à l'exception de la hanche et d
 
 |
 
-Libérations articulaires du membre inférieur, à l'exception de la hanche et du pied, en ambulatoire
+Libérations articulaires du membre inférieur à l'exception de la hanche et du pied, en ambulatoire
 
 |
 

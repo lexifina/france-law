@@ -2,9 +2,7 @@
 
 Liste 3. Diagnostics et actes associés autorisant la facturation d'un supplément de surveillance continue pour les enfants de moins de 18 ans
 
-CODES
-
-CIM-10
+CODES CIM-10
 
 |
 
@@ -12,9 +10,9 @@ LIBELLÉS CIM-10
 
 |
 
-CODES
+CODES ACTES
 
-actes CCAM
+CCAM
 
 |
 

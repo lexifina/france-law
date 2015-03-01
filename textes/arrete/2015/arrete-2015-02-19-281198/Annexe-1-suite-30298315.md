@@ -1184,7 +1184,7 @@ Greffes de peau et/ ou parages de plaie pour ulcère cutané ou cellulite, en am
 
 |
 
-Greffes de peau et/ ou parages de plaie, à l'exception des ulcères cutanés et cellulites, niveau 1
+Greffes de peau et/ ou parages de plaie à l'exception des ulcères cutanés et cellulites, niveau 1
 
 |
 
@@ -1196,7 +1196,7 @@ Greffes de peau et/ ou parages de plaie, à l'exception des ulcères cutanés et
 
 |
 
-Greffes de peau et/ ou parages de plaie, à l'exception des ulcères cutanés et cellulites, niveau 2
+Greffes de peau et/ ou parages de plaie à l'exception des ulcères cutanés et cellulites, niveau 2
 
 |
 
@@ -1208,7 +1208,7 @@ Greffes de peau et/ ou parages de plaie, à l'exception des ulcères cutanés et
 
 |
 
-Greffes de peau et/ ou parages de plaie, à l'exception des ulcères cutanés et cellulites, niveau 3
+Greffes de peau et/ ou parages de plaie à l'exception des ulcères cutanés et cellulites, niveau 3
 
 |
 
@@ -1220,7 +1220,7 @@ Greffes de peau et/ ou parages de plaie, à l'exception des ulcères cutanés et
 
 |
 
-Greffes de peau et/ ou parages de plaie, à l'exception des ulcères cutanés et cellulites, niveau 4
+Greffes de peau et/ ou parages de plaie à l'exception des ulcères cutanés et cellulites, niveau 4
 
 |
 
@@ -1232,7 +1232,7 @@ Greffes de peau et/ ou parages de plaie, à l'exception des ulcères cutanés et
 
 |
 
-Greffes de peau et/ ou parages de plaie, à l'exception des ulcères cutanés et cellulites, en ambulatoire
+Greffes de peau et/ ou parages de plaie à l'exception des ulcères cutanés et cellulites, en ambulatoire
 
 |
 
@@ -2672,18 +2672,6 @@ Symptômes et autres recours aux soins concernant les affections des seins
 
 |
 
-9999
-
-|
-
-09Z02A
-
-|
-
-Chirurgie esthétique, sans complication significative
-
-|
-
 3570
 
 |
@@ -4100,7 +4088,7 @@ Interventions sur les reins et les uretères et chirurgie majeure de la vessie p
 
 |
 
-4149
+4116
 
 |
 
@@ -4112,11 +4100,11 @@ Interventions sur les reins et les uretères et chirurgie majeure de la vessie p
 
 |
 
-4116
+4149
 
 |
 
-4150
+4117
 
 |
 
@@ -4128,11 +4116,11 @@ Interventions sur les reins et les uretères et chirurgie majeure de la vessie p
 
 |
 
-4117
+4150
 
 |
 
-4151
+4118
 
 |
 
@@ -4144,11 +4132,11 @@ Interventions sur les reins et les uretères et chirurgie majeure de la vessie p
 
 |
 
-4118
+4151
 
 |
 
-4152
+4119
 
 |
 
@@ -4160,7 +4148,7 @@ Interventions sur les reins et les uretères et chirurgie majeure de la vessie p
 
 |
 
-4119
+4152
 
 |
 
@@ -4172,7 +4160,7 @@ Interventions sur les reins et les uretères et chirurgie majeure de la vessie p
 
 |
 
-Autres interventions sur la vessie, à l'exception des interventions transurétrales, niveau 1
+Autres interventions sur la vessie à l'exception des interventions transurétrales, niveau 1
 
 |
 
@@ -4184,7 +4172,7 @@ Autres interventions sur la vessie, à l'exception des interventions transurétr
 
 |
 
-Autres interventions sur la vessie, à l'exception des interventions transurétrales, niveau 2
+Autres interventions sur la vessie à l'exception des interventions transurétrales, niveau 2
 
 |
 
@@ -4196,7 +4184,7 @@ Autres interventions sur la vessie, à l'exception des interventions transurétr
 
 |
 
-Autres interventions sur la vessie, à l'exception des interventions transurétrales, niveau 3
+Autres interventions sur la vessie à l'exception des interventions transurétrales, niveau 3
 
 |
 
@@ -4208,7 +4196,7 @@ Autres interventions sur la vessie, à l'exception des interventions transurétr
 
 |
 
-Autres interventions sur la vessie, à l'exception des interventions transurétrales, niveau 4
+Autres interventions sur la vessie à l'exception des interventions transurétrales, niveau 4
 
 |
 
@@ -4220,7 +4208,7 @@ Autres interventions sur la vessie, à l'exception des interventions transurétr
 
 |
 
-Autres interventions sur la vessie, à l'exception des interventions transurétrales, en ambulatoire
+Autres interventions sur la vessie à l'exception des interventions transurétrales, en ambulatoire
 
 |
 
@@ -7116,7 +7104,7 @@ Dilatations et curetages, conisations pour affections non malignes, niveau 4
 
 |
 
-4987
+4968
 
 |
 
@@ -7128,7 +7116,7 @@ Dilatations et curetages, conisations pour affections non malignes, en ambulatoi
 
 |
 
-4968
+4987
 
 |
 
@@ -7288,7 +7276,7 @@ Exentérations pelviennes, hystérectomies élargies ou vulvectomies pour affect
 
 |
 
-4989
+4982
 
 |
 
@@ -7300,7 +7288,7 @@ Prélèvements d'ovocytes, en ambulatoire
 
 |
 
-4982
+4989
 
 |
 

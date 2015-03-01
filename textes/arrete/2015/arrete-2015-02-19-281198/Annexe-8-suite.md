@@ -1654,7 +1654,7 @@ DDMA004-00
 
 |
 
-Revascularisation coronaire par greffon veineux avec 4 anastomoses distales ou plus, par thoracotomie avec CEC
+Revascularisation coronaire par greffon veineux avec 4 anastomosess distales ou plus, par thoracotomie avec CEC
 
 |
 
@@ -1662,7 +1662,7 @@ DDMA005-00
 
 |
 
-Revascularisation coronaire par 2 greffons artériels et par greffon veineux avec 3 anastomoses distales, par thoracotomie avec CEC
+Revascularisation coronaire par 2 greffons artériels et par greffon veineux avec 3 anastomosess distales, par thoracotomie avec CEC
 
 |
 
@@ -1670,7 +1670,7 @@ DDMA006-00
 
 |
 
-Revascularisation coronaire par 2 greffons artériels avec 3 anastomoses distales, par thoracotomie avec CEC
+Revascularisation coronaire par 2 greffons artériels avec 3 anastomosess distales, par thoracotomie avec CEC
 
 |
 
@@ -1678,7 +1678,7 @@ DDMA007-00
 
 |
 
-Revascularisation coronaire par greffon veineux avec une anastomose distale, par thoracotomie avec CEC
+Revascularisation coronaire par greffon veineux avec une anastomoses distale, par thoracotomie avec CEC
 
 |
 
@@ -1686,7 +1686,7 @@ DDMA008-00
 
 |
 
-Revascularisation coronaire par 2 greffons artériels avec 4 anastomoses distales ou plus, par thoracotomie avec CEC
+Revascularisation coronaire par 2 greffons artériels avec 4 anastomosess distales ou plus, par thoracotomie avec CEC
 
 |
 
@@ -1694,7 +1694,7 @@ DDMA009-00
 
 |
 
-Revascularisation coronaire par 2 greffons artériels et par greffon veineux avec 4 anastomoses distales ou plus, par thoracotomie avec CEC
+Revascularisation coronaire par 2 greffons artériels et par greffon veineux avec 4 anastomosess distales ou plus, par thoracotomie avec CEC
 
 |
 
@@ -1702,7 +1702,7 @@ DDMA011-00
 
 |
 
-Revascularisation coronaire par un greffon artériel et par greffon veineux avec 2 anastomoses distales, par thoracotomie avec CEC
+Revascularisation coronaire par un greffon artériel et par greffon veineux avec 2 anastomosess distales, par thoracotomie avec CEC
 
 |
 
@@ -1710,7 +1710,7 @@ DDMA012-00
 
 |
 
-Revascularisation coronaire par 3 greffons artériels et par greffon veineux avec 4 anastomoses distales ou plus, par thoracotomie avec CEC
+Revascularisation coronaire par 3 greffons artériels et par greffon veineux avec 4 anastomosess distales ou plus, par thoracotomie avec CEC
 
 |
 
@@ -1718,7 +1718,7 @@ DDMA013-00
 
 |
 
-Revascularisation coronaire par 3 greffons artériels avec 4 anastomoses distales ou plus, par thoracotomie avec CEC
+Revascularisation coronaire par 3 greffons artériels avec 4 anastomosess distales ou plus, par thoracotomie avec CEC
 
 |
 
@@ -1726,7 +1726,7 @@ DDMA015-00
 
 |
 
-Revascularisation coronaire par un greffon artériel avec une anastomose distale, par thoracotomie avec CEC
+Revascularisation coronaire par un greffon artériel avec une anastomoses distale, par thoracotomie avec CEC
 
 |
 
@@ -1734,7 +1734,7 @@ DDMA016-00
 
 |
 
-Revascularisation coronaire par greffon veineux avec 3 anastomoses distales, par thoracotomie avec CEC
+Revascularisation coronaire par greffon veineux avec 3 anastomosess distales, par thoracotomie avec CEC
 
 |
 
@@ -1742,7 +1742,7 @@ DDMA017-00
 
 |
 
-Revascularisation coronaire par un greffon artériel avec 2 anastomoses distales, par thoracotomie avec CEC
+Revascularisation coronaire par un greffon artériel avec 2 anastomosess distales, par thoracotomie avec CEC
 
 |
 
@@ -1750,7 +1750,7 @@ DDMA018-00
 
 |
 
-Revascularisation coronaire par un greffon artériel et par greffon veineux avec 3 anastomoses distales, par thoracotomie avec CEC
+Revascularisation coronaire par un greffon artériel et par greffon veineux avec 3 anastomosess distales, par thoracotomie avec CEC
 
 |
 
@@ -1758,7 +1758,7 @@ DDMA019-00
 
 |
 
-Revascularisation coronaire par greffon veineux avec 2 anastomoses distales, par thoracotomie avec CEC
+Revascularisation coronaire par greffon veineux avec 2 anastomosess distales, par thoracotomie avec CEC
 
 |
 
@@ -1766,7 +1766,7 @@ DDMA020-00
 
 |
 
-Revascularisation coronaire par 2 greffons artériels avec 2 anastomoses distales, par thoracotomie avec CEC
+Revascularisation coronaire par 2 greffons artériels avec 2 anastomosess distales, par thoracotomie avec CEC
 
 |
 
@@ -1774,7 +1774,7 @@ DDMA021-00
 
 |
 
-Revascularisation coronaire par un greffon artériel et par greffon veineux avec 4 anastomoses distales ou plus, par thoracotomie avec CEC
+Revascularisation coronaire par un greffon artériel et par greffon veineux avec 4 anastomosess distales ou plus, par thoracotomie avec CEC
 
 |
 
@@ -1782,7 +1782,7 @@ DDMA022-00
 
 |
 
-Revascularisation coronaire par 2 greffons artériels et par greffon veineux avec 3 anastomoses distales, par thoracotomie sans CEC
+Revascularisation coronaire par 2 greffons artériels et par greffon veineux avec 3 anastomosess distales, par thoracotomie sans CEC
 
 |
 
@@ -1790,7 +1790,7 @@ DDMA023-00
 
 |
 
-Revascularisation coronaire par un greffon artériel avec 2 anastomoses distales, par thoracotomie sans CEC
+Revascularisation coronaire par un greffon artériel avec 2 anastomosess distales, par thoracotomie sans CEC
 
 |
 
@@ -1798,7 +1798,7 @@ DDMA024-00
 
 |
 
-Revascularisation coronaire par greffon veineux avec 2 anastomoses distales, par thoracotomie sans CEC
+Revascularisation coronaire par greffon veineux avec 2 anastomosess distales, par thoracotomie sans CEC
 
 |
 
@@ -1806,7 +1806,7 @@ DDMA025-00
 
 |
 
-Revascularisation coronaire par un greffon artériel avec une anastomose distale, par thoracotomie sans CEC
+Revascularisation coronaire par un greffon artériel avec une anastomoses distale, par thoracotomie sans CEC
 
 |
 
@@ -1814,7 +1814,7 @@ DDMA026-00
 
 |
 
-Revascularisation coronaire par 2 greffons artériels avec 2 anastomoses distales, par thoracotomie sans CEC
+Revascularisation coronaire par 2 greffons artériels avec 2 anastomosess distales, par thoracotomie sans CEC
 
 |
 
@@ -1822,7 +1822,7 @@ DDMA027-00
 
 |
 
-Revascularisation coronaire par greffon veineux avec 3 anastomoses distales, par thoracotomie sans CEC
+Revascularisation coronaire par greffon veineux avec 3 anastomosess distales, par thoracotomie sans CEC
 
 |
 
@@ -1830,7 +1830,7 @@ DDMA028-00
 
 |
 
-Revascularisation coronaire par greffon veineux avec une anastomose distale, par thoracotomie sans CEC
+Revascularisation coronaire par greffon veineux avec une anastomoses distale, par thoracotomie sans CEC
 
 |
 
@@ -1838,7 +1838,7 @@ DDMA029-00
 
 |
 
-Revascularisation coronaire par un greffon artériel et par greffon veineux avec 3 anastomoses distales, par thoracotomie sans CEC
+Revascularisation coronaire par un greffon artériel et par greffon veineux avec 3 anastomosess distales, par thoracotomie sans CEC
 
 |
 
@@ -1846,7 +1846,7 @@ DDMA030-00
 
 |
 
-Revascularisation coronaire par 3 greffons artériels avec 3 anastomoses distales, par thoracotomie sans CEC
+Revascularisation coronaire par 3 greffons artériels avec 3 anastomosess distales, par thoracotomie sans CEC
 
 |
 
@@ -1854,7 +1854,7 @@ DDMA031-00
 
 |
 
-Revascularisation coronaire par 2 greffons artériels avec 3 anastomoses distales, par thoracotomie sans CEC
+Revascularisation coronaire par 2 greffons artériels avec 3 anastomosess distales, par thoracotomie sans CEC
 
 |
 
@@ -1862,7 +1862,7 @@ DDMA032-00
 
 |
 
-Revascularisation coronaire par un greffon artériel et par greffon veineux avec 2 anastomoses distales, par thoracotomie sans CEC
+Revascularisation coronaire par un greffon artériel et par greffon veineux avec 2 anastomosess distales, par thoracotomie sans CEC
 
 |
 
@@ -1870,7 +1870,7 @@ DDMA033-00
 
 |
 
-Revascularisation coronaire par 2 greffons artériels avec 4 anastomoses distales ou plus, par thoracotomie sans CEC
+Revascularisation coronaire par 2 greffons artériels avec 4 anastomosess distales ou plus, par thoracotomie sans CEC
 
 |
 
@@ -1878,7 +1878,7 @@ DDMA034-00
 
 |
 
-Revascularisation coronaire par 2 greffons artériels et par greffon veineux avec 4 anastomoses distales ou plus, par thoracotomie sans CEC
+Revascularisation coronaire par 2 greffons artériels et par greffon veineux avec 4 anastomosess distales ou plus, par thoracotomie sans CEC
 
 |
 
@@ -1886,7 +1886,7 @@ DDMA035-00
 
 |
 
-Revascularisation coronaire par 3 greffons artériels avec 4 anastomoses distales ou plus, par thoracotomie sans CEC
+Revascularisation coronaire par 3 greffons artériels avec 4 anastomosess distales ou plus, par thoracotomie sans CEC
 
 |
 
@@ -1894,7 +1894,7 @@ DDMA036-00
 
 |
 
-Revascularisation coronaire par 3 greffons artériels et par greffon veineux avec 4 anastomoses distales ou plus, par thoracotomie sans CEC
+Revascularisation coronaire par 3 greffons artériels et par greffon veineux avec 4 anastomosess distales ou plus, par thoracotomie sans CEC
 
 |
 
@@ -1902,7 +1902,7 @@ DDMA037-00
 
 |
 
-Revascularisation coronaire par greffon veineux avec 4 anastomoses distales ou plus, par thoracotomie sans CEC
+Revascularisation coronaire par greffon veineux avec 4 anastomosess distales ou plus, par thoracotomie sans CEC
 
 |
 
@@ -1910,7 +1910,7 @@ DDMA038-00
 
 |
 
-Revascularisation coronaire par un greffon artériel et par greffon veineux avec 4 anastomoses distales ou plus, par thoracotomie sans CEC
+Revascularisation coronaire par un greffon artériel et par greffon veineux avec 4 anastomosess distales ou plus, par thoracotomie sans CEC
 
 |
 
@@ -2142,7 +2142,7 @@ DFCA010-00
 
 |
 
-Anastomose entre le tronc pulmonaire et l'aorte avec anastomose systémicopulmonaire, par thoracotomie avec CEC
+Anastomose entre le tronc pulmonaire et l'aorte avec anastomoses systémicopulmonaire, par thoracotomie avec CEC
 
 |
 
@@ -2262,7 +2262,7 @@ DFMA010-00
 
 |
 
-Démontage d'une anastomose cavopulmonaire totale, par thoracotomie avec CEC
+Démontage d'une anastomoses cavopulmonaire totale, par thoracotomie avec CEC
 
 |
 
@@ -3414,7 +3414,7 @@ DZSA001-00
 
 |
 
-Suppression d'une anastomose palliative pour cardiopathie congénitale, avec angioplastie d'agrandissement d'une branche de l'artère pulmonaire, par thoracotomie avec CEC
+Suppression d'une anastomoses palliative pour cardiopathie congénitale, avec angioplastie d'agrandissement d'une branche de l'artère pulmonaire, par thoracotomie avec CEC
 
 |
 
@@ -4182,7 +4182,7 @@ EHAA001-00
 
 |
 
-Recalibrage d'une anastomose portocave, par laparotomie
+Recalibrage d'une anastomoses portocave, par laparotomie
 
 |
 
@@ -5302,7 +5302,7 @@ GFFA001-00
 
 |
 
-Pneumonectomie avec exérèse totale de la plèvre [pleuropneumonectomie], par thoracotomie
+Pneumonectomie avec exérèse totale de la plèvre [Pleuropneumonectomie], par thoracotomie
 
 |
 
@@ -5446,7 +5446,7 @@ GFFA019-00
 
 |
 
-Exérèse de lobe pulmonaire restant [totalisation de pneumonectomie], par thoracotomie
+Exérèse de lobe pulmonaire restant [Totalisation de pneumonectomie], par thoracotomie
 
 |
 
@@ -5614,7 +5614,7 @@ GGCA001-00
 
 |
 
-Pleurostomie cutanée avec résection costale, par thoracotomie [thoracostomie en gueule de four]
+Pleurostomie cutanée avec résection costale, par thoracotomie [Thoracostomie en gueule de four]
 
 |
 
@@ -5734,7 +5734,7 @@ GGPA002-00
 
 |
 
-Libération du poumon [pneumolyse] pour symphyse pleurale
+Libération du poumon [Pneumolyse] pour symphyse pleurale
 
 |
 
@@ -5774,6 +5774,4 @@ GHJA002-00
 
 |
 
-Evacuation de collection du médiastin, par thoracotomie
-
-|
+Evacuation de collection du médiastin, par thoracotomie |

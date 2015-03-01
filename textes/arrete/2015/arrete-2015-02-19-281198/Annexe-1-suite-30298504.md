@@ -56,7 +56,7 @@ Accouchements uniques par voie basse avec autres interventions, avec complicatio
 
 |
 
-Affections du post-partum ou du post abortum avec intervention chirurgicale, très courte durée
+Affections du post-partum ou du post-abortum avec intervention chirurgicale, très courte durée
 
 |
 
@@ -429,18 +429,6 @@ Menaces d'avortement, très courte durée
 |
 
 Menaces d'avortement
-
-|
-
-9999
-
-|
-
-14Z08Z
-
-|
-
-Interruptions volontaires de grossesse : séjours de moins de 3 jours
 
 |
 
@@ -944,7 +932,7 @@ Nouveau-nés de 2 400 g et âge gestationnel de 38 SA et assimilés (groupe nouv
 
 |
 
-Nouveau-nés de 2400 g et âge gestationnel de 38 SA et assimilés (groupe nouveau-nés 2), avec problème majeur
+Nouveau-nés de 2 400 g et âge gestationnel de 38 SA et assimilés (groupe nouveau-nés 2), avec problème majeur
 
 |
 
@@ -1197,18 +1185,6 @@ Nouveau-nés de 800 g et âge gestationnel de 28SA et assimilés (groupe nouveau
 |
 
 Nouveau-nés de 800 g et âge gestationnel de 28SA et assimilés (groupe nouveau-nés 10), avec problème significatif
-
-|
-
-9999
-
-|
-
-15Z10E
-
-|
-
-Mort-nés
 
 |
 
@@ -1988,7 +1964,7 @@ Autres affections hématologiques concernant majoritairement la petite enfance, 
 
 |
 
-Interventions majeures de la CMD 17, niveau 1
+Interventions majeures de la CMD17, niveau 1
 
 |
 
@@ -2000,7 +1976,7 @@ Interventions majeures de la CMD 17, niveau 1
 
 |
 
-Interventions majeures de la CMD 17, niveau 2
+Interventions majeures de la CMD17, niveau 2
 
 |
 
@@ -2012,7 +1988,7 @@ Interventions majeures de la CMD 17, niveau 2
 
 |
 
-Interventions majeures de la CMD 17, niveau 3
+Interventions majeures de la CMD17, niveau 3
 
 |
 
@@ -2024,7 +2000,7 @@ Interventions majeures de la CMD 17, niveau 3
 
 |
 
-Interventions majeures de la CMD 17, niveau 4
+Interventions majeures de la CMD17, niveau 4
 
 |
 
@@ -2036,7 +2012,7 @@ Interventions majeures de la CMD 17, niveau 4
 
 |
 
-Interventions intermédiaires de la CMD 17, niveau 1
+Interventions intermédiaires de la CMD17, niveau 1
 
 |
 
@@ -2048,7 +2024,7 @@ Interventions intermédiaires de la CMD 17, niveau 1
 
 |
 
-Interventions intermédiaires de la CMD 17, niveau 2
+Interventions intermédiaires de la CMD17, niveau 2
 
 |
 
@@ -2060,7 +2036,7 @@ Interventions intermédiaires de la CMD 17, niveau 2
 
 |
 
-Interventions intermédiaires de la CMD 17, niveau 3
+Interventions intermédiaires de la CMD17, niveau 3
 
 |
 
@@ -2072,7 +2048,7 @@ Interventions intermédiaires de la CMD 17, niveau 3
 
 |
 
-Interventions intermédiaires de la CMD 17, niveau 4
+Interventions intermédiaires de la CMD17, niveau 4
 
 |
 
@@ -2084,7 +2060,7 @@ Interventions intermédiaires de la CMD 17, niveau 4
 
 |
 
-Interventions mineures de la CMD 17, niveau 1
+Interventions mineures de la CMD17, niveau 1
 
 |
 
@@ -2096,7 +2072,7 @@ Interventions mineures de la CMD 17, niveau 1
 
 |
 
-Interventions mineures de la CMD 17, niveau 2
+Interventions mineures de la CMD17, niveau 2
 
 |
 
@@ -2108,7 +2084,7 @@ Interventions mineures de la CMD 17, niveau 2
 
 |
 
-Interventions mineures de la CMD 17, niveau 3
+Interventions mineures de la CMD17, niveau 3
 
 |
 
@@ -2120,7 +2096,7 @@ Interventions mineures de la CMD 17, niveau 3
 
 |
 
-Interventions mineures de la CMD 17, niveau 4
+Interventions mineures de la CMD17, niveau 4
 
 |
 
@@ -2132,11 +2108,11 @@ Interventions mineures de la CMD 17, niveau 4
 
 |
 
-Interventions mineures de la CMD 17, en ambulatoire
+Interventions mineures de la CMD17, en ambulatoire
 
 |
 
-6523
+6470
 
 |
 
@@ -2148,15 +2124,15 @@ Autres irradiations, niveau 1
 
 |
 
-6470
-
-|
-
-6525
+6523
 
 |
 
 6524
+
+|
+
+6525
 
 |
 
@@ -3384,7 +3360,7 @@ Autres maladies infectieuses concernant majoritairement la petite enfance, nivea
 
 |
 
-7005
+7001
 
 |
 
@@ -3396,11 +3372,11 @@ Interventions chirurgicales avec un diagnostic principal de maladie mentale, niv
 
 |
 
-7001
+7005
 
 |
 
-7005
+7002
 
 |
 
@@ -3412,11 +3388,11 @@ Interventions chirurgicales avec un diagnostic principal de maladie mentale, niv
 
 |
 
-7002
+7005
 
 |
 
-7005
+7003
 
 |
 
@@ -3428,11 +3404,11 @@ Interventions chirurgicales avec un diagnostic principal de maladie mentale, niv
 
 |
 
-7003
+7005
 
 |
 
-7005
+7004
 
 |
 
@@ -3444,7 +3420,7 @@ Interventions chirurgicales avec un diagnostic principal de maladie mentale, niv
 
 |
 
-7004
+7005
 
 |
 
@@ -4312,7 +4288,7 @@ Symptômes et autres recours aux soins de la CMD 19
 
 |
 
-7285
+7258
 
 |
 
@@ -4324,11 +4300,11 @@ Toxicomanies non éthyliques avec dépendance, niveau 1
 
 |
 
-7258
+7285
 
 |
 
-7286
+7259
 
 |
 
@@ -4340,11 +4316,11 @@ Toxicomanies non éthyliques avec dépendance, niveau 2
 
 |
 
-7259
+7286
 
 |
 
-7287
+7260
 
 |
 
@@ -4356,11 +4332,11 @@ Toxicomanies non éthyliques avec dépendance, niveau 3
 
 |
 
-7260
+7287
 
 |
 
-7288
+7261
 
 |
 
@@ -4372,7 +4348,7 @@ Toxicomanies non éthyliques avec dépendance, niveau 4
 
 |
 
-7261
+7288
 
 |
 
@@ -4436,7 +4412,7 @@ Abus de drogues non éthyliques sans dépendance, niveau 4
 
 |
 
-7281
+7267
 
 |
 
@@ -4448,11 +4424,11 @@ Ethylisme avec dépendance, niveau 1
 
 |
 
-7267
+7281
 
 |
 
-7282
+7268
 
 |
 
@@ -4464,11 +4440,11 @@ Ethylisme avec dépendance, niveau 2
 
 |
 
-7268
+7282
 
 |
 
-7283
+7269
 
 |
 
@@ -4480,11 +4456,11 @@ Ethylisme avec dépendance, niveau 3
 
 |
 
-7269
+7283
 
 |
 
-7284
+7270
 
 |
 
@@ -4496,7 +4472,7 @@ Ethylisme avec dépendance, niveau 4
 
 |
 
-7270
+7284
 
 |
 
@@ -6212,11 +6188,11 @@ Désensibilisations et tests allergologiques nécessitant une hospitalisation
 
 |
 
-Soins Palliatifs, avec ou sans acte, très courte durée
+Soins palliatifs, avec ou sans acte, très courte durée
 
 |
 
-7993
+7992
 
 |
 
@@ -6228,23 +6204,11 @@ Soins palliatifs, avec ou sans acte
 
 |
 
+7993
+
+|
+
 7994
-
-|
-
-7992
-
-|
-
-9999
-
-|
-
-23Z03Z
-
-|
-
-Interventions de confort et autres interventions non prises en charge par l'assurance maladie obligatoire
 
 |
 
@@ -6596,7 +6560,7 @@ Transplantations pancréatiques, niveau 4
 
 |
 
-8930
+8914
 
 |
 
@@ -6608,11 +6572,11 @@ Transplantations pulmonaires, niveau 1
 
 |
 
-8914
+8930
 
 |
 
-8931
+8915
 
 |
 
@@ -6624,11 +6588,11 @@ Transplantations pulmonaires, niveau 2
 
 |
 
-8915
+8931
 
 |
 
-8932
+8916
 
 |
 
@@ -6640,11 +6604,11 @@ Transplantations pulmonaires, niveau 3
 
 |
 
-8916
+8932
 
 |
 
-8933
+8917
 
 |
 
@@ -6656,11 +6620,11 @@ Transplantations pulmonaires, niveau 4
 
 |
 
-8917
+8933
 
 |
 
-8934
+8918
 
 |
 
@@ -6672,11 +6636,11 @@ Transplantations cardiaques, niveau 1
 
 |
 
-8918
+8934
 
 |
 
-8935
+8919
 
 |
 
@@ -6688,11 +6652,11 @@ Transplantations cardiaques, niveau 2
 
 |
 
-8919
+8935
 
 |
 
-8936
+8920
 
 |
 
@@ -6704,11 +6668,11 @@ Transplantations cardiaques, niveau 3
 
 |
 
-8920
+8936
 
 |
 
-8937
+8921
 
 |
 
@@ -6720,7 +6684,7 @@ Transplantations cardiaques, niveau 4
 
 |
 
-8921
+8937
 
 |
 
@@ -6904,10 +6868,6 @@ Entraînements à la dialyse péritonéale automatisée, en séances
 
 |
 
-20020
-
-|
-
 9603
 
 |
@@ -6917,10 +6877,6 @@ Entraînements à la dialyse péritonéale automatisée, en séances
 |
 
 Entraînements à la dialyse péritonéale continue ambulatoire, en séances
-
-|
-
-20021
 
 |
 
@@ -6936,10 +6892,6 @@ Entraînements à l'hémodialyse, en séances
 
 |
 
-20024
-
-|
-
 9605
 
 |
@@ -6949,14 +6901,6 @@ Entraînements à l'hémodialyse, en séances
 |
 
 Hémodialyse, en séances
-
-|
-
-9999
-
-|
-
-20011
 
 |
 
@@ -6988,7 +6932,7 @@ Curiethérapie, en séances
 
 |
 
-9621
+9610
 
 |
 
@@ -7000,15 +6944,15 @@ Techniques spéciales d'irradiation externe, en séances
 
 |
 
-9620
-
-|
-
 9619
 
 |
 
-9610
+9620
+
+|
+
+9621
 
 |
 
@@ -7165,65 +7109,5 @@ Techniques complexes d'irradiation externe sans repositionnement, en séances
 |
 
 Autres techniques d'irradiation externe, en séances
-
-|
-
-9999
-
-|
-
-90H01Z
-
-|
-
-Erreurs détectées dans les RSA par le logiciel de mesure de l'activité hospitalière
-
-|
-
-9999
-
-|
-
-90Z00Z
-
-|
-
-Erreurs détectées par les contrôles effectués sur les RUM et leur séquencement
-
-|
-
-9999
-
-|
-
-90Z01Z
-
-|
-
-Diagnostic invalide comme diagnostic principal, dans certaines circonstances
-
-|
-
-9999
-
-|
-
-90Z02Z
-
-|
-
-Autres erreurs détectées dans le parcours de l'arbre de groupage
-
-|
-
-9999
-
-|
-
-90Z03Z
-
-|
-
-Erreurs d'implémentation de la fonction groupage ou erreur d'exécution d'un programme
 
 |

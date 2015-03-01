@@ -16,7 +16,7 @@ DZQJ001-00
 
 |
 
-Echographie-doppler du cœur et des vaisseaux intrathoraciques, par voie œsophagienne [échocardiographie-doppler transœsophagienne]
+Echographie-doppler du cœur et des vaisseaux intrathoraciques, par voie œsophagienne [Échocardiographie-doppler transœsophagienne]
 
 |
 
@@ -330,7 +330,7 @@ CAEA002-00
 
 |
 
-Repositionnement de tout ou partie de l'auricule, sans anastomose vasculaire
+Repositionnement de tout ou partie de l'auricule, sans anastomoses vasculaire
 
 |
 
@@ -515,38 +515,6 @@ QAGA004-00
 |
 
 Ablation d'un corps étranger profond des tissus mous du visage ou des mains
-
-|
-
-QZFA001-00
-
-|
-
-Exérèse de 2 à 5 lésions souscutanées susfasciales de moins de 3 cm de grand axe
-
-|
-
-QZFA002-00
-
-|
-
-Exérèse d'une lésion souscutanée susfasciale de moins de 3 cm de grand axe
-
-|
-
-QZFA005-00
-
-|
-
-Exérèse de 6 lésions souscutanées susfasciales ou plus de moins de 3 cm de grand axe
-
-|
-
-QZFA007-00
-
-|
-
-Exérèse de lésion souscutanée susfasciale de 3 cm à 10 cm de grand axe
 
 |
 

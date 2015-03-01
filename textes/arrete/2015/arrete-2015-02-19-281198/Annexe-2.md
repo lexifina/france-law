@@ -89,3 +89,11 @@ D23
 Forfait de dialyse péritonéale continue ambulatoire pour une hospitalisation d'une durée comprise entre 3 et 6 jours
 
 |
+
+D24
+
+|
+
+Forfait d'entraînement à l'hémodialyse en unité de dialyse médicalisée
+
+|
