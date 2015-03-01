@@ -26,19 +26,25 @@ Mycoplasma agalactiae
 
 |
 
-Ovins
-
-Caprins (en Aquitaine)
+Ovins et caprins
 
 |
 
-|
+Aquitaine
 
 |
 
-Artérite virale équine |
+Préfet
 
-Virus de l'artérite équine (Arteriviridae, Arterivirus). |
+|
+
+Artérite virale équine
+
+|
+
+Virus de l'artérite équine (Arteriviridae, Arterivirus).
+
+|
 
 Equidés |
 
@@ -46,9 +52,13 @@ France |
 
 Préfet |
 
-Arthrite encéphalite caprine |
+Arthrite encéphalite caprine
 
-Virus de l'arthrite encéphalite caprine (Retroviridae, Lentivirus) |
+|
+
+Virus de l'arthrite encéphalite caprine (Retroviridae, Lentivirus)
+
+|
 
 Caprins |
 
@@ -56,9 +66,13 @@ France |
 
 |
 
-Brucellose porcine |
+Brucellose porcine
 
-Brucella suis sérovar 2 |
+|
+
+Brucella suis sérovar 2
+
+|
 
 Porcins |
 
@@ -66,9 +80,13 @@ France |
 
 Préfet |
 
-Chlamydophilose aviaire ou ornithose-psittacose |
+Chlamydophilose aviaire ou ornithose-psittacose
 
-Chlamydophila psittaci. |
+|
+
+Chlamydophila psittaci.
+
+|
 
 Volailles et oiseaux captifs |
 
@@ -76,19 +94,29 @@ France |
 
 Préfet |
 
-Frelon asiatique (*) |
+Frelon asiatique (*)
 
-Vespa velutina |
+|
 
-Abeilles domestiques (Apis mellifera) |
+Vespa velutina
+
+|
+
+Abeilles domestiques (Apis mellifera)
+
+|
 
 France |
 
 Préfet |
 
-Hypodermose clinique |
+Hypodermose clinique
 
-Hypoderma bovis ou Hypoderma lineatum |
+|
+
+Hypoderma bovis ou Hypoderma lineatum
+
+|
 
 Bovins |
 
@@ -96,9 +124,13 @@ France |
 
 Préfet |
 
-Leucose bovine enzootique |
+Leucose bovine enzootique
 
-Virus de la leucose bovine enzootique (Retroviridae, Deltaretrovirus) |
+|
+
+Virus de la leucose bovine enzootique (Retroviridae, Deltaretrovirus)
+
+|
 
 Bovins |
 
@@ -106,9 +138,13 @@ France |
 
 Préfet |
 
-Maladie des muqueuses/diarrhée virale bovine |
+Maladie des muqueuses/diarrhée virale bovine
 
-Pestivirus de la maladie des muqueuses (Flaviviridae, pestivirus) |
+|
+
+Pestivirus de la maladie des muqueuses (Flaviviridae, pestivirus)
+
+|
 
 Bovins |
 
@@ -116,19 +152,13 @@ France |
 
 |
 
-Morve |
+Morve
 
-Burkholderia mallei |
+|
 
-Equidés |
+Burkholderia mallei
 
-France |
-
-Préfet |
-
-Métrite contagieuse équine |
-
-Taylorella equigenitalis |
+|
 
 Equidés |
 
@@ -136,9 +166,27 @@ France |
 
 Préfet |
 
-Pullorose-typhose |
+Métrite contagieuse équine
 
-Salmonella Gallinarum Pullorum |
+|
+
+Taylorella equigenitalis
+
+|
+
+Equidés |
+
+France |
+
+Préfet |
+
+Pullorose-typhose
+
+|
+
+Salmonella Gallinarum Pullorum
+
+|
 
 Volailles |
 
@@ -146,9 +194,13 @@ France |
 
 Préfet |
 
-Rhinotrachéite infectieuse bovine |
+Rhinotrachéite infectieuse bovine
 
-Herpes-virus bovin BoHV-1 |
+|
+
+Herpes-virus bovin BoHV-1
+
+|
 
 Bovins |
 
@@ -156,39 +208,61 @@ France |
 
 |
 
-Trichinellose |
+Trichinellose
 
-Trichinella spp. |
+|
 
-Toute espèce animale sensible |
+Trichinella spp.
 
-France |
+|
 
-Préfet |
+Toute espèce animale sensible
 
-Tularémie |
-
-Francisella tularensis |
-
-Lièvre et autres espèces réceptives |
+|
 
 France |
 
 Préfet |
 
-Varroose (*) |
+Tularémie
 
-Varroa destructor |
+|
 
-Abeilles domestiques (Apis mellifera) |
+Francisella tularensis
+
+|
+
+Lièvre et autres espèces réceptives
+
+|
 
 France |
 
 Préfet |
 
-Visna-Maëdi |
+Varroose (*)
 
-Virus du Visna-Maëdi |
+|
+
+Varroa destructor
+
+|
+
+Abeilles domestiques (Apis mellifera)
+
+|
+
+France |
+
+Préfet |
+
+Visna-Maëdi
+
+|
+
+Virus du Visna-Maëdi
+
+|
 
 Ovins |
 
@@ -196,4 +270,8 @@ France |
 
 |
 
-(*) Dangers sanitaires antérieurement maladies à déclaration obligatoire ou classées en danger sanitaire de deuxième catégorie n'ayant pas encore fait l'objet d'un avis de l'ANSES. |
+(*) Dangers sanitaires antérieurement maladies à déclaration obligatoire ou classées en danger sanitaire de deuxième catégorie n'ayant pas encore fait l'objet d'un avis de l'ANSES.
+
+|
+
+.

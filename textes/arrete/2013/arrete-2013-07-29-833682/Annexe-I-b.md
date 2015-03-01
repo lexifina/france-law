@@ -16,6 +16,10 @@ ESPÈCES VISÉES
 
 |
 
+DATE DE L'INSCRIPTION
+
+|
+
 Diarrhée épidémique porcine
 
 |
@@ -27,3 +31,21 @@ Virus de la diarrhée épidémique porcine
 Suidés domestiques
 
 |
+
+12 mai 2014
+
+|
+
+Salmonellose aviaire
+
+|
+
+Salmonella Kentucky
+
+|
+
+Oiseaux des espèces Gallus gallus et Meleagris gallopavo
+
+|
+
+17 février 2015 |
