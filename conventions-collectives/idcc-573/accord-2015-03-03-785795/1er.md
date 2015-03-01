@@ -1,0 +1,229 @@
+# Article 1er
+
+(En euros.)
+
+Niveau |
+
+Echelon |
+
+Salaire minimal
+
+au 1er février 2013 |
+
+Salaire minimal
+
+au 1er mars 2015 |
+
+I
+
+|
+
+1 |
+
+1 432,00 |
+
+1 460,50 |
+
+2 |
+
+1 440,59 |
+
+1 469,26 |
+
+3 |
+
+1 449,24 |
+
+1 478,08 |
+
+II
+
+|
+
+1 |
+
+1 457,93 |
+
+1 486,95 |
+
+2 |
+
+1 466,68 |
+
+1 495,87 |
+
+3 |
+
+1 475,48 |
+
+1 504,84 |
+
+III
+
+|
+
+1 |
+
+1 484,33 |
+
+1 513,87 |
+
+2 |
+
+1 493,24 |
+
+1 522,96 |
+
+3 |
+
+1 502,20 |
+
+1 532,09 |
+
+IV
+
+|
+
+1 |
+
+1 511,21 |
+
+1 541,29 |
+
+2 |
+
+1 520,28 |
+
+1 550,53 |
+
+3 |
+
+1 529,40 |
+
+1 559,84 |
+
+V
+
+|
+
+1 |
+
+1 535,00 |
+
+1 565,70 |
+
+2 |
+
+1 592,56 |
+
+1 624,41 |
+
+3 |
+
+1 652,28 |
+
+1 685,33 |
+
+VI
+
+|
+
+1 |
+
+1 714,24 |
+
+1 748,53 |
+
+2 |
+
+1 778,53 |
+
+1 814,10 |
+
+3 |
+
+1 845,22 |
+
+1 882,13 |
+
+VII
+
+|
+
+1 |
+
+23 904,00 |
+
+24 382,08 |
+
+2 |
+
+25 099,20 |
+
+25 601,18 |
+
+3 |
+
+26 354,16 |
+
+26 881,24 |
+
+VIII
+
+|
+
+1 |
+
+30 499,67 |
+
+31 109,66 |
+
+2 |
+
+33 549,64 |
+
+34 220,63 |
+
+3 |
+
+36 904,60 |
+
+37 642,69 |
+
+IX
+
+|
+
+1 |
+
+40 595,06 |
+
+41 406,96 |
+
+2 |
+
+44 654,57 |
+
+45 547,66 |
+
+X
+
+|
+
+1 |
+
+51 352,75 |
+
+52 379,81 |
+
+2 |
+
+61 623,30 |
+
+62 855,77 |
+
+Du niveau I, échelon 1, au niveau VI, échelon 3, la grille des minima conventionnels s'apprécie mensuellement pour 151,67 heures.
+
+Du niveau VII, échelon 1, au niveau X, échelon 2, la grille des minima conventionnels s'apprécie au 31 décembre en comparant le montant total des salaires bruts perçus par le salarié pendant l'année avec le minimum conventionnel annuel correspondant à son niveau et échelon.
+
+Ce calcul s'effectue pro rata temporis en cas d'arrivée ou de départ en cours d'année, d'absence(s) non assimilée(s) à du temps de travail au sens du code du travail ou de changement de classification en cours d'année.
