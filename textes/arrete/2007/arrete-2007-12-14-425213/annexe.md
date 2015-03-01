@@ -112,6 +112,34 @@ B
 
 |
 
+Gestionnaire de la politique du voyage |
+
+C
+
+|
+
+1
+
+|
+
+15
+
+|
+
+Chargé de la maintenance immobilière |
+
+C
+
+|
+
+1
+
+|
+
+10
+
+|
+
 Régisseur d'avances et de recettes
 
 |
