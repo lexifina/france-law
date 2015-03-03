@@ -1,0 +1,9 @@
+# Réponse à la question n° 64464
+
+- Question : [64464](64464.md) — Question n° 64464 — satellites; déploiement; perspectives
+
+## Réponse
+
+*JO du 2015-03-03*
+
+Le 22 août 2014, le lancement des deux premiers satellites FOC 1 et 2 de la constellation Galileo par une fusée Soyouz depuis le Centre spatial guyanais (CSG) a connu une défaillance positionnant ces deux satellites sur une orbite non programmée. Cette situation fait malheureusement partie des aléas inhérents à toute activité spatiale et plus particulièrement celle du transport spatial, particulièrement exigeante du fait de la complexité technologique des systèmes de lancement. Au cours de la même période, le lanceur américain Antarès devant transporter une capsule de ravitaillement vers la station spatiale internationale (ISS) a d'ailleurs explosé dix secondes après le décollage.Suite à cette défaillance de Soyouz, dont les causes sont aujourd'hui parfaitement identifiées, la Commission européenne a décidé de repousser au premier trimestre 2015 la date du prochain lancement Galileo initialement prévu en décembre 2014. En effet, les deux satellites Galileo FOC 1 et 2 étant en état de fonctionner malgré leur mauvaise injection en orbite, il conviendra d'attendre la fin de leur recette en orbite, prévue pour mars 2015, pour bénéficier d'un retour d'expérience complet.Un tel report ne devrait pas avoir un impact significatif sur la date de déploiement de l'ensemble de la constellation. Parmi les différents scénarios étudiés, un lancement simultané des 4 prochains satellites FOC en fin de premier semestre 2015 avec une fusée Ariane 5 permettrait, par exemple, de rattraper une partie du retard.En conclusion et en toute hypothèse, cet échec ne devrait pas remettre en cause ni l'avenir du programme Galileo ni l'avenir de Soyouz au CSG.
