@@ -1,0 +1,9 @@
+# Réponse à la question n° 72370
+
+- Question : [72370](72370.md) — Question n° 72370 — interconnexion internationale; perspectives
+
+## Réponse
+
+*JO du 2015-03-03*
+
+Les réseaux de transport et de distribution d'électricité ont été construits pour une production centralisée autour de grandes centrales réparties sur tout le territoire. La transition énergétique vers un modèle de production à partir de sources renouvelables implique d'adapter ce réseau aux nouveaux flux électriques français et européens. L'intermittence des productions éoliennes ou photovoltaïques peut être compensée par plus de solidarité entre les territoires et les pays européens. Inversement, la France peut bénéficier des fortes productions renouvelables allemandes, britanniques, ou espagnoles, qui se substituent à des productions carbonées. La ministre de l'écologie, du développement durable et de l'énergie inaugurera le 20 février 2015, la nouvelle interconnexion entre la France et l'Espagne qui permettra de doubler nos capacités d'échange avec celle-ci. Un projet entre la Savoie et le Piémont ont fait l'objet d'une déclaration d'utilité publique en 2012. Le gestionnaire du réseau de transport d'électricité a par ailleurs engagé de nombreux autres projets d'interconnexion avec nos voisins : trois avec la Grande Bretagne, un avec l'Irlande, un autre avec l'Espagne, et ces projets sont qualifiés de projets d'intérêt commun au sens européen. Ils bénéficient donc de procédures simplifiées afin que les délais d'adaptation du réseau soient compatibles avec ceux de la transition énergétique. Le Gouvernement a engagé un vaste effort de simplification des normes qui bénéficiera aux réseaux électriques et se fera dans le respect des ambitions environnementales de la France et des nécessaires concertations locales, notamment avec les élus.
