@@ -1,0 +1,9 @@
+# Réponse à la question n° 65144
+
+- Question : [65144](65144.md) — Question n° 65144 — profession de foi; principe d'égalité; mise en oeuvre
+
+## Réponse
+
+*JO du 2015-03-03*
+
+Rien en l'état actuel du droit n'impose des modalités particulières dans l'ordonnancement des professions de foi dans les plis de propagande. Ainsi, aux termes de l'article R. 38 du code électoral, le recours au concours de la commission de propagande pour l'envoi aux électeurs des circulaires et des bulletins de vote constitue une faculté pour les candidats, listes ou binômes de candidats. De plus, en application de l'article précité, la commission de propagande « n'assure pas l'envoi des circulaires qui ne sont pas conformes aux articles R. 27 et R. 29 ». Dans sa précédente rédaction, l'article R. 29 prévoyait que les circulaires des candidats adressées par les commissions de propagande ne pouvaient dépasser le format de 210 x 297 mm qui constituait un format maximal mais non impératif. Afin d'uniformiser la taille des modèles de circulaires de chaque candidat, l'article R. 29 a été modifié par le décret n° 2006-1244 du 11 octobre 2006 portant mesures de simplification en matière électorale. Il dispose désormais que « chaque candidat, binôme de candidats ou liste de candidats ne peut faire adresser à chaque électeur, par la commission de propagande, qu'une seule circulaire d'un grammage compris entre 60 et 80 grammes au mètre carré et d'un format de 210 mm x 297 mm ». Le format des circulaires reçus par les électeurs ne diffère donc plus d'un candidat à l'autre. Toutefois, aucune disposition du code électoral n'impose que soit respecté un ordre spécifique de présentation des documents électoraux tels que les circulaires lors de leur envoi aux électeurs (décision AN n° 93-1185/1256/1261 du Conseil constitutionnel en date du 20 octobre 1993). Il n'est pas envisagé de faire évoluer ce cadre juridique.
