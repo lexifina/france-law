@@ -1,0 +1,9 @@
+# Réponse à la question n° 5365
+
+- Question : [5365](5365.md) — Question n° 5365 — licenciement pour faute; contentieux; assurance défense-recours; champ d'application
+
+## Réponse
+
+*JO du 2015-03-03*
+
+L'assurance multirisques habitation couvre les sinistres sur les biens immobiliers, les biens mobiliers et les objets de valeurs. Elle couvre, au titre de la responsabilité civile, la réparation des dommages corporels et matériels causés par le propriétaire du bien, son conjoint, ses enfants, ceux dont il a la garde et ceux qui sont à son service, par exemple une personne employée pour l'accueil de l'enfant au domicile de ses parents. Cette garantie protection juridique ne s'applique donc pas dans le cas de l'emploi d'un assistant maternel qui travaille à son propre domicile. Il appartient à un employeur qui souhaite se prémunir des risques contentieux liés notamment au licenciement de son assistant maternel qui travaille à son propre domicile, de contacter leur assureur afin de souscrire un contrat spécifique de protection juridique. La garantie « protection juridique » permet à un assuré d'être représenté et défendu par son assurance dans une procédure de justice qui l'oppose à un tiers (article L127-1 du code des assurances). L'assurance défend et représente l'assuré devant la justice dans 2 types de situation : soit l'assuré demande réparation auprès d'un tiers pour un préjudice qu'il estime avoir subi, soit il doit se défendre car un tiers estime avoir subi un dommage dont il est responsable. La plupart des contrats de garantie de protection juridique assure l'assuré et sa famille (conjoint, enfants et éventuellement les personnes qui vivent habituellement avec la famille). Certains syndicats et organismes représentant les intérêts des particuliers employeurs peuvent proposer à leurs adhérents ce type de garantie.
