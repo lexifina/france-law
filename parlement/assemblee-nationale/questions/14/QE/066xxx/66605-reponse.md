@@ -1,0 +1,9 @@
+# Réponse à la question n° 66605
+
+- Question : [66605](66605.md) — Question n° 66605 — libertés fondamentales; rapport; propositions
+
+## Réponse
+
+*JO du 2015-03-03*
+
+L'étude publiée par le Conseil d'Etat en septembre 2014 et intitulée « Le numérique et les droits fondamentaux » fournit une revue panoramique très riche des nombreux sujets ayant trait au numérique et aux libertés fondamentales (big data, santé numérique, open data, puissance des algorithmes, etc.). L'étude s'intéresse en particulier à la question des données personnelles. La grande majorité des propositions émises par le Conseil d'Etat appellent un accueil favorable et certaines d'entre elles sont d'ailleurs déjà en cours de mise en oeuvre. S'agissant de la proposition n° 1, le Conseil d'Etat écarte une approche patrimoniale et un droit de propriété sur les données personnelles. Il préconise plutôt d'inscrire dans les textes un « droit à l'autodétermination informationnelle », qui est défini comme le droit de l'individu à décider de la communication et de l'utilisation de ses données à caractère personnel. Ce droit à l'autodétermination informationnelle serait introduit soit dans le projet de règlement européen en cours de discussion, soit dans la loi « Informatiques et Libertés ». L'avis du gouvernement est convergent avec celui du Conseil d'Etat. Pour ce qui est du « droit à l'autodétermination informationnelle » préconisé par le Conseil d'Etat, il convient d'évaluer au préalable la portée qu'aurait ce nouveau droit par rapport aux droits existants ou en cours de négociation au niveau européen tout en examinant une approche favorable à cette proposition. Afin de préciser les éventuelles évolutions à apporter sur ce point, le gouvernement a lancé, le 4 octobre dernier, une concertation, qui reprend une grande partie des propositions du Conseil d'Etat.
