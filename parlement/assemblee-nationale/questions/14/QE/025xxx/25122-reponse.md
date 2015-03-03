@@ -1,0 +1,9 @@
+# Réponse à la question n° 25122
+
+- Question : [25122](25122.md) — Question n° 25122 — biologie médicale; réforme; perspectives
+
+## Réponse
+
+*JO du 2015-03-03*
+
+L'ordonnance n° 2010-49 du 13 janvier 2010 ratifiée par la loi du 30 mai 2013 relative à la biologie médicale a induit une réforme importante de la législation et de l'organisation des laboratoires de biologie médicale. La possibilité pour les laboratoires de biologie médicale de s'organiser en structures multi sites est une nouveauté de cette loi. Les laboratoires multi sites fournissent une offre d'examens de biologie médicale plus diversifiée ; le maintien des différents sites sur le territoire permet de répondre aux besoins de la population. Beaucoup de laboratoires mono sites ont fusionné entre eux, concrétisant ainsi des collaborations antérieures, mais le nombre de sites global de laboratoire n'a pas évolué depuis 2010. Par ailleurs, l'obligation d'accréditation est une étape indispensable pour les laboratoires de biologie médicale français : facteur de qualité des pratiques, moteur pour une traçabilité sans faille et une qualité prouvée, moyen d'assurer la compétitivité des laboratoires français vis-à-vis des homologues européens, elle représente, certes, un investissement des professionnels du secteur, mais concourt à une amélioration des pratiques en biologie médicale. Tous les laboratoires de biologie médicale ont obtenu, comme le prévoyait la loi, leur preuve d'entrée dans la démarche d'accréditation au 31 octobre 2013. Afin de s'assurer que le Cofrac, l'institution nationale en charge de l'accréditation, adopte des règles de fonctionnement conformes au domaine de la santé, des représentants du ministère chargé de la santé et des agences régionales de santé sont membres de ces instances relatives à la « santé humaine », afin de permettre que toutes les exigences d'accréditation imposées aux laboratoires de biologie médicale le soient dans l'intérêt des patients.
