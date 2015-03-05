@@ -1,0 +1,9 @@
+# Réponse à la question SEQ141013499
+
+- Question : [SEQ141013499](seq141013499.md) — Mesures prises pour endiguer la propagation du virus Ebola
+
+## Réponse
+
+*Affaires sociales, santé et droits des femmes, JO du 2015-03-05, page 488*
+
+Le Gouvernement a pris d'emblée des mesures pour protéger nos concitoyens et pour empêcher l'introduction du virus Ebola sur le territoire national, compte tenu des liaisons aériennes entre la France et les pays touchés. Les voyages vers les pays touchés sont vivement déconseillés et l'information des voyageurs au départ a été renforcée par la remise de documents à l'embarquement. Pour les voyageurs revenant des pays touchés, la France a renforcé le dispositif de contrôle des passagers mis en place par les gouvernements concernés dans les aéroports de Conakry et de Bamako et a mis en place des contrôles à l'arrivée de tous les vols directs dans les aéroports de Roissy « Charles de Gaulle » et Orly. Ces contrôles consistent en une vérification de la température, associée à la mise en place d'une traçabilité des voyageurs et à la remise d'un document d'information sur les conduites à tenir en cas d'apparition de symptômes. Un contrôle similaire est également mis en place pour les navires ayant fait escale dans l'un des pays touchés dans une période 21 jours précédant l'arrivée sur le territoire national. Enfin, les principaux ports et aéroports français sont spécifiquement préparés à la prise en charge d'un patient susceptible d'être porteur du virus. Un dispositif de mise à l'isolement au sein d'un établissement de santé spécialement habilité sera immédiatement activé, ainsi qu'une surveillance médicale des personnes en contact. Un site internet dédié a été mis en place pour informer le public sur les mesures que le Gouvernement prend pour gérer cette épidémie en toute responsabilité : http ://ebola. sante. gouv. fr/.
