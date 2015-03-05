@@ -194,7 +194,7 @@ Dijon
 
 |
 
-Centre hospitalier de Pontarlier
+Centre hospitalier intercommunal de Haute-Comté-Pontarlier
 
 |
 
