@@ -1,0 +1,13 @@
+# Réponse à la question SEQ15030472G
+
+- Question : [SEQ15030472G](seq15030472g.md) — Pollution dans la vallée de Chamonix
+
+## Réponse
+
+*Transports, mer et pêche, JO du 2015-03-06, page 2342*
+
+M. Alain Vidalies, secrétaire d'État auprès de la ministre de l'écologie, du développement durable et de l'énergie, chargé des transports, de la mer et de la pêche. Monsieur le sénateur, la vallée de l'Arve subit, en effet, des concentrations importantes de pollution atmosphérique. C'est la zone de la région Rhône-Alpes qui a connu le plus de jours d'activation du dispositif préfectoral d'alerte pollution ces dernières années. Vous l'avez rappelé, un plan de protection de l'air a été approuvé en février 2012. L'effort porte sur les trois principaux émetteurs de particules fines, à savoir le secteur résidentiel, celui des transports et le secteur industriel, à hauteur respectivement de 61 %, de 23 % et de 12 %.
+
+Des mesures ont déjà été mises en œuvre. Un fonds air-bois, financé par l'ADEME, l'Agence de l'environnement et de la maîtrise de l'énergie, et les collectivités locales, permet d'accorder une aide de 1 000 euros aux particuliers pour le remplacement d'un appareil ancien de chauffage au bois : le millième contrat a été signé voilà quelques jours. La vitesse de circulation est réduite en période hivernale. En cas de pics de pollution, le passage des poids lourds les plus polluants est interdit dans les tunnels du Mont-Blanc, la vallée de l'Arve, les vallées de Maurienne et de la Tarentaise, ainsi que dans les zones urbaines des pays de Savoie. Enfin, des valeurs limites ont été fixées pour les émissions de poussières par les installations de combustion, et le brûlage des résidus, des cultures et des déchets verts est interdit.
+
+Par ailleurs, les habitants de la vallée de l'Arve peuvent bénéficier des nouvelles aides à la transition énergétique, à savoir le crédit d'impôt de 30 %, les aides de l'ANAH pour la réalisation des travaux d'amélioration de la performance énergétique, les aides de l'ADEME, les prêts « verts » de la Banque publique d'investissement et les prêts à long terme de la Caisse des dépôts et consignations en vue d'aider les collectivités. Je rappelle, à cet égard, que les projets des territoires de Chamonix et d'Annecy ont été primés au titre de l'appel à projets « territoires à énergie positive pour la croissance verte ». Leurs actions seront financées dans ce cadre, et vous avez eu raison d'évoquer des projets structurants à long terme, dont la réalisation répond à la volonté du Gouvernement d'organiser le report modal, ce qui permettra de remédier à une situation aujourd'hui très préoccupante. (Applaudissements sur certaines travées du groupe socialiste.)
