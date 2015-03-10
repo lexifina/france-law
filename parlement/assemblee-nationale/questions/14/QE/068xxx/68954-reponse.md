@@ -1,0 +1,9 @@
+# Réponse à la question n° 68954
+
+- Question : [68954](68954.md) — Question n° 68954 — Conventions France - Andorre; calendrier
+
+## Réponse
+
+*JO du 2015-03-10*
+
+Le Secrétaire d'Etat indique au Député que quatre projets de loi ratifiant des conventions entre la France et l'Andorre ont été déposés devant le Parlement. Il s'agit du projet de loi autorisant l'approbation de la convention entre le Gouvernement de la République française et le Gouvernement de la Principauté d'Andorre en vue d'éviter les doubles impositions et de prévenir l'évasion et la fraude fiscales en matière d'impôts sur le revenu ; du projet de loi autorisant l'approbation de l'accord entre le Gouvernement de la République française et le Gouvernement de la Principauté d'Andorre relatif à la gestion commune de la ressource en eau dans le bassin hydrographique des sources de l'Ariège ; du projet de loi autorisant l'approbation de l'accord sous forme d'échange de notes verbales entre le Gouvernement de la République française et le Gouvernement de la Principauté d'Andorre relatif à la création d'un bureau à contrôles nationaux juxtaposés à Porta ; et du projet de loi autorisant l'approbation de l'accord entre le Gouvernement de la République française et le Gouvernement de la Principauté d'Andorre portant délimitation de la frontière. Ces trois derniers textes ont été examinés par le Sénat à la fin de l'année 2014, puis transmis à l'Assemblée nationale. Quant au premier projet de loi de ratification, déposé à l'Assemblée nationale, il a été examiné par les deux assemblées et, en l'absence d'accord dégagé par la commission mixte paritaire, il fait actuellement l'objet d'une nouvelle lecture parlementaire. Le Gouvernement met donc tout en oeuvre pour que ces textes puissent être adoptés dans de brefs délais par le Parlement.
