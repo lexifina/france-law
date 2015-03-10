@@ -1,0 +1,9 @@
+# Réponse à la question n° 71553
+
+- Question : [71553](71553.md) — Question n° 71553 — CEDH; transparence
+
+## Réponse
+
+*JO du 2015-03-10*
+
+Le budget de la Cour européenne des droits de l'Homme fait partie du budget global du Conseil de l'Europe, soumis à l'approbation du Comité des ministres. Ce budget global repose sur les contributions provenant des 47 Etats membres. Le budget de la Cour couvre le traitement des juges, les salaires des agents et les frais d'exploitation. Une ventilation détaillée du budget est disponible auprès du greffe de la Cour. Ainsi, pour l'année 2014, les dépenses statutaires (y compris les émoluments des juges, des juges ad hoc et l'assistance judiciaire) se sont élevées à 15 % du budget de la Cour, tandis que les dépenses salariales (notamment salaires des agents permanents, en CDD ou temporaires) et les dépenses de frais opérationnels ont respectivement représenté les 80 % et 5 % restants. La rémunération des juges, y compris les primes, qui s'est élevée à 10 179 414 euros pour l'ensemble des 47 juges sur l'année 2014, est fixée par l'article 3 de la résolution (2009)5, modifiée en mars 2013 par la résolution (2013)4, sur le statut et les conditions de service des juges de la Cour européenne des droits de l'Homme et du Commissaire aux droits de l'Homme - résolutions publiques, comme le statut du personnel. Concernant la procédure de sélection du greffier et des greffiers adjoints de la Cour, les avis de vacances (comprenant les salaires) sont publiés sur le site de la Cour. Une présélection des candidatures reçues, dont la liste n'est pas publiée mais qui est connue des services de la Cour, se fait au regard des critères figurant dans les avis de vacance. La sélection finale du greffier et des greffiers adjoints est effectuée par vote des juges. Ces informations figurent sur le site internet de la CEDH.
