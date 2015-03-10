@@ -1,0 +1,9 @@
+# Réponse à la question n° 68066
+
+- Question : [68066](68066.md) — Question n° 68066 — Cour des comptes; rapport; recommandations
+
+## Réponse
+
+*JO du 2015-03-10*
+
+Le Gouvernement partage les principaux constats du rapport particulier de la Cour des comptes relatif aux coûts liés à l'intermédiation de l'Agence spatiale européenne (ASE) en matière de transport spatial. Le Gouvernement fait siennes les trois recommandations de la Cour des comptes, en gardant toutefois à l'esprit que les décisions du conseil ministériel de l'ASE de décembre 2014 devront être considérées dans leur globalité. Comme toute organisation internationale, l'ASE prend des décisions qui reflètent les intérêts respectifs de ses états membres. Cela a été le cas à Barcelone pour la France, la question du régime d'exemption des frais généraux devant être considéré dans un ensemble de décisions plus larges. Il convient en outre de relativiser (sur les finances publiques françaises), l'effet de l'application de cette exemption au programme LEAP Ariane - EGAS : sur les 13 millions d'euros de coûts d'intermédiation sur deux ans affichés dans le rapport, la France devrait en prendre à sa charge 57 % environ. Ceci sera partiellement compensé par le fait qu'il ne s'agit pas d'une dépense nouvelle mais d'un simple changement de clé de répartition des frais globaux d'intermédiation de l'ASE. Ainsi, pour la France, le prix réel d'une intermédiation de l'ASE conforme au Conseil de Barcelone sur ce programme aura été de 0,57 x 13 / 2 = 3,7 M€ environ, soit 1,8 M€ par an en 2013-2014. Dans ces conditions, l'externalisation de l'intermédiation évoquée par la Cour des comptes, qui aurait elle-même un coût et présenterait d'autres inconvénients, n'apparaît pas nécessairement comme la meilleure solution. Enfin, la délégation française à l'ASE a systématiquement plaidé pour une maîtrise des coûts de l'agence, y compris ceux de sa masse salariale. Elle continuera à le faire.
