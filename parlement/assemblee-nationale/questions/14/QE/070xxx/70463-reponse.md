@@ -1,0 +1,9 @@
+# Réponse à la question n° 70463
+
+- Question : [70463](70463.md) — Question n° 70463 — insertion par l'activité économique; fonds social européen; éligibilité
+
+## Réponse
+
+*JO du 2015-03-10*
+
+Les difficultés de gestion rencontrées dans les cofinancements du fonds social européen (FSE) de l'aide au poste dans les entreprises d'insertion ont effectivement conduit à renoncer à la mobilisation des crédits communautaires. En revanche, les autres structures d'insertion par l'activité économique continueront à bénéficier du FSE sur la période 2014-2020 dans le cadre de la mise en oeuvre de la réforme du financement du secteur. En effet, suite à la généralisation de l'aide au poste à toutes les structures de l'insertion par l'activité économique (IAE), la prise en compte de cette aide comme contrepartie du FSE nécessite de travailler selon le schéma dit du « périmètre global », tel que présenté dans une note de la délégation générale à l'Emploi et à la Formation professionnelle le 26 juin 2014. Ce schéma implique que le cofinancement FSE soit assis sur la totalité des dépenses et des ressources des structures. Cependant pour l'année 2014, à titre transitoire, il est proposé un schéma dérogatoire de financement en périmètre restreint avec en dépenses éligibles les salaires des encadrants techniques et/ou socio-professionnels. Cette modalité maintenue pour 2014 permet d'assurer une continuité dans la gestion des dossiers FSE mobilisés notamment par certains conseils généraux. Les structures d'insertion par l'activité économique (SIAE) pourront donc disposer en 2014 soit d'un cofinancement FSE en périmètre restreint tel qu'énoncé ci-dessus ou d'un cofinancement en périmètre global. Un document « questions-réponses » IAE-FSE a été communiqué le 21/11/2014 et présente ces deux modalités de financement.
