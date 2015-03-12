@@ -1,0 +1,9 @@
+# Réponse à la question SEQ150114518
+
+- Question : [SEQ150114518](seq150114518.md) — Lycée français du Musée à Beyrouth
+
+## Réponse
+
+*Affaires étrangères, JO du 2015-03-12, page 548*
+
+Le patriarche syriaque catholique d'Antioche a été informé du non-renouvellement du contrat de bail du lycée du Musée, à Beyrouth, qui prendra fin le 31 décembre 2015. Cette décision se fonde à la fois sur la politique de rationalisation du patrimoine immobilier français à l'étranger et sur le fait que l'enseignement dispensé par le lycée du Musée n'a pas cherché à se rapprocher des critères de l'homologation française, malgré les encouragements en ce sens de l'ambassade de France au Liban. Enfin, le patriarcat est lui-même propriétaire de terrains à proximité du musée, qu'il loue à des tarifs sans commune mesure avec la mise à disposition quasi-gratuite du terrain du lycée par la France. Le non-renouvellement de ce contrat de bail ne compromet en rien la relation bilatérale de la France avec le Liban, dont la densité, notamment dans les domaines scolaire et culturel, reste exceptionnelle. Le réseau scolaire français occupe au Liban une place importante, quantitativement, avec environ 54 000 élèves, et qualitativement, en favorisant la diffusion de l'éducation française et de ses valeurs, et en promouvant la francophonie au Liban. La France entend la consolider afin de maintenir l'influence de la culture et de la langue françaises dans ce pays. Les chrétiens du Liban sont à ce titre des partenaires privilégiés. Parmi les 40 établissements privés homologués que compte le réseau français, une quinzaine sont gérés par des congrégations dépendant de l'enseignement catholique libanais. La consolidation du réseau scolaire français dans son ensemble constitue un objectif prioritaire des services français de coopération.
