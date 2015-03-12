@@ -10,23 +10,25 @@ UNITÉS PROFESSIONNELLES
 
 La définition du contenu des unités professionnelles du diplôme a pour but de préciser, pour chacune d'elles, quelles tâches et compétences professionnelles sont concernées et dans quel contexte. Il s'agit à la fois :
 
-• de permettre la mise en correspondance des activités professionnelles et des unités dans le cadre du dispositif de "validation des acquis de l'expérience" (VAE).
+• de permettre la mise en correspondance des activités professionnelles et des unités dans le cadre du dispositif de " validation des acquis de l'expérience " (VAE).
 
 • d'établir la liaison entre les unités, correspondant aux épreuves, et le référentiel d'activités professionnelles afin de préciser le cadre de l'évaluation.
 
-UNITÉ 11 (ÉPREUVE E1 - SOUS-EPREUVE E11)
+UNITÉ 11 (ÉPREUVE E1-SOUS-EPREUVE E11)
 
 MATHÉMATIQUES
 
 L'unité de mathématiques englobe l'ensemble des objectifs, capacités, compétences et savoir-faire mentionnés dans l'arrêté du 10 février 2009 fixant les programmes d'enseignement de mathématiques et de sciences physiques et chimiques pour les classes préparatoires au baccalauréat professionnel (BOEN spécial n° 2 du 19 février 2009).
 
-La sous - épreuve mathématiques est constitué des éléments définis pour B du programme de mathématiques établi par l'arrêté du 10 février 2009.
+La sous-épreuve mathématiques est constitué des éléments définis pour B du programme de mathématiques établi par l'arrêté du 10 février 2009.
 
-UNITÉ 12 (ÉPREUVE E1 - SOUS EPREUVE E12)
+UNITÉ 12 (ÉPREUVE E1-SOUS EPREUVE E12)
 
 sciences physiques et chimiques
 
-L'unité est définie au regard des capacités et compétences mentionnées dans l'arrêté du 10 février 2009 fixant les programmes d'enseignement de mathématiques et de sciences physiques et chimiques pour les classes préparatoires au baccalauréat professionnel (BOEN spécial n° 2 du 19 février 2009). La sous épreuve sciences physiques et chimiques comprend les unités spécifiques suivantes du programme de sciences physiques et chimiques établi par l'arrêté du 10 février 2009 précité.
+L'unité est définie au regard des capacités et compétences mentionnées dans l'arrêté du 10 février 2009 fixant les programmes d'enseignement de mathématiques et de sciences physiques et chimiques pour les classes préparatoires au baccalauréat professionnel.
+
+La spécialité " pilote de ligne de production " du baccalauréat professionnel est rattachée au groupement 5, comprenant les modules spécifiques T 6, T 7 et CME 7, défini en annexe de l'arrêté du 13 avril 2012 relatif aux modules spécifiques du programme d'enseignement de sciences physiques et chimiques pour les classes préparatoires au baccalauréat professionnel.
 
 UNITÉ U2 (ÉPREUVE E2), UNITÉS U31, U32, U33 (ÉPREUVE E3)
 
@@ -322,15 +324,15 @@ X
 
 UNITÉ U34 (ÉPREUVE E3)
 
-ÉCONOMIE - GESTION
+ÉCONOMIE-GESTION
 
-Le contenu de cette unité est défini dans l'arrêté du 10 février 2009 fixant le programme d'enseignement d'économie - gestion pour les classes préparatoires au baccalauréat professionnel (BOEN spécial n° 2 du 19 février 2009).
+Le contenu de cette unité est défini dans l'arrêté du 10 février 2009 fixant le programme d'enseignement d'économie-gestion pour les classes préparatoires au baccalauréat professionnel (BOEN spécial n° 2 du 19 février 2009).
 
 UNITÉ U35 (ÉPREUVE E3)
 
-PRÉVENTION - SANTÉ - ENVIRONNEMENT
+PRÉVENTION-SANTÉ-ENVIRONNEMENT
 
-L'unité englobe l'ensemble des connaissances et capacités mentionnées dans l'arrêté du 10 février 2009 fixant le programme d'enseignement de Prévention - santé - environnement pour les classes préparatoires au baccalauréat professionnel (BOEN spécial n° 2 du 19 février 2009).
+L'unité englobe l'ensemble des connaissances et capacités mentionnées dans l'arrêté du 10 février 2009 fixant le programme d'enseignement de Prévention-santé-environnement pour les classes préparatoires au baccalauréat professionnel (BOEN spécial n° 2 du 19 février 2009).
 
 UNITÉ U4 (ÉPREUVE E4)
 
@@ -367,3 +369,7 @@ UNITÉ UF1 (ÉPREUVE FACULTATIVE)
 LANGUE VIVANTE
 
 L'épreuve a pour but de vérifier la capacité du candidat à comprendre une langue vivante parlée et la capacité de s'exprimer de manière intelligible pour un interlocuteur n'exigeant pas de particularités linguistiques excessives sur un sujet d'intérêt général.
+
+NOTA :
+
+Arrêté du 7 janvier 2015 article 2 : les présentes dispositions entrent en vigueur à compter de la session d'examen 2015.
