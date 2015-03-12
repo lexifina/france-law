@@ -1,0 +1,9 @@
+# Réponse à la question SEQ140712342
+
+- Question : [SEQ140712342](seq140712342.md) — Conséquences de la mesure relative au régime du fonds de compensation de la taxe sur la valeur ajoutée sur les centres intercommunaux d'action sociale
+
+## Réponse
+
+*Budget, JO du 2015-03-12, page 553*
+
+L'article L. 1615-6 du code général des collectivités territoriales (CGCT) pose le principe selon lequel les dépenses réelles d'investissement prises en considération pour l'attribution du FCTVA au titre d'une année déterminée sont celles afférentes à la pénultième année. Il résulte de ces dispositions que les attributions du FCTVA sont versées au cours de la deuxième année suivant l'année de réalisation des dépenses éligibles. Cette règle connaît toutefois deux principales dérogations qui permettent de réduire les délais de versement de la dotation. En effet, les communautés d'agglomération, les communautés de communes et les communes nouvelles bénéficient des attributions du FCTVA au cours de l'année de réalisation de leurs dépenses éligibles. En outre, les bénéficiaires du fonds qui, dans le cadre du plan de relance de l'économie, ont accru leur effort d'investissement, perçoivent, à titre pérenne, la dotation au cours de l'année suivant la réalisation de leurs dépenses éligibles. Les centres intercommunaux d'action sociale, qui constituent des établissements publics administratifs distincts de leur groupement de rattachement, voient leurs attributions de FCTVA liquidées sur la base des dépenses N-2 sauf s'ils bénéficient du régime anticipé dans le cadre du plan de relance de l'économie. Le bénéfice d'un régime anticipé de versement du fonds ne peut en aucun cas être lié à un mode de construction ou de gestion particulier d'un équipement public. Le FCTVA constitue en effet une dotation d'investissement qui finance globalement la section d'investissement de l'entité bénéficiaire et qui n'est pas affectée à une opération déterminée.
