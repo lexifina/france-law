@@ -1,0 +1,9 @@
+# Réponse à la question n° 57652
+
+- Question : [57652](57652.md) — Question n° 57652 — alcoolisme; drogue; rapport sexuel non protégé; lutte et prévention
+
+## Réponse
+
+*JO du 2015-03-17*
+
+La ministre des affaires sociales, de la santé et des droits des femmes rappelle que l'alcool est la deuxième cause de mortalité évitable en France. Alors qu'une baisse régulière de la quantité moyenne d'alcool consommée est constatée depuis de nombreuses années, les usages à risque et les ivresses sont en hausse, notamment chez les jeunes : à dix-sept ans, un jeune sur trois déclare avoir été ivre au moins trois fois dans l'année. Le phénomène connu sous le nom anglais de « binge drinking » consistant en des séances d'alcoolisation massive se développe ainsi chez les mineurs et les jeunes majeurs. Le projet de loi relatif à la santé, présenté par la Ministre des affaires sociales, de la santé et des droits femmes, en conseil des ministres le 15 octobre 2014, vise à renforcer les moyens de lutter contre les nouvelles pratiques de la jeunesse en matière d'alcoolisation massive. Ainsi, l'article 4 du projet de loi poursuit trois objectifs principaux. Le premier est de mieux réprimer l'incitation à l'ivresse dont de jeunes majeurs ou des mineurs sont susceptibles d'être l'objet lors de séances de bizutage. Le deuxième objectif, alors que la provocation à la consommation excessive d'alcool n'est pour l'instant réprimée que lorsque cette consommation est également habituelle et qu'elle concerne les mineurs, est de créer une infraction générale sur la provocation à la consommation excessive d'alcool, concernant à la fois les majeurs et les mineurs, avec une majoration de peine pour les mineurs. Le dernier objectif est de combattre l'image festive et conviviale de l'ivresse diffusée par de nombreux jeux ou objets (t-shirts, accessoires) qui font, directement ou indirectement, la promotion de la consommation excessive d'alcool.
