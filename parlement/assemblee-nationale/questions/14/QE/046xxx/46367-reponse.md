@@ -1,0 +1,9 @@
+# Réponse à la question n° 46367
+
+- Question : [46367](46367.md) — Question n° 46367 — domaine public; cession de droits; réglementation
+
+## Réponse
+
+*JO du 2015-03-17*
+
+Lancé le 1er février 2011, le Google Art Project consiste en la création d'un site Internet qui permet aux internautes du monde entier de se promener virtuellement dans plusieurs grands musées internationaux et de découvrir plus d'un millier d'oeuvres d'art dans leurs moindres détails. Pour la mise en oeuvre de ce site Internet, la société Google a signé des partenariats avec dix sept musées internationaux, dont le Château de Versailles, le MoMA de New York, la Tate Britain et la National Gallery de Londres, la Galerie des Offices de Florence, le Rijksmuseum et le Van Gogh Museum d'Amsterdam et le Musée de l'Ermitage de Saint-Pétersbourg. Quatre établissements (établissement public du musée et du domaine national de Versailles, établissement public du musée d'Orsay et du musée de l'Orangerie, établissement public du musée du Quai Branly, établissement public du château de Fontainebleau) représentant six musées nationaux (musée des châteaux de Versailles et de Trianon, salle du Jeu de Paume à Versailles, musée des carrosses, musée de l'Orangerie des Tuileries, musée du château de Fontainebleau, musée d'Orsay) ont aujourd'hui signé des contrats relevant du Google Art Project. Deux principes importants ont guidé l'établissement de ces contrats : - le caractère non commercial du projet (absence de publicité sur le site notamment) ; - l'encadrement des droits, qui sont cédés uniquement pour le Google Art Project, à l'exclusion de tout autre usage par Google. Dans le cadre des contrats signés, le droit d'usage par Google des objets photographiés dans le cadre du projet est concédé à titre non exclusif et gratuit pour la durée du contrat (10 ans) et pour le monde entier.
