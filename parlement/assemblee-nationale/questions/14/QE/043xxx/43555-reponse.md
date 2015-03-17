@@ -1,0 +1,9 @@
+# Réponse à la question n° 43555
+
+- Question : [43555](43555.md) — Question n° 43555 — zones économiques exclusives; extension; perspectives
+
+## Réponse
+
+*JO du 2015-03-17*
+
+Le Gouvernement salue la qualité du travail accompli par le CESE qui a permis de dégager un consensus marqué par une adoption de l'avis à l'unanimité. Le besoin d'un tel document d'analyse portant des préconisations pertinentes ne fait aucun doute. Les préconisations ont été transmises aux différents services de l'Etat intéressés, au premier rang desquels le Secrétariat général de la mer qui assure la coordination du programme EXTRAPLAC, mais aussi le ministère des affaires étrangères, pour analyse et leur donner effet, chaque fois que cela est possible, dans la conduite du programme. Le secrétariat général de la mer a poursuivi son travail de suivi du programme. Lors de sa dernière réunion, le 16 décembre 2014, le comité de pilotage du programme EXTRAPLAC a fait le point sur les dossiers d'extension du plateau continental. Les dossiers qui ont fait l'objet de recommandations de la Commission des limites du plateau continental vont voir leurs coordonnées publiées et communiquées au secrétariat des Nations Unies à New York. Ainsi, ces dossiers seront clos et les limites deviendront définitives, opposables aux tiers. Les dossiers concernés sont ceux de la Guyane, de la Nouvelle-Calédonie (nord-ouest), des Antilles, de Kerguelen. Le dossier relatif au Golfe de Gascogne présenté par l'Irlande, le Royaume Uni, l'Espagne et la France ne sera pas traité tant que les négociations ne sont pas achevées entre les quatre États. La France a déposé, depuis le rapport du CESE, les demandes pour Wallis et Futuna et, plus récemment (avril 2014), pour Saint-Pierre et Miquelon. Le dossier concernant la Polynésie française est en cours d'élaboration, une campagne pour acquérir des données scientifiques récentes est programmée au mois d'avril 2015.
