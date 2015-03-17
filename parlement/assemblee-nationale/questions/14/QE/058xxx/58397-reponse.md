@@ -1,0 +1,9 @@
+# Réponse à la question n° 58397
+
+- Question : [58397](58397.md) — Question n° 58397 — gestion
+
+## Réponse
+
+*JO du 2015-03-17*
+
+Le ministère de l'écologie, du développement durable et de l'énergie (MEDDE), est très attaché à l'amplification du recyclage et de la valorisation des déchets. Il s'agit en effet d'une thématique à fort enjeu, essentielle pour la transition vers un modèle de société fondée sur le développement durable. Les progrès sur la gestion des déchets apportent en effet des bénéfices à la fois environnementaux, économiques et sociaux. Cette thématique fait ainsi l'objet d'un fort consensus politique de la part de l'ensemble des acteurs, et est en plein essor, avec de nombreux chantiers en cours et des défis à relever dans les années à venir. Les entreprises du bâtiment et des travaux publics (BTP), ont l'obligation de respecter la hiérarchie des modes de traitement définie à l'article L. 541-1 du code de l'environnement. Cette obligation entraîne que les déchets doivent nécessairement être triés pour respecter cette hiérarchie, car le recyclage et la valorisation doivent être privilégiés par rapport à l'élimination. De plus, le décret n° 2011-610 du 31 mai 2011 oblige les maîtres d'ouvrages à réaliser un diagnostic portant sur les déchets issus des travaux de démolition, pour les bâtiments ayant une surface de plancher supérieure à 1 000 m² ou ayant hébergé une ou plusieurs substances dangereuses. Ce diagnostic déchet a pour but d'inciter les maîtres d'ouvrages à trier les déchets et à les orienter vers des voies de valorisation. Enfin, le plan de réduction et de valorisation des déchets 2014-2020 prévoit la mise en place, pour les opérations de déconstruction ou de réhabilitation, d'un plan de gestion des déchets avant le démarrage du chantier et d'un bilan de la gestion des déchets à la fin du chantier.
