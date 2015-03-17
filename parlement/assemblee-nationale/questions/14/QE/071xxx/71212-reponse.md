@@ -1,0 +1,9 @@
+# Réponse à la question n° 71212
+
+- Question : [71212](71212.md) — Question n° 71212 — création de postes; réduction; perspectives
+
+## Réponse
+
+*JO du 2015-03-17*
+
+Concernant l'enseignement technique agricole : le Gouvernement a décidé la création de 140 postes pour le programme 143 « Enseignement technique agricole » à la rentrée scolaire de septembre 2015. L'objectif de création de 1 000 postes supplémentaires pour l'enseignement technique agricole, conformément aux engagements du Président de la République, sera atteint à la fin du quinquennat. Ces 140 postes à la rentrée de septembre 2015 sont répartis à hauteur de 98 pour l'enseignement agricole public, et 42 pour l'enseignement agricole privé. Il s'agit de postes supplémentaires au-delà des remplacements des départs à la retraite et des démissions. Pour cette raison, le nombre de postes ouverts aux concours (toutes catégories confondues) est très supérieur, il est prévu d'ouvrir près de 230 postes pour le seul enseignement agricole public. Concernant l'enseignement supérieur agricole : les crédits de fonctionnement pour l'enseignement supérieur agronomique, vétérinaire et de paysage sont stables, et non en diminution, y compris la dotation de compensation pour le CAS-pension des emplois gagés. La différence en crédits de fonctionnement qui apparaît dans le projet annuel de performance (PAP) 2015 s'explique par le décompte des crédits d'investissement CPER dans la catégorie « dépenses d'opérations financières » alors qu'ils étaient jusqu'alors comptés dans la catégorie « dépenses de fonctionnement . » Il faut d'ailleurs noter que ces crédits d'investissement CPER sont en très forte augmentation (8 millions d'euros en PLF 2015 à comparer à 2,8 millions d'euros de CP en LFI 2014). L'État consent donc un effort exceptionnel pour les établissements d'enseignement supérieurs agricoles.
