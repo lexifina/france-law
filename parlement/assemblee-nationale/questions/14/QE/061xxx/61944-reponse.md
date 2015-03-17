@@ -1,0 +1,9 @@
+# Réponse à la question n° 61944
+
+- Question : [61944](61944.md) — Question n° 61944 — investissements immobiliers locatifs; zonage
+
+## Réponse
+
+*JO du 2015-03-17*
+
+Une révision du zonage dit « A/B/C » a été lancée en 2013 afin de tenir compte des évolutions de dynamique territoriale pouvant être constatées depuis la précédente révision de ce zonage en 2009. Le Gouvernement s'est en outre fixé comme objectif de concentrer les aides de l'État sur les zones les plus tendues nationalement, dans un souci d'efficience et d'optimisation de la dépense publique. Ce processus de révision a été mené selon une méthodologie et des critères harmonisés pour l'ensemble du territoire national. Ont également été analysées les propositions d'adaptation résultant des consultations menées par les préfets de région, afin de tenir compte des spécificités et des politiques de l'habitat locales. Enfin, il a été décidé de ne procéder à aucun déclassement de communes en zone C par rapport au zonage alors en vigueur pour ne pas pénaliser la construction de logements. L'arrêté pris en application de l'article R. 304-1 du code de la construction et de l'habitation, et révisant le zonage A/B/C, a été publié au Journal officiel le 6 août 2014, et son arrêté modificatif le 14 octobre 2014. Il en précise les dates d'application aux différents dispositifs adossés à ce zonage. En particulier, et afin de relancer rapidement la dynamique de construction de logement, ce nouveau zonage s'applique depuis le 1er octobre 2014 pour les émissions d'offres de prêts PTZ ainsi que pour les logements acquis en investissement locatif situés dans les communes ayant fait l'objet d'un reclassement. Globalement, au niveau national, le zonage adopté suite à cette révision est positif pour les communes, avec 670 déclassements (environ 700 000 habitants concernés) et 1 182 reclassements (plus de 10 millions d'habitants concernés).
