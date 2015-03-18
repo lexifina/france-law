@@ -1,0 +1,78 @@
+# Police et sécurité : renseignement
+
+- Procédure : Projet de loi ordinaire
+- Législature : 14
+- Identifiant : DLR5L14N33839
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/renseignement
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl14-424.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2015-03-19 : 1er dépôt d'une initiative. (PRJLANR5L14B2669)
+  - 2015-03-19 : Etude d'impact (ETDIANR5L14B2669)
+  - 2015-03-19 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2015-03-19 : Renvoi en commission au fond
+      - 2015-03-18 : Nomination de rapporteur
+      - 2015-03-31 : Réunion de commission
+      - 2015-04-01 : Réunion de commission
+      - 2015-04-01 : Réunion de commission
+      - 2015-04-13 : Réunion de commission
+      - 2015-04-02 : Dépôt de rapport (RAPPANR5L14B2697, PRJLANR5L14BTC2697)
+    - Travaux d'une commission saisie pour avis
+      - 2015-03-23 : Saisine pour avis d'une commission
+      - 2015-03-24 : Nomination de rapporteur
+      - 2015-03-24 : Réunion de commission
+      - 2015-03-24 : Réunion de commission
+      - 2015-03-31 : Réunion de commission
+      - 2015-03-31 : Dépôt de rapport (AVISANR5L14B2691)
+  - Discussion en séance publique
+    - 2015-04-13 : Discussion en séance publique
+    - 2015-04-13 : Discussion en séance publique
+    - 2015-04-14 : Discussion en séance publique
+    - 2015-04-14 : Discussion en séance publique
+    - 2015-04-15 : Discussion en séance publique
+    - 2015-04-15 : Discussion en séance publique
+    - 2015-04-16 : Discussion en séance publique
+    - 2015-05-05 : Discussion en séance publique
+    - 2015-05-05 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2015-05-05 : Dépôt d'une initiative en navette (PRJLSNR5S239B0424)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2015-05-05 : Renvoi en commission au fond
+      - 2015-04-07 : Nomination de rapporteur
+      - 2015-05-20 : Dépôt de rapport (RAPPSNR5S239B0460)
+    - Travaux d'une commission saisie pour avis
+      - 2015-04-08 : Saisine pour avis d'une commission
+      - 2015-04-08 : Nomination de rapporteur
+      - 2015-05-13 : Dépôt de rapport (AVISSNR5S239B0445)
+  - Discussion en séance publique
+    - 2015-06-02 : Discussion en séance publique
+    - 2015-06-03 : Discussion en séance publique
+    - 2015-06-04 : Discussion en séance publique
+    - 2015-06-09 : Discussion en séance publique
+    - 2015-06-09 : Décision
+- Commission Mixte Paritaire
+  - 2015-06-10 : Dépôt d'un projet de loi (PRJLANR5L14B2859)
+  - 2015-06-10 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2015-06-16 : Nomination de rapporteur
+    - 2015-06-16 : Dépôt du rapport d'une CMP (RAPPANR5L14B2868)
+    - 2015-06-16 : Dépôt du rapport d'une CMP (RAPPSNR5S239B0520)
+  - Discussion en séance publique
+    - 2015-06-23 : Discussion en séance publique
+    - 2015-06-23 : Décision
+  - Discussion en séance publique
+    - 2015-06-24 : Discussion en séance publique
+    - 2015-06-24 : Décision
+  - 2015-06-17 : Décision de la CMP
+- Conseil constitutionnel
+  - 2015-06-25 : Saisine du conseil constitutionnel
+  - 2015-06-25 : Saisine du conseil constitutionnel
+  - 2015-06-25 : Saisine du conseil constitutionnel
+  - 2015-07-23 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2015-07-24 : Promulgation d'une loi
