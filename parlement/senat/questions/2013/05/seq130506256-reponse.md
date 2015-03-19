@@ -1,0 +1,9 @@
+# Réponse à la question SEQ130506256
+
+- Question : [SEQ130506256](seq130506256.md) — Respect du rythme biologique de l'enfant
+
+## Réponse
+
+*Éducation nationale, enseignement supérieur et recherche, JO du 2015-03-19, page 613*
+
+La réforme des rythmes scolaires, organisée par le décret n° 2013-77 du 24 janvier 2013 relatif à l'organisation du temps scolaire dans les écoles maternelles et élémentaires, vise à respecter davantage les rythmes naturels d'apprentissage et de repos de l'enfant grâce à une meilleure répartition des heures d'enseignement sur la journée et sur la semaine et à une programmation des séquences d'enseignement à des moments où la faculté de concentration des élèves est la plus grande. Plus largement, les nouveaux rythmes scolaires favorisent la mise en place d'un parcours éducatif global avant, pendant et après l'école. Ainsi, les projets éducatifs territoriaux (PEDT), mentionnés à l'article D. 521-12 du code de l'éducation, formalisent-ils une volonté de mieux prendre en compte le temps de l'enfant dans sa globalité. En complément de la pérennisation du fonds de soutien de l'État aux communes, le ministère chargé de l'éducation nationale a engagé avec le ministère de la jeunesse, les associations d'élus locaux, les fédérations de parents d'élèves et les associations partenaires de l'école un travail consistant à créer les conditions d'une généralisation des PEDT sur l'ensemble du territoire. Il est résulté de ce travail partenarial une circulaire transmise aux préfets et aux autorités académiques le 19 décembre 2014 et publiée au bulletin officiel de l'éducation nationale le 1er janvier 2015. Au-delà des temps scolaire et périscolaire de l'enfant, il revient effectivement aux parents de veiller au respect des cycles biologiques à travers notamment la régularité des heures de lever et de coucher.
