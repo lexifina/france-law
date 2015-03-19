@@ -1,0 +1,9 @@
+# Réponse à la question SEQ150114619
+
+- Question : [SEQ150114619](seq150114619.md) — Commission départementale de préservation des espaces naturels, agricoles et forestiers
+
+## Réponse
+
+*Agriculture, agroalimentaire et forêt, JO du 2015-03-19, page 605*
+
+La loi d'avenir pour l'agriculture, l'alimentation et la forêt du 13 octobre 2014 élargit le périmètre et le champ de compétences de la commission départementale de la consommation des espaces agricoles qui devient la commission départementale de préservation des espaces naturels, agricoles et forestiers (modification de l'article L.112-1-1 du code rural et de la pêche maritime). L'élargissement du champ de compétences se traduit notamment par l'ouverture du collège de ses membres à des représentants issus de la profession forestière, des organismes nationaux à vocation agricole et rurale, et des représentants des fédérations départementales ou interdépartementales des chasseurs. Dans les départements comportant des zones de montagne, siégera au moins un élu représentant une commune ou un établissement public de coopération intercommunale situé en tout ou partie dans ces zones. Dans l'hypothèse où le projet ou le document soumis à l'avis de la commission a pour conséquence une réduction de surfaces affectées à des productions sous signe de qualité, le directeur de l'institut national de l'origine et de la qualité participe avec voix délibérative. Les décrets qui permettront la mise en place des commissions départementales de préservation des espaces naturels, agricoles et forestiers sont à un stade de préparation très avancé. Ils permettront de couvrir les différentes situations que sont la France métropolitaine, la Corse et les Outre-mer. Dans le mois qui suivra leur publication, il appartiendra aux préfets de prendre un arrêté de constitution de la commission départementale telle que modifiée.
