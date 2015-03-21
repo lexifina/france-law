@@ -2,15 +2,13 @@
 
 COEFFICIENTS DE MAJORATION APPLICABLES DANS LES DÉPARTEMENTS D'OUTRE-MER
 
-SUR LE PRIX FABRICANT HORS TAXES PRATIQUÉ EN METROPOLE
+SUR LE PRIX FABRICANT HORS TAXES PRATIQUÉ EN MÉTROPOLE
 
 Pour la Martinique :
 
 POUR UN PRIX FABRICANT HT
 
-pratiqué en métropole
-
-compris entre
+pratiqué en métropole compris entre
 
 |
 
@@ -18,7 +16,7 @@ COEFFICIENT
 
 |
 
-0 et 22,90 euros
+0 et 22,90 €
 
 |
 
@@ -26,7 +24,7 @@ COEFFICIENT
 
 |
 
-22,91 euros et 150 euros
+22,91 € et 150 €
 
 |
 
@@ -34,7 +32,7 @@ COEFFICIENT
 
 |
 
-Au-delà de 150 euros
+150,01 € et 1 980 €
 
 |
 
@@ -42,13 +40,19 @@ Au-delà de 150 euros
 
 |
 
+Au-delà de 1 980 €
+
+|
+
+1,343 pour les 1 980 premiers euros, puis 1,323 au-delà
+
+|
+
 Pour la Guadeloupe :
 
 POUR UN PRIX FABRICANT HT
 
-pratiqué en métropole
-
-compris entre
+pratiqué en métropole compris entre
 
 |
 
@@ -56,7 +60,7 @@ COEFFICIENT
 
 |
 
-0 et 22,90 euros
+0 et 22,90 €
 
 |
 
@@ -64,7 +68,7 @@ COEFFICIENT
 
 |
 
-22,91 euros et 150 euros
+22,91 € et 150 €
 
 |
 
@@ -72,7 +76,7 @@ COEFFICIENT
 
 |
 
-Au-delà de 150 euros
+150,01 € et 1 890 €
 
 |
 
@@ -80,13 +84,19 @@ Au-delà de 150 euros
 
 |
 
-Pour la Réunion :
+Au-delà de 1 890 €
+
+|
+
+1,344 pour les 1 890 premiers euros, puis 1,323 au-delà
+
+|
+
+Pour La Réunion :
 
 POUR UN PRIX FABRICANT HT
 
-pratiqué en métropole
-
-compris entre
+pratiqué en métropole compris entre
 
 |
 
@@ -94,7 +104,7 @@ COEFFICIENT
 
 |
 
-0 et 22,90 euros
+0 et 22,90 €
 
 |
 
@@ -102,7 +112,7 @@ COEFFICIENT
 
 |
 
-22,91 euros et 150 euros
+22,91 € et 150 €
 
 |
 
@@ -110,7 +120,7 @@ COEFFICIENT
 
 |
 
-Au-delà de 150 euros
+150,01 € et 620 €
 
 |
 
@@ -118,13 +128,19 @@ Au-delà de 150 euros
 
 |
 
+Au-delà de 620 €
+
+|
+
+1,325 pour les 620 premiers euros, puis 1,264 au-delà
+
+|
+
 Pour la Guyane :
 
 POUR UN PRIX FABRICANT HT
 
-pratiqué en métropole
-
-compris entre
+pratiqué en métropole compris entre
 
 |
 
@@ -132,7 +148,7 @@ COEFFICIENT
 
 |
 
-0 et 22,90 euros
+0 et 22,90 €
 
 |
 
@@ -140,7 +156,7 @@ COEFFICIENT
 
 |
 
-2,91 euros et 150 euros
+22,91 € et 150 €
 
 |
 
@@ -148,10 +164,18 @@ COEFFICIENT
 
 |
 
-Au-delà de 150 euros
+150,01 € et 630 €
 
 |
 
 1,4375
+
+|
+
+Au-delà de 630 €
+
+|
+
+1,4375 pour les 630 premiers euros, puis 1,368 au-delà
 
 |
