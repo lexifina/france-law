@@ -2,9 +2,9 @@
 
 RÉFÉRENTIEL FIXANT LES CRITÈRES DE L'AGRÉMENT
 
-DES ASSISTANTS MATERNELS PAR LE PRÉSIDENT DU CONSEIL GÉNÉRAL
+DES ASSISTANTS MATERNELS PAR LE PRÉSIDENT DU CONSEIL DÉPARTEMENTAL
 
-Le service départemental de protection maternelle et infantile instruit les demandes d'agrément des assistants maternels, qu'il s'agisse d'une première demande, d'une demande de modification ou d'une demande de renouvellement. En cas d'exercice en maison d'assistants maternels, la demande est instruite par le service du conseil général du département dans lequel est située la maison.
+Le service départemental de protection maternelle et infantile instruit les demandes d'agrément des assistants maternels, qu'il s'agisse d'une première demande, d'une demande de modification ou d'une demande de renouvellement. En cas d'exercice en maison d'assistants maternels, la demande est instruite par le service du conseil départemental du département dans lequel est située la maison.
 
 La procédure comporte au moins un entretien et une ou plusieurs visites au domicile ou dans la maison d'assistants maternels, en fonction du mode d'exercice. Les visites au domicile du candidat doivent concilier le respect de sa vie privée et la nécessaire protection des enfants qu'il va accueillir.
 
@@ -183,5 +183,3 @@ Il convient de prendre en compte :
 1° Les modalités d'organisation et de sécurité des sorties, en tenant compte de l'âge et du nombre d'enfants accueillis, et de l'obligation d'obtenir une autorisation écrite des parents pour les transports ;
 
 2° La connaissance et l'application des règles de sécurité en vigueur pour les enfants transportés dans le véhicule personnel et l'utilisation de sièges auto homologués et adaptés en fonction de l'âge et du poids de l'enfant ;
-
-3° L'obligation d'avoir une attestation d'assurance spécifique du véhicule pour couvrir les enfants accueillis lors de transports, y compris lorsque l'assistant maternel n'est pas le conducteur.

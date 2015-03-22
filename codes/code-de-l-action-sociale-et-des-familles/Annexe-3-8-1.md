@@ -88,7 +88,7 @@ Vu les articles L. 441-1 et suivants du code de l'action sociale et des familles
 
 Vu les articles R. 441-1 à R. 442-1 et D. 442-2 à D. 442-5 du code de l'action sociale et des familles ;
 
-Vu la décision du président du conseil général de (département à préciser) ... en date du ...
+Vu la décision du président du conseil départemental de (département à préciser) ... en date du ...
 
 Autorisant :
 
@@ -228,13 +228,13 @@ Obligations légales
 
 -Assurance obligatoire :
 
-L'accueillant familial et la personne accueillie sont tenus de souscrire, chacun pour ce qui le concerne, un contrat d'assurance et de pouvoir en justifier conformément aux dispositions de l'article L. 443-4 du code de l'action sociale et des familles. Une quittance ou une attestation annuelle de paiement des primes doit être fournie au président du conseil général.
+L'accueillant familial et la personne accueillie sont tenus de souscrire, chacun pour ce qui le concerne, un contrat d'assurance et de pouvoir en justifier conformément aux dispositions de l'article L. 443-4 du code de l'action sociale et des familles. Une quittance ou une attestation annuelle de paiement des primes doit être fournie au président du conseil départemental.
 
 Les attestations relatives à ces contrats sont jointes en annexe.
 
 -Protection juridique :
 
-Disposition particulière : s'il s'avère que la personne accueillie a besoin d'une mesure de protection juridique, l'accueillant familial en informe la famille ou le procureur de la République et doit, concomitamment, en informer le président du conseil général.
+Disposition particulière : s'il s'avère que la personne accueillie a besoin d'une mesure de protection juridique, l'accueillant familial en informe la famille ou le procureur de la République et doit, concomitamment, en informer le président du conseil départemental.
 
 Lorsque la personne accueillie bénéficie d'une mesure de protection juridique, la personne qui assure cette mesure fait connaître à l'accueillant familial le type de dépenses qu'elle peut prendre en charge ainsi que la procédure qu'elle doit suivre en cas d'urgence.
 
@@ -300,7 +300,7 @@ Le montant de l'indemnité représentative de mise à disposition de la ou des p
 
 Elle est fixée à ... euros par jour, soit (en lettres) : ...
 
-Le président du conseil général détient un pouvoir de contrôle sur ce montant. En cas de montant manifestement abusif, l'agrément de l'accueillant familial peut être retiré dans les conditions mentionnées à l'article L. 441-2 du code de l'action sociale et des familles.
+Le président du conseil départemental détient un pouvoir de contrôle sur ce montant. En cas de montant manifestement abusif, l'agrément de l'accueillant familial peut être retiré dans les conditions mentionnées à l'article L. 441-2 du code de l'action sociale et des familles.
 
 Pour un accueil à temps complet, les frais d'accueil sont forfaitisés sur la base de 30,5 jours/ mois : ...
 
@@ -350,7 +350,7 @@ Article 7
 
 Le remplacement en cas d'absence de l'accueillant familial
 
-Le principe qui prévaut dans le dispositif de l'accueil familial est celui de la continuité de l'accueil ; par ailleurs, le contrôle exercé par le président du conseil général porte également sur le remplaçant de l'accueillant familial.
+Le principe qui prévaut dans le dispositif de l'accueil familial est celui de la continuité de l'accueil ; par ailleurs, le contrôle exercé par le président du conseil départemental porte également sur le remplaçant de l'accueillant familial.
 
 Les différentes solutions envisagées pour le remplacement de l'accueillant familial doivent tenir compte de l'avis de la personne accueillie ou de son représentant légal.
 
@@ -360,11 +360,11 @@ Domicilié (e) à : (à compléter)
 
 N° de téléphone : ...
 
-Toute absence de plus de 48 heures doit être signalée, sauf cas de force majeure, par écrit au président du conseil général :
+Toute absence de plus de 48 heures doit être signalée, sauf cas de force majeure, par écrit au président du conseil départemental :
 
--si la personne accueillie reste au domicile de l'accueillant permanent, un document annexe au contrat d'accueil doit être signé par l'accueillant familial, le remplaçant et la personne accueillie et adressée au conseil général ;
+-si la personne accueillie reste au domicile de l'accueillant permanent, un document annexe au contrat d'accueil doit être signé par l'accueillant familial, le remplaçant et la personne accueillie et adressée au conseil départemental ;
 
--si la personne accueillie est hébergée au domicile de l'accueillant familial remplaçant, un exemplaire du contrat d'accueil conclu pour une durée temporaire est adressée au conseil général.
+-si la personne accueillie est hébergée au domicile de l'accueillant familial remplaçant, un exemplaire du contrat d'accueil conclu pour une durée temporaire est adressée au conseil départemental.
 
 Article 8
 
@@ -382,7 +382,7 @@ Artricle 9
 
 Modifications-délai de prévenance-dénonciation-rupture du contrat
 
-Toute modification au présent contrat doit faire l'objet d'un avenant signé des 2 parties et transmis au président du conseil général en charge du contrôle de l'accueillant familial.
+Toute modification au présent contrat doit faire l'objet d'un avenant signé des 2 parties et transmis au président du conseil départemental en charge du contrôle de l'accueillant familial.
 
 Dans le cadre d'un accueil permanent, au-delà de la période probatoire, le non-renouvellement ou la rupture du contrat d'accueil par l'une ou l'autre des parties est conditionnée par un préavis d'une durée fixée à 2 mois minimum.
 
@@ -392,9 +392,9 @@ En cas de non-respect de ce délai de prévenance, une indemnité compensatrice 
 
 Le délai de prévenance n'est pas exigé et aucune indemnité n'est due dans les circonstances suivantes :
 
--non-renouvellement de l'agrément de l'accueillant familial par le président du conseil général ;
+-non-renouvellement de l'agrément de l'accueillant familial par le président du conseil départemental ;
 
--retrait de l'agrément de l'accueillant familial par le président du conseil général ;
+-retrait de l'agrément de l'accueillant familial par le président du conseil départemental ;
 
 -cas de force majeure.
 
@@ -404,7 +404,7 @@ Article 10
 
 Le suivi de la personne accueillie
 
-L'accueillant familial s'engage à ce qu'un suivi social et médico-social de la personne accueillie à son domicile soit possible. Ainsi, la personne accueillie pourra être rencontrée individuellement au domicile de l'accueillant familial par les services du conseil général (ou de l'organisme mandaté par le conseil général à cet effet), chargés du suivi social et médico-social.
+L'accueillant familial s'engage à ce qu'un suivi social et médico-social de la personne accueillie à son domicile soit possible. Ainsi, la personne accueillie pourra être rencontrée individuellement au domicile de l'accueillant familial par les services du conseil départemental (ou de l'organisme mandaté par le conseil départemental à cet effet), chargés du suivi social et médico-social.
 
 L'accueillant familial s'engage à communiquer aux services chargés du suivi social et médico-social les éléments susceptibles de contribuer à ce suivi.
 
@@ -420,7 +420,7 @@ Article 12
 
 Durée de validité et renouvellement
 
-Le présent contrat est signé au plus tard le jour de l'arrivée de la personne accueillie chez l'accueillant familial. Il est établi en trois exemplaires dont un est adressé au président du conseil général en charge du contrôle des accueillants familiaux. Tout avenant au contrat modifiant une disposition qui relève de la libre appréciation des parties dans le respect des dispositions législatives et réglementaires est adressé au conseil général.
+Le présent contrat est signé au plus tard le jour de l'arrivée de la personne accueillie chez l'accueillant familial. Il est établi en trois exemplaires dont un est adressé au président du conseil départemental en charge du contrôle des accueillants familiaux. Tout avenant au contrat modifiant une disposition qui relève de la libre appréciation des parties dans le respect des dispositions législatives et réglementaires est adressé au conseil départemental.
 
 Le présent contrat comporte les annexes suivantes : lister les annexes et les numéroter.
 
@@ -504,7 +504,7 @@ La rémunération du remplaçant est versée par la personne accueillie : il est
 
 La rémunération et les indemnités sont soumises à cotisations et sont imposables.
 
-Le présent contrat est établi en trois exemplaires dont un est adressé au président du conseil général en charge du contrôle des remplaçants (article L. 441-2 du code de l'action sociale et des familles).
+Le présent contrat est établi en trois exemplaires dont un est adressé au président du conseil départemental en charge du contrôle des remplaçants (article L. 441-2 du code de l'action sociale et des familles).
 
 Signatures précédées de la mention manuscrite "Lu et approuvé"
 

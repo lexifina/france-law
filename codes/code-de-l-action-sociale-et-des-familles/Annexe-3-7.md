@@ -14,7 +14,7 @@ RETENU PAR
 
 le président
 
-du conseil général
+du conseil départemental
 
 |
 
@@ -78,7 +78,7 @@ Montant de la participation prévue au I de l'article L. 232-8 + F
 
 |
 
-Tarifs afférents à la dépendance ou quote-part de dotation budgétaire globale afférente à la dépendance des résidents bénéficiaires de l'allocation personnalisée d'autonomie en établissement des autres départements que celui du président du conseil général tarificateur = G
+Tarifs afférents à la dépendance ou quote-part de dotation budgétaire globale afférente à la dépendance des résidents bénéficiaires de l'allocation personnalisée d'autonomie en établissement des autres départements que celui du président du conseil départemental tarificateur = G
 
 |
 

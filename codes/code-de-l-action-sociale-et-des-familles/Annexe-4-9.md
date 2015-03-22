@@ -2,7 +2,7 @@
 
 RÉFÉRENTIEL FIXANT LES CRITÈRES DE L'AGRÉMENT
 
-DES ASSISTANTS FAMILIAUX PAR LE PRÉSIDENT DU CONSEIL GÉNÉRAL
+DES ASSISTANTS FAMILIAUX PAR LE PRÉSIDENT DU CONSEIL DÉPARTEMENTAL
 
 L'assistant familial est la personne dont la mission consiste, moyennant rémunération, à accueillir habituellement et de façon permanente à son domicile des mineurs et des jeunes majeurs âgés de moins de 21 ans, séparés de leurs parents, et à prendre soin d'eux au quotidien. Son activité s'insère dans un dispositif de protection de l'enfance, un dispositif médico-social ou un service d'accueil familial thérapeutique.
 

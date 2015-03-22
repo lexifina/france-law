@@ -1,14 +1,14 @@
 # Article Annexe 2-6
 
-Arrêté du président du conseil général relatif à l'agrément en vue d'adoption
+Arrêté du président du conseil départemental relatif à l'agrément en vue d'adoption
 
-Conseil général du...
+Conseil départemental du...
 
 Direction / service :...
 
 Agrément pour l'accueil d'un enfant en vue d'adoption
 
-Le président du conseil général,
+Le président du conseil départemental,
 
 Vu les articles L. 225-3 à L. 225-7, L. 225-17, R. 225-1 à R. 225-8 du code de l'action sociale et des familles ;
 

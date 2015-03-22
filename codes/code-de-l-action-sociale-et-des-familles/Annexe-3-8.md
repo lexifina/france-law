@@ -58,7 +58,7 @@ Vu les articles L. 441-1 et suivants du code de l'action sociale et des familles
 
 Vu les décrets n°... du..........
 
-Vu la décision du président du conseil général de (département à préciser).......... en date du..........
+Vu la décision du président du conseil départemental de (département à préciser).......... en date du..........
 
 Autorisant :
 
@@ -174,13 +174,13 @@ Art. 4. - Obligations légales
 
 L'accueillant familial et la personne accueillie sont tenus de souscrire, chacun pour ce qui le concerne, un contrat d'assurance et de pouvoir en justifier conformément aux dispositions de l'article L. 443-4 du code de l'action sociale et des familles.
 
-Une attestation annuelle de paiement des primes doit être fournie au président du conseil général.
+Une attestation annuelle de paiement des primes doit être fournie au président du conseil départemental.
 
 Les attestations relatives à ces contrats sont jointes en annexe.
 
 Disposition particulière :
 
-Protection juridique : s'il s'avère que la personne accueillie a besoin d'une mesure de protection juridique, l'accueillant familial peut en informer le juge d'instance compétent et doit, concomitamment, en informer le président du conseil général.
+Protection juridique : s'il s'avère que la personne accueillie a besoin d'une mesure de protection juridique, l'accueillant familial peut en informer le juge d'instance compétent et doit, concomitamment, en informer le président du conseil départemental.
 
 Art. 5. - Conditions financières de l'accueil
 
@@ -232,7 +232,7 @@ Elle est fixée à.......... euros par jour.
 
 Soit (en lettres) :..........
 
-Le président du conseil général détient un pouvoir de contrôle sur ce montant. En cas de montant manifestement abusif, l'agrément de l'accueillant familial peut être retiré dans les conditions mentionnées à l'article L. 442-1 du code de l'action sociale et des familles.
+Le président du conseil départemental détient un pouvoir de contrôle sur ce montant. En cas de montant manifestement abusif, l'agrément de l'accueillant familial peut être retiré dans les conditions mentionnées à l'article L. 442-1 du code de l'action sociale et des familles.
 
 Les frais d'accueil sont forfaitisés sur la base de 30,5 jours/ mois :
 
@@ -278,7 +278,7 @@ L'ensemble des frais d'accueil est versé au remplaçant dans les mêmes conditi
 
 Art. 6. - Le remplacement en cas d'absence de l'accueillant familial
 
-Le principe qui prévaut dans le dispositif de l'accueil familial est celui de la continuité de l'accueil ; par ailleurs, le contrôle exercé par le président du conseil général porte également sur le remplaçant de l'accueillant familial.
+Le principe qui prévaut dans le dispositif de l'accueil familial est celui de la continuité de l'accueil ; par ailleurs, le contrôle exercé par le président du conseil départemental porte également sur le remplaçant de l'accueillant familial.
 
 Les différentes solutions envisagées pour le remplacement de l'accueillant familial doivent tenir compte de l'avis de la personne accueillie.
 
@@ -288,7 +288,7 @@ Domicilié (e) à : (à compléter).
 
 N° de téléphone :..........
 
-Toute absence de plus de 48 heures doit être signalée, sauf cas de force majeure, par écrit au président du conseil général.
+Toute absence de plus de 48 heures doit être signalée, sauf cas de force majeure, par écrit au président du conseil départemental.
 
 Art. 7. - La période d'essai
 
@@ -304,7 +304,7 @@ Art. 8. - Modifications.-Délai de prévenance
 
 Dénonciation.-Rupture de contrat
 
-Toute modification au présent contrat doit faire l'objet d'un avenant signé des deux parties et transmis au président du conseil général en charge du contrôle de l'accueillant familial.
+Toute modification au présent contrat doit faire l'objet d'un avenant signé des deux parties et transmis au président du conseil départemental en charge du contrôle de l'accueillant familial.
 
 Au-delà de la période d'essai, la rupture du contrat par l'une ou l'autre est conditionnée par un préavis d'une durée fixée à deux mois minimum.
 
@@ -316,9 +316,9 @@ Le délai de prévenance n'est pas exigé et aucune indemnité n'est due dans le
 
 - non-renouvellement du contrat d'accueil sous réserve du respect d'un préavis d'une durée fixée à 2 mois minimum ;
 
-- non-renouvellement de l'agrément de l'accueillant familial par le président du conseil général ;
+- non-renouvellement de l'agrément de l'accueillant familial par le président du conseil départemental ;
 
-- retrait de l'agrément de l'accueillant familial par le président du conseil général ;
+- retrait de l'agrément de l'accueillant familial par le président du conseil départemental ;
 
 - cas de force majeure.
 
@@ -336,7 +336,7 @@ En cas de litige, le contentieux est ouvert devant le tribunal d'instance du lie
 
 Art. 11. - Durée de validité et renouvellement
 
-Le présent contrat est signé au plus tard le jour de l'arrivée de la personne accueillie chez l'accueillant familial. Il est établi en trois exemplaires dont un est adressé au président du conseil général en charge du contrôle de l'accueillant familial.
+Le présent contrat est signé au plus tard le jour de l'arrivée de la personne accueillie chez l'accueillant familial. Il est établi en trois exemplaires dont un est adressé au président du conseil départemental en charge du contrôle de l'accueillant familial.
 
 Le présent contrat est conclu pour une durée d'un an. Il est reconduit, chaque année, par tacite reconduction.
 
