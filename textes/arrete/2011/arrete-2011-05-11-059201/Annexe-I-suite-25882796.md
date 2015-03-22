@@ -22,7 +22,7 @@ S
 
 |
 
-1 - Personne aux différentes étapes de la vie et les réponses institutionnelles
+1-Personne aux différentes étapes de la vie et les réponses institutionnelles
 
 |
 
@@ -38,7 +38,7 @@ Définir les termes : natalité, fécondité, morbidité, mortalité
 
 Définir le concept de santé, la notion de prévention
 
-Dégager les caractéristiques, à partir de données démographiques et/ou épidémiologiques, d'une population : âge, CSP, familles, état de santé....
+Dégager les caractéristiques, à partir de données démographiques et/ ou épidémiologiques, d'une population : âge, CSP, familles, état de santé....
 
 Présenter des causes d'altération de la santé et leurs caractéristiques
 
@@ -56,7 +56,7 @@ X
 
 |
 
-À partir de documents, comparer l'état de santé de populations de différents pays (espérance de vie, prévalence de certaines pathologies, ...)
+À partir de documents, comparer l'état de santé de populations de différents pays (espérance de vie, prévalence de certaines pathologies,...)
 
 |
 
@@ -120,7 +120,7 @@ X
 
 |
 
-1.2 Besoins et attentes de la personne aux différents âges - Les rythmes de vie
+1.2 Besoins et attentes de la personne aux différents âges-Les rythmes de vie
 
 |
 
@@ -128,11 +128,11 @@ X
 
 Pour une personne donnée et à différents âges de la vie :
 
-- repérer et justifier ses besoins, ses attentes
+-repérer et justifier ses besoins, ses attentes
 
-- justifier leur prise en compte dans l'accompagnement de la personne
+-justifier leur prise en compte dans l'accompagnement de la personne
 
-- décrire le rythme de vie (temps de repos, de sommeil, activité, capacité d'attention, résistance à la fatigue,...)
+-décrire le rythme de vie (temps de repos, de sommeil, activité, capacité d'attention, résistance à la fatigue,...)
 
 |
 
@@ -168,7 +168,7 @@ X
 
 |
 
-Énoncer les indicateurs de croissance de référence de la naissance à l'adolescence (taille, poids, segments, indice de masse corporelle (I.M.C))
+Énoncer les indicateurs de croissance de référence de la naissance à l'adolescence (taille, poids, segments, indice de masse corporelle (I. M. C))
 
 Comparer des courbes staturo-pondérales d'une personne donnée aux courbes moyennes
 
@@ -232,15 +232,15 @@ X
 
 À partir d'exemples, repérer :
 
-- l'évolution des réactions de l'enfant, durant les premiers mois, aux stimulations, à l'environnement
+-l'évolution des réactions de l'enfant, durant les premiers mois, aux stimulations, à l'environnement
 
-- les étapes de l'évolution du langage oral
+-les étapes de l'évolution du langage oral
 
-- les étapes de l'évolution du graphisme
+-les étapes de l'évolution du graphisme
 
 Présenter les conditions favorables à ces acquisitions
 
-Définir les troubles du langage (dyslexie, dysphasie, bégaiement, ...) et justifier l'intérêt de leur prise en charge précoce
+Définir les troubles du langage (dyslexie, dysphasie, bégaiement,...) et justifier l'intérêt de leur prise en charge précoce
 
 |
 
@@ -324,7 +324,7 @@ X
 
 |
 
-Présenter les objectifs de la protection maternelle et infantile (P.M.I) et ses actions (actions médico-sociales générales et actions en faveur des milieux de vie)
+Présenter les objectifs de la protection maternelle et infantile (P. M. I) et ses actions (actions médico-sociales générales et actions en faveur des milieux de vie)
 
 Justifier l'intérêt des différents examens médicaux de la femme enceinte et de l'enfant
 
@@ -340,7 +340,7 @@ X
 
 |
 
-1.3.9 Accueil collectif : accueil collectif régulier, accueil collectif occasionnel ou ponctuel, jardins d'enfants, jardins d'éveil, service d'accueil familial, multi - accueil ...
+1.3.9 Accueil collectif : accueil collectif régulier, accueil collectif occasionnel ou ponctuel, jardins d'enfants, jardins d'éveil, service d'accueil familial, multi-accueil...
 
 |
 
@@ -416,7 +416,7 @@ X
 
 |
 
-1. 4 Adolescent
+1.4 Adolescent
 
 |
 
@@ -454,7 +454,7 @@ X
 
 1.4.3 Conduites à risques
 
-(cf. P.S.E)
+(cf. P. S. E)
 
 |
 
@@ -494,11 +494,11 @@ X
 
 Présenter les missions de l'ASE :
 
-- objectifs
+-objectifs
 
-- actions
+-actions
 
-- moyens (professionnels, mesures éducatives, établissements d'accueil, assistants familiaux,...)
+-moyens (professionnels, mesures éducatives, établissements d'accueil, assistants familiaux,...)
 
 À l'aide de documents, identifier les catégories d'enfants protégés par l'aide sociale à l'enfance
 
@@ -652,7 +652,7 @@ En lien avec le cours de biologie :
 
 Indiquer les modifications cellulaires et tissulaires liées au vieillissement
 
-À partir d'observations ou de documents, repérer les modifications morphologiques du corps liées au vieillissement (transformation de la silhouette, évolution de la peau et des phanères, augmentation de la masse graisseuse, ...)
+À partir d'observations ou de documents, repérer les modifications morphologiques du corps liées au vieillissement (transformation de la silhouette, évolution de la peau et des phanères, augmentation de la masse graisseuse,...)
 
 Recenser les modifications anatomiques et physiologiques liées au vieillissement (muqueuses, appareils locomoteur, cardio-vasculaire, respiratoire, digestif, rénal, système nerveux, organes des sens, systèmes endocrinien, immunitaire) et en déduire les conséquences pour la personne
 
@@ -710,7 +710,7 @@ Définir les notions d'autonomie et de dépendance
 
 À partir d'exemples ou d'observations, repérer les signes évocateurs d'une perte d'autonomie
 
-À partir de différents outils, évaluer la dépendance d'une personne (exemple grille AGGIR, ...)
+À partir de différents outils, évaluer la dépendance d'une personne (exemple grille AGGIR,...)
 
 |
 
@@ -776,7 +776,7 @@ X
 
 |
 
-1.7.10 Sécurité sociale : branche retraite, caisse nationale de solidarité pour l'autonomie (C.N.S.A)
+1.7.10 Sécurité sociale : branche retraite, caisse nationale de solidarité pour l'autonomie (C. N. S. A)
 
 |
 
@@ -806,7 +806,7 @@ X
 
 |
 
-1.7.12 Etablissements et structures d'accueil (contrat de séjour, charte, professionnels ....)
+1.7.12 Etablissements et structures d'accueil (contrat de séjour, charte, professionnels....)
 
 |
 
@@ -892,7 +892,7 @@ X
 
 Énoncer les grands principes de la législation en faveur des personnes handicapées
 
-Présenter les missions des différentes instances ou commissions : maison départementale des personnes handicapées (M.D.P.H), équipe pluridisciplinaire d'évaluation, commission des droits et de l'autonomie des personnes handicapées (C.D.A.P.H), ...
+Présenter les missions des différentes instances ou commissions : maison départementale des personnes handicapées (M. D. P. H), équipe pluridisciplinaire d'évaluation, commission des droits et de l'autonomie des personnes handicapées (C. D. A. P. H),...
 
 Indiquer les prestations sociales en faveur de la personne handicapée
 
@@ -936,17 +936,17 @@ X
 
 Pour chaque service :
 
-services d'éducation spécialisée et de soins à domicile (S.E.S.S.A.D.)
+services d'éducation spécialisée et de soins à domicile (S. E. S. S. A. D.)
 
-services d'accompagnement à la vie sociale (S.A.V.S.) services d'accompagnement médico-social pour adultes handicapés (S.A.M.S.A.H.)
+services d'accompagnement à la vie sociale (S. A. V. S.) services d'accompagnement médico-social pour adultes handicapés (S. A. M. S. A. H.)
 
 expliquer :
 
-- les missions
+-les missions
 
-- le fonctionnement
+-le fonctionnement
 
-- les prestations proposées et leur tarification
+-les prestations proposées et leur tarification
 
 |
 
@@ -996,9 +996,9 @@ Préciser les compétences du juge des tutelles
 
 Pour chaque mesure :
 
-- énoncer les finalités
+-énoncer les finalités
 
-- citer les effets sur la capacité de la personne protégée et sur l'administration de ses biens
+-citer les effets sur la capacité de la personne protégée et sur l'administration de ses biens
 
 |
 
@@ -1024,7 +1024,7 @@ Différencier maladie chronique et maladie aiguë
 
 Définir troubles mentaux et du comportement
 
-À partir d'exemples et/ou de données épidémiologiques, caractériser une maladie dite émergente
+À partir d'exemples et/ ou de données épidémiologiques, caractériser une maladie dite émergente
 
 |
 
@@ -1106,7 +1106,7 @@ X
 
 1.10.6 Sécurité sociale : assurance maladie,
 
-Couverture maladie universelle (C.M.U.), aide médicale, forfait hospitalier, mutuelle
+Couverture maladie universelle (C. M. U.), aide médicale, forfait hospitalier, mutuelle
 
 |
 
@@ -1186,11 +1186,11 @@ X
 
 |
 
-2 - Méthodologie d'intervention
+2-Méthodologie d'intervention
 
 |
 
-2.1 Bientraitance - Maltraitance
+2.1 Bientraitance-Maltraitance
 
 |
 
@@ -1200,7 +1200,7 @@ X
 
 Définir le concept de bientraitance
 
-Énoncer et justifier les principes de la bientraitance : respect de la personne, promotion de l'expression de la personne, communication personne/professionnel,...
+Énoncer et justifier les principes de la bientraitance : respect de la personne, promotion de l'expression de la personne, communication personne/ professionnel,...
 
 À partir de documents (guide de bonnes pratiques professionnelles) ou d'expériences, présenter des actions de promotion de la bientraitance
 
@@ -1222,7 +1222,7 @@ Définir la maltraitance
 
 Repérer les situations à risques, les facteurs pouvant être à l'origine de situations de maltraitance : facteurs institutionnels, facteurs liés au personnel, à l'usager
 
-À partir d'exemples (articles de presse ...) présenter les différents types de maltraitance : atteinte à la dignité, défaut d'information, sévices physiques...
+À partir d'exemples (articles de presse...) présenter les différents types de maltraitance : atteinte à la dignité, défaut d'information, sévices physiques...
 
 Énoncer la conduite à tenir en cas de maltraitance : procédure de signalement
 
@@ -1282,7 +1282,7 @@ X
 
 |
 
-2. 3 Services à domicile
+2.3 Services à domicile
 
 |
 
@@ -1290,7 +1290,7 @@ X
 
 |
 
-Énoncer les différentes missions des interlocuteurs et instances du maintien à domicile : centre communal d'action sociale (C.C.A.S), conseil général, services sociaux, caisse nationale d'assurance vieillesse (C.N.A.V.), associations, maison départementale des personnes handicapées (M.D.P.H.), centre local d'information et de coordination (C.L.I.C.),...
+Énoncer les différentes missions des interlocuteurs et instances du maintien à domicile : centre communal d'action sociale (C. C. A. S), conseil départemental, services sociaux, caisse nationale d'assurance vieillesse (C. N. A. V.), associations, maison départementale des personnes handicapées (M. D. P. H.), centre local d'information et de coordination (C. L. I. C.),...
 
 |
 
@@ -1302,9 +1302,9 @@ X
 
 2.3.2 Professionnels du maintien à domicile :
 
-- médecin, infirmier, aide soignant, ergothérapeute, kinésithérapeute
+-médecin, infirmier, aide soignant, ergothérapeute, kinésithérapeute
 
-- aide ménagère, aide à domicile, auxiliaire de vie sociale, aide médico psychologique, technicien d'intervention sociale et familiale
+-aide ménagère, aide à domicile, auxiliaire de vie sociale, aide médico psychologique, technicien d'intervention sociale et familiale
 
 |
 
@@ -1320,7 +1320,7 @@ X
 
 |
 
-2.3.3 Services de soins infirmiers à domicile - L'hospitalisation à domicile
+2.3.3 Services de soins infirmiers à domicile-L'hospitalisation à domicile
 
 |
 
@@ -1356,7 +1356,7 @@ X
 
 |
 
-Énumérer les différentes aides financières favorisant le maintien à domicile (crédit d'impôt, avantages fiscaux ...)
+Énumérer les différentes aides financières favorisant le maintien à domicile (crédit d'impôt, avantages fiscaux...)
 
 Définir le chèque emploi service universel et ses conditions d'utilisation
 
@@ -1390,17 +1390,17 @@ X
 
 À partir de situations données et dans le cadre d'un projet de maintien à domicile, d'un plan d'aide, identifier les éléments de la démarche d'intervention à domicile :
 
-- observation et analyse des informations
+-observation et analyse des informations
 
-- identification des besoins et attentes, exprimés ou non
+-identification des besoins et attentes, exprimés ou non
 
-- établissement d'un bilan de situation
+-établissement d'un bilan de situation
 
-- définition de priorités en fonction des besoins et des ressources des personnes
+-définition de priorités en fonction des besoins et des ressources des personnes
 
-- proposition de solutions
+-proposition de solutions
 
-- planification de la mise en œuvre des actions en lien avec le projet de vie et les autres intervenants
+-planification de la mise en œuvre des actions en lien avec le projet de vie et les autres intervenants
 
 |
 
@@ -1454,7 +1454,7 @@ X
 
 |
 
-Énoncer la durée légale du travail, les différents types de congés dont congé maternité, paternité ...
+Énoncer la durée légale du travail, les différents types de congés dont congé maternité, paternité...
 
 |
 
@@ -1486,7 +1486,7 @@ X
 
 |
 
-Repérer les différents dispositifs existants (Droit individuel à la formation (D.I.F.), Congé individuel de formation (C.I.F.), plan de formation de l'entreprise, validation d'acquis d'expérience (V.A.E.), bilan de compétences,...)
+Repérer les différents dispositifs existants (Droit individuel à la formation (D. I. F.), Congé individuel de formation (C. I. F.), plan de formation de l'entreprise, validation d'acquis d'expérience (V. A. E.), bilan de compétences,...)
 
 Préciser leurs objectifs et les principales conditions de leur mise en œuvre
 
@@ -1544,7 +1544,7 @@ X
 
 |
 
-2. 6 Qualité
+2.6 Qualité
 
 |
 
@@ -1608,7 +1608,7 @@ X
 
 |
 
-2. 7 Travail en équipe - Gestion d'équipe - Tutorat
+2.7 Travail en équipe-Gestion d'équipe-Tutorat
 
 |
 
@@ -1618,11 +1618,11 @@ X
 
 Pour un contexte professionnel donné, ou à partir d'organigramme, de fiches de poste :
 
-- énoncer les missions et limites de compétences des professionnels d'une équipe
+-énoncer les missions et limites de compétences des professionnels d'une équipe
 
-- situer la place de chacun dans la structure
+-situer la place de chacun dans la structure
 
-- préciser les liens hiérarchique et fonctionnel
+-préciser les liens hiérarchique et fonctionnel
 
 Justifier les intérêts d'un travail en équipe
 
@@ -1696,7 +1696,7 @@ X
 
 |
 
-2.8 Relation personne aidante - personne aidée
+2.8 Relation personne aidante-personne aidée
 
 |
 
@@ -1704,11 +1704,11 @@ X
 
 À partir d'exemples :
 
-- identifier les acteurs en présence (personne aidée, famille, service d'aide à domicile, intervenants à domicile)
+-identifier les acteurs en présence (personne aidée, famille, service d'aide à domicile, intervenants à domicile)
 
-- différencier la relation fonctionnelle du lien hiérarchique
+-différencier la relation fonctionnelle du lien hiérarchique
 
-À partir d'exemples (retour à domicile, fin de vie, accompagnement de jeunes handicapés ...), caractériser la notion d'accompagnement
+À partir d'exemples (retour à domicile, fin de vie, accompagnement de jeunes handicapés...), caractériser la notion d'accompagnement
 
 À partir d'exemples, repérer les réactions de défense et l'adaptation possible de la personne aidée, de la personne aidante (rejet, agressivité, coopération, dépendance, maternage, acceptation....)
 
@@ -1722,11 +1722,11 @@ X
 
 |
 
-3 - Communication professionnelle et interprofessionnelle
+3-Communication professionnelle et interprofessionnelle
 
 |
 
-3. 1 Formes, rôles et contexte de la communication
+3.1 Formes, rôles et contexte de la communication
 
 |
 
@@ -1736,17 +1736,13 @@ Formes, situations, fonctions, facteurs de la communication
 
 Selon le contexte professionnel :
 
-- analyser la variété des situations de communication (prise en compte signes verbaux, non verbaux)
+-analyser la variété des situations de communication (prise en compte signes verbaux, non verbaux)
 
-- identifier la diversité des formes de communication (écrite, orale, visuelle)
+-identifier la diversité des formes de communication (écrite, orale, visuelle)
 
-- expliciter les fonctions de la communication (entre les personnes, entre les structures...)
+-expliciter les fonctions de la communication (entre les personnes, entre les structures...)
 
-- repérer les facteurs qui influencent la communication entre les personnes (facteurs favorisants, freins)
-
-|
-
-X
+-repérer les facteurs qui influencent la communication entre les personnes (facteurs favorisants, freins)
 
 |
 
@@ -1754,7 +1750,11 @@ X
 
 |
 
-3. 2 Communication écrite
+X
+
+|
+
+3.2 Communication écrite
 
 |
 
@@ -1764,19 +1764,19 @@ Cadre juridique de la communication écrite
 
 Selon le contexte professionnel :
 
-- identifier les situations impliquant un écrit
+-identifier les situations impliquant un écrit
 
-- repérer les objectifs de la communication écrite et les destinataires
+-repérer les objectifs de la communication écrite et les destinataires
 
-- présenter les caractéristiques des productions écrites (courrier, courrier administratif, compte rendu, rapport, bilan, note de synthèse, carnet de bord, relevé de conclusions, fiches techniques...) et justifier leur utilisation
+-présenter les caractéristiques des productions écrites (courrier, courrier administratif, compte rendu, rapport, bilan, note de synthèse, carnet de bord, relevé de conclusions, fiches techniques...) et justifier leur utilisation
 
-À partir d'exemples, indiquer les caractéristiques des formulaires, imprimés, questionnaires, grilles d'observation utilisés dans le secteur sanitaire et social et justifier leur utilisation ; indiquer l'intérêt de supports informatisés, télécopie, courriel, réseaux ...
+À partir d'exemples, indiquer les caractéristiques des formulaires, imprimés, questionnaires, grilles d'observation utilisés dans le secteur sanitaire et social et justifier leur utilisation ; indiquer l'intérêt de supports informatisés, télécopie, courriel, réseaux...
 
 Identifier les critères d'efficacité d'une communication écrite
 
 Préciser les aspects réglementaires concernant la diffusion des informations sur la personne
 
-Indiquer les précautions à prendre pour l'enregistrement ou l'archivage, la diffusion des documents écrits, du dossier médical (traçabilité, ...)
+Indiquer les précautions à prendre pour l'enregistrement ou l'archivage, la diffusion des documents écrits, du dossier médical (traçabilité,...)
 
 |
 
@@ -1788,7 +1788,7 @@ X
 
 |
 
-3. 3 Communication visuelle
+3.3 Communication visuelle
 
 |
 
@@ -1796,17 +1796,13 @@ X
 
 Selon le contexte professionnel :
 
-- justifier l'intérêt des supports visuels en fonction de l'objectif visé, des publics concernés (signalétique, pictogrammes, affiches, dépliants, panneaux d'exposition...)
+-justifier l'intérêt des supports visuels en fonction de l'objectif visé, des publics concernés (signalétique, pictogrammes, affiches, dépliants, panneaux d'exposition...)
 
-- présenter les caractéristiques des productions visuelles
+-présenter les caractéristiques des productions visuelles
 
-- identifier les critères d'efficacité d'une communication visuelle
+-identifier les critères d'efficacité d'une communication visuelle
 
-- coder et décoder des supports de communication visuelle y compris supports informatisés, publipostage, PAO
-
-|
-
-X
+-coder et décoder des supports de communication visuelle y compris supports informatisés, publipostage, PAO
 
 |
 
@@ -1814,7 +1810,11 @@ X
 
 |
 
-3. 4 Communication orale
+X
+
+|
+
+3.4 Communication orale
 
 |
 
@@ -1822,13 +1822,13 @@ X
 
 Selon le contexte professionnel :
 
-- repérer les principes de la communication orale
+-repérer les principes de la communication orale
 
-- analyser et justifier les méthodes et les moyens utilisés dans une situation d'accueil direct, dans un accueil téléphonique, dans la transmission orale d'informations à des usagers, à des pairs, à la hiérarchie
+-analyser et justifier les méthodes et les moyens utilisés dans une situation d'accueil direct, dans un accueil téléphonique, dans la transmission orale d'informations à des usagers, à des pairs, à la hiérarchie
 
-- identifier les critères d'une communication orale efficace
+-identifier les critères d'une communication orale efficace
 
-- proposer des attitudes adaptées face à une situation de communication orale difficile
+-proposer des attitudes adaptées face à une situation de communication orale difficile
 
 |
 
@@ -1862,7 +1862,7 @@ S
 
 |
 
-1 - Organisation générale du corps humain
+1-Organisation générale du corps humain
 
 |
 
@@ -1880,7 +1880,7 @@ X
 
 |
 
-2 - Cellule
+2-Cellule
 
 |
 
@@ -1968,7 +1968,7 @@ X
 
 |
 
-3 - Maladies génétiques
+3-Maladies génétiques
 
 |
 
@@ -1992,7 +1992,7 @@ X
 
 |
 
-4 - Anomalies du fonctionnement de la cellule : cancers
+4-Anomalies du fonctionnement de la cellule : cancers
 
 |
 
@@ -2006,13 +2006,9 @@ Définir métastase Expliciter les étapes de diffusion de cellules tumorales
 
 À partir de documents, pour deux exemples de cancers :
 
-- énoncer les causes favorisantes
+-énoncer les causes favorisantes
 
-- les moyens de prévention
-
-|
-
-X
+-les moyens de prévention
 
 |
 
@@ -2020,7 +2016,11 @@ X
 
 |
 
-5 - Tissus
+X
+
+|
+
+5-Tissus
 
 |
 
@@ -2042,7 +2042,7 @@ X
 
 |
 
-6 - Peau
+6-Peau
 
 |
 
@@ -2118,19 +2118,15 @@ Physiopathologie : plaies, brûlures, escarres, érythème fessier, gale, pédic
 
 Pour chaque pathologie :
 
-- donner une définition
+-donner une définition
 
-- citer l'agent responsable ou le(s) mécanisme(s) d'apparition
+-citer l'agent responsable ou le (s) mécanisme (s) d'apparition
 
-- justifier les facteurs favorisants et/ou les modes de propagation
+-justifier les facteurs favorisants et/ ou les modes de propagation
 
-- énoncer les signes cliniques, les conséquences et évolution potentielles
+-énoncer les signes cliniques, les conséquences et évolution potentielles
 
-- justifier les moyens de prévention et les traitements
-
-|
-
-X
+-justifier les moyens de prévention et les traitements
 
 |
 
@@ -2138,7 +2134,11 @@ X
 
 |
 
-7 - Appareils génitaux
+X
+
+|
+
+7-Appareils génitaux
 
 |
 
@@ -2242,7 +2242,7 @@ Les infections sexuellement transmissibles (IST)
 
 |
 
-Indiquer les principales infections sexuellement transmissibles (IST), les modes de transmission et leurs conséquences.(lien avec le programme de prévention - Santé - Environnement)
+Indiquer les principales infections sexuellement transmissibles (IST), les modes de transmission et leurs conséquences. (lien avec le programme de prévention-Santé-Environnement)
 
 Justifier les méthodes de prévention
 
@@ -2340,7 +2340,7 @@ X
 
 |
 
-8 - Appareil cardiovasculaire
+8-Appareil cardiovasculaire
 
 |
 
@@ -2370,11 +2370,11 @@ Expliquer, à partir de schémas fournis, les différentes phases de la contract
 
 Définir :
 
-- la pression artérielle et préciser les valeurs normales,
+-la pression artérielle et préciser les valeurs normales,
 
-- le rythme cardiaque et la valeur normale, à différents âges
+-le rythme cardiaque et la valeur normale, à différents âges
 
-- les anomalies du rythme (tachycardie, bradycardie, arythmie)
+-les anomalies du rythme (tachycardie, bradycardie, arythmie)
 
 |
 
@@ -2424,25 +2424,21 @@ X
 
 8.5 Physiopathologie :
 
-- hypertension artérielle, AVC, infarctus du myocarde, phlébites
+-hypertension artérielle, AVC, infarctus du myocarde, phlébites
 
 |
 
 Pour chaque pathologie :
 
-- donner une définition - citer les mécanismes d'apparition
+-donner une définition-citer les mécanismes d'apparition
 
-- justifier les facteurs favorisants
+-justifier les facteurs favorisants
 
-- énoncer les signes cliniques, les conséquences et évolution potentielles
+-énoncer les signes cliniques, les conséquences et évolution potentielles
 
-- justifier les moyens de prévention et les traitements
+-justifier les moyens de prévention et les traitements
 
-- justifier l'urgence de l'alerte et la conduite à tenir, le cas échéant, face à un accident cardio-vasculaire
-
-|
-
-X
+-justifier l'urgence de l'alerte et la conduite à tenir, le cas échéant, face à un accident cardio-vasculaire
 
 |
 
@@ -2450,7 +2446,11 @@ X
 
 |
 
-9 - Appareil excréteur
+X
+
+|
+
+9-Appareil excréteur
 
 |
 
@@ -2512,19 +2512,15 @@ infections urinaires, incontinences urinaires, insuffisance rénale
 
 Pour chaque pathologie :
 
-- donner une définition,
+-donner une définition,
 
-- citer l'agent responsable ou les mécanismes d'apparition
+-citer l'agent responsable ou les mécanismes d'apparition
 
-- justifier les facteurs favorisants, les modes de propagation,
+-justifier les facteurs favorisants, les modes de propagation,
 
-- énoncer les signes cliniques, les conséquences et évolution potentielles,
+-énoncer les signes cliniques, les conséquences et évolution potentielles,
 
-- justifier les moyens de prévention et les traitements
-
-|
-
-X
+-justifier les moyens de prévention et les traitements
 
 |
 
@@ -2532,7 +2528,11 @@ X
 
 |
 
-10 - Appareil respiratoire
+X
+
+|
+
+10-Appareil respiratoire
 
 |
 
@@ -2598,15 +2598,15 @@ asthme, insuffisance respiratoire, asphyxie (monoxyde de carbone), tuberculose, 
 
 Pour chaque pathologie :
 
-- donner une définition
+-donner une définition
 
-- citer l'agent responsable ou les mécanismes d'apparition
+-citer l'agent responsable ou les mécanismes d'apparition
 
-- justifier les facteurs favorisants, les modes de propagation
+-justifier les facteurs favorisants, les modes de propagation
 
-- énoncer les signes cliniques, les conséquences et évolution potentielles
+-énoncer les signes cliniques, les conséquences et évolution potentielles
 
-- justifier les moyens de prévention et les traitements
+-justifier les moyens de prévention et les traitements
 
 |
 
@@ -2634,7 +2634,7 @@ X
 
 |
 
-11 - Système locomoteur
+11-Système locomoteur
 
 |
 
@@ -2644,9 +2644,9 @@ X
 
 Légender un schéma du squelette :
 
-- différentes parties du corps (tête, tronc, membres, ceintures)
+-différentes parties du corps (tête, tronc, membres, ceintures)
 
-- os les constituant
+-os les constituant
 
 |
 
@@ -2728,11 +2728,11 @@ X
 
 Indiquer les différents types d'articulations (fibreuse, cartilagineuse, synoviale), en donner des exemples Légender un schéma d'articulation :
 
-- synoviale,
+-synoviale,
 
-- cartilagineuse,
+-cartilagineuse,
 
-- vertébrale
+-vertébrale
 
 |
 
@@ -2764,17 +2764,17 @@ X
 
 11.7 Physiopathologie :
 
-- ostéoporose,
+-ostéoporose,
 
-- arthrose, arthrite,
+-arthrose, arthrite,
 
-- fracture, entorse
+-fracture, entorse
 
-- luxation
+-luxation
 
-- lordose, cyphose, scoliose,
+-lordose, cyphose, scoliose,
 
-- troubles musculosquelettiques
+-troubles musculosquelettiques
 
 (en lien avec le programme de PSE et PRAP 2S ou référentiels de formations en vigueur)
 
@@ -2782,17 +2782,13 @@ X
 
 Pour chacune de ces pathologies :
 
-- donner une définition
+-donner une définition
 
-- citer les mécanismes d'apparition - justifier les facteurs favorisants, les modes de propagation
+-citer les mécanismes d'apparition-justifier les facteurs favorisants, les modes de propagation
 
-- énoncer les signes cliniques, les conséquences et évolution potentielles
+-énoncer les signes cliniques, les conséquences et évolution potentielles
 
-- justifier les moyens de prévention et les traitements
-
-|
-
-X
+-justifier les moyens de prévention et les traitements
 
 |
 
@@ -2800,7 +2796,11 @@ X
 
 |
 
-12 - Appareil digestif
+X
+
+|
+
+12-Appareil digestif
 
 |
 
@@ -2890,19 +2890,15 @@ troubles digestifs (vomissements, diarrhée, constipation), gastro-entérites
 
 Pour chaque pathologie :
 
-- donner une définition
+-donner une définition
 
-- citer l'agent responsable ou les mécanismes d'apparition
+-citer l'agent responsable ou les mécanismes d'apparition
 
-- justifier les facteurs favorisants, les modes de propagation
+-justifier les facteurs favorisants, les modes de propagation
 
-- énoncer les signes cliniques, les conséquences et évolution potentielles
+-énoncer les signes cliniques, les conséquences et évolution potentielles
 
-- justifier les moyens de prévention et les traitements
-
-|
-
-X
+-justifier les moyens de prévention et les traitements
 
 |
 
@@ -2910,7 +2906,11 @@ X
 
 |
 
-13 - Régulation de la glycémie
+X
+
+|
+
+13-Régulation de la glycémie
 
 |
 
@@ -2944,13 +2944,13 @@ Diabète de type 2
 
 Pour chaque pathologie :
 
-- donner une définition - expliquer le mécanisme d'apparition
+-donner une définition-expliquer le mécanisme d'apparition
 
-- justifier les facteurs favorisants
+-justifier les facteurs favorisants
 
-- énoncer les signes cliniques, les conséquences et évolution potentielles
+-énoncer les signes cliniques, les conséquences et évolution potentielles
 
-- justifier les moyens de prévention, de surveillance et les traitements
+-justifier les moyens de prévention, de surveillance et les traitements
 
 |
 
@@ -3086,13 +3086,13 @@ Douleur, troubles de l'équilibre, Parkinson, Démences séniles, Alzheimer,
 
 Pour chaque pathologie :
 
-- donner une définition - citer les mécanismes d'apparition
+-donner une définition-citer les mécanismes d'apparition
 
-- justifier les facteurs favorisants, les modes de propagation
+-justifier les facteurs favorisants, les modes de propagation
 
-- énoncer les signes cliniques, les conséquences potentielles
+-énoncer les signes cliniques, les conséquences potentielles
 
-- justifier les moyens de prévention et les traitements
+-justifier les moyens de prévention et les traitements
 
 Définir l'épilepsie
 
@@ -3130,7 +3130,7 @@ X
 
 |
 
-15 - Œil
+15-Œil
 
 |
 
@@ -3170,31 +3170,27 @@ X
 
 15.3 Physiopathologie :
 
-- Défauts de la vision (myopie, presbytie)
+-Défauts de la vision (myopie, presbytie)
 
-- Strabisme
+-Strabisme
 
-- Cataracte
+-Cataracte
 
-- Dégénérescence maculaire liée à l'âge
+-Dégénérescence maculaire liée à l'âge
 
 |
 
 Pour chaque pathologie :
 
-- donner une définition
+-donner une définition
 
-- citer les mécanismes d'apparition
+-citer les mécanismes d'apparition
 
-- justifier les facteurs favorisants
+-justifier les facteurs favorisants
 
-- énoncer les signes cliniques, les conséquences et évolution potentielles
+-énoncer les signes cliniques, les conséquences et évolution potentielles
 
-- justifier les traitements
-
-|
-
-X
+-justifier les traitements
 
 |
 
@@ -3202,7 +3198,11 @@ X
 
 |
 
-16 - Oreille
+X
+
+|
+
+16-Oreille
 
 |
 
@@ -3212,7 +3212,7 @@ X
 
 Légender un schéma de l'oreille
 
-Préciser le(s) rôle(s) des différentes parties de l'oreille
+Préciser le (s) rôle (s) des différentes parties de l'oreille
 
 |
 
@@ -3272,7 +3272,7 @@ X
 
 |
 
-17 - Explorations et moyens diagnostics
+17-Explorations et moyens diagnostics
 
 |
 
@@ -3288,15 +3288,11 @@ Examen par enregistrement graphique (électrocardiogramme, électroencéphalogra
 
 Pour chaque examen :
 
-- énoncer de façon simple le principe
+-énoncer de façon simple le principe
 
-- indiquer l'utilité
+-indiquer l'utilité
 
-- donner un exemple d'utilisation pour une pathologie donnée
-
-|
-
-X
+-donner un exemple d'utilisation pour une pathologie donnée
 
 |
 
@@ -3304,7 +3300,11 @@ X
 
 |
 
-18 - Diversité du monde microbien
+X
+
+|
+
+18-Diversité du monde microbien
 
 |
 
@@ -3318,9 +3318,9 @@ Définir une cellule eucaryote et une cellule procaryote et en caractériser la 
 
 Indiquer des exemples de micro-organismes
 
-- responsables de maladies,
+-responsables de maladies,
 
-- utilisés dans les industries agro-alimentaires, pharmaceutiques
+-utilisés dans les industries agro-alimentaires, pharmaceutiques
 
 |
 
@@ -3360,7 +3360,7 @@ X
 
 |
 
-19 - Bactéries
+19-Bactéries
 
 |
 
@@ -3396,11 +3396,11 @@ X
 
 Distinguer les différents types de bactéries selon :
 
-- la source de carbone utilisée
+-la source de carbone utilisée
 
-- la source d'énergie utilisée
+-la source d'énergie utilisée
 
-- les besoins en dioxygène
+-les besoins en dioxygène
 
 Définir les bactéries, aérobies, anaérobies, aéro-anaérobies
 
@@ -3438,7 +3438,7 @@ X
 
 |
 
-20 - Pouvoir pathogène des bactéries
+20-Pouvoir pathogène des bactéries
 
 |
 
@@ -3446,21 +3446,21 @@ X
 
 Définir le pouvoir pathogène
 
-- Distinguer les bactéries pathogènes spécifiques et les bactéries pathogènes opportunistes
+-Distinguer les bactéries pathogènes spécifiques et les bactéries pathogènes opportunistes
 
 Définir un porteur asymptomatique
 
 Définir le pouvoir invasif
 
-- Indiquer les facteurs favorisant le pouvoir invasif des bactéries
+-Indiquer les facteurs favorisant le pouvoir invasif des bactéries
 
-- Donner des exemples de bactéries agissant par leur pouvoir invasif
+-Donner des exemples de bactéries agissant par leur pouvoir invasif
 
 Définir le pouvoir toxique
 
-- Indiquer les caractéristiques des deux groupes de toxines produites par les bactéries
+-Indiquer les caractéristiques des deux groupes de toxines produites par les bactéries
 
-- Énoncer les propriétés des deux catégories de toxines
+-Énoncer les propriétés des deux catégories de toxines
 
 Indiquer les toxines importantes en pathologie infectieuse (tétanique, botulinique,...)
 
@@ -3482,11 +3482,11 @@ Définir l'infection
 
 À partir d'un exemple de maladie infectieuse :
 
-- Présenter les différentes voies de pénétration des microorganismes dans l'organisme
+-Présenter les différentes voies de pénétration des microorganismes dans l'organisme
 
-- Définir les phases d'incubation, d'invasion, d'état
+-Définir les phases d'incubation, d'invasion, d'état
 
-- Décrire les différentes phases de l'infection : multiplication des micro-organismes localement, réaction inflammatoire, propagation ou non dans l'organisme, rôles des ganglions lymphatiques, libération ou non de toxines, rôles de l'immunité non spécifique et de l'immunité spécifique
+-Décrire les différentes phases de l'infection : multiplication des micro-organismes localement, réaction inflammatoire, propagation ou non dans l'organisme, rôles des ganglions lymphatiques, libération ou non de toxines, rôles de l'immunité non spécifique et de l'immunité spécifique
 
 Décrire les principaux signes cliniques (rougeurs oedèmes, diarrhées, vomissements...)
 
@@ -3524,11 +3524,11 @@ X
 
 |
 
-21 - Virus
+21-Virus
 
 |
 
-21.1 Structure.et reproduction
+21.1 Structure. et reproduction
 
 |
 
@@ -3556,17 +3556,13 @@ Deux exemples de maladie virale : l'hépatite B, la grippe
 
 Pour chaque maladie :
 
-- Indiquer et décrire l'agent responsable
+-Indiquer et décrire l'agent responsable
 
-- Énoncer les principaux signes cliniques et la conduite à tenir
+-Énoncer les principaux signes cliniques et la conduite à tenir
 
-- Indiquer les complications
+-Indiquer les complications
 
-- Présenter les moyens de prévention
-
-|
-
-X
+-Présenter les moyens de prévention
 
 |
 
@@ -3574,7 +3570,11 @@ X
 
 |
 
-22 - Système immunitaire
+X
+
+|
+
+22-Système immunitaire
 
 |
 
@@ -3616,7 +3616,7 @@ Caractériser les deux types de réponses immunitaires
 
 Définir un antigène, un anticorps
 
-Décrire la réaction antigène - anticorps
+Décrire la réaction antigène-anticorps
 
 Énumérer les différents types de cellules intervenant dans la réponse immunitaire et préciser leur rôle
 
@@ -3664,7 +3664,7 @@ Allergies
 
 Définir une allergie
 
-Indiquer la cause (contact allergène / anticorps)
+Indiquer la cause (contact allergène/ anticorps)
 
 Lister les principaux allergènes
 
@@ -3682,7 +3682,7 @@ X
 
 |
 
-23 - Maladies infectieuses de l'enfant
+23-Maladies infectieuses de l'enfant
 
 |
 
@@ -3692,17 +3692,13 @@ X
 
 Pour chaque maladie :
 
-- l'agent responsable
+-l'agent responsable
 
-- citer les principaux signes cliniques,
+-citer les principaux signes cliniques,
 
-- indiquer les complications possibles
+-indiquer les complications possibles
 
-- les moyens de prévention
-
-|
-
-X
+-les moyens de prévention
 
 |
 
@@ -3710,7 +3706,11 @@ X
 
 |
 
-24 - Infections nosocomiales et infections associées aux soins
+X
+
+|
+
+24-Infections nosocomiales et infections associées aux soins
 
 |
 
@@ -3791,3 +3791,7 @@ X
 |
 
 .
+
+NOTA :
+
+Conformément à l’article 8 de l’arrêté du 2 février 2022, ces dispositions s’appliquent à l'issue de la dernière session d’examen qui aura lieu en 2024.

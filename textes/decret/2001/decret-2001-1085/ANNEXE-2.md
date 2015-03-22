@@ -18,7 +18,7 @@ RETENU PAR
 
 le président du
 
-conseil général
+conseil départemental
 
 |
 
@@ -100,9 +100,9 @@ personnalisée d'autonomie en
 
 établissement des autres départements
 
-que celui du président du conseil
+que celui du président du
 
-général tarificateur = G.
+conseil départemental tarificateur = G.
 
 |
 

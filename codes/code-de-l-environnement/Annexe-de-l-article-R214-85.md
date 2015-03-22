@@ -24,7 +24,7 @@ Vu les pièces de l'instruction ;
 
 Vu l'avis de la commission départementale de la nature, des paysages et des sites en date du...... (3) ;
 
-Vu l'avis du conseil général du département en date du...... ;
+Vu l'avis du conseil départemental du département en date du...... ;
 
 Vu l'avis du conseil départemental de l'environnement et des risques sanitaires et technologiques en date du...... ;
 
@@ -322,9 +322,9 @@ Article 25
 
 Réserves en force (46)
 
-La puissance totale instantanée que le permissionnaire laissera dans le département de......, pour être rétrocédée par les soins du conseil général au profit des services publics de l'Etat, du département, des communes, des établissements publics ou des associations syndicales autorisées et des groupements agricoles d'utilité générale, ainsi qu'aux entreprises industrielles ou artisanales qui s'installent, se développent et créent ou maintiennent des emplois, sera au total de...... (47).
+La puissance totale instantanée que le permissionnaire laissera dans le département de......, pour être rétrocédée par les soins du conseil départemental au profit des services publics de l'Etat, du département, des communes, des établissements publics ou des associations syndicales autorisées et des groupements agricoles d'utilité générale, ainsi qu'aux entreprises industrielles ou artisanales qui s'installent, se développent et créent ou maintiennent des emplois, sera au total de...... (47).
 
-Pendant la première année à compter de l'achèvement des travaux, les demandes du conseil général devront être satisfaites par le permissionnaire sans préavis. Passé ce délai et jusqu'à l'expiration de la dixième année à compter de l'achèvement des travaux, le permissionnaire ne sera tenu de satisfaire aux demandes qu'après un préavis de six mois. Au-delà de la dixième année et jusqu'à l'expiration de l'autorisation, le préavis sera de douze mois.
+Pendant la première année à compter de l'achèvement des travaux, les demandes du conseil départemental devront être satisfaites par le permissionnaire sans préavis. Passé ce délai et jusqu'à l'expiration de la dixième année à compter de l'achèvement des travaux, le permissionnaire ne sera tenu de satisfaire aux demandes qu'après un préavis de six mois. Au-delà de la dixième année et jusqu'à l'expiration de l'autorisation, le préavis sera de douze mois.
 
 Article 26
 

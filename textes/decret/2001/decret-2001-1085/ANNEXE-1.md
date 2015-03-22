@@ -124,9 +124,9 @@ montant
 
 l'aide ménagère versée par les
 
-caisses de retraite (le conseil
+caisses de retraite (le
 
-général prendra directement
+conseil départemental prendra directement
 
 l'attache de votre caisse de
 
@@ -176,7 +176,7 @@ Attention : l'allocation personnalisée d'autonomie n'est cumulable ni avec la p
 
 Déclaration sur l'honneur
 
-Autorisation de transmission par le conseil général du dossier aux caisses de retraite (en cas de rejet d'allocation personnalisée d'autonomie).
+Autorisation de transmission par le conseil départemental du dossier aux caisses de retraite (en cas de rejet d'allocation personnalisée d'autonomie).
 
 II.-Liste des pièces justificatives à joindre
 

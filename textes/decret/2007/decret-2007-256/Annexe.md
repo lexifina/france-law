@@ -78,7 +78,7 @@ des produits locaux.
 
 Département des Alpes-Maritimes |
 
-Conseil général des Alpes-Maritimes.
+Conseil départemental des Alpes-Maritimes.
 
 |
 
@@ -146,7 +146,7 @@ Aménagement du fort Condé.
 
 |
 
-Conseil général des Ardennes.
+Conseil départemental des Ardennes.
 
 |
 
@@ -168,13 +168,13 @@ en Ariège.
 
 |
 
-Conseil général de l'Ariège.
+Conseil départemental de l'Ariège.
 
 |
 
 Projet de valorisation du palais des évêques de Saint-Lizier. |
 
-Conseil général de l'Ariège. |
+Conseil départemental de l'Ariège. |
 
 Projet de valorisation et d'extension du parc de la Préhistoire de Tarascon-sur-Ariège.
 
@@ -288,7 +288,7 @@ Maison de la Salers.
 
 |
 
-Conseil général du Cantal et centre hospitalier d'Aurillac.
+Conseil départemental du Cantal et centre hospitalier d'Aurillac.
 
 |
 
@@ -308,7 +308,7 @@ Pôle d'excellence rural chanvre.
 
 |
 
-Conseil général de la Charente.
+Conseil départemental de la Charente.
 
 |
 
@@ -342,7 +342,7 @@ Pôle mécanique deux-roues des Vals de Saintonge.
 
 |
 
-Conseil général de la Charente-Maritime. |
+Conseil départemental de la Charente-Maritime. |
 
 centre d'application des techniques de traction animale.
 
@@ -368,7 +368,7 @@ Création d'un centre de formation aux techniques évoluées d'usinage mécaniqu
 
 |
 
-Conseil général du Cher.
+Conseil départemental du Cher.
 
 |
 
@@ -404,9 +404,7 @@ TIC en Haute Corrèze.
 
 |
 
-Syndicat mixte de gestion du parc naturel régional de Millevaches
-
-en Limousin.
+Syndicat mixte de gestion du parc naturel régional de Millevaches en Limousin.
 
 |
 
@@ -420,7 +418,7 @@ Département de la Corse-du-Sud
 
 |
 
-Conseil général de la Corse-du-Sud.
+Conseil départemental de la Corse-du-Sud.
 
 |
 
@@ -438,7 +436,7 @@ La Balagne, scène offerte à l'excellence.
 
 |
 
-Conseil général de la Haute-Corse.
+Conseil départemental de la Haute-Corse.
 
 |
 
@@ -610,7 +608,7 @@ Le plateau du Neubourg, terre de cultures. |
 
 Département d'Eure-et-Loir |
 
-Conseil général d'Eure-et-Loir. |
+Conseil départemental d'Eure-et-Loir. |
 
 Agrodynamic : synergie des initiatives de valorisation durable et innovante des
 
@@ -1056,7 +1054,7 @@ Structurer et développer le tourisme équestre en Margeride Aubrac.
 
 |
 
-Conseil général de la Lozère. |
+Conseil départemental de la Lozère. |
 
 Accueil chasse et pêche en Lozère : une dynamique de territoire.
 
@@ -1762,7 +1760,7 @@ Département du Var
 
 |
 
-Conseil général du Var.
+Conseil départemental du Var.
 
 |
 
@@ -1800,7 +1798,7 @@ La pépinière d'entreprises rurales de la Grange, à Gaudon.
 
 |
 
-Conseil général de la Vienne.
+Conseil départemental de la Vienne.
 
 |
 
@@ -1880,7 +1878,7 @@ Les fruits tropicaux dans le nord de la Martinique.
 
 |
 
-Conseil général de la Marinique.
+Conseil général de la Martinique.
 
 |
 

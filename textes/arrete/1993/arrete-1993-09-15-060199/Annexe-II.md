@@ -18,7 +18,7 @@ La personne accueillie dans les appartements doit être majeure.
 
 Article 4
 
-Si la personne accueillie souhaite être hébergée avec ses enfants mineurs, l'association doit s'assurer qu'elle est bien titulaire de l'autorité parentale et qu'elle ou un membre de la famille, ou à défaut le conseil général de son lieu de résidence, peut en assurer la prise en charge financière.
+Si la personne accueillie souhaite être hébergée avec ses enfants mineurs, l'association doit s'assurer qu'elle est bien titulaire de l'autorité parentale et qu'elle ou un membre de la famille, ou à défaut le conseil départemental de son lieu de résidence, peut en assurer la prise en charge financière.
 
 Article 5
 
@@ -56,4 +56,4 @@ Un double des clefs de chaque appartement est détenu par le personnel d'encadre
 
 NOTA :
 
-Une nouvelle version de cet article modifié par le décret n° 2013-938 du 18 octobre 2013 portant application de la loi n° 2013-403 du 17 mai 2013 relative à l'élection des conseillers départementaux, des conseillers municipaux et des conseillers communautaires, et modifiant le calendrier électoral s'appliquera aux élections organisées les 23 et 30 mars 2014 à l'occasion du prochain renouvellement général des conseils municipaux et communautaires, y compris aux opérations préparatoires à ce scrutin.
+Cet article a été modifié par le décret n° 2013-938 du 18 octobre 2013 portant application de la loi n° 2013-403 du 17 mai 2013 relative à l'élection des conseillers départementaux, des conseillers municipaux et des conseillers communautaires, et modifiant le calendrier électoral. Conformément à son article 71, l'article dans sa version modifiée par le décret du 18 octobre 2013 s'applique à compter du prochain renouvellement général des conseils municipaux et communautaires prévu les 23 et 30 mars 2014, y compris aux opérations préparatoires à ce scrutin.

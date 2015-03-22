@@ -102,15 +102,11 @@ fonctions exercées au titre de l'article 53 de la loi du 26 janvier 1984 modifi
 
 |
 
-11. Encadrement d'un service administratif requérant une technicité en matière de gestion des
-
-ressources humaines, de gestion des achats et des marchés publics, de gestion financière, de
+11. Encadrement d'un service administratif requérant une technicité en matière de gestion des ressources humaines, de gestion des achats et des marchés publics, de gestion financière, de
 
 gestion immobilière et foncière, de contentieux ou d'actions liées au développement et à
 
-l'aménagement de la collectivité, à l'exception des fonctions exercées au titre de l'article 53 de la loi
-
-du 26 janvier1984 modifiée. |
+l'aménagement de la collectivité, à l'exception des fonctions exercées au titre de l'article 53 de la loi du 26 janvier 1984 modifiée. |
 
 25
 
@@ -118,15 +114,13 @@ du 26 janvier1984 modifiée. |
 
 12. Fonctionnaire détaché sur un emploi fonctionnel de directeur général adjoint mentionné à
 
-l'article 53 de la loi n° 84-53 du 26 janvier 1984 et ne relevant pas des dispositions du décret n° 2001-
-
-1274 du 27 décembre 2001 et du décret n° 2001-1367 du 28 décembre 2001. |
+l'article 53 de la loi n° 84-53 du 26 janvier 1984 et ne relevant pas des dispositions du décret n° 2001-1274 du 27 décembre 2001 et du décret n° 2001-1367 du 28 décembre 2001. |
 
 25
 
 |
 
-13. Secrétariat à titre exclusif et avec des obligations spéciales, notamment en matière d’horaires.
+13. Secrétariat à titre exclusif et avec des obligations spéciales, notamment en matière d'horaires.
 
 |
 
@@ -134,17 +128,13 @@ l'article 53 de la loi n° 84-53 du 26 janvier 1984 et ne relevant pas des dispo
 
 |
 
-14. Direction pédagogique et administrative des écoles de musique agréées par l'Etat, des écoles
-
-de musique non agréées et des écoles d'arts plastiques qui ne sont pas habilitées à dispenser tout
-
-ou partie de l'enseignement conduisant à un diplôme d'Etat ou à un diplôme agréé par l'Etat. |
+14. Direction pédagogique et administrative des écoles de musique agréées par l'Etat, des écoles de musique non agréées et des écoles d'arts plastiques qui ne sont pas habilitées à dispenser tout ou partie de l'enseignement conduisant à un diplôme d'Etat ou à un diplôme agréé par l'Etat. |
 
 30
 
 |
 
-15. Chef d'établissement d'un musée ayant reçu l'appellation "musée de France".
+15. Chef d'établissement d'un musée ayant reçu l'appellation "musée de Francef".
 
 |
 
@@ -198,9 +188,7 @@ agents : 10
 
 Agent ayant sous ses
 
-ordres entre cinq et vingtcinq
-
-agents : 15
+ordres entre cinq et vingt-cinq agents : 15
 
 Agent ayant sous ses
 
@@ -306,15 +294,7 @@ Nombre de points attribués
 
 |
 
-33. Dans les conseils régionaux, les conseils généraux, les communes de plus de 5000 habitants ou les
-
-établissements publics communaux et intercommunaux en relevant, les établissements
-
-publics locaux d'enseignement, le Centre National de la Fonction Publique territoriale et ses
-
-délégations régionales et interdépartementales, les centres de gestion, les OPHLM
-
-départementaux ou interdépartementaux.
+33. Dans les conseils régionaux, les conseils départementaux, les communes de plus de 5000 habitants ou les établissements publics communaux et intercommunaux en relevant, les établissements publics locaux d'enseignement, le Centre National de la Fonction Publique territoriale et ses délégations régionales et interdépartementales, les centres de gestion, les OPHLM départementaux ou interdépartementaux.
 
 |
 
@@ -328,9 +308,7 @@ qualité de fonctionnaire a été maintenue.
 
 10 |
 
-4. FONCTIONS IMPLIQUANT UNE TECHNICITÉ ET UNE POLYVALENCE PARTICULIÈRES
-
-LIÉES À L'EXERCICE DANS CERTAINES COLLECTIVITÉS OU DANS LEURS ÉTABLISSEMENTS PUBLICS ASSIMILÉS
+4. FONCTIONS IMPLIQUANT UNE TECHNICITÉ ET UNE POLYVALENCE PARTICULIÈRES LIÉES À L'EXERCICE DANS CERTAINES COLLECTIVITÉS OU DANS LEURS ÉTABLISSEMENTS PUBLICS ASSIMILÉS
 
 DESIGNATION DES FONCTIONS ELIGIBLES
 
@@ -356,11 +334,7 @@ Nombre de points attribués
 
 15 |
 
-37. Direction des établissements publics locaux ne figurant pas sur la liste prévue au deuxième
-
-alinéa de l'article 53 de la loi du 26 janvier 1984 modifiée susvisée et assimilables à une commune de
-
-plus de 2000 habitants (selon les critères prévus par le décret n° 88-546 du 06 mai 1988 relatif aux
+37. Direction des établissements publics locaux ne figurant pas sur la liste prévue au deuxième alinéa de l'article 53 de la loi du 26 janvier 1984 modifiée susvisée et assimilables à une commune de plus de 2000 habitants (selon les critères prévus par le décret n° 88-546 du 6 mai 1988 relatif aux
 
 emplois fonctionnels dans les établissements publics).
 
@@ -372,9 +346,7 @@ emplois fonctionnels dans les établissements publics).
 
 deuxième alinéa de l'article 53 de la loi du 26 janvier 1984 modifiée susvisée et assimilable à une
 
-commune de moins de 2000 habitants selon les critères du décret n° 88-546 du
-
-06 mai 1988 relatif aux emplois fonctionnels dans les établissements publics. |
+commune de moins de 2000 habitants selon les critères du décret n° 88-546 du 6 mai 1988 relatif aux emplois fonctionnels dans les établissements publics. |
 
 15 |
 
@@ -392,7 +364,7 @@ De 3001 à 5000 logements : 35
 
 habitants ou dans les établissements publics locaux assimilables à une commune de plus de 20 000
 
-habitants, selon les critères prévus par le décret n° 88-546 du 06 mai 1988 relatif aux emplois
+habitants, selon les critères prévus par le décret n° 88-546 du 6 mai 1988 relatif aux emplois
 
 fonctionnels dans les établissements publics locaux, et disposant de plus de 30 000 ouvrages ou
 
@@ -408,9 +380,7 @@ tâches techniques dans les communes de moins de 2000 habitants et dans des éta
 
 publics locaux assimilables à une commune de moins de 2000 habitants (selon les critères prévus
 
-par le décret n° 2000-954 du 22 septembre 2000 relatif aux emplois fonctionnels dans les établissements
-
-publics) ou à des tâches techniques au sein d'un monument historique.
+par le décret n° 2000-954 du 22 septembre 2000 relatif aux emplois fonctionnels dans les établissements publics) ou à des tâches techniques au sein d'un monument historique.
 
 |
 
@@ -420,9 +390,7 @@ publics) ou à des tâches techniques au sein d'un monument historique.
 
 établissements publics locaux assimilables à une commune de plus de 2000 habitants (selon
 
-critères précisés par le décret n° 2000-954 du 22 septembre 2000 relatif aux emplois fonctionnels dans les
-
-établissements publics).
+critères précisés par le décret n° 2000-954 du 22 septembre 2000 relatif aux emplois fonctionnels dans les établissements publics).
 
 |
 

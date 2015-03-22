@@ -18,7 +18,7 @@ Ces recommandations générales de sécurité ne se substituent en aucun cas aux
 
 a) Dangerosité de l'amiante
 
-Les maladies liées à l'amiante sont provoquées par l'inhalation des fibres. Toutes les variétés d'amiante sont classées comme substances cancérogènes avérées pour l'homme. Elles sont à l'origine de cancers qui peuvent atteindre soit la plèvre qui entoure les poumons (mésothéliomes), soit les bronches et/ou les poumons (cancers broncho-pulmonaires). Ces lésions surviennent longtemps (souvent entre 20 à 40 ans) après le début de l'exposition à l'amiante. Le Centre international de recherche sur le cancer (CIRC) a également établi récemment un lien entre exposition à l'amiante et cancers du larynx et des ovaires. D'autres pathologies, non cancéreuses, peuvent également survenir en lien avec une exposition à l'amiante. Il s'agit exceptionnellement d'épanchements pleuraux (liquide dans la plèvre) qui peuvent être récidivants ou de plaques pleurales (qui épaississent la plèvre). Dans le cas d'empoussièrement important, habituellement d'origine professionnelle, l'amiante peut provoquer une sclérose (asbestose) qui réduira la capacité respiratoire et peut dans les cas les plus graves produire une insuffisance respiratoire parfois mortelle. Le risque de cancer du poumon peut être majoré par l'exposition à d'autres agents cancérogènes, comme la fumée du tabac.
+Les maladies liées à l'amiante sont provoquées par l'inhalation des fibres. Toutes les variétés d'amiante sont classées comme substances cancérogènes avérées pour l'homme. Elles sont à l'origine de cancers qui peuvent atteindre soit la plèvre qui entoure les poumons (mésothéliomes), soit les bronches et/ ou les poumons (cancers broncho-pulmonaires). Ces lésions surviennent longtemps (souvent entre 20 à 40 ans) après le début de l'exposition à l'amiante. Le Centre international de recherche sur le cancer (CIRC) a également établi récemment un lien entre exposition à l'amiante et cancers du larynx et des ovaires. D'autres pathologies, non cancéreuses, peuvent également survenir en lien avec une exposition à l'amiante. Il s'agit exceptionnellement d'épanchements pleuraux (liquide dans la plèvre) qui peuvent être récidivants ou de plaques pleurales (qui épaississent la plèvre). Dans le cas d'empoussièrement important, habituellement d'origine professionnelle, l'amiante peut provoquer une sclérose (asbestose) qui réduira la capacité respiratoire et peut dans les cas les plus graves produire une insuffisance respiratoire parfois mortelle. Le risque de cancer du poumon peut être majoré par l'exposition à d'autres agents cancérogènes, comme la fumée du tabac.
 
 b) Présence d'amiante dans des matériaux et produits en bon état de conservation
 
@@ -26,7 +26,7 @@ L'amiante a été intégré dans la composition de nombreux matériaux utilisés
 
 En fonction de leur caractéristique, les matériaux et produits contenant de l'amiante peuvent libérer des fibres d'amiante en cas d'usure ou lors d'interventions mettant en cause l'intégrité du matériau ou produit (par exemple perçage, ponçage, découpe, friction...). Ces situations peuvent alors conduire à des expositions importantes si des mesures de protection renforcées ne sont pas prises.
 
-Pour rappel, les matériaux et produits répertoriés aux listes A et B de l'annexe 13-9 du code de la santé publique font l'objet d'une évaluation de l'état de conservation dont les modalités sont définies par arrêté. Il convient de suivre les recommandations émises par les opérateurs de repérage dits "diagnostiqueurs" pour la gestion des matériaux ou produits repérés.
+Pour rappel, les matériaux et produits répertoriés aux listes A et B de l'annexe 13-9 du code de la santé publique font l'objet d'une évaluation de l'état de conservation dont les modalités sont définies par arrêté. Il convient de suivre les recommandations émises par les opérateurs de repérage dits " diagnostiqueurs " pour la gestion des matériaux ou produits repérés.
 
 De façon générale, il est important de veiller au maintien en bon état de conservation des matériaux et produits contenant de l'amiante et de remédier au plus tôt aux situations d'usure anormale ou de dégradation de ceux-ci.
 
@@ -38,7 +38,7 @@ Il est recommandé aux particuliers d'éviter dans la mesure du possible toute i
 
 Les entreprises réalisant des opérations sur matériaux et produits contenant de l'amiante sont soumises aux dispositions des articles R. 4412-94 à R. 4412-148 du code du travail. Les entreprises qui réalisent des travaux de retrait ou de confinement de matériaux et produits contenant de l'amiante doivent en particulier être certifiées dans les conditions prévues à l'article R. 4412-129. Cette certification est obligatoire à partir du 1er juillet 2013 pour les entreprises effectuant des travaux de retrait sur l'enveloppe extérieure des immeubles bâtis et à partir du 1er juillet 2014 pour les entreprises de génie civil.
 
-Des documents d'information et des conseils pratiques de prévention adaptés sont disponibles sur le site Travailler-mieux (http://www.travailler-mieux.gouv.fr) et sur le site de l'Institut national de recherche et de sécurité pour la prévention des accidents du travail et des maladies professionnelles (http://www.inrs.fr).
+Des documents d'information et des conseils pratiques de prévention adaptés sont disponibles sur le site Travailler-mieux (http :// www. travailler-mieux. gouv. fr) et sur le site de l'Institut national de recherche et de sécurité pour la prévention des accidents du travail et des maladies professionnelles (http :// www. inrs. fr).
 
 3. Recommandations générales de sécurité
 
@@ -50,11 +50,11 @@ Il convient d'éviter au maximum l'émission de poussières notamment lors d'int
 
 ― travaux réalisés à proximité d'un matériau contenant de l'amiante en bon état, par exemple des interventions légères dans des boîtiers électriques, sur des gaines ou des circuits situés sous un flocage sans action directe sur celui-ci, de remplacement d'une vanne sur une canalisation calorifugée à l'amiante.
 
-L'émission de poussières peut être limitée par humidification locale des matériaux contenant de l'amiante en prenant les mesures nécessaires pour éviter tout risque électrique et/ou en utilisant de préférence des outils manuels ou des outils à vitesse lente.
+L'émission de poussières peut être limitée par humidification locale des matériaux contenant de l'amiante en prenant les mesures nécessaires pour éviter tout risque électrique et/ ou en utilisant de préférence des outils manuels ou des outils à vitesse lente.
 
 Le port d'équipements adaptés de protection respiratoire est recommandé. Le port d'une combinaison jetable permet d'éviter la propagation de fibres d'amiante en dehors de la zone de travail. Les combinaisons doivent être jetées après chaque utilisation.
 
-Des informations sur le choix des équipements de protection sont disponibles sur le site internet amiante de l'INRS à l'adresse suivante : www.amiante.inrs.fr.
+Des informations sur le choix des équipements de protection sont disponibles sur le site internet amiante de l'INRS à l'adresse suivante : www. amiante. inrs. fr.
 
 De plus, il convient de disposer d'un sac à déchets à proximité immédiate de la zone de travail et d'une éponge ou d'un chiffon humide de nettoyage.
 
@@ -92,11 +92,11 @@ Les informations relatives aux déchèteries acceptant des déchets d'amiante li
 
 ― de la préfecture ou de la direction régionale de l'environnement, de l'aménagement et du logement (direction régionale et interdépartementale de l'environnement et de l'énergie en Ile-de-France) ou de la direction de l'environnement, de l'aménagement et du logement ;
 
-― du conseil général (ou conseil régional en Ile-de-France) au regard de ses compétences de planification sur les déchets dangereux ;
+― du conseil départemental (ou conseil régional en Ile-de-France) au regard de ses compétences de planification sur les déchets dangereux ;
 
 ― de la mairie ;
 
-― ou sur la base de données "déchets" gérée par l'Agence de l'environnement et de la maîtrise de l'énergie, directement accessible sur internet à l'adresse suivante : www.sinoe.org.
+― ou sur la base de données " déchets " gérée par l'Agence de l'environnement et de la maîtrise de l'énergie, directement accessible sur internet à l'adresse suivante : www. sinoe. org.
 
 e. Traçabilité
 

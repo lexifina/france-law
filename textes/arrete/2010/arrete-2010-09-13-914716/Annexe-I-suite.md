@@ -1,6 +1,6 @@
 # Article Annexe I (suite)
 
-II.18. TYPDEM2 Description : type de la demande niveau 2.
+II. 18. TYPDEM2 Description : type de la demande niveau 2.
 
 CODE
 
@@ -422,7 +422,7 @@ PCH élément 1 sans précision
 
 |
 
-PCH élément 1/Actes essentiels
+PCH élément 1/ Actes essentiels
 
 |
 
@@ -430,7 +430,7 @@ PCH élément 1/Actes essentiels
 
 |
 
-PCH élément 1/Entretien personnel
+PCH élément 1/ Entretien personnel
 
 |
 
@@ -438,7 +438,7 @@ PCH élément 1/Entretien personnel
 
 |
 
-PCH élément 1/Déplacements
+PCH élément 1/ Déplacements
 
 |
 
@@ -446,7 +446,7 @@ PCH élément 1/Déplacements
 
 |
 
-PCH élément 1/Participation à la vie sociale
+PCH élément 1/ Participation à la vie sociale
 
 |
 
@@ -462,7 +462,7 @@ PCH élément 1/ Besoins éducatifs
 
 |
 
-PCH élément 1/Surveillance
+PCH élément 1/ Surveillance
 
 |
 
@@ -470,7 +470,7 @@ PCH élément 1/Surveillance
 
 |
 
-PCH élément 1/Surveillance régulière
+PCH élément 1/ Surveillance régulière
 
 |
 
@@ -478,7 +478,7 @@ PCH élément 1/Surveillance régulière
 
 |
 
-PCH élément 1/Combinaison aide et surveillance seule
+PCH élément 1/ Combinaison aide et surveillance seule
 
 |
 
@@ -486,7 +486,7 @@ PCH élément 1/Combinaison aide et surveillance seule
 
 |
 
-PCH élément 1/Combinaison aide totale et présence constante
+PCH élément 1/ Combinaison aide totale et présence constante
 
 |
 
@@ -494,7 +494,7 @@ PCH élément 1/Combinaison aide totale et présence constante
 
 |
 
-PCH élément 1/Frais professionnels ou fonctions électives
+PCH élément 1/ Frais professionnels ou fonctions électives
 
 |
 
@@ -502,7 +502,7 @@ PCH élément 1/Frais professionnels ou fonctions électives
 
 |
 
-PCH élément 1/Forfait cécité
+PCH élément 1/ Forfait cécité
 
 |
 
@@ -510,7 +510,7 @@ PCH élément 1/Forfait cécité
 
 |
 
-PCH élément 1/Forfait surdité
+PCH élément 1/ Forfait surdité
 
 |
 
@@ -518,7 +518,7 @@ PCH élément 1/Forfait surdité
 
 |
 
-PCH élément 2/Aides techniques
+PCH élément 2/ Aides techniques
 
 |
 
@@ -526,7 +526,7 @@ PCH élément 2/Aides techniques
 
 |
 
-PCH élément 2/Aides techniques inscrites dans la LPP
+PCH élément 2/ Aides techniques inscrites dans la LPP
 
 |
 
@@ -534,7 +534,7 @@ PCH élément 2/Aides techniques inscrites dans la LPP
 
 |
 
-PCH élément 2/Lits médicaux
+PCH élément 2/ Lits médicaux
 
 |
 
@@ -542,7 +542,7 @@ PCH élément 2/Lits médicaux
 
 |
 
-PCH élément 2/Accessoires de lits médicaux
+PCH élément 2/ Accessoires de lits médicaux
 
 |
 
@@ -550,7 +550,7 @@ PCH élément 2/Accessoires de lits médicaux
 
 |
 
-PCH élément 2/Compresseur pour surmatelas pneumatique à air statique et à pression alternée
+PCH élément 2/ Compresseur pour surmatelas pneumatique à air statique et à pression alternée
 
 |
 
@@ -558,7 +558,7 @@ PCH élément 2/Compresseur pour surmatelas pneumatique à air statique et à pr
 
 |
 
-PCH élément 2/Coussins d'aide à la prévention des escarres
+PCH élément 2/ Coussins d'aide à la prévention des escarres
 
 |
 
@@ -566,7 +566,7 @@ PCH élément 2/Coussins d'aide à la prévention des escarres
 
 |
 
-PCH élément 2/Coussins ischiatiques sur mesure
+PCH élément 2/ Coussins ischiatiques sur mesure
 
 |
 
@@ -574,7 +574,7 @@ PCH élément 2/Coussins ischiatiques sur mesure
 
 |
 
-PCH élément 2/Accessoires pour coussins
+PCH élément 2/ Accessoires pour coussins
 
 |
 
@@ -582,7 +582,7 @@ PCH élément 2/Accessoires pour coussins
 
 |
 
-PCH élément 2/Matelas ou sur matelas d'aide à la prévention d'escarres de classe I
+PCH élément 2/ Matelas ou sur matelas d'aide à la prévention d'escarres de classe I
 
 |
 
@@ -590,7 +590,7 @@ PCH élément 2/Matelas ou sur matelas d'aide à la prévention d'escarres de cl
 
 |
 
-PCH élément 2/Accessoires de protection du matelas ou surmatelas
+PCH élément 2/ Accessoires de protection du matelas ou surmatelas
 
 |
 
@@ -598,7 +598,7 @@ PCH élément 2/Accessoires de protection du matelas ou surmatelas
 
 |
 
-PCH élément 2/Appareil modulaire de verticalisation
+PCH élément 2/ Appareil modulaire de verticalisation
 
 |
 
@@ -606,7 +606,7 @@ PCH élément 2/Appareil modulaire de verticalisation
 
 |
 
-PCH élément 2/Cannes et béquilles
+PCH élément 2/ Cannes et béquilles
 
 |
 
@@ -614,7 +614,7 @@ PCH élément 2/Cannes et béquilles
 
 |
 
-PCH élément 2/Coussins de série de positionnement des hanches et des genoux, pour patients polyhandicapés, en position allongée
+PCH élément 2/ Coussins de série de positionnement des hanches et des genoux, pour patients polyhandicapés, en position allongée
 
 |
 
@@ -622,7 +622,7 @@ PCH élément 2/Coussins de série de positionnement des hanches et des genoux, 
 
 |
 
-PCH élément 2/Déambulateurs et prestation de livraison
+PCH élément 2/ Déambulateurs et prestation de livraison
 
 |
 
@@ -630,7 +630,7 @@ PCH élément 2/Déambulateurs et prestation de livraison
 
 |
 
-PCH élément 2/Fauteuil roulant à la location et prestation de livraison
+PCH élément 2/ Fauteuil roulant à la location et prestation de livraison
 
 |
 
@@ -638,7 +638,7 @@ PCH élément 2/Fauteuil roulant à la location et prestation de livraison
 
 |
 
-PCH élément 2/Sièges pouvant être adaptés sur un châssis à roulettes
+PCH élément 2/ Sièges pouvant être adaptés sur un châssis à roulettes
 
 |
 
@@ -646,7 +646,7 @@ PCH élément 2/Sièges pouvant être adaptés sur un châssis à roulettes
 
 |
 
-PCH élément 2/Appareils destinés au soulèvement du malade
+PCH élément 2/ Appareils destinés au soulèvement du malade
 
 |
 
@@ -654,7 +654,7 @@ PCH élément 2/Appareils destinés au soulèvement du malade
 
 |
 
-PCH élément 2/Appareils divers d'aide à la vie
+PCH élément 2/ Appareils divers d'aide à la vie
 
 |
 
@@ -662,7 +662,7 @@ PCH élément 2/Appareils divers d'aide à la vie
 
 |
 
-PCH élément 2/Appareils électroniques correcteurs de surdité pour les patients non atteints de cécité et dont la perte auditive est inférieure ou égale à 70 db
+PCH élément 2/ Appareils électroniques correcteurs de surdité pour les patients non atteints de cécité et dont la perte auditive est inférieure ou égale à 70 db
 
 |
 
@@ -670,7 +670,7 @@ PCH élément 2/Appareils électroniques correcteurs de surdité pour les patien
 
 |
 
-PCH élément 2/Appareils électroniques correcteurs de surdité pour les patients non atteints de cécité et dont la perte auditive est supérieure à 70 db
+PCH élément 2/ Appareils électroniques correcteurs de surdité pour les patients non atteints de cécité et dont la perte auditive est supérieure à 70 db
 
 |
 
@@ -678,7 +678,7 @@ PCH élément 2/Appareils électroniques correcteurs de surdité pour les patien
 
 |
 
-PCH élément 2/Appareils électroniques correcteurs de surdité pour les patients jusqu'au 20e anniversaire ou atteints de cécité
+PCH élément 2/ Appareils électroniques correcteurs de surdité pour les patients jusqu'au 20e anniversaire ou atteints de cécité
 
 |
 
@@ -686,7 +686,7 @@ PCH élément 2/Appareils électroniques correcteurs de surdité pour les patien
 
 |
 
-PCH élément 2/Fauteuils roulants à propulsion manuelle
+PCH élément 2/ Fauteuils roulants à propulsion manuelle
 
 |
 
@@ -694,7 +694,7 @@ PCH élément 2/Fauteuils roulants à propulsion manuelle
 
 |
 
-PCH élément 2/Fauteuils roulants à propulsion par moteur électrique
+PCH élément 2/ Fauteuils roulants à propulsion par moteur électrique
 
 |
 
@@ -702,7 +702,7 @@ PCH élément 2/Fauteuils roulants à propulsion par moteur électrique
 
 |
 
-PCH élément 2/Fauteuils roulants verticalisateurs
+PCH élément 2/ Fauteuils roulants verticalisateurs
 
 |
 
@@ -710,7 +710,7 @@ PCH élément 2/Fauteuils roulants verticalisateurs
 
 |
 
-PCH élément 2/Fauteuil roulant électrique monte-marches
+PCH élément 2/ Fauteuil roulant électrique monte-marches
 
 |
 
@@ -718,7 +718,7 @@ PCH élément 2/Fauteuil roulant électrique monte-marches
 
 |
 
-PCH élément 2/Poussettes et fauteuils roulants à pousser
+PCH élément 2/ Poussettes et fauteuils roulants à pousser
 
 |
 
@@ -726,7 +726,7 @@ PCH élément 2/Poussettes et fauteuils roulants à pousser
 
 |
 
-PCH élément 2/Tricycles à propulsion manuelle ou podale
+PCH élément 2/ Tricycles à propulsion manuelle ou podale
 
 |
 
@@ -734,7 +734,7 @@ PCH élément 2/Tricycles à propulsion manuelle ou podale
 
 |
 
-PCH élément 2/Options et accessoires applicables aux fauteuils roulants
+PCH élément 2/ Options et accessoires applicables aux fauteuils roulants
 
 |
 
@@ -742,7 +742,7 @@ PCH élément 2/Options et accessoires applicables aux fauteuils roulants
 
 |
 
-PCH élément 2/Options et accessoires applicables aux véhicules divers
+PCH élément 2/ Options et accessoires applicables aux véhicules divers
 
 |
 
@@ -750,7 +750,7 @@ PCH élément 2/Options et accessoires applicables aux véhicules divers
 
 |
 
-PCH élément 2/Aides visuelles optiques
+PCH élément 2/ Aides visuelles optiques
 
 |
 
@@ -758,7 +758,7 @@ PCH élément 2/Aides visuelles optiques
 
 |
 
-PCH élément 2/Aides visuelle électroniques
+PCH élément 2/ Aides visuelle électroniques
 
 |
 
@@ -766,7 +766,7 @@ PCH élément 2/Aides visuelle électroniques
 
 |
 
-PCH élément 2/Autres aides techniques inscrites dans la LPP
+PCH élément 2/ Autres aides techniques inscrites dans la LPP
 
 |
 
@@ -774,7 +774,7 @@ PCH élément 2/Autres aides techniques inscrites dans la LPP
 
 |
 
-PCH élément 2/Aides techniques non inscrites dans la LPP
+PCH élément 2/ Aides techniques non inscrites dans la LPP
 
 |
 
@@ -782,7 +782,7 @@ PCH élément 2/Aides techniques non inscrites dans la LPP
 
 |
 
-PCH élément 2/Aides à la protection portées sur le corps
+PCH élément 2/ Aides à la protection portées sur le corps
 
 |
 
@@ -790,7 +790,7 @@ PCH élément 2/Aides à la protection portées sur le corps
 
 |
 
-PCH élément 2/Aides à l'habillage et au déshabillage
+PCH élément 2/ Aides à l'habillage et au déshabillage
 
 |
 
@@ -798,7 +798,7 @@ PCH élément 2/Aides à l'habillage et au déshabillage
 
 |
 
-PCH élément 2/Aides à l'hygiène
+PCH élément 2/ Aides à l'hygiène
 
 |
 
@@ -806,7 +806,7 @@ PCH élément 2/Aides à l'hygiène
 
 |
 
-PCH élément 2/Aides permettant de se laver, se baigner et se doucher
+PCH élément 2/ Aides permettant de se laver, se baigner et se doucher
 
 |
 
@@ -814,7 +814,7 @@ PCH élément 2/Aides permettant de se laver, se baigner et se doucher
 
 |
 
-PCH élément 2/Cyclomoteurs et motocyclettes
+PCH élément 2/ Cyclomoteurs et motocyclettes
 
 |
 
@@ -822,7 +822,7 @@ PCH élément 2/Cyclomoteurs et motocyclettes
 
 |
 
-PCH élément 2/Cycles
+PCH élément 2/ Cycles
 
 |
 
@@ -830,7 +830,7 @@ PCH élément 2/Cycles
 
 |
 
-PCH élément 2/Accessoires de fauteuils roulants
+PCH élément 2/ Accessoires de fauteuils roulants
 
 |
 
@@ -838,7 +838,7 @@ PCH élément 2/Accessoires de fauteuils roulants
 
 |
 
-PCH élément 2/Aides au transfert
+PCH élément 2/ Aides au transfert
 
 |
 
@@ -846,7 +846,7 @@ PCH élément 2/Aides au transfert
 
 |
 
-PCH élément 2/Aides à la préparation de la nourriture et des boissons
+PCH élément 2/ Aides à la préparation de la nourriture et des boissons
 
 |
 
@@ -854,7 +854,7 @@ PCH élément 2/Aides à la préparation de la nourriture et des boissons
 
 |
 
-PCH élément 2/Aides pour manger et boire
+PCH élément 2/ Aides pour manger et boire
 
 |
 
@@ -862,7 +862,7 @@ PCH élément 2/Aides pour manger et boire
 
 |
 
-PCH élément 2/Tables
+PCH élément 2/ Tables
 
 |
 
@@ -870,7 +870,7 @@ PCH élément 2/Tables
 
 |
 
-PCH élément 2/Mobilier d'assise (surcoût)
+PCH élément 2/ Mobilier d'assise (surcoût)
 
 |
 
@@ -878,7 +878,7 @@ PCH élément 2/Mobilier d'assise (surcoût)
 
 |
 
-PCH élément 2/Aides pour régler la hauteur du mobilier
+PCH élément 2/ Aides pour régler la hauteur du mobilier
 
 |
 
@@ -886,7 +886,7 @@ PCH élément 2/Aides pour régler la hauteur du mobilier
 
 |
 
-PCH élément 2/Equipement de sécurité pour la maison et autres locaux
+PCH élément 2/ Equipement de sécurité pour la maison et autres locaux
 
 |
 
@@ -894,7 +894,7 @@ PCH élément 2/Equipement de sécurité pour la maison et autres locaux
 
 |
 
-PCH élément 2/Aides optiques
+PCH élément 2/ Aides optiques
 
 |
 
@@ -902,7 +902,7 @@ PCH élément 2/Aides optiques
 
 |
 
-PCH élément 2/Dispositifs de sortie pour ordinateurs, machine à écrire et équipement électronique
+PCH élément 2/ Dispositifs de sortie pour ordinateurs, machine à écrire et équipement électronique
 
 |
 
@@ -910,7 +910,7 @@ PCH élément 2/Dispositifs de sortie pour ordinateurs, machine à écrire et é
 
 |
 
-PCH élément 2/Machines à écrire et de traitement de texte
+PCH élément 2/ Machines à écrire et de traitement de texte
 
 |
 
@@ -918,7 +918,7 @@ PCH élément 2/Machines à écrire et de traitement de texte
 
 |
 
-PCH élément 2/Aides pour dessiner et écrire
+PCH élément 2/ Aides pour dessiner et écrire
 
 |
 
@@ -926,7 +926,7 @@ PCH élément 2/Aides pour dessiner et écrire
 
 |
 
-PCH élément 2/Aides à la lecture non optique
+PCH élément 2/ Aides à la lecture non optique
 
 |
 
@@ -934,7 +934,7 @@ PCH élément 2/Aides à la lecture non optique
 
 |
 
-PCH élément 2/Téléphones et aides pour téléphoner
+PCH élément 2/ Téléphones et aides pour téléphoner
 
 |
 
@@ -942,7 +942,7 @@ PCH élément 2/Téléphones et aides pour téléphoner
 
 |
 
-PCH élément 2/Aides à la communication face à face
+PCH élément 2/ Aides à la communication face à face
 
 |
 
@@ -950,7 +950,7 @@ PCH élément 2/Aides à la communication face à face
 
 |
 
-PCH élément 2/Systèmes d'alarme
+PCH élément 2/ Systèmes d'alarme
 
 |
 
@@ -958,7 +958,7 @@ PCH élément 2/Systèmes d'alarme
 
 |
 
-PCH élément 2/Aides pour compenser et/ou remplacer la fonction du bras et/ou de la main et/ou des doigts
+PCH élément 2/ Aides pour compenser et/ ou remplacer la fonction du bras et/ ou de la main et/ ou des doigts
 
 |
 
@@ -966,7 +966,7 @@ PCH élément 2/Aides pour compenser et/ou remplacer la fonction du bras et/ou d
 
 |
 
-PCH élément 2/Aides à la saisie à distance
+PCH élément 2/ Aides à la saisie à distance
 
 |
 
@@ -974,7 +974,7 @@ PCH élément 2/Aides à la saisie à distance
 
 |
 
-PCH élément 2/Aides pour porter et transporter
+PCH élément 2/ Aides pour porter et transporter
 
 |
 
@@ -982,7 +982,7 @@ PCH élément 2/Aides pour porter et transporter
 
 |
 
-PCH élément 2/Autres aides techniques non inscrites dans la LPP et dans l'arrêté des tarifs (tarif = 75 % du prix)
+PCH élément 2/ Autres aides techniques non inscrites dans la LPP et dans l'arrêté des tarifs (tarif = 75 % du prix)
 
 |
 
@@ -1006,7 +1006,7 @@ PCH élément 3 sans précision
 
 |
 
-PCH élément 3/Aménagement du logement
+PCH élément 3/ Aménagement du logement
 
 |
 
@@ -1014,7 +1014,7 @@ PCH élément 3/Aménagement du logement
 
 |
 
-PCH élément 3/Aménagement du logement sans précision
+PCH élément 3/ Aménagement du logement sans précision
 
 |
 
@@ -1022,7 +1022,7 @@ PCH élément 3/Aménagement du logement sans précision
 
 |
 
-PCH élément 3/Aménagement accès extérieur
+PCH élément 3/ Aménagement accès extérieur
 
 |
 
@@ -1030,7 +1030,7 @@ PCH élément 3/Aménagement accès extérieur
 
 |
 
-PCH élément 3/Aménagement circulations intérieures sans précision
+PCH élément 3/ Aménagement circulations intérieures sans précision
 
 |
 
@@ -1038,7 +1038,7 @@ PCH élément 3/Aménagement circulations intérieures sans précision
 
 |
 
-PCH élément 3/Aménagement circulations intérieures horizontales
+PCH élément 3/ Aménagement circulations intérieures horizontales
 
 |
 
@@ -1046,7 +1046,7 @@ PCH élément 3/Aménagement circulations intérieures horizontales
 
 |
 
-PCH élément 3/Aménagement circulations intérieures verticales
+PCH élément 3/ Aménagement circulations intérieures verticales
 
 |
 
@@ -1054,7 +1054,7 @@ PCH élément 3/Aménagement circulations intérieures verticales
 
 |
 
-PCH élément 3/Aménagement chambre
+PCH élément 3/ Aménagement chambre
 
 |
 
@@ -1062,7 +1062,7 @@ PCH élément 3/Aménagement chambre
 
 |
 
-PCH élément 3/Aménagement séjour
+PCH élément 3/ Aménagement séjour
 
 |
 
@@ -1070,7 +1070,7 @@ PCH élément 3/Aménagement séjour
 
 |
 
-PCH élément 3/Aménagement cuisine
+PCH élément 3/ Aménagement cuisine
 
 |
 
@@ -1078,7 +1078,7 @@ PCH élément 3/Aménagement cuisine
 
 |
 
-PCH élément 3/Aménagement salle de bains
+PCH élément 3/ Aménagement salle de bains
 
 |
 
@@ -1086,7 +1086,7 @@ PCH élément 3/Aménagement salle de bains
 
 |
 
-PCH élément 3/Aménagement toilettes
+PCH élément 3/ Aménagement toilettes
 
 |
 
@@ -1094,7 +1094,7 @@ PCH élément 3/Aménagement toilettes
 
 |
 
-PCH élément 3/Aménagement pièce pour exercer une activité professionnelle ou de loisir
+PCH élément 3/ Aménagement pièce pour exercer une activité professionnelle ou de loisir
 
 |
 
@@ -1102,7 +1102,7 @@ PCH élément 3/Aménagement pièce pour exercer une activité professionnelle o
 
 |
 
-PCH élément 3/Autre pièce PCH
+PCH élément 3/ Autre pièce PCH
 
 |
 
@@ -1110,7 +1110,7 @@ PCH élément 3/Autre pièce PCH
 
 |
 
-PCH élément 3/Domotique
+PCH élément 3/ Domotique
 
 |
 
@@ -1118,7 +1118,7 @@ PCH élément 3/Domotique
 
 |
 
-PCH élément 3/Extension
+PCH élément 3/ Extension
 
 |
 
@@ -1126,7 +1126,7 @@ PCH élément 3/Extension
 
 |
 
-PCH élément 3/Construction neuve
+PCH élément 3/ Construction neuve
 
 |
 
@@ -1134,7 +1134,7 @@ PCH élément 3/Construction neuve
 
 |
 
-PCH élément 3/Déménagement
+PCH élément 3/ Déménagement
 
 |
 
@@ -1142,7 +1142,7 @@ PCH élément 3/Déménagement
 
 |
 
-PCH élément 3/Aménagement du véhicule
+PCH élément 3/ Aménagement du véhicule
 
 |
 
@@ -1150,7 +1150,7 @@ PCH élément 3/Aménagement du véhicule
 
 |
 
-PCH élément 3/Aménagements du véhicule sans précision
+PCH élément 3/ Aménagements du véhicule sans précision
 
 |
 
@@ -1158,7 +1158,7 @@ PCH élément 3/Aménagements du véhicule sans précision
 
 |
 
-PCH élément 3/Aménagement du poste de conduite
+PCH élément 3/ Aménagement du poste de conduite
 
 |
 
@@ -1166,7 +1166,7 @@ PCH élément 3/Aménagement du poste de conduite
 
 |
 
-PCH élément 3/Aménagement du poste passager
+PCH élément 3/ Aménagement du poste passager
 
 |
 
@@ -1174,7 +1174,7 @@ PCH élément 3/Aménagement du poste passager
 
 |
 
-PCH élément 3/Autres aménagements du véhicule
+PCH élément 3/ Autres aménagements du véhicule
 
 |
 
@@ -1182,7 +1182,7 @@ PCH élément 3/Autres aménagements du véhicule
 
 |
 
-PCH élément 3/Surcoûts liés au transport
+PCH élément 3/ Surcoûts liés au transport
 
 |
 
@@ -1206,7 +1206,7 @@ PCH élément 4 sans précision
 
 |
 
-PCH élément 4/Aides spécifiques
+PCH élément 4/ Aides spécifiques
 
 |
 
@@ -1214,7 +1214,7 @@ PCH élément 4/Aides spécifiques
 
 |
 
-PCH élément 4/Aides exceptionnelles
+PCH élément 4/ Aides exceptionnelles
 
 |
 
@@ -1222,7 +1222,7 @@ PCH élément 4/Aides exceptionnelles
 
 |
 
-PCH élément 5/Aides animalières
+PCH élément 5/ Aides animalières
 
 |
 
@@ -2102,7 +2102,7 @@ ULIS TFC
 
 |
 
-ULIS TFC/Collège
+ULIS TFC/ Collège
 
 |
 
@@ -2110,7 +2110,7 @@ ULIS TFC/Collège
 
 |
 
-ULIS TFC/Lycée général ou technologique
+ULIS TFC/ Lycée général ou technologique
 
 |
 
@@ -2118,7 +2118,7 @@ ULIS TFC/Lycée général ou technologique
 
 |
 
-ULIS TFC/Lycée général ou technologique avant terminale (2de-1re)
+ULIS TFC/ Lycée général ou technologique avant terminale (2de-1re)
 
 |
 
@@ -2126,7 +2126,7 @@ ULIS TFC/Lycée général ou technologique avant terminale (2de-1re)
 
 |
 
-ULIS TFC/Lycée général ou technologique terminale
+ULIS TFC/ Lycée général ou technologique terminale
 
 |
 
@@ -2134,7 +2134,7 @@ ULIS TFC/Lycée général ou technologique terminale
 
 |
 
-ULIS TFC/Lycée professionnel
+ULIS TFC/ Lycée professionnel
 
 |
 
@@ -2142,7 +2142,7 @@ ULIS TFC/Lycée professionnel
 
 |
 
-ULIS TFC/Lycée professionnel CAP-BEP
+ULIS TFC/ Lycée professionnel CAP-BEP
 
 |
 
@@ -2150,7 +2150,7 @@ ULIS TFC/Lycée professionnel CAP-BEP
 
 |
 
-ULIS TFC/Lycée professionnel baccalauréat professionnel
+ULIS TFC/ Lycée professionnel baccalauréat professionnel
 
 |
 
@@ -2166,7 +2166,7 @@ ULIS TED
 
 |
 
-ULIS TED/Collège
+ULIS TED/ Collège
 
 |
 
@@ -2174,7 +2174,7 @@ ULIS TED/Collège
 
 |
 
-ULIS TED/Lycée général ou technologique
+ULIS TED/ Lycée général ou technologique
 
 |
 
@@ -2182,7 +2182,7 @@ ULIS TED/Lycée général ou technologique
 
 |
 
-ULIS TED/Lycée général ou technologique avant terminale (2nde-1re)
+ULIS TED/ Lycée général ou technologique avant terminale (2nde-1re)
 
 |
 
@@ -2190,7 +2190,7 @@ ULIS TED/Lycée général ou technologique avant terminale (2nde-1re)
 
 |
 
-ULIS TED/Lycée général ou technologique terminale
+ULIS TED/ Lycée général ou technologique terminale
 
 |
 
@@ -2198,7 +2198,7 @@ ULIS TED/Lycée général ou technologique terminale
 
 |
 
-ULIS TED/Lycée professionnel
+ULIS TED/ Lycée professionnel
 
 |
 
@@ -2206,7 +2206,7 @@ ULIS TED/Lycée professionnel
 
 |
 
-ULIS TED/Lycée professionnel CAP-BEP
+ULIS TED/ Lycée professionnel CAP-BEP
 
 |
 
@@ -2214,7 +2214,7 @@ ULIS TED/Lycée professionnel CAP-BEP
 
 |
 
-ULIS TED/Lycée professionnel baccalauréat professionnel
+ULIS TED/ Lycée professionnel baccalauréat professionnel
 
 |
 
@@ -2230,7 +2230,7 @@ ULIS TFM
 
 |
 
-ULIS TFM/Collège
+ULIS TFM/ Collège
 
 |
 
@@ -2238,7 +2238,7 @@ ULIS TFM/Collège
 
 |
 
-ULIS TFM/Lycée général ou technologique
+ULIS TFM/ Lycée général ou technologique
 
 |
 
@@ -2246,7 +2246,7 @@ ULIS TFM/Lycée général ou technologique
 
 |
 
-ULIS TFM/Lycée général ou technologique avant terminale (2nde-1re)
+ULIS TFM/ Lycée général ou technologique avant terminale (2nde-1re)
 
 |
 
@@ -2254,7 +2254,7 @@ ULIS TFM/Lycée général ou technologique avant terminale (2nde-1re)
 
 |
 
-ULIS TFM/Lycée général ou technologique terminale
+ULIS TFM/ Lycée général ou technologique terminale
 
 |
 
@@ -2262,7 +2262,7 @@ ULIS TFM/Lycée général ou technologique terminale
 
 |
 
-ULIS TFM/Lycée professionnel
+ULIS TFM/ Lycée professionnel
 
 |
 
@@ -2270,7 +2270,7 @@ ULIS TFM/Lycée professionnel
 
 |
 
-ULIS TFM/Lycée professionnel CAP-BEP
+ULIS TFM/ Lycée professionnel CAP-BEP
 
 |
 
@@ -2278,7 +2278,7 @@ ULIS TFM/Lycée professionnel CAP-BEP
 
 |
 
-ULIS TFM/Lycée professionnel baccalauréat professionnel
+ULIS TFM/ Lycée professionnel baccalauréat professionnel
 
 |
 
@@ -2294,7 +2294,7 @@ ULIS TFA
 
 |
 
-ULIS TFA/Collège
+ULIS TFA/ Collège
 
 |
 
@@ -2302,7 +2302,7 @@ ULIS TFA/Collège
 
 |
 
-ULIS TFA/Lycée général ou technologique
+ULIS TFA/ Lycée général ou technologique
 
 |
 
@@ -2310,7 +2310,7 @@ ULIS TFA/Lycée général ou technologique
 
 |
 
-ULIS TFA/Lycée général ou technologique avant terminale (2de-1re)
+ULIS TFA/ Lycée général ou technologique avant terminale (2de-1re)
 
 |
 
@@ -2318,7 +2318,7 @@ ULIS TFA/Lycée général ou technologique avant terminale (2de-1re)
 
 |
 
-ULIS TFA/Lycée général ou technologique terminale
+ULIS TFA/ Lycée général ou technologique terminale
 
 |
 
@@ -2326,7 +2326,7 @@ ULIS TFA/Lycée général ou technologique terminale
 
 |
 
-ULIS TFA/Lycée professionnel
+ULIS TFA/ Lycée professionnel
 
 |
 
@@ -2334,7 +2334,7 @@ ULIS TFA/Lycée professionnel
 
 |
 
-ULIS TFA/Lycée professionnel CAP-BEP
+ULIS TFA/ Lycée professionnel CAP-BEP
 
 |
 
@@ -2342,7 +2342,7 @@ ULIS TFA/Lycée professionnel CAP-BEP
 
 |
 
-ULIS TFA/Lycée professionnel baccalauréat professionnel
+ULIS TFA/ Lycée professionnel baccalauréat professionnel
 
 |
 
@@ -2358,7 +2358,7 @@ ULIS TFV
 
 |
 
-ULIS TFV/Collège
+ULIS TFV/ Collège
 
 |
 
@@ -2366,7 +2366,7 @@ ULIS TFV/Collège
 
 |
 
-ULIS TFV/Lycée général ou technologique
+ULIS TFV/ Lycée général ou technologique
 
 |
 
@@ -2374,7 +2374,7 @@ ULIS TFV/Lycée général ou technologique
 
 |
 
-ULIS TFV/Lycée général ou technologique avant terminale (2de-1re)
+ULIS TFV/ Lycée général ou technologique avant terminale (2de-1re)
 
 |
 
@@ -2382,7 +2382,7 @@ ULIS TFV/Lycée général ou technologique avant terminale (2de-1re)
 
 |
 
-ULIS TFV/Lycée général ou technologique terminale
+ULIS TFV/ Lycée général ou technologique terminale
 
 |
 
@@ -2390,7 +2390,7 @@ ULIS TFV/Lycée général ou technologique terminale
 
 |
 
-ULIS TFV/Lycée professionnel
+ULIS TFV/ Lycée professionnel
 
 |
 
@@ -2398,7 +2398,7 @@ ULIS TFV/Lycée professionnel
 
 |
 
-ULIS TFV/Lycée professionnel CAP-BEP
+ULIS TFV/ Lycée professionnel CAP-BEP
 
 |
 
@@ -2406,7 +2406,7 @@ ULIS TFV/Lycée professionnel CAP-BEP
 
 |
 
-ULIS TFV/Lycée professionnel baccalauréat professionnel
+ULIS TFV/ Lycée professionnel baccalauréat professionnel
 
 |
 
@@ -2422,7 +2422,7 @@ ULIS TMA
 
 |
 
-ULIS TMA/Collège
+ULIS TMA/ Collège
 
 |
 
@@ -2430,7 +2430,7 @@ ULIS TMA/Collège
 
 |
 
-ULIS TMA/Lycée général ou technologique
+ULIS TMA/ Lycée général ou technologique
 
 |
 
@@ -2438,7 +2438,7 @@ ULIS TMA/Lycée général ou technologique
 
 |
 
-ULIS TMA/Lycée général ou technologique avant terminale (2nde-1re)
+ULIS TMA/ Lycée général ou technologique avant terminale (2nde-1re)
 
 |
 
@@ -2446,7 +2446,7 @@ ULIS TMA/Lycée général ou technologique avant terminale (2nde-1re)
 
 |
 
-ULIS TMA/Lycée général ou technologique terminale
+ULIS TMA/ Lycée général ou technologique terminale
 
 |
 
@@ -2454,7 +2454,7 @@ ULIS TMA/Lycée général ou technologique terminale
 
 |
 
-ULIS TMA/Lycée professionnel
+ULIS TMA/ Lycée professionnel
 
 |
 
@@ -2462,7 +2462,7 @@ ULIS TMA/Lycée professionnel
 
 |
 
-ULIS TMA/Lycée professionnel CAP-BEP
+ULIS TMA/ Lycée professionnel CAP-BEP
 
 |
 
@@ -2470,7 +2470,7 @@ ULIS TMA/Lycée professionnel CAP-BEP
 
 |
 
-ULIS TMA/Lycée professionnel baccalauréat professionnel
+ULIS TMA/ Lycée professionnel baccalauréat professionnel
 
 |
 
@@ -2750,7 +2750,7 @@ Unité d'évaluation, de réentraînement et d'orientation socioprofessionnelle 
 
 |
 
-Foyer de vie/occupationnel
+Foyer de vie/ occupationnel
 
 |
 
@@ -2814,7 +2814,7 @@ Unité d'évaluation, de réentraînement et d'orientation socioprofessionnelle 
 
 |
 
-Foyer de vie/occupationnel
+Foyer de vie/ occupationnel
 
 |
 
@@ -3450,7 +3450,7 @@ Accès aux autres droits (pension d'invalidité, maladie professionnelle, retrai
 
 |
 
-II.19. TYPPROC Description : type de procédure lié à la demande.
+II. 19. TYPPROC Description : type de procédure lié à la demande.
 
 CODE
 
@@ -3476,7 +3476,7 @@ Urgente
 
 |
 
-II.20. INITACT Description : initiateur de l'action (demande, suivi...).
+II. 20. INITACT Description : initiateur de l'action (demande, suivi...).
 
 CODE
 
@@ -3498,7 +3498,7 @@ Personne handicapée
 
 |
 
-Président du conseil général
+Président du conseil départemental
 
 |
 
@@ -3574,7 +3574,7 @@ Autre
 
 |
 
-II.21. TATDEM Description : statut de la demande.
+II. 21. TATDEM Description : statut de la demande.
 
 CODE
 
@@ -3616,7 +3616,7 @@ Annulé
 
 |
 
-II.22. STATEVA Description : stade de l'évaluation.
+II. 22. STATEVA Description : stade de l'évaluation.
 
 CODE
 
@@ -3650,7 +3650,7 @@ Conclusive
 
 |
 
-II.23. MODEVAL Description : type de modalités d'évaluation.
+II. 23. MODEVAL Description : type de modalités d'évaluation.
 
 CODE
 
@@ -3700,7 +3700,7 @@ Autre modalité
 
 |
 
-II.24. LIEUEVAL Description : lieu évaluation.
+II. 24. LIEUEVAL Description : lieu évaluation.
 
 CODE
 
@@ -3742,7 +3742,7 @@ Autre
 
 |
 
-II.25. FONCPLURI Description : fonctions de l'équipe pluridisciplinaire.
+II. 25. FONCPLURI Description : fonctions de l'équipe pluridisciplinaire.
 
 CODE
 
@@ -3796,7 +3796,7 @@ Autre médecin
 
 |
 
-Infirmier(e)
+Infirmier (e)
 
 |
 
@@ -3896,7 +3896,7 @@ Autre
 
 |
 
-II.26. TYPEQUIP Description : type d'appartenance.
+II. 26. TYPEQUIP Description : type d'appartenance.
 
 CODE
 
@@ -3922,7 +3922,7 @@ Externe
 
 |
 
-II.27. TYPAID Description : type d'aide extérieure.
+II. 27. TYPAID Description : type d'aide extérieure.
 
 CODE
 
@@ -3996,7 +3996,7 @@ Autre
 
 |
 
-II.28. COMPPC Description : formulation de commentaire sur le plan personnalisé de compensation.
+II. 28. COMPPC Description : formulation de commentaire sur le plan personnalisé de compensation.
 
 CODE
 
@@ -4038,7 +4038,7 @@ Avis global négatif
 
 |
 
-II.29. STATPPC Description : statut du plan personnalisé de compensation.
+II. 29. STATPPC Description : statut du plan personnalisé de compensation.
 
 CODE
 
@@ -4088,7 +4088,7 @@ Mise à jour après décision CDAPH
 
 |
 
-II.30. TYPPROP Description : type de proposition.
+II. 30. TYPPROP Description : type de proposition.
 
 CODE
 
@@ -4122,11 +4122,11 @@ Préconisation
 
 |
 
-II.31. TYPPRECO Description : type de préconisation.
+II. 31. TYPPRECO Description : type de préconisation.
 
-Cette nomenclature est identique à la nomenclature mentionnée au II.17 : type_TYPDEM2.
+Cette nomenclature est identique à la nomenclature mentionnée au II. 17 : type _ TYPDEM2.
 
-II.32. MOTPROP Description : proposition de décision de l'équipe pluri disciplinaire.
+II. 32. MOTPROP Description : proposition de décision de l'équipe pluri disciplinaire.
 
 CODE
 
@@ -4152,7 +4152,7 @@ Attribution
 
 |
 
-II.33. MODAL Description : modalité.
+II. 33. MODAL Description : modalité.
 
 CODE
 
@@ -4314,7 +4314,7 @@ Participation vie familiale
 
 |
 
-II.34. QUANTTYP Description : type de quantification.
+II. 34. QUANTTYP Description : type de quantification.
 
 CODE
 
@@ -4324,7 +4324,7 @@ LIBELLÉ
 
 |
 
-- 1
+-1
 
 |
 
@@ -4348,7 +4348,7 @@ Sous contrainte de l'offre (SCO)
 
 |
 
-II.35. QUANTCAR Description : caractérisation de la quantification.
+II. 35. QUANTCAR Description : caractérisation de la quantification.
 
 CODE
 
@@ -4390,7 +4390,7 @@ Nombre d'heures
 
 |
 
-II.36. TYPCDA Description : type de commission des droits et de l'autonomie.
+II. 36. TYPCDA Description : type de commission des droits et de l'autonomie.
 
 CODE
 
@@ -4416,7 +4416,7 @@ Simplifiée
 
 |
 
-II.37. TYPDEC Description : type de décision.
+II. 37. TYPDEC Description : type de décision.
 
 CODE
 
@@ -4450,7 +4450,7 @@ Sursis
 
 |
 
-II.38. MOTIDEC Description : motivation de la décision.
+II. 38. MOTIDEC Description : motivation de la décision.
 
 CODE
 
@@ -4476,7 +4476,7 @@ Critère administratif
 
 |
 
-II.39. ORGADEC Description : organisme décideur.
+II. 39. ORGADEC Description : organisme décideur.
 
 CODE
 
@@ -4490,7 +4490,7 @@ LIBELLÉ
 
 |
 
-Président du conseil général
+Président du conseil départemental
 
 |
 
@@ -4526,7 +4526,7 @@ Caisse d'allocation familiale (CAF) ou Mutualité sociale agricole (MSA)
 
 |
 
-II.40. STATDEC Description : statut de la décision.
+II. 40. STATDEC Description : statut de la décision.
 
 CODE
 
@@ -4552,7 +4552,7 @@ Echue
 
 |
 
-II.41. TYPREC Description : type de contestation.
+II. 41. TYPREC Description : type de contestation.
 
 CODE
 
@@ -4586,7 +4586,7 @@ Recours contentieux
 
 |
 
-II.42. ORGAREC Description : organisme de recours.
+II. 42. ORGAREC Description : organisme de recours.
 
 CODE
 
@@ -4652,7 +4652,7 @@ Autres
 
 |
 
-II.43. CONCREC Description : type de conclusion du recours.
+II. 43. CONCREC Description : type de conclusion du recours.
 
 CODE
 
@@ -4678,7 +4678,7 @@ Décision CDAPH cassée et nouvelle décision
 
 |
 
-II.44. STATREC Description : statut du recours.
+II. 44. STATREC Description : statut du recours.
 
 CODE
 
@@ -4704,7 +4704,7 @@ Décidé
 
 |
 
-II.45. STATSMO Description : statut du suivi de mise en œuvre.
+II. 45. STATSMO Description : statut du suivi de mise en œuvre.
 
 CODE
 
@@ -4746,7 +4746,7 @@ Suspendu
 
 |
 
-II.46. MOTSMO Description : motif associé au suivi de la mise en œuvre.
+II. 46. MOTSMO Description : motif associé au suivi de la mise en œuvre.
 
 CODE
 
@@ -4788,7 +4788,7 @@ Non-réalisation, refus de l'établissement
 
 |
 
-II.47. STATAIDANT Description : statut aidant.
+II. 47. STATAIDANT Description : statut aidant.
 
 CODE
 
@@ -4798,7 +4798,7 @@ LIBELLÉ
 
 |
 
-- 1
+-1
 
 |
 
@@ -4838,7 +4838,7 @@ Service prestataire
 
 |
 
-II.48. TYPATTRIB Description : type attribution.
+II. 48. TYPATTRIB Description : type attribution.
 
 CODE
 
@@ -4848,7 +4848,7 @@ LIBELLÉ
 
 |
 
-- 1
+-1
 
 |
 
@@ -4872,7 +4872,7 @@ Ponctuel
 
 |
 
-II.49. UNITE Description : unité de valorisation de la décision.
+II. 49. UNITE Description : unité de valorisation de la décision.
 
 CODE
 
@@ -4882,7 +4882,7 @@ LIBELLÉ
 
 |
 
-- 1
+-1
 
 |
 
@@ -4922,7 +4922,7 @@ Années
 
 |
 
-II.50. ETBFONC Description : mode de fonctionnement de l'établissement.
+II. 50. ETBFONC Description : mode de fonctionnement de l'établissement.
 
 CODE
 
@@ -4932,7 +4932,7 @@ LIBELLÉ
 
 |
 
-- 1
+-1
 
 |
 
@@ -4944,7 +4944,7 @@ Non renseigné
 
 |
 
-Internat/hébergement
+Internat/ hébergement
 
 |
 
@@ -5036,7 +5036,7 @@ Placement familial
 
 |
 
-II.51. ETBTEMP Description : temporalité de l'accueil.
+II. 51. ETBTEMP Description : temporalité de l'accueil.
 
 CODE
 
@@ -5046,7 +5046,7 @@ LIBELLÉ
 
 |
 
-- 1
+-1
 
 |
 

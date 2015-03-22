@@ -24,7 +24,7 @@ L'audit interne a pour objet l'évaluation des systèmes et non des personnes.
 
 Champ d'application et méthodologie
 
-La présente charte concerne l'audit interne au sein des ministères chargés du travail, de l'emploi, de la santé, de la sécurité sociale, des solidarités, de la cohésion sociale, de la jeunesse, de la vie associative et des sports, encore appelés ministères chargés des affaires sociales .
+La présente charte concerne l'audit interne au sein des ministères chargés du travail, de l'emploi, de la santé, de la sécurité sociale, des solidarités, de la cohésion sociale, de la jeunesse, de la vie associative et des sports, encore appelés ministères chargés des affaires sociales.
 
 L'audit interne est mené sous forme de missions ponctuelles et ciblées ; ces missions peuvent s'effectuer dans l'ensemble des services des ministères chargés des affaires sociales, centraux ou territoriaux ainsi qu'au sein des établissements et organismes placés directement sous l'autorité de l'Etat et relevant de ces ministères.
 
@@ -52,7 +52,7 @@ Des opportunités d'améliorer la gouvernance, l'efficience et l'image des minis
 
 Pour ce faire, les missions pourront être centrées sur quatre types d'audit : de conformité (ou de régularité), d'efficacité (ou de performance), de processus (ou organisationnels), de management (ou de stratégie).
 
-L'audit de conformité (ou de régularité) vérifie la bonne application de la réglementation et des procédures internes en vigueur pour l'ensemble du personnel. Il se fonde sur un référentiel s'il existe et/ou sur le système documentaire regroupant la réglementation officielle en vigueur.
+L'audit de conformité (ou de régularité) vérifie la bonne application de la réglementation et des procédures internes en vigueur pour l'ensemble du personnel. Il se fonde sur un référentiel s'il existe et/ ou sur le système documentaire regroupant la réglementation officielle en vigueur.
 
 L'audit d'efficience (ou de performance) mesure la performance d'une organisation par rapport aux objectifs qui lui sont fixés et aux ressources qui lui sont allouées.
 
@@ -64,15 +64,13 @@ Au-delà de ces missions d'assurance qui fournissent une garantie raisonnable su
 
 Les missions d'assurance et de conseil contribuent à créer de la valeur ajoutée en augmentant les chances de réaliser les objectifs des ministères chargés des affaires sociales et ceux des établissements et organismes placés directement sous l'autorité de l'Etat et relevant de ces ministères.
 
-Organisation de la maîtrise des risques et de l'audit interne
-
-au sein des ministères chargés des affaires sociales
+Organisation de la maîtrise des risques et de l'audit interne au sein des ministères chargés des affaires sociales
 
 La gouvernance de la maîtrise des risques et de l'audit interne des ministères chargés des affaires sociales résulte :
 
 ― de la loi n° 96-452 du 28 mai 1996 et du décret n° 2011-931 du 1er août 2011 précisant les pouvoirs de l'inspection générale des affaires sociales (IGAS) ;
 
-― de l'article L. 6141-7-2 du code de la santé publique précisant les attributions des conseillers généraux des établissements de santé, notamment en matière d'audit ;
+― de l'article L. 6141-7-2 du code de la santé publique précisant les attributions des conseillers départementaux des établissements de santé, notamment en matière d'audit ;
 
 ― du décret n° 2002-53 du 10 janvier 2002 et de l'arrêté du 11 décembre 2008 précisant notamment l'organisation et les missions de l'inspection générale de la jeunesse et des sports (IGJS) ;
 
@@ -196,9 +194,7 @@ Les auditeurs internes ne sont pas autorisés à :
 
 ― diriger les activités de tout salarié ou agent de l'organisation auditée, sauf dans le cas où cette personne a été affectée de manière appropriée à l'équipe d'audit ou a été appelée à l'assister.
 
-Relations avec les autres services d'audit ou corps d'inspection
-
-et avec les auditeurs externes
+Relations avec les autres services d'audit ou corps d'inspection et avec les auditeurs externes
 
 La MAI peut réaliser des missions conjointes avec le département d'audit interne de la DGFiP ainsi que le CGEFi et avec les corps d'inspection intervenant dans le champ des ministères chargés des affaires sociales (IGAS et IGJS) et même extérieurs à ce périmètre. Le recours à des agents au sein des services, afin de participer comme force complémentaire aux missions d'audit, peut être décidé.
 

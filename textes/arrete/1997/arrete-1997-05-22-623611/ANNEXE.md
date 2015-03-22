@@ -12,7 +12,7 @@ Convention
 
 Entre :
 
-Le conseil général de , représenté
+Le conseil départemental de , représenté
 
 par son président et ci-après désigné : "le département",
 
@@ -64,7 +64,7 @@ Article 2
 
 Missions confiées à l'organisme
 
-L'organisme peut être chargé par le conseil général de l'ensemble ou d'une partie seulement des missions définies ci-après :
+L'organisme peut être chargé par le conseil départemental de l'ensemble ou d'une partie seulement des missions définies ci-après :
 
 1° Demandeur à domicile ou en établissement :
 
@@ -130,7 +130,7 @@ Lorsque l'organisme est chargé de recevoir, vérifier et déclarer complets les
 
 - les modalités de déclaration et de notification aux intéressés du caractère complet du dossier ;
 
-- les modalités d'information du président du conseil général et du maire lorsque la demande n'est pas déposée au centre communal d'action sociale.
+- les modalités d'information du président du conseil départemental et du maire lorsque la demande n'est pas déposée au centre communal d'action sociale.
 
 Lorsqu'ils ne sont pas déposés auprès de l'organisme et que celui-ci met en oeuvre une ou des équipes médico-sociales, les dossiers déclarés complets relevant de sa compétence lui sont transmis sans délai. L'organisme les attribue immédiatement à l'équipe médico-sociale compétente en veillant à ce que les conditions de cette transmission permettent de respecter le délai de deux mois précité.
 
@@ -146,7 +146,7 @@ Modalités du suivi des bénéficiaires de la prestation spécifique dépendance
 
 Lorsque l'organisme est chargé de tout ou partie de cette mission, les parties conviennent des modalités d'organisation de ce suivi et du contrôle de l'effectivité et de la qualité de l'aide. Elles précisent également la périodicité des visites à réaliser au lieu de résidence des bénéficiaires qui ne peut être supérieure à un an conformément aux dispositions de l'article L. 232-22 du code de l'action sociale et des familles.
 
-L'équipe chargée du suivi de la prestation s'engage à informer sans délai les services compétents du conseil général de tout élément susceptible d'entraîner des modifications du montant ou la suspension de la prestation spécifique dépendance attribuée.
+L'équipe chargée du suivi de la prestation s'engage à informer sans délai les services compétents du conseil départemental de tout élément susceptible d'entraîner des modifications du montant ou la suspension de la prestation spécifique dépendance attribuée.
 
 Article 7
 
@@ -172,7 +172,7 @@ Résiliation de la convention
 
 Les parties peuvent mettre fin à la convention par lettre recommandée avec accusé de réception sous réserve de respecter un préavis de six mois.
 
-En cas de résiliation demandée par l'organisme signataire, le conseil général peut lui demander d'achever l'instruction des dossiers en cours.
+En cas de résiliation demandée par l'organisme signataire, le conseil départemental peut lui demander d'achever l'instruction des dossiers en cours.
 
 Article 11
 
@@ -192,4 +192,4 @@ Le département L'organisme
 
 NOTA :
 
-Une nouvelle version de cet article modifié par le décret n° 2013-938 du 18 octobre 2013 portant application de la loi n° 2013-403 du 17 mai 2013 relative à l'élection des conseillers départementaux, des conseillers municipaux et des conseillers communautaires, et modifiant le calendrier électoral s'appliquera aux élections organisées les 23 et 30 mars 2014 à l'occasion du prochain renouvellement général des conseils municipaux et communautaires, y compris aux opérations préparatoires à ce scrutin.
+Cet article a été modifié par le décret n° 2013-938 du 18 octobre 2013 portant application de la loi n° 2013-403 du 17 mai 2013 relative à l'élection des conseillers départementaux, des conseillers municipaux et des conseillers communautaires, et modifiant le calendrier électoral. Conformément à son article 71, l'article dans sa version modifiée par le décret du 18 octobre 2013 s'applique à compter du prochain renouvellement général des conseils municipaux et communautaires prévu les 23 et 30 mars 2014, y compris aux opérations préparatoires à ce scrutin.
