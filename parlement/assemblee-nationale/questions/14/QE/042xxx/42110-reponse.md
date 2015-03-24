@@ -1,0 +1,9 @@
+# Réponse à la question n° 42110
+
+- Question : [42110](42110.md) — Question n° 42110 — fonctionnement; moyens; Eure
+
+## Réponse
+
+*JO du 2015-03-24*
+
+Les crédits destinés aux dépenses pédagogiques dans les EPLE, qui concernent notamment ceux consacrés aux manuels scolaires, sont attribués sous la forme d'une enveloppe globalisée au sein de laquelle la fongibilité est possible. Ces dispositions permettent de mieux tenir compte des besoins locaux. Ainsi, il appartient aux recteurs d'académie de répartir ces moyens en fonction des besoins de l'ensemble des structures scolaires. Il convient de noter que le budget de l'éducation nationale en 2013 s'est inscrit dans un contexte budgétaire de diminution globale des dépenses de fonctionnement par rapport à la loi de finances 2012. Ces mesures d'économie, de plus de 8 % pour le programme enseignement scolaire public du second degré, se traduisent notamment par une réduction des crédits pédagogiques alloués aux établissements scolaires, et ce au niveau national. En ce qui concerne les collèges du département de l'Eure et plus particulièrement le collège Pierre Corneille du Neubourg, les services académiques ont réparti les crédits pédagogiques entre les établissements suivant des critères académiques fondés sur les effectifs, le pourcentage de boursiers, les professions et catégories socio-professionnelles (PCS) et l'éducation prioritaire au sein de l'académie. Dans cet établissement, il a pu être constaté qu'un certain nombre d'élèves n'avaient pas leurs manuels scolaires à la rentrée scolaire 2013. Les autorités académiques ont été particulièrement attentives à cette situation. Ainsi, le collège Pierre Corneille, du Neubourg a bénéficié d'une attribution financière complémentaire et exceptionnelle de 4 000 €, pour contribuer à l'achat de manuels scolaires.
