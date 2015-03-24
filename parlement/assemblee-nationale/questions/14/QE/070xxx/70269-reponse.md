@@ -1,0 +1,9 @@
+# Réponse à la question n° 70269
+
+- Question : [70269](70269.md) — Question n° 70269 — institut d'études politiques; Aix-en-Provence; fonctionnement
+
+## Réponse
+
+*JO du 2015-03-24*
+
+Suite aux accusations portées contre l'IEP d'Aix-en-Provence, l'université d'Aix-Marseille, à laquelle l'IEP est rattaché, a missionné un comité d'audit indépendant pour enquêter sur les formations incriminées. Le rapport final, rendu fin novembre 2014, comporte un certain nombre de recommandations ayant trait à l'organisation interne de l'IEP d'Aix-en-Provence, au suivi des signatures de conventions avec des organismes extérieurs et à la politique de formation de cet établissement. Les services de la direction générale de l'enseignement supérieur et de l'insertion professionnelle (DGESIP) ont également expertisé les documents qui leur ont été fournis par l'IEP. A la suite de ce rapport, conforme aux expertises de la DGESIP, le directeur de l'IEP, Christian Duval, a présenté sa démission au conseil d'administration. Un administrateur provisoire, Didier Laussel, a été nommé par la ministre de l'éducation nationale, de l'enseignement supérieur et de la recherche, le 8 décembre 2014. Le ministère de l'éducation nationale, de l'enseignement supérieur et de la recherche suit attentivement la situation de l'IEP et veillera à la stricte application des recommandations du rapport. Afin de rassurer les étudiants et leurs familles quant à la qualité des formations et diplômes délivrés par l'IEP, la ministre, en lien étroit avec l'administrateur provisoire et son équipe, a pris la décision de mettre en place une procédure d'accréditation exceptionnelle des masters de l'IEP, qui n'était normalement prévue qu'à horizon 2018. Une offre de formation rénovée sera proposée, en accord avec les conseillers scientifiques de la DGESIP, au CNESER du 8 juillet 2015.
