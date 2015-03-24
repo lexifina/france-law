@@ -1,0 +1,9 @@
+# Réponse à la question n° 68033
+
+- Question : [68033](68033.md) — Question n° 68033 — recrutement; effectifs
+
+## Réponse
+
+*JO du 2015-03-24*
+
+Dans l'enseignement du premier degré, les fonctions de psychologue scolaire sont exercées par des instituteurs et des professeurs des écoles titulaires qui, détenant une licence de psychologie et ayant exercé pendant au moins trois ans des services effectifs d'enseignement, sont admis au cycle de formation au diplôme d'Etat de psychologue scolaire. L'accès à ces fonctions est également ouvert aux instituteurs et professeurs des écoles titulaires détenant l'un des autres diplômes figurant sur la liste des diplômes permettant de faire usage professionnel du titre de psychologue fixée par le décret n° 90-255 du 22 mars 1990. Dans le second degré, les fonctions de psychologue sont exercées par les conseillers d'orientation-psychologues titulaires du diplôme d'État de conseiller d'orientation-psychologue. Le recrutement d'agents contractuels dans la fonction publique est dérogatoire aux dispositions de l'article 3 de la loi n° 83-634 du 13 juillet 1983 modifiée portant droits et obligations des fonctionnaires, qui réserve les emplois publics aux fonctionnaires, et doit donc rester exceptionnel. C'est pourquoi d'autres solutions sont recherchées pour répondre aux besoins des élèves. Ainsi, dans le cadre du chantier ouvert par le ministère sur les métiers de l'éducation nationale, le groupe de travail n° 14 définit actuellement les conditions de la création d'un corps de psychologues de l'éducation nationale qui aura pour vocation d'intervenir dans les deux niveaux d'enseignement. Dans le cadre des travaux menés, les conditions de recrutement et de formation de ces nouveaux psychologues de l'éducation nationale sont en cours de construction.
