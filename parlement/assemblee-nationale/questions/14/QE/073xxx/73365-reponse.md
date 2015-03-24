@@ -1,0 +1,9 @@
+# Réponse à la question n° 73365
+
+- Question : [73365](73365.md) — Question n° 73365 — Polynésie; zone économique exclusive
+
+## Réponse
+
+*JO du 2015-03-24*
+
+L'article 47 de la loi organique n° 2004-192 du 27 février 2004 portant statut d'autonomie de la Polynésie Française a doté le Pays d'une compétence quasi exclusive pour ce qui concerne la règlementation et l'exercice des droits « d'exploration et d'exploitation des ressources naturelles biologiques et non biologiques » des eaux intérieures jusqu'à la limite de la zone économique exclusive, à l'exception des matières premières stratégiques (article 14 - 4° de la loi organique n° 2004-192 du 27 février 2004). Sur le plateau continental étendu, l'Etat est seul compétent pour l'exploitation et l'exploration des ressources du sol et du sous-sol de la mer. Le comité interministériel de la mer du 2 décembre 2013 a décidé de préparer l'exploitation des ressources minérales des grands fonds marins. Plusieurs actions ont été décidées à cette occasion et sont en cours de mise en oeuvre ou achevées : - L'expertise collective sur les impacts environnementaux de l'exploitation des ressources minérales marines profondes (ESCO), pilotée par le CNRS et l'IFREMER, a rendu ses conclusions en juin 2014 ; - Un programme national de recherche et d'accès aux ressources minérales marines profondes est en cours d'élaboration. La feuille de route de ce programme national doit paraître en juin 2015 ; - Un comité de suivi interministériel associant les industriels du secteur se réunit chaque semestre. En Polynésie Française, un comité de pilotage sur les ressources minérales subaquatiques a été mis en place par le Président et le Haut-commissaire le 22 janvier 2015. La composition du comité d'experts, les axes thématiques de l'étude commandée conjointement par le Pays et l'Etat à l'IRD, ainsi que le calendrier des travaux ont été arrêtés. Un rapport doit être rendu en novembre 2015.
