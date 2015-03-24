@@ -1,0 +1,9 @@
+# Réponse à la question n° 68271
+
+- Question : [68271](68271.md) — Question n° 68271 — visas biométriques; mise en place; perspectives
+
+## Réponse
+
+*JO du 2015-03-24*
+
+La mise en oeuvre du recueil des données biométriques lors du dépôt des demandes de visa devrait être effective à partir du 23 juin 2015 en Ukraine et du 14 septembre 2015 en Russie si le calendrier de déploiement du Système d'information sur les visas (ou VIS - Visa Information System) est respecté. À compter de ces dates, et conformément à l'article 13 du code communautaire des visas, tous les demandeurs de visa devront se présenter en personne afin que soient recueillis leurs identifiants biométriques (empreintes digitales et photographie). Les enfants de moins de 12 ans sont dispensés de donner leurs empreintes digitales, mais restent néanmoins soumis au recueil de leur photographie (celle-ci devant être conforme aux normes de l'organisation de l'aviation civile internationale - OACI). Lorsque les empreintes digitales d'un demandeur ont été recueillies dans le cadre d'une demande et introduites pour la première fois dans le VIS moins de cinquante-neuf mois avant la date d'une nouvelle demande, elles sont copiées lors d'une demande ultérieure et peuvent être réutilisées. Cette procédure permet d'éviter un nouveau recueil d'empreintes pour les demandeurs déjà enregistrés. Le président de l'association « Les Enfants de Tchernobyl », qui a saisi directement les services consulaires en Ukraine, a été informé par courrier de ces nouvelles dispositions. Le dépôt des demandes de visa continuera à s'effectuer auprès du centre VFS et les enfants âgés de 12 ans révolus devront être présents lors du dépôt de la demande de visa pour la prise d'empreintes biométriques. Cette formalité, qui ne prend que quelques minutes, n'implique aucun changement en ce qui concerne la prise de rendez-vous qui pourra être fixé dans un délai de 24 à 48 heures, comme c'est le cas actuellement.
