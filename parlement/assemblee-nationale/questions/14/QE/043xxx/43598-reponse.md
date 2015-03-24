@@ -1,0 +1,9 @@
+# Réponse à la question n° 43598
+
+- Question : [43598](43598.md) — Question n° 43598 — instances consultatives; maintien; pertinence
+
+## Réponse
+
+*JO du 2015-03-24*
+
+La commission nationale des conseillers en génétique, mentionnée aux articles L. 1132-3, L. 1132-5 et R. 1132-1 à R. 1132-4-2 du code de la santé publique, est chargée des demandes d'autorisation d'exercice, présentées par les ressortissants d'un État membre de l'Union européenne ou d'un autre État partie à l'accord sur l'Espace économique européen, conformément à la directive 2005/36/CE du Parlement européen et du conseil du 7 septembre 2005 relative à la reconnaissance des qualifications professionnelles modifiée par la directive 2013/55/UE du Parlement européen et du conseil du 20 novembre 2013. Cette commission dont aucune séance ne s'est tenue en 2012 et 2013, s'est néanmoins réunie en 2014. Par ailleurs, aucun budget n'est alloué pour cette commission et sa suppression reviendrait à créer un vide juridique qui ne pourrait être comblé que par la création d'une autre instance, en substitution, à laquelle serait confié l'ensemble des prérogatives qui sont les siennes actuellement. Dès lors, cette suppression aurait pour conséquence de mettre la France en infraction par rapport à la réglementation européenne, pour défaut de transposition de la directive européenne relative aux qualifications professionnelles. Enfin, sa fusion avec une autre instance ne peut être envisageable puisque les membres de chaque commission d'autorisation d'exercice diffèrent en fonction de la profession concernée. Les membres de la commission des conseillers en génétique doivent être des professionnels de santé compétents pour pouvoir statuer sur les demandes d'autorisation d'exercice. C'est la raison pour laquelle cette instance comprend notamment un généticien, un oncogénéticien, un conseiller en génétique et un conseiller en oncogénétique.
