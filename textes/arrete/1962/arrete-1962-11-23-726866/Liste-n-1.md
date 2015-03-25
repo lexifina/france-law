@@ -1186,7 +1186,7 @@ Melun-Villaroche |
 
 Seine-et-Marne |
 
-seuls les aéronefs basés sont autorisés à effectuer des tours de piste |
+seuls les aéronefs basés sont autorisés à effectuer des tours de piste. |
 
 Mende-Brenoux |
 
@@ -1630,7 +1630,7 @@ Landes |
 
 |
 
-Roanne-Renaison |
+Roanne |
 
 Loire |
 
