@@ -1240,7 +1240,7 @@ E. - TAXE POUR LE DÉVELOPPEMENT DES INDUSTRIES DE LA MÉCANIQUE, DES MATÉRIELS
 
 DU DÉCOLLETAGE, DE LA CONSTRUCTION MÉTALLIQUE ET DES MATÉRIELS AÉRAULIQUE ET THERMIQUES
 
-E-I. - Produits, activités et prestations relevant du centre technique des industries mécaniques :
+E-I. - Produits, activités et prestations relevant du centre technique des industries mécaniques et du centre technique des industries mécaniques et du décolletage :
 
 24.10.75
 
@@ -1538,15 +1538,13 @@ y compris :
 
 |
 
+-les opérations de contrôle et de reprise associées. |
+
 à l'exclusion :
 
 |
 
-- du décolletage mentionné au paragraphe E-III ;
-
-|
-
-- du découpage sur plan par laser mentionné dans la catégorie 28.50.1.
+- du découpage sur plan par laser mentionné dans la catégorie 25.50.1.
 
 |
 
@@ -1630,7 +1628,7 @@ Emballages légers métalliques, à l'exclusion :
 
 |
 
-Pointes, clous, punaises, agrafes et articles similaires, pour articles filetés et rondelles en aluminium autres que décolletés.
+Pointes, clous, punaises, agrafes et articles similaires, pour articles filetés et rondelles en aluminium.
 
 |
 
@@ -1662,7 +1660,7 @@ Aiguilles à coudre, aiguilles à tricoter, passe-lacets, crochets, poinçons à
 
 |
 
-Articles de boulonnerie-visserie, y compris tous les articles de fixation mécanique à l'exclusion des produits mentionnés au paragraphe E-III.
+Articles de boulonnerie-visserie, y compris tous les articles de fixation mécanique.
 
 |
 
@@ -2550,7 +2548,7 @@ Matériel électrique pour le soudage et le brasage, y compris : les machines ou
 
 |
 
-Parties de matériel électrique pour le soudage et le brasage ; parties de matériel électrique pour la projection à chaud de métaux ou de carbures métalliques frittés, pour les pièces, parties et accessoires des équipements mentionnés dans le paragraphe 27.91.31 ci-dessus.
+Parties de matériel électrique pour le soudage et le brasage ; parties de matériel électrique pour la projection à chaud de métaux ou de carbures métalliques frittés, pour les pièces, parties et accessoires des équipements mentionnés dans le paragraphe 27.90.31 ci-dessus.
 
 |
 
@@ -2614,43 +2612,7 @@ Machines-outils d'usinage des métaux opérant par enlèvement de matière par l
 
 |
 
-E-III. - Produits, activités et prestations relevant du centre technique de l'industrie du décolletage
-
-25.62.10
-
-|
-
-Décolletage, pour les activités et produits de décolletage, y compris :
-
-|
-
-- la sous-traitance ;
-
-|
-
-- la fabrication sur tours automatiques ou semi-automatiques, tours à barres, machines automatiques ou semi-automatiques à partir de barres, de couronnes, de tous profils, de pièces de formes diverses, qu'elles soient standards ou exécutées d'après dessin, en tous métaux ou matériaux non métalliques, destinées à la vente en l'état ou sous forme d'ensembles simples ;
-
-|
-
-- les opérations de contrôle et de reprise associées.
-
-|
-
-25.93.14
-
-|
-
-Pointes, clous, punaises, agrafes et articles similaires, pour les produits de boulonnerie et de visserie et les rondelles décolletés en aluminium et alliages
-
-|
-
-25.94.1
-
-|
-
-Articles de boulonnerie-visserie, pour les produits de la boulonnerie et visserie et les rondelles décolletés, en tous métaux autres qu'aluminium ou en matériaux non métalliques.
-
-|
+E-III. (abrogé)
 
 E-IV. - Produits, activités et prestations relevant du centre technique industriel de la construction métallique
 
