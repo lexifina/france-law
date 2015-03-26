@@ -1,0 +1,9 @@
+# Réponse à la question SEQ131109234
+
+- Question : [SEQ131109234](seq131109234.md) — Soins en hôpitaux de jour pour les personnes autistes
+
+## Réponse
+
+*Personnes handicapées et lutte contre l'exclusion, JO du 2015-03-26, page 703*
+
+Le troisième plan autisme, présenté le 2 mai 2013, pour la période 2013-2017 n'a pas d'objectif spécifique relatif à la remise en cause de structures particulières telles que les hôpitaux de jour. En revanche, il s'attache à faire évoluer et adapter le fonctionnement de tous les établissements et services, sanitaires ou médico-sociaux, la qualité des interventions proposées et leur pleine conformité avec les recommandations de bonnes pratiques publiées par la haute autorité de santé (HAS) et l'agence nationale de l'évaluation et de la qualité des établissements et services sociaux et médico-sociaux (ANESM). Par ailleurs, les équipes professionnelles sanitaires et médico-sociales, ainsi que les professionnels de l'éducation et les familles ont été concertées et ont collaboré à l'élaboration de ce plan. Les interventions personnalisées, globales et coordonnées, doivent être mises en œuvre précocement auprès des enfants. Les établissements de santé s'inscrivent donc bien dans l'organisation graduée de l'offre territoriale proposée dans le cadre du plan autisme 2013-2017 permettant aux personnes concernées un accès aux équipes hospitalières pluridisciplinaires et offrant des compétences médicales, psychologiques et paramédicales actualisées en conformité avec les recommandations de bonne pratique. Ces équipes peuvent donc proposer les interventions, les évaluations et les bilans nécessaires en lien étroit avec les familles et en coordination avec les professionnels libéraux, les acteurs éducatifs et médico-sociaux dans le cadre d'une organisation fonctionnelle cohérente.
