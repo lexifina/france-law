@@ -1,0 +1,9 @@
+# Réponse à la question SEQ140812808
+
+- Question : [SEQ140812808](seq140812808.md) — Formation des masseurs kinésithérapeutes
+
+## Réponse
+
+*Affaires sociales, santé et droits des femmes, JO du 2015-03-26, page 671*
+
+La ministre des affaires sociales, de la santé et des droits des femmes et la secrétaire d'État à l'enseignement supérieur et à la recherche se sont engagées à poursuivre le processus d'intégration des formations sanitaires et sociales dans le cursus licence-master-doctorat. S'agissant de la formation des masseurs-kinésithérapeutes, les travaux menés sur cette base ont révélé la difficulté de dispenser en trois ans cette formation spécifique. C'est pourquoi, en novembre 2014, en concertation avec l'ensemble des acteurs concernés, le Gouvernement a proposé la mise en place d'un nouveau schéma, qui s'appuiera sur des travaux collaboratifs pilotés par les ministères chargés de la santé et de l'enseignement supérieur et de la recherche et qui est organisé sur les bases suivantes : une formation spécifique en quatre ans attribuant 240 crédits ECTS (european credit system transfert) au sein des instituts de formation en masso-kinésithérapie, qui sera mise en place dès la rentrée 2015 ; une admission en institut de formation précédée d'une année universitaire pouvant prendre des formes différenciées : première année commune aux études de santé, première année en licence de sciences et techniques des activités physiques et sportives, licence dite « STAPS », ou en licence de biologie ; au terme de cette année universitaire, obtention par les étudiants de 60 crédits ECTS qu'ils pourront faire valoir dans le cadre de la poursuite éventuelle d'un parcours universitaire au-delà du diplôme de masseur-kinésithérapeute ; remplacement du concours de physique-chimie-biologie par de nouvelles modalités d'admission qui doivent être définies et qui entreront en vigueur au plus tôt en 2016.
