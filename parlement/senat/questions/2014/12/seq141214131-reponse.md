@@ -1,0 +1,9 @@
+# Réponse à la question SEQ141214131
+
+- Question : [SEQ141214131](seq141214131.md) — Crédits globalisés
+
+## Réponse
+
+*Éducation nationale, enseignement supérieur et recherche, JO du 2015-03-26, page 693*
+
+Les dispositions relatives à la LOLF ont, depuis le 1er janvier 2006, renforcé la responsabilité des autorités académiques. Les crédits destinés aux dépenses pédagogiques dans les EPLE sont attribués aux autorités académiques sous la forme d'une enveloppe globalisée au sein de laquelle la fongibilité est possible. Ces dispositions permettent de mieux tenir compte des besoins locaux. Ainsi, il appartient aux recteurs d'académie de répartir ces moyens en fonction des besoins de l'ensemble des structures scolaires. En 2014, les crédits du programme 141 « enseignement scolaire public du second degré » intègrent une mesure d'économie exceptionnelle annoncée dans le PLF 2014 d'un montant de 20,5 M€ sur l'acquisition des manuels scolaires dans les collèges. En effet, dans la perspective de la réforme du collège et de la mise en place de nouveaux programmes d'enseignement, l'acquisition de nouveaux manuels a été limitée à la rentrée 2014 aux compléments de collections afin de permettre aux établissements de faire face aux variations d'effectifs sur les différents niveaux de collège et de remplacer les manuels usagés. La baisse des crédits hors titre 2 sur le programme 141 s'est donc traduite au niveau des dotations globalisées par la diminution des subventions notamment pour les crédits pédagogiques en EPLE. Les autorités académiques restent néanmoins attentives aux difficultés rencontrées par les établissements dans le financement notamment des manuels scolaires et sont attachées à la responsabilité de l'État de prêter gratuitement les manuels scolaires aux élèves de collège.
