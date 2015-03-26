@@ -1,0 +1,9 @@
+# Réponse à la question SEQ141214108
+
+- Question : [SEQ141214108](seq141214108.md) — Enseignement supérieur et grandes écoles privées associatives à but non lucratif
+
+## Réponse
+
+*Éducation nationale, enseignement supérieur et recherche, JO du 2015-03-26, page 693*
+
+L'État apporte son soutien aux établissements d'enseignement supérieur privés lorsqu'ils répondent aux missions de service public de l'enseignement supérieur. À ce titre, les écoles membres de la fédération d'écoles supérieures d'ingénieurs et de cadres (FESIC) ont signé un contrat pluriannuel. Ces écoles sont en effet engagées dans des démarches de qualité des formations et d'innovations pédagogiques permettant la réussite des étudiants quelle que soit leur origine. L'État, en contrepartie, leur apporte un soutien financier. Au cours des dernières années, ces établissements ont contribué à l'effort de redressement des comptes publics. Dans ce cadre, les subventions qui représentent environ 10 % de leur budget, ont fait l'objet d'une baisse de crédits de 7,5 % en 2013 et de 5,5 % en 2014 à laquelle s'est ajoutée la réserve de précaution appliquée à l'ensemble des établissements d'enseignement supérieur. Pour 2015, la contribution de l'État aux écoles de la FESIC connaîtra une relative stabilité avec une diminution d'1 % des crédits. Par ailleurs, l'année 2015 verra la mise en œuvre d'une nouvelle disposition prévue par la loi du 22 juillet 2013 dans le cadre du renforcement des rapports entre l'État et les établissements d'enseignement supérieur privés à but non lucratif en leur permettant d'obtenir la qualification d'établissement d'enseignement supérieur privé d'intérêt général. Les écoles de la FESIC ont vocation à s'inscrire dans cette démarche qui leur permettra une meilleure reconnaissance des valeurs du service public de l'enseignement supérieur.
