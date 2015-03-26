@@ -1,0 +1,9 @@
+# Réponse à la question SEQ141013223
+
+- Question : [SEQ141013223](seq141013223.md) — Conséquences de l'embargo russe sur les produits ostréicoles
+
+## Réponse
+
+*Transports, mer et pêche, JO du 2015-03-26, page 705*
+
+L'attention du Gouvernement a été appelée concernant les difficultés rencontrées par les ostréiculteurs suite à l'embargo décidé par la Russie sur les produits alimentaires européens. Pour le secteur des mollusques, la Russie est le dixième client de la filière française avec 1,6 % des exportations françaises. Il s'agit quasi exclusivement d'huîtres creuses vivantes (93 %). Pour ce produit spécifiquement, la part de marché de la Russie atteint 6 % des exportations et la place au cinquième rang des clients de la France. Le secteur ostréicole français a exporté, en 2013, 5 tonnes d'huîtres plates vivantes de moins de 40 grammes destinées à être remises en élevage pour 42 000 euros, et 406 tonnes d'huîtres creuses vivantes destinées à la consommation humaine directe pour une valeur proche de 3,9 millions d'euros. Les conséquences de cet embargo sont potentiellement importantes pour une partie du secteur qui pourrait subir des pertes et préjudices sur des produits haut de gamme que le marché européen peut difficilement absorber compte tenu de leurs caractéristiques adaptées spécifiquement au marché russe. Le Gouvernement indique que FranceAgriMer a ouvert, depuis 2013, une mesure d'aide aux investissements immatériels des entreprises de commerce et de transformation des produits aquatiques qui voudraient développer ou diversifier un réseau d'export de ces produits. Cette mesure permet la prise en charge de 50 % du coût du prestataire, dans les limites fixées par le règlement de l'Union européenne portant sur les aides de minimis et peut permettre aux entreprises spécialisées vers la Russie de trouver des marchés d'exportation alternatifs.
