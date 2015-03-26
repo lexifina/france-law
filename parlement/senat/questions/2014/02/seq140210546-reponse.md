@@ -1,0 +1,9 @@
+# Réponse à la question SEQ140210546
+
+- Question : [SEQ140210546](seq140210546.md) — Affectation d'un hélicoptère pour le service départemental d'incendie et de secours de Guyane
+
+## Réponse
+
+*Intérieur, JO du 2015-03-26, page 696*
+
+Conformément à la décision du président de la République, le ministère de l'intérieur a ouvert une base dotée d'un hélicoptère de secours du groupement d'hélicoptères de la sécurité civile (GHSC) au premier semestre 2014. L'appareil a effectivement été mis en place à Cayenne début avril. Initialement hébergé sur la BA 367, l'appareil est désormais stationné sur la zone aéroportuaire, sur une emprise louée à la chambre de commerce et d'industrie, en cours d'aménagement d'infrastructures. Sur le plan opérationnel, la montée en puissance de la base progresse au gré des formations des partenaires aux techniques inhérentes au secours en milieu périlleux. La base devrait atteindre sa pleine capacité pour tous types de vols jour/nuit en ce début d'année. Cet EC 145, identique aux autres appareils armant l'ensemble de la flotte du GHSC, est doté des mêmes équipements et capacités (treuillage, vol aux instruments, vol de nuit sous jumelles de vision nocturne, flottabilité de secours etc.) et sera employé selon les règles communes à l'ensemble des hélicoptères de secours du ministère de l'intérieur. Cet appareil est mis à la disposition de l'ensemble des acteurs du secours. Son emploi est parfaitement encadré par l'ordre zonal d'opérations héliportées, arrêté par le préfet de la Guyane. Sa livrée tricolore a vocation à refléter son identité d'hélicoptère de secours à vocation interministérielle. Il sera d'autant mieux identifiable depuis le sol que sera apposé sous sa cellule l'emblème international de la sécurité civile (triangle bleu sur disque orange).
