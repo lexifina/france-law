@@ -1,0 +1,9 @@
+# Réponse à la question SEQ150114424
+
+- Question : [SEQ150114424](seq150114424.md) — Distribution d'électricité
+
+## Réponse
+
+*Écologie, développement durable et énergie, JO du 2015-03-26, page 685*
+
+La loi du 15 juin 1906 sur les distributions d'énergie a donné compétence en matière de distribution publique d'électricité aux communes ou aux syndicats de communes. Pour des raisons de taille et d'efficacité, le IV de l'article L. 2224-31 du code général des collectivités territoriales, introduit par la loi du 7 décembre 2006 relative au secteur de l'énergie, a encouragé, hormis pour les groupements de collectivités territoriales dont la population est déjà au moins égale à un million d'habitants, le regroupement des autorités organisatrices de la distribution publique d'électricité au niveau de syndicats départementaux. Ce regroupement à la maille départementale engagé depuis 2006 a ainsi déjà permis, selon le rapport annuel 2013 de la Cour des comptes, la constitution de 55 syndicats départementaux. Il donne satisfaction et constitue le niveau adéquat pour permettre les synergies nécessaires. Si la poursuite du regroupement à la maille départementale est bien souhaitée, il n'entre en revanche nullement dans les intentions du Gouvernement de remettre en cause le principe d'attribution de la compétence d'autorité organisatrice de la distribution publique d'électricité aux communes et à leurs groupements ; ceux-ci sont d'ailleurs propriétaires des ouvrages des réseaux publics de distribution, conformément à l'article L. 322-4 du code de l'énergie. En particulier, l'actuel projet de loi portant nouvelle organisation territoriale de la République ne remet pas en cause le rôle des syndicats d'électrification, et ne prévoit pas le transfert de leurs compétences aux départements. Au contraire, ce projet entend favoriser les intercommunalités puissantes, en cohérence avec le IV de l'article L. 2224-31 du code général des collectivités territoriales.
