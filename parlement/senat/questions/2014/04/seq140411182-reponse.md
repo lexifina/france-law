@@ -1,0 +1,9 @@
+# Réponse à la question SEQ140411182
+
+- Question : [SEQ140411182](seq140411182.md) — Dette publique
+
+## Réponse
+
+*Finances et comptes publics, JO du 2015-03-26, page 696*
+
+Conformément aux annonces du président de la République de janvier 2014, le Premier ministre a présenté en avril dernier le détail du plan de réduction de 50 Mds€ des dépenses publiques entre 2015 et 2017. Ce plan permet de mettre en œuvre le pacte de responsabilité et de solidarité dans le respect des engagements européens de réduction des déficits publics. Les économies seront réparties entre les différentes administrations participant aux dépenses publiques : État et organismes d'administration centrale, collectivités locales, organismes de sécurité sociale. Les économies prévues pour l'année 2015 ont intégralement été voté en LFI et LFSS 2015 pour un total de 21 Mds€. Par ailleurs, la loi de programmation des finances publiques (LPFP) pour la période 2014-2019 a été adopté par le Parlement en décembre dernier. Celle-ci intègre effectivement 50Mds€ d'économies sur la période 2015-2017 pour assurer une progression de la dépense publique en ligne avec l'inflation, sans prévoir de hausse de prélèvements, au-delà des mesures déjà décidée par assurer la soutenabilité des régimes de retraite et accompagner la transition énergétique. Bien au contraire, elle prévoit le déploiement de baisses sans précédent de prélèvements sur les entreprises et les ménages, au travers du CICE et du pacte de responsabilité et de solidarité. Cette politique d'assainissement sérieux des comptes publiques et de soutien à la croissance permettra à compter de 2016 de voir la dette publique se stabiliser puis reculer par rapport au PIB. Enfin, forte de cette stratégie, la France garde l'entière confiance des marchés puisqu'elle se finance aujourd'hui à des taux d'intérêt historiquement bas, de l'ordre de 0,5 % pour les dernières émissions d'obligations d'État à 10 ans.
