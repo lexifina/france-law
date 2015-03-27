@@ -6,7 +6,7 @@ NOMENCLATURE (ART. 2 DU DÉCRET N° 2007-243 DU 23 FÉVRIER 2007)
 
 |
 
-1.1. Transverses (structures dédiées de l'exploitant pour organiser le démantèlement de ses installations, frais d'études, inventaires physiques et radiologiques...).
+1.1. Transverses (structures dédiées de l'exploitant pour organiser le démantèlement de ses installations, frais d'études, inventaires physiques et radiologiques ...).
 
 1.2. Charges d'investissement et d'aménagements spécifiques.
 
@@ -16,17 +16,23 @@ a) Opérations visant au déclassement de l'installation : mise à l'arrêt déf
 
 b) Surveillance du site si ce poste est individualisé.
 
-1.4. Autres charges.
+1.4. Charges pour derniers cœurs, correspondant à la part du combustible en réacteur non irradié à l'arrêt définitif et qui ne peut pas être réutilisé du fait de contraintes techniques ou réglementaires :
 
-1.5. Quote-part des charges de démantèlement revenant à l'exploitant concerné et relatives à des installations exploitées par un tiers.
+a) Part amont, qui comprend le coût de la perte correspondante sur la valeur d'achat du combustible ;
+
+b) Part aval, qui comprend la part correspondant au coût des opérations de traitement du combustible, d'évacuation et de stockage des déchets.
+
+1.5. Autres charges.
+
+1.6. Quote-part des charges de démantèlement revenant à l'exploitant concerné et relatives à des installations exploitées par un tiers.
 
 |
 
-Cette catégorie ne comprend pas de charges liées au cycle d'exploitation au sens du II de l'article 20 de la loi n° 2006-739 du 28 juin 2006.
+Cette catégorie ne comprend pas de charges liées au cycle d'exploitation au sens de l'article L. 594-2 du code de l'environnement.
 
-Pour les catégories 1.1 à 1.4, est précisée la quote-part des charges à mettre en œuvre par l'exploitant et revenant à un tiers.
+Pour les catégories 1.1 à 1.5, est précisée la quote-part des charges à mettre en œuvre par l'exploitant et revenant à un tiers.
 
-Les charges mentionnées au 1.5 ne donnent pas lieu à constitution d'actifs par l'exploitant.
+Les charges mentionnées au 1.6 ne donnent pas lieu à constitution d'actifs par l'exploitant.
 
 |
 
@@ -50,7 +56,7 @@ e) Entreposage des colis de déchets ultimes sur site après traitement.
 
 |
 
-Les charges mentionnées au 2.1 sont liées au cycle d'exploitation au sens du II de l'article 20 de la loi n° 2006-739 du 28 juin 2006.
+Les charges mentionnées au 2.1 sont liées au cycle d'exploitation au sens de l'article L. 594-2 du code de l'environnement.
 
 |
 
@@ -70,7 +76,7 @@ b) Entreposage.
 
 |
 
-Cette catégorie ne comprend pas de charges liées au cycle d'exploitation au sens du II de l'article 20 de la loi n° 2006-739 du 28 juin 2006.
+Cette catégorie ne comprend pas de charges liées au cycle d'exploitation au sens de l'article L. 594-2 du code de l'environnement.
 
 Ne sont répertoriées au 3.1 que les charges de gestion de déchets donnant lieu à provision.
 
@@ -86,51 +92,51 @@ Les charges mentionnées au 3.3 ne donnent pas lieu à constitution d'actifs.
 
 a) Colis de déchets à produire, issus des opérations de cessation définitive d'exploitation, de mise à l'arrêt définitif et de démantèlement décrites en 1, en précisant les charges :
 
-i) s'il y a lieu, d'études et de recherches ;
+(i) s'il y a lieu, d'études et de recherches ;
 
-ii) s'il y a lieu, de construction du centre de stockage ;
+(ii) s'il y a lieu, de construction du centre de stockage ;
 
-iii) d'évacuation vers le centre de stockage ;
+(iii) d'évacuation vers le centre de stockage ;
 
-iv) d'exploitation du centre de stockage ;
+(iv) d'exploitation du centre de stockage ;
 
-v) de fermeture du centre de stockage ;
+(v) de fermeture du centre de stockage ;
 
 b) Colis de déchets à produire, à partir des combustibles usés existants non actuellement traités décrits en 2, en précisant les charges :
 
-i) s'il y a lieu, d'études et de recherches ;
+(i) s'il y a lieu, d'études et de recherches ;
 
-ii) s'il y a lieu, de construction du centre de stockage ;
+(ii) s'il y a lieu, de construction du centre de stockage ;
 
-iii) d'évacuation vers le centre de stockage ;
+(iii) d'évacuation vers le centre de stockage ;
 
-iv) d'exploitation du centre de stockage ;
+(iv) d'exploitation du centre de stockage ;
 
-v) de fermeture du centre de stockage ;
+(v) de fermeture du centre de stockage ;
 
 c) Colis de déchets à produire, issus des opérations de reprise et conditionnement des déchets anciens décrites en 3, en précisant les charges :
 
-i) s'il y a lieu, d'études et de recherches ;
+(i) s'il y a lieu, d'études et de recherches ;
 
-ii) s'il y a lieu, de construction du centre de stockage ;
+(ii) s'il y a lieu, de construction du centre de stockage ;
 
-iii) d'évacuation vers le centre de stockage ;
+(iii) d'évacuation vers le centre de stockage ;
 
-iv) d'exploitation du centre de stockage ;
+(iv) d'exploitation du centre de stockage ;
 
-v) de fermeture du centre de stockage ;
+(v) de fermeture du centre de stockage ;
 
 d) Colis de déchets déjà produits, en précisant les charges :
 
-i) s'il y a lieu, d'études et de recherches ;
+(i) s'il y a lieu, d'études et de recherches ;
 
-ii) s'il y a lieu, de construction du centre de stockage ;
+(ii) s'il y a lieu, de construction du centre de stockage ;
 
-iii) d'évacuation vers le centre de stockage ;
+(iii) d'évacuation vers le centre de stockage ;
 
-iv) d'exploitation du centre de stockage ;
+(iv) d'exploitation du centre de stockage ;
 
-v) de fermeture du centre de stockage ;
+(v) de fermeture du centre de stockage ;
 
 4.2. Autres, en précisant les charges :
 
@@ -146,7 +152,7 @@ e) De fermeture du centre de stockage.
 
 |
 
-Cette catégorie ne comprend pas de charges liées au cycle d'exploitation au sens du II de l'article 20 de la loi n° 2006-739 du 28 juin 2006.
+Cette catégorie ne comprend pas de charges liées au cycle d'exploitation au sens de l'article L. 594-2 du code de l'environnement.
 
 Les charges de gestion des déchets à vie courte résultant de l'exploitation des installations en service ne donnent pas lieu à provision et ne sont pas répertoriées au 4.
 
@@ -160,6 +166,6 @@ Charges de surveillance du stockage.
 
 |
 
-Cette catégorie ne comprend pas de charges liées au cycle d'exploitation au sens du II de l'article 20 de la loi du 28 juin 2006 susvisée.
+Cette catégorie ne comprend pas de charges liées au cycle d'exploitation au sens de l'article L. 594-2 du code de l'environnement.
 
 |
