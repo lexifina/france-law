@@ -1,0 +1,33 @@
+# Réponse à la question n° 984
+
+- Question : [984](984.md) — Question n° 984 — nuisances sonores; pollution; réglementation
+
+## Réponse
+
+*JO du 2015-03-27*
+
+CONCILIATION ENTRE LE DÉVELOPPEMENT DE L'AÉROPORT D'ORLY ET LES CONDITIONS DE VIE DES RIVERAINS.
+
+Mme la présidente. La parole est à M. Romain Colas, pour exposer sa question, n° 984, relative à la conciliation entre le développement de l'aéroport d'Orly et les conditions de vie des riverains.
+
+M. Romain Colas. Madame la présidente, monsieur le secrétaire d’État, mes chers collègues, le 19 janvier dernier était rendu public le nouveau contrat de régulation économique pour la période quinquennale 2016-2020 élaboré par Aéroports de Paris – ADP. Son président, Augustin de Romanet, a affirmé à cette occasion sa confiance en la capacité d'ADP à conquérir le trafic. Il n'est bien entendu pas question de remettre en cause ces légitimes ambitions tant nous connaissons l'importance d'une plate-forme aéroportuaire pour le rayonnement économique, commercial et culturel de la région Île-de-France.
+
+Néanmoins, le développement de tels équipements, dans un contexte où la réflexion s'intensifie sur des modes de déplacement plus propres et respectueux de l'environnement, doit pouvoir se faire avec ce nouveau prisme. Or, j'ai été saisi – et je ne suis pas le seul – par un certain nombre d'associations de riverains qui s'inquiètent des évolutions, tant réglementaires que commerciales, qui pourraient avoir un impact sur les nuisances émanant de la plate-forme aéroportuaire d'Orly.
+
+En effet, plusieurs écueils à la réduction du bruit et à la lutte contre la pollution atmosphérique se font jour. Le règlement européen no 598-2014 relatif à l'établissement de règles et de procédures concernant l'introduction de restrictions d'exploitation liées au bruit dans les aéroports de l’Union, qui remplacera la directive no 2002/30/CE, permettra, certes, de fixer la méthode que les États membres devront appliquer lorsqu'ils envisageront de mettre en place des restrictions d'exploitation sur les grands aérodromes. Néanmoins, les nuisances sonores comme critère de limitation du trafic pourraient progressivement perdre en pertinence. Moins de bruit par avion entraînerait mécaniquement une augmentation du nombre de vols, comme le contrat de régulation économique quinquennal le prévoit, avec 3,1 milliards d'euros supplémentaires en investissement global et un trafic qui pourrait passer, à Orly, de 234 000 à 245 000 vols par an – dont un plus grand nombre de gros-porteurs.
+
+Dans le même temps, les associations s'inquiètent de la baisse de la taxe sur les nuisances sonores aériennes – la TNSA –, plafonnée à 48 millions d'euros en 2015. Pourtant, d'après une étude du conseil général de l'environnement et du développement durable datant de mai dernier, quelque 60 000 logements et 180 établissements d'éducation et de santé restaient à insonoriser autour des aéroports franciliens. Cela a des conséquences sur l'allongement des délais de traitement des dossiers de riverains et sur l'investissement local et les entreprises.
+
+Aussi, je souhaiterais savoir, monsieur le secrétaire d’État, comment le Gouvernement envisage de concilier le nécessaire développement économique de l'aéroport d'Orly avec l'indispensable limitation des nuisances.
+
+Mme la présidente. La parole est à M. le secrétaire d'État chargé des transports, de la mer et de la pêche.
+
+M. Alain Vidalies, secrétaire d'État chargé des transports, de la mer et de la pêche. Monsieur le député, je partage pleinement votre souci de préserver la qualité de vie des populations riveraines de l'aéroport de Paris Orly tout en permettant à celui-ci de se développer. La réglementation environnementale en vigueur répond justement à ce double objectif. La situation de cet aéroport dans un environnement particulièrement urbanisé a justifié deux mesures environnementales précises : depuis 1968, l'aéroport d'Orly fait l'objet d'un couvre-feu nocturne total, mesure exceptionnelle particulièrement contraignante ; depuis 1994, le nombre de créneaux attribuables est plafonné à 250 000 par an.
+
+Comme j'ai eu l'occasion de vous l'écrire, il n'est pas question de remettre en cause ni l'une ni l'autre de ces mesures. Aéroports de Paris connaît très bien la position de l'État et n'a pas demandé, à l'occasion de son projet de modernisation de l'aéroport, la modification de ces règles environnementales en vigueur. Ces investissements sont réalisés pour améliorer la qualité de l'accueil des passagers, notamment grâce à une jonction des deux terminaux Ouest et Sud et à une jetée à l'Est du terminal Sud, et en aucun cas pour accueillir davantage de mouvements.
+
+Vous citez le règlement européen 598-2014 qui remplacera, à partir de juin 2016, la directive européenne de 2002 concernant les restrictions d'exploitation sur les grands aéroports de l'Union européenne. Il semble que la publication de ce texte génère beaucoup de confusion, alors même que ce règlement ne remet nullement en cause les restrictions d'exploitation existantes. Je le répète, ce texte ne conduira pas à substituer un plafond de bruit à la limitation actuelle du nombre de créneaux horaires attribuables à Orly, même si les nouveaux avions sont moins bruyants. En ce qui concerne la pollution atmosphérique, je vous rappelle que depuis 2012, l'utilisation des moteurs auxiliaires de puissance, moteurs situés dans la queue de l'appareil qui fournissent l'électricité et l'énergie nécessaires au démarrage des moteurs principaux, est limitée. Les compagnies aériennes doivent utiliser chaque fois que possible des moyens de substitution moins polluants, tels que les branchements électriques de l'aéroport et les moyens mobiles de chauffage et climatisation.
+
+Au-delà de ces dispositions réglementaires, Aéroports de Paris a entrepris un certain nombre d'actions pour réduire les émissions polluantes de ses activités : remplacement de véhicules utilitaires à essence par des véhicules électriques, maîtrise de la consommation énergétique des bâtiments, publication d'un guide de bonne pratique prévoyant des indicateurs de suivi pour réduire les émissions de polluants atmosphériques et de CO2 de ses activités. J'ajoute que, comme tous les exploitants de grands aéroports, Aéroports de Paris doit mesurer la qualité de l'air de l'aéroport d'Orly et en publier les résultats.
+
+Vous pouvez le constater, monsieur le député, le Gouvernement s'attache à concilier la sauvegarde de l'intérêt des riverains et le développement économique de l'aéroport d'Orly ; il n'est nullement dans son intention de remettre en question cette politique.
