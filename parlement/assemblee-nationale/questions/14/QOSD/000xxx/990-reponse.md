@@ -1,0 +1,35 @@
+# Réponse à la question n° 990
+
+- Question : [990](990.md) — Question n° 990 — valeurs locatives; révision; perspectives
+
+## Réponse
+
+*JO du 2015-03-27*
+
+RÉFORME DES VALEURS LOCATIVES DES LOCAUX PROFESSIONNELS
+
+Mme la présidente. La parole est à Mme Annie Genevard, pour exposer sa question, n° 990, relative à la réforme des valeurs locatives des locaux professionnels.
+
+Mme Annie Genevard. Comme annoncé ce mardi, le Gouvernement compte demander le report d'un an de la réforme de la valeur locative des locaux professionnels qui concerne avant tout les commerçants des centres-villes. Il y avait urgence car on avait déjà demandé aux élus locaux de réunir les commissions intercommunales des impôts directs pour procéder à la révision des valeurs locatives des locaux professionnels. Faute de simulation, il leur a fallu décider à l'aveugle. Au reste, certains ont même refusé de se prononcer, craignant des conséquences néfastes. De nombreux élus, chefs d'entreprise et artisans craignent que la mise en œuvre de la réforme ne revalorise les valeurs locatives des commerces et des artisans implantés en centre-ville.
+
+En effet, la valeur locative des commerces se fonde sur le montant des loyers rapporté à la surface en incluant les parkings de la grande distribution, ce qui fait mécaniquement baisser le prix au mètre carré. La conséquence est terriblement limpide : ce sont les commerces de centralité, aux surfaces petites surfaces et aux loyers élevés, qui feront les frais de la révision ! Nous avons été nombreux à donner l'alerte et faire part de nos inquiétudes, notamment l'assemblée permanente des chambres de métiers et de l'artisanat, la confédération générale du patronat des petites et moyennes entreprises, le comité des finances locales au sein duquel je siège et moi-même hier encore lors de la séance de questions au Gouvernement.
+
+À l'unanimité, le comité des finances locales a demandé au Gouvernement la réalisation de simulations des conséquences de la révision au niveau de chaque commune et l'obligation de la saisie des commissions locales et départementales des impôts directs avant toute décision de mise en œuvre. Le secrétaire d’État au budget a indiqué que le travail de révision est un travail de bénédictin, ce que je veux bien croire ! Pouvez-vous nous indiquer les modalités du report au 1er janvier 2017, monsieur le secrétaire d’État ? Comment répondrez-vous concrètement aux inquiétudes grandissantes des élus, des commerçants et des artisans ? Des simulations seront-elles proposées afin d'éclairer les élus ? Surtout - personne n'a évoqué ce point jusqu'à présent - dispose-t-on des retours des expérimentations menées en 2011 dans les cinq départements de l'Hérault, la Haute-Vienne, le Pas-de-Calais, le Bas-Rhin et Paris ? Pourquoi celles-ci n'ont-elles pas été évoquées ? En d'autres termes, dans le contexte économique particulièrement difficile et morose que nous connaissons, comment éviter que la révision de la valeur locative des locaux professionnels ne fragilise un peu plus les commerçants et les artisans de nos villes ?
+
+M. Xavier Breton. Excellente question !
+
+Mme la présidente. La parole est à M. le secrétaire d'État chargé des relations avec le Parlement.
+
+M. Jean-Marie Le Guen, secrétaire d'État chargé des relations avec le Parlement. La révision des valeurs locatives des locaux professionnels résulte d'une volonté des parlementaires matérialisée par le vote avec avis favorable du Gouvernement d'un amendement à la loi de finances rectificative du 29 décembre 2013. Cette mesure est également revendiquée par les associations d'élus et régulièrement rappelée au Gouvernement, comme ce fut le cas lors du dernier Congrès des maires de France. Ces revendications s'expliquent par deux facteurs principaux. D'une part, la révision des valeurs locatives est une mesure de justice fiscale, car les valeurs locatives actuelles résultent d'évaluations datant du début des années soixante-dix et ne tiennent pas compte de l'évolution de la valeur des biens depuis lors. Il en résulte une injustice flagrante entre les contribuables.
+
+D'autre part, la révision des valeurs locatives est la condition d'une remise à plat des finances locales. En effet, l'ensemble des dispositifs de répartition des dotations de l'État et de péréquation entre les collectivités sont fondés sur ces valeurs aujourd'hui obsolètes. Le Gouvernement a pris note de vos préoccupations, madame la députée, et est lui-même extrêmement attentif aux conséquences de la révision. Comme vous le savez, Christian Eckert a annoncé mardi qu'il proposerait au Parlement de reporter l'entrée en vigueur afin de tirer toutes les conclusions des travaux en cours, notamment des expériences que vous avez évoquées.
+
+Notre premier souci est identique au vôtre : disposer d'éléments stabilisés pour évaluer précisément, dès cet été, les effets de la réforme sur les territoires grâce à des simulations. Seules ces simulations permettront d'avoir une vision claire des effets de transfert entre contribuables, qui résulteront d'une réforme qui, je le rappelle, s'effectue à produit fiscal constant. Toutefois, il ne pourra y être procédé qu'une fois que les travaux des commissions intercommunales des impôts seront achevés. C'est pourquoi il est essentiel qu'ils aillent à leur terme.
+
+Soyez assurée de l'entière mobilisation de la direction générale des finances publiques pour contribuer aux travaux des commissions et fournir l'ensemble des informations utiles. Cet été, nous serons collectivement en mesure de mieux identifier les impacts de la réforme et d'envisager les évolutions législatives qui pourraient être nécessaires dans le cadre du projet de loi de finances pour 2016, notamment afin de rendre la réforme soutenable pour les professionnels. Le Gouvernement s'engage à travailler avec le Parlement sur ce sujet, comme il le fait depuis le début du processus.
+
+Mme la présidente. La parole est à Mme Annie Genevard.
+
+Mme Annie Genevard. J'aimerais que nous dissipions une zone d'ombre dans votre argumentation, monsieur le secrétaire d'État. Vous nous dites qu'il faut que le travail des commissions intercommunales des impôts directs aille à son terme. C'est bien là que se situe le problème. Ces commissions se sont réunies ; on leur a demandé de remettre leurs conclusions sur le zonage qui déterminera la révision des valeurs locatives avant une date butoir. Or ce travail, elles l'ont conduit à l'aveugle, sans disposer des simulations montrant les conséquences des décisions qu'on leur demandait de prendre.
+
+Vous comprenez le problème : on fixe comme préalable que les commissions intercommunales des impôts directs rendent leurs conclusions, avant de prendre les décisions. C'est précisément l'inverse qu'il faut faire. Vous parlez de justice fiscale, et nous partageons ce souci. Mais les premières simulations qui ont été faites montrent que ce sont les commerces de centralité, qui connaissent des problèmes particuliers – il n'est que de voir les friches commerciales dans nos centres-villes – qui risquent d'être touchés négativement. Il y a là un risque de déni de justice.<b
