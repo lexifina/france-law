@@ -500,11 +500,11 @@ Haras, courses et équitation
 
 |
 
-Approbation des programmes et des calendriers des courses des sociétés de courses autres que les sociétés mères
+Approbation et modification des programmes et des calendriers des courses des sociétés de courses autres que les sociétés mères
 
 |
 
-Décret n° 97-456 du 5 mai 1997 relatif aux sociétés de courses de chevaux et au pari mutuel, art. 12 et 22.
+Décret n° 97-456 du 5 mai 1997 relatif aux sociétés de courses de chevaux et au pari mutuel, art. 3, 12 et 22.
 
 |
 
