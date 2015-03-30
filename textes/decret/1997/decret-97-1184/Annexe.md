@@ -114,6 +114,18 @@ Article R. 2342-19
 
 |
 
+5
+
+|
+
+Décisions imposant aux opérateurs d'importance vitale un contrôle de leurs systèmes d'information.
+
+|
+
+Article R. 1332-41-12
+
+|
+
 Décret n° 2002-535 du 18 avril 2002 relatif à l'évaluation et à la certification de la sécurité offerte par les produits et les systèmes des technologies de l'information.
 
 1
@@ -174,7 +186,45 @@ Délivrance, suspension et retrait de la qualification de prestataires de servic
 
 |
 
-Second alinéa de l'article 19.
+Second alinéa de l'article 19
+
+|
+
+Décret n° 2015-350 du 27 mars 2015 relatif à la qualification des produits de sécurité et des prestataires de service de confiance pour les besoins de la sécurité nationale :
+
+1
+
+|
+
+Délivrance, suspension et abrogation de la qualification des produits de sécurité.
+
+|
+
+Deuxième et troisième alinéas de l'article 7
+
+|
+
+2
+
+|
+
+Délivrance, suspension et abrogation de la qualification des prestataires de service de confiance.
+
+|
+
+Deuxième alinéa de l'article 14 et second alinéa de l'article 15
+
+|
+
+3
+
+|
+
+Délivrance, suspension et abrogation de l'agrément des centres d'évaluation.
+
+|
+
+Deuxième alinéa de l'article 19 et second alinéa de l'article 20
 
 |
 
@@ -305,9 +355,3 @@ Décisions amiables d'indemnisation résultant de la mise en cause de la respons
 |
 
 Décisions relatives à l'activité des exploitants primaires de données d'origine spatiale prévues aux articles 23 à 25 de la loi n° 2008-518 du 3 juin 2008 relative aux opérations spatiales.
-
-NOTA :
-
-Le décret n° 2013-542 du 26 juin 2013 a reporté la date d'entrée en vigueur du décret n° 2012-901 du 20 juillet 2012 au 9 janvier 2014.
-
-Le décret n° 2013-1160 du 14 décembre 2013 a reporté la date d'entrée en vigueur du décret n° 2012-901 du 20 juillet 2012 au 4 juin 2014.
