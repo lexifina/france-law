@@ -6,6 +6,8 @@ Secteur industrie
 
 - Système de récupération de chaleur sur une tour aéroréfrigérante / Fiche d’opération standardisée n° IND-BA-112
 
+- Conduits de lumière naturelle / Fiche d’opération standardisée n° IND-BA-114
+
 - Système de variation électronique de vitesse sur un moteur asynchrone / Fiche d’opération standardisée n° IND-UT-102
 
 - Système de récupération de chaleur sur un compresseur d’air / Fiche d’opération standardisée n° IND-UT-103
@@ -19,6 +21,8 @@ Secteur industrie
 - Système de condensation frigorifique à haute efficacité / Fiche d’opération standardisée n° IND-UT-113
 
 - Moto-variateur synchrone à aimants permanents / Fiche d’opération standardisée n° IND-UT-114
+
+- Système de régulation sur un groupe de production de froid permettant d’avoir une basse pression flottante / Fiche d’opération standardisée n° IND-UT-115
 
 - Système de régulation sur un groupe de production de froid permettant d’avoir une haute pression flottante / Fiche d’opération standardisée n° IND-UT-116
 
@@ -41,5 +45,9 @@ Secteur industrie
 - Système de transmission performant / Fiche d’opération standardisée n° IND-UT-127
 
 - Presse à injecter toute électrique ou hybride / Fiche d’opération standardisée n° IND-UT-129
+
+Liens :
+
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0075 du 29/03/2015, texte n° 6, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=xhmSfzOnsCkjNrGahHphZrmpoFhR61mGJ7APKjTA6As=
 
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0297 du 24/12/2014, texte n° 18, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=FGBMw6bzzOGU6LHfYz6-OOYiF3mTkUVDd1KHOMS6u0s=

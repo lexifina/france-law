@@ -22,9 +22,19 @@ Secteur agriculture
 
 - Ecrans thermiques latéraux / Fiche d’opération n° AGRI-EQ-104
 
+- Moto-variateur synchrone à aimants permanents / Fiche d'opération n° AGRI-UT-101
+
 - Système de variation électronique de vitesse sur un moteur asynchrone / Fiche d’opération n° AGRI-UT-102
 
+- Pré-refroidisseur de lait / Fiche d'opération n° AGRI-TH-103
+
+- Pompe à chaleur de type air/eau ou eau/eau / Fiche d'opération n° AGRI-TH-108
+
 Liens
+
+Vous pouvez consulter les fiches dans le fac-similé du JO nº 0075 du 29/03/2015, texte nº 6
+
+https://www.legifrance.gouv.fr/download/pdf?id=xhmSfzOnsCkjNrGahHphZrmpoFhR61mGJ7APKjTA6As=
 
 Vous pouvez consulter les fiches dans le fac-similé du JO nº 0294 du 24/12/2014, texte nº 18
 

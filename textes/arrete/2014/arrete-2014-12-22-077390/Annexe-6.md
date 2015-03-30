@@ -14,6 +14,8 @@ Secteur transport
 
 - Véhicule de transport de marchandises optimisé / Fiche d’opération n° TRA-EQ-115
 
+- Lubrifiant économiseur d’énergie pour la pêche professionnelle / Fiche d’opération n° TRA-EQ-118
+
 - Optimisation de la combustion et de la propreté des moteurs Diesel / Fiche d’opération n° TRA-EQ-119
 
 - Formation d’un chauffeur de transport à la conduite économe / Fiche d’opération n° TRA-SE-101
@@ -32,9 +34,13 @@ Secteur transport
 
 - Gestion optimisée de la globalité du poste pneumatique (Véhicules de transport de personnes) / Fiche d’opération n° TRA-SE-111
 
+- Service d’autopartage en boucle / Fiche d’opération n° TRA-SE-112
+
 - Suivi des consommations de carburants grâce à des cartes privatives / Fiche d’opération n° TRA-SE-113
 
-Lien :
+Liens :
+
+Vous pouvez consulter l’intégralité du texte avec ses images à partir de l’extrait du Journal officiel électronique authentifié n° 75 du 29/03/2015, texte nº 6, accessible à l’adresse suivante : https://www.31.gouv.fr/download/pdf?id=xhmSfzOnsCkjNrGahHphZrmpoFhR61mGJ7APKjTA6As=
 
 Vous pouvez consulter l’intégralité du texte avec ses images à partir de l’extrait du Journal officiel électronique authentifié n° 297 du 24/12/2014, texte nº 18, accessible à l’adresse suivante :
 
