@@ -1,0 +1,9 @@
+# Réponse à la question n° 73214
+
+- Question : [73214](73214.md) — Question n° 73214 — accompagnement à l'installation; perspectives
+
+## Réponse
+
+*JO du 2015-03-31*
+
+L'attention du secrétariat d'État aux transports, à la mer et à la pêche a été appelée concernant la possibilité de transposer les politiques d'accompagnement des jeunes agriculteurs au secteur de la pêche. L'article 31 du règlement du Fonds européen pour les affaires maritimes et la pêche (FEAMP) doit permettre de répondre à cette préoccupation, puisqu'il maintient l'aide à l'installation des jeunes pêcheurs (moins de 40 ans) dans le cadre de l'acquisition de leur premier navire. Le navire devra mesurer moins de 24 mètres, avoir moins de 30 ans et ne pas appartenir à un segment identifié comme surcapacitaire par le rapport « capacité de pêche » réalisé au titre de l'article 22 du règlement CE n° 1380/2013, relatif à la politique commune des pêches. Le projet devra s'appuyer sur un plan d'entreprise afin de favoriser la sélection des projets les plus pertinents. L'aide permettra de financer jusqu'à 25 % (dans la limite de 75 000 €) du prix du navire ce qui constituera un apport particulièrement intéressant pour débloquer le soutien des organismes bancaires. Cette mesure sera gérée au niveau régional dans le cadre des mesures pour lesquelles la région Bretagne sera autorité de gestion déléguée. En ce qui concerne la possibilité de mettre en place un dispositif d'aide spécifique par la Communauté de communes, tout autre dispositif d'aide que celui qui est prévu par le FEAMP devra faire l'objet d'une notification auprès de la Commission européenne dans le cadre des textes réglementant les aides d'État. En revanche, il est tout à fait possible d'apporter des contreparties financières aux fonds européens, en lien avec la région Bretagne, autorité de gestion déléguée pour cette mesure, pour en préciser les modalités spécifiques.
