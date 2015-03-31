@@ -1,0 +1,9 @@
+# Réponse à la question n° 58959
+
+- Question : [58959](58959.md) — Question n° 58959 — réseaux sociaux; jeunes; protection
+
+## Réponse
+
+*JO du 2015-03-31*
+
+Le phénomène des jeux dangereux et jeux de défi est particulièrement préoccupant et appelle toute l'attention et la vigilance des pouvoirs publics. La pratique de ces jeux est notamment encouragée par le biais d'internet et des réseaux sociaux. Le droit offre des moyens de lutter contre ce phénomène. Ainsi, la provocation des mineurs à participer à ce type de jeux est prohibée par le code pénal ; l'article 227-24 punit de trois ans d'emprisonnement et de 75 000 euros d'amende le fait de fabriquer et de diffuser, par quelque moyen que ce soit et quel qu'en soit le support, un message susceptible d'être vu ou perçu par des mineurs, et de nature à les inciter à se livrer à des jeux les mettant physiquement en danger. Dans la mesure où les personnes majeures sont supposées disposer du discernement suffisant pour apprécier la dangerosité d'un acte même présenté sous la forme d'un jeu, la loi ne sanctionne pas le fait de provoquer une personne majeure à participer à un jeu de défi pouvant se révéler dangereux. Toutefois, les jeux de défi réalisés par un groupe de personnes réunies en un lieu déterminé pourraient être interdits s'ils constituent un risque de troubles à l'ordre public. En outre, en vue d'alerter les plus jeunes et les adultes sur les dangers que présentent les jeux de défi, une campagne de sensibilisation a été lancée par la police nationale via internet sous le slogan « avant de relever un défi pensez à votre vie ». De même, avec l'appui de fonctionnaires de police, des actions de prévention ont notamment été menées dans des écoles. Les pouvoirs publics restent donc mobilisés et vigilants sur les risques présentés par les jeux de défis et sont prêts à utiliser les outils juridiques à leur disposition.
