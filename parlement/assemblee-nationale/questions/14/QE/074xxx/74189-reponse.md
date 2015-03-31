@@ -1,0 +1,9 @@
+# Réponse à la question n° 74189
+
+- Question : [74189](74189.md) — Question n° 74189 — Président Mugabe; attitude de la France
+
+## Réponse
+
+*JO du 2015-03-31*
+
+La France a pris note de l'élection à la présidence de l'Union africaine du président de la République du Zimbabwe. Elle respecte les décisions de cette organisation régionale, avec laquelle elle travaille très étroitement. La France souhaite poursuivre son partenariat actif avec l'Union africaine, visant notamment à renforcer les capacités africaines de réaction aux crises et à soutenir l'intégration sur le continent. La France participe à l'élaboration des décisions européennes concernant le Zimbabwe et veille à leur bonne application. Elle partage l'analyse qui a été faite des évolutions récentes de la démocratie, de la situation des droits de l'Homme et de l'Etat de droit au Zimbabwe, ainsi que les conclusions qui en ont été tirées. La France soutient ainsi le réengagement progressif de l'Europe au Zimbabwe. L'expiration, le 1er novembre 2014, des mesures prises au titre de l'article 96 de Cotonou permet la reprise de la coopération européenne avec le gouvernement du Zimbabwe. En revanche, les sanctions européennes à l'encontre du président Mugabe et de son épouse ont été reconduites le 19 février 2015 pour douze mois. Il reste toutefois possible que Robert Mugabe séjourne en France, en sa qualité de président du Zimbabwe ou de président de l'Union africaine. En effet, l''interdiction de séjour en Europe qui le vise, en vigueur depuis 2002, prévoit des exceptions, notamment dans le cas où un État membre est lié par une obligation de droit international, en tant que pays hôte d'une organisation internationale intergouvernementale, ou en tant que pays hôte d'une conférence internationale convoquée par les Nations unies ou tenue sous leurs auspices.
