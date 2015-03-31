@@ -1,0 +1,9 @@
+# Réponse à la question n° 65101
+
+- Question : [65101](65101.md) — Question n° 65101 — intercommunalité; territoires insulaires; seuils
+
+## Réponse
+
+*JO du 2015-03-31*
+
+Afin de renforcer les solidarités territoriales et de permettre aux intercommunalités de devenir des structures de proximité, mutualisant leurs actions, adaptées à la gestion de compétences renforcées et offrant de meilleurs services aux citoyens, l'article 14 du projet de loi portant nouvelle organisation territoriale de la République (NOTR), propose une nouvelle orientation de la rationalisation de la carte intercommunale autour de la notion de bassin de vie et axée sur un accroissement de la taille minimale des établissements publics de coopération intercommunale (EPCI) à fiscalité propre de 5 000 à 20 000 habitants. Les dispositions prévues aux 1° du III et au V de l'article L. 5210-1-1 du CGCT, prévoyant respectivement, d'une part que le seuil de constitution des EPCI à fiscalité propre peut être abaissé par le représentant de l'Etat dans le département pour tenir compte des caractéristiques géographiques particulières de certains espaces, d'autre part que le schéma départemental de coopération intercommunale (SDCI) n'est pas dans l'obligation de prévoir la couverture intégrale du territoire par des EPCI à fiscalité propre pour les îles maritimes composées d'une seule commune, n'est pas remise en cause. Dès lors, la particularité géographique caractérisant les territoires insulaires pourra toujours être prise en compte à l'occasion de la formation d'EPCI à fiscalité propre de taille plus importante. Enfin, comme l'a confirmé le Premier ministre le 28 octobre dernier devant le Sénat, le Gouvernement sera attentif, au cours des débats parlementaires à venir, à toute suggestion relative aux adaptations à apporter au seuil des 20 000 habitants.
