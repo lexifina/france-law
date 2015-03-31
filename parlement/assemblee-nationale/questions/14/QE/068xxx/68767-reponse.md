@@ -1,0 +1,9 @@
+# Réponse à la question n° 68767
+
+- Question : [68767](68767.md) — Question n° 68767 — ventes; transactions de particuliers à particuliers; perspectives
+
+## Réponse
+
+*JO du 2015-03-31*
+
+Le marché de la vente de biens immobiliers est librement accessible à tous les acteurs économiques, chacun demeurant soumis à des règles spécifiques. Ainsi, les agents immobiliers, en tant que professionnels du secteur, doivent respecter les règles spécifiques fixées par la loi n° 70-9 du 2 janvier 1970 dite loi Hoguet. Les particuliers, s'occupant eux-mêmes de la vente de leur logement, ne sauraient être considérés comme des professionnels et, partant, soumis aux mêmes règles qu'eux. Les technologies de l'information et de la communication ont effectivement fortement influencé les comportements des acteurs du marché de l'immobilier. Les sites d'annonces en ligne deviennent incontournables pour la vente d'un logement, tant pour les particuliers que pour les agents immobiliers qui se sont parfaitement adaptés à cette évolution. Sur le fond, un particulier ne peut exercer une concurrence déloyale à l'encontre d'un professionnel puisqu'il n'agit qu'à titre occasionnel et ne fournit pas de prestation de service. C'est précisément pour cette raison qu'il n'y a pas de « manque à gagner pour l'Etat » puisque l'assiette imposable est inexistante dans le cadre d'une vente immobilière réalisée de particulier à particulier (pas de prestation de service). Enfin, les sites d'annonces immobilières en lignes sont très majoritairement alimentés par des annonces passées par des professionnels, la plupart des sites leur étant d'ailleurs exclusivement réservés. Ceci permet enfin de voir la part de marché détenue par les agents immobiliers sur les transactions de vente croître. 68 % des ventes réalisées en 2012 le sont grâce à l'entremise d'un agent immobilier, contre 63 % en 2010 (source : étude XERFI).
