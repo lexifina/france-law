@@ -1,0 +1,9 @@
+# Réponse à la question n° 72077
+
+- Question : [72077](72077.md) — Question n° 72077 — programme; mise en oeuvre
+
+## Réponse
+
+*JO du 2015-03-31*
+
+L'engagement du président de la République d'introduire une séparation stricte, au sein des groupes bancaires, entre les activités utiles au financement de l'économie (comme la tenue de marché) et les activités spéculatives a été mis en oeuvre dans le Titre Ier de la loi du 26 juillet 2013 de séparation et de régulation des activités bancaires qui prévoit que les activités de marché spéculatives sont interdites, à moins qu'elles ne soient menées au sein de filiales dédiées. Cette interdiction ou ségrégation ne s'applique pas aux activités utiles au financement de l'économie (fourniture de services d'investissement, compensation, couverture, tenue de marché, gestion saine et prudente de la trésorerie, opérations d'investissement du groupe). Cette séparation sera effective d'ici au 1er juillet 2015. Un arrêté, pris le 9 septembre 2014, a en outre fixé les dispositions auxquelles la loi renvoyait par arrêté : modalités de création de la filiale ségréguée, caractéristiques détaillées de gestion des activités de marché et d'exclusion des expositions aux hedge funds, indicateurs sur la tenue de marché. Ce texte permettra à l'Autorité de contrôle prudentiel et de résolution (ACPR) de contrôler, à un niveau détaillé de l'organisation de chaque banque, que les activités spéculatives sont bien isolées et que les autres activités de marché ne cachent pas d'activités spéculatives. Le dispositif est en cours de déploiement : chaque établissement a soumis à l'ACPR une cartographie de ses activités et est tenu, à compter du 1er avril 2015, de lui fournir chaque trimestre une série d'indicateurs d'activité et de risques de ses opérations de tenue de marché.
