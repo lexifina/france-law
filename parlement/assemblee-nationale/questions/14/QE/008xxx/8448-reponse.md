@@ -1,0 +1,9 @@
+# Réponse à la question n° 8448
+
+- Question : [8448](8448.md) — Question n° 8448 — centrales thermiques; emploi et activité; Moselle
+
+## Réponse
+
+*JO du 2015-03-31*
+
+La question porte sur les difficultés rencontrées sur le site de production Emile Huchet exploité par le Groupe E. ON. Ce dossier retient toute l'attention du ministre de l'économie, de l'industrie et du numérique, eu égard à ses enjeux techniques, économiques et sociaux. E. ON, qui possède 7 tranches charbon en France, a annoncé la fermeture de 5 de ces 7 tranches. La volonté d'E. ON de fermer plusieurs tranches est motivée, d'une part, par des évolutions réglementaires, indispensables pour réduire l'impact environnemental des sites de production et, d'autre part, par des considérations techniques et économiques, notamment la hausse du coût du charbon et la prise en compte du coût du C02. Les deux tranches charbon concernées sur le site de Saint-Avold sont, d'une part, une tranche à « lit fluidisé circulant », d'une puissance de 117 MW, et, d'autre part, une tranche charbon de 285 MW construite en 1973. E. ON a annoncé une fermeture pour ces deux tranches à l'horizon 2015. La première tranche avait été conçue pour fonctionner en base toute l'année alors que l'évolution du parc de production contraint un fonctionnement plus modulé, ce qui engendre des coûts de maintenance qui compromettent la viabilité économique de l'exploitation. Avec l'essor des énergies renouvelables intermittentes, il sera attendu de la part des moyens de production thermiques de plus en plus de flexibilité. La seconde tranche, quant à elle, ne fonctionne que grâce à un régime dérogatoire car elle ne respecte pas les valeurs limites d'émissions de polluants atmosphériques fixées dans l'arrêté du 30 juillet 2003, qui transpose en droit français la directive n° 2001/80/CE (dite « directive GIC » - grandes installations de combustion). Cette dérogation prend fin 2015.
