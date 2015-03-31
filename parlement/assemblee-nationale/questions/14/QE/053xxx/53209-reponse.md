@@ -1,0 +1,9 @@
+# Réponse à la question n° 53209
+
+- Question : [53209](53209.md) — Question n° 53209 — préjudice économique; réparation; délai de prescription
+
+## Réponse
+
+*JO du 2015-03-31*
+
+L'action en réparation du préjudice économique subi par les collectivités territoriales est soumise au droit commun de la prescription, et notamment à la prescription quinquennale prévue à l'article 2224 du code civil et selon lequel « les actions personnelles ou mobilières se prescrivent par cinq ans à compter du jour où le titulaire d'un droit a connu ou aurait dû connaître les faits lui permettant de l'exercer ». Il résulte toutefois également de ces dispositions que la prescription ne court pas contre celui qui n'est pas à même d'agir. Or le juge a un large pouvoir d'appréciation pour mettre en oeuvre ce principe, tant s'agissant des faits nécessaires à l'exercice du droit que s'agissant de leur connaissance par son titulaire. Il doit apprécier, au cas par cas, en fonction des éléments produits aux débats et de la situation individuelle de chacune des victimes, la date à retenir pour faire courir ce délai de prescription en envisageant également les faits qui seraient susceptibles d'interrompre ou de suspendre la prescription, ou d'en reporter le point de départ, et les collectivités territoriales pourront à cet égard faire valoir la procédure introduite devant l'autorité de la concurrence. Il est donc difficile, sans préjuger des décisions qui pourraient être rendues à l'avenir, de déterminer la date précise à compter de laquelle la prescription de l'action des collectivités territoriales tendant à obtenir réparation du préjudice économique subi du fait des pratiques anticoncurrentielles sanctionnées par l'autorité de la concurrence et confirmées par la Cour d'appel de Paris a commencé à courir.
