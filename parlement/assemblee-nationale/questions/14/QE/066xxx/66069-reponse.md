@@ -1,0 +1,9 @@
+# Réponse à la question n° 66069
+
+- Question : [66069](66069.md) — Question n° 66069 — seuil démographique; zones insulaires
+
+## Réponse
+
+*JO du 2015-03-31*
+
+Afin de renforcer les solidarités territoriales et de permettre aux intercommunalités de devenir des structures de proximité, mutualisant leurs actions, adaptées à la gestion de compétences renforcées et offrant de meilleurs services aux citoyens, l'article 14 du projet de loi portant nouvelle organisation territoriale de la République (NOTRe), propose une nouvelle orientation de la rationalisation de la carte intercommunale autour de la notion de bassin de vie, et axée sur un accroissement de la taille minimale des établissements publics de coopération intercommunale (EPCI) à fiscalité propre de 5 000 à 20 000 habitants. La disposition prévue au 1° du III de l'article L. 5210-1-1 du code général des collectivités territoriales, précisant que ce seuil peut être abaissé par le représentant de l'Etat dans le département, pour tenir compte des caractéristiques géographiques particulières de certains espaces, est maintenue. De même, la disposition prévue au V de cet article, prévoyant que le schéma départemental de coopération intercommunale (SDCI) n'est pas dans l'obligation de prévoir la couverture intégrale du territoire par des EPCI à fiscalité propre pour les îles maritimes composées d'une seule commune, n'est pas remise en cause. Dès lors, la particularité géographique caractérisant les territoires insulaires pourra toujours être prise en compte à l'occasion de la formation d'EPCI à fiscalité propre de taille plus importante. De plus, comme l'a confirmé le Premier ministre le 28 octobre dernier devant le Sénat, le Gouvernement sera attentif aux adaptations qui pourraient être apportées au seuil des 20 000 habitants, et qui pourraient concerner, notamment, le cas des territoires insulaires.
