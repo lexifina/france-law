@@ -1,0 +1,9 @@
+# Réponse à la question n° 54822
+
+- Question : [54822](54822.md) — Question n° 54822 — qualité; Conseil économique, social et environnemental; rapport; propositions
+
+## Réponse
+
+*JO du 2015-03-31*
+
+L'article 9 du règlement n° 1169/2011 concernant l'information du consommateur sur les denrées alimentaires indique que doivent figurer sur l'étiquetage d'un produit alimentaire préemballé, parmi les mentions obligatoires, la date de durabilité minimale (DDM, anciennement appelée date limite d'utilisation optimale), ou la date limite de consommation (DLC) ainsi que les conditions particulières de conservation. En outre, l'article 24 du même règlement prévoit que, dans le cas de denrées alimentaires microbiologiquement très périssables, et qui, de ce fait, sont susceptibles, après une courte période, de présenter un danger immédiat pour la santé humaine, la DDM est remplacée par la DLC. Conformément à la législation de l'Union européenne (UE), le choix entre une DLC et une DDM et celui de la durée indiquée incombent à l'opérateur qui appose son nom sur le produit. En effet, sur la base de l'analyse de risque rendue obligatoire par la réglementation européenne, notamment les règlements (CE) n° 2073/2005 de la Commission du 15 novembre 2005 concernant les critères microbiologiques applicables aux denrées alimentaires et (CE) n° 852/2004 du Parlement européen et du Conseil du 29 avril 2004 relatif à l'hygiène des denrées alimentaires, et la réalisation des études nécessaires, compte tenu des caractéristiques de la denrée et de ses conditions de stockage et d'utilisation, les opérateurs déterminent sous leur responsabilité la date à apposer sur le préemballage. L'Etat français ne peut pas modifier le dispositif mis en place. Tout changement de la réglementation en vigueur relève exclusivement de la compétence communautaire.
