@@ -1,0 +1,9 @@
+# Réponse à la question n° 42845
+
+- Question : [42845](42845.md) — Question n° 42845 — droit d'accès et de rectification; mise en oeuvre
+
+## Réponse
+
+*JO du 2015-03-31*
+
+Conformément aux dispositions de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, un droit d'accès et de rectification est ouvert aux personnes qui souhaitent savoir si des données à caractère personnel les concernant figurent dans un traitement automatisé mis en oeuvre par les différents services relevant de la compétence du ministère de l'intérieur. Les directions du ministère de l'intérieur sont inégalement sollicitées à ce titre. En 2013, la direction générale de la police nationale a traité 59 dossiers de demande d'accès direct aux traitements FAED et FNAEG contre 52 en 2012. Par ailleurs, les directions générales de la police et de la gendarmerie nationales ont été saisies en 2013 de 3 698 demandes de droit d'accès indirect au traitement des antécédents judicaires (TAJ) (contre 2 877 en 2012) et ont examiné 339 requêtes de personnes inscrites comme « victimes », 700 comme « auteur et victime », 1 555 comme « auteurs » et 1 720 inconnus dans le traitement. Après consultation des parquets compétents, 205 fiches « auteurs » ont été radiées, 551 fiches ont fait l'objet d'une mention et 4 ont fait l'objet d'un refus de communication (une décision du parquet étant motivée notamment par le fait que l'affaire était toujours en cours). Par ailleurs, 317 dossiers n'ont reçu aucune réponse de la part des parquets sollicités et 169 dossiers n'ont reçu qu'une réponse partielle. Le temps moyen de traitement des dossiers par les deux directions varie entre douze et dix-huit mois. Ni les autres directions du ministère ni l'inspection générale de l'administration n'ont reçu de demande de ce type.
