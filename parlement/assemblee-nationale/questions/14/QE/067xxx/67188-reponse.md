@@ -1,0 +1,9 @@
+# Réponse à la question n° 67188
+
+- Question : [67188](67188.md) — Question n° 67188 — temps de travail; décret; conséquences
+
+## Réponse
+
+*JO du 2015-03-31*
+
+Le décret n° 2001-1382 du 31 décembre 2001, relatif au temps de travail des sapeurs-pompiers professionnels (SPP), autorise les services départementaux d'incendie et de secours (SDIS) à instaurer un régime de travail dérogatoire au droit commun de la fonction publique, leur permettant de travailler sur la base d'un régime cyclique de journées de travail de 24 heures dit « garde 24 ». Ainsi, pour chaque journée de 24 heures, le SPP bénéficie notamment d'un repos compensateur d'une durée équivalente. Si le régime de garde 24 est adopté, le nombre de gardes de 24 heures ne doit pas dépasser 2 en moyenne sur 7 jours, et 47 sur 6 mois afin de respecter les seuils communautaires de 48 heures par semaine et de 1128 heures par semestre. La France doit appliquer les dispositions de la directive n° 2003/88/CE du 4 novembre 2003, et notamment celles concernant la durée moyenne de travail hebdomadaire de 48 heures. Afin de respecter ces règles, le décret n° 2013-1186 du 18 décembre 2013 relatif au temps de travail des sapeurs-pompiers professionnels fixe, à compter du 1er janvier 2014, un plafond semestriel de 1128 heures travaillées qui respecte cette limite maximale. Le régime horaire d'équivalence applicable aux sapeurs-pompiers constitue un mode de comptabilisation particulier du travail effectif. Il consiste à prendre en compte la totalité des heures de présence au titre des gardes, tout en leur appliquant un mécanisme de pondération tendant à intégrer les périodes d'inactivité durant la garde. En outre, le temps annuel maximal de présence de 2256 heures correspond au plus, après application du principe d'équivalence, à la réalisation de 1607 heures annuelles de travail servant de base à la rémunération.
