@@ -1,0 +1,9 @@
+# Réponse à la question n° 73555
+
+- Question : [73555](73555.md) — Question n° 73555 — produits alimentaires; équilibre nutritionnel
+
+## Réponse
+
+*JO du 2015-03-31*
+
+Le règlement n° 1169/2011 concernant l'information des consommateurs sur les denrées alimentaires, rentré en application en France le 13 décembre 2014, modifie considérablement la réglementation en vigueur puisqu'il rend obligatoire, à partir du 13 décembre 2016, l'indication d'une déclaration nutritionnelle sur la majorité des denrées alimentaires préemballées afin d'améliorer l'information des consommateurs sur la composition nutritionnelle des denrées alimentaires. Dès maintenant, les opérateurs souhaitant réaliser, sur un mode volontaire, une déclaration nutritionnelle doivent se conformer à ce règlement. Cette déclaration inclut systématiquement la valeur énergétique (exprimée en kJoules et kcalories) ainsi que la quantité de matières grasses, d'acides gras saturés, de glucides, de sucres, de protéines et de sel. Divers modes d'expression de cette déclaration nutritionnelle sont prévus pour faciliter la compréhension du consommateur. De plus, une reprise simplifiée de cette déclaration nutritionnelle peut figurer sur le champ visuel principal de l'emballage afin que le consommateur puisse comparer facilement les produits sur les linéaires lorsqu'il fait ses courses. S'agissant des denrées non préemballées vendues dans les établissements de restauration rapide ou les restaurants, ce règlement encadre le contenu et le mode d'expression de la déclaration nutritionnelle lorsqu'elle est fournie, à titre volontaire, au consommateur. Dans ce cas, le contenu de la déclaration nutritionnelle peut être limité à la valeur énergétique ou comporter également les quantités de matières grasses, d'acides gras saturés, de sucres et de sel.
