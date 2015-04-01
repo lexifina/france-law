@@ -22,6 +22,8 @@ Corps des chefs de travaux d'art du ministère chargé de la culture.
 
 Corps des conservateurs du patrimoine.
 
+Corps des inspecteurs et conseillers de la création, des enseignements artistiques et de l'action culturelle.
+
 Ministère de l'économie, des finances et de l'industrie
 
 Corps des agents de catégorie A des services déconcentrés de la direction générale des douanes et droits indirects.
@@ -70,9 +72,7 @@ Corps des ingénieurs d'études sanitaires.
 
 Corps de l'inspection de l'action sanitaire et sociale.
 
-Ministère des transports, de l'équipement,
-
-du tourisme et de la mer
+Ministère des transports, de l'équipement, du tourisme et de la mer
 
 Corps des ingénieurs des travaux de la météorologie.
 
