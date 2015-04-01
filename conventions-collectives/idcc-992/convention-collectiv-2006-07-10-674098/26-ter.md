@@ -60,9 +60,7 @@ Nature des soins |
 
 Prestation
 
-(y compris remboursements
-
-sécurité sociale) |
+(y compris remboursements sécurité sociale) |
 
 Hospitalisation médicale et chirurgicale |
 
@@ -74,7 +72,9 @@ Frais de séjour, salle d'opération |
 
 Honoraires : actes de chirurgie (ADC), actes d'anesthésie (ADA), autres honoraires |
 
-200 % BR |
+CAS : 220 % BR
+
+Hors CAS : 200 % BR |
 
 Chambre particulière (y compris maternité) en secteur conventionné |
 
@@ -90,15 +90,9 @@ Transport (accepté par la sécurité sociale) |
 
 Forfait hospitalier |
 
-100 % des frais réels par jour et dans la limite de la réglementation en vigueur |
+100 % des frais réels dans la limite
 
-Fécondation in vitro |
-
-Néant |
-
-Garantie assistance hospitalisation |
-
-Néant |
+de la réglementation en vigueur |
 
 Actes médicaux |
 
@@ -106,23 +100,31 @@ Actes médicaux |
 
 Consultation et visite de généraliste |
 
-130 % BR |
+CAS : 150 % BR
+
+Hors CAS : 130 % BR |
 
 Consultation et visite de spécialiste |
 
-150 % BR |
+CAS : 170 % BR
+
+Hors CAS : 150 % BR |
 
 Actes de chirurgie (ADC)
 
 Actes techniques médicaux (ATM) |
 
-150 % BR |
+CAS : 170 % BR
+
+Hors CAS : 150 % BR |
 
 Actes d'imagerie médicale (ADI)
 
 Actes d'échographie (ADE) |
 
-100 % BR |
+CAS : 130 % BR
+
+Hors CAS : 110 % BR |
 
 Kinésithérapeutes |
 
@@ -148,13 +150,9 @@ Pharmacie non remboursée par la sécurité sociale |
 
 |
 
-Vaccins anti-grippe et autres |
+Vaccins antigrippe et autres |
 
 100 % BR à titre d'acte de prévention (voir ci-dessous) |
-
-Pilule et patch contraceptif non remboursés |
-
-Néant |
 
 Dentaire |
 
@@ -194,11 +192,11 @@ Actes dentaires hors nomenclature |
 
 Parodontologie |
 
-Crédit annuel de 200 € par bénéficiaire |
+Crédit de 200 € par année civile |
 
 Pose chirurgicale de l'implant |
 
-250 € maxi 3 par an |
+500 € par acte limité à 3 actes par année civile |
 
 Orthopédie. - Autres prothèses |
 
@@ -206,51 +204,37 @@ Orthopédie. - Autres prothèses |
 
 Prothèses auditives |
 
-RSS + Crédit de 500 € par année civile |
+100 % BR + crédit de 500 € par année civile |
 
 Orthopédie. - Autres prothèses |
 
-RSS + Crédit de 500 € par année civile |
+100 % BR + crédit de 500 € par année civile |
 
-Optique |
+Optique
 
-|
+Conformément au décret n° 2014-1374 du 18 novembre 2014 et sauf en cas d'évolution de la vue médicalement constatée, le remboursement du renouvellement d'un équipement optique, composé de 2 verres et d'une monture, n'est possible qu'au-delà d'un délai de 12 mois pour les enfants et de 24 mois pour les adultes suivant l'acquisition du précédent équipement.
 
-Monture (limité à 1 équipement par an et par bénéficiaire) |
+Pour l'appréciation de la période permettant un renouvellement, le point de départ est fixé à la date d'acquisition d'un équipement optique (ou du premier élément de l'équipement dans l'hypothèse d'un remboursement demandé en deux temps). La période de renouvellement de l'équipement pour les adultes est réduite à 1 an en cas de renouvellement justifié par une évolution de la vue. |
 
-|
+Monture |
 
-|
-
-RSS + crédit annuel de 100 € par année civile |
+RSS + 100 € |
 
 Verres |
 
-|
+RSS + montants indiqués dans les tableaux ci-après en fonction du type de verre |
 
-- verres unifocaux simples |
+Lentilles acceptées par la sécurité sociale |
 
-RSS + 60 € par verre |
+100 % BR + crédit de 160 € par année civile |
 
-- verres unifocaux complexes |
-
-RSS + 100 € par verre |
-
-- verres multifocaux simples |
-
-RSS + 110 € par verre |
-
-- verres multifocaux complexes |
-
-RSS + 130 € par verre |
-
-Lentilles (acceptées ou refusées par la sécurité sociale) |
+Lentilles refusées par la sécurité sociale |
 
 Crédit de 160 € par année civile |
 
 Chirurgie réfractive |
 
-Crédit de 150 € par année civile |
+Forfait de 150 € par œil |
 
 Maternité et adoption |
 
@@ -258,7 +242,7 @@ Maternité et adoption |
 
 Allocation naissance |
 
-250 € |
+250 € par enfant |
 
 Cure thermale acceptée par la sécurité sociale |
 
@@ -270,39 +254,41 @@ Frais de traitement et honoraires |
 
 Frais de voyage et d'hébergement |
 
-Forfait de 250 € par année civile et par bénéficiaire |
+Forfait de 250 € par année civile
+
+et par bénéficiaire |
 
 Actes hors nomenclature |
 
 |
 
-Acupuncture, chiropractie et ostéopathie (intervention dans le cadre d'un praticien inscrit auprès d'une association agréée) 4 consultations maximum |
+Acupuncture, chiropractie et ostéopathie (intervention dans le cadre d'un praticien inscrit auprès d'une association agréée) |
 
 20 € par acte limité
 
 à 4 actes par année civile |
 
-Prise en charge de substituts nicotiniques |
+Pour le seul salarié :
 
-Néant |
+Du fait de l'exercice des métiers de la boucherie, boucherie-
+
+charcuterie, boucherie hippophagique, triperie, commerce de volailles et gibiers, mais sans que la cause de la consultation soit liée nécessairement à des raisons professionnelles, prise en charge supplémentaire sous réserve de la présentation du justificatif de professionnel de santé |
+
+Prise en charge par le fonds social dédié du régime jusqu'à 4 actes supplémentaires gratuits par année civile
+
+(dans la limite du fonds disponible)
+
+Cette garantie s'applique à partir du 5e acte et jusqu'au 8e acte de l'année civile (*) |
 
 Actes de prévention |
 
 |
 
-Scellement prophylactique |
-
-Néant |
-
 Détartrage annuel complet sus et sous-gingival |
 
 100 % BR |
 
-Bilan du langage oral |
-
-Néant |
-
-Vaccin anti-grippe non remboursé par la sécurité sociale |
+Vaccin antigrippe non remboursé par la sécurité sociale |
 
 100 % BR |
 
@@ -310,29 +296,535 @@ Vaccin DTP et rubéole |
 
 100 % BR |
 
-Dépistage de l'hépatite B |
+Pour le seul salarié :
 
-Néant |
+Dans le cadre de la mise en œuvre d'actions de prévention pilotées par la commission paritaire nationale de la boucherie,
 
-Troubles de l'audition |
+boucherie-charcuterie, boucherie hippophagique, triperie, commerce de volailles et gibiers |
 
-Néant |
+Prise en charge par le fonds de prévention du régime frais de santé du coût
 
-Acte d'ostéodensitométrie |
+de la formation d'une journée prévention
 
-Néant |
+des risques liés à l'activité physique
 
-Actions collectives de prévention tabac, alcool, drogues |
+(ports de charge, ergonomie, lutte contre
 
-Néant |
+les troubles musculo-squelettiques)
 
-Définitions :
+organisée par l'ENSMV (1) (**)
+
+(dans la limite des places disponibles) |
 
 BR : base de remboursement de la sécurité sociale.
 
 FR : frais réels.
 
-RSS : remboursement sécurité sociale. |
+RSS : remboursement sécurité sociale.
+
+CAS : contrat d'accès aux soins.
+
+(1) Ecole nationale supérieure des métiers de la viande.
+
+(*) Le document à remplir et à nous retourner à l'adresse indiquée est téléchargeable sur le site internet www. sante-boucherie. fr et devra obligatoirement être accompagné de toutes les pièces justificatives.
+
+(**) Les salariés souhaitant bénéficier de cette action de prévention doivent prendre contact auprès de l'ENSMV pour s'inscrire aux stages de formation en envoyant la demande par mail à l'adresse : formation @ boucherie-france. org. |
+
+Grille optique
+
+(En euros.)
+
+Adulte
+
+(≥ 18 ans)
+
+Code LPP |
+
+Unifocaux
+
+Multifocaux |
+
+Avec/ Sans
+
+cylindre |
+
+Sphère |
+
+Montant
+
+par verre |
+
+2203240 : verre blanc |
+
+Unifocaux |
+
+Sphérique |
+
+De - 6 à + 6 |
+
+70 |
+
+2287916 : verre teinté |
+
+|
+
+|
+
+|
+
+|
+
+2280660 : verre blanc |
+
+|
+
+|
+
+De - 6,25 à - 10
+
+ou de + 6,25 à + 10 |
+
+110 |
+
+2282793 : verre blanc |
+
+|
+
+|
+
+|
+
+|
+
+2263459 : verre teinté |
+
+|
+
+|
+
+|
+
+|
+
+2265330 : verre teinté |
+
+|
+
+|
+
+|
+
+|
+
+2235776 : verre blanc |
+
+|
+
+|
+
+< à - 10 ou > à + 10 |
+
+110 |
+
+2295896 : verre teinté |
+
+|
+
+|
+
+|
+
+|
+
+2259966 : verre blanc |
+
+|
+
+Cylindre < à 4 |
+
+De - 6 à + 6 |
+
+70 |
+
+2226412 : verre teinté |
+
+|
+
+|
+
+|
+
+|
+
+2284527 : verre blanc |
+
+|
+
+|
+
+< à - 6 et > à + 6 |
+
+110 |
+
+2254868 : verre teinté |
+
+|
+
+|
+
+|
+
+|
+
+2212976 : verre blanc |
+
+|
+
+Cylindre > à 4 |
+
+De - 6 à + 6 |
+
+110 |
+
+2252668 : verre teinté |
+
+|
+
+|
+
+|
+
+|
+
+2288519 : verre blanc |
+
+|
+
+|
+
+< à - 6 et > à + 6 |
+
+110 |
+
+2299523 : verre teinté |
+
+|
+
+|
+
+|
+
+|
+
+2290396 : verre blanc |
+
+Multifocaux |
+
+Sphérique |
+
+De - 4 à + 4 |
+
+130 |
+
+2291183 : verre teinté |
+
+|
+
+|
+
+|
+
+|
+
+2245384 : verre blanc |
+
+|
+
+|
+
+< à - 4 ou > à + 4 |
+
+150 |
+
+2295198 : verre teinté |
+
+|
+
+|
+
+|
+
+|
+
+2227038 : verre blanc |
+
+|
+
+Tout cylindre |
+
+De - 8 à + 8 |
+
+130 |
+
+2299180 : verre teinté |
+
+|
+
+|
+
+|
+
+|
+
+2202239 : verre blanc |
+
+|
+
+|
+
+< à - 8 ou > à + 8 |
+
+150 |
+
+2252042 : verre teinté |
+
+|
+
+|
+
+|
+
+|
+
+(En euros.)
+
+Enfant
+
+(< 18 ans)
+
+Code LPP |
+
+Unifocaux
+
+Multifocaux |
+
+Avec/ Sans
+
+cylindre |
+
+Sphère |
+
+Montant
+
+par verre |
+
+2261874 : verre blanc
+
+2242457 : verre teinté |
+
+Unifocaux |
+
+Sphérique |
+
+De - 6 à + 6 |
+
+70 |
+
+2243540 : verre blanc
+
+2297441 : verre teinté
+
+2243304 : verre blanc
+
+2291088 : verre teinté |
+
+|
+
+|
+
+De - 6,25 à - 10 ou de + 6,25 à + 10 |
+
+110 |
+
+2273854 : verre blanc |
+
+|
+
+|
+
+< à - 10 ou > à + 10 |
+
+110 |
+
+2248320 : verre teinté |
+
+|
+
+|
+
+|
+
+|
+
+2200393 : verre blanc |
+
+|
+
+Cylindre < à 4 |
+
+De - 6 à + 6 |
+
+70 |
+
+2270413 : verre teinté |
+
+|
+
+|
+
+|
+
+|
+
+2283953 : verre blanc |
+
+|
+
+|
+
+< à - 6 et > à + 6 |
+
+110 |
+
+2219381 : verre teinté |
+
+|
+
+|
+
+|
+
+|
+
+2238941 : verre blanc |
+
+|
+
+Cylindre > à 4 |
+
+De - 6 à + 6 |
+
+110 |
+
+2268385 : verre teinté |
+
+|
+
+|
+
+|
+
+|
+
+2245036 : verre blanc |
+
+|
+
+|
+
+< à - 6 et > à + 6 |
+
+110 |
+
+2206800 : verre teinté |
+
+|
+
+|
+
+|
+
+|
+
+2259245 : verre blanc |
+
+Multifocaux |
+
+Sphérique |
+
+De - 4 à + 4 |
+
+130 |
+
+2264045 : verre teinté |
+
+|
+
+|
+
+|
+
+|
+
+2238792 : verre blanc |
+
+|
+
+|
+
+< à - 4 ou > à + 4 |
+
+150 |
+
+2202452 : verre teinté |
+
+|
+
+|
+
+|
+
+|
+
+2240671 : verre blanc |
+
+|
+
+Tout cylindre |
+
+De - 8 à + 8 |
+
+130 |
+
+2282221 : verre teinté |
+
+|
+
+|
+
+|
+
+|
+
+2234239 : verre blanc |
+
+|
+
+|
+
+< à - 8 ou > à + 8 |
+
+150 |
+
+2259660 : verre teinté |
+
+|
+
+|
+
+|
+
+|
 
 3.2. Limites des garanties. - Exclusions
 
@@ -612,8 +1104,6 @@ Les partenaires sociaux ont souhaité la mise en place d'un fonds de prévention
 
 Il sera alimenté selon les modalités prévues dans la convention d'assurance collective relative au présent régime de remboursement de frais de soins de santé.
 
-NOTE :
+NOTA :
 
-Ces dispositions prendront effet au plus tôt le 1er janvier 2014.
-
-(Avenant n° 38 du 6 mai 2013 BO 2013/26).
+L'arrêté du 11 décembre 2015 (ETST1530942A) portant extension des avenants n° 1 du 25 mars 2015 (ASET1550562M) et n° 1 BIS du 28 mai 2015 à l'avenant n° 38 du 6 mai 2013 (ASET1550617M) modifiant l'article 26 ter de la convention collective est abrogé par l'arrêté du 12 avril 2017 (ETST1711475A). https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000034450388
