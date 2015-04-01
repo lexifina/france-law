@@ -1,0 +1,3 @@
+# Article 1er
+
+Vu l'accord interprofessionnel du 10 février 1969 prévoyant la possibilité pour les branches professionnelles de s'organiser régionalement en matière d'emploi et de formation et vu l'accord du 13 juillet 2004 relatif à la définition et à la mise en œuvre de la politique emploi, formation et qualification des partenaires sociaux du BTP, les organisations représentatives d'employeurs et de salariés se sont réunies et ont déterminé le montant des indemnités allouées aux représentants des organisations syndicales de salariés pour leur participation aux réunions de la CPREF BTP Picardie.
