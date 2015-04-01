@@ -1,0 +1,327 @@
+# Article 1er
+
+Les dispositions de l'article 8.2 relatif au montant des prestations sont modifiées comme suit :
+
+Les garanties, exprimées en pourcentage de la base de remboursement s'entendent, « y compris les remboursements versés par la sécurité sociale ainsi que le remboursement additionnel du régime local Alsace-Moselle ».
+
+Les montants des garanties exprimés en euros par bénéficiaire sont des forfaits annuels, valables du 1er janvier au 31 décembre, sauf mention contraire précisée dans le tableau des garanties.
+
+Tous les remboursements calculés par l'organisme assureur sont limités aux frais réellement engagés.
+
+Nature des frais |
+
+Libellé de la prestation |
+
+Hospitalisations chirurgicales (établissements publics ou privés) |
+
+|
+
+Honoraires (chirurgiens, anesthésistes et autres) des praticiens ayant adhéré au contrat d'accès aux soins |
+
+150 % de la BR |
+
+Honoraires (chirurgiens, anesthésistes et autres) des praticiens n'ayant pas
+
+adhéré au contrat d'accès aux soins |
+
+130 % de la BR |
+
+Frais de séjour |
+
+150 % de la BR |
+
+Chambre particulière (dès le premier jour, mais limité à 60 jours par an et par bénéficiaire) |
+
+Frais réels,
+
+dans la limite de 50 € par jour |
+
+Frais d'accompagnement (enfants de moins de 16 ans) |
+
+Frais réels,
+
+dans la limite de 25 € par jour |
+
+Forfait journalier hospitalier |
+
+100 % des frais réels |
+
+Transport (pour entrée et sortie d'hospitalisation) |
+
+100 % de la BR |
+
+Hospitalisations médicales (établissements publics ou privés, y compris maisons de repos et de convalescence, colonies sanitaires et sanatoriums) et maternité |
+
+|
+
+Honoraires (médecins intervenants) des praticiens ayant adhéré au contrat d'accès aux soins |
+
+150 % de la BR |
+
+Honoraires (médecins intervenants) des praticiens n'ayant pas adhéré au contrat d'accès aux soins |
+
+130 % de la BR |
+
+Frais de séjour |
+
+150 % de la BR |
+
+Chambre particulière (dès le premier jour, mais limité à 60 jours par an et par bénéficiaire en médical, à 90 jours par an et par bénéficiaire en service psychiatrique, en maison de retraite à caractère médicalisé et en long séjour, à 8 jours en maternité) |
+
+Frais réels,
+
+dans la limite de 50 € par jour |
+
+Frais d'accompagnement (enfants de moins de 16 ans) |
+
+Frais réels,
+
+dans la limite de 25 € par jour |
+
+Forfait journalier hospitalier |
+
+100 % des frais réels |
+
+Transport (pour entrée et sortie d'hospitalisation) |
+
+100 % de la BR |
+
+Naissance/ Adoption (1) |
+
+Forfait égal
+
+à 150 € par enfant |
+
+Soins médicaux (y compris maternité) |
+
+|
+
+Consultations, visites ou actes de généralistes ou de spécialistes :
+
+– praticiens ayant adhéré au contrat d'accès aux soins
+
+– praticiens n'ayant pas adhéré au contrat d'accès aux soins |
+
+200 % de la BR
+
+180 % de la BR |
+
+Radiologie |
+
+100 % de la BR |
+
+Analyses biologiques |
+
+100 % de la BR |
+
+Auxiliaires médicaux (infirmiers, kinésithérapeutes, orthophonistes...) |
+
+100 % de la BR |
+
+Pharmacie |
+
+100 % de la BR |
+
+Transport (autre que pour hospitalisation) |
+
+100 % de la BR |
+
+Actes de médecine alternative non remboursés par la sécurité sociale (ostéo-
+
+pathie, chiropractie, acupuncture, étiopathie) ou bilan nutritionnel |
+
+Dans la limite de 35 € par séance et de 3 séances par an
+
+et par bénéficiaire |
+
+Optique |
+
+|
+
+A raison d'un équipement tous les 2 ans, par bénéficiaire. Toutefois, pour les mineurs, en cas de changement de correction, la limite est ramenée à 1 an. Cette limite est décomptée à partir de la date d'acquisition de l'équipement. La prestation ne peut, en tout état de cause, être inférieure aux planchers ou supérieure aux plafonds du tableau ci-après. |
+
+Les forfaits indiqués sont versés en complément du remboursement de la sécurité sociale et intègrent le régime local Alsace-Moselle |
+
+Par monture |
+
+100 € |
+
+– verres simples (2) (par verre) |
+
+92 € |
+
+– verres complexes (3) (par verre) |
+
+115 € |
+
+– verres hypercomplexes (4) (par verre) |
+
+145 € |
+
+Lentilles remboursées par la sécurité sociale |
+
+150 € par an et par bénéficiaire |
+
+Lentilles correctrices non remboursées par la sécurité sociale ou jetables |
+
+150 € par an et par bénéficiaire |
+
+Correction des troubles de la vision par chirurgie (par œil) |
+
+400 € |
+
+Dentaire |
+
+|
+
+Soins dentaires |
+
+100 % de la BR |
+
+Inlay simple, onlay (5) |
+
+250 % de la BR |
+
+Orthodontie remboursée par la sécurité sociale |
+
+280 % de la BR |
+
+Orthodontie non remboursée par la sécurité sociale (en pourcentage de la base théorique de remboursement de la sécurité sociale) |
+
+280 % de la BR |
+
+Prothèses dentaires remboursées par la sécurité sociale :
+
+– prothèses
+
+– inlay core et inlay à clavettes |
+
+280 % de la BR
+
+180 % de la BR |
+
+Prothèses dentaires non remboursées par la sécurité sociale (en pourcentage de la base théorique de remboursement de la sécurité sociale) : pilier de bridge et couronne sur dent vivante |
+
+280 % de la BR |
+
+Appareillage |
+
+|
+
+Prothèses orthopédiques
+
+Accessoires médicaux définis par la nomenclature de la sécurité sociale |
+
+100 % de la BR + 400 € par an
+
+et par bénéficiaire |
+
+Prothèses auditives |
+
+100 % de la BR + 800 € par an
+
+et par bénéficiaire |
+
+Cures thermales |
+
+|
+
+Honoraires de surveillance |
+
+100 % de la BR |
+
+Frais d'établissement thermal |
+
+100 % de la BR |
+
+Hébergement (nuitées)/ frais de transport :
+
+Les forfaits indiqués sont versés, que la cure soit prise en charge ou non par la sécurité sociale, dans la limite des frais réels et déduction faite, s'il y a lieu, de la participation de la sécurité sociale |
+
+200 € par cure
+
+et par bénéficiaire |
+
+Actes de prévention |
+
+|
+
+Ensemble des actes de prévention pris en charge par la sécurité sociale
+
+(art. R. 871-1 du code de la sécurité sociale) |
+
+100 % de la BR |
+
+Vaccins non remboursés par la sécurité sociale (sur prescription médicale) |
+
+50 € par an et par bénéficiaire |
+
+Traitement antinicotinique remboursé par la sécurité sociale
+
+Le forfait est versé en complément du remboursement de la sécurité sociale |
+
+30 € par an et par bénéficiaire |
+
+(1) Versement unique au mari ou à la femme si tous les deux travaillent dans la même entreprise.
+
+(2) Verres simples : verres simples foyers avec une sphère comprise entre – 6 et + 6 et dont le cylindre est inférieur ou égal à + 4.
+
+(3) Verres complexes : verres simples foyers avec une sphère supérieure à – 6 ou à + 6 ou un cylindre supérieur à + 4 et verres multifocaux ou progressifs.
+
+(4) Verres hypercomplexes : verres multifocaux ou progressifs sphéro-cylindriques, dont sphère hors zone de – 8 à + 8 ou verres multifocaux ou progressifs sphériques hors zone de – 4 à + 4.
+
+(5) Pour les stomatologues n'ayant pas adhéré au contrat d'accès aux soins, la garantie est limitée à 225 % de la BR pour l'année 2015 et l'année 2016 et 200 % de la BR à compter de 2017.
+
+BR : base de remboursement de la sécurité sociale. |
+
+La prise en charge des frais d'optique est plafonnée en application des dispositions du « contrat responsable » (art. L. 871-2 du code de la sécurité sociale et ses décrets d'application) et de celles du « panier de soins » (décret n° 2014-1025 du 8 septembre 2014 en application de l'article L. 911-7 du code de la sécurité sociale).
+
+Modalités de prise en charge des équipements optiques (panier de soins, contrat responsable)
+
+(En euros.)
+
+Equipement comportant |
+
+Minima
+
+(panier de soins) |
+
+Maxima
+
+(contrat responsable : plafond de remboursement de la monture de 150 € maximum inclus) |
+
+2 verres simples |
+
+100 |
+
+470 |
+
+1 verre simple et 1 verre complexe |
+
+150 |
+
+610 |
+
+2 verres complexes |
+
+200 |
+
+750 |
+
+1 verre simple et 1 verre hypercomplexe |
+
+150 |
+
+660 |
+
+1 verre complexe et 1 verre hypercomplexe |
+
+200 |
+
+800 |
+
+2 verres hypercomplexes |
+
+200 |
+
+850 |
