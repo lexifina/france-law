@@ -1,0 +1,429 @@
+# Article 1er
+
+Le présent avenant modifie les dispositions suivantes du titre VII de la convention collective de la branche de l'aide, de l'accompagnement, des soins et des services à domicile :
+
+« Article 1er
+
+Conformément aux dispositions légales et notamment l'article L. 1226-1 du code du travail, la garantie maintien de salaire est à la charge de l'employeur.
+
+Dans un esprit de coresponsabilité de gestion du régime de prévoyance, les partenaires sociaux ouvriront la négociation sur la généralisation de la subrogation au cours du premier semestre 2015. La conclusion de cette négociation devra intervenir avant la fin de l'année 2015. »
+
+« Article 1.3
+
+Délai de carence
+
+– 3 jours en maladie ou accident de la vie courante ;
+
+– 0 jour en accident du travail ou maladie professionnelle.
+
+Article 1.4
+
+Montant des prestations
+
+Le montant du maintien de salaire, y compris les prestations brutes de sécurité sociale (réelles ou reconstituées de manière théorique pour les salariés n'ouvrant pas droit aux prestations en espèces de la sécurité sociale car effectuant moins de 200 heures par trimestre ou n'ayant pas suffisamment cotisé) et l'éventuel salaire à temps partiel, s'élève à 90 % du salaire brut. En aucun cas, le salarié ne peut percevoir plus de 100 % de son salaire net mensuel.
+
+La garantie “ maintien de salaire ” comprend également le remboursement des charges sociales patronales, évaluées forfaitairement à 16 % des prestations versées. »
+
+« Article 1.6
+
+Durée de la garantie
+
+Pour les salariés ayant moins de 20 ans d'ancienneté, les prestations sont versées pendant 60 jours maximum d'arrêt de travail décomptés par années mobiles (12 mois consécutifs).
+
+Pour les salariés ayant au moins 20 ans d'ancienneté, les prestations sont versées pendant 90 jours maximum d'arrêt de travail décomptés par années mobiles (12 mois consécutifs). (1) »
+
+« Article 2.5
+
+Montant des prestations
+
+Le montant des indemnités journalières “ incapacité de travail ”, y compris les prestations brutes de sécurité sociale (réelles ou reconstituées de manière théorique pour les salariés n'ouvrant pas droit aux prestations en espèces de la sécurité sociale car effectuant moins de 200 heures par trimestre ou n'ayant pas suffisamment cotisé) et l'éventuel salaire à temps partiel, s'élève à 70 % du salaire brut.
+
+En aucun cas, le salarié ne peut percevoir plus de 100 % de son salaire net mensuel. »
+
+« Article 3
+
+Garantie invalidité
+
+Article 3.1
+
+Personnel concerné
+
+Tout salarié ayant au moins 6 mois d'ancienneté, quel que soit le nombre d'heures de travail effectué.
+
+Article 3.2
+
+Définition de la garantie
+
+En cas d'invalidité permanente reconnue par la sécurité sociale ou par le médecin contrôleur des organismes gestionnaires du régime, sur avis du médecin traitant, l'organisme assureur verse une rente complémentaire à celle versée par la sécurité sociale jusqu'au service de la pension vieillesse, allouée en cas d'inaptitude au travail.
+
+Article 3.3
+
+Montant des prestations
+
+En cas d'invalidité ou d'incapacité permanente professionnelle d'un taux égal ou supérieur à 33 % de l'assuré cadre ou non cadre reconnue et notifiée par la sécurité sociale à compter du 1er avril 2015, l'organisme assureur verse une rente complétant le cas échéant celle de la sécurité sociale, afin de compenser la perte de salaire. Le montant de la prestation, y compris les prestations brutes de sécurité sociale, est défini comme suit :
+
+En cas d'invalidité de 1re catégorie :
+
+– 3/5 du montant de la rente retenue pour la 2e catégorie.
+
+En cas d'accident du travail ou de maladie professionnelle avec un taux d'IPP compris entre 33 % et 66 % :
+
+(R × 3 N)/2 (R étant la rente d'invalidité versée en cas d'invalidité de 2e catégorie, et N le taux d'incapacité permanente déterminée par la sécurité sociale).
+
+En cas d'invalidité de 2e ou de 3e catégorie, ou d'accident du travail, ou de maladie professionnelle avec un taux d'IPP supérieur ou égal à 66 % :
+
+75 % du salaire brut de référence.
+
+Le total perçu par le salarié (sécurité sociale, éventuel salaire à temps partiel ou revenu de remplacement et prestations complémentaires) ne saurait excéder son salaire net d'activité. »
+
+« Article 9
+
+Dispositions particulières concernant le maintien des garanties
+
+Article 9.1
+
+Suspension du contrat de travail des assurés donnant lieu à indemnisation par l'employeur
+
+Les garanties définies au présent régime de maintien de salaire et de prévoyance sont maintenues pour les salariés dont le contrat de travail est suspendu pour la période au titre de laquelle ils bénéficient d'un maintien total ou partiel de rémunération ou de prestations en espèces de la sécurité sociale (ou d'une prise en charge à titre complémentaire sur décision du médecin contrôleur ou conseil de l'organisme assureur).
+
+Dans ce cas, la contribution de l'employeur doit être maintenue et le salarié doit acquitter la part salariale de la cotisation calculée selon les règles du régime de prévoyance conventionnel, et ce pendant toute la période de suspension du contrat de travail indemnisée, sauf cas d'exonération de la totalité de la cotisation telle que définie à l'article 11.
+
+Le maintien des garanties est assuré :
+
+– tant que son contrat de travail n'est pas rompu ;
+
+– en cas de rupture du contrat de travail, quand cette rupture intervient durant la période d'assurance et lorsque les prestations de la sécurité sociale au titre de la maladie, de l'accident, de l'invalidité sont servies sans interruption depuis la date de rupture du contrat de travail.
+
+Article 9.2
+
+Suspension du contrat de travail des assurés ne donnant pas lieu à indemnisation par l'employeur
+
+Dans tous les autres cas de suspension du contrat de travail des salariés non indemnisés (congé sabbatique, congé pour création d'entreprise, congé parental d'éducation, congé de soutien familial, congé sans solde tel que convenu après accord entre l'employeur et le salarié …), les garanties sont suspendues de plein droit en cas de suspension du contrat de travail de l'intéressé et aucune cotisation n'est due.
+
+Les arrêts de travail ou le décès survenant durant cette période ne peuvent donner lieu à indemnisation au titre du régime de prévoyance conventionnel de la BAD.
+
+La suspension des garanties intervient à la date de cessation de l'activité professionnelle. Les garanties reprennent effet dès la reprise effective du travail par l'intéressé.
+
+Article 9.3
+
+Maintien optionnel des garanties décès dans le cas d'une suspension du contrat de travail non indemnisée
+
+Les garanties prévues en cas de décès (capital et rentes d'éducation) peuvent être maintenues aux salariés en suspension de contrat de travail ne donnant pas lieu à indemnisation, sous réserve que le salarié en fasse la demande dans le mois suivant le début de la suspension de son contrat de travail et sous réserve du paiement de la totalité de la cotisation correspondante par ce même salarié.
+
+La cotisation afférente aux garanties décès (capital et rentes d'éducation) est celle appliquée pour les salariés en activité. Le salaire servant de base au calcul des prestations et des cotisations est le salaire brut total tranches A et B perçu au cours des 12 derniers mois civils précédant la date de la suspension du contrat de travail et ayant donné lieu à cotisations.
+
+Article 9.4
+
+Anciens salariés bénéficiaires de la portabilité
+
+Le présent article définit les modalités d'application du dispositif de portabilité instauré par l'article L. 911-8 du code de la sécurité sociale. En cas de cessation du dernier contrat de travail non consécutive à une faute lourde et ouvrant droit à indemnisation du régime obligatoire d'assurance chômage, le salarié (à l'exclusion des ayants droit) bénéficie du maintien des garanties de prévoyance dans les conditions ci-après.
+
+Le présent dispositif de portabilité s'applique aux cessations de contrat de travail, telles que définies précédemment, qui interviennent à compter du 1er juin 2015.
+
+En cas de modification ou de révision des garanties des salariés en activité, les garanties des assurés bénéficiant du dispositif de portabilité seront modifiées ou révisées dans les mêmes conditions.
+
+Le maintien des garanties prend effet à compter de la date de cessation du contrat de travail.
+
+Le maintien des garanties s'applique pour une durée maximale égale à la durée du dernier contrat de travail du salarié dans l'entreprise ou, le cas échéant, des derniers contrats de travail lorsqu'ils sont consécutifs chez le même employeur. Cette durée est appréciée en mois, le cas échéant arrondie au nombre supérieur, dans la limite de 12 mois.
+
+L'employeur signale le maintien de ces garanties dans le certificat de travail et informe l'organisme assureur de la cessation du contrat de travail.
+
+L'ancien salarié justifie auprès de son organisme assureur, à l'ouverture et au cours de la période de maintien des garanties, des conditions prévues dans le présent article et conformément aux dispositions légales et réglementaires.
+
+En tout état de cause, le maintien des garanties cesse :
+
+– dès qu'il ne peut plus justifier auprès de l'organisme assureur de son indemnisation par le régime obligatoire d'assurance chômage ;
+
+– dès qu'il ne peut plus justifier auprès de l'employeur de son statut de demandeur d'emploi ;
+
+– en cas de décès.
+
+La suspension des allocations du régime obligatoire d'assurance chômage pour cause de maladie ou pour tout autre motif n'a pas d'incidence sur le calcul de la durée du maintien des garanties, qui ne sera pas prolongée d'autant.
+
+Le maintien des garanties ne peut conduire l'ancien salarié à percevoir des indemnités d'un montant supérieur à celui des allocations chômage qu'il aurait perçu au titre de la même période.
+
+Le maintien des garanties au titre de la portabilité du présent régime obligatoire est financé par les cotisations des entreprises et des salariés en activité (part patronale et part salariale) définies à l'article 7.11.
+
+Le bénéfice du maintien de ces garanties est subordonné à la condition que les droits à couverture complémentaire aient été ouverts chez le dernier employeur.
+
+En cas de changement d'organisme assureur, les bénéficiaires du dispositif de portabilité relevant des présentes stipulations sont affiliés dans les mêmes conditions que les salariés en activité auprès du nouvel organisme assureur. »
+
+« Article 11
+
+Cotisations et répartition des cotisations
+
+Article 11.1
+
+Cotisations et répartition des cotisations jusqu'au 31 décembre 2016
+
+Considérant que le risque invalidité constitue, eu égard à l'âge moyen et à l'ancienneté des salariés, un risque majeur lourd de conséquences financières, il est décidé par les partenaires sociaux, dans le cadre d'une répartition globale de 1/3 à la charge du salarié et de 2/3 à la charge de l'employeur, que la cotisation liée à ce risque serait majoritairement financée par ce dernier en contrepartie d'une prise en charge exclusive par le salarié de la cotisation du risque incapacité temporaire de travail. En tout état de cause, cette répartition de 1/3 à la charge du salarié et de 2/3 à la charge de l'employeur est définitive.
+
+Le taux de 4,21 % tranche A et tranche B, exprimé en pourcentage du salaire brut, est réparti comme suit :
+
+(En pourcentage.)
+
+Garantie |
+
+Employeur |
+
+Salarié |
+
+Total |
+
+Maintien de revenu (avec 16 % charge patronale) |
+
+1,23 |
+
+|
+
+1,23 |
+
+Incapacité |
+
+|
+
+0,95 |
+
+0,95 |
+
+Invalidité |
+
+1,19 |
+
+0,45 |
+
+1,64 |
+
+Décès |
+
+0,26 |
+
+|
+
+0,26 |
+
+Rente d'éducation |
+
+0,08 |
+
+|
+
+0,08 |
+
+Maintien garantie décès |
+
+0,02 |
+
+|
+
+0,02 |
+
+Mutualisation (passif) |
+
+0,03 |
+
+|
+
+0,03 |
+
+Total |
+
+2,81 |
+
+1,40 |
+
+4,21 |
+
+Cotisation additionnelle finançant la portabilité
+
+(En pourcentage.)
+
+Garantie |
+
+Employeur |
+
+Salarié |
+
+Total |
+
+Portabilité |
+
+0,19 |
+
+0,10 |
+
+0,29 |
+
+Cette cotisation spécifique fera l'objet d'une négociation à l'issue de 2 années d'application.
+
+Cotisation additionnelle finançant le passif résultant de la loi portant réforme des retraites jusqu'au 31 décembre 2016
+
+Dans le prolongement de l'article 26 de la loi n° 2010-1330 du 9 novembre 2010 portant réforme des retraites, un complément de provisions mathématiques doit être constitué par les organismes assureurs au titre du maintien de la garantie décès et des arrêts de travail survenus au 31 décembre 2010 pour les contrats conclus avant cette date.
+
+S'agissant des sinistres en cours précédemment couverts auprès d'un autre organisme assureur que ceux désignés dans le présent régime, conformément aux dispositions prévues par l'article 26 susvisé, le présent régime prévoit la reprise intégrale des engagements relatifs au maintien de la garantie incapacité de travail-invalidité du contrat résilié. En contrepartie, les provisions constituées par l'ancien assureur au titre du maintien de ces garanties seront transférées à l'organisme désigné, qui enregistre l'adhésion. Dans ce cas, l'indemnité de résiliation prévue par le dispositif légal précité, au profit de l'ancien assureur, n'est pas exigible.
+
+Le surcoût inhérent à ce provisionnement complémentaire a été évalué à 1 % de la masse salariale.
+
+Etant entendu que les sinistres en cours précédemment assurés par un des organismes codésignés restent attachés aux anciens dispositifs, un compte spécifique sera établi afin de suivre le financement du passif résultant de la loi portant réforme des retraites. Ce compte fera l'objet d'un suivi particulier et pourra donner lieu à un réajustement de cotisation.
+
+Ainsi, ce surcoût sera financé par une cotisation additionnelle de 0,20 % à compter du 1er janvier qui suit la date de publication au Journal officiel de l'arrêté d'extension pour une durée déterminée par le présent avenant.
+
+La cotisation additionnelle de 0,20 % tranche A et tranche B, exprimée en pourcentage du salaire brut, est répartie comme suit :
+
+(En pourcentage.)
+
+Garantie |
+
+Employeur |
+
+Salarié |
+
+Total |
+
+Passif réforme des retraites |
+
+0,13 |
+
+0,07 |
+
+0,20 |
+
+Le compte spécifique établi au titre du passif relatif à la réforme des retraites demeurant déficitaire, la cotisation supplémentaire de 0,20 % reste appelée jusqu'au 31 décembre 2016.
+
+Les transferts d'entreprises entre organismes assureurs donneront ainsi lieu à un transfert de provisions dont le montant devra être calculé tête par tête selon les tables, taux d'actualisation, frais, etc., arrêtés par les organismes désignés.
+
+En cas de dénonciation du régime de prévoyance branche aide à domicile avant le remboursement total de la cotisation additionnelle finançant le passif résultant de la loi portant réforme des retraites, une indemnité de résiliation est due dont le montant est égal à la différence entre le montant des provisions techniques à constituer, permettant de couvrir intégralement les engagements relatifs à la poursuite des prestations “ incapacité ” et “ invalidité ” et au maintien de la garantie décès, et le montant des provisions techniques effectivement constituées au jour de la dénonciation, et ce au titre des incapacités et invalidités en cours à la date de la dénonciation.
+
+Article 11.2
+
+Cotisations et répartition des cotisations à partir du 1er janvier 2017
+
+Considérant que le risque invalidité constitue, eu égard à l'âge moyen et à l'ancienneté des salariés, un risque majeur lourd de conséquences financières, il est décidé par les partenaires sociaux, dans le cadre d'une répartition globale de 1/3 à la charge du salarié et de 2/3 à la charge de l'employeur, que la cotisation liée à ce risque serait majoritairement financée par ce dernier en contrepartie d'une prise en charge exclusive par le salarié de la cotisation du risque incapacité temporaire de travail. En tout état de cause, cette répartition de 1/3 à la charge du salarié et de 2/3 à la charge de l'employeur est définitive.
+
+Le taux de 4,41 % tranche A et tranche B, exprimé en pourcentage du salaire brut, est réparti comme suit :
+
+(En pourcentage.)
+
+Garantie |
+
+Employeur |
+
+Salarié |
+
+Total |
+
+Maintien de revenu (avec 16 % charge patronale) |
+
+1,36 |
+
+|
+
+1,36 |
+
+Incapacité |
+
+|
+
+1,02 |
+
+1,02 |
+
+Invalidité |
+
+1,19 |
+
+0,45 |
+
+1,64 |
+
+Décès |
+
+0,26 |
+
+|
+
+0,26 |
+
+Rente d'éducation |
+
+0,08 |
+
+|
+
+0,08 |
+
+Maintien garantie décès |
+
+0,02 |
+
+|
+
+0,02 |
+
+Mutualisation (passif) |
+
+0,03 |
+
+|
+
+0,03 |
+
+Total |
+
+2,94 |
+
+1,47 |
+
+4,41 |
+
+Cotisation additionnelle finançant la portabilité
+
+(En pourcentage.)
+
+Garantie |
+
+Employeur |
+
+Salarié |
+
+Total |
+
+Portabilité |
+
+0,19 |
+
+0,10 |
+
+0,29 |
+
+Cette cotisation spécifique fera l'objet d'une négociation à l'issue de 2 années d'application. »
+
+« Article 11.4
+
+Les partenaires sociaux et les organismes assureurs de la branche mettent en place des actions de prévention en matière de conditions de travail et de santé au travail ainsi qu'un plan d'accompagnement de retour à l'emploi des salariés ayant subi un ou plusieurs arrêts de travail d'une durée cumulée au moins égale à 60 jours.
+
+La commission de suivi du régime de prévoyance sera informée semestriellement des actions mises en place et des résultats obtenus.
+
+Article 11.5
+
+Les partenaires sociaux s'engagent à mettre en place des outils sur la prévention de la pénibilité et des risques psychosociaux. Ces outils seront présentés lors de journées régionales animées paritairement. »
+
+« Article 15
+
+Commission paritaire nationale de suivi du régime de prévoyance
+
+La commission paritaire nationale de suivi du régime de prévoyance est composée paritairement en nombre égal d'un représentant désigné par chaque organisation syndicale représentative dans la branche et d'un nombre équivalent de représentants de fédérations ou d'unions d'employeurs de la branche.
+
+Les attributions et le fonctionnement de cette commission sont définis dans une convention de gestion. »
+
+« Article 32
+
+Commission paritaire nationale de suivi du régime de complémentaire santé
+
+La commission paritaire nationale de suivi du régime de santé est composée paritairement en nombre égal d'un représentant désigné par chaque organisation syndicale représentative dans la branche et d'un nombre équivalent de représentants de fédérations ou d'unions d'employeurs de la branche.
+
+Les attributions et le fonctionnement de cette commission sont définis dans une convention de gestion. »
+
+(1) Alinéa étendu sous réserve de l'application des articles L. 1226-1 et D. 1226-1 et suivants du code du travail.
+
+(ARRÊTÉ du 16 juillet 2015 - art. 1)
