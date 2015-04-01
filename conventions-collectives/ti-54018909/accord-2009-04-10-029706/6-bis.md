@@ -1,0 +1,7 @@
+# Article 6 bis
+
+Les salariés bénéficient des dispositions légales sur le maintien des garanties de protection sociale complémentaire en cas de cessation du contrat de travail ouvrant droit à prise en charge par le régime d'assurance chômage selon les conditions définies par les textes légaux, et ce à compter de la date fixée par la loi. Ces dispositions figurent en annexe I au présent accord.
+
+Pour bénéficier des prestations, le demandeur d'emploi bénéficiant du maintien des garanties doit fournir l'ensemble des justificatifs demandés au salarié, auxquels s'ajoute le justificatif de versement des allocations chômage du mois correspondant à celui pour lequel les prestations demandées sont dues.
+
+Ces dispositions sont applicables dans les mêmes conditions aux ayants droit du salarié qui bénéficiaient effectivement des garanties à la date de cessation du contrat de travail.
