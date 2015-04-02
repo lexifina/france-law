@@ -1,0 +1,9 @@
+# Réponse à la question SEQ141013282
+
+- Question : [SEQ141013282](seq141013282.md) — Régime juridique des concessions funéraires individuelles et collectives
+
+## Réponse
+
+*Intérieur, JO du 2015-04-02, page 762*
+
+Le titulaire de la concession demeure le régulateur du droit à l'inhumation dans la concession. Ce principe a été expressément rappelé par la première chambre civile de la Cour de cassation (Cass. 1re civ. , 17 déc. 2008, n° 07-17.596). De son vivant, il est le seul à pouvoir déterminer librement les personnes susceptibles d'être inhumées dans la concession et à pouvoir choisir de transformer une concession individuelle ou collective en concession familiale, pour permettre l'inhumation de personnes non prévues au contrat initial (CAA Versailles, 4 juillet 2008, Mme A c/ commune de Montainville). Cette transformation requiert néanmoins, en principe, une modification de l'acte de concession. Le titulaire de la concession pourra exclure expressément certains membres de sa famille ou, à l'inverse, prévoir que seules certaines personnes pourront y être inhumées, y compris des personnes n'appartenant pas à la famille mais avec lesquelles le concessionnaire est uni par des liens d'affection (CE, sect. , 11 oct. 1957, Cts Hérail). Au vu de ce qui précède, il n'est pas possible à un maire de délivrer l'autorisation d'inhumer dans une concession individuelle ou collective pour une personne ne figurant pas expressément dans l'acte de concession et, pour les héritiers, d'obtenir la transformation de ce type de concession en concession familiale. Il ne paraît pas envisageable de modifier ces dispositions qui remettraient en cause la liberté individuelle du titulaire de la concession. En tout état de cause, le tribunal d'instance est seul compétent en cas de litige en matière de funérailles (article R. 221-7 du code de l'organisation judiciaire). Il statue dans les vingt-quatre heures (article 1061-1 du code de procédure civile).
