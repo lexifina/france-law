@@ -1,0 +1,9 @@
+# Réponse à la question SEQ141214332
+
+- Question : [SEQ141214332](seq141214332.md) — Coût de l'électricité et industrie cimentière
+
+## Réponse
+
+*Économie, industrie et numérique, JO du 2015-04-02, page 758*
+
+Jusqu'au début des années 2000, le caractère pondéreux des produits fabriqués, qui limitait les distances sur lesquelles ces produits peuvent être transportés, a limité, pour l'industrie cimentière, les effets de la concurrence internationale. Récemment, un nouveau modèle économique est apparu et des unités récentes importent une partie importante de leurs semi-produits. L'apparition de cette nouvelle forme de concurrence n'est pas isolée et pourrait être amenée à se développer sur toutes les façades côtières. Afin d'éviter la dégradation de la compétitivité des cimenteries françaises dans un contexte de resserrement du marché, les services de l'État portent une attention particulière aux conséquences économiques et sociales de cette évolution. Plusieurs dispositions sont d'ores et déjà en vigueur dans ce domaine et les services du ministère de l'économie, de l'industrie et du numérique étudient les conditions dans lesquelles elles pourraient être encore renforcées. Un abattement permanent sur le prix du transport de l'énergie est notamment à l'étude dans le cadre du projet de loi de transition énergétique. Les industriels ayant des profils de consommations qui limitent la pointe électrique pourront bénéficier de rémunérations spécifiques pour le service qu'ils apportent au réseau électrique. Par ailleurs, le Gouvernement a déjà engagé des discussions avec la Commission européenne sur le maintien des exonérations actuelles de CSPE pour les industries electro-intensives dans le cadre des nouvelles lignes directrices sur les aides d'Etat adoptée par la Commission européenne.
