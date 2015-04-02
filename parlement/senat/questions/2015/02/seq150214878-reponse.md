@@ -1,0 +1,9 @@
+# Réponse à la question SEQ150214878
+
+- Question : [SEQ150214878](seq150214878.md) — Successions internationales et information des Français de l'étranger
+
+## Réponse
+
+*Affaires étrangères, JO du 2015-04-02, page 747*
+
+Il est important pour les Français qui s'établissent à l'étranger de ne pas perdre de vue la grande variété des droits susceptibles de s'appliquer à leur situation personnelle. C'est vrai en matière successorale mais aussi pour le droit de la famille. Il relève en premier lieu de la responsabilité des personnes de s'informer sur la loi applicable à leur situation personnelle et de s'entourer au besoin de la garantie que peut présenter l'information délivrée par un professionnel du droit. À cette fin, tous les postes diplomatiques et consulaires possèdent une liste de notoriété d'avocats et parfois de notaires, quand cette fonction existe localement, qui peut être utilisée par les Français qui souhaitent connaître plus en détails la législation de leur pays de résidence, notamment sur le thème des successions. Les postes diplomatiques et consulaires n'ont pas en revanche vocation à conseiller les Français dans le domaine notarial, domaine dans lequel leurs fonctions sont exercées avec l'appui et l'expertise des notaires de France, en dehors de l'Europe. L'information relative aux conséquences de ce règlement européen sur la loi prévalant en matière de succession est déjà accessible depuis novembre 2014 via un lien vers la lettre des notaires de France sur le site internet du conseil supérieur du notariat. Elle peut être aussi être confirmée auprès des notaires français. Un lien renvoyant vers les pages utiles du site du Conseil supérieur du notariat pourra au besoin être inséré sur le site du ministère des affaires étrangères et du développement international, dont les sites internet des postes diplomatiques et consulaires se feront l'écho.
