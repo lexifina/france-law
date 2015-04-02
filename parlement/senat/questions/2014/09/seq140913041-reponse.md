@@ -1,0 +1,9 @@
+# Réponse à la question SEQ140913041
+
+- Question : [SEQ140913041](seq140913041.md) — Financement de la Société nationale de sauvetage en mer
+
+## Réponse
+
+*Décentralisation et fonction publique, JO du 2015-04-02, page 754*
+
+La suppression de la clause de compétence générale des régions et des départements, prévue par le projet de loi portant nouvelle organisation territoriale de la République, a pour objectif de clarifier la répartition des compétences et de maîtriser la dépense publique locale. Toutefois, si cette évolution de notre législation est nécessaire, elle ne s'accompagne pas d'une remise en cause des missions d'intérêt national, telles que celles exercées par la société nationale de sauvetage en mer, qui offre un service contribuant à la sécurité en mer et sur le littoral. C'est pourquoi lors de l'examen du projet de loi précité, le contenu de la compétence portuaire sera précisé pour que cette dernière puisse s'étendre au financement de certaines activités de sécurité intérieure, parmi lesquelles le sauvetage en mer. Il faut néanmoins souligner que, si les associations peuvent bénéficier de fonds publics par voie de subventions dès lors qu'elles sont à l'initiative du projet ou de l'action financés, cette participation financière s'apprécie au cas par cas et n'a pas de caractère automatique. En raison de l'importance du rôle joué par cette association dans la préservation de la vie humaine et malgré un budget contraint, le ministère chargé de la mer a maintenu pour 2014 une subvention de 2,1 millions d'euros destinée à son fonctionnement. Lors de son déplacement à Brest le 18 décembre dernier, le Premier ministre a annoncé que le Gouvernement préserverait la faculté pour les collectivités de financer la SNSM. Enfin, s'agissant d'une contribution à une mission régalienne de sécurité civile, une subvention d'État supplémentaire de 1,5 million d'euros sur l'année pourra être déléguée pour le renouvellement de la flotte.
