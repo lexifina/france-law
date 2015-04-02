@@ -1,0 +1,9 @@
+# Réponse à la question SEQ141113739
+
+- Question : [SEQ141113739](seq141113739.md) — Illuminations de Noël
+
+## Réponse
+
+*Intérieur, JO du 2015-04-02, page 763*
+
+La pose et la dépose des illuminations, dont les règles de sécurité sont notamment définies par la norme C17-200, présentent des risques non négligeables. Conformément à l'article R. 4323-58 du code du travail, cette activité doit être réalisée à partir d'une nacelle. Lorsque l'utilisation d'une nacelle n'est pas possible pour des raisons techniques ou que le risque évalué est faible, le travail peut être effectué avec une échelle correctement arrimée. Le port d'équipement de protection individuelle doit être respecté. Concernant l'intervention électrique, elle ne peut être confiée qu'à des agents ou des bénévoles titulaires d'une habilitation électrique délivrée par l'autorité territoriale aux agents détenant un certificat médical leur permettant d'effectuer ce type d'intervention, possédant la qualification technique requise et qui ont suivi une formation à la sécurité électrique. Sous réserve des contraintes réglementaires indiquées, des bénévoles ou des élus peuvent effectuer ces travaux à condition que l'activité soit d'intérêt général, en lien avec le service public, gratuite et occasionnelle. Cependant, la responsabilité de la collectivité serait engagée en cas d'accident subi ou causé par un bénévole agissant en qualité de collaborateur occasionnel. Un élu local ne pouvant intervenir simultanément en tant que tel et collaborateur occasionnel, sera considéré comme collaborateur occasionnel s'il ne s'est vu confier aucun mandat spécial pour le faire (CE 14 décembre 1988 commune Catilllon-Fumechon). Compte tenu de ces éléments, il semble préférable de faire effectuer les poses et déposes par des professionnels, qu'ils soient agents territoriaux ou techniciens d'une entreprise spécialisée.
