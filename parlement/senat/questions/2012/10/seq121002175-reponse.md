@@ -1,0 +1,9 @@
+# Réponse à la question SEQ121002175
+
+- Question : [SEQ121002175](seq121002175.md) — Organisation de l'accueil périscolaire et insécurité juridique
+
+## Réponse
+
+*Intérieur, JO du 2015-04-02, page 759*
+
+L'accueil périscolaire est un service public administratif facultatif pour les communes. Ce service peut faire l'objet d'une délégation à une personne privée. Il est donc possible, pour une association, de se voir confier la gestion du service d'accueil périscolaire par délégation de service public. Il existe un risque juridique de requalification d'une association délégataire en association transparente lorsque celle-ci fait preuve d'une dépendance trop importante vis-à-vis de la commune délégante. Une association peut être qualifiée de transparente si elle est créée par la commune, si ses dirigeants dépendent de la commune et si la majorité de ses ressources proviennent de la commune. Pour se prémunir d'une éventuelle requalification par le juge d'association transparente, et partant, du risque de gestion de fait par les élus qui en assurent la direction, plusieurs précautions peuvent être prises. La commune doit respecter l'ensemble des règles applicables à la passation d'un contrat de délégation de service public, notamment les règles de publicité et de mise en concurrence. Une fois le délégataire choisi, s'il s'agit d'une association, il convient de ne pas prévoir une représentation de la commune disproportionnée au sein des instances dirigeantes. Il est aussi conseillé que l'association établisse un bilan comptable sans appui de la commune. Enfin, pour se prémunir des conséquences financières et juridiques en cas d'accident, il est conseillé à l'association délégataire de souscrire une assurance. Un transfert de la compétence périscolaire à l'échelon intercommunal permettrait également aux communes dotées de faibles moyens humains et financiers de limiter ces risques.
