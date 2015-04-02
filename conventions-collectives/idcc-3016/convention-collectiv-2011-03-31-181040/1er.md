@@ -1,7 +1,13 @@
 # Article 1er
 
-L'ensemble des accords collectifs conclus par le Synesi et les organisations syndicales de salariés s'appliquent, sauf disposition contraire, dans le cadre d'un champ d'application délimité comme suit.
+L'ensemble des accords collectifs conclus par le SYNESI et les organisations syndicales de salariés s'appliquent, sauf disposition contraire, dans le cadre d'un champ d'application délimité comme suit :
 
-Il régit les rapports entre les employeurs et l'ensemble des salariés de droit privé des ateliers et chantiers d'insertion conventionnés par l'Etat au titre de l'article L. 322-4-16-8 du code du travail.
+Il régit les rapports et s'applique à l'ensemble des employeurs et salariés de droit privé, cadres et non cadres, titulaires d'un contrat de travail et quelles que soient la nature et la durée de ce contrat, des ateliers et chantiers d'insertion conventionnés par l'Etat au titre de l'article L. 5132-15 du code du travail.
 
-Le champ conventionnel couvre l'ensemble du territoire national, y compris les DOM.
+Sont exclues du champ d'application les entités soumises à agrément au sens de l' article L. 314-6 du code de l'action sociale et des familles , modifié par la loi n° 2008-130 du 17 décembre 2008 (art. 63).
+
+Le champ conventionnel couvre l'ensemble du territoire national y compris les DOM.
+
+NOTE : "Le présent avenant entre en application à la date de signature par les partenaires sociaux pour les adhérents de l'organisation patronale et au premier jour du mois suivant la publication au Journal officiel de l'arrêté portant extension de ses dispositions."
+
+(Avenant n° 18 du 2 avril 2015 BO 2015/40 portant modification du présent article 1 du titre I de la convention collective).
