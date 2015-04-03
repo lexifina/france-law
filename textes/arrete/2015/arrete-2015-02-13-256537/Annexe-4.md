@@ -1,14 +1,14 @@
 # Article Annexe 4
 
-EFFORT DE PÊCHE OCTROYÉ AUX NAVIRES FRANÇAIS TITULAIRES D'UNE AUTORISATION EUROPÉENNE DE PÊCHE " ESPÈCES D'EAU PROFONDE "
+Effort de pêche octroyé aux navires français titulaires d'une autorisation européenne de pêche "espèces d'eau profonde"
 
-En kW × jours (d'absence du port)
+en kW × jours (d'absence du port)
 
 |
 
 EFFORT DE PÊCHE
 
-(kW* jours)
+(en kW*jours)
 
 |
 
@@ -16,23 +16,23 @@ Navires adhérant à l'organisation de producteurs Les Pêcheurs de Bretagne
 
 |
 
-1 218 431
+3 604 995
 
 |
 
-Navires adhérant à l'organisation de producteurs Fonds régional d'organisation du marché du poisson du Nord- Normandie (FROM NORD)
+Navires adhérant à l'organisation de producteurs Fonds régional d'organisation du marché du poisson du Nord-Normandie (FROM NORD)
 
 |
 
-719 488
+2 438 053
 
 |
 
-Navires adhérant à l'organisation de producteurs Fonds régional d'organisation du marché du poisson du Sud- Ouest (FROM Sud-Ouest)
+Navires adhérant à l'organisation de producteurs Fonds régional d'organisation du marché du poisson du Sud-Ouest (FROM Sud-Ouest)
 
 |
 
-0
+97 946
 
 |
 
@@ -40,23 +40,23 @@ Navires adhérant à l'organisation de producteurs Vendée
 
 |
 
-0
+-
 
 |
 
-Navires adhérant à l'organisation de producteurs Coopérative maritime étaploise (CME)
+Navires adhérant à l'organisation de producteurs Coopérative maritime étaploise CME
 
 |
 
-0
+-
 
 |
 
-Navires adhérant à l'Organisation de producteurs marins-pêcheurs de Basse-Normandie (OPBN)
+Navires adhérant à l'organisation de producteurs marins-pêcheurs de Basse Normandie (OPBN)
 
 |
 
-0
+-
 
 |
 
@@ -64,7 +64,7 @@ Navires adhérant à l'organisation de producteurs Organisation de producteurs d
 
 |
 
-0
+-
 
 |
 
@@ -72,15 +72,15 @@ Navires adhérant à l'organisation de producteurs Organisation de producteurs d
 
 |
 
-0
+-
 
 |
 
-Navires adhérant à l'organisation de producteurs Pêcheurs d'Aquitaine
+Navires adhérant à l'organisation de producteurs pêcheurs d'Aquitaine
 
 |
 
-115 403
+411 660
 
 |
 
@@ -88,7 +88,7 @@ Navires adhérant à l'organisation de producteurs Coopérative Bretagne-Nord (C
 
 |
 
-0
+-
 
 |
 
@@ -96,7 +96,7 @@ Navires n'adhérant pas à une organisation de producteurs
 
 |
 
-0
+291 747
 
 |
 
@@ -104,7 +104,7 @@ Réserve nationale
 
 |
 
-14 597
+48 656
 
 |
 
@@ -112,6 +112,4 @@ Total
 
 |
 
-2 067 919
-
-|
+6 893 057 |
