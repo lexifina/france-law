@@ -4,7 +4,7 @@ DÉTERMINATION DU NIVEAU FORFAITAIRE
 
 DE POLLUTION THÉORIQUE PRODUITE
 
-Le tableau n° 2 suivant indique pour chaque activité polluante d'un établissement, identifiée par un code d'activité, la définition de la grandeur caractérisant l'activité. Pour chaque élément constitutif de la pollution, la pollution théorique produite est égale au produit du nombre d'unités de la grandeur caractérisant l'activité par le niveau forfaitaire de pollution produite par unité de cette même grandeur. Elle est, selon les cas, exprimée par mois ou directement par année.
+Le tableau n° 2 suivant indique pour chaque activité polluante d'un établissement, identifiée par un code d'activité, la définition de la grandeur caractérisant l'activité. Pour chaque élément constitutif de la pollution mentionné dans le tableau suivant, la pollution théorique produite est égale au produit du nombre d'unités de la grandeur caractérisant l'activité par le niveau forfaitaire de pollution produite par unité de cette même grandeur. Elle est, selon les cas, exprimée par mois ou directement par année.
 
 Les valeurs des niveaux forfaitaires de pollution théorique produite par unité de grandeur caractérisant l'activité sont exprimées :
 
@@ -12,7 +12,7 @@ Les valeurs des niveaux forfaitaires de pollution théorique produite par unité
 
 - en kiloéquitox pour la toxicité aiguë ;
 
-- en siemens / cm × m ³ pour les sels dissous ;
+- en siemens/cm × m³ pour les sels dissous ;
 
 - en mégathermie pour la chaleur.
 
@@ -22,7 +22,7 @@ Pour déterminer la quantité de pollution rejetée mensuellement ou annuellemen
 
 En l'absence d'activité polluante de l'établissement au cours d'un mois donné, la grandeur caractéristique "nombre d'emplois" est considérée comme nulle. Le cas échéant, elle est pondérée en fonction du nombre de semaines de fermeture au cours d'un même mois ;
 
-- lorsque la grandeur caractérisant l'activité est "le fil", "le disque, "le châssis", "la débiteuse à disque" ou "le polissoir", celle-ci est égale au nombre d'appareils présents dans l'établissement.
+- lorsque la grandeur caractérisant l'activité est "le fil", "le disque", "le châssis", "la débiteuse à disque" ou "le polissoir", celle-ci est égale au nombre d'appareils présents dans l'établissement.
 
 TABLEAU N° 2
 
@@ -162,13 +162,13 @@ Tonne d'aliments achetés pendant l'année.
 
 |
 
-490 / ED-
+490/ED-
 
 |
 
 |
 
-87, 5 / ED-
+87,5/ED-
 
 |
 
@@ -1122,7 +1122,7 @@ Tonne de matériaux lavés, criblés ou préparés.
 
 |
 
-3, 5
+3,5
 
 |
 
@@ -2146,7 +2146,7 @@ Tonne de demi-produit enfourné.
 
 |
 
-4, 8
+4,8
 
 |
 
@@ -4424,7 +4424,7 @@ Utilisation du cuivre et alliage dans le cadre du code D710
 
 |
 
-Tonne de cuivre mis en œ uvre.
+Tonne de cuivre mis en œuvre.
 
 |
 
@@ -4466,7 +4466,7 @@ Utilisation du cuivre et alliage dans le cadre du code D710
 
 |
 
-Tonne de zinc mis en œ uvre.
+Tonne de zinc mis en œuvre.
 
 |
 
@@ -4508,7 +4508,7 @@ Utilisation du cuivre et alliage dans le cadre du code D710
 
 |
 
-Tonne de plomb mis en œ uvre.
+Tonne de plomb mis en œuvre.
 
 |
 
@@ -6574,7 +6574,7 @@ Emploi.
 
 |
 
-18,1
+18, 1
 
 |
 
@@ -6834,7 +6834,7 @@ Hectolitre d'alcool produit.
 
 |
 
-2, 2
+2,2
 
 |
 
@@ -9980,9 +9980,9 @@ Tonne de choux soumis à la coupe.
 
 On considère que le nombre de jours d'activité est égal à :
 
-- 100 jours / an pour les rejets de l'eau de coupe ;
+- 100 jours/an pour les rejets de l'eau de coupe ;
 
-- 200 jours / an pour les rejets de saumure fermentée.
+- 200 jours/an pour les rejets de saumure fermentée.
 
 Par tonne de choux mis en  uvre, on retient :
 
@@ -10068,7 +10068,7 @@ Tonne de produits entrant en fabrication.
 
 |
 
-2, 4
+2,4
 
 |
 
@@ -11220,7 +11220,7 @@ Tonne de produits finis.
 
 |
 
-2,2
+2, 2
 
 |
 
@@ -12334,7 +12334,7 @@ Tonne de carcasse abattue.
 
 |
 
-4, 5
+4,5
 
 |
 
@@ -13346,7 +13346,7 @@ Tonne de poisson entrant en criée.
 
 |
 
-2,2
+2, 2
 
 |
 
@@ -13642,7 +13642,7 @@ Tonne de pâte produite à 90 % de siccité.
 
 |
 
-3, 6
+3,6
 
 |
 
@@ -14612,7 +14612,7 @@ Tonne de laine produite carbonisée séchée à 17 % d'humidité.
 
 |
 
-4,3
+4, 3
 
 |
 
@@ -14768,7 +14768,7 @@ Tonne de matière produite.
 
 |
 
-6, 5
+6,5
 
 |
 
@@ -14982,7 +14982,7 @@ Tonne de produits sortant de fabrication.
 
 |
 
-6, 5
+6,5
 
 |
 
@@ -17948,7 +17948,7 @@ Emploi.
 
 |
 
-0,04
+0, 04
 
 |
 
