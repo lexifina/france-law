@@ -1,6 +1,6 @@
 # Article Annexe
 
-CORPS ET GRADES
+CORPS ET GRADE
 
 |
 
@@ -10,11 +10,15 @@ TAUX APPLICABLE PAR ANNÉE
 
 |
 
-Année(s)
+2015
 
 |
 
-Taux
+2016
+
+|
+
+2017
 
 |
 
@@ -30,11 +34,15 @@ Attaché principal
 
 |
 
-2014, 2015, 2016
+10 %
 
 |
 
 10 %
+
+|
+
+Non défini
 
 |
 
@@ -46,11 +54,15 @@ Adjoint des cadres hospitaliers de classe supérieure
 
 |
 
-2014
+13 %
 
 |
 
-15 %
+13 %
+
+|
+
+13 %
 
 |
 
@@ -58,11 +70,15 @@ Adjoint des cadres hospitaliers de classe exceptionnelle
 
 |
 
-2014
+11 %
 
 |
 
-12 %
+11 %
+
+|
+
+11 %
 
 |
 
@@ -74,11 +90,15 @@ Assistant médico-administratif de classe supérieure
 
 |
 
-2014
+8 %
 
 |
 
-10 %
+8 %
+
+|
+
+8 %
 
 |
 
@@ -86,7 +106,11 @@ Assistant médico-administratif de classe exceptionnelle
 
 |
 
-2014
+8 %
+
+|
+
+8 %
 
 |
 
@@ -102,7 +126,7 @@ Adjoint administratif de 1re classe
 
 |
 
-2014, 2015, 2016
+6 %
 
 |
 
@@ -110,15 +134,23 @@ Adjoint administratif de 1re classe
 
 |
 
+Non défini
+
+|
+
 Adjoint administratif principal de 2e classe
 
 |
 
-2014
+9 %
 
 |
 
 9 %
+
+|
+
+Non défini
 
 |
 
@@ -126,11 +158,15 @@ Adjoint administratif principal de 1re classe
 
 |
 
-2014
+9 %
 
 |
 
 9 %
+
+|
+
+Non défini
 
 |
 
@@ -142,7 +178,11 @@ Permanencier auxiliaire de régulation médicale chef
 
 |
 
-2014
+13 %
+
+|
+
+13 %
 
 |
 
@@ -162,7 +202,7 @@ Dessinateur chef de groupe
 
 |
 
-2014, 2015, 2016
+5 %
 
 |
 
@@ -170,15 +210,23 @@ Dessinateur chef de groupe
 
 |
 
+Non défini
+
+|
+
 Dessinateur principal
 
 |
 
-2014, 2015, 2016
+13 %
 
 |
 
 13 %
+
+|
+
+Non défini
 
 |
 
@@ -190,11 +238,15 @@ Conducteur ambulancier de 1re catégorie
 
 |
 
-2014, 2015, 2016
+6 %
 
 |
 
 6 %
+
+|
+
+Non défini
 
 |
 
@@ -202,7 +254,7 @@ Conducteur ambulancier hors catégorie
 
 |
 
-2014, 2015, 2016
+5 %
 
 |
 
@@ -210,15 +262,15 @@ Conducteur ambulancier hors catégorie
 
 |
 
-Corps des ouvriers
+Non défini
 
 |
 
-Ouvrier professionnel
+Corps des personnels ouvriers
 
 |
 
-2014
+Ouvrier professionnel qualifié
 
 |
 
@@ -226,11 +278,15 @@ Ouvrier professionnel
 
 |
 
-Maître ouvrier
+6 %
 
 |
 
-2014
+Non défini
+
+|
+
+Maître ouvrier
 
 |
 
@@ -238,15 +294,27 @@ Maître ouvrier
 
 |
 
+10 %
+
+|
+
+Non défini
+
+|
+
 Maître ouvrier principal
 
 |
 
-2014, 2015, 2016
+15 %
 
 |
 
 15 %
+
+|
+
+Non défini
 
 |
 
@@ -258,11 +326,15 @@ Agent de maîtrise principal
 
 |
 
-2014
+10 %
 
 |
 
-7 %
+10 %
+
+|
+
+Non défini
 
 |
 
@@ -274,7 +346,11 @@ Technicien supérieur hospitalier de 2e classe
 
 |
 
-2014
+10 %
+
+|
+
+10 %
 
 |
 
@@ -286,11 +362,15 @@ Technicien supérieur hospitalier de 1re classe
 
 |
 
-2014
+18 %
 
 |
 
-20 %
+15 %
+
+|
+
+15 %
 
 |
 
@@ -306,11 +386,15 @@ Psychologue hors classe
 
 |
 
-2014
+Non défini
 
 |
 
-12 %
+Non défini
+
+|
+
+Non défini
 
 |
 
@@ -322,11 +406,23 @@ Corps des aides-soignants et des agents des services hospitaliers
 
 |
 
-Aide-soignant de classe supérieure
+Agent de services hospitaliers qualifié classe supérieure
 
 |
 
-2014, 2015, 2016
+Non défini
+
+|
+
+Non défini
+
+|
+
+Non défini
+
+|
+
+Aide-soignant de classe supérieure
 
 |
 
@@ -334,15 +430,27 @@ Aide-soignant de classe supérieure
 
 |
 
+10 %
+
+|
+
+Non défini
+
+|
+
 Aide-soignant de classe exceptionnelle
 
 |
 
-2014
+15 %
 
 |
 
 15 %
+
+|
+
+Non défini
 
 |
 
@@ -354,7 +462,7 @@ Infirmier de classe supérieure
 
 |
 
-2014, 2015, 2016
+20 %
 
 |
 
@@ -362,7 +470,11 @@ Infirmier de classe supérieure
 
 |
 
-Corps des infirmiers en soins généraux et spécialisés de la fonction publique hospitalière
+Non défini
+
+|
+
+Corps des infirmiers en soins généraux et spécialisés
 
 |
 
@@ -370,7 +482,7 @@ Infirmier en soins généraux deuxième grade
 
 |
 
-2014, 2015, 2016
+11 %
 
 |
 
@@ -378,23 +490,31 @@ Infirmier en soins généraux deuxième grade
 
 |
 
+Non défini
+
+|
+
 Filière de rééducation
 
 |
 
-Corps des pédicures
+Corps des pédicures-podologues
 
 |
 
-Pédicure de classe supérieure
+Pédicure-podologue de classe supérieure
 
 |
 
-2014
+15 %
 
 |
 
-50 %
+15 %
+
+|
+
+15 %
 
 |
 
@@ -406,7 +526,11 @@ Masseur-kinésithérapeute de classe supérieure
 
 |
 
-2014
+12,5 %
+
+|
+
+12,5 %
 
 |
 
@@ -422,11 +546,15 @@ Ergothérapeute de classe supérieure
 
 |
 
-2014
+12 %
 
 |
 
-17 %
+12 %
+
+|
+
+12 %
 
 |
 
@@ -438,11 +566,15 @@ Psychomotricien de classe supérieure
 
 |
 
-2014
+15 %
 
 |
 
-28 %
+15 %
+
+|
+
+12 %
 
 |
 
@@ -454,11 +586,15 @@ Orthophoniste de classe supérieure
 
 |
 
-2014
+15 %
 
 |
 
-20 %
+15 %
+
+|
+
+15 %
 
 |
 
@@ -470,11 +606,15 @@ Orthoptiste de classe supérieure
 
 |
 
-2014
+15 %
 
 |
 
-50 %
+15 %
+
+|
+
+15 %
 
 |
 
@@ -486,11 +626,15 @@ Diététicien de classe supérieure
 
 |
 
-2014
+13 %
 
 |
 
-19 %
+13 %
+
+|
+
+13 %
 
 |
 
@@ -498,7 +642,7 @@ Filière médico-technique
 
 |
 
-Corps des manipulateurs en électroradiologie
+Corps des manipulateurs en électroradiologie médicale
 
 |
 
@@ -506,11 +650,15 @@ Manipulateur en électroradiologie de classe supérieure
 
 |
 
-2014
+15 %
 
 |
 
-15 %
+14 %
+
+|
+
+12 %
 
 |
 
@@ -518,11 +666,15 @@ Corps des techniciens de laboratoire médical
 
 |
 
-Technicien de laboratoire médical
+Technicien de laboratoire médical de classe supérieure
 
 |
 
-2014
+15 %
+
+|
+
+15 %
 
 |
 
@@ -534,14 +686,144 @@ Corps des préparateurs en pharmacie hospitalière
 
 |
 
-Préparateur en pharmacie hospitalière
+Préparateur en pharmacie hospitalière de classe supérieure
 
 |
 
-2014
+14 %
 
 |
 
-27,5 %
+12 %
 
 |
+
+12 %
+
+|
+
+Filière socio-éducative
+
+|
+
+Corps des conseillers en économie sociale et familiale
+
+|
+
+Conseiller en économie sociale et familiale de classe supérieure
+
+|
+
+15 %
+
+|
+
+15 %
+
+|
+
+15 %
+
+|
+
+Corps des éducateurs techniques spécialisés
+
+|
+
+Educateur technique spécialisé de classe supérieure
+
+|
+
+15 %
+
+|
+
+15 %
+
+|
+
+15 %
+
+|
+
+Corps des éducateurs de jeunes enfants
+
+|
+
+Educateur de jeunes enfants de classe supérieure
+
+|
+
+15 %
+
+|
+
+15 %
+
+|
+
+15 %
+
+|
+
+Corps des animateurs
+
+|
+
+Animateur principal 1re classe
+
+|
+
+10 %
+
+|
+
+10 %
+
+|
+
+8 %
+
+|
+
+Corps des moniteurs-éducateurs
+
+|
+
+Moniteur-éducateur principal
+
+|
+
+10 %
+
+|
+
+10 %
+
+|
+
+8 %
+
+|
+
+Sages-femmes des hôpitaux
+
+|
+
+Corps des sages-femmes des hôpitaux
+
+|
+
+Sage-femme des hôpitaux du second grade
+
+|
+
+20 %
+
+|
+
+15 %
+
+|
+
+10 % |
