@@ -1,0 +1,9 @@
+# Réponse à la question n° 73729
+
+- Question : [73729](73729.md) — Question n° 73729 — revendications
+
+## Réponse
+
+*JO du 2015-04-07*
+
+S'agissant du découplage entre la prescription et la délivrance de médicaments vétérinaires, la question a été débattue à l'occasion des travaux préalables et parlementaires relatifs au projet de loi d'avenir pour l'agriculture, l'alimentation et la forêt. Dans la loi d'avenir telle que promulguée le 13 octobre 2014, le découplage ne figure pas, ce dernier ayant été écarté assez rapidement dans les travaux. Les services du ministère de l'agriculture, de l'agroalimentaire et de la forêt restent par ailleurs très vigilants à ce que le découplage ne soit pas introduit dans le projet de règlement européen sur les médicaments vétérinaires. En effet, les expériences de cette pratique à l'étranger n'ont pas prouvé son efficacité sur la diminution de l'usage de certains médicaments, en particulier les antibiotiques à usage vétérinaire, alors même que dans le même temps, en France, les résultats obtenus dans le cadre de la lutte contre l'antibiorésistance, sans découplage, sont globalement encourageants. S'agissant des tarifs pratiqués par les vétérinaires, ils sont par principe non encadrés par l'État s'agissant de la vente de médicaments vétérinaires ne faisant pas l'objet d'un remboursement par l'État. Cependant la transparence des tarifs figure dans le code de déontologie vétérinaire en vigueur à l'article R. 242-49 du code rural et de la pêche maritime : « Le vétérinaire doit répondre à toute demande d'information sur ses honoraires ou sur le coût d'un traitement ». Ce code de déontologie a récemment été réformé et cette disposition est complétée de la façon suivante : « Il fournit le prix du service, lorsque le prix est déterminé au préalable ou, à défaut, une méthode de calcul de ce prix ou un devis pour un type de service donné ».
