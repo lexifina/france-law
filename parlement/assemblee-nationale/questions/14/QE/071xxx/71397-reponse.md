@@ -1,0 +1,9 @@
+# Réponse à la question n° 71397
+
+- Question : [71397](71397.md) — Question n° 71397 — jeunes en difficulté; maisons rurales familiales; soutien
+
+## Réponse
+
+*JO du 2015-04-07*
+
+Les maisons familiales rurales (MFR) sont des établissements scolaires privés sous contrat avec l'Etat, qui relèvent de l'article L813-9 du code rural. Les contenus pédagogiques des formations sont élaborés et validés avec l'autorité académique, en contrepartie l'Etat veille à ce que les formations proposées respectent les référentiels nationaux et s'engage par voie contractuelle à leur apporter un soutien financier pour accompagner ce volet pédagogique. Les relations entre l'Etat et les établissements d''enseignement agricole privés sont régies par les articles R813-2 à R813-50 du Code rural. Chaque année, des annexes au contrat sont établies. Celles-ci comportent : les effectifs des élèves à la rentrée scolaire, le récapitulatif des formateurs, le planning d'organisation des formations et le calendrier des stages, les modalités de regroupement des élèves et les montants justifiés des redevances demandées aux familles. Conformément à l'article R813-26, la DAAF/SFD réalise les contrôles pédagogiques et administratifs. Les maisons familiales rurales ont opté pour le choix de la mise en oeuvre de formations par alternance, plus précisément via le mécanisme du rythme approprié, afin de favoriser une insertion optimale des jeunes dans le milieu professionnel agricole et rural. Ce mode d'enseignement apparait effectivement très adapté pour les jeunes ultra-marins, c'est à ce titre que nous soutenons cette démarche. Dans les départements d'outre-mer, le projet des MFR est pleinement intégré dans la stratégie régionale de formation. Le mode d'enseignement proposé n'est aucunement remis en question et se veut complémentaire aux dispositifs prévus par l'enseignement agricole public.
