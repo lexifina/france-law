@@ -1,0 +1,9 @@
+# Réponse à la question n° 67014
+
+- Question : [67014](67014.md) — Question n° 67014 — travaux de rénovation; prêt à taux zéro; extension
+
+## Réponse
+
+*JO du 2015-04-07*
+
+Le prêt à taux zéro (PTZ) est le principal dispositif public de soutien à l'accession à la propriété. Il s'agit d'un prêt sans intérêt, aidé par l'État, qui peut être accordé, sous conditions de ressources, aux personnes qui souhaitent acquérir leur première résidence principale en France (métropole et département d'Outre-mer). Entre 2012 et 2014, les opérations éligibles au PTZ étaient principalement la construction ou l'achat d'un logement neuf, afin de favoriser le secteur de la construction. Toutefois, depuis le 1er janvier 2015, l'acquisition de logements anciens est rendue éligible au PTZ à la double condition que l'opération comprenne des travaux d'amélioration représentant au moins 25 % du coût total et que le logement soit situé dans l'une des 5 920 communes éligibles, à savoir des communes rurales, à forte vacance de logements et offrant un niveau minimal de services à la population. Les critères permettant de déterminer la liste de ces communes éligibles ont été encadrés par la loi (article L. 31-10-2 du code de la construction et de l'habitation) et précisés par décret (article R. 31-10-2 du même code). Pour être éligibles, les communes doivent répondre à une triple condition : - la commune ne doit pas appartenir à une agglomération comptant au moins 10 000 habitants ; - la commune doit comprendre au moins 8 équipements de proximité ou intermédiaire, au sens de la définition de l'INSEE ; - la commune doit connaître un taux de vacance de logements supérieur ou égal à 8 %. La liste des communes, déterminée selon ces critères, est annexée à l'arrêté du 30 décembre 2014 relatif au champ d'application géographique des prêts ne portant pas intérêt consentis pour financer des opérations de primo-accession dans l'ancien sous conditions de travaux.
