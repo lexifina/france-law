@@ -1,0 +1,9 @@
+# Réponse à la question n° 71826
+
+- Question : [71826](71826.md) — Question n° 71826 — taxe de publicité foncière; concubins; disparités
+
+## Réponse
+
+*JO du 2015-04-07*
+
+Les licitations sont une des formes possibles pour sortir un bien de l'indivision, en particulier pour les biens, notamment immobiliers, pour lesquels un partage n'est pas matériellement possible. Une licitation est une vente et relève par conséquent du droit commun des ventes en application du I de l'article 750 du code général des impôts (CGI). Des mesures de tempérament sont prévues au II de cet article dans le cadre des successions ou des dissolutions de communautés conjugales, afin de les faciliter. Ainsi, les licitations de biens mobiliers ou immobiliers dépendant d'une succession ou d'une communauté conjugale ainsi que les cessions de droits successifs mobiliers ou immobiliers sont assujetties à un droit d'enregistrement ou à une taxe de publicité foncière de 2,5 % lorsqu'elles interviennent au profit de membres originaires de l'indivision, de leur conjoint, de leurs ascendants ou descendants ou des ayants droit à titre universel de l'un ou de plusieurs d'entre eux. Il en est de même des licitations portant sur des biens indivis issus d'une donation-partage et des licitations portant sur des biens indivis acquis par des partenaires ayant conclu un pacte civil de solidarité (PACS) ou par des époux, avant ou pendant le pacte ou le mariage. Ainsi, le taux réduit ne s'applique qu'au sein de ces indivisions particulières et sous des conditions restrictives. Le concubinage, qui ne résulte ni d'un contrat ni d'un acte administratif mais constate une situation de fait, correspond à une situation différente, à laquelle le législateur n'a pas souhaité accorder le bénéfice du taux réduit : les divisions de biens détenus conjointement dans cette situation sont soumises au régime des ventes ordinaires et taxées comme telles.
