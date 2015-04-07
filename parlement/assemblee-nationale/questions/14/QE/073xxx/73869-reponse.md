@@ -1,0 +1,9 @@
+# Réponse à la question n° 73869
+
+- Question : [73869](73869.md) — Question n° 73869 — plantes; lutte et prévention
+
+## Réponse
+
+*JO du 2015-04-07*
+
+L'impact sanitaire des brûlages à l'air libre de végétaux, particulièrement dans les zones habitées, est notable. C'est pourquoi le brûlage à l'air libre des déchets verts est interdit par la circulaire du 18 novembre 2011. Outre la gêne pour le voisinage et les risques d'incendie qu'elle génère, la combustion des végétaux, qui s'effectue d'une manière très incomplète par ce mode d'élimination, est fortement émettrice de polluants tels que les particules fines et des produits toxiques ou cancérigènes parmi lesquels figurent notamment des polluants organiques persistants comme les hydrocarbures aromatiques polycycliques (HAP), et les dioxines qui se concentrent dans les produits laitiers et les oeufs. Le deuxième plan national santé-environnement a pointé les risques liés à une mauvaise combustion de la biomasse et au brûlage à l'air libre. Le compostage au jardin ou en plate-forme de compostage à une plus grande échelle permet d'éviter de consommer de l'énergie en brûlant ces déchets à forte teneur en eau, et de les valoriser par retour au sol. Le règlement sanitaire départemental type prévoit toutefois la possibilité de déroger à cette règle d'interdiction de brûlage des déchets verts par le préfet, sur proposition de l'Autorité sanitaire et après avis du Conseil départemental de l'environnement et des risques sanitaires et technologiques (CODERST). Chaque département dispose de son propre règlement sanitaire, applicable de plein droit. Les critères à retenir pour l'attribution des dérogations ont été définis dans la circulaire du 18 novembre 2011. Pour éviter la propagation de certaines épidémies, telles que le feu bactérien, qui touchent les végétaux d'une même espèce, le préfet peut ainsi permettre par dérogation de brûler les végétaux contaminés à l'air libre.
