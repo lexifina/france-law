@@ -1,0 +1,9 @@
+# Réponse à la question n° 33426
+
+- Question : [33426](33426.md) — Question n° 33426 — réduction; Cour des comptes; recommandations
+
+## Réponse
+
+*JO du 2015-04-07*
+
+Les interventions financières des collectivités locales ont été encadrées dans le but de limiter la pratique des financements croisés, de mieux responsabiliser les collectivités initiatrices de projets d'investissement et de contribuer à la maîtrise de la dépense publique locale. Ces règles d'encadrement des financements croisés ont été modifiées par la loi n° 2014-58 du 27 janvier 2014 de modernisation de l'action publique territoriale et d'affirmation des métropoles (MAPTAM). Celle-ci a en effet créé des chefs de filat pour l'exercice d'un certain nombre de compétences partagées (article L. 1111-9 du CGCT). La collectivité chef de file organise les modalités de l'action commune des collectivités territoriales et de leurs établissements publics dans le cadre de la conférence territoriale de l'action publique, au niveau régional. Cette conférence doit, en effet, favoriser un exercice concerté des compétences des collectivités territoriales, de leurs groupements et de leurs établissements publics. Elle examine les projets de conventions territoriales d'exercice concerté des compétences élaborés par les collectivités territoriales chefs de file, lesquelles fixent les objectifs de rationalisation et les modalités de l'action commune pour chacune de ces compétences partagées. Le décret prévoyant les modalités de désignation des membres de la CTAP a été publié le 24 septembre dernier. Dans le prolongement de la loi MAPTAM, le projet de loi portant Nouvelle Organisation Territoriale de la République tend à clarifier les compétences des collectivités territoriales et à encadrer leurs interventions financières, en limitant aux domaines expressément prévus par la loi l'intervention des régions et des départements.
