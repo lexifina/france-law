@@ -1,0 +1,9 @@
+# Réponse à la question n° 67229
+
+- Question : [67229](67229.md) — Question n° 67229 — écotaxe; suppression; conséquences
+
+## Réponse
+
+*JO du 2015-04-07*
+
+Le Gouvernement examine actuellement les suites qu'il pourra donner aux recommandations contenues dans les rapports de la Cour des comptes et dans l'avis de l'Autorité de la concurrence. Dans le cadre du projet de loi croissance et activité, l'Assemblée nationale a adopté un certain nombre de dispositions législatives pour renforcer la transparence du secteur des autoroutes concédées et renforcer le contrôle en particulier de la dévolution des marchés de travaux par les sociétés concessionnaires d'autoroute. Par ailleurs, le Premier ministre a souhaité, le 30 décembre 2014, mettre en place un groupe de travail réunissant des parlementaires de l'Assemblée nationale et du Sénat pour examiner deux scénarios pour l'avenir des autoroutes concédées historiques : celui de la remise à plat des contrats et celui de la résiliation. Cette décision fait suite à la mission d'information de la Commission du développement durable de l'Assemblée nationale sur la « place des autoroutes dans les infrastructures de transport » et du groupe de travail du Sénat sur les sociétés concessionnaires d'autoroute. Le groupe de travail a remis ses conclusions début mars 2015. Le Gouvernement arrêtera sa position au vu de cet éclairage. Enfin, compte tenu du consensus apparu avec les transporteurs routiers sur la nécessité du financement des infrastructures de transport, un groupe de travail avec les transporteurs routiers et les chargeurs a été mis en place pour déterminer des modalités pérennes de financement, les conclusions sont attendues d'ici l'été 2015. Dans l'attente, la loi de finances pour 2015 a affecté une partie des recettes de la taxe intérieure de consommation sur les produits énergétiques (TICPE), à l'Agence de financement des infrastructures de transport de France (AFITF).
