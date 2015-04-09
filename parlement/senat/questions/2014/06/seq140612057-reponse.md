@@ -1,0 +1,9 @@
+# Réponse à la question SEQ140612057
+
+- Question : [SEQ140612057](seq140612057.md) — Rédaction des actes notariés par les agents consulaires à l'étranger
+
+## Réponse
+
+*Affaires étrangères, JO du 2015-04-09, page 814*
+
+Dans la ligne des recommandations du rapport de la Cour des comptes de 2013, le ministère des affaires étrangères et du développement international travaille à redéfinir le contour des missions des consulats, en se recentrant sur les missions essentielles et en investissant dans l'administration électronique. Concernant le notariat consulaire, la France propose un service de notariat aux Français expatriés. Les postes consulaires officient en partenariat étroit avec les notaires français ; une part majeure de l'activité consiste en l'établissement de procurations. Le maintien du notariat, qui n'est pas au cœur du métier consulaire, pose des problèmes de sécurité et de responsabilité juridique. C'est pourquoi le notariat consulaire a été supprimé en Europe il y a dix ans sans dommage particulier pour les usagers. Le ministère des affaires étrangères et du développement international n'envisage toutefois pas de réduire systématiquement le champ géographique de l'exercice du notariat consulaire au-delà de cette aire géographique, dans la mesure notamment où il n'existe pas d'alternative partout. C'est pourquoi le ministère des affaires étrangères et du développement international souhaite renforcer la relation existante avec le Conseil supérieur du notariat en instaurant des actions de formations communes pour les agents des consulats, en systématisant la pratique des modèles soumis par le notaire français et, là où c'est possible (existence d'une alternative locale, reconnaissance par le notaire français), en encourageant le recours à des acteurs locaux du droit.
