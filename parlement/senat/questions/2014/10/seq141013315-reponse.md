@@ -1,0 +1,9 @@
+# Réponse à la question SEQ141013315
+
+- Question : [SEQ141013315](seq141013315.md) — Désignation des assesseurs
+
+## Réponse
+
+*Intérieur, JO du 2015-04-09, page 825*
+
+Aux termes de l'article R. 42 du code électoral, « Chaque bureau de vote est composé d'un président, d'au moins deux assesseurs et d'un secrétaire choisi par eux parmi les électeurs de la commune. ». Dans le cadre des élections départementales, conformément aux dispositions de l'article R. 44, les assesseurs sont désignés par chaque binôme de candidats et/ou par le maire. Chaque binôme de candidats peut désigner un assesseur par bureau de vote, ainsi qu'un assesseur suppléant. Cette faculté est également offerte au maire qui a le droit de désigner des assesseurs supplémentaires parmi les conseillers municipaux dans l'ordre du tableau puis, le cas échéant, parmi les électeurs de la commune. Cette possibilité vise à permettre la constitution de bureaux de vote complets le jour du scrutin, notamment en l'absence d'assesseurs désignés par les binômes de candidats en nombre suffisant. Rien n'interdit au maire de désigner des assesseurs en complément de ceux désignés par les binômes de candidats. De plus, le nombre d'assesseurs que le maire a le droit de désigner n'est pas limité dans la mesure où l'article R. 44 prescrit seulement que le bureau de vote soit composé d'au moins deux assesseurs. Enfin, le juge électoral considère que la circonstance que des assesseurs aient été en nombre insuffisant dans un bureau de vote est sans incidence sur la validité du scrutin si cette irrégularité n'a pas eu pour effet de permettre des manœuvres et de porter atteinte à la liberté et à la sincérité du scrutin dans ce lieu de vote (décision n° 135966 du Conseil d'Etat du 28 décembre 1992 ; décision AN n° 78-883 du Conseil constitutionnel « Haute-Corse, 1re circonscription » du 11 juillet 1978).
