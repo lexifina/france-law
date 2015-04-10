@@ -2042,7 +2042,7 @@ SGAMI de la zone de défense et de sécurité Est/Metz
 
 |
 
-Responsable de l'atelier auto
+Responsable réception à l'atelier auto
 
 |
 
@@ -2084,9 +2084,7 @@ Responsable du service roulage
 
 |
 
-37
-
-|
+76 |
 
 SGAMI de la zone de défense et de sécurité Ouest/Oissel
 
@@ -2360,11 +2358,11 @@ Chef du service central et responsable des espaces verts
 
 |
 
-RZG IDF/EOGN Melun/BBSAI
+RZG IdF/EOGN Melun/BBSAI
 
 |
 
-Chef de l'atelier peinture
+Chef de l'atelier menuiserie
 
 |
 
@@ -2388,9 +2386,7 @@ Chef de cuisine
 
 |
 
-60
-
-|
+21 |
 
 RZG METZ/RG Bourgogne/CM Dijon
 
@@ -2404,7 +2400,7 @@ Chef de cuisine
 
 |
 
-60
+80
 
 |
 
@@ -2452,11 +2448,11 @@ Chef de cuisine
 
 |
 
-44
+31
 
 |
 
-RZG Aquitaine/RG Midi-Pyrénées/CM Toulouse
+RZG AQUITAINE/RG Midi-Pyrénées/CM Toulouse
 
 |
 
