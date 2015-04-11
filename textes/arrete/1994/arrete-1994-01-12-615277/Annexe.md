@@ -28,7 +28,7 @@ Opérations Héraclès, Pamir et Epidote
 
 |
 
-2 octobre 2013
+2 octobre 2015
 
 |
 
@@ -126,7 +126,7 @@ Opérations Licorne et Calao (ONUCI)
 
 |
 
-17 septembre 2012
+17 septembre 2014
 
 |
 
@@ -182,7 +182,7 @@ Dans le cadre de la mission des Nations unies de stabilisation en Haïti (MINUST
 
 |
 
-18 février 2012
+18 février 2014
 
 |
 
@@ -195,6 +195,22 @@ Frontières irano-irakienne (opération Ramure) et turko-irakienne (opération L
 |
 
 A compter du 1er avril 1991 et jusqu'à cessation des hostilités
+
+|
+
+Royaume de Jordanie
+
+|
+
+Dans le cadre de l'opération Tamour sur le territoire du Royaume de Jordanie
+
+|
+
+6 août 2012
+
+|
+
+5 août 2014
 
 |
 
@@ -226,7 +242,7 @@ Dans le cadre de l'opération Atalanta sur les territoires de la République du 
 
 |
 
-7 décembre 2013
+7 décembre 2015
 
 |
 
@@ -296,7 +312,7 @@ Dans le cadre de l'opération MINUL (Mission des Nations unies au Liberia) sur l
 
 |
 
-30 avril 2013
+30 avril 2015
 
 |
 
@@ -325,6 +341,28 @@ Madagascar
 |
 
 1er octobre 1949
+
+|
+
+République du Mali
+
+|
+
+Dans le cadre de l'opération "Serval" sur les territoires de la République du Mali, de la République islamique de Mauritanie, de la République du Sénégal, de la République de Côte d'Ivoire, du Burkina Faso, de la République du Niger et de la République du Tchad
+
+|
+
+10 janvier 2013
+
+|
+
+9 janvier 2015
+
+|
+
+|
+
+|
 
 |
 
@@ -410,7 +448,7 @@ République centrafricaine
 
 3e période
 
-Opération Boali
+Opération "Boali"
 
 |
 
@@ -418,7 +456,19 @@ Opération Boali
 
 |
 
-1er décembre 2012
+1er décembre 2014
+
+|
+
+Dans le cadre de l'opération "Sangaris" sur les territoires de la République Centrafricaine, du Cameroun et du Tchad
+
+|
+
+5 décembre 2013
+
+|
+
+4 décembre 2015
 
 |
 
@@ -504,7 +554,7 @@ Dans le cadre de l'opération MONUSCO (Mission de l'organisation des Nations uni
 
 |
 
-1er juin 2013
+1er juin 2015
 
 |
 
