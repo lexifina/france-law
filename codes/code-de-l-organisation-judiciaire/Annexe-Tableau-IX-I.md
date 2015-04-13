@@ -1,6 +1,6 @@
 # Article Annexe Tableau IX-1
 
-SIÈGE ET RESSORT DES TRIBUNAUX D'INSTANCE COMPÉTENTS, DANS LE RESSORT DE CERTAINS TRIBUNAUX DE GRANDE INSTANCE, POUR CONNAÎTRE DES MESURES DE TRAITEMENT DES SITUATIONS DE SURENDETTEMENT DES PARTICULIERS ET DES PROCÉDURES DE RÉTABLISSEMENT PERSONNEL (ANNEXE DE L'ARTICLE D. 221-1)
+Siège et ressort des tribunaux d'instance compétents, dans le ressort de certains tribunaux de grande instance, pour connaître des mesures de traitement des situations de surendettement des particuliers et des procédures de rétablissement personnel (annexe de l'article D. 221-1)
 
 SIÈGE DU TRIBUNAL
 
@@ -148,7 +148,7 @@ Villejuif
 
 |
 
-Ressort des tribunaux d'instance de Boissy-Saint-Léger, Charenton-le-Pont, Ivry-sur-Seine, Nogent-sur-Marne, Saint-Maur-des-Fossés et Villejuif
+Ressort des tribunaux d'instance de Sucy-en-Brie, Charenton-le-Pont, Ivry-sur-Seine, Nogent-sur-Marne, Saint-Maur-des-Fossés et Villejuif
 
 |
 
