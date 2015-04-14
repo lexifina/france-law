@@ -1,0 +1,9 @@
+# Réponse à la question n° 58572
+
+- Question : [58572](58572.md) — Question n° 58572 — Alstom; plan de reprise; perspectives
+
+## Réponse
+
+*JO du 2015-04-14*
+
+L'Etat est intervenu dans les négociations entre Alstom et GE afin de peser sur les conditions de leur rapprochement et de définir un schéma alternatif au projet initial de cession de l'ensemble des activités d'Alstom dans le secteur de l'énergie, lequel apparaissait susceptible d'affecter les intérêts nationaux en matière de sécurité énergétique, au regard notamment du rôle d'Alstom en tant que fournisseur critique du parc nucléaire français. Ce schéma alternatif vise à créer les conditions d'une alliance équilibrée entre Alstom et GE, au travers de la constitution de co-entreprises dans les métiers des énergies renouvelables, des turbines à vapeur et du nucléaire, et des réseaux de transport et distribution d'électricité. Parallèlement, Alstom a vocation à maintenir et développer ses activités dans le secteur des transports, y compris en s'appuyant sur l'acquisition des activités de GE en matière de signalisation et sur l'accord de partenariat commercial conclu entre les deux groupes. L'entrée de l'Etat au capital d'Alstom permettra de consolider le capital de l'entreprise autour d'un actionnaire de référence à même de soutenir et d'accompagner le projet stratégique de l'entreprise qui sera mis en oeuvre sur la base de ce modèle. Une fois les opérations de rapprochement avec GE pleinement mises en oeuvre, l'enjeu pour Alstom sera de définir un nouveau plan stratégique visant à maximiser les synergies attendues du partenariat avec GE dans le secteur de l'énergie tout en renforçant le pôle transports. Le désendettement du groupe que permettra le produit des cessions d'actifs à GE offrira à cet égard des marges de manoeuvre nouvelles à l'entreprise.
