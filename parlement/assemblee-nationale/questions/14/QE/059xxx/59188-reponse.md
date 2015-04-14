@@ -1,0 +1,9 @@
+# Réponse à la question n° 59188
+
+- Question : [59188](59188.md) — Question n° 59188 — électricité produite; rachat par EDF; tarif
+
+## Réponse
+
+*JO du 2015-04-14*
+
+La transition énergétique appelle un développement fort des énergies renouvelables. Parmi celles-ci, l'énergie éolienne terrestre est la plus compétitive avec l'énergie hydraulique, et son développement participe à l'atteinte des objectifs du Gouvernement en matière de diversification du mix énergétique par un développement massif des énergies renouvelables. La compétitivité de l'éolien terrestre fait que la priorité doit être donnée à son développement pour l'atteinte des objectifs européens et nationaux de production d'énergie renouvelable. Le Gouvernement y est particulièrement attaché. Le dispositif de soutien de la filière éolienne terrestre consiste en une obligation d'achat de l'électricité produite à un tarif d'achat dont le niveau vise à assurer une rentabilité normale des capitaux investis pour le producteur, conformément au code de l'énergie. Dans le cadre de l'élaboration des arrêtés tarifaires, la Commission de régulation de l'énergie est consultée conformément à l'article L. 314-4 du code de l'énergie. Cet avis est consultatif et n'engage pas le Gouvernement. Concernant le niveau de rentabilité interne des projets éoliens terrestres, dans son rapport « coûts et rentabilité des énergies renouvelables en France métropolitaine : éolien terrestre, biomasse et solaire photovoltaïque » d'avril 2014, l'analyse de la Commission de régulation de l'énergie indiquait que les taux de rentabilité internes des projets de parcs éoliens n'excédaient pas 12 % (sur le panel de parcs audités). Par ailleurs, la Commission européenne qui a examiné le dispositif de soutien à l'éolien terrestre dans le cadre de sa notification a considéré que de tels taux de rentabilité interne restaient raisonnables. Le Gouvernement n'entend donc pas remettre en cause l'arrêté du 17 juin 2014.
