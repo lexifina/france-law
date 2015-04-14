@@ -1,0 +1,9 @@
+# Réponse à la question n° 59646
+
+- Question : [59646](59646.md) — Question n° 59646 — conditionnement; vente à l'unité
+
+## Réponse
+
+*JO du 2015-04-14*
+
+L'article 46 de la loi de financement de la sécurité sociale de 2014 dispose, qu'à titre expérimental, les pharmacies d'officine peuvent dispenser les antibiotiques à l'unité, lorsque leur forme pharmaceutique le permet. Cette expérimentation a trois objectifs prioritaires : la lutte contre le mésusage des médicaments, la lutte contre l'antibiorésistance ainsi que la réalisation d'économies. Le décret 2014-1047 du 15 septembre 2014 précise les modalités de cette expérimentation qui se déroule dans quatre régions (Ile-de-France, Limousin, Lorraine, Provence-Alpes-Côte-D'azur). Les officines ont été choisies sur la base du volontariat et en fonction de leur représentativité. Le nombre de pharmacies retenues pour participer à l'expérimentation est de 100. Le pharmacien doit préparer cette dispensation à l'unité en respectant les règles de préparation, d'information et de traçabilité déterminées par le décret. Pour leur participation à cette expérimentation, les pharmaciens percevront une rémunération forfaitaire pour la durée de l'expérimentation. La liste des spécialités (les antibiotiques critiques dont la forme pharmaceutique permet une dispensation à l'unité) faisant l'objet de l'expérimentation a été fixée par un arrêté de la ministre des affaires sociales, de la santé et des droits des femmes du 15 septembre 2014. Cette liste de 14 antibiotiques à haut risque de résistance a été élaborée sur la base d'un rapport de l'agence nationale de sécurité du médicament et des produits de santé (ANSM). L'évaluation de cette importante expérimentation a été confiée à l'institut national de la santé et de la recherche médicale (ISERM).
