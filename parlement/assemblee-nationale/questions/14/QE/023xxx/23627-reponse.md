@@ -1,0 +1,9 @@
+# Réponse à la question n° 23627
+
+- Question : [23627](23627.md) — Question n° 23627 — orphelins; oeuvre caritative; cotisations; paiement
+
+## Réponse
+
+*JO du 2015-04-14*
+
+Le précompte constitue l'un des modes de règlement des cotisations. Or, en droit communautaire, le précompte de cotisations sur le traitement des agents est assimilé à une aide accordée par l'administration aux organismes qui en bénéficient. En droit interne, le dispositif de précompte doit respecter le principe d'égalité. Conformément à ces règles, et en application des dispositions du décret n° 2007-1373 du 19 septembre 2007, seuls peuvent bénéficier de précomptes sur les traitements versés par les collectivités publiques et l'Etat, les organismes de protection sociale complémentaire qui peuvent être « référencés » au terme d'une procédure de mise en concurrence. Tel n'est pas le cas d'Orphéopolis. Le partenariat entre Orphéopolis et le ministère n'est pas remis en cause par ces dispositions, qui s'imposent, au delà des conventions qui les lient. La mise en conformité avec le cadre légal et règlementaire est intervenue le 31 décembre 2013 date à laquelle les précomptes sur la rémunération versée aux fonctionnaires de police ont été interrompus. Toutefois cette opération a été préparée et suivie avec le plus grand soin par le ministère de l'intérieur en collaboration étroite avec la direction générale des finances publiques et Orphéopolis de manière à accompagner ses adhérents dans la transition vers un mode de règlement alternatif de leurs cotisations. Le ministère a été attentif tout au long de l'opération à apporter son soutien à Ophéopolis pour l'aider à surmonter les obstacles auxquels il a été confronté et pour éviter qu'il perde des adhérents du fait de la mise en place d'une procédure nouvelle de collecte des cotisations.
