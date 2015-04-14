@@ -1,0 +1,9 @@
+# Réponse à la question n° 71248
+
+- Question : [71248](71248.md) — Question n° 71248 — statistiques
+
+## Réponse
+
+*JO du 2015-04-14*
+
+Le traitement des données de l'année 2013 étant en cours, les derniers chiffres disponibles relatifs aux absences au travail dans la fonction publique territoriale sont ceux de 2011. On dénombre en moyenne 25,2 journées d'absence, tous motifs confondus, par agent territorial permanent. Les absences pour raison de santé, qui regroupent la maladie, la longue maladie, l'accident du travail et la maladie professionnelle, représentent une moyenne de 21,8 jours d'absence. Les absences dans la fonction publique territoriale peuvent en partie s'expliquer par le nombre important d'agents de catégorie C, qui exercent des métiers à dominante technique, plus exposés aux risques. Ils s'expliquent également par la proportion assez importante d'agents de 50 ans et plus : 35 % contre 29 % dans la fonction publique de l'Etat et 28 % dans la fonction publique hospitalière. Plus largement, la baisse de l'absentéisme doit s'inscrire dans une logique de prévention des risques professionnels et d'amélioration des conditions de travail. C'est dans ce cadre qu'a été signé, le 22 octobre 2013, le protocole d'accord relatif à la prévention des risques psychosociaux dans la fonction publique. Par ailleurs, des mesures ont été prises pour renforcer le contrôle du bien-fondé des arrêts maladie. D'une part, l'actuelle expérimentation du contrôle des arrêts maladie des fonctionnaires territoriaux, qui devait s'achever le 25 mars 2014, a été prolongée jusqu'au 31 décembre 2015. D'autre part, le décret n° 2014-1133 du 3 octobre 2014 relatif à la procédure de contrôle des arrêts maladie des fonctionnaires prévoit, sous certaines conditions, une réduction de la rémunération du fonctionnaire en cas de non-transmission, à l'administration dont il relève, d'un avis d'interruption de travail dans un délai de quarante-huit heures.
