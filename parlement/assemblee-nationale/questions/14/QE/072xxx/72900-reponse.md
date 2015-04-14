@@ -1,0 +1,9 @@
+# Réponse à la question n° 72900
+
+- Question : [72900](72900.md) — Question n° 72900 — pêche illégale; Guyane; lutte et prévention
+
+## Réponse
+
+*JO du 2015-04-14*
+
+La lutte contre la pêche illégale menée au large des côtes de la Guyane française s'est poursuivie en 2014 selon les axes définis au cours des années précédentes : intensification et diversification des opérations de police des pêches, développement de la coopération régionale et maintien d'un régime de sanctions matérielles et pénales dissuasives. La rapidité de mise en conformité du code rural et de la pêche maritime suite à la censure de certains de ses articles relatifs à la saisie des navires par le Conseil constitutionnel et la rédaction d'articles spécifiques à la Guyane témoignent de l'engagement fort du ministère de l'écologie, du développement durable et de l'énergie sur cette question. Le bilan des opérations menées au cours de l'année 2014 fait état de 22 déroutements de navires dont 16 ont été détruits, de 47 tonnes de produits de la mer et de 128 kilomètres de filets saisis. La baisse du nombre de destructions de navires (16 en 2014 contre 28 en 2013) résulte de l'absence de base législative en vigueur, entre le 21 mars 2014 et le 11 octobre 2014, pour y procéder, suite à la décision du Conseil constitutionnel n° 2014-375 du 21 mars 2014. Depuis la parution de cette loi du 13 octobre 2014, 11 saisies de navires ont été opérées. Ces éléments montrent le maintien de la moblisation des services de l'État. L'implication de l'ensemble des services de l'État dans cette lutte s'est également traduite par la condamnation en comparution immédiate à des peines de prison ferme de six capitaines de navires illégaux. De plus, la coopération régionale s'est accrue au cours de l'année 2014 : deux patrouilles franco-surinamiennes et sept patrouilles franco-brésiliennes ont été réalisées. Ces patrouilles ont permis le déroutement de 15 navires.
