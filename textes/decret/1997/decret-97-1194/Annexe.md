@@ -1,5 +1,7 @@
 # Article Annexe
 
+<
+
 TITRE Ier
 
 LISTE DES DÉCISIONS ADMINISTRATIVES INDIVIDUELLES PRISES PAR DÉCRET
@@ -2052,7 +2054,11 @@ Article 6 §4.
 
 |
 
-Réglementations de la Communauté européenne que l
+Réglementations
+
+de l'Union européenne
+
+que l
 
 ’administration des douanes est chargée d’appliquer
 
@@ -2364,13 +2370,7 @@ Exclusion temporaire ou définitive du bénéfice des dispositions de la convent
 
 |
 
-Article 457
-
-bis
-
-des dispositions d’application du code
-
-des douanes communautaire.
+Article 457 bis des dispositions d’application du code des douanes communautaire.
 
 Article 38 de la convention douanière de Genève
 
@@ -2404,7 +2404,7 @@ Règlement (CE) n
 
 du 7 septembre 2000 fixant certaines dispositions d’application du règlement (CE) n
 
-o
+°
 
 1172/95 du Conseil en ce
 
@@ -2420,37 +2420,41 @@ industriels.
 
 Article 16. |
 
-Règlement (CE) n
+Règlement (UE) n° 608/2013 du Parlement européen et du Conseil du 12 juin 2013 concernant le contrôle, par les autorités douanières, du respect des droits de propriété intellectuelle et abrogeant le règlement (CE) n° 1383/2003 du Conseil
 
-°
-
-1383/2003 du 22 juillet 2003 concernant l’intervention des autorités douanières à l’égard
-
-de marchandises soupçonnées de porter atteinte à certains droits de propriété intellectuelle ainsi que les
-
-mesures à prendre à l’égard de marchandises portant atteinte à certains droits de propriété intellectuelle
-
-1 |
-
-Acceptation de la demande d’intervention du titulaire d’un droit de propriété intellectuelle.
+N°
 
 |
 
-7 de l’article 5.
+LIBELLÉ DE LA DÉCISION
 
 |
 
-2 |
-
-Refus de traitement d’une demande d’intervention du titulaire d’un droit de propriété intellectuelle,
-
-lorsque la demande d’intervention ne contient pas les informations obligatoires énumérées au 5
-
-de l’article 5.
+BASE JURIDIQUE
 
 |
 
-8 de l’article 5.
+1
+
+|
+
+Acceptation de la demande écrite préalable du titulaire d'un droit de propriété intellectuelle.
+
+|
+
+Article 9, paragraphe 1.
+
+|
+
+2
+
+|
+
+Acceptation de la demande écrite du titulaire d'un droit de propriété intellectuelle, après qu'il a été informé du placement de la marchandise en retenue.
+
+|
+
+Article 9, paragraphe 2.
 
 |
 
@@ -2458,69 +2462,105 @@ de l’article 5.
 
 |
 
-Fixation et prorogation de la période pendant laquelle les autorités douanières doivent intervenir
-
-après qu’une demande du titulaire de droit de propriété intellectuelle a été acceptée.
+Modification de la décision en ce qui concerne la liste des droits de propriété intellectuelle.
 
 |
 
-1 de l’article 8.
+Article 13.
 
 |
 
-4 |
-
-Refus de renouvellement de la demande d’intervention du titulaire d’un droit de propriété
-
-intellectuelle.
+4
 
 |
 
-Article 12.
+Rejet d'une demande écrite du titulaire d'un droit de propriété intellectuelle lorsqu'elle ne contient pas les informations obligatoires.
+
+|
+
+Article 7, paragraphe 2.
+
+|
+
+5
+
+|
+
+Prolongation de la période pendant laquelle les autorités douanières doivent intervenir.
+
+|
+
+Article 12, paragraphes 1 à 4.
+
+|
+
+6
+
+|
+
+Abrogation ou modification de la décision de prolongation.
+
+|
+
+Article 12, paragraphe 5.
+
+|
+
+7
+
+|
+
+Abrogation, suspension de la décision.
+
+|
+
+Article 16.
 
 |
 
 Code de la propriété intellectuelle
 
-0 |
+N° |
 
-Dispense en matière d’incompatibilités applicables aux conseils en propriété
+LIBELLÉ DE LA DÉCISION |
 
-intellectuelle.
-
-|
-
-Article R. 422-55.
-
-|
+BASE JURIDIQUE |
 
 1 |
 
-Acceptation et renouvellement de la demande de retenue du propriétaire du dessin
-
-ou modèle déposé ou du bénéficiaire du droit exclusif d’exploitation.
+Acceptation de la demande écrite préalable du titulaire d'un droit de propriété intellectuelle.
 
 |
 
-Articles R. 523-1
-
-et R. 523-2.
+Articles L. 335-10, L. 521-14, L. 614-32, L. 623-36, L. 716-8, L. 722-9 et I de l'article R. 335-6.
 
 |
 
 2 |
 
-Acceptation et renouvellement de la demande de retenue du propriétaire de la
-
-marque enregistrée ou du bénéficiaire du droit exclusif d’exploitation.
+Acceptation de la demande écrite du titulaire d'un droit de propriété intellectuelle, après qu'il a été informé du placement de la marchandise en retenue.
 
 |
 
-Articles R. 716-6
-
-et R. 716-7.
+Articles L. 335-11, L. 521-15, L. 614-33, L. 623-37, L. 716-8-1, L. 722-10, quatrième alinéa et I de l'article R. 335-7.
 
 |
+
+3 |
+
+Rejet d'une demande écrite du titulaire d'un droit de propriété intellectuelle lorsque la demande d'intervention ne contient pas les informations obligatoires.
+
+|
+
+Article L. 335-10, L. 521-14, L. 614-32, L. 623-36, L. 716-8-1, L. 722-9 et I de l'article R. 335-6.
+
+|
+
+4 |
+
+Abrogation, suspension et refus de renouvellement de la décision |
+
+Article L. 335-16, L. 521-17-3, L. 614-37, L. 623-41, L. 716-8-6, L. 722-15 et article R. 335-8. |
 
 Règlement (CE) n
 
@@ -5257,7 +5297,3 @@ rejet de demandes de certificats d’économies d’énergie.
 Article 10-10.
 
 |
-
-NOTA :
-
-(1) Le décret n° 2013-700 du 30 juillet 2013 article 181 a remplacé le tableau inséré par l'article 53 du décret n° 2011-1467 du 9 novembre 2011. Or le décret n° 2012-901 du 20 juillet 2012 article 2 a remplacé le titre et le tableau par un renvoi au titre III du livre III de la deuxième partie réglementaire du code de la défense (se reporter au jo n°169 du 22/07/2012 texte n° 10).
