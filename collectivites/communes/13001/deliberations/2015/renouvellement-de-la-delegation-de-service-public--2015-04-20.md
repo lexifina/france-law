@@ -1,0 +1,10 @@
+# Aix-en-Provence : délibération — RENOUVELLEMENT DE LA DÉLÉGATION DE SERVICE PUBLIC DU CASINO MUNICIPAL - PROMESSE UNILATÉRALE DE CESSION DU BAIL EMPHYTÉOTIQUE PAR LA SCMAT - AUTORISATION DE SIGNATURE DONNÉE À MADAME LE MAIRE OU À MONSIEUR LE PREMIER ADJOINT
+
+- Collectivité : Aix-en-Provence
+- SIREN : 211300017
+- Code INSEE : 13001
+- Date : 2015-04-20
+- Séance : Conseil Municipal 1CA
+- Objet : RENOUVELLEMENT DE LA DÉLÉGATION DE SERVICE PUBLIC DU CASINO MUNICIPAL - PROMESSE UNILATÉRALE DE CESSION DU BAIL EMPHYTÉOTIQUE PAR LA SCMAT - AUTORISATION DE SIGNATURE DONNÉE À MADAME LE MAIRE OU À MONSIEUR LE PREMIER ADJOINT
+- Acte publié : http://eadm.mairie-aixenprovence.fr/delibinternet/delib-6773-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/liste-des-deliberations-aix-en-provence@aix-en-provence
