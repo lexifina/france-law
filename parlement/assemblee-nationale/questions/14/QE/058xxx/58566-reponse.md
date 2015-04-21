@@ -1,0 +1,9 @@
+# Réponse à la question n° 58566
+
+- Question : [58566](58566.md) — Question n° 58566 — perspectives
+
+## Réponse
+
+*JO du 2015-04-21*
+
+La politique économique et budgétaire suivie par le Gouvernement tend à poursuivre l'assainissement des finances publiques et à soutenir l'emploi et la croissance. Le pacte de responsabilité et de solidarité a ainsi pour objet d'alléger les prélèvements. Il bénéficie aux ménages modestes et classes moyennes avec un allègement d'impôt sur le revenu concentré sur les contribuables relevant du bas du barème, pour un montant de 1,3 milliard d'euros en 2014 et de 3,2 milliards d'euros en 2015. Le pacte consiste également à alléger le coût du travail et les prélèvements sur les entreprises, afin de soutenir les créations d'emplois et l'investissement. Le plan d'économies de 50 milliards d'euros permet à la fois de financer le pacte et de poursuivre l'assainissement des comptes. Avec la mise en oeuvre de ce plan d'économies qui concerne l'ensemble des administrations publiques (Etat, agences, collectivités territoriales et administrations de sécurité sociale), la totalité de l'effort de redressement est désormais porté par des mesures en dépense. Dès 2015, 21 Mds€ d'économies seront réalisées ; l'effort sera ensuite de 14,5 Mds€ d'économies par an en 2016 et 2017. L'Etat et ses agences assumeront une économie totale de 19,3 Mds€ (dont 8 Mds€ dès cette année). Les dotations de l'Etat aux collectivités territoriales baisseront en euros courants d'environ 10,7 Mds€ à l'horizon 2017, cet effort s'accompagnant d'un renforcement substantiel de la péréquation. Enfin, 10 Mds€ d'économies sont prévues sur les dépenses de santé sur trois ans (dont près de 3 Mds€ dès 2015). Les dépenses de protection sociale hors assurance maladie contribueront à la maîtrise de la dépense publique à hauteur de 10 Mds€, dont près de 6 Mds€ dès cette année.
