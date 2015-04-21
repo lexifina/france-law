@@ -1,0 +1,9 @@
+# Réponse à la question n° 69941
+
+- Question : [69941](69941.md) — Question n° 69941 — contrats d'édition; absence; conséquences
+
+## Réponse
+
+*JO du 2015-04-21*
+
+L'article L. 133-1 du code de la propriété intellectuelle prévoit que l'auteur d'une oeuvre ayant fait l'objet d'un contrat d'édition en vue de sa publication et de sa diffusion sous forme de livre ne peut s'opposer au prêt d'exemplaires de cette édition par une bibliothèque accueillant du public. En contrepartie de cette dérogation au droit exclusif de l'auteur d'autoriser ou d'interdire le prêt de ses oeuvres, la loi garantit à l'auteur un droit à rémunération. En 2003, lors des débats parlementaires, le législateur a choisi de restreindre le champ de cette licence légale aux livres ayant fait l'objet d'un contrat d'édition qui constituaient le coeur de l'activité de prêt développée par les bibliothèques accessibles au public. Les auteurs de livres n'ayant pas fait l'objet d'un contrat d'édition, en l'occurrence les auteurs d'ouvrages publiés à compte d'auteur ou autoédités, continuent donc à pouvoir exercer leur droit exclusif d'autoriser ou d'interdire le prêt de leurs ouvrages en bibliothèque et à négocier ce droit à titre individuel. Il en va de même pour l'ensemble des titulaires de droits du secteur musical ou audiovisuel dont les oeuvres reproduites sur des supports matériels sont achetées par les bibliothèques de prêt mais ne sont pas concernées par le système dérogatoire au droit exclusif mis en place par la loi du 18 juin 2003. Cependant, si les oeuvres publiées sous forme de livre sans avoir fait l'objet d'un contrat d'édition devaient occuper une part croissante dans les fonds des bibliothèques de prêt et si leurs auteurs acceptaient de renoncer à leur droit exclusif en contrepartie d'un simple droit à rémunération, une réflexion sur l'évolution du champ de la licence légale prévue à l'article L. 133-1 du code de la propriété intellectuelle pourrait être engagée.
