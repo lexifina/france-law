@@ -1,0 +1,9 @@
+# Réponse à la question n° 46123
+
+- Question : [46123](46123.md) — Question n° 46123 — achats de fournitures; propositions
+
+## Réponse
+
+*JO du 2015-04-21*
+
+Le rapprochement entre les acheteurs publics hospitaliers et les petites et moyennes entreprises-entreprises de taille intermédiaire (PME-ETI) innovantes, a été identifié comme une des priorités du contrat de filière industries et technologies de santé signé le 5 juillet 2013 par le Gouvernement et les représentants des syndicats professionnels dans le cadre du comité stratégique de filière (CSF). Parmi les quatre mesures retenues dans le cadre du contrat figure l'organisation de journées régionales de l'innovation, qui ont pour objectif de renforcer le lien entre les acheteurs hospitaliers et les PME-ETI innovantes dans le secteur des dispositifs médicaux. Cette mesure vise à instaurer un dialogue et des échanges entre les acheteurs et prescripteurs hospitaliers, les groupements de commandes régionaux et les PME-ETI françaises innovantes, afin de renforcer la connaissance des offres des industriels par les hospitaliers et améliorer l'adéquation de ces offres aux besoins des hospitaliers. L'organisation de ces rencontres est déjà bien avancée. Un cadrage commun a été élaboré par les agences régionales de santé (ARS) et les directions régionales des entreprises, de la concurrence, de la consommation, du travail et de l'emploi (DIRRECTE). Il prévoit la mise en place d'un comité régional d'organisation (CRT), le lancement d'un appel à candidature à destination des PME-ETI françaises et l'organisation de demi-journées d'échanges dans un format dynamique (prise de rendez-vous rapide, forum, stands). Chaque région prévoit l'organisation de deux à trois rencontres par an, en associant en tant que de besoin le conseil régional, les chambres de commerce et les autres acteurs impliqués dans la région dans le champ de l'innovation.
