@@ -1,0 +1,9 @@
+# Réponse à la question n° 19928
+
+- Question : [19928](19928.md) — Question n° 19928 — table de mortalité; révision; conséquences
+
+## Réponse
+
+*JO du 2015-04-21*
+
+L'arrêté du 18 décembre 2012 a créé un article A. 111-6 du code des assurances qui a mis fin à cette possibilité de différencier à compter du 21 décembre 2012, afin de mettre en conformité la législation française avec l'arrêt « test-achat » de la Cour de Justice de l'Union européenne rendu le 1er mars 2011. Afin de ne pas déstabiliser les contrats en cours, il a toutefois été prévu de maintenir l'autorisation de différences de primes et de prestations fondées sur la prise en compte du sexe pour les contrats et les adhésions à des contrats d'assurance de groupe conclus ou effectués au plus tard le 20 décembre 2012, y compris lorsque ces contrats ont été reconduits tacitement après cette date. L'autorisation n'est toutefois plus applicable lorsque le contrat ou l'adhésion a fait l'objet après le 20 décembre 2012 d'une modification substantielle, nécessitant l'accord des parties, autre qu'une modification dont les modalités sont prévues dans les contrats. Ces dispositions pourront entraîner, pour certains contrats de retraite, une diminution des rentes viagères perçues par les hommes. Toutefois, l'existence d'une clause de réversion au conjoint devrait atténuer cette diminution. De plus, il convient de rappeler que l'article L. 331-3 du code des assurances impose aux entreprises d'assurance sur la vie de faire participer les assurés aux bénéfices techniques et financiers qu'elles réalisent. Dès lors, les bénéfices que réaliseront ces entreprises en raison du changement de table de mortalité utilisée pourront être reversés aux assurés concernés sous la forme de revalorisation des rentes au titre de la participation aux bénéfices.
