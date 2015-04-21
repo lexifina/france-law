@@ -1,0 +1,9 @@
+# Réponse à la question n° 74893
+
+- Question : [74893](74893.md) — Question n° 74893 — animaux domestiques; clôture; réglementation
+
+## Réponse
+
+*JO du 2015-04-21*
+
+L'arrêté du 3 avril 2014 fixant les règles sanitaires et de protection animale auxquelles doivent satisfaire les activités liées aux animaux de compagnie d'espèces domestiques relevant du IV de l'article L. 214-6 du code rural et de la pêche maritime mentionne en son annexe 1 l'obligation de mettre en oeuvre un dispositif permettant de prévenir la fuite des animaux. Cette prescription se traduit dans la très grande majorité des cas par la mise en place d'une clôture autour des établissements. Dans le cas contraire, les services de contrôle du ministère en charge de l'agriculture sont susceptibles de sanctionner les établissements dont le fonctionnement et les installations ne permettent pas la réalisation de cet objectif de prévention des fuites. Par ailleurs, les établissements où sont détenus plus de 9 chiens de plus de 4 mois sont soumis à la réglementation relative aux installations classées pour la protection de l'environnement (régime de déclaration pour les établissements de 10 à 50 chiens, et régime d'autorisation pour ceux de plus de 50 chiens). Cette réglementation impose aux établissements de prendre toutes les mesures, dans toutes les parties de l'installation, pour éviter la fuite des animaux (conception et hauteur des clôtures, murs et cloisons, ...). Des moyens de capture appropriés doivent être tenus à disposition dans l'établissement, en tant que de besoin. De même ces établissements sont soumis aux contrôles des inspecteurs des installations classées intervenant sous l'autorité directe du préfet. Des sanctions sont applicables aux établissements qui font l'objet d'une constatation d'infraction à cette obligation lors des inspections.
