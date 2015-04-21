@@ -1,0 +1,9 @@
+# Réponse à la question n° 76202
+
+- Question : [76202](76202.md) — Question n° 76202 — ratification; perspectives
+
+## Réponse
+
+*JO du 2015-04-21*
+
+Le texte adopté par l'Assemblée nationale le 28 janvier 2014, visant à modifier la Constitution pour permettre à l'État de ratifier la Charte européenne des langues régionales ou minoritaires, était une proposition de loi soutenue par le Gouvernement. Son adoption à la majorité des 3/5e à l'Assemblée nationale a constitué un moment important pour le débat démocratique, les députés ayant eu pour la première fois l'occasion de valoriser, dans l'hémicycle, la richesse du patrimoine linguistique français. Le travail doit pouvoir se poursuivre. Indépendamment de la ratification, les services de l'État poursuivent la mise en oeuvre des engagements souscrits par la France lors de la signature de la Charte en 1999, et des préconisations du rapport de 2013 intitulé « Redéfinir une politique publique en faveur des langues régionales et de la pluralité linguistique interne ». Un petit code des langues de France a ainsi été publié aux éditions Dalloz, qui réunit l'ensemble des dispositions juridiques assurant la présence de ces langues dans l'enseignement et la sphère publique. Une circulaire a été adressée à l'ensemble des directeurs du ministère de la culture et de la communication et aux principaux responsables d'institutions culturelles, qui vise à inscrire de manière stable et concertée les langues de France dans tous les programmes de développement culturel. Avec la loi du 8 juillet 2013 pour la refondation de l'école de la République, qui a permis de notables avancées en matière d'enseignement des langues et cultures régionales, ces mesures renforcent la place des langues de France dans l'espace commun et constituent le socle d'une véritable politique publique.
