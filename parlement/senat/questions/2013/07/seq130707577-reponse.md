@@ -1,0 +1,9 @@
+# Réponse à la question SEQ130707577
+
+- Question : [SEQ130707577](seq130707577.md) — Modalités de déclaration des sociétés soumises à l'impôt sur le revenu
+
+## Réponse
+
+*Finances et comptes publics, JO du 2015-04-23, page 952*
+
+Conformément aux dispositions du 1 du II de l'article 155 du code général des impôts (CGI), les charges non nécessitées par l'exercice de l'activité à titre professionnel, et les produits qui ne proviennent pas d'une telle activité, sont en principe exclus du résultat professionnel des exploitants individuels et des sociétés de personnes, imposés dans la catégorie des bénéfices industriels et commerciaux, ou des bénéfices agricoles selon un régime réel d'imposition pour les exercices ouverts depuis le 1er janvier 2012. Les entreprises, qu'il s'agisse d'entrepreneurs individuels ou de sociétés de personnes, doivent en conséquence réintégrer ces charges et déduire ces produits de manière extracomptable de leur résultat professionnel, au moyen du formulaire de détermination de leur résultat fiscal de leur liasse fiscale. Ces retraitements extracomptables sont effectués par l'entreprise sur le formulaire n° 2058-A (CERFA n° 10951) pour les contribuables soumis au réel normal ou sur le formulaire n° 2033-B (CERFA n° 10957) pour les contribuables soumis au réel normal simplifié. En outre, les charges et produits ainsi extournés sont déclarés au titre de l'impôt sur le revenu par l'entrepreneur ou les associés à qui ils reviennent dans la catégorie de revenus applicable selon leur nature (revenus fonciers, revenus de capitaux mobiliers, profits mentionnés aux articles 150 ter et 150 undecies du CGI ou plus-values de cession à titre onéreux des particuliers) et conformément aux règles propres à cette catégorie, conformément au 3 du III de l'article 155 précité.
