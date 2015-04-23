@@ -96,7 +96,7 @@ L'activité s'exerce systématiquement en relation avec la clientèle.
 
 L'activité de l'esthéticien(ne) est conditionnée par la possession du CAP Esthétique Cosmétique
 
-Parfumerie (décret n° 98-246 du 2 avril 1998). Au cours de l'exercice de sa profession, la mise à disposition du public de certains appareils de bronzage utilisant des rayonnements ultraviolets est soumise au décret n° 97-617 du 30 mai 1997.
+Parfumerie (décret n° 98-246 du 2 avril 1998). La mise à disposition du public de certains appareils émetteurs de rayonnements ultraviolets est soumise au décret n° 2013-1261 du 27 décembre 2013.
 
 En outre, son activité nécessite une présentation soignée et les qualités de comportements et d'attitudes suivantes : discrétion, écoute, courtoisie, empathie. Le ou la titulaire du CAP Esthétique Cosmétique Parfumerie doit s'attacher à respecter la réglementation en matière d'hygiène et de sécurité, et adopter les comportements et attitudes conformes en vue de garantir l'hygiène et la sécurité des personnes et des biens.
 

@@ -4,11 +4,7 @@ Définition des épreuves
 
 EP1 - techniques esthétiques
 
-Épreuve pratique et écrite - coefficient 7 (+ coefficient 1 pour l'évaluation de la VSP) - durée : 3 h 30.
-
-L'attestation de formation à l'utilisation des appareils UV (décret n° 97-617 du 30 mai 1997) est présentée avant le début de l'épreuve ou à la dernière séquence d'évaluation (CCF). Le candidat est prévenu par le service des examens ou par le chef d'établissement (CCF).
-
-En l'absence d'attestation, le candidat ne réalise pas l'épreuve et se voit attribuer la note zéro à cette épreuve. Toutefois, lorsque l'évaluation a lieu en CCF, elle se déroule normalement, mais en l'absence d'attestation, le candidat se voit attribuer la note zéro à l'épreuve.
+Épreuve pratique et écrite - coefficient 7 (+ coefficient 1 pour l'évaluation de la VSP) - durée : 3 h 30
 
 Objectif de l'épreuve
 
@@ -20,19 +16,19 @@ L'épreuve doit :
 
 - évaluer les compétences professionnelles suivantes :
 
-• C13 - sélectionner et traiter les informations
+-- C13 Sélectionner et traiter les informations
 
-• C14 - recueillir des informations sur le client
+-- C14 Recueillir des informations sur le client
 
-• C22 - gérer le poste de travail
+-- C22 Gérer le poste de travail
 
-• C23 - participer à la gestion des stocks
+-- C23 Participer à la gestion des stocks
 
-• C24 - participer à la veille technique des appareils
+-- C24 Participer à la veille technique des appareils
 
-• C31 - exécuter les techniques de soins esthétiques
+-- C31 Exécuter les techniques de soins esthétiques
 
-• C32 - exécuter les techniques de maquillage,
+-- C32 Exécuter les techniques de maquillage
 
 - permettre la mobilisation de savoirs associés liés à la cosmétologie, à la technologie des appareils et des instruments, à la biologie, à la connaissance du milieu professionnel, aux techniques esthétiques.
 
@@ -40,23 +36,21 @@ L'épreuve doit :
 
 Les évaluateurs apprécient :
 
-- le degré de maîtrise des compétences professionnelles énumérées ci-dessus ;
+- le degré de maîtrise des compétences professionnelles énumérées ci-dessus
 
-- la pertinence du diagnostic et des conseils pour un modèle choisi.
+- la pertinence du diagnostic et des conseils pour un modèle choisi
 
 Support d'évaluation
 
 Le candidat :
 
-- renseigne une fiche diagnostic/conseils en soins esthétiques pour un modèle majeur choisi par la commission d'évaluation ;
+- renseigne une fiche diagnostic/conseils en soins esthétiques pour un modèle majeur choisi par la commission d'évaluation
 
-- réalise sur son modèle des techniques esthétiques. (Le modèle majeur du candidat répond aux caractéristiques définies par le service des examens ou le centre de formation.)
+- réalise sur son modèle des techniques esthétiques (Le modèle majeur du candidat répond aux caractéristiques définies par le service des examens ou le centre de formation).
 
 Mode d'évaluation
 
-A. Ponctuelle, pratique et écrite
-
-Durée : 3 heures 30 maximum dont 30 minutes maximum pour la fiche - coefficient 7.
+A - Ponctuelle : pratique et écrite - Durée : 3 heures 30 maximum dont 30 minutes maximum pour la fiche - Coefficient 7
 
 L'évaluation des acquis du candidat s'effectue sur la base d'une épreuve ponctuelle terminale écrite et pratique à partir :
 
@@ -76,21 +70,25 @@ Les techniques esthétiques mettent en œuvre :
 
 - les techniques de manucurie ou de beauté des pieds (15 points) ;
 
-- les techniques de maquillage (20 points). La fiche diagnostic/conseils en soins esthétiques est évaluée sur 20 points.
+- les techniques de maquillage (20 points).
 
-B. Contrôle en cours de formation
+La fiche diagnostic/conseils en soins esthétiques est évaluée sur 20 points.
+
+B - Contrôle en cours de formation
 
 Les évaluations des acquis des candidats s'effectuent sur la base d'un contrôle en cours de formation (CCF) à l'occasion de deux situations d'évaluation réalisées au cours de l'année d'inscription à l'examen.
 
 L'une des situations se déroule en entreprise, l'autre se déroule en centre de formation.
 
-En entreprise, la situation permet d'évaluer de manière réelle les techniques d'épilation et de manucurie tout au long de la PFMP sur le secteur soins esthétiques. En centre de formation, la situation évalue les techniques de soins esthétiques visage, le maquillage, la beauté des pieds et la fiche diagnostic/conseils esthétiques.
+En entreprise, la situation permet d'évaluer de manière réelle les techniques d'épilation et de manucurie tout au long de la PFMP sur le secteur soins esthétiques.
+
+En centre de formation, la situation évalue les techniques de soins esthétiques visage, le maquillage, la beauté des pieds et la fiche diagnostic/conseils esthétiques.
 
 B1. Évaluation en milieu professionnel
 
 Le candidat est évalué par le tuteur ou le maître d'apprentissage au cours des activités d'épilation et de manucurie réalisées dans l'entreprise à partir d'une grille d'évaluation académique permettant l'évaluation des compétences spécifiques aux techniques concernées.
 
-Cette situation d'évaluation porte sur 35 points dont dix points correspondent à l'évaluation des attitudes professionnelles (présentation, registre de langage, expression orale, conscience professionnelle, ponctualité et assiduité, intégration dans l'équipe, efficacité, initiatives, respect et attention portés au client...), 20 points pour l'épilation et 5 points pour la manucurie.
+Cette situation d'évaluation porte sur 35 points dont 10 points correspondent à l'évaluation des attitudes professionnelles (présentation, registre de langage, expression orale, conscience professionnelle, ponctualité et assiduité, intégration dans l'équipe, efficacité, initiatives, respect et attention portés au client, etc.), 20 points pour l'épilation et 5 points pour la manucurie.
 
 La proposition de note de l'évaluation en milieu professionnel est établie conjointement par le tuteur ou le maître d'apprentissage et un professeur ou formateur d'enseignement professionnel (esthétique, vente).
 
@@ -98,7 +96,11 @@ B2. Évaluation en centre de formation
 
 La situation d'évaluation se déroule dans le cadre des activités habituelles de formation professionnelle.
 
-L'évaluation est réalisée à partir d'une grille d'évaluation académique permettant l'évaluation des compétences. La situation d'évaluation peut être décomposée en séquences. Les enseignants chargés de la formation élaborent les supports d'évaluation. Cette situation porte sur 105 points décomposés de la façon suivante :
+L'évaluation est réalisée à partir d'une grille d'évaluation académique permettant l'évaluation des compétences.
+
+La situation d'évaluation peut être décomposée en séquences. Les enseignants chargés de la formation élaborent les supports d'évaluation.
+
+Cette situation porte sur 105 points décomposés de la façon suivante :
 
 - fiche diagnostic/conseils soins esthétiques (20 points) ;
 
@@ -106,15 +108,19 @@ L'évaluation est réalisée à partir d'une grille d'évaluation académique pe
 
 - maquillage (20 points) ;
 
-- soins esthétiques du visage (55 points).
+- soins esthétiques visage (55 points).
 
-Le modèle pour la fiche diagnostic/conseils esthétiques est choisi par les enseignants chargés de la formation. Le modèle choisi doit placer l'élève dans une situation professionnelle proche de la réalité. Un professionnel est toujours associé à un moment du parcours d'évaluation du candidat (grille, rédaction, situation d'évaluation, évaluation sur site, proposition de note). Pour les candidats possédant une activité professionnelle, l'établissement public de formation continue met en place une situation d'évaluation spécifique, afin de vérifier la possession des acquis correspondant à la formation en milieu professionnel. Les deux situations d'évaluation se déroulent en centre de formation. La situation B2 est reprise à l'identique. La situation B1 est notée sur 35 points dont 25 points pour l'épilation et 10 points pour la manucurie.
+Le modèle pour la fiche diagnostic/conseils esthétiques est choisi par les enseignants chargés de la formation. Le modèle choisi doit placer l'élève dans une situation professionnelle proche de la réalité.
+
+Un professionnel est toujours associé à un moment du parcours d'évaluation du candidat (grille, rédaction, situation d'évaluation, évaluation sur site, proposition de note).
+
+Pour les candidats possédant une activité professionnelle, l'établissement public de formation continue met en place une situation d'évaluation spécifique, afin de vérifier la possession des acquis correspondant à la formation en milieu professionnel. Les deux situations d'évaluation se déroulent en centre de formation. La situation B2 est reprise à l'identique. La situation B1 est notée sur 35 points dont 25 points pour l'épilation et 10 points pour la manucurie.
 
 Évaluation de la vie sociale et professionnelle
 
-L'évaluation de la "vie sociale et professionnelle" est intégrée à l'épreuve EP1. Elle est notée sur 20 points.
+L'évaluation de la " vie sociale et professionnelle " est intégrée à l'épreuve EP1. Elle est notée sur 20 points.
 
-L'épreuve de Vie Sociale et Professionnelle évalue des connaissances et des compétences du référentiel et s'appuie plus particulièrement sur la mise en œuvre d'une démarche d'analyse de diverses situations.
+L'épreuve de Vie sociale et professionnelle évalue des connaissances et des compétences du référentiel et s'appuie plus particulièrement sur la mise en œuvre d'une démarche d'analyse de diverses situations.
 
 A - Contrôle en cours de formation
 
@@ -122,35 +128,37 @@ Il se déroule sous la forme de deux situations d'évaluation. Celles-ci sont or
 
 Une proposition de note est établie, qui résulte de l'addition de la note obtenue lors de la première situation d'évaluation et de la note obtenue lors de la deuxième situation d'évaluation. La note définitive est délivrée par le jury.
 
-1) Une situation d'évaluation écrite notée sur 14 points :
+1) Une situation d'évaluation écrite notée sur 14 points
 
 Cette situation est organisée en dernière année de formation. Elle comporte deux parties :
 
-1ère partie : Une évaluation écrite d'une durée de 1 heure notée sur 7 points.
+- 1re partie : Une évaluation écrite d'une durée de 1 heure notée sur 7 points.
 
-Les questions portent sur l'ensemble du programme. Pour ce qui concerne la partie 3, relative à l'individu au poste de travail, l'évaluation privilégie l'identification et le repérage des risques professionnels ainsi que la sélection de mesures de prévention. L'évaluation inclut obligatoirement l'un des risques communs à tous les secteurs professionnels : risques liés à l'activité physique, risques liés à la charge mentale, risque lié au bruit.
-
-Pour ce qui concerne la partie 4 : l'individu acteur des secours, seule la partie 4.1 Incendie et conduite à tenir est évaluée dans cette partie.
-
-2ème partie : Un travail personnel écrit noté sur 7 points.
-
-Ce travail permet d'évaluer la maîtrise de quelques compétences du programme à travers la rédaction d'un document de 2 pages maximum par le candidat. Il peut s'agir d'un travail relatif :
-
-- à la prévention d'un risque professionnel : analyse ou participation à une action
-
-- ou à une exploitation de documentation liée aux parties du programme relatives au parcours professionnel, à l'entreprise, au poste de travail ou à la consommation. Ce travail ne fait pas l'objet d'une présentation orale.
-
-2) Une situation d'évaluation pratique consistant en une intervention de secourisme notée sur 6 points :
-
-Cette situation est organisée au cours du cycle de formation. L'évaluation des techniques de secourisme (sauveteur secouriste de travail (SST) ou attestation de formation aux premiers secours (AFPS)) est effectuée, comme la formation, par un moniteur de secourisme conformément à la réglementation en vigueur.
-
-B) Epreuve ponctuelle écrite - 1 heure.
-
-Le sujet comprend une ou plusieurs questions sur chacune des 5 parties du programme.
+Les questions portent sur l'ensemble du programme.
 
 Pour ce qui concerne la partie 3, relative à l'individu au poste de travail, l'évaluation privilégie l'identification et le repérage des risques professionnels ainsi que la sélection de mesures de prévention.
 
 L'évaluation inclut obligatoirement l'un des risques communs à tous les secteurs professionnels : risques liés à l'activité physique, risques liés à la charge mentale, risque lié au bruit.
+
+Pour ce qui concerne la partie 4 : l'individu acteur des secours, seule la partie 4.1 " Incendie et conduite à tenir " est évaluée dans cette partie.
+
+- 2e partie : Un travail personnel écrit noté sur 7 points.
+
+Ce travail permet d'évaluer la maîtrise de quelques compétences du programme à travers la rédaction d'un document de 2 pages maximum par le candidat. Il peut s'agir d'un travail relatif :
+
+- à la prévention d'un risque professionnel : analyse ou participation à une action ;
+
+- ou à une exploitation de documentation liée aux parties du programme relatives au parcours professionnel, à l'entreprise, au poste de travail ou à la consommation.
+
+Ce travail ne fait pas l'objet d'une présentation orale.
+
+2) Une situation d'évaluation pratique consistant en une intervention de secourisme notée sur 6 points
+
+Cette situation est organisée au cours du cycle de formation.
+
+B - Épreuve ponctuelle écrite - 1 heure
+
+Le sujet comprend une ou plusieurs questions sur chacune des parties du programme. Pour ce qui concerne la partie 3, relative à l'individu au poste de travail, l'évaluation privilégie l'identification et le repérage des risques professionnels ainsi que la sélection de mesures de prévention. L'évaluation inclut obligatoirement l'un des risques communs à tous les secteurs professionnels : risques liés à l'activité physique, risques liés à la charge mentale, risque lié au bruit.
 
 EP2 - vente de produits et de prestations de services
 
@@ -262,7 +270,7 @@ Pour les candidats de la formation continue possédant une activité professionn
 
 EP3 - sciences et arts appliqués à la profession
 
-Épreuve écrite - coefficient 4 - durée : 3 heures.
+Épreuve écrite - coefficient 4 - durée : 3 heures
 
 Objectif de l'épreuve
 
@@ -270,23 +278,25 @@ Cette épreuve vérifie les connaissances scientifiques, technologiques, réglem
 
 Contenu de l'épreuve
 
-L'épreuve prend appui sur la description de situation(s) professionnelle(s) et sur des supports documentaires (en annexe du sujet), six maximum (fiches, articles, photos, textes...). Elle comprend plusieurs parties, chacune de ces parties étant composée de plusieurs questions indépendantes et/ou liées :
+L'épreuve prend appui sur la description de situation(s) professionnelle(s) et sur des supports documentaires (en annexe du sujet), six maximum (fiches, articles, photos, textes, etc.).
 
-- biologie (20 points) ;
+Elle comprend plusieurs parties, chacune de ces parties étant composée de plusieurs questions indépendantes et/ou liées aux savoirs suivants :
 
-- cosmétologie (20 points) ;
+- S1 Biologie (20 points) ;
 
-- technologie des appareils et des instruments (15 points) ;
+- S2 Cosmétologie (20 points) ;
 
-- techniques esthétiques (10 points) ;
+- S3 Technologie des appareils et des instruments (15 points), dont obligatoirement les rayonnements ultraviolets ;
 
-- arts appliqués à la profession (15 points).
+- S4 Techniques esthétiques (10 points) ;
+
+- S7 Arts appliqués à la profession (15 points) ;
 
 Évaluation
 
 L'évaluation apprécie :
 
-- l'exactitude du vocabulaire ;
+- l'exactitude du vocabulaire
 
 - l'exploitation des documents ;
 
@@ -300,25 +310,25 @@ L'évaluation apprécie :
 
 Mode d'évaluation
 
-A. Ponctuelle
+A - Ponctuelle
 
 Chacune des parties de l'évaluation est présentée de façon distincte et l'ensemble constitue une seule épreuve.
 
 Le candidat est libre de son organisation sur le temps de l'épreuve.
 
-B. Contrôle en cours de formation
+B - Contrôle en cours de formation
 
 L'évaluation des acquis des candidats s'effectue sur la base d'un contrôle en cours de formation (CCF) à l'occasion de trois situations d'évaluation organisées sur l'année d'inscription d'examen.
 
 Chacune des situations se déroule sur le temps de formation des élèves :
 
-- en biologie (durée indicative : 1 heure maximum - 20 points) ;
+- en biologie (durée indicative : 1 h maximum - 20 points) ;
 
-- en cosmétologie, en techniques esthétiques, en technologie des appareils et des instruments (durée indicative : 1 heure et demi maximum - 45 points) ;
+- en cosmétologie, en techniques esthétiques, en technologie des appareils et des instruments (durée indicative : 1 h 30 maximum - 45 points) ;
 
-- en arts appliqués (durée indicative : 1 heure maximum - 15 points).
+- en arts appliqués (durée indicative : 1 h maximum - 15 points).
 
-• Les supports d'évaluation sont conçus par les formateurs responsables des enseignements.
+Les supports d'évaluation sont conçus par les formateurs responsables des enseignements.
 
 EG1 / UG1- français et histoire-géographie
 
