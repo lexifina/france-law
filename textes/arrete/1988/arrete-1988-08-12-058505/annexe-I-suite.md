@@ -2716,7 +2716,7 @@ Piège "Maruejouls" |
 
 Dimension du piège tendu : 27 × 8,5 cm
 
-Dimension de la palette : 6,5 × 7 cm
+Dimension de la palette : rectangle de 6,5 × 7 cm ou disque de 5 cm de diamètre
 
 |
 
@@ -2725,6 +2725,28 @@ Dimension de la palette : 6,5 × 7 cm
 Piège rectangulaire à déclenchement par une palette projetant le lacet par un bras-ressort
 
 |
+
+|
+
+21 |
+
+Piège à lacet de patte |
+
+Jean-Yves Viol, 23, avenue de l'Odet, 29950 Bénodet |
+
+HINGIOL |
+
+Dimension du piège tendu : 22 cm x 23 cm
+
+Dimension de la palette :
+
+5,5 x 7 ,5 cm
+
+|
+
+830 |
+
+Piège métallique à déclenchement par une palette |
 
 6
 
