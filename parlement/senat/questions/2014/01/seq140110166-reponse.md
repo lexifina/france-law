@@ -1,0 +1,9 @@
+# Réponse à la question SEQ140110166
+
+- Question : [SEQ140110166](seq140110166.md) — Projet de refonte du code minier
+
+## Réponse
+
+*Écologie, développement durable et énergie, JO du 2015-04-23, page 949*
+
+Le travail de concertation piloté par Monsieur Thierry Tuot, conseiller d'État, a permis l'élaboration d'un projet qui, tout en préservant la logique minière, propose un cadre modernisé pour cette activité. Le ministère de l'écologie, du développement durable et de l'énergie est attaché au rapprochement ainsi proposé avec le code de l'environnement et cette modernisation passe par la simplification du droit qui est aussi un des objectifs fixés par le Premier ministre. Cependant, le rapport remis aux ministres concernés par Monsieur Thierry Tuot comprenant plus de 400 articles, il a été décidé de rédiger un projet de loi reprenant les principales innovations qui y sont proposées, en particulier pour ce qui concerne les travaux miniers, la reprise des principes de la législation relative aux installations classées pour la protection de l'environnement (ICPE). Ce projet de loi est articulé avec le code minier actuel, de façon à pouvoir entrer en vigueur le plus rapidement possible ce que ne permettrait pas une recodification intégrale. Il devra également prévoir d'habiliter le Gouvernement à procéder par ordonnances à l'articulation entre les nouvelles dispositions et les autres codes, au toilettage de certaines dispositions « obsolètes » du code minier actuel ainsi qu'à son adaptation aux territoires ultramarins. Compte tenu de la complexité inhérente à l'activité minière, le Gouvernement reste vigilant sur l'équilibre à trouver entre tous les enjeux, de manière à conserver à ce code minier la lisibilité nécessaire à sa bonne mise en œuvre par l'ensemble des acteurs concernés. L'objectif est que ce projet de loi soit présenté au Conseil des ministres à l'automne.
