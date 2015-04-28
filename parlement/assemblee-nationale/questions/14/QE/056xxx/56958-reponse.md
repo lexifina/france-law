@@ -1,0 +1,9 @@
+# Réponse à la question n° 56958
+
+- Question : [56958](56958.md) — Question n° 56958 — zones à faible densité de population; modalités dérogatoires
+
+## Réponse
+
+*JO du 2015-04-28*
+
+L'article 41 de la loi de financement de la sécurité sociale pour 2014 relatif au financement des activités isolées trouve son origine dans le constat suivant : l'inadaptation de la tarification à l'activité (T2A) à la situation de certains établissements géographiquement isolés et dont le niveau d'activité est insuffisant pour assurer l'équilibre du budget de fonctionnement, alors que leur maintien est indispensable pour répondre aux besoins de santé de la population locale. Il était donc nécessaire de mettre en place pour ces établissements, un financement dérogatoire au modèle T2A pour les activités concernées par cette situation d'isolement géographique. La mesure prévoit une fixation par les ministres en charge de la santé et de la sécurité sociale, sur proposition de chaque directeur général d'agence régionale de santé (ARS) compétent, de la liste des établissements éligibles à ce financement spécifique. Le décret n° 2015-186 du 17 février 2015 relatif aux modalités dérogatoires de financement des activités de soins des établissements de santé répondant à des critères d'isolement géographique, paru au journal officiel du 19 février dernier, encadre strictement les critères d'éligibilité au financement. Il précise notamment les critères d'isolement géographique et de faible densité démographique, ainsi que les autres critères d'éligibilité sur la base desquels les ministres en charge de la santé et de la sécurité sociale fixent la liste des établissements retenus. La sélection définitive des établissements concernés par le dispositif a été rendue publique à la fin de l'année et l'attribution des financements ad hoc est intervenue dans la dernière circulaire de notification budgétaire de l'année 2014.
