@@ -1,0 +1,9 @@
+# Réponse à la question n° 71321
+
+- Question : [71321](71321.md) — Question n° 71321 — mutations; livre blanc; propositions
+
+## Réponse
+
+*JO du 2015-04-28*
+
+Durant le premier semestre 2014, l'administration déconcentrée du ministère de l'écologie a réalisé des études de faisabilité et de programmation des mesures du Livre blanc acte II du bassin minier du Nord. Ces travaux ont été menés avec les partenaires associés à la rédaction du plan par la mission bassin minier, notamment dans le cadre de potentielles accroches avec le contrat de plan futur et ses volets territoriaux. Ils doivent cependant être poursuivis en partenariat avec les services techniques des différentes institutions sollicitées afin de pouvoir nourrir une véritable programmation. Plus explicitement des précisions ont été demandées sur la mise en oeuvre de l'action 41 du Livre blanc relative à la mise en place d'un observatoire du paysage. En 2013, a été lancée une initiative participative par la Direction régionale de l'environnement de l'aménagement et du logement du Nord-Pas-de-Calais, les habitants de l'ensemble de la région (dont le bassin minier) étant invités à transmettre leurs photographies de paysages afin de constituer un « observatoire » collaboratif. D'autre part, il existe plusieurs observatoires des paysages locaux, notamment à l'initiative des parcs naturels régionaux de la région. Face à ces initiatives spontanées, il ne semble pas utile de mettre en place un observatoire photographique des paysages uniques, bénéficiant d'une démarche et d'une méthode bien cadrées et homogènes à l'échelle régionale. Les manifestations spontanées ne doivent en aucun cas être freinées par un encadrement trop prudent. Il existe toutefois une étude paysage dans le bassin minier en cours, en lien avec le classement des paysages miniers à venir.
