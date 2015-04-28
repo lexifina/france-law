@@ -1,0 +1,9 @@
+# Réponse à la question n° 75817
+
+- Question : [75817](75817.md) — Question n° 75817 — enfants scolarisés à l'étranger
+
+## Réponse
+
+*JO du 2015-04-28*
+
+Entre l'année 2002/2003 (année de la mise en place d'un nouveau système d'information au sein de l'AEFE) et l'année 2014/2015, le nombre d'élèves français en Inde bénéficiaires d'une bourse scolaire AEFE est passé de 697 à 459 (pour un montant de 385 456 euros à 847 460 euros). Il était de 642 en 2003/2004, 620 en 2004/2005, 578 en 2005/2006, 524 en 2006/2007, 543 en 2007/2008, 502 en 2008/2009, 462 en 2009/2010, 438 en 2010/2011, 431 en 2011/2012, 442 en 2012/2013 et 453 en 2013/2014. Cette évolution est à mettre en regard du nombre d'enfants français scolarisés - passé de 1069 à 775 sur la même période - dans les quatre établissements d'Inde homologués (Ecole franco-indienne Sishya de Chennai, Ecole française internationale de Bombay, Lycée français de Delhi et Lycée français de Pondichéry). Le pourcentage d'élèves français ayant disposé d'une bourse en Inde est passé de 73 % en 2002/2003 à 59,2 % en 2014/2015, avec l'évolution suivante : 70,4 % en 2003/2004, 67,8 % en 2004/2005, 63,1 % en 2005/2006, 56,5 % en 2006/2007, 51,5 % en 2007/2008, 47,3 % en 2008/2009, 44,4 % en 2009/2010, 42,5 % en 2010/2011, 51,3 % en 2011/2012, 48,3 % en 2012/2013 et 50,2 % en 2013/2014. Le pourcentage d'élèves français boursiers en Inde est supérieur au pourcentage enregistré en moyenne mondiale (21 %) en raison de la présence importante de binationaux scolarisés. Ce pourcentage décroît en raison de la baisse des effectifs au lycée français de Pondichéry (1125 élèves en 2002/2003 et 767 élèves en 2014/2015), soit une baisse de 35 % dans l'établissement le plus important de la péninsule indienne et où plus de 50 % des élèves sont boursiers.
