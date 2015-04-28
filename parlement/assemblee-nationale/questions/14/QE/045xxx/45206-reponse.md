@@ -1,0 +1,9 @@
+# Réponse à la question n° 45206
+
+- Question : [45206](45206.md) — Question n° 45206 — exportations; ODAS; bilan d'activités
+
+## Réponse
+
+*JO du 2015-04-28*
+
+La société ODAS a été créée en 2008 à la demande de l'État pour contribuer à développer les exportations de notre pays dans le domaine de la défense, de la sécurité et des hautes technologies. Elle a succédé à cette date à la Société française d'exportation de systèmes d'armes. ODAS négocie, conclut et assure le suivi des contrats d'armement avec l'Arabie Saoudite. Par ailleurs, elle réalise en propre un certain nombre d'actions tendant à favoriser la passation de contrats commerciaux impliquant des industriels français. Depuis sa création, cette entreprise a conclu une quarantaine de contrats correspondant à un montant total d'environ 1,6 milliards d'euros. ODAS intervient exclusivement pour les contrats négociés et conclus avec l'Arabie Saoudite. S'agissant des différentes phases de prospection, de négociation ou de réalisation des programmes, ODAS développe ses interventions en étroite concertation avec la direction générale de l'armement (DGA). En effet, la spécificité des produits vendus et les attentes du client rendent fréquemment indispensable un important accompagnement étatique et politique pour faire aboutir les recherches de marchés, puis pour contrôler l'exécution de ces derniers. ODAS bénéficie donc, au titre de plusieurs contrats et de conventions signées avec la DGA, d'un soutien de l'État permettant d'offrir au client une garantie quant au bon déroulement du programme. Il est enfin précisé que dans le cadre de la passation de marchés susceptibles d'influer fortement sur la qualité ou l'évolution d'une relation bilatérale, la DGA peut être conduite à contrôler directement la bonne exécution des contrats.
