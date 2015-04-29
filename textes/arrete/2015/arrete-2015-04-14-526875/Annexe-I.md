@@ -1,20 +1,12 @@
 # Article Annexe I
 
-NATURE DE L'AVANCEMENT
+NATURE
 
-de niveau
-
-|
-
-TAUX APPLICABLE
-
-pour l'année 2013
+de l'avancement de niveau
 
 |
 
-TAUX APPLICABLE
-
-pour l'année 2014
+TAUX APPLICABLE POUR L'ANNÉE 2015
 
 |
 
@@ -22,11 +14,7 @@ Au 2e niveau de la catégorie I
 
 |
 
-9 %
-
-|
-
-8 %
+7 %
 
 |
 
@@ -34,11 +22,7 @@ Au 2e niveau de la catégorie II
 
 |
 
-9 %
-
-|
-
-8 %
+7 %
 
 |
 
@@ -46,10 +30,6 @@ Au 2e niveau de la catégorie III
 
 |
 
-9 %
-
-|
-
-8 %
+7 %
 
 |
