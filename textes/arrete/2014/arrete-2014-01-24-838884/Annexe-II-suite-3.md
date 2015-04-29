@@ -40,11 +40,11 @@ FR-new-05100850
 
 |
 
-Lafarge Plâtres
+SINIAT
 
 |
 
-Lafarge Plâtres - usine d'Auneuil
+SINIAT-Auneuil
 
 |
 
@@ -64,27 +64,35 @@ Lafarge Plâtres - usine d'Auneuil
 
 |
 
-34 443 |
+34 443
 
-33 771 |
+|
 
-33 091 |
+33 771
+
+|
+
+33 091
+
+|
 
 32 409
 
 |
 
-270 653 |
+270 653
+
+|
 
 FR-new-05101027
 
 |
 
-SCICA PULPOSEC
+TEREOS (Ex-SICA PULPOSEC)
 
 |
 
-SCICA PULPOSEC
+TEREOS (Ex-SICA PULPOSEC)
 
 |
 
@@ -224,11 +232,11 @@ FR-new-05101524
 
 |
 
-NORFOND
+EJ PICARDIE
 
 |
 
-NORFOND
+EJ PICARDIE
 
 |
 
@@ -496,7 +504,9 @@ Union Invivo côté Fleuve
 
 |
 
-0 |
+0
+
+|
 
 0
 
@@ -610,19 +620,29 @@ SINIAT
 
 |
 
-SINIAT- Usine de Saint-Loubès |
+SINIAT- Usine de Saint-Loubès
+
+|
 
 22 897
 
 |
 
-27 214 |
+27 214
 
-26 728 |
+|
 
-26 236 |
+26 728
 
-25 739 |
+|
+
+26 236
+
+|
+
+25 739
+
+|
 
 25 237
 
@@ -636,7 +656,9 @@ SINIAT- Usine de Saint-Loubès |
 
 |
 
-202 999 |
+202 999
+
+|
 
 FR-new-05201262
 
@@ -834,7 +856,9 @@ FR-new-05201765
 
 |
 
-SOLEVAL France |
+SOLEVAL France
+
+|
 
 SOLEVAL FRANCE
 
@@ -1424,31 +1448,31 @@ STEICO
 
 |
 
-11 796
+7 751
 
 |
 
-11 579
+6 781
 
 |
 
-11 359
+5 842
 
 |
 
-11 138
+4 933
 
 |
 
-10 914
+4 053
 
 |
 
-10 688
+3 206
 
 |
 
-91 707
+56 799
 
 |
 
@@ -1464,14 +1488,6 @@ SCA de LAMOUTHE
 
 |
 
-921
-
-|
-
-824
-
-|
-
 0
 
 |
@@ -1496,7 +1512,15 @@ SCA de LAMOUTHE
 
 |
 
-1 745
+0
+
+|
+
+0
+
+|
+
+0
 
 |
 
@@ -1604,7 +1628,9 @@ DALKIA
 
 |
 
-DALKIA |
+DALKIA
+
+|
 
 0
 
@@ -1898,7 +1924,9 @@ BOLAIDOR
 
 |
 
-20 782 |
+20 782
+
+|
 
 20 315
 
@@ -1912,21 +1940,33 @@ BOLAIDOR
 
 |
 
-18 914 |
+18 914
 
-18 446 |
+|
 
-17 980 |
+18 446
 
-154 473 |
+|
+
+17 980
+
+|
+
+154 473
+
+|
 
 FR-new-05401050
 
 |
 
-KRONOSPAN SAS |
+ISOROY AUXERRE
 
-KRONOSPAN AUXERRE |
+|
+
+ISOROY AUXERRE
+
+|
 
 14 574
 
@@ -1936,31 +1976,31 @@ KRONOSPAN AUXERRE |
 
 |
 
-14 064
+9 242
 
 |
 
-13 806
+8 086
 
 |
 
-13 544
+6 966
 
 |
 
-13 280
+5 882
 
 |
 
-13 012
+4 833
 
 |
 
-12 744
+3 823
 
 |
 
-109 344
+67 726
 
 |
 
@@ -2268,15 +2308,21 @@ SAS UCLAB INDUSTRIE
 
 |
 
-12 442 |
+12 442
+
+|
 
 11 953
 
 |
 
-11 474 |
+11 474
 
-11 002 |
+|
+
+11 002
+
+|
 
 10 536
 
@@ -2542,7 +2588,9 @@ Groupe MARAZZI France
 
 |
 
-Groupe MARAZZI site de Paulhaguet |
+Groupe MARAZZI site de Paulhaguet
+
+|
 
 11 654
 
@@ -2732,7 +2780,9 @@ Rockwool France SAS
 
 |
 
-Rockwool France site de St-Eloy -les-Mines |
+Rockwool France site de St-Eloy -les-Mines
+
+|
 
 90 502
 
@@ -2822,9 +2872,13 @@ FR-new-05602388
 
 |
 
-COLAS RHONE ALPES AUVERGNE |
+COLAS RHONE ALPES AUVERGNE
 
-COLAS RHONE ALPES AUVERGNE (POSTE TSM28) |
+|
+
+COLAS RHONE ALPES AUVERGNE (POSTE TSM28)
+
+|
 
 1 578
 
@@ -2862,6 +2916,54 @@ COLAS RHONE ALPES AUVERGNE (POSTE TSM28) |
 
 |
 
+Fr-new-05602390
+
+|
+
+Energie Clermont-Ferrand Avenir (ECLA)
+
+|
+
+Chaufferie urbaine de la Croix-de Neyrat, à Clermont-Ferrand
+
+|
+
+1 573
+
+|
+
+10 080
+
+|
+
+8 930
+
+|
+
+7 816
+
+|
+
+6 737
+
+|
+
+5 693
+
+|
+
+4 683
+
+|
+
+3 710
+
+|
+
+49 222
+
+|
+
 FR-new-05602422
 
 |
@@ -2870,7 +2972,9 @@ EFFAGE
 
 |
 
-Centrale d'enrobage MI707 |
+Centrale d'enrobage MI707
+
+|
 
 2 351
 
@@ -3016,39 +3120,39 @@ Luzeal - site de Lavannes
 
 |
 
-7 910
+0
 
 |
 
-7 079
+0
 
 |
 
-6 270
+0
 
 |
 
-5 486
+0
 
 |
 
-4 726
+0
 
 |
 
-3 991
+0
 
 |
 
-3 279
+0
 
 |
 
-2 594
+0
 
 |
 
-41 335
+0
 
 |
 
@@ -3936,31 +4040,31 @@ UNILIN Bazeilles
 
 |
 
-157 680
+103 611
 
 |
 
-154 778
+90 654
 
 |
 
-151 846
+78 094
 
 |
 
-148 885
+65 941
 
 |
 
-145 887
+54 182
 
 |
 
-142 879
+42 864
 
 |
 
-1 225 895
+759 286
 
 |
 
@@ -4024,39 +4128,39 @@ Coopérative agricole de déshydratation d'Arcis-sur-Aube
 
 |
 
-28 466
+0
 
 |
 
-26 526
+0
 
 |
 
-24 629
+0
 
 |
 
-22 782
+0
 
 |
 
-20 982
+0
 
 |
 
-19 232
+0
 
 |
 
-17 528
+0
 
 |
 
-15 881
+0
 
 |
 
-176 026
+0
 
 |
 
@@ -4368,31 +4472,31 @@ Linex Panneaux SAS
 
 |
 
-39 657
+26 059
 
 |
 
-38 928
+22 800
 
 |
 
-38 190
+19 641
 
 |
 
-37 445
+16 585
 
 |
 
-36 692
+13 627
 
 |
 
-35 935
+10 780
 
 |
 
-308 319
+190 964
 
 |
 
@@ -4512,23 +4616,33 @@ Atelier d'acide nitrique N8
 
 |
 
-132 993 |
+132 993
+
+|
 
 130 546
 
 |
 
-128 072 |
+128 072
 
-125 575 |
+|
+
+125 575
+
+|
 
 123 046
 
 |
 
-120 509 |
+120 509
 
-965 059 |
+|
+
+965 059
+
+|
 
 FR-new-05900536
 
@@ -4538,7 +4652,9 @@ ARMSTRONG BUILDING PRODUCTS SAS
 
 |
 
-ARMSTRONG BUILDING PRODUCTS SAS |
+ARMSTRONG BUILDING PRODUCTS SAS
+
+|
 
 42 769
 
@@ -5844,7 +5960,9 @@ PLACOPLATRE - Usine de CHAMBERY
 
 |
 
-42 235 |
+42 235
+
+|
 
 41 458
 
@@ -6074,21 +6192,13 @@ CENTRE HOSPITALIER UNIVERSITAIRE DE SAINT-ETIENNE
 
 |
 
-3 298
-
-|
-
-2 951
+0
 
 |
 
 0
 
 |
-
-0 |
-
-0 |
 
 0
 
@@ -6098,9 +6208,25 @@ CENTRE HOSPITALIER UNIVERSITAIRE DE SAINT-ETIENNE
 
 |
 
-0 |
+0
 
-6 249 |
+|
+
+0
+
+|
+
+0
+
+|
+
+0
+
+|
+
+0
+
+|
 
 FR-new-06104971
 
@@ -6250,7 +6376,9 @@ FR-new-06105225
 
 |
 
-ADISSEO France SAS |
+ADISSEO France SAS
+
+|
 
 ADISSEO (Amont méthionine)
 
@@ -6536,7 +6664,9 @@ Fr-new-06111198
 
 |
 
-COLAS MIDI MEDITERRANEE |
+COLAS MIDI MEDITERRANEE
+
+|
 
 COLAS MIDI MEDITERRANEE (POSTE ASTEC 300)
 
@@ -6690,7 +6820,9 @@ Saint-Gobain PAM - usine de Foug
 
 |
 
-36 765 |
+36 765
+
+|
 
 36 107
 
@@ -6712,17 +6844,25 @@ Saint-Gobain PAM - usine de Foug
 
 |
 
-32 718 |
+32 718
 
-266 772 |
+|
+
+266 772
+
+|
 
 FR-new-06200776
 
 |
 
-ArcelorMittal Construction France - Site de Contrisson 1 |
+ArcelorMittal Construction France - Site de Contrisson 1
 
-ArcelorMittal Construction France - Site de Contrisson 1 |
+|
+
+ArcelorMittal Construction France - Site de Contrisson 1
+
+|
 
 12 057
 
@@ -7148,7 +7288,9 @@ FR-new-06207805
 
 |
 
-MONDELANGE INDUSTRIES |
+MONDELANGE INDUSTRIES
+
+|
 
 MONDELANGE INDUSTRIES
 
@@ -7242,9 +7384,13 @@ FR-new-06209168
 
 |
 
-COLAS EST |
+COLAS EST
 
-COLAS EST - poste mobile TSM25XLM-R n° 1 |
+|
+
+COLAS EST - poste mobile TSM25XLM-R n° 1
+
+|
 
 1 914
 
@@ -7350,8 +7496,6 @@ HUTCHINSON SNC
 
 |
 
-0 |
-
 0
 
 |
@@ -7372,7 +7516,13 @@ HUTCHINSON SNC
 
 |
 
-2 859 |
+0
+
+|
+
+2 859
+
+|
 
 FR-new-06301125
 
@@ -7394,7 +7544,9 @@ SOFIVO
 
 |
 
-6 870 |
+6 870
+
+|
 
 6 744
 
@@ -7408,13 +7560,17 @@ SOFIVO
 
 |
 
-6 656 |
+6 656
+
+|
 
 6 225
 
 |
 
-52 916 |
+52 916
+
+|
 
 FR-new-06301359
 
@@ -7576,23 +7732,37 @@ SINIAT - Usine de Carpentras
 
 |
 
-30 128 |
+30 128
 
-29 589 |
+|
 
-29 045 |
+29 589
+
+|
+
+29 045
+
+|
 
 28 495
 
 |
 
-27 939 |
+27 939
 
-37 377 |
+|
 
-26 812 |
+37 377
 
-223 213 |
+|
+
+26 812
+
+|
+
+223 213
+
+|
 
 FR-new-06400928
 
@@ -7742,9 +7912,13 @@ FR-new-06400982
 
 |
 
-KEM ONE |
+KEM ONE
 
-KEM ONE |
+|
+
+KEM ONE
+
+|
 
 69 189
 
@@ -7834,11 +8008,13 @@ FR-new-06401076
 
 |
 
-KRONOSPAN SAS
+ISOROY TORCY
 
 |
 
-KRONOSPAN TORCY |
+ISOROY TORCY
+
+|
 
 33 753
 
@@ -7848,31 +8024,31 @@ KRONOSPAN TORCY |
 
 |
 
-32 574
+21 404
 
 |
 
-31 974
+18 727
 
 |
 
-31 369
+16 133
 
 |
 
-30 757
+13 622
 
 |
 
-30 137
+11 193
 
 |
 
-29 516
+8 855
 
 |
 
-253 247
+156 854
 
 |
 
@@ -7892,7 +8068,9 @@ SINIAT - Usine de Mazans
 
 |
 
-8 979 |
+8 979
+
+|
 
 8 819
 
@@ -7914,7 +8092,9 @@ SINIAT - Usine de Mazans
 
 |
 
-7 991 |
+7 991
+
+|
 
 66 651
 
@@ -8328,19 +8508,29 @@ KNAUF Plâtres & Cie
 
 |
 
-39 180 |
+39 180
 
-38 437 |
+|
 
-37 688 |
+38 437
 
-36 929 |
+|
+
+37 688
+
+|
+
+36 929
+
+|
 
 36 167
 
 |
 
-302 042 |
+302 042
+
+|
 
 FR-new-06502229
 
@@ -8378,11 +8568,17 @@ SINIAT
 
 |
 
-19 030 |
+19 030
 
-18 638 |
+|
 
-155 647 |
+18 638
+
+|
+
+155 647
+
+|
 
 FR-new-06505584
 
@@ -8404,21 +8600,29 @@ PLACOPLATRE - usine de CORMEILLES
 
 |
 
-22 617 |
+22 617
 
-22 201 |
+|
+
+22 201
+
+|
 
 21 780
 
 |
 
-21 356 |
+21 356
+
+|
 
 20 926
 
 |
 
-20 494 |
+20 494
+
+|
 
 169 947
 
@@ -8432,7 +8636,9 @@ ALTERNAE
 
 |
 
-Société ALTERNAE silo de GENICOURT |
+Société ALTERNAE silo de GENICOURT
+
+|
 
 1 036
 
@@ -8714,7 +8920,9 @@ FR-new-06600079
 
 |
 
-ARTERRIS |
+ARTERRIS
+
+|
 
 LOUDES ARTERRIS CASTELNAUDARY
 
@@ -9052,7 +9260,9 @@ PUNCH POWERGLIDE STRASBOURG
 
 |
 
-PUNCH POWERGLIDE STRASBOURG |
+PUNCH POWERGLIDE STRASBOURG
+
+|
 
 74
 
@@ -9114,15 +9324,25 @@ Lafarge Plâtres - Usine de Ottmarsheim
 
 |
 
-18 789 |
+18 789
 
-18 433 |
+|
 
-18 073 |
+18 433
 
-17 709 |
+|
 
-17 344 |
+18 073
+
+|
+
+17 709
+
+|
+
+17 344
+
+|
 
 144 845
 
@@ -10052,39 +10272,39 @@ VIVADOUR LE HOUGA
 
 |
 
-1 555
+2 106
 
 |
 
-1 392
+1 885
 
 |
 
-1 234
+0
 
 |
 
-1 079
+0
 
 |
 
-930
+0
 
 |
 
-785
+0
 
 |
 
-645
+0
 
 |
 
-510
+0
 
 |
 
-8 130
+3 991
 
 |
 
@@ -10588,31 +10808,31 @@ Befesa Valera
 
 |
 
-48 285
+24 298
 
 |
 
-47 396
+23 851
 
 |
 
-46 499
+23 400
 
 |
 
-45 592
+22 943
 
 |
 
-44 674
+22 481
 
 |
 
-43 752
+22 017
 
 |
 
-375 395
+238 187
 
 |
 
@@ -10956,7 +11176,9 @@ FR-new-07000832
 
 |
 
-Maubeuge Construction Automobile |
+Maubeuge Construction Automobile
+
+|
 
 Maubeuge Construction Automobile
 
@@ -10994,7 +11216,9 @@ Maubeuge Construction Automobile
 
 |
 
-244 149 |
+244 149
+
+|
 
 FR-new-07000866
 
@@ -11240,7 +11464,9 @@ FR-new-07001047
 
 |
 
-CEREC |
+CEREC
+
+|
 
 CEREC
 
@@ -11338,7 +11564,7 @@ SEVELNORD
 
 |
 
-Société Européenne de Véhicules légers du Nord
+Société européenne de véhicules légers du Nord
 
 |
 
@@ -11350,27 +11576,33 @@ Société Européenne de Véhicules légers du Nord
 
 |
 
-35 164
+19 706
 
 |
 
-34 517
+19 344
 
 |
 
-33 863
+18 977
 
 |
 
-33 203
+18 607
 
 |
 
-32 534 |
+18 232
 
-31 863 |
+|
 
-243 566 |
+17 856
+
+|
+
+155 144
+
+|
 
 FR-new-07001067
 
@@ -11500,7 +11732,9 @@ Centrale d'enrobage au bitume de matériaux routiers à chaud
 
 |
 
-0 |
+0
+
+|
 
 0
 
@@ -11722,9 +11956,13 @@ PLACOPLATRE - usine de COGNAC
 
 |
 
-29 038 |
+29 038
 
-28 519 |
+|
+
+28 519
+
+|
 
 27 994
 
@@ -11818,7 +12056,9 @@ UNION VIENNE LOIRE
 
 |
 
-0 |
+0
+
+|
 
 0
 
@@ -11872,11 +12112,17 @@ SOCOMAC
 
 |
 
-0 |
+0
 
-0 |
+|
 
-0 |
+0
+
+|
+
+0
+
+|
 
 0
 
@@ -11890,7 +12136,9 @@ FR-new-07208217
 
 |
 
-Electricité de France |
+Electricité de France
+
+|
 
 Chaufferie DANISCO usine de Melle
 
@@ -12036,7 +12284,9 @@ DALKIA
 
 |
 
-Centrale "SOCOMIN" du MIN de Rungis |
+Centrale "SOCOMIN" du MIN de Rungis
+
+|
 
 1 802
 
@@ -12190,29 +12440,33 @@ Châteauroux ceramics
 
 |
 
-10 901
+0
 
 |
 
-10 700
+0
 
 |
 
-10 497 |
-
-10 292
+0
 
 |
 
-10 085
+0
 
 |
 
-9 878
+0
 
 |
 
-86 639 |
+0
+
+|
+
+24 288
+
+|
 
 FR-new-10000681
 
@@ -12650,7 +12904,9 @@ FR-new-25200001
 
 |
 
-AREVA NP |
+AREVA NP
+
+|
 
 AREVA NP
 
@@ -12692,7 +12948,9 @@ AREVA NP
 
 |
 
-FR-new-05401059 |
+FR-new-05401059
+
+|
 
 COOPERATIVE BOURGOGNE DU SUD
 
@@ -12934,50 +13192,94 @@ FR-new-10010029
 
 |
 
-ICT France |
+ICT France
 
-ICT France |
+|
 
-17 220 |
+ICT France
 
-16 920 |
+|
 
-16 621 |
+17 220
 
-16 321 |
+|
 
-16 021 |
+16 920
 
-15 722 |
+|
 
-15 422 |
+16 621
 
-15 123 |
+|
 
-129 370 |
+16 321
+
+|
+
+16 021
+
+|
+
+15 722
+
+|
+
+15 422
+
+|
+
+15 123
+
+|
+
+129 370
+
+|
 
 FR-new-06301486
 
 |
 
-CODEMA |
+CODEMA
 
-CODEMA |
+|
 
-10 278 |
+CODEMA
 
-9 197 |
+|
 
-8 148 |
+10 278
 
-7 132 |
+|
 
-6 147 |
+9 197
 
-5 195 |
+|
 
-4 273 |
+8 148
 
-3 385 |
+|
 
-53 755 |
+7 132
+
+|
+
+6 147
+
+|
+
+5 195
+
+|
+
+4 273
+
+|
+
+3 385
+
+|
+
+53 755
+
+|

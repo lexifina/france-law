@@ -96,41 +96,23 @@ VICAT usine de Montalieu
 
 |
 
-953 756
+953 756 |
 
-|
+937 190 |
 
-937 190
+920 430 |
 
-|
+903 494 |
 
-920 430
+886 376 |
 
-|
+869 092 |
 
-903 494
+851 592 |
 
-|
+834 031 |
 
-886 376
-
-|
-
-869 092
-
-|
-
-851 592
-
-|
-
-834 031
-
-|
-
-7 155 961
-
-|
+7 155 961 |
 
 FR000000000000370
 
@@ -144,47 +126,31 @@ Arjowiggins Rives SAS usine de Charavines
 
 |
 
-4 618
+4 618 |
 
-|
+4 538 |
 
-4 538
+4 457 |
 
-|
+4 375 |
 
-4 457
+4 292 |
 
-|
+4 208 |
 
-4 375
+4 124 |
 
-|
+4 039 |
 
-4 292
-
-|
-
-4 208
-
-|
-
-4 124
-
-|
-
-4 039
-
-|
-
-34 651
-
-|
+34 651 |
 
 FR000000000000375
 
 |
 
-CATERPILLAR France SAS |
+CATERPILLAR France SAS
+
+|
 
 CATERPILLAR France SAS
 
@@ -1094,7 +1060,9 @@ FR000000000000405
 
 |
 
-STELVIA |
+STELVIA
+
+|
 
 Chaufferie urbaine du Quartier de Montreynaud
 
@@ -1140,49 +1108,31 @@ FR000000000000406
 
 |
 
-VERALLIA SAINT-GOBAIN EMBALLAGE
+Saint-Gobain emballage, usine de Saint-Romain-le-Puy
 
 |
 
-VERALLIA - SAINT-GOBAIN EMBALLAGE
+Saint-Gobain emballage, usine de Saint-Romain-le-Puy
 
 |
 
-79 163
+79 163 |
 
-|
+77 788 |
 
-77 788
+62 300 |
 
-|
+61 153 |
 
-76 397
+59 995 |
 
-|
+58 824 |
 
-74 991
+57 640 |
 
-|
+56 451 |
 
-73 571
-
-|
-
-72 135
-
-|
-
-70 683
-
-|
-
-69 225
-
-|
-
-593 953
-
-|
+513 314 |
 
 FR000000000000407
 
@@ -1492,33 +1442,31 @@ Sanofi Aventis Chimie Neuville-sur-Saône
 
 |
 
-10 889
+0
 
 |
 
-10 689
+0
 
 |
 
-10 486
+0
 
 |
 
-10 282
+0
 
 |
 
-10 075
+0
 
 |
 
-9 867
+0
 
 |
 
-84 658
-
-|
+22 370 |
 
 FR000000000000415
 
@@ -1620,11 +1568,11 @@ FR000000000000417
 
 |
 
-SOLVAY
+ALFI
 
 |
 
-SOLVAY
+ALFI
 
 |
 
@@ -2144,9 +2092,7 @@ Hôpital Edouard-Herriot
 
 |
 
-FR000000000000431
-
-|
+FR000000000000431 |
 
 ELVYA
 
@@ -2192,9 +2138,7 @@ ELVYA-Chaufferie LAFAYETTE
 
 |
 
-FR000000000000432
-
-|
+FR000000000000432 |
 
 ELYDE (ENERGIE LYON DUCHERE ENVIRONNEMENT)
 
@@ -2240,57 +2184,35 @@ ELYDE-LA-DUCHERE
 
 |
 
-FR000000000000433
+FR000000000000433 |
+
+Société Chambérienne de Distribution de Chaleur
 
 |
 
-Société chambérienne de distribution de chaleur (SCDC)
+Société Chambérienne de Distribution de Chaleur-Chaufferie de Bassens
 
 |
 
-SCDC Bassens CHAMBERY
+1 510 |
 
-|
+1 260 |
 
-1 510
+259 |
 
-|
+220 |
 
-1 260
+190 |
 
-|
+160 |
 
-1 034
+132 |
 
-|
+104 |
 
-880
+3 835 |
 
-|
-
-758
-
-|
-
-640
-
-|
-
-526
-
-|
-
-416
-
-|
-
-7 024
-
-|
-
-FR000000000000434
-
-|
+FR000000000000434 |
 
 OCV CHAMBERY France
 
@@ -2772,7 +2694,9 @@ FR000000000000449
 
 |
 
-BACCARAT SA |
+BACCARAT SA
+
+|
 
 BACCARAT SA
 
@@ -2818,9 +2742,13 @@ FR000000000000450
 
 |
 
-SOVAB |
+SOVAB
 
-Société des Véhicules Automobiles de Batilly (SOVAB) |
+|
+
+Société des Véhicules Automobiles de Batilly (SOVAB)
+
+|
 
 22 020
 
@@ -3632,29 +3560,39 @@ LACTOSERUM France
 
 |
 
-28 606 |
+28 606
 
-33 649 |
+|
 
-33 048 |
+33 649
+
+|
+
+33 048
+
+|
 
 32 440
 
 |
 
-31 825 |
+31 825
 
-31 204 |
+|
+
+31 204
+
+|
 
 30 576
 
 |
 
-29 946 |
+29 946
 
-251
+|
 
-294
+251 294
 
 |
 
@@ -3710,41 +3648,33 @@ FR000000000000480
 
 |
 
-COFELY GDF SUEZ
+COFELY-Services
 
 |
 
-COFELY -chaufferie du Holweg -Forbach
+Chauffage urbain Holweg-Forbach
 
 |
 
-17 115
+17 115 |
+
+7 659 |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+0
 
 |
 
-7 659
-
-|
-
-6 784 |
-
-5 935 |
-
-5 113
-
-|
-
-4 317
-
-|
-
-3 548 |
-
-2 806
-
-|
-
-53 277
+24 774
 
 |
 
@@ -3800,7 +3730,9 @@ FR000000000000482
 
 |
 
-ASCO INDUSTRIES SAS |
+ASCO INDUSTRIES SAS
+
+|
 
 ASCO INDUSTRIES SAS Usine d'Hagondange
 
@@ -3846,11 +3778,11 @@ FR000000000000483
 
 |
 
-Smart France SAS
+smart France SAS
 
 |
 
-Smart France SAS
+smart France SAS
 
 |
 
@@ -3862,31 +3794,31 @@ Smart France SAS
 
 |
 
-4 888
+7 438
 
 |
 
-4 277
+7 302
 
 |
 
-3 684
+7 163
 
 |
 
-3 111
+7 023
 
 |
 
-2 556
+6 882
 
 |
 
-2 021
+6 740
 
 |
 
-32 220
+54 231
 
 |
 
@@ -3898,7 +3830,9 @@ ArcelorMittal Atlantique et Lorraine - Site de Florange
 
 |
 
-ArcelorMittal Atlantique et Lorraine - Site de Florange |
+ArcelorMittal Atlantique et Lorraine - Site de Florange
+
+|
 
 569 761
 
@@ -4308,7 +4242,9 @@ SOUCHE PARTICIPATION
 
 |
 
-0 |
+0
+
+|
 
 0
 
@@ -4422,7 +4358,9 @@ UPM FRANCE
 
 |
 
-UPM France-Ets PAPETERIES DE DOCELLES |
+UPM France-Ets PAPETERIES DE DOCELLES
+
+|
 
 39 645
 
@@ -4660,7 +4598,7 @@ EGGER Panneaux et Décors
 
 |
 
-EGGER Panneaux et Décors 88
+EGGER Panneaux et Décors
 
 |
 
@@ -4672,31 +4610,31 @@ EGGER Panneaux et Décors 88
 
 |
 
-46 457
+30 527
 
 |
 
-45 602
+26 709
 
 |
 
-44 738
+23 009
 
 |
 
-43 866
+19 428
 
 |
 
-42 983
+15 964
 
 |
 
-42 096
+12 629
 
 |
 
-361 184
+223 708
 
 |
 
@@ -4708,7 +4646,9 @@ PAPETERIE RAON
 
 |
 
-PAPETERIE RAON |
+PAPETERIE RAON
+
+|
 
 19 393
 
@@ -5174,7 +5114,7 @@ SODEVAR
 
 |
 
-DALKIA - SODEVAR Puits-Vouters
+DALKIA-SODEVAR Puits Vouters
 
 |
 
@@ -5186,31 +5126,29 @@ DALKIA - SODEVAR Puits-Vouters
 
 |
 
-7 976
+3 988
 
 |
 
-6 981
+3 491
 
 |
 
-6 018
+3 009
 
 |
 
-5 085
+2 543 |
+
+2 092
 
 |
 
-4 183
+1 657
 
 |
 
-3 313
-
-|
-
-52 621
+35 845
 
 |
 
@@ -5366,7 +5304,7 @@ TOTAL PETROCHEMICALS France
 
 |
 
-TOTAL PETROCHEMICALS France - Usine de Carling Saint-Avold
+TOTAL PETROCHEMICALS France-Plateforme de Carling-Saint-Avold
 
 |
 
@@ -5374,29 +5312,37 @@ TOTAL PETROCHEMICALS France - Usine de Carling Saint-Avold
 
 |
 
-442
-
-512
+442 512
 
 |
 
-434
-
-598
+413 759
 
 |
 
-426 602 |
+406 146
 
-418 467 |
+|
 
-410 358 |
+398 452
 
-402 095 |
+|
 
-393 804 |
+390 682
 
-3 378 770 |
+|
+
+382 816
+
+|
+
+374 921
+
+|
+
+3 259 622
+
+|
 
 FR000000000000529
 
@@ -5606,35 +5552,35 @@ SAS Laiterie du Val-d'Ancenis
 
 |
 
-19 684
+20 378
 
 |
 
-18 829
+19 689
 
 |
 
-17 988
+19 009
 
 |
 
-17 162
+18 337
 
 |
 
-16 352
+17 674
 
 |
 
-15 557
+17 018
 
 |
 
-14 780
+16 373
 
 |
 
-140 906
+149 032
 
 |
 
@@ -5798,17 +5744,29 @@ Terminal méthanier de Montoir de Bretagne
 
 |
 
-27 117 |
+27 117
 
-24 018 |
+|
 
-21 015 |
+24 018
 
-18 103 |
+|
 
-15 286 |
+21 015
 
-12 560 |
+|
+
+18 103
+
+|
+
+15 286
+
+|
+
+12 560
+
+|
 
 9 936
 
@@ -5838,31 +5796,31 @@ SARVAL OUEST
 
 |
 
-14 782
+22 496
 
 |
 
-12 934
+22 082
 
 |
 
-11 142
+21 664
 
 |
 
-9 408
+21 241
 
 |
 
-7 731
+20 814
 
 |
 
-6 115
+20 384
 
 |
 
-97 450
+164 019
 
 |
 
@@ -6220,7 +6178,9 @@ FR000000000000553
 
 |
 
-LAVAL ENERGIE NOUVELLE |
+LAVAL ENERGIE NOUVELLE
+
+|
 
 LAVAL ENERGIE NOUVELLE
 
@@ -6318,7 +6278,9 @@ ArcelorMittal Atlantique et Lorraine-Site de Basse-Indre
 
 |
 
-ArcelorMittal Atlantique et Lorraine-Site de Basse-Indre |
+ArcelorMittal Atlantique et Lorraine-Site de Basse-Indre
+
+|
 
 33 045
 
@@ -6344,7 +6306,9 @@ ArcelorMittal Atlantique et Lorraine-Site de Basse-Indre |
 
 |
 
-0 |
+0
+
+|
 
 0
 
@@ -6404,13 +6368,9 @@ FR000000000000557
 
 |
 
-SOCCRAM
+SOCCRAM |
 
-|
-
-SOCCRAM chaufferie de la Roseraie (Angers)
-
-|
+SOCCRAM Chaufferie de la Roseraie (Angers) |
 
 3 906
 
@@ -6420,31 +6380,31 @@ SOCCRAM chaufferie de la Roseraie (Angers)
 
 |
 
-2 743
+1 372
 
 |
 
-2 400
+1 200
 
 |
 
-2 068
+1 034
 
 |
 
-1 746
+873
 
 |
 
-1 434
+717
 
 |
 
-1 135
+568
 
 |
 
-18 614
+12 852
 
 |
 
@@ -6452,7 +6412,7 @@ FR000000000000558
 
 |
 
-Marcel BROUILLER (directeur de l'usine ACI Le Mans)
+Auto Chassis international
 
 |
 
@@ -6468,33 +6428,29 @@ ACI Le Mans
 
 |
 
-18 850
+12 606
 
 |
 
-16 888
+11 425
 
 |
 
-14 984
+10 278
 
 |
 
-13 140
+9 166
 
 |
 
-11 351
+8 086 |
+
+7 045
 
 |
 
-9 628
-
-|
-
-128 651
-
-|
+102 416 |
 
 FR000000000000559
 
@@ -6998,7 +6954,9 @@ BOUYER LEROUX STRUCTURE site de la Boissière du Doré |
 
 |
 
-3 426 |
+3 426
+
+|
 
 32 752
 
@@ -7476,11 +7434,11 @@ FR000000000000592
 
 |
 
-CPCU
+COMPAGNIE PARISIENNE DE CHAUFFAGE URBAIN
 
 |
 
-CPCU - Saint-Ouen III
+CPCU III à St-Ouen 93
 
 |
 
@@ -7492,31 +7450,31 @@ CPCU - Saint-Ouen III
 
 |
 
-101 235
+25 309
 
 |
 
-88 608
+22 152
 
 |
 
-76 378
+19 095
 
 |
 
-64 545
+16 136
 
 |
 
-53 093
+13 273
 
 |
 
-42 053
+10 513
 
 |
 
-667 880
+348 446
 
 |
 
@@ -7826,19 +7784,33 @@ PAPETERIE DE GROMELLE
 
 |
 
-0 |
+0
 
-0 |
+|
 
-0 |
+0
 
-0 |
+|
 
-0 |
+0
 
-0 |
+|
 
-6 699 |
+0
+
+|
+
+0
+
+|
+
+0
+
+|
+
+6 699
+
+|
 
 FR000000000000602
 
@@ -8218,13 +8190,9 @@ FR000000000000611
 
 |
 
-GRTgaz Région Rhône Méditerranée
+GRTgaz Territoire Rhône Méditerranée |
 
-|
-
-GRTgaz station de compression de Saint-Martin-de-Crau
-
-|
+GRTgaz station de compression de Saint-Martin-de-Crau |
 
 27 317
 
@@ -8234,33 +8202,31 @@ GRTgaz station de compression de Saint-Martin-de-Crau
 
 |
 
-21 654
+11 410
 
 |
 
-18 946
+9 983
 
 |
 
-16 321
+8 600
 
 |
 
-13 781
+7 261
 
 |
 
-11 324
+5 967
 
 |
 
-8 957
+4 719
 
 |
 
-142 746
-
-|
+99 703 |
 
 FR000000000000613
 
@@ -9028,9 +8994,7 @@ ELENGY
 
 |
 
-Terminal méthanier de Fos Tonkin
-
-|
+Terminal méthanier de Fos-Tonkin |
 
 4 405
 
@@ -9040,45 +9004,39 @@ Terminal méthanier de Fos Tonkin
 
 |
 
-3 492
+0
 
 |
 
-3 054
+0
 
 |
 
-2 632
+0
 
 |
 
-2 223
+0
 
 |
 
-1 826
+0
 
 |
 
-1 445
+0
 
 |
 
-23 018
+8 346
 
 |
 
-FR000000000000634
+FR000000000000634 |
 
-|
+SAS Conserves de Provence |
 
-SAS Conserves de Provence
-
-|
-
-SAS CONSERVES DE PROVENCE
-
-|
+SAS CONSERVES DE PROVENCE |
 
 4 888
 
@@ -9096,13 +9054,21 @@ SAS CONSERVES DE PROVENCE
 
 |
 
-0 |
+0
 
-0 |
+|
 
-0 |
+0
 
-0 |
+|
+
+0
+
+|
+
+0
+
+|
 
 9 262
 
@@ -9160,173 +9126,89 @@ FR000000000000637
 
 |
 
-LAVERA ENERGIES
+LAVERA ENERGIES |
 
-|
+LAVERA ENERGIES SNC |
 
-LAVERA ENERGIES SNC
+0 |
 
-|
+0 |
 
-0
+0 |
 
-|
+0 |
 
-0
+0 |
 
-|
+0 |
 
-0
+0 |
 
-|
+0 |
 
-0
+0 |
 
-|
+FR000000000000638 |
 
-0
+SETHELEC |
 
-|
+Centrale de cogénération SETHELEC d'Arles |
 
-0
+0 |
 
-|
+0 |
 
-0
+0 |
 
-|
+0 |
 
-0
+0 |
 
-|
+0 |
 
-0
+0 |
 
-|
+0 |
 
-FR000000000000638
+0 |
 
-|
+FR000000000000639 |
 
-SETHELEC
+Lafarge Ciments |
 
-|
+Lafarge Ciments - usine de La Malle |
 
-Centrale de cogénération SETHELEC d'Arles
+393 400 |
 
-|
+386 567 |
 
-0
+379 653 |
 
-|
+372 668 |
 
-0
+365 607 |
 
-|
+358 478 |
 
-0
+351 260 |
 
-|
+344 016 |
 
-0
+2 951 649 |
 
-|
+FR000000000000640 |
 
-0
+AULNAY ENERGIE SERVICES |
 
-|
+AULNAY ENERGIE SERVICES - Cogénération |
 
-0
+5 837 |
 
-|
+4 726 |
 
-0
+0 |
 
-|
-
-0
-
-|
-
-0
-
-|
-
-FR000000000000639
-
-|
-
-Lafarge Ciments
-
-|
-
-Lafarge Ciments - usine de La Malle
-
-|
-
-393 400
-
-|
-
-386 567
-
-|
-
-379 653
-
-|
-
-372 668
-
-|
-
-365 607
-
-|
-
-358 478
-
-|
-
-351 260
-
-|
-
-344 016
-
-|
-
-2 951 649
-
-|
-
-FR000000000000640
-
-|
-
-AULNAY ENERGIE SERVICES
-
-|
-
-AULNAY ENERGIE SERVICES - Cogénération
-
-|
-
-5 837
-
-|
-
-4 726
-
-|
-
-0
-
-|
-
-0
-
-|
+0 |
 
 0 |
 
@@ -9390,11 +9272,11 @@ FR000000000000642
 
 |
 
-COFELY GDF SUEZ
+COFELY Services
 
 |
 
-ROMAINVILLE
+COFELY Romainville 93
 
 |
 
@@ -9406,321 +9288,177 @@ ROMAINVILLE
 
 |
 
-7 929
+3 965
 
 |
 
-7 534
+3 768
 
 |
 
-7 146
+3 574
 
 |
 
-6 765
+3 383
 
 |
 
-6 393
+3 197
 
 |
 
-6 030
+3 016
 
 |
 
-58 876
+37 982
 
 |
 
-FR000000000000644
+FR000000000000644 |
 
-|
-
-Aéroports de Paris
-
-|
-
-Centrale thermique Bât. 128
-
-|
-
-3 937
-
-|
-
-3 523
-
-|
-
-3 121
-
-|
-
-2 730
-
-|
-
-2 352
-
-|
-
-1 986
-
-|
-
-1 632
-
-|
-
-1 291
-
-|
-
-20 572
-
-|
-
-FR000000000000646
-
-|
-
-EURENCO
-
-|
-
-EURENCO
-
-|
-
-14 095
-
-|
-
-13 446
-
-|
-
-12 809
-
-|
-
-12 188
-
-|
-
-11 581
-
-|
-
-10 989
-
-|
-
-10 409
-
-|
-
-9 845
-
-|
-
-95 362
-
-|
-
-FR000000000000648
-
-|
-
-MONIER
-
-|
-
-Tuilerie Monier Marseille
-
-|
-
-11 548
-
-|
-
-11 347
-
-|
-
-11 144
-
-|
-
-10 940
-
-|
-
-10 732
-
-|
-
-10 523
-
-|
-
-10 311
-
-|
-
-10 098
-
-|
-
-86 643
-
-|
-
-FR000000000000649
-
-|
+Aéroports de Paris |
 
-SDCC
+Centrale thermique Bât. 128 |
 
-|
+3 937 |
 
-SDC Clichy
+3 523 |
 
-|
+3 121 |
 
-19 798
+2 730 |
 
-|
+2 352 |
 
-17 462
+1 986 |
 
-|
+1 632 |
 
-15 466
+1 291 |
 
-|
+20 572 |
 
-13 532
+FR000000000000646 |
 
-|
+EURENCO |
 
-11 658
+EURENCO |
 
-|
+14 095 |
 
-9 844
+13 446 |
 
-|
+12 809 |
 
-8 088
+12 188 |
 
-|
+11 581 |
 
-6 399
+10 989 |
 
-|
+10 409 |
 
-102 247
+9 845 |
 
-|
+95 362 |
 
-FR000000000000650
+FR000000000000648 |
 
-|
+MONIER |
 
-GENNEVILLIERS ENERGIE
+Tuilerie Monier Marseille |
 
-|
+11 548 |
 
-Chaufferie du Luth
+11 347 |
 
-|
+11 144 |
 
-14 262
+10 940 |
 
-|
+10 732 |
 
-12 763
+10 523 |
 
-|
+10 311 |
 
-11 306
+10 098 |
 
-|
+86 643 |
 
-9 896
+FR000000000000649 |
 
-|
+SDCC |
 
-8 530
+SDC Clichy |
 
-|
+19 798 |
 
-7 209
+17 462 |
 
-|
+15 466 |
 
-5 930
+13 532 |
 
-|
+11 658 |
 
-4 697
+9 844 |
 
-|
+8 088 |
 
-74 593
+6 399 |
 
-|
+102 247 |
 
-FR000000000000651
+FR000000000000650 |
 
-|
+GENNEVILLIERS ENERGIE |
 
-Société géothermale des Rives de la Marne
+Chaufferie du Luth |
 
-|
+14 262 |
 
-Société géothermale des Rives de la Marne
+12 763 |
 
-|
+11 306 |
 
-10 754
+9 896 |
 
-|
+8 530 |
 
-9 624
+7 209 |
 
-|
+5 930 |
 
-8 525
+4 697 |
 
-|
+74 593 |
 
-7 458
+FR000000000000651 |
 
-|
+Société géothermale des Rives de la Marne |
 
-6 425
+Société géothermale des Rives de la Marne |
 
-|
+10 754 |
 
-5 425
+9 624 |
 
-|
+8 525 |
 
-4 458
+7 458 |
 
-|
+6 425 |
 
-3 527
+5 425 |
 
-|
+4 458 |
 
-56 196
+3 527 |
 
-|
+56 196 |
 
 FR000000000000652
 
@@ -9730,41 +9468,23 @@ PLAINE COMMUNE ENERGIE |
 
 PLAINE COMMUNE ENERGIE NORD |
 
-7 919
+7 919 |
 
-|
+6 560 |
 
-6 560
+5 537 |
 
-|
+4 845 |
 
-5 537
+4 173 |
 
-|
+3 524 |
 
-4 845
+2 896 |
 
-|
+2 291 |
 
-4 173
-
-|
-
-3 524
-
-|
-
-2 896
-
-|
-
-2 291
-
-|
-
-37 745
-
-|
+37 745 |
 
 FR000000000000654
 
@@ -9774,285 +9494,145 @@ SGD
 
 |
 
-SGD Sucy-en-Brie
+SGD Sucy-en-Brie |
 
-|
+58 494 |
 
-58 494
+57 478 |
 
-|
+56 450 |
 
-57 478
+55 411 |
 
-|
+54 361 |
 
-56 450
+53 301 |
 
-|
+52 228 |
 
-55 411
+51 151 |
 
-|
+438 874 |
 
-54 361
+FR000000000000655 |
 
-|
+DI GIOVANNI ALBERT |
 
-53 301
+Kéraglass |
 
-|
+18 985 |
 
-52 228
+18 656 |
 
-|
+18 322 |
 
-51 151
+17 985 |
 
-|
+17 644 |
 
-438 874
+17 300 |
 
-|
+16 952 |
 
-FR000000000000655
+16 603 |
 
-|
+142 447 |
 
-DI GIOVANNI ALBERT
+FR000000000000657 |
 
-|
+Corning SAS |
 
-Kéraglass
+Corning SAS |
 
-|
+4 414 |
 
-18 985
+4 337 |
 
-|
+4 260 |
 
-18 656
+4 181 |
 
-|
+4 102 |
 
-18 322
+4 022 |
 
-|
+3 941 |
 
-17 985
+3 860 |
 
-|
+33 117 |
 
-17 644
+FR000000000000660 |
 
-|
+CHELLES CHALEUR |
 
-17 300
+CHELLES CHALEUR |
 
-|
+4 951 |
 
-16 952
+4 431 |
 
-|
+3 925 |
 
-16 603
+3 434 |
 
-|
+2 958 |
 
-142 447
+2 498 |
 
-|
+2 052 |
 
-FR000000000000657
+1 624 |
 
-|
+25 873 |
 
-Corning SAS
+FR000000000000661 |
 
-|
+Euro Disney Associés SCA |
 
-Corning SAS
+CEP (Centrale de Production d'Energie : chaufferie des parcs à thèmes) |
 
-|
+9 167 |
 
-4 414
+8 204 |
 
-|
+7 266 |
 
-4 337
+6 358 |
 
-|
+5 477 |
 
-4 260
+4 624 |
 
-|
+3 800 |
 
-4 181
+3 007 |
 
-|
+47 903 |
 
-4 102
+FR000000000000662 |
 
-|
+SOCCRAM |
 
-4 022
+SOCCRAM Chaufferie de la plaine du Lys (DAMMARIE) |
 
-|
+9 604 |
 
-3 941
+8 595 |
 
-|
+7 613 |
 
-3 860
+6 664 |
 
-|
+5 744 |
 
-33 117
+4 854 |
 
-|
+3 993 |
 
-FR000000000000660
+3 163 |
 
-|
-
-CHELLES CHALEUR
-
-|
-
-CHELLES CHALEUR
-
-|
-
-4 951
-
-|
-
-4 431
-
-|
-
-3 925
-
-|
-
-3 434
-
-|
-
-2 958
-
-|
-
-2 498
-
-|
-
-2 052
-
-|
-
-1 624
-
-|
-
-25 873
-
-|
-
-FR000000000000661
-
-|
-
-Euro Disney Associés SCA
-
-|
-
-CEP (Centrale de Production d'Energie : chaufferie des parcs à thèmes)
-
-|
-
-9 167
-
-|
-
-8 204
-
-|
-
-7 266
-
-|
-
-6 358
-
-|
-
-5 477
-
-|
-
-4 624
-
-|
-
-3 800
-
-|
-
-3 007
-
-|
-
-47 903
-
-|
-
-FR000000000000662
-
-|
-
-SOCCRAM
-
-|
-
-SOCCRAM Chaufferie de la plaine du Lys (DAMMARIE)
-
-|
-
-9 604
-
-|
-
-8 595
-
-|
-
-7 613
-
-|
-
-6 664
-
-|
-
-5 744
-
-|
-
-4 854
-
-|
-
-3 993
-
-|
-
-3 163
-
-|
-
-50 230
-
-|
+50 230 |
 
 FR000000000000663
 
@@ -10354,41 +9934,23 @@ SC2M chaufferie urbaine de MELUN-MONTAIGU
 
 |
 
-1 853
+1 853 |
 
-|
+1 659 |
 
-1 659
+1 469 |
 
-|
+1 286 |
 
-1 469
+1 107 |
 
-|
+935 |
 
-1 286
+769 |
 
-|
+608 |
 
-1 107
-
-|
-
-935
-
-|
-
-769
-
-|
-
-608
-
-|
-
-9 686
-
-|
+9 686 |
 
 FR000000000000670
 
@@ -10414,13 +9976,21 @@ Chaufferie Urbaine STHAL
 
 |
 
-0 |
+0
 
-0 |
+|
 
-0 |
+0
 
-0 |
+|
+
+0
+
+|
+
+0
+
+|
 
 0
 
@@ -10730,41 +10300,23 @@ Stockage Souterrain de BEYNES
 
 |
 
-20 240
+20 240 |
 
-|
+18 113 |
 
-18 113
+16 044 |
 
-|
+14 037 |
 
-16 044
+12 093 |
 
-|
+10 210 |
 
-14 037
+8 390 |
 
-|
+6 637 |
 
-12 093
-
-|
-
-10 210
-
-|
-
-8 390
-
-|
-
-6 637
-
-|
-
-105 764
-
-|
+105 764 |
 
 FR000000000000684
 
@@ -10778,41 +10330,23 @@ ITON SEINE
 
 |
 
-55 591
+55 591 |
 
-|
+54 626 |
 
-54 626
+53 649 |
 
-|
+52 661 |
 
-53 649
+51 664 |
 
-|
+50 657 |
 
-52 661
+49 636 |
 
-|
+48 613 |
 
-51 664
-
-|
-
-50 657
-
-|
-
-49 636
-
-|
-
-48 613
-
-|
-
-417 097
-
-|
+417 097 |
 
 FR000000000000685
 
@@ -10822,7 +10356,7 @@ OOME
 
 |
 
-OOME
+OOME, Carrières-sur-Seine 78
 
 |
 
@@ -10834,31 +10368,31 @@ OOME
 
 |
 
-844
+211
 
 |
 
-697
+174
 
 |
 
-600
+150
 
 |
 
-506
+126
 
 |
 
-416
+104
 
 |
 
-329
+82
 
 |
 
-5 696
+3 151
 
 |
 
@@ -10874,47 +10408,29 @@ PARLY 2
 
 |
 
-18 516
+18 516 |
 
-|
+16 570 |
 
-16 570
+14 680 |
 
-|
+12 848 |
 
-14 680
+11 075 |
 
-|
+9 359 |
 
-12 848
+7 699 |
 
-|
+6 098 |
 
-11 075
-
-|
-
-9 359
-
-|
-
-7 699
-
-|
-
-6 098
-
-|
-
-96 845
-
-|
+96 845 |
 
 FR000000000000688
 
 |
 
-M. Thierry CHARVET (Directeur de l'usine de Flins)
+SNC Renault (Flins)
 
 |
 
@@ -10930,31 +10446,31 @@ Usine Renault de Flins
 
 |
 
-45 888
+69 833
 
 |
 
-40 149
+68 548
 
 |
 
-34 586
+67 249
 
 |
 
-29 204
+65 938
 
 |
 
-23 996
+64 610
 
 |
 
-18 983
+63 278
 
 |
 
-302 502
+509 152
 
 |
 
@@ -11006,101 +10522,53 @@ Ciments Calcia - usine de Gargenville
 
 |
 
-FR000000000000691
+FR000000000000691 |
 
-|
+SOMEC (Société Mantaise d'Exploitation de Chauffage) |
 
-SOMEC (Société Mantaise d'Exploitation de Chauffage)
+Chaufferie urbaine SOMEC |
 
-|
+23 876 |
 
-Chaufferie urbaine SOMEC
+19 780 |
 
-|
+16 115 |
 
-23 876
+13 898 |
 
-|
+11 980 |
 
-19 780
+10 123 |
 
-|
+8 327 |
 
-16 115
+6 596 |
 
-|
+110 695 |
 
-13 898
+FR000000000000692 |
 
-|
+TERREAL |
 
-11 980
+TERREAL - LES MUREAUX |
 
-|
+8 871 |
 
-10 123
+8 717 |
 
-|
+8 562 |
 
-8 327
+8 403 |
 
-|
+8 245 |
 
-6 596
+8 084 |
 
-|
+7 921 |
 
-110 695
+7 758 |
 
-|
-
-FR000000000000692
-
-|
-
-TERREAL
-
-|
-
-TERREAL - LES MUREAUX
-
-|
-
-8 871
-
-|
-
-8 717
-
-|
-
-8 562
-
-|
-
-8 403
-
-|
-
-8 245
-
-|
-
-8 084
-
-|
-
-7 921
-
-|
-
-7 758
-
-|
-
-66 561
-
-|
+66 561 |
 
 FR000000000000693
 
@@ -11146,7 +10614,9 @@ PEUGEOT CITROEN POISSY SNC
 
 |
 
-361 027 |
+361 027
+
+|
 
 FR000000000000695
 
@@ -11156,9 +10626,7 @@ ALPA, ACIERIES ET LAMINOIRS DE PARIS
 
 |
 
-ALPA, ACIERIES ET LAMINOIRS DE PARIS
-
-|
+ALPA, ACIERIES ET LAMINOIRS DE PARIS |
 
 61 618
 
@@ -11292,17 +10760,11 @@ VELIDIS
 
 |
 
-FR000000000000699
+FR000000000000699 |
 
-|
+Peugeot Citroën Automobiles SA Vélizy |
 
-Peugeot Citroën Automobiles SA Vélizy
-
-|
-
-Peugeot Citroën Automobiles SA Vélizy
-
-|
+Peugeot Citroën Automobiles SA Vélizy |
 
 5 024
 
@@ -11324,7 +10786,9 @@ Peugeot Citroën Automobiles SA Vélizy
 
 |
 
-5 723 |
+5 723
+
+|
 
 5 608
 
@@ -11382,9 +10846,7 @@ Verseo
 
 |
 
-120 245
-
-|
+120 245 |
 
 FR000000000000701
 
@@ -11410,8 +10872,6 @@ IMPRIMERIE HELIO CORBEIL
 
 |
 
-0 |
-
 0
 
 |
@@ -11420,7 +10880,13 @@ IMPRIMERIE HELIO CORBEIL
 
 |
 
-0 |
+0
+
+|
+
+0
+
+|
 
 0
 
@@ -11430,53 +10896,29 @@ IMPRIMERIE HELIO CORBEIL
 
 |
 
-FR000000000000702
+FR000000000000702 |
 
-|
+ALTIS SEMICONDUCTOR |
 
-ALTIS SEMICONDUCTOR
+ALTIS |
 
-|
+8 415 |
 
-ALTIS
+8 268 |
 
-|
+8 121 |
 
-8 415
+7 972 |
 
-|
+7 821 |
 
-8 268
+7 668 |
 
-|
+7 513 |
 
-8 121
+7 358 |
 
-|
-
-7 972
-
-|
-
-7 821
-
-|
-
-7 668
-
-|
-
-7 513
-
-|
-
-7 358
-
-|
-
-63 136
-
-|
+63 136 |
 
 FR000000000000704
 
@@ -11486,201 +10928,103 @@ GIE EVRY
 
 |
 
-Chaufferie urbaine GIE EVRY
+Chaufferie urbaine GIE EVRY |
 
-|
+39 572 |
 
-39 572
+34 972 |
 
-|
+30 981 |
 
-34 972
+27 117 |
 
-|
+23 374 |
 
-30 981
+19 753 |
 
-|
+16 248 |
 
-27 117
+12 869 |
 
-|
+204 886 |
 
-23 374
+FR000000000000705 |
 
-|
+MAISON D'ARRET DE FLEURY-MEROGIS |
 
-19 753
+MAISON D'ARRET DE FLEURY-MEROGIS |
 
-|
+6 757 |
 
-16 248
+6 047 |
 
-|
+5 357 |
 
-12 869
+4 687 |
 
-|
+4 037 |
 
-204 886
+3 409 |
 
-|
+2 801 |
 
-FR000000000000705
+2 216 |
 
-|
+35 311 |
 
-MAISON D'ARRET DE FLEURY-MEROGIS
+FR000000000000706 |
 
-|
+SYNDICAT PRINCIPAL DES COPROPRIETAIRES DE GRIGNY 2 |
 
-MAISON D'ARRET DE FLEURY-MEROGIS
+Chaufferie de Grigny 2 |
 
-|
+12 214 |
 
-6 757
+10 930 |
 
-|
+9 683 |
 
-6 047
+8 475 |
 
-|
+7 306 |
 
-5 357
+6 174 |
 
-|
+5 078 |
 
-4 687
+4 022 |
 
-|
+63 882 |
 
-4 037
+FR000000000000707 |
 
-|
+CURMA |
 
-3 409
+CURMA LA BONDE |
 
-|
+27 512 |
 
-2 801
+22 628 |
 
-|
+19 138 |
 
-2 216
+16 745 |
 
-|
+14 425 |
 
-35 311
+12 180 |
 
-|
+10 008 |
 
-FR000000000000706
+7 917 |
 
-|
+130 553 |
 
-SYNDICAT PRINCIPAL DES COPROPRIETAIRES DE GRIGNY 2
+FR000000000000709 |
 
-|
+PACEMA |
 
-Chaufferie de Grigny 2
-
-|
-
-12 214
-
-|
-
-10 930
-
-|
-
-9 683
-
-|
-
-8 475
-
-|
-
-7 306
-
-|
-
-6 174
-
-|
-
-5 078
-
-|
-
-4 022
-
-|
-
-63 882
-
-|
-
-FR000000000000707
-
-|
-
-CURMA
-
-|
-
-CURMA LA BONDE
-
-|
-
-27 512
-
-|
-
-22 628
-
-|
-
-19 138
-
-|
-
-16 745
-
-|
-
-14 425
-
-|
-
-12 180
-
-|
-
-10 008
-
-|
-
-7 917
-
-|
-
-130 553
-
-|
-
-FR000000000000709
-
-|
-
-PACEMA
-
-|
-
-PACEMA
-
-|
+PACEMA |
 
 8 874
 
@@ -11690,165 +11034,105 @@ PACEMA
 
 |
 
-0 |
+0
 
-0 |
+|
 
-0 |
+0
 
-0 |
+|
 
-0 |
+0
 
-0 |
+|
+
+0
+
+|
+
+0
+
+|
+
+0
+
+|
 
 17 594
 
 |
 
-FR000000000000711
+FR000000000000711 |
 
-|
+Aéroports de Paris |
 
-Aéroports de Paris
+Centrale thermique principale |
 
-|
+16 909 |
 
-Centrale thermique principale
+15 132 |
 
-|
+13 403 |
 
-16 909
+11 727 |
 
-|
+10 103 |
 
-15 132
+8 530 |
 
-|
+7 009 |
 
-13 403
+5 545 |
 
-|
+88 358 |
 
-11 727
+FR000000000000712 |
 
-|
+COFELY GDFSUEZ |
 
-10 103
+SAINT-MICHEL-SUR-ORGE |
 
-|
+9 418 |
 
-8 530
+8 429 |
 
-|
+7 467 |
 
-7 009
+6 535 |
 
-|
+5 634 |
 
-5 545
+4 760 |
 
-|
+3 916 |
 
-88 358
+3 102 |
 
-|
+49 261 |
 
-FR000000000000712
+FR000000000000713 |
 
-|
+IDEX ENERGIES |
 
-COFELY GDFSUEZ
+IDEX ENERGIES - chaufferie de Vigneux-sur-Seine |
 
-|
+9 518 |
 
-SAINT-MICHEL-SUR-ORGE
+8 518 |
 
-|
+7 546 |
 
-9 418
+6 605 |
 
-|
+5 693 |
 
-8 429
+4 812 |
 
-|
+3 958 |
 
-7 467
+3 134 |
 
-|
-
-6 535
-
-|
-
-5 634
-
-|
-
-4 760
-
-|
-
-3 916
-
-|
-
-3 102
-
-|
-
-49 261
-
-|
-
-FR000000000000713
-
-|
-
-IDEX ENERGIES
-
-|
-
-IDEX ENERGIES - chaufferie de Vigneux-sur-Seine
-
-|
-
-9 518
-
-|
-
-8 518
-
-|
-
-7 546
-
-|
-
-6 605
-
-|
-
-5 693
-
-|
-
-4 812
-
-|
-
-3 958
-
-|
-
-3 134
-
-|
-
-49 784
-
-|
+49 784 |
 
 FR000000000000714
 
@@ -11858,45 +11142,25 @@ SOCCRAM
 
 |
 
-SOCCRAM Chaufferie Grande Borne (Viry-Châtillon)
+SOCCRAM Chaufferie Grande Borne (Viry-Châtillon) |
 
-|
+8 382 |
 
-8 382
+7 501 |
 
-|
+6 644 |
 
-7 501
+5 816 |
 
-|
+5 013 |
 
-6 644
+4 236 |
 
-|
+3 485 |
 
-5 816
+2 760 |
 
-|
-
-5 013
-
-|
-
-4 236
-
-|
-
-3 485
-
-|
-
-2 760
-
-|
-
-43 837
-
-|
+43 837 |
 
 FR000000000000715
 
@@ -12002,7 +11266,7 @@ SEFIR
 
 |
 
-Chaufferie urbaine Fossés Trempés
+Chaufferie urbaine Fossés Trempés Franconville
 
 |
 
@@ -12014,31 +11278,31 @@ Chaufferie urbaine Fossés Trempés
 
 |
 
-3 931
+1 966
 
 |
 
-3 441
+1 721
 
 |
 
-2 966
+1 483
 
 |
 
-2 507
+1 254
 
 |
 
-2 062
+1 031
 
 |
 
-1 633
+817
 
 |
 
-25 937
+17 669
 
 |
 
@@ -12050,7 +11314,7 @@ SEFIR
 
 |
 
-Chaufferie urbaine Logis Verts
+Chaufferie urbaine Logis Verts Franconville
 
 |
 
@@ -12062,31 +11326,31 @@ Chaufferie urbaine Logis Verts
 
 |
 
-4 661
+2 330
 
 |
 
-4 079
+2 040
 
 |
 
-3 517
+1 758
 
 |
 
-2 972
+1 486
 
 |
 
-2 444
+1 222
 
 |
 
-1 936
+968
 
 |
 
-30 749
+20 944
 
 |
 
@@ -12110,17 +11374,25 @@ Chaufferie Van-Gogh - Garges
 
 |
 
-0 |
+0
 
-0 |
+|
 
 0
 
 |
 
-0 |
+0
 
-0 |
+|
+
+0
+
+|
+
+0
+
+|
 
 0
 

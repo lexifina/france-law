@@ -56,47 +56,47 @@ FR000000000000002
 
 |
 
-SAICA PAPER FRANCE
+NESTLE France SAS
 
 |
 
-SAICA VENIZEL
+NESTLE France-Usine de Boué
 
 |
 
-59192
+18 618
 
 |
 
-58164
+16 661
 
 |
 
-57123
+22 459
 
 |
 
-56072
+22 046
 
 |
 
-55010
+21 628
 
 |
 
-53937
+21 206
 
 |
 
-52851
+20 779
 
 |
 
-51761
+20 351
 
 |
 
-444110
+163 748
 
 |
 
@@ -1352,7 +1352,7 @@ FR000000000000041
 
 |
 
-VSPU
+COFELY Services
 
 |
 
@@ -1368,31 +1368,31 @@ VSPU
 
 |
 
-18 222
+4 556
 
 |
 
-17 887
+4 472
 
 |
 
-17 548
+4 387
 
 |
 
-17 206
+4 302
 
 |
 
-16 859
+4 215
 
 |
 
-16 512
+4 128
 
 |
 
-141 670
+63 496
 
 |
 
@@ -2792,11 +2792,11 @@ FR000000000000086
 
 |
 
-NP ROLPIN
+ROLPIN
 
 |
 
-NP ROLPIN
+ROLPIN (Site de Labouheyre)
 
 |
 
@@ -2808,31 +2808,31 @@ NP ROLPIN
 
 |
 
-13 707
+9 007
 
 |
 
-13 455
+7 881
 
 |
 
-13 201
+6 789
 
 |
 
-12 943
+5 733
 
 |
 
-12 682
+4 710
 
 |
 
-12 421
+3 726
 
 |
 
-106 571
+66 008
 
 |
 
@@ -2856,31 +2856,31 @@ DARBO SAS
 
 |
 
-44 705
+29 376
 
 |
 
-43 882
+25 702
 
 |
 
-43 051
+22 141
 
 |
 
-42 211
+18 695
 
 |
 
-41 361
+15 362
 
 |
 
-40 509
+12 153
 
 |
 
-347 561
+215 271
 
 |
 
@@ -2940,7 +2940,7 @@ EGGER Panneaux et Décors
 
 |
 
-EGGER Panneaux et Décors 40
+EGGER Panneaux et Décors
 
 |
 
@@ -2952,31 +2952,31 @@ EGGER Panneaux et Décors 40
 
 |
 
-50 940
+33 472
 
 |
 
-50 002
+29 286
 
 |
 
-49 055
+25 229
 
 |
 
-48 098
+21 303
 
 |
 
-47 130
+17 504
 
 |
 
-46 158
+13 847
 
 |
 
-396 034
+245 292
 
 |
 
@@ -4296,31 +4296,31 @@ LESAFFRE INGREDIENTS SERVICES
 
 |
 
-9 886
+12 606
 
 |
 
-8 649
+11 876
 
 |
 
-7 451
+11 162
 
 |
 
-6 292
+10 465
 
 |
 
-5 169
+9 784
 
 |
 
-4 090
+9 123
 
 |
 
-65 169
+88 648
 
 |
 
@@ -4540,27 +4540,27 @@ Chaufferie CHRU Côte de Nacre
 
 |
 
-5 948
+741
 
 |
 
-5 124
+638
 
 |
 
-4 326
+539
 
 |
 
-3 555
+443
 
 |
 
-2 812
+350
 
 |
 
-44 814
+12 908
 
 |
 
@@ -4584,31 +4584,31 @@ SEMMERET
 
 |
 
-3 431
+858
 
 |
 
-2 962
+741
 
 |
 
-2 551
+638
 
 |
 
-2 154
+539
 
 |
 
-1 770
+443
 
 |
 
-1 401
+350
 
 |
 
-23 608
+12 908
 
 |
 
@@ -4956,7 +4956,7 @@ CHALON ENERGIE
 
 |
 
-Chaufferie des Aubépins (CHALON)
+CHALON ENERGIE chaufferie des Aubépins (CHALON)
 
 |
 
@@ -4968,31 +4968,31 @@ Chaufferie des Aubépins (CHALON)
 
 |
 
-8 809
+2 202
 
 |
 
-7 386
+1 847
 
 |
 
-6 363
+1 591
 
 |
 
-5 373
+1 343
 
 |
 
-4 415
+1 104
 
 |
 
-3 493
+873
 
 |
 
-59 953
+33 074
 
 |
 
@@ -5432,7 +5432,9 @@ FR000000000000158
 
 |
 
-TOKAI RUBBER INDUSTRIE |
+TOKAI RUBBER INDUSTRIE
+
+|
 
 TOKAI RUBBER INDUSTRIE
 
@@ -5446,31 +5448,31 @@ TOKAI RUBBER INDUSTRIE
 
 |
 
-5 285
+8 043
 
 |
 
-4 624
+7 895
 
 |
 
-3 984
+7 746
 
 |
 
-3 364
+7 595
 
 |
 
-2 764
+7 442
 
 |
 
-2 186
+7 288
 
 |
 
-34 843
+58 645
 
 |
 
@@ -5778,35 +5780,35 @@ LAITERIE NOUVELLE DE L'ARGUENON
 
 |
 
-13 902
+14 994
 
 |
 
-13 134
+14 490
 
 |
 
-12 385
+13 993
 
 |
 
-11 651
+13 502
 
 |
 
-10 936
+13 016
 
 |
 
-10 237
+12 537
 
 |
 
-9 556
+12 065
 
 |
 
-96 484
+109 280
 
 |
 
@@ -6502,31 +6504,31 @@ ENERSUD chaufferie urbaine du Blosnes (ZUP Sud RENNES)
 
 |
 
-35 729
+17 865
 
 |
 
-31 273
+15 637
 
 |
 
-26 956
+13 478
 
 |
 
-22 779
+11 390
 
 |
 
-18 738
+9 369
 
 |
 
-14 842
+7 421
 
 |
 
-235 715
+160 558
 
 |
 
@@ -6694,31 +6696,31 @@ VALAB
 
 |
 
-5 360
+8 157
 
 |
 
-4 689
+8 007
 
 |
 
-4 040
+7 855
 
 |
 
-3 411
+7 702
 
 |
 
-2 803
+7 547
 
 |
 
-2 218
+7 391
 
 |
 
-35 335
+59 473
 
 |
 
@@ -8422,31 +8424,31 @@ SOFREC-SEM
 
 |
 
-2 733
+4 160
 
 |
 
-2 392
+4 083
 
 |
 
-2 060
+4 006
 
 |
 
-1 740
+3 928
 
 |
 
-1 429
+3 848
 
 |
 
-1 131
+3 769
 
 |
 
-18 019
+30 328
 
 |
 
@@ -8550,11 +8552,11 @@ FR000000000000240
 
 |
 
-PNEUMATIQUES KLEBER
+MICHELIN
 
 |
 
-PNEUMATIQUES KLEBER
+Pneumatiques Michelin
 
 |
 
@@ -9174,11 +9176,11 @@ FR000000000000253
 
 |
 
-TOTAL RAFFINAGE FRANCE, raffinerie de Normandie
+TOTAL RAFFINAGE France, raffinerie de NORMANDIE
 
 |
 
-TOTAL RAFFINAGE FRANCE, raffinerie de Normandie
+TOTAL RAFFINAGE France, raffinerie de NORMANDIE
 
 |
 
@@ -9186,35 +9188,35 @@ TOTAL RAFFINAGE FRANCE, raffinerie de Normandie
 
 |
 
-1 992 230
+1 806 781
 
 |
 
-1 956 601
+1 774 468
 
 |
 
-1 920 601
+1 741 820
 
 |
 
-1 884 213
+1 708 819
 
 |
 
-1 847 470
+1 675 496
 
 |
 
-1 810 270
+1 641 759
 
 |
 
-1 772 941
+1 607 905
 
 |
 
-15 211 771
+13 984 493
 
 |
 
@@ -9654,11 +9656,11 @@ FR000000000000267
 
 |
 
-SECC-Sté d'Exploitation de centrales de chauffe
+IDEX ENERGIES
 
 |
 
-SECC LE HAVRE
+IDEX LE HAVRE
 
 |
 
@@ -9798,11 +9800,11 @@ FR000000000000273
 
 |
 
-SNC Renault (Sandouville)
+SNC Renault Sandouville
 
 |
 
-Usine Renault de Sandouville
+SNC Renault Sandouville
 
 |
 
@@ -9814,31 +9816,31 @@ Usine Renault de Sandouville
 
 |
 
-19 164
+30 409
 
 |
 
-18 811
+29 849
 
 |
 
-18 455
+29 283
 
 |
 
-18 094
+28 712
 
 |
 
-17 730
+28 134
 
 |
 
-17 365
+27 554
 
 |
 
-139 721
+204 043
 
 |
 
@@ -9846,7 +9848,7 @@ FR000000000000274
 
 |
 
-SNC Renault (CLEON)
+SNC Renault (Cléon)
 
 |
 
@@ -9854,39 +9856,39 @@ Usine Renault de Cléon
 
 |
 
-18 186
+26 369
 
 |
 
-16 275
+24 629
 
 |
 
-24 358
+15 746
 
 |
 
-24 403
+15 458
 
 |
 
-24 424
+15 167
 
 |
 
-24 430
+14 880
 
 |
 
-24 411
+14 590
 
 |
 
-24 369
+14 295
 
 |
 
-180 856
+141 134
 
 |
 
@@ -10822,31 +10824,31 @@ LANXESS Elastomères
 
 |
 
-66 391
+0
 
 |
 
-65 170
+0
 
 |
 
-63 935
+0
 
 |
 
-62 689
+0
 
 |
 
-61 426
+0
 
 |
 
-60 160
+0
 
 |
 
-516 166
+136 395
 
 |
 
@@ -12010,7 +12012,7 @@ EUROSERUM SA
 
 |
 
-EUROSERUM PORT-SUR-SAONE
+EUROSERUM Port-sur-Saône
 
 |
 
@@ -12018,35 +12020,35 @@ EUROSERUM PORT-SUR-SAONE
 
 |
 
-10 981
+15 071
 
 |
 
-9 726
+14 801
 
 |
 
-8 510
+14 529
 
 |
 
-7 331
+14 254
 
 |
 
-6 190
+13 976
 
 |
 
-5 086
+13 694
 
 |
 
-4 024
+13 412
 
 |
 
-64 118
+112 007
 
 |
 
@@ -12070,31 +12072,31 @@ PARISOT SAS
 
 |
 
-2 822
+4 295
 
 |
 
-2 469
+4 216
 
 |
 
-2 127
+4 136
 
 |
 
-1 796
+4 056
 
 |
 
-1 476
+3 974
 
 |
 
-1 167
+3 892
 
 |
 
-18 605
+31 317
 
 |
 
@@ -12246,11 +12248,11 @@ FR000000000000334
 
 |
 
-SOCIETE DE DISTRIBUTION DE CHALEUR DE LIMOGES BEAUBREUIL
+SDCLB
 
 |
 
-SDCL BEAUBREUIL
+Dalkia-SDCL-BEAUBREUIL
 
 |
 
@@ -12262,31 +12264,31 @@ SDCL BEAUBREUIL
 
 |
 
-635
+159
 
 |
 
-556
+139
 
 |
 
-479
+120
 
 |
 
-405
+101
 
 |
 
-332
+83
 
 |
 
-263
+66
 
 |
 
-4 189
+2 187
 
 |
 
@@ -12342,11 +12344,11 @@ FR000000000000336
 
 |
 
-ISOROY USSEL
+PANNEAUX DE CORREZE
 
 |
 
-ISOROY USSEL
+PANNEAUX DE CORREZE
 
 |
 
@@ -12406,31 +12408,31 @@ Bledina usine de Brive
 
 |
 
-3 724
+2 836
 
 |
 
-3 258
+2 784
 
 |
 
-2 807
+2 731
 
 |
 
-2 370
+2 678
 
 |
 
-1 947
+2 624
 
 |
 
-1 540
+2 570
 
 |
 
-24 548
+25 125
 
 |
 
@@ -12586,7 +12588,7 @@ SOCIETE DE DISTRIBUTION DE CHALEUR DE LIMOGES (SDCL)
 
 |
 
-SDCL L'AURENCE
+Dakia-SDCL L'AURENCE
 
 |
 
@@ -12598,31 +12600,31 @@ SDCL L'AURENCE
 
 |
 
-11 660
+2 915
 
 |
 
-10 206
+2 552
 
 |
 
-8 797
+2 199
 
 |
 
-7 434
+1 859
 
 |
 
-6 115
+1 529
 
 |
 
-4 843
+1 211
 
 |
 
-76 924
+40 134
 
 |
 
@@ -12886,31 +12888,31 @@ STORENGY stockage souterrain d'ETREZ
 
 |
 
-17 149
+9 301
 
 |
 
-15 004
+8 138
 
 |
 
-12 925
+7 010
 
 |
 
-10 913
+5 919
 
 |
 
-8 968
+4 864
 
 |
 
-7 095
+3 848
 
 |
 
-113 048
+80 074
 
 |
 

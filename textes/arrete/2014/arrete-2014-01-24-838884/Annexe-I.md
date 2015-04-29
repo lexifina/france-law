@@ -440,7 +440,7 @@ EDF UNITÉ DE PRODUCTION THERMIQUE DU HAVRE
 
 |
 
-FR-New-06208313
+FR-new-06208313
 
 |
 
@@ -452,7 +452,7 @@ TOUL POWER SAS, centrale électrique de Toul
 
 |
 
-FR-New-06900399
+FR-new-06900399
 
 |
 
@@ -476,7 +476,7 @@ EDF PEI centrale de Pointe Jarry
 
 |
 
-FR-New-06900568
+FR-new-06900568
 
 |
 
@@ -536,7 +536,9 @@ GLOBAL SWITCH
 
 |
 
-FR-new40000003 |
+FR-new40000003
+
+|
 
 Electricité de Mayotte
 
@@ -546,7 +548,37 @@ EDM Centrale de Badamiers
 
 |
 
-FR-new40000024 |
+FR000000000000451
+
+|
+
+EDF |
+
+CENTRALE DE BLÉNOD
+
+|
+
+Fr-new-10009485
+
+|
+
+UNIBIENS (CREDIT AGRICOLE) |
+
+UNIBIENS Site de Fontaine |
+
+Fr-new-10009486
+
+|
+
+UNIBIENS (CREDIT AGRICOLE) |
+
+UNIBIENS Site de Mainvilliers
+
+|
+
+FR-new40000024
+
+|
 
 Electricité de Mayotte
 

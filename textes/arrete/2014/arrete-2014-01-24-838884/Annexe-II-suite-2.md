@@ -152,11 +152,11 @@ FR000000000000727
 
 |
 
-CPCU
+COMPAGNIE PARISIENNE DE CHAUFFAGE URBAIN
 
 |
 
-CPCU - BERCY
+CPCU-Bercy
 
 |
 
@@ -168,31 +168,31 @@ CPCU - BERCY
 
 |
 
-32 736
+16 368
 
 |
 
-28 642
+14 321
 
 |
 
-24 674
+12 337
 
 |
 
-20 834
+10 417
 
 |
 
-17 118
+8 559
 
 |
 
-13 543
+6 772
 
 |
 
-218 684
+149 911
 
 |
 
@@ -296,11 +296,11 @@ FR000000000000730
 
 |
 
-CPCU
+COMPAGNIE PARISIENNE DE CHAUFFAGE URBAIN
 
 |
 
-CPCU - Grenelle
+CPCU-Grenelle
 
 |
 
@@ -312,31 +312,31 @@ CPCU - Grenelle
 
 |
 
-31 442
+15 721
 
 |
 
-27 510
+13 755
 
 |
 
-23 699
+11 850
 
 |
 
-20 010
+10 005
 
 |
 
-16 443
+8 221
 
 |
 
-13 008
+6 504
 
 |
 
-207 277
+141 221
 
 |
 
@@ -732,7 +732,9 @@ DALKIA
 
 |
 
-Chaufferie Urbaine DALKIA-Chaufferie SEM |
+Chaufferie Urbaine DALKIA-Chaufferie SEM
+
+|
 
 3 344
 
@@ -1062,9 +1064,13 @@ FR000000000000755
 
 |
 
-E. P. S VILLE EVRARD |
+E. P. S VILLE EVRARD
 
-Chaufferie EPS VILLE EVRARD |
+|
+
+Chaufferie EPS VILLE EVRARD
+
+|
 
 3 780
 
@@ -1442,7 +1448,7 @@ FR000000000000763
 
 |
 
-CPCU
+COMPAGNIE PARISIENNE DE CHAUFFAGE URBAIN
 
 |
 
@@ -1458,31 +1464,31 @@ Kremlin-Bicêtre
 
 |
 
-61
+15
 
 |
 
-54
+14
 
 |
 
-46
+12
 
 |
 
-39
+10
 
 |
 
-32
+8
 
 |
 
-26
+7
 
 |
 
-404
+212
 
 |
 
@@ -1586,11 +1592,11 @@ FR000000000000766
 
 |
 
-CPCU
+COMPAGNIE PARISIENNE DE CHAUFFAGE URBAIN
 
 |
 
-CPCU - Ivry
+CPCU-Yvry
 
 |
 
@@ -1602,31 +1608,31 @@ CPCU - Ivry
 
 |
 
-13 103
+6 552
 
 |
 
-11 069
+5 535
 
 |
 
-9 536
+4 768
 
 |
 
-8 052
+4 026
 
 |
 
-6 616
+3 308
 
 |
 
-5 234
+2 617
 
 |
 
-87 794
+60 990
 
 |
 
@@ -1650,31 +1656,31 @@ Bio Springer Maisons-Alfort
 
 |
 
-24 926
+37 933
 
 |
 
-21 817
+37 249
 
 |
 
-18 806
+36 556
 
 |
 
-15 892
+35 882
 
 |
 
-13 072
+35 198
 
 |
 
-10 354
+34 514
 
 |
 
-164 749
+277 224
 
 |
 
@@ -2018,9 +2024,11 @@ FR000000000000783
 
 |
 
-TRANSPORT ET INFRASTRUCTURES GAZ (TIGF) |
+TRANSPORT ET INFRASTRUCTURES GAZ France (TIGF)
 
-TRANSPORT ET INFRASTRUCTURES GAZ (TIGF)-Station de compression de BARBAIRA
+|
+
+TRANSPORT ET INFRASTRUCTURES GAZ FRANCE (TIGF)-Station de compression de BARBAIRA
 
 |
 
@@ -2560,15 +2568,9 @@ CONSERVES France - site de Vauvert
 
 |
 
-0 |
-
 0
 
 |
-
-0 |
-
-0 |
 
 0
 
@@ -2578,7 +2580,21 @@ CONSERVES France - site de Vauvert
 
 |
 
-9 465 |
+0
+
+|
+
+0
+
+|
+
+0
+
+|
+
+9 465
+
+|
 
 FR000000000000800
 
@@ -4092,15 +4108,25 @@ Fabrication de papier et de carton
 
 |
 
-0 |
+0
 
-0 |
+|
 
-0 |
+0
 
-0 |
+|
 
-0 |
+0
+
+|
+
+0
+
+|
+
+0
+
+|
 
 80 332
 
@@ -4702,31 +4728,31 @@ TARNAISE DES PANNEAUX SAS
 
 |
 
-21 113
+13 874
 
 |
 
-20 725
+12 139
 
 |
 
-20 332
+10 457
 
 |
 
-19 936
+8 829
 
 |
 
-19 534
+7 255
 
 |
 
-19 131
+5 739
 
 |
 
-164 147
+101 669
 
 |
 
@@ -5274,29 +5300,35 @@ IMERYS TC BLAJAN
 
 |
 
-30 037
+3 037
 
 |
 
-2 983
+0
 
 |
 
-2 928
+0
 
 |
 
-2 872 |
-
-2 816 |
-
-2 759
+0
 
 |
 
-2 703 |
+0
 
-26 278
+|
+
+0
+
+|
+
+0
+
+|
+
+9 217
 
 |
 
@@ -5644,7 +5676,9 @@ Holcim France Dannes
 
 |
 
-HOLCIM France DANNES |
+HOLCIM France DANNES
+
+|
 
 267 318
 
@@ -5670,7 +5704,9 @@ HOLCIM France DANNES |
 
 |
 
-0 |
+0
+
+|
 
 0
 
@@ -5988,31 +6024,31 @@ Blédina - site de Steenvoorde
 
 |
 
-9 463
+14 401
 
 |
 
-8 280
+14 136
 
 |
 
-7 132
+13 868
 
 |
 
-6 023
+13 598
 
 |
 
-4 949
+13 324
 
 |
 
-3 914
+13 049
 
 |
 
-62 383
+104 998
 
 |
 
@@ -6424,21 +6460,29 @@ MC CAIN
 
 |
 
-26 145 |
+26 145
+
+|
 
 25 649
 
 |
 
-25 149 |
+25 149
+
+|
 
 24 643
 
 |
 
-24 135 |
+24 135
 
-201 555 |
+|
+
+201 555
+
+|
 
 FR000000000000924
 
@@ -6492,7 +6536,9 @@ FR000000000000928
 
 |
 
-SNC RENAULT (Douai) |
+SNC RENAULT (Douai)
+
+|
 
 Usine Renault de Douai
 
@@ -6506,25 +6552,31 @@ Usine Renault de Douai
 
 |
 
-45 823 |
-
-44 979 |
-
-44 128
+30 293
 
 |
 
-43 267 |
-
-42 396
+29 735
 
 |
 
-41 521
+29 172
 
 |
 
-334 094
+28 603
+
+|
+
+28 027
+
+|
+
+27 449
+
+|
+
+245 259
 
 |
 
@@ -6532,7 +6584,9 @@ FR000000000000931
 
 |
 
-SA CH Daudruy Vancuwen berghe |
+SA CH Daudruy Vancuwen berghe
+
+|
 
 SA CH Daudruy Vancuwen berghe
 
@@ -6554,7 +6608,9 @@ SA CH Daudruy Vancuwen berghe
 
 |
 
-16 369 |
+16 369
+
+|
 
 16 049
 
@@ -6932,11 +6988,17 @@ McCAIN Alimentaire Harnes
 
 |
 
-38 158 |
+38 158
 
-37 435 |
+|
 
-36 705 |
+37 435
+
+|
+
+36 705
+
+|
 
 35 966
 
@@ -6946,7 +7008,9 @@ McCAIN Alimentaire Harnes
 
 |
 
-294 166 |
+294 166
+
+|
 
 FR000000000000942
 
@@ -7020,11 +7084,17 @@ BCI Vaulx-Vraucourt
 
 |
 
-0 |
+0
 
-0 |
+|
 
-0 |
+0
+
+|
+
+0
+
+|
 
 0
 
@@ -7042,9 +7112,13 @@ FR000000000000945
 
 |
 
-MAGNESITA REFRACTORIES SCS |
+MAGNESITA REFRACTORIES SCS
 
-MAGNESITA |
+|
+
+MAGNESITA
+
+|
 
 14 296
 
@@ -7078,7 +7152,9 @@ MAGNESITA |
 
 |
 
-28 343 |
+28 343
+
+|
 
 FR000000000000946
 
@@ -7180,9 +7256,13 @@ FR000000000000948
 
 |
 
-TOTAL RAFFINAGE France |
+TOTAL RAFFINAGE France
 
-TOTAL RAFFINAGE France à Mardick |
+|
+
+TOTAL RAFFINAGE France à Mardick
+
+|
 
 59 810
 
@@ -7192,17 +7272,29 @@ TOTAL RAFFINAGE France à Mardick |
 
 |
 
-0 |
+0
 
-0 |
+|
 
-0 |
+0
 
-0 |
+|
 
-0 |
+0
 
-0 |
+|
+
+0
+
+|
+
+0
+
+|
+
+0
+
+|
 
 113 336
 
@@ -7356,11 +7448,11 @@ FR000000000000954
 
 |
 
-STORA ENSO CORBEHEM SAS
+STORAENSO CORBEHEM SAS
 
 |
 
-STORA ENSO CORBEHEM
+STORAENSO CORBEHEM
 
 |
 
@@ -7372,31 +7464,31 @@ STORA ENSO CORBEHEM
 
 |
 
-93 599
+0
 
 |
 
-91 877
+0
 
 |
 
-90 136
+0
 
 |
 
-88 379
+0
 
 |
 
-86 599
+0
 
 |
 
-84 813
+0
 
 |
 
-727 695
+192 292
 
 |
 
@@ -7408,7 +7500,9 @@ ArcelorMittal Atlantique et Lorraine - Site de Mardyck
 
 |
 
-ArcelorMittal Atlantique et Lorraine - Site de Mardyck |
+ArcelorMittal Atlantique et Lorraine - Site de Mardyck
+
+|
 
 72 955
 
@@ -7450,7 +7544,9 @@ FR000000000000956
 
 |
 
-ArcelorMittal Atlantique et Lorraine - Site de Dunkerque |
+ArcelorMittal Atlantique et Lorraine - Site de Dunkerque
+
+|
 
 ArcelorMittal Atlantique et Lorraine - Site de Dunkerque
 
@@ -7596,7 +7692,9 @@ DALKIA
 
 |
 
-Chaufferie "Les Cèdres" Villeneuve-d'Ascq |
+Chaufferie "Les Cèdres" Villeneuve-d'Ascq
+
+|
 
 3 258
 
@@ -7690,7 +7788,9 @@ DALKIA
 
 |
 
-Chaufferie de la Blanchisserie du CHRU LILLE |
+Chaufferie de la Blanchisserie du CHRU LILLE
+
+|
 
 1 687
 
@@ -7736,7 +7836,9 @@ DALKIA
 
 |
 
-Chaufferie de la ZUP Grande Résidence |
+Chaufferie de la ZUP Grande Résidence
+
+|
 
 4 704
 
@@ -7830,7 +7932,9 @@ DALKIA
 
 |
 
-Chaufferie de la ZUP du Blanc RIEZ Wattignies |
+Chaufferie de la ZUP du Blanc RIEZ Wattignies
+
+|
 
 6 026
 
@@ -9008,7 +9112,9 @@ Chaufferie du Quartier de la République
 
 |
 
-0 |
+0
+
+|
 
 0
 
@@ -9454,7 +9560,9 @@ FR000000000001007
 
 |
 
-SA BRIQUETERIES DU NORD |
+SA BRIQUETERIES DU NORD
+
+|
 
 Briqueterie de TEMPLEUVE
 
@@ -9788,9 +9896,13 @@ FR000000000001016
 
 |
 
-ALBIOMA BOIS ROUGE |
+ALBIOMA BOIS ROUGE
 
-ALBIOMA BOIS ROUGE |
+|
+
+ALBIOMA BOIS ROUGE
+
+|
 
 56 489
 
@@ -9848,21 +9960,33 @@ BONILAIT PROTEINES
 
 |
 
-18 874 |
+18 874
 
-18 534 |
+|
 
-18 194 |
+18 534
 
-17 854 |
+|
 
-17 513 |
+18 194
+
+|
+
+17 854
+
+|
+
+17 513
+
+|
 
 17 173
 
 |
 
-143 001 |
+143 001
+
+|
 
 FR000000000001021
 
@@ -10208,7 +10332,9 @@ SAS SOFIVO
 
 |
 
-SAS SOFIVO |
+SAS SOFIVO
+
+|
 
 18 524
 
@@ -10494,7 +10620,9 @@ DALKIA
 
 |
 
-CHAUFFERIE DES COURONNERIES-POITIERS |
+CHAUFFERIE DES COURONNERIES-POITIERS
+
+|
 
 6 559
 
@@ -10828,7 +10956,9 @@ International Cookware
 
 |
 
-International Cookware SAS |
+International Cookware SAS
+
+|
 
 12 347
 
@@ -10970,7 +11100,9 @@ DALKIA
 
 |
 
-RESEAU DE CHAUFFAGE URBAIN DE JOUE-LES-TOURS |
+RESEAU DE CHAUFFAGE URBAIN DE JOUE-LES-TOURS
+
+|
 
 13 532
 
@@ -11036,7 +11168,9 @@ STORENGY Stockage souterrain de Céré-la-Ronde
 
 |
 
-1 629 |
+1 629
+
+|
 
 1 376
 
@@ -11074,31 +11208,31 @@ Usine MICHELIN de JOUE-LES-TOURS
 
 |
 
-20 204
+10 102
 
 |
 
-19 833
+9 917
 
 |
 
-19 457
+9 729
 
 |
 
-19 077
+9 539
 
 |
 
-18 693
+9 347
 
 |
 
-18 308
+9 154
 
 |
 
-157 080
+99 296
 
 |
 
@@ -11276,7 +11410,9 @@ SCA TISSUE FRANCE Usine de Gien
 
 |
 
-50 272 |
+50 272
+
+|
 
 49 234
 
@@ -11286,9 +11422,13 @@ SCA TISSUE FRANCE Usine de Gien
 
 |
 
-47 136 |
+47 136
 
-420 794 |
+|
+
+420 794
+
+|
 
 FR000000000001072
 
@@ -11502,27 +11642,31 @@ SOCOS
 
 |
 
-14 947
+7 473
 
 |
 
-13 083 |
-
-11 277
+6 541
 
 |
 
-9 530 |
-
-7 839
+5 639
 
 |
 
-6 209
+4 765
 
 |
 
-117 463
+3 919
+
+|
+
+3 105
+
+|
+
+86 020
 
 |
 
@@ -11722,11 +11866,11 @@ FR000000000001082
 
 |
 
-Société Bléboise de Distribution de Chaleur (SBDC)
+Société bléboise de distribution de chaleur (SBDC)
 
 |
 
-Chaufferie Urbaine ZUP de Blois
+Chaufferie urbaine ZUP de Blois
 
 |
 
@@ -11738,31 +11882,31 @@ Chaufferie Urbaine ZUP de Blois
 
 |
 
-10 669
+5 335
 
 |
 
-9 334
+4 667
 
 |
 
-8 041
+4 021
 
 |
 
-6 790
+3 395
 
 |
 
-5 579
+2 790
 
 |
 
-4 414
+2 207
 
 |
 
-70 331
+47 919
 
 |
 
@@ -12158,7 +12302,9 @@ KRONOFRANCE
 
 |
 
-KRONOFRANCE
+KRONO
+
+FRANCE
 
 |
 
@@ -12170,31 +12316,31 @@ KRONOFRANCE
 
 |
 
-98 100
+64 461
 
 |
 
-96 295
+56 400
 
 |
 
-94 471
+48 586
 
 |
 
-92 628
+41 025
 
 |
 
-90 763
+33 709
 
 |
 
-88 891
+26 667
 
 |
 
-762 686
+472 386
 
 |
 
@@ -12494,7 +12640,9 @@ ALBIOMA Le Moule
 
 |
 
-ALBIOMA Le Moule |
+ALBIOMA Le Moule
+
+|
 
 38 412
 
@@ -12984,19 +13132,33 @@ ALSTOM site de Belfort - CHAUDIERES DU BÂTIMENT 28
 
 |
 
-0 |
+0
 
-0 |
+|
 
-0 |
+0
 
-0 |
+|
 
-0 |
+0
 
-0 |
+|
 
-19 212 |
+0
+
+|
+
+0
+
+|
+
+0
+
+|
+
+19 212
+
+|
 
 FR000000000001129
 
@@ -13246,7 +13408,7 @@ COGELY Nord-Est
 
 |
 
-COGELYO N-E - site Goodyear
+COGELYO N-E - Site Goodyear
 
 |
 
@@ -13258,31 +13420,31 @@ COGELYO N-E - site Goodyear
 
 |
 
-51 749
+25 875
 
 |
 
-50 816
+25 408
 
 |
 
-49 883
+24 942
 
 |
 
-48 950
+24 475
 
 |
 
-48 018
+24 009
 
 |
 
-47 085
+23 543
 
 |
 
-402 798
+254 549
 
 |
 
@@ -13394,21 +13556,37 @@ ALBIOMA GALION
 
 |
 
-0 |
+0
 
-0 |
+|
 
-0 |
+0
 
-0 |
+|
 
-0 |
+0
 
-0 |
+|
 
-0 |
+0
 
-0 |
+|
+
+0
+
+|
+
+0
+
+|
+
+0
+
+|
+
+0
+
+|
 
 0
 
@@ -13538,7 +13716,9 @@ Usine de Sablé-sur-Sarthe
 
 |
 
-10 930 |
+10 930
+
+|
 
 9 723
 
@@ -13548,7 +13728,9 @@ Usine de Sablé-sur-Sarthe
 
 |
 
-7 423 |
+7 423
+
+|
 
 92 371
 
@@ -14132,7 +14314,9 @@ FR000000000001157
 
 |
 
-TRANSPORT ET INFRASTRUCTURE GAZ France (TIGF) |
+TRANSPORT ET INFRASTRUCTURE GAZ France (TIGF)
+
+|
 
 TRANSPORT ET INFRASTRUCTURE GAZ France (TIGF)-Station de compression de LUSSAGNET
 
@@ -14370,4 +14554,6 @@ FR000000000001164
 
 |
 
-SOBEGI |
+SOBEGI
+
+|
