@@ -1,0 +1,60 @@
+# Outre-mer : actualisation du droit
+
+- Procédure : Projet de loi ordinaire
+- Législature : 14
+- Identifiant : DLR5L14N33948
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/modernisation_droit_outre-mer
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl14-422.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2015-04-29 : 1er dépôt d'une initiative. (PRJLSNR5S239B0422)
+  - 2015-04-29 : Etude d'impact (ETDISNR5S239B0422)
+  - 2015-04-29 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2015-04-29 : Renvoi en commission au fond
+      - 2015-06-03 : Nomination de rapporteur
+      - 2015-06-17 : Dépôt de rapport (RAPPSNR5S239B0522)
+  - Discussion en séance publique
+    - 2015-06-26 : Discussion en séance publique
+    - 2015-06-26 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2015-06-29 : Dépôt d'une initiative en navette (PRJLANR5L14B2910)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2015-06-29 : Renvoi en commission au fond
+      - 2015-06-24 : Nomination de rapporteur
+      - 2015-07-07 : Réunion de commission
+      - 2015-07-07 : Réunion de commission
+      - 2015-07-07 : Réunion de commission
+      - 2015-07-15 : Réunion de commission
+      - 2015-07-08 : Dépôt de rapport (RAPPANR5L14B2949, PRJLANR5L14BTC2949)
+    - Travaux d'une commission saisie pour avis
+      - 2015-06-29 : Saisine pour avis d'une commission
+      - 2015-06-24 : Nomination de rapporteur
+      - 2015-07-07 : Dépôt de rapport (AVISANR5L14B2941)
+  - Discussion en séance publique
+    - 2015-07-15 : Discussion en séance publique
+    - 2015-07-15 : Discussion en séance publique
+    - 2015-07-16 : Discussion en séance publique
+    - 2015-07-16 : Discussion en séance publique
+    - 2015-07-16 : Discussion en séance publique
+    - 2015-07-16 : Décision
+- Commission Mixte Paritaire
+  - 2015-07-17 : Dépôt d'un projet de loi (PRJLSNR5S239B0644)
+  - 2015-07-17 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2015-09-29 : Nomination de rapporteur
+    - 2015-09-29 : Dépôt du rapport d'une CMP (RAPPANR5L14B3087)
+    - 2015-09-29 : Dépôt du rapport d'une CMP (RAPPSNR5S239B0711)
+  - Discussion en séance publique
+    - 2015-10-01 : Discussion en séance publique
+    - 2015-10-01 : Décision
+  - Discussion en séance publique
+    - 2015-10-01 : Discussion en séance publique
+    - 2015-10-01 : Décision
+  - 2015-09-29 : Décision de la CMP
+- Promulgation de la loi
+  - 2015-10-14 : Promulgation d'une loi
