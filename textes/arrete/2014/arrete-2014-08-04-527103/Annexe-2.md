@@ -1,6 +1,6 @@
 # Article Annexe 2
 
-LISTE DES CENTRES PARTICIPANT À L'ÉTUDE
+Liste des centres participant à l'étude relative à l'implantation de la prothèse épirétinienne ARGUS II
 
 Liste principale
 
@@ -8,19 +8,25 @@ CENTRES
 
 |
 
-VILLE
+VILLES
 
 |
 
-ETABLISSEMENT
+FINESS JURIDIQUE
 
 |
 
-Public
+ÉTABLISSEMENT
 
 |
 
-Privé
+|
+
+public
+
+|
+
+privé
 
 |
 
@@ -33,6 +39,10 @@ CHNO des Quinze-Vingts
 |
 
 Paris
+
+|
+
+750110025
 
 |
 
@@ -52,6 +62,10 @@ Bordeaux
 
 |
 
+330781196
+
+|
+
 √
 
 |
@@ -65,6 +79,10 @@ CHU Strasbourg
 |
 
 Strasbourg
+
+|
+
+670780055
 
 |
 
@@ -84,6 +102,8 @@ Total
 
 |
 
+|
+
 3
 
 |
@@ -92,6 +112,4 @@ Total
 
 |
 
-0
-
-|
+0 |
