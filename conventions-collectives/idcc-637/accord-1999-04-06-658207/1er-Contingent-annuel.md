@@ -1,0 +1,11 @@
+# Article 1er : Contingent annuel
+
+Conformément aux dispositions de l'article L. 212-6 du code du travail, les partenaires sociaux décident de fixer le contingent d'heures supplémentaires utilisables chaque année par les entreprises du secteur à 220 heures, et ce que la durée du travail soit décomptée sur la semaine, sur un cycle ou selon tout autre mode légal.
+
+Néanmoins, lorsque la durée du travail sera décomptée dans le cadre des dispositions de l'article L. 212-8 du code du travail, ce contingent annuel d'heures supplémentaires sera alors réduit à 175 heures.
+
+Chacune des 8 premières heures supplémentaires donne lieu à une majoration de 25 % et les heures suivantes à une majoration de 50 %.
+
+Ces heures supplémentaires sont susceptibles de donner lieu à repos compensateur dans les conditions prévues à l'article L. 212-5-1 du code du travail.
+
+NOTE : Voir avenant du 24 mars 2015 relatif aux heures supplémentaires des chauffeurs et d'équipages de transport BO 2015/20.
