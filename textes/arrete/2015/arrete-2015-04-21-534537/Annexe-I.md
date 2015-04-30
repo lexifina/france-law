@@ -1,8 +1,22 @@
-# Article LEGIARTI000026010609
+# Article Annexe I
 
 NOMBRE DE SIÈGES À POURVOIR PAR LA VOIE DE L'ÉLECTION
 
-A. ― Disciplines médicales
+A. - Disciplines médicales
+
+|
+
+|
+
+|
+
+|
+
+NOMBRE DE SIÈGES
+
+à pourvoir
+
+|
 
 SECTION
 
@@ -20,13 +34,15 @@ TYPE
 
 |
 
-NOMBRE DE SIÈGES
-
-à pourvoir
+ÉLUS
 
 |
 
-ÉLUS
+|
+
+|
+
+|
 
 |
 
@@ -72,7 +88,7 @@ Mixte
 
 |
 
-3
+1
 
 |
 
@@ -82,7 +98,7 @@ Mixte
 
 |
 
-Cytologie et histologie
+Histologie, embryologie et cytogénétique
 
 |
 
@@ -94,7 +110,7 @@ Mixte
 
 |
 
-3
+1
 
 |
 
@@ -116,7 +132,7 @@ Mixte
 
 |
 
-4
+2
 
 |
 
@@ -154,7 +170,7 @@ Mixte
 
 |
 
-4
+2
 
 |
 
@@ -176,7 +192,7 @@ Mixte
 
 |
 
-4
+2
 
 |
 
@@ -206,7 +222,7 @@ Biochimie et biologie moléculaire
 
 |
 
-Biologique
+Mixte
 
 |
 
@@ -214,7 +230,7 @@ Biologique
 
 |
 
-4
+2
 
 |
 
@@ -236,7 +252,7 @@ Mixte
 
 |
 
-4
+2
 
 |
 
@@ -258,7 +274,7 @@ Mixte
 
 |
 
-3
+1
 
 |
 
@@ -280,7 +296,7 @@ Mixte
 
 |
 
-3
+1
 
 |
 
@@ -306,7 +322,7 @@ Microbiologie, maladies transmissibles et hygiène :
 
 |
 
-Bactériologie ― virologie ; hygiène hospitalière (2 options)
+Bactériologie-virologie ; hygiène hospitalière (2 options)
 
 |
 
@@ -318,7 +334,7 @@ Mixte
 
 |
 
-4
+2
 
 |
 
@@ -340,7 +356,7 @@ Mixte
 
 |
 
-3
+1
 
 |
 
@@ -400,7 +416,7 @@ Mixte
 
 |
 
-3
+1
 
 |
 
@@ -444,7 +460,7 @@ Mixte
 
 |
 
-3
+1
 
 |
 
@@ -466,7 +482,7 @@ Mixte
 
 |
 
-3
+1
 
 |
 
@@ -504,7 +520,7 @@ Mixte
 
 |
 
-3
+1
 
 |
 
@@ -526,7 +542,7 @@ Mixte
 
 |
 
-3
+1
 
 |
 
@@ -548,7 +564,7 @@ Mixte
 
 |
 
-3
+1
 
 |
 
@@ -570,7 +586,7 @@ Mixte
 
 |
 
-3
+1
 
 |
 
@@ -608,7 +624,7 @@ Mixte
 
 |
 
-3
+1
 
 |
 
@@ -652,7 +668,7 @@ Mixte
 
 |
 
-3
+1
 
 |
 
@@ -674,7 +690,7 @@ Mixte
 
 |
 
-3
+1
 
 |
 
@@ -778,7 +794,7 @@ Clinique
 
 |
 
-1
+-
 
 |
 
@@ -800,7 +816,7 @@ Clinique
 
 |
 
--
+1
 
 |
 
@@ -904,7 +920,7 @@ Clinique
 
 |
 
--
+1
 
 |
 
@@ -1122,7 +1138,7 @@ Clinique
 
 |
 
-Médecine interne, gériatrie et chirurgie générale
+Médecine interne, gériatrie, chirurgie générale et médecine générale :
 
 |
 
@@ -1138,7 +1154,7 @@ Médecine interne, gériatrie et chirurgie générale
 
 |
 
-Médecine interne ; gériatrie et biologie du vieillissement ; médecine générale ; addictologie (4 options)
+Médecine interne ; gériatrie et biologie du vieillissement ; addictologie (3 options)
 
 |
 
@@ -1176,13 +1192,35 @@ Clinique
 
 |
 
+|
+
+03
+
+|
+
+Médecine générale
+
+|
+
+Clinique
+
+|
+
+4
+
+|
+
+2
+
+|
+
 54
 
 |
 
 |
 
-Développement et pathologie de l'enfant, gynécologie - obstétrique, endocrinologie et reproduction
+Développement et pathologie de l'enfant, gynécologie-obstétrique, endocrinologie et reproduction :
 
 |
 
@@ -1242,7 +1280,7 @@ Clinique
 
 |
 
-Gynécologie - obstétrique ; gynécologie médicale (2 options)
+Gynécologie-obstétrique ; gynécologie médicale (2 options)
 
 |
 
@@ -1286,9 +1324,7 @@ Clinique
 
 |
 
-Biologie et médecine du développement
-
-et de la reproduction ; gynécologie médicale (2 options)
+Biologie et médecine du développement et de la reproduction ; gynécologie médicale (2 options)
 
 |
 
@@ -1300,7 +1336,7 @@ Mixte
 
 |
 
-3
+1
 
 |
 
@@ -1338,7 +1374,7 @@ Clinique
 
 |
 
--
+2
 
 |
 
@@ -1386,21 +1422,37 @@ Clinique
 
 |
 
+|
+
+|
+
+|
+
 Total
 
 |
 
-|
-
-130
+134
 
 |
 
-97
+58
 
 |
 
-B. ― Disciplines odontologiques
+B. - Disciplines odontologiques
+
+|
+
+|
+
+|
+
+NOMBRE DE SIÈGES
+
+à pourvoir
+
+|
 
 SECTION
 
@@ -1414,13 +1466,13 @@ TITRE
 
 |
 
-NOMBRE DE SIÈGES
-
-à pourvoir
+ÉLUS
 
 |
 
-ÉLUS
+|
+
+|
 
 |
 
@@ -1456,11 +1508,11 @@ Pédodontie
 
 |
 
-1
+2
 
 |
 
-1
+2
 
 |
 
@@ -1474,11 +1526,11 @@ Orthopédie dento-faciale
 
 |
 
-1
+2
 
 |
 
-1
+2
 
 |
 
@@ -1492,11 +1544,11 @@ Prévention, épidémiologie, économie de la santé, odontologie légale
 
 |
 
-1
+2
 
 |
 
-1
+2
 
 |
 
@@ -1524,11 +1576,11 @@ Parodontologie
 
 |
 
-1
+2
 
 |
 
-1
+2
 
 |
 
@@ -1542,11 +1594,11 @@ Chirurgie buccale, pathologie et thérapeutique, anesthésiologie et réanimatio
 
 |
 
-2
+1
 
 |
 
-2
+1
 
 |
 
@@ -1560,11 +1612,11 @@ Sciences biologiques (biochimie, immunologie, histologie, embryologie, génétiq
 
 |
 
-1
+2
 
 |
 
-1
+2
 
 |
 
@@ -1592,11 +1644,11 @@ Odontologie conservatrice, endodontie
 
 |
 
-2
+1
 
 |
 
-2
+1
 
 |
 
@@ -1610,11 +1662,11 @@ Prothèses (prothèse conjointe, prothèse adjointe partielle, prothèse complè
 
 |
 
-2
+1
 
 |
 
-2
+1
 
 |
 
@@ -1628,11 +1680,15 @@ Sciences anatomiques et physiologiques, occlusodontiques, biomatériaux, biophys
 
 |
 
-2
+1
 
 |
 
-2
+1
+
+|
+
+|
 
 |
 
@@ -1640,21 +1696,17 @@ Total
 
 |
 
-13
+14
 
 |
 
-13
+14
 
 |
 
-C. ― Disciplines pharmaceutiques
-
-SECTION
+C. - Disciplines pharmaceutiques
 
 |
-
-TITRE
 
 |
 
@@ -1664,7 +1716,19 @@ NOMBRE DE SIÈGES
 
 |
 
-ÉLUS
+SECTION
+
+|
+
+TITRE
+
+|
+
+ELUS
+
+|
+
+|
 
 |
 
@@ -1772,7 +1836,11 @@ Personnels enseignants-chercheurs de pharmacie en sciences biologiques, fondamen
 
 |
 
-Total |
+|
+
+Total
+
+|
 
 18
 
