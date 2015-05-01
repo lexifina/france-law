@@ -4,11 +4,15 @@ TABLEAU RELATIF À LA COMPOSITION
 
 DES COMMISSIONS ADMINISTRATIVES PARITAIRES CENTRALES
 
-CAPC PAR CORPS ET GRADES
+CAPC PAR CORPS
+
+et grades
 
 |
 
 REPRÉSENTANTS
+
+|
 
 |
 
@@ -37,14 +41,6 @@ Suppléants
 |
 
 Administrateurs civils
-
-|
-
-|
-
-|
-
-|
 
 |
 
@@ -96,14 +92,6 @@ Ingénieurs des travaux maritimes
 
 |
 
-|
-
-|
-
-|
-
-|
-
 Ingénieur en chef
 
 |
@@ -124,15 +112,27 @@ Ingénieur en chef
 
 |
 
-Attachés d'administration du ministère de la défense
+Attachés d'administration de l'Etat
 
 |
 
-|
+Attaché d'administration hors classe
 
 |
 
+2
+
 |
+
+2
+
+|
+
+6
+
+|
+
+6
 
 |
 
@@ -148,14 +148,6 @@ Attaché principal d'administration
 
 |
 
-4
-
-|
-
-4
-
-|
-
 Attaché d'administration
 
 |
@@ -168,35 +160,7 @@ Attaché d'administration
 
 |
 
-Directeur des services déconcentrés du ministère de la défense (grade unique)
-
-|
-
-1
-
-|
-
-1
-
-|
-
-1
-
-|
-
-1
-
-|
-
 Ingénieurs d'études et de fabrications
-
-|
-
-|
-
-|
-
-|
 
 |
 
@@ -248,14 +212,6 @@ Conseillers techniques de service social
 
 |
 
-|
-
-|
-
-|
-
-|
-
 Conseiller technique de service social
 
 |
@@ -277,14 +233,6 @@ Conseiller technique de service social
 |
 
 Assistants de service social
-
-|
-
-|
-
-|
-
-|
 
 |
 
@@ -321,14 +269,6 @@ Assistant de service social
 |
 
 Infirmiers de la défense
-
-|
-
-|
-
-|
-
-|
 
 |
 
@@ -380,14 +320,6 @@ Infirmiers civils de soins généraux du ministère de la défense
 
 |
 
-|
-
-|
-
-|
-
-|
-
 Infirmier civil de classe supérieure
 
 |
@@ -421,14 +353,6 @@ Infirmier civil de classe normale
 |
 
 Infirmiers civils en soins généraux et spécialisés du ministère de la défense
-
-|
-
-|
-
-|
-
-|
 
 |
 
@@ -512,14 +436,6 @@ Aides-soignants et agents des services hospitaliers qualifiés civils
 
 |
 
-|
-
-|
-
-|
-
-|
-
 Aide-soignant civil de classe exceptionnelle
 
 |
@@ -580,14 +496,6 @@ Techniciens paramédicaux civils du service de santé des armées
 
 |
 
-|
-
-|
-
-|
-
-|
-
 Technicien paramédical civil de classe supérieure
 
 |
@@ -620,15 +528,7 @@ Technicien paramédical civil de classe normale
 
 |
 
-Techniciens supérieurs d'études et de fabrications du ministère de la défense
-
-|
-
-|
-
-|
-
-|
+Techniciens supérieurs d'étudeset de fabrications du ministère de la défense
 
 |
 
@@ -680,14 +580,6 @@ Secrétaires administratifs du ministère de la défense
 
 |
 
-|
-
-|
-
-|
-
-|
-
 Secrétaire administratif de classe exceptionnelle
 
 |
@@ -736,14 +628,6 @@ Adjoints administratifs
 
 |
 
-|
-
-|
-
-|
-
-|
-
 Adjoint administratif principal de 1re classe
 
 |
@@ -788,7 +672,7 @@ Adjoint administratif de 1re classe
 
 |
 
-Adjoint administratif de 2 eclasse
+Adjoint administratif de 2e classe
 
 |
 
@@ -801,14 +685,6 @@ Adjoint administratif de 2 eclasse
 |
 
 Agents techniques du ministère de la défense
-
-|
-
-|
-
-|
-
-|
 
 |
 
@@ -864,4 +740,6 @@ Agent technique principal de 1re classe
 
 |
 
-2 |
+2
+
+|
