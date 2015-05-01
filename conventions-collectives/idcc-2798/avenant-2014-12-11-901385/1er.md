@@ -1,0 +1,19 @@
+# Article 1er
+
+L'article 20 de l'accord relatif à la formation professionnelle du personnel du régime social des indépendants du 2 avril 2008 est rédigé comme suit :
+
+« Article 20
+
+Participation des organismes du RSI au développement de la formation professionnelle continue
+
+En application des dispositions légales, chaque organisme du RSI contribue au financement de la formation professionnelle continue par un versement à l'organisme paritaire collecteur agréé désigné par le présent accord de branche.
+
+Il contribue en outre au financement d'actions de formation des salariés du RSI par une contribution spécifique. Dans une limite définie par la commission paritaire nationale de l'emploi et de la formation professionnelle, cette contribution est destinée à la mise en œuvre et au financement, par chaque organisme, d'actions de formation au plus près du terrain.
+
+Le cumul de ces contributions est fixé à 2 % de la masse salariale brute des organismes du RSI. Elles peuvent se compléter de versements volontaires pour la réalisation de projets de formation exceptionnels.
+
+Le versement de ces contributions est effectué par la caisse nationale au nom et pour le compte des organismes du régime social des indépendants.
+
+Sous réserve des règles d'affectation prévues par les textes légaux et réglementaires, le reliquat des fonds issus des versements visés ci-dessus et non utilisés au cours de l'exercice est réaffecté aux actions de formation de l'année suivante, ces fonds étant mutualisés au bénéfice exclusif des salariés des organismes du RSI.
+
+L'organisme paritaire collecteur agréé (OPCA) auquel est versée la collecte est Uniformation. »
