@@ -1,76 +1,64 @@
 # Article Annexe 240-A.2
 
-Caractéristiques des parties vitrées extérieures fixes ou amovibles
+Le registre de vérification spéciale doit être rempli et visé annuellement par la personne responsable, au sein de la structure ou l'entreprise, de l'entretien du navire.
 
-Tableau T.1 Epaisseur de glace en PMMA pour les panneaux de pont
+Ce document permet à l'utilisateur du navire de vérifier que l'entretien du navire et le suivi de son matériel de sécurité sont réalisés régulièrement. La vérification engage la responsabilité de l'exploitant du navire (personne physique ou morale).
 
-Plaque plane rectangulaire
+Les documents justificatifs comme des factures ou attestations fournis par des professionnels peuvent être demandés lors d'un contrôle à terre.
 
-|
+Le chef de bord doit avoir pris connaissance de ce document avant de prendre la mer.
 
-a (mm)
+Sur les navires habitables, ce document doit pouvoir être présenté, en mer, à tout moment aux agents de contrôle.
 
-|
+Nom du navire : ... Immatriculation : ... Armement : Basique ... Côtier ... Semi-hauturier ... Hauturier ... Activité : Formation ... Location ... Association ... Nom de la structure en charge de l'exploitation du navire : ....
 
-Valeur de la petite dimension b (mm)
+I.-Matériel de sécurité
 
-|
+VÉRIFICATIONS
 
 |
 
-250
+DATES DES TESTS
 
-|
-
-300
+ou vérifications des validités
 
 |
 
-350
+NOTER LES DATES LIMITES MATÉRIELS
 
-|
+(capsules de gaz, dispositifs lumineux,
 
-400
+pyrotechnie)
 
 |
 
-450
+OBSERVATIONS
 
 |
 
-500
+Equipements individuels de flottabilité
 
 |
-
-550
 
 |
 
-600
+Date :
 
 |
 
-650
-
 |
 
-700
+Combinaisons d'immersion
 
 |
-
-750
 
 |
 
-800
-
 |
-
-250
 
 |
 
-6,0
+Harnais
 
 |
 
@@ -80,6 +68,8 @@ Valeur de la petite dimension b (mm)
 
 |
 
+Dispositif de remontée à bord
+
 |
 
 |
@@ -87,6 +77,8 @@ Valeur de la petite dimension b (mm)
 |
 
 |
+
+Essai du dispositif d'arrêt automatique
 
 |
 
@@ -96,21 +88,19 @@ Valeur de la petite dimension b (mm)
 
 |
 
-300
+Dispositif lumineux
 
 |
 
-6,0
-
 |
 
-6,0
+Date :
 
 |
 
 |
 
-|
+Dispositif d'assèchement
 
 |
 
@@ -120,27 +110,29 @@ Valeur de la petite dimension b (mm)
 
 |
 
+Moyen (s) lutte incendie
+
 |
 
 |
 
+Date (s) de péremption :
+
 |
 
 |
 
-350
+Dispositif de remorquage
 
 |
-
-6,0
 
 |
 
-5.9
+|
 
 |
 
-6.2
+Essai dispositif de remontée d'une personne tombée à l'eau
 
 |
 
@@ -150,46 +142,44 @@ Valeur de la petite dimension b (mm)
 
 |
 
-|
+Feux à main
 
 |
 
 |
 
-|
+Date :
 
 |
 
 |
 
-400
+Fusées parachute
 
 |
-
-6,0
 
 |
 
-6.4
+Date :
 
 |
 
-6.8
-
 |
 
-7.0
+Fumigènes
 
 |
 
 |
 
-|
+Date :
 
 |
 
 |
 
+VHF fixe
+
 |
 
 |
@@ -198,27 +188,27 @@ Valeur de la petite dimension b (mm)
 
 |
 
-450
+VHF portable
 
 |
-
-6,0
 
 |
 
-6.7
+|
 
 |
+
+Système de positionnement par satellite
 
-7.2
+|
 
 |
 
-7.6
+|
 
 |
 
-7.9
+Compas magnétique
 
 |
 
@@ -228,6 +218,8 @@ Valeur de la petite dimension b (mm)
 
 |
 
+Trousse de secours
+
 |
 
 |
@@ -236,33 +228,31 @@ Valeur de la petite dimension b (mm)
 
 |
 
-500
+Journal de bord
 
 |
 
-6.1
+Date de mise en service :
 
 |
 
-6.9
+|
 
 |
 
-7.6
+Radiobalise de localisation des sinistres
 
 |
-
-8.1
 
 |
 
-8.4
+Date :
 
 |
 
-8.7
-
 |
+
+Sondeur électronique
 
 |
 
@@ -272,133 +262,139 @@ Valeur de la petite dimension b (mm)
 
 |
 
+Plan affichant la localisation du matériel de sécurité
+
 |
 
 |
 
-550
+|
 
 |
 
-6.2
+Instructions en cas d'incendie, envahissement et abandon
 
 |
 
-7.1
-
 |
 
-7.9
+|
 
 |
 
-8.5
+Engins collectifs de sauvetage
 
 |
 
-8.9
+Radeau ; type et numéro
 
 |
 
-9.2
+Dates des tests ou contrôle des validités
 
 |
 
-9.4
+Noter les dates limites :
 
 |
 
 |
 
-|
+Observations et visa de l'autorité maritime (en cas de contrôle)
 
 |
 
-|
+II.-Le navire
 
+COQUE ET CONSTRUCTION
+
 |
 
-600
+Vérifications
 
 |
 
-6.3
+Date
 
 |
 
-7.2
+Observations
 
 |
 
-8.1
+Inspection visuelle extérieure coque & pont
 
 |
 
-8.8
+|
 
 |
 
-9.3
+Inspection visuelle intérieure structure
 
 |
 
-9.7
+|
 
 |
 
-10.0
+Fonctionnement panneau (x) & hublot (s)
 
 |
 
-10.2
+|
 
 |
 
+Intégrité liaison coque/ pont
+
 |
 
 |
 
 |
 
+Etat davier (s) de mouillage
+
 |
 
-650
+|
 
 |
 
-6.3
+Etat taquets d'amarrage
 
 |
 
-7.3
+|
 
 |
 
-8.2
+Lisibilité plaque du constructeur
 
 |
 
-9.0
+|
 
 |
 
-9.6
+Fonctionnement passe-coque (s)
 
 |
 
-10.1
+|
 
 |
 
-10.5
+Fonctionnement vannes (s)
 
 |
 
-10.8
+|
 
 |
 
-11.0
+Autres points vérifiés :
 
 |
 
@@ -408,47 +404,47 @@ Valeur de la petite dimension b (mm)
 
 |
 
-700
+Actions
 
 |
 
-6.4
+Date
 
 |
 
-7.4
+Détail de l'intervention
 
 |
 
-8.4
+Carénage
 
 |
 
-9.2
+|
 
 |
 
-9.9
+Changement anode (s)
 
 |
 
-10.5
+|
 
 |
 
-10.9
+Changement passe-coque
 
 |
 
-11.3
+|
 
 |
 
-11.5
+Autres actions :
 
 |
 
-11.7
+|
 
 |
 
@@ -456,452 +452,458 @@ Valeur de la petite dimension b (mm)
 
 |
 
-750
+|
 
 |
 
-6.4
+|
 
 |
 
-7.5
+Observations et visa de l'autorité maritime (en cas de contrôle)
 
 |
 
-8.5
+APPAREIL À GOUVERNER
 
 |
 
-9.4
+Vérifications
 
 |
 
-10.1
+Date
 
 |
 
-10.8
+Observations
 
 |
 
-11.3
+Absence de points durs
 
 |
 
-11.7
+|
 
 |
 
-12.0
+Absence de jeu excessif
 
 |
 
-12.2
+|
 
 |
 
-12.4
+Autres points vérifiés :
 
 |
 
 |
 
-800
-
 |
 
-6.4
+|
 
 |
 
-7.5
+|
 
 |
 
-8.6
+Observations et visa de l'autorité maritime (en cas de contrôle)
 
 |
 
-9.5
-
 |
 
-10.3
+PROPULSION
 
 |
 
-11.0
+Vérifications
 
 |
 
-11.6
+Date
 
 |
 
-12.1
+Observations
 
 |
 
-12.4
+Essais mise en marche/ arrêt
 
 |
 
-12.7
+|
 
 |
 
-12.9
+Niveau (x) des fluides
 
 |
 
-13.1
+|
 
 |
 
-Plaque plane circulaire
+Contrôles des courroies, filtres, réalisation des vidanges, des graissages (conformément aux prescriptions du constructeur)
 
 |
-
-Valeur du diamètre d (mm)
 
 |
 
 |
 
-250
+Contrôle du circuit de refroidissement
 
 |
 
-300
+|
 
 |
 
-350
+Etat helices (s) & tuyère (s)/ anodes
 
 |
 
-400
+|
 
 |
 
-450
+Entretien crépine (s)
 
 |
 
-500
+|
 
 |
+
+Autres points vérifiés :
 
-550
+|
 
 |
 
-600
+|
 
 |
 
-650
+|
 
 |
 
-700
+|
 
 |
 
-750
+|
 
 |
 
-800
+Observations et visa de l'autorité maritime (en cas de contrôle)
 
 |
 
 |
 
-6,0
+|
 
 |
 
-6,0
+MOUILLAGE
 
 |
 
-6,0
+Vérifications
 
 |
 
-6.7
+Date
 
 |
 
-7.5
+Observations
 
 |
 
-8.2
+Contrôle général de la ligne de mouillage, de l'ancre à l'étalingure
 
 |
 
-9.0
+|
 
 |
 
-9.7
+Observations et visa de l'autorité maritime (en cas de contrôle)
 
 |
 
-10.4
-
 |
 
-11.1
+|
 
 |
 
-11.8
+FEUX DE SIGNALISATION
 
 |
 
-12.4
+Vérifications
 
 |
 
-Note : Arrondir au millimètre près, par exemple 5,4 s'arrondit à 8 et 5,6 à 9.
+Date
 
 |
 
-Tableau T.2 Epaisseur minimale selon le matériau et l'emplacement
+Observations
 
-LH (m)
-
 |
 
-6
+Essai des feux réglementaires de route et mouillage
 
 |
 
-8
+|
 
 |
 
-10
+Autres points vérifiés :
 
 |
 
-12
+|
+
+|
 
 |
 
-14
+ASSÈCHEMENT
 
 |
 
-16
+Vérifications
 
 |
 
-18
+Date
 
 |
 
-20
+Observations
 
 |
 
-22
+Essai des pompes et moyens d'assèchement
 
 |
 
-24
+|
 
 |
 
-Epaisseur minimale sur le bordé ou tableau arrière (mm)
+Etat & fixation des aspirations
 
 |
 
-PMMA
+|
 
 |
 
-6,2
+Etat tuyautage (s)
 
 |
 
-6,4
+|
 
 |
 
-6,6
+Autres points vérifiés :
 
 |
 
-6,8
+|
 
 |
 
-7,0
+|
 
 |
 
-7,2
+Observations et visa de l'autorité maritime (en cas de contrôle)
 
 |
 
-7,4
+|
+
+|
 
 |
 
-7,6
+GRÉEMENTS DORMANTS ET DISPOSITIF DE PRÉVENTION DE CHUTE PAR DESSUS BORD
 
 |
 
-7,8
+Vérifications
 
 |
 
-8,0
+Date
 
 |
 
-Verre trempé
+Observations
 
 |
 
-5,2
+Fixation des moyens de secours (radeaux bouées), portique (s) & superstructure (s)
 
 |
 
-5,4
+|
 
 |
 
-5,6
+Contrôle de l'accastillage installé, et vérifications visuelles de tout les textiles et ou câbles
 
 |
 
-5,8
+|
 
 |
 
-6,0
+Etat et tension filière (s) et chandeliers
 
 |
 
-6,2
+|
 
 |
+
+Recherche visuelle des fractures usures sur : Mat (s), bôme (s), tangons, filières et lignes de vie. vérification de l'accastillage des textiles et câbles
 
-6,4
+|
 
 |
 
-6,6
+|
 
 |
 
-6,8
+|
 
 |
 
-7,0
+Actions
 
 |
 
-Pont
+Date
 
 |
 
-PMMA = 6 mm
+Détail de l'intervention
 
 |
 
-Verre Trempé = 4
+Entretien ligne (s) de vie
 
 |
 
-Superstructures
+|
 
 |
 
-PMMA = 5 mm
+Entretien filière (s)
 
 |
 
-Verre Trempé = 4
+|
 
 |
+
+Entretien haubanage (s)
 
-Tableau T.3 Valeur des coefficients de corrections K
+|
 
-K matériau pour verre trempé
+|
 
 |
 
-0,79
+Entretien accastillage de pont
 
 |
 
-K extrémité panneaux glace coulissante ou sans encadrement
+|
 
 |
 
-1,15
+Autres actions :
 
 |
 
-K épaisseur bordé, tableau AR
+|
 
 |
 
-1,58
+|
 
 |
 
-K épaisseur superstructures latérales voiliers
+|
 
 |
 
-0,80
+Observations et visa de l'autorité maritime (en cas de contrôle)
 
 |
 
-K épaisseur superstructures latérales bateaux à moteur
+|
+
+GAZ ET ÉLECTRICITÉ
 
 |
 
-0,65
+Vérifications
 
 |
 
-K épaisseur superstructures AR voiliers
+Date
 
 |
 
-0,65
+Observations
 
 |
 
-K épaisseur superstructures AR bateaux à moteur
+Circuit Gaz
+
+|
 
 |
 
-0,46
+Dates des pièces nécessitants un renouvellement régulier recommandé ; péremption flexibles
 
 |
 
-Dans le Tableau T.1, pour des dimensions de clair intermédiaires procéder par interpolation, et pour des dimensions de clair supérieures à celles indiquées, appliquer la norme EN/ISO 12216. Exemple de calcul des épaisseurs :
+Contrôle des fixations batteries
 
-Panneau de pont en verre trempé 500mm x 500 mm
+|
+
+|
 
-ép. = ép. Tableau 1 x K du matériau pour le verre = 8,7 x 0,79 = 6,9 mm arrondis à 7 mm.
+|
 
-Hublot coulissant de superstructures latérales 700 x 750 sur bateau à moteur en verre trempé
+Observations et visa de l'autorité maritime (en cas de contrôle)
 
-ép. = ép. Tableau 1 x K matériau pour le verre x K extrémité glace coulissant x K épaisseur superstructure latérale bateau à moteur
+|
 
-ép. = 12,2 x 0,79 x 1,15 x 0,65 = 7,2 mm arrondis à 7 mm.
+|
 
-Hublot coulissant superstructures AR 700 x 750 en PMMA sur un voilier
+|
 
-ép = ép. Tableau 1 x K épaisseur superstructure AR voilier ép. = 12,2 x 0,65 = 7,93 mm arrondis à 8 mm.
+|
