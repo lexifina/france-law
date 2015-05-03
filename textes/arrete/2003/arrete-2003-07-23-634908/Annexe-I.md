@@ -1,5 +1,5 @@
 # Article Annexe I
 
-L'arrêté et l'ensemble de ses annexes sont disponibles au Centre national de documentation pédagogique, 13, rue du Four, 75006 Paris, ainsi que dans les centres régionaux et départementaux de documentation pédagogique.
+Arrêté du 23 mars 2015 : Le présent arrêté et son annexe sont consultables en ligne au Bulletin officiel de l'éducation nationale en date du 14 mai 2015 sur le site http://www.education.gouv.fr/.
 
-Ils sont diffusés en ligne à l'adresse suivante : http://www.cndp.fr.
+L'intégralité du diplôme est diffusée en ligne à l'adresse suivante : http://www.cndp.fr/outils-doc.
