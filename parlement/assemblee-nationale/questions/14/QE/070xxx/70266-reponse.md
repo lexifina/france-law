@@ -1,0 +1,9 @@
+# Réponse à la question n° 70266
+
+- Question : [70266](70266.md) — Question n° 70266 — échec scolaire; lutte et prévention
+
+## Réponse
+
+*JO du 2015-05-05*
+
+La lutte contre la difficulté scolaire dans le premier degré est une priorité fixée par la loi n° 2013-595 du 8 juillet 2013 d'orientation et de programmation pour la refondation de l'école de la République. Cette primauté se traduit par les moyens alloués à l'équité territoriale, à la scolarisation des élèves de moins de trois ans et, d'une manière générale, aux dispositifs spécifiques comme le réseau des aides spécialisées aux élèves en difficulté ou la mesure intitulée « plus de maîtres que de classes » qui devra être mise progressivement en oeuvre dans chaque école classée en éducation prioritaire. Sur l'ensemble de la période 2012-2017, ce sont 14 000 emplois qui sont programmés à cet effet pour le premier degré et qui font l'objet, chaque année, d'un suivi particulier dans le cadre de l'exécution des projets annuels de performance de la mission « enseignement scolaire ». Cependant, c'est tout le système éducatif qui est mobilisé pour assurer la réussite de tous les élèves, même si chacune des mesures précitées y prend sa part. La réforme des rythmes scolaires participe également à la lutte contre la difficulté scolaire en instaurant de nouveaux horaires permettant de consacrer la matinée aux apprentissages fondamentaux, au moment où les élèves sont les plus attentifs et en instituant cinq matinées, au lieu de quatre, de manière à permettre des apprentissages plus réguliers. Chaque enseignant doit intégrer dans sa pratique, la différenciation pédagogique et l'aide à chacun des élèves, notamment les plus faibles d'entre eux. Il est de ce fait impossible d'en faire un décompte particulier, sauf à collecter auprès de chaque enseignant la part qu'il consacre aux élèves ce qui serait imprécis et artificiel et en définitive peu significatif.
