@@ -1,0 +1,9 @@
+# Réponse à la question n° 64288
+
+- Question : [64288](64288.md) — Question n° 64288 — réforme
+
+## Réponse
+
+*JO du 2015-05-05*
+
+A l'occasion de l'examen du projet de loi de financement de la sécurité sociale pour l'année 2015, il a été proposé dans le cadre du retour à l'équilibre des comptes de la branche famille, de moduler le montant de la prime à la naissance et à l'adoption selon le rang de l'enfant au sein du foyer qui en a la charge. Néanmoins, un amendement parlementaire, en accord avec le Gouvernement, a introduit la modulation du montant des allocations familiales, selon les ressources du ménage ou de la personne ayant la charge des enfants. Compte tenu de ce nouveau schéma de réforme des prestations familiales, la mesure réformant la prime à la naissance a été supprimée. Le montant de la prime à la naissance reste donc le même pour toutes les familles éligibles et pour chaque enfant à naître quel que soit son rang. Pour chaque nouvel enfant, le montant de la prime à la naissance continue donc à s'élever à 923,08 € et celui de la prime à l'adoption à 1 846,15 €. Par ailleurs, la loi du 4 août 2014 relative à l'égalité entre les femmes et les hommes a réformé le complément de libre de choix d'activité (CLCA) en lui substituant la prestation partagée d'éducation de l'enfant (PREPAREE). Cette nouvelle prestation vise à un meilleur partage des responsabilités parentales au sein du couple et à améliorer le taux d'emploi des femmes en leur évitant de s'éloigner trop longtemps du marché du travail. Elle consiste à réserver une partie de la durée actuelle du CLCA au second parent. Ainsi, pour bénéficier de la durée maximale de versement de la prestation, dans la limite du premier anniversaire pour un premier enfant ou du troisième anniversaire pour les enfants suivants, les membres d'un couple devront tous deux cesser ou diminuer leur activité pour s'occuper de leur enfant.
