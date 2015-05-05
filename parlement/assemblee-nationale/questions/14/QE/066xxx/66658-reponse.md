@@ -1,0 +1,9 @@
+# Réponse à la question n° 66658
+
+- Question : [66658](66658.md) — Question n° 66658 — entretien; perspectives
+
+## Réponse
+
+*JO du 2015-05-05*
+
+L'entretien et l'exploitation du réseau routier national non concédé (12 141 km), est assuré depuis 2006 par onze directions interdépartementales des routes (DIR), et trois collectivités d'Outre-mer que sont la Guyane, Mayotte et Saint-Pierre-et-Miquelon. La préservation du patrimoine routier et la sécurité des usagers sont des priorités incontournables de cette politique publique qui se traduit par un maintien du niveau des budgets prévus. Le budget d'investissement en 2015 s'élève à 137 M €. Ce budget est consacré à la préservation des chaussées et des ouvrages d'art et est complété par un fonds de concours de l'Agence de financement des infrastructures des transports de France (AFITF), pour les investissements de régénération routière à hauteur de 110 M € comme en 2014. Au total, le budget consacré à l'entretien routier s'élève à 247 M €. En ce qui concerne le réseau routier national non concédé, chaque direction interdépartementale des routes (DIR) dispose d'un budget d'entretien courant qu'elle utilise pour les travaux de sécurité qui n'engagent pas l'infrastructure elle-même : élagage, marquage au sol, viabilité hivernale, nettoyage des abords routiers. Le budget d'entretien courant des onze DIR s'élève à 134 M € en 2015 (crédits votés en loi de finances initiale). En parallèle, les crédits d'investissements relatifs aux aménagements de sécurité de l'AFITF s'élèvent à 20 M € en 2015. Ces investissements ont pour objet de traiter les défauts de sécurité de l'infrastructure en service. Il s'agit des opérations de correction identifiées grâce à l'analyse détaillée des accidents, notamment les opérations issues de la démarche SURE (sécurité des usagers sur les routes existantes), ainsi que des programmes spécifiques, tels que la lutte contre la dangerosité des obstacles latéraux.
