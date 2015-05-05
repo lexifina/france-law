@@ -1,0 +1,9 @@
+# Réponse à la question n° 40653
+
+- Question : [40653](40653.md) — Question n° 40653 — Centre détudes de l'emploi; missions; moyens
+
+## Réponse
+
+*JO du 2015-05-05*
+
+Le CEE est un établissement qui connait des difficultés d'ordre multiples depuis plusieurs années. Un rapport d'inspection a été remis au ministre de l'emploi et au ministre de la recherche fin 2014 pour proposer plusieurs options quant à son évolution institutionnelle. Sur cette base, les deux ministres ont nommé Christine Daniel, membre de l'Inspection générale des affaires sociales, à la tête du CEE, avec une lettre de mission lui demandant d'explorer deux solutions plus particulièrement retenues par les tutelles. Christine Daniel a fait récemment part de ses conclusions aux deux cabinets ministériels ainsi, qu'aux membres du conseil d'administration réuni mercredi 8 avril. Les deux cabinets ont réitéré à la direction du CEE ainsi qu'aux représentants du personnel leur conviction commune : - qu'il y a un besoin au sein du monde de la recherche d'une organisation pluridisciplinaire alliant recherche et interventions de terrain dans les domaines du travail et de l'emploi, comme le CEE en est la traduction. - que cette organisation, pour remplir sa fonction spécifique, nécessite que des personnels d'horizons divers puissent travailler ensemble au quotidien - que les décideurs des politiques de l'emploi doivent plus que jamais investir dans ce type d'activité, et activement concourir à la définition des orientations scientifiques en la matière Dans cet esprit, les ministres prendront leurs décisions dans un délai désormais très rapproché, à l'issue d'ultimes contacts qui sont programmés dans les toutes prochaines semaines. Les représentants du personnel du CEE ont été reçus par les deux cabinets, avec les administrations de tutelle, pour échanger avec eux sur les options actuellement étudiées.
