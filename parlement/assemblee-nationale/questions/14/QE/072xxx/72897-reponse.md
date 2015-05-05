@@ -1,0 +1,9 @@
+# Réponse à la question n° 72897
+
+- Question : [72897](72897.md) — Question n° 72897 — forces françaises libres; statut militaire; bénéficiaires
+
+## Réponse
+
+*JO du 2015-05-05*
+
+L'article L. 1 du code des pensions civiles et militaires de retraite (CPCMR) dispose notamment que la pension de retraite constitue une allocation pécuniaire personnelle et viagère accordée aux fonctionnaires et aux militaires, en rémunération des services qu'ils ont accomplis jusqu'à la cessation régulière de leurs fonctions. En tout état de cause, les combattants des Forces françaises libres (FFL) ou de l'armée française de Libération (AFL) n'ayant pas la qualité de fonctionnaire et ne relevant pas du statut général des militaires, ils ne peuvent donc prétendre à l'obtention d'une pension au titre du CPCMR. Cependant, ces personnes ont combattu pour la France au péril de leur vie et assuré le salut de la patrie. C'est pourquoi la France a prévu en leur faveur la possibilité de se voir attribuer la carte du combattant et la retraite du combattant qui lui est associée. Cette prestation, malgré sa dénomination, n'est pas une pension de retraite mais une récompense militaire attachée à la personne du combattant et versée au titre de la reconnaissance nationale. Son montant annuel, qui fait l'objet de revalorisations régulières, est fixé par l'article L. 256 du code des pensions militaires d'invalidité et des victimes de la guerre (CPMIVG) et s'élève à 670,56 euros depuis le 1er avril 2014. Ainsi, le Gouvernement entend continuer à récompenser les anciens combattants qui se sont battus pour la France par l'attribution de la retraite du combattant servie au titre des dispositions du CPMIVG, comme il entend continuer à offrir aux anciens fonctionnaires civils et militaires des conditions matérielles d'existence en rapport avec la dignité de leurs fonctions passées, conformément aux dispositions du CPCMR.
