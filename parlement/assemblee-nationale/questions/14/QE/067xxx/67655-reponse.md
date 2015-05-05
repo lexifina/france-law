@@ -1,0 +1,9 @@
+# Réponse à la question n° 67655
+
+- Question : [67655](67655.md) — Question n° 67655 — dons; registre; ordre du jour; proposition de loi
+
+## Réponse
+
+*JO du 2015-05-05*
+
+Le développement des greffes d'organes constitue un enjeu majeur de solidarité nationale et de santé publique, le prélèvement et la greffe figurant dans la loi comme une priorité nationale. C'est pourquoi, dans la continuité de la récente loi de bioéthique, un second plan gouvernemental « greffe 2012-2016 » est mis en oeuvre par l'agence de la biomédecine (AB). Il témoigne d'une politique volontariste de soutien à la greffe car les besoins augmentent plus rapidement que l'offre. L'objectif d'amélioration de l'accès à la greffe ne pourra être atteint si les efforts portent exclusivement sur le prélèvement et la greffe considérés de façon isolée. En ramenant le taux d'opposition au don de 30 % à 20 %, 384 donneurs de plus pourraient être prélevés et l'on estime que près de 1 000 greffes supplémentaires par an pourraient être réalisées. Lors de l'examen en séance publique par l'Assemblée nationale du projet de loi de modernisation du système de santé, un amendement a été adopté pour repréciser les conditions dans lesquelles un prélèvement d'organe peut être effectué. Il prévoit en premier lieu que le médecin est tenu d'informer les proches du défunt de la nature du prélèvement envisagé ainsi que de sa finalité. L'article prévoit que les formes de ce dialogue doivent se conformer aux bonnes pratiques édictées par arrêté sur proposition de l'agence de la biomédecine. Il précise en deuxième lieu que les conditions et modalités d'expression et de révocation de refus d'un prélèvement post-mortem sont désormais renvoyées à un décret en Conseil d'Etat. Il organise enfin une entrée en vigueur différée de l'article, afin de ménager le temps nécessaire à l'adaptation du cadre réglementaire et l'organisation de la concertation.
