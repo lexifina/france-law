@@ -1,0 +1,9 @@
+# Réponse à la question n° 5815
+
+- Question : [5815](5815.md) — Question n° 5815 — praticiens; activités privées; réglementation
+
+## Réponse
+
+*JO du 2015-05-05*
+
+L'offre de soins hospitalière a été marquée au cours des dernières années par une accélération du mouvement des recompositions entre établissements, sous forme de coopérations et de regroupements plus ou moins intégrés, afin de répondre à des contraintes normatives, financières, démographiques et d'amélioration de la qualité des soins. Il n'y a pas aujourd'hui d'encouragement spécifique à la réalisation d'activités privées dans les établissements publics de santé. Certains projets de coopération peuvent donner lieu à la mutualisation de locaux et donc à l'exercice d'activités mixtes dans des locaux publics, notamment dans les situations locales où l'offre de soins est particulièrement fragile. Ces rapprochements public-privé se sont naturellement développés afin de maintenir une offre de soins de qualité au regard des besoins de la population et d'optimiser l'efficience de l'organisation hospitalière par la mutualisation des moyens humains, techniques, matériels, y compris immobiliers. Pouvant prendre diverses formes juridiques, ils permettent la réalisation de projets communs de construction immobilière, le partage d'investissements importants pour la réalisation de blocs opératoires ou l'achat d'équipements matériels lourds tels que IRM, scanner, etc. De nombreux groupements de coopération sanitaire (GCS) ont ainsi été créés entre établissements de santé publics et privés ou entre établissements de santé et professionnels libéraux et autres (établissements médico-sociaux notamment). Le projet de loi de modernisation de notre système de santé, adopté en première lecture par l'Assemblée nationale le 14 avril 2015, a pour objectif pour sa part de renforcer la coopération publique à travers la constitution de groupements hospitaliers de territoire (GHT).
