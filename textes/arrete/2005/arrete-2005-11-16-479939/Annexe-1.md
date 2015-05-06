@@ -62,29 +62,15 @@ Dans la limite du premier euro.
 
 |
 
-Actes prévus aux articles 11 et 70 du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique.
+Actes d'ordonnateur définis par le décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique.
 
 |
 
-Le chef d'état-major des armées.
-
-Le délégué général pour l'armement.
-
-Le secrétaire général pour l'administration.
-
-Le directeur général des relations internationales et de la stratégie.
+Les autorités et les responsables des directions et services désignés par l'arrêté du 23 avril 2015 organisant l'exercice des attributions de l'ordonnateur principal du ministère de la défense.
 
 |
 
-Pour le ou les programmes relevant de leur responsabilité à l'exception :
-
-- de la constatation des droits et des obligations, de la liquidation des recettes et de l'émission des ordres de recouvrer ;
-
-- de l'engagement, de la liquidation et de l'ordonnancement des dépenses ;
-
-- de la transmission au comptable public des ordres de recouvrer et de payer ;
-
-- de l'établissement des documents nécessaires à la tenue des comptabilités incombant au comptable public.
+Pour les actes et dans les limites prévus par l'arrêté du 23 avril 2015 organisant l'exercice des attributions de l'ordonnateur principal du ministère de la défense.
 
 |
 

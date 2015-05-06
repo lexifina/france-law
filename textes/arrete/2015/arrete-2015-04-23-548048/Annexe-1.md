@@ -1,6 +1,4 @@
-# Article 1
-
-Les responsables des programmes du ministère de la défense sont désignés conformément au tableau suivant :
+# Article Annexe 1
 
 PROGRAMME, NUMÉRO ET INTITULÉ
 
@@ -10,7 +8,7 @@ AUTORITÉ RESPONSABLE
 
 |
 
-Mission "Défense"
+Mission Défense
 
 |
 
@@ -42,7 +40,7 @@ Chef d'état-major des armées.
 
 |
 
-212. Soutien de la politique de la défense.
+212. Soutien de la politique de défense.
 
 |
 
@@ -50,7 +48,7 @@ Secrétaire général pour l'administration.
 
 |
 
-Mission "Anciens combattants"
+Mission Anciens combattants, mémoire et liens avec la nation
 
 |
 
@@ -70,7 +68,7 @@ Secrétaire général pour l'administration.
 
 |
 
-Mission "Recherche et enseignement supérieur"
+Mission Recherche et enseignement supérieur
 
 |
 
@@ -82,9 +80,7 @@ Délégué général pour l'armement.
 
 |
 
-Mission "Gestion et valorisation des ressources tirées de l'utilisation
-
-du spectre hertzien, des systèmes et des infrastructures de télécommunications de l'Etat"
+Mission Gestion et valorisation des ressources tirées de l'utilisation du spectre hertzien,des systèmes et des infrastructures de télécommunications de l'Etat
 
 |
 
