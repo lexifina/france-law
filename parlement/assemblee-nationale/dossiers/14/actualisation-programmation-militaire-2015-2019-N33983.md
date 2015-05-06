@@ -1,0 +1,75 @@
+# Défense : actualisation de la programmation militaire 2015-2019
+
+- Procédure : Projet de loi ordinaire
+- Législature : 14
+- Identifiant : DLR5L14N33983
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/actualisation_programmation_militaire_2015-2019
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl14-494.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2015-05-20 : 1er dépôt d'une initiative. (PRJLANR5L14B2779)
+  - 2015-05-20 : Etude d'impact (ETDIANR5L14B2779)
+  - 2015-05-20 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2015-05-20 : Renvoi en commission au fond
+      - 2015-05-20 : Nomination de rapporteur
+      - 2015-05-26 : Réunion de commission
+      - 2015-05-26 : Réunion de commission
+      - 2015-05-27 : Réunion de commission
+      - 2015-06-02 : Réunion de commission
+      - 2015-06-03 : Réunion de commission
+      - 2015-06-03 : Réunion de commission
+      - 2015-05-28 : Dépôt de rapport (RAPPANR5L14B2816, PRJLANR5L14BTC2816)
+    - Travaux d'une commission saisie pour avis
+      - 2015-05-20 : Saisine pour avis d'une commission
+      - 2015-05-20 : Nomination de rapporteur
+      - 2015-05-20 : Réunion de commission
+      - 2015-05-26 : Réunion de commission
+      - 2015-05-26 : Dépôt de rapport (AVISANR5L14B2803)
+    - Travaux d'une commission saisie pour avis
+      - 2015-05-20 : Saisine pour avis d'une commission
+      - 2015-05-06 : Nomination de rapporteur
+      - 2015-05-26 : Dépôt de rapport (AVISANR5L14B2806)
+    - Travaux d'une commission saisie pour avis
+      - 2015-05-21 : Saisine pour avis d'une commission
+      - 2015-05-26 : Nomination de rapporteur
+      - 2015-05-26 : Dépôt de rapport (AVISANR5L14B2804)
+  - Discussion en séance publique
+    - 2015-06-04 : Discussion en séance publique
+    - 2015-06-04 : Discussion en séance publique
+    - 2015-06-09 : Discussion en séance publique
+    - 2015-06-09 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2015-06-10 : Dépôt d'une initiative en navette (PRJLSNR5S239B0494)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2015-06-10 : Renvoi en commission au fond
+      - 2015-06-10 : Nomination de rapporteur
+      - 2015-06-24 : Dépôt de rapport (RAPPSNR5S239B0547)
+    - Travaux d'une commission saisie pour avis
+      - 2015-06-03 : Saisine pour avis d'une commission
+      - 2015-06-03 : Nomination de rapporteur
+      - 2015-06-17 : Dépôt de rapport (AVISSNR5S239B0524)
+  - Discussion en séance publique
+    - 2015-07-08 : Discussion en séance publique
+    - 2015-07-15 : Discussion en séance publique
+    - 2015-07-15 : Décision
+- Commission Mixte Paritaire
+  - 2015-07-15 : Dépôt d'un projet de loi (PRJLANR5L14B2985)
+  - 2015-07-15 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2015-07-15 : Nomination de rapporteur
+    - 2015-07-15 : Dépôt du rapport d'une CMP (RAPPSNR5S239B0635)
+    - 2015-07-16 : Dépôt du rapport d'une CMP (RAPPANR5L14B2987)
+  - Discussion en séance publique
+    - 2015-07-16 : Discussion en séance publique
+    - 2015-07-16 : Décision
+  - Discussion en séance publique
+    - 2015-07-17 : Discussion en séance publique
+    - 2015-07-17 : Décision
+  - 2015-07-16 : Décision de la CMP
+- Promulgation de la loi
+  - 2015-07-28 : Promulgation d'une loi
