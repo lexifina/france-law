@@ -1,0 +1,9 @@
+# Réponse à la question SEQ141113770
+
+- Question : [SEQ141113770](seq141113770.md) — Seuil démographique pour les intercommunalités
+
+## Réponse
+
+*Décentralisation et fonction publique, JO du 2015-05-07, page 1062*
+
+L'article 14 du projet de loi portant nouvelle organisation territoriale de la République (NOTRe) propose de mettre en œuvre la rationalisation de la carte intercommunale autour de la notion de bassin de vie en proposant un accroissement de la taille minimale des établissements publics de coopération intercommunale (EPCI) à fiscalité propre de 5 000 à 20 000 habitants. Ces dispositions traduisent la volonté du Gouvernement de renforcer les solidarités territoriales en permettant aux intercommunalités de conforter leur rôle de structures de proximité, tout en renforçant la mutualisation de leur action et de leurs moyens avec ceux de leurs communes membres afin de leur permettre d'exercer des compétences renforcées. Pour autant, ainsi que s'y était engagé le Premier ministre le 28 octobre 2014 devant le Sénat, le Gouvernement suit attentivement toutes les suggestions proposées par les parlementaires dans le cadre des débats en cours afin d'adapter ce seuil de 20 000 habitants pour prendre en compte la diversité des territoires. L'examen du projet de loi NOTRe en première lecture à l'Assemblée nationale et au Sénat a ainsi permis, tout en confirmant le relèvement du seuil minimal de population des EPCI à fiscalité propre à 20 000 habitants, d'introduire une prise en compte de la situation particulière des territoires caractérisés par une faible densité de population, des communes situées en zones de montagne ainsi que des EPCI à fiscalité propre dont la population est proche du seuil de 20 000 habitants et qui sont issus d'une fusion intervenue après le 1er janvier 2012.
