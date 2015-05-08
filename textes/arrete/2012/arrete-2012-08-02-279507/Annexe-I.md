@@ -6,9 +6,7 @@ LISTE DES INSTANCES
 
 DIRECTION
 
-ou structure
-
-concernée
+ou structure concernée
 
 |
 
@@ -28,9 +26,7 @@ Décret n° 2010-158 du 19 février 2010
 
 |
 
-Comité national de l'organisation sanitaire et sociale
-
-Section sanitaire
+Comité national de l'organisation sanitaire et sociale, section sanitaire
 
 |
 
@@ -54,7 +50,7 @@ Arrêté du 14 juin 2011
 
 |
 
-Commission nationale d'agrément des établissements de formation en ostéopathie
+Commission consultative nationale d'agrément des établissements de formation en ostéopathie
 
 |
 
@@ -62,7 +58,31 @@ DGOS
 
 |
 
-Décret n° 2007-437 du 25 mars 2007
+Décret n° 2014-1043 du 12 septembre 2014
+
+|
+
+Commission nationale d'agrément des établissements de formation en chiropraxie
+
+|
+
+DGOS
+
+|
+
+Décret n° 2011-1127 du 20 septembre 2011
+
+|
+
+Commission chargée d'émettre un avis sur les qualifications professionnelles des personnes spécialisées en radio physique médicale titulaires d'un diplôme délivré hors de France
+
+|
+
+DGOS
+
+|
+
+Décret n° 2009-742 du 19 juin 2009
 
 |
 
@@ -86,7 +106,7 @@ DGOS
 
 |
 
-Décret n° 2009-29 du 9 janvier 2009
+Décret n° 2012-1138 du 9 octobre 2012
 
 |
 
@@ -153,36 +173,6 @@ DP1
 |
 
 Articles L. 1413-1 et R. 1413-26 à R. 1413-32 du code de la santé publique
-
-|
-
-Comité national de suivi et de prospective du plan national de lutte contre les hépatites B et C 2009-2012
-
-|
-
-DGS
-
-RI2
-
-|
-
-Décret n° 2009-1548 du 11 décembre 2009
-
-|
-
-Comité national des registres
-
-Comité spécialisé des registres de maladies rares
-
-|
-
-DGS
-
-INVS
-
-|
-
-Arrêté du 6 novembre 1995
 
 |
 
@@ -262,7 +252,7 @@ Arrêté du 24 avril 2012
 
 |
 
-Conseil national du syndrome immunodéficitaire acquis
+Conseil national du syndrome immunodéficitaire acquis (sida) et des hépatites virales chroniques
 
 |
 
@@ -272,7 +262,7 @@ RI2
 
 |
 
-Article D. 3121-1 du code de la santé publique
+Article D. 3121-1 du code de la santé publique (décret n° 2015-210 du 24 février 2015)
 
 |
 
@@ -287,6 +277,20 @@ PP1
 |
 
 Arrêté du 3 février 2009
+
+|
+
+Groupe de travail national amiante et fibres
+
+|
+
+DGS
+
+EA2
+
+|
+
+Décret n° 2013-761 du 21 août 2013
 
 |
 
@@ -321,5 +325,17 @@ MC1
 |
 
 Arrêté du 6 avril 2012 (BO n° 2012-4)
+
+|
+
+Observatoire national du suicide
+
+|
+
+DREES
+
+|
+
+Décret n° 2013-809 du 9 septembre 2013
 
 |
