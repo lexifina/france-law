@@ -16,7 +16,7 @@ M1
 
 |
 
-75
+100
 
 |
 
@@ -24,7 +24,7 @@ M2, M3
 
 |
 
-250
+250 (*)
 
 |
 
@@ -32,7 +32,7 @@ N1
 
 |
 
-500
+250 (500 jusqu'au 31 octobre 2016)
 
 |
 
@@ -40,7 +40,7 @@ N2, N3
 
 |
 
-250
+250 (*)
 
 |
 
@@ -56,6 +56,10 @@ O3, O4
 
 |
 
-250
+250 (*)
+
+|
+
+(*) Portée à 1 000 pour les catégories M2 et M3, 1 200 pour les catégories N2 et N3 et 2 000 pour les catégories O3 et O4 conformément aux dispositions du paragraphe 2 de l'article 6 du règlement UE n° 1230/2012 de la Commission du 12 décembre 2012.
 
 |
