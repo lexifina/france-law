@@ -1,0 +1,9 @@
+# Réponse à la question n° 76847
+
+- Question : [76847](76847.md) — Question n° 76847 — acomptes; réglementation
+
+## Réponse
+
+*JO du 2015-05-12*
+
+La loi n° 2014-344 du 17 mars 2014 relative à la consommation, qui vise notamment à moderniser les moyens de contrôle et d'action de l'autorité administrative chargée de la protection des consommateurs, contient des mesures destinées à prévenir les sinistres financiers dont peuvent être victimes les consommateurs en cas de défaillance d'entreprises, notamment en cas d'achat à distance (ex : CAMIF). Ainsi, l'autorité administrative chargée de la concurrence et de la consommation peut désormais mettre en oeuvre une procédure administrative de suspension temporaire de toute prise de paiement avant la livraison intégrale du produit ou l'exécution effective d'un service pour les entreprises de vente à distance qui ne sont manifestement pas ou plus en mesure de livrer leurs clients dans les délais convenus et dont la défaillance génère ou est susceptible de générer un préjudice pour un grand nombre de consommateurs. Par ailleurs, la loi du 17 mars 21014 définit les obligations d'information précontractuelle des consommateurs mises à la charge des professionnels. Les modalités d'application de ces dispositions ont été précisées par un décret du 17 septembre 2014 qui précise ainsi les informations complémentaires que tout prestataire de services doit mettre à disposition du consommateur en application de l'article L. 111-2 I. du nouveau du code de la consommation. Il s'agit notamment du statut et de la forme de l'entreprise, de son numéro d'inscription au registre du commerce, de ses activités et des éventuelles garanties financières ou assurances souscrites par le professionnel. Ces mesures issues de la loi du 17 mars 2014 accordent donc une meilleure protection des consommateurs contre les conséquences dommageables des liquidations judiciaires.
