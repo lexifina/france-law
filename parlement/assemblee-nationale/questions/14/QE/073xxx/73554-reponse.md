@@ -1,0 +1,9 @@
+# Réponse à la question n° 73554
+
+- Question : [73554](73554.md) — Question n° 73554 — viande; origine
+
+## Réponse
+
+*JO du 2015-05-12*
+
+Le Parlement européen a adopté le 11 février dernier une résolution appelant la Commission à proposer un texte législatif pour rendre obligatoire l'information des consommateurs sur l'origine des viandes entrant dans la composition des plats transformés. Actuellement et depuis 2000, l'indication de l'origine est obligatoire pour les viandes bovines non transformées. Depuis le 1er avril 2015, l'indication des pays d'élevage et d'abattage est obligatoire pour les viandes non transformées de porcins, d'ovins, de caprins et de volailles. Il appartient maintenant à la Commission de proposer une extension de ces obligations aux denrées transformées, tout en prenant en compte les contraintes économiques liées à la mise en place d'une traçabilité sur ces denrées. Le gouvernement français a de façon continue et constante appuyé les démarches des parlementaires en ce sens, que ce soit devant le Parlement européen ou devant le parlement français. Les ministres concernés ont en outre pris de nombreuses initiatives pour demander à la Commission la mise en place d'une telle législation. En 2013, le ministre chargé de la consommation était intervenu au Sommet européen de la consommation sur ce thème ; il est intervenu à nouveau, avec le ministre chargé de l'agriculture lors de la parution du rapport de la Commission sur l'étiquetage de l'origine de la viande en tant qu'ingrédient pour appeler la Commission à proposer un texte rendant obligatoire cette information pour les consommateurs. Les ministres vont à nouveau saisir le Commissaire européen à l'agriculture pour indiquer qu'il leur paraît indispensable, au regard de la demande exprimée par les consommateurs et relayée par le Parlement que la Commission soumette au plus vite une proposition sur l'indication obligatoire de l'origine de la viande dans les plats préparés.
