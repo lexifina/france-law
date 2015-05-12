@@ -1,0 +1,9 @@
+# Réponse à la question n° 77075
+
+- Question : [77075](77075.md) — Question n° 77075 — dispense; seuils; réglementation
+
+## Réponse
+
+*JO du 2015-05-12*
+
+L'article 42 de la loi n° 2014-1545 du 20 décembre 2014 relative à la simplification de la vie des entreprises, a autorisé le Gouvernement à prendre par ordonnance toute mesure relevant du domaine de la loi, nécessaire à la transposition des nouvelles directives européennes sur les marchés publics, et à la rationalisation des règles générales de passation et d'exécution de ces contrats. Le Parlement a également autorisé le Gouvernement à apporter les modifications qui seraient rendues nécessaires pour assurer le respect de la hiérarchie des normes et la cohérence rédactionnelle des textes ainsi rassemblés, harmoniser l'état du droit, remédier aux éventuelles erreurs et abroger les dispositions devenues sans objet. Ce chantier sera l'occasion de s'interroger sur le seuil de dispense de procédure. En 2011, le relèvement de ce seuil de 4 000 à 15 000 euros a fait l'objet de nombreux débats juridiques et économiques. Il a été admis par le Conseil d'Etat, compte tenu, d'une part, de son faible montant et, d'autre part, de son encadrement. Il est difficile d'apprécier l'analyse que ferait la Haute juridiction sur un nouveau relèvement au vu des principes de la commande publique et de la notion européenne d'« intérêt transfrontalier certain ». Il convient également de tenir compte des intérêts des opérateurs économiques, notamment des PME (petites et moyennes entreprises)-TPE (très petites entreprises), et des acheteurs publics. Dans ces conditions, le Gouvernement examine l'éventualité d'un relèvement du seuil dans le décret d'application de la future ordonnance, lequel sera soumis à la concertation publique au cours de l'été 2015.
