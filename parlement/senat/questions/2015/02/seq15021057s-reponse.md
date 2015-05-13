@@ -1,0 +1,35 @@
+# Réponse à la question SEQ15021057S
+
+- Question : [SEQ15021057S](seq15021057s.md) — Délivrance d'un duplicata du permis de conduire aux Français de l'étranger
+
+## Réponse
+
+*Famille, personnes âgées et autonomie, JO du 2015-05-13, page 4798*
+
+Mme Joëlle Garriaud-Maylam. Monsieur le président, madame la secrétaire d'État, mes chers collègues, ma question s'adressait effectivement à M. le ministre de l'intérieur, mais je ne doute pas que Mme la secrétaire d'État saura me répondre. Cette question porte sur les difficultés rencontrées par les Français de l'étranger égarant ou se faisant voler un permis de conduire et qui, faute de résidence en France, sont trop souvent contraints de repasser l'examen. Lors des récents débats au Sénat sur le projet de loi pour la croissance, l'activité et l'égalité des chances économiques, le ministre Emmanuel Macron a indiqué que le décret d'application allait enfin paraître cet été, répondant ainsi indirectement à ma question écrite de février 2014 portant sur ce sujet et restée sans réponse à ce jour. Il a mentionné le fait que certaines conclusions juridiques nécessaires à la rédaction définitive du décret étaient attendues pour le mois d'avril. Pourriez-vous nous informer de leur teneur, madame la secrétaire d'État ?
+
+Par ailleurs, le Sénat a voté un amendement des sénateurs représentant les Français de l'étranger visant à donner aux consulats des compétences proches de celles des préfectures en matière de délivrance de duplicatas du permis, permettant ainsi d'inscrire ce principe dans la loi. Nous espérons donc que l'Assemblée nationale conservera cette mesure. Quel que soit le sort de cet amendement, il me semble essentiel de veiller à ce que les décrets d'application couvrent bien l'intégralité des questions posées dans la résolution de l'Assemblée des Français de l'étranger de mars 2015, dont le champ est nettement plus large que l'amendement voté au Sénat.
+
+Cette résolution demandait au Gouvernement de permettre aux postes consulaires de délivrer des duplicatas de permis de conduire en cas de vol ou de perte et des permis de conduire internationaux ; d'habiliter les consulats à délivrer le relevé d'information restreint ; de simplifier la procédure de« rétablissement des droits à conduire » pour les Français qui ont été titulaires d'un permis de conduire français et qui reviennent en France ; de tenir l'assemblée des Français de l'étranger informée des négociations bilatérales menées par la France en matière d'échanges et de reconnaissance des permis de conduire ; de veiller à la bonne information des expatriés par la publication d'un fascicule d'information et la mise à jour du site internet du ministère des affaires étrangères sur ces questions ; enfin, de négocier avec nos partenaires européens pour que la réussite à l'examen du code de la route soit reconnue en Europe.
+
+Madame la secrétaire d'État, pourriez-vous prendre, au nom du Gouvernement, l'engagement que le ou les décrets d'application couvriront bien l'ensemble de ces points ?
+
+M. le président. La parole est à Mme la secrétaire d'État.
+
+Mme Laurence Rossignol,secrétaire d'État auprès de la ministre des affaires sociales, de la santé et des droits des femmes, chargée de la famille, des personnes âgées et de l'autonomie. Madame la sénatrice Joëlle Garriaud-Maylam, je vous prie tout d'abord de bien vouloir excuser l'absence du M. le ministre de l'intérieur.
+
+La situation des Français établis à l'étranger, qui ont perdu ou se sont fait voler leur permis de conduire français, est examinée avec attention par le Gouvernement. Cette question a, comme vous l'avez rappelé, fait l'objet d'un amendement parlementaire adopté à l'unanimité par le Sénat le 10 avril dernier, lors de l'examen du projet de loi pour la croissance, l'activité et l'égalité des chances économiques.
+
+Cet amendement ouvre la possibilité pour les Français résidant à l'étranger de se voir délivrer un permis de conduire par les consulats, qu'ils aient ou non conservé un lien résidentiel avec la France. La conformité de cet amendement avec la directive européenne du 20 décembre 2006 relative au permis de conduire n'est cependant pas totalement certaine.
+
+Ainsi, cette directive subordonne, dans ses articles 7 et 12, la possibilité pour un conducteur de solliciter un permis de conduire auprès d'un État à la condition qu'il ait fixé sa résidence normale sur le territoire de cet État, autrement dit qu'il y réside habituellement plus de 185 jours par an. Aussi, la demande d'un permis de conduire français ne semble pouvoir être ouverte qu'aux ressortissants français ayant conservé leur résidence normale en France.
+
+Bien sûr, le Gouvernement est pleinement conscient du facteur d'intégration important que constitue la possibilité de conduire un véhicule à l'étranger. C'est la raison pour laquelle il présentera au Conseil d'État, dans les prochaines semaines, devançant ainsi l'adoption de la loi précitée et de ses décrets d'application, un projet de décret modifiant l'article R. 225-2 du code de la route afin de permettre notamment aux conducteurs titulaires d'un permis français qui y sont autorisés par la réglementation européenne de demander le renouvellement de leur titre perdu, volé ou détérioré auprès du poste consulaire dont ils dépendent. Après avoir vérifié leur identité, ce poste transmettra, par la valise diplomatique, la demande à la préfecture chargée de l'instruction. Le Gouvernement proposera en conséquence un amendement au projet de loi précité pour fiabiliser ce dispositif juridique.
+
+M. le président. La parole est à Mme Joëlle Garriaud-Maylam.
+
+Mme Joëlle Garriaud-Maylam. Je remercie Mme la secrétaire d'État de cette réponse. Je souhaite simplement souligner le problème posé par la procédure des questions écrites et des questions orales. Ma question écrite, posée en février 2014, n'avait toujours pas reçu de réponse après quinze mois. En l'espèce, l'amendement que nous avions déposé nous a permis d'obtenir une réponse. Je pense cependant que, si le Gouvernement faisait un effort pour répondre plus rapidement à nos questions écrites, nous y gagnerions tous.
+
+En ce qui concerne ma question, il reste du travail à faire. Un certain nombre de problèmes avaient été évoqués par les Français de l'étranger, car ils sont très importants pour leur manière de vivre, de travailler et de se déplacer en Europe, et la réponse que vous nous avez donnée, madame la secrétaire d'État, n'est pas totalement satisfaisante.
+
+Il faut évidemment examiner la conformité de la solution juridique proposée par le Gouvernement à la directive européenne. Je souhaite toutefois attirer votre attention sur le fait que les Français expatriés, même s'ils n'ont pas une résidence habituelle en France, se rendent régulièrement dans notre pays. Il est donc très important de faire vivre cette double citoyenneté en leur permettant de vivre, de conduire, et d'avoir accès à une représentation administrative non seulement dans leur pays de résidence, mais également en France.
