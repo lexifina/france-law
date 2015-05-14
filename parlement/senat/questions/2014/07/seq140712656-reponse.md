@@ -1,0 +1,9 @@
+# Réponse à la question SEQ140712656
+
+- Question : [SEQ140712656](seq140712656.md) — Délégation de signature du maire à un fonctionnaire
+
+## Réponse
+
+*Intérieur, JO du 2015-05-14, page 1141*
+
+L'article L. 2122-19 du code général des collectivités territoriales autorise le maire à déléguer sa signature à certains fonctionnaires municipaux. Il convient de distinguer cette délégation de celles prévues par les articles L. 2122-18, L. 2122-22 et L. 2122-23 du même code. L'article L. 2122-18 dispose que le maire peut déléguer une partie de ses fonctions à un ou plusieurs de ses adjoints. Il s'agit d'une délégation de compétence. L'article L. 2122-22 permet au conseil municipal de déléguer un certain nombre de ses compétences au maire. En vertu de l'article L. 2122-23, sauf disposition contraire dans la délibération portant délégation au titre de l'article L. 2122-22, les décisions prises en application de ces compétences peuvent être signées par des élus bénéficiaires d'une délégation de compétence prévue par l'article L. 2122-18. L'article L. 2122-23 dispose également que « sauf disposition contraire dans la délibération, les décisions relatives aux matières ayant fait l'objet de la délégation sont prises, en cas d'empêchement du maire, par le conseil municipal ». Dès lors, l'articulation des articles L. 2122-22 et L. 2122-23 ne permet pas de subdéléguer une des compétences citées par l'article L. 2122-22 mais elle permet au maire d'en déléguer la signature à un élu, conformément aux dispositions de l'article L. 2122-23. La délégation de signature prévue par l'article L. 2122-19 n'est directement applicable qu'aux champs de compétences propres du maire. S'agissant des compétences déléguées au maire par le conseil municipal, la délégation à des fonctionnaires doit être expressément prévue par la délibération mentionnée à l'article L. 2122-22 et ne concerner que les fonctionnaires visés par l'article L. 2122-19.
