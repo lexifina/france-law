@@ -1,0 +1,9 @@
+# Réponse à la question SEQ150214917
+
+- Question : [SEQ150214917](seq150214917.md) — LGV Limoges-Poitiers
+
+## Réponse
+
+*Transports, mer et pêche, JO du 2015-05-14, page 1146*
+
+À la suite des conclusions de la Commission « Mobilité 21 », les pouvoirs publics ont donné des orientations claires sur la poursuite du projet de ligne à grande vitesse entre Poitiers et Limoges, en retenant notamment trois objectifs : la déclaration d'utilité publique ; la mise à profit des volets « Mobilité » des contrats de plan État-régions 2015-2020 pour avancer concrètement les études opérationnelles ; l'élaboration d'un schéma de financement soutenable pour l'ensemble des partenaires, condition préalable et nécessaire au lancement des travaux. Le décret de déclaration d'utilité publique des travaux de la ligne à grande vitesse entre Poitiers et Limoges a été signé le 10 janvier 2015. Une enveloppe d'un montant de 42 millions d'euros figure au projet de contrat de plan État-région 2015-2020 de la région Limousin, afin de mener à bien les études postérieures à la DUP. Dans le contexte budgétaire actuel, fortement contraint, la mise en place de ces financements, qui permettront d'engager les études de conception détaillée et les procédures environnementales prévues par la réglementation, constitue un engagement fort de l'État, de SNCF Réseau et du Conseil régional du Limousin. Parallèlement, un dossier de demande de subvention pour ces études a été déposé par la France dans le cadre de l'appel à projets du mécanisme pour l'interconnexion en Europe, le 26 février 2015. Ainsi, des perspectives claires sont données et des financements identifiés pour garantir le bon avancement des études du projet. Les réflexions sur l'établissement d'un schéma de financement soutenable pour l'ensemble des cofinanceurs doivent parallèlement se poursuivre.
