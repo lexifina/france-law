@@ -1,0 +1,9 @@
+# Réponse à la question n° 66873
+
+- Question : [66873](66873.md) — Question n° 66873 — prise en charge; rapport; préconisations
+
+## Réponse
+
+*JO du 2015-05-19*
+
+L'allocation temporaire d'attente (ATA) est versée aux ressortissants étrangers ayant été admis provisoirement au séjour en France au titre de l'asile ou bénéficiant du droit de s'y maintenir à ce titre et ayant déposé une demande d'asile auprès de l'Office français de protection des réfugiés et apatrides (code du travail, art. L. 5423-8, 1° ). La France ne conditionne pas le versement de l'ATA à un délai de dépôt de la demande d'asile. L'article L. 5423-11 du code du travail a néanmoins été modifié par la loi n° 2014-89 du 8 août 2014 de finances rectificative afin de permettre la suspension de l'ATA lorsque le demandeur d'asile n'a pas respecté l'obligation de se présenter aux autorités, n'a pas répondu aux demandes d'information, ne s'est pas rendu aux entretiens personnels concernant la procédure d'asile ou lorsqu'il a dissimulé ses ressources financières. Il est également possible de suspendre l'ATA à partir de la deuxième demande de réexamen. Par ailleurs, le projet de loi relatif à la réforme de l'asile propose, en son article 15, de modifier le système actuel d'allocations dédiées aux demandeurs d'asile. Le Gouvernement souhaite unifier les deux allocations : l'allocation mensuelle de subsistance (AMS) et l'allocation temporaire d'attente (ATA), en une seule aide financière, l'allocation pour demandeur d'asile (ADA). Les modalités pratiques concernant l'attribution de l'allocation seront définies ultérieurement par décret. Le projet de loi définit les cas de suspension ou de limitation de l'accès au bénéfice de la prise en charge du fait du demandeur d'asile, notamment en cas d'abandon du lieu d'hébergement, de non coopération ou de dissimulation de ses ressources financières, ainsi que les modalités de leur mise en oeuvre.
