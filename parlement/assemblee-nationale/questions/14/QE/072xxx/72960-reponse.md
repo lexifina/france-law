@@ -1,0 +1,9 @@
+# Réponse à la question n° 72960
+
+- Question : [72960](72960.md) — Question n° 72960 — circonscriptions; redécoupage; bureaux de vote; conséquences
+
+## Réponse
+
+*JO du 2015-05-19*
+
+La publication des décrets portant délimitation des nouveaux cantons en application de la loi organique n° 2013-402 du 17 mai 2013 relative à l'élection des conseillers municipaux, des conseillers communautaires et des conseillers départementaux ainsi que de la loi ordinaire n° 2013-43 du 17 mai 2013 relative à l'élection des conseillers départementaux, des conseillers municipaux et des conseillers communautaires, et modifiant le calendrier électoral, a nécessité la révision de certains arrêtés des représentants de l'Etat désignant les bureaux de vote en application de l'article R. 40 du code électoral. En effet, suite à la définition d'une nouvelle carte cantonale, les limites des bureaux de vote ne coïncidaient plus systématiquement avec les limites cantonales. Par conséquent, une révision de la carte des bureaux de vote concernés s'imposait. Toutefois les conséquences du nouveau redécoupage cantonal sur l'édition des cartes électorales sont limitées puisque la mention du canton sur ces documents ne constitue pas une mention obligatoire au sens de l'article R. 24 du code électoral. Ainsi, les électeurs n'ayant pas changé de bureau de vote n'ont pas reçu de nouvelle carte, même s'ils ont changé de canton. A l'inverse, les électeurs ayant changé de bureau de vote à la suite du redécoupage cantonal ont reçu une nouvelle carte électorale les informant du numéro et de l'adresse de leur nouveau bureau de vote. Les préfectures avaient pris toutes leurs dispositions pour constituer un stock de cartes électorales suffisant pour l'ensemble des électeurs des communes concernées par une refonte de leurs listes électorales en raison du redécoupage des cantons.
