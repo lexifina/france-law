@@ -1,0 +1,9 @@
+# Réponse à la question n° 57331
+
+- Question : [57331](57331.md) — Question n° 57331 — subventions d'investissement; durée d'amortissement
+
+## Réponse
+
+*JO du 2015-05-19*
+
+La durée d'amortissement des subventions d'équipement versées par les communes et les établissements publics de coopération intercommunale est définie par l'article R. 2321-1 du code général des collectivités territoriales (CGCT). Ce décret précise que l'amortissement de la subvention d'équipement versée par la commune se fait sur une durée maximale de cinq ans lorsque la subvention finance des biens mobiliers, du matériel ou des études, de quinze ans lorsqu'elle finance des biens immobiliers ou des infrastructures et de trente ans lorsqu'elle finance des équipements structurants d'intérêt national. Le Gouvernement a mis en place en février 2013 un plan national pour développer le très haut-débit afin de couvrir l'intégralité du territoire en très haut-débit d'ici à 2022. Pour atteindre cet objectif, le plan s'appuie prioritairement sur le déploiement de réseaux mutualisés de fibres optiques et mobilise un investissement de 20 milliards d'euros en dix ans, partagé entre l'Etat, les collectivités territoriales et les opérateurs privés. Par conséquent, ce plan vise à mettre en place des équipements structurant d'intérêt national et bénéficie de financements importants de l'Etat. Ainsi, lorsque la subvention d'équipement vise à financer un équipement inscrit dans le plan national pour le développement du très haut-débit, cette subvention peut être amortie sur une durée de 30 ans. Ce point a été confirmé par une décision du ministre des finances et des comptes publics et du secrétaire d'Etat chargé du budget du 27 octobre 2014. Dans les autres situations, la subvention d'équipement doit être amortie sur une période de 15 ans.
