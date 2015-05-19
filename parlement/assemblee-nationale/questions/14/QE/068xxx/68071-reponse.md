@@ -1,0 +1,15 @@
+# Réponse à la question n° 68071
+
+- Question : [68071](68071.md) — Question n° 68071 — entrée sur le territoire; refus; statistiques
+
+## Réponse
+
+*JO du 2015-05-19*
+
+Conformément aux articles R. 213-2 et R. 213-3 du Code de l'entrée et du séjour des étrangers et du droit d'asile (CESEDA), le ministre chargé de l'immigration autorise ou refuse l'entrée sur le territoire au titre de l'asile à un étranger après un avis circonstancié de l'Office français de protection des réfugiés et apatrides (OFPRA). L'étranger demeure en zone d'attente le temps strictement nécessaire à un examen tendant à déterminer si sa demande d'asile n'est pas manifestement infondée. Le refus d'entrée peut être justifié par le fait que la demande n'entre pas dans le domaine de l'asile : l'étranger indique chercher un emploi, faire du tourisme, vouloir rejoindre sa famille, fuir une condamnation pour une affaire de droit commun ou fuir un conflit d'ordre privé. La demande peut également être dénuée d'éléments circonstanciés : les déclarations et/ ou les documents produits sont manifestement dépourvus de crédibilité en raison de leur caractère incohérent, inconsistant ou trop général, et font apparaître comme manifestement dénuées de fondement les menaces de persécutions alléguées. ANNÉES 2007 2008 2009 2010 2011 2012 2013 2014
+
+Nombre de demandeurs d'asile 4 775 5 099 3 285 2 624 2 430 2 227 1 346 1 126
+
+Nombre de refus 1 847 2 879 1 851 1 592 1 705 1 720 1 044 775
+
+Refus d'entrée au titre de l'asile depuis 2007 - source : Ministère de l'Intérieur. Ainsi, en 2013, 1 346 demandes d'entrée sur le territoire au titre de l'asile ont été enregistrées, en diminution de près d'un tiers par rapport à 2012. 1 266 demandeurs d'asile à la frontière ont pu être entendus par l'OFPRA avant leur présentation devant le juge des libertés et de la détention. 1 044 demandes d'entrée sur le territoire au titre de l'asile ont été reconnues comme étant manifestement infondées par l'OFPRA et 222, reconnues non manifestement infondées, ont donné lieu à une autorisation d'entrée sur le territoire. Ces demandeurs d'asile se sont vu délivrer un sauf-conduit par les services de la police aux frontières afin qu'ils puissent se présenter en préfecture et poursuivre leurs démarches en vue de solliciter l'asile. Par ailleurs, 68,96 % des étrangers qui ont fait l'objet d'un refus d'entrée sur le territoire au titre de l'asile après avoir été entendus par l'OFPRA ont malgré tout été autorisés à entrer sur le territoire soit sur décision du juge des libertés et de la détention, soit sur décision du juge administratif, soit encore sur décision du ministre en charge de l'immigration (refus d'embarquement, impossibilité de procéder au réacheminement ou hospitalisation). Ainsi, 720 personnes se sont vues délivrer un sauf-conduit pour se rendre dans la préfecture de leur choix bien qu'un refus d'entrée sur le territoire au titre de l'asile leur ait été notifié. Ce sont donc 1 022 étrangers ayant sollicité leur entrée sur le territoire au titre de l'asile qui ont été admis sur le territoire au cours de l'année 2013, tous motifs confondus, soit 75,92 % des demandeurs.
