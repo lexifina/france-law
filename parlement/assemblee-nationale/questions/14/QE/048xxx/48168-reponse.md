@@ -1,0 +1,9 @@
+# Réponse à la question n° 48168
+
+- Question : [48168](48168.md) — Question n° 48168 — lutte et prévention
+
+## Réponse
+
+*JO du 2015-05-19*
+
+Les prescriptions applicables aux publicités, enseignes et préenseignes prévues par le code de l'environnement sont issues de la loi du 12 juillet 2010 portant engagement national pour l'environnement (loi ENE) et du décret du 30 janvier 2012 relatif à la publicité extérieure, aux enseignes et aux préenseignes. Les règles applicables à la publicité, aux enseignes et aux préenseignes ont été fixées afin d'assurer la protection du cadre de vie et des paysages tout en garantissant le respect de la liberté d'expression, de la liberté du commerce et de l'industrie, et le bon exercice de l'activité des opérateurs économiques. Le code de l'environnement prévoit en son article L. 581-2 que ces prescriptions sont applicables aux dispositifs visibles de toute voie ouverte à la circulation publique, à l'exception de ceux situés à l'intérieur de locaux dont l'utilisation principale ne constitue pas celle d'un support de publicité. Des dispositifs lumineux et non lumineux, visibles d'une voie ouverte à la circulation publique, se développent à l'intérieur de locaux équipés de baies vitrées et ne sont pas soumis aux dispositions du code de l'environnement. Pour autant, ils peuvent dans certains cas produire un impact sur la qualité du cadre de vie, notamment en fonction de leur proximité avec la baie vitrée donnant sur la voie publique. Il est à noter également que certains dispositifs installés à l'intérieur de locaux équipés de vitrines, du fait de leur distance ou orientation par rapport à la baie vitrée, peuvent ne pas avoir particulièrement d'impact sur la qualité du cadre de vie, bien qu'ils soient visibles depuis une voie ouverte à la circulation publique. À ce stade, aucune modification des dispositions du code de l'environnement n'est envisagée sur le sujet.
