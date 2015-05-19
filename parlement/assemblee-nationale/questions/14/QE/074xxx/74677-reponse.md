@@ -1,0 +1,9 @@
+# Réponse à la question n° 74677
+
+- Question : [74677](74677.md) — Question n° 74677 — lutte et prévention
+
+## Réponse
+
+*JO du 2015-05-19*
+
+En propos liminaire, il convient de préciser que le ministère de la défense ne mène aucune opération de propagande, ni de manipulation de l'information. En revanche, afin de sécuriser l'action des forces engagées sur les théâtres des opérations extérieures, le ministère de la défense dispose de moyens de veille et d'analyse des méthodes de propagande utilisées par les belligérants, notamment sur les réseaux sociaux. En effet, depuis l'émergence des « printemps arabes » en 2010, et lors de chaque crise actuelle, l'emploi croissant des réseaux sociaux par les acteurs des conflits oblige les armées françaises à intégrer dans leur environnement opérationnel les manoeuvres de déstabilisation pouvant être lancées via ce média. Une mission de vigilance a été confiée au centre interarmées des actions sur l'environnement (CIAE), placé sous l'autorité du centre de planification et de conduite des opérations de l'état-major des armées. Il peut arriver que ce centre déploie des équipes en accompagnement ou en soutien de nos opérations extérieures. Dans ce contexte, les équipes du CIAE s'attachent à comprendre en temps quasi réel la perception qu'ont les populations du déploiement de nos forces. Par ailleurs, elles surveillent ou décèlent au plus tôt les éventuelles rumeurs et menaces dirigées contre nos armées. Il s'agit aussi de permettre au ministère de la défense de prendre les mesures adaptées visant à informer sur les actions militaires menées par la France, afin de maintenir un environnement favorable à la poursuite des opérations. Aujourd'hui, cette approche est devenue l'une des conditions du succès de nos opérations. En 2014, du fait de l'accroissement de la propagande menée par Daech et du déclenchement de l'opération « Chammal », le 19 septembre 2014, les effectifs du CIAE ont été renforcés.
