@@ -1,0 +1,9 @@
+# Réponse à la question n° 58357
+
+- Question : [58357](58357.md) — Question n° 58357 — subdélégation de signature; perspectives
+
+## Réponse
+
+*JO du 2015-05-19*
+
+L'article L. 2122-19 du code général des collectivités territoriales (CGCT) autorise le maire à déléguer sa signature à certains fonctionnaires municipaux. Il convient de distinguer cette délégation de celles prévues par les articles L. 2122-18, L. 2122-22 et L. 2122-23 du même code. En vertu de l'article L. 2122-23 du CGCT, sauf disposition contraire dans la délibération portant délégation du Conseil municipal au maire au titre de l'article L. 2122-22, les décisions prises en ces matières peuvent être signées par des élus bénéficiaires d'une délégation de compétence prévue par l'article L. 2122-18. Ces dispositions ne prévoient pas que le maire puisse déléguer sa signature à un fonctionnaire municipal. En effet, la délégation de signature prévue par l'article L. 2122-19 au profit des fonctionnaires communaux n'est directement applicable qu'aux champs de compétences propres du maire. A titre de comparaison, il convient de noter que la loi n° 2010-1563 du 16 décembre 2010 de réforme des collectivités territoriales a prévu que la délégation de signature donnée par le président d'un établissement public de coopération intercommunale (EPCI) au directeur général ou au directeur général adjoint des services puisse être étendue aux attributions confiées par l'organe délibérant au président (art. L. 5211-9 du code général des collectivités territoriales). Il ressort de l'exposé des motifs de l'amendement introduisant cette disposition que le législateur a souhaité étendre aux EPCI les dispositions applicables aux exécutifs des conseils départementaux et régionaux (articles L. 3221-13 et L. 4231-9 du code général des collectivités territoriales) sans aller jusqu'à modifier le régime des délégations applicables au maire dont il rappelait la logique plus restrictive.
