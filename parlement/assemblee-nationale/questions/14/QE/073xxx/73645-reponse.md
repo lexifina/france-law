@@ -1,0 +1,9 @@
+# Réponse à la question n° 73645
+
+- Question : [73645](73645.md) — Question n° 73645 — volontariat international en entreprise; abus; conséquences
+
+## Réponse
+
+*JO du 2015-05-19*
+
+Le volontariat international en entreprise (VIE) est un dispositif attractif de soutien à l'exportation géré par Business France, pour le compte de l'Etat. Il permet aux entreprises à l'étranger de bénéficier d'un vivier de jeunes diplômés, âgés de 18 à 28 ans, aux profils qualifiés et diversifiés. Le dispositif constitue un moyen important d'internationalisation des entreprises et de renforcement de la communauté économique française dans le monde. Il est également une opportunité pour les jeunes qui peuvent acquérir une expérience professionnelle à l'international, développer leurs compétences, et envisager une future embauche au sein de l'entreprise. Business France ne dispose pas de moyens pour vérifier que l'utilisation du VIE ne se fait pas au détriment d'emplois pour salariés expatriés, mais il convient de rappeler que le développement du dispositif VIE favorise l'emploi chez les jeunes et constitue un gage d'employabilité. 85 % des jeunes ayant effectué un VIE considèrent en effet qu'il a été un tremplin pour trouver l'emploi qu'ils occupent actuellement. 84 % des postes occupés sont tournés vers l'international et dans 90 % des cas, ces postes sont dans une entreprise à dimension internationale. Bref, le VIE est, au total, un dispositif très intéressant pour nos jeunes et notre pays. En 2014, une étude du conseil supérieur de l'audiovisuel a démontré qu'une grande majorité des jeunes ayant accompli une mission VIE trouve rapidement un emploi : 92 % des VIE ont un emploi un an après la fin de leur mission. 8 jeunes sur 10 ont trouvé un poste 4 mois après leur VIE. 78 % des anciens VIE ont un CDI. Parallèlement, près de 7 jeunes sur 10 ont obtenu un poste dans l'entreprise où ils ont exercé leur VIE.
