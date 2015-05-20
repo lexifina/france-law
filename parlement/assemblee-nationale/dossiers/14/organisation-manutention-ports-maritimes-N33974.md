@@ -1,0 +1,53 @@
+# Travail : organisation de la manutention dans les ports maritimes
+
+- Procédure : Proposition de loi ordinaire
+- Législature : 14
+- Identifiant : DLR5L14N33974
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/organisation_manutention_ports_maritimes
+- Sénat : http://www.senat.fr/dossier-legislatif/ppl14-565.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2015-05-20 : 1er dépôt d'une initiative. (PIONANR5L14B2790)
+  - 2015-06-01 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2015-05-20 : Renvoi en commission au fond
+      - 2015-05-26 : Nomination de rapporteur
+      - 2015-06-17 : Réunion de commission
+      - 2015-06-17 : Dépôt de rapport (RAPPANR5L14B2873, PIONANR5L14BTC2873)
+    - Travaux d'une commission saisie pour avis
+      - 2015-06-03 : Saisine pour avis d'une commission
+      - 2015-06-02 : Nomination de rapporteur
+      - 2015-06-16 : Réunion de commission
+      - 2015-06-17 : Dépôt de rapport (AVISANR5L14B2871)
+  - Discussion en séance publique
+    - 2015-06-25 : Discussion en séance publique
+    - 2015-06-25 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2015-06-26 : Dépôt d'une initiative en navette (PIONSNR5S239B0565)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2015-06-26 : Renvoi en commission au fond
+      - 2015-07-22 : Nomination de rapporteur
+      - 2015-10-07 : Dépôt de rapport (RAPPSNR5S259B0016)
+  - Discussion en séance publique
+    - 2015-10-14 : Discussion en séance publique
+    - 2015-10-14 : Décision
+- Commission Mixte Paritaire
+  - 2015-10-14 : Dépôt d'un projet de loi (PIONANR5L14B3145)
+  - 2015-10-15 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2015-11-10 : Nomination de rapporteur
+    - 2015-11-10 : Dépôt du rapport d'une CMP (RAPPANR5L14B3208)
+    - 2015-11-10 : Dépôt du rapport d'une CMP (RAPPSNR5S259B0149)
+  - Discussion en séance publique
+    - 2015-11-17 : Discussion en séance publique
+    - 2015-11-17 : Décision
+  - Discussion en séance publique
+    - 2015-11-24 : Discussion en séance publique
+    - 2015-11-24 : Décision
+  - 2015-11-16 : Décision de la CMP
+- Promulgation de la loi
+  - 2015-12-08 : Promulgation d'une loi
