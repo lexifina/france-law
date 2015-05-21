@@ -4,7 +4,7 @@ A.-Fonctions exercées en administration centrale, à la préfecture de police o
 
 1° Chef du service de l'inspection générale de l'administration.
 
-2° Secrétaire général du ministère, directeur général et directeur d'administration centrale, président du Conseil supérieur de l'administration territoriale de l'Etat, Directeur général des étrangers en France, secrétaire général du comité interministériel de prévention de la délinquance, directeur de la préfecture de police (services administratifs) ou directeur de la préfecture de la région d'Ile-de-France, préfecture de Paris.
+2° Secrétaire général du ministère, directeur général et directeur d'administration centrale, président du Conseil supérieur de l'appui territorial et de l'évaluation, Directeur général des étrangers en France, secrétaire général du comité interministériel de prévention de la délinquance, directeur de la préfecture de police (services administratifs) ou directeur de la préfecture de la région d'Ile-de-France, préfecture de Paris.
 
 3° Chef de service, délégué ou directeur d'un service ou organisme de l'administration centrale du ministère de l'intérieur non rattaché à une direction générale ou à une direction d'administration centrale et mentionné dans le décret fixant l'organisation du ministère.
 
