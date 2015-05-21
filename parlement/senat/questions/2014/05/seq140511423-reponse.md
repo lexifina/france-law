@@ -1,0 +1,9 @@
+# Réponse à la question SEQ140511423
+
+- Question : [SEQ140511423](seq140511423.md) — Transfert partiel d'une compétence dans le domaine scolaire
+
+## Réponse
+
+*Décentralisation et fonction publique, JO du 2015-05-21, page 1193*
+
+Aux termes de l'article L. 5214-16 du code général des collectivités territoriales (CGCT), les communautés de communes disposent d'une compétence optionnelle « construction, entretien et fonctionnement d'équipements (...) de l'enseignement préélémentaire et élémentaire ». Cette compétence scolaire peut être scindée entre la compétence « établissements scolaires » (construction, grosses réparations, entretien courant, maintenance) et la compétence « service des écoles » (mobilier, fournitures, recrutement et gestion des personnels de service). Le transfert de compétence à un établissement public de coopération intercommunale (EPCI) peut donc porter sur l'une des composantes de la compétence scolaire, ou sur les deux. Dans ce cadre et en vertu du principe d'exclusivité, lorsqu'un EPCI s'est vu transférer la compétence « service des écoles », ses communes membres en sont dessaisies et elles ne sont plus en mesure de participer à l'exercice de cette compétence. Enfin, les activités périscolaires constituent un service public facultatif. La mise en place d'activités périscolaires à la suite de la réforme des rythmes scolaires relève de la compétence de chaque commune, sauf si la compétence périscolaire a été transférée à un EPCI, auquel cas ce dernier est compétent. Lorsque aucun transfert de compétence à l'intercommunalité n'est encore intervenu, l'exercice de la compétence périscolaire par un EPCI nécessite au préalable un transfert de compétence à son profit, effectué dans les conditions de droit commun prévues par l'article L. 5211-17 du CGCT, c'est-à-dire par délibérations concordantes du conseil communautaire et des communes membres de l'EPCI se prononçant à la majorité qualifiée.
