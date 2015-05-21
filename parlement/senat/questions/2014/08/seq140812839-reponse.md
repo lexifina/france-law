@@ -1,0 +1,9 @@
+# Réponse à la question SEQ140812839
+
+- Question : [SEQ140812839](seq140812839.md) — Formation des élus locaux
+
+## Réponse
+
+*Intérieur, JO du 2015-05-21, page 1197*
+
+Conformément aux dispositions des articles L. 2123-12 à L. 2123-16 du code général des collectivités territoriales (CGCT), les élus locaux peuvent disposer de formations adaptées à leurs fonctions. Le législateur a prévu que les communes membres d'un établissement public de coopération intercommunale (EPCI) peuvent transférer à ce dernier les compétences qu'elles détiennent en matière de formation conformément aux termes de l'article L. 2123-14-1. Cette compétence ne peut pas être transférée à un syndicat mixte qui n'est pas un EPCI puisque cette catégorie d'établissements, qui ne relève pas des dispositions du code général des collectivités locales relatives à la coopération intercommunale mais de dispositions propres, n'est pas composée exclusivement de communes. Par ailleurs, les élus des syndicats mixtes ne disposent pas d'un droit individuel à la formation. Le transfert de cette compétence à un EPCI entraîne la prise en charge par le budget de l'établissement des frais de formation comprenant les frais de déplacement et les frais d'enseignement, sous réserve que cette formation ait été dispensée par un organisme agréé par le conseil national de formation des élus locaux. Il appartient dès lors à l'organe délibérant de l'EPCI de se prononcer sur la prise en charge financière de la formation demandée par l'élu. Dans les six mois suivant le transfert de la compétence, l'organe délibérant de l'EPCI se prononce sur l'exercice du droit à la formation des élus des communes membres afin d'en fixer les orientations dans le respect du droit individuel à la formation de chacun des élus et détermine les orientations et les crédits ouverts à ce titre. Un tableau récapitulant les actions de formation des élus financées par l'EPCI est annexé au compte administratif.
