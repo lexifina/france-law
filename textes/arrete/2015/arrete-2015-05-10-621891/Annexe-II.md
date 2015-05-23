@@ -1,22 +1,20 @@
-# Article LEGIARTI000030424317
+# Article Annexe II
 
-ANNEXE II
-
-Modèle type de plan de gestion des quotas des organisations de producteurs
+MODÈLE TYPE DE PLAN DE GESTION DES QUOTAS DES ORGANISATIONS DE PRODUCTEURS
 
 Sommaire
 
-I.- Bilan du plan de gestion des quotas de l'année [N - 1]
+I. - Bilan du plan de gestion des quotas de l'année [N - 1]
 
 1. Analyse des mesures mises en œuvre
 
-2). Bilan des sanctions mises en œuvre par l'OP
+2. Bilan des sanctions mises en œuvre par l'OP
 
 II. - Plan de gestion des quotas de l'année [N]
 
 1. Tableau synthétique des mesures de gestion par quota
 
-2. Présentation détaillée des mesures de gestion prévues sur les « espèces sensibles »
+2. Présentation détaillée des mesures de gestion prévues sur les "espèces sensibles"
 
 a) Quota de captures de sole VIII a, b
 
@@ -58,31 +56,43 @@ NOMBRE
 
 de navires
 
-au 01.01.n-1 |
+au 01.01.n - 1
+
+|
 
 NOMBRE
 
-d'entrées |
+d'entrées
+
+|
 
 RAISONS
 
-des entrées (1) |
+des entrées (1)
+
+|
 
 NOMBRE
 
-de sorties |
+de sorties
+
+|
 
 RAISONS
 
-des sorties (2) |
+des sorties (2)
+
+|
 
 NOMBRE
 
 de navires
 
-au 31.12.n-1 |
+au 31.12.n - 1
 
-Chalutier |
+|
+
+Chalutier
 
 |
 
@@ -96,7 +106,9 @@ Chalutier |
 
 |
 
-Palangrier |
+|
+
+Palangrier
 
 |
 
@@ -110,7 +122,9 @@ Palangrier |
 
 |
 
-Fileyeur |
+|
+
+Fileyeur
 
 |
 
@@ -124,7 +138,9 @@ Fileyeur |
 
 |
 
-Caseyeur |
+|
+
+Caseyeur
 
 |
 
@@ -138,7 +154,9 @@ Caseyeur |
 
 |
 
-Mixte |
+|
+
+Mixte
 
 |
 
@@ -152,7 +170,9 @@ Mixte |
 
 |
 
-Autre |
+|
+
+Autre
 
 |
 
@@ -166,7 +186,11 @@ Autre |
 
 |
 
-Total |
+|
+
+Total
+
+|
 
 |
 
@@ -182,15 +206,23 @@ Total |
 
 (1) Nouvelles installations, adhésion d'un hors OP, changement d'OP, renouvellement, importation (préciser le pays), etc.
 
-(2) PSF, vente, exclusion, exportation (préciser le pays), naufrage, etc. |
+(2) PSF, vente, exclusion, exportation (préciser le pays), naufrage, etc.
+
+|
 
 2. Bilan des sanctions mises en œuvre par l'OP
 
-TYPE DE SANCTION |
+TYPE DE SANCTION
 
-MOTIF D'APPLICATION |
+|
 
-NOMBRE DE NAVIRES SANCTIONNÉS |
+MOTIF D'APPLICATION
+
+|
+
+NOMBRE DE NAVIRES SANCTIONNÉS
+
+|
 
 |
 
@@ -208,15 +240,23 @@ II. - Plan de gestion des quotas de l'année [N]
 
 1. Tableau synthétique des mesures de gestion par quota
 
-QUOTA |
+QUOTA
+
+|
 
 ENVELOPPE RÉPARTIE
 
-entre les adhérents (en tonnes) |
+entre les adhérents
 
-MESURE DE GESTION |
+(En tonnes)
 
-DÉCISION (S) DU CA |
+|
+
+MESURE DE GESTION
+
+|
+
+DÉCISION(S) DU CA
 
 |
 
@@ -234,7 +274,9 @@ DÉCISION (S) DU CA |
 
 |
 
-2. Présentation détaillée des mesures de gestion prévues sur les « espèces sensibles »
+|
+
+2. Présentation détaillée des mesures de gestion prévues sur les "espèces sensibles"
 
 a) Quota de captures de sole VIII a, b
 
@@ -248,29 +290,41 @@ Plan de capacité du quota concerné :
 
 NOMBRE
 
-de navires au 01.01.N |
+de navires au 01.01.N
+
+|
 
 NOMBRE
 
-d'entrées prévues |
+d'entrées prévues
+
+|
 
 RAISONS
 
-des entrées (1) |
+des entrées (1)
+
+|
 
 NOMBRE
 
-de sorties prévues |
+de sorties prévues
+
+|
 
 RAISONS
 
-des sorties (2) |
+des sorties (2)
+
+|
 
 NOMBRES
 
-de navires attendus sur la pêcherie |
+de navires attendus sur la pêcherie
 
-Chalutier |
+|
+
+Chalutier
 
 |
 
@@ -284,7 +338,9 @@ Chalutier |
 
 |
 
-Palangrier |
+|
+
+Palangrier
 
 |
 
@@ -298,7 +354,9 @@ Palangrier |
 
 |
 
-Fileyeur |
+|
+
+Fileyeur
 
 |
 
@@ -312,7 +370,9 @@ Fileyeur |
 
 |
 
-Caseyeur |
+|
+
+Caseyeur
 
 |
 
@@ -326,7 +386,9 @@ Caseyeur |
 
 |
 
-Mixte |
+|
+
+Mixte
 
 |
 
@@ -340,7 +402,9 @@ Mixte |
 
 |
 
-Autre |
+|
+
+Autre
 
 |
 
@@ -354,7 +418,11 @@ Autre |
 
 |
 
-Total |
+|
+
+Total
+
+|
 
 |
 
@@ -370,89 +438,123 @@ Total |
 
 (1) Nouvelles installations, adhésion d'un hors OP, changement d'OP, renouvellement, importation (préciser le pays), etc.
 
-(2) PSF, vente, exclusion, exportation (préciser le pays), naufrage, etc. |
+(2) PSF, vente, exclusion, exportation (préciser le pays), naufrage, etc.
+
+|
 
 Calendrier prévisionnel d'activité :
 
-MOIS |
+MOIS
 
-QUANTITÉ (TONNES) |
+|
 
-PRIX MOYEN |
+QUANTITÉ (TONNES)
 
-Janvier |
+|
+
+PRIX MOYEN
+
+|
+
+Janvier
 
 |
 
 |
 
-Février |
+|
+
+Février
 
 |
 
 |
 
-Mars |
+|
+
+Mars
 
 |
 
 |
 
-Avril |
+|
+
+Avril
 
 |
 
 |
 
-Mai |
+|
+
+Mai
 
 |
 
 |
 
-Juin |
+|
+
+Juin
 
 |
 
 |
 
-Juillet |
+|
+
+Juillet
 
 |
 
 |
 
-Août |
+|
+
+Août
 
 |
 
 |
 
-Septembre |
+|
+
+Septembre
 
 |
 
 |
 
-Octobre |
+|
+
+Octobre
 
 |
 
 |
 
-Novembre |
+|
+
+Novembre
 
 |
 
 |
 
-Décembre |
+|
+
+Décembre
 
 |
 
 |
 
-Total |
+|
+
+Total
+
+|
 
 |
 
