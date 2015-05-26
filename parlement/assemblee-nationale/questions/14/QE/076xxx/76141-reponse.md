@@ -1,0 +1,9 @@
+# Réponse à la question n° 76141
+
+- Question : [76141](76141.md) — Question n° 76141 — dépistage; perspectives
+
+## Réponse
+
+*JO du 2015-05-26*
+
+Le cancer colorectal est le 2e cancer le plus meurtrier en France, avec plus de 17 500 décès par an. Le test au Gaiäc « Hemoccult », utilisé depuis plusieurs années pour le dépistage organisé du cancer colorectal, est remplacé en 2015 par un test immunologique plus performant (il peut détecter 2 à 2,5 fois plus de cancers et 3 à 4 fois plus d'adénomes), plus fiable (il ne peut pas être rendu positif par une alimentation particulière) et plus simple d'utilisation pour les personnes dépistées (1 seul prélèvement contre 6 actuellement). Il s'agit d'une avancée majeure pour faire progresser le dépistage de ce cancer encore bien trop fréquent dans notre pays. Les anciens tests au Gaïac ont été arrêtés début 2015 pour mettre à disposition ce nouveau test auprès des professionnels de santé et des personnes à dépister. Les nouveaux tests immunologiques ont été mis à disposition des médecins et des structures de gestion en avril et les médecins ont été formés à l'utilisation de ce nouveau test à l'aide de kits de dépistage dès le 15 mars 2015. Depuis le 5 mai dernier, date du lancement officiel du nouveau test de dépistage, ce sont près de 9 millions de Français qui, en 2015, bénéficieront du nouveau test immunologique. Les personnes ayant réalisé l'ancien test début 2015 sans possibilité de lecture par les centres de lecture du test au Gaïac seront invitées en priorité. Il faut rappeler que l'enjeu de ce dépistage est la fréquence de sa réalisation, tous les deux ans et sa régularité entre 50 et 74 ans. Ainsi, avec les nouveaux tests immunologiques, toutes les personnes à dépister le seront dans des conditions qui garantissent la qualité et la fiabilité des résultats.
