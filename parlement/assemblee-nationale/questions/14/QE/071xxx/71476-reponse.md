@@ -1,0 +1,9 @@
+# Réponse à la question n° 71476
+
+- Question : [71476](71476.md) — Question n° 71476 — amiante; décès; reconnaissance
+
+## Réponse
+
+*JO du 2015-05-26*
+
+L'article 53 de la loi n° 2000-1257 du 23 décembre 2000 de financement de la sécurité sociale pour 2001 a posé le principe selon lequel la reconnaissance, par une caisse de sécurité sociale, d'une maladie professionnelle occasionnée par l'amiante vaut justification de l'exposition à l'amiante devant le fonds d'indemnisation des victimes de l'amiante (FIVA). Toutefois, il est exact qu'il n'existe pas de disposition similaire en cas de décès de la victime. Le FIVA examine aujourd'hui, indépendamment de la caisse de sécurité sociale, le lien de causalité entre le décès et la maladie professionnelle de la victime, pour procéder à l'indemnisation de ses ayants-droit. Le Gouvernement est très attaché à ce que les familles des victimes de l'amiante puissent bénéficier rapidement d'une indemnisation de leur préjudice auprès du FIVA, sans qu'elles soient soumises à une procédure qui leur apparaîtrait redondante et, par conséquent, difficilement compréhensible. C'est pourquoi l'Assemblée nationale, dans le cadre de l'examen en première lecture du projet de loi de modernisation de notre système de santé, a adopté un amendement afin de mettre un terme à ce problème. Cet amendement prévoit que lorsque le décès sera reconnu imputable à une maladie professionnelle liée à une exposition à l'amiante en application de la législation française de sécurité sociale, cette reconnaissance vaudra justification du lien entre l'exposition à l'amiante et le décès à l'égard du FIVA, comme c'est le cas pour les maladies professionnelles hors décès. Les ayants-droit pourront alors se prévaloir devant le FIVA de la décision de la caisse de sécurité sociale qui a déjà reconnu le lien entre la maladie professionnelle et le décès.
