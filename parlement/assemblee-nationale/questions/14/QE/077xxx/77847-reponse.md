@@ -1,0 +1,9 @@
+# Réponse à la question n° 77847
+
+- Question : [77847](77847.md) — Question n° 77847 — chômeurs de longue durée; projet ATD quart-monde; expérimentation
+
+## Réponse
+
+*JO du 2015-05-26*
+
+Aux côtés des politiques publiques voisinent des projets novateurs et originaux, capables de contribuer à lutter contre le chômage de longue durée. Ils peinent souvent à entrer dans les politiques publiques très normatives et nécessitent donc une attention toute particulière à laquelle le gouvernement se veut attentif. A l'occasion de la présentation du plan de mobilisation contre le chômage de longue durée annoncé le 9 février 2015, il a été décidé d'ouvrir un espace pour des actions innovantes, telle que celle d'ATD Quart Monde. Ainsi, le ministère du travail va mettre en place un accélérateur de l'innovation sociale. Cet accélérateur qui sera piloté par un opérateur spécialisé aura une double fonction : - L'expertise : capitaliser les expériences menées contre le chômage de longue durée, en tirer des enseignements, évaluer ce qui marche et ce qui ne marche pas, repérer les idées innovantes. - L'expérimentation : parallèlement, il s'agira de donner une réalité à des projets innovants, sortant des sentiers battus mais faisant sens. Il aura pour finalité d'aider les initiatives innovantes et efficaces contre le chômage de longue durée à se pérenniser et à s'étendre. Le ministre a indiqué tout particulièrement que l'expérimentation « Territoire zéro chômeur de longue durée » avait vocation à bénéficier des opportunités créées par cet accélérateur de l'innovation sociale, afin d'être accompagnée dans l'évaluation et dans l'expérimentation. Le dispositif est en cours de mise en place. Il devrait être en mesure de démarrer l'évaluation et l'accompagnement du projet « Zéro chômeur de longue durée » dans les semaines à venir.
