@@ -1,0 +1,9 @@
+# Réponse à la question n° 77200
+
+- Question : [77200](77200.md) — Question n° 77200 — prise en charge
+
+## Réponse
+
+*JO du 2015-05-26*
+
+L'endométriose est une maladie chronique, hormono-dépendante, qui concerne environ 10 % des femmes et provoque douleurs et risque d'infertilité. Malgré ses répercussions, cette pathologie gynécologique peut être sous-estimée ou mal connue de certains praticiens. L'information des professionnels est donc cruciale pour diagnostiquer une endométriose et pour orienter la femme vers un spécialiste ou une équipe pluridisciplinaire compétente devant certains signes évocateurs de cette pathologie. Sa prise en charge a fait l'objet de recommandations professionnelles de la part des gynécologues obstétriciens qui ont constitué un réseau de référents en la matière. Ce réseau est soutenu et répertorié par une association de patientes (www. endofrance. org). Afin d'améliorer la prise en charge des femmes qui sont concernées par une endométriose, une structure spécialisée pluridisciplinaire a été mise en place au centre hospitalier universitaire de Rouen en lien avec l'agence régionale de santé (ARS) de Haute-Normandie. Un second projet expérimental est préparé sous l'égide de l'ARS de Provence-Alpes-Côte d'Azur et a reçu un avis favorable du ministère chargé de la santé. Cette expérimentation fera l'objet d'une évaluation au cours de l'année 2016. Les divers échanges avec les services du ministère chargé de la santé, la mise en place de deux expérimentations locales et la perspective d'une labellisation par la Haute autorité de santé (HAS) de recommandations de bonnes pratiques émanant d'une société savante constituent des préliminaires indispensables à la définition d'un cahier des charges national qui permettra d'améliorer les prises en charge des patientes concernées par cette maladie chronique.
