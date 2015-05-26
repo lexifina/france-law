@@ -1,0 +1,9 @@
+# Réponse à la question n° 75250
+
+- Question : [75250](75250.md) — Question n° 75250 — convention internationale sur la protection des droits des travailleurs migrants
+
+## Réponse
+
+*JO du 2015-05-26*
+
+La France est particulièrement attentive à la question des migrations internationales et reste l'un des tout premiers pays d'accueil de l'OCDE. La Convention internationale sur la protection des droits de tous les travailleurs migrants et des membres de leurs familles, adoptée le 18 décembre 1990 par l'Assemblée générale des Nations unies et entrée en vigueur le 1er juillet 2003 ne crée pas de droits dont ne bénéficieraient déjà les migrants en droit français. Le droit applicable en France offre en effet déjà un cadre protecteur aux travailleurs migrants. De plus, le texte de la Convention soulève une difficulté majeure quant à son champ d'application, qui ne fait pas de distinction entre les travailleurs migrants en situation régulière et ceux qui se trouvent en situation irrégulière, ce qui, au regard du droit français est problématique. La Convention compte aujourd'hui 47 Etats parties. Aucun pays de l'Union européenne n'a ratifié ni même signé cette Convention. La France, en concertation avec ses partenaires européens, n'entend donc pas procéder à la ratification. Pour la France, les droits fondamentaux des travailleurs migrants, quelle que soit leur situation vis-à-vis du droit au séjour, sont protégés par son droit interne, le droit de l'Union européenne, la Convention européenne de sauvegarde des droits de l'Homme et des libertés fondamentales, et les autres instruments internationaux de protection des droits de l'Homme auxquels la France est partie. La France entend poursuivre un dialogue continu et constructif avec les Etats et les organisations concernés par les migrations internationales, notamment avec l'Organisation internationale pour les migrations (OIM).
