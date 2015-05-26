@@ -1,0 +1,9 @@
+# Réponse à la question n° 73825
+
+- Question : [73825](73825.md) — Question n° 73825 — périodes de détachement; remboursement; décret; publication
+
+## Réponse
+
+*JO du 2015-05-26*
+
+Les fonctionnaires et militaires français détachés dans une administration ou un organisme implanté sur le territoire d'un Etat étranger ou auprès d'un organisme international peuvent choisir de cotiser uniquement dans le régime de pension étranger ou bien d'opter pour une double cotisation (dans le système de retraite français et étranger). Ce dispositif permet ainsi aux fonctionnaires détachés, qui ne sont pas assurés à l'avance de pouvoir bénéficier d'une pension étrangère, d'avoir un minimum de pension garanti du fait de la prise en compte, pour le calcul de la pension française, des cotisations versées au régime de retraite français durant leur période de détachement. Depuis la loi n° 2013-1279 du 29 décembre 2013 de finances rectificative pour 2013, les fonctionnaires qui sont assurés d'obtenir une pension étrangère (car ils en remplissent les conditions) ont la possibilité d'obtenir le remboursement des cotisations versées au régime de retraite français durant leur période de détachement. Les conditions de remboursement de ces cotisations doivent être précisées par décret en Conseil d'Etat. Compte tenu de sa technicité, ce décret a nécessité plusieurs consultations auprès des directions et services chargés de sa mise en oeuvre. Désormais finalisé, il a été soumis à l'examen du Conseil d'Etat et sera publié avant la fin du premier semestre de cette année. Les fonctionnaires qui, à la date d'entrée en vigueur de la loi de finances rectificative pour 2013, remplissaient les conditions pour déposer une demande de remboursement, pourront, en tout état de cause, déposer leur demande à compter de la date de publication du décret, qu'ils aient ou non déjà liquidé leur pension française.
