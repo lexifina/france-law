@@ -1,0 +1,9 @@
+# Réponse à la question n° 67710
+
+- Question : [67710](67710.md) — Question n° 67710 — prévention; livre blanc; recommandations
+
+## Réponse
+
+*JO du 2015-05-26*
+
+La situation de la mortalité cardio-neurovasculaire en France est globalement favorable avec une baisse importante et régulière de la mortalité cardio-neurovasculaire sur plusieurs décennies, et un taux de mortalité le plus faible d'Europe, avec toutefois un très fort écart entre hommes et femmes, et la persistance d'inégalités sociales ou territoriales. Parmi les signaux préoccupants, figure une augmentation de 12,5 % des hospitalisations pour infarctus du myocarde chez les femmes de moins de 65 ans, sur la période 2000-2009, selon les données publiées par l'Institut de veille sanitaire en 2012. Cette évolution défavorable est à mettre en parallèle avec l'augmentation conjointe du cancer du poumon chez les femmes (+ 5,3 % d'augmentation annuelle entre 2005 et 2012) et reflète, entre autres, les conséquences depuis longtemps annoncées du développement du tabagisme chez les femmes. C'est pourquoi la ministre des affaires sociales, de la santé et des droits des femmes s'est engagée résolument, avec la présentation, en septembre 2014, du plan national de réduction du tabagisme, dans une nouvelle étape de la lutte contre ce fléau. Les témoignages et conclusions relatives à la santé des femmes rassemblés par les Etats généraux du coeur et consignés dans le livre blanc d'octobre 2014 trouveront leur déclinaison dans la stratégie nationale de santé et le projet de la loi de modernisation de notre système de santé. Cela concerne notamment la promotion de la santé, renforcée dès l'enfance par le parcours éducatif en santé, ainsi que l'organisation territorialisée du parcours de soins conçu pour répondre aux défis des maladies chroniques.
