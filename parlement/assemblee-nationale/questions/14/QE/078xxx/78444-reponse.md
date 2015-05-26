@@ -1,0 +1,9 @@
+# Réponse à la question n° 78444
+
+- Question : [78444](78444.md) — Question n° 78444 — mobilité des jeunes; stages; perspectives
+
+## Réponse
+
+*JO du 2015-05-26*
+
+Le Canada a annoncé le 9 février 2015 et mis en oeuvre le 21 février 2015 une nouvelle procédure qui s'adresse aux demandeurs étrangers devant occuper un emploi au Canada, dans un cadre spécifique (accord en matière de mobilité des jeunes franco-canadiens, accords entre établissements supérieurs, etc.) et qui sont dispensés de la procédure de droit commun d'étude d'impact sur le marché du travail (permis de travail dit « fermé »). Cette procédure, qui relève d'une décision souveraine du Canada, s'applique également aux stagiaires, ceux-ci ne constituant pas une catégorie séparée aux yeux de la loi canadienne et étant considérés comme occupant un emploi. Les jeunes Français souhaitant effectuer un stage au Canada sont affectés par ces nouvelles mesures, que ce soit dans le cadre du programme « Expérience internationale Canada » ou dans un autre cadre. Elles n'affectent, cependant, ni les détenteurs ou futurs détenteurs d'un permis vacances-travail, ni les Français étudiant actuellement au Canada. Conscient des difficultés créées par cette nouvelle procédure établie dans un délai très court notamment pour les Français ayant engagé des frais (billets d'avion, location d'un logement) et devant nécessairement effectuer un stage au Canada pour valider leur année d'études, le ministère des affaires étrangères et du développement international, au travers de son ambassade à Ottawa, a engagé des démarches auprès des autorités canadiennes afin de les sensibiliser à la situation de ces Français et de rechercher une solution dans le cadre de la loi canadienne. La promotion des échanges éducatifs et universitaires demeure une priorité de nos relations avec le Canada, sur laquelle le MAEDI est fortement mobilisé.
