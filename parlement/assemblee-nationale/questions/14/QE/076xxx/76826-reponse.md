@@ -1,0 +1,9 @@
+# Réponse à la question n° 76826
+
+- Question : [76826](76826.md) — Question n° 76826 — gares routières; développement; perspectives
+
+## Réponse
+
+*JO du 2015-05-26*
+
+L'ouverture à l'initiative privée des lignes régulières de transports par autocar va entraîner une augmentation de la demande d'accès aux gares routières existantes et des besoins de nouvelles gares et de points d'arrêt. Elle pourrait s'accompagner aussi d'une demande plus soutenue en matière de services dans les gares tant de la part des transporteurs que des usagers. Dans tous les cas, on peut anticiper le lancement, à l'initiative des collectivités ou des sociétés privées, de projets d'amélioration ou de création de gares routières ainsi que le développement de points d'arrêt plus sommaires. Il est important que cela se fasse dans le cadre d'une démarche maîtrisée permettant de garantir notamment le respect des obligations d'ordre public. Les schémas régionaux de l'intermodalité créés par la loi n° 2014-57 du 27 janvier 2014 de modernisation de l'action publique territoriale et d'affirmation des métropoles sont destinés à permettre l'amélioration de la coordination au niveau régional des politiques conduites en matière de mobilité par les collectivités publiques. Ces schémas sont élaborés par les régions en collaboration avec les départements et les autorités organisatrices de la mobilité situées sur le territoire régional. Les questions relatives aux gares routières publiques ont naturellement vocation à y être prises en compte. Au-delà, l'ordonnance prévue à l'article 4 de la loi pour la croissance et l'activité, en cours de discussion au Parlement, est destinée à traiter l'ensemble des problématiques relatives aux gares routières, tant publiques que privées, dans le contexte du développement des services de transports interurbains librement organisés.
