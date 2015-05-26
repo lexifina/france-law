@@ -1,0 +1,9 @@
+# Réponse à la question n° 72139
+
+- Question : [72139](72139.md) — Question n° 72139 — langue des signes; professeurs; recrutement
+
+## Réponse
+
+*JO du 2015-05-26*
+
+Le recrutement des enseignants du second degré s'effectue dans le cadre de concours nationaux dont les volumes sont déterminés annuellement dans le respect des emplois votés en loi de finances et en fonction de plusieurs facteurs, tels que la situation de la ressource enseignante et l'estimation du nombre des départs en retraite impactant l'année du concours. S'agissant de la langue des signes française (LSF), le nombre de postes offerts aux concours du second degré (concours externe et troisième voie), qui était de 5 postes entre 2010 et 2013, a été augmenté et porté à 7 postes pour l'année 2014 (2 postes au titre de la session 2014 exceptionnelle et 5 postes au titre de la session 2014 rénovée). Par ailleurs, depuis 2013, compte tenu de la structure des viviers de candidats, il a été choisi de faire légèrement prévaloir le troisième concours sur le concours externe. En effet, les conditions requises pour se présenter à cette voie de recrutement permettent d'ouvrir des possibilités à un public élargi (ayant exercé notamment des activités professionnelles ou de responsabilités pendant cinq ans). Pour la session 2015, le niveau de recrutement est équivalent à celui de l'année 2014, soit 7 postes (3 postes offerts au concours externe et 4 au titre du troisième concours). Enfin, conformément à la loi n° 2012-347 du 12 mars 2012 relative à l'accès à l'emploi titulaire et à l'amélioration des conditions d'emploi des agents contractuels dans la fonction publique, 2 postes ont été offerts au CAPES réservé de LSF en 2014, afin de permettre la titularisation des agents contractuels éligibles qui exerçaient déjà dans la discipline.
