@@ -1,0 +1,9 @@
+# Réponse à la question n° 67634
+
+- Question : [67634](67634.md) — Question n° 67634 — professions réglementées; pharmaciens; réforme
+
+## Réponse
+
+*JO du 2015-05-26*
+
+Depuis trois ans, en concertation avec les organisations professionnelles, la ministre des Affaires Sociales, de la Santé et des Droits des Femmes poursuit la modernisation du métier de pharmacien d'officine. Ainsi, la vente sur Internet a-t-elle été autorisée dans un cadre garantissant la sécurité, une expérimentation sur la vente d'antibiotiques à l'unité a été lancée, le rôle de conseil des pharmaciens a été renforcé, trouvant sa traduction dans de nouvelles modalités de rémunération mises en place au 1er janvier 2015. Cette modernisation s'inscrit dans une démarche qui doit respecter des principes clairs : - préserver, tout en le modernisant, le réseau officinal et ses 22 000 officines, qui permettent un égal accès de tous les citoyens aux médicaments en assurant une présence sur l'ensemble du territoire ; - reconnaître le rôle de proximité des pharmaciens d'officine dans l'organisation de notre système de santé, tout particulièrement en direction des malades chroniques et des personnes âgées ; - promouvoir le bon usage du médicament, lutter contre la surconsommation mais aussi contre le gaspillage, car les médicaments ne doivent en aucun cas être considérés comme des produits de consommation courante dont la banalisation nuirait aux impératifs de santé publique. A cet égard, la ministre des Affaires Sociales, de la Santé et des Droits des Femmes a réitéré à plusieurs reprises son opposition à la vente de médicaments en grande surface tout en promouvant, en lien avec la profession, la modernisation des règles de transfert ou l'évolution des structures professionnelles afin de favoriser l'installation des jeunes pharmaciens, sujets traités par le projet de loi de modernisation de notre système de santé.
