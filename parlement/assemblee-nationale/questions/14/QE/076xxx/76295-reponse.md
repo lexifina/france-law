@@ -1,0 +1,9 @@
+# Réponse à la question n° 76295
+
+- Question : [76295](76295.md) — Question n° 76295 — modernisation; décrets; publication; perspectives
+
+## Réponse
+
+*JO du 2015-05-26*
+
+L'article 1er de la loi n° 2014-58 du 27 janvier 2014 de modernisation de l'action publique territoriale et d'affirmation des métropoles crée une nouvelle procédure de demande et d'attribution de délégations de compétences de l'Etat aux collectivités territoriales. Jusqu'à l'entrée en vigueur de ce dispositif, il n'était prévu la possibilité de délégations de compétences de l'Etat aux collectivités que dans des domaines expressément visés, notamment dans le domaine du logement, avec la possibilité de délégation des « aides à la pierre » aux départements et établissements publics de coopération intercommunale (EPCI). Le nouvel article L. 1111-8-1 du code général des collectivités territoriales (CGCT) permet ainsi à l'Etat de déléguer, par convention, l'exercice de certaines de ses compétences à une collectivité territoriale ou à un EPCI à fiscalité propre, à la demande de celle-ci ou de celui-ci. Sont expressément exclues du champ de cette procédure de délégation de compétences un certain nombre de matières dites « régaliennes ». La procédure est encadrée par un délai d'un an entre la demande de la collectivité et, si la délégation est acceptée par l'Etat, la transmission du projet de convention. Il s'agit d'une procédure volontaire de part et d'autre : la collectivité ou l'EPCI à fiscalité propre doit en formuler la demande et l'Etat n'a pas compétence liée pour y donner suite. La convention fixe la durée, définit les objectifs à atteindre, précise les moyens mis en oeuvre ainsi que les modalités de contrôle de l'Etat sur la collectivité territoriale ou l'EPCI à fiscalité propre délégataire. La publication du décret en Conseil d'Etat définissant les modalités de cette convention interviendra au cours du premier semestre 2015.
