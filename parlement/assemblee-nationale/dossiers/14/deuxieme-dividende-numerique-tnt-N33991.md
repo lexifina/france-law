@@ -1,0 +1,62 @@
+# Culture : deuxième dividende numérique et télévision numérique terrestre
+
+- Procédure : Proposition de loi ordinaire
+- Législature : 14
+- Identifiant : DLR5L14N33991
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/deuxieme_dividende_numerique_TNT
+- Sénat : http://www.senat.fr/dossier-legislatif/ppl14-544.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2015-05-28 : 1er dépôt d'une initiative. (PIONANR5L14B2822)
+  - 2015-06-04 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2015-05-28 : Renvoi en commission au fond
+      - 2015-05-27 : Nomination de rapporteur
+      - 2015-06-17 : Réunion de commission
+      - 2015-06-23 : Réunion de commission
+      - 2015-06-17 : Dépôt de rapport (RAPPANR5L14B2877, PIONANR5L14BTC2877)
+    - Travaux d'une commission saisie pour avis
+      - 2015-06-02 : Saisine pour avis d'une commission
+      - 2015-06-02 : Nomination de rapporteur
+      - 2015-06-10 : Réunion de commission
+      - 2015-06-10 : Dépôt de rapport (AVISANR5L14B2863)
+  - Discussion en séance publique
+    - 2015-06-23 : Discussion en séance publique
+    - 2015-06-23 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2015-06-24 : Dépôt d'une initiative en navette (PIONSNR5S239B0544)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2015-06-24 : Renvoi en commission au fond
+      - 2015-06-17 : Nomination de rapporteur
+      - 2015-07-08 : Dépôt de rapport (RAPPSNR5S239B0605)
+    - Travaux d'une commission saisie pour avis
+      - 2015-06-17 : Saisine pour avis d'une commission
+      - 2015-06-17 : Nomination de rapporteur
+      - 2015-07-15 : Dépôt de rapport (AVISSNR5S239B0626)
+    - Travaux d'une commission saisie pour avis
+      - 2015-06-24 : Saisine pour avis d'une commission
+      - 2015-06-24 : Nomination de rapporteur
+      - 2015-07-07 : Dépôt de rapport (AVISSNR5S239B0598)
+  - Discussion en séance publique
+    - 2015-07-22 : Discussion en séance publique
+    - 2015-07-22 : Décision
+- Commission Mixte Paritaire
+  - 2015-07-22 : Dépôt d'un projet de loi (PIONANR5L14B3033)
+  - 2015-07-22 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2015-09-15 : Nomination de rapporteur
+    - 2015-09-15 : Dépôt du rapport d'une CMP (RAPPSNR5S239B0681)
+    - 2015-09-16 : Dépôt du rapport d'une CMP (RAPPANR5L14B3057)
+  - Discussion en séance publique
+    - 2015-09-30 : Discussion en séance publique
+    - 2015-09-30 : Décision
+  - Discussion en séance publique
+    - 2015-10-05 : Discussion en séance publique
+    - 2015-10-05 : Décision
+  - 2015-09-16 : Décision de la CMP
+- Promulgation de la loi
+  - 2015-10-14 : Promulgation d'une loi
