@@ -44,21 +44,19 @@ L'usage de tout matériel électronique est strictement interdit pendant l'épre
 
 2. A l'oral :
 
-Un extrait vidéo d'une durée de 4 à 6 minutes maximum dans la langue choisie, portant sur l'actualité, est proposé au candidat, qui en prépare un court résumé et un commentaire personnel suivi d'un entretien avec l'examinateur. Les extraits vidéo proposés sont des documents journalistiques (extraits d'émissions télévisées, de débats, de bulletins d'information et de documentaires).
+Un extrait vidéo d'une durée de 4 à 6 minutes maximum dans la langue choisie, portant sur l'actualité, est proposé au candidat, qui en prépare un court résumé et un commentaire personnel suivi d'un entretien avec les examinateurs. Les extraits vidéo proposés sont des documents journalistiques (extraits d'émissions télévisées, de débats, de bulletins d'information et de documentaires).
 
-Le candidat bénéficie de trente minutes de préparation. L'épreuve permet d'apprécier la bonne compréhension du document proposé ainsi que la précision de la langue, l'autonomie langagière et la qualité de la réflexion du candidat.
+La durée de l'épreuve est de vingt minutes. Le candidat bénéficie de trente minutes de préparation. L'épreuve permet d'apprécier la bonne compréhension du document proposé ainsi que la précision de la langue, l'autonomie langagière et la qualité de la réflexion du candidat.
 
 Chaque jury de cette épreuve orale est composé de deux examinateurs.
 
 III. - Epreuve orale de langue vivante facultative
 
-Au cours de l'épreuve de langue vivante facultative, le candidat doit analyser puis commenter dans la langue étrangère qu'il a choisie un texte rédigé dans cette même langue ; ce texte emprunté par l'examinateur à un journal ou à une revue de l'année en cours n'exige pas une connaissance spécialisée de la civilisation étrangère.
+Un extrait vidéo d'une durée de quatre à six minutes maximum dans la langue choisie, portant sur l'actualité, est proposé au candidat, qui en prépare un court résumé et un commentaire personnel suivi d'un entretien avec les examinateurs. Les extraits vidéo proposés sont des documents journalistiques (extraits d'émissions télévisées, de débats, de bulletins d'information et de documentaires).
 
-Le candidat dispose de trente minutes de préparation et conserve le texte sous ses yeux comme soutien de mémoire pendant son exposé. Il doit, dans celui-ci, s'affranchir de la présentation matérielle de l'article et prouver qu'il est capable de la repenser, d'en dégager les points essentiels et les détails significatifs et de mesurer leur importance.
+La durée de l'épreuve est de vingt minutes. Le candidat bénéficie de trente minutes de préparation. L'épreuve permet d'apprécier la bonne compréhension du document proposé ainsi que la précision de la langue, l'autonomie langagière et la qualité de la réflexion du candidat.
 
-Le candidat peut élargir son commentaire par des remarques appropriées et l'examinateur peut également orienter le candidat vers une discussion plus générale. Il appartient à celui-ci de montrer ainsi son aptitude à exposer et développer des idées et à dialoguer en langue étrangère avec un interlocuteur.
-
-Le candidat est jugé globalement sur sa compréhension de la langue étrangère, son aisance à la manier, ses facultés d'analyse et de synthèse, son esprit critique et sa culture générale.
+Chaque jury de cette épreuve orale est composé de deux examinateurs.
 
 B. - Programme scientifique
 
