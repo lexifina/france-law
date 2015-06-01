@@ -1,6 +1,6 @@
 # Article Annexe I-A
 
-Prescriptions générales applicables aux installations classées pour la protection de l'environnement soumises à déclaration sous la rubrique n° 1310-2.c
+Prescriptions générales applicables aux installations classées pour la protection de l'environnement soumises à déclaration sous la rubrique n° 4210-1.b
 
 Définitions
 
@@ -136,7 +136,7 @@ L'installation est implantée et maintenue de manière que :
 
 - les effets dominos de toute installation, équipement ou bâtiment externe ou interne au site, présentant un risque caractérisé d'explosion ou d'incendie ne touchent pas l'installation.
 
-Les locaux de l'installation sont séparés des locaux abritant des installations relevant des rubriques 1311, 1312 et 2793 de la nomenclature des installations classées pour la protection de l'environnement et, le cas échéant, des installations mettant en œuvre d'autres produits dangereux à l'exception des quantités strictement nécessaires des produits indispensables au fonctionnement de l'installation.
+Les locaux de l'installation sont séparés des locaux abritant des installations relevant des rubriques 4220, 1312 et 2793 de la nomenclature des installations classées pour la protection de l'environnement et, le cas échéant, des installations mettant en œuvre d'autres produits dangereux à l'exception des quantités strictement nécessaires des produits indispensables au fonctionnement de l'installation.
 
 Lorsque les produits explosifs se trouvant dans l'installation peuvent présenter un régime de décomposition rapide de type détonation, les distances d'isolement entre deux bâtiments ou installations pyrotechniques respectent a minima les distances (en mètres au niveau du sol, en terrain plat et sans protection particulière et où Q représente la masse nette maximale de matière explosible susceptible d'être présente dans chacun des deux bâtiments ou installations pyrotechniques exprimée en kg) de 0,5.Q1/3 et de 2,4.Q1/3 s'il y a un risque de projections primaires.
 
@@ -432,9 +432,7 @@ Objet du contrôle :
 
 L'exploitant garde à sa disposition et à celle de son personnel des documents lui permettant de connaître la nature et les risques des produits dangereux présents dans l'installation, en particulier les fiches de données de sécurité. Il prend les dispositions nécessaires pour respecter les préconisations desdites fiches (compatibilité des produits, stockage, emploi, lutte contre l'incendie).
 
-Les fûts, réservoirs et autres emballages portent en caractères très lisibles le nom des produits et, s'il y a lieu, leur division de risque et les symboles de danger conforméme
-
-nt à la réglementation relative à l'étiquetage des substances et mélanges dangereux. Ils portent, le cas échéant, tout marquage réglementaire exigé en application de la réglementation relative au marquage ou au transport des produits explosifs.
+Les fûts, réservoirs et autres emballages portent en caractères très lisibles le nom des produits et, s'il y a lieu, leur division de risque et les symboles de danger conformément à la réglementation relative à l'étiquetage des substances et mélanges dangereux. Ils portent, le cas échéant, tout marquage réglementaire exigé en application de la réglementation relative au marquage ou au transport des produits explosifs.
 
 Ce marquage est porté à l'entrée du local où sont stockés les fûts, réservoirs et autres emballages afin d'informer les services de secours de la présence de produits explosifs avant qu'ils n'aient à y pénétrer.
 
@@ -964,11 +962,15 @@ NIVEAU DE BRUIT AMBIANT
 
 existant dans les zones à émergence réglementée
 
-(incluant le bruit de l'installation) |
+(incluant le bruit de l'installation)
+
+|
 
 ÉMERGENCE ADMISSIBLE
 
-pour la période allant de 7 heures à 22 heures
+pour la période allant de
+
+7 heures à 22 heures
 
 sauf dimanches et jours fériés
 
@@ -976,7 +978,9 @@ sauf dimanches et jours fériés
 
 ÉMERGENCE ADMISSIBLE
 
-pour la période allant de 22 heures à 7 heures,
+pour la période allant de
+
+22 heures à 7 heures,
 
 ainsi que les dimanches et jours fériés
 
@@ -1038,4 +1042,6 @@ Outre les dispositions prévues au point 1.7, l'exploitant remet en état le sit
 
 - lorsqu'elles existent, les zones de brûlage font l'objet d'un diagnostic et sont dépolluées.
 
-(1) Pour les procédés discontinus, le flux horaire total de COV se calcule sur une journée représentative de l'année, en divisant la quantité journalière de COV émise par le nombre d'heures effectivement travaillées. (2) Des guides techniques sont établis par le ministère chargé de l'environnement en concertation avec les professions concernées pour aider à la mise en place de tel schéma.
+(1) Pour les procédés discontinus, le flux horaire total de COV se calcule sur une journée représentative de l'année, en divisant la quantité journalière de COV émise par le nombre d'heures effectivement travaillées.
+
+(2) Des guides techniques sont établis par le ministère chargé de l'environnement en concertation avec les professions concernées pour aider à la mise en place de tel schéma.
