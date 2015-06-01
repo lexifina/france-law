@@ -1,6 +1,6 @@
 # Article Annexe I
 
-PRESCRIPTIONS GÉNÉRALES ET FAISANT L'OBJET DU CONTRÔLE PÉRIODIQUE APPLICABLES AUX INSTALLATIONS CLASSÉES POUR LA PROTECTION DE L'ENVIRONNEMENT SOUMISES À DÉCLARATION SOUS LA RUBRIQUE N o 1138
+PRESCRIPTIONS GÉNÉRALES ET FAISANT L'OBJET DU CONTRÔLE PÉRIODIQUE APPLICABLES AUX INSTALLATIONS CLASSÉES POUR LA PROTECTION DE L'ENVIRONNEMENT SOUMISES À DÉCLARATION SOUS LA RUBRIQUE N o 4710
 
 1. Dispositions générales
 
@@ -80,7 +80,7 @@ Lorsqu'une installation classée est mise à l'arrêt définitif, l'exploitant n
 
 Aux fins du présent arrêté, on entend par :
 
-" Récipient " : récipient en acier étiré contenant du chlore sous pression et de capacité unitaire inférieure à 60 kg.
+" Récipient " : récipient en acier étiré contenant du chlore sous pression.
 
 " Local technique " : local destiné exclusivement au stockage ou à l'utilisation des récipients de chlore. Lorsque le local technique est destiné au stockage, il est sans communication directe avec les autres parties de l'installation.
 
@@ -430,6 +430,8 @@ Hormis pour la chloration de l'eau, l'exploitant établit un document comprenant
 
 -consignes de sécurité propres à l'installation. Celles-ci prévoient en particulier explicitement les mesures à prendre en cas de dérive du procédé par rapport aux conditions opératoires sûres.
 
+La capacité unitaire de chlore des récipients est inférieure à 60 kg.
+
 4.8.2. Dispositions spécifiques à l'utilisation d'un chloromètre à dépression
 
 Le chloromètre est fixé directement sur le robinet du récipient de chlore. Toute autre configuration de montage du chloromètre, notamment le raccordement d'un chloromètre à plusieurs récipients, est interdite en l'absence de système de neutralisation correctement dimensionné. L'étanchéité de la liaison robinet-chloromètre est assurée par un joint approprié, remplacé lors de chaque démontage du chloromètre.
@@ -465,6 +467,8 @@ Objet du contrôle :
 -vérification de l'usage exclusif du local pour le stockage (le non-respect de ce point relève d'une non-conformité majeure) ;
 
 -présence permanente du chapeau sur le récipient et d'un bouchon de protection vissé sur le raccord de sortie, équipé d'un joint d'étanchéité (le non-respect de ce point relève d'une non-conformité majeure).
+
+La capacité unitaire de chlore des récipients est inférieure à 60 kg.
 
 4.10. Traitement des fuites
 
@@ -848,4 +852,4 @@ Outre les dispositions prévues au point 1.7, l'exploitant remet en état le sit
 
 -les cuves ayant contenu des produits susceptibles de polluer les eaux sont vidées, nettoyées, dégazées et, le cas échéant, décontaminées. Elles sont si possible enlevées, sinon, et dans le cas spécifique des cuves enterrées, elles sont rendues inutilisables par remplissage avec un matériau solide inerte.
 
-[⁎] Un modèle a été constitué pour la rédaction des arrêtés de prescriptions générales applicables aux installations soumises à déclaration. Certaines dispositions de ce modèle, qui ne se justifient pas pour les installations visées par la rubrique n o 1138, ont été supprimées. Néanmoins, la numérotation a été conservée pour permettre une homogénéité entre les arrêtés de prescriptions géné ­ rales de toutes les rubriques de la nomenclature.
+[⁎] Un modèle a été constitué pour la rédaction des arrêtés de prescriptions générales applicables aux installations soumises à déclaration. Certaines dispositions de ce modèle, qui ne se justifient pas pour les installations visées par le présent arrêté ont été supprimées. Néanmoins, la numérotation a été conservée pour permettre une homogénéité entre les arrêtés de prescriptions générales de toutes les rubriques de la nomenclature.

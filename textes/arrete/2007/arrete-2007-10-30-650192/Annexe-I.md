@@ -1,6 +1,6 @@
 # Article Annexe I
 
-Prescriptions générales applicables aux installations classées pour la protection de l'environnement soumises à déclaration sous la rubrique n° 1150 (Stockage ou emploi de ou à base de substances toxiques particulières)
+Prescriptions générales applicables aux installations classées pour la protection de l'environnement soumises à déclaration sous l'une ou plusieurs des rubriques n os 4707,4711,4717,4723,4724,4726,4728,4729,4730,4732 ou 4733
 
 1. Dispositions générales
 
@@ -100,9 +100,9 @@ Les locaux dans lesquels sont fabriqués, employés ou stockés les produits sus
 
 Ces dispositifs sont à commandes automatique et manuelle. Leur surface utile d'ouverture n'est pas inférieure à :
 
--2 % si la superficie à désenfumer est comprise entre 1 000 et 1 600 m2 ;
+-2 % si la superficie à désenfumer est comprise entre 1 000 et 1 600 m 2 ;
 
--à déterminer selon la nature des risques si la superficie à désenfumer est supérieure à 1 600 m2 sans pouvoir être inférieure à 2 % de la superficie des locaux.
+-à déterminer selon la nature des risques si la superficie à désenfumer est supérieure à 1 600 m 2 sans pouvoir être inférieure à 2 % de la superficie des locaux.
 
 En exploitation normale, le réarmement (fermeture) est possible depuis le sol du local.
 
@@ -156,7 +156,7 @@ Tout stockage de produits liquides susceptibles de créer une pollution de l'eau
 
 La capacité de rétention est étanche aux produits qu'elle pourrait contenir et résiste à l'action physique et chimique des fluides. Il en est de même pour son dispositif d'obturation qui est maintenu fermé.
 
-Lorsque le stockage est constitué exclusivement de récipients de capacité unitaire inférieure ou égale à 250 litres, admis au transport, le volume minimal de la rétention est égal soit à la capacité totale des récipients si cette capacité est inférieure à 800 litres, soit à 20 % de la capacité totale ou 50 % dans le cas de liquides inflammables (à l'exception des lubrifiants) avec un minimum de 800 litres si cette capacité excède 800 litres. La capacité de rétention est étanche aux produits qu'elle pourrait contenir et résister à l'action physique et chimique des fluides.
+Lorsque le stockage est constitué exclusivement de récipients de capacité unitaire inférieure ou égale à 250 litres, admis au transport, le volume minimal de la rétention est égal soit à la capacité totale des récipients si cette capacité est inférieure à 800 litres, soit à 20 % de la capacité totale ou 50 % dans le cas de liquides inflammables ou de liquides combustibles de point éclair compris entre 60° C et 93° C (à l'exception des lubrifiants) avec un minimum de 800 litres si cette capacité excède 800 litres. La capacité de rétention est étanche aux produits qu'elle pourrait contenir et résister à l'action physique et chimique des fluides.
 
 Il en est de même pour le dispositif d'obturation qui est maintenu fermé en conditions normales.
 
@@ -178,7 +178,7 @@ La hauteur maximale d'un stockage de substances ou préparations sous forme liqu
 
 Les récipients contenant des gaz ou gaz liquéfiés sont placés dans des locaux séparés des autres substances ou préparations solides ou liquides et répondant aux caractéristiques du point 2.4.
 
-Dans tous les cas, les substances ou préparations inflammables au sens de l'arrêté ministériel du 20 avril 1994 sont situées sur une aire ou dans une cellule spécifique répondant aux caractéristiques du point 2.4.
+Dans tous les cas, les substances ou mélanges inflammables au sens du règlement CLP n° 1272/2008 du 16 décembre 2008 modifié sont situées sur une aire ou dans une cellule spécifique répondant aux caractéristiques du point 2.4.
 
 Dans le cas des substances ou préparations liquides, les fûts, tonnelets ou bidons contenant des substances ou préparations sont stockés verticalement sur des palettes.
 
@@ -390,7 +390,7 @@ L'usage du réseau d'eau incendie est strictement réservé aux sinistres et aux
 
 Toutes les dispositions sont prises pour limiter la consommation d'eau.
 
-Les circuits de refroidissement ouverts sont interdits au-delà d'un débit de 10 m3/ j.
+Les circuits de refroidissement ouverts sont interdits au-delà d'un débit de 10 m 3/ j.
 
 5.3. Réseau de collecte
 
@@ -464,7 +464,7 @@ L'épandage des déchets, effluents et sous-produits est interdit.
 
 L'exploitant met en place un programme de surveillance des caractéristiques soit des émissions des polluants représentatifs parmi ceux visés au point 5.5, soit de paramètres représentatifs de ces derniers, lui permettant d'intervenir dès que les limites d'émissions sont ou risquent d'être dépassées.
 
-Une mesure des concentrations des différents polluants visés au point 5.5 est effectuée au moins tous les 3 ans par un organisme agréé par le ministre chargé de l'environnement. Ces mesures sont effectuées sur un échantillon représentatif du fonctionnement sur une journée de l'installation et constitué, soit par un prélèvement continu d'une demi-heure, soit par au moins deux prélèvements instantanés espacés d'une demi-heure. En cas d'impossibilité d'obtenir un tel échantillon, une évaluation des capacités des équipements d'épuration à respecter les valeurs limites est réalisée. Une mesure du débit est également réalisée ou estimée à partir des consommations, si celui-ci est supérieur à 10 m3/ j.
+Une mesure des concentrations des différents polluants visés au point 5.5 est effectuée au moins tous les 3 ans par un organisme agréé par le ministre chargé de l'environnement. Ces mesures sont effectuées sur un échantillon représentatif du fonctionnement sur une journée de l'installation et constitué, soit par un prélèvement continu d'une demi-heure, soit par au moins deux prélèvements instantanés espacés d'une demi-heure. En cas d'impossibilité d'obtenir un tel échantillon, une évaluation des capacités des équipements d'épuration à respecter les valeurs limites est réalisée. Une mesure du débit est également réalisée ou estimée à partir des consommations, si celui-ci est supérieur à 10 m 3/ j.
 
 Les polluants visés au point 5.5, qui ne sont pas susceptibles d'être émis par l'installation, ne font pas l'objet des mesures périodiques prévues au présent point. Dans ce cas, l'exploitant tient à la disposition de l'inspection des installations classées les éléments techniques permettant d'attester l'absence d'émission de ces produits par l'installation.
 
@@ -524,17 +524,17 @@ II. [⁎].
 
 III. Valeurs limites d'émission en COV, NOx, CO et CH4 en cas d'utilisation d'une technique d'épuration des émissions canalisées par oxydation thermique.
 
-Dans le cas de l'utilisation d'une technique d'oxydation pour l'élimination COV, la valeur limite d'émission en COV exprimée en carbone total est de 20 mg par m3 ou 50 mg par m3 si le rendement d'épuration est supérieur à 98 %. La teneur en oxygène de référence pour la vérification de la conformité aux valeurs limites d'émission est celle mesurée dans les effluents en sortie d'équipement d'oxydation. En outre, l'exploitant s'assurera du respect des valeurs limites d'émission définies ci-dessous pour les oxydes d'azote (NOx), le monoxyde de carbone (CO) et le méthane (CH4) :
+Dans le cas de l'utilisation d'une technique d'oxydation pour l'élimination COV, la valeur limite d'émission en COV exprimée en carbone total est de 20 mg par m 3 ou 50 mg par m 3 si le rendement d'épuration est supérieur à 98 %. La teneur en oxygène de référence pour la vérification de la conformité aux valeurs limites d'émission est celle mesurée dans les effluents en sortie d'équipement d'oxydation. En outre, l'exploitant s'assurera du respect des valeurs limites d'émission définies ci-dessous pour les oxydes d'azote (NOx), le monoxyde de carbone (CO) et le méthane (CH4) :
 
--NOx (en équivalent NO2) : 100 mg par m3 ;
+-NOx (en équivalent NO2) : 100 mg par m 3 ;
 
--CH4 : 50 mg par m3 ;
+-CH4 : 50 mg par m 3 ;
 
--CO : 100 mg par m3.
+-CO : 100 mg par m 3.
 
 IV. Composés organiques volatils à phrase de risque.
 
-Si le flux horaire total des composés organiques listés ci-dessous dépasse 0,1 kg/ h, la valeur limite d'émission de la concentration globale de l'ensemble de ces composés est de 20 mg/ m3 :
+Si le flux horaire total des composés organiques listés ci-dessous dépasse 0,1 kg/ h, la valeur limite d'émission de la concentration globale de l'ensemble de ces composés est de 20 mg/ m 3 :
 
 -acide acrylique ;
 
@@ -562,15 +562,15 @@ Si le flux horaire total des composés organiques listés ci-dessous dépasse 0,
 
 -xylénol.
 
-En cas de mélange de composés à la fois visés et non visés dans cette liste, la valeur limite de 20 mg/ m3 ne s'impose qu'aux composés visés dans cette liste et une valeur de 110 mg/ m3, exprimée en carbone total, s'impose à l'ensemble des composés.
+En cas de mélange de composés à la fois visés et non visés dans cette liste, la valeur limite de 20 mg/ m 3 ne s'impose qu'aux composés visés dans cette liste et une valeur de 110 mg/ m 3, exprimée en carbone total, s'impose à l'ensemble des composés.
 
 " V.-Valeurs limites d'émission en COV en cas d'utilisation de substances de mentions de danger H340, H350, H350i, H360D ou H360F ou à phrases de risque R45, R46, R49, R60 ou R61 et substances halogénées de mention de danger H341 ou étiquetées R40, telles que définies dans l'arrêté du 20 avril 1994 :
 
 Les substances ou mélanges auxquels sont attribuées, ou sur lesquels doivent être apposées, les mentions de danger H340, H350, H350i, H360D ou H360F ou les phrases de risque R45, R46, R49, R60 ou R61 en raison de leur teneur en COV, classés cancérigènes, mutagènes ou toxiques pour la reproduction, sont remplacés, autant que possible, par des substances ou des mélanges moins nocifs, et ce dans les meilleurs délais possibles.
 
-Si ce remplacement n'est pas techniquement et économiquement possible, la valeur limite d'émission de 2 mg/ m3 en COV est imposée si le flux horaire maximal de l'ensemble de l'installation est supérieur ou égal à 10 g/ h. La valeur limite d'émission ci-dessus se rapporte à la somme massique des différents composés.
+Si ce remplacement n'est pas techniquement et économiquement possible, la valeur limite d'émission de 2 mg/ m 3 en COV est imposée si le flux horaire maximal de l'ensemble de l'installation est supérieur ou égal à 10 g/ h. La valeur limite d'émission ci-dessus se rapporte à la somme massique des différents composés.
 
-Pour les émissions de composés organiques volatils halogénés auxquels sont attribuées la mention de danger H341 ou la phrase de risque R40, une valeur limite d'émission de 20 mg/ m3 est imposée si le flux horaire maximal de l'ensemble de l'installation est supérieur ou égal à 100 g/ h. La valeur limite d'émission ci-dessus se rapporte à la somme massique des différents composés. "
+Pour les émissions de composés organiques volatils halogénés auxquels sont attribuées la mention de danger H341 ou la phrase de risque R40, une valeur limite d'émission de 20 mg/ m 3 est imposée si le flux horaire maximal de l'ensemble de l'installation est supérieur ou égal à 100 g/ h. La valeur limite d'émission ci-dessus se rapporte à la somme massique des différents composés. "
 
 VI. Mise en œuvre d'un schéma de maîtrise des émissions de COV.
 
@@ -584,7 +584,7 @@ La concentration résiduelle des substances visées aux points IV et V reste né
 
 c) Polluants spécifiques.
 
-Si le flux massique de plomb et de ses composées est supérieur à 1 g/ h, la valeur limite de concentration est de 5 mg/ Nm3 (exprimé en Pb).
+Si le flux massique de plomb et de ses composées est supérieur à 1 g/ h, la valeur limite de concentration est de 5 mg/ Nm 3 (exprimé en Pb).
 
 d) Le point de rejet surmonte d'au moins 3 mètres les bâtiments situés dans un rayon de 15 mètres.
 
@@ -602,7 +602,7 @@ HAUTEUR D'ÉMISSION (en m)
 
 |
 
-DÉBIT D'ODEUR (en m3/ h)
+DÉBIT D'ODEUR (en m 3/ h)
 
 |
 
@@ -610,7 +610,7 @@ DÉBIT D'ODEUR (en m3/ h)
 
 |
 
-1 000 x 103
+1 000 x 10 3
 
 |
 
@@ -618,7 +618,7 @@ DÉBIT D'ODEUR (en m3/ h)
 
 |
 
-3 600 x 103
+3 600 x 10 3
 
 |
 
@@ -626,7 +626,7 @@ DÉBIT D'ODEUR (en m3/ h)
 
 |
 
-21 000 x 103
+21 000 x 10 3
 
 |
 
@@ -634,7 +634,7 @@ DÉBIT D'ODEUR (en m3/ h)
 
 |
 
-180 000 x 103
+180 000 x 10 3
 
 |
 
@@ -642,7 +642,7 @@ DÉBIT D'ODEUR (en m3/ h)
 
 |
 
-720 000 x 103
+720 000 x 10 3
 
 |
 
@@ -650,7 +650,7 @@ DÉBIT D'ODEUR (en m3/ h)
 
 |
 
-3 600 x 106
+3 600 x 10 6
 
 |
 
@@ -658,7 +658,7 @@ DÉBIT D'ODEUR (en m3/ h)
 
 |
 
-18 000 x 106
+18 000 x 10 6
 
 |
 
@@ -666,11 +666,11 @@ DÉBIT D'ODEUR (en m3/ h)
 
 |
 
-36 000 x 106
+36 000 x 10 6
 
 |
 
-Le niveau d'une odeur ou concentration d'un mélange odorant est défini conventionnellement comme étant le facteur de dilution qu'il faut appliquer à un effluent pour qu'il ne soit plus ressenti comme odorant par 50 % des personnes constituant un échantillon de population. Le débit d'odeur est défini conventionnellement comme étant le produit du débit d'air rejeté, exprimé en m3/ h, par le facteur de dilution au seuil de perception.
+Le niveau d'une odeur ou concentration d'un mélange odorant est défini conventionnellement comme étant le facteur de dilution qu'il faut appliquer à un effluent pour qu'il ne soit plus ressenti comme odorant par 50 % des personnes constituant un échantillon de population. Le débit d'odeur est défini conventionnellement comme étant le produit du débit d'air rejeté, exprimé en m 3/ h, par le facteur de dilution au seuil de perception.
 
 6.3. Surveillance par l'exploitant de la pollution rejetée
 
@@ -766,19 +766,29 @@ L'installation est construite, équipée et exploitée de façon telle que son f
 
 Les émissions sonores émises par l'installation ne sont pas à l'origine, dans les zones à émergence réglementée, d'une émergence supérieure aux valeurs admissibles définies dans le tableau suivant :
 
-NIVEAU DE BRUIT AMBIANT existant dans les zones à émergence réglementée (incluant le bruit de l'installation)
+NIVEAU DE BRUIT AMBIANT
+
+existant dans les zones à émergence réglementée
+
+(incluant le bruit de l'installation)
 
 |
 
-ÉMERGENCE ADMISSIBLE pour la période allant de 7 h à 22 h, sauf dimanches et jours fériés
+ÉMERGENCE ADMISSIBLE
+
+pour la période allant de 7 h à 22 h, sauf dimanches et jours fériés
 
 |
 
-ÉMERGENCE ADMISSIBLE pour la période allant de 22 h à 7 h, ainsi que les dimanches et jours fériés
+ÉMERGENCE ADMISSIBLE
+
+pour la période allant de 22 h à 7 h, ainsi que les dimanches et jours fériés
 
 |
 
-supérieur à 35 et inférieur ou égal à 45 dB (A)
+supérieur à 35 et inférieur ou égal à
+
+45 dB (A)
 
 |
 

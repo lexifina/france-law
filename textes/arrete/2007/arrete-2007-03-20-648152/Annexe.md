@@ -1,28 +1,20 @@
 # Article Annexe
 
-CLASSIFICATION DES PEROXYDES ORGANIQUES OU DE PRÉPARATIONS EN CONTENANT ENTRE LES DIFFÉRENTS GROUPES DE RISQUE EN FONCTION DU TYPE DE DANGER DU PRODUIT SELON L'ADR EN VIGUEUR ET DE LA VITESSE DE COMBUSTION DU PRODUIT
+CLASSIFICATION DES PEROXYDES ORGANIQUES OU DES SUBSTANCES OU MÉLANGES AUTORÉACTIFS ENTRE LES DIFFÉRENTS GROUPES DE RISQUE EN FONCTION DU TYPE DE DANGER DU PRODUIT SELON L'ADR EN VIGUEUR ET DE LA VITESSE DE COMBUSTION DU PRODUIT
 
-1. Classement des peroxydes organiques ou préparations
+1. Classement des peroxydes organiques ou des substances ou mélanges autoréactifs selon l'ADR en vigueur.
 
-en contenant selon l'arrêté ADR en vigueur
+Les peroxydes organiques ou les substances ou mélanges autoréactifs au sens de l'ADR en vigueur sont classés notamment en fonction de sept types de danger A à G selon le danger qu'ils présentent au transport. Les produits de type A ne sont pas admis au transport. La classification des types B à F est directement liée à la quantité maximale autorisée par colis. Les produits du type G sont stables thermiquement, et ne sont pas concernés par les rubriques nos 4410, 4411, 4420, 4421 ou 4422.
 
-Les peroxydes organiques ou préparations en contenant au sens de l'ADR en vigueur sont classés en fonction :
+2. Détermination de la vitesse de combustion de peroxydes organiques ou de substances ou mélanges autoréactifs
 
-- de leur teneur en oxygène actif : classe 5.2 (peroxydes organiques) ou 4.1 (matières autoréactives) ;
+Selon l'aspect physique du produit, deux tests sont réalisables pour déterminer la vitesse de combustion d'un peroxyde organique ou d'une substance ou mélange autoréactif en vue de son classement dans un groupe de risque.
 
-- de sept types de danger A à G selon le danger qu'ils présentent au transport. Les produits de type A ne sont pas admis au transport. La classification des types B à F est directement liée à la quantité maximale autorisée par colis. Les produits du type G sont stables thermiquement.
+Pour les peroxydes organiques ou les substances ou mélanges autoréactifs à l'état solide, la seule méthode d'évaluation est le test à grande échelle.
 
-2. Détermination de la vitesse de combustion de peroxydes
+Deux méthodes d'évaluation sont possibles pour les peroxydes organiques ou les substances ou mélanges autoréactifs à l'état liquide : le test à grande échelle ou le test laboratoire. En cas de résultats non concluants au test laboratoire (vitesse très élevée, difficulté d'allumage du liquide, données de référence insuffisantes pour une famille de peroxydes organiques ou de substances ou mélanges autoréactifs donnés, etc.), le test à grande échelle est réalisé.
 
-organiques ou de préparations en contenant
-
-Selon l'aspect physique du produit, deux tests sont réalisables pour déterminer la vitesse de combustion d'un peroxyde organique ou d'une préparation en contenant en vue de son classement dans un groupe de risque.
-
-Pour les peroxydes organiques à l'état solide, la seule méthode d'évaluation est le test à grande échelle.
-
-Deux méthodes d'évaluation sont possibles pour les peroxydes organiques à l'état liquide : le test à grande échelle ou le test laboratoire. En cas de résultats non concluants au test laboratoire (vitesse très élevée, difficulté d'allumage du liquide, données de référence insuffisantes pour une famille de peroxydes organiques donnés, etc.), le test à grande échelle est réalisé.
-
-Pour les peroxydes organiques, à l'état liquide, étiquetés explosibles au sens de l'arrêté ministériel du 20 avril 1994 modifié relatif à la déclaration, la classification, l'emballage et l'étiquetage des substances, seul le test à grande échelle est en principe réalisé. Cependant, si l'expérience du laboratoire a montré une bonne corrélation entre les résultats pour l'essai à grande échelle et le test laboratoire pour une famille donnée de peroxydes organiques ou de préparations en contenant, le laboratoire peut proposer à l'autorité compétente de ne pas réaliser les essais à grande échelle. Dans tous les cas, le test laboratoire doit être représentatif du comportement à grande échelle.
+Pour les peroxydes organiques ou les substances ou mélanges autoréactifs, à l'état liquide, étiquetés explosibles au sens du règlement CLP n° 1272/2008 du 16 décembre 2008 modifié, seul le test à grande échelle est en principe réalisé. Cependant, si l'expérience du laboratoire a montré une bonne corrélation entre les résultats pour l'essai à grande échelle et le test laboratoire pour une famille donnée de peroxydes organiques ou de substances ou mélanges autoréactifs, le laboratoire peut proposer à l'autorité compétente de ne pas réaliser les essais à grande échelle. Dans tous les cas, le test laboratoire doit être représentatif du comportement à grande échelle.
 
 2.1. Test à grande échelle
 
@@ -52,16 +44,16 @@ La mesure de la vitesse de combustion est considérée valable si la surface enf
 
 Le rapport d'essai doit notamment contenir :
 
-- la description complète des conditions d'essai et d'allumage ;
+-la description complète des conditions d'essai et d'allumage ;
 
-- la description et la composition de l'échantillon ;
+-la description et la composition de l'échantillon ;
 
-- la température de chaque essai ;
+-la température de chaque essai ;
 
-- la durée de combustion pour chaque essai ;
+-la durée de combustion pour chaque essai ;
 
-- la copie des trois enregistrements ;
+-la copie des trois enregistrements ;
 
-- la justification de la vitesse de combustion retenue.
+-la justification de la vitesse de combustion retenue.
 
-Toute information sur une famille de peroxydes organiques ou de préparations en contenant ayant permis de s'affranchir du test à grande échelle doit également être présente dans le rapport.
+Toute information sur une famille de peroxydes organiques ou de substances ou mélanges autoréactifs ayant permis de s'affranchir du test à grande échelle doit également être présente dans le rapport.

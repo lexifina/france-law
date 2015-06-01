@@ -1,6 +1,6 @@
 # Article Annexe I
 
-Prescriptions générales et faisant l'objet du contrôle périodique applicables aux installations soumises à déclaration relevant de la rubrique n° 1432 de la législation des installations classées pour la protection de l'environnement
+Prescriptions générales applicables aux installations soumises à déclaration relevant de l'une ou plusieurs des rubriques nos 1436, 4330, 4331, 4722, 4734, 4742, 4743, 4744, 4746, 4747 ou 4748, ou pour le pétrole brut sous l'une ou plusieurs des rubriques nos 4510 ou 4511 de la législation des installations classées pour la protection de l'environnement
 
 1. Dispositions générales
 
@@ -19,6 +19,8 @@ Ces contrôles ont pour objet de vérifier la conformité de l'installation aux 
 Les prescriptions dont le non-respect constitue une non-conformité majeure entraînant l'information du préfet dans les conditions prévues à l'article R. 512-59-1 sont repérées dans la présente annexe par la mention " le non-respect de ce point relève d'une non-conformité majeure ".
 
 L'exploitant conserve le rapport de visite que l'organisme agréé lui adresse dans le dossier installations classées prévu au point 1.4. Si le rapport fait apparaître des non-conformités aux dispositions faisant l'objet du contrôle, l'exploitant met en œuvre les actions correctives nécessaires pour y remédier. Ces actions ainsi que leurs dates de mise en œuvre sont formalisées et conservées dans le dossier susmentionné.
+
+Les dispositions du présent point 1.1.2 s'appliquent uniquement aux installations classées relevant de l'une ou plusieurs des rubriques nos 1436, 4330, 4331 ou 4734.
 
 1.2. Modifications
 
@@ -40,7 +42,9 @@ L'exploitant établit et tient à jour un dossier comportant les documents suiva
 
 - les arrêtés préfectoraux relatifs à l'installation concernée, pris en application de la législation relative aux installations classées pour la protection de l'environnement, s'il y en a ;
 
-- les documents prévus au titre des articles du présent arrêté.
+- les documents prévus au titre des articles du présent arrêté ;
+
+- les résultats des dernières mesures sur les effluents et le bruit.
 
 Ce dossier est tenu à la disposition de l'inspection des installations classées et de l'organisme de contrôle périodique.
 
@@ -52,9 +56,9 @@ Objet du contrôle :
 
 - présentation des arrêtés préfectoraux relatifs à l'installation, s'il y en a ;
 
-- vérification de la capacité équivalente totale du ou des réservoirs au regard de la capacité déclarée au titre de la rubrique no 1432 de la nomenclature des installations classées pour la protection de l'environnement, en tenant compte du volume de remplissage maximal de chaque réservoir ;
+- vérification de la quantité susceptible d'être présente au regard de la quantité déclarée au titre de chacune des rubriques visées au point 1.1.2 de l'annexe I ;
 
-- vérification que la capacité équivalente totale du ou des réservoirs est inférieure à la valeur supérieure du régime déclaratif de la rubrique no 1432 de la nomenclature des installations classées pour la protection de l'environnement (le non-respect de ce point relève d'une non conformité majeure).
+- vérification que la quantité susceptible d'être présente est inférieure à la valeur supérieure du régime déclaratif tel que défini à l'article R. 511-9 du code de l'environnement au titre de chacune des rubriques visées au point 1.1.2 de l'annexe I (le non-respect de ce point relève d'une non-conformité majeure).
 
 1.5. Déclaration d'accident ou de pollution accidentelle
 
@@ -95,6 +99,22 @@ Au sens du présent arrêté, on entend par :
 - zones constructibles définies par des documents d'urbanisme opposables aux tiers et publiés à la date de la déclaration ;
 
 - intérieur des immeubles habités ou occupés par des tiers qui ont été implantés après la date de la déclaration dans les zones constructibles définies ci-dessus, et leurs parties extérieures éventuelles les plus proches (cour, jardin, terrasse), à l'exclusion de celles des immeubles implantés dans les zones destinées à recevoir des activités artisanales ou industrielles.
+
+Catégorie A : catégorie relative à l'oxyde d'éthyle, et à tout liquide dont le point éclair est inférieur à 0 °C et dont la pression de vapeur saturante à 35 °C est supérieure à 105 pascals ;
+
+Catégorie B : catégorie relative à tout liquide dont le point éclair est inférieur à 55 °C et qui ne répond pas à la définition des liquides de catégorie A ;
+
+Catégorie C : catégorie relative à tout liquide dont le point éclair est supérieur ou égal à 55 °C et inférieur à 93 °C, sauf les fiouls lourds ;
+
+Catégorie D : catégorie relative aux fiouls lourds tels qu'ils sont définis par les spécifications administratives ;
+
+Capacité équivalente : capacité calculée avec la formule suivante 10A + B + C/5 + D/15, où A, B, C, D représentent respectivement les capacités de liquides relatives aux catégories A, B, C, D.
+
+Si des liquides de ces catégories sont stockés dans la même cuvette de rétention ou manipulés dans le même atelier, ils sont assimilés à des liquides de la catégorie présente la plus pénalisante.
+
+Si des liquides sont contenus dans des réservoirs en fosse ou en double enveloppe avec système de détection de fuite ou assimilés, les coefficients des catégories A, B, C, D sont divisés par 5.
+
+Les liquides des catégories B, C ou D réchauffés dans leur masse à une température supérieure à leur point d'éclair sont assimilés à des liquides de catégorie B.
 
 2. Implantation. - aménagement
 
@@ -704,7 +724,7 @@ ambiant existant dans les zones
 
 |
 
-EMERGENCE ADMISSIBLE
+ÉMERGENCE ADMISSIBLE
 
 pour la période allant
 
@@ -714,7 +734,7 @@ sauf dimanches et jours fériés
 
 |
 
-EMERGENCE ADMISSIBLE
+ÉMERGENCE ADMISSIBLE
 
 pour la période allant
 

@@ -86,9 +86,15 @@ Au sens du présent arrêté, on entend par :
 
 - aire de distribution : surface accessible à la circulation des véhicules englobant les zones situées à moins de 3 mètres de la paroi des appareils de distribution ;
 
-- débit d'odeur : produit du débit d'air rejeté, exprimé en m3/h, par le facteur de dilution au seuil
+- catégorie A : catégorie relative à l'oxyde d'éthyle, et à tout liquide dont le point éclair est inférieur à 0 °C et dont la pression de vapeur saturante à 35 °C est supérieure à 105 pascals ;
 
-de perception ;
+- catégorie B : catégorie relative à tout liquide dont le point éclair est inférieur à 55 °C et qui ne répond pas à la définition des liquides de catégorie A ;
+
+- catégorie C : catégorie relative à tout liquide dont le point éclair est supérieur ou égal à 55 °C et inférieur à 93 °C, sauf les fiouls lourds ;
+
+- catégorie D : catégorie relative aux fiouls lourds tels qu'ils sont définis par les spécifications administratives ;
+
+- débit d'odeur : produit du débit d'air rejeté, exprimé en m3/h, par le facteur de dilution au seuil de perception ;
 
 - décanteur-séparateur d'hydrocarbures : dispositif vers lequel les effluents susceptibles de contenir des hydrocarbures sont orientés avant rejet. Ce dispositif permet de séparer les matières en suspension et les hydrocarbures des eaux collectées. Le décanteur-séparateur d'hydrocarbures est muni d'un dispositif d'obturation automatique, en sortie de séparateur, empêchant tout déversement d'hydrocarbures dans le réseau en cas d'afflux d'hydrocarbures. Il est couplé de façon optionnelle à une cuve de rétention ;
 
@@ -104,7 +110,9 @@ de perception ;
 
 - distribution sécurisée : distribution réalisée dans une installation comportant un ou plusieurs des équipements suivants :
 
-- un auvent en acier ou en béton couvrant au moins la totalité de la surface de rétention de la distribution d'une hauteur inférieure ou égale à 5 mètres ;- un système d'extinction automatique ;
+- un auvent en acier ou en béton couvrant au moins la totalité de la surface de rétention de la distribution d'une hauteur inférieure ou égale à 5 mètres ;
+
+- un système d'extinction automatique ;
 
 - un système de détection de vapeurs avec coupure automatique de la distribution en cas de détection ;
 
@@ -121,6 +129,8 @@ de perception ;
 - niveau d'une odeur ou concentration d'un mélange odorant : facteur de dilution à appliquer à un effluent pour qu'il ne soit plus ressenti comme odorant par 50 % des personnes constituant un échantillon de population ;
 
 - superéthanol : carburant composé d'un minimum de 65 % d'éthanol d'origine agricole et d'un minimum de 15 % de supercarburant sans plomb ;
+
+- volume (ou débit) équivalent : volume (ou débit) calculé avec la formule suivante 10A + B + C/5 + D/15, où A, B, C, D représentent respectivement le volume (ou débit) de liquide de catégorie A, B, C, D ;
 
 - zones à émergence réglementée :
 
@@ -146,7 +156,7 @@ Aucune bouche de dépotage ne débouche en sous-sol ou en rez-de-chaussée d'un 
 
 - à compter du 1er janvier 2015 pour les installations existantes et régulièrement déclarées ou autorisées avant le 1er juillet 2009.
 
-La distribution de carburants de la catégorie B de la rubrique 1430 de la nomenclature des installations classées en rez-de-chaussée d'un immeuble habité ou occupé par des tiers ou en sous-sol n'est autorisée que sous réserve que l'installation soit équipée :
+La distribution de carburants de la catégorie B en rez-de-chaussée d'un immeuble habité ou occupé par des tiers ou en sous-sol n'est autorisée que sous réserve que l'installation soit équipée :
 
 - d'un système de détection des vapeurs d'hydrocarbures, d'une installation de ventilation d'urgence dont le déclenchement est asservi au système de détection et d'un arrêt d'urgence automatique des appareils de distribution asservi à ces mêmes détecteurs ;
 
@@ -160,7 +170,7 @@ Objet du contrôle :
 
 - pour les installations en rez-de-chaussée d'un immeuble occupé par des tiers ou en sous-sol, vérification de la mise en place d'une installation de ventilation d'urgence dont le déclenchement est asservi au système de détection et d'un arrêt d'urgence automatique des appareils de distribution asservi à ces mêmes détecteurs (le non-respect de ce point relève d'une non-conformité majeure) ;
 
-- pour les installations en rez-de-chaussée d'un immeuble occupé par des tiers ou en sous-sol, vérification de la mise en place de systèmes de récupération des vapeurs au remplissage des installations de stockage et au ravitaillement carburant de la catégorie B de la rubrique 1430 des véhicules à moteur respectant les prescriptions du point 6 de la présente annexe et d'un système de régulation électronique en boucle fermée respectant les prescriptions du point 6.1 de la présente annexe (le non-respect de ce point relève d'une non-conformité majeure) ;
+- pour les installations en rez-de-chaussée d'un immeuble occupé par des tiers ou en sous-sol, vérification de la mise en place de systèmes de récupération des vapeurs au remplissage des installations de stockage et au ravitaillement carburant de la catégorie B des véhicules à moteur respectant les prescriptions du point 6 de la présente annexe et d'un système de régulation électronique en boucle fermée respectant les prescriptions du point 6.1 de la présente annexe (le non-respect de ce point relève d'une non-conformité majeure) ;
 
 - vérification qu'aucune bouche de dépotage ne débouche en sous-sol ou en rez-de-chaussée d'un immeuble occupé par des tiers (le non-respect de ce point relève d'une non-conformité majeure).
 
@@ -174,7 +184,7 @@ B. Pour les installations régulièrement déclarées avant le 1er juillet 2009 
 
 -5 mètres des issues ou des ouvertures des locaux susceptibles d'accueillir le public au sein de l'installation ; cette distance peut, dans le cas des appareils de distribution de carburant 2 temps, être ramenée à 2 mètres. Dans ce cas, les installations déclarées postérieurement au 3 août 2003 disposent d'une issue de secours arrière (façade du bâtiment opposée aux appareils de distribution ou latérale permettant l'évacuation du public, sans exposition à un flux thermique éventuel en cas d'incendie) ;
 
-- 5 mètres des limites de la voie publique et des limites de l'établissement, cette distance pouvant être ramenée à 1,5 mètre sur un seul côté, lorsque la limite est constituée par un mur coupe-feu de degré 2 heures de 2,5 mètres de haut ou lorsque les liquides inflammables distribués sont de catégorie C au titre de la rubrique 1430 de la nomenclature des installations classées. Cette disposition n'est pas applicable aux installations déclarées avant le 1er janvier 1985 au titre de la rubrique 1434.
+- 5 mètres des limites de la voie publique et des limites de l'établissement, cette distance pouvant être ramenée à 1,5 mètre sur un seul côté, lorsque la limite est constituée par un mur coupe-feu de degré 2 heures de 2,5 mètres de haut ou lorsque les liquides inflammables distribués sont de catégorie C. Cette disposition n'est pas applicable aux installations déclarées avant le 1er janvier 1985 au titre de la rubrique 1434.
 
 Dans le cas de l'existence ou de la mise en place d'un mur coupe-feu REI 120 d'une hauteur de 2,50 mètres et situé à 5 mètres au moins de l'appareil de distribution le plus proche de l'établissement concerné, les distances minimales d'éloignement sont ainsi réduites pour les installations déclarées postérieurement au 3 août 2003 :
 
@@ -188,7 +198,9 @@ Pour les nouvelles installations, les installations déclarées postérieurement
 
 |
 
-CATÉGORIE B y compris l'E10 et hors superéthanol
+CATÉGORIE B
+
+y compris l'E10 et hors superéthanol
 
 |
 
@@ -282,7 +294,7 @@ Ces distances peuvent être diminuées de 30 % en cas d'interposition d'un mur c
 
 Une distance de 5 mètres est observée entre les parois des appareils de distribution et les issues des locaux susceptibles d'accueillir le public au sein de l'installation. Cette distance est également observée entre les limites de l'aire de dépotage et ces mêmes issues.
 
-La distance de 5 mètres est également observée aux limites de la voie publique et aux limites de l'établissement, cette distance pouvant être ramenée à 1,5 mètre sur un seul côté, lorsque la limite est constituée par un mur coupe-feu de degré 2 heures de 2,5 mètres de haut ou lorsque les liquides inflammables distribués sont de catégorie C au titre de la rubrique 1430 de la nomenclature des installations classées.
+La distance de 5 mètres est également observée aux limites de la voie publique et aux limites de l'établissement, cette distance pouvant être ramenée à 1,5 mètre sur un seul côté, lorsque la limite est constituée par un mur coupe-feu de degré 2 heures de 2,5 mètres de haut ou lorsque les liquides inflammables distribués sont de catégorie C.
 
 Pour les installations existantes et précédemment régulièrement autorisées au titre de la rubrique 1434 de la nomenclature des installations classées, les distances à prendre en compte sont celles de l'arrêté préfectoral.
 
@@ -342,7 +354,9 @@ Les locaux sont équipés en partie haute de dispositifs permettant l'évacuatio
 
 Les installations situées dans un local partiellement ou totalement clos présentent des murs et planchers hauts REI 120 et sont équipées d'au moins deux portes EI 120 à fermeture permanente ou comprenant un dispositif ferme-porte automatique ; ces portes visant à éviter la propagation des effets du sinistre éventuel sont munies d'un système d'ouverture antipanique visant à assurer l'évacuation rapide des personnes.
 
-Ces portes d'une largeur minimale de 0,80 mètre sont situées en des endroits tels que leur efficacité et leur accessibilité soient maximales au regard des risques potentiels ; leur accès est maintenu dégagé sur une largeur minimale de 5 mètres de part et d'autre de l'axe médian des portes.
+Ces portes d'une largeur minimale de 0,80 mètre sont situées en des endroits tels que leur efficacité et leur accessibilité soient maximales au regard des risques potentiels ; leur accès est maintenu dégagé sur une largeur minimale de 5 mètres de part et d'autre de l'axe médian des
+
+portes.
 
 2.5. Accessibilité
 
@@ -602,7 +616,7 @@ Toutes dispositions sont prises pour que les égouttures sous les appareils de d
 
 Lorsque l'appareil est alimenté par une tuyauterie fonctionnant en refoulement, l'installation est équipée d'un dispositif de sécurité arrêtant automatiquement l'arrivée de produit en cas d'incendie ou de renversement accidentel du distributeur.
 
-Pour les installations en libre-service sans surveillance, le volume en liquide inflammable délivré par opération par les appareils de distribution en libre-service sans surveillance est limité à 120 litres de liquides inflammables de la catégorie de référence (coefficient 1) et à l'équivalent pour les autres catégories, exception faite des installations dont l'accès est réservé aux personnes formées à cet effet.
+Pour les installations en libre-service sans surveillance, le volume en liquide délivré par opération par les appareils de distribution en libre-service sans surveillance est limité à 120 litres de liquides de la catégorie B (coefficient 1) et à l'équivalent pour les autres catégories, exception faite des installations dont l'accès est réservé aux personnes formées à cet effet.
 
 4.9.3. Flexibles
 
@@ -648,7 +662,7 @@ Les opérations de dépotage de liquides inflammables ne peuvent être effectué
 
 4.10. Réservoirs et canalisations
 
-Les réservoirs de liquides inflammables associés aux appareils de distribution, qu'ils soient classés ou non, sont installés et exploités conformément aux règles applicables aux installations classées au titre de la rubrique 1432 de la rubrique de la nomenclature des installations classées.
+Les réservoirs de liquides associés aux appareils de distribution, qu'ils soient classés ou non, sont installés et exploités conformément aux règles applicables aux installations classées au titre de l'une ou plusieurs des rubriques nos 1436, 4330, 4331, 4722 ou 4734 de la nomenclature des installations classées.
 
 4.10.1. Cas des stockages aériens de liquides inflammables
 
@@ -832,17 +846,17 @@ Toutes dispositions sont prises pour que les percements effectués, par exemple 
 
 6.1.1. Récupération des vapeurs au remplissage des installations de stockage
 
-Le présent point est applicable aux stations de distribution de carburant de la catégorie B de la rubrique 1430 de la nomenclature des installations classées à l'exception des carburants destinés à l'aviation et des stations-service d'un débit inférieur à 100 mètres cubes par an.
+Le présent point est applicable aux stations de distribution de carburant de la catégorie B à l'exception des carburants destinés à l'aviation et des stations-service d'un débit inférieur à 100 mètres cubes par an.
 
-Lors du déchargement de carburant de la catégorie B de la rubrique 1430 d'une citerne de transport dans les installations de stockage des stations-service, les vapeurs générées par le déplacement de carburant sont renvoyées dans la citerne de transport au moyen d'un tuyau de raccordement étanche aux vapeurs. Lors de cette opération, un dispositif est mis en place afin que ces vapeurs ne s'évacuent pas par l'évent du réservoir de stockage de la station-service.
+Lors du déchargement de carburant de la catégorie B d'une citerne de transport dans les installations de stockage des stations-service, les vapeurs générées par le déplacement de carburant sont renvoyées dans la citerne de transport au moyen d'un tuyau de raccordement étanche aux vapeurs. Lors de cette opération, un dispositif est mis en place afin que ces vapeurs ne s'évacuent pas par l'évent du réservoir de stockage de la station-service.
 
 Objet du contrôle :
 
-- présence d'une bouche d'évacuation des vapeurs pour le carburant de la catégorie B de la rubrique 1430 destinées à être raccordées à la citerne de transport (le non-respect de ce point relève d'une non-conformité majeure) ;
+- présence d'une bouche d'évacuation des vapeurs pour le carburant de la catégorie B destinées à être raccordées à la citerne de transport (le non-respect de ce point relève d'une non-conformité majeure) ;
 
 - présence d'évents pour les carburants de la catégorie B qui ne débouchent pas à l'atmosphère (le non-respect de ce point relève d'une non-conformité majeure).
 
-Une station-service équipée de ces dispositifs est ravitaillée par un réservoir de transport conçu pour retenir les vapeurs de carburant de la catégorie B de la rubrique 1430.
+Une station-service équipée de ces dispositifs est ravitaillée par un réservoir de transport conçu pour retenir les vapeurs de carburant de la catégorie B.
 
 Les opérations de remplissage des réservoirs des stations-service ne sont pas effectuées avant que ces dispositifs ne soient en place et fonctionnent correctement.
 
@@ -852,9 +866,9 @@ Les dispositions du présent point ne s'appliquent pas aux stations-service d'un
 
 6.1.2. Récupération des vapeurs liées au ravitaillement des véhicules à moteur
 
-Le présent point est applicable aux stations de distribution de carburant de la catégorie B de la rubrique 1430 de la nomenclature des installations classées. Les volumes considérés au titre du présent point sont relatifs aux carburants de la catégorie B de la rubrique 1430 de la nomenclature des installations classées. Les carburants pour l'aviation ne sont pas concernés.
+Le présent point est applicable aux stations de distribution de carburant de la catégorie B. Les volumes considérés au titre du présent point sont relatifs aux carburants de la catégorie B. Les carburants pour l'aviation ne sont pas concernés.
 
-Tout exploitant d'une station-service d'un volume distribué inférieur à 500 mètres cubes par an de carburant de la catégorie B de la rubrique 1430 est tenu de déclarer au préfet l'augmentation de ce volume si celui-ci dépasse 500 mètres cubes par an de carburant, au plus tard le 31 mars de l'année suivant celle où le dépassement a été constaté.
+Tout exploitant d'une station-service d'un volume distribué inférieur à 500 mètres cubes par an de carburant de la catégorie B est tenu de déclarer au préfet l'augmentation de ce volume si celui-ci dépasse 500 mètres cubes par an de carburant, au plus tard le 31 mars de l'année suivant celle où le dépassement a été constaté.
 
 6.1.2.1. Récupération des vapeurs
 
@@ -934,7 +948,7 @@ Objet du contrôle : présentation du dernier certificat de contrôle de l'insta
 
 6.1.2.7. Affichage
 
-A compter du 1er janvier 2012, un panneau ou autocollant indique la présence d'un système de récupération de vapeur sur chaque distributeur de carburant de catégorie B de la nomenclature des installations classées ou à proximité équipé d'un tel dispositif.
+A compter du 1er janvier 2012, un panneau ou autocollant indique la présence d'un système de récupération de vapeur sur chaque distributeur de carburant de catégorie B ou à proximité équipé d'un tel dispositif.
 
 6.2. Odeurs
 
@@ -1032,7 +1046,7 @@ Emergence admissible pour la période allant de 22 heures à 7 heures, ainsi que
 
 |
 
-supérieur à 35 et inférieur ou égal à 45 dB (A)
+Supérieur à 35 et inférieur ou égal à 45 dB (A)
 
 |
 
@@ -1044,7 +1058,7 @@ supérieur à 35 et inférieur ou égal à 45 dB (A)
 
 |
 
-supérieur à 45 dB (A)
+Supérieur à 45 dB (A)
 
 |
 

@@ -106,31 +106,7 @@ L'installation ne surmonte pas et n'est pas surmontée de locaux habités ou occ
 
 2.4. Comportement au feu des bâtiments
 
-2.4.1. [∗]
-
-2.4.2. Résistance au feu
-
-Les bâtiments couverts recevant les contenants à laver de déchets combustibles ou inflammables présentent les caractéristiques de résistance au feu minimales suivantes :
-
-- murs extérieurs et murs séparatifs REI 30 (coupe-feu de degré une demi-heure) ;
-
-- planchers REI 30 (coupe-feu de degré une demi-heure) ;
-
-- portes et fermetures résistantes au feu (y compris celles comportant des vitrages et des quincailleries) et leurs dispositifs de fermeture EI 30 (coupe-feu de degré une demi-heure).
-
-R : capacité portante.
-
-E : étanchéité au feu.
-
-I : Isolation thermique.
-
-Les classifications sont exprimées en minutes (30 : une demi- heure).
-
-Les justificatifs attestant des propriétés de résistance au feu sont conservés dans le dossier "installations classées", prévue au point 1.4.
-
-Les portes et fermetures résistantes au feu qui participent à la sectorisation des installations en cas d'incendie sont équipées de dispositifs de fermeture automatique et sont maintenues fermées en cas d'incendie.
-
-2.4.3. [∗]
+2.4.1.
 
 2.4.4. Désenfumage
 
@@ -224,7 +200,7 @@ Les réservoirs fixes sont munis de jauges de niveau et, pour les stockages ente
 
 L'étanchéité des réservoirs est contrôlable à tout moment et fait l'objet d'un examen visuel tous les six mois.
 
-Lorsque le stockage est constitué exclusivement de récipients de capacité unitaire inférieure ou égale à 250 litres, admis au transport, le volume minimal de la rétention est égal soit à la capacité totale des récipients, si cette capacité est inférieure à 800 litres, soit à 20 % de la capacité totale, ou 50 % dans le cas de déchets ou produits liquides inflammables (à l'exception des lubrifiants), avec un minimum de 800 litres si cette capacité excède 800 litres.
+Lorsque le stockage est constitué exclusivement de récipients de capacité unitaire inférieure ou égale à 250 litres, admis au transport, le volume minimal de la rétention est égal soit à la capacité totale des récipients, si cette capacité est inférieure à 800 litres, soit à 20 % de la capacité totale, ou 50 % dans le cas de déchets ou produits liquides inflammables ou liquides combustibles de point éclair compris entre 60 °C et 93 °C (à l'exception des lubrifiants), avec un minimum de 800 litres si cette capacité excède 800 litres.
 
 La capacité de rétention est étanche aux produits et déchets qu'elle pourrait contenir et résiste à l'action physique et chimique des fluides. Il en est de même pour le dispositif d'obturation, qui est maintenu fermé en conditions normales.
 
@@ -428,7 +404,7 @@ Ces moyens d'intervention sont correctement entretenus et maintenus en bon état
 
 Les moyens d'intervention sont capables de fonctionner efficacement quelle que soit la température du dépôt, et notamment en période de gel.
 
-En outre, les stockages aériens de déchets liquides inflammables ou explosibles sont également équipés d'un système de détection et d'extinction automatique d'incendie approprié et adapté au risque à couvrir. Ce système est conçu, installé et entretenu régulièrement, conformément aux référentiels reconnus.
+En outre, les stockages aériens de déchets liquides inflammables ou combustibles de point éclair compris entre 60 °C et 93 °C ou explosibles sont également équipés d'un système de détection et d'extinction automatique d'incendie approprié et adapté au risque à couvrir. Ce système est conçu, installé et entretenu régulièrement, conformément aux référentiels reconnus.
 
 Objet du contrôle :
 
@@ -494,7 +470,7 @@ Objet du contrôle :
 
 5. Eau
 
-5.1. [∗]
+5.1. [*]
 
 5.2. Connexité avec des ouvrages soumis à la nomenclature eau
 

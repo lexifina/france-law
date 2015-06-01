@@ -1,6 +1,6 @@
 # Article Annexe I
 
-PRESCRIPTIONS GÉNÉRALES FAISANT L'OBJET DU CONTRÔLE PÉRIODIQUE APPLICABLES AUX INSTALLATIONS CLASSÉES POUR LA PROTECTION DE L'ENVIRONNEMENT SOUMISES À DÉCLARATION SOUS LA RUBRIQUE N o 1173
+PRESCRIPTIONS GÉNÉRALES FAISANT L'OBJET DU CONTRÔLE PÉRIODIQUE APPLICABLES AUX INSTALLATIONS CLASSÉES POUR LA PROTECTION DE L'ENVIRONNEMENT SOUMISES À DÉCLARATION SOUS LA RUBRIQUE N° 4511
 
 1. Dispositions générales
 
@@ -524,4 +524,4 @@ Les cuves ayant contenu des produits susceptibles de polluer les eaux sont vidé
 
 Les récipients ayant contenu des produits susceptibles de polluer les eaux sont vidés, nettoyés, dégazés et, le cas échéant, décontaminés.
 
-[⁎] Un modèle a été constitué pour la rédaction des arrêtés de prescriptions générales applicables aux installations soumises à déclaration. Certaines dispositions de ce modèle, qui ne se justifient pas pour les installations visées par la rubrique n o 1173, ont été supprimées. Néanmoins, la numérotation a été conservée pour permettre une homogénéité entre les arrêtés de prescriptions générales de toutes les rubriques de la nomenclature.
+(*) Un modèle a été constitué pour la rédaction des arrêtés de prescriptions générales applicables aux installations soumises à déclaration. Certaines dispositions de ce modèle, qui ne se justifient pas pour les installations visées par le présent arrêté ont été supprimées. Néanmoins, la numérotation a été conservée pour permettre une homogénéité entre les arrêtés de prescriptions générales de toutes les rubriques de la nomenclature.

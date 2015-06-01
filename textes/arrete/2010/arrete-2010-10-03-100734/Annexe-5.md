@@ -10,13 +10,13 @@ TAUX D'APPLICATION D'EXTINCTION
 
 |
 
-LIQUIDE INFLAMMABLE
+LIQUIDE
 
 non miscible à l'eau
 
 |
 
-LIQUIDE INFLAMMABLE
+LIQUIDE
 
 miscible à l'eau
 

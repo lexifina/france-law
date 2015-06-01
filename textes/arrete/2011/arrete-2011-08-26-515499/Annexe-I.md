@@ -70,7 +70,7 @@ Aérogénérateur : dispositif mécanique destiné à convertir l'énergie du ve
 
 2.1. Règles d'implantation
 
-L'installation est implantée à une distance minimale de 300 mètres de toute installation nucléaire de base visée par l'article 28 de la loi n° 2006-686 du 13 juin 2006 relative à la transparence et à la sécurité en matière nucléaire ainsi que de toute installation classée pour l'environnement soumise à l'arrêté du 10 mai 2000 susvisé en raison de la présence de produits toxiques, explosifs, comburants et inflammables.
+L'installation est implantée à une distance minimale de 300 mètres de toute installation nucléaire de base visée par l'article 28 de la loi n° 2006-686 du 13 juin 2006 relative à la transparence et à la sécurité en matière nucléaire ainsi que de toute installation seuil bas ou seuil haut définie à l'article R. 511-10 du code de l'environnement.
 
 L'installation est par ailleurs implantée à une distance minimale L de toute construction à usage d'habitation, de tout immeuble habité et de toute zone destinée à l'habitation telle que définie dans les documents d'urbanisme en vigueur le 13 juillet 2010.
 

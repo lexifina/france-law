@@ -136,7 +136,7 @@ Les personnes étrangères à l'établissement ne doivent pas avoir un accès li
 
 L'exploitant doit avoir à sa disposition des documents lui permettant de connaître la nature et les risques de l'hydrogène, en particulier les fiches de données de sécurité prévues par l'article R. 231-53 du code du travail.
 
-Les récipients doivent porter en caractères très lisibles le nom du produit ou la couleur d'identification des gaz normalisée et, s'il y a lieu, les symboles de danger conformément à l'arrêté du 20 avril 1994 relatif à la déclaration, la classification, l'emballage et l'étiquetage des substances ou aux réglements relatifs au transport de matières dangereuses.
+Les récipients doivent porter en caractères très lisibles le nom du produit ou la couleur d'identification des gaz normalisée et, s'il y a lieu, les symboles de danger conformément au règlement CLP n° 1272/2008 du 16 décembre 2008 modifié relatif à la classification, l'emballage et l'étiquetage des substances et mélanges ou aux réglements relatifs au transport de matières dangereuses.
 
 3.4 - Propreté
 
@@ -432,4 +432,4 @@ En fin d'exploitation, tous les produits dangereux ainsi que tous les déchets d
 
 non concerné
 
-(*) Un modèle a été constitué pour la rédaction des arrêtés de prescriptions générales applicables aux installations soumises à déclaration. Certaines dispositions de ce modèle, qui ne se justifient pas pour les installations visées par la rubrique n° 1416 ont été supprimées. Néanmoins, la numérotation a été conservée pour permettre une homogénéité entre les arrêtés de prescriptions générales de toutes les rubriques de la nomenclature.
+(*) Un modèle a été constitué pour la rédaction des arrêtés de prescriptions générales applicables aux installations soumises à déclaration. Certaines dispositions de ce modèle, qui ne se justifient pas pour les installations visées par le présent arrêté ont été supprimées. Néanmoins, la numérotation a été conservée pour permettre une homogénéité entre les arrêtés de prescriptions générales de toutes les rubriques de la nomenclature.

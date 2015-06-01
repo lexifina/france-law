@@ -1,6 +1,6 @@
 # Article Annexe I
 
-Prescriptions générales et faisant l'objet du contrôle périodique applicables aux installations classées pour la protection de l'environnement soumises à déclaration sous la rubrique n° 1412 de la nomenclature des installations classées
+Prescriptions générales et faisant l'objet du contrôle périodique applicables aux installations classées pour la protection de l'environnement soumises à déclaration sous la rubrique n° 4718 de la nomenclature des installations classées
 
 1. Dispositions générales
 
@@ -18,7 +18,7 @@ Ces contrôles ont pour objet de vérifier la conformité de l'installation aux 
 
 Les prescriptions dont le non-respect constitue une non-conformité majeure entraînant l'information du préfet dans les conditions prévues à l'article R. 512-59-1 sont repérées dans la présente annexe par la mention : " le non-respect de ce point relève d'une non-conformité majeure ".
 
-L'exploitant conserve le rapport de visite que l'organisme agréé lui adresse dans le dossier installations classées prévu au point 1.4. Si le rapport fait apparaître des non-conformités aux dispositions faisant l'objet du contrôle, l'exploitant met en oeuvre les actions correctives nécessaires pour y remédier. Ces actions ainsi que leurs dates de mise en oeuvre sont formalisées et conservées dans le dossier susmentionné.
+L'exploitant conserve le rapport de visite que l'organisme agréé lui adresse dans le dossier installations classées prévu au point 1.4. Si le rapport fait apparaître des non-conformités aux dispositions faisant l'objet du contrôle, l'exploitant met en oeuvre les actions correctives nécessaires pour y remédier. Ces actions ainsi que leurs dates de mise en œuvre sont formalisées et conservées dans le dossier susmentionné.
 
 1.2. Modifications
 
@@ -138,167 +138,113 @@ CAPACITÉ DÉCLARÉE (C) EN TONNES DE CHAQUE RÉSERVOIR
 
 |
 
-Limite la plus proche des voies de communication routières à grande circulation, des routes nationales non classées en route à grande circulation et des chemins départementaux, des voies urbaines situées à l'intérieur des agglomérations, des voies ferrées autres que celles de desserte de l'établissement et des voies navigables
+Limite la plus proche des voies de communication routières à grande circulation, des routes nationales non classées en route à grande
+
+circulation et des chemins départementaux, des voies urbaines situées à l'intérieur des agglomérations,
+
+des voies ferrées autres que celles de desserte de l'établissement et des voies navigables
 
 |
 
-6
+6 |
 
-|
+10 |
 
-10
+20 |
 
-|
+ERP 1re à 4e catégorie suivants : établissements hospitaliers ou de soins, établissements scolaires ou universitaires, crèches, colonies de
 
-20
-
-|
-
-ERP 1re à 4e catégorie suivants : établissements hospitaliers ou de soins, établissements scolaires ou universitaires, crèches, colonies de vacances, établissements de culte, les musées et les immeubles de
+vacances, établissements de culte, les musées et les immeubles de
 
 grande hauteur
 
 |
 
-15
+15 |
 
-|
+25 |
 
-25
-
-|
-
-75
-
-|
+75 |
 
 Autres ERP de 1re à 4e catégorie et ERP de 5e catégorie
 
 |
 
-10
+10 |
 
-|
+20 |
 
-20
-
-|
-
-60
-
-|
+60 |
 
 Ouvertures des locaux administratifs ou techniques de l'installation
 
 |
 
-5
+5 |
 
-|
+7,5 |
 
-7,5
-
-|
-
-10
-
-|
+10 |
 
 Appareils de distribution d'hydrocarbures liquides
 
 |
 
-7,5
+7,5 |
 
-|
+7,5 |
 
-7,5
-
-|
-
-10
-
-|
+10 |
 
 Appareils de distribution d'hydrocarbures liquéfiés
 
 |
 
-9
+9 |
 
-|
+9 |
 
-9
-
-|
-
-9
-
-|
+9 |
 
 Aires d'entreposage de matières inflammables, combustibles ou comburantes
 
 |
 
-10
+10 |
 
-|
+10 |
 
-10
-
-|
-
-10
-
-|
+10 |
 
 Bouches de remplissage et évents d'un réservoir aérien ou enterré d'hydrocarbures liquides
 
 |
 
-10
+10 |
 
-|
+10 |
 
-10
-
-|
-
-10
-
-|
+10 |
 
 Parois d'un réservoir aérien d'hydrocarbures liquides
 
 |
 
-10
+10 |
 
-|
+10 |
 
-10
-
-|
-
-20
-
-|
+20 |
 
 Parois d'un réservoir enterré d'hydrocarbures liquides
 
 |
 
-3
+3 |
 
-|
+3 |
 
-3
-
-|
-
-7
-
-|
+7 |
 
 Toutes ces distances peuvent être réduites au tiers de leur valeur dans le cas de réservoirs enterrés ou sous-talus, conformément aux dispositions du présent arrêté. Elles peuvent être réduites de moitié dans le cas de réservoirs aériens séparés des emplacements concernés par un mur plein en matériau de classe A1 (incombustible) et R 120 (stable au feu de degré deux heures), dont la hauteur excède de 0,5 mètre celle de la bouche d'emplissage et de l'orifice de la soupape et dont la longueur est telle que les distances du tableau soient respectées en le contournant.
 
@@ -336,7 +282,7 @@ La forme du conduit d'évacuation, notamment dans la partie la plus proche du d�
 
 2.7. Installations électriques
 
-Les installations électriques sont réalisées conformément aux règles en vigueur, notamment par l'application des articles de la quatrième partie du code du travail en ce qui concerne la protection des travailleurs dans les établissements qui mettent en oeuvre des courants électriques.
+Les installations électriques sont réalisées conformément aux règles en vigueur, notamment par l'application des articles de la quatrième partie du code du travail en ce qui concerne la protection des travailleurs dans les établissements qui mettent en œuvre des courants électriques.
 
 2.8. Mise à la terre des équipements
 
@@ -586,7 +532,7 @@ Les moyens de secours sont au minimum constitués de :
 
 -pour les réservoirs de capacité déclarée supérieure à 15 tonnes, d'un système fixe d'arrosage raccordé ;
 
--pour les réservoirs aériens de capacité déclarée supérieure à 35 tonnes, d'un système fixe d'arrosage du réservoir avec un débit minimum de 6 l/ m2/ min. Un film d'eau homogène sur l'intégralité de la surface du réservoir est obtenu. Ce système fixe d'arrosage est asservi à une détection gaz judicieusement implantée à proximité du réservoir. Ce système peut aussi être mis en route de manière manuelle à distance du réservoir.
+-pour les réservoirs aériens de capacité déclarée supérieure à 35 tonnes, d'un système fixe d'arrosage du réservoir avec un débit minimum de 6 l/ m 2/ min. Un film d'eau homogène sur l'intégralité de la surface du réservoir est obtenu. Ce système fixe d'arrosage est asservi à une détection gaz judicieusement implantée à proximité du réservoir. Ce système peut aussi être mis en route de manière manuelle à distance du réservoir.
 
 Objet du contrôle :
 
@@ -608,7 +554,7 @@ Objet du contrôle :
 
 4.3. Localisation des risques
 
-L'exploitant recense, sous sa responsabilité, les parties de l'installation qui, en raison des caractéristiques qualitatives et quantitatives de gaz inflammable liquéfié mis en oeuvre, stocké ou utilisé, sont susceptibles d'être à l'origine d'un sinistre pouvant avoir des conséquences directes ou indirectes sur l'environnement, la sécurité publique ou le maintien en sécurité de l'installation.
+L'exploitant recense, sous sa responsabilité, les parties de l'installation qui, en raison des caractéristiques qualitatives et quantitatives de gaz inflammable liquéfié mis en œuvre, stocké ou utilisé, sont susceptibles d'être à l'origine d'un sinistre pouvant avoir des conséquences directes ou indirectes sur l'environnement, la sécurité publique ou le maintien en sécurité de l'installation.
 
 L'exploitant détermine pour chacune de ces parties de l'installation la nature du risque (incendie, atmosphères explosives). Ce risque est signalé. Les ateliers et aires de manipulations de ces produits font partie de ce recensement.
 
@@ -694,7 +640,7 @@ Une autre consigne définit les modalités d'enregistrements des données permet
 
 Les consignes et procédures d'exploitation permettent de prévenir tout sur remplissage.
 
-Une consigne particulière est établie pour la mise en oeuvre ponctuelle du torchage d'un réservoir.
+Une consigne particulière est établie pour la mise en œuvre ponctuelle du torchage d'un réservoir.
 
 Objet du contrôle :
 
@@ -846,9 +792,9 @@ ambiant existant dans les zones
 
 ÉMERGENCE ADMISSIBLE
 
-pour la période allant de 7 heures
+pour la période allant de
 
-à 22 heures,
+7 heures à 22 heures,
 
 sauf dimanches et jours fériés
 
@@ -856,11 +802,11 @@ sauf dimanches et jours fériés
 
 ÉMERGENCE ADMISSIBLE
 
-pour la période allant de 22 heures
+pour la période allant
 
-à 7 heures, ainsi que les dimanches
+de 22 heures à 7 heures,
 
-et jours fériés
+ainsi que les dimanches et jours fériés
 
 |
 
@@ -912,4 +858,4 @@ Outre les dispositions prévues au point 1.7, l'exploitant remet en état le sit
 
 -les réservoirs et les tuyauteries désaffectés ; les cuves ayant contenu des produits susceptibles de polluer les eaux sont vidés, nettoyés, dégazés et, le cas échéant, décontaminés. Elles sont si possible enlevées, sinon et dans le cas spécifique des cuves enterrées, elles sont rendues inutilisables par remplissage avec un matériau solide inerte.
 
-[⁎] Un modèle a été constitué pour la rédaction des arrêtés de prescriptions générales applicables aux installations soumises à déclaration. Certaines dispositions de ce modèle, qui ne se justifient pas pour les installations visées par la rubrique n° 1412, ont été supprimées. Néanmoins, la numérotation a été conservée pour permettre une homogénéité entre les arrêtés de prescriptions générales de toutes les rubriques de la nomenclature.
+[⁎] Un modèle a été constitué pour la rédaction des arrêtés de prescriptions générales applicables aux installations soumises à déclaration. Certaines dispositions de ce modèle, qui ne se justifient pas pour les installations visées par le présent arrêté ont été supprimées. Néanmoins, la numérotation a été conservée pour permettre une homogénéité entre les arrêtés de prescriptions générales de toutes les rubriques de la nomenclature.

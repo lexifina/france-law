@@ -1,6 +1,6 @@
 # Article Annexe I
 
-PRESCRIPTIONS GÉNÉRALES APPLICABLES AUX INSTALLATIONS CLASSÉES POUR LA PROTECTION DE L'ENVIRONNEMENT SOUMISES À ENREGISTREMENT SOUS LA RUBRIQUE N° 1311
+PRESCRIPTIONS GÉNÉRALES APPLICABLES AUX INSTALLATIONS CLASSÉES POUR LA PROTECTION DE L'ENVIRONNEMENT SOUMISES À ENREGISTREMENT SOUS LA RUBRIQUE N° 4220
 
 1. Dispositions générales
 
@@ -186,7 +186,7 @@ Pour les installations de stockages d'explosifs situés dans les réserves atten
 
 Les produits explosifs sont stockés dans des locaux strictement réservés à ces produits.
 
-Ces locaux sont séparés des locaux abritant des installations relevant des rubriques 1310, 1312 et 1313 de la nomenclature des installations classées pour la protection de l'environnement.L'implantation de ces locaux respecte les distances d'isolement mentionnées au point 2. 2. 2 de la présente annexe.
+Ces locaux sont séparés des locaux abritant des installations relevant de l'une ou plusieurs des rubriques nos 4210, 1312 ou 2793 de la nomenclature des installations classées pour la protection de l'environnement.L'implantation de ces locaux respecte les distances d'isolement mentionnées au point 2. 2. 2 de la présente annexe.
 
 Les locaux où sont stockés les explosifs sont conçus de sorte qu'aucune réaction dangereuse ne puisse se produire en cas de contact, choc ou frottement avec les sols, parois, plafonds ou charpentes, dont les matériaux et revêtements sont adaptés aux produits présents.
 
@@ -218,7 +218,7 @@ Cette disposition n'est pas applicable aux bassins de traitement des eaux résid
 
 Pour les stockages de récipients de capacité unitaire inférieure ou égale à 250 litres, la capacité de rétention est au moins égale à :
 
-50 % de la capacité totale des fûts, dans le cas de liquides inflammables, à l'exception des lubrifiants ;
+50 % de la capacité totale des fûts, dans le cas de liquides inflammables ou de liquides combustibles de point éclair compris entre 60 °C et 93 °C, à l'exception des lubrifiants ;
 
 20 % de la capacité totale des fûts, dans les autres cas ;
 

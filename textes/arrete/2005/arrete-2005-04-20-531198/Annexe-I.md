@@ -1,80 +1,16 @@
 # Article Annexe I
 
-Prescriptions générales et faisant l'objet du contrôle périodique applicables aux installations classées pour la protection de l'environnement soumises à déclaration sous la rubrique n° 1433 (installations de mélange ou d'emploi de liquides
-
-inflammables)
+Prescriptions générales applicables aux installations de mélange ou d'emploi exploitées au sein des installations classées soumises à déclaration sous l'une ou plusieurs des rubriques nos 1436, 4330, 4331, 4722, 4734, 4742, 4743, 4744, 4746, 4747 ou 4748, ou pour le pétrole brut sous l'une ou plusieurs des rubriques nos 4510 ou 4511
 
 1. Dispositions générales
 
-1.1. Conformité de l'installation
-
-1.1.1. Conformité de l'installation à la déclaration
-
-L'installation est implantée, réalisée et exploitée conformément aux plans et autres documents joints à la déclaration, sous réserve du respect des prescriptions ci-dessous.
-
-1.1.2. Contrôle périodique
-
-L'installation est soumise à des contrôles périodiques par des organismes agréés dans les conditions définies par les articles R. 512-55 à R. 512-60 du code de l'environnement.
-
-Ces contrôles ont pour objet de vérifier la conformité de l'installation aux prescriptions repérées dans la présente annexe par le terme : " Objet du contrôle ", éventuellement modifiées par arrêté préfectoral, lorsqu'elles lui sont applicables.
-
-Les prescriptions dont le non-respect constitue une non-conformité majeure entraînant l'information du préfet dans les conditions prévues à l'article R. 512-59-1 sont repérées dans la présente annexe par la mention "le non-respect de ce point relève d'une non-conformité majeure".
-
-L'exploitant conserve le rapport de visite que l'organisme agréé lui adresse dans le dossier installations classées prévu au point 1.4. Si le rapport fait apparaître des non-conformités aux dispositions faisant l'objet du contrôle, l'exploitant met en oeuvre les actions correctives nécessaires pour y remédier. Ces actions ainsi que leurs dates de mise en oeuvre sont formalisées et conservées dans le dossier susmentionné.
-
-1.2. Modifications
+1.1. Modifications
 
 Toute modification apportée par le déclarant à l'installation, à son mode d'exploitation ou à son voisinage, entraînant un changement notable des éléments du dossier de déclaration initiale, est portée, avant sa réalisation, à la connaissance du préfet, qui demande une nouvelle déclaration si la modification est considérée comme substantielle. C'est en particulier le cas pour toute modification de la capacité nominale de l'installation de fabrication de mélanges, revêtements, vernis, encre et colles donnant lieu à une augmentation des émissions de composés organiques volatils supérieure à 10 % dans le cas général, ou à 25 % pour les installations dont la consommation de solvant est comprise entre 10 et 1 000 tonnes par an (cf. art. R. 512-54 du code de l'environnement et arrêté du 15 décembre 2009 fixant certains seuils et critères mentionnés aux articles R. 512-33 et R. 512-54 du code de l'environnement).
 
 La partie de l'installation qui subit une modification substantielle respecte les valeurs limites d'émissions de COV relatives aux installations nouvelles. Le préfet peut fixer des valeurs limites correspondant à celles relatives aux installations existantes si les émissions totales de l'ensemble de l'installation ne dépassent pas le niveau qui aurait été atteint si la partie qui subit la modification avait été traitée comme une nouvelle installation.
 
-1.3. Contenu de la déclaration
-
-La déclaration précise les mesures prises relatives aux conditions d'utilisation, d'épuration et d'évacuation des eaux résiduaires et des émanations de toutes natures ainsi que d'élimination des déchets et résidus en vue de respecter les dispositions du présent arrêté.
-
-1.4. Dossier " installation classée "
-
-L'exploitant établit et tient à jour un dossier comportant les documents suivants :
-
-- le dossier de déclaration ;
-
-- les plans tenus à jour ;
-
-- le récépissé de déclaration et les prescriptions générales ;
-
-- les arrêtés préfectoraux relatifs à l'installation concernée, pris en application de la législation relative aux installations classées pour la protection de l'environnement, s'il y en a ;
-
-- les résultats des dernières mesures sur les effluents et le bruit ;
-
-- les documents prévus aux points 3.5, 3.6, 4.3, 4.7, 4.8, 5.1 et 7.5 de la présente annexe.
-
-Ce dossier est tenu à la disposition de l'inspection des installations classées.
-
-Objet du contrôle :
-
-- présentation du récépissé de déclaration et des prescriptions générales ;
-
-- présentation des plans à jour d'éventuelles modifications (le non-respect de ce point relève d'une non-conformité majeure) ;
-
-- présentation des arrêtés préfectoraux relatifs à l'installation, s'il y en a ;
-
-- vérification de la quantité totale équivalente de l'installation au regard de la quantité totale déclarée au titre de la rubrique no 1433 de la nomenclature des installations classées pour la protection de l'environnement, pour le type d'installation concerné ;
-
-- vérification que la quantité totale équivalente de l'installation est inférieure à la valeur supérieure du régime déclaratif de la rubrique no 1433 de la nomenclature des installations classées pour la protection de l'environnement, pour le type d'installation concerné (le non-respect de ce point relève d'une non-conformité majeure).
-
-1.5. Déclaration d'accident ou de pollution accidentelle
-
-L'exploitant d'une installation est tenu de déclarer dans les meilleurs délais à l'inspection des installations classées les accidents ou incidents survenus du fait du fonctionnement de cette installation qui sont de nature à porter atteinte aux intérêts mentionnés à l'article L. 511-1 du code de l'environnement.
-
-1.6. Changement d'exploitant
-
-Lorsque l'installation change d'exploitant, le nouvel exploitant ou son représentant en fait la déclaration au préfet dans le mois qui suit la prise en charge de l'exploitation. Cette déclaration mentionne, s'il s'agit d'une personne physique, les nom, prénoms et domicile du nouvel exploitant et, s'il s'agit d'une personne morale, sa dénomination ou sa raison sociale, sa forme juridique, l'adresse de son siège social ainsi que la qualité du signataire de la déclaration.
-
-1.7. Cessation d'activité
-
-Lorsqu'une installation cesse l'activité au titre de laquelle elle était déclarée, son exploitant en informe le préfet au moins un mois avant l'arrêt définitif. La notification de l'exploitant indique les mesures de remise en état prévues ou réalisées.
-
-1.8. Définitions
+1.2. Définitions
 
 Au sens du présent arrêté, on entend par :
 
@@ -196,7 +132,7 @@ Objet du contrôle :
 
 - existence d'ouvrant permettant le passage de sauveteurs équipés.
 
-2.6. Ventilsation
+2.6. Ventilation
 
 Sans préjudice des dispositions du code du travail, les locaux sont convenablement ventilés pour éviter tout risque d'atmosphère explosive ou toxique. Le débouché à l'atmosphère de la ventilation est placé aussi loin que possible des immeubles habités ou occupés par des tiers et des bouches d'aspiration d'air extérieur, et à une hauteur suffisante compte tenu de la hauteur des bâtiments environnants, afin de favoriser la dispersion des gaz rejetés et au minimum à 1 mètre au-dessus du faîtage.
 

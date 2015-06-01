@@ -112,11 +112,11 @@ Les équipements métalliques (réservoirs, cuves, canalisations, charpente) doi
 
 2.9. Rétention des aires et locaux de travail
 
-Le sol des locaux de stockage ou de manipulation des substances ou préparations dégageant des gaz toxiques au contact de l'eau doit être étanche, incombustible et équipé de façon à pouvoir recueillir les produits répandus accidentellement ; pour cela, un seuil surélevé par rapport au niveau du sol ou tout dispositif équivalent les sépare de l'extérieur ou d'autres aires ou locaux. Les produits recueillis sont de préférence récupérés et recyclés, ou, en cas d'impossibilité, traités conformément au point 5.7 et au titre 7.
+Le sol des locaux de stockage ou de manipulation des substances ou préparations dégageant des gaz toxiques ou inflammables au contact de l'eau doit être étanche, incombustible et équipé de façon à pouvoir recueillir les produits répandus accidentellement ; pour cela, un seuil surélevé par rapport au niveau du sol ou tout dispositif équivalent les sépare de l'extérieur ou d'autres aires ou locaux. Les produits recueillis sont de préférence récupérés et recyclés, ou, en cas d'impossibilité, traités conformément au point 5.7 et au titre 7.
 
 2.10. Cuvettes de rétention
 
-Le stockage des substances ou préparations liquides dégageant des gaz toxiques au contact de l'eau doit être associé à une capacité de rétention dont le volume doit être au moins égal à la plus grande des deux valeurs suivantes :
+Le stockage des substances ou préparations liquides dégageant des gaz toxiques ou inflammables au contact de l'eau doit être associé à une capacité de rétention dont le volume doit être au moins égal à la plus grande des deux valeurs suivantes :
 
 - 100 % de la capacité du plus grand réservoir ;
 
@@ -134,9 +134,9 @@ Cette disposition ne s'applique pas aux bassins de traitement des eaux résiduai
 
 2.11. Aménagement et organisation des stockages
 
-Les substances ou préparations dégageant des gaz toxiques au contact de l'eau doivent être stockées dans des récipients hermétiquement fermés et adaptés aux caractéristiques du produit (en particulier au risque de corrosion sur les métaux).
+Les substances ou préparations dégageant des gaz toxiques ou inflammables au contact de l'eau doivent être stockées dans des récipients hermétiquement fermés et adaptés aux caractéristiques du produit (en particulier au risque de corrosion sur les métaux).
 
-Les récipients stockant les substances ou préparations dégageant des gaz toxiques au contact de l'eau doivent être stockés dans un local non inondable conçu de manière à protéger les récipients de l'humidité, de toute source d'ignition ou de chaleur et d'intempéries.
+Les récipients stockant les substances ou préparations dégageant des gaz toxiques ou inflammables au contact de l'eau doivent être stockés dans un local non inondable conçu de manière à protéger les récipients de l'humidité, de toute source d'ignition ou de chaleur et d'intempéries.
 
 Le local doit être séparé de tout lieu de stockage ou de manipulation de produit ou substance combustible ou inflammable par des parois coupe-feu de degré 1 heure d'une hauteur d'au moins 3 mètres et dépassant en projection horizontale la zone à protéger de 1 mètre.
 
@@ -150,7 +150,7 @@ Afin d'éviter toute entrée d'eau accidentelle dans les récipients (fûts ou c
 
 2.12. Stockage d'autre produit
 
-Les locaux de stockage des substances ou préparations dégageant des gaz toxiques au contact de l'eau ne doivent pas contenir de substance, de préparation ou de matériaux combustibles et /ou incompatibles avec les produits stockés.
+Les locaux de stockage des substances ou préparations dégageant des gaz toxiques ou inflammables au contact de l'eau ne doivent pas contenir de substance, de préparation ou de matériaux combustibles et /ou incompatibles avec les produits stockés.
 
 2.13. Prévention du risque explosion
 
@@ -258,7 +258,7 @@ Sans préjudice des dispositions du code du travail, des consignes précisant le
 
 - la procédure d'alerte avec les numéros de téléphone du responsable d'intervention de l'établissement, des services d'incendie et de secours, etc. ;
 
-- une consigne particulière affichée à l'extérieur de l'installation, doit indiquer en caractères très apparents, la nature du stockage " Substances dégageant des gaz toxiques au contact de l'eau " et l'" Interdiction d'utiliser de l'eau ou des produits à base d'eau " pour combattre un éventuel incendie.
+- une consigne particulière affichée à l'extérieur de l'installation indique en caractères très apparents, la nature du stockage "Substances dégageant des gaz toxiques au contact de l'eau" pour les substances relevant de la rubrique n° 4630, "Substances dégageant des gaz inflammables au contact de l'eau" pour les substances relevant de la rubrique n° 4620 et l'"Interdiction d'utiliser de l'eau ou des produits à base d'eau pour combattre un éventuel incendie".
 
 4.8. Consignes d'exploitation
 
@@ -276,9 +276,9 @@ Les opérations comportant des manipulations dangereuses et la conduite des inst
 
 4.9. Détection de gaz
 
-Les locaux de stockage des substances ou préparations dégageant des gaz toxiques au contact de l'eau doivent être équipés de détecteurs d'hydrogène.
+Les locaux de stockage des substances ou préparations dégageant des gaz toxiques ou inflammables au contact de l'eau doivent être équipés de détecteurs de gaz appropriés.
 
-Des détecteurs de gaz sont mis en place dans les parties de l'installation visées au point 4.3. présentant des risques en cas de dégagement ou d'accumulation importante de gaz ou de vapeurs toxiques. Ces zones sont équipées de systèmes de détection dont les niveaux de sensibilité sont adaptés aux produits visés et à leur mode d'utilisation.
+Des détecteurs de gaz sont mis en place dans les parties de l'installation visées au point 4.3. présentant des risques en cas de dégagement ou d'accumulation importante de gaz ou de vapeurs toxiques ou inflammables. Ces zones sont équipées de systèmes de détection dont les niveaux de sensibilité sont adaptés aux produits visés et à leur mode d'utilisation.
 
 4.10. Stockage et manipulation
 
@@ -534,8 +534,6 @@ En fin d'exploitation, tous les produits et éléments d'exploitation présents 
 
 Les cuves ayant contenu des produits susceptibles de polluer les eaux doivent être vidées, nettoyées, dégazées et le cas échéant décontaminées. Elles sont si possible enlevées, sinon, et dans le cas spécifique des cuves enterrées, elles doivent être rendues inutilisables par remplissage avec un matériau solide inerte.
 
-Notes :
-
-(*) Un modèle a été constitué pour la rédaction des arrêtés de prescriptions générales applicables aux installations soumises à déclaration. Certaines dispositions de ce modèle, qui ne se justifient pas pour les installations visées par la rubrique n° 1820, ont été supprimées. Néanmoins, la numérotation a été conservée pour permettre une homogénéité entre les arrêtés de prescriptions générales de toutes les rubriques de la nomenclature.
+(*) Un modèle a été constitué pour la rédaction des arrêtés de prescriptions générales applicables aux installations soumises à déclaration. Certaines dispositions de ce modèle, qui ne se justifient pas pour les installations visées par le présent arrêté ont été supprimées. Néanmoins, la numérotation a été conservée pour permettre une homogénéité entre les arrêtés de prescriptions générales de toutes les rubriques de la nomenclature.
 
 (2) Pour les AOX et les métaux, il pourra être réglementé par polluant spécifique à l'activité lorsque celui-ci est déterminé.

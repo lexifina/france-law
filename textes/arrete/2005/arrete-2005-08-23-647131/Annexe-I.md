@@ -50,6 +50,8 @@ Article 2 : Implantation - Aménagement
 
 2.1. Règles d'implantation
 
+Les récipients de dichlorure de carbonyle ou phosgène ont une capacité unitaire inférieure à 30 kg.
+
 Les parties de l'installation où du phosgène est stocké ou utilisé sont clôturées. La clôture, d'une hauteur minimale de 2 mètres, est suffisamment résistante pour empêcher toute intrusion indésirable dans les installations. Les portes d'accès de la clôture et du ou des bâtiments de stockage et d'emploi sont closes à l'aide d'une serrure de sûreté et maintenues fermées en dehors des mouvements nécessaires à la conduite de l'installation.
 
 Toutes dispositions sont prises pour éviter que des véhicules ou des engins quelconques puissent heurter et endommager le dépôt de phosgène ou ses installations annexes.
@@ -184,7 +186,7 @@ Les rétentions sont dimensionnées pour réduire au maximum la vaporisation de 
 
 2.11. Isolement du réseau de collecte
 
-Des dispositifs permettant l'obturation des réseaux d'évacuation des eaux de ruissellement sont implantés de sorte à maintenir sur le site les eaux d'extinction d'un sinistre ou l'écoulement d'un accident de transport. Une consigne définit les modalités de mise en oeuvre de ces dispositifs.
+Des dispositifs permettant l'obturation des réseaux d'évacuation des eaux de ruissellement sont implantés de sorte à maintenir sur le site les eaux d'extinction d'un sinistre ou l'écoulement d'un accident de transport. Une consigne définit les modalités de mise en œuvre de ces dispositifs.
 
 Article 3 : Exploitation - Entretien
 
@@ -314,7 +316,7 @@ l'obligation d'informer l'inspection des installations classées en cas d'accide
 
 la procédure d'alerte avec les numéros de téléphone du responsable d'intervention de l'établissement, des services d'incendie et de secours.
 
-Des consignes destinées à préciser les modalités de mise en oeuvre des dispositifs d'isolement du réseau de collecte prévues au point 2.11. sont également établies, tenues à jour et portées à la connaissance du personnel dans les lieux qu'il fréquente.
+Des consignes destinées à préciser les modalités de mise en œuvre des dispositifs d'isolement du réseau de collecte prévues au point 2.11. sont également établies, tenues à jour et portées à la connaissance du personnel dans les lieux qu'il fréquente.
 
 De plus, outre le fait qu'ils sont aptes au poste occupé, les différents opérateurs et intervenants sur le site reçoivent à intervalles réguliers une formation pratique et appropriée à la conduite des unités en situation normale et au comportement à adopter en cas de dysfonctionnements ou anomalies.
 

@@ -1,6 +1,6 @@
 # Article Annexe I
 
-Prescriptions générales et faisant l'objet du contrôle périodique applicables aux installations classées pour la protection de l'environnement soumises à déclaration sous la rubrique n° 1311 (stockage de poudres, explosifs et autres produits explosifs)
+Prescriptions générales et faisant l'objet du contrôle périodique applicables aux installations classées pour la protection de l'environnement soumises à déclaration sous la rubrique n° 4220 (stockage de poudres, explosifs et autres produits explosifs)
 
 1. Dispositions générales
 
@@ -272,7 +272,7 @@ Tout stockage de produits liquides susceptibles de créer une pollution de l'eau
 
 La capacité de rétention est étanche aux produits qu'elle pourrait contenir et résiste à l'action physique et chimique des fluides. Il en est de même pour son dispositif d'obturation qui est maintenu fermé.
 
-Lorsque le stockage est constitué exclusivement de récipients de capacité unitaire inférieure ou égale à 250 litres, admis au transport, le volume minimal de la rétention est égal soit à la capacité totale des récipients si cette capacité est inférieure à 800 litres, soit à 20 % de la capacité totale ou 50 % dans le cas de liquides inflammables (à l'exception des lubrifiants) avec un minimum de 800 litres si cette capacité excède 800 litres.
+Lorsque le stockage est constitué exclusivement de récipients de capacité unitaire inférieure ou égale à 250 litres, admis au transport, le volume minimal de la rétention est égal soit à la capacité totale des récipients si cette capacité est inférieure à 800 litres, soit à 20 % de la capacité totale ou 50 % dans le cas de liquides inflammables ou de liquides combustibles de point éclair compris entre 60 °C et 93 °C (à l'exception des lubrifiants) avec un minimum de 800 litres si cette capacité excède 800 litres.
 
 Des réservoirs ou récipients contenant des produits susceptibles de réagir dangereusement ensemble ne sont pas associés à la même cuvette de rétention.
 
@@ -900,4 +900,4 @@ Objet du contrôle :
 
 - respect de l'éloignement des voies de transfert de toute installation, équipement ou bâtiment présentant un risque caractérisé d'incendie ou d'explosion (le non-respect de ce point relève d'une non-conformité majeure).
 
-(*) Un modèle a été constitué pour la rédaction des arrêtés de prescriptions générales applicables aux installations soumises à déclaration. Certaines dispositions de ce modèle, qui ne se justifient pas pour les installations visées par la rubrique n° 1311, ont été supprimées. Néanmoins, la numérotation a été conservée pour permettre une homogénéité entre les arrêtés de prescriptions générales de toutes les rubriques de la nomenclature.
+(*) Un modèle a été constitué pour la rédaction des arrêtés de prescriptions générales applicables aux installations soumises à déclaration. Certaines dispositions de ce modèle, qui ne se justifient pas pour les installations visées par le présent arrêté ont été supprimées. Néanmoins, la numérotation a été conservée pour permettre une homogénéité entre les arrêtés de prescriptions générales de toutes les rubriques de la nomenclature.

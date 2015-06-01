@@ -1,8 +1,8 @@
 # Article Annexe I
 
-Prescriptions générales et faisant l'objet du contrôle périodique applicables aux installations classées pour la protection de l'environnement soumises à déclaration sous la rubrique n° 1331
+Prescriptions générales et faisant l'objet du contrôle périodique applicables aux installations classées pour la protection de l'environnement soumises à déclaration sous la rubrique n° 4702
 
-(Dans la présente annexe, on entend par :
+Dans la présente annexe, on entend par :
 
 " Magasin de stockage " : zone du bâtiment ou bâtiment comprenant le stockage des engrais, l'ensemble des équipements fixes nécessaires à leur manutention et les allées de circulation.
 
@@ -28,7 +28,7 @@ Ces contrôles ont pour objet de vérifier la conformité de l'installation aux 
 
 Les prescriptions dont le non-respect constitue une non-conformité majeure entraînant l'information du préfet dans les conditions prévues à l'article R. 512-59-1 sont repérées dans la présente annexe par la mention : " le non-respect de ce point relève d'une non-conformité majeure ".
 
-L'exploitant conserve le rapport de visite que l'organisme agréé lui adresse dans le dossier installations classées prévu au point 1.4. Si le rapport fait apparaître des non-conformités aux dispositions faisant l'objet du contrôle, l'exploitant met en oeuvre les actions correctives nécessaires pour y remédier. Ces actions ainsi que leurs dates de mise en oeuvre sont formalisées et conservées dans le dossier susmentionné.
+L'exploitant conserve le rapport de visite que l'organisme agréé lui adresse dans le dossier installations classées prévu au point 1.4. Si le rapport fait apparaître des non-conformités aux dispositions faisant l'objet du contrôle, l'exploitant met en oeuvre les actions correctives nécessaires pour y remédier. Ces actions ainsi que leurs dates de mise en œuvre sont formalisées et conservées dans le dossier susmentionné.
 
 1.2. Modifications
 
@@ -86,9 +86,9 @@ Lorsqu'une installation classée est mise à l'arrêt définitif, l'exploitant n
 
 Les nouvelles installations sont implantées et maintenues à une distance :
 
-- d'au moins 20 mètres des limites de propriété pour celles relevant des rubriques 1331-I et 1331-II ;
+- d'au moins 20 mètres des limites de propriété pour celles relevant des rubriques 4702-I, 4702-II ou 4702-III ;
 
-- d'au moins 10 mètres des limites de propriétés pour celles relevant exclusivement de la rubrique 1331-III.
+- d'au moins 10 mètres des limites de propriétés pour celles relevant exclusivement de la rubrique 4702-IV.
 
 Le magasin de stockage ne doit comporter qu'un seul niveau.
 
@@ -112,7 +112,7 @@ Les magasins de stockage (matériaux de construction et aménagements intérieur
 
 - matériaux de classe A1 selon NF EN 13501-1 (incombustible) et sol cimenté ou équivalent présentant une réaction au feu minimale pour les nouvelles installations ;
 
-- sol ne présentant pas de cavités (puisard, fentes...) pour toutes les installations stockant des engrais relevant de la rubrique 1331-II.
+- sol ne présentant pas de cavités (puisard, fentes...) pour toutes les installations stockant des engrais relevant de la rubrique 4702-II ou 4702-III.
 
 Objet du contrôle :
 
@@ -128,7 +128,7 @@ Les bâtiments de stockage doivent présenter les caractéristiques de résistan
 
 - portes et fermetures résistantes au feu (y compris celles comportant des vitrages et des quincailleries) et leurs dispositifs de fermeture EI 60 (coupe-feu de degré une heure) pour celles présentes dans la zone mitoyenne des installations qui possèdent une zone de bâtiment annexe au magasin de stockage et pour celles dont le mur correspondant est en contact avec de l'engrais ;
 
-- pour les installations existantes relevant de la rubrique 1331-I : parois des cases REI 120 (coupe-feu de degré deux heures)
+- pour les installations existantes relevant de la rubrique 4702-I : parois des cases REI 120 (coupe-feu de degré deux heures)
 
 R : capacité portante ;
 
@@ -158,19 +158,19 @@ Leur surface utile d'ouverture (% de la surface au sol totale du magasin de stoc
 
 EN CAS DE PRÉSENCE
 
-d'engrais relevant de la rubrique 1331-I
+d'engrais relevant de la rubrique 4702-I
 
 |
 
 EN CAS DE PRÉSENCE
 
-d'engrais relevant de la rubrique 1331-II
+d'engrais relevant de la rubrique 4702-II ou 4702-III
 
 |
 
 EN CAS DE PRÉSENCE
 
-d'engrais relevant de la rubrique 1331-III
+d'engrais relevant de la rubrique 4702-IV
 
 |
 
@@ -236,7 +236,7 @@ majeure) ;
 
 2.5. Accessibilité
 
-L'installation est accessible pour permettre l'intervention des services d'incendie et de secours. Elle est desservie, sur au moins un demi-périmètre, ou sur deux façades dont au moins une longueur de bâtiment, par une voie engins ou par une voie échelles si la hauteur du bâtiment est supérieure à 8 mètres. Dans le cas de stockage d'engrais en vrac relevant de la rubrique 1331-I, l'installation est agencée de façon à permettre la mise en oeuvre de lance auto-propulsive par les services d'incendie et de secours.
+L'installation est accessible pour permettre l'intervention des services d'incendie et de secours. Elle est desservie, sur au moins un demi-périmètre, ou sur deux façades dont au moins une longueur de bâtiment, par une voie engins ou par une voie échelles si la hauteur du bâtiment est supérieure à 8 mètres. Dans le cas de stockage d'engrais en vrac relevant de la rubrique 4702-I, l'installation est agencée de façon à permettre la mise en œuvre de lance auto-propulsive par les services d'incendie et de secours.
 
 Une des façades est équipée d'ouvrants permettant le passage de sauveteurs équipés d'ARI (appareils respiratoires isolants).
 
@@ -254,7 +254,7 @@ Les générateurs de fluide chaud sont installés dans un bâtiment ne communiqu
 
 2.7. Installations électriques
 
-Les installations électriques sont réalisées conformément aux règles en vigueur, notamment par l'application du décret n° 88-1056 du 14 novembre 1988 relatif à la réglementation du travail ou par l'application des articles de la quatrième partie du code du travail. en ce qui concerne la protection des travailleurs dans les établissements qui mettent en oeuvre des courants électriques.
+Les installations électriques sont réalisées conformément aux règles en vigueur, notamment par l'application du décret n° 88-1056 du 14 novembre 1988 relatif à la réglementation du travail ou par l'application des articles de la quatrième partie du code du travail. en ce qui concerne la protection des travailleurs dans les établissements qui mettent en œuvre des courants électriques.
 
 Elles ne doivent pas être en contact avec les engrais et doivent être étanches à l'eau et aux poussières.
 
@@ -288,7 +288,7 @@ Tous les appareils comportant des masses électriques ainsi que les charpentes m
 
 Le sol des aires de stockage extérieur et des magasins de stockage, de chargement et de déchargement est étanche et équipé de façon à pouvoir recueillir les eaux de lavage et les matières répandues accidentellement.
 
-Pour le stockage d'engrais relevant de la rubrique 1331-II, le sol doit être légèrement incliné, de façon à faciliter l'écoulement et le refroidissement rapide d'engrais fondu, en cas d'accident. Si les écoulements sont récupérés dans des caniveaux, ceux-ci sont placés à une distance suffisante du magasin de stockage de façon à ne pas confiner de l'engrais fondu à haute température.
+Pour le stockage d'engrais relevant de la rubrique 4702-II ou 4702-III, le sol doit être légèrement incliné, de façon à faciliter l'écoulement et le refroidissement rapide d'engrais fondu, en cas d'accident. Si les écoulements sont récupérés dans des caniveaux, ceux-ci sont placés à une distance suffisante du magasin de stockage de façon à ne pas confiner de l'engrais fondu à haute température.
 
 Les matières recueillies sont traitées conformément au point 5.5 ou utilisées conformément au point 5.8.
 
@@ -306,7 +306,7 @@ Objet du contrôle :
 
 2.11. Isolement du réseau de collecte
 
-Des dispositifs permettant l'obturation des réseaux d'évacuation des eaux de ruissellement sont implantés afin de maintenir sur le site les eaux d'extinction d'un sinistre. Une consigne définit les modalités de mise en oeuvre de ces dispositifs.
+Des dispositifs permettant l'obturation des réseaux d'évacuation des eaux de ruissellement sont implantés afin de maintenir sur le site les eaux d'extinction d'un sinistre. Une consigne définit les modalités de mise en œuvre de ces dispositifs.
 
 Objet du contrôle :
 
@@ -316,7 +316,7 @@ Objet du contrôle :
 
 2.12. Aménagement et organisation des stockages
 
-Dans le cas d'engrais relevant des rubriques 1331-I et II, la hauteur maximale de stockage n'excède pas 8 mètres dans un bâtiment, 6 mètres pour un stockage extérieur.
+Dans le cas d'engrais relevant des rubriques 4702-I, 4702-II ou 4702-III, la hauteur maximale de stockage n'excède pas 8 mètres dans un bâtiment, 6 mètres pour un stockage extérieur.
 
 Les stockages d'engrais conditionnés sont fractionnés en îlots séparés. Ces îlots ne peuvent excéder 1 250 tonnes.
 
@@ -326,19 +326,19 @@ Les stockages d'engrais vrac ainsi que d'engrais conditionnés sont isolés les 
 
 EN CAS DE PRÉSENCE
 
-d'engrais relevant de la rubrique 1331-I
+d'engrais relevant de la rubrique 4702-I
 
 |
 
 EN CAS DE PRÉSENCE
 
-d'engrais relevant de la rubrique 1331-II
+d'engrais relevant de la rubrique 4702-II ou 4702-III
 
 |
 
 EN CAS DE PRÉSENCE
 
-d'engrais relevant de la rubrique 1331-III
+d'engrais relevant de la rubrique 4702-IV
 
 |
 
@@ -464,9 +464,9 @@ Les opérations comportant des manipulations dangereuses et la conduite des inst
 
 - un nettoyage du sol systématique avant tout entreposage d'engrais ;
 
-- un contrôle de la température à réception des produits relevant de la 1331-I. Celle-ci est consignée dans un cahier tenu à la disposition de l'inspection des installations classées. Il est interdit d'entreposer un engrais dont la température est supérieure à 50 °C ;
+- un contrôle de la température à réception des produits relevant de la 4702-I. Celle-ci est consignée dans un cahier tenu à la disposition de l'inspection des installations classées. Il est interdit d'entreposer un engrais dont la température est supérieure à 50 °C ;
 
-- une gestion des produits hors spécifications des rubriques 1331-I, deuxième tiret, et 1331-II.
+- une gestion des produits hors spécifications des rubriques 4702-I, deuxième tiret, et 4702-II ou 4702-III.
 
 L'inertage par des matières appropriées, le fractionnement, l'isolement et l'enlèvement régulier de ces matières doivent être assurés.
 
@@ -494,7 +494,7 @@ Objet du contrôle :
 
 4.1. Localisation des risques
 
-L'exploitant recense, sous sa responsabilité, les parties de l'installation qui, en raison des caractéristiques qualitatives et quantitatives des matières mises en oeuvre, stockées ou utilisées sont susceptibles d'être à l'origine d'un sinistre pouvant avoir des conséquences directes ou indirectes sur l'environnement, la sécurité publique ou le maintien en sécurité de l'installation.
+L'exploitant recense, sous sa responsabilité, les parties de l'installation qui, en raison des caractéristiques qualitatives et quantitatives des matières mises en œuvre, stockées ou utilisées sont susceptibles d'être à l'origine d'un sinistre pouvant avoir des conséquences directes ou indirectes sur l'environnement, la sécurité publique ou le maintien en sécurité de l'installation.
 
 L'exploitant détermine pour chacune de ces parties de l'installation la nature du danger (incendie, détonation, émanations toxiques). Ce danger est signalé par un panneautage approprié. Les ateliers et aires de manipulations de ces produits doivent faire partie de ce recensement.
 
@@ -528,15 +528,15 @@ L'exploitant s'assure de la maîtrise de moyens de lutte contre l'incendie appro
 
 - d'un ou de plusieurs appareils d'incendie (bouches, poteaux...) dont un implanté à 100 mètres au plus des stockages, ou de points d'eau, bassins, citernes, etc., d'une capacité en rapport avec les sinistres potentiels à combattre. La capacité globale ne peut être inférieure à :
 
-- 120 m3 pour les installations relevant des rubriques 1331-II et 1331-III
+- 120 m3 pour les installations relevant des rubriques 4702-II, 4702-III ou 4702-IV ;
 
-- 180 m3 pour les installations stockant des engrais relevant de la rubrique 1331-I.
+- 180 m3 pour les installations stockant des engrais relevant de la rubrique 4702-I.
 
 Les réseaux d'eau ainsi que les réserves d'eau sont capables de fournir le débit nécessaire pour alimenter, des bouches et poteaux incendie en nombre défini en fonction des sinistres potentiels, à raison de 60m3/h chacun.
 
 - de moyens de pompage ;
 
-- de lances autopropulsives permettant d'introduire l'eau à l'intérieur des tas pour les engrais relevant de la rubrique 1331-I stockés en vrac. Leur nombre est établi en fonction de la nature et de l'importance des dangers. L'exploitant s'assure qu'en cas d'accident un surpresseur est disponible ;
+- de lances autopropulsives permettant d'introduire l'eau à l'intérieur des tas pour les engrais relevant de la rubrique 4702-I stockés en vrac. Leur nombre est établi en fonction de la nature et de l'importance des dangers. L'exploitant s'assure qu'en cas d'accident un surpresseur est disponible ;
 
 - d'extincteurs répartis à l'intérieur des magasins de stockage, sur les aires de stockages extérieurs et les lieux présentant des dangers spécifiques, à proximité des dégagements, bien visibles et facilement accessibles. Les agents d'extinction sont appropriés aux risques à combattre et compatibles avec les produits stockés ;
 
@@ -606,7 +606,7 @@ Sans préjudice des dispositions du code du travail, des consignes précisant le
 
 - la procédure d'alerte avec les numéros de téléphone du responsable d'intervention de l'établissement, des services d'incendie et de secours, etc. ;
 
-- les modalités de mise en oeuvre des dispositifs d'isolement du réseau de collecte, prévues au point 2.11, l'obligation d'informer l'inspection des installations classées en cas d'accident.
+- les modalités de mise en œuvre des dispositifs d'isolement du réseau de collecte, prévues au point 2.11, l'obligation d'informer l'inspection des installations classées en cas d'accident.
 
 Objet du contrôle :
 
@@ -800,13 +800,21 @@ L'installation est construite, équipée et exploitée de façon telle que son f
 
 Les émissions sonores émises par l'installation ne doivent pas être à l'origine, dans les zones à émergence réglementée, d'une émergence supérieure aux valeurs admissibles définies dans le tableau suivant :
 
-NIVEAU DE BRUIT ambiant existant dans les zones à émergence réglementée
+NIVEAU DE BRUIT
+
+ambiant existant dans les zones
+
+à émergence réglementée
 
 (incluant le bruit de l'installation)
 
 |
 
-EMERGENCE ADMISSIBLE pour la période allant de 7 heures à 22 heures,
+EMERGENCE ADMISSIBLE
+
+pour la période allant de
+
+7 heures à 22 heures,
 
 sauf dimanches et jours fériés
 
@@ -814,7 +822,9 @@ sauf dimanches et jours fériés
 
 EMERGENCE ADMISSIBLE
 
-pour la période allant de 22 heures à 7 heures,
+pour la période allant de
+
+22 heures à 7 heures,
 
 ainsi que les dimanches et jours fériés
 
@@ -872,4 +882,4 @@ Outre les dispositions prévues au point 1.7, l'exploitant remet en état le sit
 
 Elles sont si possible enlevées, sinon elles sont neutralisées par remplissage avec un solide inerte. Le produit utilisé pour la neutralisation recouvre toute la surface de la paroi interne et possède une résistance à terme suffisante pour empêcher l'affaissement du sol en surface.
 
-[*] Un modèle a été constitué pour la rédaction des arrêtés de prescriptions générales applicables aux installations soumises à déclaration. Certaines dispositions de ce modèle, qui ne se justifient pas pour les installations visées par la rubrique n° 1331, ont été supprimées. Néanmoins, la numérotation a été conservée pour permettre une homogénéité entre les arrêtés de prescriptions générales de toutes les rubriques de la nomenclature.
+[*] Un modèle a été constitué pour la rédaction des arrêtés de prescriptions générales applicables aux installations soumises à déclaration. Certaines dispositions de ce modèle, qui ne se justifient pas pour les installations visées par le présent arrêté ont été supprimées. Néanmoins, la numérotation a été conservée pour permettre une homogénéité entre les arrêtés de prescriptions générales de toutes les rubriques de la nomenclature.

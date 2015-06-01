@@ -1,6 +1,6 @@
 # Article Annexe I
 
-Prescriptions générales et faisant l’objet du contrôle périodique applicables aux installations classées pour la protection de l’environnement soumises à déclaration sous la rubrique n° 1172
+Prescriptions générales et faisant l'objet du contrôle périodique applicables aux installations classées pour la protection de l'environnement soumises à déclaration sous l'une ou plusieurs des rubriques nos 4510, 4741 ou 4745
 
 1. Dispositions générales
 
@@ -534,4 +534,4 @@ Les cuves ayant contenu des produits susceptibles de polluer les eaux sont vidé
 
 Les récipients ayant contenu des produits susceptibles de polluer les eaux sont vidés, nettoyés, dégazés et le cas échéant, décontaminés.
 
-(*)Un modèle a été constitué pour la rédaction des arrêtés de prescriptions générales applicables aux installations soumises à déclaration. Certaines dispositions de ce modèle, qui ne se justifient pas pour les installations visées par la rubrique no 1172, ont été supprimées. Néanmoins, la numérotation a été conservée pour permettre une homogénéité entre les arrêtés de prescriptions générales de toutes les rubriques de la nomenclature.
+(*)Un modèle a été constitué pour la rédaction des arrêtés de prescriptions générales applicables aux installations soumises à déclaration. Certaines dispositions de ce modèle, qui ne se justifient pas pour les installations visées par le présent arrêté ont été supprimées. Néanmoins, la numérotation a été conservée pour permettre une homogénéité entre les arrêtés de prescriptions générales de toutes les rubriques de la nomenclature.

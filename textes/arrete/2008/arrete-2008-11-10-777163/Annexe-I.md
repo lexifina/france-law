@@ -1,6 +1,6 @@
 # Article Annexe I
 
-Prescriptions générales applicables aux installations classées pour la protection de l'environnement soumises à déclaration sous la rubrique n° 1212 (Peroxydes organiques, emploi et stockage)
+Prescriptions générales applicables aux installations classées pour la protection de l'environnement soumises à déclaration sous l'une ou plusieurs des rubriques nos 4410, 4411, 4420, 4421 ou 4422
 
 1. Dispositions générales
 
@@ -54,21 +54,21 @@ Lorsqu'une installation cesse l'activité au titre de laquelle elle était décl
 
 1.8. (1)
 
-1.9. Définitions relatives aux peroxydes organiques et préparations en contenant
+1.9. Définitions
 
 Aux fins du présent arrêté, on entend par :
 
-Dépôt : bâtiment fermé comportant au moins une cellule dans laquelle sont stockés des peroxydes organiques ou préparations en contenant, dans leur emballage réglementaire de transport.
+Dépôt : bâtiment fermé comportant au moins une cellule dans laquelle sont stockés des peroxydes organiques ou des substances ou mélanges autoréactifs, dans leur emballage réglementaire de transport.
 
-Aire de stockage : zone délimitée à l'extérieur d'un bâtiment dans laquelle sont présents des peroxydes organiques ou des préparations en contenant, stockés dans leur emballage réglementaire de transport.
+Aire de stockage : zone délimitée à l'extérieur d'un bâtiment dans laquelle sont présents des peroxydes organiques ou des substances ou mélanges autoréactifs, stockés dans leur emballage réglementaire de transport.
 
-Cellule : partie d'un dépôt compartimenté où sont stockés des peroxydes organiques ou préparations en contenant dans leur emballage réglementaire de transport.
+Cellule : partie d'un dépôt compartimenté où sont stockés des peroxydes organiques ou des substances ou mélanges autoréactifs dans leur emballage réglementaire de transport.
 
-Dépôt, aire de stockage et cellule mixtes : dépôt, aire de stockage et cellule dans lesquels sont stockés des peroxydes organiques de groupes de risque différents.
+Dépôt, aire de stockage et cellule mixtes : dépôt, aire de stockage et cellule dans lesquels sont stockés des peroxydes organiques ou des substances ou mélanges autoréactifs de groupes de risque différents.
 
-Atelier : installation où s'exerce une activité d'emploi de peroxydes organiques.
+Atelier : installation où s'exerce une activité d'emploi de peroxydes organiques ou de substances ou mélanges autoréactifs.
 
-Emploi : opération qui consiste à utiliser un peroxyde organique déjà fabriqué en vue de le modifier, de le transformer, de l'utiliser dans un processus industriel, de le transvaser, ou de le reconditionner.
+Emploi : opération qui consiste à utiliser un peroxyde organique ou une substance ou mélange autoréactif déjà fabriqué en vue de le modifier, de le transformer, de l'utiliser dans un processus industriel, de le transvaser, ou de le reconditionner.
 
 2. Implantation - aménagement
 
@@ -76,11 +76,11 @@ Emploi : opération qui consiste à utiliser un peroxyde organique déjà fabriq
 
 Sans préjudice des dispositions prévues au point 2.5, l'installation (dépôt, aire de stockage ou atelier) est implantée et maintenue à une distance minimale des limites de propriété et de toutes les installations susceptibles de produire des effets toxiques, thermiques ou de surpression en cas d'incendie, égale à :
 
-- 15 mètres pour les peroxydes de groupes Gr1 et Gr2. Cette distance peut être réduite à 10 mètres pour les dépôts dont la toiture est en matériaux A2 s1 d0 au sens de l'arrêté du 21 novembre 2002 susvisé (respectivement M0 lorsque les matériaux n'ont pas encore été classés au regard des euroclasses) ;
+- 15 mètres pour les peroxydes organiques ou les substances ou mélanges autoréactifs de groupes Gr1 et Gr2. Cette distance peut être réduite à 10 mètres pour les dépôts dont la toiture est en matériaux A2 s1 d0 au sens de l'arrêté du 21 novembre 2002 susvisé (respectivement M0 lorsque les matériaux n'ont pas encore été classés au regard des euroclasses) ;
 
-- 10 mètres pour les peroxydes de groupe Gr3 ;
+- 10 mètres pour les peroxydes organiques ou les substances ou mélanges autoréactifs de groupe Gr3 ;
 
-- 5 mètres pour les aires de stockage de peroxydes organiques de groupe Gr4.
+- 5 mètres pour les aires de stockage de peroxydes organiques ou de substances ou mélanges autoréactifs de groupe Gr4.
 
 Dans le cas d'un stockage mixte, la distance minimale est égale à celle du groupe présentant le plus de risques.
 
@@ -96,13 +96,13 @@ L'installation ne surmonte pas, ni n'est surmontée de locaux habités ou occup�
 
 2.4.1. Réaction au feu
 
-Les éléments de construction de l'installation (dépôt ou atelier) sont de classe A1 (incombustibles) et compatibles avec les peroxydes organiques stockés. Le sol est de classe A1 selon la norme NF EN 13 501-1
+Les éléments de construction de l'installation (dépôt ou atelier) sont de classe A1 (incombustibles) et compatibles avec les peroxydes organiques et les substances ou mélanges autoréactifs stockés. Le sol est de classe A1 selon la norme NF EN 13 501-1
 
 (incombustible).
 
 2.4.2. Résistance au feu
 
-Les locaux dans lesquels sont stockés les peroxydes organiques ou préparations en contenant présentent les caractéristiques de résistance au feu minimales suivantes :
+Les locaux dans lesquels sont stockés les peroxydes organiques ou les substances ou mélanges autoréactifs présentent les caractéristiques de résistance au feu minimales suivantes :
 
 - murs extérieurs et murs séparatifs REI 60 ;
 
@@ -110,7 +110,7 @@ Les locaux dans lesquels sont stockés les peroxydes organiques ou préparations
 
 - portes et fermetures E 60.
 
-Dans le cas où une cellule est installée dans un bâtiment non dédié uniquement au stockage de peroxydes organiques, lorsque des ouvertures sont pratiquées dans les murs ou la porte de la cellule, elles sont munies de grilles pare-flammes et construites en chicane.
+Dans le cas où une cellule est installée dans un bâtiment non dédié uniquement au stockage de peroxydes organiques ou de substances ou mélanges autoréactifs, lorsque des ouvertures sont pratiquées dans les murs ou la porte de la cellule, elles sont munies de grilles pare-flammes et construites en chicane.
 
 2.4.3. Toitures et couvertures de toiture
 
@@ -122,7 +122,7 @@ Les locaux sont équipés en partie haute de dispositifs permettant l'évacuatio
 
 2.5. Accessibilité
 
-Les points 2.5.2 à 2.5.6 ne sont pas applicables aux installations stockant ou employant des peroxydes organiques de type F selon l'arrêté ADR en vigueur, de vitesse de combustion inférieure à 1 kg/min et de température de décomposition auto-accélérée (TDAA) supérieure à 60 °C.
+Les points 2.5.2 à 2.5.6 ne sont pas applicables aux installations stockant ou employant des peroxydes organiques ou des substances ou mélanges autoréactifs de type F selon l'arrêté ADR en vigueur, de vitesse de combustion inférieure à 1 kg/min et de température de décomposition auto-accélérée (TDAA) supérieure à 60 °C.
 
 2.5.1. Accessibilité au site
 
@@ -156,7 +156,7 @@ Pour permettre le croisement des engins de secours, tout tronçon de voie engins
 
 - largeur utile minimale de 3 mètres en plus de la voie engin ;
 
-- longueur minimale de 10 mètres présentant a minima les mêmes qualités de pente, de force portante et de hauteur libre que la voie engins .
+- longueur minimale de 10 mètres présentant a minima les mêmes qualités de pente, de force portante et de hauteur libre que la voie engins.
 
 2.5.4. Mise en station des échelles en vue d'appuyer un dispositif hydraulique en cas de dépôt couvert
 
@@ -168,7 +168,7 @@ Depuis cette voie, une échelle accédant à au moins toute la hauteur du bâtim
 
 - dans les virages de rayon intérieur inférieur à 50 mètres, un rayon intérieur R minimal de 11 mètres est maintenu et une surlargeur de S = 15/R mètres est ajoutée ;
 
-- aucun obstacle aérien ne doit gêner la manoeuvre de ces échelles à la verticale de l'ensemble de la voie ;
+- aucun obstacle aérien ne doit gêner la manœuvre de ces échelles à la verticale de l'ensemble de la voie ;
 
 - la distance par rapport à la façade est de 1 mètre minimum et 8 mètres maximum pour un stationnement parallèle au bâtiment et inférieure à 1 mètre pour un stationnement perpendiculaire au bâtiment ;
 
@@ -214,7 +214,7 @@ Tout stockage de produits liquides susceptibles de créer une pollution de l'eau
 
 - 50 % de la capacité globale des réservoirs associés.
 
-Lorsque le stockage est constitué exclusivement de récipients de capacité unitaire inférieure ou égale à 250 litres, admis au transport, le volume minimal de la rétention est égal soit à la capacité totale des récipients si cette capacité est inférieure à 800 litres, soit à 20 % de la capacité totale ou 50 % dans le cas de liquides inflammables (à l'exception des lubrifiants) avec un minimum de 800 litres si cette capacité excède 800 litres. La capacité de rétention est étanche aux produits qu'elle pourrait contenir et résister à l'action physique et chimique des fluides.
+Lorsque le stockage est constitué exclusivement de récipients de capacité unitaire inférieure ou égale à 250 litres, admis au transport, le volume minimal de la rétention est égal soit à la capacité totale des récipients si cette capacité est inférieure à 800 litres, soit à 20 % de la capacité totale ou 50 % dans le cas de liquides inflammables ou de liquides combustibles de point éclair compris entre 60 °C et 93 °C (à l'exception des lubrifiants) avec un minimum de 800 litres si cette capacité excède 800 litres. La capacité de rétention est étanche aux produits qu'elle pourrait contenir et résister à l'action physique et chimique des fluides.
 
 Il en est de même pour le dispositif d'obturation qui est maintenu fermé en conditions normales.
 
@@ -226,13 +226,13 @@ Les produits récupérés en cas d'accident ne peuvent être rejetés que dans d
 
 2.11. Isolement du réseau de collecte
 
-Des dispositifs permettant l'obturation des réseaux d'évacuation des eaux de ruissellement sont implantés afin de maintenir sur le site les eaux d'extinction d'un sinistre ou l'écoulement d'un accident de transport. Une consigne définit les modalités de mise en oeuvre de ces dispositifs.
+Des dispositifs permettant l'obturation des réseaux d'évacuation des eaux de ruissellement sont implantés afin de maintenir sur le site les eaux d'extinction d'un sinistre ou l'écoulement d'un accident de transport. Une consigne définit les modalités de mise en œuvre de ces dispositifs.
 
 Les eaux d'extinction ne sont rejetées qu'après vérification de leur compatibilité avec l'environnement. Dans le cas contraire, elles font l'objet de traitements appropriés.
 
 2.12. Aménagement et organisation des stockages
 
-Lorsque les peroxydes organiques au sein de leurs emballages réglementaires de transport sont regroupés (palette ou îlot), la masse de ces regroupements ne dépasse pas 1 200 kg. Les regroupements de masse supérieure ne sont tolérés que lors du déchargement d'un véhicule de transport de capacité supérieure. Dans ce cas, le reconditionnement en regroupements de 1 200 kg est réalisé au plus tard une demi-journée après l'arrivée du véhicule de transport.
+Lorsque les peroxydes organiques ou les substances ou mélanges autoréactifs au sein de leurs emballages réglementaires de transport sont regroupés (palette ou îlot), la masse de ces regroupements ne dépasse pas 1 200 kg. Les regroupements de masse supérieure ne sont tolérés que lors du déchargement d'un véhicule de transport de capacité supérieure. Dans ce cas, le reconditionnement en regroupements de 1 200 kg est réalisé au plus tard une demi-journée après l'arrivée du véhicule de transport.
 
 Pour assurer une bonne circulation de l'air, sont maintenus :
 
@@ -246,7 +246,7 @@ Les stockages sont aménagés et organisés en fonction des risques présentés 
 
 3.1. Surveillance de l'exploitation
 
-L'exploitation des installations (dépôt, aire de stockage ou atelier) se fait sous la surveillance, directe ou indirecte, d'une personne nommément désignée par l'exploitant, dûment habilitée et spécialement formée aux dangers que présentent les peroxydes organiques et aux questions de sécurité.
+L'exploitation des installations (dépôt, aire de stockage ou atelier) se fait sous la surveillance, directe ou indirecte, d'une personne nommément désignée par l'exploitant, dûment habilitée et spécialement formée aux dangers que présentent les peroxydes organiques ou les substances ou mélanges autoréactifs et aux questions de sécurité.
 
 3.2. Contrôle de l'accès
 
@@ -260,7 +260,7 @@ Les fûts, emballages et autres capacités portent en caractères très lisibles
 
 3.4. Propreté
 
-L'installation est maintenue en état constant de propreté, tout produit répandu accidentellement est enlevé et détruit ou neutralisé suivant une consigne rédigée d'avance pour chaque qualité de peroxyde et tenant compte des risques spécifiques liés aux produits.
+L'installation est maintenue en état constant de propreté, tout produit répandu accidentellement est enlevé et détruit ou neutralisé suivant une consigne rédigée d'avance pour chaque qualité de peroxyde organique ou de substance ou mélange autoréactif et tenant compte des risques spécifiques liés aux produits.
 
 3.5. Etat des stocks de produits dangereux
 
@@ -274,7 +274,7 @@ Une vérification de l'ensemble des installations électriques est effectuée au
 
 3.7. Consignes d'exploitation
 
-Les consignes et les procédures sont écrites, tenues à jour et mises à disposition. Elles rappellent notamment de manière concise, mais explicite, la nature des produits concernés et les risques spécifiques associés (incendie, toxicité, pollution des eaux, la nature du matériel et des substances qui ne doivent pas entrer en contact avec les peroxydes, etc.). Elles comportent impérativement des instructions relatives à l'entretien et au nettoyage des installations, au contrôle de température, à la réception des peroxydes organiques.
+Les consignes et les procédures sont écrites, tenues à jour et mises à disposition. Elles rappellent notamment de manière concise, mais explicite, la nature des produits concernés et les risques spécifiques associés (incendie, toxicité, pollution des eaux, la nature du matériel et des substances qui ne doivent pas entrer en contact avec les peroxydes organiques ou les substances ou mélanges autoréactifs, etc.). Elles comportent impérativement des instructions relatives à l'entretien et au nettoyage des installations, au contrôle de température, à la réception des peroxydes organiques ou des substances ou mélanges autoréactifs.
 
 Les procédures d'exploitation sont tenues à jour et à disposition de l'inspection des installations classées.
 
@@ -294,33 +294,75 @@ Ces consignes prévoient notamment :
 
 3.8. Températures dans les installations de stockage
 
-La température des peroxydes organiques est suivie de manière directe, ou en cas d'impossibilité technique, de manière indirecte par une mesure de la température ambiante, afin de détecter le dépassement des seuils suivants :
+La température des peroxydes organiques et des substances ou mélanges autoréactifs est suivie de manière directe, ou en cas d'impossibilité technique, de manière indirecte par une mesure de la température ambiante, afin de détecter le dépassement des seuils suivants :
 
 - t1, la température de première alerte ;
 
 - t2, la température d'urgence.
 
-Les températures T 1 et T2 sont déterminées à partir de la température de décomposition auto-accélérée (TDAA) des peroxydes organiques et définies ci-après :
+Les températures T 1 et T2 sont déterminées à partir de la température de décomposition auto-accélérée (TDAA) des peroxydes organiques et des substances ou mélanges autoréactifs et définies ci-après :
 
-TDAA T 1 T2
+TDAA
 
-< 20° C TDAA - 20° C TDAA - 10° C
+|
 
-20° C < TDAA < 35° C TDAA - 15° C TDAA - 10° C
+T 1
 
-> 35° C* TDAA - 10° C TDAA - 5° C
+|
+
+T2
+
+|
+
+≤ 20 °C
+
+|
+
+TDAA - 20 °C
+
+|
+
+TDAA - 10 °C
+
+|
+
+20 °C < TDAA ≤ 35° C
+
+|
+
+TDAA - 15 °C
+
+|
+
+TDAA - 10 °C
+
+|
+
+≥ 35 °C*
+
+|
+
+TDAA - 10 °C
+
+|
+
+TDAA - 5 °C
+
+|
 
 (*) Pour les produits de TDAA supérieure ou égale à 50 °C et ne nécessitant pas de régulation de température pour le transport, les températures T1 et T2 sont respectivement 35 et 40 °C.
 
-La température de décomposition auto-accélérée des peroxydes stockés est déterminée selon une méthode tenant compte de la possibilité d'un stockage prolongé.
+|
+
+La température de décomposition auto-accélérée des peroxydes organiques et des substances ou mélanges autoréactifs stockés est déterminée selon une méthode tenant compte de la possibilité d'un stockage prolongé.
 
 L'exploitant prend les dispositions permettant de ne pas dépasser les températures T1 et T2. Il définit au travers de procédures des actions appropriées à mettre en œuvre en cas de dépassement de ces seuils. Tout dépassement de l'un de ces seuils fait l'objet d'un enregistrement tenu à la disposition de l'inspection des installations classées.
 
-Pour les peroxydes organiques nécessitant une régulation de température pour le transport, l'exploitant prévoit notamment une alarme visuelle et sonore qui est déclenchée automatiquement lorsque la température dépasse chacun des deux seuils T1 et T2, sauf impossibilité technique. Les justificatifs d'impossibilité technique sont tenus à la disposition de l'inspection des installations classées.
+Pour les peroxydes organiques et les substances ou mélanges autoréactifs nécessitant une régulation de température pour le transport, l'exploitant prévoit notamment une alarme visuelle et sonore qui est déclenchée automatiquement lorsque la température dépasse chacun des deux seuils T1 et T2, sauf impossibilité technique. Les justificatifs d'impossibilité technique sont tenus à la disposition de l'inspection des installations classées.
 
 Pour les aires de stockage, l'exploitant protège les emballages du rayonnement solaire direct et s'assure que la température dans l'environnement immédiat des emballages ne dépasse pas 40 °C.
 
-Si le maintien des peroxydes organiques (stockés ou employés) à une température minimale est préconisé par les fiches de données de sécurité, le chauffage du dépôt ou de l'atelier s'effectue par fluide chauffant (air, eau, vapeur d'eau basse pression) ou par tout autre procédé présentant des garanties de sécurité comparables pour empêcher l'apparition de sources d'ignition. Le stockage de tels peroxydes organiques en aire extérieure est interdit.
+Si le maintien des peroxydes organiques (stockés ou employés) à une température minimale est préconisé par les fiches de données de sécurité, le chauffage du dépôt ou de l'atelier s'effectue par fluide chauffant (air, eau, vapeur d'eau basse pression) ou par tout autre procédé présentant des garanties de sécurité comparables pour empêcher l'apparition de sources d'ignition. Le stockage de tels peroxydes organiques ou de telles substances ou mélanges autoréactifs en aire extérieure est interdit.
 
 Si l'installation de parois chauffantes est indispensable, le stockage des produits est aménagé de façon qu'aucune réaction dangereuse ne puisse être provoquée par la température. Un déflecteur empêche le jet d'air pulsé d'aller directement sur les colis. Des treillis métalliques ou dispositifs équivalents évitent de placer les colis au-dessus d'une bouche d'air ou d'un radiateur ou à moins de 25 centimètres de ceux-ci. Un capteur de température judicieusement placé coupe le chauffage dès que la température atteint un seuil fixé en fonction de la nature des peroxydes organiques stockés.
 
@@ -330,7 +372,7 @@ Les générateurs de chaleur ou de froid (chaufferie, groupe froid) sont install
 
 4.1. Localisation des risques
 
-L'exploitant recense, sous sa responsabilité, les zones qui, en raison des peroxydes stockés ou employés, sont susceptibles d'être à l'origine d'un sinistre pouvant avoir des conséquences directes ou indirectes sur les intérêts visés au L. 511-1 du code de l'environnement.
+L'exploitant recense, sous sa responsabilité, les zones qui, en raison des peroxydes organiques et des substances ou mélanges autoréactifs stockés ou employés, sont susceptibles d'être à l'origine d'un sinistre pouvant avoir des conséquences directes ou indirectes sur les intérêts visés au L. 511-1 du code de l'environnement.
 
 L'exploitant détermine pour chacune de ces zones la nature des phénomènes dangereux redoutés (incendie, explosion ou émanation toxique). Ce danger est signalé.
 
@@ -352,7 +394,7 @@ L'installation est équipée de moyens de lutte contre l'incendie appropriés au
 
 - de plans des locaux facilitant l'intervention des services d'incendie et de secours avec une description des dangers pour chaque local ;
 
-- d'un ou plusieurs appareils d'incendie (bouches, poteaux par exemple) implantés de telle sorte que tout point de la limite du dépôt se trouve à moins de 100 mètres d'un appareil d'incendie. Le réseau d'eau, public ou privé, permet de fournir en toutes circonstances un débit minimal de 60 m3/h pendant 2 h et la quantité d'eau d'extinction et de refroidissement nécessaires en fonction des risques présentés par l'établissement. A défaut, une réserve d'eau destinée à l'extinction est accessible en toutes circonstances et à une distance du dépôt permettant l'intervention des services départementaux d'incendie et de secours. Cette distance est fixée après avis des services départementaux d'incendie et de secours. Cet alinéa n'est pas applicable aux installations stockant ou employant des peroxydes organiques de type F selon l'arrêté ADR en vigueur, de vitesse de combustion inférieure à 1 kg/min et de TDAA supérieure à 60 °C ;
+- d'un ou plusieurs appareils d'incendie (bouches, poteaux par exemple) implantés de telle sorte que tout point de la limite du dépôt se trouve à moins de 100 mètres d'un appareil d'incendie. Le réseau d'eau, public ou privé, permet de fournir en toutes circonstances un débit minimal de 60 m3/h pendant 2 h et la quantité d'eau d'extinction et de refroidissement nécessaires en fonction des risques présentés par l'établissement. A défaut, une réserve d'eau destinée à l'extinction est accessible en toutes circonstances et à une distance du dépôt permettant l'intervention des services départementaux d'incendie et de secours. Cette distance est fixée après avis des services départementaux d'incendie et de secours. Cet alinéa n'est pas applicable aux installations stockant ou employant des peroxydes organiques ou des substances ou mélanges autoréactifs de type F selon l'arrêté ADR en vigueur, de vitesse de combustion inférieure à 1 kg/min et de TDAA supérieure à 60 °C ;
 
 - d'extincteurs répartis à l'intérieur du dépôt lorsqu'il est couvert, sur les aires extérieures et dans les lieux présentant des risques spécifiques, à proximité des dégagements, bien visibles et facilement accessibles. Les agents d'extinction sont appropriés aux risques à combattre et compatibles avec les matières stockées ;
 
@@ -364,11 +406,11 @@ Les moyens de lutte contre l'incendie sont capables de fonctionner efficacement 
 
 4.3.2. Gaz toxiques
 
-Les dépôts contenant des peroxydes organiques susceptibles de créer des fumées et des gaz contenant des produits de décomposition toxiques (peroxydes organiques possédant notamment l'élément chlore ou la fonction acétique) lors d'un incendie ou suite à un emballement thermique sont équipés de détecteurs appropriés (incendie ou gaz toxique) dans les parties de l'installation visées au point 4.1 présentant des risques. Ces zones sont équipées de systèmes de détection reliés à une alarme sonore et visuelle. Ces dispositions ne s'appliquent pas aux installations stockant ou employant des peroxydes organiques de type F selon l'arrêté ADR en vigueur, de vitesse de combustion inférieure à 1 kg/min et de TDAA supérieure à 60 °C.
+Les dépôts contenant des peroxydes organiques ou des substances ou mélanges autoréactifs susceptibles de créer des fumées et des gaz contenant des produits de décomposition toxiques (peroxydes organiques ou substances ou mélanges autoréactifs possédant notamment l'élément chlore ou la fonction acétique) lors d'un incendie ou suite à un emballement thermique sont équipés de détecteurs appropriés (incendie ou gaz toxique) dans les parties de l'installation visées au point 4.1 présentant des risques. Ces zones sont équipées de systèmes de détection reliés à une alarme sonore et visuelle. Ces dispositions ne s'appliquent pas aux installations stockant ou employant des peroxydes organiques ou des substances ou mélanges autoréactifs de type F selon l'arrêté ADR en vigueur, de vitesse de combustion inférieure à 1 kg/min et de TDAA supérieure à 60 °C.
 
 Ces détecteurs sont maintenus en bon état et font l'objet de vérifications régulières dont le suivi est consigné dans un registre tenu à la disposition de l'inspection des installations classées.
 
-Une consigne décrit les actions correctives à mettre en oeuvre en cas de déclenchement de la détection.
+Une consigne décrit les actions correctives à mettre en œuvre en cas de déclenchement de la détection.
 
 4.4. Matériel utilisable en atmosphère explosible
 
@@ -378,7 +420,7 @@ Les gainages électriques et autres canalisations ne sont pas une cause possible
 
 4.5. Interdiction des feux
 
-Dans les parties de l'installation visées au point 4.1 et présentant des risques d'incendie ou d'explosion, il est interdit d'apporter du feu sous une forme quelconque, sauf pour la réalisation de travaux ayant fait l'objet d'un permis de feu . Cette interdiction est affichée en caractères apparents.
+Dans les parties de l'installation visées au point 4.1 et présentant des risques d'incendie ou d'explosion, il est interdit d'apporter du feu sous une forme quelconque, sauf pour la réalisation de travaux ayant fait l'objet d'un permis de feu. Cette interdiction est affichée en caractères apparents.
 
 4.6. Permis d'intervention/permis de feu dans les parties de l'installation visées au point 4.1
 
@@ -394,7 +436,7 @@ Sans préjudice des dispositions du code du travail, des consignes de sécurité
 
 Ces consignes indiquent notamment :
 
-- les fiches de données de sécurité des substances ou préparations mises en oeuvre ou stockées et leurs risques spécifiques ;
+- les fiches de données de sécurité des substances ou mélanges mises en œuvre ou stockées et leurs risques spécifiques ;
 
 - l'interdiction d'apporter du feu sous une forme quelconque, notamment l'interdiction de fumer, dans les zones visées au point 4.1 et présentant des risques d'incendie ou d'explosion ;
 
@@ -410,19 +452,19 @@ Ces consignes indiquent notamment :
 
 - la procédure d'alerte avec les numéros de téléphone du responsable d'intervention de l'établissement, des services d'incendie et de secours, etc. ;
 
-- les modalités de mise en oeuvre des dispositifs d'isolement du réseau de collecte, prévues au point 2.11 ;
+- les modalités de mise en œuvre des dispositifs d'isolement du réseau de collecte, prévues au point 2.11 ;
 
 - l'obligation d'informer l'inspection des installations classées en cas d'accident.
 
-Tout le personnel reçoit une formation portant sur les risques présentés par l'installation, ainsi que sur les moyens mis en oeuvre pour les éviter. Il connaît les procédures à suivre en cas d'urgence et procède à des exercices d'entraînement au moins une fois par an.
+Tout le personnel reçoit une formation portant sur les risques présentés par l'installation, ainsi que sur les moyens mis en œuvre pour les éviter. Il connaît les procédures à suivre en cas d'urgence et procède à des exercices d'entraînement au moins une fois par an.
 
 4.8. Stockage
 
-La cellule ou l'aire de stockage est affectée uniquement au stockage des peroxydes organiques et des préparations en contenant. Il est interdit d'y placer d'autres substances et préparations. L'emploi des peroxydes organiques est interdit à l'intérieur d'une cellule ou d'une aire de stockage.
+La cellule ou l'aire de stockage est affectée uniquement au stockage des peroxydes organiques et des substances ou mélanges autoréactifs. En cas d'incompatibilité entre les produits stockés, la cellule ou l'aire de stockage est conçue de façon à éviter tout contact entre ces produits en situation normale et dégradée (percement d'un contenant, produit répandu accidentellement, etc.). En particulier lorsque les produits incompatibles sont liquides, ils ne sont pas placés dans la même rétention. Il est interdit d'y placer d'autres substances et mélanges. L'emploi des peroxydes organiques ou des substances ou mélanges autoréactifs est interdit à l'intérieur d'une cellule ou d'une aire de stockage.
 
-L'introduction dans un lieu de stockage de peroxydes organiques s'effectue de façon à éviter une décomposition auto-accélérée par effet thermique.
+L'introduction dans un lieu de stockage de peroxydes organiques ou de substances ou mélanges autoréactifs s'effectue de façon à éviter une décomposition auto-accélérée par effet thermique.
 
-Des dispositions sont mises en oeuvre afin d'éviter tout risque d'introduction dans une cellule ou sur une aire de stockage d'une substance ou préparation dont la température est supérieure à T2. Le cas échéant, la substance ou préparation est stabilisée par tout moyen approprié.
+Des dispositions sont mises en œuvre afin d'éviter tout risque d'introduction dans une cellule ou sur une aire de stockage d'une substance ou préparation dont la température est supérieure à T2. Le cas échéant, la substance ou préparation est stabilisée par tout moyen approprié.
 
 4.9. Emploi
 
@@ -438,11 +480,11 @@ Cette quantité est maintenue dans un stockage temporaire.
 
 Le transvasement et la manipulation des produits s'effectuent dans une zone prévue et aménagée à cet effet.
 
-Le ou les modes opératoires pour la manipulation des peroxydes organiques sont définis et tenus à jour par l'exploitant.
+Le ou les modes opératoires pour la manipulation des peroxydes organiques ou des substances ou mélanges autoréactifs sont définis et tenus à jour par l'exploitant.
 
-Les résidus (peroxydes organiques employés au sens de la définition du point 1.9) ne sont, en aucun cas, remis dans les récipients d'origine. Tout récipient ou emballage ayant déjà servi au stockage d'un peroxyde ne peut, en aucun cas, être réutilisé tel quel sur le site ou entreposé dans le dépôt ou sur l'aire de stockage.
+Les résidus (peroxydes organiques ou substances ou mélanges autoréactifs employés au sens de la définition du point 1.9) ne sont, en aucun cas, remis dans les récipients d'origine. Tout récipient ou emballage ayant déjà servi au stockage d'un peroxyde ne peut, en aucun cas, être réutilisé tel quel sur le site ou entreposé dans le dépôt ou sur l'aire de stockage.
 
-Les emballages ayant contenu des peroxydes organiques, vides et non nettoyés sont rebouchés et considérés comme des déchets dangereux. Ils conservent leur étiquetage d'origine pour être ensuite transportés vers une filière d'élimination conformément au point 7.5.
+Les emballages ayant contenu des peroxydes organiques ou des substances ou mélanges autoréactifs, vides et non nettoyés sont rebouchés et considérés comme des déchets dangereux. Ils conservent leur étiquetage d'origine pour être ensuite transportés vers une filière d'élimination conformément au point 7.5.
 
 5. Eau
 
@@ -642,7 +684,7 @@ VI. Mise en œuvre d'un schéma de maîtrise des émissions de COV
 
 Les valeurs limites d'émissions canalisées et diffuses relatives aux COV définies au I et II ci-dessus ne sont pas applicables aux rejets des installations faisant l'objet d'un schéma de maîtrise des émissions de COV, tel que défini ci-après.
 
-Un tel schéma garantit que le flux total d'émissions de COV de l'installation ne dépasse pas le flux qui serait atteint par une application stricte des valeurs limites d'émission canalisées et diffuses définies dans la présente annexe. Le schéma est élaboré à partir d'un niveau d'émission de référence de l'installation correspondant au niveau atteint si aucune mesure de réduction des émissions de COV n'était mise en oeuvre sur l'installation.
+Un tel schéma garantit que le flux total d'émissions de COV de l'installation ne dépasse pas le flux qui serait atteint par une application stricte des valeurs limites d'émission canalisées et diffuses définies dans la présente annexe. Le schéma est élaboré à partir d'un niveau d'émission de référence de l'installation correspondant au niveau atteint si aucune mesure de réduction des émissions de COV n'était mise en œuvre sur l'installation.
 
 L'installation ou les parties de l'installation, dans lesquelles sont notamment mises en œuvre une ou plusieurs des substances visées aux points IV et V ci-dessus peuvent faire l'objet d'un schéma de maîtrise des émissions. La consommation résiduelle des substances visées aux points IV et V reste néanmoins soumise au respect des valeurs limites prévues aux IV et V.
 
@@ -758,17 +800,15 @@ existant dans les zones à émergence réglementée
 
 |
 
-EMERGENCE ADMISSIBLE
+ÉMERGENCE ADMISSIBLE
 
 pour la période allant de 7 h à 22 h, sauf dimanches et jours fériés
 
 |
 
-EMERGENCE ADMISSIBLE
+ÉMERGENCE ADMISSIBLE
 
-pour la période allant de 22 h à 7 h, ainsi que les dimanches
-
-et jours fériés
+pour la période allant de 22 h à 7 h, ainsi que les dimanches et jours fériés
 
 |
 

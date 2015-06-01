@@ -76,7 +76,7 @@ L'emploi d'oxygène ou d'air comprimé pour assurer par contact direct la circul
 
 c) Canalisation de liaison entre les réservoirs :
 
-Si plusieurs réservoirs installés dans une même fosse et destinés au stockage d'une même qualité de produits inflammables de catégorie C ou d'une même qualité de fuel lourd sont relié à leur catégorie C ou d'une même qualité de fuel lourd sont relié à leur partie inférieure, la canalisation de liaison doit avoir une section au moins égale à la somme de celles des canalisations de remplissage.
+Si plusieurs réservoirs installés dans une même fosse et destinés au stockage d'une même qualité de produits de catégorie C ou d'une même qualité de fioul lourd sont reliés à leur partie inférieure, la canalisation de liaison a une section au moins égale à la somme de celles des canalisations de remplissage.
 
 Une telle liaison est interdite dans le cas des liquides inflammables de catégorie B et pour toutes les catégories de liquides inflammables lorsqu'ils sont contenus dans des réservoirs enterrés non situés en fosse.
 

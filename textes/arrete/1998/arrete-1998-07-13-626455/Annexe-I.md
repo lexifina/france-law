@@ -1,6 +1,6 @@
 # Article Annexe I
 
-Prescriptions générales et faisant l'objet du contrôle périodique applicables aux installations classées pour la protection de l'environnement soumises à déclaration sous la rubrique n° 1111
+Prescriptions générales et faisant l'objet du contrôle périodique applicables aux installations classées pour la protection de l'environnement soumises à déclaration sous l'une ou plusieurs des rubriques nos 4110, 4709, 4713, 4736 ou 4737
 
 1. Dispositions générales
 
@@ -19,6 +19,8 @@ Ces contrôles ont pour objet de vérifier la conformité de l'installation aux 
 Les prescriptions dont le non-respect constitue une non-conformité majeure entraînant l'information du préfet dans les conditions prévues à l'article R. 512-59-1 sont repérées dans la présente annexe par la mention : "le non-respect de ce point relève d'une non-conformité majeure".
 
 L'exploitant conserve le rapport de visite que l'organisme agréé lui adresse dans le dossier installations classées prévu au point 1.4. Si le rapport fait apparaître des non-conformités aux dispositions faisant l'objet du contrôle, l'exploitant met en œuvre les actions correctives nécessaires pour y remédier. Ces actions ainsi que leurs dates de mise en œuvre sont formalisées et conservées dans le dossier susmentionné.
+
+Les dispositions du présent point 1.1.2 s'appliquent uniquement aux installations classées relevant de l'une ou plusieurs des rubriques nos 4110 ou 4736.
 
 1.2. Modifications
 
@@ -54,11 +56,9 @@ Objet du contrôle :
 
 - présentation des arrêtés préfectoraux relatifs à l'installation, lorsqu'ils existent ;
 
-- vérification de la quantité totale présente dans l'installation le jour du contrôle au regard de la quantité déclarée ;
+- vérification de la quantité susceptible d'être présente au regard de la quantité déclarée au titre de chacune des rubriques visées au point 1.1.2 de l'annexe I ;
 
-- vérification que la quantité totale présente dans l'installation le jour du contrôle est inférieure au
-
-palier supérieur du régime déclaratif tel que défini à l'annexe de l'article R. 511-9 du code de l'environnement (le non-respect de ce point relève d'une non-conformité majeure).
+- vérification que la quantité susceptible d'être présente est inférieure à la valeur supérieure du régime déclaratif tel que défini à l'article R. 511-9 du code de l'environnement au titre de chacune des rubriques visées au point 1.1.2 de l'annexe I (le non-respect de ce point relève d'une non-conformité majeure).
 
 1.5. Déclaration d'accident ou de pollution accidentelle
 
@@ -272,9 +272,9 @@ La hauteur maximale d'un stockage de substances ou préparations sous forme liqu
 
 Les récipients contenant des gaz ou gaz liquéfiés sont placés dans des locaux séparés répondant aux caractéristiques du point 2.4 des autres substances ou préparations solides ou liquides.
 
-Les générateurs d'aérosols contenant des produits très toxiques peuvent être stockés avec d'autres produits visés par les rubriques 1130/1131, 1150. L'aire de stockage est entièrement ceinturée par un grillage ou par un mur.
+Les générateurs d'aérosols contenant des produits très toxiques peuvent être stockés avec d'autres produits visés par l'une ou plusieurs des rubriques nos 4120, 4130, 4140, 4150, 4707, 4708, 4711, 4712, 4717, 4723, 4724, 4726, 4728, 4729, 4730, 4732, 4733, 4738, 4739 ou 4740. L'aire de stockage est entièrement ceinturée par un grillage ou par un mur.
 
-Dans tous les cas, les substances ou préparations inflammables au sens de l'arrêté ministériel du 20 avril 1994 ou au règlement CLP no 1272/2008 du 16 décembre 2008 modifié sont situées sur une aire ou dans une cellule spécifique répondant aux caractéristiques du point 2.4.
+Dans tous les cas, les substances ou mélanges inflammables au sens du règlement CLP n° 1272/2008 du 16 décembre 2008 modifié ou au règlement CLP no 1272/2008 du 16 décembre 2008 modifié sont situées sur une aire ou dans une cellule spécifique répondant aux caractéristiques du point 2.4.
 
 Pour assurer une bonne ventilation, un espace libre est d'au moins un mètre entre le stockage des substances ou préparations très toxiques et le plafond.
 
@@ -306,7 +306,7 @@ Objet du contrôle :
 
 L'exploitant dispose des documents lui permettant de connaître la nature et les risques des produits dangereux présents dans l'installation, en particulier les fiches de données de sécurité.
 
-Les solides, liquides, gaz ou gaz liquéfiés très toxiques sont contenus dans des emballages ou récipients conformes à la réglementation en vigueur en France. Les emballages portent en caractères très lisibles le nom des produits et les symboles de danger conformément, notamment à l'arrêté ministériel du 20 avril 1994 relatif à la déclaration, la classification, l'emballage et l'étiquetage des substances et préparations chimiques dangereuses ou au règlement CLP no 1272/2008 du 16 décembre 2008 modifié relatif à la classification, l'emballage et l'étiquetage des substances et mélanges.
+Les solides, liquides, gaz ou gaz liquéfiés très toxiques sont contenus dans des emballages ou récipients conformes à la réglementation en vigueur en France. Les emballages portent en caractères très lisibles le nom des produits et les symboles de danger conformément au règlement CLP no 1272/2008 du 16 décembre 2008 modifié relatif à la classification, l'emballage et l'étiquetage des substances et mélanges.
 
 Objet du contrôle :
 

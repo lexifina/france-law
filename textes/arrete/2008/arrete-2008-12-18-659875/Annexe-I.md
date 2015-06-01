@@ -1,14 +1,14 @@
 # Article Annexe I
 
-Prescriptions générales et faisant l'objet du contrôle périodique applicables aux installations classées pour la protection de l'environnement soumises à déclaration sous la rubrique n° 1330
+Prescriptions générales et faisant l'objet du contrôle périodique applicables aux installations classées pour la protection de l'environnement soumises à déclaration sous la rubrique n° 4701
 
 Dans la présente annexe, on entend par :
 
-- nitrate d'ammonium : l'ensemble des produits de la rubrique n° 1330 ;
+- nitrate d'ammonium : l'ensemble des produits de la rubrique n° 4701 ;
 
-- nitrate d'ammonium technique (NAT) : tous les produits définis au point 1 de la rubrique n° 1330 ;
+- nitrate d'ammonium technique (NAT) : tous les produits définis au point 1 de la rubrique n° 4701 ;
 
-- nitrate d'ammonium en solution chaude (NASC) : tous les produits définis au point 2 de la rubrique n° 1330 ;
+- nitrate d'ammonium en solution chaude (NASC) : tous les produits définis au point 2 de la rubrique n° 4701 ;
 
 - stockage : toute zone où est entreposé du nitrate d'ammonium ;
 
@@ -30,7 +30,7 @@ Ces contrôles ont pour objet de vérifier la conformité de l'installation aux 
 
 Les prescriptions dont le non-respect constitue une non-conformité majeure entraînant l'information du préfet dans les conditions prévues à l'article R. 512-59-1 sont repérées dans la présente annexe par la mention : " le non-respect de ce point relève d'une non-conformité majeure ".
 
-L'exploitant conserve le rapport de visite que l'organisme agréé lui adresse dans le dossier installations classées prévu au point 1.4. Si le rapport fait apparaître des non-conformités aux dispositions faisant l'objet du contrôle, l'exploitant met en oeuvre les actions correctives nécessaires pour y remédier. Ces actions ainsi que leurs dates de mise en oeuvre sont formalisées et conservées dans le dossier susmentionné.
+L'exploitant conserve le rapport de visite que l'organisme agréé lui adresse dans le dossier installations classées prévu au point 1.4. Si le rapport fait apparaître des non-conformités aux dispositions faisant l'objet du contrôle, l'exploitant met en œuvre les actions correctives nécessaires pour y remédier. Ces actions ainsi que leurs dates de mise en œuvre sont formalisées et conservées dans le dossier susmentionné.
 
 1.2. Modifications
 
@@ -202,7 +202,7 @@ Depuis cette voie, une échelle accédant à au moins toute la hauteur du bâtim
 
 - dans les virages de rayon intérieur inférieur à 50 mètres, un rayon intérieur R minimal de 11 mètres est maintenu et une surlargeur de S = 15/R mètres est ajoutée ;
 
-- aucun obstacle aérien ne doit gêner la manoeuvre de ces échelles à la verticale de l'ensemble de la voie ;
+- aucun obstacle aérien ne doit gêner la manœuvre de ces échelles à la verticale de l'ensemble de la voie ;
 
 - la distance par rapport à la façade est de un mètre minimum et 8 mètres maximum pour un stationnement parallèle au bâtiment et inférieure à un mètre pour un stationnement perpendiculaire au bâtiment ;
 
@@ -258,7 +258,7 @@ Tout stockage de produits liquides susceptibles de créer une pollution de l'eau
 
 La capacité de rétention est étanche aux produits qu'elle pourrait contenir et résiste à l'action physique et chimique des fluides. Il en est de même pour son dispositif d'obturation qui est maintenu fermé.
 
-Lorsque le stockage est constitué exclusivement de récipients de capacité unitaire inférieure ou égale à 250 litres, admis au transport, le volume minimal de la rétention est égal soit à la capacité totale des récipients si cette capacité est inférieure à 800 litres, soit à 20 % de la capacité totale ou 50 % dans le cas de liquides inflammables (à l'exception des lubrifiants) avec un minimum de 800 litres si cette capacité excède 800 litres.
+Lorsque le stockage est constitué exclusivement de récipients de capacité unitaire inférieure ou égale à 250 litres, admis au transport, le volume minimal de la rétention est égal soit à la capacité totale des récipients si cette capacité est inférieure à 800 litres, soit à 20 % de la capacité totale ou 50 % dans le cas de liquides inflammables ou de liquides combustibles de point éclair compris entre 60 °C et 93 °C (à l'exception des lubrifiants) avec un minimum de 800 litres si cette capacité excède 800 litres.
 
 La capacité de rétention est étanche aux produits qu'elle pourrait contenir et résister à l'action physique et chimique des fluides.
 
@@ -272,7 +272,7 @@ Les produits récupérés en cas d'accident ne peuvent être rejetés que dans d
 
 L'installation est équipée de systèmes appropriés de récupération des écoulements de nitrate d'ammonium (entraînement par les eaux de pluie, nettoyage des zones de stockage, extinction en cas d'accident par exemple), visant à prévenir les risques de pollution pour les milieux environnants.
 
-Des dispositifs clairement signalés, facilement accessibles et manoeuvrables permettant l'obturation des réseaux d'évacuation des eaux de ruissellement sont implantés afin de maintenir sur le site les eaux d'extinction d'un sinistre notamment. Une consigne définit les modalités de mise en oeuvre de ces dispositifs.
+Des dispositifs clairement signalés, facilement accessibles et manoeuvrables permettant l'obturation des réseaux d'évacuation des eaux de ruissellement sont implantés afin de maintenir sur le site les eaux d'extinction d'un sinistre notamment. Une consigne définit les modalités de mise en œuvre de ces dispositifs.
 
 Les eaux recueillies ne peuvent être rejetées qu'après démonstration de leur compatibilité avec l'environnement. Dans le cas contraire, elles font l'objet de traitements appropriés.
 
@@ -422,7 +422,7 @@ Le chargement ou le déchargement de nitrate d'ammonium en solution chaude est e
 
 - l'adéquation entre les équipements de transfert du véhicule (flexible, raccord par exemple) et ceux de l'installation de dépotage/empotage est vérifié ;
 
-- la nature, la quantité des produits et leur conformité aux spécifications techniques que requiert leur mise en oeuvre, quand celles-ci conditionnent la sécurité, sont contrôlées ;
+- la nature, la quantité des produits et leur conformité aux spécifications techniques que requiert leur mise en œuvre, quand celles-ci conditionnent la sécurité, sont contrôlées ;
 
 - une consigne définit les modalités d'arrêt rapide du transfert en cas de dysfonctionnement, rupture d'un flexible ou canalisation de dépotage et d'épandage accidentel. Un dispositif d'arrêt d'urgence facilement accessible doit permettre à l'opérateur d'interrompre rapidement le transfert en cas d'incident tel qu'un écoulement accidentel ;
 
@@ -450,7 +450,7 @@ Objet du contrôle :
 
 4.1. Localisation des risques
 
-L'exploitant recense, sous sa responsabilité, les parties de l'installation qui, en raison des caractéristiques qualitatives et quantitatives des matières mises en oeuvre, stockées, utilisées ou produites, sont susceptibles d'être à l'origine d'un sinistre pouvant avoir des conséquences directes ou indirectes sur les intérêts visés à l'article L. 511-1 du code de l'environnement.
+L'exploitant recense, sous sa responsabilité, les parties de l'installation qui, en raison des caractéristiques qualitatives et quantitatives des matières mises en œuvre, stockées, utilisées ou produites, sont susceptibles d'être à l'origine d'un sinistre pouvant avoir des conséquences directes ou indirectes sur les intérêts visés à l'article L. 511-1 du code de l'environnement.
 
 L'exploitant détermine pour chacune de ces parties de l'installation la nature du danger (incendie, explosion ou émanation toxique). Ce danger est signalé.
 
@@ -510,7 +510,7 @@ Sans préjudice des dispositions du code du travail, des consignes de sécurité
 
 Ces consignes indiquent notamment :
 
-- les fiches de données de sécurité des substances ou préparations mises en oeuvre ou stockées et leurs risques spécifiques ;
+- les fiches de données de sécurité des substances ou préparations mises en œuvre ou stockées et leurs risques spécifiques ;
 
 - l'interdiction d'apporter du feu sous une forme quelconque, notamment l'interdiction de fumer, dans les parties de l'installation visées au point 4.1 et présentant des risques d'incendie ou d'explosion ;
 
@@ -526,15 +526,15 @@ Ces consignes indiquent notamment :
 
 - les modalités d'alerte avec les numéros de téléphone du responsable d'intervention de l'établissement, des services d'incendie et de secours notamment ;
 
-- les modalités de mise en oeuvre des dispositifs d'isolement du réseau de collecte, prévues au point 2.11 ;
+- les modalités de mise en œuvre des dispositifs d'isolement du réseau de collecte, prévues au point 2.11 ;
 
 - l'obligation d'informer l'inspection des installations classées en cas d'accident.
 
-Le personnel reçoit une formation portant sur les risques présentés par l'installation, ainsi que sur les moyens mis en oeuvre pour les éviter. Il connaît les procédures à suivre en cas d'urgence et procède à des exercices d'entraînement au moins une fois par an.
+Le personnel reçoit une formation portant sur les risques présentés par l'installation, ainsi que sur les moyens mis en œuvre pour les éviter. Il connaît les procédures à suivre en cas d'urgence et procède à des exercices d'entraînement au moins une fois par an.
 
 Objet du contrôle :
 
-- vérification de la présence des fiches de données de sécurité des substances ou préparations mises en oeuvre ou stockées et leurs risques spécifiques ;
+- vérification de la présence des fiches de données de sécurité des substances ou préparations mises en œuvre ou stockées et leurs risques spécifiques ;
 
 - vérification de la présence de l'interdiction d'apporter du feu sous une forme quelconque ;
 
@@ -548,7 +548,7 @@ Objet du contrôle :
 
 - vérification de la présence de consignes relatives aux modalités d'alerte ;
 
-- vérification des modalités de mise en oeuvre des dispositifs d'isolement du réseau de collecte.
+- vérification des modalités de mise en œuvre des dispositifs d'isolement du réseau de collecte.
 
 4.8. Appareils mécaniques de manutention
 
@@ -772,7 +772,7 @@ Des dispositions sont prises pour qu'il ne puisse pas y avoir en cas d'accident 
 
 L'évacuation des effluents recueillis selon les dispositions du point 2.11. se fait soit dans les conditions prévues au point 5.5 ci-dessus, soit comme des déchets dans les conditions prévues à la partie 7 ci-après.
 
-Des dispositifs permettant l'obturation des réseaux d'évacuation des eaux de ruissellement sont implantés afin de maintenir sur le site l'écoulement d'un accident de transport. Une consigne définit les modalités de mise en oeuvre de ces dispositifs.
+Des dispositifs permettant l'obturation des réseaux d'évacuation des eaux de ruissellement sont implantés afin de maintenir sur le site l'écoulement d'un accident de transport. Une consigne définit les modalités de mise en œuvre de ces dispositifs.
 
 5.8. Epandage
 
@@ -822,7 +822,7 @@ Le brûlage des déchets à l'air libre est interdit.
 
 Une procédure particulière permet la gestion immédiate de ces produits au sein de l'établissement.
 
-Cette procédure de gestion décrit notamment les actions de neutralisation et d'élimination qui doivent être menées sur ces produits, les méthodes d'inertage prévues, les moyens permettant leur mise en oeuvre, les conditions de sécurité associées, le devenir des produits obtenus après neutralisation notamment.
+Cette procédure de gestion décrit notamment les actions de neutralisation et d'élimination qui doivent être menées sur ces produits, les méthodes d'inertage prévues, les moyens permettant leur mise en œuvre, les conditions de sécurité associées, le devenir des produits obtenus après neutralisation notamment.
 
 Elle prend en compte tous les produits à base de nitrate d'ammonium contaminés ou souillés, les fines, les mottes et les balayures notamment.
 
@@ -938,4 +938,4 @@ Outre les dispositions prévues au point 1.7, l'exploitant remet en état le sit
 
 - les cuves ayant contenu des produits susceptibles de polluer les eaux sont vidées, nettoyées, dégazées et, le cas échéant, décontaminées. Elles sont si possible enlevées, sinon et dans le cas spécifique des cuves enterrées, elles sont rendues inutilisables par remplissage avec un matériau solide inerte.
 
-[*] Un modèle a été constitué pour la rédaction des arrêtés de prescriptions générales applicables aux installations soumises à déclaration. Certaines dispositions de ce modèle, qui ne se justifient pas pour les installations visées par la rubrique n° 1330, ont été supprimées. Néanmoins, la numérotation a été conservée pour permettre une homogénéité entre les arrêtés de prescriptions générales de toutes les rubriques de la nomenclature.
+[*] Un modèle a été constitué pour la rédaction des arrêtés de prescriptions générales applicables aux installations soumises à déclaration. Certaines dispositions de ce modèle, qui ne se justifient pas pour les installations visées par le présent arrêté ont été supprimées. Néanmoins, la numérotation a été conservée pour permettre une homogénéité entre les arrêtés de prescriptions générales de toutes les rubriques de la nomenclature.

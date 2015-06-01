@@ -2,9 +2,19 @@
 
 1. Dispositions générales
 
-1.1 - Conformité de l'installation à la déclaration
+1.1. Conformité de l'installation.
 
-L'installation doit être implantée, réalisée et exploitée conformément aux plans et autres documents joints à la déclaration, sous réserve du respect des prescriptions ci-dessous.
+1.1.1. Conformité de l'installation à la déclaration.
+
+L'installation est implantée, réalisée et exploitée conformément aux plans et autres documents joints à la déclaration, sous réserve du respect des prescriptions ci-dessous.
+
+1.1.2. Contrôle périodique.
+
+L'installation est soumise à des contrôles périodiques par des organismes agréés dans les conditions définies par les articles R. 512-55 à R. 512-60 du code de l'environnement.
+
+Ces contrôles ont pour objet de vérifier la conformité de l'installation aux prescriptions repérées dans la présente annexe par le terme : "Objet du contrôle", éventuellement modifiées par arrêté préfectoral, lorsqu'elles lui sont applicables. Le contenu de ces contrôles est précisé à la fin de chaque point de la présente annexe après la mention : "Objet du contrôle". Les prescriptions dont le non-respect constitue une non-conformité majeure entraînant l'information du préfet dans les conditions prévues à l'article R. 512-59-1 sont repérées dans la présente annexe par la mention : "le non-respect de ce point relève d'une non-conformité majeure".
+
+L'exploitant conserve le rapport de visite que l'organisme agréé lui adresse dans le dossier installations classées prévu au point 1.4. Si le rapport fait apparaître des non-conformités aux dispositions faisant l'objet du contrôle, l'exploitant met en œuvre les actions correctives nécessaires pour y remédier. Ces actions ainsi que leurs dates de mise en œuvre sont formalisées et conservées dans le dossier susmentionné.
 
 1.2. Modifications
 
@@ -30,6 +40,18 @@ L'exploitant doit établir et tenir à jour un dossier comportant les documents 
 
 - les documents prévus aux points 3.5, 3.6, 4.3, 4.7, 4.8, 5.1, 7.4 du présent arrêté.
 
+Objet du contrôle :
+
+- présence du récépissé de déclaration ;
+
+- présence des prescriptions générales ;
+
+- présence des arrêtés préfectoraux relatifs à l'installation, s'il y en a ;
+
+- vérification de la quantité susceptible d'être présente dans l'installation au regard de la quantité déclarée ;
+
+- vérification que la quantité totale susceptible d'être présente dans l'installation est inférieure au palier supérieur du régime déclaratif tel que défini à l'annexe de l'article R. 511-9 du code de l'environnement (le non-respect de ce point relève d'une non-conformité majeure).
+
 1.5. Déclaration d'accident ou de pollution accidentelle
 
 L'exploitant d'une installation est tenu de déclarer dans les meilleurs délais à l'inspection des installations classées les accidents ou incidents survenus du fait du fonctionnement de cette installation qui sont de nature à porter atteinte aux intérêts mentionnés à l'article L. 511-1 du titre Ier du livre V du code de l'environnement (référence : article 38 du décret du 21 septembre 1977).
@@ -54,6 +76,10 @@ Non concerné
 
 L'installation doit être implantée à une distance d'au moins 10 mètres des limites de propriété. Cette distance n'est pas exigée si l'installation est séparée des limites de propriété par un mur plein sans ouverture, construit en matériaux incombustibles et de caractéristique coupe-feu de degré 2 heures, d'une hauteur de 3 mètres ou s'élevant jusqu'à la toiture (hauteur inférieure à 3 mètres) et ayant une disposition telle que la distance horizontale de contournement soit d'au moins 5 mètres.
 
+Objet du contrôle :
+
+- respect des distances d'éloignement (le non-respect de ce point relève d'une non-conformité majeure).
+
 L'installation ne doit pas être inondable et ne doit pas renfermer de canalisation d'eau ou de vapeur d'eau.
 
 Les locaux de stockage doivent être séparés des locaux de manipulation et d'emploi.
@@ -74,6 +100,10 @@ L'exploitant prend les dispositions nécessaires pour satisfaire à l'esthétiqu
 
 L'installation ne doit pas être surmontée de locaux occupés par des tiers ou habités.
 
+Objet du contrôle :
+
+- absence de locaux habités ou occupés par des tiers au-dessus ou au-dessous de l'installation (le non-respect de ce point relève d'une non-conformité majeure).
+
 2.4. Comportement au feu des bâtiments
 
 Les locaux abritant l'installation doivent présenter les caractéristiques de réaction et de résistance au feu minimales suivantes :
@@ -90,11 +120,27 @@ Les locaux abritant l'installation doivent présenter les caractéristiques de r
 
 Les locaux doivent être équipés en partie haute de dispositifs permettant l'évacuation des fumées et gaz de combustion dégagés en cas d'incendie (lanterneaux en toiture, ouvrants en façade ou tout autre dispositif équivalent). Les commandes d'ouverture manuelle sont placées à proximité des accès. Le système de désenfumage doit être adapté aux risques particuliers de l'installation.
 
+Objet du contrôle :
+
+- présence de portes intérieures munies d'un ferme-porte automatique ou d'un dispositif assurant leur fermeture automatique (le non-respect de ce point relève d'une non-conformité majeure) ;
+
+- présentation d'un justificatif de conformité des portes coupe-feu (le non-respect de ce point relève d'une non-conformité majeure) ;
+
+- présence de dispositifs d'évacuation des fumées (le non-respect de ce point relève d'une non-conformité majeure) ;
+
+- emplacement des commandes d'ouverture manuelle (le non-respect de ce point relève d'une non-conformité majeure).
+
 2.5. Accessibilité
 
 L'installation doit être accessible pour permettre l'intervention des services d'incendie et de secours. Elle doit être desservie, sur au moins une face, par une voie-engin ou par une voie-échelle si le plancher haut de cette installation est à une hauteur supérieure à 8 mètres par rapport à cette voie.
 
 En cas de local fermé, une des façades doit être équipée d'ouvrant permettant le passage de sauveteurs équipés.
+
+Objet du contrôle :
+
+- présence d'une voie-engin ou d'une voie-échelle gardée libre (le non-respect de ce point relève d'une non-conformité majeure) ;
+
+- en cas de local fermé, présence d'ouvrant sur une des façades (le non-respect de ce point relève d'une non-conformité majeure).
 
 2.6. Ventilation
 
@@ -114,6 +160,10 @@ Les équipements métalliques (réservoirs, cuves, canalisations, charpente) doi
 
 Le sol des locaux de stockage ou de manipulation des substances ou préparations réagissant violemment au contact de l'eau doit être étanche, incombustible et équipé de façon à pouvoir recueillir les produits répandus accidentellement ; pour cela un seuil surélevé par rapport au niveau du sol ou tout dispositif équivalent les sépare de l'extérieur ou d'autres aires ou locaux. Les produits recueillis sont de préférence récupérés et recyclés, ou en cas d'impossibilité traités conformément au point 5.7 et au titre 7.
 
+Objet du contrôle :
+
+- présence d'un seuil surélevé ou autre dispositif équivalent en rétention pour les locaux et aires de stockage ou de manipulation des produits (le non-respect de ce point relève d'une non-conformité majeure).
+
 2.10. Cuvettes de rétention
 
 Le stockage des substances ou préparations liquides réagissant violemment au contact de l'eau doit être associé à une capacité de rétention dont le volume doit être au moins égal à la plus grande des deux valeurs suivantes :
@@ -132,6 +182,20 @@ Des réservoirs ou récipients contenant des produits susceptibles de réagir da
 
 Cette disposition ne s'applique pas aux bassins de traitement des eaux résiduaires.
 
+Objet du contrôle :
+
+- présence du volume requis de rétention pour les récipients de capacité unitaire inférieure ou égale à 250 litres, admis au transport (le non-respect de ce point relève d'une non-conformité majeure) ;
+
+- présence du volume requis de rétention pour les stockages comprenant des substances ou préparations de liquides susceptibles de créer une pollution de l'eau ou du sol (le non-respect de ce point relève d'une non-conformité majeure) ;
+
+- présence des jauges de niveau sur les récipients fixes ;
+
+- présence de limiteurs de remplissage (contrôle visuel ou documentaire) pour les stockages enterrés (le non-respect de ce point relève d'une non-conformité majeure) ;
+
+- présence de fosses maçonnées ou assimilées (contrôle visuel ou documentaire) (le non-respect de ce point relève d'une non-conformité majeure) ;
+
+- le dispositif d'obturation de la capacité de rétention est maintenu fermé en condition normale (le non-respect de ce point relève d'une non-conformité majeure).
+
 2.11. Aménagement et organisation des stockages
 
 Les substances ou préparations réagissant violemment au contact de l'eau doivent être stockées dans des récipients hermétiquement fermés et adaptés aux caractéristiques du produit (en particulier au risque de corrosion sur les métaux).
@@ -147,6 +211,14 @@ Pour assurer une bonne ventilation, un espace libre d'au moins un mètre doit s�
 L'ouverture des récipients est interdite dans le dépôt. Toute utilisation des produits ou réparation des récipients doit s'effectuer en dehors des locaux de stockage.
 
 Afin d'éviter toute entrée d'eau accidentelle dans les récipients (fûts ou conteneurs), ceux-ci doivent être disposés de façon à ce que la partie contenante soit surélevée d'au moins 10 centimètres par rapport au niveau du sol adjacent.
+
+Objet du contrôle :
+
+- respect des conditions de stockage des récipients (le non-respect de ce point relève d'une non-conformité majeure) ;
+
+- absence d'eau et de canalisation d'eau ou de vapeur dans le local de stockage (le non-respect de ce point relève d'une non-conformité majeure) ;
+
+- présence d'un espace libre d'au moins 1 mètre entre le stockage des substances ou mélanges réagissant violemment au contact de l'eau et le plafond (le non-respect de ce point relève d'une non-conformité majeure).
 
 2.12. Stockage d'autre produit
 
@@ -180,11 +252,21 @@ Toute possibilité de débordement de réservoirs, de fûts métalliques ou cont
 
 Les personnes étrangères à l'établissement ne doivent pas avoir un accès libre aux installations.
 
+Objet du contrôle :
+
+- présence d'un dispositif interdisant l'accès à l'établissement à toute personne étrangère à l'installation.
+
 3.3. Connaissance des produits - Etiquetage
 
 L'exploitant doit avoir à sa disposition des documents lui permettant de connaître la nature et les risques des produits dangereux présents dans l'installation, en particulier les fiches de données de sécurité prévues par l'article R. 231-53 du code du travail.
 
 Les fûts, réservoirs et autres emballages doivent porter en caractères très lisibles le nom des produits et, s'il y a lieu, les symboles de danger, conformément à la réglementation relative à l'étiquetage des substances et préparations chimiques dangereuses.
+
+Objet du contrôle :
+
+- présentation des fiches de données de sécurité ;
+
+- présence et lisibilité des noms de produits et symboles de danger sur les fûts, réservoirs et emballages.
 
 3.4. Propreté
 
@@ -198,6 +280,10 @@ L'exploitant doit tenir à jour un état indiquant la nature et la quantité des
 
 La présence dans les ateliers de matières dangereuses ou combustibles doit être limitée aux nécessités de l'exploitation.
 
+Objet du contrôle :
+
+- présentation du registre tenu à jour.
+
 3.6. Vérification périodique des installations électriques
 
 Toutes les installations électriques doivent être entretenues en bon état et doivent être contrôlées, après leur installation ou leur modification par une personne compétente. La périodicité, l'objet et l'étendue des vérifications des installations électriques ainsi que le contenu des rapports relatifs aux dites vérifications sont fixés par l'arrêté du 20 décembre 1988 relatif à la réglementation du travail.
@@ -207,6 +293,10 @@ Toutes les installations électriques doivent être entretenues en bon état et 
 4.1. Protection individuelle
 
 Sans préjudice des dispositions du code du travail, des matériels de protection individuelle adaptés aux risques présentés par l'installation et permettant l'intervention en cas de sinistre doivent être conservés à proximité du dépôt et du lieu d'utilisation. Ces matériels doivent être entretenus en bon état et vérifiés périodiquement. Le personnel doit être formé à l'emploi de ces matériels.
+
+Objet du contrôle :
+
+- présentation des matériels (le non-respect de ce point relève d'une non-conformité majeure).
 
 4.2. Moyens de secours contre l'incendie
 
@@ -220,11 +310,25 @@ L'installation doit être dotée de moyens de secours contre l'incendie appropri
 
 Ces matériels doivent être maintenus en bon état et vérifiés au moins une fois par an.
 
+Objet du contrôle :
+
+- présence et implantation d'au moins d'un extincteur (le non-respect de ce point relève d'une non-conformité majeure) ;
+
+- présence d'un moyen d'alerte des services d'incendie et de secours (le non-respect de ce point relève d'une non-conformité majeure) ;
+
+- présentation d'un justificatif de contrôle annuel des équipements (le non-respect de ce point relève d'une non-conformité majeure).
+
 4.3. Localisation des risques
 
 L'exploitant recense, sous sa responsabilité, les parties de l'installation qui, en raison des caractéristiques qualitatives et quantitatives des matières mises en œuvre, stockées, utilisées ou produites, sont susceptibles d'être à l'origine d'un sinistre pouvant avoir des conséquences directes ou indirectes sur l'environnement, la sécurité publique ou le maintien en sécurité de l'installation.
 
 L'exploitant détermine pour chacune de ces parties de l'installation la nature du risque (incendie, atmosphères explosives ou émanations toxiques). Ce risque doit être signalé.
+
+Objet du contrôle :
+
+- présence d'un plan de l'atelier indiquant les différentes zones de danger ;
+
+- présence d'une signalisation des risques dans les zones de dangers, conforme aux indications du plan.
 
 4.4. Matériel électrique de sécurité
 
@@ -233,6 +337,10 @@ Dans les parties de l'installation visées au point 4.3 "atmosphères explosives
 4.5. Interdiction des feux
 
 Dans les parties de l'installation visées au point 4.3, présentant des risques d'incendie ou d'explosion, il est interdit d'apporter du feu sous une forme quelconque, sauf pour la réalisation de travaux ayant fait l'objet d'un "permis de feu". Cette interdiction doit être affichée en caractères apparents.
+
+Objet du contrôle :
+
+- affichage de l'interdiction.
 
 4.6. "Permis d'intervention" et/ou "permis de feu" dans les parties de l'installation visées au point 4.3
 
@@ -260,6 +368,10 @@ Sans préjudice des dispositions du code du travail, des consignes précisant le
 
 - une consigne particulière affichée à l'extérieur de l'installation, qui doit indiquer en caractères très apparents la nature du stockage - "Substances réagissant violemment au contact de l'eau" et "Interdiction d'utiliser de l'eau ou des produits à base d'eau pour combattre un éventuel incendie".
 
+Objet du contrôle :
+
+- présence et affichage de chacune des consignes.
+
 4.8. Consignes d'exploitation
 
 Les opérations comportant des manipulations dangereuses et la conduite des installations (démarrage et arrêt, fonctionnement normal, entretien...) doivent faire l'objet de consignes d'exploitation écrites. Ces consignes prévoient notamment :
@@ -274,11 +386,19 @@ Les opérations comportant des manipulations dangereuses et la conduite des inst
 
 - le maintien dans l'atelier de fabrication de la quantité de matières nécessaire au fonctionnement de l'installation.
 
+Objet du contrôle :
+
+- présentation des consignes.
+
 4.9. Détection de gaz
 
 Les locaux de stockage des substances ou préparations réagissant violemment au contact de l'eau doivent être équipés de détecteurs d'hydrogène.
 
 Des détecteurs de gaz sont mis en place dans les parties de l'installation visées au point 4.3. présentant des risques en cas de dégagement ou d'accumulation importante de gaz ou de vapeurs toxiques. Ces zones sont équipées de systèmes de détection dont les niveaux de sensibilité sont adaptés aux produits visés et à leur mode d'utilisation.
+
+Objet du contrôle :
+
+- présence des détecteurs de gaz (le non-respect de ce point relève d'une non-conformité majeure).
 
 4.10. Stockage et manipulation
 
@@ -308,13 +428,17 @@ Le réseau de collecte doit être de type séparatif permettant d'isoler les eau
 
 Les points de rejet des eaux résiduaires doivent être en nombre aussi réduit que possible, et aménagés pour permettre un prélèvement aisé d'échantillons et l'installation d'un dispositif de mesure du débit.
 
+Objet du contrôle :
+
+- présence d'un réseau de collecte de type séparatif.
+
 5.4. Mesure des volumes rejetés
 
 La quantité d'eau rejetée doit être mesurée journellement ou, à défaut, évaluée à partir de la mesure des quantités d'eau prélevées dans le réseau de distribution publique ou dans le milieu naturel.
 
 5.5. Valeurs limites de rejet
 
-Sans préjudice des autorisation de déversement dans le réseau public (art. L. 35.8 du code de la santé publique), les rejets d'eaux résiduaires doivent faire l'objet en tant que de besoin d'un traitement permettant de respecter les valeurs limites suivantes, contrôlées, sauf stipulation contraire de la norme, sur effluent brut non décanté et non filtré, sans dilution préalable ou mélange avec d'autres effluents :
+Sans préjudice des autorisations de déversement dans le réseau public (art. L. 35.8 du code de la santé publique), les rejets d'eaux résiduaires doivent faire l'objet en tant que de besoin d'un traitement permettant de respecter les valeurs limites suivantes, contrôlées, sauf stipulation contraire de la norme, sur effluent brut non décanté et non filtré, sans dilution préalable ou mélange avec d'autres effluents :
 
 a) Dans tous les cas, avant rejet au milieu naturel ou dans un réseau d'assainissement collectif :
 
@@ -432,6 +556,10 @@ Les seuls modes d'élimination autorisés pour les déchets d'emballage sont la 
 
 Les déchets industriels spéciaux doivent être éliminés dans des installations autorisées à recevoir ces déchets. L'exploitant doit être en mesure d'en justifier l'élimination ; les documents justificatifs doivent être conservés 3 ans.
 
+Objet du contrôle :
+
+- présence du justificatif d'élimination des déchets.
+
 7.5. Brûlage
 
 Le brûlage des déchets à l'air libre est interdit.
@@ -534,4 +662,4 @@ En fin d'exploitation, tous les produits et éléments d'exploitation présents 
 
 Les cuves ayant contenu des produits susceptibles de polluer les eaux doivent être vidées, nettoyées, dégazées et le cas échéant décontaminées. Elles sont si possible enlevées, sinon et dans le cas spécifique des cuves enterrées, elles doivent être rendues inutilisables par remplissage avec un matériau solide inerte.
 
-(*) Un modèle a été constitué pour la rédaction des arrêtés de prescriptions générales applicables aux installations soumises à déclaration. Certaines dispositions de ce modèle, qui ne se justifient pas pour les installations visées par la rubrique n° 1810, ont été supprimées. Néanmoins, la numérotation a été conservée pour permettre une homogénéité entre les arrêtés de prescriptions générales de toutes les rubriques de la nomenclature.
+(*) Un modèle a été constitué pour la rédaction des arrêtés de prescriptions générales applicables aux installations soumises à déclaration. Certaines dispositions de ce modèle, qui ne se justifient pas pour les installations visées par le présent arrêté ont été supprimées. Néanmoins, la numérotation a été conservée pour permettre une homogénéité entre les arrêtés de prescriptions générales de toutes les rubriques de la nomenclature.

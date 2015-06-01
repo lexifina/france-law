@@ -1,12 +1,24 @@
 # Article Annexe I
 
-Prescriptions générales applicables aux installations classées pour la protection de l'environnement soumises à déclaration sous la rubrique n° 1140 (Emploi ou stockage de formaldéhyde de concentration supérieure ou égale à 90 %)
+Prescriptions générales applicables aux installations classées pour la protection de l'environnement soumises à déclaration sous la rubrique n° 4714
 
 1. Dispositions générales
 
-1.1. Conformité de l'installation à la déclaration
+1.1. Conformité de l'installation.
+
+1.1.1. Conformité de l'installation à la déclaration.
 
 L'installation est implantée, réalisée et exploitée conformément aux plans et autres documents joints à la déclaration, sous réserve du respect des prescriptions ci-dessous.
+
+1.1.2. Contrôle périodique.
+
+L'installation est soumise à des contrôles périodiques par des organismes agréés dans les conditions définies par les articles R. 512-55 à R. 512-60 du code de l'environnement.
+
+Ces contrôles ont pour objet de vérifier la conformité de l'installation aux prescriptions repérées dans la présente annexe par le terme : " Objet du contrôle ", éventuellement modifiées par arrêté préfectoral, lorsqu'elles lui sont applicables.
+
+Les prescriptions dont le non-respect constitue une non-conformité majeure entraînant l'information du préfet dans les conditions prévues à l'article R. 512-59-1 sont repérées dans la présente annexe par la mention : " le non-respect de ce point relève d'une non-conformité majeure ". Le contenu de ces contrôles est précisé à la fin de chaque point de la présente annexe après la mention : " Objet du contrôle ".
+
+L'exploitant conserve le rapport de visite que l'organisme agréé lui adresse dans le dossier installations classées prévu au point 1.4. Si le rapport fait apparaître des non-conformités aux dispositions faisant l'objet du contrôle, l'exploitant met en œuvre les actions correctives nécessaires pour y remédier. Ces actions ainsi que leurs dates de mise en œuvre sont formalisées et conservées dans le dossier susmentionné.
 
 1.2. Modifications
 
@@ -32,11 +44,23 @@ L'exploitant établit et tient à jour un dossier comportant les documents suiva
 
 -les rapports des visites ;
 
--les documents prévus aux points 3.3, 3.5, 3.6, 4.1, 4.3, 4.7, 4.9, 5.1, 5.9, 6.3, 7.5 du présent arrêté ;
+-les documents prévus aux points 3.3,3.5,3.6,4.1,4.3,4.7,4.9,5.1,5.9,6.3,7.5 du présent arrêté ;
 
 -le dossier rassemblant des éléments relatifs au risque (notamment les caractéristiques physiques, chimiques et toxicologiques du formaldéhyde stocké ou utilisé, incompatibilités entre les produits et matériaux utilisés dans l'installation).
 
 Ce dossier est tenu à la disposition de l'inspection des installations classées.
+
+Objet du contrôle :
+
+-présence du récépissé de déclaration ;
+
+-présence des prescriptions générales ;
+
+-présence des arrêtés préfectoraux relatifs à l'installation, s'il y en a ;
+
+-vérification de la quantité susceptible d'être présente dans l'installation au regard de la quantité déclarée ;
+
+-vérification que la quantité totale susceptible d'être présente dans l'installation est inférieure au palier supérieur du régime déclaratif tel que défini à l'annexe de l'article R. 511-9 du code de l'environnement (le non-respect de ce point relève d'une non-conformité majeure).
 
 1.5. Déclaration d'accident ou de pollution accidentelle
 
@@ -64,6 +88,10 @@ Les solutions aqueuses de formaldéhyde de concentration supérieure ou égale �
 
 Le formaldéhyde est maintenu à l'abri de la lumière et de l'humidité ainsi qu'à l'écart de toute source d'ignition, de matières inflammables, d'oxydants et de bases.
 
+Objet du contrôle :
+
+-respect des distances d'éloignement (le non-respect de ce point relève d'une non-conformité majeure).
+
 2.2. Intégration dans le paysage
 
 L'exploitant prend les dispositions nécessaires pour satisfaire à l'esthétique du site. L'ensemble du site est maintenu en bon état de propreté (peinture, plantations, engazonnement...).
@@ -71,6 +99,10 @@ L'exploitant prend les dispositions nécessaires pour satisfaire à l'esthétiqu
 2.3. Interdiction de locaux habités ou occupés par des tiers ou habités au-dessus et au-dessous de l'installation
 
 L'installation ne surmonte pas ni n'est surmontée de locaux habités ou occupés par des tiers.
+
+Objet du contrôle :
+
+-absence de locaux habités ou occupés par des tiers au-dessus ou au-dessous de l'installation (le non-respect de ce point relève d'une non-conformité majeure).
 
 2.4. Comportement au feu des bâtiments
 
@@ -88,6 +120,10 @@ Les locaux dans lesquels le formaldéhyde est stocké ou employé présentent le
 
 -portes et fermetures résistantes au feu (y compris celles comportant des vitrages et des quincailleries) et leurs dispositifs de fermeture EI 120 (coupe-feu de degré 2 heures).
 
+Objet du contrôle :
+
+-présentation d'un justificatif de conformité des portes résistantes au feu (le non-respect de ce point relève d'une non-conformité majeure).
+
 2.4.3. Toitures et couvertures de toiture
 
 Les toitures et couvertures de toiture répondent à la classe BROOF (t 3).
@@ -98,9 +134,9 @@ Les locaux dans lesquels le formaldéhyde est stocké ou employé sont équipés
 
 Ces dispositifs sont à commandes automatique et manuelle. Leur surface utile d'ouverture n'est pas inférieure à :
 
--2 % si la superficie à désenfumer est comprise entre 1 000 et 1 600 m2 ;
+-2 % si la superficie à désenfumer est comprise entre 1 000 et 1 600 m 2 ;
 
--à déterminer selon la nature des risques si la superficie à désenfumer est supérieure à 1 600 m2 sans pouvoir être inférieure à 2 % de la superficie des locaux.
+-à déterminer selon la nature des risques si la superficie à désenfumer est supérieure à 1 600 m 2 sans pouvoir être inférieure à 2 % de la superficie des locaux.
 
 En exploitation normale, le réarmement (fermeture) est possible depuis le sol du local.
 
@@ -112,11 +148,17 @@ Tous les dispositifs installés après le 31 décembre 2006, date de la fin de l
 
 -fiabilité : classe RE 300 (300 cycles de mise en sécurité). Les exutoires bifonctions sont soumis à 10 000 cycles d'ouverture en position d'aération ;
 
--la classification de la surcharge neige à l'ouverture est SL 250 (25 daN/ m2) pour des altitudes inférieures ou égales à 400 m et SL 500 (50 daN/ m2) pour des altitudes supérieures à 400 m et inférieures ou égales à 800 m. La classe SL 0 est utilisable si la région d'implantation n'est pas susceptible d'être enneigée ou si des dispositions constructives empêchent l'accumulation de la neige. Au-dessus de 800 m, les exutoires sont de la classe SL 500 et installés avec des dispositions constructives empêchant l'accumulation de la neige ;
+-la classification de la surcharge neige à l'ouverture est SL 250 (25 daN/ m2) pour des altitudes inférieures ou égales à 400 m et SL 500 (50 daN/ m 2) pour des altitudes supérieures à 400 m et inférieures ou égales à 800 m. La classe SL 0 est utilisable si la région d'implantation n'est pas susceptible d'être enneigée ou si des dispositions constructives empêchent l'accumulation de la neige. Au-dessus de 800 m, les exutoires sont de la classe SL 500 et installés avec des dispositions constructives empêchant l'accumulation de la neige ;
 
 -classe de température ambiante T0 (0° C) ;
 
 -classe d'exposition à la chaleur HE 300 (300° C).
+
+Objet du contrôle :
+
+-présence de dispositifs d'évacuation des fumées et gaz de combustion (le non-respect de ce point relève d'une non-conformité majeure) ;
+
+-emplacement des commandes d'ouverture manuelle à proximité des accès (le non-respect de ce point relève d'une non-conformité majeure).
 
 2.5. Accessibilité
 
@@ -124,9 +166,15 @@ L'installation est accessible pour permettre l'intervention des services d'incen
 
 Les façades équipées d'une voie échelle sont pourvues d'ouvrants permettant le passage aux étages de secouristes équipés d'ARI (appareils respiratoires isolants).
 
+Objet du contrôle :
+
+-présence d'une voie-engins ou d'une voie-échelle gardée libre (le non-respect de ce point relève d'une non-conformité majeure) ;
+
+-présence d'ouvrant sur les façades équipées d'une voie échelle (le non-respect de ce point relève d'une non-conformité majeure).
+
 2.6. Ventilation
 
-Sans préjudice des dispositions du code du travail, les locaux dans lesquels sont fabriqués, employés ou stockés le formaldéhyde sont convenablement ventilés, en phase normale d'exploitation, pour éviter tout risque d'atmosphère explosive et/ ou toxique et en respectant les valeurs limites de rejet ( art. 6.2).
+Sans préjudice des dispositions du code du travail, les locaux dans lesquels sont fabriqués, employés ou stockés le formaldéhyde sont convenablement ventilés, en phase normale d'exploitation, pour éviter tout risque d'atmosphère explosive et/ ou toxique et en respectant les valeurs limites de rejet (art. 6.2).
 
 Le débouché à l'atmosphère de la ventilation est placé aussi loin que possible des immeubles habités ou occupés par des tiers et des bouches d'aspiration d'air extérieur. Il surplombe au minimum de 3 mètres les bâtiments environnants afin de favoriser la dispersion des gaz rejetés.
 
@@ -144,6 +192,10 @@ Les équipements métalliques (réservoirs, cuves, canalisations) sont mis à la
 
 Le sol des aires et des locaux de stockage ou de manipulation des matières dangereuses pour l'homme ou susceptibles de créer une pollution de l'eau ou du sol est étanche et équipé de façon à pouvoir recueillir les eaux de lavage et les matières répandues accidentellement. Pour cela, un seuil surélevé par rapport au niveau du sol ou tout dispositif équivalent les sépare de l'extérieur ou d'autres aires ou locaux. Les matières recueillies sont de préférence récupérées et recyclées, ou en cas d'impossibilité, traitées conformément au point 5.5 et à la partie 7.
 
+Objet du contrôle :
+
+-présence d'un seuil surélevé ou autre dispositif équivalent en rétention pour les locaux et aires de stockage ou de manipulation des produits (le non-respect de ce point relève d'une non-conformité majeure).
+
 2.10. Cuvettes de rétention
 
 Tout stockage de produits liquides susceptibles de créer une pollution de l'eau ou du sol est associé à une capacité de rétention dont le volume est au moins égal à la plus grande des deux valeurs suivantes :
@@ -154,7 +206,7 @@ Tout stockage de produits liquides susceptibles de créer une pollution de l'eau
 
 La capacité de rétention est étanche aux produits qu'elle pourrait contenir et résiste à l'action physique et chimique des fluides. Il en est de même pour son dispositif d'obturation qui est maintenu fermé.
 
-Lorsque le stockage est constitué exclusivement de récipients de capacité unitaire inférieure ou égale à 250 litres, admis au transport, le volume minimal de la rétention est égal soit à la capacité totale des récipients si cette capacité est inférieure à 800 litres, soit à 20 % de la capacité totale ou 50 % dans le cas de liquides inflammables (à l'exception des lubrifiants) avec un minimum de 800 litres si cette capacité excède 800 litres. La capacité de rétention est étanche aux produits qu'elle pourrait contenir et résister à l'action physique et chimique des fluides.
+Lorsque le stockage est constitué exclusivement de récipients de capacité unitaire inférieure ou égale à 250 litres, admis au transport, le volume minimal de la rétention est égal soit à la capacité totale des récipients si cette capacité est inférieure à 800 litres, soit à 20 % de la capacité totale ou 50 % dans le cas de liquides inflammables ou de liquides combustibles de point éclair compris entre 60° C et 93° C (à l'exception des lubrifiants) avec un minimum de 800 litres si cette capacité excède 800 litres. La capacité de rétention est étanche aux produits qu'elle pourrait contenir et résister à l'action physique et chimique des fluides.
 
 Il en est de même pour le dispositif d'obturation qui est maintenu fermé en conditions normales.
 
@@ -163,6 +215,14 @@ Des réservoirs ou récipients contenant des produits susceptibles de réagir da
 Cette disposition ne s'applique pas aux bassins de traitement des eaux résiduaires.
 
 Les produits récupérés en cas d'accident ne peuvent être rejetés que dans des conditions conformes au présent arrêté ou sont éliminés comme déchets.
+
+Objet du contrôle :
+
+-présence du volume requis de rétention pour les récipients de capacité unitaire inférieure ou égale à 250 litres, admis au transport (le non-respect de ce point relève d'une non-conformité majeure) ;
+
+-présence du volume requis de rétention pour les stockages comprenant des substances ou mélanges de liquides susceptibles de créer une pollution de l'eau ou du sol (le non-respect de ce point relève d'une non-conformité majeure) ;
+
+-le dispositif d'obturation de la capacité de rétention est maintenu fermé en condition normale (le non-respect de ce point relève d'une non-conformité majeure).
 
 2.11. Isolement du réseau de collecte
 
@@ -174,7 +234,7 @@ La hauteur maximale d'un stockage de substances ou préparations sous forme liqu
 
 Les récipients contenant des gaz ou gaz liquéfiés sont placés dans des locaux séparés des autres substances ou préparations solides ou liquides et répondant aux caractéristiques du point 2.4.
 
-Dans tous les cas, les substances ou préparations inflammables au sens de l'arrêté ministériel du 20 avril 1994 sont situées sur une aire ou dans une cellule spécifique répondant aux caractéristiques du point 2.4.
+Dans tous les cas, les substances ou mélanges inflammables au sens du règlement CLP n° 1272/2008 du 16 décembre 2008 modifié sont situés sur une aire ou dans une cellule spécifique répondant aux caractéristiques du point 2.4.
 
 Dans le cas des substances ou préparations liquides, les fûts, tonnelets ou bidons contenant des substances ou préparations sont stockés verticalement sur des palettes.
 
@@ -186,6 +246,18 @@ Les stockages sont aménagés et organisés en fonction des risques présentés 
 
 Les conditions de stockage permettent de maintenir les substances ou préparations à l'abri de la lumière, de l'humidité, de la chaleur, et de toute source d'inflammation. Le sol, les murs des ateliers et des locaux de stockage sont lisses et faciles à nettoyer.
 
+Objet du contrôle :
+
+-respect des hauteurs maximales de stockage (le non-respect de ce point relève d'une non-conformité majeure) ;
+
+-les récipients contenant des gaz ou gaz liquéfiés sont placés dans des locaux séparés (le non-respect de ce point relève d'une non-conformité majeure) ;
+
+-présence d'un espace libre d'au moins 1 mètre entre le stockage des substances ou préparations et le plafond (le non-respect de ce point relève d'une non-conformité majeure) ;
+
+-présence des jauges de niveau sur les récipients fixes ;
+
+-pour les stockages enterrés, présence de limiteurs de remplissage (le non-respect de ce point relève d'une non-conformité majeure).
+
 3. Exploitation-Entretien
 
 3.1. Surveillance de l'exploitation
@@ -196,11 +268,21 @@ L'exploitation se fait sous la surveillance, directe ou indirecte, d'une personn
 
 Les personnes étrangères à l'établissement n'ont pas d'accès libre aux installations. De plus, en l'absence de personnel d'exploitation, cet accès est interdit aux personnes non autorisées.
 
+Objet du contrôle :
+
+-présence d'un dispositif interdisant l'accès à l'établissement à toute personne étrangère à l'installation.
+
 3.3. Connaissance des produits-Etiquetage
 
 Sans préjudice des dispositions du code du travail, l'exploitant dispose des documents lui permettant de connaître la nature et les risques des produits dangereux présents dans l'installation, en particulier les fiches de données de sécurité.
 
 Les fûts, réservoirs et autres emballages portent en caractères très lisibles le nom des produits et, s'il y a lieu, les symboles de danger conformément à la réglementation relative à l'étiquetage des substances et préparations chimiques dangereuses.
+
+Objet du contrôle :
+
+-présentation des fiches de données de sécurité ;
+
+-présence et lisibilité des noms de produits et symboles de danger sur les fûts, réservoirs et emballages.
 
 3.4. Propreté
 
@@ -211,6 +293,10 @@ Les locaux sont maintenus propres et régulièrement nettoyés notamment de mani
 L'exploitant tient à jour un état indiquant la nature et la quantité des produits dangereux détenus, auquel est annexé un plan général des stockages. Cet état est tenu à la disposition de l'inspection des installations classées et des services d'incendie et de secours.
 
 La présence de matières dangereuses ou combustibles dans les ateliers est limitée aux nécessités de l'exploitation.
+
+Objet du contrôle :
+
+-présentation de l'état des stocks tenu à jour.
 
 3.6. Vérification périodique des installations électriques
 
@@ -234,6 +320,10 @@ Ces consignes prévoient notamment :
 
 -la fréquence de contrôle de l'étanchéité et de l'attachement des réservoirs et de vérification des dispositifs de rétention.
 
+Objet du contrôle :
+
+-présentation des consignes.
+
 4. Risques
 
 4.1. Localisation des risques
@@ -244,11 +334,21 @@ L'exploitant détermine pour chacune de ces parties de l'installation la nature 
 
 L'exploitant dispose d'un plan général des ateliers et des stockages indiquant l'emplacement de ces différentes zones.
 
+Objet du contrôle :
+
+-présence d'un plan de l'atelier indiquant les différentes zones de danger ;
+
+-présence d'une signalisation des risques dans les zones de dangers, conforme aux indications du plan.
+
 4.2. Protection individuelle
 
 Sans préjudice des dispositions du code du travail, des matériels de protection individuelle, adaptés aux risques présentés par l'installation et permettant l'intervention en cas de sinistre, sont conservés à proximité de l'installation et du lieu d'utilisation. Ces matériels sont facilement accessibles, entretenus en bon état et vérifiés périodiquement.
 
 Le personnel est formé à l'emploi de ces matériels.
+
+Objet du contrôle :
+
+-présentation des matériels (le non-respect de ce point relève d'une non-conformité majeure).
 
 4.3. Moyens de prévention et de lutte
 
@@ -258,7 +358,11 @@ Des détecteurs de gaz ou vapeurs sont mis en place dans les parties de l'instal
 
 Ces détecteurs sont maintenus en bon état et vérifiés au moins une fois par an.
 
-Une consigne décrit les actions correctives à mettre en oeuvre en cas de déclenchement de la détection.
+Une consigne décrit les actions correctives à mettre en œuvre en cas de déclenchement de la détection.
+
+Objet du contrôle :
+
+-présence des détecteurs de gaz (le non-respect de ce point relève d'une non-conformité majeure).
 
 4.3.2. Moyens de lutte contre l'incendie
 
@@ -278,6 +382,18 @@ En particulier, pour prévenir le risque de décomposition thermique, d'inflamma
 
 Ces matériels sont maintenus en bon état et vérifiés au moins une fois par an.
 
+Objet du contrôle :
+
+-présence et implantation d'au moins un appareil d'incendie (bouches, poteaux...) ou de points d'eau, bassins, citernes, etc. d'une capacité en rapport avec le danger à combattre (le non-respect de ce point relève d'une non-conformité majeure) ;
+
+-présence et implantation d'au moins un extincteur (le non-respect de ce point relève d'une non-conformité majeure) ;
+
+-présence d'une réserve de produits absorbants ou neutralisants pour les stockages de liquide ;
+
+-présence d'un moyen d'alerte des services d'incendie et de secours (le non-respect de ce point relève d'une non-conformité majeure) ;
+
+-présentation d'un justificatif de contrôle annuel des équipements (le non-respect de ce point relève d'une non-conformité majeure).
+
 4.3.3. Neutralisation-Décontamination
 
 Des produits absorbants ou neutralisants et, le cas échéant, des solutions de décontamination adaptées aux substances ou préparations visées par cet arrêté sont mis à disposition.
@@ -295,6 +411,10 @@ Les gainages électriques et autres canalisations ne sont pas une cause possible
 Dans les parties de l'installation visées au point 4.1 présentant des risques d'incendie ou d'explosion, il est interdit d'apporter du feu sous une forme quelconque, sauf pour la réalisation de travaux ayant fait l'objet d'un " permis de feu ". Cette interdiction est affichée en caractères apparents.
 
 Dans les parties de l'installation visées au point 4.1, des méthodes indirectes et sûres telles que le chauffage à eau chaude, à la vapeur, ou à air chaud dont la source se situera en dehors de l'aire de stockage, de manipulation ou d'emploi sont utilisées. L'utilisation de convecteurs électriques, de poêles, de réchauds ou d'appareils de chauffage à flamme nue est à proscrire.
+
+Objet du contrôle :
+
+-affichage de l'interdiction.
 
 4.6. " Permis d'intervention/ permis de feu " dans les parties de l'installation visées au point 4.1
 
@@ -332,6 +452,10 @@ Ces consignes indiquent notamment :
 
 Le personnel reçoit une formation portant sur les risques présentés par l'installation, ainsi que sur les moyens mis en œuvre pour les éviter. Il connaît les procédures à suivre en cas d'urgence et procède à des exercices d'entraînement au moins une fois par an.
 
+Objet du contrôle :
+
+-présence et affichage de chacune des consignes.
+
 4.8. Stockage-Conditionnement
 
 Dans les locaux de stockage ou durant le transport, les produits sont rangés de manière à être isolés des produits avec lesquels ils sont incompatibles et des produits ou matériaux combustibles ainsi que des produits destinés à l'alimentation humaine ou animale.
@@ -343,6 +467,14 @@ Dans le cas des substances ou préparations gazeuses ou gazeuses liquéfiées, t
 Les fûts vides et contaminés sont régulièrement enlevés et a minima une fois par an.
 
 Des moyens de protection contre le risque d'élévation de pression dans les réservoirs de stockage tels que soupapes ou évents sont à mis en œuvre.
+
+Objet du contrôle :
+
+-stockage vertical ;
+
+-mise en place d'un dispositif anti-chute pour les substances ou mélanges gazeux ou gazeux liquéfiés (le non-respect de ce point relève d'une non-conformité majeure) ;
+
+-présence d'un chapeau de protection et d'un bouchon vissé sur le raccord de sortie (le non-respect de ce point relève d'une non-conformité majeure).
 
 4.9. Emploi
 
@@ -384,13 +516,17 @@ L'usage du réseau d'eau incendie est strictement réservé aux sinistres et aux
 
 Toutes les dispositions sont prises pour limiter la consommation d'eau.
 
-Les circuits de refroidissement ouverts sont interdits au-delà d'un débit de 10 m3/ j.
+Les circuits de refroidissement ouverts sont interdits au-delà d'un débit de 10 m 3/ j.
 
 5.3. Réseau de collecte
 
 Le réseau de collecte est de type séparatif permettant d'isoler les eaux résiduaires polluées des eaux pluviales non susceptibles d'être polluées. Les points de rejet des eaux résiduaires sont en nombre aussi réduit que possible.
 
 Ils sont aménagés pour permettre un prélèvement aisé d'échantillons et l'installation d'un dispositif de mesure du débit.
+
+Objet du contrôle :
+
+-présence d'un réseau de collecte de type séparatif.
 
 5.4. Mesure des volumes rejetés
 
@@ -456,9 +592,9 @@ L'épandage des déchets, effluents et sous-produits est interdit.
 
 5.9. Surveillance par l'exploitant de la pollution rejetée
 
-L'exploitant met en place un programme de surveillance des caractéristiques soit des émissions des polluants représentatifs parmi ceux visés au point 5.5, soit de paramètres représentatifs de ces derniers, lui permettant d'intervenir dès que les limites d'émissions sont ou risquent d'être dépassées.
+L'exploitant met en place un programme de surveillance des caractéristiques soit des émissions des polluants représentatifs parmi ceux visés DEVP0770150A, soit de paramètres représentatifs de ces derniers, lui permettant d'intervenir dès que les limites d'émissions sont ou risquent d'être dépassées.
 
-Une mesure des concentrations des différents polluants visés au point 5.5 est effectuée au moins tous les 3 ans par un organisme agréé par le ministre chargé de l'environnement. Ces mesures sont effectuées sur un échantillon représentatif du fonctionnement sur une journée de l'installation et constitué, soit par un prélèvement continu d'une demi-heure, soit par au moins deux prélèvements instantanés espacés d'une demi-heure. En cas d'impossibilité d'obtenir un tel échantillon, une évaluation des capacités des équipements d'épuration à respecter les valeurs limites est réalisée. Une mesure du débit est également réalisée ou estimée à partir des consommations, si celui-ci est supérieur à 10 m3/ j.
+Une mesure des concentrations des différents polluants visés au point 5.5 est effectuée au moins tous les 3 ans par un organisme agréé par le ministre chargé de l'environnement. Ces mesures sont effectuées sur un échantillon représentatif du fonctionnement sur une journée de l'installation et constitué, soit par un prélèvement continu d'une demi-heure, soit par au moins deux prélèvements instantanés espacés d'une demi-heure. En cas d'impossibilité d'obtenir un tel échantillon, une évaluation des capacités des équipements d'épuration à respecter les valeurs limites est réalisée. Une mesure du débit est également réalisée ou estimée à partir des consommations, si celui-ci est supérieur à 10 m 3/ j.
 
 Les polluants visés au point 5.5, qui ne sont pas susceptibles d'être émis par l'installation, ne font pas l'objet des mesures périodiques prévues au présent point. Dans ce cas, l'exploitant tient à la disposition de l'inspection des installations classées les éléments techniques permettant d'attester l'absence d'émission de ces produits par l'installation.
 
@@ -486,7 +622,7 @@ Les effluents gazeux respectent les valeurs limites définies ci-après, exprim�
 
 Les valeurs limites d'émission exprimées en concentration se rapportent à une quantité d'effluents gazeux n'ayant pas subi de dilution autre que celle éventuellement nécessitée par les procédés utilisés. Pour les métaux, les valeurs limites s'appliquent à la masse totale d'une substance émise, y compris la part sous forme de gaz ou de vapeur contenue dans les effluents gazeux.
 
-La valeur limite de rejet dans l'air du formaldéhyde est fixée à 1 ppm soit 1,22 mg/ m3. Les points de rejet sont canalisés et dépassent d'au moins 3 mètres les toits des bâtiments situés dans un rayon de 15 mètres.
+La valeur limite de rejet dans l'air du formaldéhyde est fixée à 1 ppm soit 1,22 mg/ m 3. Les points de rejet sont canalisés et dépassent d'au moins 3 mètres les toits des bâtiments situés dans un rayon de 15 mètres.
 
 a) Poussières [⁎].
 
@@ -496,7 +632,7 @@ b. 1. Définitions
 
 On entend par :
 
--" composé organique volatil " (COV), tout composé organique, à l'exclusion du méthane, ayant une pression de vapeur de 0,01 kPa ou plus à une température de 293,15 okelvins ou ayant une volatilité correspondante dans des conditions d'utilisation particulières ;
+-" composé organique volatil " (COV), tout composé organique, à l'exclusion du méthane, ayant une pression de vapeur de 0,01 kPa ou plus à une température de 293,15° kelvins ou ayant une volatilité correspondante dans des conditions d'utilisation particulières ;
 
 -" solvant organique ", tout COV utilisé seul ou en association avec d'autres agents, sans subir de modification chimique, pour dissoudre des matières premières, des produits ou des déchets, ou utilisé comme solvants de nettoyage pour dissoudre des salissures, ou comme dissolvant, dispersant, correcteur de viscosité, correcteur de tension superficielle, plastifiant ou agent protecteur ;
 
@@ -514,15 +650,15 @@ Des dérogations aux valeurs limites d'émission diffuses de COV mentionnées ci
 
 I. Cas général (pour les activités non visées par la directive n° 99/13/ CE du 11 mars 1999, qu'il conviendra que chacun distingue)
 
-Si le flux horaire total de COV dépasse 2 kg/ h, la valeur limite exprimée en carbone total de la concentration globale de l'ensemble des composés est de 110 mg/ m3. En outre, si la consommation annuelle de solvants est supérieure à 5 tonnes par an, le flux annuel des émissions diffuses ne dépasse pas 25 % de la quantité de solvants utilisée.
+Si le flux horaire total de COV dépasse 2 kg/ h, la valeur limite exprimée en carbone total de la concentration globale de l'ensemble des composés est de 110 mg/ m 3. En outre, si la consommation annuelle de solvants est supérieure à 5 tonnes par an, le flux annuel des émissions diffuses ne dépasse pas 25 % de la quantité de solvants utilisée.
 
 II. [⁎].
 
 III. Valeurs limites d'émission en COV, NOx, CO et CH4 en cas d'utilisation d'une technique d'épuration des émissions canalisées par oxydation thermique.
 
-Dans le cas de l'utilisation d'une technique d'oxydation pour l'élimination COV, la valeur limite d'émission en COV exprimée en carbone total est de 20 mg par m3 ou 50 mg par m3 si le rendement d'épuration est supérieur à 98 %. La teneur en oxygène de référence pour la vérification de la conformité aux valeurs limites d'émission est celle mesurée dans les effluents en sortie d'équipement d'oxydation. En outre, l'exploitant s'assurera du respect des valeurs limites d'émission définies ci-dessous pour les oxydes d'azote (NOx), le monoxyde de carbone (CO) et le méthane (CH4) :
+Dans le cas de l'utilisation d'une technique d'oxydation pour l'élimination COV, la valeur limite d'émission en COV exprimée en carbone total est de 20 mg par m 3 ou 50 mg par m 3 si le rendement d'épuration est supérieur à 98 %. La teneur en oxygène de référence pour la vérification de la conformité aux valeurs limites d'émission est celle mesurée dans les effluents en sortie d'équipement d'oxydation. En outre, l'exploitant s'assurera du respect des valeurs limites d'émission définies ci-dessous pour les oxydes d'azote (NOx), le monoxyde de carbone (CO) et le méthane (CH4) :
 
--NOx (en équivalent NO2) : 100 mg par m3 ;
+-NOx (en équivalent NO2) : 100 mg par m 3 ;
 
 -CH4 : 50 mg par m3 ;
 
@@ -530,7 +666,7 @@ Dans le cas de l'utilisation d'une technique d'oxydation pour l'élimination COV
 
 IV. Composés organiques volatils à phrase de risque
 
-Si le flux horaire total des composés organiques listés ci-dessous dépasse 0,1 kg/ h, la valeur limite d'émission de la concentration globale de l'ensemble de ces composés est de 20 mg/ m3 :
+Si le flux horaire total des composés organiques listés ci-dessous dépasse 0,1 kg/ h, la valeur limite d'émission de la concentration globale de l'ensemble de ces composés est de 20 mg/ m 3 :
 
 -acide acrylique ;
 
@@ -558,15 +694,15 @@ Si le flux horaire total des composés organiques listés ci-dessous dépasse 0,
 
 -xylénol.
 
-En cas de mélange de composés à la fois visés et non visés dans cette liste, la valeur limite de 20 mg/ m3 ne s'impose qu'aux composés visés dans cette liste et une valeur de 110 mg/ m3, exprimée en carbone total, s'impose à l'ensemble des composés.
+En cas de mélange de composés à la fois visés et non visés dans cette liste, la valeur limite de 20 mg/ m 3 ne s'impose qu'aux composés visés dans cette liste et une valeur de 110 mg/ m 3, exprimée en carbone total, s'impose à l'ensemble des composés.
 
 " V. Valeurs limites d'émission en COV en cas d'utilisation de substances de mentions de danger H340, H350, H350i, H360D ou H360F ou à phrases de risque R45, R46, R49, R60 ou R61 et substances halogénées de mention de danger H341 ou étiquetées R40, telles que définies dans l'arrêté du 20 avril 1994 :
 
 Les substances ou mélanges auxquels sont attribuées, ou sur lesquels doivent être apposées, les mentions de danger H340, H350, H350i, H360D ou H360F ou les phrases de risque R45, R46, R49, R60 ou R61 en raison de leur teneur en COV, classés cancérigènes, mutagènes ou toxiques pour la reproduction, sont remplacés, autant que possible, par des substances ou des mélanges moins nocifs, et ce dans les meilleurs délais possibles.
 
-Si ce remplacement n'est pas techniquement et économiquement possible, la valeur limite d'émission de 2 mg/ m3 en COV est imposée si le flux horaire maximal de l'ensemble de l'installation est supérieur ou égal à 10 g/ h. La valeur limite d'émission ci-dessus se rapporte à la somme massique des différents composés.
+Si ce remplacement n'est pas techniquement et économiquement possible, la valeur limite d'émission de 2 mg/ m 3 en COV est imposée si le flux horaire maximal de l'ensemble de l'installation est supérieur ou égal à 10 g/ h. La valeur limite d'émission ci-dessus se rapporte à la somme massique des différents composés.
 
-Pour les émissions de composés organiques volatils halogénés auxquels sont attribuées la mention de danger H341 ou la phrase de risque R40, une valeur limite d'émission de 20 mg/ m3 est imposée si le flux horaire maximal de l'ensemble de l'installation est supérieur ou égal à 100 g/ h. La valeur limite d'émission ci-dessus se rapporte à la somme massique des différents composés.
+Pour les émissions de composés organiques volatils halogénés auxquels sont attribuées la mention de danger H341 ou la phrase de risque R40, une valeur limite d'émission de 20 mg/ m 3 est imposée si le flux horaire maximal de l'ensemble de l'installation est supérieur ou égal à 100 g/ h. La valeur limite d'émission ci-dessus se rapporte à la somme massique des différents composés.
 
 VI. Mise en œuvre d'un schéma de maîtrise des émissions de COV.
 
@@ -580,7 +716,7 @@ La concentration résiduelle des substances visées aux points IV et V reste né
 
 c) Polluants spécifiques.
 
-Si le flux massique de plomb et de ses composés est supérieur à 1 g/ h, la valeur limite de concentration est de 5 mg/ Nm3 (exprimé en Pb).
+Si le flux massique de plomb et de ses composés est supérieur à 1 g/ h, la valeur limite de concentration est de 5 mg/ Nm 3 (exprimé en Pb).
 
 d) Le point de rejet surmonte d'au moins 3 mètres les bâtiments situés dans un rayon de 15 mètres.
 
@@ -600,7 +736,7 @@ HAUTEUR D'ÉMISSION (en m)
 
 DÉBIT D'ODEUR
 
-(en m3/ h)
+(en m 3/ h)
 
 |
 
@@ -608,7 +744,7 @@ DÉBIT D'ODEUR
 
 |
 
-1 000 x 103
+1 000 x 10 3
 
 |
 
@@ -616,7 +752,7 @@ DÉBIT D'ODEUR
 
 |
 
-3 600 x 103
+3 600 x 10 3
 
 |
 
@@ -624,7 +760,7 @@ DÉBIT D'ODEUR
 
 |
 
-21 000 x 103
+21 000 x 10 3
 
 |
 
@@ -632,7 +768,7 @@ DÉBIT D'ODEUR
 
 |
 
-180 000 x 103
+180 000 x 10 3
 
 |
 
@@ -640,7 +776,7 @@ DÉBIT D'ODEUR
 
 |
 
-720 000 x 103
+720 000 x 10 3
 
 |
 
@@ -648,7 +784,7 @@ DÉBIT D'ODEUR
 
 |
 
-3 600 x 106
+3 600 x 10 6
 
 |
 
@@ -656,7 +792,7 @@ DÉBIT D'ODEUR
 
 |
 
-18 000 x 106
+18 000 x 10 6
 
 |
 
@@ -664,11 +800,11 @@ DÉBIT D'ODEUR
 
 |
 
-36 000 x 106
+36 000 x 10 6
 
 |
 
-Le niveau d'une odeur ou concentration d'un mélange odorant est défini conventionnellement comme étant le facteur de dilution qu'il faut appliquer à un effluent pour qu'il ne soit plus ressenti comme odorant par 50 % des personnes constituant un échantillon de population. Le débit d'odeur est défini conventionnellement comme étant le produit du débit d'air rejeté, exprimé en m3/ h, par le facteur de dilution au seuil de perception.
+Le niveau d'une odeur ou concentration d'un mélange odorant est défini conventionnellement comme étant le facteur de dilution qu'il faut appliquer à un effluent pour qu'il ne soit plus ressenti comme odorant par 50 % des personnes constituant un échantillon de population. Le débit d'odeur est défini conventionnellement comme étant le produit du débit d'air rejeté, exprimé en m 3/ h, par le facteur de dilution au seuil de perception.
 
 6.3. Surveillance par l'exploitant de la pollution rejetée
 
@@ -737,6 +873,10 @@ Les déchets dangereux sont éliminés dans des installations réglementées à 
 L'exploitant émet un bordereau de suivi dès qu'il remet ces déchets à un tiers et est en mesure d'en justifier l'élimination.
 
 Les documents justificatifs sont conservés 3 ans.
+
+Objet du contrôle :
+
+-présence du justificatif d'élimination des déchets.
 
 7.6. Brûlage
 

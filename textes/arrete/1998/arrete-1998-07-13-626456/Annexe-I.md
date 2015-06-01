@@ -2,9 +2,23 @@
 
 1. Dispositions générales
 
-1.1 - Conformité de l'installation à la déclaration
+1.1. Conformité de l'installation.
 
-L'installation doit être implantée, réalisée et exploitée conformément aux plans et autres documents joints à la déclaration, sous réserve des prescriptions ci-dessous.
+1.1.1. Conformité de l'installation à la déclaration.
+
+L'installation est implantée, réalisée et exploitée conformément aux plans et autres documents joints à la déclaration, sous réserve du respect des prescriptions ci-dessous.
+
+1.1.2. Contrôle périodique.
+
+L'installation est soumise à des contrôles périodiques par des organismes agréés dans les conditions définies par les articles R. 512-55 à R. 512-60 du code de l'environnement.
+
+Ces contrôles ont pour objet de vérifier la conformité de l'installation aux prescriptions repérées dans la présente annexe par le terme : " Objet du contrôle ", éventuellement modifiées par arrêté préfectoral, lorsqu'elles lui sont applicables.
+
+Les prescriptions dont le non-respect constitue une non-conformité majeure entraînant l'information du préfet dans les conditions prévues à l'article R. 512-59-1 sont repérées dans la présente annexe par la mention : " le non-respect de ce point relève d'une non-conformité majeure ". Le contenu de ces contrôles est précisé à la fin de chaque point de la présente annexe après la mention : " Objet du contrôle ".
+
+L'exploitant conserve le rapport de visite que l'organisme agréé lui adresse dans le dossier installations classées prévu au point 1.4. Si le rapport fait apparaître des non-conformités aux dispositions faisant l'objet du contrôle, l'exploitant met en oeuvre les actions correctives nécessaires pour y remédier. Ces actions ainsi que leurs dates de mise en œuvre sont formalisées et conservées dans le dossier susmentionné.
+
+Les dispositions du présent point 1.1.2 s'appliquent uniquement aux installations classées relevant de l'une ou plusieurs des rubriques nos 4738, 4739 ou 4740.
 
 1.2 - Modifications
 
@@ -33,6 +47,18 @@ L'exploitant doit établir et tenir à jour un dossier comportant les documents 
 - les documents prévus aux points 3.5 , 3.6, 4.3, 4.7, 4.8, 5.1, et 7.4 du présent arrêté.
 
 Ce dossier doit être tenu à la disposition de l'inspecteur des installations classées.
+
+Objet du contrôle :
+
+- présence du récépissé de déclaration ;
+
+- présence des prescriptions générales ;
+
+- présence des arrêtés préfectoraux relatifs à l'installation, s'il y en a ;
+
+- vérification de la quantité susceptible d'être présente au regard de la quantité déclarée au titre de chacune des rubriques visées au point 1.1.2 de l'annexe I ;
+
+- vérification que la quantité susceptible d'être présente est inférieure à la valeur supérieure du régime déclaratif tel que défini à l'article R. 511-9 du code de l'environnement au titre de chacune des rubriques visées au point 1.1.2 de l'annexe I (le non-respect de ce point relève d'une non-conformité majeure).
 
 1.5 - Déclaration d'accident ou de pollution accidentelle
 
@@ -68,6 +94,10 @@ L'installation doit être implantée à une distance d'au moins :
 
 - ou 5 mètres des limites de propriété pour les stockages en local fermé et ventilé selon les dispositions du point 6.2.
 
+Objet du contrôle :
+
+- respect des distances d'éloignement (le non-respect de ce point relève d'une non-conformité majeure).
+
 2.1.2.2. Emploi ou manipulation
 
 Les solides toxiques doivent être utilisés ou manipulés dans un local ou enceinte fermé et ventilé selon les dispositions du point 6.2 implanté à une distance d'au moins :
@@ -85,6 +115,10 @@ L'installation doit être implantée à une distance d'au moins :
 - 15 mètres des limites de propriété pour le stockage à l'air libre ou sous auvent,
 
 - ou 5 mètres des limites de propriété pour des stockages en local ou enceinte, fermé et ventilé selon les dispositions du point 6.2.
+
+Objet du contrôle :
+
+- respect des distances d'éloignement (le non-respect de ce point relève d'une non-conformité majeure).
 
 2.1.3.2 Emploi ou manipulation
 
@@ -104,6 +138,10 @@ Les récipients doivent respecter les prescriptions prévues au point 4.8.3. L'i
 
 - ou 5 mètres des limites de propriété pour les stockages en local ou enceinte, fermé et ventilé selon les dispositions du point 6.2.
 
+Objet du contrôle :
+
+- respect des distances d'éloignement (le non-respect de ce point relève d'une non-conformité majeure).
+
 2.1.4.2 Emploi ou manipulation
 
 L'installation doit être implantée dans un local ou enceinte fermé et ventilé selon les dispositions du point 6.2 implanté à une distance d'au moins :
@@ -118,6 +156,14 @@ Sauf autres dispositions réglementaires plus contraignantes, les stockages de r
 
 Dans le cas où les dispositions ci-dessus ne peuvent pas être respectées, les stockages de récipients contenant des substances ou préparations toxiques qui sont inflammables devront être respectées, les stockages de récipients contenant des substances ou préparations toxiques qui sont inflammables devront être séparés de tout produit ou substance inflammable par des parois coupe-feu de degré 1 heure d'une hauteur d'au moins 3 mètres et dépassant en projection horizontale la zone à protéger de 1 m.
 
+Objet du contrôle :
+
+- respect des distances minimales de 5 mètres (le non-respect de ce point relève d'une non-conformité majeure) ;
+
+- si occupation de l'espace resté libre entre les stockages, présence de produits ininflammables et non toxiques (le non-respect de ce point relève d'une non-conformité majeure) ;
+
+- si présence de parois coupe-feu, contrôle de leur dimensionnement et présentation d'un justificatif de conformité (le non-respect de ce point relève d'une non-conformité majeure).
+
 2.2 - Intégration dans le paysage
 
 L'exploitant prend les dispositions nécessaires pour satisfaire à l'esthétique du site. L'ensemble du site doit être maintenu en bon état de propreté (peinture, plantations, engazonnement).
@@ -125,6 +171,10 @@ L'exploitant prend les dispositions nécessaires pour satisfaire à l'esthétiqu
 2.3 - Interdiction d'habitations au-dessus des installations
 
 L' installation ne doit pas être surmontée de locaux occupés par des tiers ou habités.
+
+Objet du contrôle :
+
+- l'installation n'est pas surmontée de locaux habités ou occupés par des tiers (le non-respect de ce point relève d'une non-conformité majeure).
 
 2.4 - Comportement au feu des bâtiments
 
@@ -142,11 +192,27 @@ Les locaux abritant l'installation doivent présenter les caractéristiques de r
 
 Les locaux doivent être équipés en partie haute de dispositifs permettant l'évacuation des fumées et gaz de combustion dégagés en cas d'incendie (lanterneaux en toiture, ouvrants en façade ou tout autre dispositif équivalent). Les commandes d'ouverture manuelle sont placées à proximité des accès. Le système de désenfumage doit être adapté aux risques particuliers de l'installation.
 
+Objet du contrôle :
+
+- présence de portes intérieures munies d'un ferme-porte automatique ou d'un dispositif assurant leur fermeture automatique (le non-respect de ce point relève d'une non-conformité majeure) ;
+
+- présentation d'un justificatif de conformité des portes coupe-feu (le non-respect de ce point relève d'une non-conformité majeure) ;
+
+- présence de dispositifs d'évacuation des fumées (le non-respect de ce point relève d'une non-conformité majeure) ;
+
+- emplacement des commandes d'ouverture manuelle (le non-respect de ce point relève d'une non-conformité majeure).
+
 2.5 - Accessibilité
 
 L'installation doit être accessible pour permettre l'intervention des services d'incendie et de secours. Elle est desservie, sur au moins une face, par une voie engin ou par une voie-échelle si le plancher haut de cette installation est à une hauteur supérieure à 8 mètres par rapport à cette voie.
 
 En cas de local fermé, une des façades est équipée d'ouvrant permettant le passage de sauveteurs équipés.
+
+Objet du contrôle :
+
+- présence d'une voie-engin ou d'une voie-échelle gardée libre (le non-respect de ce point relève d'une non-conformité majeure) ;
+
+- en cas de local fermé, présence d'ouvrant sur une des façades (le non-respect de ce point relève d'une non-conformité majeure).
 
 2.6 - Ventilation
 
@@ -165,6 +231,12 @@ Les équipements métalliques (réservoirs, cuves, canalisations) doivent être 
 Le sol des aires de stockage ou de manipulation des produits dangereux pour l'homme ou susceptibles de créer une pollution de l'eau ou du sol doit être étanche, interne vis-à-vis des produits, incombustible et équipé de façon à pouvoir recueillir les eaux de lavage, les eaux d'extinction et les produits répandus accidentellement ; pour cela un seuil surélevé par rapport au niveau du sol ou tout dispositif équivalent les sépare de l'extérieur ou d'autres aires ou locaux. Les produits recueillis sont de préférence récupérés et recyclés, ou en cas d'impossibilité traités conformément au point 5.7 et au titre 7.
 
 Le volume d'eau disponible pour lutter contre un incendie est au moins égal à 5 m3 par tonne de produit stocké lorsqu'il n'existe pas d'installations fixes d'extinction. Lorsqu'il existe une installation fixe d'extinction, le volume d'eau disponible doit permettre une application d'au moins 2 heures.
+
+Objet du contrôle :
+
+- présence d'un seuil surélevé ou autre dispositif équivalent en rétention pour les locaux et aires de stockage ou de manipulation des produits (le non-respect de ce point relève d'une non-conformité majeure) ;
+
+- présence d'un volume d'eau supérieur à 5 mètres cubes par tonne de produits stockés (le non-respect de ce point relève d'une non-conformité majeure).
 
 2.10 - Cuvettes de rétention
 
@@ -186,6 +258,20 @@ Des réservoirs ou récipients contenant des produits susceptibles de réagir da
 
 Cette disposition ne s'applique pas aux bassins de traitement des eaux résiduaires.
 
+Objet du contrôle :
+
+- présence du volume requis de rétention pour les récipients de capacité unitaire inférieure ou égale à 250 litres, admis au transport (le non-respect de ce point relève d'une non-conformité majeure) ;
+
+- présence du volume requis de rétention pour les stockages comprenant des substances ou préparations de liquides susceptibles de créer une pollution de l'eau ou du sol (le non-respect de ce point relève d'une non-conformité majeure) ;
+
+- présence des jauges de niveau sur les récipients fixes ;
+
+- présence de limiteurs de remplissage (contrôle visuel ou documentaire) pour les stockages enterrés (le non-respect de ce point relève d'une non-conformité majeure) ;
+
+- présence de fosses maçonnées ou assimilées (contrôle visuel ou documentaire) (le non-respect de ce point relève d'une non-conformité majeure) ;
+
+- le dispositif d'obturation de la capacité de rétention est maintenu fermé en condition normale (le non-respect de ce point relève d'une non-conformité majeure).
+
 2.11 - Aménagement et organisation des stockages
 
 La hauteur maximale d'un stockage de substances ou préparations sous forme solide ne doit pas excéder 8 mètres dans un bâtiment, 4 mètres à l'air libre ou sous auvent.
@@ -194,11 +280,21 @@ La hauteur maximale d'un stockage de substances ou préparations sous forme liqu
 
 Les récipients contenant des gaz ou gaz liquéfiés doivent être placés dans des locaux séparés répondant aux caractéristiques du point 2.4 des autres substances ou préparations solides ou liquides.
 
-Les générateurs d'aérosols contenant des produits toxiques pourront être stockés avec d'autres produits visés par les rubriques 1110/1111, 1150 et 1155. L'aire de stockage devra être entièrement ceinturée par un grillage ou par un mur.
+Les générateurs d'aérosols contenant des produits toxiques peuvent être stockés avec d'autres produits visés par l'une ou plusieurs des rubriques nos 4110, 4510, 4511, 4707, 4708, 4709, 4711, 4712, 4713, 4717, 4723, 4724, 4726, 4728, 4729, 4730, 4732, 4733, 4736 ou 4737. L'aire de stockage est entièrement ceinturée par un grillage ou par un mur .
 
-Dans tous les cas, les substances ou préparations inflammables au sens de l'arrêté ministériel du 20 avril 1994 doivent être situées sur une aire ou dans une cellule spécifique répondant aux caractéristiques du point 2.4.
+Dans tous les cas, les substances ou mélanges inflammables au sens du règlement CLP n° 1272/2008 du 16 décembre 2008 modifié sont situés sur une aire ou dans une cellule spécifique répondant aux caractéristiques du point 2.4.
 
 Pour assurer une bonne ventilation, un espace libre doit être d'au moins un mètre entre le stockage des substances ou préparations toxiques et le plafond.
+
+Objet du contrôle :
+
+- respect des hauteurs maximales de stockage (le non-respect de ce point relève d'une non-conformité majeure) ;
+
+- les récipients contenant des gaz ou gaz liquéfiés doivent être placés dans des locaux séparés (le non-respect de ce point relève d'une non-conformité majeure) ;
+
+- présence d'une clôture autour de l'aire de stockage ;
+
+- présence d'un espace libre d'au moins 1 mètre entre le stockage des substances ou préparations toxiques et le plafond (le non-respect de ce point relève d'une non-conformité majeure).
 
 3. Exploitation - entretien
 
@@ -210,11 +306,21 @@ L'exploitation doit se faire sous la surveillance, directe ou indirecte, d'une p
 
 Les personnes étrangères à l'établissement ne doivent pas avoir un accès libre à l'installation. De plus, en l'absence de personnel d'exploitation, cet accès est interdit aux personnes non autorisées (clôture, fermeture à clef, etc.)
 
-3.3 - Connaissance des produits - Etiquetage
+Objet du contrôle :
 
-L'exploitant doit avoir à sa disposition des documents lui permettant de connaître la nature et les risques des produits dangereux présents dans l'installation, en particulier les fiches de données de sécurité prévues par l'article R. 231-53 du code du travail.
+- présence d'un dispositif interdisant l'accès à l'établissement à toute personne étrangère à l'installation.
 
-Les solides, liquides, gaz ou gaz liquéfiés toxiques doivent être contenus dans des emballages ou récipients conformes à la réglementation en vigueur en France. Les emballages doivent porter en caractères très lisibles le nom des produits et les symboles de danger conformément à l'arrêté ministériel du 20 avril 1994 relatif à la déclaration, la classification, l'emballage et l'étiquetage des substances et préparations chimiques dangereuses.
+3.3. Connaissance des produits-Etiquetage.
+
+L'exploitant dispose des documents lui permettant de connaître la nature et les risques des produits dangereux présents dans l'installation, en particulier les fiches de données de sécurité.
+
+Les solides, liquides, gaz ou gaz liquéfiés très toxiques sont contenus dans des emballages ou récipients conformes à la réglementation en vigueur en France. Les emballages portent en caractères très lisibles le nom des produits et les symboles de danger conformément au règlement CLP n° 1272/2008 du 16 décembre 2008 modifié relatif à la classification, l'emballage et l'étiquetage des substances et mélanges.
+
+Objet du contrôle :
+
+- présentation des fiches de données de sécurité ;
+
+- présence et lisibilité des noms de produits et symboles de danger sur les fûts, réservoirs et emballages.
 
 3.4 - Propreté
 
@@ -225,6 +331,10 @@ Les locaux doivent être maintenus propres et régulièrement nettoyés notammen
 L'exploitant doit tenir à jour un état indiquant la nature et la quantité des produits dangereux détenus, auquel est annexé un plan général des stockages. Cet état est tenu à la disposition de l'inspection des installations classées et des services d'incendie et de secours.
 
 La présence dans les ateliers de matières dangereuses ou combustibles est limitée aux nécessités de l'exploitation.
+
+Objet du contrôle :
+
+- présentation du registre tenu à jour.
 
 3.6 - Vérification périodique des installations électriques
 
@@ -248,6 +358,10 @@ Le matériel d'intervention doit comprendre au minimum :
 
 Le personnel doit être formé à l'emploi de ces matériels.
 
+Objet du contrôle :
+
+- présentation des matériels (le non-respect de ce point relève d'une non-conformité majeure).
+
 4.2 - Moyens de secours contre l'incendie
 
 L'installation doit être dotée de moyens de secours contre l'incendie appropriés aux risques et conformes aux normes en vigueur, notamment :
@@ -268,11 +382,31 @@ L'installation doit être dotée de moyens de secours contre l'incendie appropri
 
 Ces matériels doivent être maintenus en bon état et vérifiés au moins une fois par an.
 
+Objet du contrôle :
+
+- présence et implantation d'au moins un appareil d'incendie (bouches, poteaux ...) ou des points d'eau, bassins, citernes, etc., d'une capacité en rapport avec le risque à défendre (le non-respect de ce point relève d'une non-conformité majeure) ;
+
+- présence et implantation d'au moins un extincteur (le non-respect de ce point relève d'une non-conformité majeure) ;
+
+- présence d'une réserve de sable meuble et sec supérieure à 100 litres ;
+
+-présence d'un moyen d'alerte des services d'incendie et de secours (le non-respect de ce point relève d'une non-conformité majeure) ;
+
+- présence d'un système interne d'alerte incendie (le non-respect de ce point relève d'une non-conformité majeure) ;
+
+- présentation d'un justificatif de contrôle annuel des équipements (le non-respect de ce point relève d'une non-conformité majeure).
+
 4.3 - Localisation des risques
 
 L'exploitant recense, sous sa responsabilité, les parties de l'installation qui, en raison des caractéristiques qualitatives et quantitatives des matières mises en oeuvre, stockées, utilisées ou produites, sont susceptibles d'être à l'origine d'un sinistre pouvant avoir des conséquences directes ou indirectes sur l'environnement, la sécurité publique ou le maintien en sécurité de l'installation.
 
 L'exploitant détermine pour chacune de ces parties de l'installation la nature du risque (incendie, atmosphères explosives ou émanations toxiques...). Ce risque est signalé.
+
+Objet du contrôle :
+
+- présence d'un plan de l'atelier indiquant les différentes zones de danger ;
+
+- présence d'une signalisation des risques dans les zones de dangers, conforme aux indications du plan.
 
 4.4 - Matériel électrique de sécurité
 
@@ -285,6 +419,10 @@ Les canalisations ne doivent pas être une cause possible d'inflammation et doiv
 Dans les parties de l'installation, visées au point 4.3, présentant des risques d'incendie ou d'explosion, il est interdit d'apporter du feu sous une forme quelconque, sauf pour la réalisation de travaux ayant fait l'objet d'un "permis de feu". Cette interdiction doit être affichée en caractères apparents.
 
 Dans les parties de l'installation visées au point 2.4, des méthodes indirectes et sûres telles que le chauffage à eau chaude, à la vapeur ou à air chaud dont la source se situera en dehors de l'aire de stockage, de manipulation ou d'emploi doivent être utilisées. L'utilisation de convecteurs électriques, de poêles, de réchauds ou d'appareils de chauffage à flamme nues est à proscrire.
+
+Objet du contrôle :
+
+- affichage de l'interdiction.
 
 4.6 - "Permis de travail" et/ou "permis de feu" dans les parties de l'installation visées au point 4.3
 
@@ -312,6 +450,10 @@ Ces consignes doivent notamment indiquer :
 
 - la procédure d'alerte avec les numéros de téléphone du responsable d'intervention de l'établissement, des services d'incendie et de secours, etc
 
+Objet du contrôle :
+
+- présence et affichage de chacune des consignes.
+
 4.8 - Consignes d'exploitation
 
 Les opérations comportant des manipulations dangereuses et la conduite des installations (démarrage et arrêt, fonctionnement normal, entretien...) doivent faire l'objet de consignes d'exploitation écrites.
@@ -324,9 +466,17 @@ Ces consignes prévoient notamment :
 
 - les instructions de maintenance et de nettoyage.
 
+Objet du contrôle :
+
+-présentation des consignes.
+
 4.9 - Détection de gaz
 
 Des détecteurs de gaz sont mis en place dans les parties de l'installations visées au point 4.3 présentant les plus grand risques en cas de dégagement ou d'accumulation importante de gaz ou de vapeurs toxiques. Ces zones sont équipées de systèmes de détection dont les niveaux de sensibilité sont adaptés aux situations.
+
+Objet du contrôle :
+
+- présence des détecteurs de gaz (le non-respect de ce point relève d'une non-conformité majeure).
 
 4.10 - Stockage
 
@@ -336,15 +486,31 @@ Les récipients peuvent être stockés en plein air à condition que leur conten
 
 Les substances ou préparations toxiques doivent être stockées, manipulées ou utilisées dans les endroits réservés et protégés contre les chocs.
 
+Objet du contrôle :
+
+- le contenu des récipients stockés à l'extérieur ne doit pas être sensible aux températures extrêmes et aux intempéries (renseignements disponibles sur les fiches de données de sécurité).
+
 4.10.2. Prescriptions complémentaires pour les solides ou liquides toxiques
 
 Les fûts , tonnelets ou bidons contenant des substances ou préparations toxiques doivent être stockés verticalement sur des palettes. Toute disposition doit être prise pour éviter la chute des récipient stockés à l'horizontale.
+
+Objet du contrôle :
+
+- stockage vertical ;
+
+- mise en place d'un dispositif anti-chute.
 
 4.10.3. Prescriptions complémentaires pour les gaz ou gaz liquéfiés toxiques
 
 Toute disposition sera prise pour éviter les chutes de bouteilles de gaz ou gaz liquéfiés toxiques. En cas de stockage, elles doivent être munies en permanence d'un chapeau de protection du robinet de bouteille et d'un bouchon vissé sur le raccord de sortie.
 
 Des mesures de sécurité doivent avoir été prises lors du conditionnement pour empêcher le suremplissage des récipients contenant des gaz ou gaz liquéfiés toxiques.
+
+Objet du contrôle :
+
+- mise en place d'un dispositif anti-chute (le non-respect de ce point relève d'une non-conformité majeure) ;
+
+- présence d'un chapeau de protection et d'un bouchon vissé sur le raccord de sortie (le non-respect de ce point relève d'une non-conformité majeure).
 
 5. Eau
 
@@ -366,6 +532,10 @@ Le réseau de collecte doit être de type séparatif permettant d'isoler les eau
 
 Les points de rejet des eaux résiduaires doivent être en nombre aussi réduit que possible et aménagés pour permettre un prélèvement aisé d'échantillons et l'installation d'un dispositif de mesure du débit.
 
+Objet du contrôle :
+
+- présence d'un réseau de collecte de type séparatif.
+
 5.4 - Mesure des volumes rejetés
 
 5.4.1. Prescriptions spécifiques aux solides et aux liquides toxiques
@@ -377,6 +547,10 @@ La quantité d'eau rejetée doit être mesurée journellement ou à défaut éva
 Tout rejet ne doit pas entraîner de nuisances pour le milieu naturel.
 
 Tout rejet dans les égouts publics doit être préalablement autorisé par la collectivité à laquelle appartiennent les ouvrages qui seront empruntés par ces rejets avant de rejoindre le milieu naturel.
+
+Objet du contrôle :
+
+- présentation de l'autorisation de rejet.
 
 5.6 - Interdiction des rejets en nappe
 
@@ -459,6 +633,10 @@ Cette disposition n'est pas applicable aux détenteurs de déchets d'emballage q
 Les déchets industriels spéciaux doivent être éliminés dans des installations autorisées à recevoir ces déchets. L'exploitation doit être en mesure d'en justifier
 
 l'élimination ; les documents justificatifs doivent être conservés 3 ans.
+
+Objet du contrôle :
+
+- présence du justificatif d'élimination des déchets.
 
 7.5 - Brûlage
 
@@ -572,4 +750,4 @@ Les récipients ayant contenu des produits susceptibles de polluer les eaux doiv
 
 NOTA :
 
-(*) Un modèle a été constitué pour la rédaction des arrêtés de prescriptions générales applicables aux installations soumises à déclaration. Certaines dispositions de ce modèle, qui ne se justifient pas pour les installations visées par la rubrique n° 1131 ont été supprimées. Néanmoins, la numérotation a été conservée pour permettre une homogénéité entre les arrêtés de prescriptions générales de toutes les rubriques de la nomenclature.
+(1) Un modèle a été constitué pour la rédaction des arrêtés de prescriptions générales applicables aux installations soumises à déclaration. Certaines dispositions de ce modèle, qui ne se justifient pas pour les installations visées par le présent arrêté ont été supprimées. Néanmoins, la numérotation a été conservée pour permettre une homogénéité entre les arrêtés de prescriptions générales de toutes les rubriques de la nomenclature.

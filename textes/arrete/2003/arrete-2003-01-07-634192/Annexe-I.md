@@ -1,6 +1,6 @@
 # Article Annexe I
 
-Prescriptions générales et faisant l'objet du contrôle périodique applicables aux installations classées pour la protection de l'environnement soumises à déclaration sous la rubrique n° 1413
+Prescriptions générales
 
 Définitions
 
@@ -212,7 +212,7 @@ Compresseur.-Ouverture du bâtiment le plus proche sur le site
 
 |
 
-Les parois des appareils de distribution de gaz naturel ou de biogaz sont situées à au moins 7,5 mètres des parois des réservoirs aériens de gaz de pétrole liquéfié de capacité déclarée au plus égale à 35 tonnes et à au moins 10 mètres des réservoirs de capacité déclarée comprise entre 35 et 50 tonnes. Ces deux distances sont réduites dans les mêmes proportions et aux mêmes conditions que celles prévues à l'article 2.1.2. B de l'article 2.1.2. b de l'arrêté du 23 août 2005 relatif aux prescriptions générales applicables aux installations classées pour la protection de l'environnement soumises à déclaration sous la rubrique n° 1412 de la nomenclature des installations classées.
+Les parois des appareils de distribution de gaz naturel ou de biogaz sont situées à au moins 7,5 mètres des parois des réservoirs aériens de gaz de pétrole liquéfié de capacité déclarée au plus égale à 35 tonnes et à au moins 10 mètres des réservoirs de capacité déclarée comprise entre 35 et 50 tonnes. Ces deux distances sont réduites dans les mêmes proportions et aux mêmes conditions que celles prévues à l'article 2.1.2. B de l'article 2.1.2. b de l'arrêté du 23 août 2005 relatif aux prescriptions générales applicables aux installations classées pour la protection de l'environnement soumises à déclaration sous la rubrique n° 4718 de la nomenclature des installations classées.
 
 Les parois des appareils de distribution de gaz naturel ou de biogaz sont situées à au moins 5 mètres des parois des appareils de distribution de gaz de pétrole liquéfié. Cette distance n'est toutefois pas exigée si les conditions suivantes sont réunies :
 
@@ -1078,4 +1078,4 @@ Outre les dispositions prévues au point 1.7, et sans préjudice des disposition
 
 -les réservoirs et les canalisations de liquides inflammables ou de tout autre produit susceptible de polluer les eaux ont été vidés, nettoyés, dégazés et, le cas échéant, décontaminés, puis neutralisés par un solide physique inerte, sauf s'ils ont été retirés, découpés et ferraillés vers des installations dûment autorisées au titre de la législation des installations classées ; pour les réservoirs et les canalisations enterrés, les dispositions de l'arrêté ministériel du 22 juin 1998 relatif aux réservoirs enterrés de liquides inflammables et de leurs équipements annexes s'appliquent.
 
-[⁎] Un modèle a été constitué pour la rédaction des arrêtés de prescriptions générales applicables aux installations soumises à déclaration. Certaines dispositions de ce modèle, qui ne se justifient pas pour les installations visées par la rubrique n° 1413 ont été supprimées. Néanmoins, la numérotation a été conservée pour permettre une homogénéité entre les arrêtés de prescriptions générales de toutes les rubriques de la nomenclature.
+(*) Un modèle a été constitué pour la rédaction des arrêtés de prescriptions générales applicables aux installations soumises à déclaration. Certaines dispositions de ce modèle, qui ne se justifient pas pour les installations visées par le présent arrêté ont été supprimées. Néanmoins, la numérotation a été conservée pour permettre une homogénéité entre les arrêtés de prescriptions générales de toutes les rubriques de la nomenclature.
