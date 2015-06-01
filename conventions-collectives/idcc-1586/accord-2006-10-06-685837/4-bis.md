@@ -26,6 +26,26 @@ Le dispositif de portabilité s'applique aux cessations de contrat de travail do
 
 Pour la garantie invalidité, le dispositif de portabilité s'applique aux cessations de contrat de travail dont la date est égale ou postérieure à la date d'effet du présent avenant.
 
+1.1. Portabilité des droits du régime de prévoyance à compter du 1er juin 2015
+
+Le maintien des garanties s'applique pour une durée maximale égale à la durée du dernier contrat de travail du salarié dans l'entreprise, appréciée en mois entiers, dans la limite de 12 mois, telle que définie dans la loi de sécurisation de l'emploi du 13 juin 2013.
+
+L'entreprise adhérente et/ ou le participant doit :
+
+- signaler le maintien des garanties visées par le présent avenant dans le certificat de travail de l'ancien salarié ;
+
+- informer l'organisme assureur de la cessation du contrat de travail en lui adressant, dans un délai de 1 mois suivant la date de cessation du contrat de travail d'un salarié, le bulletin individuel d'affiliation au présent dispositif de portabilité (complété et signé) et accompagné de la copie du dernier contrat de travail justifiant la durée, d'une attestation justifiant son statut de demandeur d'emploi dans l'attente de l'envoi de l'attestation justifiant l'indemnisation par l'assurance chômage.
+
+Dès qu'il en a connaissance, l'ancien salarié s'engage à informer l'organisme assureur de toute cause entraînant la cessation anticipée de maintien des garanties. Sont visées notamment les causes suivantes :
+
+- la reprise d'un autre emploi ;
+
+- l'impossibilité de justifier auprès de l'organisme assureur de son statut de demandeur d'emploi indemnisé par le régime obligatoire d'assurance chômage ;
+
+- la survenance de la date d'effet de la liquidation de la pension vieillesse de la sécurité sociale ;
+
+- en cas de décès.
+
 2. Salaire de référence
 
 Le salaire de référence servant de base au calcul des prestations est celui défini au titre de l'article 3 “ Salaire de référence ” de l'accord du 6 octobre 2006 pour les salariés en activité pour chaque garantie maintenue, étant précisé que la période prise en compte est celle précédant la date de cessation du contrat de travail. Pour la détermination du salaire de référence, sont exclues les sommes liées à la rupture ou à la fin du contrat de travail (indemnités de licenciement, indemnités compensatrices de congés payés et toutes autres sommes versées à titre exceptionnel).
@@ -39,18 +59,6 @@ En tout état de cause, l'indemnisation prévue ne peut conduire l'intéressé �
 4. Durée et limites de la portabilité
 
 Le maintien des garanties prend effet dès la date de cessation du contrat de travail sous réserve d'avoir été régulièrement déclaré par l'entreprise auprès de l'organisme assureur désigné.C'est auprès de l'entreprise que le bénéficiaire du dispositif de portabilité justifie en principe de son statut de demandeur d'emploi.
-
-Le maintien de garanties s'applique pour une durée maximale égale à la durée du dernier contrat de travail du salarié dans l'entreprise, appréciée en mois entiers, dans la limite de 9 mois.
-
-En tout état de cause, le maintien des garanties cesse :
-
-– lorsque le bénéficiaire du dispositif de portabilité reprend un autre emploi ;
-
-– dès qu'il ne peut plus justifier auprès de l'entreprise adhérente de son statut de demandeur d'emploi indemnisé par le régime obligatoire d'assurance chômage ;
-
-– à la date d'effet de la liquidation de la pension vieillesse de la sécurité sociale ;
-
-– en cas de décès.
 
 La suspension des allocations du régime obligatoire d'assurance chômage, pour cause de maladie ou pour tout autre motif, n'a pas d'incidence sur le calcul de la durée du maintien des garanties qui ne sera pas prolongée d'autant.
 
