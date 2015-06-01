@@ -20,7 +20,7 @@ Désignation de la rubrique
 
 |
 
-A, E, D, S, C (1)
+A, E, D, C (1)
 
 |
 
@@ -36,263 +36,11 @@ Coef.
 
 |
 
-1611
-
-|
-
-Acide chlorhydrique à plus de 20 % en poids d'acide, formique à plus de 50 %, nitrique à plus de 20 % mais à moins de 70 %, phosphorique à plus de 10 %, sulfurique à plus de 25 %, anhydride phosphorique (emploi ou stockage de).
-
-|
-
-|
-
-|
-
-|
-
-|
-
-La quantité totale susceptible d'être présente dans l'installation étant :
-
-|
-
-|
-
-|
-
-|
-
-|
-
-1. supérieure ou égale à 250 t
-
-|
-
-A
-
-|
-
-1
-
-|
-
-|
-
-|
-
-2. supérieure ou égale à 50 t, mais inférieure à 250 t
-
-|
-
-D
-
-|
-
-|
-
-|
-
-|
-
-1612
-
-|
-
-Acide chlorosulfurique, oléums (fabrication industrielle, emploi ou stockage d')
-
-|
-
-|
-
-|
-
-|
-
-|
-
-A. Fabrication industrielle
-
-|
-
-|
-
-|
-
-A. La quantité totale susceptible d'être présente dans l'installation étant :
-
-|
-
-|
-
-La quantité totale susceptible d'être présente dans l'installation étant :
-
-|
-
-|
-
-|
-
-|
-
-|
-
-1. supérieure ou égale à 500 t
-
-|
-
-AS
-
-|
-
-3
-
-|
-
-1. supérieure ou égale à 500 t
-
-|
-
-10
-
-|
-
-2. inférieure à 500 t
-
-|
-
-A
-
-|
-
-1
-
-|
-
-2. inférieure à 500 t
-
-|
-
-6
-
-|
-
-B. Emploi ou stockage
-
-|
-
-|
-
-|
-
-B. La quantité totale susceptible d'être présente dans l'installation étant :
-
-|
-
-|
-
-La quantité totale susceptible d'être présente dans l'installation étant :
-
-|
-
-|
-
-|
-
-|
-
-|
-
-1. supérieure ou égale à 500 t
-
-|
-
-AS
-
-|
-
-3
-
-|
-
-1. supérieure ou égale à 500 t
-
-|
-
-10
-
-|
-
-2. supérieure ou égale à 50 t, mais inférieure à 500 t
-
-|
-
-A
-
-|
-
-1
-
-|
-
-2. supérieure ou égale à 50 t, mais inférieure à 500 t
-
-|
-
-6
-
-|
-
-3. supérieure ou égale à 3 t, mais inférieure à 50 t
-
-|
-
-D
-
-|
-
-|
-
-|
-
-|
-
 1630
 
 |
 
-Soude ou potasse caustique (fabrication industrielle, emploi ou stockage de lessives de)
-
-|
-
-|
-
-|
-
-|
-
-|
-
-A. Fabrication industrielle de
-
-|
-
-A
-
-|
-
-1
-
-|
-
-A. Quelle que soit la capacité
-
-|
-
-6
-
-|
-
-B. Emploi ou stockage de lessives de
+Soude ou potasse caustique (emploi ou stockage de lessives de).
 
 |
 
@@ -312,7 +60,11 @@ Le liquide renfermant plus de 20 % en poids d'hydroxyde de sodium ou de potassiu
 
 |
 
+A. Quelle que soit la capacité
+
 |
+
+6
 
 |
 
@@ -328,7 +80,7 @@ La quantité totale susceptible d'être présente dans l'installation étant :
 
 |
 
-1. supérieure à 250 t
+1. Supérieure à 250 t
 
 |
 
@@ -344,7 +96,7 @@ A
 
 |
 
-2. supérieure à 100 t, mais inférieure ou égale à 250 t
+2. Supérieure à 100 t, mais inférieure ou égale à 250 t
 
 |
 
@@ -358,51 +110,25 @@ D
 
 |
 
-1631
-
-|
-
-Carbonate de sodium ou carbonate de potassium (fabrication industrielle du)
-
-|
-
-A
-
-|
-
-1
-
-|
-
-Quelle que soit la capacité
-
-|
-
-3
-
-|
-
 1700
 
 |
 
-Substances radioactives sous forme non scellée (activités nucléaires mettant en œuvre des) mises en œuvre dans un établissement industriel ou commercial hors accélérateurs de particules et secteur médical.
-
-|
-
-|
-
-|
-
-|
-
-|
+Substances radioactives sous forme non scellée (activités nucléaires mettant en oeuvre des) mises en oeuvre dans un établissement industriel ou commercial hors accélérateurs de particules et secteur médical.
 
 Définitions :
 
 Les termes "substance radioactive", "activité", "radioactivité", "radionucléide", "source radioactive non scellée" et "source radioactive scellée" sont définis dans l'annexe 13-7 de la première partie du code de la santé publique.
 
-"QNS" : calcul du coefficient Q tel que défini à l'annexe 13-8 de la première partie du code de la santé publique pour les substances radioactives non scellées.
+"QNS": calcul du coefficient Q tel que défini à l'annexe 13-8 de la première partie du code de la santé publique pour les substances radioactives non scellées.
+
+|
+
+|
+
+|
+
+|
 
 |
 
@@ -444,9 +170,7 @@ D
 
 |
 
-Nota.-La valeur de QNS porte sur l'ensemble des substances radioactives mentionnées à la rubrique 1700 autres que celles mentionnées à la rubrique 1735 susceptibles d'être présentes dans l'installation. Elle est calculée suivant les modalités mentionnées à l'annexe 13-8 de la première partie du code de la santé publique.
-
-|
+Nota.-La valeur de QNS porte sur l'ensemble des substances radioactives mentionnées à la rubrique 1700 autres que celles mentionnées à la rubrique 1735 susceptibles d'être présentes dans l'installation. Elle est calculée suivant les modalités mentionnées à l'annexe 13-8 de la première partie du code de la santé publique
 
 |
 
@@ -473,262 +197,6 @@ La quantité étant supérieure ou égale à 1 tonne
 |
 
 5
-
-|
-
-1810
-
-|
-
-Substances ou préparations réagissant violemment au contact de l'eau (fabrication, emploi ou stockage des), à l'exclusion des substances et préparations visées explicitement ou par famille par d'autres rubriques de la nomenclature
-
-|
-
-|
-
-|
-
-A. Fabrication
-
-|
-
-|
-
-|
-
-|
-
-|
-
-La quantité totale susceptible d'être présente dans l'installation étant :
-
-|
-
-|
-
-|
-
-|
-
-|
-
-1. supérieure ou égale à 500 t
-
-|
-
-10
-
-|
-
-La quantité totale susceptible d'être présente dans l'installation étant :
-
-|
-
-|
-
-|
-
-2. supérieure ou égale à 100 t mais inférieure à 500 t
-
-|
-
-6
-
-|
-
-1. supérieure ou égale à 500 t
-
-|
-
-AS
-
-|
-
-3
-
-|
-
-B. Emploi ou stockage
-
-|
-
-|
-
-2. supérieure ou égale à 100 t, mais inférieure à 500 t
-
-|
-
-A
-
-|
-
-1
-
-|
-
-La quantité totale susceptible d'être présente dans l'installation étant :
-
-|
-
-|
-
-3. supérieure ou égale à 2 t, mais inférieure à 100 t
-
-|
-
-D
-
-|
-
-|
-
-1. supérieure ou égale à 500 t
-
-|
-
-6
-
-|
-
-|
-
-|
-
-|
-
-2. supérieure ou égale à 100 t mais inférieure à 500 t
-
-|
-
-3
-
-|
-
-1820
-
-|
-
-Substances ou préparations dégageant des gaz toxiques au contact de l'eau (fabrication, emploi ou stockage des), à l'exclusion des substances et préparations visées explicitement ou par famille par d'autres rubriques de la nomenclature
-
-|
-
-|
-
-|
-
-A. Fabrication
-
-|
-
-|
-
-|
-
-|
-
-|
-
-La quantité totale susceptible d'être présente dans l'installation étant :
-
-|
-
-|
-
-|
-
-|
-
-|
-
-1. supérieure ou égale à 200 t
-
-|
-
-10
-
-|
-
-La quantité totale susceptible d'être présente dans l'installation étant :
-
-|
-
-|
-
-|
-
-2. supérieure ou égale à 50 t mais inférieure à 200 t
-
-|
-
-6
-
-|
-
-1. supérieure ou égale à 200 t
-
-|
-
-AS
-
-|
-
-6
-
-|
-
-B. Emploi ou stockage
-
-|
-
-|
-
-2. supérieure ou égale à 50 t, mais inférieure à 200 t
-
-|
-
-A
-
-|
-
-3
-
-|
-
-La quantité totale susceptible d'être présente dans l'installation étant :
-
-|
-
-|
-
-3. supérieure ou égale à 2 t, mais inférieure à 50 t
-
-|
-
-D
-
-|
-
-|
-
-1. supérieure ou égale à 200 t
-
-|
-
-6
-
-|
-
-|
-
-|
-
-|
-
-2. supérieure ou égale à 50 t mais inférieure à 200 t
-
-|
-
-3
 
 |
 
@@ -1604,7 +1072,9 @@ E
 
 |
 
-b) Si le volume total de stockage est supérieur à 5 000 m³, mais inférieur ou égal à 15 000 m³ |
+b) Si le volume total de stockage est supérieur à 5 000 m³, mais inférieur ou égal à 15 000 m³
+
+|
 
 DC
 
@@ -1996,7 +1466,9 @@ b) Supérieure à 2 t/ j, mais inférieure ou égale à 20 t/ j
 
 |
 
-D |
+D
+
+|
 
 |
 
@@ -2597,90 +2069,6 @@ A
 |
 
 2. supérieure à 2 000 l/j, mais inférieure ou égale à 20 000 l/j
-
-|
-
-D
-
-|
-
-|
-
-|
-
-|
-
-2255
-
-|
-
-Alcools de bouche d'origine agricole, eaux de vie et liqueurs (stockage des)
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Lorsque la quantité stockée de produits dont le titre alcoométrique volumique est supérieur à 40 %, susceptible d'être présente est :
-
-|
-
-|
-
-|
-
-La quantité stockée de produits dont le titre alcoométrique volumique est supérieur à 40 %, susceptible d'être présente est :
-
-|
-
-|
-
-1. supérieure ou égale à 50 000 t
-
-|
-
-AS
-
-|
-
-4
-
-|
-
-1. supérieure ou égale à 50 000 t
-
-|
-
-6
-
-|
-
-2. supérieure ou égale à 500 m³
-
-|
-
-A
-
-|
-
-2
-
-|
-
-2. supérieure ou égale à 500 m³
-
-|
-
-3
-
-|
-
-3. supérieure ou égale à 50 m³
 
 |
 
@@ -3484,16 +2872,6 @@ D
 
 Ateliers ou l'on travaille le bois ou matériaux combustibles analogues :
 
-|
-
-|
-
-|
-
-|
-
-|
-
 A. Installations dont les activités sont classées au titre de la rubrique 3610
 
 |
@@ -3512,17 +2890,7 @@ A
 
 B. Autres installations que celles visées au A, la puissance de l'ensemble des machines présentes dans l'installation qui concourent au travail du bois ou matériaux combustibles analogues étant :
 
-|
-
-|
-
-|
-
-|
-
-|
-
-1. Supérieure à 250 kW.
+1. Supérieure à 250 kW
 
 |
 
@@ -4230,9 +3598,7 @@ c) supérieure ou égale à 50 000 t/an, mais inférieure à 150 000 t/an.
 
 |
 
-3. Affouillements du sol (à l'exception des affouillements rendus nécessaires pour l'implantation des constructions bénéficiant d'un permis de construire et des affouillements réalisés sur l'emprise des voies de circulation), lorsque les matériaux prélevés sont utilisés à des fins autres que la réalisation de l'ouvrage sur l'emprise duquel ils ont été extraits et lorsque la superficie d'affouillement est supérieure à
-
-1 000 m2 ou lorsque la quantité de matériaux à extraire est supérieure à 2 000 t
+3. Affouillements du sol (à l'exception des affouillements rendus nécessaires pour l'implantation des constructions bénéficiant d'un permis de construire et des affouillements réalisés sur l'emprise des voies de circulation), lorsque les matériaux prélevés sont utilisés à des fins autres que la réalisation de l'ouvrage sur l'emprise duquel ils ont été extraits et lorsque la superficie d'affouillement est supérieure à 1 000 m2 ou lorsque la quantité de matériaux à extraire est supérieure à 2 000 t
 
 |
 
@@ -4292,9 +3658,7 @@ c) supérieure ou égale à 50 000 t/an mais inférieure à 150 000 t/an.
 
 |
 
-4. Exploitation, en vue de leur utilisation, des masses constituées par des haldes et terrils de mines et par les déchets d'exploitation de carrières (à l'exception des cas visés à l'article 1er du décret n° 79-1109 du 20 décembre 1979 pris pour l'application de l'article 130 du code minier), lorsque la superficie d'exploitation est supérieure à 1 000 m² ou lorsque la quantité de matériaux à extraire est supérieure à
-
-2 000 t par an
+4. Exploitation, en vue de leur utilisation, des masses constituées par des haldes et terrils de mines et par les déchets d'exploitation de carrières (à l'exception des cas visés à l'article 1er du décret n° 79-1109 du 20 décembre 1979 pris pour l'application de l'article 130 du code minier), lorsque la superficie d'exploitation est supérieure à 1 000 m² ou lorsque la quantité de matériaux à extraire est supérieure à 2 000 t par an
 
 |
 
@@ -4425,6 +3789,8 @@ DC
 (1) A : autorisation, E : enregistrement, D : déclaration, S : servitude d'utilité publique, C : soumis au contrôle périodique prévu par l'article L. 512-11 du code de l'environnement.
 
 (2) Rayon d'affichage en kilomètres.
+
+Nota.-La valeur de QNS porte sur l'ensemble des substances radioactives mentionnées à la rubrique 1700 autres que celles mentionnées à la rubrique 1735 susceptibles d'être présentes dans l'installation. Elle est calculée suivant les modalités mentionnées à l'annexe 13-8 de la première partie du code de la santé publique.
 
 Décret n° 2013-1301 du 27 décembre 2013 art. 2 : La rubrique 2102 qui entre en vigueur le jour de la publication de l'arrêté ministériel fixant les prescriptions générales applicables aux installations relevant du régime de l'enregistrement dans ces deux rubriques.
 
