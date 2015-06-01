@@ -104,9 +104,7 @@ Corps des systèmes d'information et de communication
 
 |
 
-Ingénieur des systèmes d'information et de communication du ministère de l'intérieur
-
-|
+Ingénieur des systèmes d'information et de communication |
 
 Concours réservé
 
