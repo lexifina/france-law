@@ -138,7 +138,9 @@ La puissance installée des installations, étant :
 
 |
 
-a) Supérieure à 350 kW |
+a) Supérieure à 350 kW
+
+|
 
 E
 
@@ -240,7 +242,9 @@ A
 
 |
 
-2. Supérieure à 10 000 m2 mais inférieure ou égale à 30 000 m2.
+2. Supérieure à 10 000 m2
+
+mais inférieure ou égale à 30 000 m2.
 
 |
 
@@ -452,7 +456,9 @@ D
 
 |
 
-Installation de fabrication de produits en béton par procédé mécanique. La puissance installée du matériel de malaxage et de vibration, étant :
+Installation de fabrication de produits en béton par procédé mécanique. La
+
+puissance installée du matériel de malaxage et de vibration, étant :
 
 |
 
@@ -1390,7 +1396,9 @@ La quantité de produit mise en œuvre dans le procédé étant :
 
 |
 
-E |
+E
+
+|
 
 |
 
@@ -1525,16 +1533,6 @@ DC
 |
 
 (3) Un procédé est considéré comme sous-vide si, en fonctionnement normal, un vide complet est effectué avant toute ouverture de la machine et s'il n'y a aucune manipulation manuelle des produits y compris pendant les opérations de remplissage et d'élimination.
-
-|
-
-|
-
-|
-
-|
-
-|
 
 |
 
@@ -1744,9 +1742,13 @@ a) Supérieure à 2 000 l
 
 |
 
-A |
+A
 
-1 |
+|
+
+1
+
+|
 
 |
 
@@ -1818,9 +1820,13 @@ a) Supérieur à 1 000 l
 
 |
 
-A |
+A
 
-1 |
+|
+
+1
+
+|
 
 |
 
@@ -1830,7 +1836,9 @@ b) Supérieur à 100 l, mais inférieur ou égal à 1 000 l
 
 |
 
-DC |
+DC
+
+|
 
 |
 
@@ -1854,9 +1862,13 @@ a) Supérieure à 200 kg/ jour
 
 |
 
-A |
+A
 
-1 |
+|
+
+1
+
+|
 
 |
 
@@ -1975,56 +1987,6 @@ D
 |
 
 |
-
-|
-
-2610
-
-|
-
-Engrais simples ou composés à base de phosphore, d'azote ou de potassium (fabrication industrielle par transformation chimique d').
-
-|
-
-A
-
-|
-
-3
-
-|
-
-La capacité nominale de production étant :
-
-|
-
-|
-
-|
-
-|
-
-|
-
-a) Supérieure ou égale à 200 t/j
-
-|
-
-6
-
-|
-
-|
-
-|
-
-|
-
-b) Supérieure à 50 t/j, mais inférieure à 200 t/j
-
-|
-
-2
 
 |
 
@@ -2738,7 +2700,7 @@ On entend par utilisation au sens de la présente rubrique toute opération ou e
 
 |
 
-Micro-organismes naturels pathogènes (mise en œuvre dans des installations de production industrielle)
+Micro-organismes naturels pathogènes (mise en oeuvre dans des installations de production industrielle)
 
 |
 
@@ -3270,35 +3232,7 @@ DC
 
 |
 
-Installation de transit, regroupement ou tri de déchets contenant des substances dangereuses ou préparations dangereuses mentionnées à l'article R. 511-10 du code de l'environnement, à l'exclusion des installations visées aux rubriques 2710, 2711, 2712, 2719 et 2793.
-
-|
-
-|
-
-|
-
-|
-
-|
-
-1. La quantité des substances dangereuses ou préparations dangereuses susceptible d'être présente dans l'installation étant supérieure ou égale aux seuils AS des rubriques d'emploi ou de stockage de ces substances ou préparations
-
-|
-
-AS
-
-|
-
-2
-
-|
-
-|
-
-|
-
-2. La quantité des substances dangereuses ou préparations dangereuses susceptible d'être présente dans l'installation étant inférieure aux seuils AS et supérieure ou égale aux seuils A des rubriques d'emploi ou de stockage de ces substances ou préparations
+Installations de transit, regroupement ou tri de déchets contenant des substances ou mélanges dangereux mentionnés à l'article R. 511-10, à l'exclusion des installations visées aux rubriques 2710,2711,2712,2719 et 2793
 
 |
 
@@ -3307,6 +3241,18 @@ A
 |
 
 2
+
+|
+
+|
+
+|
+
+La quantité des substances ou mélanges dangereux susceptible d'être présente dans l'installation étant supérieures ou égales aux seuils A des rubriques d'emploi ou de stockage de ces substances ou mélanges.
+
+|
+
+|
 
 |
 
@@ -3332,7 +3278,9 @@ La quantité susceptible d'être présente étant :
 
 |
 
-1. Supérieure ou égale à 50 t |
+1. Supérieure ou égale à 50 t
+
+|
 
 10
 
@@ -3344,7 +3292,9 @@ La quantité susceptible d'être présente étant :
 
 |
 
-2. Inférieure à 50 t |
+2. Inférieure à 50 t
+
+|
 
 3
 
@@ -3426,7 +3376,9 @@ DC
 
 |
 
-a) Supérieure ou égale à 50 t |
+a) Supérieure ou égale à 50 t
+
+|
 
 6
 
@@ -3452,7 +3404,9 @@ b) Supérieure ou égale à 1 t et inférieure à 50 t
 
 |
 
-2. Non soumis à la taxe |
+2. Non soumis à la taxe
+
+|
 
 -
 
@@ -3698,7 +3652,7 @@ A
 
 |
 
-Installation de stockage de déchets autre que celles mentionnées à la rubrique 2720
+Installation de stockage de déchets autres que celles mentionnées à la rubrique 2720
 
 |
 
@@ -3712,21 +3666,15 @@ Quels que soient les déchets stockés :
 
 |
 
-1. Installation de stockage de déchets dangereux ;
-
-2. Installation de stockage de déchets non dangereux autres que celles mentionnées au 3.
+1. Installations de stockage de déchets dangereux autres que celles mentionnées au 4
 
 |
-
-A
 
 A
 
 |
 
 2
-
-1
 
 |
 
@@ -3738,9 +3686,15 @@ a) La capacité journalière autorisée étant supérieure ou égale à 10 t/j o
 
 |
 
-|
+2. Installations de stockage de déchets non dangereux autres que celles mentionnées au 3
 
 |
+
+A
+
+|
+
+1
 
 |
 
@@ -3752,9 +3706,41 @@ b) La capacité journalière autorisée étant inférieure à 10 t/j et la capac
 
 |
 
-3. Installations de stockage de déchets inertes |
+3. Installations de stockage de déchets inertes.
 
-E |
+|
+
+E
+
+|
+
+|
+
+|
+
+|
+
+4. Installations de stockage temporaire de déchets de mercure métallique
+
+|
+
+A
+
+|
+
+2
+
+|
+
+|
+
+|
+
+Pour la rubrique 2760-4 : Quantité seuil bas au sens de l'article R. 511-10 : 50 t. Quantité seuil haut au sens de l'article R. 511-10 : 200 t.
+
+|
+
+|
 
 |
 
@@ -3766,7 +3752,7 @@ E |
 
 |
 
-Installation de traitement thermique de déchets dangereux ou de déchets contenant des substances dangereuses ou préparations dangereuses mentionnées à l'article R. 511-10 du code de l'environnement à l'exclusion des installations visées à la rubrique 2793.
+Installations de traitement thermique de déchets dangereux ou de déchets contenant des substances ou mélanges dangereux mentionnés à l'article R. 511-10, à l'exclusion des installations visées à la rubrique 2793.
 
 |
 
@@ -3778,7 +3764,15 @@ Installation de traitement thermique de déchets dangereux ou de déchets conten
 
 |
 
-1. Les déchets destinés à être traités contenant des substances dangereuses ou préparations dangereuses mentionnées à l'article R. 511-10 du code de l'environnement.
+1. Déchets destinés à être traités contenant des substances ou mélanges dangereux mentionnés à l'article R. 511-10
+
+|
+
+A
+
+|
+
+2
 
 |
 
@@ -3786,19 +3780,15 @@ Installation de traitement thermique de déchets dangereux ou de déchets conten
 
 |
 
-|
+2. Déchets destinés à être traités ne contenant pas de substances ou mélanges dangereux mentionnés à l'article R. 511-10
 
 |
 
-a) La quantité de substances dangereuses ou préparations dangereuses susceptible d'être présente dans l'installation étant supérieure ou égale aux seuils AS des rubriques d'emploi ou de stockage de ces substances ou préparations
+A
 
 |
 
-AS
-
-|
-
-3
+2
 
 |
 
@@ -3808,15 +3798,9 @@ AS
 
 |
 
-b) La quantité de substances dangereuses ou préparations dangereuses susceptible d'être présente dans l'installation étant inférieure aux seuils AS des rubriques d'emploi ou de stockage de ces substances ou préparations
-
 |
 
-A
-
 |
-
-2
 
 |
 
@@ -3826,15 +3810,9 @@ A
 
 |
 
-2. Les déchets destinés à être traités ne contenant pas les substances dangereuses ou préparations dangereuses mentionnés à l'article R. 511-10 du code de l'environnement
-
 |
 
-A
-
 |
-
-2
 
 |
 
@@ -3882,7 +3860,9 @@ La capacité de traitement étant :
 
 |
 
-1. Supérieure ou égale à 3 t/h |
+1. Supérieure ou égale à 3 t/h
+
+|
 
 6
 
@@ -3894,7 +3874,9 @@ La capacité de traitement étant :
 
 |
 
-2. Inférieure à 3 t/h |
+2. Inférieure à 3 t/h
+
+|
 
 3
 
@@ -4078,17 +4060,7 @@ Installations de méthanisation de déchets non dangereux ou de matière végét
 
 1. Méthanisation de matière végétale brute, effluents d'élevage, matières stercoraires, lactosérum et déchets végétaux d'industries agroalimentaires :
 
-|
-
-|
-
-|
-
-|
-
-|
-
-a) La quantité de matières traitées étant supérieure ou égale à 60 t/ j
+a) La quantité de matières traitées étant supérieure ou égale à 60 t/j
 
 |
 
@@ -4104,7 +4076,7 @@ A
 
 |
 
-b) La quantité de matières traitées étant supérieure ou égale à 30 t/ j et inférieure à 60 t/ j
+b) La quantité de matières traitées étant supérieure ou égale à 30 t/j et inférieure à 60 t/j
 
 |
 
@@ -4118,7 +4090,7 @@ E
 
 |
 
-c) La quantité de matières traitées étant inférieure à 30 t/ j
+c) La quantité de matières traitées étant inférieure à 30 t/j
 
 |
 
@@ -4212,7 +4184,7 @@ b) Inférieure à 50 t/j
 
 |
 
-Installation de traitement de déchets dangereux ou de déchets contenant des substances dangereuses ou préparations dangereuses mentionnées à l'article R. 511-10 du code de l'environnement, à l'exclusion des installations visées aux rubriques 2720, 2760, 2770 et 2793.
+Installations de traitement de déchets dangereux ou de déchets contenant des substances ou mélanges dangereux mentionnés à l'article R. 511-10, à l'exclusion des installations visées aux rubriques 2720,2760,2770 et 2793.
 
 |
 
@@ -4224,7 +4196,15 @@ Installation de traitement de déchets dangereux ou de déchets contenant des su
 
 |
 
-1. Les déchets destinés à être traités contenant des substances dangereuses ou préparations dangereuses mentionnées à l'article R. 511-10 du code de l'environnement.
+1. Déchets destinés à être traités contenant des substances ou mélanges dangereux mentionnés à l'article R. 511-10
+
+|
+
+A
+
+|
+
+2
 
 |
 
@@ -4232,19 +4212,15 @@ Installation de traitement de déchets dangereux ou de déchets contenant des su
 
 |
 
-|
+2. Déchets destinés à être traités ne contenant pas de substances ou mélanges dangereux mentionnés à l'article R. 511-10
 
 |
 
-a) La quantité de substances dangereuses ou préparations dangereuses susceptible d'être présente dans l'installation étant supérieure ou égale aux seuils AS des rubriques d'emploi ou de stockage de ces substances ou préparations
+A
 
 |
 
-AS
-
-|
-
-3
+2
 
 |
 
@@ -4254,15 +4230,9 @@ AS
 
 |
 
-b) La quantité de substances dangereuses ou préparations dangereuses susceptible d'être présente dans l'installation étant inférieure aux seuils AS des rubriques d'emploi ou de stockage de ces substances ou préparations
-
 |
 
-A
-
 |
-
-2
 
 |
 
@@ -4272,15 +4242,9 @@ A
 
 |
 
-2. Les déchets destinés à être traités ne contenant pas les substances dangereuses ou préparations dangereuses mentionnées à l'article R. 511-10 du code de l'environnement
-
 |
 
-A
-
 |
-
-2
 
 |
 
@@ -4406,7 +4370,7 @@ b) Supérieure ou égale à 10 t/j et inférieure à 50 t/j
 
 |
 
-1. Installations de transit, tri, regroupement de déchets contenant des PCB/PCT à une concentration supérieure à 50 ppm :
+1. Installations de transit, tri, regroupement de déchets contenant des PCB/ PCT à une concentration supérieure à 50 ppm.
 
 |
 
@@ -4418,23 +4382,7 @@ b) Supérieure ou égale à 10 t/j et inférieure à 50 t/j
 
 |
 
-a) La quantité de fluide contenant des PCB/PCT susceptible d'être présente est supérieure ou égale à 200 t
-
-|
-
-AS
-
-|
-
-4
-
-|
-
-|
-
-|
-
-b) La quantité de fluide contenant des PCB/PCT susceptible d'être présente est supérieure ou égale à 2 t et inférieure à 200 t
+a) La quantité de fluide contenant des PCB/ PCT susceptible d'être présente est supérieure à 2 t
 
 |
 
@@ -4450,7 +4398,7 @@ A
 
 |
 
-c) La quantité de fluide contenant des PCB/PCT susceptible d'être présente est inférieure à 2 t
+b) La quantité de fluide contenant des PCB/ PCT susceptible d'être présente est inférieure à 2 t
 
 |
 
@@ -4464,35 +4412,7 @@ DC
 
 |
 
-2. Installations de traitement, y compris les installations de décontamination, des déchets contenant des PCB/PCT à une concentration supérieure à 50 ppm, hors installations mobiles de décontamination :
-
-|
-
-|
-
-|
-
-|
-
-|
-
-a) La quantité de fluide contenant des PCB/PCT susceptible d'être présente est supérieure ou égale à 200 t
-
-|
-
-AS
-
-|
-
-4
-
-|
-
-|
-
-|
-
-b) La quantité de fluide contenant des PCB/PCT susceptible d'être présente est inférieure à 200 t
+2. Installations de traitement, y compris les installations de décontamination, des déchets contenant des PCB/ PCT à une concentration supérieure à 50 ppm, hors installations mobiles de décontamination
 
 |
 
@@ -4508,15 +4428,11 @@ A
 
 |
 
-Nota. - La concentration en PCB/PCT s'exprime en PCB totaux.
+Nota. - La concentration en PCB/ PCT s'exprime en PCB totaux.
 
-|
+Quantité seuil bas au sens de l'article R. 511-10 : 100 t.
 
-|
-
-|
-
-|
+Quantité seuil haut au sens de l'article R. 511-10 : 200 t.
 
 |
 
@@ -4524,7 +4440,7 @@ Nota. - La concentration en PCB/PCT s'exprime en PCB totaux.
 
 |
 
-Installation de collecte, transit, regroupement, tri ou autre traitement de déchets de produits explosifs (*) (hors des lieux de découverte).
+Installation de collecte, transit, regroupement, tri ou autre traitement de déchets de produits explosifs (1) (hors des lieux de découverte).
 
 |
 
@@ -4536,9 +4452,7 @@ Installation de collecte, transit, regroupement, tri ou autre traitement de déc
 
 |
 
-1. Installation de collecte de déchets de produits explosifs (*) apportés par le producteur initial de ces déchets.
-
-La quantité équivalente totale de matière active (**) susceptible d'être présente dans l'installation étant :
+1. Installation de collecte de déchets de produits explosifs apportés par le producteur initial de ces déchets.
 
 |
 
@@ -4554,15 +4468,7 @@ La quantité équivalente totale de matière active (**) susceptible d'être pr�
 
 |
 
-a) Supérieure à 10 t
-
-|
-
-AS
-
-|
-
-6
+La quantité équivalente totale de matière active (2) susceptible d'être présente dans l'installation étant :
 
 |
 
@@ -4570,7 +4476,11 @@ AS
 
 |
 
-b) Supérieure à 100 kg mais inférieure ou égale à 10 t
+|
+
+|
+
+a) Supérieure ou égale à 100 kg
 
 |
 
@@ -4586,7 +4496,7 @@ A
 
 |
 
-c) Supérieure à 30 kg mais inférieure ou égale à 100 kg lorsque seuls des déchets relevant des divisions de risque 1.3 et 1.4 sont stockés dans l'installation
+b) Supérieure à 30 kg mais inférieure ou égale à 100 kg lorsque seuls des déchets relevant des divisions de risque 1.3 et 1.4 sont stockés dans l'installation
 
 |
 
@@ -4600,11 +4510,13 @@ DC
 
 |
 
-d) Inférieure ou égale à 100 kg dans les autres cas
+c) Inférieure ou égale à 100 kg dans les autres cas
 
 |
 
-DC |
+DC
+
+|
 
 |
 
@@ -4614,7 +4526,7 @@ DC |
 
 2. Installation de transit, regroupement ou tri de déchets de produits explosifs.
 
-La quantité équivalente totale de matière active (**) susceptible d'être présente dans l'installation étant :
+La quantité équivalente totale de matière active (2) susceptible d'être présente dans l'installation étant :
 
 |
 
@@ -4628,25 +4540,7 @@ La quantité équivalente totale de matière active (**) susceptible d'être pr�
 
 |
 
-a) Supérieure à 10 t |
-
-AS
-
-|
-
-6
-
-|
-
-a) Supérieure à 10 t
-
-|
-
-6
-
-|
-
-b) Supérieure à 100 kg mais inférieure ou égale à 10 t
+a) Supérieure ou égale à 100 kg
 
 |
 
@@ -4658,6 +4552,24 @@ A
 
 |
 
+a) Supérieure à 10 t
+
+|
+
+6
+
+|
+
+b) Inférieure ou égale à 100 kg
+
+|
+
+DC
+
+|
+
+|
+
 b) Supérieure à 100 kg mais inférieure ou égale à 10 t
 
 |
@@ -4666,11 +4578,9 @@ b) Supérieure à 100 kg mais inférieure ou égale à 10 t
 
 |
 
-c) Inférieure ou égale à 100 kg
-
 |
 
-DC |
+|
 
 |
 
@@ -4682,9 +4592,7 @@ c) Non soumis à la taxe
 
 |
 
-3. Autre installation de traitement de déchets de produits explosifs (*) (mettant en œuvre un procédé autre que ceux mentionnés aux 1 et 2).
-
-La quantité équivalente totale de matière active (**) susceptible d'être présente dans l'installation étant :
+3. Autre installation de traitement de déchets de produits explosifs (mettant en œuvre un procédé autre que ceux mentionnés aux 1 et 2).
 
 |
 
@@ -4700,15 +4608,15 @@ La quantité équivalente totale de matière active susceptible d'être présent
 
 |
 
-a) Supérieure à 10 t
+La quantité équivalente totale de matière active (2) susceptible d'être présente dans l'installation étant inférieure ou égale à 10 t
 
 |
 
-AS
+A
 
 |
 
-6
+3
 
 |
 
@@ -4720,13 +4628,11 @@ a) Supérieure à 10 t
 
 |
 
-b) Inférieure ou égale à 10 t
+|
 
 |
 
-A |
-
-3 |
+|
 
 b) Inférieure ou égale à 10 t
 
@@ -4736,53 +4642,17 @@ b) Inférieure ou égale à 10 t
 
 |
 
-Nota. - (*) Les produits explosifs sont définis comme appartenant à la classe 1 des recommandations des Nations unies relatives au transport des marchandises dangereuses, et destinés à être utilisés pour les effets de leur explosion ou leurs effets pyrotechniques. Ils sont classés en divisions de risque et en groupes de compatibilité par arrêté ministériel.
+Nota :
 
-(**) La quantité équivalente totale de matière active est établie selon la formule :
+(1) Les produits explosifs sont définis comme appartenant à la classe 1 des recommandations des Nations unies relatives au transport des marchandises dangereuses, et destinés à être utilisés pour les effets de leur explosion ou leurs effets pyrotechniques. Ils sont classés en divisions de risque et en groupes de compatibilité par arrêté ministériel.
 
-Quantité équivalente totale = A + B + C/3+ D/5 + E + F
+(2) La quantité équivalente totale de matière active est établie selon la formule :
 
-A représentant la quantité relative aux déchets classés en division de risque 1.1, aux déchets n'étant pas en emballages fermés conformes aux dispositions réglementaires en matière de transport ainsi qu'aux déchets refusés lors de la procédure d'acceptation en classe 1.
+Quantité équivalente totale = A + B + C/3 + D/5 + E + F/3
+
+A représentant la quantité relative aux déchets classés en division de risque 1.1, aux déchets n'étant pas en emballages fermés conformes aux dispositions réglementaires en matière de transport ainsi qu'aux déchets refusés lors de la procédure d'acceptation en classe 1 ;
 
 B, C, D, E, F représentant respectivement les quantités relatives aux déchets classés en division de risque 1.2, 1.3, 1.4, 1.5 et 1.6 lorsque ceux-ci sont en emballages fermés conformes aux dispositions réglementaires en matière de transport.
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
 
 |
 
@@ -4790,7 +4660,7 @@ B, C, D, E, F représentant respectivement les quantités relatives aux déchets
 
 |
 
-Installation de lavage de fûts, conteneurs et citernes de transport de matières alimentaires, de matières dangereuses au sens de la rubrique 1000 de la nomenclature des installations classées ou de déchets dangereux
+Installations de lavage de fûts, conteneurs et citernes de transport de matières alimentaires, de substances ou mélanges dangereux mentionnés à l'article R. 511-10, ou de déchets dangereux.
 
 |
 
@@ -4814,7 +4684,7 @@ La quantité d'eau mise en œuvre étant :
 
 |
 
-1. Supérieure ou égale à 20 m³/j ;
+a) Supérieure ou égale à 20 m ³/ j
 
 |
 
@@ -4830,7 +4700,7 @@ A
 
 |
 
-2. Inférieure à 20 m³/j.
+b) Inférieure à 20 m ³/ j
 
 |
 
@@ -5078,9 +4948,13 @@ a) En cas d'utilisation de biomasse telle que définie au b (ii) ou au b (iii) o
 
 |
 
-b) Dans les autres cas |
+b) Dans les autres cas
 
-A |
+|
+
+A
+
+|
 
 3
 
@@ -5794,7 +5668,7 @@ DC
 
 |
 
-Nota. - Le régime de classement est déterminé par rapport à la quantité de produits mise en oeuvre dans l'installation en tenant compte des coefficients ci-après. Les quantités de produits à base de liquides inflammables de 1re catégorie (point éclair inférieur à 55 oC) ou de liquides halogénés, dénommées A, sont affectées d'un coefficient 1. Les quantités de produits à base de liquides inflammables de 2e catégorie (point éclair supérieur ou égal à 55 oC) ou contenant moins de 10 % de solvants organiques au moment de l'emploi, dénommées B, sont affectées d'un coefficient 1/2. Si plusieurs produits de catégories différentes sont utilisés, la quantité Q retenue pour le classement sera égale à : Q = A + B/2.
+Nota. - Le régime de classement est déterminé par rapport à la quantité de produits mise en œuvre dans l'installation en tenant compte des coefficients ci-après. Les quantités de produits à base de liquides inflammables de 1re catégorie (point éclair inférieur à 55 oC) ou de liquides halogénés, dénommées A, sont affectées d'un coefficient 1. Les quantités de produits à base de liquides inflammables de 2e catégorie (point éclair supérieur ou égal à 55 oC) ou contenant moins de 10 % de solvants organiques au moment de l'emploi, dénommées B, sont affectées d'un coefficient 1/2. Si plusieurs produits de catégories différentes sont utilisés, la quantité Q retenue pour le classement sera égale à : Q = A + B/2.
 
 |
 
@@ -5938,7 +5812,7 @@ Stockage géologique de dioxyde de carbone à des fins de lutte contre le récha
 
 |
 
-AS
+A
 
 |
 
@@ -6074,9 +5948,13 @@ Raffinage de pétrole et de gaz
 
 |
 
-A |
+A
 
-3 |
+|
+
+3
+
+|
 
 |
 
@@ -6090,9 +5968,13 @@ Production de coke
 
 |
 
-A |
+A
 
-3 |
+|
+
+3
+
+|
 
 |
 
@@ -6118,9 +6000,13 @@ a) Charbon
 
 |
 
-A |
+A
 
-3 |
+|
+
+3
+
+|
 
 |
 
@@ -6150,9 +6036,13 @@ Grillage ou frittage de minerai métallique, y compris de minerai sulfuré
 
 |
 
-A |
+A
 
-3 |
+|
+
+3
+
+|
 
 |
 
@@ -7510,14 +7400,2712 @@ A
 
 |
 
-(1) A : autorisation, E : enregistrement, D : déclaration, S : servitude d'utilité publique, C : soumis au contrôle périodique prévu par l'article L. 512-11 du code de l'environnement.
+4000
+
+|
+
+Substances et mélanges dangereux (définition et classification des).
+
+Définitions :
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Les termes "substances" et "mélanges" sont définis à l'article 2 du règlement (CE) n° 1272/2008relatif à la classification, l'étiquetage et l'emballage des substances et mélanges.
+
+Dans le cas des produits qui ne sont pas couverts par lerèglement (CE) n° 1272/2008, y compris les déchets, et qui sont néanmoins présents ou susceptibles d'être présents dans un établissement et qui présentent ou sont susceptibles de présenter, dans les conditions régnant dans l'établissement, des propriétés équivalentes pour ce qui est de leur potentiel d'accident majeur, ces produits doivent être affectés aux classes, catégories et mentions de danger les plus proches ou de la substance ou du mélange dangereux désigné le plus proche. Ils sont assimilés à des substances ou mélanges dangereux au sens de la présente rubrique.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+On entend par produits explosibles les substances, mélanges ou matières présentant un danger d'explosion déterminé selon la méthode A. 14 durèglement (CE) n° 440/2008 et qui ne relèvent pas de la classe des peroxydes organiques ou substances et mélanges autoréactifs ainsi que les objets contenant de telles substances, mélanges ou matières relevant de lasection 2.1 de l'annexe I du règlement (CE) n° 1272/2008. De plus, on entend par produits explosifs les produits explosibles affectés à la classe 1 des recommandations des Nations unies relatives au transport de marchandises dangereuses et qui sont destinés à être utilisés pour les effets de leur explosion ou leurs effets pyrotechniques.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Le terme "gaz" désigne toute substance dont la pression de vapeur absolue est égale ou supérieure à 101,3 kPa à une température de 20 °C.
+
+Le terme "liquide" désigne toute substance qui n'est pas définie comme étant un gaz et qui ne se trouve pas à l'état solide à une température de 20 °C et à une pression normale de 101,3 kPa
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Classification :
+
+a) Substances :
+
+Les classes et catégories de danger sont définies à l'annexe I, parties 2, 3 et 4, du règlement (CE) n° 1272/2008relatif à la classification, l'étiquetage et l'emballage des substances et des mélanges.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Les substances présentant ces dangers, mais ne figurant pas encore à l'annexe VI du règlement (CE) n° 1272/2008 susmentionné sont classées et étiquetées par leurs fabricants, distributeurs ou importateurs en fonction des informations sur leurs propriétés physico-chimiques ou toxicologiques pertinentes et accessibles existantes.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+b) Mélanges :
+
+Le classement des mélanges dangereux résulte :
+
+- du classement des substances dangereuses qu'ils contiennent et de la concentration de celles-ci ;
+
+- du type de mélange.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Les mélanges dangereux sont classés suivant lerèglement (CE) n° 440/2008 établissant des méthodes d'essai, tel que spécifié à l'article 13, paragraphe 3, du règlement (CE) n° 1907/2006 concernant l'enregistrement, l'évaluation et l'autorisation des substances chimiques ainsi que les restrictions applicables à ces substances.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Les mélanges sont assimilés à des substances pures pour autant que les limites de concentration fixées en fonction de leurs propriétés dans lerèglement (CE) n° 1272/2008, ou sa dernière adaptation au progrès technique soient respectées, à moins qu'une composition du pourcentage ou une autre description ne soit spécifiquement donnée
+
+|
+
+|
+
+|
+
+|
+
+|
+
+4001
+
+|
+
+Installations présentant un grand nombre de substances ou mélanges dangereux et vérifiant la règle de cumul seuil bas ou la règle de cumul seuil haut mentionnées au II de l'article R. 511-11
+
+|
+
+A
+
+|
+
+1
+
+|
+
+|
+
+|
+
+4110
+
+|
+
+Toxicité aiguë catégorie 1 pour l'une au moins des voies d'exposition, à l'exclusion del'uranium et ses composés.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1. Substances et mélanges solides.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+La quantité totale susceptible d'être présente dans l'installation étant :
+
+|
+
+|
+
+|
+
+|
+
+|
+
+a) Supérieure ou égale à 1 t
+
+|
+
+A
+
+|
+
+1
+
+|
+
+|
+
+|
+
+b) Supérieure ou égale à 200 kg, mais inférieure à 1 t
+
+|
+
+DC
+
+|
+
+|
+
+|
+
+|
+
+2. Substances et mélanges liquides.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+La quantité totale susceptible d'être présente dans l'installation étant :
+
+|
+
+|
+
+|
+
+|
+
+|
+
+a) Supérieure ou égale à 250 kg
+
+|
+
+A
+
+|
+
+1
+
+|
+
+|
+
+|
+
+b) Supérieure ou égale à 50 kg, mais inférieure à 250 kg
+
+|
+
+DC
+
+|
+
+|
+
+|
+
+|
+
+3. Gaz ou gaz liquéfiés.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+La quantité totale susceptible d'être présente dans l'installation étant :
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Supérieure ou égale à 50 kg
+
+|
+
+A
+
+|
+
+3
+
+|
+
+|
+
+|
+
+Supérieure ou égale à 10 kg, mais inférieure à 50 kg
+
+|
+
+DC
+
+|
+
+|
+
+|
+
+|
+
+Quantité seuil bas au sens de l'article R. 511-10 : 5 t.
+
+Quantité seuil haut au sens de l'article R. 511-10 : 20 t.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+4120
+
+|
+
+Toxicité aiguë catégorie 2, pour l'une au moins des voies d'exposition.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1. Substances et mélanges solides.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+La quantité totale susceptible d'être présente dans l'installation étant :
+
+|
+
+|
+
+|
+
+|
+
+|
+
+a) Supérieure ou égale à 50 t
+
+|
+
+A
+
+|
+
+1
+
+|
+
+|
+
+|
+
+b) Supérieure ou égale à 5 t, mais inférieure à 50 t
+
+|
+
+D
+
+|
+
+|
+
+|
+
+|
+
+2. Substances et mélanges liquides.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+La quantité totale susceptible d'être présente dans l'installation étant :
+
+|
+
+|
+
+|
+
+|
+
+|
+
+a) Supérieure ou égale à 10 t
+
+|
+
+A
+
+|
+
+1
+
+|
+
+|
+
+|
+
+b) Supérieure ou égale à 1 t, mais inférieure à 10 t
+
+|
+
+D
+
+|
+
+|
+
+|
+
+|
+
+3. Gaz ou gaz liquéfiés.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+La quantité totale susceptible d'être présente dans l'installation étant :
+
+|
+
+|
+
+|
+
+|
+
+|
+
+a) Supérieure ou égale à 2 t
+
+|
+
+A
+
+|
+
+3
+
+|
+
+|
+
+|
+
+b) Supérieure ou égale à 200 kg, mais inférieure à 2 t
+
+|
+
+D
+
+|
+
+|
+
+|
+
+|
+
+Quantité seuil bas au sens de l'article R. 511-10 : 50 t.
+
+Quantité seuil haut au sens de l'article R. 511-10 : 200 t.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+4130
+
+|
+
+Toxicité aiguë catégorie 3 pour les voies d'exposition par inhalation.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1. Substances et mélanges solides.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+La quantité totale susceptible d'être présente dans l'installation étant :
+
+|
+
+|
+
+|
+
+|
+
+|
+
+a) Supérieure ou égale à 50 t
+
+|
+
+A
+
+|
+
+1
+
+|
+
+|
+
+|
+
+b) Supérieure ou égale à 5 t, mais inférieure à 50 t
+
+|
+
+D
+
+|
+
+|
+
+|
+
+|
+
+2. Substances et mélanges liquides.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+La quantité totale susceptible d'être présente dans l'installation étant :
+
+|
+
+|
+
+|
+
+|
+
+|
+
+a) Supérieure ou égale à 10 t
+
+|
+
+A
+
+|
+
+1
+
+|
+
+|
+
+|
+
+b) Supérieure ou égale à 1 t, mais inférieure à 10 t
+
+|
+
+D
+
+|
+
+|
+
+|
+
+|
+
+3. Gaz ou gaz liquéfiés.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+La quantité totale susceptible d'être présente dans l'installation étant :
+
+|
+
+|
+
+|
+
+|
+
+|
+
+a) Supérieure ou égale à 2 t
+
+|
+
+A
+
+|
+
+3
+
+|
+
+|
+
+|
+
+b) Supérieure ou égale à 200 kg, mais inférieure à 2 t
+
+|
+
+D
+
+|
+
+|
+
+|
+
+|
+
+Quantité seuil bas au sens de l'article R. 511-10 : 50 t.
+
+Quantité seuil haut au sens de l'article R. 511-10 : 200 t.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+4140
+
+|
+
+Toxicité aiguë catégorie 3 pour la voie d'exposition orale (H301) dans le cas où ni la classification de toxicité aiguë par inhalation ni la classification de toxicité aiguë par voie cutanée ne peuvent être établies, par exemple en raison de l'absence de données de toxicité par inhalation et par voie cutanée concluantes.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1. Substances et mélanges solides.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+La quantité totale susceptible d'être présente dans l'installation étant :
+
+|
+
+|
+
+|
+
+|
+
+|
+
+a) Supérieure ou égale à 50 t
+
+|
+
+A
+
+|
+
+1
+
+|
+
+|
+
+|
+
+b) Supérieure ou égale à 5 t, mais inférieure à 50 t
+
+|
+
+D
+
+|
+
+|
+
+|
+
+|
+
+2. Substances et mélanges liquides.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+La quantité totale susceptible d'être présente dans l'installation étant :
+
+|
+
+|
+
+|
+
+|
+
+|
+
+a) Supérieure ou égale à 10 t
+
+|
+
+A
+
+|
+
+1
+
+|
+
+|
+
+|
+
+b) Supérieure ou égale à 1 t, mais inférieure à 10 t
+
+|
+
+D
+
+|
+
+|
+
+|
+
+|
+
+3. Gaz ou gaz liquéfiés.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+La quantité totale susceptible d'être présente dans l'installation étant :
+
+|
+
+|
+
+|
+
+|
+
+|
+
+a) Supérieure ou égale à 2 t
+
+|
+
+A
+
+|
+
+3
+
+|
+
+|
+
+|
+
+b) Supérieure ou égale à 200 kg, mais inférieure à 2 t
+
+|
+
+D
+
+|
+
+|
+
+|
+
+|
+
+Quantité seuil bas au sens de l'article R. 511-10 : 50 t.
+
+Quantité seuil haut au sens de l'article R. 511-10 : 200 t.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+4150
+
+|
+
+Toxicité spécifique pour certains organes cibles (STOT) exposition unique catégorie 1.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+La quantité totale susceptible d'être présente dans l'installation étant :
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1. Supérieure ou égale à 20 t
+
+|
+
+A
+
+|
+
+1
+
+|
+
+|
+
+|
+
+2. Supérieure ou égale à 5 t, mais inférieure à 20 t
+
+|
+
+D
+
+|
+
+|
+
+|
+
+|
+
+Quantité seuil bas au sens de l'article R. 511-10 : 50 t.
+
+Quantité seuil haut au sens de l'article R. 511-10 : 200 t.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+4210
+
+|
+
+Produits explosifs (fabrication [1], chargement, encartouchage, conditionnement [2] de, études et recherches, essais, montage, assemblage, mise en liaison électrique ou pyrotechnique de, ou travail mécanique sur) à l'exclusion de la fabrication industrielle par transformation chimique ou biologique.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1. Fabrication (1), chargement, encartouchage, conditionnement (2) de, études et recherches, essais, montage, assemblage, mise en liaison électrique ou pyrotechnique de, ou travail mécanique sur, à l'exclusion de la fabrication industrielle par transformation chimique ou biologique et à l'exclusion des opérations effectuées sur le lieu d'utilisation en vue de celle-ci et des opérations effectuées en vue d'un spectacle pyrotechnique encadrées par les dispositions du décret n° 2010-580 du 31 mai 2010 relatif à l'acquisition, la détention et l'utilisation des artifices de divertissement et des articles pyrotechniques destinés au théâtre.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+La quantité totale de matière active (3) susceptible d'être présente dans l'installation étant :
+
+|
+
+|
+
+|
+
+|
+
+|
+
+a) Supérieure ou égale à 100 kg
+
+|
+
+A
+
+|
+
+3
+
+|
+
+|
+
+|
+
+b) Supérieur ou égale à 1 kg mais inférieure à 100 kg
+
+|
+
+DC
+
+|
+
+|
+
+|
+
+|
+
+2. Fabrication d'explosif en unité mobile.
+
+La quantité totale de matière active (4) susceptible d'être présente dans l'installation étant :
+
+|
+
+|
+
+|
+
+|
+
+|
+
+a) Supérieure ou égale à 100 kg
+
+|
+
+A
+
+|
+
+3
+
+|
+
+|
+
+|
+
+b) Inférieure à 100 kg
+
+|
+
+D
+
+|
+
+|
+
+|
+
+|
+
+Nota :
+
+(1) Les fabrications relevant de cette rubrique concernent les fabrications par procédé non chimique, c'est-à-dire par mélange physique de produits non explosifs ou non prévus pour être explosifs.
+
+(2) Les opérations de manipulation, manutention, conditionnement, reconditionnement, mise au détail ou distribution réalisées dans les espaces de vente des établissements recevant du public sont exclues.
+
+(3) La quantité de matière active à retenir tient compte des produits intermédiaires, des en-cours et des déchets dont la présence dans l'installation s'avère connexe à l'activité de fabrication.
+
+(4) La quantité de matière active à prendre en compte est la quantité d'explosif fabriqué susceptible d'être concernée par la transmission d'une détonation prenant naissance en son sein.
+
+Quantité seuil bas au sens de l'article R. 511-10 : 10 t.
+
+Quantité seuil haut au sens de l'article R. 511-10 : 10 t.
+
+|
+
+4220
+
+|
+
+Produits explosifs (stockage de), à l'exclusion desproduits explosifs présents dans les espaces de vente des établissements recevant du public.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+La quantité équivalente totale de matière active (1) susceptible d'être présente dans l'installation étant :
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1. Supérieure ou égale à 500 kg
+
+|
+
+A
+
+|
+
+3
+
+|
+
+|
+
+|
+
+2. Supérieure ou égale à 100 kg, mais inférieure à 500 kg
+
+|
+
+E
+
+|
+
+|
+
+|
+
+|
+
+3. Supérieure ou égale à 30 kg mais inférieure à 100 kg lorsque seuls des produits classés en division de risque 1.3 et 1.4 sont stockés dans l'installation
+
+|
+
+DC
+
+|
+
+|
+
+|
+
+|
+
+4. Inférieure à 100 kg dans les autres cas
+
+|
+
+DC
+
+|
+
+|
+
+|
+
+|
+
+Nota :
+
+(1) Les produits explosifs sont classés en divisions de risque et en groupes de compatibilité définis par arrêté ministériel.
+
+La quantité équivalente totale de matière active est établie selon la formule : A + B + C/3 + D/5 + E + F/3.
+
+A représentant la quantité relative aux produits classés en division de risque 1.1 ainsi que tous les produits lorsque ceux-ci ne sont pas en emballages fermés conformes aux dispositions réglementaires en matière de transport.
+
+B, C, D, E, F représentant respectivement les quantités relatives aux produits classés en division de risque 1.2, 1.3, 1.4, 1.5 et 1.6 lorsque ceux-ci sont en emballages fermés conformes aux dispositions réglementaires en matière de transport.
+
+Produits classés en divisions de risque 1.1, 1.2, 1.5 et en division de risque 1.4 lorsque les produits sont déballés ou réemballés :
+
+Quantité seuil bas au sens de l'article R. 511-10 : 10 t.
+
+Quantité seuil haut au sens de l'article R. 511-10 : 10 t.
+
+Produits classés en divisions de risque 1.3 et 1.6 :
+
+Quantité seuil bas au sens de l'article R. 511-10 : 10 t.
+
+Quantité seuil haut au sens de l'article R. 511-10 : 30 t.
+
+Autres produits classés en division de risque 1.4 :
+
+Quantité seuil bas au sens de l'article R. 511-10 : 50 t.
+
+Quantité seuil haut au sens de l'article R. 511-10 : 50 t.
+
+(Les quantités indiquées sont les quantités nettes totales de matière active.)
+
+|
+
+4240
+
+|
+
+Produits explosibles, à l'exclusion desproduits explosifs.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1. Produits explosibles affectés à la classe 1 des recommandations des Nations unies relatives au transport de marchandises dangereuses et autres produits explosibles lorsqu'ils ne sont pas en emballages fermés conformes aux dispositions réglementaires en matière de transport.
+
+La quantité totale de matière active susceptible d'être présente dans l'installation étant supérieure ou égale à 500 kg
+
+|
+
+A
+
+|
+
+5
+
+|
+
+|
+
+|
+
+2. Autres produits explosibles.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+La quantité totale de matière active susceptible d'être présente dans l'installation étant supérieure ou égale à 10 t
+
+|
+
+A
+
+|
+
+5
+
+|
+
+|
+
+|
+
+Quantité seuil bas au sens de l'article R. 511-10 : 10 t.
+
+Quantité seuil haut au sens de l'article R. 511-10 : 10. t
+
+|
+
+|
+
+|
+
+|
+
+|
+
+4310
+
+|
+
+Gaz inflammables catégorie 1 et 2.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+La quantité totale susceptible d'être présente dans les installations y compris dans les cavités souterraines étant :
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1. Supérieure ou égale à 10 t
+
+|
+
+A
+
+|
+
+2
+
+|
+
+|
+
+|
+
+2. Supérieure ou égale à 1 t et inférieure à 10 t
+
+|
+
+DC
+
+|
+
+|
+
+|
+
+|
+
+Quantité seuil bas au sens de l'article R. 511-10 : 10 t.
+
+Quantité seuil haut au sens de l'article R. 511-10 : 50 t.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+4320
+
+|
+
+Aérosols extrêmement inflammables ou inflammables de catégorie 1 ou 2 contenant des gaz inflammables de catégorie 1 ou 2 ou des liquides inflammables de catégorie 1.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+La quantité totale susceptible d'être présente dans l'installation étant :
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1. Supérieure ou égale à 150 t
+
+|
+
+A
+
+|
+
+2
+
+|
+
+|
+
+|
+
+2. Supérieure ou égale à 15 t et inférieure à 150 t
+
+|
+
+D
+
+|
+
+|
+
+|
+
+|
+
+Nota. - Les aérosols inflammables sont classés conformément à la directive 75/324/ CEE relative aux générateurs aérosols. Les aérosols "extrêmement inflammables" et "inflammables" de la directive 75/324/ CEE correspondent respectivement aux aérosols inflammables des catégories1 et 2 du règlement (CE) n° 1272/2008.
+
+Quantité seuil bas au sens de l'article R. 511-10 : 150 t.
+
+Quantité seuil haut au sens de l'article R. 511-10 : 500 t.
+
+|
+
+4321
+
+|
+
+Aérosols extrêmement inflammables ou inflammables de catégorie 1 ou 2 ne contenant pas de gaz inflammables de catégorie 1 ou 2 ou des liquides inflammables de catégorie 1.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+La quantité totale susceptible d'être présente dans l'installation étant :
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1. Supérieure ou égale à 5 000 t
+
+|
+
+A
+
+|
+
+1
+
+|
+
+|
+
+|
+
+2. Supérieure ou égale à 500 t et inférieure à 5 000 t
+
+|
+
+D
+
+|
+
+|
+
+|
+
+|
+
+Nota. - Les aérosols inflammables sont classés conformément à la directive 75/324/ CEE relative aux générateurs aérosols. Les aérosols "extrêmement inflammables" et "inflammables" de la directive 75/324/ CEE correspondent respectivement aux aérosols inflammables des catégories1 et 2 du règlement (CE) n° 1272/2008.
+
+Quantité seuil bas au sens de l'article R. 511-10 : 5 000 t.
+
+Quantité seuil haut au sens de l'article R. 511-10 : 50 000 t.
+
+|
+
+4330
+
+|
+
+Liquides inflammables de catégorie 1, liquides inflammables maintenus à une température supérieure à leur point d'ébullition, autres liquides de point éclair inférieur ou égal à 60 °C maintenus à une température supérieure à leur température d'ébullition ou dans des conditions particulières de traitement, telles qu'une pression ou une température élevée (1).
+
+|
+
+|
+
+|
+
+|
+
+|
+
+La quantité totale susceptible d'être présente dans les installations y compris dans les cavités souterraines étant :
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1. Supérieure ou égale à 10 t
+
+|
+
+A
+
+|
+
+2
+
+|
+
+|
+
+|
+
+2. Supérieure ou égale à 1 t mais inférieure à 10 t
+
+|
+
+DC
+
+|
+
+|
+
+|
+
+|
+
+(1) Conformément à la section 2.6.4.5 de l'annexe I du règlement (CE) n° 1272/2008, il n'est pas nécessaire de classer les liquides ayant un point d'éclair supérieur à 35 °C dans la catégorie 3 si l'épreuve de combustion entretenue du point L 2, partie III, section 32, du Manuel d'épreuves et de critères des Nations unies a donné des résultats négatifs. Toutefois, cette remarque n'est pas valable en cas de température ou de pression élevée, et ces liquides doivent alors être classés dans cette catégorie.
+
+Quantité seuil bas au sens de l'article R. 511-10 : 10 t.
+
+Quantité seuil haut au sens de l'article R. 511-10 : 50 t.
+
+|
+
+4331
+
+|
+
+Liquides inflammables de catégorie 2 ou catégorie 3 à l'exclusion dela rubrique 4330.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+La quantité totale susceptible d'être présente dans les installations y compris dans les cavités souterraines étant :
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1. Supérieure ou égale à 1 000 t
+
+|
+
+A
+
+|
+
+2
+
+|
+
+|
+
+|
+
+2. Supérieure ou égale à 100 t mais inférieure à 1 000 t
+
+|
+
+E
+
+|
+
+|
+
+|
+
+|
+
+3. Supérieure ou égale à 50 t mais inférieure à 100 t
+
+|
+
+DC
+
+|
+
+|
+
+|
+
+|
+
+Quantité seuil bas au sens de l'article R. 511-10 : 5 000 t.
+
+Quantité seuil haut au sens de l'article R. 511-10 : 50 000 t.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+4410
+
+|
+
+Substances et mélanges autoréactifs type A ou type B.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+La quantité totale susceptible d'être présente dans l'installation étant :
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1. Supérieure ou égale à 10 t
+
+|
+
+A
+
+|
+
+3
+
+|
+
+|
+
+|
+
+2. Supérieure ou égale à 50 kg mais inférieure à 10 t
+
+|
+
+D
+
+|
+
+|
+
+|
+
+|
+
+Quantité seuil bas au sens de l'article R. 511-10 : 10 t.
+
+Quantité seuil haut au sens de l'article R. 511-10 : 50 t.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+4411
+
+|
+
+Substances et mélanges autoréactifs type C, D, E ou F.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+La quantité totale susceptible d'être présente dans l'installation étant :
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1. Supérieure ou égale à 50 t
+
+|
+
+A
+
+|
+
+2
+
+|
+
+|
+
+|
+
+2. Supérieure ou égale à 1 t mais inférieure à 50 t
+
+|
+
+D
+
+|
+
+|
+
+|
+
+|
+
+Quantité seuil bas au sens de l'article R. 511-10 : 50 t.
+
+Quantité seuil haut au sens de l'article R. 511-10 : 200 t.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+4420
+
+|
+
+Peroxydes organiques type A ou type B.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+La quantité totale susceptible d'être présente dans l'installation étant :
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1. Supérieure ou égale à 50 kg
+
+|
+
+A
+
+|
+
+2
+
+|
+
+|
+
+|
+
+2. Supérieure ou égale à 1 kg mais inférieure à 50 kg
+
+|
+
+D
+
+|
+
+|
+
+|
+
+|
+
+Quantité seuil bas au sens de l'article R. 511-10 : 10 t.
+
+Quantité seuil haut au sens de l'article R. 511-10 : 10 t.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+4421
+
+|
+
+Peroxydes organiques type C ou type D.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+La quantité totale susceptible d'être présente dans l'installation étant :
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1. Supérieure ou égale à 3 t
+
+|
+
+A
+
+|
+
+2
+
+|
+
+|
+
+|
+
+2. Supérieure ou égale à 125 kg mais inférieure à 3 t
+
+|
+
+D
+
+|
+
+|
+
+|
+
+|
+
+Quantité seuil bas au sens de l'article R. 511-10 : 50 t.
+
+Quantité seuil haut au sens de l'article R. 511-10 : 150 t.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+4422
+
+|
+
+Peroxydes organiques type E ou type F.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+La quantité totale susceptible d'être présente dans l'installation étant :
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1. Supérieure ou égale à 10 t
+
+|
+
+A
+
+|
+
+1
+
+|
+
+|
+
+|
+
+2. Supérieure ou égale à 500 kg mais inférieure à 10 t
+
+|
+
+D
+
+|
+
+|
+
+|
+
+|
+
+Quantité seuil bas au sens de l'article R. 511-10 : 50 t.
+
+Quantité seuil haut au sens de l'article R. 511-10 : 200 t.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+4430
+
+|
+
+Solides pyrophoriques catégorie 1.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+La quantité totale susceptible d'être présente dans l'installation étant supérieure ou égale à 50 t
+
+|
+
+A
+
+|
+
+1
+
+|
+
+|
+
+|
+
+Quantité seuil bas au sens de l'article R. 511-10 : 50 t.
+
+Quantité seuil haut au sens de l'article R. 511-10 : 200 t.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+4431
+
+|
+
+Liquides pyrophoriques catégorie 1.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+La quantité totale susceptible d'être présente dans l'installation étant supérieure ou égale à 50 t
+
+|
+
+A
+
+|
+
+2
+
+|
+
+|
+
+|
+
+Quantité seuil bas au sens de l'article R. 511-10 : 50 t.
+
+Quantité seuil haut au sens de l'article R. 511-10 : 200 t.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+4440
+
+|
+
+Solides comburants catégorie 1, 2 ou 3.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+La quantité totale susceptible d'être présente dans l'installation étant :
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1. Supérieure ou égale à 50 t
+
+|
+
+A
+
+|
+
+3
+
+|
+
+|
+
+|
+
+2. Supérieure ou égale à 2 t mais inférieure à 50 t
+
+|
+
+D
+
+|
+
+|
+
+|
+
+|
+
+Quantité seuil bas au sens de l'article R. 511-10 : 50 t.
+
+Quantité seuil haut au sens de l'article R. 511-10 : 200 t.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+4441
+
+|
+
+Liquides comburants catégorie 1, 2 ou 3.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+La quantité totale susceptible d'être présente dans l'installation étant :
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1. Supérieure ou égale à 50 t
+
+|
+
+A
+
+|
+
+3
+
+|
+
+|
+
+|
+
+2. Supérieure ou égale à 2 t mais inférieure à 50 t
+
+|
+
+D
+
+|
+
+|
+
+|
+
+|
+
+Quantité seuil bas au sens de l'article R. 511-10 : 50 t.
+
+Quantité seuil haut au sens de l'article R. 511-10 : 200 t.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+4442
+
+|
+
+Gaz comburants catégorie 1.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+La quantité totale susceptible d'être présente dans l'installation étant :
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1. Supérieure ou égale à 50 t
+
+|
+
+A
+
+|
+
+3
+
+|
+
+|
+
+|
+
+2. Supérieure ou égale à 2 t mais inférieure à 50 t
+
+|
+
+D
+
+|
+
+|
+
+|
+
+|
+
+Quantité seuil bas au sens de l'article R. 511-10 : 50 t.
+
+Quantité seuil haut au sens de l'article R. 511-10 : 200 t.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+4510
+
+|
+
+Dangereux pour l'environnement aquatique de catégorie aiguë 1 ou chronique 1.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+La quantité totale susceptible d'être présente dans l'installation étant :
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1. Supérieure ou égale à 100 t
+
+|
+
+A
+
+|
+
+1
+
+|
+
+|
+
+|
+
+2. Supérieure ou égale à 20 t mais inférieure à 100 t
+
+|
+
+DC
+
+|
+
+|
+
+|
+
+|
+
+Quantité seuil bas au sens de l'article R. 511-10 : 100 t.
+
+Quantité seuil haut au sens de l'article R. 511-10 : 200 t.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+4511
+
+|
+
+Dangereux pour l'environnement aquatique de catégorie chronique 2.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+La quantité totale susceptible d'être présente dans l'installation étant :
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1. Supérieure ou égale à 200 t
+
+|
+
+A
+
+|
+
+1
+
+|
+
+|
+
+|
+
+2. Supérieure ou égale à 100 t mais inférieure à 200 t
+
+|
+
+DC
+
+|
+
+|
+
+|
+
+|
+
+Quantité seuil bas au sens de l'article R. 511-10 : 200 t.
+
+Quantité seuil haut au sens de l'article R. 511-10 : 500 t.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+4610
+
+|
+
+Substances ou mélanges auxquels est attribuée la mention de danger EUH014 (réagit violemment au contact de l'eau).
+
+|
+
+|
+
+|
+
+|
+
+|
+
+La quantité totale susceptible d'être présente dans l'installation étant :
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1. Supérieure ou égale à 100 t
+
+|
+
+A
+
+|
+
+1
+
+|
+
+|
+
+|
+
+2. Supérieure à 10 t mais inférieure à 100 t
+
+|
+
+DC
+
+|
+
+|
+
+|
+
+|
+
+Quantité seuil bas au sens de l'article R. 511-10 : 100 t.
+
+Quantité seuil haut au sens de l'article R. 511-10 : 500 t.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+4620
+
+|
+
+Substances et mélanges qui, au contact de l'eau, dégagent des gaz inflammables, catégorie 1.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+La quantité totale susceptible d'être présente dans l'installation étant :
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1. Supérieure ou égale à 100 t
+
+|
+
+A
+
+|
+
+1
+
+|
+
+|
+
+|
+
+2. Supérieure ou égale à 10 t mais inférieure à 100 t
+
+|
+
+D
+
+|
+
+|
+
+|
+
+|
+
+Quantité seuil bas au sens de l'article R. 511-10 : 100 t.
+
+Quantité seuil haut au sens de l'article R. 511-10 : 500 t.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+4630
+
+|
+
+Substances ou mélanges auxquels est attribuée la mention de danger EUH029 (au contact de l'eau, dégage des gaz toxiques).
+
+|
+
+|
+
+|
+
+|
+
+|
+
+La quantité totale susceptible d'être présente dans l'installation étant :
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1. Supérieure ou égale à 50 t
+
+|
+
+A
+
+|
+
+3
+
+|
+
+|
+
+|
+
+2. Supérieure ou égale à 2 t mais inférieure à 50 t
+
+|
+
+D
+
+|
+
+|
+
+|
+
+|
+
+Quantité seuil bas au sens de l'article R. 511-10 : 50 t.
+
+Quantité seuil haut au sens de l'article R. 511-10 : 200 t.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+(1) A : autorisation, E : enregistrement, D : déclaration, S: servitude d'utilité publique, C : soumis au contrôle périodique prévu par l'article L. 512-11 du code de l'environnement.
 
 (2) Rayon d'affichage en kilomètres.
 
 (3) Décret n° 2010-369 du 13 avril 2010, article 2 : les rubriques 167 et 322 sont supprimées. Se référer à la place aux rubriques 2770 et 2771.
 
+Nota.-La valeur de QNS porte sur l'ensemble des substances radioactives mentionnées à la rubrique 1700 autres que celles mentionnées à la rubrique 1735 susceptibles d'être présentes dans l'installation. Elle est calculée suivant les modalités mentionnées à l'annexe 13-8 de la première partie du code de la santé publique.
+
+Décret n° 2013-1301 du 27 décembre 2013 art. 2 : La rubrique 2661 qui entre en vigueur le jour de la publication de l'arrêté ministériel fixant les prescriptions générales applicables aux installations relevant du régime de l'enregistrement dans ces deux rubriques.
+
 NOTA :
 
 Décret n° 2013-814 du 11 septembre 2013 art. 4 : La rubrique 2910 dans sa rédaction issue du présent décret entre en vigueur le lendemain de la publication de l'arrêté ministériel de prescription générale relatif aux installations relevant du régime de l'enregistrement mentionné à son B.
-
-Décret n° 2013-1301 du 27 décembre 2013 art. 2 : La rubrique 2661 qui entre en vigueur le jour de la publication de l'arrêté ministériel fixant les prescriptions générales applicables aux installations relevant du régime de l'enregistrement dans ces deux rubriques.
