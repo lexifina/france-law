@@ -1,0 +1,47 @@
+# Article 1er
+
+Les dispositions de l'article 43 « Bénéficiaires » de la convention sont modifiées comme suit :
+
+« Article 43
+
+Bénéficiaires
+
+Bénéficie des garanties l'ensemble du personnel des entreprises entrant dans le champ d'application de la convention collective nationale des détaillants en chaussures, quelle que soit la nature de leur contrat de travail (contrat à durée indéterminée ou déterminée), et de leur ancienneté, inscrit à l'effectif de l'entreprise adhérente, présent au travail ou dont la suspension du contrat de travail prévue par le code du travail donne lieu à un maintien de la rémunération et/ ou au versement d'indemnités journalières par la sécurité sociale. »
+
+Les autres dispositions de l'article 43 sont supprimées.
+
+Conformément à l'article L. 911-8 du code de la sécurité sociale, il est inséré après l'article 43 « Bénéficiaires » de la convention un article 44 intitulé et rédigé comme suit.
+
+« Article 44
+
+Maintien des garanties au titre de l'article L. 911-8 du code de la sécurité sociale
+
+Les dispositions ci-après prennent effet pour les cessations de contrat de travail intervenant à compter du 1er juin 2015.
+
+Conformément à l'article L. 911-8 du code de la sécurité sociale, les salariés bénéficient du maintien à titre gratuit des garanties du régime en cas de cessation du contrat de travail, non consécutive à une faute lourde, ouvrant droit à prise en charge par le régime d'assurance chômage selon les conditions suivantes :
+
+1. Le maintien des garanties est applicable à compter de la date de cessation du contrat de travail et pendant une durée égale à la période d'indemnisation de l'assurance chômage, dans la limite de la durée du dernier contrat de travail ou, le cas échéant, des derniers contrats de travail lorsqu'ils sont consécutifs chez un même employeur. Cette durée est appréciée en mois, le cas échéant arrondie au mois supérieur, sans pouvoir excéder 12 mois ;
+
+2. Le bénéfice du maintien des garanties est subordonné à la condition que les droits aient été ouverts chez le dernier employeur ;
+
+3. Les garanties maintenues au bénéfice de l'ancien salarié sont celles en vigueur dans l'entreprise ;
+
+4. Le maintien des garanties ne peut conduire l'ancien salarié à percevoir des indemnités d'un montant supérieur à celui des allocations chômage qu'il aurait perçues au titre de la même période ;
+
+5. L'ancien salarié justifie auprès de l'organisme assureur, à l'ouverture et au cours de la période de maintien de garanties, des conditions prévues au présent article, en fournissant également les justificatifs mentionnés ci-après ;
+
+6. L'employeur signale le maintien des garanties dans le certificat de travail et informe l'organisme assureur de la cessation du contrat de travail.
+
+Pour la mise en œuvre du dispositif auprès de l'organisme assureur, l'entreprise doit adresser à ce dernier une demande nominative de maintien de garanties pour chaque ancien salarié.
+
+Pour bénéficier du maintien, l'ancien salarié doit fournir l'ensemble des justificatifs qui lui sont demandés par l'organisme assureur, et notamment le justificatif de versement des allocations chômage du mois correspondant à celui pour lesquelles les prestations sont dues.
+
+En outre, l'ancien salarié doit informer l'organisme assureur de la cessation du versement des allocations du régime d'assurance chômage lorsque celle-ci intervient au cours de la période de portabilité des droits.
+
+La suspension des allocations du régime d'assurance chômage pour cause de maladie ou pour tout autre motif n'a pas d'incidence sur le calcul de la durée du maintien de couverture, qui ne sera donc pas prolongé d'autant.
+
+En tout état de cause, le maintien des garanties cesse à la date à laquelle l'ancien salarié ne bénéficie plus, définitivement et totalement, des allocations du régime d'assurance chômage pendant la période du maintien de couverture (notamment en cas de reprise d'une activité professionnelle, de retraite, de radiation des listes de Pôle emploi, de décès).
+
+Ce dispositif de maintien de couverture est financé par un système de mutualisation intégré aux cotisations des salariés actifs (part patronale et part salariale). »
+
+La numérotation des articles postérieurs de la convention collective nationale est modifiée en conséquence.
