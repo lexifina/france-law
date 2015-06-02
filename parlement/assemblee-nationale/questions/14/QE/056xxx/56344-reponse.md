@@ -1,0 +1,9 @@
+# Réponse à la question n° 56344
+
+- Question : [56344](56344.md) — Question n° 56344 — cigarettes non combustibles; sécurité; perspectives
+
+## Réponse
+
+*JO du 2015-06-02*
+
+Depuis 2011, la direction générale de la concurrence, de la consommation et de la répression des fraudes (DGCCRF) réalise des contrôles de cigarettes électroniques portant notamment sur la composition des liquides telle que la teneur en nicotine, l'absence de substances chimiques faisant l'objet de restriction de mise sur le marché dans le cadre du règlement n° 1907/2006 (règlement REACH), le respect des dispositions de classification, d'étiquetage et d'emballage prévues par le règlement n° 1272/2008 (règlement CLP) ou la sécurité des chargeurs de batterie. A titre d'exemple, plus de 600 établissements fabriquant ou distribuant des cigarettes électroniques et des liquides de recharge ont été contrôlés en 2014, 111 liquides de recharges ont été prélevés. 100 produits ont été déclarés non-conformes du fait de l'absence des mentions de sécurité adaptées. 14 chargeurs ont été analysés et 13 ont été déclarés non conformes ou non conformes et dangereux. Ces produits ont fait l'objet de retrait du marché en vue de leur mise en conformité ou à défaut d'une destruction. Par ailleurs, la directive n° 2014-40 relative aux produits du tabac et aux produits connexes prévoit diverses dispositions pour renforcer la sécurité des cigarettes électroniques (interdiction des substances cancérogènes, mutagènes ou toxiques pour la reproduction par exemple). Cette directive doit être transposée en droit français avant le 20 mai 2016. Cette transposition sera l'occasion d'informer les professionnels sur les obligations qui leur incombent. Après adoption des textes nationaux, leur application fera l'objet de nouvelles campagnes de contrôles.
