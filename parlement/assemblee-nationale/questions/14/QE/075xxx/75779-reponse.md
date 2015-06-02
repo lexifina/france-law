@@ -1,0 +1,9 @@
+# Réponse à la question n° 75779
+
+- Question : [75779](75779.md) — Question n° 75779 — transports publics; Cour des comptes; rapport; recommandations
+
+## Réponse
+
+*JO du 2015-06-02*
+
+La fraude est un enjeu majeur pour les autorités organisatrices de transport. Le syndicat des transports d'Île-de-France (STIF), l'a traduit dans les contrats passés avec les opérateurs. Ainsi, dans le contrat que le STIF a passé avec la SNCF Mobilités pour les années 2012-2015, il est précisé que la SNCF Mobilités s'est engagée à mettre en oeuvre des procédures de contrôle permettant de dissuader et de réprimer tout acte de fraude, sur la base d'un taux de contrôle global minimum de voyageurs sur l'ensemble du réseau Transilien, établi à 2,5 %. Quant au contrat passé entre la RATP et le STIF pour les années 2012-2015, il prévoit que « la RATP s'engage sur la réalisation d'un nombre de journées-agent de contrôle au moins égal au niveau réalisé en 2011 (163 000 journées agents) » et fixe des plafonds de taux de fraude par réseau. La lutte contre la fraude dans les transports publics a été au centre du dernier Conseil national de sûreté dans les transports en commun du 16 décembre 2014. A cette occasion, le secrétaire d'État chargé des transports, de la mer et de la pêche a pris l'engagement de réviser le décret du 22 mars 1942 portant règlement d'administration publique sur la police, la sûreté et l'exploitation des voies ferrées d'intérêt général. Il s'agit d'actualiser un texte dont certaines mesures ne sont plus adaptées au contexte actuel et notamment de clarifier les modalités de calcul du montant de l'indemnité forfaitaire applicable en cas d'infraction. La révision de ce décret, conduite en prenant en compte les besoins des acteurs concernés, n'a cependant pas pour objet d'intégrer des objectifs chiffrés de contrôle. Ceci est du ressort des collectivités autorités organisatrices de transports.
