@@ -1,0 +1,9 @@
+# Réponse à la question n° 61533
+
+- Question : [61533](61533.md) — Question n° 61533 — développement touristique; propositions
+
+## Réponse
+
+*JO du 2015-06-02*
+
+Après six mois de travaux ayant réuni de nombreux acteurs de la filière, un plan d'action a été élaboré pour conforter la place de la France au premier rang des destinations touristiques du monde. Pour passer de 84 à 100 millions de visiteurs étrangers par an, le gouvernement a pris plusieurs décisions concrètes, concernant le développement de l'offre touristique française, la qualité de l'accueil que la France réserve aux touristes, le numérique ou encore l'accès des ménages français les plus modestes aux vacances. Toutefois, pour compléter ces efforts, le gouvernement s'attache à valoriser les métiers du tourisme et à encourager les jeunes à s'engager dans cette voie. C'est la raison pour laquelle il a été décidé dans le cadre des assises que le tourisme ferait partie des trois secteurs stratégiques pour la mise en place de 100 000 formations prioritaires pour l'emploi, grâce à l'appui de l'État, de Pôle emploi, des organismes paritaires et des régions. En complément, des propositions seront faites pour valoriser la formation aux métiers du tourisme dans le cadre du conseil de promotion du tourisme que le ministre des affaires étrangères et du développement international a établi en 2014 dans la foulée des assises. L'un des chantiers du conseil portait effectivement sur la formation. Le ministre des affaires étrangères et du développement international en présentera la conclusion en juin. La promotion et la communication autour des métiers du tourisme sera possible grâce à l'enveloppe financière du fonds de modernisation restauration et hôtellerie. Une partie de ce fonds constitué de contributions des professionnels du secteur pourra être consacrée à la valorisation des métiers du tourisme.
