@@ -1,0 +1,9 @@
+# Réponse à la question n° 56769
+
+- Question : [56769](56769.md) — Question n° 56769 — Autorité de contrôle des nuisances sonores aéroportuaires; amendes; recouvrement
+
+## Réponse
+
+*JO du 2015-06-02*
+
+Le recouvrement des titres de perception relatifs à des amendes prononcées par l'autorité de contrôle des nuisances aéroportuaires (ACNUSA) est assuré par les directions départementales des finances publiques pour les titres émis à l'encontre de compagnies installées en France et par la trésorerie générale pour l'étranger pour les titres émis à l'encontre des compagnies installées à l'étranger. Les amendes prononcées par l'ACNUSA sont recouvrées comme en matière de créances étrangères à l'impôt et au domaine. Or, la réglementation relative aux recettes non fiscales ne permet qu'un recouvrement amiable à l'étranger. Seules des lettres de relance et mises en demeure de payer peuvent être adressées aux redevables. Les perspectives de recouvrement de ces titres en sont fortement diminuées. Ainsi, au 31 décembre 2014, 25 % du montant des sanctions prononcées en 2013 par l'ACNUSA à l'encontre des compagnies installées à l'étranger ont été recouvrées, et 32 % du montant des sanctions prononcées en 2014. La majoration de 10 % prévue à l'article 55 III B de la loi n° 2010-1658 du 29 décembre 2010 est, depuis 2013, automatiquement liquidée dans l'application de gestion du recouvrement, en cas d'absence de règlement à la date limite de paiement fixée au 15 du deuxième mois suivant l'émission du titre de perception. Afin d'optimiser le recouvrement des titres émis par l'ACNUSA, la direction générale des finances publiques (DGFiP) a centralisé l'assignation et le recouvrement des titres de l'autorité sur la direction des créances spéciales du Trésor, spécialisée dans le suivi des recouvrements les plus complexes. Cette réorganisation est mise en oeuvre depuis le 1er janvier 2015.
