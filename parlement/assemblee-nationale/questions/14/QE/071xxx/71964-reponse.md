@@ -1,0 +1,9 @@
+# Réponse à la question n° 71964
+
+- Question : [71964](71964.md) — Question n° 71964 — traitements; disponibilité
+
+## Réponse
+
+*JO du 2015-06-02*
+
+Les spécialités pour instillation intravésicale à base de BCG, utilisées pour le traitement de certains cancers de la vessie, sont en situation tendue d'approvisionnement depuis mai 2012, à la suite de difficultés de production. Les démarches entreprises par l'agence nationale de sécurité du médicament et des produits de santé (ANSM), tant au niveau européen que mondial, auprès de différents laboratoires susceptibles de fournir un traitement BCG intravésical de qualité pharmaceutique en quantités suffisantes pour le marché français, ont été multipliées et ont permis d'identifier des spécialités comparables à celles précédemment utilisées en France. Leur importation et leur distribution exceptionnelle sur le marché français ont ainsi été réalisées. A ce stade et au vu des dernières informations communiquées par l'ANSM, la remise à disposition d'Immucyst® est prévue au 2e semestre 2015. L'agence reste en contact étroit avec le laboratoire afin de s'assurer que tous les efforts soient mis en oeuvre pour que cette remise à disposition intervienne au plus tôt. Dans l'intervalle, les importations de spécialités comparables identifiées (BCG-Medac, Onco TICE), sont poursuivies et la situation à ce stade est stabilisée. Par ailleurs, afin de lutter contre toutes les ruptures de stocks, de nouvelles mesures visant à renforcer le dispositif existant sont proposées dans le projet de loi de modernisation de notre système de santé dans l'objectif, d'une part, de renforcer le dispositif de lutte contre toutes les ruptures quelles que soient leurs causes et, d'autre part, de permettre une réponse plus efficace et plus rapide des autorités en cas de situation de rupture en particulier pour les produits d'importance thérapeutique majeure.
