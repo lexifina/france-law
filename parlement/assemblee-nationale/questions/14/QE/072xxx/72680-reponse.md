@@ -1,0 +1,9 @@
+# Réponse à la question n° 72680
+
+- Question : [72680](72680.md) — Question n° 72680 — soins de conservation du corps; décédés contagieux
+
+## Réponse
+
+*JO du 2015-06-02*
+
+L'encadrement des soins de conservation (ou thanatopraxie) est un préalable nécessaire pour permettre la révision des maladies infectieuses imposant des contraintes pour une mise en oeuvre de certaines opérations funéraires. De fait, la refonte du certificat de décès, seconde étape de cette réforme, dépend dans un premier temps des modifications relatives à la réglementation de la thanatopraxie. Les soins de conservation sont des actes invasifs post mortem. Ils consistent notamment en une extraction de la masse sanguine et l'évacuation des gaz, des liquides des cavités thoraciques et abdominales (par ponctions artérielle et veineuse et incision épigastrique), suivie de l'injection d'un liquide biocide tel que le formol. Plusieurs rapports soulignent les risques sanitaires infectieux, chimiques et environnementaux liés à la réalisation de ces soins dans des lieux non dédiés (domicile des défunts en particulier). Il s'agit des rapports du Haut conseil de la santé publique de novembre 2009, complété par celui de décembre 2012, du rapport du défenseur des droits relatif à la législation funéraire d'octobre 2012 et du rapport conjoint de l'inspection générale des affaires sociales (IGAS) et de l'inspection générale de l'administration (IGA) de juillet 2013. Ces rapports convergent sur la nécessité de mieux encadrer cette pratique et d'imposer sa réalisation dans des lieux dédiés. Le projet de loi de modernisation de notre système de santé adopté en première lecture à l'assemblée nationale prévoit une évolution des pratiques en ce sens en renforçant la sécurité sanitaire des thanatopracteurs. L'interdiction des soins de conservation pour les personnes décédées atteintes d'une infection par le VIH ou les virus des hépatites pourra alors être rapidement levée.
