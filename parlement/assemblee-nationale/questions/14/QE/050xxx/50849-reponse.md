@@ -1,0 +1,9 @@
+# Réponse à la question n° 50849
+
+- Question : [50849](50849.md) — Question n° 50849 — activités; développement
+
+## Réponse
+
+*JO du 2015-06-02*
+
+Dans le cadre de la réforme portant adaptation de la société au vieillissement, il est prévu de saisir le potentiel que représente l'évolution démographique en cours pour favoriser l'innovation, la croissance et l'emploi. Au-delà du marché français, qui croîtra considérablement, il s'agit de favoriser le développement des entreprises françaises du secteur à l'international. Un comité stratégique de filière « silveréconomie » a été mis en place et constitue une instance de concertation et de pilotage pour les industriels et les acteurs économiques de la Silver Economie. Il réunit une quarantaine de fédérations professionnelles et d'acteurs publics, en particulier les régions, qui développent cette filière industrielle dans leur territoire. Le 12 décembre 2013, un contrat de filière Silver économie a été signé, comportant 49 actions articulées autour des six axes suivants qui constituent une feuille de route pour les années à venir : - créer les conditions d'émergence d'un grand marché de la Silver économie ; - favoriser le développement d'une offre compétitive ; - exporter les produits et les technologies de la Silver économie ; - professionnaliser les acteurs de la Silver économie ; - créer des innovations dans le champ de la Silver économie ; - communiquer positivement auprès des âgés et sur le bien vieillir auprès du grand public et des distributeurs. Des comités de filières régionaux de la Silver économie sont installés. Plusieurs régions comme la Basse-Normandie, l'Aquitaine, le Nord-Pas de Calais, Midi-Pyrénées et Martinique ont déjà initié un travail de structuration des acteurs locaux. L'objectif, poursuivi par le Gouvernement, est qu'un comité soit installé dans chaque région au début de l'année 2016.
