@@ -1,0 +1,9 @@
+# Réponse à la question n° 75366
+
+- Question : [75366](75366.md) — Question n° 75366 — centres de tri; ADEME; étude; propositions
+
+## Réponse
+
+*JO du 2015-06-02*
+
+Le Gouvernement est très attaché à une politique ambitieuse en matière de déchets. Pour cela, il a notamment lancé le plan de réduction et de valorisation des déchets 2014-2020 en complément du volet « économie circulaire » du projet de loi relatif à la transition énergétique pour la croissance verte. Les progrès sur la gestion des déchets apportent en effet des bénéfices à la fois environnementaux, économiques et sociaux. Le parc actuel de centres de tri se caractérise par des installations nombreuses, parfois anciennes et très hétérogènes en termes de taille et d'équipements. Ce parc, qui répond de manière satisfaisante aux besoins actuels, risque de ne pas être en mesure, malgré son évolution permanente, de répondre aux enjeux de demain, en particulier le renforcement des exigences sur les conditions de travail et la nécessité d'accroître les synergies entre le tri et l'industrie nationale du recyclage dans une dynamique d'économie des ressources. L'augmentation de la taille des centres de tri est nécessaire pour répondre aux enjeux de demain, enjeux environnementaux mais aussi économiques. L'analyse économique de l'étude de l'Agence de l'environnement et de la maîtrise de l'énergie (ADEME), met en évidence une baisse des coûts de tri et transport lors d'une augmentation des capacités de centres de tri, quelle que soit la typologie d'habitat. Toutefois, l'évolution du parc de centre de tri, doit se faire en considérant les aspects techniques et économiques mais aussi en prenant en compte le contexte territorial. Les préconisations de l'ADEME devront bien entendu être adaptées au contexte local lors de leurs déclinaisons en actions concrètes.
