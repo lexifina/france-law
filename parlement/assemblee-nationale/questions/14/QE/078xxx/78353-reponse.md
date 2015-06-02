@@ -1,0 +1,9 @@
+# Réponse à la question n° 78353
+
+- Question : [78353](78353.md) — Question n° 78353 — dispositif français langue maternelle
+
+## Réponse
+
+*JO du 2015-06-02*
+
+Créé en 2001 par le ministère des affaires étrangères et du développement international et confié depuis 2009 à l'AEFE, le dispositif FLAM (Français langue maternelle) permet aux enfants non scolarisés dans le réseau des établissements français à l'étranger de conserver la pratique de la langue française et le lien avec la culture française dans un cadre associatif extrascolaire. Ces associations à but non lucratif sont indépendantes et naissent souvent d'un besoin local qu'aucune offre existante ne satisfait encore. Les postes diplomatiques sont, sur le terrain, l'interface entre les associations et les institutions du réseau culturel français. Si besoin, ils guident les associations dans leur positionnement par rapport au contexte local. Le critère de « non concurrence » avec les autres institutions est également pris en compte pour l'attribution des subventions FLAM par l'AEFE, qui vise un développement cohérent des différents dispositifs. Depuis les assises organisées au Sénat en juin 2012, les critères et limites du dispositif FLAM ont été clairement définis. L'accent mis sur la communication autour du dispositif en direction des associations et des postes diplomatiques notamment (site internet dédié www. associations-flam. fr, regroupements régionaux et formation des intervenants FLAM, présentation lors des séminaires à destination des agents du réseau culturel...) a porté ses fruits dans de nombreux pays concernés. Par ailleurs, suite à la signature en janvier 2013 de la convention entre l'AEFE et le CIEP (Centre international d'études pédagogiques), les associations FLAM ont la possibilité d'inscrire leurs élèves aux certifications de langue française DELF/DALF, ce qui a fait naitre des partenariats supplémentaires avec les Instituts et Alliances françaises.
