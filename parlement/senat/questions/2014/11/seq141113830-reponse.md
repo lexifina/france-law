@@ -1,0 +1,9 @@
+# Réponse à la question SEQ141113830
+
+- Question : [SEQ141113830](seq141113830.md) — Financement des tarifs sociaux de l'électricité et du gaz
+
+## Réponse
+
+*Écologie, développement durable et énergie, JO du 2015-06-04, page 1317*
+
+Les dépenses énergétiques pèsent sur le pouvoir d'achat des ménages et plus particulièrement sur celui des ménages les plus vulnérables. Conscient des limites des tarifs sociaux actuels de l'électricité et du gaz qui, en particulier ne couvrent pas toutes les énergies de chauffage, le Gouvernement a proposé dans le cadre du projet de loi sur la transition énergétique pour la croissance verte la mise en place d'un « chèque énergie » dédié au paiement des factures d'énergie du logement. Le dispositif retenu prévoit la mise en place d'un titre spécial de paiement permettant aux ménages dont les revenus sont, au regard de la composition familiale, inférieurs à un plafond, d'acquitter tout ou partie du montant des factures d'énergie ou des dépenses pour l'amélioration de la qualité environnementale du logement. Le Gouvernement a par ailleurs engagé une réflexion en vue d'une réforme de la contribution pour le service public de l'électricité (CSPE), afin de limiter son impact sur la facture d'électricité des ménages, notamment des plus fragiles. Dans ce cadre, un élargissement de l'assiette de financement de cette contribution à d'autres énergies, notamment les plus carbonées, est étudié. En revanche, une exonération de CSPE pour les personnes en situation de précarité ne serait pas compatible avec les textes européens. Une mission de l'inspection générale des finances, du conseil général de l'environnement et du développement durable et du conseil général de l'économie, de l'industrie, de l'énergie et des technologies a été lancée par le Gouvernement pour approfondir les différentes options de cette réforme.
