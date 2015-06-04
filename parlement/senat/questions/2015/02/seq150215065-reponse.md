@@ -1,0 +1,9 @@
+# Réponse à la question SEQ150215065
+
+- Question : [SEQ150215065](seq150215065.md) — Avenir des trains d'équilibre du territoire et de la Ligne Caen/Le Mans/Tours
+
+## Réponse
+
+*Transports, mer et pêche, JO du 2015-06-04, page 1328*
+
+Le Gouvernement a reconduit l'actuelle convention d'exploitation des trains d'équilibre du territoire (TET) pour une durée de un an jusqu'à la fin de l'année 2015, à périmètre constant. Toutes les dessertes sont donc maintenues malgré la baisse de la fréquentation de ces trains, accentuée par l'essor de nouvelles formes de mobilités comme le covoiturage, qui nécessite que soit remis en question le modèle économique des TET aujourd'hui déficitaire. Ainsi, conscient des questions que soulève l'organisation de ces trains, le Gouvernement a confié en novembre dernier le soin de porter une réflexion nationale sur les TET à une commission composée de parlementaires, d'élus régionaux et de personnes qualifiées. Monsieur Philippe Duron, député du Calvados, en assure la présidence. Le Gouvernement a souhaité qu'au cours de ses travaux, la Commission recueille les avis de l'ensemble des parties intéressées : usagers, entreprises, partenaires sociaux, autorités organisatrices de transport, élus locaux et bien sûr exploitants. C'est dans ce cadre que la SNCF Mobilités, en sa qualité d'exploitant des TET, a formulé plusieurs propositions d'évolutions de service pour les prochaines années, au même titre que les autres acteurs invités à prendre part à la réflexion en cours. À ce stade de la démarche, aucune décision n'est donc arrêtée. Le Gouvernement se prononcera sur l'avenir des TET à la lumière des conclusions de cette Commission, attendues pour le mois de mai 2015, qui ont pour objectif de permettre de clarifier l'articulation des trains TET avec les autres services de transport ferroviaire, notamment les TER, et d'apporter des améliorations aux dispositions actuelles, au bénéfice des usagers du quotidien.
