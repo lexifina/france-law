@@ -1,0 +1,9 @@
+# Réponse à la question SEQ150516324
+
+- Question : [SEQ150516324](seq150516324.md) — Dépistage insuffisant de la maladie d'Alzheimer
+
+## Réponse
+
+*Affaires sociales, santé et droits des femmes, JO du 2015-06-04, page 1313*
+
+Marisol Touraine, ministre des affaires sociales, de la santé et des droits des femmes, Geneviève Fioraso, secrétaire d'État chargée de l'enseignement supérieur et de la recherche, et Laurence ROSSIGNOL, secrétaire d'Etat chargée de la famille, des personnes âgées et de l'autonomie, ont lancé mardi 18 novembre 2014 le plan national maladies neuro-dégénératives 2014 - 2019. La présidence du comité de suivi du plan maladies neuro-dégénératives a été confiée au professeur Michel CLANET et la vice-présidence au professeur Joël ANKRI. Le comité de suivi impliquera étroitement les associations de patients. Le professeur Etienne HIRSCH assure la présidence du comité de pilotage pour la recherche. La mise en œuvre du nouveau plan maladies neuro-dégénératives est dès à présent enclenchée avec le lancement des travaux au sein des administrations concernées. Des informations détaillées et actualisées dans le temps seront apportées aux diverses associations à l'occasion des réunions du comité de suivi, auquel elles sont associées. L'information et la communication sur les maladies neuro-dégénératives constituent par ailleurs une priorité du nouveau plan et font l'objet d'une mesure spécifique. La mesure 41 du plan prévoit ainsi l'évolution du site internet utilisé pour le plan Alzheimer 2008-2012. Le support de ce site permettra d'adapter et de rendre accessible à tous le contenu du plan et des informations actualisées sur sa mise en œuvre. La mise en œuvre des mesures prévues par ce plan 2014-2019 confirme l'engagement du Gouvernement en faveur de la recherche, de la qualité des soins et de l'accompagnement des personnes malades et de leurs proches.
