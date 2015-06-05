@@ -1,6 +1,6 @@
 # Article Annexe I
 
-PRESCRIPTIONS GÉNÉRALES ET FAISANT L'OBJET DU CONTRÔLE PÉRIODIQUE APPLICABLES AUX INSTALLATIONS CLASSÉES POUR LA PROTECTION DE L'ENVIRONNEMENT SOUMISES À DÉCLARATION SOUS LA RUBRIQUE N° 1136
+PRESCRIPTIONS GÉNÉRALES ET FAISANT L'OBJET DU CONTRÔLE PÉRIODIQUE APPLICABLES AUX INSTALLATIONS CLASSÉES POUR LA PROTECTION DE L'ENVIRONNEMENT SOUMISES À DÉCLARATION SOUS LA RUBRIQUE N° 4735
 
 1. Dispositions générales
 
@@ -92,25 +92,23 @@ Aux fins du présent arrêté, on entend par capotage toute disposition construc
 
 2.1. Règles d'implantation
 
-2.1.1. Prescriptions spécifiques au stockage ou à l'emploi de récipients
-
-de capacité unitaire inférieure ou égale à 50 kilogrammes
+2.1.1. Prescriptions spécifiques au stockage ou à l'emploi de récipients de capacité unitaire inférieure ou égale à 50 kilogrammes (hors installation de réfrigération)
 
 L'installation est implantée à une distance :
 
--d'au moins 8 mètres des limites de propriété si le stockage est situé dans un local ou enceinte fermé ;
+-d'au moins 8 mètres des limites du site si le stockage est situé dans un local ou enceinte fermé ;
 
--dans les autres cas, d'au moins 15 mètres des limites de propriété.
+-dans les autres cas, d'au moins 15 mètres des limites du site.
 
 Objet du contrôle :
 
--respect des distances d'éloignement (le non-respect de ce point relève d'une non-conformité majeure).
+-respect des distances d'isolement (le non-respect de ce point relève d'une non-conformité majeure).
 
 2.1.2. Prescriptions spécifiques à l'emploi de l'ammoniac (installations de réfrigération)
 
 L'installation est implantée de façon à ce que les murs extérieurs de la salle des machines (telle que définie au point 2.4.2 de la présente annexe) soient situés à une distance :
 
--d'au moins 10 mètres des limites de propriété lorsque les trois conditions suivantes sont respectées :
+-d'au moins 10 mètres des limites du site lorsque les trois conditions suivantes sont respectées :
 
 -tous les équipements de production du froid, dont le condenseur, sont localisés dans une salle des machines. Les éléments de distribution sont situés à l'intérieur des bâtiments, ou, lorsque c'est physiquement impossible ou économiquement disproportionné, protégés par un capotage ;
 
@@ -118,7 +116,7 @@ L'installation est implantée de façon à ce que les murs extérieurs de la sal
 
 -la hauteur du point de rejet de l'extraction mécanique d'urgence de la salle des machines est au minimum égale à 7 mètres (à partir du sol) ;
 
--d'au moins 15 mètres des limites de propriété lorsque les quatre conditions suivantes sont respectées :
+-d'au moins 15 mètres des limites du site lorsque les quatre conditions suivantes sont respectées :
 
 -les équipements de production du froid, à l'exception du condenseur, sont localisés dans une salle des machines. Les éléments de distribution sont situés à l'intérieur des bâtiments, ou, lorsque c'est physiquement impossible ou économiquement disproportionné, protégés par un capotage ;
 
@@ -128,15 +126,23 @@ L'installation est implantée de façon à ce que les murs extérieurs de la sal
 
 -la hauteur du point de rejet de l'extraction mécanique d'urgence est au minimum égale à 10 mètres (à partir du sol) ;
 
--d'au moins 50 mètres dans les autres cas.
+-d'au moins 50 mètres des limites du site dans les autres cas.
 
-En outre, tout autre élément de l'installation contenant de l'ammoniac est situé à une distance minimale de 10 mètres des limites de propriété.
+En outre, tout autre élément de l'installation contenant de l'ammoniac est situé à une distance minimale de 10 mètres des limites du site.
 
 Objet du contrôle :
 
--respect des distances d'éloignement en fonction des caractéristiques techniques de l'installation (le non-respect de ce point relève d'une non-conformité majeure) ;
+-respect des distances d'isolement en fonction des caractéristiques techniques de l'installation (le non-respect de ce point relève d'une non-conformité majeure) ;
 
 -pour les installations de réfrigération : présence d'une extraction mécanique d'urgence et essai de mise en route manuel (le non-respect de ce point relève d'une non-conformité majeure).
+
+2.1.3. Prescriptions spécifiques au stockage ou à l'emploi de récipients de capacité unitaire supérieure à 50 kilogrammes (hors installations de réfrigération)
+
+L'installation est implantée à une distance minimale des limites du site de 50 mètres.
+
+Objet du contrôle :
+
+-respect de la distance d'isolement (le non-respect de ce point relève d'une non-conformité majeure).
 
 2.2. Intégration dans le paysage
 
@@ -150,7 +156,7 @@ Objet du contrôle :
 
 2.4. Comportement au feu des bâtiments
 
-2.4.1. Prescriptions spécifiques au stockage ou à l'emploi de récipients de capacité unitaire inférieure ou égale à 50 kilogrammes
+2.4.1. Prescriptions spécifiques au stockage ou à l'emploi de récipients (hors installations de réfrigération)
 
 Les locaux présentent les caractéristiques de résistance au feu minimales suivantes :
 
@@ -178,13 +184,11 @@ Objet du contrôle :
 
 2.4.2. Prescriptions spécifiques à l'emploi de l'ammoniac (installations de réfrigération)
 
-Les salles des machines sont conçues de façon à respecter les prescriptions du chapitre 5 de la
-
-norme NF EN 378-3 (version 2008).
+Les salles des machines sont conçues de façon à respecter les prescriptions du chapitre 5 de la norme NF EN 378-3 (version 2008).
 
 2.4.3. Toitures et couvertures de toiture
 
-Les toitures et couvertures de toiture des locaux de stockage ou d'emploi de récipients de capacité unitaire inférieure ou égale à 50 kg et de la salle des machines des installations de réfrigération répondent à la classe BROOF (t3).
+Les toitures et couvertures de toiture des locaux de stockage ou d'emploi de récipients et de la salle des machines des installations de réfrigération répondent à la classe BROOF (t3).
 
 2.5. Accessibilité
 
@@ -234,11 +238,9 @@ Depuis cette voie, une échelle accédant à au moins toute la hauteur du bâtim
 
 -aucun obstacle aérien ne gêne la manœuvre de ces échelles à la verticale de l'ensemble de la voie ;
 
--la distance par rapport à la façade est de 1 mètre minimum et 8 mètres maximum pour un
+-la distance par rapport à la façade est de 1 mètre minimum et 8 mètres maximum pour un stationnement parallèle au bâtiment et inférieure à 1 mètre pour un stationnement perpendiculaire au bâtiment ;
 
-stationnement parallèle au bâtiment et inférieure à 1 mètre pour un stationnement perpendiculaire au bâtiment ;
-
--la voie résiste à la force portante calculée pour un véhicule de 160 kN avec un maximum de 90 kN par essieu, ceux-ci étant distants de 3,6 mètres au minimum et présentent une résistance au poinçonnement minimale de 80 N/ cm2.
+-la voie résiste à la force portante calculée pour un véhicule de 160 kN avec un maximum de 90 kN par essieu, ceux-ci étant distants de 3,6 mètres au minimum et présentent une résistance au poinçonnement minimale de 80 N/ cm 2.
 
 2.5.5. Mise en place des échelles en vue d'accès aux planchers en cas de dépôt couvert
 
@@ -262,9 +264,7 @@ Les panneaux d'obturation ou les châssis composant ces accès s'ouvrent et deme
 
 Sans préjudice des dispositions du code du travail, les locaux dans lesquels est employé ou stocké l'ammoniac sont convenablement ventilés, en phase normale d'exploitation.
 
-Le débouché à l'atmosphère de la ventilation est placé aussi loin que possible des immeubles
-
-habités ou occupés par des tiers et des bouches d'aspiration d'air extérieur.
+Le débouché à l'atmosphère de la ventilation est placé aussi loin que possible des immeubles habités ou occupés par des tiers et des bouches d'aspiration d'air extérieur.
 
 2.7. Installations électriques
 
@@ -284,17 +284,109 @@ Les matières recueillies sont de préférence récupérées et recyclées ou, e
 
 2.11. [⁎]
 
-2.12. Aménagement et organisation des locaux de stockage ou d'emploi de récipients de capacité unitaire inférieure ou égale à 50 kilogrammes
+2.12. Aménagement et organisation des zones de stockage ou d'emploi de récipients (hors installations de réfrigération)
 
-Les locaux de stockage et d'emploi des récipients de capacité unitaire inférieure ou égale à 50 kilogrammes sont aménagés et organisés en fonction des risques présentés par les substances ou préparations stockées, tels qu'identifiés au point 4.1. Des emplacements prédéterminés sont aménagés pour le positionnement au sol et le maintien des récipients d'ammoniac en position verticale, robinet vers le haut. Toutes dispositions sont prises pour éviter leur chute et les chocs.
+Les zones de stockage ou d'emploi des récipients sont aménagées et organisées en fonction des risques présentés par les substances ou mélanges stockés, tels qu'identifiés au point 4.1.
 
-Les conditions de stockage permettent de maintenir les récipients à l'abri des intempéries et de toute source d'inflammation.
+Les conditions de stockage ou d'emploi permettent de maintenir les récipients à l'abri de toute source d'inflammation.
 
-Pour le stockage ou l'emploi de récipients de capacité unitaire inférieure ou égale à 50 kg, les récipients possèdent en permanence un chapeau fermé ou un chapeau ouvert de protection des robinets. Ces chapeaux de protection des robinets respectent la résistance mécanique et les propriétés physiques décrites aux chapitres 4,5 et 6 de la norme NF EN ISO 11117 de 2008 ou de toute norme équivalente en vigueur dans l'Union européenne ou l'Espace économique européen. Un bouchon de protection est vissé sur le raccord de sortie.
+La conception de l'installation, notamment des tuyauteries (diamètres, longueurs), est telle que la quantité d'ammoniac mise en œuvre est limitée au besoin nécessaire à son bon fonctionnement.
+
+Les tuyauteries sont efficacement protégées contre les chocs et la corrosion.
+
+La mise à l'atmosphère volontaire d'ammoniac est interdite.
+
+Les sorties de vannes en communication directe avec l'atmosphère sont obturées (bouchons de fin de ligne, etc.).
+
+Les opérations de remplissage de récipients transportables sont interdites sur site, excepté lors des opérations de maintenance ponctuelles nécessitant une vidange du circuit. Ces opérations font l'objet d'une procédure spécifique.
 
 Objet du contrôle :
 
--vérification de la présence permanente du chapeau sur le récipient et d'un bouchon de protection vissé sur le raccord de sortie (le non-respect de ce point relève d'une non-conformité majeure).
+-vérification que les tuyauteries sont protégées contre les chocs et la corrosion ;
+
+-vérification que les sorties de vannes en communication directe avec l'atmosphère sont obturées (le non-respect de ce point relève d'une non-conformité majeure).
+
+2.12.1. Récipients de capacité unitaire inférieure ou égale à 50 kilogrammes
+
+Des emplacements prédéterminés sont aménagés pour le positionnement au sol et le maintien des récipients d'ammoniac en position verticale, robinet vers le haut. Toutes dispositions sont prises pour éviter leur chute et les chocs.
+
+Pour le stockage de récipients de capacité unitaire inférieure ou égale à 50 kg, les robinets sont en position fermée et chaque récipient possède en permanence son capot de protection des robinets. Ce capot de protection des robinets respecte la résistance mécanique et les propriétés physiques décrites aux chapitres 4,5 et 6 de la norme NF EN ISO 11117 de 2008 ou de toute norme équivalente en vigueur dans l'Union européenne ou l'Espace économique européen. Un bouchon de protection est vissé sur le raccord de sortie.
+
+Objet du contrôle :
+
+-vérification sur chaque récipient dans la zone de stockage de la présence permanente du capot de protection et d'un bouchon de protection vissé sur le raccord de sortie (le non-respect de ce point relève d'une non-conformité majeure).
+
+2.12.2. Récipients de capacité supérieure à 50 kilogrammes
+
+A.-Pour le stockage ou l'emploi de récipients fixes, le raccordement de plusieurs récipients fixes est interdit. Chaque récipient est solidement ancré au sol et protégé contre les chocs.
+
+Chaque récipient fixe d'ammoniac comporte :
+
+-une jauge permettant de contrôler le volume de liquide contenu. Le taux de remplissage du récipient n'excède pas 80 % du volume du récipient à la température de remplissage : ce niveau limite est défini pour préserver un ciel gazeux suffisant afin de permettre toute expansion thermique naturelle pouvant survenir après l'opération de remplissage ;
+
+-un second dispositif, indépendant de la jauge de niveau, permettant de détecter le franchissement du niveau de 85 %. Cette détection entraîne le déclenchement d'une alarme sonore et visuelle et la mise en sécurité automatique de l'installation telle que prévue au C.
+
+Chaque récipient fixe est équipé au minimum de deux soupapes tarées à sa pression maximale de service et en nombre et caractéristiques suffisants pour empêcher sa rupture suite à une surpression accidentelle.
+
+Sur chaque récipient fixe, les circuits de remplissage et de dépotage sont indépendants.
+
+Le circuit de remplissage comporte :
+
+-sur la phase liquide, un clapet antiretour placé à l'intérieur du récipient et une vanne automatique placée au plus près du récipient, doublée d'une vanne manuelle facilement accessible ;
+
+-sur la phase gaz, une vanne automatique placée au plus près du récipient doublée d'une vanne manuelle facilement accessible.
+
+Le circuit de soutirage sur la phase liquide ou sur la phase gaz comporte un dispositif limitant le débit au maximum à 750 kg/ h placé à l'intérieur du réservoir et une vanne automatique placée au plus près du récipient doublée d'une vanne manuelle facilement accessible. Le retour de gaz n'est possible que lorsque cela est nécessaire pour la sécurité du fonctionnement de l'installation. Dans ce cas, la ligne de retour de gaz est équipée d'un clapet antiretour placé au plus près du récipient et d'une vanne automatique doublée d'une vanne manuelle facilement accessible.
+
+B.-Pour le stockage ou l'emploi de récipients transportables, seuls des récipients autorisés au transport de matières dangereuses sont utilisables dans des conditions compatibles avec l'efficacité de leurs équipements de sécurité.
+
+Des emplacements prédéterminés sont aménagés pour le positionnement au sol et le maintien de chaque récipient transportable d'ammoniac dans une position stable. Ils sont efficacement calés avec le robinet disposé suivant les recommandations du fabricant du récipient. Toutes dispositions sont prises pour éviter leur chute et les chocs.
+
+Le circuit de soutirage sur la phase liquide ou sur la phase gaz comporte, placés au plus près du récipient, un dispositif limitant le débit au maximum à 750 kg/ h ou à 1 000 kg/ h lorsque la capacité unitaire du récipient transportable est inférieure à 500 kg, et une vanne automatique doublée d'une vanne manuelle facilement accessible.
+
+Le retour de gaz n'est possible que lorsque cela est nécessaire pour la sécurité du fonctionnement de l'installation. Dans ce cas, la ligne de retour de gaz est équipée d'un clapet antiretour placé au plus près du récipient et d'une vanne automatique doublée d'une vanne manuelle facilement accessible.
+
+En cas de connexion de plusieurs récipients transportables, chaque récipient peut être isolé automatiquement dans le cadre de la mise en sécurité de l'installation telle que prévue au C, et manuellement par une vanne ou un robinet facilement accessible. Dans ce cas, chaque collecteur comporte un dispositif limitant le débit au maximum à 750 kg/ h.
+
+C.-La mise en sécurité automatique de l'installation est déclenchée en cas de :
+
+-dépassement du niveau de 85 % tel que prévu au A ;
+
+-détection d'ammoniac telle que prévue au point 4.3.1 de l'annexe I.
+
+La mise en sécurité automatique de l'installation consiste en :
+
+-la fermeture de l'ensemble des vannes automatiques ;
+
+-l'arrêt des éventuels équipements de transfert ou de manipulation de l'ammoniac.
+
+Le système de mise en sécurité automatique est également actionnable manuellement (bouton d'arrêt d'urgence) en au moins deux points opposés de la zone de stockage ou d'emploi et dûment signalés.
+
+Le système de mise en sécurité automatique est à sécurité positive.
+
+La remise en service après mise en sécurité ne peut pas être faite de manière automatique. Elle fait l'objet d'une procédure permettant de contrôler l'installation avant remise en service.
+
+D.-Avant la mise en service initiale, l'exploitant vérifie :
+
+-la compatibilité des matériaux constitutifs de l'installation à l'ensemble des conditions de fonctionnement ;
+
+-l'étanchéité de l'installation.
+
+Si cette vérification est effectuée en application de la réglementation relative aux équipements sous pression, elle est réputée répondre aux dispositions des trois alinéas précédents pour la partie de l'installation concernée par ce contrôle.
+
+Le résultat de ce contrôle est conservé et tenu à la disposition de l'inspecteur des installations classées et de l'organisme chargé du contrôle périodique.
+
+E.-L'exploitant établit un programme de contrôle de l'ensemble de l'installation, en s'assurant qu'il intègre un contrôle visuel de la présence et du bon état de tous les équipements de sécurité (jauge, détecteur de niveau, soupapes, clapet antiretour, dispositif limitant le débit, vannes automatiques et manuelles) et un test de bon fonctionnement de la chaîne de mise en sécurité automatique sur détection d'ammoniac. La fréquence de contrôle est inférieure à six mois. Les dispositifs de détection de niveau et la chaîne de sécurité associée sont vérifiés suivant les préconisations du fabricant, à chaque ouverture du récipient fixe et au minimum tous les dix ans. Chaque contrôle donne lieu à un rapport écrit, tenu à la disposition de l'inspecteur des installations classées et de l'organisme chargé du contrôle périodique.
+
+Objet du contrôle :
+
+-présence des équipements de sécurité principaux tels que jauge, second dispositif de détection de niveau, soupapes, clapet antiretour, dispositif limitant le débit, vannes automatiques et manuelles (le non-respect de ce point relève d'une non-conformité majeure) ;
+
+-présentation du justificatif du dimensionnement de chaque dispositif limitant le débit (le non-respect de ce point relève d'une non-conformité majeure) ;
+
+-présentation du résultat du contrôle prescrit au D (le non-respect de ce point relève d'une non-conformité majeure) ;
+
+-présentation du dernier rapport de contrôle prescrit au E (le non-respect de ce point relève d'une non-conformité majeure).
 
 3. Exploitation.-Entretien
 
@@ -304,7 +396,9 @@ L'exploitation se fait sous la surveillance, directe ou indirecte, d'une personn
 
 3.2. Contrôle de l'accès
 
-Les personnes étrangères à l'établissement n'ont pas d'accès libre aux installations. De plus, en l'absence du personnel d'exploitation, cet accès est interdit aux personnes non autorisées.
+Les personnes étrangères au site n'ont pas d'accès libre aux installations. De plus, en l'absence du personnel d'exploitation, cet accès est interdit aux personnes non autorisées.
+
+Les zones extérieures de stockage ou d'emploi des récipients de capacité unitaire supérieure à 50 kilogrammes sont entièrement clôturées par une clôture de hauteur minimale de 2 mètres, munie d'au moins deux accès disposés dans deux directions opposées. La distance entre la clôture et les récipients est supérieure à 10 mètres. Cette clôture n'est pas exigée si le ou les récipients de capacité unitaire supérieure à 50 kg (hors installations de réfrigération) sont situés à l'intérieur d'un site entièrement clôturé par une clôture de hauteur minimale de 2 mètres et sous réserve que l'accès au site soit réservé strictement à du personnel d'exploitation.
 
 Objet du contrôle :
 
@@ -314,7 +408,7 @@ Objet du contrôle :
 
 Sans préjudice des dispositions du code du travail, l'exploitant dispose des documents lui permettant de connaître la nature et les risques des produits dangereux présents dans l'installation, en particulier les fiches de données de sécurité.
 
-Les récipients portent en caractères lisibles le nom des produits et, s'il y a lieu, les symboles de danger conformément à la réglementation relative à l'étiquetage des substances et préparations chimiques dangereuses.
+Les récipients portent en caractères lisibles le nom des produits et, s'il y a lieu, les symboles de danger conformément à la réglementation relative à l'étiquetage des substances et mélanges dangereux
 
 Objet du contrôle :
 
@@ -358,6 +452,8 @@ Ces consignes prévoient notamment :
 
 -les conditions de conservation et de stockage des produits.
 
+-la procédure adaptée aux opérations de maintenance ponctuelles nécessitant une vidange du circuit. Elle intègre un contrôle continu par pesée du récipient utilisé pour la récupération d'ammoniac.
+
 Objet du contrôle :
 
 -présentation des consignes.
@@ -376,7 +472,7 @@ Objet du contrôle :
 
 4.1. Localisation des risques
 
-L'exploitant recense et signale sur un panneau conventionnel, sous sa responsabilité, les parties de l'installation qui, en raison des caractéristiques qualitatives et quantitatives des matières mises en oeuvre, stockées, utilisées ou produites, sont susceptibles d'être à l'origine d'un sinistre pouvant avoir des conséquences directes ou indirectes sur les intérêts visés au L. 511-1 du code de l'environnement.
+L'exploitant recense et signale sur un panneau conventionnel, sous sa responsabilité, les parties de l'installation qui, en raison des caractéristiques qualitatives et quantitatives des matières mises en œuvre, stockées, utilisées ou produites, sont susceptibles d'être à l'origine d'un sinistre pouvant avoir des conséquences directes ou indirectes sur les intérêts visés au L. 511-1 du code de l'environnement.
 
 Une signalisation adéquate posée sur la porte d'accès à tout local de stockage ou d'emploi
 
@@ -404,13 +500,25 @@ Objet du contrôle :
 
 4.3.1. Systèmes de détection
 
-1. Prescriptions spécifiques au stockage ou à l'emploi de récipients de capacité unitaire inférieure ou égale à 50 kg
+I. Prescriptions spécifiques au stockage ou à l'emploi de récipients (hors installations de réfrigération)
 
 Des détecteurs de gaz sont mis en place dans les parties de l'installation visées au point 4.1 présentant les plus grands risques en cas de dégagement ou d'accumulation importante de gaz ou de vapeurs toxiques. Ces parties de l'installation sont équipées de systèmes de détection dont les niveaux de sensibilité sont adaptés aux situations.
 
+Pour les récipients de capacité unitaire supérieure à 50 kg, l'implantation des détecteurs résulte d'une étude préalable. La détection d'ammoniac déclenche une alarme sonore ou lumineuse permettant d'avertir le personnel d'exploitation et la mise en sécurité automatique de l'installation telle que prévue au C du point 2.12.2. L'exploitant dresse la liste de ces détecteurs avec leur fonctionnalité et détermine les opérations d'entretien destinées à maintenir leur efficacité dans le temps.
+
 Objet du contrôle :
 
--présence de détecteurs dans les zones d'emploi ou de stockage d'ammoniac (le non-respect de ce point relève d'une non-conformité majeure).
+Pour tous les récipients :
+
+-présence de détecteurs dans les zones d'emploi ou de stockage d'ammoniac (le non-respect de ce point relève d'une non-conformité majeure) ;
+
+Pour les récipients de capacité unitaire supérieure à 50 kg :
+
+-présentation de l'étude préalable justifiant l'implantation des détecteurs ;
+
+-présentation de la liste des détecteurs ;
+
+-implantation conforme aux préconisations de l'étude préalable (le non-respect de ce point relève d'une non-conformité majeure).
 
 2. Prescriptions spécifiques à l'emploi de l'ammoniac (installations de réfrigération)
 
@@ -460,7 +568,7 @@ Objet du contrôle :
 
 -présence et implantation d'au moins un extincteur (le non-respect de ce point relève d'une non-conformité majeure) ;
 
--présence et implantation d'au moins un appareil d'incendie de débit 60 m3/ h pendant deux heures. À défaut, présence et implantation d'une réserve d'eau en conformité avec l'avis des services départementaux d'incendie et de secours (le non-respect de ce point relève d'une non-conformité majeure) ;
+-présence et implantation d'au moins un appareil d'incendie de débit 60 m 3/ h pendant deux heures. À défaut, présence et implantation d'une réserve d'eau en conformité avec l'avis des services départementaux d'incendie et de secours (le non-respect de ce point relève d'une non-conformité majeure) ;
 
 -présentation d'un justificatif de contrôle annuel des matériels (le non-respect de ce point relève d'une non-conformité majeure).
 
@@ -468,9 +576,7 @@ Objet du contrôle :
 
 4.5. Interdiction des feux
 
-Dans les parties de l'installation présentant des risques d'incendie ou d'explosion, il est interdit
-
-d'apporter du feu sous une forme quelconque, sauf pour la réalisation de travaux ayant fait l'objet d'un " permis de feu ".
+Dans les parties de l'installation présentant des risques d'incendie ou d'explosion, il est interdit d'apporter du feu sous une forme quelconque, sauf pour la réalisation de travaux ayant fait l'objet d'un " permis de feu ".
 
 4.6. " Permis d'intervention ".-" Permis de feu "
 
@@ -492,7 +598,9 @@ Ces consignes indiquent notamment :
 
 -les procédures d'arrêt d'urgence et de mise en sécurité de l'installation (électricité, réseaux de fluides) ;
 
--les mesures à prendre en cas de fuite sur un récipient ou une tuyauterie contenant des substances dangereuses, notamment les conditions de rejet prévues au point 5.7 ;
+-les mesures à prendre en cas de fuite sur un récipient ou une tuyauterie contenant des
+
+substances dangereuses, notamment les conditions de rejet prévues au point 5.7 ;
 
 -les précautions à prendre pour l'emploi et le stockage de produits incompatibles ;
 
@@ -510,7 +618,7 @@ Objet du contrôle :
 
 4.8. Capacités d'ammoniac et dispositifs limiteurs de pression (dispositions spécifiques aux installations de réfrigération)
 
-Les capacités accumulatrices (réservoirs basse pression, moyenne pression, haute pression) possèdent un indicateur de niveau de liquide.
+Les capacités accumulatrices (récipients basse pression, moyenne pression, haute pression) possèdent un indicateur de niveau de liquide.
 
 Plusieurs capacités réunies par des tuyauteries peuvent être isolées les unes des autres au moyen de vannes manuelles, ouvertes en fonctionnement normal (à l'exception des vannes isolant des capacités usuellement inutilisées), facilement accessibles en toutes circonstances ou par des vannes automatiques pilotées par un ou plusieurs paramètres de l'installation ou actionnées par des " coups de poing " judicieusement placés. À tout moment, la position des vannes est connue.
 
@@ -616,7 +724,9 @@ Le rejet direct ou indirect même après épuration d'eaux résiduaires dans une
 
 5.7. Prévention des pollutions accidentelles
 
-Des dispositions sont prises pour qu'il ne puisse pas y avoir, en cas d'accident (notamment rupture de récipient ou de cuvette, ou en cas d'incendie), déversement de matières dangereuses dans les égouts publics ou le milieu naturel. L'évacuation des effluents recueillis se fait soit dans les conditions prévues au point 5.5 ci-dessus, soit comme des déchets dans les conditions prévues au point 7 ci-après.
+Des dispositions sont prises pour qu'il ne puisse pas y avoir, en cas d'accident (notamment
+
+rupture de récipient ou de cuvette, ou en cas d'incendie), déversement de matières dangereuses dans les égouts publics ou le milieu naturel. L'évacuation des effluents recueillis se fait soit dans les conditions prévues au point 5.5 ci-dessus, soit comme des déchets dans les conditions prévues au point 7 ci-après.
 
 Des dispositifs permettant l'obturation des réseaux d'évacuation des eaux de ruissellement sont implantés afin de maintenir sur le site l'écoulement d'un accident de transport. Une consigne définit les modalités de mise en oeuvre de ces dispositifs.
 
@@ -782,4 +892,4 @@ Outre les dispositions prévues au point 1.7, l'exploitant remet en état le sit
 
 -les cuves ayant contenu des produits susceptibles de polluer les eaux et les installations de réfrigération sont vidées, nettoyées, dégazées et, le cas échéant, décontaminées. Elles sont si possible enlevées, sinon et, dans le cas spécifique des cuves enterrées, elles sont rendues inutilisables par remplissage avec un matériau solide inerte.
 
-[⁎] Un modèle a été constitué pour la rédaction des arrêtés de prescriptions générales applicables aux installations soumises à déclaration. Certaines dispositions de ce modèle, qui ne se justifient pas pour les installations visées par la rubrique n° 1136, ont été supprimées. Néanmoins, la numérotation a été conservée pour permettre une homogénéité entre les arrêtés de prescriptions générales de toutes les rubriques de la nomenclature.
+* Un modèle a été constitué pour la rédaction des arrêtés de prescriptions générales applicables aux installations soumises à déclaration. Certaines dispositions de ce modèle, qui ne se justifient pas pour les installations visées par le présent arrêté, ont été supprimées. Néanmoins, la numérotation a été conservée pour permettre une homogénéité entre les arrêtés de prescriptions générales de toutes les rubriques de la nomenclature.
