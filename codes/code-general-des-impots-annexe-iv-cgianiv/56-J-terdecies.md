@@ -4,7 +4,7 @@ Le cahier des charges prévu à l'article 275 ter B de l'annexe II au code gén�
 
 L'autorisation de procéder au marquage au laser pour attester la garantie du titre doit être demandée au directeur général des douanes et droits indirects. Elle est accordée après vérification de la conformité du protocole de sécurité par des organismes agréés mentionnés à l'article 275 ter G de l'annexe II au code général des impôts.
 
-La direction générale des douanes et droits indirects et la direction générale de la compétitivité, de l'industrie et des services approuvent le cahier des charges préalablement à l'agrément de l'organisme de contrôle.
+La direction générale des douanes et droits indirects et la direction générale des entreprises approuvent le cahier des charges préalablement à l'agrément de l'organisme de contrôle.
 
 Le cahier des charges mentionné au premier alinéa est composé notamment :
 
@@ -37,3 +37,7 @@ a) En cas du marquage au laser, la description du dessin de l'empreinte du poin�
 b) Le respect des règles de marque ;
 
 c) La tenue d'une comptabilité matières mentionnant le nombre et le poids des ouvrages essayés, détaillant les ouvrages marqués par type de métal, précisant la modalité d'attestation de la garantie du titre parmi celles prévues à l'article 523 du code général des impôts et recensant les ouvrages reconnus aux titres non légaux.
+
+NOTA :
+
+Modifications effectuées en conséquence de l'article 4 du décret n° 2014-1048 du 15 septembre 2014.
