@@ -16,7 +16,7 @@ né le (date de naissance du candidat)
 
 à
 
-(lieu de naissance), est titulaire du certificat attestant de sa qualification pour la réalisation de contrôles périodiques obligatoires des pulvérisateurs à rampe et pour arbres et arbustes en application de l'article L. 256-2 du code rural et de la pêche maritime.
+(lieu de naissance), est titulaire du certificat attestant de sa qualification pour la réalisation de contrôles périodiques obligatoires des catégories de pulvérisateurs prévus à l'article D. 256-14 du code rural et de la pêche maritime en application de l'article L. 256-2 du code rural et de la pêche maritime.
 
 Ce certificat est valable cinq ans à compter de ce jour.
 
@@ -38,7 +38,7 @@ né le (date de naissance du candidat)
 
 à (lieu de naissance),
 
-ayant obtenu le certificat attestant de sa qualification pour le contrôle périodique obligatoire des pulvérisateurs à rampe et pour arbres et arbustes, le (date),
+ayant obtenu le certificat attestant de sa qualification pour le contrôle périodique obligatoire des catégories de pulvérisateurs prévus à l'article D. 256-14 du code rural et de la pêche maritime, le (date),
 
 délivré par (centre de formation),
 
