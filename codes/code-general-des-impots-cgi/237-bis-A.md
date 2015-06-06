@@ -37,3 +37,7 @@ III. Les dispositions du présent article s'appliquent pour chaque entreprise au
 IV.-Les provisions prévues aux 1 et 2 du II cessent d'être admises en déduction des résultats imposables constatés au titre des exercices clos à compter du 17 août 2012. A compter de ces mêmes exercices, les 5 et 6 du II s'appliquent aux seules provisions constituées en application du 3 dudit II.
 
 Les provisions mentionnées au premier alinéa du présent IV figurant à l'ouverture du premier exercice clos à compter de cette même date sont rapportées aux résultats imposables dans les conditions prévues au 4 du II.
+
+NOTA :
+
+Modifications effectuées en conséquence de l'article 30-I de la loi n° 2014-856 du 31 juillet 2014.

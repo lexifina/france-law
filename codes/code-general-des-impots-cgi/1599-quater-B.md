@@ -12,19 +12,13 @@ III. ― Le montant de l'imposition est établi de la manière suivante :
 
 a) Pour les répartiteurs principaux de la boucle locale cuivre, le montant de l'imposition de chaque répartiteur principal est fonction du nombre de lignes en service qu'il comporte au 1er janvier de l'année d'imposition. Le tarif de l'imposition par ligne en service est établi selon le barème suivant :
 
-(En euros)
-
 NATURE DE L'ÉQUIPEMENT
 
 |
 
 TARIF
 
-2014
-
-|
-
-TARIF
+(en euros)
 
 2015
 
@@ -32,11 +26,15 @@ TARIF
 
 TARIF
 
+(en euros)
+
 2016
 
 |
 
 TARIF
+
+(en euros)
 
 à compter de 2017
 
@@ -46,11 +44,7 @@ Ligne en service d'un répartiteur principal
 
 |
 
-5,07
-
-|
-
-7,59
+7,62
 
 |
 
@@ -64,29 +58,33 @@ Ligne en service d'un répartiteur principal
 
 b) Pour les unités de raccordement d'abonnés et les cartes d'abonnés du réseau téléphonique commuté, le montant de l'imposition est établi en fonction de la nature de l'équipement selon le barème suivant :
 
-(En euros)
-
 NATURE DE L'ÉQUIPEMENT
 
 |
 
-TARIF 2014
+TARIF
+
+(en euros)
+
+2015
 
 |
 
-TARIF 2015 |
+TARIF
 
-TARIF 2016 |
+(en euros)
+
+2016
+
+|
 
 Unité de raccordement d'abonnés
 
 |
 
-5 026
+3 361
 
 |
-
-3 346 |
 
 1 673
 
@@ -96,17 +94,11 @@ Carte d'abonné
 
 |
 
-54,83
+36,66
 
 |
 
-36,5
-
-|
-
-18,25
-
-|
+18,25 |
 
 IV. ― Le redevable de la taxe déclare, au plus tard le deuxième jour ouvré suivant le 1er mai de l'année d'imposition, par région, département et commune :
 

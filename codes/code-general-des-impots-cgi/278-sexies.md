@@ -36,7 +36,7 @@ Le prix de vente ou de construction des logements ne peut excéder les plafonds 
 
 II. - Les livraisons à soi-même d'immeubles dont l'acquisition aurait bénéficié du taux réduit de 5,5 % en application du I ;
 
-III. - 1. Les livraisons à soi-même de travaux portant sur les locaux mentionnés aux 2, 5, 6 et 8 du I du présent article, lorsque ces travaux consistent en une extension ou rendent l'immeuble à l'état neuf, au sens du 2° du 2 du I de l'article 257, sous réserve de la prise en compte de ces opérations d'extension ou de remise à neuf dans les conventions mentionnées aux 2, 5, 6 et 8 du I du présent article ;
+III. - 1. Les livraisons à soi-même de travaux portant sur les locaux mentionnés aux 2, 5, 6 et 8 du I, lorsque ces travaux consistent en une extension ou rendent l'immeuble à l'état neuf, au sens du 2° du 2 du I de l'article 257, sous réserve de la prise en compte de ces opérations d'extension ou de remise à neuf dans les conventions mentionnées aux 2, 5, 6 et 8 du I du présent article ;
 
 2. Les livraisons à soi-même de travaux de rénovation, d'amélioration, de transformation ou d'aménagement réalisés dans le cadre de l'une des opérations suivantes, lorsque l'acquéreur bénéficie pour cette opération d'un prêt accordé pour la construction, l'acquisition ou l'amélioration de logements locatifs aidés ou d'une subvention de l'Agence nationale pour la rénovation urbaine et a conclu avec l'Etat une convention en application des 3° à 5° de l'article L. 351-2 du code de la construction et de l'habitation :
 

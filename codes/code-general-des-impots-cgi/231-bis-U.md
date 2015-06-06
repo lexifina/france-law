@@ -4,4 +4,4 @@ Les rémunérations versées par les centres techniques industriels mentionnés 
 
 NOTA :
 
-Loi n° 2008-1415 du 27 décembre 2008 article 128 II : Ces dispositions s'appliquent aux rémunérations versées à compter du 1er janvier 2009.
+Modifications effectuées en conséquence des articles 1er-2° et 3-11° de l'ordonnance n° 2014-135 du 17 février 2014.

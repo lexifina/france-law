@@ -36,11 +36,11 @@ II. ― La réduction d'impôt s'applique aux logements pour lesquels le contrib
 
 III. ― L'engagement de location mentionné au I doit prendre effet dans les douze mois qui suivent la date d'achèvement de l'immeuble ou de son acquisition si elle est postérieure. Cet engagement prévoit que le loyer et les ressources du locataire appréciées à la date de conclusion du bail ne doivent pas excéder des plafonds fixés par décret en fonction de la localisation du logement et de son type.
 
-Les plafonds de loyer mentionnés au premier alinéa peuvent être réduits, dans des conditions définies par décret, par le représentant de l'Etat dans la région après avis du comité régional de l'habitat mentionné à l'article L. 364-1 du code de la construction et de l'habitation, afin d'être adaptés aux particularités des marchés locatifs locaux.
+Les plafonds de loyer mentionnés au premier alinéa peuvent être réduits, dans des conditions définies par décret, par le représentant de l'Etat dans la région après avis du comité régional de l'habitat et de l'hébergement mentionné à l'article L. 364-1 du code de la construction et de l'habitation, afin d'être adaptés aux particularités des marchés locatifs locaux.
 
 IV. ― La réduction d'impôt s'applique exclusivement aux logements situés dans des communes classées, par arrêté des ministres chargés du budget et du logement, dans des zones géographiques se caractérisant par un déséquilibre important entre l'offre et la demande de logements entraînant des difficultés d'accès au logement sur le parc locatif existant.
 
-Dans les zones géographiques se caractérisant par un déséquilibre entre l'offre et la demande de logements, autres que celles mentionnées au premier alinéa, la réduction d'impôt s'applique aux logements situés dans des communes caractérisées par des besoins particuliers en logement locatif qui ont fait l'objet, dans des conditions définies par décret, d'un agrément du représentant de l'Etat dans la région après avis du comité régional de l'habitat mentionné à l'article L. 364-1 du code de la construction et de l'habitation.
+Dans les zones géographiques se caractérisant par un déséquilibre entre l'offre et la demande de logements, autres que celles mentionnées au premier alinéa, la réduction d'impôt s'applique aux logements situés dans des communes caractérisées par des besoins particuliers en logement locatif qui ont fait l'objet, dans des conditions définies par décret, d'un agrément du représentant de l'Etat dans la région après avis du comité régional de l'habitat et de l'hébergement mentionné à l'article L. 364-1 du code de la construction et de l'habitation.
 
 Toutefois, pour les logements que le contribuable acquiert jusqu'au 30 juin 2013 ou fait construire et qui font l'objet d'un dépôt de demande de permis de construire jusqu'à cette date, la réduction d'impôt s'applique également aux logements situés dans l'ensemble des communes classées dans les zones géographiques mentionnées au deuxième alinéa.
 
@@ -121,3 +121,5 @@ NOTA :
 Conformément au A du II de l'article 5 de la loi n° 2014-1654 du 29 décembre 2014 de finances pour 2015, les dispositions de l'article 199 novovicies, dans leur rédaction issue de la présente loi, s'appliquent aux acquisitions, aux constructions et aux souscriptions réalisées à compter du 1er septembre 2014, à l'exception des dispositions du D du I résultant du c du 1° du I du même article 5 qui ne s'appliquent qu'à ceux de ces investissements réalisés à compter du 1er janvier 2015.
 
 Conformément au B du II de l'article 5 de la loi n° 2014-1654 du 29 décembre 2014 de finances pour 2015 pour l'application B du VIII de l'article 199 novovicies du code général des impôts, ces dispositions ne s'appliquent pas aux souscriptions dont la date de clôture est antérieure au 1er septembre 2014.
+
+Modifications effectuées en conséquence de l'article 33-3° de la loi n° 2014-366 du 24 mars 2014.

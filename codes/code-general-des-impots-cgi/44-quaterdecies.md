@@ -62,7 +62,7 @@ Pour l'ensemble des sociétés d'un même groupe, le montant cumulé des abattem
 
 V.-Le bénéfice des abattements mentionnés aux II et III est subordonné :
 
-1° A la réalisation de dépenses de formation professionnelle en faveur du personnel de l'exploitation au titre de l'exercice qui suit celui au cours duquel les bénéfices ont fait l'objet d'un abattement. Elles doivent être exposées en faveur des salariés ou des dirigeants en activité à la date de clôture de l'exercice de leur engagement. Pour les entreprises soumises aux obligations prévues aux articles 235 ter D et 235 ter KA, les dépenses retenues sont celles exposées en sus de ces obligations. Les entreprises peuvent s'acquitter de la présente obligation en réalisant les dépenses prévues à l'article L. 6331-19 du code du travail ;
+1° A la réalisation de dépenses de formation professionnelle en faveur du personnel de l'exploitation au titre de l'exercice qui suit celui au cours duquel les bénéfices ont fait l'objet d'un abattement. Elles doivent être exposées en faveur des salariés ou des dirigeants en activité à la date de clôture de l'exercice de leur engagement. Pour les entreprises soumises aux obligations prévues aux articles 235 ter D et 235 ter KA, les dépenses retenues sont celles exposées en sus de ces obligations. Les entreprises peuvent s'acquitter de la présente obligation en réalisant les dépenses prévues à l'article L. 6331-19 du code du travail (1) ;
 
 2° Au versement d'une contribution au fonds d'appui aux expérimentations en faveur des jeunes créé par la loi n° 2008-1249 du 1er décembre 2008 généralisant le revenu de solidarité active et réformant les politiques d'insertion, au titre de l'exercice qui suit celui au cours duquel les bénéfices ont fait l'objet d'un abattement. Ce versement ne peut être inférieur à 20 % de l'ensemble constitué par les dépenses de formation professionnelle et la contribution au fonds d'appui aux expérimentations en faveur des jeunes.
 
@@ -83,3 +83,7 @@ VII.-Lorsqu'elle répond aux conditions requises pour bénéficier du régime pr
 VIII.-Les obligations déclaratives des entreprises sont fixées par décret.
 
 IX. - Le bénéfice de l'abattement mentionné au I est subordonné au respect du règlement (UE) n° 651/2014 de la Commission, du 17 juin 2014, précité.
+
+NOTA :
+
+(1) Au 1° du V, la quatrième phrase est disjointe. Modification effectuée en conséquence de l'article 10-I-13°, b et III de la loi n° 2014-288 du 5 mars 2014.

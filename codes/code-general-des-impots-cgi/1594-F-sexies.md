@@ -13,3 +13,7 @@ b) Soit en la vente d'un ou plusieurs lots, consécutive à la mise en copropri�
 3° L'acquéreur s'engage dans l'acte d'acquisition à affecter le logement à la location pendant une période minimale de six ans à compter de la date d'acquisition.
 
 Les dispositions de l'article 1594 E sont applicables.
+
+NOTA :
+
+Modifications effectuées en conséquence des articles 1er-2° et 51 de la loi n° 2013-403 du 17 mai 2013.

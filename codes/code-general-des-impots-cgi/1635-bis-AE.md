@@ -12,7 +12,7 @@ I. ― Est subordonné au paiement d'un droit perçu au profit de la Caisse nati
 
 5° Demande d'autorisation d'importation parallèle conformément à l'article L. 5124-13 du même code et de chaque demande de modification ou de renouvellement de cette autorisation ;
 
-6° Demande de visa ou de renouvellement de visa de publicité, mentionné aux articles L. 5122-8, L. 5122-9 et L. 5122-14 du même code ;
+6° Demande de visa ou de renouvellement de visa de publicité, mentionné aux articles L. 5122-8et L. 5122-9 du même code ;
 
 7° Demande d'autorisation ou de renouvellement d'autorisation de publicité, mentionnée aux articles L. 5213-4 et L. 5223-3 du même code.
 
@@ -29,3 +29,7 @@ d) 1 200 € pour les demandes mentionnées aux 6° et 7° du I.
 III. ― Le versement du droit est accompagné d'une déclaration dont le modèle est fixé par l'administration. Le droit est recouvré et contrôlé selon les mêmes garanties et sanctions qu'en matière de droits d'enregistrement. Il est donné quittance de son versement. A défaut de production de la quittance à l'appui de son dépôt à l'agence ou en cas de versement d'un montant insuffisant, le dossier de la demande est réputé incomplet.
 
 Lorsque le dossier d'une demande mentionnée au I est complet, le droit versé n'est restituable qu'à concurrence de la fraction de son montant dont l'agence a antérieurement constaté l'insuffisance de versement.
+
+NOTA :
+
+Modifications effectuées en conséquence de l'article 3-V de la loi n° 2014-201 du 24 février 2014.

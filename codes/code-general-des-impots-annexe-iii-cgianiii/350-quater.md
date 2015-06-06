@@ -2,7 +2,7 @@
 
 I.-La direction générale des douanes et droits indirects exerce les compétences prévues :
 
-1° Aux articles 306,321,412,426,427,450,454,1562,1565 septies du code général des impôts ;
+1° Aux articles 306,321,412,426,427,450,454,1562(1),1565 septies du code général des impôts ;
 
 2° Au premier alinéa de l'article 444 du code général des impôts ;
 
@@ -29,3 +29,7 @@ III.-La direction générale des douanes et droits indirects est compétente :
 2° Pour requérir la représentation du registre mentionné à l'article 330 du code général des impôts ;
 
 3° (sans objet).
+
+NOTA :
+
+(1) la référence [1562] devient sans objet, modification effectuée en conséquence de la loi n° 2014-1654 du 29 décembre 2014, article 21-I-11° et III

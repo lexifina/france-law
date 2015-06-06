@@ -8,7 +8,7 @@ II.-Le groupement ou la société doit, avant le 16 février de l'année civile 
 
 a. La raison sociale et l'adresse du siège social du groupement ou de la société ;
 
-b. Dans les cas prévus aux b et c du 2 de l'article 199 decies H précité et au 2° du 2 de l'article 200 quindecies précité précité, l'attestation que les engagements mentionnés au I ont été pris et sont respectés.
+b. Dans les cas prévus aux b et c du 2 de l'article 199 decies H précité et au 2° du 2 de l'article 200 quindecies précité, l'attestation que les engagements mentionnés au I ont été pris et sont respectés.
 
 c. Dans le cas prévu au 2° du 2 de l'article 200 quindecies précité, la nature de la garantie de gestion durable applicable à l'unité de gestion concernée, la nature, le montant total et la date de paiement des travaux forestiers ; le cas échéant, le groupement ou la société délivre également le document du fournisseur des matériels forestiers de reproduction utilisés mentionné à l'article R. 153-16 du code forestier et une attestation sur l'honneur selon laquelle est respecté l'arrêté régional relatif aux matériels forestiers de reproduction éligibles aux aides de l'Etat à l'investissement forestier ;
 
@@ -35,7 +35,3 @@ f. L'identité et l'adresse du cocontractant mentionné au 3° du 2 de l'article
 g. L'attestation de l'entreprise d'assurance précisant l'identité et l'adresse de l'assureur mentionné au d du 2 de l'article 199 decies H précité, la nature des risques couverts, le nombre d'hectares assurés contre le risque de tempête et le montant de la cotisation d'assurance versée pour couvrir notamment ce risque au titre de l'année civile.
 
 IV.-Les parts détenues par les associés qui entendent bénéficier de la réduction ou du crédit d'impôt sont inscrites, dans les trente jours suivant la date limite de dépôt de la déclaration de revenus de l'année au cours de laquelle la réduction ou le crédit d'impôt a été demandé, sur un compte ouvert au nom de l'associé dans la comptabilité du groupement ou de la société ou sur un registre spécial. Le groupement ou la société tient ce compte ou ce registre et conserve les documents relatifs aux opérations qui l'affectent jusqu'à la fin de la troisième année suivant celle de l'expiration de l'engagement de conservation des parts prévu aux b et c de l'article 199 decies H du code général des impôts et au 2° du 2 de l'article 200 quindecies du même code.
-
-NOTA :
-
-Modifications effectuées en conséquence des articles 2, 3, 6 et 7 du décret n° 2012-836 du 29 juin 2012.

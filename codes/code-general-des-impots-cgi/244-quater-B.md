@@ -34,7 +34,7 @@ d) Les dépenses exposées pour la réalisation d'opérations de même nature co
 
 5° Des fondations reconnues d'utilité publique du secteur de la recherche agréées conformément au d bis ;
 
-6° Des associations régies par la loi du 1er juillet 1901 relative au contrat d'association ayant pour fondateur et membre l'un des organismes mentionnés aux 1° ou 2° ou des sociétés de capitaux dont le capital ou les droits de vote sont détenus pour plus de 50 % par l'un de ces mêmes organismes. Ces associations et sociétés doivent être agréées conformément au d bis et avoir conclu une convention en application de l'article L. 313-2 du code de la recherche ou de l'article L. 762-3 du code de l'éducation avec l'organisme précité. Les travaux de recherche doivent être réalisés au sein d'une ou plusieurs unités de recherche relevant de l'organisme mentionné aux 1° ou 2° ayant conclu la convention.
+6° Des associations régies par la loi du 1er juillet 1901 relative au contrat d'association ayant pour fondateur et membre l'un des organismes mentionnés aux 1° ou 2° ou des sociétés de capitaux dont le capital ou les droits de vote sont détenus pour plus de 50 % par l'un de ces mêmes organismes. Ces associations et sociétés doivent être agréées conformément au d bis et avoir conclu une convention en application de l'article L. 533-3 du code de la recherche ou de l'article L. 762-3 du code de l'éducation avec l'organisme précité. Les travaux de recherche doivent être réalisés au sein d'une ou plusieurs unités de recherche relevant de l'organisme mentionné aux 1° ou 2° ayant conclu la convention.
 
 Ces dépenses sont retenues pour le double de leur montant à la condition qu'il n'existe pas de lien de dépendance au sens des deuxième à quatrième alinéas du 12 de l'article 39 entre l'entreprise qui bénéficie du crédit d'impôt et l'entité mentionnée aux 1° à 6° ;
 
@@ -102,7 +102,7 @@ Le prototype ou l'installation pilote d'un nouveau produit est un bien qui n'est
 
 Pour être éligibles au crédit d'impôt mentionné au premier alinéa du I, les dépenses prévues aux a à k doivent être des dépenses retenues pour la détermination du résultat imposable à l'impôt sur le revenu ou à l'impôt sur les sociétés dans les conditions de droit commun et, à l'exception des dépenses prévues aux e, e bis, j et des frais mentionnés aux 4° et 5° du k, correspondre à des opérations localisées au sein de l'Union européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen ayant conclu avec la France une convention d'assistance administrative en vue de lutter contre la fraude et l'évasion fiscales.
 
-Les dépenses visées aux a et 2° du h ne sont pas retenues pour le calcul du crédit d'impôt recherche lorsque les immobilisations concernées ont bénéficié du crédit d'impôt prévu à l'article 220 septies.
+(Périmé).
 
 Le bénéfice de la fraction du crédit d'impôt qui résulte de la prise en compte des dépenses prévues aux h et i est subordonné au respect du règlement (UE) n° 1407/2013 de la Commission, du 18 décembre 2013, relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis.
 
@@ -127,3 +127,5 @@ VI. - Un décret fixe les conditions d'application du présent article. Il en ad
 NOTA :
 
 Conformément au II de l'article 66 de la loi n° 2014-1654 du 29 décembre 2014 de finances, ces dispositions entrent en vigueur à compter du 1er janvier 2015 pour les entreprises qui satisfont aux conditions fixées au chapitre Ier et à la section 1 du chapitre III du règlement (UE) n° 651/2014 de la Commission, du 17 juin 2014, précité et, pour les autres entreprises, à une date fixée par décret, qui ne peut être postérieure de plus de six mois à la date de réception par le Gouvernement de la réponse de la Commission européenne permettant de regarder le dispositif législatif lui ayant été notifié comme conforme au droit de l'Union européenne en matière d'aides d'Etat. L'article 1er du décret n° 2015-1292 du 15 octobre 2015 a fixé l'entrée en vigueur de ces dispositions au 18 octobre 2015.
+
+Modifications effectuées en conséquence des articles 1er-2° et 3-9° de l'ordonnance n° 2014-135 du 17 février 2014.

@@ -53,3 +53,7 @@ Pour l'application du a et du b, le chiffre d'affaires doit être ramené ou por
 L'exonération s'applique à l'exercice ou la création d'activités résultant d'une reprise, d'un transfert, d'une concentration ou d'une restructuration d'activités préexistantes. Toutefois, lorsque celles-ci bénéficient ou ont bénéficié du régime prévu au présent article, l'exonération ne s'applique que pour sa durée restant à courir.
 
 Pour les contribuables qui exercent ou qui créent des activités dans les zones franches urbaines - territoires entrepreneurs mentionnées au présent VI avant le 1er janvier 2004, le bénéfice de l'exonération est subordonné au respect du règlement (UE) n° 1407/2013 de la Commission, du 18 décembre 2013, précité.
+
+NOTA :
+
+Modifications effectuées en conséquence de l'article 48-III de la loi n° 2014-1655 du 29 décembre 2014.

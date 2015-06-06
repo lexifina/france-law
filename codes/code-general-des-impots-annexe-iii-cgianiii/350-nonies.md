@@ -10,4 +10,8 @@ La direction générale des douanes et droits indirects :
 
 4° (sans objet).
 
-5° Accède à la comptabilité des organisateurs de réunions sportives en application du c du 3° de l'article 1561 du code général des impôts.
+5° (sans objet).
+
+NOTA :
+
+Modifications effectuées en conséquence de la loi n° 2020-1508 du 3 décembre 2020, art. 11-7°.

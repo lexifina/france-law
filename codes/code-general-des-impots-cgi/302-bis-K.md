@@ -32,11 +32,11 @@ Pour l'application du a, un décret précise les aéroports faisant partie d'un 
 
 II. - 1. Le tarif de la taxe est le suivant :
 
-4,36 € par passager embarqué à destination de la France, d'un autre Etat membre de la Communauté européenne, d'un autre Etat partie à l'accord sur l'Espace économique européen ou de la Confédération suisse ;
+4,40 € par passager embarqué à destination de la France, d'un autre Etat membre de la Communauté européenne, d'un autre Etat partie à l'accord sur l'Espace économique européen ou de la Confédération suisse ;
 
-7,85 € par passager embarqué vers d'autres destinations ;
+7,92 € par passager embarqué vers d'autres destinations ;
 
-1,30 € par tonne de courrier ou de fret embarquée.
+1,31 € par tonne de courrier ou de fret embarquée.
 
 A compter de l'année 2011, ces tarifs sont revalorisés chaque année dans une proportion égale au taux prévisionnel de croissance de l'indice des prix à la consommation hors tabac associé au projet de loi de finances de l'année.
 
@@ -120,4 +120,4 @@ Pour l'application du a, un décret précise les aéroports faisant partie d'un 
 
 NOTA :
 
-Loi n° 2013-1278 du 29 décembre 2013 de finances pour 2014, art. 108 II : Ces dispositions s'appliquent à compter du 1er avril 2014 et s'appliquent aux vols effectués à compter de la même date.
+Modifications effectuées en conséquence de l'article 110 de la loi n° 2009-1673 du 30 décembre 2009.

@@ -2,7 +2,7 @@
 
 Pour l'application du premier alinéa du j du 1° du I de l'article 31 du code général des impôts, les plafonds de loyer et de ressources du locataire sont les suivants :
 
-a) Pour les baux conclus en 2014, les plafonds de loyer mensuel, charges non comprises, sont fixés à 18,38 € par mètre carré en zone A, 12,01 € en zone B et 8,70 € en zone C. Ces plafonds sont révisés au 1er janvier de chaque année selon les modalités prévues au premier alinéa de l'article L. 353-9-2 du code de la construction et de l'habitation, et arrondis au centime d'euro le plus proche. Toutefois, pour les conventions conclues à compter du 1er janvier 2015 pour l'application du premier alinéa du m du 1° du I de l'article 31 du code général des impôts, les plafonds de loyer sont égaux à ceux fixés au 1° du I de l'article 2 terdecies D, ou, le cas échéant, en application du III de ce même article, ou, pour les logements situés en outre-mer, au 1° du I de l'article 2 terdecies F, ou, le cas échéant, en application du III de ce même article. Les plafonds fixés par arrêté du représentant de l'Etat dans la région en application des III des articles 2 terdecies D et 2 terdecies F ne s'appliquent qu'aux conventions conclues à compter de l'entrée en vigueur de l'arrêté.
+a) Pour les baux conclus en 2015, les plafonds de loyer mensuel, charges non comprises, sont fixés à 18,48 € par mètre carré en zone A, 12,08 € en zone B et 8,75 € en zone C. Ces plafonds sont révisés au 1er janvier de chaque année selon les modalités prévues au premier alinéa de l'article L. 353-9-2 du code de la construction et de l'habitation, et arrondis au centime d'euro le plus proche. Toutefois, pour les conventions conclues à compter du 1er janvier 2015 pour l'application du premier alinéa du m du 1° du I de l'article 31 du code général des impôts, les plafonds de loyer sont égaux à ceux fixés au 1 du I de l'article 2 terdecies D, ou, le cas échéant, en application du III de ce même article, ou, pour les logements situés en outre-mer, au 1 du I de l'article 2 terdecies F, ou, le cas échéant, en application du III de ce même article. Les plafonds fixés par arrêté du représentant de l'Etat dans la région en application des III des articles 2 terdecies D et 2 terdecies F ne s'appliquent qu'aux conventions conclues à compter de l'entrée en vigueur de l'arrêté.
 
 Pour l'application du présent article, les zones A, B et C sont définies par arrêté des ministres chargés du budget et du logement.
 
@@ -10,7 +10,7 @@ La surface à prendre en compte pour l'appréciation du plafond de loyer s'enten
 
 b) Les ressources du locataire s'entendent du revenu fiscal de référence au sens du 1° du IV de l'article 1417 du code général des impôts, figurant sur l'avis d'imposition établi au titre de l'avant-dernière année précédant celle de la signature du contrat de location.
 
-Pour les baux conclus en 2014, les plafonds annuels de ressources sont les suivants :
+Pour les baux conclus en 2015, les plafonds annuels de ressources sont les suivants :
 
 (En euros)
 
@@ -22,23 +22,21 @@ LIEU DE LOCATION
 
 |
 
-|
-
 Zone A
 
-(en euros)
+(en €)
 
 |
 
 Zone B
 
-(en euros)
+(en €)
 
 |
 
 Zone C
 
-(en euros)
+(en €)
 
 |
 
@@ -46,15 +44,15 @@ Personne seule
 
 |
 
-46 630
+46 807
 
 |
 
-36 039
+36 176
 
 |
 
-31 536
+31 656
 
 |
 
@@ -62,15 +60,15 @@ Couple
 
 |
 
-69 688
+69 953
 
 |
 
-48 124
+48 307
 
 |
 
-42 386
+42 547
 
 |
 
@@ -78,15 +76,15 @@ Personne seule ou couple ayant une personne à charge
 
 |
 
-83 770
+84 088
 
 |
 
-57 872
+58 092
 
 |
 
-50 742
+50 935
 
 |
 
@@ -94,15 +92,15 @@ Personne seule ou couple ayant deux personnes à charge
 
 |
 
-100 343
+100 724
 
 |
 
-69 862
+70 127
 
 |
 
-61 411
+61 644
 
 |
 
@@ -110,15 +108,15 @@ Personne seule ou couple ayant trois personnes à charge
 
 |
 
-118 788
+119 239
 
 |
 
-82 182
+82 494
 
 |
 
-72 075
+72 349
 
 |
 
@@ -126,15 +124,15 @@ Personne seule ou couple ayant quatre personnes à charge
 
 |
 
-133 666
+134 174
 
 |
 
-92 616
+92 968
 
 |
 
-81 303
+81 612
 
 |
 
@@ -142,20 +140,22 @@ Majoration par personne à charge à partir de la cinquième
 
 |
 
-+ 14 899
++ 14 956
 
 |
 
-+ 10 330
++ 10 369
 
 |
 
-+ 9 235
-
-|
++ 9 270 |
 
 Ces plafonds sont révisés au 1er janvier de chaque année en fonction de l'évolution annuelle de l'indice des prix à la consommation hors tabac et arrondis à l'euro le plus proche. Cette variation est appréciée entre le 1er octobre de l'avant-dernière année et le 1er octobre de l'année précédente.
 
 Toutefois, pour les conventions conclues à compter du 1er janvier 2015 pour l'application du premier alinéa du m du 1° du I de l'article 31 du code général des impôts, les plafonds annuels de ressources sont égaux à ceux fixés au 2 du I de l'article 2 terdecies D, ou, pour les logements situés en outre-mer, au 2 du I de l'article 2 terdecies F.
 
 Les personnes à charge pour l'application des présentes dispositions s'entendent des personnes mentionnées aux articles 196 à 196 B du code général des impôts.
+
+NOTA :
+
+Modifications effectuées en conséquence du décret n° 2010-1601 du 20 décembre 2010, art. 1er-I et du décret n° 2014-1102 du 30 septembre 2014, art. 2-2° et 3°

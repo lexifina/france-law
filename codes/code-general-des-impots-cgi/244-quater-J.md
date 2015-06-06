@@ -54,4 +54,4 @@ VI.-Lorsque les sociétés de personnes mentionnées aux articles 8 et 238 bis L
 
 NOTA :
 
-Conformément à l'article 30 de la loi n° 2014-173 du 21 février 2014, les présentes dispositions entrent en vigueur à la date fixée par le décret en Conseil d'Etat mentionné au I de l'article 5 de ladite loi et au plus tard le 1er janvier 2015.
+Modifications effectuées en conséquence de l'article 48-III de la loi n° 2014-1655 du 29 décembre 2014.

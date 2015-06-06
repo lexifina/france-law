@@ -2,7 +2,7 @@
 
 I. ― Pour l'application du premier alinéa du III de l'article 199 novovicies du code général des impôts :
 
-1. Les plafonds de loyer mensuel, par mètre carré, charges non comprises, sont fixés, pour les baux conclus en 2014, à 16,72 € en zone A bis, 12,42 € dans le reste de la zone A, 10,00 € en zone B 1 et 8,69 € en zone B 2. Ces plafonds sont révisés au 1er janvier de chaque année selon les modalités prévues au premier alinéa du a de l'article 2 duodecies.
+1. Les plafonds de loyer mensuel, par mètre carré, charges non comprises, sont fixés, pour les baux conclus en 2015, à 16,82 € en zone A bis, 12,49 € dans le reste de la zone A, 10,06 € en zone B 1 et 8,74 € en zone B 2. Ces plafonds sont révisés au 1er janvier de chaque année selon les modalités prévues au premier alinéa du a de l'article 2 duodecies.
 
 Aux plafonds de loyer définis à l'alinéa précédent, il est fait application d'un coefficient multiplicateur calculé selon la formule suivante :
 
@@ -14,35 +14,35 @@ Pour l'application du présent 1, la surface à prendre en compte s'entend de ce
 
 2. Les plafonds de ressources sont les suivants :
 
-a) Pour les baux conclus en 2014, les plafonds annuels de ressources des locataires sont les suivants :
+a) Pour les baux conclus en 2015, les plafonds annuels de ressources des locataires sont les suivants :
 
 COMPOSITION DU FOYER LOCATAIRE
 
 |
 
-LIEU DE LOCATION
+LIEU DE SITUATION DU LOGEMENT
 
 |
 
-|
-
-Zone A
+Zone A bis
 
 (en euros)
 
 |
 
-Zone B1
+Reste de la zone A
 
 (en euros)
 
 |
 
-Zone B2
+Zone B 1
+
+(en euros)
 
 |
 
-Zone C
+Zone B 2
 
 (en euros)
 
@@ -52,19 +52,19 @@ Personne seule
 
 |
 
-36 831
+36 971
 
 |
 
-36 831
+36 971
 
 |
 
-30 019
+30 133
 
 |
 
-27 017
+27 120
 
 |
 
@@ -72,19 +72,19 @@ Couple
 
 |
 
-55 045
+55 254
 
 |
 
-55 045
+55 254
 
 |
 
-40 089
+40 241
 
 |
 
-36 079
+36 216
 
 |
 
@@ -92,19 +92,19 @@ Personne seule ou couple ayant une personne à charge
 
 |
 
-72 159
+72 433
 
 |
 
-66 169
+66 420
 
 |
 
-48 210
+48 393
 
 |
 
-43 389
+43 554
 
 |
 
@@ -112,19 +112,19 @@ Personne seule ou couple ayant deux personnes à charge
 
 |
 
-86 152
+86 479
 
 |
 
-79 257
+79 558
 
 |
 
-58 200
+58 421
 
 |
 
-52 380
+52 579
 
 |
 
@@ -132,19 +132,19 @@ Personne seule ou couple ayant trois personnes à charge
 
 |
 
-102 503
+102 893
 
 |
 
-93 826
+94 183
 
 |
 
-68 465
+68 725
 
 |
 
-61 619
+61 853
 
 |
 
@@ -152,19 +152,19 @@ Personne seule ou couple ayant quatre personnes à charge
 
 |
 
-115 344
+115 782
 
 |
 
-105 584
+105 985
 
 |
 
-77 160
+77 453
 
 |
 
-69 443
+69 707
 
 |
 
@@ -172,21 +172,19 @@ Majoration par personne à charge supplémentaire à partir de la cinquième
 
 |
 
-+ 12 851
++ 12 900
 
 |
 
-+ 11 764
++ 11 809
 
 |
 
-+ 8 608
++ 8 641
 
 |
 
-+ 7 746
-
-|
++ 7 775 |
 
 Ces plafonds sont révisés au 1er janvier de chaque année selon les modalités prévues au troisième alinéa du b de l'article 2 duodecies ;
 
@@ -200,7 +198,7 @@ III.-Pour l'application du second alinéa du III de l'article 199 novovicies du 
 
 2. Le représentant de l'Etat dans la région soumet pour avis son projet d'arrêté :
 
-1° Au comité régional de l'habitat mentionné à l'article L. 364-1 du code de la construction et de l'habitation ;
+1° Au comité régional de l'habitat et de l'hébergement mentionné à l'article L. 364-1 du code de la construction et de l'habitation ;
 
 2° Aux communes et établissements publics de coopération intercommunale disposant d'un programme local de l'habitat exécutoire ainsi qu'aux départements qui ont conclu la convention avec l'Etat prévue à l'article L. 301-5-2 du code de la construction et de l'habitation, sur le territoire desquels il est envisagé d'appliquer la réduction. Les collectivités et établissements disposent d'un délai de deux mois pour émettre leur avis. A l'expiration de ce délai, ils sont réputés s'être prononcés.
 
@@ -212,4 +210,4 @@ III.-Pour l'application du second alinéa du III de l'article 199 novovicies du 
 
 NOTA :
 
-Modifications effectuées en conséquence de l'article 1er [1°] du décret n° 2012-1532 du 29 décembre 2012.
+Modifications effectuées en conséquence de l'article 1er [1°] du décret n° 2012-1532 du 29 décembre 2012 et de la loi n° 2014-366 du 24 mars 2014, art. 33-3°.
