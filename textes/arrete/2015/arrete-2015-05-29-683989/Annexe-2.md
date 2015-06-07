@@ -1,0 +1,15 @@
+# Article Annexe 2
+
+DOSSIER DE RECONNAISSANCE DES ACQUIS DE L'EXPÉRIENCE PROFESSIONNELLE (RAEP)
+
+Les candidats doivent transmettre un dossier type établi selon un modèle fixé par l'administration constitué des rubriques suivantes :
+
+Identification du candidat.
+
+Déclaration sur l'honneur.
+
+Formation professionnelle et continue.
+
+Parcours professionnel (postes occupés, fonctions, principales missions et activités).
+
+Exposé des acquis de l'expérience professionnelle (compétences acquises, aptitudes à exercer les missions d'un technicien sanitaire et de sécurité sanitaire) - une page dactylographiée maximum.
