@@ -198,6 +198,8 @@ Paris-Porto Seguro ;
 
 Paris-Recife ;
 
+Paris-Rio Branco.
+
 Paris-Rio de Janeiro
 
 Paris-Salvador de Bahia ;
@@ -633,6 +635,8 @@ Paris-Miyazaki ;
 Paris-Nagasaki ;
 
 Paris-Nagoya ;
+
+Paris-Niigata ;
 
 Paris-Okayama ;
 
