@@ -1,0 +1,9 @@
+# Réponse à la question n° 32505
+
+- Question : [32505](32505.md) — Question n° 32505 — organisation territoriale; Cour des comptes; recommandations
+
+## Réponse
+
+*JO du 2015-06-09*
+
+La réforme territoriale a été engagée par la loi n° 2014-58 du 27 janvier 2014 de modernisation de l'action publique territoriale et d'affirmation des métropoles et la loi n° 2015-29 du 16 janvier 2015 relative à la délimitation des régions, aux élections régionales et départementales et modifiant le calendrier électoral. Elle se poursuit par l'examen, en cours au Parlement, du projet de loi portant nouvelle organisation territoriale de la République (NOTRe). Il s'agit de moderniser en profondeur l'organisation territoriale par une clarification des compétences permettant d'identifier les responsabilités de chacun des acteurs de la puissance publique, et de simplifier les relations entre l'Etat et les collectivités territoriales. L'Etat demeure le responsable des choix stratégiques, ainsi que du contrôle de l'application des lois, de la protection des citoyens et de la cohésion sociale comme territoriale. Les collectivités territoriales assurent la déclinaison et la mise en oeuvre des stratégies nationales au plus près des populations et des territoires. Cette clarification ne prévoit pas de revenir sur le partage des compétences entre les collectivités publiques en matière de culture, de sport et de tourisme. Ces domaines, en raison de la diversité des interventions existantes et parfois de la fragilité des opérateurs, méritent de demeurer des domaines pouvant bénéficier de cofinancements pour permettre la réalisation d'équipements collectifs. Néanmoins, des délégations de compétences et des guichets uniques sont facilités et encouragés par les deux lois précitées, afin de favoriser la mutualisation des moyens et des projets dans une période de forte contrainte budgétaire.
