@@ -1,0 +1,9 @@
+# Réponse à la question n° 77343
+
+- Question : [77343](77343.md) — Question n° 77343 — perspectives
+
+## Réponse
+
+*JO du 2015-06-09*
+
+La loi n° 2012-1361 du 6 décembre 2012 relative à la reconnaissance du 19 mars comme journée nationale du souvenir et de recueillement à la mémoire des victimes civiles et militaires de la guerre d'Algérie et des combats en Tunisie et au Maroc, a été publiée au Journal officiel de la République française du 7 décembre 2012. Cette journée nationale du souvenir fait donc partie désormais des 11 journées nationales commémoratives fixées par les textes. Elle donne lieu à une cérémonie patriotique à l'échelon national, organisée à Paris par le ministère de la défense et présidée par une haute autorité, à une cérémonie départementale organisée par le préfet, représentant de l'Etat, ainsi qu'à de nombreuses cérémonies communales dont l'organisation est laissée à l'initiative des maires. Par ailleurs, la nécessité de pavoiser les bâtiments publics à l'occasion de la journée nationale du 19 mars a été rappelée aux préfets et hauts-commissaires de la République par la circulaire du 13 février 2013. A Paris, la cérémonie organisée le 19 mars se déroule, de manière hautement symbolique, devant le mémorial national de la guerre d'Algérie et des combats du Maroc et de la Tunisie, quai Branly, et bénéficie, à cette occasion, de toute la solennité et de tout l'apparat protocolaire requis pour les cérémonies de cette nature. Elle a été présidée, le 19 mars 2015, par le secrétaire d'Etat chargé des anciens combattants et de la mémoire. De même, un message a été envoyé à toutes les préfectures pour être lu par les représentants de l'Etat lors des cérémonies organisées dans les départements. L'implication du Gouvernement dans cette commémoration nationale a donc été entière en 2015 et le restera en 2016.
