@@ -1,0 +1,9 @@
+# Réponse à la question n° 75856
+
+- Question : [75856](75856.md) — Question n° 75856 — exportations; rapport parlementaire; recommandations
+
+## Réponse
+
+*JO du 2015-06-09*
+
+S'agissant des dispositifs de soutien aux exportations d'armement, l'information dispensée aux petites et moyennes entreprises (PME) s'avère d'ores et déjà large et efficace. La communication du ministère à destination des PME s'opère ainsi dans le cadre de rencontres individuelles ou collectives qui se déroulent lors des journées d'information organisées dans les régions, conformément aux dispositions du pacte Défense-PME de 2013. En vue de garantir la bonne information des entreprises, le ministère de la défense procède en outre à la mise à jour régulière de ses publications sur Internet et notamment à celle de l'espace dédié aux PME du site Ixarm de la direction générale de l'armement (DGA). Un correspondant « Export PME », dont la mission consiste à renforcer l'information sur l'organisation, les acteurs, les opportunités de marchés et les dispositifs d'aide dont peuvent bénéficier les PME, a également été désigné au sein de la DGA. Cette initiative a été complétée par la création d'un numéro vert « Export PME » : 0800 027 127. Par ailleurs, de nouvelles actions de communication ciblant les PME continuent d'être expérimentées en liaison avec le délégué ministériel aux PME-PMI. Ces innovations ont pris la forme d'une mise en relation de dirigeants de PME lors du salon d'armement Eurosatory en 2014 ou, au cours de la même année, d'une participation d'acteurs de la défense nationale à des manifestations organisées par des groupements de PME comme le cluster « European Defence Economic Network ». Enfin, la DGA s'efforce de s'appuyer sur des associations de PME, tel le comité Richelieu, afin de relayer ses messages auprès de petites entreprises innovantes intervenant dans le secteur de la défense.
