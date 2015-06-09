@@ -1,0 +1,9 @@
+# Réponse à la question n° 79216
+
+- Question : [79216](79216.md) — Question n° 79216 — liaison Roissy-Picardie; perspectives
+
+## Réponse
+
+*JO du 2015-06-09*
+
+Le projet de liaison ferroviaire Roissy-Picardie permettra de relier la Picardie au réseau des trains à grande vitesse et facilitera l'accès de ses habitants à la plate-forme aéroportuaire de Roissy. Il a fait l'objet d'études préliminaires dans le cadre du contrat de plan État-région 2000-2006, puis d'études d'approfondissement et d'avant-projet dans celui du contrat de projets État-région 2007-2013 des régions Picardie et Île-de-France. À la suite du débat public de 2010, une mission de présidence du comité de pilotage des études préalables à l'enquête d'utilité publique a été confiée, le 3 décembre 2010, à M. Benoît WEYMULLER, du Conseil général de l'environnement et du développement durable. Préalablement à la procédure de déclaration d'utilité publique, une concertation inter-administrative a été lancée fin 2014. Dans ce cadre, la réponse de SNCF Mobilités du 26 novembre 2014 a soulevé des interrogations sur le scénario de dessertes évoqué jusqu'à présent, notamment s'agissant des conditions de la desserte d'Amiens par de nouveaux services TGV. Le secrétaire d'État aux transports a déja confirmé son attachement au bon avancement de ce projet et le plein engagement du Gouvernement en faveur de sa réalisation. C'est la raison pour laquelle il a été demandé à la SNCF, en tant qu'établissement de tête du nouveau groupe public ferroviaire de confronter au plus vite les approches des différentes composantes du groupe, d'expliciter l'origine des écarts et de déterminer les points de convergence, ainsi que de mettre en évidence les conditions à réunir, notamment d'un point de vue économique, pour permettre des circulations de TGV compatibles avec la performance socio-économique de l'opération.
