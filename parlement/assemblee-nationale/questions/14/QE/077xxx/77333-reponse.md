@@ -1,0 +1,9 @@
+# Réponse à la question n° 77333
+
+- Question : [77333](77333.md) — Question n° 77333 — réglementation; perspectives
+
+## Réponse
+
+*JO du 2015-06-09*
+
+Durant l'hiver 2014-2015, des cas d'influenza aviaire dans la faune sauvage, notamment en Allemagne, ainsi que des foyers dans les élevages en Europe, ont été mis en évidence. Au regard de cette situation, le niveau de risque épizootique d'influenza aviaire hautement pathogène (IAHP) a été qualifié de modéré, par arrêté ministériel en date du 27 novembre 2014. En application de l'arrêté du 24 janvier 2008 relatif aux niveaux du risque épizootique en raison de l'infection de l'avifaune par un virus IAHP et au dispositif de surveillance et de prévention chez les oiseaux détenus en captivité, des mesures de surveillance et de prévention ont été mises en oeuvre dès le 4 décembre 2014. Interdisant ou limitant notamment les rassemblements d'oiseaux, ces mesures visaient la protection de l'ensemble des élevages français d'une contamination par les oiseaux sauvages. Ainsi, aucun cas d'IAHP n'a été mis en évidence en France au cours de l'hiver 2014-2015, malgré la circulation virale démontrée en Europe. Dans ce contexte favorable, l'agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail (Anses) a émis le 7 mai dernier un avis scientifique relatif à l'évolution du niveau de risque d'infection par l'IAHP H5N8 des oiseaux détenus en captivité sur le territoire métropolitain à partir des oiseaux sauvages, dont la conclusion est que le niveau de risque peut être qualifié de négligeable. En conséquence, le niveau de risque en matière d'IAHP est qualifié de négligeable, par arrêté ministériel du 12 mai 2015. Les mesures d'interdiction relatives aux rassemblements de pigeons sont donc levées à partir de cette date. Par ailleurs, certaines mesures prévues dans l'arrêté du 24 janvier 2008 pourraient être revues à la lumière du retour d'expérience de l'hiver 2014-2015.
