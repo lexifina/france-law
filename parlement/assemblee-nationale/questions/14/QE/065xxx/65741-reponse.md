@@ -1,0 +1,9 @@
+# Réponse à la question n° 65741
+
+- Question : [65741](65741.md) — Question n° 65741 — champ d'application
+
+## Réponse
+
+*JO du 2015-06-09*
+
+La taxe spéciale sur certains véhicules routiers (TSVR), dite taxe à l'essieu, est encadrée par la directive 1999/62/CE dite directive « Eurovignette », qui précise en son article 3 le dispositif applicable pour chaque État membre. Elle existe donc et est appliquée dans chaque État-membre. La suppression de la TSVR nécessiterait au regard des dispositions du droit européen une modification de ce texte, ce qui n'est pas envisageable à court terme. Depuis 2009, le barème de la taxe à l'essieu a été amené au plus proche des minima européens. Cet alignement aux planchers communautaires s'est traduit par un gain d'environ 50 millions d'euros par an pour la profession. Il n'en demeure pas moins que le financement des infrastructures de transport et la participation, dans le strict respect des règles de non discrimination, des pavillons étrangers à la préservation et au développement de celles-ci constituent une priorité du Gouvernement. À cet égard, un groupe de travail sur le financement des infrastructures a été mis en place suite à la décision de suspension sine die de la taxe nationale sur les véhicules de transport de marchandises dite « écotaxe ». Les travaux de ce groupe associant l'ensemble des parties prenantes ont débuté dès le dernier trimestre 2014 et se poursuivent actuellement. Sur la base de ces réflexions dont les conclusions seront transmises dans les prochaines semaines, le Gouvernement sera amené à décider des solutions de financement alternatives à l'écotaxe. Le secrétaire d'état chargé des transports, de la mer et de la pêche assure la volonté du Gouvernement de soutenir la compétitivité de l'ensemble des entreprises du secteur du transport routier, comme peuvent en témoigner les actions mises en oeuvre dans le cadre du pacte de responsabilité et de solidarité.
