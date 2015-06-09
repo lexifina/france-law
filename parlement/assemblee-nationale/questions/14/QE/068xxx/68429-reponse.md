@@ -1,0 +1,9 @@
+# Réponse à la question n° 68429
+
+- Question : [68429](68429.md) — Question n° 68429 — camping-cars
+
+## Réponse
+
+*JO du 2015-06-09*
+
+La conduite d'un véhicule ou ensemble de véhicules est une activité exigeante en matière de sécurité, pour sa propre personne et envers autrui. Les textes réglementaires nationaux relatifs au permis de conduire et plus particulièrement aux catégories à détenir sont issus de la transposition de la directive européenne 2006/126/CE relative au permis de conduire qui définit les conditions requises pour la conduite des véhicules notamment en fonction de leur PTAC (Poids Total Autorisé en Charge). Le PTAC défini pour tout véhicule correspond au poids cumulé du véhicule et de son chargement. Tout conducteur qui ne respecte pas ces limitations est passible d'une amende. La directive européenne 2006/126/CE définit les catégories de permis de conduire. Parmi celles-ci, la catégorie C1 permet la conduite d'un véhicule automobile affecté au transport de personnes comportant plus de huit places assises outre le siège du conducteur dont le PTAC est supérieur à 3 500 Kilos sans excéder 7 500 Kilos. En application de cette directive, l'article R.221-4 du code de la route reprend les différentes catégories de permis de conduire. En conséquence, le titulaire de la catégorie B du permis se trouve contraint de passer la catégorie C1 du permis de conduire s'il veut conduire un camping-car de ce type. La limite de 3,5 tonnes correspond aux véhicules dit « légers » qui peuvent être conduits avec un permis B. Au-delà c'est la catégorie C1 qui correspond à nombre de camping-car. Elle permet de vérifier que le conducteur a les connaissances nécessaires à la conduite d'un véhicule lourd. Pour ces raisons, il n'est pas prévu de modifier la limite de PTAC des véhicules pouvant être conduits avec un permis de catégorie B.
