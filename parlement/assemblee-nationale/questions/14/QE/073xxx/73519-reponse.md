@@ -1,0 +1,9 @@
+# Réponse à la question n° 73519
+
+- Question : [73519](73519.md) — Question n° 73519 — civelle; braconnage; lutte et prévention
+
+## Réponse
+
+*JO du 2015-06-09*
+
+Le développement de filières organisées au niveau mondial de braconnage de la civelle doit être relié à l'interdiction d'exportation de cette espèce sensible sous plan de gestion. Le marché chinois ne peut plus être approvisionné par la civelle européenne et les prix ont flambé sur place. Les importations frauduleuses de civelles sont donc très lucratives et expliquent une grande partie de la structuration souvent mafieuse du braconnage de cette espèce et les circuits complexes utilisés (transit par un pays du pourtour méditerranéen). Pour lutter contre ce braconnage, des opérations conjointes de contrôles sont régulièrement organisées comprenant des agents de l'Office national de l'eau et des milieux aquatiques (ONEMA), des unités littorales des affaires maritimes (ULAM), de la gendarmerie maritime ou nationale pour mieux couvrir le spectre géographique des zones à surveiller, à la fois maritimes et fluviales. Dans le cadre du projet de loi relatif pour la reconquête de la biodiversité, de la nature et des paysages actuellement en discussion au Parlement, il est par ailleurs prévu de renforcer le dispositif répressif sur les infractions relatives à la réglementation de cette espèce en doublant le montant de l'amende, fixée à 22 500 €, et en prévoyant une peine d'emprisonnement de six mois. Enfin, depuis sa création en 2004, la montée en puissance de l'Office central de lutte contre les atteintes à l'environnement et à la santé publique (OCLAESP) contribue aujourd'hui à une lutte plus efficace contre des organisations de braconnage. Le travail étroit entre les services de contrôle est désormais formalisé par une convention entre la direction des pêches maritimes et de l'aquaculture (DPMA) et l'OCLAESP conclue le 13 février 2015.
