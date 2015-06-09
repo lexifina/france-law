@@ -1,0 +1,9 @@
+# Réponse à la question n° 74242
+
+- Question : [74242](74242.md) — Question n° 74242 — plan quinquennal; mise en oeuvre
+
+## Réponse
+
+*JO du 2015-06-09*
+
+Marisol Touraine, ministre des affaires sociales, de la santé et des droits des femmes, Geneviève Fioraso, secrétaire d'État chargée de l'enseignement supérieur et de la recherche, et Laurence ROSSIGNOL, secrétaire d'Etat chargée de la famille, des personnes âgées et de l'autonomie, ont lancé mardi 18 novembre 2014 le Plan national maladies neuro-dégénératives 2014 - 2019. La présidence du comité de suivi du plan maladies neuro-dégénératives a été confiée au Professeur Michel CLANET et la vice-présidence au Professeur Joël ANKRI. Le comité de suivi impliquera étroitement les associations de patients. Le Professeur Etienne HIRSCH assure la présidence du comité de pilotage pour la recherche. La mise en oeuvre du nouveau plan maladies neuro-dégénératives est dès à présent enclenchée avec le lancement des travaux au sein des administrations concernées. Des informations détaillées et actualisées dans le temps seront apportées aux diverses associations à l'occasion des réunions du comité de suivi, auquel elles sont associées. L'information et la communication sur les maladies neuro-dégénératives constituent par ailleurs une priorité du nouveau plan et font l'objet d'une mesure spécifique. La mesure 41 du plan prévoit ainsi l'évolution du site internet utilisé pour le plan Alzheimer 2008-2012. Le support de ce site permettra d'adapter et de rendre accessible à tous le contenu du plan et des informations actualisées sur sa mise en oeuvre. La mise en oeuvre des mesures prévues par ce plan 2014-2019 confirme l'engagement du Gouvernement en faveur de la recherche, de la qualité des soins et de l'accompagnement des personnes malades et de leurs proches.
