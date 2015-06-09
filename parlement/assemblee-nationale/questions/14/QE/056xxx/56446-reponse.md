@@ -1,0 +1,9 @@
+# Réponse à la question n° 56446
+
+- Question : [56446](56446.md) — Question n° 56446 — conseil d'administration; convocation; réglementation
+
+## Réponse
+
+*JO du 2015-06-09*
+
+Le principe posé par l'article R. 2221-9 du code général des collectivités territoriales (CGCT), applicable à l'ensemble des régies municipales dotées de la personnalité morale, est que le conseil d'administration se réunit « sur convocation de son président ». S'agissant des régies chargées de la gestion d'un service public administratif, il ressort de l'article R. 2221-53 du même code que, sous réserve de dispositions spécifiques, le régime juridique qui leur est applicable est celui de la commune qui les a créées. Or, en ce qui concerne la convocation à la première réunion du conseil municipal faisant suite au renouvellement général, l'alinéa 3 de l'article L. 2122-15 du CGCT dispose que l'ancien maire est compétent, puisqu'il continue l'exercice de ses fonctions jusqu'à l'installation du nouveau conseil municipal. Par transposition, il doit donc être considéré que c'est à l'ancien président de la régie de convoquer le conseil d'administration pour sa première réunion faisant suite au renouvellement général. S'agissant des régies chargées de la gestion d'un service public industriel ou commercial, il n'existe pas de texte équivalent à l'article R. 2221-53 précité. Toutefois, il apparaît cohérent de retenir la même approche que pour une régie personnalisée chargée de la gestion d'un service public administratif, sachant que les textes ne désignent aucune autre autorité que l'ancien président pour procéder à la convocation. Afin d'éviter toute contestation possible il peut, pour cette catégorie de régie, s'avérer opportun que les statuts - qui sont adoptés par délibération du conseil municipal - précisent expressément qu'il appartient au président sortant de procéder à la convocation du premier conseil d'administration se réunissant après les élections municipales.
