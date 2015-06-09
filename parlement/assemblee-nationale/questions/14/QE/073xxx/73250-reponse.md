@@ -1,0 +1,9 @@
+# Réponse à la question n° 73250
+
+- Question : [73250](73250.md) — Question n° 73250 — disparité territoriale
+
+## Réponse
+
+*JO du 2015-06-09*
+
+L'article L. 123-4 du code de l'action sociale et des familles impose de créer un centre communal d'action sociale, établissement public local, pour assurer l'action sociale de proximité. Si cette obligation permet d'assurer le respect du principe d'égalité devant le service public d'assistance, les situations locales sont loin d'être identiques. Aussi, les communes ont-elles la faculté de transférer tout ou partie de leur compétence sociale à leur établissement public de coopération intercommunale. Ces derniers peuvent, en effet, créer des centres intercommunaux d'action sociale chargés d'exercer la compétence sociale d'intérêt communautaire. L'intercommunalité constitue une solution pertinente pour mutualiser les moyens des communes rurales et répondre efficacement aux besoins de leurs habitants. Le projet de loi portant nouvelle organisation territoriale de la République, en cours d'examen au Parlement, va plus loin. Il prévoit de rendre la création d'un centre communal d'action sociale facultative pour les communes de moins de 1 500 habitants. Ces dernières pourront ainsi librement opter pour la création d'un tel centre, le transfert de tout ou partie de cette compétence à un centre intercommunal d'action sociale ou un exercice de la compétence en régie par ses propres services. Par souci de rationalisation, il est également prévu la dissolution automatique du centre communal d'action sociale lorsque le centre intercommunal d'action sociale reprend l'intégralité de ses compétences. Ces nouvelles mesures de simplification par la suppression des doublons au sein des intercommunalités renforceront la qualité de l'action sociale et la capacité d'action du bloc communal dans le champ social.
