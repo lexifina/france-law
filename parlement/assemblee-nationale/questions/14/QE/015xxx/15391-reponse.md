@@ -1,0 +1,9 @@
+# Réponse à la question n° 15391
+
+- Question : [15391](15391.md) — Question n° 15391 — État; assistance technique; perspectives
+
+## Réponse
+
+*JO du 2015-06-09*
+
+Il convient d'abord de rappeler que c'est uniquement l'échéance de la généralisation des intercommunalités au 1er janvier 2014, en offrant un cadre nouveau à l'action locale, élargi au-delà de la seule commune, qui a légitimement conduit l'État à se réinterroger sur le bien-fondé de poursuivre à l'identique les prestations qu'il assurait, sous certaines conditions, pour les collectivités, dans un cadre conventionnel. Ce réexamen a conduit au constat d'une nécessaire évolution compte tenu du contexte nouveau et des moyens dont disposait l'État au regard des enjeux dont il devait être avant tout porteur, y compris pour répondre aux attentes de collectivités locales. L'article 123 de la loi de finances initiale pour 2014 a ainsi mis fin au dispositif de l''assistance technique de l'État pour des raisons de solidarité et d'aménagement du territoire (ATESAT), tout en prévoyant des mesures transitoires et d'accompagnement. Des conventions pourront ainsi être conclues entre l'État et les collectivités bénéficiaires en 2013 qui le souhaiteraient en vue d'achever les missions en cours, et cela, le cas échéant, jusqu'à fin 2015. La liste des communes et des groupements de communes éligibles à l'ATESAT en 2013 dans le département du Gers a été précisée dans l'arrêté pris à cet effet par le préfet du Gers à la date du 8 juillet 2013. Parallèlement, les services de l'État ont vocation à s'orienter vers un conseil aux territoires davantage ciblé, en fonction des situations locales, sur l'appui à l'émergence de projets, l'aide à la gestion de situations difficiles ou imprévues, le portage des politiques prioritaires de l'État qui doivent s'inscrire effectivement sur le territoire, ou encore un concours en termes d'organisation de la sécurité des ouvrages d'art.
