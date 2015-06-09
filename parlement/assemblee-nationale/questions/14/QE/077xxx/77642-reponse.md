@@ -1,0 +1,9 @@
+# Réponse à la question n° 77642
+
+- Question : [77642](77642.md) — Question n° 77642 — Clipperton; rattachement aux TAAF; perspectives
+
+## Réponse
+
+*JO du 2015-06-09*
+
+Vous interrogez la ministre des outre-mer sur la logique et la cohérence d'un éventuel rattachement de l'île de Clipperton et de sa zone économique exclusive (ZEE) à l'administration des Terres australes et antarctiques françaises (TAAF). Cette question a déjà été soulevée par le passé, notamment lors du rattachement des îles Eparses à l'administration des TAAF en 2007. Certains enjeux de ces îles sont communs avec ceux de Clipperton. Il convient toutefois de rappeler que l'île de Clipperton est administrée par l'Etat. Le Haut Commissaire de la République en Polynésie Française délivre les autorisations d'expéditions scientifiques ou de pêche. Il en serait de même si ces tâches étaient confiées au Préfet, administrateur supérieur des TAAF. Par ailleurs, la surveillance des eaux sous souveraineté (mer territoriale) et sous juridiction (zone économique exclusive) autour de Clipperton est un enjeu important. L'action de l'Etat (missions de police générale) en mer dans les eaux entourant Clipperton a été confiée par la loi au Haut Commissaire de la République en Polynésie française assisté par le commandant de la zone maritime de Polynésie française. Ce n'est pas le préfet, administrateur supérieur des TAAF qui est compétent pour l'action de l'Etat en mer dans les eaux françaises de l'océan austral : le représentant de l'Etat dans cette zone est le préfet de La Réunion, assisté par le commandant de zone maritime. Confier la gestion des eaux entourant Clipperton à l'administration des TAAF conduirait à disjoindre celle-ci, des missions de défense des droits souverains et de surveillance dans ces mêmes eaux, exercées par le Haut Commissaire de la République en Polynésie Française, ce qui n'est pas souhaitable.
