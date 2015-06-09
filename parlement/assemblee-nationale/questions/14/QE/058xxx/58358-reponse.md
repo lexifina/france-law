@@ -1,0 +1,9 @@
+# Réponse à la question n° 58358
+
+- Question : [58358](58358.md) — Question n° 58358 — programme urbain partenarial; réglementation
+
+## Réponse
+
+*JO du 2015-06-09*
+
+Conformément à l'article L. 332-11-3 du code de l'urbanisme, une collectivité couverte par un plan local d'urbanisme ou un document d'urbanisme en tenant lieu, peut passer avec les propriétaires du ou des terrains concernés par un projet, des constructeurs ou des aménageurs, une convention de projet urbain partenarial en amont des autorisations de construire. La nature contractuelle de cette convention fait du programme urbain partenarial (PUP), un dispositif financier souple, qui permet d'introduire le principe du préfinancement des équipements publics nécessités par la réalisation du projet. Les signataires de la convention sont le maire ou le président de l'établissement public de coopération intercommunale (EPCI), compétent en matière de document d'urbanisme, le propriétaire du terrain, les constructeurs ou les aménageurs. Les finances des communes ou des EPCI se trouvant engagées par la réalisation d'équipements publics, l'article R. 332-25-1 du code précité prévoit que la signature de chaque convention doit faire l'objet d'une délégation de l'assemblée délibérante au maire ou au président de l'EPCI. Dans le cadre des PUP initiaux issus de la loi n° 2009-323 du 25 mars 2009 de mobilisation pour le logement et la lutte contre l'exclusion, la délibération précitée est la seule qui soit nécessaire en amont de la signature de la convention et de la mise en oeuvre de la participation. Il s'agit en effet, d'une participation ponctuelle et conventionnelle qui ne requiert aucune procédure d'institution : elle ne peut pas être annulée par voie de délibération. Lorsqu'une collectivité souhaite annuler un PUP, elle doit dénoncer la convention et rembourser les montants qui lui ont déjà été versés en accord avec les différents signataires.
