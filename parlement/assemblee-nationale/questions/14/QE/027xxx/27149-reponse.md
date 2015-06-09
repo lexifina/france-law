@@ -1,0 +1,9 @@
+# Réponse à la question n° 27149
+
+- Question : [27149](27149.md) — Question n° 27149 — certification; réglementation
+
+## Réponse
+
+*JO du 2015-06-09*
+
+L'article R. 313-4 du code de la sécurité intérieure prévoit que le certificat de qualification professionnelle (CQF) atteste notamment de compétences relatives à la maîtrise de l'encadrement législatif et règlementaire de l'acquisition et de la détention des armes, éléments d'arme et munitions, des règles de leur commercialisation, des règles de leur sécurisation et conservation et du savoir-faire technique dans le domaine des armes, des éléments d'armes et munitions. La délivrance de ce certificat a été encadrée par l'arrêté du 30 octobre 2012 modifié relatif à l'agrément prévu à l'article 121-1 du décret n° 95-589 du 6 mai 1995 fixant le régime des matériels de guerre, armes et munitions des certificats de qualification professionnelle relatifs à l'activité d'armurier. Ce certificat peut être obtenu auprès de la Fédération professionnelle des métiers de l'arme et de la munition de chasse et de tir (FEPAM). Les candidats possédant déjà des connaissances sur certains modules peuvent les valider sans formation et son coût, de l'ordre de 4 500 euros, peut-être pris en charge par les organismes de formation continue. A ce stade, il n'est pas envisagé de différencier le mode de délivrance de ce certificat selon l'activité de l'armurier. Le décret n° 2013-700 du 30 juillet 2013 portant application de la loi n° 2012-304 du 6 mars 2012 relative à l'établissement d'un contrôle des armes moderne, simplifié et préventif, aujourd'hui codifié dans le code de la sécurité intérieure, est entré en vigueur le 6 septembre 2013. Cette réforme a instauré une nouvelle classification des armes de A et D dans un souci de clarification de la règlementation relative aux armes et a maintenu les dispositions applicables en matière de CQP.
