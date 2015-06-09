@@ -1,0 +1,9 @@
+# Réponse à la question n° 75867
+
+- Question : [75867](75867.md) — Question n° 75867 — exportations; rapport parlementaire; recommandations
+
+## Réponse
+
+*JO du 2015-06-09*
+
+La livraison aux armées françaises d'un matériel et son emploi par nos forces contribuent incontestablement à favoriser l'exportation potentielle de cet équipement. A titre d'exemple, le patrouilleur « L'Adroit », utilisé par la marine nationale depuis 2011 dans le cadre d'une convention conclue avec l'industriel DCNS, a été déployé sur différents théâtres pour effectuer des missions opérationnelles. Toutes ses capacités ont pu à ces occasions être démontrées. Le bilan opérationnel de l'emploi en Afghanistan du système Aravis, développé par Nexter et acquis en 2009 au profit de l'armée de terre, a pour sa part contribué au succès à l'exportation de cet équipement vers l'Arabie Saoudite et le Gabon. De même, les performances de l'avion Rafale, mis en oeuvre par nos forces sur différents théâtres, ont incité plusieurs pays à envisager l'acquisition ou à décider d'équiper leurs armées de cet appareil, comme en témoignent les récents contrats de vente annoncés avec l'Egypte ou le Qatar. Dans le cas particulier de matériels produits en petite quantité, il convient de souligner que les opérations de développement, de qualification et de soutien en service atteignent un niveau d'investissement élevé et difficile à rentabiliser en termes de ressources humaines, d'activité et de financement. C'est la raison pour laquelle l'acquisition d'équipements en petite série répond prioritairement à la nécessité de satisfaire un besoin avéré des armées, apprécié sur la base des enseignements tirés de nos engagements opérationnels. Le soutien aux exportations que peuvent représenter l'emploi et la labellisation de matériels de tel type par nos armées ne peut être pris en considération qu'à titre secondaire et ne peut à lui seul motiver une acquisition.
