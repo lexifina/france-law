@@ -1,0 +1,9 @@
+# Réponse à la question n° 70102
+
+- Question : [70102](70102.md) — Question n° 70102 — trafic; dispositifs de sécurité; côte atlantique
+
+## Réponse
+
+*JO du 2015-06-09*
+
+Face au retrait des partenaires britanniques qui co-affrétaient un remorqueur dans le Pas-de-Calais et dans un contexte de réduction des budgets, l'État a dû faire des choix dans le positionnement de ses moyens. L'ouverture de la Manche, les Casquets et le détroit du Pas-de-Calais sont des zones de convergence du trafic où se concentrent les risques. Ce sont donc à ces endroits que les remorqueurs doivent être positionnés. La protection du littoral Atlantique est assurée par le remorqueur « Abeille Bourbon » basé à Brest. En cas d'alerte météorologique, il est prépositionné à Ouessant sur décision du préfet maritime. L'événement de mer du navire Just Mariiam a eu lieu à 20 milles marins au sud-ouest de Belle-Île, à équidistance de La Rochelle et Brest. Un remorqueur basé à La Rochelle n'aurait pas été en mesure de rallier plus rapidement la zone de l'événement que l'Abeille Bourbon, dont l'équipage a été très réactif pour assister le cargo à la dérive. Enfin, le « Biscaye Plan » permet à la France comme à l'Espagne, une assistance mutuelle lors d'opérations d'assistance, de sauvetage ou de lutte contre la pollution. Cette mutualisation des moyens constitue une des réponses en cas de sinistre maritime. Par ailleurs, un contrôle des normes de sécurité est effectué à bord des navires qui font escale dans les ports français, et les centres régionaux opérationnels de surveillance et de sauvetage (CROSS) exercent une surveillance continue des flux maritimes. Le secrétaire d'État chargé des transports, de la mer et de la pêche est donc très impliqué sur cette question de la sécurité maritime dans le golfe de Gascogne.
