@@ -1,0 +1,9 @@
+# Réponse à la question n° 60255
+
+- Question : [60255](60255.md) — Question n° 60255 — séances; temps de parole; réglementation
+
+## Réponse
+
+*JO du 2015-06-09*
+
+Même si aucune disposition législative ou réglementaire ne l'impose, le règlement intérieur du conseil municipal peut prévoir une disposition fixant un temps de parole pour l'intervention des conseillers municipaux au cours des débats portant sur les affaires inscrites à l'ordre du jour des séances du conseil, pour autant que cette disposition ne porte pas atteinte au droit d'expression des conseils municipaux. Il a ainsi été jugé qu'un règlement intérieur limitant les interventions des conseillers à trois minutes portait atteinte au droit d'expression des conseillers municipaux (TA de Grenoble, 15 septembre 1999, req. n° 950317). De même, la cour administrative d'appel de Versailles, dans sa décision du 30 décembre 2004, n° 02VE02420, a jugé que, en approuvant une disposition du règlement intérieur interdisant à un conseiller de parler plus de deux fois sur la même question avec une limite de temps de parole total de six minutes, le conseil municipal avait méconnu le droit à l'expression des conseillers municipaux. Par ailleurs, des dispositions imprécises prévoyant que le maire pourrait interrompre un orateur « au-delà d'un certain temps d'intervention » ont été considérées comme portant atteinte à la liberté de parole des conseillers municipaux (TA Montreuil n° 0901259). La jurisprudence est donc constante quant à la nécessité de concilier la police du conseil municipal, exercée par le maire au titre de l'article L. 2121-16 du CGCT, et la liberté de parole des conseillers municipaux, qui ont droit à l'expression pour les affaires inscrites à l'ordre du jour du conseil municipal en vertu de l'article L. 2121-19 du même code.
