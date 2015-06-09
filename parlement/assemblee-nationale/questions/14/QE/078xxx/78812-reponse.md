@@ -1,0 +1,9 @@
+# Réponse à la question n° 78812
+
+- Question : [78812](78812.md) — Question n° 78812 — situation politique; attitude de la France
+
+## Réponse
+
+*JO du 2015-06-09*
+
+La France condamne fermement les violences et les exactions à l'encontre des civils, quelle que soit leur appartenance religieuse ou ethnique. Elle est particulièrement préoccupée par la situation des Chrétiens d'Orient, avec lesquels la France entretient des liens spécifiques, hérités de l'Histoire. Face aux menaces graves qui pèsent sur les Chrétiens d'Orient et les autres populations persécutées, la France a convoqué une réunion ministérielle du Conseil de sécurité des Nations unies le 27 mars consacrée aux « victimes de violences ethniques ou religieuses au Moyen-Orient ». A l'occasion de ce débat inédit, la France a proposé l'élaboration par les Nations unies d'une Charte d'action autour de quatre volets : l'accompagnement humanitaire d'abord, pour répondre à l'urgence ; permettre le retour des populations persécutées sur les terres dont elles ont été chassées ; les solutions politiques inclusives dans les pays en crise ; et enfin la lutte contre l'impunité pour les auteurs des crimes, dont certains sont constitutifs de crimes de guerre et de crimes contre l'humanité. Dans les prochains mois, la France doit accueillir une conférence internationale au cours de laquelle le groupe des Sages, désigné par le Secrétaire général des Nations unies, fera le point sur cette Charte d'action pour la protection des personnes victimes de violences ethniques ou religieuses. Le régime de Damas est largement responsable du chaos qui affecte le pays et qui touche l'ensemble de la population syrienne, dont les chrétiens. La France a choisi de soutenir l'opposition syrienne car elle se bat pour une Syrie démocratique, libre et pluraliste, respectueuse des droits de tous les citoyens, quelle que soit leur appartenance ethnique ou religieuse.
