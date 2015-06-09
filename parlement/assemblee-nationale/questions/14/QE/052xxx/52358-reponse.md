@@ -1,0 +1,9 @@
+# Réponse à la question n° 52358
+
+- Question : [52358](52358.md) — Question n° 52358 — activités physiques et sportives; rapport; propositions
+
+## Réponse
+
+*JO du 2015-06-09*
+
+L'inactivité physique est un des principaux facteurs de risques de maladies, entre autres de maladies cardiovasculaires, de certains cancers, de diabète, de problèmes liés à l'ostéoporose, au surpoids et à l'obésité. La prévention de ces maladies par une pratique d'activité physique adaptée tout au long de la vie est donc fondamentale. Conformément aux orientations et objectifs du haut conseil de la santé publique (HCSP), l'axe II du programme national nutrition santé 2011-2015 (PNNS) est dédié au développement de l'activité physique et sportive et à la limitation de la sédentarité. Des actions spécifiques sont consacrées à la promotion de l'activité sportive adaptée chez les personnes âgées de plus de 50 ans et les personnes en perte d'autonomie. A la suite des travaux du comité « Avancée en âge » et du rapport relatif aux dispositifs d'activités physiques et sportives en direction des âgés, remis en janvier 2014, les préconisations visant le développement de l'activité physique des seniors adaptée à leur degré d'autonomie sont désormais reprises dans un plan dédié à l'activité physique et à la santé, le Plan santé-sport-bien-être (PSSBE). La promotion de l'activité physique comme facteur de santé se poursuit dans le cadre du PNNS, avec l'actualisation des repères nutritionnels du PNNS au regard de l'avancée des connaissances scientifiques. Par ailleurs, le projet de loi de modernisation de notre système de santé adopté en première lecture à l'assemblée nationale porte un certain nombre de mesures en faveur de la promotion de l'activité physique, notamment la prescription d'une activité physique adaptée par le médecin pour tous les patients en affection de longue durée ce qui permettra d'assurer un réel parcours fonction de l'évolution de l'état de santé du sénior.
