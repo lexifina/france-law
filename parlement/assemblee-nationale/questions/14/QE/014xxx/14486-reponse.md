@@ -1,0 +1,9 @@
+# Réponse à la question n° 14486
+
+- Question : [14486](14486.md) — Question n° 14486 — ouverture; réglementation
+
+## Réponse
+
+*JO du 2015-06-09*
+
+Le ministère de l'écologie est soucieux des conséquences pour les riverains d'une ouverture de carrière et tient à ce que les risques et les nuisances soient maîtrisés de façon proportionnelle aux enjeux. Il existe une limite réglementaire de dix mètres entre les habitations et l'exploitation. Cette distance est à respecter entre les limites du périmètre sur lequel porte l'autorisation de l'exploitation et les zones d'exploitation proprement dites. Cette distance d'isolement est un minimum prévu par l'arrêté ministériel du 22 septembre 1994 (art 14) relatif à l'exploitation des carrières et a pour objet d'apporter une garantie relative à la stabilité des terrains voisins de l'excavation. Cet arrêté ministériel fixe les prescriptions minimales qui doivent être reprises dans l'arrêté préfectoral d'autorisation. Chaque demande d'autorisation d'exploitation de carrière fait l'objet d'une procédure d'instruction administrative complète sur la base notamment d'une étude d'impact soumise à enquête publique. À l'issue de cette procédure, et dans le cas où l'autorisation serait accordée, le préfet conserve toutes ses prérogatives pour prescrire par arrêté préfectoral la distance d'isolement adaptée à la demande. Les exploitations de carrière sont très différentes les unes des autres et génèrent des nuisances dont les intensités ne sont pas comparables. Leur environnement (topographie, distance et nature du voisinage, météorologie, méthode d'exploitation notamment) diffèrent également. La procédure d'autorisation avec une instruction prenant en compte les caractéristiques spécifiques de chaque projet permet ainsi de tenir compte de la diversité des situations.
