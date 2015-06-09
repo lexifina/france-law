@@ -1,0 +1,9 @@
+# Réponse à la question n° 71080
+
+- Question : [71080](71080.md) — Question n° 71080 — gardes champêtres; équipement; réglementation
+
+## Réponse
+
+*JO du 2015-06-09*
+
+Le décret n° 2013-700 du 30 juillet 2013 portant application de la loi n° 2012-304 du 6 mars 2012 relative à l'établissement d'un contrôle des armes modernes, simplifié et préventif est désormais codifié, depuis le 1er décembre 2014, dans le livre III du code de la sécurité intérieure (partie réglementaire) par l'effet du décret n° 2014-1253 du 27 octobre 2014. C'est le livre III de la partie réglementaire du CSI qui définit les conditions d'armement des fonctionnaires et agents des administrations publiques chargés d'une mission de police (articles R.312-22 à R.312-25). L'article R.522-1 du code de la sécurité intérieure (CSI) prévoit que les gardes champêtres peuvent être armés dans les conditions prévues aux articles R.312-22, R.312-24 et R.312-25 du CSI. En particulier, les communes employeurs des gardes champêtres peuvent acquérir et détenir dans une armurerie les matériels, armes, munitions et leurs éléments en vue de leur remise à leurs fonctionnaires chargés d'une mission de police que sont les gardes champêtres. Ceux-ci peuvent être également autorisés à détenir des armes, éléments d'armes et munitions de la catégorie B, en application du premier alinéa de l'article R.312-24 du CSI pour autant qu'elles sont nécessaires à l'accomplissement du service. Les communes peuvent elles-mêmes faire l'acquisition d'armes inscrites au 2° de la catégorie D telles que des matraques, des projecteurs hypodermiques, des générateurs d'aérosols lacrymogènes ou incapacitants pour les remettre à leurs gardes champêtres. L'autorisation de port d'arme consentie au garde champêtre par son employeur communal est visée par le préfet en application de l'article R.312-25 du CSI.
