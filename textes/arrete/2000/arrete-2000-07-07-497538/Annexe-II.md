@@ -98,6 +98,10 @@ CDM/CDMSA/ACDM/ACPP :
 
 Chantiers ALLARD André. Rue du Maréchal-Montgomery, 14520 Port-en-Bessin - Huppain 1970 à 1985.
 
+Chantier BELLOT André, rue des Chantiers, 14520 Port-en-Bessin : De 1976 à 1983.
+
+puis SARL d'exploitation des chantiers BELLOT, rue des Chantiers, 14520 Port-en-Bessin : De 1983 à 1997.
+
 DCN (Direction des constructions navales)/Schneider Electrique :
 
 - place Bruat, 50115 Cherbourg Naval : de 1968 à 1993.
