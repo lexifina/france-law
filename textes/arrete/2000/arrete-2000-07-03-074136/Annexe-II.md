@@ -112,6 +112,10 @@ Deleage, avenue du Général-Ferrié, 35400 Saint-Malo : de 1972 à 1989 ;
 
 Derfit, 23, rue Saint-Benoît, 22003 Saint-Brieuc : de 1969 à 1976 ;
 
+Domos Service armoricaine, Domos Service Ouest, Domos Service maintenance, 7, boulevard Franchet-d'Esperey, 56100 Lorient : De 1990 à 1996 ;
+
+Domos Service armoricaine, Domos Service Ouest, Domos Service maintenance, 17, avenue de Verdun, 56000 Vannes : De 1990 à 1996 ;
+
 Entreprise Mather et Platt, vieille route de Rosporden, 29195 Quimper, de 1962 à 1978 ;
 
 Etablissements J.-Goupil, route de Saint-Pern, 22830 Plouasne : de 1973 à 1995 ;
@@ -147,6 +151,14 @@ SARL Fours Ripoche, puis Ateliers de chaudronnerie lorientais réunis (groupe CE
 Sérupa, route de Rennes, 22230 Merdrignac : de 1974 à 1998 ;
 
 SNPE/ Nobel Sport, 2, rue du Squiriou, 29590 Pont-de-Buis : de 1972 à 1996 ;
+
+Société bretonne Chaffoteaux et Maury, 2, rue des Colonies, 56100 Lorient : De 1970 à 1977 ;
+
+Société armoricaine Chaffoteaux et Maury, 7, boulevard Franchet-d'Esperey, 56100 Lorient : De 1978 à 1990 ;
+
+Société bretonne Chaffoteaux et Maury, 23, rue des Halles, 56000 Vannes : De 1970 à 1977 ;
+
+Société armoricaine Chaffoteaux et Maury, 17, avenue de Verdun, 56000 Vannes : De 1978 à 1990 ;
 
 Société bretonne de fonderie mécanique, ZI de Kerpont, 56850 Caudan : de 1967 à 1998 ;
 
@@ -781,6 +793,8 @@ Babcock-Sacom, parc d'activité, zone du Génie, 69200 Vénissieux : de 1929 à 
 Babcock Entreprise/ Citic Carosso Industrie, 35, rue des Alliés, 38100 Grenoble : de 1929 à 1991 ;
 
 Binet Feutres, Annonay, BP 130,07430 Davezieux : de 1952 à 1977 ;
+
+BOIGE ET VIGNAL, 14, rue Francine-Fromont, 69120 Vaulx-en-Velin, de 1975 à 1993.
 
 Bourrin, 18, Grande-Rue, 42406 Saint-Chamond Cedex : depuis sa création jusqu'en 1996 ;
 
