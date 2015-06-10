@@ -970,13 +970,19 @@ SNM :
 
 - chemin des Négadoux, 83140 Six-Fours : de 1982 à 1992.
 
+- SOCARENAM, route de l'Ecluse-Watier, 59140 Dunkerque, de 1975 à 1999
+
+- SOCARENAM, 2, boulevard de Châtillon, 62200 Boulogne-sur-Mer, de 1968 à 1999
+
+- SOCARENAM, quai de la Vistule, 62100 Calais, de 1963 à 1999
+
 Société anonyme Vaugrenier Industrie/Société nouvelle des établissements SAVI (SNES), 1580, avenue Aristide-Briand, quartier Lagoubran, 83500 La Seyne-sur-Mer, de 1985 à 1990.
 
 Société CARFOS :
 
 - port de Caronte, BP 16, 13691 Martigues Cedex : depuis 1960.
 
-Société de montage industriel et maritime (SMIM) : 20, rue Beauvau, 13100 Marseille puis boulevard Frédéric-Mistral Rognac, immeuble Les Amandiers, avenue Jean-Moulin, La Ciotat : Depuis 1968
+Société de montage industriel et maritime (SMIM) : 20, rue Beauvau, 13100 Marseille fpuis boulevard Frédéric-Mistral Rognac, immeuble Les Amandiers, avenue Jean-Moulin, La Ciotat : Depuis 1968
 
 Société d'exploitation ciotadienne des établissements Gardella :
 
@@ -1034,7 +1040,9 @@ Société méditerranéenne de carénage (SOMECAR) :
 
 - centre de réparation navale Mourepiane, 13016 Marseille : de 1981 à 1992.
 
-Société nationale Corse-Méditerranée (SNCM) 61, boulevard des Dames, 18, rue Mazenod, 17, avenue Robert-Schuman, 13002 Marseille : depuis 1950
+Société nationale Corse-Méditerranée (SNCM) 61, boulevard des Dames, 18, rue Mazenod, 17, avenue Robert-Schuman, 13002 Marseille : De 1950 à 2014.
+
+Société nationale Corse-Méditerranée (SNCM), 42, rue Ruffi, bât. G, CS 50372, 13331 Marseille Cedex 03 et 13003 Marseille, Hangar 216, porte 4, GPMM 13315 Marseille et 13003 Marseille : A compter de l'année 2014.
 
 Société nouvelle de constructions métalliques navales et ferroviaires, puis Société La Provençale de chaudronnerie mécanique puis SCOP La Provençale métallurgique puis Société provençale de constructions métalliques navales et ferroviaires : route de la Gare, 83500 La Seyne-sur-Mer et avenue d'Estienne-d'Orves, 83500 La Seyne-sur-Mer : de 1956 à 1985.
 
@@ -1054,8 +1062,6 @@ Société provençale de construction navale SPCN/SPCNI/Ateliers Terrin (SPAT) :
 
 - enceinte portuaire, aire de Mourepiane, 13002 Marseille, puis 287, chemin de la Madrague-Ville, 13015 Marseille : de 1932 à 1978.
 
-Société Sonocar Industrie, zone portuaire de Brégaillon, avenue de la Ire-Armée-Française, 83500 La Seyne-sur-Mer : depuis 1990.
-
 SODIEC/SAMODIA, route nationale 113, quartier du Repos, 13741 Vitrolles : de 1966 à 1982.
 
 SOGETRIM. 19 A, rue Venture, 13001 Marseille, et 13, quai de la Tourette, 13002 Marseille. De 1976 à 1986.
@@ -1070,9 +1076,15 @@ SOMECAR (Société méditerranéenne de carénage)/SOMECAR/Coating :
 
 - 171, route de la Madrague, ville, 13002 Marseille : de 1984 à 1992.
 
-SOMELEC/Electricité marine industrielle :
+SOMELEC (Société méditerranéenne d'électricité) :
 
-- 25, boulevard Massenet, 13014 Marseille : de 1979 à 1993.
+Puis EMI (Electricité marine industrielle), Plan de Campagne, 13480 Cabries
+
+Puis boulevard des Bassins, enceinte portuaire, forme 3, 13002 Marseille
+
+Puis Parc d'activités des Aygalades, 31, boulevard Frédéric-Sauvage, ZIN 12 05, 13333 Marseille Cedex 14
+
+Puis 25, boulevard Massenet, 13014 Marseille : De 1978 à 1993
 
 SOMETREL :
 
@@ -1080,9 +1092,9 @@ SOMETREL :
 
 SOMMA, quartier de Brégaillon, BP 59, 83502 La Seyne-sur-Mer : de 1966 à 1989
 
-SONOCAR :
+SONOCAR, rue Gilly, 83200 Toulon, zone portuaire de Brégaillon, avenue de la 1re-Armée-Française, 83500 La Seyne-sur-Mer : De 1978 à 1990
 
-- rue Gilly, 83200 Toulon, zone portuaire de Brégallon, avenue de la 1re-Armée-Française, 83500 La Seyne : depuis 1978.
+SONOCAR INDUSTRIE, zone portuaire de Brégaillon, avenue de la 1re-Armée-Française, 83500 La Seyne-sur-Mer : De 1990 à 2002
 
 SOPREMO. 1, avenue Kennedy, 13600 La Ciotat. De 1975 à 1983.
 
