@@ -1,68 +1,116 @@
 # Article Annexe
 
-INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
+INFORMATIONS REQUISES POUR L'INSCRIPTION AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
 
-Intitulé :
-
-Titre professionnel de responsable d'établissement touristique.
+Intitulé : responsable d'établissement touristique.
 
 Niveau : III.
 
-Code NSF : 336 t.
+Code NSF : 334p, gestion touristique et hôtelière.
 
 Résumé du référentiel d'emploi
 
-Le (la) responsable d'établissement touristique dirige un hébergement comportant des services complémentaires de restauration et de loisirs. Il (elle) organise et met en marché les services de l'établissement. Il (elle) organise, anime et gère une équipe, de personnel permanent et saisonnier. Il (elle) gère le budget de l'établissement, de fonctionnement et d'investissement, ainsi que les moyens en personnel et en matériel. Il (elle) organise les prestations fournies à la clientèle, en fonction des attentes de celle-ci. Dans le cadre des actions commerciales et de la relation directe avec une clientèle étrangère, il (elle) peut être amené (e) à s'exprimer en anglais.
+Le (la) responsable d'établissement touristique dirige, coordonne, commercialise et gère l'ensemble des prestations et services d'un établissement touristique tels que les hôtels, hôtels clubs, les campings, les résidences de tourisme, les villages de vacances, les parcs et structures de loisirs avec hébergement intégrés. Il (elle) est porteur (porteuse) de l'image de l'entreprise et contribue à sa notoriété.
 
-Le (la) responsable d'établissement touristique assume, le plus souvent seul (e), la responsabilité globale de gestion de l'établissement dans le cadre d'objectifs négociés avec la direction générale et sur la base des moyens qui lui sont dévolus ; il (elle) rend compte des résultats.
+Le (la) responsable d'établissement touristique analyse les données du marché, anticipe le flux de clients et l'évolution de leurs besoins et repère des opportunités pour de nouvelles prestations. En fonction des résultats de son analyse et de la politique de l'entreprise, il (elle) conçoit ou contribue à la conception de produits packagés ou des prestations touristiques, les met en marché, en assure la promotion et la commercialisation dans un but de satisfaction du client et de rentabilité économique de l'établissement.
 
-La présence du public nécessite un souci constant de la sécurité et une grande réactivité aux aléas ; il (elle) est responsable pénalement et civilement de ses actes et de ceux de ses subordonnées qui enfreindraient les lois et règlements liés à la sécurité des personnes des établissements recevant du public (ERP). Il (elle) peut être également amené (e) à représenter l'employeur dans le cadre de litiges prud'homaux.
+Il (elle) assure la gestion financière de l'établissement. A partir des résultats des exercices précédents, il (elle) établit les budgets dans le cadre des moyens dont il (elle) dispose. Il (elle) propose des investissements et les argumente auprès de sa hiérarchie. Il (elle) gère le patrimoine, mandate des prestataires, planifie et assure le suivi des travaux et vérifie la qualité de leur exécution.
 
-Pendant la saison touristique, ses horaires sont irréguliers, avec une amplitude quotidienne importante ; les dimanches et jours fériés sont ouvrés. Le travail peut être saisonnier. L'activité peut générer des déplacements, notamment pour les actions de promotion et de commercialisation.
+Le (la) responsable d'établissement touristique identifie les besoins en personnel en fonction de l'activité de l'établissement. Il (elle) conçoit le profil des équipes dont il a besoin et recrute ou participe au recrutement. Il (elle) encadre les personnels sous sa responsabilité, fixe les objectifs et vérifie leurs atteintes afin de garantir la qualité de service client attendue.
+
+Dans le respect du cahier des charges qualité, il (elle) met en place les prestations de l'établissement et contrôle leur fonctionnement. Dans le cadre des établissements recevant du public (ERP), le (la) responsable d'établissement touristique conçoit un plan de prévention des risques pour l'établissement et veille à la sécurité des personnes et des biens. Il (elle) respecte les mesures définies par l'établissement pour l'application de la politique de responsabilité sociétale (RSE) notamment en matière de développement durable, de non-discrimination, de parité homme/ femme, d'accueil et d'accessibilité aux personnes handicapées.
+
+Dans le cadre des actions commerciales, du recrutement et de la relation directe avec une clientèle étrangère, le (la) responsable d'établissement touristique s'exprime en anglais au niveau B2 du cadre européen de référence pour les langues.
+
+Le (la) responsable d'établissement touristique a un niveau de responsabilité civile et pénale variable en fonction de son statut. Il (elle) peut être gérant de société ou salarié dirigeant en délégation.
+
+Le niveau d'autonomie du (de la) responsable d'établissement touristique varie en fonction de son statut et de la taille de l'entreprise. Lorsqu'il est salarié, il rend compte à sa hiérarchie et peut agir par délégation au service de la politique de développement de l'établissement et représenter l'entreprise lors de négociations.
+
+Le (la) responsable d'établissement touristique est en relation avec le personnel, les clients, les prestataires de service externes, les fournisseurs et les acteurs de son environnement économique.
+
+L'emploi s'exerce dans des établissements souvent ouverts à l'année. Les dimanches et jours fériés sont ouvrés. Les horaires sont irréguliers avec une amplitude importante dans la journée. Le travail peut être saisonnier, et plus soutenu à certaines périodes de l'année. Des déplacements de durée variable sont fréquents.
 
 Capacités attestées et descriptif des composantes de la certification
 
-1. Définir la politique produit et assurer la mise en marché d'un établissement touristique
+1. Mettre en marché l'offre de produits et de services d'un établissement touristique
 
-Définir une stratégie marketing adaptée et fixer les objectifs de l'offre de prestations à partir de l'analyse du produit touristique.
+Fixer les objectifs marketing de l'offre de prestations d'un établissement touristique.
 
-Mettre en oeuvre et piloter un ensemble d'outils et d'actions cohérents pour atteindre les objectifs auprès du marché cible.
+Optimiser le chiffre d'affaires de l'établissement touristique.
 
-Optimiser le remplissage de l'établissement par des actions de prospection et de vente, le cas échéant, en anglais auprès de la clientèle étrangère.
+Optimiser l'action commerciale et la distribution de l'offre d'un établissement touristique, y compris sur internet.
 
-2. Gérer le budget de fonctionnement et d'investissements d'un établissement touristique
+2. Gérer les budgets de fonctionnement et d'investissements d'un établissement touristique
 
-Elaborer des outils de gestion prévisionnelle en tenant compte de l'activité de l'établissement.
+Assurer la gestion financière d'un établissement touristique.
 
-Procéder à la régulation de l'utilisation des ressources après interprétation des résultats de gestion.
+Etablir et suivre un programme de maintenance et d'investissements d'un établissement touristique.
 
-Rédiger ou participer à la rédaction d'un cahier des charges de travaux d'aménagement et suivre le déroulement du programme jusqu'à bonne fin.
+3. Manager les ressources humaines d'un établissement touristique
 
-Planifier les moyens affectés à l'entretien des équipements et du patrimoine bâti et en assurer le suivi.
+Assurer la gestion prévisionnelle des personnels d'un établissement touristique.
 
-3. Organiser, animer et gérer les ressources humaines d'un établissement touristique
+Recruter le personnel d'un établissement touristique.
 
-Définir les moyens en personnel permettant d'assurer la qualité de la prestation et la rentabilité économique de l'établissement.
+Gérer et animer le personnel d'un établissement touristique.
 
-Recruter une équipe de travail en tenant compte des contraintes d'environnement interne et externe.
+4. Piloter la production des services d'un établissement touristique
 
-Organiser, animer et contrôler le personnel dans le respect du cadre réglementaire et dans le souci de la motivation des salariés et de la satisfaction des clients.
+Mettre en place et assurer la production des services d'un établissement touristique.
 
-4. Mettre en place, piloter et contrôler les différents services d'un établissement touristique
+Assurer le contrôle qualité des prestations d'un établissement touristique.
 
-Mettre en place les différentes prestations de l'établissement en assurant la coordination des équipes de travail.
+Compétences transversales de l'emploi
 
-Assurer le contrôle qualité des prestations et réagir aux aléas techniques et aux litiges avec la clientèle, le cas échéant, en anglais pour la clientèle étrangère.
+Utiliser les outils bureautiques en gestion touristique et hôtelière.
 
-Secteur d'activité ou type d'emploi accessible par le détenteur du titre
+Mobiliser une posture de service en établissement touristique.
 
-L'emploi s'exerce dans des établissements (clubs et villages de vacances, hôtels clubs, résidences de tourisme ou hôtels de plein air) dont la capacité d'hébergement est significative.
+Travailler en équipe dans un établissement touristique recevant du public.
 
-Les emplois accessibles sont : directeur de village de vacances, directeur de club de vacances, directeur de résidence de tourisme, directeur d'hôtellerie de plein air, chef de village, et, lorsque l'établissement a une capacité d'hébergement très importante, assistant ou adjoint de direction.
+Secteurs d'activité et types d'emplois accessibles par le détenteur du titre
 
-Code ROME :
+Les différents secteurs d'activités concernés sont principalement :
 
-13134-Directeur d'hébergement.
+L'hôtellerie traditionnelle, de loisirs ou d'affaires.
+
+L'hôtellerie de plein air.
+
+Les clubs et villages de vacances.
+
+Les résidences de tourisme.
+
+Les parcs et structures de loisirs avec hébergement intégré.
+
+Hôtellerie mobile : bateaux de croisières maritimes et fluviaux.
+
+Les types d'emplois accessibles sont les suivants :
+
+Directeur de village de vacances.
+
+Directeur de club de vacances.
+
+Directeur de résidence de tourisme.
+
+Directeur d'hôtellerie de plein air.
+
+Directeur d'hôtel-restaurant.
+
+Exploitant de structures d'hébergements touristiques.
+
+Adjoint de direction.
+
+Attaché de direction.
+
+Hôtelier-restaurateur.
+
+Codes ROME :
+
+G1401 : assistant de direction d'hôtel-restaurant.
+
+G1402 : gestion de structure de loisirs ou d'hébergement touristique.
+
+G1403 : management d'hôtel-restaurant.
 
 Réglementation de l'activité :
 
@@ -74,8 +122,10 @@ Ministère chargé de l'emploi.
 
 Bases légales et réglementaires :
 
-Loi n° 2002-73 du 17 janvier 2002 de modernisation sociale ;
+Code de l'éducation, les articles L. 335-5, L. 335-6 et R. 338-1 et suivants ;
 
-Décret n° 2002-1029 du 2 août 2002 ;
+Arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi ;
 
-Arrêté du 25 novembre 2002.
+Arrêté du 8 décembre 2008 relatif au règlement général des sessions de validation conduisant au titre professionnel du ministère chargé de l'emploi.
+
+La réglementation applicable à ce titre professionnel est mise en œuvre à compter du 24 mai 2015.
