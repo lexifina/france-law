@@ -18,7 +18,7 @@ Les terrains comportant, sur toute la profondeur pouvant être explorée par les
 
 C. - Culture hors-sol :
 
-Toute technique de multiplication évitant tout contact des racines avec le sol en place, mettant en oeuvre du matériel soit aoûté, soit herbacé.
+Toute technique de multiplication évitant tout contact des racines avec le sol en place, mettant en œuvre du matériel soit aoûté, soit herbacé.
 
 D. - Parcelle unitaire :
 
@@ -46,11 +46,11 @@ Campagne viticole au cours de laquelle les matériels de multiplication ont ache
 
 II. - Prescriptions générales relatives aux vignes-mères de porte-greffes
 
-a) Les terrains destinés à la plantation d'une vigne mère de porte greffes en plein champ doivent :
+a) Les terrains destinés à la plantation d'une vigne mère de porte-greffes en plein champ doivent :
 
-- soit avoir subi un repos du sol d'une durée minimale de douze ans avant la plantation ;
+- soit avoir subi un repos du sol d'une durée minimale de dix ans avant la plantation ;
 
-- soit avoir subi dix ans au minimum de repos du sol et être désinfectés avant la plantation.
+- soit avoir subi huit ans au minimum de repos du sol et être désinfectés avant la plantation.
 
 Toutefois cette durée est ramenée à six ans au minimum de repos du sol, sans désinfection avant la plantation, lorsque le précédent est une pépinière de vigne.
 
@@ -74,15 +74,13 @@ Une parcelle unitaire non conforme aux dispositions du présent arrêté ne peut
 
 f) Le remplacement des pieds manquants ne peut être effectué que par provignage, ou avec des plants de même catégorie et du même clone, sous le contrôle de l'Office national interprofessionnel des fruits, des légumes, des vins et de l'horticulture.
 
-g) L'inscription au contrôle des parcelles unitaires productrices de matériel certifié est délivrée pour une période s'achevant à la fin de la cinquième année suivant l'année de la plantation. Des tests sanitaires devront être réalisés au cours de la sixième année au plus tard suivant l'année de plantation. Les tests sanitaires devront être renouvelés au plus tard au cours de la dixième année suivant la dernière année de test.
+g) L'inscription au contrôle des parcelles unitaires productrices de matériel certifié est délivrée pour une période s'achevant au 31 juillet de la cinquième campagne suivant la campagne de la plantation. En l'absence de tests sanitaires réalisés au plus tard au 31 juillet de la cinquième campagne suivant la campagne de plantation, la parcelle est suspendue du contrôle. En l'absence de tests sanitaires réalisés au plus tard au 31 juillet de la sixième campagne suivant la campagne de plantation, la parcelle est radiée du contrôle et arrachée.
 
-En l'absence de contamination par des viroses définies au paragraphe VI (c), l'inscription est reconduite pour dix ans.
+Les tests sanitaires devront être renouvelés au plus tard au 31 juillet de la dixième campagne suivant la dernière campagne de test. En l'absence de contamination par des viroses définies au paragraphe VI c, l'inscription est reconduite pour dix campagnes. En l'absence de tests sanitaires réalisés avant le 31 juillet de la dixième campagne suivant celle du dernier test, toute récolte de matériel végétal est interdite et les parcelles de vignes mères de porte-greffes sont radiées et arrachées.
 
-En l'absence de test sanitaire réalisé selon la périodicité définie ci-dessus, toute récolte de matériel végétal est interdite et les parcelles unitaires concernées sont arrachées.
+Les prélèvements en vue de la réalisation des tests sanitaires sont effectués conformément au protocole établi par l'Etablissement national des produits de l'agriculture et de la mer.
 
-Les prélèvements en vue de la réalisation des analyses sanitaires sont effectués conformément au protocole de l'Office national interprofessionnel des fruits, des légumes, des vins et de l'horticulture.
-
-Les tests sanitaires sont effectués conformément au protocole officiel en vigueur par des laboratoires officiellement reconnus à cet effet.
+Les tests sanitaires sont effectués conformément au protocole officiel en vigueur par des laboratoires reconnus par l'Etablissement national des produits de l'agriculture et de la mer à cet effet.
 
 h) Chaque parcelle unitaire doit être identifiée de façon permanente par son numéro d'inscription au contrôle de l'Office national interprofessionnel des fruits, des légumes, des vins et de l'horticulture.
 
@@ -208,11 +206,13 @@ C. - Traitement des mélanges variétaux :
 
 2. En pépinière : en cas de mélange variétal dans un lot unitaire de plants, l'Office national interprofessionnel des fruits, des légumes, des vins et de l'horticulture fait procéder à son épuration. Lorsque le triage n'est pas possible, le lot doit être détruit.
 
-VI. - Prescriptions relatives à la gestion des risques de contamination des vignes-mères de porte-greffes et de greffons par des organismes nuisibles
+VI. - Prescriptions relatives à la gestion des risques de contamination des vignes-mères
+
+de porte-greffes et de greffons par des organismes nuisibles
 
 a) Matériel de multiplication initial :
 
-L'Office national interprofessionnel des fruits, des légumes, des vins et de l'horticulture s'assure grâce à une inspection officielle que les vignes-mères destinées à la production de matériel de multiplication initial sont exemptes des organismes nuisibles suivants :
+L'Etablissement national des produits de l'agriculture et de la mer s'assure grâce à une inspection officielle que les vignes mères destinées à la production de matériel de multiplication initial sont exemptes des organismes nuisibles suivants :
 
 - complexe de la dégénérescence infectieuse : virus du court-noué (ou des feuilles en palmette) de la vigne (GFLV) et virus de la mosaïque de l'arabette (ArMV) ;
 
@@ -220,19 +220,27 @@ L'Office national interprofessionnel des fruits, des légumes, des vins et de l'
 
 - virus de la marbrure (GFkV), uniquement pour les porte-greffes.
 
-Cette inspection repose sur les résultats d'un indexage à la plantation puis de tests sanitaires effectués tous les cinq ans sur la totalité des plants en vue de détecter la présence des organismes cités précédemment.
+Cette inspection repose sur les résultats de tests d'indexage effectués à la plantation sur la totalité des plants puis de tests sanitaires à effectuer avant la fin de la cinquième campagne suivant les tests d'indexage, en vue de détecter la présence des organismes cités précédemment.
+
+En l'absence d'indexage effectué dans les trois mois qui suivent la date de la plantation, la parcelle est radiée du contrôle.
+
+En l'absence de tests sanitaires effectués sur la totalité des plants au plus tard au 31 juillet de la cinquième campagne suivant celle du dernier test, la parcelle est radiée du contrôle et arrachée pour les vignes mères de porte-greffes.
 
 Les plants infectés doivent être éliminés.
 
 b) Matériel de multiplication de base :
 
-L'Office national interprofessionnel des fruits, des légumes, des vins et de l'horticulture s'assure grâce à une inspection officielle que les vignes-mères destinées à la production de matériel de multiplication de base sont exemptes des organismes nuisibles suivants :
+L'Etablissement national des produits de l'agriculture et de la mer s'assure grâce à une inspection officielle que les vignes mères destinées à la production de matériel de multiplication de base sont exemptes des organismes nuisibles suivants :
 
 - complexe de la dégénérescence infectieuse : virus du court-noué (ou des feuilles en palmette) de la vigne (GFLV) et virus de la mosaïque de l'arabette (ArMV) ;
 
 - maladie de l'enroulement de la vigne : types 1 (GLRaV-1) et 3 (GLRaV-3) du virus associé à la maladie de l'enroulement de la vigne.
 
-Cette inspection repose sur les résultats des tests sanitaires effectués sur la totalité des plants en vue de détecter la présence des organismes cités précédemment. Ces tests sont réalisés au moins tous les six ans, en commençant la troisième année suivant l'année de plantation.
+Cette inspection repose sur les résultats des tests sanitaires effectués sur la totalité des plants en vue de détecter la présence des organismes cités précédemment. Ces tests sont réalisés à partir de la troisième campagne suivant la campagne de plantation puis au moins toutes les six campagnes, à partir de la campagne du dernier test réalisé.
+
+En l'absence de tests sanitaires effectués sur la totalité des plants au plus tard au 31 juillet de la troisième campagne suivant la campagne de la plantation, la parcelle est radiée du contrôle et arrachée pour les vignes mères de porte-greffes.
+
+En l'absence de tests sanitaires effectués sur la totalité des plants au plus tard au 31 juillet de la sixième campagne suivant celle du dernier test, la parcelle est radiée du contrôle et arrachée pour les vignes mères de porte-greffes.
 
 Les plants infectés doivent être éliminés.
 
@@ -279,7 +287,5 @@ g) Le matériel de multiplication utilisé pour la production de boutures greffa
 h) L'inspection visée aux points VI (a, b, c, d et f) de la présente annexe comporte au moins une inspection sur pied.
 
 Des inspections supplémentaires sur pied sont effectuées en cas de litiges pouvant être réglés sans préjudice de la qualité du matériel de multiplication.
-
-Vous pouvez consulter le tableau dans le JO n° 245 du 21/10/2006 texte numéro 22
 
 Vous pouvez consulter le tableau dans le JO n° 245 du 21/10/2006 texte numéro 22
