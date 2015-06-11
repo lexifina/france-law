@@ -1,0 +1,9 @@
+# Réponse à la question SEQ150415705
+
+- Question : [SEQ150415705](seq150415705.md) — Retard de mise en œuvre du fonds européen pour les affaires maritimes et la pêche
+
+## Réponse
+
+*Transports, mer et pêche, JO du 2015-06-11, page 1396*
+
+La parution tardive du règlement d'exécution définissant la structure des plans de compensation des surcoûts et du règlement délégué arrêtant les règles de calcul des surcoûts ont entraîné un délai dans la mise en place de ces plans. Ceux-ci sont intégrés dans l'ensemble du programme opérationnel français du fonds européen pour les affaires maritimes et la pêche (FEAMP), notifié à la Commission début avril 2015, après une ultime validation par le comité État-régions du FEAMP. La Commission européenne examine actuellement ce programme opérationnel, avant d'adresser ses observations à la France. Le Gouvernement a pleinement conscience que les aides attendues au titre de ce régime sont essentielles pour l'équilibre économique des entreprises de cette filière. C'est pourquoi, afin d'aider ces dernières à passer ce cap difficile, il a donné des instructions à la Banque publique d'investissement (BPI), afin qu'elle accorde, pendant cette période transitoire, des prêts de trésorerie ou des garanties à des prêts de trésorerie aux entreprises d'Outre-mer bénéficiant auparavant des aides au fonctionnement. Ce concours sera apporté selon les conditions financières du marché bancaire actuel ; c'est une exigence essentielle au regard des règles européennes en matière d'aide d'État. Les prêts de trésorerie seront remboursés dans leur intégralité, une fois le dispositif FEAMP mis en place. Cette intervention conforte la volonté du Gouvernement de garantir la compétitivité de la filière pêche et aquaculture dans l'Outre-mer, pour compenser les surcoûts propres à l'ultra-périphérie. Les modalités d'intervention de la PBI sont en cours de définition et seront communiquées aux entreprises concernées dans les meilleurs délais.
