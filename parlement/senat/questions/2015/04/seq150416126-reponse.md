@@ -1,0 +1,9 @@
+# Réponse à la question SEQ150416126
+
+- Question : [SEQ150416126](seq150416126.md) — Conséquences des accords de libre-échange entre l'Union européenne et les États-Unis sur l'agriculture française
+
+## Réponse
+
+*Agriculture, agroalimentaire et forêt, JO du 2015-06-11, page 1386*
+
+L'Union européenne et les États-Unis d'Amérique ont débuté le 17 juin 2013 des négociations pour un partenariat transatlantique de commerce et d'investissement. L'action de la Commission européenne, chargée de négocier l'accord pour le compte de l'Union européenne, est encadrée par un mandat de négociation voté par les 28 États membres. Le périmètre de l'accord comprend notamment le secteur agricole. Depuis de nombreuses années, le modèle sanitaire et alimentaire européen a fait preuve de son efficacité et a permis à l'Union européenne d'atteindre un très haut niveau de sécurité sanitaire. La France est très vigilante sur le fait que les consommateurs européens soient assurés que la qualité sanitaire des aliments importés et de ceux qui sont produits au sein de l'Union européenne soient identiques. En l'occurrence, le projet d'accord entre l'Union européenne et les États-Unis d'Amérique ne doit en aucun cas remettre en cause les bonnes pratiques d'hygiène par le recours à des procédés de décontamination chimique, à l'usage d'antibiotiques ou de toute autre substance utilisée à des fins non thérapeutiques, telle que la somatotropine bovine (l'hormone du lait) ou les promoteurs de croissance. À ce titre, la France a obtenu que la préservation du modèle sanitaire et alimentaire européen figure explicitement dans le mandat confié à la Commission dans le cadre des négociations de l'accord entre l'Union européenne et les États-Unis d'Amérique. Le Gouvernement restera très vigilant sur ce point tout au long des négociations.
