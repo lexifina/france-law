@@ -1,0 +1,9 @@
+# Réponse à la question SEQ140110135
+
+- Question : [SEQ140110135](seq140110135.md) — Recrudescence de la gale
+
+## Réponse
+
+*Affaires sociales, santé et droits des femmes, JO du 2015-06-11, page 1382*
+
+La gale est une maladie parasitaire, le plus souvent bénigne, hautement contagieuse, qui touche des personnes de tous âges, tous milieux sociaux et dans tous les pays. Dans son rapport « recommandations relatives à la conduite à tenir devant un ou plusieurs cas de gale », paru le 9 novembre 2012, le Haut Conseil de la santé publique (HCSP) analyse les données épidémiologiques sur l'incidence et la prévalence de la gale, les modes de transmission, les formes cliniques, les moyens diagnostiques et de traitement. Le HCSP fait aussi un point sur les recommandations européennes et internationales relatives au traitement de la gale. Toutefois, il précise que « les divergences constatées [dans les études] illustrent la faiblesse des arguments scientifiques sur lesquelles elles reposent » Les recommandations du groupe de travail portent sur les traitements, comprenant le traitement individuel, et de l'entourage en cas de gale commune et gale profuse et hyperkératosique. Les mesures d'hygiène comprenant le traitement du linge et de l'environnement sont également rappelées. En France, parmi les traitements contre la gale, l'Ivermectine (stromectol®) est remboursé par l'assurance maladie, à hauteur de 65 %. Le HCSP préconise enfin « la réalisation d'études épidémiologiques ponctuelles et à intervalle régulier (5-10 ans) afin de suivre les tendances épidémiologiques de la maladie. Il est important de renforcer le diagnostic précoce par une sensibilisation du public et l'information des cliniciens et en cas de besoin, d'améliorer la coordination des structures pour s'assurer de la bonne application des recommandations de traitement. Les agences régionales de santé interviennent régulièrement pour apporter un appui lors d'épidémie de gale en collectivité.
