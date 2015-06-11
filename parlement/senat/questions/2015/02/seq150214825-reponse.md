@@ -1,0 +1,9 @@
+# Réponse à la question SEQ150214825
+
+- Question : [SEQ150214825](seq150214825.md) — Responsabilité des communes en matière d'accès aux défibrillateurs
+
+## Réponse
+
+*Intérieur, JO du 2015-06-11, page 1394*
+
+L'installation décidée par le maire de défibrillateurs cardiaques externes sur le territoire de sa commune s'inscrit dans le cadre des pouvoirs de police administrative qu'il détient en application de l'article L. 2212-2 du code général des collectivités territoriales. Le 5° de cet article dispose que la police municipale a pour objet le soin « de pourvoir d'urgence à toutes les mesures d'assistance et de secours ». L'utilisation de ces pouvoirs est susceptible d'engager la responsabilité pénale du maire, conformément à l'article L. 121-3 du code pénal. Toutefois, aux termes des dispositions de l'article L. 2123-34 du code général des collectivités territoriales, le maire ne peut être condamné « pour des faits non intentionnels commis dans l'exercice de ses fonctions que s'il est établi qu'il n'a pas accompli les diligences normales compte tenu de ses compétences, du pouvoir et des moyens dont il disposait ainsi que des difficultés propres aux missions que la loi lui confie ». Or, aucune loi n'impose au maire l'installation de défibrillateurs. La responsabilité pénale d'un maire ne saurait - éventuellement - être engagée que si le maire ayant de sa propre initiative fait installer un défibrillateur n'avait pas suffisamment veillé à son bon fonctionnement, à son entretien. Ainsi, dans le cas des défibrillateurs cardiaques, les conséquences d'une défaillance imputable à l'appareil ne pourraient engager la responsabilité du maire que si celui-ci n'a manifestement pas accompli les démarches nécessaires à son bon fonctionnement, comme l'installation et l'entretien par un professionnel.
