@@ -532,9 +532,9 @@ Article 4
 
 Création d'un régime d'autorisation européenne de pêche
 
-L'activité de pêche professionnelle à la senne de plage est encadrée par une autorisation européenne de pêche (AEP), anciennement appelée permis de pêche spécial (PPS). Le nombre maximal d'AEP qui peut être attribué pour la pêche à la senne de plage en Méditerranée est de 37.
+L'activité de pêche professionnelle à la senne de plage est encadrée par une autorisation européenne de pêche (AEP), anciennement appelée permis de pêche spécial (PPS). Le nombre maximal d'AEP qui peut être attribué pour la pêche à la senne de plage en Méditerranée est de 33.
 
-Dans ce contingent, le nombre maximal d'AEP qui peut être attribué pour la pêche à la senne de plage "à poutine" est de 11.
+Dans ce contingent, le nombre maximal d'AEP qui peut être attribué pour la pêche à la senne de plage "à poutine" est de 10.
 
 La mention de la pratique de la senne de plage dans les fiches de déclaration de capture est une condition nécessaire pour que l'AEP soit attribuée.
 
@@ -1364,7 +1364,7 @@ La pratique de la pêche professionnelle à la senne tournante coulissante en me
 
 La senne tournante coulissante ne peut être pratiquée que par des navires d'une longueur hors tout inférieure à 24 mètres. La senne tournante coulissante ciblant les petits pélagiques est pratiquée avec ou sans dispositif lumineux.
 
-Le plafond maximum d'autorisations européennes de pêche pouvant être délivrées est de 78 AEP, avec trois options possibles pour un navire, dans l'objectif de conserver la polyvalence :
+Le plafond maximum d'autorisations européennes de pêche pouvant être délivrées est de 70 AEP, avec trois options possibles pour un navire, dans l'objectif de conserver la polyvalence :
 
 ― poisson démersal ;
 

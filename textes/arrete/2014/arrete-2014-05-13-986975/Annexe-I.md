@@ -574,9 +574,9 @@ de pêche (AEP)
 
 La détention d'une AEP est nécessaire pour pouvoir pratiquer une activité de pêche professionnelle à la petite drague à coquillages.
 
-Le nombre maximal d'AEP mention "petite drague à coquillages" (aussi appelée "drague d'étang") qui peut être attribué simultanément est de 35.
+Le nombre maximal d'AEP mention "petite drague à coquillages" (aussi appelée "drague d'étang") qui peut être attribué simultanément est de 31.
 
-Le nombre maximal d'AEP mention "drague à coquillages" (aussi appelée "drague barre") qui peut être attribué simultanément est de 30.
+Le nombre maximal d'AEP mention "drague à coquillages" (aussi appelée "drague barre") qui peut être attribué simultanément est de 27.
 
 La mention de la pratique de la drague dans les fiches de déclaration de capture est une condition nécessaire pour que l'AEP soit attribuée.
 
