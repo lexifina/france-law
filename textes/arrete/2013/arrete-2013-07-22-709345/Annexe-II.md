@@ -12,7 +12,7 @@ NUMÉRO D'IMMATRICULATION
 
 |
 
-AILE BLANCHE
+Aile Blanche
 
 |
 
@@ -24,7 +24,7 @@ TL D59766
 
 |
 
-AILE VI
+Aile VI
 
 |
 
@@ -36,7 +36,7 @@ NO 246817
 
 |
 
-AILEENA
+Aileena
 
 |
 
@@ -48,19 +48,19 @@ LR 162215
 
 |
 
-ALCOFRYBAS
+Alcofrybas
 
 |
 
-Caen
+Néant
 
 |
 
-CN 895059
+Néant
 
 |
 
-AMITIE
+Amitié
 
 |
 
@@ -72,7 +72,7 @@ DZ 639853
 
 |
 
-ANDRE-YVETTE
+André-Yvette
 
 |
 
@@ -84,7 +84,7 @@ CM 267488
 
 |
 
-ANTIOCHE
+Antioche
 
 |
 
@@ -96,7 +96,7 @@ BX 431875
 
 |
 
-BABAR
+Babar
 
 |
 
@@ -108,7 +108,7 @@ VA 560131
 
 |
 
-BLUERED
+Bluered
 
 |
 
@@ -120,7 +120,7 @@ ST 624738
 
 |
 
-BY ALBATROSS
+By Albatross
 
 |
 
@@ -132,7 +132,7 @@ TL 556095
 
 |
 
-CANTAREL
+Cantarel
 
 |
 
@@ -144,7 +144,7 @@ CC 381778
 
 |
 
-CASSIOPEE
+Cassiopée
 
 |
 
@@ -156,7 +156,7 @@ DK 268627
 
 |
 
-CHANTENAY
+Chantenay
 
 |
 
@@ -168,7 +168,7 @@ NA 226753
 
 |
 
-CHRISTINA II
+Christina II
 
 |
 
@@ -180,7 +180,7 @@ LR 358942
 
 |
 
-DALH-MAD
+Dalh-Mad
 
 |
 
@@ -192,7 +192,7 @@ BR 787018
 
 |
 
-ETOILE DE MER
+Etoile de Mer
 
 |
 
@@ -204,7 +204,7 @@ DK 245357
 
 |
 
-ETOILE DU MATIN
+Etoile du Matin
 
 |
 
@@ -216,7 +216,7 @@ TL 240230
 
 |
 
-ETOILE MANUREVA
+Etoile Manureva
 
 |
 
@@ -228,7 +228,7 @@ SM 785448
 
 |
 
-ETOILE MOLENE
+Etoile Molène
 
 |
 
@@ -240,7 +240,7 @@ SM 487727
 
 |
 
-ETOILE POLAIRE
+Etoile Polaire
 
 |
 
@@ -252,7 +252,7 @@ SM 906797
 
 |
 
-FARFADET
+Farfadet
 
 |
 
@@ -264,7 +264,7 @@ AC C14521
 
 |
 
-FRANÇOISE
+Françoise
 
 |
 
@@ -276,7 +276,7 @@ ST A43278
 
 |
 
-GARGALO
+Gargalo
 
 |
 
@@ -288,7 +288,7 @@ TL 509899
 
 |
 
-GUARANY
+Guarany
 
 |
 
@@ -296,11 +296,11 @@ Sète
 
 |
 
-ST D 21282
+ST D21282
 
 |
 
-HEATHER (CIVELLE)
+Heather (Civelle)
 
 |
 
@@ -312,7 +312,7 @@ SN C13456
 
 |
 
-HESPERUS
+Hesperus
 
 |
 
@@ -324,7 +324,7 @@ CN 764264
 
 |
 
-HET LEVEN
+Het Leven
 
 |
 
@@ -336,7 +336,7 @@ SN D65121
 
 |
 
-ICARE
+Icare
 
 |
 
@@ -348,7 +348,7 @@ AD 361817
 
 |
 
-IRINA VII
+Irina VII
 
 |
 
@@ -360,7 +360,7 @@ TL C36049
 
 |
 
-JILL
+Jill
 
 |
 
@@ -372,7 +372,7 @@ MA 569319
 
 |
 
-L'ATTRAPE-CŒURS
+L'attrape-Cœurs
 
 |
 
@@ -384,7 +384,7 @@ ST 251797
 
 |
 
-L'IROISE
+L'Iroise
 
 |
 
@@ -396,7 +396,7 @@ TL 283289
 
 |
 
-LA GRANVILLAISE
+La Granvillaise
 
 |
 
@@ -408,7 +408,7 @@ CH 775501
 
 |
 
-LA HORAINE
+La Horaine
 
 |
 
@@ -420,7 +420,7 @@ PL 333226
 
 |
 
-LAISSA ANA
+Laissa Ana
 
 |
 
@@ -432,7 +432,7 @@ NI C40148
 
 |
 
-LAURIE
+Laurie
 
 |
 
@@ -444,7 +444,7 @@ ST 330011
 
 |
 
-LEVANT
+Levant
 
 |
 
@@ -456,7 +456,7 @@ TL D55078
 
 |
 
-LOBELIA
+Lobelia
 
 |
 
@@ -468,7 +468,7 @@ LO 450627
 
 |
 
-LULOUAT
+Lulouat
 
 |
 
@@ -480,7 +480,7 @@ TL D39225
 
 |
 
-MANON DES MERS
+Manon des Mers
 
 |
 
@@ -492,7 +492,7 @@ ST 401020
 
 |
 
-MARIA H
+Maria H
 
 |
 
@@ -504,7 +504,7 @@ VA 804364
 
 |
 
-MARIANNE
+Marianne
 
 |
 
@@ -516,7 +516,7 @@ BR C11063
 
 |
 
-MARIE-MADELEINE
+Marie-Madeleine
 
 |
 
@@ -528,7 +528,7 @@ CN 666836
 
 |
 
-MASSALIA
+Massalia
 
 |
 
@@ -540,7 +540,7 @@ MA B33186
 
 |
 
-MINAHOUET II
+Minahouet II
 
 |
 
@@ -552,7 +552,7 @@ LO 289015
 
 |
 
-MORWENNA
+Morwenna
 
 |
 
@@ -564,7 +564,7 @@ BR 330462
 
 |
 
-NAÏMA
+Naïma
 
 |
 
@@ -576,7 +576,7 @@ VA 165023
 
 |
 
-NIN (ex SIRIUS)
+Nin (ex Sirius)
 
 |
 
@@ -588,7 +588,7 @@ MA 262502
 
 |
 
-NORYEMA IV
+Noryema IV
 
 |
 
@@ -600,7 +600,7 @@ BR 528525
 
 |
 
-NYMPHEA
+Nymphea
 
 |
 
@@ -612,7 +612,7 @@ MA 361023
 
 |
 
-O'ABANDONADO
+O'Abandonado
 
 |
 
@@ -624,7 +624,7 @@ NO 678839
 
 |
 
-PATRON FRANÇOIS MORIN
+Patron François Morin
 
 |
 
@@ -636,7 +636,7 @@ BR 442503
 
 |
 
-PAULINE
+Pauline
 
 |
 
@@ -648,7 +648,7 @@ SB 817946
 
 |
 
-PENELOPE
+Pénélope
 
 |
 
@@ -660,7 +660,7 @@ DZ 637631
 
 |
 
-PHRYNE
+Phryne
 
 |
 
@@ -672,7 +672,7 @@ LO 197627
 
 |
 
-PIED'BOUEE
+Pied'Bouée
 
 |
 
@@ -684,7 +684,7 @@ YE 232727
 
 |
 
-PIERRETTE
+Pierrette
 
 |
 
@@ -696,7 +696,7 @@ ST 330039
 
 |
 
-RAINBOW III
+Rainbow III
 
 |
 
@@ -708,7 +708,7 @@ MA 136252
 
 |
 
-RATAFIA
+Ratafia
 
 |
 
@@ -720,7 +720,7 @@ GV 241121
 
 |
 
-RODOLPHE FAULQUIER
+Rodolphe Faulquier
 
 |
 
@@ -732,7 +732,7 @@ ST 436504
 
 |
 
-SAINT GILDAS
+Saint Gildas
 
 |
 
@@ -744,7 +744,7 @@ SN 284710
 
 |
 
-SAN ANTONE
+San Antone
 
 |
 
@@ -756,7 +756,7 @@ BI 314395
 
 |
 
-SANTO
+Santo
 
 |
 
@@ -768,7 +768,7 @@ TL 138961
 
 |
 
-SILK
+Silk
 
 |
 
@@ -780,7 +780,7 @@ MX 483320
 
 |
 
-STRAND HUGG
+Strand Hugg
 
 |
 
@@ -792,7 +792,7 @@ CH 188564
 
 |
 
-TAIRA
+Taira
 
 |
 
@@ -804,7 +804,7 @@ AY 284961
 
 |
 
-TELENN MOR
+Telenn Mor
 
 |
 
@@ -816,7 +816,7 @@ DZ 639566
 
 |
 
-TI MARIUS
+Ti Marius
 
 |
 
@@ -828,7 +828,7 @@ TL 262327
 
 |
 
-TIAHURA
+Tiahura
 
 |
 
@@ -840,7 +840,7 @@ MA C52185
 
 |
 
-TIN
+Tin
 
 |
 
@@ -852,7 +852,7 @@ DZ 829556
 
 |
 
-USHAS
+Ushas
 
 |
 
@@ -864,7 +864,7 @@ TL 326033
 
 |
 
-VELA
+Vela
 
 |
 
@@ -876,7 +876,7 @@ SM 581772
 
 |
 
-VERTROUWEN
+Vertrouwen
 
 |
 
@@ -888,7 +888,7 @@ DZ 829716
 
 |
 
-VIERGE DE LOURDES
+Vierge de Lourdes
 
 |
 
@@ -900,7 +900,7 @@ FC 249509
 
 |
 
-VISION
+Vision
 
 |
 
@@ -912,7 +912,7 @@ SN 338988
 
 |
 
-VOLONTE
+Volonté
 
 |
 
@@ -924,7 +924,7 @@ DZ B71116
 
 |
 
-YOKSHAN
+Yokshan
 
 |
 
@@ -936,7 +936,7 @@ VA 279902
 
 |
 
-ZERO DE CONDUITE
+Zéro de Conduite
 
 |
 
@@ -944,6 +944,4 @@ Marseille
 
 |
 
-MA 182279
-
-|
+MA 182279 |
