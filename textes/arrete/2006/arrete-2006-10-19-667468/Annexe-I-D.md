@@ -30,6 +30,30 @@ maximale
 
 |
 
+Asparaginase d'Aspergillus niger autocloné
+
+|
+
+Enzymes.
+
+|
+
+Céréales infantiles, biscuits et biscottes destinées aux nourrissons et enfants en bas âge.
+
+|
+
+Utilisation pour la préparation d'aliments contenant de la L-asparagine et des hydrates de carbone, cuits à des températures supérieures à 120 °C afin de diminuer les niveaux de L-asparagine (principal précurseur de la formation d'acrylamide).
+
+Le traitement thermique appliqué sous la responsabilité du fabricant doit assurer la dénaturation de l'enzyme.
+
+|
+
+Teneur techniquement inévitable.
+
+L'enzyme doit être dénaturée dans le produit final.
+
+|
+
 Bêta galactosidase BbgIV issue d'une souche génétiquement modifiée d'Escherichia coli (BgIA MCB3) porteuse du gène codant une bêta galactosidase BbgIV de Bifidobactérium bifidum.
 
 |

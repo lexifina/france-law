@@ -1866,6 +1866,46 @@ Teneur techniquement inévitable.
 
 |
 
+Solution de borohydrure de sodium (12 % m/m) stabilisée par de la soude.
+
+|
+
+Autre auxiliaire
+
+|
+
+Alcool éthylique d'origine agricole
+
+|
+
+A la dose maximale de 5 g de borohydrure de sodium par hL d'alcool comme agent réducteur des composés volatils responsables des défauts organoleptiques.
+
+|
+
+Teneur résiduelle techniquement inévitable.
+
+|
+
+Solution de permanganate de potassium (98,5 %).
+
+|
+
+Autre auxiliaire
+
+|
+
+Alcool éthylique d'origine agricole
+
+|
+
+A la dose maximale de 5 g de solution de permanganate de potassium par hL d'alcool comme agent oxydant des composés volatils responsables des défauts organoleptiques.
+
+|
+
+Teneur résiduelle techniquement inévitable.
+
+|
+
 Sulfites.
 
 Anhydride sulfureux.

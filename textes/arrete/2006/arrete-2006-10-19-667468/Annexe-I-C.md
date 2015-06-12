@@ -162,6 +162,22 @@ Dose techniquement inévitable.
 
 |
 
+Alpha-amylase d'une souche génétiquement modifiée d'Aspergillus niger (MC) contenant le gène codant pour l'alpha-amylase de Rhizomucor pusillus. |
+
+Enzymes. |
+
+Amidonnerie, production de sirop de glucose.
+
+Industrie de l'alcool.
+
+Panification (à l'exception du pain de tradition française) et panification spéciale, biscuiterie, pâtisserie et viennoiserie.
+
+|
+
+Hydrolyse des liaisons alpha-1-4-glycosidiques des polysaccharides. |
+
+Teneur techniquement inévitable. |
+
 Alpha-amylase de Bacillus amyloliquefaciens autocloné EBA1-H2A.
 
 Alpha-amylase de Bacillus amyloliquefaciens autocloné.
@@ -231,6 +247,20 @@ Bières. |
 Hydrolyse des liaisons endo-alpha-1, 4-D-glucosidiques des oligo-saccharides et des polysaccharides. |
 
 Dose techniquement inévitable. |
+
+Alpha-amylase d'une souche génétiquement modifiée de Bacillus licheniformis (AV) contenant le gène codant pour l'alpha-amylase de Bacillus licheniformis. |
+
+Enzymes. |
+
+Amidonnerie, production de sirop de glucose.
+
+Industrie de l'alcool.
+
+|
+
+Hydrolyse des liaisons alpha-1-4-glycosidiques des polysaccharides. |
+
+Teneur techniquement inévitable. |
 
 Alpha amylase de Bacillus licheniformis contenant le gène codant de l'alpha amylase de Bacillus stearothermophilus.
 
@@ -756,6 +786,20 @@ Hydrolyse des liaisons alpha-1-4-glycosidiques des polysaccharides. |
 
 Teneur techniquement inévitable. |
 
+Amyloglucosidase (ou glucoamylase) issue d'une souche génétiquement modifiée d'Aspergillus niger (BF) contenant le gène codant l'amyloglucosidase de Penicillium oxalicum. |
+
+Enzymes. |
+
+Amidonnerie, production de sirops de glucose. Brasserie. Industrie de l'alcool.
+
+Panification (à l'exception du pain de tradition française) et panification spéciale, biscuiterie, pâtisserie et viennoiserie.
+
+|
+
+Hydrolyse des liaisons alpha-1-4-glycosidiques des polysaccharides. |
+
+Teneur techniquement inévitable. |
+
 Amyloglucosidase d'Aspergillus niger (STz18-9) porteur du gène codant pour l'amyloglucosidase d'A. niger.
 
 |
@@ -946,11 +990,15 @@ Utilisation pour la préparation d'aliments contenant de la L-asparagine et des 
 
 Dose techniquement inévitable. |
 
-Asparaginase d'Aspergillus oryzae modifiée génétiquement (pCaHj621 / BECh2) contenant le gène codant pour l'asparaginase d'Aspergillus oryzae. |
+Asparaginase issue d'une souche génétiquement modifiée d'Aspergillus oryzae (SP ou pCaHj621/ BECh2) contenant le gène codant pour l'asparaginase d'Aspergillus oryzae. |
 
 Enzymes. |
 
-Produits céréaliers (à l'exclusion des pains de tradition française) y compris les céréales pour petits déjeuners, produits frits à base de pommes de terre, extraits de levures |
+Produits céréaliers (à l'exclusion des pains de tradition française) y compris les céréales pour petits déjeuners, produits frits à base de pommes de terre, extraits de levures
+
+Prétraitement des grains verts de café
+
+|
 
 Utilisation pour la préparation d'aliments contenant de la L-asparagine et des hydrates de carbone, cuits à des températures supérieures à 120° C afin de diminuer les niveaux de L-asparagine (principal précurseur de la formation d'acrylamide). |
 
@@ -1729,6 +1777,16 @@ Hydrolyse des liaisons alpha 1-6 des dextranes.
 Dose techniquement inévitable.
 
 |
+
+Dextranase issue d'une souche non génétiquement modifiée de Chaetomium erraticum (3Z). |
+
+Enzymes. |
+
+Sucrerie. |
+
+Hydrolyse des liaisons alpha 1-6 des dextranes. |
+
+Dose techniquement inévitable. |
 
 Endo-bêta-glucanase issue d'une souche génétiquement modifiée de Bacillus subtilis (CF 624B-1) porteuse du gène codant une bêta glucanase de Bacillus subtilis. |
 
@@ -4354,11 +4412,15 @@ Dose techniquement inévitable.
 
 |
 
-Xylanase d'une souche d'Aspergillus oryzae (FB) génétiquement modifiée contenant le gène codant pour la xylanase d'Aspergillus aculeatus. |
+Xylanase issue d'une souche génétiquement modifiée d'Aspergillus oryzae (FB) porteuse d'un gène codant une xylanase de d'Aspergillus aculeatus. |
 
 Enzymes |
 
-Brasserie |
+Brasserie.
+
+Panification (à l'exception du pain de tradition française) et panification spéciale, biscuiterie, pâtisserie, biscotterie et viennoiserie.
+
+|
 
 Hydrolyse des liaisons osidiques des hémicelluloses. |
 
