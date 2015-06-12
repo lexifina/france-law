@@ -26,6 +26,6 @@ Liste des navires éligibles et contingents d'AEP
 
 1. L'AEP peut être délivrée à tout armateur dont le navire figure sur la liste des navires éligibles établie et mise à jour par le ministre chargé des pêches maritimes.
 
-2. Le nombre maximal d'AEP drague-barre qui peut être attribué est de 30.
+2. Le nombre maximal qui peut être attribué d'AEP pour la drague à coquillages, aussi appelée " drague barre ", est défini à l'article 3 du plan de gestion pour la drague contenu dans l'arrêté du 13 mai 2014 portant adoption de plans de gestion pour les activités de pêche maritime professionnelle à la senne tournante coulissante, à la drague, à la senne de plage et au gangui en mer Méditerranée.
 
-3. Le nombre maximal d'AEP drague d'étang qui peut être attribué est de 35.
+3. Le nombre maximal d'AEP qui peut être attribué pour la petite drague à coquillages, aussi appelé " drague d'étang ", est défini à l'article 3 du plan de gestion pour la drague contenu dans l'arrêté du 13 mai 2014 portant adoption de plans de gestion pour les activités de pêche maritime professionnelle à la senne tournante coulissante, à la drague, à la senne de plage et au gangui en mer Méditerranée.

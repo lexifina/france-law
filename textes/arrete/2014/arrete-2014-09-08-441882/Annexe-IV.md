@@ -24,7 +24,7 @@ Liste des navires éligibles et contingents d'AEP
 
 2. Les navires éligibles à l'AEP senne de plage sont les navires d'une longueur hors tout inférieure ou égale à 18 mètres et qui disposent des antériorités de pêche à la senne de plage prévues par la règlementation communautaire en vigueur.
 
-3. Le nombre maximal d'AEP senne de plage qui peut être attribué est de 40. Dans ce contingent, le nombre maximal d'AEP senne de plage mention pêche de la poutine qui peut être attribué est de 11.
+3. Le nombre maximal d'AEP qui peut être attribué pour la senne de plage ainsi que le nombre maximal d'AEP qui peut être attribué pour la senne de plage " à poutine " est défini à l'article 3 du plan de gestion pour la senne de plage contenu dans l'arrêté du 13 mai 2014 portant adoption de plans de gestion pour les activités de pêche maritime professionnelle à la senne tournante coulissante, à la drague, à la senne de plage et au gangui en mer Méditerranée.
 
 Article 4
 

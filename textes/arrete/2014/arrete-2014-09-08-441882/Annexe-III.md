@@ -38,7 +38,7 @@ Liste des navires éligibles à l'AEP senne tournante coulissante et contingent 
 
 2. Cette liste précise, pour chaque navire, la ou les catégories prévues à l'article 2 auxquelles le navire appartient.
 
-3. Le nombre maximal d'AEP senne tournante coulissante qui peut être attribué est de 78.
+3. Le nombre maximal d'AEP qui peut être attribué pour la senne tournante coulissante est défini à l'article 3 du plan de gestion pour la senne tournante coulissante contenu dans l'arrêté du 13 mai 2014 portant adoption de plans de gestion pour les activités de pêche maritime professionnelle à la senne tournante coulissante, à la drague, à la senne de plage et au gangui en mer Méditerranée.
 
 Article 4
 
