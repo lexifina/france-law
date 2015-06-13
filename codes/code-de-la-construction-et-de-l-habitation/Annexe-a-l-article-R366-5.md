@@ -40,7 +40,7 @@ Sont membres de droit :
 
 - l'Association départementale des maires de France.
 
-Les membres adhérents sont des personnes morales légalement constituées intervenant dans le domaine du logement ou de l'habitat dans le département concerné.
+Les membres adhérents sont des personnes morales légalement constituées intervenant dans le domaine du logement ou de l'habitat dans le département concerné ou des personnalités qualifiées dans le domaine du logement ou de la statistique.
 
 La qualité de membre de droit peut également être conférée, à sa demande, à toute association départementale d'élus territoriaux.
 
@@ -51,6 +51,8 @@ Peuvent être membres adhérents, après décision du conseil d'administration :
 - des établissements publics de coopération intercommunale (EPCI) ;
 
 - des personnes morales légalement constituées ayant manifesté leur intérêt pour l'action de l'association.
+
+- des personnalités qualifiées dans le domaine du logement ou de la statistique.
 
 Direction.
 
