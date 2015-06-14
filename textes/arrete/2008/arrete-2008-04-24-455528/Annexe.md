@@ -8,9 +8,9 @@ Montant en euros
 
 Dépôt d'une demande de brevet ou de certificat d'utilité (incluant la première annuité de maintien en vigueur) :
 
-― dépôt sous forme papier : 36,00
+- dépôt sous forme papier : 36,00
 
-― dépôt sous forme électronique : 26,00
+- dépôt sous forme électronique : 26,00
 
 Dépôt d'une demande de certificat complémentaire (n'incluant pas la première annuité de maintien en vigueur) : 500,00
 
@@ -134,7 +134,7 @@ Régularisation, rectification d'erreur matérielle, requête en relevé de déc
 
 Enregistrement et gardiennage ou prorogation de gardiennage d'enveloppe spéciale : 15,00
 
-6. Redevance commune aux brevets d'invention, certificats d'utilité, certificats complémentaires de protection, logiciels, marques, dessins ou modèles. ― Palmarès et récompenses
+6. Redevance commune aux brevets d'invention, certificats d'utilité, certificats complémentaires de protection, logiciels, marques, dessins ou modèles. - Palmarès et récompenses
 
 Supplément pour requête tardive, paiement tardif ou accomplissement tardif d'une formalité : 50 % de la redevance
 
@@ -211,5 +211,11 @@ Conversion du capital social d'une société à l'euro près :
 - inscription modificative : Gratuit
 
 - acte modificatif : Gratuit
+
+9. Indications géographiques
+
+Demande d'homologation de cahier des charges d'indication géographique : 350,00
+
+Demande de modification du cahier des charges homologué : 350,00
 
 (1) Redevance non exigible lorsque le recours en restauration ou la requête en relevé de déchéance sont justifiés par une erreur autre que celle du demandeur ou celle de son mandataire.
