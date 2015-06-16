@@ -1,0 +1,9 @@
+# Réponse à la question n° 79481
+
+- Question : [79481](79481.md) — Question n° 79481 — site Ariane; développement
+
+## Réponse
+
+*JO du 2015-06-16*
+
+Les actions de sensibilisation du public sur le portail « Ariane » s'intensifient depuis la modernisation du site. Le nombre d'inscrits est ainsi passé de 50 000 en janvier 2013 à plus de 270 000 en mai 2015. Des campagnes de communication sont menées à différents niveaux. Des conventions ont été signées avec le syndicat de tours opérateurs (SETO) et le syndicat des agences de voyages (SNAV). L'accord conclu avec le SETO a notamment permis la présence systématique du centre de crise et de soutien du ministère des affaires étrangères et du développement international et d'un stand « Ariane » dans tous les principaux salons français du tourisme. Par ailleurs, un partenariat avec Aéroport de Paris permet une connexion gratuite au site Ariane à partir des ordinateurs à disposition des voyageurs en salle d'embarquement. Des bannières animées ont été diffusées via le SIG à l'ensemble des préfectures pour publication sur leur site internet en amont des congés scolaires. Des articles dédiés au portail « Ariane » sont régulièrement publiés dans les médias spécialisés à l'attention des professionnels du tourisme (TourMag, Itourisme...) ainsi que dans les guides touristiques à l'attention des voyageurs. D'autres pistes de coopération sont à l'étude, reposant elles aussi sur la recherche de partenariats. Des négociations sont en cours avec les « Global Distribution Systems » (centrales d'achats de billets en agence ou sur Internet) afin d'inciter l'ensemble des voyageurs à s'inscrire sur Ariane lors de la réception du mail de confirmation de réservation. Des contacts ont été noués avec les opérateurs de téléphonie, notamment Orange, afin d'examiner les possibilités d'envoyer systématiquement un message Ariane à leurs clients lors de leur première connexion à un réseau étranger en roaming.
