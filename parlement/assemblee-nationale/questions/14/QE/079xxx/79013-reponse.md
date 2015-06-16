@@ -1,0 +1,9 @@
+# Réponse à la question n° 79013
+
+- Question : [79013](79013.md) — Question n° 79013 — nuisances sonores; perspectives
+
+## Réponse
+
+*JO du 2015-06-16*
+
+Le dispositif d'aide financière à l'insonorisation en faveur des riverains d'aérodromes tel que régi par le code de l'environnement comporte un volet prévoyant la possibilité pour les riverains les plus exposés au bruit de faire racheter leur habitation. Cette possibilité concerne les locaux situés en zone I du plan de gêne sonore - c'est-à-dire à l'intérieur de la courbe isophonique de 70 dB(A) (exprimés selon l'indice de bruit Lden) - et qui ne peuvent être insonorisés à un coût « acceptable au regard de leur valeur vénale ». Cependant, faute de parvenir à identifier des critères satisfaisants de mise en oeuvre de cette condition, l'arrêté d'application de ces dispositions n'a jamais pu être pris. Pour autant, cette voie d'amélioration de la situation des riverains d'aérodromes n'a pas été abandonnée par le Gouvernement, qui examine les différentes pistes de réflexion envisageables et notamment les propositions faites en la matière par l'Autorité de contrôle des nuisances aéroportuaires (ACNUSA). Il convient de souligner que les ressources actuelles du dispositif d'aide financière à l'insonorisation ne permettent pas de couvrir à la fois le rachat de logements et l'ensemble des besoins de financement d'insonorisation. En outre, le rachat au titre du dispositif d'aide soulève des questions juridiques et pratiques délicates à résoudre. C'est pourquoi le Gouvernement étudie actuellement la possibilité de recourir à des moyens alternatifs de financement du rachat de logements. Une fois la solution et ses conditions optimales de mise en oeuvre identifiées, leur procédure d'adoption pourra être entamée, étant entendu que cette dernière nécessitera en tout état de cause de nouvelles dispositions législatives.
