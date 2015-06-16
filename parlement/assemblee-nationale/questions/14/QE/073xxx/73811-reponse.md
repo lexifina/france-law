@@ -1,0 +1,9 @@
+# Réponse à la question n° 73811
+
+- Question : [73811](73811.md) — Question n° 73811 — militaires; drones; usages
+
+## Réponse
+
+*JO du 2015-06-16*
+
+A la suite des attentats terroristes commis à Paris au cours du mois de janvier 2015, le Président de la République a décidé de mettre en place l'opération « Sentinelle », qui a permis de déployer plus de 10 000 militaires sur le territoire national, en soutien des forces de sécurité du ministère de l'intérieur. Face au niveau élevé et constant de la menace, le chef de l'État a décidé de maintenir, sur le plus long terme, un dispositif approprié à cette mission de protection et a annoncé, lors du conseil de défense du 29 avril dernier, la prolongation de ce déploiement militaire, qui mobilisera 7 000 hommes dans la durée. En complément des actions menées dans ce cadre, plus de 2 000 militaires assurent au quotidien les missions permanentes de sûreté, de sauvegarde et de lutte contre les trafics, tant dans les espaces aériens que maritimes. Afin de conduire ces missions, d'importants moyens matériels sont mobilisés, parmi lesquels des moyens aériens de surveillance et de détection des intrusions dans l'espace national. Toutefois, les drones de type MALE et les drones tactiques ne font pas partie de ce dispositif. En effet, s'agissant des drones de type MALE, ceux-ci sont actuellement déployés en opération extérieure au Sahel et plus particulièrement à partir du Niger, sur la base de Niamey. S'agissant des drones tactiques, ceux-ci ne sont pas utilisés par l'armée de l'air qui dispose de moyens en alerte sur le territoire afin d'assurer les mesures actives de sûreté aérienne dans le cadre de la posture permanente de sûreté. De la même façon, la sauvegarde maritime est une mission de la marine nationale qui y dédie un certain nombre de moyens propres de surveillance maritime.
