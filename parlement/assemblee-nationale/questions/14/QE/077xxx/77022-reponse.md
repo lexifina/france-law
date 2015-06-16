@@ -1,0 +1,9 @@
+# Réponse à la question n° 77022
+
+- Question : [77022](77022.md) — Question n° 77022 — loi n° 2005-102 du 11 février 2005; accessibilité des locaux; mise en oeuvre
+
+## Réponse
+
+*JO du 2015-06-16*
+
+L'ordonnance n° 2014-1090 du 26 septembre 2014 prévoit, certes, des délais, mais des délais raisonnables de trois ans et, surtout, des délais nécessaires à la réalisation des travaux. De plus, l'ordonnance prévoit l'étalement des travaux sur chaque année prévue dans les agendas d'accessibilité programmée (Ad'AP), afin qu'ils ne se concentrent pas sur la dernière année. Ainsi, les changements seront visibles non pas à partir de 2018, mais dès 2016. De plus, les établissements recevant du public (ERP) concernés par des Ad'AP de potentiellement six années, appartiennent au premier groupe. Or, 80 % des ERP sont de 5e catégorie et appartiennent donc au second groupe. De fait, c'est donc la majorité des ERP qui vont entrer dans un agenda portant sur trois ans. Le délai de trois ans représente un effort pour bon nombre de gestionnaires ou propriétaires d'ERP. L'ordonnance, fruit d'une large concertation entre les associations de personnes handicapées, les collectivités et les professionnels, est une illustration concrète de cette démarche de consensus, base d'un meilleur vivre ensemble. De fait, les petits ERP, qui se mettent en accessibilité, ont, effectivement, en contrepartie de leur investissement, la possibilité d'attester de leur accessibilité par une déclaration sur l'honneur, dont un modèle type est disponible sur le site du ministère de l'écologie, du développement durable et de l'énergie et ce, afin de simplifier leurs démarches administratives. L'ordonnance permet de punir fermement les contrevenants, mais elle cherche, avant tout, à inciter les gestionnaires et propriétaires d'ERP à entrer dans la démarche des Ad'AP et à améliorer leur accessibilité dès 2016.
