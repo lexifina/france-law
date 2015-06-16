@@ -1,0 +1,9 @@
+# Réponse à la question n° 68007
+
+- Question : [68007](68007.md) — Question n° 68007 — gaz de schiste; exploration; permis de recherches; interdiction
+
+## Réponse
+
+*JO du 2015-06-16*
+
+Comme la ministre de l'écologie, du développement durable et de l'énergie s'y est engagée lors des débats sur le projet de loi relatif à la transition énergétique pour la croissance verte, il n'y aura pas en France d'exploration ni d'exploitation de gaz de schiste ; cet engagement est en continuité avec la loi n° 2011-835 du 13 juillet 2011, qui interdit l'exploration et l'exploitation de mines d'hydrocarbures liquides ou gazeux par des forages suivis d'opérations de fracturation hydraulique de la roche. Cependant, la recherche et l'exploitation des hydrocarbures conventionnels, déjà autorisées depuis plus de soixante ans dans notre pays, peuvent se poursuivre dans le respect de la loi. Les pétitionnaires se sont chacun engagés formellement à n'avoir que des objectifs conventionnels et à ne pas utiliser la fracturation hydraulique, conformément à la loi. L'instruction des demandes de permis de « Dicy » et de « Cezy » n'est pas totalement achevée et la ministre veillera à ce qu'elle soit la plus exhaustive possible, en particulier au regard des capacités techniques et financières des demandeurs, de la pertinence technique d'une exploration pétrolière en rapport avec la prospection d'hydrocarbures conventionnels dans le sous sol des zones demandées, de l'impact environnemental potentiel des travaux envisagés. Cette instruction s'appuie notamment sur l'avis actualisé des préfets et des services déconcentrés ainsi que sur la consultation du public, organisée dans le cadre des procédures définies par le code minier et le code de l'environnement. C'est au vu de l'ensemble des éléments issus de cette instruction qu'il sera statué sur ces demandes par les ministres chargés de l'énergie et des mines.
