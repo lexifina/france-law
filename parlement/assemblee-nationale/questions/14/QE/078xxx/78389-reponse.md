@@ -1,0 +1,9 @@
+# Réponse à la question n° 78389
+
+- Question : [78389](78389.md) — Question n° 78389 — rénovation; colonnes d'électricité; immeubles; coût
+
+## Réponse
+
+*JO du 2015-06-16*
+
+Les colonnes montantes sont la partie des lignes d'alimentation électrique situées à l'intérieur des parties communes d'un immeuble collectif, qui dessert en électricité l'ensemble des logements. Beaucoup de ces colonnes ont été par le passé construites par des propriétaires d'immeubles. Le décret n° 46-2503 du 8 novembre 1946 relatif aux colonnes montantes d'électricité prévoyait l'incorporation aux réseaux de distribution de ces colonnes, à moins que les propriétaires acceptent d'en rester propriétaires sans plus percevoir en contre partie aucune redevance spécifique. Le nombre de ces colonnes montantes a été estimé à environ 1 600 000 au plan national, dont environ 50 % serait intégré de manière certaine au réseau public de distribution. Sur les 800 000 colonnes a priori non intégrées au réseau, environ la moitié serait dans un état de vétusté. On estime le coût global de leur remise en état à plusieurs milliards d'euros. D'une part, une charge financière trop importante qui pèserait sur les seuls propriétaires pourrait retarder la mise en oeuvre des travaux, avec des risques en termes de sécurité. D'autre part, la prise en charge par les seuls gestionnaires de réseaux se répercuterait ultérieurement sur les tarifs d'utilisation de ces réseaux, donc, in fine, sur le consommateur final. Le projet de loi relatif à la transition énergétique pour la croissance verte prévoit l'élaboration d'un rapport sur ce sujet par le Gouvernement, et la soumission de ce rapport au Parlement. Ce rapport doit également proposer des solutions financières et réglementaires. Il est un préalable nécessaire à toute prise de position du Gouvernement sur les modalités de la répartition des responsabilités pour le financement de la rénovation des colonnes montantes vétustes.
