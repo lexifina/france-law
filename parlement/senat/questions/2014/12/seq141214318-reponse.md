@@ -1,0 +1,9 @@
+# Réponse à la question SEQ141214318
+
+- Question : [SEQ141214318](seq141214318.md) — Décharge de Septèmes-les-Vallons
+
+## Réponse
+
+*Écologie, développement durable et énergie, JO du 2015-06-18, page 1458*
+
+La thématique de la conciliation entre l'exploitation d'une installation de stockage de déchets et son environnement immédiat est un enjeu essentiel dont le ministère de l'écologie, du développement durable et de l'énergie a pleinement conscience et sur lequel il est spécialement mobilisé. L'installation de stockage de déchets non dangereux (ISDND), de Septèmes-les-Vallons, située dans le département des Bouches-du-Rhône, est à l'origine de problèmes de sécurité routière pour certains quartiers de Marseille du fait du transport de déchets et causerait des nuisances liées à une mauvaise exploitation du site. Le plan départemental de prévention et de gestion des déchets non dangereux des Bouches-du-Rhône, approuvé le 19 décembre 2014 après une large consultation, prévoit le prolongement de la durée d'exploitation des 4 ISDND du territoire, dont celle de Septèmes-les-Vallons, de 2022 jusqu'en 2026. Le Conseil général de l'environnement et du développement durable vient d'être mandaté afin d'explorer deux voies : la recherche de nouvelles solutions pour l'apport de déchets permettant d'améliorer la sécurité routière ; la recherche de solutions crédibles, en cohérence avec le plan départemental de prévention et de gestion des déchets non dangereux en cours d'élaboration, pour permettre une réduction progressive des volumes enfouis dans l'ISDND de Septèmes-les-Vallons. Par ailleurs, le préfet des Bouches-du-Rhône analysera les conditions d'exploitation du site de manière à ce que, dans l'hypothèse où les dénonciations qui ont été rapportées seraient fondées, des réponses adéquates soient apportées. Enfin, une éventuelle modification de l'arrêté préfectoral d'autorisation relève uniquement de la compétence du préfet des Bouches-du-Rhône.
