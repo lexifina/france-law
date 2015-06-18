@@ -1,0 +1,9 @@
+# Réponse à la question SEQ150516455
+
+- Question : [SEQ150516455](seq150516455.md) — Déplacement des installations de chasse de nuit
+
+## Réponse
+
+*Écologie, développement durable et énergie, JO du 2015-06-18, page 1460*
+
+Les déplacements de postes fixes utilisés pour la chasse de nuit sont soumis à une autorisation du préfet, selon des modalités prévues par le schéma départemental de gestion cynégétique concerné. Dans le cas d'un déplacement d'une telle installation entre deux départements, l'autorisation prévue à l'article R. 424-19 du code de l'environnement doit être cosignée par les deux préfets de département concernés. En cas de déplacement de l'installation immatriculée pour la chasse de nuit, lorsque le propriétaire de l'installation n'est pas le même que celui du fonds, il convient d'obtenir l'autorisation du propriétaire du fonds d'où provient l'installation, de même que celle du propriétaire du fonds sur lequel sera installé le poste fixe. Ces postes fixes de chasse sont positionnés en majorité dans les marais et dans les lits majeurs des cours d'eau dans des milieux qui représentent un fort intérêt écologique et patrimonial. Ils peuvent être situés en site classé, dans le réseau Natura 2000 ou en espaces remarquables au sens de la loi littoral. Au sens du code de l'urbanisme, les tonnes de chasse sont des constructions et leurs déplacements sont également considérés comme des opérations de construction. Ils sont donc soumis à des règles, notamment au titre de la protection de l'environnement. Dans les zones naturelles des plans locaux d'urbanisme où se situent souvent les postes fixes de chasse de nuit, les possibilités de construction sont très restrictives. Par exemple, en site classé, tous les travaux susceptibles de modifier l'aspect ou l'état du site nécessitent une autorisation préfectorale.
