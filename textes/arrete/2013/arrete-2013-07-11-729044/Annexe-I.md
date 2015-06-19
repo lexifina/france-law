@@ -82,7 +82,7 @@ Monbazillac
 
 |
 
-25
+30
 
 |
 
@@ -719,6 +719,14 @@ Muscat de Saint-Jean-de-Minervois
 |
 
 Muscat de Frontignan, ou Frontignan, ou vin de Frontignan
+
+|
+
+25
+
+|
+
+Côtes de Bergerac dont la teneur en sucres fermentescibles (glucose + fructose) est supérieure à 54 grammes par litre
 
 |
 
