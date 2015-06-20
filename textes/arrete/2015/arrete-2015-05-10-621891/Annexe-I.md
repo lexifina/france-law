@@ -5026,7 +5026,7 @@ MAQUEREAU
 
 Scomber scombrus
 
-(En tonnes)
+(en tonnes)
 
 |
 
@@ -5036,9 +5036,7 @@ pour l'exploration de la mer (CIEM)
 
 |
 
-III a, IV,
-
-eaux UE
+III a, IV ; eaux UE
 
 des zones II a,
 
@@ -5046,25 +5044,25 @@ III b, III c, III d
 
 |
 
-VI, VII, VIII a, b, d, e, eaux UE
-
-et eaux internationales
-
-de la zone V b;
-
-eaux internationales
-
-des zones II a,
-
-XII et XIV.
-
-|
-
-VIII c, IX et X,
+VI, VII, VIII a, b, d, e ;
 
 eaux UE
 
-de la zone COPACE 34.1.1
+et eaux internationales
+
+de la zone V b ;
+
+eaux internationales
+
+des zones II a, XII et XIV
+
+|
+
+VIII c, IX et X ;
+
+eaux UE de la zone
+
+COPACE 34.1.1
 
 |
 
@@ -5136,7 +5134,7 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-1 702
+1 802
 
 |
 
@@ -5164,7 +5162,7 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-Navires adhérant à l'organisation de producteurs Organisation de producteurs de la Côtinière
+Navires adhérant à l'organisation de producteurs Organisation de producteurs de la Cotinière
 
 |
 
@@ -5180,7 +5178,7 @@ Navires adhérant à l'organisation de producteurs Organisation de producteurs d
 
 |
 
-Navires adhérant à l'Organisation de producteurs marins-pêcheursde Basse-Normandie (OPBN)
+Navires adhérant à l'Organisation de producteurs marins-pêcheurs de Basse-Normandie (OPBN)
 
 |
 
@@ -5248,7 +5246,7 @@ Total
 
 |
 
-2 073
+2 728
 
 |
 
@@ -5256,9 +5254,7 @@ Total
 
 |
 
-263
-
-|
+263 |
 
 MERLAN
 
