@@ -106,6 +106,22 @@ SGAMI de la zone de défense et de sécurité Ouest
 
 |
 
+Directeur des systèmes d'information et de communication
+
+|
+
+40
+
+|
+
+35
+
+|
+
+SGAMI de la zone de défense et de sécurité Ouest
+
+|
+
 Adjoint au directeur des systèmes d'information et de communication.
 
 |
