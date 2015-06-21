@@ -214,6 +214,8 @@ Paris-Teresina ;
 
 Paris-Vitoria ;
 
+ainsi que toute liaison exploitée en partage de codes avec une compagnie brésilienne entre un point du territoire français et un point du territoire brésilien situé au-delà d'un des points du territoire brésilien mentionnés ci-dessus.
+
 Burkina :
 
 Paris-Ouagadougou ;
@@ -966,15 +968,15 @@ Paris-Volgograd ;
 
 Paris-Krasnodar ;
 
+Rwanda :
+
+Paris-Kigali ;
+
 Saint-Christophe-et-Niévès :
 
 Paris-Saint-Christophe ;
 
 Paris-Niévès ;
-
-Rwanda :
-
-Paris-Kigali ;
 
 Saint-Martin :
 
@@ -995,6 +997,8 @@ Paris-Dakar ;
 Seychelles :
 
 Paris-Victoria ;
+
+Paris-Praslin.
 
 Sierra Leone :
 
