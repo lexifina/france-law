@@ -12,11 +12,7 @@ http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20141228&nu
 
 Les modèles des signaux nouveaux mentionnés à l'article 1er du présent arrêté figurent ci-après :
 
-|
-
 CE15G.-Poste de distribution de carburant ouvert 7 jours sur 7 et 24 heures sur 24 assurant la recharge des véhicules électriques.
-
-|
 
 |
 
@@ -24,11 +20,7 @@ CE15h.-Poste de distribution de carburant ouvert 7 jours sur 7 et 24 heures sur 
 
 |
 
-|
-
 CE15i.-Poste de recharge de véhicules électriques ouvert 7 jours sur 7 et 24 heures sur 24.
-
-|
 
 |
 
@@ -36,11 +28,7 @@ CE15j.-Poste de recharge de véhicules électriques ouvert 7 jours sur 7 et 24 h
 
 |
 
-|
-
 ID14d.-Poste de recharge de véhicules électriques.
-
-|
 
 |
 
@@ -48,8 +36,12 @@ ID14e.-Poste de recharge de véhicules électriques assurant également le ravit
 
 |
 
-|
-
 M6i (exemple)..-Signale que le stationnement est réservé aux véhicules électriques pendant la durée de recharge de leurs accumulateurs.
 
 |
+
+Panneau B1j. - Panneau de répétition d'interdiction d'accès à contresens de bretelles de sortie sur les autoroutes et routes à chaussées séparées sans accès riverain
+
+Vous pouvez consulter l'image dans le fac-similé du JO nº 0141 du 20/06/2015, texte nº 12 à l'adresse suivante
+
+http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20150620&numTexte=12&pageDebut=10154&pageFin=10155
