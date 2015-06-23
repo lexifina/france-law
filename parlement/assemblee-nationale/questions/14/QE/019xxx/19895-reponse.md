@@ -1,0 +1,9 @@
+# Réponse à la question n° 19895
+
+- Question : [19895](19895.md) — Question n° 19895 — équipements publics; réglementation
+
+## Réponse
+
+*JO du 2015-06-23*
+
+L'évolution des données de base d'une opération d'aménagement peut conduire la personne publique qui a pris l'initiative de la création d'une zone d'aménagement concerté (ZAC) à apporter des modifications à certains aspects du projet d'aménagement, et notamment le contenu et les modalités de financement des équipements publics. Il existe deux types de procédure applicables en fonction de l'ampleur de la modification du programme des équipements publics. En premier lieu, lorsque la modification du programme des équipements publics est significative et résulte notamment d'une évolution importante du périmètre et du programme de la ZAC, il conviendra de recourir à la procédure de modification prévue à l'article R.311-12 alinéa 2 du code de l'urbanisme qui permet d'adapter la ZAC dans les formes prescrites pour la création de la zone. En second lieu, lorsque la modification du programme des équipements publics est limitée, sans incidence sur le programme des ouvrages et équipements d'infrastructure et de superstructure à réaliser, le financement et la répartition de la maîtrise d'ouvrage de ces équipements ainsi que sur les modalités de leur incorporation dans le patrimoine des personnes publiques concernées, seule une délibération de l'autorité compétente est nécessaire pour modifier le dossier de réalisation de la ZAC, en particulier le programme des équipements publics, dans les conditions prévues à l'article R.3 11-7. Dans ce cas, cette décision de modification du programme des équipements publics est également soumise aux conditions de publicité requises à l'article R.311-9 et précisées à l'article R.31 l-5 du code de l'urbanisme.
