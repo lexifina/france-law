@@ -63,3 +63,5 @@ Diplômes universitaires de technologie (DUT) obtenus dans les spécialités sui
 ― science et génie des matériaux.
 
 Diplôme de technicien supérieur de la mer délivré par l'institut national des techniques de la mer du Centre national des arts et métiers.
+
+Diplôme relevant du ministère chargé de l'écologie : brevet de technicien supérieur maritime (BTSM), spécialité pêche et gestion de l'environnement marin.
