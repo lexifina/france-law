@@ -8,7 +8,7 @@ Le numéro d'immatriculation attribué à titre définitif au véhicule se compo
 
 Exemple : AA-111-AA.
 
-Pour le cas particulier des cyclomoteurs, il se compose de 1 à 2 lettres, suivies de 2 à 3 chiffres, suivis de 1 lettre, avec un espace entre les blocs de lettres et le bloc de chiffres.
+Pour le cas particulier des cyclomoteurs immatriculés jusqu'au 30 juin 2015, il se compose de 1 à 2 lettres, suivies de 2 à 3 chiffres, suivis de 1 lettre, avec un espace entre les blocs de lettres et le bloc de chiffres. Au-delà de cette date, ceux qui ont été préalablement immatriculés suivant ce format conservent leur numéro d'immatriculation.
 
 Exemple : A 11 A.
 

@@ -14,7 +14,9 @@ Doit être délivré par le constructeur, ou, pour les véhicules conformes à u
 
 2.1. Demandes d'immatriculation
 
-a) Document dit 3 en 1 ;
+a) Document dit 3 en 1 (parties demande d'immatriculation et certificat de vente).
+
+;
 
 b) Demande de certificat d'immatriculation : imprimé CERFA Demande de certificat d'immatriculation d'un véhicule ;
 
@@ -62,11 +64,11 @@ Les attestations d'identification sont délivrées soit par le constructeur ou s
 
 3.4. Attestations de carrossage
 
-a) Annexe VII de l'arrêté du 19 juillet 1954 : attestation conforme à l'annexe VII de l'arrêté du 19 juillet 1954 modifié relatif à la réception des véhicules, et établi dans les limites d'utilisation et les conditions fixées par cet arrêté ;
+a) Certificat de carrossage conforme à l'annexe VII de l'arrêté du 19 juillet 1954 modifié relatif à la réception des véhicules, et établi dans les limites d'utilisation et les conditions fixées par cet arrêté ;
 
-b) Annexe IX de l'arrêté du 19 juillet 1954 : attestation conforme à l'annexe IX de l'arrêté du 19 juillet 1954 modifié relatif à la réception des véhicules ;
+b)Certificat de carrossage ou de montage de carrosserie conforme à l'annexe IX de l'arrêté du 19 juillet 1954 modifié relatif à la réception des véhicules ;
 
-c) Annexe X de l'arrêté du 19 juillet 1954 : attestation conforme à l'annexe X de l'arrêté du 19 juillet 1954 modifié relatif à la réception des véhicules ;
+c) Attestation de montage d'un dispositif d'attelage sur un tracteur routier conforme à l'annexe X de l'arrêté du 19 juillet 1954 modifié relatif à la réception des véhicules ;
 
 d) Procès-verbal de contrôle de conformité initial :
 
@@ -92,7 +94,7 @@ La preuve d'un contrôle technique de moins de six mois en cours de validité es
 
 c) Procès-verbal de RTI : procès-verbal de réception à titre isolé délivré par le service chargé des réceptions ;
 
-d) Procès-verbal de RI : procès-verbal de réception individuelle délivré pour les véhicules neufs par le service chargé des réceptions dans le cadre de l'article 21 de l'arrêté du 4 mai 2009 susvisé ;
+d) Fiche de RI : fiche de réception individuelle délivrée pour les véhicules neufs par le service chargé des réceptions dans le cadre de l'article 21 de l'arrêté du 4 mai 2009 relatif à la réception des véhicules à moteur, de leurs remorques et des systèmes et équipements destinés à ces véhicules en application de la directive 2007/46/ CE ;
 
 e) Attestation de reconnaissance d'une réception individuelle européenne : attestation délivrée par le service en charge des réceptions pour les véhicules usagés ayant fait l'objet d'une réception individuelle européenne dans le cadre du règlement (UE) n° 183/2011 de la Commission du 22 février 2011.
 

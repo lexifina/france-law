@@ -146,6 +146,12 @@ GF
 
 |
 
+Bicarburation gazole-GPL |
+
+G2
+
+|
+
 Mélange de gazole et gaz naturel (dual fuel) et électricité (hybride rechargeable)
 
 |
@@ -279,6 +285,22 @@ Hydrogène
 |
 
 H2
+
+|
+
+Hydrogène-Electricité (hybride rechargeable)
+
+|
+
+HE
+
+|
+
+Hydrogène-Electricité (hybride non rechargeable)
+
+|
+
+HH
 
 |
 

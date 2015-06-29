@@ -10,13 +10,13 @@ Véhicules d'un poids total autorisé en charge supérieur à 3,5 tonnes
 
 et véhicules agricoles autres que tracteurs agricoles ou forestiers
 
-(Papier à en-tête du constructeur ou de son représentant accrédité en France ou de la DRIRE)
+(Papier à en-tête du constructeur ou de son représentant accrédité en France ou de la DREAL, DEAL ou DRIEE)
 
 Je soussigné (Nom, Prénom)
 
 - Constructeur du véhicule ou son représentant dûment accrédité en France (1) (6)
 
-- Direction Régionale de l'Industrie, de la Recherche et de l'environnement de la région (1) (6) :
+- DREAL, DEAL ou DRIEE (1) (6) :
 
 (dans la mesure ou elle dispose des moyens techniques d'identification)
 
@@ -28,7 +28,7 @@ est du type ayant fait l'objet d'une réception nationale française,
 
 - valide à la date de la première mise en circulation (I) (4)
 
-dont le numéro figure à la ligne K, délivrée par la DRIRE :
+dont le numéro figure à la ligne K, délivrée par la DREAL, DEAL ou DRIEE :
 
 et que les données nécessaires à l'immatriculation en France sont les suivantes (9)
 

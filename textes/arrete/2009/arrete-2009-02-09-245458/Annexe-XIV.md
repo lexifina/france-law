@@ -2,7 +2,7 @@
 
 LISTE DES IMPRIMÉS CERFA
 
-- demande de certificat d'immatriculation d'un véhicule neuf : CERFA n° 13749*03 ;
+- demande de certificat d'immatriculation d'un véhicule neuf : CERFA n° 13749* 05 ;
 
 - demande de certificat d'immatriculation d'un véhicule : CERFA n° 13750*03 ;
 
@@ -24,4 +24,4 @@ LISTE DES IMPRIMÉS CERFA
 
 - notice explicative : la déclaration de cession et la demande de certificat d'immatriculation d'un véhicule : CERFA n° 51291#01.
 
-Les modèles de ces imprimés peuvent être consultés sur le site internet www.interieur.gouv.fr .
+Les modèles de ces imprimés peuvent être consultés sur le site internet http://www.interieur.gouv.fr/ .

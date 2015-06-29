@@ -152,11 +152,11 @@ Places médicales : ... places.
 
 Places modulables de ... à...
 
-[Mention DRIRE].
+[Mention DREAL, DEAL ou DRIEE (2).].
 
-Essieux posés en charg.
+Essieux posés en charge.
 
-TE possible (2).
+TE possible (3).
 
 TE exclusif.
 
@@ -176,4 +176,6 @@ Ensemble + 5 essieux : 1 tonne
 
 (1) Combinée avec la mention Autre J3 poss : ... kg .
 
-(2) Peut être combinée avec les mentions Autre F2 poss : ... kg et/ou Autre F3 poss : ... kg .
+(2) Direction régionale de l'environnement, de l'aménagement et du logement, direction de l'environnement, de l'aménagement et du logement de la région ou direction régionale et interdépartementale de l'environnement et de l'énergie d'Ile-de-France
+
+(3) Peut être combinée avec les mentions : " Autre F2 poss : ... kg " et/ ou " Autre F3 poss : ... kg. "

@@ -58,9 +58,9 @@ Le demandeur, personne physique, peut justifier de son adresse en présentant l'
 
 Un titre de propriété ;
 
-Un certificat d'imposition ou de non-imposition de l'année précédente ;
+Un avis d'imposition ou de non-imposition de l'année précédente (impôt sur le revenu, taxe d'habitation ou taxes foncières) ;
 
-Une quittance de loyer, de gaz, d'électricité ou de téléphone de moins de six mois ;
+Une quittance de loyer, de gaz, d'électricité, d'eau ou de téléphone (fixe ou mobile) de moins de six mois ;
 
 Une attestation d'assurance logement ;
 
@@ -73,6 +73,8 @@ Le demandeur, personne morale, peut justifier de son adresse par tout moyen, not
 Pour une personne morale de type industriel, commercial ou civil : par un extrait K bis du registre du commerce et des sociétés établi depuis moins de deux ans ou un journal d'annonces légales datant de moins de deux ans, à condition qu'y apparaissent le nom du responsable, l'objet social, l'adresse et le numéro d'enregistrement au registre du commerce et des sociétés.
 
 Pour une personne jouissant de la personnalité morale (associations, syndicats, sociétés civiles professionnelles) : par les statuts ou toutes autres pièces justificatives de leur existence légale de la personne faisant apparaître le nom du responsable et l'adresse de l'organisme ainsi que la preuve qu'elles ont été déclarées auprès d'une préfecture ou sous-préfecture ou reconnues par une administration, une juridiction ou un organisme professionnel.
+
+Pour le cas des personnes hébergées, une attestation sur l'honneur, co-signée par l'hébergé et par l'hébergeant, accompagnée d'une copie de la pièce d'identité de l'hébergeant et d'un justificatif de domicile à son nom.
 
 NOTA :
 
