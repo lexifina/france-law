@@ -1,0 +1,9 @@
+# Paris : séance 2015 DDEEES 8-G — Subventions (718.800 euros) et convention avec l'association Boutiques de Gestion de Paris Ile de France (11e).
+
+- Collectivité : Paris
+- SIREN : 217500016
+- Code INSEE : 75056
+- Date : 2015-06-29
+- Nature : PJ
+- Objet : Subventions (718.800 euros) et convention avec l'association Boutiques de Gestion de Paris Ile de France (11e).
+- Jeu de données : https://www.data.gouv.fr/datasets/59590ceca3a7291dd09c7fd2
