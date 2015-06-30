@@ -1,0 +1,9 @@
+# Réponse à la question n° 76101
+
+- Question : [76101](76101.md) — Question n° 76101 — installation; réglementation
+
+## Réponse
+
+*JO du 2015-06-30*
+
+Conformément à l'article R. 581-53-II du code de l'environnement, les bâches publicitaires et les bâches de chantier ne sont pas autorisées à l'intérieur des agglomérations de moins de 10 000 habitants. Cette prescription est issue de la loi du 12 juillet 2010 portant engagement national pour l'environnement qui a eu pour objectif de limiter les nuisances visuelles que constituent les dispositifs publicitaires en général et a donc apporté des restrictions à la réglementation déjà applicable. Dans le cadre de l'ancienne réglementation, les bâches étaient installées dans les Zones de publicité élargies (ZPE), et ne pouvaient dépasser une surface de 16m². Ces zones ayant disparu, les associations étant opposées à leur installation et les professionnels de l'affichage souhaitant voir les bâches mieux encadrées et ouvertes à un format plus important, il a été nécessaire de réglementer leur installation. Dans cet objectif, la loi a donc distingué deux types de bâches, à savoir les bâches publicitaires à vocation d'installation permanente et les bâches de chantier ayant vocation à être installées sur des échafaudages et donc à vocation temporaire. Leurs possibilités d'implantation comportent notamment cette interdiction d'installation dans les communes de moins de 10 000 habitants et il n'est pas possible de déroger à cette restriction. En effet, même un règlement local de publicité ne pourrait déroger à la règle dans la mesure où il ne peut être que plus restrictif que la réglementation nationale. L'interdiction de ce type de bâche dans les agglomérations de moins de 10 000 habitants a donc été instaurée dans un cadre général du droit de l'environnement et il n'est pas possible d'y déroger.
