@@ -1,0 +1,9 @@
+# Réponse à la question n° 72840
+
+- Question : [72840](72840.md) — Question n° 72840 — ambulanciers; revendications
+
+## Réponse
+
+*JO du 2015-06-30*
+
+Les transporteurs sanitaires sont agréés pour le transport sanitaire à double titre : pour l'aide médicale urgente et pour les transports sur prescription médicale. D'une part, les transporteurs sanitaires effectuent des transports sanitaires urgents à la demande du SAMU dans le cadre de la garde ambulancière départementale à laquelle ils sont tenus de participer, en fonction de leurs moyens matériels et humains. Lors de la garde, le SAMU mobilise les entreprises de transport sanitaire inscrites sur le tableau de garde afin de réaliser des transports sanitaires urgents. D'autre part, les transporteurs sanitaires sont également sollicités par le SAMU pour les urgences préhospitalières en journée, comme le prévoit l'arrêté du 5 mai 2009 relatif à la mise en oeuvre du référentiel SAMU-transport sanitaire portant organisation de la réponse ambulancière à l'urgence préhospitalière. Par ailleurs, le décret n° 2014-1584 du 23 décembre 2014 relatif aux expérimentations portant sur les modalités d'organisation et de financement des transports sanitaires urgents prévues à l'article 66 de la loi de financement de la sécurité sociale pour 2012 permet que des expérimentations de nouvelles modalités d'organisation et de financement des transports sanitaires urgents soient mises en oeuvre prochainement dans certains territoires afin de tester des modes d'organisation et de financement rénovés. Ces expérimentations permettront de conforter la place des entreprises de transport sanitaire dans le dispositif de réponse ambulancière à l'urgence préhospitalière à la demande des SAMU, dans la voie d'une optimisation de la réponse à l'usager et d'une efficience renforcée.
