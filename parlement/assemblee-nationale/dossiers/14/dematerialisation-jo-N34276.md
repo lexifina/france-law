@@ -1,0 +1,52 @@
+# Dématérialisation du Journal Officiel de la République française
+
+- Procédure : Projet ou proposition de loi organique
+- Législature : 14
+- Identifiant : DLR5L14N34276
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/dematerialisation_jo
+- Sénat : http://www.senat.fr/dossier-legislatif/ppl14-572.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2015-06-30 : 1er dépôt d'une initiative. (PIONSNR5S239B0572)
+  - 2015-09-22 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2015-06-30 : Renvoi en commission au fond
+      - 2015-09-16 : Nomination de rapporteur
+      - 2015-10-07 : Dépôt de rapport (RAPPSNR5S259B0029)
+  - Discussion en séance publique
+    - 2015-10-12 : Discussion en séance publique
+    - 2015-10-12 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2015-10-12 : Dépôt d'une initiative en navette (PIONANR5L14B3121)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2015-10-12 : Renvoi en commission au fond
+      - 2015-10-07 : Nomination de rapporteur
+      - 2015-11-04 : Réunion de commission
+      - 2015-11-17 : Réunion de commission
+      - 2015-11-04 : Dépôt de rapport (RAPPANR5L14B3197, PIONANR5L14BTC3197)
+  - Discussion en séance publique
+    - 2015-11-17 : Discussion en séance publique
+    - 2015-11-17 : Décision
+- Commission Mixte Paritaire
+  - 2015-11-17 : Dépôt d'un projet de loi (PIONSNR5S259B0161)
+  - 2015-11-19 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2015-11-24 : Nomination de rapporteur
+    - 2015-11-24 : Dépôt du rapport d'une CMP (RAPPANR5L14B3245)
+    - 2015-11-24 : Dépôt du rapport d'une CMP (RAPPSNR5S259B0185)
+  - Discussion en séance publique
+    - 2015-12-08 : Discussion en séance publique
+    - 2015-12-08 : Décision
+  - Discussion en séance publique
+    - 2015-12-09 : Discussion en séance publique
+    - 2015-12-09 : Décision
+  - 2015-11-24 : Décision de la CMP
+- Conseil constitutionnel
+  - 2015-12-09 : Saisine du conseil constitutionnel
+  - 2015-12-17 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2015-12-22 : Promulgation d'une loi
