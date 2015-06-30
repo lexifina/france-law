@@ -1,0 +1,9 @@
+# Réponse à la question n° 69558
+
+- Question : [69558](69558.md) — Question n° 69558 — observatoires; données; communication
+
+## Réponse
+
+*JO du 2015-06-30*
+
+Pour observer au mieux les marchés locatifs locaux et informer en toute transparence les citoyens, l'État et ses partenaires ont mis en place un réseau d'observatoires locaux des loyers. Les observatoires respectant notamment des conditions relatives au traitement de données, à la diffusion d'informations et à leur gouvernance, et se conformant aux prescriptions méthodologiques émises par le comité scientifique compétent en la matière, peuvent bénéficier d'un agrément du ministère du logement, de l'égalité des territoires et de la ruralité. L'observatoire des loyers de l'agglomération parisienne (Olap) s'est ainsi vu délivrer, le 26 décembre 2014, le tout premier agrément de ce type. L'agence départementale d'information sur le logement du Nord (ADIL 59) a reçu également cet agrément pour la commune de Lille le 25 mars dernier. Dès lors, outre la publication annuelle des résultats retraités et agrégés, l'article 3 du décret n° 2014-1334 du 5 novembre 2014 fait obligation aux observatoires locaux des loyers agréés de communiquer les données dont ils disposent à toute personne qui en fait la demande, sous conditions de l'anonymisation des données dans des conditions définies par l'arrêté ministériel du 10 novembre 2014. Les principes retenus dans le cadre de cet arrêté visent à assurer le respect du secret statistique, en supprimant toute possibilité d'identification des logements. Ainsi, la procédure d'anonymisation des données de localisation présente une progressivité qui est fonction de la taille du parc locatif de la commune considérée. Enfin, l'arrêté précise que les données diffusables sont les données redressées, c'est-à-dire des données individuelles brutes collectées, contrôlées, enrichies, anonymisées et traitées de manière à être exploitables.
