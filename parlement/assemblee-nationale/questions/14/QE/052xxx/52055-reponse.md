@@ -1,0 +1,9 @@
+# Réponse à la question n° 52055
+
+- Question : [52055](52055.md) — Question n° 52055 — laits de croissance; teneur en aluminium
+
+## Réponse
+
+*JO du 2015-06-30*
+
+L'aluminium est un métal naturellement présent dans l'environnement. Les effets cliniques avérés de l'aluminium ont toujours été observés dans des situations de fortes expositions chroniques : patients insuffisants rénaux dialysés, alimentation parentérale, personnes professionnellement exposées. A l'heure actuelle, aucune étude n'a mis en évidence de tels effets dans la population générale, exposée à travers l'alimentation courante. L'exposition moyenne française est inférieure à la dose hebdomadaire tolérable provisoire (DHTP) définie par l'autorité européenne de sécurité des aliments (EFSA) de 1 mg/kg poids corporel/semaine. C'est ce que montre la deuxième étude française de l'alimentation totale (EAT 2) menée par l'agence nationale de sécurité sanitaire des aliments, de l'environnement et du travail (ANSES) indiquant que l'exposition moyenne de la population française à l'aluminium est estimée à 0,28 mg/kg pc/semaine chez les adultes et 0,42 mg/kg pc/semaine chez les enfants (de 3 à 17 ans). Dans le cadre de l'étude de l'alimentation totale infantile (« EATi ») actuellement menée par l'ANSES, les concentrations en aluminium sont en cours de mesure dans l'ensemble du régime alimentaire des enfants de 0 à 3 ans, l'aluminium étant une des substances dont les concentrations sont déterminées dans les aliments consommés par la population infantile en France. Cette étude permettra de déterminer les quantités totales d'aluminium auxquelles cette population est exposée (notamment via les préparations infantiles) et d'évaluer le risque sanitaire lié à la présence de cette substance dans l'alimentation. En fonction de ces conclusions, des recommandations de consommation ou d'évolution de la réglementation pourront être émises. Les résultats de cette étude sont attendus pour l'automne 2015.
