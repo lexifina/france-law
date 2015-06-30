@@ -1,0 +1,9 @@
+# Réponse à la question n° 76594
+
+- Question : [76594](76594.md) — Question n° 76594 — professeurs stagiaires; affectations
+
+## Réponse
+
+*JO du 2015-06-30*
+
+La situation des lauréats des concours enseignants du 2nd degré qui souhaitent réaliser leur stage au sein de l'académie de la Martinique est spécifiquement prise en compte tout comme celle des lauréats des concours du second degré souhaitant réaliser leur stage dans une académie d'outre-mer. En effet, les personnels stagiaires peuvent y être affectés à leur demande en fonction des capacités d'accueil, s'ils y résidaient effectivement l'année du concours et s'ils justifient d'une domiciliation ou d'une situation familiale nécessitant leur maintien sur place. Ainsi, lors des opérations d'affectation pour la rentrée scolaire 2014, 97 % des demandes d'affectation dans cette académie ont été satisfaites. Par ailleurs, en ce qui concerne les enseignants néo-titulaires, les demandes de première affectation en Martinique sont spécifiquement traitées dans le cadre des opérations du mouvement national à gestion déconcentrée. Ainsi, une bonification de 1 000 points du barème de mutation est attribuée pour le voeu correspondant formulé en rang 1, pour ceux d'entre eux qui peuvent justifier de la présence dans ce département de leur centre des intérêts matériels et moraux (CIMM). Cet élément de barème est, le cas échéant, cumulable avec celui relatif au rapprochement de conjoints et celui (100 points maximum) qui est attaché à la qualité d'ex-contractuel. Cette prise en compte témoigne de l'intérêt que le ministère de l'éducation nationale, de l'enseignement supérieur et de la recherche attache à la situation personnelle des enseignants et en particulier de ceux d'entre eux qui sont originaires d'un DOM. Celle-ci doit cependant se conjuguer avec la répartition nationale des emplois opérée par le ministère au regard des besoins respectifs de l'ensemble des académies.
