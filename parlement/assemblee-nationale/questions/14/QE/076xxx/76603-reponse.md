@@ -1,0 +1,9 @@
+# Réponse à la question n° 76603
+
+- Question : [76603](76603.md) — Question n° 76603 — Cour des comptes; rapport; recommandations
+
+## Réponse
+
+*JO du 2015-06-30*
+
+Depuis 2010, le suivi des musées nationaux à statut de service à compétence nationale (SCN) dont le périmètre a été réduit à la suite de la révision générale des politiques publiques par la transformation de certains d'entre eux en établissements publics administratifs s'est renforcé de plusieurs manières : l'analyse des besoins annuels des SCN en fonctionnement et en investissement s'est affinée à l'occasion de conférences budgétaires tenues chaque année à l'automne entre les équipes de direction des musées et de la direction générale des patrimoines ; s'agissant de l'investissement, afin de sortir du traitement des seuls besoins en entretien courant des SCN, a été mis en place, depuis 2011, un travail d'élaboration de schémas directeurs de travaux permettant, d'une part, une définition des besoins des musées nationaux - dont beaucoup sont des musées-châteaux au regard de leurs missions et de leur stratégie de développement, d'autre part, une prévision pluriannuelle de leurs investissements. Enfin, pour ce qui est de la gestion des ressources humaines, la direction générale des patrimoines prône l'élaboration d'un organigramme précis pour chaque musée national. Cet organigramme, après son adoption par le comité technique compétent, se décline en fiches de postes individualisées et ces fiches de postes sont désormais systématiquement publiées lorsque le musée SCN veut procéder à un recrutement. Les publications font l'objet d'une autorisation de l'administration centrale, en fonction du pilotage des effectifs. Pour les agents déjà en poste dans les SCN et ne disposant pas de fiche de poste, leur entretien professionnel s'est accompagné, en 2014, de la transmission d'une fiche de poste synthétique.
