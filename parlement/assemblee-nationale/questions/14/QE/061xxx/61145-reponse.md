@@ -1,0 +1,9 @@
+# Réponse à la question n° 61145
+
+- Question : [61145](61145.md) — Question n° 61145 — maladie professionnelle; mise en oeuvre
+
+## Réponse
+
+*JO du 2015-06-30*
+
+Le système du quotient familial a pour objet de proportionner l'impôt sur le revenu aux facultés contributives qui s'apprécient en fonction du montant du revenu et du nombre de personnes qui vivent de ce revenu au sein du foyer. En application de ce principe, l'impôt sur le revenu des personnes seules est normalement calculé sur une part de quotient familial et celui des personnes mariées ou pacsées sur deux parts. Toutefois, afin de prendre en compte la situation des personnes handicapées, une demi-part supplémentaire pour le calcul de l'impôt, prévue au 1 de l'article 195 du code général des impôts est accordée aux contribuables titulaires soit d'une pension prévue par les dispositions du code des pensions militaires d'invalidité et des victimes de la guerre reproduisant celles des lois des 31 mars et 24 juin 1919, pour une invalidité égale ou supérieure à 40 % ou à titre de veuve, soit d'une pension d'invalidité pour accident du travail égale ou supérieure à 40 %, soit de la carte d'invalidité prévue à l'article L. 241-3 du code de l'action sociale et des familles. Pour l'application de cette majoration de quotient familial aux contribuables pensionnés pour accident du travail, il est admis que les rentes pour maladies professionnelles définies au livre IV du code de la sécurité sociale soient assimilées aux pensions d'invalidité pour accident de travail. Cette précision figure dans la doctrine publiée dans le bulletin officiel des finances publiques, disponible sur le site internet BOFIP-impots, sous la référence BOI-IR-LIQ-10-20-20-20, §60. Les personnes percevant une rente pour maladie professionnelle peuvent par conséquent bénéficier d'une demi-part supplémentaire dès lors qu'elles justifient d'une invalidité de 40 % ou plus.
