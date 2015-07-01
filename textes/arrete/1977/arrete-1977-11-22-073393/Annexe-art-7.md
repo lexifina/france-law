@@ -1,6 +1,6 @@
 # Article Annexe art. 7
 
-Les établissements de crédit habilités doivent proposer dans tous les cas au moins un barème de prêt à taux fixe et un barème de prêt à taux révisable. Ces barèmes peuvent être assortis d'annuités constantes, progressives ou indexées.
+Les établissements de crédit et sociétés de financement habilités doivent proposer dans tous les cas au moins un barème de prêt à taux fixe et un barème de prêt à taux révisable. Ces barèmes peuvent être assortis d'annuités constantes, progressives ou indexées.
 
 Les établissements prêteurs ont, en outre, la possibilité de proposer des prêts conventionnés comportant un différé total ou partiel des charges de remboursement (amortissement et/ ou intérêts) d'une durée maximale de trois ans (y compris éventuellement la période d'anticipation).
 
@@ -18,7 +18,7 @@ Dans le cas des prêts à taux révisable, les règles ci-dessus ne sont applica
 
 b) Prêts à annuités indexées.
 
-Pour les prêts à annuités indexées, l'index retenu doit respecter les prescriptions législatives et réglementaires en vigueur résultant notamment de l'article 79 de l'ordonnance n° 58-1374 du 30 décembre 1958 et de la loi no 66-1010 du 28 décembre 1966.
+Pour les prêts à annuités indexées, l'index retenu doit respecter les prescriptions législatives et réglementaires en vigueur résultant notamment de l'article 79 de l'ordonnance n° 58-1374 du 30 décembre 1958 et de la loi n° 66-1010 du 28 décembre 1966.
 
 c) Prêts à taux révisable.
 

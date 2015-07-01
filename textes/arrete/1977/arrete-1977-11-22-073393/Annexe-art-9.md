@@ -6,13 +6,9 @@ Ces taux sont définis par l'addition d'un taux de référence et d'une marge d�
 
 1. Taux de référence.
 
-Le premier taux de référence, calculé et publié par le Crédit foncier à compter de la publication de l'arrêté du 23 juillet 1992, est égal à la moyenne, au deuxième trimestre 1992, arrondie à la deuxième décimale à 0,05 % près, des taux moyens mensuels de rendement sur le marché secondaire des emprunts d'Etat d'une durée supérieure à sept ans (TME) publiés par la Caisse des dépôts et consignations.
-
-Les taux de référence successifs, calculés et publiés par le Crédit foncier de France, sont calculés et publiés par la SGFGAS à compter de la date de publication de l'arrêté approuvant la convention type.
-
 Chaque mois, la SGFGAS calcule :
 
-- un taux de référence, égal à la moyenne des TME des trois derniers mois ;
+- un taux de référence, égal à la moyenne des TME des trois derniers mois sans pouvoir être inférieur à zéro ;
 
 - l'écart entre ce taux de référence et le dernier taux publié.
 
@@ -34,4 +30,4 @@ La marge est ainsi fixée pour les prêts à taux fixe, qu'ils soient à annuit�
 
 Pour les prêts à taux révisable, la marge ne peut excéder 2,30 points, quelle que soit la durée du prêt.
 
-La marge applicable aux prêts éligibles au FGAS est inférieure de 0,6 point aux marges fixées ci-dessus.
+La marge applicable aux prêts éligibles au FGAS est égale aux marges fixées ci-dessus.
