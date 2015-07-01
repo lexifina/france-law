@@ -32,9 +32,13 @@ Commerce de détail de viandes et de produits à base de viande en magasin spéc
 
 Commerce de détail de poissons, crustacés et mollusques en magasin spécialisé dont préparations à partir de ces produits (inclus dans 47. 23).
 
+Commerce de détail et transformation de produits à base de lait ou de fromage en magasin spécialisé, dont préparations à base de ces produits (inclus dans 47.29).
+
 Commerce de détail de viande, produits à base de viandes sur éventaires et marchés (inclus dans 47. 81).
 
 Commerce de détail de poissons, crustacés et mollusques sur éventaires et marchés dont préparations à partir de ces produits (inclus dans 47. 81).
+
+Commerce de détail et transformation de produits à base de lait ou de fromage sur éventaire et marché, dont préparations à base de ces produits (inclus dans 47.81).
 
 Fabrication de plats prêts à consommer, à emporter, associée à la vente au détail (inclus dans 56. 10 C).
 
