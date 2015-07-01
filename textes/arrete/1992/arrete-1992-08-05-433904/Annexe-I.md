@@ -172,11 +172,11 @@ Pour 2 tonnes supplémentaires : 0,5 N.
 
 |
 
-10 mètres cubes (ou tonnes) ou moins : 6,5 N
+10 m3 (ou tonnes) ou moins : 13 N
 
 |
 
-Par 10 mètres cubes ou tonnes supplémentaires : 1,3 N
+Par 10 m3 ou tonnes supplémentaires : 3 N
 
 |
 
