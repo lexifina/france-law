@@ -394,7 +394,7 @@ c) Travaux d'irrigation nécessitant un prélèvement permanent soumis à autori
 
 |
 
-14° Dispositifs de captage ou de recharge artificielle des eaux souterraines.
+14° Dispositifs de captage ou de recharge artificielle des eaux souterraines, à l'exception des ouvrages de géothermie de minime importance.
 
 |
 
@@ -950,7 +950,7 @@ a) Défrichements portant sur une superficie totale, même fragmentée, égale o
 
 |
 
-a) Défrichements soumis à autorisation au titre de l'article L. 341-3 du code forestieret portant sur une superficie totale, même fragmentée, de plus de 0,5 hectare et inférieure à 25 hectares.
+a) Défrichements soumis à autorisation au titre de l'article L. 341-3 du code forestier et portant sur une superficie totale, même fragmentée, de plus de 0,5 hectare et inférieure à 25 hectares.
 
 |
 
@@ -979,7 +979,3 @@ Toute création ou extension.
 |
 
 |
-
-NOTA :
-
-Conformément à l'article 31 du décret n° 2015-526 du 12 mai 2015, les dispositions du code de l'environnement dans leur rédaction antérieure au 15 mai 2015 modifiées par le présent décret et les textes pris pour leur mise en œuvre restent applicables aux demandes d'autorisation d'ouvrages relevant des rubriques 3.2.5.0 et 3.2.6.0 introduites avant cette date.
