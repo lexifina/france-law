@@ -858,20 +858,6 @@ FG TD
 
 |
 
-Fourgonnette dérivée de VP.
-
-|
-
-DERIV VP
-
-|
-
-|
-
-|
-
-|
-
 Bétonnière.
 
 |
@@ -1496,17 +1482,11 @@ NON SPEC
 
 |
 
-M1
+M1 |
 
-|
+Adaptation réversible dérivée de VP |
 
-Adaptation réversible dérivée de VP
-
-|
-
-DERIV VP
-
-|
+DERIV VP |
 
 Semi-remorques spécialisées.
 
@@ -1966,6 +1946,14 @@ NON SPEC
 
 |
 
+CTTE (N1) |
+
+DERIV VP |
+
+VASP (M1) |
+
+DERIV VP |
+
 Pour les motocyclettes d'un type réceptionné avant le 1er juillet 1996 et immatriculées selon l'ancienne nomenclature avec le genre MTTE :
 
 Il peut y avoir rectification du certificat d'immatriculation pour y indiquer le nouveau genre MTT1 si elles peuvent être identifiées comme appartenant à ce genre.
@@ -1974,4 +1962,4 @@ En l'absence de rectification de la carte grise, elles sont assimilées à des m
 
 NOTA :
 
-Aux termes de l'article 6 de l'arrêté du 7 novembre 2014, ces dispositions, issues de l'article 4 dudit arrêté, s'appliquent à compter du 1er mars 2015.
+Aux termes de l'article 6 de l'arrêté du 7 novembre 2014, ces dispositions, issues des articles 3 et 5 dudit arrêté, s'appliquent à compter du 1er juillet 2015.
