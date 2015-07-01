@@ -1,0 +1,91 @@
+# Justice : réforme de la prescription en matière pénale
+
+- Procédure : Proposition de loi ordinaire
+- Législature : 14
+- Identifiant : DLR5L14N34079
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/reforme_prescription_matiere_penale
+- Sénat : http://www.senat.fr/dossier-legislatif/ppl15-461.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2015-07-01 : 1er dépôt d'une initiative. (PIONANR5L14B2931)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2015-07-01 : Renvoi en commission au fond
+      - 2016-02-10 : Nomination de rapporteur
+      - 2016-02-10 : Réunion de commission
+      - 2016-03-02 : Réunion de commission
+      - 2016-03-10 : Réunion de commission
+      - 2016-03-02 : Dépôt de rapport (RAPPANR5L14B3540, PIONANR5L14BTC3540)
+  - Discussion en séance publique
+    - 2016-03-10 : Discussion en séance publique
+    - 2016-03-10 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2016-03-10 : Dépôt d'une initiative en navette (PIONSNR5S259B0461)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2016-03-10 : Renvoi en commission au fond
+      - 2016-05-11 : Nomination de rapporteur
+      - 2016-05-25 : Dépôt de rapport (RAPPSNR5S259B0636)
+      - 2016-10-05 : Dépôt de rapport (RAPPSNR5S279B0008)
+  - Discussion en séance publique
+    - 2016-06-02 : Discussion en séance publique
+    - 2016-10-13 : Discussion en séance publique
+    - 2016-10-13 : Décision
+- deuxième lecture
+  - 2016-10-13 : Dépôt d'une initiative en navette (PIONANR5L14B4135)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2016-10-13 : Renvoi en commission au fond
+      - 2016-12-14 : Réunion de commission
+      - 2016-12-14 : Dépôt de rapport (RAPPANR5L14B4309, PIONANR5L14BTC4309)
+  - Discussion en séance publique
+    - 2017-01-12 : Discussion en séance publique
+    - 2017-01-12 : Décision
+- deuxième lecture
+  - 2017-01-12 : Dépôt d'une initiative en navette (PIONSNR5S279B0295)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2017-01-12 : Renvoi en commission au fond
+      - 2017-02-01 : Dépôt de rapport (RAPPSNR5S279B0347)
+  - Discussion en séance publique
+    - 2017-02-07 : Discussion en séance publique
+    - 2017-02-07 : Décision
+- Commission Mixte Paritaire
+  - 2017-02-08 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2017-02-13 : Nomination de rapporteur
+    - 2017-02-13 : Dépôt du rapport d'une CMP (RAPPANR5L14B4465)
+    - 2017-02-13 : Dépôt du rapport d'une CMP (RAPPSNR5S279B0397)
+  - 2017-02-13 : Décision de la CMP
+- Nouvelle Lecture
+  - 2017-02-07 : Dépôt d'une initiative en navette (PIONANR5L14B4452)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2017-02-07 : Renvoi en commission au fond
+      - 2017-02-14 : Réunion de commission
+      - 2017-02-14 : Dépôt de rapport (RAPPANR5L14B4469, PIONANR5L14BTC4469)
+  - Discussion en séance publique
+    - 2017-02-14 : Discussion en séance publique
+    - 2017-02-14 : Décision
+- Nouvelle Lecture
+  - 2017-02-14 : Dépôt d'une initiative en navette (PIONSNR5S279B0405)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2017-02-14 : Renvoi en commission au fond
+      - 2017-02-15 : Dépôt de rapport (RAPPSNR5S279B0407)
+  - Discussion en séance publique
+    - 2017-02-15 : Discussion en séance publique
+    - 2017-02-15 : Décision
+- Lecture définitive
+  - 2017-02-15 : Dépôt d'une initiative en navette (PIONANR5L14B4515)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2017-02-15 : Renvoi en commission au fond
+      - 2017-02-16 : Dépôt de rapport (RAPPANR5L14B4516)
+  - Discussion en séance publique
+    - 2017-02-16 : Discussion en séance publique
+    - 2017-02-16 : Décision
+- Promulgation de la loi
+  - 2017-02-27 : Promulgation d'une loi
