@@ -20,7 +20,7 @@ Il est ainsi rappelé que :
 
 - le gabarit d'une voie navigable est fixé par la circulaire Equipement n° 76-38 du 1er mars 1976, modifiée par la circulaire n° 95-86 en date du 6 novembre 1995 ;
 
-- le gabarit est de 4,80 m au-dessus de la voie, pour les voies ferrées non électrifiées ; lorsque la voie est électrifiée, la ligne caténaire entre dans la catégorie des obstacles faisant l'objet de l'annexe 4.
+- le gabarit est de 4,80 m au-dessus de la voie, pour les voies ferrées non électrifiées.
 
 Le gabarit s'appliquant à chaque type de voie est majoré de 2 m sur les tronçons couverts par une trouée.
 
@@ -87,3 +87,7 @@ F
 650 m
 
 |
+
+NOTA :
+
+Arrêté du 14 avril 2015 article 2 : les présentes dispositions s'appliquent aux plans de servitudes aéronautiques de dégagement mis à l'enquête publique à compter du premier jour du troisième mois suivant la date de publication du présent arrêté.
