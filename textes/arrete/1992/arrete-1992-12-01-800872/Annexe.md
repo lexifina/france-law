@@ -2,312 +2,664 @@
 
 DÉSIGNATION DE L'EMPLOI
 
-justifiant de l'obtention de la nouvelle bonification indiciaire |
+justifiant de l'obtention de la nouvelle bonification indiciaire
 
-NIVEAU DE L'EMPLOI
+|
 
-justifiant de l'obtention
+NIVEAU DE L'EMPLOI justifiant de l'obtention de la nouvelle
 
-de la nouvelle
+bonification indiciaire
 
-bonification indiciaire |
+|
 
-NOMBRE D'EMPLOIS
+NOMBRE D'EMPLOIS éligibles
 
-éligibles |
+|
 
 NOMBRE DE POINTS
 
 par emploi
 
-(points en indice majoré) |
+(points en indice majoré)
 
-Chargé d'études financières et/ ou analyste de contreparties |
+|
 
-A |
+Responsable du budget et/ou du contrôle de gestion et/ou des moyens généraux et/ou du service du personnel et/ou du contentieux d'une direction
 
-2 |
+|
 
-40 |
+A
 
-Juriste spécialisé |
+|
 
-A |
+1
 
-1 |
+|
 
-30 |
+40
 
-Chef d'unité opérationnelle ou fonctionnelle dans le domaine des assurances ou responsable du service aux assurés B |
+|
 
-A |
+Chargé d'études financières et/ou analyste de contreparties
 
-1 |
+|
 
-30 |
+A
 
-Agent ayant un pouvoir de décision, d'animation et de coordination du niveau d'un responsable d'unité ou assistant d'un chef de service |
+|
 
-A |
+2
 
-28 |
+|
 
-30 |
+40
 
-Adjoint au responsable d'unité à la direction des retraites |
+|
 
-B |
+Juriste spécialisé
 
-23 |
+|
 
-25 |
+A
 
-Assistant marketing |
+|
 
-B |
+2
 
-1 |
+|
 
-25 |
+30
 
-Gestionnaire de clientèle |
+|
 
-B |
+Chef d'unité opérationnelle ou fonctionnelle dans le domaine des assurances ou responsable du service aux assurés B
 
-1 |
+|
 
-25 |
+A
 
-Développeur d'applications sur bases de données RH |
+|
 
-B |
+1
 
-3 |
+|
 
-25 |
+30
 
-Développeur micro-informatique pour le réseau habitat
+|
 
-de l'ensemble des directions régionales et pour le réseau équipement |
+Agent ayant un pouvoir de décision, d'animation et de coordination du niveau d'un responsable d'unité ou assistant d'un chef de service
 
-B |
+|
 
-2 |
+A
 
-25 |
+|
 
-Agent assurant, par délégation d'un chef d'unité, la gestion d'un secteur d'activité comportant une technicité particulièrement étendue en termes de connaissance bancaire ou des marchés financiers |
+40
 
-B |
+|
 
-7 |
+30
 
-25 |
+|
 
-Chargé du recrutement et/ ou des carrières et/ ou de la mobilité et/ ou d'orientation professionnelle au niveau fédéral ou au niveau d'une direction |
+Assistant marketing
 
-B |
+|
 
-3 |
+B
 
-25 |
+|
 
-Technicien de maintenance des installations de climatisation et de chauffage (site parisien) |
+2
 
-B |
+|
 
-1 |
+25
 
-25 |
+|
 
-Opérateur de marchés |
+Gestionnaire de clientèle
 
-B |
+|
 
-1 |
+B
 
-20 |
+|
 
-Contrôleur des risques |
+2
 
-B |
+|
 
-5 |
+25
 
-20 |
+|
 
-Technicien des opérations post-marché ou d'opérations bancaires et/ ou financières sur secteurs prioritaires |
+Développeur d'applications sur bases de données RH
 
-B |
+|
 
-39 |
+B
 
-20 |
+|
 
-Chargé de clientèle exerçant des responsabilités particulières dans le domaine commercial et financier |
+3
 
-B |
+|
 
-38 |
+25
 
-20 |
+|
 
-Assistant juridique et fiscal au niveau fédéral ou au niveau d'une direction |
+Développeur micro-informatique pour le réseau habitat de l'ensemble des directions régionales et pour le réseau équipement
 
-B |
+|
 
-3 |
+B
 
-20 |
+|
 
-Comptable de production bancaire ou d'opérations fournisseurs au niveau d'une direction |
+2
 
-B |
+|
 
-12 |
+25
 
-20 |
+|
 
-Gestionnaire de plusieurs systèmes d'information |
+Agent assurant, par délégation d'un chef d'unité, la gestion d'un secteur d'activité comportant une technicité particulièrement étendue en termes de connaissance bancaire ou des marchés financiers
 
-B |
+|
 
-34 |
+B
 
-20 |
+|
 
-Assistant de direction |
+9
 
-B |
+|
 
-85 |
+25
 
-20 |
+|
 
-Assistant de contrôle budgétaire et/ ou de gestion pour une direction, un département, un site, ou chargé d'une responsabilité fonctionnelle particulière |
+Chargé du recrutement et/ou des carrières et/ou de la mobilité et/ou d'orientation professionnelle au niveau fédéral ou au niveau d'une direction.
 
-B |
+|
 
-27 |
+B
 
-20 |
+|
 
-Documentaliste spécialisé au niveau fédéral ou au niveau d'une direction |
+1
 
-B |
+|
 
-2 |
+25
 
-20 |
+|
 
-Responsable exploitation transport |
+Chargé de gestion statutaire ou financière au niveau fédéral dans le domaine administratif ou informatique
 
-B |
+|
 
-4 |
+B
 
-20 |
+|
 
-Chargé de la communication d'un département ou d'une direction |
+2
 
-B |
+|
 
-25 |
+25
 
-20 |
+|
 
-Technicien de production bancaire exerçant des responsabilités particulières dans les évolutions système |
+Technicien de maintenance des installations de climatisation et de chauffage (site parisien)
 
-B |
+|
 
-3 |
+B
 
-20 |
+|
 
-Responsable d'un secteur d'activité comportant une technicité et une responsabilité particulière dans le domaine bancaire et/ ou dans le domaine des prestations de services |
+1
 
-B |
+|
 
-7 |
+25
 
-20 |
+|
 
-Assistant de gestion statutaire et/ ou financière et/ ou de formation des personnels au niveau d'une branche ou au niveau fédéral |
+Opérateur de marchés.
 
-B |
+|
 
-41 |
+B
 
-20 |
+|
 
-Responsable d'une unité de gestion ou de production de contrats d'assurance |
+1
 
-B |
+|
 
-2 |
+20
 
-20 |
+|
 
-Chargé d'études et de coordination |
+Contrôleur des risques
 
-B |
+|
 
-7 |
+B
 
-20 |
+|
 
-Analyste financier |
+5
 
-B |
+|
 
-6 |
+20
 
-20 |
+|
 
-Responsable prestations téléphoniques ou audiovisuelles |
+Technicien des opérations post-marché ou d'opérations bancaires et/ou financières sur secteurs prioritaires
 
-B |
+|
 
-2 |
+B
 
-20 |
+|
 
-Gestionnaire expert |
+41
 
-B |
+|
 
-84 |
+20
 
-15 |
+|
 
-Responsable du contentieux et des affaires générales au sein d'une unité administrative chargée de la gestion d'un fonds de la branche Caisses de retraites de Bordeaux |
+Chargé de clientèle exerçant des responsabilités particulières dans le domaine commercial et financier
 
-B |
+|
 
-2 |
+B
 
-15 |
+|
 
-Responsable de la fonction correspondant informatique ou de la fonction correspondant réseau ou de la coordination des projets informatiques |
+31
 
-B |
+|
 
-15 |
+20
 
-15 |
+|
 
-Animateur de groupe |
+Assistant juridique et fiscal au niveau fédéral ou au niveau d'une direction
 
-B |
+|
 
-143 |
+B
 
-15 |
+|
 
-Gestionnaire logistique polyvalent |
+3
 
-C |
+|
 
-4 |
+20
 
-15 |
+|
+
+Comptable responsable de service opérationnel important.
+
+|
+
+B
+
+|
+
+2
+
+|
+
+20
+
+|
+
+Comptable de production bancaire ou d'opérations fournisseurs au niveau d'une direction.
+
+|
+
+B
+
+|
+
+9
+
+|
+
+20
+
+|
+
+Gestionnaire de plusieurs systèmes d'information
+
+|
+
+B
+
+|
+
+38
+
+|
+
+20
+
+|
+
+Assistant de direction
+
+|
+
+B
+
+|
+
+78
+
+|
+
+20
+
+|
+
+Assistant de contrôle budgétaire et/ou de gestion pour une direction, un département, un site, ou chargé d'une responsabilité fonctionnelle particulière
+
+|
+
+B
+
+|
+
+34
+
+|
+
+20
+
+|
+
+Documentaliste spécialisé au niveau fédéral ou au niveau d'une direction.
+
+|
+
+B
+
+|
+
+2
+
+|
+
+20
+
+|
+
+Conducteur d'opérations BTP (site parisien)
+
+|
+
+B
+
+|
+
+1
+
+|
+
+20
+
+|
+
+Responsable exploitation transport
+
+|
+
+B
+
+|
+
+4
+
+|
+
+20
+
+|
+
+Chargé de la communication d'un département ou d'une direction
+
+|
+
+B
+
+|
+
+8
+
+|
+
+20
+
+|
+
+Technicien de production bancaire exerçant des responsabilités particulières dans les évolutions système
+
+|
+
+B
+
+|
+
+4
+
+|
+
+20
+
+|
+
+Responsable d'un secteur d'activité comportant une technicité et une responsabilité particulière dans le domaine bancaire et/ou dans le domaine des prestations de services
+
+|
+
+B
+
+|
+
+7
+
+|
+
+20
+
+|
+
+Assistant de gestion statutaire et/ou financière et/ou de formation des personnels au niveau d'une branche ou au niveau fédéral
+
+|
+
+B
+
+|
+
+34
+
+|
+
+20
+
+|
+
+Responsable d'une unité de gestion ou de production de contrats d'assurance
+
+|
+
+B
+
+|
+
+2
+
+|
+
+20
+
+|
+
+Chargé d'études et de coordination
+
+|
+
+B
+
+|
+
+9
+
+|
+
+20
+
+|
+
+Analyste financier
+
+|
+
+B
+
+|
+
+6
+
+|
+
+20
+
+|
+
+Responsable prestations téléphoniques ou audiovisuelles
+
+|
+
+B
+
+|
+
+2
+
+|
+
+20
+
+|
+
+Adjoint au responsable d'unité à la direction des retraites
+
+|
+
+B
+
+|
+
+33
+
+|
+
+20
+
+|
+
+Gestionnaire expert
+
+|
+
+B
+
+|
+
+53
+
+|
+
+15
+
+|
+
+Responsable du contentieux et des affaires générales au sein d'une unité administrative chargée de la gestion d'un fonds de la branche Caisses de retraites de Bordeaux
+
+|
+
+B
+
+|
+
+2
+
+|
+
+15
+
+|
+
+Responsable de la fonction correspondant informatique ou de la fonction correspondant réseau ou de la coordination des projets informatiques
+
+|
+
+B
+
+|
+
+15
+
+|
+
+15
+
+|
+
+Animateur de groupe
+
+|
+
+B
+
+|
+
+163
+
+|
+
+15
+
+|
+
+Gestionnaire logistique polyvalent
+
+|
+
+C
+
+|
+
+4
+
+|
+
+15
+
+|

@@ -1,16 +1,20 @@
 # Article Annexe Pas-de-Calais à Savoie
 
-Direction départementale des territoires et de la mer du Pas-de-Calais
+Direction départementale de l'équipement du Pas-de-Calais
 
-FONCTIONS EXERCÉES |
-
-NIVEAU DE QUALIFICATION
-
-de l'emploi
+FONCTIONS EXERCEES
 
 |
 
-NOMBRE D'EMPLOIS
+NIVEAU
+
+de qualification de l'emploi
+
+|
+
+NOMBRE
+
+d'emplois
 
 |
 
@@ -20,7 +24,23 @@ par emploi
 
 |
 
-Responsable d'unité habitat-renouvellement urbain-Coordination territoriale Côte d'Opale
+Coordinateur territorial habitat et renouvellement urbain
+
+|
+
+A
+
+|
+
+2
+
+|
+
+30
+
+|
+
+Responsable de la cellule ANRU au service habitat
 
 |
 
@@ -36,39 +56,7 @@ A
 
 |
 
-Responsable d'unité renouvellement urbain-Coordination territoriale Artois
-
-|
-
-A
-
-|
-
-1
-
-|
-
-30
-
-|
-
-Responsable d'unité rénovation et qualité urbaine-Service habitat durable
-
-|
-
-A
-
-|
-
-1
-
-|
-
-30
-
-|
-
-Chargé de mission politique de la ville-Service habitat durable
+Chargé de l'animation et de la mise en oeuvre du renouvellement urbain
 
 |
 
@@ -84,7 +72,7 @@ A
 
 |
 
-Adjoint au chef d'unité rénovation et qualité urbaine-Service habitat durable
+Gestionnaire renouvellement urbain
 
 |
 
@@ -92,43 +80,13 @@ B
 
 |
 
-1
+6
 
 |
 
-20
+20 points
 
 |
-
-Chargé d'instruction à l'unité rénovation et qualité urbaine-Service habitat durable
-
-|
-
-B
-
-|
-
-4
-
-|
-
-20
-
-|
-
-Assistant d'études Boulonnais à l'unité habitat-renouvellement urbain-Coordination territoriale Côte d'Opale
-
-|
-
-B
-
-|
-
-1
-
-|
-
-20 |
 
 Direction départementale de l'équipement et de l'agriculture (2) des Pyrénées-Atlantiques
 
@@ -546,7 +504,7 @@ B
 
 |
 
-Instructeur dossiers financement du logement social - cellule financement et droit du logement - service urbanisme habitat et constructions
+Chargé du conventionnement APL et ANAH et des aides PLS/PSLA et PALULOS - cellule financement et droit du logement - service urbanisme habitat et constructions
 
 |
 

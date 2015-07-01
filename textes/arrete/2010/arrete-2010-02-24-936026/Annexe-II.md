@@ -68,7 +68,9 @@ CMR 2
 
 |
 
-Dans l'acier inoxydable
+Dans les jouets et les parties de jouets en acier inoxydable.
+
+Dans les parties de jouets destinées à conduire le courant électrique.
 
 |
 
@@ -924,7 +926,7 @@ On entend par :
 
 VI. - Limites de migration des éléments chimiques entrant dans la composition des jouets en application du 10 de la partie III "Propriétés chimiques" de l'annexe I du décret du 22 février 2010 susvisé
 
-Sans préjudice des autres dispositions des 3 et 4 de la partie III Propriétés chimiques de l'annexe I du décret du 22 février 2010 susvisé, les jouets ou composants de jouets accessibles durant leur utilisation dans les conditions prévues à l'article 3 du décret du 22 février 2010 susvisé ne dépassent pas les limites de migration suivantes.
+Sans préjudice des autres dispositions des 3 et 4 de la partie III "Propriétés chimiques" de l'annexe I du décret du 22 février 2010 susvisé, les jouets ou composants de jouets accessibles durant leur utilisation dans les conditions prévues à l'article 3 du décret du 22 février 2010 susvisé ne dépassent pas les limites de migration suivantes.
 
 ÉLÉMENT
 
