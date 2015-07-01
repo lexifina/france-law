@@ -1,0 +1,75 @@
+# Article 1er
+
+Le paragraphe 1 de l'article 8 est modifié comme suit :
+
+« 1. Taux. – Assiette. – Répartition des cotisations
+
+Les cotisations servant au financement des garanties définies dans le présent accord sont assises sur la totalité des rémunérations brutes entrant dans l'assiette des cotisations du régime de base de sécurité sociale.
+
+Leur versement relève de la responsabilité des entreprises visées à l'article 1er du présent accord.
+
+Elles sont appelées pour les salariés définis au paragraphe 2 de l'article 1er et sont prises en charge par l'entreprise et les salariés dans les conditions suivantes.
+
+(En pourcentage.)
+
+Garantie |
+
+Taux |
+
+Part patronale |
+
+Part salariale |
+
+Incapacité de travail |
+
+1,59 |
+
+0,63 (1) |
+
+0,96 |
+
+Invalidité |
+
+0,43 |
+
+0,43 |
+
+|
+
+Décès |
+
+0,24 |
+
+0,24 |
+
+|
+
+Total |
+
+2,26 |
+
+1,30 |
+
+0,96 |
+
+Assurance des cotisations sociales patronales |
+
+0,21 |
+
+0,21 |
+
+|
+
+Total |
+
+2,47 |
+
+1,51 |
+
+0,96 |
+
+(1) Il est rappelé que la fraction de cotisation destinée à la couverture résultant de l'article L. 1226-1 du code du travail, soit 0,63 %, est à la charge exclusive de l'employeur. |
+
+Les cotisations à la charge du salarié sont déduites par l'employeur sur le bulletin de salaire sous une rubrique''prévoyance''distincte des cotisations sociales obligatoires.
+
+Les cotisations du tableau ci-dessus intègrent la portabilité des droits. »
