@@ -1,8 +1,8 @@
-# Article KALIARTI000026696735
+# Article KALIARTI000031198360
 
 Annexe I
 
-Taux contractuels et ventilation des cotisations en vigueur au 1er janvier 2013
+Taux contractuels et ventilation des cotisations en vigueur au 1er juillet 2015
 
 (En pourcentage.)
 
@@ -18,33 +18,19 @@ TB - TC
 
 |
 
-Tranche de salaire
-
-inférieure ou égale
-
-au plafond ASA
+Tranche de salaire inférieure ou égale au plafond ASA
 
 |
 
-Tranche de salaire
-
-comprise entre 1 et 8 fois
-
-le plafond ASA
+Tranche de salaire comprise entre 1 et 8 fois le plafond ASA
 
 |
 
-|
-
-Part
-
-employeur
+Part employeur
 
 |
 
-Part
-
-salarié
+Part salarié
 
 |
 
@@ -52,15 +38,11 @@ Total
 
 |
 
-Part
-
-employeur
+Part employeur
 
 |
 
-Part
-
-salarié
+Part salarié
 
 |
 
@@ -72,25 +54,25 @@ Décès
 
 |
 
-1,00
+1,01
 
 |
 
 |
 
-1,00
+1,01
 
 |
 
-0,44
+0,445
 
 |
 
-0,44
+0,445
 
 |
 
-0,88
+0,89
 
 |
 
@@ -98,25 +80,25 @@ Capital décès
 
 |
 
-0,30
+0,31
 
 |
 
 |
 
-0,30
+0,31
 
 |
 
-0,11
+0,115
 
 |
 
-0,11
+0,115
 
 |
 
-0,22
+0,23
 
 |
 
@@ -196,27 +178,27 @@ Incapacité temporaire
 
 |
 
-0,29
+0,30
 
 |
 
-0,25
+0,26
 
 |
 
-0,54
+0,56
 
 |
 
-0,48
+0,49
 
 |
 
-0,71
+0,73
 
 |
 
-1,19
+1,22
 
 |
 
@@ -224,23 +206,23 @@ Mensualisation
 
 |
 
-0,29
+0,30
 
 |
 
 |
 
-0,29
+0,30
 
 |
 
-0,48
+0,49
 
 |
 
 |
 
-0,48
+0,49
 
 |
 
@@ -250,21 +232,21 @@ Relais mensualisation
 
 |
 
-0,25
+0,26
 
 |
 
-0,25
+0,26
 
 |
 
 |
 
-0,71
+0,73
 
 |
 
-0,71
+0,73
 
 |
 
@@ -272,25 +254,25 @@ Incapacité permanente
 
 |
 
-0,34
+0,35
 
 |
 
 |
 
-0,34
+0,35
 
 |
 
-0,515
+0,528
 
 |
 
-0,285
+0,292
 
 |
 
-0,80
+0,82
 
 |
 
@@ -298,25 +280,25 @@ Incapacité permanente privée
 
 |
 
-0,30
+0,31
 
 |
 
 |
 
-0,30
+0,31
 
 |
 
-0,425
+0,438
 
 |
 
-0,285
+0,292
 
 |
 
-0,71
+0,73
 
 |
 
@@ -344,31 +326,31 @@ Incapacité permanente professionnelle
 
 |
 
-Total Prévoyance
+Total prévoyance
 
 |
 
-1,63
+1,66
 
 |
 
-0,25
+0,26
 
 |
 
-1,88
+1,92
 
 |
 
-1,435
+1,463
 
 |
 
-1,435
+1,467
 
 |
 
-2,87
+2,93
 
 |
 
@@ -376,11 +358,11 @@ Total Prévoyance
 
 |
 
-86,70
+86,50
 
 |
 
-13,30
+13,50
 
 |
 
