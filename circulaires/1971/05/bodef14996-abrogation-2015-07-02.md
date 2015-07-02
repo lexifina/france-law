@@ -1,0 +1,283 @@
+# CIRCULAIRE N° 5353/A/DCCA/1/3 relative aux modalités de rapatriement sur leurs pays d'origine des militaires de l'armée de l'air rendus à la vie civile en métropole.
+
+- État : abrogée (au 2015-07-02)
+- NOR : BODEF14996
+- Numéro : BODEF14996
+- Date de signature : 1971-05-11
+- Mise en ligne : 2009-04-30
+- Signataire : Pour le ministre et par délégation :Le commissaire général inspecteur, directeur central du commissariat de l'air,DAUME.  Pour le ministre et par délégation :  Pour le ministre et par délégation :  Le commissaire général inspecteur, directeur central du commissariat de l'air,  Le commissaire général inspecteur, directeur central du commissariat de l'air,  Le commissaire général inspecteur, directeur central du commissariat de l'air,   DAUME.  DAUME.
+- Ministères : 4
+- Domaines : Défense
+- Mots-clés : ; Organisation et règles d'administration propres aux différents services des armées.Dispositions administratives relatives aux déplacements et aux transports.Frais de déplacement.Frais de déplacement. Dispositions propres à l'armée de l'air.TITRE III. DEPLACEMENTS OUTRE-MER.NiveauTitre
+- Publication JO / BO : BOC/A, p. 220.
+- Annexes : 2
+- Identifiant : 18351 (PDF officiel : pdf/2009/04/cir_18351.pdf)
+
+## Résumé
+
+Les directeurs chargés des DIR apparaissent comme ordonnateurs secondaires des crédits des titres III et V et ordonnateurs secondaires délégués des crédits du titre IV. Ceux-ci peuvent déléguer ou subdéléguer leur signature à leurs adjoints, en application des dispositions d'un arrêté les y autorisant.  Les directeurs chargés des DIR apparaissent comme ordonnateurs secondaires des crédits des titres III et V et ordonnateurs secondaires délégués des crédits du titre IV. Ceux-ci peuvent déléguer ou subdéléguer leur signature à leurs adjoints, en application des dispositions d'un arrêté les y autorisant.  Les directeurs chargés des  DIR  DIR   apparaissent comme ordonnateurs secondaires des crédits des titres III et V et ordonnateurs secondaires délégués des crédits du titre IV. Ceux-ci peuvent déléguer ou subdéléguer leur signature à leurs adjoints, en application des dispositions d'un arrêté les y autorisant.
+
+## Texte
+
+BULLETIN OFFICIEL DES ARMEES
+Edition Chronologique
+PARTIE PERMANENTE
+Armée de l'air
+CIRCULAIRE N° 5353/A/DCCA/1/3
+relative aux modalités de rapatriement sur leurs pays d'origine des militaires de l'armée de l'air rendus à la vie civile en
+métropole.
+Du 11 mai 1971
+
+DIRECTION CENTRALE DU COMMISSARIAT DE L'AIR : 1re Sous-Direction ; 3e Bureau « Transports
+et déplacements ».
+CIRCULAIRE N° 5353/A/DCCA/1/3 relative aux modalités de rapatriement sur leurs pays d'origine
+des militaires de l'armée de l'air rendus à la vie civile en métropole.
+Du 11 mai 1971
+Pièce(s) Jointe(s) :
+Deux annexes.
+Modifié par :
+1er modificatif n° 4881/A/DCCA/1/3 du 6 juin 1972 (BOC/A, p. 444).
+2e modificatif n° 3412/A/DCCA/1/3 du 10 avril 1974 (BOC, p. 837).
+3e modificatif n° 6663/DEF/DCCA/1/3 du 4 août 1976 (BOC, p. 2659).
+4e modificatif n° 11228/DEF/DCCA/FIN/3 du 6 mars 1984 (BOC, p. 1376).
+Textes abrogés :
+Circulaire n° 7423/DCCA/1/3 du 8 octobre 1959 (BO/A, p. 1744), son 1er modificatif
+n° 8892/A/DCCA/1/3 du 16 septembre 1963 (BO/A, p. 1916) et son erratum du 9 novembre
+1963 (BO/A, p. 2251).
+Circulaire n° 1124/A/DCCA/1/3 du 25 février 1970 (n.i. BO).
+Classement dans l'édition méthodique : BOEM 530-2.3.2.
+Référence de publication : BOC/A, p. 220.
+SOMMAIRE
+CHAPITRE PREMIER. RAPATRIEMENT DES MILITAIRES ORIGINAIRES DES DÉPARTEMENTS ET
+TERRITOIRES D'OUTRE-MER. (1) (2)
+ 1.1. AYANTS DROIT AUX RAPATRIEMENTS AUX FRAIS DE L'ETAT :
+ 1.2. PIÈCES JUSTIFICATIVES À PRODUIRE :
+ 1.3. DÉLAI PENDANT LEQUEL LES MILITAIRES PEUVENT ÊTRE RAPATRIÉS AUX FRAIS DE
+L'ETAT.
+ 1.4. DÉPÔT DES DEMANDES DE RAPATRIEMENT.
+ 1.5. AUTORITÉS HABILITÉES À SIGNER LES DÉCISION ACCORDANT LES CONCESSIONS DE
+PASSAGE.
+ 1.6. TRANSPORT DES BAGAGES.
+ 1.7. PRÉCISIONS COMPLÉMENTAIRES.
+CHAPITRE II. RETOUR DÉFINITIF DANS LE TERRITOIRE ÉTRANGER D'ORIGINE. (3)
+
+ 2.1. AYANTS DROITS AU RAPATRIMENT AUX FRAIS DE L'ETAT :
+ 2.2. NOTION DE RÉSIDENCE EFFECTIVE ET HABITUELLE À L'ÉTRANGER.
+ 2.3. CATÉGORIES DE FRANÇAIS DISPENSÉS DES OBLIGATIONS D'ACTIVITÉ DU SERVICE
+NATIONAL.
+ 2.4. PIÈCES JUSTIFICATIVES À PRODUIRE.
+ 2.5. DÉLAI PENDANT LEQUEL LES MILITAIRES PEUVENT ÊTRE RAPATRIÉS AUX FRAIS DE
+L'ETAT SUR LE PAYS D'OÙ ILS SONT VENUS.
+ 2.6. DÉPÔT DES DEMANDES DE RAPATRIEMENT.
+ 2.7. AUTORITÉS HABILITÉES À SIGNER LES DÉCISIONS ACCORDANT LE PASSAGE.
+ 2.8. APPELÉS RÉSIDANT À L'ÉTRANGER DE FAÇON EFFECTIVE ET HABITUELLE, NON
+DISPENSÉS DU SERVICE NATIONAL QUI REJOIGNENT LEUR PAYS PAR VOIE FERRÉE.
+ 2.9. DÉLIVRANCE DES PASSEPORTS.
+ 2.10. TRANSPORT DES BAGAGES ET DU MOBILIER.
+ 2.11. PRÉCISIONS COMPLÉMENTAIRES.
+ANNEXE(S)
+ANNEXE
+ANNEXE
+La présente circulaire a pour but de préciser les conditions dans lesquelles doivent s'effectuer les
+rapatriements, sur leur territoire d'origine, des personnels militaires libérés en métropole et les autorités
+habilitées à délivrer les concessions de passage au profit des intéressés.
+CHAPITRE PREMIER.
+RAPATRIEMENT DES MILITAIRES ORIGINAIRES DES DÉPARTEMENTS ET TERRITOIRES
+D'OUTRE-MER. (1) (2)
+(Modifié : 3e mod. du 4 août 1976 ; 4e mod. du 6 mars 1984.)
+1.1. AYANTS DROIT AUX RAPATRIEMENTS AUX FRAIS DE L'ETAT :
+- les militaires appelés sous les drapeaux pour satisfaire à leurs obligations militaires légales et libérés
+sur le territoire métropolitain de la France (à l'exclusion des membres de leur famille) ;
+- les militaires dont les parents se sont fixés outre-mer pendant leur présence sous les drapeaux ;
+- les militaires de carrière engagés, rengagés, commissionnés, libérés sur le territoire métropolitain de
+la France ainsi que les membres de la famille de ces militaires (épouse et enfants). La situation de
+famille à prendre en considération est celle qui existe au jour de la radiation des contrôles du militaire.
+Pour bénéficier du transport aux frais de l'Etat, les fils doivent être mineurs et non mariés et les filles
+non mariées à la date du rapatriement ;
+
+- les membres de la famille des militaires de carrière originaires d'outre-mer dont le chef décède en
+métropole pendant sa présence sous les drapeaux.
+1.2. PIÈCES JUSTIFICATIVES À PRODUIRE :
+- une fiche familiale d'état civil ;
+- un certificat visé par le maire de la commune faisant apparaître que le militaire est bien originaire du
+territoire considéré.
+1.3. DÉLAI PENDANT LEQUEL LES MILITAIRES PEUVENT ÊTRE RAPATRIÉS AUX FRAIS DE
+L'ETAT.
+ 1.3.1. Militaires de carrière.
+Les militaires français originaires des départements et territoires d'outre-mer, libérés en métropole, peuvent
+demander leur rapatriement aux frais de l'Etat dans un délai de cinq ans suivant la date de leur libération [cf. 
+décret 63-751 du 25 juillet 1963 BO/A, p. 1608)].
+Le rapatriement de la famille doit s'effectuer en même temps que celui du chef de famille.
+Toutefois des dérogations pourront exceptionnellement être admises en faveur des enfants de ces militaires :
+- effectuant en France des études qu'ils ne pourraient poursuivre dans le département, territoire ou
+pays d'origine du chef de famille ;
+- malades ou infirmes dont l'état de santé interdit le rapatriement immédiat.
+Le report des droits à rapatriement des enfants se trouvant dans ces conditions, devra être demandé par les
+chefs de famille intéressés, en même temps qu'ils formuleront leur demande de concession de passage à titre
+définitif.
+Les décisions de réservation des droits seront accordées sur production de pièces justificatives indiscutables
+lesquelles seront jointes aux dossiers.
+Ces décisions ne pourront avoir pour effet de reporter les droits au-delà de la date à laquelle ces enfants
+cesseront d'être à la charge du chef de famille au sens prévu par la législation sur les prestations familiales.
+ 1.3.2. Militaires appelés sous les drapeaux.
+a). Les jeunes gens incorporés dans les départements et territoires d'outre-mer dont l'unité
+d'affectation est stationnée en métropole ou qui ont effectué leur service militaire en métropole
+peuvent, s'ils le souhaitent, être libérés sur le territoire métropolitain. Ils reçoivent dans ce cas un titre
+de transport gratuit à la destination de la commune métropolitaine de leur choix.
+Ils conservent pendant cinq ans le droit d'être rapatriés aux frais de l'Etat conformément aux
+dispositions du décret 63-751 du 25 juillet 1963 (BO/A, p. 1608).
+La demande de rapatriement (concession de passage) doit être déposée dans les conditions définies
+par l'article 1.4 ci-après.
+b). Les militaires appelés ne désirant pas bénéficier des dispositions ci-dessus doivent être rapatriés
+sur leur territoire d'origine, dès leur libération.
+1.4. DÉPÔT DES DEMANDES DE RAPATRIEMENT.
+
+Deux mois au moins avant la date prévue de radiation des contrôles, le commandant de la base aérienne doit
+obligatoirement inviter les militaires susceptibles de bénéficier d'un rapatriement à déposer leur demande de
+concession de passage à laquelle seront joints les documents prévus au paragraphe 1.2.
+Le commandant de la base aérienne adresse aussitôt directement à la direction du commissariat de l'air (dont
+relève la base aérienne) (ou au service administratif du commissariat de l'air en ce qui concerne la base
+aérienne 117) un état individuel en deux exemplaires (du modèle joint) auquel sont annexés la demande du
+militaire et les pièces justificatives.
+1.5. AUTORITÉS HABILITÉES À SIGNER LES DÉCISION ACCORDANT LES CONCESSIONS DE
+PASSAGE.
+La décision (du modèle joint) accordant la concession de passage est signée par le directeur du commissariat
+de l'air. Elle est adressée au commandant de la base aérienne pour remise au militaire intéressé, ainsi qu'à la
+base transit Air 250, 5, avenue de la Porte-de-Sèvres à Paris (15e). Copie de ce document est transmise à la
+DPMAA et au SACA 875 (date de prise d'effet pour la signature de ces documents : 1er juillet 1971).
+1.6. TRANSPORT DES BAGAGES.
+Les militaires originaires d'outre-mer qui se retirent dans leur territoire d'origine peuvent faire transporter, aux
+frais de l'Etat, des bagages, à l'exclusion de tout objet mobilier, dont le poids est fixé par le décret du 3 juillet
+1897 modifié (art. 39), étant précisé que dans le poids accordé est compris celui de l'emballage utilisé.
+1.7. PRÉCISIONS COMPLÉMENTAIRES.
+Le rapatriement, qu'il soit immédiat ou différé, comporte uniquement la gratuité du passage par la voie
+maritime ou la voie aérienne et ce dans la classe à laquelle l'intéressé et sa famille pouvaient prétendre au jour
+de la radiation des contrôles du militaires. Aucune autre indemnité ne doit être servie aux intéressés et à leur
+famille à cette occasion.
+CHAPITRE II.
+RETOUR DÉFINITIF DANS LE TERRITOIRE ÉTRANGER D'ORIGINE. (3)
+(Modifié : 1er mod. du 6 juin 1972 ; 2e mod. du 10 avril 1974 ; 3e mod. du 4 août 1976.)
+2.1. AYANTS DROITS AU RAPATRIMENT AUX FRAIS DE L'ETAT :
+- les militaires résidant à l'étranger de façon effective (à l'âge de 18 ans) et ayant continué d'y résider
+de façon habituelle jusqu'au moment de leur appel sous les drapeaux, qui ont renoncé à la dispense
+des obligations d'activité du service national et demandent à être transportés sur le pays d'où ils sont
+venus pour satisfaire à leurs obligations légales ;
+- les militaires dont les parents ont changé de résidence pour se transporter à l'étranger, au cours de
+leur présence sous les drapeaux, et qui demandent à se retirer auprès d'eux ;
+- les militaires de carrière (y compris les engagés, rengagés, commissionnés) libérés sur le territoire
+métropolitain de la France ;
+- les membres de la famille de ces militaires (épouse et enfants) en ce qui concerne les rapatriements à
+destination des Etas africains et malgache, de l'ex-communauté du Togo, du Cameroun, du Laos, du
+Cambodge, du Vietnam, de l'Inde, de la Syrie, du Liban et de l'Afrique du Nord. La situation de
+famille à prendre en considération est celle qui existe au jour de la radiation des contrôles du militaire.
+Pour bénéficier du transport, aux frais de l'Etat, les fils doivent être mineurs et non mariés et les filles
+non mariées à la date du rapatriement ;
+
+- les membres de la famille des militaires de carrière dont le chef de famille décède en métropole
+pendant sa présence sous les drapeaux.
+2.2. NOTION DE RÉSIDENCE EFFECTIVE ET HABITUELLE À L'ÉTRANGER.
+ a) Résidence effective.
+La résidence dans un pays étranger est considérée comme effective, lorsque les jeunes gens demeurent
+eux-mêmes dans ce pays à l'âge de 18 ans, quel que soit le lieu d'établissement de leurs parents ou tuteur.
+ b) Résidence habituelle.
+La résidence à l'étranger est considérée comme habituelle, si les jeunes gens y poursuivent des études ou y
+exercent leur principale activité professionnelle. Les absences temporaires, notamment à l'occasion des
+vacances scolaires ou de missions professionnelles d'une durée maximum de trois mois par an, ne modifient
+pas le caractère habituel de cette résidence.
+2.3. CATÉGORIES DE FRANÇAIS DISPENSÉS DES OBLIGATIONS D'ACTIVITÉ DU SERVICE
+NATIONAL.
+Les Français qui résident de manière permanente à l'étranger :
+- au moment de l'appel de la fraction de la classe à laquelle ils appartiennent, en raison de leur âge ;
+- à la date à laquelle ils ont acquis la nationalité française,
+sont dispensés des obligations d'activité du service national, sauf s'ils résident dans les territoires européens
+relevant des Etats ou pays énumérés ci-dessous :
+Allemagne fédérale, Autriche, Belgique, Danemark, Espagne, Grande-Bretagne, Irlande, Italie, Lichtenstein,
+Luxembourg, Monaco, Pays-Bas, Portugal, Saint-Marin, Suisse, Vatican, Vallée d'Andorre.
+2.4. PIÈCES JUSTIFICATIVES À PRODUIRE.
+ 2.4.1. En ce qui concerne les appelés résidant de façon effective et habituelle à l'étranger : une attestation
+relative à la résidence effective et habituelle à l'étranger, délivrée par l'ambassade ou le consulat de France du
+pays considéré.
+ 2.4.2. En ce qui concerne les appelés dont les parents ont changé de résidence pour se rendre à l'étranger
+pendant leur présence sous les drapeaux : une attestation établie par l'ambassade ou le consulat de France du
+pays considéré faisant apparaître que les parents du militaire en cause se sont fixés d'une façon définitive dans
+ce pays.
+ 2.4.3. En ce qui concerne les militaires de carrière, engagés, rengagés, commissionnés :
+- une fiche familiale d'état civil ;
+- un certificat visé par l'autorité civile locale ou par le consulat faisant apparaître que le militaire est
+bien originaire du pays considéré.
+2.5. DÉLAI PENDANT LEQUEL LES MILITAIRES PEUVENT ÊTRE RAPATRIÉS AUX FRAIS DE
+L'ETAT SUR LE PAYS D'OÙ ILS SONT VENUS.
+Ces militaires disposent d'un délai de six mois à compter de la date de leur libération pour rejoindre le pays
+considéré aux frais de l'Etat (cf. décret du 12 juin 1980, art. 80).
+
+Le rapatriement de la famille doit s'effectuer en même temps que celui du chef de famille.
+Toutefois, des dérogations pourront exceptionnellement être admises en faveur des enfants de ces militaires :
+- effectuant en France des études qu'ils ne pourraient poursuivre dans le département, territoire ou
+pays d'origine du chef de famille ;
+- malades ou infirmes dont l'état de santé interdit le rapatriement immédiat.
+Le report des droits à rapatriement des enfants se trouvant dans ces conditions devra être demandé par les
+chefs de famille intéressés, en même temps qu'ils formuleront leur demande de concession de passage à titre
+définitif.
+Les décisions de réservation des droits seront accordées sur production de pièces justificatives indiscutables
+lesquelles seront jointes aux dossiers.
+Ces décisions ne pourront avoir pour effet de reporter les droits au-delà de la date à laquelle ces enfants
+cesseront d'être à la charge du chef de famille au sens prévu par la législation sur les prestations familiales.
+2.6. DÉPÔT DES DEMANDES DE RAPATRIEMENT.
+Deux mois au moins avant la date prévue de radiation des contrôles, le commandant de la base aérienne doit
+obligatoirement inviter les militaires susceptibles de bénéficier d'un rapatriement à déposer leur demande de
+concession de passage à laquelle seront joints les documents prévus au paragraphe 2.4.
+Le commandant de la base aérienne adresse aussitôt, pour décision, directement à la direction du commissariat
+de l'air dont relève la base aérienne (ou au service administratif du commissariat de l'air en ce qui concerne la
+base aérienne 117) un état individuel en deux exemplaires (du modèle joint) auquel sont annexées la demande
+du militaire et les pièces justificatives.
+2.7. AUTORITÉS HABILITÉES À SIGNER LES DÉCISIONS ACCORDANT LE PASSAGE.
+La décision (du modèle joint) accordant la concession de passage est signée par le directeur du commissariat
+de l'air. Elle est adressée au commandant de la base aérienne pour remise au militaire intéressé ainsi qu'à la
+base transit Air 250, 5, avenue de la Porte-de-Sèvres à Paris (15e). Copie de ce document est transmise à la
+DPMAA et au SACA 875 (date de prise d'effet pour la signature de ces documents : 1er juillet 1971).
+2.8. APPELÉS RÉSIDANT À L'ÉTRANGER DE FAÇON EFFECTIVE ET HABITUELLE, NON
+DISPENSÉS DU SERVICE NATIONAL QUI REJOIGNENT LEUR PAYS PAR VOIE FERRÉE.
+Les jeunes gens libérés du service qui rejoignent par voie ferrée le pays étranger d'où ils sont venus pour
+satisfaire à leurs obligations militaires perçoivent à leur départ du corps les indemnités fixées par le décret du
+12 juin 1908 (art. 81), à savoir :
+- indemnités de déplacement décomptées pour le parcours du lieu de garnison à la frontière ;
+- indemnité égale au prix du transport sur les chemins de fer étrangers, ainsi que les indemnités
+journalières pour les journées de voyage et de séjour obligé à l'étranger.
+Ces indemnités sont réglées aux intéressés par les officiers trésoriers, sans constitution préalable de dossiers,
+dès lors que la preuve est faite quant à la résidence.
+2.9. DÉLIVRANCE DES PASSEPORTS.
+Les autorités militaires doivent munir de passeports, avant leur départ, les hommes du rang qui doivent être
+rapatriés, aux frais de l'Etat, dans un pays où la production du passeport est exigée.
+
+2.10. TRANSPORT DES BAGAGES ET DU MOBILIER.
+Les militaires de carrière originaires des territoires placés précédemment sous mandat français (Etats africains
+et malgache de l'ex-communauté, Togo, Cameroun, Laos, Cambodge, Vietnam, Inde, Syrie, Liban), qui se
+retirent dans leur territoire d'origine peuvent faire transporter, aux frais de l'Etat, leurs bagages à l'exclusion de
+tout objet mobilier dans la limite du poids fixée par le décret du 3 juillet 1897 modifié (art. 39).
+Les militaires de carrière originaires de l'Algérie, de la Tunisie et du Maroc, qui se retirent dans leur territoire
+d'origine, peuvent faire transporter leur mobilier aux frais de l'Etat dans les conditions fixées par le décret no
+54-213 du 1er mars 1954 (BO/A, p. 318) après autorisation du ministre.
+2.11. PRÉCISIONS COMPLÉMENTAIRES.
+Les jeunes gens ne résidant pas de façon effective et habituelle à l'étranger doivent, pour répondre à leur ordre
+d'appel sous les drapeaux, acquitter le prix du billet de passage sur le trajet « étranger-France ».
+Ils ne peuvent, en aucun cas, bénéficier du rapatriement aux frais de l'Etat sur le pays étranger d'où ils sont
+venus pour accomplir leurs obligations légales.
+La présente circulaire est exclusivement applicable aux mouvements entre la France et l'étranger ou les
+départements et les territoires d'outre-mer.
+Il n'est rien modifié aux errements actuels, en ce qui concerne les rapatriements des militaires et de leur
+famille effectués à partir des départements ou des territoires d'outre-mer.
+Pour le ministre et par délégation :
+Le commissaire général inspecteur, directeur central du commissariat de l'air,
+DAUME.
+(1) Martinique, Guadeloupe, Guyane, Réunion.
+(2) Comores, Groupe du Pacifique, Saint-Pierre-et-Miquelon.
+(3) Y compris les originaires des Etats africains et malgache, de l'ex-communauté, du Togo, du Cameroun, du Laos, du
+Cambodge, du Vietnam, de l'Inde, de la Syrie, du Liban et de l'Afrique du Nord.
+
+ANNEXE
+Direction du commissariat de l'air.
+Figure 1. DECISION
+
+ANNEXE
+Base aérienne no … à …
+Figure 2. ETAT INDIVIDUEL
