@@ -1,0 +1,9 @@
+# Réponse à la question SEQ150415913
+
+- Question : [SEQ150415913](seq150415913.md) — Porte-drapeaux
+
+## Réponse
+
+*Anciens combattants et mémoire, JO du 2015-07-02, page 1571*
+
+Le secrétaire d'État chargé des anciens combattants et de la mémoire est parfaitement conscient du dévouement dont font preuve les porte-drapeaux. Leur présence est en effet essentielle lors des cérémonies patriotiques et donc pour l'expression du devoir de mémoire dont ils sont un des symboles les plus forts. Comme le rappelle l'honorable parlementaire, depuis 1961, l'Office national des anciens combattants et victimes de guerre délivre un diplôme d'honneur et un insigne de porte-drapeau en reconnaissance des services accomplis par les bénévoles lors des manifestations patriotiques. L'arrêté du 13 octobre 2006 relatif aux diplômes d'honneur de porte-drapeau a modifié les conditions d'attribution de ce diplôme et depuis, chaque porte-drapeau peut l'obtenir avec l'insigne correspondant après trois, dix, vingt et trente années de service, et non plus seulement après trois ans de services comme il était prévu auparavant. C'est ainsi que le titulaire du diplôme d'honneur de porte-drapeau est autorisé aujourd'hui à porter cet insigne qui se décline en quatre modèles selon la durée de ses services : simple, avec étoile argentée, étoile dorée ou palme argentée pour, respectivement, trois, dix, vingt et trente années de service. Pour autant, le secrétaire d'État suit avec une particulière attention la situation des porte-drapeaux des associations d'anciens combattants au regard de la reconnaissance qui leur est due. Ainsi, la question de la création d'un nouvel insigne de porte-drapeau avec palme dorée pour quarante et cinquante années de service sera soumise à l'avis des membres de la commission nationale du diplôme d'honneur de porte-drapeau qui se réunira en octobre 2015.
