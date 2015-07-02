@@ -1,0 +1,98 @@
+# CIRCULAIRE NA?A 35/DEF/CMa/2 relative au paiement des indemnit??s de vivres aux permissionnaires b??n??ficiaires de la solde sp??ciale progressive.
+
+- État : abrogée (au 2015-07-02)
+- NOR : BODEF25036
+- Numéro : BODEF25036
+- Date de signature : 1979-01-29
+- Mise en ligne : 2009-04-29
+- Signataire : Pour le ministre de la d??fense et par d??l??gation :Le commissaire g??n??ral, directeur central du commissaire de la marine,DE SAINT-STEBAN.  Pour le ministre de la d??fense et par d??l??gation :  Pour le ministre de la d??fense et par d??l??gation :  Le commissaire g??n??ral, directeur central du commissaire de la marine,  Le commissaire g??n??ral, directeur central du commissaire de la marine,  Le commissaire g??n??ral, directeur central du commissaire de la marine,   DE SAINT-STEBAN.  DE SAINT-STEBAN.
+- Ministères : 4
+- Domaines : Défense
+- Mots-clés : ; Administration et comptabilit?? int??rieures des formations, unit??s, corps de troupe. Enseignement militaireA : instruction, ??coles, cours et stages, brevets et certificats.Administration et comptabilit?? int??rieures des unit??s de la marine.Alimentation dans la marine.Administration et comptabilit?? des vivres dans les unit??s.
+- Publication JO / BO : BOC, p.A 239.
+- Annexes : 0
+- Identifiant : 5774 (PDF officiel : pdf/2009/04/cir_5774.pdf)
+
+## Résumé
+
+La m??daille de la d??fense nationale peut ??tre d??cern??e ?  titre exceptionnel ?  l'un quelconque des trois ??chelonsA :dans un d??lai d'un mois au personnel militaire d'active, de la r??serve op??rationnelle et citoyenne, tu?? ou bless?? dans l'accomplissement de leur devoir, sous r??serve que leur responsabilit?? ne soit pas engag??e dans l'accident cause du d??c?ss ou de la blessureA ;une seule fois, sans condition de points au personnel militaire d'active, de la r??serve op??rationnelle et citoyenne, qui fait preuve d'un dynamisme, d'un d??vouement et d'une efficacit?? remarquables dans sa fonctionA ;pour des actions d'??clat ayant n??cessit?? des qualit??s particuli?sres de courage et d'abn??gationA ;pour des missions comportant des risques ?  caract?sre exceptionnel.Le personnel militaire d'active et de la r??serve op??rationnelle ayant b??n??fici?? d'une attribution de la m??daille ?  titre exceptionnel, conserve la moiti?? des points ant??rieurs, r??ellement acquis, pour concourir ?  titre normal pour l'??chelon suivant.Par ailleurs, la m??daille d'or de la d??fense nationale peut ??tre attribu??e directement, sans condition d'anciennet?? et de points, au personnel militaire d'active, de la r??serve op??rationnelle et citoyenne qui s'est distingu?? ?  l'occasion d'une action comportant un risque aggrav?? et s'est vu r??compens?? par une citation individuelle sans croix, d??livr??e par le ministre de la d??fense ou, par d??l??gation, par le chef d'??tat-major des arm??es, les chefs d'??tat-major d'arm??e ou les directeurs g??n??raux (gendarmerie nationale et s??curit?? ext??rieure).Par d??rogation ?  l'article 15 de l'instruction de r??f??rence, le personnel d??j?  titulaire soit d'un grade ou d'une dignit?? dans l'un des ordres nationaux, soit de la m??daille militaire peut se voir d??cerner cette m??daille d'or sur laquelle sera port??e la palme ou l'??toile correspondant au niveau de la citation.  La m??daille de la d??fense nationale peut ??tre d??cern??e ?  titre exceptionnel ?  l'un quelconque des trois ??chelonsA :  La m??daille de la d??fense nationale peut ??tre d??cern??e ?  titre exceptionnel ?  l'un quelconque des trois ??chelonsA :  dans un d??lai d'un mois au personnel militaire d'active, de la r??serve op??rationnelle et citoyenne, tu?? ou bless?? dans l'accomplissement de leur devoir, sous r??serve que leur responsabilit?? ne soit pas engag??e dans l'accident cause du d??c?ss ou de la blessureA ;une seule fois, sans condition de points au personnel militaire d'active, de la r??serve op??rationnelle et citoyenne, qui fait preuve d'un dynamisme, d'un d??vouement et d'une efficacit?? remarquables dans sa fonctionA ;pour des actions d'??clat ayant n??cessit?? des qualit??s particuli?sres de courage et d'abn??gationA ;pour des missions comportant des risques ?  caract?sre exceptionnel.  dans un d??lai d'un mois au personnel militaire d'active, de la r??serve op??rationnelle et citoyenne, tu?? ou bless?? dans l'accomplisseme
+
+## Texte
+
+BULLETIN OFFICIEL DES ARMEES
+Edition Chronologique
+PARTIE PERMANENTE
+Marine nationale
+CIRCULAIRE N° 35/DEF/CMa/2
+relative au paiement des indemnités de vivres aux permissionnaires bénéficiaires de la solde spéciale progressive.
+Du 29 janvier 1979
+
+DIRECTION CENTRALE DU COMMISSARIAT DE LA MARINE : Bureau des subsistances.
+CIRCULAIRE N° 35/DEF/CMa/2 relative au paiement des indemnités de vivres aux permissionnaires
+bénéficiaires de la solde spéciale progressive.
+Du 29 janvier 1979
+Références :
+Arrêté du 04 décembre 1946 , article 48 (1).
+Instruction du 04 décembre 1946 article 32, 33, 59, 62 et 70 (BOC, 1978, p. 4735).
+Classement dans l'édition méthodique : BOEM 714-0.2.
+Référence de publication : BOC, p. 239.
+En application des dispositions de l' arrêté du 04 décembre 1946 , le personnel à solde spéciale progressive «
+titulaire d'une permission autre qu'une permission de courte durée ou d'un congé autre que le congé
+exceptionnel pour convenances personnelles » bénéficie de l'indemnité de vivres payés.
+Les paiements des indemnités ainsi acquises constituent pour les unités métropolitaines, qui en assurent le
+plus grand nombre, une charge assez lourde et la présente circulaire a pour objet de définir les conditions dans
+lesquelles une partie de ces paiements sera désormais confiée au centre mécanographique du commissariat
+(CMC/CMAS).
+1. CHAMP D'APPLICATION.
+La réforme ne concerne que le personnel à solde spéciale progressive administré par une unité de France et
+percevant la solde de métropole et ne vise que les permissions de longue durée dont les droits sont fixés
+annuellement, c'est-à-dire accordées au titre du crédit de base (art. 1.1.1, § A de l'instruction no
+1770/DEF/EMA/OL/EP/2 du 28 octobre 1976) (A).
+En conséquence, les unités métropolitaines conserveront la charge du paiement des indemnités de vivres dues
+au titre des permissions d'éloignement, des permissions pour événements familiaux et des congés.
+Les unités outre-mer continueront à payer la totalité des indemnités de vivres aux permissionnaires acquises
+par le personnel qu'elles administrent.
+2. MODALITÉS DE DÉCOMPTE.
+Le CMC/CMAS paiera chaque mois au personnel visé au paragraphe précédent, sans intervention des unités,
+la valeur de 5 jours (2) d'indemnités de vivres sur la base du taux d'indemnité de vivres fixé chaque trimestre
+par le département (art. 32 de l'instruction de référence).
+Les indemnités créditées apparaîtront au bulletin de solde sous le libellé « VIVR » et seront comprises dans le
+« net à payer ».
+3. CAS PARTICULIERS.
+ 3.1. Bâtiments affectés outre-mer ou en mission.
+a). Les indemnités de vivres payées au personnel embarqué sur un bâtiment affecté outre-mer qui
+acquiert momentanément le régime de solde des bâtiments navigant à l'extérieur seront considérées
+
+comme des avances qui seront régularisées par l'unité lors du paiement des indemnités acquises au
+titre du congé de fin de campagne (3). Toutefois, dans l'éventualité d'un séjour prolongé du bâtiment
+en France (cas d'une IPER notamment) les indemnités payées resteront définitivement acquises, cette
+période n'étant pas réglementairement prise en compte pour la détermination de la durée du congé.
+b). Les indemnités de vivres dues au personnel embarqué sur un bâtiment de métropole en mission
+outre-mer et bénéficiaire d'un régime de solde autre que celui de métropole ne seront pas créditées par
+le CMC mais devront être payées par l'unité, à l'issue de la mission, sur les bases définies au
+paragraphe 2.
+c). Les indemnités de vivres du personnel embarqué sur le porte-hélicoptères Jeanne d'Arc et sa
+conserve seront régulièrement payées par le CMC.
+ 3.2. Congés de fin de campagne.
+Les indemnités de vivres acquises au titre des congés de fin de campagne seront payées par les unités
+conformément aux dispositions du paragraphe 1. Mais les indemnités dues pour les permissions acquises
+pendant les congés de fin de campagne seront payées par le CMC ; il s'agit en effet de permissions accordées
+au titre du crédit de base, qui ne sont pas comprises dans le congé de fin de campagne et font l'objet d'une
+comptabilité et d'un titre séparés ( inst. 2013 /DEF/DPMM/2/A du 06 juin 1977 , § 5.3, BOC, p. 1812).
+4. DATE D'APPLICATION.
+Les dispositions de la présente circulaire sont applicables aux permissions dont les droits annuels seront
+exercés à partir du 1er janvier 1979.
+En conséquence, les indemnités acquises entre le 1er janvier 1979 et le 1er mars 1979 au titre du reliquat de
+permissions de l'année 1978 seront payées par les unités.
+Mention de la présente circulaire sera portée en regard des articles 59, 62 et 70 de l' instruction du 04
+décembre 1946 (qui feront l'objet d'une modification ultérieure).
+Pour le ministre de la défense et par délégation :
+Le commissaire général, directeur central du commissaire de la marine,
+DE SAINT-STEBAN.
+(1) BO/M, 1947/1, p. 883.
+(A) Abrogée. En dernier lieu se reporter à l' instruction 20840 /DEF/DAJ/FM/1 du 13 juillet 1983 (BOC, p. 3272) modifiée.
+(2) Ce nombre de jours tient compte des jours non déduits qui commencent ou terminent les permissions.
+(3) Il en sera de même des indemnités de vivres payées par le CMC au personnel originaire d'outre-mer et affecté en
+métropole lorsque celui-ci est autorisé à cumuler ses permissions annuelles pour en bénéficier dans son département ou
+
+territoire d'origine.
