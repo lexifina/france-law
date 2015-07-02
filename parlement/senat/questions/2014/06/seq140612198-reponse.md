@@ -1,0 +1,9 @@
+# Réponse à la question SEQ140612198
+
+- Question : [SEQ140612198](seq140612198.md) — Réforme territoriale : devenir des associations départementales de développement de la musique et de la danse
+
+## Réponse
+
+*Culture et communication, JO du 2015-07-02, page 1576*
+
+Lieux d'expérimentations et d'innovation, les collectivités territoriales sont les partenaires incontournables de l'État dans la mise en œuvre d'une politique culturelle nationale qui porte la même exigence artistique et démocratique pour tous sur l'ensemble du territoire. Le projet de loi relatif à la nouvelle organisation territoriale de la République reconnaît la culture comme compétence partagée entre les communes, les départements, les régions et les collectivités à statut particulier. Par conséquent, est reconnue la responsabilité commune de l'État et des collectivités territoriales pour consolider les acquis des politiques culturelles passées et se projeter vers l'avenir. Concernant le niveau d'intervention publique le plus pertinent, l'État s'est toujours attaché à travailler avec l'ensemble des collectivités. Par l'élaboration de conventionnements, il encourage les collectivités à s'engager prioritairement sur les projets artistiques et culturels de manière pluriannuelle et pluri-partenariale. Chargée d'accompagner le développement des activités culturelles et artistiques dans le domaine de la musique et la danse sur le département de l'Aisne, l'association pour le développement des activités musicales de l'Aisne (ADAMA) constitue un lieu de ressource et d'information concernant les activités culturelles et artistiques du département. Elle soutient également de façon remarquable la diffusion ainsi que la création sur le territoire. Elle constitue de fait un partenaire essentiel de la direction régionale des affaires culturelles dans la construction d'une politique musicale exigeante à destination de l'ensemble de la population du département.
