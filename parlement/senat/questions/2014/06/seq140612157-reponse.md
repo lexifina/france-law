@@ -1,0 +1,9 @@
+# Réponse à la question SEQ140612157
+
+- Question : [SEQ140612157](seq140612157.md) — Réforme territoriale : soutien des chorales
+
+## Réponse
+
+*Culture et communication, JO du 2015-07-02, page 1575*
+
+Lieux d'expérimentations et d'innovation, les collectivités territoriales sont les partenaires incontournables de l'État dans la mise en œuvre d'une politique culturelle nationale qui porte la même exigence artistique et démocratique pour tous sur l'ensemble du territoire. Le projet de loi relatif à la nouvelle organisation territoriale de la République reconnaît la culture comme compétence partagée entre les communes, les départements, les régions et les collectivités à statut particulier. Par conséquent, est reconnue la responsabilité commune de l'État et des collectivités territoriales pour consolider les acquis des politiques culturelles passées et se projeter vers l'avenir. Concernant le niveau d'intervention publique le plus pertinent, l'État s'est toujours attaché à travailler avec l'ensemble des collectivités. Par l'élaboration de conventionnements, il encourage les collectivités à s'engager prioritairement sur les projets artistiques et culturels de manière pluriannuelle et pluri-partenariale. Le soutien aux pratiques artistiques et culturelles des amateurs constitue un enjeu majeur du développement culturel des territoires et du renouvellement artistique. Levier de démocratisation dans l'accès à l'art et à la culture, ce soutien s'inscrit pleinement dans le cadre général du plan pour le développement de l'éducation artistique et culturelle mis en œuvre par le ministère de la culture et de la communication. Le ministère de la culture et de la communication partage de ce fait la responsabilité de cette politique avec les autres ministères concernés, ainsi qu'avec les collectivités territoriales.
