@@ -638,34 +638,10 @@ Article R. 617-28 du code rural et de la pêche maritime.
 
 |
 
-Décisions d'autorisations de mise sur le marché, permis de commerce parallèle et d'expérimentation des produits phytopharmaceutiques et adjuvants vendus seuls ou en mélange et décisions faisant suite à une demande de modification, de renouvellement ou de retrait de ces autorisations et permis, y compris pour les produits phytopharmaceutiques composés en tout ou partie d'organismes génétiquement modifiés.
-
-|
-
-Décisions mentionnées à l'article R. 253-5 du code rural et de la pêche maritime.
-
-|
-
-Autorisation de reconditionnement des produits faisant l'objet d'un permis de commerce parallèle.
-
-|
-
-Décisions mentionnées à l'article R. 253-28 du code rural et de la pêche maritime.
-
-|
-
-Acceptation des demandes de confidentialité des données.
+Acceptation des demandes de confidentialité des données relatives aux substances actives, aux phytoprotecteurs et aux synergistes.
 
 |
 
 Décisions mentionnées à l'article R. 253-34 du code rural et de la pêche maritime.
-
-|
-
-Agrément des personnes réalisant des essais officiellement reconnus.
-
-|
-
-Décisions mentionnées à l'article R. 253-38 du code rural et de la pêche maritime.
 
 |
