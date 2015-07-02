@@ -1,0 +1,9 @@
+# Réponse à la question SEQ140612135
+
+- Question : [SEQ140612135](seq140612135.md) — Réforme territoriale : devenir du soutien aux manifestations culturelles
+
+## Réponse
+
+*Culture et communication, JO du 2015-07-02, page 1575*
+
+Lieux d'expérimentations et d'innovation, les collectivités territoriales sont les partenaires incontournables de l'État dans la mise en œuvre d'une politique culturelle nationale qui porte la même exigence artistique et démocratique pour tous sur l'ensemble du territoire. Le projet de loi relative à la nouvelle organisation territoriale de la République reconnaît la culture comme compétence partagée entre les communes, les départements, les régions et les collectivités à statut particulier. Par conséquent, est reconnue la responsabilité commune de l'État et des collectivités territoriales pour consolider les acquis des politiques culturelles passées et se projeter vers l'avenir. Concernant le niveau d'intervention publique le plus pertinent, l'État s'est toujours attaché à travailler avec l'ensemble des collectivités. Par l'élaboration de conventionnements, il encourage les collectivités à s'engager prioritairement sur les projets artistiques et culturels de manière pluriannuelle et pluri-partenariale. Le soutien aux manifestations culturelles, événements participant au vivre ensemble et donnant une image positive et dynamique des territoires constitue un élément important du développement culturel. Ces manifestations innovantes et structurantes pour le territoire favorisent les partenariats et s'inscrivent donc parfaitement dans le principe de responsabilité partagée entre les collectivités pour le développement et l'attractivité des territoires. Selon la nature, la qualité et le rayonnement national des manifestations, l'État peut être amené à les soutenir.
