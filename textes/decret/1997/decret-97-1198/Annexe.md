@@ -892,40 +892,6 @@ Article R. 321-11
 
 |
 
-Décret n° 2001-386 du 3 mai 2001 relatif aux équipements sous pression transportables et pris pour l'application du 1° de l'article 2 du décret n° 97-34 du 15 janvier 1997 relatif à la déconcentration des décisions administratives individuelles
-
-1
-
-|
-
-Interdiction ou restriction de mise sur le marché, de transport ou d'utilisation d'équipements dangereux, ainsi que leur retrait.
-
-|
-
-Articles 24-1,24-2,24-3 et 24-4
-
-|
-
-|
-
-Prescription de conditions particulières de construction, de vérification, d'entretien ou d'utilisation d'équipements dangereux (récipients et citernes).
-
-|
-
-|
-
-2
-
-|
-
-Habilitation des organismes de contrôle ainsi que leur suspension ou retrait (récipients et citernes).
-
-|
-
-Articles 22 et 24-7.
-
-|
-
 Décret n° 2003-425 du 9 mai 2003 relatif à la sécurité des transports publics guidés
 
 1
@@ -2162,6 +2128,26 @@ Article R. 224-12.
 
 |
 
+2 |
+
+Autorisation de mise à disposition sur le marché, de stockage en vue de mise à disposition sur le marché, d'installation, de mise en service, d'utilisation, d'importation ou de transfert de certains produits et équipements
+
+|
+
+Article R. 557-1-2
+
+|
+
+3 |
+
+Délivrance de l'habilitation aux organismes mentionnés à l'article L. 557-31
+
+|
+
+Article R. 557-4-1
+
+|
+
 Décret du 2 avril 1926 modifié portant règlement sur les appareils à vapeur autres que ceux placés à bord des bateaux
 
 1
@@ -2185,32 +2171,6 @@ Retrait du marché de produits dangereux
 |
 
 Article 45-1.
-
-|
-
-Décret n° 43-63 du 18 janvier 1943 modifié portant règlement sur les appareils à pression de gaz
-
-1
-
-|
-
-Retrait du marché d'appareils ou de produits dangereux
-
-|
-
-Article 8.
-
-|
-
-2
-
-|
-
-Agrément d'organismes de contrôle intervenant dans le domaine de la sécurité industrielle (appareils à pression)
-
-|
-
-Article 6 bis.
 
 |
 
