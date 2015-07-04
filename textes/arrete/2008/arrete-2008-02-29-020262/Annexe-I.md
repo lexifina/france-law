@@ -18,7 +18,7 @@ Ces contrôles ont pour objet de vérifier la conformité de l'installation aux 
 
 Les prescriptions dont le non-respect constitue une non-conformité majeure entraînant l'information du préfet dans les conditions prévues à l'article R. 512-59-1 sont repérées dans la présente annexe par la mention : " le non-respect de ce point relève d'une non-conformité majeure ".
 
-L'exploitant conserve le rapport de visite que l'organisme agréé lui adresse dans le dossier installations classées prévu au point 1.4. Si le rapport fait apparaître des non-conformités aux dispositions faisant l'objet du contrôle, l'exploitant met en oeuvre les actions correctives nécessaires pour y remédier. Ces actions ainsi que leurs dates de mise en oeuvre sont formalisées et conservées dans le dossier susmentionné.
+L'exploitant conserve le rapport de visite que l'organisme agréé lui adresse dans le dossier installations classées prévu au point 1.4. Si le rapport fait apparaître des non-conformités aux dispositions faisant l'objet du contrôle, l'exploitant met en œuvre les actions correctives nécessaires pour y remédier. Ces actions ainsi que leurs dates de mise en œuvre sont formalisées et conservées dans le dossier susmentionné.
 
 1.2. Modifications
 
@@ -218,7 +218,7 @@ Les caniveaux servant à l'évacuation d'eau ne sont pas utilisés pour le passa
 
 Le tableau général de distribution de chaque installation électrique comporte des dispositifs permettant de couper, en cas d'urgence, l'alimentation électrique de chaque bâtiment desservi, séparément ou par groupes.
 
-L'alimentation électrique de chaque local pyrotechnique peut être coupée par la manoeuvre d'un organe de commande situé à proximité et à l'extérieur du local. Cet organe est aisément reconnaissable et facilement accessible. S'il s'agit d'un dispositif de commande à distance, il est conforme aux règles définies par le paragraphe 537-2 de la norme française NF C 15-100.
+L'alimentation électrique de chaque local pyrotechnique peut être coupée par la manœuvre d'un organe de commande situé à proximité et à l'extérieur du local. Cet organe est aisément reconnaissable et facilement accessible. S'il s'agit d'un dispositif de commande à distance, il est conforme aux règles définies par le paragraphe 537-2 de la norme française NF C 15-100.
 
 Le trajet des canalisations enterrées est repéré en surface par des bornes ou des marques spéciales ; les repères permettent en outre une identification facile des câbles enterrés.
 
@@ -294,7 +294,7 @@ Objet du contrôle :
 
 2.11. Isolement du réseau de collecte
 
-Des dispositifs permettant l'obturation des réseaux d'évacuation des eaux de ruissellement sont implantés afin de maintenir sur le site les eaux d'extinction d'un sinistre. Une consigne définit les modalités de mise en oeuvre de ces dispositifs.
+Des dispositifs permettant l'obturation des réseaux d'évacuation des eaux de ruissellement sont implantés afin de maintenir sur le site les eaux d'extinction d'un sinistre. Une consigne définit les modalités de mise en œuvre de ces dispositifs.
 
 Les caniveaux et gaines d'évacuation intérieurs ou extérieurs aux bâtiments sont aménagés de manière à éviter toute transmission d'explosion ou d'incendie et permettre sur toute leur longueur un entretien facile. Ils sont équipés d'un dispositif efficace de rétention placé autant que possible à l'extérieur du bâtiment et à proximité immédiate. Ce dispositif est facilement accessible et fréquemment nettoyé.
 
@@ -350,7 +350,7 @@ Les emballages dégradés sont immédiatement retirés du dépôt et celui-ci es
 
 Les emballages renfermant des produits explosifs sont empilés de façon stable. Lorsque la manutention se fait à la main, le fond des emballages ne se trouve pas à plus de 1,60 mètre au-dessus du sol.
 
-Lorsqu'on fait usage de moyens mécaniques adaptés, les piles ne s'élèvent pas à plus de 3 mètres de hauteur. Les dispositions du présent alinéa ne s'appliquent pas au stockage en casiers fixes, sous réserve qu'à tout moment les opérateurs puissent mettre les charges en position convenable sans risque de choc ou d'erreur de manoeuvre due à une visibilité imparfaite.
+Lorsqu'on fait usage de moyens mécaniques adaptés, les piles ne s'élèvent pas à plus de 3 mètres de hauteur. Les dispositions du présent alinéa ne s'appliquent pas au stockage en casiers fixes, sous réserve qu'à tout moment les opérateurs puissent mettre les charges en position convenable sans risque de choc ou d'erreur de manœuvre due à une visibilité imparfaite.
 
 Les emballages renfermant des produits explosifs ne sont pas jetés ou traînés.
 
@@ -414,7 +414,7 @@ Objet du contrôle :
 
 - merlons de terre débroussaillés.
 
-3.5. Etat des stocks de produits dangereux / registre entrées-sorties
+3.5. Etat des stocks de produits dangereux/registre entrées-sorties
 
 L'exploitant tient à jour en permanence un état indiquant la nature, la division de risque, le groupe de compatibilité, la date de fabrication et la quantité des produits explosifs détenus (registre entréessorties), auquel est annexé un plan général à jour des stockages. Cet état est tenu à la disposition de l'inspection des installations classées et des services d'incendie, de secours et de gendarmerie.
 
@@ -462,7 +462,7 @@ La consigne relative à chaque local pyrotechnique précise notamment :
 
 - la liste limitative des opérations qui sont autorisées dans ce local et les références aux instructions de service qui y sont appliquées ;
 
-- la nature et les quantités maximales de produits explosifs et, le cas échéant, de toutes autres matières dangereuses pouvant s'y trouver et être mises en oeuvre, ainsi que leur conditionnement et les emplacements auxquels ils sont déposés ;
+- la nature et les quantités maximales de produits explosifs et, le cas échéant, de toutes autres matières dangereuses pouvant s'y trouver et être mises en œuvre, ainsi que leur conditionnement et les emplacements auxquels ils sont déposés ;
 
 - la nature des déchets produits, la quantité maximale de ceux-ci qui peut y être entreposée et leur mode de conditionnement ;
 
@@ -478,7 +478,7 @@ Objet du contrôle :
 
 4.1. Localisation des risques
 
-L'exploitant recense, sous sa responsabilité, les parties de l'installation qui, en raison des caractéristiques qualitatives et quantitatives des matières mises en oeuvre, stockées, utilisées ou produites, sont susceptibles d'être à l'origine d'un sinistre pouvant avoir des conséquences directes ou indirectes sur l'environnement, la sécurité publique ou le maintien en sécurité de l'installation.
+L'exploitant recense, sous sa responsabilité, les parties de l'installation qui, en raison des caractéristiques qualitatives et quantitatives des matières mises en œuvre, stockées, utilisées ou produites, sont susceptibles d'être à l'origine d'un sinistre pouvant avoir des conséquences directes ou indirectes sur l'environnement, la sécurité publique ou le maintien en sécurité de l'installation.
 
 L'exploitant détermine pour chacune de ces parties de l'installation la nature du danger (incendie, explosion ou émanation toxique). Ce danger est signalé.
 
@@ -600,7 +600,7 @@ Sans préjudice des dispositions du code du travail, des consignes de sécurité
 
 Ces consignes indiquent notamment :
 
-- les fiches de données de sécurité des substances ou préparations mises en oeuvre ou stockées et leurs risques spécifiques ;
+- les fiches de données de sécurité des substances ou préparations mises en œuvre ou stockées et leurs risques spécifiques ;
 
 - l'interdiction d'apporter du feu sous une forme quelconque, notamment l'interdiction de fumer dans les parties de l'installation visées au point 4.1 et présentant des risques d'incendie ou d'explosion ;
 
@@ -614,11 +614,11 @@ Ces consignes indiquent notamment :
 
 - la procédure d'alerte avec les numéros de téléphone du responsable d'intervention de l'établissement, des services d'incendie et de secours, etc. ;
 
-- les modalités de mise en oeuvre des dispositifs d'isolement du réseau de collecte, prévues au point 2.11 ;
+- les modalités de mise en œuvre des dispositifs d'isolement du réseau de collecte, prévues au point 2.11 ;
 
 - l'obligation d'informer l'inspection des installations classées en cas d'accident.
 
-Le personnel reçoit une formation portant sur les risques présentés par l'installation, ainsi que sur les moyens mis en oeuvre pour les éviter. Il connaît les procédures à suivre en cas d'urgence et procède à des exercices d'entraînement au moins une fois par an.
+Le personnel reçoit une formation portant sur les risques présentés par l'installation, ainsi que sur les moyens mis en œuvre pour les éviter. Il connaît les procédures à suivre en cas d'urgence et procède à des exercices d'entraînement au moins une fois par an.
 
 Les conditions d'application du présent point aux stockages momentanés liés aux spectacles pyrotechniques sont précisées au point 10 de la présente annexe.
 
@@ -782,7 +782,7 @@ Elles prévoient notamment :
 
 - les conditions de conservation et de stockage des produits, notamment les précautions à prendre pour la prévention du stockage de produits incompatibles ;
 
-- les modalités de mise en oeuvre des moyens de protection, d'intervention et d'alerte et les procédures à suivre en cas d'accident ;
+- les modalités de mise en œuvre des moyens de protection, d'intervention et d'alerte et les procédures à suivre en cas d'accident ;
 
 - la conduite à tenir en cas d'incendie, en cas d'orage ou en cas de panne de lumière ou d'énergie ou à l'occasion de tout autre incident susceptible d'entraîner un risque pyrotechnique.
 
@@ -804,7 +804,7 @@ Ces matériels sont maintenus en bon état et sont vérifiés dans la période d
 
 Seuls les produits suivants sont stockés dans les réserves mentionnées au présent point :
 
-- produits non détonants, mentionnés par l'arrêté du 25 février 2005 modifié fixant la liste des articles considérés comme pyrotechniques ou munitions en référence à l'article R. 2352-49 du code de la défense, et dont la vente est autorisée en application du décret n° 2010-455 du 4 mai 2010 relatif à la mise sur le marché et au contrôle des produits explosifs ;
+- produits non détonants, mentionnés par l'arrêté du 25 février 2005 modifié fixant la liste des articles considérés comme pyrotechniques ou munitions en référence à l'article R. 2352-49 du code de la défense, et dont la vente est autorisée en application du chapitre VII du titre V du livre V du code de l'environnement ;
 
 - poudre noire ;
 
@@ -856,7 +856,7 @@ Objet du contrôle :
 
 12.3. Accès
 
-Uniquement dans une période allant du 1er novembre au 31 mai, en cas de non-disponibilité de l'accès mentionné au point 2.5 en raison de conditions météorologiques, l'exploitant informe les services de secours ou d'urgence compétents de cette non-disponibilité et des moyens alternatifs pouvant être mis en oeuvre en cas de nécessité d'intervention.
+Uniquement dans une période allant du 1er novembre au 31 mai, en cas de non-disponibilité de l'accès mentionné au point 2.5 en raison de conditions météorologiques, l'exploitant informe les services de secours ou d'urgence compétents de cette non-disponibilité et des moyens alternatifs pouvant être mis en œuvre en cas de nécessité d'intervention.
 
 12.4. Moyens de lutte contre l'incendie
 
