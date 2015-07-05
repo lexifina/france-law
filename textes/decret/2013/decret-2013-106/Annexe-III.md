@@ -18,22 +18,10 @@ Examen professionnalisé réservé
 
 Catégorie B
 
-Techniciens supérieurs forestiers de l'Office national des forêts, régis par le
-
-décret n° 2013-1173 du 17 décembre 2013 : grades de technicien forestier et de technicien forestier principal
+Techniciens supérieurs forestiers de l'Office national des forêts, régis par le décret n° 2013-1173 du 17 décembre 2013 : grades de technicien forestier et de technicien forestier principal
 
 |
 
 Examen professionnalisé réservé
-
-|
-
-Catégorie A
-
-Attachés d'administration de l'Office national des forêts
-
-|
-
-Concours réservé
 
 |

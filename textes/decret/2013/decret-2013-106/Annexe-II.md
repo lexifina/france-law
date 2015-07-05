@@ -70,16 +70,6 @@ Agents relevant du ministre chargé de l'agriculture, des établissements public
 
 |
 
-Attachés d'administration du ministère de l'agriculture et de la pêche
-
-|
-
-Concours réservé
-
-|
-
-|
-
 Ingénieurs de l'agriculture et de l'environnement
 
 |
@@ -89,9 +79,5 @@ Concours réservé
 |
 
 Agents relevant du ministre chargé de l'agriculture, des établissements publics administratifs en relevant, des établissements d'enseignement public agricole et de l'Office national des forêts
-
-et
-
-Agents relevant du ministère du développement durable et des établissements publics administratifs en relevant
 
 |

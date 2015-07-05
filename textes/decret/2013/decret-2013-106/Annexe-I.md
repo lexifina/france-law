@@ -64,6 +64,6 @@ Concours réservé
 
 |
 
-Agents relevant du ministre chargé de l'agriculture
+Agents relevant du ministre chargé de l'agriculture ou du ministre chargé des affaires sociales ou d'un établissement public en relevant, pour le corps des inspecteurs de la santé publique vétérinaire
 
 |
