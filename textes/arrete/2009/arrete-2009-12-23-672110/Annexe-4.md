@@ -1,8 +1,6 @@
 # Article Annexe 4
 
-RÉPARTITION DES COMPÉTENCES MENTIONNÉES À L'ARTICLE 7 DE L'ARRÊTÉ DU 23 DÉCEMBRE 2009
-
-ENTRE LES SERVICES LOCAUX DU CONTENTIEUX
+RÉPARTITION DES COMPÉTENCES MENTIONNÉES À L'ARTICLE 7 DE L'ARRÊTÉ DU 23 DÉCEMBRE 2009 ENTRE LES SERVICES LOCAUX DU CONTENTIEUX
 
 Critère de répartition des compétences en matière de protection juridique
 
@@ -10,15 +8,7 @@ Principe : pour l'ensemble des agents militaires et civils des armées, de la di
 
 |
 
-Lieu d'affectation (rattachement à une BdD) de l'agent de l'Etat impliqué.
-
-|
-
-Exception : gendarmerie.
-
-|
-
-Lieu de survenance des faits.
+Lieu d'affectation [rattachement à une base de défense (BdD)] de l'agent de l'Etat impliqué.
 
 |
 
@@ -28,15 +18,7 @@ SERVICE LOCAL DU CONTENTIEUX
 
 |
 
-HORS GENDARMERIE
-
-(BdD de rattachement
-
-ou zone géographique de la BdD)
-
-|
-
-GENDARMERIE
+BDD DE RATTACHEMENT OU ZONE GÉOGRAPHIQUE DE LA BDD
 
 |
 
@@ -64,53 +46,7 @@ Rochefort-Cognac
 
 Angoulême
 
-|
-
-Faits survenus dans les régions de gendarmerie :
-
-Aquitaine ;
-
-Limousin ;
-
-Midi-Pyrénées ;
-
-Poitou-Charentes.
-
-|
-
-Lyon
-
-|
-
 Clermont-Ferrand
-
-Lyon-Mont-Verdun
-
-Valence
-
-La Valbonne
-
-Grenoble-Annecy-Chambéry
-
-Dijon
-
-Gap
-
-|
-
-Faits survenus dans les régions de gendarmerie :
-
-Auvergne ;
-
-Rhône-Alpes ;
-
-Corse ;
-
-Languedoc-Roussillon ;
-
-Provence-Alpes-Côte d'Azur.
-
-Faits survenus dans l'arrondissement maritime Méditerranée impliquant des gendarmes maritimes.
 
 |
 
@@ -142,23 +78,11 @@ Charleville-Mézières
 
 Mourmelon-Mailly
 
-|
+Dijon
 
-Faits survenus dans les régions de gendarmerie :
+Lille
 
-Alsace ;
-
-Bourgogne ;
-
-Champagne-Ardenne ;
-
-Franche-Comté ;
-
-Lorraine ;
-
-Nord-Pas-de-Calais ;
-
-Picardie.
+Creil
 
 |
 
@@ -172,25 +96,19 @@ Brest-Lorient
 
 Vannes-Coëtquidan
 
-Angers-Le Mans-Saumur
+Angers-Le Mans-Saumur-Cherbourg
 
-Cherbourg
+Orléans
 
-|
+Bourges-Avord
 
-Faits survenus dans les régions de gendarmerie :
+Tours
 
-Basse-Normandie ;
+Evreux
 
-Bretagne ;
+Montlhéry
 
-Centre ;
-
-Haute-Normandie ;
-
-Pays de la Loire.
-
-Faits survenus dans les arrondissements maritimes Atlantique et Manche-Mer du Nord impliquant des gendarmes maritimes.
+Paris-Ile-de-France
 
 |
 
@@ -216,36 +134,14 @@ Marseille-Aubagne
 
 Carcassonne
 
-|
+Lyon-Mont-Verdun
 
-Néant
+Valence
 
-|
+La Valbonne
 
-Villacoublay
+Grenoble-Annecy-Chambéry
 
-|
-
-Lille
-
-Creil
-
-Orléans
-
-Bourges-Avord
-
-Tours
-
-Evreux
-
-Montlhéry
-
-Paris-Ile-de-France
-
-|
-
-Faits survenus dans les régions de gendarmerie : Ile-de-France.
-
-Faits survenus sur l'ensemble du territoire métropolitain impliquant des gendarmes de l'air.
+Gap
 
 |

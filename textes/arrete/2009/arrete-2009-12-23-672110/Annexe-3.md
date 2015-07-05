@@ -10,11 +10,11 @@ TRIBUNAUX ADMINISTRATIFS
 
 |
 
-Service local du contentieux de Lyon
+Centre d'expertise du soutien juridique (1)
 
 |
 
-Clermont-Ferrand, Dijon, Grenoble, Lyon
+Cergy-Pontoise, Melun, Montreuil, Paris, Versailles.
 
 |
 
@@ -22,7 +22,7 @@ Service local du contentieux de Bordeaux
 
 |
 
-Bordeaux, Limoges, Poitiers, Pau, Toulouse
+Bordeaux, Clermont-Ferrand, Limoges, Poitiers, Pau, Toulouse.
 
 |
 
@@ -30,7 +30,7 @@ Service local du contentieux de Rennes
 
 |
 
-Caen, Nantes, Rennes
+Caen, Nantes, Orléans, Rennes, Rouen.
 
 |
 
@@ -38,7 +38,7 @@ Service local du contentieux de Metz
 
 |
 
-Besançon, Châlons-en-Champagne, Nancy, Strasbourg
+Amiens, Besançon, Châlons-en-Champagne, Dijon, Lille, Nancy, Strasbourg.
 
 |
 
@@ -46,14 +46,10 @@ Service local du contentieux de Toulon
 
 |
 
-Bastia, Marseille, Montpellier, Nice, Nîmes, Toulon
+Bastia, Grenoble, Lyon, Marseille, Montpellier, Nice, Nîmes, Toulon.
 
 |
 
-Service local du contentieux de Villacoublay
-
-|
-
-Amiens, Cergy-Pontoise, Lille, Melun, Montreuil, Orléans, Paris, Rouen, Versailles
+(1) Le centre d'expertise du soutien juridique est compétent pour le contentieux administratif relevant de la sphère de compétence du service local du contentieux de Villacoublay telle que définie avant l'intervention de l'arrêté du 22 juin 2015 modifiant l'arrêté du 23 décembre 2009 fixant les compétences du service du commissariat des armées en matière de règlement des dommages causés ou subis par le ministère de la défense, de défense de ce ministère devant les tribunaux administratifs et de protection juridique de ses agents militaires et civils
 
 |

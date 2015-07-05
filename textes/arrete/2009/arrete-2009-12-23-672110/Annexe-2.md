@@ -36,19 +36,51 @@ En cas de conflit de compétence entre plusieurs services, un seul aura la charg
 
 Sphère de compétence
 
+Centre d'expertise du soutien juridique (1)
+
+|
+
+Hors gendarmerie (BdD de rattachement ou zone géographique de la BdD)
+
+|
+
+Gendarmerie (4)
+
+|
+
+Territoire national :
+
+- indemnisation des dommages causés ou subis par les forces armées alliées sur le territoire français, dans le cadre des conventions en vigueur ;
+
+Théâtres d'opérations :
+
+- indemnisation des dommages subis par les militaires français ;
+
+- indemnisation des dommages causés aux tiers par les forces françaises survenus sur un théâtre non soutenu par une direction du commissariat ;
+
+- recouvrement du préjudice de l'Etat à l'encontre des agents de l'Etat et des tiers, dans la limite des seuils fixés en annexe 1, pour les dommages survenus sur un théâtre non soutenu par une direction du commissariat.
+
+Affectations à l'étranger : dommages causés ou subis par les agents du ministère affectés à l'étranger sur un territoire non soutenu par une direction du commissariat.
+
+Missions à l'étranger : dommages causés aux tiers par les agents du ministère en mission sur un territoire non soutenu par une direction du commissariat.
+
+|
+
+Faits survenus dans la région de gendarmerie : Île-de-France.
+
+Faits survenus sur l'ensemble du territoire métropolitain impliquant des gendarmes de l'air.
+
+|
+
 Service local du contentieux
 
 |
 
-Hors gendarmerie
-
-(BdD de rattachement
-
-ou zone géographique de la BdD)
+Hors gendarmerie (BdD de rattachement ou zone géographique de la BdD)
 
 |
 
-Gendarmerie (1)
+Gendarmerie (4)
 
 |
 
@@ -62,47 +94,49 @@ Cazaux
 
 Mont-de-Marsan
 
-Pau-Bayonne-Tarbes
+Pau - Bayonne - Tarbes
 
-Toulouse-Castres
+Toulouse - Castres
 
-Montauban-Agen
+Montauban - Agen
 
 Brive-la-Gaillarde
 
-Poitiers-Saint-Maixent
+Poitiers - Saint-Maixent
 
-Rochefort-Cognac
+Rochefort - Cognac
 
 Angoulême
+
+Clermont-Ferrand (2)
 
 |
 
 Faits survenus dans les régions de gendarmerie :
 
-- Aquitaine ;
+Aquitaine
 
-- Limousin ;
+Limousin
 
-- Midi-Pyrénées ;
+Midi-Pyrénées
 
-- Poitou-Charentes.
+Poitou-Charentes.
 
 |
 
-Lyon
+Lyon (3)
 
 |
 
 Clermont-Ferrand
 
-Lyon-Mont-Verdun
+Lyon - Mont-Verdun
 
 Valence
 
 La Valbonne
 
-Grenoble-Annecy-Chambéry
+Grenoble - Annecy - Chambéry
 
 Dijon
 
@@ -112,15 +146,13 @@ Gap
 
 Faits survenus dans les régions de gendarmerie :
 
-- Auvergne ;
+Auvergne
 
-- Rhône-Alpes ;
+Rhône-Alpes
 
-- Corse ;
+Corse- Languedoc-Roussillon
 
-- Languedoc-Roussillon ;
-
-- Provence-Alpes-Côte d'Azur.
+Provence-Alpes-Côte d'Azur
 
 Faits survenus dans l'arrondissement maritime Méditerranée impliquant des gendarmes maritimes.
 
@@ -132,7 +164,7 @@ Metz
 
 Besançon
 
-Epinal-Luxeuil
+Epinal - Luxeuil
 
 Belfort
 
@@ -148,59 +180,85 @@ Phalsbourg
 
 Strasbourg-Haguenau
 
-Chaumont-Saint-Dizier
+Chaumont - Saint-Dizier
 
 Charleville-Mézières
 
-Mourmelon-Mailly
+Mourmelon - Mailly
+
+Dijon (2)
+
+Lille (2)
+
+Creil (2)
 
 |
 
 Faits survenus dans les régions de gendarmerie :
 
-- Alsace ;
+Alsace
 
-- Bourgogne ;
+Bourgogne
 
-- Champagne-Ardenne ;
+Champagne-Ardenne
 
-- Franche-Comté ;
+Franche-Comté
 
-- Lorraine ;
+Lorraine
 
-- Nord-Pas-de-Calais ;
+Nord - Pas-de-Calais
 
-- Picardie.
-
-|
-
-Rennes
+Picardie
 
 |
 
 Rennes
 
-Brest-Lorient
+|
 
-Vannes-Coëtquidan
+Rennes
 
-Angers-Le Mans-Saumur
+Brest - Lorient
+
+Vannes - Coëtquidan
+
+Angers - Le Mans - Saumur
 
 Cherbourg
 
+Orléans (2)
+
+Bourges - Avord (2)
+
+Tours (2)
+
+Evreux (2)
+
+Montlhéry (2)
+
+Paris Ecole Militaire (2)
+
+Villacoublay (2)
+
+Vincennes (2)
+
+Saint-Germain en Laye (2)
+
+Versailles (2)
+
 |
 
 Faits survenus dans les régions de gendarmerie :
 
-- Basse-Normandie ;
+Basse-Normandie
 
-- Bretagne ;
+Bretagne
 
-- Centre ;
+Centre
 
-- Haute-Normandie ;
+Haute-Normandie
 
-- Pays de la Loire ;
+Pays de la Loire
 
 Faits survenus dans les arrondissements maritimes Atlantique et Manche-mer du Nord impliquant des gendarmes maritimes.
 
@@ -220,13 +278,21 @@ Draguignan
 
 Saint-Christol
 
-Nîmes-Orange-Laudun
+Nîmes - Orange - Laudun
 
-Istres-Salon-de-Provence
+Istres - Salon-de-Provence
 
-Marseille-Aubagne
+Marseille - Aubagne - Carcassonne
 
-Carcassonne
+Lyon - Mont-Verdun (2)
+
+Valence (2)
+
+La Valbonne (2)
+
+Grenoble - Annecy - Chambéry (2)
+
+Gap (2)
 
 |
 
@@ -234,61 +300,15 @@ Néant
 
 |
 
-Villacoublay
+Directions du commissariat d'outre-mer (5)
 
 |
 
-Lille
-
-Creil
-
-Orléans
-
-Bourges-Avord
-
-Tours
-
-Evreux
-
-Montlhéry
-
-Paris-Ile-de-France
-
-Théâtres d'opérations :
-
-- indemnisation des dommages subis par les militaires français ;
-
-- indemnisation des dommages causés aux tiers par les forces françaises survenus sur un théâtre non soutenu par une direction du commissariat ;
-
-- recouvrement du préjudice de l'Etat à l'encontre des agents de l'Etat et des tiers, dans la limite des seuils fixés en annexe 1, pour les dommages survenus sur un théâtre non soutenu par une direction du commissariat.
-
-Affectations à l'étranger : dommages causés ou subis par les agents du ministère affectés à l'étranger sur un territoire non soutenu par une direction du commissariat.
-
-Missions à l'étranger : dommages causés aux tiers par les agents du ministère en mission sur un territoire non soutenu par une direction du commissariat.
+Hors gendarmerie (BdD de rattachement ou zone géographique de la BdD)
 
 |
 
-Faits survenus dans la région de gendarmerie : Ile-de-France.
-
-Faits survenus sur l'ensemble du territoire métropolitain impliquant des gendarmes de l'air.
-
-|
-
-Directions du commissariat
-
-d'outre-mer (2)
-
-|
-
-Hors gendarmerie
-
-(BdD de rattachement
-
-ou zone géographique de la BdD)
-
-|
-
-Gendarmerie
+Gendarmerie (4)
 
 |
 
@@ -302,7 +322,7 @@ BdD de Guyane
 
 |
 
-Faits survenus sur les territoires de la Martinique, de la Guadeloupe, de la Guyane et de Saint-Pierre-et-Miquelon.
+Faits survenus sur les territoires de la Martinique, de la Guadeloupe, de la Guyane et de Saint-Pierre-et-Miquelon
 
 |
 
@@ -310,11 +330,11 @@ Saint-Denis
 
 |
 
-BdD La Réunion-Mayotte
+BdD La Réunion - Mayotte
 
 |
 
-Faits survenus dans la zone sud de l'océan Indien.
+Faits survenus dans la zone Sud de l'océan Indien
 
 |
 
@@ -326,7 +346,7 @@ BdD Nouvelle-Calédonie
 
 |
 
-Faits survenus en Nouvelle-Calédonie.
+Faits survenus en Nouvelle-Calédonie
 
 |
 
@@ -338,7 +358,19 @@ BdD Polynésie française
 
 |
 
-Faits survenus en Polynésie française.
+Faits survenus en Polynésie française
+
+|
+
+Côte d'Ivoire
+
+|
+
+Forces françaises en Côte d'Ivoire
+
+|
+
+Faits survenus en Côte d'Ivoire
 
 |
 
@@ -346,11 +378,11 @@ Djibouti
 
 |
 
-Base des forces françaises de Djibouti
+Base des forces françaises de à Djibouti
 
 |
 
-Faits survenus à Djibouti.
+Faits survenus à Djibouti
 
 |
 
@@ -358,11 +390,11 @@ Gabon
 
 |
 
-Base des forces françaises du Gabon
+Base des forces françaises du au Gabon
 
 |
 
-Faits survenus au Gabon.
+Faits survenus au Gabon
 
 |
 
@@ -374,42 +406,44 @@ Base des éléments français au Sénégal
 
 |
 
-Faits survenus au Sénégal.
+Faits survenus au Sénégal
 
 |
 
-Emirats arabes unis
+Émirats arabes unis
 
 |
 
-Base des forces françaises des Emirats arabes unis
+Base des forces françaises des aux Emirats arabes unis
 
 |
 
-Faits survenus aux Emirats arabes unis.
+Faits survenus aux Emirats arabes unis
 
 |
 
-Directions
-
-du commissariat en OPEX
+Directions du commissariat en OPEX
 
 |
 
-Domaines de compétences
-
-|
+Domaines de compétence
 
 |
 
 Indemnisation des dommages causés aux tiers par les forces françaises pour les faits survenus sur le théâtre d'opération et, le cas échéant, sur les théâtres annexes soutenus.
 
-Recouvrement du préjudice de l'Etat à l'encontre des agents de l'Etat et des tiers pour les faits survenus sur le théâtre d'opération et, le cas échéant, sur les théâtres annexes soutenus, dans la limite des seuils fixés en annexe 1.
+Recouvrement du préjudice de l'Etat à l'encontre des agents de l'Etat et des tiers pour les faits survenus sur le théâtre d'opération et, le cas échéant, sur les théâtres annexes soutenus, dans la limite des seuils fixés en annexe 1
 
 |
 
-(1) Conformément à l'annexe 8 de la délégation de gestion conclue entre le ministère de la défense et le ministère de l'intérieur, de l'outre-mer et des collectivités territoriales le 28 juillet 2008.
+(1) Le centre d'expertise du soutien juridique est compétent pour les dommages relevant de la sphère de compétence du service local du contentieux de Villacoublay telle que définie avant l'intervention de l'arrêté du 22 juin 2015 modifiant l'arrêté du 23 décembre 2009 fixant les compétences du service du commissariat des armées en matière de règlement des dommages causés ou subis par le ministère de la défense, de défense de ce ministère devant les tribunaux administratifs et de protection juridique de ses agents militaires et civils.
 
-(2) Les directions du commissariat d'outre-mer sont compétentes pour les dommages causés aux tiers par les agents en mission sur "les territoires" dont elles assurent le soutien.
+(2) A compter de la date d'entrée en vigueur de l'arrêté mentionné au (1) ci-dessus.
+
+(3) Jusqu'à sa dissolution, le service local du contentieux de Lyon assure le traitement des dossiers de dommages survenus dans sa sphère de compétence telle que définie avant l'intervention de l'arrêté mentionné au (1) ci-dessus. Le transfert de ces dossiers aux autres services locaux du contentieux sera réalisé selon les modalités définies par le chef du centre d'expertise du soutien juridiques.
+
+(4) Conformément à l'annexe 8 de la délégation de gestion conclue entre le ministère de la défense et le ministère de l'intérieur, de l'outre-mer et des collectivités territoriales le 28 juillet 2008.
+
+(5) Les directions du commissariat d'outre-mer sont compétentes pour les dommages causés aux tiers par les agents en mission sur les territoires dont elles assurent le soutien.
 
 |
