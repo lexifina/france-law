@@ -1,0 +1,9 @@
+# Réponse à la question n° 80029
+
+- Question : [80029](80029.md) — Question n° 80029 — pension militaire d'invalidité; rapport; propositions
+
+## Réponse
+
+*JO du 2015-07-07*
+
+L'étude réalisée par le comité d'entente des grands invalides de guerre comporte 30 propositions pour faire évoluer l'accompagnement des bénéficiaires de pensions militaires d'invalidité (PMI). Chacune de ces 30 propositions a fait l'objet d'une expertise approfondie conduite sous l'autorité du secrétaire général pour l'administration du ministère de la défense qui a permis de proposer un plan d'action relatif à la modernisation du traitement des PMI, validé le 1er août 2014 puis présenté aux associations représentatives du monde combattant le 21 octobre 2014 par le secrétaire d'État chargé des anciens combattants et de la mémoire. Dans le cadre de ce plan d'action, un guide de l'expert du réseau des experts agréés en PMI a été rédigé par la sous-direction des pensions de la Rochelle, diffusé en novembre 2014 à l'ensemble des médecins de ce réseau et mis en ligne sur le site internet du ministère de la défense. Ce guide précise notamment les règles qui doivent prévaloir en matière d'accueil du requérant ainsi que les conditions dans lesquelles sera réalisé l'examen médical. Ainsi, après avoir rappelé le cadre de sa mission, l'expert peut indiquer au postulant, à la fin de l'examen, le sens des conclusions de l'expertise médicale qui seront, en tout état de cause, susceptibles de lui être transmises ultérieurement, à sa demande, par la sous-direction des pensions, en application de l'article 6 de la loi du 17 juillet 1978 portant diverses mesures d'amélioration des relations entre l'administration et le public. Enfin, s'agissant de la communication du nom et de la spécialité de l'expert, cette information est connue du requérant lors de la prise de rendez-vous.
