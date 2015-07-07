@@ -1,0 +1,9 @@
+# Réponse à la question n° 79663
+
+- Question : [79663](79663.md) — Question n° 79663 — régime fiscal; revendications
+
+## Réponse
+
+*JO du 2015-07-07*
+
+La réforme du forfait collectif agricole envisagée par le Gouvernement et à laquelle il est fait référence permettra, sous réserve de l'issue de son examen parlementaire, de simplifier le dispositif existant en le rapprochant du régime des micro-entreprises. Le nouveau dispositif tel qu'envisagé par le Gouvernement n'engendrera aucune charge nouvelle de comptabilité et maintiendra une stabilité fiscale pour les exploitants agricoles. Le bénéfice imposable sera égal à la moyenne des recettes de l'année d'imposition et des deux années précédentes diminuée d'un abattement représentatif de frais de 87 %. De plus, il est prévu que le seuil du régime forfaitaire qui est de 76 300 euros soit porté à 82 200 euros. Enfin une mise en oeuvre progressive de la mesure serait opérée pour les années 2017 et 2018 de manière à en limiter les effets. Il est prévu par ailleurs d'accompagner ceux qui seront impactés dans les premières années en mobilisant les économies de gestion dégagées par la réforme. En outre, plusieurs mesures visant à instaurer une stabilité fiscale ont été engagées par le Gouvernement. Ainsi, la loi de finances pour 2015 (LFI) a renforcé l'allègement de l'impôt sur le revenu, qui a débuté dès 2014 avec la réduction d'impôt exceptionnelle à destination des ménages modestes. Cette nouvelle réforme s'est opérée à deux niveaux : - la tranche d'imposition au taux de 5,5 % a été supprimée ; - le mécanisme de la décote, dont l'objet est de retarder la progression de l'imposition en application du barème, a été renforcé. Au total, l'effet combiné de la réduction d'impôt pour 2014 et de la réforme portée en LFI 2015 a bénéficié à 9 millions de foyers fiscaux, 3 millions de foyers devenant non imposables ou évitant de devenir imposables.
