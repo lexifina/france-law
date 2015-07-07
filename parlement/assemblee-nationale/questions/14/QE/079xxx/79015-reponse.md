@@ -1,0 +1,9 @@
+# Réponse à la question n° 79015
+
+- Question : [79015](79015.md) — Question n° 79015 — logiciel de paie; abandon; conséquences
+
+## Réponse
+
+*JO du 2015-07-07*
+
+Le logiciel de rémunération des militaires Source Solde, appelé à remplacer le logiciel Louvois mis en service au mois d'octobre 2011, entrera en fonctionnement en parallèle du système actuel début 2016 pour une durée d'un an, ce qui permettra de tester toutes les situations possibles et de s'assurer de la qualité du calcul de la solde. Les armées seront basculées progressivement dans ce nouveau système à partir de début 2017. D'ici à la mise en place de ce nouveau calculateur, le ministère de la défense poursuit les actions entreprises afin de conserver sous contrôle l'ensemble du système Louvois. Le maintien en condition opérationnelle de ce logiciel est ainsi assuré par le service ministériel opérateur des droits individuels, organisme du service du commissariat des armées, au titre de la maîtrise d'ouvrage, et par le centre de maintenance informatique de la solde (CMIS), organisme de la direction des ressources humaines du ministère de la défense, au titre de la maîtrise d'oeuvre. La maintenance d'exploitation est quant à elle effectuée par la direction interarmées des réseaux d'infrastructure et des systèmes d'information de la défense. Dans ce contexte, conformément aux termes de l'accord-cadre conclu avec la société STERIA, cette entreprise peut assister les personnels du CMIS au titre de marchés qui lui sont notifiés. Cet accord-cadre permet au CMIS d'ajuster le périmètre technique et la durée des prestations fournies par STERIA en fonction de ses besoins et ne prévoit aucune contrepartie financière dans l'hypothèse d'un arrêt des commandes. Au moment de l'abandon définitif de Louvois, le ministère de la défense pourra donc cesser la collaboration engagée avec la société STERIA pour le soutien de ce logiciel sans être redevable d'une quelconque indemnisation.
