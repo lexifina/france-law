@@ -1,0 +1,9 @@
+# Réponse à la question n° 77224
+
+- Question : [77224](77224.md) — Question n° 77224 — accidents domestiques; enfants; lutte et prévention
+
+## Réponse
+
+*JO du 2015-07-07*
+
+Le règlement européen (CE) n° 1272/2008 impose des obligations d'étiquetage et d'emballage spécifiques aux mélanges classés dangereux, dont les capsules de lessive liquide. Ce règlement a été modifié le 5 décembre 2014 afin de renforcer les obligations applicables aux capsules de lessive liquide. Il impose des mesures relatives aux emballages extérieurs des capsules, telles que des contenants opaques, des fermetures spécifiques et des étiquetages attirant l'attention des utilisateurs sur la dangerosité des produits laissés à la portée des enfants ou des mesures relatives aux capsules elles-mêmes, telles que la résistance des capsules à la pression, un délai de rupture du film hydrosoluble après contact avec l'eau ou encore la présence d'un agent d'aversion dans le film. Ces mesures seront obligatoires à compter du 1er juin 2015. Cependant, sans attendre l'adoption de ces mesures, l'association internationale de la savonnerie, de la détergence et des produits d'entretien (AISE) qui regroupe les principaux fabricants de produits détergents, recommandait à ses adhérents, dès la fin de l'année 2012, des mesures volontaires de même nature quant à l'emballage extérieur des capsules. Ces recommandations sont mises en oeuvre depuis 2013 pour la grande majorité des produits commercialisés en France. En mars 2015, la direction générale de la concurrence, de la consommation et de la répression des fraudes (DGCCRF) a participé à la campagne mondiale d'information de l'organisation de coopération et de développement économiques (OCDE) et de la Commission européenne sur les risques des capsules de lessive liquide pour les enfants.
