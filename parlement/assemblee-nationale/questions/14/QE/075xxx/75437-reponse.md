@@ -1,0 +1,9 @@
+# Réponse à la question n° 75437
+
+- Question : [75437](75437.md) — Question n° 75437 — ouverture du marché; Cour des comptes; rapport; recommandation
+
+## Réponse
+
+*JO du 2015-07-07*
+
+Plusieurs mesures ont été prises pour garantir une ouverture à la concurrence effective, avec le souci de la protection des intérêts des consommateurs. Le cadre réglementaire en vigueur (accès régulé à l'électricité nucléaire historique, réforme des tarifs réglementés de vente achevée en octobre 2014) permet désormais de supprimer le « ciseau tarifaire » auxquels étaient exposés par le passé les fournisseurs alternatifs, tout en limitant l'exposition des consommateurs à la volatilité des prix de l'énergie. Le Gouvernement est particulièrement attaché à l'information des consommateurs, en particulier dans le contexte de l'ouverture des marchés de l'énergie. Les résultats du « baromètre énergie-info », cité par la Cour des comptes dans son rapport sur l'ouverture à la concurrence des marchés de l'électricité, montre que le travail de pédagogie doit se poursuivre. Celui-ci repose aujourd'hui pour l'essentiel sur le site énergie-info, géré par le Médiateur national de l'énergie, ainsi que des programmes courts à la télévision et à la radio en partenariat avec l'institut national de la consommation. Le site énergie-info a vu sa fréquentation croître sensiblement (plus de 1 million de visites en 2014). Dans un contexte budgétaire contraint, l'enjeu est désormais de démultiplier son audience, en s'appuyant sur des sites à plus fort trafic. Ainsi, des partenariats ont été noués, notamment avec certaines associations de consommateurs, leur permettant de proposer sur leur propre site les services du « comparateur d'offres ». Cet outil accessible à tous regroupe l'ensemble des offres des différents fournisseurs et permet très simplement d'en comparer le prix.
