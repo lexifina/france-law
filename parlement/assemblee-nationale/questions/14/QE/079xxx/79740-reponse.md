@@ -1,0 +1,9 @@
+# Réponse à la question n° 79740
+
+- Question : [79740](79740.md) — Question n° 79740 — viande; consommation; changements
+
+## Réponse
+
+*JO du 2015-07-07*
+
+La proportion de viande bovine consommée sous forme de haché est en progression, atteignant plus de 40 % en 2014 en France. Cette progression est liée à l'évolution des modes de vie, en particulier l'augmentation des repas hors foyer, le développement de la restauration rapide (burger) et, pour les repas « maison », la réduction du temps de préparation. Le facteur prix accentue la tendance avec, pour 2015, un prix moyen du haché congelé à 6 euros/kg, du haché frais à 10 euros/kg, à comparer avec le prix du boeuf en morceaux à 13,5 euros/kg. Le haché étant majoritairement issu des vaches de réforme laitières, les systèmes allaitants se trouvent fragilisés par la proportion croissante de haché. Le ministre en charge de l'agriculture a réuni le 17 juin 2015 l'ensemble des acteurs de la filière viande bovine. A l'occasion de cette table ronde, le ministre a souhaité une plus grande transparence sur la fixation des prix au sein de la filière, notamment en ce qui concerne le steak haché. Les professionnels de la filière bovine ont également engagé une réflexion pour définir des critères pour une gamme qualitative de steak haché. Par ailleurs, le soutien de l'État pour les systèmes allaitants repose sur l'aide couplée à la vache allaitante. A partir de 2015, ce soutien, qui prend la suite de la prime au maintien du troupeau de vaches allaitantes, est doté d'une enveloppe annuelle de 647 millions d'euros et donne lieu à un versement aux éleveurs détenteurs de vaches allaitantes ou mixtes, dans la limite de 139 vaches. Les éleveurs situés en zones défavorisées bénéficient en outre de l'indemnité compensatoire de handicaps naturels dont l'enveloppe annuelle a été revalorisée dès 2014, et attendra progressivement 1 056 millions d'euros en 2017.
