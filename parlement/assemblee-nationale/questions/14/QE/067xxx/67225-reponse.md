@@ -1,0 +1,9 @@
+# Réponse à la question n° 67225
+
+- Question : [67225](67225.md) — Question n° 67225 — espaces naturels protégés; fiscalité écologique; champ d'application
+
+## Réponse
+
+*JO du 2015-07-07*
+
+La loi dite « loi Barnier » de 1995, codifiée dans le code des douanes sous l'article 285 quater, avec une disposition « miroir » dans le code de l'environnement, sous l'article L. 321-12, a institué une fiscalité écologique destinée à faire participer les passagers de transport public maritime (qu'ils débarquent ou non) à la conservation d'espaces protégés. Le produit de cette taxe a pour but d'aider les gestionnaires à mieux surveiller, préserver et entretenir ces espaces naturels protégés. Il n'y a pas de distinction entre les entreprises de transport public maritime (navires à moteur ou à voile) redevables de la taxe. En effet, l'esprit de la loi Barnier sur les passagers maritimes, votée par les Parlementaires, n'est pas de taxer les effets de la pollution émise par les navires à moteur, mais bien de préserver l'environnement de la pression anthropique. En effet, la fréquentation touristique accrue a un impact considérable sur la sensibilité et la fragilité de ces sites emblématiques, notamment en Bretagne où les îles sont reconnues pour leurs caractères naturels et leurs espèces endémiques exceptionnelles. Par ailleurs, concernant les navires à moteur, il existe d'autres dispositifs spécifiques administratifs et fiscaux permettant leur encadrement. La taxe sur les passagers maritimes (bornée à 7 % du montant du billet « aller » dans la limite d'un plafond égal à 1,63 € en 2014) correspond donc à une ressource supplémentaire permettant, à la fois de renforcer la préservation des espaces littoraux et marins connus, de protéger leur richesse écologique, et de favoriser également les programmes de restauration de ces milieux sensibles, tout en améliorant la qualité de l'accueil des visiteurs.
