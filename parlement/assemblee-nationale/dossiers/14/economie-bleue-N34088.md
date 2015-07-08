@@ -1,0 +1,62 @@
+# Economie : économie bleue
+
+- Procédure : Proposition de loi ordinaire
+- Législature : 14
+- Identifiant : DLR5L14N34088
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/economie_bleue
+- Sénat : http://www.senat.fr/dossier-legislatif/ppl15-370.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2015-07-08 : 1er dépôt d'une initiative. (PIONANR5L14B2964)
+  - 2016-01-12 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2015-07-08 : Renvoi en commission au fond
+      - 2015-09-09 : Nomination de rapporteur
+      - 2015-10-27 : Réunion de commission
+      - 2016-02-02 : Réunion de commission
+      - 2015-10-28 : Dépôt de rapport (RAPPANR5L14B3178, PIONANR5L14BTC3178)
+    - Travaux d'une commission saisie pour avis
+      - 2015-09-30 : Saisine pour avis d'une commission
+      - 2015-09-30 : Nomination de rapporteur
+      - 2015-10-27 : Réunion de commission
+      - 2015-10-27 : Dépôt de rapport (AVISANR5L14B3170)
+  - Discussion en séance publique
+    - 2016-02-02 : Discussion en séance publique
+    - 2016-02-02 : Discussion en séance publique
+    - 2016-02-03 : Discussion en séance publique
+    - 2016-02-03 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2016-02-04 : Dépôt d'une initiative en navette (PIONSNR5S259B0370)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2016-02-04 : Renvoi en commission au fond
+      - 2016-02-10 : Nomination de rapporteur
+      - 2016-03-02 : Dépôt de rapport (RAPPSNR5S259B0430)
+    - Travaux d'une commission saisie pour avis
+      - 2016-02-10 : Saisine pour avis d'une commission
+      - 2016-02-10 : Nomination de rapporteur
+      - 2016-03-02 : Dépôt de rapport (AVISSNR5S259B0428)
+  - Discussion en séance publique
+    - 2016-03-10 : Discussion en séance publique
+    - 2016-03-23 : Discussion en séance publique
+    - 2016-03-24 : Discussion en séance publique
+    - 2016-03-24 : Décision
+- Commission Mixte Paritaire
+  - 2016-03-25 : Dépôt d'un projet de loi (PIONANR5L14B3603)
+  - 2016-03-25 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2016-04-06 : Nomination de rapporteur
+    - 2016-04-06 : Dépôt du rapport d'une CMP (RAPPANR5L14B3672)
+    - 2016-04-06 : Dépôt du rapport d'une CMP (RAPPSNR5S259B0540)
+  - Discussion en séance publique
+    - 2016-06-01 : Discussion en séance publique
+    - 2016-06-01 : Décision
+  - Discussion en séance publique
+    - 2016-06-07 : Discussion en séance publique
+    - 2016-06-07 : Décision
+  - 2016-04-08 : Décision de la CMP
+- Promulgation de la loi
+  - 2016-06-20 : Promulgation d'une loi
