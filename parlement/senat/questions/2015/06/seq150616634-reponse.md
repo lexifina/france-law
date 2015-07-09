@@ -1,0 +1,9 @@
+# Réponse à la question SEQ150616634
+
+- Question : [SEQ150616634](seq150616634.md) — Horaires d'épandage des pesticides
+
+## Réponse
+
+*Agriculture, agroalimentaire et forêt, JO du 2015-07-09, page 1655*
+
+Le plan de développement durable de l'apiculture (action 2, point 2.3) prévoit d'examiner une modification éventuelle de cet arrêté, afin de mieux préciser les heures de traitements, réalisés au moyen d'insecticides et d'acaricides utilisables en période de floraison, pour éviter tout risque pour les abeilles domestiques et déterminer, après expertise, quelles sont les mesures à la fois pertinentes pour la protection des abeilles et applicables par les agriculteurs. L'agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail (Anses), saisie par le ministère de l'agriculture, de l'agroalimentaire et de la forêt (MAAF), sur la révision de cet arrêté recommande une application d'insecticide ou d'acaricide utilisable en période de floraison, après l'heure du coucher du soleil telle que définie par l'éphéméride et dans les trois heures suivantes, dans des conditions permettant d'assurer la sécurité et la santé des opérateurs. Un projet d'arrêté modificatif, réalisé avec le concours des instituts techniques concernés, ayant fait l'objet d'échanges avec le comité apicole de FranceAgriMer, les organisations professionnelles agricoles, la section spécialisée agricole du conseil d'orientation sur les conditions de travail, et la commission des produits phytopharmaceutiques et des matières fertilisantes et des supports de cultures, a été soumis à la consultation du public du 1er au 22 décembre 2014 au cours de laquelle de nouvelles questions techniques ont été soulevées. Les services du MAAF travaillent à résoudre ces difficultés pour une décision courant 2015.
