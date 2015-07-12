@@ -1,0 +1,5 @@
+# Article Annexe
+
+L'annexe est publiée au Bulletin officiel du ministère de l'agriculture, de l'agroalimentaire et de la forêt (BO Agri) et peut être consultée à l'adresse suivante : http://agriculture.gouv.fr/B-O-agri
+
+.
