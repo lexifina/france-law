@@ -164,7 +164,7 @@ S'il s'agit d'une personne physique, la copie d'une des pièces suivantes, en co
 
 - carte de séjour temporaire, carte de résident, certificat de résidence de ressortissant algérien, carte de ressortissant d'un Etat membre de l'Union européenne ou de l'Espace économique européen.
 
-3. La copie du certificat d'accréditation de la personne physique ou morale exploitante ou un récépissé délivré par l'organisme accréditeur tel que prévu à l'article 22 du présent arrêté attestant que le centre a déposé, en vue de son accréditation, son système qualité complet et conforme à la norme NF EN ISO/CEI 17020 : 2005.
+3. La copie du certificat d'accréditation de la personne physique ou morale exploitante ou un récépissé délivré par l'organisme accréditeur tel que prévu à l'article 22 du présent arrêté attestant que le centre a déposé, en vue de son accréditation, son système qualité complet et conforme à la norme NF EN ISO/CEI 17020 : 2012.
 
 4. Le cahier des charges visé au I de l'article R. 323-14 du code de la route comprenant notamment :
 
@@ -286,7 +286,7 @@ h) Le cahier des charges type des installations de contrôle ;
 
 i) L'attestation de conformité de l'outil informatique délivrée par l'Organisme technique central en application des dispositions de l'article 37 du présent arrêté.
 
-5. La copie du certificat d'accréditation de la personne physique ou morale exploitante ou un récépissé délivré par l'organisme accréditeur tel que prévu à l'article 32 attestant que le réseau a déposé, en vue de son accréditation, son système qualité complet établi en référence à la norme NF EN ISO/CEI 17020 : 2005.
+5. La copie du certificat d'accréditation de la personne physique ou morale exploitante ou un récépissé délivré par l'organisme accréditeur tel que prévu à l'article 32 attestant que le réseau a déposé, en vue de son accréditation, son système qualité complet établi en référence à la norme NF EN ISO/CEI 17020 : 2012.
 
 6. La procédure du réseau définissant, pour les installations de contrôle rattachées ou exploitées par le réseau, les sanctions prévues au point 3. 1 de l'annexe VI du présent arrêté et les modalités de mise en œuvre.
 

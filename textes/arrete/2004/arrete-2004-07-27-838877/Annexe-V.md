@@ -4,7 +4,7 @@ ORGANISATION DES INSTALLATIONS DE CONTRÔLE
 
 1. Organisation générale
 
-1.1. Chaque centre de contrôle met en place un ensemble d'actions préétablies et systématiques nécessaires pour garantir le niveau des prestations effectuées. Cet ensemble de dispositions figure dans le cahier des charges et répond aux exigences de la norme NF EN ISO / CEI 17020 : 2005.
+1.1. Chaque centre de contrôle met en place un ensemble d'actions préétablies et systématiques nécessaires pour garantir le niveau des prestations effectuées. Cet ensemble de dispositions figure dans le cahier des charges et répond aux exigences de la norme NF EN ISO / CEI 17020 : 2012.
 
 1.2. Outre les procédures répondant aux exigences normatives, l'exploitant du centre de contrôles est chargé notamment d'établir, de tenir à jour et d'appliquer les procédures suivantes :
 
