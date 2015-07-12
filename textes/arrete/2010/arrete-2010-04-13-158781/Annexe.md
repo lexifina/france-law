@@ -1,5 +1,9 @@
 # Article Annexe
 
+Évaluation de prévention-santé-environnement
+
+Épreuve de prévention-santé-environnement
+
 Objectifs de l'épreuve
 
 L'épreuve a pour objectif d'évaluer les compétences du candidat à :
@@ -12,7 +16,7 @@ L'épreuve a pour objectif d'évaluer les compétences du candidat à :
 
 - proposer et justifier les mesures de prévention adaptées ;
 
-- agir de façon efficace face à une situation d'urgence.
+- proposer des actions permettant d'intervenir efficacement face à une situation d'urgence.
 
 Critères d'évaluation
 
@@ -24,55 +28,47 @@ L'évaluation porte notamment sur :
 
 - la pertinence et le réalisme des solutions proposées ;
 
-- l'efficacité de l'action face à une situation d'urgence.
+- l'efficacité de la démarche face à une situation d'urgence.
 
 Modalités d'évaluation
 
-Évaluation par contrôle en cours de formation
+Évaluation par épreuve ponctuelle (2 heures)
 
-Le contrôle en cours de formation est organisé à partir de deux situations d'évaluation.
+Le sujet se compose de deux parties correspondant l'une aux modules 1 à 7 qui portent sur l'éducation de l'individu à la santé, à la consommation et au développement durable, l'autre aux modules 8 à 12 qui portent sur la connaissance du milieu professionnel et la prévention des risques. Chaque partie comporte plusieurs questions indépendantes ou liées permettant d'évaluer les connaissances et les compétences relatives aux modules correspondants.
 
-La première situation d'évaluation, notée sur 12 points, a lieu au plus tard en fin de première professionnelle et comporte deux parties :
+Première partie, notée sur 10 points :
 
-- une évaluation écrite d'une durée de 1 heure, notée sur 9 points. Elle prend appui sur des situations de la vie quotidienne ou professionnelle. Elle comporte plusieurs questions indépendantes ou liées permettant d'évaluer les connaissances et les capacités relatives à au moins deux modules parmi les modules de 1 à 7 notés sur 6 points. Le module 8 à l'exception des situations d'urgences, noté sur 3 points, est évalué à travers la mise en œuvre de la démarche d'approche par le risque ;
+- Le questionnement prend appui sur des situations de la vie quotidienne et permet d'évaluer des contenus d'au moins deux modules parmi les modules de 1 à 7.
 
-- une évaluation pratique, notée sur 3 points. Elle prend en compte les résultats obtenus lors de la formation de base au secourisme ou du recyclage SST.
+Deuxième partie, notée sur 10 points :
 
-Pour les candidats en situation de handicap, une adaptation de cette évaluation pratique doit être proposée sous forme orale ou écrite.
+Elle permet d'évaluer des contenus :
 
-La deuxième situation d'évaluation, notée sur 8 points, a lieu en terminale professionnelle.
+- du module 8 noté sur 4 points à travers la mise en œuvre de la démarche d'approche par le risque. Le candidat dispose de documents ressources lui permettant de proposer une démarche de prévention. Le questionnement intègre une question qui permet d'expliquer la conduite à tenir face à une situation d'urgence ;
 
-Elle permet d'évaluer les modules de 9 à 12 à travers une production personnelle écrite (10 pages environ).
+- des modules de 9 à 12 notés sur 6 points. L'évaluation s'appuie sur un dossier ressource qui présente une situation d'entreprise. Les contenus du dossier permettent la mise en œuvre de la démarche d'analyse par le travail, la mobilisation des connaissances scientifiques et législatives, l'argumentation des solutions proposées.
 
-Le dossier produit présente la place de la prévention dans l'entreprise et l'analyse d'une situation professionnelle à partir des données recueillies en entreprise.
+Le dossier fourni au candidat présente :
 
-Cette production met en évidence :
+- une situation professionnelle ;
 
 - une description des activités de l'entreprise ;
 
-- l'identification d'un risque et de ses effets physiopathologiques dans le cadre d'une situation professionnelle ;
+- des documents législatifs et réglementaires nécessaires.
 
-- la mise œuvre d'une démarche d'analyse (approche par le travail ou par l'accident) ;
+Évaluation par contrôle en cours de formation
 
-- la politique de prévention dans l'entreprise.
+Pour les candidats de la voie de la formation professionnelle continue dans un établissement public habilité, le contrôle en cours de formation est organisé à partir de deux situations d'évaluation écrites correspondant à la définition de chacune des deux parties de l'épreuve ponctuelle.
 
-Évaluation par épreuve ponctuelle (2 heures)
+La première situation d'évaluation d'une durée de 1 heure, est notée sur 10 points.
 
-Le sujet se compose de deux parties correspondant l'une aux modules de 1 à 8, l'autre aux modules 9 à 12. Chaque partie comporte plusieurs questions indépendantes ou liées permettant d'évaluer les connaissances et les capacités relatives aux modules correspondants.
+Le questionnement prend appui sur des situations de la vie quotidienne et permet d'évaluer des contenus d'au moins deux modules parmi les modules de 1 à 7.
 
-La première partie, notée sur 12 points, comporte :
+La deuxième situation d'évaluation d'une durée de 1 heure, est notée sur 10 points. Elle permet d'évaluer des contenus
 
-- un questionnement noté sur 9 points. Il prend appui sur des situations de la vie quotidienne ou professionnelle et permet d'évaluer :
+- du module 8 noté sur 4 points à travers la mise en œuvre de la démarche d'approche par le risque. Le candidat dispose de documents ressources lui permettant de proposer une démarche de prévention. Le questionnement intègre une question qui permet d'expliquer la conduite à tenir face à une situation d'urgence ;
 
-. au moins deux modules parmi les modules de 1 à 7, notés sur 6 points,
-
-. le module 8 noté sur 3 points évalué à travers la mise en œuvre de la démarche d'approche par le risque. Le candidat dispose de documents ressources lui permettant de proposer une démarche de prévention ;
-
-- un questionnement noté sur 3 points permet d'expliquer la conduite à tenir face à une situation d'urgence.
-
-La deuxième partie, notée sur 8 points, permet d'évaluer les modules de 9 à 12.
-
-L'évaluation s'appuie sur un dossier ressource qui présente une situation d'entreprise. Les contenus du dossier permettent la mise en œuvre de la démarche d'analyse par le travail, la mobilisation des connaissances scientifiques et législatives, l'argumentation des solutions proposées.
+- des modules de 9 à 12 notés sur 6 points. L'évaluation s'appuie sur un dossier ressource qui présente une situation d'entreprise. Les contenus du dossier permettent la mise en œuvre de la démarche d'analyse par le travail, la mobilisation des connaissances scientifiques et législatives, l'argumentation des solutions proposées.
 
 Le dossier fourni au candidat présente :
 

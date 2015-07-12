@@ -1,5 +1,9 @@
 # Article Annexe
 
+Évaluation de l'économie-droit
+
+Épreuve d'économie-droit
+
 Finalités et objectifs
 
 L'épreuve d'économie-droit des baccalauréats professionnels tertiaires a pour objectif d'évaluer, chez les candidats, le niveau de compréhension et d'analyse :
@@ -24,15 +28,23 @@ Plus précisément, l'épreuve doit permettre de mesurer :
 
 Modalités d'évaluation
 
-A. Contrôle en cours de formation
+A. Forme ponctuelle - Épreuve écrite
+
+Épreuve écrite - Durée : 2 heures 30 Coefficient : 1
+
+Le sujet porte sur une thématique donnée, il est constitué d'un dossier documentaire et d'un questionnement. Il est demandé au candidat de réinvestir ses connaissances économiques et juridiques ainsi que des compétences méthodologiques notamment mobilisées dans le cadre de la réalisation des études, telles que définies dans le programme.
+
+Le candidat est évalué sur sa capacité à traiter la thématique du sujet, à mettre en oeuvre une démarche d'exploitation du dossier documentaire, à dégager des axes d'analyse, à argumenter et illustrer les réponses en se référant à la spécialité du baccalauréat professionnel présenté.
+
+B. Contrôle en cours de formation
 
 Durée : 30 minutes maximum
 
 L'épreuve comporte une situation d'évaluation.
 
-Elle prend appui sur un dossier comportant quatre études , choisies par le candidat parmi celles menées en classe de première et de terminale préparant au baccalauréat professionnel.
+Elle prend appui sur un dossier comportant quatre "études", choisies par le candidat parmi celles menées en classe de première et de terminale préparant au baccalauréat professionnel.
 
-La notion d' étude est définie dans le point 2 du programme d'enseignement d'économie-droit.
+La notion d'"étude" est définie dans le point 2 du programme d'enseignement d'économie-droit.
 
 Deux exemplaires du dossier sont confectionnés en vue de l'examen.
 
@@ -46,13 +58,13 @@ L'épreuve se déroule en 2 phases :
 
 - Exposé oral du candidat (10 minutes)
 
-Le candidat présente les objectifs de l'étude ainsi que les conditions dans lesquelles elle a été conduite. Il expose ensuite les objets observés, les champs de connaissances abordés et les méthodes mises en œuvre à cette occasion.
+Le candidat présente les objectifs de l'étude ainsi que les conditions dans lesquelles elle a été conduite. Il expose ensuite les objets observés, les champs de connaissances abordés et les méthodes mises en oeuvre à cette occasion.
 
 Il termine en donnant son interprétation des résultats obtenus et les conclusions qu'il tire de cette étude.
 
 Sauf cas de nécessité majeure, le candidat n'est pas interrompu durant son exposé.
 
-- Entretien avec le candidat (20 minutes maximum)
+- Entretien avec le candidat (20 minutes maximum).
 
 Cet exposé est suivi d'un entretien. Il permet d'évaluer la qualité du travail réalisé par le candidat, sa capacité à réinvestir ses connaissances et ses compétences dans le cadre des études ainsi que son investissement personnel.
 
@@ -77,39 +89,3 @@ Les modèles de ces deux documents seront fournis aux établissements par les au
 La proposition de note ne doit pas être communiquée au candidat.
 
 Les éléments du dossier décrits ci-dessus sont transmis, sous la responsabilité du chef d'établissement, à l'autorité rectorale et mis à la disposition du jury.
-
-B. Forme ponctuelle - Épreuve orale
-
-Durée : 30 minutes
-
-Elle prend appui sur un dossier comportant quatre études , choisies par le candidat parmi celles qu'il a réalisées au cours de la formation en première et terminale professionnelle ou à titre personnel, pour les candidats inscrits à l'examen en qualité de candidat libre.
-
-Ces études doivent être le résultat d'un travail personnalisé.
-
-La notion d' étude est définie dans le point 2 du programme d'enseignement d'économie-droit.
-
-Deux exemplaires du dossier sont confectionnés en vue de l'examen (1 pour le candidat, 1 pour l'examinateur).
-
-Déroulement
-
-L'épreuve se déroule en 2 phases :
-
-- Exposé oral du candidat (10 minutes)
-
-L'examinateur choisit l'une des études figurant dans le dossier du candidat.
-
-Le candidat présente les objectifs de l'étude ainsi que les conditions dans lesquelles elle a été conduite. Il expose ensuite les objets observés, les champs de connaissances abordés et les méthodes mises en œuvre à cette occasion.
-
-Il termine en donnant son interprétation des résultats obtenus et les conclusions qu'il tire de cette étude.
-
-Sauf cas de nécessité majeure, le candidat n'est pas interrompu durant son exposé.
-
-- Entretien et analyse de la prestation (20 minutes maximum)
-
-Cet exposé est suivi d'un entretien avec l'examinateur. Il permet d'évaluer la qualité du travail réalisé par le candidat, sa capacité à réinvestir ses connaissances et ses compétences dans le cadre des études ainsi que son investissement personnel.
-
-Conduite de l'évaluation
-
-L'évaluation est conduite par un examinateur qui est un enseignant d'économie et gestion, ayant en charge l'enseignement de l'économie-droit dans une classe préparant au baccalauréat professionnel tertiaire.
-
-À l'issue de l'interrogation une note sur 20 est attribuée.
