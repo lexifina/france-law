@@ -1,0 +1,9 @@
+# Réponse à la question n° 72617
+
+- Question : [72617](72617.md) — Question n° 72617 — prêts bancaires; conditions de garantie; accès
+
+## Réponse
+
+*JO du 2015-07-15*
+
+Contracter un crédit constitue un engagement dont les conséquences doivent être pleinement mesurées. Il est nécessaire que le contactant et l'établissement de crédit puissent évaluer et anticiper raisonnablement les capacités d'endettement et de remboursement de l'emprunteur. Conscient des difficultés que peuvent rencontrer les étudiants pour financer leurs études, l'Etat a décidé d'apporter son soutien en se portant garant du prêt étudiant auprès des banques partenaires par le biais de Bpifrance. Ce prêt est ouvert à l'ensemble des étudiants âgés de moins de 28 ans qui sont inscrits dans un établissement pour préparer un diplôme de l'enseignement supérieur français. Ce prêt ne fait l'objet d'aucune demande de caution ou de conditions de ressources. Le montant du prêt dépend des établissements de crédits qui l'accordent et peut atteindre 15 000 euros. L'étudiant peut choisir de différer le remboursement du prêt, en partie ou en totalité. Ce prêt est néanmoins un crédit à la consommation et doit donc respecter certaines règles notamment en ce qui concerne l'information préalable de l'emprunteur, la mise en place du contrat ainsi que le droit de rétractation. Enfin, que ce soit le prêt étudiant garanti par l'Etat ou une autre forme de prêt, il convient de rappeler que les établissements de crédit sont responsables des risques qu'ils acceptent de supporter. Ils sont de ce fait, maîtres de leurs décisions en matière d'octroi de prêts, en fonction de l'appréciation qu'ils portent de la situation financière de leurs clients et des garanties offertes. Il n'est pas actuellement prévu par le Gouvernement de modifier les règles d'obtention d'un crédit à la consommation.
