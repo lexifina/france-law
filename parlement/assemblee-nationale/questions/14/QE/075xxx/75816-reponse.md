@@ -1,0 +1,9 @@
+# Réponse à la question n° 75816
+
+- Question : [75816](75816.md) — Question n° 75816 — bourses au mérite; contrôle assiduité; perspectives
+
+## Réponse
+
+*JO du 2015-07-15*
+
+L'obligation d'assiduité est prévue par le décret du 16 avril 1951 relatif au paiement des bourses d'enseignement supérieur et est rappelée, chaque année, par la circulaire du ministère de l'éducation nationale, de l'enseignement supérieur et de la recherche relative aux modalités d'attribution des bourses d'enseignement supérieur sur critères sociaux, adressée aux recteurs d'académie. Le ministère a pris différentes initiatives en 2014 pour améliorer le contrôle d'assiduité, tout au long de l'année, des étudiants bénéficiaires de bourses. En plus des règles applicables, contrôle de l'assiduité aux examens et aux cours, mais aussi aux travaux dirigés, travaux pratiques et stages obligatoires, une circulaire adressée aux recteurs d'académie le 21 juillet 2014 a introduit un contrôle de l'inscription pédagogique des étudiants au début du premier semestre. Cette disposition a été rappelée par lettre en date de 10 novembre 2014 aux présidents d'université sur la nécessité d'opérer le contrôle d'assiduité en vérifiant en premier lieu la validation de l'inscription pédagogique. Désormais tout étudiant n'ayant pas procédé à son inscription pédagogique au plus tard avant la fin du premier semestre de l'année universitaire voit le paiement de sa bourse suspendu. Enfin, des travaux sont en cours avec les maîtrises d'oeuvre des applications gérant d'une part la scolarité des étudiants et d'autre part les demandes de bourse afin d'organiser une meilleure communication entre elles et d'assurer une information immédiate du centre régional des oeuvres universitaire et scolaires en cas de manquement d'un étudiant boursier à son obligation d'assiduité.
