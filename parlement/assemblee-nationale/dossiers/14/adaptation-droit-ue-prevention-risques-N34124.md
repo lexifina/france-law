@@ -1,0 +1,51 @@
+# Environnement : adaptation au droit de l'UE en matière de prévention des risques
+
+- Procédure : Projet de loi ordinaire
+- Législature : 14
+- Identifiant : DLR5L14N34124
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/adaptation_droit_ue_prevention_risques
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl14-693.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2015-07-15 : 1er dépôt d'une initiative. (PRJLANR5L14B2982)
+  - 2015-07-15 : Etude d'impact (ETDIANR5L14B2982)
+  - 2015-07-15 : Avis du Conseil d'Etat (AVCEANR5L14B2982)
+  - 2015-07-15 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2015-07-15 : Renvoi en commission au fond
+      - 2015-07-15 : Nomination de rapporteur
+      - 2015-09-09 : Réunion de commission
+      - 2015-09-16 : Réunion de commission
+      - 2015-09-10 : Dépôt de rapport (RAPPANR5L14B3044, PRJLANR5L14BTC3044)
+  - Discussion en séance publique
+    - 2015-09-16 : Discussion en séance publique
+    - 2015-09-16 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2015-09-17 : Dépôt d'une initiative en navette (PRJLSNR5S239B0693)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2015-09-17 : Renvoi en commission au fond
+      - 2015-07-22 : Nomination de rapporteur
+      - 2015-10-14 : Dépôt de rapport (RAPPSNR5S259B0063)
+  - Discussion en séance publique
+    - 2015-10-26 : Discussion en séance publique
+    - 2015-10-26 : Décision
+- Commission Mixte Paritaire
+  - 2015-10-27 : Dépôt d'un projet de loi (PRJLANR5L14B3168)
+  - 2015-10-27 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2015-11-10 : Nomination de rapporteur
+    - 2015-11-10 : Dépôt du rapport d'une CMP (RAPPANR5L14B3207)
+    - 2015-11-10 : Dépôt du rapport d'une CMP (RAPPSNR5S259B0151)
+  - Discussion en séance publique
+    - 2015-11-17 : Discussion en séance publique
+    - 2015-11-17 : Décision
+  - Discussion en séance publique
+    - 2015-11-24 : Discussion en séance publique
+    - 2015-11-24 : Décision
+  - 2015-11-12 : Décision de la CMP
+- Promulgation de la loi
+  - 2015-12-02 : Promulgation d'une loi
