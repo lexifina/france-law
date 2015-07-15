@@ -1,0 +1,9 @@
+# Réponse à la question n° 77706
+
+- Question : [77706](77706.md) — Question n° 77706 — personnes mineures; prise en charge; droit au secret médical
+
+## Réponse
+
+*JO du 2015-07-15*
+
+Le principe général de dérogation au consentement des titulaires de l'autorité parentale sur les décisions médicales « lorsque le traitement ou l'intervention s'impose pour sauvegarder la santé d'une personne mineure, dans le cas où cette dernière s'oppose expressément à la consultation du ou des titulaires de l'autorité parentale afin de garder le secret sur son état de santé » existe dans notre droit depuis plusieurs années. Ce principe est justifié en ce qu'il apporte une protection aux personnes mineures, notamment celles séropositives au VIH, qui sans cette possibilité pourraient renoncer aux soins qui leur sont pourtant indispensables. Néanmoins, les conséquences de ce principe de protection sur les remboursements opérés par les caisses d'assurance maladie n'ont pas encore été tirées, rendant ainsi ce dispositif inopérant dans certains cas. Le Gouvernement partage donc cette préoccupation et souhaite permettre à ces mineurs, quand leur situation familiale les empêche d'obtenir un accompagnement de leurs parents, d'accéder aux soins sans crainte des conséquences éventuelles que cela aurait sur leurs rapports avec leurs proches. Dans cette perspective, l'article 7 du projet de loi de modernisation de notre système de santé adopté par l'Assemblée nationale le 14 avril 2015 instaure la possibilité de rendre la prise en charge des dépenses de santé par les caisses secrète pour certains soins délivrés au mineur sans recueil de l'autorité parentale. Un arrêté fixera les soins concernés bénéficiant d'une couverture intégrale de l'assurance maladie, parmi lesquels figureront évidemment ceux relatifs aux ayants droit mineurs ou majeurs séropositifs au VIH.
