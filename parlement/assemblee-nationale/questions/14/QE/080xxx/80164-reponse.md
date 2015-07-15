@@ -1,0 +1,9 @@
+# Réponse à la question n° 80164
+
+- Question : [80164](80164.md) — Question n° 80164 — chantiers de proximité; dispositif argent de poche; développement
+
+## Réponse
+
+*JO du 2015-07-15*
+
+L'accès des jeunes sans activité ou en difficulté aux loisirs éducatifs et aux vacances constitue un objectif prioritaire. Les chantiers et stages à caractère éducatif proposés dans le cadre du programme « ville vie vacances » permettent un accès aux loisirs, à la culture et au développement de la citoyenneté, dans un cadre maîtrisé, ce qui représente une opportunité pour beaucoup de jeunes. Les sommes versées aux jeunes âgés de 14 à moins de 26 ans au titre de leur activité sont assimilables à des gratifications versées aux stagiaires en entreprise, et sont par conséquent exclues de l'assiette des cotisations et contributions sociales CSG et CRDS dans les mêmes limites. De même, les jeunes âgés de 16 ans à moins de 26 ans qui suivent une formation professionnelle non rémunérée ou uniquement par l'Etat ou par la région bénéficient également d'un assujettissement aux cotisations sociales favorable sur la base d'une assiette forfaitaire ainsi que d'une exonération des contributions sociales CSG et CRDS. Ces mesures permettent aux jeunes de réaliser des projets personnels tels que la réalisation d'un projet de permis, de BAFA, un séjour de découvertes ou encore l'accès à des activités de loisirs. Le gouvernement souhaite maintenir ce système opérationnel, pour le développement des territoires. Aux termes d'échanges entre le ministère chargé des affaires sociales et le Commissariat général à l'égalité des territoires (CGET), le Gouvernement a donc décidé de renouveler à compter de cette année et pour l'avenir le régime social favorable qui y est associé. Un courrier du directeur de la sécurité sociale datant du 5 juin 2015, adressé à l'agence centrale des organismes de sécurité sociale, en assurera la bonne application auprès des organismes de recouvrement.
