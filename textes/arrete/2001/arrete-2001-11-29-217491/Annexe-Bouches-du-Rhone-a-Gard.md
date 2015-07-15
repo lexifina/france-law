@@ -1,6 +1,6 @@
 # Article Annexe Bouches-du-Rhône à Gard
 
-Direction départementale de l'équipement des Bouches-du-Rhône
+Direction départementale des territoires et de la mer des Bouches-du-Rhône
 
 FONCTIONS EXERCEES
 
@@ -24,55 +24,7 @@ par emploi
 
 |
 
-Chef de la mission ville, habitat
-
-|
-
-A
-
-|
-
-1
-
-|
-
-30 points
-
-|
-
-Chef du pôle cadre de vie, suivi des contrats de ville, Martigues, Port-de-Bouc et Miramas
-
-|
-
-A
-
-|
-
-1
-
-|
-
-30 points
-
-|
-
-Chef du pôle cadre de vie, adjoint au chef de service suivi du contrat de ville Aix-en-Provence
-
-|
-
-A
-
-|
-
-1
-
-|
-
-30 points
-
-|
-
-Suivi de tous les contrats de ville du département
+Adjoint au directeur départemental des territoires, chargé du pilotage et de la coordination des services dans la mise en œuvre de la politique de la ville
 
 |
 
@@ -88,23 +40,7 @@ A
 
 |
 
-Chef du pôle cadre de vie, adjoint au chef de service suivi du contrat de ville de La Ciotat
-
-|
-
-A
-
-|
-
-1
-
-|
-
-30 points
-
-|
-
-Adjoint au chef de service du pôle cadre de vie et suivi du contrat ville Arles
+Chef du service habitat
 
 |
 
@@ -120,7 +56,79 @@ A
 
 |
 
-Adjoint au chef de mission ville habitat et plan national du renouvellement urbain
+Adjoint au chef du service habitat et chef du pôle renouvellement urbain
+
+|
+
+A
+
+|
+
+1
+
+|
+
+24 points
+
+|
+
+Chef du pôle habitat privé-service habitat
+
+|
+
+A
+
+|
+
+1
+
+|
+
+24 points
+
+|
+
+Chef du service territorial Sud
+
+|
+
+A
+
+|
+
+1
+
+|
+
+24 points
+
+|
+
+Chef du service territorial d'Arles
+
+|
+
+A
+
+|
+
+1
+
+|
+
+24 points
+
+|
+
+Chef du service territorial Est |
+
+A |
+
+1 |
+
+24 points |
+
+Adjoint au chef de pôle renouvellement urbain, en charge de la politique de la ville et renouvellement urbain-service habitat
 
 |
 
@@ -136,7 +144,39 @@ B
 
 |
 
-Chargé d'études mission ville habitat renouvellement urbain
+Chargé d'instruction au pôle rénovation urbaine, référent pour l'appui méthodologique sur les centres anciens-service habitat
+
+|
+
+B
+
+|
+
+1
+
+|
+
+25 points
+
+|
+
+Chargé d'instruction au pôle rénovation urbaine, référent pour l'appui méthodologique sur les avenants des PRU-service habitat
+
+|
+
+B
+
+|
+
+1
+
+|
+
+25 points
+
+|
+
+Chargé d'étude rénovation urbaine, financement du logement-unité planification logement au pôle politiques territoriales-service territorial Sud
 
 |
 
@@ -152,7 +192,7 @@ B
 
 |
 
-Chargé d'études mission ville habitat renouvellement urbain
+Responsable d'unité habitat ville au pôle politique de l'aménagement et de l'habitat-service territorial Est
 
 |
 
@@ -168,7 +208,7 @@ B
 
 |
 
-Adjoint et chargé d'études au pôle cadre de vie du service territorial Nord-Est
+Responsable d'unité habitat et fiscalité au pôle conseil et connaissance du territoire-service territorial Centre
 
 |
 
@@ -184,23 +224,7 @@ B
 
 |
 
-Chargé d'études politique de la ville et renouvellement urbain
-
-|
-
-B
-
-|
-
-1
-
-|
-
-30 points
-
-|
-
-Chargé d'études au pôle cadre de vie contrat ville Port-Saint-Louis
+Chargé d'étude au pôle planification aménagement, référent pour la rénovation urbaine-service territorial Centre
 
 |
 
@@ -216,7 +240,7 @@ B
 
 |
 
-Chargé d'études politique de la ville au pôle cadre de vie
+Chargé d'étude au pôle politiques urbaines, référent politique de la ville et patrimoine-service territorial d'Arles
 
 |
 
@@ -229,22 +253,6 @@ B
 |
 
 20 points
-
-|
-
-Chargé d'études politique de la ville et adjoint au chef du pôle cadre de vie
-
-|
-
-B
-
-|
-
-1
-
-|
-
-30 points
 
 |
 
