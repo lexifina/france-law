@@ -1,0 +1,9 @@
+# Réponse à la question n° 52447
+
+- Question : [52447](52447.md) — Question n° 52447 — karaté; fédération nationale; fonctionnement
+
+## Réponse
+
+*JO du 2015-07-15*
+
+Le président de la fédération française de karaté et disciplines associées (FFKDA) a pris la décision du retrait des attributions de la ligue du Lyonnais et de la ligue du Dauphiné Savoie de karaté. En préalable, il est important de mentionner que la ligue du Lyonnais de karaté et la ligue du Dauphiné Savoie de karaté ont créé ensemble un comité de coordination Rhône Alpes de karaté (CCRAK) le 7 décembre 2002. Cette association non reconnue par la FFKDA avait pour principale mission d'obtenir des subventions publiques qui ne pouvaient pas être obtenues par le biais des deux ligues académiques, puis de reverser ces fonds publics aux deux entités. Si le CCRAK ne semble pas avoir vécu dans la clandestinité tout au long de ces 11 années, il n'apparait pas cependant non plus que celui-ci ait effectué des démarches auprès de la FFKDA, quand dans le même temps, il se prévalait d'un rattachement à celle-ci pour obtenir des subventions publiques. Aussi, afin d'assainir la situation et de mettre en cohérence ses ligues avec le découpage administratif des services de l'Etat, le comité directeur de la FFKDA, par décision du 15 novembre 2013, a procédé au retrait des attributions issues de la délégation fédérale aux ligues du Lyonnais et du Dauphiné Savoie. Le 18 janvier 2014, s'est déroulée une assemblée générale constitutive de la nouvelle ligue Rhône Alpes. Le 29 novembre 2013 la Ligue du Lyonnais a présenté une requête au tribunal administratif de Lyon pour annuler la décision du conseil d'administration de la FFKDA du 15 novembre 2013. Celle-ci a été rejetée en date du 10 décembre 2013. Au vu des éléments ci-dessus, la FFKDA a agi conformément à sa possibilité de déléguer à cette nouvelle ligue les attributions antérieurement déléguées aux ligues du Lyonnais et du Dauphiné Savoie.
