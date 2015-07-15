@@ -1,3 +1,3 @@
 # Article Annexe
 
-L'annexe du présent arrêté est disponible auprès des établissements de l'élevage, des directions départementales des services vétérinaires, des directions départementales de l'agriculture et de la forêt, de l'institut technique du porc et du bureau de l'identification et du contrôle des mouvements des animaux à la direction générale de l'alimentation du ministère de l'agriculture et de la pêche (251, rue de Vaugirard, 75732 Paris Cedex 15).
+L'annexe de l'arrêté du 24 novembre 2005 susvisé est modifiée et est publiée au Bulletin officiel du ministère de l'agriculture, de l'agroalimentaire et de la forêt. Elle peut être consultée à l'adresse suivante : http://www.agriculture.gouv.fr/bulletin-officiel.
