@@ -1,0 +1,160 @@
+# INSTRUCTION INTERMINISTÉRIELLE N° 10958/DN/CC/DECO N° 448/SGAC/CAB/G fixant les conditions de proposition pour la médaille de l'aéronautique.
+
+- État : abrogée (au 2015-07-16)
+- NOR : BODEF16921
+- Numéro : BODEF16921
+- Date de signature : 1973-02-23
+- Mise en ligne : 2009-04-30
+- Signataire : Le ministre des transports,Robert GALLEY.Le ministre d'Etat chargé de la défense nationale,Michel DEBRE.  Le ministre des transports,  Le ministre des transports,  Le ministre des transports,   Robert GALLEY.  Robert GALLEY.  Le ministre d'Etat chargé de la défense nationale,  Le ministre d'Etat chargé de la défense nationale,  Le ministre d'Etat chargé de la défense nationale,   Michel DEBRE.  Michel DEBRE.
+- Ministères : 4
+- Domaines : Défense
+- Mots-clés : ; Le personnel.Dispositions générales intéressant le personnel militaire.Décorations.TITRE II. PRINCIPALES DÉCORATIONS FRANÇAISES (AUTRES QUE LES ORDRES NATIONAUX) RELEVANT DU MINISTÈRE DE LA DÉFENSE.NiveauTitre
+- Publication JO / BO : BOC/SC, p. 402 ; BOC/G, p. 213 ; BOC/M, p. 289 ; BOC/A, p. 117.
+- Annexes : 0
+- Identifiant : 18569 (PDF officiel : pdf/2009/04/cir_18569.pdf)
+
+## Résumé
+
+Le directeur central du commissariat de l'air arrête le montant de l'enveloppe initiale prévisionnelle du budget de fonctionnement des organismes du service et le notifie à chacun d'entre eux, en principe, dès le début de la gestion.L'enveloppe initiale prévisionnelle du CPAA et des CATA est notifiée au directeur de l'organisme par le directeur du commissariat en région aérienne. Celle des ELCA est notifiée au directeur de l'organisme par le directeur du SELOCA.  Le directeur central du commissariat de l'air arrête le montant de l'enveloppe initiale prévisionnelle du budget de fonctionnement des organismes du service et le notifie à chacun d'entre eux, en principe, dès le début de la gestion.  Le directeur central du commissariat de l'air arrête le montant de l'enveloppe initiale prévisionnelle du budget de fonctionnement des organismes du service et le notifie à chacun d'entre eux, en principe, dès le début de la gestion.  L'enveloppe initiale prévisionnelle du CPAA et des CATA est notifiée au directeur de l'organisme par le directeur du commissariat en région aérienne. Celle des ELCA est notifiée au directeur de l'organisme par le directeur du SELOCA.  L'enveloppe initiale prévisionnelle du  CPAA  CPAA   et des  CATA  CATA   est notifiée au directeur de l'organisme par le directeur du commissariat en région aérienne. Celle des  ELCA  ELCA   est notifiée au directeur de l'organisme par le directeur du  SELOCA  SELOCA  .
+
+## Texte
+
+BULLETIN OFFICIEL DES ARMEES
+Edition Chronologique
+PARTIE PERMANENTE
+Administration Centrale
+INSTRUCTION INTERMINISTÉRIELLE N° 10958/DN/CC/DECO N° 448/SGAC/CAB/G
+fixant les conditions de proposition pour la médaille de l'aéronautique.
+Du 23 février 1973
+
+DIRECTION DES PERSONNELS CIVILS : sous-direction de la coordination et de la réglementation
+générale.
+INSTRUCTION INTERMINISTÉRIELLE N° 10958/DN/CC/DECO N° 448/SGAC/CAB/G fixant les
+conditions de proposition pour la médaille de l'aéronautique.
+Du 23 février 1973
+Classement dans l'édition méthodique : BOEM 307.2.9.
+Référence de publication : BOC/SC, p. 402 ; BOC/G, p. 213 ; BOC/M, p. 289 ; BOC/A, p. 117.
+La médaille de l'aéronautique tire de sa conception d'origine et d'une tradition déjà affirmée une quadruple
+vocation dont les textes réglementant cette décoration expriment clairement les termes :
+- récompenser la valeur professionnelle des personnels civils et militaires, navigants ou non navigants,
+relevant du ministre de la défense nationale et du ministre des transports ;
+- distinguer le mérite des citoyens qui ont contribué au développement des activités aéronautiques ;
+- sanctionner des prouesses, des actes d'héroïsme ou des travaux particulièrement intéressants pour le
+développement de l'aéronautique ;
+- honorer les victimes d'accidents aériens.
+Le développement rapide des techniques de l'espace élargit de nos jours le domaine de la médaille à
+l'ensemble des activités aérospatiales.
+Cette grande diversité dans le caractère et la signification des attributions, ainsi que dans la nature des
+bénéficiaires, confère à la médaille de l'aéronautique une situation originale, unique dans la gamme des
+décorations françaises dont elle résume presque toutes les finalités essentielles : récompenser des mérites
+continus aussi bien que sanctionner des actions d'éclat sans exclusive ni préférence à l'égard du statut ou de la
+condition du bénéficiaire. Un seul insigne dont la valeur est rehaussée par la stricte limitation d'un contingent
+annuel relativement modeste (275 croix) réunit dans le même honneur, sans distinction de grade, de statut ou
+de spécialité professionnelle, tous ceux qui, à tous les niveaux ou stades de l'entreprise et de l'aventure
+aéronautiques ou spatiales sont les promoteurs, les artisans et les soldats, humbles ou glorieux, de la conquête
+du ciel. Parce que le ministre de la défense nationale, ou le ministre des transports, peuvent la décerner, sur le
+champ et publiquement, aux personnels, militaires ou civils victimes d'accidents aériens en service
+commandé, la médaille de l'aéronautique rappelle en outre que la sacrifice suprême est toujours dans
+l'aéronautique plus que dans d'autres secteurs d'activités le risque réel qu'ont accepté tous ceux qui consacrent
+leur vie au développement ou à la pratique de l'aviation.
+Chargées d'une signification aussi large et précise à la fois, les médailles du contingent doivent être réparties
+chaque année de façon à maintenir un équilibre équitable entre les différentes catégories de personnes qui
+peuvent y prétendre, étant entendu qu'en raison de la contrainte du contingent, la priorité doit être accordée à
+celles dont les mérites aéronautiques au sens de la réglementation de la médaille sont les plus affirmés.
+Pour assurer le respect de ces principes auxquels le conseil de la médaille attache beaucoup de prix, les
+prescriptions suivantes devront être observées lors de l'établissement et la présentation des propositions : les
+candidatures présentées à titre normal ou exceptionnel, seront obligatoirement distinguées selon les trois
+catégories correspondant aux trois premières destinations de la médaille, définies par les textes (les médailles
+décernées à titre posthume relevant d'un autre type de procédure) :
+
+A. Valeur professionnel des personnels civils et militaires ;
+B. Mérites acquis dans le développement des activités aéronautiques ;
+C. Actions d'éclat et travaux particuliers.
+A. Propositions faites au titre de la valeur professionnelle des personnels civils et militaires.
+Il convient de tenir compte que la même valeur professionnelle est également honorée par d'autres décorations
+: distinctions dans la Légion d'honneur et dans l'ordre national du Mérite, Médaille militaire, médaille
+d'honneur du travail. Dans cet éventail de décorations, le domaine de la médaille de l'aéronautique couvre
+deux niveaux distincts de situations :
+1. Conformément aux préoccupations qui sont à l'origine de sa création, la médaille de l'aéronautique
+doit être accordée aux personnels spécialisés dans les professions du secteur aéronautique qui n'ont
+pas normalement vocation à recevoir une autre récompense pour les mêmes services, leur spécialité,
+leur emploi ou leur statut, ne leur donnant pas la possibilité d'obtenir la Légion d'honneur, l'Ordre
+national du Mérite, la médaille militaire, la médaille d'honneur de l'aéronautique ou la médaille
+d'honneur du travail.
+2. Dans la plus grande partie des cas cependant, la médaille de l'aéronautique constitue un degré
+d'honneur supplémentaire, s'ajoutant à des décorations non spécifiquement aéronautiques que le
+déroulement normal d'une carrière doit permettre d'obtenir. Compte tenu de la modicité de son
+contingent, la médaille de l'aéronautique doit alors être réservée aux agents militaires ou civils qui,
+par la haute valeur de leurs services dans le domaine propre à l'aéronautique, méritent plus que les
+récompenses auxquelles les normes relatives aux autres décorations leur permettent de prétendre.
+Les priorités pour le choix des propositions à établir seront déterminées par référence à des critères
+simples en relation avec la spécialité du candidat, par exemple pour le personnel navigant :
+- heures de vols (par type d'appareil) ;
+- nombre de sauts en parachute ;
+- nombre d'appointages de jour et de nuit.
+A défaut, il conviendra de recourir aux notes et aux années de services.
+La priorité générale doit être donnée aux mérites constatés dans les seules activités directement liées à
+l'aéronautique. Cependant la médaille de l'aéronautique peut être accordée exceptionnellement, sous réserve
+qu'ils aient rendu des services éminents, aux personnels civils et militaires employés dans des tâches
+administratives ou techniques qui, sans être spécifiquement aéronautiques, concourent au développement de
+l'aviation civile ou militaire ou du secteur aérospatial.
+Des conditions d'âge et d'ancienneté de services, respectivement trente-cinq ans et quinze ans, sont exigées
+des candidats pour faire l'objet d'une proposition à titre normal. Dans des cas très exceptionnels, des
+propositions en faveur de personnes ne réunissant pas ces conditions pourront être portées à l'appréciation du
+conseil de la médaille si elles sont motivées par des services extraordinaires dont l'exposé doit être très précis.
+Les propositions seront présentées en groupes, dotés chacun d'un classement préférentiel. Ces groupes seront
+les suivants :
+Pour les militaires :
+- officiers généraux et ingénieurs généraux ;
+
+- officiers navigants ;
+- officiers non navigants et ingénieurs de l'armement ;
+- sous-officiers navigants ;
+- sous-officiers non navigants ;
+- militaires de réserves.
+Pour les personnels civils :
+- directeurs, ingénieurs et corps de catégorie « A » et assimilés ;
+- autres personnels.
+Les propositions à titre exceptionnel (condition d'âge ou d'ancienneté non observée) doivent être présentées à
+part, distinctement des groupes ci-dessus.
+B. Propositions faites au titre des mérites acquis dans le développement des activités aéronautiques.
+Les critères exposés pour le choix des priorités dans la catégorie « A » sont également applicables aux
+citoyens méritants dont l'activité s'exerce dans le secteur de l'aéronautique ou de l'espace, beaucoup d'entre
+eux ne pouvant espérer avoir d'autres décorations que la médaille aéronautique. Les conditions d'âge et
+d'ancienneté pour les propositions à titre normal sont fixées respectivement à quarante et vingt années sauf
+dans le cas des pilotes et des personnels navigants des sociétés aéronautiques et compagnies aériennes, pour
+lesquels les conditions d'ancienneté de la catégorie « A » sont applicables.
+Des propositions à titre exceptionnel peuvent être faites dans les mêmes conditions que celles prévues pour les
+catégories « A ».
+Comme celles de la catégorie « A », les propositions de la catégorie « B » seront présentées en groupes, dotés
+d'un classement préférentiel. Ces groupes seront les suivants :
+- pilotes et navigants ;
+- techniciens spécialisés au sol ;
+- présidents directeurs généraux ;
+- chefs de services, directeurs et cadres ;
+- dirigeants d'aéro-clubs ;
+- autres personnes.
+C. Actions d'éclat et travaux particuliers.
+Les récompenses pour actions d'éclat et travaux particuliers sont exceptionnelles par nature. Aucune condition
+d'âge ou d'ancienneté des services n'est exigée. Le conseil de la médaille apprécie les mérites des candidats
+d'après les faits qui sont à l'origine de la proposition. Un rapport détaillé doit être joint à l'appui des mémoires.
+Sont rattachées à cette catégorie les récompenses accordées aux pilotes de la patrouille de France après deux
+ans de présence, aux lauréats de concours et de rallyes, aux personnels de contrôle qui ramènent des avions en
+difficulté, à ceux qui ont réalisé des instruments ou des procédés de nature à améliorer le rendement ou la
+sécurité, etc… En bref, à ceux qui ont fait preuve dans des circonstances particulières de la vie aéronautique,
+
+d'un comportement exemplaire, digne d'une haute récompense ou qui ont amélioré les conditions de cette vie
+grâce à leur esprit d'invention.
+Conditions communes.
+Le nombre de propositions à titre normal présentées chaque année à l'examen du conseil de la médaille par
+chacun des grands organismes du département de la défense nationale, ne doit pas excéder de plus de 50
+p. 100 celui des médailles attribuées l'année précédente aux candidats présentés par les mêmes organismes.
+Sauf dans le cas de la catégorie « C », ne doivent pas être présentées les personnes qui ont obtenu une
+décoration française, à quelque titre que ce soit, depuis moins de deux ans, ou qui la même année sont
+retenues pour une autre décoration par le ministre de la défense nationale ou le ministre des transports.
+Les mémoires de propositions devront indiquer avec précision le détail et le décompte des services accomplis
+dans le secteur aérospatial, en les distinguant de ceux accomplis dans d'autres secteurs d'activité.
+Le ministre des transports,
+Robert GALLEY.
+Le ministre d'Etat chargé de la défense nationale,
+Michel DEBRE.
