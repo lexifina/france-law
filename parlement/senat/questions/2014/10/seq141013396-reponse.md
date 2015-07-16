@@ -1,0 +1,9 @@
+# Réponse à la question SEQ141013396
+
+- Question : [SEQ141013396](seq141013396.md) — Binationaux titulaires d'un diplôme de médecine extra-communautaire et souhaitant exercer en France
+
+## Réponse
+
+*Éducation nationale, enseignement supérieur et recherche, JO du 2015-07-16, page 1714*
+
+Le statut de faisant fonction d'interne (FFI) permet de réaliser des fonctions hospitalières, de manière temporaire, et dans l'objectif d'obtention d'un diplôme ou d'un complément de formation spécialisée. Aussi, seuls les médecins titulaires d'un diplôme de docteur en médecine permettant l'exercice de leur profession « dans le pays d'obtention ou d'origine » qui effectuent des études en France en vue de la préparation de certains diplômes du troisième cycle d'études médicales et les étudiants en médecine ressortissants d'un des états membres de l'Union européenne ayant validé les six premières années des études médicales en vue d'effectuer un complément de formation peuvent bénéficier de cette position (article R. 6153-42 du code de la santé publique). Toutefois, la jurisprudence prévoit que toute personne ayant deux nationalités, dont la nationalité française, est considérée en France comme française et ne peut donc prétendre aux dispositifs réservés aux ressortissants d'États hors de l'Union européenne. Cependant, les Français, titulaires d'un diplôme extra-communautaires de médecin, ont la possibilité de bénéficier de la procédure d'autorisation d'exercice dans des conditions fixées par le code de la santé publique (articles L. 4111-2-1 et D. 4111-1). Les conditions de cette procédure sont consultables sur le site du centre national de gestion des praticiens hospitaliers et des personnels de direction de la fonction publique hospitalière (CNG), établissement public sous tutelle du ministère des affaires sociales, de la santé et des droits des femmes.
