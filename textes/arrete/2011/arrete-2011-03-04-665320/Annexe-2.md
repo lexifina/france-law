@@ -24,7 +24,7 @@ CRITÈRES D'INTÉGRATION AU BÂTI ET CRITÈRE D'INTÉGRATION SIMPLIFIÉE AU BÂT
 
 2.2.3. Brise-soleil ;
 
-2.2.4. Garde-corps de fenêtre, de balcon ou de terrasse ;
+2.2.4. Garde-corps de fenêtre, de balcon ou de terrasse pour les installations de production d'électricité utilisant l'énergie radiative du soleil pour lesquelles le producteur a envoyé sa demande complète de raccordement à l'acheteur avant le 17 juillet 2015 sous réserve d'une mise en service de celles-ci dans un délai de 12 mois à compter de cette date ;
 
 2.2.5. Mur-rideau.
 
@@ -46,7 +46,7 @@ CRITÈRES D'INTÉGRATION AU BÂTI ET CRITÈRE D'INTÉGRATION SIMPLIFIÉE AU BÂT
 
 4.1.3. Brise-soleil ;
 
-4.1.4. Garde-corps de fenêtre, de balcon ou de terrasse ;
+4.1.4. Garde-corps de fenêtre, de balcon ou de terrasse pour les installations de production d'électricité utilisant l'énergie radiative du soleil pour lesquelles le producteur a envoyé sa demande complète de raccordement à l'acheteur avant le 17 juillet 2015 sous réserve d'une mise en service de celles-ci dans un délai de 12 mois à compter de cette date ;
 
 4.1.5. Mur-rideau.
 
