@@ -40,19 +40,19 @@ Les langues proposées au choix des candidats sont les suivantes : allemand, ang
 
 L'usage du dictionnaire monolingue ou bilingue est interdit.
 
-II. ― Inventaires de personnalité
+II.-Inventaires de personnalité
 
-En même temps que les épreuves d'admissibilité, les candidats sont soumis à deux inventaires de personnalité destinés à préparer, pour les candidats admissibles, leur entretien individuel avec un psychologue. Les inventaires de personnalité sont corrigés uniquement pour les candidats admissibles.
+En même temps que les épreuves d'admissibilité, les candidats sont soumis à deux inventaires de personnalité destinés à préparer, pour les candidats admissibles, leur entretien individuel avec un ou plusieurs psychologues. Les inventaires de personnalité sont corrigés uniquement pour les candidats admissibles.
 
 Ces inventaires n'étant pas une épreuve du concours, aucune préparation n'est nécessaire.
 
-III. ― Nature, forme et programmes des épreuves d'admission
+III.-Nature, forme et programmes des épreuves d'admission
 
 Les épreuves d'admission comprennent :
 
-― une épreuve orale d'entretien avec le jury (durée : 10 minutes de préparation et 20 minutes d'entretien ; coefficient 7) ;
+-une épreuve orale d'entretien avec le jury (durée : 10 minutes de préparation et 20 minutes d'entretien ; coefficient 7) ;
 
-― l'épreuve physique gendarmerie (coefficient 3).
+-l'épreuve physique gendarmerie (coefficient 3).
 
 3.1. Epreuve d'entretien avec le jury
 
@@ -60,7 +60,7 @@ Cette épreuve consiste en un entretien avec le jury sur un sujet d'ordre géné
 
 Elle vise à mettre en valeur l'aptitude du candidat à l'état de sous-officier de gendarmerie au regard de sa personnalité, de sa motivation, de sa culture générale, de ses facultés d'expression et de raisonnement, de sa vivacité d'esprit et de son équilibre émotionnel.
 
-Les inventaires de personnalité et l'entretien avec le psychologue constituent une aide à la décision des groupes d'examinateurs.
+Les inventaires de personnalité et l'entretien avec le ou les psychologues constituent une aide à la décision des groupes d'examinateurs
 
 Le candidat devra se présenter à cette épreuve avec un curriculum vitae.
 
