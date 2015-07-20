@@ -1,0 +1,7 @@
+# Article 2. Accessibilité des outils, des lieux de formation et des supports
+
+La mission nationale diversité et handicap travaille en lien avec la direction de la formation afin de prendre en compte le handicap dans l'ingénierie des formations et l'accessibilité des supports et outils. A titre d'exemple, la durée d'un module de formation suivi en individuel peut être adaptée. Cette collaboration s'exerce également pour les modules de formation existants.
+
+Les centres interrégionaux de développement de compétences identifient une personne ressource pour suivre l'accessibilité des locaux, des outils et programmes de formation. Elle s'assure que les formations sont dispensées dans des conditions matérielles compatibles avec le handicap, y compris au niveau de l'hébergement et des transports, et à défaut mettent en place les mesures appropriées, en lien avec les acteurs du handicap ou toute autre personne compétente en interne ou en externe. Elle travaille en lien avec les acteurs régionaux, en particulier le correspondant régional handicap, notamment pour mobiliser les budgets dédiés au handicap. Le délai de convocation pour l'entrée en formation doit permettre la mise en œuvre des réseaux de soin éventuellement nécessaires à l'agent.
+
+La mission nationale diversité et handicap définit les activités du réseau des interlocuteurs des centres interrégionaux de développement de compétences en charge du handicap et assure l'animation de ce réseau.
