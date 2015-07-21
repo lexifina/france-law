@@ -1,0 +1,9 @@
+# Réponse à la question n° 70263
+
+- Question : [70263](70263.md) — Question n° 70263 — formation; stagiaires titulaires d'un master 2; adaptation
+
+## Réponse
+
+*JO du 2015-07-21*
+
+Conformément aux statuts particuliers des corps enseignants et d'éducation et selon les dispositions de la circulaire n° 2014-080 du 17 juin 2014 fixant les modalités d'organisation de l'année de stage pour l'année scolaire 2014-2015, outre les lauréats dispensés de condition de diplôme, les lauréats des concours externes doivent obtenir un master pour être titularisés y compris ceux qui justifient par ailleurs d'une expérience d'enseignement. L'arrêté du 18 juin 2014 fixant les modalités de formation initiale de certains personnels enseignants et d'éducation de l'enseignement public stagiaires définit, pour les personnes dont la titularisation n'est pas conditionnée à la détention d'un master et pour ceux qui en possèdent déjà un, un parcours de formation adapté (PFA) qui permet de définir leurs besoins de formation en prenant en compte les compétences et l'expérience aquises antérieurement. Les PFA sont définis par une commission académique et s'appuient sur les enseignements dispensés dans le cadre des masters « métiers de l'enseignement, de l'éducation et de la formation » (MEEF) fixé par l'arrêté du 27 août 2013. Ils permettent, le cas échéant, la validation d'une ou plusieurs unités d'enseignement et l'obtention d'un diplôme. Néanmoins, les stagiaires dispensés de l'obtention d'un diplôme ont pu se voir proposer la possibilité de capitaliser de nouvelles compétences via la validation d'un diplôme universitaire. Afin d'améliorer l'adéquation des parcours de formation adaptés aux besoins des différentes catégories de stagiaires, une note ministérielle du 29 mai 2015 adressée aux directeurs des écoles supérieures du professorat et de l'éducation a précisé les attendus, les différents éléments de contenu possibles et les modalités de validation de ces parcours.
