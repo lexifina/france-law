@@ -1,0 +1,9 @@
+# Réponse à la question n° 81906
+
+- Question : [81906](81906.md) — Question n° 81906 — changement climatique; conférence de Paris; financeurs
+
+## Réponse
+
+*JO du 2015-07-21*
+
+Dans le contexte budgétaire actuel, l'Etat se doit d'être exemplaire et de chercher à alléger la charge financière qu'engendre l'organisation de la COP21. Il le fait en recherchant les solutions les plus économiques, et en sollicitant un soutien des entreprises, sous forme de contributions financières ou en nature. Ce programme de mécénat se déploie dans la transparence complète. Les entreprises mécènes et partenaires sont listées sur le site internet de la COP21. Le secrétariat général de la COP21 fait preuve de discernement dans le choix de ces mécènes. Il s'est abstenu de solliciter certaines entreprises dont le secteur d'activité ne correspondait pas à l'esprit de la conférence. Il s'est appuyé sur des critères de sélection objectifs fondés sur les besoins décrits dans l'accord de siège signé entre la France et l'ONU pour l'organisation de la COP21, sur la conformité des politiques des entreprises candidates au mécénat à la loi NRE, sur leur adhésion aux principes fondateurs du pacte mondial en matière de responsabilité environnementale et sur leur implication dans diverses initiatives internationales en faveur de la lutte contre le changement climatique. L'appel au mécénat des entreprises, qui a des précédents nombreux, va aussi permettre de rehausser le niveau d'exigence environnementale de la conférence, en permettant une empreinte carbone la plus basse possible (notamment par la mise à disposition de véhicules non-polluants et de technologies économes pour le chauffage), en favorisant le recyclage et la valorisation des déchets, et en prévoyant une restauration éco-responsable. Pour autant, il a toujours été rappelé à nos partenaires que devenir mécène de la COP21 ne valait pas label environnemental.
