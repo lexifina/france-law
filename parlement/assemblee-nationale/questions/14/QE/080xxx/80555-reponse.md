@@ -1,0 +1,9 @@
+# Réponse à la question n° 80555
+
+- Question : [80555](80555.md) — Question n° 80555 — bande de Gaza; opérations militaires israéliennes; CPI; attitude de la France
+
+## Réponse
+
+*JO du 2015-07-21*
+
+La France, dont l'action s'inscrit résolument en faveur de la défense des droits de l'Homme et du droit international humanitaire, soutient le principe et les travaux de la commission d'enquête chargée d'établir si des violations du droit international humanitaire ont été commises durant le conflit de l'été dernier à Gaza. La France est attachée à l'impartialité de l'enquête et a appelé les parties à coopérer avec la commission. S'agissant de la Cour Pénale Internationale, la procureure, qui a ouvert le 16 janvier dernier un examen préliminaire, doit établir si la Cour est compétente pour traiter ce dossier. La France respecte son indépendance, conformément à sa conception de la justice pénale internationale. La France, attachée à la lutte contre l'impunité partout dans le monde, a soutenu la Cour pénale internationale, qui constitue l'unique juridiction pénale internationale permanente et à vocation universelle. La tragédie de l'été dernier illustre le caractère insoutenable de l'impasse actuelle. Seule une solution négociée entre les parties, fondée sur la création d'un Etat palestinien indépendant et souverain aux côtés d'Israël dont la sécurité doit être garantie, est susceptible d'instaurer une paix juste et durable entre Israéliens et Palestiniens. C'est pourquoi la France cherche à créer les conditions d'un effort collectif au service de la paix. Elle souhaite travailler avec l'Union européenne, la Ligue arabe et les membres permanents du Conseil de sécurité à un renouvellement de la méthode du processus de paix et des conditions de la négociation. C'est le message que Laurent Fabius a porté lors de sa visite au Proche-Orient les 20 et 21 juin dernier.
