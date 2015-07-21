@@ -1,0 +1,9 @@
+# Réponse à la question n° 79094
+
+- Question : [79094](79094.md) — Question n° 79094 — consulat; fonctionnement; actes; délivrance; modalités
+
+## Réponse
+
+*JO du 2015-07-21*
+
+Les Français résidents hors de l'Union européenne ont à leur disposition un service de notariat dans la totalité des consulats et sections consulaires français. Ce service de rédaction d'actes notariés n'existe pas dans la plupart des réseaux consulaires de nos partenaires européens. Les instructions en matière de notariat consulaire sont identiques dans l'ensemble du réseau consulaire français. La rédaction des actes en brevet ou en minute dépend uniquement de la typologie et du contenu de l'acte demandé. Or toutes les procurations ne sont pas identiques. Certaines procurations nécessitent un acte authentique établi en minute alors que d'autres peuvent être reçues sous la forme d'acte sous seing privé pour lesquelles l'intervention du notaire consulaire se limitera à une simple légalisation de signature. Le notaire consulaire ne fait qu'appliquer les dispositions légales applicables en la matière. Concernant le délai de rendez-vous, il est à souligner qu'un résident en France doit prendre rendez-vous plusieurs semaines à l'avance auprès de son notaire professionnel pour la rédaction d'un acte notarié. Il est tout à fait normal qu'il en soit de même auprès d'un notaire consulaire. Dans un contexte caractérisé par une hausse des volumes traités (+ 95 % de passeports délivrés sur la période 2009-2014), il n'est pas envisagé de changer la pratique de la prise de rendez-vous. Dans certains pays, là où c'est possible (existence d'un système notarial, francophonie) le recours aux notaires locaux sera favorisé, en étroite concertation avec le Conseil supérieur du notariat. Les pratiques consulaires en matière de notariat seront régulièrement examinées afin de déterminer s'il y a lieu de les faire évoluer.
