@@ -1,0 +1,9 @@
+# Réponse à la question n° 83879
+
+- Question : [83879](83879.md) — Question n° 83879 — armement nucléaire; réduction; attitude de la France
+
+## Réponse
+
+*JO du 2015-07-21*
+
+La France est déterminée à progresser dans le domaine du désarmement nucléaire dans le cadre d'une approche progressive et réaliste, tenant compte du contexte de sécurité. C'est cette approche étape par étape qui fonde le plan d'action adopté au consensus par la conférence d'examen de 2010. Or comme l'a rappelé le Président de la République dans son discours sur la dissuasion nucléaire à Istres, le 19 février 2015, le contexte international n'est pas exempt de tensions « et la réapparition d'une menace étatique majeure pour notre pays, ne peut être exclue. (...). Et c'est pourquoi, le temps de la dissuasion nucléaire n'est pas dépassé. Il ne saurait être question, y compris dans ce domaine, de baisser la garde ». Dans ce contexte, la France, pas plus que les autres Etats dotés d'armes nucléaires ou ses partenaires de l'OTAN, n'a pu s'associer à ce qu'il est convenu d'appeler « l'engagement de l'Autriche ». Celui-ci vise en effet à « stigmatiser, prohiber et éliminer les armes nucléaires ». Il n'est pas compatible avec l'existence de la dissuasion nucléaire, ni conforme avec l'approche de la France du désarmement. Le désarmement, y compris le désarmement nucléaire, ne peut progresser qu'en tenant compte du contexte stratégique. S'agissant des considérations humanitaires, la France a toujours été consciente des effets dévastateurs de l'usage d'armes nucléaires. Ces conséquences sont connues. C'est pourquoi la dissuasion nucléaire française ne vise que la défense de ses intérêts vitaux, dans des circonstances extrêmes de légitime défense, un droit reconnu par la Charte des Nations unies. La dissuasion française s'exerce dans le respect du droit international.
