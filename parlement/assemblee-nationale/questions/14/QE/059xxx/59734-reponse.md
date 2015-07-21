@@ -1,0 +1,9 @@
+# Réponse à la question n° 59734
+
+- Question : [59734](59734.md) — Question n° 59734 — regroupements; réforme; pertinence
+
+## Réponse
+
+*JO du 2015-07-21*
+
+La loi n° 2015-29 du 16 janvier 2015 relative à la délimitation des régions, aux élections régionales et départementales et modifiant le calendrier électoral, réforme la carte administrative territoriale de la France par la diminution du nombre de régions métropolitaines de 22 à 13. Ce découpage en 13 régions est le fruit d'une réflexion approfondie menée dans le cadre de l'examen de ce texte par le Parlement. Au cours de ces discussions parlementaires, le choix de procéder par fusion de blocs régionaux a été retenu afin de préserver les périmètres régionaux préexistants et de permettre, par là même, un approfondissement des synergies régionales développées depuis 30 ans. Néanmoins, la loi du 16 janvier 2015 assouplit les conditions de mise en oeuvre du droit d'option permettant à un département de quitter une région pour en rejoindre une autre. L'obligation de tenir 3 consultations dans la région d'origine, dans la région d'accueil et dans le département concerné, avec des conditions de participation minimale de 25 % des inscrits à l'occasion de chacune de ces 3 consultations, a en effet été supprimée. Entre 2016 et 2019, un département pourra changer de région après avoir obtenu l'aval des 2 conseils régionaux concernés ainsi que du conseil départemental à une majorité des 3/5e s. Ainsi l'accroissement de la taille des régions instituées par la loi du 16 janvier 2015 et le transfert de nouvelles compétences dans le cadre de la loi portant nouvelle organisation territoriale de la République permettront aux régions françaises de jouer un rôle renforcé pour promouvoir l'activité économique et l'attractivité des territoires.
