@@ -1,0 +1,56 @@
+# Collectivités territoriales : territoires zéro chômage de longue durée
+
+- Procédure : Proposition de loi ordinaire
+- Législature : 14
+- Identifiant : DLR5L14N34139
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/experimentation_territoires_zero_chomage_longue_duree
+- Sénat : http://www.senat.fr/dossier-legislatif/ppl15-246.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2015-07-22 : 1er dépôt d'une initiative. (PIONANR5L14B3022)
+  - 2015-10-30 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2015-07-22 : Renvoi en commission au fond
+      - 2015-11-04 : Nomination de rapporteur
+      - 2015-11-04 : Réunion de commission
+      - 2015-11-18 : Réunion de commission
+      - 2015-12-09 : Réunion de commission
+      - 2015-11-18 : Dépôt de rapport (RAPPANR5L14B3228, PIONANR5L14BTC3228)
+    - Travaux d'une commission saisie pour avis
+      - 2015-11-09 : Saisine pour avis d'une commission
+      - 2015-10-27 : Nomination de rapporteur
+      - 2015-11-17 : Réunion de commission
+      - 2015-11-17 : Dépôt de rapport (AVISANR5L14B3220)
+  - Discussion en séance publique
+    - 2015-12-09 : Discussion en séance publique
+    - 2015-12-09 : Discussion en séance publique
+    - 2015-12-09 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2015-12-10 : Dépôt d'une initiative en navette (PIONSNR5S259B0246)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2015-12-10 : Renvoi en commission au fond
+      - 2015-12-09 : Nomination de rapporteur
+      - 2015-12-16 : Dépôt de rapport (RAPPSNR5S259B0266)
+  - Discussion en séance publique
+    - 2016-01-13 : Discussion en séance publique
+    - 2016-01-13 : Décision
+- Commission Mixte Paritaire
+  - 2016-01-14 : Dépôt d'un projet de loi (PIONANR5L14B3397)
+  - 2016-01-18 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2016-02-02 : Nomination de rapporteur
+    - 2016-02-02 : Dépôt du rapport d'une CMP (RAPPANR5L14B3466)
+    - 2016-02-02 : Dépôt du rapport d'une CMP (RAPPSNR5S259B0354)
+  - Discussion en séance publique
+    - 2016-02-10 : Discussion en séance publique
+    - 2016-02-10 : Décision
+  - Discussion en séance publique
+    - 2016-02-18 : Discussion en séance publique
+    - 2016-02-18 : Décision
+  - 2016-02-03 : Décision de la CMP
+- Promulgation de la loi
+  - 2016-02-29 : Promulgation d'une loi
