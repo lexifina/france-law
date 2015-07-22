@@ -1246,7 +1246,7 @@ Clotrimazole
 
 |
 
-En applications sur la peau
+En application sur la peau
 
 |
 
@@ -1254,13 +1254,7 @@ En applications sur la peau
 
 |
 
-|
-
-1
-
-|
-
-En applications vaginales
+-
 
 |
 
@@ -1268,11 +1262,19 @@ En applications vaginales
 
 |
 
-0,20
+En application vaginale
 
 |
 
-1,20
+1
+
+|
+
+0.5
+
+|
+
+1,2
 
 |
 
