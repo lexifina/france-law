@@ -1,0 +1,9 @@
+# Réponse à la question SEQ150616802
+
+- Question : [SEQ150616802](seq150616802.md) — Suppression de la délivrance d'un passeport de service aux élus de l'Assemblée des Français de l'étranger
+
+## Réponse
+
+*Affaires étrangères, JO du 2015-07-23, page 1756*
+
+Le passeport de service est un type de passeport qui peut être délivré aux ressortissants du pays émetteur qui, n'ayant pas droit au passeport diplomatique, accomplissent des missions ou sont affectés à l'étranger pour le compte du gouvernement. Les seuls bénéficiaires sont les agents publics de l'État, toutes administrations confondues. Il n'est pas prévu, à ce stade, d'en revoir les conditions de délivrance. Avant la mise en œuvre de la loi du 22 juillet 2013 relative à la représentation des Français à l'étranger, les conseillers à l'Assemblée des Français de l'étranger ont bénéficié de la délivrance de passeports de service, à titre dérogatoire. Avec la réforme, le Gouvernement a souhaité revenir à l'esprit du texte. Les postes diplomatiques et consulaires ont été invités, chaque fois qu'une difficulté se présente, à faciliter les démarches des élus consulaires pour se rendre dans un autre pays de leur circonscription électorale afin d'exercer leur mandat dans les meilleures conditions. Le décret n° 2014-144 du 18 février 2014 relatif aux conseils consulaires, à l'Assemblée des Français de l'étranger et à leurs membres prévoit la possibilité pour les conseillers consulaires de participer aux réunions du conseil consulaire au moyen d'une conférence téléphonique ou audiovisuelle afin de faire face aux situations qui empêcheraient les conseillers consulaires de participer physiquement à ces réunions. Elle a été utilisée en 2014 dans au moins une vingtaine de postes à l'étranger, permettant ainsi aux conseillers consulaires, à défaut d'être présents physiquement, de participer aux débats et de jouer leur rôle de membres de droit de ces conseils.
