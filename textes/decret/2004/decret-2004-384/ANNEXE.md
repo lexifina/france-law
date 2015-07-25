@@ -2,7 +2,7 @@
 
 I.-Fonctions exercées en administration centrale
 
-1° Secrétaire général du ministère de l'économie, des finances et de l'industrie.
+1° Secrétaire général des ministères économiques et financiers.
 
 2° Chef de service d'inspection ou de contrôle, vice-président de conseil et chef de corps.
 
@@ -14,20 +14,16 @@ I.-Fonctions exercées en administration centrale
 
 6° Expert de haut niveau ou directeur de projet.
 
-7° Haut fonctionnaire de défense.
+7° Secrétaire général et secrétaire général adjoint.
 
-8° Secrétaire général et secrétaire général adjoint.
-
-9° Emplois d'encadrement supérieur à l'Institut national de la statistique et des études économiques.
+8° Emplois d'encadrement supérieur à l'Institut national de la statistique et des études économiques.
 
 II.-Fonctions exercées dans un service à compétence nationale
 
-Directeur général, directeur, chef d'un service ou directeur général adjoint ou directeur adjoint.
+Directeur général, directeur, directeur général adjoint, directeur adjoint, chef de service, sous-directeur, directeur de projet et expert de haut niveau.
 
 III.-Fonctions exercées en services déconcentrés
 
 1° Directeur et délégué interrégional.
 
 2° Directeur et chef de service régional.
-
-3° Directeur départemental.
