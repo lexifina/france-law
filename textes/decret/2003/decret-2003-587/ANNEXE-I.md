@@ -1,6 +1,6 @@
 # Article ANNEXE I
 
-I. - Au sens du présent décret, le miel est la substance sucrée naturelle produite par les abeilles de l'espèce Apis mellifera à partir du nectar de plantes ou des sécrétions provenant de parties vivantes des plantes ou des excrétions laissées sur celles-ci par des insectes suceurs, qu'elles butinent, transforment, en les combinant avec des matières spécifiques propres, déposent, déshydratent, entreposent et laissent mûrir dans les rayons de la ruche. A l'exception du miel filtré, aucun pollen ou constituant propre au miel ne doit être retiré, sauf si cela est inévitable lors de l'élimination de matières organiques et inorganiques étrangères.
+I. - Au sens du présent décret, le miel est la substance sucrée naturelle produite par les abeilles de l'espèce Apis mellifera à partir du nectar de plantes ou des sécrétions provenant de parties vivantes des plantes ou des excrétions laissées sur celles-ci par des insectes suceurs, qu'elles butinent, transforment, en les combinant avec des matières spécifiques propres, déposent, déshydratent, entreposent et laissent mûrir dans les rayons de la ruche. A l'exception du miel filtré, aucun pollen ni aucun autre constituant propre au miel ne doit être retiré, sauf si cela est inévitable lors de l'élimination de matières organiques et inorganiques étrangères.
 
 II. - Les principales variétés de miel sont les suivantes :
 
