@@ -1,26 +1,18 @@
 # Article 21 bis
 
-La présente loi est applicable dans les collectivités d'outre-mer régies par l'article 74 de la Constitution et en Nouvelle-Calédonie, à l'exception de son article 18 et sous réserve des dispositions suivantes :
+I.-La présente loi est applicable dans les collectivités d'outre-mer régies par l'article 74 de la Constitution et en Nouvelle-Calédonie, à l'exception de son article 18 et sous réserve des dispositions suivantes :
 
-I. - Pour l'application de la présente loi à Mayotte :
+II.-Pour l'application de la présente loi à Saint-Barthélemy, à Saint-Martin et à Saint-Pierre-et-Miquelon :
 
-1° A l'article 5, les références à la préfecture du département et à la sous-préfecture de l'arrondissement sont remplacées par la référence à la préfecture ;
-
-2° A l'article 6, les mots : " des régions, des départements " sont remplacés par les mots : " du Département " ;
-
-3° (Abrogé)
-
-II. - Pour l'application de la présente loi à Saint-Barthélemy, à Saint-Martin et à Saint-Pierre-et-Miquelon :
-
-1° A l'article 5, les références à la préfecture du département et à la sous-préfecture de l'arrondissement sont remplacées par la référence aux services du représentant de l'Etat ;
+1° A l'article 5, la référence au représentant de l'Etat dans le département est remplacée par la référence au représentant de l'Etat dans la collectivité territoriale ;
 
 2° A l'article 6, les mots : " des régions, des départements " sont remplacés par les mots : " de la collectivité " ;
 
 3° A l'article 15, la référence au préfet est remplacée par la référence au représentant de l'Etat.
 
-III. - Pour l'application de la présente loi dans les îles Wallis et Futuna :
+III.-Pour l'application de la présente loi dans les îles Wallis et Futuna :
 
-1° A l'article 5, les références à la préfecture du département et à la sous-préfecture de l'arrondissement sont remplacées par la référence aux services de l'administrateur supérieur ;
+1° Aux articles 5 et 15, les références au représentant de l'Etat dans le département et au préfet sont remplacées par la référence à l'administrateur supérieur des îles Wallis et Futuna ;
 
 2° A l'article 6 :
 
@@ -32,19 +24,15 @@ b) Après les mots : " 16 euros " sont insérés les mots : " ou à un montant �
 
 4° A l'article 8, après les mots : " 45 000 euros " sont insérés les mots : " ou d'un montant équivalent en monnaie locale " ;
 
-5° A l'article 11, les mots : " en titres pour lesquels est établi le bordereau de références nominatives prévu à l'article 55 de la loi n° 87-416 du 17 juin 1987 sur l'épargne " sont supprimés ;
+5° A l'article 11, les mots : " en titres pour lesquels est établi le bordereau de références nominatives prévu A l'article 15, la référence au préfet est remplacée par la référence à l'administrateur supérieur ;
 
-6° A l'article 15, la référence au préfet est remplacée par la référence à l'administrateur supérieur ;
+6° (Abrogé)
 
 7° (Abrogé)
 
-IV. - Pour l'application de la présente loi en Polynésie française :
+IV.-Pour l'application de la présente loi en Polynésie française :
 
-1° A l' article 5 :
-
-a) La référence à la préfecture du département est remplacée par la référence aux services du haut-commissaire de la République ;
-
-b) La référence à la sous-préfecture de l'arrondissement est remplacée par la référence aux services du chef de subdivision administrative ;
+1° Aux articles 5 et 15, les références au représentant de l'Etat dans le département et au préfet sont remplacées par la référence au haut-commissaire de la République en Polynésie française ;
 
 2° A l'article 6 :
 
@@ -60,13 +48,9 @@ b) Après les mots : " 16 euros " sont insérés les mots : " ou à un montant �
 
 6° A l'article 15, la référence au préfet est remplacée par la référence au haut-commissaire de la République.
 
-V. - Pour l'application de la présente loi en Nouvelle-Calédonie :
+V.-Pour l'application de la présente loi en Nouvelle-Calédonie :
 
-1° A l'article 5 :
-
-a) La référence à la préfecture du département est remplacée par la référence aux services du haut-commissaire de la République ;
-
-b) La référence à la sous-préfecture de l'arrondissement est remplacée par la référence aux services du commissaire délégué de la République de la province ;
+1° Aux article 5 et 15, les références au représentant de l'Etat dans le département et au préfet sont remplacées par la référence au haut-commissaire de la République en Nouvelle-Calédonie ;
 
 2° A l'article 6 :
 
@@ -78,6 +62,4 @@ b) Après les mots : " 16 euros " sont insérés les mots : " ou à un montant �
 
 4° A l'article 8, après les mots : " 45 000 euros " sont insérés les mots : " ou d'un montant équivalent en monnaie locale " ;
 
-5° A l'article 11, les mots : " en titres pour lesquels est établi le bordereau de références nominatives prévu à l'article 55 de la loi n° 87-416 du 17 juin 1987 sur l'épargne " sont supprimés ;
-
-6° A l'article 15, la référence au préfet est remplacée par la référence au haut-commissaire de la République.
+5° A l'article 11, les mots : " en titres pour lesquels est établi le bordereau de références nominatives prévu à l'article 55 de la loi n° 87-416 du 17 juin 1987 sur l'épargne " sont supprimés.
