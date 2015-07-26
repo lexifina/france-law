@@ -2,9 +2,7 @@
 
 TARIFS MAXIMA DES FRAIS DE FOURRIÈRE AUTOMOBILE
 
-FRAIS
-
-de fourrière
+FRAIS DE FOURRIÈRE
 
 |
 
@@ -12,13 +10,13 @@ CATÉGORIES DE VÉHICULES
 
 |
 
-MONTANT
-
-(en euros)
+MONTANT (en euros)
 
 |
 
-Immobilisation matérielle
+Immobilisation
+
+matérielle
 
 |
 
@@ -154,7 +152,7 @@ Voitures particulières
 
 |
 
-116,56
+116,81
 
 |
 
@@ -206,7 +204,7 @@ Voitures particulières
 
 |
 
-6,18
+6,19
 
 |
 
