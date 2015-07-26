@@ -108,7 +108,7 @@ Cette durée est portée à six ans pour les véhicules de collection.
 
 5.1. Chaque installation de contrôle transmet les résultats des contrôles effectués, conformément à la procédure prévue au point 1.2.6 ci-dessus et au protocole prévu au point b de l'article 38 du présent arrêté.
 
-5.2. Le titulaire de l'agrément de l'installation de contrôle ne diffuse un résultat de contrôle à aucune personne ou organisme autre que l'organisme technique central, les agents chargés de la surveillance de la concurrence, de la consommation et de la répression des fraudes, les agents des préfectures de département ou de région, les agents de l'administration chargés de la surveillance des installations de contrôle, tout organisme désigné à cette fin par le ministre chargé des transports, les forces de police ou de gendarmerie, l'expert judiciaire désigné par un juge pour une affaire concernant un véhicule, le propriétaire du véhicule au moment du contrôle et la personne qui présente le véhicule au contrôle technique.
+5.2. Le titulaire de l'agrément de l'installation de contrôle ne diffuse un résultat de contrôle à aucune personne ou organisme autre que l'organisme technique central, les agents des douanes, les agents chargés de la surveillance de la concurrence, de la consommation et de la répression des fraudes, les agents des préfectures de département ou de région, les agents de l'administration chargés de la surveillance des installations de contrôle, tout organisme désigné à cette fin par le ministre chargé des transports, les forces de police ou de gendarmerie, l'expert judiciaire désigné par un juge pour une affaire concernant un véhicule, le propriétaire du véhicule au moment du contrôle et la personne qui présente le véhicule au contrôle technique.
 
 6. Suivi de l'exploitation
 
@@ -116,7 +116,7 @@ Cette durée est portée à six ans pour les véhicules de collection.
 
 6.1.1. Les informations mentionnant pour chaque contrôleur exerçant dans l'installation son identité, son numéro d'agrément, son niveau d'habilitation, ses formations de maintien de qualification et les périodes d'affectation aux opérations de contrôle.
 
-6.1.2. Pour chaque contrôleur rattaché au centre de contrôle, les périodes d'affectation aux opérations de contrôle, le suivi de son activité en installations auxiliaires et les informations visées au paragraphe 6. 1. 1.
+6.1.2. Pour chaque contrôleur rattaché au centre de contrôle, les périodes d'affectation aux opérations de contrôle, le suivi de son activité en installations auxiliaires et les informations visées au paragraphe 6.1.1.
 
 6.1.3. Les informations (registre, fiches, etc.) mentionnant, pour chaque appareil de contrôle, l'identification de l'appareil, la date de la mise en service, la nature et la date des pannes et détériorations, la nature et la date des opérations de maintenance (réglage, entretien, réparation, etc.).
 
