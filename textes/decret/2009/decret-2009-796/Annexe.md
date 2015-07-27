@@ -1212,13 +1212,13 @@ Inférieure à 30 %
 
 Egale ou supérieure à 30 % ou égale
 
-ou supérieure à 2 millions d'euros (7)
+ou supérieure à 2 millions d'euros (1,65 million d'euros pour les œuvres préscolaires) (7)
 
 |
 
 Egale ou supérieure à 35 % ou égale
 
-ou supérieure à 2,3 millions d'euros (7)
+ou supérieure à 2,3 millions d'euros (1,85 million d'euros pour les œuvres préscolaires) (7)
 
 |
 
@@ -1328,7 +1328,7 @@ du marché avec droits d'option prioritaire pour FTD lorsque l'apport de FTV est
 
 |
 
-(7) Ce seuil exprimé en valeur absolue (2 et 2,3 millions d'euros) s'entend pour la commande de 26 demi-heures commerciales. Il est calculé au prorata pour les autres formats.
+(7) Ces seuils exprimés en valeur absolue s'entendent pour la commande de 26 demi-heures commerciales. Ils sont calculés au prorata pour les autres formats.
 
 (8) Pour une série, la date de début des droits est fixée soit au jour de la diffusion du premier épisode, soit au plus tard à la date d'acceptation des copies antennes des deux tiers des épisodes de celle-ci. La première des deux dates s'applique. Le producteur s'engage à livrer le solde des épisodes dans un délai de 3 mois. Dans le cas contraire, les parties fixeront de gré à gré une nouvelle date pour le début des droits. Pour un unitaire, la date de début des droits est fixée soit au jour de sa première diffusion, soit au plus tard 3 mois après sa livraison. La première des deux dates s'applique.
 
