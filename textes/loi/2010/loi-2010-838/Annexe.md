@@ -186,6 +186,10 @@ Commission compétente en matière de consommation
 
 |
 
+Président de la Commission nationale de contrôle des techniques de renseignement |
+
+Commission permanente compétente en matière de libertés publiques |
+
 Président de la Commission nationale du débat public
 
 |
