@@ -1,0 +1,9 @@
+# Réponse à la question n° 63652
+
+- Question : [63652](63652.md) — Question n° 63652 — capacités pédagogiques; développement
+
+## Réponse
+
+*JO du 2015-07-28*
+
+L'évolution des pratiques et des dispositifs de formation est une nécessité pour améliorer la réussite des étudiants et renforcer l'attractivité des établissements. Cette rénovation pédagogique de l'enseignement supérieur est une priorité du ministère de l'éducation nationale, de l'enseignement supérieur et de la recherche. Le principal obstacle à cette rénovation, évoqué dans de nombreux rapports, dont celui de Claude Bertrand, réside dans le manque de reconnaissance de l'investissement des enseignants-chercheurs dans leur activité d'enseignement, et son corollaire, le manque de formation. Aujourd'hui les enseignants-chercheurs sont recrutés principalement sur l'excellence de leur recherche et leurs promotions, notamment dans le passage au grade de professeur d'université, sont essentiellement fondées sur des critères recherche. L'amélioration de la prise en compte de l'activité pédagogique des enseignants-chercheurs passe par un rééquilibrage de la mission formation par rapport à la mission recherche. Des actes symboliques peuvent contribuer à ce rééquilibrage : - la création de prix nationaux de l'innovation pédagogique comme il en existe dans les pays anglo-saxons ou au Québec, ou pour la recherche ; - l'intégration dans les prochaines promotions de l'Institut universitaire de France de membres sélectionnés pour l'excellence d'un projet d'innovation pédagogique. Au-delà de ces actes symboliques, et conformément à l'article 74 de la loi du 22 juillet 2013 relative à l'enseignement supérieur et à la recherche, une mission de l'Inspection générale de l'administration de l'éducation nationale et de la recherche (IGAENR) est en cours pour identifier des propositions en vue d'améliorer le recrutement, la formation et le déroulement de la carrière des enseignants-chercheurs.
