@@ -1,62 +1,76 @@
 # Article Annexe
 
-INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
+INFORMATIONS REQUISES POUR L'INSCRIPTION
 
-Intitulé : préparateur de commandes en entrepôt.
+AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
+
+Intitulé : préparateur (préparatrice) de commandes en entrepôt.
 
 Niveau : V.
 
-Code NSF : 311 u (transport, manutention, magasinage).
+Code NSF : 311 u.
 
 Résumé du référentiel d'emploi
 
-Le préparateur de commandes en entrepôt effectue son activité dans le but de réaliser les préparations de commandes conformes et dans les délais afin de satisfaire les demandes des clients.
+Le préparateur (la préparatrice) de commandes en entrepôt prélève les produits dans le stock et les prépare pour l'expédition. Il (elle) conduit un chariot de manutention industrielle à conducteur porté de catégorie 1.
 
-Le préparateur de commandes en entrepôt prépare l'exécution d'une commande en identifiant les éléments nécessaires à l'organisation de la collecte des produits et en choisissant les matériels adaptés. Il effectue le prélèvement des produits en sécurité en constituant des charges selon les caractéristiques des produits et des supports et les étiquetant selon les consignes client. Il contrôle l'exécution d'une préparation de commandes et valide les opérations dans le système d'information en identifiant les anomalies ou les risques de dysfonctionnement.
+Le préparateur (la préparatrice) de commandes en entrepôt participe à la politique de responsabilité sociétale de l'entreprise. Il (elle) respecte les procédures de sécurité, de sûreté, de qualité et de protection de la santé au travail. Il (elle) veille à la bonne conservation des biens et des équipements et maintient les zones d'évolution propres et rangées.
 
-Lors de ses déplacements, le préparateur de commandes en entrepôt utilise le plus souvent un engin de manutention industrielle à conducteur autoporté de catégorie 1.
+Le préparateur (la préparatrice) de commandes en entrepôt reçoit des instructions par l'intermédiaire de terminaux informatiques fixes, embarqués ou portables reliés au système de gestion de l'entrepôt. Il (elle) s'assure du bon fonctionnement du chariot et signale tout dysfonctionnement aux personnes concernées.
 
-Il travaille le plus souvent en équipe, dans tout secteur industriel ou commercial nécessitant une activité de stockage et de répartition, notamment des entrepôts ou des plates-formes de stockage, les entreprises de la grande distribution, de la vente par correspondance, les prestataires et plates-formes logistiques, les répartiteurs.
+Le préparateur (la préparatrice) de commandes en entrepôt sélectionne les supports de manutention et les fournitures adaptés et prélève manuellement les produits dans le stock. Il (elle) les emballe, appose les pictogrammes et les étiquettes et constitue des charges palettisées équilibrées et stables. Tout au long de la préparation, il (elle) saisit et valide les données relatives aux prélèvements et aux mouvements des produits dans le système de gestion de l'entrepôt.
 
-Les conditions climatiques sont variables selon l'environnement et le type de produits (température dirigée du froid négatif à des températures positives, sites classés...). Les produits à prélever peuvent être de volume et de poids différents suivant le secteur d'activité (produits frais, surgelés, petits conditionnements, pondéreux...).
+Le préparateur (la préparatrice) charge et décharge les camions ou les remorques à partir d'un quai. Il (elle) vérifie les marchandises et leurs supports ou contenants en quantité et en qualité.
 
-Le préparateur de commandes en entrepôt travaille généralement debout et peut être soumis à des niveaux sonores importants. Il existe la possibilité de travail posté (2 × 8, 3 × 8, annualisation du temps de travail).L'organisation du travail dans les zones d'entreposage conduit souvent le préparateur de commandes en entrepôt à exercer les tâches de manière répétitive et intensive.
+Le préparateur (la préparatrice) de commandes en entrepôt travaille au sein d'une équipe, sous la responsabilité d'un coordinateur ou d'un chef d'équipe. Il (elle) est en relation avec ses collègues préparateurs de commandes ou caristes, les autres opérateurs de l'entrepôt, les conducteurs routiers, le service maintenance et les responsables logistiques.
 
-Ses compétences sont transférables dans les différents secteurs d'activité économiques (produits de grande consommation, produits chimiques, pièces mécaniques...).
+Il (elle) manipule des charges avec des volumes, des poids différents et contenant des produits de natures variées. Il (elle) travaille généralement debout. Selon l'environnement et les types de produits, le préparateur (la préparatrice) de commandes en entrepôt peut être exposé à un niveau sonore important, à des poussières ou à des températures négatives. Il (elle) contribue à l'atteinte des niveaux de service et de productivité attendus.
 
-Il peut être exposé à un niveau sonore important, à des poussières ou à des températures négatives.
+Ses horaires de travail peuvent être décalés ou postés.
 
 Capacités attestées et descriptif des composantes de la certification
 
 Effectuer les opérations permettant d'assurer la préparation des commandes en utilisant un chariot automoteur de manutention à conducteur porté de catégorie 1
 
-Réaliser les opérations de vérification et de maintenance de premier niveau sur un chariot de manutention industrielle de catégorie 1.
+Réaliser les opérations de vérification et de maintenance de premier niveau sur un chariot de manutention industrielle de catégorie 1
 
-Prélever manuellement et à l'aide d'un chariot de catégorie 1 les produits en quantité, qualité et sécurité.
+Prélever manuellement et à l'aide d'un chariot de catégorie 1 les produits dans le respect des règles de qualité et de sécurité
 
-Rechercher les informations, saisir et valider les données relatives aux opérations dans le système informatisé.
+Rechercher, consulter, saisir et valider des données relatives aux opérations logistiques dans le système informatisé
 
-Repérer et signaler les anomalies sur les produits, supports de charge et espaces de stockage.
+Corriger et signaler les anomalies sur les produits, supports de charge et espaces de stockage
 
-Constituer manuellement une charge équilibrée, l'emballer et l'étiqueter.
+Emballer les produits et constituer manuellement des charges adaptées aux contraintes de manutention et de transport
 
 Charger et décharger un camion dans le respect des règles de qualité et de sécurité à l'aide d'un chariot de manutention à conducteur porté de catégorie 1.
 
-Secteurs d'activités et types d'emploi accessibles par le détenteur du titre
+Compétences transversales de l'emploi (le cas échéant)
 
-Tous secteurs nécessitant le stockage en entrepôt : entreprises industrielles ou commerciales, plates-formes logistiques, prestataires logistiques, répartiteurs. Nécessitant de la préparation de commandes en quantités et détaillées.
+Appliquer les règles d'hygiène, de sécurité, de sûreté et de qualité en entrepôt.
+
+Manipuler avec dextérité et en sécurité les chariots de manutention de catégorie 1.
+
+Secteurs d'activité et types d'emploi accessibles par le détenteur du titre
+
+Le préparateur (la préparatrice) de commandes en entrepôt est employé dans les entrepôts et sur les plateformes des entreprises du commerce de gros, de la grande distribution, de la distribution spécialisée, de la vente par correspondance, des prestataires logistiques.
+
+Les types d'emplois accessibles sont les suivants :
+
+- préparateur de commandes ;
+
+- préparateur logistique en entrepôt ;
+
+- étiqueteur pointeur ;
+
+- agent logistique.
 
 Code ROME :
 
-N 1103-Magasinage et préparation de commandes.
+N1103-Magasinage et préparation de commandes.
 
 Réglementation de l'activité :
 
-En application du décret n° 98-1084 du 2 décembre 1998, l'autorisation de conduite d'engin à conducteur porté est donnée par l'employeur à tout cariste ayant suivi une formation adaptée et déclaré apte après avis médical.
-
-Pour l'utilisation d'engins de manutention à conducteur porté, la Caisse nationale d'assurance maladie des travailleurs salariés (CNAM-TS) recommande la détention du CACES (recommandation R-389).
-
-Le titre professionnel de préparateur de commandes en entrepôt dispense, pendant cinq ans à compter de la date d'obtention du titre, de la détention du CACES relatif aux engins de catégorie 1 de la nomenclature de la CNAM.
+Néant.
 
 Autorité responsable de la certification :
 
@@ -64,14 +78,10 @@ Ministère chargé de l'emploi.
 
 Bases légales et réglementaires :
 
-Loi n° 2002-73 du 17 janvier 2002 de modernisation sociale (ministère des affaires sociales, du travail et de la solidarité) ;
+Code de l'éducation, les articles L. 335-5, L. 335-6 et R. 338-1 et suivants ;
 
-Décret n° 2002-616 du 26 avril 2002 relatif au répertoire national des certifications professionnelles ;
+Arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi ;
 
-Décret n° 2002-1029 du 2 août 2002 (ministère des affaires sociales, du travail et de la solidarité) relatif au titre professionnel délivré par le ministre chargé de l'emploi ;
+Arrêté du 8 décembre 2008 relatif au règlement général des sessions de validation conduisant au titre professionnel du ministère chargé de l'emploi.
 
-Arrêté du 25 novembre 2002 (ministère des affaires sociales, du travail et de la solidarité) relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi ;
-
-Articles L. 335-5 et suivants et R. 338-1 et suivants du code de l'éducation ;
-
-Arrêté du 8 décembre 2008 (Journal officiel du 16 décembre 2008) relatif au règlement général des sessions de validation conduisant au titre professionnel du ministère chargé de l'emploi.
+La réglementation applicable à ce titre professionnel est mise en œuvre à compter du 28 juillet 2015.
