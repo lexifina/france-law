@@ -1,0 +1,9 @@
+# Réponse à la question n° 76719
+
+- Question : [76719](76719.md) — Question n° 76719 — radiothérapie; Seine-Saint-Denis
+
+## Réponse
+
+*JO du 2015-07-28*
+
+Le schéma régional de l'organisation des soins (SROS) du projet régional de santé d'Ile-de-France prévoit le passage de trois à deux implantations d'activité de radiothérapie en Seine-Saint-Denis pour répondre aux besoins de santé de la population. Le schéma souligne la nécessité de respecter les exigences de qualité et de sécurité de l'Institut national du cancer (INCa) et des sociétés savantes. L'autorisation d'activité du centre de la Villette n'a pas été renouvelée en mai 2014, en raison principalement de la non-conformité de son activité à certaines conditions règlementaires prévues par le code de la santé publique et aux critères qualité fixés par l'INCa. La continuité de la prise en charge des patients a pu être organisée, en orientant les patients vers les deux sites autorisés les plus proches situés à quatre et six kilomètres. La plupart des personnels, manipulateurs et radiophysiciens, devraient retrouver une activité professionnelle compte tenu de leur expertise et des besoins importants dans ces spécialités. L'agence régionale de santé (ARS) reste attentive à d'éventuelles difficultés. La ministre des affaires sociales, de la santé et des droits de femmes tient à souligner que la cessation de l'activité de radiothérapie du centre de la Villette n'aura pas d'impact sur le rôle essentiel et de proximité joué par l'hôpital européen de Paris (HEP)-La Roseraie. Cet établissement de santé privé poursuit son activité de cancérologie autorisée. Il organise, tout comme de nombreux établissements de santé, la prise en charge des patients nécessitant un traitement par radiothérapie externe, en lien avec les structures environnantes autorisées pour cette activité.
