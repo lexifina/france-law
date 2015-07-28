@@ -1,0 +1,9 @@
+# Réponse à la question n° 47577
+
+- Question : [47577](47577.md) — Question n° 47577 — fonds collectés; répartition
+
+## Réponse
+
+*JO du 2015-07-28*
+
+Une réforme globale de la taxe d'apprentissage a été engagée afin que, conformément aux souhaits exprimés par le Président de la République, davantage de taxe d'apprentissage soit versée à l'apprentissage tout en préservant le financement des autres formations initiales professionnelles et technologiques. La réforme de la taxe d'apprentissage, qui est effective depuis le 1er janvier 2015, est mise en oeuvre en plusieurs étapes en raison du caractère fiscal de certaines modifications envisagées. Tout d'abord, il a été procédé à la fusion de la taxe d'apprentissage et de la contribution au développement de l'apprentissage (CDA) dans un souci de simplification fiscale pour les entreprises. Le taux de la taxe d'apprentissage passe ainsi de 0,5 % à 0,68 %. La loi n° 2014-288 du 5 mars 2014 relative à la formation professionnelle, à l'emploi et à la démocratie sociale a ensuite fixé les plafonds des dépenses libératoires susceptibles d'être effectuées à 21 % pour le financement des centres de formations d'apprentis, des sections d'apprentissage et à 23 % pour les formations initiales technologiques et professionnelles. Ces plafonds prennent en compte l'augmentation du taux d'imposition de la taxe d'apprentissage induite par sa fusion avec la CDA. Elle a également procédé à une rénovation des listes de formations initiales technologiques et professionnelles et des organismes éligibles à un financement de la part « hors quota » de la taxe d'apprentissage en orientant cette part, affectée librement par les entreprises, notamment vers des établissements d'enseignement professionnel et technologique gérés par des organismes à but non lucratif et réalisant des actions soumises à un suivi pédagogique encadré par les ministères dont ils relèvent.
