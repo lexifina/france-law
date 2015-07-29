@@ -30,7 +30,7 @@ Chef du service de l'inspection générale de l'administration
 
 |
 
-2. Directeur général et directeur d'administration centrale, directeur de la préfecture de police (services administratifs) ou directeur de la préfecture de Paris
+2. Directeur général et directeur d'administration centrale, délégué ministériel, directeur de la préfecture de police (services administratifs) ou directeur de la préfecture de Paris
 
 DÉSIGNATION DE L'EMPLOI
 
@@ -62,7 +62,7 @@ Directeur général d'administration centrale du ministère de l'intérieur
 
 |
 
-3
+5
 
 |
 
@@ -98,7 +98,7 @@ Directeur d'administration centrale du ministère de l'intérieur
 
 |
 
-7
+6
 
 |
 
@@ -117,6 +117,12 @@ Délégué à la sécurité et à la circulation routières (à compter du 2 oct
 140
 
 |
+
+Délégué aux coopérations de sécurité |
+
+1 |
+
+140 |
 
 Directeur à la préfecture de police
 
@@ -307,18 +313,6 @@ NOMBRE D'EMPLOIS
 NOMBRE DE POINTS
 
 par emploi
-
-|
-
-Directeur général des étrangers en France
-
-|
-
-1
-
-|
-
-140
 
 |
 
@@ -1641,26 +1635,6 @@ Poste de la classe fonctionnelle III
 |
 
 85
-
-|
-
-80
-
-|
-
-Autres postes
-
-|
-
-Emplois spécifiques
-
-|
-
-Sous-préfet chargé de mission auprès du préfet des Hauts-de-Seine
-
-|
-
-1
 
 |
 
