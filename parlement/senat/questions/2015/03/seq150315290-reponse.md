@@ -1,0 +1,9 @@
+# Réponse à la question SEQ150315290
+
+- Question : [SEQ150315290](seq150315290.md) — Suppressions de postes au lycée Marcel Gimond d'Aubenas
+
+## Réponse
+
+*Éducation nationale, enseignement supérieur et recherche, JO du 2015-07-30, page 1824*
+
+À la rentrée scolaire 2015, une diminution du nombre d'élèves est prévue au lycée Marcel Gimond d'Aubenas : 800 élèves y sont attendus, soit une diminution de 29 (-3,5 %) par rapport au constat de rentrée 2014, qui était de 829 élèves. Pour la rentrée 2014, la prévision initiale était de 916 élèves : il y a donc eu une surestimation de 87 élèves, en raison d'une trop forte prévision pour les classes de seconde notamment (325 élèves envisagés pour 265 présents à la rentrée). La dotation en moyens d'enseignement du lycée Marcel Gimond pour la rentrée 2014 avait été calculée sur cette prévision de 916 élèves, qui ne s'est pas réalisée. À ce stade de la préparation de la rentrée scolaire 2015 par l'académie de Grenoble, la baisse d'effectifs prévisionnelle (hors éventuels redoublants de terminale, lesquels seront pris en compte après les résultats de la prochaine session du baccalauréat), conjuguée à la surestimation 2014, conduisent à une variation de la dotation globale de l'établissement de -99,5 heures et à envisager ainsi, la suppression de 8 postes, dont 4 sont actuellement vacants. Après un examen approfondi effectué avec le chef d'établissement, une mesure de carte scolaire s'avère nécessaire dans les disciplines lettres modernes, sciences économiques, mathématiques, physique et économie, pour lesquelles un excédent conséquent a pu être constaté. Les services académiques, en concertation avec le chef d'établissement, travailleront néanmoins à la recherche de solutions permettant éventuellement de conserver des postes, avec un complément de service sur un autre établissement. Aussi, la dotation globale allouée au lycée Marcel Gimond d'Aubenas devrait assurer l'intégralité des heures dues aux élèves.
