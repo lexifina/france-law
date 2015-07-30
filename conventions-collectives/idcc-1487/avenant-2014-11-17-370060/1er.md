@@ -1,0 +1,169 @@
+# Article 1er
+
+L'article 50 de la convention collective est remplacé par l'article 50 ci-après.
+
+« Article 50
+
+1. Définition du travail à temps partiel
+
+Sont travailleurs à temps partiel les salariés embauchés pour un horaire hebdomadaire ou mensuel de travail tel que défini par l'article L. 3123-1 du code du travail.
+
+2. Contrat de travail
+
+Le contrat de travail des salariés à temps partiel est écrit. Il mentionne, outre les clauses prévues pour les salariés à temps plein :
+
+– la durée hebdomadaire ou mensuelle du travail ;
+
+– la répartition de cette durée entre les jours de la semaine pour les salariés à temps partiel occupés sur une base hebdomadaire, entre les semaines du mois pour les salariés à temps partiel occupés sur une base mensuelle ;
+
+– les conditions de la modification éventuelle de la répartition de la durée du travail entre les jours de la semaine ou entre les semaines du mois. Le délai de notification de cette modification ne peut être inférieur à 7 jours, mais peut être ramené à 2 jours en cas de circonstances exceptionnelles telles que l'absence non programmée d'un salarié ;
+
+– lorsque des heures complémentaires sont prévues, les limites collectives ou individuelles dans lesquelles elles pourront être effectuées au-delà du temps régulier fixé par le contrat et les conditions de leur utilisation ;
+
+– le salaire mensuel correspondant à la durée fixée au contrat.
+
+3. Durée minimale du travail et organisation de la journée de travail
+
+La durée de travail du personnel à temps partiel qui relève, à titre principal, du régime général de la sécurité sociale, ne pourra être inférieure à 24 heures par semaine, soit 104 heures par mois.
+
+A défaut d'accord exprès des salariés intéressés, l'entreprise ne peut imposer un travail continu d'une durée inférieure à 3 heures quotidiennes.
+
+La journée de travail ne pourra comporter, outre les temps de pause rémunérés ou non, plus d'une coupure, dont la durée ne pourra excéder 2 heures.
+
+Cette répartition des horaires de travail pourra être aménagée à la demande, écrite et motivée, de l'une des parties.
+
+4. Entrée en vigueur de la nouvelle durée minimale de travail
+
+Cette durée de travail s'applique aux contrats de travail conclus à compter du 1er juillet 2014.
+
+S'agissant des contrats de travail de moins de 24 heures en cours au 1er juillet 2014, ils devront prévoir une durée de travail au moins égale à cette durée au 1er janvier 2016.
+
+5. Dérogations à la durée minimale de travail
+
+5.1. Dérogations applicables dans le cadre d'un remplacement
+
+Afin de permettre le remplacement temporaire de salariés à temps partiel, il est possible de conclure un contrat de travail pour un temps de travail inférieur à 24 heures hebdomadaires dans les cas suivants :
+
+– embauche d'un salarié remplaçant temporairement un salarié dont le temps de travail est inférieur à 24 heures ;
+
+– embauche d'un salarié remplaçant, durant son temps d'absence, un salarié passé en mi-temps thérapeutique ou en congé parental à temps partiel.
+
+5.2. Dérogation applicable à la demande du salarié
+
+Eu égard à l'article L. 3123-4-2 du code du travail, une durée de travail inférieure à la durée minimale peut être fixée à la demande, écrite et motivée, du salarié afin de lui permettre de faire face à des contraintes personnelles ou de cumuler plusieurs activités afin d'atteindre une activité correspondant à un temps plein ou au moins égale à 24 heures.
+
+Le salarié qui ne justifie plus de l'un de ces motifs renonce à sa demande de dérogation légale au moyen d'une information, écrite et motivée, adressée à son employeur, en respectant un délai de préavis de 15 jours ouvrables.
+
+A l'issue de ce préavis, le salarié a priorité pour l'attribution d'un emploi ressortissant à sa catégorie professionnelle ou d'un emploi équivalent, d'une durée de travail hebdomadaire supérieure ou égale à 24 heures.
+
+Les dispositions relatives aux garanties individuelles afférentes aux conditions de regroupement des horaires de travail précitées doivent s'appliquer à ces salariés.
+
+5.3. Dérogation applicable aux salariés âgés de moins de 26 ans poursuivant leurs études
+
+Conformément à l'article L. 3123-14-5 du code du travail, les salariés âgés de moins de 26 ans poursuivant leurs études ne sont soumis à aucune durée minimale légale ou conventionnelle du travail.
+
+Par conséquent, et afin de rendre compatible la poursuite de leurs études, ces salariés peuvent être embauchés pour une durée de travail inférieure à 24 heures hebdomadaires, sans obligation de regrouper les horaires dans les conditions précitées.
+
+Ces salariés justifient leur statut par tout moyen auprès de leur employeur.
+
+Durant leurs périodes de vacances, scolaires ou universitaires, les salariés qui le souhaitent pourront demander d'augmenter temporairement leur durée de temps de travail.
+
+A l'expiration du motif ouvrant droit à dérogation, ces salariés pourront demander à bénéficier des éventuels postes disponibles dont la durée de travail hebdomadaire est supérieure ou égale à 24 heures.
+
+5.4. Dérogation applicable à certains emplois
+
+Sauf demande expresse du salarié, la durée minimale hebdomadaire des employés de ménage et des coursiers salariés dont le temps de travail contractuel est réparti sur 1 à 3 jours dans la semaine est de 3 heures.
+
+Lorsque le temps de travail contractuel est réparti sur plus de 3 jours dans la semaine, la durée minimale hebdomadaire est de 6 heures.
+
+La journée de travail ne comporte pas de coupure.
+
+6. Cas de recours de CDD à temps partiel
+
+Conformément à la législation en vigueur, le contrat à temps partiel peut être souscrit pour une durée déterminée dans les cas suivants :
+
+1. Remplacement :
+
+– remplacement de salariés absents ;
+
+– remplacement dans l'attente de l'entrée en service d'un salarié recruté par contrat à durée indéterminée ;
+
+– remplacement d'un salarié quittant définitivement l'entreprise avant la suppression de son poste.
+
+2. Accroissement temporaire d'activité :
+
+– variations cycliques d'activité (fêtes de fin d'année, fête des mères, Saint-Valentin, soldes …) ;
+
+– variations exceptionnelles d'activité (anniversaire, liquidation, ouverture d'un établissement) ;
+
+– activités saisonnières des établissements situés dans les régions touristiques.
+
+7. Rémunération
+
+La rémunération des salariés à temps partiel est proportionnelle à celle d'un salarié qui, à qualification et ancienneté égales, occupe un emploi à temps complet équivalent dans l'entreprise ou l'établissement.
+
+La rémunération correspondant à l'horaire régulier prévu au contrat est mensualisée suivant la forme applicable au personnel à temps complet.
+
+Conformément aux articles L. 3123-17 et suivants du code du travail, les heures complémentaires sont payées, en plus de la rémunération mensualisée, de la façon suivante :
+
+– les heures complémentaires effectuées dans la limite de 1/10 de la durée hebdomadaire ou mensuelle fixée au contrat de travail doivent donner lieu, chacune, à une majoration de salaire de 10 % ;
+
+– chacune des heures effectuées au-delà de cette durée par le salarié doivent quant à elles donner lieu à une majoration de salaire de 25 %.
+
+8. Application des dispositions conventionnelles
+
+Les salariés employés à temps partiel bénéficient des droits et avantages accordés aux salariés occupés à temps complet, compte tenu d'adaptations éventuelles dans les conventions collectives, accords d'entreprise ou d'établissement.
+
+L'appréciation du droit ou du calcul des avantages s'effectue au regard des critères suivants :
+
+1. L'ancienneté ou le temps de présence nécessaire à l'acquisition des droits ou obligations réciproques sont toujours calculés pour leur durée calendaire.
+
+2. La durée des congés payés, des autorisations d'absence entraînant ou non une perte de salaire, des délais de “ protection ” (longue maladie, maternité), sont également toujours attribués pour la même durée calendaire que pour le personnel à temps complet.
+
+Le calcul de l'indemnité de congés payés (sauf si l'application de la règle du 1/10 s'avère plus favorable) s'effectue suivant la règle du maintien du salaire sur la base de l'horaire moyen accompli au cours des 12 mois précédant le congé.
+
+3. Le calcul des autres avantages, ayant ou non le caractère d'un salaire, tels que la prime d'ancienneté, s'effectue, selon le cas :
+
+– soit au prorata du temps de travail effectivement accompli au cours de la période de référence fixée par les dispositions conventionnelles pour leur attribution ;
+
+– soit par rapport au salaire effectivement perçu pendant cette période de référence.
+
+4. Les dispositions conventionnelles relatives aux jours fériés sont applicables aux salariés occupés à temps partiel. De ce fait, le chômage d'un jour férié compris dans l'horaire habituel de travail n'entraînera aucune réduction de leurs salaire et appointements.
+
+Les salariés employés à temps partiel bénéficient également de l'égalité d'accès aux possibilités de promotion, de carrière et de formation.
+
+Toute formation suivie dans le cadre du plan de formation de l'entreprise en dehors de l'horaire régulier est rémunérée en heures complémentaires.
+
+9. Recours aux heures complémentaires
+
+La possibilité de recourir aux heures complémentaires doit être prévue au contrat ; ces heures ne pourront être effectuées que dans les limites qu'il fixe, et en respectant un délai de prévenance de 7 jours, sauf accord exprès du salarié ou circonstances exceptionnelles.
+
+Lorsqu'elles sont prévues au contrat, elles pourront être effectuées dans la limite de 1/3 de la durée hebdomadaire ou mensuelle du travail mentionnée audit contrat.
+
+Les heures complémentaires ne peuvent avoir pour effet de porter la durée hebdomadaire effective du travail au niveau de la durée légale ou conventionnelle du travail.
+
+Lorsque, pendant une période de 12 semaines consécutives ou pendant 12 semaines au cours d'une période de 15 semaines, l'horaire moyen réellement effectué par le salarié a dépassé d'au moins 2 heures la durée hebdomadaire prévue au contrat, celui-ci est modifié, sous réserve du respect d'un préavis de 7 jours, en ajoutant à l'horaire antérieurement fixé la différence entre cet horaire et l'horaire moyen réellement effectué. Cette modification est constatée par un avenant au contrat. Cette disposition n'est pas applicable en cas d'opposition du salarié concerné.
+
+Le refus occasionnel moyennant un préavis de 7 jours, ou inférieur à 2 jours en cas de force majeure, d'effectuer les heures complémentaires prévues au contrat, ne peut constituer une faute ou un motif de licenciement.
+
+10. Avenants temporaires de compléments d'horaires
+
+Avec l'accord du salarié, il est possible, par avenant signé par les deux parties, d'augmenter temporairement la durée du travail prévue par le contrat, sans pour autant atteindre la durée légale du travail.
+
+Le refus du salarié d'augmenter temporairement sa durée de travail par avenant ne peut entraîner de sanction disciplinaire ni de rupture anticipée du contrat de travail.
+
+Le nombre d'avenants maximal pouvant être conclus pour surcroît d'activité est fixé à 7 par salarié et par an. La durée cumulée de ces avenants ne peut excéder 16 semaines civiles par an et par salarié.
+
+Quel que soit le motif de l'avenant, les compléments d'heures font l'objet d'une majoration salariale de 12 %.
+
+Tous les compléments d'heures réalisés au-delà de la durée définie par l'avenant donneront lieu, quant à eux, à une majoration de 25 %.
+
+Les salariés ayant des compétences équivalentes, ou ayant le plus petit volume d'heures, ou souhaitant occuper ou reprendre un emploi à temps complet, bénéficieront prioritairement de cette possibilité d'avenants.
+
+11. Modification définitive du temps de travail
+
+Les salariés à temps partiel qui souhaitent occuper ou reprendre un emploi à temps complet et les salariés à temps complet qui souhaitent occuper ou reprendre un emploi à temps partiel dans le même établissement ou, à défaut, dans la même entreprise bénéficieront d'un droit préférentiel pour obtenir un emploi ressortissant à leur catégorie professionnelle ou un emploi équivalent.
+
+La liste des emplois disponibles correspondants sera portée à la connaissance des salariés.
+
+A défaut de la disponibilité d'un tel emploi, les salariés à temps partiel pourront également se voir proposer un emploi à temps complet ne ressortissant pas à leur catégorie professionnelle ou un emploi à temps complet équivalent. »
