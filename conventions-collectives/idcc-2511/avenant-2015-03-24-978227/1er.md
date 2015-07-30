@@ -1,0 +1,13 @@
+# Article 1er
+
+L'article 2 de l'avenant n° 97 du 15 décembre 2014 relatif à la désignation d'un OPCA dans la branche est remplacé en toutes ses dispositions par la rédaction suivante :
+
+« Les dispositions du présent avenant révisent pour partie l'article 8.6.1 de la convention collective nationale du sport ainsi que les dispositions relatives à la désignation d'Uniformation prévues par l'avenant n° 62 du 5 juillet 2011 et l'avenant n° 83 du 24 juin 2013 non étendus.
+
+Le présent avenant est conclu pour une durée déterminée. Il produira ses effets à compter de son extension et jusqu'à la publication du dernier arrêté de représentativité prévu par les articles L. 2152-6 et L. 2122-11 du code du travail, établissant la liste des organisations professionnelles d'employeurs et des organisations syndicales de salariés reconnues représentatives dans la branche du sport.
+
+Les organisations représentatives conviennent de se réunir dans les 2 mois suivant la publication au Journal officiel du dernier des deux arrêtés précités pour envisager la nouvelle désignation d'un OPCA par conclusion d'un avenant.
+
+A compter de la publication du dernier de ces arrêtés et jusqu'à l'agrément du nouvel OPCA désigné par la branche, les dépenses engagées par Uniformation pour des actions de formation réalisées par les entreprises sur cette période seront intégralement compensées par l'OPCA nouvellement agréé, selon des modalités que leur conseil d'administration respectif arrêteront conjointement.
+
+A défaut d'accord, la DGEFP sera sollicitée pour déterminer la règle applicable dans le respect des dispositions comptables applicables aux OPCA. »
