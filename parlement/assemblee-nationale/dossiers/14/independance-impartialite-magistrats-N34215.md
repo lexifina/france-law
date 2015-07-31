@@ -1,0 +1,61 @@
+# Justice : statut des magistrats et Conseil supérieur de la magistrature
+
+- Procédure : Projet ou proposition de loi organique
+- Législature : 14
+- Identifiant : DLR5L14N34215
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/independance_impartialite_magistrats
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl14-660.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2015-07-31 : 1er dépôt d'une initiative. (PRJLSNR5S239B0660)
+  - 2015-07-31 : Etude d'impact (ETDISNR5S239B0660)
+  - 2015-07-31 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2015-07-31 : Renvoi en commission au fond
+      - 2015-09-16 : Nomination de rapporteur
+      - 2015-10-28 : Dépôt de rapport (RAPPSNR5S259B0119)
+  - Discussion en séance publique
+    - 2015-11-03 : Discussion en séance publique
+    - 2015-11-04 : Discussion en séance publique
+    - 2015-11-04 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2015-11-05 : Dépôt d'une initiative en navette (PRJLANR5L14B3200)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2015-11-05 : Renvoi en commission au fond
+      - 2015-11-18 : Nomination de rapporteur
+      - 2015-11-18 : Réunion de commission
+      - 2016-05-03 : Réunion de commission
+      - 2016-05-03 : Réunion de commission
+      - 2016-05-03 : Réunion de commission
+      - 2016-05-04 : Réunion de commission
+      - 2016-05-04 : Réunion de commission
+      - 2016-05-17 : Réunion de commission
+      - 2016-05-04 : Dépôt de rapport (RAPPANR5L14B3716, PRJLANR5L14BTC3716)
+  - Discussion en séance publique
+    - 2016-05-17 : Discussion en séance publique
+    - 2016-05-18 : Discussion en séance publique
+    - 2016-05-24 : Discussion en séance publique
+    - 2016-05-24 : Décision
+- Commission Mixte Paritaire
+  - 2016-05-24 : Dépôt d'un projet de loi (PRJLSNR5S259B0626)
+  - 2016-05-24 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2016-06-22 : Nomination de rapporteur
+    - 2016-06-22 : Dépôt du rapport d'une CMP (RAPPANR5L14B3870)
+    - 2016-06-22 : Dépôt du rapport d'une CMP (RAPPSNR5S259B0715)
+  - Discussion en séance publique
+    - 2016-07-06 : Discussion en séance publique
+    - 2016-07-06 : Décision
+  - Discussion en séance publique
+    - 2016-07-11 : Discussion en séance publique
+    - 2016-07-11 : Décision
+  - 2016-06-22 : Décision de la CMP
+- Conseil constitutionnel
+  - 2016-07-12 : Saisine du conseil constitutionnel
+  - 2016-07-28 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2016-08-08 : Promulgation d'une loi
