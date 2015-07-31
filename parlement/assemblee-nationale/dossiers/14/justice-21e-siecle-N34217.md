@@ -1,0 +1,96 @@
+# Justice :  justice du XXIe siècle
+
+- Procédure : Projet de loi ordinaire
+- Législature : 14
+- Identifiant : DLR5L14N34217
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/justice_21e_siecle
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl14-661.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2015-07-31 : 1er dépôt d'une initiative. (PRJLSNR5S239B0661)
+  - 2015-07-31 : Etude d'impact (ETDISNR5S239B0661)
+  - 2015-07-31 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2015-07-31 : Renvoi en commission au fond
+      - 2015-09-16 : Nomination de rapporteur
+      - 2015-10-28 : Dépôt de rapport (RAPPSNR5S259B0121)
+  - Discussion en séance publique
+    - 2015-11-03 : Discussion en séance publique
+    - 2015-11-04 : Discussion en séance publique
+    - 2015-11-05 : Discussion en séance publique
+    - 2015-11-05 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2015-11-06 : Dépôt d'une initiative en navette (PRJLANR5L14B3204)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2015-11-06 : Renvoi en commission au fond
+      - 2015-11-18 : Nomination de rapporteur
+      - 2015-11-18 : Réunion de commission
+      - 2016-05-03 : Réunion de commission
+      - 2016-05-03 : Réunion de commission
+      - 2016-05-03 : Réunion de commission
+      - 2016-05-04 : Réunion de commission
+      - 2016-05-04 : Réunion de commission
+      - 2016-05-17 : Réunion de commission
+      - 2016-05-06 : Dépôt de rapport (RAPPANR5L14B3726, PRJLANR5L14BTC3726)
+  - Discussion en séance publique
+    - 2016-05-17 : Discussion en séance publique
+    - 2016-05-18 : Discussion en séance publique
+    - 2016-05-18 : Discussion en séance publique
+    - 2016-05-19 : Discussion en séance publique
+    - 2016-05-24 : Discussion en séance publique
+    - 2016-05-24 : Décision
+- deuxième lecture
+  - 2016-05-24 : Dépôt d'une initiative en navette (PRJLSNR5S259B0625)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2016-05-24 : Renvoi en commission au fond
+- Commission Mixte Paritaire
+  - 2016-05-24 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2016-06-22 : Nomination de rapporteur
+    - 2016-06-22 : Dépôt du rapport d'une CMP (RAPPANR5L14B3871)
+    - 2016-06-22 : Dépôt du rapport d'une CMP (RAPPSNR5S259B0717)
+  - 2016-06-22 : Décision de la CMP
+- Nouvelle Lecture
+  - 2016-06-22 : Dépôt d'une initiative en navette (PRJLANR5L14B3872)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2016-06-22 : Renvoi en commission au fond
+      - 2016-06-29 : Réunion de commission
+      - 2016-07-11 : Réunion de commission
+      - 2016-10-11 : Réunion de commission
+      - 2016-06-30 : Dépôt de rapport (RAPPANR5L14B3904, PRJLANR5L14BTC3904)
+  - Discussion en séance publique
+    - 2016-07-11 : Discussion en séance publique
+    - 2016-07-12 : Discussion en séance publique
+    - 2016-07-12 : Discussion en séance publique
+    - 2016-07-12 : Décision
+- Nouvelle Lecture
+  - 2016-07-13 : Dépôt d'une initiative en navette (PRJLSNR5S259B0796)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2016-07-13 : Renvoi en commission au fond
+      - 2016-09-21 : Dépôt de rapport (RAPPSNR5S259B0839)
+  - Discussion en séance publique
+    - 2016-09-27 : Discussion en séance publique
+    - 2016-09-28 : Discussion en séance publique
+    - 2016-09-28 : Décision
+- Lecture définitive
+  - 2016-09-29 : Dépôt d'une initiative en navette (PRJLANR5L14B4068)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2016-09-29 : Renvoi en commission au fond
+      - 2016-10-11 : Dépôt de rapport (RAPPANR5L14B4106)
+  - Discussion en séance publique
+    - 2016-10-12 : Discussion en séance publique
+    - 2016-10-12 : Décision
+- Conseil constitutionnel
+  - 2016-10-17 : Saisine du conseil constitutionnel
+  - 2016-10-17 : Saisine du conseil constitutionnel
+  - 2016-11-17 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2016-11-18 : Promulgation d'une loi
