@@ -102,19 +102,129 @@ RPA et opérateur, porcins-manipulations et soins-mise à mort
 
 |
 
-IFIP, Institut du porc, 149, rue de Bercy, 75020 PARIS
+AFORVIA, BP 20, 72401 La Ferté-Bernard Cedex
 
 |
 
-RPA et opérateur, porcins-manipulations et soins-mise à mort
+Opérateur, bovins/équidés, manipulations et soins, mise à mort, complément sans étourdissement
+
+Opérateur, ovins/caprins, manipulations et soins, mise à mort, complément sans étourdissement
+
+Opérateur, porcins, manipulations et soins, mise à mort
 
 |
 
-20 septembre 2012
+15 novembre 2013
 
 |
 
-20 septembre 2017
+14 novembre 2018
+
+|
+
+ALIQUA
+
+3, chemin du Paradis
+
+27220 La Boissière
+
+|
+
+RPA et opérateur, volailles, manipulations et soins, mise à mort, complément sans étourdissement.
+
+RPA et opérateur, lagomorphes/rongeurs, manipulations et soins, mise à mort, complément sans étourdissement.
+
+|
+
+27 janvier 2014
+
+|
+
+26 janvier 2019
+
+|
+
+AVIPOLE FORMATION, Zoopole Les Croix, rue Camille-Guérin, 22400 Ploufragan
+
+|
+
+RPA et opérateur, volailles-manipulations et soins-mise à mort-complément sans étourdissement
+
+|
+
+1er février 2013
+
+|
+
+31 janvier 2018
+
+|
+
+Avipole Formation, Zoopôle Les Croix, rue Camille-Guérin, 22400 Ploufragan
+
+|
+
+RPA et opérateur, lagomorphes/ rongeurs, manipulations et soins, mise à mort, complément sans étourdissement
+
+|
+
+30 septembre 2013
+
+|
+
+29 septembre 2018
+
+|
+
+CFPPA du Gers, 32300 Mirande
+
+|
+
+Opérateur, volailles-manipulations et soins-mise à mort-complément sans étourdissement
+
+|
+
+1er juillet 2013
+
+|
+
+30 juin 2018
+
+|
+
+DEFI, 109, rue Laënnec, 69008 Lyon
+
+|
+
+Opérateur, bovins/ équidés et ovin/ caprin, manipulations et soins, mise à mort, complément sans étourdissement
+
+|
+
+20 juillet 2015
+
+|
+
+20 juillet 2020
+
+|
+
+DUC
+
+Grande Rue
+
+89771 Chailley Cedex
+
+|
+
+Opérateur, volailles-manipulations et soins
+
+|
+
+19 mai 2014
+
+|
+
+18 mai 2019
 
 |
 
@@ -146,19 +256,15 @@ RPA et opérateur, ovins/caprins-manipulations et soins-mise à mort-complément
 
 |
 
-AVIPOLE FORMATION, Zoopole Les Croix, rue Camille-Guérin, 22400 Ploufragan
+IFIP, Institut du porc, 149, rue de Bercy, 75020 PARIS |
+
+RPA et opérateur, porcins-manipulations et soins-mise à mort |
+
+20 septembre 2012
 
 |
 
-RPA et opérateur, volailles-manipulations et soins-mise à mort-complément sans étourdissement
-
-|
-
-1er février 2013
-
-|
-
-31 janvier 2018
+20 septembre 2017
 
 |
 
@@ -175,22 +281,6 @@ Opérateur, porcins-manipulations et soins-mise à mort
 |
 
 31 janvier 2018
-
-|
-
-CFPPA du Gers, 32300 Mirande
-
-|
-
-Opérateur, volailles-manipulations et soins-mise à mort-complément sans étourdissement
-
-|
-
-1er juillet 2013
-
-|
-
-30 juin 2018
 
 |
 
@@ -248,158 +338,6 @@ Opérateur, volailles, manipulations et soins, mise à mort, complément sans é
 
 |
 
-Zoopôle Développement, ISPAÏA, Zoopôle Les Croix, 2, rue Jean-Rostand, BP 7,22440 Ploufragan
-
-|
-
-RPA et opérateur, bovins/équidés, manipulations et soins, mise à mort, complément sans étourdissement
-
-RPA et opérateur, ovins/ caprins, manipulations et soins, mise à mort, complément sans étourdissement
-
-RPA et opérateur, porcins, manipulations et soins, mise à mort
-
-|
-
-30 septembre 2013
-
-|
-
-29 septembre 2018
-
-|
-
-SECURITEAM, 12, rue Nationale, 41150 Rilly-sur-Loire
-
-|
-
-RPA et opérateur, bovins/ équidés, manipulations et soins, mise à mort, complément sans étourdissement
-
-RPA et opérateur, ovins/ caprins, manipulations et soins, mise à mort, complément sans étourdissement
-
-RPA et opérateur, porcins, manipulations et soins, mise à mort
-
-|
-
-30 septembre 2013
-
-|
-
-29 septembre 2018
-
-|
-
-Avipole Formation, Zoopôle Les Croix, rue Camille-Guérin, 22400 Ploufragan
-
-|
-
-RPA et opérateur, lagomorphes/ rongeurs, manipulations et soins, mise à mort, complément sans étourdissement
-
-|
-
-30 septembre 2013
-
-|
-
-29 septembre 2018
-
-|
-
-RG Consulting France, La Martinais, 22130 Corseul
-
-|
-
-RPA et opérateur, volailles, manipulations et soins, mise à mort, complément sans étourdissement
-
-RPA et opérateur, lagomorphes/rongeurs, manipulations et soins, mise mort, complément sans étourdissement
-
-|
-
-15 novembre 2013
-
-|
-
-14 novembre 2018
-
-|
-
-AFORVIA, BP 20, 72401 La Ferté-Bernard Cedex
-
-|
-
-Opérateur, bovins/équidés, manipulations et soins, mise à mort, complément sans étourdissement
-
-Opérateur, ovins/caprins, manipulations et soins, mise à mort, complément sans étourdissement
-
-Opérateur, porcins, manipulations et soins, mise à mort
-
-|
-
-15 novembre 2013
-
-|
-
-14 novembre 2018
-
-|
-
-SOCSA Agroalimentaire, 11, rue d'Ariane, 31240 L'Union
-
-|
-
-RPA et opérateur, volailles, manipulations et soins, mise à mort, complément sans étourdissement
-
-|
-
-15 novembre 2013
-
-|
-
-14 novembre 2018
-
-|
-
-ALIQUA
-
-3, chemin du Paradis
-
-27220 La Boissière
-
-|
-
-RPA et opérateur, volailles, manipulations et soins, mise à mort, complément sans étourdissement.
-
-RPA et opérateur, lagomorphes/rongeurs, manipulations et soins, mise à mort, complément sans étourdissement.
-
-|
-
-27 janvier 2014
-
-|
-
-26 janvier 2019
-
-|
-
-DUC
-
-Grande Rue
-
-89771 Chailley Cedex
-
-|
-
-Opérateur, volailles-manipulations et soins
-
-|
-
-19 mai 2014
-
-|
-
-18 mai 2019
-
-|
-
 Marc LE MÉZO, 5, rue du Genévrier, 84000 Avignon
 
 |
@@ -443,5 +381,77 @@ RPA et opérateur, lagomorphes/rongeurs, manipulation et soins, mise à mort, co
 |
 
 14 janvier 2020
+
+|
+
+RG Consulting France, La Martinais, 22130 Corseul
+
+|
+
+RPA et opérateur, volailles, manipulations et soins, mise à mort, complément sans étourdissement
+
+RPA et opérateur, lagomorphes/rongeurs, manipulations et soins, mise mort, complément sans étourdissement
+
+|
+
+15 novembre 2013
+
+|
+
+14 novembre 2018
+
+|
+
+SECURITEAM, 12, rue Nationale, 41150 Rilly-sur-Loire
+
+|
+
+RPA et opérateur, bovins/ équidés, manipulations et soins, mise à mort, complément sans étourdissement
+
+RPA et opérateur, ovins/ caprins, manipulations et soins, mise à mort, complément sans étourdissement
+
+RPA et opérateur, porcins, manipulations et soins, mise à mort
+
+|
+
+30 septembre 2013
+
+|
+
+29 septembre 2018
+
+|
+
+SOCSA Agroalimentaire, 11, rue d'Ariane, 31240 L'Union
+
+|
+
+RPA et opérateur, volailles, manipulations et soins, mise à mort, complément sans étourdissement |
+
+15 novembre 2013
+
+|
+
+14 novembre 2018
+
+|
+
+Zoopôle Développement, ISPAÏA, Zoopôle Les Croix, 2, rue Jean-Rostand, BP 7,22440 Ploufragan
+
+|
+
+RPA et opérateur, bovins/équidés, manipulations et soins, mise à mort, complément sans étourdissement
+
+RPA et opérateur, ovins/ caprins, manipulations et soins, mise à mort, complément sans étourdissement
+
+RPA et opérateur, porcins, manipulations et soins, mise à mort
+
+|
+
+30 septembre 2013
+
+|
+
+29 septembre 2018
 
 |
