@@ -100,6 +100,12 @@ Pour le seuil de l'autorisation :
 
 3680
 
+1716
+
+1735
+
+2797
+
 Pour le seuil de l'autorisation et de l'enregistrement :
 
 2711
