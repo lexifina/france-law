@@ -268,14 +268,6 @@ Article R. 5146-19 du code de la santé publique.
 
 |
 
-Homologation et autorisation provisoire de vente ou d'importation des matières fertilisantes et des supports de culture.
-
-|
-
-R. * 255-1.
-
-|
-
 Agrément des laboratoires d'analyse de terre.
 
 |
@@ -311,14 +303,6 @@ Décret n° 94-510 du 23 juin 1994 relatif à la commercialisation des plantes o
 Décret n° 95-487 du 28 avril 1995 fixant les conditions de dissémination volontaire des animaux d'élevage génétiquement modifiés, art. 2,13,20-II et 25 ;
 
 Décret n° 2007-358 du 19 mars 2007 relatif à la dissémination volontaire à toute autre fin que la mise sur le marché de produits composés en tout ou partie d'organismes génétiquement modifiés (art. 23,25,27).
-
-|
-
-Autorisations de dissémination et de mise sur le marché des matières fertilisantes et des supports de culture composés en tout ou partie d'organismes génétiquement modifiés.
-
-|
-
-R. * 255-8, R. * 255-16, R. * 255-23, R. * 255-28 et R. * 255-32 du code rural et de la pêche maritime.
 
 |
 
