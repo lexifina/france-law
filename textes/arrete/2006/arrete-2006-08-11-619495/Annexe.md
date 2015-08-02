@@ -20,9 +20,7 @@ CESSIONS AUTORISÉES
 
 |
 
-Cessions intégrales.
-
-Cessions partielles portant sur la composante temporelle ou, pour les autorisations délivrées sans précisions sur l'implantation des stations, sur une ou plusieurs des composantes géographique, spectrale et temporelle.
+Cessions intégrales. Cessions partielles portant sur la composante temporelle ou, pour les autorisations délivrées sans précisions sur l'implantation des stations, sur une ou plusieurs des composantes géographique, spectrale et temporelle.
 
 |
 
@@ -32,9 +30,7 @@ Cessions partielles portant sur la composante temporelle ou, pour les autorisati
 
 |
 
-Cessions intégrales.
-
-Cessions partielles portant sur la composante temporelle.
+Cessions intégrales. Cessions partielles portant sur la composante temporelle.
 
 |
 
@@ -46,21 +42,25 @@ Cessions partielles portant sur la composante temporelle.
 
 |
 
-Cessions intégrales.
-
-Cessions partielles portant sur la composante temporelle ou, pour les autorisations délivrées sans précisions sur l'implantation des stations, sur une ou plusieurs des composantes géographique, spectrale et temporelle.
+Cessions intégrales. Cessions partielles portant sur la composante temporelle ou, pour les autorisations délivrées sans précisions sur l'implantation des stations, sur une ou plusieurs des composantes géographique, spectrale et temporelle.
 
 |
+
+703 MHz-733 MHz
+
+758 MHz-788 MHz
 
 791 MHz-821 MHz
 
 832 MHz-862 MHz
 
+880 MHz-915 MHz
+
+925 MHz-960 MHz
+
 |
 
-Cessions intégrales.
-
-Cessions partielles portant sur la composante spectrale.
+Cessions intégrales. Cessions partielles portant sur la composante spectrale.
 
 |
 
@@ -68,17 +68,13 @@ Cessions partielles portant sur la composante spectrale.
 
 |
 
-Cessions intégrales.
-
-Cessions partielles portant sur la composante temporelle.
-
-Les cessions ne sont autorisées que pour les autorisations délivrées avec précision sur l'implantation des stations.
+Cessions intégrales. Cessions partielles portant sur la composante temporelle. Les cessions ne sont autorisées que pour les autorisations délivrées avec précision sur l'implantation des stations.
 
 |
 
 1 525 MHz-1 559 MHz
 
-1613,8 MHz-1626,5 MHz
+1 613,8 MHz-1 626,5 MHz
 
 1 626,5 MHz-1 660 MHz
 
@@ -86,9 +82,21 @@ Les cessions ne sont autorisées que pour les autorisations délivrées avec pr�
 
 |
 
-Cessions intégrales.
+Cessions intégrales. Cessions partielles portant sur la composante temporelle.
 
-Cessions partielles portant sur la composante temporelle.
+|
+
+1 710 MHz-1 785 MHz
+
+1 805 MHz-1 880 MHz
+
+1 900 MHz-1 980 MHz
+
+2 110 MHz-2 170 MHz
+
+|
+
+Cessions intégrales. Cessions partielles portant sur la composante spectrale.
 
 |
 
@@ -98,9 +106,7 @@ Cessions partielles portant sur la composante temporelle.
 
 |
 
-Cessions intégrales.
-
-Cessions partielles portant sur la composante spectrale.
+Cessions intégrales. Cessions partielles portant sur la composante spectrale.
 
 |
 
@@ -108,9 +114,7 @@ Cessions partielles portant sur la composante spectrale.
 
 |
 
-Cessions intégrales.
-
-Cessions partielles portant sur la composante temporelle ou, pour les autorisations délivrées sans précisions sur l'implantation des stations, sur une ou plusieurs des composantes géographique, spectrale et temporelle.
+Cessions intégrales. Cessions partielles portant sur la composante temporelle ou, pour les autorisations délivrées sans précisions sur l'implantation des stations, sur une ou plusieurs des composantes géographique, spectrale et temporelle.
 
 |
 
@@ -130,11 +134,7 @@ Cessions partielles portant sur la composante temporelle ou, pour les autorisati
 
 |
 
-Cessions intégrales.
-
-Cessions partielles portant sur la composante temporelle.
-
-Les cessions ne sont autorisées que pour les autorisations délivrées avec précision sur l'implantation des stations.
+Cessions intégrales. Cessions partielles portant sur la composante temporelle. Les cessions ne sont autorisées que pour les autorisations délivrées avec précision sur l'implantation des stations.
 
 |
 
@@ -142,9 +142,7 @@ Les cessions ne sont autorisées que pour les autorisations délivrées avec pr�
 
 |
 
-Cessions intégrales.
-
-Cessions partielles portant sur la composante temporelle ou, pour les autorisations délivrées sans précisions sur l'implantation des stations, sur une ou plusieurs des composantes géographique, spectrale et temporelle.
+Cessions intégrales. Cessions partielles portant sur la composante temporelle ou, pour les autorisations délivrées sans précisions sur l'implantation des stations, sur une ou plusieurs des composantes géographique, spectrale et temporelle.
 
 |
 
@@ -154,23 +152,15 @@ Cessions partielles portant sur la composante temporelle ou, pour les autorisati
 
 47,2 GHz-50,5 GHz
 
-sauf
-
-47,5-47,9
+sauf 47,5-47,9
 
 48,2-48,54
 
-49,44-50,2
-
-GHz
+49,44-50,2 GHz
 
 |
 
-Cessions intégrales.
-
-Cessions partielles portant sur la composante temporelle.
-
-Les cessions ne sont autorisées que pour les autorisations délivrées avec précision sur l'implantation des stations.
+Cessions intégrales. Cessions partielles portant sur la composante temporelle. Les cessions ne sont autorisées que pour les autorisations délivrées avec précision sur l'implantation des stations
 
 |
 
