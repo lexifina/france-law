@@ -14,7 +14,11 @@ Isolation des toitures-terrasses / Fiche d’opération standardisée n° BAT-EN
 
 Chaudière collective haute performance énergétique / Fiche d’opération standardisée n° BAT-TH-102
 
-Robinet thermostatique / Fiche d’opération n° BAT-TH-104
+Robinet thermostatique / Fiche d’opération standardisée n° BAT-TH-104
+
+Radiateur basse température pour un chauffage central/ / Fiche d’opération standardisée n° BAT-TH-105
+
+Isolation d’un réseau hydraulique de chauffage / Fiche d’opération standardisée n° BAT-TH-106
 
 Récupérateur de chaleur à condensation / Fiche d’opération standardisée n° BAT-TH-110
 
@@ -30,21 +34,35 @@ Conformément au 1° de l’article 6 de l’arrêté du 20 mars 2015 (NOR : DEV
 
 Système de gestion technique du bâtiment pour le chauffage et l’eau chaude sanitaire / Fiche d’opération standardisée n° BAT-TH-116
 
+Isolation d’un réseau hydraulique d’eau chaude sanitaire / Fiche d’opération standardisée n° BAT-TH-119
+
 Chauffe-eau solaire (France d’outre-mer) / Fiche d’opération standardisée n° BAT-TH-121
+
+Récupération de chaleur sur groupe de production de froid / Fiche d’opération standardisée n° BAT-TH-139
 
 Pompe à chaleur à moteur gaz de type air/eau / Fiche d’opération standardisée n° BAT-TH-141
 
 Pompe à chaleur à absorption de type air/eau ou eau/eau / Fiche d’opération standardisée n° BAT-TH-140
 
+Ventilo-convecteurs haute performance / Fiche d’opération standardisée n° BAT-TH-143
+
+Luminaires à modules LED pour surfaces commerciales / Fiche d’opération standardisée n° BAT-EQ-111
+
 Lampe à LED de classe A+ (France d’outre-mer) / Fiche d’opération standardisée n° BAT-EQ-116
 
 Fermeture des meubles frigorifiques de vente à température positive / Fiche d’opération standardisée n° BAT-EQ-124
+
+Lampe ou luminaire à modules LED pour l’éclairage d’accentuation / Fiche d’opération standardisée n° BAT-EQ-126
 
 Luminaire d’éclairage général à modules LED / Fiche d’opération standardisée n° BAT-EQ-127
 
 Conduits de lumière naturelle / Fiche d’opération standardisée n° BAT-EQ-131
 
+Tubes à LED à éclairage hémisphérique / Fiche d’opération standardisée n° BAT-EQ-132
+
 Liens :
+
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0177 du 02/08/2015, texte n° 2, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=ZucI2g3TB8391J-G1h9Dua3PzXyh2U2x_naRfEud_Wg=
 
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0075 du 29/03/2015, texte n° 6, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=xhmSfzOnsCkjNrGahHphZrmpoFhR61mGJ7APKjTA6As=
 

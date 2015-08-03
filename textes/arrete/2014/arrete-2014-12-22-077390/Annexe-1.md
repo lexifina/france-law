@@ -6,6 +6,10 @@ Secteur agriculture
 
 - Dispositif de stockage d’eau chaude / Fiche d’opération n° AGRI-TH-102
 
+- Système de récupération de chaleur sur groupe de production de froid hors tanks à lait / Fiche d'opération n° AGRI-TH-104
+
+- Récupération de chaleur sur tank à lait / Fiche d'opération n° AGRI-TH-105
+
 - Récupération de chaleur à condensation pour serres horticoles / Fiche d’opération n° AGRI-TH-109
 
 - Chaudière à condensation pour serres horticoles / Fiche d’opération n° AGRI-TH-110
@@ -31,6 +35,10 @@ Secteur agriculture
 - Pompe à chaleur de type air/eau ou eau/eau / Fiche d'opération n° AGRI-TH-108
 
 Liens
+
+Vous pouvez consulter les fiches dans le fac-similé du JO nº 0177 du 02/08/2015, texte nº 2
+
+https://www.legifrance.gouv.fr/download/pdf?id=ZucI2g3TB8391J-G1h9DuWxoCtqh9SJ32VBSCt4dzzI=
 
 Vous pouvez consulter les fiches dans le fac-similé du JO nº 0075 du 29/03/2015, texte nº 6
 
