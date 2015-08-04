@@ -1,0 +1,9 @@
+# Réponse à la question n° 80398
+
+- Question : [80398](80398.md) — Question n° 80398 — principal adjoint; nouvelle bonification indiciaire; bénéfice
+
+## Réponse
+
+*JO du 2015-08-04*
+
+En vertu de l'article R. 421-13 du code de l'éducation, le chef d'établissement adjoint seconde le chef d'établissement dans ses missions. Membre de l'équipe de direction, il le supplée en cas d'absence ou d'empêchement. Ces missions statutaires du personnel de direction, relevant du ministère de l'éducation nationale, de l'enseignement supérieur et de la recherche, chargé des fonctions de chef d'établissement adjoint sont rémunérées avec le traitement indiciaire, la bonification indiciaire et l'indemnité de fonctions, de responsabilités et de résultats afférents à cette fonction et à la catégorie dans laquelle est classé l'établissement d'affectation. Seule la fonction de chef d'établissement ouvre droit au bénéfice d'une nouvelle bonification indiciaire aux personnels de direction des établissements classés en 3e et 4e catégories. Toutefois, dans ces établissements, en cas d'absence de longue durée du chef d'établissement, le chef d'établissement adjoint, dès lors qu'il est régulièrement désigné pour assurer l'intérim, peut percevoir cette nouvelle bonification indiciaire ajoutée à l'indemnité de fonctions, de responsabilités et de résultats et à la bonification indiciaire, afférents à la fonction de chef d'établissement, pendant la durée de l'intérim. En revanche, pour les absences de courte durée, tels les congés de maladie ou de maternité, le titulaire de la fonction de chef d'établissement bénéficie de garanties, régulièrement rappelées par le juge, qui lui assurent le maintien de la nouvelle bonification indiciaire et font obstacle à ce que l'intérimaire puisse en bénéficier. Il n'est pas envisagé de remettre en cause cet équilibre.
