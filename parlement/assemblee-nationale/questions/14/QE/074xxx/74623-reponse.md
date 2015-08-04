@@ -1,0 +1,9 @@
+# Réponse à la question n° 74623
+
+- Question : [74623](74623.md) — Question n° 74623 — avis d'imposition; travailleurs migrants; réglementation
+
+## Réponse
+
+*JO du 2015-08-04*
+
+Aux termes de l'article 6-4 du code général des impôts (CGI), et par dérogation au principe de l'imposition commune des couples mariés, les époux font l'objet d'une imposition distincte : - lorsqu'ils sont mariés sous le régime de la séparation de biens et ne vivent pas ensemble ; - lorsqu'étant en instance de séparation de corps et de divorce, ils ont été autorisés à résider séparément ; - lorsque, l'un des époux ayant abandonné le domicile conjugal, ils disposent l'un et l'autre de revenus distincts. Ces dispositions s'appliquent notamment aux couples mariés sous le régime de la séparation de biens dont l'un des conjoints vit hors du territoire national. Il n'est pas précisé dans la question le régime matrimonial des salariés résidant dans ces foyers de travailleurs migrants mais il faut savoir qu'un grand nombre de pays ont comme régime matrimonial légal le régime de la séparation de biens. Si les usagers concernés sont bien mariés sous le régime de la séparation de biens, alors une imposition distincte doit être établie. Lorsqu'un usager se trouve dans la situation d'une imposition distincte en vertu de l'article 6-4 du CGI, le système d'information de la direction générale des finances publiques (DGFiP) ne permet pas d'établir un avis d'impôt mentionnant un statut marié avec un quotient familial afférent à une personne seule. C'est pourquoi ces usagers ont reçu un avis mentionnant la situation familiale « divorcé » permettant d'effectuer la liquidation des droits de manière correcte, et conformément à la loi, même si le statut indiqué n'est pas exact. Dans un contexte budgétaire contraint, il n'est pas prévu de faire évoluer le système d'information de la DGFiP sur ce point.
