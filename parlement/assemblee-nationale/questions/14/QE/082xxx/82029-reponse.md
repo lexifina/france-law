@@ -1,0 +1,9 @@
+# Réponse à la question n° 82029
+
+- Question : [82029](82029.md) — Question n° 82029 — déplacement; Var; bilan
+
+## Réponse
+
+*JO du 2015-08-04*
+
+Le ministre de l'agriculture, de l'agroalimentaire et de la forêt, porte-parole du Gouvernement s'est rendu dans le Var le 19 juin dernier. A cette occasion, il a pu inaugurer l'observatoire français d'apidologie aux côtés de son altesse sérénissime le Prince Albert II de Monaco, à Mazauges, en présence de nombreux représentants de la filière apicole et de chercheurs en apiculture, réunis autour du directeur de l'observatoire, M. Thierry Dufresne, apiculteur. Ce déplacement a permis au ministre chargé de l'agriculture de dresser un bilan du plan de développement durable de l'apiculture (PDDA) lancé en 2013, dans le cadre du projet agro-écologique pour la France, et d'annoncer, sur ces bases, la poursuite du PDDA pour deux années supplémentaires jusqu'en 2017, en le recentrant sur les axes les moins aboutis, à savoir, en particulier, la structuration de la filière apicole. Le ministre a également exprimé le souhait de voir se développer un label « miel de France », et la mise en place à l'automne d'un pacte apicole, en parallèle de la mise en place d'un certificat de compétence pour professionnaliser le métier d'apiculteur, dont le nom « certi-api » et logo ont été dévoilés. Le bilan du PDDA et les annonces faites à l'occasion de ce déplacement sont disponibles à l'adresse suivante : agriculture. gouv. fr/stephane-le-foll-renouvelle-son-engagement-en-faveur-de-lapiculture Enfin, ce déplacement dans le Var a été l'occasion d'échanger avec les différents responsables des organisations professionnelles agricoles du département sur la situation des filières, les préoccupations réglementaires..., grâce à la tenue d'une table ronde en présence du ministre chargé de l'agriculture et du préfet.
