@@ -1,0 +1,9 @@
+# Réponse à la question n° 84096
+
+- Question : [84096](84096.md) — Question n° 84096 — Chine; PME; développement
+
+## Réponse
+
+*JO du 2015-08-04*
+
+La France compte beaucoup de PME innovantes et performantes dont les produits et services de grande qualité répondent à une demande internationale, notamment dans les pays émergents. La France a la volonté politique de faire du soutien international des PME un axe majeur de la stratégie française de redressement du commerce extérieur. A l'occasion du premier forum international des PME, le 11 mars 2015, le secrétaire d'Etat chargé du commerce extérieur, de la promotion du tourisme et des Français de l'étranger a présenté un plan d'action. Il prévoit l'accompagnement des PME selon 4 axes : la simplification du parcours international, le renforcement du pilotage stratégique, l'amélioration des moyens dédiés aux PME et la facilitation des démarches des PME. Ces mesures concernent toutes les PME françaises, et notamment celles qui se développent en Chine ou avec des entreprises chinoises. La récente visite du Premier ministre chinois en France, du 29 juin au 2 juillet, montre que les relations franco-chinoises sont à leur meilleur niveau historique. Près de 50 accords et contrats ont été signés. Dans le secteur économique, plusieurs d'entre eux visent le soutien des PME françaises et chinoises. Il s'agit notamment de la création de fonds d'investissements franco-chinois supplémentaires, destinés spécifiquement aux PME (dans les domaines de la santé, de l'agro-alimentaire, de la ville intelligente, de l'énergie propre et les PME et ETI innovantes) et des accords de partenariat entre des banques chinoises et Business France pour soutenir les PME et ETI françaises désireuses de s'implanter ou de se développer en Chine et réciproquement (échange de bonnes pratiques relatives à la prospection et à l'accompagnement des entreprises, organisation d'évènements conjoints).
