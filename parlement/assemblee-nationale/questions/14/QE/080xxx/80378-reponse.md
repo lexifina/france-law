@@ -1,0 +1,9 @@
+# Réponse à la question n° 80378
+
+- Question : [80378](80378.md) — Question n° 80378 — myopathie à stockage de polysaccharides; perspectives
+
+## Réponse
+
+*JO du 2015-08-04*
+
+L'arrêté du 29 juillet 2013, relatif à la définition des dangers sanitaires de première et deuxième catégories pour les espèces animales, fixe les listes de dangers sanitaires de première et de deuxième catégories auxquels sont exposés les animaux en s'appuyant sur les avis de l'agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail (Anses) « hiérarchisation de 103 maladies animales présentes dans les filières ruminants, équidés, porcs, volailles et lapins en France métropolitaine » du 12 juin 2012 et « méthodologie de hiérarchisation des maladies animales ; application aux agents pathogènes exotiques pour la France métropolitaine » du 26 janvier 2012. Il fixe également une liste des dangers sanitaires émergents. L'avis de l'Anses a pris en compte plusieurs critères tels que : - le potentiel de persistance et d'évolution de la maladie ou de l'infection ; - l'impact économique et commercial de la maladie dans les unités épidémiologiques animales touchées actuellement en France ; - l'impact sur la santé humaine actuellement en France ; - l'impact sociétal de la maladie ; - l'impact de la maladie sur la biodiversité ; - les limites à l'efficacité des mesures de lutte ; - l'impact économique global à l'échelon national des mesures de lutte ; - les impacts sociétaux et environnementaux des mesures de lutte. La myopathie à stockage de polysaccharides (PSSM) n'a pas été identifiée comme une des maladies à hiérarchiser dans le contexte de l'organisation de l'épidémiosurveillance en France. Ainsi, la maîtrise de cette maladie ne peut faire l'objet que d'une démarche collective par exemple, ou bien s'intégrer dans des programmes d'amélioration génétique via les règlements des stud-books des races impactées.
