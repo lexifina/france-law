@@ -1,0 +1,9 @@
+# Réponse à la question n° 83613
+
+- Question : [83613](83613.md) — Question n° 83613 — instances consultatives; coût de fonctionnement
+
+## Réponse
+
+*JO du 2015-08-04*
+
+La Commission supérieure des maladies professionnelles a été instaurée par la loi n° 72-965 du 25 octobre 1972 instituant l'assurance des salariés agricoles contre les accidents du travail et les maladies professionnelles. Il s'agissait d'assurer, en matière de prévention et de réparation des accidents du travail et maladies professionnelles, la parité entre les salariés agricoles et ceux relevant du régime général, tout en ménageant des spécificités pour tenir compte des particularismes du monde agricole, tant dans ses structures, ses activités que son organisation administrative. Les tableaux propres au secteur agricole sont élaborés ou révisés par la Commission supérieure des maladies professionnelles, composée des partenaires sociaux agricoles, de spécialistes et intervenants du domaine de la prévention des risques professionnels de l'agriculture, ainsi que des représentants de la mutualité sociale agricole. Les préoccupations relatives à la santé et sécurité au travail, notamment celle des pathologies à effet différé liés à l'utilisation des pesticides par les travailleurs, ont conduit à l'adoption d'un nouveau tableau sur les hémopathies malignes provoquées par les pesticides, créé par le décret n° 2015-636 du 5 juin 2015. Il est à noter que cette réglementation, relative à la réparation des maladies professionnelles, est aussi applicable aux exploitants agricoles. Cette commission fonctionne sans moyens humains et financiers spécifiques puisque c'est le service des affaires financières, sociales et logistiques du ministère de l'agriculture, de l'agroalimentaire et de la forêt qui la réunit en tant que de besoin.
