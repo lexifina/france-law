@@ -1,0 +1,9 @@
+# Réponse à la question n° 68897
+
+- Question : [68897](68897.md) — Question n° 68897 — indemnités au départ; perspectives
+
+## Réponse
+
+*JO du 2015-08-04*
+
+Créée en 1982, l'indemnité de départ s'est substituée à l'aide spéciale compensatrice mise en place en 1972, dans un contexte économique particulier de disparition rapide de petits commerces et d'artisans traditionnels. Elle visait à compenser, au moment du départ en retraite des indépendants, la dépréciation du fonds de commerce et l'érosion des repreneurs potentiels liés au développement de la grande distribution. L'article 92 de la loi de finances pour 2015 a supprimé l'indemnité de départ à compter du 1er janvier 2015. En effet, cette aide ne remplissait plus sa finalité sociale originelle et ne permettait plus de cibler les commerçants et artisans qui se trouvent en réelle difficulté financière lors de leur départ en retraite. Toutefois, afin d'atténuer les conséquences de la suppression de cette aide, le RSI a mis en oeuvre un dispositif de substitution de l'indemnité de départ dénommé « Accompagnement au Départ en Retraite » (ADR) dès le 1er janvier 2015. Il s'agit d'une aide sociale, extra-légale, attribuée par les caisses régionales du RSI qui est complémentaire des aides accordées aux assurés actifs ou retraités au titre de l'action sanitaire et sociale du RSI. Des critères sociaux et médico-sociaux, en plus des critères de revenus, sont pris en considération pour l'étude et l'attribution de cette aide. Les personnes remplissant les critères d'éligibilité peuvent obtenir une aide d'un montant moyen qui varie, selon leur situation, de 7 500 euros à 10 000 euros. Cette évolution témoigne de la volonté du gouvernement d'apporter aux commerçants et artisans, particulièrement aux plus fragiles d'entre eux, une aide plus adaptée à leur situation individuelle.
