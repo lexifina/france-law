@@ -1,0 +1,9 @@
+# Réponse à la question n° 80781
+
+- Question : [80781](80781.md) — Question n° 80781 — rapport; recommandations
+
+## Réponse
+
+*JO du 2015-08-04*
+
+La France a ratifié le Pacte international relatif aux droits économiques, sociaux et culturels (PIDESC) en 1980. Elle est engagée depuis de nombreuses années en faveur de la défense de ces droits. Conformément aux articles 16 et 17 du Pacte, la France a adressé quatre rapports successifs au Comité des droits économiques, sociaux et culturels des Nations unies depuis 1980, afin de détailler la mise en oeuvre du Pacte au niveau national. Conformément aux engagements pris par le Président de la République, la France a renforcé son engagement en faveur des droits économiques, sociaux et culturels, comme en témoigne la ratification par la France, le 18 mars 2015, du Protocole facultatif se rapportant au PIDESC. Ce Protocole, entré en vigueur pour la France le 18 juin dernier, prévoit la mise en place d'un mécanisme donnant la possibilité à toute personne ou tout groupe de personnes, estimant être victime de violations des droits énoncés dans le Pacte, de soumettre une communication écrite au Comité des droits économiques, sociaux et culturels des Nations unies. Cela constitue une avancée majeure dans la reconnaissance des droits consacrés par le Pacte et leur application en France. La France est particulièrement vigilante concernant l'effectivité de la mise en oeuvre et du respect de ces droits. A ce titre, les contributions de la société civile, telles que le rapport préparé par la plateforme « DESC » à l'occasion du pré-examen de la situation française devant le Comité des droits économiques, sociaux et culturels, sont particulièrement utiles. Les recommandations de ce rapport font l'objet d'un examen attentif par le ministère des affaires étrangères et du développement international, notamment dans la perspective de l'examen de la France par le Comité en 2016.
