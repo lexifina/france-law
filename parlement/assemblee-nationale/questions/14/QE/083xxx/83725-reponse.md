@@ -1,0 +1,9 @@
+# Réponse à la question n° 83725
+
+- Question : [83725](83725.md) — Question n° 83725 — instances consultatives; suppression
+
+## Réponse
+
+*JO du 2015-08-04*
+
+La Commission d'examen du plan national d'affectation des quotas d'émission de gaz à effet de serre avait déjà été supprimée par le décret n° 2012-1343 du 3 décembre 2012 relatif au système d'échange de quotas d'émission de gaz à effet de serre (période 2013-2020) et à la mise en oeuvre des activités de projets. Ce texte avait en effet remplacé et modifié l'article R. 229-6 du code de l'environnement qui l'instituait. Le décret n° 2014-132 du 17 février 2014 portant suppression de commissions administratives à caractère consultatif a quant à lui abrogé l'arrêté du 10 février 2009 fixant la composition de cette Commission. La suppression de cette Commission n'a pas eu de conséquences budgétaires, aucun poste de crédit n'étant prévu pour son fonctionnement. Par ailleurs, dans la troisième période d'échange de quotas d'émission qui a débuté le 1er janvier 2013, les allocations de quotas sont décidées non plus au niveau national, ce qui justifiait une telle commission, mais au niveau européen, sur la base d'une directive et d'une décision de la Commission européenne. Cela étant, la suppression de la Commission d'examen du plan national d'affectation n'a pas empêché les services du ministère de l'écologie, du développement durable et de l'énergie d'exercer une consultation et une concertation étroite avec les représentants des secteurs industriels et des organisations non gouvernementales qui étaient représentées dans cette Commission lors des discussions de préparation de la décision n° 2011/78/UE du 27 avril 2011 définissant des règles transitoires pour l'ensemble de l'Union concernant l'allocation harmonisée de quotas à titre gratuit conformément à l'article 10 bis de la directive 2003/87/CE du Parlement européen et du Conseil.
