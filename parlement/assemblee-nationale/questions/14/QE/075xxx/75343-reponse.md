@@ -1,0 +1,9 @@
+# Réponse à la question n° 75343
+
+- Question : [75343](75343.md) — Question n° 75343 — création; réglementation
+
+## Réponse
+
+*JO du 2015-08-04*
+
+Il résulte des dispositions des articles 256 et 256 A du code général des impôts (CGI) qu'une société publique locale (SPL), qui est une société anonyme, en charge de l'exploitation d'un centre aquatique intercommunal, exerce une activité économique et doit soumettre à la taxe sur la valeur ajoutée (TVA) les recettes qu'elle perçoit en contrepartie des prestations de services qu'elle effectue à titre onéreux au profit des usagers du centre. L'article 256B du CGI ne peut, en tout état de cause, s'appliquer qu'aux activités des personnes morales de droit public et ne concerne en conséquence pas les SPL. S'agissant des contributions versées par les communes membres, une somme doit être soumise à la TVA dès lors qu'elle peut s'analyser, soit comme la contrepartie d'une livraison de biens ou d'une prestation de services individualisée rendue par l'assujetti au profit de la partie versante, soit comme le complément du prix d'une telle opération imposable réalisée par son bénéficiaire avec des tiers. En matière de complément de prix, il en va ainsi lorsque les circonstances de droit ou de fait permettent d'établir l'existence d'un engagement non équivoque de fournir un bien ou un service déterminé ou de constater la réalisation d'un tel engagement par le bénéficiaire de la subvention. En revanche, les contributions qui ne tendent qu'à assurer le fonctionnement et l'équilibre financier de l'exploitation aquatique, constituent des subventions d'équilibre non imposable à la TVA. S'agissant de la situation particulière évoquée par l'auteur de la question, elle a fait l'objet d'un examen attentif de la part de l'administration fiscale sur la base des règles rappelées ci-dessus dont les résultats ont été portés directement à sa connaissance.
