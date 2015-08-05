@@ -1,95 +1,355 @@
 # Article Annexe II
 
-MONTANT MAXIMAL DE LA COMPENSATION FINANCIÈRE POUR LE RETRAIT
+MODÈLE DE FICHE D'ENREGISTREMENT DES TEMPS DE TRAVAUX
 
-COMPENSATION FINANCIÈRE AU POIDS
+À REMPLIR OBLIGATOIREMENT POUR CHAQUE SEMAINE
 
-PRODUIT
+FO : année ..............................................................................................................................................................................................
 
-|
+Nom et prénom du salarié : .......................................................................................................................................................................
 
-PLAFOND
+Fonction du salarié (conformément à l'intitulé figurant sur le bulletin de salaire ou dans le contrat de travail) : ....................................................
 
-(euros/100 kg)
+Relevé de temps de travail quotidien conservé au siège de l'OP
 
-|
-
-Artichaut
+NUMÉRO DE SEMAINE
 
 |
 
-31,95
+MESURE
 
 |
 
-Asperge
+MESURE
 
 |
 
-128,98
+MESURE
 
 |
 
-Endive
+MESURE
 
 |
 
-31,80
+TOTAL
 
 |
 
-Pissenlit
+Date : JJ/MM/AA
 
 |
 
-105,44
+Heures passées
 
 |
 
-Brocoli
+Heures passées
 
 |
 
-41,26
+Heures passées
 
 |
 
-Oignon jaune
+Heures passées
 
 |
 
-6,80
+Heures passées
 
 |
 
-Salade
+Date : JJ/MM/AA
 
 |
 
-31
+Heures passées
 
 |
 
-Concombre
+Heures passées
 
 |
 
-19,2
+Heures passées
 
 |
 
-Courgette
+Heures passées
 
 |
 
-23,6
+Heures passées
 
 |
 
-Poivron
+Date : JJ/MM/AA
 
 |
 
-35,6
+Heures passées
 
 |
+
+Heures passées
+
+|
+
+Heures passées
+
+|
+
+Heures passées
+
+|
+
+Heures passées
+
+|
+
+Date : JJ/MM/AA
+
+|
+
+Heures passées
+
+|
+
+Heures passées
+
+|
+
+Heures passées
+
+|
+
+Heures passées
+
+|
+
+Heures passées
+
+|
+
+Date : JJ/MM/AA
+
+|
+
+Heures passées
+
+|
+
+Heures passées
+
+|
+
+Heures passées
+
+|
+
+Heures passées
+
+|
+
+Heures passées
+
+|
+
+Total semaine n°...
+
+|
+
+Heures passées
+
+|
+
+Heures passées
+
+|
+
+Heures passées
+
+|
+
+Heures passées
+
+|
+
+Heures passées
+
+|
+
+Synthèse mensuelle temps de travail à envoyer
+
+avec l'ensemble des pièces justificatives du dossier au directeur général de FranceAgriMer
+
+MOIS
+
+|
+
+MESURE
+
+|
+
+MESURE
+
+|
+
+MESURE
+
+|
+
+MESURE
+
+|
+
+TOTAL
+
+|
+
+Numéro de semaine
+
+|
+
+Heures passées
+
+|
+
+Heures passées
+
+|
+
+Heures passées
+
+|
+
+Heures passées
+
+|
+
+Heures passées
+
+|
+
+Numéro de semaine
+
+|
+
+Heures passées
+
+|
+
+Heures passées
+
+|
+
+Heures passées
+
+|
+
+Heures passées
+
+|
+
+Heures passées
+
+|
+
+Numéro de semaine
+
+|
+
+Heures passées
+
+|
+
+Heures passées
+
+|
+
+Heures passées
+
+|
+
+Heures passées
+
+|
+
+Heures passées
+
+|
+
+Numéro de semaine
+
+|
+
+Heures passées
+
+|
+
+Heures passées
+
+|
+
+Heures passées
+
+|
+
+Heures passées
+
+|
+
+Heures passées
+
+|
+
+Numéro de semaine
+
+|
+
+Heures passées
+
+|
+
+Heures passées
+
+|
+
+Heures passées
+
+|
+
+Heures passées
+
+|
+
+Heures passées
+
+|
+
+Total mois
+
+|
+
+Heures passées
+
+|
+
+Heures passées
+
+|
+
+Heures passées
+
+|
+
+Heures passées
+
+|
+
+Heures passées
+
+|
+
+Pour les salariés de l'organisation de producteurs affectés à temps plein à une mesure, le tableau hebdomadaire et la synthèse mensuelle ci-dessus ne sont pas exigés. Il convient d'exprimer le temps en heure décimale et non en heure-minute. (pour 1 h et 30 min, il convient d'inscrire 1,5 h).

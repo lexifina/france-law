@@ -1,295 +1,121 @@
 # Article Annexe IV
 
-CAHIER DES CHARGES DES MÉTHODES
+MÉTHODE DE CONTRÔLE INTERNE PAR L'ORGANISATION DE PRODUCTEURS (OP)
 
-DE RETRAIT RESPECTUEUSES DE L'ENVIRONNEMENT
+A. - Contrôle interne dans le cas de la mise en place d'une action hors forfait sur l'exploitation d'un membre producteur
 
-Cahier des charges des techniques de retrait des choux-fleurs
+Chaque action mise en œuvre (hors achats, location, leasing et investissements) est soumise à la procédure de contrôle interne ci-dessous :
 
-(autres que la distribution gratuite et l'alimentation animale)
+1. Mise en place d'une procédure formalisée par l'OP :
 
-Epandage : seuil maximal
+L'OP définit par écrit une procédure formalisée de contrôle interne et les documents permettant de tracer les vérifications menées chaque année :
 
-Afin de limiter l'impact sur l'environnement et particulièrement de réduire les risques de pollution des nappes par le lessivage des nitrates, le nombre de têtes de chou-fleur épandues sur un terrain ne devra pas dépasser le nombre de 6 par mètre carré (100 t/ha).
+L'OP définit sa procédure de contrôle pour chaque action. Elle précise notamment les modalités particulières de réalisation, le (s) responsable (s) du contrôle interne, les points contrôlés, la méthode de contrôle sur le terrain ainsi que la " fiche type " de contrôle.
 
-Les teneurs moyennes des compositions minérales dans les feuilles et les pommes peuvent être résumées dans le tableau suivant :
+2. Contrôle de la réalité de l'action :
 
-TENEURS
+a) Par un contrôle documentaire :
 
-|
+Les vérifications portent sur la réalité de la réalisation des mesures sur les surfaces ou les autres unités d'œuvre déclarées telle que prévue au programme opérationnel (PO) agréé :
 
-MS EN %
+Vérification documentaire : l'OP vérifie systématiquement que le producteur qui présente des dépenses au titre de l'action éligible dispose des justificatifs prévus par la stratégie nationale ;
 
-|
+b) Par un contrôle sur place :
 
-N % 0
+L'OP prévoit également un nombre de visites pertinent chez chaque producteur afin de pouvoir apporter, lorsque le contrôle documentaire des justificatifs n'est pas suffisant, les preuves satisfaisantes de la réalité de la mise en œuvre de l'action :
 
-|
+- lors de la (des) visite (s), le contrôle porte sur l'effectivité de la réalisation des actions décrites dans le programme agréé de l'organisation de producteurs (vérifications physiques auxquelles il sera procédé au jour de la visite aussi bien pour les actions mises en œuvre le jour de la visite que pour les actions déjà réalisées au moment de la visite).
 
-P % 0
+Le technicien devra revenir chez l'exploitant autant de fois que nécessaire tant que la mise en œuvre de toutes les actions n'aura pu être attestée.
 
-|
+Les vérifications peuvent être réalisées par une (des) personne (s) déterminée (s) par l'OP (salariée [s] de l'OP ou intervenants en prestation de services).
 
-K % 0
+Chaque visite de contrôle fait l'objet d'un rapport de contrôle signé par le technicien retraçant de façon détaillée les vérifications effectuées, les parcelles visitées ainsi que les constatations opérées.
 
-|
+Un document de synthèse signé par le technicien reprenant les vérifications effectuées et les résultats des contrôles est adressé à l'appui de la demande d'aide.
 
-Ca % 0
+Ce document de synthèse est contresigné par le président de l'OP qui signe par ailleurs une déclaration attestant de la réalisation des actions telles que prévues au programme ou des réfactions à opérer par l'OP si des irrégularités ou des actions réalisées de manière insuffisante sont constatées.
 
-|
+L'attestation du président précise le lieu où les autres documents peuvent être consultés (inventaire verger, cahier d'exploitation).
 
-Mg % 0
+B. - Contrôle interne dans le cas de la mise en place d'un forfait ou d'une mesure de conversion ou de maintien en agriculture biologique
 
-|
+Chaque forfait mis en œuvre est soumis à la procédure de contrôle interne ci-dessous :
 
-Pomme
+1. Mise en place d'une procédure formalisée par l'OP :
 
-|
+L'OP définit par écrit une procédure formalisée de contrôle interne et les documents permettant de tracer les vérifications menées chaque année :
 
-8 à 9
+L'OP définit sa procédure de contrôle pour chaque forfait. Elle précise notamment les modalités particulières de réalisation, le (s) responsable (s) du contrôle interne, les points contrôlés, la méthode de contrôle sur le terrain ainsi que la fiche type de contrôle.
 
-|
+2. Contrôle de la réalité de l'action :
 
-48 (± 5)
+a) Par un contrôle documentaire :
 
-|
+Les vérifications portent sur la réalité de la réalisation des mesures sur les surfaces ou les autres unités d'œuvre déclarées telle que prévue au PO agréé :
 
-6,5 (± 0,5)
+Vérification documentaire : l'OP vérifie systématiquement que le producteur qui a recours au forfait dispose des justificatifs prévus par la fiche forfait concernée ;
 
-|
+b) Par un contrôle sur place :
 
-40 (± 3)
+L'OP prévoit également un nombre de visite pertinent chez chaque producteur afin de pouvoir apporter, lorsque le contrôle documentaire des justificatifs n'est pas suffisant, les preuves satisfaisantes de la réalité de la mise en œuvre de chaque forfait :
 
-|
+- lors de la (des) visite (s), le contrôle porte sur la vérification de l'effectivité de la réalisation des actions décrites dans le forfait agréé (vérifications physiques auxquelles il sera possible de procéder au jour de la visite aussi bien pour les forfaits mis en œuvre le jour de la visite que pour les forfaits déjà réalisés au moment de la visite).
 
-3,0 (± 0,5)
+3. Contrôle des surfaces dans le cas de forfaits à la surface :
 
-|
+Dans le cas de forfaits à la surface, ces vérifications portent également sur l'adéquation entre les surfaces déclarées par le producteur pour bénéficier du forfait et les surfaces nettes implantées/ cultivées.
 
-1,5 (± 0,2)
+a) Par un contrôle documentaire :
 
-|
+L'OP procède à un contrôle documentaire de 100 % des surfaces, pour chaque producteur, validant la correspondance entre les surfaces déclarées au forfait et les surfaces nettes implantées/ cultivées à partir des bases documentaires suivantes :
 
-Feuille
+- vergers : inventaire des vergers ;
 
-|
+- serres et tunnels : déclaration d'emblavement ou assimilé (semis ou plantation selon cultures) et/ ou documents techniques de l'abris (par exemple permis de construire pour nouvelles serres) selon types d'abris et production ;
 
-10
+- légumes plein champs : déclaration d'emblavement ou assimilé (semis ou plantation selon les cultures) ;
 
-|
+b) Par un contrôle sur place :
 
-33 (± 2)
+Laborantine d'un plan de contrôle annuel des surfaces déclarées au forfait.
 
-|
+Pour chaque forfait et par produit, le pourcentage des surfaces à contrôler est déterminé comme suit :
 
-5,0 (± 0,5)
+5 % si la surface totale de l'OP déclarée au forfait est inférieure à 1 000 ha ;
 
-|
+4 % si la surface totale de l'OP déclarée au forfait est comprise entre 1 000 ha et 5 000 ha ;
 
-35 (± 5)
+3 % si la surface totale de l'OP déclarée au forfait est supérieure à 5 000 ha.
 
-|
+Dans le cas particulier des productions en surfaces développées (exemple : mâche ...), une même parcelle ne peut être prise en compte dans l'échantillon qu'une seule fois.
 
-25 (± 5)
+Une orientation doit être faite dans le choix des exploitations à contrôler, sur la base d'une analyse de risque (exemples : action non réalisée les années antérieures, superficie importante, document mal renseigné ...). L'analyse de risque doit être décrite dans la procédure.
 
-|
+Dans le cas où le contrôle fait apparaître que plus de 20 % des surfaces contrôlées sont en anomalies, il convient d'augmenter le nombre de contrôles ou d'appliquer une correction équivalente à l'écart moyen constaté sur les surfaces contrôlées à l'ensemble des surfaces présentées au forfait.
 
-1,5 (± 0,2)
+Surfaces prises en compte lors du contrôle des surfaces de l'OP :
 
-|
+Vergers : la surface de la parcelle est la surface nette arborée = nombre de plants × (distance entre rangs × distance sur rangs).
 
-Pour une tête moyenne (1 000 g de pomme et 700 g de feuilles), nous avons potentiellement en réserve 6,6 g d'azote dont une partie va se minéraliser rapidement.
+Serres et tunnels :
 
-Compostage
+i) Surface de l'abri, hors zones techniques (zones affectées spécifiquement au conditionnement, au pilotage des serres, à la chaufferie et allées de service autres que celles prévues sur les inter-rangs ...) ; les allées de plus de 1 mètre sont exclues ;
 
-Les possibilités de recyclage dans des composts de déchets verts doivent, quand cela est possible, être envisagées.
+ii) Pour les implantations en mètres linéaires : mesure du nombre de mètres linéaires et si besoin conversion en hectares (1 ha = 5 000 ml).
 
-Il est conseillé de se mettre en rapport avec les partenaires des plans départementaux de gestion des déchets, qui prévoient la création d'unités de compostage des déchets verts urbains, Des essais de compostage peuvent faire l'objet d'une irise au point technique en fonction des possibilités locales.
+Légumes plein champs :
 
-Cahier des charges des techniques de retrait des pommes
+i) Plantations en hectares : surface de la parcelle ou de l'unité de production, hors bordures ;
 
-Caractéristiques et propriétés de la pomme
+ii) Pour les implantations en mètres linéaires : mesure du nombre de mètres linéaires et si besoin conversion en hectares (1 ha = 5 000 ml).
 
-Analyse chimique de la pomme (mg pour 100 g de fruits frais) :
+C. Validation du contrôle interne.
 
-MS en %
+Le technicien devra revenir chez l'exploitant autant de fois que nécessaire tant que la mise en œuvre de toutes les actions n'aura pu être attestée.
 
-|
+Les vérifications peuvent être réalisées par une (des) personne (s) déterminée (s) par l'OP (salariée (s) de l'OP ou intervenants en prestation de services). Un technicien, un qualiticien ou une société spécialisée (dont géomètre, société de mesure, organisme certificateur) peuvent notamment assurer le contrôle interne.
 
-N
+Chaque visite de contrôle fait l'objet d'un rapport de contrôle signé par le technicien retraçant de façon détaillée les vérifications effectuées, les parcelles visitées ainsi que les constatations opérées.
 
-|
-
-P
-
-|
-
-K
-
-|
-
-Ca
-
-|
-
-Mg
-
-|
-
-14-16
-
-|
-
-40-70
-
-|
-
-9-11
-
-|
-
-100-150
-
-|
-
-3,56
-
-|
-
-4-5
-
-|
-
-Apport au sol potentiel ( en kg/ha) :
-
-RÉCOLTE
-
-|
-
-N
-
-|
-
-P²O5
-
-|
-
-K²O
-
-|
-
-CaO
-
-|
-
-MgO
-
-|
-
-50 t
-
-|
-
-25
-
-|
-
-11
-
-|
-
-72
-
-|
-
-35
-
-|
-
-33
-
-|
-
-70 t
-
-|
-
-35
-
-|
-
-15
-
-|
-
-100
-
-|
-
-49
-
-|
-
-46
-
-|
-
-Les apports d'azote peuvent être considérés comme faibles. Les apports potassiques sont, en revanche, plus élevés.
-
-Dans l'état actuel des connaissances, les apports de pommes de retrait devront être inclus dans le programme de fumure et consignés dans un cahier de culture par le producteur, dont il sera fait état dans les recommandations techniques de l'organisation de producteurs (règles de production).
-
-Epandage au champ
-
-Conditions minimales à respecter pour l'épandage
-
-L'épandage devra être fait de façon régulière, sur une surface délimitée, en fonction du tonnage maximum à l'hectare fixé ci-après, révisable si nécessaire par un référentiel du CTIFL.
-
-Un disquage, mélangeant les pommes à la terre, devra être réalisé rapidement.
-
-Seuil maximal d'épandage obligatoire
-
-La réserve utile du sol peut être une limite à l'épandage des pommes qui représente une quantité d'eau non négligeable. Un sol saturé d'eau décompose très mal la matière organique et conduit à la percolation de jus polluants pour les points d'eau environnants.
-
-Toutefois, si on limite les quantités de pommes à 300 t/ha, soit environ 25 mm de hauteur d'eau, on reste en dessous des valeurs limites des sols dans la mesure où l'épandage est réalisé en conditions sèches. Ce seuil ne devra pas être dépassé.
-
-Préconisations en cas d'épandage à l'automne
-
-Il s'agit de favoriser au maximum l'activité microbienne naturelle du sol de manière à ce qu'elle permette une décomposition des pommes en conditions aérobies (en présence d'oxygène de l'air) :
-
-- l'épandage doit être réalisé en conditions sèches sous des températures élevées (> 15 °C), la meilleure période étant celle de la récolte, à fin novembre, en veillant à ne pas dégrader la structure du sol ;
-
-- broyer grossièrement les pommes en surface, avec un broyeur à marteaux par exemple. Eviter la compote qui accélère les phénomènes d'oxydoréduction et libère des éléments minéraux et organiques polluants. Le broyage permet également d'éliminer les larves de carpocapses éventuellement présentes dans les fruits ;
-
-- enfouir légèrement les pommes pour éviter surtout les problèmes de nuisances au voisinage (odeurs, moucherons...) ;
-
-- retravailler le sol deux à trois semaines plus tard pour aérer par un passage de charme ou de cover-crop ;
-
-- pour toute mise en culture, un apport d'azote reste superflu dans la mesure où l'azote du sol immobilisé par les micro-organismes au moment de la décomposition est restitué ultérieurement ;
-
-- l'apport de chaux est inutile en situation calcaire : la baisse spectaculaire du pH due à l'épandage est momentanée.
-
-Dans tous les cas, il convient de respecter les normes imposées par la réglementation en matière d'épandage en se référant notamment au règlement sanitaire départemental.
-
-Alimentation animale
-
-Les fruits doivent être arrosés d'huile de foie de morue pour les rendre non revendables. Il est conseillé de couper (coupe racine) les fruits de petit calibre pour les animaux.
-
-Cahier des charges de retrait
-
-des pêches, nectarines et abricots
-
-Seuil maximal d'épandage obligatoire
-
-Etalement sur les parcelles désignées, au maximum 130 t/ha. Ce seuil ne devra pas être dépassé.
-
-Passage de cultipacker ou début d'enfouissement par disques.
-
-Enfouissement par labour dès que les conditions d'humidité du sol le permettent.
-
-Dans tous les cas, il convient de respecter les normes imposées par la réglementation en matière d'épandage, en se référant notamment au règlement sanitaire départemental.
-
-Alimentation animale combinée à une utilisation industrielle
-
-Ce débouché est très faible historiquement, les éleveurs méconnaissant la possibilité d'utiliser la pêche et la nectarine sous forme d'ensilage (avec conservateur et aliment de lest son ou bouchon de paille).
-
-Le produit est intransportable en tant que tel des zones de production vers celles d'élevage. Des solutions techniques permettant de dissocier la pulpe du jus sont envisageables.
+Un document de synthèse est adressé à l'appui de la demande d'aide. Ce document est signé par le technicien et précise les vérifications effectuées, les résultats des contrôles et les suites données aux anomalies éventuellement constatées ainsi que le lieu où les documents utilisés pour le contrôle peuvent être consultés (inventaire verger, cahier d'exploitation .... L'annexe W de la stratégie nationale en matière de programmes opérationnels à caractère durable précise la méthode d'interprétation des résultats des actions correctives.
