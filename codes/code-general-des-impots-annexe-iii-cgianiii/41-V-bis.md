@@ -1,6 +1,6 @@
 # Article 41 V bis
 
-1° Les bénéficiaires des bons de souscription de parts de créateur d'entreprise mentionnés à l'article 163 bis G du code général des impôts joignent à leur déclaration de revenus souscrite au titre de l'année d'exercice des bons considérés un état individuel délivré, au plus tard le 1er mars de l'année de dépôt de la déclaration, par la société mentionnée au 2° du présent article.
+1° La société mentionnée au 2° délivre un état individuel aux bénéficiaires des bons de souscription de parts de créateur d'entreprise mentionnés à l'article 163 bis G du code général des impôts, au plus tard le 1er mars de l'année de dépôt de leur déclaration de revenus souscrite au titre de l'année d'exercice des bons. Les bénéficiaires doivent le conserver jusqu'à l'expiration du délai de reprise et le présenter à la demande de l'administration fiscale.
 
 Cet état mentionne :
 
@@ -17,8 +17,6 @@ e) La fraction du gain constaté lors de l'exercice des bons de source français
 f) A la date d'exercice des bons, la date depuis laquelle le bénéficiaire exerce son activité dans la société ou, s'il n'y exerce plus son activité, la date de son départ et son ancienneté dans la société à cette date.
 
 La société atteste, en outre, sur cet état que les bons ont été émis et attribués conformément aux dispositions de l'article 163 bis G précité et, en particulier, qu'à la date de leur émission elle remplissait l'ensemble des conditions prévues à cet article.
-
-Les contribuables qui transmettent la déclaration de leurs revenus par voie électronique, en application de l'article 1649 quater B ter du code général des impôts, sont dispensés de joindre cet état à cette déclaration. Ils doivent le conserver jusqu'à l'expiration du délai de reprise et le présenter à l'administration sur demande de sa part.
 
 2° La société émettrice des bons dans laquelle le titulaire des bons exerce son activité transmet à l'administration fiscale, dans la déclaration prévue à l'article 87 du code général des impôts, les informations mentionnées au k du 2° de l'article 39.
 
