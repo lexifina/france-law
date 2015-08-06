@@ -1,0 +1,9 @@
+# Réponse à la question SEQ141214009
+
+- Question : [SEQ141214009](seq141214009.md) — Cérémonies publiques
+
+## Réponse
+
+*Premier ministre, JO du 2015-08-06, page 1859*
+
+Le décret du 13 septembre 1989 relatif aux cérémonies publiques, préséances, honneurs civils et militaires mentionne de nombreuses autorités mais ne revêt pas pour autant un caractère exhaustif. L'article 18 de ce décret prévoit d'ailleurs qu'eu égard à la nature et à l'objet de la cérémonie, des personnalités qui ne sont pas au nombre des autorités mentionnées par le décret peuvent, en fonction de leur qualité et selon l'appréciation du Gouvernement ou de l'autorité invitante, prendre place parmi lesdites autorités, lesquelles conservent entre elles le rang déterminé par les dispositions du présent décret. Les intercommunalités ont vu leur rôle renforcé au cours des dernières années et occupent une place de plus en plus importante au niveau local. Pour autant, la place qu'il convient de réserver aux conseillers communautaires et aux présidents d'intercommunalité dans les cérémonies publiques doit être adaptée aux circonstances locales et à l'objet des cérémonies en cause. Pour ces raisons, le Gouvernement estime qu'il est préférable de laisser à l'autorité invitante le soin de déterminer la place la plus appropriée par application de l'article 18 du décret plutôt que de modifier le décret pour imposer une place fixe qui s'appliquerait uniformément sur l'ensemble du territoire pour toutes les intercommunalités et pour toutes les cérémonies.
