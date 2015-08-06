@@ -1,0 +1,9 @@
+# Réponse à la question SEQ150717113
+
+- Question : [SEQ150717113](seq150717113.md) — Minerais de sang
+
+## Réponse
+
+*Affaires européennes, JO du 2015-08-06, page 1864*
+
+L'approvisionnement responsable en minerais originaires de zones de conflit bénéficie depuis quelques années d'une attention particulière de la part de la communauté internationale. Plusieurs cadres normatifs ont ainsi été élaborés, notamment la loi « Dodd-Frank », adoptée par les États-Unis en 2010. Dans ce contexte, l'Union européenne s'est engagée dans l'élaboration d'une réglementation visant à s'assurer que les importations sur son territoire d'or, de tantale, de tungstène et d'étain ne participent pas au financement de conflits armés. Le texte qui vient d'entrer en trilogue suite au vote du Parlement européen en session plénière le 20 mai 2015 prévoit un mécanisme de certification qui couvrirait les importations d'or, de tantale, de tungstène et d'étain. Ses modalités concrètes restent à définir. Néanmoins, les institutions européennes s'accordent pleinement sur le fait qu'une vigilance accrue soit mise en place dans ce domaine, afin d'offrir au consommateur européen la garantie que les produits qu'il achète n'ont pas contribué au financement de conflits armés. La France, très engagée en matière de responsabilité sociale des entreprises, y compris sur le plan interne, soutient pleinement les objectifs de ce règlement et suit son élaboration avec la plus grande attention. En effet, l'extraction de minerais dans certaines zones du monde, notamment sur le continent africain, constitue un enjeu majeur en termes de développement durable et de protection des droits de l'Homme. La France est attentive à la mise en place des mesures en matière de dialogue politique et de coopération à destination des pays producteurs associées à la mise en place du mécanisme de certification.
