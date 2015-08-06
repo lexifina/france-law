@@ -1,0 +1,9 @@
+# Réponse à la question SEQ150315229
+
+- Question : [SEQ150315229](seq150315229.md) — Inquiétudes des personnels de la direction de l'information légale et administrative
+
+## Réponse
+
+*Premier ministre, JO du 2015-08-06, page 1860*
+
+La gratuité de la diffusion des données publiques s'inscrit dans une politique ambitieuse du Gouvernement visant à stimuler l'économie, favoriser l'innovation et améliorer la qualité des données en simplifiant leur accessibilité. Cet objectif profite à tous : administrations, particuliers et secteur privé. Cette volonté de mise à disposition gratuite des données publiques ne remet pas en cause la charge de travail des agents participant à la constitution de ces bases dont l'activité demeure essentielle pour que la DILA puisse assurer les missions qui lui sont assignées par le décret du 11 janvier 2010. Les évolutions des métiers des agents de la DILA conduisent, comme dans toutes les administrations publiques, à élaborer des dispositifs de gestion prévisionnelle des emplois, des effectifs et des compétences qui combinent formation, mobilité et par suite, adaptation aux nouveaux métiers. Ainsi, le savoir-faire professionnel des salariés de la DILA auquel s'ajoute celui des salariés de la SACIJO restera la meilleure garantie de continuité d'un service public de qualité qui sait s'adapter aux enjeux numériques de son époque. Par ailleurs, la création du groupement d'Intérêt Public « pple. fr » a pour objet l'accès simplifié via un guichet unique numérique à certaines données économiques détenues par la DILA, l'association de la presse pour la transparence économique (APTE) et le conseil national des greffiers des tribunaux de commerce (CNGTC) sur leurs portails respectifs. En aucune manière, cette création ne concurrence les activités de chacun des partenaires dans la mesure où ce portail constitue un accès à des données déjà mises en ligne gratuitement par la DILA.
