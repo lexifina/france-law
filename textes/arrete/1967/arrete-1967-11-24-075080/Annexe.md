@@ -14,6 +14,10 @@ Les modèles des signaux CE100, D48a, D48b, D48c, et leurs définitions figurent
 
 http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20141228&numTexte=37&pageDebut=22683&pageFin=22686
 
+Les modèles des signaux E33a, ID15f, ID16c figurent à l'adresse suivante :
+
+http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20150806&numTexte=16&pageDebut=13500&pageFin=13501
+
 Les modèles des signaux nouveaux mentionnés à l'article 1er du présent arrêté figurent ci-après :
 
 CE15G.-Poste de distribution de carburant ouvert 7 jours sur 7 et 24 heures sur 24 assurant la recharge des véhicules électriques.
