@@ -66,7 +66,7 @@ Electricité de France
 
 |
 
-EDF ― UP de Cordemais
+EDF - UP de Cordemais
 
 |
 
@@ -138,7 +138,7 @@ Electricité de France
 
 |
 
-EDF ― CETAC Site Gennevilliers
+EDF - CETAC Site Gennevilliers
 
 |
 
@@ -160,7 +160,7 @@ SERC
 
 |
 
-SERC ― CENTRALE THERMIQUE ― Travers de la Bouyssière
+SERC - CENTRALE THERMIQUE - Travers de la Bouyssière
 
 |
 
@@ -208,19 +208,7 @@ GDF SUEZ Thermique France
 
 |
 
-GDF SUEZ Thermique France ― Centrale de Dunkerque (DK6)
-
-|
-
-FR000000000001017
-
-|
-
-EDF SEI
-
-|
-
-EDF - Centrale thermique du PORT (Ouest)
+GDF SUEZ Thermique France - Centrale de Dunkerque (DK6)
 
 |
 
@@ -316,7 +304,7 @@ EDF SEI
 
 |
 
-EDF ― Saint-Martin 2
+EDF - Saint-Martin 2
 
 |
 
@@ -329,6 +317,18 @@ EDF SEI
 |
 
 EDF Pointe des Carrières
+
+|
+
+FR000000000001116
+
+|
+
+EDF SEI
+
+|
+
+EDF Centrale de Bellefontaine A
 
 |
 
@@ -352,7 +352,7 @@ GDF SUEZ Thermique France
 
 |
 
-GDF Suez Thermique France ― Centrale de Fos-sur-Mer CYCOFOS
+GDF Suez Thermique France - Centrale de Fos-sur-Mer CYCOFOS
 
 |
 
@@ -364,7 +364,7 @@ Electricité de France
 
 |
 
-EDF ― CETAC site Vaires-sur-Marne
+EDF - CETAC site Vaires-sur-Marne
 
 |
 
@@ -400,7 +400,7 @@ GDF SUEZ THERMIQUE France
 
 |
 
-GDF Suez Thermique France ― Centrale de Fos-sur-Mer COMBIGOLFE
+GDF Suez Thermique France - Centrale de Fos-sur-Mer COMBIGOLFE
 
 |
 
@@ -412,7 +412,7 @@ Electricité de France
 
 |
 
-EDF ― CETAC Site Montereau
+EDF - CETAC Site Montereau
 
 |
 
@@ -484,7 +484,7 @@ EDF PEI
 
 |
 
-EDF PEI centrale de Bellefontaine
+EDF PEI Centrale de Bellefontaine B
 
 |
 

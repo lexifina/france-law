@@ -3560,11 +3560,11 @@ FR000000000000829
 
 |
 
-DS SMITH KAYSERSBERG
+DS SMITH PAPER KAYSERSBERG
 
 |
 
-DS SMITH KAYSERSBERG - Etablissement Carton Plat
+DS SMITH PAPER KAYSERSBERG
 
 |
 
@@ -3752,11 +3752,11 @@ FR000000000000834
 
 |
 
-Brasserie KRONENBOURG
+Kronenbourg Supply Compagny
 
 |
 
-Brasserie Kronenbourg Centrale des fluides K2
+Kronenbourg Supply Compagny Centrale des Fluides K2
 
 |
 
@@ -8284,27 +8284,27 @@ LESIEUR Coudekerque-Branche
 
 |
 
-18 122
+0
 
 |
 
-16 780
+0
 
 |
 
-15 475
+0
 
 |
 
-14 204
+0
 
 |
 
-12 973
+0
 
 |
 
-140 309
+62 755
 
 |
 
@@ -9092,10 +9092,6 @@ Chaufferie du Quartier de la République
 
 |
 
-2 729
-
-|
-
 0
 
 |
@@ -9120,7 +9116,11 @@ Chaufferie du Quartier de la République
 
 |
 
-5 779
+0
+
+|
+
+3 050
 
 |
 
@@ -11304,31 +11304,31 @@ SCBC
 
 |
 
-12 389
+6 195
 
 |
 
-10 845
+5 423
 
 |
 
-9 348
+4 674
 
 |
 
-7 899
+3 950
 
 |
 
-6 498
+3 249
 
 |
 
-5 147
+2 574
 
 |
 
-81 739
+55 678
 
 |
 

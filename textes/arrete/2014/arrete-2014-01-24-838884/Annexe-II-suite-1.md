@@ -532,11 +532,11 @@ FR000000000000387
 
 |
 
-AHLSTROM LabelPack usine de La Gère
+MUNKSJO LA GERE
 
 |
 
-AHLSTROM LabelPack usine de La Gère
+MUNKSJO LA GERE usine de la Gère
 
 |
 
@@ -4114,7 +4114,7 @@ FR000000000000494
 
 |
 
-DALKIA
+DALKIA SA
 
 |
 
@@ -5252,7 +5252,7 @@ FR000000000000525
 
 |
 
-DALKIA
+DALKIA SA
 
 |
 
@@ -6290,31 +6290,33 @@ ArcelorMittal Atlantique et Lorraine-Site de Basse-Indre
 
 |
 
-0
+31 890
 
 |
 
-0
+31 303
 
 |
 
-0
+30 710
 
 |
 
-0
+30 111
 
 |
 
-0
+29 505
 
 |
 
-0
+28 896
 
 |
 
-65 516 |
+247 931
+
+|
 
 FR000000000000556
 
@@ -6324,9 +6326,7 @@ SOCCRAM
 
 |
 
-SOCCRAM chaufferie des Sablons (LE MANS)
-
-|
+SOCCRAM chaufferie des Sablons (LE MANS) |
 
 15 111
 
@@ -6420,95 +6420,57 @@ ACI Le Mans
 
 |
 
-22 941
+22 941 |
 
-|
+20 869 |
 
-20 869
+12 606 |
 
-|
+11 425 |
 
-12 606
+10 278 |
 
-|
-
-11 425
-
-|
-
-10 278
-
-|
-
-9 166
-
-|
+9 166 |
 
 8 086 |
 
-7 045
-
-|
+7 045 |
 
 102 416 |
 
-FR000000000000559
+FR000000000000559 |
 
-|
+TOTAL RAFFINAGE FRANCE |
 
-TOTAL RAFFINAGE FRANCE
+TOTAL RAFFINAGE FRANCE |
 
-|
+1 124 155 |
 
-TOTAL RAFFINAGE FRANCE
+1 104 629 |
 
-|
+1 084 874 |
 
-1 124 155
+1 064 913 |
 
-|
+1 044 737 |
 
-1 104 629
+1 024 365 |
 
-|
+1 003 738 |
 
-1 084 874
+983 040 |
 
-|
-
-1 064 913
-
-|
-
-1 044 737
-
-|
-
-1 024 365
-
-|
-
-1 003 738
-
-|
-
-983 040
-
-|
-
-8 434 451
-
-|
+8 434 451 |
 
 FR000000000000561
 
 |
 
-DS SMITH PACKAGING
+NORPAPER NANTES
 
 |
 
-DS SMITH PACKAGING Papeterie de Nantes
+NORPAPER NANTES
 
 |
 
@@ -7716,15 +7678,11 @@ Smurfit Kappa Papier recyclé France - papeterie Alfa d'Avignon
 
 |
 
-FR000000000000598
+FR000000000000598 |
 
-|
+Continental Foods France |
 
-CAMPBELL France SAS
-
-|
-
-CAMPBELL France SAS
+Continental Foods France
 
 |
 

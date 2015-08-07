@@ -1068,27 +1068,27 @@ LUR BERRI site SEMENCES AICIRITS
 
 |
 
-889
+0
 
 |
 
-766
+0
 
 |
 
-646
+0
 
 |
 
-531
+0
 
 |
 
-420
+0
 
 |
 
-6 695
+3 443
 
 |
 
@@ -1768,11 +1768,11 @@ FR-new-05209657
 
 |
 
-Entreprise Malet - Grands Chantiers - PE 17
+Entreprise Malet-Grands Chantiers-PE 17
 
 |
 
-Entreprise Malet - Grands Chantiers - PE 17
+Entreprise Malet-Grands Chantiers-PE 17
 
 |
 
@@ -1784,31 +1784,31 @@ Entreprise Malet - Grands Chantiers - PE 17
 
 |
 
-1 156
+2 177
 
 |
 
-1 010
+1 904
 
 |
 
-871
+1 640
 
 |
 
-736
+1 385
 
 |
 
-605
+1 138
 
 |
 
-478
+900
 
 |
 
-7 619
+11 907
 
 |
 
@@ -9704,31 +9704,31 @@ SARM
 
 |
 
-1 148
+0
 
 |
 
-1 005
+0
 
 |
 
-866
+0
 
 |
 
-731
+0
 
 |
 
-600
+0
 
 |
 
-475
+0
 
 |
 
-7 571
+2 746
 
 |
 
@@ -10232,31 +10232,31 @@ VIVADOUR BARCELONNE-DU-GERS
 
 |
 
-1 669
+0
 
 |
 
-1 461
+0
 
 |
 
-1 258
+0
 
 |
 
-1 063
+0
 
 |
 
-873
+0
 
 |
 
-691
+0
 
 |
 
-11 006
+3991
 
 |
 
@@ -10272,39 +10272,47 @@ VIVADOUR LE HOUGA
 
 |
 
-2 106
+1
+
+555
 
 |
 
-1 885
+1
+
+392
 
 |
 
-0
+1
+
+234
 
 |
 
-0
+1
+
+079
 
 |
 
-0
+930
 
 |
 
-0
+785
 
 |
 
-0
+645
 
 |
 
-0
+510
 
 |
 
-3 991
+8130
 
 |
 
@@ -11764,10 +11772,6 @@ Centrale d'enrobage au bitume de matériaux routiers à chaud
 
 |
 
-2 028
-
-|
-
 0
 
 |
@@ -11792,7 +11796,11 @@ Centrale d'enrobage au bitume de matériaux routiers à chaud
 
 |
 
-4 294
+0
+
+|
+
+2266
 
 |
 
@@ -12012,27 +12020,27 @@ CENTRE OUEST CEREALES
 
 |
 
-6 669
+0
 
 |
 
-6 530
+0
 
 |
 
-6 390
+0
 
 |
 
-6 249
+0
 
 |
 
-6 107
+0
 
 |
 
-52 781
+20 836
 
 |
 
@@ -12664,11 +12672,11 @@ FR-new-10010658
 
 |
 
-COLAS Centre-Ouest - direction grands projets
+COLAS Centre Ouest-Direction Grands Projets
 
 |
 
-COLAS Centre-Ouest - centrale d'enrobage mobile RMS300
+COLAS Centre Ouest-Centrale d'enrobage mobile RMS300
 
 |
 
@@ -12684,27 +12692,27 @@ COLAS Centre-Ouest - centrale d'enrobage mobile RMS300
 
 |
 
-597
+0
 
 |
 
-515
+0
 
 |
 
-434
+0
 
 |
 
-357
+0
 
 |
 
-282
+0
 
 |
 
-4 502
+2 317
 
 |
 
