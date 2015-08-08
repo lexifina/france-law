@@ -1,18 +1,18 @@
 # Article Annexe II
 
-MODALITÉS D'ATTRIBUTION DU DIPLÔME DANS UNE DES TROIS SÉRIES DE L'EXAMEN
+MODALITÉS D'ATTRIBUTION DU DIPLÔME DANS L'UNE DES TROIS SÉRIES DE L'EXAMEN
 
-La série du baccalauréat décerné aux élèves italiens sera déterminée conformément au tableau suivant :
+La série du baccalauréat décerné aux candidats italiens sera déterminée conformément au tableau suivant :
 
-SÉRIES DU SYSTÈME
+SÉRIES DU SYSTÈME ÉDUCATIF
 
-éducatif italien
+italien
 
 |
 
-SÉRIES DU SYSTÈME
+SÉRIES DU SYSTÈME ÉDUCATIF
 
-éducatif français
+français
 
 |
 
@@ -40,6 +40,14 @@ Baccalauréat série scientifique
 
 |
 
+Liceo scienze umane opzione economico sociale
+
+|
+
+Baccalauréat série économique et sociale
+
+|
+
 Istituto tecnico commerciale
 
 |
@@ -48,17 +56,25 @@ Baccalauréat série économique et sociale
 
 |
 
-La série de l'Esame di Stato décerné aux élèves français sera déterminée conformément au tableau suivant :
+La série de l'Esame di Stato décerné aux candidats français sera déterminée conformément au tableau suivant :
 
-SÉRIES DU SYSTÈME
+SÉRIES DU SYSTÈME ÉDUCATIF
 
-éducatif français
+français
 
 |
 
-SÉRIES DU SYSTÈME
+SÉRIES DU SYSTÈME ÉDUCATIF
 
-éducatif italien
+italien
+
+|
+
+Baccalauréat série économique et sociale
+
+|
+
+Liceo scienze umane opzione economico sociale
 
 |
 
@@ -82,18 +98,8 @@ Liceo linguistico
 
 |
 
-Baccalauréat série économique et sociale
-
-|
-
-Liceo scientifico
-
-|
-
 Baccalauréat série scientifique
 
 |
 
-Liceo scientifico
-
-|
+Liceo scientifico |
