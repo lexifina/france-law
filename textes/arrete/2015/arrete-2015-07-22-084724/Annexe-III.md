@@ -1,0 +1,135 @@
+# Article Annexe III
+
+Mode de calcul de la compensation pour l'espèce caprine
+
+DENSITÉ
+
+|
+
+HANDICAP NATUREL
+
+|
+
+COMPENSATION
+
+|
+
+Forte (1)
+
+|
+
+Hors handicap naturel ou défavorisé simple
+
+|
+
+0,00 €
+
+|
+
+Forte
+
+|
+
+Piémont (P)
+
+|
+
+23,00 €
+
+|
+
+Forte
+
+|
+
+Montagne (M)
+
+|
+
+98,00 €
+
+|
+
+Forte
+
+|
+
+Haute-montagne (HM)
+
+|
+
+115,00 €
+
+|
+
+Forte
+
+|
+
+Ile (ILE) et DOM
+
+|
+
+115,00 €
+
+|
+
+Faible (2)
+
+|
+
+Hors handicap naturel ou défavorisé simple
+
+|
+
+138,00 €
+
+|
+
+Faible
+
+|
+
+Piémont (P)
+
+|
+
+161,00 €
+
+|
+
+Faible
+
+|
+
+Montagne (M)
+
+|
+
+242,00 €
+
+|
+
+Faible
+
+|
+
+Haute-montagne (HM)
+
+|
+
+265,00 €
+
+|
+
+Faible
+
+|
+
+Ile (ILE) et DOM
+
+|
+
+265,00 €
+
+|
