@@ -186,11 +186,11 @@ Commission compétente en matière de consommation
 
 |
 
-Président de la Commission nationale de contrôle des techniques de renseignement |
+Président de la Commission nationale de contrôle des techniques de renseignementCommission |
 
-Commission permanente compétente en matière de libertés publiques |
+permanente compétente en matière de libertés publiquesPrésident |
 
-Président de la Commission nationale du débat public
+de la Commission nationale du débat public
 
 |
 
@@ -274,9 +274,9 @@ Président de l'Institut national de l'audiovisuel
 
 |
 
-Commission compétente en matière d'activités culturelles |
+Commission compétente en matière d'activités culturellesPrésident |
 
-Président de l'Institut national de la recherche agronomique
+de l'Institut national de la recherche agronomique
 
 |
 
@@ -332,7 +332,7 @@ Commission compétente en matière d'agriculture
 
 |
 
-Directeur général de la société anonyme BPI-Groupe
+Directeur général de la société anonyme Bpifrance
 
 |
 

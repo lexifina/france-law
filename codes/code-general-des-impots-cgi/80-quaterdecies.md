@@ -1,6 +1,6 @@
 # Article 80 quaterdecies
 
-I.-L'avantage correspondant à la valeur, à leur date d'acquisition, des actions attribuées dans les conditions définies aux articles L. 225-197-1 à L. 225-197-3 du code de commerce est imposé entre les mains de l'attributaire dans la catégorie des traitements et salaires.
+I.-L'avantage salarial correspondant à la valeur, à leur date d'acquisition, des actions attribuées dans les conditions définies aux articles L. 225-197-1 à L. 225-197-6 du code de commerce est imposé entre les mains de l'attributaire, selon les modalités prévues au 3 de l'article 200 A du présent code.
 
 II.-L'impôt est dû au titre de l'année au cours de laquelle le bénéficiaire a disposé de ses actions, les a cédées, converties au porteur ou mises en location.
 

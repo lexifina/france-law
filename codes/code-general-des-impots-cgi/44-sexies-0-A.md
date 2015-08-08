@@ -16,14 +16,10 @@ a. par des personnes physiques ;
 
 b. ou par une société répondant aux mêmes conditions dont le capital est détenu pour 50 % au moins par des personnes physiques ;
 
-c. ou par des sociétés de capital-risque, des fonds communs de placement à risques, des fonds professionnels spécialisés relevant de l'article L. 214-37 du code monétaire et financier dans sa rédaction antérieure à l'ordonnance n° 2013-676 du 25 juillet 2013 modifiant le cadre juridique de la gestion d'actifs, des fonds professionnels de capital investissement, des sociétés de développement régional, des sociétés financières d'innovation ou des sociétés unipersonnelles d'investissement à risque à la condition qu'il n'existe pas de lien de dépendance au sens des deuxième à quatrième alinéas du 12 de l'article 39 entre la société en cause et ces dernières sociétés ou ces fonds ;
+c. ou par des sociétés de capital-risque, des fonds communs de placement à risques, des fonds professionnels spécialisés relevant de l'article L. 214-37 du code monétaire et financier dans sa rédaction antérieure à l'ordonnance n° 2013-676 du 25 juillet 2013 modifiant le cadre juridique de la gestion d'actifs, des fonds professionnels de capital investissement, des sociétés de libre partenariat, des sociétés de développement régional, des sociétés financières d'innovation ou des sociétés unipersonnelles d'investissement à risque à la condition qu'il n'existe pas de lien de dépendance au sens des deuxième à quatrième alinéas du 12 de l'article 39 entre la société en cause et ces dernières sociétés ou ces fonds ;
 
 d. ou par des fondations ou associations reconnues d'utilité publique à caractère scientifique, ou par une société qualifiée elle-même de jeune entreprise innovante réalisant des projets de recherche et développement ;
 
 e. ou par des établissements publics de recherche et d'enseignement ou leurs filiales ;
 
 5° elle n'est pas créée dans le cadre d'une concentration, d'une restructuration, d'une extension d'activités préexistantes ou d'une reprise de telles activités au sens du III de l'article 44 sexies.
-
-NOTA :
-
-Décret n° 2014-549 du 26 mai 2014 article 1 : Au a du 3°, les mots : ou auprès d'entreprises bénéficiant du régime prévu à l'article 44 undecies sont périmés.
