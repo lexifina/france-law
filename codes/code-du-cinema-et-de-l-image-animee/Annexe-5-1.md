@@ -15,3 +15,5 @@ Liste des documents justificatifs :
 5° Un extrait K bis de moins de 3 mois et un dernier état des statuts (pour la première demande seulement sauf en cas de modifications) ;
 
 6° Les attestations de comptes à jour auprès des organismes de protection sociale (URSSAF, Pôle Emploi, Congés Spectacles, Audiences, AFDAS).
+
+En outre, dans le cas prévu au 2° de l'article 511-1, le demandeur fournit l'accord conclu avec les personnes mentionnées aux articles 611-2 et 612-3 attestant du projet mené en commun.

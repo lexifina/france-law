@@ -6,4 +6,6 @@ Liste des documents justificatifs :
 
 1° Un budget détaillé ;
 
-2° Un extrait K bis (pour la première demande seulement sauf en cas de modifications).
+2° Un extrait K bis (pour la première demande seulement sauf en cas de modifications) ;
+
+3° Le cas échéant, un moyen de visionnage de l'œuvre.

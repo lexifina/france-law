@@ -14,6 +14,6 @@ Liste des documents justificatifs :
 
 5° Le contrat de distribution vidéo, un accord ou une lettre d'intention du distributeur ;
 
-6° Une copie vidéo de l'œuvre ;
+6° Un moyen de visionnage de l'œuvre (sauf dans le cas prévu au 3° de l'article 611-21) ;
 
 7° Une attestation de comptes à jour auprès des organismes de protection sociale (URSSAF, Pôle Emploi, Congés Spectacles, Audiens, AFDAS).
