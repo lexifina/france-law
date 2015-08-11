@@ -1,0 +1,9 @@
+# Réponse à la question n° 71848
+
+- Question : [71848](71848.md) — Question n° 71848 — soins de conservation du corps; réforme
+
+## Réponse
+
+*JO du 2015-08-11*
+
+Les soins de conservation ou thanatopraxie sont des actes invasifs post mortem ayant pour objectif de ralentir le processus de décomposition du corps. Ils consistent notamment en une extraction de la masse sanguine et l'évacuation des gaz et des liquides des cavités thoraciques et abdominales, suivie de l'injection d'un liquide biocide tel que le formol. Comme souligné par le rapport des inspections générales de l'administration et des affaires sociales publié en 2013, ces soins sont à distinguer des soins funéraires, ou soins de présentation, destinés à améliorer l'apparence du corps en vue des obsèques. Les soins de conservation n'ont aucune obligation réglementaire en France, les techniques de réfrigération permettant la conservation du corps, y compris à domicile, dans le délai nécessaire à l'organisation des obsèques. Le rapport précité, ainsi que ceux du Haut conseil de la santé publique (HCSP) parus en 2009 et 2012, soulignent les risques inhérents à la pratique de la thanatopraxie, tant sur le plan infectieux que sur celui du risque d'exposition aux produits chimiques. Ils préconisent que cette activité soit réalisée dans des lieux dédiés tels que les locaux de préparation des corps des chambres funéraires et des chambres mortuaires. Les équipements de ces locaux permettent également d'éviter les troubles musculo-squelettiques auxquels sont exposés les thanatopracteurs intervenant à domicile dans des conditions parfois très difficiles. Cette réforme a été engagée par le Gouvernement dans le cadre de l'article 52 du projet de loi de modernisation de notre système de santé adopté par l'Assemblée nationale en avril 2015.
