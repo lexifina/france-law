@@ -1,0 +1,9 @@
+# Réponse à la question n° 62522
+
+- Question : [62522](62522.md) — Question n° 62522 — rapport; propositions
+
+## Réponse
+
+*JO du 2015-08-11*
+
+La loi du 25 juillet 2013 relative aux attributions du garde des sceaux et des magistrats du ministère public en matière de politique pénale et de mise en oeuvre de l'action publique, tout en supprimant le pouvoir du garde des sceaux d'adresser des instructions au ministère public dans des affaires individuelles, a donné une base légale à la communication d'informations au garde des sceaux dans les affaires individuelles, en prévoyant que le procureur de la République établit, d'initiative ou à la demande du procureur général, des rapports particuliers ayant vocation à être transmis au garde des sceaux. La circulaire du 31 janvier 2014 de présentation et d'application de la loi du 25 juillet 2013 a précisé les cas dans lesquels le garde des sceaux avait vocation à recevoir des éléments d'information portant sur une affaire individuelle. Ainsi, le garde des sceaux, qui est susceptible d'être interrogé par des autorités administratives indépendantes ou par des parlementaires, doit être renseigné sur les procédures présentant une problématique d'ordre sociétal, un enjeu d'ordre public, ayant un retentissement médiatique national ou bien qui sont susceptibles de révéler une difficulté juridique ou d'application de la loi pénale. Par ailleurs, l'intervention du garde des sceaux peut être de nature à faciliter l'entraide judiciaire internationale. Or, une telle intervention suppose une information circonstanciée. Enfin, le garde des sceaux doit être tenu informé des procédures susceptibles de mettre en cause l'institution judiciaire et mis en mesure de veiller au bon fonctionnement de l'ensemble des services placés sous son autorité. En application de ces principes, le nombre des affaires signalées à la Chancellerie a diminué de 53 % depuis le 15 novembre 2013.
