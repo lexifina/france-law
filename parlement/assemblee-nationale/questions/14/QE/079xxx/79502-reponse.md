@@ -1,0 +1,9 @@
+# Réponse à la question n° 79502
+
+- Question : [79502](79502.md) — Question n° 79502 — collections publiques; rapport; propositions
+
+## Réponse
+
+*JO du 2015-08-11*
+
+La loi de 2002 sur les musées de France a posé le récolement décennal des collections comme une obligation permanente. Cette opération, qui porte sur plusieurs centaines de millions de biens, est désormais partout engagée ; il y a un an, un musée sur deux avait récolé plus de 70 % de ses collections. Ce vaste chantier renouvelle totalement l'appréhension des collections publiques : meilleure connaissance des biens, mise à plat de leur situation juridique, couverture photographique, etc. Cet exercice, qui se fonde sur la confrontation des inventaires et les biens, est naturellement l'occasion d'améliorer la tenue de ces registres et, dans bien des cas, de basculer sur une informatisation de leur contenu. Le site Internet Joconde du ministère de la culture et de la communication a, dans son « espace professionnel », intégré de nombreuses ressources sur le récolement et l'inventaire des collections. Ce sujet fait, en outre, l'objet de formations spécifiques organisées par les services de la ministre qui rencontrent, chaque année, beaucoup de succès. Les musées qui n'auront pas achevé leur récolement à l'issue du premier récolement profiteront de la deuxième édition pour traiter en priorité les biens non encore récolés. Le deuxième récolement sera également l'occasion de mettre en oeuvre les opérations dites de « post-récolement ». Ces opérations comprennent la mise à jour des inventaires (inscriptions à titre rétrospectif ou radiations), le marquage des oeuvres, leur couverture photographique et de la recherche documentaire (dont des recherches de provenance). Elles sont très précisément décrites, selon une approche méthodologique, dans une circulaire en cours de finalisation par le service des musées de France de la direction générale des patrimoines.
