@@ -1,0 +1,9 @@
+# Réponse à la question n° 79355
+
+- Question : [79355](79355.md) — Question n° 79355 — enseignants; statut; rapport d'évaluation; publication
+
+## Réponse
+
+*JO du 2015-08-11*
+
+Dans le cadre de la préparation du rapport évaluant « les conditions d'alignement du statut des enseignants des écoles territoriales d'art sur celui des enseignants des écoles nationales d'art », et comprenant « une analyse de la mise en oeuvre de leurs activités de recherche », le ministère de la culture et de la communication, en lien avec les ministères de l'intérieur, de la décentralisation et de la fonction publique, des finances et des comptes publics, et de l'éducation nationale, de l'enseignement supérieur et de la recherche, a consulté, depuis le printemps 2014, les principales organisations syndicales représentatives des fonctions publiques d'État et territoriale (FO, CFDT, CGT, CFTC, UNSA, FA-FPT, Sud), les organisations professionnelles de directeurs et d'enseignants (ANDEA et CNEEA), ainsi que plusieurs associations représentatives des élus des collectivités territoriales concernées (AMGVF et ACUF). Le choix de présenter des options fortes, documentées et concertées avec les organisations professionnelles et d'élus concernées, la difficulté à recueillir les informations statistiques indispensables à l'évaluation expliquent pourquoi il n'a pas été possible de respecter strictement la date mentionnée par la loi (30 juin 2014) pour la livraison de ce rapport. Toutefois, le document a été transmis au secrétaire général du gouvernement le 11 mars dernier et déposé depuis sur le bureau des commissions compétentes de l'Assemblée nationale (13 avril) et du Sénat (15 avril). Un exemplaire en sera prochainement adressé aux organisations syndicales et professionnelles qui ont été associées à la phase de concertation précitée.
