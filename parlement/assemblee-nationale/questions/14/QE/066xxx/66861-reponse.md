@@ -1,0 +1,9 @@
+# Réponse à la question n° 66861
+
+- Question : [66861](66861.md) — Question n° 66861 — coach; statut
+
+## Réponse
+
+*JO du 2015-08-11*
+
+La profession de coach recouvre effectivement une réalité multiple de pratiques et d'appellations. Cette diversité (coach sportif, coach de vie, coach bien-être, coach d'entreprise...) explique en partie l'absence de statut du coach. Pour que des actions de coaching puissent entrer dans le champ de la formation professionnelle continue, elles doivent satisfaire à l'une des catégories d'actions de formation telles que décrites à l'article L. 6313-1 du code du travail. Ces actions doivent être réalisées conformément à un programme préétabli qui, en fonction d'objectifs déterminés, précise notamment les moyens pédagogiques, techniques et d'encadrement ainsi que les prérequis nécessaires pour suivre les actions. Une attestation de formation mentionnant les objectifs, la nature et la durée de l'action et les résultats de l'évaluation des acquis de formation doit être remise au stagiaire. Par ailleurs, la loi du 5 mars 2014 relative à la formation professionnelle, à l'emploi et la démocratie sociale crée un nouveau chapitre intitulé « Qualité des actions de formation professionnelle continue ». Ainsi, l'article L. 6316-1 nouveau du code du travail prévoit que les financeurs de la formation professionnelle tels que les organismes paritaires agréés, l'Etat, les collectivités territoriales, Pôle Emploi, l'association de gestion du fonds pour l'insertion des personnes handicapées (AGEFIPH) doivent s'assurer de la capacité des prestataires de formation à dispenser des formations de qualité. Ils devront pour cela se baser sur une liste de critères définis par décret pris après avis du Conseil d'Etat. Ces nouvelles mesures tendent à l'amélioration de la qualité de l'offre de formation et à une plus grande lisibilité pour les utilisateurs. Elles ont vocation à s'appliquer aux prestations de coaching.
