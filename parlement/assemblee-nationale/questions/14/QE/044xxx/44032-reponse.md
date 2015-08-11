@@ -1,0 +1,9 @@
+# Réponse à la question n° 44032
+
+- Question : [44032](44032.md) — Question n° 44032 — remboursement; barème
+
+## Réponse
+
+*JO du 2015-08-11*
+
+La prestation de compensation du handicap (PCH) peut être affectée à des charges liées à un besoin en aides techniques, qui sont définies comme tout instrument, équipement ou système technique adapté ou spécialement conçu pour compenser une limitation d'activité rencontrée par une personne du fait de son handicap. Les règles de prise en charge par la PCH varient selon que l'aide technique est inscrite ou non dans la liste des produits et prestations remboursables par l'assurance maladie (LPPR). Un équipement financé en partie par l'assurance maladie, comme les lunettes, ne peut être pris en compte au titre de la PCH, sauf s'il figure dans l'arrêté du 28 décembre 2005, ce qui n'est pas le cas des lunettes. Dès lors, les lunettes ne peuvent pas être solvabilisées par la PCH en complément de l'assurance maladie. Toutefois, un certain nombre d'aides visuelles, optiques et électroniques sont listées par cet arrêté, pour lesquelles la prise en charge assurée par la sécurité sociale est complétée, le cas échéant, par une intervention de la PCH. Le Gouvernement est conscient que des attentes subsistent concernant la compensation de certains surcoûts dus au handicap ou la prise en compte de besoins proches, notamment en matière de prise en charge de frais d'optique. La PCH a toutefois permis d'améliorer considérablement la couverture des besoins : les montants versés correspondent en moyenne au double de l'ancienne allocation compensatrice pour tierce personne (ACTP). Il est par ailleurs indispensable que les évolutions possibles de la PCH soient traitées de façon globale, cohérente et en tenant compte des contraintes de nos finances publiques.
