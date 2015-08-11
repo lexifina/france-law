@@ -1,0 +1,9 @@
+# Réponse à la question n° 79486
+
+- Question : [79486](79486.md) — Question n° 79486 — instances consultatives; missions; moyens
+
+## Réponse
+
+*JO du 2015-08-11*
+
+La commission de reconnaissance des qualifications a été instituée par le décret n° 2009-116 du 15 septembre 2009 pris pour l'application des dispositions de l'article L. 212-7 du code du sport, pour assurer la parfaite application, pour la profession réglementée d'éducateur sportif, des dispositions de la directive 2005/36/CE du Parlement européen et du conseil du 7 septembre 2005 relative à la reconnaissance des qualifications professionnelles. Placée auprès du ministre chargé des sports, elle rend des avis sur les demandes d'équivalence présentées par le titulaire d'un diplôme obtenu à l'étranger avec un diplôme mentionné à l'article L. 212-1 du code du sport, des avis et des propositions dans le cadre du régime d'autorisation administrative préalable d'exercice de la profession réglementée d'éducateur sportif par le ressortissant d'un Etat membre de l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen, qui souhaite s'établir en France. Elle est présidée par le représentant du directeur des sports et est composée, conformément à l'article A. 212-175-9 du code du sport, de quatre représentants des pouvoirs publics, un représentant du comité national olympique et sportif français, deux représentants désignés par la branche professionnelle du sport et un représentant de l'association des directeurs techniques nationaux. En 2014, la commission de reconnaissance des qualifications s'est réunie 11 fois et a rendu 275 avis. Son coût de fonctionnement correspond aux remboursements des états de frais de ses membres qui est évalué à un millier d'euros. Elle mobilise deux emplois à temps plein. La commission de reconnaissance des qualifications a été renouvelée pour cinq ans par décret n° 2014-1452 du 4 décembre 2014.
