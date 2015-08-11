@@ -1,0 +1,9 @@
+# Réponse à la question n° 81490
+
+- Question : [81490](81490.md) — Question n° 81490 — Porto Rico; perspectives
+
+## Réponse
+
+*JO du 2015-08-11*
+
+Les autorités françaises sont naturellement très attentives à la situation de nos compatriotes résidents ou de passage à Porto Rico et sont déterminées à maintenir l'agence consulaire de San Juan, qui agit sous l'autorité du consul général de France à Miami. Dans le cadre d'une démarche générale de rationalisation de notre dispositif et de maîtrise de nos coûts, il a été décidé de ne pas maintenir le poste à mi-temps d'assistante du consul honoraire. Cette décision ne retire toutefois aucune compétence à ce dernier et ne remet pas en cause son rôle au service de nos compatriotes. La décision prise se justifie par l'activité de cette agence consulaire, particulièrement modeste (notamment, en 2014, 47 remises de passeports, cinq procurations de vote recueillies, 21 certificats de vie établis et sept visites à un détenu, soit environ deux actions en moyenne par semaine). L'ensemble de ces activités peut être assuré par le consul honoraire, sans le concours d'une assistante à mi-temps rémunérée par l'Etat. Ce niveau d'activité est très en deçà de celui des quelques agences consulaires, moins d'une quinzaine sur plus de 500 dans le monde, qui bénéficient des services d'un assistant rémunéré sur les crédits du ministère des affaires étrangères et du développement international. En particulier, les cinq autres consuls honoraires de la circonscription de Miami ne disposent pas d'une telle assistante rémunérée et assurent néanmoins sans problème leur mission au service de la communauté et des intérêts français. Enfin, certaines de ces activités, comme la transmission de dossiers d'inscription au registre des Français établis hors de France (15 en 2014), pourront être effectuées de manière entièrement dématérialisée par les usagers dès 2016 et n'incomberont plus au consul honoraire.
