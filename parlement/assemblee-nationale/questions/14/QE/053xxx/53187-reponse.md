@@ -1,0 +1,9 @@
+# Réponse à la question n° 53187
+
+- Question : [53187](53187.md) — Question n° 53187 — rapport; recommandations
+
+## Réponse
+
+*JO du 2015-08-11*
+
+Le rapport de l'Inspection générale des bibliothèques rappelle que beaucoup de bibliothèques centres de documentation (BCD) ne disposent pas de personnel dédié à même d'assurer un service de développement de la lecture dans chaque école. Pour sa part, la ministre de la culture et de la communication est particulièrement attentive à favoriser les dynamiques de coopération entre les bibliothécaires et les différents échelons de l'Éducation nationale. Les politiques de développement de la lecture des collectivités territoriales prennent en compte le public scolaire et proposent une large offre d'actions à destination des écoles. Les services d'action pédagogique ou d'action territoriale, que l'on retrouve dans un nombre croissant de bibliothèques de grandes et moyennes collectivités, mettent en oeuvre ces politiques avec efficacité. Les bibliothèques peuvent également prendre part aux projets éducatifs locaux lorsqu'ils existent. Le ministère de la culture et de la communication accompagne également ces dynamiques dans les territoires porteurs de projets par des dispositifs comme les contrats locaux d'éducation artistique (CLEA) ou les contrats territoire-lecture (CTL). Afin d'approfondir le diagnostic sur le potentiel des collectivités territoriales en matière de développement d'un service de lecture de proximité à destination des jeunes et de leurs familles, une enquête sur l'éducation artistique et culturelle dans les bibliothèques des collectivités territoriales a été pilotée en 2014 par les services du ministère. Cette enquête, dont l'objectif était notamment de rassembler des informations sur les modalités de la coopération avec les écoles et la prise en compte des jeunes et de leurs familles dans les politiques de démocratisation culturelle, a été rendue publique en janvier 2015.
