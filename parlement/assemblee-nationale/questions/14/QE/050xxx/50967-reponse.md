@@ -1,0 +1,9 @@
+# Réponse à la question n° 50967
+
+- Question : [50967](50967.md) — Question n° 50967 — radio France Bleu; diffusion; Midi-Pyrénées
+
+## Réponse
+
+*JO du 2015-08-11*
+
+La ministre de la culture et de la communication est pleinement attachée à ce que chacun puisse avoir accès, dans les meilleures conditions possibles, aux programmes nationaux et locaux du service radiophonique public. En ce qui concerne plus particulièrement le réseau France Bleu, ses quarante-quatre antennes répondent non seulement aux missions fixées par la loi quant à la diffusion d'une information locale, mais également à un engagement d'ordre culturel envers les régions de France. À cet égard, le contrat d'objectifs et de moyens (COM) 2010-2014 signé entre l'État et Radio France prévoyait d'élargir la couverture du réseau France Bleu. Dans cette optique, il a été décidé en 2010 d'étendre le réseau à la ville de Toulouse et son agglomération. La ministre de la culture et de la communication est aujourd'hui favorable à l'extension de la couverture de France Bleu aux principales villes de la région Midi-Pyrénées, qui permettrait de donner à France Bleu Toulouse un rayonnement régional et de faire bénéficier un plus grand nombre d'auditeurs de ce service public de proximité. L'attribution de la ressource radioélectrique à Radio France relève, aux termes de la loi n° 86 1067 du 30 septembre 1986 relative à la liberté de communication, de la compétence du Conseil supérieur de l'audiovisuel sur demande du Gouvernement. Dans ce cadre, des discussions ont été engagées entre le ministère de la culture et de la communication et le Conseil afin de planifier prochainement des travaux d'identification de fréquences sur différentes zones de la région Midi-Pyrénées, qui pourraient profiter à l'ensemble des éditeurs de radio.
