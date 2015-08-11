@@ -1,0 +1,9 @@
+# Réponse à la question n° 59225
+
+- Question : [59225](59225.md) — Question n° 59225 — loi n° 2012-387 du 22 mars 2012; décrets d''application; publication
+
+## Réponse
+
+*JO du 2015-08-11*
+
+A la suite d'un rapport parlementaire de 2006, il est apparu que les moyens existants ne suffisaient pas pour identifier correctement les personnes soumises à des mesures d'interdictions de gérer ou de faillites personnelles. En l'état, seule une attestation sur l'honneur de non-condamnation est demandée au moment de l'immatriculation au registre du commerce et des sociétés (RCS) alors que la demande de vérification du casier judiciaire ne se fait qu'a posteriori, sur requête du juge commis à la surveillance du registre, avec un délai parfois long avant obtention du document. De surcroît, le greffier ne peut matériellement vérifier l'absence d'interdiction de gérer que sur son propre registre et non ceux des ressorts voisins. Enfin, il n'existe aucune base nationale exhaustive des interdits de gérer, à l'exception du casier judiciaire, dont la consultation par les greffiers n'apparaît pas envisageable. L'utilité d'un tel fichier, ainsi d'ailleurs que le consensus des acteurs concernés, ont conduit le législateur à insérer dans le code de commerce, par la loi n° 2012-387 du 22 mars 2012, relative à la simplification du droit et à l'allègement des démarches administratives, un nouveau chapitre relatif au fichier national des interdits de gérer (articles L. 128-1 à L. 128-5). Le décret n° 2015-194 du 19 février 2015 relatif au fichier national des interdits de gérer a fait l'objet d'une concertation interministérielle qui a conduit à une modification des éléments techniques du projet de traitement automatisé de données à caractère personnel. Il a recueuilli l'avis favorable de la commission nationale de l'informatique et des libertés.
