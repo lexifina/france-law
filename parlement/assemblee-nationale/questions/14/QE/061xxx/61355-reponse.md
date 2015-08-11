@@ -1,0 +1,9 @@
+# Réponse à la question n° 61355
+
+- Question : [61355](61355.md) — Question n° 61355 — jeunes; rapport; propositions
+
+## Réponse
+
+*JO du 2015-08-11*
+
+Dans sa note du 15 juillet 2014, intitulée « quelles réformes pour la France ? », le conseil d'analyse économique préconise de réformer le revenu de solidarité active (RSA) destiné aux jeunes actifs, afin de l'ouvrir aux jeunes de moins de 25 ans peu diplômés, qui seraient ainsi suivis et accompagnés vers une insertion durable dans l'emploi. Cette note ajoute que « la garantie jeunes actuellement en cours d'expérimentation va dans ce sens ». En effet, la garantie jeunes, mise en place par le décret n° 2013-880 du 1er octobre 2013, est une expérimentation proposant aux jeunes n'étant ni étudiants, ni en emploi, ni en formation, un accompagnement renforcé sur le marché du travail, associé à une allocation d'un montant identique à celui du revenu de solidarité active (pour une personne seule bénéficiant d'un avantage lié au logement). Cette expérimentation est en cours, et la montée en charge du dispositif s'accélère actuellement, avec un objectif de 50 000 jeunes en garantie jeunes d'ici fin 2015, et de 100 000 jeunes d'ici fin 2017. Par ailleurs le projet de loi relatif au dialogue social et à l'emploi, présenté par François Rebsamen et Marisol Touraine en Conseil des ministres le 22 avril 2015, prévoit la mise en place de la prime d'activité au 1er janvier 2016, en remplacement de la prime pour l'emploi (PPE) et du RSA activité. Ce dispositif sera ouvert à tous les salariés, y compris les jeunes de 18 à 25 ans, qui jusqu'à présent n'avaient droit au RSA que sous certaines conditions très restrictives. Le Gouvernement est donc très mobilisé sur la question du soutien financier comme de l'accompagnement des jeunes peu qualifiés et / ou très éloignés du marché du travail.
