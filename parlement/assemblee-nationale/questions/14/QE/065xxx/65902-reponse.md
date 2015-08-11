@@ -1,0 +1,9 @@
+# Réponse à la question n° 65902
+
+- Question : [65902](65902.md) — Question n° 65902 — rapport; recommandations; perspectives
+
+## Réponse
+
+*JO du 2015-08-11*
+
+En plein essor, compte tenu d'une demande importante, les services à la personne bénéficient d'une politique de soutien de l'État importante. Le Gouvernement a pris connaissance des recommandations de la Cour des comptes issues de son rapport du 10 juillet 2014 relatif au développement des services à la personne et au maintien à domicile des personnes âgées en perte d'autonomie. La Cour encourage la rationalisation des aides existantes, en revoyant notamment le bien-fondé du régime dérogatoire du taux intermédiaire de TVA de 10 % ainsi que le plafond du crédit et de la réduction d'impôt. La sensibilité de l'emploi déclaré d'un salarié à domicile aux aides fiscales et sociales accordées à ce secteur nécessite de porter une grande attention aux dispositifs prévus de manière à ne pas fragiliser leur efficacité, notamment au regard de l'objectif de régularisation du travail dissimulé. En outre, au plan fiscal, l'abaissement à 10 000 € du plafonnement global de certains avantages fiscaux à l'impôt sur le revenu, le passage au taux normal de TVA de cinq services à la personne [1] et le passage de 7 % à 10 % des autres services ont déjà constitué une rationalisation des règles applicables, de même qu'au plan social la suppression de la possibilité de calculer les cotisations sociales sur une base forfaitaire militent pour la stabilité des avantages fiscaux à l'impôt sur le revenu et des taux réduits de TVA. [1] petits travaux de jardinage, cours à domicile, assistance informatique et internet à domicile, services de maintenance, entretien et vigilance temporaires à domicile de la résidence principale et secondaire, activités qui concourent directement et exclusivement à coordonner et délivrer les services à la personne.
