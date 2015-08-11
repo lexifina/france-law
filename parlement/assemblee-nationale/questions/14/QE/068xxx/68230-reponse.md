@@ -1,0 +1,9 @@
+# Réponse à la question n° 68230
+
+- Question : [68230](68230.md) — Question n° 68230 — retards; échelonnement
+
+## Réponse
+
+*JO du 2015-08-11*
+
+Les services impôts particuliers et les trésoreries sont sollicités par des demandes de délai de paiement en phase amiable, accompagnées de demandes de remise de majoration de retard, traitées localement au cas par cas et sous la responsabilité du comptable. Des procédures ont déjà été mises en place par la direction générale des finances publiques afin de tenir compte des difficultés financières des contribuables en cette période de crise. Pour les contribuables confrontés en N à une baisse supérieure ou égale à 30 % des revenus du foyer fiscal de N-1, un échelonnement de paiement est automatiquement accordé pour leur impôt sur les revenus (dispositif BBR « baisse brutale de revenus », institué par le décret n° 2004-77 du 21 janvier 2004). De plus, toute demande de délai de paiement pour les impôts locaux est étudiée en tenant compte de la situation financière de l'usager et des informations communiquées par celui-ci. Concernant la majoration de 10 % sur toute somme non réglée à la date limite de paiement (art. 1730 du CGI), la remise totale est de droit dans le cadre des délais accordés suite à BBR. Pour les autres types d'impôts et de délais accordés, le poste comptable accorde une remise partielle ou totale de la majoration de 10 %, en fonction de la situation fiscale de l'usager et des difficultés rencontrées. Les délais courts et exceptionnels sont dans la majorité des cas accompagnés par une remise totale de la majoration de retard de 10 %. Ces dispositifs ne pouvant toutefois se renouveler chaque année, l'administration fiscale ne peut qu'encourager les contribuables qui rencontrent des difficultés quant au paiement de leurs impôts locaux à adhérer à la mensualisation de ces impositions.
