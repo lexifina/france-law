@@ -1,0 +1,9 @@
+# Réponse à la question n° 82379
+
+- Question : [82379](82379.md) — Question n° 82379 — Congo; bois; importations; attitude de la France
+
+## Réponse
+
+*JO du 2015-08-11*
+
+La lutte contre la déforestation illégale constitue un défi majeur pour limiter les émissions de gaz à effet de serre mais également les autres effets néfastes provoqués par l'exploitation forestière illégale : impact sur les modes de vie des populations, impact sur la faune et la flore, concurrence déloyale sur les marchés internationaux... Le ministère de l'agriculture, de l'agroalimentaire et de la forêt (MAAF) est, en France, l'autorité compétente pour le déploiement du règlement bois de l'Union européenne (règlement 995/2010). Les contrôles à mener pour la bonne application de ce règlement sont partagés entre le MAAF et le ministère de l'écologie, du développement durable et de l'énergie (MEDDE). Les informations fournies par les organisations non gouvernementales sont prises en considération pour évaluer le risque d'introduction sur le marché français du bois issu d'une exploitation illégale. De plus, les importateurs français doivent également tenir compte de ces données, dans le cadre des obligations de diligence raisonnée fixées par le règlement bois de l'Union européenne. Ce type de rapport doit néanmoins faire l'objet d'une analyse approfondie dans la mesure où les allégations contenues n'ont pas toujours de traductions juridiques concrètes (pas de décisions administratives, pas de condamnations pénales...). Les services du MAAF et du MEDDE collaborent étroitement pour utiliser à bon escient ces informations et orienter leurs inspections vers les opérateurs présentant le plus haut niveau de risque. Dans la mesure où les accusations portées par ces rapports sont juridiquement fondées, les contrôles s'attacheront tout particulièrement à cibler les approvisionnements en bois achetés auprès des entreprises incriminées.
