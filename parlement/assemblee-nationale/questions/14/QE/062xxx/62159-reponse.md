@@ -1,0 +1,9 @@
+# Réponse à la question n° 62159
+
+- Question : [62159](62159.md) — Question n° 62159 — procédure; délais
+
+## Réponse
+
+*JO du 2015-08-11*
+
+La procédure de saisie immobilière a été réformée par une ordonnance n° 2006-461 du 21 avril 2006 et un décret n° 2006-936 du 27 juillet 2006, tous deux codifiés depuis 2012 dans le livre III du code des procédures civiles d'exécution. L'objectif de cette réforme a été de mieux encadrer la procédure de saisie immobilière par des délais stricts afin de préserver les droits tant des créanciers que du débiteur. Ainsi, par exemple, concernant l'article R.321-1 du code des procédures civiles d'exécution, dès lors que le commandement valant saisie rend le bien indisponible, il est fondamental pour respecter les droits de l'époux dont la résidence est visée, et où il demeure toujours, qu'il soit averti au plus vite de la procédure en cours. Les autres délais mentionnés relatifs notamment à la dénonciation aux créanciers inscrits du commandement, la publication de la mention de l'assignation et de la dénonciation, le dépôt du cahier des conditions de vente, la surenchère ou encore la distribution lorsqu'il n'y a qu'un créancier, ont été prévus pour améliorer l'efficacité de la procédure de saisie immoblière tout en préservant les droits de chacun : le débiteur, les créanciers et les tiers. Au demeurant, les professionnels du droit en charge de ces procédures, et notamment les avocats, sont en mesure de respecter ces délais. A cet égard, les avocats en charge de la procédure et notamment l'avocat du poursuivant dispose de correspondants huissiers de justice pour procéder à la signification des actes, lorsque cela est nécessaire, éventuellement dans plusieurs départements. Pour l'ensemble de ces raisons, il n'est pas envisagé de modifier les délais en matière de saisie immobilière, ces délais participant de l'efficacité de cette procédure, qu'il est nécessaire de garantir.
