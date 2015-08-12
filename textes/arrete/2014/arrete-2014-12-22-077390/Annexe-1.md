@@ -16,6 +16,8 @@ Secteur agriculture
 
 - Echangeur-récupération de chaleur air/air dans un bâtiment d’élevage de volailles / Fiche d’opération n° AGRI-TH-113
 
+- Récupération de chaleur fatale issue d'un procédé industriel industriel pour le chauffage d'une serre ou d'un batiment d'élevage / Fiche d'opération n° AGRI-TH-116
+
 - Déshumidificateur thermodynamique pour serres / Fiche d’opération n° AGRI-TH-117
 
 - Double tube de chauffage pour serres / Fiche d’opération n° AGRI-TH-118
@@ -35,6 +37,10 @@ Secteur agriculture
 - Pompe à chaleur de type air/eau ou eau/eau / Fiche d'opération n° AGRI-TH-108
 
 Liens
+
+Vous pouvez consulter les fiches dans le fac-similé du JO nº 0184 du 11/08/2015, texte nº 6
+
+https://www.legifrance.gouv.fr/download/pdf?id=rZaFYhIykfEHeO_cYuUudp9zMW9r0VCLrkV8AmAAT3o=
 
 Vous pouvez consulter les fiches dans le fac-similé du JO nº 0177 du 02/08/2015, texte nº 2
 

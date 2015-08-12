@@ -14,6 +14,8 @@ Isolation des toitures-terrasses / Fiche d’opération standardisée n° BAT-EN
 
 Chaudière collective haute performance énergétique / Fiche d’opération standardisée n° BAT-TH-102
 
+Plancher chauffant hydraulique à basse température / Fiche d’opération standardisée n° BAT-TH-103
+
 Robinet thermostatique / Fiche d’opération standardisée n° BAT-TH-104
 
 Radiateur basse température pour un chauffage central/ / Fiche d’opération standardisée n° BAT-TH-105
@@ -21,6 +23,8 @@ Radiateur basse température pour un chauffage central/ / Fiche d’opération s
 Isolation d’un réseau hydraulique de chauffage / Fiche d’opération standardisée n° BAT-TH-106
 
 Récupérateur de chaleur à condensation / Fiche d’opération standardisée n° BAT-TH-110
+
+Chauffe-eau solaire collectif (France métropolitaine) / Fiche d’opération standardisée n° BAT-TH-111
 
 Système de variation électronique de vitesse sur un moteur asynchrone / Fiche d’opération standardisée n° BAT-TH-112
 
@@ -37,6 +41,12 @@ Système de gestion technique du bâtiment pour le chauffage et l’eau chaude s
 Isolation d’un réseau hydraulique d’eau chaude sanitaire / Fiche d’opération standardisée n° BAT-TH-119
 
 Chauffe-eau solaire (France d’outre-mer) / Fiche d’opération standardisée n° BAT-TH-121
+
+Ventilation mécanique simple flux à débit d’air constant ou modulé / Fiche d’opération standardisée n° BAT-TH-125
+
+Ventilation mécanique double flux avec échangeur à débit d’air constant ou modulé / Fiche d’opération standardisée n° BAT-TH-126
+
+Raccordement d’un bâtiment tertiaire à un réseau de chaleur / Fiche d’opération standardisée n° BAT-TH-127
 
 Récupération de chaleur sur groupe de production de froid / Fiche d’opération standardisée n° BAT-TH-139
 
@@ -60,10 +70,18 @@ Conduits de lumière naturelle / Fiche d’opération standardisée n° BAT-EQ-1
 
 Tubes à LED à éclairage hémisphérique / Fiche d’opération standardisée n° BAT-EQ-132
 
+Systèmes hydro-économes (France métropolitaine) / Fiche d’opération standardisée n° BAT-EQ-133
+
 Liens :
+
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0184 du 11/08/2015, texte n° 2, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=rZaFYhIykfEHeO_cYuUudh9K_gvnOMgthOva_2h02AY=
 
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0177 du 02/08/2015, texte n° 2, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=ZucI2g3TB8391J-G1h9Dua3PzXyh2U2x_naRfEud_Wg=
 
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0075 du 29/03/2015, texte n° 6, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=xhmSfzOnsCkjNrGahHphZrmpoFhR61mGJ7APKjTA6As=
 
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0297 du 24/12/2014, texte n° 18, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=FGBMw6bzzOGU6LHfYz6-OOYiF3mTkUVDd1KHOMS6u0s=
+
+NOTA :
+
+Se reporter aux conditions d’application prévues à l’article 9 de l’arrêté du 31 juillet 2015 (NOR : DEVR1518934A)

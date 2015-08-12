@@ -10,6 +10,10 @@ Secteur transport
 
 - Pneus de véhicules légers à basse résistance au roulement / Fiche d’opération n° TRA-EQ-106
 
+- Unité de transport intermodal pour le transport combiné fluvial-route / Fiche d’opération n° TRA-EQ-107
+
+- Barge fluviale / Fiche d’opération n° TRA-EQ-109
+
 - Lubrifiant économiseur d’énergie pour des véhicules de transport de personnes ou de marchandises / Fiche d’opération n° TRA-EQ-113
 
 - Remplacement de véhicules par des véhicules neufs performants dans une flotte professionnelle / Fiche d’opération n° TRA-EQ-114
@@ -22,6 +26,8 @@ Secteur transport
 
 - Optimisation de la combustion et de la propreté des moteurs Diesel / Fiche d’opération n° TRA-EQ-119
 
+Conformément à l’article 8 de l’arrêté du 31 juillet 2015 (NOR : DEVR1518934A), la fiche d'opération standardisée d'économies d'énergie est remplacée par la fiche d’opération standardisée portant les mêmes références situées dans l’annexe 6 dudit arrêté.
+
 - Formation d’un chauffeur de transport à la conduite économe / Fiche d’opération n° TRA-SE-101
 
 - Formation d’un chauffeur de véhicule léger à la conduite économe / Fiche d’opération n° TRA-SE-102
@@ -29,6 +35,8 @@ Secteur transport
 - Station de gonflage des pneumatiques / Fiche d’opération n° TRA-SE-104
 
 - Recreusage des pneumatiques / Fiche d’opération n° TRA-SE-105
+
+- Mesure et optimisation des consommations de carburant d’une unité de transport fluvial / Fiche d’opération n° TRA-SE-106
 
 - Gestion externalisée de la globalité du poste pneumatique (Véhicules de transport de marchandises) / Fiche d’opération n° TRA-SE-108
 
@@ -44,6 +52,10 @@ Secteur transport
 
 Liens :
 
+Vous pouvez consulter l’intégralité du texte avec ses images à partir de l’extrait du Journal officiel électronique authentifié n° 184 du 11/08/2015, texte nº 6, accessible à l’adresse suivante :
+
+https://www.legifrance.gouv.fr/download/pdf?id=rZaFYhIykfEHeO_cYuUudh9K_gvnOMgthOva_2h02AY=
+
 Vous pouvez consulter l’intégralité du texte avec ses images à partir de l’extrait du Journal officiel électronique authentifié n° 177 du 02/08/2015, texte nº 2, accessible à l’adresse suivante :
 
 https://www.legifrance.gouv.fr/download/pdf?id=ZucI2g3TB8391J-G1h9Dua3PzXyh2U2x_naRfEud_Wg=
@@ -55,3 +67,7 @@ https://www.legifrance.gouv.fr/download/pdf?id=xhmSfzOnsCkjNrGahHphZrmpoFhR61mGJ
 Vous pouvez consulter l’intégralité du texte avec ses images à partir de l’extrait du Journal officiel électronique authentifié n° 297 du 24/12/2014, texte nº 18, accessible à l’adresse suivante :
 
 https://www.legifrance.gouv.fr/download/pdf?id=FGBMw6bzzOGU6LHfYz6-OOYiF3mTkUVDd1KHOMS6u0s=
+
+NOTA :
+
+Se reporter aux modalités d’application prévues par l’article 9 de l’arrêté du 31 juillet 2015 (NOR : DEVR1518934A).
