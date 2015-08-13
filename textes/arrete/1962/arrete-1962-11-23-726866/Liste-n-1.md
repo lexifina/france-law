@@ -1186,7 +1186,7 @@ Melun-Villaroche |
 
 Seine-et-Marne |
 
-seuls les aéronefs basés sont autorisés à effectuer des tours de piste. |
+seuls les aéronefs basés sont autorisés à effectuer des tours de piste |
 
 Mende-Brenoux |
 
@@ -1708,7 +1708,7 @@ Charente-Maritime |
 
 |
 
-Saint-Etienne - Bouthéon |
+Saint-Etienne Loire |
 
 Loire |
 
