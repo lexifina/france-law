@@ -1,22 +1,26 @@
 # Article Annexe 311-1.A
 
-Remarque générale pour l'annexe A : par règles SOLAS, on entend la version consolidée de SOLAS de 2009.
+Remarque générale pour l'annexe 311-1-A : par règles SOLAS, on entend la version consolidée de SOLAS de 2009.
 
-Remarque générale pour l'annexe A : sous certains noms d'article, la colonne 5 indique certaines variantes de produits possibles répondant au même nom d'article. Les variantes de produits sont mentionnées de manière indépendante et séparées les unes des autres par une ligne pointillée. Aux fins de certification, seule la variante de produit concernée, le cas échéant, doit être choisie (exemple : A.1/3.3).
+Remarque générale pour l'annexe 311-1-A : Sous certains noms d'article, la colonne 5 indique certaines variantes de produits possibles répondant au même nom d'article. Les variantes de produits sont mentionnées de manière indépendante et séparées les unes des autres par une ligne pointillée. Aux fins de certification, seule la variante de produit concernée, le cas échéant, doit être choisie (exemple : A.1/3.3).
 
-Sigles et abréviations :
+Sigles et abréviations
 
-A. 1 : amendement 1 concernant des documents normatifs autres que ceux de l'OMI.
+A.1 : amendement 1 concernant des documents normatifs autres que ceux de l'OMI.
 
-A. 2 : amendement 2 concernant des documents normatifs autres que ceux de l'OMI.
+A.2 : amendement 2 concernant des documents normatifs autres que ceux de l'OMI.
 
 AC : amendement rectificatif concernant des documents normatifs autres que ceux de l'OMI.
 
-CAT : catégorie d'équipement radar au sens du point 1.3 de la norme CEI 62388 (2007). Circ. : circulaire.
+CAT : catégorie d'équipement radar au sens du point 1.3 de la norme CEI 62388 (2007).
+
+Circ. : circulaire.
 
 COLREG (International Regulations for Preventing Collisions at Sea) : règlement international pour prévenir les abordages en mer.
 
-COMSAR : sous-comité des radiocommunications et de la recherche et du sauvetage de l'OMI. EN : norme européenne.
+COMSAR : sous-comité des radiocommunications et de la recherche et du sauvetage de l'OMI.
+
+EN : norme européenne.
 
 ETSI : Institut européen des normes de télécommunications.
 
@@ -28,7 +32,9 @@ Recueil HSC : recueil international de règles de sécurité applicables aux eng
 
 Recueil IBC : recueil international de règles sur les transporteurs de produits chimiques.
 
-OACI : Organisation de l'aviation civile internationale. CEI : Commission électrotechnique internationale.
+OACI : Organisation de l'aviation civile internationale.
+
+CEI : Commission électrotechnique internationale.
 
 IGC : Recueil international de règles relatives à la construction et à l'équipement des navires transportant des gaz liquéfiés en vrac.
 
@@ -54,6 +60,6 @@ SOLAS : convention internationale pour la sauvegarde de la vie humaine en mer.
 
 SOx : oxydes de soufre.
 
-Règl. : règle.
+Règ. : règle.
 
 Rés. : résolution.

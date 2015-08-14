@@ -2,59 +2,37 @@
 
 4. Equipements de navigation
 
-Notes concernant le point 4 : Equipements de navigation
+Notes concernant le point 4: Equipements de navigation
 
 Colonne 5 :
 
-La série CEI 61162 porte sur les normes de référence pour les matériels et systèmes de navigation et de radiocommunication maritimes - Interfaces numériques :
+La série CEI 61162 porte sur les normes de référence pour les Matériels et systèmes de navigation et de radiocommunication maritimes - Interfaces numériques:
 
-1) CEI 61162-1 éd4.0 (2010-11) - Partie 1 : Emetteur unique et récepteurs multiples.
+CEI 61162-1 éd4.0 (2010-11) - Partie 1: Emetteur unique et récepteurs multiples
 
-2) CEI 61162-2 éd1.0 (1998-09) - Partie 2 : Emetteur unique et récepteurs multiples, transfert rapide de données.
+CEI 61162-2 éd1.0 (1998-09) - Partie 2: Emetteur unique et récepteurs multiples, transfert rapide de données
 
-3) CEI 61162-3 éd1.1 compilation avec amendement 1 (2010-11) - Partie 3 : Réseau par liaison de données série d'instruments :
+CEI 61162-3 éd1.1 compilation avec amendement 1(2010-11) - Partie 3: Réseau par liaison de données série d'instruments
 
-- CEI 61162-3 éd1.0 (2008-05) - Partie 3 : Réseau par liaison de données série d'instruments ;
+CEI 61162-3 éd1.0 (2008-05) - Partie 3: Réseau par liaison de données série d'instruments
 
-- CEI 61162-3 am1 éd1.0 (2010-06) - Amendement 1 - Partie 3 : Réseau par liaison de données série d'instruments.
+CEI 61162-3 am1 éd1.0 (2010-06) - Amendement 1 - Partie 3: Réseau par liaison de données série d'instruments
 
-4) CEI 61162-400 éd1.0 (2001-11) - Partie 400 : Emetteurs multiples et récepteurs multiples - Interconnexion des systèmes embarqués - Introduction et principes généraux :
+CEI 61162-450 éd1.0 (2011-06) - Partie 450: Emetteurs multiples et récepteurs multiples - Interconnexion Ethernet
 
-- CEI 61162-401 éd1.0 (2001-11) - Partie 401 : Emetteurs multiples et récepteurs multiples - Interconnexion des systèmes embarqués - Couche d'application ;
+La série EN 61162 porte sur les normes de référence pour les Matériels et systèmes de navigation et de radiocommunication maritimes - Interfaces numériques:
 
-- CEI 61162-402 éd1.0 (2005-09) - Partie 402 : Emetteurs multiples et récepteurs multiples - Interconnexion des systèmes embarqués - Documentation et exigences d'essai ;
+EN 61162-1 (2011) - Partie 1: Emetteur unique et récepteurs multiples
 
-- CEI 61162-410 éd1.0 (2001-11) - Partie 410 : Emetteurs multiples et récepteurs multiples - Interconnexion des systèmes embarqués - Exigences de la couche transport et couche transport de base ;
+EN 61162-2 (1998) - Partie 2: Emetteur unique et récepteurs multiples, transfert rapide de données
 
-- CEI 61162-420 éd1.0 (2001-11) - Partie 420 : Emetteurs multiples et récepteurs multiples - Interconnexion des systèmes embarqués - Exigences standard de la couche utilisateur et standard utilisateurs de base ;
+EN 61162-3 (2008) - Partie 3: Réseau par liaison de données série d'instruments
 
-- CEI 61162-450 éd1.0 (2011-06) - Partie 450 : Emetteurs multiples et récepteurs multiples - Interconnexion
+EN 61162-3 am1 (2010) - Amendement 1 - Partie 3: Réseau par liaison de données série d'instruments
 
-Ethernet.
+EN 61162-450 (2011) - Partie 450: Emetteurs multiples et récepteurs multiples - Interconnexion Ethernet
 
-La série EN 61162 porte sur les normes de référence pour les matériels et systèmes de navigation et de radiocom-munication maritimes - Interfaces numériques :
-
-1) EN 61162-1 (2011) - Partie 1 : Emetteur unique et récepteurs multiples.
-
-2) EN 61162-2 (1998) - Partie 2 : Emetteur unique et récepteurs multiples, transfert rapide de données.
-
-3) EN 61162-3 (2008) - Partie 3 : Réseau par liaison de données série d'instruments :
-
-- EN 61162-3 am1 (2010) - Amendement 1 - Partie 3 : Réseau par liaison de données série d'instruments.
-
-4) EN 61162-400 (2002) - Partie 400 : Emetteurs multiples et récepteurs multiples - Interconnexion des systèmes embarqués - Introduction et principes généraux :
-
-- EN 61162-401 (2002) - Partie 401 : Emetteurs multiples et récepteurs multiples - Interconnexion des systèmes embarqués - Couche d'application ;
-
-- EN 61162-402 (2005) - Partie 402 : Emetteurs multiples et récepteurs multiples - Interconnexion des systèmes embarqués - Documentation et exigences d'essai ;
-
-- EN 61162-410 (2002) - Partie 410 : Emetteurs multiples et récepteurs multiples - Interconnexion des systèmes embarqués - Exigences de la couche transport et couche transport de base ;
-
-- EN 61162-420 (2002) - Partie 420 : Emetteurs multiples et récepteurs multiples - Interconnexion des systèmes embarqués - Exigences standard de la couche utilisateur et standard utilisateurs de base ;
-
-- EN 61162-450 (2011) - Partie 450 : Emetteurs multiples et récepteurs multiples - Interconnexion Ethernet.
-
-ARTICLE N°
+N°
 
 |
 
@@ -62,27 +40,21 @@ NOM DE L'ARTICLE
 
 |
 
-RÈGLE SOLAS 74
+RÈGLE
 
-modifiée, qui
+SOLAS 74
 
-requiert
-
-une "approbation
-
-de type"
+modifiée, qui requiert une "approbation de type"
 
 |
 
-RÈGLES SOLAS 74
+RÈGLES SOLAS 74,
 
-telles que modifiées,
+telles que modifiées, applicables
 
-applicables et résolutions
+et résolutions et circulaires
 
-et circulaires applicables
-
-de l'OMI
+applicables de l'OMI
 
 |
 
@@ -94,7 +66,9 @@ MODULES
 
 d'évaluation
 
-de la conformité
+de la
+
+conformité
 
 |
 
@@ -122,27 +96,35 @@ de la conformité
 
 |
 
-A.1/4.1
+A.1/4.1.
 
 |
 
 Compas magnétique
 
-a) classe A pour les navires ;
-
-b) classe B pour les embarcations de sauvetage et les canots de secours.
+classe A pour les navires;
 
 |
 
-- Règl. V/18.
+- Règ. V/18,
+
+- Règ. X/3,
+
+- Rés. MSC 36(63) de l'OMI - (Recueil HSC de 1994) 13,
+
+- Rés. MSC 97(73) de l'OMI - (Recueil HSC de 2000) 13,
 
 |
 
-- Règl. V/19,
+- Règ. V/19,
 
-- Rés. OMI A.382(X),
+- Rés. A.382(X) de l'OMI,
 
-- Rés. OMI A.694(17).
+- Rés. A.694(17) de l'OMI,
+
+- Rés. MSC 36(63) de l'OMI - (Recueil HSC de 1994) 13,
+
+- Rés. MSC 97(73) de l'OMI - (Recueil HSC de 2000) 13,
 
 |
 
@@ -150,15 +132,15 @@ b) classe B pour les embarcations de sauvetage et les canots de secours.
 
 - ISO 25862 (2009),
 
-- EN 60945 (2002), y compris CEI 60945 corrigendum 1 (2008).
+- EN 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945.
 
-Ou
+Ou,
 
 - ISO 1069 (1973),
 
 - ISO 25862 (2009),
 
-- CEI 60945 (2002), y compris CEI 60945 corrigendum 1 (2008).
+- CEI 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945.
 
 |
 
@@ -172,35 +154,35 @@ G
 
 |
 
-A.1/4.2
+A.1/4.2.
 
 |
 
-Indicateur de cap à transmission (THD) de type magnétique.
+Indicateur de cap à transmission (THD) de type magnétique
 
 |
 
-- Règl. V/18,
+- Règ. V/18,
 
-- Règl. V/19,
+- Règ. V/19,
 
-- Règl. X/3,
-
-- Rés. MSC 36(63) de l'OMI - (Recueil HSC de 1994) 13,
-
-- Rés. MSC 97(73) de l'OMI - (Code HSC de 2000) 13.
-
-|
-
-- Règl. V/19,
-
-- Rés. OMI A.694 (17),
+- Règ. X/3,
 
 - Rés. MSC 36(63) de l'OMI - (Recueil HSC de 1994) 13,
 
 - Rés. MSC 97(73) de l'OMI - (Recueil HSC de 2000) 13,
 
-- Rés. MSC 116(73), de l'OMI,
+|
+
+- Règ. V/19,
+
+- Rés. A.694(17) de l'OMI,
+
+- Rés. MSC 36(63) de l'OMI - (Recueil HSC de 1994) 13,
+
+- Rés. MSC 97(73) de l'OMI - (Recueil HSC de 2000) 13,
+
+- Rés. MSC 116(73) de l'OMI,
 
 - Rés. MSC 191(79) de l'OMI.
 
@@ -208,17 +190,21 @@ Indicateur de cap à transmission (THD) de type magnétique.
 
 - EN 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945,
 
-- série EN 61162,
+- série EN 61162;
 
-- ISO 22090-2 (2004), y compris corrigendum 2005
+- ISO 22090-2 (2004), y compris corrigendum 2005,
 
 - EN 62288 (2008).
 
-Ou
+Ou,
 
 - CEI 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945,
 
 - série CEI 61162.
+
+- ISO 22090-2 (2004), y compris corrigendum 2005,
+
+- CEI 62288 Ed.1.0(2008).
 
 |
 
@@ -232,23 +218,23 @@ G
 
 |
 
-A.1/4.3
+A.1/4.3.
 
 |
 
-Gyrocompas.
+Gyrocompas
 
 |
 
-- Règl. V/18.
+- Règ. V/18.
 
 |
 
-- Règl. V/19,
+- Règ. V/19,
 
-- Rés. A.424(XI) de l'OMI,
+- Rés. OMI A.424(XI),
 
-- Rés. A.694 (17) de l'OMI,
+- Rés. A.694(17) de l'OMI,
 
 - Rés. MSC 191(79) de l'OMI.
 
@@ -258,93 +244,15 @@ Gyrocompas.
 
 - EN 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945,
 
-- série EN 61162,
-
-- EN 62288 (2008). Ou
-
-- ISO 8728 (1997).
-
-|
-
-B + D
-
-B + E
-
-B + F
-
-G
-
-|
-
-A.1/4.4
-
-|
-
-Equipement radar.
-
-|
-
-Transféré aux annexes A.1/4.34, A.1/4.35 et A.1/4.36.
-
-|
-
-A.1/4.5
-
-|
-
-Aide de pointage radar automatique (ARPA)
-
-|
-
-Transféré à l'annexe A.1/4.34.
-
-|
-
-A.1/4.6
-
-|
-
-Sondeur à écho.
-
-|
-
-- Règl. V/18,
-
-- Règl. X/3,
-
-- Rés. MSC 36(63) de l'OMI - (Recueil HSC de 1994) 13,
-
-- Rés. MSC 97(73) de l'OMI - (Code HSC de 2000) 13.
-
-|
-
-- Règl. V/19,
-
-- Rés. A.224 (VII) de l'OMI,
-
-- Rés. A.694 (17) de l'OMI,
-
-- Rés. MSC 36(63) de l'OMI - (Recueil HSC de 1994) 13,
-
-- Rés. MSC 74(69) de l'OMI, annexe 4.
-
-- Rés. MSC 97(73) de l'OMI - (Recueil HSC de 2000) 13,
-
-- Rés. MSC 191(79) de l'OMI.
-
-|
-
-- EN ISO 9875 (2001), y compris rectificatif technique 1:2006 de l'ISO,
-
-- EN 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945,
-
-- série EN 61162,
+- série EN 61162.
 
 - EN 62288 (2008).
 
+.
+
 Ou,
 
-- ISO 9875 (2000), y compris rectificatif technique 1:2006 de l'ISO,
+- ISO 8728 (1997),
 
 - CEI 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945,
 
@@ -364,7 +272,95 @@ G
 
 |
 
-A.1/4.7
+A.1/4.4.
+
+|
+
+Equipement radar
+
+|
+
+Transféré aux annexes A.1/4.34, A.1/4.35 et A.1/4.36
+
+|
+
+A.1/4.5.
+
+|
+
+Aide de pointage radar automatique (ARPA)
+
+|
+
+Transféré à l'annexe A.1/4.34
+
+|
+
+A.1/4.6.
+
+|
+
+Sondeur à écho
+
+|
+
+- Règ. V/18,
+
+- Règ. X/3,
+
+- Rés. MSC 36(63) de l'OMI - (Recueil HSC de 1994) 13,
+
+- Rés. MSC 97(73) de l'OMI - (Recueil HSC de 2000) 13,
+
+|
+
+- Règ. V/19,
+
+- Rés. OMI A.224 (VII),
+
+- Rés. A.694(17) de l'OMI,
+
+- Rés. MSC 36(63) de l'OMI - (Recueil HSC de 1994) 13,
+
+- Rés. MSC 74(69), annexe 4, de l'OMI,
+
+- Rés. MSC 97(73) de l'OMI - (Recueil HSC de 2000) 13,
+
+- Rés. MSC 191(79) de l'OMI.
+
+|
+
+- EN ISO 9875 (2001), y compris rectificatif technique 1:2006 de l'ISO, 2006
+
+- EN 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945,
+
+- série EN 61162.
+
+- EN 62288 (2008).
+
+Ou,
+
+- ISO 9875 (2000), y compris rectificatif technique 1:2006 de l'ISO, 2006
+
+- CEI 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945,
+
+- série CEI 61162,
+
+- CEI 62288 Ed.1.0(2008).
+
+|
+
+B + D
+
+B + E
+
+B + F
+
+G
+
+|
+
+A.1/4.7.
 
 |
 
@@ -372,19 +368,23 @@ Equipement de mesure de vitesse et de distance (SDME).
 
 |
 
-- Règl. V/18,
+- Règ. V/18,
 
-- Règl. X/3
+- Règ. X/3,
+
+- Rés. MSC 36(63) de l'OMI - (Recueil HSC de 1994) 13,
+
+- Rés. MSC 97(73) de l'OMI - (Recueil HSC de 2000) 13,
 
 |
 
-- Règl. V/19,
+- Règ. V/19,
 
-- Rés.A.694 (17) de l'OMI,
+- Rés. A.694(17) de l'OMI,
 
-- Rés.A.824(19) de l'OMI,
+- Rés. A.824(19) de l'OMI,
 
-- Rés. MSC 36(63) de l'OMI (recueil HSC de 1994) 13,
+- Rés. MSC 36(63) de l'OMI - (Recueil HSC de 1994) 13,
 
 - Rés. MSC 96(72) de l'OMI,
 
@@ -398,13 +398,13 @@ Equipement de mesure de vitesse et de distance (SDME).
 
 - EN 61023 (2007),
 
-- série EN 61162,
+- série EN 61162.
 
 - EN 62288 (2008).
 
 Ou,
 
-CEI 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945,
+- CEI 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945,
 
 - CEI 61023 (2007),
 
@@ -424,43 +424,45 @@ G
 
 |
 
-A.1/4.8
+A.1/4.8.
 
 |
 
-Indicateur d'angle de barre, de vitesse de rotation, de pas d'hélice.
+Indicateur d'angle de barre, de vitesse de rotation, de pas d'hélice
 
 |
 
-Transféré aux annexes A.1/4.20, A.1/4.21 et A.1/4.22.
+Transféré aux annexes A.1/4.20, A.1/4.21 et A.1/4.22
 
 |
 
-A.1/4.9
+A.1/4.9.
 
 |
 
-Indicateur de taux de giration.
+Indicateur de taux de giration
 
 |
 
-- Règl. V/18,
+- Règ. V/18,
 
-- Règl. X/3,
+- Règ. X/3,
 
 - Rés. MSC 36(63) de l'OMI - (Recueil HSC de 1994) 13,
 
-- Rés. MSC 97(73) de l'OMI - (Code HSC de 2000) 13.
+- Rés. MSC 97(73) de l'OMI - (Recueil HSC de 2000) 13,
 
 |
 
-- Règl. V/19,
+- Règ. V/19,
 
 - Rés. A.526(13) de l'OMI,
 
-- Rés. A.694 (17) de l'OMI,
+- Rés. A.694(17) de l'OMI,
 
 - Rés. MSC 36(63) de l'OMI - (Recueil HSC de 1994) 13,
+
+- Rés. MSC 97(73) de l'OMI - (Recueil HSC de 2000) 13,
 
 - Rés. MSC 191(79) de l'OMI.
 
@@ -468,13 +470,13 @@ Indicateur de taux de giration.
 
 - EN 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945,
 
-- série EN 61162,
+- série EN 61162.
 
 - ISO 20672 (2007),
 
 - EN 62288 (2008).
 
-Ou
+Ou,
 
 - CEI 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945,
 
@@ -482,7 +484,7 @@ Ou
 
 - ISO 20672 (2007),
 
-- CEI 62288 éd.1.0(2008).
+- CEI 62288 Ed.1.0(2008).
 
 |
 
@@ -496,41 +498,41 @@ G
 
 |
 
-A.1/4.10
+A.1/4.10.
 
 |
 
-Radiogoniomètre.
+Radiogoniomètre
 
 |
 
-Intentionnellement blanc.
+Intentionnellement blanc
 
 |
 
-A.1/4.11
+A.1/4.11.
 
 |
 
-Equipement Loran-C.
+Equipement Loran- C
 
 |
 
-- Règl. V/18,
+- Règ. V/18,
 
-- Règl. X/3,
+- Règ. X/3,
 
 - Rés. MSC 36(63) de l'OMI - (Recueil HSC de 1994) 13,
 
-- Rés. MSC 97(73) de l'OMI - (Code HSC de 2000) 13.
+- Rés. MSC 97(73) de l'OMI - (Recueil HSC de 2000) 13,
 
 |
 
-- Règl. V/19,
+- Règ. V/19,
 
-- Rés. A.694 (17) de l'OMI,
+- Rés. A.694(17) de l'OMI,
 
-- Rés. A.818 (19) de l'OMI,
+- Rés. A.818(19) de l'OMI,
 
 - Rés. MSC 36(63) de l'OMI - (Recueil HSC de 1994) 13,
 
@@ -544,73 +546,11 @@ Equipement Loran-C.
 
 - EN 61075 (1993),
 
-- série EN 61162,
+- série EN 61162.
 
 - EN 62288 (2008).
 
-Ou
-
-- CEI 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945,
-
-- CEI 61075 (1991),
-
-- série CEI 61162,
-
-- CEI 62288 éd.1.0(2008).
-
-|
-
-B + D
-
-B + E
-
-B + F
-
-G
-
-|
-
-A.1/4.12
-
-|
-
-Equipement Chayka.
-
-|
-
-- Règl. V/18,
-
-- Règl. X/3,
-
-- Rés. MSC 36(63) de l'OMI - (Recueil HSC de 1994) 13,
-
-- Rés. MSC 97(73) de l'OMI - (Code HSC de 2000) 13.
-
-|
-
-- Règl. V/19,
-
-- Rés. A.694 (17) de l'OMI,
-
-- Rés. A.818 (19) de l'OMI,
-
-- Rés. MSC 36(63) de l'OMI - (Recueil HSC de 1994) 13,
-
-- Rés. MSC 97(73) de l'OMI - (Recueil HSC de 2000) 13,
-
-- Rés. MSC 191(79) de l'OMI.
-
-|
-
-- EN 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945,
-
-- EN 61075 (1993),
-
-- série EN 61162,
-
-- EN 62288 (2008).
-
-Ou
+Ou,
 
 - CEI 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945,
 
@@ -632,39 +572,101 @@ G
 
 |
 
-A.1/4.13
+A.1/4.12.
 
 |
 
-Navigateur Decca.
+Equipement Chayka
 
 |
 
-Intentionnellement blanc.
+- Règ. V/18,
 
-|
-
-A.1/4.14
-
-|
-
-Equipement GPS.
-
-|
-
-- Règl. V/18,
-
-- Règl. X/3,
+- Règ. X/3,
 
 - Rés. MSC 36(63) de l'OMI - (Recueil HSC de 1994) 13,
 
-- Rés. MSC 97(73) de l'OMI - (Code HSC de 2000) 13.
+Rés. MSC 97(73) de l'OMI - (Recueil HSC de 2000) 13.s
 
 |
 
-- Règl. V/19,
+- Règ. V/19,
 
-- Rés. A.694 (17) de l'OMI,
+- Rés. OMI A.694(17),
+
+- Rés. OMI A.818(19),
+
+- Rés. MSC 36(63) de l'OMI - (Recueil HSC de 1994) 13,
+
+- Rés. MSC 97(73) de l'OMI - (Recueil HSC de 2000) 13,
+
+. - Rés. MSC 191(79) de l'OMI.
+
+|
+
+- EN 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945,
+
+- EN 61075 (1993),
+
+- série EN 61162.
+
+- EN 62288 (2008).
+
+Ou,
+
+- CEI 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945,
+
+- CEI 61075 (1991),
+
+- série CEI 61162,
+
+- CEI 62288 Ed.1.0(2008).
+
+|
+
+B + D
+
+B + E
+
+B + F
+
+G
+
+|
+
+A.1/4.13.
+
+|
+
+Navigateur Decca
+
+|
+
+Intentionnellement blanc
+
+|
+
+A.1/4.14.
+
+|
+
+Equipement GPS
+
+|
+
+- Règ. V/18,
+
+- Règ. X/3,
+
+- Rés. MSC 36(63) de l'OMI - (Recueil HSC de 1994) 13,
+
+- Rés. MSC 97(73) de l'OMI - (Recueil HSC de 2000) 13,
+
+|
+
+- Règ. V/19,
+
+- Rés. A.694(17) de l'OMI,
 
 - Rés. MSC 36(63) de l'OMI - (Recueil HSC de 1994),
 
@@ -678,13 +680,13 @@ Equipement GPS.
 
 - EN 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945,
 
-- EN 61108-1 (2003),
+- EN 61108-1 (2003).
 
-- série EN 61162,
+- série EN 61162.
 
 - EN 62288 (2008).
 
-Ou
+Ou,
 
 - CEI 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945,
 
@@ -692,7 +694,7 @@ Ou
 
 - série CEI 61162,
 
-- CEI 62288 éd.1.0(2008).
+- CEI 62288 Ed.1.0(2008).
 
 |
 
@@ -710,23 +712,23 @@ A.1/4.15
 
 |
 
-Equipement GLONASS.
+Equipement GLONASS
 
 |
 
-- Règl. V/18,
+- Règ. V/18,
 
-- Règl. X/3,
+- Règ. X/3,
 
 - Rés. MSC 36(63) de l'OMI - (Recueil HSC de 1994) 13,
 
-- Rés. MSC 97(73) de l'OMI - (Code HSC de 2000) 13.
+- Rés. MSC 97(73) de l'OMI - (Recueil HSC de 2000) 13,
 
 |
 
-- Règl. V/19,
+- Règ. V/19,
 
-- Rés. A.694 (17) de l'OMI,
+- Rés. A.694(17) de l'OMI,
 
 - Rés. MSC 36(63) de l'OMI - (Recueil HSC de 1994) 13,
 
@@ -734,19 +736,19 @@ Equipement GLONASS.
 
 - Rés. MSC 113(73) de l'OMI,
 
-- Rés. MSC.191(79) de l'OMI.
+- Rés. MSC 191(79) de l'OMI.
 
 |
 
 - EN 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945,
 
-- EN 61108-2 (1998),
+- EN 61108-2 (1998).
 
 - série EN 61162.
 
 - EN 62288 (2008).
 
-Ou
+Ou,
 
 - CEI 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945,
 
@@ -768,23 +770,23 @@ G
 
 |
 
-A.1/4.16
+A.1/4.16.
 
 |
 
-Système de contrôle de route.
+Système de contrôle de route
 
 |
 
-- Règl. V/18.
+- Règ. V/18.
 
 |
 
-- Règl. V/19,
+- Règ. V/19,
 
-- Rés. A.342(IX) de l'OMI,
+- Rés. OMI A.342(IX),
 
-- Rés. A.694 (17) de l'OMI,
+- Rés. A.694(17) de l'OMI,
 
 - Rés. MSC 64(67), annexe 3, de l'OMI,
 
@@ -800,7 +802,7 @@ Système de contrôle de route.
 
 - EN 62288 (2008).
 
-Ou
+Ou,
 
 - ISO 11674 (2006),
 
@@ -826,15 +828,15 @@ A.1/4.17
 
 |
 
-Appareils de hissage du pilote.
+Appareils de hissage du pilote
 
 |
 
-Transféré à l'annexe A.1/4.40.
+Transféré à l'annexe A.1/4.40
 
 |
 
-A.1/4.18
+A.1/4.18.
 
 |
 
@@ -842,35 +844,35 @@ Répondeur radar 9 GHz (SART)
 
 |
 
-- Règl. III/4,
+- Règ.III/4,
 
-- Règl. IV/14,
+- Règ.IV/14,
 
-- Règl. V/18,
+- Règ. V/18,
 
-- Règl. X/3,
+- Règ. X/3,
 
 - Rés. MSC 36(63) de l'OMI - (Recueil HSC de 1994) 13,
 
-- Rés. MSC 97(73) de l'OMI - (Code HSC de 2000) 13.
+- Rés. MSC 97(73) de l'OMI - (Recueil HSC de 2000) 13,
 
 |
 
-- Règl. III/6,
+- Règ.III/6,
 
-- Règl. IV/7,
+- Règ.IV/7,
 
 - Rés. A.530(13) de l'OMI,
 
 - Rés. A.802(19) de l'OMI,
 
-- Rés. A.694 (17) de l'OMI,
+- Rés. A.694(17) de l'OMI,
 
-- Rés. MSC 36(63) de l'OMI - (Recueil HSC de 1994) 8, 14,
+- Rés. MSC 36(63) de l'OMI - (Recueil HSC de 1994) 8, 14.
 
 - Rés. MSC 97(73) de l'OMI - (Recueil HSC de 2000) 8, 14,
 
-- UIT-R M.628-3 (11/93).
+- UIT- R M.628-3 (11/93).
 
 |
 
@@ -878,7 +880,7 @@ Répondeur radar 9 GHz (SART)
 
 - EN 61097-1 (2007).
 
-Ou
+Ou,
 
 - CEI 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945,
 
@@ -896,11 +898,11 @@ G
 
 |
 
-A.1/4.19
+A.1/4.19.
 
 |
 
-Equipement radar pour engins à grande vitesse.
+Equipement radar pour engins à grande vitesse
 
 |
 
@@ -908,27 +910,27 @@ Transféré à l'annexe A.1/4.37
 
 |
 
-A.1/4.20
+A.1/4.20.
 
 |
 
-Indicateur d'angle de barre.
+Indicateur d'angle de barre
 
 |
 
-- Règl. V/18,
+- Règ. V/18,
 
-- Règl. X/3,
+- Règ. X/3,
 
 - Rés. MSC 36(63) de l'OMI - (Recueil HSC de 1994) 13,
 
-- Rés. MSC 97(73) de l'OMI - (Code HSC de 2000) 13.
+- Rés. MSC 97(73) de l'OMI - (Recueil HSC de 2000) 13,
 
 |
 
-- Règl. V/19,
+- Règ. V/19,
 
-- Rés. A.694 (17) de l'OMI,
+- Rés. A.694(17) de l'OMI,
 
 - Rés. MSC 36(63) de l'OMI - (Recueil HSC de 1994) 13,
 
@@ -946,7 +948,7 @@ Indicateur d'angle de barre.
 
 - EN 62288 (2008).
 
-Ou
+Ou,
 
 - CEI 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945,
 
@@ -972,23 +974,23 @@ A.1/4.21
 
 |
 
-Indicateur de vitesse de rotation.
+Indicateur de vitesse de rotation
 
 |
 
-- Règl. V/18,
+- Règ. V/18,
 
-- Règl. X/3,
+- Règ. X/3,
 
 - Rés. MSC 36(63) de l'OMI - (Recueil HSC de 1994) 13,
 
-- Rés. MSC 97(73) de l'OMI - (Code HSC de 2000) 13.
+- Rés. MSC 97(73) de l'OMI - (Recueil HSC de 2000) 13,
 
 |
 
-- Règl. V/19,
+- Règ. V/19,
 
-- Rés. A.694 (17) de l'OMI,
+- Rés. A.694(17) de l'OMI,
 
 - Rés. MSC 36(63) de l'OMI - (Recueil HSC de 1994) 13,
 
@@ -1006,7 +1008,7 @@ Indicateur de vitesse de rotation.
 
 - EN 62288 (2008).
 
-Ou
+Ou,
 
 - CEI 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945,
 
@@ -1028,27 +1030,27 @@ G
 
 |
 
-A.1/4.22
+A.1/4.22.
 
 |
 
-Indicateur de pas d'hélice.
+Indicateur de pas d'hélice
 
 |
 
-- Règl. V/18,
+- Règ. V/18,
 
-- Règl. X/3,
+- Règ. X/3,
 
 - Rés. MSC 36(63) de l'OMI - (Recueil HSC de 1994) 13,
 
-- Rés. MSC 97(73) de l'OMI - (Code HSC de 2000) 13.
+- Rés. MSC 97(73) de l'OMI - (Recueil HSC de 2000) 13,
 
 |
 
-- Règl. V/19,
+- Règ. V/19,
 
-- Rés. A.694 (17) de l'OMI,
+- Rés. A.694(17) de l'OMI,
 
 - Rés. MSC 36(63) de l'OMI - (Recueil HSC de 1994) 13,
 
@@ -1060,13 +1062,13 @@ Indicateur de pas d'hélice.
 
 - EN 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945,
 
-- série EN 61162,
+- série EN 61162.
 
 - ISO 22555 (2007),
 
 - EN 62288 (2008).
 
-Ou
+Ou,
 
 - CEI 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945,
 
@@ -1088,23 +1090,39 @@ G
 
 |
 
-A.1/4.23
+A.1/4.23.
 
 |
 
-Compas pour embarcations de sauvetage et canots de secours.
+Compas pour embarcations de sauvetage et canots de secours
 
 |
 
-- Règl. III/4,
+- Règ.III/4,
+
+- Règ. X/3,
+
+- Rés. MSC 36(63) de l'OMI - (Recueil HSC de 1994) 13,
+
+- Rés. MSC 97(73) de l'OMI - (Recueil HSC de 2000) 13,
 
 |
 
-- Règl. III/34,
+- Règ.III/34,
+
+MSC 48(66) de l'OMI - (Recueil LSA) IV, V,
+
+- Rés. MSC 36(63) de l'OMI - (Recueil HSC de 1994) 8, 13.
+
+- Rés. MSC 97(73) de l'OMI - (Recueil HSC de 2000) 8, 13,
 
 |
 
-- ISO 25862 (2009).
+- ISO 1069 (1973),
+
+- ISO 25862 (2009),
+
+- CEI 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945.
 
 |
 
@@ -1118,113 +1136,89 @@ G
 
 |
 
-- Règl. X/3,
+A.1/4.24.
 
 |
 
-- Rés. MSC 48(66) de l'OMI - (Recueil LSA) IV, V,
+Aide de pointage radar automatique (ARPA) pour engins à grande vitesse
 
 |
+
+Transféré à l'annexe A.1/4.37
+
+|
+
+A.1/4.25.
+
+|
+
+Aide de poursuite automatique (ATA)
+
+|
+
+Transféré à l'annexe A.1/4.35
+
+|
+
+A.1/4.26.
+
+|
+
+Aide de poursuite automatique (ATA) pour engins à grande vitesse
+
+|
+
+Transféré à l'annexe A.1/4.18
+
+|
+
+A.1/4.27.
+
+|
+
+Aide de pointage électronique (EPA)
+
+|
+
+Transféré à l'annexe A.1/4.36
+
+|
+
+A.1/4.28.
+
+|
+
+Système de passerelle intégré
+
+|
+
+Transféré à l'annexe A.2/4.30
+
+|
+
+A.1/4.29.
+
+|
+
+Enregistreur des données du voyage (VDR)
+
+|
+
+- Règ. V/18,
+
+- Règ. V/20,
+
+- Règ. X/3,
 
 - Rés. MSC 36(63) de l'OMI - (Recueil HSC de 1994) 13,
 
-|
-
-- Rés. MSC 36(63) de l'OMI - (Recueil HSC de 1994) 8, 13,
+- Rés. MSC 97(73) de l'OMI - (Recueil HSC de 2000) 13,
 
 |
 
-- Rés. MSC 97(73) de l'OMI - (Code HSC de 2000) 13.
+- Règ. V/20,
 
-|
-
-- Rés. MSC 97(73) de l'OMI - (Recueil HSC de 2000) 8, 13.
-
-|
-
-A.1/4.24
-
-|
-
-Aide de pointage radar automatique (ARPA) pour engins à grande vitesse.
-
-|
-
-Transféré à l'annexe A.1/4.37.
-
-|
-
-A.1/4.25
-
-|
-
-Aide de poursuite automatique (ATA).
-
-|
-
-Transféré à l'annexe A.1/4.35.
-
-|
-
-A.1/4.26
-
-|
-
-Aide de poursuite automatique (ATA) pour engins à grande vitesse.
-
-|
-
-Transféré à l'annexe A.1/4.38.
-
-|
-
-A.1/4.27
-
-|
-
-Aide de pointage électronique (EPA).
-
-|
-
-Transféré à l'annexe A.1/4.36.
-
-|
-
-A.1/4.28
-
-|
-
-Système de passerelle intégré.
-
-|
-
-Transféré à l'annexe A.2/4.30.
-
-|
-
-A.1/4.29
-
-|
-
-Enregistreur des données du voyage (VDR).
-
-|
-
-- Règl. V/18,
-
-- Règl. V/20,
-
-- Règl. X/3,
-
-- Rés. MSC 36(63) de l'OMI - (Recueil HSC de 1994) 13,
-
-- Rés. MSC 97(73) de l'OMI - (Code HSC de 2000) 13.
-
-|
-
-- Règl. V/20,
-
-- Rés. A.694 (17) de l'OMI,
+- Rés. OMI A.694(17),
 
 - Rés. MSC 36(63) de l'OMI - (Recueil HSC de 1994) 13,
 
@@ -1236,19 +1230,11 @@ Enregistreur des données du voyage (VDR).
 
 |
 
-- EN 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945,
-
-- série EN 61162,
-
-- EN 61996-1 (2008),
-
-- EN 62288 (2008). Ou
-
 - CEI 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945,
 
 - série CEI 61162,
 
-- CEI 61996-1 (2007-11),
+- CEI 61996-1 (2013-05).
 
 - CEI 62288 Ed.1.0(2008).
 
@@ -1264,27 +1250,27 @@ G
 
 |
 
-A.1/4.30
+A.1/4.30.
 
 |
 
-Système électronique de visualisation des cartes marines (ECDIS) avec sauvegarde et système de visualisation de cartes tramées (RCDS).
+Système électronique de visualisation des cartes marines (ECDIS) avec sauvegarde et système de visualisation de cartes tramées (RCDS)
 
 |
 
-- Règl. V/18,
+- Règ. V/18,
 
-- Règl. X/3,
+- Règ. X/3,
 
 - Rés. MSC 36(63) de l'OMI - (Recueil HSC de 1994) 13,
 
-- Rés. MSC 97(73) de l'OMI - (Code HSC de 2000) 8.10.
+- Rés. MSC 97(73) de l'OMI - (Recueil HSC de 2000) 13,
 
 |
 
-- Règl. V/19,
+- Règ. V/19,
 
-- Rés. A.694 (17) de l'OMI,
+- Rés. A.694(17) de l'OMI,
 
 - Rés. MSC 36(63) de l'OMI - (Recueil HSC de 1994) 13,
 
@@ -1308,7 +1294,7 @@ Système électronique de visualisation des cartes marines (ECDIS) avec sauvegar
 
 - EN 62288 (2008).
 
-Ou
+Ou,
 
 - CEI 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945,
 
@@ -1330,23 +1316,23 @@ G
 
 |
 
-A.1/4.31
+A.1/4.31.
 
 |
 
-Gyrocompas pour engins à grande vitesse.
+Gyrocompas pour engins à grande vitesse
 
 |
 
-- Règl. X/3,
+- Règ. X/3,
 
 - Rés. MSC 36(63) de l'OMI - (Recueil HSC de 1994) 13,
 
-- Rés. MSC 97(73) de l'OMI - (Code HSC de 2000) 13.
+- Rés. MSC 97(73) de l'OMI - (Recueil HSC de 2000) 13,
 
 |
 
-- Rés. A.694 (17) de l'OMI,
+- Rés. A.694(17) de l'OMI,
 
 - Rés. A.821(19) de l'OMI,
 
@@ -1366,7 +1352,7 @@ Gyrocompas pour engins à grande vitesse.
 
 - EN 62288 (2008).
 
-Ou
+Ou,
 
 - ISO 16328 (2001),
 
@@ -1388,27 +1374,27 @@ G
 
 |
 
-A.1/4.32
+A.1/4.32.
 
 |
 
-Equipement AIS (système d'identification automatique) universel.
+Equipement AIS (système d'identification automatique) universel
 
 |
 
-- Règl. V/18,
+- Règ. V/18,
 
-- Règl. X/3,
+- Règ. X/3,
 
 - Rés. MSC 36(63) de l'OMI - (Recueil HSC de 1994) 13,
 
-- Rés. MSC 97(73) de l'OMI - (Code HSC de 2000) 13.
+- Rés. MSC 97(73) de l'OMI - (Recueil HSC de 2000) 13,
 
 |
 
-- Règl. V/19,
+- Règ. V/19,
 
-- Rés. A.694 (17) de l'OMI,
+- Rés. A.694(17) de l'OMI,
 
 - Rés. MSC 36(63) de l'OMI - (Recueil HSC de 1994) 13,
 
@@ -1418,9 +1404,9 @@ Equipement AIS (système d'identification automatique) universel.
 
 - Rés. MSC 191(79) de l'OMI,
 
-- -UIT-R M. 1371-4(2010).
+- UIT- R M. 1371-4(2010).
 
-Remarque : la norme UIT-R M. 1371-4(2010) ne s'applique que dans le respect des dispositions de la rés. MSC 74(69) de l'OMI.
+Remarque: la norme UIT- R M. 1371-4(2010) ne s'applique que dans le respect des dispositions de la rés. MSC 74(69) de l'OMI.
 
 |
 
@@ -1428,17 +1414,17 @@ Remarque : la norme UIT-R M. 1371-4(2010) ne s'applique que dans le respect des 
 
 - série EN 61162,
 
-- EN 61993-2 (2001),
+- EN 61993-2 (2013).
 
 - EN 62288 (2008).
 
-Ou
+Ou,
 
 - CEI 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945,
 
 - série CEI 61162,
 
-- CEI 61993-2 (2001),
+- CEI 61993-2 (2012),
 
 - CEI 62288 Ed.1.0(2008).
 
@@ -1454,21 +1440,23 @@ G
 
 |
 
-A.1/4.33
+A.1/4.33.
 
 |
 
-Système de contrôle de poursuite (en fonction lorsque la vitesse du navire se situe entre l'allure de manœuvre minimale et 30 nœuds).
+Système de contrôle de poursuite
+
+(en fonction lorsque la vitesse du navire se situe entre l'allure de manœuvre minimale et 30 nœuds)
 
 |
 
-- Règl. V/18.
+- Règ. V/18.
 
 |
 
-- Règl. V/19,
+- Règ. V/19,
 
-- Rés. A.694 (17) de l'OMI,
+- Rés. A.694(17) de l'OMI,
 
 - Rés. MSC 74(69) de l'OMI,
 
@@ -1484,7 +1472,7 @@ Système de contrôle de poursuite (en fonction lorsque la vitesse du navire se 
 
 - EN 62288 (2008).
 
-Ou
+Ou,
 
 - CEI 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945,
 
@@ -1506,23 +1494,23 @@ G
 
 |
 
-A.1/4.34
+A.1/4.34.
 
 |
 
-Equipement radar CAT 1.
+Equipement radar CAT 1
 
 |
 
-- Règl. V/18.
+- Règ. V/18.
 
 |
 
-- Règl. V/19,
+- Règ. V/19.
 
-- Rés. A.278 (VIII) de l'OMI,
+- Rés. A.278 (VIII), de l'OMI,
 
-- Rés. A.694 (17) de l'OMI,
+- Rés. A.694(17) de l'OMI,
 
 - Rés. A.823(19) de l'OMI,
 
@@ -1530,179 +1518,7 @@ Equipement radar CAT 1.
 
 - Rés. MSC 192(79) de l'OMI,
 
-- UIT-R M. 1177-3(06/03).
-
-|
-
-- EN 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945,
-
-- série EN 61162.
-
-- EN 62288 (2008),
-
-- EN 62388 (2008). Ou
-
-- CEI 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945,
-
-- série CEI 61162
-
-- CEI 62288 Ed.1.0(2008),
-
-- CEI 62388 Ed.1.0(2007).
-
-|
-
-B + D
-
-B + E
-
-B + F
-
-G
-
-|
-
-A.1/4.35
-
-|
-
-Equipement radar CAT 2.
-
-|
-
-- Règl. V/18.
-
-|
-
-- Règl. V/19,
-
-- Rés. A.278 (VIII) de l'OMI,
-
-- Rés. A.694 (17) de l'OMI,
-
-- Rés. MSC 191(79) de l'OMI,
-
-- Rés. MSC 192(79) de l'OMI,
-
-- UIT-R M. 1177-3(06/03).
-
-|
-
-- EN 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945,
-
-- série EN 61162.
-
-- EN 62288 (2008),
-
-- EN 62388 (2008).
-
-Ou
-
-- CEI 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945,
-
-- série CEI 61162,
-
-- CEI 62288 Ed.1.0(2008).
-
-- CEI 62388 Ed.1.0(2007).
-
-|
-
-B + D
-
-B + E
-
-B + F
-
-G
-
-|
-
-A.1/4.36
-
-|
-
-Equipement radar CAT 3.
-
-|
-
-- Règl. V/18.
-
-|
-
-- Règl. V/19,
-
-- Rés. A.278 (VIII) de l'OMI,
-
-- Rés. A.694 (17) de l'OMI,
-
-- Rés. MSC 191(79) de l'OMI,
-
-- Rés. MSC 192(79) de l'OMI,
-
-- UIT-R M. 1177-3(06/03).
-
-|
-
-- EN 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945,
-
-- série EN 61162.
-
-- EN 62288 (2008),
-
-- EN 62388 (2008).
-
-Ou
-
-- CEI 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945,
-
-- série CEI 61162,
-
-- CEI 62288 Ed.1.0(2008).
-
-- CEI 62388 Ed.1.0(2007).
-
-|
-
-B + D
-
-B + E
-
-B + F
-
-G
-
-|
-
-A.1/4.37
-
-|
-
-Equipement radar pour applications d'engins à grande vitesse (CAT 1H et CAT 2H).
-
-|
-
-- Règl. X/3,
-
-- Rés. MSC 36(63) de l'OMI - (Recueil HSC de 1994) 13,
-
-- Rés. MSC 97(73) de l'OMI - (Code HSC de 2000) 13.
-
-|
-
-- Rés. A.278 (VIII) de l'OMI,
-
-- Rés. A.694 (17) de l'OMI,
-
-- Rés. MSC 36(63) de l'OMI - (Recueil HSC de 1994) 13,
-
-- Rés. MSC 97(73) de l'OMI - (Recueil HSC de 2000) 13,
-
-- Rés. MSC 191(79) de l'OMI,
-
-- Rés. MSC 192(79) de l'OMI,
-
-- UIT-R M. 1177-3(06/03).
+- UIT- R M. 1177-4(04/11).
 
 |
 
@@ -1714,7 +1530,7 @@ Equipement radar pour applications d'engins à grande vitesse (CAT 1H et CAT 2H)
 
 - EN 62388 (2008).
 
-Ou
+Ou,
 
 - CEI 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945,
 
@@ -1736,35 +1552,207 @@ G
 
 |
 
-A.1/4.38
+A.1/4.35.
+
+|
+
+Equipement radar CAT 2
+
+|
+
+- Règ. V/18.
+
+|
+
+- Règ. V/19,
+
+- Rés. A.278 (VIII), de l'OMI,
+
+- Rés. A.694(17) de l'OMI,
+
+- Rés. MSC 191(79) de l'OMI,
+
+- Rés. MSC 192(79) de l'OMI,
+
+- UIT- R M. 1177-4(04/11).
+
+|
+
+- EN 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945,
+
+- série EN 61162,
+
+- EN 62288 (2008),
+
+- EN 62388 (2008).
+
+Ou,
+
+- CEI 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945,
+
+- série CEI 61162,
+
+- CEI 62288 Ed.1.0(2008).
+
+- CEI 62388 Ed.1.0(2007).
+
+|
+
+B + D
+
+B + E
+
+B + F
+
+G
+
+|
+
+A.1/4.36.
+
+|
+
+Equipement radar CAT 3
+
+|
+
+- Règ. V/18.
+
+|
+
+- Règ. V/19,
+
+- Rés. A.278 (VIII), de l'OMI,
+
+- Rés. A.694(17) de l'OMI,
+
+- Rés. MSC 191(79) de l'OMI,
+
+- Rés. MSC 192(79) de l'OMI,
+
+- UIT- R M. 1177-4(04/11).
+
+|
+
+- EN 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945,
+
+- série EN 61162,
+
+- EN 62288 (2008),
+
+- EN 62388 (2008).
+
+Ou,
+
+- CEI 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945,
+
+- série CEI 61162,
+
+- CEI 62288 Ed.1.0(2008).
+
+- CEI 62388 Ed.1.0(2007).
+
+|
+
+B + D
+
+B + E
+
+B + F
+
+G
+
+|
+
+A.1/4.37.
+
+|
+
+Equipement radar pour applications d'engins à grande vitesse (CAT 1H et CAT 2H)
+
+|
+
+- Règ. X/3,
+
+- Rés. MSC 36(63) de l'OMI - (Recueil HSC de 1994) 13,
+
+- Rés. MSC 97(73) de l'OMI - (Recueil HSC de 2000) 13,
+
+|
+
+- Rés. A.278 (VIII), de l'OMI,
+
+- Rés. A.694(17) de l'OMI,
+
+- Rés. MSC 36(63) de l'OMI - (Recueil HSC de 1994) 13,
+
+- Rés. MSC 97(73) de l'OMI - (Recueil HSC de 2000) 13,
+
+- Rés. MSC 191(79) de l'OMI,
+
+- Rés. MSC 192(79) de l'OMI,
+
+- UIT- R M. 1177-4(04/11).
+
+|
+
+- EN 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945,
+
+- série EN 61162,
+
+- EN 62288 (2008),
+
+- EN 62388 (2008).
+
+Ou,
+
+- CEI 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945,
+
+- série CEI 61162,
+
+- CEI 62288 Ed.1.0(2008).
+
+- CEI 62388 Ed.1.0(2007).
+
+|
+
+B + D
+
+B + E
+
+B + F
+
+G
+
+|
+
+A.1/4.38.
 
 |
 
 Equipement radar approuvé avec une option cartographique, à savoir :
 
-a) CAT 1C ;
+a) CAT 1C
 
-b) CAT 2C ;
+b) CAT 2C
 
-c) CAT 1HC pour
+c) CAT 1HC pour HSC
 
-HSC ;
-
-d) CAT 2HC pour HSC.
+d) CAT 2HC pour HSC
 
 |
 
-- Règl. X/3,
+- Règ. X/3,
 
 - Rés. MSC 36(63) de l'OMI - (Recueil HSC de 1994) 13,
 
-- Rés. MSC 97(73) de l'OMI - (Code HSC de 2000) 13.
+- Rés. MSC 97(73) de l'OMI - (Recueil HSC de 2000) 13,
 
 |
 
-- Rés. A.278 (VIII) de l'OMI,
+- Rés. A.278 (VIII), de l'OMI,
 
-- Rés. A.694 (17) de l'OMI,
+- Rés. A.694(17) de l'OMI,
 
 - Rés. MSC 36(63) de l'OMI - (Recueil HSC de 1994) 13,
 
@@ -1774,7 +1762,7 @@ d) CAT 2HC pour HSC.
 
 - Rés. MSC 192(79) de l'OMI,
 
-- UIT-R M. 1177-3(06/03).
+- UIT- R M. 1177-4(04/11).
 
 |
 
@@ -1786,7 +1774,7 @@ d) CAT 2HC pour HSC.
 
 - EN 62388 (2008).
 
-Ou
+Ou,
 
 - CEI 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945,
 
@@ -1808,25 +1796,25 @@ G
 
 |
 
-A.1/4.39
+A.1/4.39.
 
 |
 
-Réflecteur radar - type passif.
+Réflecteur radar - type passif
 
 |
 
-- Règl. V/18,
+- Règ. V/18,
 
-- Règl. X/3,
+- Règ. X/3,
 
 - Rés. MSC 36(63) de l'OMI - (Recueil HSC de 1994) 13,
 
-- Rés. MSC 97(73) de l'OMI - (Code HSC de 2000) 13.
+- Rés. MSC 97(73) de l'OMI - (Recueil HSC de 2000) 13,
 
 |
 
-- Règl. V/19,
+- Règ. V/19,
 
 - Rés. MSC 36(63) de l'OMI - (Recueil HSC de 1994) 13,
 
@@ -1838,13 +1826,13 @@ Réflecteur radar - type passif.
 
 - ISO 8729-1 (2010),
 
-- EN 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945.
+- EN 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945,
 
-Ou
+Ou,
 
 - ISO 8729-1 (2010),
 
-- CEI 60945 (2002), y compris CEI 60945 corrigendum 1 (2008).
+- CEI 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945.
 
 |
 
@@ -1858,23 +1846,23 @@ G
 
 |
 
-A.1/4.40
+A.1/4.40.
 
 |
 
-Système de contrôle de route pour engins à grande vitesse.
+Système de contrôle de route pour engins à grande vitesse
 
 |
 
-- Règl. X/3,
+- Règ. X/3,
 
 - Rés. MSC 36(63) de l'OMI - (Recueil HSC de 1994) 13,
 
-- Rés. MSC 97(73) de l'OMI - (Code HSC de 2000) 13.
+- Rés. MSC 97(73) de l'OMI - (Recueil HSC de 2000) 13,
 
 |
 
-- Rés. A.694 (17) de l'OMI,
+- Rés. A.694(17) de l'OMI,
 
 - Rés. A.822(19) de l'OMI,
 
@@ -1890,11 +1878,11 @@ Système de contrôle de route pour engins à grande vitesse.
 
 - EN 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945,
 
-- série EN 61162,
+- série EN 61162.
 
 - EN 62288 (2008).
 
-Ou
+Ou,
 
 - ISO 16329 (2003),
 
@@ -1906,59 +1894,59 @@ Ou
 
 |
 
-B + D
+B+D
 
-B + E
+B+E
 
-B + F
+B+F
 
 G
 
 |
 
-A.1/4.41
+A.1/4.41.
 
 |
 
-Dispositif de contrôle de route à transmission (THD), de type GNSS.
+Dispositif de contrôle de route à transmission (THD), de type GNSS
 
 |
 
-- Règl. V/18,
+- Règ. V/18,
 
-- Règl. X/3,
-
-- Rés. MSC 36(63) de l'OMI - (Recueil HSC de 1994) 13,
-
-- Rés. MSC 97(73) de l'OMI - (Code HSC de 2000) 13.
-
-|
-
-- Règl. V/19,
-
-- Rés. A.694 (17) de l'OMI,
+- Règ. X/3,
 
 - Rés. MSC 36(63) de l'OMI - (Recueil HSC de 1994) 13,
 
 - Rés. MSC 97(73) de l'OMI - (Recueil HSC de 2000) 13,
 
-- Rés. MSC.116(73), de l'OMI,
+|
+
+- Règ. V/19,
+
+- Rés. A.694(17) de l'OMI,
+
+- Rés. MSC 36(63) de l'OMI - (Recueil HSC de 1994) 13,
+
+- Rés. MSC 97(73) de l'OMI - (Recueil HSC de 2000) 13,
+
+- Rés. MSC 116(73) de l'OMI,
 
 - Rés. MSC 191(79) de l'OMI.
 
 |
 
-- ISO 22090-3 (2004), y compris corrigendum 1 (2005),
+ISO 22090-3 (2004), y compris corrigendum 1 (2005),
 
 - EN 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945,
 
-- série EN 61162,
+- série EN 61162.
 
 - EN 62288 (2008).
 
-Ou
+Ou,
 
-- ISO 22090-3 (2004), y compris corrigendum 1 (2005),
+ISO 22090-3 (2004), y compris corrigendum 1 (2005),
 
 - CEI 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945,
 
@@ -1968,75 +1956,75 @@ Ou
 
 |
 
-B + D
+B+D
 
-B + E
+B+E
 
-B + F
-
-G
-
-|
-
-A.1/4.42
-
-|
-
-Projecteur pour engins à grande vitesse.
-
-|
-
-- Règl. X/3,
-
-- Rés. MSC 36(63) de l'OMI - (Recueil HSC de 1994) 13,
-
-- Rés. MSC 97(73) de l'OMI - (Code HSC de 2000) 13.
-
-|
-
-- Rés. A.694 (17) de l'OMI,
-
-- Rés. MSC 36(63) de l'OMI - (Recueil HSC de 1994) 13,
-
-- Rés. MSC 97(73) de l'OMI - (Code HSC de 2000) 13.
-
-|
-
-- ISO 17884 (2004),
-
-- EN 60945 (2002), y compris CEI 60945 corrigendum 1 (2008).
-
-Ou
-
-- ISO 17884 (2004),
-
-- CEI 60945 (2002), y compris CEI 60945 corrigendum 1 (2008).
-
-|
-
-B + D
-
-B + E
-
-B + F
+B+F
 
 G
 
 |
 
-A.1/4.43
+A.1/4.42.
 
 |
 
-Equipement de vision nocturne pour engins à grande vitesse.
+Projecteur pour engins à grande vitesse
 
 |
 
-- Règl. X/3,
+- Règ. X/3,
 
 - Rés. MSC 36(63) de l'OMI - (Recueil HSC de 1994) 13,
 
-- Rés. MSC 97(73) de l'OMI - (Code HSC de 2000) 13.
+- Rés. MSC 97(73) de l'OMI - (Recueil HSC de 2000) 13,
+
+|
+
+- Rés. A.694(17) de l'OMI,
+
+- Rés. MSC 36(63) de l'OMI - (Recueil HSC de 1994) 13,
+
+- Rés. MSC 97(73) de l'OMI - (Recueil HSC de 2000) 13,
+
+|
+
+- ISO 17884 (2004),
+
+- EN 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945.
+
+Ou,
+
+- ISO 17884 (2004),
+
+- CEI 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945.
+
+|
+
+B+D
+
+B+E
+
+B+F
+
+G
+
+|
+
+A.1/4.43.
+
+|
+
+Equipement de vision nocturne pour engins à grande vitesse
+
+|
+
+- Règ. X/3,
+
+- Rés. MSC 36(63) de l'OMI - (Recueil HSC de 1994) 13,
+
+- Rés. MSC 97(73) de l'OMI - (Recueil HSC de 2000) 13,
 
 |
 
@@ -2046,7 +2034,7 @@ Equipement de vision nocturne pour engins à grande vitesse.
 
 - Rés. MSC 94(72) de l'OMI,
 
-- Rés. MSC 97(73) de l'OMI - (Code HSC de 2000) 13,
+- Rés. MSC 97(73) de l'OMI - (Recueil HSC de 2000) 13,
 
 - Rés. MSC 191(79) de l'OMI.
 
@@ -2054,51 +2042,51 @@ Equipement de vision nocturne pour engins à grande vitesse.
 
 - ISO 16273 (2003),
 
-- EN 60945 (2002), y compris CEI 60945 corrigendum 1 (2008),
+- EN 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945,
 
 - EN 62288 (2008).
 
-Ou
+Ou,
 
 - ISO 16273 (2003),
 
-- CEI 60945 (2002), y compris CEI 60945 corrigendum 1 (2008),
+- CEI 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945,
 
 - CEI 62288 Ed.1.0(2008).
 
 |
 
-B + D
+B+D
 
-B + E
+B+E
 
-B + F
+B+F
 
 G
 
 |
 
-A.1/4.44
+A.1/4.44.
 
 |
 
-Récepteur de signaux de balise différentiel pour équipement DGPS et DGLONASS.
+Récepteur de signaux de balise différentiel pour équipement DGPS et DGLONASS
 
 |
 
-- Règl. V/18,
+- Règ. V/18,
 
-- Règl. X/3,
+- Règ. X/3,
 
 - Rés. MSC 36(63) de l'OMI - (Recueil HSC de 1994) 13,
 
-- Rés. MSC 97(73) de l'OMI - (Code HSC de 2000) 13.
+- Rés. MSC 97(73) de l'OMI - (Recueil HSC de 2000) 13,
 
 |
 
-- Règl. V/19,
+- Règ. V/19,
 
-- Rés. A.694 (17) de l'OMI,
+- Rés. A.694(17) de l'OMI,
 
 - Rés. MSC 36(63) de l'OMI - (Recueil HSC de 1994) 13,
 
@@ -2114,7 +2102,7 @@ Récepteur de signaux de balise différentiel pour équipement DGPS et DGLONASS.
 
 - série EN 61162,
 
-Ou
+Ou,
 
 - CEI 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945,
 
@@ -2124,55 +2112,55 @@ Ou
 
 |
 
-B + D
+B+D
 
-B + E
+B+E
 
-B + F
+B+F
 
 G
 
 |
 
-A.1/4.45
+A.1/4.45.
 
 |
 
-Matériel cartographique pour radar de bord.
+Matériel cartographique pour radar de bord
 
 |
 
-Article supprimé car pris en charge par l'annexe A.1/4.38.
+Article supprimé car pris en charge par l'annexe A.1/4.38
 
 |
 
-A.1/4.46
+A.1/4.46.
 
 |
 
-Dispositif de contrôle de route à transmission (THD), de type gyroscopique.
+Dispositif de contrôle de route à transmission (THD), de type gyroscopique
 
 |
 
-- Règl. V/18.
+- Règ. V/18.
 
-- Règl. X/3,
+- Règ. X/3,
 
 - Rés. MSC 36(63) de l'OMI - (Recueil HSC de 1994) 13,
 
-- Rés. MSC 97(73) de l'OMI - (Code HSC de 2000) 130.
+- Rés. MSC 97(73) de l'OMI - (Recueil HSC de 2000) 13.
 
 |
 
-- Règl. V/19,
+- Règ. V/19,
 
-- Rés. A.694 (17) de l'OMI,
+- Rés. A.694(17) de l'OMI,
 
 - Rés. MSC 36(63) de l'OMI - (Recueil HSC de 1994) 13,
 
 - Rés. MSC 97(73) de l'OMI - (Recueil HSC de 2000) 13,
 
-- Rés. MSC.116(73), de l'OMI,
+- Rés. MSC 116(73) de l'OMI,
 
 - Rés. MSC 191(79) de l'OMI.
 
@@ -2182,11 +2170,11 @@ Dispositif de contrôle de route à transmission (THD), de type gyroscopique.
 
 - EN 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945,
 
-- série EN 61162,
+- série EN 61162.
 
 - EN 62288 (2008).
 
-Ou
+Ou,
 
 - ISO 22090-1 (2002), y compris corr.1 (2005),
 
@@ -2208,21 +2196,21 @@ G
 
 |
 
-A.1./4.47
+A.1/1.47.
 
 |
 
-Enregistreur des données du voyage simplifié (S-VDR).
+Enregistreur des données du voyage simplifié (S-VDR)
 
 |
 
-- Règl. V/20.
+- Règ. V/20.
 
 |
 
-- Règl. V/20,
+- Règ. V/20,
 
-- Rés. A.694 (17) de l'OMI,
+- Rés. A.694(17) de l'OMI,
 
 - Rés. MSC 163(78) de l'OMI,
 
@@ -2232,13 +2220,13 @@ Enregistreur des données du voyage simplifié (S-VDR).
 
 - EN 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945,
 
-- série EN 61162,
+- série EN 61162.
 
-- EN 61996-2 (2008),
+- EN 61996-2 (2008).
 
 - EN 62288 (2008).
 
-Ou
+Ou,
 
 - CEI 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945,
 
@@ -2260,41 +2248,41 @@ G
 
 |
 
-A.1/4.48
+A.1/4.48.
 
 |
 
-Appareils de hissage du pilote.
+Appareils de hissage du pilote
 
 |
 
-Intentionnellement blanc puisque la rés. MSC 308[88] de l'OMI, qui entre en vigueur le 1er juillet 2012, stipule : "Les appareils de hissage du pilote mécaniques ne doivent pas être utilisés." ).
+Intentionnellement blanc puisque la Rés. MSC 308(88) de l'OMI, en vigueur depuis le 1er juillet 2012, stipule : Les appareils de hissage du pilote mécaniques ne doivent pas être utilisés
 
 |
 
-A.1/4.49
+A.1/4.49.
 
 |
 
-Echelle de pilote.
+Echelle de pilote
 
 |
 
-- Règl. V/23,
+- Règ. V/23,
 
-- Règl. X/3.
+- Règ.X/3.
 
 |
 
-- Règl. V/23
+- Règ. V/23,
 
-- Rés. A.1045(27) de l'OMI
+- Rés. A.1045(27)de l'OMI,
 
 - Circulaire MSC/Circ.773 de l'OMI.
 
 |
 
-- Rés. A.1045(27) de l'OMI,
+Rés. A.1045(27) de l'OMI,
 
 - ISO 799 (2004).
 
@@ -2310,27 +2298,27 @@ G
 
 |
 
-A.1/4.50
+A.1/4.50.
 
 |
 
-Equipement DGPS.
+Equipement DGPS
 
 |
 
-- Règl. V/18,
+- Règ. V/18,
 
-- Règl. X/3,
+- Règ. X/3,
 
 - Rés. MSC 36(63) de l'OMI - (Recueil HSC de 1994) 13,
 
-- Rés. MSC 97(73) de l'OMI - (Code HSC de 2000) 13.
+- Rés. MSC 97(73) de l'OMI - (Recueil HSC de 2000) 13,
 
 |
 
-- Règl. V/19,
+- Règ. V/19,
 
-- Rés. A.694 (17) de l'OMI,
+- Rés. A.694(17) de l'OMI,
 
 - Rés. MSC 36(63) de l'OMI - (Recueil HSC de 1994) 13,
 
@@ -2346,15 +2334,15 @@ Equipement DGPS.
 
 - EN 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945,
 
-- EN 61108-1 (2003),
+- EN 61108-1 (2003).
 
-- EN 61108-4 (2004),
+- EN 61108-4 (2004).
 
-- série EN 61162,
+- série EN 61162.
 
 - EN 62288 (2008).
 
-Ou
+Ou,
 
 - CEI 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945,
 
@@ -2368,39 +2356,37 @@ Ou
 
 |
 
-B + D
+B+D
 
-B + E
+B+E
 
-B + F
+B+F
 
 G
 
 |
 
-A.1/4.51
+A.1/4.51.
 
 |
 
-Equipement
-
-DGLONASS.
+Equipement DGLONASS
 
 |
 
-- Règl. V/18,
+- Règ. V/18,
 
-- Règl. X/3,
+- Règ. X/3,
 
 - Rés. MSC 36(63) de l'OMI - (Recueil HSC de 1994) 13,
 
-- Rés. MSC 97(73) de l'OMI - (Code HSC de 2000) 13.
+- Rés. MSC 97(73) de l'OMI - (Recueil HSC de 2000) 13,
 
 |
 
-- Règl. V/19,
+- Règ. V/19,
 
-- Rés. A.694 (17) de l'OMI,
+- Rés. A.694(17) de l'OMI,
 
 - Rés. MSC 36(63) de l'OMI - (Recueil HSC de 1994) 13,
 
@@ -2416,15 +2402,15 @@ DGLONASS.
 
 - EN 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945,
 
-- EN 61108-2 (1998),
+- EN 61108-2 (1998).
 
-- EN 61108-4 (2004),
+- EN 61108-4 (2004).
 
-- série EN 61162,
+- série EN 61162.
 
 - EN 62288 (2008).
 
-Ou
+Ou,
 
 - CEI 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945,
 
@@ -2438,27 +2424,27 @@ Ou
 
 |
 
-B + D
+B+D
 
-B + E
+B+E
 
-B + F
+B+F
 
 G
 
 |
 
-A.1/4.52
+A.1/4.52.
 
 |
 
-Fanal à signaux de jour.
+Fanal à signalisation de jour
 
 |
 
-- Règl. V/18,
+- Règ. V/18,
 
-- Règl. X/3,
+- Règ. X/3,
 
 - Rés. MSC 36(63) de l'OMI - (Recueil HSC de 1994),
 
@@ -2466,9 +2452,9 @@ Fanal à signaux de jour.
 
 |
 
-- Règl. V/19,
+- Règ. V/19,
 
-- Rés. A.694 (17) de l'OMI,
+- Rés. A.694(17) de l'OMI,
 
 - Rés. MSC 36(63) de l'OMI - (Recueil HSC de 1994),
 
@@ -2482,7 +2468,7 @@ Fanal à signaux de jour.
 
 - ISO 25861 (2007).
 
-Ou
+Ou,
 
 - CEI 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945,
 
@@ -2490,37 +2476,33 @@ Ou
 
 |
 
-B + D
+B+D
 
-B + E
+B+E
 
-B + F
-
-G
+B+F
 
 |
 
-A.1/4.53
-
-Voir la note b) de la présente annexe A.1.
+A.1/4.53.
 
 |
 
-Système de renforcement de cibles radar.
+Système de renforcement de cibles radar
 
 |
 
-- Règl. V/18,
+- Règ. V/18,
 
-- Règl. X/3,
+- Règ. X/3,
 
 - Rés. MSC 36(63) de l'OMI - (Recueil HSC de 1994) 13,
 
-- Rés. MSC 97(73) de l'OMI - (Code HSC de 2000) 13.
+- Rés. MSC 97(73) de l'OMI - (Recueil HSC de 2000) 13,
 
 |
 
-- Rés. A.694 (17) de l'OMI,
+- Rés. A.694(17) de l'OMI,
 
 - Rés. MSC 36(63) de l'OMI - (Recueil HSC de 1994) 13,
 
@@ -2528,15 +2510,15 @@ Système de renforcement de cibles radar.
 
 - Rés. MSC 164(78) de l'OMI,
 
-- UIT R M. 1176 (10/95).
+- UIT- R M. 1176-1(02/13).
 
 |
 
 - ISO 8729-2 (2009),
 
-- EN 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945.
+- EN 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945,
 
-Ou
+Ou,
 
 - ISO 8729-2 (2009),
 
@@ -2544,39 +2526,37 @@ Ou
 
 |
 
-B + D
+B+D
 
-B + E
+B+E
 
-B + F
+B+F
 
 G
 
 |
 
-A.1/4.54
-
-Voir la note b) de la présente annexe A.1.
+A.1/4.54.
 
 |
 
-Taximètre.
+Taximètre
 
 |
 
-- Règl. V/18.
+- Règ. V/18.
 
 |
 
-- Règl. V/19.
+- Règ. V/19.
 
 |
 
 - ISO 25862 (2009),
 
-- EN 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945.
+- EN 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945,
 
-Ou
+Ou,
 
 - ISO 25862 (2009),
 
@@ -2584,35 +2564,33 @@ Ou
 
 |
 
-B + D
+B+D
 
-B + E
+B+E
 
-B + F
+B+F
 
 G
 
 |
 
-A.1/4.55
-
-Voir la note b) de la présente annexe A.1.
+A.1/4.55.
 
 |
 
-Equipement AIS-SART.
+Equipement AIS-SART
 
 |
 
-- Règl. III/4,
+- Règ. III/4,
 
-- Règl. IV/14.
+- Règ.IV/14,
 
 |
 
-- Règl. III/6,
+- Règ.III/6,
 
-- Règl. IV/7,
+- Règ.IV/7,
 
 - Rés. MSC 246(83) de l'OMI,
 
@@ -2620,7 +2598,7 @@ Equipement AIS-SART.
 
 - Rés. MSC 256(84) de l'OMI,
 
-- UIT-R M. 1371-4(2010).
+- UIT- R M. 1371-4(2010).
 
 |
 
@@ -2628,47 +2606,45 @@ Equipement AIS-SART.
 
 - EN 61097-14 (2010).
 
-Ou
+Ou,
 
 - CEI 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945,
 
-- CEI 61097-14 (2010).
+- CEI 61097-14 (2010),
 
 |
 
-B + D
+B+D
 
-B + E
+B+E
 
-B + F
+B+F
 
 G
 
 |
 
-A.1/4.56
-
-Voir la note b) de la présente annexe A.1.
+A.1/4.56.
 
 |
 
-Récepteur Galileo.
+Récepteur Galileo
 
 |
 
-- Règl. V/18,
+- Règ. V/18,
 
-- Règl. X/3,
+- Règ. X/3,
 
 - Rés. MSC 36(63) de l'OMI - (Recueil HSC de 1994) 13,
 
-- Rés. MSC 97(73) de l'OMI - (Code HSC de 2000) 13.
+- Rés. MSC 97(73) de l'OMI - (Recueil HSC de 2000) 13,
 
 |
 
-- Règl. V/19,
+- Règ. V/19,
 
-- Rés. A.694 (17) de l'OMI,
+- Rés. A.694(17) de l'OMI,
 
 - Rés. A.813(19) de l'OMI,
 
@@ -2684,11 +2660,13 @@ Récepteur Galileo.
 
 - EN 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945,
 
-- EN 61108-3 (2010),
+- EN 61108-3 (2010).
 
 - série EN 61162,
 
-- EN 62288 (2008). Ou
+- EN 62288 (2008).
+
+Ou,
 
 - CEI 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945,
 
@@ -2700,31 +2678,29 @@ Récepteur Galileo.
 
 |
 
-B + D
+B+D
 
-B + E
+B+E
 
-B + F
+B+F
 
 G
 
 |
 
-A.1/4.57
-
-Voir la note b) de la présente annexe A.1.
+A.1/4.57.
 
 |
 
-Système d'alarme de quart à la passerelle de navigation (BNWAS).
+Système d'alarme de quart à la passerelle de navigation (BNWAS)
 
 |
 
-- Règl. V/18.
+- Règ. V/18.
 
 |
 
-- Rés. A.694 (17) de l'OMI,
+- Rés. A.694(17) de l'OMI,
 
 - Rés. MSC 128(75) de l'OMI,
 
@@ -2738,9 +2714,9 @@ Système d'alarme de quart à la passerelle de navigation (BNWAS).
 
 - EN 62288 (2008),
 
-- CEI 62616 (2010), y compris corrigendum 1 (2012) à la CEI 62616.
+- CEI 62616 (2010), y compris corrigendum 1 (2012) à la CEI 62616,
 
-Ou
+Ou,
 
 - CEI 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945,
 
@@ -2748,31 +2724,33 @@ Ou
 
 - CEI 62288 Ed.1.0(2008),
 
-- CEI 62616 (2010), y compris corrigendum 1 (2012) à la CEI 62616.
+- CEI 62616 (2010), y compris corrigendum 1 (2012) à la CEI 62616,
 
 |
 
-B + D
+B+D
 
-B + E
+B+E
 
-B + F
+B+F
 
 G
 
 |
 
-A.1/4.58
+A.1/4.58.
+
+Voir la note c) de la présente annexe A.1
 
 |
 
-Dispositif de réception sonore.
+Dispositif de réception sonore
 
 |
 
-- Règl. V/18,
+- Règ. V/18,
 
-- Règl. X/3,
+- Règ. X/3,
 
 - Rés. MSC 36(63) de l'OMI - (Recueil HSC de 1994),
 
@@ -2780,15 +2758,15 @@ Dispositif de réception sonore.
 
 |
 
-- Règl. V/19,
+- Règ. V/19,
 
-- Rés. A.694 (17) de l'OMI,
+- Rés. A.694(17) de l'OMI,
 
 - Rés. MSC 36(63) de l'OMI - (Recueil HSC de 1994),
 
-- Rés. MSC.86(70) de l'OMI,
+- Rés. MSC 86(70) de l'OMI,
 
-- Rés. MSC.97(73) de l'OMI - (Recueil HSC de 2000),
+- Rés. MSC 97(73) de l'OMI - (Recueil HSC de 2000),
 
 - Rés. MSC 191(79) de l'OMI.
 
@@ -2796,11 +2774,13 @@ Dispositif de réception sonore.
 
 - EN 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945,
 
-- série EN 61162,
+- série EN 61162.
 
 - EN 62288 (2008),
 
-- ISO 14859 (2012). Ou
+- ISO 14859 (2012).
+
+Ou,
 
 - CEI 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945,
 
@@ -2812,11 +2792,77 @@ Dispositif de réception sonore.
 
 |
 
-B + D
+B+D
 
-B + E
+B+E
 
-B + F
+B+F
+
+G
+
+|
+
+A.1/4.59.
+
+Ex A.2/4.15
+
+|
+
+Système intégré de navigation
+
+|
+
+- Règ. V/18,
+
+- Règ. X/3,
+
+- Rés. MSC 36(63) de l'OMI - (Recueil HSC de 1994) 13,
+
+- Rés. MSC 97(73) de l'OMI - (Recueil HSC de 2000) 13,
+
+|
+
+- Règ. V/19,
+
+- Rés. A.694(17) de l'OMI,
+
+- Rés. MSC 36(63) de l'OMI - (Recueil HSC de 1994) 13,
+
+- Rés. MSC 97(73) de l'OMI - (Recueil HSC de 2000) 13,
+
+- Rés. MSC 191(79) de l'OMI,
+
+- Rés. MSC 252(83) de l'OMI,
+
+- Rés. MSC 302(83) de l'OMI - (Gestion d'alerte de la passerelle)
+
+|
+
+- EN 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945,
+
+- série EN 61162.
+
+- EN 62288 (2008),
+
+- CEI 61924-2 (2012),
+
+Ou,
+
+- CEI 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945,
+
+- série CEI 61162,
+
+CEI 62288 Ed.1.0(2008).
+
+- CEI 61924-2 (2012),
+
+|
+
+B+D
+
+B+E
+
+B+F
 
 G
 
