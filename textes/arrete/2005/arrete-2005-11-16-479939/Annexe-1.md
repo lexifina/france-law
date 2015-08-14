@@ -50,18 +50,6 @@ Dans la limite de 5 400 euros.
 
 |
 
-Décisions attributives de subventions à des associations (1) (2) (3).
-
-|
-
-Le secrétaire général pour l'administration et le directeur de la mémoire du patrimoine et des archives.
-
-|
-
-Dans la limite du premier euro.
-
-|
-
 Actes d'ordonnateur définis par le décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique.
 
 |
@@ -75,9 +63,5 @@ Pour les actes et dans les limites prévus par l'arrêté du 23 avril 2015 organ
 |
 
 (1) Au-delà du seuil ainsi fixé, seul le ministre de la défense est compétent.
-
-(2) Subventions accordées sur des crédits d'intervention du programme 169 de la mission "Anciens combattants, mémoire et liens avec la nation" par le ministre délégué, chargé des anciens combattants, par délégation du ministre. Le secrétaire général pour l'administration et le directeur de la mémoire du patrimoine et des archives restent compétents en matière de programmation des crédits correspondants ainsi que d'exécution des recettes et des dépenses.
-
-(3) Hors "réserve parlementaire".
 
 |

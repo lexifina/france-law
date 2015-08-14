@@ -1,6 +1,6 @@
 # Article Annexe
 
-I. - Le commandement des forces terrestres :
+I.-Le commandement des forces terrestres :
 
 DÉSIGNATION DU COMMANDEMENT
 
@@ -10,9 +10,7 @@ SIÈGE DE L'ÉTAT-MAJOR
 
 |
 
-AUTORITÉ DÉSIGNÉE
-
-pour exercer le commandement
+AUTORITÉ DÉSIGNÉE POUR EXERCER LE COMMANDEMENT
 
 |
 
@@ -30,11 +28,9 @@ Général commandant les forces terrestres.
 
 Ce commandement est directement subordonné au chef d'état-major de l'armée de terre.
 
-II. - Les états-majors de force
+II.-Les états-majors de force :
 
-DÉSIGNATION
-
-de l'état-major de force
+DÉSIGNATION DE L'ÉTAT-MAJOR DE FORCE
 
 |
 
@@ -42,9 +38,7 @@ SIÈGE DE L'ÉTAT-MAJOR
 
 |
 
-AUTORITÉ DÉSIGNÉE
-
-pour exercer le commandement
+AUTORITÉ DÉSIGNÉE POUR EXERCER LE COMMANDEMENT
 
 |
 
@@ -60,18 +54,6 @@ Général commandant l'état-major de force n° 1.
 
 |
 
-Etat-major de force n° 2.
-
-|
-
-Nantes.
-
-|
-
-Général commandant l'état-major de force n° 2.
-
-|
-
 Etat-major de force n° 3.
 
 |
@@ -81,18 +63,6 @@ Marseille.
 |
 
 Général commandant l'état-major de force n° 3.
-
-|
-
-Etat-major de force n° 4.
-
-|
-
-Limoges.
-
-|
-
-Général commandant l'état-major de force n° 4.
 
 |
 
@@ -110,11 +80,9 @@ Général commandant le quartier général de corps de réaction rapide.
 
 Les états-majors de force sont subordonnés au commandement des forces terrestres.
 
-III. - Les brigades
+III. -Les brigades subordonnées au commandement des forces terrestres :
 
-3.1. Les brigades subordonnées au commandement des forces terrestres.
-
-3.1.1. Brigades interarmes et aéromobile.
+3.1. Les brigades interarmes.
 
 DÉSIGNATION DES BRIGADES
 
@@ -124,9 +92,7 @@ SIÈGE DE L'ÉTAT-MAJOR
 
 |
 
-AUTORITÉ DÉSIGNÉE
-
-pour exercer le commandement
+AUTORITÉ DÉSIGNÉE POUR EXERCER LE COMMANDEMENT
 
 |
 
@@ -134,7 +100,7 @@ pour exercer le commandement
 
 |
 
-Orléans.
+Illkirch-Graffenstaden.
 
 |
 
@@ -166,15 +132,15 @@ Général commandant la 1re brigade mécanisée.
 
 |
 
-3e brigade mécanisée.
+3e brigade légère blindée.
 
 |
 
-Limoges.
+Clermont-Ferrand.
 
 |
 
-Général commandant la 3e brigade mécanisée.
+Général commandant la 3e brigade légère blindée.
 
 |
 
@@ -190,15 +156,15 @@ Général commandant la 6e brigade légère blindée.
 
 |
 
-9e brigade légère blindée de marine.
+9e brigade d'infanterie de marine.
 
 |
 
-Nantes.
+Poitiers.
 
 |
 
-Général commandant la 9e brigade légère blindée de marine.
+Général commandant la 9e brigade d'infanterie de marine.
 
 |
 
@@ -222,23 +188,11 @@ Varces.
 
 |
 
-Général commandant la 27e brigade de montagne.
+Général commandant la 27e brigade d'infanterie de montagne.
 
 |
 
-4e brigade aéromobile.
-
-|
-
-Essey-lès-Nancy.
-
-|
-
-Général commandant la 4e brigade aéromobile.
-
-|
-
-3.1.2. Brigades spécialisées.
+3.2. Les brigades spécialisées.
 
 DÉSIGNATION DES BRIGADES
 
@@ -248,45 +202,19 @@ SIÈGE DE L'ÉTAT-MAJOR
 
 |
 
-AUTORITÉ DÉSIGNÉE
-
-pour exercer le commandement
+AUTORITÉ DÉSIGNÉE POUR EXERCER LE COMMANDEMENT
 
 |
 
-Brigade de transmissions.
+Brigade de transmissions et d'appui au commandement.
 
 |
 
-Lunéville.
+Douai.
 
 |
 
-Général commandant la brigade de transmissions.
-
-|
-
-Brigade d'artillerie.
-
-|
-
-Haguenau.
-
-|
-
-Général commandant la brigade d'artillerie.
-
-|
-
-Brigade du génie.
-
-|
-
-Strasbourg.
-
-|
-
-Général commandant la brigade du génie.
+Général commandant la brigade de transmissions et d'appui au commandement.
 
 |
 
@@ -294,7 +222,7 @@ Brigade de renseignement.
 
 |
 
-Montigny-lès-Metz.
+Haguenau.
 
 |
 
@@ -314,7 +242,7 @@ Général commandant la brigade des forces spéciales terre.
 
 |
 
-Brigade logistique n° 1.
+1re brigade logistique.
 
 |
 
@@ -322,6 +250,6 @@ Montlhéry.
 
 |
 
-Général commandant la brigade logistique n° 1.
+Général commandant la 1re brigade logistique.
 
 |
