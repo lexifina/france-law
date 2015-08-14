@@ -2,87 +2,61 @@
 
 MODALITÉS D'ÉVALUATION DES FORMATIONS AU TIR DE L'UV N° 2
 
-Tir, usage des armes
+I.-Description de l'épreuve
 
-Chaque agent candidat doit avoir été évalué en tir et usage des armes, par un moniteur habilité, selon les modalités décrites ci-dessous.
+Chaque agent candidat doit être évalué au " tir et usage des armes " par un moniteur de tir habilité par l'administration pénitentiaire. L'agent candidat passera cette épreuve avec l'arme en service dans l'établissement ou le service dans lequel il est affecté. Dans le cas où plusieurs armes seraient en service dans l'établissement ou le service d'affectation de l'agent, un tirage au sort déterminera l'arme avec laquelle l'agent passera cette épreuve. Dans l'hypothèse où l'établissement ou le service concerné ne disposerait pas d'armement en dotation propre, l'agent passera l'épreuve avec le même type d'armement que celui utilisé dans le cadre des formations initiales de l'Ecole nationale de l'administration pénitentiaire (ENAP), de la même manière un tirage au sort déterminera l'armement à utiliser au cours de l'épreuve.
 
-1. Approche théorique :
+Les modalités de l'épreuve figurent ci-dessous :
 
-- connaître les textes réglementaires en matière d'usage des armes : références et contenus ;
+Un contrôle des connaissances :
 
-- connaître le régime de la légitime défense ;
+-les règles fondamentales de sécurité communes applicables aux différentes armes ;
 
-- connaître les règles élémentaires de sécurité.
+-Le maniement des armes : mise en service-mise en sécurité.
 
-2. Utilisation :
+Une mise en situation professionnelle :
 
-- le maniement des armes : contrôle personnel de sécurité, mise en service, neutralisation ;
+-connaître les textes réglementaires en matière d'usage des armes : références et contenus ;
 
-- les organes de visée, les calibres et types de munitions et les différentes parties des armes ;
+-connaître le régime de la légitime défense ;
 
-- les positions de tir ;
+-connaître les règles élémentaires de sécurité.
 
-- la résolution des incidents de tir.
+La pratique du tir avec l'une des armes en dotation à l'administration pénitentiaire :
 
-3. Pratique du tir avec les armes en dotation dans l'établissement pénitentiaire suivantes :
+-le fusil à pompe Remington 870 Police, calibre 12 ;
 
-- fusil à pompe Remington 870 Police ou Benelli Supernova Tactical (FAP) ;
+-le fusil à pompe Benelli Supernova, calibre 12 ;
 
-- carabine Ruger Mini-14 AC-556 Police (AMD) ou fusil semi-automatique Heckler & Koch G36V (HK) ;
+-le fusil automatique Heckler & Koch (HKG36V), calibre 5.56 ;
 
-UV BRIGADIER
+-le fusil Mousqueton AMD, calibre 5.56 ;
 
-"TIR - Usage des armes"
+-le Sig Sauer SP 2022, calibre 9 mm ;
 
-|
+-le Glock, calibre 9 mm.
 
-NOM
+II.-Barème de l'épreuve
 
-|
+Le contrôle des connaissances (6 points) :
 
-|
+Les quatre règles fondamentales, 2 points.
 
-|
-
-Prénom
+N° ITEM
 
 |
 
-|
+CITEZ LES 4 RÈGLES FONDAMENTALES DE SÉCURITÉ COMMUNES APPLICABLES AUX DIFFÉRENTES ARMES
 
 |
 
-Grade
+VALEUR
+
+de l'item
 
 |
 
-|
-
-|
-
-Affectation actuelle
-
-|
-
-|
-
-|
-
-|
-
-Valeur
-
-de
-
-l'item
-
-|
-
-Note
-
-|
-
-Citer les 4 règles fondamentales de sécurité communes applicables aux différentes armes
+1
 
 |
 
@@ -90,9 +64,11 @@ Une arme doit toujours être considérée comme chargée
 
 |
 
-1
+0,5
 
 |
+
+2
 
 |
 
@@ -100,9 +76,11 @@ Ne jamais pointer ou laisser pointer le canon d'une arme vers un tiers ou quelqu
 
 |
 
-1
+0,5
 
 |
+
+3
 
 |
 
@@ -110,251 +88,15 @@ Garder l'index hors de la détente tant que les organes de visée ne sont pas su
 
 |
 
-1
-
-|
-
-|
-
-Être sûr de son objectif avant de tirer (Analyser- Identifier - Traiter)
-
-|
-
-1
-
-|
-
-|
-
-Contrôle personnel de sécurité / Mise en service
-
-|
-
-Mettre l'arme vers une zone neutre
-
-|
-
-1
-
-|
-
-|
-
-Contrôler l'absence du chargeur
-
-|
-
 0,5
 
 |
 
-|
-
-Contrôler visuel de la chambre de tir
+4
 
 |
 
-0,5
-
-|
-
-|
-
-Introduire le chargeur garni et vérifier son verrouillage
-
-|
-
-0,5
-
-|
-
-|
-
-Libérer la culasse pour chambrer la première cartouche
-
-|
-
-0,5
-
-|
-
-|
-
-Contrôler la présence de la cartouche dans la chambre de tir en tirant légèrement la culasse vers l'arrière et relâcher
-
-|
-
-0,5
-
-|
-
-|
-
-Le non respect d'une des 4 règles fondamentales de sécurité pendant le CPS départ entraîne 0/7,50
-
-|
-
-/7,50
-
-|
-
-Contrôle personnel de sécurité / Neutralisation
-
-|
-
-Mettre l'arme vers une zone neutre
-
-|
-
-1
-
-|
-
-|
-
-Enlever le chargeur
-
-|
-
-0,5
-
-|
-
-|
-
-Éjecter la cartouche restante
-
-|
-
-1
-
-|
-
-|
-
-Contrôle visuel de la chambre de tir
-
-|
-
-1
-
-|
-
-|
-
-Ramener la culasse à l'avant en la raccompagnant
-
-|
-
-0,5
-
-|
-
-|
-
-Désarmer le marteau
-
-|
-
-0,5
-
-|
-
-|
-
-Le non respect d'une des 4 règles fondamentales de sécurité pendant le CPS retour entraîne 0/4,50
-
-|
-
-/4,50
-
-|
-
-Total CPS
-
-|
-
-/ 12
-
-|
-
-..
-
-Total mises
-
-en situation
-
-____/8
-
-|
-
-Analyse de la situation
-
-|
-
-Sommations
-
-|
-
-Avec ou sans ouverture
-
-du feu
-
-|
-
-Communication
-
-|
-
-N.A
-
-|
-
-P.A
-
-|
-
-A
-
-|
-
-N.A
-
-|
-
-P.A
-
-|
-
-A
-
-|
-
-N.A
-
-|
-
-P.A
-
-|
-
-A
-
-|
-
-N.A
-
-|
-
-P.A
-
-|
-
-A
-
-|
-
-0
+Etre sûr de son objectif avant de tirer (analyser, identifier, traiter)
 
 |
 
@@ -362,190 +104,60 @@ A
 
 |
 
-1
+Mise en service de l'arme, 1,75 point.
 
-|
+Vous pouvez consulter l'image dans le fac-similé du JO
 
-0
+nº 0186 du 13/08/2015, texte nº 26, à l'adresse suivante :
 
-|
+http://legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20150813&numTexte=26&pageDebut=&pageFin=
 
-0.5
+Mise en sécurité de l'arme, 2,25 points.
 
-|
+Vous pouvez consulter l'image dans le fac-similé du JO
 
-1
+nº 0186 du 13/08/2015, texte nº 26, à l'adresse suivante :
 
-|
+http://legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20150813&numTexte=26&pageDebut=&pageFin=
 
-0
+La mise en situation (4 points) :
 
-|
+Réalisée sous forme d'interrogation orale, le candidat tire un sujet au sort en rapport avec l'arme sélectionnée pour l'épreuve.
 
-0.5
+Il décrit précisément l'analyse de la situation, les sommations, l'usage de l'arme ainsi que la communication à faire.
 
-|
+1 point est accordé si la réponse du candidat démontre que le savoir en la matière est acquis.
 
-1
+0,5 point est accordé si la réponse du candidat démontre que le savoir en la matière est partiellement acquis.
 
-|
+Aucun point n'est accordé si la réponse du candidat démontre que le savoir en la matière n'est pas acquis.
 
-0
+La pratique du tir (10 points) :
 
-|
+L'épreuve de tir sera évaluée selon les conditions suivantes :
 
-0.5
+Un tir de 5 cartouches : 5 points (1 point par impact dans la silhouette) :
 
-|
+-à 10 mètres pour les armes de calibres 12 (fusil à pompe Remington 870 Police et fusil à pompe Benelli Supernova), tir debout sur cible G1 ;
 
-1
+-à 15 mètres pour les armes de calibre 9 mm (Sig Sauer SP 2022 et Glock), tir debout sur cible G1 ;
 
-|
+-à 50 mètres pour les armes de calibres 5.56 (fusil automatique Heckler & Koch (HKG36) et fusil Mousqueton AMD), tir debout sur cible G1.
 
-Situation 1 : chemin de ronde (FAP)
+La mise en service de l'arme : 1,75 point (le non-respect d'une manipulation entraîne un 0/1,75).
 
-Total : ____ /4
+La mise en sécurité de l'arme : 2,25 points (le non-respect d'une manipulation entraîne un 0/2,25).
 
-|
+Les règles fondamentales : 1 point (le non-respect d'une règle entraîne un 0/1).
 
-|
+Validation du tir pour l'obtention de l'UV n° 2
 
-|
+Le niveau minimum d'habileté requis en " tir-usage des armes " pour l'obtention de l'UV n° 2 = 12/20.
 
-|
+III.-Grille d'évaluation de l'épreuve tir, usage des armes de l'UV n° 2
 
-|
+Vous pouvez consulter l'image dans le fac-similé du JO
 
-Situation 2 : utilisant l'AMD ou le HK
+nº 0186 du 13/08/2015, texte nº 26, à l'adresse suivante :
 
-Total : ____ /4
-
-|
-
-|
-
-|
-
-|
-
-|
-
-N.A : non acquis/ P.A : partiellement acquis/ A : acquis
-
-1. Tir de précision FAP
-
-|
-
-Nb d'impacts
-
-dans la silhouette
-
-|
-
-Nb de points
-
-|
-
-Total
-
-|
-
-5 cartouches à 10 mètres, tir debout sur cible G1
-
-5 cartouches à 15 mètres, tir debout sur cible G1
-
-(2 points par impact dans la silhouette. Total minimum requis de 14 points sur 20)
-
-|
-
-|
-
-|
-
-__ / 20
-
-|
-
-2. A - Tir de précision AMD
-
-|
-
-Nb d'impacts
-
-dans la silhouette
-
-|
-
-Nb de points
-
-|
-
-Total
-
-|
-
-1 chargeur de 5 cartouches à 50m, tir debout sur cible G1
-
-(4 points par impact dans la silhouette. Total minimum de 12 points sur 20 requis)
-
-|
-
-|
-
-|
-
-__ / 20
-
-|
-
-B - Tir de précision HK
-
-|
-
-Nb d'impacts
-
-dans la silhouette
-
-|
-
-Nb de points
-
-|
-
-Total
-
-|
-
-1 chargeur de 10 cartouches à 20m, tir debout au coup par coup sur cible G1
-
-(2 points par impact dans les 9 et 10 de la silhouette. Total minimum de 12 points sur 20 requis)
-
-|
-
-|
-
-|
-
-__ / 20
-
-|
-
-Total tir
-
-|
-
-__ / 40
-
-|
-
-TOTAL GENERAL
-
-Niveau minimum d'habiletés requis en TIR- usage des armes pour l'obtention de l'UV2 = 36/60
-
-|
-
-____ /60
-
-|
-
-Signature de l'évaluateur,
+http://legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20150813&numTexte=26&pageDebut=&pageFin=
