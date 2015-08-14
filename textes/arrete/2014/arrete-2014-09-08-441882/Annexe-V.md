@@ -6,7 +6,7 @@ Article 1er
 
 Champs d'application
 
-1. La pêche professionnelle au gangui (codes engin : TMB) en mer Méditerranée est soumise à la détention d'une autorisation européenne de pêche (AEP), ci-après dénommée AEP gangui . Cette AEP fait l'objet de deux options, l'option AEP gangui à panneaux ou à armature et l'option AEP petit gangui .
+1. L'AEP gangui est délivrée à tout armateur dont le navire a une longueur hors tout inférieure ou égale à 12 mètres, a une puissance motrice inférieure ou égale à 85 kW dans le cas du gangui à panneaux et inférieure ou égale à 50 kW dans le cas du petit gangui, dispose d'antériorités et figure sur la liste des navires éligibles à l'AEP gangui, établie et mise à jour par le ministre chargé des pêches maritimes.
 
 2. L'activité de gangui peut être pratiquée soit avec un gangui à panneaux ou à armature, soit avec un petit gangui, selon l'option choisie.
 

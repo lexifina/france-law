@@ -20,7 +20,7 @@ Article 3
 
 Liste des navires éligibles et contingents d'AEP
 
-1. L'AEP senne de plage peut être délivrée à tout armateur dont le navire figure sur la liste des navires éligibles établie et mise à jour par le ministre chargé des pêches maritimes.
+1. L'AEP senne de plage est délivrée à tout armateur dont le navire figure sur la liste des navires éligibles établie et mise à jour par le ministre chargé des pêches maritimes.
 
 2. Les navires éligibles à l'AEP senne de plage sont les navires d'une longueur hors tout inférieure ou égale à 18 mètres et qui disposent des antériorités de pêche à la senne de plage prévues par la règlementation communautaire en vigueur.
 
@@ -33,3 +33,13 @@ Durée de validité
 1. La date de validité de l'AEP senne de plage débute au 1er avril de l'année de délivrance et ne peut excéder le 30 novembre de l'année de délivrance.
 
 2. Par dérogation au paragraphe précédent, la capture de juvéniles de petits pélagiques est autorisée pour une durée maximale de onze semaines, comprise entre le 1er février et le 31 mai, avec un engin d'une longueur maximale de 200 mètres, d'un maillage de 2 millimètres vide de maille étirée, pratiquée par les navires d'une longueur hors tout inférieure ou égale à 12 mètres dans les eaux adjacentes au département des Alpes-Maritimes.
+
+Art. 5
+
+Conditions particulières.
+
+1. Les transferts d'AEP ne sont autorisés qu'en cas de changement d'armateur.
+
+2. Les transferts d'AEP sont interdits en cas de changement de navire.
+
+3. L'AEP est automatiquement retirée en cas de changement de navire.
