@@ -290,7 +290,7 @@ L'unité centrale ou le boîtier principal permettant l'immobilisation et ses p�
 
 3.B.9. Les caractéristiques électriques du circuit de bord ne doivent pas être affectées par le montage additionnel du dispositif (section des fils, sécurité des contacts, type de relais, etc.). En plus des connexions d'alimentations nécessaires au dispositif, la connectique interfaçant toute information provenant du véhicule nécessaire au fonctionnement de l'EAD doit être prévue par le fabricant avec une connectique conforme aux règles de câblage applicables.
 
-3.B.10. La valeur nominale limite de concentration de détection d'alcool dans l'air expiré, de blocage du dispositif, doit être réglée à une valeur au plus égale au seuil applicable à la catégorie de véhicule concernée.
+3.B.10. La valeur nominale limite de concentration de détection d'alcool dans l'air expiré, de blocage du dispositif, doit être réglée à une valeur au plus égale au seuil applicable au conducteur concerné par la mesure d'éthylotest antidémarrage et dans les conditions fixées à l'article R. 234-1 du code de la route.
 
 3.B.11. Un dispositif destiné à être monté sur un véhicule à allumage commandé équipé d'un convertisseur catalytique ne doit pas causer de pertes de carburant non brûlé dans l'échappement.
 
@@ -535,6 +535,8 @@ Marque :
 Type :
 
 Numéro du procès-verbal d'homologation nationale (EAD) :
+
+Valeur nominale limite de concentration de détection d'alcool dans l'air expiré :
 
 Fait à : le :
 
