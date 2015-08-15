@@ -194,11 +194,11 @@ Absence des certificats et documents en cours de validité requis par les instru
 
 3. Personnel navigant ne connaissant pas les dispositions du plan de gestion en matière d'élimination et d'évacuation des ordures.
 
-3.9. Domaines relevant de la convention STCW 78/95 et de la directive n° 2008/106/CE.
+3.9. Domaines relevant de la convention STCW telle qu'amendée et de la directive 2008/106/CE telle qu'amendée.
 
-1. Les gens de mer tenus d'être titulaires d'un brevet ne possèdent pas de brevet approprié ou de dispense valide, ou ne fournissent pas de documents prouvant qu'une demande de visa a été soumise à l'administration de l'Etat du pavillon.
+1. Les gens de mer tenus d'être titulaires d'un brevet d'aptitude et/ou d'un certificat d'aptitude ne possèdent pas de brevet d'aptitude approprié ou de dispense valide, et/ou de certificat d'aptitude, ou ne fournissent pas de documents prouvant qu'une demande de visa a été soumise à l'administration de l'Etat du pavillon.
 
-2. Preuve qu'un brevet a été obtenu d'une manière frauduleuse ou que la personne qui possède un brevet n'est pas celle à laquelle ce brevet avait été initialement délivré.
+2. Preuve qu'un brevet d'aptitude ou un certificat d'aptitude a été obtenu d'une manière frauduleuse ou que la personne qui possède un brevet d'aptitude ou un certificat d'aptitude n'est pas celle à laquelle ce brevet d'aptitude ou un certificat d'aptitude avait été initialement délivré.
 
 3. Les dispositions en matière d'effectifs de sécurité prévues par l'administration de l'Etat du pavillon ne sont pas respectées.
 

@@ -118,7 +118,7 @@ Les navires auxquels s'appliquent les facteurs imprévus énumérés ci-après p
 
 - les navires pour lesquels des problèmes ont été signalés en ce qui concerne leur cargaison, notamment les cargaisons nocives et dangereuses ;
 
-- les navires ayant été exploités de manière à présenter un danger pour les personnes, les biens ou l'environnement ;
+- les navires ayant été exploités de manière à présenter un danger pour les personnes, les biens ou l'environnement ou à compromettre la sûreté ;
 
 - les navires dont des informations de source sûre indiquent que les paramètres de risque sont différents de ceux enregistrés et que le profil de risque est de ce fait plus élevé.
 

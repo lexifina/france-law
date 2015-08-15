@@ -44,9 +44,9 @@ LISTES DE CERTIFICATS ET DOCUMENTS
 
 20. Document spécifiant les effectifs minimaux de sécurité.
 
-21. Certificats ou autres documents exigés conformément aux dispositions de la convention STCW 78/95.
+21. Brevets d'aptitude et/ou certificats d'aptitude ou autres documents exigés conformément aux dispositions de la convention STCW telle qu'amendée.
 
-22. Certificats médicaux (convention du travail maritime 2006).
+22. Certificats médicaux (convention du travail maritime 2006 et convention STCW telle qu'amendée).
 
 23. Tableau précisant l'organisation du travail à bord (convention du travail maritime 2006).
 

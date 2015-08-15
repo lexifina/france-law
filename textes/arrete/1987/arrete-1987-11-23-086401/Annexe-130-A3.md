@@ -358,6 +358,12 @@ CCS/CRS |
 
 CSN |
 
+Présentation du rôle d'appel des navires à passagers (SOLAS III/37) |
+
+CSN |
+
+CSN (1) |
+
 (1) Visa non requis par la réglementation internationale.
 
 (2) Avec participation du centre de sécurité chargé des visites du navire postérieures à la visite de mise en service.

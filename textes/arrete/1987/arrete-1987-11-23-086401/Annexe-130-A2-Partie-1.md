@@ -844,7 +844,9 @@ Prévention de la pollution de l'air par les navires
 
 ― certificat d'approbation et manuel d'exploitation de l'incinérateur ;
 
-― indice d'efficacité énergétique des navires neufs (EEDI) :
+― indice nominal de rendement énergétique (EEDI) des navires neufs :
+
+― L'armateur fournira un dossier technique sur l'EEDI conformément aux directives de 2012 sur les visites et la délivrance des certificats concernant l'indice nominal de rendement énergétique (MEPC.214[63]) ;
 
 L'armateur fournira un dossier technique sur l'EEDI conformément aux directives de 2012 sur les visites et la délivrance des certificats concernant l'indice nominal de rendement énergétique (MEPC. 214 [63])
 

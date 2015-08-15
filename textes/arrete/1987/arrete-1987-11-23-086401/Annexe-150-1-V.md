@@ -14,9 +14,9 @@ A. - Exemples de motifs évidents justifiant une inspection détaillée.
 
 4. Des éléments indiquent que les membres de l'équipage ne sont pas à même de satisfaire aux exigences en matière de communication à bord définies à l'article 18 de la directive n° 2008/106/CE du Parlement européen et du Conseil du 19 novembre 2008 concernant le niveau minimal de formation des gens de mer.
 
-5. Un brevet a été obtenu d'une manière frauduleuse ou la personne qui possède un brevet n'est pas celle à laquelle ce brevet avait été initialement délivré.
+5. Un brevet d'aptitude ou un certificat d'aptitude a été obtenu d'une manière frauduleuse ou la personne qui possède un brevet d'aptitude ou un certificat d'aptitude n'est pas celle à laquelle ce brevet d'aptitude ou un certificat d'aptitude avait été initialement délivré.
 
-6. Le capitaine, un officier ou un matelot du navire possède un brevet délivré par un pays qui n'a pas ratifié la convention STCW 78/95.
+6. Le capitaine, un officier ou un matelot du navire possède un brevet d'aptitude ou un certificat d'aptitude délivré par un pays qui n'a pas ratifié la convention STCW telle qu'amendée.
 
 7. Les règles de sécurité ou les directives de l'OMI ont été transgressées au niveau de la cargaison ou d'autres opérations, par exemple teneur en oxygène supérieure au niveau maximal prescrit dans les conduites acheminant le gaz inerte vers les citernes à cargaison.
 
