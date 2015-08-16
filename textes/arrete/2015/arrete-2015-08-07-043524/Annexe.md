@@ -1,0 +1,729 @@
+# Article Annexe
+
+DÉPARTEMENTS
+
+|
+
+MONTANT
+
+de la dotation
+
+(en euros)
+
+|
+
+01 AIN
+
+|
+
+95 250
+
+|
+
+02 AISNE
+
+|
+
+42 000
+
+|
+
+03 ALLIER
+
+|
+
+73 750
+
+|
+
+04 ALPES-DE-HAUTE-PROVENCE
+
+|
+
+7 750
+
+|
+
+05 HAUTES-ALPES
+
+|
+
+13 250
+
+|
+
+06 ALPES-MARITIMES
+
+|
+
+0
+
+|
+
+07 ARDÈCHE
+
+|
+
+20 500
+
+|
+
+08 ARDENNES
+
+|
+
+48 500
+
+|
+
+09 ARIÈGE
+
+|
+
+17 500
+
+|
+
+10 AUBE
+
+|
+
+21 500
+
+|
+
+11 AUDE
+
+|
+
+6 250
+
+|
+
+12 AVEYRON
+
+|
+
+140 750
+
+|
+
+13 BOUCHES-DU-RHÔNE
+
+|
+
+7 000
+
+|
+
+14 CALVADOS
+
+|
+
+95 000
+
+|
+
+15 CANTAL
+
+|
+
+94 500
+
+|
+
+16 CHARENTE
+
+|
+
+67 000
+
+|
+
+17 CHARENTE-MARITIME
+
+|
+
+32 500
+
+|
+
+18 CHER
+
+|
+
+27 000
+
+|
+
+19 CORRÈZE
+
+|
+
+67 750
+
+|
+
+2A-2B CORSE (*)
+
+|
+
+51 500
+
+|
+
+21 CÔTE-D'OR
+
+|
+
+45 500
+
+|
+
+22 CÔTES-D'ARMOR
+
+|
+
+1 254 250
+
+|
+
+23 CREUSE
+
+|
+
+62 750
+
+|
+
+24 DORDOGNE
+
+|
+
+69 750
+
+|
+
+25 DOUBS
+
+|
+
+73 250
+
+|
+
+26 DRÔME
+
+|
+
+24 000
+
+|
+
+27 EURE
+
+|
+
+49 500
+
+|
+
+28 EURE-ET-LOIR
+
+|
+
+36 500
+
+|
+
+29 FINISTÈRE
+
+|
+
+798 750
+
+|
+
+30 GARD
+
+|
+
+4 500
+
+|
+
+31 HAUTE-GARONNE
+
+|
+
+26 000
+
+|
+
+32 GERS
+
+|
+
+45 500
+
+|
+
+33 GIRONDE
+
+|
+
+10 750
+
+|
+
+34 HÉRAULT
+
+|
+
+4 750
+
+|
+
+35 ILLE-ET-VILAINE
+
+|
+
+637 250
+
+|
+
+36 INDRE
+
+|
+
+49 000
+
+|
+
+37 INDRE-ET-LOIRE
+
+|
+
+52 250
+
+|
+
+38 ISÈRE
+
+|
+
+50 250
+
+|
+
+39 JURA
+
+|
+
+40 500
+
+|
+
+40 LANDES
+
+|
+
+40 500
+
+|
+
+41 LOIR-ET-CHER
+
+|
+
+41 500
+
+|
+
+42 LOIRE
+
+|
+
+74 750
+
+|
+
+43 HAUTE-LOIRE
+
+|
+
+81 000
+
+|
+
+44 LOIRE-ATLANTIQUE
+
+|
+
+206 000
+
+|
+
+45 LOIRET
+
+|
+
+18 250
+
+|
+
+46 LOT
+
+|
+
+48 750
+
+|
+
+47 LOT-ET-GARONNE
+
+|
+
+31 750
+
+|
+
+48 LOZÈRE
+
+|
+
+29 250
+
+|
+
+49 MAINE-ET-LOIRE
+
+|
+
+232 000
+
+|
+
+50 MANCHE
+
+|
+
+213 000
+
+|
+
+51 MARNE
+
+|
+
+30 500
+
+|
+
+52 HAUTE-MARNE
+
+|
+
+40 000
+
+|
+
+53 MAYENNE
+
+|
+
+287 250
+
+|
+
+54 MEURTHE-ET-MOSELLE
+
+|
+
+45 750
+
+|
+
+55 MEUSE
+
+|
+
+57 750
+
+|
+
+56 MORBIHAN
+
+|
+
+613 250
+
+|
+
+57 MOSELLE
+
+|
+
+45 500
+
+|
+
+58 NIÈVRE
+
+|
+
+36 750
+
+|
+
+59 NORD
+
+|
+
+164 000
+
+|
+
+60 OISE
+
+|
+
+28 000
+
+|
+
+61 ORNE
+
+|
+
+105 750
+
+|
+
+62 PAS-DE-CALAIS
+
+|
+
+139 000
+
+|
+
+63 PUY-DE-DÔME
+
+|
+
+85 750
+
+|
+
+64 PYRÉNÉES-ATLANTIQUES
+
+|
+
+131 750
+
+|
+
+65 HAUTES-PYRÉNÉES
+
+|
+
+37 750
+
+|
+
+66 PYRÉNÉES-ORIENTALES
+
+|
+
+2 000
+
+|
+
+67 BAS-RHIN
+
+|
+
+36 500
+
+|
+
+68 HAUT-RHIN
+
+|
+
+15 500
+
+|
+
+69 RHÔNE
+
+|
+
+31 750
+
+|
+
+70 HAUTE-SÔNE
+
+|
+
+45 000
+
+|
+
+71 SAÔNE-ET-LOIRE
+
+|
+
+99 000
+
+|
+
+72 SARTHE
+
+|
+
+242 250
+
+|
+
+73 SAVOIE
+
+|
+
+24 250
+
+|
+
+74 HAUTE-SAVOIE
+
+|
+
+35 500
+
+|
+
+75-77-78-91-92-93-94-95 ÎLE-DE-FRANCE (*)
+
+|
+
+14 750
+
+|
+
+76 SEINE-MARITIME
+
+|
+
+110 000
+
+|
+
+79 DEUX-SÈVRES
+
+|
+
+130 500
+
+|
+
+80 SOMME
+
+|
+
+79 750
+
+|
+
+81 TARN
+
+|
+
+56 000
+
+|
+
+82 TARN-ET-GARONNE
+
+|
+
+19 000
+
+|
+
+83 VAR
+
+|
+
+0
+
+|
+
+84 VAUCLUSE
+
+|
+
+1 000
+
+|
+
+85 VENDÉE
+
+|
+
+215 250
+
+|
+
+86 VIENNE
+
+|
+
+57 000
+
+|
+
+87 HAUTE-VIENNE
+
+|
+
+53 500
+
+|
+
+88 VOSGES
+
+|
+
+46 500
+
+|
+
+89 YONNE
+
+|
+
+52 250
+
+|
+
+90 TERRITOIRE DE BELFORT
+
+|
+
+3 000
+
+|
+
+Total
+
+|
+
+8 500 000
+
+|
+
+(*) Article R. 726-1 du code rural et de la pêche maritime.
+
+|
