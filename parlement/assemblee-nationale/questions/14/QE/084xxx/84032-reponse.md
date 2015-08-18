@@ -1,0 +1,9 @@
+# Réponse à la question n° 84032
+
+- Question : [84032](84032.md) — Question n° 84032 — perspectives
+
+## Réponse
+
+*JO du 2015-08-18*
+
+L'article L. 488 du code des pensions militaires d'invalidité et des victimes de la guerre (CPMIVG) énumère les situations dans lesquelles les actes de décès doivent porter la mention « mort pour la France ». Aux termes de cet article, sont ainsi considérés comme morts pour la France notamment les militaires tués à l'ennemi ou décédés de blessures de guerre, de maladie contractée en service commandé en temps de guerre ou d'accident survenu en service, ou à l'occasion du service en temps de guerre. Ces dispositions s'imposent de manière identique à tous les militaires, quel que soit le conflit auquel ils ont participé. Dès lors, dans le respect de la réglementation en vigueur, et pour assurer une égalité entre toutes les générations du feu, il est exclu que cette mention puisse être inscrite de façon systématique sur les actes de décès de tous les militaires décédés en Afrique du Nord, quels que soient le lieu et les circonstances de leur décès. L'Office national des anciens combattants et victimes de guerre a compétence pour instruire les demandes d'attribution de la mention « mort pour la France » dans le strict respect des conditions fixées par les dispositions qui précèdent, sans dérogation aucune. Toutefois, si des difficultés particulières concernant l'attribution de cette mention devaient apparaître ou si des cas litigieux venaient à être signalés à l'établissement public, ses services ne manqueraient pas de les étudier avec diligence et toute l'attention requise. C'est dans ce cadre que le secrétaire d'État chargé des anciens combattants et de la mémoire a mis en place un groupe de travail avec les associations visant à ce que celles-ci puissent l'informer de certains dossiers individuels qui seront alors traités au cas par cas.
