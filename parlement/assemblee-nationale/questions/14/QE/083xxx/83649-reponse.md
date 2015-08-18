@@ -1,0 +1,9 @@
+# Réponse à la question n° 83649
+
+- Question : [83649](83649.md) — Question n° 83649 — instances consultatives; coût de fonctionnement
+
+## Réponse
+
+*JO du 2015-08-18*
+
+Créé par décret du 12 juillet 2011 au début de la montée en puissance du Service militaire adapté visant le doublement des places de formation proposées aux jeunes ultramarins, le Conseil du Service militaire adapté est un organe consultatif auprès du ministre des outre-mer. De par la composition et la qualité de ses membres, il a pour vocation à présenter au ministre des recommandations dans les domaines de la performance et de la prospective. Le Conseil du Service militaire adapté a pour mission de réaliser, à la demande du ministre chargé des outre-mer, des études et recherches sur les perspectives et les projets de développement du Service militaire adapté. Les membres du Conseil du Service militaire adapté exercent leur fonction à titre gratuit. Aucun budget spécifique n'est donc dédié au fonctionnement de cette instance. Cependant, des indemnités correspondant aux frais de déplacement peuvent être versées aux membres. Ces dépenses sont supportées le cas échéant par le BOP 138/SMA. En 2014, le commandement du SMA a réalisé une étude prospective appelée « SMA 2025 » avec l'appui d'un cabinet spécialisé pour envisager l'avenir du SMA à moyen et long termes. Par ailleurs, une évaluation du SMA dans le cadre de l'évaluation des politiques publiques a été initiée au dernier trimestre 2014 par la Direction générale des outre-mer. Enfin, compte-tenu des contacts réguliers et entretenus entre le général commandant le SMA et la ministre et son cabinet, de la planification de la montée en puissance du SMA 6000 jusqu'en 2017 et de la performance annuelle atteinte par le SMA, le Conseil du Service militaire adapté n'a pas été sollicité. Il ne s'est donc pas réuni et n'a donc engendré aucun frais.
