@@ -1,0 +1,9 @@
+# Réponse à la question n° 64355
+
+- Question : [64355](64355.md) — Question n° 64355 — France24; diffusion; Nouvelle-Zélande
+
+## Réponse
+
+*JO du 2015-08-18*
+
+La ministre de la culture et de la communication est particulièrement sensible à l'accès aux programmes des chaînes de télévision publiques françaises pour les Français de l'étranger. La diffusion par satellite de France 24 en Nouvelle-Zélande a effectivement été interrompue le 30 juin 2014. Le montant demandé pour le renouvellement du contrat de distribution satellitaire de France 24 sur le bouquet Sky New Zealand est apparu disproportionné au regard du nombre d'abonnés à la chaîne d'information. L'opérateur demandait notamment un coût de transport du signal satellite de près de 310 000 € par an, pour 737 abonnés recensés. France Médias Monde a ainsi décidé de redéployer les moyens qui étaient jusqu'alors mis en oeuvre dans cette zone pour développer sa diffusion dans d'autres zones considérées comme plus stratégiques, notamment en Afrique subsaharienne. Ainsi, grâce aux économies qu'a permis de réaliser le non renouvellement de son contrat de distribution satellitaire avec Sky New Zealand, France Médias Monde a notamment acquis deux émetteurs FM à Yamoussoukro et San José, afin de renforcer la présence en Côte d'Ivoire de RFI, radio la plus écoutée à Abidjan. La modification de la diffusion de France 24 en Nouvelle-Zélande ne signifie pas l'abandon de la diffusion de la chaîne d'information internationale dans ce pays. En effet, France Médias Monde étudie d'autres pistes de diffusion linéaire, moins onéreuses, notamment une éventuelle reprise sur la plate-forme IPTV de Sky New Zealand, qui sera prochainement mise en place. Enfin, il convient de souligner que France 24 est toujours accessible en Nouvelle-Zélande sur les offres non linéaires existant sur Internet et mobile.
