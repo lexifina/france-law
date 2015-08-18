@@ -1,0 +1,9 @@
+# Réponse à la question n° 80714
+
+- Question : [80714](80714.md) — Question n° 80714 — moyens; perspectives
+
+## Réponse
+
+*JO du 2015-08-18*
+
+Les effectifs de l'Office national des anciens combattants et victimes de guerre (ONAC-VG) sont, comme ceux de tous les établissements publics, soumis au respect d'un plafond d'emplois fixé annuellement dans le cadre de la loi de finances. Conformément aux orientations définies dans le contrat d'objectifs et de performance (COP) 2014-2018 de l'ONAC-VG, qui prévoit une réduction du plafond d'emplois à hauteur de 15 équivalents temps plein travaillé (ETPT) sur la période 2015-2017, ce plafond d'emplois a été fixé à 875 ETPT pour 2015. En tant qu'opérateur de l'Etat, l'ONAC-VG prend ainsi toute sa part à l'effort de maîtrise des effectifs. Son plafond d'emplois annuel sera à nouveau discuté dans le cadre de l'examen du projet de loi de finances pour 2016 qui sera soumis cet automne au Parlement. En tout état de cause, la situation des effectifs de l'Office continuera à évoluer à l'aune des impératifs découlant de la mise en oeuvre de son COP 2014-2018. L'un des axes majeurs de ce COP tient, en effet, à la nécessité pour l'Office de conforter son maillage territorial, ses services de proximité constituant un atout majeur, et de poursuivre l'effort de rénovation de ses méthodes et outils d'administration et de gestion, et ce, afin de lui permettre d'accompagner toujours mieux ses près de trois millions de ressortissants. Enfin, il peut être précisé que la loi de finances pour 2015 a porté le montant de la subvention de l'établissement public à 57,7 millions d'euros pour le présent exercice. Le montant des crédits d'action sociale a été relevé, quant à lui, à hauteur de 23,4 millions d'euros, soit une augmentation de 1,5 million d'euros par rapport à la LFI pour 2014.
