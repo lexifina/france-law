@@ -1,0 +1,9 @@
+# Réponse à la question n° 84050
+
+- Question : [84050](84050.md) — Question n° 84050 — stationnement souterrain; tarifs
+
+## Réponse
+
+*JO du 2015-08-18*
+
+L'article L. 113-7 du code de la consommation dispose que « tout exploitant de parc de stationnement affecté à un usage public applique au consommateur, pour les stationnements d'une durée inférieure à douze heures et payés à la durée, une tarification par pas de quinze minutes au plus ». Cette tarification, effective depuis le 1er juillet 2015, a été mise en place par la loi n° 2014-344 du 17 mars 2014 relative à la consommation. Cette mesure permet de rapprocher le temps payé du temps effectif de stationnement. Toutefois, dès lors que l'exploitation de la plupart des parkings est opérée dans le cadre de contrats de délégation de service public, une telle modification du régime tarifaire ne peut avoir pour effet de modifier l'équilibre économique du contrat. En effet, en contrepartie des coûts que l'exploitant doit supporter, le contrat lui garantit une rémunération résultant des recettes de stationnement. En conséquence, le changement du mode de tarification ne doit pas se traduire par une augmentation ou une diminution indue des recettes stipulées au profit de l'exploitant. Par ailleurs, une augmentation faciale du tarif horaire à l'occasion du passage à la tarification par pas de quinze minutes n'implique pas nécessairement que le prix moyen payé par les usagers augmente : si le tarif horaire augmente, le prix d'un stationnement infra-horaire baisse. Seule une étude fine réalisée sur la totalité des coûts supportés par les usagers en fonction de la répartition des durées de stationnement permettrait de faire apparaître une éventuelle évolution des prix. Il appartient à chaque délégataire, au cas d'espèce les autorités communales, d'apprécier ces éléments, sous le contrôle du juge administratif.
