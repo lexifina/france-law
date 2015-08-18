@@ -1,0 +1,9 @@
+# Réponse à la question n° 83513
+
+- Question : [83513](83513.md) — Question n° 83513 — instances consultatives; coût de fonctionnement
+
+## Réponse
+
+*JO du 2015-08-18*
+
+Conformément aux articles L. 4111-1 et D. 4111-1 à D. 4111-7 du code de la défense, le Haut Comité d'évaluation de la condition militaire (HCECM) a pour mission d'éclairer le Président de la République et le Parlement sur la situation et l'évolution de la condition militaire. A cet effet, le Haut Comité prend en compte les différents aspects juridiques, économiques, sociaux, culturels et opérationnels susceptibles d'avoir une influence, notamment sur le recrutement, la fidélisation, les conditions de vie des militaires et de leurs familles et les conditions de réinsertion dans la société civile. Le HCECM élabore chaque année un rapport public, organisé en deux parties, dans lequel il formule des avis et peut émettre des recommandations. La première partie de ce rapport, publiée au mois de mai, est consacrée à l'étude d'un thème particulier : les femmes au sein des forces armées françaises, en 2013 ; l'administration des militaires, en 2014 ; les perspectives de la condition militaire à l'horizon 2025, en 2015. La deuxième partie, publiée au mois de septembre, prend la forme d'une revue annuelle qui permet de suivre l'évolution des principales composantes de la condition militaire (recrutement, rémunération, mobilité...). Au titre de l'année 2014, les dépenses de fonctionnement du Haut Comité, correspondant pour l'essentiel aux frais de déplacement de ses membres et au financement de ses publications, se sont élevées à 20 697 euros. Le HCECM dispose en outre d'un secrétariat général permanent, composé de quatre militaires. Les dépenses annuelles de personnel correspondantes, hors pensions, imputées sur les crédits du ministère de la défense, représentent près de 250 000 euros.
