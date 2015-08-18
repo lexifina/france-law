@@ -1,0 +1,9 @@
+# Réponse à la question n° 83148
+
+- Question : [83148](83148.md) — Question n° 83148 — fusion
+
+## Réponse
+
+*JO du 2015-08-18*
+
+La fusion du comité scientifique de l'océanographie militaire (CSOM) et du comité directeur de l'océanographie militaire (CDOM) a été décidée lors du comité interministériel pour la modernisation de l'action publique du 2 avril 2013. Consécutivement à cette décision, il a été procédé à la suppression du CSOM et le CDOM s'est vu confier la mission d'animer la réflexion touchant à l'océanographie militaire précédemment dévolue au CSOM. Par ailleurs, lors de sa réunion du 7 novembre 2013, le conseil d'administration du service hydrographique et océanographique de la marine (SHOM) s'est prononcé en faveur de la création d'un conseil scientifique et technique (CST), organisme interne de l'établissement dont le périmètre d'intervention, comparé à celui du CSOM, engloberait toutes les activités menées par le SHOM en termes de recherche et d'innovation et non pas seulement celles se rapportant à l'océanographie militaire. Les membres du CST ont été nommés le 24 mars 2014, à l'occasion du 21e conseil d'administration du SHOM, pour une durée de 3 ans renouvelable une fois. Créé pour une durée de 6 ans, le CST se réunira au moins une fois tous les 18 mois et sera chargé : - d'assister le conseil d'administration et le directeur général du SHOM dans la mise en oeuvre des activités de recherche et d'innovation ; - d'examiner et de donner un avis, en matière de recherche et d'innovation, sur la gouvernance et les grandes orientations, les projets, la pertinence des propositions, les moyens, la qualité scientifique des résultats, la valorisation et la diffusion des travaux, les activités de coopération scientifique ; - d'identifier, dans le domaine civil, les technologies et axes de recherche susceptibles d'intéresser la défense. Le CST s'est réuni pour la première fois au mois de novembre 2014.
