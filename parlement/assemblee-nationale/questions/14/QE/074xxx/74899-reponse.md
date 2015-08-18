@@ -1,0 +1,9 @@
+# Réponse à la question n° 74899
+
+- Question : [74899](74899.md) — Question n° 74899 — Radio France; situation financière; perspectives
+
+## Réponse
+
+*JO du 2015-08-18*
+
+L'attention de la ministre de la culture et de la communication a été appelée sur la situation financière de Radio France. La ministre de la culture et de la communication tient, en premier lieu, à rappeler que la progression de ressource publique prévue au contrat d'objectifs et de moyens (COM) 2010 2014 a été globalement respectée jusqu'en 2012. À partir de 2013, dans un contexte extrêmement contraint pour les finances publiques, la dotation de Radio France a été stabilisée. Cette contribution de Radio France à l'effort national de redressement des finances publiques n'a pas remis en cause la capacité de l'entreprise à mettre en oeuvre les priorités stratégiques contenues dans le COM 2010-2014. Radio France a ainsi poursuivi le développement de ses activités, avec notamment la mise en oeuvre d'une ambitieuse stratégie numérique, dont les résultats témoignent aujourd'hui de son succès auprès du public, la création de France Bleu Saint-Étienne et les succès d'audience de ce réseau, et l'ouverture de la Maison de la radio autour d'un projet culturel axé sur la transmission à tous les publics. Pour la première fois en 2015, et malgré une dotation publique stable par rapport à celle allouée en 2014, Radio France présente un budget en déséquilibre. Les difficultés financières qu'elle rencontre aujourd'hui trouveront une réponse globale dans le cadre du contrat d'objectifs et de moyens en cours de discussions avec l'État, afin en particulier d'assurer la cohérence la plus complète entre les missions de service public qui lui incombent, les moyens qui lui sont alloués et les économies et redéploiements à mettre en oeuvre dans le cadre de la gestion de l'entreprise.
