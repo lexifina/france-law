@@ -1,0 +1,9 @@
+# Réponse à la question n° 62018
+
+- Question : [62018](62018.md) — Question n° 62018 — développement
+
+## Réponse
+
+*JO du 2015-08-18*
+
+À l'occasion du concours de l'Eurovision 2014, 23 pays sur 26 ont présenté un candidat chantant en anglais. La France, pour sa part, a choisi ces dernières années des artistes interprétant leurs chansons en français. S'il n'existe pas de concours de variété francophone, dont le principe doit être discuté avec les partenaires et l'Organisation internationale de la Francophonie, de grands événements comme les Francofolies de la Rochelle mettent à l'honneur, depuis 31 ans, les chanteurs francophones avec beaucoup de succès. L'édition 2015 a battu des records de fréquentation, en proposant au public des artistes qui revendiquent de chanter en français dans le monde entier (y compris dans les pays anglophones). Le festival rochelais s'exportera ainsi en septembre 2015 à Blagoevgrad, en Bulgarie. Le renouvellement des jeunes chanteurs s'exprimant en français (Louane, Vianney, Thomas Dutronc, Julien Doré, Benjamin Biolay, etc.) témoigne de la vitalité de la scène artistique en langue française. Le ministère de la culture et de la communication, pour ce qui le concerne, s'efforce de maintenir la langue française dans tous les secteurs d'activité, notamment les secteurs artistiques. Il soutient ainsi tout un ensemble de festivals prestigieux, dont le Festival des Francophonies en Limousin. La délégation générale à la langue française et aux langues de France appuie par ailleurs nombre d'initiatives telles que le projet des Caravanes francophones, dont l'objectif est de faire connaître la diversité des cultures francophones en France et dans le monde. Elle finance également, via plusieurs associations (Biblionef et Adiflor), la remise de livres en langue française dans de nombreux pays de la Francophonie.
