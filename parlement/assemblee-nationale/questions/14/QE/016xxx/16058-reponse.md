@@ -1,0 +1,9 @@
+# Réponse à la question n° 16058
+
+- Question : [16058](16058.md) — Question n° 16058 — instances consultatives; missions; moyens
+
+## Réponse
+
+*JO du 2015-08-18*
+
+La commission nationale d'action sociale (CNAS) prévue aux articles 2 et 4 de l'arrêté du 12 septembre 2012 portant création des instances de dialogue social en matière d'action sociale est commune aux ministères chargés des affaires sociales, de la santé, des sports, de la jeunesse, de l'éducation populaire, de la vie associative et de la vielle. Cette commission se réunit deux fois par an et est appelée à se prononcer sur les orientations de la politique d'action sociale en faveur des personnels relevant de ces ministères ainsi que sur les conditions générales de mise en oeuvre de cette politique. Elle est notamment amenée à examiner : - la nature des actions spécifiques à entreprendre ; - la répartition des moyens dans la limite de la dotation budgétaire affectée à l'action sociale ; - le bilan budgétaire de l'année écoulée et le projet de budget de l'année suivante. Le coût de fonctionnement annuel de la CNAS s'élève à 22 446 € en 2014, soit 11 223 € par commission. Ce coût comprend : - les frais de déplacements des participants venant de province (train, repas, hôtel) ; - le coût moyen chargé par agent participant (représentants du personnel et de l'administration) en fonction de sa catégorie et au regard du temps passé ; - le coût d'enregistrement des séances par une société extérieure. Les moyens humains (représentants du personnel et de l'administration), conformément à l'arrêté du 12 septembre 2012 précité et à l'arrêté du 12 décembre 2012 portant nomination des membres de la CNAS, sont les suivants : - Agents de catégorie A : 17, pour 1 jour travaillé chacun ; - Agents de catégorie B : 7 pour 1 jour travaillé chacun. Les moyens matériels mis à disposition sont les suivants : - Equipements audio et vidéo ; - Enregistrement des séances par une société extérieure.
