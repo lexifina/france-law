@@ -1,0 +1,9 @@
+# Réponse à la question n° 76226
+
+- Question : [76226](76226.md) — Question n° 76226 — taux réduit; livre numérique; perspectives
+
+## Réponse
+
+*JO du 2015-08-18*
+
+Le 5 mars dernier, la Cour de Justice de l'Union Européenne a rendu un arrêt par lequel elle a jugé qu'en appliquant un taux réduit de TVA à 5,5 % au livre numérique, la France n'avait pas respecté la directive européenne du 5 mai 2009 et qu'elle devait désormais se mettre en conformité avec ce texte. La Cour a notamment considéré que la directive excluait toute possibilité d'appliquer un taux réduit de TVA aux « services fournis par voie électronique » et que la fourniture de livres numériques constituait un tel service. La ministre de la culture et de la communication, conjointement avec ses homologues allemand, italien et polonais, a pris l'initiative d'une déclaration commune, à l'occasion du Salon du livre de Paris le 19 mars dernier, pour demander « l'inclusion d'une modification du droit européen permettant l'application du taux réduit de TVA aux livres numériques dans la stratégie numérique pour l'Europe ». Le 6 mai dernier, la Commission européenne a présenté sa stratégie pour un marché unique numérique en Europe. Ce même jour, le président de la Commission, Monsieur Jean-Claude Juncker, a annoncé, à l'occasion d'un discours « pour une presse libre et indépendante dans une Europe moderne », prononcé devant l'association des éditeurs de presse allemande (BDZV), qu'il souhaitait présenter en 2016 une réforme destinée à aligner les taux de TVA des livres électroniques et de la presse en ligne sur ceux des supports papier. « Le règlement de la TVA doit être technologiquement neutre », a spécifié Monsieur Jean-Claude Juncker ralliant ainsi la position défendue de longue date par le Gouvernement français.
