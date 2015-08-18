@@ -1,0 +1,9 @@
+# Réponse à la question n° 81759
+
+- Question : [81759](81759.md) — Question n° 81759 — loyers; montant; encadrement
+
+## Réponse
+
+*JO du 2015-08-18*
+
+Les règles relatives aux loyers des baux commerciaux figurent aux articles L. 145-33 à L. 145 40 du code de commerce. L'article 9 de la loi n° 2014-626 du 18 juin 2014 relative à l'artisanat, au commerce et aux très petites entreprises a supprimé la référence à l'indice du coût de la construction (ICC) pour le calcul de l'évolution du loyer lors de la révision triennale ou du renouvellement du bail en la remplaçant par l'indice des loyers commerciaux (ILC) pour les loyers des secteurs du commerce et de l'artisanat et par l'indice des loyers des activités tertiaires (ILAT) pour les autres secteurs (activités tertiaires, libérales ou industrielles). Cette suppression avait pour objectif de conduire à des évolutions moins volatiles des loyers et ainsi de contribuer à la pérennité des commerces, moins pénalisés par des fluctuations importantes de loyer. En effet, construits à partir de la somme pondérée de trois indices, l'ILC et l'ILAT, moins erratiques que l'ICC, prennent mieux en compte le niveau des prix et l'activité commerciale et sont davantage corrélés à la réalité économique des entreprises. En revanche, aucun de ces indices n'est intrinsèquement favorable aux locataires ou aux bailleurs. A titre d'exemple, l'évolution triennale des derniers indices publiés fait apparaître entre le 1er trimestre 2012 et le 1er trimestre 2015 une évolution de + 0,9 % pour l'ICC, + 1,2 % pour l'ILC et + 2,2 % pour l'ILAT. Par ailleurs, afin de constituer une référence identique pour l'ensemble des contrats, y compris les plus anciens, les valeurs de ces deux indices de référence ont été reconstituées par l'INSEE jusqu'à l'année 2005, strictement sur les mêmes bases de calcul.
