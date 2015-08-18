@@ -1,0 +1,9 @@
+# Réponse à la question n° 73794
+
+- Question : [73794](73794.md) — Question n° 73794 — dispositifs médicaux; CESE; rapport; propositions
+
+## Réponse
+
+*JO du 2015-08-18*
+
+En matière de dispositifs médicaux, l'établissement de liens forts entre la recherche académique, pourvoyeuse d'innovations de rupture, et l'application de ces innovations dans le secteur du soin est effectivement fondamental. De nombreux efforts ont déjà été faits par les pouvoirs publics dans ce sens. On peut notamment citer la création d'un institut thématique d'AVIESAN « technologies pour la santé », dont une des missions est la valorisation industrielle et le développement des projets issus des recherches de ses opérateurs ; la désignation, par le Président de la République, de la thématique « dispositifs médicaux et nouveaux équipements de santé » parmi les 34 thèmes « nouvelle France industrielle » ; et le soutien de la Banque Publique d'Investissement (BPI France) à de nombreux projets industriels d'innovations issues de la recherche académique. De plus, le projet de loi de modernisation de notre système de santé, adopté en première lecture par l'Assemblée nationale le 14 avril dernier, fixe à l'Etat un rôle de facilitateur en la matière afin de garantir un écosystème favorable à l'innovation. Enfin, à la demande des ministères chargés de la recherche et de la santé, une mission a été confiée à l'Alliance AVIESAN dans le but de renforcer la cohérence de la programmation de la recherche en santé, en améliorant sa lisibilité pour l'ensemble des acteurs, ainsi que la visibilité des résultats obtenus. Ceci doit également permettre de faciliter la valorisation de la recherche académique en santé, et donc un transfert plus rapide et plus efficace vers ses applications. Le programme hospitalier de recherche clinique (PHRC), mentionné par le conseil économique, social et environnemental (CESE), est inclus dans cet effort d'amélioration de la programmation.
