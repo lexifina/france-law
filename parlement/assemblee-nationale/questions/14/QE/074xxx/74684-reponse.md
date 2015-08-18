@@ -1,0 +1,9 @@
+# Réponse à la question n° 74684
+
+- Question : [74684](74684.md) — Question n° 74684 — servitudes; réglementation
+
+## Réponse
+
+*JO du 2015-08-18*
+
+L'article L. 621-30 du code du patrimoine définit « comme étant situé dans le champ de visibilité d'un immeuble classé ou inscrit au titre des monuments historiques tout autre immeuble, nu ou bâti, visible du premier ou visible en même temps que lui et situé dans un périmètre déterminé par une distance de 500 mètres du monument ». Seuls les travaux situés dans le champ de visibilité ainsi déterminé d'un édifice classé ou inscrit au titre des monuments historiques sont soumis au régime d'autorisation prévu par les articles L. 621-31 et L. 621-32 du même code. En application de l'article L. 621-30 pré-cité, dans le cas où seule une partie d'un lotissement se trouve dans le périmètre, les travaux sur les parcelles se trouvant hors du périmètre des abords ne sont pas soumis à ce régime d'autorisation. Il en est de même pour les travaux concernant une parcelle en partie dans ce périmètre, mais portant sur un ouvrage situé hors du périmètre. Cependant, dans le cas de travaux situés hors champ de visibilité, le chef du service territorial de l'architecture et du patrimoine peut formuler des observations ou recommandations sur le projet au titre du patrimoine, de l'architecture, de l'urbanisme ou du paysage. Enfin, l'article L. 621-30 prévoit que sur proposition de l'architecte des bâtiments de France et après accord de la commune ou des communes intéressées et enquête publique, ce périmètre peut être adapté ou modifié en fonction de la nature de l'immeuble et de son environnement. En cas de désaccord de la commune ou des communes intéressées, la décision peut-être prise par décret en Conseil d'État après avis de la Commission nationale des monuments historiques.
