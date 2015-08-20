@@ -1,0 +1,9 @@
+# Réponse à la question SEQ150214984
+
+- Question : [SEQ150214984](seq150214984.md) — Contrat d'objectif et de moyens entre l'État et Radio France
+
+## Réponse
+
+*Culture et communication, JO du 2015-08-20, page 1961*
+
+L'attention de la ministre de la culture et de la communication a été appelée sur la situation financière de Radio France. La ministre de la culture et de la communication tient, en premier lieu, à rappeler que la progression de ressource publique prévue au contrat d'objectifs et de moyens (COM) 2010 2014 a été globalement respectée jusqu'en 2012. À partir de 2013, dans un contexte extrêmement contraint pour les finances publiques, la dotation de Radio France a été stabilisée. Cette contribution de Radio France à l'effort national de redressement des finances publiques n'a pas remis en cause la capacité de l'entreprise à mettre en œuvre les priorités stratégiques contenues dans le COM 2010-2014. Radio France a ainsi poursuivi le développement de ses activités, avec notamment la mise en œuvre d'une ambitieuse stratégie numérique, dont les résultats témoignent aujourd'hui de son succès auprès du public, la création de France Bleu Saint-Étienne et les succès d'audience de ce réseau, et l'ouverture de la Maison de la radio autour d'un projet culturel axé sur la transmission à tous les publics. Pour la première fois en 2015, et malgré une dotation publique stable par rapport à celle allouée en 2014, Radio France présente un budget en déséquilibre. Les difficultés financières qu'elle rencontre aujourd'hui trouveront une réponse globale dans le cadre du contrat d'objectifs et de moyens en cours de discussions avec l'État, afin en particulier d'assurer la cohérence la plus complète entre les missions de service public qui lui incombent, les moyens qui lui sont alloués et les économies et redéploiements à mettre en œuvre dans le cadre de la gestion de l'entreprise.
