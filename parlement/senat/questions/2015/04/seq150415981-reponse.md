@@ -1,0 +1,9 @@
+# Réponse à la question SEQ150415981
+
+- Question : [SEQ150415981](seq150415981.md) — Suppression de festivals
+
+## Réponse
+
+*Culture et communication, JO du 2015-08-20, page 1966*
+
+L'annulation de certains festivals est une réelle menace pour le secteur de la création artistique et le ministère porte un regard attentif sur ces situations. Toutefois, il convient de nuancer les chiffres qui peuvent être avancés, notamment dans les médias. Il ne s'agit pas uniquement de suppression de manifestations, mais également d'annulations ponctuelles, dont les éditions reprendront en 2016. D'autre part, il convient d'ajouter que certaines manifestations recensées comme supprimées sont en fait remplacées par d'autres. Le secteur n'est pas seulement en déclin, il se renouvelle également. La ministre a confié à Monsieur Pierre Cohen une mission permettant d'objectiver la situation des festivals et, le cas échéant, de proposer des solutions. Il rendra ses conclusions en septembre. De manière plus générale, le ministère de la culture et de la communication a lancé en décembre dernier, un appel aux collectivités territoriales en les invitant à signer avec l'État des « pactes pour la culture ». En contrepartie d'un engagement de l'État à maintenir ses financements, les collectivités signataires s'engagent, sur trois ans, à maintenir les leurs. L'intention de l'État est ainsi de soutenir les collectivités territoriales qui ont placé la culture au cœur de leurs projets en maintenant les financements de l'État. Un premier pacte a été signé avec la ville de Clermont-Ferrand en début d'année. Plusieurs pactes ont depuis suivi : Cambrai, Strasbourg, Poitiers, Toulon... Le 20 mai dernier, le Premier ministre a reçu 38 signataires à l'hôtel Matignon. L'objectif est de parvenir à une centaine de pactes avant la fin de l'année.
