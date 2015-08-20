@@ -1,0 +1,9 @@
+# Réponse à la question SEQ150215015
+
+- Question : [SEQ150215015](seq150215015.md) — Aides directes aux artistes plasticiens
+
+## Réponse
+
+*Culture et communication, JO du 2015-08-20, page 1962*
+
+Le ministère de la culture et de la communication définit et assure le soutien des dispositifs d'aides directes aux artistes. Pour le secteur des arts plastiques, il peut s'agir des aides délivrées par le Centre national des arts plastiques (CNAP), ou des aides individuelles délivrées par les directions régionales des affaires culturelles (DRAC). Le CNAP a en effet pour mission d'attribuer des aides individuelles directes aux artistes et aux professionnels de l'art contemporain (soutiens pour une recherche artistique, allocations exceptionnelles, soutiens pour l'étude et la recherche en matière de restauration et de conservation d'œuvres d'art contemporain, aides à la création photographique documentaire contemporaine, soutien à la théorie et critique d'art) et des subventions à des structures professionnelles (galeries commerciales, éditeurs d'art, maisons de production audiovisuelle). Quant aux DRAC, elles attribuent des aides individuelles à la création et des allocations d'installation d'atelier et d'acquisition de gros matériel. Ces aides constituent des revenus imposables dès lors qu'elles sont versées en vue de favoriser l'exercice d'une activité lucrative même si leur versement n'a pour contrepartie la fourniture d'aucune prestation ni même l'accomplissement d'aucun acte professionnel déterminé. En conséquence, ces aides doivent être déclarées au titre des revenus catégoriels correspondant à l'activité du bénéficiaire (traitements et salaires, bénéfices non commerciaux, bénéfices commerciaux). En outre, à partir de 2013, un dispositif d'avance remboursable a été mis en place par le CNAP pour soutenir l'organisation d'expositions monographiques par les galeries. Un bilan de ce nouveau dispositif sera dressé au cours de l'année 2015.
