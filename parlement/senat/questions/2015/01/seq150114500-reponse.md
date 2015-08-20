@@ -1,0 +1,9 @@
+# Réponse à la question SEQ150114500
+
+- Question : [SEQ150114500](seq150114500.md) — Apologie sur les réseaux sociaux d'actes terroristes et antisémites
+
+## Réponse
+
+*Justice, JO du 2015-08-20, page 1978*
+
+La loi du 13 novembre 2014 renforçant les dispositions relatives à la lutte contre le terrorisme a sorti les délits de provocation aux actes de terrorisme et d'apologie de ces actes de la loi du 29 juillet 1881 sur la liberté de la presse et les a introduits dans le code pénal dans un nouvel article 421-2-5. Ce transfert induit notamment une modification du régime de prescription, permet le recours à certaines techniques spéciales d'enquête et l'application des règles de poursuites de droit commun, exclues en matière de presse, telle la possibilité de recourir à la procédure de comparution immédiate. Le fait de provoquer directement à des actes de terrorisme ou de faire publiquement l'apologie de ces actes est puni de cinq ans d'emprisonnement et de 75 000 € d'amende. La loi du 13 novembre 2014 a également renforcé la répression de l'apologie et de la provocation au terrorisme concernant les faits commis via internet. La peine encourue est alors portée à sept ans d'emprisonnement et à 100 000 € d'amende. Les faits d'apologie du terrorisme, notamment commis par le biais d'internet et des réseaux sociaux à la suite des attentats de Paris des 7, 8 et 9 janvier 2015, ont ainsi vocation à être poursuivis et réprimés au visa de cette nouvelle disposition du code pénal. S'il n'appartient pas au garde des sceaux de donner quelque instruction que ce soit aux parquets dans le cadre d'affaires individuelles ni d'interférer dans les procédures judiciaires, le ministère de la justice a adressé, dès le 12 janvier 2015, une dépêche aux parquets les invitant à faire preuve de réactivité, et de fermeté pour l'ensemble des faits de provocation au terrorisme et d'apologie du terrorisme traduisant une atteinte grave aux valeurs de respect et de tolérance.
