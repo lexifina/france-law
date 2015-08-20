@@ -1,0 +1,9 @@
+# Réponse à la question SEQ150315345
+
+- Question : [SEQ150315345](seq150315345.md) — Difficultés liées aux inscriptions à Pôle emploi
+
+## Réponse
+
+*Travail, emploi, formation professionnelle et dialogue social, JO du 2015-08-20, page 1987*
+
+La convention tripartite 2015-2018 signée entre l'État, Pôle Emploi et l'Unedic prévoit que Pôle emploi développe une nouvelle offre digitale accessible à tous et favorisant l'innovation, et ainsi passer pleinement à l'ère numérique. Ceci doit permettre de répondre à l'évolution des usages, les demandeurs d'emploi et les salariés étant de plus en plus nombreux à utiliser internet, à la fois pour rechercher des offres d'emploi, développer et faire connaître leurs compétences, et accéder à la formation. C'est également un levier majeur d'amélioration de l'offre de services de Pôle emploi, en permettant de créer de nouveaux services, d'améliorer la qualité de l'offre existante, d'en faciliter l'accès et d'aider les conseillers dans leurs différents actes métier. Concernant l'inscription, la convention tripartite fixe un objectif de dématérialisation. Il s'agit d'un axe majeur d'amélioration du service rendu aux demandeurs d'emploi, en les indemnisant plus rapidement et en concentrant le premier entretien sur le diagnostic et le démarrage de l'accompagnement, la constitution du dossier du demandeur d'emploi ayant été traitée en amont par voie dématérialisée. Pour autant, les moyens nécessaires seront mis en œuvre pour permettre l'accès dans de bonnes conditions à ces services pour l'ensemble des demandeurs d'emploi : un accompagnement personnalisé, par téléphone ou physiquement en agence, est disponible pour ceux qui en ont besoin. Par ailleurs, le développement des maisons de service au public permettra aux demandeurs d'emploi dans les zones les plus enclavées de bénéficier également d'un accompagnement pour l'accès et l'utilisation des services numériques.
