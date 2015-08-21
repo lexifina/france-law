@@ -3834,7 +3834,7 @@ Les notes relatives au tableau de l'annexe IV liste des règlements CEE-ONU ayan
 
 (2) Véhicule ou installation.
 
-(3) Niveau A pour les véhicules complets et incomplets. Niveau B pour les véhicules complétés. En ce cas, toute transformation apportée sur ce thème sur un véhicule ayant initialement fait l'objet d'une réception partielle en vertu du règlement de Genève n° 48 sera également validée selon ce même règlement.
+(3) Niveau A pour les véhicules complets et incomplets réceptionnés selon les dispositions du règlement de Genève n° 48. Niveau B pour les véhicules complétés et complets et incomplets réceptionnés selon les dispositions de l'arrêté du 16 juillet 1954. En ce cas, toute transformation apportée sur ce thème sur un véhicule ayant initialement fait l'objet d'une réception partielle en vertu du règlement de Genève n° 48 sera également validée selon ce même règlement.
 
 (4) Niveau B sauf pour :
 
@@ -3852,7 +3852,7 @@ Les notes relatives au tableau de l'annexe IV liste des règlements CEE-ONU ayan
 
 (8) Niveau A si le véhicule fait lui-même office de dispositif de protection avant, arrière ou de protection latérale, Niveau B en cas d'installation d'une entité.
 
-(9) Niveau A pour les cas de systèmes complexe de contrôle électronique des véhicules. Niveau C pour les cas de systèmes mécaniques.
+(9) Niveau A pour les cas de systèmes complexe de contrôle électronique des véhicules. Niveau B pour les cas de systèmes mécaniques.
 
 (10) L'installation de l'aide au freinage d'urgence (AFU) et/ou du contrôle électronique de trajectoire (ESC) n'est pas requise. S'ils sont installés, ils doivent être conformes aux dispositions réglementaires.
 

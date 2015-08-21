@@ -906,11 +906,11 @@ B (2)
 
 A (2)
 
-|
+(*) |
 
 A (2)
 
-|
+(*) |
 
 B (2)
 
@@ -918,11 +918,11 @@ B (2)
 
 A (2)
 
-|
+(*) |
 
 A (2)
 
-|
+(*) |
 
 B (2)
 
@@ -3820,6 +3820,8 @@ Les notes relatives au tableau de l'annexe IV liste des règlements CEE-ONU ayan
 
 (2) Véhicule ou installation.
 
+(*) Niveau B si l'opération technique ne concerne que la pose d'entités homologuées.
+
 (3) Toute transformation apportée sur ce thème sur un véhicule ayant initialement fait l'objet d'une réception partielle en vertu du règlement de Genève n° 48 sera également validée selon ce même règlement.
 
 (4) Niveau B sauf pour :
@@ -3864,7 +3866,7 @@ Les notes relatives au tableau de l'annexe IV liste des règlements CEE-ONU ayan
 
 X : la conformité totale à l'acte réglementaire est exigée ; la fiche de réception CE est délivrée ; la conformité de la production est assurée.
 
-A : la fiche de réception et la marque de réception ne sont pas exigées. Des rapports d'essais doivent être établis par un service technique notifié par la France. Pour les points 15, 19 et 31, et uniquement dans le cas de réception de véhicules complétés, les rapports d'essais peuvent être établis par un service technique notifié dans un autre Etat membre.
+A : la fiche de réception et la marque de réception ne sont pas exigées. Les rapports d'essais doivent être établis par un service technique notifié dans un Etat membre de l'UE.
 
 B : les prescriptions techniques de l'acte réglementaire doivent être respectées. Les essais prévus dans l'acte réglementaire doivent être réalisés intégralement ; ils peuvent être réalisés par le constructeur lui-même, qui émet alors le rapport technique, sous réserve de l'accord du service en charge des réceptions.
 
