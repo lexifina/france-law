@@ -1230,18 +1230,6 @@ Articles 15 et 16
 
 |
 
-3
-
-|
-
-Décision prise sur recours administratif préalable.
-
-|
-
-Article 28
-
-|
-
 Décret n° 2007-937 du 15 mai 2007 relatif à la sûreté des navires :
 
 1
