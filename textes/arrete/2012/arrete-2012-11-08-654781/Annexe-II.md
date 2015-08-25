@@ -42,4 +42,4 @@ Cachet de l'organisme ayant dispensé la formation et signature du titulaire de 
 
 Avertissement :
 
-Le titulaire de la présente attestation ne sera autorisé à conduire les cyclomoteurs ou les quadricycles légers à moteur qu'à compter du jour où il sera en possession de son titre de conduite correspondant.
+Le titulaire de la présente attestation, pendant une durée de quatre mois à compter de la date de sa délivrance, est autorisé à conduire, sur le territoire national, les cyclomoteurs ou les quadricycles légers à moteur.
