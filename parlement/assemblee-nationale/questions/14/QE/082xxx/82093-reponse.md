@@ -1,0 +1,9 @@
+# Réponse à la question n° 82093
+
+- Question : [82093](82093.md) — Question n° 82093 — commissions administratives à caractère consultatif; missions; pertinence
+
+## Réponse
+
+*JO du 2015-08-25*
+
+Conformément à l'article R. 133-1 et suivants du code de l'environnement, le conseil national de la protection de la nature possède un rôle de conseiller scientifique et technique auprès du ministre en charge de l'environnement. Le conseil national de la protection de la nature (CNPN) donne ainsi au ministre son avis sur les moyens propres à la préservation, la restauration de la diversité de la flore et de la faune sauvages et des habitats naturels. Il assure la protection des espaces naturels et le maintien des équilibres biologiques auxquels ils participent. Il donne également son avis sur les mesures législatives et réglementaires, et les travaux scientifiques afférents à ces objets. Ses membres assurent leurs missions auprès du CNPN à titre bénévole et ne touchent ainsi strictement aucune rémunération. Ainsi, le coût de fonctionnement du CNPN se limite aux remboursements des frais de mission de ses membres. Il s'avère donc que c'est la solution la plus économique pour satisfaire aux obligations de consultation. Entre le CNPN plénier, le permanent et les commissions spécialisées, 40 réunions sont organisées par an. De plus, les commissions administratives consultatives font régulièrement l'objet d'une évaluation au vu du nombre de réunions et des travaux réalisés (rapports d'activité). Le projet de loi pour la reconquête de la nature, de la biodiversité et des paysages vise à mettre en place un nouveau Conseil national de protection de la nature, qui deviendra désormais l'instance d'expertise scientifique et technique du ministère reconnue par la loi. Composé d'experts, son rôle sera d'éclairer la décision sur les orientations générales et sur des projets précis relatifs à la biodiversité.
