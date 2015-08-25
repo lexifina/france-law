@@ -1,0 +1,9 @@
+# Réponse à la question n° 84869
+
+- Question : [84869](84869.md) — Question n° 84869 — installations lumineuses; réglementation
+
+## Réponse
+
+*JO du 2015-08-25*
+
+Le ministère de l'écologie est très attaché à la réduction des nuisances et inconvénients causés par la pollution lumineuse. Le premier arrêté pris en application de l'article L. 583-2 du code de l'environnement est l'arrêté du 25 janvier 2013, réglementant le fonctionnement des dispositifs d'éclairage des bâtiments non résidentiels. Il est publié au Journal officiel de la république française du 30 janvier 2013. Ce texte permet de réduire l'empreinte de l'éclairage artificiel sur l'environnement nocturne et constitue également une mesure de sobriété énergétique. Estimées à 2 TWh par an par l'Agence de l'environnement et de la maîtrise de l'énergie (ADEME), les économies d'énergie attendues équivalent à la consommation électrique annuelle d'environ 750 000 ménages. Cette disposition permet d'éviter le rejet chaque année de 250 000 tonnes de CO2. Il est précisé que le législateur a considéré que le contrôle de l'application de l'arrêté du 25 janvier 2013 relevait de la compétence des maires sauf pour les installations communales pour lesquelles il relève de l'État. Ce dispositif réglementaire sera ultérieurement complété par des dispositions concernant notamment l'éclairage public, l'éclairage de mise en valeur du patrimoine et l'éclairage des installations sportives extérieures telles que les stades. Il existe par ailleurs, une réglementation relative à la publicité extérieure, aux enseignes et aux préenseignes qui a également pour objet d'augmenter la sobriété énergétique et de réduire les nuisances visuelles. Elle résulte notamment du décret n° 2012-118 du 31 janvier 2012 relatif à la publicité extérieure, aux enseignes et aux préenseignes. Des prescriptions concernant la luminance de ces installations seront arrêtées dans les meilleurs délais.
