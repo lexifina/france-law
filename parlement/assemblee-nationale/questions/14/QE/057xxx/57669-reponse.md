@@ -1,0 +1,9 @@
+# Réponse à la question n° 57669
+
+- Question : [57669](57669.md) — Question n° 57669 — vitres teintées; réglementation
+
+## Réponse
+
+*JO du 2015-08-25*
+
+Un nombre important d'automobilistes équipe les vitres avant de leur véhicule de films ou dispositif opacifiants. Cette pratique rend difficile voire impossible la constatation de certains comportements dangereux (utilisation du téléphone au volant, non port de la ceinture de sécurité...) et altère la capacité d'anticipation des autres usagers de la route (piétons et deux-roues notamment). Outre le fait qu'elle rompt l'égalité des usagers face à la règle, cette situation crée une situation d'insécurité pour les agents des forces de l'ordre et des polices municipales en intervention. Fort de ce constat, le Conseil national de la sécurité routière a, le 21 juin 2013, adopté une recommandation proposant d'interdire une teinte trop opaque des vitres latérales avant des véhicules et d'étudier l'élargissement de l'interdiction de surteintage à l'ensemble des vitres. Sur la base de cette recommandation, le ministre de l'intérieur a annoncé, en lien avec le ministère des transports en charge de cette réglementation, que les dispositions relatives à la teinte des vitrages avant des véhicules seraient précisées. Ce point fait l'objet de la mesure n° 23 annoncée dans le plan d'action pour la sécurité routière présenté le 26 janvier 2015 par le ministre de l'intérieur. Les dispositions réglementaires actuelles prévoient que le taux de transmission lumineuse des vitrages avant ne doit pas être inférieur à 70 %. Pour préciser la réglementation et en permettre sa parfaite application, les ministres de l'intérieur et des transports envisagent de modifier le code de la route. Une enquête menée auprès des autres États-membres de l'Union européenne (UE) montre une convergence d'analyse et d'action envers cette pratique.
