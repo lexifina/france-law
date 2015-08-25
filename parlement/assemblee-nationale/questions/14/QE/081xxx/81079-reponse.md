@@ -1,0 +1,9 @@
+# Réponse à la question n° 81079
+
+- Question : [81079](81079.md) — Question n° 81079 — régions; fusion; conséquences
+
+## Réponse
+
+*JO du 2015-08-25*
+
+La réforme de l'organisation territoriale de l'État dans le cadre des fusions de régions fait l'objet d'un suivi très attentif de l'ensemble du Gouvernement. La communication en Conseil des ministres du 22 avril 2015 portée par le Premier ministre, le ministre de l'intérieur et le secrétaire d'État à la réforme de l'État et à la simplification, fixe le cadre et les principes de cette réforme, en insistant sur les enjeux d'efficacité du fonctionnement administratif mais aussi d'équilibre territorial et de cohésion sociale. Les préfets préfigurateurs désignés en avril sont chargés d'élaborer une proposition de macro organisation des services territoriaux de l'État, dans le respect de ces principes, qui donnera lieu à un arbitrage du Premier ministre dans le courant de l'été. L'organisation validée dans ses grandes lignes sera ensuite affinée au cours de l'automne, et entrera progressivement en vigueur entre le 1er janvier 2016 et la fin de l'année 2018. La méthode retenue garantit une place importante à la concertation et au dialogue social. Par ailleurs, le Gouvernement travaille au déploiement d'un dispositif d'accompagnement individuel des agents qui seraient concernés par une mobilité géographique ou par une mobilité fonctionnelle, du fait de l'évolution des missions. La ministre en charge de l'égalité des territoires est particulièrement attentive aux impacts territoriaux de la réforme, sujet sur lequel une mission d'évaluation et de suivi a été confiée au Commissariat général à l'égalité des territoires (CGET) par le Premier ministre. La ministre veillera notamment à ce que les villes qui vont perdre le statut de capitale régionale ne connaissent pas de diminutions d'effectifs trop importantes et puissent être aidées à conserver leur attractivité.
