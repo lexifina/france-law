@@ -1,0 +1,9 @@
+# Réponse à la question n° 83149
+
+- Question : [83149](83149.md) — Question n° 83149 — fusion
+
+## Réponse
+
+*JO du 2015-08-25*
+
+Lors du comité interministériel pour la modernisation de l'action publique du 2 avril 2013, il a été décidé de fusionner le comité de règlement des contestations en douane (CRCD) chargé, conformément à l'article L. 2335-19 du code de la défense, d'arbitrer les litiges entre l'administration et des personnes physiques ou morales à l'occasion d'opérations douanières (exportation, importation, transit) concernant du matériel de guerre, des armes ou des munitions et la commission interministérielle mentionnée à l'article R. 311-3 du code de la sécurité intérieure, chargée d'émettre un avis à l'attention du ministre de la défense ou des ministres intéressés sur le classement d'une arme, d'un élément d'arme ou d'une munition dans l'une des quatre catégories instituées par la loi n° 2012-304 du 6 mars 2012 relative à l'établissement d'un contrôle des armes moderne, simplifié et préventif. Dans cette optique, une première étape a été franchie dans le cadre de l'ordonnance n° 2014-792 du 10 juillet 2014 portant application de l'article 55 de la loi n° 2013-1168 du 18 décembre 2013 relative à la programmation militaire pour les années 2014 à 2019 et portant diverses dispositions concernant la défense et la sécurité nationale, qui a supprimé le fondement législatif du CRCD en abrogeant l'article L. 2335-19 du code de la défense. Le regroupement de ces deux organismes au sein d'une instance unique ayant pour mission d'interpréter les textes réglementaires en matière de classement des matériels de guerre, armes et munitions pourra en conséquence désormais intervenir dès que les compétences respectives du ministère de la défense et du ministère de l'intérieur en termes de contrôle de ces équipements auront été délimitées.
