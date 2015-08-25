@@ -1,0 +1,9 @@
+# Réponse à la question n° 78560
+
+- Question : [78560](78560.md) — Question n° 78560 — cargo Karl; port de Brest; litige; perspectives
+
+## Réponse
+
+*JO du 2015-08-25*
+
+L'immobilisation à Brest du navire Karl et de son équipage, depuis le 23 février 2015, a conduit à l'établissement d'un constat d'abandon le 15 avril 2015 par les services de la direction départementale des territoires et de la mer / délégation à la mer et au littoral du Finistère (DDTM/DML). Le défaut du paiement de salaires pour le mois de mars 2015 et l'absence de rapatriement des marins dont le contrat est échu, obligations prévues respectivement par la norme A2.2 et A2.2, paragraphe 1a, de la convention du travail maritime, ont conduit la DML à poursuivre cette action par mise en demeure de la société propriétaire du navire le 20 avril 2015 (société Overseas association foundation). Une action concertée des services de l'État au niveau national et local, et la collaboration des acteurs locaux ont permis de prendre en charge la situation sociale des marins dans l'attente de leur rapatriement mené début mai par l'office français de l'immigration et de l'intégration (OFII). L'essentiel de l'aide s'est concentrée autour de la mobilisation du fonds d'aide sociale en faveur des marins abandonnés destiné à apporter une aide aux marins pour pourvoir à leurs besoins immédiats et à leurs charges de famille. La somme de 20 500 euros a ainsi été versée aux marins à titre d'aide sociale, le service social maritime ayant été sollicité pour réaliser des enquêtes permettant de déterminer les aides nécessaires aux besoins de chaque marin. Concernant le paiement des salaires, les marins ont saisi la fédération internationale des ouvriers du transport pour envisager une action judiciaire afin de garantir leurs créances salariales. L'État mène une action en parallèle au côté de la région Bretagne afin de trouver une solution pour le navire et sa cargaison après le départ de l'équipage.
