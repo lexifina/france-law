@@ -1,0 +1,9 @@
+# Réponse à la question n° 26077
+
+- Question : [26077](26077.md) — Question n° 26077 — terrains; cession; réglementation
+
+## Réponse
+
+*JO du 2015-08-25*
+
+L'article R. 3211-13 du code général de la propriété des personnes publiques (CG3P) précise que l'aliénation des terrains, bâtis ou non bâtis, du domaine privé de l'État mentionnés à l'article L. 3211-7 peut être consentie à un prix inférieur à la valeur vénale déterminée par le directeur départemental des finances publiques, par application d'une décote dans les conditions prévues aux articles R. 3211-14 à R. 3211-17-4. Les terrains bâtis s'entendent de ceux dont les constructions existantes sont destinées à être démolies ou restructurées en vue de permettre la réalisation des programmes de construction. L'extension du régime de la décote aux biens bâtis constitue une évolution apportée par la loi n° 2013-61 du 18 janvier 2013. Sous réserve du respect du seuil de 75 % des surfaces de plancher affectées au logement, les opérations de constructions neuves après démolition du patrimoine bâti et les opérations de restructuration du bâti sont éligibles à une décote, quel que soit l'usage antérieur du bâtiment. C'est notamment le cas pour une transformation de bureaux en logements qui nécessite un changement d'affectation et des modifications importantes du bâti. En revanche, une opération de rénovation ou de réhabilitation du bâti, non-accompagnée d'un changement de destination en logements, n'est pas éligible à une décote. Pour mémoire, il est rappelé que l'ensemble des biens du domaine privé de l'État mais aussi ceux des établissements publics identifiés dans le décret n° 2013-937 du 18 octobre 2013 (SNCF, RFF, VNF, RATP) et dans le décret n° 2014-1743 du 30 décembre 2014 (établissements publics de santé) peuvent être concernés par le dispositif.
