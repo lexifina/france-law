@@ -1,0 +1,9 @@
+# Réponse à la question n° 53327
+
+- Question : [53327](53327.md) — Question n° 53327 — abattements; réglementation
+
+## Réponse
+
+*JO du 2015-08-25*
+
+Conformément aux dispositions combinées des articles 1407 et 1408 du code général des impôts, la taxe d'habitation est établie au nom des personnes qui ont la disposition ou la jouissance de locaux imposables. Dès lors, la situation des personnes hébergées dans le cadre des structures dites « familles gouvernantes », mises en place à l'initiative des unions départementales des associations familiales, diffère selon qu'elles ont ou non la disposition privative de leur logement. L'occupation est considérée comme privative lorsque la « personne gouvernante » ne peut accéder librement au logement et que les résidents en disposent à leur guise. Dans cette hypothèse, les résidents sont personnellement assujettis à la taxe d'habitation dans les conditions de droit commun et peuvent bénéficier des exonérations et dégrèvements prévus aux articles 1414 et 1414 A du code général des impôts, sous réserve de remplir les conditions notamment de revenus et de cohabitation prévues par ces articles. Lorsque les résidents n'ont pas la disposition privative de leur logement, ils ne sont pas personnellement imposables à la taxe d'habitation. Les locaux d'hébergement sont considérés comme étant à la disposition du gestionnaire et imposés à la taxe d'habitation à son nom. Compte tenu de la diversité des formes juridiques sous lesquelles fonctionnent les « familles gouvernantes », il n'est pas envisageable de leur octroyer les dégrèvements ou exonérations qui seraient accordés aux résidents s'ils étaient personnellement imposés à la taxe d'habitation. Une telle mesure ne manquerait pas de susciter des demandes similaires de la part d'autres contribuables tout aussi dignes d'intérêt et conduirait à un transfert de charge sur les autres contribuables.
