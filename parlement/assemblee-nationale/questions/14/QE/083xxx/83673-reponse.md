@@ -1,0 +1,9 @@
+# Réponse à la question n° 83673
+
+- Question : [83673](83673.md) — Question n° 83673 — instances consultatives; fusion
+
+## Réponse
+
+*JO du 2015-08-25*
+
+Le Comité interministériel pour la modernisation de l'action publique (CIMAP) a effectivement décidé une fusion du Conseil supérieur de l'énergie avec le Comité technique de l'électricité. Ces deux instances apparaissent en effet proches à plusieurs égards. Héritier du Conseil supérieur de l'électricité et du gaz, le Conseil supérieur de l'énergie est une instance dont la consultation est obligatoire sur l'ensemble des textes réglementaires intéressant l'électricité, le gaz, les certificats d'économie d'énergie et l'efficacité énergétique. Il comprend notamment des représentants des collectivités territoriales, des associations de consommateurs, des organisations syndicales, des principales entreprises et des fédérations du secteur de l'énergie. Institué en dernier lieu par le décret n° 2009-880 du 20 juillet 2009, le Comité technique de l'électricité était une commission de nature administrative, consultée sur les sujets techniques intéressant l'électricité. Toutefois, le décret n° 2009-880 précité a été pris en application du décret n° 2006-672 du 8 juin 2006 modifié relatif à la création, à la composition et au fonctionnement de commissions administratives à caractère consultatif, dont l'article 2 dispose que, sauf lorsque son existence est prévue par la loi, et sous réserve des dispositions relevant des commissions départementales et régionales présidées par le préfet, une commission est créée par décret pour une durée maximale de cinq ans. Il a été décidé de ne pas renouveler cet organisme à l'issue de cette durée de cinq ans (31 décembre 2014). En conséquence, aucun décret prorogeant ce comité n'a été pris. Le décret n° 2009-880 est donc caduc et la décision du CIMAP du 17 juillet 2013 est donc devenue sans objet.
