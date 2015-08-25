@@ -1,0 +1,9 @@
+# Réponse à la question n° 82067
+
+- Question : [82067](82067.md) — Question n° 82067 — commissions administratives à caractère consultatif; missions; pertinence
+
+## Réponse
+
+*JO du 2015-08-25*
+
+Le Conseil supérieur de la météorologie (CSM) a effectivement été prolongé pour une durée de cinq ans par le décret n° 2015-622 du 5 juin 2015. Cette décision résulte d'une réflexion approfondie qui a été menée par le ministère sous la coordination du secrétariat général du Gouvernement afin d'apprécier l'importance de chacune des commissions consultatives aujourd'hui mises en place. Il a ainsi été montré que le CSM jouait un rôle essentiel dans le domaine de la politique de l'environnement. Ce Conseil est un organe de concertation institué au niveau national entre Météo-France et ses interlocuteurs et utilisateurs publics et privés de produits et de services. Il permet à ces derniers d'expliciter leurs besoins à Météo-France et d'influer sur les choix de l'établissement, notamment en matière d'élaboration de produits et services, mais aussi de recherche et développement. Il permet aussi à Météo-France de présenter les avancées scientifiques dans le domaine de la climatologie et de la météorologie, en constante évolution. À cet égard, ce conseil a pour mission d'évaluer les services fournis par la météorologie à ses utilisateurs, de formuler des voeux et recommandations, de proposer les moyens à mettre en oeuvre pour répondre aux besoins nouveaux, d'émettre des propositions relatives à l'origine des financements correspondants et de suivre l'évolution des actions menées. Les membres du CSM ne sont pas rémunérés. De plus, aucune autre commission n'est en mesure de reprendre ses attributions. Le CSM a donc été prolongé pour une période de 5 ans, à l'issue de laquelle un nouvel examen sera fait.
