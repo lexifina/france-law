@@ -1,0 +1,9 @@
+# Réponse à la question n° 76148
+
+- Question : [76148](76148.md) — Question n° 76148 — pandémie; lutte et prévention
+
+## Réponse
+
+*JO du 2015-08-25*
+
+L'institut national de veille sanitaire fait état pour l'hiver 2014-2015 d'une surmortalité hivernale de 19 %. Il n'est cependant pas possible à ce stade, de préciser la part de la grippe dans cet excès de mortalité qui touche l'ensemble des régions en France. La composition des vaccins antigrippaux destinés à l'ensemble des pays, doit tenir compte des variations saisonnières du virus ; elle est arrêtée par l'organisation mondiale de la santé (OMS) chaque année aux alentours de février-mars. La composition des vaccins est fixée suffisamment précocement afin de permettre aux laboratoires de disposer du temps nécessaire à la production. Cette année le vaccin anti-grippal était composé de 2 souches de type A (H1N1, H3N2) et d'une souche B. Or en mai 2014, une mutation de la souche H3N2 s'est produite alors que le processus de fabrication était en cours, il n'était plus possible de revoir la composition du vaccin. Le vaccin a donc cette année été moins efficace pour les sujets ayant présenté une grippe liée au virus H3N2 (forme majoritaire durant l'hiver 2014-2015) ; il est cependant resté efficace pour les grippes liées aux 2 autres virus. La nécessité de disposer d'un délai suffisant (6 mois) pour la fabrication des doses vaccinales ne permet pas de pouvoir corriger une éventuelle variation antigénique du virus lorsque celle-ci apparaît tardivement. Plus globalement, le ministère des affaires sociales, de la santé et des droits des femmes insiste sur l'importance du taux de couverture vaccinale des populations âgées et vulnérables. Le rapport confié par le Gouvernement à Madame Sandrine Hurel permettra d'ouvrir de nouvelles pistes pour son amélioration.
