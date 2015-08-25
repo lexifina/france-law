@@ -1,0 +1,9 @@
+# Réponse à la question n° 83150
+
+- Question : [83150](83150.md) — Question n° 83150 — fusion
+
+## Réponse
+
+*JO du 2015-08-25*
+
+Le Gouvernement a engagé un important effort de rationalisation des commissions consultatives de l'État, qui se traduit d'abord par les suppressions et regroupements décidés lors des comités interministériels de la modernisation de l'action publique, intervenus en 2013. La commission chargée de donner un avis sur la pratique artistique des candidats aux concours d'accès au corps des professeurs des écoles nationales supérieures d'art, prévue à l'article 7 du décret statutaire n° 2002-1520 du 23 décembre 2002, faisait partie des commissions concernées par ce mouvement de simplification administrative. En concertation avec les organisations syndicales, le ministère de la culture et de la communication a souhaité confier l'unique mission de la commission chargée de donner un avis sur la pratique artistique à la commission d'évaluation prévue à l'article 8 du décret du 23 décembre 2002, qui donnait déjà des avis sur l'évolution de la carrière des professeurs des écoles nationales supérieures d'art (titularisation, avancements, congés pour études et recherches). Le transfert de la compétence de la commission chargée de donner un avis sur la pratique artistique à la commission d'évaluation vise à conserver cette voie d'accès au concours de professeur des écoles nationales supérieures d'art qui favorise la diversité des profils et de confier l'expertise des dossiers à une commission composée en majorité de pairs, sur le modèle de la pratique suivie dans l'enseignement supérieur. Cette mesure de simplification administrative permettra en outre de développer une vision plus cohérente des recrutements et avancements dans ce corps de fonctionnaires. Cette modification du décret statutaire des professeurs des écoles nationales supérieures d'art a été effectuée par décret n° 2015-370 du 30 mars 2015.
