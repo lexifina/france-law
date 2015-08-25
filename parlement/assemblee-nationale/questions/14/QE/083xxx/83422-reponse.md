@@ -1,0 +1,9 @@
+# Réponse à la question n° 83422
+
+- Question : [83422](83422.md) — Question n° 83422 — instances consultatives; coût de fonctionnement
+
+## Réponse
+
+*JO du 2015-08-25*
+
+Conformément à l'article R. 133-1 et suivants du code de l'environnement, le conseil national de la protection de la nature (CNPN)possède un rôle de conseiller scientifique et technique auprès du ministre en charge de l'environnement. Le CNPN donne ainsi à la ministre son avis sur les moyens propres à la préservation, la restauration de la flore et de la faune sauvages et de leurs habitats naturels. Il veille à la protection des espaces naturels et au maintien des équilibres biologiques auxquels ils participent. Il donne également son avis sur les mesures législatives et réglementaires et les travaux scientifiques afférents à ces objets. Ses membres assurent leurs missions auprès du CNPN à titre bénévole et ne touchent strictement aucune rémunération. Ainsi, le coût de fonctionnement du CNPN se limite-t-il aux remboursements des frais de mission de ses membres. Il s'avère donc que c'est la solution la plus économique pour satisfaire aux obligations de consultation. Entre le CNPN plénier, le comité permanent et les commissions spécialisées, 40 réunions sont organisées par an. Le coût en 2014 a été de 78 000 €. De plus, les commissions administratives consultatives font régulièrement l'objet d'une évaluation au vu du nombre de réunions et des travaux réalisés (rapports d'activité). Le projet de loi pour la reconquête de la nature, de la biodiversité et des paysages vise à mettre en place un nouveau conseil national de protection de la nature, qui deviendra désormais une instance d'expertise scientifique et technique du ministère reconnue par la loi. Composé d'experts, son rôle sera d'éclairer la décision ministérielle sur les orientations générales et les projets relatifs à la biodiversité.
