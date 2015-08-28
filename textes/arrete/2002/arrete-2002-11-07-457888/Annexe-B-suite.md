@@ -4,1208 +4,640 @@ FONCTIONNAIRES DU CORPS DE CONCEPTION ET DE DIRECTION DE LA POLICE NATIONALE EXE
 
 4° Chef de service : chef du service de sécurité de proximité (SSP) ; chef du service départemental du renseignement territorial (SDRT) ; chef de la sûreté départementale (SD) ; chef du service de l'ordre public (SOP) ; chef d'état-major
 
-DÉSIGNATION DES EMPLOIS
+DÉSIGNATION DES EMPLOIS |
 
-|
+DÉSIGNATION
 
-DÉSIGNATION DES VILLES
+des villes |
 
-|
+NOMBRE
 
-NOMBRE DE BÉNÉFICIAIRES
+de bénéficiaires |
 
-|
+NOMBRE
 
-NOMBRE DE POINTS
+de points |
 
-|
+Chef du service de sécurité de proximité |
 
-Chef du service de sécurité de proximité
+Amiens |
 
-|
+1 |
 
-Amiens
+60 |
 
-|
+Chef du service de sécurité de proximité |
 
-1
+Conflans-Sainte-Honorine |
 
-|
+1 |
 
-60
+60 |
 
-|
+Chef du service de sécurité de proximité |
 
-Chef du service de sécurité de proximité
+Lens |
 
-|
+1 |
 
-Lens
+60 |
 
-|
+Chef du service de sécurité de proximité |
 
-1
+Saint-Denis de La Réunion |
 
-|
+1 |
 
-60
+60 |
 
-|
+Chef du service départemental du renseignement territorial |
 
-Chef du service de sécurité de proximité
+Ajaccio |
 
-|
+1 |
 
-Marseille
+40 |
 
-|
+Chef du service départemental du renseignement territorial |
 
-1
+Amiens |
 
-|
+1 |
 
-60
+40 |
 
-|
+Chef du service départemental du renseignement territorial |
 
-Chef du service de sécurité de proximité
+Bordeaux |
 
-|
+1 |
 
-Saint-Denis de La Réunion
+50 |
 
-|
+Chef du service départemental du renseignement territorial |
 
-1
+Cergy-Pontoise |
 
-|
+1 |
 
-60
+50 |
 
-|
+Chef du service départemental du renseignement territorial |
 
-Chef du service départemental du renseignement territorial
+Evry |
 
-|
+1 |
 
-Ajaccio
+50 |
 
-|
+Chef du service départemental du renseignement territorial |
 
-1
+Lille |
 
-|
+1 |
 
-40
+50 |
 
-|
+Chef du service départemental du renseignement territorial |
 
-Chef du service départemental du renseignement territorial
+Lyon |
 
-|
+1 |
 
-Amiens
+50 |
 
-|
+Chef du service départemental du renseignement territorial |
 
-1
+Marseille |
 
-|
+1 |
 
-40
+50 |
 
-|
+Chef du service départemental du renseignement territorial |
 
-Chef du service départemental du renseignement territorial
+Melun |
 
-|
+1 |
 
-Bordeaux
+50 |
 
-|
+Chef du service départemental du renseignement territorial |
 
-1
+Metz |
 
-|
+1 |
 
-50
+40 |
 
-|
+Chef du service départemental du renseignement territorial |
 
-Chef du service départemental du renseignement territorial
+Montpellier |
 
-|
+1 |
 
-Cergy-Pontoise
+40 |
 
-|
+Chef du service départemental du renseignement territorial |
 
-1
+Nice |
 
-|
+1 |
 
-50
+40 |
 
-|
+Chef du service départemental du renseignement territorial |
 
-Chef du service départemental du renseignement territorial
+Rennes |
 
-|
+1 |
 
-Evry
+40 |
 
-|
+Chef du service départemental du renseignement territorial |
 
-1
+Rouen |
 
-|
+1 |
 
-50
+40 |
 
-|
+Chef du service départemental du renseignement territorial |
 
-Chef du service départemental du renseignement territorial
+Strasbourg |
 
-|
+1 |
 
-Lille
+40 |
 
-|
+Chef du service départemental du renseignement territorial |
 
-1
+Toulouse |
 
-|
+1 |
 
-50
+40 |
 
-|
+Chef du service départemental du renseignement territorial |
 
-Chef du service départemental du renseignement territorial
+Versailles |
 
-|
+1 |
 
-Lyon
+50 |
 
-|
+Chef de la sûreté départementale |
 
-1
+Amiens |
 
-|
+1 |
 
-50
+60 |
 
-|
+Chef de la sûreté départementale |
 
-Chef du service départemental du renseignement territorial
+Bordeaux |
 
-|
+1 |
 
-Marseille
+60 |
 
-|
+Chef de la sûreté départementale |
 
-1
+Cergy-Pontoise |
 
-|
+1 |
 
-50
+60 |
 
-|
+Chef de la sûreté départementale |
 
-Chef du service départemental du renseignement territorial
+Evry |
 
-|
+1 |
 
-Melun
+60 |
 
-|
+Chef de la sûreté départementale |
 
-1
+Fort-de-France |
 
-|
+1 |
 
-50
+60 |
 
-|
+Chef de la sûreté départementale |
 
-Chef du service départemental du renseignement territorial
+Grenoble |
 
-|
+1 |
 
-Metz
+60 |
 
-|
+Chef de la sûreté départementale |
 
-1
+Lens |
 
-|
+1 |
 
-40
+60 |
 
-|
+Chef de la sûreté départementale - Lille DDSP |
 
-Chef du service départemental du renseignement territorial
+Lille |
 
-|
+1 |
 
-Montpellier
+60 |
 
-|
+Chef de la sûreté départementale |
 
-1
+Lyon |
 
-|
+1 |
 
-40
+60 |
 
-|
+Chef de la sûreté départementale |
 
-Chef du service départemental du renseignement territorial
+Marseille |
 
-|
+1 |
 
-Nice
+60 |
 
-|
+Chef de la sûreté départementale |
 
-1
+Melun |
 
-|
+1 |
 
-40
+60 |
 
-|
+Chef de la sûreté départementale |
 
-Chef du service départemental du renseignement territorial
+Montpellier |
 
-|
+1 |
 
-Rennes
+60 |
 
-|
+Chef de la sûreté départementale |
 
-1
+Mulhouse |
 
-|
+1 |
 
-40
+60 |
 
-|
+Chef de la sûreté départementale |
 
-Chef du service départemental du renseignement territorial
+Nantes |
 
-|
+1 |
 
-Rouen
+60 |
 
-|
+Chef de la sûreté départementale |
 
-1
+Pointe-à-Pitre |
 
-|
+1 |
 
-40
+60 |
 
-|
+Chef de la sûreté départementale |
 
-Chef du service départemental du renseignement territorial
+Reims |
 
-|
+1 |
 
-Strasbourg
+60 |
 
-|
+Chef de la sûreté départementale |
 
-1
+Rouen |
 
-|
+1 |
 
-40
+60 |
 
-|
+Chef de la sûreté départementale |
 
-Chef du service départemental du renseignement territorial
+Saint-Denis de La Réunion |
 
-|
+1 |
 
-Toulouse
+60 |
 
-|
+Chef de la sûreté départementale |
 
-1
+Strasbourg |
 
-|
+1 |
 
-40
+60 |
 
-|
+Chef de la sûreté départementale |
 
-Chef du service départemental du renseignement territorial
+Toulon |
 
-|
+1 |
 
-Versailles
+60 |
 
-|
+Chef de la sûreté départementale |
 
-1
+Toulouse |
 
-|
+1 |
 
-50
+60 |
 
-|
+Chef de la sûreté départementale |
 
-Chef de la sûreté départementale
+Versailles |
 
-|
+1 |
 
-Amiens
+60 |
 
-|
+Chef de la sûreté urbaine - Elancourt agglomération |
 
-1
+Elancourt |
 
-|
+1 |
 
-60
+60 |
 
-|
+Chef de la sûreté urbaine |
 
-Chef de la sûreté départementale
+Le Havre |
 
-|
+1 |
 
-Bordeaux
+60 |
 
-|
+Chef de la sûreté urbaine - Lille agglomération |
 
-1
+Lille |
 
-|
+1 |
 
-60
+60 |
 
-|
+Chef du service de l'ordre public |
 
-Chef de la sûreté départementale
+Lyon |
 
-|
+1 |
 
-Cergy-Pontoise
+60 |
 
-|
+Chef du service de l'ordre public |
 
-1
+Strasbourg |
 
-|
+1 |
 
-60
+60 |
 
-|
+Chef d'état-major |
 
-Chef de la sûreté départementale
+Arras |
 
-|
+1 |
 
-Evry
+60 |
 
-|
+Chef d'état-major |
 
-1
+Cergy-Pontoise |
 
-|
+1 |
 
-60
+60 |
 
-|
+Chef d'état-major |
 
-Chef de la sûreté départementale
+Evry |
 
-|
+1 |
 
-Fort-de-France
+60 |
 
-|
+Chef d'état-major - Lille DDSP |
 
-1
+Lille |
 
-|
+1 |
 
-60
+60 |
 
-|
+Chef d'état-major |
 
-Chef de la sûreté départementale
+Lyon |
 
-|
+1 |
 
-Grenoble
+60 |
 
-|
+Chef d'état-major |
 
-1
+Marseille |
 
-|
+1 |
 
-60
+60 |
 
-|
+Chef d'état-major |
 
-Chef de la sûreté départementale
+Melun |
 
-|
+1 |
 
-Lens
+60 |
 
-|
+Chef d'état-major |
 
-1
+Nice |
 
-|
+1 |
 
-60
+60 |
 
-|
+Chef d'état-major |
 
-Chef de la sûreté départementale-Lille DDSP
+Versailles |
 
-|
+1 |
 
-Lille
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Chef de la sûreté départementale
-
-|
-
-Lyon
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Chef de la sûreté départementale
-
-|
-
-Marseille
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Chef de la sûreté départementale
-
-|
-
-Melun
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Chef de la sûreté départementale
-
-|
-
-Montpellier
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Chef de la sûreté départementale
-
-|
-
-Mulhouse
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Chef de la sûreté départementale
-
-|
-
-Nantes
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Chef de la sûreté départementale
-
-|
-
-Pointe-à-Pitre
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Chef de la sûreté départementale
-
-|
-
-Reims
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Chef de la sûreté départementale
-
-|
-
-Rouen
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Chef de la sûreté départementale
-
-|
-
-Saint-Denis de La Réunion
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Chef de la sûreté départementale
-
-|
-
-Strasbourg
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Chef de la sûreté départementale
-
-|
-
-Toulon
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Chef de la sûreté départementale
-
-|
-
-Toulouse
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Chef de la sûreté départementale
-
-|
-
-Versailles
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Chef de la sûreté urbaine
-
-|
-
-Le Havre
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Chef de la sûreté urbaine-Lille agglomération
-
-|
-
-Lille
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Chef du service de l'ordre public
-
-|
-
-Lyon
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Chef du service de l'ordre public
-
-|
-
-Strasbourg
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Chef d'état-major
-
-|
-
-Arras
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Chef d'état-major
-
-|
-
-Cergy-Pontoise
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Chef d'état-major
-
-|
-
-Evry
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Chef d'état-major-Lille DDSP
-
-|
-
-Lille
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Chef d'état-major
-
-|
-
-Lyon
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Chef d'état-major
-
-|
-
-Marseille
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Chef d'état-major
-
-|
-
-Melun
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Chef d'état-major
-
-|
-
-Nice
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Chef d'état-major
-
-|
-
-Versailles
-
-|
-
-1
-
-|
-
-60
-
-|
+60 |
 
 5° Chef d'antenne spécialisée
 
-DÉSIGNATION DES EMPLOIS
+DÉSIGNATION DES EMPLOIS |
 
-|
+DÉSIGNATION
 
-DÉSIGNATION DES VILLES
+des villes |
 
-|
+NOMBRE
 
-NOMBRE DE BÉNÉFICIAIRES
+de bénéficiaires |
 
-|
+NOMBRE
 
-NOMBRE DE POINTS
+de points |
 
-|
+Directeur de la police aux frontières de l'aéroport Roissy- Charles-de-Gaulle - Le Bourget |
 
-Directeur de la police aux frontières de l'aéroport Roissy Charles de Gaulle-Le Bourget
+Roissy-en-France |
 
-|
+1 |
 
-Roissy-en-France
+100 |
 
-|
+Directeur adjoint de la police aux frontières de l'aéroport Roissy - Charles-de-Gaulle - Le Bourget |
 
-1
+Roissy-en-France |
 
-|
+1 |
 
-100
+60 |
 
-|
+Directeur de la police aux frontières de l'aéroport d'Orly |
 
-Directeur adjoint de la police aux frontières de l'aéroport Roissy-Charles de Gaulle-Le Bourget
+Orly |
 
-|
+1 |
 
-Roissy-en-France
+60 |
 
-|
+Chef de l'antenne PJ |
 
-1
+Bastia |
 
-|
+1 |
 
-60
+50 |
 
-|
+6° Chef de l'Institut national de formation de la police nationale (INFPN) ; délégué interrégional au recrutement et à la formation ; directeur d'Ecole nationale de police (ENP) ; directeur de l'Ecole nationale supérieure de la police (ENSP) ; adjoint à un directeur (ENSP) directeur de l'Institut national de police scientifique (INPS)
 
-Directeur de la police aux frontières de l'aéroport d'Orly
+DÉSIGNATION DES EMPLOIS |
 
-|
+DÉSIGNATION
 
-Orly
+des villes |
 
-|
+NOMBRE
 
-1
+de bénéficiaires |
 
-|
+NOMBRE
 
-60
+de points |
 
-|
+Chef de l'Institut national de la formation de la police nationale (INFPN) |
 
-Chef de l'antenne PJ
+Clermont-Ferrand |
 
-|
+1 |
 
-Bastia
+60 |
 
-|
+Directeur de l'Ecole nationale supérieure de la police (ENSP) |
 
-1
+Saint-Cyr-au-Mont-d'Or |
 
-|
+1 |
 
-50
+100 |
 
-|
+Adjoint au directeur de la stratégie, des formations et de la recherche - chef du département des formations professionnelles des officiers de police - chef du site de Cannes-Ecluse |
 
-6° Chef de l'Institut national de formation de la police nationale (INFPN) ; délégué interrégional au recrutement et à la formation ; directeur de l'école nationale de police (ENP) ; directeur de l'Ecole nationale supérieure de police (ENSP) ; adjoint à un directeur (ENSP) ; directeur de l'Institut national de police scientifique (INPS)
+Cannes-Ecluse |
 
-DÉSIGNATION DES EMPLOIS
+1 |
 
-|
+60 |
 
-DÉSIGNATION DES VILLES
+Délégué interrégional au recrutement et à la formation de la police nationale Sud et directeur de l'Ecole nationale de police (ENP) |
 
-|
+Nîmes |
 
-NOMBRE DE BÉNÉFICIAIRES
+1 |
 
-|
+60 |
 
-NOMBRE DE POINTS
+Directeur de l'Institut national de police scientifique (INPS) |
 
-|
+Ecully |
 
-Chef de l'Institut national de la formation de la police nationale (INFPN)
+1 |
 
-|
-
-Clermont-Ferrand
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Directeur de l'Ecole nationale supérieure de la police (ENSP)
-
-|
-
-Saint-Cyr-au-Mont-d'Or
-
-|
-
-1
-
-|
-
-100
-
-|
-
-Adjoint au directeur de la stratégie, des formations et de la recherche-chef du département des formations professionnelles des officiers de police-chef du site de Cannes-Ecluse
-
-|
-
-Cannes-Ecluse
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Délégué interrégional au recrutement et à la formation de la police nationale Sud et directeur de l'Ecole nationale de police (ENP)
-
-|
-
-Nîmes
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Directeur de l'Institut national de police scientifique (INPS)
-
-|
-
-Ecully
-
-|
-
-1
-
-|
-
-100
-
-|
+100 |
 
 7° Directeur de cabinet auprès du préfet délégué à la défense et à la sécurité ; conseiller ; coordonnateur
 
-DÉSIGNATION DES EMPLOIS
+DÉSIGNATION DES EMPLOIS |
 
-|
+DÉSIGNATION
 
-DÉSIGNATION DES VILLES
+des villes |
 
-|
+NOMBRE
 
-NOMBRE DE BÉNÉFICIAIRES
+de bénéficiaires |
 
-|
+NOMBRE
 
-NOMBRE DE POINTS
+de points |
 
-|
+Directeur de cabinet du préfet délégué pour la défense et la sécurité de la zone Sud-Ouest |
 
-Directeur de cabinet du préfet délégué pour la défense et la sécurité de la zone Sud-Ouest
+Bordeaux |
 
-|
+1 |
 
-Bordeaux
+60 |
 
-|
+Directeur de cabinet du préfet délégué pour la défense et la sécurité de la zone Sud-Est |
 
-1
+Lyon |
 
-|
+1 |
 
-60
+60 |
 
-|
+Directeur de cabinet du préfet délégué pour la défense et la sécurité de la zone Nord |
 
-Directeur de cabinet du préfet délégué pour la défense et la sécurité de la zone Sud-Est
+Lille |
 
-|
+1 |
 
-Lyon
+60 |
 
-|
+Conseiller auprès du préfet de police |
 
-1
+Marseille |
 
-|
+1 |
 
-60
+60 |
 
-|
+Directeur de cabinet du préfet délégué pour la défense et la sécurité de la zone Est |
 
-Directeur de cabinet du préfet délégué pour la défense et la sécurité de la zone Nord
+Metz |
 
-|
+1 |
 
-Lille
+60 |
 
-|
+Coordonnateur adjoint pour la sécurité, placé auprès des préfets de Haute-Corse et de Corse-du-Sud |
 
-1
+Ajaccio |
 
-|
+1 |
 
-60
-
-|
-
-Conseiller auprès du préfet de police
-
-|
-
-Marseille
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Directeur de cabinet du préfet délégué pour la défense et la sécurité de la zone Est
-
-|
-
-Metz
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Coordonnateur adjoint pour la sécurité, placé auprès des préfets de Haute-Corse et de Corse-de-Sud
-
-|
-
-Ajaccio
-
-|
-
-1
-
-|
-
-60
-
-|
+60 |

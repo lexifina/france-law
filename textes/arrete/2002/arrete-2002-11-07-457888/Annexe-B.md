@@ -4,3014 +4,1522 @@ FONCTIONNAIRES DU CORPS DE CONCEPTION ET DE DIRECTION DE LA POLICE NATIONALE EXE
 
 1° Chef de service zonal, interrégional, régional et adjoint : directeur zonal des compagnies républicaines de sécurité ; directeur zonal de la sécurité intérieure ; directeur zonal de la police aux frontières ; directeur interrégional de la police judiciaire ; directeur du service régional de police judiciaire ; directeur régional de la sécurité intérieure ; chef de la délégation de l'IGPN
 
-DÉSIGNATION DES EMPLOIS
+DÉSIGNATION DES EMPLOIS |
 
-|
+DÉSIGNATION
 
-DÉSIGNATION DES VILLES
+des villes |
 
-|
+NOMBRE
 
-NOMBRE DE BÉNÉFICIAIRES
+de bénéficiaires |
 
-|
+NOMBRE
 
-NOMBRE DE POINTS
+de points |
 
-|
+Directeur zonal des CRS Sud-Ouest |
 
-Directeur zonal des CRS Sud-Ouest
+Bordeaux |
 
-|
+1 |
 
-Bordeaux
+60 |
 
-|
+Directeur zonal des CRS Nord |
 
-1
+Lille |
 
-|
+1 |
 
-60
+60 |
 
-|
+Directeur zonal des CRS Sud-Est |
 
-Directeur zonal des CRS Nord
+Lyon |
 
-|
+1 |
 
-Lille
+70 |
 
-|
+Directeur zonal des CRS Sud |
 
-1
+Marseille |
 
-|
+1 |
 
-60
+70 |
 
-|
+Directeur zonal des CRS Est |
 
-Directeur zonal des CRS Sud-Est
+Châtel
 
-|
+Saint-Germain |
 
-Lyon
+1 |
 
-|
+60 |
 
-1
+Directeur zonal des CRS Ouest |
 
-|
+Rennes |
 
-70
+1 |
 
-|
+60 |
 
-Directeur zonal des CRS Sud
+Directeur zonal des CRS Paris |
 
-|
+Vélizy |
 
-Marseille
+1 |
 
-|
+80 |
 
-1
+Directeur zonal de la sécurité intérieure Sud-Ouest |
 
-|
+Bordeaux |
 
-70
+1 |
 
-|
+70 |
 
-Directeur zonal des CRS Est
+Directeur zonal de la sécurité intérieure Nord |
 
-|
+Lille |
 
-Châtel-Saint-Germain
+1 |
 
-|
+70 |
 
-1
+Directeur zonal de la sécurité intérieure Sud-Est |
 
-|
+Lyon |
 
-60
+1 |
 
-|
+70 |
 
-Directeur zonal des CRS Ouest
+Directeur zonal de la sécurité intérieure Sud |
 
-|
+Marseille |
 
-Rennes
+1 |
 
-|
+70 |
 
-1
+Directeur zonal de la sécurité intérieure Est |
 
-|
+Metz |
 
-60
+1 |
 
-|
+70 |
 
-Directeur zonal des CRS Paris
+Directeur zonal de la sécurité intérieure Ouest |
 
-|
+Rennes |
 
-Vélizy
+1 |
 
-|
+70 |
 
-1
+Directeur zonal de la police aux frontières - Zone Sud-Ouest |
 
-|
+Bordeaux |
 
-80
+1 |
 
-|
+60 |
 
-Directeur zonal de la sécurité intérieure Sud-Ouest
+Directeur zonal de la police aux frontières - Zone Nord |
 
-|
+Lille |
 
-Bordeaux
+1 |
 
-|
+80 |
 
-1
+Directeur zonal de la police aux frontières - Zone Sud-Est |
 
-|
+Lyon |
 
-70
+1 |
 
-|
+80 |
 
-Directeur zonal de la sécurité intérieure Nord
+Directeur zonal de la police aux frontières - Zone Sud |
 
-|
+Marseille |
 
-Lille
+1 |
 
-|
+80 |
 
-1
+Directeur zonal de la police aux frontières - Zone Est |
 
-|
+Metz |
 
-70
+1 |
 
-|
+60 |
 
-Directeur zonal de la sécurité intérieure Sud-Est
+Directeur zonal de la police aux frontières - Zone Ouest |
 
-|
+Rennes |
 
-Lyon
+1 |
 
-|
+60 |
 
-1
+Directeur interrégional de police judiciaire, directeur du service régional |
 
-|
+Bordeaux |
 
-70
+1 |
 
-|
+100 |
 
-Directeur zonal de la sécurité intérieure Sud
+Directeur interrégional de police judiciaire, directeur du service régional |
 
-|
+Dijon |
 
-Marseille
+1 |
 
-|
+80 |
 
-1
+Directeur interrégional de police judiciaire, directeur du service régional |
 
-|
+Lille |
 
-70
+1 |
 
-|
+100 |
 
-Directeur zonal de la sécurité intérieure Est
+Directeur interrégional de police judiciaire, directeur du service régional |
 
-|
+Lyon |
 
-Metz
+1 |
 
-|
+100 |
 
-1
+Directeur interrégional de police judiciaire, directeur du service régional |
 
-|
+Marseille |
 
-70
+1 |
 
-|
+100 |
 
-Directeur zonal de la sécurité intérieure Ouest
+Directeur interrégional de police judiciaire, directeur du service régional |
 
-|
+Orléans |
 
-Rennes
+1 |
 
-|
+80 |
 
-1
+Directeur interrégional de police judiciaire, directeur du service régional |
 
-|
+Pointe-à-Pitre |
 
-70
+1 |
 
-|
+80 |
 
-Directeur zonal de la police aux frontières-zone Sud-Ouest
+Directeur interrégional de police judiciaire, directeur du service régional |
 
-|
+Rennes |
 
-Bordeaux
+1 |
 
-|
+100 |
 
-1
+Directeur interrégional de police judiciaire, directeur du service régional |
 
-|
+Strasbourg |
 
-60
+1 |
 
-|
+100 |
 
-Directeur zonal de la police aux frontières-zone Nord
+Directeur interrégional adjoint de police judiciaire |
 
-|
+Bordeaux |
 
-Lille
+1 |
 
-|
+70 |
 
-1
+Directeur interrégional adjoint de police judiciaire |
 
-|
+Dijon |
 
-80
+1 |
 
-|
+50 |
 
-Directeur zonal de la police aux frontières-zone Sud-Est
+Directeur interrégional adjoint de police judiciaire |
 
-|
+Lille |
 
-Lyon
+1 |
 
-|
+70 |
 
-1
+Directeur interrégional adjoint de police judiciaire |
 
-|
+Lyon |
 
-80
+1 |
 
-|
+80 |
 
-Directeur zonal de la police aux frontières-zone Sud
+Directeur interrégional adjoint de police judiciaire |
 
-|
+Marseille |
 
-Marseille
+1 |
 
-|
+80 |
 
-1
+Directeur interrégional adjoint de police judiciaire |
 
-|
+Orléans |
 
-80
+1 |
 
-|
+60 |
 
-Directeur zonal de la police aux frontières-zone Est
+Directeur interrégional adjoint de police judiciaire |
 
-|
+Pointe-à-Pitre |
 
-Metz
+1 |
 
-|
+50 |
 
-1
+Directeur interrégional adjoint de police judiciaire |
 
-|
+Rennes |
 
-60
+1 |
 
-|
+60 |
 
-Directeur zonal de la police aux frontières-Zone Ouest
+Directeur interrégional adjoint de police judiciaire |
 
-|
+Strasbourg |
 
-Rennes
+1 |
 
-|
+70 |
 
-1
+Directeur du service régional de police judiciaire |
 
-|
+Angers |
 
-60
+1 |
 
-|
+50 |
 
-Directeur interrégional de police judiciaire, directeur du service régional
+Directeur du service régional de police judiciaire |
 
-|
+Clermont-Ferrand |
 
-Bordeaux
+1 |
 
-|
+50 |
 
-1
+Directeur du service régional de police judiciaire |
 
-|
+Limoges |
 
-100
+1 |
 
-|
+50 |
 
-Directeur interrégional de police judiciaire, directeur du service régional
+Directeur du service régional de police judiciaire |
 
-|
+Montpellier |
 
-Dijon
+1 |
 
-|
+60 |
 
-1
+Directeur du service régional de police judiciaire |
 
-|
+Nancy |
 
-80
+1 |
 
-|
+60 |
 
-Directeur interrégional de police judiciaire, directeur du service régional
+Directeur du service régional de police judiciaire |
 
-|
+Reims |
 
-Lille
+1 |
 
-|
+60 |
 
-1
+Directeur du service régional de police judiciaire |
 
-|
+Rouen |
 
-100
+1 |
 
-|
+60 |
 
-Directeur interrégional de police judiciaire, directeur du service régional
+Directeur du service régional de police judiciaire |
 
-|
+Toulouse |
 
-Lyon
+1 |
 
-|
+60 |
 
-1
+Directeur régional de police judiciaire |
 
-|
+Ajaccio |
 
-100
+1 |
 
-|
+100 |
 
-Directeur interrégional de police judiciaire, directeur du service régional
+Directeur régional de police judiciaire |
 
-|
+Versailles |
 
-Marseille
+1 |
 
-|
+100 |
 
-1
+Directeur régional adjoint de police judiciaire |
 
-|
+Ajaccio |
 
-100
+1 |
 
-|
+80 |
 
-Directeur interrégional de police judiciaire, directeur du service régional
+Directeur régional adjoint de police judiciaire |
 
-|
+Versailles |
 
-Orléans
+1 |
 
-|
+70 |
 
-1
+Directeur régional de la sécurité intérieure Corse |
 
-|
+Ajaccio |
 
-80
+1 |
 
-|
+60 |
 
-Directeur interrégional de police judiciaire, directeur du service régional
+Chef de la délégation de l'IGPN Lyon |
 
-|
+Lyon |
 
-Pointe-à-Pitre
+1 |
 
-|
+60 |
 
-1
+Chef de la délégation de l'IGPN Marseille |
 
-|
+Marseille |
 
-80
+1 |
 
-|
-
-Directeur interrégional de police judiciaire, directeur du service régional
-
-|
-
-Rennes
-
-|
-
-1
-
-|
-
-100
-
-|
-
-Directeur interrégional de police judiciaire, directeur du service régional
-
-|
-
-Strasbourg
-
-|
-
-1
-
-|
-
-100
-
-|
-
-Directeur interrégional adjoint de police judiciaire
-
-|
-
-Bordeaux
-
-|
-
-1
-
-|
-
-70
-
-|
-
-Directeur interrégional adjoint de police judiciaire
-
-|
-
-Dijon
-
-|
-
-1
-
-|
-
-50
-
-|
-
-Directeur interrégional adjoint de police judiciaire
-
-|
-
-Lille
-
-|
-
-1
-
-|
-
-70
-
-|
-
-Directeur interrégional adjoint de police judiciaire
-
-|
-
-Lyon
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Directeur interrégional adjoint de police judiciaire
-
-|
-
-Marseille
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Directeur interrégional adjoint de police judiciaire
-
-|
-
-Orléans
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Directeur interrégional adjoint de police judiciaire
-
-|
-
-Pointe-à-Pitre
-
-|
-
-1
-
-|
-
-50
-
-|
-
-Directeur interrégional adjoint de police judiciaire
-
-|
-
-Rennes
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Directeur interrégional adjoint de police judiciaire
-
-|
-
-Strasbourg
-
-|
-
-1
-
-|
-
-70
-
-|
-
-Directeur du service régional de police judiciaire
-
-|
-
-Angers
-
-|
-
-1
-
-|
-
-50
-
-|
-
-Directeur du service régional de police judiciaire
-
-|
-
-Clermont-Ferrand
-
-|
-
-1
-
-|
-
-50
-
-|
-
-Directeur du service régional de police judiciaire
-
-|
-
-Limoges
-
-|
-
-1
-
-|
-
-50
-
-|
-
-Directeur du service régional de police judiciaire
-
-|
-
-Montpellier
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Directeur du service régional de police judiciaire
-
-|
-
-Nancy
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Directeur du service régional de police judiciaire
-
-|
-
-Reims
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Directeur du service régional de police judiciaire
-
-|
-
-Rouen
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Directeur du service régional de police judiciaire
-
-|
-
-Toulouse
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Directeur régional de police judiciaire
-
-|
-
-Ajaccio
-
-|
-
-1
-
-|
-
-100
-
-|
-
-Directeur régional de police judiciaire
-
-|
-
-Versailles
-
-|
-
-1
-
-|
-
-100
-
-|
-
-Directeur régional adjoint de police judiciaire
-
-|
-
-Ajaccio
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Directeur régional adjoint de police judiciaire
-
-|
-
-Versailles
-
-|
-
-1
-
-|
-
-70
-
-|
-
-Directeur régional de la sécurité intérieure Corse
-
-|
-
-Ajaccio
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Chef de la délégation de l'IGPN Lyon
-
-|
-
-Lyon
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Chef de la délégation de l'IGPN Marseille
-
-|
-
-Marseille
-
-|
-
-1
-
-|
-
-60
-
-|
+60 |
 
 2° Chef de service départemental et adjoint : directeur départemental de la sécurité publique commissaire central ; directeur départemental de la sécurité publique chef de district commissaire central ; directeur départemental de la sécurité publique chef de circonscription ; directeur départemental de la sécurité publique ; chef du service de sécurité de proximité ; directeur départemental ou interdépartemental de la sécurité intérieure ; directeur départemental de la police aux frontières
 
-DÉSIGNATION DES EMPLOIS
+DÉSIGNATION DES EMPLOIS |
 
-|
+DÉSIGNATION
 
-DÉSIGNATION DES VILLES
+des villes |
 
-|
+NOMBRE
 
-NOMBRE DE BÉNÉFICIAIRES
+de bénéficiaires |
 
-|
+NOMBRE
 
-NOMBRE DE POINTS
+de points |
 
-|
+Directeur départemental de la sécurité publique et commissaire central |
 
-Directeur départemental de la sécurité publique et commissaire central
+Ajaccio |
 
-|
+1 |
 
-Ajaccio
+80 |
 
-|
+Directeur départemental de la sécurité publique et commissaire central |
 
-1
+Amiens |
 
-|
+1 |
 
-80
+80 |
 
-|
+Directeur départemental de la sécurité publique et commissaire central |
 
-Directeur départemental de la sécurité publique et commissaire central
+Angers |
 
-|
+1 |
 
-Amiens
+80 |
 
-|
+Directeur départemental de la sécurité publique et commissaire central |
 
-1
+Annecy |
 
-|
+1 |
 
-80
+60 |
 
-|
+Directeur départemental de la sécurité publique et commissaire central |
 
-Directeur départemental de la sécurité publique et commissaire central
+Avignon |
 
-|
+1 |
 
-Angers
+80 |
 
-|
+Directeur départemental de la sécurité publique et commissaire central |
 
-1
+Bastia |
 
-|
+1 |
 
-80
+80 |
 
-|
+Directeur départemental de la sécurité publique et commissaire central |
 
-Directeur départemental de la sécurité publique et commissaire central
+Beauvais |
 
-|
+1 |
 
-Annecy
+80 |
 
-|
+Directeur départemental de la sécurité publique et commissaire central |
 
-1
+Besançon |
 
-|
+1 |
 
-60
+80 |
 
-|
+Directeur départemental de la sécurité publique et commissaire central |
 
-Directeur départemental de la sécurité publique et commissaire central
+Caen |
 
-|
+1 |
 
-Avignon
+80 |
 
-|
+Directeur départemental de la sécurité publique et commissaire central |
 
-1
+Cayenne |
 
-|
+1 |
 
-80
+100 |
 
-|
+Directeur départemental de la sécurité publique et commissaire central |
 
-Directeur départemental de la sécurité publique et commissaire central
+Charleville-Mézières |
 
-|
+1 |
 
-Bastia
+60 |
 
-|
+Directeur départemental de la sécurité publique et commissaire central |
 
-1
+Chartres |
 
-|
+1 |
 
-80
+60 |
 
-|
+Directeur départemental de la sécurité publique et commissaire central |
 
-Directeur départemental de la sécurité publique et commissaire central
+Clermont-Ferrand |
 
-|
+1 |
 
-Beauvais
+80 |
 
-|
+Directeur départemental de la sécurité publique et commissaire central |
 
-1
+Dijon |
 
-|
+1 |
 
-80
+80 |
 
-|
+Directeur départemental de la sécurité publique et commissaire central |
 
-Directeur départemental de la sécurité publique et commissaire central
+Evreux |
 
-|
+1 |
 
-Besançon
+80 |
 
-|
+Directeur départemental de la sécurité publique et commissaire central |
 
-1
+Fort-de-France |
 
-|
+1 |
 
-80
+100 |
 
-|
+Directeur départemental de la sécurité publique et commissaire central |
 
-Directeur départemental de la sécurité publique et commissaire central-Coordonnateur zonal de la zone de défense Sud-Ouest
+Grenoble |
 
-|
+1 |
 
-Bordeaux
+80 |
 
-|
+Directeur départemental de la sécurité publique et commissaire central |
 
-1
+La Rochelle |
 
-|
+1 |
 
-80
+80 |
 
-|
+Directeur départemental de la sécurité publique et commissaire central |
 
-Directeur départemental de la sécurité publique et commissaire central
+Le Mans |
 
-|
+1 |
 
-Caen
+80 |
 
-|
+Directeur départemental de la sécurité publique et commissaire central |
 
-1
+Limoges |
 
-|
+1 |
 
-80
+80 |
 
-|
+Directeur départemental de la sécurité publique et commissaire central |
 
-Directeur départemental de la sécurité publique et commissaire central
+Montpellier |
 
-|
+1 |
 
-Cayenne
+80 |
 
-|
+Directeur départemental de la sécurité publique et commissaire central |
 
-1
+Nantes |
 
-|
+1 |
 
-100
+80 |
 
-|
+Directeur départemental de la sécurité publique et commissaire central |
 
-Directeur départemental de la sécurité publique et commissaire central
+Nice |
 
-|
+1 |
 
-Charleville-Mézières
+80 |
 
-|
+Directeur départemental de la sécurité publique et commissaire central |
 
-1
+Nîmes |
 
-|
+1 |
 
-60
+80 |
 
-|
+Directeur départemental de la sécurité publique et commissaire central |
 
-Directeur départemental de la sécurité publique et commissaire central
+Orléans |
 
-|
+1 |
 
-Chartres
+80 |
 
-|
+Directeur départemental de la sécurité publique et commissaire central |
 
-1
+Pau |
 
-|
+1 |
 
-60
+80 |
 
-|
+Directeur départemental de la sécurité publique et commissaire central |
 
-Directeur départemental de la sécurité publique et commissaire central
+Perpignan |
 
-|
+1 |
 
-Clermont-Ferrand
+60 |
 
-|
+Directeur départemental de la sécurité publique et commissaire central |
 
-1
+Pointe-à-Pitre |
 
-|
+1 |
 
-80
+100 |
 
-|
+Directeur départemental de la sécurité publique et commissaire central |
 
-Directeur départemental de la sécurité publique et commissaire central
+Poitiers |
 
-|
+1 |
 
-Dijon
+80 |
 
-|
+Directeur départemental de la sécurité publique et commissaire central |
 
-1
+Quimper |
 
-|
+1 |
 
-80
+80 |
 
-|
+Directeur départemental de la sécurité publique et commissaire central |
 
-Directeur départemental de la sécurité publique et commissaire central
+Reims |
 
-|
+1 |
 
-Evreux
+80 |
 
-|
+Directeur départemental de la sécurité publique et commissaire central |
 
-1
+Rouen |
 
-|
+1 |
 
-80
+80 |
 
-|
+Directeur départemental de la sécurité publique et commissaire central |
 
-Directeur départemental de la sécurité publique et commissaire central
+Saint-Denis de La Réunion |
 
-|
+1 |
 
-Fort-de-France
+100 |
 
-|
+Directeur départemental de la sécurité publique et commissaire central |
 
-1
+Strasbourg |
 
-|
+1 |
 
-100
+80 |
 
-|
+Directeur départemental de la sécurité publique et commissaire central |
 
-Directeur départemental de la sécurité publique et commissaire central
+Toulouse |
 
-|
+1 |
 
-Grenoble
+80 |
 
-|
+Directeur départemental de la sécurité publique et commissaire central |
 
-1
+Tours |
 
-|
+1 |
 
-80
+80 |
 
-|
+Directeur départemental de la sécurité publique et commissaire central |
 
-Directeur départemental de la sécurité publique et commissaire central
+Troyes |
 
-|
+1 |
 
-La Rochelle
+60 |
 
-|
+Directeur départemental de la sécurité publique et commissaire central |
 
-1
+Valence |
 
-|
+1 |
 
-80
+80 |
 
-|
+Directeur départemental de la sécurité publique, chef de district et commissaire central |
 
-Directeur départemental de la sécurité publique et commissaire central
+Mulhouse |
 
-|
+1 |
 
-Le Mans
+80 |
 
-|
+Directeur départemental de la sécurité publique, chef de district et commissaire central |
 
-1
+Nancy |
 
-|
+1 |
 
-80
+80 |
 
-|
+Directeur départemental de la sécurité publique, chef de district et commissaire central |
 
-Directeur départemental de la sécurité publique et commissaire central-Lille DDSP-Coordonnateur zonal de la zone de défense Nord
+Saint-Etienne |
 
-|
+1 |
 
-Lille
+80 |
 
-|
+Directeur départemental de la sécurité publique, chef de district et commissaire central |
 
-1
+Toulon |
 
-|
+1 |
 
-110
+80 |
 
-|
+Directeur départemental de la sécurité publique et chef de circonscription |
 
-Directeur départemental de la sécurité publique et commissaire central
+Auxerre |
 
-|
+1 |
 
-Limoges
+60 |
 
-|
+Directeur départemental de la sécurité publique et chef de circonscription |
 
-1
+Laon |
 
-|
+1 |
 
-80
+60 |
 
-|
+Directeur départemental de la sécurité publique et chef de circonscription |
 
-Directeur départemental de la sécurité publique et commissaire central-Coordonnateur zonal de la zone de défense Sud-Est
+Macon |
 
-|
+1 |
 
-Lyon
+60 |
 
-|
+Directeur départemental de la sécurité publique et chef de circonscription |
 
-1
+Vannes |
 
-|
+1 |
 
-110
+60 |
 
-|
+Directeur départemental de la sécurité publique, chef de district et chef de circonscription |
 
-Directeur départemental de la sécurité publique et commissaire central
+Saint-Lô |
 
-|
+1 |
 
-Montpellier
+60 |
 
-|
+Directeur départemental de la sécurité publique et commissaire central - Coordonnateur zonal de la zone de défense Sud-Ouest |
 
-1
+Bordeaux |
 
-|
+1 |
 
-80
+80 |
 
-|
+Directeur départemental de la sécurité publique - Lille DDSP - Coordonnateur zonal de la zone de défense Nord |
 
-Directeur départemental de la sécurité publique et commissaire central
+Lille |
 
-|
+1 |
 
-Nantes
+110 |
 
-|
+Directeur départemental de la sécurité publique et commissaire central - Coordonnateur zonal de la zone de défense Sud-Est |
 
-1
+Lyon |
 
-|
+1 |
 
-80
+110 |
 
-|
+Directeur départemental de la sécurité publique - Coordonnateur zonal de la zone de défense Sud |
 
-Directeur départemental de la sécurité publique et commissaire central
+Marseille |
 
-|
+1 |
 
-Nice
+110 |
 
-|
+Directeur départemental de la sécurité publique, chef de district et commissaire central - Coordonnateur zonal de la zone de défense Est |
 
-1
+Metz |
 
-|
+1 |
 
-80
+100 |
 
-|
+Directeur départemental de la sécurité publique et commissaire central - Coordonnateur zonal de la zone de défense Ouest |
 
-Directeur départemental de la sécurité publique et commissaire central
+Rennes |
 
-|
+1 |
 
-Nîmes
+100 |
 
-|
+Directeur départemental de la sécurité publique |
 
-1
+Arras |
 
-|
+1 |
 
-80
+100 |
 
-|
+Directeur départemental de la sécurité publique |
 
-Directeur départemental de la sécurité publique et commissaire central
+Cergy-Pontoise |
 
-|
+1 |
 
-Orléans
+100 |
 
-|
+Directeur départemental de la sécurité publique |
 
-1
+Evry |
 
-|
+1 |
 
-80
+100 |
 
-|
+Directeur départemental de la sécurité publique |
 
-Directeur départemental de la sécurité publique et commissaire central
+Melun |
 
-|
+1 |
 
-Pau
+100 |
 
-|
+Directeur départemental de la sécurité publique |
 
-1
+Versailles |
 
-|
+1 |
 
-80
+110 |
 
-|
+Directeur départemental adjoint de la sécurité publique |
 
-Directeur départemental de la sécurité publique et commissaire central
+Arras |
 
-|
+1 |
 
-Perpignan
+60 |
 
-|
+Directeur départemental adjoint de la sécurité publique |
 
-1
+Cergy-Pontoise |
 
-|
+1 |
 
-60
+80 |
 
-|
+Directeur départemental adjoint de la sécurité publique |
 
-Directeur départemental de la sécurité publique et commissaire central
+Evry |
 
-|
+1 |
 
-Pointe-à-Pitre
+80 |
 
-|
+Directeur départemental adjoint de la sécurité publique - Lille DDSP |
 
-1
+Lille |
 
-|
+1 |
 
-100
+80 |
 
-|
+Directeur départemental adjoint de la sécurité publique |
 
-Directeur départemental de la sécurité publique et commissaire central
+Marseille |
 
-|
+1 |
 
-Poitiers
+80 |
 
-|
+Directeur départemental adjoint de la sécurité publique |
 
-1
+Melun |
 
-|
+1 |
 
-80
+80 |
 
-|
+Directeur départemental adjoint de la sécurité publique |
 
-Directeur départemental de la sécurité publique et commissaire central
+Versailles |
 
-|
+1 |
 
-Quimper
+80 |
 
-|
+Directeur départemental adjoint de la sécurité publique et commissaire central |
 
-1
+Brest |
 
-|
+1 |
 
-80
+60 |
 
-|
+Directeur départemental adjoint de la sécurité publique et commissaire central |
 
-Directeur départemental de la sécurité publique et commissaire central
+Cherbourg |
 
-|
+1 |
 
-Reims
+60 |
 
-|
+Directeur départemental adjoint de la sécurité publique et commissaire central |
 
-1
+Lorient |
 
-|
+1 |
 
-80
+60 |
 
-|
+Directeur départemental adjoint de la sécurité publique et chef de circonscription |
 
-Directeur départemental de la sécurité publique et commissaire central-Coordonnateur zonal de la zone de défense Ouest
+Annemasse |
 
-|
+1 |
 
-Rennes
+60 |
 
-|
+Directeur départemental adjoint de la sécurité publique et chef de circonscription |
 
-1
+Dreux |
 
-|
+1 |
 
-100
+60 |
 
-|
+Directeur départemental adjoint de la sécurité publique et commissaire central adjoint |
 
-Directeur départemental de la sécurité publique et commissaire central
+Ajaccio |
 
-|
+1 |
 
-Rouen
+60 |
 
-|
+Directeur départemental adjoint de la sécurité publique et commissaire central adjoint |
 
-1
+Amiens |
 
-|
+1 |
 
-80
+60 |
 
-|
+Directeur départemental adjoint de la sécurité publique et commissaire central adjoint |
 
-Directeur départemental de la sécurité publique et commissaire central
+Bastia |
 
-|
+1 |
 
-Saint-Denis de La Réunion
+60 |
 
-|
+Directeur départemental adjoint de la sécurité publique et commissaire central adjoint |
 
-1
+Bordeaux |
 
-|
+1 |
 
-100
+60 |
 
-|
+Directeur départemental adjoint de la sécurité publique et commissaire central adjoint |
 
-Directeur départemental de la sécurité publique et commissaire central
+Cayenne |
 
-|
+1 |
 
-Strasbourg
+60 |
 
-|
+Directeur départemental adjoint de la sécurité publique et commissaire central adjoint |
 
-1
+Montpellier |
 
-|
+1 |
 
-80
+60 |
 
-|
+Directeur départemental adjoint de la sécurité publique et commissaire central adjoint |
 
-Directeur départemental de la sécurité publique et commissaire central
+Mulhouse |
 
-|
+1 |
 
-Toulouse
+60 |
 
-|
+Directeur départemental adjoint de la sécurité publique et commissaire central adjoint |
 
-1
+Nantes |
 
-|
+1 |
 
-80
+60 |
 
-|
+Directeur départemental adjoint de la sécurité publique et commissaire central adjoint |
 
-Directeur départemental de la sécurité publique et commissaire central
+Nice |
 
-|
+1 |
 
-Tours
+60 |
 
-|
+Directeur départemental adjoint de la sécurité publique et commissaire central adjoint |
 
-1
+Rennes |
 
-|
+1 |
 
-80
+60 |
 
-|
+Directeur départemental adjoint de la sécurité publique et commissaire central adjoint |
 
-Directeur départemental de la sécurité publique et commissaire central
+Rouen |
 
-|
+1 |
 
-Troyes
+60 |
 
-|
+Directeur départemental adjoint de la sécurité publique et commissaire central adjoint |
 
-1
+Saint-Denis de La Réunion |
 
-|
+1 |
 
-60
+60 |
 
-|
+Directeur départemental adjoint de la sécurité publique et commissaire central adjoint |
 
-Directeur départemental de la sécurité publique et commissaire central
+Strasbourg |
 
-|
+1 |
 
-Valence
+60 |
 
-|
+Directeur départemental adjoint de la sécurité publique et commissaire central adjoint |
 
-1
+Toulouse |
 
-|
+1 |
 
-80
+60 |
 
-|
+Directeur départemental adjoint de la sécurité publique, commissaire central adjoint, chef du service de sécurité de proximité |
 
-Directeur départemental de la sécurité publique, chef de district et commissaire central-Coordonnateur zonal de la zone de défense Sud
+Fort-de-France |
 
-|
+1 |
 
-Marseille
+60 |
 
-|
+Directeur départemental adjoint de la sécurité publique, commissaire central adjoint, chef du service de sécurité de proximité |
 
-1
+Lyon |
 
-|
+1 |
 
-110
+80 |
 
-|
+Directeur départemental adjoint de la sécurité publique et commissaire central adjoint |
 
-Directeur départemental de la sécurité publique, chef de district et commissaire central-Coordonnateur zonal de la zone de défense Est
+Pointe-à-Pitre |
 
-|
+1 |
 
-Metz
+60 |
 
-|
+Directeur départemental de la sécurité intérieure |
 
-1
+Bastia |
 
-|
+1 |
 
-100
+60 |
 
-|
+Directeur départemental de la sécurité intérieure |
 
-Directeur départemental de la sécurité publique, chef de district et commissaire central
+Bobigny |
 
-|
+1 |
 
-Mulhouse
+60 |
 
-|
+Directeur interdépartemental de la sécurité intérieure |
 
-1
+Bayonne |
 
-|
+1 |
 
-80
+60 |
 
-|
+Directeur départemental de la police aux frontières |
 
-Directeur départemental de la sécurité publique, chef de district et commissaire central
+Cayenne |
 
-|
+1 |
 
-Nancy
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Directeur départemental de la sécurité publique, chef de district et commissaire central
-
-|
-
-Saint-Etienne
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Directeur départemental de la sécurité publique, chef de district et commissaire central
-
-|
-
-Toulon
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Directeur départemental de la sécurité publique et chef de circonscription
-
-|
-
-Auxerre
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Directeur départemental de la sécurité publique et chef de circonscription
-
-|
-
-Laon
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Directeur départemental de la sécurité publique et chef de circonscription
-
-|
-
-Mâcon
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Directeur départemental de la sécurité publique et chef de circonscription
-
-|
-
-Vannes
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Directeur départemental de la sécurité publique, chef de district et chef de circonscription
-
-|
-
-Saint-Lô
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Directeur départemental de la sécurité publique
-
-|
-
-Arras
-
-|
-
-1
-
-|
-
-100
-
-|
-
-Directeur départemental de la sécurité publique
-
-|
-
-Cergy-Pontoise
-
-|
-
-1
-
-|
-
-100
-
-|
-
-Directeur départemental de la sécurité publique
-
-|
-
-Evry
-
-|
-
-1
-
-|
-
-100
-
-|
-
-Directeur départemental de la sécurité publique
-
-|
-
-Melun
-
-|
-
-1
-
-|
-
-100
-
-|
-
-Directeur départemental de la sécurité publique
-
-|
-
-Versailles
-
-|
-
-1
-
-|
-
-110
-
-|
-
-Directeur départemental adjoint de la sécurité publique
-
-|
-
-Arras
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Directeur départemental adjoint de la sécurité publique
-
-|
-
-Cergy-Pontoise
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Directeur départemental adjoint de la sécurité publique
-
-|
-
-Evry
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Directeur départemental adjoint de la sécurité publique
-
-|
-
-Melun
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Directeur départemental adjoint de la sécurité publique
-
-|
-
-Versailles
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Directeur départemental adjoint de la sécurité publique et commissaire central
-
-|
-
-Brest
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Directeur départemental adjoint de la sécurité publique et commissaire central
-
-|
-
-Cherbourg
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Directeur départemental adjoint de la sécurité publique et commissaire central
-
-|
-
-Lorient
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Directeur départemental adjoint de la sécurité publique et chef de circonscription
-
-|
-
-Annemasse
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Directeur départemental adjoint de la sécurité publique et chef de circonscription
-
-|
-
-Dreux
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Directeur départemental adjoint de la sécurité publique et commissaire central adjoint
-
-|
-
-Ajaccio
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Directeur départemental adjoint de la sécurité publique et commissaire central adjoint
-
-|
-
-Amiens
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Directeur départemental adjoint de la sécurité publique et commissaire central adjoint
-
-|
-
-Bastia
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Directeur départemental adjoint de la sécurité publique et commissaire central adjoint
-
-|
-
-Bordeaux
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Directeur départemental adjoint de la sécurité publique et commissaire central adjoint
-
-|
-
-Cayenne
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Directeur départemental adjoint de la sécurité publique et commissaire central adjoint-Lille DDSP
-
-|
-
-Lille
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Directeur départemental adjoint de la sécurité publique et commissaire central adjoint
-
-|
-
-Marseille
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Directeur départemental adjoint de la sécurité publique et commissaire central adjoint
-
-|
-
-Montpellier
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Directeur départemental adjoint de la sécurité publique et commissaire central adjoint
-
-|
-
-Mulhouse
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Directeur départemental adjoint de la sécurité publique et commissaire central adjoint
-
-|
-
-Nantes
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Directeur départemental adjoint de la sécurité publique et commissaire central adjoint
-
-|
-
-Nice
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Directeur départemental adjoint de la sécurité publique et commissaire central adjoint
-
-|
-
-Rennes
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Directeur départemental adjoint de la sécurité publique et commissaire central adjoint
-
-|
-
-Rouen
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Directeur départemental adjoint de la sécurité publique et commissaire central adjoint
-
-|
-
-Saint Denis de La Réunion
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Directeur départemental adjoint de la sécurité publique et commissaire central adjoint
-
-|
-
-Strasbourg
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Directeur départemental adjoint de la sécurité publique et commissaire central adjoint
-
-|
-
-Toulouse
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Directeur départemental adjoint de la sécurité publique, commissaire central adjoint, chef du service de sécurité de proximité
-
-|
-
-Fort-de-France
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Directeur départemental adjoint de la sécurité publique, commissaire central adjoint, chef du service de sécurité de proximité
-
-|
-
-Lyon
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Directeur départemental adjoint de la sécurité publique et commissaire central adjoint
-
-|
-
-Pointe-à-Pitre
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Directeur départemental de la sécurité intérieure
-
-|
-
-Bastia
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Directeur départemental de la sécurité intérieure
-
-|
-
-Bobigny
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Directeur interdépartemental de la sécurité intérieure
-
-|
-
-Bayonne
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Directeur départemental de la police aux frontières
-
-|
-
-Cayenne
-
-|
-
-1
-
-|
-
-60
-
-|
+60 |
 
 3° Chef de district et commissaire central ; commissaire central ; chef de circonscription
 
-DÉSIGNATION DES EMPLOIS
+DÉSIGNATION DES EMPLOIS |
 
-|
+DÉSIGNATION
 
-DÉSIGNATION DES VILLES
+des villes |
 
-|
+NOMBRE
 
-NOMBRE DE BÉNÉFICIAIRES
+de bénéficiaires |
 
-|
+NOMBRE
 
-NOMBRE DE POINTS
+de points |
 
-|
+Chef de circonscription |
 
-Chef de circonscription
+Arras |
 
-|
+1 |
 
-Arras
+60 |
 
-|
+Chef de circonscription |
 
-1
+Chessy |
 
-|
+1 |
 
-60
+60 |
 
-|
+Chef de circonscription |
 
-Chef de circonscription
+Corbeil |
 
-|
+1 |
 
-Chessy
+60 |
 
-|
+Chef de circonscription |
 
-1
+Garges-les-Gonesse |
 
-|
+1 |
 
-60
+60 |
 
-|
+Chef de circonscription |
 
-Chef de circonscription
+La Seyne-sur-Mer |
 
-|
+1 |
 
-Conflans-Sainte-Honorine
+60 |
 
-|
+Chef de circonscription |
 
-1
+Le Port |
 
-|
+1 |
 
-60
+60 |
 
-|
+Chef de circonscription |
 
-Chef de circonscription
+Louviers - Val de Reuil |
 
-|
+1 |
 
-Corbeil
+60 |
 
-|
+Chef de circonscription |
 
-1
+Montbéliard |
 
-|
+1 |
 
-60
+60 |
 
-|
+Chef de circonscription |
 
-Chef de circonscription
+Saint-Pierre |
 
-|
+1 |
 
-Garges-lès-Gonesse
+60 |
 
-|
+Chef de circonscription |
 
-1
+Vernon |
 
-|
+1 |
 
-60
+60 |
 
-|
+Chef de circonscription |
 
-Chef de circonscription
+Vitrolles |
 
-|
+1 |
 
-La Seyne-sur-Mer
+60 |
 
-|
+Chef de district et commissaire central |
 
-1
+Argenteuil |
 
-|
+1 |
 
-60
+60 |
 
-|
+Chef de district et commissaire central |
 
-Chef de circonscription
+Bayonne |
 
-|
+1 |
 
-Le Port
+60 |
 
-|
+Chef de district et commissaire central |
 
-1
+Béthune |
 
-|
+1 |
 
-60
+60 |
 
-|
+Chef de district et commissaire central |
 
-Chef de circonscription
+Cergy-Pontoise |
 
-|
+1 |
 
-Les Mureaux
+60 |
 
-|
+Chef de district et commissaire central |
 
-1
+Dunkerque |
 
-|
+1 |
 
-60
+60 |
 
-|
+Chef de district et commissaire central |
 
-Chef de circonscription
+Evry |
 
-|
+1 |
 
-Louviers-Val de Reuil
+60 |
 
-|
+Chef de district et commissaire central |
 
-1
+Juvisy-sur-Orge |
 
-|
+1 |
 
-60
+60 |
 
-|
+Chef de district et commissaire central |
 
-Chef de circonscription
+Le Havre |
 
-|
+1 |
 
-Montbéliard
+60 |
 
-|
+Chef de district et commissaire central |
 
-1
+Marseille |
 
-|
+1 |
 
-60
+60 |
 
-|
+Chef de district et commissaire central |
 
-Chef de circonscription
+Martigues |
 
-|
+1 |
 
-Poissy
+60 |
 
-|
+Chef de district et commissaire central |
 
-1
+Meaux |
 
-|
+1 |
 
-60
+60 |
 
-|
+Chef de district et commissaire central |
 
-Chef de circonscription
+Melun |
 
-|
+1 |
 
-Saint-Pierre
+60 |
 
-|
+Chef de district et commissaire central |
 
-1
+Palaiseau |
 
-|
+1 |
 
-60
+60 |
 
-|
+Chef de district et commissaire central |
 
-Chef de circonscription
+Sarcelles |
 
-|
+1 |
 
-Sartrouville
+60 |
 
-|
+Chef de district et commissaire central |
 
-1
+Torcy |
 
-|
+1 |
 
-60
+60 |
 
-|
+Commissaire central |
 
-Chef de circonscription
+Béziers |
 
-|
+1 |
 
-Trappes
+60 |
 
-|
+Commissaire central |
 
-1
+Calais |
 
-|
+1 |
 
-60
+60 |
 
-|
+Commissaire central - Conflans-Sainte-Honorine agglomération |
 
-Chef de circonscription
+Conflans-Sainte-Honorine |
 
-|
+1 |
 
-Vernon
+60 |
 
-|
+Commissaire central |
 
-1
+Creil |
 
-|
+1 |
 
-60
+60 |
 
-|
+Commissaire central |
 
-Chef de circonscription
+Douai |
 
-|
+1 |
 
-Vitrolles
+60 |
 
-|
+Commissaire central - Elancourt agglomération |
 
-1
+Elancourt |
 
-|
+1 |
 
-60
+60 |
 
-|
+Commissaire central |
 
-Chef de district et commissaire central
+Lens |
 
-|
+1 |
 
-Argenteuil
+60 |
 
-|
+Commissaire central |
 
-1
+Les Mureaux |
 
-|
+1 |
 
-60
+60 |
 
-|
+Commissaire central |
 
-Chef de district et commissaire central
+Mantes-la-Jolie |
 
-|
+1 |
 
-Bayonne
+60 |
 
-|
+Commissaire central |
 
-1
+Maubeuge |
 
-|
+1 |
 
-60
+60 |
 
-|
+Commissaire central - Saint-Germain-en-Laye agglomération |
 
-Chef de district et commissaire central
+Saint-Germain-en-Laye |
 
-|
+1 |
 
-Béthune
+60 |
 
-|
+Commissaire central - Sartrouville agglomération |
 
-1
+Sartrouville |
 
-|
+1 |
 
-60
+60 |
 
-|
+Commissaire central |
 
-Chef de district et commissaire central
+Thionville |
 
-|
+1 |
 
-Cergy-Pontoise
+60 |
 
-|
+Commissaire central |
 
-1
+Valenciennes |
 
-|
+1 |
 
-60
+60 |
 
-|
+Commissaire central - Versailles agglomération |
 
-Chef de district et commissaire central
+Versailles |
 
-|
+1 |
 
-Dunkerque
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Chef de district et commissaire central
-
-|
-
-Elancourt
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Chef de district et commissaire central
-
-|
-
-Evry
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Chef de district et commissaire central
-
-|
-
-Juvisy-sur-Orge
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Chef de district et commissaire central
-
-|
-
-Le Havre
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Chef de district et commissaire central
-
-|
-
-Mantes-la-Jolie
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Chef de district et commissaire central
-
-|
-
-Martigues
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Chef de district et commissaire central
-
-|
-
-Meaux
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Chef de district et commissaire central
-
-|
-
-Melun
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Chef de district et commissaire central
-
-|
-
-Palaiseau
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Chef de district et commissaire central
-
-|
-
-Saint-Germain-en-Laye
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Chef de district et commissaire central
-
-|
-
-Sarcelles
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Chef de district et commissaire central
-
-|
-
-Torcy
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Chef de district et commissaire central
-
-|
-
-Versailles
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Commissaire central
-
-|
-
-Béziers
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Commissaire central
-
-|
-
-Calais
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Commissaire central
-
-|
-
-Creil
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Commissaire central
-
-|
-
-Douai
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Commissaire central
-
-|
-
-Lens
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Commissaire central
-
-|
-
-Maubeuge
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Commissaire central
-
-|
-
-Thionville
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Commissaire central
-
-|
-
-Valenciennes
-
-|
-
-1
-
-|
-
-60
-
-|
+60 |
