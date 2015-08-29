@@ -1,20 +1,20 @@
 # Article Annexe 12
 
-MODALITÉS DE REPRÉSENTATION DE LA CLASSIFICATION DE L'ÉTAT
-
-ET DU POTENTIEL ÉCOLOGIQUES ET DE L'ÉTAT CHIMIQUE DES MASSES D'EAU DE SURFACE
+MODALITÉS DE REPRÉSENTATION DE LA CLASSIFICATION DE L'ÉTAT ET DU POTENTIEL ÉCOLOGIQUES ET DE L'ÉTAT CHIMIQUE DES MASSES D'EAU DE SURFACE
 
 Les modalités de représentation à suivre pour la réalisation des cartes d'état et de potentiel écologiques et d'état chimique pour les masses d'eau de surface sont définies ci-après.
 
 1. Etat et potentiel écologiques
 
-La classification de l'état et du potentiel écologiques pour les masses d'eau de surface est représentée à l'aide des couleurs indiquées dans le tableau ci-dessous.
+La classification de l'état et du potentiel écologiques pour les masses d'eau de surface est représentée à l'aide des couleurs indiquées dans le tableau 90 ci-dessous.
+
+Tableau 90 : Code couleur pour la représentation de la classification de l'état des masses d'eau
 
 CLASSIFICATION DE L'ÉTAT ÉCOLOGIQUE
 
 |
 
-CODE DE COULEUR
+CODE COULEUR
 
 |
 
@@ -70,23 +70,29 @@ Un point noir est ajouté sur la carte pour les masses d'eau ne respectant pas u
 
 |
 
-CLASSIFICATION DE L'ÉTAT ÉCOLOGIQUE
+CLASSIFICATION DU POTENTIEL
+
+ÉCOLOGIQUE
 
 |
 
-CODE DE COULEUR
+CODE COULEUR
 
 |
 
-Masses d'eau artificielles
+Masses d'eau
+
+artificielles
 
 |
 
-Masses d'eau fortement modifiées
+Masses d'eau
+
+fortement modifiées
 
 |
 
-Bon et plus
+Bon et Très bon
 
 |
 
@@ -150,11 +156,85 @@ Un point noir est ajouté sur la carte pour les masses d'eau ne respectant pas u
 
 |
 
-Le niveau de confiance de la classification de l'état et du potentiel écologiques pour les masses d'eau de surface est représentée à l'aide des couleurs indiquées dans le tableau ci-dessous.
+Le niveau de confiance de la classification de l'état et du potentiel écologiques pour les masses d'eau de surface est représenté à l'aide des couleurs indiquées dans le tableau 91 ci-dessous.
 
-NIVEAU DE CONFIANCE DE LA CLASSIFICATION
+Tableau 91 : Code couleur pour la représentation du niveau de confiance de la classification de l'état et du potentiel écologique des masses d'eau de surface
 
-de l'état et du potentiel écologiques
+NIVEAU DE CONFIANCE DE LA CLASSIFICATION DE L'ÉTAT ET DU POTENTIEL ÉCOLOGIQUES
+
+|
+
+Elevé
+
+|
+
+Vert clair (C45M0J70N0)
+
+|
+
+Moyen
+
+|
+
+Rose sale (C10M5J30N0)
+
+|
+
+Faible
+
+|
+
+Rose clair (C0M50J25N0)
+
+|
+
+Information insuffisante
+
+|
+
+Gris 30 %
+
+|
+
+2. Etat chimique
+
+La classification de l'état chimique pour les masses d'eau de surface est représentée à l'aide des couleurs indiquées dans le tableau 92 ci-dessous.
+
+Tableau 92 : Code couleur pour la représentation de la classification de l'état chimique des masses d'eau de surface
+
+ÉTAT CHIMIQUE
+
+|
+
+Bon
+
+|
+
+Fond : sans ; contour : bleu (C90M15J20N0), 2 pt
+
+|
+
+Mauvais
+
+|
+
+Fond : sans ; contour : rouge (C0M100J100N0), 2 pt
+
+|
+
+Information insuffisante pour attribuer un état
+
+|
+
+Fond : sans ; contour : gris 30 %, 2 pt
+
+|
+
+Le niveau de confiance de la classification de l'état chimique pour les masses d'eau de surface est représenté à l'aide des couleurs indiquées dans le tableau 93 ci-dessous.
+
+Tableau 93 : Code couleur pour la représentation du niveau de confiance de la classification de l'état chimique des masses d'eau de surface
+
+NIVEAU DE CONFIANCE DE LA CLASSIFICATION DE L'ÉTAT CHIMIQUE
 
 |
 
@@ -189,51 +269,3 @@ Pas d'information
 Gris 30 %
 
 |
-
-2. Etat chimique
-
-La classification de l'état chimique pour les masses d'eau de surface est représentée à l'aide des couleurs indiquées dans le tableau ci-dessous.
-
-Vous pouvez consulter le tableau dans le JO
-
-n° 46 du 24/02/2010 texte numéro 9
-
-Le niveau de confiance de la classification de l'état chimique pour les masses d'eau de surface est représentée à l'aide des couleurs indiquées dans le tableau ci-dessous.
-
-Niveau de confiance de la classification de l'état chimique
-
-|
-
-Elevé
-
-|
-
-Vert clair (C45M0J70N0)
-
-|
-
-Moyen
-
-|
-
-Rose sale (C10M5J30N0)
-
-|
-
-Faible
-
-|
-
-Rose clair (C0M50J25N0)
-
-|
-
-Pas d'information
-
-|
-
-Gris 30%
-
-|
-
-(1) Ce schéma est issu du document guide européen Approche générale de la classification de l'état écologique et du potentiel écologique, ECOSTAT, novembre 2003. (2) C'est-à-dire moyen, médiocre ou mauvais pour un élément de qualité physico-chimique général ; non-respect de la NQE pour un polluant spécifique de l'état écologique. (3) Pour les éléments de qualité physico-chimiques, les limites supérieure et inférieure de la classe bon suffisent pour la classification de l'état écologique, puisqu'un état écologique moins que bon est attribué sur la base des éléments biologiques, étant entendu que les valeurs seuils des éléments physico-chimiques sont déterminées de manière à être cohérentes avec les limites de classes établies pour les éléments biologiques. Néanmoins, au regard des données et des outils aujourd'hui disponibles, l'état écologique de certaines masses d'eau peut être évalué en considérant avec comme unique base numérique les données relatives aux paramètres physico-chimiques généraux, issues de la surveillance ou d'outils de modélisation. Dans ces cas, on utilisera les valeurs des limites de classes entre l'état moyen et l'état médiocre ainsi qu'entre l'état médiocre et le mauvais état des paramètres physico-chimiques généraux indiquées dans la table générale ci-dessus. (4) Par exemple, oxygène dissous, taux de saturation en oxygène, DBO5 et carbone organique sont des paramètres de l'élément de qualité bilan de l'oxygène . (5) Classes médiocre , moyen , mauvais . (6) Pour accéder à l'atlas, voir sur le site internet du CEMAGREF : http//www.lyon.cemagref.fr/bea/lha/syrah.shtml (7) Borja A., Alf. B., Josefson A. B., Miles A., Muxika I., Olsgard F., Philips G., Rodriguez G. and Rygg B., 2007. An approach to the intercalibration of benthic ecological status assessment in the North Atlantic ecoregion, according to the European Water Framework Directive. Marine Pollution Bulletin, 55, 42-52. (8) CFR (Quality of Rocky Bottoms) Index, référence bibliographique : Juanes, J.A., Guinda, X., Puente, A., Revilla, J.A., 2007. Macroalgae, a suitable indicator of the ecological status of coastal rocky communities in the NE Atlantic. Ecological Indicators in press (ECOIND 301). (9) Proposition de calcul d'un indice de qualité pour le suivi des macroalgues des fonds subtidaux rocheux dans le cadre de la DCE DERRIEN-COURTEL Sandrine & LE GAL Aodren. MNHN - station de biologie marine de Concarneau, juin 2009. (10) CARLIT : Ballesteros, E., Torras, X., Pinedo, S., Garcia, M., Mangialajo and L., de Torres, M., 2007. A new methodology based on littoral community cartography dominated by macroalgae for the implementation of the European Water Framework Directive. Marine Pollution Bulletin. 55, 172-180. (11) Gobert S., Andral B., Boissery P., Chery A., Lejeune P., Pelaprat C., Rico-Raimondino V. et Sartoretto S. (2008). Soutien méthodologique à la mise en œuvre de la Directive Cadre Eau item : Herbier de posidonie : validation du protocole de calcul de l'EQR. Ifremer-Université de Liège-STARESO-Agence de l'eau. 55 pp. (12) Rapport Daniel A., Soudant D., 2009. Evaluation DCE avril 2009. Elément de qualité : bilan d'oxygène. (13) Girardin, M., Lepage, M., Amara, R., Boët, P., Courrat, A., Delpech, C., Durozoi, B., Laffargue, P., Le Pape, O., Lobry, J., Parlier, E. and Pasquaud, S. 2009. Développement d'un indicateur poisson pour les eaux de transition. Cemagref. Programme Liteau II. Rapport scientifique de fin de contrat. 50 p. (14) A ce titre, les sites visant à contrôler uniquement des pressions (réseaux de suivi de pollutions par exemple) ne doivent pas être pris en compte. Par ailleurs, les sites localisés dans une masse d'eau amont ou aval d'une masse d'eau M peuvent être utilisés pour établir l'état de cette masse d'eau M, dès lors qu'ils sont considérés comme représentatifs de son état. (15) Les données, notamment biologiques, ainsi acquises sont réputées rendre compte de l'effet global sur l'état de la masse d'eau des éventuelles pressions que celle-ci subit. (16) Dans l'attribution du niveau de confiance, on pourra tenir compte de la cohérence de l'état évalué avec les éventuelle données antérieures disponibles, au-delà de celles requises sur les deux ou six ans pour évaluer l'état d'une masse d'eau cours d'eau ou plan d'eau.
