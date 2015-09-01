@@ -1,0 +1,9 @@
+# Réponse à la question n° 78801
+
+- Question : [78801](78801.md) — Question n° 78801 — armes; livraison; frégate multi-missions; financement
+
+## Réponse
+
+*JO du 2015-09-01*
+
+Le prélèvement au profit de l'Egypte de la frégate européenne multi-missions (FREMM), ex « Normandie », dont la livraison à la marine nationale était prévue pour la fin de l'année 2014, nécessite de réviser la cadence de production actuelle des FREMM afin de ne pas fragiliser la composante de la lutte anti sous-marine. Dans ce contexte, l'article 2.7.3 du rapport annexé à la loi n° 2015-917 du 28 juillet 2015 actualisant la programmation militaire pour les années 2015 à 2019 et portant diverses dispositions concernant la défense, précise notamment que la construction et l'admission au service actif des FREMM, commencées avant 2014, se poursuivront avec l'objectif d'en voir livrer 6 avant mi-2019. Les deux suivantes, livrées en 2021 et 2022, auront une capacité renforcée de défense aérienne pour remplacer les deux frégates antiaériennes d'ancienne génération « Cassard » et « Jean Bart » et compléter les deux unités de type « Horizon ». Cet aménagement de calendrier impose de lancer rapidement l'acquisition des équipements dont le temps d'approvisionnement est long et de supporter le surcoût lié à l'accélération de la livraison des FREMM prévue avant mi-2019. Dans cette perspective, il peut être précisé que pour ce qui concerne la FREMM, ex « Normandie », la France a versé 558 millions d'euros à l'organisation conjointe de coopération en matière d'armement (OCCAr) et 452 millions d'euros ont été payés par l'OCCAr au groupe DCNS à titre d'acomptes. Ces sommes seront mobilisées pour permettre la mise en oeuvre de l'aménagement du calendrier des FREMM et de l'avenant contractuel qui sera établi avec DCNS d'ici à la fin de l'année 2015.
