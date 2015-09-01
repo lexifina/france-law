@@ -1,0 +1,9 @@
+# Réponse à la question n° 58251
+
+- Question : [58251](58251.md) — Question n° 58251 — bois de chauffage
+
+## Réponse
+
+*JO du 2015-09-01*
+
+Depuis le 1er janvier 2014, les taux de la taxe sur la valeur ajoutée (TVA) sont modifiés comme suit : le taux normal est fixé à 20 % et le taux réduit de 7 % fixé à 10 %. Dans ce cadre, le bois de chauffage, les produits de la sylviculture agglomérés ou les déchets de bois destinés au chauffage sont soumis au taux réduit de 10 % depuis le 1er janvier 2014 en application des dispositions du 3° bis de l'article 278 bis du code général des impôts (CGI). Toutefois, la livraison par réseau d'énergie calorifique produite au moins à 50 % à partir de la biomasse (dont le bois), de la géothermie, des déchets et d'énergie de récupération bénéficie du taux réduit de 5,5 % de la TVA sur le fondement du B de l'article 278-0 bis du CGI. Il est rappelé que la plupart des autres sources d'énergie ne bénéficient pas d'une fiscalité aussi favorable que la filière bois-énergie en matière de TVA. En effet, la chaleur produite à partir d'hydrocarbures (pétrole et gaz), d'électricité, et même l'énergie provenant d'autres sources d'énergie renouvelable sont soumises au taux normal de 20 % à compter du 1er janvier 2014, en plus de la taxe intérieure sur la consommation de produits énergétiques (TICPE) et des taxes assimilées. Ces éléments montrent que le Gouvernement préserve la situation préférentielle de la filière bois-énergie, en raison de son intérêt économique et écologique. Par ailleurs, le Gouvernement a mis en place le crédit d'impôt pour la compétitivité et l'emploi (CICE) pour répondre aux préoccupations exprimées par les professionnels quant à la sauvegarde des emplois. Ainsi la filière bois-énergie, intensive en main d'oeuvre, bénéficie largement du crédit d'impôt.
