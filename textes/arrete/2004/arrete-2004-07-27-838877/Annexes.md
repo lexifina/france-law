@@ -40,6 +40,8 @@ L'opérateur peut toutefois demander, dans certains cas, à la personne qui pré
 
 - la dépose de la calandre ou d'un cache, qui ne nécessite pas l'emploi d'outils, pour effectuer, lorsque cela est prévu, la vérification d'organes facilement et rapidement accessibles ;
 
+- l'ouverture de la trappe d'accès (si nécessaire) qui peut nécessiter l'emploi d'outils du lot de bord du véhicule pour effectuer le contrôle du scellement ou plombage du chronotachygraphe, situé à la sortie de la boîte de vitesses ;
+
 - l'ouverture du capot, afin de relever les marques d'identification du véhicule ;
 
 - la vidange des circuits d'air lorsque le véhicule est muni d'un dispositif de freinage pneumatique.
@@ -76,21 +78,13 @@ LIBELLÉ DE LA LOCALISATION
 
 |
 
-Essieu 1
+Essieu 1 |
 
-|
+Essieu 2 |
 
-Essieu 2
+Essieu 3 |
 
-|
-
-Essieu 3
-
-|
-
-Essieu 4
-
-|
+Essieu 4 |
 
 Essieu 5
 
@@ -114,127 +108,75 @@ Essieu 9
 
 2 |
 
-AV
+AV |
 
-|
-
-AR
-
-|
+AR |
 
 3 |
 
-Droit
+Droit |
 
-|
-
-Gauche
-
-|
+Gauche |
 
 4 |
 
-Milieu
+Milieu |
 
-|
-
-Latéral
-
-|
+Latéral |
 
 5 |
 
-Intérieur
+Intérieur |
 
-|
-
-Extérieur
-
-|
+Extérieur |
 
 6 |
 
-Inférieur
+Inférieur |
 
-|
-
-Supérieur
-
-|
+Supérieur |
 
 7 |
 
-Tous
+Tous |
 
-|
+Toutes |
 
-Toutes
+8 |
 
-|
-
-8
-
-|
-
-Entre TRR et REM
-
-|
+Entre TRR et REM |
 
 9
 
 |
 
-Valve 4 voies
+Valve 4 voies |
 
-|
+Valve relais |
 
-Valve relais
+Valve de correction |
 
-|
+Valve de commande de remorque |
 
-Valve de correction
+Valve relais d'urgence |
 
-|
-
-Valve de commande de remorque
-
-|
-
-Valve relais d'urgence
-
-|
-
-Valve de desserrage rapide
-
-|
+Valve de desserrage rapide |
 
 A
 
 |
 
-60
+60 |
 
-|
+70 |
 
-70
+80 |
 
-|
+90 |
 
-80
+100 |
 
-|
-
-90
-
-|
-
-100
-
-|
-
-110
-
-|
+110 |
 
 La localisation d'une observation de la liste ci-après (partie B) ne peut être effectuée qu'au moyen des codifications proposées entre parenthèses pour ce défaut.
 
@@ -246,7 +188,7 @@ N° de l'observation + point de contrôle + observation constatée + localisatio
 
 Exemple :
 
-4. 2. 2. 1. 1. FEU INDICATEUR DE DIRECTION : Détérioration notable AV D
+4.2.2.1.1. FEU INDICATEUR DE DIRECTION : Détérioration notable AV D
 
 Les annotations manuscrites sur le procès-verbal sont interdites.
 
@@ -260,29 +202,17 @@ TYPE DE CONTRÔLE
 
 |
 
-M
+M |
 
-|
+Véhicules à moteur |
 
-Véhicules à moteur
+R |
 
-|
+Véhicules remorqués |
 
-R
+T |
 
-|
-
-Véhicules remorqués
-
-|
-
-T
-
-|
-
-Tous les véhicules (à moteur et remorqués).
-
-|
+Tous les véhicules (à moteur et remorqués). |
 
 6° Sanction de la visite :
 
@@ -294,57 +224,41 @@ RÉSULTAT
 
 |
 
-O
+O |
 
-|
+Constatation d'anomalie non soumise à contre-visite |
 
-Constatation d'anomalie non soumise à contre-visite
+S |
 
-|
+Constatation de défaut justifiant une contre-visite sans interdiction de circuler |
 
-S
+R |
 
-|
+Constatation de défaut justifiant une contre-visite avec interdiction de circuler |
 
-Constatation de défaut justifiant une contre-visite sans interdiction de circuler
+X |
 
-|
-
-R
-
-|
-
-Constatation de défaut justifiant une contre-visite avec interdiction de circuler
-
-|
-
-X
-
-|
-
-Report de la visite, renvoi du véhicule
-
-|
+Report de la visite, renvoi du véhicule |
 
 La codification "C" signifie que le libellé correspond à un commentaire qui n'est pas considéré comme un défaut.
 
 PARTIE A
 
-I - LISTE DES POINTS DE CONTROLE
+I - LISTE DES POINTS DE CONTRÔLE
 
-0 IDENTIFICATION DU VEHICULE
+0 IDENTIFICATION DU VÉHICULE
 
 0.1. DOCUMENT
 
 0.1.1. CERTIFICAT D'IMMATRICULATION
 
-0.1.2. NOTICE DESCRIPTIVE-CERTIFICAT DE CONFORMITE
+0.1.2. NOTICE DESCRIPTIVE-CERTIFICAT DE CONFORMITÉ
 
 0.1.4. CARNET D'ENTRETIEN
 
 0.1.6. CERTIFICAT DE CARROSSAGE
 
-0.2. NUMERO D'IMMATRICULATION
+0.2. NUMÉRO D'IMMATRICULATION
 
 0.2.1. PLAQUE D'IMMATRICULATION
 
@@ -354,11 +268,11 @@ I - LISTE DES POINTS DE CONTROLE
 
 0.3.2. FRAPPE A FROID SUR LE CHASSIS
 
-0.4. PRESENTATION DU VEHICULE
+0.4. PRESENTATION DU VÉHICULE
 
-0.4.1. ETAT DE CHARGE DU VEHICULE
+0.4.1. ETAT DE CHARGE DU VÉHICULE
 
-0.4.2. ETAT DE PRESENTATION DU VEHICULE
+0.4.2. ETAT DE PRESENTATION DU VÉHICULE
 
 0.4.3. CONDITIONS D'ESSAIS
 
@@ -532,7 +446,7 @@ I - LISTE DES POINTS DE CONTROLE
 
 3.2. RETROVISEURS
 
-3.2.1. RETROVISEUR INTERIEUR
+3.2.1. RETROVISEUR INTÉRIEUR
 
 3.2.2. RETROVISEUR EXTERIEUR
 
@@ -822,23 +736,23 @@ I - LISTE DES POINTS DE CONTROLE
 
 9.2.1. BRUIT MOTEUR
 
-9.3. ELEMENTS D'INFORMATION (Point de contrôle applicable à compter du 1er janvier 2011)
+9.3. ELEMENTS D'INFORMATION
 
 9.3.1. DISPOSITIF DE DIAGNOSTIC EMBARQUE (OBD)
 
-II - LISTE DES POINTS DE CONTROLE SUPPLEMENTAIRES APPLICABLES AUX VEHICULES LOURDS SOUMIS A REGLEMENTATION SPECIFIQUE
+II - LISTE DES POINTS DE CONTRÔLE SUPPLEMENTAIRES APPLICABLES AUX VÉHICULES LOURDS SOUMIS A REGLEMENTATION SPECIFIQUE
 
-10 CONTROLES COMPLEMENTAIRES TCP
+10 CONTRÔLES COMPLEMENTAIRES TCP
 
 10.1. IDENTIFICATION
 
 10.1.1. CARTE VIOLETTE OU ATTESTATION D'AMENAGEMENT
 
-10.1.2. PRESENTATION DU VEHICULE
+10.1.2. PRESENTATION DU VÉHICULE
 
 10.1.3. CERTIFICAT D'INSTALLATION DU DISPOSITIF ETHYLOTEST ANTIDÉMARRAGE (EAD)
 
-10.1.4. ATTESTATION DE VÉRIFICATION PÉRIODIQUE DU DISPOSITIF ETHYLOTEST ANTIDÉMARRAGE (EAD) (1)
+10.1.4. ATTESTATION DE VÉRIFICATION PÉRIODIQUE DU DISPOSITIF ÉTHYLOTEST ANTIDÉMARRAGE (EAD)
 
 10.2. PREVENTION DES RISQUES D'INCENDIE
 
@@ -910,6 +824,8 @@ II - LISTE DES POINTS DE CONTROLE SUPPLEMENTAIRES APPLICABLES AUX VEHICULES LOUR
 
 10.5.4. SIGNAL DE DETRESSE
 
+10.5.5. DISPOSITIF ÉTHYLOTEST ANTIDÉMARRAGE (EAD)
+
 10.6. TRANSPORT D'ENFANT
 
 10.6.1. VERROUILLAGE PORTE ARRIERE
@@ -938,13 +854,13 @@ II - LISTE DES POINTS DE CONTROLE SUPPLEMENTAIRES APPLICABLES AUX VEHICULES LOUR
 
 10.10.1. ESCALIER
 
-11 CONTROLES COMPLEMENTAIRES VEHICULES DEPANNAGE
+11 CONTRÔLES COMPLEMENTAIRES VÉHICULES DEPANNAGE
 
 11.1. IDENTIFICATION
 
 11.1.1. CARTE BLANCHE
 
-11.1.2. PRESENTATION DU VEHICULE
+11.1.2. PRESENTATION DU VÉHICULE
 
 11.2. SIGNALISATION
 
@@ -968,7 +884,7 @@ II - LISTE DES POINTS DE CONTROLE SUPPLEMENTAIRES APPLICABLES AUX VEHICULES LOUR
 
 11.3.6. EXTINCTEURS SPECIFIQUES
 
-12 CONTROLES COMPLEMENTAIRES VEHICULES SANITAIRES
+12 CONTRÔLES COMPLEMENTAIRES VÉHICULES SANITAIRES
 
 12.1. AMENAGEMENT
 
@@ -978,7 +894,7 @@ II - LISTE DES POINTS DE CONTROLE SUPPLEMENTAIRES APPLICABLES AUX VEHICULES LOUR
 
 12.1.3. SIGNALISATION DISTINCTIVE
 
-13 CONTROLES COMPLEMENTAIRES VEHICULES-ECOLE
+13 CONTRÔLES COMPLEMENTAIRES VÉHICULES-ECOLE
 
 13.1. IDENTIFICATION
 
@@ -1000,7 +916,7 @@ II - LISTE DES POINTS DE CONTROLE SUPPLEMENTAIRES APPLICABLES AUX VEHICULES LOUR
 
 13.3.5. RETROVISEUR EXTERIEUR COMPLEMENTAIRE
 
-14. CONTRÔLES COMPLEMENTAIRES DES VEHICULES ELECTRIQUES OU HYBRIDES
+14. CONTRÔLES COMPLEMENTAIRES DES VÉHICULES ELECTRIQUES OU HYBRIDES
 
 14.1. COFFRE À BATTERIE(S) DE TRACTION (Y COMPRIS BATTERIES).
 
@@ -1028,13 +944,13 @@ II - LISTE DES POINTS DE CONTROLE SUPPLEMENTAIRES APPLICABLES AUX VEHICULES LOUR
 
 14.5. SYSTEME DE CHARGE
 
-14.5.1. PROTECTION DE LA PRISE SUR VEHICULE
+14.5.1. PROTECTION DE LA PRISE SUR VÉHICULE
 
-14.5.2. PRISE(S) SUR VEHICULE
+14.5.2. PRISE(S) SUR VÉHICULE
 
 14.5.3. CÂBLE DE CHARGE
 
-15 CONTROLES COMPLEMENTAIRES MARCHANDISES DANGEREUSES
+15 CONTRÔLES COMPLEMENTAIRES MARCHANDISES DANGEREUSES
 
 15.1. IDENTIFICATION
 
@@ -1042,7 +958,7 @@ II - LISTE DES POINTS DE CONTROLE SUPPLEMENTAIRES APPLICABLES AUX VEHICULES LOUR
 
 15.1.2. NOTICES DESCRIPTIVES TMD - CERTIFICATS DE CONFORMITE TMD
 
-15.1.3. PRESENTATION DU VEHICULE
+15.1.3. PRESENTATION DU VÉHICULE
 
 15.4. EQUIPEMENTS ELECTRIQUES
 
@@ -1138,7 +1054,7 @@ Véhicule
 
 |
 
-0. IDENTIFICATION DU VEHICULE
+0. IDENTIFICATION DU VÉHICULE
 
 |
 
@@ -1906,7 +1822,7 @@ T
 
 |
 
-0.4. PRESENTATION DU VEHICULE
+0.4. PRESENTATION DU VÉHICULE
 
 |
 
@@ -1916,7 +1832,7 @@ T
 
 |
 
-0.4.1. ETAT DE CHARGE DU VEHICULE
+0.4.1. ETAT DE CHARGE DU VÉHICULE
 
 |
 
@@ -1992,7 +1908,7 @@ T
 
 |
 
-0.4.2. ETAT DE PRESENTATION DU VEHICULE
+0.4.2. ETAT DE PRESENTATION DU VÉHICULE
 
 |
 
