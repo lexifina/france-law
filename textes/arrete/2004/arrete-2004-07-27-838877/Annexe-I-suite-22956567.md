@@ -86,7 +86,7 @@ M
 
 |
 
-X
+S
 
 |
 
@@ -244,9 +244,7 @@ M
 
 |
 
-10.1.4. ATTESTATION DE VERIFICATION PERIODIQUE DU DISPOSITIF ETHYLOTEST
-
-ANTI-DEMARRAGE (EAD) (1)
+10.1.4. ATTESTATION DE VERIFICATION PERIODIQUE DU DISPOSITIF ETHYLOTEST ANTI-DEMARRAGE (EAD)
 
 |
 
@@ -2986,7 +2984,7 @@ M
 
 |
 
-S
+R
 
 |
 
@@ -2997,6 +2995,18 @@ M
 10.4.14.4.2. Contrôle impossible
 
 |
+
+|
+
+S
+
+|
+
+M
+
+|
+
+10.4.14.4.3. Montage inadapté |
 
 |
 
@@ -3299,6 +3309,38 @@ M
 |
 
 O
+
+|
+
+M
+
+|
+
+10.5.5. DISPOSITIF ÉTHYLOTEST ANTI-DÉMARRAGE (EAD)
+
+|
+
+|
+
+|
+
+|
+
+10.5.5.1. DIVERS
+
+|
+
+|
+
+|
+
+|
+
+10.5.5.1.1. Absence |
+
+|
+
+S
 
 |
 
@@ -3615,40 +3657,6 @@ M
 |
 
 O
-
-|
-
-M
-
-|
-
-10.6.4. DISPOSITIF ETHYLOTEST ANTI-DEMARRAGE (EAD)
-
-|
-
-|
-
-|
-
-|
-
-10.6.4.4. DIVERS
-
-|
-
-|
-
-|
-
-|
-
-10.6.4.4.1 Absence
-
-|
-
-|
-
-S
 
 |
 
