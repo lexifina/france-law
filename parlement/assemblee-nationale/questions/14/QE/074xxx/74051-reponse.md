@@ -1,0 +1,9 @@
+# Réponse à la question n° 74051
+
+- Question : [74051](74051.md) — Question n° 74051 — enfants; conséquences
+
+## Réponse
+
+*JO du 2015-09-01*
+
+La famille reste la première valeur à laquelle les Français sont attachés. La famille est le lieu où se transmettent et s'expérimentent les valeurs qui structureront les individus tout au long de leur vie. C'est là que se construisent les premiers attachements. La famille est une communauté d'individus unis par des liens de parenté. C'est le premier espace de solidarité entre les individus et entre les générations. Cette solidarité est affective, morale et matérielle. Les Français sont également attachés à la famille parce qu'elle évolue, qu'elle n'est pas figée, qu'elle s'adapte pour répondre de la façon la mieux appropriée aux besoins de chacun des membres de la famille mais aussi à ceux du groupe familial lui-même. De ce fait, la politique familiale mise en place par le gouvernement est guidée par trois principes directeurs : le soutien et la solidarité envers toutes les familles et avec une attention toute particulière pour celles qui sont en difficulté ; la non-marchandisation de ce qui relève de l'intime et de la vie privée ; la protection des personnes vulnérables au premier rang duquel se trouvent les enfants, tous les enfants, et les personnes âgées en perte d'autonomie. Ces valeurs ont amené le Gouvernement à retenir un ensemble de mesures en direction des familles, tant dans le cadre de la réforme des aides aux familles, que du projet de loi « adaptation de la société au vieillissement » ou dans celui du plan pluriannuel de lutte contre la pauvreté et pour l'exclusion sociale mis en place depuis 2013. Dans tous les cas, le Gouvernement se doit d'accompagner et de soutenir les évolutions de la famille afin que celle-ci puisse continuer à être un lieu non seulement d'affection mais aussi de sécurité collective.
