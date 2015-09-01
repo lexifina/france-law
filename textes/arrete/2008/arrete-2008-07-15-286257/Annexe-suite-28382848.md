@@ -298,7 +298,7 @@ En 1989-1991, la Guerre froide s'achève avec la chute du Mur de Berlin et la di
 
 |
 
-On présente les objectifs de l'ONU en liaison avec l'éducation civique.
+On présente les objectifs de l'ONU en liaison avec l'enseignement moral et civique.
 
 L'étude de la Guerre froide s'appuie sur un exemple : la situation de l'Allemagne et de Berlin.
 
@@ -534,7 +534,7 @@ La présidence du général de Gaulle marque une nouvelle conception de la Répu
 
 |
 
-On met en évidence quelques grandes caractéristiques de cette présidence : suprématie du pouvoir exécutif, volonté de réaffirmer la puissance française. (Les institutions sont étudiées dans le cadre de l'éducation civique)
+On met en évidence quelques grandes caractéristiques de cette présidence : suprématie du pouvoir exécutif, volonté de réaffirmer la puissance française. (Les institutions sont étudiées dans le cadre de l'enseignement moral er civique)
 
 |
 
@@ -1282,189 +1282,13 @@ Identifier des attributs de la puissance de l'Europe et des limites à cette pui
 
 - les dix principales métropoles européennes.
 
-Éducation civique
-
-LA CITOYENNETÉ DÉMOCRATIQUE
-
-En s'appuyant sur les acquis de l'école primaire et des années précédentes, la classe de troisième définit les principes, les conditions et les réalités de la citoyenneté politique. Celle-ci n'est pas seulement l'exercice de droits individuels, mais est aussi le moyen de faire vivre une démocratie.
-
-Expliciter la forme d'organisation politique que constitue la République française est au coeur du programme. Il s'agit de mettre en lumière les valeurs et les principes qui la fondent et de montrer comment ces valeurs et ces principes se réalisent dans un ensemble d'institutions et de procédures concrètes, comment la République entraîne un ensemble de droits et de devoirs pour chaque citoyen.
-
-La citoyenneté politique doit donc être décrite et expliquée : la participation politique dans ses différentes formes, tout particulièrement le droit de vote, la manifestation des opinions, les rapports entre la citoyenneté nationale et la citoyenneté européenne, la nature et le rôle des partis, des syndicats, des associations qui animent la vie démocratique doivent être présentés. En liaison avec les programmes d'histoire et de géographie de la classe de 3ème, l'histoire récente de la vie politique française, l'action internationale et l'organisation de la défense de la France sont étudiées.
-
-Deux grands ensembles de capacités doivent être privilégiés dans le travail avec les élèves. Ceux-ci doivent être d'abord capables d'utiliser les notions clefs de la vie politique qu'ils rencontrent dans l'actualité. Ils doivent, ensuite, être amenés, dans les trois thèmes, à mettre en pratique leur capacité de jugement et d'esprit critique par rapport aux différentes formes d'information et dans les débats qui prennent corps dans une démocratie politique.
-
-I - LA RÉPUBLIQUE ET LA CITOYENNETÉ
-
-(environ 30% du temps consacré à l'éducation civique)
-
-|
-
-CONNAISSANCES
-
-|
-
-DÉMARCHES
-
-|
-
-Thème 1 - Les valeurs, les principes et les symboles de la République
-
-Les fondements de la citoyenneté et de la nationalité dans la République française sont analysés. L'importance de la langue nationale est soulignée.
-
-|
-
-L'accent est mis sur la signification des principes et des règles principales qui fondent la communauté nationale et sur leur caractère évolutif donnant lieu au débat citoyen.
-
-Il convient de s'appuyer sur les programmes d'histoire de la classe de quatrième et de la classe de troisième.
-
-|
-
-Thème 2 - Nationalité, citoyenneté française et citoyenneté européenne
-
-La diversité de la population sur le territoire national est prise en compte en faisant apparaître :
-
-- le lien entre les droits politiques et la nationalité sur le territoire national et dans le cadre de l'Union européenne.
-
-- la nature des droits civils, économiques et sociaux accordés à tous les habitants installés sur le territoire national.
-
-|
-
-DOCUMENTS DE RÉFÉRENCE
-
-- Constitution de 1958 (Préambule, art. 1, 2, 3 et 4)
-
-- Loi du 9 décembre 1905 sur la séparation des Églises et de l'État (art. 1 et 2)
-
-- Loi du 15 mars 2004, sur l'application du principe de laïcité dans les établissements scolaires et publics, modifiant le code de l'éducation, art. L 141-5-1
-
-- Loi du 17 mars 1998, sur la nationalité (art. 6) modifiant le code civil (art. 21-11)
-
-- Code civil (art. 18)
-
-- Traité sur l'Union Européenne du 1er février 1992 (2ème partie : la citoyenneté de l'Union (art. 8, 8A, 8B, 8C, 8D)
-
-|
-
-II - LA VIE DÉMOCRATIQUE
-
-(environ 50% du temps consacré à l'éducation civique)
-
-|
-
-CONNAISSANCES
-
-|
-
-DÉMARCHES
-
-|
-
-Thème 1 - La vie politique
-
-- les institutions de la Ve République ;
-
-- la décentralisation (commune, département, région).
-
-- Les partis politiques et les autres formes de participation à la vie démocratique.
-
-- Le citoyen et les différentes formes de participation démocratique.
-
-|
-
-Chacun des développements du programme peut être concrétisé en partant des questions d'actualité prises dans la vie politique et sociale.
-
-Un débat argumenté peut être réalisé sur un des thèmes.
-
-Dans les exemples pris au fil des leçons l'accent est mis sur ce qui relève de la responsabilité particulière des citoyens.
-
-Cette partie du programme s'appuie étroitement sur le programme d'histoire de la classe de troisième.
-
-|
-
-Thème 2 - La vie sociale
-
-Les syndicats.
-
-|
-
-Thème 3 - L'opinion publique et les média
-
-- La diversité et le rôle des médias, (notamment celui d'internet).
-
-- Les sondages d'opinion.
-
-|
-
-DOCUMENTS DE RÉFÉRENCES
-
-- Extraits de la constitution de la Ve République
-
-- Extraits de la loi du 7 janvier 1983 (loi Defferre) ; art. 1er de la constitution de la Ve République
-
-- Extraits de la loi du 21 mars 1884 sur les syndicats
-
-- Extraits de la loi du 29 juillet 1881 sur la liberté de la presse
-
-|
-
-III - LA DÉFENSE ET LA PAIX
-
-(environ 20% du temps consacré à l'éducation civique)
-
-|
-
-CONNAISSANCES
-
-|
-
-DÉMARCHES
-
-|
-
-Thème 1 - La recherche de la paix, la sécurité collective, la coopération internationale
-
-- Les problèmes et les difficultés d'une organisation pacifique du monde.
-
-- Quelques exemples de l'action contemporaine de l'ONU et du rôle du Tribunal pénal international (TPI).
-
-|
-
-Le rôle de l'ONU sera analysé à partir de quelques exemples.
-
-Les ressources offertes par le trinôme académique peuvent être utilisées.
-
-Cette partie du programme s'appuie directement sur le programme d'histoire de la classe de troisième et les programmes de géographie des classes de quatrième et de troisième.
-
-|
-
-Thème 2 - La Défense et l'action internationale de la France
-
-- Les missions de la défense nationale dans le contexte contemporain européen et mondial.
-
-- La Journée de défense et de citoyenneté.
-
-|
-
-DOCUMENTS DE RÉFÉRENCES
-
-- Constitution de la Ve République (art. 5, 15, 21, 34 et 35)
-
-- Charte des Nations Unies de 1945 (art. 1 et extraits du chap. 7)
-
-- Extraits du livre blanc sur la défense
-
-- Extraits du traité sur l'Union Européenne du 1er février 1992 (titre 5)
-
-|
-
 CLASSE DE 3ème, SECTION INTERNATIONALE
 
 Complément spécifique au programme d'histoire-géographie
 
 Collège
 
-Dans les sections internationales, le programme d'enseignement de l'histoire-géographie-éducation civique en vigueur en classe de troisième est complété comme suit :
+Dans les sections internationales, le programme d'enseignement de l'histoire et de la géographie en vigueur en classe de troisième est complété comme suit :
 
 Histoire
 

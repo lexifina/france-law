@@ -2,15 +2,15 @@
 
 Annexe
 
-HISTOIRE-GÉOGRAPHIE ÉDUCATION CIVIQUE
+HISTOIRE-GÉOGRAPHIE
 
 Introduction
 
-En ce nouveau siècle, le monde a changé, les attentes de la société ont évolué, le collège a connu des mutations importantes et les disciplines des renouvellements scientifiques conséquents. Tous ces changements sont pris en compte dans ces nouveaux programmes d'histoire, de géographie et d'éducation civique.
+En ce nouveau siècle, le monde a changé, les attentes de la société ont évolué, le collège a connu des mutations importantes et les disciplines des renouvellements scientifiques conséquents. Tous ces changements sont pris en compte dans ces nouveaux programmes d'histoire et de géographie.
 
 Le collège est l'aboutissement de la scolarité obligatoire. À l'issue de ses quatre années, tous les élèves doivent au moins maîtriser le socle commun des connaissances et des compétences dont ils ont acquis les premiers fondements à l'école primaire.
 
-Les trois enseignements de l'histoire, de la géographie et de l'éducation civique contribuent à l'acquisition des grandes compétences de ce socle commun, tout particulièrement en ce qui concerne la culture humaniste et les compétences sociales et civiques, mais aussi pour celles qui sont transversales (maîtrise de la langue, autonomie et initiative, techniques de l'information et de la communication) ainsi que pour la culture scientifique et technologique avec laquelle de nombreuses convergences sont possibles.
+Les enseignements de l'histoire et de la géographie contribuent à l'acquisition des grandes compétences de ce socle commun, tout particulièrement en ce qui concerne la culture humaniste et les compétences sociales et civiques, mais aussi pour celles qui sont transversales (maîtrise de la langue, autonomie et initiative, techniques de l'information et de la communication) ainsi que pour la culture scientifique et technologique avec laquelle de nombreuses convergences sont possibles.
 
 Au-delà du socle commun, ces enseignements contribuent aussi fortement à la réalisation des objectifs propres du collège. Ils préparent les élèves à vivre et à s'intégrer dans la société et à poursuivre des études dans les différentes voies de formation dispensées en aval. Cette contribution se fonde sur les finalités culturelles, intellectuelles et civiques, intimement liées, de ces trois enseignements :
 
@@ -20,11 +20,11 @@ Au-delà du socle commun, ces enseignements contribuent aussi fortement à la r�
 
 - ils leur donnent ainsi les moyens d'un épanouissement individuel et les préparent à se comporter en citoyen.
 
-I. Des orientations générales communes aux trois programmes
+I. Des orientations générales communes aux deux programmes
 
 I.1 Leur cohérence avec les programmes de l'enseignement primaire
 
-Ces programmes s'appuient sur les acquis de l'école primaire qu'ils convient d'évaluer et de mobiliser pour les enrichir. Ils se situent dans une continuité au sein d'une scolarité obligatoire, au terme de laquelle tous les élèves devront maîtriser au moins le socle commun de connaissances et de compétences. Cette continuité existe tant pour l'histoire que pour la géographie et l'éducation civique.
+Ces programmes s'appuient sur les acquis de l'école primaire qu'ils convient d'évaluer et de mobiliser pour les enrichir. Ils se situent dans une continuité au sein d'une scolarité obligatoire, au terme de laquelle tous les élèves devront maîtriser au moins le socle commun de connaissances et de compétences. Cette continuité existe tant pour l'histoire que pour la géographie.
 
 L'enseignement de l'histoire à l'école primaire a permis aux élèves d'identifier et de caractériser simplement les grandes périodes qui sont ensuite étudiées de façon plus approfondie au collège, à l'exception de la préhistoire qui n'est abordée qu'à l'école primaire.
 
@@ -40,11 +40,9 @@ En classe de troisième, le programme est centré sur la France et l'Europe dans
 
 L'élève approfondit au collège la capacité à lire et à utiliser des cartes ainsi qu'à réaliser des croquis.
 
-L'instruction civique et morale à l'école primaire repose sur deux fondements : d'une part, l'apprentissage des règles de la vie en société, du respect de soi-même et des autres, enfants et adultes, d'autre part, la découverte et la connaissance des grands symboles de la république, des principes d'organisation de la vie politique, des traits constitutifs de la nation française et de la place de l'Union européenne. Tous ces éléments se retrouvent au collège d'une manière ou d'une autre au fil des quatre années. Mais ils sont placés dans la perspective structurante d'un apprentissage de la citoyenneté. Ils sont liés à une réflexion sur la consistance et la compatibilité des valeurs et des principes entre eux. L'éducation civique au collège est une première initiation à la complexité de la vie politique et sociale. Elle le fait cependant - ce qui établit une forte continuité avec l'école primaire - en mettant en évidence la responsabilité de la personne. De ce point de vue, la classe de 6e organise une transition explicite avec l'école primaire, en resituant la place de l'élève dans la communauté éducative, dans sa famille et dans sa commune.
-
 I.2 Leur conception et leur présentation
 
-Les programmes sont conçus pour être traités dans le cadre des grilles horaires en vigueur. Le professeur a la latitude de construire un cheminement dont il assume la responsabilité en traitant éventuellement les thèmes dans un ordre différent (tout en respectant la chronologie en histoire) ou en procédant à des regroupements qu'il jugerait utiles et pertinents. Cependant il a l'obligation de couvrir l'intégralité des trois programmes, de veiller strictement à la parité horaire entre l'histoire et la géographie et d'accorder à l'éducation civique toute la place qui lui revient.
+Les programmes sont conçus pour être traités dans le cadre des grilles horaires en vigueur. Le professeur a la latitude de construire un cheminement dont il assume la responsabilité en traitant éventuellement les thèmes dans un ordre différent (tout en respectant la chronologie en histoire) ou en procédant à des regroupements qu'il jugerait utiles et pertinents. Cependant il a l'obligation de couvrir l'intégralité des deux programmes et de veiller strictement à la parité horaire entre l'histoire et la géographie.
 
 Cet équilibre et ce traitement intégral des programmes sont indispensables à leur cohérence d'ensemble, leur intelligibilité et leur pertinence scientifique.
 
@@ -53,12 +51,6 @@ Cet équilibre et ce traitement intégral des programmes sont indispensables à 
 Les programmes d'histoire et de géographie ouvrent des possibilités de choix entre différents thèmes, en veillant à ce que ces choix ne soient pas réducteurs et restent en cohérence avec les objectifs d'ensemble. Pour chacun des niveaux et chacun des deux enseignements, les objectifs des programmes sont précisés dans un court texte introductif. Leur présentation répond à un souci de lisibilité : à côté de la rubrique définissant les connaissances, la rubrique démarches précise des entrées dans le thème ou des études de cas qui permettent d'éviter l'exhaustivité en se fixant sur des objets précis, afin de faire acquérir aux élèves les connaissances et les capacités qui constituent les objectifs à atteindre.
 
 Une rubrique spécifique précise ces capacités. La connaissance et l'utilisation de repères y tiennent une place importante : il ne s'agit pas seulement de connaître des repères mais de leur donner un sens et de savoir les inscrire dans un contexte essentiel à leur compréhension. C'est ainsi que l'on en fera le support d'un véritable apprentissage et non un simple exercice de restitution. Par ailleurs les capacités raconter et décrire sont de nature à valoriser la qualité de l'expression écrite et orale des élèves.
-
-• Éducation civique
-
-Les programmes d'éducation civique sont construits de manière différente : les capacités et les attitudes attendues sont définies dans le court texte introduisant le programme de chaque niveau. La rubrique capacités est remplacée par une rubrique documents de référence. Ces documents définissent et légitiment les notions abordées dans chaque thème. Ils constituent une ressource pour les professeurs et seuls quelques articles fondamentaux des grandes Déclarations des droits de l'homme et de la Constitution doivent être connus par les élèves.
-
-Enfin, sauf en classe de troisième, une question est laissée au choix du professeur.
 
 I.3 La place du document et du récit
 
@@ -70,7 +62,7 @@ Il convient non seulement de varier les modalités d'utilisation des documents m
 
 I.4 Les convergences avec d'autres disciplines et l'importance de l'histoire des arts
 
-Enfin, ces trois programmes offrent de nombreuses occasions de convergences à deux niveaux :
+Enfin, ces programmes offrent de nombreuses occasions de convergences à deux niveaux :
 
 - convergences entre eux, facilitées par le fait qu'ils ont été conçus ensemble ;
 
@@ -90,7 +82,7 @@ En histoire, l'approche privilégie trois axes :
 
 Tout au long du cursus, il s'agit d'acquérir des connaissances et des repères en mettant en œuvre une méthode d'analyse qui vise à former l'esprit critique, à développer l'aptitude à argumenter et à communiquer en utilisant un langage clair, enrichi du vocabulaire spécifique adéquat.
 
-II. Des orientations propres à chacun des trois programmes
+II. Des orientations propres à chacun des deux programmes
 
 II.1 Programme d'histoire
 
@@ -139,26 +131,6 @@ En choisissant les études de cas et les exemples, les professeurs feront réali
 Si la géographie, comme l'histoire, doit prendre toute sa place dans la maîtrise progressive des langages, elle accorde bien évidemment une place particulière au langage cartographique. Les programmes prévoient que les élèves soient, de la sixième à la troisième, régulièrement et progressivement initiés à la lecture de cartes (de tous types et à toutes échelles) et à la réalisation de croquis. Au-delà de l'acquisition d'un langage spécifique, le croquis doit être, pour l'élève, le moyen de développer un discours argumenté sur l'espace.
 
 Il s'agit enfin de donner aux élèves la pratique des outils que la géographie met, quotidiennement, au service d'une meilleure compréhension de l'espace : cartes et croquis, mais aussi schémas, images, documents statistiques... Les systèmes d'information géographiques (SIG) sont désormais d'une utilisation courante (carte routière en ligne, systèmes de positionnement, images satellitaires...). Les élèves doivent en apprendre l'usage et en acquérir l'intelligence. Ils constituent des outils privilégiés tant au service de l'acquisition de connaissances que de la pratique de l'approche géographique.
-
-II.3 Programme d'éducation civique
-
-L'éducation civique au collège poursuit la tâche commencée à l'école primaire en préparant les élèves à se comporter en personnes responsables dans leur vie quotidienne. Elle a aussi une mission propre pour les années du collège : faire acquérir aux élèves les données principales pour comprendre la citoyenneté politique et préparer à son exercice.
-
-Les règles qui organisent la vie commune doivent être réfléchies et comprises comme une construction élaborée par les citoyens d'un même pays au travers de leur vie politique et sociale où se confrontent des pensées, des volontés, des intérêts divers et parfois conflictuels. Il faut que les élèves apprennent et comprennent le contenu des règles communes qui permettent de vivre ensemble. Les droits individuels peuvent entrer en contradiction avec les intérêts collectifs. L'élève doit appréhender cette tension et comprendre qu'elle est une des clés du progrès des sociétés démocratiques.
-
-L'objectif est de former un citoyen autonome, responsable de ses choix, ouvert à l'altérité, pour assurer les conditions d'une vie en commun qui refuse la violence, pour résoudre les tensions et les conflits inévitables dans une démocratie. Ce sont les attitudes de respect de soi et des autres, de responsabilité et de solidarité qui sont mises en évidence à tous les niveaux de ces programmes.
-
-Tout au long du collège, dans un enseignement progressif, les élèves acquièrent les notions clés et le vocabulaire de la citoyenneté. Ils prennent connaissance de textes essentiels. Ils sont amenés à comprendre les règles et les pratiques de la vie démocratique en France et en Europe, les problèmes des relations internationales, de la défense et de la paix dans le monde. Ils acquièrent les éléments d'une culture juridique et comprennent le fonctionnement et les problèmes de la justice. Ils saisissent le sens de la laïcité et de son rôle dans l'histoire de la société française.
-
-Les principales capacités et attitudes attendues des élèves sont de deux ordres, d'égale importance :
-
-- acquérir un comportement responsable dans la classe et l'établissement, plus généralement dans la vie quotidienne,
-
-- exercer leur jugement et leur esprit critique dans la vie civique.
-
-Pour ce faire, ils sont formés et éduqués à l'analyse de situations de la vie quotidienne et des enjeux politiques, par la mobilisation et l'utilisation des connaissances acquises. Ils sont initiés aux méthodes d'enquête et de recherche, à la sélection et à l'analyse de l'information, au travail avec les technologies de l'information et de la communication, à l'argumentation écrite et orale pour préparer au débat.
-
-L'éducation civique doit être liée à la vie scolaire. Elle favorise les projets interdisciplinaires, elle permet l'accès à des initiatives citoyennes extérieures. Vie scolaire et éducation civique renforcent la possibilité de mettre en oeuvre une éducation dynamique à la responsabilité citoyenne par des actions concrètes avec les élèves.
 
 CLASSE DE 6ème
 
@@ -1046,230 +1018,6 @@ Ce temps est laissé au professeur pour développer un des thèmes du programme 
 
 |
 
-Éducation civique
-
-LE COLLÉGIEN, L'ENFANT, L'HABITANT
-
-En s'appuyant sur les acquis de l'école primaire, la classe de sixième montre les différents aspects de la vie en collectivité. Dans la famille, au collège et dans la commune, les élèves apprennent que la vie en société impose des règles qu'il convient de connaître, de respecter, et de comprendre. Ces règles sont parfois différentes selon l'âge et le statut des personnes. La collectivité est le résultat de l'implication de chacun, celle-ci peut prendre des formes très diverses.
-
-Le programme de sixième donne une première définition simple de notions qui seront ensuite mobilisées et approfondies dans les classes supérieures.
-
-Les capacités développées dans ce programme doivent favoriser chez les élèves la prise de conscience de leur identité et de leurs responsabilités dans leur travail et dans le collège. Ils doivent être amenés à mettre en pratique ces capacités pour concrétiser un projet individuel ou collectif.
-
-I - LE COLLÉGIEN
-
-(environ 30% du temps consacré à l'éducation civique)
-
-|
-
-Thème 1 - Les missions et l'organisation du collège
-
-|
-
-CONNAISSANCES
-
-|
-
-DÉMARCHES
-
-|
-
-- Un lieu d'apprentissage, de transmission et de construction des savoirs, d'échanges.
-
-- Un lieu avec des acteurs différents, où l'on peut s'impliquer et devenir autonome.
-
-|
-
-Être autonome nécessite de maîtriser des capacités fondamentales définies dans le socle : avoir des méthodes de travail, savoir travailler en équipe, développer sa capacité de jugement et son esprit critique, être capable de rechercher l'information, prendre des initiatives... Pour les faire acquérir, l'enseignant varie les démarches pédagogiques : par exemple l'utilisation du CDI, le travail de groupe...
-
-|
-
-Toute collectivité a des règles nécessaires à son fonctionnement. Au collège, chacun a des droits, des devoirs et un rôle différents selon le statut et l'âge.
-
-Dans les établissements publics, la laïcité est un principe fondamental.
-
-|
-
-L'élection des délégués est l'occasion d'étudier les règles de la vie démocratique (le principe de la représentation, le suffrage universel, le vote secret) de façon concrète.
-
-On part du règlement intérieur du collège pour montrer que la laïcité est à la fois une valeur et une pratique.
-
-|
-
-Thème 2 - L'éducation : un droit, une liberté, une nécessité
-
-|
-
-- Les inégalités face à l'éducation en France et dans le monde : filles/garçons, enfants handicapés, différences sociales...
-
-- Une conquête à poursuivre : le sens et les finalités de l'école
-
-|
-
-Les discriminations qui existent dans l'accès à l'éducation doivent être étudiées à partir d'exemples, en France et dans le monde.
-
-Les grandes étapes de l'histoire de l'éducation en France peuvent venir à l'appui de cette réflexion.
-
-|
-
-DOCUMENTS DE RÉFÉRENCE
-
-- Convention internationale des droits de l'enfant de 1989 (art. 28)
-
-- Préambule de la Constitution de 1946 (paragraphe 13)
-
-- Loi du 15 mars 2004, sur l'application du principe de laïcité dans les établissements scolaires et publics, modifiant le code de l'éducation, art. L 141-5-1
-
-- Loi du 11 février 2005, sur les personnes handicapées, dispositions générales (art. 2), modifiant le code de l'action sociale et des familles, art L 114-1 et 2
-
-- Extraits du règlement intérieur du collège
-
-- Extraits du Guide juridique de l'internet scolaire, janvier 2004
-
-|
-
-II - L' ENFANT
-
-(environ 30% du temps consacré à l'éducation civique)
-
-|
-
-CONNAISSANCES
-
-|
-
-DÉMARCHES
-
-|
-
-|
-
-C'est à partir d'exemples pris dans la vie quotidienne que l'on entre dans chacun des thèmes de cette seconde partie :
-
-|
-
-Thème 1 - Une personne
-
-|
-
-L'identité juridique d'une personne est inscrite dans l'état civil et garantie par l'État.
-
-|
-
-- l'étude d'un acte de naissance pour une réflexion sur l'identité,
-
-|
-
-Thème 2 - Un mineur
-
-|
-
-L'enfant vit sous l'autorité et la protection de ses responsables légaux.
-
-|
-
-- l'examen de situations dans lesquelles s'exerce l'autorité des parents ou des responsables légaux,
-
-|
-
-Thème 3 - Une personne qui a des droits et des devoirs
-
-|
-
-L'enfant a des droits et des devoirs spécifiques.
-
-|
-
-- l'examen de situations de conflit dont la résolution doit reposer sur le respect des règles et non sur la violence.
-
-|
-
-DOCUMENTS DE RÉFÉRENCE
-
-- Extraits de la Convention internationale des droits de l'enfant de 1989
-
-- Code civil (art. 55 et 56, 57)
-
-- Code civil (art. 371, 371-1, 371-3, 371-5 et 372)
-
-- Extraits du règlement intérieur du collège
-
-|
-
-III - L'HABITANT
-
-(environ 30% du temps consacré à l'éducation civique)
-
-|
-
-CONNAISSANCES
-
-|
-
-DÉMARCHES
-
-|
-
-Thème 1 - L'organisation de la commune et la décision démocratique
-
-|
-
-Toute collectivité a besoin d'une organisation politique. L'équipe municipale prend des décisions qui concernent la commune et l'ensemble de ses habitants.
-
-|
-
-Ce thème est abordé par une étude de cas : visite à la mairie et rencontre avec un élu, projet municipal, enquête publique.
-
-|
-
-Thème 2 - Les acteurs locaux et la citoyenneté
-
-|
-
-Les habitants peuvent participer à la vie de la commune directement ou par le biais d'associations. Ils doivent contribuer au respect de l'environnement et du cadre de vie
-
-|
-
-L'étude d'une association, ses missions et son implication dans le quartier peut être le point de départ d'une réflexion sur le rôle des habitants. On étudie l'agenda 21 de la commune (ou celui d'une autre commune) afin de montrer les actions mises en place pour le développement durable et comment chacun peut y participer.
-
-|
-
-DOCUMENTS DE RÉFÉRENCE
-
-- Code électoral, art. L 227
-
-- Extraits d'un projet municipal
-
-- Extraits de la Déclaration de Rio sur l'environnement et le développement durable de 1992, principes 1, 10, 21 et 22
-
-- Extraits du règlement d'une association
-
-- Agenda 21 de la commune
-
-|
-
-IV - AU CHOIX
-
-(environ 10% du temps consacré à l'éducation civique)
-
-|
-
-CONNAISSANCES
-
-|
-
-DÉMARCHES
-
-|
-
-La semaine de la presse, des questions d'actualité, les journées spécifiques.
-
-|
-
-Cette partie libre peut être l'occasion de mener un débat dont le thème aura été choisi avec les élèves (recherche d'informations, rédaction d'un argumentaire, organisation du débat).
-
-|
-
 CLASSE DE 5ème
 
 Histoire
@@ -1722,7 +1470,7 @@ Géographie
 
 HUMANITÉ ET DEVELOPPEMENT DURABLE
 
-À l'école primaire, une première approche du développement durable a été opérée dans les enseignements de géographie et de sciences. Une action concrète de développement durable a été étudiée en sixième dans le cadre de l'éducation civique.
+À l'école primaire, une première approche du développement durable a été opérée dans les enseignements de géographie et de sciences. Une action concrète de développement durable a été étudiée en sixième dans le cadre de l'enseignement moral et civique.
 
 Le programme de la classe de 5ème est consacré à la poursuite de l'étude du développement durable. Une étude de cas, placée en tout début de programme permet, en posant les trois dimensions du développement durable, d'appréhender simplement le concept. La première partie du programme s'ouvre sur les hommes, car c'est l'humanité qui est au cœur du développement durable. La deuxième partie aborde la question majeure des inégalités des conditions de vie, de richesses et de développement des sociétés, aux différents niveaux de l'échelle géographique. La troisième partie s'attache aux rapports entre les sociétés et les ressources. Ces rapports sont étudiés sous l'angle du développement durable à travers les questions d'aménagement et d'usage, de préservation et de partage des ressources entre les territoires et entre les hommes.
 
