@@ -1,0 +1,9 @@
+# Réponse à la question n° 77212
+
+- Question : [77212](77212.md) — Question n° 77212 — menaces sanitaires; lutte et prévention
+
+## Réponse
+
+*JO du 2015-09-01*
+
+Afin de disposer de capacités de réponse à la menace biologique, le ministère chargé de la santé a mis en place un stock stratégique national de produits de santé à la suite des attentats de septembre 2001. Depuis 2007, l'établissement de préparation et de réponse aux urgences sanitaires (EPRUS) assure les acquisitions et la gestion de ces stocks. Ce stock est constitué pour la menace biologique d'antibiotiques, d'antiviraux et de vaccins. Pour la menace biologique terroriste, le dimensionnement répond aux cibles définies par le secrétariat général de la défense et de la sécurité nationale. Celles-ci ont été récemment actualisées et les modifications prises en compte dès la programmation d'acquisition en 2014. Pour les risques liés aux épidémies et pandémies, il est fait appel à l'expertise du Haut conseil de la santé publique. Ces stocks s'inscrivent dans la stratégie de réponse définie dans les plans de réponse correspondants : « peste, charbon, tularémie » (2007), plan variole (2006) et pandémie grippale (2011). Le choix des produits s'appuie sur les avis demandés à l'agence française de sécurité sanitaire des produits de santé devenue l'agence nationale de sécurité du médicament et des produits de santé. Des avis sont régulièrement demandés afin de prendre en compte les évolutions de l'offre thérapeutique. En ce qui concerne les antibiotiques, des avis ont été sollicités lors de la mise en place puis en 2007 et 2014. Des acquisitions peuvent être également et ponctuellement réalisées pour répondre à des menaces non couvertes par les stocks gérés par l'EPRUS comme cela a été le cas très récemment pour l'épidémie de virus Ebola en Afrique de l'Ouest.
