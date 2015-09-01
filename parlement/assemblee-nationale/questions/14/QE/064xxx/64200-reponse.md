@@ -1,0 +1,9 @@
+# Réponse à la question n° 64200
+
+- Question : [64200](64200.md) — Question n° 64200 — exercice de la profession; réforme
+
+## Réponse
+
+*JO du 2015-09-01*
+
+Afin de réformer certaines professions réglementées, dont les huissiers de justice, le projet de loi pour la croissance, l'activité et l'égalité des chances économiques a pour ambition de libérer le potentiel inexploité de croissance du pays en levant, de manière pragmatique, les blocages identifiés dans les secteurs clés de l'économie française. L'élaboration de ce projet de loi, adopté en conseil des ministres le 10 décembre 2014, a fait l'objet d'une concertation approfondie en lien avec l'ensemble des ministères en charge des professions considérées, et en particulier le ministère de la justice, qui a compétence sur les professions du droit. La modernisation des professions réglementées du droit doit permettre d'élargir l'accès à ces professions, d'offrir des prestations plus transparentes et plus justes et d'ouvrir les professions pour leur permettre de développer l'inter-professionnalité. La réforme vise à améliorer le fonctionnement de ces professions, sans remettre en cause leurs fondamentaux (notamment la signification des décisions de justice, actes de procédures et autres titres exécutoires pour les huissiers de justice). La liberté d'installation offrira à ceux qui ont les diplômes nécessaires la possibilité d'ouvrir leur étude ou leur cabinet là où sont les besoins de la population et des entreprises, sans déstabiliser l'équilibre des territoires ni les professionnels aujourd'hui installés. La réglementation des tarifs reflétera davantage les coûts réels. Enfin, l'ouverture de l'accès au capital entre professionnels du droit encouragera l'investissement pour rendre l'activité plus efficace et rapprocher les professions.
