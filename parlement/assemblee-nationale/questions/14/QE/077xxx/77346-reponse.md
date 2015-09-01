@@ -1,0 +1,9 @@
+# Réponse à la question n° 77346
+
+- Question : [77346](77346.md) — Question n° 77346 — réglementation
+
+## Réponse
+
+*JO du 2015-09-01*
+
+L'article L. 1411-2 du code général des collectivités territoriales prévoit qu'une délégation de service public peut être prolongée dans certains cas par avenant « lorsque le délégataire est contraint, à la demande du délégant, de réaliser des investissements matériels non prévus au contrat initial de nature à modifier l'économie générale de la délégation et qui ne pourraient être amortis pendant la durée de la convention restant à courir que par une augmentation de prix manifestement excessive ». Cet article a été modifié par l'article 85 de la loi n° 2010-788 du 12 juillet 2010 portant engagement national pour l'environnement, dite Grenelle II, afin d'élargir les possibilités de prolongation d'une délégation de service public à d'autres types d'investissement. En effet, avant l'entrée en vigueur de cette loi, la faculté de prolongation en raison d'investissements nouveaux était limitée à ceux liés à la bonne exécution du service public délégué, ou à l'extension du champ géographique. La loi Grenelle II a ouvert les possibilités de prolongation par avenant aux investissements motivés par « l'utilisation nouvelle ou accrue d'énergies renouvelables ou de récupération » et à ceux relatifs à « la réalisation d'une opération pilote d'injection et de stockage de dioxyde de carbone ». Bien que ces investissements concernent davantage les conventions de délégation de service public de chauffage urbain ou de réseaux de chaleur, il ne ressort pas de la lecture de ces dispositions que le législateur ait entendu en restreindre l'application à ces deux catégories de délégations de service public. Dès lors, les modifications apportées ont vocation à s'appliquer à l'ensemble des délégations de service public.
