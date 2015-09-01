@@ -14,7 +14,7 @@ Siège de l'établissement national des produits de l'agriculture et de la mer (
 
 |
 
-Chef du service juridique au secrétariat général ;
+Chef du service juridique au secrétariat général
 
 |
 
@@ -22,11 +22,11 @@ Chef du service programmes opérationnels et promotion à la direction des inter
 
 |
 
-Chef de la délégation nationale de Libourne à la direction des interventions ;
+Chef de la délégation nationale de Libourne à la direction des interventions
 
 |
 
-Adjoint au chef de service contrôles et normalisation à la direction des interventions ;
+Adjoint au chef de service contrôles et normalisation à la direction des interventions
 
 |
 
@@ -42,7 +42,7 @@ Chef de la mission sucre et délégué filière sucre à la direction marchés �
 
 |
 
-Chef de l'unité cotations et information conjoncture à la direction marchés, études et prospective
+Secrétaire général
 
 |
 
@@ -138,10 +138,6 @@ Directeur du pilotage et de l'audit interne au haras de Arnac-Pompadour
 
 |
 
-Directrice de l'appui à la filière et à la stratégie au haras d'Amboise
-
-|
-
 Chargé de mission au pôle hippique du Lion d'Angers
 
 |
@@ -155,10 +151,6 @@ Adjoint au directeur de délégation au haras de Rodez
 |
 
 Institut national de recherche en sciences et technologies pour l'environnement et l'agriculture (IRSTEA)
-
-|
-
-Responsable de laboratoire à Aix-en-Provence
 
 |
 
@@ -179,6 +171,10 @@ Responsable informatique scientifique et mutualisation informatique spatiale à 
 |
 
 Responsable de l'équipe épuration des eaux usées au groupement de Lyon-Villeurbanne
+
+|
+
+Responsable du laboratoire d'études et recherches sur les matériels d'irrigation à Montpellier
 
 |
 

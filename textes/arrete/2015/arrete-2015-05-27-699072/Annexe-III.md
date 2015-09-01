@@ -14,25 +14,13 @@ Institut des sciences et industries du vivant et de l'environnement, Paris (Agro
 
 |
 
-Responsable des ressources humaines
-
-|
-
-Bergerie nationale de Rambouillet - centre d'enseignement zootechnique (CEZ)
-
-|
-
-Directeur
-
-|
+Responsable des ressources humaines |
 
 Ecole nationale de formation agronomique de Toulouse-Auzeville (ENFA)
 
 |
 
-Chef du service patrimoine
-
-|
+Chef du service patrimoine |
 
 Ecole nationale vétérinaire, agroalimentaire et de l'alimentation, Nantes-Atlantique (ONIRIS)
 

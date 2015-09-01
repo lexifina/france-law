@@ -1,6 +1,6 @@
 # Article Annexe II
 
-DOCUMENTS À FOURNIR PAR LE MARIN RÉPONDANT AUX CONDITIONS DE L'ARTICLE 72-1 DU DÉCRET N° 99-439 DU 25 MAI 1999 SUSVISÉ DANS SA DÉCLARATION ÉCRITE RENOUVELABLE CHAQUE ANNÉE
+DOCUMENTS À FOURNIR PAR LE MARIN RÉPONDANT AUX CONDITIONS DE L'ARTICLE 19 DU DECRET N° 2015-723 du 24 JUIN 2015 SUSVISÉ DANS SA DÉCLARATION ÉCRITE RENOUVELABLE CHAQUE ANNÉE
 
 1° Déclaration écrite et signée par le déclarant ;
 
@@ -15,3 +15,7 @@ DOCUMENTS À FOURNIR PAR LE MARIN RÉPONDANT AUX CONDITIONS DE L'ARTICLE 72-1 DU
 6° Certificat d'aptitude physique à la navigation ;
 
 7° Document établissant le niveau de connaissance linguistique conformément à l'article 12.
+
+NOTA :
+
+La référence au décret n° 99-439 du 25 mai 1999 relatif à la délivrance des titres de formation professionnelle maritime et aux conditions d'exercice de fonctions à bord des navires de commerce et de pêche ainsi que des navires de plaisance armés avec un rôle d'équipage est remplacée par la référence au décret n° 2015-723 du 24 juin 2015 relatif à la délivrance des titres de formation professionnelle maritime et aux conditions d'exercice de fonctions à bord des navires armés au commerce, à la plaisance, à la pêche et aux cultures marines

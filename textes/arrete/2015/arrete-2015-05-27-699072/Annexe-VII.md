@@ -10,14 +10,6 @@ FONCTIONS
 
 |
 
-Voies navigables de France (VNF)
-
-|
-
-Responsable de l'arrondissement environnement, de la maintenance, de l'exploitation à la direction territoriale Nord Est
-
-|
-
 Agence de l'eau
 
 |
@@ -26,6 +18,22 @@ Directeur général adjoint à l'agence de l'eau Loire-Bretagne
 
 |
 
-Délégué régional à l'agence de l'eau Rhône Méditerranée Corse
+Directeur de la délégation régionale à l'agence de l'eau Rhône Méditerranée Corse à Montpellier
+
+|
+
+Office national de l'eau et des milieux aquatiques (ONEMA)
+
+|
+
+Adjoint au délégué interrégional Méditerranée
+
+|
+
+Voies navigables de France (VNF)
+
+|
+
+Responsable de l'arrondissement environnement, de la maintenance, de l'exploitation à la direction territoriale Nord Est
 
 |

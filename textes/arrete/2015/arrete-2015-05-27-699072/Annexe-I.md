@@ -14,10 +14,6 @@ Cabinet du ministre
 
 |
 
-Haut fonctionnaire de défense et de sécurité
-
-|
-
 Chef du bureau du cabinet
 
 |
@@ -122,19 +118,31 @@ Chef du bureau des pensions au service des ressources humaines
 
 |
 
+Chef du bureau du pilote national de la paie
+
+|
+
 Direction générale de la performance économique et environnementale des entreprises
 
 |
 
-Adjoint au sous-directeur de la biomasse et de l'environnement
+Adjoint au sous-directeur de la performance environnementale et de la valorisation des territoires
+
+|
+
+Chef du bureau des audits et des contrôles
+
+|
+
+Chef du bureau viandes et productions animales spécialisées
+
+|
+
+Chargé de la mission organisation commune des marchés uniques à la sous-direction des produits et marchés
 
 |
 
 Direction générale de l'alimentation
-
-|
-
-Chef du bureau contrôles
 
 |
 
@@ -159,9 +167,5 @@ Direction générale de l'enseignement et de la recherche
 |
 
 Adjoint au sous-directeur de la recherche, de l'innovation et des coopérations internationales
-
-|
-
-Chef du bureau des partenariats professionnels
 
 |

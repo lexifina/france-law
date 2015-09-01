@@ -24,7 +24,7 @@ par emploi
 
 |
 
-Chef de la subdivision "politique de la ville"
+Chef du pôle renouvellement urbain et programmation logement public - service logement et construction durables
 
 |
 
@@ -40,7 +40,7 @@ A
 
 |
 
-Adjoint au chef de la subdivision "politique de la ville"
+Chef de l'unité renouvellement urbain - pôle renouvellement urbain et programmation logement public - service logement et construction durables
 
 |
 
@@ -56,7 +56,7 @@ B
 
 |
 
-Instructeur des dossiers de l'ANAH
+Adjoint au chef d'unité habitat privé et lutte contre le logement indigne - pôle politiques de l'habitat et doctrine - service logement et construction durables
 
 |
 
@@ -72,7 +72,21 @@ B
 
 |
 
-Assistant en charge de la politique de la ville
+Assistant du chef de service logement et construction durables, en charge de la politique de la ville
+
+|
+
+C |
+
+1
+
+|
+
+10 points
+
+|
+
+Chargé d'opérations renouvellement urbain - unité renouvellement urbain - pôle renouvellement urbain et programmation logement public - service logement et construction durables
 
 |
 
@@ -84,7 +98,7 @@ C
 
 |
 
-20 points
+10 points
 
 |
 

@@ -26,18 +26,6 @@ Directeur du centre de formation professionnelle et de promotion agricoles de Mo
 
 |
 
-25 - Doubs
-
-|
-
-EPLEFPA Mamirolle
-
-|
-
-Agent comptable régional
-
-|
-
 29 - Finistère
 
 |
@@ -86,35 +74,11 @@ Secrétaire général
 
 |
 
-34 - Hérault
-
-|
-
-EPLEFPA de l'Hérault
-
-|
-
-Secrétaire général
-
-|
-
 40 - Landes
 
 |
 
 EPLEFPA des Landes - Dax
-
-|
-
-Secrétaire général
-
-|
-
-56 - Morbihan
-
-|
-
-EPLEFPA Pontivy
 
 |
 

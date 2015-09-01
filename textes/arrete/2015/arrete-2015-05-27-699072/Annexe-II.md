@@ -2,7 +2,7 @@
 
 LOCALISATION DES EMPLOIS DE CHEF DE MISSION DANS LES SERVICES DÉCONCENTRÉS DU MINISTÈRE DE L'AGRICULTURE, DE L'AGROALIMENTAIRE ET DE LA FORÊT (DRAAF, DAAF, DSA, DDT, DDTM, DDCS, DDCSPP)
 
-I. - DIRECTIONS RÉGIONALES DE L'AGRICULTURE, DE L'AGROALIMENTAIRE ET DE LA FORÊT (DRAAF)
+I. - DIRECTIONS RÉGIONALES DE L'ALIMENTATION, DE L'AGRICULTURE ET DE LA FORÊT (DRAAF)
 
 |
 
@@ -30,10 +30,6 @@ Chef du pôle inter-régional santé des forêts Aquitaine - Midi-Pyrénées
 
 |
 
-Délégué régional à la formation continue
-
-|
-
 DRAAF de la Basse-Normandie
 
 |
@@ -47,14 +43,6 @@ Chef du service régional de l'information statistique et économique
 |
 
 Responsable du centre de prestations comptables mutualisé
-
-|
-
-DRAAF du Centre
-
-|
-
-Chef du service régional de l'économie forestière, agricole et rurale
 
 |
 
@@ -150,15 +138,7 @@ Inspecteur santé et sécurité au travail
 
 |
 
-DRAAF de Poitou-Charentes
-
-|
-
-Secrétaire général
-
-|
-
-II. - DIRECTIONS DE L'AGRICULTURE, DE L'AGROALIMENTAIRE ET DE LA FORÊT (DAAF)
+I. - DIRECTIONS DE L'ALIMENTATION, DE L'AGRICULTURE ET DE LA FORÊT (DAAF)
 
 |
 
@@ -174,19 +154,19 @@ DAAF de la Guadeloupe
 
 |
 
-Chef du service des territoires agricoles, ruraux et forestiers
-
-|
+Chef du service des territoires agricoles, ruraux et forestiers |
 
 DAAF de La Réunion
 
 |
 
-Chef du service régional de l'information statistique et économique
+Chef du service régional de l'information statistique et économique |
+
+DAAF de Mayotte
 
 |
 
-DAAF de Mayotte
+Chef du service développement des territoires ruraux
 
 |
 
@@ -194,7 +174,9 @@ Secrétaire général
 
 |
 
-III. - DIRECTIONS DÉPARTEMENTALES DES TERRITOIRES (DDT) ET DIRECTIONS DÉPARTEMENTALES DES TERRITOIRES ET DE LA MER (DDTM)
+III. - DIRECTIONS DÉPARTEMENTALES DES TERRITOIRES (DDT) ET DIRECTIONS DÉPARTEMENTALES
+
+DES TERRITOIRES ET DE LA MER (DDTM)
 
 |
 
@@ -218,7 +200,7 @@ DDT
 
 |
 
-Chef du service de l'expertise et de l'appui technique
+Chef du service de l'environnement
 
 |
 
@@ -402,22 +384,6 @@ Chef du service de l'économie agricole
 
 |
 
-34 - Hérault
-
-|
-
-DDTM
-
-|
-
-Responsable de la mission connaissance, études et prospectives
-
-|
-
-Secrétaire général
-
-|
-
 37 - Indre-et-Loire
 
 |
@@ -522,6 +488,18 @@ Secrétaire général
 
 |
 
+49-Maine-et-Loire
+
+|
+
+DDTM
+
+|
+
+Chef du service de l'eau, de l'environnement et de la forêt
+
+|
+
 50 - Manche
 
 |
@@ -531,10 +509,6 @@ DDTM
 |
 
 Chef du service de l'économie agricole et des territoires
-
-|
-
-Chef du service de l'expertise territoriale, des risques et de la sécurité
 
 |
 
@@ -613,6 +587,16 @@ DDT
 Chef du service aménagement et environnement
 
 |
+
+62-Pas-de-Calais
+
+|
+
+DDTM
+
+|
+
+Chef de service de l'économie agricole |
 
 64 - Pyrénées-Atlantiques
 
@@ -718,18 +702,6 @@ Chef du service de l'environnement
 
 |
 
-83 - Var
-
-|
-
-DDT
-
-|
-
-Secrétaire général
-
-|
-
 84 - Vaucluse
 
 |
@@ -819,6 +791,18 @@ DDCSPP
 |
 
 Adjoint aux directeurs et chef du service des affaires générales
+
+|
+
+04-Alpes-de-Haute-Provence
+
+|
+
+DDCSPP
+
+|
+
+Chef du service de la consommation et de la protection des populations
 
 |
 
@@ -935,6 +919,10 @@ Secrétaire général
 |
 
 DDPP
+
+|
+
+Chef du service de l'environnement
 
 |
 

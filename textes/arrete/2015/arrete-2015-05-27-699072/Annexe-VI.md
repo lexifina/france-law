@@ -18,6 +18,10 @@ Commissariat général au développement durable
 
 |
 
+Adjoint au chef de délégation au développement durable
+
+|
+
 Chef de projet gestion opérationnelle de la connaissance
 
 |
@@ -50,15 +54,7 @@ Chef du bureau de la politique structurelle et des concours publics
 
 |
 
-Chef du bureau de l'économie des pêches
-
-|
-
 Direction générale de l'aménagement, du logement et de la nature
-
-|
-
-Chef du bureau de la chasse et de la pêche à la direction de l'eau et de la biodiversité
 
 |
 
@@ -126,10 +122,6 @@ DREAL de Midi-Pyrénées
 
 |
 
-Responsable du centre de prestations comptables mutualisés
-
-|
-
 Chef de la division eaux, milieux aquatiques et ressources minérales au sein du service biodiversité et ressources naturelles
 
 |
@@ -191,6 +183,14 @@ DEAL de Mayotte
 |
 
 Chef du service de l'environnement et de la prévention des risques
+
+|
+
+DEAL de La Réunion
+
+|
+
+Chef du service de la prévention des risques naturels et routiers
 
 |
 
@@ -258,6 +258,18 @@ Chef du service habitat et constructions
 
 |
 
+37 - Indre-et-Loire
+
+|
+
+DDT
+
+|
+
+Chef de la mission transversale et territoriale
+
+|
+
 49 - Maine-et-Loire
 
 |
@@ -267,18 +279,6 @@ DDT
 |
 
 Chef du service sécurité routière, gestion de crise
-
-|
-
-52 - Haute-Marne
-
-|
-
-DDT
-
-|
-
-Secrétaire général
 
 |
 
@@ -303,18 +303,6 @@ DDT
 |
 
 Chef de service de l'aménagement du territoire et de l'habitat
-
-|
-
-63 - Puy-de-Dôme
-
-|
-
-DDT
-
-|
-
-Chef de l'agence du Grand Clermont
 
 |
 
@@ -363,18 +351,6 @@ DDTM
 |
 
 Chef de service des ressources, des milieux et des territoires
-
-|
-
-85 - Vendée
-
-|
-
-DDTM
-
-|
-
-Responsable de la mission transversale : observatoire, SIG, prospective, communication
 
 |
 
