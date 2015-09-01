@@ -1,0 +1,9 @@
+# Réponse à la question n° 56585
+
+- Question : [56585](56585.md) — Question n° 56585 — méthodes; stérilet; promotion
+
+## Réponse
+
+*JO du 2015-09-01*
+
+Le débat sur les risques associés aux pilules contraceptives a été l'occasion de promouvoir d'autres moyens de contraception, tels que le dispositif intra utérin (DIU) et de permettre aux femmes de choisir la contraception la plus adaptée à leur situation personnelle. L'assurance maladie prend en charge certains moyens de contraception, dont des DIU, à hauteur de 65 %. La ministre des affaires sociales, de la santé et des droits des femmes a permis que cette prise en charge soit de 100 % pour les jeunes femmes mineures (loi n° 2012-1404 du 17 décembre 2012 de financement de la sécurité sociale) avec également, depuis janvier 2014, une dispense d'avance de frais notamment pour les actes concernant la pose ou le changement d'un contraceptif. Par ailleurs, les personnes bénéficiaires de la couverture maladie universelle complémentaire (CMUC) ont également droit à une prise en charge complète. Aujourd'hui, le coût des DIU s'élève en moyenne à 114 euros. Ces dispositifs devant être renouvelés globalement tous les 5 ans, cela revient à un coût annuel de 8 euros par an, soit un prix quasi similaire à celui des autres moyens de contraception. Les professionnels de santé sont incités à faire évoluer leurs pratiques avec la diffusion des recommandations de la haute autorité de santé, relayée par l'institut national de prévention et d'éducation pour la santé (INPES) et la caisse nationale d'assurance maladie des travailleurs salariés (CNAMTS). L'étude « Fécond » a montré pour la première fois que la réticence des médecins français à proposer des DIU aux femmes jeunes ou sans enfant semble avoir diminué, son utilisation ayant sensiblement progressé entre 2010 et 2013.
