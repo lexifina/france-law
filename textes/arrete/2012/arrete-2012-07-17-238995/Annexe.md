@@ -1,16 +1,18 @@
 # Article Annexe
 
-Le présent arrêté et son annexe seront consultables en ligne au Bulletin officiel du ministère de l'éducation nationale en date du 6 septembre 2012 sur le site : http://www.education.gouv.fr/.
+BREVET DES MÉTIERS D'ART
 
-Brevet des métiers d'art - Horaire élève
+Horaire élève
 
-Durée du cycle : 72 semaines dont 12 à 16 semaines de périodes de formation en milieu professionnel et 2 semaines d'examen
+Durée du cycle : 72 semaines dont 12 à 16 semaines de périodes de formation en milieu professionnel et 2 semaines d'examen.
 
-Disciplines
+DISCIPLINES
 
 |
 
-Volume horaire du cycle 2 ans
+VOLUME HORAIRE
+
+du cycle 2 ans
 
 |
 
@@ -18,11 +20,19 @@ Enseignements généraux
 
 |
 
-Français, histoire-géographie, éducation civique
+Français, histoire-géographie
 
 |
 
-230
+202
+
+|
+
+Enseignement moral et civique
+
+|
+
+28
 
 |
 
@@ -34,7 +44,7 @@ Langue vivante
 
 |
 
-Mathématiques/sciences physiques et chimiques
+Mathématiques/ sciences physiques et chimiques
 
 |
 
@@ -42,7 +52,7 @@ Mathématiques/sciences physiques et chimiques
 
 |
 
-Économie-gestion
+Economie-gestion
 
 |
 
@@ -98,7 +108,7 @@ Total enseignements professionnels
 
 |
 
-1096
+1 096
 
 |
 
@@ -114,6 +124,6 @@ Total enseignements obligatoires
 
 |
 
-1784
+1 784
 
 |
