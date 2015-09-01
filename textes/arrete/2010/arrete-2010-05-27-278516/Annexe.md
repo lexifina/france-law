@@ -1,10 +1,10 @@
 # Article Annexe
 
-Liste et horaires hebdomadaires des disciplines enseignées dans le cycle terminal de la série STD2A de la voie technologique
+LISTE ET HORAIRES HEBDOMADAIRES DES DISCIPLINES ENSEIGNÉES DANS LE CYCLE TERMINAL DE LA SÉRIE STD2A DE LA VOIE TECHNOLOGIQUE
 
 1. Classe de première
 
-ENSEIGNEMENTS OBLIGATOIRES
+Enseignements obligatoires
 
 |
 
@@ -48,7 +48,7 @@ Education physique et sportive (2)
 
 |
 
-Physique chimie
+Physique-chimie
 
 |
 
@@ -80,6 +80,14 @@ Design et arts appliqués en langue vivante 1 (3)
 
 |
 
+Enseignement moral et civique (4)
+
+|
+
+0 heure 30
+
+|
+
 Accompagnement personnalisé
 
 |
@@ -96,7 +104,7 @@ Heures de vie de classe
 
 |
 
-ENSEIGNEMENTS FACULTATIFS
+Enseignements facultatifs
 
 |
 
@@ -110,17 +118,13 @@ Horaires
 
 Deux enseignements au plus parmi les suivants :
 
+- éducation physique et sportive
+
+- arts (arts plastiques, cinéma-audiovisuel, danse, histoire des arts, musique ou théâtre)
+
 |
 
 3 heures
-
-|
-
-- éducation physique et sportive ;
-
-|
-
-- arts (arts plastiques, cinéma-audiovisuel, danse, histoire des arts, musique ou théâtre)
 
 |
 
@@ -132,17 +136,11 @@ Atelier artistique
 
 |
 
-(1) La langue vivante 1 est étrangère. La langue vivante 2 peut être étrangère ou régionale. L'horaire élève indiqué correspond à une enveloppe globalisée pour ces deux langues vivantes. A l'enseignement d'une langue vivante peut s'ajouter une heure avec un assistant de langue.
-
-(2) Les élèves désirant poursuivre l'enseignement d'exploration d'EPS de seconde de cinq heures bénéficient d'un enseignement complémentaire de quatre heures en sus de l'enseignement obligatoire. Dans ce cas, le cumul de cet enseignement complémentaire avec l'enseignement facultatif d'EPS n'est pas autorisé. Par ailleurs, ces élèves ne peuvent choisir qu'un seul enseignement facultatif.
-
-(3) Enseignement en langue vivante 1 pris en charge conjointement par un enseignant d'une discipline technologique et un enseignant de langue vivante.
-
 |
 
 2. Classe terminale
 
-ENSEIGNEMENTS OBLIGATOIRES
+Enseignements obligatoires
 
 |
 
@@ -162,7 +160,7 @@ Philosophie
 
 |
 
-Langues vivantes 1 et 2 (4)
+Langues vivantes 1 et 2 (5)
 
 |
 
@@ -186,7 +184,7 @@ Physique chimie
 
 |
 
-Education physique et sportive (5)
+Education physique et sportive (6)
 
 |
 
@@ -202,11 +200,19 @@ Design et arts appliqués
 
 |
 
-Design et arts appliqués en langue vivante 1 (6)
+Design et arts appliqués en langue vivante 1 (7)
 
 |
 
 1 heure
+
+|
+
+Enseignement moral et civique (8)
+
+|
+
+0 heure 30
 
 |
 
@@ -226,7 +232,7 @@ Heures de vie de classe
 
 |
 
-ENSEIGNEMENTS FACULTATIFS
+Enseignements facultatifs
 
 |
 
@@ -240,17 +246,13 @@ Horaires
 
 Deux enseignements au plus parmi les suivants :
 
+- éducation physique et sportive
+
+- arts (arts plastiques, cinéma-audiovisuel, danse, histoire des arts, musique ou théâtre)
+
 |
 
 3 heures
-
-|
-
-- éducation physique et sportive ;
-
-|
-
-- arts (arts plastiques, cinéma-audiovisuel, danse, histoire des arts, musique ou théâtre)
 
 |
 
@@ -261,11 +263,5 @@ Atelier artistique
 72 heures annuelles
 
 |
-
-(4) La langue vivante 1 est étrangère. La langue vivante 2 peut être étrangère ou régionale. L'horaire élève indiqué correspond à une enveloppe globalisée pour ces deux langues vivantes. A l'enseignement d'une langue vivante peut s'ajouter une heure avec un assistant de langue.
-
-(5) Les élèves désirant poursuivre l'enseignement d'exploration d'EPS de seconde de cinq heures bénéficient d'un enseignement complémentaire de quatre heures en sus de l'enseignement obligatoire. Dans ce cas, le cumul de cet enseignement complémentaire avec l'enseignement facultatif d'EPS n'est pas autorisé. Par ailleurs, ces élèves ne peuvent choisir qu'un seul enseignement facultatif.
-
-(6) Enseignement en langue vivante 1 pris en charge conjointement par un enseignant d'une discipline technologique et un enseignant de langue vivante.
 
 |
