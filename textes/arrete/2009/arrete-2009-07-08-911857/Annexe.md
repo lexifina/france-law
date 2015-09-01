@@ -1,6 +1,6 @@
 # Article Annexe
 
-A - Français, histoire - géographie et éducation civique : Coefficient 6
+A - Français, histoire - géographie et enseignement moral et civique : Coefficient 6
 
 1 - Objectifs de l'épreuve :
 
@@ -12,27 +12,27 @@ La partie de l'épreuve portant sur le français permet de vérifier, à l'issue
 
 - Confronter des savoirs et des valeurs pour construire son identité culturelle.
 
-La partie de l'épreuve portant sur l'histoire - géographie - éducation civique vise à apprécier le niveau des connaissances et capacités acquises par le candidat au cours de la première professionnelle dans les sujets d'étude choisis parmi ceux prévus par le programme d'enseignement de l'histoire - géographie - éducation civique.
+La partie de l'épreuve portant sur l'histoire - géographie - enseignement moral et civique vise à apprécier le niveau des connaissances et capacités acquises par le candidat au cours de la première professionnelle dans les sujets d'étude choisis parmi ceux prévus par le programme d'enseignement de l'histoire - géographie - enseignement moral et civique.
 
 2 - Modes d'évaluation
 
 a) épreuve ponctuelle écrite (notée sur 20) - 3 heures :
 
-Les deux parties de l'épreuve (français et histoire - géographie-éducation civique) sont évaluées à part égale, sur 10 points.
+Les deux parties de l'épreuve (français et histoire - géographie-enseignement moral et civique) sont évaluées à part égale, sur 10 points.
 
 - Première partie : français (1 heure 30)
 
 À partir d'un texte littéraire et/ou d'un document, le candidat répond, par écrit, à des questions de vocabulaire et de compréhension. Il rédige ensuite un texte qui peut être une écriture à contraintes (suite de texte, récit, portrait, écriture à la manière de.) ou une écriture argumentative (vingt à vingt cinq lignes).
 
-- Deuxième partie : histoire - géographie - éducation civique (1 heure 30)
+- Deuxième partie : histoire - géographie - enseignement moral et civique (1 heure 30)
 
-L'épreuve consiste en un questionnaire à réponse courte (cinq à dix lignes) ou à choix multiples qui porte sur des sujets d'étude et sur des situations définis dans le programme de première professionnelle. Deux questions sont posées en histoire, deux en géographie et une en éducation civique. Les questions peuvent comporter un support documentaire (texte, image, carte.).
+L'épreuve consiste en un questionnaire à réponse courte (cinq à dix lignes) ou à choix multiples qui porte sur des sujets d'étude et sur des situations définis dans le programme de première professionnelle. Deux questions sont posées en histoire, deux en géographie et une en enseignement moral et civique. Les questions peuvent comporter un support documentaire (texte, image, carte.).
 
 En histoire, une question est posée sur un des cinq sujets d'étude obligatoires et une autre sur une situation relevant de l'un des quatre autres sujets d'étude. Cette seconde question est choisie par le candidat parmi trois questions correspondant chacune à une situation de ce sujet d'étude.
 
-En éducation civique, une question est posée sur le thème obligatoire du programme.
+En enseignement moral et civique, une question est posée sur le thème obligatoire du programme.
 
-Les questions d'histoire sont notées sur 4 points, les questions de géographie sur 4 points, la question d'éducation civique sur 2 points.
+Les questions d'histoire sont notées sur 4 points, les questions de géographie sur 4 points, la question d'enseignement moral et civique sur 2 points.
 
 b) Contrôle en cours de formation (noté sur 20)
 
@@ -271,3 +271,7 @@ Le sujet comporte plusieurs questions indépendantes ou liées sur les modules c
 - Deuxième partie :
 
 Le sujet comporte plusieurs questions indépendantes ou liées sur les modules correspondants. Il permet d'évaluer les connaissances relatives à l'environnement et aux risques. Le candidat dispose de documents ressources lui permettant de proposer une démarche de prévention.
+
+NOTA :
+
+Aux termes de l'article 3 de l'arrêté du 12 juin 2015, le "A. - Français, histoire-géographie et éducation civique : coefficient 6" de cette annexe est remplacé par les dispositions fixées en annexe à l'arrêté du 12 juin 2015 qui seront publiées au Bulletin officiel spécial de l'éducation nationale en date du 25 juin 2015 sur le site http://www.education.gouv.fr
