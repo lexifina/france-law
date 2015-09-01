@@ -668,65 +668,45 @@ Une activité et une seule peut être spécifique à l'établissement. Dans ce c
 
 Le savoir nager
 
-Inscrite dans le socle commun, l'acquisition du savoir-nager est une priorité nationale. Le savoir-nager correspond à une maîtrise du milieu aquatique et ne doit pas être confondu avec les activités de la natation sportive.
+Le savoir-nager correspond à une maîtrise du milieu aquatique. Il reconnaît la compétence à nager en sécurité, dans un établissement de bains ou un espace surveillé (piscine, parc aquatique, plan d'eau calme à pente douce). Il ne doit pas être confondu avec les activités de la natation fixées par les programmes d'enseignement.
 
-Deux degrés d'acquisition sont identifiés.
+Son acquisition est un objectif des classes de CM1, CM2 et sixième (qui constitueront le cycle de consolidation à compter de la rentrée 2016). Le cas échéant, l'attestation scolaire savoir-nager pourra être délivrée ultérieurement.
 
-Le premier degré doit être vérifié ou acquis au collège si possible dès la classe de sixième et au plus tard en fin de 3ème. Il reconnaît la compétence à nager en sécurité, dans un établissement de bains ou un espace surveillé (piscine, parc aquatique, plan d'eau calme à pente douce).
+Sa maîtrise permet d'accéder à toute activité aquatique ou nautique susceptible d'être programmée dans le cadre des enseignements obligatoires ou d'activités optionnelles en EPS, ou à l'extérieur de l'école, notamment pour la pratique des activités sportives mentionnées aux articles A. 322-42 et A. 322-64 du code du sport.
 
-La maîtrise de ce premier degré, constitue un pré-requis pour accéder au terme d'un cycle d'apprentissage, au niveau 1 des compétences attendues en natation de vitesse et en natation longue, ainsi que dans toute activité aquatique ou nautique susceptible d'être programmée dans le cadre des enseignements obligatoires ou d'activités optionnelles en EPS.
+Il est défini comme suit :
 
-Le second degré reconnaît la compétence à nager de manière responsable en milieu naturel surveillé, à faire face à certaines situations périlleuses, et à permettre, le cas échéant, de porter secours sans se perdre soi même. Sa maîtrise suppose l'acquisition de compétences de niveau 2 des activités de natation sportive, inscrites dans les programmes. Il est recommandé de confronter les élèves nageurs ayant acquis ou étant en voie d'acquérir un niveau 2 de compétences du programme, au test décrit ci-dessous, pour les sensibiliser aux risques encourus lors des baignades en milieu naturel, lors des actions de secours et pour qu'ils mesurent les limites de leurs compétences dans ce domaine.
+Parcours à réaliser en continuité, sans reprise d'appuis au bord du bassin et sans lunettes :
 
-Ces deux degrés sont définis comme suit :
+- à partir du bord de la piscine, entrer dans l'eau en chute arrière ;
 
-Premier degré du savoir-nager
+- se déplacer sur une distance de 3 m 50 en direction d'un obstacle ;
 
-Parcours de capacités, composé de 5 tâches à réaliser en continuité, sans reprise d'appuis au bord du bassin :
+- franchir en immersion complète l'obstacle sur une distance de 1 m 50 ;
 
-• sauter en grande profondeur,
+- se déplacer sur le ventre sur une distance de 15 mètres ;
 
-• revenir à la surface et s'immerger pour passer sous un obstacle flottant,
+- au cours de ce déplacement, au signal sonore, réaliser un surplace vertical pendant 15 secondes puis reprendre le déplacement pour terminer la distance des 15 mètres ;
 
-• nager 20 mètres : 10 mètres sur le ventre et 10 mètres sur le dos,
+- faire demi-tour sans reprise d'appuis et passer d'une position ventrale à une position dorsale ;
 
-• réaliser un surplace de 10 secondes,
+- se déplacer sur le dos sur une distance de 15 mètres ;
 
-• s'immerger à nouveau pour passer sous un obstacle flottant.
+- au cours de ce déplacement, au signal sonore réaliser un surplace en position horizontale dorsale pendant 15 secondes, puis reprendre le déplacement pour terminer la distance des 15 mètres ;
 
-Connaissances et attitudes essentielles à vérifier :
+- se retourner sur le ventre pour franchir à nouveau l'obstacle en immersion complète ;
 
-• connaître les règles d'hygiène corporelle
+- se déplacer sur le ventre pour revenir au point de départ.
 
-• connaître les contre indications
+Connaissances et attitudes :
 
-• prendre connaissance du règlement intérieur de l'installation nautique
+- savoir identifier la personne responsable de la surveillance à alerter en cas de problème ;
 
-• connaître et respecter le rôle des adultes encadrant
+- connaître les règles de base liées à l'hygiène et la sécurité dans un établissement de bains ou un espace surveillé ;
 
-Deuxième degré du savoir nager
+- savoir identifier les environnements et les circonstances pour lesquels la maîtrise du savoir-nager est adaptée.
 
-Parcours de capacités, composé de 5 tâches à réaliser en continuité, sans reprise d'appuis au bord du bassin :
-
-• plonger et nager 10 mètres en immersion
-
-• nager 10 minutes sans prendre appui
-
-• réaliser un surplace de 1 minute
-
-• réaliser un plongeon canard pour remonter un objet immergé
-
-• remorquer cet objet sur 20 mètres sur le dos et les bras croisés sur la poitrine
-
-Connaissances et attitudes essentielles à vérifier :
-
-• connaître les recommandations visant à prévenir les accidents et les noyades en milieu naturel
-
-• connaître les attitudes efficaces pour se sortir de situations périlleuses
-
-• connaître les attitudes efficaces pour contribuer à porter secours sans se perdre soi même
-
-• connaître les chaînes d'alerte et les numéros d'urgence
+MODELE D'ATTESTATION SCOLAIRE "SAVOIR-NAGER" : consulter le fac-similé à l'adresse suivante : http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20150711&numTexte=22&pageDebut=11879&pageFin=11880
 
 Organisation des conditions de l'enseignement de L'EPS
 
@@ -895,3 +875,7 @@ Pour répondre à des attentes ou des besoins repérés, des interventions péda
 Les interventions pédagogiques particulières participent à la construction d'attitudes et d'habitudes corporelles et aident à l'atteinte des objectifs du collège, concernant notamment l'éducation à la santé et la gestion de la vie physique et sociale. Elles doivent être naturellement intégrées dans chacune des leçons quelle que soit l'APSA utilisée.
 
 L'échauffement mérite à ce titre une attention particulière et nécessite un apprentissage spécifique permettant à l'élève de se préparer aux efforts à venir et de réactualiser des apprentissages antérieurs. Ce temps de la leçon concourt particulièrement à l'acquisition de la compétence méthodologique et sociale "se connaître, se préparer, se préserver".
+
+NOTA :
+
+Conformément à l'article 4 de l'arrêté du 9 juillet 2015, les dispositions relatives au "savoir-nager" entrent en vigueur à compter de la rentrée scolaire 2015.
