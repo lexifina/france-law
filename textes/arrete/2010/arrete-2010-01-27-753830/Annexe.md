@@ -1,18 +1,18 @@
 # Article Annexe
 
-CLASSE DE SECONDE GÉNÉRALE ET TECHNOLOGIQUE
+Annexe
+
+Classe de seconde générale et technologique
 
 DISCIPLINES
 
 |
 
-HORAIRE ÉLÈVE
+HORAIRE élève
 
 |
 
 Enseignements communs
-
-|
 
 |
 
@@ -72,7 +72,7 @@ Education physique et sportive
 
 |
 
-Education civique, juridique et sociale (c)
+Enseignement moral et civique (c)
 
 |
 
@@ -100,19 +100,7 @@ Enseignements d'exploration
 
 |
 
-|
-
-Deux enseignements d'exploration, avec :
-
-|
-
-|
-
-Un premier enseignement d'exploration au choix parmi :
-
-|
-
-|
+Deux enseignements d'exploration avec : un premier enseignement d'exploration au choix parmi :
 
 Sciences économiques et sociales
 
@@ -131,10 +119,6 @@ Principes fondamentaux de l'économie et de la gestion
 |
 
 Un second enseignement d'exploration, différent du premier enseignement retenu, au choix parmi :
-
-|
-
-|
 
 Sciences économiques et sociales
 
@@ -208,6 +192,14 @@ Création et innovation technologiques
 
 |
 
+Informatique et création numérique
+
+|
+
+1 h 30
+
+|
+
 Création et activités artistiques : au choix parmi arts visuels ou arts du son ou arts du spectacle ou patrimoines
 
 |
@@ -249,10 +241,6 @@ Ecologie, agronomie, territoire et développement durable (e)
 |
 
 Par dérogation :
-
-|
-
-|
 
 Trois enseignements d'exploration distincts, dont :
 
@@ -348,13 +336,7 @@ Enseignements facultatifs
 
 |
 
-|
-
 Un enseignement au choix parmi :
-
-|
-
-|
 
 Langue et culture de l'Antiquité : latin
 
@@ -428,14 +410,6 @@ Atelier artistique
 
 |
 
-Nota. ― Un même enseignement ne peut être choisi au titre des enseignements d'exploration et des enseignements facultatifs.
+|
 
-(a) La langue vivante 2 ou 3 peut être étrangère ou régionale.
-
-(b) Enseignement auquel peut s'ajouter une heure avec un assistant de langue.
-
-(c) Cet enseignement est pratiqué en groupe à effectif réduit.
-
-(d) Cet enseignement ne peut se cumuler avec l'enseignement facultatif d'EPS.
-
-(e) Enseignement assuré uniquement dans les lycées d'enseignement général et technologique agricole. |
+Nota.-Un même enseignement ne peut être choisi au titre des enseignements d'exploration et des enseignements facultatifs. (a) La langue vivante 2 ou 3 peut être étrangère ou régionale. (b) Enseignement auquel peut s'ajouter une heure avec un assistant de langue. (c) Cet enseignement est pratiqué en groupe à effectif réduit. (d) Cet enseignement ne peut se cumuler avec l'enseignement facultatif d'EPS. (e) Enseignement assuré
