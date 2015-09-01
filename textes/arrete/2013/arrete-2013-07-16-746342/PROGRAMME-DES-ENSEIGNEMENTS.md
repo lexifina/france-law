@@ -2,21 +2,27 @@
 
 PROGRAMME DES ENSEIGNEMENTS ET GRILLES DES CRÉDITS
 
-I. - Le 1er cycle d'arts plastiques
+I - Le premier cycle d'arts plastiques
 
-Tronc commun des cursus conduisant au DNAP et au DNAT
+Tronc commun du cursus conduisant au diplôme national d'art (DNA)
 
 Semestres 1 et 2
 
-ENSEIGNEMENTS |
+ENSEIGNEMENTS
+
+|
 
 SEMESTRE 1
 
-Nombre de crédits : 30 |
+Nombre de crédits : 30
+
+|
 
 SEMESTRE 2
 
-Nombre de crédits : 30 |
+Nombre de crédits : 30
+
+|
 
 Initiation aux techniques et aux pratiques artistiques
 
@@ -42,7 +48,7 @@ Histoire, théorie des arts et langue étrangère
 
 |
 
-Bilan du travail plastique et théorique
+Bilan du travail plastique et théorique (1)
 
 |
 
@@ -54,19 +60,29 @@ Bilan du travail plastique et théorique
 
 |
 
-Cursus conduisant au DNAP
+(1) Le bilan est effectué collégialement. Il évalue en particulier le choix des travaux, un accrochage, la maturité du travail de l'étudiant en fin de semestre.
+
+|
+
+I. - Cursus conduisant au diplôme national d'art (DNA) : option art
 
 Semestres 3 et 4
 
-ENSEIGNEMENTS |
+ENSEIGNEMENTS
+
+|
 
 SEMESTRE 3
 
-Nombre de crédits : 30 |
+Nombre de crédits : 30
+
+|
 
 SEMESTRE 4
 
-Nombre de crédits : 30 |
+Nombre de crédits : 30
+
+|
 
 Méthodologie, techniques et mises en œuvre
 
@@ -92,7 +108,7 @@ Histoire, théorie des arts et langue étrangère
 
 |
 
-Recherches et expérimentations personnelles
+Recherches et expérimentations
 
 |
 
@@ -118,21 +134,27 @@ Bilan
 
 Semestres 5 et 6
 
-ENSEIGNEMENTS |
+ENSEIGNEMENTS
+
+|
 
 SEMESTRE 5
 
-Nombre de crédits : 30 |
+Nombre de crédits : 30
+
+|
 
 SEMESTRE 6
 
-Nombre de crédits : 30 |
+Nombre de crédits : 30
+
+|
 
 Méthodologie, techniques et mises en œuvre
 
 |
 
-10
+12
 
 |
 
@@ -152,13 +174,15 @@ Histoire, théorie des arts et langue étrangère
 
 |
 
-Stage
+Recherches personnelles plastiques
 
 |
 
-2
+6
 
 |
+
+4
 
 |
 
@@ -174,33 +198,37 @@ Bilan (semestre 5) et diplôme (semestre 6)
 
 |
 
-Recherches et expérimentations personnelles
+Stage
 
 |
 
-6
+|
+
+2
 
 |
 
-6
+Le stage, qui peut être réalisé en plusieurs périodes, peut avoir lieu à la fin du semestre 3, au cours du semestre 4, 5 ou 6. Les crédits sont attribués au semestre 6. Ils peuvent être attribués jusqu'à la fin du semestre 6 pour les étudiants qui effectueraient leur stage après le diplôme.
 
-|
-
-Le stage, qui peut être réalisé en plusieurs périodes, peut avoir lieu à la fin du semestre 3, au cours du semestre 4 ou du semestre 5. Les crédits sont attribués au semestre 5.
-
-Cursus conduisant au DNAT
+II. - Cursus conduisant au diplôme national d'art (DNA) : option design et option communication
 
 Semestres 3 et 4
 
-ENSEIGNEMENTS |
+ENSEIGNEMENTS
+
+|
 
 SEMESTRE 3
 
-Nombre de crédits : 30 |
+Nombre de crédits : 30
+
+|
 
 SEMESTRE 4
 
-Nombre de crédits : 30 |
+Nombre de crédits : 30
+
+|
 
 Pratique plastique : méthodologie de projet, techniques et mises en œuvre
 
@@ -226,7 +254,7 @@ Histoire, théorie des arts et langue étrangère
 
 |
 
-Recherches et expérimentations personnelles
+Recherches et expérimentations
 
 |
 
@@ -252,25 +280,31 @@ Bilan
 
 Semestres 5 et 6
 
-ENSEIGNEMENTS |
+ENSEIGNEMENTS
+
+|
 
 SEMESTRE 5
 
-Nombre de crédits : 30 |
+Nombre de crédits : 30
+
+|
 
 SEMESTRE 6
 
-Nombre de crédits : 30 |
+Nombre de crédits : 30
+
+|
 
 Pratique plastique : méthodologie de projet, techniques et mises en œuvre
 
 |
 
-10
+12
 
 |
 
-6
+4
 
 |
 
@@ -286,16 +320,6 @@ Histoire, théorie des arts et langue étrangère
 
 |
 
-Stage
-
-|
-
-2
-
-|
-
-|
-
 Recherches et expérimentations personnelles
 
 |
@@ -305,6 +329,16 @@ Recherches et expérimentations personnelles
 |
 
 4
+
+|
+
+Stage, expérimentation des milieux de création et de production
+
+|
+
+|
+
+2
 
 |
 
@@ -320,7 +354,7 @@ Bilan (semestre 5) et diplôme (semestre 6)
 
 |
 
-Le stage, qui peut être réalisé en plusieurs périodes, peut avoir lieu à la fin du semestre 3, au cours du semestre 4 ou du semestre 5. Les crédits sont attribués au semestre 5.
+Le stage, qui peut être réalisé en plusieurs périodes, peut avoir lieu à la fin du semestre 3, au cours du semestre 4, 5 ou 6. Les crédits sont attribués au semestre 6. Ils peuvent être attribués jusqu'à la fin du semestre 6 pour les étudiants qui effectueraient leur stage après le diplôme.
 
 II. - 2e cycle d'arts plastiques
 
@@ -330,11 +364,15 @@ ENSEIGNEMENTS |
 
 SEMESTRE 7
 
-Nombre de crédits : 30 |
+Nombre de crédits : 30
+
+|
 
 SEMESTRE 8
 
-Nombre de crédits : 30 |
+Nombre de crédits : 30
+
+|
 
 Initiation à la recherche
 
@@ -376,19 +414,25 @@ Langue étrangère
 
 |
 
-Il est recommandé que le stage intervienne au semestre 8 afin que les modules d'initiation à la recherche interviennent dès le semestre 7.
+Il est recommandé que le séjour à l'étranger et le stage interviennent au semestre 8 afin que les modules d'initiation à la recherche interviennent dès le semestre 7. Le séjour et le stage sont crédités en fonction de leur durée au sein des 20 crédits attribués au projet plastique.
 
 Semestres 9 et 10
 
-ENSEIGNEMENTS |
+ENSEIGNEMENTS
+
+|
 
 SEMESTRE 9
 
-Nombre de crédits : 30 |
+Nombre de crédits : 30
+
+|
 
 SEMESTRE 10
 
-Nombre de crédits : 30 |
+Nombre de crédits : 30
+
+|
 
 Méthodologie de la recherche
 
