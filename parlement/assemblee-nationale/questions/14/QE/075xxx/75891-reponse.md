@@ -1,0 +1,9 @@
+# Réponse à la question n° 75891
+
+- Question : [75891](75891.md) — Question n° 75891 — gestion; rapport; Cour des comptes; recommandations
+
+## Réponse
+
+*JO du 2015-09-01*
+
+Le rapport public annuel de la Cour des comptes pour 2015 consacre une partie à la gestion directe des services d'eau et d'assainissement et recommande d'autoriser dans la loi les écarts de tarification lors de regroupements ainsi qu'une période de convergence suffisamment longue pour éviter des ressauts tarifaires. La réponse du ministre de l'intérieur sur ce rapport fait état de réserves à cette recommandation, pour deux raisons. D'une part, l'affirmation législative d'un tel dispositif contrevient à l'esprit gouvernant la constitution d'un établissement public de coopération intercommunale (EPCI) qui doit se traduire par une harmonisation des conditions de gestion et des redevances du service public au sein de l'espace communautaire ou syndical. D'autre part, des aménagements au principe d'harmonisation tarifaire sont d'ores et déjà possibles, sous certaines conditions. En effet, l'article L. 5211-17 du code général des collectivités territoriales (CGCT) prévoit que « l'établissement public de coopération intercommunale est substitué de plein droit, à la date du transfert de compétences, aux communes qui le composent dans toutes leurs délibérations et tous leurs actes ». Ce même article précise que « les contrats sont exécutés dans les conditions antérieures jusqu'à leur échéance, sauf accord contraire des parties ». L'EPCI est lié par les contrats éventuellement souscrits pour l'exercice de la compétence transférée. Ainsi, la multiplicité des conditions initiales d'exécution entraîne nécessairement, au stade du transfert de la compétence, une disparité des prix sur le territoire. Toutefois, l'EPCI doit, dans un second temps, harmoniser les contrats et tendre à une harmonisation des tarifs, dans le respect du principe d'égalité des usagers devant le service public.
