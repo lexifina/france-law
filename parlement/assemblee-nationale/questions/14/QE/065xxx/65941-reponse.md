@@ -1,0 +1,9 @@
+# Réponse à la question n° 65941
+
+- Question : [65941](65941.md) — Question n° 65941 — étrangers en situation irrégulière; coût
+
+## Réponse
+
+*JO du 2015-09-01*
+
+L'organisation des transports en Île-de-France relève de la responsabilité du syndicat des transports d'Île-de-France (STIF) qui rassemble la région, les départements franciliens et la ville de Paris. À ce titre, conformément à l'article L. 1241-2 du code des transports, il est seul responsable de la création des titres de transport et de la fixation de leurs tarifs. En co-financement avec la région Île-de-France, le STIF propose ainsi la réduction solidarité transport aux bénéficiaires de la couverture maladie universelle complémentaires (CMU-C) ou de l'aide médicale de l'État (AME), ainsi que les membres de leurs foyers, et aux chômeurs titulaires de l'allocation de solidarité spécifique (ASS). Ce dispositif permet à son titulaire de profiter d'une baisse de 75 % sur le prix des forfaits Navigo et de 50 % sur le prix des billets. Ce dispositif a fait l'objet en juillet 2014 d'une évaluation par le STIF, rendue publique dans un rapport disponible à l'adresse http ://www. stif. org/IMG/pdf/2014-07_eval_tst_v4. pdf. Ce rapport apporte des données chiffrées sur les bénéficiaires de ce dispositif. Les personnes en situation irrégulière au regard des règles de séjour en France peuvent, sous certaines conditions, bénéficier de l'aide médicale de l'État (AME), et par conséquent avoir droit à la réduction solidarité transport. En tout état de cause, le STIF fixe les conditions d'exploitation et de rémunération dans les contrats passés avec les opérateurs, notamment SNCF Mobilités et RATP. Le niveau des recettes tient compte de la tarification que l'autorité organisatrice met en place. Les opérateurs ne supportent donc pas le coût des mesures de réduction proposées par le STIF.
