@@ -1,0 +1,9 @@
+# Réponse à la question n° 80108
+
+- Question : [80108](80108.md) — Question n° 80108 — maisons d'assistants maternels; fiscalité
+
+## Réponse
+
+*JO du 2015-09-01*
+
+Conformément au 2° du I de l'article 1407 du code général des impôts, les associations à but non lucratif sont redevables de la taxe d'habitation pour les locaux meublés qu'elles occupent à titre privatif et qui ne sont pas retenus pour l'établissement de la cotisation foncière des entreprises. En revanche, les locaux auxquels le public a accès et dans lequel il circule librement ne sont pas imposables à la taxe d'habitation. En application de ces dispositions, les locaux des maisons d'assistantes maternelles exonérés de cotisation foncière des entreprises sont passibles de la taxe d'habitation. Dans la mesure où ces locaux accueillent des enfants en bas âge, il ne peut être considéré que le public peut y circuler librement. Sans méconnaître l'intérêt qui s'attache à l'action de ces maisons, il ne peut être envisagé d'instituer une exonération de taxe d'habitation en leur faveur. Une telle mesure se heurterait tout d'abord au principe d'égalité devant l'impôt. Une exonération de taxe d'habitation des maisons d'assistantes maternelles ne manquerait pas d'être revendiquée par d'autres associations, tout aussi dignes d'intérêt. Elle pourrait également être revendiquée par les assistantes maternelles exerçant à domicile. Une telle exonération des maisons d'assistantes maternelles créerait en effet un traitement fiscal différent à raison d'une même activité et revêtirait donc un caractère discriminant entre assistantes maternelles exerçant en maison spécialisée et assistantes maternelles exerçant à domicile. Enfin, une telle exonération priverait les collectivités territoriales des ressources de taxe d'habitation afférentes aux maisons d'assistantes maternelles, alors même qu'elles fournissent souvent déjà à ces dernières un soutien important.
