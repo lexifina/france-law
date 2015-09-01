@@ -1,0 +1,9 @@
+# Réponse à la question n° 77103
+
+- Question : [77103](77103.md) — Question n° 77103 — rémunérations; rapport; Cour des comptes; recommandations
+
+## Réponse
+
+*JO du 2015-09-01*
+
+La Cour des Comptes, dans l'insertion à son rapport public annuel 2015, relative aux compléments de rémunérations des fonctionnaires d'Etat en Outre-mer, fait le constat d'une complexité juridique et d'une ancienneté des dispositifs régissant les différents régimes indemnitaires et de sur-rémunération Outre-mer. La Cour recommande notamment de simplifier le régime de ces compléments en le refondant sur une nouvelle architecture réglementaire structurée autour d'un décret unique et d'arrêtés ministériels. Cette préconisation repose sur le constat d'une grande complexité, liée aux ajouts et ajustements successifs intervenus pour préciser et affiner ces instruments. Une harmonisation juridique et une clarification des objectifs poursuivis par ces dispositifs (remédier aux difficultés de recrutement, compenser le différentiel de coût de la vie, tenir compte des difficultés liées aux conditions de vie) apparaissent effectivement souhaitables. Une réflexion est ainsi menée pour simplifier l'architecture actuelle de ces compléments de rémunérations et les établir sur un fondement plus juste, intégrant davantage les évolutions qu'ont connues les territoires ultramarins. Les pistes non financières évoquées par la Cour, susceptibles de lever des obstacles aux mobilités Outre-mer, seront également examinées avec le plus grand soin. Conscient des enjeux humains et financiers de cette réforme, un temps de discussion et de concertation avec l'ensemble des acteurs concernés est un nécessaire préalable à l'exploration de toutes les voies proposées, et d'une définition des mesures d'accompagnement indispensables à leur réussite.
