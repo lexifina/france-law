@@ -1,0 +1,9 @@
+# Réponse à la question n° 63221
+
+- Question : [63221](63221.md) — Question n° 63221 — rapport; propositions
+
+## Réponse
+
+*JO du 2015-09-01*
+
+L'entretien prénatal précoce constitue un des éléments centraux du plan périnatalité 2005-2007. L'objet de cet entretien, réalisé de manière individuelle ou en couple chaque fois que cela est possible, est de donner aux futurs parents un espace de parole avec un professionnel qui est à leur écoute et qui peut répondre à leurs demandes, à leurs inquiétudes et les orienter en fonction des situations de vulnérabilité identifiées. Cet entretien est nécessairement réalisé par un professionnel de santé, sage-femme dans 95 % des cas ou médecin dans 5 % des cas. Comme l'indiquent les résultats de l'enquête nationale périnatale réalisée en 2010, seulement 21,4 % des femmes enceintes en ont bénéficié. C'est la raison pour laquelle une action de mobilisation des professionnels et d'information des femmes sur l'intérêt de l'entretien prénatal précoce a été menée par les services du ministère chargé de la santé, en lien avec la fédération française des réseaux de santé en périnatalité dès 2012. A l'issue de cette mobilisation, une enquête de prévalence a été menée dans 26 réseaux de santé en périnatalité. Elle a montré que cet entretien était réalisé dans 40,3 % des cas. Ces résultats ont été publiés dans un numéro récent du Bulletin épidémiologique hebdomadaire (BEH 6-7, 24 février 2015, p. 123-131). Le Gouvernement a par ailleurs soutenu dans le cadre de la proposition de loi relative à la protection de l'enfant un amendement modifiant l'article L. 2112-2 du code de la santé publique supprimant le terme « psychosocial » pour reprendre le terme d'« entretien prénatal précoce ». Le texte a été voté en première lecture à l'assemblée nationale le 12 mai 2015.
