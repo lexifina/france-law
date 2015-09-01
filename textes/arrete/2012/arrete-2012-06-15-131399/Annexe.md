@@ -1,10 +1,8 @@
 # Article Annexe
 
-CLASSE TERMINALE DE LA SÉRIE SCIENCES ET
+CLASSE TERMINALE DE LA SÉRIE SCIENCES ET TECHNOLOGIES DE LA SANTÉ ET DU SOCIAL (ST2S) –
 
-TECHNOLOGIES DE LA SANTÉ ET DU SOCIAL (ST2S) –
-
-PROGRAMMES D'HISTOIRE-GÉOGRAPHIE-ÉDUCATION CIVIQUE
+PROGRAMMES D'HISTOIRE-GÉOGRAPHIE
 
 Introduction
 
@@ -49,12 +47,6 @@ Dans l'enseignement de la question obligatoire, le professeur met en œuvre une 
 Les sujets d'étude visent l'autonomisation des lycéens. Ils constituent un espace significatif (une vingtaine d'heures) de diversification pédagogique et de production effective. Le travail en autonomie est fondé à chaque fois sur un corpus documentaire construit pour poser un problème. Ce corpus comporte généralement un faible nombre de documents, afin de rendre possible une analyse non superficielle ; il est composé à partir du manuel et de l'ensemble des ressources documentaires disponibles, pour autant qu'elles soient adaptées à la classe ; il est apporté par le professeur ou par des lycéens, certains sujets d'étude incitant fortement à la réalisation de recherches documentaires par les élèves, notamment grâce à un recours aux Tice.
 
 Ce travail en autonomie des lycéens, très majoritaire durant le traitement des sujets d'étude, ne peut produire ses fruits ni préparer à l'examen sans interventions professorales ponctuelles et ciblées.
-
-4. Éducation civique, géographie et histoire
-
-La géographie et l'histoire ont un fort potentiel d'instruction et de formation civiques ; leurs objets d'étude constituent souvent des enjeux majeurs pour notre société et sa jeunesse. Cela se vérifie dans l'ensemble des voies et à tous les niveaux d'enseignement.
-
-Le programme de terminale ST2S est porteur de cette dimension civique, tant dans les capacités et méthodes - Critiquer des documents de types différents (textes, images, cartes, graphes, etc.) , Utiliser de manière critique les moteurs de recherche et les ressources en ligne (internet, intranet de l'établissement, blogs) , Confronter des situations historiques ou/et géographiques , etc. - que dans les questions obligatoires ( L'évolution politique de la Vème République depuis 1981 , La présence de la France dans le monde ) ou les sujets d'étude ( Les femmes dans la société , L'élection présidentielle, un enjeu majeur de la vie politique française , Les engagements militaires et humanitaires de la France dans le monde , Les Français dans le monde : de nouvelles mobilités , etc.)
 
 I. Tableau des capacités et méthodes
 

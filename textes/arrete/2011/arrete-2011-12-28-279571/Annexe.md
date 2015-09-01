@@ -1,12 +1,10 @@
 # Article Annexe
 
-Programme d'histoire-géographie-éducation civique - classe de première de la série sciences et technologies de la santé et du social
+Programme d'histoire-géographie classe de première de la série sciences et technologies de la santé et du social
 
 Introduction
 
-1. Les thèmes au programme de l'enseignement d'histoire et de géographie sont au nombre de six.
-
-Ils ont été choisis de manière à :
+1. Les thèmes au programme de l'enseignement d'histoire et de géographie sont au nombre de six.Ils ont été choisis de manière à :
 
 - faire bénéficier les lycéens de cette série de l'apport de l'histoire et de la géographie en matière de formation intellectuelle et de culture générale, en vue de leur réussite dans l'enseignement secondaire puis supérieur ;
 
@@ -20,33 +18,17 @@ En cohérence avec les programmes des séries STD2A, STI2D, STL et STMG, chaque 
 
 Le professeur a toute liberté pour construire son propre itinéraire en traitant les thèmes dans un ordre différent de celui de leur présentation.
 
-2. L'articulation entre question et sujet d'étude est souple, mais répond à une cohérence.
-
-La question obligatoire constitue le développement général du thème et bénéficie donc d'un volume horaire significatif (entre 5 et 4 heures). Le commentaire - colonne de droite - en précise les contenus. La question s'articule avec les notions indiquées, qui constituent un élément explicite et évaluable du programme.
+2. L'articulation entre question et sujet d'étude est souple, mais répond à une cohérence.La question obligatoire constitue le développement général du thème et bénéficie donc d'un volume horaire significatif (entre 5 et 4 heures). Le commentaire - colonne de droite - en précise les contenus. La question s'articule avec les notions indiquées, qui constituent un élément explicite et évaluable du programme.
 
 Le sujet d'étude (entre 4 et 3 heures) ouvre une possibilité de choix de contenu et d'itinéraire pédagogique. Il est choisi en fonction de la classe, de l'environnement local ou régional du lycée, des ressources documentaires, des équilibres entre les différents champs de l'histoire et de la géographie, des projets initiés dans l'établissement. Il est forcément articulé avec la question, mais est étudié au moment que le professeur juge pertinent. Du choix de ce moment dépend une partie des objectifs attribués au sujet d'étude : en amont, il permet d'identifier quelques enjeux, problèmes et notions, développés dans le traitement de la question ; en aval, il permet d'approfondir et d'incarner certains contenus de la question.
 
-3. Les démarches pédagogiques sont diversifiées et complémentaires.
-
-Elles traduisent la pluralité des voies qui permettent le questionnement et la découverte intellectuels, l'apprentissage de l'histoire et de la géographie, la préparation de l'examen.
+3. Les démarches pédagogiques sont diversifiées et complémentaires. Elles traduisent la pluralité des voies qui permettent le questionnement et la découverte intellectuels, l'apprentissage de l'histoire et de la géographie, la préparation de l'examen.
 
 Dans l'enseignement de la question obligatoire, le professeur met en œuvre une démonstration. Il a pour objectif l'acquisition d'un bagage factuel et notionnel, modeste mais durable, et l'ouverture des lycéens aux problématiques des sciences humaines. Il diversifie les situations d'apprentissage, en visant l'efficience, et sans privilégier a priori le cours dialogué. Il recourt en tant que de besoin, et sans systématisme, à des documents.
 
 Les sujets d'étude visent l'autonomisation des lycéens. Ils constituent un espace significatif (une vingtaine d'heures) de diversification pédagogique et de production effective. Le travail en autonomie est fondé à chaque fois sur un corpus documentaire construit pour poser un problème. Ce corpus comporte généralement un faible nombre de documents, afin de rendre possible une analyse non superficielle ; il est composé à partir du manuel et de l'ensemble des ressources documentaires disponibles, pour autant qu'elles soient adaptées à la classe ; il est apporté par le professeur ou par des lycéens, certains sujets d'étude incitant fortement à la réalisation de recherches documentaires par les élèves, notamment grâce à un recours aux Tice.
 
 Ce travail en autonomie des lycéens, très majoritaire durant le traitement des sujets d'étude, ne peut produire ses fruits ni préparer à l'examen sans interventions professorales ponctuelles et ciblées.
-
-4. Éducation civique, géographie et histoire.
-
-La géographie et l'histoire ont un fort potentiel d'instruction et de formation civiques ; leurs objets d'étude constituent souvent des enjeux majeurs pour notre société et sa jeunesse. Cela se vérifie dans l'ensemble des voies et à tous les niveaux d'enseignement.
-
-Le programme de première ST2S est porteur de cette dimension civique, tant dans les capacités et méthodes - "Critiquer des documents de types différents (textes, images, cartes, graphes, etc.)", "Utiliser de manière critique les moteurs de recherche et les ressources en ligne (internet, intranet de l'établissement, blogs)", "Confronter des situations historiques ou/et géographiques" etc.). - que dans les questions obligatoires ("L'insertion de la France dans l'Union européenne", etc.) ou les sujets d'étude ("Combattre pour la République : Jean Moulin", "Les espoirs d'un ordre mondial au lendemain des conflits : de la SDN à l'Onu", "Soigner en France : disparités et maillage", etc.).
-
-Deux thèmes de ce programme l'illustrent tout particulièrement :
-
-- La France en République 1880-1945 en histoire.
-
-- Les territoires de proximité en France en géographie.
 
 I - Tableau des capacités et méthodes (classe de seconde générale et technologique et classes de première)
 
