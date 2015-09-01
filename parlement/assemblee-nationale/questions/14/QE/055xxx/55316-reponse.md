@@ -1,0 +1,9 @@
+# Réponse à la question n° 55316
+
+- Question : [55316](55316.md) — Question n° 55316 — bulletin municipal; contenu; réglementation
+
+## Réponse
+
+*JO du 2015-09-01*
+
+L'article L. 2121-27-1 du code général des collectivités territoriales précise que, dans les communes de 3 500 habitants et plus, lorsque la commune diffuse un bulletin d'information générale sur les réalisations et la gestion du conseil municipal, un espace est réservé à l'expression des conseillers n'appartenant pas à la majorité municipale. Les modalités d'application de cette disposition sont définies par le règlement intérieur. La notion de « groupes d'élus » qui englobe les élus de la majorité comme ceux de l'opposition n'a pas été définie par le législateur en ce qui concerne les bulletins municipaux. Il en résulte que le droit d'expression des conseillers municipaux n'appartenant pas à la majorité municipale au sens des dispositions précitées ne saurait être limité aux seuls conseillers appartenant à un groupe d'opposition. Il revient donc au règlement intérieur de répartir équitablement l'espace entre les différentes sensibilités d'opposition soit en accordant le même espace à chaque expression d'opposition soit en accordant un espace proportionnel en fonction du nombre d'élus par groupes politiques (tout en réservant la possibilité d'une expression individuelle d'un élu n'appartenant pas à un groupe). Par ailleurs, le règlement intérieur peut permettre l'insertion de photographies en rapport avec les points de vue des conseillers municipaux n'appartenant pas à la majorité municipale. A ce titre, le règlement intérieur ne peut interdire la publication d'une photographie du groupe d'élus en lieu et place de la photographie du président du groupe dès lors qu'il n'est pas porté atteinte à la protection du droit à l'image d'autrui.
