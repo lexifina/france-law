@@ -1,12 +1,12 @@
 # Article Annexe
 
-Histoire - géographie - éducation civique
+Histoire - géographie
 
 Classes préparatoires au certificat d'aptitude professionnelle
 
 Introduction
 
-Le nouveau programme de CAP a pour but d'aider les élèves, les apprentis et les adultes en formation à mieux connaître et mieux comprendre en histoire la diversité des sociétés et la richesse des cultures, à mieux saisir en géographie les enjeux des relations entre les sociétés et les territoires, à exercer en éducation civique une citoyenneté responsable. Il se situe dans la continuité des apprentissages du collège et laisse au professeur une large initiative pour opérer des choix afin de prendre en compte la diversité des classes et des situations de formation.
+Le nouveau programme de CAP a pour but d'aider les élèves, les apprentis et les adultes en formation à mieux connaître et mieux comprendre en histoire la diversité des sociétés et la richesse des cultures, à mieux saisir en géographie les enjeux des relations entre les sociétés et les territoires. Il se situe dans la continuité des apprentissages du collège et laisse au professeur une large initiative pour opérer des choix afin de prendre en compte la diversité des classes et des situations de formation.
 
 En histoire et en géographie, la plupart des thèmes étudiés ont été maintenus, certains intégralement, d'autres avec une formulation plus précise et un champ historique et géographique plus étendus. D'autres thèmes ont été introduits, offrant des thématiques nouvelles aux curiosités des enseignants et des élèves. Afin d'harmoniser la présentation des programmes de l'enseignement professionnel, le programme se décline en trois colonnes : les sujets d'étude, les situations, les orientations et mots-clés.
 
@@ -14,9 +14,7 @@ Le programme offre des possibilités de choix entre les sujets d'étude. En hist
 
 Chacun des sujets d'étude, en histoire mais aussi en géographie, ouvre la voie à des prolongements littéraires ou artistiques, tels qu'ils ont été définis par les instructions officielles. Ils permettront aux enseignants d'utiliser leur bivalence, mais aussi de travailler en interdisciplinarité, afin de nourrir et d'enrichir l'appétence des élèves pour l'histoire des arts.
 
-Le programme d'éducation civique insiste sur l'apprentissage concret des règles qui permettent le respect de l'autre et la formation à l'exercice de la citoyenneté. Dans le même esprit qu'en histoire - géographie, le professeur choisira deux thèmes parmi ceux qui sont proposés.
-
-Il n'est pas d'enseignement d'histoire, de géographie et d'éducation civique qui ne suppose l'acquisition ou le renforcement de capacités. Certaines sont plus spécifiques à l'histoire - géographie-éducation civique ; beaucoup se croisent avec les autres disciplines et concourent, notamment, à la maîtrise de l'écrit et de l'oral et à l'exercice du raisonnement et de l'esprit critique.
+Il n'est pas d'enseignement d'histoire et de géographie qui ne suppose l'acquisition ou le renforcement de capacités. Certaines sont plus spécifiques à l'histoire et à la géographie ; beaucoup se croisent avec les autres disciplines et concourent, notamment, à la maîtrise de l'écrit et de l'oral et à l'exercice du raisonnement et de l'esprit critique.
 
 Histoire
 
@@ -190,91 +188,7 @@ On présente l'émergence d'une culture mondiale. On montre que la vitalité des
 
 |
 
-Éducation civique
-
-Les thèmes invitent à construire la citoyenneté à partir de l'environnement quotidien de l'élève, de l'apprenti ou de l'adulte en formation pour l'élargir à des questions de société qui interrogent le citoyen.
-
-On aborde au moins deux thèmes parmi les quatre proposés. Pour chaque thème on choisit au moins un sujet.
-
-SUJETS D'ÉTUDE
-
-|
-
-SITUATIONS
-
-|
-
-ORIENTATIONS ET MOTS-CLÉS
-
-|
-
-1. Droits et devoirs des membres de la communauté éducative
-
-|
-
-- Les instances de la vie lycéenne
-
-- Le droit d'expression au lycée
-
-- Le règlement intérieur
-
-- La prévention de la violence en milieu scolaire
-
-|
-
-Au sein de la communauté éducative chacun a des droits et des devoirs qui sont différents selon le statut et la fonction. On réfléchit à la mise en œuvre par les élèves de leurs droits et obligations dans l'établissement, ce qui leur permet de faire l'apprentissage des principes et des méthodes de la démocratie et de se préparer à l'exercice de la citoyenneté
-
-|
-
-2. Égalité, différences, discriminations
-
-|
-
-- Un exemple d'exclusion lié au racisme, au sexisme ou au handicap
-
-- Les salaires hommes-femmes
-
-- La discrimination positive en débat
-
-|
-
-La Constitution affirme et garantit l' égalité juridique entre les citoyens. Toute atteinte à ce principe est contraire à la loi. Il existe en revanche dans la société des inégalités et des différences économiques, sociales, religieuses et culturelles entre les personnes qui peuvent conduire à des discriminations. À partir d'exemples, on identifie différentes formes de discrimination dont certaines sont passibles de sanctions pénales
-
-|
-
-3. Le citoyen et les médias
-
-|
-
-- Le pouvoir de l'image
-
-- La liberté d'expression et les nouveaux médias
-
-- Un grand événement à partir de la une des journaux
-
-|
-
-Tout citoyen responsable doit s'informer afin de pouvoir exercer des choix et de se forger une opinion sur les grandes questions d'actualité. On souligne la nécessité de développer l' esprit critique et d'amorcer une réflexion sur le traitement de l'information, ses impacts sur la société et les dérives possibles
-
-|
-
-4. Le citoyen et la justice
-
-|
-
-- Être juré en cour d'assises
-
-- Le droit, la loi, la liberté
-
-- La condition pénitentiaire
-
-|
-
-Une justice indépendante et égale pour tous est un élément constitutif de l'État de droit. On met en évidence l'utilité sociale de cette institution et on fait réfléchir sur l'articulation entre la liberté et le droit
-
-|
-
-Capacités - histoire - géographie - éducation civique
+Capacités en histoire et en géographie
 
 Les élèves, les apprentis ou les adultes en formation doivent acquérir les capacités suivantes :
 
