@@ -1,8 +1,8 @@
 # Article Annexe
 
-GRILLES HORAIRES DU CYCLE TERMINAL DE LA VOIE GENERALE : SERIES ES, L ET S
+GRILLES HORAIRES DU CYCLE TERMINAL DE LA VOIE GÉNÉRALE : SÉRIES ES, L ET S
 
-1/ CLASSE DE PREMIERE
+1. Classe de première
 
 ENSEIGNEMENTS COMMUNS AUX 3 SÉRIES
 
@@ -40,11 +40,11 @@ Education physique et sportive (c)
 
 |
 
-Education civique juridique et sociale (d)
+Enseignement moral et civique (d)
 
 |
 
-0,5 h
+0 h 30
 
 |
 
@@ -156,7 +156,9 @@ ou Ecologie, agronomie et territoires (h)(e)
 
 |
 
-Histoire-géographie |
+Histoire-géographie
+
+|
 
 2 h 30
 
@@ -504,9 +506,7 @@ b) atelier artistique
 
 |
 
-GRILLES HORAIRES DU CYCLE TERMINAL DE LA VOIE GENERALE : SERIES ES, L ET S
-
-2. CLASSE TERMINALE
+2. Classe terminale
 
 ENSEIGNEMENTS COMMUNS AUX 3 SÉRIES
 
@@ -536,7 +536,7 @@ Education physique et sportive (c)
 
 |
 
-Education civique juridique et sociale (d)
+Enseignement moral et civique (d)
 
 |
 
@@ -1045,7 +1045,3 @@ b) atelier artistique
 (h) Enseignements assurés uniquement dans les lycées d'enseignement général et technologique agricole.
 
 |
-
-NOTA :
-
-Arrêté du 19 décembre 2012, article 3 : Les dispositions du présent arrêté entrent en application à compter de la rentrée de l'année scolaire 2013-2014 en classes de première et à compter de la rentrée de l'année scolaire 2014-2015 en classes terminales. En tant que de besoin, le ministre chargé de l'éducation nationale et le ministre chargé de l'agriculture fixent les dispositions applicables lors de ces rentrées aux élèves redoublants.
