@@ -116,7 +116,7 @@ Deuxième langue vivante (2)
 
 |
 
-Histoire-géographie-éducation civique
+Histoire-géographie-enseignement moral et civique
 
 |
 

@@ -34,7 +34,7 @@ Première langue vivante étrangère
 
 |
 
-Histoire-géographie-éducation civique
+Histoire-géographie-enseignement moral et civique
 
 |
 
