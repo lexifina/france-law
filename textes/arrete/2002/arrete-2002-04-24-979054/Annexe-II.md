@@ -1,12 +1,8 @@
 # Article Annexe II
 
-Annexe II
-
 Durée de la période de formation en milieu professionnel : 14 semaines
 
-ENSEIGNEMENTS
-
-obligatoires
+Enseignements obligatoires
 
 |
 
@@ -38,15 +34,17 @@ Total
 
 |
 
-dont en classe entière
+Dont en classe entière
 
 |
 
-dont en groupe à effectif réduit (*)
+Dont en groupe à effectif réduit (*)
 
 |
 
-dont participation aux PPCP (**)
+Dont participation
+
+aux PPCP (**)
 
 |
 
@@ -58,15 +56,17 @@ Total
 
 |
 
-dont en classe entière
+Dont en classe entière
 
 |
 
-dont en groupe à effectif réduit (*)
+Dont en groupe à effectif réduit (*)
 
 |
 
-Dont Participation aux PPCP (**)
+Dont participation
+
+aux PPCP (**)
 
 |
 
@@ -74,11 +74,11 @@ Horaire hebdomadaire indicatif
 
 |
 
-Français, histoire - géographie, éducation civique
+Français, histoire - géographie
 
 |
 
-116
+101,5
 
 |
 
@@ -86,11 +86,11 @@ Français, histoire - géographie, éducation civique
 
 |
 
-58
+43,5
 
 |
 
-14,5 (a)
+14,5
 
 |
 
@@ -98,11 +98,11 @@ Français, histoire - géographie, éducation civique
 
 |
 
-4 (1,5+2+0,5)(b)
+3,5 (1,5 + 1,5 + 0,5) (b)
 
 |
 
-104
+91
 
 |
 
@@ -110,7 +110,7 @@ Français, histoire - géographie, éducation civique
 
 |
 
-65
+52
 
 |
 
@@ -122,11 +122,57 @@ Français, histoire - géographie, éducation civique
 
 |
 
-4 (1+2,5+0,5)(b)
+3,5
+
+(1 + 2 + 0,5) (b)
 
 |
 
-220
+192,5
+
+|
+
+Enseignement moral et civique
+
+|
+
+14,5
+
+|
+
+0
+
+|
+
+14,5
+
+|
+
+|
+
+0,5 (0 + 0,5)
+
+|
+
+13
+
+|
+
+0
+
+|
+
+13
+
+|
+
+|
+
+0,5 (0 + 0,5) (c)
+
+|
+
+27,5
 
 |
 
@@ -146,11 +192,11 @@ Mathématiques - sciences (1)
 
 |
 
-À définir
+A définir
 
 |
 
-3,5 (1,5+2)
+3,5 (1,5 + 2)
 
 |
 
@@ -166,11 +212,11 @@ Mathématiques - sciences (1)
 
 |
 
-À définir
+A définir
 
 |
 
-3,5 (1,5+2)
+3,5 (1,5 + 2)
 
 |
 
@@ -194,11 +240,11 @@ Langue vivante
 
 |
 
-À définir
+A définir
 
 |
 
-2 (1+1)
+2 (1 + 1)
 
 |
 
@@ -214,7 +260,7 @@ Langue vivante
 
 |
 
-À définir
+A définir
 
 |
 
@@ -242,11 +288,11 @@ Arts appliqués et cultures artistiques
 
 |
 
-À définir
+A définir
 
 |
 
-2 (1+1)
+2 (1 + 1)
 
 |
 
@@ -262,11 +308,11 @@ Arts appliqués et cultures artistiques
 
 |
 
-À définir
+A définir
 
 |
 
-2 (1+1)
+2 (1 + 1)
 
 |
 
@@ -338,11 +384,11 @@ Prévention santé environnement
 
 |
 
-À définir
+A définir
 
 |
 
-1 (0+1)
+1 (0 + 1)
 
 |
 
@@ -358,11 +404,11 @@ Prévention santé environnement
 
 |
 
-À définir
+A définir
 
 |
 
-1,5 (0,5+1)
+1,5 (0,5 + 1)
 
 |
 
@@ -390,7 +436,11 @@ Enseignement technologique et professionnel
 
 |
 
-18 (3+13,5+1,5) (b)
+|
+
+18 (3 + 13,5 + 1,5)
+
+(b)
 
 |
 
@@ -412,7 +462,7 @@ Enseignement technologique et professionnel
 
 |
 
-17 (3+12+2) (b)
+17 (3 + 12 + 2) (b)
 
 |
 
@@ -420,9 +470,7 @@ Enseignement technologique et professionnel
 
 |
 
-TOTAL
-
-|
+Total |
 
 957
 
@@ -431,8 +479,6 @@ TOTAL
 |
 
 |
-
-87 (0+87)
 
 |
 
@@ -448,8 +494,6 @@ TOTAL
 
 |
 
-104 (0+104)
-
 |
 
 32,5
@@ -462,7 +506,17 @@ TOTAL
 
 dont
 
+- projet pluridisciplinaire à caractère professionnel
+
 |
+
+|
+
+|
+
+|
+
+87 (0 + 87)
 
 |
 
@@ -474,29 +528,7 @@ dont
 
 |
 
-|
-
-|
-
-|
-
-|
-
-- Projet pluridisciplinaire à caractère professionnel
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
+104 (0 + 104)
 
 |
 
@@ -534,35 +566,13 @@ Aide individualisée (2)
 
 |
 
-|
-
-ENSEIGNEMENTS FACULTATIFS
+Enseignements facultatifs
 
 |
 
 |
 
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Atelier d'expression artistique
+- atelier d'expression artistique
 
 |
 
@@ -575,6 +585,10 @@ Atelier d'expression artistique
 |
 
 0
+
+|
+
+|
 
 |
 
@@ -591,6 +605,10 @@ Atelier d'expression artistique
 |
 
 0
+
+|
+
+|
 
 |
 
@@ -602,7 +620,7 @@ Atelier d'expression artistique
 
 |
 
-Atelier d'éducation physique et sportive
+- atelier d'éducation physique et sportive
 
 |
 
@@ -615,6 +633,8 @@ Atelier d'éducation physique et sportive
 |
 
 0
+
+|
 
 |
 
@@ -631,6 +651,8 @@ Atelier d'éducation physique et sportive
 |
 
 0
+
+|
 
 |
 
@@ -658,29 +680,17 @@ Période de formation en milieu professionnel
 
 |
 
-(1) Sciences physiques ou sciences appliquées en fonction de la spécialité, conformément à l'arrêté de création du diplôme.
-
-|
+(1) Sciences physiques ou sciences appliquées en fonction de la spécialité, conformément à l'arrêté de création du diplôme
 
 (2) Horaire réservé à certains élèves de la division, en français et/ou en mathématiques.
 
-|
+(*) Horaire donnant droit au doublement de la dotation horaire professeur lorsque le seuil d'effectif est atteint.
 
-* Horaire donnant droit au doublement de la dotation horaire professeur lorsque le seuil d'effectif est atteint.
-
-|
-
-** Horaire donnant droit au doublement de la dotation horaire professeur sans condition de seuil.
-
-|
+(**) Horaire donnant droit au doublement de la dotation horaire professeur sans condition de seuil.
 
 (a) Horaire minimal.
 
-|
-
-(b) Le 1er nombre entre parenthèses correspond à l'horaire en classe entière, le 2nd à l'horaire en groupe à effectif réduit lorsque le seuil d'effectif est atteint, le 3ème correspond à l'horaire de PPCP. Ce dernier est destiné à faciliter le calcul de la dotation horaire globale. Il ne s'agit nullement de la traduire en une organisation hebdomadaire.
-
-|
+(b) Le premier nombre entre parenthèses correspond à l'horaire en classe entière, le deuxième à l'horaire en groupe à effectif réduit lorsque le seuil d'effectif est atteint, le troisième correspond à l'horaire de PPCP. Ce dernier est destiné à faciliter le calcul de la dotation horaire globale. Il ne s'agit nullement de le traduire en une organisation hebdomadaire.
 
 (c) La part non affectée de ce volume est à attribuer à une ou plusieurs disciplines. L'affectation à une discipline n'augmente pas l'horaire global de celle-ci. Elle consiste à diminuer l'horaire classe entière au profit d'un horaire en groupe à effectif réduit pour la réalisation des PPCP.
 

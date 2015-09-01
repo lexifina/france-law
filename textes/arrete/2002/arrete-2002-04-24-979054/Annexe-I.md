@@ -1,532 +1,284 @@
 # Article Annexe I
 
-Annexe I
-
 Durée de la période de formation en milieu professionnel : 12 semaines
 
-ENSEIGNEMENTS
+Enseignements obligatoires |
 
-obligatoires
+PREMIÈRE ANNÉE |
 
-|
-
-PREMIÈRE ANNÉE
-
-|
-
-DEUXIÈME ANNÉE
-
-|
-
-CYCLE
-
-|
-
-Horaire annuel sur 30 semaines
-
-|
-
-Horaire annuel sur 27 semaines
-
-|
-
-Horaire global sur 57 semaines
-
-|
-
-Total
-
-|
-
-dont en classe entière
-
-|
-
-dont en groupe à effectif réduit (*)
-
-|
-
-dont participation aux PPCP (**)
-
-|
-
-Horaire hebdomadaire indicatif
-
-|
-
-Total
-
-|
-
-dont en classe entière
-
-|
-
-dont en groupe à effectif réduit (*)
-
-|
-
-Dont Participation aux PPCP (**)
-
-|
-
-Horaire hebdomadaire indicatif
-
-|
-
-Français, histoire - géographie, éducation civique
-
-|
-
-120
-
-|
-
-45
-
-|
-
-60
-
-|
-
-15 (a)
-
-|
-
-45 (c)
-
-|
-
-4 (1,5+2+0,5) (b)
-
-|
-
-108
-
-|
-
-40,5
-
-|
-
-54
-
-|
-
-13,5 (a)
-
-|
-
-54 (c)
-
-|
-
-4(1,5+2+0,5) (b)
-
-|
-
-228
-
-|
-
-Mathématiques - sciences (1)
-
-|
-
-105
-
-|
-
-45
-
-|
+DEUXIÈME ANNÉE |
 
-60
+CYCLE |
 
-|
-
-À définir
-
-|
-
-3,5 (1,5+2)
-
-|
-
-94,5
-
-|
-
-40,5
-
-|
-
-54
-
-|
-
-À définir
-
-|
-
-3,5 (1,5+2)
-
-|
-
-199,5
-
-|
+Horaire annuel sur 30 semaines |
 
-Langue vivante
+Horaire annuel sur 27 semaines |
 
-|
-
-60
-
-|
-
-30
-
-|
-
-30
-
-|
+Horaire global sur 57 semaines |
 
-À définir
+Total |
 
-|
+Dont en classe entière |
 
-2 (1+1)
+Dont en groupe à effectif réduit (*) |
 
-|
+Dont participation
 
-54
+aux PPCP (**) |
 
-|
+Horaire hebdomadaire indicatif |
 
-27
+Total |
 
-|
+Dont en classe entière |
 
-27
+Dont en groupe à effectif réduit (*) |
 
-|
+Dont participation
 
-À définir
+aux PPCP (**) |
 
-|
+Horaire hebdomadaire indicatif |
 
-2 (1+1)
+Français, histoire - géographie |
 
-|
+105 |
 
-114
+45 |
 
-|
+45 |
 
-Arts appliqués et cultures artistiques
+15 (a) |
 
-|
+45 (c) |
 
-60
+3,5 (1,5 + 1,5 + 0,5) (b) |
 
-|
+94,5 |
 
-30
+40,5 |
 
-|
+40,5 |
 
-30
+13,5 |
 
-|
+54 (c) |
 
-À définir
+3,5
 
-|
+(1,5 + 1,5 + 0,5) (b) |
 
-2 (1+1)
+199,5 |
 
-|
+Enseignement moral et civique |
 
-40,5
+15 |
 
-|
+0 |
 
-27
+15 |
 
 |
 
-13,5
+0,5 (0 + 0,5) |
 
-|
+13,5 |
 
-À définir
-
-|
+0 |
 
-1,5 (1+0,5)
+13,5 |
 
 |
 
-100,5
+0,5 (0 + 0,5) (c) |
 
-|
+28,5 |
 
-Éducation physique et sportive
+Mathématiques - sciences (1) |
 
-|
+105 |
 
-75
+45 |
 
-|
+60 |
 
-75
+A définir |
 
-|
+3,5 (1,5 + 2) |
 
-0
+94,5 |
 
-|
+40,5 |
 
-Possible
+54 |
 
-|
+A définir |
 
-2,5
+3,5 (1,5 + 2) |
 
-|
+199,5 |
 
-67,5
+Langue vivante |
 
-|
+60 |
 
-67,5
+30 |
 
-|
+30 |
 
-0
+A définir |
 
-|
+2 (1 + 1) |
 
-Possible
+54 |
 
-|
+27 |
 
-2,5
+27 |
 
-|
+A définir |
 
-142,5
+2 (1 + 1) |
 
-|
+114 |
 
-Prévention santé environnement
+Arts appliqués et cultures artistiques |
 
-|
+60 |
 
-30
+30 |
 
-|
+30 |
 
-0
+A définir |
 
-|
+2 (1 + 1) |
 
-30
+40,5 |
 
-|
+27 |
 
-À définir
+13,5 |
 
-|
+A définir |
 
-1 (0+1)
+1,5 (1 + 0,5) |
 
-|
+100,5 |
 
-40,5
+Education physique et sportive |
 
-|
+75 |
 
-13,5
+75 |
 
-|
+0 |
 
-27
+Possible |
 
-|
+2,5 |
 
-À définir
+67,5 |
 
-|
+67,5 |
 
-1,5 (0,5+1)
+0 |
 
-|
+Possible |
 
-70,5
+2,5 |
 
-|
+142,5 |
 
-Enseignement technologique et professionnel
+Prévention santé environnement |
 
-|
+30 |
 
-540
+0 |
 
-|
+30 |
 
-90
+A définir |
 
-|
+1 (0 + 1) |
 
-405
+40,5 |
 
-|
+13,5 |
 
-45
+27 |
 
-|
+A définir |
 
-18 (3+13,5+1,5) (b)
+1,5 (0,5 + 1) |
 
-|
+70,5 |
 
-486
+Enseignement technologique et professionnel |
 
-|
+540 |
 
-81
+90 |
 
-|
+405 |
 
-351
+45 |
 
 |
 
-54
+18 (3 + 13,5 + 1,5)
 
-|
+(b) |
 
-|
+486 |
 
-18 (3+13+2) (b)
+81 |
 
-|
+351 |
 
-1026
+54 |
 
 |
 
-TOTAL
-
-|
+18 (3 + 13 + 2) (b) |
 
-990
+1 026 |
 
-|
+Total |
 
-|
+990 |
 
 |
-
-90 (0+90)
 
 |
 
-33
-
 |
 
-891
-
-|
+33 |
 
-|
+891 |
 
 |
-
-108 (0+108)
 
 |
 
-33
-
 |
 
-1881
+33 |
 
-|
+1 881 |
 
 dont
 
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-- Projet pluridisciplinaire à caractère professionnel
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Aide individualisée (2)
-
-|
-
-30
-
-|
-
-|
-
-|
-
-|
+- projet pluridisciplinaire à caractère professionnel |
 
-1
-
 |
 
 |
 
 |
 
-|
+90 (0 + 90) |
 
 |
 
@@ -536,15 +288,15 @@ Aide individualisée (2)
 
 |
 
-ENSEIGNEMENTS FACULTATIFS
+108 (0 + 108) |
 
 |
 
 |
 
-|
+Aide individualisée (2) |
 
-|
+30 |
 
 |
 
@@ -552,7 +304,7 @@ ENSEIGNEMENTS FACULTATIFS
 
 |
 
-|
+1 |
 
 |
 
@@ -564,136 +316,98 @@ ENSEIGNEMENTS FACULTATIFS
 
 |
 
-Atelier d'expression artistique
-
 |
 
-60
+Enseignements facultatifs |
 
 |
 
-60
-
 |
-
-0
 
 |
 
-2
-
 |
 
-54
-
 |
-
-54
 
 |
 
-0
-
 |
 
 |
 
 |
-
-2
 
 |
 
-114
-
 |
 
-Atelier d'éducation physique et sportive
-
-|
+- atelier d'expression artistique |
 
-60
+60 |
 
-|
+60 |
 
-60
+0 |
 
 |
-
-0
 
-|
+2 |
 
-2
+54 |
 
-|
+54 |
 
-54
+0 |
 
 |
-
-54
 
-|
+2 |
 
-0
+114 |
 
-|
+- atelier d'éducation physique et sportive |
 
-|
+60 |
 
-|
+60 |
 
-2
+0 |
 
 |
 
-114
+2 |
 
-|
+54 |
 
-|
+54 |
 
-Période de formation en milieu professionnel
+0 |
 
 |
 
-6 semaines
-
-|
+2 |
 
-6 semaines
+114 |
 
-|
+Période de formation en milieu professionnel |
 
-12 semaines
+6 semaines |
 
-|
+6 semaines |
 
-(1) Sciences physiques ou sciences appliquées en fonction de la spécialité, conformément à l'arrêté de création du diplôme.
+12 semaines |
 
-|
+(1) Sciences physiques ou sciences appliquées en fonction de la spécialité, conformément à l'arrêté de création du diplôme
 
 (2) Horaire réservé à certains élèves de la division, en français et/ou en mathématiques.
 
-|
+(*) Horaire donnant droit au doublement de la dotation horaire professeur lorsque le seuil d'effectif est atteint.
 
-* Horaire donnant droit au doublement de la dotation horaire professeur lorsque le seuil d'effectif est atteint.
-
-|
-
-** Horaire donnant droit au doublement de la dotation horaire professeur sans condition de seuil.
-
-|
+(**) Horaire donnant droit au doublement de la dotation horaire professeur sans condition de seuil.
 
 (a) Horaire minimal.
 
-|
+(b) Le premier nombre entre parenthèses correspond à l'horaire en classe entière, le deuxième à l'horaire en groupe à effectif réduit lorsque le seuil d'effectif est atteint, le troisième correspond à l'horaire de PPCP. Ce dernier est destiné à faciliter le calcul de la dotation horaire globale. Il ne s'agit nullement de le traduire en une organisation hebdomadaire.
 
-(b) Le 1er nombre entre parenthèses correspond à l'horaire en classe entière, le 2nd à l'horaire en groupe à effectif réduit lorsque le seuil d'effectif est atteint, le 3ème correspond à l'horaire de PPCP. Ce dernier est destiné à faciliter le calcul de la dotation horaire globale. Il ne s'agit nullement de la traduire en une organisation hebdomadaire.
-
-|
-
-(c) La part non affectée de ce volume est à attribuer à une ou plusieurs disciplines. L'affectation à une discipline n'augmente pas l'horaire global de celle-ci. Elle consiste à diminuer l'horaire classe entière au profit d'un horaire en groupe à effectif réduit pour la réalisation des PPCP.
-
-|
+(c) La part non affectée de ce volume est à attribuer à une ou plusieurs disciplines. L'affectation à une discipline n'augmente pas l'horaire global de celle-ci. Elle consiste à diminuer l'horaire classe entière au profit d'un horaire en groupe à effectif réduit pour la réalisation des PPCP. |
