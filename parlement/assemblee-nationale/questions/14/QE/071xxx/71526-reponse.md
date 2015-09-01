@@ -1,0 +1,9 @@
+# Réponse à la question n° 71526
+
+- Question : [71526](71526.md) — Question n° 71526 — surveillants; conditions de travail
+
+## Réponse
+
+*JO du 2015-09-01*
+
+Les conditions de travail et de détention dans les établissements pénitentiaires constituent une priorité du ministère de la justice dans le but de garantir la dignité et la sécurité des personnes détenues mais aussi celles des personnels de l'administration pénitentiaire. Les vacances de postes de surveillants dans les établissements pénitentiaires restent une préoccupation majeure. Ainsi, les besoins en personnels de surveillance notamment de chaque établissement font l'objet d'une expertise détaillée et régulièrement actualisée afin de tenir compte des éventuelles évolutions topographique (accroissement de capacité, par exemple) ou de périmètre de mission (reprise des extractions judiciaires) de chaque structure pénitentiaire. Si les absences provisoires (congé de maladie ordinaire, congé de maternité ou formation...) n'ont réglementairement pas vocation à être remplacées, ce n'est pas le cas des départs en retraite. L'administration pénitentiaire tient compte des difficultés auxquelles sont confrontés les surveillants et travaille, au sein de chaque établissement pénitentiaire, à trouver, notamment, une solution moins génératrice d'heures supplémentaires. Il convient enfin de souligner qu'un effort significatif est consenti par le Gouvernement depuis 2014 pour combler une grande partie des vacances de postes constatés. Ainsi, entre 2014 et 2017, 534 recrutements auront été réalisés dans ce sens. L'ENAP a intégré dans ses promotions en cours et à venir cet effort pour une arrivée rapide de ces personnels dans les établissements. Enfin, le plan de lutte contre le terrorisme inclut également des renforts significatifs de personnels de surveillance dans de nombreux établissements, qui verront rapidement leurs effectifs renforcés.
