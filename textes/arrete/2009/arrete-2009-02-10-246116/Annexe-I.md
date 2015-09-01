@@ -1,8 +1,10 @@
 # Article Annexe I
 
-Baccalauréat professionnel grille horaire élève
+BACCALAURÉAT PROFESSIONNEL
 
-Pour les spécialités comportant un enseignement des sciences physiques et chimiques
+Grille horaire élève
+
+Pour les spécialités comportant un enseignement de sciences physiques et chimiques :
 
 Durée du cycle : 84 semaines auxquelles s'ajoutent une PFMP de 22 semaines et 2 semaines d'examen.
 
@@ -16,13 +18,11 @@ cycle 3 ans
 
 |
 
-DURÉE HORAIRE ANNUELLE
-
-moyenne indicative
+DURÉE HORAIRE ANNUELLE MOYENNE INDICATIVE
 
 |
 
-I - Enseignements obligatoires incluant les activités de projet
+I.-Enseignements obligatoires incluant les activités de projet
 
 |
 
@@ -34,7 +34,7 @@ Enseignements professionnels
 
 |
 
-1152
+1 152
 
 |
 
@@ -42,7 +42,7 @@ Enseignements professionnels
 
 |
 
-Économie-gestion
+Economie-gestion
 
 |
 
@@ -66,7 +66,7 @@ Prévention-santé-environnement
 
 |
 
-Français et/ou mathématiques et/ou langue vivante et/ou sciences physiques et chimiques et/ou arts appliqués
+Français et/ ou mathématiques et/ ou langue vivante et/ ou sciences physiques et chimiques et/ ou arts appliqués
 
 |
 
@@ -82,19 +82,31 @@ Enseignements généraux
 
 |
 
-Français, histoire-géographie, éducation civique
+Français, histoire-géographie
 
 |
 
-380
+338
 
 |
 
-126
+113
 
 |
 
-Mathématiques Sciences physiques et chimiques
+Enseignement moral et civique
+
+|
+
+42
+
+|
+
+14
+
+|
+
+Mathématiques, sciences physiques et chimiques
 
 |
 
@@ -118,7 +130,7 @@ Langue vivante
 
 |
 
-Arts appliqués-cultures artistiques
+Arts appliqués, cultures artistiques
 
 |
 
@@ -154,7 +166,7 @@ Total
 
 |
 
-II - Accompagnement personnalisé
+II.-Accompagnement personnalisé
 
 |
 
@@ -168,6 +180,4 @@ II - Accompagnement personnalisé
 
 |
 
-(1) 56 heures en moyenne en seconde et 84 heures en moyenne en première et en terminale.
-
-|
+(1) 56 heures en moyenne en seconde et 84 heures en moyenne en première et en terminale. |

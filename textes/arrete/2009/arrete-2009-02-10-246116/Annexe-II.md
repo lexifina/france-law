@@ -1,8 +1,10 @@
 # Article Annexe II
 
-Baccalauréat professionnel grille horaire élève
+BACCALAURÉAT PROFESSIONNEL
 
-Pour les spécialités comportant un enseignement de LV 2
+Grille horaire élève
+
+Pour les spécialités comportant un enseignement de LV 2 :
 
 Durée du cycle : 84 semaines auxquelles s'ajoutent une PFMP de 22 semaines et 2 semaines d'examen.
 
@@ -16,13 +18,11 @@ cycle 3 ans
 
 |
 
-DURÉE HORAIRE ANNUELLE
-
-moyenne indicative
+DURÉE HORAIRE ANNUELLE MOYENNE INDICATIVE
 
 |
 
-I - Enseignements obligatoires incluant les activités de projet
+I. - Enseignements obligatoires incluant les activités de projet
 
 |
 
@@ -34,7 +34,7 @@ Enseignements professionnels
 
 |
 
-1152
+1 152
 
 |
 
@@ -70,15 +70,27 @@ Enseignements généraux
 
 |
 
-Français, histoire-géographie, éducation civique
+Français, histoire-géographie
 
 |
 
-380
+338
 
 |
 
-126
+113
+
+|
+
+Enseignement moral et civique
+
+|
+
+42
+
+|
+
+14
 
 |
 
@@ -94,7 +106,7 @@ Mathématiques
 
 |
 
-Langue vivante (1 et 2)
+Langues vivantes (1 et 2)
 
 |
 
@@ -142,7 +154,7 @@ Total
 
 |
 
-II - Accompagnement personnalisé
+II. - Accompagnement personnalisé
 
 |
 
@@ -156,6 +168,4 @@ II - Accompagnement personnalisé
 
 |
 
-(1) 56 heures en moyenne en seconde et 84 heures en moyenne en première et en terminale.
-
-|
+(1) 56 heures en moyenne en seconde et 84 heures en moyenne en première et en terminale. |
