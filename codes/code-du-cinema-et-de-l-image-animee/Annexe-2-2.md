@@ -18,6 +18,8 @@ Lorsque l'agrément des investissements a été délivré :
 
 6° La déclaration annuelle des données sociales.
 
+6° bis La justification des démarches effectuées et des moyens utilisés pour assurer la préservation patrimoniale de l'œuvre.
+
 Lorsque l'agrément des investissements n'a pas été demandé, outre les documents ci-dessus :
 
 7° Tous les contrats inscrits au registre public du cinéma et de l'audiovisuel (à l'exception des actes de nantissement auprès des établissements financiers) et, de façon plus générale, tous les contrats permettant de justifier du financement de l'œuvre et de la chaîne des droits d'auteurs.
