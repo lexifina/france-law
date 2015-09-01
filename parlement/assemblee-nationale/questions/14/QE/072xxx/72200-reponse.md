@@ -1,0 +1,9 @@
+# Réponse à la question n° 72200
+
+- Question : [72200](72200.md) — Question n° 72200 — public; privé; regroupements; personnels; perspectives
+
+## Réponse
+
+*JO du 2015-09-01*
+
+La loi du 21 juillet 2009 portant réforme de l'hôpital et relative aux patients, à la santé et aux territoires, prévoit la transformation des syndicats inter-hospitaliers. L'échéance a été repoussée au 28 décembre 2015 par décret du 27 décembre 2012. Depuis plusieurs mois, des travaux sont engagés pour mener à bien l'intégration de la clinique de traumatologie et d'orthopédie au centre hospitalier universitaire (CHU) de Nancy, sous l'égide du directeur général de l'agence régionale de santé (ARS) de Lorraine et en lien étroit avec le directeur général de la caisse nationale de l'assurance maladie des travailleurs salariés. Tous les aspects de ce dossier sont pris en considération, au premier rang desquels figurent les statuts et les droits des agents puisque certains dépendent du CHU et ont un statut public, tandis que d'autres sont rattachés à l'union pour la gestion des établissements des caisses de l'assurance maladie Nord-Est. Différentes hypothèses sont analysées. D'autres éléments sont pris en compte, en particulier l'évolution de la dette de l'établissement qui a contracté des emprunts structurés dont les frais financiers prennent aujourd'hui des proportions importantes. Les prêts contractés auprès de la caisse d'épargne ont été renégociés par le CHU dans le cadre d'un nouvel investissement. En revanche, ceux qui lient l'établissement à la société de financement local n'ont pas encore pu faire l'objet d'un réexamen. Par ailleurs, ce changement de statut est l'occasion de mettre en place une organisation plus optimale de l'offre de soins sur le territoire, portée par un projet médical commun entre le centre chirurgical Emile Gallé de Nancy et le CHU. La question du périmètre d'activités fait également partie des expertises en cours.
