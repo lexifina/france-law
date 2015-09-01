@@ -1,0 +1,9 @@
+# Réponse à la question n° 73792
+
+- Question : [73792](73792.md) — Question n° 73792 — dispositifs médicaux; CESE; rapport; propositions
+
+## Réponse
+
+*JO du 2015-09-01*
+
+Le rapport du conseil économique, social et environnemental (CESE), intitulé « la place des dispositifs médicaux dans la stratégie nationale de santé » consacre ses développements aux questions relatives à la qualité et la sécurité des dispositifs médicaux, à l'accès à des dispositifs médicaux efficients et la promotion d'une filière industrielle dynamique. La sécurité sanitaire constitue une priorité de la politique du Gouvernement et une préoccupation croissante de nos concitoyens. Cette préoccupation est souvent associée aux médicaments et moins aux dispositifs médicaux dont la réglementation, fixée au niveau communautaire, doit être révisée. Or, en 2010, ce secteur a fait l'objet d'un scandale sanitaire majeur avec l'affaire PIP, affaire qui a mis en évidence certaines lacunes de la réglementation. Sans attendre le nouveau règlement européen sur les dispositifs médicaux, dont l'adoption a été repoussée, la ministre des affaires sociales, de la santé et des droits des femmes a déposé un amendement au projet de loi de modernisation de notre système santé pour renforcer le suivi et la traçabilité des dispositifs médicaux. Cette mesure poursuit deux objectifs : améliorer la surveillance du marché et suivre les patients sur le long terme. Elle répond à la nécessité de mettre en place un suivi renforcé des dispositifs médicaux implantables les plus sensibles. En ce qui concerne l'amélioration du suivi par le patient de son traitement, l'inspection générale des affaires sociales (IGAS) a été missionnée sur le sujet général de l'observance, dans une démarche de soutien et d'accompagnement du patient dans le suivi de sa prescription.
