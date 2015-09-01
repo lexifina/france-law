@@ -272,7 +272,7 @@ Le candidat en propose une analyse. Son exposé est suivi d'un entretien avec le
 
 L'entretien permet aussi d'évaluer la capacité du candidat à prendre en compte les acquis et les besoins des élèves, à se représenter la diversité des conditions d'exercice de son métier futur, à en connaître de façon réfléchie le contexte dans ses différentes dimensions (classe, équipe éducative, établissement, institution scolaire, société) et les valeurs qui le portent, dont celles de la République.
 
-Durée de la préparation : deux heures ; durée de l'épreuve : une heure (présentation du dossier : trente minutes ; entretien : trente minutes) ; coefficient 2.
+Durée de préparation : quatre heures ; durée de l'épreuve : une heure (présentation du dossier : trente minutes ; entretien : trente minutes) ; coefficient 2.
 
 Le programme des épreuves d'admissibilité et d'admission est constitué par trois grandes questions d'histoire et trois grandes questions de géographie articulées aux programmes scolaires. Il est périodiquement révisé et publié sur le site internet du ministère chargé de l'éducation nationale.
 
@@ -292,9 +292,7 @@ Pour cette épreuve, deux notions (programmes de collège et de lycée) et deux 
 
 Durée : cinq heures ; coefficient 2.
 
-2° Traduction (thème ou version, au choix du jury).
-
-L'épreuve consiste en une traduction accompagnée d'une réflexion en français prenant appui sur les textes proposés à l'exercice de traduction et permettant de mobiliser dans une perspective d'enseignement les connaissances linguistiques et culturelles susceptibles d'expliciter le passage d'une langue à l'autre. L'épreuve lui permet de mettre ses savoirs en perspective et de manifester un recul critique vis-à-vis de ces savoirs.
+2° Traduction. L'épreuve consiste, au choix du jury, en la traduction en français d'un texte en langue étrangère et/ou la traduction en langue étrangère d'un texte en français, accompagnée(s) d'une réflexion en français prenant appui sur les textes proposés à l'exercice de traduction et permettant de mobiliser dans une perspective d'enseignement les connaissances linguistiques et culturelles susceptibles d'expliciter le passage d'une langue à l'autre. L'épreuve doit permettre au candidat de mettre ses savoirs en perspective et de manifester un recul critique vis-à-vis de ces savoirs.
 
 Durée : cinq heures ; coefficient 2.
 
@@ -352,7 +350,7 @@ a) Une composition en langue régionale à partir d'un dossier constitué de doc
 
 Pour cette épreuve, deux notions (programmes de collège et de lycée) sont inscrites au programme du concours, qui est renouvelé par moitié chaque année. Ce programme fait l'objet d'une publication sur le site internet du ministère chargé de l'éducation nationale ;
 
-b) Une traduction (thème ou version au choix du jury) accompagnée d'une réflexion en français prenant appui sur les textes proposés à l'exercice de traduction et permettant de mobiliser dans une perspective d'enseignement les connaissances linguistiques et culturelles susceptibles d'expliciter le passage d'une langue à l'autre.
+b) Au choix du jury, une traduction en français d'un texte en langue régionale et/ou une traduction en langue régionale d'un texte en français, accompagnée(s) d'une réflexion en français prenant appui sur les textes proposés à l'exercice de traduction et permettant de mobiliser dans une perspective d'enseignement les connaissances linguistiques et culturelles susceptibles d'expliciter le passage d'une langue à l'autre.
 
 Durée : cinq heures ; coefficient 2.
 
@@ -430,7 +428,7 @@ Durée : cinq heures ; coefficient 2.
 
 2° Traduction.
 
-Traduction (thème ou version au choix du jury) accompagnée d'une réflexion en français prenant appui sur les textes proposés à l'exercice de traduction et permettant de mobiliser dans une perspective d'enseignement les connaissances linguistiques et culturelles susceptibles d'expliciter le passage d'une langue à l'autre. L'épreuve lui permet de mettre ses savoirs en perspective et de manifester un recul critique vis-à-vis de ces savoirs.
+L'épreuve consiste, au choix du jury, en la traduction en français d'un texte en langue corse et/ou la traduction en langue corse d'un texte en français, accompagnée s) d'une réflexion en français prenant appui sur les textes proposés à l'exercice de traduction et permettant de mobiliser dans une perspective d'enseignement les connaissances linguistiques et culturelles susceptibles d'expliciter le passage d'une langue à l'autre. L'épreuve doit permettre au candidat de mettre ses savoirs en perspective et de manifester un recul critique vis-à-vis de ces savoirs.
 
 Durée : cinq heures ; coefficient 2.
 
@@ -928,7 +926,7 @@ a) Une composition en tahitien à partir d'un dossier constitué de documents de
 
 Pour cette épreuve, deux notions (programmes de collège et de lycée) sont inscrites au programme du concours, qui est renouvelé par moitié chaque année. Ce programme fait l'objet d'une publication sur le site internet du ministère chargé de l'éducation nationale ;
 
-b) Une traduction (thème ou version au choix du jury) accompagnée d'une réflexion en français prenant appui sur les textes proposés à l'exercice de traduction et permettant de mobiliser dans une perspective d'enseignement les connaissances linguistiques et culturelles susceptibles d'expliciter le passage d'une langue à l'autre.
+b) Au choix du jury, une traduction en français d'un texte en tahitien et/ou une traduction en tahitien d'un texte en français, accompagnée(s) d'une réflexion en français prenant appui sur les textes proposés à l'exercice de traduction et permettant de mobiliser dans une perspective d'enseignement les connaissances linguistiques et culturelles susceptibles d'expliciter le passage d'une langue à l'autre.
 
 Durée : cinq heures ; coefficient 2.
 

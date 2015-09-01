@@ -112,7 +112,7 @@ B. - Epreuve d'admission
 
 Leçon consistant en l'exploitation pédagogique d'un thème dans l'option choisie.
 
-L'épreuve comprend la réalisation d'un thème pédagogique pratique et un entretien avec le jury. L'épreuve de l'option sciences et technologies des services en hôtellerie et restauration comporte en outre une séquence en langue vivante étrangère : le candidat indique la langue choisie lors de son inscription parmi quatre langues vivantes : allemand, anglais, espagnol et italien.
+L'épreuve comprend la réalisation d'un thème pédagogique pratique et un entretien avec le jury. L'épreuve de l'option sciences et technologies des services en hôtellerie et restauration comporte en outre une séquence en langue anglaise.
 
 L'épreuve doit permettre de tester la valeur pédagogique du candidat et son savoir professionnel dans son aptitude à mobiliser, à intégrer, à présenter et à transmettre ses connaissances. Dans l'option choisie, elle comprend une phase de conception et d'organisation puis une phase de réalisation d'une démonstration pratique mettant en œuvre des savoirs et des savoir-faire techniques et professionnels.
 
