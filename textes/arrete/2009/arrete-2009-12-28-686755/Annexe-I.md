@@ -884,7 +884,7 @@ Durée de chaque épreuve : une heure vingt minutes.
 
 Le programme sur lequel portent les épreuves des deux options est publié sur le site internet du ministère chargé de l'éducation nationale.
 
-Section sciences de la vie-Sciences de la Terre et de l'Univers
+Section sciences de la vie - Sciences de la Terre et de l'Univers
 
 Le champ disciplinaire de l'agrégation externe de sciences de la vie - sciences de la Terre et de l'Univers couvre trois secteurs :
 
@@ -927,6 +927,8 @@ Le sujet porte :
 La présentation orale et pratique est suivie d'un entretien avec le jury ; l'entretien peut comporter des questions portant sur les programmes de connaissances générales de l'ensemble des secteurs.
 
 Les programmes de connaissances générales et les programmes de spécialité font l'objet d'une publication sur le site internet du ministère chargé de l'éducation nationale.
+
+Pour les épreuves d'admissibilité et d'admission, certains documents fournis par le jury peuvent être rédigés en langue anglaise, compte tenu de leur nature scientifique.
 
 Section musique
 
@@ -1182,7 +1184,7 @@ Au cours de l'entretien, le candidat est conduit plus particulièrement à préc
 
 L'épreuve consiste en la soutenance devant le jury d'un dossier technique et scientifique réalisé par le candidat dans un des domaines de l'option préparée, suivie d'un entretien.
 
-L'épreuve a pour but de vérifier que le candidat est capable de rechercher les supports de son enseignement dans le milieu économique et d'en extraire des exploitations pertinentes pour son enseignement en collège ou en lycée.
+L'épreuve a pour but de vérifier que le candidat est capable de rechercher les supports de son enseignement dans le milieu économique et d'en extraire des exploitations pertinentes pour son enseignement en cycle terminal du lycée, en classes préparatoires aux grandes écoles, en sections de techniciens supérieurs et instituts universitaires de technologie.
 
 Le dossier présenté par le candidat est relatif à un système technique dont la dominante est choisie par le candidat. Son authenticité et son actualité sont des éléments décisifs.
 
@@ -1196,7 +1198,7 @@ Les éléments constitutifs du dossier sont précisés par note publiée sur le 
 
 Les dossiers doivent être déposés au secrétariat du jury cinq jours francs au moins avant le début des épreuves d'admission.
 
-Préparation des moyens de l'exposé : trente minutes. Durée de l'épreuve : une heure (présentation n'excédant pas trente minutes ; entretien avec le jury : trente minutes) ; coefficient 1.
+Préparation des moyens de l'exposé : trente minutes. Durée de l'épreuve : une heure (présentation n'excédant pas trente minutes ; entretien avec le jury : trente minutes) ; coefficient 2.
 
 Section biochimie - génie biologique
 
@@ -1320,7 +1322,7 @@ L'épreuve comporte un exposé suivi d'un entretien avec le jury ; elle porte su
 
 A partir d'un dossier fourni par le jury et comportant notamment des documents relatifs au projet d'éducation physique et sportive d'un établissement scolaire du second degré, le candidat devra présenter des propositions pour l'organisation de l'éducation physique et sportive dans le contexte singulier d'un établissement public local d'enseignement (EPLE) et en relation avec les différentes dimensions de son environnement.
 
-Durée de la préparation : cinq heures ; durée totale de l'épreuve : cinquante-cinq minutes (exposé : vingt-cinq minutes ; entretien : trente minute) ; coefficient 3.
+Durée de la préparation : quatre heures ; durée de l'épreuve : soixante-cinq minutes (exposé : vingt-cinq minutes ; entretien : quarante minutes) ; coefficient 3.
 
 2° Présentation d'une leçon d'éducation physique et sportive :
 

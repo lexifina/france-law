@@ -164,7 +164,7 @@ B. - Epreuves orales d'admission
 
 L'épreuve prend appui sur un dossier composé d'un ou de plusieurs documents en langue étrangère (tels que textes, documents audiovisuels, iconographiques ou sonores) fourni au candidat.
 
-2° Explication en langue étrangère d'un texte extrait du programme, assortie d'un court thème oral improvisé et pouvant comporter l'explication de faits de langue. L'explication est suivie d'un entretien en langue étrangère avec le jury (durée de la préparation : trois heures ; durée de l'épreuve : une heure maximum [exposé : trente minutes maximum ; entretien : trente minutes maximum] ; coefficient 2). Une partie de cet entretien peut être consacrée à l'écoute d'un court document authentique en langue vivante étrangère, d'une durée de trois minutes maximum, dont le candidat doit rendre compte en langue étrangère et qui donne lieu à une discussion en langue étrangère avec le jury.
+2° Explication en langue étrangère d'un texte ou d'un document iconographique ou audiovisuel extrait du programme, assortie d'un court thème oral improvisé et pouvant comporter l'explication de faits de langue. L'explication est suivie d'un entretien en langue étrangère avec le jury (durée de la préparation : trois heures ; durée de l'épreuve : une heure maximum [exposé : trente minutes maximum ; entretien : trente minutes maximum] ; coefficient 2). Une partie de cet entretien peut être consacrée à l'écoute d'un court document authentique en langue vivante étrangère, d'une durée de trois minutes maximum, dont le candidat doit rendre compte en langue étrangère et qui donne lieu à une discussion en langue étrangère avec le jury.
 
 Les choix des jurys doivent être effectués de telle sorte que tous les candidats inscrits dans une même langue vivante au titre d'une même session subissent les épreuves dans les mêmes conditions.
 
@@ -279,6 +279,8 @@ Le candidat présente un exposé construit, problématisé, en s'appuyant sur de
 L'exposé est suivi d'un entretien.
 
 Durée de la préparation : trois heures. Durée de l'épreuve : une heure vingt minutes (présentation : soixante minutes ; entretien : vingt minutes) ; coefficient : 1,5.
+
+Pour les épreuves d'admissibilité et d'admission, certains documents fournis par le jury peuvent être rédigés en langue anglaise, compte tenu de leur nature scientifique.
 
 Section musique
 
@@ -482,7 +484,7 @@ Au cours de l'entretien, le candidat est conduit plus particulièrement à préc
 
 Durée de la préparation : une heure ; durée totale de l'épreuve : une heure ; coefficient 1.
 
-L'épreuve consiste en la soutenance devant le jury d'un dossier technique et scientifique réalisé par le candidat dans un domaine de l'option préparée, suivie d'un entretien (présentation n'excédant pas quarante minutes ; entretien avec le jury : vingt minutes au maximum).
+L'épreuve consiste en la soutenance devant le jury d'un dossier technique et scientifique réalisé par le candidat dans un domaine de l'option préparée, suivie d'un entretien (présentation n'excédant pas trente minutes ; entretien avec le jury : trente minutes au maximum).
 
 L'épreuve a pour but de vérifier que le candidat est capable de rechercher les supports de son enseignement dans le milieu économique et d'en extraire des exploitations pertinentes pour son enseignement en collège ou en lycée. L'authenticité et l'actualité du support sont des éléments importants.
 
