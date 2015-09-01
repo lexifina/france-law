@@ -1,0 +1,9 @@
+# Réponse à la question n° 4074
+
+- Question : [4074](4074.md) — Question n° 4074 — conseil d'analyse économique; rapport; conclusions
+
+## Réponse
+
+*JO du 2015-09-01*
+
+La loi du 3 décembre 2008 en faveur des revenus du travail a institué deux mécanismes de conditionnalité des allègements de cotisations sociales visant à inciter fortement à la négociation en matière salariale. Le premier a pour objet de sanctionner les entreprises qui ne respectent pas l'exigence d'ouverture des négociations annuelles obligatoires sur les salaires en diminuant de 10 % leurs exonérations de cotisations sociales la première année et en les supprimant après trois années consécutives sans ouverture des négociations. Le second dispositif, axé sur les négociations de branche, prévoyait que dans les entreprises ressortissantes de branches dont le minimum conventionnel est inférieur au SMIC, les exonérations de cotisations sociales étaient calculées non sur la base du SMIC, mais sur la base du minimum conventionnel. Le premier dispositif de conditionnalité, qui sanctionne les entreprises en cas de non-respect de leur obligation d'ouverture de négociations annuelles sur les salaires, applicable depuis le 1er janvier 2009, reste en vigueur. La loi a conditionné l'entrée en vigueur du second dispositif à un « constat d'échec » de l'incitation à la mise en conformité des grilles de salaires conventionnels à l'égard du SMIC. Le décret n° 2010-1777 du 31 décembre 2010 a ainsi prévu que le dispositif ne serait mis en oeuvre au 1er janvier 2013 que dans l'hypothèse où la part des branches « non conformes » au SMIC au sein des branches de plus de 5 000 salariés n'aurait pas diminué de 50 % sur la période 2010-2011. Or, l'amélioration de la situation des branches de près de 75 % sur cette période a donc conduit à ne pas appliquer le dispositif de conditionnalité de branche.
