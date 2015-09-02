@@ -1,0 +1,10 @@
+# Aix-en-Provence : délibération — REALISATION DES DIAGNOSTICS ACCESSIBILITE DES ETABLISSEMENTS RECEVANT DU PUBLIC ET D'ELABORATION D'UN PRE PROGRAMME DE TRAVAUX - DEMANDE DE CO-FINANCEMENT AUPRES DU CONSEIL GENERAL DES BOUCHES DU RHONE
+
+- Collectivité : Aix-en-Provence
+- SIREN : 211300017
+- Code INSEE : 13001
+- Date : 2015-09-02
+- Séance : Conseil Municipal 1CA
+- Objet : REALISATION DES DIAGNOSTICS ACCESSIBILITE DES ETABLISSEMENTS RECEVANT DU PUBLIC ET D'ELABORATION D'UN PRE PROGRAMME DE TRAVAUX - DEMANDE DE CO-FINANCEMENT AUPRES DU CONSEIL GENERAL DES BOUCHES DU RHONE
+- Acte publié : http://eadm.mairie-aixenprovence.fr/delibinternet/delib-6404-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/liste-des-deliberations-aix-en-provence@aix-en-provence
