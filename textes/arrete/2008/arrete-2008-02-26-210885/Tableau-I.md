@@ -1,7 +1,5 @@
 # Article Tableau I
 
-BARÈMES D'INDEMNISATION D'ÉLIMINATION DES TROUPEAUX
-
 Barème par animal de l'étage sélection
 
 ÂGE À L'ABATTAGE
@@ -16,7 +14,7 @@ PRIX EN EUROS PAR ANIMAL
 
 |
 
-21,00
+23,53
 
 |
 
@@ -24,7 +22,7 @@ PRIX EN EUROS PAR ANIMAL
 
 |
 
-21,29
+23,74
 
 |
 
@@ -32,7 +30,7 @@ PRIX EN EUROS PAR ANIMAL
 
 |
 
-21,58
+23,97
 
 |
 
@@ -40,7 +38,7 @@ PRIX EN EUROS PAR ANIMAL
 
 |
 
-21,89
+24,21
 
 |
 
@@ -48,7 +46,7 @@ PRIX EN EUROS PAR ANIMAL
 
 |
 
-22,21
+24,46
 
 |
 
@@ -56,7 +54,7 @@ PRIX EN EUROS PAR ANIMAL
 
 |
 
-22,54
+24,71
 
 |
 
@@ -64,7 +62,7 @@ PRIX EN EUROS PAR ANIMAL
 
 |
 
-22,87
+24,99
 
 |
 
@@ -72,7 +70,7 @@ PRIX EN EUROS PAR ANIMAL
 
 |
 
-23,20
+25,24
 
 |
 
@@ -80,7 +78,7 @@ PRIX EN EUROS PAR ANIMAL
 
 |
 
-23,52
+25,52
 
 |
 
@@ -88,7 +86,7 @@ PRIX EN EUROS PAR ANIMAL
 
 |
 
-23,86
+25,83
 
 |
 
@@ -96,7 +94,7 @@ PRIX EN EUROS PAR ANIMAL
 
 |
 
-24,19
+26,11
 
 |
 
@@ -104,7 +102,7 @@ PRIX EN EUROS PAR ANIMAL
 
 |
 
-24,53
+26,38
 
 |
 
@@ -112,7 +110,7 @@ PRIX EN EUROS PAR ANIMAL
 
 |
 
-24,86
+26,66
 
 |
 
@@ -120,7 +118,7 @@ PRIX EN EUROS PAR ANIMAL
 
 |
 
-25,19
+26,96
 
 |
 
@@ -128,7 +126,7 @@ PRIX EN EUROS PAR ANIMAL
 
 |
 
-25,53
+27,24
 
 |
 
@@ -136,7 +134,7 @@ PRIX EN EUROS PAR ANIMAL
 
 |
 
-25,87
+27,54
 
 |
 
@@ -144,7 +142,7 @@ PRIX EN EUROS PAR ANIMAL
 
 |
 
-26,22
+28,49
 
 |
 
@@ -152,7 +150,7 @@ PRIX EN EUROS PAR ANIMAL
 
 |
 
-26,57
+28,80
 
 |
 
@@ -160,7 +158,7 @@ PRIX EN EUROS PAR ANIMAL
 
 |
 
-26,93
+29,12
 
 |
 
@@ -168,7 +166,7 @@ PRIX EN EUROS PAR ANIMAL
 
 |
 
-27,29
+29,45
 
 |
 
@@ -176,7 +174,7 @@ PRIX EN EUROS PAR ANIMAL
 
 |
 
-27,66
+28,79
 
 |
 
@@ -184,7 +182,7 @@ PRIX EN EUROS PAR ANIMAL
 
 |
 
-28,03
+29,03
 
 |
 
@@ -192,7 +190,7 @@ PRIX EN EUROS PAR ANIMAL
 
 |
 
-28,44
+29,27
 
 |
 
@@ -200,7 +198,7 @@ PRIX EN EUROS PAR ANIMAL
 
 |
 
-28,43
+29,50
 
 |
 
@@ -208,7 +206,7 @@ PRIX EN EUROS PAR ANIMAL
 
 |
 
-28,36
+29,71
 
 |
 
@@ -216,7 +214,7 @@ PRIX EN EUROS PAR ANIMAL
 
 |
 
-28,16
+29,22
 
 |
 
@@ -224,7 +222,7 @@ PRIX EN EUROS PAR ANIMAL
 
 |
 
-27,68
+28,54
 
 |
 
@@ -232,7 +230,7 @@ PRIX EN EUROS PAR ANIMAL
 
 |
 
-26,91
+27,66
 
 |
 
@@ -240,7 +238,7 @@ PRIX EN EUROS PAR ANIMAL
 
 |
 
-26,01
+26,75
 
 |
 
@@ -248,7 +246,7 @@ PRIX EN EUROS PAR ANIMAL
 
 |
 
-25,06
+25,84
 
 |
 
@@ -256,7 +254,7 @@ PRIX EN EUROS PAR ANIMAL
 
 |
 
-24,05
+24,94
 
 |
 
@@ -264,7 +262,7 @@ PRIX EN EUROS PAR ANIMAL
 
 |
 
-23,04
+24,03
 
 |
 
@@ -272,7 +270,7 @@ PRIX EN EUROS PAR ANIMAL
 
 |
 
-22,03
+23,13
 
 |
 
@@ -280,7 +278,7 @@ PRIX EN EUROS PAR ANIMAL
 
 |
 
-21,04
+22,24
 
 |
 
@@ -288,7 +286,7 @@ PRIX EN EUROS PAR ANIMAL
 
 |
 
-20,06
+21,37
 
 |
 
@@ -296,7 +294,7 @@ PRIX EN EUROS PAR ANIMAL
 
 |
 
-19,10
+20,51
 
 |
 
@@ -304,7 +302,7 @@ PRIX EN EUROS PAR ANIMAL
 
 |
 
-18,16
+19,66
 
 |
 
@@ -312,7 +310,7 @@ PRIX EN EUROS PAR ANIMAL
 
 |
 
-17,23
+18,82
 
 |
 
@@ -320,7 +318,7 @@ PRIX EN EUROS PAR ANIMAL
 
 |
 
-16,32
+18,00
 
 |
 
@@ -328,7 +326,7 @@ PRIX EN EUROS PAR ANIMAL
 
 |
 
-15,42
+17,19
 
 |
 
@@ -336,7 +334,7 @@ PRIX EN EUROS PAR ANIMAL
 
 |
 
-14,53
+16,40
 
 |
 
@@ -344,7 +342,7 @@ PRIX EN EUROS PAR ANIMAL
 
 |
 
-13,66
+15,62
 
 |
 
@@ -352,7 +350,7 @@ PRIX EN EUROS PAR ANIMAL
 
 |
 
-12,81
+14,85
 
 |
 
@@ -360,7 +358,7 @@ PRIX EN EUROS PAR ANIMAL
 
 |
 
-11,97
+14,10
 
 |
 
@@ -368,7 +366,7 @@ PRIX EN EUROS PAR ANIMAL
 
 |
 
-11,14
+13,36
 
 |
 
@@ -376,7 +374,7 @@ PRIX EN EUROS PAR ANIMAL
 
 |
 
-10,34
+12,64
 
 |
 
@@ -384,7 +382,7 @@ PRIX EN EUROS PAR ANIMAL
 
 |
 
-9,55
+11,93
 
 |
 
@@ -392,7 +390,7 @@ PRIX EN EUROS PAR ANIMAL
 
 |
 
-8,78
+11,23
 
 |
 
@@ -400,7 +398,7 @@ PRIX EN EUROS PAR ANIMAL
 
 |
 
-8,03
+10,55
 
 |
 
@@ -408,7 +406,7 @@ PRIX EN EUROS PAR ANIMAL
 
 |
 
-7,30
+9,88
 
 |
 
@@ -416,7 +414,7 @@ PRIX EN EUROS PAR ANIMAL
 
 |
 
-6,60
+9,23
 
 |
 
@@ -424,7 +422,7 @@ PRIX EN EUROS PAR ANIMAL
 
 |
 
-5,91
+8,59
 
 |
 
@@ -432,7 +430,7 @@ PRIX EN EUROS PAR ANIMAL
 
 |
 
-5,24
+7,96
 
 |
 
@@ -440,7 +438,7 @@ PRIX EN EUROS PAR ANIMAL
 
 |
 
-4,59
+7,35
 
 |
 
@@ -448,7 +446,7 @@ PRIX EN EUROS PAR ANIMAL
 
 |
 
-3,97
+3,98
 
 |
 
@@ -456,7 +454,7 @@ PRIX EN EUROS PAR ANIMAL
 
 |
 
-3,38
+6,18
 
 |
 
@@ -464,7 +462,7 @@ PRIX EN EUROS PAR ANIMAL
 
 |
 
-2,80
+5,61
 
 |
 
@@ -472,7 +470,7 @@ PRIX EN EUROS PAR ANIMAL
 
 |
 
-2,26
+5,06
 
 |
 
@@ -480,7 +478,7 @@ PRIX EN EUROS PAR ANIMAL
 
 |
 
-1,75
+4,38
 
 |
 
@@ -488,7 +486,7 @@ PRIX EN EUROS PAR ANIMAL
 
 |
 
-1,26
+3,72
 
 |
 
@@ -496,6 +494,46 @@ PRIX EN EUROS PAR ANIMAL
 
 |
 
-0,81
+3,07
+
+|
+
+61
+
+|
+
+2,43
+
+|
+
+62
+
+|
+
+1,90
+
+|
+
+63
+
+|
+
+1,20
+
+|
+
+64
+
+|
+
+0,59
+
+|
+
+65
+
+|
+
+0,00
 
 |
