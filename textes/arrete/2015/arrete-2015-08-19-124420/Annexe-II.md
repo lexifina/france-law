@@ -1,0 +1,5 @@
+# Article Annexe II
+
+COMITÉS D'HYGIÈNE, DE SÉCURITÉ ET DES CONDITIONS DE TRAVAIL (CHSCT) D'ÉTABLISSEMENTS PUBLICS SOUS TUTELLE DU MINISTÈRE DE LA DÉFENSE
+
+Comité d'hygiène, de sécurité et des conditions de travail d'établissement public de l'Office national des anciens combattants et victimes de guerre.
