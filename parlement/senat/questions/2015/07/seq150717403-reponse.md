@@ -1,0 +1,9 @@
+# Réponse à la question SEQ150717403
+
+- Question : [SEQ150717403](seq150717403.md) — Financement de la rénovation des colonnes montantes d'électricité en zone d'habitation collective
+
+## Réponse
+
+*Écologie, développement durable et énergie, JO du 2015-09-03, page 2083*
+
+Dans son rapport d'activité publié le 1er juin 2014, le médiateur national de l'énergie a effectivement souligné la nécessité de trouver une solution pérenne au financement des colonnes montantes dont une partie requiert des travaux importants. À ce titre, la loi n° 2015-992 du 17 août 2015 relative à la transition énergétique pour la croissance verte prévoit en particulier l'élaboration d'un rapport du Gouvernement à destination du Parlement sur ce sujet. Pleinement conscient de l'importance de ces enjeux, le Gouvernement a d'ores et déjà anticipé cette échéance, en confiant une mission au Conseil général de l'environnement et du développement durable (CGEDD). Cette mission a un triple objet : - dresser un état de lieux aussi exhaustif que possible de la situation qui déterminera, en fonction de la nature des travaux à entreprendre, le stock d'ouvrages concernés par catégories de travaux, depuis une simple remise en état jusqu'à un renouvellement complet des ouvrages ; - estimer approximativement le montant global des travaux nécessaires, ventilés par catégories de travaux à entreprendre ; - réfléchir sur les modes de financement ou d'aides possibles pour les travaux à réaliser sur ces équipements. Très attendu par le Gouvernement, le rapport de cette mission vise, pour la première fois, à fournir ainsi l'information la plus complète possible sur cette question, dont certains aspects demeurent encore mal connus. Ce n'est qu'à la lumière des éléments et des conclusions de ce rapport que le Gouvernement se prononcera sur les solutions possibles, en particulier en matière de financement.
