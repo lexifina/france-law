@@ -8,4 +8,4 @@
 
 6.4. Après ces cent heures de fonctionnement, l'avertisseur sonore devra, éventuellement après un réglage effectué sans démontage de ses éléments constituants, satisfaire les conditions du paragraphe 7 ci-après.
 
-6.5. Deux échantillons au moins de l'appareil devront satisfaire aux essais complets dans les conditions qui viennent d'être indiquées. Sauf indications contraires, au cours de l'essai, l'appareil sera lubrifié toutes les dix heures avec l'huile recommandée par le fabricant ou à défaut avec de l'huile de vaseline.
+6.5. Deux échantillons au moins de l'appareil devront satisfaire aux essais complets dans les conditions qui viennent d'être indiquées. Sauf indications contraires, au cours de l'essai l'appareil sera réglé toutes les dix heures.

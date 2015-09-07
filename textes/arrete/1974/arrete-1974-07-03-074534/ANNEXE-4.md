@@ -10,4 +10,6 @@
 
 La hauteur des lettres et des chiffres sera d'au moins 5 mm.
 
+4.3.2. Ce numéro d'homologation est lui-même suivi de la lettre R lorsque l'avertisseur est incorporable dans une lampe lumineuse.
+
 4.4. Les marques et symboles mentionnés au paragraphe précédent seront nettement lisibles et indélébiles.
