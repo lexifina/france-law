@@ -1,0 +1,9 @@
+# Réponse à la question n° 72613
+
+- Question : [72613](72613.md) — Question n° 72613 — orthographe; niveau; perspectives
+
+## Réponse
+
+*JO du 2015-09-08*
+
+La maîtrise de la langue est une condition indispensable de la réussite dans l'enseignement supérieur. Tout titulaire du baccalauréat, surtout s'il souhaite s'engager dans une poursuite d'études, doit évidemment la posséder. À ce titre, dans le cadre de la réforme du lycée, un travail conjoint a été conduit par la direction générale de l'enseignement scolaire et par la direction générale de l'enseignement supérieur et de l'insertion professionnelle au sein du ministère de l'éducation nationale, de l'enseignement supérieur et de la recherche, afin d'assurer une bonne articulation entre les trois dernières années de l'enseignement scolaire et le premier cycle de l'enseignement supérieur. Les programmes pédagogiques nationaux du diplôme universitaire de technologie (D. U. T. ) et les programmes des classes préparatoires aux grandes écoles (C. P. G. E. ) ont ainsi été rénovés en prévision de la rentrée 2013. A l'université, la maîtrise des différents registres d'expression écrite et orale de la langue française est une compétence transversale que tout diplômé de licence doit avoir acquis. Elle est d'ailleurs inscrite dans tous les référentiels de compétences des mentions de licence. Par ailleurs, les universités ont fortement développé des dispositifs d'accueil des nouveaux bacheliers. Parallèlement à la mise en oeuvre de formations à la méthodologie du travail universitaire, les établissements organisent des modules d'expression écrite et orale (ateliers d'écriture avec révision grammaticale, unités d'enseignement de remise à niveau en français...) ainsi que des dispositifs de soutien au bénéfice des étudiants les plus fragiles.
