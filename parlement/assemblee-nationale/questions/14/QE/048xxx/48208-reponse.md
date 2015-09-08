@@ -1,0 +1,9 @@
+# Réponse à la question n° 48208
+
+- Question : [48208](48208.md) — Question n° 48208 — métiers de l'hôtellerie et de la restauration; Bazeilles
+
+## Réponse
+
+*JO du 2015-09-08*
+
+La consolidation de la place du lycée des métiers de l'hôtellerie-restauration et du tourisme de Bazeilles au niveau de l'académie de Reims a été une des priorités de la préparation de la rentrée 2014. La direction et les enseignants de l'établissement s'impliquent fortement dans des actions d'information et de communication destinées à renforcer sa vocation régionale et inter-régionale (site internet de l'établissement innové, participation aux salons et forums des formations). Une attention particulière a été apportée au niveau des structures de l'établissement, notamment en classe de seconde technologique hôtellerie où la capacité d'accueil est passée de 36 à 48 élèves à la rentrée 2014. La capacité d'accueil de la 2e année de BTS hôtellerie a été également renforcée afin d'accompagner les élèves présents actuellement en 1re année comme cela a été le cas pour la 1re année à la rentrée 2013. De plus, la licence professionnelle « animation tourisme » créée en partenariat avec le Conservatoire national des arts et des métiers (CNAM) existait déjà et a été poursuivie. Concernant les perspectives à plus longues échéances, des réflexions et échanges sont en cours actuellement, notamment pour : - la mise en place d'une licence professionnelle « hôtellerie » ; - la mise en réseau de l'établissement avec le lycée professionnel « le Château de Sedan » dispensant des formations de niveau V. Enfin, le conseil général des Ardennes développe des relations internationales dans lesquelles l'accueil et la formation de jeunes étrangers aux métiers de l'hôtellerie sont envisagés et pourraient se dérouler au lycée de Bazeilles.
