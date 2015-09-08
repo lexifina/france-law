@@ -1,0 +1,9 @@
+# Réponse à la question n° 58047
+
+- Question : [58047](58047.md) — Question n° 58047 — centres éducatifs fermés; statut associatif; encadrement; moyens
+
+## Réponse
+
+*JO du 2015-09-08*
+
+Les circulaires relatives aux campagnes budgétaires 2012 et 2013 des établissements et services concourant à la mission de protection judiciaire de la jeunesse préconisaient l'harmonisation des moyens à 24 équivalents temps plein accordés aux centres éducatifs fermés du secteur public et du secteur associatif habilité. Suite aux recommandations du rapport conjoint de l'inspection générale des affaires sociales, de l'inspection générale des services judiciaires et de l'inspection de la protection judiciaire de la jeunesse sur les centres éducatifs fermés rendu en 2013, la direction de la protection judiciaire de la jeunesse a été sensibilisée à la nécessité de réévaluer les moyens humains dans ces établissements. La DPJJ a mis en place un groupe de travail sur les ressources humaines en centre éducatif fermé, associant les fédérations associatives ainsi que des représentants des services déconcentrés. Le groupe a objectivé les besoins pour garantir la prise en charge de douze mineurs dans des conditions d'encadrement, de proximité et de contenance inhérents à la mission de ces établissements. Sur la base de ces travaux, il a été décidé de renforcer les CEF en portant leur effectif de référence à hauteur de 26,5 équivalent temps plein. Cette décision a pris effet le 1er janvier 2015. La circulaire de tarification du 27 avril 2015 le réaffirme.
