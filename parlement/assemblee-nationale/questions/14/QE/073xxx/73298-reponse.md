@@ -1,0 +1,9 @@
+# Réponse à la question n° 73298
+
+- Question : [73298](73298.md) — Question n° 73298 — vacataires; statut
+
+## Réponse
+
+*JO du 2015-09-08*
+
+Les établissements publics d'enseignement supérieur peuvent faire appel, pour des fonctions d'enseignement, à des agents temporaires vacataires, dans les conditions définies par le décret n° 87-889 du 29 octobre 1987 relatif aux conditions de recrutement et d'emploi de vacataires pour l'enseignement supérieur. Le décret du 29 octobre 1987 n'impose pas de formalisme particulier s'agissant de l'acte d'engagement des agents temporaires vacataires. Il prévoit que les vacations confiées aux agents temporaires vacataires ne peuvent excéder une année universitaire. La nature de leur emploi nécessite de revoir à chaque rentrée leur dossier administratif individuel. Cette situation particulière entraîne un important travail pour les services administratifs des établissements employeurs. Pour autant au niveau national aucune remontée ne laisse apparaître de difficulté générale sur ce dispositif qui permet aux étudiants de trouver une source de revenu au sein de leur université et aux établissements de suppléer les enseignants titulaires. D'après l'université, la situation des agents titulaires vacataires de l'Université de Lyon II, qui était due à un problème d'organisation conjoncturel, a été résolue. Le président de l'université a indiqué avoir mis en place un groupe de travail, associant des représentants des vacataires et des agents des services administratifs, afin d'améliorer le processus de recrutement et de sécuriser la rentrée prochaine. S'agissant de la rémunération de ces personnels, il est rappelé régulièrement aux établissements que le paiement des heures de vacation doit être effectué mensuellement, à la suite du service fait, et accompagné d'une fiche de paie.
