@@ -1,0 +1,9 @@
+# Réponse à la question n° 74030
+
+- Question : [74030](74030.md) — Question n° 74030 — fonctionnement; regroupement
+
+## Réponse
+
+*JO du 2015-09-08*
+
+La fusion entre plusieurs établissements universitaires est un processus complexe qui a pu être mené à bien à cinq reprises au cours des 7 dernières années : à Strasbourg (3 universités), Aix-Marseille (3 universités), en Lorraine (3 universités et un institut polytechnique), à Bordeaux (3 universités) et récemment à Montpellier (2 universités). Il est aujourd'hui en cours ou projeté dans au moins 3 autres sites en France. La ministre de l'éducation nationale, de l'enseignement supérieur et de la recherche rappelle que la loi de juillet 2013 a rendu obligatoire l'appartenance d'une université à un regroupement mais que ces regroupements peuvent prendre trois formes : la fusion, la COMUE ou l'association. Le choix de la forme retenue ne procède que de la seule volonté des établissements. Il ne revient donc pas au gouvernement de privilégier telle ou telle forme d'autant que cette forme peut évoluer dans le temps. Si la ministre ne peut que déplorer l'arrêt du processus de fusion engagé en 2014 entre les universités Rennes 1 et Rennes 2, ce n'est donc pas du fait d'une préférence accordée à cette forme de regroupement mais du fait que le regroupement encouragé soit par là-même entravé momentanément. Elle espère toutefois que la mise en place d'une nouvelle gouvernance au sein de l'université Rennes 2 permette de relancer rapidement le processus collaboratif entre les universités rennaises comme au sein de la future COMUE Bretagne-Loire. Dans ce cadre, il appartient aux deux universités d'engager un dialogue positif et constructif. Quant au ministère, il continue à encourager fortement toutes les collaborations, au sein de la COMUE comme en témoignent les contrats passés avec les établissements.
