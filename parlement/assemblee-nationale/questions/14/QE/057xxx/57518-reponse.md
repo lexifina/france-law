@@ -1,0 +1,9 @@
+# Réponse à la question n° 57518
+
+- Question : [57518](57518.md) — Question n° 57518 — institutions européennes; actions de l'État
+
+## Réponse
+
+*JO du 2015-09-08*
+
+La protection de la diversité linguistique revêt pour la France, comme pour l'Union européenne, un caractère fondamental. Elle est inscrite dans le droit de l'Union européenne notamment à l'article 3 du traité sur l'Union européenne et dans le règlement CE n° 1/1958 qui fixe le régime linguistique et définit les langues officielles et de travail dans les institutions. Le multilinguisme est en outre un véritable enjeu démocratique pour les institutions de l'Union européenne car il garantit la transparence de leur fonctionnement et l'accessibilité de leurs activités pour les citoyens. Les autorités françaises participent activement aux efforts menés en faveur du multilinguisme et se montrent particulièrement vigilantes à ce que le fonctionnement des institutions respecte les règles agréées en la matière. Dans ce contexte, la France veille à ce que les présidences successives du Conseil de l'Union européenne mettent en place une version en français de leur site internet. Soucieuces de s'inscrire dans cette tradition de promotion de la diversité linguistique, les autorités italiennes, lettones et luxembourgeoises ont eu à coeur, dans un dialogue constant avec les autorités françaises, de faire le nécessaire en ce sens. Le site internet de la présidence italienne a ainsi été accessible au public en italien, en français et anglais dès le 1er juillet 2014 et pendant toute la durée de la présidence (http ://italia2014. eu/fr/), et le site de la présidence lettone, pour le premier semestre 2015, l'a été en letton, en anglais, en allemand et en français (https ://eu2015. lv/fr/). Le site de la présidence luxembourgeoise, pour le deuxième semestre 2015 est également accessible en français, en allemand et en anglais (http ://www. eu2015lu. eu).
