@@ -1,0 +1,9 @@
+# Réponse à la question n° 74219
+
+- Question : [74219](74219.md) — Question n° 74219 — Cour des comptes; rapport; recommandations
+
+## Réponse
+
+*JO du 2015-09-08*
+
+Certains dispositifs statutaires incitatifs favorisant la mobilité entre les corps de chercheurs et d'enseignants-chercheurs ont été mis en oeuvre tels que la création des chaires mixtes « universités-organismes », l'accueil d'enseignants-chercheurs en délégation pendant une période d'un ou deux semestres ou bien en détachement dans les organismes de recherche, la bonification d'ancienneté d'un an accordée aux chercheurs en cas de mobilité d'une durée au moins égale à deux ans, accomplie notamment dans un établissement d'enseignement supérieur, l'existence d'une voie d'accès au corps de professeurs des universités de première classe réservée aux directeurs de recherche ayant accompli pendant au moins deux ans un service d'enseignement dans un établissement d'enseignement supérieur. Plus récemment, le décret n° 84-431 du 6 juin 1984 fixant les dispositions statutaires communes applicables aux enseignants-chercheurs et portant statut particulier du corps des professeurs des universités et du corps des maîtres de conférences a été modifié par le décret n° 2014-997 du 2 septembre 2014 pour permettre à certains chargés de recherche d'être placés en position de détachement à la hors classe du corps des maîtres de conférences. Pour cela, les chargés de recherche doivent avoir atteint le 7e échelon de la 1re classe et avoir accompli au moins cinq ans de services en qualité de chargé de recherche. Les évolutions des statuts des enseignants-chercheurs et des chercheurs s'attachent à préserver un équilibre et une fluidité entre ces corps, mais il n'est pas envisagé de faire évoluer ces statuts dans le sens d'une intégration des chercheurs dans les corps des enseignants-chercheurs.
