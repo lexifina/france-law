@@ -1,0 +1,9 @@
+# Réponse à la question n° 82112
+
+- Question : [82112](82112.md) — Question n° 82112 — délivrance; modalités; Français de l'étranger
+
+## Réponse
+
+*JO du 2015-09-08*
+
+Les documents à produire à l'appui d'une demande de passeport sont énumérés dans le décret n° 2005-1726 du 30 décembre 2015 relatif aux passeports. En matière d'état civil, conformément à l'article 47 du Code Civil, « tout acte de l'état civil des Français et des étrangers fait en pays étranger et rédigé dans les formes usitées dans ce pays fait loi », et les postes diplomatiques et consulaires acceptent la production d'actes étrangers. Ces documents, dont les usagers n'ont pas demandé la transcription dans les registres de l'état civil français, doivent cependant être traduits en français dans la mesure où ils sont destinés à l'administration française. La délivrance d'un acte d'état civil de moins de trois mois est par ailleurs régulièrement demandée par les mairies et préfectures en métropole à l'appui d'une demande de titre de voyage. Concernant leurs horaires d'ouverture au public, les postes diplomatiques et consulaires les fixent de manière à permettre à nos compatriotes d'être reçus dans les meilleures conditions et ne se différencient guère des horaires appliqués en France métropolitaine. De nombreux consulats ou ambassades permettent par ailleurs la prise de rendez-vous via une application dédiée. Afin d'améliorer le service, il convient de préciser qu'une des mesures de modernisation de l'action publique prévoit à moyen terme la procédure de pré-demande de passeport en ligne, et qui offrira un gain de temps à l'usager. Enfin, le décret n° 2015-701 du 19 juin 2015 modifiant le décret n° 2005-1726 relatif aux passeports permet, sous certaines conditions et uniquement pour les Français établis à l'étranger, l'envoi du passeport à son destinataire par courrier sécurisé. Cette mesure leur évitera d'avoir à se déplacer à deux reprises au poste diplomatique ou consulaire.
