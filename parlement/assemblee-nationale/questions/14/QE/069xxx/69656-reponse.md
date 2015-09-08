@@ -1,0 +1,9 @@
+# Réponse à la question n° 69656
+
+- Question : [69656](69656.md) — Question n° 69656 — activités périscolaires; animateurs; BAFA; fonction publique territoriale; accès
+
+## Réponse
+
+*JO du 2015-09-08*
+
+Le concours externe d'animateur territorial est accessible aux candidats titulaires d'un des diplômes professionnels homologués au niveau IV comme le brevet d'Etat d'animateur technicien de l'éducation populaire et de la jeunesse (BEATEPJ) et le brevet professionnel de la jeunesse, de l'éducation populaire et du sport (BPJEPS) ou d'une qualification reconnue comme équivalente dans les conditions fixées par le décret du 13 février 2007. Le concours externe d'adjoint d'animation de 1re classe est accessible aux candidats titulaires d'un des diplômes professionnels homologués au niveau V comme le brevet d'aptitude professionnelle d'assistant-animateur technicien de la jeunesse et des sports (BAPAATJS) ou d'une qualification équivalente dans les conditions fixées par le décret du 13 février 2007. Le brevet d'aptitude aux fonctions d'animateur (BAFA) ne figure pas parmi la liste des diplômes permettant de se présenter aux concours d'animateur territorial ou d'adjoint d'animation de 1re classe puisque conformément à l'article 1er du décret n° 87-716 du 28 août 1987 relatif aux brevets d'aptitude aux fonctions d'animateur et de directeur d'accueils collectifs de mineurs, le BAFA permet d'encadrer à titre non professionnel, de façon occasionnelle, des enfants et des adolescents en accueils collectifs de mineurs. Compte tenu de ces éléments, il n'est pas possible de reconnaitre le BAFA comme diplôme permettant de se présenter à un concours de la filière animation. Le grade d'adjoint d'animation de 2e classe étant accessible sans concours et sans exigence de diplôme, il est possible de nommer en qualité de stagiaire les agents recrutés en contrat à durée déterminée puis de les titulariser à l'issue de la période de stage.
