@@ -1,0 +1,9 @@
+# Réponse à la question n° 83965
+
+- Question : [83965](83965.md) — Question n° 83965 — encadrement; intervenants bénévoles agréés; réglementation
+
+## Réponse
+
+*JO du 2015-09-08*
+
+L'article L. 312-3 du code de l'éducation prévoit que, dans les écoles maternelles et élémentaires, pour l'enseignement de l'éducation physique et sportive « un personnel agréé et disposant d'une qualification définie par l'Etat peut assister l'équipe pédagogique, avec son accord et sous la responsabilité de celle-ci ». Dans la pratique, le recours à des intervenants extérieurs pour participer à l'animation et à l'encadrement d'activités physiques et sportives pendant le temps scolaire engendre un certain nombre de difficultés, dont une grande disparité des pratiques selon les départements. Les services du ministère chargé de l'éducation nationale ont pleinement conscience des difficultés administratives suscitées par la mise en oeuvre de la procédure d'agrément, notamment pour les maîtres-nageurs sauveteurs enseignant la natation dans un cadre scolaire, et des nombreuses vérifications auxquelles procèdent déjà les directions départementales de la cohésion sociale concernant ces professionnels. Le ministère chargé de l'éducation nationale, conjointement avec le ministère chargé des sports, travaillent à une clarification et à une simplification du cadre d'intervention des professionnels extérieurs pendant le temps scolaire, en cohérence avec la règlementation du code du sport. Cette démarche des deux ministères, devrait aboutir à l'élaboration d'un cadre d'intervention redéfini permettant de garantir la sécurité des élèves durant les activités physiques et sportives organisées dans le cadre scolaire dans le premier degré. Cette réflexion, engagée lors d'une première réunion de travail, le 2 juillet 2015, concernera aussi les intervenants bénévoles afin de préciser le cadre et les limites de leur action.
