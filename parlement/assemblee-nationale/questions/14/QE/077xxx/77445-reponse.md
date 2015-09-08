@@ -1,0 +1,9 @@
+# Réponse à la question n° 77445
+
+- Question : [77445](77445.md) — Question n° 77445 — suivi individualisé; Cour des comptes; rapport; recommandations
+
+## Réponse
+
+*JO du 2015-09-08*
+
+La Cour des comptes, dans son rapport public thématique sur « Le suivi individualisé des élèves : une ambition à concilier avec l'organisation du système éducatif », présente plusieurs analyses que la ministre de l'éducation nationale, de l'enseignement supérieur et de la recherche partage. La ministre s'associe à la recommandation de la Cour des comptes s'agissant de l'amélioration du suivi de la mise en oeuvre des différents dispositifs éducatifs. Il convient de signaler que la direction générale de l'enseignement scolaire (DGESCO) s'est engagée, depuis 2011, dans une démarche de profonde rationalisation de ses enquêtes, démarche d'ailleurs reconnue par la Cour des comptes. Les actions de rationalisation ont conduit à réduire le nombre d'enquêtes et à assurer une meilleure transparence du programme d'enquêtes. Elles ont aussi abouti à formaliser une charte d'exigence de qualité qui accompagne chaque enquête gérée par la DGESCO. En ce qui concerne les objectifs fixés au système éducatif, il faut signaler que même s'il reste des progrès à accomplir pour atteindre l'objectif de 100 % des élèves ayant acquis un diplôme ou une qualification (en France, il demeure 9,7 % de jeunes âgés de 18 à 24 ans ne possédant ni CAP, ni BEP, ni diplôme plus élevé et qui ne poursuivent ni études, ni formation en 2013, contre 11,9 % au niveau de l'Union européenne), la cible de 80 % d'une génération atteignant le niveau du baccalauréat est cependant atteinte depuis plus de 3 ans. L'objectif de 50 % d'une génération en possession d'un diplôme de l'enseignement supérieur est sur le point d'être atteint (47,5 % en 2013).
