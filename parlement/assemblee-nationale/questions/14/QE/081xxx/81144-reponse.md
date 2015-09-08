@@ -1,0 +1,9 @@
+# Réponse à la question n° 81144
+
+- Question : [81144](81144.md) — Question n° 81144 — effets indésirables; indemnisation; perspectives
+
+## Réponse
+
+*JO du 2015-09-08*
+
+Les patients victimes de dommages sériels liés à un médicament, et au-delà de tout produit de santé, ont comme tout autre patient accès à la procédure de règlement amiable prévue par l'article L. 1142-5 en formant une réclamation auprès de la commission de conciliation et d'indemnisation dans le ressort de laquelle a été effectué l'acte en cause. Il est toutefois apparu qu'en cas d'accidents sériels liés à un même produit de santé, les victimes ne se tournent pas vers ce dispositif, mais engagent directement des actions contre le fabricant, le fournisseur ou l'utilisateur de ce produit. Afin de faciliter les actions ainsi mises en oeuvre, des dispositifs ad hoc ont été mis en place : par voie conventionnelle en ce qui concerne les malades sur-irradiés à Epinal ou à Toulouse ou par voie législative en ce qui concerne les personnes s'étant vu prescrire du benfluorex. Chacun de ces dispositifs comporte des inconvénients, dont les délais requis pour leur mise en place. Le Gouvernement a donc décidé d'introduire l'action de groupe en santé, à l'article 45 du projet de loi de modernisation de notre système de santé, qui est en cours d'examen devant le Parlement. L'action de groupe, déjà créée dans le champ de la consommation, permettra de mettre à la disposition des victimes une procédure collective de nature à donner plus de force à leurs actions personnelles dirigées contre le fabricant, le fournisseur ou l'utilisateur du produit de santé. Cette action de groupe concernera tous les dommages quelle qu'en soit la gravité, à la différence de la procédure de règlement amiable, qui repose sur la solidarité nationale et dont l'accès est de ce fait subordonné à un seuil de gravité.
