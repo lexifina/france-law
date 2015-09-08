@@ -1,0 +1,9 @@
+# Réponse à la question n° 75322
+
+- Question : [75322](75322.md) — Question n° 75322 — avortements tardifs; perspectives
+
+## Réponse
+
+*JO du 2015-09-08*
+
+La question de l'accès des femmes à leurs droits en matière sexuelle et reproductive ne fait pas consensus dans les enceintes internationales. Le Conseil de l'Europe n'échappe pas à ces dissensions, comme l'illustre le vif débat suscité par la question du député espagnol, M. Angel Pintado, sur l'avortement tardif au sein du Comité des ministres. Dans le cadre de ces échanges, la France, ainsi que la Suède, ont rappelé que l'accès aux services de santé reproductive était un droit pour les femmes, notamment garanti par la Convention sur l'élimination de toutes les formes de discrimination à l'égard des femmes, les déclarations des conférences de Pékin (1995) et du Caire (1994), et que, conformément à la jurisprudence de la Cour européenne des droits de l'Homme, le point de départ du droit à la vie relevait de l'appréciation des Etats (arrêt de la CEDH Vo c. France du 08.07.2004). Compte tenu des profondes divergences sur ces questions, le Comité des ministres n'est pas parvenu à un consensus. La France promeut dans les négociations internationales l'accès universel aux droits et à la santé sexuels et reproductifs. Près de 220 millions de femmes sont dépourvues d'accès aux méthodes modernes de contraception provoquant chaque année plus de 80 millions de grossesses non désirées et plus de 20 millions d'avortements dans des conditions non sécurisées. Lors du sommet du G8 de Muskoka, la France s'est engagée à consacrer plus de 100 millions d'euros sur la période 2011-2015 à des programmes de santé sexuelle et reproductive dans neuf pays d'Afrique francophone. Les actions menées dans ce cadre avec plusieurs agences de l'ONU ont donné d'excellents résultats.
