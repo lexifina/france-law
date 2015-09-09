@@ -1,0 +1,57 @@
+# Défense : surveillance des communications électroniques internationales
+
+- Procédure : Proposition de loi ordinaire
+- Législature : 14
+- Identifiant : DLR5L14N34256
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/surveillance_communications_electroniques_internationales
+- Sénat : http://www.senat.fr/dossier-legislatif/ppl15-006.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2015-09-09 : 1er dépôt d'une initiative. (PIONANR5L14B3042)
+  - 2015-09-15 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2015-09-09 : Renvoi en commission au fond
+      - 2015-09-16 : Nomination de rapporteur
+      - 2015-09-16 : Réunion de commission
+      - 2015-09-16 : Réunion de commission
+      - 2015-09-30 : Réunion de commission
+      - 2015-09-16 : Dépôt de rapport (RAPPANR5L14B3066, PIONANR5L14BTC3066)
+  - Discussion en séance publique
+    - 2015-10-01 : Discussion en séance publique
+    - 2015-10-01 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2015-10-01 : Dépôt d'une initiative en navette (PIONSNR5S259B0006)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2015-10-01 : Renvoi en commission au fond
+      - 2015-10-07 : Nomination de rapporteur
+      - 2015-10-21 : Dépôt de rapport (RAPPSNR5S259B0097)
+    - Travaux d'une commission saisie pour avis
+      - 2015-09-30 : Saisine pour avis d'une commission
+      - 2015-09-30 : Nomination de rapporteur
+      - 2015-10-21 : Dépôt de rapport (AVISSNR5S259B0100)
+  - Discussion en séance publique
+    - 2015-10-27 : Discussion en séance publique
+    - 2015-10-27 : Décision
+- Commission Mixte Paritaire
+  - 2015-10-28 : Dépôt d'un projet de loi (PIONANR5L14B3173)
+  - 2015-10-28 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2015-11-03 : Nomination de rapporteur
+    - 2015-11-03 : Dépôt du rapport d'une CMP (RAPPANR5L14B3188)
+    - 2015-11-03 : Dépôt du rapport d'une CMP (RAPPSNR5S259B0129)
+  - Discussion en séance publique
+    - 2015-11-05 : Discussion en séance publique
+    - 2015-11-05 : Décision
+  - Discussion en séance publique
+    - 2015-11-05 : Discussion en séance publique
+    - 2015-11-05 : Décision
+  - 2015-11-03 : Décision de la CMP
+- Conseil constitutionnel
+  - 2015-11-12 : Saisine du conseil constitutionnel
+  - 2015-11-26 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2015-11-30 : Promulgation d'une loi
