@@ -306,6 +306,12 @@ Chenôve.
 
 |
 
+Haute-Marne |
+
+Chaumont |
+
+Saint-Dizier. |
+
 Saône-et-Loire |
 
 Chalon-sur-Saône
@@ -747,6 +753,12 @@ Nantes
 Nantes, Nantes-Rezé, Châteaubriant.
 
 |
+
+Morbihan |
+
+Lorient |
+
+Pontivy. |
 
 Cour d'appel de Riom
 
