@@ -1,6 +1,6 @@
 # Article Annexe 3
 
-Liste des nouveaux établissements de santé concernés par un démarrage de la facturation individuelle le 1er septembre 2015 en application de l'article 3 du présent arrêté et périmètre de celle-ci
+Liste des établissements de santé concernés par un démarrage de la facturation individuelle le 1er octobre 2015
 
 FINESS juridique
 
