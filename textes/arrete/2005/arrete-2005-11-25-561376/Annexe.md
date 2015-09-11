@@ -1029,3 +1029,7 @@ Epreuve orale d'admission n° 4 :
 Exercices physiques.
 
 Le programme et les barèmes de l'épreuve sont identiques à ceux de l'épreuve d'exercices physiques du concours de contrôleur stagiaire des douanes de la branche de la surveillance mentionnés à l'arrêté du 19 janvier 1996 fixant la nature et le programme des épreuves des concours pour le recrutement de contrôleurs des douanes et droits indirects.
+
+NOTA :
+
+Conformément à l'article 7 III. 2 de l'arrêté du 7 septembre 2015 : L'annexe en ce qui concerne l'épreuve d'exercices physiques est supprimée. Les présentes dispositions seront applicables à compter des concours ouverts au titre de l'année 2016.
