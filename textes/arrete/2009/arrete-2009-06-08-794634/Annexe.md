@@ -2461,3 +2461,7 @@ Trois essais à chaque hauteur
 |
 
 Toute performance qui se traduirait par une fraction de note serait appréciée à la note inférieure.
+
+NOTA :
+
+Conformément à l'article 7 IV. 3 de l'arrêté du 7 septembre 2015 : L'annexe en ce qui concerne l'épreuve d'exercices physiques est supprimée. Les présentes dispositions seront applicables à compter des concours ouverts au titre de l'année 2016.
