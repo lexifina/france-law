@@ -1,54 +1,32 @@
 # Article Annexe
 
-I. - Corps de commandement et d'encadrement de la police nationale
+I. - Corps de commandement de la police nationale
 
 CATÉGORIES D'EMPLOIS
 
 |
 
-RAPPEL nombre d'emplois
+RAPPEL
+
+nombre d'emplois 2015
 
 |
 
-NOMBRE D'EMPLOIS
+NOMBRE
+
+d'emplois 2016
 
 |
 
-NOMBRE de points par emploi
+NOMBRE
+
+de points par emploi
 
 |
 
-TOTAL DES points 2015
+TOTAL
 
-|
-
-|
-
-2010
-
-|
-
-2011
-
-|
-
-2012
-
-|
-
-2013
-
-|
-
-2104
-
-|
-
-2015
-
-|
-
-|
+des points 2016
 
 |
 
@@ -56,22 +34,6 @@ Chef de circonscription de sécurité publique
 
 |
 
-106
-
-|
-
-106
-
-|
-
-103
-
-|
-
-103
-
-|
-
 98
 
 |
@@ -84,7 +46,7 @@ Chef de circonscription de sécurité publique
 
 |
 
-3920
+3 920
 
 |
 
@@ -92,22 +54,6 @@ Chef d'unité technique ou opérationnelle ou adjoint au chef de service dans le
 
 |
 
-97
-
-|
-
-112
-
-|
-
-128
-
-|
-
-128
-
-|
-
 124
 
 |
@@ -120,7 +66,7 @@ Chef d'unité technique ou opérationnelle ou adjoint au chef de service dans le
 
 |
 
-4960
+4 960
 
 |
 
@@ -128,22 +74,6 @@ Chef d'unité opérationnelle ou adjoint au chef de service à la circonscriptio
 
 |
 
-155
-
-|
-
-161
-
-|
-
-166
-
-|
-
-166
-
-|
-
 153
 
 |
@@ -156,7 +86,7 @@ Chef d'unité opérationnelle ou adjoint au chef de service à la circonscriptio
 
 |
 
-6120
+6 120
 
 |
 
@@ -164,22 +94,6 @@ Chef d'unité ou de groupe technique ou opérationnel
 
 |
 
-826
-
-|
-
-867
-
-|
-
-900
-
-|
-
-900
-
-|
-
 921
 
 |
@@ -192,27 +106,11 @@ Chef d'unité ou de groupe technique ou opérationnel
 
 |
 
-36840
+36 840
 
 |
 
 Chef de délégation des compagnies républicaines de sécurité
-
-|
-
-5
-
-|
-
-5
-
-|
-
-5
-
-|
-
-5
 
 |
 
@@ -244,22 +142,6 @@ Adjoint au chef de délégation des compagnies républicaines de sécurité
 
 |
 
-3
-
-|
-
-3
-
-|
-
-3
-
-|
-
-3
-
-|
-
 40
 
 |
@@ -269,22 +151,6 @@ Adjoint au chef de délégation des compagnies républicaines de sécurité
 |
 
 Chef de groupe de liaison et documentation
-
-|
-
-21
-
-|
-
-11
-
-|
-
-10
-
-|
-
-10
 
 |
 
@@ -308,22 +174,6 @@ TOTAL
 
 |
 
-1 215
-
-|
-
-1 265
-
-|
-
-1 315
-
-|
-
-1 315
-
-|
-
 1 315
 
 |
@@ -340,389 +190,41 @@ TOTAL
 
 II. - Corps d'encadrement et d'application de la police nationale
 
-CATÉGORIES D'EMPLOIS
+POSTES À RESPONSABILITÉ DÉVOLUS
 
-|
-
-RAPPEL nombre d'emplois
-
-|
-
-NOMBRE D'EMPLOIS
-
-|
-
-NOMBRE de points par emploi
-
-|
-
-TOTAL DES points 2015
-
-|
-
-|
-
-2010
-
-|
-
-2011
-
-|
-
-2012
-
-|
-
-2013
-
-|
-
-2104
-
-|
-
-2015
-
-|
-
-|
-
-|
-
-Chef ou commandantd'unité à responsabilité particulièrement importante
-
-|
-
-12
-
-|
-
-0
-
-|
-
-0
-
-|
-
-0
-
-|
-
-0
-
-|
-
-0
-
-|
-
-20
-
-|
-
-0
-
-|
-
-Agent exerçant des responsabilités particulièrement importantes dans les domaines du renseignement ou de la protection des personnalités
-
-|
-
-1
-
-|
-
-0
-
-|
-
-0
-
-|
-
-0
-
-|
-
-0
-
-|
-
-0
-
-|
-
-20
-
-|
-
-0
-
-|
-
-Chef de division administrative ou opérationnelle en CRS exerçant des responsabilités particulièrement importanteset chef instructeur CNEAS (Centre national d'entraînement à l'alpinisme et au ski)
-
-|
-
-2
-
-|
-
-0
-
-|
-
-0
-
-|
-
-0
-
-|
-
-0
-
-|
-
-0
-
-|
-
-20
-
-|
-
-0
-
-|
-
-Autre chef ou commandant d'unité
-
-|
-
-1191
-
-|
-
-1478
-
-|
-
-1696
-
-|
-
-1696
-
-|
+à un major à l'échelon fonctionnel
 
-1696
-
-|
-
-1696
-
-|
-
-10
-
-|
-
-16960
-
-|
-
-Adjoint à l'officier-chef ou commandant d'unité
-
-|
-
-32
-
-|
-
-0
-
-|
-
-0
-
-|
-
-0
-
-|
-
-0
-
-|
-
-0
-
-|
-
-10
-
-|
-
-0
-
-|
-
-Technicien spécialisé
-
-|
-
-4
-
-|
-
-0
-
-|
-
-0
-
-|
-
-0
-
-|
-
-0
-
-|
-
-0
-
-|
-
-10
-
-|
-
-0
-
-|
-
-Assistant officier de quart
-
-|
-
-86
-
-|
-
-97
-
-|
-
-105
-
-|
-
-105
-
-|
-
-105
-
-|
-
-105
-
-|
-
-10
-
-|
-
-1050
-
-|
-
-Formateur spécialisé
-
-|
-
-31
-
-|
-
-38
-
-|
-
-41
-
-|
-
-41
-
-|
-
-41
-
-|
-
-41
-
-|
-
-10
-
-|
-
-410
-
-|
-
-Autre chef de division administrative ou opérationnelle en CRS
-
-|
-
-127
-
 |
 
-137
+RAPPEL
 
-|
-
-158
-
-|
+nombre d'emplois 2015
 
-158
-
 |
-
-158
 
-|
+NOMBRE
 
-158
+d'emplois 2016
 
 |
 
-10
-
-|
+NOMBRE
 
-1580
+de points par emploi
 
 |
 
 TOTAL
 
-|
-
-1 486
+des points 2016
 
 |
 
-1 750
+Major à l'échelon fonctionnel
+
+|
+
+2 000
 
 |
 
@@ -730,7 +232,15 @@ TOTAL
 
 |
 
-2 000
+10
+
+|
+
+20 000
+
+|
+
+TOTAL
 
 |
 
@@ -754,49 +264,27 @@ CATÉGORIES D'EMPLOIS
 
 |
 
-RAPPEL nombre d'emplois
+RAPPEL
+
+nombre d'emplois 2015
 
 |
 
-NOMBRE D'EMPLOIS
+NOMBRE
+
+d'emplois 2016
 
 |
 
-NOMBRE de points par emploi
+NOMBRE
+
+de points par emploi
 
 |
 
-TOTAL DES points 2015
+TOTAL
 
-|
-
-|
-
-2010
-
-|
-
-2011
-
-|
-
-2012
-
-|
-
-2013
-
-|
-
-2104
-
-|
-
-2015
-
-|
-
-|
+des points 2016
 
 |
 
@@ -804,27 +292,11 @@ Responsable d'unité locale de police
 
 |
 
-450
-
-|
-
-525
-
-|
-
-600
-
-|
-
-680
-
-|
-
-760
-
-|
-
 840
+
+|
+
+920
 
 |
 
@@ -832,7 +304,7 @@ Responsable d'unité locale de police
 
 |
 
-16800
+18 400
 
 |
 
@@ -840,34 +312,16 @@ TOTAL
 
 |
 
-450
-
-|
-
-525
-
-|
-
-600
-
-|
-
-680
-
-|
-
-760
-
-|
-
 840
 
 |
 
-20
+920
 
 |
 
-16 800
+|
+
+18 400
 
 |
