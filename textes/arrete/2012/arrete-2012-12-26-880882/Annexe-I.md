@@ -80,7 +80,7 @@ Elle comporte :
 
 a) Un entretien individuel réalisé par un psychologue, destiné à éclairer le président du jury sur l'adaptabilité du candidat à l'emploi. Cet entretien ne nécessite aucune préparation particulière et comprend des tests écrits et un entretien oral ;
 
-b) Un entretien individuel du candidat avec le président du jury assisté d'un examinateur. Pour cet entretien, le président du jury dispose, à titre indicatif, du dossier du candidat. Après tirage au sort du sujet de l'exposé initial, le candidat bénéficie d'un temps de préparation de vingt minutes. L'entretien débute par un exposé de dix minutes sur un thème général se rapportant à des idées ou à des faits dont la connaissance est nécessaire à la compréhension du monde contemporain. Il se poursuit sous la forme d'un dialogue de vingt minutes avec le jury.
+b) Un entretien individuel du candidat avec le président du jury assisté d'un ou de plusieurs examinateurs. Pour cet entretien, le président du jury dispose, à titre indicatif, du dossier du candidat. Après tirage au sort du sujet de l'exposé initial, le candidat bénéficie d'un temps de préparation de vingt minutes. L'entretien débute par un exposé de dix minutes sur un thème général se rapportant à des idées ou à des faits dont la connaissance est nécessaire à la compréhension du monde contemporain. Il se poursuit sous la forme d'un dialogue de vingt minutes avec le jury.
 
 2° Epreuve de langue étrangère (durée : cinquante minutes, dont vingt minutes de préparation ; coefficient 2)
 
@@ -88,7 +88,7 @@ Le candidat a le choix de la langue : anglaise, allemande, espagnole ou italienn
 
 L'usage du dictionnaire monolingue ou bilingue est interdit. Après tirage au sort du texte support de l'interrogation, le candidat dispose d'un temps de préparation de vingt minutes.
 
-Cette épreuve débute par une version. Le candidat traduit tout ou partie d'un texte rédigé en langue étrangère dans la langue française puis commente ce texte issu de la presse, portant sur un sujet d'actualité ou de société. L'épreuve se poursuit par un entretien d'ordre général avec l'examinateur. Le commentaire et l'entretien s'effectuent dans la langue étrangère choisie.
+Cette épreuve débute par une version. Le candidat traduit tout ou partie d'un texte rédigé en langue étrangère dans la langue française puis commente ce texte issu de la presse, portant sur un sujet d'actualité ou de société. L'épreuve se poursuit par un entretien d'ordre général avec le ou les examinateurs. Le commentaire et l'entretien s'effectuent dans la langue étrangère choisie.
 
 3° Epreuves sportives (la moyenne des notes est affectée du coefficient 2).
 
