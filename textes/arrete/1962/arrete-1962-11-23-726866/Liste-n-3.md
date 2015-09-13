@@ -388,6 +388,12 @@ Gard |
 
 Réservé aux aéronefs qui y sont basés et à ceux qui sont basés sur les aérodromes voisins. |
 
+La Llagonne-La Quillane |
+
+Pyrénées-Orientales |
+
+Réservé aux aéronefs qui y sont basés et à ceux qui sont basés sur les aérodromes voisins. |
+
 La Môle |
 
 Var |
@@ -601,12 +607,6 @@ Somme |
 Réservé aux aéronefs qui y sont basés et à ceux qui sont basés sur les aérodromes voisins.
 
 Utilisable par les hélicoptères dans des conditions définies par le délégué régional de l'aviation civile Picardie. |
-
-Mont-Louis-La Quillane |
-
-Pyrénées-Orientales |
-
-Réservé aux aéronefs qui y sont basés et à ceux qui sont basés sur les aérodromes voisins. |
 
 Montluçon-Domérat |
 
