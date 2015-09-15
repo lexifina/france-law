@@ -1,0 +1,9 @@
+# Réponse à la question n° 78614
+
+- Question : [78614](78614.md) — Question n° 78614 — vente; formalités; facturation
+
+## Réponse
+
+*JO du 2015-09-15*
+
+La question de la disparité des honoraires perçus par les syndics de copropriété pour l'établissement de l'état daté à l'occasion d'un transfert de propriété d'un lot ou d'une fraction de lot fait l'objet d'une attention toute particulière de la part du Gouvernement. Ce document, établi par le syndic à la demande du notaire, permet de faire le point, au moment de la vente, sur la situation des comptes du vendeur et permet de renseigner l'acheteur sur les sommes qui seront à sa charge après la vente. Son contenu est défini par l'article 5 du décret n° 67-223 du 17 mars 1967. La loi n° 2014-366 du 24 mars 2014 pour l'accès au logement et un urbanisme rénové (loi ALUR) a introduit, dans la législation relative à la copropriété, le principe du plafonnement de l'état daté. Ainsi, l'article 10-1 de la loi n° 65-557 du 10juillet 1965 fixant le statut de la copropriété des immeubles bâtis, qui a pour objet d'imputer au seul copropriétaire concerné les honoraires du syndic afférents aux prestations qu'il doit effectuer pour l'établissement de l'état daté, prévoit désormais que ces honoraires ne peuvent excéder un montant fixé par décret. Dès la parution prochaine du décret prévu par la loi ALUR, les honoraires du syndic relatifs à l'établissement de l'état daté seront donc plafonnés. Le Conseil national de la transaction et de la gestion immobilières (CNTGI), instance créée par la loi ALUR, devra être consulté sur ce projet de décret. D'ores et déjà, le contrat-type de syndic défini par le décret n° 2015-342 du 26 mars 2015 inclut l'établissement de l'état daté dans sa rubrique relative aux frais et honoraires imputables aux seuls copropriétaires concernés, et prévoit de mentionner le montant maximum qui sera prochainement fixé par le décret à paraître.
