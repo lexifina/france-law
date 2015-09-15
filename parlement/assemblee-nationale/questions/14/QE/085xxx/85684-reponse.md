@@ -1,0 +1,9 @@
+# Réponse à la question n° 85684
+
+- Question : [85684](85684.md) — Question n° 85684 — origine des produits; Israël; information des consommateurs
+
+## Réponse
+
+*JO du 2015-09-15*
+
+La position de la France en faveur du respect du droit international est constante et connue. S'agissant des Territoires palestiniens, la France condamne la colonisation israélienne, illégale au regard du droit international et qui constitue un obstacle à une paix juste fondée sur la création d'un Etat palestinien viable et souverain aux côtés d'Israël dont la sécurité doit être garantie. Elle a appelé les nouvelles autorités israéliennes à oeuvrer en faveur de la paix en préservant la solution des deux Etats. Le ministère des affaires étrangères et du développement international a publié en juin 2014, à l'instar de plusieurs autres pays européens, des informations à destination des investisseurs qui soulignent les risques juridiques, économiques et réputationnels liés à la poursuite d'activités économiques et financières dans les colonies israéliennes. Il se tient à la disposition des entreprises pour les renseigner plus précisément sur le contexte et les risques auxquelles elles s'exposeraient en menant des activités liées à la politique de colonisation. La France se mobilise par ailleurs pour que les travaux sur l'étiquetage des produits issus des colonies progressent à Bruxelles et aboutissent. Avec quinze autres Etats membres, la France a demandé à la Haute représentante de l'Union européenne pour les affaires étrangères et la politique de sécurité, Mme Mogherini, de relancer le projet de lignes directrices visant à élaborer un code de conduite européen sur l'étiquetage des produits des colonies israéliennes importés sur le marché communautaire. Elle veille à ce que cette mesure de transparence pour les consommateurs européens ne soit pas assimilée à une action de boycott des produits israéliens, auquel elle est fermement opposée.
