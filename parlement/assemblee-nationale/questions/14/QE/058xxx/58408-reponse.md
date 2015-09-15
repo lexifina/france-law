@@ -1,0 +1,9 @@
+# Réponse à la question n° 58408
+
+- Question : [58408](58408.md) — Question n° 58408 — canalisations; entretien; responsabilité
+
+## Réponse
+
+*JO du 2015-09-15*
+
+L'article 93 de la loi n° 2000-1208 du 13 décembre 2000 relative à la solidarité et au renouvellement urbains (SRU) prévoit l'individualisation des contrats de fourniture d'eau à l'intérieur des immeubles collectifs d'habitation. Le décret en Conseil d'État n° 2003-408 du 28 avril 2003 et la circulaire UHC/QC4 n° 2004-3 du 12 janvier 2004 ont précisé les conditions d'application de la loi, en particulier la procédure à suivre pour passer d'une relation entre le service de l'eau et la copropriété à une relation commerciale avec chaque propriétaire ou locataire. Il est à noter que cette circulaire précise que « l'individualisation des contrats de fourniture d'eau n'induit aucun changement quant au statut de propriété des canalisations et installations d'eau des parties communes de l'immeuble ou de l'ensemble immobilier. Le service public de distribution d'eau peut décider de conserver le compteur général qui permet de délimiter le statut de propriété des réseaux, ou de poser une vanne. La limite physique des ouvrages du service public est alors marquée par ce compteur ou cette vanne. Si la consommation des parties communes ne fait pas l'objet d'un comptage individualisé, elle peut être établie par calcul de la différence entre la consommation globale de l'immeuble et la somme des consommations individuelles si le compteur général est maintenu et si les relevés de consommation sont effectués à la même date ». La limite d'intervention du service public reste donc le compteur général existant avant l'individualisation des contrats de fourniture d'eau, ou la vanne qui le remplace. La propriété collective continue d'être responsable de la surveillance, de l'entretien et du renouvellement des ouvrages communs situés entre ce point et les compteurs individuels.
