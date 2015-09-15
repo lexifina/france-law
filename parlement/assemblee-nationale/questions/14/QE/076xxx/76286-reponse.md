@@ -1,0 +1,9 @@
+# Réponse à la question n° 76286
+
+- Question : [76286](76286.md) — Question n° 76286 — Espagnols républicains; France; exil
+
+## Réponse
+
+*JO du 2015-09-15*
+
+Nombreux sont les Républicains espagnols (près de 500 000) qui ont fui l'Espagne, en janvier et février 1939, pour se réfugier en France après la victoire du général Franco. Environ deux-tiers d'entre eux y sont restés. Après le début de la Seconde guerre mondiale, nombreux furent également les Espagnols à s'enrôler dans l'armée française, notamment la légion étrangère, dont ils composèrent rapidement près du tiers des effectifs. Ils rejoignirent la Résistance et les Forces françaises libres, à partir de la fin 1941. Les Espagnols étaient ainsi très largement représentés au sein de la neuvième compagnie du Tchad, mieux connue sous le nom de « La Nueve » (La Neuf) ou « La Espanola » (L'Espagnole), qui fut la première unité à entrer dans Paris le 24 août 1944. Au total, ce sont près de 35 000 Espagnols, exilés politiques, qui sont tombés pour la France lors de la Seconde guerre mondiale. La France salue leur engagement et leur mémoire. En 2014, à l'occasion des commémorations du 75e anniversaire de la fin de la guerre civile espagnole (1936-1939) et de l'exode, la « Retirada », de nombreuses manifestations ont été organisées, pour la première fois, de part et d'autre de la frontière. Lors de la visite d'Etat du Roi et de la Reine, Felipe VI et Letizia, au mois de juin 2015, la France a rendu hommage à ces Espagnols exilés qui avaient fait le choix de combattre pour elle. La Maire de Paris a ainsi inauguré avec le Roi, dans l'enceinte de l'Hôtel de Ville, un jardin consacré aux combattants de la Nueve, cette avant-garde de la deuxième division blindée du Général Leclerc qui fut la première à entrer dans Paris, le 24 août 1944.
