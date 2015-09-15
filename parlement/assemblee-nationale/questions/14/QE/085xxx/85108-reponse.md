@@ -1,0 +1,9 @@
+# Réponse à la question n° 85108
+
+- Question : [85108](85108.md) — Question n° 85108 — situation politique; attitude de la France
+
+## Réponse
+
+*JO du 2015-09-15*
+
+Les élections au Burundi ont eu lieu dans des conditions qui ne correspondent pas aux normes et principes internationaux d'un processus électoral pacifique, libre et légitime. A l'instar de la communauté internationale, dont l'Union africaine et la communauté d'Afrique de l'est, la France a régulièrement appelé les parties burundaises au dialogue pour trouver une solution consensuelle à la crise, dans le respect du cadre constitutionnel et de l'accord d'Arusha. Le Président de la République a rappelé à plusieurs occasions, en référence au Burundi, la nécessité de respecter les constitutions et d'organiser des élections indiscutables. Dès le début des troubles, la France a pris des mesures de précaution conduisant à la suspension des actions de coopération de sécurité et de défense. Elle a gelé les formations des soldats burundais en écoles militaires en France et en Afrique. La Haute représentante de l'Union européenne a rappelé au nom de l'Union européenne sa grave préoccupation s'agissant de la dégradation de la situation humanitaire, économique et sécuritaire au Burundi. L'Union européenne se prépare à adopter, le cas échéant, des mesures restrictives ciblées contre ceux dont l'action aurait conduit ou conduirait à des actes de violence et de répression, à de graves violations des droits de l'Homme, et/ou entraverait la recherche d'une solution politique. La reprise du dialogue inter-burundais, sous les auspices de l'Ouganda et de l'Union africaine, doit intervenir sans délai pour doter le Burundi d'institutions pleinement représentatives et respectueuses du modèle de réconciliation consacré par l'accord d'Arusha.
