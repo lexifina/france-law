@@ -1,0 +1,9 @@
+# Réponse à la question n° 85696
+
+- Question : [85696](85696.md) — Question n° 85696 — cartographie des cours d'eau; élaboration; modalités
+
+## Réponse
+
+*JO du 2015-09-15*
+
+Par l'instruction du Gouvernement du 3 juin 2015, il a été demandé aux services déconcentrés du ministère de l'écologie, du développement durable et de l'énergie d'élaborer des cartographies départementales des cours d'eau, afin de lever les confusions qui existaient sur le terrain entre les fossés et les cours d'eau, notamment lorsque ces derniers avaient été très aménagés et rectifiés. En se fondant sur les critères retenus depuis plusieurs années par la jurisprudence, les services déconcentrés doivent établir des cartes, en associant l'expertise technique des agents de l'office national de l'eau et des milieux aquatiques ainsi que les parties prenantes concernées, au rang desquels figurent la profession agricole. Il est demandé aux services déconcentrés de couvrir pour fin 2015 deux tiers du territoire et, à terme, sa quasi totalité. Les cours d'eau ainsi cartographiés sont ceux auxquels la réglementation du code de l'environnement s'applique. D'autres réglementations, telles que celle relative à la conditionnalité des aides de la politique agricole commune ou celle relative aux produits phytopharmaceutiques n'ont pas la même définition des cours d'eau ou n'utilisent pas cette notion. La convergence de la définition des cours d'eau apparaîtrait comme souhaitable, dans un objectif de simplification. Les représentants nationaux de la profession agricole, associés à la réflexion, ont néanmoins convenu que dans les échéances fixées pour l'établissement des cartographies, un tel objectif de convergence serait difficile à tenir dans un premier temps. Par ailleurs, il conviendra d'assurer que les objectifs particuliers de chaque réglementation, et donc les éléments sur lesquels elle porte, soient bien pris en compte.
