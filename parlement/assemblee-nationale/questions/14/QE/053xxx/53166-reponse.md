@@ -1,0 +1,9 @@
+# Réponse à la question n° 53166
+
+- Question : [53166](53166.md) — Question n° 53166 — étiquetage; informations
+
+## Réponse
+
+*JO du 2015-09-15*
+
+Les dispositions communautaires en matiére d'étiquetage ne prévoient pas pour les boissons alcoolisées, et notamment le vin, l'obligation de mentionner la liste des ingrédients. Cependant, la Commission européenne (CE) a défini à l'annexe II du règlement (UE) n° 1169/2011 du 25 octobre 2011 concernant l'information des consommateurs sur les denrées alimentaires, la liste des ingrédients ou auxiliaires technologiques qui, présents dans le produit fini, peuvent être de nature à provoquer des allergies ou des intolérances dont certaines peuvent être dangereuses pour la santé des personnes concernées. Ces substances doivent figurer dans l'étiquetage des denrées alimentaires. S'agissant du vin, les études réalisées ont montré que les seuls produits oenologiques pouvant avoir un effet allergène ou d'intolérance sont l'anhydride sulfureux et les produits à base de lait (caséine) et d'oeuf (lysozyme, albumine). La réglementation communautaire impose donc que ces substances soient mentionnées sur l'étiquetage des vins (article 51 du règlement (CE) n° 607/2009 du 14 juillet 2009). S'agissant des autres ingrédients, des travaux sont en cours au niveau international (codex alimentarius, organisation internationale de la vigne et du vin) pour déterminer parmi les produits oenologiques autorisés ceux qui doivent être considérés comme des additifs et qui seraient susceptibles d'être mentionnés en tant qu'ingrédients dans l'étiquetage des produits vitivinicoles. Enfin, la CE doit élaborer prochainement un rapport qui permettra d'apprécier si les boissons alcoolisées devront à l'avenir être soumises à l'obligation de mentionner sur leur étiquetage la liste des ingrédients.
