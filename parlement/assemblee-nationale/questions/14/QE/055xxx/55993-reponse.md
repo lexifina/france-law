@@ -1,0 +1,9 @@
+# Réponse à la question n° 55993
+
+- Question : [55993](55993.md) — Question n° 55993 — droit du conjoint; réglementation; perspectives
+
+## Réponse
+
+*JO du 2015-09-15*
+
+Le principe de la co-titularité du bail du logement familial résulte des dispositions de l'article 1751 du code civil selon lequel « le droit au bail du local, sans caractère professionnel ou commercial, qui sert effectivement à l'habitation de deux époux [...] est réputé appartenir à l'un et à l'autre des époux ». Le code civil ajoute que les deux membres du couple deviennent co-titulaires de plein droit, « quel que soit leur régime matrimonial et nonobstant toute convention contraire, et même si le bail a été conclu avant le mariage ». Si la co-titularité avait pour vocation initiale de protéger le couple marié, ses frontières ont été redéfinies au vu de l'émergence des nouvelles structures familiales et de l'évolution de la société. Ainsi, la loi n° 2014-366 du 24 mars 2014 pour l'accès au logement et un urbanisme rénové (ALUR), dans son article 4, a modifié l'article 1751 du code civil en étendant cette protection aux partenaires liés par un pacte civil de solidarité (PACS). Le droit au bail du local à usage d'habitation des partenaires liés par un PACS est désormais aligné sur celui des époux. Les partenaires liés par un PACS, peuvent bénéficier d'une co-titularité légale au même titre qu'un couple marié. Toutefois, à la différence du couple marié à l'égard desquels la co-titularité est conférée automatiquement dès le mariage, les partenaires liés par un PACS doivent en faire la demande conjointement auprès du bailleur, qui ne peut refuser dès lors que les conditions sont remplies. Les partenaires liés par un PACS, ayant effectué cette demande auprès du bailleur, bénéficient d'une co-titularité légale au même titre qu'un couple marié. Dès lors, le Gouvernement n'envisage pas de modifier les dispositions les concernant.
