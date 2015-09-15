@@ -1,0 +1,9 @@
+# Réponse à la question n° 41962
+
+- Question : [41962](41962.md) — Question n° 41962 — simplification; revendications
+
+## Réponse
+
+*JO du 2015-09-15*
+
+La directive cadre sur l'eau fixe un objectif de bon état des masses d'eau, qui ne peut être remis en cause, mais dont l'échéance d'atteinte peut être reportée dans certaines conditions dûment justifiées. Cet objectif est décliné dans les schémas directeurs d'aménagement et de gestion des eaux (SDAGE) élaborés dans chaque bassin hydrographique, qui identifient pour chacune des masses d'eau l'objectif environnemental qui lui est assigné ainsi que l'échéance d'atteinte de cet objectif. L'objectif de bon état écologique pour 2/3 des masses d'eau de surface avait été fixé en fonction du degré de connaissance de l'époque. Sans doute avait-il été, en 2009, un peu trop optimiste sur la résolution de problèmes qui se sont avérés plus complexes que prévus. Notamment, lutter contre les pollutions diffuses ou restaurer des milieux aquatiques demande du temps. Par ailleurs, la connaissance et les analyses sur l'état écologique ne cessent de s'améliorer et de s'affiner : on découvre de nouvelles substances, de nouvelles molécules, ce qui peut sembler, sur le papier, contribuer à déclasser les cours d'eau, mais en réalité, aide à mieux les restaurer. Dans ce contexte, les échéances d'atteinte du bon état sont en cours de révision dans le cadre de la mise à jour des schémas directeur d'aménagement et de gestion des eaux (SDAGE) mené par les comités de bassin et qui doit aboutir fin 2015. Ces échéances sont revues notamment au regard des enjeux identifiés dans les états des lieux de 2013 et en tenant compte des programmes de mesures élaborés en parallèle à la mise à jour des SDAGE. Ces travaux prennent également en compte les priorités mises en avant à l'occasion de la deuxième conférence environnementale de septembre 2013 et l'expérience acquise au cours du premier cycle.
