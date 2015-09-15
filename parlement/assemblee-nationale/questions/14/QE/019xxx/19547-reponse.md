@@ -1,0 +1,9 @@
+# Réponse à la question n° 19547
+
+- Question : [19547](19547.md) — Question n° 19547 — emploi et activité
+
+## Réponse
+
+*JO du 2015-09-15*
+
+Le Gouvernement ayant fait du développement du tourisme une de ses priorités, il est particulièrement attentif à créer un contexte favorable au développement des entreprises du secteur. Concernant le financement du secteur, le prêt participatif à la rénovation hôtelière, lancé en 2010, a fait l'objet d'avenants de prolongation à deux reprises. Auparavant distribué par Oseo et maintenant repris par Bpifrance, l'actuel Gouvernement en a élargi et assoupli les conditions d'accès en 2012 et en 2013 afin que les professionnels s'en emparent. Il se compose de deux produits : un prêt à taux fixe (PH) et un prêt à taux fixe préférentiel (PH/CDC). Ils sont accordés aux entreprises admissibles sans garantie, ni sur les actifs de l'entreprise ni sur le patrimoine du dirigeant. Le bilan au 31 décembre 2014 était de 655 dossiers traités (PH et PH/CDC) pour un montant total de 77,8 millions d'euros. Il est prévu d'en proroger la commercialisation qui devait prendre fin le 30 juin 2015. Par ailleurs, le ministre des affaires étrangères et du développement international a annoncé le 11 juin 2015 avoir demandé à la Caisse des dépôts et consignations de travailler à la constitution d'un grand fonds d'investissement tourisme - le FIT. Ce fonds, dont les contours seront précisés à l'automne, permettra de financer la rénovation de l'ancien et la construction du neuf dans les domaines de l'hébergement hôtelier, en particulier dans les stations de montagne et du littoral ; le tourisme fluvial et maritime ; l'oenotourisme. Il a également demandé au commissaire général à l'investissement de travailler à une enveloppe financière qui sera dédiée au tourisme dans le cadre du troisième programme d'investissements d'avenir (« PIA3 »). Cette enveloppe devrait voir le jour en 2016 et sera à la disposition des entreprises.
