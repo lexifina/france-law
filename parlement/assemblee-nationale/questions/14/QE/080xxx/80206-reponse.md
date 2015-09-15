@@ -1,0 +1,9 @@
+# Réponse à la question n° 80206
+
+- Question : [80206](80206.md) — Question n° 80206 — accord transatlantique; contenu
+
+## Réponse
+
+*JO du 2015-09-15*
+
+Les discussions ont débuté en juillet 2013, sur la base du mandat octroyé à la Commission par les Etats membres. Alors que le Conseil européen a fixé un objectif ambitieux de conclusion des négociations pour fin 2015, la 9e session de négociation a eu lieu à New York du 20 au 24 avril, suivie d'une discussion ministérielle au Conseil Affaires étrangères en format Commerce du 7 mai 2015, qui a montré l'existence d'un consensus pour un engagement plus ferme des Etats-Unis et un traitement en profondeur des intérêts offensifs européens. La 10e session de négociation a eu lieu du 13 au 17 juillet. Le gouvernement s'est en effet engagé à présenter régulièrement l'état des discussions après chaque session de négociation, afin de faire le point de la manière la plus transparente, ainsi qu'à prendre en considération l'avis des ONG. Des réunions de consultation sont régulièrement menées en ce sens au ministère des affaires étrangères et du développement international, auprès de panels de parlementaires et de représentants de la société civile. En outre, les documents transmis par la Commission sont désormais accessibles aux parlementaires et, sous l'impulsion de la France, le mandat de négociation a été rendu public. Enfin, à l'issue de la négociation, l'accord devra recueillir l'approbation du parlement européen, et sa ratification devra être autorisée par les 28 parlements nationaux. L'accord devra donc répondre aux préoccupations des Etats membres et de leurs citoyens pour recueillir leur assentiment. La représentation nationale, ainsi amenée à se prononcer sur le texte final de l'accord, pourra le rejeter s'il contrevient aux intérêts fondamentaux de la France.
