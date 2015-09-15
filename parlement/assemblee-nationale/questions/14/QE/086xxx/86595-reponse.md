@@ -1,0 +1,9 @@
+# Réponse à la question n° 86595
+
+- Question : [86595](86595.md) — Question n° 86595 — Syrie; situation politique; opposants kurdes
+
+## Réponse
+
+*JO du 2015-09-15*
+
+La France prend toute sa part pour lutter contre le fléau du terrorisme, sous toutes ses formes et en tout lieu. En Irak, elle est l'un des principaux contributeurs à la coalition internationale contre Daech et participe au programme américain Advise and Assist en conseillant l'état-major irakien et en menant des formations en matière de lutte contre les engins explosifs improvisés. Elle soutient également les forces kurdes du gouvernement régional du Kurdistan (GRK), par des livraisons d'armes et des actions de formation, dans un cadre national. En Syrie, la France soutient l'opposition modérée, y compris kurde, à la fois contre le régime de Bachar el Assad et contre Daech. Après l'attentat qui s'est produit en Turquie, à Suruç, le 20 juillet dernier, le gouvernement turc a pris de nouvelles mesures contre Daech. Seule une action durable et déterminée de tous les acteurs, corrélée à une stratégie globale, qui prenne également en compte la nécessité de promouvoir une transition politique en Syrie, permettra de lutter efficacement contre Daech et la menace qu'il représente. S'agissant du PKK, la position de la France est constante : il est inscrit sur la liste des organisations terroristes de l'Union européenne. La France condamne la reprise, par l'organisation, de l'action armée sur le sol turc depuis le 22 juillet dernier. Elle continue également de marquer son soutien au processus de dialogue sur la question kurde initié en 2013, qui avait permis une trêve durable et des discussions avancées. Les autorités françaises forment le voeu que ce processus puisse reprendre le plus rapidement possible, afin de couper court à toute escalade de la violence.
