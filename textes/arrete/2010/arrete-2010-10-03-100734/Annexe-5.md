@@ -1,6 +1,6 @@
 # Article Annexe 5
 
-TAUX D'APPLICATION D'EXTINCTION ET DURÉES
+Taux d'application d'extinction et durées pour les stratégies de lutte contre l'incendie ne prévoyant pas l'intervention des services d'incendie et de secours
 
 A. - Taux d'application d'extinction forfaitaires
 
