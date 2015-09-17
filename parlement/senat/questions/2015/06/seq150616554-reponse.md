@@ -1,0 +1,9 @@
+# Réponse à la question SEQ150616554
+
+- Question : [SEQ150616554](seq150616554.md) — Réglementation thermique 2012
+
+## Réponse
+
+*Logement, égalité des territoires et ruralité, JO du 2015-09-17, page 2191*
+
+Le Gouvernement a l'objectif de soutenir la production de logements, et ce quelles que soient les filières (collectif ou individuel). Aussi a-t-il lancé en 2014 une concertation approfondie avec les acteurs du logement et de la construction pour relancer la construction. Les travaux conduits dans le cadre de cette démarche ont débouché sur un plan d'actions partagé par l'État et les professionnels pour accroître l'offre de construction et de rénovation, à un niveau de qualité élevé et à coûts maitrisés. Parmi ces propositions, un certain nombre d'entre elles concerne la réglementation thermique applicable aux bâtiments neufs. Il a ainsi effectivement été retenu de prolonger de 3 ans la dérogation pour les logements collectifs, de 50 kWh/m2. an à 57,5 kWh/m2. an pour répondre aux contraintes de la filière. En logement collectif, dans les zones H1 et H2, il reste en effet toujours difficile d'atteindre le niveau de 50 kWh/ m2 par an, même avec des niveaux d'isolation poussés. Il y avait donc un risque de surcoût significatif. Les acteurs de la construction étaient très demandeurs de cette mesure, surtout en cette période où les chiffres de la construction sont bas et où ils ne pouvaient pas faire face à une nouvelle hausse des coûts de construction. Cette dérogation ne constitue donc pas un recul sur l'ambition de réduction des consommations apportées par la réglementation thermique 2012 (RT 2012) mais une adaptation à la réalité de l'offre du marché. Les trois années supplémentaires vont ainsi permettre une amélioration des performances et une baisse des coûts des solutions techniques.
