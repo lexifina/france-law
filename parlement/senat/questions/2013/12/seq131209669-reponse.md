@@ -1,0 +1,9 @@
+# Réponse à la question SEQ131209669
+
+- Question : [SEQ131209669](seq131209669.md) — Conséquences de la hausse de la TVA sur les droits d'auteur
+
+## Réponse
+
+*Budget, JO du 2015-09-17, page 2182*
+
+Depuis le 1er janvier 2014, les taux de taxe sur la valeur ajoutée (TVA) sont modifiés comme suit : le taux normal est fixé à 20 % et le taux réduit de 7 % est porté à 10 %. Cette mesure, nécessaire pour redresser les finances publiques, a été effectuée tout en préservant l'accès pour nos concitoyens aux biens de première nécessité. Dans ce cadre, les cessions de droits patrimoniaux reconnus par la loi aux auteurs des œuvres de l'esprit et aux artistes-interprètes ainsi que de tous droits portant sur les œuvres cinématographiques et sur les livres sont soumis au taux de 10 % depuis le 1er janvier 2014 en application des dispositions du g de l'article 279 du code général des impôts. Le Gouvernement a déjà pris des mesures en faveur du secteur culturel et de la création artistique. En effet, le livre et les spectacles vivants sont soumis au taux de TVA de 5,5 % depuis le 1er janvier 2013. Par ailleurs, l'article 7 de la loi n° 2013-1278 du 29 décembre 2013 de finances pour 2014 s'est inscrit dans cet objectif en abaissant de 7 % à 5,5 % le taux de TVA applicable aux droits d'entrée dans les salles de cinéma ainsi que le taux applicable aux cessions de droits patrimoniaux portant sur des œuvres cinématographiques représentées au cours de séances de spectacles cinématographiques mentionnées à l'article L. 214-1 du code du cinéma et de l'image animée ou dans le cadre de festivals de cinéma à compter du 1er janvier 2014. Dans ces conditions, il n'est pas envisagé d'abaisser le taux de TVA applicable aux cessions des autres droits d'auteur, d'autant qu'il est fréquent que ces professionnels soient assujettis à la TVA, ce qui leur permet de la déduire.
