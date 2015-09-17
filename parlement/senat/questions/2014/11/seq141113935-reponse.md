@@ -1,0 +1,9 @@
+# Réponse à la question SEQ141113935
+
+- Question : [SEQ141113935](seq141113935.md) — Bilan du service de renseignements administratifs 39 39
+
+## Réponse
+
+*Réforme de l'État et simplification, JO du 2015-09-17, page 2192*
+
+Après un appel au 3939, le numéro unique de renseignement administratif, l'usager peut recevoir un aide-mémoire sur son smartphone. Le service consiste à envoyer à la fin de la conversation (via sms ou mail) une fiche personnalisée comportant la réponse complète de l'administration concernant la démarche, l'objet de l'appel, les détails d'orientation et de coordonnées concernant le guichet ou le télé-service pour accomplir la démarche et les compléments d'informations pratiques nécessaires à son bon déroulement. Lancé en juillet 2013 sur les sujets « cartes grises », le mémo est progressivement étendu à d'autres thématiques. Ainsi depuis l'été 2014, le mémo cible les questions relatives à la carte d'identité et au passeport. Une étude effectuée au cours de l'année 2014 auprès des usagers de ce service a permis d'évaluer sa pertinence et l'accueil que lui réservait le public, ainsi que l'usage qui en était fait. Le résultat de l'étude est très positif puisque le service est plébiscité par les usagers, qui encouragent à le poursuivre et à le généraliser. Ainsi, 7 usagers sur 10 s'estiment satisfaits de la réponse apportée par le 3939. Près d'un usager sur deux (44 %) se déclare même « très satisfait » de la réponse apportée. Plus de 8 usagers sur 10 ont trouvé le mémo reçu clair (83 %) et plus de la moitié (52 %) l'a trouvé « très » clair. Par ailleurs, 75 % des usagers estiment que l'envoi de mémos est utile pour accomplir leurs démarches, 47 % des usagers l'ayant même jugé « très utile ». Enfin, plus de 150 000 mémos ont été expédiés à ce jour avec une moyenne de 10 000 par mois.
