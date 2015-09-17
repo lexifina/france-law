@@ -1,0 +1,9 @@
+# Réponse à la question SEQ150717471
+
+- Question : [SEQ150717471](seq150717471.md) — Permis de conduire au Japon
+
+## Réponse
+
+*Affaires étrangères, JO du 2015-09-17, page 2181*
+
+La France et le Japon reconnaissent mutuellement les permis de conduire des usagers qui séjournent moins d'un an sur leur territoire, et pratiquent l'échange réciproque de ces titres pour les usagers qui sont installés depuis plus d'un an. Le Japon figure sur la liste des États avec lesquels la France procède à l'échange des permis de conduire, annexée à la circulaire du ministère de l'intérieur du 3 août 2012. Les titulaires de permis de conduire japonais peuvent conduire en France à l'occasion de séjours de moins d'un an, dès lors qu'ils disposent d'une traduction officielle de leur permis japonais, et réciproquement pour les titulaires de permis de conduire français au Japon, où la traduction du permis s'obtient auprès de la Japan automobile federation. Il n'est pas envisagé de proposer aux autorités japonaises de dispenser mutuellement les usagers de la nécessité de disposer de cette traduction, sans laquelle les services de police n'auraient aucun moyen de contrôler la validité et l'étendue des droits des conducteurs. À l'instar des titulaires de permis de conduire japonais en France, les usagers qui résident au Japon plus d'un an sont tenus d'y conduire avec le permis local, obtenu par examen ou par échange contre leur permis français. Ainsi, selon la durée de leur séjour, les usagers peuvent conduire directement avec leur permis accompagné d'une traduction, puis l'échanger. Le Gouvernement n'a connaissance d'aucune difficulté particulière que rencontreraient nos ressortissants au Japon à l'occasion de l'échange de leur permis français contre le titre local. Hors Union européenne et Espace économique européen, où l'échange au bout d'un an n'est pas obligatoire, il n'existe à ce jour aucun dispositif plus souple, avec quelque État que ce soit.
