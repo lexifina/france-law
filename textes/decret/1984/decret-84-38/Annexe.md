@@ -42,7 +42,7 @@ Agence nationale pour l'amélioration des conditions de travail
 
 |
 
-Emplois de catégorie A, B et C.
+Emplois de catégorie A
 
 |
 
@@ -146,15 +146,27 @@ Office national de l'eau et des milieux aquatiques
 
 |
 
-Emplois de catégorie A, B et C, à l'exception des agents de catégorie B et C chargés de la surveillance des milieux aquatiques.
+Emplois de catégorie A relatifs à l'écotoxicologie, à la chimie des milieux aquatiques et aux pollutions diffuses
 
 |
+
+Emplois de catégorie A relatifs à l'expertise du fonctionnement et de la gestion de certains écosystèmes et habitats |
+
+Emplois de catégorie A relatifs à la botanique |
+
+Emplois de catégorie A relatifs à la biologie des espèces animales et emplois de catégorie B strictement nécessaires à l'appui technique dans ce domaine |
+
+Emplois de catégorie A requérant une double compétence associant une des spécialités précédemment énumérées et la capacité de conduite de projet, notamment informatique |
+
+Emplois de catégorie A relatifs au développement et à l'intégration d'indicateurs d'état de diagnostic environnementaux dans les projets informatiques |
+
+Emplois de catégorie A relatifs à l'architecture des systèmes de gestion de données, à l'administration de données environnementales |
 
 Conservatoire de l'espace littoral et des rivages lacustres
 
 |
 
-Emplois de catégorie A.
+Emplois de catégorie A relatifs à l'acquisition et à la gestion foncière, à la gestion écologique du littoral et à la gestion intégrée des zones côtières
 
 |
 
@@ -282,7 +294,7 @@ Office national de la chasse et de la faune sauvage
 
 |
 
-Emplois de toutes catégories.
+Emplois de catégorie A relatifs à l'expertise scientifique, à la recherche et à l'appui technique en matière de faune sauvage et de ses habitats
 
 |
 
@@ -336,6 +348,6 @@ emplois requérant des compétences spécifiques en matière de gestion et d'ana
 
 |
 
-NOTA :
+Agence des aires marines protégées |
 
-Conformément à l'article 14 du décret n° 2008-1010 du 29 septembre 2008, les dispositions de l'article 7 dudit décret entrent en vigueur à la date mentionnée à l'article 9 de la loi n° 2008-126 du 13 février 2008 relative à la réforme de l'organisation du service public de l'emploi. Cette date correspond à la première réunion du conseil d'administration de l'institution prévue à l'article L. 5312-1 du code du travail. La création de pôle emploi est effective depuis le 1er janvier 2009.
+Emplois de catégories B et C nécessaires à l'information et la médiation requérant des connaissances spécialisées du patrimoine naturel et culturel mahorais |
