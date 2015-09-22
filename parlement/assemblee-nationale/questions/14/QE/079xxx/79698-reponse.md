@@ -1,0 +1,9 @@
+# Réponse à la question n° 79698
+
+- Question : [79698](79698.md) — Question n° 79698 — régie locale de production d'énergie renouvelable; profits; réglementation
+
+## Réponse
+
+*JO du 2015-09-22*
+
+L'article L. 1412-1 du code général des collectivités territoriales (CGCT) prévoit la création de régies dotées de l'autonomie financière pour la gestion des services publics locaux industriels et commerciaux (SPIC) lorsqu'une collectivité ou un groupement assure leur exploitation en régie directe. Le transfert d'un excédent de ce budget annexe vers le budget principal d'une commune est possible sous conditions. En application des articles R. 2221-48 et R. 2221-90 du CGCT, un excédent de la section de fonctionnement du budget d'un SPIC est affecté en priorité à la couverture du besoin de financement de la section d'investissement apparu à l'exercice précédent. Cette affectation est obligatoire pour les plus-values nettes de cessions. Le solde subsistant peut ensuite être employé pour des dépenses d'exploitation ou d'investissement au sein du budget annexe. Il peut également être reporté, ou bien éventuellement être reversé à la collectivité de rattachement. Il ressort de la jurisprudence administrative que les articles R. 2221-48 et R. 2221-90 n'établissent pas de hiérarchie entre les emplois possibles après la couverture du besoin de financement de la section d'investissement du budget annexe. Il n'est pas prévu actuellement d'assouplir les conditions permettant le reversement du résultat d'un budget annexe au budget principal. En effet, assouplir ces conditions reviendrait à remettre en cause les fondements du principe du budget annexe. Or, pour certaines activités comme la production d'énergie renouvelable, il est nécessaire d'individualiser les risques, d'établir des coûts exacts du service et une corrélation entre les charges du service et les redevances demandées.
