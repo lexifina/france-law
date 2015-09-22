@@ -1,0 +1,9 @@
+# Réponse à la question n° 70662
+
+- Question : [70662](70662.md) — Question n° 70662 — bénévolat; réglementation
+
+## Réponse
+
+*JO du 2015-09-22*
+
+La lettre-circulaire n° 94-61 du 18 août 1994 ACOSS relative à la situation des sportifs à l'égard de la sécurité sociale a pris acte d'une situation particulière du monde sportif : l'existence de personnes participant à l'organisation ou à l'encadrement des manifestations sportives et percevant à cette occasion des sommes modiques. En dérogation des règles du droit commun, qui imposent de considérer que ces sommes sont constitutives de rémunérations, il a été prévu que le dispositif de la franchise de cotisations s'applique. Ce dispositif permet que les sommes versées aux sportifs à l'occasion d'une manifestation sportive donnant lieu à compétition ne sont pas assujetties aux cotisations et contributions sociales, si elles n'excèdent pas un montant égal à 70 % du plafond journalier de la sécurité sociale (soit 120,4 euros en 2014). Ce dispositif vise les contributions non habituelles à l'organisation des manifestations sportives : le nombre de manifestations ouvrant droit à cette franchise est limité à 5 par mois, par sportif, par organisateur. Les éducateurs, moniteurs ainsi que les professeurs chargés de l'enseignement d'un sport ne sont pas au nombre des bénéficiaires potentiels. Si nous nous rapportons strictement à la définition d'un bénévole, c'est-à-dire une personne qui apporte son concours volontairement et sans percevoir de rémunération, la lettre-circulaire sus évoquée n'a pas vocation à s'appliquer. Il est, néanmoins, possible d'effectuer le remboursement des frais des bénévoles dans les conditions du droit commun, c'est-à-dire pour des dépenses réelles, justifiées et engagées pour les besoins de l'activité associative.
