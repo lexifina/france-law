@@ -1,0 +1,9 @@
+# Réponse à la question n° 65500
+
+- Question : [65500](65500.md) — Question n° 65500 — élus minoritaires; composition d'association; perspectives
+
+## Réponse
+
+*JO du 2015-09-22*
+
+Aucune disposition législative ou réglementaire n'interdit à un groupe d'élus ou à un candidat à une élection de créer une association. Toutefois, selon l'article L. 52-8 du code électoral « les personnes morales, à l'exception des partis ou groupements politiques, ne peuvent participer au financement de la campagne électorale d'un candidat, ni en lui consentant des dons sous quelque forme que ce soit, ni en lui fournissant des biens, services ou autres avantages directs ou indirects à des prix inférieurs à ceux qui sont habituellement pratiqués ». Le juge peut sanctionner le non-respect de ces dispositions par l'annulation de l'élection. Ainsi, si une telle association participe à la promotion d'un ou plusieurs candidats à une élection, elle pourrait contribuer, même indirectement, au financement de la campagne électorale. En effet, le Conseil d'Etat considère que le soutien explicite et constant d'une association à un candidat par le moyen de sa revue trimestrielle et de son site internet constitue une violation des dispositions de l'article L. 52-8 du code électoral (CE, 10 mars 2009, n° 317976). Toutefois, le Conseil d'Etat admet que les dépenses engagées par une association soient réintégrées dans le compte de campagne du candidat et que celle-ci puisse soutenir un candidat sans exposer aucune dépense (CE, 29 juillet 2002, n° 239383). Enfin, la création d'une telle association n'a aucune conséquence directe sur le régime des inéligibilités ou des incompatibilités. Cependant, si une association a contribué au financement d'une campagne électorale en méconnaissance des dispositions de l'article L. 52-8, le juge de l'élection pourrait déclarer le candidat concerné inéligible en application de l'article L. 118-3 du code électoral.
