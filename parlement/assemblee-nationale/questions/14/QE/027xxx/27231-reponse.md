@@ -1,0 +1,9 @@
+# Réponse à la question n° 27231
+
+- Question : [27231](27231.md) — Question n° 27231 — zones d'aménagement concerté; logement social; moins-values; péréquation
+
+## Réponse
+
+*JO du 2015-09-22*
+
+Le législateur impose aux communes situées dans des agglomérations ou des établissements publics de coopération intercommunale de plus de 50 000 habitants comprenant au moins une commune de plus de 15 000 habitants de disposer de 25 % de logements sociaux au sein des résidences principales afin de répondre aux besoins en logements des ménages. L'article L. 302-7 du code de la construction et de l'habitation prévoit en effet un prélèvement pour toutes les communes soumises à cette obligation qui n'ont pas atteint ce taux légal. Ce prélèvement peut en outre être majoré si la commune se trouve en situation de carence. Ce prélèvement annuel effectué sur le budget des communes, qu'il soit majoré ou non, est diminué des dépenses de la commune en faveur de la production d'une offre sociale, ce qui permet de ne pas pénaliser les communes volontaires. Cette mesure est très incitative en particulier lorsque le coût du foncier est cher et nécessite un effort financier d'accompagnement de la commune. En 2014, plus de 35 % des communes soumises à prélèvement n'ont pas été prélevées du fait de leurs dépenses déductibles. La réglementation énumère précisément les types de dépenses des communes en faveur du logement social qui viennent en déduction du prélèvement. Ainsi, le deuxième alinéa de l'article R. 302-16 du code de la construction et de l'habitation prévoit notamment la possibilité pour la commune de déduire les subventions qu'elle verse à un aménageur d'une zone d'aménagement concerté lorsque la charge foncière payée à l'aménageur par le maître d'ouvrage des logements sociaux est inférieure ou égale à la charge foncière moyenne pour l'ensemble de la zone.
