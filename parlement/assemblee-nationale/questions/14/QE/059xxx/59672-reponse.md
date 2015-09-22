@@ -1,0 +1,9 @@
+# Réponse à la question n° 59672
+
+- Question : [59672](59672.md) — Question n° 59672 — déplacement officiel; bilan
+
+## Réponse
+
+*JO du 2015-09-22*
+
+Le secrétaire d'Etat aux sports s'est rendu au Brésil du 24 au 30 juin 2014 à l'occasion de la coupe du Monde de la FIFA. Il y a assisté aux matchs de l'équipe de France face à l'Equateur et au Nigéria au cours desquels il a pu échanger sur les conditions d'organisation de la compétition et d'accompagnement des supporters français, avec les représentants de la Fédération Française de Football et de l'Ambassade de France. Il a notamment visité la « Casa bleue » de Rio, lieu d'accueil des supporters français. Le secrétaire d'Etat chargé des sports a également rencontré plusieurs délégations d'entreprises françaises du secteur de l'équipement et des services sportifs et a participé à un séminaire de la mission UBIFRANCE. Il a salué les excellents résultats enregistrés par les entreprises françaises du secteur sportif sur le marché mondial, et leur contribution à l'attractivité de la France dans l'accueil et l'organisation de grands événements sportifs. Le déplacement s'est également articulé autour de la préparation des Jeux Olympiques et Paralympiques de Rio 2016. Il a ainsi assisté à une réunion avec le comité Rio 2016 pour une présentation du projet olympique. Le secrétaire d'Etat a visité plusieurs installations des prochains Jeux Olympiques, notamment le lieu pressenti pour accueillir le Club France et a rencontré M. Carlos NUZMAN, Président du Comité Olympique Brésilien et du Comité d'Organisation des Jeux de Rio 2016. Une rencontre avec la coordination générale pour les échanges et la coordination sportive, organe du Ministère des Affaires Étrangères brésiliens, a enfin permis d'aborder les politiques de coopération à l'occasion des grands événements sportifs que la France et le Brésil pourront développer dans les années à venir.
