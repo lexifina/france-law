@@ -1,0 +1,9 @@
+# Réponse à la question n° 82081
+
+- Question : [82081](82081.md) — Question n° 82081 — commissions administratives à caractère consultatif; missions; pertinence
+
+## Réponse
+
+*JO du 2015-09-22*
+
+La question de l'opportunité du renouvellement de la commission des usagers du port pour le service du remorquage portuaire a fait l'objet d'un examen approfondi dans le cadre des travaux préparatoires à l'élaboration du décret n° 2015-622 du 5 juin 2015 relatif à certaines commissions administratives à caractère consultatif relevant du ministre de l'écologie, du développement durable et de l'énergie. À cette occasion, il est apparu que cette instance jouait un rôle fondamental dans la fixation des tarifs et la définition des modalités d'exercice du service du remorquage dans chaque place portuaire. En effet, ces commissions, constituées dans chaque port maritime de commerce, sont composées de représentants des armateurs et des consignataires de navires, de représentants des instances de gouvernance de l'établissement portuaire ou du concessionnaire de l'outillage du port, et des principaux usagers du port. Les entreprises exploitant un service de remorquage dans la circonscription du port soumettent leurs projets de tarifs, accompagnés des modalités d'exécution du service et des moyens mis en oeuvre, à la commission des usagers du port pour avis. En cas d'avis favorable de la commission, le projet est applicable dès sa transmission au préfet. Dans le cas contraire, le préfet dispose d'un délai de 15 jours pour s'y opposer. Ces commissions sont donc absolument indispensables à la fixation de tarifs et de conditions de service du remorquage adaptées à chaque place portuaire, selon une procédure réellement concertée. La mission qui leur est impartie n'est susceptible d'être assurée par aucune autre commission existante.
