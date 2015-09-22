@@ -1,0 +1,9 @@
+# Réponse à la question n° 83483
+
+- Question : [83483](83483.md) — Question n° 83483 — instances consultatives; coût de fonctionnement
+
+## Réponse
+
+*JO du 2015-09-22*
+
+La décision 2009/750 CE relative à la définition du service européen de télépéage (SET) et à ses aspects techniques prévoit dans son article 10 que « chacun des États membres ayant au moins un secteur de SET désigne ou institue un organe de conciliation afin de faciliter la médiation entre les percepteurs de péages disposant d'un secteur à péage situé sur son territoire et les prestataires du SET liés par contrat ou en cours de négociations contractuelles avec ces percepteurs de péages. L'organe de conciliation est en particulier habilité à examiner si les conditions contractuelles appliquées par un percepteur de péages à différents prestataires du SET sont non discriminatoires et reflètent de manière équitable les coûts et risques des parties au contrat. ». La création de cet organe de conciliation résulte donc d'une obligation communautaire à laquelle nul ne saurait se soustraire. Le décret n° 2012-645 du 3 mai 2012 organisant une commission de conciliation du télépéage prévoit dans son article 2 que « la Commission de conciliation (soit) constituée d'un président et de cinq membres choisis parmi les membres permanents du conseil général de l'environnement et du développement durable (...) ». L'installation de cette commission n'a donc pas donné lieu à la création d'une nouvelle entité administrative mais correspond à un élargissement de la mission du conseil susmentionné. Aucun budget spécifique n'est attribué à cette commission, étant entendu que les indemnités de déplacement et de vacations des experts et des tiers éventuels seront directement supportées par les entreprises sollicitant l'intervention de la commission. En 2014, la Commission de conciliation n'a pas été sollicitée.
