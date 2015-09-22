@@ -1,0 +1,9 @@
+# Réponse à la question n° 79038
+
+- Question : [79038](79038.md) — Question n° 79038 — formation continue; Cour des comptes; rapport; recommandations
+
+## Réponse
+
+*JO du 2015-09-22*
+
+Afin de favoriser le développement professionnel des personnels, et d'en faire une dimension à part entière du métier conformément à ce qui apparaît au titre de la compétence 14 du référentiel de compétences des professeurs et personnels d'éducation, fixé par l'arrêté du 1er juillet 2013, plusieurs leviers sont activés. En premier lieu, pour faciliter l'accès à la formation, tout en répondant à des aspirations différentes, un large travail est engagé en matière de diversification des modalités de formation. Ont été développés dans ce cadre, les parcours M@gistère. De même, de nouvelles ressources sont en cours d'élaboration pour accompagner, notamment la mise en oeuvre des nouveaux programmes. Ainsi, avant la fin de l'année scolaire une mosaïque de ressources portant sur la maternelle sera accessible sur le site Eduscol. Par ailleurs, l'accent est mis au national sur la formation de formateurs pour irriguer plus largement et avec efficacité en académie selon les périmètres les plus opportuns : bassins, circonscriptions, écoles établissements... Au-delà, l'investissement des personnels dans des formations lourdes pour acquérir des compétences spécifiques donnent lieu désormais à une reconnaissance via une procédure de certification. Enfin, d'ores et déjà, quelques écoles du professorat et de l'éducation expérimentent la délivrance de crédits ECTS pour des personnels inscrits dans le cadre de la formation continue sur des unités d'enseignement répondant à leurs aspirations personnelles. Une réflexion conjointe de la direction générale de l'enseignement scolaire, de la direction générale des ressources humaines et de la direction générale de l'enseignement supérieur et de l'insertion professionnelle est en cours pour faciliter cette logique de diplômation.
