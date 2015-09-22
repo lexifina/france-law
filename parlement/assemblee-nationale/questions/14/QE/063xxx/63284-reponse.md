@@ -1,0 +1,9 @@
+# Réponse à la question n° 63284
+
+- Question : [63284](63284.md) — Question n° 63284 — certificats de résident algérien; conditions d'attribution; réglementation
+
+## Réponse
+
+*JO du 2015-09-22*
+
+Afin de faciliter la circulation des ressortissants étrangers qui retournent dans leur pays à l'âge de la retraite, après avoir séjourné régulièrement sur le territoire national sous couvert d'une carte de résident, la loi n° 98-349 du 11 mai 1998 a instauré une carte de séjour spécifique portant la mention « retraité ». Ce dispositif a été introduit à l'article 18 bis de l'ordonnance du 2 novembre 1945, aujourd'hui codifié à l'article L. 317-1 du code de l'entrée et du séjour des étrangers et du droit d'asile (CESEDA). L'une des conditions de délivrance de la carte de séjour « retraité » prévue par l'article L. 317-1 est que l'étranger doit justifier avoir séjourné en France sous couvert d'une carte de résident. L'accord franco-algérien du 27 décembre 1968, dans sa rédaction modifiée par le troisième avenant du 11 juillet 2001, a également instauré pour les ressortissants algériens retraités, à l'article 7 ter, la délivrance d'un certificat de résidence portant la mention « retraité ». L'accès à la carte « retraité » étant soumis, dans le CESEDA, à la détention préalable d'une carte de résident de dix ans, le troisième avenant à l'accord franco-algérien, adopté le 11 juillet 2001, qui intègre cette nouvelle catégorie, n'a retenu comme équivalence que le certificat de résidence de dix ans et non de cinq ans. Un choix différent aurait créé une rupture d'égalité entre les ressortissants Algériens et les autres ressortissants étrangers, les titres de cinq ans n'ayant existé que pour les premiers. Au surplus, les certificats de résidence pour Algériens de cinq ans ayant été supprimés lors de l'adoption du premier avenant, le 22 décembre 1985, le nombre d'Algériens concernés par cette question est appelé à décroître.
