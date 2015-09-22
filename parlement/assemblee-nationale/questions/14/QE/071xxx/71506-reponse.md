@@ -1,0 +1,9 @@
+# Réponse à la question n° 71506
+
+- Question : [71506](71506.md) — Question n° 71506 — agressions; lutte et prévention
+
+## Réponse
+
+*JO du 2015-09-22*
+
+Les sapeurs-pompiers ne sont pas épargnés par les agressions dont sont victimes les forces de sécurité. Selon les données publiées par l'observatoire national de la délinquance et des réponses pénales, 1 569 sapeurs-pompiers ont été victimes d'une agression au cours d'une intervention et en moyenne pour 10 000 interventions effectuées, 3,7 sapeurs-pompiers ont été agressés en 2013. Deux-tiers de ces faits déclarés ont donné lieu à un dépôt de plainte. Tous les départements sont concernés, y compris les départements ruraux où la progression du nombre d'agression ces dernières années est la plus forte. Ces faits sont commis majoritairement lors de la distribution des secours au quotidien, notamment, à l occasion de missions de secours aux personnes intervenant suite à des différends familiaux, de voisinage ou des accidents de la circulation où bien souvent la consommation d'alcool ou de produits stupéfiants est présente. Les faits de violences urbaines visant les sapeurs-pompiers ne constituent qu'une partie des agressions. Afin de prévenir ces faits, le ministre de l Intérieur, par circulaire relative à la prévention et à la lutte contre les agressions visant les sapeurs-pompiers adressée le 30 mars dernier aux préfets a demandé ma mise en place de protocoles entre le service départemental d incendie et de secours (SDIS), la direction départementale de la sécurité publique (DDSP) et le groupement de gendarmerie départementale (GGD). Ces protocoles permettent d affirmer leur volonté commune de prévenir ces agressions par une parfaite coordination de leurs interventions, de faciliter le dépôt des plaintes et de créer les conditions permettant d'identifier les auteurs des agressions afin de permettre à la Justice de les sanctionner.
