@@ -1,0 +1,9 @@
+# Réponse à la question n° 78274
+
+- Question : [78274](78274.md) — Question n° 78274 — centrales nucléaires; sous-traitance; sécurité
+
+## Réponse
+
+*JO du 2015-09-22*
+
+Le droit de recourir à des prestataires fait partie intégrante de la liberté du commerce et de l'industrie, y compris pour les exploitants d'installations nucléaires de base (INB), et est pertinent dans de nombreuses situations, pour des raisons économiques mais également de sûreté (pour certaines opérations très spécifiques, le recours aux meilleurs spécialistes est a priori gage de qualité). Toutefois, certaines limites sont posées par l'arrêté du 7 février 2012 fixant les règles générales relatives aux installations nucléaires de base (« arrêté INB ») : - l'exploitant nucléaire doit assurer lui-même une surveillance très encadrée de ses prestataires réalisant des opérations importantes pour la sûreté ; - l'exploitant doit disposer des compétences techniques pour comprendre et s'approprier de manière pérenne les fondements de son activité nucléaire et doit disposer des capacités techniques suffisantes pour prendre toute disposition conservatoire en cas d'urgence. En outre, dans le cadre du comité stratégique de la filière nucléaire (CSFN) dont le Commissariat à l'énergie atomique et aux énergies alternatives (CEA) fait partie, la filière a mis en place un « cahier des charges social », qui fait apparaître des avancées importantes : - limitation de la sous-traitance en cascade à trois niveaux ; - amélioration des conditions de travail et de séjour autour des sites nucléaires ; - mesures favorisant le maintien de l'emploi lors de renouvellement des contrats. Enfin, la loi relative à la transition énergétique pour la croissance verte comporte des dispositions visant à renforcer l'encadrement de la sous-traitance dans le secteur nucléaire. Un décret d'application spécifique est d'ailleurs prévu en ce sens.
