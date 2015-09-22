@@ -1,0 +1,9 @@
+# Réponse à la question n° 81944
+
+- Question : [81944](81944.md) — Question n° 81944 — droit individuel à la formation; perspectives
+
+## Réponse
+
+*JO du 2015-09-22*
+
+Le droit individuel à la formation (DIF) permet aux agents titulaires et non titulaires de la fonction publique de suivre des formations continues inscrites à un plan de formation et destinées à assurer l'adaptation à l'évolution des métiers, le développement des qualifications ou l'acquisition de nouvelles qualifications. Il peut également être utilisé pour suivre des préparations aux concours et examens professionnels de la fonction publique, effectuer des bilans de compétence ou engager une validation des acquis de l'expérience (VAE). A l'heure actuelle, le DIF ne fait l'objet d'un financement spécifique dans aucun des trois versants de la fonction publique. Les demandes de recours au DIF relèvent donc du financement propre à chacun des plans de formation. En ce qui concerne la fonction publique de l'État, le financement des actions relevant du DIF s'effectue au moyen des crédits inscrits sur les budgets des différents ministères (titre III). Pour les personnels territoriaux, les plans de formation sont principalement mis en oeuvre par le Centre national de la fonction publique territoriale (CNFPT). Pour la fonction publique hospitalière, l'Association nationale pour la formation permanente des personnels hospitaliers (ANFH) est reconnue comme Organisme paritaire collecteur agréé. Tous les établissements sanitaires, médico-sociaux et sociaux employant du personnel de la fonction publique hospitalière sont tenus de consacrer 2,1 % de leur masse salariale au financement de la formation professionnelle de leurs agents. Plus de 90 % de ces établissements ont fait le choix de mutualiser ces financements en adhérant à l'ANFH.
