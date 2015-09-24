@@ -24,7 +24,7 @@ Une attestation de présence du travailleur à l'intégralité des enseignements
 
 -le type de l'entité qui a dispensé la formation (employeur, organisme de formation ou organisme de formation certifié).
 
-2° Pour les activités relevant de l'article R. 4412-114, l'attestation de compétence précise en outre :
+2° Pour les activités relevant du 1° de l'article R. 4412-94, l'attestation de compétence précise en outre :
 
 -le nom, la raison sociale et l'adresse de l'organisme de formation certifié ;
 
@@ -44,7 +44,7 @@ Une attestation de présence du travailleur à l'intégralité des enseignements
 
 -le nom et la qualité des intervenants spécialisés.
 
-3° Pour les activités relevant de l'article R. 4412-139, lorsque la formation a été dispensée par un organisme de formation, l'attestation de compétence précise en outre :
+3° Pour les activités relevant du 2° de l'article R. 4412-94, lorsque la formation a été dispensée par un organisme de formation, l'attestation de compétence précise en outre :
 
 -le nom, la raison sociale et l'adresse de l'organisme de formation ;
 
@@ -56,7 +56,7 @@ Une attestation de présence du travailleur à l'intégralité des enseignements
 
 -le nom et la qualité des intervenants spécialisés.
 
-4° Pour les activités relevant de l'article R. 4412-139, lorsque la formation a été dispensée par l'employeur, l'attestation de compétence précise en outre :
+4° Pour les activités relevant du 2° de l'article R. 4412-94, lorsque la formation a été dispensée par l'employeur, l'attestation de compétence précise en outre :
 
 -le nom, la raison sociale et l'adresse de l'entreprise ;
 

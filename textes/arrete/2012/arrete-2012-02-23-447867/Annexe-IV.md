@@ -2,7 +2,7 @@
 
 MODALITÉS D'ÉVALUATION DES COMPÉTENCES
 
-A.-Activités visées par l'article R. 4412-114.
+A.-Activités visées par le 1° de l'article R. 4412-94.
 
 L'évaluation de la formation préalable et de la formation de recyclage porte sur l'ensemble des prescriptions minimales de formation théoriques et pratiques définies aux annexes I et II du présent arrêté, son niveau d'exigence est proportionnel au niveau de compétence pour lequel le stagiaire est inscrit dans la formation, elle est établie suivant un programme réalisé par l'organisme de formation certifié et elle est assurée par un formateur dont les critères sont définis au point 3.2 de l'annexe VII du présent arrêté.
 
@@ -116,7 +116,7 @@ b) Les modalités de l'évaluation de la formation de premier recyclage du perso
 
 -une évaluation pratique de dix minutes en continu est élaborée à partir d'un entretien oral du stagiaire avec le formateur et portant sur la description de l'un ou plusieurs points visés pour l'évaluation pratique de la formation préalable ou la formation de recyclage.
 
-B.-Activités visées par l'article R. 4412-139.
+B.-Activités visées par le 2° de l'article R. 4412-94.
 
 L'évaluation porte sur les aspects théoriques et pratiques définis aux annexes I et II du présent arrêté. Son niveau d'exigence est adapté au niveau de compétence pour lequel le stagiaire est inscrit dans la formation.
 

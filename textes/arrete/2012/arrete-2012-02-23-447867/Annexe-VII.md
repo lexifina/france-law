@@ -1,6 +1,6 @@
 # Article Annexe VII
 
-RÉFÉRENTIEL TECHNIQUE POUR LA CERTIFICATION DES ORGANISMES ASSURANT LA FORMATION DES TRAVAILLEURS À LA PRÉVENTION DES RISQUES LIÉS À L'AMIANTE EN VUE DE L'EXERCICE DES ACTIVITÉS RELEVANT DE L'ARTICLE R. 4412-114 DU CODE DU TRAVAIL
+RÉFÉRENTIEL TECHNIQUE POUR LA CERTIFICATION DES ORGANISMES ASSURANT LA FORMATION DES TRAVAILLEURS À LA PRÉVENTION DES RISQUES LIÉS À L'AMIANTE EN VUE DE L'EXERCICE DES ACTIVITÉS RELEVANT DU 1° DE L'ARTICLE R. 4412-94 DU CODE DU TRAVAIL
 
 1. Renseignements administratifs, juridiques et économiques.
 
@@ -34,9 +34,9 @@ Sur les trois derniers exercices ou depuis la création de l'organisme de format
 
 -chiffre d'affaires dans l'activité de formation à la prévention des risques liés à l'amiante (si l'entreprise a déjà une activité dans ce domaine) dont :
 
--formation pour les activités relevant de l'article R. 4412-114 ;
+-formation pour les activités relevant du 1° de l'article R. 4412-94 ;
 
--formation pour les activités relevant de l'article R. 4412-139.
+-formation pour les activités relevant du 2° de l'article R. 4412-94.
 
 1.4. Données sociales et fiscales.
 
@@ -54,7 +54,7 @@ Sur les trois derniers exercices ou depuis la création de l'organisme de format
 
 -nombre d'heures effectuées au total, nombre d'heures effectuées dans le cadre de l'activité formation amiante ;
 
--nombre de stagiaires en fonction des activités visées aux articles R. 4412-114 et R. 4412-139 et en fonction de la nature de la formation délivrée (préalable, premier recyclage, recyclage) ;
+-nombre de stagiaires en fonction des activités visées à l'article R. 4412-94 et en fonction de la nature de la formation délivrée (préalable, premier recyclage, recyclage) ;
 
 -déclaration annuelle des données sociales (DADS).
 

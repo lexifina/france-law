@@ -4,7 +4,7 @@ TABLEAU RÉCAPITULATIF DES DURÉES ET DÉLAIS DE FORMATION
 
 EN FONCTION DE LA QUALIFICATION DES TRAVAILLEURS
 
-1. Activités définies à l'article R. 4412-114 du code du travail
+1. Activités définies au 1° de l'article R. 4412-94 du code du travail
 
 |
 
@@ -86,7 +86,7 @@ Personnel opérateur de chantier
 
 |
 
-2. Activités définies à l'article R. 4412-139 du code du travail
+2. Activités définies au 2° de l'article R. 4412-94 du code du travail
 
 |
 
