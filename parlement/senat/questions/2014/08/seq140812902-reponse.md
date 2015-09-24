@@ -1,0 +1,9 @@
+# Réponse à la question SEQ140812902
+
+- Question : [SEQ140812902](seq140812902.md) — Impact de la réforme de l'État
+
+## Réponse
+
+*Réforme de l'État et simplification, JO du 2015-09-24, page 2258*
+
+Conformément aux communications présentées lors des Conseils des ministres des 2 juillet et 10 septembre 2014, la réforme des collectivités territoriales doit conduire l'État, en parallèle, à ajuster ses organisations et à se poser la question des missions qu'il doit exercer, notamment dans les territoires, en veillant à l'égalité d'accès au service public de toutes les populations, à l'efficacité de son action et à la qualité de travail de ses agents. La revue des missions doit conduire à des améliorations tangibles : amélioration du service rendu, notamment des délais de décision, simplification des compétences et des procédures, recentrage des services sur les priorités de l'action gouvernementale. Pour ce faire, elle a été conçue en intégrant les attentes et les besoins des acteurs et des bénéficiaires : collectivités territoriales, entreprises, usagers et/ou associations d'usagers, agents de l'État. En particulier, la revue des missions vient de se tenir dans 14 territoires, en plein accord avec les collectivités territoriales qui sont les principaux partenaires de l'État sur les territoires. Concernant plus spécifiquement l'évolution des emplois publics, le comité interministériel pour la modernisation de l'action publique du 17 juillet 2013 a décidé que la répartition des effectifs de l'État sera réalisée de manière équitable et différenciée entre les échelons centraux, régionaux et départementaux, en préservant les services départementaux. L'objectif poursuivi par l'ensemble des réformes est donc de conforter l'État dans son rôle de proximité, en particulier en milieu rural.
