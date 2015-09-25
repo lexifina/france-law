@@ -8,14 +8,6 @@ PROGRAMME
 
 |
 
-Direction générale de l'armement
-
-|
-
-P. 144, P. 146, P. 178, P. 191, P. 212, P. 762
-
-|
-
 Direction générale de la sécurité extérieure
 
 |

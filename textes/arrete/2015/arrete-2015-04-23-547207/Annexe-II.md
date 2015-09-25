@@ -248,7 +248,7 @@ P. 212, P. 902
 
 |
 
-Directeur du service de l'exécution budgétaire et des comptabilités des opérations d'armement
+Directeur du service de l'exécution financière, de la gestion logistique des biens et des comptabilités
 
 |
 
