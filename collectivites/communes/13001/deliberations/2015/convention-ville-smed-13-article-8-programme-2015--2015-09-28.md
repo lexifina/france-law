@@ -1,0 +1,10 @@
+# Aix-en-Provence : délibération — CONVENTION VILLE / SMED 13 - ARTICLE 8 - PROGRAMME 2015 - ENFOUISSEMENT DES RESEAUX DE DISTRIBUTION PUBLIQUE D'ENERGIE ELECTRIQUE ET RESEAUX TELEPHONIQUES - RUES DE LA POUDRIERE, SAINT LAZARE ET MARTINO DELPLAT
+
+- Collectivité : Aix-en-Provence
+- SIREN : 211300017
+- Code INSEE : 13001
+- Date : 2015-09-28
+- Séance : Conseil Municipal 1CA
+- Objet : CONVENTION VILLE / SMED 13 - ARTICLE 8 - PROGRAMME 2015 - ENFOUISSEMENT DES RESEAUX DE DISTRIBUTION PUBLIQUE D'ENERGIE ELECTRIQUE ET RESEAUX TELEPHONIQUES - RUES DE LA POUDRIERE, SAINT LAZARE ET MARTINO DELPLAT
+- Acte publié : http://eadm.mairie-aixenprovence.fr/delibinternet/delib-7042-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/liste-des-deliberations-aix-en-provence@aix-en-provence
