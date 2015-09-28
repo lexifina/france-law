@@ -1,0 +1,10 @@
+# Aix-en-Provence : délibération — NOUVEAU LOGIS PROVENÇAL - OPERATION CROUS : CONSTRUCTION DE 120 LOGEMENTS ETUDIANTS AU JAS DE BOUFFAN - EMPRUNT PLS DE 3 484 205 ' A SOUSCRIRE AUPRES DE LA CAISSE DES DEPOTS ET CONSIGNATIONS - DEMANDE DE GARANTIE DE LA VILLE A HAUTEUR DE 45 %
+
+- Collectivité : Aix-en-Provence
+- SIREN : 211300017
+- Code INSEE : 13001
+- Date : 2015-09-28
+- Séance : Conseil Municipal 1CA
+- Objet : NOUVEAU LOGIS PROVENÇAL - OPERATION CROUS : CONSTRUCTION DE 120 LOGEMENTS ETUDIANTS AU JAS DE BOUFFAN - EMPRUNT PLS DE 3 484 205 ' A SOUSCRIRE AUPRES DE LA CAISSE DES DEPOTS ET CONSIGNATIONS - DEMANDE DE GARANTIE DE LA VILLE A HAUTEUR DE 45 %
+- Acte publié : http://eadm.mairie-aixenprovence.fr/delibinternet/delib-7006-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/liste-des-deliberations-aix-en-provence@aix-en-provence
