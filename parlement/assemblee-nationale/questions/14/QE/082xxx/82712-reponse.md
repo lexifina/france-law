@@ -1,0 +1,9 @@
+# Réponse à la question n° 82712
+
+- Question : [82712](82712.md) — Question n° 82712 — centres d'essais DGA; attributions
+
+## Réponse
+
+*JO du 2015-09-29*
+
+Conformément aux prérogatives confiées à la direction générale de l'armement (DGA) par l'instruction générale du 26 mars 2010 relative au déroulement et la conduite des opérations d'armement, les centres de la direction technique de la DGA compétents dans le domaine de l'évaluation des matériels navals réalisent des actions qui concourent à la qualification des systèmes d'armes livrés aux forces. Le centre DGA Techniques navales a pour mission d'expertiser les plates-formes navales de surface et sous-marines, les systèmes de combat navals, les drones sous-marins et de surface, ainsi que les signatures acoustiques et électromagnétiques des navires de surface et des sous-marins. L'établissement DGA Techniques hydrodynamiques est pour sa part spécialisé dans les études en matière d'hydrodynamique et d'hydroacoustique navales, de comportement des structures des navires soumis aux sollicitations de la houle et d'évaluation des trajectoires sous-marines. La commission permanente des programmes et des essais (CPPE) est quant à elle une structure de la marine nationale rassemblant une quinzaine de personnes, chargée d'émettre, en s'appuyant sur l'expertise d'autres services du ministère de la défense et notamment de la DGA, un avis à l'attention du chef d'état-major de la marine portant sur l'intégration d'un navire à la flotte pour service actif. A cet effet, la commission se fait présenter l'état technique des nouveaux bâtiments et s'assure que les équipages constitués par la marine nationale sont aptes à mener les navires et à accomplir les missions prévues. L'intervention de la CPPE constitue une spécificité caractérisant la conduite des programmes réalisés au profit de la marine nationale. Elle s'inscrit en marge de l'instruction générale du 26 mars 2010 précitée.
