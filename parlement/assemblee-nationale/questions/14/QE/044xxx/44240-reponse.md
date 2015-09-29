@@ -1,0 +1,9 @@
+# Réponse à la question n° 44240
+
+- Question : [44240](44240.md) — Question n° 44240 — représentation corporelle; réglementation
+
+## Réponse
+
+*JO du 2015-09-29*
+
+La loi pour l'égalité entre les femmes et les hommes du 4 août 2014 comporte plusieurs articles visant à lutter contre les stéréotypes de genre et l'hypersexualisation. Ainsi les « concours de beauté » de petites filles de moins de treize ans sont désormais interdits et sont soumis à autorisation préalable pour les plus de treize ans. En outre, le conseil supérieur de l'audiovisuel (CSA) veillera à la télévision à une juste représentation des femmes, à la promotion de l'égalité entre les femmes et les hommes ainsi qu'à la lutte contre les stéréotypes sexistes et la diffusion d'images violentes et dégradantes. Précédemment, en 2012, le ministère en charge de la famille avait signé avec le CSA et les représentants de la presse écrite une charte de protection des mineurs dans les médias. Cette charte comporte plusieurs articles visant à lutter contre le phénomène d'hypersexualisation. Ainsi, les signataires s'engagent notamment à ne pas diffuser d'images hypersexualisées d'enfants, y compris dans les encarts publicitaires, et à ne pas diffuser de stéréotypes comportementaux sexistes. Concernant la diffusion de vidéoclips à la télévision, le CSA est l'autorité chargée de veiller à la classification de ceux-ci par tranches d'âge selon les critères de violence, de sexe ou d'atteinte à la dignité humaine. Ainsi, certains clips ont été classés « - 16 ans » ou « - 18 ans ». En conséquence, un pictogramme correspondant est affiché en permanence pendant leur diffusion et les chaînes ne peuvent les diffuser avant minuit. Il est à noter que cela ne concerne que quelques vidéoclips dans l'année et que les chaînes veillent au bon respect de la recommandation du CSA.
