@@ -1,0 +1,9 @@
+# Réponse à la question n° 83504
+
+- Question : [83504](83504.md) — Question n° 83504 — instances consultatives; coût de fonctionnement
+
+## Réponse
+
+*JO du 2015-09-29*
+
+Conformément à un arrêté du 30 juin 2003, la commission interministérielle de contrôle, organisme relevant du Premier ministre, a pour mission de veiller à la sécurité des personnes et des biens, lors de la manifestation aérienne organisée sur l'aéroport du Bourget dans le cadre du salon international de l'aéronautique et de l'espace qui se tient tous les deux ans. Cette commission est ainsi amenée à suivre la préparation et le déroulement de chaque salon aéronautique, puis à établir un rapport contenant ses observations, dont elle rend le Premier ministre destinataire. Présidée, sur nomination du Premier ministre, par l'officier général chargé des affaires nucléaires, de la sécurité aérienne et de la navigabilité de l'état-major de l'armée de l'air, la commission interministérielle de contrôle comprend, en outre, un représentant de chacun des ministres chargés de la défense, de l'intérieur et de l'aviation civile. La commission se réunit sur convocation de son président, à l'occasion de chaque édition du salon international de l'aéronautique et de l'espace. L'avant-dernière édition s'étant déroulée en 2013, la commission ne s'est à nouveau réunie qu'en 2015. La préparation, le déroulement et le bilan du salon international de l'aéronautique et de l'espace, qui s'est tenu du 15 au 21 juin 2015, ont donné lieu à plusieurs réunions ainsi qu'à une activité soutenue de cette instance. Enfin, l'organisme ne dispose d'aucun moyen propre, financier ou humain, pour assurer son fonctionnement. L'organisation et le suivi des réunions sont pris en charge par le secrétariat de l'officier général chargé des affaires nucléaires, de la sécurité aérienne et de la navigabilité de l'état-major de l'armée de l'air.
