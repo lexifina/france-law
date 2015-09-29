@@ -1,0 +1,9 @@
+# Réponse à la question n° 83630
+
+- Question : [83630](83630.md) — Question n° 83630 — instances consultatives; coût de fonctionnement
+
+## Réponse
+
+*JO du 2015-09-29*
+
+La commission consultative paritaire nationale des baux ruraux (CCPNBR), qui siège auprès du ministre de l'agriculture, de l'agroalimentaire et de la forêt, porte-parole du Gouvernement est chargée de donner son avis, en matière de statut du fermage, sur les affaires qui lui sont soumises en application de l'article L. 411-11 du code rural et de la pêche maritime. Depuis l'entrée en vigueur de la loi de modernisation de l'agriculture et de la pêche n° 2010-874 du 27 juillet 2010, son rôle a beaucoup diminué dans la mesure où sa consultation n'est plus requise en matière d'indexation des fermages. De même, sa mission d'arbitre entre le préfet et la commission consultative départementale des baux ruraux en cas de différend pour l'indexation départementale des loyers a été supprimée. Désormais, l'indice national des fermages et sa variation sont constatés annuellement par un arrêté du ministre en charge de l'agriculture, sans que la CCPNBR intervienne. Le dernier arrêté ministériel, en date du 20 juillet 2015, a été publié au Journal officiel du 24 juillet 2015. Il ne lui est donc plus imparti qu'un rôle consultatif en cas de difficulté pour la fixation des minima et maxima de loyers au plan local, étant rappelé qu'en tout état de cause, le préfet décidera en dernier ressort. Dans ce contexte, cette commission n'a pas été réunie ces dernières années. Sa composition, prévue par l'article R. 414-5 du code rural et de la pêche maritime, comprend une trentaine de membres. S'agissant d'une instance de consultation, la CCPNBR n'est pas dotée de moyens financiers particuliers et les frais de déplacement de ses membres sont réglés selon les dispositions générales en vigueur.
