@@ -1,0 +1,9 @@
+# Réponse à la question n° 34157
+
+- Question : [34157](34157.md) — Question n° 34157 — adhésion obligatoire; conséquences
+
+## Réponse
+
+*JO du 2015-09-29*
+
+Les réseaux de soins doivent permettre aux assurés de bénéficier, du fait du pouvoir de marché des organismes complémentaires, d'une amélioration du rapport qualité / prix et des services offerts par un certain nombre de prestataires, notamment en matière d'optique. La proposition de loi n° 296 déposée par le député Bruno Le Roux au nom des membres du groupe socialiste, républicain et citoyen a été définitivement adoptée par l'Assemblée nationale le 16 décembre 2013. Elle est désormais devenue la loi du 27 janvier 2014 relative aux modalités de mise en oeuvre des conventions conclues entre les organismes d'assurance maladie complémentaire et les professionnels, établissements et services de santé. Cette loi prévoit que l'adhésion des professionnels, établissements ou services à ces conventions s'effectue sur la base de critères objectifs, transparents et non discriminatoires et que l'adhésion ne peut comporter de clause d'exclusivité. Tout professionnel, établissement ou service répondant aux critères mentionnés peut adhérer à la convention, à l'exception des conventions concernant la profession d'opticien-lunetier, qui peuvent prévoir un nombre limité d'adhésions. La loi encadre par ailleurs le champ de ces conventions : - d'une part, elle prévoit que, pour les professionnels de santé autres que celles pour lesquelles la prise en charge par l'assurance maladie est minoritaire, les conventions ne peuvent comporter de stipulations tarifaires relatives aux actes et prestations ; - d'autre part, elle prévoit que e niveau de la prise en charge des actes et prestations médicaux par les organismes complémentaires ne peut être modulé en fonction du choix de l'assuré de recourir ou non à un médecin ayant conclu une convention avec ces organismes.
