@@ -1,0 +1,9 @@
+# Réponse à la question n° 73983
+
+- Question : [73983](73983.md) — Question n° 73983 — espaces aériens; violations; perspectives
+
+## Réponse
+
+*JO du 2015-09-29*
+
+La législation internationale découpe l'espace aérien en de multiples zones. Il est donc possible pour un aéronef d'évoluer sans contrainte jusqu'aux limites des eaux territoriales d'un pays tiers en application de la Convention relative à l'aviation civile internationale, dite Convention de Chicago, signée le 7 décembre 1944, notamment de son article 3 pour ce qui concerne les aéronefs militaires. En revanche, la posture de sureté, propre à chacun des États signataires, permet l'identification d'appareils inconnus largement au-delà des limites nationales. Le ministère français de la défense, aux côtés de ses homologues des États membres de l'UE et de l'OTAN, est régulièrement informé des mesures de surveillance adoptées lors des exercices et manoeuvres effectués par des États tiers et dispose de tous les instruments nécessaires afin d'éviter toute atteinte à la souveraineté de l'État, tant dans ses espaces aériens que dans ses eaux territoriales. Ainsi, la coordination franco-britannique d'identification et d'accompagnement de ces aéronefs russes par la Royal Air Force, puis par nos chasseurs, procède de manoeuvres actives de sécurité aérienne. Les pilotes des appareils russes ont donc été interrogés sur leurs intentions selon les procédures en vigueur. La réactivité et l'efficacité de nos forces lors de cet événement s'inscrivent dans la posture permanente de sureté aérienne adoptée par la France, qui vise à réagir à tout événement se déroulant en vol. L'objectif de ce dispositif étant de faire respecter la souveraineté nationale dans l'espace aérien français et d'assurer la défense du territoire contre toute menace aérienne. Dans ce contexte, il peut être précisé que, en 2015, aucune incursion d'aéronef militaire non autorisé n'a eu lieu dans le ciel français.
