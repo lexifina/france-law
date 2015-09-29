@@ -1,0 +1,9 @@
+# Réponse à la question n° 78446
+
+- Question : [78446](78446.md) — Question n° 78446 — visas; Union européenne; réglementation
+
+## Réponse
+
+*JO du 2015-09-29*
+
+La France soutient pleinement le processus de rapprochement européen dans lequel est engagé le Kosovo et qui le conduira notamment à terme à obtenir une levée de l'obligation de visas de court séjour vers l'espace Schengen. Elle sait toute l'importance que revêt la levée de cette obligation pour les ressortissants kosovars et les bénéfices mutuels qui pourraient en résulter. C'est la raison pour laquelle elle a accepté, en décembre 2011, le lancement d'un dialogue sur la libéralisation des visas sous l'égide de la Commission européenne. La levée de l'obligation de visas est cependant conditionnée par le respect de l'ensemble des critères de la feuille de route agréée par l'Union européenne et le Kosovo lors du lancement du dialogue, qu'il s'agisse de l'adoption des réformes internes (justice et droits de l'Homme), de la lutte contre la corruption, ou encore de la maitrise des flux migratoires. A cet égard, d'importantes préoccupations persistent face à la hausse de la pression migratoire venant du Kosovo, et notamment de la hausse considérable du nombre de demandes d'asile infondées. La France entretient un dialogue étroit avec les autorités kosovares sur cette question et est consciente des efforts entrepris par Pristina, notamment pour renforcer sa coopération avec la Serbie en matière de lutte contre les migrations clandestines. Compte tenu de la sensibilité du sujet et de la pression migratoire à laquelle est actuellement soumis l'espace Schengen, elle ne se prononcera cependant en faveur de la levée de l'obligation de visas de court séjour que lorsque tous les critères fixés dans le cadre de la feuille de route auront été remplis.
