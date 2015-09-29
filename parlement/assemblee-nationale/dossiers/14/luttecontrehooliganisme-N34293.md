@@ -1,0 +1,51 @@
+# Police et sécurité : lutte contre le hooliganisme
+
+- Procédure : Proposition de loi ordinaire
+- Législature : 14
+- Identifiant : DLR5L14N34293
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/luttecontrehooliganisme
+- Sénat : http://www.senat.fr/dossier-legislatif/ppl15-373.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2015-09-29 : 1er dépôt d'une initiative. (PIONANR5L14B3082)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2015-09-29 : Renvoi en commission au fond
+      - 2016-01-13 : Nomination de rapporteur
+      - 2016-01-27 : Réunion de commission
+      - 2016-02-04 : Réunion de commission
+      - 2016-01-27 : Dépôt de rapport (RAPPANR5L14B3445, PIONANR5L14BTC3445)
+  - Discussion en séance publique
+    - 2016-02-04 : Discussion en séance publique
+    - 2016-02-04 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2016-02-05 : Dépôt d'une initiative en navette (PIONSNR5S259B0373)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2016-02-05 : Renvoi en commission au fond
+      - 2016-03-09 : Nomination de rapporteur
+      - 2016-03-30 : Dépôt de rapport (RAPPSNR5S259B0514)
+    - Travaux d'une commission saisie pour avis
+      - 2016-03-23 : Saisine pour avis d'une commission
+      - 2016-03-23 : Nomination de rapporteur
+      - 2016-03-29 : Dépôt de rapport (AVISSNR5S259B0509)
+  - Discussion en séance publique
+    - 2016-04-05 : Discussion en séance publique
+    - 2016-04-05 : Décision
+- deuxième lecture
+  - 2016-04-06 : Dépôt d'une initiative en navette (PIONANR5L14B3666)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2016-04-06 : Renvoi en commission au fond
+      - 2016-04-26 : Réunion de commission
+      - 2016-04-28 : Réunion de commission
+      - 2016-04-26 : Dépôt de rapport (RAPPANR5L14B3688, PIONANR5L14BTC3688)
+  - Discussion en séance publique
+    - 2016-04-28 : Discussion en séance publique
+    - 2016-04-28 : Décision
+- Promulgation de la loi
+  - 2016-05-10 : Promulgation d'une loi
+- Mise en application de la loi
+  - 2017-01-24 : Rapport sur l'application des lois (RINFANR5L14B4395)
