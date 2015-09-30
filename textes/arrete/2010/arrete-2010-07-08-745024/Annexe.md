@@ -1,32 +1,36 @@
 # Article Annexe
 
-LISTE DES SUBSTANCES PRIORITAIRES DANS LE DOMAINE DE L'EAU
+LISTE DES SUBSTANCES PRIORITAIRES DANS LE DOMAINE DE L'EAU,
 
 AU TITRE DE L'ARTICLE R. 212-9 DU CODE DE L'ENVIRONNEMENT
 
-N° UE
+NUMÉRO
 
 |
 
-NUMERO
-
-CAS (1)
+NUMÉRO CAS (1)
 
 |
 
-NUMERO
-
-UE (2)
+NUMÉRO UE (2)
 
 |
 
 NOM DE LA SUBSTANCE
 
-prioritaire (3) |
+prioritaire (3)
 
-SUBSTANCE DANGEREUSE
+|
 
-prioritaire (X)
+IDENTIFIÉE
+
+comme
+
+substance
+
+dangereuse
+
+prioritaire
 
 |
 
@@ -34,7 +38,7 @@ DATE D'INSCRIPTION
 
 dans la liste
 
-des substances prioritaires,
+des substances prioritaires
 
 par décision du Conseil
 
@@ -42,7 +46,7 @@ et du Parlement européen
 
 |
 
-1
+(1)
 
 |
 
@@ -54,7 +58,7 @@ et du Parlement européen
 
 |
 
-Alachlore.
+Alachlore
 
 |
 
@@ -64,7 +68,7 @@ Alachlore.
 
 |
 
-2
+(2)
 
 |
 
@@ -76,7 +80,7 @@ Alachlore.
 
 |
 
-Anthracène.
+Anthracène
 
 |
 
@@ -86,11 +90,13 @@ X
 
 20 novembre 2001 en tant que substance prioritaire
 
-16 décembre 2008 en tant que substance prioritaire dangereuse
+|
+
+16 décembre 2008 en tant que substance dangereuse prioritaire
 
 |
 
-3
+(3)
 
 |
 
@@ -102,7 +108,7 @@ X
 
 |
 
-Atrazine.
+Atrazine
 
 |
 
@@ -112,7 +118,7 @@ Atrazine.
 
 |
 
-4
+(4)
 
 |
 
@@ -124,7 +130,7 @@ Atrazine.
 
 |
 
-Benzène.
+Benzène
 
 |
 
@@ -134,9 +140,7 @@ Benzène.
 
 |
 
-|
-
-Sans objet
+(5)
 
 |
 
@@ -144,41 +148,31 @@ Sans objet
 
 |
 
-Diphényléthers bromés (4).
+Sans objet
 
 |
 
-X (5)
+Diphényléthers bromés
+
+|
+
+X (4)
 
 |
 
 20 novembre 2001 en tant que substance prioritaire
 
-16 décembre 2008 en tant que substance prioritaire dangereuse5
+|
+
+16 décembre 2008 en tant que substance dangereuse prioritaire pour le pentabromodiphényléther (n° CAS 32534-81-9).
 
 |
 
-|
-
-32534-81-9
+12 août 2013 en tant que substances prioritaires pour le tétrabromodiphényléther (n° CAS 40088-47-9), l'hexabromodiphényléther (n° CAS 36483-60-0) et l'heptabromodiphényléther (n° CAS : 68928-80-3).
 
 |
 
-sans objet
-
-|
-
-Pentabromodiphényléther (numéros de congénères 28, 47, 99, 100, 153 et 154).
-
-|
-
-|
-
-16 décembre 2008
-
-|
-
-6
+(6)
 
 |
 
@@ -190,7 +184,7 @@ Pentabromodiphényléther (numéros de congénères 28, 47, 99, 100, 153 et 154)
 
 |
 
-Cadmium et ses composés.
+Cadmium et ses composés
 
 |
 
@@ -202,7 +196,7 @@ X
 
 |
 
-7
+(7)
 
 |
 
@@ -214,7 +208,7 @@ X
 
 |
 
-Chloroalcanes, C10-13 (6).
+Chloroalcanes, C10-13
 
 |
 
@@ -226,7 +220,7 @@ X
 
 |
 
-8
+(8)
 
 |
 
@@ -238,7 +232,7 @@ X
 
 |
 
-Chlorfenvinphos.
+Chlorfenvinphos
 
 |
 
@@ -248,7 +242,7 @@ Chlorfenvinphos.
 
 |
 
-9
+(9)
 
 |
 
@@ -260,9 +254,7 @@ Chlorfenvinphos.
 
 |
 
-Chlorpyrifos.
-
-Ethylchlorpyriphos.
+Chlorpyrifos (éthylchlorpyrifos)
 
 |
 
@@ -272,57 +264,7 @@ Ethylchlorpyriphos.
 
 |
 
-(1) CAS : Chemical Abstracts Service.
-
-(2) Numéro UE : inventaire européen des produits chimiques commercialisés (EINECS) ou liste européenne des substances chimiques notifiées (ELINCS).
-
-(3) Lorsqu'un groupe de substances est retenu, un représentant typique de ce groupe est mentionné à titre de paramètre indicatif (entre parenthèses et sans numéro). Pour ces groupes de substances, le paramètre indicatif doit être défini en recourant à la méthode analytique.
-
-(4) Ces groupes de substances englobent généralement un très grand nombre de composés. Pour le moment, il n'est pas possible de fournir des paramètres indicatifs appropriés.
-
-(5) Uniquement pentabromodiphényléther (numéro CAS 32534-81-9).
-
-(6) Ces groupes de substances englobent généralement un très grand nombre de composés. Pour le moment, il n'est pas possible de fournir des paramètres indicatifs appropriés.
-
-|
-
-N° UE
-
-|
-
-NUMERO
-
-CAS (7)
-
-|
-
-NUMERO
-
-UE (8)
-
-|
-
-NOM DE LA SUBSTANCE
-
-prioritaire (9) |
-
-SUBSTANCE DANGEREUSE
-
-prioritaire (X)
-
-|
-
-DATE D'INSCRIPTION
-
-dans la liste
-
-au niveau
-
-communautaire
-
-|
-
-10
+(10)
 
 |
 
@@ -334,7 +276,7 @@ communautaire
 
 |
 
-1, 2-dichloroéthane.
+1,2-dichloroéthane
 
 |
 
@@ -344,7 +286,7 @@ communautaire
 
 |
 
-11
+(11)
 
 |
 
@@ -356,7 +298,7 @@ communautaire
 
 |
 
-Dichlorométhane.
+Dichlorométhane
 
 |
 
@@ -366,7 +308,7 @@ Dichlorométhane.
 
 |
 
-12
+(12)
 
 |
 
@@ -378,17 +320,23 @@ Dichlorométhane.
 
 |
 
-Di (2-éthylhexyl) phtalate (DEHP).
+Di (2-ethylhexyle) phthalate (DEHP)
 
 |
 
-|
-
-20 novembre 2001
+X
 
 |
 
-13
+20 novembre 2001 en tant que substance prioritaire
+
+|
+
+12 août 2013 en tant que substance dangereuse prioritaire
+
+|
+
+(13)
 
 |
 
@@ -400,7 +348,7 @@ Di (2-éthylhexyl) phtalate (DEHP).
 
 |
 
-Diuron.
+Diuron
 
 |
 
@@ -410,7 +358,7 @@ Diuron.
 
 |
 
-14
+(14)
 
 |
 
@@ -422,7 +370,7 @@ Diuron.
 
 |
 
-Endosulfan.
+Endosulfan
 
 |
 
@@ -430,13 +378,15 @@ X
 
 |
 
-20 novembre 2001
-
-16 décembre 2008 en tant que substance prioritaire dangereuse
+20 novembre 2001 en tant que substance prioritaire
 
 |
 
-15
+16 décembre 2008 en tant que substance dangereuse prioritaire
+
+|
+
+(15)
 
 |
 
@@ -448,7 +398,7 @@ X
 
 |
 
-Fluoranthène (10).
+Fluoranthène
 
 |
 
@@ -458,7 +408,7 @@ Fluoranthène (10).
 
 |
 
-16
+(16)
 
 |
 
@@ -470,7 +420,7 @@ Fluoranthène (10).
 
 |
 
-Hexachlorobenzène.
+Hexachlorobenzène
 
 |
 
@@ -482,7 +432,7 @@ X
 
 |
 
-17
+(17)
 
 |
 
@@ -494,7 +444,7 @@ X
 
 |
 
-Hexachlorobutadiène.
+Hexachlorobutadiène
 
 |
 
@@ -506,7 +456,7 @@ X
 
 |
 
-18
+(18)
 
 |
 
@@ -514,11 +464,11 @@ X
 
 |
 
-210-158-9
+210-168-9
 
 |
 
-Hexachlorocyclohexane.
+Hexachlorocyclohexane
 
 |
 
@@ -530,7 +480,7 @@ X
 
 |
 
-19
+(19)
 
 |
 
@@ -542,7 +492,7 @@ X
 
 |
 
-Isoproturon.
+Isoproturon
 
 |
 
@@ -552,7 +502,7 @@ Isoproturon.
 
 |
 
-20
+(20)
 
 |
 
@@ -564,7 +514,7 @@ Isoproturon.
 
 |
 
-Plomb et ses composés.
+Plomb et ses composés
 
 |
 
@@ -574,7 +524,7 @@ Plomb et ses composés.
 
 |
 
-21
+(21)
 
 |
 
@@ -586,7 +536,7 @@ Plomb et ses composés.
 
 |
 
-Mercure et ses composés.
+Mercure et ses composés
 
 |
 
@@ -598,7 +548,7 @@ X
 
 |
 
-22
+(22)
 
 |
 
@@ -610,7 +560,7 @@ X
 
 |
 
-Naphthalène.
+Naphtalène
 
 |
 
@@ -620,7 +570,7 @@ Naphthalène.
 
 |
 
-23
+(23)
 
 |
 
@@ -632,7 +582,7 @@ Naphthalène.
 
 |
 
-Nickel et ses composés.
+Nickel et ses composés
 
 |
 
@@ -642,43 +592,23 @@ Nickel et ses composés.
 
 |
 
-|
-
-25154-52-3
+(24)
 
 |
 
-246-672-0
+Sans objet
 
 |
 
-Nonylphénol.
+Sans objet
 
 |
 
-X
+Nonylphénols
 
 |
 
-20 novembre 200124
-
-|
-
-|
-
-104-40-5
-
-|
-
-203-199-4
-
-|
-
-(4-nonylphénol).
-
-|
-
-X
+X (5)
 
 |
 
@@ -686,37 +616,19 @@ X
 
 |
 
-|
-
-1806-26-4
+(25)
 
 |
 
-217-302-5
+Sans objet
 
 |
 
-Octylphénol.
+Sans objet
 
 |
 
-|
-
-20 novembre 200125
-
-|
-
-|
-
-140-66-9
-
-|
-
-sans objet
-
-|
-
-(4-(1, 1', 3, 3'-tetraméthylbutyl)-phénol).
+Octylphénols (6)
 
 |
 
@@ -726,7 +638,7 @@ sans objet
 
 |
 
-26
+(26)
 
 |
 
@@ -734,11 +646,11 @@ sans objet
 
 |
 
-210-172-5
+210-172-0
 
 |
 
-Pentachlorobenzène.
+Pentachlorobenzène
 
 |
 
@@ -750,7 +662,7 @@ X
 
 |
 
-27
+(27)
 
 |
 
@@ -762,7 +674,7 @@ X
 
 |
 
-Pentachlorophénol.
+Pentachlorophénol
 
 |
 
@@ -771,6 +683,8 @@ Pentachlorophénol.
 20 novembre 2001
 
 |
+
+(28)
 
 |
 
@@ -782,7 +696,9 @@ Sans objet
 
 |
 
-Hydrocarbures aromatiques polycycliques.
+Hydrocarbures aromatiques polycycliques
+
+(HAP) (7)
 
 |
 
@@ -794,117 +710,7 @@ X
 
 |
 
-|
-
-50-32-8
-
-|
-
-200-028-5
-
-|
-
-(Benzo [a] pyrène).
-
-|
-
-X
-
-|
-
-20 novembre 2001
-
-|
-
-|
-
-205-99-2
-
-|
-
-205-911-9
-
-|
-
-(Benzo [b] fluoranthène).
-
-|
-
-X
-
-|
-
-20 novembre 200128
-
-|
-
-|
-
-191-24-2
-
-|
-
-205-883-8
-
-|
-
-(Benzo [g, h, i] perylène).
-
-|
-
-X
-
-|
-
-20 novembre 2001
-
-|
-
-|
-
-207-08-9
-
-|
-
-205-916-6
-
-|
-
-(Benzo [k] fluoranthène).
-
-|
-
-X
-
-|
-
-20 novembre 2001
-
-|
-
-|
-
-193-39-5
-
-|
-
-205-893-2
-
-|
-
-(Indeno [1, 2, 3-cd] pyrène).
-
-|
-
-X
-
-|
-
-20 novembre 2001
-
-|
-
-29
+(29)
 
 |
 
@@ -916,7 +722,7 @@ X
 
 |
 
-Simazine.
+Simazine
 
 |
 
@@ -926,31 +732,7 @@ Simazine.
 
 |
 
-|
-
-688-73-3
-
-|
-
-211-704-4
-
-|
-
-Composés du tributylétain.
-
-|
-
-X
-
-|
-
-20 novembre 200130
-
-|
-
-|
-
-36643-28-4
+(30)
 
 |
 
@@ -958,11 +740,15 @@ Sans objet
 
 |
 
-(Tributylétin-cation).
+Sans objet
 
 |
 
-X
+Composés du tributylétain
+
+|
+
+X (8)
 
 |
 
@@ -970,7 +756,7 @@ X
 
 |
 
-31
+(31)
 
 |
 
@@ -982,7 +768,7 @@ X
 
 |
 
-Trichlorobenzène.
+Trichlorobenzène
 
 |
 
@@ -992,7 +778,7 @@ Trichlorobenzène.
 
 |
 
-32
+(32)
 
 |
 
@@ -1004,7 +790,7 @@ Trichlorobenzène.
 
 |
 
-Trichlorométhane (chloroforme).
+Trichlorométhane (chloroforme)
 
 |
 
@@ -1014,7 +800,7 @@ Trichlorométhane (chloroforme).
 
 |
 
-33
+(33)
 
 |
 
@@ -1026,22 +812,326 @@ Trichlorométhane (chloroforme).
 
 |
 
-Trifluraline.
+Trifluraline
+
+|
+
+X
+
+|
+
+20 novembre 2001 en tant que substance prioritaire
+
+|
+
+12 août 2013 en tant que substance dangereuse prioritaire
+
+|
+
+(34)
+
+|
+
+115-32-2
+
+|
+
+204-082-0
+
+|
+
+Dicofol
+
+|
+
+X
+
+|
+
+12 août 2013
+
+|
+
+(35)
+
+|
+
+1763-23-1
+
+|
+
+217-179-8
+
+|
+
+Acide perfluorooctanesulfonique et ses dérivés (perfluoro-octanesulfonate PFOS)
+
+|
+
+X
+
+|
+
+12 août 2013
+
+|
+
+(36)
+
+|
+
+124495-18-7
+
+|
+
+Sans objet
+
+|
+
+Quinoxyfène
+
+|
+
+X
+
+|
+
+12 août 2013
+
+|
+
+(37)
+
+|
+
+Sans objet
+
+|
+
+Sans objet
+
+|
+
+Dioxines et composés de type dioxine
+
+|
+
+X (9)
+
+|
+
+12 août 2013
+
+|
+
+(38)
+
+|
+
+74070-46-5
+
+|
+
+277-704-1
+
+|
+
+Aclonifène
 
 |
 
 |
 
-20 novembre 2001
+12 août 2013
 
 |
 
-(7) CAS : Chemical Abstracts Service.
+(39)
 
-(8) Numéro UE : inventaire européen des produits chimiques commercialisés (EINECS) ou liste européenne des substances chimiques notifiées (ELINCS).
+|
 
-(9) Lorsqu'un groupe de substances est retenu, un représentant typique de ce groupe est mentionné à titre de paramètre indicatif (entre parenthèses et sans numéro). Pour ces groupes de substances, le paramètre indicatif doit être défini en recourant à la méthode analytique.
+42576-02-3
 
-(10) Le fluoranthène figure sur la liste en tant qu'indicateur d'autres hydrocarbures aromatiques polycycliques plus dangereux.
+|
+
+255-894-7
+
+|
+
+Bifénox
+
+|
+
+|
+
+12 août 2013
+
+|
+
+(40)
+
+|
+
+28159-98-0
+
+|
+
+248-872-3
+
+|
+
+Cybutryne
+
+|
+
+|
+
+12 août 2013
+
+|
+
+(41)
+
+|
+
+52315-07-8
+
+|
+
+257-842-9
+
+|
+
+Cypermethrine (10)
+
+|
+
+|
+
+12 août 2013
+
+|
+
+(42)
+
+|
+
+62-73-7
+
+|
+
+200-547-7
+
+|
+
+Dichlorvos
+
+|
+
+|
+
+12 août 2013
+
+|
+
+(43)
+
+|
+
+Sans objet
+
+|
+
+Sans objet
+
+|
+
+Hexabromocyclododécanes (HBCDD)
+
+|
+
+X (11)
+
+|
+
+12 août 2013
+
+|
+
+(44)
+
+|
+
+76-44-8/1024-57-3
+
+|
+
+200-962-3/
+
+213-831-0
+
+|
+
+Heptachlore et époxyde d'heptachlore
+
+|
+
+X
+
+|
+
+12 août 2013
+
+|
+
+(45)
+
+|
+
+886-50-0
+
+|
+
+212-950-5
+
+|
+
+Terbutryne
+
+|
+
+|
+
+12 août 2013
+
+|
+
+(1) CAS : Chemical Abstracts Service.
+
+(2) Numéro UE : inventaire européen des produits chimiques commercialisés (EINECS) ou liste européenne des substances chimiques notifiées (ELINCS).
+
+(3) Lorsque des groupes de substances ont été sélectionnés, sauf indication expresse, des représentants typiques de ce groupe sont définis aux fins de l'établissement des normes de qualité environnementale.
+
+(4) Uniquement le tétrabromodiphényléther (n° CAS 40088-47-9), le pentabromodiphényléther (n° CAS 32534-81-9), l'hexabromodiphényléther (n° CAS 36483-60-0) et l'heptabromodiphényléther (n° CAS : 68928-80-3).
+
+(5) Nonylphénol (n° CAS 25154-52-3 ; n° UE 246-672-0), y compris les isomères 4-nonylphénol (n° CAS 104-40-5 ; n° UE 203-199-4) et 4-nonylphénol (ramifié) (n° CAS 84852-15-3 ; n° UE 284-325-5).
+
+(6) Octylphénol (n° CAS 1806-26-4 ; n° UE 217-302-5), y compris l'isomère 4-(1,1', 3,3'-tétraméthylbutyl)-phénol (n° CAS 140-66-9 ; n° UE 205-426-2).
+
+(7) Y compris le benzo (a) pyrène (n° CAS 50-32-8 ; n° UE 200-028-5), le benzo (b) fluoranthène (n° CAS 205-99-2 ; n° UE 205-911-9), le benzo (g, h, i) perylène (n° CAS 191-24-2 ; n° UE 205-883-8), le benzo (k) fluoranthène (n° CAS 207-08-9 ; n° UE 205-916-6) et l'indéno (1,2,3-cd) pyrène (n° CAS 193-39-5 ; n° UE 205-893-2), mais à l'exception de l'anthracène, du fluoranthène et du naphtalène, qui sont énumérés séparément.
+
+(8) Y compris le tributylétain-cation (n° CAS : 36643-28-4).
+
+(9) Se rapporte aux composés suivants :
+
+Sept dibenzo-p-dioxines polychlorées (PCDD) : 2,3,7,8-T4CDD (n° CAS 1746-01-6), 1,2,3,7,8-P5CDD (n° CAS 40321-76-4), 1,2,3,4,7,8-H6CDD (n° CAS 39227-28-6), 1,2,3,6,7,8-H6CDD (n° CAS 57653-85-7), 1,2,3,7,8,9-H6CDD (n° CAS 19408-74-3), 1,2,3,4,6,7,8-H7CDD (n° CAS 35822-46-9), 1,2,3,4,6,7,8,9-O8CDD (n° CAS 3268-87-9) ;
+
+Dix dibenzofurannes polychlorés (PCDF) : 2,3,7,8-T4CDF (n° CAS 51207-31-9), 1,2,3,7,8-P5CDF (CAS 57117-41-6), 2,3,4,7,8-P5CDF (n° CAS 57117-31-4), 1,2,3,4,7,8-H6CDF (n° CAS 70648-26-9), 1,2,3,6,7,8-H6CDF (n° CAS 57117-44-9), 1,2,3,7,8,9-H6CDF (n° CAS 729 18-21-9), 2,3,4,6,7,8-H6CDF (n° CAS 60851-34-5), 1,2,3,4,6,7,8-H7CDF (n° CAS 67562-39-4), 1,2,3,4,7,8,9-H7CDF (n° CAS 55673-89-7), 1,2,3,4,6,7,8,9-O8CDF (n° CAS 39001-02-0)
+
+Douze biphényles polychlorés de type dioxine (PCB-TD) : 3,3', 4,4'-T4CB (PCB 77, n° CAS 32598-13-3), 3,3', 4', 5-T4CB (PCB 81, n° CAS 70362-50-4), 2,3,3', 4,4'-P5CB (PCB 105, n° CAS 32598-14-4), 2,3,4,4', 5-P5CB (PCB 114, n° CAS 74472-37-0), 2,3', 4,4', 5-P5CB (PCB 118, n° CAS 31508-00-6), 2,3', 4,4', 5'-P5CB (PCB 123, n° CAS 65510-44-3), 3,3', 4,4', 5-P5CB (PCB 126, n° CAS 57465-28-8), 2,3,3', 4,4', 5-H6CB (PCB 156, n° CAS 38380-08-4), 2,3,3', 4,4', 5'-H6CB (PCB 157, n° CAS 69782-90-7), 2,3', 4,4', 5,5'-H6CB (PCB 167, n° CAS 52663-72-6), 3,3', 4,4', 5,5'-H6CB (PCB 169, n° CAS 32774-16-6), 2,3,3', 4,4', 5,5'-H7CB (PCB 189, n° CAS 39635-31-9).
+
+(10) Le n° CAS 52315-07-8 se rapporte à un mélange d'isomères de cyperméthrine, d'alpha-cyperméthrine (n° CAS 67375-30-8), de bêta-cyperméthrine (n° CAS 65731-84-2), de thêta-cyperméthrine (n° CAS 71697-59-1) et de zêta-cyperméthrine (n° CAS 52315-07-8).
+
+(11) Se rapporte aux 1,3,5,7,9,11-hexabromocyclododécane (n° CAS : 25637-99-4), le 1,2,5,6,9,10-hexabromocyclododécane (n° CAS 3194-55-6), l'α-hexabromocyclododécane (n° CAS : 134237-50-6), le β-Hexabromocyclododécane (n° CAS 134237-51-7) et le γ-hexabromocyclododécane (n° CAS 134237-52-8).
 
 |
