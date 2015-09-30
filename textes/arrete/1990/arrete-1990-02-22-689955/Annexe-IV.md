@@ -18,9 +18,9 @@ Banisteriopsis rusbyana, harmine, harmaline, tétrahydroharmine (THH), harmol, h
 
 Béta hydroxy alpha, béta-diphényléthylamine, ses isomères, esters, éthers et leurs sels
 
-Les cannabinoïdes suivants, ainsi que leurs isomères, stéréo-isomères, esters, éthers et sels :
-
 BZP ou benzylpipérazine
+
+Les cannabinoïdes suivants, ainsi que leurs isomères, stéréo-isomères, esters, éthers et sels :
 
 HU-210 ou (6aR)-trans-3-(1,1-diméthylheptyl)-6a, 7,10, 10a-tétrahydro-1-hydroxy-6,6-diméthyl-6Hdibenzo [b, d] pyran-9-méthanol ou 3-​ (1, ​ 1'-​ diméthylheptyl)-​ 6aR, ​ 7, ​ 10, ​ 10aR-​ tétrahydro-​ 1-​ hydroxy-​ 6, ​ 6-​ diméthyl-​ 6H-​ dibenzo [b, ​ d] pyran-​ 9-​ méthanol ou (6aR, 10aR)-9-(hydroxyméthyl)-6,6-diméthyl-3-(2-méthyloctan-2-yl)-6a, 7,10, 10a-tétrahydrobenzo [c] chromen-1-ol ;
 
@@ -315,3 +315,7 @@ TMA-2 ou 2,4,5-triméthoxyamphétamine
 4-méthylamphétamine
 
 5-IT ou 5-(2-aminopropyl) indole
+
+"25I-NBOMe" ou "4-iodo-2,5-diméthoxy-N- (2-méthoxybenzyl) phénéthylamine" ;
+
+"AH-7921" ou "3,4-dichloro-N- [[1- (diméthylamino) cyclohéxyl] méthyl] benzamide".
