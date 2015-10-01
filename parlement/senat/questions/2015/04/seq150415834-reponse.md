@@ -1,0 +1,9 @@
+# Réponse à la question SEQ150415834
+
+- Question : [SEQ150415834](seq150415834.md) — Application des dispositions relatives à la gestion des milieux aquatiques et à la prévention des inondations
+
+## Réponse
+
+*Intérieur, JO du 2015-10-01, page 2316*
+
+La compétence de « gestion des milieux aquatiques et de prévention des inondations » (GEMAPI), introduite par la loi n° 2014-58 du 27 janvier 2014 de modernisation de l'action publique territoriale et d'affirmation des métropoles, est attribuée aux communes et aux établissements publics de coopération intercommunale (EPCI) à fiscalité propre. S'agissant d'une compétence exclusive du bloc communal, les départements et les régions ne peuvent plus agir, en principe, juridiquement ou financièrement, dans les domaines de cette compétence (Conseil d'État, 29 juin 2001, Mons-en-Barœul), à l'issue de la période transitoire définie à l'article 59 de la loi susmentionnée. Toutefois, les départements et les régions peuvent participer financièrement à l'exercice de la compétence GEMAPI sur la base d'un fondement juridique qui leur est propre tel que, pour les départements, le I de l'article L. 1111-10 du code général des collectivités territoriales ou, pour les régions, leur compétence en matière d'aménagement du territoire. Par ailleurs, les compétences énumérées au I de l'article L. 211-7 du code de l'environnement, à l'exclusion de celles qui forment la compétence GEMAPI, demeurent des compétences facultatives et partagées entre catégories de collectivités territoriales. La suppression de la clause de compétence générale des départements et des régions, prévue dans le projet de loi portant nouvelle organisation territoriale de la République, ne remet pas en cause la possibilité pour ces collectivités de se saisir de ces compétences, sur le fondement du I de l'article L. 211-7 du code de l'environnement.
