@@ -1,0 +1,9 @@
+# Réponse à la question SEQ121203401
+
+- Question : [SEQ121203401](seq121203401.md) — Ouverture des registres d'inscription à l'école publique dans les communes
+
+## Réponse
+
+*Intérieur, JO du 2015-10-01, page 2308*
+
+L'article L. 131-6 du code de l'éducation prévoit que le maire dresse chaque année la liste de tous les enfants résidant dans sa commune et soumis à l'obligation scolaire. Le juge a d'ailleurs précisé que le maire exerce cette compétence au nom de l'État (CE 28/05/1986 Époux André c/ Commune de Chatillon-Leduc). Les personnes responsables doivent y faire inscrire les enfants dont elles ont la garde (article L. 131-6 précité). À cet effet, l'article L. 2122-18 du code général des collectivités territoriales dispose notamment que « le maire est seul chargé de l'administration (...) ». En conséquence, il appartient au maire de décider des modalités d'organisation des services publics placés sous son autorité. Dans un arrêt n° 76017 du 21 septembre 1990, le Conseil d'État a ainsi rappelé qu'il entre dans les attributions du maire de fixer les heures d'ouverture de la mairie, ainsi que les modalités d'exécution de son service par le secrétaire de mairie. Conscients de la nécessité d'assurer l'égal accès des usagers aux services publics, les maires sont soucieux de garantir l'effectivité du principe de continuité du service public de sorte qu'il n'y ait pas d'interruption du service pendant plusieurs semaines, y compris en période de congés. Il leur est notamment possible, s'ils l'estiment opportun, de mettre en place une procédure dématérialisée permettant l'enregistrement d'inscription à l'école publique en continu. Enfin, un usager peut toujours, s'il s'y croit fondé, contester la décision d'un maire en matière d'horaire d'ouverture de son administration ou en matière d'inscription scolaire, en en demandant l'annulation au tribunal administratif.
