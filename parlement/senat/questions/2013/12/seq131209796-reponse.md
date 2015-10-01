@@ -1,0 +1,9 @@
+# Réponse à la question SEQ131209796
+
+- Question : [SEQ131209796](seq131209796.md) — Prévention de la mortalité par arrêt cardiaque
+
+## Réponse
+
+*Affaires sociales, santé et droits des femmes, JO du 2015-10-01, page 2298*
+
+L'initiation aux gestes de premier secours dans la population générale est une étape essentielle de survie à l'arrêt cardiaque soudain, car de la réalisation de ces gestes dès les premières minutes dépend la probabilité de survie. Le code de la santé publique a renforcé cette capacité, notamment sur les lieux de travail, mais l'enjeu clef est celui d'une initiation des jeunes. Lors de la journée défense et citoyenneté, un apprentissage des gestes de premiers secours est réalisé. La mise en œuvre de la formation prévue durant le cursus scolaire par l'article D. 312-40 du code de l'éducation sera facilitée par la création du parcours éducatif en santé que la ministre des affaires sociales, de la santé et des droits des femmes a souhaité inscrire dans le projet de loi de modernisation de notre système de santé en cours de débat parlementaire. L'autorisation, depuis 2007, faite à toute personne d'utiliser un défibrillateur automatisé externe a donné une forte impulsion à la diffusion de ces équipements mis à disposition du grand public. Les défibrillateurs sont des dispositifs médicaux qui nécessitent une maintenance. L'agence nationale de sécurité du médicament et des produits de santé (ANSM) a publié sur son site internet en date du 10 juillet 2014, des recommandations aux exploitants d'appareils mis à disposition du public, destinées à rappeler des règles de bon usage, d'entretien et de traçabilité. Cette information est relayée sur le site du ministère chargé de la santé. Concernant l'accessibilité et l'entretien des appareils, le ministère se préoccupe de trouver les leviers permettant d'encadrer la traçabilité du parc sur le territoire national pour mieux assurer sa viabilité.
