@@ -1,0 +1,9 @@
+# Réponse à la question SEQ150315141
+
+- Question : [SEQ150315141](seq150315141.md) — Réserve de sécurité nationale
+
+## Réponse
+
+*Défense, JO du 2015-10-01, page 2305*
+
+Le décret d'application de la loi n° 2011-892 du 28 juillet 2011 tendant à faciliter l'utilisation des réserves militaires et civiles est entré en vigueur le 9 mai 2015. Il s'agit du décret pris en Conseil des ministres n° 2015-508 du 7 mai 2015 relatif au service de sécurité nationale et au dispositif de réserve de sécurité nationale. Ce texte définit les modalités d'utilisation des réserves civiles et militaires dans le cadre du dispositif de réserve de sécurité nationale, ainsi que les modalités de mise en œuvre du service de sécurité nationale en cas de crise majeure. Ainsi, ce décret détermine la durée maximale d'activité des réservistes des réserves militaires et civiles au titre du dispositif de réserve de sécurité nationale, ainsi que les modalités de leur convocation. Il précise également les voies de recours des opérateurs d'importance vitale qui souhaitent conserver des réservistes visés par un plan de continuité ou de rétablissement d'activité dans leur emploi. En outre, il substitue réglementairement le service de sécurité nationale au service de défense. Enfin, il fixe les obligations incombant aux opérateurs publics et privés d'importance vitale et précise les sanctions pénales attachées à l'entrave aux obligations imposées au titre du service de sécurité nationale. Ce dispositif législatif et réglementaire rationalise le recours aux réservistes civils et militaires en cas de crise majeure, met en cohérence leurs situations à l'égard de leurs employeurs, et résout les éventuels conflits d'emploi entre le dispositif de réserve de sécurité nationale et le régime du service de sécurité nationale.
