@@ -1,0 +1,9 @@
+# Réponse à la question SEQ150616956
+
+- Question : [SEQ150616956](seq150616956.md) — Future harmonisation du droit à cubage des militaires
+
+## Réponse
+
+*Défense, JO du 2015-10-01, page 2306*
+
+L'indemnisation des changements de résidence pour les militaires affectés dans les départements et collectivités d'outre-mer et à l'étranger est fondée actuellement sur des textes réglementaires épars et très anciens. L'un des critères fixé par ce corpus réglementaire est effectivement l'attribution des cubages en fonction de l'armée d'appartenance et du grade du militaire concerné. Plus généralement, l'obsolescence des textes en vigueur a donné lieu à des interprétations contestables plaçant parfois les militaires en difficulté au regard de leurs droits et des prestations prévues ou offertes par les déménageurs. Face à ce constat, le ministre de la défense a souhaité voir rénover et améliorer le dispositif actuel. C'est ainsi que la nouvelle réglementation permettra une homogénéisation des droits en cause entre les armées, la prise en compte des mêmes situations familiales que pour la métropole et le maintien de la prise en charge du transport du mobilier vers une résidence de repli en métropole en complément du transport des bagages vers l'outre-mer ou l'étranger. De même, le cubage à emporter ne dépendra plus de la destination ou de l'armée d'appartenance, mais du caractère meublé ou non du logement et de l'ancienneté du militaire (plus ou moins 15 ans de services). Enfin, la nouvelle réglementation prévoira explicitement le transport du véhicule, qui sera inclus dans les droits. Le ministre de la défense a d'ores et déjà accordé une tolérance de 15 m³ supplémentaires pour le transport d'un véhicule au titre des années 2014 et 2015. La mise en œuvre de ce nouveau dispositif réglementaire est prévue pour le début de l'année 2016.
