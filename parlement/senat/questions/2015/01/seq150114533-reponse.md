@@ -1,0 +1,9 @@
+# Réponse à la question SEQ150114533
+
+- Question : [SEQ150114533](seq150114533.md) — Distinction dans un ordre national au titre de l'initiative citoyenne
+
+## Réponse
+
+*Intérieur, JO du 2015-10-01, page 2310*
+
+La procédure d'initiative citoyenne permet à tout citoyen, témoin des mérites d'un autre citoyen, de le proposer pour une première nomination dans la Légion d'honneur ou l'ordre national du Mérite (lettre du président de la République au Premier ministre du 11 juillet 2008). Cette nouvelle voie d'accès aux ordres nationaux complète les filières traditionnelles, qui ne permettent pas toujours que ces personnes méritantes soient connues des élus, des administrations et du monde associatif, et donc récompensées. L'initiateur remet au préfet le dossier accompagné de la signature de 50 personnes du même département (100 signatures étaient exigées avant le 9 mars 2010) qui, s'il juge la proposition recevable et justifiée, la transmet alors au ministre compétent, après avoir procédé aux vérifications prévues. Le ministre n'est aucunement lié par cette transmission et reste libre de présenter le dossier à la Grande Chancellerie. Depuis la mise en place de cette nouvelle procédure, 150 dossiers, concernant les deux ordres nationaux, ont été transmis par les préfectures aux différents ministères. Parmi ces dossiers, 18 ont abouti à une nomination dans l'ordre de la Légion d'honneur et 34 dans l'ordre national du Mérite. S'agissant du département du Val-de-Marne, trois dossiers de distinction honorifique d'initiative citoyenne ont été reçus en préfecture. L'un d'eux a été transmis au ministère de l'intérieur, où son instruction est en cours. Au bout de quelques années d'existence, le bilan est positif. Cette nouvelle procédure, qui a permis de récompenser 52 personnes méritantes mais inconnues des filières classiques, a bien été accueillie et sa notoriété ne cesse de grandir.
