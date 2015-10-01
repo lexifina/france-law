@@ -20,7 +20,7 @@ d) Lorsque l'assuré est une personne morale, à ses présidents administrateurs
 
 5° Les indemnités de dédit stipulées à la charge de l'assuré, ainsi que toutes indemnités fondées sur l'inexécution d'engagements comportant une garantie personnelle pécuniaire pris par l'assuré ou par tout collaborateur ou préposé dont il répond, dans la mesure où les obligations qui résultent de ces engagements excèdent celles auxquelles il est tenu en vertu des textes légaux sur la responsabilité.
 
-6° Les dommages visés à l'article 34 de la loi du 13 juillet 1930.
+6° Les dommages visés à l'article L. 121-8 du code des assurances.
 
 7° Les dommages résultant d'un accident imputable à l'assuré ou à toute personne dont il doit répondre, c'est-à-dire de tout événement soudain, imprévu et extérieur à la victime et à la chose endommagée, constituant la cause d'une atteinte corporelle à un être vivant, ou d'une détérioration, destruction ou perte d'une chose ou substance autre que les pièces et documents visés au premier alinéa de l'article 1er.
 
