@@ -1,0 +1,9 @@
+# Réponse à la question SEQ140511690
+
+- Question : [SEQ140511690](seq140511690.md) — Représentation des communes de moins de mille habitants au sein d'une communauté de communes
+
+## Réponse
+
+*Intérieur, JO du 2015-10-01, page 2308*
+
+L'article L. 5211-6 du code général des collectivités territoriales (CGCT) prévoit que les communes membres d'une communauté de communes ou d'une communauté d'agglomération qui ne disposent que d'un seul conseiller communautaire, bénéficient d'un suppléant. Le rôle du suppléant est de prendre part aux réunions du conseil communautaire à la place du conseiller titulaire, en cas d'empêchement temporaire de ce dernier. Dans le cas d'une commune de moins de 1 000 habitants, le conseiller titulaire et son suppléant sont, en application de l'article L. 273-11 du code électoral, désignés dans l'ordre du tableau du conseil municipal : il s'agit donc du maire et du premier adjoint. Dans l'hypothèse où le titulaire et le suppléant ne sont pas en mesure d'assister à une réunion du conseil communautaire pour cause d'empêchement simultané, rien ne s'oppose à ce qu'en application des articles L. 5211-1 et L. 2121-20 du CGCT, le titulaire donne pouvoir à un autre membre du conseil communautaire, quand bien même ce dernier ne serait pas issu de la même commune, pour qu'il puisse voter en son nom. Par ailleurs, si le maire estime ne pas être en mesure d'exercer pleinement et durablement son mandat de conseiller communautaire, il lui est toujours possible de démissionner volontairement de ce mandat (tout en restant chef de l'exécutif municipal). C'est alors, conformément à l'article L. 273-12 du code électoral, le premier adjoint qui lui succédera en tant que conseiller communautaire titulaire. Ces dispositions étant de nature à permettre une représentation effective des communes de moins de 1 000 habitants au sein des communautés de communes, le Gouvernement n'envisage pas de proposer une modification législative sur ce point.
