@@ -1290,7 +1290,7 @@ Quantité seuil haut au sens de l'article R. 511-10 : 50 t.
 
 |
 
-Gaz inflammables liquéfiés de catégorie 1 et 2 (y compris GPL et biogaz affiné, lorsqu'il a été traité conformément aux normes applicables en matière de biogaz purifié et affiné, en assurant une qualité équivalente à celle du gaz naturel, y compris pour ce qui est de la teneur en méthane, et qu'il a une teneur maximale de 1 % en oxygène).
+Gaz inflammables liquéfiés de catégorie 1 et 2 (y compris GPL) et gaz naturel (y compris biogaz affiné, lorsqu'il a été traité conformément aux normes applicables en matière de biogaz purifié et affiné, en assurant une qualité équivalente à celle du gaz naturel, y compris pour ce qui est de la teneur en méthane, et qu'il a une teneur maximale de 1 % en oxygène).
 
 |
 
@@ -1302,7 +1302,7 @@ Gaz inflammables liquéfiés de catégorie 1 et 2 (y compris GPL et biogaz affin
 
 |
 
-La quantité totale susceptible d'être présente dans les installations y compris dans les cavités souterraines étant :
+La quantité totale susceptible d'être présente dans les installations y compris dans les cavités souterraines (strates naturelles, aquifères, cavités salines et mines désaffectées) étant :
 
 |
 
@@ -2362,7 +2362,9 @@ Quantité seuil haut au sens de l'article R. 511-10 : 0,001 t.
 
 |
 
-Cancérogènes spécifiques suivants ou les mélanges contenant les cancérogènes suivants en concentration supérieure à 5 % en poids : 4-aminobiphényle et/ ou ses sels, benzotrichlorure, benzidine et/ ou ses sels, oxyde de bis-(chlorométhyle), oxyde de chlorométhyle et de méthyle, 1,2-dibromoéthane, sulfate de diéthyle, sulfate de diméthyle, chlorure de diméthylcarbamoyle, 1,2-dibromo-3-chloropropane, 1,2-diméthylhydrazine, diméthylnitrosamine, triamide hexaméthylphosphorique, hydrazine, 2 naphthylamine et/ ou ses sels, 4 nitrodiphényle et 1,3-propanesulfone.
+Cancérogènes spécifiques suivants ou les mélanges contenant les cancérogènes suivants en concentration supérieure à 5 % en poids :
+
+4-aminobiphényle et/ ou ses sels, benzotrichlorure, benzidine et/ ou ses sels, oxyde de bis-(chlorométhyle), oxyde de chlorométhyle et de méthyle, 1,2-dibromoéthane, sulfate de diéthyle, sulfate de diméthyle, chlorure de diméthylcarbamoyle, 1,2-dibromo-3-chloropropane, 1,2-diméthylhydrazine, diméthylnitrosamine, triamide hexaméthylphosphorique, hydrazine, 2-naphthylamine et/ ou ses sels, 4 nitrodiphényle et 1,3-propanesultone.
 
 |
 
@@ -2432,7 +2434,9 @@ Quantité seuil haut au sens de l'article R. 511-10 : 2 t.
 
 |
 
-Produits pétroliers spécifiques et carburants de substitution : essences et naphtas ; kérosènes (carburants d'aviation compris) ; gazoles (gazole diesel, gazole de chauffage domestique et mélanges de gazoles compris) ; fioul lourd ; carburants de substitution pour véhicules, utilisés aux mêmes fins et aux mêmes usages et présentant des propriétés similaires en matière d'inflammabilité et de danger pour l'environnement.
+Produits pétroliers spécifiques et carburants de substitution :
+
+essences et naphtas ; kérosènes (carburants d'aviation compris) ; gazoles (gazole diesel, gazole de chauffage domestique et mélanges de gazoles compris) ; fioul lourd ; carburants de substitution pour véhicules, utilisés aux mêmes fins et aux mêmes usages et présentant des propriétés similaires en matière d'inflammabilité et de danger pour l'environnement.
 
 |
 
@@ -2444,7 +2448,7 @@ Produits pétroliers spécifiques et carburants de substitution : essences et na
 
 |
 
-La quantité totale susceptible d'être présente dans les installations, y compris dans les cavités souterraines, étant :
+La quantité totale susceptible d'être présente dans les installations y compris dans les cavités souterraines étant :
 
 |
 
@@ -2456,7 +2460,7 @@ La quantité totale susceptible d'être présente dans les installations, y comp
 
 |
 
-1. Pour les cavités souterraines, les stockages enterrés ou en double enveloppe avec système de détection de fuite :
+1. Pour les cavités souterraines et les stockages enterrés :
 
 |
 
@@ -3824,7 +3828,7 @@ D |
 
 |
 
-Gaz à effet de serre fluorés visés par le règlement (CE) n° 842/2006 ou substances qui appauvrissent la couche d'ozone visées par le règlement (CE) n° 1005/2009 (fabrication, emploi, stockage).
+Gaz à effet de serre fluorés visés à l'annexe I du règlement (UE) n° 517/2014 relatif aux gaz à effet de serre fluorés et abrogeant le règlement (CE) n° 842/2006 ou substances qui appauvrissent la couche d'ozone visées par le règlement (CE) n° 1005/2009 (fabrication, emploi, stockage).
 
 |
 
@@ -3836,7 +3840,7 @@ Gaz à effet de serre fluorés visés par le règlement (CE) n° 842/2006 ou sub
 
 |
 
-1. Fabrication, conditionnement et emploi autres que ceux mentionnés au 2 et à l'exclusion du nettoyage à sec de produits textiles visé par la rubrique 2345, du nettoyage, dégraissage, décapage de surfaces visés par la rubrique 2564, de la fabrication en quantité industrielle par transformation chimique ou biologique d'hydrocarbures halogénés visée par la rubrique 3410-f et de l'emploi d'hexafluorure de soufre dans les appareillages de connexion à haute tension.
+1. Fabrication, conditionnement et emploi autres que ceux mentionnés au 2 et à l'exclusion du nettoyage à sec de produits textiles visé par la rubrique 2345, du nettoyage, dégraissage, décapage de surfaces visées par la rubrique 2564, de la fabrication en quantité industrielle par transformation chimique ou biologique d'hydrocarbures halogénés visée par la rubrique 3410-f et de l'emploi d'hexafluorure de soufre dans les appareillages de connexion à haute tension.
 
 |
 
@@ -3940,7 +3944,7 @@ D
 
 |
 
-1. Fluides autres que l'hexafluorure de soufre : la quantité de fluide susceptible d'être présente dans l'installation étant :
+1) Fluides autres que l'hexafluorure de soufre : la quantité de fluide susceptible d'être présente dans l'installation étant :
 
 |
 
@@ -3978,7 +3982,7 @@ D
 
 |
 
-2. Cas de l'hexafluorure de soufre : la quantité de fluide susceptible d'être présente dans l'installation étant supérieure à 150 kg quel que soit le conditionnement
+2) Cas de l'hexafluorure de soufre : la quantité de fluide susceptible d'être présente dans l'installation étant supérieure à 150 kg quel que soit le conditionnement
 
 |
 

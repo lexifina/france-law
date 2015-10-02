@@ -3534,7 +3534,7 @@ b) supérieure à 10 t/j, mais inférieure ou égale à 50 t/j
 
 |
 
-Sous-produits d'origine animale, y compris débris, issues et cadavres (dépôt de), à l'exclusion des dépôts de peaux, des établissements de diagnostic, de recherche et d'enseignement et des dépôts annexés et directement liés aux installations dont les activités sont classées sous les rubriques 2101 à 2150, 2170, 2210, 2221, 2230, 2240 et 2690 de la présente nomenclature :
+Sous-produits animaux (dépôt ou transit de), à l'exclusion des dépôts visés par les rubriques 2171 et 2355, des dépôts associés aux activités des établissements de diagnostic, de recherche et d'enseignement, des dépôts de biodéchets au sens de l'article R. 541-8 du code de l'environnement et des dépôts annexés et directement liés aux installations dont les activités sont visées par les rubriques 2101 à 2150,2170,2210,2221,2230,2240,2350,2690,2740,2780,2781,3532,3630,3641,3642,3643 et 3660 de la présente nomenclature :
 
 |
 
@@ -3546,17 +3546,47 @@ Sous-produits d'origine animale, y compris débris, issues et cadavres (dépôt 
 
 |
 
-La quantité susceptible d'être présente dans l'installation étant supérieure à 500 kg
+1. Dépôt ou transit de sous-produits animaux dans des conteneurs étanches et couverts sans manipulation des sous-produits animaux.
 
 |
+
+|
+
+|
+
+|
+
+|
+
+La quantité susceptible d'être présente dans l'installation étant supérieure à 500 kg et inférieure à 30 tonnes |
+
+E
+
+|
+
+|
+
+|
+
+|
+
+2. Autres installations que celles visées au 1 : |
+
+|
+
+|
+
+|
+
+|
+
+La quantité susceptible d'être présente dans l'installation étant supérieure à 500 kg |
 
 A
 
 |
 
-3
-
-|
+3 |
 
 |
 
@@ -4370,7 +4400,7 @@ b) Supérieure ou égale à 10 t/j et inférieure à 50 t/j
 
 |
 
-1. Installations de transit, tri, regroupement de déchets contenant des PCB/ PCT à une concentration supérieure à 50 ppm.
+1. Installations de transit, tri, regroupement de déchets contenant des PCB/ PCT à une concentration supérieure à 50 ppm
 
 |
 
@@ -4382,7 +4412,7 @@ b) Supérieure ou égale à 10 t/j et inférieure à 50 t/j
 
 |
 
-a) La quantité de fluide contenant des PCB/ PCT susceptible d'être présente est supérieure à 2 t
+a) La quantité de fluide contenant des PCB/ PCT susceptible d'être présente est supérieure ou égale à 2 t
 
 |
 
@@ -4452,7 +4482,7 @@ Installation de collecte, transit, regroupement, tri ou autre traitement de déc
 
 |
 
-1. Installation de collecte de déchets de produits explosifs apportés par le producteur initial de ces déchets.
+1. Installation de collecte de déchets de produits explosifs (1) apportés par le producteur initial de ces déchets.
 
 |
 
@@ -4496,7 +4526,7 @@ A
 
 |
 
-b) Supérieure à 30 kg mais inférieure ou égale à 100 kg lorsque seuls des déchets relevant des divisions de risque 1.3 et 1.4 sont stockés dans l'installation
+b) Supérieure à 30 kg mais inférieure à 100 kg lorsque seuls des déchets relevant des divisions de risque 1.3 et 1.4 sont stockés dans l'installation
 
 |
 
@@ -4510,7 +4540,7 @@ DC
 
 |
 
-c) Inférieure ou égale à 100 kg dans les autres cas
+c) Inférieure à 100 kg dans les autres cas
 
 |
 
@@ -4560,7 +4590,7 @@ a) Supérieure à 10 t
 
 |
 
-b) Inférieure ou égale à 100 kg
+b) Inférieure à 100 kg
 
 |
 
@@ -4592,23 +4622,7 @@ c) Non soumis à la taxe
 
 |
 
-3. Autre installation de traitement de déchets de produits explosifs (mettant en œuvre un procédé autre que ceux mentionnés aux 1 et 2).
-
-|
-
-|
-
-|
-
-3. Autre installation de traitement de déchets de produits explosifs (mettant en œuvre un procédé autre que ceux mentionnés aux 1 et 2)
-
-La quantité équivalente totale de matière active susceptible d'être présente dans l'installation étant :
-
-|
-
-|
-
-La quantité équivalente totale de matière active (2) susceptible d'être présente dans l'installation étant inférieure ou égale à 10 t
+3. Autre installation de traitement de déchets de produits explosifs (1) (mettant en œuvre un procédé autre que ceux mentionnés aux 1 et 2)
 
 |
 
@@ -4620,39 +4634,25 @@ A
 
 |
 
-a) Supérieure à 10 t
+3. Autre installation de traitement de déchets de produits explosifs (mettant en œuvre un procédé autre que ceux mentionnés aux 1 et 2)
 
-|
-
-10
-
-|
+La quantité équivalente totale de matière active susceptible d'être présente dans l'installation étant :
 
 |
 
 |
 
-|
+Nota.-
 
-b) Inférieure ou égale à 10 t
-
-|
-
-6
-
-|
-
-Nota :
-
-(1) Les produits explosifs sont définis comme appartenant à la classe 1 des recommandations des Nations unies relatives au transport des marchandises dangereuses, et destinés à être utilisés pour les effets de leur explosion ou leurs effets pyrotechniques. Ils sont classés en divisions de risque et en groupes de compatibilité par arrêté ministériel.
+(1) Les produits explosifs sont définis comme appartenant à la classe 1 des recommandations des Nations unies relatives au transport des marchandises dangereuses et destinés à être utilisés pour les effets de leur explosion ou leurs effets pyrotechniques. Ils sont classés en divisions de risque et en groupes de compatibilité par arrêté ministériel.
 
 (2) La quantité équivalente totale de matière active est établie selon la formule :
 
 Quantité équivalente totale = A + B + C/3 + D/5 + E + F/3
 
-A représentant la quantité relative aux déchets classés en division de risque 1.1, aux déchets n'étant pas en emballages fermés conformes aux dispositions réglementaires en matière de transport ainsi qu'aux déchets refusés lors de la procédure d'acceptation en classe 1 ;
+A représentant la quantité relative aux déchets classés en division de risque 1.1, aux déchets n'étant pas en emballages fermés conformes aux dispositions réglementaires en matière de transport ainsi qu'aux déchets refusés lors de la procédure d'acceptation en classe 1.
 
-B, C, D, E, F représentant respectivement les quantités relatives aux déchets classés en division de risque 1.2, 1.3, 1.4, 1.5 et 1.6 lorsque ceux-ci sont en emballages fermés conformes aux dispositions réglementaires en matière de transport.
+B, C, D, E, F représentant respectivement les quantités relatives aux déchets classés en division de risque 1.2,1.3,1.4,1.5 et 1.6 lorsque ceux-ci sont en emballages fermés conformes aux dispositions réglementaires en matière de transport.
 
 |
 
@@ -7552,7 +7552,7 @@ A
 
 |
 
-Toxicité aiguë catégorie 1 pour l'une au moins des voies d'exposition, à l'exclusion del'uranium et ses composés.
+Toxicité aiguë catégorie 1 pour l'une au moins des voies d'exposition, à l'exclusion de l'uranium et ses composés.
 
 |
 
@@ -8728,7 +8728,7 @@ Gaz inflammables catégorie 1 et 2.
 
 |
 
-La quantité totale susceptible d'être présente dans les installations y compris dans les cavités souterraines étant :
+La quantité totale susceptible d'être présente dans les installations y compris dans les cavités souterraines (strates naturelles, aquifères, cavités salines et mines désaffectées) étant :
 
 |
 
