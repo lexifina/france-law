@@ -88,24 +88,6 @@ A
 
 |
 
-187
-
-|
-
-Etamage des glaces (ateliers d')
-
-|
-
-D
-
-|
-
-|
-
-|
-
-|
-
 195
 
 |

@@ -532,7 +532,7 @@ D
 
 |
 
-Volailles, gibier à plumes (activité d'élevage, vente, etc.), à l'exclusion d'activités spécifiques visées à d'autres rubriques.
+Volailles, gibier à plumes (activité d'élevage, vente, etc., de), à l'exclusion d'activités spécifiques visées à d'autres rubriques.
 
 |
 
@@ -560,15 +560,11 @@ A
 
 |
 
-2. Autres installations que celles visées au 1 et détenant un nombre d'animaux-équivalents :
+2. Autres installations que celles visées au 1 et détenant un nombre d'emplacements pour les volailles et gibier à plumes supérieur à 30 000
 
 |
 
-A
-
-|
-
-3
+E
 
 |
 
@@ -576,15 +572,9 @@ A
 
 |
 
-a) Supérieur à 30 000
-
 |
 
-A
-
-|
-
-3
+3. Autres installations que celles visées au 1 et au 2 et détenant un nombre d'animaux équivalents :
 
 |
 
@@ -592,7 +582,11 @@ A
 
 |
 
-b) Supérieur à 20 000 mais inférieur ou égal à 30 000
+|
+
+|
+
+a. Supérieur à 20 000
 
 |
 
@@ -606,7 +600,7 @@ DC
 
 |
 
-c) Supérieur à 5 000 mais inférieur ou égal à 20 000
+b. Supérieur à 5 000 mais inférieur ou égal à 20 000
 
 |
 
@@ -620,7 +614,9 @@ D
 
 |
 
-Nota. - Les volailles et gibier à plumes sont comptés en utilisant les valeurs suivantes exprimées en animaux-équivalents :
+Nota. - Pour le "1" et le "2", les volailles et gibier à plumes sont comptés en emplacements : 1 animal = 1 emplacement
+
+Pour le "3", les volailles et gibier à plumes sont comptés en utilisant les valeurs suivantes exprimées en animaux-équivalents :
 
 |
 
@@ -632,7 +628,7 @@ Nota. - Les volailles et gibier à plumes sont comptés en utilisant les valeurs
 
 |
 
-Caille = 0,125 ;
+1. Caille = 0,125.
 
 |
 
@@ -644,7 +640,7 @@ Caille = 0,125 ;
 
 |
 
-Pigeon, perdrix = 0,25 ;
+2. Pigeon, perdrix = 0,25.
 
 |
 
@@ -656,7 +652,7 @@ Pigeon, perdrix = 0,25 ;
 
 |
 
-Coquelet = 0,75 ;
+3. Coquelet = 0,75.
 
 |
 
@@ -668,7 +664,7 @@ Coquelet = 0,75 ;
 
 |
 
-Poulet léger = 0,85 ;
+4. Poulet léger = 0,85.
 
 |
 
@@ -680,7 +676,7 @@ Poulet léger = 0,85 ;
 
 |
 
-Poule, poulet standard, poulet label, poulet biologique, poulette, poule pondeuse, poule reproductrice, faisan, pintade, canard colvert = 1 ;
+5. Poule, poulet standard, poulet label, poulet biologique, poulette, poule pondeuse, poule reproductrice, faisan, pintade, canard colvert = 1.
 
 |
 
@@ -692,7 +688,7 @@ Poule, poulet standard, poulet label, poulet biologique, poulette, poule pondeus
 
 |
 
-Poulet lourd = 1,15 ;
+6. Poulet lourd = 1,15.
 
 |
 
@@ -704,7 +700,7 @@ Poulet lourd = 1,15 ;
 
 |
 
-Canard à rôtir, canard prêt à gaver, canard reproducteur = 2 ;
+7. Canard à rôtir, canard prêt à gaver, canard reproducteur = 2.
 
 |
 
@@ -716,7 +712,7 @@ Canard à rôtir, canard prêt à gaver, canard reproducteur = 2 ;
 
 |
 
-Dinde légère = 2,20 ;
+8. Dinde légère = 2,20.
 
 |
 
@@ -728,7 +724,7 @@ Dinde légère = 2,20 ;
 
 |
 
-Dinde médium, dinde reproductrice, oie = 3 ;
+9. Dinde médium, dinde reproductrice, oie = 3.
 
 |
 
@@ -740,7 +736,7 @@ Dinde médium, dinde reproductrice, oie = 3 ;
 
 |
 
-Dinde lourde = 3,50 ;
+10. Dinde lourde = 3,50.
 
 |
 
@@ -752,7 +748,7 @@ Dinde lourde = 3,50 ;
 
 |
 
-Palmipèdes gras en gavage = 7.
+11. Palmipèdes gras en gavage = 7.
 
 |
 
@@ -2388,36 +2384,6 @@ A
 
 |
 
-2320
-
-|
-
-Atelier de moulinage
-
-|
-
-|
-
-|
-
-|
-
-|
-
-La puissance installée pour alimenter l'ensemble des machines étant supérieure à 40 kW
-
-|
-
-D
-
-|
-
-|
-
-|
-
-|
-
 2321
 
 |
@@ -3793,7 +3759,3 @@ DC
 Nota.-La valeur de QNS porte sur l'ensemble des substances radioactives mentionnées à la rubrique 1700 autres que celles mentionnées à la rubrique 1735 susceptibles d'être présentes dans l'installation. Elle est calculée suivant les modalités mentionnées à l'annexe 13-8 de la première partie du code de la santé publique.
 
 Décret n° 2013-1301 du 27 décembre 2013 art. 2 : La rubrique 2102 qui entre en vigueur le jour de la publication de l'arrêté ministériel fixant les prescriptions générales applicables aux installations relevant du régime de l'enregistrement dans ces deux rubriques.
-
-NOTA :
-
-(1) : Les dispositions de la rubrique 2111 de la nomenclature des installations classées introduites par le décret du 10 août 2005 sont annulées par la décision du Conseil d'Etat n° 286103 du 23 avril 2009.

@@ -94,7 +94,7 @@ Nota.-Les débits sont exprimés pour une température de gaz de 273,15 K à une
 
 |
 
-Gaz inflammables liquéfiés (installation de remplissage ou de chargement ou de déchargement ou de distribution de)
+Gaz inflammables liquéfiés (installation de remplissage ou de distribution de)
 
 |
 
@@ -134,7 +134,7 @@ A
 
 |
 
-a. Installations de chargement ou déchargement desservant un stockage de gaz inflammables soumis à autorisation |
+a) Installations de chargement ou déchargement desservant un dépôt de gaz inflammables soumis à autorisation |
 
 A
 
@@ -148,7 +148,7 @@ A
 
 |
 
-b. Autres installations que celles visées au 2. a, lorsque le nombre maximal d'opérations de chargement et de déchargement est supérieur ou égal à 20 par jour ou supérieur ou égal à 75 par semaine |
+b) Autres installations que celles visées au 2. a, lorsque le nombre maximal d'opérations de chargement et de déchargement est supérieur ou égal à 20 par jour ou supérieur ou égal à 75 par semaine |
 
 A
 
@@ -162,7 +162,7 @@ A
 
 |
 
-c. Autres installations que celles visées aux 2. a et 2. b, lorsque le nombre maximal d'opérations de chargement et de déchargement est supérieur ou égal à 2 par jour |
+c) Autres installations que celles visées aux 2. a et 2. b, lorsque le nombre maximal d'opérations de chargement et de déchargement est supérieur ou égal à 2 par jour |
 
 DC
 
@@ -188,7 +188,7 @@ DC
 
 |
 
-4. Installations de chargement ou de déchargement de citerne à citerne, les citernes étant définies par les réglementations relatives au transport de marchandises dangereuses par voie routière (ADR) ou par voie ferroviaire (RID) |
+4. Installations de chargement ou de déchargement de citerne à citerne, à l'exclusion de celles exploitées uniquement à des fins de maintenance des citernes, les citernes étant définies par les réglementations relatives au transport de marchandises dangereuses par voie routière (ADR) ou par voie ferroviaire (RID) |
 
 A
 
@@ -250,7 +250,7 @@ A |
 
 |
 
-Liquides inflammables (installation de remplissage ou de distribution, à l'exception des stations-service visées à la rubrique 1435).
+Liquides inflammables, liquides combustibles de point éclair compris entre 60° C et 93° C, fiouls lourds, pétroles bruts (installation de remplissage ou de distribution, à l'exception des stations-service visées à la rubrique 1435).
 
 |
 
@@ -276,7 +276,7 @@ Liquides inflammables (installation de remplissage ou de distribution, à l'exce
 
 |
 
-a) Supérieur ou égal à 100 m ³/ h |
+a) Supérieur ou égal à 100 m³/ h |
 
 A |
 
@@ -288,7 +288,7 @@ A |
 
 |
 
-b) Supérieur ou égal à 5 m ³/ h, mais inférieur à 100 m ³/ h
+b) Supérieur ou égal à 5 m³/ h, mais inférieur à 100 m³/ h
 
 |
 
@@ -304,7 +304,7 @@ DC
 
 |
 
-2. Installations de chargement ou de déchargement desservant un stockage de liquides inflammables soumis à autorisation
+2. Installations de chargement ou de déchargement desservant un stockage de ces liquides soumis à autorisation
 
 |
 
@@ -336,7 +336,7 @@ Stations-service : installations, ouvertes ou non au public, où les carburants 
 
 |
 
-Le volume annuel de carburant distribué étant :
+Le volume annuel de carburant liquide distribué étant :
 
 |
 
@@ -348,7 +348,7 @@ Le volume annuel de carburant distribué étant :
 
 |
 
-1. Supérieur à 40 000 m ³
+1. Supérieur à 40 000 m³
 
 |
 
@@ -364,7 +364,7 @@ A
 
 |
 
-2. Supérieur à 20 000 m ³ mais inférieur ou égal à 40 000 m ³
+2. Supérieur à 20 000 m³ mais inférieur ou égal à 40 000 m³
 
 |
 
@@ -378,7 +378,7 @@ E
 
 |
 
-3. Supérieur à 100 m ³ d'essence ou 500 m ³ au total, mais inférieur ou égal à 20 000 m ³
+3. Supérieur à 100 m³ d'essence ou 500 m3 au total, mais inférieur ou égal à 20 000 m³
 
 |
 
@@ -392,9 +392,9 @@ DC
 
 |
 
-Nota. - Les débits sont exprimés pour une température de gaz de 273,15 K à une pression de 101,325 kPa
+Nota. - Les débits sont exprimés pour une température de gaz de 273,15 K à une pression de 101,325 kPa.
 
-Essence : tout dérivé du pétrole, avec ou sans additif d'une pression de vapeur saturante à 20° C de 13 kPa ou plus, destiné à être utilisé comme carburant pour les véhicules à moteur, excepté le gaz de pétrole liquéfié (GPL) et les carburants pour l'aviation.
+Essence : tout dérivé du pétrole, avec ou sans additif d'une pression de vapeur saturante à 20° C de 13 kPa ou plus, destiné à être utilisé comme carburant pour les véhicules à moteur, exceptés le gaz de pétrole liquéfié (GPL) et les carburants pour l'aviation.
 
 |
 
@@ -667,64 +667,6 @@ E
 |
 
 DC
-
-|
-
-|
-
-|
-
-|
-
-1521
-
-|
-
-Goudron, asphalte, brais et matières bitumineuses (traitement ou emploi de) distillation, pyrogénation, régénération, etc., induction, immersion traitement et revêtement de surface, etc., à l'exclusion des centrales d'enrobages de matériaux routiers
-
-|
-
-|
-
-|
-
-|
-
-|
-
-La quantité totale susceptible d'être présente dans l'installation étant :
-
-|
-
-|
-
-|
-
-|
-
-|
-
-1. supérieure ou égale à 20 t
-
-|
-
-A
-
-|
-
-1
-
-|
-
-|
-
-|
-
-2. supérieure ou égale à 2 t, mais inférieure à 20 t
-
-|
-
-D
 
 |
 
