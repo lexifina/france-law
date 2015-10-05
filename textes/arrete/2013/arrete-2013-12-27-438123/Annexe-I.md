@@ -1,6 +1,6 @@
 # Article Annexe I
 
-PRESCRIPTIONS GÉNÉRALES APPLICABLES AUX INSTALLATIONS CLASSÉES POUR LA PROTECTION DE L'ENVIRONNEMENT SOUMISES À DÉCLARATION SOUS LES RUBRIQUES Nos 2101, 2102 ET 2111
+PRESCRIPTIONS GÉNÉRALES APPLICABLES AUX INSTALLATIONS CLASSÉES POUR LA PROTECTION DE L'ENVIRONNEMENT SOUMISES À DÉCLARATION SOUS LES RUBRIQUES Nos 2101-1, 2101-2, 2101-3, 2102 ET 2111
 
 SOMMAIRE
 
@@ -22,7 +22,7 @@ Annexe I.
 
 1.7. Cessation d'activité.
 
-2. Implantation. - Aménagement.
+2. Implantation. ― Aménagement.
 
 2.1. Règles d'implantation.
 
@@ -180,19 +180,19 @@ L'exploitant remet en état le site de sorte qu'il ne s'y manifeste plus aucun d
 
 Les bâtiments d'élevage et leurs annexes sont implantés à une distance minimale de :
 
-100 mètres des habitations ou locaux habituellement occupés par des tiers (à l'exception des logements occupés par des personnels de l'installation, des hébergements et locations dont l'exploitant a la jouissance et des logements occupés par les anciens exploitants), des stades ou des terrains de camping agréés (à l'exception des terrains de camping à la ferme) ainsi que des zones destinées à l'habitation par des documents d'urbanisme opposables aux tiers ; cette distance est réduite à 50 mètres lorsqu'il s'agit de bâtiments mobiles d'élevage de volailles faisant l'objet d'un déplacement d'au moins 100 mètres à chaque bande ; cette distance peut être réduite à :
+100 mètres des habitations ou locaux habituellement occupés par des tiers (à l'exception des logements occupés par des personnels de l'installation, des hébergements et locations dont l'exploitant a la jouissance et des logements occupés par les anciens exploitants), des stades ou des terrains de camping agréés (à l'exception des terrains de camping à la ferme) ainsi que des zones destinées à l'habitation par des documents d'urbanisme opposables aux tiers ; cette distance est réduite à 50 mètres lorsqu'il s'agit de bâtiments mobiles d'élevage de volailles faisant l'objet d'un déplacement d'au moins 100 mètres à chaque bande ; cette distance peut-être réduite à :
 
-50 mètres lorsqu'il s'agit de bâtiments d'élevage de bovins sur litière accumulée ;
+a) 50 mètres lorsqu'il s'agit de bâtiments d'élevage de bovins sur litière accumulée ;
 
-25 mètres lorsqu'il s'agit d'une installation située en zone de montagne, définie en application de l'article R. 113-14 du code rural et de la pêche maritime ;
+b) 25 mètres lorsqu'il s'agit d'une installation située en zone de montagne, définie en application de l'article R. 113-14 du code rural et de la pêche maritime ;
 
-15 mètres lorsqu'il s'agit d'équipements de stockage de paille et de fourrage ; toute disposition est alors prise pour prévenir le risque d'incendie ;
+c) 15 mètres lorsqu'il s'agit d'équipements de stockage de paille et de fourrage ; toute disposition est alors prise pour prévenir le risque d'incendie ;
 
 35 mètres des puits et forages, des sources, des aqueducs en écoulement libre, de toute installation souterraine ou semi-enterrée utilisée pour le stockage des eaux, que les eaux soient destinées à l'alimentation en eau potable ou à l'arrosage des cultures maraîchères, des rivages, des berges des cours d'eau ;
 
 200 mètres des lieux de baignade déclarés et des plages, à l'exception des piscines privées ;
 
-500 mètres en amont des zones conchylicoles, sauf dérogation liée à la topographie, à la circulation des eaux et prévue par l'arrêté préfectoral d'autorisation ;
+500 mètres en amont des zones conchylicoles, sauf dérogation liée à la topographie et à la circulation des eaux ;
 
 50 mètres des berges des cours d'eau alimentant une pisciculture, sur un linéaire d'un kilomètre le long de ces cours d'eau en amont d'une pisciculture, à l'exclusion des étangs empoissonnés où l'élevage est extensif sans nourrissage ou avec apport de nourriture exceptionnel.
 
@@ -226,9 +226,9 @@ L'exploitant prend les dispositions appropriées qui permettent d'intégrer l'in
 
 2.3. Aménagement des locaux et des aires de stockage
 
-Tous les sols des bâtiments d'élevage, des salles de traite, des laiteries et des aires d'ensilage susceptibles de produire des jus, tous les équipements d'évacuation (canalisations, y compris celles permettant l'évacuation des effluents vers les équipements de stockage et de traitement, caniveaux à lisier, etc.) ou de stockage des effluents sont imperméables et maintenus en parfait état d'étanchéité. La pente des sols des bâtiments d'élevage ou des annexes est conçue pour permettre l'écoulement des effluents d'élevage vers les équipements de stockage ou de traitement. Ces dispositions ne s'appliquent pas aux sols des enclos, des vérandas et des bâtiments des élevages sur litière accumulée ainsi qu'aux bâtiments de poules pondeuses en cage.
+Tous les sols des bâtiments d'élevage, des salles de traite, des laiteries et des aires d'ensilage susceptibles de produire des jus, tous les équipements d'évacuation (canalisations, y compris celles permettant l'évacuation des effluents vers les équipements de stockage et de traitement, caniveaux à lisier, etc.) ou de stockage des effluents sont imperméables et maintenus en parfait état d'étanchéité. La pente des sols des bâtiments d'élevage ou des annexes est conçue pour permettre l'écoulement des effluents d'élevage vers les équipements de stockage ou de traitement. Ces dispositions ne s'appliquent pas aux sols des enclos, des volières, des vérandas et des bâtiments des élevages sur litière accumulée ainsi qu'aux bâtiments de poules pondeuses en cage.
 
-A l'intérieur des bâtiments d'élevage, des salles de traite, des laiteries, le bas des murs est imperméable et maintenu en parfait état d'étanchéité sur une hauteur d'un mètre au moins. Cette disposition ne s'applique pas aux sols des enclos, des volières et des bâtiments des élevages sur litière accumulée ainsi qu'aux bâtiments de poules pondeuses en cage.
+A l'intérieur des bâtiments d'élevage, des salles de traite, des laiteries, le bas des murs est imperméable et maintenu en parfait état d'étanchéité sur une hauteur d'un mètre au moins. Cette disposition ne s'applique pas aux sols des enclos, des volières, des vérandas et des bâtiments des élevages sur litière accumulée ainsi qu'aux bâtiments de poules pondeuses en cage.
 
 Les aliments stockés en dehors des bâtiments, à l'exception du front d'attaque des silos en libre-service et des racines et tubercules, sont couverts en permanence par une bâche maintenue en bon état ou tout autre dispositif équivalent afin de les protéger de la pluie.
 
@@ -308,7 +308,9 @@ Ce point de contrôle est susceptible de faire l'objet d'une validation document
 
 Ce point de contrôle est susceptible de faire l'objet d'une validation documentaire si un rapport de contrôle (1) ou d'audit (2) de moins de deux ans mentionne sa conformité.
 
-2.6. Stockage des produits de nettoyage, de désinfection, de traitement, du carburant et des autres produits dangereux
+2.6. Stockage des produits de nettoyage, de désinfection,
+
+de traitement, du carburant et des autres produits dangereux
 
 Les dispositions du présent paragraphe ne sont pas applicables aux équipements de stockage des effluents d'élevage et aux bassins de traitement des effluents liquides.
 
@@ -390,7 +392,7 @@ Le contrôleur s'assure de :
 
 - la présence de vannes de barrage ou de coupure correctement identifiées à l'entrée des bâtiments. Est considéré comme vanne de barrage ou de coupure tout système de coupure centralisée de l'électricité et du gaz le cas échéant.
 
-Ces points de contrôle sont susceptibles de faire l'objet d'une validation documentaire si un rapport de contrôle ou d'audit de moins de deux ans mentionne sa conformité.
+Ces points de contrôle sont susceptibles de faire l'objet d'une validation documentaire si un rapport de contrôle (1) ou d'audit (2) de moins de deux ans mentionne sa conformité.
 
 L'absence des extincteurs ou des vannes de barrage est susceptible de donner lieu à une non-conformité majeure.
 
@@ -448,7 +450,7 @@ Objet du contrôle périodique :
 
 L'exploitant a mis en place des moyens pour limiter sa consommation d'eau (recyclage de l'eau pluie, abreuvoirs anti-gaspillage, pratiques ou dispositifs économes...).
 
-Ces points de contrôle sont susceptibles de faire l'objet d'une validation documentaire si un rapport de contrôle ou d'audit de moins de deux ans mentionne sa conformité.
+Ces points de contrôle sont susceptibles de faire l'objet d'une validation documentaire si un rapport de contrôle (1) ou d'audit (2) de moins de deux ans mentionne sa conformité.
 
 Toute fuite d'eau visible sans projet de réparation est susceptible de donner lieu à une non-conformité majeure.
 
@@ -470,9 +472,9 @@ Lorsque les effluents d'élevage sont rejetés dans le milieu naturel après tra
 
 Les équipements de stockage à l'air libre des effluents liquides sont signalés et entourés d'une clôture de sécurité et dotés, pour les nouveaux équipements, de dispositifs de contrôle de l'étanchéité. Les équipements de stockage des lisiers et effluents liquides construits après le 7 février 2005 sont conformes aux I à V et VII à IX du cahier des charges de l'annexe 2 de l'arrêté du 26 février 2002 susvisé, ou présentent des caractéristiques permettant de garantir les mêmes résultats.
 
-Les fumiers compacts non susceptibles d'écoulement peuvent être stockés ou compostés sur une parcelle d'épandage à l'issue d'un stockage de deux mois sous les animaux ou sur une fumière dans des conditions précisées par le préfet et figurant dans l'arrêté d'autorisation. Le stockage du compost et des fumiers respecte les distances prévues à l'article 5 et ne peut être réalisé sur des sols où l'épandage est interdit. La durée de stockage ne dépasse pas dix mois et le retour sur un même emplacement ne peut intervenir avant un délai de trois ans. Le stockage sur une parcelle d'épandage des fumiers de volailles non susceptibles d'écoulement peut être effectué dans les mêmes conditions sans stockage préalable de deux mois sous les animaux.
+Les fumiers compacts non susceptibles d'écoulement peuvent être stockés ou compostés sur une parcelle d'épandage à l'issue d'un stockage de deux mois sous les animaux ou sur une fumière. Le stockage du compost et des fumiers respecte les distances prévues à l'article 2-1 et ne peut être réalisé sur des sols où l'épandage est interdit. La durée de stockage ne dépasse pas dix mois et le retour sur un même emplacement ne peut intervenir avant un délai de trois ans. Le stockage sur une parcelle d'épandage des fumiers de volailles non susceptibles d'écoulement peut être effectué dans les mêmes conditions sans stockage préalable de deux mois sous les animaux.
 
-Lorsqu'un élevage de volailles dispose d'un procédé de séchage permettant d'obtenir de façon fiable et régulière des fientes comportant plus de 65 % de matière sèche, le stockage de ces fientes, couvertes par une bâche imperméable à l'eau mais perméable aux gaz, peut être effectué sur une parcelle d'épandage dans des conditions précisées par le préfet et figurant dans l'arrêté d'autorisation de l'élevage.
+Lorsqu'un élevage de volailles dispose d'un procédé de séchage permettant d'obtenir de façon fiable et régulière des fientes comportant plus de 65 % de matière sèche, le stockage de ces fientes, couvertes par une bâche imperméable à l'eau mais perméable aux gaz, peut être effectué sur une parcelle d'épandage.
 
 II. - En zone vulnérable aux pollutions par les nitrates, les capacités minimales des équipements de stockage des effluents d'élevage répondent aux dispositions prises en application du 6 du IV de l'article R. 211-81 du code de l'environnement.
 
@@ -496,7 +498,7 @@ Ce point de contrôle est susceptible de faire l'objet d'une validation document
 
 En zone vulnérable aux pollutions par les nitrates, une capacité de stockage non conforme aux valeurs du programme d'actions nitrates est susceptible de donner lieu à une non-conformité majeure.
 
-Ce point de contrôle est susceptible de faire l'objet d'une validation documentaire si un rapport de contrôle ou d'audit de moins de deux ans mentionne sa conformité.
+Ce point de contrôle est susceptible de faire l'objet d'une validation documentaire si un rapport de contrôle (1) ou d'audit (2) de moins de deux ans mentionne sa conformité.
 
 3. Tout écoulement direct des boues ou eaux polluées vers les cours d'eau, le domaine public et les terrains des tiers ou tout rejet visible et direct d'effluent ou d'eaux résiduaires dans le milieu naturel ou dans les eaux souterraines et de rejet directs d'effluents d'élevage non traités dans les eaux superficielles douces et marines est susceptible de donner lieu à une non-conformité majeure.
 
@@ -512,11 +514,11 @@ L'épandage sur des terres agricoles des effluents d'élevage, bruts ou traités
 
 Les effluents bruts d'élevage peuvent notamment être peuvent traités :
 
-- dans une station de traitement dans les conditions prévues au 4.2.1 ;
+- dans une station de traitement dans les conditions prévues au 4.3 ;
 
-- par compostage dans les conditions prévues au 4.2.2 ;
+- par compostage dans les conditions prévues au 4.4 ;
 
-- sur un site spécialisé dans les conditions prévues au 4.2.3 ;
+- sur un site spécialisé dans les conditions prévues au 4.5 ;
 
 - pour les effluents peu chargés par une filière de gestion validée dans le cadre du programme de maîtrise des pollutions d'origine agricole (PMPOA).
 
@@ -636,7 +638,7 @@ Composts d'effluents d'élevages élaborés selon les modalités prévues au 4.4
 
 |
 
-Fumiers de bovins et porcins compacts non susceptibles d'écoulement, après un stockage d'au minimum deux mois
+Fumiers de bovins et porcs compacts non susceptibles d'écoulement, après un stockage d'au minimum deux mois
 
 |
 
@@ -684,11 +686,11 @@ c) Distances vis-à-vis des autres éléments de l'environnement :
 
 L'épandage des effluents d'élevage et des matières issues de leur traitement est interdit à moins de :
 
-50 mètres des points de prélèvement d'eau destinée à l'alimentation des collectivités humaines ou des particuliers et à 35 mètres dans le cas des points de prélèvement en eaux souterraines (puits, forages et sources) ;
+50 mètres des points de prélèvement d'eau destinée à l'alimentation des collectivités humaines ou des particuliers. Cette distance est réduite à 35 mètres lorsque ces prélèvements sont réalisés en eaux souterraines (puits, forages et sources) ;
 
 200 mètres des lieux de baignade déclarés et des plages, à l'exception des piscines privées, sauf pour les composts élaborés conformément au paragraphe 4.4 qui peuvent être épandus jusqu'à 50 mètres ;
 
-500 mètres en amont des zones conchylicoles, sauf dérogation liée à la topographie, à la circulation des eaux et prévue par l'arrêté préfectoral d'autorisation ;
+500 mètres en amont des zones conchylicoles, sauf dérogation liée à la topographie et à la circulation des eaux ;
 
 35 mètres des berges des cours d'eau ; cette limite est réduite à 10 mètres si une bande végétalisée de 10 mètres ne recevant aucun intrant, à l'exception de ceux épandus par les animaux eux-mêmes, est implantée de façon permanente en bordure des cours d'eau. Dans le cas des cours d'eau alimentant une pisciculture, à l'exclusion des étangs empoissonnés où l'élevage est extensif sans nourrissage ou avec apport de nourriture exceptionnel, la distance est portée à 50 mètres des berges du cours d'eau sur un linéaire d'un kilomètre le long des cours d'eau en amont de la pisciculture.
 
@@ -714,13 +716,13 @@ Le plan d'épandage est complet et permet de visualiser les zones d'exclusion :
 
 - il existe un tableau comportant la quantité d'azote issue des animaux de l'installation et épandue sur ces surfaces. Le cas échéant, figure également la quantité d'azote des effluents d'élevage provenant d'autres élevages.
 
-Ce point de contrôle est susceptible de faire l'objet d'une validation documentaire si un rapport de contrôle ou d'audit de moins de deux ans mentionne sa conformité.
+Ce point de contrôle est susceptible de faire l'objet d'une validation documentaire si un rapport de contrôle (1) ou d'audit (2) de moins de deux ans mentionne sa conformité.
 
 4.2.5. Délais d'enfouissement
 
 Les épandages sur terres nues sont suivis d'un enfouissement :
 
-- dans les vingt-quatre heures pour les fumiers de bovins et porcins compacts non susceptibles d'écoulement, après un stockage d'au minimum deux mois, ou pour les matières issues de leur traitement ;
+- dans les vingt-quatre heures pour les fumiers de bovins et porcs compacts non susceptibles d'écoulement, après un stockage d'au minimum deux mois, ou pour les matières issues de leur traitement ;
 
 - dans les douze heures pour les autres effluents d'élevage ou les matières issues de leur traitement.
 
@@ -794,9 +796,7 @@ Pour la période allant de 6 heures à 22 heures :
 
 DURÉE CUMULÉE
 
-d'apparition du bruit particulier T
-
-|
+d'apparition du bruit particulier T |
 
 ÉMERGENCE MAXIMALE
 
@@ -896,7 +896,7 @@ Objet du contrôle périodique :
 
 1. Il existe un mode d'élimination des bidons de désinfectants, des déchets de soins vétérinaires et le cas échéant des sacs d'aliment, attesté par des bordereaux ou justificatifs d'enlèvements.
 
-Ce point de contrôle est susceptible de faire l'objet d'une validation documentaire si un rapport de contrôle ou d'audit de moins de deux ans mentionne sa conformité.
+Ce point de contrôle est susceptible de faire l'objet d'une validation documentaire si un rapport de contrôle (1) ou d'audit (2) de moins de deux ans mentionne sa conformité.
 
 2. Le contrôleur s'assure que :
 
@@ -904,7 +904,7 @@ Ce point de contrôle est susceptible de faire l'objet d'une validation document
 
 - les animaux morts sont stockés conformément aux 7.1. et 7.2.
 
-Ces points de contrôle sont susceptibles de faire l'objet d'une validation documentaire si un rapport de contrôle ou d'audit de moins de deux ans mentionne sa conformité.
+Ces points de contrôle sont susceptibles de faire l'objet d'une validation documentaire si un rapport de contrôle (1) ou d'audit (2) de moins de deux ans mentionne sa conformité.
 
 L'accumulation importante de déchets non triés sur l'exploitation ou l'accumulation de cadavres sans justification due à des conditions exceptionnelles est susceptible de donner lieu à une non-conformité majeure.
 
@@ -958,7 +958,7 @@ Le cahier d'épandage est à jour et renseigné, il contient :
 
 - les bordereaux cosignés (éleveur prêteur de terres) en cas d'épandage sur des parcelles mises à disposition par des tiers.
 
-Ces points de contrôle sont susceptibles de faire l'objet d'une validation documentaire si un rapport de contrôle ou d'audit de moins de deux ans mentionne sa conformité.
+Ces points de contrôle sont susceptibles de faire l'objet d'une validation documentaire si un rapport de contrôle (1) ou d'audit (2) de moins de deux ans mentionne sa conformité.
 
 L'absence des mentions relatives aux dates d'épandage et aux quantités d'azote épandues (azote organique ou minéral) par îlot cultural est susceptible de donner lieu à une non-conformité majeure.
 
