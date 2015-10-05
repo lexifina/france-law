@@ -84,6 +84,10 @@ Picornaviridae :
 
 - virus poliomyélitique.
 
+Coronaviridae :
+
+- coronavirus du syndrome respiratoire du Moyen-Orient (MERS-CoV) pour les opérations réalisées aux seules fins d'analyse de biologie médicale ou de confirmation d'analyse de biologie médicale.
+
 c) Les toxines :
 
 - la ricine ;

@@ -56,7 +56,7 @@ Coronaviridae :
 
 - coronavirus responsable du syndrome respiratoire aigu sévère (SARS-CoV) ;
 
-- coronavirus du syndrome respiratoire du Moyen-Orient (MERS-CoV).
+- coronavirus du syndrome respiratoire du Moyen-Orient (MERS-CoV) pour les opérations autres que celles réalisées aux seules fins d'analyse de biologie médicale ou de confirmation d'analyse de biologie médicale.
 
 2° Les micro-organismes génétiquement modifiés issus d'un des micro-organismes hautement pathogènes mentionnés au 1° de la présente annexe, lorsqu'ils présentent un risque pour la santé publique supérieur ou équivalent à celui présenté par la souche parentale dont ils sont issus.
 
