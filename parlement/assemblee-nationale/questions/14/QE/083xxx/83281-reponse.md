@@ -1,0 +1,9 @@
+# Réponse à la question n° 83281
+
+- Question : [83281](83281.md) — Question n° 83281 — instances consultatives; coût de fonctionnement
+
+## Réponse
+
+*JO du 2015-10-06*
+
+Le code du travail prévoit que la Commission nationale des titres-restaurant (CNTR) est chargée de vérifier l'exercice de la profession de restaurateur ou de celle de détaillant en fruits et légumes. Elle a également pour mission d'accorder l'assimilation à la profession de restaurateur aux personnes, entreprises ou organismes qui, au moins six mois par an, proposent à la vente au détail des préparations alimentaires sans être en possession du numéro d'activité attribué aux restaurateurs. Les professionnels bénéficiant d'un accord de la CNTR sont autorisés à accepter des titres-restaurant en contrepartie de leurs prestations. Le code du travail prévoit par ailleurs que la CNTR exerce un contrôle sur le fonctionnement des comptes de titres-restaurant ouverts par les émetteurs auprès des établissements financiers afin d'assurer le remboursement des titres qui ont été remis en paiement aux professionnels. Au cours de l'année 2014, sur les 27 227 demandes adressées à la CNTR (24 946 en 2013), 24 611 autorisations ont été données (24 808 en 2013) et 142 dossiers ont fait l'objet d'un refus définitif (102 en 2013). Pour permettre à la CNTR d'exercer ses missions, le soutien apporté en 2014 par le ministère chargé de l'économie, au titre du fonctionnement de la structure, comprend la prise en charge : de 9 agents mis à disposition, pour un montant total de 611 323 € ; de frais d'affranchissement de courriers adressés aux professionnels demandant leur assimilation, pour 93 375 € ; de dépenses de fluides pour 10 604 € ; de maintenance et d'entretien, pour 8 103 €. Le montant des dépenses de fonctionnement prises en charge sur le budget du ministère chargé de l'économie est de 723 405 € représentant la plus grande partie du budget de la CNTR.
