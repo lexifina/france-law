@@ -1,0 +1,9 @@
+# Réponse à la question n° 79323
+
+- Question : [79323](79323.md) — Question n° 79323 — aides; FISAC; perspectives
+
+## Réponse
+
+*JO du 2015-10-06*
+
+Un dispositif d'aide spécifique, mis en place par la secrétaire d'Etat chargée du commerce, de l'artisanat, de la consommation et de l'économie sociale et solidaire compte tenu de la disparition du comité professionnel de la distribution des carburants (CPDC), permet de financer par ordre d'ancienneté le stock de dossiers en attente au CPDC au 31 décembre 2014 et portant sur des investissements de modernisation et de développement. Il concerne aussi les dossiers revêtant une urgence particulière ou concernant le maillage territorial et déposés après cette date. Ce dispositif est doté de 2,5 M€, imputés sur le fonds d'intervention pour les services, l'artisanat et le commerce (FISAC), au titre de l'année 2015, et les critères d'éligibilités sont ceux qui étaient en vigueur au comité. Les nouvelles autres demandes d'aides à l'investissement sont assujetties aux modalités de droit commun applicables à tous les autres commerces de proximité dans le cadre des opérations territoriales aidées par le FISAC. Ces conditions d'intervention doivent permettre de financer les meilleurs projets répondant aux priorités gouvernementales en matière de soutien à l'économie de proximité dans un cadre budgétaire contraint. La modernisation et la diversification des stations-service qui assurent le maillage du territoire constituent une des priorités. A l'occasion du comité interministériel aux ruralités, le Président de la République a fait un geste en faveur des stations-service, nombreuses à menacer de fermeture notamment dans les campagnes. Il a annoncé l'attribution d'un budget de 12,5 M€ en 2016 au FISAC pour traiter l'ensemble des demandes qui avaient été déposées au CPDC avant sa suppression.
