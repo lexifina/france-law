@@ -1,0 +1,116 @@
+# Délibération n° 2015-348 du 6 octobre 2015 portant avis sur un projet d'arrêté relatif à la mise en service à la direction générale des finances publiques, à l'Agence centrale des organismes de sécurité sociale d'une procédure automatisée de transfert des données fiscales (TDF) (demande d'avis n° 714281v20)
+
+- Nature : Deliberation
+- Type : Avis
+- Numéro : 2015-348
+- Date : 2015-10-06
+- Publication : 2017-05-10
+- NOR : CNIX1713907X
+- État : VIGUEUR
+- Légifrance : https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000034625209
+
+La Commission nationale de l'informatique et des libertés,
+
+Saisie par le ministre des finances et des comptes publics d'une demande d'avis concernant un projet d'arrêté relatif à la mise en service à la direction générale des finances publiques, à l'Agence centrale des organismes de sécurité sociale d'une procédure automatisée de transfert des données fiscales ;
+
+Vu la convention n° 108 du Conseil de l'Europe pour la protection des personnes à l'égard du traitement automatisé des données à caractère personnel ;
+
+Vu la directive 95/46/CE du Parlement européen et du Conseil du 24 octobre 1995 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données ;
+
+Vu le code général des impôts ;
+
+Vu le livre des procédures fiscales, notamment ses articles L. 152, L. 288, R. 152-1, R. 287 et R. 288-1 et suivants ;
+
+Vu le code de la sécurité sociale, notamment ses articles L. 244-3, L. 380-1, L. 380-3-1, R. 380-3 et D. 380-5 ;
+
+Vu la loi n° 78-17 du 6 janvier 1978 modifiée relative à l'informatique, aux fichiers et aux libertés ;
+
+Vu le décret n° 99-1047 du 14 décembre 1999 pris pour l'application de l'article 107 de la loi de finances pour 1999 (n° 98-1266 du 30 décembre 1998) relatif à l'utilisation du numéro d'inscription au répertoire national d'identification des personnes physiques par la direction générale des impôts, la direction générale de la comptabilité publique et la direction générale des douanes et droits indirects ;
+
+Vu le décret n° 2000-8 du 4 janvier 2000 modifié pris pour l'application de l' article L. 288 du livre des procédures fiscales ;
+
+Vu le décret n° 2002-771 du 3 mai 2002 modifié portant création d'une procédure de transfert de données fiscales ;
+
+Vu le décret n° 2005-1309 du 20 octobre 2005 modifié pris pour l'application de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés ;
+
+Vu le décret n° 2014-516 du 22 mai 2014 relatif aux modalités de liquidation et de recouvrement de la cotisation maladie due par les personnes affiliées au régime général sur critère de résidence et à diverses dispositions relatives aux soins dispensés hors de France ;
+
+Vu le décret n° 2014-517 du 22 mai 2014 relatif au taux et aux modalités de calcul de la cotisation maladie due par les personnes affiliées au régime général sur critère de résidence ;
+
+Vu la délibération n° 01-055 du 25 octobre 2001 relative à la création d'une procédure de transfert de données fiscales pour le compte de l'Etat et des organismes de protection sociale visés à l' article L. 152 du livre des procédures fiscales ;
+
+Vu la délibération n° 2011-323 du 13 octobre 2011 portant avis sur un projet d'arrêté généralisant une procédure automatisée de transfert de données fiscales préalablement expérimentée entre la direction générale des finances publiques et l'Agence centrale des organismes de sécurité sociale et relative aux travailleurs affiliés au régime social des indépendants ;
+
+Vu le dossier et ses compléments ;
+
+Sur la proposition de M. Jean-Luc VIVET, commissaire, et après avoir entendu les observations de M. Jean-Alexandre SILVY, commissaire du Gouvernement,
+
+Emet l'avis suivant :
+
+La Commission nationale de l'informatique et des libertés a été saisie pour avis par le ministre des finances et des comptes publics d'un projet d'arrêté relatif à la mise en service, à la direction générale des finances publiques (DGFiP), d'une procédure automatisée de transfert des données fiscales avec l'Agence centrale des organismes de sécurité sociale (ACOSS).
+
+La procédure de transfert de données fiscales (dite TDF ) a été créée par le décret n° 2002-771 du 3 mai 2002 susvisé, pris après l'avis de la commission en date du 25 octobre 2001, afin de permettre aux agents des administrations fiscales de communiquer aux organismes et services chargés de la gestion d'un régime obligatoire de sécurité sociale ou d'un régime de retraite complémentaire obligatoire, sur support informatique, les informations fiscales nécessaires à l'exécution des finalités mentionnées à l' article L. 152 du livre des procédures fiscales (LPF). Ces finalités concernent, à titre général, le contrôle des déclarations des allocataires aux fins d'ouverture, de maintien et de calcul des droits.
+
+Ce même article précise que le numéro d'inscription au répertoire national d'identification des personnes physiques (NIR) peut être utilisé pour les demandes, échanges et traitements nécessaires à la communication des informations qui y sont mentionnées, lorsqu'elles concernent des personnes physiques.
+
+La procédure TDF est mise en œuvre dans le cadre d'un centre de services informatiques unique, hébergé par la DGFiP et dénommé Centre national de transfert de données fiscales (CNTDF). Celui-ci reçoit les demandes des organismes sociaux qui fournissent un fichier d'appels concernant certains de leurs assurés, les transmet à la DGFiP et adresse les réponses reçues de cette dernière ( fichiers de restitutions ). Cette procédure permet ainsi de communiquer uniquement les données des personnes concernées par la demande adressée par ces organismes et à transmettre les seules informations qui leur sont nécessaires.
+
+L' article 2 du décret n° 99-1047 du 14 décembre 1999 susvisé prévoit expressément que des arrêtés ministériels pris après avis de la Commission nationale de l'informatique et des libertés fixent la liste des informations pouvant être obtenues par les organismes de sécurité sociale et les règles auxquelles doivent satisfaire les traitements opérés pour le recueil et l'exploitation de ces informations .
+
+C'est dès lors sur le fondement de ce décret que le présent projet d'arrêté est soumis pour avis à la commission. Il vise à faire bénéficier l'ACOSS, déjà adhérente à la procédure TDF, d'un nouveau type de transfert de données.
+
+L'article 1er du projet d'arrêté précise en effet que ce nouveau type de transfert d'informations à destination de l'ACOSS doit permettre le calcul de la cotisation maladie des personnes résidant en France et travaillant en Suisse, affiliées au régime général de sécurité sociale français.
+
+La commission rappelle que l'ACOSS est un établissement public national à caractère administratif chargé d'assurer la gestion commune et centralisée des ressources et de la trésorerie du régime général de la sécurité sociale. Dotée d'une personnalité juridique et d'une autonomie financière, l'ACOSS assure l'individualisation de la trésorerie de chacune des branches de la sécurité sociale (maladie, famille, vieillesse, accident du travail et maladies professionnelles) et pilote le réseau des URSSAF (Union de recouvrement des cotisations de sécurité sociale et d'allocations familiales). A ce titre, cette agence est notamment chargée d'assurer la collecte des cotisations destinées à financer la sécurité sociale et la répartition de ces fonds aux organismes en charge de les redistribuer sous forme de prestations.
+
+Les décrets n° 2014-516 et n° 2014-517 susvisés précisent les modalités de prise en charge, par l'ACOSS, des fonctions de recouvrement de la cotisation maladie de la population des frontaliers suisses dans le cadre de la fin du droit d'option. En effet, jusqu'à présent, les travailleurs frontaliers qui exercent en Suisse et résident en France pouvaient être exemptés de l'obligation de s'affilier au régime d'assurance maladie suisse s'ils disposaient d'une couverture maladie en France, conformément aux dispositions de l'accord signé entre l'Union européenne et la Confédération suisse du 21 juin 1999. En cas de non-affiliation au régime d'assurance maladie suisse, les travailleurs frontaliers résidant en France disposaient de deux possibilités : l'affiliation au régime général de sécurité sociale français au titre de la couverture maladie universelle (CMU) ou, jusqu'au 31 mai 2014, la souscription d'un contrat d'assurance privé pour le risque maladie.
+
+La fin du droit de recours à une assurance privée pour couvrir le risque maladie nécessite dès lors l'affiliation au régime général de sécurité sociale, par les caisses primaires d'assurance maladie (CPAM) et les URSSAF, des personnes actuellement bénéficiaires d'un contrat d'assurance.
+
+La commission relève que le réseau des URSSAF sera chargé du calcul et de l'encaissement des cotisations des travailleurs frontaliers en Suisse, conformément à l' article R. 380-3 du code de la sécurité sociale ( CSS). A cet égard, l'article D. 380-5 du même code prévoit que les éléments nécessaires à la détermination de la cotisation due par les personnes affiliées au régime général de sécurité sociale français sont communiqués par l'administration fiscale aux organismes chargés de la liquidation et du recouvrement de cette cotisation.
+
+La communication d'informations fiscales issues de la déclaration de revenus concernant les assurés résidant en France et travaillant en Suisse, affiliés au régime général de la sécurité sociale français, fait suite à la transmission par I'ACOSS au CNTDF d'un fichier d'appels , lequel procède ensuite au traitement des informations transmises par la DGFiP avant de constituer des fichiers de restitutions d'informations fiscales à destination de l'ACOSS.
+
+Au regard de l'ensemble de ces éléments, la commission considère que la mise en œuvre d'un nouveau type de transfert d'informations devant permettre le calcul de la cotisation maladie des assurés résidant en France et travaillant en Suisse apparaît conforme aux dispositions de l'article L. 152 du LPF. Elle rappelle néanmoins que seules les informations fiscales nécessaires à l'exécution des finalités mentionnées à l'article L. 152 du LPF pourront être traitées.
+
+L'article 2 du projet d'arrêté énumère les informations contenues dans le fichier d'appels transmis par l'ACOSS au CNTDF et l'article 3, les informations restituées par le traitement TDF aux organismes demandeurs. La commission relève que la constitution d'un fichier d'appels s'effectue sous le contrôle de l'organisme demandeur. Tout fichier d'appels est ainsi accompagné des noms et coordonnées du correspondant CNTDF de l'organisme pour le compte duquel il est présenté.
+
+Conformément aux dispositions de l'article R. 152-1 susvisé, le NIR peut être communiqué par l'ACOSS quand il en a connaissance. La commission rappelle que les NIR transmis par cet organisme sont exclusivement conservés au CNTDF dans des fichiers informatisés dédiés, dénommés tables de correspondance NIR/ITIP­SPI , permettant d'établir un lien entre le NIR complété des quatre premiers caractères du nom de famille, d'une part, et l'identifiant technique du système d'information de la DGFiP (n° ITIP) et l'identifiant fiscal national individuel utilisé par les administrations fiscales dans leurs traitements internes et dans leurs relations avec les contribuables (n° SPI), d'autre part.
+
+La commission considère que les données traitées sont adéquates, pertinentes et non excessives au regard des finalités pour lesquelles elles sont collectées, conformément à l'article 6 (3°) de la loi du 6 janvier 1978 modifiée.
+
+Les informations contenues dans les fichiers d'appels ou de restitutions sont conservées au CNTDF deux ans au maximum à compter de la réception des fichiers.
+
+La commission prend acte des précisions du ministère selon lesquelles cette durée correspond à l'année en cours ainsi qu'à l'année précédente et qu'il s'agit du temps nécessaire à la réalisation du traitement et aux réponses adressées aux requêtes des organismes. Elle prend acte que, à sa demande, le point de départ de cette durée de conservation, c'est-à-dire la réception de ces fichiers, figurera expressément dans le projet d'arrêté.
+
+Les informations présentes dans les fichiers de restitutions sont conservées trois ans à compter de la date d'acquittement ou d'exigibilité des contributions, par l'ACOSS, conformément à l' article L. 244-3 du code de la sécurité sociale.
+
+Les destinataires des fichiers de restitutions sont les agents habilités de l'ACOSS.
+
+S'agissant des modalités d'information des personnes, la commission observe qu'une mention particulière figure dans la notice de déclaration de revenus, sous l'intitulé Données fiscales : accès et transmission , visant à informer l'ensemble des usagers de l'existence de la procédure de transfert de données fiscales. Elle prend par ailleurs acte que l'ACOSS s'engage à modifier les notifications d'affiliation afin d'informer les cotisants, via ce courrier, de la mise en œuvre de la procédure TDF.
+
+La commission considère que les conditions d'information prévues à l'article 32 de la loi du 6 janvier 1978 modifiée sont remplies.
+
+Les droits d'accès et de rectification prévus aux articles 39 et 40 de la loi du 6 janvier 1978 modifiée s'exercent auprès du centre des finances publiques du domicile fiscal du requérant pour les informations issues de traitements relevant de la DGFiP et auprès du Centre national des travailleurs frontaliers en Suisse gérant le dossier du redevable pour les travailleurs frontaliers résidant en France s'agissant des informations transmises à l'ACOSS.
+
+La commission relève que le droit d'opposition, prévu par l'article 38 de la loi du 6 janvier 1978 modifiée, ne s'applique pas au traitement projeté.
+
+S'agissant des mesures de sécurité, le CNTDF est situé au sein de l'établissement de services informatiques (ESI) de Nevers, lequel répond aux conditions de sécurité particulières exigées par le décret no 2000-8 du 4 janvier 2000 susvisé.
+
+Les transmissions de données sont effectuées sous forme chiffrée dans le cadre du réseau privé et sécurisé de la DGFiP ou exceptionnellement par CD-ROM.
+
+Une copie de la table de correspondance NIR/ITIP est constituée dans l'ESI de Clermont-Ferrand puis transmise sous forme chiffrée au CNTDF par le réseau sécurisé. Cette table est conservée dans des fichiers dédiés sur des supports informatiques distincts permettant leur destruction physique. En cas de nécessité, un dispositif informatique permet de déclencher à distance l'effacement de la table de correspondance.
+
+Une politique de gestion des habilitations est mise en œuvre. Le contrôle d'accès logique s'effectue par mot de passe. La commission prend acte que le ministère s'engage à respecter ses recommandations concernant la gestion des mots de passe.
+
+Une traçabilité des actions des utilisateurs, individuellement habilités, est également assurée (identifiant, horodatage de connexion/déconnexion, commandes lancées). Il en va de même pour les accès à la table de correspondance NIR/ITIP qui font également l'objet d'une journalisation. L'ensemble des données de journalisation est conservé treize mois.
+
+La commission considère que les mesures de sécurité mises en place sont conformes à l'exigence de sécurité prévue à l'article 34 de la loi du 6 janvier 1978 modifiée. Elle rappelle toutefois que cette obligation nécessite la mise à jour des mesures de sécurité au regard de la réévaluation régulière des risques.
+
+La présidente,
+
+I. Falque-Pierrotin
+
+Le vice-président délégué,
+
+M.-F. Mazars
