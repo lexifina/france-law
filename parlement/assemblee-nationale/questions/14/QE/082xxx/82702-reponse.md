@@ -1,0 +1,9 @@
+# Réponse à la question n° 82702
+
+- Question : [82702](82702.md) — Question n° 82702 — rapport du CESE; préconisations
+
+## Réponse
+
+*JO du 2015-10-06*
+
+Le ministère de la culture et de la communication par l'intermédiaire du Centre national du cinéma et de l'image animée a toujours veillé à favoriser et maintenir la pluralité de la diffusion cinématographique ainsi que la diversité du parc cinématographique. Dans ce but, de nombreux dispositifs de soutien aux salles et aux exploitants ont été mis en place. Il existe ainsi des aides à l'investissement (soutien financier automatique et soutien financier sélectif) qui permettent la rénovation du parc existant et la création de nouveaux lieux, ainsi que des aides au fonctionnement, telle l'aide aux salles classées Art & Essai, qui incitent à la programmation, l'exposition et l'accompagnement d'oeuvres de qualité. Tous ces dispositifs tiennent compte des disparités entre établissements. Le mode de calcul du soutien financier automatique, ouvert à tous les établissements cinématographiques, est structurellement mutualiste puisque son barème dégressif fait des établissements les plus fragiles les principaux bénéficiaires. Le soutien sélectif à la modernisation et la création d'établissements ne peut quant à lui être accordé à un bénéficiaire exploitant ou propriétaire de plus de 50 écrans, et bénéficie de ce fait exclusivement à l'exploitation indépendante. Enfin, le classement Art & Essai a vu sa dotation progresser constamment et très significativement (+30 % depuis 2008) jusqu'à bénéficier en 2014 à 1 148 établissements (plus de la moitié du parc) pour un montant global de 14,655 M€. Cette aide, en moyenne de 13 000 € par établissement, témoigne de la forte volonté de soutenir une action décisive pour la formation des publics et la diffusion des oeuvres sur tout le territoire.
