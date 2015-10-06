@@ -1,0 +1,9 @@
+# Réponse à la question n° 16724
+
+- Question : [16724](16724.md) — Question n° 16724 — textes d'application; publication
+
+## Réponse
+
+*JO du 2015-10-06*
+
+Le Secrétaire d'Etat, auprès du Premier ministre, chargé des relations avec le Parlement, est sensible à la démarche de M. le Député relative au suivi des textes d'application des lois, qui participe du contrôle de l'action du Gouvernement. Il regrette qu'aucune réponse ne lui ait été apportée malgré plusieurs renouvellements dans le délai de deux mois, prévu à l'article 135 du règlement de l'Assemblée nationale, et dont le Secrétaire d'Etat s'attache, autant qu'il est possible, à promouvoir le respect. Plusieurs dispositions de la loi n° 2011-1862 du 13 décembre 2011, relative à la répartition des contentieux et à l'allègement de certaines procédures, appelaient des décrets d'applications. Tel était notamment le cas du 2° du I. de l'article 44 de ladite loi, concernant, d'une part, les communications par la Cour des comptes aux ministres, organismes et entreprises ainsi qu'aux autorités administratives compétentes, des observations et recommandations d'amélioration ou de réforme, et, d'autre part, la publicité des observations et recommandations de la Cour des comptes. Le deuxième alinéa de l'article 43, appelait lui aussi un décret d'application, concernant le recours aux experts par la Cour des comptes. L'ensemble de ces dispositions ont fait l'objet d'un décret n° 2013-268, pris par le Premier ministre le 29 mars 2013 et publié au Journal Officiel le 31 mars 2013. Le Secrétaire d'Etat, auprès du Premier ministre, chargé des relations avec le Parlement, se réjouit que l'application de ces mesures puisse conforter le travail de contrôle des assemblées, mission pour laquelle celles-ci reçoivent l'appui de la Cour des comptes, conformément à l'article 47-2 de la Constitution.
