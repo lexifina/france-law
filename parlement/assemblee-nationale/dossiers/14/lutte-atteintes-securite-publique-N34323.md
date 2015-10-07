@@ -1,0 +1,64 @@
+# Transports : lutte contre les incivilités et les actes terroristes
+
+- Procédure : Proposition de loi ordinaire
+- Législature : 14
+- Identifiant : DLR5L14N34323
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/lutte_atteintes_securite_publique
+- Sénat : http://www.senat.fr/dossier-legislatif/ppl15-281.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2015-10-07 : 1er dépôt d'une initiative. (PIONANR5L14B3109)
+  - 2015-10-19 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2015-10-07 : Renvoi en commission au fond
+      - 2015-10-20 : Nomination de rapporteur
+      - 2015-12-08 : Réunion de commission
+      - 2015-12-08 : Réunion de commission
+      - 2015-12-16 : Réunion de commission
+      - 2015-12-09 : Dépôt de rapport (RAPPANR5L14B3314, PIONANR5L14BTC3314)
+    - Travaux d'une commission saisie pour avis
+      - 2015-10-22 : Saisine pour avis d'une commission
+      - 2015-10-29 : Nomination de rapporteur
+      - 2015-12-08 : Réunion de commission
+      - 2015-12-08 : Dépôt de rapport (AVISANR5L14B3307)
+  - Discussion en séance publique
+    - 2015-12-16 : Discussion en séance publique
+    - 2015-12-17 : Discussion en séance publique
+    - 2015-12-17 : Discussion en séance publique
+    - 2015-12-17 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2015-12-17 : Dépôt d'une initiative en navette (PIONSNR5S259B0281)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2015-12-17 : Renvoi en commission au fond
+      - 2015-12-16 : Nomination de rapporteur
+      - 2016-01-20 : Dépôt de rapport (RAPPSNR5S259B0315)
+    - Travaux d'une commission saisie pour avis
+      - 2015-12-16 : Saisine pour avis d'une commission
+      - 2015-12-16 : Nomination de rapporteur
+      - 2016-01-20 : Dépôt de rapport (AVISSNR5S259B0314)
+  - Discussion en séance publique
+    - 2016-01-27 : Discussion en séance publique
+    - 2016-01-28 : Discussion en séance publique
+    - 2016-01-28 : Décision
+- Commission Mixte Paritaire
+  - 2016-01-28 : Dépôt d'un projet de loi (PIONANR5L14B3452)
+  - 2016-01-29 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2016-02-10 : Nomination de rapporteur
+    - 2016-02-10 : Dépôt du rapport d'une CMP (RAPPSNR5S259B0381)
+    - 2016-02-11 : Dépôt du rapport d'une CMP (RAPPANR5L14B3494)
+  - Discussion en séance publique
+    - 2016-03-02 : Discussion en séance publique
+    - 2016-03-02 : Décision
+  - Discussion en séance publique
+    - 2016-03-09 : Discussion en séance publique
+    - 2016-03-09 : Décision
+  - 2016-02-11 : Décision de la CMP
+- Promulgation de la loi
+  - 2016-03-22 : Promulgation d'une loi
+- Mise en application de la loi
+  - 2018-02-07 : Rapport sur l'application des lois (RINFANR5L15B0638)
