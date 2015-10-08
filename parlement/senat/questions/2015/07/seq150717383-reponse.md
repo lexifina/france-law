@@ -1,0 +1,9 @@
+# Réponse à la question SEQ150717383
+
+- Question : [SEQ150717383](seq150717383.md) — Sécurité des entrepôts de l'armée française
+
+## Réponse
+
+*Défense, JO du 2015-10-08, page 2380*
+
+Consécutivement à l'intrusion par effraction et au vol de munitions constatés le 6 juillet 2015 sur le site de l'établissement principal des munitions « Provence », implanté à Miramas, les autorités judiciaires, saisies par le ministre de la défense, ont diligenté une enquête dont la conduite a été confiée conjointement à la section de recherches de Marseille et à l'institut de recherche criminelle de la gendarmerie nationale. Le ministre a également ordonné le déclenchement d'une enquête de commandement, instruite par les inspecteurs généraux des armées, afin d'analyser les faits, de définir l'organisation du vol et d'établir les éventuelles responsabilités. Par ailleurs, le ministre a demandé à la structure de préfiguration de la direction de la protection des installations, moyens et activités de la défense d'évaluer sous quinzaine la protection des sites militaires de stockage de munitions. Sur la base de cette évaluation, un plan d'urgence dédié à la sécurisation des sites considérés a été élaboré et validé par le ministre. Le dispositif adopté comporte trois types de mesures : - des mesures immédiates, d'ores et déjà appliquées ou en cours de mise en œuvre : renforcement de la protection physique au niveau des clôtures et des magasins de stockage des munitions, réparation des systèmes de surveillance endommagés ; - des mesures visant à doter dans les meilleurs délais les sites les plus vulnérables de systèmes de vidéosurveillance ; - des mesures pérennes de reconstruction des magasins de stockage de munitions et de renforcement des capacités de détection des sites. Leur réalisation débutera dès 2016 et entraînera un surcoût d'environ 60 M€ au titre de cette annuité.
