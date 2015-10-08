@@ -1,0 +1,9 @@
+# Réponse à la question SEQ150616569
+
+- Question : [SEQ150616569](seq150616569.md) — Hausse des effectifs au sein de l'armée française
+
+## Réponse
+
+*Défense, JO du 2015-10-08, page 2380*
+
+La loi n° 2015-917 du 28 juillet 2015 actualisant la programmation militaire pour les années 2014 à 2019 et portant diverses dispositions concernant la défense prend en compte les évolutions du contexte stratégique intervenues depuis 2013. Les crises récentes (attentats commis au mois de janvier 2015 à Paris, activité des groupes terroristes dans la bande sahélo-saharienne ou en Irak, crise ukrainienne...) illustrent une dégradation certaine de la situation, tant à l'intérieur qu'à l'extérieur de nos frontières, et l'augmentation durable des risques et des menaces identifiés. Elles nécessitent la consolidation de notre effort de défense. Dans ce contexte, le Président de la République et le Gouvernement ont fait le choix d'augmenter le budget de la Défense de 3,8 Md€ par rapport à la trajectoire initiale établie par la LPM pour atteindre un montant de 162,41 Md€ entre 2015 et 2019. La diminution globale des effectifs du ministère sera ramenée de 33 675 à 14 925 équivalents temps plein au cours de la période 2014-2019, ce qui permettra notamment de porter, d'ici à 2016, les effectifs de la force opérationnelle terrestre à 77 000 hommes (au lieu des 66 000 prévus à l'origine par la LPM) et de renforcer les domaines du renseignement et de la cyberdéfense. Un effort particulier sera par ailleurs consenti en vue de renouveler et de compléter l'équipement de nos forces et d'améliorer la disponibilité des matériels. Dans ces conditions, les armées françaises disposeront de la capacité de faire face dans la durée à l'ensemble de leurs engagements opérationnels sur le territoire national comme sur les théâtres extérieurs. Les mesures engagées afin de réformer et de moderniser le ministère de la défense seront dans le même temps poursuivies.
