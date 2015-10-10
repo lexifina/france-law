@@ -53,3 +53,7 @@ Vous pouvez consulter l'image dans le fac-similé du JO nº 0141 du 20/06/2015, 
 http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20150620&numTexte=12&pageDebut=10154&pageFin=10155
 
 Panneau B1j. - Panneau de répétition d'interdiction d'accès à contresens de bretelles de sortie sur les autoroutes et routes à chaussées séparées sans accès riverain
+
+Les modèles des signaux M12, R12pps et R19 et leurs définitions figurent à l'adresse suivante ainsi que le nouveau modèle de panneau C50 :
+
+http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20151009&numTexte=21&pageDebut=18341&pageFin=18350
