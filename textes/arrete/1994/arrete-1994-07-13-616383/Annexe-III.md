@@ -6,7 +6,7 @@ L'ensemble de ces installations doivent être :
 
 - équipées et recouvertes de matériaux aptes à un nettoyage et à une désinfection satisfaisants, en évitant tout matériel poreux (bois, béton) ;
 
-- soumises annuellement à l'inspection du directeur des services vétérinaires ou de son représentant afin de vérifier leurs conditions d'utilisation.
+- soumises annuellement à l'inspection du directeur départemental en charge de la protection des populations ou de son représentant afin de vérifier leurs conditions d'utilisation.
 
 A. Collecte d'embryons issus de fécondation in vivo.
 
