@@ -2608,7 +2608,7 @@ Conduite de cycles de découverte, d'animation, d'initiation et d'entraînement 
 
 |
 
-CS athlétisme et disciplines associées .
+CS athlétisme et disciplines associées.
 
 |
 
@@ -2616,17 +2616,21 @@ Encadrement et conduite de séances de découverte et d'initiation des différen
 
 |
 
-A l'exclusion de toute pratique compétitive. |
-
-CS hockey . |
-
-Conduite de cycles de découverte, d'initiation et d'apprentissage en hockey. |
+A l'exclusion de toute pratique compétitive.
 
 |
 
-BP JEPS, spécialité "activités gymniques de la forme et de la force".
+CS hockey.
 
 |
+
+Conduite de cycles de découverte, d'initiation et d'apprentissage en hockey.
+
+|
+
+|
+
+BP JEPS, spécialité "activités gymniques de la forme et de la force". |
 
 |
 
@@ -3544,7 +3548,9 @@ DES JEPS, spécialité "performance sportive", mention "escalade".
 
 |
 
-Enseignement, animation, encadrement de l'escalade ou entraînement de ses pratiquants. |
+Enseignement, animation, encadrement de l'escalade ou entraînement de ses pratiquants.
+
+|
 
 A l'exclusion des sites naturels situés à une altitude égale ou supérieure à 1 500 m.
 
@@ -4632,9 +4638,13 @@ Dans la limite de 12 pratiquants.
 
 |
 
-CQP "technicien sportif d'athlétisme", option "fond/hors stade". |
+CQP "technicien sportif d'athlétisme", option "fond/hors stade".
 
-Encadrement en autonomie de séances collectives et individuelles d'activités d'apprentissage, d'entraînement et de perfectionnement jusqu'au niveau national, dans les spécialités de l'option : courses supérieures au 10 000 m piste et disciplines hors stade (courses sur route, cross-country, courses à pied en nature). |
+|
+
+Encadrement en autonomie de séances collectives et individuelles d'activités d'apprentissage, d'entraînement et de perfectionnement jusqu'au niveau national, dans les spécialités de l'option : courses supérieures au 10 000 m piste et disciplines hors stade (courses sur route, cross-country, courses à pied en nature).
+
+|
 
 Pour des publics de plus de 14 ans.
 
@@ -4642,13 +4652,73 @@ Dans la limite de 12 pratiquants.
 
 |
 
-CQP "technicien sportif d'athlétisme", option "épreuves combinées". |
+CQP "technicien sportif d'athlétisme", option "épreuves combinées".
 
-Encadrement en autonomie de séances collectives et individuelles d'activités d'apprentissage, d'entraînement et de perfectionnement jusqu'au niveau national, dans les spécialités de l'option : pentathlon, octathlon, heptathlon, décathlon. |
+|
+
+Encadrement en autonomie de séances collectives et individuelles d'activités d'apprentissage, d'entraînement et de perfectionnement jusqu'au niveau national, dans les spécialités de l'option : pentathlon, octathlon, heptathlon, décathlon.
+
+|
 
 Pour des publics de plus de 14 ans.
 
 Dans la limite de 12 pratiquants.
+
+|
+
+CQP moniteur d'escrime, option "fleuret".
+
+|
+
+Encadrement en autonomie des activités de l'escrime sportive au fleuret par la découverte et l'initiation, jusqu'au niveau de compétition régional.
+
+|
+
+Dans la limite de 20 pratiquants.
+
+A l'exclusion du temps scolaire contraint.
+
+|
+
+CQP moniteur d'escrime, option "épée".
+
+|
+
+Encadrement en autonomie des activités de l'escrime sportive à l'épée par la découverte et l'initiation, jusqu'au niveau de compétition régional.
+
+|
+
+Dans la limite de 20 pratiquants.
+
+A l'exclusion du temps scolaire contraint.
+
+|
+
+CQP moniteur d'escrime, option "sabre".
+
+|
+
+Encadrement en autonomie des activités de l'escrime sportive au sabre par la découverte et l'initiation, jusqu'au niveau de compétition régional.
+
+|
+
+Dans la limite de 20 pratiquants.
+
+A l'exclusion du temps scolaire contraint.
+
+|
+
+CQP moniteur d'escrime, option "artistique".
+
+|
+
+Encadrement en autonomie des activités de l'escrime artistique par la découverte et l'initiation, jusqu'au niveau de compétition régional.
+
+|
+
+Dans la limite de 20 pratiquants.
+
+A l'exclusion du temps scolaire contraint.
 
 |
 
