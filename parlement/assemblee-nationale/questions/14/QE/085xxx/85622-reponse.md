@@ -1,0 +1,9 @@
+# Réponse à la question n° 85622
+
+- Question : [85622](85622.md) — Question n° 85622 — rapport parlementaire; propositions
+
+## Réponse
+
+*JO du 2015-10-13*
+
+A l'occasion de la remise du rapport du Conseil de promotion du tourisme le 11 juin 2015, le ministre des affaires étrangères et du développement international a souligné l'importance de développer les dessertes aériennes directes de point à point et de simplifier les trajets en améliorant les connexions aériennes pour accueillir davantage de touristes dans les régions françaises alors que 20 % du territoire accueille 80 % des flux touristiques. Un groupe de travail sur ce thème a été constitué au Quai d'Orsay, avec l'ensemble des acteurs concernés - ministères, compagnies aériennes, représentants des aéroports. Ses conclusions seront rendues en octobre pour décision. Par ailleurs, le ministre des affaires étrangères et du développement international a rappelé les mesures déjà prises afin de favoriser l'émergence de nouvelles destinations et d'étendre l'offre sur tout le territoire français, en valorisant sa diversité et en stimulant l'émergence d'offres innovantes correspondant aux nouveaux comportements des clientèles touristiques : - vingt contrats de destination ont été sélectionnés au cours de deux appels à projets successifs. Bénéficiant de co-financements de l'Etat, ils visent à donner une impulsion forte à la promotion de la destination France autour de trois principes : la lisibilité, la coopération, la sélectivité ; - cinq « pôles d'excellence » retenus pour mettre en valeur les atouts thématiques de la France : gastronomie et oenologie, écotourisme, tourisme artisanal, tourisme urbain et nocturne, tourisme de montagne et sportif ; - enfin, les contrats de structuration de pôles touristiques territoriaux qui viennent compléter les contrats de destinations par des actions d'appui à l'offre locale.
