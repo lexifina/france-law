@@ -1,0 +1,9 @@
+# Réponse à la question n° 77172
+
+- Question : [77172](77172.md) — Question n° 77172 — accouchements à domicile; assurances
+
+## Réponse
+
+*JO du 2015-10-13*
+
+Les professionnels de santé exerçant à titre libéral sont tenus de souscrire une assurance destinée à les garantir pour leur responsabilité civile ou administrative susceptible d'être engagée en raison de dommages subis par des tiers et résultant d'atteintes à la personne, survenant dans le cadre de l'ensemble de cette activité. Le niveau de la prime d'assurance est fixé par les assureurs ; il est croissant avec le risque et n'est pas corrélé au niveau de revenu du professionnel de santé. Si les charges liées à la signature d'une assurance responsabilité civile restent élevées dans le cas d'accouchement à domicile, il importe de préciser que la rémunération des sages-femmes libérales a été globalement valorisée à plusieurs reprises depuis 2012. Les modalités de rémunération des sages-femmes libérales sont fixées par une nomenclature générale des actes professionnels qui prévoit une cotation forfaitaire pour l'accouchement et le suivi post natal de la première semaine, incluant les cas d'accouchement à domicile. Par ailleurs, des solutions alternatives sont développées pour les femmes souhaitant une prise en charge moins médicalisée du suivi de leur grossesse et de leur accouchement. Ainsi, une prise en charge physiologique est rendue possible par l'accès de sages-femmes aux plateaux techniques hospitaliers et le développement de filières physiologiques au sein des maternités. L'expérimentation relative à la mise en place de maisons de naissance dans lesquelles les sages-femmes réalisent l'accouchement des femmes enceintes dont elles ont assuré le suivi de grossesse, sera mise en place d'ici la fin d'année et permettra de développer d'autres modes de prise en charge dans un cadre toujours sécurisé.
