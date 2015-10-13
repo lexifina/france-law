@@ -1,0 +1,9 @@
+# Réponse à la question n° 74261
+
+- Question : [74261](74261.md) — Question n° 74261 — effectifs; organisation; perspectives
+
+## Réponse
+
+*JO du 2015-10-13*
+
+L'article 1424-1 du code général des collectivités territoriales (CGCT) a institué un service de santé et de secours médical (SSSM) dans chaque SDIS, aux côtés du corps départemental des sapeurs-pompiers. Les missions exercées par les membres du service de santé et de secours médical (SSSM) sont définies par l'article L. 1424-2 du CGCT. Or, si les autres activités opérationnelles n'ont pas été prévues c'est notamment pour éviter, lors d'une intervention opérationnelle, qu'il y ait un risque de troubler la procédure d'intervention par le sapeur-pompier volontaire membre du SSSM. Celui-ci pourrait en effet être contesté dans ses décisions de nature médicale ou paramédicale par un SPV également membre du SSSM qui bénéficierait de ce cumul d'activités et serait en mission d'intervention au titre opérationnel. C'est à ce titre que ce principe de non cumul de l'activité de sapeur-pompier avec l'activité dévolue aux membres du SSSM trouve sa légitimité. Toutefois, la question d'un éventuel cumul des deux activités, officier relevant du service de santé et de secours médical et sapeur-pompier volontaire affecté aux missions opérationnelles classiques d'incendie et de secours du corps départemental, compte tenu des difficultés de disponibilité en journée, sera évoquée lors d'une séance du conseil national des sapeurs-pompiers volontaires (CNSPV) courant 2015. En fonction des orientations proposées lors de cette réunion du CNSPV, une éventuelle modification du non cumul d'activités pourrait être envisagée ; elle nécessiterait toutefois la modification, d'une part, des dispositions en matière d'engagement du sapeur-pompier volontaire (SPV) qui, à ce jour, est engagé en qualité de (SPV) ou bien en SPV membre du SSSM et, d'autre part, des règles opérationnelles d'engagement sur intervention.
