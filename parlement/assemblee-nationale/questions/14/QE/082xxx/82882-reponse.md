@@ -1,0 +1,9 @@
+# Réponse à la question n° 82882
+
+- Question : [82882](82882.md) — Question n° 82882 — Cour des comptes; rapport
+
+## Réponse
+
+*JO du 2015-10-13*
+
+Eu égard aux enjeux de l'emploi des fonds de concours dans la mise en oeuvre des politiques dont il a la charge, le ministère de l'écologie, du développement durable et de l'énergie s'est résolument engagé dans l'amélioration du suivi de ces fonds. Pour ce faire, un processus, commun à tous les programmes du ministère, a été élaboré et repose sur les fonctionnalités offertes par le système d'information financière de l'État (SIFE) Chorus les plus adaptées pour suivre les fonds de concours et attributions de produits sur toute leur durée de vie, depuis l'émission du titre de perception jusqu'à leur consommation. Toutefois, le SIFE Chorus ne permet qu'un suivi global par compte de fonds de concours ou d'attribution de produits, et non un suivi précis et efficace permettant à lui seul de garantir un emploi des fonds conforme à l'intention de la partie versante et de répondre aux exigences en la matière. En effet, le SIFE Chorus ne reprend l'historique ni des opérations ni des versements des tiers sur les opérations et ne retrace les dépenses des opérations qu'à partir de l'année 2011, alors que, par exemple, les opérations d'investissement dans le domaine des transports durent en moyenne une dizaine d'années. De plus, il ne fait aucun lien entre les versements des tiers et les conventions qu'ils ont signées. Par conséquent, sans retraitement complémentaire que les services doivent opérer avec des outils et méthodes spécifiques, le SIFE Chorus ne permet actuellement pas de calculer la situation des tiers vis-à-vis d'une opération d'investissement. Il est donc complété par des outils de bureautique, hors SIFE Chorus, afin de pouvoir procéder à une identification individuelle des opérations concernées et au suivi de leur exécution, au niveau de chaque programme.
