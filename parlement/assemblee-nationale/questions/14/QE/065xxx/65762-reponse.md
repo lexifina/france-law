@@ -1,0 +1,9 @@
+# Réponse à la question n° 65762
+
+- Question : [65762](65762.md) — Question n° 65762 — entreprises en redressement judiciaire
+
+## Réponse
+
+*JO du 2015-10-13*
+
+Les entreprises en redressement judiciaire bénéficient d'une liberté d'accès à la commande publique modulée afin de prendre en compte les risques pesant sur l'acheteur public. En effet, conformément à l'article 44 du code des marchés publics (CMP), les entreprises en redressement judiciaire peuvent se porter candidates à un marché public, à la condition toutefois de produire une copie du ou des jugements prononcés par le tribunal. Le 3° de l'article 8 de l'ordonnance du 6 juin 2005 (auquel renvoie le CMP) précise en outre que les entreprises doivent justifier « qu'elles ont été habilitées à poursuivre leurs activités pendant la durée prévisible d'exécution du marché ». Ainsi, lorsque l'entreprise produit soit un jugement ouvrant une période d'observation compatible avec la durée d'exécution du marché, soit un jugement validant un plan de redressement à l'issue de la période d'observation, le droit des marchés publics ne fait pas obstacle à ce que sa candidature soit retenue. En revanche, dans le cas où la durée du marché est supérieure à celle de la période d'observation définie par le juge, la candidature de l'entreprise doit être écartée au motif qu'elle ne présente aucune garantie quant à sa capacité à assurer une bonne exécution du marché sur l'ensemble de sa durée. Néanmoins, il est toujours possible de recourir à la sous-traitance au profit d'une entreprise en difficulté dans la mesure où la durée de réalisation des prestations sous-traitées n'excède pas la période d'observation de six mois. En autorisant les entreprises en redressement judiciaire à soumissionner tout en garantissant l'exécution des marchés, la réglementation en vigueur s'emploie à préserver un équilibre entre le risque économique pesant sur l'acheteur public et le soutien aux entreprises en difficulté.
