@@ -1,0 +1,9 @@
+# Réponse à la question n° 59805
+
+- Question : [59805](59805.md) — Question n° 59805 — prévention; rapport; propositions
+
+## Réponse
+
+*JO du 2015-10-13*
+
+Adopté suite aux catastrophes causées par la tempête Xynthia et les pluies stationnaires intenses sur l'arrondissement de Draguignan, le plan submersions rapides (PSR), adopté par le Gouvernement pour la période 2011-2016, rassemble un ensemble complet d'actions pour prévenir les inondations liées à des phénomènes à cinétique rapide. Dans le cadre de la mise en oeuvre de la directive inondation, les ministres de l'écologie, de l'intérieur, de l'agriculture et du logement ont arrêté, le 7 octobre 2014, une stratégie nationale de gestion des risques d'inondation (SNGRI). Ce document a été rédigé dans le cadre de la commission mixte inondation (CMI), instance support de la gouvernance nationale en matière d'inondation. La SNGRI constitue ainsi le cadre général et cohérent dans lequel s'inscrivent l'ensemble des actions en matière de gestion des risques d'inondation. L'évaluation à mi-parcours du PSR préconisait de mettre en oeuvre résolument la directive inondation et de fondre le PSR dans la SNGRI. Le premier grand objectif de la stratégie nationale a repris le cadre dans lequel s'inscrit le PSR puisqu'il consiste à augmenter la sécurité des populations exposées. La SNGRI est également déclinée dans le cadre d'un plan d'actions national validé par la CMI en novembre 2014 qui identifie les grands chantiers prioritaires pour la gestion des inondations et reprend les actions du PSR de niveau national. L'article L. 566-8 du code de l'environnement dispose que les stratégies locales sont élaborées conjointement par les parties intéressées sur les territoires à risque important d'inondation (TRI), en conformité avec la stratégie nationale et en vue de concourir à sa réalisation.
