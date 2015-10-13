@@ -1,0 +1,9 @@
+# Réponse à la question n° 76881
+
+- Question : [76881](76881.md) — Question n° 76881 — pièces usagées; revente; sécurité
+
+## Réponse
+
+*JO du 2015-10-13*
+
+La revente de pièces détachées automobiles entre particuliers notamment via internet pose des questions, en particulier en termes de sécurité et de respect de l'environnement. Conscient des multiples enjeux que ce commerce revêt, le Gouvernement a engagé une réflexion afin d'assurer un développement sécurisé de ce type de pratiques qui est favorisé par les nouvelles technologies. Aujourd'hui, la revente de pièces détachées automobiles entre particuliers ne doit en effet pas être assimilée aux pièces détachées qui sont issues de la filière de recyclage automobile. Au sein de cette filière, organisée par la directive européenne n° 2000/53/CE du 18 septembre 2000 relative aux véhicules hors d'usage (VHU) et, au plan national, par les dispositions des articles R. 543-156 et suivants du code de l'environnement, les VHU sont traités par une entreprise de démolition ou de broyage autorisée au titre de la réglementation sur les installations classées pour la protection de l'environnement et agréée pour leur traitement. Ainsi, les pièces automobiles démontées en vue de leur réemploi sont dûment contrôlées avant emmagasinage dans les magasins de pièces détachées d'occasion. Par ailleurs, l'article 77 de la loi du 17 août 2015 sur la transition énergétique pour la croissance verte prévoit que les garagistes devront proposer à leurs clients certaines catégories de pièces de rechange issues de l'économie circulaire à la place de pièces neuves. Cette disposition dont l'application sera précisée par un décret en Conseil d'État, placera les centres VHU agréés au coeur de ce nouveau dispositif. Outre son bénéfice environnemental, elle permettra de diminuer le coût de réparation automobile pour les consommateurs.
