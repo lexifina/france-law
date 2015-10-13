@@ -1,0 +1,9 @@
+# Réponse à la question n° 77497
+
+- Question : [77497](77497.md) — Question n° 77497 — Cour des comptes; recommandations
+
+## Réponse
+
+*JO du 2015-10-13*
+
+La rationalisation des implantations des services de l'Etat représente un objectif central de la politique immobilière de l'Etat. L'Etat a ainsi défini une norme d'occupation de 12m² de surface utile nette par poste de travail dans le tertiaire. Bien que des progrès significatifs aient été accomplis depuis la mise en oeuvre de ce ratio, il s'élevait encore à 14,36 m² par poste de travail en 2013. Le respect de la norme d'occupation reste une priorité pour l'Etat propriétaire. Les schémas directeurs immobiliers régionaux (SDIR) dont l'expérimentation a été lancée par la circulaire du Premier ministre du 16 décembre 2014 comprennent un diagnostic permettant de faire ressortir tous les bâtiments tertiaires où le taux d'occupation est supérieur à la norme. La multi-occupation de bâtiments est encouragée, chaque fois que c'est possible d'afin d'améliorer le ratio d'occupation et de mutualiser les coûts. Toutefois, la réduction des écarts se heurte à plusieurs difficultés. En effet, la baisse des effectifs des services de l'État se traduit mécaniquement par une dégradation du ratio, sans que les surfaces libérées, de petite taille et disséminées sur de nombreux sites, se prêtent aisément à réoccupation par d'autres services. Par ailleurs, toute densification d'un bien immobilier suppose des coûts de réaménagement (cloisonnements, cablages, mobilier adapté) dont l'efficacité économique doit être appréciée, et qui doivent être programmés. Enfin, certains immeubles, en raison de leurs caractéristiques architecturales, ne peuvent pas être densifiés. C'est la raison pour laquelle la réduction du ratio ne peut être qu'un objectif qui s'inscrit dans la durée.
