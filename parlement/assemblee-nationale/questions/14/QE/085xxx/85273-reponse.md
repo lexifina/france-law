@@ -1,0 +1,9 @@
+# Réponse à la question n° 85273
+
+- Question : [85273](85273.md) — Question n° 85273 — terrains à vocation agricole; réglementation
+
+## Réponse
+
+*JO du 2015-10-13*
+
+L'article L. 143-1 du code rural et de la pêche maritime (CRPM) issu de la loi n° 2014-1170 du 13 octobre 2014 d'avenir pour l'agriculture, l'alimentation et la forêt sur le droit de préemption des sociétés d'aménagement foncier et d'établissement rural (SAFER) définit les terrains nus à vocation agricole. Il s'agit de terrains qui sont, soit dans une zone agricole protégée, soit dans un périmètre de protection et de mise en valeur d'espaces agricoles et naturels périurbains, soit encore de terrains situés dans une zone agricole ou une zone naturelle et forestière délimitée par un document d'urbanisme. A défaut de document d'urbanisme, les terrains situés dans les secteurs ou parties non encore urbanisés des communes, à l'exclusion des bois et forêts doivent être regardés comme à vocation agricole. La carte communale est un document d'urbanisme simplifié qui comporte un zonage et un règlement. Elle fixe les secteurs ou les constructions sont autorisées et les secteurs où les constructions ne sont pas admises, intitulées zones naturelles. Elles sont indifférenciées entre les usages naturel, agricole et forestier. Dans ces dernières, seules certaines constructions nécessaires aux exploitations agricoles, aux équipements publics ou pour l'extension de constructions existantes, sont admises. En présence d'une carte communale, chaque SAFER est donc en mesure d'exercer son droit de préemption dans les zones naturelles, dans les conditions fixées par le décret lui octroyant ce droit et suivant les modalités décrites dans le CRPM, en particulier les priorités et les exclusions précisées aux articles L. 143-2, L. 143-4 et L. 143-6.
