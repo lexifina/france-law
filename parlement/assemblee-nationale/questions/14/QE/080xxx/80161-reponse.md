@@ -1,0 +1,9 @@
+# Réponse à la question n° 80161
+
+- Question : [80161](80161.md) — Question n° 80161 — montant estimatif avant travaux; information
+
+## Réponse
+
+*JO du 2015-10-13*
+
+En l'état actuel du droit, s'agissant de la taxe d'aménagement, l'exigibilité des taxes d'urbanisme résulte de la délivrance du permis de construire. La répartition des compétences entre les collectivités territoriales, compétentes pour délivrer le permis de construire, et l'État, compétent pour liquider les taxes, ne permet pas d'en mentionner la nature et le montant lors de la délivrance de ce dernier. Lorsqu'après la délivrance des autorisations, les services de l'État procèdent au calcul des impositions et à leur vérification, le bénéficiaire de l'autorisation est informé par lettre du montant des taxes à payer. Lorsque les collectivités territoriales sont compétentes pour délivrer les autorisations, l'article R. 331-10 du code de l'urbanisme dispose que ces collectivités fournissent aux services de l'État dans le département chargés d'établir les taxes d'urbanisme, dans le délai d'un mois suivant la délivrance de ces autorisations, tous les éléments nécessaires à leur taxation. La diligence des collectivités territoriales à transmettre ces données permet ainsi aux services de l'Etat de procéder au calcul des taxes et d'informer rapidement le bénéficiaire du permis, via la transmission de la lettre d'information. Afin d'anticiper le montant des taxes d'urbanisme de la construction projetée, et notamment celui de la taxe d'aménagement, un simulateur de calcul est disponible sur le site internet du ministère du logement, de l'égalité des territoires et de la ruralité. Le montant indiqué par le simulateur donne une appréciation de la taxe à payer, au regard des éléments fournis ou bien renseignés par le futur pétitionnaire.
