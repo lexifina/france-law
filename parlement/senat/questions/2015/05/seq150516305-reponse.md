@@ -1,0 +1,9 @@
+# Réponse à la question SEQ150516305
+
+- Question : [SEQ150516305](seq150516305.md) — Contrat d'objectif et de performance de l'Agence pour l'enseignement français à l'étranger
+
+## Réponse
+
+*Affaires étrangères, JO du 2015-10-15, page 2426*
+
+Le conseil d'administration de l'Agence pour l'enseignement français à l'étranger (AEFE), opérateur public sous tutelle du ministère des affaires étrangères et du développement international, a approuvé le plan d'orientation stratégique de l'Agence pour la période 2014/2017 lors de sa séance du 12 juin 2014. Un contrat d'objectifs et de moyens de l'AEFE pour la période 2016/2018 est en cours de rédaction. Ce COM 2016/2018 prendra en compte les recommandations formulées par la Cour des comptes dans son rapport du 12 septembre 2013 sur l'enseignement français à l'étranger ainsi que les orientations préconisées dans le POS 2014/2017 de l'AEFE. Il tiendra également compte des orientations fixées par le ministère des affaires étrangères et du développement international à l'appui du plan d'action en faveur de l'enseignement français à l'étranger, présenté en conseil des ministres le 28 août 2013. Ce COM 2016/2018 pourrait être présenté au conseil d'administration de l'Agence de la fin de l'année 2015. Pour ce qui concerne le bilan du contrat d'objectifs et de performance 2011/2013, un point sur l'exécution des huit indicateurs a été présenté lors du conseil d'administration de printemps de l'AEFE en 2011, 2012 et 2013. Ces indicateurs ont été très majoritairement satisfaits, ce qui a permis à l'Agence d'atteindre les trois objectifs définis : « relever les défis de la mondialisation ; renforcer l'influence de la France en Europe et dans le monde ; améliorer le pilotage et l'efficience dans la gestion des crédits ». L'analyse de la réalisation des indicateurs de ce contrat d'objectifs et de performances a servi à l'élaboration des indicateurs du COM 2016-2018.
