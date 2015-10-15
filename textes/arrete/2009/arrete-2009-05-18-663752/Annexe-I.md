@@ -302,9 +302,11 @@ Aéroport
 
 |
 
-HC-T (CH) (1) (2), HC-NT
+HC-T (1) (2), HC-NT
 
 |
+
+O (e)
 
 |
 
@@ -567,6 +569,8 @@ b) (supprimé)
 c) Uniquement les espèces appartenant aux invertébrés, animaux aquatiques d'ornement, reptiles, amphibiens, oiseaux, rongeurs, lagomorphes et carnivores domestiques.
 
 d) Uniquement les espèces appartenant aux invertébrés, animaux aquatiques d'ornement, reptiles, amphibiens, oiseaux et mammifères n'excédant pas 50 kg.
+
+(e) Uniquement les espèces appartenant aux invertébrés, animaux aquatiques d'ornement, amphibiens et rongeurs, présentés en containers fermés.
 
 (*) Arrêté du 10 août 2004 modifié fixant les conditions d'autorisation de détention d'animaux de certaines espèces non domestiques dans les établissements d'élevage, de vente, de location, de transit ou de présentation au public d'animaux d'espèces non domestiques.
 
