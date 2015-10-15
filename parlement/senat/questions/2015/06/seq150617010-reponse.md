@@ -1,0 +1,9 @@
+# Réponse à la question SEQ150617010
+
+- Question : [SEQ150617010](seq150617010.md) — Indication géographique protégée pour la porcelaine
+
+## Réponse
+
+*Commerce, artisanat, consommation et économie sociale et solidaire, JO du 2015-10-15, page 2435*
+
+La désignation de l'organisme de contrôle de la conformité appartient aux professionnels qui sont les mieux à même pour sélectionner un organisme compétent pour leurs produits. Cela garantit la liberté de choix des professionnels et répond aux attentes qu'ils ont exprimées lors des travaux préparatoires à la loi n° 2014-344 du 17 mars 2014 relative à la consommation. Lors du dépôt de la demande d'homologation d'une indication géographique (IG), le cahier des charges est transmis par l'institut national de la propriété industrielle (INPI) au comité français d'accréditation (COFRAC) qui lui communique son avis sur les modalités des contrôles. Suite au dépôt de la demande d'homologation d'une indication géographique à l'INPI, l'organisme de contrôle de la conformité choisi par l'organisme de défense et de gestion doit demander une accréditation au COFRAC, qui vérifie son expertise pour les produits concernés. L'accréditation des organismes de contrôle sera effectuée par le COFRAC dans le cadre de l'instruction des demandes d'homologation par l'INPI dans les conditions décrites par l'article R. 721-9 du code de la propriété intellectuelle. Les demandes d'homologation peuvent donc dès à présent être déposées auprès de l'INPI, sans accréditation préalable des organismes de contrôle de la conformité. La publication, prévue pour la fin de l'année, du décret d'application des dispositions de la loi pour la croissance, l'activité et l'égalité des chances économiques, promulguée le 6 août 2015, rendra effective la possibilité du recours à la certification en précisant les modalités de ce contrôle.
