@@ -1,10 +1,14 @@
 # Article Annexe
 
-BRANCHES D'ACTIVITÉ DES CADRES DE SANTÉ CIVILS
+.
+
+BRANCHES D'ACTIVITÉ DES CADRES DE SANTÉ CIVILS DU MINISTÈRE DE LA DÉFENSE
+
+et des cadres de santé paramédicaux civils du ministère de la défense
 
 |
 
-NOMBRE DE POINTS
+NOMBRE DE POINTS :
 
 |
 
@@ -24,7 +28,7 @@ Infirmiers de bloc opératoire
 
 |
 
-Puéricultrice
+Puéricultrices
 
 |
 
@@ -32,7 +36,7 @@ Puéricultrice
 
 |
 
-Masseurs-kinésithérapeute
+Masseurs-kinésithérapeutes
 
 |
 
@@ -104,7 +108,15 @@ Diététiciens
 
 |
 
-Infirmiers exerçant auprès des personnes âgées relevant des sections de cure médicale ou dans les services ou les unités de soins de longue durée auprès des personnes n'ayant pas leur autonomie de vie
+Pédicures podologues
+
+|
+
+13
+
+|
+
+Infirmiers exerçant leurs fonctions auprès des personnes âgées relevant des sections de cure médicale ou dans les services ou les unités de soins de longue durée auprès des personnes n'ayant pas leur autonomie de vie
 
 |
 
