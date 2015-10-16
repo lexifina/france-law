@@ -1,0 +1,58 @@
+# Compétitivité de l'agriculture et de la filière agroalimentaire
+
+- Procédure : Proposition de loi ordinaire
+- Législature : 14
+- Identifiant : DLR5L14N34390
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/competitivite_agriculture_filiere_agroalimentaire
+- Sénat : http://www.senat.fr/dossier-legislatif/ppl15-086.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2015-10-16 : 1er dépôt d'une initiative. (PIONSNR5S259B0086)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2015-10-16 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2015-12-02 : Dépôt de rapport (RAPPSNR5S259B0216, PIONSNR5S259BTC0217)
+  - Discussion en séance publique
+    - 2015-12-09 : Discussion en séance publique
+    - 2015-12-09 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2015-12-10 : Dépôt d'une initiative en navette (PIONANR5L14B3340)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2015-12-10 : Renvoi en commission au fond
+      - 2016-01-12 : Nomination de rapporteur
+      - 2016-01-27 : Réunion de commission
+      - 2016-02-02 : Réunion de commission
+      - 2016-02-04 : Réunion de commission
+      - 2016-01-27 : Dépôt de rapport (RAPPANR5L14B3448)
+  - Discussion en séance publique
+    - 2016-02-04 : Discussion en séance publique
+    - 2016-01-29 : Motion de procédure
+    - 2016-02-04 : Décision
+- deuxième lecture
+  - 2016-02-04 : Dépôt d'une initiative en navette (PIONSNR5S259B0371)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2016-02-04 : Renvoi en commission au fond
+      - 2016-03-16 : Dépôt de rapport (RAPPSNR5S259B0472, PIONSNR5S259BTC0473)
+  - Discussion en séance publique
+    - 2016-03-23 : Discussion en séance publique
+    - 2016-03-23 : Décision
+- deuxième lecture
+  - 2016-03-24 : Dépôt d'une initiative en navette (PIONANR5L14B3599)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2016-03-24 : Renvoi en commission au fond
+- deuxième lecture
+  - 2017-07-06 : Dépôt d'une initiative en navette (PIONANR5L15B0078)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2017-07-06 : Renvoi en commission au fond
+- deuxième lecture
+  - 2022-07-11 : Dépôt d'une initiative en navette (PIONANR5L16B0071)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2022-07-11 : Renvoi en commission au fond
