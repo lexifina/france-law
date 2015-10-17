@@ -2292,7 +2292,9 @@ Héparine
 
 |
 
-Pommades |
+Pommades
+
+|
 
 5
 
@@ -3338,9 +3340,13 @@ Toutes formes
 
 |
 
-0,007 |
+0,007
 
-0,25 |
+|
+
+0,25
+
+|
 
 Miconazole (nitrate de)
 
@@ -3373,6 +3379,24 @@ En applications vaginales
 |
 
 2
+
+|
+
+Naloxone
+
+|
+
+Voie nasale
+
+|
+
+|
+
+0, 9 mg
+
+|
+
+3,6 mg
 
 |
 
