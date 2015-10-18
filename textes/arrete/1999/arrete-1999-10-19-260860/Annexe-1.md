@@ -130,7 +130,7 @@ II. - Capacité de l'aéroport de Paris - Charles-de-Gaulle
 
 1. Capacité globale
 
-A compter de la saison aéronautique d'été 2015 :
+A compter de la saison aéronautique d'été 2016 :
 
 HEURES
 
@@ -176,7 +176,7 @@ locales
 
 |
 
-0 heure à 0 h 59
+0 h à 0 h 59
 
 |
 
@@ -200,11 +200,11 @@ locales
 
 |
 
-0 heure à 0 h 59
+0 h à 0 h 59
 
 |
 
-1 heure à 1 h 59
+1 h à 1 h 59
 
 |
 
@@ -228,39 +228,11 @@ locales
 
 |
 
-1 heure à 1 h 59
+1 h à 1 h 59
 
 |
 
-2 heures à 2 h 59
-
-|
-
-7
-
-|
-
-20
-
-|
-
-7
-
-|
-
-20
-
-|
-
-32
-
-|
-
-2 heures à 2 h 59
-
-|
-
-3 heures à 3 h 59
+2 h à 2 h 59
 
 |
 
@@ -284,11 +256,11 @@ locales
 
 |
 
-3 heures à 3 h 59
+2 h à 2 h 59
 
 |
 
-4 heures à 4 h 59
+3 h à 3 h 59
 
 |
 
@@ -312,11 +284,39 @@ locales
 
 |
 
-4 heures à 4 h 59
+3 h à 3 h 59
 
 |
 
-5 heures à 5 h 59
+4 h à 4 h 59
+
+|
+
+7
+
+|
+
+20
+
+|
+
+7
+
+|
+
+20
+
+|
+
+32
+
+|
+
+4 h à 4 h 59
+
+|
+
+5 h à 5 h 59
 
 |
 
@@ -340,15 +340,15 @@ locales
 
 |
 
-5 heures à 5 h 59
+5 h à 5 h 59
 
 |
 
-6 heures à 6 h 59
+6 h à 6 h 59
 
 |
 
-10 *
+10*
 
 |
 
@@ -368,11 +368,11 @@ locales
 
 |
 
-6 heures à 6 h 59
+6 h à 6 h 59
 
 |
 
-7 heures à 7 h 59
+7 h à 7 h 59
 
 |
 
@@ -384,7 +384,7 @@ locales
 
 |
 
-12
+12,5
 
 |
 
@@ -396,11 +396,11 @@ locales
 
 |
 
-7 heures à 7 h 59
+7 h à 7 h 59
 
 |
 
-8 heures à 8 h 59
+8 h à 8 h 59
 
 |
 
@@ -420,15 +420,15 @@ locales
 
 |
 
-107
+109
 
 |
 
-8 heures à 8 h 59
+8 h à 8 h 59
 
 |
 
-9 heures à 9 h 59
+9 h à 9 h 59
 
 |
 
@@ -444,19 +444,19 @@ locales
 
 |
 
-62
+64
 
 |
 
-118
+120
 
 |
 
-9 heures à 9 h 59
+9 h à 9 h 59
 
 |
 
-10 heures à 10 h 59
+10 h à 10 h 59
 
 |
 
@@ -480,11 +480,11 @@ locales
 
 |
 
-10 heures à 10 h 59
+10 h à 10 h 59
 
 |
 
-11 heures à 11 h 59
+11 h à 11 h 59
 
 |
 
@@ -508,11 +508,11 @@ locales
 
 |
 
-11 heures à 11 h 59
+11 h à 11 h 59
 
 |
 
-12 heures à 12 h 59
+12 h à 12 h 59
 
 |
 
@@ -524,23 +524,23 @@ locales
 
 |
 
-12
+12,5
 
 |
 
-63
+64
 
 |
 
-110
+111
 
 |
 
-12 heures à 12 h 59
+12 h à 12 h 59
 
 |
 
-13 heures à 13 h 59
+13 h à 13 h 59
 
 |
 
@@ -552,23 +552,23 @@ locales
 
 |
 
-12,5
+13
 
 |
 
-69
+70
 
 |
 
-109
+110
 
 |
 
-13 heures à 13 h 59
+13 h à 13 h 59
 
 |
 
-14 heures à 14 h 59
+14 h à 14 h 59
 
 |
 
@@ -592,11 +592,11 @@ locales
 
 |
 
-14 heures à 14 h 59
+14 h à 14 h 59
 
 |
 
-15 heures à 15 h 59
+15 h à 15 h 59
 
 |
 
@@ -620,11 +620,11 @@ locales
 
 |
 
-15 heures à 15 h 59
+15 h à 15 h 59
 
 |
 
-16 heures à 16 h 59
+16 h à 16 h 59
 
 |
 
@@ -648,11 +648,11 @@ locales
 
 |
 
-16 heures à 16 h 59
+16 h à 16 h 59
 
 |
 
-17 heures à 17 h 59
+17 h à 17 h 59
 
 |
 
@@ -676,11 +676,11 @@ locales
 
 |
 
-17 heures à 17 h 59
+17 h à 17 h 59
 
 |
 
-18 heures à 18 h 59
+18 h à 18 h 59
 
 |
 
@@ -704,19 +704,19 @@ locales
 
 |
 
-18 heures à 18 h 59
+18 h à 18 h 59
 
 |
 
-19 heures à 19 h 59
+19 h à 19 h 59
 
 |
 
-12
+12,5
 
 |
 
-59
+60
 
 |
 
@@ -732,11 +732,11 @@ locales
 
 |
 
-19 heures à 19 h 59
+19 h à 19 h 59
 
 |
 
-20 heures à 20 h 59
+20 h à 20 h 59
 
 |
 
@@ -748,7 +748,7 @@ locales
 
 |
 
-12
+12,5
 
 |
 
@@ -760,11 +760,11 @@ locales
 
 |
 
-20 heures à 20 h 59
+20 h à 20 h 59
 
 |
 
-21 heures à 21 h 59
+21 h à 21 h 59
 
 |
 
@@ -788,11 +788,11 @@ locales
 
 |
 
-21 heures à 21 h 59
+21 h à 21 h 59
 
 |
 
-22 heures à 22 h 59
+22 h à 22 h 59
 
 |
 
@@ -800,7 +800,7 @@ locales
 
 |
 
-45
+46
 
 |
 
@@ -812,15 +812,15 @@ locales
 
 |
 
-79
+80
 
 |
 
-22 heures à 22 h 59
+22 h à 22 h 59
 
 |
 
-23 heures à 23 h 59
+23 h à 23 h 59
 
 |
 
@@ -844,11 +844,11 @@ locales
 
 |
 
-23 heures à 23 h 59
+23 h à 23 h 59
 
 |
 
-- le nombre 10 * signifie que, au cours de la tranche horaire correspondante, au plus 11 mouvements peuvent être acceptés sur une période de 10 minutes, 10 mouvements pendant les cinq autres périodes de 10 minutes, sous réserve du respect de la contrainte horaire correspondante ;
+- le nombre 10* signifie que, au cours de la tranche horaire correspondante, au plus 11 mouvements peuvent être acceptés sur une période de 10 minutes, 10 mouvements pendant les cinq autres périodes de 10 minutes, sous réserve du respect de la contrainte horaire correspondante ;
 
 - le nombre 11,5 signifie que, au cours de la tranche horaire correspondante, au plus 12 mouvements peuvent être acceptés pendant trois périodes de 10 minutes, 11 mouvements pendant les trois autres périodes de 10 minutes, sous réserve du respect de la contrainte horaire correspondante ;
 
@@ -860,15 +860,13 @@ locales
 
 Pour l'utilisation des terminaux de l'aéroport de Paris-Charles-de-Gaulle, le coordonnateur prend en compte la capacité de traitement du trafic dans chacun des terminaux, qui correspond au flux maximal de passagers par heure au départ, dont la valeur est mentionnée par terminal dans le tableau ci-après. Pour ce faire, le coordonnateur évalue l'impact de chaque attribution de créneau horaire en regard de cette capacité sur la base de l'appareil envisagé, d'un coefficient de remplissage moyen et de profils types de présentation des passagers en aérogare. Dans les cas où l'attribution d'un créneau horaire conduirait au dépassement de ce flux maximal, le coordonnateur, en liaison avec Aéroports de Paris, requiert la coopération du transporteur aérien concerné en vue de lui faire modifier, dans toute la mesure du possible, l'horaire sollicité.
 
-A compter de la saison aéronautique d'été 2015 :
+A compter de la saison aéronautique d'été 2016 :
 
 TERMINAL
 
 |
 
-FLUX MAXIMAL DE PASSAGERS
-
-par heure au départ
+FLUX MAXIMAL DE PASSAGERS PAR HEURE AU DÉPART
 
 |
 
@@ -876,7 +874,7 @@ par heure au départ
 
 |
 
-1 950
+2 100
 
 |
 
@@ -884,7 +882,7 @@ par heure au départ
 
 |
 
-900
+1 100
 
 |
 
@@ -932,4 +930,6 @@ par heure au départ
 
 |
 
-1 000 |
+1 000
+
+|
