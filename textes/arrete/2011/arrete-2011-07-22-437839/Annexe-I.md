@@ -1,6 +1,6 @@
 # Article Annexe I
 
-Liste des zones géographiques réglementées vis-à-vis de certains sérotypes de la fièvre catarrhale du mouton et liste des sérotypes considérés comme endémiques dans ces zones
+LISTE DES ZONES GÉOGRAPHIQUES RÉGLEMENTÉES VIS-À-VIS DE CERTAINS SÉROTYPES DE LA FIÈVRE CATARRHALE DU MOUTON ET LISTE DES SÉROTYPES CONSIDÉRÉS COMME ENDÉMIQUES DANS CES ZONES
 
 Zones réglementées
 
@@ -26,11 +26,11 @@ Zone réglementée
 
 |
 
-1, 2, 4, 8 et 16
+1,2,4,8 et 16
 
 |
 
-1, 2, 4, 8 et 16
+1,2,4,8 et 16
 
 |
 
@@ -42,11 +42,11 @@ Zone réglementée
 
 |
 
-1, 2, 4, 8 et 16
+1,2,4,8 et 16
 
 |
 
-1, 2, 4, 8 et 16
+1,2,4,8 et 16
 
 |
 
@@ -227,6 +227,22 @@ Zone réglementée
 |
 
 Département de l'Indre-et-Loire (37)
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+Département du Jura (39)
 
 |
 
@@ -450,11 +466,11 @@ Sérotype
 
 |
 
-CODE DÉPARTEMENT
+CODE DEPARTEMENT
 
 |
 
-DÉPARTEMENT
+DEPARTEMENT
 
 |
 
