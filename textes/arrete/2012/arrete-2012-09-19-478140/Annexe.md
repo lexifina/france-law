@@ -268,22 +268,6 @@ RPA et opérateur, porcins-manipulations et soins-mise à mort |
 
 |
 
-GAD FORMATION, 14, rue Louis-Armand, zone industrielle de Kériven, 29600 Saint-Martin-des-Champs
-
-|
-
-Opérateur, porcins-manipulations et soins-mise à mort
-
-|
-
-1er février 2013
-
-|
-
-31 janvier 2018
-
-|
-
 IFIP, Institut du porc, 3-5, rue Lespagnol, 75020 Paris
 
 |
@@ -335,6 +319,22 @@ Opérateur, volailles, manipulations et soins, mise à mort, complément sans é
 |
 
 31 juillet 2018
+
+|
+
+LIBER-GARCIA LABADY Marleni, 29, rue Rodier, 75009 Paris
+
+|
+
+Opérateur, bovins/ équidés-manipulation et soins-mise à mort-complément sans étourdissement ; opérateur, ovins/ caprins-manipulation et soins-mise à mort-complément sans étourdissement
+
+|
+
+20 octobre 2015
+
+|
+
+19 octobre 2020
 
 |
 
@@ -433,6 +433,22 @@ RPA et opérateur, volailles, manipulations et soins, mise à mort, complément 
 |
 
 14 novembre 2018
+
+|
+
+SVA Jean ROZÉ, rue Victor-Baltard, BP 90237,35500 Vitré
+
+|
+
+Opérateur, bovins/ équidés-manipulation et soins-mise à mort-complément sans étourdissement ; opérateur, ovins/ caprins-manipulation et soins-mise à mort-complément sans étourdissement ; opérateur, porcins-manipulation et soins-mise à mort
+
+|
+
+20 octobre 2015
+
+|
+
+19 octobre 2020
 
 |
 
