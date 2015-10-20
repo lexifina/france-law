@@ -1,0 +1,9 @@
+# Réponse à la question n° 83550
+
+- Question : [83550](83550.md) — Question n° 83550 — instances consultatives; coût de fonctionnement
+
+## Réponse
+
+*JO du 2015-10-20*
+
+La commission chargée de donner un avis sur les demandes de changement d'affectation des salles de spectacles a été créée par arrêté du 18 avril 1947 pour la mise en application de l'article 2 de l'ordonnance du 13 octobre 1945 relative aux spectacles. En effet, l'ordonnance prévoit qu'« aucune salle de spectacles publics spécialement aménagée de façon permanente pour y donner des concerts, des spectacles de variétés ou des représentations d'art dramatique, lyrique ou chorégraphique, ne peut recevoir une autre affectation ni être démolie sans que le propriétaire ou l'usager ait obtenu l'autorisation du ministre chargé de la culture ». Cette commission a été prorogée par le décret n° 2015-631 du 5 juin 2015 jusqu'en juin 2020. L'existence de la commission permet de fonder la décision du ministre de la culture et de la communication d'accorder ou de refuser l'autorisation de démolir ou de désaffecter une salle de spectacles. La commission est composée de professionnels : des représentants des directeurs de salles, des auteurs et compositeurs et des personnels techniques et artistiques. Les réunions de la commission sont l'occasion d'un débat contradictoire entre ses membres et toutes les parties intéressées dont les représentants de la collectivité territoriale, le propriétaire ou l'usager de la salle. La commission s'est réunie une fois en 2014 pour examiner la demande de changement d'affectation de la salle de spectacles de l'ancien théâtre municipal de Poitiers. La réunion de la commission s'est tenue dans les locaux de la direction générale de la création artistique et n'a pas occasionné de frais de fonctionnement.
