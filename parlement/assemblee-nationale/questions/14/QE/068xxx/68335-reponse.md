@@ -1,0 +1,9 @@
+# Réponse à la question n° 68335
+
+- Question : [68335](68335.md) — Question n° 68335 — violences; lutte et prévention
+
+## Réponse
+
+*JO du 2015-10-20*
+
+L'observatoire national des violences en milieu de santé (ONVS) a été créé en 2005 pour coordonner et évaluer les politiques mises en oeuvre par les différents acteurs sur l'ensemble du territoire afin de garantir la sécurité des personnes et des biens dans le secteur de la santé. Il a également pour mission de recueillir les signalements des faits de violence. Il suit la déclinaison locale des accords santé-sécurité-justice qui ont pour objectif d'améliorer la sécurité des professionnels de santé et de renforcer la coopération avec les services de l'État. A ce jour, environ 520 protocoles locaux ont été signés. Ces partenariats constituent le mode d'action principal du ministère pour assurer la sécurité des personnels. Les accords prévoient une rencontre annuelle sous l'égide du préfet. L'ONVS travaille directement et concrètement à l'amélioration de la sécurité des établissements et professionnels de santé. Il développe un large partenariat, notamment avec l'ordre des infirmiers, dont le but est de fédérer les énergies autour de l'amélioration de la sécurité dans le secteur de la santé. Il diffuse les bonnes pratiques et, par l'intermédiaire de conférences et de visites techniques, il assiste directement les professionnels de santé dans l'amélioration de leur sécurité. Le rapport annuel de l'ONVS permet de constater que le premier filtre à la connaissance du phénomène des violences est le soignant lui-même qui ne porte pas à la connaissance de ses représentants ou de son établissement les faits dont il est victime. Le ministère encourage les professionnels et établissements de santé à signaler exhaustivement l'ensemble des faits qu'ils subissent, quelle que soit leur gravité, afin d'adapter au mieux les décisions.
