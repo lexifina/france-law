@@ -1,0 +1,9 @@
+# Réponse à la question n° 84284
+
+- Question : [84284](84284.md) — Question n° 84284 — rémunérations
+
+## Réponse
+
+*JO du 2015-10-20*
+
+Le régime indemnitaire des agents territoriaux est défini par l'article 88 de la loi n° 84-53 du 26 janvier 1984 portant dispositions statutaires relatives à la fonction publique territoriale, qui pose le principe de la parité entre fonction publique territoriale et fonction publique de l'Etat. Le décret n° 91-875 du 6 septembre 1991 détermine, à cet effet, les équivalences entre cadre d'emplois territorial et corps de référence de la fonction publique de l'État. Ainsi, le cadre d'emplois des adjoints techniques territoriaux des établissements d'enseignement a pour référence le corps des adjoints techniques des établissements d'enseignement du ministère de l'éducation nationale, de l'enseignement supérieur et de la recherche. Celui des adjoints techniques territoriaux a pour référence le corps des adjoints techniques du ministère de l'intérieur. L'indemnité d'exercice de missions des préfectures (IEMP) prévue par le décret n° 97-1223 du 26 décembre 1997 et dont les montants de référence sont fixés par l'arrêté du 24 décembre 2012 est attribuée uniquement à certains fonctionnaires du ministère de l'intérieur. Par équivalence, l'IEMP ne peut être octroyée qu'aux cadres d'emplois des fonctionnaires territoriaux qui ont pour référence les corps des agents du ministère de l'intérieur bénéficiaires de celle-ci. L'arrêté du 24 décembre 2012 ne cite pas les cadres d'emplois de la fonction publique territoriale qui peuvent bénéficier de l'IEMP mais les corps du ministère de l'intérieur. En conséquence, cet arrêté ne peut pas être modifié pour y introduire le cadre d'emplois des adjoints techniques territoriaux des établissements d'enseignement.
