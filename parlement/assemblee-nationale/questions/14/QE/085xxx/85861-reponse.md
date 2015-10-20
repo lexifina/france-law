@@ -1,0 +1,9 @@
+# Réponse à la question n° 85861
+
+- Question : [85861](85861.md) — Question n° 85861 — flux migratoires pour raisons climatiques; perspectives
+
+## Réponse
+
+*JO du 2015-10-20*
+
+Le phénomène des « déplacés climatiques » est difficile à quantifier exactement mais le gouvernement est conscient que le dérèglement climatique aggrave les facteurs de migration existants et pourrait devenir une cause déterminante de déplacement de populations dans le futur. C'est pourquoi la France participe activement à des initiatives sur ce sujet. Elle appartient au groupe des amis de l'initiative Nansen (lancée par la Suisse et la Norvège en collaboration avec le HCR). Les travaux de ce groupe, qui seront présentés en octobre, visent notamment à présenter un guide des bonnes pratiques, une « charte de la protection » des déplacés environnementaux. Elle mène également de nombreux partenariats de recherche dans ce domaine, avec l'Organisation internationale pour les migrations, le HCR ou encore la Banque mondiale, et organise divers évènements. Ainsi le ministère des affaires étrangères et du développement international a récemment organisé une rencontre sur le thème : « Dérèglements climatiques et crises humanitaires : comprendre et agir ». Le déplacement de populations pour des raisons climatiques n'est pas directement au coeur des négociations internationales. Cependant il a été reconnu par les accords de Cancún (décembre 2010) comme l'une des conséquences du dérèglement climatique, et le mécanisme de Varsovie sur les « pertes et dommages », créé en novembre 2013, a notamment pour but « d'améliorer la compréhension et l'expertise de la manière dont les impacts des changements climatiques affectent les schémas de migrations, les déplacements et la mobilité humaine ». Son comité exécutif devrait rendre ses conclusions en 2016, lors de la 22e conférence des parties à la conférence-cadre des Nations unies sur les changements climatiques.
