@@ -1,0 +1,9 @@
+# Réponse à la question n° 76383
+
+- Question : [76383](76383.md) — Question n° 76383 — projet d'accueil individualisé; perspectives
+
+## Réponse
+
+*JO du 2015-10-20*
+
+Le projet d'accueil individualisé (PAI) est avant tout une démarche d'accueil résultant d'une réflexion commune des différents intervenants impliqués dans la vie de l'enfant malade. La circulaire n° 2003-135 du 8 septembre 2003 relative à l'accueil en collectivité des enfants et des adolescents atteints de troubles de la santé évoluant sur une longue période, précise les règles et conditions d'admission scolaire de ces enfants. À partir des informations recueillies auprès de la famille et, selon le cas, du médecin prescripteur, le médecin scolaire, après concertation avec l'infirmière, détermine les aménagements particuliers susceptibles d'être mis en place. Le rôle de chacun et la complémentarité des interventions sont précisés dans un document écrit. Celui-ci associe l'enfant ou l'adolescent, sa famille, l'équipe éducative ou d'accueil, les personnels de santé rattachés à la structure, les partenaires extérieurs et toute personne ressource. Il convient de souligner le rôle des personnels de santé et d'action sociale en faveur des élèves, dont la mission est d'apporter, chacun dans son domaine de compétence, toute l'assistance requise aux équipes éducatives et de contribuer à la résolution des difficultés que celles-ci pourraient rencontrer. Le PAI est lié à la pathologie ou au trouble constaté pendant l'année scolaire. Il peut donc être établi pour une période allant de quelques jours à une année scolaire. Il peut également être reconduit d'une année sur l'autre (actualisation). En cas de changement d'établissement en cours d'année, il peut être transféré à la demande des parents et remis au médecin de l'éducation nationale en charge du nouvel établissement qui procédera avec la famille à son actualisation si nécessaire.
