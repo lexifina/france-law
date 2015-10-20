@@ -1,0 +1,9 @@
+# Réponse à la question n° 81742
+
+- Question : [81742](81742.md) — Question n° 81742 — Alsace-Lorraine; chaines allemandes; réception; perspectives
+
+## Réponse
+
+*JO du 2015-10-20*
+
+Le Gouvernement porte une attention toute particulière à la politique d'échange et de diffusion de programmes radiophoniques, depuis la création du groupement d'intérêt public Échanges et productions radiophoniques (EPRA). Le ministère de la culture et de la communication s'est d'ailleurs tout particulièrement investi dans le projet de numérisation des archives de l'EPRA. Il connaît le fort attachement des radios associatives à cet outil qui permet d'enrichir les grilles des radios avec des programmes de qualité sur des thématiques chères au ministère, telles que la politique de la ville, l'immigration, le dialogue interculturel, l'égalité des chances et la lutte contre les discriminations. Depuis 2011, l'EPRA a subi une forte diminution de ses subventions, principalement de son principal financeur, l'Agence nationale pour la cohésion sociale et l'égalité des chances (ACSé) et, en l'absence d'autres sources de financement, il est apparu inévitable d'envisager la dissolution du groupement, tout en réfléchissant à de nouvelles formes du soutien de l'État aux radios associatives pour l'avenir et, plus largement, aux médias de proximité. La procédure de liquidation du GIP EPRA a été lancée le 1er janvier 2014 et se poursuivra jusqu'au 31 décembre 2015, laissant ainsi un délai suffisant à un examen attentif de la situation des agents qu'il emploie, et à la résolution d'autres questions comme celle des archives radiophoniques. Sur ce dernier point, conformément aux engagements de l'État, une démarche d'échanges avec l'Institut national de l'audiovisuel (INA) est engagée, afin de conserver et valoriser sur le plan scientifique et culturel les archives sonores de l'EPRA.
