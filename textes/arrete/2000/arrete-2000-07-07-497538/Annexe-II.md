@@ -1,6 +1,6 @@
 # Article Annexe II
 
-LISTE DES ETABLISSEMENTS DE CONSTRUCTION OU DE REPARATION NAVALES SUSCEPTIBLES D'OUVRIR DROIT A LA CESSATION ANTICIPEE D'ACTIVITE DES TRAVAILLEURS DE L'AMIANTE
+LISTE DES ÉTABLISSEMENTS DE CONSTRUCTION OU DE RÉPARATION NAVALES SUSCEPTIBLES D'OUVRIR DROIT À LA CESSATION ANTICIPÉE D'ACTIVITÉ DES TRAVAILLEURS DE L'AMIANTE
 
 Aquitaine
 
@@ -510,7 +510,7 @@ Etablissements Meunier FSA. 9, boulevard Nail, 56100 Lorient. De 1965 à 1996.
 
 Etablissements Monfort :
 
-- 5, rue Julien-Quéré, 56100 Lorient : depuis 1978.
+- 5, rue Julien-Quéré, 56100 Lorient : De 1978 à 2014.
 
 Etablissement Mougin et Basle/SICCNA/ACM/Saint-Malo naval/Menuiserie malouine, 9, avenue Louis-Martin, 35400 Saint-Malo, puis 34, quai Garnier-de-Fougeray, 35400 Saint-Malo : de 1950 à 1997
 
