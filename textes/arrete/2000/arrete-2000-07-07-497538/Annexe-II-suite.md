@@ -26,7 +26,7 @@ Busson Jotereau :
 
 - quai de la Cabaude, 85100 Les Sables-d'Olonne : depuis 1964.
 
-BUTAUD Fils. Quai de la Cabaude, 85100 Les Sables-d'Olonne. De 1965 à 1996.
+BUTAUD Fils. Quai de la Cabaude, 85100 Les Sables-d'Olonne : de 1965 à 1996.
 
 CAMOM :
 
@@ -42,7 +42,7 @@ Chantiers Chauvet Jean, puis Chantiers Chauvet Marie-Joseph, puis CRNP (Construc
 
 Chantiers de l'Atlantique, Alstom Marine, avenue Antoine-Bourdelle, BP 400, 44608 Saint-Nazaire Cedex : de 1945 à 1996.
 
-Chantiers de Penhouet, puis Alsthom Etablissement mécanique, puis SEMT Mécanique avenue de Chatonay, 44600 Saint-Nazaire, de 1944 à 1982
+Chantiers de Penhouet, puis Alsthom Etablissement mécanique, puis SEMT Mécanique avenue de Chatonay, 44600 Saint-Nazaire : de 1944 à 1982
 
 Chouteau Atlantique :
 
@@ -58,7 +58,7 @@ CNI (chaudronnerie navale et industrielle) :
 
 - boulevard des Apprentis, 44550 Montoir-de-Bretagne : de 1974 à 1997.
 
-Compagnie Radio maritime ICRM 2, avenue Launay, 44100 Nantes puis 5, rue Cuvier, 44100 Nantes puis 3, rue Line, 44100 Nantes. De 1965 à 1978 puis de 1978 à 1983 puis de 1984 à 1985
+Compagnie Radio maritime ICRM 2, avenue Launay, 44100 Nantes puis 5, rue Cuvier, 44100 Nantes puis 3, rue Line, 44100 Nantes : de 1965 à 1978 puis de 1978 à 1983 puis de 1984 à 1985
 
 CRM :
 
@@ -82,7 +82,7 @@ Entreprise Le Bot, 49, rue Albert-Thomas, 44600 Saint-Nazaire : de 1964 à 1969.
 
 Entreprise Renaud P.-Louis, rue des Parcs, 44490 Le Croisic, de sa création à 1969.
 
-Electronavale. 6, rue Brunellière, puis, 6, quai des Frégates, 44600 Saint-Nazaire. De 1946 à 1993.
+Electronavale. 6, rue Brunellière, puis, 6, quai des Frégates, 44600 Saint-Nazaire : de 1946 à 1993.
 
 ERBOS :
 
@@ -114,33 +114,33 @@ Gestal/société Allaire/Allaire Gestal :
 
 - ZA de Pedras, 44117 Saint-André-des-Eaux : de 1945 à 1975.
 
-Hériaud : 85110 Les Sables-d'Olonne, de 1946 à 1995.
+Hériaud : 85110 Les Sables-d'Olonne : de 1946 à 1995.
 
 Isopeint :
 
 - 2, rue Fidèle-Simon, 44600 Saint-Nazaire : de 1972 à 1980.
 
-Le Chantier naval François, 44490 Le Croisic, de sa création à 1976.
+Le Chantier naval François, 44490 Le Croisic : de sa création à 1976.
 
 Leroux et Lotz :
 
 - rue des Usines, 44100 Nantes : de 1960 à 1975.
 
-Les Tôleries de Saint-Nazaire (Ets Thirietl, Chaudronnerie de Saint-Nazaire, SMCT, 14,rue Henri-Gautier, BP 112, 44600 Saint-Nazaire Cedex, de 1964 à 1982.
+Les Tôleries de Saint-Nazaire (Ets Thirietl, Chaudronnerie de Saint-Nazaire, SMCT, 14,rue Henri-Gautier, BP 112, 44600 Saint-Nazaire Cedex : de 1964 à 1982.
 
 Mac Gegor :
 
 - 4, impasse des Alisées, 44474 Carquefou Cedex : depuis sa création.
 
-MAHE rue de la Gare, 44510 Le Pouliguen, de 1947 à 1971 Leniphen, 44350 Guérande, de 1971 à 1993 Parc de Villejames, 4, rue des Sources, 44350 Guérande, de 1994 à 2005
+MAHE rue de la Gare, 44510 Le Pouliguen, de 1947 à 1971 Leniphen, 44350 Guérande, de 1971 à 1993 Parc de Villejames, 4, rue des Sources, 44350 Guérande : de 1994 à 2005
 
 Masson SA, quai de la Cabaude, 85100 Les Sables-d'Olonne, depuis 1972.
 
 Marine électronique atlantique (MEA), 70, quai de la Fosse, 44000 Nantes, de sa création à 1988.
 
-MECASOUD. Quai des Charbonniers, 44600 Saint-Nazaire. De 1975 à 1995.
+MECASOUD. Quai des Charbonniers, 44600 Saint-Nazaire : de 1975 à 1995.
 
-Meca-Navale rue des Pluviers, BP 1, 44490 Le Croisic De 1972 à 1995
+Meca-Navale rue des Pluviers, BP 1, 44490 Le Croisic : de 1972 à 1995
 
 Morandeau, puis ACOOME, puis SO.SA.ME.NA, 85110 Les Sables-d'Olonne, de sa création à 2002.
 
@@ -162,7 +162,7 @@ Pluriservices :
 
 - 19, rue des Chantiers, 44600 Saint-Nazaire : depuis sa création.
 
-Préfabrication et montage de l'Ouest (PMO). 2, rue Georges-Clemenceau, 44600 Saint-Nazaire. De 1975 à 1982. Rue Jean-Marie-Perret, 44570 Trignac. De 1982 à 1984.
+Préfabrication et montage de l'Ouest (PMO). 2, rue Georges-Clemenceau, 44600 Saint-Nazaire. De 1975 à 1982. Rue Jean-Marie-Perret, 44570 Trignac : de 1982 à 1984.
 
 RAMI (Représentations applications marines et industrielles), 67, boulevard de la Liberté, 44600 Saint-Nazaire : de 1976 à 1978
 
@@ -716,15 +716,15 @@ Mécanique générale Industrie (MGI) :
 
 Mécanix, 108, chemin du Littoral, 13015 Marseille, et 29, traverse Santi, 13015 Marseille : de 1969 à 2002.
 
-MEDEL (Société méditerranéenne d'électronique) 146, chemin de la Madrague-Ville, 13015 Marseille, puis parc des Aygalades, 31, boulevard Frédéric-Sauvage, 13014 Marseille, puis 25, boulevard Massenet, 13014 Marseille De 1981 à 1986
+MEDEL (Société méditerranéenne d'électronique) 146, chemin de la Madrague-Ville, 13015 Marseille, puis parc des Aygalades, 31, boulevard Frédéric-Sauvage, 13014 Marseille, puis 25, boulevard Massenet, 13014 Marseille : de 1981 à 1986
 
 Mediterranean Repairs Shipping (MRS), 42, rue Montgrand, 13006 Marseille : de 1999 à 2003.
 
-MGP Pelletier-Dugoul-Meca International, pont de l'Etoile, 13360 Roquevaire, depuis 1973.
+MGP-PELLETIER-DUGOUL, MECA INTERNATIONAL, pont de l'Etoile, 13360 Roquevaire : de 1973 à 2002, puis, 401 Village industriel, 93, boulevard de la Valbarelle, 13011 Marseille : de 2002 à 2005
 
 MIMA Sud, 6, boulevard Camille-Flammarion, 83500 La Seyne-sur-Mer : de 1960 à 1982.
 
-Montage et travaux extérieurs/MTE Avenue Saint-Menet, 13011 Marseille. De 1969 à 1970
+Montage et travaux extérieurs/MTE Avenue Saint-Menet, 13011 Marseille : de 1969 à 1970
 
 Motor Marine/Monaco Marine Group :
 
