@@ -1,0 +1,9 @@
+# Réponse à la question SEQ150114561
+
+- Question : [SEQ150114561](seq150114561.md) — Professeurs associés de l'enseignement secondaire
+
+## Réponse
+
+*Éducation nationale, enseignement supérieur et recherche, JO du 2015-10-22, page 2501*
+
+La loi du 23 avril 2005 d'orientation et de programme pour l'avenir de l'école a introduit, à l'article L. 932-2 du code de l'éducation, la possibilité de faire appel, dans les établissements publics locaux d'enseignement, à des professeurs associés justifiant d'une expérience professionnelle. Un dispositif de recrutement de professeurs associés dans le second degré avait été, dès 1994, mis en place (décret du 15 juillet 1994). L'impact de ce texte est demeuré très marginal. Afin de remédier à ce déficit d'attractivité, ce dispositif a été rénové de manière à permettre, notamment à des professionnels, d'apporter leur concours et leur potentiel dans le cadre de la formation initiale. Le décret n° 2007-322 du 8 mars 2007 en constitue la traduction réglementaire. Désormais, le champ disciplinaire d'intervention des professeurs associés n'est plus limité aux seules disciplines d'enseignement technologique et professionnel. L'expérience requise est de cinq années pour tous les professeurs associés (cette condition est inscrite dans la loi) contre dix ans auparavant pour ceux d'entre eux recrutés à temps complet. La durée des contrats (2 fois 3 ans maximum) est en adéquation avec les conditions de reconduction des contrats fixées par les articles 4 et 6 de la loi n° 84-16 du 11 janvier 1984 et l'article 6 du décret n° 86-83 du 17 janvier 1986. Le service annuel de ces enseignants, lorsqu'ils sont à temps plein, est de 648 heures (soit l'équivalent du service annuel d'un professeur certifié). Leur rémunération est déterminée par l'arrêté du 8 mars 2007. Elle se situe entre l'indice majoré 376 et l'indice majoré 963. Pour l'année scolaire 2014-2015, 29 professeurs associés ont été recrutés.
