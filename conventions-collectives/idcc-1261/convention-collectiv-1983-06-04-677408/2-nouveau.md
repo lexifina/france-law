@@ -20,45 +20,39 @@ Il dispose d'un délai de 1 mois à compter de la réception de la demande du sa
 
 2.1.6. Durée de travail
 
-(Ces dispositions entrent en vigueur le 26 avril 2014 et sont conclues pour une durée déterminée de 1 an à compter de cette date, voir avenant 1-13 du 14 novembre 2013 BO 2013/49)
+2.1.6.1. Conditions et modalités de dérogation à la durée minimale de travail
 
-2.1.6.1. Conditions et modalités de dérogation de la durée minimale de travail
+Selon l'article L. 3123-14-1 du code du travail, la durée minimale de travail d'un salarié à temps partiel est fixée à 24 heures par semaine ou, le cas échéant, à l'équivalent mensuel de cette durée ou à l'équivalent calculé sur la période prévue par un accord collectif conclu en application de l'article L. 3122-2 du code du travail.
 
-Selon l'article L. 3123-14-1 du code du travail, la durée minimale de travail d'un salarié à temps partiel est fixée à 24 heures par semaine ou, le cas échéant, à l'équivalent mensuel.
+Compte tenu des spécificités des activités des entreprises de la branche, il peut être dérogé à cette durée légale minimale de travail du salarié à temps partiel dans les conditions prévues par la loi et par les modalités conventionnelles détaillées ci-après.
 
-Compte tenu des spécificités des activités des entreprises de la branche, il peut être dérogé à cette durée légale minimale de travail du salarié à temps partiel comme suit :
+a) Intervenants techniques
 
-a) Structures et emplois repères concernés
+Quelle que soit la taille de l'entreprise, les salariés dont l'emploi est rattaché à l'emploi repère d'intervenant technique bénéficient d'une durée minimale de travail de 1 heure par semaine ou de l'équivalent mensuel de cette durée, ou de l'équivalent calculé sur la période prévue par un accord d'aménagement conclu en application de l'article L. 3122-2 du code du travail, si le poste le justifie dans l'entreprise.
 
-Dans les structures de 50 salariés et plus équivalents temps plein (ETP) :
+b) Entreprises de moins de 20 salariés équivalents temps plein (ETP)
 
-Dans les structures de 50 salariés et plus équivalents temps plein (ETP), seuls les emplois rattachés aux emplois repères suivants peuvent déroger selon les conditions prévues au présent article 2.1.6 à la durée minimale prévue par la loi :
+Dans les entreprises de moins de 20 salariés équivalent temps plein (ETP), dès lors que le poste le justifie et en lien notamment avec les financements structurels dont dispose chaque entreprise, il peut être dérogé, dans les conditions suivantes, à la durée minimale de travail prévue par la loi :
 
--animateur ;
+-pour les salariés dont l'emploi est rattaché à l'emploi repère d'agent de maintenance, animateur, animateur d'activité, auxiliaire petite enfance ou de soins, éducateur petite enfance, chargé d'accueil, comptable, personnel administratif, personnel de service ou secrétaire, la durée minimale de travail est fixée à 5 heures par semaine ou à l'équivalent mensuel de cette durée, ou à l'équivalent calculé sur la période prévue par un accord d'aménagement conclu en application de l'article L. 3122-2 du code du travail ;
 
--animateur d'activité ;
+-pour les salariés dont l'emploi est rattaché à l'emploi repère de coordinateur, la durée minimale de travail est fixée à 17 h 50 par semaine ou à l'équivalent mensuel de cette durée, ou à l'équivalent calculé sur la période prévue par un accord d'aménagement conclu en application de l'article L. 3122-2 du code du travail.
 
--auxiliaire petite enfance ou de soins ;
+c) Entreprises de 20 salariés et plus équivalents temps plein (ETP)
 
--éducateur petite enfance ;
+Dans les entreprises de 20 salariés et plus équivalents temps plein (ETP), dès lors que le poste le justifie et en lien notamment avec les financements structurels dont dispose chaque entreprise, il peut être dérogé, dans les conditions suivantes, à la durée minimale de travail prévue par la loi :
 
--intervenant technique.
+-pour les salariés dont l'emploi est rattaché à l'emploi repère d'animateur d'activité, la durée minimale de travail est fixée à 5 heures par semaine, ou à l'équivalent mensuel de cette durée, ou à l'équivalent calculé sur la période prévue par un accord d'aménagement conclu en application de l'article L. 3122-2 du code du travail ;
 
-Dans les structures de moins de 50 salariés équivalents temps plein (ETP) :
+-pour les salariés dont l'emploi est rattaché à l'emploi repère d'agent de maintenance, animateur, auxiliaire petite enfance ou de soins, chargé d'accueil, comptable, personnel administratif, personnel de service ou secrétaire, la durée minimale de travail est fixée à 8 h 50 par semaine ou à l'équivalent mensuel de cette durée, ou à l'équivalent calculé sur la période prévue par un accord d'aménagement conclu en application de l'article L. 3122-2 du code du travail ;
 
-Dans les structures de moins de 50 salariés équivalents temps plein (ETP) et compte tenu des réalités des activités de ces structures, il peut être dérogé selon les conditions prévues au présent article 2.1.6 à la durée minimale prévue par la loi pour l'ensemble des emplois repères de rattachement.
+-pour les salariés dont l'emploi est rattaché à l'emploi repère de coordinateur ou d'éducateur petite enfance, la durée minimale de travail est fixée à 17 h 50 par semaine ou à l'équivalent mensuel de cette durée, ou à l'équivalent calculé sur la période prévue par un accord d'aménagement conclu en application de l'article L. 3122-2 du code du travail.
 
-b) Durée minimale
-
--dans le cadre d'un temps partiel hebdomadaire, à 2 heures par semaine ;
-
--dans le cadre d'un temps partiel mensuel, à 4 heures par mois ;
-
--dans le cadre d'un temps partiel aménagé sur tout ou partie de l'année, à 4 heures mensuelles, durée minimale moyenne calculée sur la période de référence.
+Les dérogations prévues au présent article 2.1.6.1 feront l'objet d'une évaluation tous les 3 ans. Pour ce faire, les partenaires sociaux demanderont des études régulières à l'observatoire emploi formation.
 
 2.1.6.2. Garanties accordées aux salariés
 
-Afin de permettre au salarié de cumuler plusieurs activités de manière à atteindre une durée globale d'activité professionnelle correspondant à un temps plein ou au moins égal à la durée minimale légale de travail de 24 heures (calculée dans le cadre de l'aménagement de la durée de travail), les garanties suivantes sont accordées aux salariés à temps partiel.
+Afin de permettre aux salariés de cumuler plusieurs activités de manière à atteindre une durée globale d'activité professionnelle correspondant à un temps plein ou au moins égale à la durée minimale légale de travail de 24 heures (calculée dans le cadre d'aménagement de la durée de travail), les garanties suivantes sont accordées aux salariés à temps partiel.
 
 a) Cumul de plusieurs emplois et changement du planning
 
@@ -66,33 +60,21 @@ Les salariés bénéficiant du cumul de plusieurs emplois disposent de la facult
 
 Ce refus ne pourra pas être constitutif d'une faute et ne fera l'objet d'aucune sanction.
 
-b) Regroupement des horaires de travail sur des demi-journées ou journées complètes
+b) Regroupement des horaires de travail sur des demi-journées ou journées régulières ou complètes
 
-Les dérogations possibles à la durée légale minimale de travail telles que prévues par l'article 2.1.6.1 ne sont possibles qu'à la condition que les horaires de travail du salarié soient regroupés sur des journées ou demi-journées complètes :
+Les dérogations possibles à la durée légale minimale de travail telles que prévues par l'article 2.1.6.1 ne sont possibles qu'à la condition que les horaires de travail du salarié soient regroupés sur des journées ou demi-journées régulières ou complètes :
 
--un salarié accomplit une demi-journée complète lorsqu'il a accompli au minimum 2 heures de travail effectif sur cette période ;
+-à l'exception des emplois rattachés à l'emploi repère d'intervenant technique, dont la durée minimale de travail est fixée à 1 heure par semaine, un salarié accomplit une demi-journée complète lorsqu'il a accompli au minimum 2 heures de travail effectif sur cette période.
 
 -la journée complète se définit comme toute journée de travail qui comporte au minimum 4 heures de travail.
 
 D'autres modalités de regroupement des horaires de travail sur la demi-journée ou la journée complète ou régulière peuvent être prévues par accord d'entreprise.
 
-2.1.6.3. Dérogations
+c) Priorité pour occuper ou reprendre un emploi d'une durée supérieure
 
-Les dispositions des articles 2.1.6 et suivants ne s'appliquent pas :
+Les salariés à temps partiel visés par le présent article 2.1.6.1 et qui souhaitent occuper ou reprendre un emploi sur une durée au moins égale à celle prévue par la loi bénéficient d'une priorité pour l'attribution d'un emploi ressortissant à leur catégorie professionnelle ou d'un emploi équivalent.
 
--aux salariés à temps partiel, âgés de moins de 26 ans et poursuivant leurs études, pour lesquels une durée de travail inférieure à la durée minimale de travail et compatible avec les études est fixé de droit ;
-
--à la demande du salarié, après présentation d'une demande écrite et motivée, faisant état de contraintes personnelles.
-
-L'employeur informe chaque année le comité d'entreprise ou, à défaut, les délégués du personnel du nombre de demandes de dérogation individuelle à la durée du temps de travail.
-
-Pour les contrats de travail à temps partiel en cours, l'employeur pourra, et ce jusqu'au 1er janvier 2016, déroger à la durée minimale hebdomadaire moyenne fixée par la loi :
-
--soit en appliquant les dispositions du présent avenant ;
-
--soit en évoquant la nécessaire prise en compte de l'activité économique.
-
-A compter du 1er janvier 2016, les dispositions de l'article 2.1.6 s'appliquent à l'ensemble des salariés à temps partiel.
+L'employeur porte à la connaissance de ces salariés la liste des emplois disponibles correspondants.
 
 2.1.7. Organisation de la journée de travail.
 
