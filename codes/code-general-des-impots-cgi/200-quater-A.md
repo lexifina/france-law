@@ -8,7 +8,7 @@
 
 3° Intégrés à un logement acquis en l'état futur d'achèvement ou que le contribuable fait construire, achevé entre le 1er janvier 2005 et le 31 décembre 2017.
 
-1 bis. Les contribuables propriétaires de logements situés en France, achevés avant l'approbation du plan de prévention des risques technologiques, qu'ils affectent à leur habitation principale ou qu'ils louent ou s'engagent à louer pendant une durée de cinq ans, à titre d'habitation principale, à des personnes autres que leur conjoint ou un membre de leur foyer fiscal peuvent bénéficier d'un crédit d'impôt sur le revenu au titre des dépenses payées entre le 1er janvier 2015 et le 31 décembre 2017 pour la réalisation de diagnostics préalables aux travaux et de travaux prescrits aux propriétaires d'habitation au titre du IV de l'article L. 515-16 du code de l'environnement, sans qu'en soit déduit le montant des participations versées, le cas échéant, en application du I bis de l'article L. 515-19 du même code.
+1 bis. Les contribuables propriétaires de logements situés en France, achevés avant l'approbation du plan de prévention des risques technologiques, qu'ils affectent à leur habitation principale ou qu'ils louent ou s'engagent à louer pendant une durée de cinq ans, à titre d'habitation principale, à des personnes autres que leur conjoint ou un membre de leur foyer fiscal peuvent bénéficier d'un crédit d'impôt sur le revenu au titre des dépenses payées entre le 1er janvier 2015 et le 31 décembre 2017 pour la réalisation de diagnostics préalables aux travaux et de travaux prescrits aux propriétaires d'habitation au titre de l'article L. 515-16-2 du code de l'environnement, sans qu'en soit déduit le montant des participations versées, le cas échéant, en application de l'article L. 515-19 du même code.
 
 2. Un arrêté du ministre chargé du budget fixe la liste des équipements pour lesquels les dépenses d'installation ou de remplacement ouvrent droit à cet avantage fiscal.
 
@@ -32,11 +32,11 @@ Les dépenses mentionnées aux 1 et 1 bis ouvrent droit au bénéfice du crédit
 
 7. Le crédit d'impôt est imputé sur l'impôt sur le revenu après imputation des réductions d'impôt mentionnées aux articles 199 quater B à 200 bis, des crédits d'impôt et des prélèvements ou retenues non libératoires. S'il excède l'impôt dû, l'excédent est restitué.
 
-8. Lorsque le bénéficiaire du crédit d'impôt est remboursé dans un délai de cinq ans de tout ou partie du montant des dépenses qui ont ouvert droit à cet avantage, il fait l'objet, au titre de l'année de remboursement et dans la limite du crédit d'impôt obtenu, d'une reprise égale au montant de l'avantage fiscal accordé à raison de la somme qui a été remboursée. Toutefois, aucune reprise n'est pratiquée lorsque le remboursement fait suite à un sinistre survenu après que les dépenses ont été payées ou lorsque les sommes remboursées ont été versées en application du I bis de l'article L. 515-19 du code de l'environnement.
+8. Lorsque le bénéficiaire du crédit d'impôt est remboursé dans un délai de cinq ans de tout ou partie du montant des dépenses qui ont ouvert droit à cet avantage, il fait l'objet, au titre de l'année de remboursement et dans la limite du crédit d'impôt obtenu, d'une reprise égale au montant de l'avantage fiscal accordé à raison de la somme qui a été remboursée. Toutefois, aucune reprise n'est pratiquée lorsque le remboursement fait suite à un sinistre survenu après que les dépenses ont été payées ou lorsque les sommes remboursées ont été versées en application de l'article L. 515-19 du code de l'environnement.
 
 9. La durée de l'engagement de location mentionné au 1 bis s'apprécie à compter de la date de réalisation des dépenses ou, lorsque le logement n'est pas loué à cette date, à compter de la mise en location qui doit prendre effet, pour chaque logement concerné, dans les douze mois qui suivent la réalisation des dépenses. En cas de non-respect de cet engagement, le ou les crédits d'impôt obtenus pour chaque logement concerné font l'objet d'une reprise au titre de l'année au cours de laquelle l'engagement n'est pas respecté.
 
-10. Pour une même dépense, les dispositions du présent article sont exclusives de celles de l'article 200 quater ou d'une déduction de charge pour la détermination des revenus catégoriels .
+10. Pour une même dépense, les dispositions du présent article sont exclusives de celles de l'article 200 quater ou d'une déduction de charge pour la détermination des revenus catégoriels.
 
 NOTA :
 
