@@ -36,9 +36,7 @@ sans personne à charge
 
 |
 
-PERSONNE SEULE
-
-ou couple
+PERSONNE SEULE OU COUPLE
 
 ayant une personne à charge
 
@@ -46,9 +44,9 @@ ayant une personne à charge
 
 |
 
-PAR PERSONNE
+PAR PERSONNE À CHARGE
 
-à charge supplémentaire
+supplémentaire
 
 (en euros)
 
@@ -58,19 +56,19 @@ I
 
 |
 
-292,62
+292,85
 
 |
 
-352,92
+353,20
 
 |
 
-398,87
+399,19
 
 |
 
-57,86
+57,91
 
 |
 
@@ -78,19 +76,19 @@ II
 
 |
 
-255,03
+255,23
 
 |
 
-312,15
+312,40
 
 |
 
-351,25
+351,53
 
 |
 
-51,12
+51,16
 
 |
 
@@ -98,19 +96,19 @@ III
 
 |
 
-239,02
+239,21
 
 |
 
-289,76
+289,99
 
 |
 
-324,89
+325,15
 
 |
 
-46,56
+46,60
 
 |
 
@@ -122,4 +120,4 @@ Les montants obtenus par l'application de ces pourcentages sont arrondis au cent
 
 NOTA :
 
-Arrêté du 30 septembre 2014 article 6 : ces dispositions sont applicables pour les prestations dues à compter du mois d'octobre 2014.
+Arrêté du 16 octobre 2015 article 6 : ces dispositions sont applicables pour les prestations dues à compter du mois d'octobre 2015.

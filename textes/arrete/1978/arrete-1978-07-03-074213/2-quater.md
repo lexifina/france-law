@@ -90,7 +90,7 @@ Personne seule
 
 |
 
-255,03
+255,23
 
 |
 
@@ -98,7 +98,7 @@ Couple sans personne à charge
 
 |
 
-312,15
+312,40
 
 |
 
@@ -106,7 +106,7 @@ Personne seule ou couple ayant une personne à charge
 
 |
 
-351,25
+351,53
 
 |
 
@@ -114,7 +114,7 @@ Par personne supplémentaire à charge
 
 |
 
-51,12
+51,16
 
 |
 
@@ -130,4 +130,4 @@ TL exprimé en pourcentage est arrondi à la troisième décimale.
 
 NOTA :
 
-Arrêté du 30 septembre 2014 article 6 : ces dispositions sont applicables pour les prestations dues à compter du mois d'octobre 2014.
+Arrêté du 16 octobre 2015 article 6 : ces dispositions sont applicables pour les prestations dues à compter du mois d'octobre 2015.
