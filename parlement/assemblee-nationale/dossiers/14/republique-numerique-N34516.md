@@ -1,0 +1,103 @@
+# Economie : pour une République numérique
+
+- Procédure : Projet de loi ordinaire
+- Législature : 14
+- Identifiant : DLR5L14N34516
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/republique_numerique
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl15-325.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2015-12-09 : 1er dépôt d'une initiative. (PRJLANR5L14B3318)
+  - 2015-12-09 : Etude d'impact (ETDIANR5L14B3318)
+  - 2015-12-09 : Avis du Conseil d'Etat (AVCEANR5L14B3318)
+  - 2015-12-09 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2015-12-09 : Renvoi en commission au fond
+      - 2015-10-29 : Nomination de rapporteur
+      - 2015-12-16 : Réunion de commission
+      - 2016-01-13 : Réunion de commission
+      - 2016-01-13 : Réunion de commission
+      - 2016-01-13 : Réunion de commission
+      - 2016-01-13 : Réunion de commission
+      - 2016-01-14 : Réunion de commission
+      - 2016-01-14 : Réunion de commission
+      - 2016-01-19 : Réunion de commission
+      - 2016-01-15 : Dépôt de rapport (RAPPANR5L14B3399, PRJLANR5L14BTC3399)
+    - Travaux d'une commission saisie pour avis
+      - 2015-12-09 : Saisine pour avis d'une commission
+      - 2015-11-10 : Nomination de rapporteur
+      - 2015-11-10 : Réunion de commission
+      - 2016-01-12 : Réunion de commission
+      - 2016-01-13 : Dépôt de rapport (AVISANR5L14B3389)
+    - Travaux d'une commission saisie pour avis
+      - 2015-12-10 : Saisine pour avis d'une commission
+      - 2015-12-03 : Nomination de rapporteur
+      - 2015-12-03 : Réunion de commission
+      - 2016-01-12 : Réunion de commission
+      - 2016-01-12 : Dépôt de rapport (AVISANR5L14B3387)
+    - Travaux d'une commission saisie pour avis
+      - 2015-12-10 : Saisine pour avis d'une commission
+      - 2015-11-18 : Nomination de rapporteur
+      - 2016-01-12 : Réunion de commission
+      - 2016-01-12 : Réunion de commission
+      - 2016-01-13 : Dépôt de rapport (AVISANR5L14B3391)
+  - Discussion en séance publique
+    - 2016-01-19 : Discussion en séance publique
+    - 2016-01-19 : Discussion en séance publique
+    - 2016-01-20 : Discussion en séance publique
+    - 2016-01-20 : Discussion en séance publique
+    - 2016-01-21 : Discussion en séance publique
+    - 2016-01-21 : Discussion en séance publique
+    - 2016-01-21 : Discussion en séance publique
+    - 2016-01-26 : Discussion en séance publique
+    - 2016-01-26 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2016-01-26 : Dépôt d'une initiative en navette (PRJLSNR5S259B0325)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2016-01-26 : Renvoi en commission au fond
+      - 2016-02-17 : Nomination de rapporteur
+      - 2016-04-06 : Dépôt de rapport (RAPPSNR5S259B0534)
+    - Travaux d'une commission saisie pour avis
+      - 2016-02-03 : Saisine pour avis d'une commission
+      - 2016-02-03 : Nomination de rapporteur
+      - 2016-04-05 : Dépôt de rapport (AVISSNR5S259B0528)
+    - Travaux d'une commission saisie pour avis
+      - 2016-02-10 : Saisine pour avis d'une commission
+      - 2016-02-10 : Nomination de rapporteur
+      - 2016-04-05 : Dépôt de rapport (AVISSNR5S259B0525)
+    - Travaux d'une commission saisie pour avis
+      - 2016-02-17 : Saisine pour avis d'une commission
+      - 2016-02-17 : Nomination de rapporteur
+      - 2016-04-05 : Dépôt de rapport (AVISSNR5S259B0526)
+    - Travaux d'une commission saisie pour avis
+      - 2016-03-02 : Saisine pour avis d'une commission
+      - 2016-03-02 : Nomination de rapporteur
+      - 2016-04-05 : Dépôt de rapport (AVISSNR5S259B0524)
+  - Discussion en séance publique
+    - 2016-04-26 : Discussion en séance publique
+    - 2016-04-27 : Discussion en séance publique
+    - 2016-04-28 : Discussion en séance publique
+    - 2016-04-29 : Discussion en séance publique
+    - 2016-05-02 : Discussion en séance publique
+    - 2016-05-03 : Discussion en séance publique
+    - 2016-05-03 : Décision
+- Commission Mixte Paritaire
+  - 2016-05-04 : Dépôt d'un projet de loi (PRJLANR5L14B3724)
+  - 2016-05-04 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2016-06-29 : Nomination de rapporteur
+    - 2016-06-30 : Dépôt du rapport d'une CMP (RAPPANR5L14B3902)
+    - 2016-06-30 : Dépôt du rapport d'une CMP (RAPPSNR5S259B0743)
+  - Discussion en séance publique
+    - 2016-07-20 : Discussion en séance publique
+    - 2016-07-20 : Décision
+  - Discussion en séance publique
+    - 2016-09-28 : Discussion en séance publique
+    - 2016-09-28 : Décision
+  - 2016-06-30 : Décision de la CMP
+- Promulgation de la loi
+  - 2016-10-07 : Promulgation d'une loi
