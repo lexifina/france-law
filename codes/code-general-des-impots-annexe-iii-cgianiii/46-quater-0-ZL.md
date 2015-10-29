@@ -28,7 +28,7 @@ g) Le montant cumulé des plus-values ou moins-values qui n'ont pas été retenu
 
 5. Des états faisant apparaître les déficits d'ensemble, les plus-values nettes ou moins-values nettes à long terme d'ensemble et les crédits d'impôt susceptibles d'être utilisés par la société mère.
 
-6. Dans les situations visées aux c, d, e, f, g ou i du 6 de l'article 223 L du code général des impôts, des états faisant apparaître :
+6. Dans les situations visées aux c, d, e, f, g, i ou j du 6 de l'article 223 L du code général des impôts, des états faisant apparaître :
 
 a) La quotité du déficit qui peut s'imputer sur les résultats des sociétés membres du groupe ayant cessé ou des sociétés apportées et qui font partie du nouveau groupe, mentionnée au 5 de l'article 223 I du même code, et la quote-part de ce déficit qui provient de chacune des sociétés pour lesquelles le bénéfice de cette imputation a été demandé ;
 
@@ -44,6 +44,6 @@ c) Le montant du déficit qui ne peut plus être imputé du fait de la sortie du
 
 9. Un état faisant apparaître les intérêts mentionnés au quinzième alinéa de l'article 223 B du code général des impôts déductibles du résultat d'ensemble au titre de l'exercice et le suivi des intérêts mentionnés au dix-neuvième alinéa du même article.
 
-10. Un état des rectifications prévues aux deuxième, troisième, quatrième, septième et dix-huitième alinéas de l'article 223 B et à l'article 223 D du code général des impôts qui sont afférentes à des sociétés du groupe détenues par l'intermédiaire d'une société intermédiaire.
+10. Un état des rectifications prévues aux deuxième, troisième, quatrième, septième et dix-huitième alinéas de l'article 223 B et à l'article 223 D du code général des impôts qui sont afférentes aux opérations réalisées entre des sociétés du groupe et des sociétés intermédiaires, des sociétés étrangères ou l'entité mère non résidente.
 
 Ces renseignements sont présentés sur des documents conformes aux modèles établis par l'administration.

@@ -20,9 +20,9 @@ En cas de moins-value, celle-ci est diminuée des mêmes amortissements différ�
 
 3. Comprendre dans le résultat ou la plus-value ou moins-value nette à long terme d'ensemble de l'exercice de cession le montant cumulé des plus-values ou des moins-values de cession de titres qui n'ont pas été retenues pour le calcul du résultat ou de la plus-value ou moins-value nette à long terme d'ensemble en application de l'article 223 F lorsque :
 
-a) La cession est réalisée par une société du groupe à une société autre qu'une société du groupe ou autre qu'une société intermédiaire et porte sur des titres d'une autre société du groupe ;
+a) La cession est réalisée par une société du groupe à une société autre qu'une société du groupe ou autre qu'une société intermédiaire, une société étrangère ou une entité mère non résidente, et porte sur des titres d'une autre société du groupe ;
 
-b) La cession est réalisée par une société intermédiaire à une société autre qu'une société du groupe ou autre qu'une société intermédiaire et porte sur des titres d'une société qui demeure dans le groupe et qui ont été préalablement acquis auprès d'une société du groupe.
+b) La cession est réalisée par une société intermédiaire, une société étrangère ou une entité mère non résidente, à une société autre qu'une société du groupe ou autre qu'une société intermédiaire, une société étrangère ou une entité mère non résidente et porte sur des titres d'une société qui demeure dans le groupe et qui ont été préalablement acquis auprès d'une société du groupe.
 
 III. 1. Les dispositions du 2 du II s'appliquent également lors de la sortie du groupe d'une des sociétés qui ont cédé une immobilisation autre que les titres d'une société du groupe à une autre société du groupe ou lors de la sortie du groupe de la société qui est propriétaire de cette immobilisation ou lors de l'apport d'une immobilisation amortissable entre sociétés du groupe lorsque cet apport bénéficie des dispositions de l'article 210 A du code général des impôts.
 
@@ -32,4 +32,4 @@ Pour une immobilisation amortissable, sa valeur nette comptable dans les écritu
 
 Pour une immobilisation non amortissable, son prix d'acquisition par la société qui en est propriétaire.
 
-2. Les dispositions du 3 du II s'appliquent également lors de la sortie du groupe d'une des sociétés qui ont cédé des titres d'une société du groupe à une autre société du groupe ou à une société intermédiaire ou lors de la sortie du groupe de la société qui est propriétaire de ces titres, ou lors de la sortie du groupe d'une société dont les titres ont fait l'objet d'une cession à une société intermédiaire.
+2. Les dispositions du 3 du II s'appliquent également lors de la sortie du groupe d'une des sociétés qui ont cédé des titres d'une société du groupe à une autre société du groupe ou à une société intermédiaire, ou à une société étrangère ou à une entité mère non résidente, ou lors de la sortie du groupe de la société qui est propriétaire de ces titres, ou lors de la sortie du groupe d'une société dont les titres ont fait l'objet d'une cession à une société intermédiaire, ou à une société étrangère ou à une entité mère non résidente.
