@@ -96,61 +96,33 @@ TOQUE |
 
 CRAVATE |
 
-Ordinaire.
+Ordinaire. |
 
-|
+Noire, à grandes manches. |
 
-Noire, à grandes manches.
+De soie noire. |
 
-|
+Bordée de fourrure blanche. |
 
-De soie noire.
+De soie rouge à glands d'or. |
 
-|
+De velours noir, bordée de deux galons d'or. |
 
-Bordée de fourrure blanche.
+Blanche, plissée. |
 
-|
+Chambres réunies (et cérémonies publiques). |
 
-De soie rouge à glands d'or.
+Rouge, à grandes manches ; garniture de fourrure. |
 
-|
+Comme ci-dessus. |
 
-De velours noir, bordée de deux galons d'or.
+Comme ci-dessus. |
 
-|
+De soie rouge à glands d'or. |
 
-Blanche, plissée.
+Comme ci-dessus. |
 
-|
-
-Chambres réunies (et cérémonies publiques).
-
-|
-
-Rouge, à grandes manches ; garniture de fourrure.
-
-|
-
-Comme ci-dessus.
-
-|
-
-Comme ci-dessus.
-
-|
-
-De soie rouge à glands d'or.
-
-|
-
-Comme ci-dessus.
-
-|
-
-En dentelle.
-
-|
+En dentelle. |
 
 Conseillers de la Cour de cassation
 
@@ -170,61 +142,33 @@ TOQUE |
 
 CRAVATE |
 
-Ordinaire.
+Ordinaire. |
 
-|
+Noire, à grandes manches. |
 
-Noire, à grandes manches.
+De soie noire. |
 
-|
+Bordée de fourrure blanche. |
 
-De soie noire.
+Sans. |
 
-|
+De velours noir, bordée d'un galon d'or. |
 
-Bordée de fourrure blanche.
+Blanche, plissée. |
 
-|
+Chambres réunies (et cérémonies publiques). |
 
-Sans.
+Rouge, à grandes manches. |
 
-|
+Comme ci-dessus. |
 
-De velours noir, bordée d'un galon d'or.
+Comme ci-dessus. |
 
-|
+De soie rouge à glands d'or. |
 
-Blanche, plissée.
+Comme ci-dessus. |
 
-|
-
-Chambres réunies (et cérémonies publiques).
-
-|
-
-Rouge, à grandes manches.
-
-|
-
-Comme ci-dessus.
-
-|
-
-Comme ci-dessus.
-
-|
-
-De soie rouge à glands d'or.
-
-|
-
-Comme ci-dessus.
-
-|
-
-En dentelle.
-
-|
+En dentelle. |
 
 Conseillers référendaires de la Cour de cassation
 
@@ -244,61 +188,33 @@ TOQUE |
 
 CRAVATE |
 
-Ordinaire.
+Ordinaire. |
 
-|
+Noire, à grandes manches. |
 
-Noire, à grandes manches.
+De soie noire. |
 
-|
+Bordée de fourrure blanche. |
 
-De soie noire.
+De soie noire, avec franges. |
 
-|
+De velours noir, avec deux galons d'or. |
 
-Bordée de fourrure blanche.
+Blanche, plissée. |
 
-|
+Solennelle (et cérémonies publiques). |
 
-De soie noire, avec franges.
+Rouge, à grandes manches. |
 
-|
+Comme ci-dessus. |
 
-De velours noir, avec deux galons d'or.
+Comme ci-dessus. |
 
-|
+Comme ci-dessus. |
 
-Blanche, plissée.
+Comme ci-dessus. |
 
-|
-
-Solennelle (et cérémonies publiques).
-
-|
-
-Rouge, à grandes manches.
-
-|
-
-Comme ci-dessus.
-
-|
-
-Comme ci-dessus.
-
-|
-
-Comme ci-dessus.
-
-|
-
-Comme ci-dessus.
-
-|
-
-Comme ci-dessus.
-
-|
+Comme ci-dessus. |
 
 COURS D'APPEL
 
@@ -320,61 +236,33 @@ TOQUE |
 
 CRAVATE |
 
-Ordinaire.
+Ordinaire. |
 
-|
+Noire, à grandes manches. |
 
-Noire, à grandes manches.
+De soie noire. |
 
-|
+Bordée de fourrure blanche. |
 
-De soie noire.
+De soie noire, avec franges. |
 
-|
+De velours noir, avec quatre galons d'or. |
 
-Bordée de fourrure blanche.
+Blanche, plissée. |
 
-|
+Solennelle (et cérémonies publiques). |
 
-De soie noire, avec franges.
+Rouge, à grandes manches, à revers bordés d'hermine. |
 
-|
+Comme ci-dessus. |
 
-De velours noir, avec quatre galons d'or.
+Comme ci-dessus. |
 
-|
+Comme ci-dessus. |
 
-Blanche, plissée.
+Comme ci-dessus. |
 
-|
-
-Solennelle (et cérémonies publiques).
-
-|
-
-Rouge, à grandes manches, à revers bordés d'hermine.
-
-|
-
-Comme ci-dessus.
-
-|
-
-Comme ci-dessus.
-
-|
-
-Comme ci-dessus.
-
-|
-
-Comme ci-dessus.
-
-|
-
-Comme ci-dessus.
-
-|
+Comme ci-dessus. |
 
 Présidents de chambre des cours d'appel
 
@@ -394,33 +282,19 @@ TOQUE |
 
 CRAVATE |
 
-Audience ordinaire.
+Audience ordinaire. |
 
-|
+Noire, à grandes manches. |
 
-Noire, à grandes manches.
+De soie noire. |
 
-|
+Bordée de fourrure blanche. |
 
-De soie noire.
+De soie noire, avec franges. |
 
-|
+De velours noir avec trois galons d'or. |
 
-Bordée de fourrure blanche.
-
-|
-
-De soie noire, avec franges.
-
-|
-
-De velours noir avec trois galons d'or.
-
-|
-
-Blanche, plissée.
-
-|
+Blanche, plissée. |
 
 Solennelle (et cérémonies publiques).
 
@@ -468,61 +342,33 @@ TOQUE |
 
 CRAVATE |
 
-Ordinaire.
+Ordinaire. |
 
-|
+Noire, à grandes manches. |
 
-Noire, à grandes manches.
+De soie noire. |
 
-|
+Bordée de fourrure blanche. |
 
-De soie noire.
+De soie noire avec franges. |
 
-|
+De velours noir, avec deux galons d'or. |
 
-Bordée de fourrure blanche.
+Blanche, plissée. |
 
-|
+Solennelle (et cérémonies publiques). |
 
-De soie noire avec franges.
+Rouge, à grandes manches. |
 
-|
+Comme ci-dessus. |
 
-De velours noir, avec deux galons d'or.
+Comme ci-dessus. |
 
-|
+Comme ci-dessus. |
 
-Blanche, plissée.
+Comme ci-dessus. |
 
-|
-
-Solennelle (et cérémonies publiques).
-
-|
-
-Rouge, à grandes manches.
-
-|
-
-Comme ci-dessus.
-
-|
-
-Comme ci-dessus.
-
-|
-
-Comme ci-dessus.
-
-|
-
-Comme ci-dessus.
-
-|
-
-Comme ci-dessus.
-
-|
+Comme ci-dessus. |
 
 TRIBUNAUX DE GRANDE INSTANCE
 
@@ -544,61 +390,33 @@ TOQUE |
 
 CRAVATE |
 
-Ordinaire.
+Ordinaire. |
 
-|
+Noire, à grandes manches. |
 
-Noire, à grandes manches.
+De soie noire. |
 
-|
+Bordée de fourrure blanche. |
 
-De soie noire.
+Sans. |
 
-|
+De laine noire, avec un double galon d'argent. |
 
-Bordée de fourrure blanche.
+Blanche, plissée. |
 
-|
+Solennelle (et cérémonies publiques). |
 
-Sans.
+Comme ci-dessus, sauf pour le président du tribunal de grande instance de Paris, le procureur de la République et le procureur de la République financier près cette juridiction : rouge, à grandes manches. |
 
-|
+Comme ci-dessus. |
 
-De laine noire, avec un double galon d'argent.
+Comme ci-dessus. |
 
-|
+De soie bleu clair, avec franges, sauf dans le ressort des cours d'appel de Paris et de Versailles : de soie noire, avec franges. |
 
-Blanche, plissée.
+Comme ci-dessus, sauf pour le président du tribunal de grande instance de Paris, le procureur de la République et le procureur de la République financier près cette juridiction : de velours noir, avec quatre galons d'or. |
 
-|
-
-Solennelle (et cérémonies publiques).
-
-|
-
-Comme ci-dessus, sauf pour le président du tribunal de grande instance de Paris, le procureur de la République et le procureur de la République financier près cette juridiction : rouge, à grandes manches.
-
-|
-
-Comme ci-dessus.
-
-|
-
-Comme ci-dessus.
-
-|
-
-De soie bleu clair, avec franges, sauf dans le ressort des cours d'appel de Paris et de Versailles : de soie noire, avec franges.
-
-|
-
-Comme ci-dessus, sauf pour le président du tribunal de grande instance de Paris, le procureur de la République et le procureur de la République financier près cette juridiction : de velours noir, avec quatre galons d'or.
-
-|
-
-Comme ci-dessus.
-
-|
+Comme ci-dessus. |
 
 Premiers vice-présidents, vice-présidents et juges des tribunaux de grande instance,
 
@@ -618,61 +436,33 @@ TOQUE |
 
 CRAVATE |
 
-Ordinaire.
+Ordinaire. |
 
-|
+Noire, à grandes manches. |
 
-Noire, à grandes manches.
+De soie noire. |
 
-|
+Bordée de fourrure blanche. |
 
-De soie noire.
+Sans. |
 
-|
+De laine noire, avec un galon d'argent. |
 
-Bordée de fourrure blanche.
+Blanche, plissée. |
 
-|
+Solennelle (et cérémonies publiques). |
 
-Sans.
+Comme ci-dessus. |
 
-|
+Comme ci-dessus. |
 
-De laine noire, avec un galon d'argent.
+Comme ci-dessus. |
 
-|
+De soie bleu-clair, avec franges, sauf dans le ressort des cours d'appel de Paris et de Versailles : de soie noire, avec franges. |
 
-Blanche, plissée.
+Comme ci-dessus. |
 
-|
-
-Solennelle (et cérémonies publiques).
-
-|
-
-Comme ci-dessus.
-
-|
-
-Comme ci-dessus.
-
-|
-
-Comme ci-dessus.
-
-|
-
-De soie bleu-clair, avec franges, sauf dans le ressort des cours d'appel de Paris et de Versailles : de soie noire, avec franges.
-
-|
-
-Comme ci-dessus.
-
-|
-
-Comme ci-dessus.
-
-|
+Comme ci-dessus. |
 
 TRIBUNAUX SUPÉRIEURS D'APPEL
 
@@ -694,61 +484,33 @@ TOQUE |
 
 CRAVATE |
 
-Ordinaire.
+Ordinaire. |
 
-|
+Noire, à grandes manches. |
 
-Noire, à grandes manches.
+De soie noire. |
 
-|
+Bordée de fourrure blanche. |
 
-De soie noire.
+De soie noire avec franges. |
 
-|
+De velours noir, avec deux galons d'or. |
 
-Bordée de fourrure blanche.
+Blanche, plissée. |
 
-|
+Solennelle (et cérémonies publiques). |
 
-De soie noire avec franges.
+Rouge, à grandes manches. |
 
-|
+Comme ci-dessus. |
 
-De velours noir, avec deux galons d'or.
+Comme ci-dessus. |
 
-|
+Comme ci-dessus. |
 
-Blanche, plissée.
+Comme ci-dessus. |
 
-|
-
-Solennelle (et cérémonies publiques).
-
-|
-
-Rouge, à grandes manches.
-
-|
-
-Comme ci-dessus.
-
-|
-
-Comme ci-dessus.
-
-|
-
-Comme ci-dessus.
-
-|
-
-Comme ci-dessus.
-
-|
-
-Comme ci-dessus.
-
-|
+Comme ci-dessus. |
 
 Vice-présidents et juges des tribunaux supérieurs d'appel
 
@@ -768,61 +530,33 @@ TOQUE |
 
 CRAVATE |
 
-Ordinaire.
+Ordinaire. |
 
-|
+Noire, à grandes manches. |
 
-Noire, à grandes manches.
+De soie noire. |
 
-|
+Bordée de fourrure blanche. |
 
-De soie noire.
+Sans. |
 
-|
+De laine noire, avec un galon d'argent. |
 
-Bordée de fourrure blanche.
+Blanche, plissée. |
 
-|
+Solennelle (et cérémonies publiques). |
 
-Sans.
+Comme ci-dessus. |
 
-|
+Comme ci-dessus. |
 
-De laine noire, avec un galon d'argent.
+Comme ci-dessus. |
 
-|
+De soie bleu-clair, avec franges. |
 
-Blanche, plissée.
+Comme ci-dessus. |
 
-|
-
-Solennelle (et cérémonies publiques).
-
-|
-
-Comme ci-dessus.
-
-|
-
-Comme ci-dessus.
-
-|
-
-Comme ci-dessus.
-
-|
-
-De soie bleu-clair, avec franges.
-
-|
-
-Comme ci-dessus.
-
-|
-
-Comme ci-dessus.
-
-|
+Comme ci-dessus. |
 
 Auditeurs de justice
 
@@ -838,29 +572,17 @@ TOQUE |
 
 CRAVATE |
 
-Noire, à grandes manches.
+Noire, à grandes manches. |
 
-|
+De soie noire. |
 
-De soie noire.
+Sans. |
 
-|
+De soie bleu-clair, avec franges. |
 
-Sans.
+De laine noire, avec un galon d'argent. |
 
-|
-
-De soie bleu-clair, avec franges.
-
-|
-
-De laine noire, avec un galon d'argent.
-
-|
-
-Blanche, plissée.
-
-|
+Blanche, plissée. |
 
 Juridictions de proximité
 
@@ -876,27 +598,17 @@ ATTACHE |
 
 RUBAN |
 
-D'un module de 65 mm, suspendue à un ruban, en sautoir, au moyen d'une attache.
+D'un module de 65 mm, suspendue à un ruban, en sautoir, au moyen d'une attache. |
 
-|
+Doré. |
 
-Doré.
+Comportant la mention République française et une tête symbolisant la République, placée de profil, tournée à droite. |
 
-|
+Largeur de 75 mm, portant un rameau d'olivier. |
 
-Comportant la mention République française et une tête symbolisant la République, placée de profil, tournée à droite.
+Largeur de 75 mm, de couleur bleu ciel, partagé en son milieu dans le sens vertical par un liseré noir d'une largeur de 5 mm. |
 
-|
-
-Largeur de 75 mm, portant un rameau d'olivier.
-
-|
-
-Largeur de 75 mm, de couleur bleu ciel, partagé en son milieu dans le sens vertical par un liseré noir d'une largeur de 5 mm.
-
-|
-
-Greffiers en chef et greffiers
+Directeurs des services de greffe judiciaires et greffiers
 
 AUDIENCE |
 
@@ -904,68 +616,38 @@ GRADE |
 
 COSTUME |
 
-Cour de cassation.
+Cour de cassation. |
+
+Greffier en chef. |
+
+Même costume que les conseillers de la Cour de cassation, sans or à la toque. Ceinture rouge à franges rouges. |
 
 |
 
-Greffier en chef.
+Greffier. |
+
+Robe noire sans simarre ni toque noire. |
+
+Cour d'appel. |
+
+Greffier en chef. |
+
+Même costume que les conseillers de la cour d'appel, sans galon à la toque. |
 
 |
 
-Même costume que les conseillers de la Cour de cassation, sans or à la toque. Ceinture rouge à franges rouges.
+Greffier. |
+
+Robe noire sans simarre ni toque noire. |
+
+Tribunal de grande instance et tribunal d'instance |
+
+Greffier en chef. |
+
+Même costume que les juges du tribunal de grande instance, sans galon à la toque. |
 
 |
 
-|
+Greffier. |
 
-Greffier.
-
-|
-
-Robe noire sans simarre ni toque noire.
-
-|
-
-Cour d'appel.
-
-|
-
-Greffier en chef.
-
-|
-
-Même costume que les conseillers de la cour d'appel, sans galon à la toque.
-
-|
-
-|
-
-Greffier.
-
-|
-
-Robe noire sans simarre ni toque noire.
-
-|
-
-Tribunal de grande instance et tribunal d'instance
-
-|
-
-Greffier en chef.
-
-|
-
-Même costume que les juges du tribunal de grande instance, sans galon à la toque.
-
-|
-
-|
-
-Greffier.
-
-|
-
-Robe noire sans simarre ni toque noire.
-
-|
+Robe noire sans simarre ni toque noire. |

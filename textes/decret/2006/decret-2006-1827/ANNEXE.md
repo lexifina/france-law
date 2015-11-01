@@ -58,7 +58,7 @@ Corps des directeurs d'insertion et de probation de l'administration pénitentia
 
 Corps des directeurs techniques de l'administration pénitentiaire.
 
-Corps des greffiers en chef des services judiciaires.
+Corps des directeurs des services de greffe judiciaires.
 
 Corps des psychologues de la protection judiciaire de la jeunesse.
 
