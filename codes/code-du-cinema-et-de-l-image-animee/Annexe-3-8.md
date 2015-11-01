@@ -4,7 +4,7 @@ Autorisation définitive (article 311-100)
 
 Liste des documents justificatifs, par genre :
 
-I. - Fiction :
+I.-Fiction :
 
 1° L'attestation, dûment renseignée et certifiée, de l'acceptation de l'œuvre par le ou les éditeurs de services de télévision chargés d'en assurer la diffusion ou par le ou les éditeurs de services chargés d'en assurer la mise à disposition du public ;
 
@@ -26,11 +26,13 @@ I. - Fiction :
 
 10° Le contrat du ou des diffuseurs, ses annexes et éventuels avenants s'ils n'ont pas été fournis lors de l'autorisation préalable ou si de nouveaux avenants ont été signés ;
 
+10° bis En cas d'apport en industrie, un document valant attestation sur l'honneur, cosigné par le représentant légal de l'entreprise de production et par le représentant légal de l'éditeur de services de télévision, ou par toute personne dûment habilitée à cet effet, indiquant la valorisation définitive de cet apport, précisant la méthode de valorisation retenue et détaillant les moyens effectivement mis à disposition ainsi que la date et la durée de la mise à disposition ;
+
 11° Tout contrat de coproduction conclu depuis l'obtention de l'autorisation préalable ainsi que la justification de son inscription au registre public du cinéma et de l'audiovisuel, lorsque l'œuvre a été immatriculée ;
 
 12° Une copie vidéo de l'œuvre incluant les génériques.
 
-II. - Animation :
+II.-Animation :
 
 1° L'attestation, dûment renseignée et certifiée, de l'acceptation de l'œuvre par le ou les éditeurs de services de télévision chargés d'en assurer la diffusion ou par le ou les éditeurs de services chargés d'en assurer la mise à disposition du public ;
 
@@ -48,6 +50,8 @@ II. - Animation :
 
 8° Le contrat du ou des diffuseurs, ses annexes et éventuels avenants s'ils n'ont pas été fournis lors de l'autorisation préalable ou si de nouveaux avenants ont été signés ;
 
+8° bis En cas d'apport en industrie, un document valant attestation sur l'honneur, cosigné par le représentant légal de l'entreprise de production et par le représentant légal de l'éditeur de services de télévision, ou par toute personne dûment habilitée à cet effet, indiquant la valorisation définitive de cet apport, précisant la méthode de valorisation retenue et détaillant les moyens effectivement mis à disposition ainsi que la date et la durée de la mise à disposition ;
+
 9° La liste définitive des entreprises prestataires engagées, précisant leur lieu d'établissement ;
 
 10° Le récapitulatif des factures des prestataires techniques avec mention de leur nom et adresse ;
@@ -58,7 +62,7 @@ II. - Animation :
 
 13° Une copie vidéo de l'œuvre incluant les génériques.
 
-III. - Documentaire de création :
+III.-Documentaire de création :
 
 1° L'attestation, dûment renseignée et certifiée, de l'acceptation de l'œuvre par le ou les éditeurs de services de télévision chargés d'en assurer la diffusion ou par le ou les éditeurs de services chargés d'en assurer la mise à disposition du public ;
 
@@ -80,11 +84,13 @@ III. - Documentaire de création :
 
 10° Le contrat du ou des diffuseurs, ses annexes et éventuels avenants s'ils n'ont pas été fournis lors de l'autorisation préalable ou si de nouveaux avenants ont été signés ;
 
+10° bis En cas d'apport en industrie, un document valant attestation sur l'honneur, cosigné par le représentant légal de l'entreprise de production et par le représentant légal de l'éditeur de services de télévision, ou par toute personne dûment habilitée à cet effet, indiquant la valorisation définitive de cet apport, précisant la méthode de valorisation retenue et détaillant les moyens effectivement mis à disposition ainsi que la date et la durée de la mise à disposition ;
+
 11° Tout contrat de coproduction conclu depuis l'obtention de l'autorisation préalable ainsi que la justification de son inscription au registre public du cinéma et de l'audiovisuel, lorsque l'œuvre a été immatriculée ;
 
 12° Une copie vidéo de l'œuvre incluant les génériques.
 
-IV. - Adaptation audiovisuelle de spectacle vivant :
+IV.-Adaptation audiovisuelle de spectacle vivant :
 
 1° L'attestation, dûment renseignée et certifiée, de l'acceptation de l'œuvre par le ou les éditeurs de services de télévision chargés d'en assurer la diffusion ou par le ou les éditeurs de services chargés d'en assurer la mise à disposition du public ;
 
@@ -106,11 +112,13 @@ IV. - Adaptation audiovisuelle de spectacle vivant :
 
 10° Le contrat du ou des diffuseurs, ses annexes et éventuels avenants s'ils n'ont pas été fournis lors de l'autorisation préalable ou si de nouveaux avenants ont été signés ;
 
+10° bis En cas d'apport en industrie, un document valant attestation sur l'honneur, cosigné par le représentant légal de l'entreprise de production et par le représentant légal de l'éditeur de services de télévision, ou par toute personne dûment habilitée à cet effet, indiquant la valorisation définitive de cet apport, précisant la méthode de valorisation retenue et détaillant les moyens effectivement mis à disposition ainsi que la date et la durée de la mise à disposition ;
+
 11° Tout contrat de coproduction conclu depuis l'obtention de l'autorisation préalable ainsi que la justification de son inscription au registre public du cinéma et de l'audiovisuel, lorsque l'œuvre a été immatriculée ;
 
 12° Une copie vidéo de l'œuvre incluant les génériques.
 
-V. - Magazine :
+V.-Magazine :
 
 1° L'attestation, dûment renseignée et certifiée, de l'acceptation de l'œuvre par le ou les éditeurs de services de télévision chargés d'en assurer la diffusion ou par le ou les éditeurs de services chargés d'en assurer la mise à disposition du public ;
 
@@ -132,4 +140,10 @@ V. - Magazine :
 
 10° Le contrat du ou des diffuseurs, ses annexes et éventuels avenants s'ils n'ont pas été fournis lors de l'autorisation préalable ou si de nouveaux avenants ont été signés ;
 
+10° bis En cas d'apport en industrie, un document valant attestation sur l'honneur, cosigné par le représentant légal de l'entreprise de production et par le représentant légal de l'éditeur de services de télévision, ou par toute personne dûment habilitée à cet effet, indiquant la valorisation définitive de cet apport, précisant la méthode de valorisation retenue et détaillant les moyens effectivement mis à disposition ainsi que la date et la durée de la mise à disposition ;
+
 11° Une copie vidéo de l'œuvre incluant les génériques.
+
+NOTA :
+
+Conformément à l'article 8 de la délibération n° 2015/CA/15 du 24 septembre 2015, les présentes dispositions s'appliquent aux demandes d'autorisation définitive adressées au Centre national du cinéma et de l'image animée à compter du premier jour du mois suivant celui de la date d'entrée en vigueur de la présente délibération.
