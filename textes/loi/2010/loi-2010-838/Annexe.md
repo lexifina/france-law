@@ -98,7 +98,7 @@ Commission compétente en matière d'activités financières
 
 |
 
-Président de l'Autorité de régulation des activités ferroviaires
+Président de l'Autorité de régulation des activités ferroviaires et routières
 
 |
 
