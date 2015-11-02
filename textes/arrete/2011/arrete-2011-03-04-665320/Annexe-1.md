@@ -406,39 +406,57 @@ Le cas échéant, la valeur du tarif T1, calculée sans arrondi intermédiaire, 
 
 7. Pour une installation respectant les critères d'intégration simplifiée au bâti définis à l'annexe 2 et dont la demande complète de raccordement est effectuée après l'entrée en vigueur du présent arrêté et avant le 1er octobre 2012, le tarif d'achat, noté T4 et exprimé en c €/ kWh, est défini par la formule suivante :
 
-Vous pouvez consulter la formule dans le fac-similé du JO nº 0149 du 30/06/2015, texte nº 31 à l'adresse suivante http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20150630&numTexte=31&pageDebut=11013&pageFin=11016
+Vous pouvez consulter l'image dans le fac-similé du JO nº 0254 du 01/11/2015, texte n º 4
+
+http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20151101&numTexte=4&pageDebut=20469&pageFin=20469
 
 Pour une installation respectant les critères d'intégration simplifiée au bâti définis à l'annexe 2 et dont la demande complète de raccordement est effectuée entre le 1er octobre 2012 et le 31 mars 2015, le tarif d'achat, noté T4 et exprimé en c €/ kWh, est défini par la formule suivante :
 
-Vous pouvez consulter la formule dans le fac-similé du JO nº 0149 du 30/06/2015, texte nº 31 à l'adresse suivante http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20150630&numTexte=31&pageDebut=11013&pageFin=11016
+Vous pouvez consulter l'image dans le fac-similé du JO nº 0254 du 01/11/2015, texte n º 4
 
-Pour une installation respectant les critères d'intégration simplifiée au bâti définis à l'annexe 2 et dont la première demande complète de raccordement est effectuée à compter du 1er avril 2015, le tarif d'achat, noté T4 et exprimé en c €/ kWh, est défini par la formule suivante :
+http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20151101&numTexte=4&pageDebut=20469&pageFin=20469
 
-Vous pouvez consulter la formule dans le fac-similé du JO nº 0149 du 30/06/2015, texte nº 31 à l'adresse suivante http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20150630&numTexte=31&pageDebut=11013&pageFin=11016
+Pour une installation respectant les critères d'intégration simplifiée au bâti définis à l'annexe 2 et dont la première demande complète de raccordement est effectuée entre le 1er avril 2015 et le 30 juin 2015, le tarif d'achat, noté T4 et exprimé en c €/ kWh, est défini par la formule suivante :
+
+Vous pouvez consulter l'image dans le fac-similé du JO nº 0254 du 01/11/2015, texte n º 4
+
+http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20151101&numTexte=4&pageDebut=20469&pageFin=20469
+
+Pour une installation respectant les critères d'intégration simplifiée au bâti définis à l'annexe 2 et dont la première demande complète de raccordement est effectuée à compter du 1er juillet 2015, le tarif d'achat, noté T4 et exprimé en c €/ kWh, est défini par la formule suivante :
+
+Vous pouvez consulter l'image dans le fac-similé du JO nº 0254 du 01/11/2015, texte n º 4
+
+http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20151101&numTexte=4&pageDebut=20469&pageFin=20469
 
 Formules dans lesquelles :
 
-L'indice N correspond au trimestre durant lequel le producteur a envoyé la demande complète de raccordement au gestionnaire de réseau auquel l'installation est raccordée.
+L'indice N correspond au trimestre durant lequel le producteur a envoyé la demande complète de raccordement au gestionnaire de réseau auquel l'installation est raccordée ;
 
-Les indices i représentent les trimestres écoulés entre la date d'entrée en vigueur du présent arrêté et la date à laquelle le producteur a envoyé la demande complète de raccordement au gestionnaire de réseau auquel l'installation est raccordée.
-
-Le symbole
-
-Vous pouvez consulter le symbole dans le fac-similé du JO nº 0149 du 30/06/2015, texte nº 31 à l'adresse suivante http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20150630&numTexte=31&pageDebut=11013&pageFin=11016
-
-est égal à 1 lorsque N vaut 1 et est égal au produit des coefficients (1-Vi) décrits au 5 de la présente annexe pour i variant de 1 à N-1 lorsque N est supérieur à 1 et inférieur à 7.
+Les indices i représentent les trimestres écoulés entre la date d'entrée en vigueur du présent arrêté et la date à laquelle le producteur a envoyé la demande complète de raccordement au gestionnaire de réseau auquel l'installation est raccordée ;
 
 Le symbole
 
-Vous pouvez consulter le symbole dans le fac-similé du JO nº 0149 du 30/06/2015, texte nº 31 à l'adresse suivante http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20150630&numTexte=31&pageDebut=11013&pageFin=11016
+Vous pouvez consulter l'image dans le fac-similé du JO nº 0254 du 01/11/2015, texte n º 4
 
-est égal à 1 lorsque N vaut 7 et est égal au produit des coefficients (1-Vi) décrits au 5 de la présente annexe pour i variant de 7 à N-1 lorsque N est supérieur à 7 et inférieur à 17.
+http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20151101&numTexte=4&pageDebut=20469&pageFin=20469
+
+est égal à 1 lorsque N vaut 1 et est égal au produit des coefficients (1-Vi) décrits au 5 de la présente annexe pour i variant de 1 à N-1 lorsque N est supérieur à 1 et inférieur à 7 ;
 
 Le symbole
 
-Vous pouvez consulter le symbole dans le fac-similé du JO nº 0149 du 30/06/2015, texte nº 31 à l'adresse suivante http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20150630&numTexte=31&pageDebut=11013&pageFin=11016
+Vous pouvez consulter l'image dans le fac-similé du JO nº 0254 du 01/11/2015, texte n º 4
 
-est égal à 1 lorsque N vaut 17 et est égal au produit des coefficients (1-Vi) décrits au 5 de la présente annexe pour i variant de 15 à N-1 lorsque N est supérieur à 17.
+http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20151101&numTexte=4&pageDebut=20469&pageFin=20469
+
+est égal à 1 lorsque N vaut 7 et est égal au produit des coefficients (1-Vi) décrits au 5 de la présente annexe pour i variant de 7 à N-1 lorsque N est supérieur à 7 et inférieur à 17 ;
+
+Le symbole
+
+Vous pouvez consulter l'image dans le fac-similé du JO nº 0254 du 01/11/2015, texte n º 4
+
+http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20151101&numTexte=4&pageDebut=20469&pageFin=20469
+
+est égal à 1 lorsque N vaut 18 et est égal au produit des coefficients (1-Vi) décrits au 5 de la présente annexe pour i variant de 18 à N-1 lorsque N est supérieur à 18 ;
 
 E est le coefficient décrit au 3 de la présente annexe.
 
