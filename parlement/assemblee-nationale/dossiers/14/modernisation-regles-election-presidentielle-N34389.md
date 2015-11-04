@@ -1,0 +1,88 @@
+# Pouvoirs publics : règles applicables à l'élection présidentielle
+
+- Procédure : Projet ou proposition de loi organique
+- Législature : 14
+- Identifiant : DLR5L14N34389
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/modernisation_regles_election_presidentielle
+- Sénat : http://www.senat.fr/dossier-legislatif/ppl15-278.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2015-11-05 : 1er dépôt d'une initiative. (PIONANR5L14B3201)
+  - 2015-11-09 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2015-11-05 : Renvoi en commission au fond
+      - 2015-11-04 : Nomination de rapporteur
+      - 2015-12-02 : Réunion de commission
+      - 2015-12-09 : Réunion de commission
+      - 2015-12-16 : Réunion de commission
+      - 2015-12-09 : Dépôt de rapport (RAPPANR5L14B3319, PIONANR5L14BTC3319)
+    - Travaux d'une commission saisie pour avis
+      - 2015-11-18 : Saisine pour avis d'une commission
+      - 2015-11-18 : Nomination de rapporteur
+      - 2015-11-18 : Réunion de commission
+      - 2015-12-08 : Réunion de commission
+      - 2015-12-08 : Dépôt de rapport (AVISANR5L14B3312)
+  - Discussion en séance publique
+    - 2015-12-16 : Discussion en séance publique
+    - 2015-12-16 : Discussion en séance publique
+    - 2015-12-16 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2015-12-17 : Dépôt d'une initiative en navette (PIONSNR5S259B0278)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2015-12-17 : Renvoi en commission au fond
+      - 2016-01-27 : Nomination de rapporteur
+      - 2016-02-10 : Dépôt de rapport (RAPPSNR5S259B0389)
+    - Travaux d'une commission saisie pour avis
+      - 2016-01-20 : Saisine pour avis d'une commission
+      - 2016-01-20 : Nomination de rapporteur
+  - Discussion en séance publique
+    - 2016-02-18 : Discussion en séance publique
+    - 2016-02-18 : Décision
+- Commission Mixte Paritaire
+  - 2016-02-19 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2016-03-15 : Nomination de rapporteur
+    - 2016-03-15 : Dépôt du rapport d'une CMP (RAPPANR5L14B3567)
+    - 2016-03-15 : Dépôt du rapport d'une CMP (RAPPSNR5S259B0469)
+  - 2016-03-15 : Décision de la CMP
+- Nouvelle Lecture
+  - 2016-02-19 : Dépôt d'une initiative en navette (PIONANR5L14B3519)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2016-02-19 : Renvoi en commission au fond
+      - 2016-02-17 : Nomination de rapporteur
+      - 2016-03-23 : Réunion de commission
+      - 2016-03-24 : Réunion de commission
+      - 2016-03-23 : Dépôt de rapport (RAPPANR5L14B3597, PIONANR5L14BTC3597)
+  - Discussion en séance publique
+    - 2016-03-24 : Discussion en séance publique
+    - 2016-03-24 : Discussion en séance publique
+    - 2016-03-24 : Décision
+- Nouvelle Lecture
+  - 2016-03-24 : Dépôt d'une initiative en navette (PIONSNR5S259B0501)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2016-03-24 : Renvoi en commission au fond
+      - 2016-03-30 : Dépôt de rapport (RAPPSNR5S259B0510)
+  - Discussion en séance publique
+    - 2016-03-31 : Discussion en séance publique
+    - 2016-03-31 : Décision
+- Lecture définitive
+  - 2016-04-01 : Dépôt d'une initiative en navette (PIONANR5L14B3624)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2016-04-01 : Renvoi en commission au fond
+      - 2016-04-05 : Réunion de commission
+      - 2016-04-05 : Dépôt de rapport (RAPPANR5L14B3627)
+  - Discussion en séance publique
+    - 2016-04-05 : Discussion en séance publique
+    - 2016-04-05 : Décision
+- Conseil constitutionnel
+  - 2016-04-06 : Saisine du conseil constitutionnel
+  - 2016-04-21 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2016-04-25 : Promulgation d'une loi
