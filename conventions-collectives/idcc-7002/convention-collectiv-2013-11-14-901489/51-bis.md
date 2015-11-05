@@ -1,0 +1,5 @@
+# Article 51 bis
+
+Conformément aux articles L. 1225-35 et suivants du code du travail, après la naissance de l'enfant et dans un délai de 4 mois sauf dérogations prévues à l'article D. 1225-8 du code du travail, le père salarié ainsi que, le cas échéant, le conjoint salarié de la mère ou la personne salariée liée à elle par un pacte civil de solidarité ou vivant maritalement avec elle bénéficient d'un congé de paternité et d'accueil de l'enfant de 11 jours consécutifs ou de dix-huit jours consécutifs en cas de naissances multiples.
+
+En cas de modification légale, cette disposition deviendra caduque.
