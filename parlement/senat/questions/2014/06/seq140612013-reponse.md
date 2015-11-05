@@ -1,0 +1,9 @@
+# Réponse à la question SEQ140612013
+
+- Question : [SEQ140612013](seq140612013.md) — Différences de tarifs dans les hôpitaux publics
+
+## Réponse
+
+*Affaires sociales, santé et droits des femmes, JO du 2015-11-05, page 2576*
+
+Depuis la mise en place de la tarification à l'activité pour les activités de médecine, chirurgie et obstétrique (MCO), les tarifs facturés par les hôpitaux sont fixés au niveau national et sont donc identiques pour l'ensemble des établissements. Ces tarifs ne sont actuellement pas utilisés pour le calcul de la participation financière des assurés aux frais de soins (ticket modérateur). Le dispositif antérieur basé sur les tarifs journaliers de prestations (TJP) a été maintenu en effet pour les établissements de santé anciennement financés par dotation globale. Les tarifs journaliers TJP étant propres à chaque établissement, une démarche d'harmonisation progressive des TJP a été enclenchée par la ministre dès 2014 afin de réduire les écarts constatés. Les circulaires n° 2014-99 du 31 mars 2014 et n° 2015-140 du 22 avril 2015 relatives à la campagne tarifaire des établissements de santé imposent une baisse des TJP qui sont supérieurs de plus de 15 % au niveau auquel ils devraient être. En complément, une démarche de plus grande ampleur a été lancée par la ministre des affaires sociales, de la santé et des droits des femmes qui a confié une mission à l'inspection générale des finances et à l'inspection générale des affaires sociales portant sur l'analyse des conditions de mise en œuvre plus globale d'une réforme des modalités de détermination du reste à charge à l'hôpital. Les conclusions de ce rapport sont en cours d'expertise et une disposition du projet de loi de financement de la sécurité sociale pour 2016 a fixé la date d'échéance du dispositif actuellement en vigueur à 2020. En tout état de cause, la démarche initiée depuis 2014 de réduction des écarts des TJP sera poursuivie en 2016.
