@@ -824,11 +824,11 @@ Article R. 533-25
 
 |
 
-Toutes décisions relatives au transit d'un déchet sur le territoire national conformément au règlement communautaire mentionné à l'article R. 541-62.
+Toutes décisions relatives à l'importation, à l'exportation ou au transit d'un déchet sur le territoire national conformément au règlement communautaire mentionné à l'article R. 541-62.
 
 |
 
-Article R. 541-63
+Article R. 541-62
 
 |
 
