@@ -1,6 +1,8 @@
 # Article 8 bis
 
-Les chambres de métiers et de l'artisanat de région adoptent, sur proposition du bureau, leur règlement intérieur et son annexe, qui sont transmis pour approbation à l'autorité de tutelle.
+Les chambres de métiers et de l'artisanat de région adoptent, sur proposition du bureau, leur règlement intérieur et son annexe, qui sont transmis pour approbation à l'autorité de tutelle. A défaut d'approbation expresse ou d'opposition notifiée à la chambre au terme d'un délai de deux mois à compter de la réception de la demande par l'autorité de tutelle, ces autorisations sont réputées accordées. Les décisions de refus sont motivées.
+
+Lorsque l'autorité de tutelle demande par écrit à la chambre des informations ou documents complémentaires, le délai mentionné à l'alinéa précédent est suspendu jusqu'à la production de ces informations ou documents.
 
 Le règlement intérieur prévoit notamment la création des cinq commissions suivantes, dont il fixe les règles d'organisation et de fonctionnement :
 

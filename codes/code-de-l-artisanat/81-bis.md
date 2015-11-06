@@ -1,11 +1,17 @@
 # Article 81 bis
 
-Les articles 5,6,
+I. - Le présent code est applicable à Mayotte dans les conditions déterminées par le présent article.
 
-15,
+II. - La chambre de métiers et de l'artisanat de Mayotte, dont la circonscription est le Département de Mayotte, a son siège à Mamoudzou.
 
-17,18,19,19 bis, 20,21,23 et 26 du code de l'artisanat s'appliquent à Mayotte.
+III. - La chambre des métiers et de l'artisanat de Mayotte est une chambre de métiers et de l'artisanat de région au sens du II de l'article 5-2.
 
-Pour l'application à Mayotte de l'article 19 bis, les mots :
+IV. - Le 3° du I de l'article 23 et les articles 36 à 52 s'appliquent à Mayotte sous réserve des dispositions du code du travail applicable à Mayotte et du code de l'éducation.
 
-" sous réserve des dispositions du statut du personnel des chambres de métiers et de l'artisanat établi en application de la loi n° 52-1311 du 10 décembre 1952 " sont remplacés par les mots : " Sous réserve des dispositions applicables aux personnels de la chambre de métiers et de l'artisanat de Mayotte ".
+V. - Pour l'application du présent code dans le Département de Mayotte :
+
+-les références à la région ou au département, en tant que collectivités, sont remplacées par la référence au Département de Mayotte ;
+
+-les mots : " préfet de région " sont remplacés par les mots : " préfet de Mayotte " ;
+
+-les références au code du travail sont remplacées par les références au code du travail applicable à Mayotte.
