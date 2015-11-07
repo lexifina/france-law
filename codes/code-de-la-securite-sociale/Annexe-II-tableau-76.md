@@ -1,6 +1,6 @@
 # Article Annexe II : Tableau n° 76
 
-Maladies liées à des agents infectieux ou parasitaires contractées en milieu d'hospitalisation et d'hospitalisation à domicile.
+Maladies liées à des agents infectieux ou parasitaires contractées en milieu d'hospitalisation et d'hospitalisation à domicile, ou en établissement d'hébergement pour personnes âgées dépendantes.
 
 DÉSIGNATION DES MALADIES
 
