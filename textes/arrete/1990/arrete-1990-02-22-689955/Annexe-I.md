@@ -22,6 +22,8 @@ Acétylalphaméthylfentanyl
 
 Acétylméthadol
 
+"AH-7921" ou "3,4-dichloro-N-[[1-(diméthylamino) cyclohéxyl] méthyl] benzamide"
+
 Alfentanil
 
 Allylprodine

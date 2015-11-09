@@ -316,6 +316,44 @@ TMA-2 ou 2,4,5-triméthoxyamphétamine
 
 5-IT ou 5-(2-aminopropyl) indole
 
-"25I-NBOMe" ou "4-iodo-2,5-diméthoxy-N- (2-méthoxybenzyl) phénéthylamine" ;
+Toute molécule (à l'exception du 25B-NBOMe, du 25C-NBOMe et du 25I-NBOMe) dérivée des phénéthylamines et des alpha-méthylphénéthylamines :
 
-"AH-7921" ou "3,4-dichloro-N- [[1- (diméthylamino) cyclohéxyl] méthyl] benzamide".
+- substituée sur le cycle phényl de quelque manière que ce soit ;
+
+et
+
+- substituée sur le groupe amine par au moins un groupe benzyle, avec sur le cycle phényl un substituant alkoxy, alkylènedioxy, halogéné ou hydroxy.
+
+Notamment :
+
+25D-NBOMe ou 2C-D-NBOMe ou 2-(2,5-diméthoxy-4-méthylphényl)-N-(2-methoxybenzyl)éthanamine ;
+
+25E-NBOMe ou 2C-E-NBOMe ou 2-(2,5-diméthoxy4-éthylphényl)-N-(2-méthoxybenzyl)éthanamine ;
+
+25G-NBOMe ou 2C-G-NBOMe ou 2-(2,5-diméthoxy-3,4-diméthylphényl)-N-(2-méthoxybenzyl)éthanamine ;
+
+25H-NBOMe ou 2C-H-NBOMe ou 2-(2,5-diméthoxyphényl)-N-(2-méthoxybenzyl)éthanamine ou 2,5-diméthoxy-N-(2-méthoxybenzyl)phénéthylamine ;
+
+25N-NBOMe ou 2C-N-NBOMe ou 2-(2,5-diméthoxy-4-nitrophényl)-N-(2-méthoxybenzyl)éthanamine ;
+
+25iP-NBOMe ou 2C-iP-NBOMe ou 2-[2,5-diméthoxy-4-(propan-2-yl)phényl]-N-(2-méthoxybenzyl)éthanamine ;
+
+25I-NBMD ou cimbi-29 ou 2-(4-iodo-2,5-diméthoxyphényl)-N-[(2,3-méthylènedioxyphényl)méthyl]éthanamine ;
+
+25I-NB34MD ou 2-(4-iodo-2,5-diméthoxyphényl)-N-[(3,4-méthylènedioxyphényl)méthyl]éthanamine ;
+
+25I-NBF ou cimbi-21 ou 2-(4-iodo-2,5-diméthoxyphényl)-N-[(2-fluorophényl)méthyl]éthanamine ;
+
+25I-NBOH ou cimbi-27 ou 2-(((4-iodo-2,5-diméthoxyphénéthyl)amino)méthyl)phénol ;
+
+30C-NBOMe ou C30-NBOMe ou 2-(4-chloro-2,5-diméthoxyphényl)-N-(3,4,5-triméthoxybenzyl)éthanamine ;
+
+4-EA-NBOMe ou 4-éthylamphétamine-NBOMe ;
+
+4-MMA-NBOMe ou 4-méthylméthamphétamine-NBOMe ou N-[(2-méthoxyphényl)méthyl]-N-méthyl-1-(p-tolyl)propan-2-amine ;
+
+3,4-DMA-NBOMe ou 3,4-diméthoxyamphétamine-NBOMe ou 1-(3,4-diméthoxyphényl)-N-[(2-méthoxyphényl)méthyl]propan-2-amine ;
+
+5-APB-NBOMe ou 1-(benzofuran-5-yl)-N-[(2-méthoxyphényl)méthyl]propan-2-amine).
+
+RH-34 ou 3-[2-(2-méthoxybenzylamino)éthyl]-1H-quinazoline-2,4-dione

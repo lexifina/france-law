@@ -107,3 +107,9 @@ Sécobarbital
 *TMA ou dl-triméthoxy-3,4,5 -méthylphényléthylamine
 
 Zipéprol
+
+25B-NBOMe ou 2C-B-NBOMe ou 2-(4-bromo-2,5-diméthoxyphényl)-N-(2-méthoxybenzyl)éthanamine ou 4-Bromo-2,5-diméthoxy-N-(2-méthoxybenzyl)phénéthylamine
+
+25C-NBOMe ou 2C-C-NBOMe ou 2-(4-chloro-2,5-diméthoxyphényl)-N-(2-methoxybenzyl)éthanamine ou 4-Chloro-2,5-diméthoxy-N-(2-méthoxybenzyl)phénéthylamine
+
+25I-NBOMe ou 2C-I-NBOMe ou 4-iodo-2,5-diméthoxy-N-(2-méthoxybenzyl)phénéthylamine
