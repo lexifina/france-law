@@ -1,0 +1,9 @@
+# Réponse à la question n° 81426
+
+- Question : [81426](81426.md) — Question n° 81426 — Cour des comptes; rapport
+
+## Réponse
+
+*JO du 2015-11-10*
+
+La recommandation de la Cour des comptes relative à la production d'analyse des écarts entre prévision et exécution des recettes fiscales est mise en oeuvre par le Gouvernement. En effet, le Gouvernement conduit chaque année des analyses approfondies, aussi bien concernant les prévisions de recettes que l'écart entre prévision et exécution. Les annexes au projet de loi de finances (PLF) sur les recettes publiées au moment du dépôt du projet de loi de finances (voies et moyens tome I, rapport économique, social et financier -RESF-) contiennent ainsi des informations riches détaillées sur ce sujet. Les voies et moyens tome I revient notamment sur l'exécution de l'année passée et ses déterminants, et ce ligne par ligne d'impôt. Dans les cas où l'écart entre prévision et exécution est prononcé, celui-ci est également analysé (par exemple pour les recettes de TVA en 2012, dans les voies et moyens annexé au PLF pour 2014). De même, dans le RESF une analyse sur l'exécution est effectuée de façon approfondie lorsque l'écart à la prévision est important (par exemple pour les recettes d'impôt sur le revenu en 2013 dans le RESF annexé au PLF pour 2015). Des analyses supplémentaires sur l'écart entre prévision et exécution sont par ailleurs fournies au Parlement et à la Cour des comptes lors de réponses à plusieurs questionnaires, notamment lors du projet de loi de règlement et du PLF rectificative de fin d'année. Les documents budgétaires fournissent donc l'information demandée sur l'écart entre prévision et exécution, l'analyse menée étant appelée à être d'autant plus approfondie que ces écarts sont significatifs. Le Gouvernement continuera de compléter chaque année le champ et la qualité de cette information, afin d'améliorer la qualité des documents budgétaires.
