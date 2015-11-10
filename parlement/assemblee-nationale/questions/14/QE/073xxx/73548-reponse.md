@@ -1,0 +1,9 @@
+# Réponse à la question n° 73548
+
+- Question : [73548](73548.md) — Question n° 73548 — intercommunalités; rapport; propositions
+
+## Réponse
+
+*JO du 2015-11-10*
+
+L'article 33 de la loi n° 2015-991 du 7 août 2015 portant nouvelle organisation territoriale de la République (NOTRe) relève le seuil minimal de la population des établissements publics de coopération intercommunale (EPCI) à fiscalité propre de 5 000 à 15 000 habitants, tout en prenant en considération la particularité des territoires, caractérisée notamment par une faible densité de population ou par la présence sur leur périmètre d'une majorité de communes situées en zone de montagne, au sens de la loi n° 85-30 du 9 janvier 1985 relative au développement et à la protection de la montagne. Ces dispositions visent ainsi à accroître la solidarité territoriale en permettant aux EPCI à fiscalité propre de conforter leur rôle de structures de proximité, tout en renforçant la mutualisation de leurs actions et de leurs moyens avec ceux de leurs communes membres. En outre, l'augmentation du nombre de compétences obligatoires et optionnelles des communautés de communes et des communautés d'agglomération, prévue aux articles 64, 65 et 66 de la loi NOTRe précitée, tend à élargir leur champ d'intervention obligatoire, afin de mutualiser les compétences exercées et permettre à l'ensemble de la population de bénéficier de services publics de meilleure qualité. Ces dispositions permettent donc d'exercer à une échelle plus pertinente des compétences que les communes ont plus de difficultés à exercer faute de moyens financiers et techniques. La rationalisation des structures intercommunales à fiscalité propre et le renforcement de leurs compétences n'a donc pas pour effet de réduire le rôle de l'échelon de proximité mais, au contraire, de renforcer l'efficacité de l'action publique locale.
