@@ -1,0 +1,9 @@
+# Réponse à la question n° 83419
+
+- Question : [83419](83419.md) — Question n° 83419 — instances consultatives; coût de fonctionnement
+
+## Réponse
+
+*JO du 2015-11-10*
+
+Le corps des administrateurs des postes et télécommunications est un corps ministériel qui, au lendemain de la réforme du secteur des postes et télécommunications, instituée par la loi n° 90-568 du 2 juillet 1990 relative à l'organisation du service public de La Poste et à France Télécom, est resté commun au ministère chargé des postes et télécommunications, à La Poste et à France Télécom. Les administrateurs des postes et télécommunications exercent encore aujourd'hui leurs fonctions auprès de ces trois employeurs. Cette situation a exigé une coordination de la gestion du corps des administrateurs des postes et télécommunications. Pour cette raison un conseil consultatif de gestion a été institué dès 1994 (décret n° 94-892 du 13 octobre 1994) pour assister le ministre chargé des postes et télécommunications, qui assure la gestion statutaire de ce corps. Ce conseil consultatif, composé de représentants des trois employeurs, est consulté sur la politique de gestion du corps, pour donner son avis ou présenter ses propositions lors de la préparation de toute décision ou texte ayant une incidence sur le cadre de gestion et l'évolution du corps. Il s'est réuni une fois en 2014. Conçu dès l'origine pour assurer la cohésion du corps des administrateurs des postes et télécommunications, ses membres et les organisations professionnelles y sont très attachés. Le conseil consultatif du corps des administrateurs des postes et télécommunications n'est doté d'aucun budget. Ses membres y participent bénévolement et son secrétariat est assuré par le service du ministère de l'économie, de l'industrie et du numérique chargé de la gestion statutaire du corps.
