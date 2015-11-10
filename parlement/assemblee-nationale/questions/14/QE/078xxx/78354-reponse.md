@@ -1,0 +1,9 @@
+# Réponse à la question n° 78354
+
+- Question : [78354](78354.md) — Question n° 78354 — aires d'accueil; gestion; aides de l'État
+
+## Réponse
+
+*JO du 2015-11-10*
+
+L'attention de la ministre du logement, de l'égalité des territoires et de la ruralité a été appelée sur la mise en oeuvre du décret n° 2014-1742 en date du 30 décembre 2014 relatif à l'aide versée aux gestionnaires d'aires d'accueil des gens du voyage réformant les modalités de calcul de l'aide au logement temporaire 2 (ALT2) en fonction du taux d'occupation des aires. La finalité de cette réforme, issue notamment de constats sur le fonctionnement des aires d'accueil des gens du voyage, formulés dans le rapport de la Cour des comptes de 2012, est d'améliorer la gestion des aires afin de renforcer le service rendu aux usagers. En effet, certaines aires souffrent de désaffection car elles n'offrent pas un service suffisant. Il était donc nécessaire de renforcer l'incitation financière des gestionnaires et de développer l'attractivité des aires. Pleinement conscient de l'effort déjà entrepris et qui reste à consolider par les collectivités locales sur ce sujet sensible, le Gouvernement a été vigilant à préserver le caractère forfaitaire d'une part importante (les 2/3) de l'aide pour garantir aux collectivités une couverture suffisante des charges invariables qui leur incombent. Le fait de réserver une part variable liée à l'occupation permettra en revanche d'introduire davantage d'équité en prenant en compte les dépenses directement liées à l'occupation. Cette réforme s'insérera dans une évolution globale des règles relatives aux gens du voyage pour laquelle le Gouvernement cherche à promouvoir des dispositions équilibrées tant pour favoriser leur mode de vie que pour faciliter la gestion par les communes de l'ensemble des sujets liés à leur accueil.
