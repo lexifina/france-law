@@ -1,0 +1,9 @@
+# Réponse à la question n° 58484
+
+- Question : [58484](58484.md) — Question n° 58484 — outil numérique; Google; perspectives
+
+## Réponse
+
+*JO du 2015-11-10*
+
+Le ministère de l'éducation nationale, de l'enseignement supérieur et de la recherche utilise des ressources et des services apportés par les entreprises françaises et internationales lorsqu'elles sont utiles à l'exercice de la mission de ses agents. Il explore toutes les solutions permettant d'améliorer le travail des personnels et en particulier des enseignants et la qualité de l'apprentissage des élèves dont il a la charge. Ces explorations permettent d'envisager la généralisation possible de nouveaux modèles d'organisation dès lors qu'ils respectent les cadres réglementaire et fonctionnel, mais aussi le cadre budgétaire s'appliquant aux administrations, à leurs agents ainsi qu'aux collectivités. Le ministère est particulièrement attentif au respect strict des lois et réglementations s'appliquant au traitement de données administratives, pédagogiques et personnelles. Toute entreprise, française ou internationale, respectant les textes législatifs et réglementaires est susceptible de proposer des solutions. Le cas échéant, ces solutions peuvent être testées et servir de base aux réflexions qui conduisent à l'élaboration de recommandations. Les établissements et les collectivités territoriales peuvent alors faire le choix de les utiliser et de solliciter des intégrateurs pour leur mise en place lors de mise en concurrence. Outre les aspects juridiques, de nombreux autres points sont pris en compte : la gestion de la sécurité, l'interopérabilité, l'architecture, la disponibilité, la réversibilité (possibilité de passer à d'autres solutions) et les fonctionnalités génériques et spécifiques (propre à l'éducation). Des échanges techniques et juridiques sont organisés par le ministère avec l'entreprise Google comme avec tous les autres fournisseurs de solutions de services en ligne.
