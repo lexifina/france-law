@@ -1,0 +1,789 @@
+# INSTRUCTION N° 369/DEF/DRH-AA/SDEPRH-HP/BPECA relative aux règles d'attribution et de gestion de la nouvelle bonification indiciaire dans l'armée de l'air.
+
+- État : abrogée (au 2015-11-10)
+- NOR : DEFL155813J
+- Numéro : 369
+- Date de signature : 2015-09-18
+- Mise en ligne : 2015-11-05
+- Auteur : Armée de l'air
+- Signataire : Le directeur des ressources humaines de l'armée de l'air, Claude TAFANI.
+- Destinataires : Armée de l'air
+- Ministères : 4
+- Domaines : Défense
+- Catégorie : Directives adressées par le ministre aux services chargés de leur application, sous réserve, le cas échéant, de l'examen particulier des situations individuelles.
+- Mots-clés : Défense, anciens combattants
+- Publication JO / BO : BOC n° 49 du 5 novembre 2015, texte 9.
+- Remplace : Instruction n° 369/DEF/DRH-AA/SDEP-HP/BPE du 4 août 2014 (BOC n° 51 du 17 octobre 2014, texte 19 ; BOEM 525.1.2).
+- Annexes : 3
+- Identifiant : 40188 (PDF officiel : pdf/2015/11/cir_40188.pdf)
+
+## Résumé
+
+Instruction relative aux règles d'attribution et de gestion de la nouvelle bonification indiciaire dans l'armée de l'air.
+
+## Texte
+
+BULLETIN OFFICIEL DES ARMÉES
+Édition Chronologique n° 49 du 5 novembre 2015
+PARTIE PERMANENTE
+Armée de l'air
+Texte 8
+INSTRUCTION N° 9/DEF/SIMMAD/DIR
+relative à la cartographie des référentiels techniques applicables du maintien en condition opérationnelle des matériels
+aéronautiques du ministère de la défense.
+Du 31 juillet 2015
+
+STRUCTURE INTÉGRÉE DU MAINTIEN EN CONDITION OPÉRATIONNELLE DES MATÉRIELS
+AÉRONAUTIQUES DU MINISTÈRE DE LA DÉFENSE : sous-direction de la technique.
+INSTRUCTION N° 9/DEF/SIMMAD/DIR relative à la cartographie des référentiels techniques
+applicables du maintien en condition opérationnelle des matériels aéronautiques du ministère de la
+défense.
+Du 31 juillet 2015
+NOR D E F L 1 5 5 1 5 3 2 J
+Références :
+Code de la défense - Partie réglementaire III. Le ministère de la défense et les organismes
+sous tutelle.
+Décret n° 2013-367 du 29 avril 2013 (JO n° 102 du 2 mai 2013, texte n° 29 ; signalé au BOC
+28/2013 ; BOEM 107.1.1).
+Décret n° 2013-366 du 29 avril 2013 (JO n° 102 du 2 mai 2013, texte n° 28 ; signalé au BOC
+28/2013 ; BOEM 110.7.1).
+Arrêté du 4 décembre 2000 (BOC, p. 5284 ; JO du 5, p. 19279 ; BOEM 114.2.1, 560.1.2,
+590.1.5, 652-5.4) modifié.
+Arrêté du 3 mai 2013 (JO n° 105 du 5 mai 2013, texte n° 18 ; signalé au BOC 29/2013 ;
+BOEM 107.1.1, 110.7.1) modifié.
+Arrêté du 3 mai 2013 (JO n° 105 du 5 mai 2013, texte n° 20 ; signalé au BOC 31/2013 ;
+BOEM 107.1.1) modifié.
+Arrêté du 3 mai 2013 (JO n° 105 du 5 mai 2013, texte n° 21 ; signalé au BOC 29/2013 ;
+BOEM 107.1.1) modifié.
+Arrêté du 24 décembre 2013 (JO n° 302 du 29 décembre 2013, Texte n° 40 ; signalé au BOC
+16/2014 ; BOEM 107.1.1).
+Instruction n° 1548/DEF/EMA/SLI/LIA - n° 182469/DGA/DSA du 2 août 2006 (n.i. BO).
+Instruction n° 2009-16880/DEF/DGA/DET/CEP/ASA du 16 janvier 2009 (BOC N° 9 du 23
+février 2009, texte 5 ; BOEM 107.1.1).
+Instruction n° 2010-84372/DEF/DGA/DT/ST/DGA_IP/ASA du 16 mars 2010 (BOC N° 17
+du 23 avril 2010, texte 9 ; BOEM 170.1.1).
+Instruction n° 2/DEF/SIMMAD/SDTL du 25 mai 2010 (BOC N° 29 du 16 juillet 2010, texte
+17 ; BOEM 103.2.1.1).
+Instruction n° 2011-161278/DEF/DGA/DT/ST/DGA-IP/ASA du 31 mai 2011 (BOC N° 32 du
+12 août 2011, texte 1 ; BOEM 170.1.1).
+Instruction n° 4/DEF/SIMMAD/DSMR du 21 novembre 2012 (BOC N° 5 du 25 janvier 2013,
+texte 20 ; BOEM 103.1).
+Instruction interministérielle n° 2322/DEF/DSAÉ du 11 juillet 2013 (BOC n° 3 du 17 janvier
+2014, texte 7 ; BOEM 103.2.1.1, 107.1.1).
+Instruction n° 8/DEF/SIMMAD/DIR du 12 août 2013 (BOC N° 42 du 4 octobre 2013, texte
+12 ; BOEM 103.1).
+Instruction n° 215602/DEF/DGA/DT/ST/DGA_IP/ASA du 8 novembre 2013 (BOC n° 1 du 3
+janvier 2014, texte 2 ; BOEM 170.1.1).
+Guide GUI-A-003 du 25 octobre 2012.
+Guide GUI-A-005 du 1er juillet 2014.
+Guide GUI-M-003 du 15 novembre 2014.
+Acte technique n° 711-14/DT/ASA/ANS du 23 juin 2014.
+Pièce(s) Jointe(s) :
+Une annexe.
+
+Texte abrogé :
+Instruction n° 9/DEF/SIMMAD/SDTL/TECH du 15 mai 2012 (BOC N° 45 du 19 octobre
+2012, texte 22 ; BOEM 103.1).
+Classement dans l'édition méthodique : BOEM 103.1
+Référence de publication : BOC n° 49 du 5 novembre 2015, texte 8.
+SOMMAIRE
+1. OBJET DU DOCUMENT.
+2. CHAMP D'APPLICATION.
+3. DÉFINITION DU RÉFÉRENTIEL TECHNIQUE APPLICABLE.
+ 3.1. Référentiel des données de la navigabilité initiale.
+ 3.1.1. Certificat de type, certificat de type supplémentaire et certificat spécifique d'équipement et
+documents associés.
+ 3.1.1.1. Fiche de navigabilité.
+ 3.1.1.2. Référentiel de navigabilité.
+ 3.1.1.3. Liste minimale d'équipements de référence.
+ 3.1.1.4. Manuel de vol.
+ 3.1.1.5. Instructions pour le maintien de navigabilité.
+ 3.1.2. Consignes de l'autorité technique direction générale de l'armement et des détenteurs de certificat de
+type ou de type supplémentaire ou de certificat spécifique d'équipement pour la remontée des comptes-rendus
+d'évènements par les organismes (maîtrises d'oeuvre étatiques, organisme d'entretien, niveau de soutien
+industriel, organisme de gestion du maintien de la navigabilité).
+ 3.1.3. Autorisations de vol délivrées par l'autorité technique.
+ 3.2. Référentiel des données de navigabilité supplémentaires.
+ 3.2.1. Données de navigabilité d'application impérative.
+ 3.2.2. Données inscrites dans les actes techniques hors types listés au point 3.2.1.
+ 3.2.3. Données inscrites dans les directives techniques des constructeurs d'application non-impérative.
+ 3.3. Référentiel des données de configuration applicables.
+ 3.4. Référentiel des données techniques de mise en œuvre opérationnelle applicables.
+ 3.4.1. Documentation technique utilisateurs de mise en œuvre opérationnelle.
+ 3.4.2. Dérogations émises par les autorités d'emploi.
+
+ 3.4.3. Autres consignes d'exploitation applicables.
+ 3.5. Référentiel des documents de certification individuelle des aéronefs.
+ 3.5.1. Certificat d'immatriculation.
+ 3.5.2. Certificat de navigabilité.
+ 3.5.3. Autorisations de vol délivrées par l'autorité d'emploi.
+ 3.5.4. Certificat d’examen de navigabilité.
+ 3.6. Référentiel des données techniques d'entretien applicables.
+ 3.6.1. Programme d'entretien de l'aéronef.
+ 3.6.2. Directives d'entretien supplémentaires.
+ 3.6.3. Documentation technique utilisateurs d'entretien.
+4. LES PRINCIPAUX ACTEURS DANS LA FOURNITURE ET LA GESTION DES DONNÉES DU
+RÉFÉRENTIEL TECHNIQUE APPLICABLE.
+ 4.1. L'autorité technique direction générale de l'armement.
+ 4.2. L'autorité de gestion de configuration.
+ 4.3. L'autorité de sécurité aéronautique d'État.
+ 4.4. Les autorités d'emploi.
+ 4.5. Les organismes constructeurs et équipementiers.
+ 4.6. La structure intégrée du maintien en condition opérationnelle des matériels aéronautiques du ministère
+de la défense.
+ 4.7. Les maîtres d'oeuvre de la production et de la diffusion documentaires des armées.
+5. TENUE ET DIFFUSION DES RÉFÉRENTIELS TECHNIQUES APPLICABLES PAR LA STRUCTURE
+INTÉGRÉE DU MAINTIEN EN CONDITION OPÉRATIONNELLE DES MATÉRIELS
+AÉRONAUTIQUES DU MINISTÈRE DE LA DÉFENSE.
+ 5.1. Référentiel des données de navigabilité initiale.
+ 5.2. Référentiel des données de navigabilité supplémentaires.
+ 5.2.1. Les données de navigabilité d'application impérative.
+ 5.2.2. Emports et équipements de mission hors du périmètre de l'arrêté « maintien ».
+ 5.2.3. Les autres actes techniques direction générale de l’armement.
+ 5.2.4. Les directives techniques des constructeurs d'application non-impérative.
+ 5.3. Référentiel des données de configuration applicables.
+
+ 5.4. Référentiel des données techniques de mise en oeuvre opérationnelle applicables.
+ 5.5. Référentiel des documents de certification individuelle des aéronefs.
+ 5.6. Référentiel des données techniques d'entretien applicables.
+ 5.6.1. Programme d'entretien de l'aéronef.
+ 5.6.2. Directives d'entretien supplémentaires.
+ 5.6.3. Documentation technique utilisateurs d’entretien.
+ 5.7. Liens utiles.
+6. DISPOSITIONS DIVERSES.
+ANNEXE(S)
+ANNEXE. CARTOGRAPHIE DES DONNÉES DU RÉFÉRENTIEL TECHNIQUE APPLICABLE.
+1. OBJET DU DOCUMENT.
+Pour définir et organiser les travaux du maintien en condition opérationnelle (MCO) aéronautique, les maîtres
+d’ouvrage et organismes de gestion du maintien de la navigabilité (OGMN) d’armée s’appuient sur un
+référentiel technique applicable (RTA) qu’ils organisent et tiennent à jour selon des critères propres à chaque
+famille de types de matériels (aéronefs, matériels sol). Pour les aéronefs, les RTA sont tenus au
+type/version/standard/numéro de matériel près.
+L ’ o b j e c t i f d e c e t t e i n s t r u c t i o n e s t d e d é c r i r e l ’ o r g a n i s a t i o n g é n é r i q u e d u R T A
+(définition/utilisation/architecture/taxinomie des données) définie par la structure intégrée du maintien en
+condition opérationnelle des matériels aéronautiques du ministère de la défense (SIMMAD) dans le cadre de
+ses attributions au titre des documents de première et de quatrième référence.
+Les données du RTA sont exploitées par les unités de la SIMMAD et les maîtrises d’œuvre étatiques (MOE).
+2. CHAMP D'APPLICATION.
+Cette instruction s'applique aux matériels dont la maîtrise du RTA relève de la responsabilité de la SIMMAD,
+dans le cadre de ses attributions définies par le code de la défense (voir document cité en première référence)
+et l'arrêté de quatrième référence.
+La structure du RTA définie par cette instruction répond aux besoins des matériels aériens, soumis aux règles
+de la navigabilité des aéronefs militaires et d'État et gérés par les OGMN d’armée. Toutefois, les principes
+généraux restent applicables à l'ensemble des matériels aéronautiques, en les adaptant en fonction des
+spécificités de ces matériels. Ces adaptations pourront faire l'objet de textes particuliers selon les cas.
+Dans la suite du texte :
+- le point 3. définit la structure générique d’un RTA ;
+- le point 4. définit le rôle des différents acteurs qui sont responsables, fournisseurs et gestionnaires
+des données du RTA ;
+- le point 5. définit les modalités de tenue à jour et de diffusion des RTA par la SIMMAD.
+
+3. DÉFINITION DU RÉFÉRENTIEL TECHNIQUE APPLICABLE.
+Le RTA (1), constitué par type d’aéronefs en service, organise par catégories les données d’entretien
+applicables spécifiées par l’article 20. de l’arrêté « maintien » de sixième référence. Il regroupe l'ensemble des
+informations et directives du domaine technique nécessaires au MCO (2) et à la mise en œuvre opérationnelle
+(3) des aéronefs. Certaines informations et directives du RTA peuvent être spécifiques et d’application limitée
+à certains aéronefs du type.
+Le RTA type générique est composé :
+- du référentiel des données de la navigabilité initiale (cf. point 3.1.) [responsabilité (4) : autorité
+technique direction générale de l’armement (DGA) - sources (5) : autorité technique DGA ou autre
+autorité technique reconnue par la DGA ou détenteurs de certificat de type (DCT) ou de type
+supplémentaire (DCTS) ou de certificat spécifique d'équipement (DCSE) ou organismes de
+conception agréés 21 ou organismes non-agréés mais reconnus par l’autorité technique] ;
+- du référentiel des données de navigabilité supplémentaires (cf. point 3.2.) (responsabilité : autorité
+technique DGA - sources : autorité technique DGA ou autre autorité technique reconnue par la DGA
+ou détenteurs de certificat de type ou organismes de conception agréés 21 ou organismes non-agréés
+mais reconnus par l’autorité technique) ;
+- du référentiel des données de configuration applicables (cf. point 3.3.) [responsabilité : autorités de
+gestion de configuration (AGC) DGA ou SIMMAD - sources : AGC DGA ou SIMMAD, industriels
+concepteurs, organismes 21, organismes non 21 sous approbation DGA] ;
+- du référentiel des données techniques de mise en œuvre opérationnelle applicables (cf. point 3.4.)
+(responsabilité et source : autorités d’emploi) ;
+- du référentiel des documents de certification individuelle des aéronefs (cf. point 3.5.)
+[responsabilités : direction de la sécurité aéronautique d'État (DSAÉ) et autorités d’emploi - sources :
+DSAÉ, autorités d’emploi et OGMN] ;
+- du référentiel des données techniques d'entretien applicables (cf. point 3.6.) [responsabilités DSAÉ
+et SIMMAD - sources : SIMMAD, OGMN, MOE, niveau de soutien industriel (NSI)].
+Dans son processus d’élaboration, la SIMMAD constitue :
+- un RTA brut (RTAB) qui regroupe l’ensemble des informations et directives sources applicables au
+type et émis par les autorités, les DCT et organismes agréés 21 ou reconnus par l’autorité technique,
+et les fiches associées d’analyses et de justifications des décisions SIMMAD. Le RTAB est utilisé en
+interne SIMMAD pour ses actions de contrôle interne et pour démontrer lors des audits DSAÉ et lors
+des examens de navigabilité la couverture et la traçabilité de sa veille et de ses analyses. Il est
+enregistré dans le système d’information central de la SIMMAD : application de gestion des
+modifications (AGeM)/catalogue (CAD 16) puis COMP@S (Nota. Le « A » de RTAB ne correspond
+pas à des documents à appliquer aux produits et équipements en service dans les armées) ;
+- un RTA produit à partir du RTA brut (RTAB) et qui regroupe l’ensemble des informations et
+directives techniques à appliquer par les acteurs OGMN d’armée (en particulier pour répondre aux
+exigences des articles M.A.302., 303. et 304. de l’annexe I. de l’instruction de quinzième référence),
+par les acteurs d’organisme d’entretien (OE) niveau de soutien opérationnel (NSO) (en particulier
+pour répondre aux exigences de l’article 145.A.45. de l’annexe III. de l’instruction de quinzième
+référence) suite aux décisions prises par le responsable de la gestion du maintien de la navigabilité
+(RGMN) SIMMAD [ou le responsable de flotte (RF) SIMMAD pour les matériels hors du périmètre
+de la navigabilité]. Le RTA est mis en ligne sur le site intradef de la SIMMAD et ses données
+d’entretien et de configuration sont enrôlées dans les systèmes d’information de suivi
+technico-logistique des matériels type aircraft technical and airworthiness management system
+
+(ATAMS).
+Les données du RTA mises en ligne par la SIMMAD sur son site intranet défense (intradef) ne couvrent que
+celles en lien avec ses fonctions et responsabilités de maître d’ouvrage délégué ou de composante d’OGMN
+d’armée. Les autres données du RTA sont sous la responsabilité d’autres organismes du domaine aéronautique
+de la défense (DGA, DSAÉ et autorités d’emploi) et n’apparaissent donc pas obligatoirement sur le site
+SIMMAD (un message dans le champ des données en question précise ce point). Néanmoins, en cas d’accord
+avec ces derniers, un accès à ces données est possible via un lien depuis le site intradef de la SIMMAD.
+ 3.1. Référentiel des données de la navigabilité initiale.
+Les données de la navigabilité initiale sont inscrites dans les documents de la certification de type et associés
+qui sont listés ci-après :
+- certificat de type (CdT), certificat de type supplémentaire (CTS), certificat spécifique équipement
+(CSE) ;
+- fiche de navigabilité (FdN) associée au CdT (ou CTS) ;
+- le référentiel de navigabilité (RdN), pour tous les produits certifiés au titre des dispositions
+transitoires prévues au chapitre IX. de l'arrêté cité en septième référence ;
+- la liste minimale d'équipements de référence (LMER) ;
+- le manuel de vol ;
+- les instructions pour le maintien de navigabilité (IMN) comprenant le programme recommandé
+d’entretien (PRE) ;
+- les directives de l’autorité technique complétées des directives éventuelles des DCT ou DCTS ou de
+DCSE pour la remontée des comptes-rendus d’évènements (CRE) par les organismes (MOE, OE NSI,
+OGMN) conformément à l’instruction citée en treizième référence ;
+- les autorisations de vol (AdV) délivrées par l’autorité technique.
+Les données précisent la définition navigable, les domaines et limites de mise en œuvre et d’entretien, ainsi
+que les conditions de prise en compte des données émises par les différents acteurs du domaine.
+3.1.1. Certificat de type, certificat de type supplémentaire et certificat spécifique d'équipement et
+documents associés.
+Un CdT est délivré pour chaque produit certifié (cellule d’aéronef, moteur et hélice). Il atteste que la
+conception du produit certifié répond à des spécifications de navigabilité.
+Un CTS permet d'agréer une modification majeure apportée à la définition de type d'un produit certifié par un
+postulant qui n'est pas le détenteur du CdT.
+Un CSE atteste la conformité de l'équipement par rapport à la spécification technique d'équipement (STE)
+applicable.
+Les conditions de délivrance des CdT, CTS et CSE sont définies dans les textes réglementaires relatifs à la
+navigabilité des aéronefs militaires et des aéronefs appartenant à l'État et utilisés par les services de douanes,
+de sécurité publique et de sécurité civile (cf. notamment les documents cités en septième et dixième
+référence).
+Les documents associés au CdT sont présentés ci-après.
+
+3.1.1.1. Fiche de navigabilité.
+La FdN est associée au CdT ou au CTS. Elle fournit une description formelle du produit certifié (cellule
+d’aéronef, moteur ou hélice) qui référence la définition considérée comme navigable par l'autorité technique.
+Pour le produit couvert, la FdN inclut au minimum :
+- la définition de type certifiée ;
+- les caractéristiques techniques et diverses limitations (vie, fonctionnement, emploi).
+Pour les produits de base civile, la FdN militaire renvoie principalement à la FdN émise par l'autorité de
+l'aviation civile.
+Pour les produits en service ou déjà qualifiés avant la publication de l’édition 2006 de l'arrêté cité en septième
+référence, lors de l'attribution du CdT et selon l'origine du produit, la FdN est complétée par un RdN par
+l'autorité technique DGA en accord avec le détenteur [informations telles que la liste des modifications
+adoptées et d'application impérative, les actes techniques valant consignes de navigabilité (ATvCN), etc.]. Le
+RdN sert de référence pour la délivrance des certificats de navigabilité initiaux des aéronefs concernés.
+3.1.1.2. Référentiel de navigabilité.
+Le RdN regroupe le complément d'informations nécessaire pour délivrer les certificats de navigabilité initiaux
+pour les aéronefs en service avant fin 2006.
+Le RdN a permis de préciser aux utilisateurs l'interprétation qu'il fallait avoir des informations émises
+antérieurement aux textes relatifs à la navigabilité et, en particulier, au niveau de la définition de type
+certifiée, amendée de toutes les consignes de navigabilité (CN), des modifications d'application impérative,
+des modifications approuvées applicables sur le standard concerné et des évolutions de la documentation. Il
+s'agit donc d'un document permettant aux utilisateurs de vérifier la conformité physique et documentaire de
+chaque aéronef par rapport à la définition certifiée, en vue de la délivrance des certificats de navigabilité
+conformément aux dispositions prévues par l'article 70. de l'arrêté cité en septième référence.
+La liste des documents inclus au RdN dépend du type d'aéronef considéré. À titre d'exemple (non exhaustif),
+le RdN recense :
+- les références du CdT, de la FdN et des CTS le cas échéant ;
+- les référentiels des produits certifiés moteur et hélice associés à celui de la cellule ;
+- les coordonnées (adresse, site internet) des directives techniques du constructeur (DCT) et
+éventuellement des DCTS afin d'avoir accès aux documents et données émis par ces détenteurs
+[manuel de vol, PRE, manuel de maintenance, tableau de composition illustré (TCI), etc.] ;
+- le référentiel documentaire applicable à la certification de type ;
+- les CN civiles (ou les moyens d'y accéder) ou défense applicables et les DTC éventuellement
+associées ;
+- la liste des modifications d'application impérative pour assurer la navigabilité, adoptées avant
+l'attribution du CdT, en particulier avant et lors de la commission de gestion de configuration (CGC)
+prise en référence de la définition de type ;
+- la liste des modifications d'application non impérative navigables et adoptées jusqu'à la CGC prise
+en référence de la définition de type ;
+
+- la liste des ATvCN de la DGA, valant recommandations techniques, modifiant une limitation de
+navigabilité, autorisant une dérogation applicable au type, autorisant une nouvelle configuration,
+approuvant une solution de réparation générique (arrêtée à la date de parution du RdN) ;
+- lorsque c'est possible, les critères d'interprétation du code de classement spécifique des DTC
+(bulletins de service ou autre). Il sera alors précisé si l'autorité technique considère ces DTC
+d'application impérative.
+Le RdN défini initialement par l'autorité technique DGA n'a pas pour vocation d'évoluer, en particulier sur la
+partie des référentiels applicables. Il ne sera modifié par l'autorité technique par acte technique (AT) que dans
+le cadre d'une erreur constatée, ou pour mettre à jour des reconnaissances tacites par l’autorité technique de
+documents émis par des organismes non agréés. Les AT nécessaires pour compléter le RdN sont accessibles
+sur le site intradef de la DGA (6).
+3.1.1.3. Liste minimale d'équipements de référence.
+La LMER est spécifique à un type d'aéronef (qui regroupe les produits et équipements certifiés de type,
+nécessaires au vol : cellule, moteur, hélice, équipements). Elle détermine les instruments, les éléments
+d'équipement ou les fonctions qui peuvent être provisoirement indisponibles sans remettre en cause le niveau
+de sécurité prévu par les spécifications applicables en matière de certification de type. Elle est établie par le
+DCT et est approuvée par l'autorité technique via la délivrance du certificat de type. Les évolutions sont
+approuvées par l’autorité technique de manière formelle ou tacite (7) (cf. point 4.1.).
+En l’absence de LMER, l’autorité d’emploi doit établir une liste de tolérances techniques et d'exploitation
+(LTTE) (cf. point 3.4.1.).
+3.1.1.4. Manuel de vol.
+Le manuel de vol est établi par le DCT. Il est approuvé par l'autorité technique via la délivrance du certificat
+de type. Les évolutions sont approuvées par l’autorité technique de manière formelle ou tacite (7) (cf. point
+4.1.).
+3.1.1.5. Instructions pour le maintien de navigabilité.
+Les IMN constituent la documentation de référence pour les organismes en charge du maintien de la
+navigabilité (OGMN et OE) dans leurs activités d’élaboration et de tenue à jour de leurs programmes
+d’entretien et de leur documentation technique utilisateurs (DTU) traitant de l’entretien. Elles permettent de
+garantir le maintien de la conformité aux spécifications de navigabilité du CdT pendant toute la durée
+d’exploitation de l’aéronef.
+Elles sont élaborées au cours de la certification initiale par le constructeur DCT/DCTS/DCSE et approuvées
+par l’autorité technique via la certification de type.
+Elles évoluent dans le cadre du suivi de navigabilité. Ses évolutions sont approuvées par l’autorité technique
+de manière formelle ou tacite (7). Le guide approuvé par acte technique DGA de vingt-et-unième référence
+(8) précise les modalités d’approbation.
+ 3.1.1.5.1. Programme recommandé d'entretien.
+Le PRE est l’IMN « chapeau » qui définit le programme de la maintenance programmée et conditionnelle de
+chaque produit et équipement certifié. Il est la référence pour l’élaboration des programmes d’entretien
+aéronefs (PEA) par les OGMN. Ses évolutions sont formellement approuvées par l’autorité technique pour
+certaines parties (limites, certaines opérations de contrôle), le reste des évolutions étant approuvé par le(s)
+DCT/DCTS/DCSE sous agrément 21.
+
+Selon les industriels DCT/DCTS/DCSE, les PRE ont des dénominations différentes, par exemple : programme
+d’entretien industriel (PEI), programme d’entretien certifié (PEC), etc.
+ 3.1.1.5.2. Exploitation des autres instructions pour le maintien de navigabilité.
+Si les IMN sont utilisées telles quelles comme DTU d’entretien par les MOE d’armée, elles sont gérées selon
+les dispositions précisées par le point 3.6.3.
+3.1.2. Consignes de l'autorité technique direction générale de l'armement et des détenteurs de certificat
+de type ou de type supplémentaire ou de certificat spécifique d'équipement pour la remontée des
+comptes-rendus d'évènements par les organismes (maîtrises d'oeuvre étatiques, organisme d'entretien,
+niveau de soutien industriel, organisme de gestion du maintien de la navigabilité).
+Dans le cadre du suivi de navigabilité, des produits certifiés par la DGA, les évènements pouvant affecter la
+navigabilité du produit doivent être portés à la connaissance des DCT, DCTS, DCSE ainsi que de l’autorité
+technique DGA par les organismes, OE NSI et OGMN. L’instruction citée en treizième référence définit les
+modalités et les critères de transmission des CRE.
+La page « aéronef » du RTA sur le site intradef SIMMAD précise :
+- la typologie particulière définie par chaque détenteur (si elle existe) ;
+- les coordonnées de messagerie électronique de chaque détenteur.
+3.1.3. Autorisations de vol délivrées par l'autorité technique.
+Les conditions de délivrance des autorisations de vol par l’autorité technique DGA sont précisées à l’article
+48. de l’arrêté figurant en septième référence.
+ 3.2. Référentiel des données de navigabilité supplémentaires.
+Les données de navigabilité supplémentaires sont émises dans le cadre du suivi de navigabilité des produits et
+équipements certifiés des aéronefs, notamment en réponse aux évènements constatés en service. Elles
+définissent des opérations de contrôle et de maintenance, ainsi que des modifications devant être appliquées
+aux produits et équipements.
+Elles couvrent :
+- les données de navigabilité d’application impérative, qui sont inscrites dans les documents de types :
+consignes de navigabilité/airworthiness directive (CN/AD), certains types d’actes techniques DGA
+(AT) précisés au point 3.2.1., les documents industriels DTC à traiter comme des CN (information
+précisée par l’autorité technique DGA dans les RdN ou FdN ou par AT spécifiques) ;
+- les données inscrites dans les autres types d’AT de la DGA ;
+- les données inscrites dans les DTC d’application non-impérative.
+3.2.1. Données de navigabilité d'application impérative.
+Elles traduisent le caractère obligatoire d'une directive de l'autorité technique, de l'autorité primaire de
+certification ou du constructeur.
+Elles sont émises :
+- par l’autorité technique, sous forme d’actes techniques, selon les types principaux suivants (9) : CN,
+limitation de navigabilité, certification de type, modification d’une CN civile ;
+
+- par les autorités primaires de certification civile sous approbation tacite de l’autorité technique ;
+- par certains industriels et pour certains documents, tel que précisé par l’autorité technique DGA par
+instruction (cas des produits et équipements certifiés de type civil, cf. instruction citée en onzième
+référence) ou dans les documents de la certification de type et associés (RdN, FdN) ou par actes
+techniques spécifiques.
+Nota. Un OGMN peut appliquer des conditions plus restrictives que celles définies par les données de
+navigabilité d’application impérative.
+3.2.2. Données inscrites dans les actes techniques hors types listés au point 3.2.1.
+Ces actes techniques valident leurs données sur le plan technique mais ne sont pas d’application impérative.
+Les décisions de mises en application sont du ressort :
+- des AGC dans le cas des modifications ;
+- des OGMN pour les autres types.
+3.2.3. Données inscrites dans les directives techniques des constructeurs d'application non-impérative.
+Ces documents (10) sont des publications techniques du constructeur (DTC, bulletin service, lettre de service,
+etc.), décrivant des opérations pour la mise en œuvre et l'entretien du produit ou de l’équipement certifié ou
+pour mettre en œuvre une nouvelle définition du produit ou de l’équipement certifié.
+Ces documents, si produits sous couvert d’un privilège d’agrément de navigabilité (avec référence explicite
+dans le document à l’agrément détenu), sont valides sur le plan technique mais ne sont pas d’application
+impérative. En revanche, tout document qui mentionne explicitement qu’il constitue une IMN ou une
+évolution d’une IMN doit être appliqué. Les conditions d’application seront portées à la connaissance de la
+SIMMAD dans les meilleurs délais pour être négociées directement avec l’émetteur du document. En cas de
+désaccord, le recours à l’autorité technique DGA est nécessaire.
+Pour les produits et équipements certifiés de type civil, les dispositions de l'instruction citée en onzième
+référence s’appliquent.
+Sinon et hors cas ci-dessus cités, les documents sont validés par l'autorité technique par acte technique.
+ 3.3. Référentiel des données de configuration applicables.
+Le référentiel des données de configuration applicables (11) permet de connaître et de maîtriser à chaque
+instant le standard de définition de chaque article de configuration étatique (ACE).
+Il liste :
+- les évolutions (modifications et amendements) applicables et les documents associés ;
+- les autorisations d’écart aux données de configuration applicables émises par les AGC ;
+- les emports et équipements de mission (EEM) autorisés à bord des aéronefs concernés, en
+distinguant notamment ceux qui sont entretenus hors arrêté « maintien ». Ces EEM couvrent
+notamment les configurations d’emports, les équipements individuels des équipages, les équipements
+de mission et dispositifs amovibles (EMDA) (cf. instruction citée en dix-septième référence).
+Il héberge le catalogue des évolutions de références des rechanges.
+
+L'instruction citée en neuvième référence (8) définit les éléments d'organisation au sein des états-majors et de
+la DGA pour mener une gestion de configuration adaptée aux besoins des opérations d'armement, pour les
+systèmes complets (système principal, système de soutien et interfaces), et ce quel que soit le milieu
+considéré. Elle couvre l'ensemble du cycle de vie du système complet et fixe les modalités de gestion des
+évolutions d'un ACE, notamment au travers des CGC.
+L'instruction citée en seizième référence est prise en application de l'instruction multi-milieux citée en
+neuvième référence (8), précitée. Elle décrit le processus de gestion de la configuration des matériels
+aéronautiques à définition stabilisée placés sous la responsabilité de la SIMMAD par délégation des autorités
+d’emploi. Elle permet de préciser les spécificités du domaine aéronautique, en particulier la prise en compte
+des règles de la navigabilité.
+ 3.4. Référentiel des données techniques de mise en œuvre opérationnelle applicables.
+Le référentiel des données techniques de mise en œuvre opérationnelle applicables regroupe les documents
+nécessaires aux opérations de mise en œuvre au sol (hors entretien) et en vol des matériels, les informations et
+consignes émises par l'autorité d’emploi dans le cadre de l'accomplissement de ses missions. Ces consignes
+doivent être répertoriées et prises en compte dans le cadre du suivi technico-logistique des flottes et de leur
+maintien en condition opérationnelle. Elles peuvent nécessiter des opérations de maintenance supplémentaires
+qui doivent rester conformes aux données d'entretien applicables fournies par les DCT et organismes
+concepteurs (12).
+Ce référentiel comprend en particulier :
+- la DTU de mise en œuvre opérationnelle ;
+- les dérogations délivrées par les autorités d’emploi ;
+- les autres consignes d'exploitation applicables.
+3.4.1. Documentation technique utilisateurs de mise en œuvre opérationnelle.
+La DTU de mise en œuvre opérationnelle est élaborée, approuvée, diffusée et gérée en configuration selon les
+dispositions définies par l’instruction citée en douzième référence. Elle est approuvée par chaque autorité
+d’emploi concernée.
+Elle comprend entre autres :
+- le manuel d’exploitation (MANEX) qui est une déclinaison du manuel de vol dans l’organisation
+opérationnelle de l’autorité d’emploi ;
+- la liste minimale d'équipements (LME) qui est établie à partir de la LMER du type approuvée par
+l’autorité technique, conformément à laquelle, sous certaines conditions, un aéronef peut être exploité,
+avec des instruments, des éléments d'équipement ou des fonctions indisponibles au début du vol. La
+LME, qui ne peut pas être moins restrictive que la LMER, est élaborée en tenant compte des
+caractéristiques certifiées de l'aéronef [cf. en particulier la définition de type (13)] ainsi que des
+conditions d'exploitation et d'entretien ;
+- la LTTE qui est la liste, conformément à laquelle, sous certaines conditions, un aéronef peut être
+exploité, avec des instruments, des éléments d'équipement ou des fonctions indisponibles au début du
+vol. Cette liste est élaborée en l'absence de LMER approuvée par l’autorité technique ou en cas
+d’impossibilité avérée de créer une LME à partir de la LMER.
+S’agissant des LME et LTTE, un guide destiné aux autorités d’emploi est disponible sur le site de la DSAÉ
+[GUI-A-003 cité en dix-huitième référence (8)] pour faciliter l’élaboration pour une flotte d’aéronefs d’une
+LME ou d’une LTTE par l’organisme exploitant. Il comprend des indications générales concernant la
+
+présentation et les informations devant constituer ce document.
+3.4.2. Dérogations émises par les autorités d'emploi.
+Selon l’article 10. du décret cité en deuxième référence, les autorités d’emploi peuvent, par décision motivée
+et pour une durée limitée, déroger aux dispositions du décret précité, en cas de circonstances exceptionnelles
+ou de nécessités opérationnelles urgentes.
+3.4.3. Autres consignes d'exploitation applicables.
+Il s'agit de toute consigne d'exploitation émise par l’autorité d’emploi (hors LME, LTTE, MANEX).
+ 3.5. Référentiel des documents de certification individuelle des aéronefs.
+Pour voler, un aéronef doit être accompagné d’un document de navigabilité, normalement un certificat
+d’immatriculation, un certificat de navigabilité (CdN) qui est associé à un certificat d’examen de navigabilité
+(CEN) en vigueur, ou par défaut, une AdV.
+Ce référentiel liste :
+- les certificats d’immatriculation ;
+- les CdN ;
+- les AdV délivrées par les autorités d’emploi (14) ;
+- les CEN.
+3.5.1. Certificat d'immatriculation.
+Chaque aéronef reçoit un certificat d’immatriculation attestant qu’il est inscrit sur le registre
+d’immatriculation. En application des décrets cités en deuxième et troisième références et de l’arrêté cité en
+cinquième référence, la DSAÉ, en tant qu’autorité de sécurité aéronautique d’État, détient le registre
+d’immatriculation pour les aéronefs placés sous la responsabilité des autorités d’emploi.
+3.5.2. Certificat de navigabilité.
+Les conditions d’établissement initial et de maintien du CdN sont précisées respectivement aux articles 46. et
+47. de l’arrêté cité en septième référence.
+3.5.3. Autorisations de vol délivrées par l'autorité d'emploi.
+Les conditions d’établissement des AdV par les autorités d’emploi sont précisées dans les articles 51. et 52.
+(vols d’expérimentation technique) de l’arrêté cité en septième référence. Un guide DSAÉ décrit les modalités
+pratiques permettant d’établir ces autorisations de vol [GUI-A-005 cité en dix-neuvième référence (8)].
+3.5.4. Certificat d’examen de navigabilité.
+Les conditions de délivrance du CEN sont précisées dans l’instruction citée en quinzième référence.
+Nota. La SIMMAD ne gère que les CEN et CdN de certains types d’aéronefs qui sont préparés et prolongés
+par ses unités ou par un industriel titulaire de marché (correspond aux modes OGMN centralisé et
+externalisé). Seuls ces certificats sont accessibles depuis son site intradef.
+
+ 3.6. Référentiel des données techniques d'entretien applicables.
+Le référentiel des données techniques d'entretien applicables est la référence en entrée pour la commande et la
+réalisation des travaux d’entretien dans le cadre du MCO aéronautique. Il est alimenté pour l’essentiel à partir
+des documents et données des autres référentiels listés ci-dessus.
+Il est établi par la SIMMAD dans le cadre de ses fonctions de maître d’ouvrage délégué du MCO aéronautique
+(MOAd), de composante d’OGMN d’armée et de gestionnaire de la DTU (conformément à l’instruction citée
+en douzième référence). Il est constitué :
+- du référentiel du PEA ;
+- du référentiel des directives d'entretien supplémentaires (DES) ;
+- du référentiel de la DTU d’entretien, appliquée par les OE des armées.
+Nota. Pour les OE relevant du NSI, les exigences documentaires pour l’entretien sont précisées dans chaque
+marché de MCO :
+- soit le titulaire se constitue et tient à jour sa DTU d’entretien ;
+- soit le marché impose l’utilisation de la DTU du référentiel SIMMAD.
+3.6.1. Programme d'entretien de l'aéronef.
+À chaque aéronef en service estassocié un PEA. Son application participe à l’assurance de l’aptitude au vol de
+l’aéronef en ligne. Le PEA est développé par la SIMMAD en tant que composante des OGMN d’armée ou par
+un OGMN externalisé, validé par les autorités d’emploi concernées et in fine approuvé par la DSAÉ selon les
+spécifications du guide DSAÉ (15) en ligne sur son site intradef.
+Un type (ou une flotte) d’aéronefs peut être concernée par plusieurs PEA selon les standards et versions en
+service.
+Le PEA définit la logique, l’organisation et les opérations de maintenance programmée, périodiques ou suite à
+un (des) évènement(s) particulier(s). Il identifie les limites entraînant une dépose de la cellule de l’aéronef et
+les opérations de maintenance en position avionnée. Il ne couvre donc pas les opérations de maintenance en
+atelier après dépose de la cellule de l’aéronef. Ces dernières sont présentes dans la DTU partie entretien. 
+Le document de référence est le PRE émis par le DCT de la cellule du type d’aéronefs couvert, complété par :
+- les PRE des DCT des produits et équipements certifiés avionnés pour l’identification des limites
+entraînant une dépose et des opérations de maintenance sur aéronefs ;
+- les DES émises par le RGMN depuis la dernière évolution approuvée du PEA, qui ont un caractère
+d’application répétitive ou à appliquer suite à des évènements particuliers.
+Le PEA se présente sous la forme d'un document identifié, géré en configuration en termes d’évolutions qui
+sont formalisées sous formes d’amendements et de révisions.
+Les évolutions du PEA sont traitées au fur et à mesure des besoins et selon les conditions définies par les
+MGN des OGMN.
+
+3.6.2. Directives d'entretien supplémentaires.
+Les DES matérialisent les décisions de la SIMMAD, en tant que maître d’ouvrage délégué du MCO
+aéronautique et composante des OGMN d’armée, pour faire appliquer :
+- les directives de navigabilité supplémentaires ;
+- des IMN et instructions d’entretien émises par les organismes de conception agréés 21 (en
+particulier, les PRE dans l’attente d’édition des premiers PEA) ;
+- des directives de contrôles de parcs, des mesures de préservation, des autorisations d’écart sur les
+matériels en service.
+Elles complètent le PEA. Ces DES couvrent :
+- les contrôles de parc (CP), les directives d’application (DA) et les directives techniques provisoires
+(DTP) qui sont gérés selon les dispositions définies par les procédures internes du système qualité de
+la SIMMAD ;
+- les autorisations d'écarts (AE) aux données d'entretien applicables (notamment pour les limites
+d'entretien certifiées, écarts validés par actes techniques de la DGA ou par les industriels sous
+privilèges d’agrément 21 ou par la SIMMAD dans le cadre de prérogatives accordées par la DGA par
+acte technique générique) (16).
+3.6.3. Documentation technique utilisateurs d'entretien.
+La DTU d’entretien couvre le corpus de publications techniques associé à chaque type de matériels
+aéronautiques et qui est nécessaire pour la réalisation des opérations techniques de contrôle et de maintenance
+qui relèvent du MCO aéronautique.
+Elle est utilisée par les MOE en charge des opérations de NSO, ainsi que par des organismes industriels en
+charge du NSI, selon les clauses de leurs marchés avec l’État.
+Pour chaque type de matériels :
+- la DTU d’entretien est élaborée, approuvée, diffusée et gérée en configuration selon les dispositions
+définies par l’instruction citée en douzième référence ;
+- le référentiel de la DTU identifie les références des éditions/révisions/amendements des publications
+techniques en vigueur pour application.
+4. LES PRINCIPAUX ACTEURS DANS LA FOURNITURE ET LA GESTION DES DONNÉES DU
+RÉFÉRENTIEL TECHNIQUE APPLICABLE.
+ 4.1. L'autorité technique direction générale de l'armement.
+L'autorité technique DGA approuve de manière tacite (via la reconnaissance d’autorités primaires de
+certification civiles et la mise en œuvre des prérogatives d’agrément 21 par les organismes industriels de
+conception et de production) ou formelle (par délivrance d’AT) les données qui constituent les référentiels
+traitant de la navigabilité initiale et de la navigabilité supplémentaire.
+Avant toute présentation en CGC d’une modification à la définition certifiée et qualifiée, elle se prononce sur
+la navigabilité, et plus généralement, sur l’absence d’impact sur la sécurité (de manière tacite ou formelle).
+Elle conditionne ainsi le contenu du référentiel des données de configuration applicables.
+
+Elle émet des données de navigabilité supplémentaires qui permettent de garantir qu'un aéronef en service
+reste conforme à ses bases de certification. Ces données prennent la forme d’AT avec deux familles à
+considérer :
+- les actes techniques d’application impérative, selon les types listés au point 3.2.1. ;
+- les autres AT d’application non-impérative qui officialisent la validité technique et la navigabilité
+d’un dossier.
+Elle délivre des autorisations de vol dans les cas relevant de sa compétence (cf. article 48. de l’arrêté figurant
+en septième référence).
+Pour certains types de produits et d’équipements, l’autorité technique DGA reconnaît d’autres autorités
+techniques, militaires et étrangères ou de l’aviation civile. Dans ce cas et sous des conditions définies par les
+documents associés à la certification de type (FdN, RdN), les données émises par ces autorités étrangères ou
+civiles sont à considérer comme applicables au même titre que si elles avaient été approuvées par l’autorité
+technique DGA.
+ 4.2. L'autorité de gestion de configuration.
+Pour chaque type de matériels dans son périmètre, cette autorité détient et met à jour le référentiel de la
+configuration de définition applicable. Elle est assurée :
+- par la DGA pour les matériels à définition évolutive ;
+- par la SIMMAD, sur délégation des autorités d’emploi, pour les matériels à définition stabilisée.
+ 4.3. L'autorité de sécurité aéronautique d'État.
+L'autorité de sécurité aéronautique d'État est l’autorité qui couvre le domaine du maintien de la navigabilité. À
+ce titre, elle définit et contrôle les activités et responsabilités de ce domaine (agréments des organismes,
+conditions de délivrance des documents de certification des aéronefs en service). Elle contribue à la définition
+des référentiels des données techniques applicables pour l’entretien et la mise en œuvre opérationnelle, en
+approuvant les PEA (17) et en s’assurant de la conformité aux LMER des LME présentées par les autorités
+d’emploi.
+ 4.4. Les autorités d'emploi.
+Les autorités d'emploi définissent les conditions de mise en œuvre opérationnelle de leurs matériels dans le
+cadre de leurs prérogatives. En particulier, pour les aéronefs inscrits sur le registre d'immatriculation de la
+DSAÉ, les autorités d'emploi :
+- approuvent et sont gestionnaires de la DTU de mise en œuvre opérationnelle (cf. instruction citée en
+douzième référence) ;
+- valident les PEA présentés par leurs OGMN ;
+- émettent les consignes d'exploitation (18) et les dérogations dans le cadre de l’article 10. du décret de
+deuxième référence ;
+- établissent des autorisations de vol dans les cas relevant de leurs compétences.
+ 4.5. Les organismes constructeurs et équipementiers.
+Les organismes constructeurs et équipementiers (19), au titre des prérogatives qui leur sont attribuées par
+l'autorité technique (cf. instruction citée en dixième référence), fournissent les publications techniques qui font
+
+partie des données fondamentales du référentiel d'entretien applicable. Cette fourniture est effectuée, en règle
+générale, par le biais des marchés de MCO.
+En fonction des besoins, ils sont également à l'origine de DTC (référentiel des données de navigabilité
+supplémentaires) et d’instructions techniques d'application des modifications (référentiel des données de
+configuration applicables). Certaines DTC sont à considérer d’application impérative selon les conditions
+définies par l’autorité technique DGA (cf. instruction citée en onzième référence, documents RdN et FdN de
+la CdT, AT).
+ 4.6. La structure intégrée du maintien en condition opérationnelle des matériels aéronautiques du
+ministère de la défense.
+La SIMMAD, en tant que maître d'ouvrage délégué du MCO et composante d’OGMN des trois armées, est
+l’entité pilote de la gestion du RTA. Grâce à ses processus et procédures, elle assure la veille, la collecte, et si
+nécessaire, l'approbation (20) de toutes les informations applicables recensées dans les référentiels du MCO.
+Elle garantit ensuite la mise à disposition de ces données applicables par les outils de diffusion dont elle
+dispose (cf. point 5.) et en assure la surveillance.
+ 4.7. Les maîtres d'oeuvre de la production et de la diffusion documentaires des armées.
+Les maîtres d’œuvre de la production et de la diffusion documentaires (MOPD) peuvent agir sur délégation de
+la SIMMAD et des autorités d’emploi en assurant la tenue et la diffusion sur leur site intradef du référentiel de
+la DTU applicable pour la mise en œuvre opérationnelle et l’entretien.
+Les maîtres d’œuvre en question sont :
+- la librairie aéronautique de l’armée de terre (LAAT) ;
+- le détachement du centre logistique de l’aéronautique navale de Cuers - cellule documentation (DET
+CeLAé/CUERS/DOC) ;
+- le centre de documentation technique de l’armée de l’air (CDTAA).
+5. TENUE ET DIFFUSION DES RÉFÉRENTIELS TECHNIQUES APPLICABLES PAR LA STRUCTURE
+INTÉGRÉE DU MAINTIEN EN CONDITION OPÉRATIONNELLE DES MATÉRIELS
+AÉRONAUTIQUES DU MINISTÈRE DE LA DÉFENSE.
+Les RTA diffusés sur le site intradef de la SIMMAD (onglet technique) suivent la structure type définie en
+annexe.
+Seules les données du RTA en lien avec les responsabilités de la SIMMAD sont accessibles sur son site (21),
+selon les modalités définies dans les points infra.
+Pour les autres données, un texte précise l’autorité responsable, en charge de la tenue à jour et de la diffusion.
+Cependant, après accord avec l’autorité concernée, la SIMMAD pourra insérer un lien dans ses RTA pour
+permettre l’accès à ces données depuis son site.
+ 5.1. Référentiel des données de navigabilité initiale.
+Pour les données de source l’autorité technique, le référentiel des données de navigabilité initiale est
+disponible sur le site intradef de la SIMMAD ou via un lien vers le site de l’autorité technique.
+
+ 5.2. Référentiel des données de navigabilité supplémentaires.
+5.2.1. Les données de navigabilité d'application impérative.
+Les actes techniques émis par la DGA/AT, les consignes de navigabilité émises par les autorités primaires de
+certification civiles, ainsi que les documents des DCT, DCTS, DCSE considérés d’application impérative,
+sont enregistrés dans la base de données CAD 16 (22), accessible à partir du site intradef de la SIMMAD [avec
+mention de l’existence de DES associées enregistrées dans le système d’information logistique et technique
+(SILT), exemple : ATAMS].
+5.2.2. Emports et équipements de mission hors du périmètre de l'arrêté « maintien ».
+Un lien permet d’accéder à la liste des EEM hors du périmètre de l’arrêté « maintien » cité en sixième
+référence.
+5.2.3. Les autres actes techniques direction générale de l’armement.
+Après analyse par la SIMMAD, les AT applicables sont disponibles dans la base de données CAD 16 sur le
+site intradef de la SIMMAD, avec la mention pour chaque document de son caractère applicable (à appliquer).
+Leur correspondance avec les DES associées est assurée par le tableau de correspondance DES-AT au sein du
+référentiel des données techniques d’entretien applicables.
+5.2.4. Les directives techniques des constructeurs d'application non-impérative.
+Les DTC reçues au travers des marchés ou veillées et analysées par la SIMMAD, sont enregistrées dans la
+base de données CAD 16 avec mention pour chaque document de son caractère applicable (cf. site intradef de
+la SIMMAD, via AGeM/CAD 16).
+ 5.3. Référentiel des données de configuration applicables.
+Le référentiel des données de configuration applicables est accessible sur le site intradef de la SIMMAD
+(depuis la page attribuée à chaque type d'aéronef du site du référentiel applicable du MCO à la rubrique
+« référentiel des données de configuration applicables »).
+Les modifications applicables et les données associées [décision de modification (DM), tableau d'évolution
+des matériels (TEM), instruction technique (IT), etc.] sont répertoriées dans le recueil AGeM.
+Les amendements, les AE aux données de configuration applicables ainsi que les EEM sont listés dans un
+fichier spécifique.
+ 5.4. Référentiel des données techniques de mise en oeuvre opérationnelle applicables.
+Les consignes d’exploitation ayant un impact sur le MCO aéronautique, les dérogations d'exploitation, les
+LME et les LTTE sont transmises par les autorités d’emploi et sont disponibles à partir du site intradef de la
+SIMMAD (onglet technique).
+Néanmoins, les autorités d’emploi peuvent décider d'assumer elles-mêmes cette diffusion. Dans ce cas, et afin
+de ne pas créer de doublons inutiles, elles font part de cette décision de manière formelle à la SIMMAD qui le
+mentionne en conséquence sur son site intradef. Un lien vers les sites des autorités d’emploi peut être créé.
+ 5.5. Référentiel des documents de certification individuelle des aéronefs.
+Seuls les CdN et CEN des aéronefs en mode OGMN centralisé (absence de partie M2 étatique, assurée ici par
+le titulaire industriel) ou externalisé sont en ligne sur le site intradef de la SIMMAD. Pour les autres aéronefs,
+ces documents sont disponibles auprès des autorités d’emploi.
+
+Conformément aux termes de l’article premier. de l’arrêté cité en cinquième référence, le registre
+d’immatriculation des aéronefs exploités par les autorités d’emploi est tenu à jour par la DSAÉ. Ce registre
+n’est pas disponible en ligne sur le site intradef de la SIMMAD. Toute demande relative aux immatriculations
+des aéronefs est à formuler directement auprès de la DSAÉ.
+Les AdV émises par l’autorité d’emploi peuvent faire l’objet d’un traitement par la SIMMAD et donner lieu à
+l’émission d’une DES. Cependant, elles ne font pas l’objet d’une mise en ligne sur le site intradef de la
+SIMMAD. Par conséquent, en cas de besoin, il convient de se rapprocher des états-majors concernés.
+ 5.6. Référentiel des données techniques d'entretien applicables.
+5.6.1. Programme d'entretien de l'aéronef.
+Les PEA approuvés par la DSAÉ et leurs révisions/amendements sont accessibles via le site intradef de la
+SIMMAD (onglet technique).
+La liste des publications techniques introduisant des échéances d'entretien est intégrée au PEA.
+5.6.2. Directives d'entretien supplémentaires.
+La diffusion des CP, DTP, DA ainsi que les AE aux données d'entretien applicables est assurée par la
+SIMMAD sur son site intradef (onglet technique).
+5.6.3. Documentation technique utilisateurs d’entretien.
+La DTU d’entretien est disponible sur les sites intradef des MOPD des armées qui ont reçu délégation de la
+SIMMAD : extraits des données des systèmes d’information documentaire (SID) : site de la LAAT pour
+l'armée de terre - aircraft maintenance and spares information system (AMASIS) défense pour la marine
+(DET CeLAé/CUERS/DOC) - RENODOC (23) pour l'armée de l'air (CDTAA). Un lien sur le site intradef
+SIMMAD (onglet technique) permet d’accéder à ces sites.
+À terme et pour les trois armées, ces données seront gérées et diffusées par le SID RENODOC.
+ 5.7. Liens utiles.
+Cet espace du RTA regroupe les liens permettant d’accéder aux sites intradef et aux documents utiles pour les
+activités de MCO du type d’aéronefs concerné, en particulier l’accès aux catalogues interarmées gérés par la
+SIMMAD : CAD 002 sur la réglementation du MCO aéronautique, CAD 015 sur les circulaires techniques.
+6. DISPOSITIONS DIVERSES.
+L'instruction n° 9/DEF/SIMMAD/SDTL/TECH du 15 mai 2012 relative à la cartographie des référentiels
+applicables du maintien en condition opérationnelle des matériels aéronautiques de la défense est abrogée.
+La présente instruction sera publiée au Bulletin officiel des armées.
+La SIMMAD assure le suivi et la mise à jour de cette instruction.
+Pour le ministre de la défense et par délégation :
+L'ingénieur général de l'armement,
+directeur adjoint industrie,
+Patrick ARMANDO.
+
+(1) Cf. la cartographie de ces référentiels en annexe.
+(2) MCO : regroupe les opérations de maintenance et de contrôle associés, programmées, correctives et curatives, nécessaires
+pour le maintien de l’état technique des matériels en service leur permettant d’assurer les missions opérationnelles. Ces
+opérations englobent les visites pré-vol réalisés par les équipages, ainsi que les conditions et procédures de réalisation des
+vols techniques après opérations de MCO.
+(3) Mise en œuvre opérationnelle regroupe les directives d’emploi et les opérations de mise en œuvre au sol et en vol des
+matériels en service. Cela comprend plus particulièrement les limitations et procédures à appliquer par les personnels
+navigants.
+(4) Responsabilité : fixe les règles et conditions - approuve de manière directe ou tacite (via un agrément ou privilège accordé
+à un organisme).
+(5) Sources : rédacteurs et émetteurs de documents, éventuellement approbateurs par délégation ou via un privilège
+d’agrément délivré par une autorité.
+(6) La DGA/DT entretient un référentiel des actes techniques aéronautiques portant uniquement sur les aspects navigabilité
+(listes de références), accessible selon le chemin suivant : http://totem.dga.defense.gouv.fr/dt/actes-techniques-aeronautiques.
+Le contenu des actes techniques est disponible sur le portail indigo de la DGA (téléchargement des documents au format
+pdf).
+(7) Approbation tacite par l’autorité technique : approbation par mise en œuvre d’un agrément 21 par un industriel sous
+couvert de ses privilèges d’agrément qui lui ont été attribués par l’autorité technique.
+(8) n.i. BO.
+(9) Types définis dans le fichier excel DGA « liste_TOTEM », listant les actes techniques en vigueur et qui est en ligne sur le
+site intradef, totem de la DGA autorité technique.
+(10) En dépit des recommandations de la norme ATA 100, les directives techniques constructeur (DTC) ont, en pratique, des
+dénominations variées en fonction du constructeur. D'une manière générale, elles sont connues sous le nom de bulletin de
+service ou lettre de service, mais on trouve également des services instructions, des services bulletins, des commercial engine
+bulletins, des commercial service letters, des commercial operators information letters, etc.
+(11) Ce référentiel est élaboré à partir des procès-verbaux (PV) de CGC. Il synthétise l'ensemble des décisions de
+modifications adoptées en CGC depuis le stade de réalisation du produit et représente pour chaque matériel la cible à
+atteindre. Chaque AGC est responsable de l'entretien de son référentiel, soit : la DGA pour les matériels de classe de
+définition évolutive ; soit la SIMMAD pour les matériels de classe de définition stabilisée. Dans la pratique, afin de mettre à
+la disposition de l'ensemble des acteurs un outil unique de gestion, la SIMMAD et la DGA élaborent à partir des
+procès-verbaux de CGC une image numérique du référentiel de configuration applicable dans une application informatique
+dédiée commune (AGeM).
+(12) Cf. arrêté cité en sixième référence, fixant les règles du maintien de la navigabilité des aéronefs militaires et des aéronefs
+appartenant à l'État et utilisés par les services de douanes, de sécurité publique et de sécurité civile, et en particulier l'article
+20. (données d'entretien applicables), troisième alinéa : « Les consignes d’exploitation des aéronefs, émises par l’autorité
+
+d’emploi, qui donnent lieu à des opérations de maintenance réalisées conformément aux données d’entretien applicables
+mentionnées aux 1., 2., 4. et 5. ».
+(13) La définition de type se compose des plans et spécifications, et d'une liste de ces plans et spécifications, nécessaires à la
+définition de la configuration et des caractéristiques de conception du produit ; des informations sur les matériaux et procédés
+et sur les méthodes de fabrication et d'assemblage du produit, nécessaires pour assurer sa conformité au type certifié ; des «
+limitations de navigabilité » fournies par le DCT pour assurer le maintien de la navigabilité (MN) ainsi que de toutes autres
+données nécessaires permettant, par comparaison, de déterminer la navigabilité de produits ultérieurs du même type.
+(14) Les autorisations de vol délivrées par l’autorité technique sont couvertes par le point 3.1.3. Elles couvrent les phases de
+développement des programmes, d’attente de certificat de navigabilité initial, d’essais et ne concernent pas les phases
+d’utilisation opérationnelle.
+(15) Cf. guide DSAÉ cité en vingtième référence.
+(16) Les AE aux données d'entretien applicables sont délivrées dans le cadre du processus de traitement des non-conformités
+sur les matériels aéronautiques du périmètre de compétence de la SIMMAD qui est décrit par l'instruction citée en
+quatorzième référence.
+(17) En règle générale, l’approbation d’un PEA incombe à la DSAÉ. Cette forme d’approbation est dite « directe ». Toutefois
+un privilège d’approbation peut être accordé à un OGMN agréé FRA-M sous-partie G à la condition d’avoir prévu de mettre
+en place une procédure particulière qui le permet, procédure décrite dans son manuel des spécifications de l’organisme de
+gestion du maintien de la navigabilité (MGN). Cette forme d’approbation est dite « indirecte ». Il convient de rappeler que
+l’approbation directe concerne l’approbation initiale du PEA, que tout amendement ou révision concerne la modification des
+concepts de maintenance employés ou des évolutions des exigences réglementaires.
+(18) Dans ce cadre, en l'absence de LME ou de LTTE et jusqu'au 31 décembre 2016, le CdN peut être établi pour un aéronef
+présenté avec des réserves de vol émises sous la responsabilité de l'autorité d'emploi.
+(19) Incluant les DCT, DCTS, DCSE pour ce qui concerne les IMN.
+(20) Dans le respect des prérogatives accordées par la DGA, la DSAÉ ou les autorités d'emploi.
+(21) À partir de l'onglet technique sur site intradef de la SIMMAD.
+(22) Accès via l'application « AGeM ».
+(23) Dans l'attente d'une harmonisation des procédures de gestion de la documentation pour les trois armées dans
+RENODOC.
+
+ANNEXE.
+CARTOGRAPHIE DES DONNÉES DU RÉFÉRENTIEL TECHNIQUE APPLICABLE.
