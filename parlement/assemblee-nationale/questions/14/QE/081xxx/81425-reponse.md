@@ -1,0 +1,9 @@
+# Réponse à la question n° 81425
+
+- Question : [81425](81425.md) — Question n° 81425 — Cour des comptes; rapport
+
+## Réponse
+
+*JO du 2015-11-10*
+
+A l'heure actuelle, de nombreux documents sont transmis à la Représentation nationale concernant les prévisions de recettes fiscales. Les annexes au projet de loi de finances (PLF) sur les recettes sont nombreuses et riches (voies et moyens tome I, rapport économique, social et financier). Le voies et moyens analyse notamment la prévision effectuée ligne par ligne d'impôt. Suite aux recommandations de la Cour des comptes, des encadrés spécifiques ont été ajoutés à l'occasion du dépôt du PLF 2015, détaillant la méthode de prévision pour les principaux impôts (impôt sur le revenu, impôt sur les sociétés, taxe sur la valeur ajoutée et taxe intérieure de consommation sur les produits énergétiques). Le rapport économique, social et financier explicite également les prévisions de recettes et leurs sous-jacents macroéconomiques. Des analyses supplémentaires sont par ailleurs fournies au Parlement lors de réponses aux questionnaires parlementaires, à l'occasion de chaque loi de finances initiale ou rectificative. La France se distingue à cet égard au plan international, étant régulièrement classée par l'Open Budget Survey parmi les pays les plus transparents en matière d'information budgétaire. La forme sous laquelle les explications sont fournies actuellement (notamment ligne par ligne d'impôt dans le voies et moyens tome I, ou dans des réponses à des questionnaires spécifiques) permet tout à la fois une approche économique globale sous forme synthétique et une analyse au cas par cas, en fonction des spécificités de chaque impôt à un moment donné. Ce format permet ainsi de conduire une analyse flexible et adaptée en fonction de l'évolution des lois fiscales. Celui-ci apparaît plus pertinent qu'un recueil unique qui demanderait de décrire des méthodes figées dans un contexte pourtant mouvant.
