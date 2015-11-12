@@ -2,39 +2,37 @@
 
 LISTE DES FAMILLES DU DOMAINE DE LA BIOLOGIE MÉDICALE
 
-Sous-domaine : biochimie.
-
-Familles :
+Famille biochimie-génétique :
 
 Biochimie générale et spécialisée ;
 
 Pharmacologie-toxicologie ;
 
-Radiotoxicologie.
+Radiotoxicologie ;
 
-Sous-domaine : hématologie.
+Génétique constitutionnelle ;
 
-Familles :
+Génétique somatique.
+
+Famille immunologie-hématologie-biologie de la reproduction :
 
 Hématocytologie ;
 
 Hémostase ;
 
-Immunohématologie.
-
-Sous-domaine : immunologie.
-
-Familles :
+Immunohématologie ;
 
 Allergie ;
 
 Auto-immunité ;
 
-Immunologie cellulaire spécialisée et histocompatibilité (groupage HLA).
+Immunologie cellulaire spécialisée et histocompatibilité (groupage HLA) ;
 
-Sous-domaine : microbiologie.
+Spermiologie diagnostique ;
 
-Familles :
+Activités biologiques d'assistance médicale à la procréation.
+
+Famille microbiologie :
 
 Agents transmissibles non conventionnels ;
 
@@ -45,13 +43,3 @@ Parasitologie-mycologie ;
 Sérologie infectieuse ;
 
 Virologie.
-
-Sous-domaine : génétique.
-
-Familles :
-
-Génétique constitutionnelle ;
-
-Génétique somatique.
-
-Sous-domaine : activités biologiques d'assistance médicale à la procréation.
