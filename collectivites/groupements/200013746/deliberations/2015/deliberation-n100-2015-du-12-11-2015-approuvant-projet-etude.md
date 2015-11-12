@@ -1,0 +1,10 @@
+# Ville de Pirae : délibération — Délibération n°100-2015 du 12-11-2015 - Approuvant projet étude couverture plateau sportif de Vaipahu et son plan financement
+
+- Collectivité : Ville de Pirae
+- SIREN : 200013746
+- Date : 2015-11-12
+- Objet : Délibération n°100-2015 du 12-11-2015 - Approuvant projet étude couverture plateau sportif de Vaipahu et son plan financement
+- Pages : 3
+- Acte publié : https://static.data.gouv.fr/resources/deliberations-du-conseil-municipal-annee-2015/20161220-193624/Deliberation_n100-2015_du_12-11-2015_-_Approuvant_projet_etude_couverture_plateau_sportif_de_Vaipahu_et_son_plan_financement.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/580f1be5c751df1ec2c562c5
+- Texte : document numérisé sans couche texte (non reproduit ; voir l'acte publié)
