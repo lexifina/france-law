@@ -1,0 +1,9 @@
+# Réponse à la question SEQ150214897
+
+- Question : [SEQ150214897](seq150214897.md) — Portée de la décision n° 2014-405 QPC du 20 juin 2014 Conseil constitutionnel
+
+## Réponse
+
+*Décentralisation et fonction publique, JO du 2015-11-12, page 2652*
+
+Par décision n° 2014-405 QPC du 20 juin 2014, le Conseil constitutionnel a déclaré contraires à la Constitution les dispositions du deuxième alinéa du I de l'article L. 5211-6-1 du code général des collectivités territoriales (CGCT), relatives aux accords locaux passés entre les communes membres d'une communauté de communes ou d'une communauté d'agglomération pour la composition du conseil communautaire, dans leur rédaction issue de l'article 9 modifié de la loi n° 2010-1563 du 16 décembre 2010, au motif qu'elles méconnaissaient le principe d'égalité devant le suffrage. La loi n° 2015-264 du 9 mars 2015 autorisant l'accord local de répartition des sièges de conseiller communautaire réintroduit la possibilité d'un accord local entre les conseils municipaux des communes membres en atténuant les effets de seuils afin de respecter le principe constitutionnel d'égalité devant le suffrage. L'article 4 de cette loi ne prévoit la remise en question des accords locaux existants qu'en cas de renouvellement intégral ou partiel des conseils municipaux des communes membres de l'EPCI à fiscalité propre. Dans tous les autres cas de figure, les accords locaux ne seront donc pas remis en cause avant le prochain renouvellement général des conseils municipaux en 2020. Cette procédure est la traduction directe de la décision du Conseil constitutionnel n° 2014-405 QPC du 20 juin 2014 qui ne vise pas, par ailleurs, le cas du retrait d'une commune membre d'une communauté de communes ou d'une communauté d'agglomération. Le 2° de l'article L. 5211-6-2 du CGCT prévoit en effet qu'il n'est pas procédé à une nouvelle répartition des sièges en une telle occasion.
