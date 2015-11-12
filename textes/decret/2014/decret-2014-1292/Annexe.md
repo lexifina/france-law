@@ -52,6 +52,18 @@ Art. 34 du décret n° 93-1362 du 30 décembre 1993
 
 |
 
+Code général des collectivités territoriales
+
+|
+
+Légalisation de signature |
+
+Article L. 2122-30
+
+|
+
+|
+
 Code électoral
 
 |
