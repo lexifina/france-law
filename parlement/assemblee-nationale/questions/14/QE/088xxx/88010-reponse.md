@@ -1,0 +1,9 @@
+# Réponse à la question n° 88010
+
+- Question : [88010](88010.md) — Question n° 88010 — réforme; droits à paiement de base; mise en oeuvre
+
+## Réponse
+
+*JO du 2015-11-17*
+
+Lors de la programmation précédente, les tournières pouvaient être comptabilisées dans les surfaces bénéficiant d'aides directes au titre d'arrêtés préfectoraux relatifs aux bonnes conditions agricoles et environnementales. Cependant, lors d'un audit, la Commission européenne a remis en cause ces réglementations locales non conformes au droit communautaire. Il s'en est suivi des refus d'apurements des comptes au détriment de la France. En effet, les aides surfaces de la PAC doivent être, selon la réglementation européenne, réservées aux surfaces agricoles, c'est-à-dire toute surface comportant un couvert de production agricole (y compris fourrage et jachère). Les autres types de couvert (sols nus, surfaces naturelles, surfaces artificialisées, bois...) ne sont pas admissibles pour le paiement de ces aides. Ces nouvelles règles d'admissibilité aux aides agricoles de la programmation 2015-2020 permettent donc de prendre en compte les tournières dès lors qu'elles présentent un couvert, notamment herbacé. Si en revanche, ces dernières ne présentent pas de couvert et sont donc des « sols nus » au sens de la réglementation, alors les surfaces correspondantes ne sont pas admissibles au titre des aides surfaces de la PAC. Néanmoins, ces nouvelles dispositions relatives à l'admissibilité n'auront qu'un impact financier très limité pour les agriculteurs. En effet, les montants perçus en 2014 serviront de référence historique à la création des droits à paiement de base et seront répartis sur l'ensemble des surfaces admissibles en 2015. La valeur du portefeuille des agriculteurs ne sera ainsi pas modifiée en raison d'une éventuelle baisse de surface admissible.
