@@ -1,0 +1,9 @@
+# Réponse à la question n° 81863
+
+- Question : [81863](81863.md) — Question n° 81863 — centrales nucléaires; sécurité
+
+## Réponse
+
+*JO du 2015-11-17*
+
+Le Gouvernement est très attaché à la sûreté des installations nucléaires et à la protection des populations et aux agents de la filière. Effectivement, la sûreté ne peut pas être une variable d'ajustement en cas de difficultés économiques. L'Autorité de sûreté nucléaire (ASN), autorité administrative indépendante, est chargée, au nom de l'État, du contrôle de la sûreté nucléaire et de la radioprotection pour protéger les travailleurs, les patients, le public et l'environnement des risques liés aux activités nucléaires. Au titre de ce contrôle, l'ASN a auditionné le 25 juin 2015, Philippe Knoche, directeur général du groupe AREVA. L'ASN a demandé à AREVA de présenter l'impact de sa nouvelle stratégie sur le management de la sûreté au sein du groupe. L'ASN a souligné qu'en dépit de la restructuration en cours du groupe, toutes les démarches d'amélioration de la sûreté engagées devaient impérativement se poursuivrent. L'ASN a également rappelé que les exploitants nucléaires devaient disposer effectivement des capacités techniques nécessaires à l'exercice de leur responsabilité en termes de sûreté et de radioprotection. En plus des exigences générales rappelées par l'ASN et concernant spécifiquement le site de la Hague, l'ASN a rappelé une nouvelle fois au directeur général d'AREVA l'importance des enjeux de sûreté liés à la reprise et au conditionnement des déchets anciens de La Hague dans les délais prescrits fin 2014. Le Gouvernement a pleine confiance dans l'ASN pour garantir la sûreté nucléaire dans le cadre des différents arbitrages à venir concernant le groupe AREVA et il s'assurera de la priorité donnée à la sûreté nucléaire et à la radioprotection.
