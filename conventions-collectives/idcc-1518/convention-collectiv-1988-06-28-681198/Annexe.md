@@ -1,0 +1,47 @@
+# Article Annexe
+
+Annexe - Garanties collectives complémentaire santé
+
+Régime frais de santé
+
+(Tableau non reproduit, consultable en ligne sur le site www. journal-officiel. gouv. fr, rubrique BO Convention collective.)
+
+http://www.journal-officiel.gouv.fr/publications/bocc/pdf/2015/0047/boc_20150047_0000_0001.pdf
+
+Grilles optiques
+
+(Tableau non reproduit, consultable en ligne sur le site www. journal-officiel. gouv. fr, rubrique BO Convention collective.)
+
+http://www.journal-officiel.gouv.fr/publications/bocc/pdf/2015/0047/boc_20150047_0000_0001.pdf
+
+Le remboursement assureur s'entend par verre, les verres + monture sont limités à une paire tous les 2 ans pour les adultes, sauf changement de correction médicalement constaté.
+
+(Tableau non reproduit, consultable en ligne sur le site www. journal-officiel. gouv. fr, rubrique BO Convention collective.)
+
+http://www.journal-officiel.gouv.fr/publications/bocc/pdf/2015/0047/boc_20150047_0000_0001.pdf
+
+Le remboursement assureur s'entend par verre, les verres + monture sont limités à une paire tous les 2 ans pour les adultes, sauf changement de correction médicalement constaté.
+
+(Tableau non reproduit, consultable en ligne sur le site www. journal-officiel. gouv. fr, rubrique BO Convention collective.)
+
+http://www.journal-officiel.gouv.fr/publications/bocc/pdf/2015/0047/boc_20150047_0000_0001.pdf
+
+Le remboursement assureur s'entend par verre, les verres + monture sont limités à une paire tous les 2 ans pour les adultes, sauf changement de correction médicalement constaté.
+
+(Tableau non reproduit, consultable en ligne sur le site www. journal-officiel. gouv. fr, rubrique BO Convention collective.)
+
+http://www.journal-officiel.gouv.fr/publications/bocc/pdf/2015/0047/boc_20150047_0000_0001.pdf
+
+Le remboursement assureur s'entend par verre, les verres + monture sont limités à une paire tous les 2 ans pour les adultes, sauf changement de correction médicalement constaté.
+
+(Tableau non reproduit, consultable en ligne sur le site www. journal-officiel. gouv. fr, rubrique BO Convention collective.)
+
+http://www.journal-officiel.gouv.fr/publications/bocc/pdf/2015/0047/boc_20150047_0000_0001.pdf
+
+Le remboursement assureur s'entend par verre, les verres + monture sont limités à une paire tous les 2 ans pour les adultes, sauf changement de correction médicalement constaté.
+
+(Tableau non reproduit, consultable en ligne sur le site www. journal-officiel. gouv. fr, rubrique BO Convention collective.)
+
+http://www.journal-officiel.gouv.fr/publications/bocc/pdf/2015/0047/boc_20150047_0000_0001.pdf
+
+Le remboursement assureur s'entend par verre, les verres + monture sont limités à une paire tous les 2 ans pour les adultes, sauf changement de correction médicalement constaté
