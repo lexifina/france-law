@@ -1,0 +1,9 @@
+# Réponse à la question n° 84699
+
+- Question : [84699](84699.md) — Question n° 84699 — sucre; politiques communautaires
+
+## Réponse
+
+*JO du 2015-11-17*
+
+La fin des quotas sucriers et la libéralisation du marché du sucre dans l'Union européenne au 1er octobre 2017 vont changer l'environnement économique et réglementaire de l'ensemble de la filière et l'exposeront davantage à la volatilité des cours mondiaux. C'est pourquoi l'interprofession est un cadre essentiel pour permettre à la filière d'aborder avec ambition les enjeux du secteur pour les années à venir. Il est important que les relations entre les planteurs et les industriels, et plus particulièrement les discussions concernant la préparation d'un accord interprofessionnel pour l'après-quota, se déroulent dans un esprit serein et constructif. Le Gouvernement est attaché à la conclusion d'un accord interprofessionnel au niveau national pour l'après quotas, qui devra être conforme avec les dispositions prévues par la réglementation européenne pour le secteur du sucre. Le rapport intitulé « Quelle ambition pour la filière betterave-sucre française dans la perspective de la fin des quotas européens », remis au ministre de l'agriculture, de l'agroalimentaire et de la forêt, porte-parole du Gouvernement, le 28 septembre 2015, formule à cet égard des préconisations à l'attention des professionnels pour que la filière puisse tirer parti de la fin des quotas sucriers. Par ailleurs, le maintien d'outils adaptés de connaissance et d'observation du marché communautaire est nécessaire. Le Gouvernement est attentif à ce qu'un suivi des prix ainsi que la réalisation régulière de bilans de marché au niveau européen soient conservés après 2017, en les adaptant si nécessaire, de façon à suivre précisément les évolutions de marché et à anticiper les éventuelles crises. Ce point a d'ores et déjà fait l'objet d'une intervention des autorités françaises auprès des instances européennes.
