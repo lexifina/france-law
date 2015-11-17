@@ -1,0 +1,9 @@
+# Réponse à la question n° 79963
+
+- Question : [79963](79963.md) — Question n° 79963 — transport; organisation; perspectives
+
+## Réponse
+
+*JO du 2015-11-17*
+
+Si aucune disposition réglementaire n'impose un dispositif d'accompagnement pour les transports scolaires, les autorités organisatrices de transports sont fortement encouragées à prendre des mesures d'accompagnement sur leur territoire. Cet accompagnement est en particulier généralisé en ce qui concerne le transport des élèves des écoles maternelles. Par ailleurs, des journées de sensibilisation à la sécurité des transports sont régulièrement organisées à l'initiative de nombreux établissements scolaires, en accord avec les entreprises de transport et l'Association nationale pour les transports éducatifs de l'enseignement public (ANATEEP). Ces exercices ont pour but de sensibiliser les élèves et les enseignants sur les dangers potentiels induits par le transport en autocar, les comportements à adopter, ainsi que les consignes à respecter en cas d'évacuation. S'agissant de la surveillance dans le cadre des accueils de loisirs de mineurs, des normes d'encadrement intégrant le transport sont prévues selon l'âge des élèves transportés. De telles normes sont également prévues pour les transports scolaires éducatifs des écoles maternelles et élémentaires, en fonction de l'âge des enfants transportés et du type de sortie scolaire. Ces normes sont laissées à l'appréciation du chef d'établissement pour l'enseignement du second degré. Au-delà de ces critères, une mesure générale d'obligation d'un dispositif d'encadrement élargi ne pourrait être prise sans qu'il y ait en amont une réflexion menée dans un cadre interministériel ; c'est pourquoi un groupe de travail comprenant des représentants des ministères chargés de l'intérieur, des transports et de l'éducation nationale est à l'origine d'une circulaire de 1995 et d'un guide de 2011 en cours de refonte.
