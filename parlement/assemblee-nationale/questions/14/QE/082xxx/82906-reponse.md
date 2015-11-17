@@ -1,0 +1,9 @@
+# Réponse à la question n° 82906
+
+- Question : [82906](82906.md) — Question n° 82906 — type de structure; TVA applicable; perspectives
+
+## Réponse
+
+*JO du 2015-11-17*
+
+Les dispositions du i) du 1 de l'article 132 de la directive n° 2006/112/CE du 28 novembre 2006 prévoient l'exonération des opérations de formation ou de recyclage professionnel ainsi que les prestations de services et les livraisons de biens qui leur sont étroitement liées, effectuées par des organismes de droit public de même objet ou par d'autres organismes reconnus comme ayant des fins comparables par l'Etat membre concerné. Elles sont transposées en droit interne au a du 4° du 4 de l'article 261 du code général des impôts (CGI) qui exonère les opérations de formation professionnelle continue au sens du code du travail ainsi que les opérations qui leur sont étroitement liées lorsqu'elles sont assurées, soit par des personnes morales de droit public, soit par des personnes de droit privé titulaires d'une attestation délivrée dans les conditions des articles 202 A à 202 D de l'annexe II au CGI reconnaissant qu'elles remplissent les conditions fixées pour exercer leur activité dans le cadre de la formation professionnelle continue. L'attestation constitue le mécanisme par lequel la France s'assure que les organismes de droit privé qui en sont titulaires poursuivent des fins comparables aux organismes de droit public au sens de cette disposition. En d'autres termes, les prestations proposées par les prestataires de formation et les enseignants qui disposent de l'attestation sont exonérées de TVA. A défaut de posséder cette attestation, ces opérations sont soumises à la TVA. Ces modalités d'application répondent aux critères fixés par le code général des impôts. Pour l'ensemble de ces raisons, il n'est pas envisagé de revenir sur ces dispositions.
