@@ -1,0 +1,9 @@
+# Réponse à la question n° 85632
+
+- Question : [85632](85632.md) — Question n° 85632 — transport de marchandises à la voile; perspectives
+
+## Réponse
+
+*JO du 2015-11-17*
+
+Le décret n° 84-810 du 30 août 1984 modifié relatif à la sauvegarde de la vie humaine en mer et le règlement annexé à l'arrêté du 23 novembre 1987 permettent la délivrance de titres de sécurité pour des navires à voile. Cependant, ces conditions sont encadrées afin d'obtenir un niveau de sécurité équivalent à une propulsion mécanique. Concernant le cas particulier des navires de construction traditionnelle de type « vieux gréements », ceux-ci sont traités spécifiquement par la division 244 du règlement annexé à l'arrêté du 23 novembre 1987. Cette division interdit actuellement le transport de cargaison. La réglementation en vigueur permet de réaliser du transport de marchandises sur des navires de charge à voile (division 222 du règlement annexé à l'arrêté du 23 novembre 1987). Cependant, elle ne l'autorise pas pour des navires traditionnels. Au vu d'une nouvelle demande de la part d'un exploitant de navires traditionnels, la direction des affaires maritimes va étudier la possibilité de procéder à des modifications de la réglementation applicable aux navires de construction traditionnelle. Il n'est, en effet, pas réaliste d'envisager que ces navires puissent répondre aux standards applicables aux navires de charge de construction récente. D'une part, ces évolutions se feront en application du droit international (Convention SOLAS relative à la sauvegarde de la vie humaine en mer), qui prévoit qu'un navire de charge ne puisse transporter plus de 12 passagers. D'autre part, des exigences particulières relatives à la stabilité, l'assujettissement de la cargaison, la détection incendie et la nature de la cargaison, seront définies dans ce nouveau cadre réglementaire.
