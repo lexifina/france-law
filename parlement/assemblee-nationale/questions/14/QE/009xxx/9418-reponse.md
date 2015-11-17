@@ -1,0 +1,9 @@
+# Réponse à la question n° 9418
+
+- Question : [9418](9418.md) — Question n° 9418 — perspectives
+
+## Réponse
+
+*JO du 2015-11-17*
+
+La réforme des collectivités territoriales a été engagée par la loi n° 2014-58 du 27 janvier 2014 de modernisation de l'action publique territoriale et d'affirmation des métropoles (MAPTAM). Elle s'est poursuivie avec l'adoption au Parlement de la loi n° 2015-29 du 16 janvier 2015 relative à la délimitation des régions, aux élections régionales et départementales et modifiant le calendrier électoral, ainsi que la loi n° 2015-991 du 7 août 2015 portant nouvelle organisation territoriale de la République (NOTRe). Par la création des métropoles et l'institution des conférences territoriales de l'action publique, la loi MAPTAM a ouvert la voie à des politiques publiques adaptées, dans chaque région, aux spécificités locales. La loi NOTRe met en oeuvre une réforme structurelle renforçant l'efficacité de l'action des collectivités territoriales. Les régions disposent ainsi de tous les leviers nécessaires pour assurer, aux côtés de l'Etat, la responsabilité du développement économique, de l'innovation et de l'internationalisation des entreprises ainsi que d'un pouvoir renforcé en matière d'aménagement des territoires à travers un schéma régional d'aménagement et de développement durable du territoire (SRADDT) prescriptif. Parallèlement, les établissements publics de coopération intercommunale à fiscalité propre (EPCI) verront au 1er janvier 2017 leurs compétences renforcées et leur taille accrue, ce qui contribuera au renforcement des solidarités territoriales. Les départements se recentreront dès 2017, dans le cadre de la mise en oeuvre des orientations définies par le discours de politique générale du Premier ministre en date du 16 septembre, sur leurs missions sociales et de solidarité.
