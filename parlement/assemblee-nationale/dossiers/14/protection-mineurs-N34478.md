@@ -1,0 +1,51 @@
+# Justice : protection des mineurs
+
+- Procédure : Projet de loi ordinaire
+- Législature : 14
+- Identifiant : DLR5L14N34478
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/protection_mineurs
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl15-242.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2015-11-25 : 1er dépôt d'une initiative. (PRJLANR5L14B3261)
+  - 2015-11-25 : Etude d'impact (ETDIANR5L14B3261)
+  - 2015-11-25 : Avis du Conseil d'Etat (AVCEANR5L14B3261)
+  - 2015-11-25 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2015-11-25 : Renvoi en commission au fond
+      - 2015-11-18 : Nomination de rapporteur
+      - 2015-12-02 : Réunion de commission
+      - 2015-12-08 : Réunion de commission
+      - 2015-12-02 : Dépôt de rapport (RAPPANR5L14B3293, PRJLANR5L14BTC3293)
+  - Discussion en séance publique
+    - 2015-12-08 : Discussion en séance publique
+    - 2015-12-08 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2015-12-09 : Dépôt d'une initiative en navette (PRJLSNR5S259B0242)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2015-12-09 : Renvoi en commission au fond
+      - 2015-12-02 : Nomination de rapporteur
+      - 2016-01-13 : Dépôt de rapport (RAPPSNR5S259B0293)
+  - Discussion en séance publique
+    - 2016-01-26 : Discussion en séance publique
+    - 2016-01-26 : Décision
+- Commission Mixte Paritaire
+  - 2016-01-27 : Dépôt d'un projet de loi (PRJLANR5L14B3444)
+  - 2016-01-27 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2016-03-22 : Nomination de rapporteur
+    - 2016-03-22 : Dépôt du rapport d'une CMP (RAPPANR5L14B3586)
+    - 2016-03-22 : Dépôt du rapport d'une CMP (RAPPSNR5S259B0487)
+  - Discussion en séance publique
+    - 2016-03-31 : Discussion en séance publique
+    - 2016-03-31 : Décision
+  - Discussion en séance publique
+    - 2016-04-06 : Discussion en séance publique
+    - 2016-04-06 : Décision
+  - 2016-03-23 : Décision de la CMP
+- Promulgation de la loi
+  - 2016-04-14 : Promulgation d'une loi
