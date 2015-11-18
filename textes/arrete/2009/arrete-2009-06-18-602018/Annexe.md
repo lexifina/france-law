@@ -24,7 +24,7 @@ Vu le code de l'éducation ;
 
 Vu l'arrêté du 4 mars 1997 modifié relatif à la deuxième partie du deuxième cycle des études médicales ;
 
-Vu l'arrêté du 18 juin 2009 pris en application de l'article 8 de l'arrêté du 4 mars 1997 modifié relatif à la deuxième partie du deuxième cycle des études médicales,
+Vu l'arrêté du 18 juin 2009 modifié pris en application de l'article 8 de l'arrêté du 4 mars 1997 modifié relatif à la deuxième partie du deuxième cycle des études médicales,
 
 Il est convenu ce qui suit :
 
