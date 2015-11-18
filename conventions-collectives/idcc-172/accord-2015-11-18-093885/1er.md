@@ -1,0 +1,23 @@
+# Article 1er
+
+Le présent accord s'applique aux entreprises et/ou aux établissements utilisant à titre principal le pin maritime en forêt de Gascogne situés principalement dans les départements des Pyrénées-Atlantiques, Charente, Charente-Maritime, Landes, Dordogne, Gironde, Lot-et-Garonne et qui ne sont pas liés par une convention nationale particulière à une industrie non visée au paragraphe suivant.
+
+Les entreprises et/ou établissements visés par le présent accord sont ceux qui exercent à titre principal l'une des activités mentionnées aux numéros suivants de la nomenclature d'activités française (NAF rév. 2, 2008).
+
+16.10A. Sciage et rabotage du bois hors imprégnation
+
+A l'exclusion des entreprises agricoles exerçant à titre principal l'une des activités correspondant à la nomenclature. Cette classe comprend notamment la fabrication de parquets et lambris.
+
+16.23Z. Fabrication de charpentes et de menuiserie
+
+Est visée par la présente convention uniquement la fabrication de bardeaux, baguettes et moulures.
+
+16.24Z. Fabrication d'emballages en bois
+
+Y compris le montage de caisses en bois.
+
+16.29Z. Fabrication d'objets divers en bois
+
+Cette classe comprend uniquement la fabrication d'objets divers en bois tels que manches et montures pour outils, cintres et autres formes en bois, portemanteaux et ustensiles ménagers en bois, coffrets, bobines et articles en bois tourné, articles d'ornement ou de marqueterie.
+
+Les entreprises actuellement couvertes par un autre régime complémentaire « frais de santé » qui comporterait des dispositions moins favorables devront adapter leurs garanties pour répondre aux obligations conventionnelles (garanties minimum du régime et financement minimum de l'employeur). Les entreprises de la branche devront ainsi comparer, ligne par ligne, leur accord d'entreprise avec l'accord de branche.
