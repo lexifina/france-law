@@ -1,0 +1,9 @@
+# Réponse à la question SEQ150717371
+
+- Question : [SEQ150717371](seq150717371.md) — Critères d'éligibilité annoncés en janvier 2015 pour le plan d'action fruits et légumes
+
+## Réponse
+
+*Agriculture, agroalimentaire et forêt, JO du 2015-11-19, page 2691*
+
+Le fonds d'allégement des charges (FAC) est un dispositif destiné à soutenir la trésorerie des agriculteurs les plus endettés et les plus fragilisés par une crise économique. Ce dispositif est mis en œuvre selon des modalités qui visent à assurer l'efficacité de l'aide, impliquant un ciblage vers les exploitations les plus en difficulté, et une équité de traitement entre les agriculteurs. À ce titre, les critères d'éligibilité retenus dans le plan en faveur de la filière fruits et légumes mis en place dès le 8 octobre 2014 et clos depuis le 30 juin 2015, sont conformes à ceux appliqués habituellement dans la mise en œuvre des dispositifs FAC. La situation des producteurs de fruits et légumes avait cependant déjà été prise en compte de manière spécifique, à la demande des organisations professionnelles agricoles. Ainsi, le critère relatif à la baisse du chiffre d'affaires avait été assoupli, passant de 30 % à 20 %. Le caractère exceptionnel des difficultés climatiques rencontrées par les exploitations agricoles dans un grand nombre de régions au cours de l'année 2014, a rendu nécessaire la mobilisation de crédits supplémentaires d'action sanitaire et sociale de la MSA dans le cadre de l'enveloppe de prise en charge de cotisations sociales pour le second semestre 2014, passant ainsi de 15 à 23 millions d'euros. Afin de répondre aux crises subies notamment par le secteur des fruits et légumes, plus de 13 millions d'euros de crédits ont ainsi été réservés et utilisés afin d'accorder des prises en charge de cotisations sociales aux exploitants agricoles de ce secteur.
