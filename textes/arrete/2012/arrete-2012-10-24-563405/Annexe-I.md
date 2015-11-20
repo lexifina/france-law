@@ -8,7 +8,9 @@ France métropolitaine ― Mayotte ;
 
 France métropolitaine ― Nouvelle-Calédonie, via Osaka, Séoul ou Tokyo ;
 
-France métropolitaine ― Polynésie française.
+France métropolitaine ― Polynésie française ;
+
+France métropolitaine-Saint-Barthélemy.
 
 2. Liaisons entre la France métropolitaine et des pays de la politique européenne de voisinage faisant l'objet d'un accord aérien européen libéralisant les droits de 3e et 4e libertés
 
@@ -85,6 +87,8 @@ Paris-Córdoba ;
 Paris-Mendoza ;
 
 Paris-Rosario ;
+
+Paris-Ushuaïa.
 
 Arménie :
 
