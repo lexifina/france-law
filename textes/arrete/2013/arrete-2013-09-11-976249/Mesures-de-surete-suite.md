@@ -720,15 +720,17 @@ Article 1-3-5 I-T - Obligations des personnes autres que les passagers
 
 Les personnes autres que les passagers sont tenues de se soumettre, ainsi que les objets qu'elles transportent, au dispositif en vigueur d'inspection filtrage.
 
-Article 1-3-6 I-T - Dispositions spécifiques à l'inspection filtrage des personnes autres que les passagers et des objets qu'elles transportent
+Article 1-3-6 I-T - Dispositions spécifiques à l'inspection filtrage des personnes autres que les passagers et aux personnels navigants et des objets qu'ils transportent
 
-Les points 4.1.1.1., 4.1.2.1. et 4.1.2.8. de l'annexe du règlement (UE) n° 185/2010 susvisé s'appliquent aux personnes autres que les passagers et aux objets qu'elles transportent sauf :
+I.-Le point 4.1.1.1 de l'annexe du règlement (UE) n° 185/2010 susvisé s'applique aux personnes autres que les passagers et aux objets qu'elles transportent sauf :
 
-1. aux titulaires d'un titre de circulation aéroportuaire valable pour l'aérodrome ;
+1. Aux titulaires d'un titre de circulation aéroportuaire valable pour l'aérodrome ;
 
-2. aux personnels navigants en uniforme sur présentation d'un certificat de membre d'équipage d'un transporteur aérien communautaire tel que défini au point 5) de l'article 3 du règlement (CE) n° 300/2008 susvisé ;
+2. Aux personnels navigants en uniforme sur présentation d'un certificat de membre d'équipage d'un transporteur aérien communautaire tel que défini au point 5 de l'article 3 du règlement (CE) n° 300/2008 susvisé ;
 
-3. aux personnels navigants sans uniforme, en fonction ou en mise en place au sens du règlement (CE) n° 859/2008 de la Commission du 20 août 2008 sur présentation d'un justificatif de mission et d'un certificat de membre d'équipage d'un transporteur aérien communautaire tel que défini au point 5) de l'article 3 du règlement (CE) n° 300/2008 susvisé.
+3. Aux personnels navigants sans uniforme, en fonctions ou en mise en place au sens du règlement (CE) n° 859/2008 de la Commission du 20 août 2008 sur présentation d'un justificatif de mission et d'un certificat de membre d'équipage d'un transporteur aérien communautaire tel que défini au point 5 de l'article 3 du règlement (CE) n° 300/2008 susvisé.
+
+II.-Les points 4.1.2.1 et 4.1.2.8 de l'annexe du règlement (UE) n° 185/2010 susvisé s'appliquent aux personnes autres que les passagers et aux personnels navigants en fonction ou en mise en place au sens du règlement (CE) n° 859/2008 susvisé et aux objets qu'ils transportent.
 
 Article 1-3-7 I-T - Conditions de mise en place de l'inspection filtrage des personnes autres que les passagers et des objets qu'elles transportent
 
@@ -936,17 +938,19 @@ Section 3 : Procédure de vérification de concordance entre passagers et bagage
 
 Article 5-3-1 I-T - Vérification de concordance
 
-Lorsqu'un passager remet à l'entreprise de transport aérien un bagage de soute pour le vol sur lequel ce passager est enregistré, cette dernière :
+I.-Lorsqu'un passager remet à l'entreprise de transport aérien un bagage de soute pour le vol sur lequel ce passager est enregistré, cette dernière :
 
-1. vérifie la concordance, pour le vol considéré, entre les trois éléments suivants :
+1. Vérifie la concordance, pour le vol considéré, entre les trois éléments suivants :
 
-- un document attestant l'identité du passager ;
+-un des documents suivants pour attester l'identité du passager : la carte nationale d'identité, le passeport, le titre de séjour ou le permis de conduire ;
 
-- le titre de transport ;
+-le titre de transport ;
 
-- la carte d'embarquement valable.
+-la carte d'embarquement valable.
 
-2. s'assure que chaque bagage de soute du passager comporte la mention du nom du titulaire du titre de transport.
+2. S'assure que chaque bagage de soute du passager comporte la mention du nom du titulaire du titre de transport.
+
+II.-Lors de la présentation d'un passager à l'embarquement, l'entreprise de transport aérien procède à la vérification de concordance documentaire entre l'identité mentionnée sur la carte d'embarquement valable et un des documents suivants attestant l'identité du passager : la carte nationale d'identité, le passeport, le titre de séjour ou le permis de conduire. Les mineurs de moins de treize ans accompagnés d'un adulte sont dispensés de l'obligation de vérification de concordance.
 
 Section 4 : Articles prohibés
 
@@ -2718,21 +2722,21 @@ Article 12-0-1-3 T - Obligations des constructeurs d'équipements de sûreté ou
 
 Les constructeurs d'équipements ou leurs distributeurs :
 
-•1. fournissent des équipements de sûreté dotés d'un certificat de type ou d'un certificat individuel valides délivrés par le directeur général de l'aviation civile ;
+1. fournissent des équipements de sûreté dotés d'un certificat de type ou d'un certificat individuel valides délivrés par le directeur général de l'aviation civile ;
 
-•2. transmettent aux entités utilisant les équipements de sûreté le certificat individuel ou le certificat de type lorsque seul celui-ci est requis.
+2. transmettent aux entités utilisant les équipements de sûreté le certificat individuel ou le certificat de type lorsque seul celui-ci est requis.
 
 Article 12-0-1-4 - Obligations des entités utilisant des équipements de sûreté
 
 Les entités utilisant les équipements de sûreté :
 
-•1. utilisent des équipements de sûreté certifiés et disposent pour chacun d'eux d'un certificat individuel valide ou d'un certificat de type valide lorsque seul celui-ci est requis ;
+1. utilisent des équipements de sûreté certifiés et disposent pour chacun d'eux d'un certificat individuel valide ou d'un certificat de type valide lorsque seul celui-ci est requis ;
 
-•2. assurent la maintenance des équipements de sûreté selon les recommandations établies par les constructeurs d'équipements ou leurs distributeurs ;
+2. assurent la maintenance des équipements de sûreté selon les recommandations établies par les constructeurs d'équipements ou leurs distributeurs ;
 
-•3. procèdent à la vérification du bon fonctionnement des équipements à l'exception de la bibliothèque d'images fictives ou d'images de menaces, avant chaque mise en service et au minimum une fois par jour lorsqu'ils fonctionnent, ainsi qu'après toute opération de maintenance, selon les procédures approuvées par le directeur général de l'aviation civile et applicables à la catégorie d'équipement concernée. Lorsque cette vérification est insatisfaisante, les entités corrigent le fonctionnement préalablement à toute nouvelle utilisation de cet équipement.
+3. procèdent à la vérification du bon fonctionnement des équipements à l'exception de la bibliothèque d'images fictives ou d'images de menaces, avant chaque mise en service et au minimum une fois par jour lorsqu'ils fonctionnent, ainsi qu'après toute opération de maintenance, selon les procédures approuvées par le directeur général de l'aviation civile et applicables à la catégorie d'équipement concernée. Lorsque cette vérification est insatisfaisante, les entités corrigent le fonctionnement préalablement à toute nouvelle utilisation de cet équipement.
 
-•4. adressent au directeur général de l'aviation civile, pour toute installation ou réinstallation d'un équipement de sûreté doté d'un certificat individuel, un compte-rendu d'installation dudit équipement dans un délai de quinze jours maximum après leur installation. Ce compte-rendu mentionne le type de l'équipement, son numéro de série, sa localisation précise, l'ensemble des réglages effectués, des contrôles réalisés et leur résultat pour garantir son parfait fonctionnement.
+4. adressent au directeur général de l'aviation civile, pour toute installation ou réinstallation d'un équipement de sûreté doté d'un certificat individuel, un compte-rendu d'installation dudit équipement dans un délai de quinze jours maximum après leur installation. Ce compte-rendu mentionne le type de l'équipement, son numéro de série, sa localisation précise, l'ensemble des réglages effectués, des contrôles réalisés et leur résultat pour garantir son parfait fonctionnement.
 
 Article 12-0-1-5 T - Modalités communes aux certifications de type et individuelle des équipements de sûreté
 
@@ -2804,9 +2808,9 @@ Article 12-0-3-4 T - Suspension et abrogation d'un certificat individuel d'équi
 
 I. En cas de non-conformité avec de graves déficiences au sens de l'annexe II du règlement (CE) n° 300/2008 susvisé affectant un équipement disposant d'un certificat individuel, le directeur général de l'aviation civile peut :
 
-•- suspendre le certificat individuel. Sauf en cas d'urgence, l'entité utilisant l'équipement de sûreté concerné, son constructeur ou le cas échéant son distributeur, sont préalablement avisés de la mesure de suspension ou de retrait envisagée et disposent d'un délai d'un mois pour présenter leurs observations écrites ou orales. En cas d'urgence, la suspension immédiate de la certification individuelle peut être prononcée pour une durée maximale d'un mois, reconductible une fois au cas où les circonstances l'exigent ;
+- suspendre le certificat individuel. Sauf en cas d'urgence, l'entité utilisant l'équipement de sûreté concerné, son constructeur ou le cas échéant son distributeur, sont préalablement avisés de la mesure de suspension ou de retrait envisagée et disposent d'un délai d'un mois pour présenter leurs observations écrites ou orales. En cas d'urgence, la suspension immédiate de la certification individuelle peut être prononcée pour une durée maximale d'un mois, reconductible une fois au cas où les circonstances l'exigent ;
 
-•- imposer des mesures restrictives d'activité ou des mesures correctives ou de nature à compenser la non-conformité relevée. Sauf en cas d'urgence, l'entité utilisant l'équipement de sûreté concerné, son constructeur ou le cas échéant son distributeur sont préalablement avisés de la mesure envisagée et disposent d'un délai de dix jours ouvrés pour présenter leurs observations écrites ou orales.
+- imposer des mesures restrictives d'activité ou des mesures correctives ou de nature à compenser la non-conformité relevée. Sauf en cas d'urgence, l'entité utilisant l'équipement de sûreté concerné, son constructeur ou le cas échéant son distributeur sont préalablement avisés de la mesure envisagée et disposent d'un délai de dix jours ouvrés pour présenter leurs observations écrites ou orales.
 
 II. Lorsque l'entité utilisant l'équipement concerné ne peut durablement mettre en œuvre les mesures correctives de nature à lever toutes les non conformités, le certificat individuel est abrogé.
 
@@ -2986,9 +2990,9 @@ Article 12-9-1-5 T- Suspension et retrait d'un certificat individuel d'équipe c
 
 I. En cas de non-conformité relevée aux obligations auxquelles sont soumises les équipes cynotechniques disposant d'un certificat individuel, ou lorsque celles-ci peuvent constituer, par leurs méthodes de travail ou par leur comportement professionnel, un risque pour la sûreté, le directeur général de l'aviation civile peut :
 
-• suspendre le certificat individuel. Sauf en cas d'urgence, l'équipe cynotechnique concernée est préalablement avisée de la mesure de suspension ou de retrait envisagée et dispose d'un délai d'un mois pour présenter ses observations écrites ou orales. En cas d'urgence, la suspension immédiate de la certification individuelle peut être prononcée pour une durée maximale d'un mois, reconductible une fois au cas où les circonstances l'exigent ;
+- suspendre le certificat individuel. Sauf en cas d'urgence, l'équipe cynotechnique concernée est préalablement avisée de la mesure de suspension ou de retrait envisagée et dispose d'un délai d'un mois pour présenter ses observations écrites ou orales. En cas d'urgence, la suspension immédiate de la certification individuelle peut être prononcée pour une durée maximale d'un mois, reconductible une fois au cas où les circonstances l'exigent ;
 
-• imposer des mesures restrictives d'activité ou des mesures correctives ou de nature à compenser la non-conformité relevée. Sauf en cas d'urgence, l'équipe cynotechnique concernée est préalablement avisée de la mesure envisagée et dispose d'un délai de dix jours ouvrés pour présenter ses observations écrites ou orales.
+- imposer des mesures restrictives d'activité ou des mesures correctives ou de nature à compenser la non-conformité relevée. Sauf en cas d'urgence, l'équipe cynotechnique concernée est préalablement avisée de la mesure envisagée et dispose d'un délai de dix jours ouvrés pour présenter ses observations écrites ou orales.
 
 II. L'employeur de l'équipe cynotechnique concernée est tenu informé dans les meilleurs délais des mesures envisagées ou prises en application des deux alinéas précédents.
 
@@ -3014,17 +3018,17 @@ Toute modification non substantielle d'un cours déjà approuvé devra être not
 
 III. Le dossier de demande d'approbation d'un cours, ou d'une partie de cours, dispensé dans le cadre d'une formation initiale ou périodique, contient l'ensemble des éléments suivants :
 
-•- le contenu des cours, notamment les supports de cours, les cours distribués, les notes de l'instructeur, les exercices, les travaux pratiques, les tests de progressions et évaluations ;
+- le contenu des cours, notamment les supports de cours, les cours distribués, les notes de l'instructeur, les exercices, les travaux pratiques, les tests de progressions et évaluations ;
 
-•- la durée de la formation par objectif pédagogique ;
+- la durée de la formation par objectif pédagogique ;
 
-•- les méthodes pédagogiques retenues ;
+- les méthodes pédagogiques retenues ;
 
-•- les outils pédagogiques utilisés ;
+- les outils pédagogiques utilisés ;
 
-•- un exemplaire des documents remis aux stagiaires pendant la formation ou à l'issue de celle-ci ;
+- un exemplaire des documents remis aux stagiaires pendant la formation ou à l'issue de celle-ci ;
 
-•- les mesures permettant de s'assurer de l'identité de l'agent suivant la formation.
+- les mesures permettant de s'assurer de l'identité de l'agent suivant la formation.
 
 IV. Le dossier de demande d'approbation d'un cours contient également les éléments permettant de vérifier la qualification des instructeurs tels que définis à l'article 12-9-3-4 de la présente annexe.
 
@@ -3216,21 +3220,21 @@ Article 12-11-2 I-T : Obligations des entités exploitant des scanners de sûret
 
 L'entité utilisant un scanner de sûreté à ondes millimétriques :
 
-•1. procède à un contrôle régulier de la densité de puissance émise ;
+1. procède à un contrôle régulier de la densité de puissance émise ;
 
-•2. matérialise la zone d'exposition aux rayonnements du scanner de sûreté par un marquage au sol ;
+2. matérialise la zone d'exposition aux rayonnements du scanner de sûreté par un marquage au sol ;
 
-•3. éloigne le poste de l'opérateur de la zone d'exposition du scanner ;
+3. éloigne le poste de l'opérateur de la zone d'exposition du scanner ;
 
-•4. met en place la signalétique destinée aux personnes porteuses de dispositifs médicaux implantés ;
+4. met en place la signalétique destinée aux personnes porteuses de dispositifs médicaux implantés ;
 
-•5. s'assure que toute personne autre que la personne inspectée filtrée est hors de la zone d'exposition au moment du scan ;
+5. s'assure que toute personne autre que la personne inspectée filtrée est hors de la zone d'exposition au moment du scan ;
 
-•6. s'assure que l'opérateur est à son poste ;
+6. s'assure que l'opérateur est à son poste ;
 
-•7. s'assure que la file d'attente se forme à l'extérieur de la zone d'exposition mentionnée au 2 du présent article;
+7. s'assure que la file d'attente se forme à l'extérieur de la zone d'exposition mentionnée au 2 du présent article;
 
-•8. s'assure que la personne destinée à être inspectée filtrée adopte la position requise par le concept d'opérations du scanner tel que prévu dans les certificats de type et les certificats individuels.
+8. s'assure que la personne destinée à être inspectée filtrée adopte la position requise par le concept d'opérations du scanner tel que prévu dans les certificats de type et les certificats individuels.
 
 Section 12 : Analyseurs de chaussures
 
