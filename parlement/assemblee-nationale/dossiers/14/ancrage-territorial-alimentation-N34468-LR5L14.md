@@ -1,0 +1,53 @@
+# Ancrage territorial de l'alimentation
+
+- Procédure : Proposition de loi ordinaire
+- Législature : 14
+- Identifiant : DLR5L14N34468
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/ancrage_territorial_alimentation
+- Sénat : http://www.senat.fr/dossier-legislatif/ppl15-303.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2015-11-25 : 1er dépôt d'une initiative. (PIONANR5L14B3280)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2015-11-25 : Renvoi en commission au fond
+      - 2015-11-24 : Nomination de rapporteur
+      - 2015-12-15 : Réunion de commission
+      - 2016-01-13 : Réunion de commission
+      - 2015-12-16 : Dépôt de rapport (RAPPANR5L14B3355, PIONANR5L14BTC3355)
+  - Discussion en séance publique
+    - 2016-01-14 : Discussion en séance publique
+    - 2016-01-14 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2016-01-14 : Dépôt d'une initiative en navette (PIONSNR5S259B0303)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2016-01-14 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2016-03-02 : Dépôt de rapport (RAPPSNR5S259B0426, PIONSNR5S259BTC0427)
+  - Discussion en séance publique
+    - 2016-03-09 : Discussion en séance publique
+    - 2016-05-19 : Discussion en séance publique
+    - 2016-05-19 : Décision
+- deuxième lecture
+  - 2016-05-19 : Dépôt d'une initiative en navette (PIONANR5L14B3773)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2016-05-19 : Renvoi en commission au fond
+- deuxième lecture
+  - 2017-07-06 : Dépôt d'une initiative en navette (PIONANR5L15B0089)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2017-07-06 : Renvoi en commission au fond
+- deuxième lecture
+  - 2022-07-12 : Dépôt d'une initiative en navette (PIONANR5L16B0140)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2022-07-12 : Renvoi en commission au fond
+- deuxième lecture
+  - 2024-07-23 : Dépôt d'une initiative en navette (PIONANR5L17B0151)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2024-07-23 : Renvoi en commission au fond
