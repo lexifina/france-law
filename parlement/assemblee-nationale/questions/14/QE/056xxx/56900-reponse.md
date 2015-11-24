@@ -1,0 +1,9 @@
+# Réponse à la question n° 56900
+
+- Question : [56900](56900.md) — Question n° 56900 — lutte et prévention
+
+## Réponse
+
+*JO du 2015-11-24*
+
+Les autorités sanitaires ont mis en place depuis novembre 2011 une procédure nationale pour l'organisation des échanges d'informations entre les différents partenaires nationaux impliqués dans la gestion des alertes concernant les substances psychoactives. Cette cellule nationale d'alerte recueille les signaux concernant les drogues émergentes, notamment issues de produits de synthèse. Elle détermine les mesures d'information et de gestion à mettre en place. Le « krokodil » est une préparation artisanale contenant entre autres un opiacé, la désomorphine. Sa présence a été confirmée en Russie. La consommation de cette substance, considérée comme une « héroïne du pauvre », a entraîné des conséquences sanitaires importantes dans ce pays alors que la toxicité du produit apparaît comme spectaculaire (nécroses au niveau de la peau). En France, ce nouveau produit est étroitement surveillé. La lutte contre la toxicomanie et toutes les addictions est une priorité de santé publique. La ministre des affaires sociales, de la santé et des droits des femmes a introduit dans le projet de loi de modernisation de notre système de santé, des mesures de renforcement de la politique de réduction des risques face aux addictions aux produits psychoactifs ainsi que des mesures de promotion de la santé et de prévention des comportements addictifs les plus préoccupants (parcours éducatif de santé, lutte contre l'entrée dans le tabagisme, protection des mineurs face à l'alcool). Par ailleurs, la promotion des consultations jeunes consommateurs avec une grande campagne nationale lancée en janvier 2015 permet d'informer jeunes et parents sur l'existence sur l'ensemble du territoire, de ces lieux de rencontre et d'écoute, qui permettent d'agir dès les premiers signes et premières inquiétudes.
