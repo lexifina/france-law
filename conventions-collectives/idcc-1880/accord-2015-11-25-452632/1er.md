@@ -1,6 +1,6 @@
 # Article 1er
 
-Le présent accord règle sur l'ensemble du territoire national, dont les DOM et les collectivités d'outre-mer de Saint-Barthélemy, Saint-Martin et Saint-Pierre-et-Miquelon, les rapports entre les salariés et les employeurs dont l'activité professionnelle exclusive ou principale est référencée sous les codes NAF suivants :
+Le présent accord règle sur l'ensemble du territoire national, dont les DOM et les collectivités d'outre-mer de Saint-Barthélemy, de Saint-Martin et de Saint-Pierre-et-Miquelon, les rapports entre les salariés et les employeurs dont l'activité professionnelle exclusive ou principale est référencée sous les codes NAF suivants :
 
 Activités entrant dans le champ d'application de la présente convention |
 
