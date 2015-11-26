@@ -36,7 +36,7 @@ Les personnes chargées au sein de l'organisme mentionné à l'article L. 141-2 
 
 Préalablement à la tenue de la réunion prévue au point 2 de la présente annexe, le président nomme un rapporteur et un contre-rapporteur de la commission parmi les personnalités qualifiées pour procéder à la visite dudit établissement. Le sous-directeur du tourisme et le directeur général de l'organisme mentionné à l'article L. 141-2 du code du tourisme ne peuvent participer à ladite visite.
 
-Les membres de la commission ne peuvent être accompagnés d'aucun autre membre qui ne ferait pas partie de ladite commission.
+Durant leur visite, les membres de la commission se conforment à des règles d'éthique et de déontologie professionnelle fixées par l'organisme mentionné à l'article L. 141-2 du code du tourisme. Ils ne peuvent être accompagnés d'aucun autre membre qui ne ferait pas partie de ladite commission.
 
 Les frais liés à la visite sont assumés par l'établissement candidat sur justificatifs selon des modalités définies par le secrétariat de la commission. Le déroulement de la visite répond à des modalités définies par le secrétariat de la commission. Ces modalités sont transmises aux hôtels classés en catégorie 5 étoiles qui souhaitent déposer leur candidature.
 
@@ -100,7 +100,7 @@ Il est soumis à l'obligation de discrétion en ce qui concerne tous les faits, 
 
 La commission d'attribution examine les candidatures éligibles et émet un avis conforme pour l'attribution ou non de la distinction Palace à l'établissement candidat.
 
-La commission ne délibère valablement que lorsque les trois quarts des personnalités qualifiées sont présentes physiquement ou par visioconférence.
+La commission ne délibère valablement que lorsque lorsqu'au moins 60 % des membres de la commission sont présents physiquement ou par visioconférence.
 
 L'avis de la commission repose sur un vote à main levée de ses membres. L'avis est pris à la majorité absolue des suffrages exprimés.
 
