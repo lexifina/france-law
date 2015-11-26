@@ -1,0 +1,9 @@
+# Réponse à la question SEQ151018248
+
+- Question : [SEQ151018248](seq151018248.md) — Déodorants contenant des sels d'aluminum et risque de cancer du sein
+
+## Réponse
+
+*Affaires sociales, santé et droits des femmes, JO du 2015-11-26, page 2754*
+
+En tant que substances susceptibles d'entrer dans la composition des produits cosmétiques, les composés de l'aluminium font l'objet d'études scientifiques visant à évaluer leur sécurité pour la population. Ainsi, l'agence nationale de sécurité du médicament et des produits de santé (ANSM) a publié en octobre 2011 un rapport d'expertise sur l'évaluation du risque lié à l'utilisation de l'aluminium dans les produits cosmétiques, centré plus particulièrement sur les antitranspirants ou déodorants. L'ANSM y indique qu'aucun élément ne met en évidence le lien entre une exposition par voie cutanée à l'aluminium et l'apparition d'un cancer. Cette analyse est partagée par le comité scientifique pour la sécurité des consommateurs (CSSC), comité consultatif de l'Union européenne, dans son avis de mars 2014 sur la sécurité de l'aluminium dans les produits cosmétiques. Le CSSC considère qu'en l'état actuel des connaissances, l'aluminium est peu susceptible d'être cancérogène. Il ajoute qu'il n'existe aucune preuve que l'utilisation de produits antitranspirants puisse conduire à des niveaux d'aluminium qui seraient préjudiciables à la santé, ni que l'utilisation de produits cosmétiques contenant de l'aluminium augmente le risque de développement du cancer du sein ou de maladies neurodégénératives. Toutefois, afin de limiter le niveau global d'exposition à cette substance, l'ANSM recommande dans son rapport de 2011 de restreindre la concentration d'aluminium (sous toutes ses formes) dans les produits cosmétiques à 0,6 % et de ne pas utiliser les produits contenant de l'aluminium sur peau lésée (notamment juste après le rasage), compte tenu de la forte absorption rapportée dans ces conditions.
