@@ -1,0 +1,9 @@
+# Réponse à la question SEQ150415565
+
+- Question : [SEQ150415565](seq150415565.md) — Inquiétudes de la fédération de l'hospitalisation privée  de Bourgogne-Franche-Comté
+
+## Réponse
+
+*Affaires sociales, santé et droits des femmes, JO du 2015-11-26, page 2745*
+
+Conformément à l'engagement pris par le Président de la République, le projet de loi de modernisation de notre système de santé, actuellement en discussion devant le Parlement, propose de rétablir le service public hospitalier, afin de mieux répondre aux attentes des citoyens en matière d'accès à la santé. Contrairement à la situation antérieure à 2009, le choix a été fait de n'exclure aucune catégorie d'établissement du service public hospitalier. Celui-ci sera ouvert sans discrimination à tout établissement qui s'engage à en respecter les principes, comme le prévoit la procédure d'habilitation prévue par l'article L. 6112-3 du projet de loi. Les cliniques privées qui choisiront de ne pas assurer le service public hospitalier ne seront en rien pénalisées en ce qui concerne l'attribution des autorisations mentionnées par l'article L. 6122-1 ou l'accès aux financements publics. La version du projet de loi issue de l'examen est explicite sur ce point. Le Gouvernement n'entend pas, à travers cette réforme, affaiblir le secteur privé ou réguler les dépassements d'honoraires des médecins, mais bien redonner du sens au service public en définissant le socle des garanties auxquelles pourront prétendre chacun des patients pris en charge dans le service public hospitalier. Par ailleurs, la neutralisation du crédit d'impôt compétitivité emploi (CICE) et des baisses de cotisation dans le pacte de responsabilité dans les tarifs applicables dans le secteur hospitalier lucratif n'a pas d'autre objectif que d'assurer une stricte équité entre les différents secteurs hospitaliers.
