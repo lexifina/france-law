@@ -1,0 +1,9 @@
+# Réponse à la question SEQ151018528
+
+- Question : [SEQ151018528](seq151018528.md) — Projet de réforme des professions réglementées et situation des pharmaciens
+
+## Réponse
+
+*Affaires sociales, santé et droits des femmes, JO du 2015-11-26, page 2741*
+
+Depuis deux ans, en concertation avec les organisations professionnelles, la ministre des affaires sociales, de la santé et des droits des femmes poursuit la modernisation du métier de pharmacien. La vente sur Internet a été autorisée, une expérimentation sur la vente d'antibiotiques a été lancée, leur rôle de conseil a été renforcé et de nouvelles modalités de rémunération ont été mises en place depuis le 1er janvier 2015. Cette modernisation s'inscrit dans une démarche qui doit respecter des principes clairs : préserver le réseau officinal (22 000 officines en France) qui permet un égal accès de tous les citoyens aux médicaments en assurant une présence sur l'ensemble du territoire ; reconnaître le rôle des pharmaciens d'officines dans l'organisation de notre système de santé et leur permettre d'exercer pleinement leur rôle de professionnel de santé de proximité ; lutter contre la surconsommation de médicaments mais aussi contre leur gaspillage, car les médicaments ne doivent en aucun cas être considérés comme des produits de consommation courante et toute banalisation nuirait aux impératifs de santé publique. À cet égard, la ministre a réitéré à plusieurs reprises son opposition à la vente de médicaments en grande surface. Ces principes guident la réflexion en cours pour identifier les moyens de poursuivre cette action de modernisation autour de thématiques concrètes telles que la modernisation des règles de transferts (prévue par le projet de loi de modernisation de notre système de santé) ou l'évolution des structures professionnelles afin de favoriser l'installation des jeunes pharmaciens.
