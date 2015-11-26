@@ -1,0 +1,9 @@
+# Réponse à la question SEQ150717329
+
+- Question : [SEQ150717329](seq150717329.md) — Vente de médicaments en ligne
+
+## Réponse
+
+*Affaires sociales, santé et droits des femmes, JO du 2015-11-26, page 2753*
+
+Selon l'organisation mondiale de la santé (OMS), 50 % des médicaments vendus sur internet, sur des sites non autorisés, sont falsifiés ou contrefaits. La France a donc conçu l'encadrement de la vente des médicaments sur internet afin de préserver le circuit pharmaceutique actuel, garant de la qualité et de la sécurité des médicaments c'est-à-dire un site pour une officine de pharmacie physique. Ce choix permet de garantir l'exercice personnel du pharmacien dans sa mission de dispensation au détail des médicaments. Seuls peuvent assurer la dispensation d'un médicament (conseil pharmaceutique et délivrance du médicament), un pharmacien d'officine et son préparateur en pharmacie, sous son contrôle et sa responsabilité. Cette garantie permet également de préserver l'indépendance du pharmacien d'officine et de conserver un réel contrôle sur l'activité de dispensation en ligne. Permettre le regroupement de pharmacies sur une plateforme de vente de médicaments pourrait remettre en cause cette exigence de sécurité en diluant les responsabilités. À la suite de l'annulation par le Conseil d'Etat, le 16 mars 2015, de l'arrêté du 20 juin 2013 relatif à la dispensation des médicaments par voie électronique, il est nécessaire de restaurer un encadrement de l'activité de commerce électronique de médicaments afin notamment de garantir la qualité et la sécurité et l'acte de dispensation par voie électronique. À cet effet, le projet de loi de modernisation de notre système de santé en cours d'examen prévoit qu'un arrêté fixe les règles techniques applicables aux sites internet de commerce électronique de médicaments relatives à la protection des données de santé, aux fonctionnalités des sites internet et aux modalités de présentation des médicaments.
