@@ -1,0 +1,31 @@
+# Ordonnance n° 2015-1540 du 26 novembre 2015 relative aux réseaux des chambres de commerce et d'industrie et des chambres de métiers et de l'artisanat
+
+- Type : ordonnance publiee
+- Législature : XIVème législature
+- Ouvert le : 2015-11-27
+- Mis à jour le : 2016-03-15
+- Légifrance : https://www.legifrance.gouv.fr/dossierlegislatif/JORFDOLE000031535077
+
+## Ordonnance n° 2015-1540 du 26 novembre 2015 relative aux réseaux des chambres de commerce et d'industrie et des chambres de métiers et de l'artisanat
+
+https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000031532074
+
+## Rapport au Président de la République relatif à l'ordonnance n° 2015-1540 du 26 novembre 2015 relative aux réseaux des chambres de commerce et d'industrie et des chambres de métiers et de l'artisanat
+
+https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000031532067
+
+## Ordonnance ratifiée par l'article 4 de la loi n° 2016-298 du 14 mars 2016 relative aux réseaux des chambres de commerce et d'industrie et des chambres de métiers et de l'artisanat
+
+https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000032205449
+
+## Documents
+
+- [Communiqué de presse du Conseil des ministres du 25 novembre 2015](http://www.gouvernement.fr/conseil-des-ministres/2015-11-25/reseaux-des-chambres-de-commerce-et-d-industrie-et-des-chamb) Le ministre de l’économie, de l’industrie et du numérique et la secrétaire d’Etat chargée du commerce, de l’artisanat, de la consommation et de l’économie sociale et solidaire ont présenté un projet de loi et une ordonnance relatifs aux réseaux des chambres de commerce et d’industrie et des chambres de métiers et de l’artisanat. Ces réseaux, constitués d’établissements publics, ont pour missions principales de soutenir le développement économique des entreprises et de favoriser l’insertion des jeunes dans l’emploi par l’apprentissage. La nouvelle organisation territoriale issue de la loi n° 2015-991 du 7 août 2015 nécessite d’adapter les circonscriptions régionales du réseau des chambres de commerce et d’industrie (CCI) et des chambres de métiers et de l’artisanat (CMA), ainsi que leurs modalités d’organisation dans un contexte budgétaire plus contraint, leur permettant de participer à l’effort de redressement des comptes publics. Les dispositions nécessaires à cette réforme sont contenues, d’une part, dans un projet de loi et, d’autre part dans une ordonnance, qui favorisent la réduction du nombre d’établissements des deux réseaux, tout en respectant le libre choix des élus consulaires et en maintenant un service de proximité nécessaire au soutien des entreprises. Les établissements pourront, dans un cadre rénové, mettre en œuvre plus facilement les mutualisations qui leur permettront de procéder aux économies d’échelles nécessaires. Le projet de loi renforce au sein des CCI le mouvement de rationalisation et de mutualisation des fonctions support au niveau régional mises en œuvre depuis 2010, en instituant un schéma régional d'organisation des missions dans chaque chambre de commerce et d'industrie de région (CCIR). Ce schéma permettra de préciser et d’organiser clairement les missions à vocation régionale. Le projet poursuit aussi la rationalisation du réseau en conférant aux schémas directeurs, adoptés par les CCIR pour déterminer la carte consulaire de leur circonscription, un caractère opposable, ce qui permettra, après concertation, d’atteindre l’objectif de réduction du nombre d’établissements publics tout en maintenant les missions de proximité. Il améliore également la représentativité de chaque CCI territoriale, locale ou départementale d’Ile-de-France au sein de chambres plus vastes en augmentant le nombre d’élus et en leur permettant d’être représentées au sein de leur CCIR de rattachement en proportion de leur poids économique. Il modifie par ailleurs le code de l’artisanat en ouvrant aux chambres départementales la possibilité de se regrouper en chambre de métiers et de l’artisanat interdépartementale (CMAI). Les chambres régionales de métiers et de l’artisanat (CRMA) disposent de chambres de métiers et de l’artisanat départementales (CMAD) et de chambres de métiers et de l’artisanat interdépartementales. Les chambres de métiers et de l’artisanat régionales (CMAR) et les CMAI se composent d’autant de délégations départementales, dénuées de personnalité juridique, que de départements couverts. L’ordonnance, prise sur le fondement de l’article 136 de la loi n° 2015-991 du 7 août 2015 portant nouvelle organisation territoriale de la République, permet aux chambres de commerce et d'industrie de région (CCIR) qui le souhaitent, ainsi qu’aux chambres de commerce et d’industrie territoriales (CCIT) qui leur sont rattachées, de fusionner dès le 1er janvier 2016 pour mettre en conformité leur organisation avec celle des nouvelles régions, sans attendre les élections des membres des chambres de commerce et d’industrie prévues à la fin de l’année prochaine. Cette mesure permettra par exemple aux deux régions consulaires normandes de fusionner en début d’année prochaine. Ce texte contient également les dispositions permettant l’adaptation du réseau des CMA à la nouvelle carte territoriale. L’objectif est de disposer d’une seule chambre de niveau régional comme interlocuteur unique du conseil régional dans les sept nouvelles régions fusionnées. Le choix de la forme juridique de la nouvelle chambre de niveau régional est décidé au plus tard le 31 janvier 2016 par les élus, qui seront également renouvelés en fin d’année 2016. Cette échéance laisse aux établissements du réseau des CMA un délai raisonnable pour opérer cette modification, étant précisé que le périmètre actuel des CMA de niveau régional est maintenu jusqu’au 31 mars 2016, afin de permettre rapidement les regroupements régionaux attendus. L’ordonnance prévoit également, dans les régions maintenues dans leurs limites territoriales actuelles, la création d’une chambre de métiers et de l’artisanat (CMAR) uniquement composée de sections dépourvues de la personnalité juridique.
+- Dossiers législatifs
+  - [Dossier législatif du projet de loi de ratification](https://www.legifrance.gouv.fr/affichLoiPreparation.do?idDocument=JORFDOLE000032069889&type=general&typeLoi=proj&legislature=14)
+  - Assemblée nationale
+  - Sénat
+- Documents préparatoires
+- Débats parlementaires
+  - Assemblée nationale
+  - Sénat
