@@ -1,0 +1,9 @@
+# Réponse à la question n° 89440
+
+- Question : [89440](89440.md) — Question n° 89440 — Institut français d'études sur l'Asie centrale; moyens
+
+## Réponse
+
+*JO du 2015-12-01*
+
+L’Institut français d’études sur l’Asie centrale (IFEAC), créé en 1993 à Tachkent, fait partie des 27 Instituts français de recherche à l’étranger (IFRE) qui sont placés sous la tutelle du ministère des affaires étrangères et du développement international (MAEDI) et du Centre national de la recherche scientifique (CNRS). Expression de la recherche académique française de haut niveau dans le domaine des sciences humaines, sociales et de l’archéologie, l’activité de ces Instituts répond à des objectifs de recherche et de formation et participent à la politique d’influence de la France. L’IFEAC répond à l’intérêt d’universitaires français et européens pour l’Asie centrale. Les autorités ouzbèkes lui ayant retiré son agrément en 2009, l’Institut a dû être mis en sommeil, avant que le MAEDI ne décide de redémarrer ses activités à partir de son antenne de Bichkek. L’IFEAC a pu ainsi conserver une capacité d’expertise, recréer un site Internet fourni, reprendre la publication des Cahiers d’Asie centrale, l’organisation de colloques régionaux et l’aide à la recherche en sciences humaines et sociales concernant l’Asie centrale. Il contribue au rayonnement de la France dans la région. Compte tenu de ces éléments, le MAEDI prévoit, en dépit des fortes contraintes budgétaires auxquelles il est confronté, de renouveler le poste de directeur de l’IFEAC au-delà de l’été 2016 et de poursuivre le soutien apporté à cet Institut. Ce ministère sera particulièrement attentif à la mobilisation nécessaire des communautés universitaires et scientifiques autour d’une dynamique interdisciplinaire portée par l’IFEAC qui soit susceptible d’intéresser de nouveaux contributeurs.
