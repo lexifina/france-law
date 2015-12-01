@@ -1,0 +1,9 @@
+# Réponse à la question n° 83466
+
+- Question : [83466](83466.md) — Question n° 83466 — instances consultatives; coût de fonctionnement
+
+## Réponse
+
+*JO du 2015-12-01*
+
+La commission des téléphériques (CTPH) est associée à l’élaboration et à la mise en œuvre de la politique de l’État en matière de réglementation et de sécurité des transports par remontées mécaniques. Elle rend un avis sur les projets de référentiels du service technique des remontées mécaniques et des transports guidés, dont elle examine également les rapports d’accidents. Elle peut être consultée pour émettre un avis sur les projets de textes réglementaires relevant de la sécurité des transports guidés en zone de montagne. Elle peut être saisie pour avis par le ministre chargé des transports de toute autre question d’ordre technique, administratif, économique, social, juridique ou environnemental concernant les remontées mécaniques. Elle est aujourd’hui en charge des volets du plan d’actions visant à renforcer la sécurité des télésièges. La CTPH comprend 26 membres titulaires, dont 10 représentants de l’État, elle est présidée par le directeur des services de transports ou par le président délégué, membre du conseil général de l’environnement et du développement durable. Son secrétariat est assuré par la mise à disposition d’une fraction de temps de travail d’un agent de la direction des services de transport, au sein de l’administration centrale du ministère de l’écologie, du développement durable et de l’énergie. La CTPH ne dispose pas de moyens financiers propres. Elle se réunit généralement deux fois par an à Lyon dans des locaux mis à sa disposition par l’administration, et les frais de déplacement des membres sont pris en charge par les institutions qu’ils représentent. Pour les deux réunions effectuées en 2014 les frais de la CTPH ont été nuls.
