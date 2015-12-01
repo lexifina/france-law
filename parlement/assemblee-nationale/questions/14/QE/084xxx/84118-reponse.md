@@ -1,0 +1,9 @@
+# Réponse à la question n° 84118
+
+- Question : [84118](84118.md) — Question n° 84118 — femmes; hautes responsabilités; accès
+
+## Réponse
+
+*JO du 2015-12-01*
+
+En vue d’optimiser la carrière des officiers féminins, diverses actions ont été engagées depuis 2013 par le ministère de la défense, parmi lesquelles peuvent être mentionnées : - le développement d’une politique familiale permettant de concilier vie privée et vie professionnelle (implantation de crèches dans chaque base de défense, instauration de dispositifs d’aide à la garde d’enfants). En outre, la situation familiale est systématiquement prise en considération pour définir le lieu des affectations et fixer les dates des mutations, notamment lorsqu’un couple est composé de deux militaires ; - l’amélioration de la visibilité de la place des femmes au sein des armées au moyen d’une communication étendue et d’une valorisation des parcours des femmes officiers ; - la féminisation de l’encadrement, notamment dans les écoles et les centres de formation ; - l’accompagnement des femmes s’agissant de l’accès aux différentes étapes de la carrière d’officier : école d’état-major, école de guerre (avec prise en compte au titre des conditions de présentation des périodes de disponibilité pour raison familiale). De plus, conformément aux orientations fixées par le ministre de la défense, la présence d’au moins une femme chaque année au nombre des auditeurs du centre des hautes études militaires est un objectif afin de constituer un vivier de cadres féminins. Dans ce contexte, en 2014, le taux de féminisation du personnel militaire a atteint 15,3 % et celui du personnel officier 13,9 %. Dans son discours prononcé au Sénat le 5 mars 2015, le ministre a rappelé l’attention qu’il porte à la place des femmes au sein de son ministère et réaffirmé son souhait de voir reconnus leurs mérites et leurs compétences par l’accès en plus grand nombre à des commandements ou à d’autres postes de responsabilité.
