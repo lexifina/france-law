@@ -1,0 +1,9 @@
+# Réponse à la question n° 88555
+
+- Question : [88555](88555.md) — Question n° 88555 — plans climat énergie; mise en oeuvre
+
+## Réponse
+
+*JO du 2015-12-01*
+
+La loi du 12 juillet 2010 portant engagement national pour l’environnement a introduit à l’article L. 229-26 du Code de l’environnement l’obligation pour les régions, les départements, les métropoles, les communautés urbaines, les communautés d’agglomérations et les communes et communautés de communes de plus de 50 000 habitants d’adopter un plan climat-énergie territorial (PCET), définissant des objectifs stratégiques et opérationnels en matière d’atténuation et d’adaptation aux changements climatiques, un programme d’actions et un dispositif de suivi et d’évaluation, au plus tard le 31 décembre 2012. Les PCET devaient être mis à jour tous les cinq ans et être compatibles avec le Schéma régional du climat, de l’air et de l’énergie (SRCAE) adopté au niveau régional. La loi du 7 août 2015 portant nouvelle organisation territoriale de la République a introduit, pour les régions de la métropole, hors Corse et Île-de-France, un schéma régional d’aménagement, de développement durable et d’égalité des territoires (SRADDET) qui a vocation à intégrer plusieurs schémas régionaux dont les SRCAE. La loi du 17 août 2015 relative à la transition énergétique pour la croissance verte transforme les PCET en plans climat-air-énergie territoriaux (PCAET) et confie leur élaboration aux établissements publics de coopération intercommunale à fiscalité propre. Le lien entre les schémas régionaux et les schémas locaux est maintenu : les PCAET devront prendre en compte les objectifs du STRADDET et être compatibles avec les règles générales du fascicule de ce schéma, pour celles de leurs dispositions auxquelles ces règles sont opposables. Pour s’en assurer, le projet de décret relatif aux PCAET prévoit un avis du Préfet de Région et du Président du Conseil Régional.
