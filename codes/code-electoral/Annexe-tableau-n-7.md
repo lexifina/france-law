@@ -6,7 +6,7 @@ RÉGION
 
 EFFECTIF
 
-global du conseil régional
+du conseil régional
 
 |
 
@@ -14,19 +14,73 @@ DÉPARTEMENT
 
 |
 
-NOMBRE
-
-de candidats
+NOMBRE DE CANDIDATS
 
 par section départementale
 
 |
 
-Alsace
+Alsace, Champagne-Ardenne et Lorraine
 
 |
 
-47
+169
+
+|
+
+Ardennes
+
+|
+
+11
+
+|
+
+Aube
+
+|
+
+11
+
+|
+
+Marne
+
+|
+
+19
+
+|
+
+Haute-Marne
+
+|
+
+8
+
+|
+
+Meurthe-et-Moselle
+
+|
+
+24
+
+|
+
+Meuse
+
+|
+
+8
+
+|
+
+Moselle
+
+|
+
+34
 
 |
 
@@ -34,11 +88,7 @@ Bas-Rhin
 
 |
 
-29
-
-|
-
-|
+35
 
 |
 
@@ -46,19 +96,11 @@ Haut-Rhin
 
 |
 
-22
+25
 
 |
 
-Aquitaine
-
-|
-
-85
-
-|
-
-Dordogne
+Vosges
 
 |
 
@@ -66,7 +108,51 @@ Dordogne
 
 |
 
+Aquitaine, Limousin et Poitou-Charentes
+
 |
+
+183
+
+|
+
+Charente
+
+|
+
+13
+
+|
+
+Charente-Maritime
+
+|
+
+22
+
+|
+
+Corrèze
+
+|
+
+10
+
+|
+
+Creuse
+
+|
+
+6
+
+|
+
+Dordogne
+
+|
+
+15
 
 |
 
@@ -74,11 +160,7 @@ Gironde
 
 |
 
-38
-
-|
-
-|
+48
 
 |
 
@@ -86,11 +168,7 @@ Landes
 
 |
 
-12
-
-|
-
-|
+14
 
 |
 
@@ -102,23 +180,51 @@ Lot-et-Garonne
 
 |
 
-|
-
-|
-
 Pyrénées-Atlantiques
 
 |
 
-19
+23
 
 |
 
-Auvergne
+Deux-Sèvres
 
 |
 
-47
+14
+
+|
+
+Vienne
+
+|
+
+16
+
+|
+
+Haute-Vienne
+
+|
+
+14
+
+|
+
+Auvergne et Rhône-Alpes
+
+|
+
+204
+
+|
+
+Ain
+
+|
+
+18
 
 |
 
@@ -126,67 +232,11 @@ Allier
 
 |
 
-15
+11
 
 |
 
-|
-
-|
-
-Cantal
-
-|
-
-8
-
-|
-
-|
-
-|
-
-Haute-Loire
-
-|
-
-10
-
-|
-
-|
-
-|
-
-Puy-de-Dôme
-
-|
-
-22
-
-|
-
-Bourgogne
-
-|
-
-57
-
-|
-
-Côte d'Or
-
-|
-
-19
-
-|
-
-|
-
-|
-
-Nièvre
+Ardèche
 
 |
 
@@ -194,11 +244,95 @@ Nièvre
 
 |
 
-|
+Cantal
 
 |
 
-Saône-et-Loire
+6
+
+|
+
+Drôme
+
+|
+
+15
+
+|
+
+Isère
+
+|
+
+34
+
+|
+
+Loire
+
+|
+
+22
+
+|
+
+Haute-Loire
+
+|
+
+8
+
+|
+
+Métropole de Lyon
+
+|
+
+37
+
+|
+
+Puy-de-Dôme
+
+|
+
+19
+
+|
+
+Rhône
+
+|
+
+14
+
+|
+
+Savoie
+
+|
+
+13
+
+|
+
+Haute-Savoie
+
+|
+
+22
+
+|
+
+Bourgogne et Franche-Comté
+
+|
+
+100
+
+|
+
+Côte-d'Or
 
 |
 
@@ -206,7 +340,43 @@ Saône-et-Loire
 
 |
 
+Doubs
+
 |
+
+21
+
+|
+
+Jura
+
+|
+
+11
+
+|
+
+Nièvre
+
+|
+
+10
+
+|
+
+Haute-Saône
+
+|
+
+10
+
+|
+
+Saône-et-Loire
+
+|
+
+22
 
 |
 
@@ -218,6 +388,14 @@ Yonne
 
 |
 
+Territoire de Belfort
+
+|
+
+7
+
+|
+
 Bretagne
 
 |
@@ -226,15 +404,11 @@ Bretagne
 
 |
 
-Côte-d'Armor
+Côtes-d'Armor
 
 |
 
-18
-
-|
-
-|
+17
 
 |
 
@@ -242,11 +416,7 @@ Finistère
 
 |
 
-27
-
-|
-
-|
+25
 
 |
 
@@ -254,11 +424,7 @@ Ille-et-Vilaine
 
 |
 
-26
-
-|
-
-|
+28
 
 |
 
@@ -266,11 +432,11 @@ Morbihan
 
 |
 
-20
+21
 
 |
 
-Centre-Val de Loire
+Centre
 
 |
 
@@ -282,11 +448,7 @@ Cher
 
 |
 
-13
-
-|
-
-|
+11
 
 |
 
@@ -298,19 +460,11 @@ Eure-et-Loir
 
 |
 
-|
-
-|
-
 Indre
 
 |
 
-10
-
-|
-
-|
+9
 
 |
 
@@ -318,11 +472,7 @@ Indre-et-Loire
 
 |
 
-19
-
-|
-
-|
+20
 
 |
 
@@ -334,119 +484,11 @@ Loir-et-Cher
 
 |
 
-|
-
-|
-
 Loiret
 
 |
 
-20
-
-|
-
-Champagne-Ardenne
-
-|
-
-49
-
-|
-
-Ardennes
-
-|
-
-13
-
-|
-
-|
-
-|
-
-Aube
-
-|
-
-13
-
-|
-
-|
-
-|
-
-Marne
-
-|
-
-21
-
-|
-
-|
-
-|
-
-Haute-Marne
-
-|
-
-10
-
-|
-
-Franche-Comté
-
-|
-
-43
-
-|
-
-Territoire de Belfort
-
-|
-
-8
-
-|
-
-|
-
-|
-
-Doubs
-
-|
-
-20
-
-|
-
-|
-
-|
-
-Jura
-
-|
-
-12
-
-|
-
-|
-
-|
-
-Haute-Saône
-
-|
-
-11
+22
 
 |
 
@@ -474,39 +516,11 @@ Ile-de-France
 
 |
 
-Essonne
+Paris
 
 |
 
-23
-
-|
-
-|
-
-|
-
-Hauts-de-Seine
-
-|
-
-29
-
-|
-
-|
-
-|
-
-Ville de Paris
-
-|
-
-44
-
-|
-
-|
+42
 
 |
 
@@ -514,11 +528,31 @@ Seine-et-Marne
 
 |
 
-23
+25
 
 |
 
+Yvelines
+
 |
+
+27
+
+|
+
+Essonne
+
+|
+
+24
+
+|
+
+Hauts-de-Seine
+
+|
+
+30
 
 |
 
@@ -530,19 +564,11 @@ Seine-Saint-Denis
 
 |
 
-|
-
-|
-
 Val-de-Marne
 
 |
 
-26
-
-|
-
-|
+25
 
 |
 
@@ -554,23 +580,19 @@ Val-d'Oise
 
 |
 
-|
+Languedoc-Roussillon et Midi-Pyrénées
 
 |
 
-Yvelines
+158
 
 |
 
-28
+Ariège
 
 |
 
-Languedoc-Roussillon
-
-|
-
-67
+6
 
 |
 
@@ -582,7 +604,11 @@ Aude
 
 |
 
+Aveyron
+
 |
+
+10
 
 |
 
@@ -590,167 +616,7 @@ Gard
 
 |
 
-20
-
-|
-
-|
-
-|
-
-Hérault
-
-|
-
-26
-
-|
-
-|
-
-|
-
-Lozère
-
-|
-
-5
-
-|
-
-|
-
-|
-
-Pyrénées-Orientales
-
-|
-
-14
-
-|
-
-Limousin
-
-|
-
-43
-
-|
-
-Corrèze
-
-|
-
-16
-
-|
-
-|
-
-|
-
-Creuse
-
-|
-
-10
-
-|
-
-|
-
-|
-
-Haute-Vienne
-
-|
-
-23
-
-|
-
-Lorraine
-
-|
-
-73
-
-|
-
-Meurthe et Moselle
-
-|
-
-24
-
-|
-
-|
-
-|
-
-Meuse
-
-|
-
-9
-
-|
-
-|
-
-|
-
-Moselle
-
-|
-
-33
-
-|
-
-|
-
-|
-
-Vosges
-
-|
-
-15
-
-|
-
-Midi-Pyrénées
-
-|
-
-91
-
-|
-
-Ariège
-
-|
-
-8
-
-|
-
-|
-
-|
-
-Aveyron
-
-|
-
-12
-
-|
-
-|
+22
 
 |
 
@@ -758,11 +624,7 @@ Haute-Garonne
 
 |
 
-34
-
-|
-
-|
+38
 
 |
 
@@ -770,11 +632,15 @@ Gers
 
 |
 
-9
+7
 
 |
 
+Hérault
+
 |
+
+32
 
 |
 
@@ -782,11 +648,15 @@ Lot
 
 |
 
-8
+7
 
 |
 
+Lozère
+
 |
+
+4
 
 |
 
@@ -794,15 +664,11 @@ Hautes-Pyrénées
 
 |
 
-11
+9
 
 |
 
-|
-
-|
-
-Tarn
+Pyrénées-Orientales
 
 |
 
@@ -810,7 +676,11 @@ Tarn
 
 |
 
+Tarn
+
 |
+
+13
 
 |
 
@@ -818,15 +688,63 @@ Tarn-et-Garonne
 
 |
 
-10
+9
 
 |
 
-Basse-Normandie
+Nord - Pas-de-Calais et Picardie
 
 |
 
-47
+170
+
+|
+
+Aisne
+
+|
+
+17
+
+|
+
+Nord
+
+|
+
+76
+
+|
+
+Oise
+
+|
+
+25
+
+|
+
+Pas-de-Calais
+
+|
+
+44
+
+|
+
+Somme
+
+|
+
+18
+
+|
+
+Basse-Normandie et Haute-Normandie
+
+|
+
+102
 
 |
 
@@ -838,7 +756,11 @@ Calvados
 
 |
 
+Eure
+
 |
+
+20
 
 |
 
@@ -846,11 +768,7 @@ Manche
 
 |
 
-18
-
-|
-
-|
+17
 
 |
 
@@ -858,27 +776,7 @@ Orne
 
 |
 
-12
-
-|
-
-Haute-Normandie
-
-|
-
-55
-
-|
-
-Eure
-
-|
-
-19
-
-|
-
-|
+11
 
 |
 
@@ -886,35 +784,7 @@ Seine-Maritime
 
 |
 
-40
-
-|
-
-Nord - Pas-de-Calais
-
-|
-
-113
-
-|
-
-Nord
-
-|
-
-74
-
-|
-
-|
-
-|
-
-Pas-de-Calais
-
-|
-
-43
+41
 
 |
 
@@ -930,11 +800,7 @@ Loire-Atlantique
 
 |
 
-33
-
-|
-
-|
+35
 
 |
 
@@ -942,11 +808,7 @@ Maine-et-Loire
 
 |
 
-23
-
-|
-
-|
+22
 
 |
 
@@ -954,11 +816,7 @@ Mayenne
 
 |
 
-11
-
-|
-
-|
+10
 
 |
 
@@ -966,11 +824,7 @@ Sarthe
 
 |
 
-18
-
-|
-
-|
+17
 
 |
 
@@ -978,99 +832,7 @@ Vendée
 
 |
 
-18
-
-|
-
-Picardie
-
-|
-
-57
-
-|
-
-Aisne
-
-|
-
 19
-
-|
-
-|
-
-|
-
-Oise
-
-|
-
-25
-
-|
-
-|
-
-|
-
-Somme
-
-|
-
-19
-
-|
-
-Poitou-Charentes
-
-|
-
-55
-
-|
-
-Charente
-
-|
-
-14
-
-|
-
-|
-
-|
-
-Charente-Maritime
-
-|
-
-20
-
-|
-
-|
-
-|
-
-Deux-Sèvres
-
-|
-
-14
-
-|
-
-|
-
-|
-
-Vienne
-
-|
-
-15
 
 |
 
@@ -1086,11 +848,7 @@ Alpes-de-Haute-Provence
 
 |
 
-7
-
-|
-
-|
+6
 
 |
 
@@ -1102,19 +860,11 @@ Hautes-Alpes
 
 |
 
-|
-
-|
-
 Alpes-Maritimes
 
 |
 
-30
-
-|
-
-|
+29
 
 |
 
@@ -1126,19 +876,11 @@ Bouches-du-Rhône
 
 |
 
-|
-
-|
-
 Var
 
 |
 
-25
-
-|
-
-|
+27
 
 |
 
@@ -1166,102 +908,6 @@ La Réunion
 
 |
 
-Rhône-Alpes
+NOTA :
 
-|
-
-157
-
-|
-
-Ain
-
-|
-
-16
-
-|
-
-|
-
-|
-
-Ardèche
-
-|
-
-11
-
-|
-
-|
-
-|
-
-Drôme
-
-|
-
-14
-
-|
-
-|
-
-|
-
-Isère
-
-|
-
-31
-
-|
-
-|
-
-|
-
-Loire
-
-|
-
-24
-
-|
-
-|
-
-|
-
-Rhône
-
-|
-
-45
-
-|
-
-|
-
-|
-
-Savoie
-
-|
-
-13
-
-|
-
-|
-
-|
-
-Haute-Savoie
-
-|
-
-19
-
-|
+Conformément à l'article 7 de la loi n° 2015-29 du 16 janvier 2015 les présentes dispositions s'appliquent à compter du prochain renouvellement général des conseils régionaux suivant la promulgation de la présente loi. Ces élections ont lieu dans le cadre des régions définies à l'article 1er.
