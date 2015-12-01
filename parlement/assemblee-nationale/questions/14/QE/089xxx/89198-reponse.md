@@ -1,0 +1,9 @@
+# Réponse à la question n° 89198
+
+- Question : [89198](89198.md) — Question n° 89198 — protection; pollution sonore et lumineuse; lutte et prévention
+
+## Réponse
+
+*JO du 2015-12-01*
+
+D’une manière générale, la règlementation destinée à prévenir, supprimer ou limiter l’émission ou la propagation des bruits, des vibrations ou de la lumière artificielle, de nature à présenter des dangers, à causer un trouble excessif aux personnes, à nuire à leur santé ou à porter atteinte à l’environnement, bénéficie également à la biodiversité. Les activités bruyantes mentionnées font ainsi l’objet de prescriptions spécifiques du code de l’environnement (articles L. et R. 571 et suivants) ou du code de la santé publique (articles R. 1334-30 à R. 1334-37) et les riverains de ces activités sont particulièrement attentifs à la bonne application de ces textes. Des prescriptions peuvent être imposées, pour réduire les nuisances lumineuses, aux exploitants ou utilisateurs de certaines installations, sans compromettre les objectifs de sécurité publique et un arrêté du 25 janvier 2013 encadre les horaires de fonctionnement des installations d’éclairage des bâtiments non résidentiels (commerces, bureaux, etc.).L’article 51 quaterdecies du projet de loi pour la reconquête de la biodiversité, de la nature et des paysages, incite « les collectivités territoriales à réduire le nombre de leurs points lumineux ». Les arrêtés ministériels visés à l’article L. 583-2-1 du code de l’environnement, peuvent prévoir les conditions dans lesquelles les dispositions qu’ils comportent peuvent être adaptées par arrêté préfectoral aux circonstances locales, après avis du conseil départemental de l’environnement et des risques sanitaires et technologiques. Le préfet a ainsi d’ores et déjà le pouvoir de fixer des prescriptions particulières concernant par exemple les périodes de migration ou de reproduction de certaines espèces.
