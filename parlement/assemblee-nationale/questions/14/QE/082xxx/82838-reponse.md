@@ -1,0 +1,9 @@
+# Réponse à la question n° 82838
+
+- Question : [82838](82838.md) — Question n° 82838 — action publique; modernisation
+
+## Réponse
+
+*JO du 2015-12-01*
+
+La question des réductions d’effectifs de l’Etat à l’étranger dédiés aux fonctions support s’inscrit dans les suites réservées à l’évaluation "organisation et pilotage des réseaux à l’étranger" conduite conjointement par l’inspection générale des affaires étrangères et l’inspection générale des finances (leurs recommandations ont été actées dans la décision no 2 du CIMAP). De février à décembre 2014, les réunions du comité interministériel des réseaux internationaux de l’Etat (CORINTE) ont été principalement consacrées à la mise en œuvre de ces recommandations. Les services communs de gestion (SCG) des ambassades ont vu leurs compétences généralisées et leur recours est devenu obligatoire pour tous les services de l’Etat afin que ces derniers se concentrent sur leur cœur de métier. Toutes les possibilités de mutualisation et de rationalisation susceptibles d’améliorer l’efficacité des services sont recherchées afin de générer des économies d’échelle. Une expérimentation a ainsi été lancée en juin 2015 dans sept pays (Afrique du sud, Allemagne, Hongrie, Mexique, République tchèque, Slovaquie et Thaïlande) sur le parc automobile. La dématérialisation et la simplification des procédures comptables constituent également un axe important d’allègement des fonctions support. Le MAEDI mène, avec l’assentiment de la cour des Comptes et de la direction générale des Finances publiques, une expérimentation à ce sujet. Ses résultats seront pris en compte dans le chantier de conception du nouveau logiciel pour la comptabilité des postes à l’étranger dont le déploiement est prévu à l’horizon 2018. Par principe, le MAEDI privilégie la centralisation en métropole de la gestion de certains services (marchés publics, immobilier notamment) dès lors que les réglementations et les pratiques locales le permettent.
