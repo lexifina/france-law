@@ -1,0 +1,9 @@
+# Réponse à la question n° 57540
+
+- Question : [57540](57540.md) — Question n° 57540 — instances consultatives; coûts de fonctionnement
+
+## Réponse
+
+*JO du 2015-12-01*
+
+Le dispositif de gouvernance des filières à responsabilité élargie des producteurs (REP) était jusqu’à présent hétérogène. Il comprend une commission d’harmonisation et de médiation des filières (CHMF) créée par le décret no 2009-1043 du 27 août 2009 relatif au Conseil national des déchets et à la commission d’harmonisation et de médiation des filières (CHMF) de collecte sélective et de traitement des déchets. Chaque filière dispose d’une commission consultative d’agrément qui est, soit prévue par un texte réglementaire (emballages, véhicules hors d’usage), soit non prévue réglementairement avec différents degrés de formalisation. Dans le cadre de la démarche de simplification de la vie administrative engagée dans le cadre du comité interministériel pour la modernisation de l’action publique (CIMAP), il a été décidé la suppression ou la fusion de certaines commissions existantes. La commission d’harmonisation et de médiation des filières (CHMF) et certaines commissions consultatives d’agrément (CCA) qui avaient été établies dans un cadre officiel font partie des commissions visées par cette simplification. Un travail pour clarifier, simplifier et harmoniser la gouvernance du dispositif des filières à responsabilité élargie des producteurs est donc mené depuis fin 2013 avec les parties prenantes concernées pour fusionner ces différentes commissions. Ces travaux devraient aboutir d’ici la fin de l’année 2015. Dans le cadre de ces travaux, l’ensemble des parties prenantes a réaffirmé son attachement à l’existence de structures de dialogue au sujet des filières REP, la co-construction du cadrage de ces filières étant un facteur essentiel de leur succès. Il convient de noter en tout état de cause, qu’aucun budget de fonctionnement n’est dédié à ces commissions.
