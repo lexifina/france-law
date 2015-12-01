@@ -1,0 +1,9 @@
+# Réponse à la question n° 89458
+
+- Question : [89458](89458.md) — Question n° 89458 — entretien; bilan
+
+## Réponse
+
+*JO du 2015-12-01*
+
+Le secrétaire d’État, auprès du ministre des affaires étrangères et du développement international, chargé des affaires européennes dresse un bilan positif de son entretien avec M. Nikola Poposki, ministre macédonien des affaires étrangères. Au lendemain du retour de l’opposition au parlement qui ouvrait une perspective de sortie à la crise politique dont souffrait le pays depuis plusieurs années, le secrétaire d’Etat a insisté sur la nécessité de mettre en œuvre dans sa totalité l’accord du 15 juillet 2015 obtenu sous l’égide du Commissaire européen Hahn. Le respect des délais impartis, en particulier concernant l’organisation des élections d’avril 2016 et la nomination d’un procureur spécial pour enquêter sur l’affaire des écoutes, devait, dans cette optique, être considéré comme une priorité absolue. Au-delà du rétablissement d’un dialogue politique apaisé avec l’opposition, le secrétaire d’Etat a rappelé qu’un engagement accru restait indispensable pour progresser sur la réforme de l’administration et de la justice et pour intensifier la lutte contre la corruption de haut niveau. Seuls des résultats tangibles dans ces trois domaines permettraient au pays de rattraper le retard pris au cours des dernières années dans son processus de rapprochement européen. En parallèle, il a également appelé à poursuivre le dialogue avec la Grèce engagé sous la médiation des Nations Unies pour trouver une solution mutuellement acceptable sur la dénomination du pays. A titre bilatéral, la remarquable qualité de la coopération décentralisée entre l’Ancienne République yougoslave de Macédoine et la Basse Normandie a été saluée par les deux interlocuteurs.
