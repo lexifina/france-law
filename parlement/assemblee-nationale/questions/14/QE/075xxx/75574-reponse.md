@@ -1,0 +1,9 @@
+# Réponse à la question n° 75574
+
+- Question : [75574](75574.md) — Question n° 75574 — détecteurs de fumée; ventes frauduleuses; informations
+
+## Réponse
+
+*JO du 2015-12-01*
+
+La loi no 2010-238 du 9 mars 2010 rend obligatoire l’installation de détecteurs de fumée dans les lieux d’habitation. Depuis le 8 mars 2015, tous les logements doivent être équipés d’au moins un détecteur autonome avertisseur de fumée (DAAF). Afin de sensibiliser le plus largement possible le public au risque d’incendie domestique et à la nécessité de s’équiper sans délai de détecteur de fumée, une campagne nationale de prévention contre les incendies domestiques a été lancée le 28 janvier 2015, avec une mise à disposition et une large diffusion d’un kit de communication (brochures, affiches, flyer, spot radio, etc.). De plus, le site internet du ministère du logement, de l’égalité des territoires et de la ruralité a été renforcé dans sa partie « détecteur de fumée » avec notamment la présence de questions réponses pour aider le grand public à trouver rapidement les informations clés. Dans les documents et les informations diffusées, et notamment dans les spots radio, les ministères du logement et de l’intérieur ont bien précisé que l’installation d’un détecteur de fumée est très simple à effectuer et ne nécessite donc pas un recours à un professionnel. Néanmoins, le détecteur de fumée se fixant au plafond, les personnes ayant des difficultés à se déplacer ou à monter sur un escabeau sont invitées à faire appel à une tierce personne (famille, voisins, ou professionnel). Le Gouvernement poursuivra dans ce sens les actions d’information et de prévention contre les incendies domestiques en mettant l’accent sur l’obligation d’équiper tous les logements en détecteurs de fumée : un détecteur de fumée sauve des vies, et est facile à installer et à entretenir.
