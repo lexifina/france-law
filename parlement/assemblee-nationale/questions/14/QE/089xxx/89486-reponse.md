@@ -1,0 +1,9 @@
+# Réponse à la question n° 89486
+
+- Question : [89486](89486.md) — Question n° 89486 — condamnation à mort; attitude de la France
+
+## Réponse
+
+*JO du 2015-12-01*
+
+Le Royaume d’Arabie saoudite est un partenaire majeur de la France dans la région, avec lequel elle entretient des liens dans les domaines politique, stratégique et économique et partage une large convergence de vues sur les principaux dossiers concernant le Moyen-Orient. La visite que le Premier ministre vient d’effectuer le 13 octobre à Riyad, qui fait suite à celle du Président de la République en mai dernier, porte le témoignage du dynamisme de cette relation. Le Président de la République et le Premier ministre ont souligné lors de leurs déplacements l’opposition de la France à la peine capitale en tous lieux et toutes circonstances, et ont appelé en particulier les autorités saoudiennes à surseoir à l’exécution de Mohamed Ali al Nimr. Notre ambassade suit la situation avec attention, en lien avec nos partenaires européens. Par ailleurs, en application des lignes directrices de l’Union européenne sur la peine de mort, une démarche a été faite par la délégation de l’UE à Riyad pour demander aux autorités saoudiennes de renoncer à l’exécution du jeune homme et de toute autre personne dans un cas similaire, et de commuer leurs peines. Les informations dont la France dispose ne permettent pas d’affirmer que l’Arabie saoudite finance des mouvements terroristes. Son appareil législatif est conforme aux normes internationales en la matière. Le Royaume coopère par ailleurs avec Tracfin et le GAFI à cet égard. L’Arabie saoudite participe activement à la coalition contre Daech et les récents attentats perpétrés sur le territoire saoudien par Daech contre des mosquées fréquentées par la communauté chiite ou les forces de sécurité montrent que cette organisation terroriste constitue une menace pour l’Arabie saoudite.
