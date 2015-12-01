@@ -1,0 +1,9 @@
+# Réponse à la question n° 77220
+
+- Question : [77220](77220.md) — Question n° 77220 — campagne; pays en développement; soutien
+
+## Réponse
+
+*JO du 2015-12-01*
+
+L’appui à la vaccination occupe une place importante dans la politique de coopération en santé de la France. Par son action de prévention sur la santé des populations, la vaccination est l’un des investissements les plus efficaces pour réduire la pauvreté et prévenir des coûts économiques et sociaux à plus long terme dans les pays en développement. La France fait partie des tout premiers donateurs de Gavi, l’Alliance du vaccin. Elle soutient la stratégie de l’Alliance et en particulier le renforcement des programmes de Gavi sur les 22 pays d’Afrique francophone. Depuis sa création en 2000, Gavi a obtenu des résultats remarquables : 500 millions d’enfants ont pu être vaccinés et 7 millions de décès ont pu être évités dans les 73 pays les plus pauvres du monde. Quatrième bailleur souverain de Gavi en 2011-2015, la France maintient un haut niveau d’engagement sur la période 2016-2020. Lors de la conférence des donateurs, le 27 janvier 2015 à Berlin, la France a annoncé, en parallèle d’un décaissement de 365M€ sur la période 2016-2020 au titre de ses engagements dans la Facilité internationale de financement pour la vaccination (IFFIm), un nouvel engagement de 150M€ ainsi qu’une initiative pilote de 100M€ en partenariat avec l’Agence française de développement (AFD), Gavi et la Fondation Bill & Melinda Gates. Cet accord de financement tripartite, signé le 25 juin 2015, est destiné à accroitre la couverture vaccinale dans six pays francophones de la zone sahélienne (Burkina Faso, Mali, Mauritanie, Niger, Sénégal et Tchad) en facilitant l’introduction de nouveaux vaccins, le renouvellement des programmes existants et le renforcement des systèmes de santé.
