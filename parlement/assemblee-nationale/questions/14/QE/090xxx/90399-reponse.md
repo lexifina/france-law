@@ -1,0 +1,9 @@
+# Réponse à la question n° 90399
+
+- Question : [90399](90399.md) — Question n° 90399 — situation politique; attitude de la France
+
+## Réponse
+
+*JO du 2015-12-01*
+
+L’ambassade de France à Kinshasa est très vigilante quant à la situation en République démocratique du Congo. Elle demeure à cet égard particulièrement soucieuse de la sécurité de la communauté française. Les violentes manifestations qui ont eu lieu à la fin du mois de janvier à Kinshasa comme en province ont montré que la préparation de l’ambassade était réelle. Des messages d’information et d’alertes ont été régulièrement envoyés par mail ou SMS à la communauté française et transmis par le centre de crise et de soutien (CDCS) aux Français de passage inscrits sur le portail Ariane. Lorsque certains moyens de communication locaux, notamment les envois de SMS, ont été coupés, le contact avec la communauté française a été maintenu par l’ambassade en communiquant par radio avec les chefs d’îlots et par le CDCS qui a pu procéder depuis Paris à l’envoi de SMS et de mails. Depuis le début de l’année, l’ambassade de France à Kinshasa a tenu plusieurs réunions de sécurité avec les ONG, les chefs d’îlots ainsi que les conseillers consulaires. Les dernières manifestations d’ampleur ont également donné lieu à des messages à la communauté française relayés aux Français de passage inscrits sur Ariane. En liaison avec le ministère de la défense et le centre de crise et de soutien, l’ambassade de France a mis à jour son plan de sécurité notamment par la définition de nouveaux points de regroupement. Elle travaille également à la modification de l’îlotage afin de tenir compte de la dernière réforme administrative en RDC. Elle veille à la coordination de son action avec l’ambassade de France à Brazzaville. Une mission de conseil du CDCS doit se rendre d’ici la fin de l’année à Kinshasa et à Brazzaville afin de parfaire le dispositif de sécurité des deux ambassades.
