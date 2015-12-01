@@ -1,0 +1,9 @@
+# Réponse à la question n° 89443
+
+- Question : [89443](89443.md) — Question n° 89443 — déplacement; bilan
+
+## Réponse
+
+*JO du 2015-12-01*
+
+Le secrétaire d’État, auprès du ministre des affaires étrangères et du développement international, chargé des affaires européennes dresse un bilan positif de sa participation le 27 août 2015 à la conférence sur les Balkans occidentaux à Vienne. En présence des dirigeants des six pays des Balkans, des institutions européennes ainsi que de représentants des gouvernements autrichien, croate, slovène, allemand, français et italien, cette réunion a permis de souligner l’importance du développement des infrastructures dans la région. Dix projets ont été identifiés à cette occasion pour faire l’objet d’un financement prioritaire avant la fin de l’année 2015. Cette conférence aura également permis d’enregistrer la signature de plusieurs textes traduisant l’engagement des pays balkaniques à renforcer leur coopération régionale (deux accords de délimitation des frontières entre la Bosnie-Herzégovine et le Monténégro ainsi qu’entre la Bosnie-Herzégovine et le Kosovo ; une déclaration sur le règlement des différends bilatéraux ; une déclaration sur l’établissement d’un office régional de coopération pour la jeunesse) et de réaffirmer le soutien de l’Union européenne face à l’afflux de réfugiés en Serbie et en Ancienne République yougoslave de Macédoine. Le secrétaire d’État a également annoncé à cette occasion que le Président de la République souhaitait accueillir en France à l’été 2016 la prochaine conférence sur les Balkans occidentaux centrée sur trois priorités : la poursuite du soutien aux infrastructures, notamment dans les domaines de l’énergie et des transports ; la mobilisation des investisseurs privés pour contribuer au développement de la région ; la jeunesse.
