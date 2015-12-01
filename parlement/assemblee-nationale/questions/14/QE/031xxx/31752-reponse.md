@@ -1,0 +1,9 @@
+# Réponse à la question n° 31752
+
+- Question : [31752](31752.md) — Question n° 31752 — mise en oeuvre
+
+## Réponse
+
+*JO du 2015-12-01*
+
+Une large concertation a été organisée avec l’ensemble des acteurs concernés, sous la présidence de Claire-Lise Campion, sénatrice de l’Essonne et auteure du rapport « Réussir 2015 », et sous le pilotage de la délégation ministérielle à l’accessibilité. Les objectifs étaient de faire des propositions concrètes pour la mise en place des agendas d’accessibilité programmée, outils permettant aux acteurs privés et publics de s’engager sur un calendrier précis et resserré de travaux d’accessibilité pour les gestionnaires d’établissement recevant du public (ERP) d’une part, et de services de transport, d’autre part, en prenant en compte les spécificités de chaque secteur, et de dégager, pour ces deux secteurs, les éléments concrets en vue de l’adaptation des normes d’accessibilité qui les concernent, afin de mieux prendre en compte tous les handicaps. L’ordonnance no 2014-1090 du 26 septembre 2014 relative à la mise en accessibilité des établissements recevant du public (ERP), des transports publics, des bâtiments d’habitation et de la voirie pour les personnes handicapées détermine le cadre de la réforme engagée, et prévoit notamment que les personnels en contact avec le public doivent recevoir une formation à l’accueil des personnes handicapées, et que des mesures d’information des usagers doivent être mises en oeuvre. Par ailleurs, le même chantier de concertation a débouché sur la mise en place, dans chaque établissement recevant du public, neuf ou existant, d’un registre d’accessibilité, disponible à l’accueil afin d’informer les visiteurs, des moyens mis en oeuvre pour l’accessibilité. De telles exigences sont de nature à permettre la prise en compte des besoins spécifiques des personnes handicapées, notamment ceux des personnes en situation de handicap mental.
