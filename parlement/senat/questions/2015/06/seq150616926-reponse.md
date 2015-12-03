@@ -1,0 +1,9 @@
+# Réponse à la question SEQ150616926
+
+- Question : [SEQ150616926](seq150616926.md) — Propagation de l'état terroriste islamique et intervention de l'armée française au Moyen-Orient
+
+## Réponse
+
+*Défense, JO du 2015-12-03, page 3237*
+
+La progression et les activités développées par Daech en Syrie constituent un facteur de déstabilisation de l'ensemble du Moyen-Orient. À partir du territoire syrien, le groupe terroriste structure en effet ses filières de recrutement de ressortissants étrangers et alimente de façon constante sa propagande au moyen de la mise en scène d'actes barbares sur les réseaux sociaux. Il organise en outre, depuis ce pays, la menace djihadiste dirigée contre la France et contribue à aggraver la crise syrienne et à amplifier les phénomènes migratoires dans la région. Pleinement déterminé à lutter contre Daech, le président de la République a annoncé, le 7 septembre 2015, sa décision de faire procéder, à partir du dispositif militaire déployé par la France dans le cadre de l'opération Chammal, à des vols de reconnaissance au-dessus de la Syrie. Cet engagement des moyens aériens français a fait l'objet d'un débat parlementaire organisé le 15 septembre 2015 en présence du ministre de la défense à l'Assemblée nationale et du ministre des affaires étrangères et du développement international au Sénat. Ces missions d'observation sont conduites par la France en toute autonomie de décision et d'action, et sont coordonnées, pour des raisons opérationnelles, avec la coalition dirigée par les États-Unis d'Amérique en Irak. Elles visent à recueillir des renseignements sur Daech et à compléter les informations s'agissant des cibles présentant un intérêt militaire susceptibles d'être neutralisées. Au regard des premiers enseignements tirés de cette phase de reconnaissance, l'aviation française a entamé ses frappes contre les positions de Daech en Syrie dès le 27 septembre dernier.
