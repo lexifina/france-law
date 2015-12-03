@@ -1,0 +1,9 @@
+# Réponse à la question SEQ150917728
+
+- Question : [SEQ150917728](seq150917728.md) — Télétravail
+
+## Réponse
+
+*Logement, égalité des territoires et ruralité, JO du 2015-12-03, page 3256*
+
+Le télétravail est une pratique encore trop peu répandue en France, bien qu'il présente de nombreux avantages. Le Commissariat général à l'égalité des territoires (CGET), très conscient de ces enjeux a d'ailleurs réalisé en 2014 une étude sur les « Opportunités des territoires à développer le télétravail : modélisation des gains pour les individus, les entreprises et les territoires ». Afin de hisser la France au niveau de ses homologues européens, le Gouvernement a annoncé le 13 mars 2015 à l'occasion du Comité interministériel aux ruralités (mesure n° 16) la décision d'élaborer un plan national de déploiement du télétravail avec les associations d'élus et les partenaires sociaux. Le pilotage de ce plan a été confié au CGET, à la Direction générale du travail (DGT), et à la Direction générale de l'administration et de la fonction publique (DGAFP). Sous l'égide de la DGAFP, des travaux ont d'ores et déjà commencé qui permettront la publication d'un décret cet automne visant à encadrer et soutenir le développement du télétravail dans la fonction publique, il convient de souligner que les services du ministère expérimentent déjà depuis plusieurs années le télétravail qui connaît un vif succès. Avant la fin de l'année, le CGET et la DGT réuniront un premier groupe de travail pour les entreprises et le secteur privé, inaugurant un processus de consultation qui durera plusieurs mois et auquel seront associés des représentants des collectivités territoriales. Le plan devra permettre de sensibiliser et soutenir les acteurs par une large diffusion des expériences, d'apporter un appui au développement des réseaux de lieux d'accueil, et d'améliorer au niveau national l'observation du télétravail.
