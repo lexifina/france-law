@@ -1,8 +1,8 @@
 # Article Annexe
 
-I.-Emplois en administration centrale
+I. - Emplois en administration centrale
 
-1° Secrétaire général, directeur général et directeur
+1° Secrétaire général, directeur général et directeur :
 
 DÉSIGNATION DE L'EMPLOI
 
@@ -32,18 +32,6 @@ Secrétaire général
 
 |
 
-Secrétaire général adjoint
-
-|
-
-1
-
-|
-
-140
-
-|
-
 Directeur général de l'alimentation
 
 |
@@ -68,7 +56,7 @@ Directeur général de l'enseignement et de la recherche
 
 |
 
-Directeur général des politiques agricole, agroalimentaire et des territoires
+Directeur général de la performance économique et environnementale des entreprises
 
 |
 
@@ -116,9 +104,11 @@ Directeur des affaires juridiques
 
 |
 
-2° Vice-président du Conseil général de l'alimentation, de l'agriculture et des espaces ruraux
+2° Vice-président du Conseil général de l'alimentation, de l'agriculture et des espaces ruraux :
 
-DÉSIGNATION DE L'EMPLOI |
+DÉSIGNATION DE L'EMPLOI
+
+|
 
 NOMBRE
 
@@ -144,7 +134,7 @@ Vice-président
 
 |
 
-3° Haut fonctionnaire rattaché au secrétaire général, à un directeur général ou à un directeur d'administration centrale
+3° Haut fonctionnaire rattaché au secrétaire général, à un directeur général ou à un directeur d'administration centrale :
 
 DÉSIGNATION DE L'EMPLOI
 
@@ -166,7 +156,7 @@ Délégué à la mobilité et aux carrières rattaché au secrétaire général
 
 |
 
-3
+2
 
 |
 
@@ -174,7 +164,7 @@ Délégué à la mobilité et aux carrières rattaché au secrétaire général
 
 |
 
-Inspecteur général chef de la brigade nationale d'enquêtes vétérinaires et sanitaires rattaché au directeur général de l'alimentation
+Inspecteur général chef de la brigade nationale d'enquêtes vétérinaires et phytosanitaires rattaché au directeur général de l'alimentation
 
 |
 
@@ -194,11 +184,23 @@ Doyen de l'inspection de l'enseignement agricole rattaché au directeur généra
 
 |
 
-90
+110
 
 |
 
-4° Chef de service ou sous-directeur exerçant des fonctions de directeur général adjoint, d'adjoint à un directeur général ou à un directeur d'administration centrale, chef de service du secrétariat général
+Haut fonctionnaire de défense et de sécurité
+
+|
+
+1
+
+|
+
+100
+
+|
+
+4° Chef de service ou sous-directeur exerçant des fonctions de directeur général adjoint, d'adjoint à un directeur général ou à un directeur d'administration centrale, chef de service du secrétariat général ou des directions générales :
 
 DÉSIGNATION DE L'EMPLOI
 
@@ -216,7 +218,7 @@ par emploi
 
 |
 
-Directeur général adjoint de la direction des politiques agricole, agroalimentaire et des territoires (*)
+Chef de service, secrétaire général adjoint
 
 |
 
@@ -224,23 +226,11 @@ Directeur général adjoint de la direction des politiques agricole, agroaliment
 
 |
 
-120 (*)
+140
 
 |
 
-Adjoint au directeur général des politiques agricole, agroalimentaire et des territoires (*)
-
-|
-
-1
-
-|
-
-120 (*)
-
-|
-
-Adjoint au directeur des affaires financières, sociales et logistiques
+Sous-directeur, adjoint au directeur des affaires financières, sociales et logistiques
 
 |
 
@@ -252,7 +242,7 @@ Adjoint au directeur des affaires financières, sociales et logistiques
 
 |
 
-Directeur adjoint des pêches maritimes et de l'aquaculture
+Sous-directeur, adjoint au directeur des affaires juridiques
 
 |
 
@@ -312,11 +302,129 @@ Chef de service, délégué à l'information et à la communication
 
 |
 
-(*) Emploi occupé par un des chefs de service de la direction générale des politiques agricole, agroalimentaire et des territoires.
+Chef du service du "Développement des filières et de l'emploi"
 
 |
 
-5° Chef de service, adjoint au chef de service ou sous-directeur en charge d'un service ou d'une sous-direction, fonctionnaire en charge d'un département ou d'une mission en administration centrale
+1
+
+|
+
+120
+
+|
+
+Chef du service "Compétitivité et performance environnementale"
+
+|
+
+1
+
+|
+
+120
+
+|
+
+Chef du service "Europe et international"
+
+|
+
+1
+
+|
+
+120
+
+|
+
+Chef du service "Gouvernance et gestion de la politique agricole
+
+commune"
+
+|
+
+1
+
+|
+
+120
+
+|
+
+Directeur adjoint des pêches maritimes et de l'aquaculture
+
+|
+
+1
+
+|
+
+120
+
+|
+
+Chef du service de l'alimentation
+
+|
+
+1
+
+|
+
+120
+
+|
+
+Chef du service des actions sanitaires en production primaire
+
+|
+
+1
+
+|
+
+120
+
+|
+
+Chef du service de la gouvernance et de l'international dans les domaines sanitaire et alimentaire
+
+|
+
+1
+
+|
+
+120
+
+|
+
+Chef du service de l'enseignement technique
+
+|
+
+1
+
+|
+
+120
+
+|
+
+Chef du service de l'enseignement supérieur, de la recherche et de l'innovation
+
+|
+
+1
+
+|
+
+120
+
+|
+
+5° Adjoint au chef de service ou sous-directeur en charge d'un service ou d'une sous-direction, fonctionnaire en charge d'un département ou d'une mission en administration centrale :
 
 DÉSIGNATION DE L'EMPLOI
 
@@ -339,18 +447,6 @@ Secrétariat général
 |
 
 |
-
-|
-
-Adjoint au chef du service des ressources humaines
-
-|
-
-1
-
-|
-
-100
 
 |
 
@@ -390,7 +486,7 @@ Sous-directeur du travail et de la protection sociale
 
 |
 
-Chef de la mission d'audit, d'évaluation et de contrôle des organismes de protection sociale agricole
+Sous-directeur du droit de l'administration, de la concurrence et des procédures juridiques communautaires
 
 |
 
@@ -398,19 +494,9 @@ Chef de la mission d'audit, d'évaluation et de contrôle des organismes de prot
 
 |
 
-80
+100
 
 |
-
-Sous-directeur du droit des personnels, des établissements sous tutelle et des marchés
-
-|
-
-1
-
-|
-
-100 |
 
 Sous-directeur du droit des produits, des politiques sectorielles et des exploitations
 
@@ -469,6 +555,18 @@ Sous-directeur des synthèses statistiques et des revenus
 |
 
 80
+
+|
+
+Adjoint au chef du service des ressources humaines
+
+|
+
+1
+
+|
+
+100
 
 |
 
@@ -532,7 +630,7 @@ Adjoint au délégué à l'information et à la communication
 
 |
 
-Chef de la mission d'administration des services
+Chef de la mission des affaires générales
 
 |
 
@@ -552,19 +650,7 @@ Direction générale de l'alimentation
 
 |
 
-Chef du service de l'alimentation
-
-|
-
-1
-
-|
-
-120
-
-|
-
-Sous-directeur de la qualité de l'alimentation
+Sous-directeur de la politique de l'alimentation
 
 |
 
@@ -585,18 +671,6 @@ Sous-directeur de la sécurité sanitaire des aliments
 |
 
 100
-
-|
-
-Chef du service de la prévention des risques sanitaires de la production primaire
-
-|
-
-1
-
-|
-
-120
 
 |
 
@@ -624,19 +698,7 @@ Sous-directeur de la santé et de la protection animales
 
 |
 
-Chef du service de la coordination des actions sanitaires
-
-|
-
-1
-
-|
-
-120
-
-|
-
-Sous-directeur du pilotage et des politiques sanitaires transversales
+Sous-directeur du pilotage des ressources et actions transversales
 
 |
 
@@ -660,15 +722,7 @@ Sous-directeur des affaires sanitaires européennes et internationales
 
 |
 
-Direction générale de l'enseignement et de la recherche
-
-|
-
-|
-
-|
-
-Chef du service de l'enseignement technique
+Chef de la mission des urgences sanitaires
 
 |
 
@@ -676,7 +730,15 @@ Chef du service de l'enseignement technique
 
 |
 
-120
+80
+
+|
+
+Direction générale de l'enseignement et de la recherche
+
+|
+
+|
 
 |
 
@@ -704,63 +766,7 @@ Sous-directeur des établissements, des dotations et des compétences
 
 |
 
-Chef du service de l'enseignement supérieur, de la recherche et de l'innovation
-
-|
-
-1
-
-|
-
-120
-
-|
-
-Sous-directeur de l'enseignement supérieur et de la recherche
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Sous-directeur de l'innovation
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Direction générale des politiques agricole, agroalimentaire et des territoires
-
-|
-
-|
-
-|
-
-Chef du service de la production agricole
-
-|
-
-1
-
-|
-
-120
-
-|
-
-Sous-directeur des produits et marchés
+Sous-directeur de l'enseignement supérieur
 
 |
 
@@ -772,43 +778,7 @@ Sous-directeur des produits et marchés
 
 |
 
-Sous-directeur des entreprises agricoles
-
-|
-
-1
-
-|
-
-100
-
-|
-
-Chef du service de la forêt, de la ruralité et du cheval
-
-|
-
-1
-
-|
-
-120
-
-|
-
-Sous-directeur de la forêt et du bois
-
-|
-
-1
-
-|
-
-100
-
-|
-
-Sous-directeur du développement rural et du cheval
+Sous-directeur de la recherche, de l'innovation et des coopérations internationales
 
 |
 
@@ -820,55 +790,15 @@ Sous-directeur du développement rural et du cheval
 
 |
 
-Chef du service de la stratégie agroalimentaire et du développement durable
+Direction générale de la performance économique et environnementale des entreprises
 
 |
 
-1
+|
 
 |
 
-120
-
-|
-
-Sous-directeur de l'organisation économique, des industries agroalimentaires et de l'emploi
-
-|
-
-1
-
-|
-
-100
-
-|
-
-Sous-directeur de la biomasse et de l'environnement
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Chef du service des relations internationales
-
-|
-
-1
-
-|
-
-120
-
-|
-
-Sous-directeur des affaires européennes
+Sous-directeur "Filières agroalimentaires"
 
 |
 
@@ -880,7 +810,55 @@ Sous-directeur des affaires européennes
 
 |
 
-Sous-directeur des échanges internationaux
+Sous-directeur "Filières forêt-bois, cheval et bioéconomie"
+
+|
+
+1
+
+|
+
+100
+
+|
+
+Sous-directeur "Compétitivité"
+
+|
+
+1
+
+|
+
+100
+
+|
+
+Sous-directeur "Performance environnementale et valorisation des territoires"
+
+|
+
+1
+
+|
+
+100
+
+|
+
+Sous-directeur "Europe"
+
+|
+
+1
+
+|
+
+100
+
+|
+
+Sous-directeur "International"
 
 |
 
@@ -892,7 +870,19 @@ Sous-directeur des échanges internationaux
 
 |
 
-Sous-directeur de la gouvernance
+Sous-directeur "Gouvernance et pilotage"
+
+|
+
+1
+
+|
+
+80
+
+|
+
+Sous-directeur "Gestion des aides de la politique agricole commune"
 
 |
 
@@ -936,7 +926,7 @@ Sous-directeur de l'aquaculture et de l'économie des pêches
 
 |
 
-6° Directeur de projet
+6° Directeur de projet ou expert de haut niveau :
 
 DÉSIGNATION DE L'EMPLOI
 
@@ -958,7 +948,7 @@ Directeur de projet ou expert de haut niveau
 
 |
 
-10
+8
 
 |
 
@@ -966,7 +956,7 @@ Directeur de projet ou expert de haut niveau
 
 |
 
-7° Chef de centre, de mission ou de département rattachés au secrétariat général, à une direction centrale, à un service central ou à une délégation
+7° Chef de centre, de mission ou de département rattachés au secrétariat général, à une direction centrale, à un service central ou à une délégation :
 
 DÉSIGNATION DE L'EMPLOI
 
@@ -1008,7 +998,7 @@ Chef du centre d'ingénierie des systèmes d'information
 
 |
 
-Chef du département des médias
+Chef du centre d'études et de réalisations informatiques
 
 |
 
@@ -1020,7 +1010,7 @@ Chef du département des médias
 
 |
 
-Chef du département de l'information et de la communication interne
+Chef du département de l'information et des médias
 
 |
 
@@ -1031,3 +1021,13 @@ Chef du département de l'information et de la communication interne
 60
 
 |
+
+Chef du département de la communication et des réseaux
+
+|
+
+1
+
+|
+
+60 |
