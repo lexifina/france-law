@@ -3732,19 +3732,25 @@ C
 
 Grande chancellerie de la légion d'honneur I. - Administration centrale
 
-Désignation de l'emploi
+DÉSIGNATION DE L'EMPLOI
 
 |
 
-Niveau de responsabilités exercées
+NIVEAU
+
+de responsabilités exercées
 
 |
 
-Nombre d'emplois
+NOMBRE
+
+d'emplois
 
 |
 
-Nombre de points par emploi
+NOMBRE
+
+de points par emploi
 
 |
 
@@ -3752,13 +3758,7 @@ Nombre de points par emploi
 
 |
 
-|
-
-|
-
-|
-
-Chargé des affaires générales et des interventions.
+Chef du pôle des dossiers transversaux et étrangers
 
 |
 
@@ -3774,55 +3774,7 @@ B
 
 |
 
-Responsable de la section Légion d'honneur du bureau de la gestion des ordres nationaux.
-
-|
-
-B
-
-|
-
-1
-
-|
-
-24
-
-|
-
-Responsable de la section médaille militaire du bureau de la gestion de ordres nationaux.
-
-|
-
-B
-
-|
-
-1
-
-|
-
-24
-
-|
-
-Responsable de la section ordre national du Mérite du bureau de la gestion des ordres nationaux.
-
-|
-
-B
-
-|
-
-1
-
-|
-
-24
-
-|
-
-Responsable des archives.
+Adjoint au chef du bureau des propositions des ordres nationaux et de la médaille militaire
 
 |
 
@@ -3838,7 +3790,71 @@ B
 
 |
 
-Responsable des décorations françaises données aux étrangers.
+Responsable de la section Légion d'honneur du bureau de la gestion des ordres nationaux
+
+|
+
+B
+
+|
+
+1
+
+|
+
+24
+
+|
+
+Responsable de la section médaille militaire du bureau de la gestion de ordres nationaux
+
+|
+
+B
+
+|
+
+1
+
+|
+
+24
+
+|
+
+Responsable de la section ordre national du Mérite du bureau de la gestion des ordres nationaux
+
+|
+
+B
+
+|
+
+1
+
+|
+
+24
+
+|
+
+Responsable des archives
+
+|
+
+B/ C
+
+|
+
+1
+
+|
+
+18
+
+|
+
+Gestionnaire des décorations françaises données aux étrangers
 
 |
 
@@ -3858,103 +3874,7 @@ C
 
 |
 
-|
-
-|
-
-|
-
-Fondé de pouvoir de l'agence comptable.
-
-|
-
-B
-
-|
-
-1
-
-|
-
-20
-
-|
-
-Fondé de pouvoir du régisseur.
-
-|
-
-C
-
-|
-
-1
-
-|
-
-13
-
-|
-
-Responsable de la comptabilité au bureau des bâtiments.
-
-|
-
-B
-
-|
-
-1
-
-|
-
-20
-
-|
-
-Responsable des marchés publics et du contrôle de gestion.
-
-|
-
-A
-
-|
-
-1
-
-|
-
-26
-
-|
-
-3. Fonctions de secrétariat à responsabilités importantes
-
-|
-
-|
-
-|
-
-|
-
-Secrétaire du grand chancelier de la Légion d'honneur.
-
-|
-
-B
-
-|
-
-1
-
-|
-
-22
-
-|
-
-Secrétaire du secrétaire général.
+Adjoint au chef de bureau de la gestion budgétaire et comptable
 
 |
 
@@ -3970,7 +3890,123 @@ B
 
 |
 
-Secrétaire du chef du service de l'administration générale.
+Fondé de pouvoir de l'agence comptable
+
+|
+
+B
+
+|
+
+1
+
+|
+
+20
+
+|
+
+Fondé de pouvoir du régisseur
+
+|
+
+C
+
+|
+
+1
+
+|
+
+13
+
+|
+
+Responsable de la comptabilité au bureau des bâtiments
+
+|
+
+B
+
+|
+
+1
+
+|
+
+20
+
+|
+
+3. Fonctions de secrétariat à responsabilités importantes
+
+|
+
+Secrétaire du grand chancelier de la Légion d'honneur
+
+|
+
+B
+
+|
+
+1
+
+|
+
+22
+
+|
+
+Secrétaire du secrétaire général
+
+|
+
+B
+
+|
+
+1
+
+|
+
+18
+
+|
+
+Secrétaire du cabinet et webmestre
+
+|
+
+C
+
+|
+
+1
+
+|
+
+12
+
+|
+
+Secrétaire du secrétaire général adjoint
+
+|
+
+B
+
+|
+
+1
+
+|
+
+18
+
+|
+
+Secrétaire du chef du service de l'administration générale
 
 |
 
@@ -3990,13 +4026,7 @@ B
 
 |
 
-|
-
-|
-
-|
-
-Gestionnaire ressources humaines.
+Gestionnaire ressources humaines
 
 |
 
@@ -4004,7 +4034,7 @@ B
 
 |
 
-1
+2
 
 |
 
@@ -4028,37 +4058,11 @@ B
 
 |
 
-5. Fonctions dans les domaines de l'accueil, la sécurité, l'informatique ou l'intendance
+Responsable des traitements de la maison d'éducation de Saint-Denis
 
 |
 
-|
-
-|
-
-|
-
-Agent d'accueil et de sécurité.
-
-|
-
-C
-
-|
-
-2
-
-|
-
-15
-
-|
-
-Gestionnaire des logiciels et matériels informatiques.
-
-|
-
-B
+B/ C
 
 |
 
@@ -4066,35 +4070,11 @@ B
 
 |
 
-22
+17
 
 |
 
-II. - Maisons d'éducation
-
-Désignation de l'emploi
-
-|
-
-Niveau de responsabilités exercées
-
-|
-
-Nombre d'emplois
-
-|
-
-Nombre de points par emploi
-
-|
-
-1. Fonctions dans les domaines de l'accueil, la sécurité, la santé ou l'intendance
-
-|
-
-|
-
-|
+5. Fonctions dans les domaines de l'accueil, la sécurité, l'informatique ou l'intendance
 
 |
 
@@ -4114,7 +4094,51 @@ C
 
 |
 
-Chef cuisinier.
+II. - Maisons d'éducation
+
+DÉSIGNATION DE L'EMPLOI
+
+|
+
+NIVEAU
+
+de responsabilités exercées
+
+|
+
+NOMBRE
+
+d'emplois
+
+|
+
+NOMBRE
+
+de points par emploi
+
+|
+
+1. Fonctions dans les domaines de l'accueil, la sécurité, la santé ou l'intendance
+
+|
+
+Agent d'accueil et de sécurité
+
+|
+
+C
+
+|
+
+4
+
+|
+
+15
+
+|
+
+Chef cuisinier
 
 |
 
@@ -4130,7 +4154,7 @@ C
 
 |
 
-Chef d'équipe atelier.
+Chef d'équipe atelier
 
 |
 
@@ -4146,7 +4170,7 @@ C
 
 |
 
-Chef d'équipe entretien.
+Chef d'équipe entretien
 
 |
 
@@ -4162,7 +4186,7 @@ C
 
 |
 
-Chef magasinier.
+Chef magasinier
 
 |
 
@@ -4178,7 +4202,7 @@ C
 
 |
 
-Infirmière.
+Infirmière
 
 |
 
@@ -4194,11 +4218,11 @@ B
 
 |
 
-Responsable achats/restauration à la maison d'éducation des Loges.
+Responsable achats/restauration à la maison d'éducation des Loges
 
 |
 
-C
+B
 
 |
 
@@ -4210,7 +4234,7 @@ C
 
 |
 
-Responsable de la lingerie.
+Responsable de la lingerie
 
 |
 
@@ -4226,7 +4250,7 @@ C
 
 |
 
-Responsable de l'entretien des jardins.
+Responsable de l'entretien des jardins
 
 |
 
@@ -4242,7 +4266,7 @@ C
 
 |
 
-Veilleur de nuit.
+Veilleur de nuit
 
 |
 
@@ -4262,12 +4286,6 @@ C
 
 |
 
-|
-
-|
-
-|
-
 Secrétaire au secrétariat de la surintendante de la maison d'éducation de Saint-Denis.
 
 |
@@ -4284,7 +4302,7 @@ B
 
 |
 
-Secrétaire au secrétariat de l'intendante de la maison d'éducation de Saint-Denis.
+Secrétaire au secrétariat de l'intendante de la maison d'éducation de Saint-Denis
 
 |
 
@@ -4300,7 +4318,7 @@ C
 
 |
 
-Secrétaire au secrétariat de l'intendante générale de la maison d'éducation des Loges.
+Secrétaire au secrétariat de l'intendante générale de la maison d'éducation des Loges
 
 |
 
@@ -4316,7 +4334,7 @@ C
 
 |
 
-Secrétaire de la surintendante de la maison d'éducation de Saint-Denis.
+Secrétaire de la surintendante de la maison d'éducation de Saint-Denis
 
 |
 
@@ -4332,7 +4350,23 @@ B
 
 |
 
-Secrétaire de l'intendante de la maison d'éducation de Saint-Denis.
+Secrétaire de l'intendante de la maison d'éducation de Saint-Denis
+
+|
+
+B
+
+|
+
+1
+
+|
+
+15
+
+|
+
+Secrétaire de l'intendante générale de la maison d'éducation des Loges
 
 |
 
@@ -4348,39 +4382,7 @@ C
 
 |
 
-Secrétaire de l'intendante générale de la maison d'éducation des Loges.
-
-|
-
-C
-
-|
-
-1
-
-|
-
-15
-
-|
-
-Secrétaire des conseillères principales d'éducation de la maison d'éducation des Loges.
-
-|
-
-C
-
-|
-
-1
-
-|
-
-13
-
-|
-
-Secrétaire du censeur de la maison d'éducation des Loges.
+Secrétaire du censeur de la maison d'éducation des Loges
 
 |
 
@@ -4396,7 +4398,7 @@ B
 
 |
 
-Secrétaire du proviseur adjoint de la maison d'éducation de Saint-Denis.
+Secrétaire du proviseur adjoint de la maison d'éducation de Saint-Denis
 
 |
 
@@ -4412,7 +4414,7 @@ B
 
 |
 
-Secrétaire du service économat de la maison d'éducation des Loges.
+Secrétaire du service économat de la maison d'éducation des Loges
 
 |
 
@@ -4425,31 +4427,5 @@ C
 |
 
 13
-
-|
-
-3. Fonctions dans le domaine des ressources humaines
-
-|
-
-|
-
-|
-
-|
-
-Responsable des traitements.
-
-|
-
-B
-
-|
-
-2
-
-|
-
-17
 
 |
