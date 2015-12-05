@@ -146,6 +146,8 @@ L'article 6 du décret du 30 octobre 1935 modifié portant création de servitud
 
 La loi n° 66-1066 du 31 décembre 1966 établissant des servitudes au profit des lignes de transport public par véhicules guidés sur coussins d'air (aérotrains).
 
+Le chapitre III du titre Ier du livre Ier de la deuxième partie du code des transports.
+
 d) Réseau routier.
 
 Servitudes instituées en application de l'article 3 du décret du 30 octobre 1935 portant création de servitudes de visibilité sur les voies publiques (9) ;
