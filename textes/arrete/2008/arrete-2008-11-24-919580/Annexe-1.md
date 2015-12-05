@@ -236,6 +236,72 @@ Fonctions au niveau de direction dans le service pont sur des navires armés à 
 
 |
 
+Titres pont de la filière "cultures marines"
+
+TITRE SOLLICITÉ
+
+|
+
+FONCTIONS EXERCÉES
+
+|
+
+DURÉE EXIGÉE
+
+|
+
+CONDITIONS
+
+supplémentaires
+
+|
+
+Certificat de marin-ouvrier aux cultures marines, niveau 2.
+
+|
+
+Fonctions pont ou polyvalentes au niveau opérationnel
+
+|
+
+36 mois d'ouvrier dans une entreprise de cultures marines utilisant un navire de charge armé aux cultures marines (1)
+
+|
+
+|
+
+Certificat de patron de navire aux cultures marines, niveau 1.
+
+|
+
+Fonctions pont ou polyvalentes au niveau de direction
+
+|
+
+48 mois dans une entreprise de cultures marines utilisant un navire de charge armé aux cultures marines de moins de 24 mètres ou de moins de 12 mètres pour les dragues (1)
+
+|
+
+|
+
+Certificat de patron de navire aux cultures marines, niveau 2.
+
+|
+
+Fonctions pont ou polyvalentes au niveau de direction
+
+|
+
+60 mois dans une entreprise de cultures marines utilisant un navire de charge armé aux cultures marines de moins de 24 mètres ou de moins de 12 mètres pour les dragues (1)
+
+|
+
+|
+
+(1) Toutefois, la durée d'activité exigée dans une entreprise utilisant un navire non armé aux cultures marines peut être prise en compte sous réserve qu'elle présente le même caractère actif et professionnel et que cette durée d'activité soit attestée par le chef de l'entreprise utilisant un navire. A cet effet, le chef d'entreprise utilisant un navire délivre au candidat une attestation sur la base du modèle figurant en annexe 3 du présent arrêté.
+
+|
+
 Titres pont de la filière "plaisance professionnelle"
 
 Le brevet de capitaine 200 voile s'obtient par cumul du brevet de capitaine 200 et du module 5.
@@ -340,7 +406,7 @@ Fonctions au niveau de direction dans le service pont sur des navires armés en 
 
 |
 
-Titres machine communs aux trois filières
+Titres machine
 
 TITRE SOLLICITÉ
 
