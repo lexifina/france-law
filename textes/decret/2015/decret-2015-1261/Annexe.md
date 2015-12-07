@@ -1,623 +1,1243 @@
 # Article Annexe
 
-ANNEXE
-
 I. - Liste des vins rouges tranquilles bénéficiant d'une appellation d'origine protégée pour lesquels un volume complémentaire individuel peut être constitué
 
-APPELLATION D'ORIGINE PROTÉGÉE |
+APPELLATION D'ORIGINE PROTÉGÉE
+
+|
 
 VOLUME COMPLÉMENTAIRE INDIVIDUEL
 
 maximum de l'appellation pouvant être fixé
 
-pour une récolte donnée (hl/ha) |
+pour une récolte donnée (hl/ha)
+
+|
 
 VOLUME COMPLÉMENTAIRE INDIVIDUEL
 
 total maximum de vins pouvant être stockés
 
-par un producteur donné (hl/ha) |
+par un producteur donné (hl/ha)
 
-Savoie ou Vins de Savoie |
+|
 
-5 |
+Savoie ou Vins de Savoie
 
-20 |
+|
 
-Savoie ou Vins de Savoie suivi du nom d'une entité géographique plus petite |
+5
 
-5 |
+|
 
-18 |
+20
 
-Côtes du Rhône |
+|
 
-5 |
+Savoie ou Vins de Savoie suivi du nom d'une entité géographique plus petite
 
-15 |
+|
 
-Côtes du Rhône Villages |
+5
 
-4 |
+|
 
-12 |
+18
 
-Ventoux |
+|
 
-4 |
+Côtes du Rhône
 
-16 |
+|
 
-Cahors |
+5
 
-5 |
+|
 
-15 |
+15
 
-Bergerac |
+|
 
-6 |
+Côtes du Rhône Villages
 
-20 |
+|
 
-Côtes du Marmandais |
+4
 
-5 |
+|
 
-18 |
+12
 
-Bordeaux |
+|
 
-6 |
+Ventoux
 
-22 |
+|
 
-Bordeaux supérieur |
+4
 
-6 |
+|
 
-20 |
+16
 
-Côtes de Bordeaux |
+|
 
-5 |
+Cahors
 
-18 |
+|
 
-Blaye Côtes de Bordeaux |
+5
 
-5 |
+|
 
-18 |
+15
 
-Cadillac Côtes de Bordeaux |
+|
 
-5 |
+Bergerac
 
-18 |
+|
 
-Castillon Côtes de Bordeaux |
+6
 
-5 |
+|
 
-18 |
+20
 
-Francs Côtes de Bordeaux |
+|
 
-5 |
+Côtes du Marmandais
 
-18 |
+|
 
-Graves de Vayres |
+5
 
-5 |
+|
 
-18 |
+18
 
-Côtes de Bourg |
+|
 
-5 |
+Bordeaux
 
-18 |
+|
 
-Médoc |
+6
 
-5 |
+|
 
-18 |
+22
 
-Haut-Médoc |
+|
 
-5 |
+Bordeaux supérieur
 
-18 |
+|
 
-Graves |
+6
 
-5 |
+|
 
-18 |
+20
 
-Saint-Emilion |
+|
 
-5 |
+Côtes de Bordeaux
 
-18 |
+|
 
-Lussac Saint-Emilion |
+5
 
-5 |
+|
 
-18 |
+18
 
-Puisseguin Saint-Emilion |
+|
 
-5 |
+Blaye Côtes de Bordeaux
 
-18 |
+|
 
-Chinon |
+5
 
-5 |
+|
 
-15 |
+18
 
-Bourgueil |
+|
 
-5 |
+Cadillac Côtes de Bordeaux
 
-17 |
+|
 
-Saint-Nicolas de Bourgueil |
+5
 
-5 |
+|
 
-17 |
+18
+
+|
+
+Castillon Côtes de Bordeaux
+
+|
+
+5
+
+|
+
+18
+
+|
+
+Francs Côtes de Bordeaux
+
+|
+
+5
+
+|
+
+18
+
+|
+
+Graves de Vayres
+
+|
+
+5
+
+|
+
+18
+
+|
+
+Côtes de Bourg
+
+|
+
+5
+
+|
+
+18
+
+|
+
+Médoc
+
+|
+
+5
+
+|
+
+18
+
+|
+
+Haut-Médoc
+
+|
+
+5
+
+|
+
+18
+
+|
+
+Graves
+
+|
+
+5
+
+|
+
+18
+
+|
+
+Saint-Emilion
+
+|
+
+5
+
+|
+
+18
+
+|
+
+Lussac Saint-Emilion
+
+|
+
+5
+
+|
+
+18
+
+|
+
+Puisseguin Saint-Emilion
+
+|
+
+5
+
+|
+
+18
+
+|
+
+Chinon
+
+|
+
+5
+
+|
+
+15
+
+|
+
+Bourgueil
+
+|
+
+5
+
+|
+
+17
+
+|
+
+Saint-Nicolas de Bourgueil
+
+|
+
+5
+
+|
+
+17
+
+|
+
+Montagne Saint-Emilion
+
+|
+
+5
+
+|
+
+18
+
+|
+
+Saint-Georges Saint-Emilion |
+
+5
+
+|
+
+18
+
+|
 
 II. - Liste des vins blancs tranquilles bénéficiant d'une appellation d'origine protégée pour lesquels un volume complémentaire individuel peut être constitué
 
-APPELLATION D'ORIGINE PROTÉGÉE |
+APPELLATION D'ORIGINE PROTÉGÉE
+
+|
 
 VOLUME COMPLÉMENTAIRE INDIVIDUEL
 
 maximum de l'appellation pouvant être fixé
 
-pour une récolte donnée (hl/ha) |
+pour une récolte donnée (hl/ha)
+
+|
 
 VOLUME COMPLÉMENTAIRE INDIVIDUEL
 
 total maximum de vins pouvant être stockés
 
-par un producteur donné (hl/ha) |
+par un producteur donné (hl/ha)
 
-Muscadet |
+|
 
-8 |
+Muscadet
 
-20 |
+|
 
-Muscadet sur lie |
+8
 
-8 |
+|
 
-20 |
+20
 
-Muscadet Sèvre-et-Maine |
+|
 
-8 |
+Muscadet sur lie
 
-20 |
+|
 
-Muscadet Coteaux de la Loire |
+8
 
-8 |
+|
 
-20 |
+20
 
-Muscadet Côte de Grandlieu |
+|
 
-8 |
+Muscadet Sèvre-et-Maine
 
-20 |
+|
 
-Touraine (sans mention complémentaire) |
+8
 
-7 |
+|
 
-20 |
+20
 
-Chinon |
+|
 
-5 |
+Muscadet Coteaux de la Loire
 
-15 |
+|
 
-Menetou-Salon |
+8
 
-7 |
+|
 
-19,5 |
+20
 
-Quincy |
+|
 
-7 |
+Muscadet Côte de Grandlieu
 
-19,5 |
+|
 
-Reuilly |
+8
 
-7 |
+|
 
-19,5 |
+20
 
-Vouvray |
+|
 
-6 |
+Touraine (sans mention complémentaire)
 
-15 |
+|
 
-Bourgogne |
+7
 
-7 |
+|
 
-20 |
+20
 
-Bourgogne Aligoté |
+|
 
-7 |
+Chinon
 
-21 |
+|
 
-Coteaux Bourguignons |
+5
 
-7 |
+|
 
-21 |
+15
 
-Bourgogne Chitry |
+|
 
-7 |
+Menetou-Salon
 
-19 |
+|
 
-Bourgogne Côte Chalonnaise |
+7
 
-7 |
+|
 
-19 |
+19,5
 
-Bourgogne Côte d'Auxerre |
+|
 
-7 |
+Quincy
 
-19 |
+|
 
-Bourgogne Côte Saint-Jacques |
+7
 
-7 |
+|
 
-19 |
+19,5
 
-Bourgogne Coulanges la Vineuse |
+|
 
-7 |
+Reuilly
 
-19 |
+|
 
-Bourgogne La Chapelle Notre Dame |
+7
 
-7 |
+|
 
-19 |
+19,5
 
-Bourgogne Montrecul |
+|
 
-7 |
+Vouvray
 
-19 |
+|
 
-Bourgogne Le Chapitre |
+6
 
-7 |
+|
 
-19 |
+15
 
-Bourgogne Tonnerre |
+|
 
-7 |
+Bourgogne
 
-18 |
+|
 
-Bourgogne Hautes Côtes de Beaune |
+7
 
-6 |
+|
 
-19 |
+20
 
-Bourgogne Hautes Côtes de Nuits |
+|
 
-6 |
+Bourgogne Aligoté
 
-19 |
+|
 
-Petit-Chablis |
+7
 
-10 |
+|
 
-25 |
+21
 
-Chablis |
+|
 
-10 |
+Coteaux Bourguignons
 
-25 |
+|
 
-Chablis accompagnée de la mention Premier cru |
+7
 
-10 |
+|
 
-25 |
+21
 
-Beaune |
+|
 
-5 |
+Bourgogne Chitry
 
-15 |
+|
 
-Beaune premier cru |
+7
 
-5 |
+|
 
-15 |
+19
 
-Mâcon |
+|
 
-5 |
+Bourgogne Côte Chalonnaise
 
-21 |
+|
 
-Mâcon Villages |
+7
 
-7 |
+|
 
-20 |
+19
 
-Mâcon suivi d'une dénomination géographique complémentaire |
+|
 
-7 |
+Bourgogne Côte d'Auxerre
 
-19 |
+|
 
-Marsannay |
+7
 
-6 |
+|
 
-16 |
+19
 
-Montagny |
+|
 
-6 |
+Bourgogne Côte Saint-Jacques
 
-18 |
+|
 
-Montagny 1er cru |
+7
 
-6 |
+|
 
-17 |
+19
 
-Pernand-Vergelesses |
+|
 
-5 |
+Bourgogne Coulanges la Vineuse
 
-15 |
+|
 
-Pernand-Vergelesses premier cru |
+7
 
-5 |
+|
 
-15 |
+19
 
-Pouilly-Fuissé |
+|
 
-7 |
+Bourgogne La Chapelle Notre Dame
 
-18 |
+|
 
-Pouilly-Fuissé suivi du nom d'une unité géographique plus petite |
+7
 
-7 |
+|
 
-17 |
+19
 
-Pouilly-Vinzelles |
+|
 
-7 |
+Bourgogne Montrecul
 
-18 |
+|
 
-Pouilly-Vinzelles suivi du nom d'une unité géographique plus petite |
+7
 
-7 |
+|
 
-17 |
+19
 
-Pouilly-Loché |
+|
 
-7 |
+Bourgogne Le Chapitre
 
-18 |
+|
 
-Pouilly-Loché suivi du nom d'une unité géographique plus petite |
+7
 
-7 |
+|
 
-17 |
+19
 
-Rully |
+|
 
-6 |
+Bourgogne Tonnerre
 
-17 |
+|
 
-Rully premier cru |
+7
 
-6 |
+|
 
-17 |
+18
 
-Saint-Bris |
+|
 
-6 |
+Bourgogne Hautes Côtes de Beaune
 
-19 |
+|
 
-Saint-Romain |
+6
 
-6 |
+|
 
-16 |
+19
 
-Saint-Véran |
+|
 
-6 |
+Bourgogne Hautes Côtes de Nuits
 
-19 |
+|
 
-Saint-Véran suivi du nom d'une unité géographique plus petite |
+6
 
-6 |
+|
 
-18 |
+19
 
-Savigny-lès-Beaune |
+|
 
-5 |
+Petit-Chablis
 
-15 |
+|
 
-Savigny-lès-Beaune premier cru |
+10
 
-5 |
+|
 
-15 |
+25
 
-Viré-Clessé |
+|
 
-6 |
+Chablis
 
-19 |
+|
 
-Viré-Clessé suivi du nom d'une unité géographique plus petite |
+10
 
-6 |
+|
 
-18 |
+25
 
-Bugey |
+|
 
-7 |
+Chablis accompagnée de la mention Premier cru
 
-20 |
+|
 
-Bugey suivi du nom d'une unité géographique plus petite |
+10
 
-4 |
+|
 
-18 |
+25
 
-Roussette du Bugey |
+|
 
-4 |
+Beaune
 
-17 |
+|
 
-Roussette du Bugey suivi du nom d'une unité géographique plus petite |
+5
 
-3 |
+|
 
-15 |
+15
 
-Savoie ou Vins de Savoie |
+|
 
-7 |
+Beaune premier cru
 
-21 |
+|
 
-Savoie ou Vins de Savoie suivi du nom d'une unité géographique plus petite à l'exception de Chignin-Bergeron |
+5
 
-7 |
+|
 
-20 |
+15
 
-Savoie suivi de Chignin-Bergeron |
+|
 
-5 |
+Mâcon
 
-15 |
+|
 
-Roussette de Savoie |
+5
 
-4 |
+|
 
-12 |
+21
 
-Roussette de Savoie suivi du nom d'une unité géographique plus petite |
+|
 
-2 |
+Mâcon Villages
 
-6 |
+|
 
-Bergerac |
+7
 
-5 |
+|
 
-15 |
+20
 
-Côtes de Bergerac |
+|
 
-5 |
+Mâcon suivi d'une dénomination géographique complémentaire
 
-15 |
+|
 
-Montravel |
+7
 
-5 |
+|
 
-15 |
+19
 
-Côtes de Montravel |
+|
 
-5 |
+Marsannay
 
-15 |
+|
 
-Rosette |
+6
 
-5 |
+|
 
-15 |
+16
 
-Bordeaux |
+|
 
-5 |
+Montagny
 
-15 |
+|
 
-Entre-deux-mers |
+6
 
-5 |
+|
 
-15 |
+18
 
-Côtes de Bordeaux - Blaye |
+|
 
-5 |
+Montagny 1er cru
 
-15 |
+|
 
-Graves |
+6
 
-5 |
+|
 
-15 |
+17
+
+|
+
+Pernand-Vergelesses
+
+|
+
+5
+
+|
+
+15
+
+|
+
+Pernand-Vergelesses premier cru
+
+|
+
+5
+
+|
+
+15
+
+|
+
+Pouilly-Fuissé
+
+|
+
+7
+
+|
+
+18
+
+|
+
+Pouilly-Fuissé suivi du nom d'une unité géographique plus petite
+
+|
+
+7
+
+|
+
+17
+
+|
+
+Pouilly-Vinzelles
+
+|
+
+7
+
+|
+
+18
+
+|
+
+Pouilly-Vinzelles suivi du nom d'une unité géographique plus petite
+
+|
+
+7
+
+|
+
+17
+
+|
+
+Pouilly-Loché
+
+|
+
+7
+
+|
+
+18
+
+|
+
+Pouilly-Loché suivi du nom d'une unité géographique plus petite
+
+|
+
+7
+
+|
+
+17
+
+|
+
+Rully
+
+|
+
+6
+
+|
+
+17
+
+|
+
+Rully premier cru
+
+|
+
+6
+
+|
+
+17
+
+|
+
+Saint-Bris
+
+|
+
+6
+
+|
+
+19
+
+|
+
+Saint-Romain
+
+|
+
+6
+
+|
+
+16
+
+|
+
+Saint-Véran
+
+|
+
+6
+
+|
+
+19
+
+|
+
+Saint-Véran suivi du nom d'une unité géographique plus petite
+
+|
+
+6
+
+|
+
+18
+
+|
+
+Savigny-lès-Beaune
+
+|
+
+5
+
+|
+
+15
+
+|
+
+Savigny-lès-Beaune premier cru
+
+|
+
+5
+
+|
+
+15
+
+|
+
+Viré-Clessé
+
+|
+
+6
+
+|
+
+19
+
+|
+
+Viré-Clessé suivi du nom d'une unité géographique plus petite
+
+|
+
+6
+
+|
+
+18
+
+|
+
+Bugey
+
+|
+
+7
+
+|
+
+20
+
+|
+
+Bugey suivi du nom d'une unité géographique plus petite
+
+|
+
+4
+
+|
+
+18
+
+|
+
+Roussette du Bugey
+
+|
+
+4
+
+|
+
+17
+
+|
+
+Roussette du Bugey suivi du nom d'une unité géographique plus petite
+
+|
+
+3
+
+|
+
+15
+
+|
+
+Savoie ou Vins de Savoie
+
+|
+
+7
+
+|
+
+21
+
+|
+
+Savoie ou Vins de Savoie suivi du nom d'une unité géographique plus petite à l'exception de Chignin-Bergeron
+
+|
+
+7
+
+|
+
+20
+
+|
+
+Savoie suivi de Chignin-Bergeron
+
+|
+
+5
+
+|
+
+15
+
+|
+
+Roussette de Savoie
+
+|
+
+4
+
+|
+
+12
+
+|
+
+Roussette de Savoie suivi du nom d'une unité géographique plus petite
+
+|
+
+2
+
+|
+
+6
+
+|
+
+Bergerac
+
+|
+
+5
+
+|
+
+15
+
+|
+
+Côtes de Bergerac
+
+|
+
+5
+
+|
+
+15
+
+|
+
+Montravel
+
+|
+
+5
+
+|
+
+15
+
+|
+
+Côtes de Montravel
+
+|
+
+5
+
+|
+
+15
+
+|
+
+Rosette
+
+|
+
+5
+
+|
+
+15
+
+|
+
+Bordeaux
+
+|
+
+5
+
+|
+
+15
+
+|
+
+Entre-deux-mers
+
+|
+
+5
+
+|
+
+15
+
+|
+
+Côtes de Bordeaux - Blaye
+
+|
+
+5
+
+|
+
+15
+
+|
+
+Graves
+
+|
+
+5
+
+|
+
+15
+
+|
