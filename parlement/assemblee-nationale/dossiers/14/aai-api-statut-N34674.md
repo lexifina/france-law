@@ -1,0 +1,66 @@
+# Statut général des autorités administratives indépendantes et des autorités publiques indépendantes
+
+- Procédure : Proposition de loi ordinaire
+- Législature : 14
+- Identifiant : DLR5L14N34674
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/aai_api_statut
+- Sénat : http://www.senat.fr/dossier-legislatif/ppl15-225.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2015-12-07 : 1er dépôt d'une initiative. (PIONSNR5S259B0225)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2015-12-07 : Renvoi en commission au fond
+      - 2015-12-16 : Nomination de rapporteur
+    - Travaux d'une commission saisie pour avis
+      - 2015-12-16 : Saisine pour avis d'une commission
+      - 2015-12-16 : Nomination de rapporteur
+  - Discussion en séance publique
+    - 2016-02-04 : Discussion en séance publique
+    - 2016-02-04 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2016-02-05 : Dépôt d'une initiative en navette (PIONANR5L14B3476)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2016-02-05 : Renvoi en commission au fond
+      - 2016-03-23 : Nomination de rapporteur
+      - 2016-03-23 : Réunion de commission
+      - 2016-04-26 : Réunion de commission
+      - 2016-04-28 : Réunion de commission
+      - 2016-04-26 : Dépôt de rapport (RAPPANR5L14B3693, PIONANR5L14BTC3693)
+  - Discussion en séance publique
+    - 2016-04-28 : Discussion en séance publique
+    - 2016-04-28 : Décision
+- deuxième lecture
+  - 2016-04-29 : Dépôt d'une initiative en navette (PIONSNR5S259B0568)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2016-04-29 : Renvoi en commission au fond
+      - 2016-05-25 : Dépôt de rapport (RAPPSNR5S259B0568)
+  - Discussion en séance publique
+    - 2016-06-02 : Discussion en séance publique
+    - 2016-06-02 : Décision
+- deuxième lecture
+  - 2016-06-02 : Dépôt d'une initiative en navette (PIONANR5L14B3803)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2016-06-02 : Renvoi en commission au fond
+      - 2016-11-30 : Réunion de commission
+      - 2016-11-30 : Dépôt de rapport (RAPPANR5L14B4262, PIONANR5L14BTC4262)
+  - Discussion en séance publique
+    - 2016-12-08 : Discussion en séance publique
+    - 2016-12-08 : Discussion en séance publique
+    - 2016-12-08 : Décision
+- troisième lecture
+  - 2016-12-08 : Dépôt d'une initiative en navette (PIONSNR5S279B0209)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2016-12-08 : Renvoi en commission au fond
+      - 2016-12-21 : Dépôt de rapport (RAPPSNR5S279B0209)
+  - Discussion en séance publique
+    - 2017-01-10 : Discussion en séance publique
+    - 2017-01-10 : Décision
+- Promulgation de la loi
+  - 2017-01-20 : Promulgation d'une loi
