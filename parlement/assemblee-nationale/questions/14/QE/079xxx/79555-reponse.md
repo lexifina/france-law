@@ -1,0 +1,9 @@
+# Réponse à la question n° 79555
+
+- Question : [79555](79555.md) — Question n° 79555 — règlements locaux de publicité; réforme
+
+## Réponse
+
+*JO du 2015-12-08*
+
+Les nouvelles dispositions issues de la loi Grenelle II ont modifié en profondeur la réglementation de la publicité extérieure et abrogé la loi du 29 décembre 1979. Le maire de la commune concernée a remis en vigueur par arrêté l’ancien règlement de publicité de la commune datant de 1988. Il importe de préciser, que conformément aux délais impartis par la nouvelle réglementation, les anciens règlements locaux de publicité restent applicables pendant dix ans à compter de l’entrée en vigueur de la loi du 12 juillet 2010. Ainsi et conformément à l’article L. 581-14-3 du code de l’environnement, ces anciens règlements de publicité ne deviendront caducs qu’à ce terme. Ainsi, cet ancien règlement local de publicité, en date de 1988, pouvait donc rester en vigueur jusqu’au 14 juillet 2020. En outre, le règlement local de publicité de 2005 ayant été annulé au contentieux, l’ancien règlement local de publicité redevient applicable sans qu’il soit nécessaire de prendre un arrêté en ce sens. En effet, par la réforme de 2010, la réglementation de la publicité extérieure s’est alignée sur le code de l’urbanisme, et l’article L. 121-8 de ce dernier mentionne que l’annulation ou la déclaration d’illégalité d’un document d’urbanisme a pour effet de remettre en vigueur le document d’urbanisme antérieur. L’ancien règlement local de publicité concerné, entre donc automatiquement en vigueur du fait de l’annulation contentieuse du règlement local de publicité. Il est à noter que si le règlement local de publicité de 2005 n’avait pas été annulé par la voie contentieuse, la situation serait différente et que la réglementation nationale en vigueur redeviendrait automatiquement applicable (CE, 28 octobre 2009, SCA l’Armorique maraîchère).
