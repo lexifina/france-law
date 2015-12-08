@@ -1,0 +1,9 @@
+# Réponse à la question n° 37087
+
+- Question : [37087](37087.md) — Question n° 37087 — établissements privés d'hospitalisation, de soins, de cure et de garde à but non lucratif; avenant; conséquences
+
+## Réponse
+
+*JO du 2015-12-08*
+
+La fédération des établissements hospitaliers et d’aide à la personne (FEHAP) a souhaité rénover la convention collective du 31 octobre 1951 afin de prendre en compte les évolutions majeures du secteur sanitaire, social et médico-social qui ont affecté les modes d’exercice des professionnels et l’environnement juridique des établissements. Après de longues et difficiles négociations restées infructueuses, la FEHAP a dénoncé la convention collective et pris une décision unilatérale entérinant les différents points du texte conventionnel qu’elle souhaitait modifier. Pour mettre fin à cette situation précaire liée à l’absence de texte conventionnel applicable aux salariés, les partenaires sociaux ont ensuite repris les négociations qui ont abouti à la signature d’un avenant qui a été agréé par arrêté ministériel du 15 mai 2014. Cet avenant se substitue à la recommandation patronale et restaure notamment les dispositions concernant les classifications et les rémunérations qui sont reprises à l’identique et prévoit des dispositions nouvelles sur lesquelles un consensus est intervenu. Il contient également un engagement à poursuivre les négociations de façon prioritaire sur certains thèmes (complémentaire santé, règles relatives aux promotions, classifications et politique salariale) selon un calendrier préétabli, l’objectif global étant de conjuguer de façon optimale les éléments de contexte actuel, les contraintes liées à l’évolution de l’objectif national des dépenses d’assurance maladie (Ondam), et la nécessaire prise en compte de la situation des salariés, et notamment celle des aides-soignantes intervenant à domicile.
