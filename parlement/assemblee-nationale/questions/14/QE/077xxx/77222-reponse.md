@@ -1,0 +1,9 @@
+# Réponse à la question n° 77222
+
+- Question : [77222](77222.md) — Question n° 77222 — effectifs; perspectives
+
+## Réponse
+
+*JO du 2015-12-08*
+
+Les sapeurs-pompiers volontaires (SPV), au nombre de 193 756 au 31 décembre 2014, constituent, en complémentarité avec les 40 834 sapeurs-pompiers professionnels et les 12 000 militaires et les personnels administratifs et techniques des services départementaux d’incendie et de secours (SDIS), l’ossature du modèle de secours en France. Leur nombre était en légère diminution ces dernières années. Plusieurs actions visant à inverser la tendance à la baisse des effectifs des SPV ont été lancées depuis 2013 afin de mieux répartir la charge opérationnelle et de formation, diminuer la sollicitation individuelle et garantir la ressource mobilisable en cas de crise. Le plan d’action national « Engagement pour le volontariat », signé le 11 octobre 2013 par le ministre de l’Intérieur et les présidents de l’Assemblée des départements de France (ADF), de l’Association des maires de France (AMF), de la Conférence nationale des services d’incendie et de secours (CNSIS), du Conseil national des sapeurs-pompiers volontaires (CNSPV) et de la Fédération nationale des sapeurs-pompiers de France (FNSPF) regroupe 25 mesures ambitieuses et pragmatiques, qui prolongent les efforts envers le soutien au volontariat. Cette démarche de soutienau volontariat irrigue tous les territoires. Il revient aux préfets, aux élus et aux directeurs de SDIS, avec tous les acteurs locaux de décliner cette ambition nationale au plus près de nos concitoyens. J’ai adressé le 26 mai 2015 une circulaire aux préfets qui reprend les objectifs précédents. Pour la première fois depuis 2004, le nombre des sapeurs-pompiers volontaires est reparti à la hausse cette année. Nous comptons ainsi fin décembre 2014, 1028 SPV supplémentaires et 1442 SPV si nous comptons l’intégration des sapeurs-pompiers volontaires du SDIS de Mayotte.
