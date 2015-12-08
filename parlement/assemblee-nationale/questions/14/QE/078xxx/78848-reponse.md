@@ -1,0 +1,9 @@
+# Réponse à la question n° 78848
+
+- Question : [78848](78848.md) — Question n° 78848 — droits familiaux; Haut conseil de la famille; rapport; propositions
+
+## Réponse
+
+*JO du 2015-12-08*
+
+Pour réduire les différences de droits à pension entre les femmes et les hommes, deux politiques publiques complémentaires sont mobilisées : renforcer l’activité des femmes et l’égalité salariale d’une part, et mobiliser des droits familiaux de retraite d’autre part. A cet égard, les droits familiaux de retraite jouent aujourd’hui un rôle essentiel pour réduire les inégalités de retraite entre les femmes et les hommes et représentent une part significative des droits à retraite des femmes. C’est dans ce cadre que le rapport prévu à l’article 22 de la loi du 20 janvier 2014 sur les droits familiaux de retraite, élaboré par Bertrand FRAGONARD, président du Haut conseil de la famille, a été remis le 25 mars 2015 au Parlement. Ce rapport dresse un état des lieux des dispositifs existants (assurance vieillesse des parents au foyer, majorations de durée d’assurance, majorations de pension des familles nombreuses, départ anticipé à la retraite pour les parents de famille nombreuse) et rappelle que l’impact, en termes de retraites, des écarts de salaires entre femmes et hommes sont compensés pour partie par ces droits, en ce qu’ils participent directement à l’augmentation des pensions de droits propres des mères de famille. Il formule également un certain nombre de propositions tout en soulignant la complexité et la sensibilité de l’apport des droits familiaux dans les droits à retraite. Le Gouvernement procède actuellement à une expertise des nombreuses pistes de réforme évoquées, dans un contexte néanmoins très sensible où toute réforme des droits familiaux de retraite doit s’accompagner d’une analyse fine des catégories d’assurés concernés – tout en veillant à ne pas modifier les retraites futures des générations aujourd’hui proches du départ à la retraite.
