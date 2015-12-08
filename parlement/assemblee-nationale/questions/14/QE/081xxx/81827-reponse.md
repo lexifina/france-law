@@ -1,0 +1,9 @@
+# Réponse à la question n° 81827
+
+- Question : [81827](81827.md) — Question n° 81827 — blessures de guerre; homologation
+
+## Réponse
+
+*JO du 2015-12-08*
+
+La circulaire du 11 décembre 1916 a créé un insigne spécial en faveur des blessés de la guerre 1914-1918, afin de distinguer tout militaire ayant reçu une blessure de guerre ou une maladie contractée ou aggravée au service. Le droit au port de cet insigne a, par la suite, été étendu aux blessés de la campagne 1939-1940, puis, par la loi no 52-1224 du 8 novembre 1952, à tout militaire ayant reçu une blessure de guerre durant une campagne quelconque, ce qui permet de prendre en considération les blessures subies au cours d’opérations extérieures. S’agissant plus précisément des victimes de lésions d’ordre psychologique, le trouble psychique post-traumatique fait partie, depuis l’entrée en vigueur du décret du 10 janvier 1992 déterminant les règles et barèmes pour la classification et l’évolution des troubles psychiques de guerre, des affections psychiatriques individualisées pour lesquelles l’accès à une réparation, sous la forme d’une pension militaire d’invalidité, devient envisageable si l’imputabilité peut être médicalement admise. Cette affection est donc considérée, au regard du droit à réparation, comme une blessure et est indemnisée comme telle. En matière de reconnaissance, et conformément aux objectifs d’amélioration de la condition du personnel militaire inscrits dans le rapport annexé à la loi de programmation militaire pour les années 2014 à 2019, le ministre de la défense a souhaité que la définition de la blessure de guerre soit mieux précisée et comprenne, en particulier, les états de stress post-traumatiques. Les conclusions des travaux menés en ce sens ont été intégrées au projet de réforme du dispositif régissant les critères d’attribution de l’insigne des blessés.
