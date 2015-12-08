@@ -1,0 +1,3 @@
+# Article 1er
+
+Les thèmes ouverts à ce type de négociation sont les mesures dont la mise en œuvre est subordonnée par la loi à un accord collectif, à l'exception de ceux mentionnés à l'article L. 1233-21 du code du travail, soit les accords « de méthode » relatifs à la procédure de licenciement.
