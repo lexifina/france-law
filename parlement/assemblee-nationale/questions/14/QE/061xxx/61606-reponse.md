@@ -1,0 +1,9 @@
+# Réponse à la question n° 61606
+
+- Question : [61606](61606.md) — Question n° 61606 — Rhône; moyens
+
+## Réponse
+
+*JO du 2015-12-08*
+
+Les crédits européens sont une source importante d’approvisionnement des associations habilitées au titre de l’aide alimentaire. D’après les dernières données recueillies auprès des associations habilitées nationalement, sur les 258 000 tonnes de denrées distribuées en 2013 à 4,1 millions de personnes, 30,5 % avaient été achetées grâce aux financements européens. C’est la raison pour laquelle les autorités françaises ont, dès l’annonce de la disparition du programme européen d’aide aux plus démunis (PEAD) et de son remplacement par le Fonds européen d’aide aux plus démunis (FEAD), pris des mesures afin d’éviter que la mise en place de ce nouveau fonds ne vienne générer des ruptures d’approvisionnement pour la campagne 2014. C’est notamment à la demande de la France qu’une disposition a été introduite dans ce projet de règlement, finalement adopté le 11 mars 2014, permettant de lancer les marchés d’achat de denrées dès le mois de décembre 2013. Grâce à ces dispositions, deux appels d’offres ont pu être lancés pour la campagne 2014 respectivement le 20 décembre 2013 et le 28 janvier 2014. Le premier de ces appels d’offre, lancé en urgence, portait d’ailleurs exclusivement sur l’achat de lait, produit sur lequel des tensions avaient été signalées. Parallèlement, la France a intensifié ses travaux pour la rédaction du programme opérationnel (PO) nécessaire à la mise en œuvre de ce nouveau fonds. Elle a d’ailleurs été le premier Etat membre à obtenir l’adoption de ce PO par la commission européenne, étape indispensable au versement par la Commission européenne, d’une avance financière au titre du FEAD.
