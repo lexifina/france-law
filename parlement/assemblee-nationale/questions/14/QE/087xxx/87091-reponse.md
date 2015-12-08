@@ -1,0 +1,9 @@
+# Réponse à la question n° 87091
+
+- Question : [87091](87091.md) — Question n° 87091 — décrets; bilan
+
+## Réponse
+
+*JO du 2015-12-08*
+
+La retraite progressive permet aux assurés d’exercer une activité à temps partiel, tout en commençant à percevoir une fraction de leur retraite. Les bénéficiaires de la retraite progressive continuent dans le même temps à cotiser pour leur retraite afin d’améliorer son montant quand ils décideront de cesser définitivement leur activité. Ce dispositif permet ainsi une meilleure transition entre l’emploi et la retraite. Dans le but d’accroître l’attractivité de la retraite progressive et de l’adapter à la réalité de la fin de carrière des seniors, le Gouvernement a assoupli, dans le cadre de la loi no 2014-40 du 20 janvier 2014 garantissant l’avenir et la justice du système de retraite, les conditions d’accès de ce dispositif et l’a rendu plus lisible. Ces règles ont été précisées par le décret no 2014-1513 du 16 décembre 2014. Désormais, à compter du 1er janvier 2015, le droit à la retraite progressive est ouvert à partir de 60 ans et non plus à partir de 62 ans. Pour ouvrir droit à la retraite progressive, l’assuré doit justifier d’au moins 150 trimestres d’assurance et de périodes reconnues équivalentes au régime général et, le cas échéant, auprès d’un ou plusieurs autres régimes obligatoires, y compris les régimes spéciaux. En outre, son barème est désormais simplifié : en remplacement de l’ancien barème par tranches, peu lisible, le pourcentage de retraite perçu sera complémentaire de la quotité de travail. Par exemple, pour un travail à 65 %, l’assuré percevra 35 % de sa retraite. Au 31 décembre 2014, le nombre d’assurés en retraite progressive s’élevait à 3 057 assurés relevant du régime général. Compte tenu de l’entrée en vigueur récente de ce nouveau dispositif, un bilan de son impact n’est pas encore disponible.
