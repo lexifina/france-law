@@ -1,0 +1,9 @@
+# Réponse à la question n° 82835
+
+- Question : [82835](82835.md) — Question n° 82835 — action publique; modernisation
+
+## Réponse
+
+*JO du 2015-12-08*
+
+Le cycle des évaluations annoncées en décembre 2013 n’a pas intégré la question de la réduction des effectifs de l’Etat à l’étranger dédiés aux fonctions support. Cette question s’inscrit dans les suites réservées à l’évaluation relative à l’organisation et pilotage des réseaux à l’étranger conduite conjointement par l’inspection générale des affaires étrangères et du développement international et l’inspection générale des finances (leurs recommandations ont été actées dans la décision no 2 du CIMAP). De février à décembre 2014, les réunions du comité interministériel des réseaux internationaux de l’Etat (CORINTE) ont été principalement consacrées à la mise en œuvre de ces recommandations. Les services communs de gestion (SCG) des ambassades ont vu leurs compétences généralisées et leur recours est devenu obligatoire pour tous les services de l’Etat afin qu’ils ne se consacrent qu’à leur cœur de métier. Toutes les possibilités de mutualisation et de rationalisation susceptibles d’améliorer l’efficacité des services sont recherchées afin de générer des économies d’échelle. De manière pratique, une expérimentation a été lancée en juin 2015 dans sept pays (Afrique du sud, Allemagne, Hongrie, Mexique, République tchèque, Slovaquie et Thaïlande) sur le parc automobile. S’agissant des opérateurs, l’offre de service ne concerne que les services non financiers. Une enquête a été menée pour dresser un état des lieux de leurs besoins. Ces conclusions montrent que les SCG offrent déjà leurs services ou invitent les opérateurs à la mutualisation des moyens. Ainsi, dans la plupart des postes, un soutien est donné pour ce qui relève des affaires protocolaires, de la veille juridique et du réglement des charges sociales.
