@@ -1,0 +1,9 @@
+# Réponse à la question n° 34962
+
+- Question : [34962](34962.md) — Question n° 34962 — associations; revendications
+
+## Réponse
+
+*JO du 2015-12-08*
+
+Les besoins de professionnalisation et de qualification dans le champ médico-social et dans celui de l’aide à domicile notamment sont extrêmement importants, principalement aux premiers niveaux de qualification. Afin de mieux répondre à ces besoins et pour faciliter la mobilité et les parcours professionnels, plusieurs chantiers sont ouverts. Il s’agit d’une part de tirer les enseignements de l’évaluation de la réingénierie des diplômes de travail social et d’engager, sous l’égide de la commission professionnelle consultative du travail social et de l’intervention sociale, une réflexion sur l’architecture des diplômes qui conduira à réinterroger chaque niveau de diplôme, dans un objectif d’amélioration des formations et des parcours professionnels des professionnels, à la fois en termes d’évolution des niveaux de compétence, mais également, en termes de perspectives élargies de parcours. Le plan d’actions issu des EGTS, et le rapport de Brigitte Bourguignon, touchant tout particulièrement à ces sujets seront, dans ce cadre, les trames des réflexions à venir. Celles-ci intégreront la nécessité de fluidifier les parcours en travaillant spécifiquement la question des passerelles entre diplômes et formations des champs connexes, notamment avec les baccalauréats professionnels et avec les diplômes du champ sanitaire. De surcroit plusieurs « plans métiers » sont en cours de préparation, notamment un plan des métiers de l’autonomie qui vise à stimuler et accompagner le développement des emplois dans le champ concerné, à faire de ces métiers des leviers d’insertion et de promotion et à développer la qualification pour améliorer la qualité du service rendu aux usagers.
