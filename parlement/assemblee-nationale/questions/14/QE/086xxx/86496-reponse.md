@@ -1,0 +1,9 @@
+# Réponse à la question n° 86496
+
+- Question : [86496](86496.md) — Question n° 86496 — attribution; contrôles
+
+## Réponse
+
+*JO du 2015-12-08*
+
+Les aides personnelles au logement sont attribuées aux foyers, en fonction de leurs ressources, lorsqu’ils paient un minimum de loyer ou acquittent un remboursement de prêt pour l’acquisition d’un logement. Lorsque le loyer n’est plus payé, une procédure permettant le maintien de l’aide vise à protéger les locataires contre les expulsions locatives. Ainsi, lorsque l’organisme débiteur de prestations familiales constate qu’un impayé est constitué, il saisit le bailleur aux fins de mise en place d’un plan d’apurement ou saisit un fonds local d’aide au logement pour la mise en place d’un dispositif d’apurement accompagné par les aides que ce fonds peut accorder. Pendant cette procédure, les aides personnelles au logement sont maintenues. Si un plan ou dispositif d’apurement n’a pas pu être mis en place ou si ce dernier n’est pas respecté par le locataire, les aides personnelles au logement sont suspendues. Le déménagement de l’allocataire peut constituer parfois le moyen de résoudre ses difficultés financières par la location d’un nouveau logement dont le loyer est devenu compatible avec ses revenus. Dans ce cas, l’aide personnelle au logement donne lieu à un nouveau droit en fonction de la situation nouvelle dans laquelle se trouve le foyer. Le droit aux aides personnelles au logement n’étant attribué qu’au titre d’un seul logement, il est ainsi mis fin au droit au titre de l’ancien logement et, en conséquence, à la procédure d’impayé qui s’y rattache. L’apurement de la dette locative au titre de l’ancien logement relève alors exclusivement des rapports entre bailleurs et locataires. Celui-ci ne peut trouver une solution au niveau des organismes débiteurs de prestations familiales qui ne sont pas compétents pour intervenir dans ce type de litige qui relève des juridictions civiles.
