@@ -1,0 +1,9 @@
+# Réponse à la question n° 56680
+
+- Question : [56680](56680.md) — Question n° 56680 — arrêt de la Cour de cassation; conséquences
+
+## Réponse
+
+*JO du 2015-12-08*
+
+Conformément aux dispositions de l’article L. 512-2 du code de la sécurité sociale, le droit aux prestations familiales est ouvert aux ressortissants étrangers si ces derniers sont en séjour régulier sur le territoire français et si les enfants dont ils ont la charge et au titre desquels ils demandent ces prestations sont entrés et séjournent régulièrement en France. Par deux arrêts du 5 avril 2013, la Cour de cassation a écarté l’application de ces dispositions à des ressortissants d’Etats – dans les cas d’espèce, il s’agissait de la Turquie et de l’Algérie – au motif que leur Etat a signé avec l’Union européenne un accord d’association comportant une clause d’égalité de traitement. Ce principe de non discrimination bénéficie aux travailleurs ressortissants de ces Etats, titulaires d’un titre de séjour régulier, à la condition qu’ils résident ou travaillent légalement sur le territoire d’un Etat membre de l’Union. Il en résulte que les conditions d’ouverture du droit aux prestations familiales de ces ressortissants sont examinées de la même façon que pour une famille de nationalité française. Ces ressortissants doivent notamment justifier de la charge effective et permanente des enfants et résider en France de façon stable et régulière, de même que les enfants dont ils ont la charge. Il s’agit donc du versement d’allocations familiales à des enfants qui vivent et résident en France, avec leurs parents, lorsque ceux-ci sont en situation régulière au regard du droit du séjour. Ces conditions font d’ores et déjà l’objet de contrôles réguliers par les organismes débiteurs de prestations familiales et d’une information des allocataires sur leur obligation de signaler aux organismes payeurs tout transfert de leur résidence hors de France.
