@@ -1,0 +1,9 @@
+# Réponse à la question n° 6886
+
+- Question : [6886](6886.md) — Question n° 6886 — infirmiers; nomenclature des actes
+
+## Réponse
+
+*JO du 2015-12-08*
+
+Les professionnels de santé libéraux bénéficient d’une indemnisation de leur frais de déplacement versée par leur caisse primaire d’assurance maladie (CPAM). Les modalités de calcul de cette indemnité sont définies dans la liste des actes et prestations mentionnée à l’article L. 162-1-7 du code de la sécurité sociale. Cette liste prévoit, d’une part, le versement d’une indemnité forfaitaire de déplacement lorsque la résidence du malade et le domicile professionnel de l’infirmier sont situés dans la même agglomération ou lorsque la distance qui les sépare est inférieure à deux kilomètres et, d’autre part, le versement d’une indemnité horokilométrique lorsque la résidence du malade et le domicile professionnel du professionnel de santé ne sont pas situés dans la même agglomération ou lorsque la distance qui les sépare est supérieure à 2 km. La notion d’agglomération retenue par l’union nationale des caisses d’assurance maladie pour le calcul de ces indemnités de déplacement est celle de l’institut national de la statistique et des études économiques (INSEE) en vertu de laquelle une agglomération correspond à une "unité urbaine", c’est à dire à une commune ou un ensemble de communes présentant une zone de bâti continu (pas de coupure de plus de 200 mètres entre deux constructions) qui compte au moins 2 000 habitants. Cette définition de l’agglomération n’a fait l’objet d’aucun changement à ce jour et s’applique à l’ensemble des CPAM sans exception. L’initiative locale mentionnée par le député n’a pas été poursuivie et n’a pas donné lieu à récupération d’indus. Le Gouvernement et l’union nationale des caisses d’assurance maladie (UNCAM), qui mènent depuis plusieurs années une véritable politique de lutte contre les déserts médicaux, veillent à la bonne application de ces mesures.
