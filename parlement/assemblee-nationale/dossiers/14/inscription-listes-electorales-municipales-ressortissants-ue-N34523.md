@@ -1,0 +1,53 @@
+# Rénovation des modalités d'inscription sur les listes électorales des ressortissants d'un Etat membre de l'Union européenne autre que la France pour les élections municipales
+
+- Procédure : Projet ou proposition de loi organique
+- Législature : 14
+- Identifiant : DLR5L14N34523
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/inscription_listes_electorales_municipales_ressortissants_ue
+- Sénat : http://www.senat.fr/dossier-legislatif/ppl15-654.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2015-12-09 : 1er dépôt d'une initiative. (PIONANR5L14B3338)
+  - 2016-05-06 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2015-12-09 : Renvoi en commission au fond
+      - 2016-04-27 : Nomination de rapporteur
+      - 2016-04-27 : Réunion de commission
+      - 2016-05-18 : Réunion de commission
+      - 2016-05-31 : Réunion de commission
+      - 2016-05-18 : Dépôt de rapport (RAPPANR5L14B3763, PIONANR5L14BTC3763)
+  - Discussion en séance publique
+    - 2016-05-31 : Discussion en séance publique
+    - 2016-05-31 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2016-06-01 : Dépôt d'une initiative en navette (PIONSNR5S259B0654)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2016-06-01 : Renvoi en commission au fond
+      - 2016-05-25 : Nomination de rapporteur
+      - 2016-06-15 : Dépôt de rapport (RAPPSNR5S259B0654)
+  - Discussion en séance publique
+    - 2016-06-28 : Discussion en séance publique
+    - 2016-06-28 : Décision
+- Commission Mixte Paritaire
+  - 2016-06-29 : Dépôt d'un projet de loi (PIONANR5L14B3891)
+  - 2016-06-29 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2016-07-12 : Nomination de rapporteur
+    - 2016-07-12 : Dépôt du rapport d'une CMP (RAPPANR5L14B3945)
+    - 2016-07-12 : Dépôt du rapport d'une CMP (RAPPSNR5S259B0779)
+  - Discussion en séance publique
+    - 2016-07-19 : Discussion en séance publique
+    - 2016-07-19 : Décision
+  - Discussion en séance publique
+    - 2016-07-19 : Discussion en séance publique
+    - 2016-07-19 : Décision
+  - 2016-07-12 : Décision de la CMP
+- Conseil constitutionnel
+  - 2016-07-20 : Saisine du conseil constitutionnel
+  - 2016-07-28 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2016-08-01 : Promulgation d'une loi
