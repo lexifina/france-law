@@ -10,17 +10,23 @@ Lorsque le calcul est réalisé selon la méthode des consommations relevées, l
 
 La date de la version de l'arrêté utilisé figure sur le diagnostic de performance énergétique, à côté des frais mentionnés à l'alinéa précédent.
 
-Tableau des tarifs des énergies (15 août 2011)
+Tableau des tarifs des énergies (15 août 2015)
 
 |
 
-ABONNEMENT (en euros TTC) |
+ABONNEMENT
 
-PRIX DU kWh
+(en euros TTC)
+
+|
+
+PRIX DU KWH
 
 (énergie finale)
 
-(en centimes d'euro TTC) |
+(en centimes d'euro TTC)
+
+|
 
 Fioul
 
@@ -28,7 +34,7 @@ Fioul
 
 |
 
-8,63
+7,20
 
 |
 
@@ -40,7 +46,7 @@ Compris dans le prix du kWh indiqué à droite
 
 |
 
-7,48 (TVA à 5,5 % sur abonnement)
+8,81 (TVA à 5,5 % sur abonnement)
 
 |
 
@@ -50,7 +56,7 @@ Propane (en kWh PCS)
 
 |
 
-12,96
+11,51
 
 |
 
@@ -70,67 +76,11 @@ Bois
 
 |
 
-3,53
+3,94
 
 |
 
-Gaz distribué (en kWh PCS) :
-
-|
-
-|
-
-|
-
-- de 0 à 1 000 kWh en consommation annuelle
-
-|
-
-44,69
-
-|
-
-9,10
-
-|
-
-- de 1 000 à 7 000 kWh en consommation annuelle
-
-|
-
-59,00
-
-|
-
-7,75
-
-|
-
-- de 7 000 à 30 000 kWh en consommation annuelle
-
-|
-
-186,86
-
-|
-
-5,24
-
-|
-
-- au-delà de 30 000 kWh en consommation annuelle
-
-|
-
-186,86
-
-|
-
-5,24
-
-|
-
-Electricité (les consommations indiquées concernent le chauffage, la production d'eau chaude sanitaire et le refroidissement) :
+Gaz distribué (en kWh PCS)
 
 |
 
@@ -138,7 +88,55 @@ Electricité (les consommations indiquées concernent le chauffage, la productio
 
 |
 
-- simple tarif
+-de 0 à 1 000 kWh en consommation annuelle
+
+|
+
+74,75
+
+|
+
+9,75
+
+|
+
+-de 10 000 à 7 000 kWh en consommation annuelle
+
+|
+
+89,39
+
+|
+
+7,65
+
+|
+
+-de 7 000 à 30 000 kWh en consommation annuelle
+
+|
+
+234,01
+
+|
+
+5,27
+
+|
+
+-au-delà de 30 000 kWh en consommation annuelle
+
+|
+
+234,01
+
+|
+
+5,27
+
+|
+
+Electricité (les consommations indiquées concernent le chauffage, la production d'eau chaude sanitaire et le refroidissement)
 
 |
 
@@ -146,39 +144,23 @@ Electricité (les consommations indiquées concernent le chauffage, la productio
 
 |
 
-6 kVA
-
-|
-
-78,25
-
-|
-
-11,86
-
-|
-
-9 kVA
-
-|
-
-91,25
-
-|
-
-12,09
-
-|
-
-- double tarif
+-simple tarif
 
 |
 
 |
 
-Heures pleines (13,11)/
+|
 
-heures creuses (8,93) (*)
+3 kVA
+
+|
+
+53,27
+
+|
+
+14,40
 
 |
 
@@ -186,11 +168,11 @@ heures creuses (8,93) (*)
 
 |
 
-94,06
+86,48
 
 |
 
-11,44
+14,40
 
 |
 
@@ -198,11 +180,45 @@ heures creuses (8,93) (*)
 
 |
 
-112,87
+114,63
 
 |
 
-11,44
+14,40
+
+|
+
+-double tarif
+
+|
+
+|
+
+Heures pleines (15.72)/ Heures creuses (10,96) (*)
+
+|
+
+6 kVA
+
+|
+
+92,53
+
+|
+
+13,82
+
+|
+
+9 kVA
+
+|
+
+123,95
+
+|
+
+13,82
 
 |
 
@@ -210,11 +226,11 @@ heures creuses (8,93) (*)
 
 |
 
-191,59
+200,68
 
 |
 
-11,44
+13,82
 
 |
 
@@ -222,11 +238,11 @@ heures creuses (8,93) (*)
 
 |
 
-225,47
+232,54
 
 |
 
-11,44
+13,82
 
 |
 
@@ -234,14 +250,12 @@ heures creuses (8,93) (*)
 
 |
 
-257,19
+261,62
 
 |
 
-11,44
+13,82
 
 |
 
-(*) Estimation avec une répartition forfaitaire de la consommation entre heures pleines et heures creuses (respectivement 60 % et 40 %) pour le chauffage et une production d'eau chaude sanitaire effectuée intégralement en heures creuses.
-
-|
+(*) Estimation avec une répartition forfaitaire de la consommation entre heures pleines et heures creuses (respectivement 60 % et 40 %) pour le chauffage et une production d'eau chaude sanitaire effectuée intégralement en heures creuses. |
