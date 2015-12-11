@@ -1,0 +1,13 @@
+# Réponse à la question SEQ15120674G
+
+- Question : [SEQ15120674G](seq15120674g.md) — Éducation à l'environnement
+
+## Réponse
+
+*Éducation nationale, enseignement supérieur et recherche, JO du 2015-12-11, page 12710*
+
+Mme Najat Vallaud-Belkacem, ministre de l'éducation nationale, de l'enseignement supérieur et de la recherche. Madame la sénatrice, je partage votre conviction que l'éducation a un rôle majeur à jouer dans ces enjeux fondamentaux que sont le développement durable et la lutte contre le changement climatique. Ce n'est pas un hasard, en effet, si vendredi dernier, à la COP 21, l'événement que nous avions organisé autour de l'éducation au développement durable a rencontré un tel succès : de très nombreux ministres de l'éducation nationale venant du monde entier étaient là pour discuter des moyens mis en œuvre afin d'atteindre cet objectif. Vous faites partie de ceux qui ont insisté, et je vous en remercie, pour inscrire l'éducation au développement durable et à l'environnement dans le code de l'éducation. Aujourd'hui, tout cela prend forme. La révision récente des programmes scolaires a permis que soit désormais intégré le développement durable, et ce dans plusieurs disciplines. Il ne s'agit pas d'une discipline à part entière, j'insiste sur ce point, car une telle transversalité est importante. De plus, la réforme du collège, qui introduit des enseignements pratiques interdisciplinaires, a prévu précisément un programme consacré au développement durable.
+
+Enfin, la pédagogie de projet permet de développer, du plus jeune âge au plus élevé, l'éducation au développement durable, qu'il s'agisse des jardins pédagogiques, des sorties scolaires dans la nature, des concours comme celui qui est consacré au développement durable, de la labellisation des établissements scolaires qui prennent le plus d'initiatives en la matière. Pour donner plus de force à tout cela, j'ai nommé quarante-quatre coordonnateurs académiques sur la question de l'éducation au développement durable, qui sont chargés d'être proactifs dans tous les établissements scolaires.
+
+Pour conclure, je suis la première à regretter que les scolaires n'aient pu se rendre à la COP 21. Il s'agissait néanmoins d'une question de sécurité, chacun le comprendra ici. Nous avons considéré, au vu de la situation, qu'il n'était pas prudent d'envoyer plusieurs milliers de jeunes élèves au Bourget. Pour autant, dans tous les établissements scolaires concernés, de nombreuses activités ont été organisées. Je vous ferai partager avec grand plaisir le résultat de ces initiatives. (Applaudissements sur les travées du groupe socialiste et républicain et du groupe écologiste.)
