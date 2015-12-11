@@ -1,0 +1,12 @@
+# projet de loi autorisant l'approbation du quatrième avenant à la convention entre la France et le Grand-Duché de Luxembourg tendant à éviter les doubles impositions et à établir des règles d'assistance administrative réciproque en matière d'impôts sur le revenu et sur la fortune
+
+- Type : Projet de loi
+- Sous-type : autorisant la ratification d'une convention
+- Dénomination : Projet de loi
+- Provenance : Texte Déposé
+- Titre court : Accord France-Luxembourg doubles impositions
+- Déposé le : 2015-12-11
+- Publié le : 2015-12-16
+- Dossier : DLR5L14N34082
+- Auteurs : Sénat ( 5ème République )
+- Identifiant : PRJLSNR5S259B0250
