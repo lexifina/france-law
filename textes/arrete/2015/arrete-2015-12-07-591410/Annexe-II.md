@@ -1,8 +1,8 @@
-# Article ANNEXE II
+# Article Annexe II
 
 UNITÉS ET FORMATIONS ÉLIGIBLES - ATAF RÉGIME ÉLARGI
 
-Organismes dépendant de la direction générale de la sécurité extérieure
+Organismes dépendant de la direction générale de la sécurité extérieure.
 
 Commandement des opérations spéciales.
 
@@ -18,19 +18,7 @@ Centre parachutiste d'entraînement spécialisé.
 
 Centre parachutiste d'instruction spécialisée.
 
-Base des fusiliers marins et des commandos.
-
-Commando de Montfort.
-
-Commando de Penfentenyo.
-
-Commando Hubert.
-
-Commando Jaubert.
-
-Commando Kieffer.
-
-Commando Trepel.
+Commandos de marine.
 
 Commando parachutiste de l'air n° 10.
 
@@ -57,3 +45,5 @@ Les hautes représentations nationales auprès des organismes alliés.
 Les éléments de soutien national auprès des organismes alliés.
 
 Détachement de liaison auprès du United States Central Command.
+
+Centre interarmées des actions sur l'environnement.
