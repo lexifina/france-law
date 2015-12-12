@@ -1,6 +1,6 @@
 # Article Annexe 4
 
-LISTE DES SOCIETES INSTALLATRICES HABILITEES POUR L'INSTALLATION ET LE CONTROLE DE FONCTIONNEMENT DES APPAREILS AIS
+Liste des sociétés installatrices habilitées pour l'installation et le contrôle de fonctionnement des appareils AIS
 
 |
 
@@ -40,7 +40,7 @@ ATEYS
 
 |
 
-35, rue de Valmy, 6600 Le Havre
+35, rue de Valmy, 76600 Le Havre
 
 |
 
@@ -68,7 +68,7 @@ OceanSat
 
 |
 
-CLAUDIN SERVICES
+CLAUDIN SERVICE
 
 |
 
@@ -76,7 +76,7 @@ CLAUDIN SERVICES
 
 |
 
-Orolia type Z 601, Mc Murdo Smartfind M5 Class A/ inland AIS
+Orolia type Z 601, McMurdo Smartfind M5 Class A/inland AIS
 
 |
 
@@ -84,7 +84,9 @@ Orolia type Z 601, Mc Murdo Smartfind M5 Class A/ inland AIS
 
 |
 
-Etablissement Max Guerdin et fils
+Etablissement
+
+Max Guerdin et fils
 
 |
 
@@ -132,6 +134,24 @@ OceanSat
 
 |
 
+FLUVIATECH
+
+|
+
+4, rue Jules-Verne, Eurozone Forbach, 57600 Forbach
+
+|
+
+Carbon pro
+
+Combined Class A/inland AIS
+
+|
+
+9
+
+|
+
 G2HE
 
 |
@@ -144,7 +164,7 @@ OceanSat
 
 |
 
-9
+10
 
 |
 
@@ -160,7 +180,7 @@ Nauticast, Furuno, Transas, Comnav
 
 |
 
-10
+11
 
 |
 
@@ -176,7 +196,7 @@ Furuno, OceanSat
 
 |
 
-11
+12
 
 |
 
@@ -192,7 +212,7 @@ Saab R4 IAIS, CNS VDL6000, SRT Comnav Voyager X3
 
 |
 
-12
+13
 
 |
 
@@ -208,7 +228,7 @@ ICOM
 
 |
 
-13
+14
 
 |
 
@@ -216,7 +236,7 @@ THEMYS
 
 |
 
-Quartier de la chaume, CD 45, pont de l'Etoile, 13360 Roquevaire
+Quartier de la Chaume, CD 45, pont de l'Etoile, 13360 Roquevaire
 
 |
 
@@ -224,4 +244,6 @@ SAM Electronics, Saab R4 IAIS
 
 |
 
-(*) Certains types d'appareils n'ont pas reçu d'agrément conformément au règlement de visite des bateaux du Rhin. |
+(*) Certains types d'appareils n'ont pas reçu d'agrément conformément au règlement de visite des bateaux du Rhin.
+
+|
