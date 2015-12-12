@@ -108,7 +108,7 @@ Mise en jeu de la garantie
 
 En cas de non-exécution par l'exploitant d'une ou des obligations mises à sa charge et ci-dessus mentionnées, la présente garantie pourra être mise en jeu uniquement par le préfet par lettre recommandée avec demande d'avis de réception adressée au garant à l'adresse ci-dessus indiquée, dans l'un des cas suivants :
 
-― soit après mise en jeu de la mesure de consignation prévue à l'article L. 514-1 du code de l'environnement, c'est-à-dire lorsque l'arrêté de consignation et le titre de perception rendu exécutoire ont été adressés à l'exploitant mais sont restés partiellement ou totalement infructueux ;
+― soit après mise en jeu de la mesure de consignation prévue à l'article L. 171-81 du code de l'environnement, c'est-à-dire lorsque l'arrêté de consignation et le titre de perception rendu exécutoire ont été adressés à l'exploitant mais sont restés partiellement ou totalement infructueux ;
 
 ― soit en cas d'ouverture d'une procédure de liquidation judiciaire à l'encontre de l'exploitant ;
 
@@ -132,4 +132,22 @@ La présente garantie est soumise au droit français avec compétence des tribun
 
 Fait à (9), le (10).
 
-(1) Personne morale de droit privé ou public ou personne physique (désignation complète). (2) Date de l'arrêté préfectoral. (3) Catégorie d'installation autorisée avec les numéros de rubrique correspondants de la nomenclature des installations classées et le lieu de l'implantation de l'installation. (4) Variante 1 (pour les installations de stockage de déchets et conformément au 1° du IV de l'article R. 516-2 du code de l'environnement) : a) La surveillance du site ; b) Les interventions en cas d'accident ou de pollution ; c) La remise en état du site après exploitation. Variante 2 (pour les carrières et conformément au 2° du IV de l'article R. 516-2 du code de l'environnement) : la remise en état du site après exploitation et éventuellement surveillance et intervention en cas d'accident de déchets inertes. Variante 3 (pour les installations figurant sur la liste prévue à l'article L. 515-8 du code de l'environnement et conformément au 3° du IV de l'article R. 516-2 du code de l'environnement) : a) La surveillance et le maintien en sécurité de l'installation en cas d'événement exceptionnel susceptible d'affecter l'environnement ; b) Les interventions en cas d'accidents ou de pollution. Variante 4 (pour les installations figurant sur la liste prévue au 5° de l'article R. 516-1 du code de l'environnement et conformément au 5° du IV de l'article R. 516-2 du code de l'environnement) : a) La mise en sécurité du site dans les conditions fixées par les articles R. 512-39-1 et R. 512-46-25 ; b) En cas de constitution d'une garantie additionnelle, les mesures de gestion de la pollution des sols ou des eaux souterraines. Pour la variante 1, l'acte de garantie peut ne viser que l'un des objets a, b ou c. Pour les variantes 3 et 4, il peut ne viser que l'un des objets a ou b. (5) Montant en chiffres et en lettres ; pour la variante 1, le montant maximum de chaque objet peut être indiqué dans la mesure où les objets peuvent être distingués. (6) Date d'effet de la garantie. (7) Date d'expiration de la garantie. Cette date ne peut pas être fixée moins de deux années après la date d'effet de la garantie. (8) Délai de préavis. (9) Lieu d'émission. (10) Date.
+(1) Personne morale de droit privé ou public ou personne physique (désignation complète).
+
+(2) Date de l'arrêté préfectoral.
+
+(3) Catégorie d'installation autorisée avec les numéros de rubrique correspondants de la nomenclature des installations classées et le lieu de l'implantation de l'installation.
+
+(4) Variante 1 (pour les installations de stockage de déchets et conformément au 1° du IV de l'article R. 516-2 du code de l'environnement) : a) La surveillance du site ; b) Les interventions en cas d'accident ou de pollution ; c) La remise en état du site après exploitation. Variante 2 (pour les carrières et conformément au 2° du IV de l'article R. 516-2 du code de l'environnement) : la remise en état du site après exploitation et éventuellement surveillance et intervention en cas d'accident de déchets inertes. Variante 3 (pour les installations figurant sur la liste prévue à l'article L. 515-8 du code de l'environnement et conformément au 3° du IV de l'article R. 516-2 du code de l'environnement) : a) La surveillance et le maintien en sécurité de l'installation en cas d'événement exceptionnel susceptible d'affecter l'environnement ; b) Les interventions en cas d'accidents ou de pollution. Variante 4 (pour les installations figurant sur la liste prévue au 5° de l'article R. 516-1 du code de l'environnement et conformément au 5° du IV de l'article R. 516-2 du code de l'environnement) : a) La mise en sécurité du site dans les conditions fixées par les articles R. 512-39-1 et R. 512-46-25 ; b) En cas de constitution d'une garantie additionnelle, les mesures de gestion de la pollution des sols ou des eaux souterraines. Pour la variante 1, l'acte de garantie peut ne viser que l'un des objets a, b ou c. Pour les variantes 3 et 4, il peut ne viser que l'un des objets a ou b.
+
+(5) Montant en chiffres et en lettres ; pour la variante 1, le montant maximum de chaque objet peut être indiqué dans la mesure où les objets peuvent être distingués.
+
+(6) Date d'effet de la garantie.
+
+(7) Date d'expiration de la garantie. Cette date ne peut pas être fixée moins de deux années après la date d'effet de la garantie.
+
+(8) Délai de préavis.
+
+(9) Lieu d'émission.
+
+(10) Date.

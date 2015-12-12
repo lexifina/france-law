@@ -2,9 +2,9 @@
 
 ACTE DE CAUTIONNEMENT SOLIDAIRE
 
-La société (1), dont le siège social est à ,
+La société (1), dont le siège social est à,
 
-ayant pour numéro unique d'identification RCS , représentée
+ayant pour numéro unique d'identification RCS, représentée
 
 par dûment habilité en vertu
 
@@ -12,7 +12,7 @@ de (2),
 
 Après avoir rappelé qu'il a été porté à sa connaissance que :
 
-(3) ci-après dénommé(e) le cautionné , titulaire de l'autorisation donnée par arrêté préfectoral en date du (4) du préfet du
+(3) ci-après dénommé (e) le cautionné, titulaire de l'autorisation donnée par arrêté préfectoral en date du (4) du préfet du
 
 d'exploiter (5) a demandé à la société susmentionnée ci-après dénommée la caution de lui fournir son cautionnement solidaire,
 
@@ -86,7 +86,7 @@ Mise en jeu de la garantie
 
 En cas de non-exécution par le cautionné d'une ou des obligations mises à sa charge et ci-dessus mentionnées, le présent cautionnement pourra être mis en jeu uniquement par le préfet susvisé par lettre recommandée avec demande d'avis de réception adressée à la caution à l'adresse ci-dessus indiquée, dans l'un des cas suivants :
 
-― soit après mise en jeu de la mesure de consignation prévue à l'article L. 514-1 du code de l'environnement, c'est-à-dire lorsque l'arrêté de consignation et le titre de perception rendu exécutoire ont été adressés au cautionné mais qu'ils sont restés partiellement ou totalement infructueux ;
+― soit après mise en jeu de la mesure de consignation prévue à l'article L. 171-8 du code de l'environnement, c'est-à-dire lorsque l'arrêté de consignation et le titre de perception rendu exécutoire ont été adressés au cautionné mais qu'ils sont restés partiellement ou totalement infructueux ;
 
 ― soit en cas d'ouverture d'une procédure de liquidation judiciaire à l'encontre du cautionné ;
 
@@ -100,6 +100,28 @@ Attribution de compétence
 
 Le présent cautionnement est soumis au droit français avec compétence des tribunaux français.
 
-Fait à , (11) le (12).
+Fait à, (11) le (12).
 
-(1) Dénomination, forme, capital, siège social de l'établissement de crédit ou de la société de financement ou de l'entreprise d'assurance et éventuellement adresse de sa succursale souscriptrice du cautionnement. (2) Pouvoir ou habilitation avec mention de sa date. (3) Personne morale de droit privé ou public ou personne physique (désignation complète). (4) Date de l'arrêté préfectoral. (5) Catégorie d'installation autorisée avec les numéros de rubrique correspondants de la nomenclature des installations classées et le lieu de l'implantation de l'installation. (6) Variante 1 (pour les installations de stockage de déchets et conformément au 1° du IV de l'article R. 516-2 du code de l'environnement) : a) La surveillance du site ; b) Les interventions en cas d'accident ou de pollution ; c) La remise en état du site après exploitation. Variante 2 (pour les carrières et conformément au 2° du IV de l'article R. 516-2 du code de l'environnement) : la remise en état du site après exploitation et éventuellement surveillance et intervention en cas d'accident des stockages de déchets inertes. Variante 3 (pour les installations figurant sur la liste prévue à l'article L. 515-8 du code de l'environnement et conformément au 3° du IV de l'article R. 516-2 du code de l'environnement) : a) La surveillance et le maintien en sécurité de l'installation en cas d'événement exceptionnel susceptible d'affecter l'environnement ; b) Les interventions en cas d'accidents ou de pollution. Variante 4 (pour les installations figurant sur la liste prévue au 5° de l'article R. 516-1 du code de l'environnement et conformément au 5° du IV de l'article R. 516-2 du code de l'environnement) : a) La mise en sécurité du site dans les conditions fixées par les articles R. 512-39-1 et R. 512-46-25 ; b) En cas de constitution d'une garantie additionnelle, les mesures de gestion de la pollution des sols ou des eaux souterraines. Pour la variante 1, l'acte de cautionnement peut ne viser que l'un des objets a, b ou c. Pour les variantes 3 et 4, il peut ne viser que l'un des objets a ou b. (7) Montant en chiffres et en lettres ; pour la variante 1, le montant maximum de chaque objet peut être indiqué dans la mesure où les objets peuvent être distingués. (8) Date d'effet de la caution. (9) Date d'expiration de la caution. Cette date ne peut pas être fixée moins de deux années après la date d'effet de la caution. (10) Délai de préavis. (11) Lieu d'émission. (12) Date.
+(1) Dénomination, forme, capital, siège social de l'établissement de crédit ou de la société de financement ou de l'entreprise d'assurance et éventuellement adresse de sa succursale souscriptrice du cautionnement.
+
+(2) Pouvoir ou habilitation avec mention de sa date.
+
+(3) Personne morale de droit privé ou public ou personne physique (désignation complète).
+
+(4) Date de l'arrêté préfectoral.
+
+(5) Catégorie d'installation autorisée avec les numéros de rubrique correspondants de la nomenclature des installations classées et le lieu de l'implantation de l'installation.
+
+(6) Variante 1 (pour les installations de stockage de déchets et conformément au 1° du IV de l'article R. 516-2 du code de l'environnement) : a) La surveillance du site ; b) Les interventions en cas d'accident ou de pollution ; c) La remise en état du site après exploitation. Variante 2 (pour les carrières et conformément au 2° du IV de l'article R. 516-2 du code de l'environnement) : la remise en état du site après exploitation et éventuellement surveillance et intervention en cas d'accident des stockages de déchets inertes. Variante 3 (pour les installations figurant sur la liste prévue à l'article L. 515-8 du code de l'environnement et conformément au 3° du IV de l'article R. 516-2 du code de l'environnement) : a) La surveillance et le maintien en sécurité de l'installation en cas d'événement exceptionnel susceptible d'affecter l'environnement ; b) Les interventions en cas d'accidents ou de pollution. Variante 4 (pour les installations figurant sur la liste prévue au 5° de l'article R. 516-1 du code de l'environnement et conformément au 5° du IV de l'article R. 516-2 du code de l'environnement) : a) La mise en sécurité du site dans les conditions fixées par les articles R. 512-39-1 et R. 512-46-25 ; b) En cas de constitution d'une garantie additionnelle, les mesures de gestion de la pollution des sols ou des eaux souterraines. Pour la variante 1, l'acte de cautionnement peut ne viser que l'un des objets a, b ou c. Pour les variantes 3 et 4, il peut ne viser que l'un des objets a ou b.
+
+(7) Montant en chiffres et en lettres ; pour la variante 1, le montant maximum de chaque objet peut être indiqué dans la mesure où les objets peuvent être distingués.
+
+(8) Date d'effet de la caution.
+
+(9) Date d'expiration de la caution. Cette date ne peut pas être fixée moins de deux années après la date d'effet de la caution.
+
+(10) Délai de préavis.
+
+(11) Lieu d'émission.
+
+(12) Date.
