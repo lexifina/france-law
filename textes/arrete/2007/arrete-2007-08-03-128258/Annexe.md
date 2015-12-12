@@ -93,3 +93,7 @@ Paris-Johannesburg (Afrique du Sud).
 Jusqu'au 30 octobre 2020 :
 
 Paris-Saint-Martin Juliana (Antilles néerlandaises) ;
+
+Jusqu'au 30 novembre 2020 :
+
+Paris-Sal (Cabo Verde).
