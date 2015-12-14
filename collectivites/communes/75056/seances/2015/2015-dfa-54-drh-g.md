@@ -1,0 +1,9 @@
+# Paris : séance 2015 DFA 54 - DRH-G — Budget primitif emplois 2016 pour les services départementaux.
+
+- Collectivité : Paris
+- SIREN : 217500016
+- Code INSEE : 75056
+- Date : 2015-12-14
+- Nature : PJ
+- Objet : Budget primitif emplois 2016 pour les services départementaux.
+- Jeu de données : https://www.data.gouv.fr/datasets/59590ceca3a7291dd09c7fd2
