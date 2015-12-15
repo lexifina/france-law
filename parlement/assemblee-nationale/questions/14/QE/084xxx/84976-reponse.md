@@ -1,0 +1,9 @@
+# Réponse à la question n° 84976
+
+- Question : [84976](84976.md) — Question n° 84976 — djihad; lutte et prévention
+
+## Réponse
+
+*JO du 2015-12-15*
+
+Le dispositif de prévention de la radicalisation,piloté au niveau national par le SG-CIPD (et non le CNAPAR), repose sur la mise en place au niveau local dans le cadre de la cellule de suivi d’un programme d’accompagnement des jeunes inscrits dans un processus de radicalisation. Ce programme individualisé suivi par un référent de parcours désigné au niveau local repose sur deux volets : un volet accompagnement psychologique qui repose sur des séances de consultations psychologiques avec des psychologues ou des psychiatres dans le cadre de partenariat avec la cellule de suivi départemental. Ce programme est également ouvert aux familles. Cet accompagnement psychologique mobilise notamment les Maisons des Adolescents, des établissements hospitaliers spécialisés de psychiatrie, des psychologues qui interviennent dans des missions locales ou associations. Ces professionnels sont formés dans le cadre des sessions nationales. Il repose également sur un volet accompagnement social qui repose sur la mise en place d’actions de resocialisation, de remobilisation, d’actions à forte valeur pédagogique comme par exemple des chantiers humanitaires, le dispositif du service civique, l’intégration dans un EPIDE, des séjours de rupture. L’objectif étant in fine de travailler et d’aboutir à un projet d’insertion sociale et professionnelle : formation qualifiante, emploi ou réintégration d’un parcours scolaire pour les mineurs. Ces initiatives sont menées en lien avec le conseil départemental, des associations spécialisées dans la lutte contre les dérives sectaires (ADFI, Centre contre les manipulations mentales) ; des associations qui travaillent déjà avec des publics en difficulté), les missions locales, Pôle emploi, associations de prévention spécialisée (éducateurs de rue).
