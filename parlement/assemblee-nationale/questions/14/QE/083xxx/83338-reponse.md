@@ -1,0 +1,9 @@
+# Réponse à la question n° 83338
+
+- Question : [83338](83338.md) — Question n° 83338 — instances consultatives; coût de fonctionnement
+
+## Réponse
+
+*JO du 2015-12-15*
+
+Le suicide est en effet un enjeu majeur de santé publique, cause de près de 11 000 décès par an et de près de 220 000 tentatives de suicide. Depuis plusieurs années une politique publique d’actions de prévention est conduite. Le programme national d’actions contre le suicide 2011-2014, qui vient de s’achever, a fait l’objet d’un bilan réalisé par la direction générale de la santé. Une évaluation de ce programme a été confiée au Haut Conseil de la santé publique et son rapport est attendu pour la fin de l’année 2015. La prévention du suicide constitue bien une priorité de santé publique que le Gouvernement a inscrite, en 2013, dans la stratégie nationale de santé. La ministre des affaires sociales, de la santé et des droits des femmes a conforté cette politique en instaurant, en 2013, un observatoire national du suicide dont les missions sont définies par le décret no 2013-809 du 9 septembre 2013. L’observatoire a en charge la coordination des sources de données, l’amélioration du suivi des suicides et tentatives de suicide, le développement de la connaissance des facteurs de risque conduisant aux suicides et aux tentatives de suicide, la promotion des dispositifs de collecte, de suivi et d’alerte sur le suicide, ainsi que l’évaluation des politiques publiques de prévention du suicide. La direction de la recherche, des études, de l’évaluation et des statistiques assure le secrétariat de l’observatoire national du suicide sans moyens supplémentaires dédiés. En 2015, un budget de près de 700 000 € a été alloué à la recherche, dans le cadre d’un appel à projet sur la thématique du suicide et de sa prévention.
