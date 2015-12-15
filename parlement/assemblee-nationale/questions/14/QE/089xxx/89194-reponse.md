@@ -1,0 +1,9 @@
+# Réponse à la question n° 89194
+
+- Question : [89194](89194.md) — Question n° 89194 — charcuterie d'Alsace; appellation
+
+## Réponse
+
+*JO du 2015-12-15*
+
+La France a depuis plus de quatre-vingts ans une politique en matière de signes officiels de la qualité et de l’origine. Celle-ci a contribué à la construction de la politique européenne dans ce domaine. La politique volontaire des pouvoirs publics en faveur du développement des produits de qualité, soutenue par les professionnels, a permis la reconnaissance, la protection et le rayonnement de dénominations dans le monde entier. C’est grâce à cette politique et à l’implication des acteurs professionnels que continuent à vivre et à prospérer sur tout le territoire français de nombreux signes de qualité. Pour autant, la mise en œuvre de cette politique ne méconnaît pas les autres modes de valorisation des produits avec lesquels une harmonie doit être recherchée. Comme il l’a été indiqué lors d’une rencontre entre le cabinet du ministre chargé de l’agriculture, les services du ministère, les représentants de l’INAO et les parlementaires d’Alsace à leur demande, en octobre dernier, la protection accordée à la dénomination d’un produit est cependant différente selon le droit dont elle procède. À cet égard, l’enregistrement en indication géographique protégée confère à la dénomination une protection élevée qui implique que les produits comparables ne puissent l’utiliser. C’est dans ce contexte qu’il a été pris acte de la position de l’association pour la promotion de la charcuterie d’Alsace demandant le retrait de la demande d’enregistrement en indication géographique protégée de la dénomination « Knack d’Alsace ». La recherche d’une solution adaptée aux attentes des professionnels de la charcuterie d’Alsace doit cependant se poursuivre en relation avec les pouvoirs publics.
