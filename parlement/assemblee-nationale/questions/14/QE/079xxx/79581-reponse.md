@@ -1,0 +1,9 @@
+# Réponse à la question n° 79581
+
+- Question : [79581](79581.md) — Question n° 79581 — usagers; agrément; modalités
+
+## Réponse
+
+*JO du 2015-12-15*
+
+L’association "Le cercle de réflexion et d’action sur la psychiatrie (CRPA) ", qui s’est vu refuser un agrément régional, a posé, à l’occasion de la requête tendant à l’annulation de cette décision, une question prioritaire de constitutionnalité tirée de ce que l’article L.1114-1 du code de la santé publique, qui prévoit que les associations d’usagers du système de santé doivent obtenir un agrément pour pouvoir siéger dans les instances sanitaires et hospitalières est contraire à la liberté d’association. Tant que cette question n’est pas tranchée, il n’est pas envisagé de modifier les modalités d’agrément des associations. En tout état de cause, la procédure d’agrément ne porte pas atteinte à la liberté d’association, dans la mesure où la déclaration d’une association d’usagers du système de santé n’est pas subordonnée à l’obtention de l’agrément prévu par les dispositions de l’article L.1114-1 susmentionné du code de la santé publique. Cet agrément a pour but d’apporter aux usagers la garantie que les associations qui les représentent dans les instances de la démocratie sanitaire sont notamment indépendantes des professionnels et des établissements de santé ainsi que des entreprises du secteur sanitaire. Par ailleurs, le législateur a prévu que l’agrément est délivré au vu des critères objectifs d’activité dans le champ sanitaire, de transparence de gestion, de représentativité et d’indépendance. Ces critères sont appréciés par une commission nationale présidée par un membre du Conseil d’État ou un magistrat et dont l’avis s’impose à l’administration. Enfin, l’avis de la commission et les décisions de l’administration peuvent être contestés devant la juridiction administrative.
