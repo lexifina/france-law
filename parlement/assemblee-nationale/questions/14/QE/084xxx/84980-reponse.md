@@ -1,0 +1,9 @@
+# Réponse à la question n° 84980
+
+- Question : [84980](84980.md) — Question n° 84980 — djihad; lutte et prévention
+
+## Réponse
+
+*JO du 2015-12-15*
+
+La DGSI et la DGSE sont référents dans le domaine de la lutte contre les réseaux jihadistes, chacune au titre de leurs compétences respectives. Ces deux services consolident leur complémentarité opérationnelle et la continuité de leur action. La DGSI est en charge de la prévention et de la lutte contre le terrorisme visant le territoire national. Tous les renseignements intéressant la sécurité du territoire ou mettant en cause des ressortissants français ou résidents à l’étranger doivent lui être communiqués. La DGSE est en charge de la détection et de l’entrave de la menace terroriste contre nos intérêts à l’étranger. Pour répondre aux besoins opérationnels des armées lorsqu’elles sont engagées dans des opérations de contre-terrorisme, les services développent des structures ad hoc de fusion et d’analyse. Face à l’obligation visant à prévenir le risque terroriste pérenne, une structure de coopération opérationnelle ad-hoc, forte de 2 cellules réunissant pour l’une d’entre elles les services de la communauté française du renseignement et pour l’autre les services du ministère de l’intérieur, a été créée au sein de la DGSI afin de renforcer le dispositif de coordination existant et d’optimiser les répartitions de compétences évoquées supra. Les objectifs poursuivis par cette création sont quadruples :Renforcement des synergies opérationnelles entre services engagés dans la lutte contre le terrorisme jihadiste ;Réduction des délais de transmission et de prise en compte des informations opérationnelles ;Développement d’une analyse interservices de ces informations ;Utilisation et optimisation des capacités d’investigations de chaque service.
