@@ -1,0 +1,9 @@
+# Réponse à la question n° 31691
+
+- Question : [31691](31691.md) — Question n° 31691 — médicaments génériques; prescription
+
+## Réponse
+
+*JO du 2015-12-15*
+
+Les achats hospitaliers et les prescriptions hospitalières de médicaments génériques sont une priorité dans le cadre de la mise en œuvre de la politique publique relative à la promotion des médicaments génériques. En effet, la prescription hospitalière influe tout particulièrement sur la structure de consommation des génériques en ville. Contrairement aux idées reçues, les génériques ont toute leur place dans les achats de médicaments à l’hôpital, dès lors que les industriels fournissent un conditionnement adapté. A ce jour, tous les cahiers des charges d’appel d’offres hospitaliers permettent l’accès au marché des laboratoires génériques. A propriétés pharmacologiques et services égaux (respect du bon usage du produit et lutte contre les erreurs médicamenteuses évitables), les génériques sont la plupart du temps sélectionnés. Les hôpitaux prescrivent déjà des génériques, on peut estimer pour les formes orales sèches que les génériques représentent environ 35 % des produits disponibles (source programme PHARE DGOS). Plus spécifiquement sur les médicaments antibiotiques, l’agence nationale de sécurité du médicament (ANSM) estime qu’à l’hôpital, 39 % des antibiotiques utilisés sont des médicaments injectables, parmi lesquels 76,6 % sont des génériques. La ministre des affaires sociales, de la santé et des droits des femmes a annoncé le 24 mars 2015, un plan national d’action de promotion des médicaments génériques, qui a pour ambition de couvrir l’ensemble des domaines sur lesquels il est possible d’agir pour permettre une plus grande pénétration des médicaments génériques (en ville et à l’hôpital), un meilleur usage et une meilleure acceptation par tous.
