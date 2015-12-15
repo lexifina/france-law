@@ -1,0 +1,9 @@
+# Réponse à la question n° 48388
+
+- Question : [48388](48388.md) — Question n° 48388 — alimentation; laits de croissance; utilité
+
+## Réponse
+
+*JO du 2015-12-15*
+
+Le lait de croissance est un aliment lacté destiné aux enfants en bas âge. Il est utilisé habituellement en relais de la préparation de suite de 2ème âge, de un an jusqu’à trois ans, dans le cadre d’une alimentation diversifiée. L’agence européenne de sécurité alimentaire (EFSA) a émis un avis en octobre 2013 sur les besoins nutritionnels et les apports alimentaires des nourrissons et des enfants en bas âge dans l’union européenne. Le groupe scientifique a noté qu’il convient d’assurer un apport suffisant en acides gras oméga-3, en fer, en vitamine D et en iode aux nourrissons et aux enfants en bas âge qui présentent ou risquent de présenter des insuffisances pour ces nutriments. L’EFSA a mentionné que les préparations enrichies, y compris les préparations pour enfants en bas âge, constituaient l’un des moyens d’augmenter ces apports, et qu’il existe des alternatives efficaces. Le programme national nutrition santé (PNNS) a été initié en 2001 et prolongé en 2006 puis 2011. Il a fourni un cadre de référence et produit de nombreux outils et mécanismes incitatifs, servant de support aux actions. Afin de conseiller les parents sur l’alimentation des enfants, un guide « nutrition de la naissance à trois ans. La santé vient en mangeant », à destination du grand public, a été réalisé et diffusé depuis décembre 2005 par l’institut national de prévention et d’éducation pour la santé (INPES). Il est indiqué que les laits de croissance conviennent aux enfants à partir d’un an et jusqu’à trois ans. Ils sont adaptés aux besoins de l’enfant et permettent notamment des apports suffisants en fer et en acides gras essentiels, avec des apports modérés en protéines. Entre un an et trois ans, il est donc préférable de donner un lait de croissance ou une préparation de suite.
