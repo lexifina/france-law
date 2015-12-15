@@ -1,0 +1,9 @@
+# Réponse à la question n° 86181
+
+- Question : [86181](86181.md) — Question n° 86181 — conducteurs; formation
+
+## Réponse
+
+*JO du 2015-12-15*
+
+L’apprentissage des comportements à adopter à l’approche des véhicules d’intervention d’urgence fait l’objet d’enseignements et d’évaluations dans le cadre des différentes étapes du continuum éducatif à la sécurité routière. Dès le collège, lors de la préparation des attestations scolaires de sécurité routière (ASSR) pour les élèves des classes de cinquième et troisième, cette thématique est abordée, et des questions spécifiques sur ce sujet sont prévues dans le cadre de ces examens. S’agissant de la préparation à l’examen du permis de conduire, les compétences devant être acquises par les élèves conducteurs sont définies dans le livret d’apprentissage. Ce document officiel, qui accompagne le parcours de formation de chaque élève, a été actualisé récemment. Il est applicable depuis le 1er juillet 2014. C’est ainsi qu’il a été réservé une place importante à l’apprentissage des comportements à adopter à l’égard des autres usagers, notamment les plus vulnérables, mais également les véhicules d’intervention d’urgence. Par ailleurs, l’acquisition de ces compétences est évaluée lors de l’épreuve théorique du permis de conduire au cours de laquelle sont posées des questions portant sur ce thème. Lors de l’épreuve de conduite, la gêne ou le refus de céder la priorité à un véhicule prioritaire entraine systématiquement un résultat défavorable pour l’obtention du permis de conduire. Enfin, le gouvernement étudie avec attention la recommandation faite par le conseil national de la sécurité routière, en date du 11 mai 2015, relative à l’amélioration de la formation du conducteur novice et qui préconise un renforcement du continuum éducatif avant et après l’obtention du permis de conduire.
