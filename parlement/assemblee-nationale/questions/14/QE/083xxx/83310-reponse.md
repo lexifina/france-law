@@ -1,0 +1,9 @@
+# Réponse à la question n° 83310
+
+- Question : [83310](83310.md) — Question n° 83310 — instances consultatives; coût de fonctionnement
+
+## Réponse
+
+*JO du 2015-12-15*
+
+Le conseil national du sida (CNS) créé par le décret no 89-83 du 8 février 1989, modifié par le décret no 2007-1628 du 16 novembre 2007, est devenu par décret no 2015-210 du 27 février 2015 le conseil national du sida et des hépatites virales chroniques. Il a pour mission de donner son avis sur l’ensemble des problèmes posés à la société par le VIH/sida, les hépatites virales chroniques ainsi que les infections sexuellement transmissibles et de faire au Gouvernement toute proposition utile. Il est consulté sur les programmes et plans nationaux de santé, sur les programmes d’information, de prévention et d’éducation pour la santé établis par le Gouvernement et les organismes publics. C’est un organisme indépendant interdisciplinaire composé de 25 membres, représentants de la société civile ou militants associatifs. Son président est nommé par le Président de la République. Ses membres sont nommés pour un mandat de cinq ans, qu’ils exercent à titre gracieux. Le budget de fonctionnement du CNS porté par la direction générale de la santé comporte un volet dépenses liées à l’organisation et la tenue des réunions de ses instances (programme 204) : le conseil, qui vote les rapports, avis et recommandations en réunion mensuelle ; le bureau qui prépare tous les deux mois les travaux du conseil ; les commissions spécialisées qui assurent le travail d’élaboration des rapports et conduisent les auditions. Ce budget a représenté en 2014, 19 709 €. Les frais de déplacement des membres ainsi que les autres frais sont quant à eux pris en charge en tant que de besoin par le secrétariat général du ministère (programme 124), pour un montant de 47 491 € en 2014.
