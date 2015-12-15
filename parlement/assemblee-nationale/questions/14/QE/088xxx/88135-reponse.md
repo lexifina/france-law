@@ -1,0 +1,9 @@
+# Réponse à la question n° 88135
+
+- Question : [88135](88135.md) — Question n° 88135 — service militaire volontaire; modalités
+
+## Réponse
+
+*JO du 2015-12-15*
+
+L’expérimentation du service militaire volontaire (SMV), instituée sous l’autorité du ministre de la défense, et l’Établissement pour l’insertion dans l’emploi (EPIDE), placé sous la tutelle des ministres chargés de l’emploi et de la ville, proposent un parcours d’insertion vers l’emploi aux jeunes gens âgés de 17 ans révolus à 25 ans, en situation de décrochage scolaire, de marginalisation sociale et/ou professionnelle, afin de les insérer dans la vie active par une formation comportementale et professionnelle. Le SMV présente par rapport à l’EPIDE un certain nombre de particularités d’ordre statutaire, sociologique, pédagogique et technique. Tout d’abord, les stagiaires du SMV doivent signer un contrat d’engagement dans les armées et à ce titre le SMV n’accueille que des Français. Ces jeunes gens, encadrés par des personnels militaires qui assurent une mission de formation, suivent un parcours qui leur a été présenté et auquel ils ont souscrit explicitement lors de la signature de leur contrat. En s’appuyant sur l’expérience du service militaire adapté, la durée de ce contrat a été fixée à au moins 6 mois et peut atteindre jusqu’à 12 mois. Le SMV permet par ailleurs de se voir délivrer le permis de conduire, via le brevet militaire de conduite. Enfin, un certificat d’aptitude personnelle à l’insertion (CAPI), attribué par une commission et identifié par un numéro unique, est remis à chaque volontaire du SMV. Le CAPI est le gage des compétences acquises par le volontaire (certificat de formation générale, formation de sauveteur secouriste du travail, formation citoyenne, formation professionnelle), mais aussi de son savoir-être et de son comportement tout au long de son parcours de formation.
