@@ -1,0 +1,10 @@
+# Aix-en-Provence : délibération — COMPTABILITÉ COMMUNALE - FIXATION DES TARIFS ET DROITS DIVERS AU 1ER JANVIER 2016 POUR LE MUSEE GRANET-ÉQUIPEMENT TRANSFÉRÉ- ET PROROGATION DES TARIFS 2015 DES SALLES PUBLIQUES REPRISES EN GESTION DIRECTE PAR LA VILLE
+
+- Collectivité : Aix-en-Provence
+- SIREN : 211300017
+- Code INSEE : 13001
+- Date : 2015-12-15
+- Séance : Conseil Municipal 1CA
+- Objet : COMPTABILITÉ COMMUNALE - FIXATION DES TARIFS ET DROITS DIVERS AU 1ER JANVIER 2016 POUR LE MUSEE GRANET-ÉQUIPEMENT TRANSFÉRÉ- ET PROROGATION DES TARIFS 2015 DES SALLES PUBLIQUES REPRISES EN GESTION DIRECTE PAR LA VILLE
+- Acte publié : http://eadm.mairie-aixenprovence.fr/delibinternet/delib-7270-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/liste-des-deliberations-aix-en-provence@aix-en-provence
