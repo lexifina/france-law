@@ -1,0 +1,9 @@
+# Réponse à la question n° 83928
+
+- Question : [83928](83928.md) — Question n° 83928 — aéroports; points d'entrée du territoire; liste
+
+## Réponse
+
+*JO du 2015-12-15*
+
+L’objectif du règlement sanitaire international (RSI) est d’assurer le maximum de protection contre la propagation internationale des menaces sanitaires, tout en limitant les entraves au trafic international. Pour cela, il est essentiel de renforcer les capacités de surveillance et de réponse dans les ports et aéroports ouverts au trafic international. Ainsi, en application de l’article L.3115-3 du code de la santé publique (CSP), le décret no 2013-30 relatif à la mise en œuvre du RSI a été publié le 9 janvier 2013 et codifié dans ses articles R.3115-1 et suivants. Les points d’entrée du territoire listés aux articles D.3115-16-1 et D.3115-17-2 du CSP doivent disposer de capacités minimales de surveillance, en continu, et d’action pour faire face à des risques sanitaires pouvant se propager par les moyens de transport. Ces capacités sont définies dans les articles R.3115-6 à D.3115-15 et D.3115-18 à 22 du CSP. La circulaire interministérielle du 18 août 2014 précisant les modalités de mise œuvre du décret susmentionné, demande aux préfets de département de réaliser dans un premier temps une évaluation sur l’atteinte et le développement des capacités requises dans les points d’entrée. Cette évaluation donne lieu à un rapport qui doit présenter les constats, les analyses et un plan d’action pour que les points d’entrée atteignent les capacités requises par le RSI. Dans un deuxième temps, les préfets s’assurent de la mise en œuvre de ce plan d’action. Compte tenu de ses engagements internationaux, la France a jusqu’au 15 juin 2016 pour le développement des capacités prévues par le RSI dans les points d’entrée du territoire.
