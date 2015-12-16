@@ -94,7 +94,7 @@ Céréales
 
 |
 
-Avoine, blé, orge, seigle, sarrasin, maïs, millet, moha, miscanthus, sorgho, riz
+Avoine, blé, orge, seigle, sarrasin, maïs, millet, moha, sorgho, riz
 
 |
 
@@ -114,7 +114,7 @@ Champignons de couche, champignons sauvages
 
 |
 
-Chicorées ― production de chicons
+Chicorées - production de chicons
 
 |
 
@@ -122,7 +122,7 @@ Endive, barbe de capucin, pissenlit
 
 |
 
-Chicorées ― production de racines
+Chicorées - production de racines
 
 |
 
@@ -159,14 +159,6 @@ Choux pommés
 |
 
 Choux pommés, choux de Bruxelles et autres choux pommés
-
-|
-
-Colza
-
-|
-
-Colza, cameline, moutarde, navette, chanvre, bourrache, sésame, lin oléagineux, lin fibre
 
 |
 
@@ -248,13 +240,15 @@ Fines herbes
 
 |
 
-Plantes liliacées, dont ciboulette
+Plantes alliacées dont ciboulette
 
-Plantes apiacées, dont persil, cerfeuil, feuilles de fenouil, angélique, carvi
+Plantes apiacées dont aneth, persil, cerfeuil, feuilles de fenouil, angélique, carvi
 
-Plantes astéracées dont estragon et stevia,
+Plantes astéracées dont estragon, stevia
 
-Plantes lamiacées, dont aneth, basilic et fleurs comestibles, thym, sauge, sarriette, origan, marjolaine, hysope et autres plantes de ces quatre familles
+Plantes lamiacées dont basilic, thym, sauge, sarriette, origan, marjolaine, hysope, menthe
+
+Autres plantes condimentaires, fines herbes consommées fraîches, fleurs comestibles et PPAM non alimentaires
 
 |
 
@@ -334,7 +328,7 @@ Haricots et pois non écossés (frais)
 
 |
 
-Haricot vert, haricot filet, haricot d'Espagne, haricot à couper, dolique, pois mange-tout
+Haricot vert, haricot filet, haricot d'Espagne, haricot à couper, dolique, fèves de soja, pois mange-tout
 
 |
 
@@ -342,7 +336,7 @@ Infusions (séchées)
 
 |
 
-Plantes ou parties de plantes à infusion séchées (fleurs, feuilles, racines)
+Plantes ou parties de plantes à infusion séchées (fleurs, feuilles, racines) ainsi que les PPAM non alimentaires
 
 |
 
@@ -350,7 +344,7 @@ Laitue
 
 |
 
-Laitue, chicorée ― scarole, chicorée ― frisée, mâche, roquette et autres salades
+Laitue, chicorée - scarole, chicorée - frisée, mâche, roquette et autres salades
 
 |
 
@@ -422,7 +416,7 @@ Oignon
 
 |
 
-Oignon, ail, échalote et autres bulbes de liliacées et bulbes ornementaux
+Oignon, ail, échalote et bulbes ornementaux
 
 |
 
@@ -430,7 +424,7 @@ Pavot
 
 |
 
-Pavot, œillette, bourrache, chènevis, courges à graines, onagre, carthame, sésame, Ricin
+Pavot, œillette, bourrache, chènevis, courges à graines, onagre, carthame, sésame, ricin ainsi que les PPAM non alimentaires
 
 |
 
@@ -464,7 +458,7 @@ Poireau
 
 |
 
-Poireau, oignon de printemps, ciboule et autres alliacées comestibles
+Poireau, oignon de printemps, ciboule et autres oignons verts
 
 |
 
@@ -492,19 +486,13 @@ Pommier, poirier, cognassier, néflier, nashi, pommette (Malus sylvestris)
 
 |
 
-Porte graine ― PPAMC, florales et potagères
+Porte graine - PPAMC, florales et potagères
 
 |
 
-Carotte, persil, laitue, chicorées, radis, choux, navet, épinard, betterave potagère, haricots, pois, concombre, courges, melon,
+Toute plante destinée à la production de semences de PPAMC, florales ou potagères |
 
-courgette, pensée, reine marguerite, œillet, chrysanthème, lupin, pois de senteur, rose trémière et autres porte-graine, porte-graine PPAMC,
-
-porte-graine florales et potagères
-
-|
-
-PPAM ― non alimentaires
+PPAM - non alimentaires
 
 |
 
@@ -549,14 +537,6 @@ Soja
 |
 
 Soja, arachide
-
-|
-
-Tabac
-
-|
-
-Tabac, ricin
 
 |
 
