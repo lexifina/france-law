@@ -1,0 +1,15 @@
+# Article 17 ter
+
+Il est possible, d'un commun accord entre l'employeur et le salarié, d'établir par voie d'avenant au contrat de travail un complément d'heures de travail venant s'ajouter temporairement à l'horaire contractuel, afin notamment de permettre de faire face à un surcroît de travail, de remplacer un salarié absent ou pour des besoins liés à la saison.
+
+Le nombre d'heures de travail objet du complément ne pourra avoir pour effet d'excéder la durée légale du travail.
+
+Dans ce cas, l'avenant au contrat de travail devra préciser la nouvelle répartition des horaires sur la semaine ou sur le mois ainsi que la durée d'application du complément d'heures.
+
+Le nombre maximum d'avenants conclus avec le même salarié ne pourra excéder 8 par an, sauf cas de remplacement d'un salarié absent nommément désigné.
+
+Les heures de travail effectuées dans le cadre de ce complément d'heures ne donneront pas lieu à majoration du taux horaire à fonctions égales.
+
+Les salariés à temps partiel souhaitant obtenir un complément d'heures bénéficieront d'une priorité dans l'hypothèse où l'entreprise aurait recours au complément d'heures sur un poste similaire à celui des salariés concernés.
+
+Les salariés intéressés devront faire connaître à leur employeur leur souhait de bénéficier de cette priorité au début de chaque année civile. Ils y seront invités par voie d'affichage par l'employeur.

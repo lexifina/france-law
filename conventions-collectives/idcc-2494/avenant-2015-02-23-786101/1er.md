@@ -1,0 +1,31 @@
+# Article 1er
+
+L'article 17 de la convention est modifié comme suit :
+
+« Article 17
+
+Temps partiel
+
+Les employeurs pourront occuper de façon permanente du personnel travaillant à temps partiel, c'est-à-dire effectuant un horaire de travail inférieur à la durée légale ou conventionnelle du travail.
+
+En application de l'article L. 3123-14-3 du code du travail, pour tenir compte des particularités des structures relevant de la présente convention, il a été convenu de réduire la durée minimale prévue à l'article L. 3123-14-1 du code du travail.
+
+Cette durée minimale peut être fixée à 7 heures par semaine pour les catégories d'emplois suivantes : agent d'entretien et de nettoyage et personnel de vente. Toutefois, à la demande du salarié, cette durée pourra être fixée à un seuil inférieur, sous réserve qu'il atteste occuper d'autres emplois lui permettant d'atteindre un nombre minimum de 7 heures de travail par semaine.
+
+Pour les autres catégories d'emplois non visées au paragraphe qui précède, la durée du travail pourra être inférieure à 24 heures. Le contrat de travail devra prévoir une fixation régulière des horaires de travail sur la semaine ou sur le mois. Les horaires de travail seront regroupés sur des demi-journées ou des journées complètes de travail définies au contrat de travail, afin de permettre au salarié concerné d'occuper un ou plusieurs autres emplois.
+
+Ce personnel bénéficiera d'un contrat écrit à durée indéterminée ou déterminée précisant les horaires de travail et la répartition de la durée du travail, conformément aux dispositions légales.
+
+L'employeur pourra demander au salarié d'exécuter des heures complémentaires dans les limites qui auront été prévues au contrat, en respectant un délai de prévenance de 3 jours, sauf accord exprès de l'intéressé ou circonstances exceptionnelles.
+
+Le salarié pourra toutefois être dispensé d'exécuter les heures complémentaires s'il justifie, dès qu'il est informé de la demande d'exécution d'heures complémentaires, avoir une autre activité salariée rendant impossible l'exécution de ces heures.
+
+Le nombre d'heures complémentaires ne peut être supérieur à 1/3 de la durée hebdomadaire ou mensuelle prévue au contrat, ni avoir pour effet de porter la durée hebdomadaire du travail ou, le cas échéant, mensuelle au-delà de la durée légale ou conventionnelle du travail.
+
+Les heures complémentaires réalisées seront majorées de 10 %, y compris celles comprises entre 10 % et 1/3 de l'horaire contractuel.
+
+Le refus d'accomplir des heures complémentaires demandées par l'employeur ne constitue pas une faute pour le salarié s'il a été informé de la demande moins de 3 jours à l'avance.
+
+Compte tenu de la durée de leur travail et de leur ancienneté dans l'entreprise, la rémunération des salariés employés à temps partiel est proportionnelle à celle des salariés qui, à qualifications égales, occupent à temps complet un emploi équivalent dans l'établissement ou l'entreprise.
+
+Les salariés employés à temps partiel bénéficieront des droits reconnus aux salariés à temps complet par la loi, les conventions et les accords collectifs d'entreprise. »
