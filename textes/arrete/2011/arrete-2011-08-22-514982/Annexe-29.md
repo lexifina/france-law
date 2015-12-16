@@ -4,4 +4,10 @@ Annexe non reproduite.
 
 NOTA :
 
-Les annexes seront publiées au Bulletin officiel santé - protection sociale - solidarités n° 2011/10 du mois d'octobre 2011. Elles peuvent être téléchargées sur le site internet de l'Institut national de veille sanitaire (http://www.invs.sante.fr/), à l'exception des annexes 28 et 29 composées de plusieurs feuillets autocollants, qui ne sont disponibles qu'auprès des agences régionales de santé (ARS).
+La présente annexe sera publiées au Bulletin officiel Santé, protection sociale, solidarités n° 2015/12 du 15 janvier 2015 (1). Elle est disponible sur le site de l'Institut de veille sanitaire (
+
+http://www.invs.sante.fr
+
+) ou sur demande auprès de l'Institut de veille sanitaire.
+
+(1) Au lieu de "janvier 2015" lire "janvier 2016".
