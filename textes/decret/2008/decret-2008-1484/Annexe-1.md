@@ -24,7 +24,7 @@ I. ― Actes portant sur les immeubles :
 
 ― prêt à usage et autre convention de jouissance ou d'occupation précaire ;
 
-― déclaration d'insaisissabilité des immeubles non professionnels de l'entrepreneur individuel (art. 1526-1 du code de commerce)(1) ;
+― déclaration d'insaisissabilité des immeubles non professionnels de l'entrepreneur individuel (art. 1526-1 du code de commerce) (1) ;
 
 ― mainlevée d'une inscription d'hypothèque en contrepartie d'un paiement.
 
@@ -150,7 +150,7 @@ III. ― Actes relatifs aux groupements dotés de la personnalité morale :
 
 ― candidature aux fonctions de gérant et d'administrateur ;
 
-― copropriété des immeubles bâtis : actes visés aux art. 25 à 28-1, 30, 35 et 38 de la loi n° 65-557 du 10 juillet 1965.
+― copropriété des immeubles bâtis : actes visés aux art. 25 à 28-1,30,35 et 38 de la loi n° 65-557 du 10 juillet 1965.
 
 |
 
@@ -194,7 +194,7 @@ V. ― Actes à titre gratuit :
 
 |
 
-V. - Actes à titre gratuit :
+V.-Actes à titre gratuit :
 
 ― donation consentie par une personne protégée majeure (art. 470, al. 2 et 476, al. 1er du code civil) ;
 
@@ -255,6 +255,8 @@ VII. ― Assurances :
 VII. ― Assurances :
 
 ― demande d'avance sur contrat d'assurance (art. L. 132-21 du code des assurances).
+
+― l'exercice par le bénéficiaire d'un contrat de l'option irrévocable de remise en titres, parts ou actions (art. L. 131-1 du code des assurances).
 
 |
 
