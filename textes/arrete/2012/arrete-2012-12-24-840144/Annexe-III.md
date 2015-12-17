@@ -390,6 +390,16 @@ Sous-directeur des risques chroniques et du pilotage
 
 |
 
+Direction générale de la prévention des risques |
+
+Sous-directeur santé, environnement, produits chimiques, agriculture |
+
+Direction générale de la prévention des risques |
+
+Sous-directeur déchets et économie circulaire
+
+|
+
 Service central d'hydrométéorologie et d'appui à la prévision des inondations
 
 |
