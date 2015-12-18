@@ -2,44 +2,6 @@
 
 LIAISONS RÉGULIÈRES DE PASSAGERS, DE COURRIER ET DE FRET
 
-Jusqu'au 30 novembre 2010 :
-
-Paris-Fortaleza (Brésil) ;
-
-Paris-Salvador de Bahia (Brésil).
-
-Jusqu'au 31 juillet 2012 :
-
-Paris-Dakar (Sénégal).
-
-Jusqu'au 31 mars 2013 :
-
-Paris-Varadero (Cuba).
-
-Jusqu'au 30 avril 2013 :
-
-Paris-Chiangmai (Thaïlande) ;
-
-Paris-Phuket (Thaïlande).
-
-Jusqu'au 31 décembre 2013 :
-
-Paris-Nassau (Bahamas) ;
-
-Paris-Dzaoudzi (Mayotte).
-
-Jusqu'au 31 mars 2014 :
-
-Paris-Freeport (Bahamas) ;
-
-Paris-New York (Etats-Unis) ;
-
-Paris-Samana (République dominicaine).
-
-Jusqu'au 15 mai 2015 :
-
-Paris-Las Vegas (Etats-Unis).
-
 Jusqu'au 15 octobre 2016 :
 
 Paris-Salvador de Bahia (Brésil).
@@ -109,3 +71,7 @@ Lille-Bodrum (Turquie) ;
 Lille-Djerba (Tunisie) ;
 
 Lille-Monastir (Tunisie).
+
+Jusqu'au 30 novembre 2020 :
+
+Paris-Samana (République dominicaine).
