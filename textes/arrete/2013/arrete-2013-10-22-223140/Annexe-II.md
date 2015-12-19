@@ -4,9 +4,7 @@ FRÉQUENCE DES PRÉLÈVEMENTS D'ÉCHANTILLONS D'EAU ET D'ANALYSES,
 
 MENTIONNÉE À L'ARTICLE 4
 
-Tableau 1. - Fréquence des prélèvements d'échantillons d'eau
-
-et d'analyses à la ressource, mentionnée à l'article 4
+Tableau 1. - Fréquence des prélèvements d'échantillons d'eau et d'analyses à la ressource, mentionnée à l'article 4
 
 POINTS DE
 
@@ -16,7 +14,7 @@ NOMBRE D'ANALYSES À RÉALISER PAR AN |
 
 A chaque émergence |
 
-1 analyse Ress2 (1) et 4 analyses Ress1
+0,2 analyse Ress0, 1 analyse Ress2 (1) et 4 analyses Ress1
 
 Dans le cas d'un établissement thermal, l'analyse Ress 2 (1) et 1 des analyses Ress1 sont à faire avant l'ouverture annuelle de l'établissement le cas échéant. |
 
@@ -41,8 +39,6 @@ NOMBRE ANNUEL D'ANALYSES
 Au point où les eaux sont conditionnées
 
 Avant ou après soutirage
-
-Par chaîne de conditionnement
 
 |
 
@@ -76,7 +72,11 @@ Supérieur à 60 m ³ par jour |
 
 1 analyse de type Cdt4 |
 
-(1) Volume annuel moyen, le calcul est basé sur une année civile (365 jours dans l'année) et non en jours d'ouverture. |
+(1) Volume annuel moyen, le calcul est basé sur une année civile (365 jours dans l'année) et non en jours d'ouverture.
+
+Si plusieurs chaînes de conditionnement sont alimentées par une même canalisation, le contrôle de certains paramètres peut s'effectuer au choix sur une seule chaîne de conditionnement définie par le directeur général de l'agence régionale de santé, quel que soit l'atelier de conditionnement.
+
+|
 
 Tableau 3. - Fréquence minimale des prélèvements et échantillons d'eau et d'analyses
 
@@ -97,8 +97,6 @@ NOMBRE ANNUEL D'ANALYSES
 Au point où les eaux sont conditionnées
 
 Avant ou après soutirage
-
-Par chaîne de conditionnement
 
 |
 
@@ -132,7 +130,11 @@ Supérieur à 60 m ³ par jour |
 
 1 analyse de type Cdt4 |
 
-(1) Volume annuel moyen, le calcul est basé sur une année civile (365 jours dans l'année) et non en jours d'ouverture. |
+(1) Volume annuel moyen, le calcul est basé sur une année civile (365 jours dans l'année) et non en jours d'ouverture.
+
+Si plusieurs chaînes de conditionnement sont alimentées par une même canalisation, le contrôle de certains paramètres peut s'effectuer au choix sur une seule chaîne de conditionnement définie par le directeur général de l'agence régionale de santé, quel que soit l'atelier de conditionnement.
+
+|
 
 Tableau 4. - Fréquence des prélèvements et échantillons d'eau et d'analyses
 

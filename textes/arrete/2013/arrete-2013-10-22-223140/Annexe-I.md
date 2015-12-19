@@ -34,7 +34,7 @@ PARAMÈTRES À RECHERCHER (X) OU NON (/)
 
 dans l'eau minérale naturelle (EMN), l'eau de source (ES)
 
-ou l'eau rendue potable par traitements (ERPT) |
+ou l'eau rendue potable par traitements (ERPT) (3) |
 
 TYPE D'ANALYSES
 
@@ -568,7 +568,7 @@ x |
 
 Paramètres organiques |
 
-Acrylamide |
+Acrylamide (3) |
 
 x |
 
@@ -736,7 +736,7 @@ x |
 
 / |
 
-Epichlorhydrine |
+Epichlorhydrine (3) |
 
 x |
 
@@ -768,7 +768,7 @@ F |
 
 / |
 
-C.-Radioactivité (selon l'arrêté du 12 mai 2004) |
+C.-Radioactivité |
 
 Activité alpha globale (2) |
 
@@ -777,6 +777,18 @@ x |
 / |
 
 / |
+
+Radon (3) (4)
+
+|
+
+x
+
+|
+
+|
+
+|
 
 Activité bêta globale (2) |
 
@@ -794,7 +806,7 @@ x |
 
 / |
 
-Autres radionucléides pour le calcul de la dose totale indicative (DTI) (2) |
+Autres radionucléides pour le calcul de la dose indicative (DI) (2) |
 
 x |
 
@@ -812,15 +824,23 @@ D : la mesure n'est réalisée que quand l'EMN est sulfurée et alimente un éta
 
 E : paramètre à rechercher si l'EMN ou l'ES fait mention du caractère approprié de l'eau pour l'alimentation du nourrisson.
 
-F : la mesure est réalisée uniquement pour les eaux d'origine superficielle rendue potable par traitement.
+F : la mesure est réalisée uniquement pour les eaux d'origine superficielle rendue potable par traitement. L'analyse est seulement nécessaire lorsque des observations visuelles ou analytiques mettent en évidence un risque de prolifération de cyanobactéries.
 
 (1) Par pesticides, on entend les insecticides, herbicides, fongicides, nématocides, acaricides, algicides, rodenticides, produits antimoisissures organiques et produits apparentés, notamment les régulateurs de croissance et leurs métabolites, produits de réaction et de dégradation pertinents. Par total des pesticides, on entend la somme de tous les pesticides individualisés détectés et quantifiés.
 
 Les substances susceptibles d'être présentes doivent être recherchées en priorité.
 
-(2) En cas de valeurs de l'activité alpha globale supérieures à 0,1 Bq/ l ou de l'activité bêta globale supérieures à 1,0 Bq/ l ou du tritium supérieures à 100 Bq/ l, il est procédé à l'analyse des radionucléides spécifiques définie dans l'arrêté du 12 mai 2004 fixant les modalités de contrôle de la qualité radiologique des eaux destinées à la consommation humaine, mentionné à l'article R. 1321-20 du code de la santé publique.
+(2) En cas de valeurs de l'activité alpha globale supérieures à 0,1 Bq/ l ou de l'activité bêta globale supérieures à 1,0 Bq/ l ou du tritium supérieures à 100 Bq/ l, il est procédé à l'analyse des radionucléides spécifiques définie dans l'arrêté mentionné à l'article R. 1321-20 du code de la santé publique.
 
-Afin de déterminer l'activité béta globale résiduelle, le potassium doit être recherché concomitamment à la mesure des paramètres radiologiques. La mesure du potassium est réalisée lors de la mesure de l'équilibre calcocarbonique. |
+Afin de déterminer l'activité béta globale résiduelle, le potassium doit être recherché concomitamment à la mesure des paramètres radiologiques. La mesure du potassium est réalisée lors de la mesure de l'équilibre calcocarbonique.
+
+(3) La limite de qualité se réfère à la concentration résiduelle en monomères dans l'eau calculée conformément aux spécifications de la migration maximale du polymère correspondant en contact avec l'eau.
+
+(3) S'agissant des modalités de mise en œuvre, se référer à l'arrêté pris en application de l'article R. 1321-15 du code de la santé publique pour la mesure du radon dans le cadre du contrôle sanitaire des eaux.
+
+(4) A rechercher pour les eaux de source et les eaux rendues potables par traitements d'origine souterraine.
+
+|
 
 Tableau 2.-Contenu des analyses à effectuer sur les échantillons d'eau prélevés aux points
 
@@ -830,7 +850,7 @@ PARAMÈTRES À RECHERCHER (X) OU NON (/)
 
 dans l'eau minérale naturelle (EMN), l'eau de source (ES)
 
-ou l'eau rendue potable par traitements (ERPT) |
+ou l'eau rendue potable par traitements (ERPT) (3) |
 
 TYPE D'ANALYSES À RÉALISER AU POINT
 
@@ -1356,7 +1376,7 @@ D |
 
 Paramètres organiques |
 
-Acrylamide |
+Acrylamide (3) |
 
 / |
 
@@ -1526,7 +1546,7 @@ x |
 
 / |
 
-Epichlorhydrine |
+Epichlorhydrine (3) |
 
 / |
 
@@ -1556,7 +1576,7 @@ x |
 
 / |
 
-C.-Radioactivité (selon l'arrêté du 12 mai 2004)
+C.-Radioactivité
 
 |
 
@@ -1590,7 +1610,7 @@ Tritium (2) |
 
 G, F |
 
-Autres radionucléides pour le calcul de la dose totale indicative (DTI) (2) |
+Autres radionucléides pour le calcul de la dose indicative (DI) (2) |
 
 / |
 
@@ -1610,7 +1630,7 @@ D : paramètre à rechercher en Cdt2 si c'est une EMN.
 
 E : paramètre à rechercher en Cdt1 lorsqu'il est utilisé comme agent de floculation (concerne uniquement les ERPT), sinon en Cdt2.
 
-F : paramètre à rechercher en Cdt4 systématiquement pour les eaux faisant état du caractère approprié pour l'alimentation des nourrissons.
+F : paramètre à rechercher systématiquement pour les eaux faisant état du caractère approprié pour l'alimentation des nourrissons.
 
 G : paramètre à rechercher en Cdt4 si l'eau présente, à la ressource, un dépassement de l'activité alpha globale, ou de l'activité béta globale, ou du tritium par rapport aux références de qualité définies pour les ES/ ERPT et aux limites de qualité définies pour les EMN/ ES faisant mention du caractère approprié de l'eau pour l'alimentation du nourrisson fixées dans l'arrêté du 14 mars 2007 modifié relatif aux critères de qualité des eaux conditionnées, aux traitements et mentions d'étiquetage particuliers des eaux minérales naturelles et de source conditionnées ainsi que de l'eau minérale naturelle distribuée en buvette publique.
 
@@ -1618,9 +1638,13 @@ G : paramètre à rechercher en Cdt4 si l'eau présente, à la ressource, un dé
 
 Les substances susceptibles d'être présentes doivent être recherchées en priorité.
 
-(2) En cas de valeurs de l'activité alpha globale supérieures à 0,1 Bq/ l ou de l'activité bêta globale supérieures à 1,0 Bq/ l ou du tritium supérieures à 100 Bq/ l, il est procédé à l'analyse des radionucléides spécifiques définie dans l'arrêté du 12 mai 2004 fixant les modalités de contrôle de la qualité radiologique des eaux destinées à la consommation humaine, mentionné à l'article R. 1321-20 du code de la santé publique.
+(2) En cas de valeurs de l'activité alpha globale supérieures à 0,1 Bq/ l ou de l'activité bêta globale supérieures à 1,0 Bq/ l ou du tritium supérieures à 100 Bq/ l, il est procédé à l'analyse des radionucléides spécifiques définie dans l'arrêté mentionné à l'article R. 1321-20 du code de la santé publique.
 
-Afin de déterminer l'activité béta globale résiduelle, le potassium doit être recherché concomitamment à la mesure des paramètres radiologiques. La mesure du potassium est réalisée lors de la mesure de l'équilibre calcocarbonique. |
+Afin de déterminer l'activité béta globale résiduelle, le potassium doit être recherché concomitamment à la mesure des paramètres radiologiques. La mesure du potassium est réalisée lors de la mesure de l'équilibre calcocarbonique.
+
+(3) La limite de qualité se réfère à la concentration résiduelle en monomères dans l'eau calculée conformément aux spécifications de la migration maximale du polymère correspondant en contact avec l'eau.
+
+|
 
 Tableau 3.-Contenu des analyses à effectuer sur les échantillons d'eau prélevés aux points d'usages dans l'établissement thermal par catégorie de soins dans chaque bâtiment et réseau (unité de distribution) différenciés pour les soins autres que les soins externes collectifs, dans des conditions normales de fonctionnement de l'établissement, ou par bassin pour les soins externes collectifs
 
@@ -1942,4 +1966,6 @@ D : la mesure n'est réalisée que lorsque de tels produits sont utilisés.
 
 E : paramètre à rechercher si l'eau est utilisée en cure de boisson.
 
-F : paramètre à rechercher si l'eau a fait l'objet d'un traitement de chloration. |
+F : paramètre à rechercher si l'eau a fait l'objet d'un traitement de chloration.
+
+|

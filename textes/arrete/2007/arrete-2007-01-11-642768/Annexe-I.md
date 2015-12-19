@@ -904,9 +904,7 @@ Température
 
 |
 
-o
-
-C
+oC
 
 |
 
@@ -986,7 +984,7 @@ En cas de valeur supérieure à 1,0 Bq/L, il est procédé à l’analyse des ra
 
 |
 
-Dose totale indicative (DTI)
+Dose indicative (DI)
 
 |
 
@@ -998,9 +996,17 @@ mSv/an
 
 |
 
-Le calcul de la DTI est effectué selon les modalités définies à l’article R. 1321-20
+Le calcul de la DI est effectué selon les modalités définies à l’article R. 1321-20
 
 |
+
+Radon |
+
+100 |
+
+Bq/L |
+
+Uniquement pour les eaux d'origine souterraine |
 
 Tritium
 
