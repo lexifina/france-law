@@ -56,6 +56,10 @@ II.-Animation :
 
 10° Le ou les contrats de prestation, les annexes et éventuels avenants s'ils n'ont pas été fournis lors de l'autorisation préalable ou si de nouveaux avenants ont été signés ;
 
+10° bis Le cas échéant, tout contrat de prévente internationale lorsqu'il n'a pas été remis dans le dossier de demande d'autorisation préalable ;
+
+10° ter Le cas échéant, un document valant attestation sur l'honneur signé par le représentant légal de l'entreprise de production indiquant que la totalité des scénarios est écrite et enregistrée en version originale en langue française ;
+
 11° Une copie vidéo de l'œuvre incluant les génériques.
 
 III.-Documentaire de création :
@@ -68,13 +72,13 @@ III.-Documentaire de création :
 
 4° Tout contrat de coproduction conclu depuis l'obtention de l'autorisation préalable ainsi que la justification de son inscription au registre public du cinéma et de l'audiovisuel, lorsque l'œuvre a été immatriculée ;
 
-5° Le relevé complet des génériques ;
+5° Le relevé complet des génériques créditant notamment les conseillers historiques ou scientifiques ou les experts ;
 
 6° La liste nominative définitive avec mention des nationalités et de la résidence fiscale des personnels engagés sur la production de l'œuvre, précisant la fonction, la durée du travail, les salaires bruts et la part patronale des charges afférentes à chacune de ces rémunérations ;
 
 7° La copie des notes de droits d'auteur et la copie des bulletins de paie correspondant aux postes suivants : réalisateur (y compris lorsqu'il est embauché sous le statut de journaliste), directeur de la photographie, chef opérateur de prise de vues, chef opérateur de prise de son, ingénieur du son, chef monteur, directeur de production, producteur exécutif et l'animateur intervenant à l'image ;
 
-8° Le contrat du ou des diffuseurs, ses annexes et éventuels avenants s'ils n'ont pas été fournis lors de l'autorisation préalable ou si de nouveaux avenants ont été signés ;
+8° Le contrat du ou des diffuseurs, y compris ceux établis à l'étranger, ses annexes et éventuels avenants s'ils n'ont pas été fournis lors de l'autorisation préalable ou si de nouveaux avenants ont été signés ;
 
 8° bis En cas d'apport en industrie, un document valant attestation sur l'honneur, cosigné par le représentant légal de l'entreprise de production et par le représentant légal de l'éditeur de services de télévision, ou par toute personne dûment habilitée à cet effet, indiquant la valorisation définitive de cet apport, précisant la méthode de valorisation retenue et détaillant les moyens effectivement mis à disposition ainsi que la date et la durée de la mise à disposition ;
 
@@ -82,7 +86,9 @@ III.-Documentaire de création :
 
 10° Le ou les contrats de prestation, les annexes et éventuels avenants s'ils n'ont pas été fournis lors de l'autorisation préalable ou si de nouveaux avenants ont été signés ;
 
-11° Une copie vidéo de l'œuvre incluant les génériques.
+11° Une copie vidéo de l'œuvre incluant les génériques. ;
+
+12° Le cas échéant, le curriculum vitae et la bibliométrie des conseillers historiques ou scientifiques ou, à défaut, une note de l'entreprise de production détaillant les modalités de consultation des experts et justifiant le choix de ces experts en intégrant leur bibliographie sur le sujet traité, s'ils n'ont pas été fournis lors de l'autorisation préalable.
 
 IV.-Adaptation audiovisuelle de spectacle vivant :
 
@@ -98,11 +104,13 @@ IV.-Adaptation audiovisuelle de spectacle vivant :
 
 6° La liste nominative définitive avec mention des nationalités et de la résidence fiscale des personnels engagés sur la production de l'œuvre, précisant la fonction, la durée du travail, les salaires bruts et la part patronale des charges afférentes à chacune de ces rémunérations ;
 
-7° Tout contrat de cession des droits à l'image et d'interprétation des artistes-interprètes ;
+6° bis Lorsqu'ils ne sont pas embauchés par l'entreprise de production déléguée, un document émanant de l'employeur attestant du nombre de jours de travail effectif des techniciens suivants : chef opérateur, scripte, ingénieur du son, ingénieur de la vision, chef monteur, mixeur, étalonneur, conseiller musical ;
 
-8° La copie des notes de droits d'auteur et la copie des bulletins de paie correspondant aux postes suivants : réalisateur-technicien, directeur de la photographie, ingénieur du son tournage, chef monteur, ingénieur du son mixage, scripte ;
+7° Tout contrat de cession des droits à l'image et d'interprétation des artistes-interprètes, ainsi que tout contrat avec les personnes physiques ou morales pouvant faire valoir leur droit à l'image sur le spectacle objet de l'œuvre audiovisuelle, notamment le contrat avec les ayants droit du spectacle et leurs annexes, s'ils n'ont pas été fournis lors de l'autorisation préalable ;
 
-9° Le contrat du ou des diffuseurs, ses annexes et éventuels avenants s'ils n'ont pas été fournis lors de l'autorisation préalable ou si de nouveaux avenants ont été signés ;
+8° La copie des notes de droits d'auteur et la copie des bulletins de paie correspondant aux postes suivants : réalisateur, chef opérateur, scripte, ingénieur du son, ingénieur de la vision, chef monteur, mixeur, étalonneur, conseiller musical ;
+
+9° Le contrat du ou des diffuseurs, y compris ceux établis à l'étranger, ses annexes et éventuels avenants s'ils n'ont pas été fournis lors de l'autorisation préalable ou si de nouveaux avenants ont été signés ;
 
 9° bis En cas d'apport en industrie, un document valant attestation sur l'honneur, cosigné par le représentant légal de l'entreprise de production et par le représentant légal de l'éditeur de services de télévision, ou par toute personne dûment habilitée à cet effet, indiquant la valorisation définitive de cet apport, précisant la méthode de valorisation retenue et détaillant les moyens effectivement mis à disposition ainsi que la date et la durée de la mise à disposition ;
 

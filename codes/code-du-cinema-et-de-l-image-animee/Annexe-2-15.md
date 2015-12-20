@@ -1,6 +1,6 @@
 # Article Annexe 2-15
 
-Aides à l'écriture (article 212-18)
+Aides à l'écriture (article 212-25)
 
 Liste des documents justificatifs :
 

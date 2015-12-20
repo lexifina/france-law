@@ -1,6 +1,6 @@
 # Article Annexe 2-16
 
-Décision d'attribution à titre définitif des aides à l'écriture (article 212-22)
+Décision d'attribution à titre définitif des aides à l'écriture (article 212-29)
 
 Liste des documents justificatifs :
 

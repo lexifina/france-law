@@ -1,6 +1,6 @@
 # Article Annexe 2-14
 
-Aides à l'écriture de scénario-Liste de festivals (article 212-14)
+Aides à l'écriture de scénario-Liste de festivals (article 212-21)
 
 1° Sélection en compétition dans l'un des festivals suivants en France (catégorie 1) :
 

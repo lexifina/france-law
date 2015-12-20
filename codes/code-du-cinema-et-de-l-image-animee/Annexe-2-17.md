@@ -1,6 +1,6 @@
 # Article Annexe 2-17
 
-Aides à la réécriture (article 212-35)
+Aides à la réécriture (article 212-42)
 
 Liste des documents justificatifs :
 
