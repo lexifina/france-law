@@ -76,7 +76,59 @@ Dans les parties de jouets destinées à conduire le courant électrique.
 
 IV. - Valeurs limites spécifiques pour les produits chimiques utilisés dans les jouets destinés à l'usage d'enfants de moins de trente-six mois ou dans d'autres jouets destinés à être mis en bouche en application du 6 de la partie III "Propriétés chimiques" de l'annexe I du décret du 22 février 2010 susvisé
 
-Aucune.
+SUBSTANCE
+
+|
+
+NUMÉRO CAS
+
+|
+
+VALEUR LIMITE
+
+|
+
+TCEP
+
+|
+
+115-96-8 |
+
+5 mg/kg (teneur limite)
+
+|
+
+TCPP
+
+|
+
+13674-84-5 |
+
+5 mg/kg (teneur limite)
+
+|
+
+TDCP
+
+|
+
+13674-87-8 |
+
+5 mg/kg (teneur limite)
+
+|
+
+Bisphénol A
+
+|
+
+80-05-7 |
+
+0,1 mg/l (limite de migration), conformément aux méthodes établies
+
+par les normes EN 71-10 : 2005 et EN 71-11 : 2005
+
+|
 
 V. - Conditions d'emploi des substances parfumantes allergisantes dans les jouets en application du 9 de la partie "Propriétés chimiques" de l'annexe I du décret du 22 février 2010 susvisé
 
