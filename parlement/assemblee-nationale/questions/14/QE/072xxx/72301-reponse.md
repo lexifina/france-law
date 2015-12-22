@@ -1,0 +1,9 @@
+# Réponse à la question n° 72301
+
+- Question : [72301](72301.md) — Question n° 72301 — Grasse; surveillants; effectifs; conséquences
+
+## Réponse
+
+*JO du 2015-12-22*
+
+Les conditions de travail et de détention dans les établissements pénitentiaires français constituent une priorité du ministère de la justice afin de garantir la dignité et la sécurité des personnes détenues mais aussi celles des personnels de l’administration pénitentiaire Concernant les emplois, la Ministre de la justice a obtenu en juin 2014, les crédits permettant de pourvoir à 534 vacances de postes sur le triennal 2015 /2017, ce qui, au regard du contexte budgétaire national, est un effort significatif. Concernant les effectifs de la maison d’arrêt (MA) de Grasse, l’établissement comptabilise 129,3 surveillants pour une référence établie à 139, soit un taux de couverture de 93,02%. A la fin de l’année 2014 la MA de Grasse faisant partie des établissements les plus en difficulté dans le ressort de la direction interrégionale des services pénitentiaires (DISP) de Marseille. Pour cette raison, 12 postes ont été proposés lors de la commission administrative paritaire (CAP) de mobilité, qui s’est tenue fin janvier 2015. Au terme de celle-ci, 7 départs ont été enregistrés pour 14 arrivées avec une prise de fonction fixée au 22 juin 2015. Afin de combler les vacances de postes consécutive à cette CAP et afin de rendre optimale la gestion des effectifs, la DISP de Marseille a souhaité affecter à la MA de Grasse 6 stagiaires, dans l’enveloppe de postes qui lui est allouée. Ce renfort a permis de porter le taux de couverture à 96,59%. Au cours de la CAP de juin 2015, 4 postes ont été publiés et ont tous été pourvus. Les agents mutés prendront leur fonction au 14 décembre 2015, à cette date, le taux de couverture s’élèvera à 98,07%.
