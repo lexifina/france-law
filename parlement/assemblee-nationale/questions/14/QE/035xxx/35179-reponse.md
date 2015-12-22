@@ -1,0 +1,9 @@
+# Réponse à la question n° 35179
+
+- Question : [35179](35179.md) — Question n° 35179 — paiement des acomptes; réforme
+
+## Réponse
+
+*JO du 2015-12-22*
+
+Depuis le 1er janvier 2015, en application de l’article 20 de la loi no 2013-1279 du 29 décembre 2013 de finances rectificative pour 2013, les échéances trimestrielles d’acomptes de TVA des redevables relevant du régime simplifié d’imposition (RSI) sont remplacées par des échéances semestrielles. Cette réforme a pour objectif de simplifier les modalités déclaratives des entreprises relevant du RSI en matière de TVA. Les entreprises concernées déposent ainsi désormais deux acomptes de TVA, en juillet et en décembre, en lieu et place des quatre acomptes trimestriels qui étaient auparavant dus en avril, juillet, octobre et décembre. Ces acomptes semestriels correspondent respectivement à 55 % et 40 % de la taxe due au titre de l’exercice précédent avant déduction de la TVA relative aux biens constituant des immobilisations. Le complément d’impôt éventuellement exigible est versé lors de la déclaration annuelle. Ces nouvelles obligations permettent ainsi de calculer le premier acompte dû en fonction de la déclaration annuelle déposée au titre du dernier exercice et non plus en fonction de celle déposée au titre de l’avant-dernier exercice. Afin que cette réforme soit neutre pour le budget de l’État et que l’acompte semestriel reste à un niveau financièrement acceptable pour les entreprises, le même article 20 de la loi de finances rectificative pour 2013 dispose que les entreprises dont le chiffre d’affaires est compris dans les limites du RSI mais qui acquittent plus de 15 000 € de TVA par an, déclarent mensuellement la TVA à compter des exercices clos au 31 décembre 2014. Cette réforme a vocation à simplifier, pour les plus petites entreprises, la gestion de leurs obligations en matière de collecte de la TVA.
