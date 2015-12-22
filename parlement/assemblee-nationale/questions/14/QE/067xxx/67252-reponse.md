@@ -1,0 +1,9 @@
+# Réponse à la question n° 67252
+
+- Question : [67252](67252.md) — Question n° 67252 — simplification; inflation normative; contradiction
+
+## Réponse
+
+*JO du 2015-12-22*
+
+La question de la maîtrise de la norme fait l’objet de nombreux débats en France depuis un rapport du Conseil d’Etat de 1991 qui dénonce l’inflation normative et la faible qualité du droit. A titre d’illustration, le Journal officiel de la République française est passé de moins de 15 000 pages par an dans les années 1980 à 23 000 en moyenne ces dernières années. L’ensemble des lois publiées en 2013 représentent plus de 3 800 000 caractères, soit deux fois plus qu’en 2002. Or, les normes coutent cher et l’OCDE estime qu’elles représentent entre 3 et 4% du PIB dans la plupart des pays développés (OCDE), soit 72 milliards d’euros en France. Dans ces conditions, le Gouvernement a souhaité agir rapidement en privilégiant la maîtrise des flux, tant d’un point de vue quantitatif que qualitatif. Ainsi, dès 2013, le Premier ministre a instauré un moratoire en imposant un gel de la réglementation par la circulaire du 17 juillet 2013 : toute nouvelle norme doit être compensée par la suppression d’une norme d’un montant équivalent (« un pour un »). Pour les normes applicables aux collectivités territoriales, la loi impose que les impacts de toute nouvelle norme soient examinés par le Conseil national d’évaluation des normes (CNEN) ; une circulaire du Premier ministre du 9 octobre 2014 soumet toutes ces normes au gel de la règlementation à partir du 1er janvier 2015. Par ailleurs, signée par le ministre de l’économie le 1er décembre 2014, la Charte sur la nouvelle gouvernance fiscale assure la stabilité de la norme fiscale. On le voit, le mouvement de simplification et de maîtrise des flux atteint un niveau jamais mis en place précédemment et traduit une volonté très forte du Gouvernement de lutter contre l’inflation législative.
