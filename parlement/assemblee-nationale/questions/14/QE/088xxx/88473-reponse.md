@@ -1,0 +1,9 @@
+# Réponse à la question n° 88473
+
+- Question : [88473](88473.md) — Question n° 88473 — silence vaut acceptation; perspectives
+
+## Réponse
+
+*JO du 2015-12-22*
+
+L’application du principe du silence vaut accord connait des exceptions de différentes natures. Le législateur a lui-même prévu des exceptions de plein droit et il a ensuite renvoyé à des décrets en Conseil d’Etat la détermination des cas où une acceptation implicite ne serait pas compatible avec le respect des engagements internationaux et européens de la France, la protection de la sécurité nationale, la protection des libertés et des principes à valeur constitutionnelle et la sauvegarde de l’ordre public. Le Conseil d’Etat s’est livré à un minutieux travail d’expertise de telle sorte que le champ des exceptions soit entendu strictement. Toutefois, un groupe de travail associant notamment des parlementaires sera prochainement constitué afin de reconsidérer le principe même du champ des exceptions au « silence vaut accord » instituées par la loi. Ce réexamen permettra ensuite de réduire la liste des exceptions et d’étendre ainsi le champ d’application du principe. Par ailleurs la loi a prévu que des décrets en Conseil d’Etat et en conseil des ministres peuvent, pour certaines décisions, écarter l’application du principe du « silence vaut acceptation » eu égard à l’objet de la décision ou pour des motifs de bonne administration. Cette liste doit être examinée à nouveau et de manière prioritaire par des groupes de travail associant les ministères intéressés. Sans remettre en cause les principes précédemment évoqués, le recul d’une année et l’adaptation croissante des méthodes de travail des administrations à la mise en œuvre du nouveau principe doit permettre de requalifier certaines procédures et de réduire le nombre des exceptions.
