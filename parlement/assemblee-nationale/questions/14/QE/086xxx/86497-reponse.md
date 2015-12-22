@@ -1,0 +1,9 @@
+# Réponse à la question n° 86497
+
+- Question : [86497](86497.md) — Question n° 86497 — directive; transposition
+
+## Réponse
+
+*JO du 2015-12-22*
+
+Les travaux de transposition des nouvelles directives européennes no 2014/24/UE du 26 février 2014 sur la passation des marchés publics et no 2014/25/UE du 26 février 2014 relative à la passation des marchés par des entités opérant dans les secteurs de l’eau, de l’énergie, des transports et des services postaux ont été engagés par le Gouvernement avec l’objectif de simplifier, d’unifier et de rationaliser le droit national de la commande publique. L’ordonnance no 2015-899 du 23 juillet 2015 transpose le volet législatif de ces nouvelles directives, conformément à l’habilitation adoptée par le Parlement à l’article 42 de la loi no 2014-1545 du 20 décembre 2014 relative à la simplification de la vie des entreprises. Elle comprend un article 8 qui reprend la définition du concours en tant que mode de sélection permettant à l’acheteur de choisir un plan ou un projet dans le domaine de l’aménagement du territoire, de l’urbanisme, de l’architecture et de l’ingénierie ou du traitement de données. Ces dispositions législatives seront complétées par des décrets d’application qui parachèveront les travaux de transposition. Y figureront notamment les modalités pratiques d’organisation du concours ainsi que des dispositions spécifiques sur les marchés de maîtrise d’œuvre. Le Gouvernement reconnaît en effet le rôle fondamental joué par les architectes et les professionnels de la maîtrise d’œuvre dans la conception d’un cadre de vie innovant et de qualité. Il considère donc nécessaire de maintenir la spécificité du droit français de la commande publique existant en la matière afin de préserver la qualité architecturale des constructions publiques.
