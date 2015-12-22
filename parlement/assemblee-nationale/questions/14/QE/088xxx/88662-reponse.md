@@ -1,0 +1,9 @@
+# Réponse à la question n° 88662
+
+- Question : [88662](88662.md) — Question n° 88662 — indemnité compensatoire de contraintes environnementales
+
+## Réponse
+
+*JO du 2015-12-22*
+
+Neuf bassins versants en Bretagne font l’objet d’un plan d’actions spécifique depuis 2007 au titre du contentieux « eaux brutes » avec la Commission européenne (CE), pour utilisation d’eau brute non conforme pour la production d’eau potable. Il s’agit des bassins versants de l’Aber Wrac’h, l’Arguenon, le Bizien, les Échelles, le Gouessant, le Guindy, l’Horn, l’Ic et l’Urne. Des dispositifs d’aides ont été notifiés à la CE pour accompagner les agriculteurs. En particulier, en application du décret no 2008-453 et de l’arrêté du 14 mai 2008 modifié, une indemnité compensatoire de contraintes environnementales a pu être versée aux agriculteurs ayant l’obligation de limiter les apports azotés. L’indemnité avait pour objet de compenser de façon dégressive sur 5 ans (2008-2012) les surcoûts et pertes de revenu liés à la limitation des apports azotés. 1 170 exploitations ont bénéficié de ce dispositif. Le financement de cette mesure a été assuré à 72 % par des crédits du ministère de l’agriculture, de l’agroalimentaire et de la forêt et à 28 % par des crédits du programme d’interventions territoriales de l’État pour un montant global de 26,6 millions d’euros sur la période 2008-2012. Les teneurs en nitrates des eaux sont en diminution régulière dans les bassins versants. Compte tenu de cette évolution, le Gouvernement a demandé à la CE la levée des plans d’actions obligatoires sur les cinq bassins versants redevenus conformes. La CE a accepté en juillet 2015 la levée des mesures réglementaires pour les cinq bassins versants revenus à la conformité depuis plus de trois ans. Le Gouvernement se félicite de cette décision qui reconnaît les progrès réalisés depuis 2007.
