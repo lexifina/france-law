@@ -1,0 +1,9 @@
+# Réponse à la question n° 85229
+
+- Question : [85229](85229.md) — Question n° 85229 — tours opérateurs; pratiques abusives; encadrement
+
+## Réponse
+
+*JO du 2015-12-22*
+
+Afin d’assurer un haut niveau de protection aux consommateurs, le code du tourisme impose que tout voyagiste soit immatriculé auprès d’Atout France, agence touristique de développement touristique de la France. Une des trois conditions requises pour être immatriculé est de disposer d’une garantie financière suffisante, spécialement affectée au remboursement des fonds reçus notamment au titre des forfaits touristiques (article L. 211-18, II, du code du tourisme). Ces dispositions, qui visent à garantir le consommateur, s’appliquent en cas d’insolvabilité ou de faillite du vendeur. Afin de mieux protéger le consommateur et respecter la jurisprudence de la Cour de justice de l’Union européenne en la matière, le décret no 2015-1111 du 2 septembre 2015, relatif à la garantie financière et à la responsabilité civile professionnelle des agents de voyage et autres opérateurs de la vente de voyages et de séjours, a précisé dans le code du tourisme la définition de "garantie suffisante". Celle-ci doit couvrir la totalité des fonds déposés par le consommateur auprès de ces opérateurs. Le caractère général de cette garantie rend donc l’éventuel encadrement réglementaire des acomptes versés par les consommateurs sans objet. Le projet de directive relative aux voyages à forfait et aux prestations de voyage liées, adopté par le Conseil le 18 septembre 2015, et le Parlement européen le 27 octobre 2015, prévoit d’étendre cette protection à d’autres prestations qui ne sont pas couvertes actuellement, comme les forfaits dynamiques, constitués par le voyageur auprès d’un unique voyagiste, ou les prestations de voyage liées achetées auprès de plusieurs professionnels, lorsque l’un d’entre eux a facilité la conclusion de ces contrats.
