@@ -1,0 +1,9 @@
+# Réponse à la question n° 76670
+
+- Question : [76670](76670.md) — Question n° 76670 — stratégie d'investissement; perspectives
+
+## Réponse
+
+*JO du 2015-12-22*
+
+Le règlement établissant le fonds européen d’investissement stratégique (FEIS) prévoit en effet la possibilité pour les banques nationales de développement (BND) de participer au plan d’investissement européen. Elles pourront prendre part à la mise en œuvre du plan d’investissement selon trois modalités : - une contribution directe au fond de garantie sous forme d’apport de garantie ou de contribution directe, au même titre que l’apport de la Banque européenne d’investissement (BEI) et du budget de l’Union européenne (UE). La France n’a pas retenu cette modalité ; - la possibilité de se voir octroyer une garantie délivrée par la BEI, opérateur central du dispositif, cette dernière étant contre-garantie par le budget de l’UE. A noter que si l’entité considérée ne peut prétendre à la qualification de BND, celle-ci pourrait se constituer en plateforme d’investissement en soumettant au comité d’investissement des groupes de projet aux caractéristiques similaires et solliciter auprès de la BEI une garantie unique pour l’ensemble de ses projets ; - la possibilité de cofinancer les projets d’investissement et participer ainsi à l’effet de levier annoncé du plan. C’est dans ce cadre que le Gouvernement entend contribuer au plan Juncker. La Commission a récemment publié une communication indiquant notamment la contribution éventuelle de ces banques au succès du FEIS. La Commission a rappelé que la structuration de plateformes d’investissement peut constituer une alternative à un co-financement direct par les BND. Le rôle de la BEI dans la structuration de ces plateformes doit toutefois être encore davantage précisé. Les services de l’Etat souhaitent un fonctionnement le plus souple possible, permettant notamment une validation en « paquet » de projets ayant des caractéristiques similaires.
