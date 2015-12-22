@@ -1,0 +1,9 @@
+# Réponse à la question n° 88472
+
+- Question : [88472](88472.md) — Question n° 88472 — silence vaut acceptation; perspectives
+
+## Réponse
+
+*JO du 2015-12-22*
+
+Le législateur a souhaité qu’une liste informative des décisions pour lesquelles le silence gardé sur une demande vaut acceptation soit publiée sur un site internet relevant du Premier ministre, qu’il s’agisse d’ailleurs des décisions relevant de l’Etat ou de celles de la compétence des collectivités territoriales, des organismes de sécurité sociale ainsi que des organismes de droit privé chargés d’une mission de service public. Cette liste, pour les décisions de l’Etat, est disponible sur le site Légifrance et a fait l’objet d’une actualisation le 21 septembre dernier. Elle sera prochainement complétée de la liste des procédures relevant des autres collectivités et organismes précités pour lesquelles le principe de l’accord tacite s’appliquera à compter du 12 novembre 2015. Parallèlement, ces informations ont été rendues disponibles en OPEN DATA et un appel à projet a été lancé pour que des outils innovants en direction du public et des entreprises puissent permettre une meilleure accessibilité au sens qui doit être donné à une absence de réponse de l’administration. Si les projets satisfont aux attentes ils pourraient être rendus disponibles au début de l’année 2016. En revanche, la constitution d’une liste exhaustive des exceptions est une tâche plus délicate, en particulier parce que la loi a prévu des exceptions de plein droit dont la liste est difficile à établir et qui peuvent donner lieu à interprétation. L’établissement d’un tel inventaire risquerait d’induire des erreurs dans la mise en œuvre de cette réforme. Enfin il est précisé que, pour chaque procédure, les accusés réception remis par l’administration au demandeur précisent le sens qui doit être donné à l’absence de réponse formulée à l’issue du délai applicable.
