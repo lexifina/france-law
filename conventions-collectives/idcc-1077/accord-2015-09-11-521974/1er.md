@@ -1,0 +1,3 @@
+# Article 1er
+
+Le présent accord vise les entreprises relevant du champ d'application de la convention collective nationale du négoce et de l'industrie des produits du sol, engrais et produits connexes.
