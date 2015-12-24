@@ -44,15 +44,13 @@ Direction générale de l'armement
 
 |
 
-Directeur de l'unité de management missiles et drone
-
 Directeur de l'unité de management nucléaire, biologique et chimique
 
 Directeur de l'unité de management Horus
 
 Directeur de l'unité de management espace et système d'information opérationnels
 
-Directeur de l'unité de management opérations d'armement hélicoptères
+Directeur de l'unité de management opérations d'armement hélicoptères et missiles
 
 Directeur de l'unité de management avions de missions et de support
 
