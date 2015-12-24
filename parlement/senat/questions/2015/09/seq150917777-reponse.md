@@ -1,0 +1,9 @@
+# Réponse à la question SEQ150917777
+
+- Question : [SEQ150917777](seq150917777.md) — Devenir de la taxe de séjour
+
+## Réponse
+
+*Commerce, artisanat, consommation et économie sociale et solidaire, JO du 2015-12-24, page 3582*
+
+La réforme de la taxe de séjour a été instituée par l'article 67 de la loi n° 2014-1654 du 29 décembre 2014 de finances pour 2015 et son décret d'application n° 2015-970 du 31 juillet 2015. Elle intervient concomitamment à la réforme territoriale de l'État introduite par la loi n° 2015-991 du 7 août 2015 portant nouvelle organisation territoriale de la République (NOTRe). Cette dernière transfère la compétence « promotion du tourisme dont la création d'offices de tourisme » aux communautés d'agglomération et aux communautés de communes. Ce transfert est déjà effectif pour les métropoles de droit commun et les communautés urbaines. Lors des débats parlementaires concernant la loi NOTRe la ministre de la décentralisation et de la fonction publique a clairement indiqué que le transfert de cette compétence excluait la fiscalité et les équipements touristiques. L'organe délibérant d'un établissement public de coopération intercommunale (EPCI) peut donc décider d'instituer, à l'instar des communes, une taxe de séjour selon les conditions prévues à l'article L. 2333-26 du code général des collectivités territoriales et constituer, ainsi, un outil d'harmonisation de la politique touristique sur le territoire communautaire. Toutefois, l'article L. 5211-6 du code général des collectivités territoriales prévoit qu'une commune ayant préalablement à l'EPCI institué la taxe de séjour, peut s'opposer à sa perception par l'EPCI par délibération contraire. En ce cas, la délibération de l'EPCI ne s'appliquera pas dans les territoires des communes membres s'y étant opposées. Il n'y a donc pas de transfert de plein droit de la taxe de séjour au niveau des EPCI à fiscalité propre.
