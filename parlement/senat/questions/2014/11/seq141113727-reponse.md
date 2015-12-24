@@ -1,0 +1,9 @@
+# Réponse à la question SEQ141113727
+
+- Question : [SEQ141113727](seq141113727.md) — Menaces concernant la profession de pharmacien titulaire d'officine
+
+## Réponse
+
+*Économie, industrie et numérique, JO du 2015-12-24, page 3599*
+
+Afin de réformer certaines professions réglementées, la loi n° 2015-990 du 6 août 2015 sur la croissance, l'activité et l'égalité des chances économiques a eu pour ambition de libérer le potentiel inexploité de croissance du pays en levant, de manière pragmatique, les blocages identifiés dans les secteurs clés de l'économie française. Initialement insérées dans cette loi, les dispositions portant sur la réforme de certaines professions ou prestations de santé ont par la suite fait l'objet de négociations et d'intégration dans le cadre du projet de loi de modernisation de notre système de santé adopté par le Sénat le 6 octobre 2015. Ainsi, les consultations des organisations professionnelles qui avaient été engagées par le ministre chargé de l'économie se sont poursuivies sous l'égide du ministère chargé de la santé. Les propositions de réformes faites dans le secteur de la santé, comme celles formulées plus généralement dans le cadre de la loi pour la croissance, l'activité et l'égalité des chances économiques, visent à moderniser et améliorer le fonctionnement de certaines professions réglementées afin d'en faciliter l'accès. Elles visent également et avant tout, à offrir des prestations dont le coût sera plus transparent, afin d'assurer un meilleur accès aux soins de premiers recours au plus grand nombre, en réunissant les conditions de mise en place d'une saine concurrence. Ces propositions ont été faites en tenant compte de la nécessaire exigence de maintenir un niveau de qualité et de sécurité des soins équivalent voire supérieur à ce qui existe aujourd'hui, et dans le respect de la déontologie et des compétences propres à chaque profession de santé.
