@@ -1,0 +1,9 @@
+# Réponse à la question SEQ140210618
+
+- Question : [SEQ140210618](seq140210618.md) — Ouverture des noms de domaine « .vin » et « .wine » et protection des indications géographiques viticoles
+
+## Réponse
+
+*Économie, industrie et numérique, JO du 2015-12-24, page 3594*
+
+Le Gouvernement est engagé depuis plus d'un an et demi, avec ses partenaires européens et la Commission européenne, dans la défense des indications géographiques sur internet. Lors de la dernière réunion de l'Internet Corporation for Assigned Names and Numbers (ICANN) qui s'est déroulée à Londres en juin 2014, la France a signifié aux dirigeants de l'ICANN ainsi qu'aux représentants de l'administration américaine sa totale opposition à la délégation, par l'ICANN, des domaines internet « .vin » et « .wine » sans prise en compte de la protection des indications géographiques. À la suite d'un nouveau recours intenté par la Commission européenne et les organisations viti-vinicoles (procédure de l'ICANN dite de « cooperative engagement »), la délégation de ces deux domaines est aujourd'hui suspendue afin de permettre à l'ICANN, à la Commission européenne et aux représentants des viticulteurs européens de discuter une nouvelle fois. Dans le cas où l'ICANN déciderait in fine de procéder à la délégation des domaines internet « .vin » et « .wine » sans prise en compte de la protection des indications géographiques, le Gouvernement est résolu à tirer, avec ses partenaires européens, toutes les conséquences institutionnelles de l'incapacité de l'ICANN à garantir le respect des lois nationales et européennes sur internet. Par ailleurs, le Gouvernement étudiera toutes les solutions possibles (sur un plan technique, juridique…) permettant de protéger au mieux les indications géographiques dans les domaines internet « .vin » et « .wine ».
