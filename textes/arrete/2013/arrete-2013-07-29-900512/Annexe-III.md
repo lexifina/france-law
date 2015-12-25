@@ -390,7 +390,7 @@ S'arrêter et stationner en épi, en bataille et en créneau.
 
 .
 
-3. CIRCULER
+3. - CIRCULER
 
 dans des conditions difficiles
 
@@ -428,11 +428,9 @@ et de son mode de vie
 
 PRESSIONS
 
-exercées
+exercées par la
 
-par la société :
-
-publicité, travail...
+société : publicité, travail...
 
 |
 
@@ -443,6 +441,8 @@ AUTOÉVALUATION
 Evaluer et maintenir les distances de sécurité.
 
 |
+
+□
 
 |
 
@@ -462,6 +462,8 @@ Croiser, dépasser, être dépassé.
 
 |
 
+□
+
 |
 
 |
@@ -480,7 +482,7 @@ Passer des virages et conduire en déclivité.
 
 |
 
-|
+□
 
 |
 
@@ -494,9 +496,13 @@ Passer des virages et conduire en déclivité.
 
 |
 
-Connaître les caractéristiques des autres usagers et savoir se comporter à leur égard avec respect et courtoisie.
+|
+
+Connaître les caractéristiques des autres usagers et savoir se comporter à leur égard, avec respect et courtoisie.
 
 |
+
+□
 
 |
 
@@ -516,6 +522,8 @@ S'insérer, circuler et sortir d'une voie rapide.
 
 |
 
+□
+
 |
 
 |
@@ -533,6 +541,8 @@ S'insérer, circuler et sortir d'une voie rapide.
 Conduire dans une file de véhicules et dans une circulation dense.
 
 |
+
+□
 
 |
 
@@ -552,7 +562,27 @@ Conduire quand l'adhérence et la visibilité sont réduites.
 
 |
 
+□
+
 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Conduire à l'abord et dans la traversée d'ouvrages routiers tels que les tunnels, les ponts...
+
+|
+
+□
 
 |
 

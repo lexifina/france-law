@@ -664,7 +664,7 @@ Les risques particuliers de l'arrêt et du stationnement de nuit ;
 
 Les risques de la conduite diurne et nocturne ;
 
-Les risques liés à certaines conditions de l'infrastructure et de l'environnement.
+Les risques liés à certaines conditions de l'infrastructure et de l'environnement notamment lors du franchissement d'ouvrages routiers à risques particuliers (tunnels, ponts, passages à niveau...).
 
 Evaluation en circulation des risques lors de l'insertion et de la conduite sur les voies rapides et l'autoroute :
 

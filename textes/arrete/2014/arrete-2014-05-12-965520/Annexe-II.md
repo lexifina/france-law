@@ -468,17 +468,27 @@ Franchir les ronds-points et les carrefours à sens giratoire.
 
 .
 
-3 - CIRCULER DANS DES CONDITIONS DIFFICILES ET PARTAGER LA ROUTE AVEC LES AUTRES USAGERS
+3. - CIRCULER
+
+dans des conditions difficiles
+
+et partager la route
+
+avec les autres usagers
 
 |
 
 |
 
-POURQUOI : RAISONS
+POURQUOI :
+
+raisons
 
 |
 
-COMMENT : PROCEDURES
+COMMENT :
+
+procédures
 
 |
 
@@ -486,15 +496,25 @@ RISQUES
 
 |
 
-INFLUENCES DE SON ENTOURAGE ET DE SON MODE DE VIE
+INFLUENCES
+
+de son entourage
+
+et de son mode
+
+de vie
 
 |
 
-PRESSIONS EXERCEES PAR LA SOCIETE : PUBLICITE, TRAVAIL....
+PRESSIONS
+
+exercée par la
+
+société : publicité, travail...
 
 |
 
-AUTO-EVALUATION
+AUTOÉVALUATION
 
 |
 
@@ -502,7 +522,7 @@ Evaluer et maintenir les distances de sécurité.
 
 |
 
-☐
+□
 
 |
 
@@ -522,7 +542,7 @@ Croiser, dépasser, être dépassé.
 
 |
 
-☐
+□
 
 |
 
@@ -542,7 +562,7 @@ Négocier les virages de la façon la plus sécurisante.
 
 |
 
-☐
+□
 
 |
 
@@ -562,7 +582,7 @@ Communiquer avec les autres usagers.
 
 |
 
-☐
+□
 
 |
 
@@ -582,7 +602,7 @@ Connaître les caractéristiques des autres usagers et savoir se comporter à le
 
 |
 
-☐
+□
 
 |
 
@@ -602,7 +622,7 @@ Connaître les particularités des véhicules lourds et savoir se rendre visible
 
 |
 
-☐
+□
 
 |
 
@@ -622,7 +642,7 @@ S'insérer, circuler et sortir d'une voie rapide.
 
 |
 
-☐
+□
 
 |
 
@@ -638,11 +658,11 @@ S'insérer, circuler et sortir d'une voie rapide.
 
 |
 
-Conduire dans une file de véhicule et dans une circulation dense.
+Conduire dans une file de véhicules et dans une circulation dense.
 
 |
 
-☐
+□
 
 |
 
@@ -662,9 +682,27 @@ Conduire quand l'adhérence et la visibilité sont réduites.
 
 |
 
-☐
+□
 
 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Conduire à l'abord et dans la traversée d'ouvrages routiers tels que les tunnels, les ponts...
+
+|
+
+□
 
 |
 
