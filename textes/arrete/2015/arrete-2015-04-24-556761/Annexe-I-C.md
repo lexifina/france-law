@@ -16,21 +16,13 @@ Charente.
 
 Cher.
 
-Côte-d'Or.
-
-Eure-et-Loir.
-
 Haute-Garonne.
 
 Indre.
 
-Indre-et-Loire.
-
 Jura.
 
 Loir-et-Cher.
-
-Loiret.
 
 Lot-et-Garonne.
 
@@ -43,8 +35,6 @@ Meuse.
 Oise.
 
 Saône-et-Loire.
-
-Sarthe.
 
 Yvelines.
 

@@ -8,7 +8,11 @@ Bouches-du-Rhône.
 
 Charente-Maritime.
 
+Côte-d'Or.
+
 Eure.
+
+Eure-et-Loir.
 
 Gironde.
 
@@ -16,9 +20,15 @@ Hérault.
 
 Ille-et-Vilaine.
 
+Indre-et-Loire.
+
 Landes.
 
 Loire.
+
+Loiret.
+
+Mayenne.
 
 Nord.
 
@@ -26,7 +36,9 @@ Pas-de-Calais.
 
 Pyrénées-Atlantiques.
 
-Hautes-Pyrénées .
+Hautes-Pyrénées.
+
+Sarthe.
 
 Seine-Maritime.
 

@@ -10,8 +10,6 @@ Finistère.
 
 Loire-Atlantique.
 
-Mayenne.
-
 Meurthe-et-Moselle.
 
 Morbihan.
