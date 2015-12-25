@@ -2,15 +2,13 @@
 
 NORMES FRANÇAISES HOMOLOGUÉES ET NORMES RECONNUES ÉQUIVALENTES
 
-NF U 42-001 (décembre 1981). - Engrais. - Dénominations et spécifications, complétée par ses additifs 1 (février 1991), 2 (mai 1984) et 5 (juillet 1991).
-
-NF U 42-001 /A8 (décembre 2006). - Engrais. - Dénominations et spécifications.
+NF U 42-001 (décembre 1981). - Engrais. - Dénominations et spécifications.
 
 NF U 42-001 /A10 (décembre 2009). - Engrais. - Dénominations et spécifications.
 
-NF U 42-001 (1er octobre 2011). - Engrais. - Dénominations et spécifications. - Partie 1 : engrais minéraux.
+NF U 42-001-1 (octobre 2011). - Engrais. - Dénominations et spécifications. - Partie 1 : engrais minéraux.
 
-NF U 42-001/A11 (11 janvier 2014). - Engrais. - Dénominations et spécifications.
+NF U 42-001/A11 (11 janvier 2014). - Engrais. - Dénominations et spécifications. NF U 42-001/A12 (mai 2015). - Engrais. - Dénominations et spécifications.
 
 NF U 42-002-1 (novembre 1990). - Engrais à teneur (s) déclarée (s) en oligo-élément (s) destinés à être apportés au sol. - Partie 1 : oligo-élément (s) sous forme de combinaison (s) chimique (s) exclusivement minérale (s). - Dénominations et spécifications.
 
@@ -26,15 +24,15 @@ NF U 42-005 (octobre 1994). - Engrais : acides minéraux pour ajustement du pH d
 
 NF U 42-006 (octobre 1994). - Engrais : produits alcalinisants pour ajustement du pH des solutions nutritives minérales répondant à la norme NF U 42-004. - Dénominations et spécifications.
 
-NF U 44-001 (avril 2009). - Amendements minéraux basiques. - Dénominations et spécifications.
+NF U 44-001 (avril 2009). - Amendements minéraux basiques. - Dénominations et spécifications. NF U 44-003 (août 2015). - Amendements basiques contenant des matières d'intérêt agronomique issues du traitement biologique des eaux.
 
 NF U 44-051 (avril 2006). Amendements organiques. - Dénominations, spécifications et marquage.
 
-NF U 44-051/A1 (décembre 2010). Amendements organiques. - Dénominations, spécifications et marquage.
+NF U 44-051/A1 (décembre 2010). Amendements organiques. - Dénominations, spécifications et marquage. NF U 44-095 (mai 2002). - Amendements organiques. - Composts contenant des matières d'intérêt agronomique, issues du traitement des eaux, ainsi que son amendement A1, NF U 44 - 095/A1 (octobre 2008).
 
 NF U 44-203 (mars 2012). - Matières fertilisantes ayant des caractéristiques mixtes : amendements minéraux basiques. - Engrais. - Dénominations et spécifications.
 
-NF U 44-204 (septembre 2011). - Engrais ou amendement minéral basique ou amendement minéral basique-engrais avec additif agronomique. - Dénominations et spécifications.
+NF U 44-204 (mai 2015). - Matières fertilisantes avec additif agronomique. - Dénominations et spécifications.
 
 NF U 44-551 (mai 2002). - Supports de culture. - Dénominations, spécifications, marquage.
 
