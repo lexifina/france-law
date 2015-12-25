@@ -1,3 +1,3 @@
 # Article Annexe
 
-Les annexes sont consultables auprès du ministère de l'agriculture, de l'alimentation, de la pêche, de la ruralité et de l'aménagement du territoire, sous-direction du développement rural et du cheval, bureau de l'élevage et des activités équestres, 19, avenue du Maine, 75732 Paris Cedex 15, et auprès de l'Institut français du cheval et de l'équitation, SIRE, BP 3, 19231 Arnac-Pompadour Cedex.
+Les annexes sont publiées au Bulletin officiel du ministère de l'agriculture, de l'agroalimentaire et de la forêt et peuvent être consultées à l'adresse suivante : http://info.agriculture.gouv.fr/gedei/site/bo-agri/document_administratif-d34a954d-d1e5-4ff9-a462-9ed6a41e0a89.
