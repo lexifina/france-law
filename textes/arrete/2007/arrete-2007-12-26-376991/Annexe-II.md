@@ -792,11 +792,17 @@ Nombre de points NBI
 
 |
 
-9
+10
 
 |
 
 60
+
+|
+
+dont un emploi de chef du pôle interdépartemental
+
+du contentieux de l'éloignement
 
 |
 

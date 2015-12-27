@@ -42,6 +42,16 @@ Chargé de mission préfiguration de la juridiction administrative spécialisée
 
 |
 
+Secrétariat général. |
+
+Chef de cabinet.
+
+|
+
+30
+
+|
+
 Direction de la modernisation et de l'action territoriale. |
 
 Chef de projet réforme de l'administration territoriale de l'Etat.
@@ -62,7 +72,7 @@ Direction des libertés publiques et des affaires juridiques.
 
 |
 
-Chef du bureau de la nationalité, des titres d'identité et de voyage.
+Chef du bureau des titres d'identité et de voyage.
 
 |
 
@@ -78,9 +88,7 @@ Chef du bureau du contentieux des étrangers.
 
 |
 
-Chef du bureau du contentieux indemnitaire et des affaires financières.
-
-|
+Chef de la mission du pilotage et de l'appui juridique aux territoires. |
 
 30
 
@@ -234,9 +242,7 @@ Direction des ressources humaines.
 
 |
 
-Chef du bureau des ressources, de l'information et de l'accueil.
-
-|
+Chef du bureau du centre national de la formation. |
 
 50
 
@@ -274,7 +280,7 @@ Adjoint au chef du bureau des affaires générales, des études et des statuts.
 
 |
 
-Chef de la mission projets professionnels.
+Adjoint au chef du bureau de la paie et des régimes indemnitaires.
 
 |
 
@@ -282,7 +288,7 @@ Chef de la mission projets professionnels.
 
 |
 
-Chef de cabinet.
+Chef de la mission projets professionnels.
 
 |
 
