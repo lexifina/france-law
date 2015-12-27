@@ -1,6 +1,8 @@
 # Article Annexe
 
-LICENCE DE PERSONNEL DE MAINTENANCE ET DE SUIVI TECHNIQUE DES SYSTÈMES DE LA NAVIGATION AÉRIENNE (LICENCE ATSEP)
+LICENCE DE PERSONNEL DE MAINTENANCE ET DE SUIVI TECHNIQUE
+
+DES SYSTÈMES DE LA NAVIGATION AÉRIENNE (LICENCE ATSEP)
 
 Table des matières détaillée
 
@@ -26,7 +28,9 @@ Titre II. - Conditions d'obtention d'une licence de personnel de maintenance et 
 
 Titre III. - Agrément des formations et des examens
 
-Titre Ier : GÉNÉRALITÉS
+Titre Ier
+
+GÉNÉRALITÉS
 
 1.1. Définitions.
 
@@ -114,7 +118,11 @@ Les renseignements suivants figurent sur la licence de personnel de maintenance 
 
 11. Qualification(s) de base et qualification(s) de domaine.
 
-Titre II : CONDITIONS D'OBTENTION D'UNE LICENCE DE PERSONNEL DE MAINTENANCE ET DE SUIVI TECHNIQUE DES SYSTÈMES DE LA NAVIGATION AÉRIENNE
+Titre II
+
+CONDITIONS D'OBTENTION D'UNE LICENCE DE PERSONNEL DE MAINTENANCE
+
+ET DE SUIVI TECHNIQUE DES SYSTÈMES DE LA NAVIGATION AÉRIENNE
 
 2.1. Conditions d'obtention d'une licence de personnel de maintenance et de suivi technique des systèmes de la navigation aérienne assortie de la qualification de base CNS-ATM.
 
@@ -134,6 +142,8 @@ La licence ainsi délivrée comportera la qualification de base CNS-ATM, une qua
 
 D'autres qualifications de domaine pourront être apposées sur la licence, sous réserve de suivi avec succès des formations agréées afférentes.
 
+2.1.3. IESSA recrutés par concours réservés en application du décret du 17 février 2015 relatif à l'ouverture des recrutements réservés pour l'accès aux corps de fonctionnaires de l'Etat des catégories A, B et C relevant de la direction générale de l'aviation civile.
+
 2.2. Conditions d'obtention d'une licence de personnel de maintenance et de suivi technique des systèmes de la navigation aérienne assortie des qualifications de base électrotechnique ou climatisation.
 
 2.2.1. Cas des recrutements ou changements de famille.
@@ -148,8 +158,10 @@ c) Sont confirmés dans l'emploi des ouvriers d'Etat régis par le décret du 8 
 
 2.2.2. Cas d'une mutation d'un centre non opérationnel vers un centre opérationnel de la DSNA sans changement de famille.
 
-Une licence de personnel de maintenance et de suivi technique des systèmes de la navigation aérienne est délivrée aux ouvriers d'Etat des familles professionnelles électrotechniciens et climaticiens qui ont fait l'objet d'une évaluation de compétences favorable par le pôle de compétences électrotechnique ou climatisation. Si nécessaire, un complément de formation sera défini sur la base de la note de service DSNA Cursus générique de formation.
+Une licence de personnel de maintenance et de suivi technique des systèmes de la navigation aérienne est délivrée aux ouvriers d'Etat des familles professionnelles électrotechniciens et climaticiens qui ont fait l'objet d'une évaluation de compétences favorable par le pôle de compétences électrotechnique ou climatisation. Si nécessaire, un complément de formation sera défini sur la base de la note de service DSNA "Cursus générique de formation".
 
-Titre III : AGRÉMENT DES FORMATIONS ET DES EXAMENS
+Titre III
+
+AGRÉMENT DES FORMATIONS ET DES EXAMENS
 
 Les formations et examens permettant la délivrance de la licence de personnel de maintenance et de suivi technique des systèmes de la navigation aérienne et des qualifications citées précédemment sont agréés par l'Autorité nationale de surveillance.
