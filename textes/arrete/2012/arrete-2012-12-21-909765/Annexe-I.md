@@ -1,6 +1,6 @@
 # Article Annexe I
 
-Liste des départements et collectivités d'outre-mer dans lesquels le tarif des annonces légales en 2015 est égal au tarif de base, soit 4,10 € hors taxe la ligne
+Liste des départements et collectivités d'outre-mer dans lesquels le tarif des annonces légales en 2016 est égal au tarif de base, soit 4,12 € hors taxe la ligne
 
 03 Allier.
 

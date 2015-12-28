@@ -1,6 +1,6 @@
 # Article Annexe III
 
-Liste des départements dans lesquels le tarif des annonces légales en 2015 est égal au tarif de base majoré de 0,18 €, soit 4,28 € hors taxe la ligne
+Liste des départements dans lesquels le tarif des annonces légales en 2016 est égal au tarif de base majoré de 0,18 €, soit 4,30 € hors taxe la ligne
 
 07 Ardèche.
 

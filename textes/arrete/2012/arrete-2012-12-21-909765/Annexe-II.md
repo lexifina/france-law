@@ -1,6 +1,6 @@
 # Article Annexe II
 
-Liste des départements dans lesquels le tarif des annonces légales en 2015 est égal au tarif de base majoré de 0,05 €, soit 4,15 € hors taxe la ligne
+Liste des départements dans lesquels le tarif des annonces légales en 2016 est égal au tarif de base majoré de 0,03 €, soit 4,15 € hors taxe la ligne
 
 01 Ain.
 
