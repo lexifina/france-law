@@ -108,7 +108,7 @@ En cas de services partiels ou de perturbations, l'information doit être fourni
 
 Autres dispositions :
 
-La prise en compte de la demande d'arrêt doit être fournie sous une forme sonore et visuelle.
+Si les modalités d'exploitation prévoient un dispositif de demande d'arrêt" la prise en compte de la demande d'arrêt doit être fournie sous une forme sonore et visuelle.
 
 Le dispositif d'ouverture de porte, lorsqu'il existe, doit comporter un symbole graphique d'un relief d'au moins 0,1 cm permettant son identification par une personne déficiente visuelle.
 
@@ -116,7 +116,7 @@ L'ouverture et la fermeture des portes doivent être signalées par un dispositi
 
 Valideurs de titre :
 
-La possibilité d'une validation autonome doit être offerte aux personnes handicapées.
+Si les modalités d'exploitation prévoient un dispositif de validation des titres de transport" la possibilité d'une validation autonome doit être offerte aux personnes handicapées.
 
 Les valideurs ne doivent ni présenter d'arêtes vives, ni empiéter sur l'emplacement spécial défini par le point 3.6.1 de l'annexe VII de la directive 2001/85/CE du 20 novembre 2001 ou aux prescriptions équivalentes du règlement n° 107 annexé à l'accord de Genève du 20 mars 1958 dans sa version d'amendement 01 ou ultérieur.
 
