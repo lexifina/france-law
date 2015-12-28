@@ -1,0 +1,87 @@
+# Article Annexe 3
+
+INFORMATION ET SIGNALISATION
+
+Lorsque des informations permanentes sont fournies aux visiteurs par le moyen d'une signalisation visuelle ou sonore, celles-ci doivent pouvoir être reçues et interprétées par un visiteur handicapé.
+
+Les éléments d'information et de signalisation doivent être visibles et lisibles par tous les usagers et constituent une chaîne continue d'information tout le long du cheminement. En outre, les éléments de signalisation doivent être compréhensibles notamment par les personnes atteintes de déficience mentale.
+
+Visibilité
+
+|
+
+Les informations doivent être regroupées.
+
+|
+
+Les supports d'information doivent répondre aux exigences suivantes :
+
+|
+
+- être contrastés par rapport à leur environnement immédiat ;
+
+|
+
+- permettre une vision et une lecture en position debout comme en position assis ;
+
+|
+
+- être choisis, positionnés et orientés de façon à éviter tout effet d'éblouissement, de reflet ou de contre-jour dû à l'éclairage naturel ou artificiel ;
+
+|
+
+- s'ils sont situés à une hauteur inférieure à 2,20 m, permettre à une personne mal voyante de s'approcher à moins de 1 m.
+
+|
+
+Lisibilité
+
+|
+
+Les informations données sur ces supports doivent répondre aux exigences suivantes :
+
+|
+
+- être fortement contrastées par rapport au fond du support ;
+
+|
+
+- la hauteur des caractères d'écriture doit être proportionnée aux circonstances : elle dépend notamment de l'importance de l'information délivrée, des dimensions du local et de la distance de lecture de référence fixée par le maître d'ouvrage en fonction de ces éléments.
+
+|
+
+Lorsque les informations ne peuvent être fournies aux usagers sur un autre support, la hauteur des caractères d'écriture ne peut en aucun cas être inférieure à :
+
+|
+
+15 mm pour les éléments de signalisation et d'information relatifs à l'orientation ;
+
+|
+
+60 mm pour le numéro ou la dénomination du bâtiment rappelé en façade ;
+
+|
+
+4,5 mm sinon.
+
+|
+
+Compréhension
+
+|
+
+La signalisation recourt autant que possible à des icônes ou à des pictogrammes doublés par une information écrite.
+
+|
+
+Les informations écrites recourent autant que possible aux lettres bâton. Ces informations sont concises, faciles à lire et à comprendre.
+
+|
+
+Lorsqu'ils existent, le recours aux pictogrammes normalisés s'impose.
+
+|
+
+Lorsque la signalétique repose sur un code, utilisant notamment différentes couleurs, celui-ci est homogène et continu dans tout l'établissement et sur tous les supports de communication.
+
+|
