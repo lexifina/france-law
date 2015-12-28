@@ -1,12 +1,12 @@
 # Article Annexe I
 
-Raison sociale et adresse du fournisseur : .............................. Mois de : ..........................
+Raison sociale et adresse du fournisseur :........................................... Mois de..........................................
 
-Numéro d'agrément du fournisseur : ..............................................................................
+Numéro d'agrément du fournisseur : .......................................................................................................
 
 Déclaration des quantités de tabacs manufacturés livrés aux débitants de France continentale
 
-I.-Détail des opérations relatives aux livraisons de tabac :
+I.-Détail des opérations relatives aux livraisons de tabac
 
 1
 
@@ -48,7 +48,7 @@ Remise brute due aux débitants au titre des cigares et cigarillos (9 %)
 
 |
 
-Remise brute due aux débitants au titre des autres produits du tabac (8,79 %)
+Remise brute due aux débitants au titre des autres produits du tabac (8,84 %)
 
 |
 
@@ -72,7 +72,7 @@ Remise nette due aux débitants au titre des cigares et cigarillos (7 %)
 
 |
 
-Remise nette due aux débitants au titre des autres produits du tabac (6,85 %)
+Remise nette due aux débitants au titre des autres produits du tabac (6,90 %)
 
 |
 
@@ -108,7 +108,7 @@ dont droit de licence (1,84 %)
 
 |
 
-dont cotisation au RAVGDT (0,16 %)
+dont cotisation au R. A. V. G. D. T (0,16 %)
 
 |
 
@@ -144,7 +144,7 @@ dont droit de licence (1,78 %)
 
 |
 
-dont cotisation au RAVGDT (0,16 %)
+dont cotisation au R. A. V. G. D. T (0,16 %)
 
 |
 
@@ -152,21 +152,19 @@ dont cotisation au RAVGDT (0,16 %)
 
 |
 
-(1) Il s'agit des livraisons "brutes" après corrections des livraisons mais non diminuées des reprises.
+(1) Il s'agit des livraisons brutes après corrections des livraisons mais non diminuées des reprises.
 
-Exemple :
+Exemple : livraisons initiales d'une valeur TTC (prix homologué) de 100 €
 
-Livraisons initiales d'une valeur TTC (prix homologué) de 100 €.
+corrections des livraisons d'une valeur de 20 €
 
-Corrections des livraisons d'une valeur de 20 €.
-
-Reprise de produits d'une valeur de 50 €.
+reprise de produits d'une valeur de 50 €
 
 La valeur qui devra être reportée est de 80 € (valeur livraisons initiales-corrections des livraisons).
 
 |
 
-II.-Détail du montant à payer :
+II. - Détail du montant à payer
 
 9
 
@@ -184,13 +182,11 @@ Total du droit de licence (ligne 7.1 + ligne 8.1) (2)
 
 |
 
-Total de la cotisation au RAVGDT (ligne 7.2 + ligne 8.2) (2)
+Total de la cotisation au R. A. V. G. D. T (ligne 7.2 + ligne 8.2) (2)
 
 |
 
-€
-
-|
+€ |
 
 11
 
@@ -204,11 +200,9 @@ Total du précompte à payer (ligne 9 + ligne 10)
 
 |
 
-(2) Le montant des lignes 9 et 10 doit être arrondi à l'euro le plus proche. La fraction d'euro égale à 0,50 est comptée pour 1 (art. 1724 du code général des impôts).
+(2) Le montant des lignes 9 et 10 doit être arrondi à l'euro le plus proche. La fraction d'euro égale à 0,50 est comptée pour 1 (art 1724 du code général des impôts).
 
-Exemple :
-
-1 824,52 est arrondi à 1 825.
+Exemple : 1 824,52 est arrondi à 1 825
 
 1 824,42 est arrondi à 1 824.
 
@@ -216,10 +210,8 @@ Exemple :
 
 La présente déclaration est certifiée conforme au contenu de la déclaration mensuelle des livraisons transmise au centre informatique douanier.
 
-Fait à ..................................., le .................../ ........../2015
+Fait à........................................, le.................................../........................................./2016
 
-Signature
-
-(Nom et qualité du signataire)
+Signature (nom et qualité du signataire)
 
 Cette déclaration doit être adressée, accompagnée du moyen de paiement, pour le 25 du mois suivant celui au titre duquel elle a été établie à la recette régionale des douanes de Paris-Ile-de-France, 14, rue Yves-Toudic, 75010 Paris.
