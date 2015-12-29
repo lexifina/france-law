@@ -1,0 +1,9 @@
+# Réponse à la question n° 45755
+
+- Question : [45755](45755.md) — Question n° 45755 — site d'information européen; Presseurop; situation
+
+## Réponse
+
+*JO du 2015-12-29*
+
+Le Gouvernement, et en particulier le ministère de la culture et de la communication, ont vivement regretté la fermeture, le 20 décembre 2013, du site d’information européen Presseurop, à la suite de l’arrêt du soutien financier de la Commission européenne. Le Gouvernement s’est en revanche réjoui, par la suite, de la renaissance de ce média en octobre 2014, sous le nom de VoxEurop. Comment en effet ne pas accueillir avec enthousiasme le redémarrage d’un site d’actualité et de débats sur les affaires européennes, publiant en dix langues, dont le français, une sélection d’articles de la presse européenne et internationale ? Né de la volonté des journalistes de Presseurop, VoxEurop est éditorialement et financièrement indépendant et vise à contribuer à la formation d’une opinion publique européenne informée à travers la publication de contenus de qualité. Il contribue ainsi à la circulation des idées en Europe et à l’émergence d’un espace public européen, objectifs auxquels le Gouvernement souscrit pleinement. Le site de presse en ligne VoxEurop est d’ailleurs homologué par la commission paritaire des publications et agences de presse (CPPAP) et est reconnu d’information politique et générale depuis mars 2015. A ce titre, il bénéficie du taux de TVA super-réduit à 2,1 %, mis en œuvre depuis la promulgation de la loi no 2014-237 du 27 février 2014 harmonisant les taux de la taxe sur la valeur ajoutée applicables à la presse imprimée et à la presse en ligne. Il est également pleinement éligible au soutien du Fonds stratégique pour le développement de la presse (FSDP), ce qui doit lui permettre de diversifier ses sources de financement.
