@@ -1,0 +1,9 @@
+# Réponse à la question n° 53715
+
+- Question : [53715](53715.md) — Question n° 53715 — garde à vue; réglementation
+
+## Réponse
+
+*JO du 2015-12-29*
+
+La loi no 2014-535 du 27 mai 2014 a procédé à la transposition complète de la directive du 22 mai 2012 relative au droit à l’information des personnes suspectées ou poursuivies dans le cadre d’une procédure pénale, sans pour autant étendre le droit à l’accès au dossier au bénéfice des personnes placées en garde à vue. En effet, comme l’a souligné la commission présidée par le procureur général Jacques Beaume dans son rapport sur la procédure pénale remis le 10 juillet 2014 à Madame la ministre de la justice, le texte européen n’exige nullement un accès à l’ensemble du dossier dès ce stade de la procédure mais, ainsi qu’en dispose son article 7.2 « au plus tard, lorsqu’une juridiction est appelée à se prononcer sur le bien-fondé de l’accusation ». S’agissant des personnes privées de liberté, la directive exige simplement que soient mis à disposition de la personne ou de son avocat les documents « essentiels pour contester de manière effective conformément au droit national la légalité de l’arrestation ou de la détention ». Dans le cas spécifique de la garde à vue, il s’agit donc des procès-verbaux permettant de vérifier la régularité formelle de la mesure et qui sont, en application de l’article 63-4-1 du code de procédure pénale, communiqués à la personne ou son avocat, à savoir notamment le procès-verbal de notification de placement en garde à vue et de notification des droits à la personne, ainsi que les procès-verbaux d’audition. Pour autant, le gouvernement réfléchit actuellement, à la suite des préconisations du rapport « Beaume », à une extension raisonnée du droit d’accès au dossier dès l’enquête, au bénéfice de la personne suspectée.
