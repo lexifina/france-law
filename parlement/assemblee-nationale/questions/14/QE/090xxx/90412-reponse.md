@@ -1,0 +1,9 @@
+# Réponse à la question n° 90412
+
+- Question : [90412](90412.md) — Question n° 90412 — droit de prescription; réglementation
+
+## Réponse
+
+*JO du 2015-12-29*
+
+Les sages-femmes ont connu des avancées majeures concernant la reconnaissance de leur profession. A l’issue des travaux mis en place depuis fin 2013 notamment, cinq mesures ont été arrêtées concrétisant la revalorisation attendue par la profession : la création d’un statut médical de sages-femmes des hôpitaux, des compétences médicales valorisées, des responsabilités nouvelles, une formation initiale renforcée et une revalorisation des rémunérations. Le projet de loi de modernisation de notre système de santé en cours d’examen leur donne la possibilité de pratiquer les interruptions volontaires de grossesse par voie médicamenteuse, élargit la pratique des vaccinations aux personnes qui vivent régulièrement dans l’entourage du nouveau-né et leur permet de prescrire des substituts nicotiniques à toutes les personnes qui vivent régulièrement dans l’entourage de la femme enceinte ou du nouveau-né ou assurent la garde de ce dernier. Les droits de prescription en rapport avec les nouvelles compétences des sages-femmes ont été adaptés et le seront de nouveau notamment par la modification de la liste des médicaments qu’elles peuvent prescrire et la liste des vaccinations qu’elles sont autorisées à pratiquer. La définition des possibilités de prescription sous forme de listes rend visibles les compétences des sages-femmes pour les autres professionnels de santé, garantit que les sages-femmes interviennent dans le cadre d’un périmètre d’intervention identifié et facilite la délivrance des médicaments ou dispositifs médicaux par les pharmaciens. Leur rôle, limité aux grossesses physiologiques, est alors parfaitement identifié et reconnu. Aller au-delà et accorder un droit de prescription général ne sont pas justifiés.
