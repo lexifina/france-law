@@ -1,0 +1,9 @@
+# Réponse à la question n° 15357
+
+- Question : [15357](15357.md) — Question n° 15357 — rapport; propositions
+
+## Réponse
+
+*JO du 2015-12-29*
+
+La réforme territoriale a été engagée par la loi no 2014-58 du 27 janvier 2014 de modernisation de l’action publique territoriale et d’affirmation des métropoles et la loi no 2015-29 du 16 janvier 2015 relative à la délimitation des régions, aux élections régionales et départementales et modifiant le calendrier électoral. Elle est parachevée par la loi no 2015-991 du 7 août 2015 portant nouvelle organisation territoriale de la République (NOTRe). Il s’agit de moderniser en profondeur l’organisation territoriale par une clarification des compétences permettant d’identifier les responsabilités de chacun des acteurs de la puissance publique, et de simplifier les relations entre l’Etat et les collectivités territoriales. L’Etat demeure le responsable des choix stratégiques, ainsi que du contrôle de l’application des lois, de la protection des citoyens et de la cohésion sociale comme territoriale. Les collectivités territoriales exercent quant à elles leurs compétences au plus près des populations et des territoires. Dans ce cadre, la loi NOTRe consacre son titre III aux solidarités et égalité de territoire. Il prévoit notamment le renforcement de l’assistance technique des départements aux communes et à leurs groupements en l’étendant aux domaines de l’aménagement, de l’habitat et de la voirie. Enfin, un observatoire des finances et de la gestion publique locale a été créé à l’article L. 1211-4 du code général des collectivités territoriales (CGCT) par la loi du 7 août 2015 (article 133). Il a pour objectif d’établir, de collecter, d’analyser et de mettre à jour les données statistiques portant sur la gestion des collectivités territoriales et de diffuser ces travaux afin de favoriser le développement des bonnes pratiques notamment à l’attention des plus petites collectivités.
