@@ -1,0 +1,9 @@
+# Réponse à la question n° 45750
+
+- Question : [45750](45750.md) — Question n° 45750 — minimas sociaux; revalorisation
+
+## Réponse
+
+*JO du 2015-12-29*
+
+Le Gouvernement a inscrit dans le plan pluriannuel contre la pauvreté et pour l’inclusion, adopté en janvier 2013, son souhait de revaloriser le revenu de solidarité active (RSA) au-delà de l’inflation, par un plan de revalorisation exceptionnelle, sur 5 ans. Le montant forfaitaire du RSA socle pour une personne seule est ainsi passé, par étapes successives, de 483,24 euros au 1er janvier 2013, à 524,16 euros au 1er septembre 2015. Le montant de l’allocation de solidarité spécifique (ASS) évolue quant à lui en fonction de la seule inflation : son montant est, au 1er janvier 2015, de 487,50 euros pour une personne seule et un mois de 30 jours. Le montant forfaitaire du RSA a donc dépassé celui de l’ASS. Toutefois, cela ne signifie nullement que les bénéficiaires de l’ASS percevront des ressources inférieures à celles des bénéficiaires du RSA. En effet, le RSA est une prestation sociale qui garantit au foyer un revenu minimum et complète ainsi l’ensemble des ressources de ce foyer, jusqu’à ce montant garanti. Ainsi, au 1er septembre 2015, une personne seule sans autre ressource que l’ASS pourra percevoir, par mois, 487,50 euros d’ASS et un complément de RSA de 36,66 euros, portant ses ressources totales au montant garanti par le RSA pour une personne seule sans activité. Par ailleurs, les modalités de calcul de l’ASS, notamment pour ce qui concerne la prise en compte des autres revenus de l’allocataire, peuvent permettre de bénéficier de l’ASS avec un niveau de ressources supérieur au point de sortie du RSA. Le Gouvernement a confié au député Christophe Sirugue une mission relative aux simplifications possibles des minima sociaux, compte tenu notamment de cette articulation parfois complexe entre des prestations à finalités voisines.
