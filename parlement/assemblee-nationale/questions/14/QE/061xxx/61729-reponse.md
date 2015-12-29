@@ -1,0 +1,9 @@
+# Réponse à la question n° 61729
+
+- Question : [61729](61729.md) — Question n° 61729 — ADN; réglementation
+
+## Réponse
+
+*JO du 2015-12-29*
+
+L’expertise aux fins de détermination des traits morphologiques apparents vise, à partir de l’analyse d’une trace ADN, à déterminer, dans le cadre d’une procédure judiciaire les caractères physiques d’un individu. La chancellerie a toujours manifesté les plus vives réserves sur l’emploi de cette technique susceptible de porter sur des marqueurs codants de l’ADN considérant que celle-ci relève du domaine de l’examen des caractéristiques génétiques proscrit dans le cadre d’une procédure judiciaire par l’article 16-10 du code civil et non de l’identification d’une personne par ses empreintes génétiques autorisée dans ce cadre par l’article 16-11 du même code ; une dépêche du 29 juin 2011 avait d’ailleurs invité les juridictions à ne pas y recourir. En rejetant le pourvoi qui contestait la légalité d’une expertise de ce type, la chambre criminelle de la Cour de cassation a conclu, dans son arrêt du 25 juin 2014, à la validité juridique de ces analyses soulignant qu’elles permettaient de révéler les caractères morphologiques apparents de l’auteur inconnu d’un crime à partir de l’ADN que celui-ci avait laissé sur les lieux, à seule fin de faciliter son identification. Si une telle expertise est susceptible de constituer un acte d’enquête utile à l’identification des auteurs d’infractions, elle nécessite cependant une expertise interministérielle approfondie de ses aspects techniques et juridiques. Il apparaît, en effet, nécessaire de concilier en cette matière le principe de liberté de la preuve, consacré notamment par l’article 427 du code de procédure pénale, et les articles 16-10 et 16-11 du code civil, qui fixent les grands principes de l’analyse génétique.
