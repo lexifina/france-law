@@ -1,0 +1,9 @@
+# Réponse à la question n° 54751
+
+- Question : [54751](54751.md) — Question n° 54751 — sécurité civile; guet aérien; drones; emploi
+
+## Réponse
+
+*JO du 2015-12-29*
+
+La stratégie d’attaque rapide des feux naissants constitue un pilier de la doctrine de lutte contre les feux de forêts. Les avions bombardiers d’eau tiennent une place déterminante dans la poursuite de cet objectif de traitement des feux naissants. Lorsque le risque est le plus élevé, ils effectuent des missions de guet aérien armé (GAAr) qui contribuent à la détection proprement dite des incendies et garantissent une première intervention rapide en supprimant les délais de décollage des aéronefs. Une étude conduite à la fin des années 80 a ainsi montré que les feux traités par le GAAr parcourent en moyenne 7ha, contre 70ha pour ceux qui sont attaqués par les moyens aériens mis en vol après demande d’intervention. Pour être efficace, cette démarche suppose de disposer d’éléments précis d’évaluation du risque d’incendies de forêts obtenus grâce à une collaboration avec Météo France et avec l’Office National des forêts. Une coopération continue avec ces services permet de perfectionner les analyses conduites. Plus de 80% des départs de feu parcourent moins de 1ha (contre 50% précédemment). La direction générale de la sécurité civile et de la gestion des crises (DGSCGC) effectue une veille technologique permanente, qui porte notamment sur les aéronefs télé-pilotés. Toutefois, il n’existe pas, à ce jour, de solution permettant de remplir, de façon aussi efficace et satisfaisante, la fonction de GAAr. La DGSCGC travaille néanmoins sur les usages des drones en matière de sécurité civile, au-delà de la lutte contre les feux de forêts. L’apport de ces outils pourrait, en effet, s’avérer précieux pour les acteurs du secours.
