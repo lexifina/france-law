@@ -1,18 +1,24 @@
 # Article Annexe
 
-(Introduite par l'arrêté du 31 août 2010 modifiant l'arrêté du 21 décembre 2005 fixant la liste des affections médicales incompatibles avec l'obtention ou le maintien du permis de conduire ou pouvant donner lieu à la délivrance de permis de conduire de durée de validité limitée.)
+Principes
+
+Conformément à l'article R. 412-6 du code de la route, tout conducteur de véhicule doit se tenir constamment en état et en position d'exécuter commodément et sans délais toutes les manœuvres qui lui incombent.
+
+Tant pour le groupe léger que pour le groupe lourd, le permis de conduire ne doit être ni délivré ni renouvelé au candidat ou conducteur atteint d'une affection, qu'elle soit mentionnée ou non dans la présente liste, susceptible de constituer ou d'entraîner une incapacité fonctionnelle de nature à compromettre la sécurité routière lors de la conduite d'un véhicule à moteur. La décision de délivrance ou de renouvellement du permis par l'autorité préfectorale est prise à la suite d'un avis de la commission médicale départementale ou d'un médecin agréé. L'avis adressé au préfet peut contenir, si les conditions l'exigent pour la sécurité routière, des propositions de mentions additionnelles ou restrictives sur le titre de conduite.
+
+Avant chaque contrôle médical, le candidat ou le conducteur remplit une déclaration décrivant loyalement ses antécédents médicaux, une éventuelle pathologie en cours et les traitements pris régulièrement.
+
+Un test de conduite par une école de conduite peut être demandé. Le médecin agréé ou la commission médicale peuvent, après un premier examen, s'ils le jugent utile, demander l'examen de l'intéressé par un spécialiste de la commission médicale d'appel. Ce dernier répondra aux questions posées par le médecin agréé ou la commission, sans préjuger de leur avis.
 
 Principes
 
 Conformément à l'article R. 412-6 du code de la route, tout conducteur de véhicule doit se tenir constamment en état et en position d'exécuter commodément et sans délais toutes les manœuvres qui lui incombent.
 
-Tant pour le groupe léger que pour le groupe lourd, le permis de conduire ne doit être ni délivré ni renouvelé au candidat ou conducteur atteint d'une affection, qu'elle soit mentionnée ou non dans la présente liste, susceptible de constituer ou d'entraîner une incapacité fonctionnelle de nature à compromettre la sécurité routière lors de la conduite d'un véhicule à moteur. La décision de délivrance ou de renouvellement du permis par l'autorité préfectorale est prise suite à l'avis de la commission médicale départementale ou d'un médecin agréé. L'avis adressé au préfet peut contenir, si les conditions l'exigent pour la sécurité routière, des propositions de mentions additionnelles ou restrictives sur le titre de conduite.
+Tant pour le groupe léger que pour le groupe lourd, le permis de conduire ne doit être ni délivré ni renouvelé au candidat ou conducteur atteint d'une affection, qu'elle soit mentionnée ou non dans la présente liste, susceptible de constituer ou d'entraîner une incapacité fonctionnelle de nature à compromettre la sécurité routière lors de la conduite d'un véhicule à moteur. La décision de délivrance ou de renouvellement du permis par l'autorité préfectorale est prise à la suite d'un avis de la commission médicale départementale ou d'un médecin agréé. L'avis adressé au préfet peut contenir, si les conditions l'exigent pour la sécurité routière, des propositions de mentions additionnelles ou restrictives sur le titre de conduite.
 
-Avant chaque examen médical par un médecin agréé ou un médecin membre de la commission médicale, le candidat ou le conducteur remplira une déclaration décrivant loyalement ses antécédents médicaux, une éventuelle pathologie en cours et les traitements pris régulièrement.
+Avant chaque contrôle médical, le candidat ou le conducteur remplit une déclaration décrivant loyalement ses antécédents médicaux, une éventuelle pathologie en cours et les traitements pris régulièrement.
 
-Un test de conduite par une école de conduite peut être demandé par la commission médicale.
-
-La commission médicale pourra, après un premier examen, si elle le juge utile, demander l'examen de l'intéressé par un spécialiste de la commission d'appel. Ce dernier répondra aux questions posées par la commission, sans préjuger de l'avis de celle-ci.
+Un test de conduite par une école de conduite peut être demandé. Le médecin agréé ou la commission médicale peuvent, après un premier examen, s'ils le jugent utile, demander l'examen de l'intéressé par un spécialiste de la commission médicale d'appel. Ce dernier répondra aux questions posées par le médecin agréé ou la commission, sans préjuger de leur avis.
 
 GROUPE LEGER
 
@@ -20,13 +26,11 @@ CLASSE I : PATHOLOGIE CARDIO-VASCULAIRE
 
 |
 
-Les affections pouvant exposer tout candidat ou conducteur, à la délivrance ou au renouvellement d'un permis de conduire, à une défaillance de son système cardio-vasculaire de nature à provoquer une altération subite des fonctions cérébrales constituent un danger pour la sécurité routière. La conduite après tout événement cardiaque, et sa surveillance imposent un avis et un suivi du médecin ou du spécialiste chargé du patient qui déterminera la périodicité des contrôles. Les conducteurs des catégories A, A1, B, B1, EB appartiennent au groupe léger (ou groupe 1)
+Les affections pouvant exposer tout candidat ou conducteur, à la délivrance ou au renouvellement d'un permis de conduire, à une défaillance de son système cardio-vasculaire de nature à provoquer une altération subite des fonctions cérébrales constituent un danger pour la sécurité routière. La conduite après tout événement cardiaque, et sa surveillance imposent un avis et un suivi du médecin ou du spécialiste chargé du patient qui déterminera la périodicité des contrôles. Les conducteurs des catégories A1, A2, A, B, B1 et BE appartiennent au groupe léger (ou groupe 1)
 
 |
 
-1.1
-
-Coronaropathies
+1.1. Coronaropathies
 
 |
 
@@ -38,7 +42,7 @@ La conduite sera reprise selon l'avis spécialisé.
 
 |
 
-1.1.2. : Coronaropathie asymptomatique et angine de poitrine stable
+1.1.2 : Coronaropathie asymptomatique et angine de poitrine stable
 
 |
 
@@ -62,11 +66,7 @@ La conduite sera reprise selon l'avis spécialisé.
 
 |
 
-1.2
-
-Troubles du rythme et/ou
-
-de la conduction
+1.2. Troubles du rythme et/ou de la conduction
 
 |
 
@@ -104,7 +104,7 @@ Avis spécialisé.
 
 Avis spécialisé et surveillance médicale régulière.
 
-En cas de signes fonctionnels sévères (lipothymie, syncope... ), incompatibilité temporaire jusqu'au contrôle des symptôme. En cas de reprise de la conduite, avis spécialisé. Compatibilité temporaire sous réserve d'une surveillance médicale régulière.
+En cas de signes fonctionnels sévères (lipothymie, syncope ...), incompatibilité temporaire jusqu'au contrôle des symptômes. En cas de reprise de la conduite, avis spécialisé. Compatibilité temporaire sous réserve d'une surveillance médicale régulière.
 
 |
 
@@ -166,9 +166,7 @@ La conduite sera reprise selon l'avis spécialisé, sous réserve d'une surveill
 
 |
 
-1.3
-
-Troubles de la conscience
+1.3. Troubles de la conscience
 
 |
 
@@ -220,9 +218,7 @@ cf. 4.7
 
 |
 
-1.4
-
-Hypertension artérielle
+1.4. Hypertension artérielle
 
 |
 
@@ -230,9 +226,7 @@ Incompatibilité si la pression artérielle systolique est supérieure à 220 mm
 
 |
 
-1.5
-
-Insuffisance cardiaque chronique
+1.5. Insuffisance cardiaque chronique
 
 |
 
@@ -242,9 +236,7 @@ Compatibilité temporaire annuelle en cas de stade III permanent.
 
 |
 
-1 6
-
-Valvulopathies
+1.6. Valvulopathies
 
 |
 
@@ -264,9 +256,7 @@ cf. 1.6.1. La conduite sera reprise selon l'avis spécialisé.
 
 |
 
-1.7
-
-Pathologies vasculaires
+1.7. Pathologies vasculaires
 
 |
 
@@ -286,9 +276,7 @@ La conduite sera reprise selon l'avis médical.
 
 |
 
-1.8
-
-Transplantation cardiaque
+1.8. Transplantation cardiaque
 
 |
 
@@ -298,9 +286,7 @@ Compatibilité temporaire sur avis spécialisé.
 
 |
 
-1.9
-
-Cardiomyopathie hypertrophique
+1.9. Cardiomyopathie hypertrophique
 
 |
 
@@ -310,9 +296,9 @@ En présence de manifestations cliniques : incompatibilité, sauf avis spéciali
 
 |
 
-..
+.
 
-CLASSE II : ALTERATIONS VISUELLES
+CLASSE II : ALTÉRATIONS VISUELLES
 
 |
 
@@ -322,9 +308,7 @@ Pour les conducteurs du groupe 1 qui ne satisfont pas aux normes relatives au ch
 
 |
 
-2.1
-
-Fonctions visuelles
+2.1. Fonctions visuelles
 
 (testées s'il y a lieu
 
@@ -336,7 +320,7 @@ avec correction optique)
 
 |
 
-Incompatibilité si l'acuité binoculaire est inférieure à 5/10. Si un des deux yeux a une acuité visuelle nulle ou inférieure à 1/10, il y a incompatibilité si l'autre œil a une acuité visuelle inférieure à 5/10. Compatibilité temporaire dont la durée sera appréciée au cas par cas si l'acuité visuelle est limite par rapport aux normes ci-dessus. Incompatibilité temporaire de 6 mois après la perte brutale de la vision d'un œil. L'acuité est mesurée avec correction optique si elle existe déjà. Le certificat du médecin devra préciser l'obligation de correction optique. En cas de perte de vision d'un œil (moins de 1/10), délai d'au moins 6 mois avant de délivrer ou renouveler le permis et obligation de rétroviseurs bilatéraux. Avis spécialisé si nécessaire. Avis spécialisé après toute intervention chirurgicale modifiant la réfraction oculaire.
+Incompatibilité si l'acuité binoculaire est inférieure à 5/10. Si un des deux yeux a une acuité visuelle nulle ou inférieure à 1/10, il y a incompatibilité si l'autre œil a une acuité visuelle inférieure à 5/10. Compatibilité temporaire dont la durée sera appréciée au cas par cas si l'acuité visuelle est limite par rapport aux normes ci-dessus. Incompatibilité temporaire de 6 mois après la perte brutale de la vision d'un œil. L'acuité est mesurée avec correction optique si elle existe déjà. L’avis du médecin devra préciser l'obligation de correction optique. En cas de perte de vision d'un œil (moins de 1/10), délai d'au moins 6 mois avant de délivrer ou renouveler le permis et obligation de rétroviseurs bilatéraux. Avis spécialisé si nécessaire. Avis spécialisé après toute intervention chirurgicale modifiant la réfraction oculaire.
 
 |
 
@@ -366,9 +350,7 @@ Pour les conducteurs du groupe 1 qui ne satisfont pas aux normes relatives au ch
 
 |
 
-2.2
-
-Autres pathologies oculaires
+2.2. Autres pathologies oculaires
 
 |
 
@@ -390,7 +372,9 @@ acquis
 
 |
 
-Avis spécialisé obligatoire. Si confirmation de l'affection : incompatibilité.
+Avis spécialisé obligatoire.
+
+Si confirmation de l'affection : incompatibilité.
 
 |
 
@@ -414,15 +398,13 @@ Voir paragraphes 2.1.1 et 2.1.2.
 
 |
 
-..
+.
 
 CLASSE III : OTORHINO-LARYNGOLOGIE - PNEUMOLOGIE
 
 |
 
-3.1
-
-Déficience auditive
+3.1. Déficience auditive
 
 |
 
@@ -438,9 +420,7 @@ Avis spécialisé si nécessaire. Véhicules avec rétroviseurs bilatéraux (men
 
 |
 
-3.2
-
-Troubles de l'équilibre
+3.2. Troubles de l'équilibre
 
 |
 
@@ -488,9 +468,7 @@ Avis spécialisé obligatoire. Si confirmation de l'affection : incompatibilité
 
 |
 
-3.3
-
-Port d'une canule trachéale
+3.3. Port d'une canule trachéale
 
 |
 
@@ -498,9 +476,7 @@ Avis spécialisé si nécessaire.
 
 |
 
-3.4
-
-Asthme, broncho-pneumopathie chronique obstructive et affections dyspnéisantes au stade de l'insuffisance respiratoire nécessitant l'appareillage ventilatoire
+3.4. Asthme, broncho-pneumopathie chronique obstructive et affections dyspnéisantes au stade de l'insuffisance respiratoire nécessitant l'appareillage ventilatoire
 
 |
 
@@ -508,9 +484,7 @@ Avis spécialisé si nécessaire pour évaluer l'évolution et l'incapacité ent
 
 |
 
-3.5
-
-Syndrome des apnées du sommeil.
+3.5. Syndrome des apnées du sommeil.
 
 |
 
@@ -518,7 +492,7 @@ Cf. 4.3.
 
 |
 
-..
+.
 
 CLASSE IV : PRATIQUES ADDICTIVES - NEUROLOGIE - PSYCHIATRIE
 
@@ -528,9 +502,7 @@ Les affections pouvant exposer un candidat ou conducteur, à la délivrance ou a
 
 |
 
-4.1
-
-Pratiques addictives
+4.1. Pratiques addictives
 
 |
 
@@ -550,33 +522,31 @@ Incompatibilité en cas d'état de dépendance vis-à-vis des substances psychot
 
 |
 
-4.2
-
-Médicaments susceptibles d'altérer la capacité
+4.2. Médicaments susceptibles d'altérer la capacité
 
 de conduite ou le comportement des conducteurs (cf. 4.3)
 
 |
 
-Incompatibilité en cas de consommation de médicaments susceptibles d'altérer la capacité de conduite ou le comportement des conducteurs, quand la nature du produit ou la quantité absorbée entraînent un risque pour la conduite. En cas de consommation régulière, un avis spécialisé sera demandé, en tenant compte des autres éléments d'aptitude médicale. L'évaluation des capacités médicales à la conduite, en cas de prescription de traitements de substitution à des états de dépendance, nécessite l'avis de la commission médicale (cf. arrêté du 18 juillet 2005).
+Incompatibilité en cas de consommation de médicaments susceptibles d'altérer la capacité de conduite ou le comportement des conducteurs, quand la nature du produit ou la quantité absorbée entraînent un risque pour la conduite. En cas de consommation régulière, un avis spécialisé sera demandé, en tenant compte des autres éléments d'aptitude médicale. L'évaluation des capacités médicales à la conduite, en cas de prescription de traitements de substitution à des états de dépendance, nécessite l'avis du médecin agréé (cf. arrêté du 18 juillet 2005).
 
 |
 
-4.3
-
-Troubles du sommeil
+4.3. Troubles du sommeil
 
 |
 
-4.3.1 : Somnolence excessive d'origine comportementale, organique, psychiatrique ou iatrogène
+4.3.1 : Somnolence excessive d'origine comportementale, organique (dont syndrome d’apnée obstructive du sommeil*), psychiatrique ou iatrogène
 
 |
 
-La reprise de la conduite pourra avoir lieu 1 mois après l'évaluation de l'efficacité thérapeutique (pression positive continue, chirurgie, prothèse, drogues éveillantes....). Cette reprise sera proposée à l'issue du bilan spécialisé (voir préambule).
+La reprise de la conduite pourra avoir lieu 1 mois après l'évaluation de l'efficacité thérapeutique du traitement approprié. Cette reprise sera proposée à l'issue du bilan spécialisé (voir préambule).
 
-Compatibilité temporaire de 1 an.
+Compatibilité temporaire de 3 ans.
 
 Incompatibilité tant que persiste une somnolence malgré le traitement. Nécessité de l'avis du médecin ayant pris en charge le traitement de la somnolence, qui décidera des investigations nécessaires.
+
+*Le syndrome de l'apnée obstructive du sommeil modéré correspond à un nombre d'apnées et d'hypopnées par heure (index d'apnées et hypopnées) compris entre 15 et 29, et le syndrome de l'apnée obstructive du sommeil sévère correspond à un index d'apnées et hypopnées supérieur ou égal à 30. Ces deux syndromes doivent être associés à une somnolence diurne excessive.
 
 |
 
@@ -586,15 +556,13 @@ Incompatibilité tant que persiste une somnolence malgré le traitement. Nécess
 
 La reprise de la conduite pourra avoir lieu 2 semaines après disparition de toute somnolence et constat clinique de l'efficacité thérapeutique (voir préambule).
 
-Compatibilité temporaire de 1 an.
+Compatibilité temporaire de 3 ans.
 
 Incompatibilité tant que persiste une somnolence malgré le traitement. Nécessité de l'avis du médecin ayant pris en charge le traitement de la somnolence, qui décidera des investigations nécessaires.
 
 |
 
-4.4
-
-Troubles neurologiques, comportementaux
+4.4. Troubles neurologiques, comportementaux
 
 et cognitifs
 
@@ -626,21 +594,17 @@ Incompatibilité en cas de démence documentée, après avis spécialisé si né
 
 |
 
-4.5
-
-Traumatisme crânien
+4.5. Traumatisme crânien
 
 |
 
 Dans tous les cas, le problème posé est celui des séquelles neurologiques. (cf. 4.4, 4.7, 5.1 et 5.2)
 
-Avis du spécialiste qui tiendra compte de l'importance des lésions, des signes cliniques, des différents examens paracliniques et du traitement envisagé.
+Avis du spécialiste qui tiendra compte de l'importance des lésions, des signes cliniques, des différents examens para cliniques et du traitement envisagé.
 
 |
 
-4.6
-
-Epilepsie : Les crises d'épilepsie ou autres perturbations brutales de l'état de conscience constituent un danger grave pour la sécurité routière lorsqu'elles surviennent lors de la conduite d'un véhicule à moteur.
+4.6. Épilepsie : Les crises d'épilepsie ou autres perturbations brutales de l'état de conscience constituent un danger grave pour la sécurité routière lorsqu'elles surviennent lors de la conduite d'un véhicule à moteur.
 
 Une personne est considérée comme épileptique lorsqu'elle subit deux crises d'épilepsie ou plus en moins de cinq ans. Une crise d'épilepsie provoquée est définie comme une crise déclenchée par un facteur causal identifiable qui peut être évité.
 
@@ -650,11 +614,11 @@ Il est extrêmement important que le syndrome épileptique spécifique et le typ
 
 |
 
-4.6.1 Le permis de conduire d'un conducteur du groupe 1 considéré comme épileptique fait l'objet d'un examen médical périodique tant que le conducteur n'est pas restée cinq ans sans faire de crise. En revanche, après une période de cinq ans sans crise, la délivrance d'un permis de conduire sans limitation de durée de validité pour raison médicale, peut être envisagée. Si une personne souffre d'épilepsie, elle ne satisfait pas aux critères permettant d'obtenir un permis inconditionnel. Une notification est fournie à l'autorité délivrant les permis.
+4.6.1 Le permis de conduire d'un conducteur du groupe 1 considéré comme épileptique fait l'objet d'un contrôle médical périodique tant que le conducteur n'est pas restée cinq ans sans faire de crise. En revanche, après une période de cinq ans sans crise, la délivrance d'un permis de conduire sans limitation de durée de validité pour raison médicale, peut être envisagée. Si une personne souffre d'épilepsie, elle ne satisfait pas aux critères permettant d'obtenir un permis inconditionnel. Une notification est fournie à l'autorité délivrant les permis.
 
 4.6.2 Crise d'épilepsie provoquée : le candidat ayant été victime d'une crise d'épilepsie provoquée par un facteur causal identifiable qui est peu susceptible de se reproduire au volant peut être déclaré apte à la conduite cas par cas, après avis d'un neurologue : l'évaluation est faite, le cas échéant, conformément aux autres sections pertinentes de la présente annexe (relatives, par exemple, à l'alcool et à d'autres facteurs de morbidité).
 
-4.6.3 Première crise non provoquée ou crise unique : le candidat ayant été victime d'une première crise d'épilepsie non provoquée peut être déclaré apte à la conduite après une période de six mois sans aucune crise, à condition qu'un examen médical approprié ait été effectué. Les conducteurs dont les indicateurs pronostiques sont bons peuvent être autorisés à conduire plus tôt, c'est-à-dire avant l'expiration ce cette période de six mois, après un avis médical approprié.
+4.6.3 Première crise non provoquée ou crise unique : le candidat ayant été victime d'une première crise d'épilepsie non provoquée peut être déclaré apte à la conduite après une période de six mois sans aucune crise, à condition qu'un contrôle médical approprié ait été effectué. Les conducteurs dont les indicateurs pronostiques sont bons peuvent être autorisés à conduire plus tôt, c'est-à-dire avant l'expiration ce cette période de six mois, après un avis médical approprié.
 
 4.6.4 Autre perte de conscience : la perte de conscience doit être évaluée en fonction du risque de récurrence lors de la conduite.
 
@@ -666,13 +630,11 @@ Il est extrêmement important que le syndrome épileptique spécifique et le typ
 
 4.6.8 Crises dues à une modification ou à l'arrêt du traitement antiépileptique ordonné par un médecin : il peut être recommandé au patient de ne pas conduire pendant six mois à compter de l'arrêt du traitement. Si, après une crise survenant alors que le traitement médicamenteux a été modifié ou arrêté sur avis du médecin, le traitement efficace précédemment suivi est réintroduit, le patient doit cesser de conduire pendant trois mois.
 
-4.6.9 Après une opération chirurgicale visant à soigner l'épilepsie: voir "Epilepsie".
+4.6.9 Après une opération chirurgicale visant à soigner l'épilepsie: voir "Épilepsie".
 
 |
 
-4.7
-
-Accidents vasculaires cérébraux (cf. 5.4)
+4.7. Accidents vasculaires cérébraux (cf. 5.4)
 
 |
 
@@ -702,21 +664,17 @@ Avis spécialisé si nécessaire.
 
 |
 
-4.8
-
-Psychose aiguë et chronique
+4.8. Psychose aiguë et chronique
 
 |
 
 Incompatibilité en cas de manifestations cliniques pouvant interférer avec la conduite automobile.
 
-Compatibilité temporaire éventuelle en cas de rémission confirmée par des examens régulièrement renouvelés (voir 4.2). Avis spécialisé nécessaire qui s'appuiera sur les indications du médecin traitant. Tout trouble mental ayant entraîné une hospitalisation d'office nécessite l'avis du psychiatre agréé, autre que celui qui soigne le sujet, préalablement au passage de l'intéressé devant la commission médicale.
+Compatibilité temporaire éventuelle en cas de rémission confirmée par des examens régulièrement renouvelés (voir 4.2). Avis spécialisé nécessaire qui s'appuiera sur les indications du médecin traitant. Tout trouble mental ayant entraîné une hospitalisation d'office nécessite l'avis du psychiatre agréé, autre que celui qui soigne le sujet, préalablement au passage de l'intéressé devant le médecin agréé.
 
 |
 
-4.9
-
-Pathologie interférant sur la capacité de socialisation
+4.9. Pathologie interférant sur la capacité de socialisation
 
 |
 
@@ -736,7 +694,7 @@ Avis spécialisé.
 
 |
 
-..
+.
 
 CLASSE V : APPAREIL LOCOMOTEUR
 
@@ -744,31 +702,29 @@ CLASSE V : APPAREIL LOCOMOTEUR
 
 L'évaluation des incapacités physiques doit reposer essentiellement sur des constatations permettant de déterminer si l'incapacité constatée risque d'empêcher une manœuvre efficace et rapide et de gêner le maniement des commandes en toutes circonstances, et notamment en urgence. Un test pratique est, si nécessaire, effectué.
 
-Pour le permis A, dans les cas exceptionnels où l'aptitude médicale peut être envisagée, l'avis de l'inspecteur du permis de conduire et de la sécurité routière sera recueilli lors d'un test pratique préalable à l'examen, ou à la régularisation du permis de conduire (il sera contacté avant toute décision d'aménagement) : l'efficacité des appareils de prothèse et l'aménagement du véhicule conseillés par les médecins sont appréciés et vérifiés par l'expert technique. Il s'assurera qu'avec ces dispositifs l'évaluation de la capacité médicale et des comportements confirme que la conduite n'est pas dangereuse. Une concertation entre les médecins et celui-ci, préalable à toutes les décisions d'aménagement dans les cas difficiles (voire en cas d'avis divergents), sera envisagée si nécessaire conformément à la réglementation en vigueur.
+Pour les permis A1, A2 et A, dans les cas exceptionnels où l'aptitude médicale peut être envisagée, l'avis de l'inspecteur du permis de conduire et de la sécurité routière sera recueilli lors d'un test pratique préalable à l'examen, ou à la régularisation du permis de conduire (il sera contacté avant toute décision d'aménagement) : l'efficacité des appareils de prothèse et l'aménagement du véhicule conseillés par les médecins sont appréciés et vérifiés par l'expert technique. Il s'assurera qu'avec ces dispositifs l'évaluation de la capacité médicale et des comportements confirme que la conduite n'est pas dangereuse. Une concertation entre le médecin et celui-ci, préalable à toutes les décisions d'aménagement dans les cas difficiles (voire en cas d'avis divergents), sera envisagée si nécessaire conformément à la réglementation en vigueur.
 
 Lorsque le handicap est stabilisé, et en l'absence de toute autre affection pouvant donner lieu à un permis temporaire, le permis est délivré à titre permanent.
 
-L'embrayage automatique ou le changement de vitesses automatique, lorsqu'ils constituent la seule adaptation nécessaire, ne sont pas considérés comme des aménagements et autorisent l'attribution d'un permis B, mention restrictive : "embrayage adapté" et/ou "changement de vitesse adapté" (codes 10 et/ou 15).
+L'embrayage automatique ou le changement de vitesses automatique, lorsqu'ils constituent la seule adaptation nécessaire, ne sont pas considérés comme des aménagements et autorisent l'attribution des permis B1 et B, mention restrictive : "embrayage adapté" et/ou "changement de vitesse adapté" (codes 10 et/ou 15).
 
 |
 
 |
 
-catégorie A
+catégories A1, A2, A
 
 |
 
-catégorie B et E (B)
+catégories B, B1 et BE
 
 |
 
-5.1
-
-Membres supérieurs
+5.1. Membres supérieurs
 
 |
 
-La commission tiendra compte de la valeur fonctionnelle du membre supérieur dans son ensemble.
+Le médecin agréé tiendra compte de la valeur fonctionnelle du membre supérieur dans son ensemble.
 
 La qualité des moignons bien étoffés et non douloureux, le jeu actif et passif des différentes articulations et leur coordination doivent permettre une prise fonctionnelle avec possibilité d'opposition efficace
 
@@ -778,9 +734,9 @@ La qualité des moignons bien étoffés et non douloureux, le jeu actif et passi
 
 |
 
-Incompatibilité de toute lésion gênant Ies mains ou les bras dans la triple fonction de maintien du guidon, de rotation des poignées ou de manœuvre des manettes.
+Incompatibilité de toute lésion gênant les mains ou les bras dans la triple fonction de maintien du guidon, de rotation des poignées ou de manœuvre des manettes.
 
-Dans certains cas de réadaptation exceptionnelle, la capacité de conduite est laissée à l'appréciation de la commission médicale. La nécessité de l'adjonction d'un side-car sera envisagée en fonction du handicap, de l'appareillage et de l'adaptation fonctionnelle. Avis spécialisé obligatoire et voir préambule.
+Dans certains cas de réadaptation exceptionnelle, la capacité de conduite est laissée à l'appréciation du médecin agréé. La nécessité de l'adjonction d'un side-car sera envisagée en fonction du handicap, de l'appareillage et de l'adaptation fonctionnelle. Avis spécialisé obligatoire et voir préambule.
 
 |
 
@@ -828,9 +784,7 @@ en position de fonction pour la conduite automobile sont compatibles.
 
 |
 
-5.2
-
-Membres inférieurs
+5.2. Membres inférieurs
 
 |
 
@@ -838,7 +792,7 @@ Membres inférieurs
 
 |
 
-La capacité à conduire est laissés à l'appréciation de la commission médicale (voir "préambule").
+La capacité à conduire est laissée à l'appréciation du médecin agréé (voir "préambule").
 
 La nécessité de l'adjonction d'un side-car sera envisagée en fonction du handicap et de l'adaptation fonctionnelle à l'appareillage.
 
@@ -856,7 +810,7 @@ L'embrayage automatique, lorsqu'il constitue la seule adaptation nécessaire, n'
 
 |
 
-La capacité de conduire est laissée à l'appréciation de la commission médicale (voir "préambule").
+La capacité à conduire est laissée à l'appréciation du médecin agréé (voir "préambule").
 
 La nécessité de l'adjonction d'un side-car sera envisagée en fonction du handicap et de l'adaptation fonctionnelle à l'appareillage.
 
@@ -864,9 +818,13 @@ Avis spécialisé obligatoire et vérification des capacités du conducteur par 
 
 |
 
-A gauche : compatibilité permis B, mention restrictive "embrayage automatique".
+A gauche :
 
-A droite : compatibilité permis avec aménagement.
+compatibilité permis B, mention restrictive "embrayage automatique".
+
+A droite :
+
+compatibilité permis avec aménagement.
 
 |
 
@@ -874,7 +832,7 @@ A droite : compatibilité permis avec aménagement.
 
 |
 
-La capacité de conduite est laissée à l'appréciation de la commission médicale (voir "préambule").
+La capacité à conduire est laissée à l'appréciation du médecin agréé (voir "préambule").
 
 La nécessité de l'adjonction d'un side-car sera envisagée en fonction du handicap et de l'adaptation fonctionnelle à l'appareillage.
 
@@ -884,9 +842,13 @@ Avis spécialisé obligatoire et vérification des capacités du conducteur par 
 
 Si la gêne fonctionnelle est importante :
 
-A gauche : compatibilité permis B avec embrayage automatique
+A gauche :
 
-A droite : compatibilité avec aménagement.
+compatibilité permis B avec embrayage automatique
+
+A droite :
+
+compatibilité avec aménagement.
 
 |
 
@@ -894,15 +856,19 @@ A droite : compatibilité avec aménagement.
 
 |
 
-La capacité de conduite est laissée à l'appréciation de la commission médicale (voir "préambule"). La nécessité de l'adjonction d'un side-car sera envisagée en fonction du handicap et de l'adaptation fonctionnelle à l'appareillage. Avis spécialisé et vérification des capacités du conducteur par l'expert technique en cas de permis avec aménagement.
+La capacité à conduire est laissée à l'appréciation du médecin agréé (voir "préambule"). La nécessité de l'adjonction d'un side-car sera envisagée en fonction du handicap et de l'adaptation fonctionnelle à l'appareillage. Avis spécialisé et vérification des capacités du conducteur par l'expert technique en cas de permis avec aménagement.
 
 |
 
 Si la gêne fonctionnelle est importante :
 
-A gauche : compatibilité permis B avec embrayage automatique
+A gauche :
 
-A droite : compatibilité avec aménagement.
+compatibilité permis B avec embrayage automatique
+
+A droite :
+
+compatibilité avec aménagement.
 
 |
 
@@ -912,21 +878,19 @@ A droite : compatibilité avec aménagement.
 
 |
 
-Incompatibilité en cas d'atteinte de la fonction des 2 membres supérieurs ou d'un membre supérieur et d'un membre inférieur.
+Incompatibilité en cas d'atteinte de la fonction des deux membres supérieurs ou d'un membre supérieur et d'un membre inférieur.
 
-Dans les autres cas, la capacité de conduite est laissée à l'appréciation de la commission médicale (voir "préambule").
+Dans les autres cas, la capacité à conduire est laissée à l'appréciation du médecin agréé (voir "préambule").
 
-La nécessité de l'adjonction d'un side-car sera envisagée en fonction du handicap et de l'adaptation fonctionnelle a l'appareillage. Avis spécialisé obligatoire et vérification des capacités du conducteur par l'expert technique en cas de permis avec aménagement.
-
-|
-
-L'association de diverses lésions uni- ou bilatérales sera laissée à l'appréciation des commissions médicales. Avis spécialisé et vérification des capacités du conducteur par l'expert technique en cas de permis avec aménagement.
+La nécessité de l'adjonction d'un side-car sera envisagée en fonction du handicap et de l'adaptation fonctionnelle à l'appareillage. Avis spécialisé obligatoire et vérification des capacités du conducteur par l'expert technique en cas de permis avec aménagement.
 
 |
 
-5.3
+L'association de diverses lésions uni- ou bilatérales sera laissée à l'appréciation du médecin agréé. Avis spécialisé et vérification des capacités du conducteur par l'expert technique en cas de permis avec aménagement.
 
-Rachis
+|
+
+5.3. Rachis
 
 |
 
@@ -936,9 +900,7 @@ En cas de lésion neurologique associée, outre l'atteinte motrice des membres, 
 
 |
 
-5.4
-
-Déficit moteur post-traumatigue, vasculaire, tumoral, infectieux et dégénératif, monoplégie, paralysie plexique, hémiplégie et paraplégie
+5.4. Déficit moteur post-traumatigue, vasculaire, tumoral, infectieux et dégénératif, monoplégie, paralysie plexique, hémiplégie et paraplégie
 
 |
 
@@ -946,13 +908,13 @@ Selon la localisation voir 5.1, 5.2, 4.4, 4.5 et 4.7.
 
 |
 
-..
+.
 
 CLASSE VI : PATHOLOGIE METABOLIQUE ET TRANSPLANTATION
 
 |
 
-6.1 : Insuffisance rénale traitée
+6.1. Insuffisance rénale traitée
 
 par épuration extra-rénale
 
@@ -964,7 +926,9 @@ En raison d'une baisse éventuelle de la vigilance due aux modifications hémody
 
 |
 
-6.2 Diabète. Dans les paragraphes suivants, on distingue les cas d'"hypoglycémie sévère", où l'assistance d'une tierce personne est nécessaire, et les cas d'"hypoglycémie récurrente", lorsqu'une deuxième hypoglycémie sévère survient au cours d'une période de douze mois.
+6.2. Diabète.
+
+Dans les paragraphes suivants, on distingue les cas d'"hypoglycémie sévère", où l'assistance d'une tierce personne est nécessaire, et les cas d'"hypoglycémie récurrente", lorsqu'une deuxième hypoglycémie sévère survient au cours d'une période de douze mois.
 
 |
 
@@ -972,7 +936,7 @@ En raison d'une baisse éventuelle de la vigilance due aux modifications hémody
 
 |
 
-Cf. classe 1 et paragraphe 2.1. Avis spécialisé et examen médical régulier, adapté à chaque cas, dont l'intervalle ne doit toutefois pas excéder 5 ans. Le médecin sera particulièrement vigilant dans l'évaluation du risque hypoglycémique.
+Cf. classe 1 et paragraphe 2.1. Avis spécialisé et contrôle médical régulier, adapté à chaque cas, dont l'intervalle ne doit toutefois pas excéder 5 ans. Le médecin sera particulièrement vigilant dans l'évaluation du risque hypoglycémique.
 
 |
 
@@ -980,13 +944,11 @@ Cf. classe 1 et paragraphe 2.1. Avis spécialisé et examen médical régulier, 
 
 |
 
-6.3
-
-Transplantation d'organe, implants artificiels
+6.3. Transplantation d'organe, implants artificiels
 
 |
 
-Le permis de conduire peut être délivré ou renouvelé à tout candidat ou conducteur ayant subi une transplantation d'organe ou porteur d'un implant artificiel. En l'absence d'incidence sur la conduite (ex.: greffe de rein. de foie, etc.), il n'est pas nécessaire de demander un examen auprès d'un médecin agréé ou de la commission médicale. En cas de greffe ayant une incidence sur la capacité de conduite, la décision est laissée à l'appréciation des médecins agréés ou de la commission médicale.
+Le permis de conduire peut être délivré ou renouvelé à tout candidat ou conducteur ayant subi une transplantation d'organe ou porteur d'un implant artificiel. En l'absence d'incidence sur la conduite (ex.: greffe de rein. de foie, etc.), il n'est pas nécessaire de demander un examen auprès d'un médecin agréé. En cas de greffe ayant une incidence sur la capacité à conduire, la décision est laissée à l'appréciation du médecin agréé.
 
 |
 
@@ -1002,15 +964,13 @@ La reprise de la conduite après tout événement cardiaque aigu et les renouvel
 
 Les risques additionnels liés à la conduite du groupe lourd, notamment chez les conducteurs professionnels, seront envisagés avec la plus extrême prudence.
 
-Les candidats ou conducteurs des catégories C, D, EC et ED relèvent des normes physiques requises pour le groupe lourd (groupe 2).
+Les candidats ou conducteurs des catégories C1, C1E, C, CE, D1, D1E, D, et DE relèvent des normes physiques requises pour le groupe lourd (groupe 2).
 
 Il en est de même pour les candidats ou conducteurs de la catégorie B valable pour la conduite des taxis et des voitures de remise, des ambulances, des véhicules affectés à des opérations de ramassage scolaire ou des véhicules affectés au transport public des personnes, ainsi que les enseignants de la conduite (voir article 2).
 
 |
 
-1.1
-
-Coronaropathies
+1.1. Coronaropathies
 
 |
 
@@ -1052,13 +1012,11 @@ Compatibilité temporaire après avis spécialisé et sous réserve d'un suivi s
 
 |
 
-1.2
-
-Troubles du rythme et/ou de la conduction
+1.2. Troubles du rythme et/ou de la conduction
 
 |
 
-1.2.1 Tachycardie supraventriculaire paroxystique
+1.2.1 Tachycardie supra ventriculaire paroxystique
 
 |
 
@@ -1140,7 +1098,7 @@ Avis spécialisé obligatoire. Si confirmation de l'affection : incompatibilité
 
 |
 
-Compatibilité temporaire si, après avis spécialisé, il n' y a pas d'indication à une stimulation cardiaque.
+Compatibilité temporaire si, après avis spécialisé, il n'y a pas d'indication à une stimulation cardiaque.
 
 |
 
@@ -1154,9 +1112,7 @@ Compatibilité temporaire et sous réserve d'une surveillance spécialisée rég
 
 |
 
-1.3
-
-Troubles de la conscience
+1.3. Troubles de la conscience
 
 |
 
@@ -1208,9 +1164,7 @@ cf. 4.7
 
 |
 
-1.4
-
-Hypertension artérielle
+1.4. Hypertension artérielle
 
 |
 
@@ -1220,9 +1174,7 @@ Si normalisation, compatibilité temporaire 2 ans, sur avis médical et contrôl
 
 |
 
-1.5
-
-Insuffisance cardiaque chronique
+1.5. Insuffisance cardiaque chronique
 
 |
 
@@ -1230,9 +1182,7 @@ Incompatibilité si l'insuffisance cardiaque est au stade 3 ou 4 permanent (clas
 
 |
 
-1.6
-
-Valvulopathies
+1.6. Valvulopathies
 
 |
 
@@ -1252,9 +1202,7 @@ Incompatibilité temporaire, puis cf. 1.6.1.
 
 |
 
-1.7
-
-Pathologies vasculaires
+1.7. Pathologies vasculaires
 
 |
 
@@ -1276,9 +1224,7 @@ La conduite sera reprise selon l'avis médical.
 
 |
 
-1.8
-
-Transplantation cardiaque
+1.8. Transplantation cardiaque
 
 |
 
@@ -1286,9 +1232,7 @@ Incompatibilité si symptomatique. Compatibilité temporaire annuelle pendant de
 
 |
 
-1.9
-
-Cardiomyopathie hypertrophique
+1.9. Cardiomyopathie hypertrophique
 
 |
 
@@ -1296,15 +1240,13 @@ Incompatibilité.
 
 |
 
-..
+.
 
 CLASSE II : ALTERATIONS VISUELLES
 
 |
 
-2.1
-
-Fonctions visuelles
+2.1. Fonctions visuelles
 
 (testées s'il y a lieu avec correction optique)
 
@@ -1360,9 +1302,7 @@ Les troubles de la vision des couleurs sont compatibles. Le candidat en sera ave
 
 |
 
-2.2
-
-Autres pathologies oculaires
+2.2. Autres pathologies oculaires
 
 |
 
@@ -1412,9 +1352,7 @@ CLASSE III : OTORHINO-LARYNGOLOGOIE-PNEUMOLOGIE
 
 |
 
-3.1
-
-Déficience auditive
+3.1. Déficience auditive
 
 |
 
@@ -1446,9 +1384,7 @@ Incompatibilité (cf. 3.1.1)
 
 |
 
-3.2
-
-Troubles de l'équilibre
+3.2. Troubles de l'équilibre
 
 |
 
@@ -1502,9 +1438,7 @@ Avis spécialisé obligatoire. Si confirmation de l'affection : incompatibilité
 
 |
 
-3.3
-
-Port d'une canule trachéale
+3.3. Port d'une canule trachéale
 
 |
 
@@ -1514,9 +1448,7 @@ Les risques additionnels liés à la conduite de ce type de véhicule, en partic
 
 |
 
-3.4
-
-Asthme, broncho-pneumopathie chronique obstructive et affections dyspnéisantes au stade de l'insuffisance respiratoire nécessitant l'appareillage ventilatoire
+3.4. Asthme, broncho-pneumopathie chronique obstructive et affections dyspnéisantes au stade de l'insuffisance respiratoire nécessitant l'appareillage ventilatoire
 
 |
 
@@ -1524,9 +1456,7 @@ Avis spécialisé obligatoire. Si confirmation de l'affection : incompatibilité
 
 |
 
-3.5
-
-Syndrome des apnées du sommeil.
+3.5. Syndrome des apnées du sommeil.
 
 |
 
@@ -1534,7 +1464,7 @@ Cf. 4.3.1
 
 |
 
-..
+.
 
 CLASSE IV : PRATIQUES ADDICTIVES - NEUROLOGIE- PSYCHIATRIE
 
@@ -1546,9 +1476,7 @@ Les risques additionnels liés à la conduite du groupe lourd, notamment chez le
 
 |
 
-4.1
-
-Pratiques addictives
+4.1. Pratiques addictives
 
 |
 
@@ -1564,7 +1492,7 @@ En cas de récidive, modulation de la périodicité des visites médicales avec 
 
 En cas de dépendance forte avec signes de dépendance physique témoignant d'une alcoolisation régulière, incompatibilité totale peut être prononcée pendant une période pouvant aller jusqu'à 18 mois pour obtenir une capacité médicale compatible avec les exigences de la sécurité routière. Avant autorisation de la conduite, réévaluation obligatoire à 1 an par la commission médicale qui confirme l'abstention totale de consommation d'alcool au vu des éléments médicaux présentés dont un avis spécialisé obligatoire : période d'observation de 6 mois renouvelable pendant 3 ans. Ultérieurement, modulation de la périodicité des visites médicales avec raccourcissement des échéances à l'appréciation de la commission médicale.
 
-Incompatibilité pour les véhicules des catégories D, E(C), E(D).
+Incompatibilité pour les véhicules des catégories D1, D1E, D, DE, C1, C1E, C, CE.
 
 Les risques additionnels liés aux conditions de travail seront envisagés avec la plus extrême prudence.
 
@@ -1578,15 +1506,13 @@ Incompatibilité en cas de consommation de substances psychotropes. Recours poss
 
 Compatibilité temporaire de 1 an, renouvelable pendant 3 ans. Ultérieurement, modulation de la périodicité des visites médicales avec limitation de la durée d'aptitude.
 
-Une incompatibilité pour les catégories D, E(C), E(D) pourra être prononcée.
+Une incompatibilité pour les catégories D1, D1E, D, DE, C1, C1E, C, CE pourra être prononcée.
 
 Les risques additionnels liés aux conditions de travail seront envisagés avec la plus extrême prudence.
 
 |
 
-4.2
-
-Médicaments susceptibles d'altérer la capacité de conduire ou le comportement des conducteurs
+4.2. Médicaments susceptibles d'altérer la capacité de conduire ou le comportement des conducteurs
 
 (cf. 4.3)
 
@@ -1594,31 +1520,33 @@ Médicaments susceptibles d'altérer la capacité de conduire ou le comportement
 
 Incompatibilité en cas de consommation de médicaments susceptibles d'altérer la capacité de conduite ou le comportement des conducteurs, quand la nature du produit ou la quantité absorbée entraînent un risque pour la conduite. En cas de consommation régulière, l'avis d'un spécialiste sera demandé, en tenant compte des autres éléments d'aptitude médicale.
 
-L'évaIuation des capacités médicales à la conduite en cas de prescription de traitements de substitution à des états de dépendance nécessite l'avis de la commission médicale.
+L'évaluation des capacités médicales à la conduite en cas de prescription de traitements de substitution à des états de dépendance nécessite l'avis du médecin agréé.
 
-Les risques additionnels liés à la conduite de ce type de véhicule, en particulier par des professionnels, notamment pour les catégories D, E(C), E (D) seront envisagés soigneusement (cf. arrêté du 18 juillet 2005).
-
-|
-
-4.3
-
-Troubles du sommeil
+Les risques additionnels liés à la conduite de ce type de véhicule, en particulier par des professionnels, notamment pour les catégories D1, D1E, D, DE, C1, C1E, C, CE seront envisagés soigneusement (cf. arrêté du 18 juillet 2005).
 
 |
 
-4.3.1. Somnolence excessive d'origine comportementale, organique, psychiatrique ou iatrogène
+4.3. Troubles du sommeil
 
 |
 
-La reprise de la conduite peut avoir lieu 1 mois après l'évaluation de l'efficacité thérapeutique (pression positive continue, chirurgie, prothèses, drogues éveillantes, etc.). Cette reprise sera proposée à l'issue d'un bilan clinique spécialisé et test électro-encéphalographique de maintien de l'éveil (voir préambule).
+4.3.1. Somnolence excessive d'origine comportementale, organique (dont syndrome d'apnée obstructive du sommeil*), psychiatrique ou iatrogène
 
-Compatibilité temporaire de 6 mois.
+|
 
-Incompatibilité tant que persiste une somnolence malgré le traitement. L'évaluation clinique doit être complétée, dans ce cas, par un test électro-encéphalographique de maintien de l'éveil.
+La reprise de la conduite peut avoir lieu 1 mois après l'évaluation de l'efficacité thérapeutique du traitement approprié. Cette reprise sera proposée à l'issue du bilan spécialisé et test de maintien de l'éveil (voir préambule).
+
+Compatibilité temporaire de 1 an.
+
+Incompatibilité tant que persiste une somnolence malgré le traitement.
+
+Nécessité de l'avis du médecin ayant pris en charge le traitement de la somnolence, qui décidera des investigations nécessaires dont la réalisation d’un test de maintien de l’éveil pour confirmer le retour d’une vigilance normale.
 
 Avis spécialisé pour une éventuelle autorisation de la conduite nocturne.
 
 Les risques additionnels liés aux conditions de travail seront envisagés avec la plus extrême prudence.
+
+*Le syndrome de l'apnée obstructive du sommeil modéré correspond à un nombre d'apnées et d'hypopnées par heure (index d'apnées et hypopnées) compris entre 15 et 29, et le syndrome de l'apnée obstructive du sommeil sévère correspond à un index d'apnées et hypopnées supérieur ou égal à 30. Ces deux syndromes doivent être associés à une somnolence diurne excessive.
 
 |
 
@@ -1626,13 +1554,13 @@ Les risques additionnels liés aux conditions de travail seront envisagés avec 
 
 |
 
-La reprise de la conduite peut avoir lieu 1 mois après disparition de toute somnolence et constat de l'efficacité thérapeutique (voir préambule).
+La reprise de la conduite peut avoir lieu 2 semaines après disparition de toute somnolence et constat de l'efficacité thérapeutique (voir préambule).
 
-Cette reprise sera proposée à l'issue d'un bilan spécialisé complété, dans ce cas, par un test électro-encéphalographique de maintien de l'éveil.
+Compatibilité temporaire de 1 an.
 
-Compatibilité temporaire de 6 mois pendant 2 ans, annuelle ensuite (insomnie chronique).
+Incompatibilité tant que persiste une somnolence malgré le traitement.
 
-Incompatibilité tant que persiste une somnolence malgré le traitement. La reprise sera proposée à l'issue d'un bilan spécialisé complété, dans ce cas, par un test électro-encéphalographique de maintien de l'éveil.
+Nécessité de l'avis du médecin ayant pris en charge le traitement de la somnolence, qui décidera des investigations nécessaires dont la réalisation d’un test de maintien de l’éveil pour confirmer le retour d’une vigilance normale.
 
 Avis spécialisé pour une éventuelle autorisation de la conduite nocturne.
 
@@ -1640,13 +1568,11 @@ Les risques additionnels liés aux conditions de travail seront envisagés avec 
 
 |
 
-4.4
-
-Troubles neurologiques, comportementaux et cognitifs
+4.4. Troubles neurologiques, comportementaux et cognitifs
 
 |
 
-Les troubles neurologiques, comportementaux, cognitifs ou les troubles de la sénescence, dus à des affections. des opérations du système nerveux central ou périphérique, extériorisés par des signes moteurs, sensitifs, sensoriels, trophiques, perturbant l'équilibre et la coordination, seront envisagés en fonction des possibilités fonctionnelles.
+Les troubles neurologiques, comportementaux, cognitifs ou les troubles de la sénescence, dus à des affections, des opérations du système nerveux central ou périphérique, extériorisés par des signes moteurs, sensitifs, sensoriels, trophiques, perturbant l'équilibre et la coordination, seront envisagés en fonction des possibilités fonctionnelles.
 
 |
 
@@ -1672,21 +1598,17 @@ Incompatibilité en cas de démence documentée après évaluation neurologique 
 
 |
 
-4.5
-
-Traumatisme crânien
+4.5. Traumatisme crânien
 
 |
 
 Dans tous les cas, le problème posé est celui des séquelles neurologiques (cf. 4.4, 4.7, 5. 1 et 5.2).
 
-Avis spécialisé qui tiendra compte de l'importance des lésions, des signes cliniques, des différents examens paracliniques et du traitement envisagé.
+Avis spécialisé qui tiendra compte de l'importance des lésions, des signes cliniques, des différents examens para cliniques et du traitement envisagé.
 
 |
 
-4.6
-
-Epilepsie
+4.6. Épilepsie
 
 |
 
@@ -1706,9 +1628,7 @@ Une personne souffrant d'une lésion intracérébrale structurelle qui présente
 
 |
 
-4.7
-
-Accidents vasculaires cérébraux, cf. 5.4
+4.7. Accidents vasculaires cérébraux, cf. 5.4
 
 |
 
@@ -1742,9 +1662,7 @@ Incompatibilité temporaire selon la nature du déficit (cf. 4.4.1 ; 2.1.2).
 
 |
 
-4.8
-
-Psychose aiguë et chronique
+4.8. Psychose aiguë et chronique
 
 |
 
@@ -1752,15 +1670,13 @@ Incompatibilité en cas de manifestations cliniques pouvant interférer avec la 
 
 Compatibilité temporaire éventuelle en cas de rémission confirmée par des examens régulièrement renouvelés (voir 4.2).
 
-Incompatibilité pour la conduite des véhicules du groupe D, E(C), E(D) et C supérieure à 7,5 T.
+Incompatibilité pour la conduite des véhicules du groupe lourd supérieurs à 7,5 T.
 
-Avis spécialisé nécessaire qui s'appuiera sur les indications du médecin traitant. Tout trouble mental ayant entraîné une hospitalisation d'office nécessite l'avis d'un spécialiste agréé, autre que celui qui soigne le sujet, préalablement à l'examen de l'intéressé par la commission médicale.
+Avis spécialisé nécessaire qui s'appuiera sur les indications du médecin traitant. Tout trouble mental ayant entraîné une hospitalisation d'office nécessite l'avis d'un spécialiste agréé, autre que celui qui soigne le sujet, préalablement à l'examen de l'intéressé par le médecin agréé.
 
 |
 
-4.9
-
-Pathologie interférant sur la capacité de socialisation
+4.9. Pathologie interférant sur la capacité de socialisation
 
 |
 
@@ -1782,7 +1698,7 @@ Avis spécialisé.
 
 |
 
-..
+.
 
 CLASSE V : APPAREIL LOCOMOTEUR
 
@@ -1792,19 +1708,17 @@ L'évaluation des incapacités physiques doit reposer essentiellement sur des co
 
 Un test pratique est, si nécessaire, effectué.
 
-Dans les cas exceptionnels où l'aptitude médicale peut être envisagée, l'avis de l'inspecteur du permis de conduire et de la sécurité routière sera recueilli lors d'un test pratique préalable à l'examen, ou à la régularisation du permis de conduire (il sera contacté avant toute décision d'aménagement) : l'efficacité des appareils de prothèse et l'aménagement du véhicule conseillés par les médecins sont appréciés et vérifiés par l'expert technique. Il s'assurera qu'avec ces dispositifs, l'évaluation de la capacité médicale et des comportements confirme que la conduite n'est pas dangereuse. Une concertation entre les médecins et celui-ci, préalable à toutes les décisions d'aménagement dans les cas difficiles (voire en cas d'avis divergents), sera envisagée si nécessaire conformément à la réglementation en vigueur. Lorsque le handicap est stabilisé et en l'absence de toute autre affection pouvant donner lieu à un permis temporaire, le permis est délivré à titre permanent.
+Dans les cas exceptionnels où l'aptitude médicale peut être envisagée, l'avis de l'inspecteur du permis de conduire et de la sécurité routière sera recueilli lors d'un test pratique préalable à l'examen, ou à la régularisation du permis de conduire (il sera contacté avant toute décision d'aménagement) : l'efficacité des appareils de prothèse et l'aménagement du véhicule conseillés par les médecins sont appréciés et vérifiés par l'expert technique. Il s'assurera qu'avec ces dispositifs, l'évaluation de la capacité médicale et des comportements confirme que la conduite n'est pas dangereuse. Une concertation entre le médecin et celui-ci, préalable à toutes les décisions d'aménagement dans les cas difficiles (voire en cas d'avis divergents), sera envisagée si nécessaire conformément à la réglementation en vigueur. Lorsque le handicap est stabilisé et en l'absence de toute autre affection pouvant donner lieu à un permis temporaire, le permis est délivré à titre permanent.
 
 L'embrayage automatique ou le changement de vitesses automatique, lorsqu'ils constituent la seule adaptation nécessaire ne sont pas considérés comme des aménagements et autorisent l'attribution d'un permis, mention restrictive : "embrayage adapté" et/ou "changement de vitesse adapté" (code 10 et/ou 15).
 
 |
 
-5.1
-
-Membres supérieurs
+5.1. Membres supérieurs
 
 |
 
-La commission tiendra compte de la valeur fonctionnelle du membre supérieur dans son ensemble. La qualité des moignons bien étoffés et non douloureux, le jeu actif et passif des différentes articulations et leur coordination doivent permettre une prise fonctionnelle avec possibilité d'opposition efficace.
+Le médecin agréé tiendra compte de la valeur fonctionnelle du membre supérieur dans son ensemble. La qualité des moignons bien étoffés et non douloureux, le jeu actif et passif des différentes articulations et leur coordination doivent permettre une prise fonctionnelle avec possibilité d'opposition efficace.
 
 |
 
@@ -1836,9 +1750,7 @@ Les ankyloses, les arthrodèses du coude, du poignet et de l'épaule non doulour
 
 |
 
-5.2
-
-Membres inférieurs
+5.2. Membres inférieurs
 
 |
 
@@ -1890,9 +1802,7 @@ L'association de diverses lésions uni- ou bilatérales sera laissée à l'appr�
 
 |
 
-5.3
-
-Rachis
+5.3. Rachis
 
 |
 
@@ -1900,9 +1810,7 @@ Les mouvements de rotation doivent être conservés de manière satisfaisante (o
 
 |
 
-5.4
-
-Déficit moteur post-traumatique, vasculaire, tumoral, infectieux et dégénératif, monoplégie, paralysie plexique, hémiplégie et paraplégie
+5.4. Déficit moteur post-traumatique, vasculaire, tumoral, infectieux et dégénératif, monoplégie, paralysie plexique, hémiplégie et paraplégie
 
 |
 
@@ -1910,15 +1818,13 @@ Selon la localisation (cf. 5.1, 5.2, 4.4, 4.5 et 4.7)
 
 |
 
-..
+.
 
 CLASSE VI : PATHOLOGIE METABOLIQUE ET TRANSPLANTATION
 
 |
 
-6.1
-
-Insuffisance rénale traitée par épuration extra-rénale
+6.1. Insuffisance rénale traitée par épuration extra-rénale
 
 |
 
@@ -1930,9 +1836,7 @@ En raison d'une baisse éventuelle de la vigilance due aux modifications hémody
 
 |
 
-6.2
-
-Diabète : la délivrance et/ou le renouvellement des permis de conduire du groupe 2 aux conducteurs souffrant de diabète sucré doit faire l'objet d'une attention particulière
+6.2. Diabète : la délivrance et/ou le renouvellement des permis de conduire du groupe 2 aux conducteurs souffrant de diabète sucré doit faire l'objet d'une attention particulière
 
 |
 
@@ -1948,16 +1852,16 @@ Cf. classe 1 et paragraphe 2.1.
 
 |
 
-La délivrance et/ou le renouvellement des permis de conduire du groupe 2 aux conducteurs souffrant de diabète sucré doit faire l'objet d'une attention particulière. Dans certains cas particuliers, une compatibilité temporaire pourra être envisagée après avis spécialisé. Si le candidat ou le conducteur suit un traitement médicamenteux pouvant provoquer une hypoglycémie (insuline et certains autres médicaments), il convient d'appliquer les critères suivants : - aucune crise d'hypoglycémie sévère ne s'est produite au cours des douze derniers mois, - le conducteur identifie correctement les symptômes liés à l'hypoglycémie, - le conducteur doit faire preuve d'une maîtrise adéquate de la maladie en contrôlant régulièrement sa glycémie, au moins deux fois par jour et lorsqu'il envisage de conduire, - le médecin s'assure que le conducteur diabétique comprend le risque hypoglycémique et qu'il maîtrise la maladie de manière adéquate, - il n'y a pas d'autre complication liée au diabète qui puisse interdire la conduite. En outre, dans ces cas, la délivrance du permis doit être soumise à l'avis d'une autorité médicale compétente et à des examens médicaux réguliers, réalisés à des intervalles n'excédant pas trois ans.
+La délivrance et/ou le renouvellement des permis de conduire du groupe 2 aux conducteurs souffrant de diabète sucré doit faire l'objet d'une attention particulière.
+
+Dans certains cas particuliers, une compatibilité temporaire pourra être envisagée après avis spécialisé. Si le candidat ou le conducteur suit un traitement médicamenteux pouvant provoquer une hypoglycémie (insuline et certains autres médicaments), il convient d'appliquer les critères suivants : - aucune crise d'hypoglycémie sévère ne s'est produite au cours des douze derniers mois, - le conducteur identifie correctement les symptômes liés à l'hypoglycémie, - le conducteur doit faire preuve d'une maîtrise adéquate de la maladie en contrôlant régulièrement sa glycémie, au moins deux fois par jour et lorsqu'il envisage de conduire, - le médecin s'assure que le conducteur diabétique comprend le risque hypoglycémique et qu'il maîtrise la maladie de manière adéquate, - il n'y a pas d'autre complication liée au diabète qui puisse interdire la conduite. En outre, dans ces cas, la délivrance du permis doit être soumise à l'avis d'une autorité médicale compétente et à des examens médicaux réguliers, réalisés à des intervalles n'excédant pas trois ans.
 
 |
 
-6.3
-
-Transplantation d'organe, implants artificiels
+6.3. Transplantation d'organe, implants artificiels
 
 |
 
-Le permis de conduire peut être délivré ou renouvelé à tout candidat ou conducteur ayant subi une transplantation d'organe ou porteur d'un implant artificiel. En l'absence d'incidence sur la conduite (ex. : greffe de rein, de foie, etc.), il n'est pas nécessaire de demander un examen auprès d'un médecin agréé ou de la commission médicale. En cas de greffe ayant une incidence sur la capacité de conduite, la décision est laissée à l'appréciation des médecins agréés on de la commission médicale.
+Le permis de conduire peut être délivré ou renouvelé à tout candidat ou conducteur ayant subi une transplantation d'organe ou porteur d'un implant artificiel. En l'absence d'incidence sur la conduite (ex. : greffe de rein, de foie, etc.), il n'est pas nécessaire de demander un examen auprès d'un médecin agréé. En cas de greffe ayant une incidence sur la capacité à conduire, la décision est laissée à l'appréciation du médecin agréé.
 
 |
