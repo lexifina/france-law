@@ -12,9 +12,7 @@ c) La société est soumise à l'impôt sur les sociétés dans les conditions d
 
 c bis) La société compte au moins deux salariés à la clôture de l'exercice qui suit la souscription ayant ouvert droit à la présente réduction ou un salarié si elle est soumise à l'obligation de s'inscrire à la chambre de métiers et de l'artisanat ;
 
-d) La société exerce une activité commerciale, industrielle, artisanale, libérale ou agricole, à l'exclusion des activités procurant des revenus garantis en raison de l'existence d'un tarif réglementé de rachat de la production, des activités financières, des activités de gestion de patrimoine mobilier définie à l'article 885 O quater et des activités immobilières. Toutefois, les exclusions relatives à l'exercice d'une activité financière ou immobilière ne sont pas applicables aux entreprises solidaires mentionnées à l'article L. 3332-17-1 du code du travail.
-
-La société n'exerce pas une activité de production d'électricité utilisant l'énergie radiative du soleil ;
+d) La société exerce une activité commerciale, industrielle, artisanale, libérale ou agricole, à l'exclusion des activités procurant des revenus garantis en raison de l'existence d'un tarif réglementé de rachat de la production ou bénéficiant d'un contrat offrant un complément de rémunération, des activités financières, des activités de gestion de patrimoine mobilier définie à l'article 885 O quater et des activités immobilières. Toutefois, les exclusions relatives à l'exercice d'une activité financière ou immobilière ne sont pas applicables aux entreprises solidaires mentionnées à l'article L. 3332-17-1 du code du travail.
 
 d bis) Les actifs de la société ne sont pas constitués de façon prépondérante de métaux précieux, d'œuvres d'art, d'objets de collection, d'antiquités, de chevaux de course ou de concours ou, sauf si l'objet même de son activité consiste en leur consommation ou en leur vente au détail, de vins ou d'alcools ;
 
@@ -70,7 +68,13 @@ Les dispositions du deuxième alinéa ne s'appliquent pas en cas de licenciement
 
 En cas de non-respect de la condition de conservation prévue au deuxième alinéa du présent IV par suite d'une fusion ou d'une scission au sens de l'article 817 A, l'avantage fiscal mentionné au 1° du I du présent article accordé au titre de l'année en cours et de celles précédant ces opérations n'est pas remis en cause si les titres reçus en contrepartie sont conservés jusqu'au même terme. Cet avantage fiscal n'est pas non plus remis en cause lorsque la condition de conservation prévue au deuxième alinéa du IV n'est pas respectée par suite d'une annulation des titres pour cause de pertes.
 
-En cas de non-respect de la condition de conservation prévue au même deuxième alinéa du IV en cas de cession stipulée obligatoire par un pacte d'associés ou d'actionnaires, l'avantage fiscal mentionné au 1° du I accordé au titre de l'année en cours et de celles précédant ces opérations n'est pas non plus remis en cause si le prix de vente des titres cédés, diminué des impôts et taxes générés par cette cession, est intégralement réinvesti par un actionnaire minoritaire, dans un délai maximal de douze mois à compter de la cession, en souscription de titres de sociétés satisfaisant aux conditions mentionnées au 2° du même I, sous réserve que les titres ainsi souscrits soient conservés jusqu'au même terme. Cette souscription ne peut donner lieu au bénéfice de l'avantage fiscal prévu au 1° dudit I.
+En cas de non-respect de la condition de conservation prévue au même deuxième alinéa en cas de cession :
+
+1° Intervenant dans les deux ans de la souscription et si cette cession est stipulée comme étant obligatoire par un pacte d'associés ou d'actionnaires ;
+
+2° Intervenant plus de deux ans après la souscription et cela quelle que soit la cause de la cession,
+
+l'avantage fiscal mentionné au 1° du I accordé au titre de l'année en cours et de celles précédant ces opérations n'est pas non plus remis en cause, si le montant initialement investi ou si le prix de vente des titres cédés, diminué des impôts et taxes générés par cette cession, est inférieur au montant initialement investi, est intégralement réinvesti par un actionnaire minoritaire, dans un délai maximal de douze mois à compter de la cession, en souscription de titres de sociétés satisfaisant aux conditions mentionnées au 2° du même I, sous réserve que les titres ainsi souscrits soient conservés jusqu'au même terme. Cette souscription ne peut donner lieu au bénéfice de l'avantage fiscal prévu au 1° dudit I.
 
 En cas de non-respect de la condition de conservation prévue au deuxième alinéa du IV en cas d'offre publique d'échange de titres, l'avantage fiscal mentionné au 1° du I accordé au titre de l'année en cours et de celles précédant cette opération n'est pas remis en cause si les titres obtenus lors de l'échange sont des titres de sociétés satisfaisant aux conditions mentionnées au 2° du même I et si l'éventuelle soulte d'échange, diminuée le cas échéant des impôts et taxes générés par son versement, est intégralement réinvestie, dans un délai maximal de douze mois à compter de l'échange, en souscription de titres de sociétés satisfaisant aux conditions mentionnées au même 2°, sous réserve que les titres obtenus lors de l'échange et, le cas échéant, souscrits en remploi de la soulte soient conservés jusqu'au terme du délai applicable aux titres échangés. La souscription de titres au moyen de la soulte d'échange ne peut donner lieu au bénéfice de l'avantage fiscal prévu au 1° dudit I.
 
@@ -137,7 +141,3 @@ Le bénéfice de la dérogation mentionnée au deuxième alinéa du présent d e
 - la société réalise son objet social sur l'ensemble du territoire national.
 
 VII. - Un décret fixe les modalités d'application du VI et du VI bis, notamment les obligations déclaratives incombant aux porteurs de parts ainsi qu'aux gérants et dépositaires des fonds.
-
-NOTA :
-
-Aux termes du III de l'article 59 de la loi n° 2014-1655 du 29 décembre 2014, les dispositions de l'article 199 terdecies-0 A telles qu'elles résultent du 1° du I du même article 59 s'appliquent aux souscriptions effectuées à compter du 1er janvier 2015.
