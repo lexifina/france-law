@@ -1,0 +1,41 @@
+# Article Annexe I
+
+NOMBRE MAXIMAL D'EMPLOIS OUVRANT DROIT, PAR CATÉGORIE,
+
+À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET DE RESPONSABILITÉS DES MILITAIRES DE LA GENDARMERIE NATIONALE
+
+CATÉGORIE |
+
+NOMBRE MAXIMAL D'EMPLOI |
+
+Catégorie I |
+
+18 |
+
+Catégorie II |
+
+80 |
+
+Catégorie III |
+
+117 |
+
+Catégorie IV |
+
+121 |
+
+Catégorie V |
+
+244 |
+
+Catégorie VI |
+
+403 |
+
+Catégorie VII |
+
+202 |
+
+Catégorie VIII |
+
+3047 |
