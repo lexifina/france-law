@@ -1496,7 +1496,9 @@ Article 42-2
 
 |
 
-Habilitation des organismes chargés de procéder au mesurage de l'exposition aux vibrations mécaniques des personnes employées à bord des navires |
+Habilitation des organismes chargés de procéder au mesurage de l'exposition aux vibrations mécaniques des personnes employées à bord des navires
+
+|
 
 Article 42-2
 
@@ -1564,35 +1566,53 @@ et article 258,
 
 |
 
-Décret du 24 juillet 1923 modifié relatif aux autorisations pour la vente et l'achat de navires
+Décret n° 2006-142 du 10 février 2006 relatif à la création du guichet unique prévu par la loi n° 2005-412 du 3 mai 2005 relative à la création du registre international français
 
 1
 
 |
 
-Entrées et sorties de flotte de commerce : navires de plus de 200 tonneaux de jauge brute.
+La délivrance des certificats d'immatriculation et de radiation des navires au registre international français.
 
 |
 
-Article 2.
+Article 2, alinéas 2 et 3
 
 |
 
-Décret n° 48-1751 du 16 novembre 1948 modifié étendant dans certaines conditions les dispositions du décret du 24 juillet 1923 relatif aux territoires d'outre-mer
-
-1
+2
 
 |
 
-Entrées et sorties de flotte de commerce : navires de plus de 200 tonneaux de jauge brute.
+La délivrance des titres de navigation maritime des navires immatriculés au registre international français.
 
 |
 
-Article 1er, 1er
-
-et 2e alinéa.
+Article 2, alinéa 4
 
 |
+
+3
+
+|
+
+La délivrance de la fiche d'effectif minimal et le visa des décisions d'effectif des navires immatriculés au registre international français.
+
+|
+
+Article 2, alinéa 5
+
+|
+
+4
+
+|
+
+La délivrance des certificats d'assurance ou autre garantie financière des navires immatriculés au registre international français prévus par l'article L. 5123-2 du code des transports, à l'exception de ceux de ces certificats dont la délivrance a été déléguée en application de l'article L. 5123-3 du code des transports.
+
+|
+
+Article 2, alinéa 6 |
 
 Décret n° 2014-497 du 16 mai 2014 relatif à la délégation des certificats d'assurance ou autre garantie financière des navires
 
@@ -1656,7 +1676,7 @@ R. * 412-7.
 
 Mesures prises par le ministre chargé de l'aviation civile
 
-Code de l'aviation civile
+Code de l'aviation civile et code des transports
 
 1
 
@@ -1894,11 +1914,19 @@ Chapitre Ier du titre II, du livre IV
 
 |
 
-Décisions relatives à l'agrément des médecins et des centres médicaux pour l'examen médical des titulaires de licences des personnels navigants et des candidats à ces licences ; décisions en matière de reconnaissance d'incapacité temporaire ou permanente de travail et de décès consécutifs d'un accident aérien survenu en service ou une maladie imputable au service aérien.
+Décisions relatives à l'agrément des centres aéromédicaux et des examinateurs aéromédicaux
 
 |
 
-Articles L. 424-1, L. 424-2, et D. 424-2.
+Article R. 410-12 du code de l'aviation civile
+
+|
+
+Décisions en matière de reconnaissance d'incapacité temporaire ou permanente de travail ou de décès consécutifs d'un accident aérien survenu en service ou une maladie imputable au service aérien.
+
+|
+
+Articles R. 410-5 et D. 424-2 du code de l'aviation civile
 
 |
 
