@@ -154,7 +154,7 @@ Chef de l'institut de recherche criminelle de la gendarmerie nationale
 
 |
 
-Chef du service technique de recherches judiciaires et de documentation
+Chef du service central de renseignement criminel de la gendarmerie nationale
 
 |
 

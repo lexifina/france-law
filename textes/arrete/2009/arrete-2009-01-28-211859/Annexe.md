@@ -48,7 +48,7 @@ et de réprimer les actes de terrorisme
 
 3. Les services ci-après, dont les agents sont individuellement désignés et dûment habilités par le directeur général de la gendarmerie nationale :
 
--le service technique de recherches judiciaires et de documentation de la sous-direction de la police judiciaire ;
+-le service central de renseignement criminel de la gendarmerie nationale de la sous-direction de la police judiciaire ;
 
 -le bureau de la lutte antiterroriste de la sous-direction de la police judiciaire ;
 
