@@ -1142,139 +1142,145 @@ Les fenêtres situées dans le bordé du navire au-dessous de la zone d'embarque
 
 6.3 A bord des navires-citernes, afin d'assurer la protection des citernes à cargaison dans lesquelles sont transportés du pétrole brut et des produits pétroliers ayant un point d'éclair ne dépassant pas 60°C, on ne doit pas utiliser, pour les soupapes, accessoires, couvercles des ouvertures de citernes, tuyaux de dégagement des gaz de la cargaison et tuyautages à cargaison, des matériaux dont les caractéristiques sont facilement altérées par la chaleur, cela pour qu'un incendie ne puisse se propager à la cargaison.
 
-7 Dispositifs de ventilation
+7. Dispositifs de ventilation
 
-7.1 Conduits et volets
+(Le présent paragraphe s'applique aux navires construits le 1er janvier 2016 ou après cette date.)
 
-7.1.1 Les conduits de ventilation doivent être en matériau en acier ou en matériau équivalent. Toutefois, les faibles longueurs de conduits, dont la longueur ne dépasse généralement pas 2 m, ni la section libre (*) 0,02 m², n'ont pas à être en matériau en acier ou en matériau équivalent, sous réserve que les conditions suivantes soient remplies :
+7.1 Généralités.
 
-.1 sous réserve du paragraphe 7.1.1.2, les longueurs de conduits sont en un matériau quelconque qui a un faible pouvoir propagateur de flamme ;
+7.1.1 Les conduits de ventilation, y compris les conduits à simple et à double paroi, doivent être en acier ou autre matériau équivalent, à l'exception des soufflets flexibles d'une faible longueur ne dépassant pas 600 mm utilisés pour raccorder les ventilateurs aux conduits dans le local contenant les installations de conditionnement d'air. Sauf mention expresse contraire au paragraphe 7.1.6, tout autre matériau de construction utilisé pour les conduits, y compris pour leur isolation, doit également être incombustible. Toutefois, il n'est pas nécessaire que les conduits courts d'une longueur ne dépassant généralement pas 2 m et d'une section libre (5) ne dépassant 0,02 m2 soient en acier ou un matériau équivalent, sous réserve que les conditions suivantes soient remplies :
 
-.2 pour les navires construits le 1er juillet 2010 ou après cette date, les conduits doivent être en un matériau incombustible résistant à la chaleur, qui peut être recouvert à l'intérieur et à l'extérieur de membranes ayant un faible pouvoir propagateur de flamme et ayant chacune un pouvoir calorifique (**) qui ne dépasse pas 45 MJ/m² de leur surface pour l'épaisseur utilisée ;
+. 1 les conduits sont en un matériau incombustible dont les faces intérieure et extérieure peuvent être recouvertes d'une membrane ayant un faible pouvoir propagateur de flamme et ayant un pouvoir calorifique (6) ne dépassant pas 45 MJ/ m2 de leur surface pour l'épaisseur utilisée ;
 
-(*) On entend par "section libre", la section calculée à partir du diamètre intérieur du conduit, même dans le cas d'un conduit préalablement isolé. (**) Se reporter aux recommandations publiées par l'Organisation internationale de normalisation, en particulier à la publication ISO 1716 2002 détermination de la chaleur de combustion.
+. 2 les conduits sont uniquement utilisés à l'extrémité du dispositif de ventilation ; et
 
-.3 les longueurs de conduits sont uniquement utilisées au point d'aboutissement du dispositif de ventilation ; et
-
-.4 les longueurs de conduits ne sont pas situées à moins de 600 mm, mesurés le long du conduit, d'une ouverture pratiquée dans un cloisonnement du type "A" ou du type "B", y compris les plafonds continus du type "B".
+. 3 les conduits ne se trouvent pas à une distance de moins de 600 mm, mesurée le long du conduit, d'une ouverture pratiquée dans un cloisonnement du type A ou du type B , y compris un plafond continu du type B .
 
 7.1.2 Les installations suivantes doivent être mises à l'essai de la manière prévue dans le Code des méthodes d'essai au feu :
 
-.1 volets d'incendie et commandes pertinentes ; et
+. 1 les volets d'incendie, y compris leurs commandes pertinentes ; toutefois, ne sont pas tenus d'être mis à l'essai les volets situés à l'extrémité inférieure des conduits d'évacuation des fourneaux des cuisines, lesquels doivent être en acier et capables de stopper le tirage dans le conduit ; et
 
-.2 passages de conduits à travers des cloisonnements du type "A". Toutefois, il n'est pas nécessaire de procéder à la mise à l'essai lorsque des manchons en acier sont directement rivés aux conduits de ventilation au moyen de brides rivetées ou vissées ou par soudure.
+. 2 les passages de conduits traversant les cloisonnements du type A ; toutefois, ne sont pas tenus d'être mis à l'essai ceux qui comportent des manchons en acier directement raccordés aux conduits de ventilation au moyen de raccords rivetés ou vissés ou par soudure.
 
-7.2 Disposition des conduits
+7.1.3 Les volets d'incendie doivent être facilement accessibles. Lorsqu'ils sont placés derrière des plafonds ou des vaigrages, ces plafonds ou vaigrages doivent être dotés d'une ouverture d'accès pour l'inspection qui porte le numéro d'identification du volet d'incendie. Le numéro d'identification du volet d'incendie doit également être marqué sur toutes les télécommandes prévues.
 
-7.2.1 Les systèmes de ventilation des locaux de machines de la catégorie A, des locaux à véhicules, des espaces rouliers, des cuisines, des locaux de catégorie spéciale et des espaces à cargaison doivent, en général, être séparés les uns des autres et de ceux qui desservent d'autres locaux. Toutefois, les systèmes de ventilation des cuisines des navires de charge d'une jauge brute inférieure à 4000 et des navires à passagers ne transportant pas plus de 36 passagers n'ont pas à être complètement séparés et peuvent être desservis au moyen de conduits séparés par un appareil de ventilation qui dessert d'autres locaux. Dans tous les cas, un volet automatique d'incendie doit être installé dans le conduit destiné à la ventilation des cuisines à proximité de l'appareil de ventilation. Les conduits destinés à la ventilation des locaux de machines de la catégorie A, des cuisines, des locaux à véhicules, des espaces rouliers ou des locaux de catégorie spéciale ne doivent pas traverser les locaux d'habitation, les locaux de service et les postes de sécurité, à moins qu'ils ne satisfassent aux conditions énoncées aux paragraphes 7.2.1.1.1 à 7.2.1.1.4 ou aux paragraphes 7.2.1.2.1 et 7.2.1.2.2 ci-après :
+7.1.4 Les conduits de ventilation doivent être dotés d'ouvertures d'accès pour l'inspection et le nettoyage. Ces ouvertures d'accès doivent être situées à proximité des volets d'incendie.
 
-.1.1 les conduits sont en acier et d'une épaisseur d'au moins 3 mm si leur largeur ou leur diamètre est inférieur ou égal à 300 mm, ou d'au moins 5 mm si leur largeur ou leur diamètre est égal ou supérieur à 760 mm ; dans le cas des conduits dont la largeur ou le diamètre est compris entre 300 et 760 mm, l'épaisseur est obtenue par interpolation ;
+7.1.5 Les orifices principaux d'arrivée et d'évacuation d'air des dispositifs de ventilation doivent pouvoir être fermés de l'extérieur des locaux qu'ils desservent.
 
-.1.2 les conduits sont convenablement supportés et renforcés ;
+Les moyens de fermeture doivent être facilement accessibles et être indiqués de façon claire et permanente et doivent signaler la position du dispositif d'arrêt.
 
-.1.3 les conduits sont pourvus de volets automatiques d'incendie près du cloisonnement qu'ils traversent ; et
+7.1.6 Aucun joint en matériau combustible n'est autorisé dans les raccords à brides des conduits de ventilation à moins de 600 mm d'ouvertures pratiquées dans des cloisonnements du type A ou B ni dans les conduits qui doivent être d'une construction du type A .
 
-.1.4 les conduits sont isolés conformément à la norme "A-60" depuis les locaux de machines, les cuisines, les locaux à véhicules, les espaces rouliers ou les locaux de catégorie spéciale, jusqu'à un point situé à 5 m au moins au-delà de chaque volet d'incendie ; ou
+7.1.7 Aucune ouverture de ventilation ni aucun conduit d'équilibrage de l'air ne doit être prévu entre deux locaux fermés sauf dans les cas permis aux paragraphes 4.1.2.1 et 4.2.3.
 
-.2.1 les conduits sont construits en acier conformément aux dispositions des paragraphes 7.2.1.1.1 et 7.2.1.1.2 ; et
+7.2 Disposition des conduits.
 
-.2.2 les conduits sont isolés conformément à la norme "A-60" dans l'ensemble des locaux d'habitation, des locaux de service et des postes de sécurité.
+7.2.1 Les systèmes de ventilation des locaux de machines de la catégorie A, des locaux à véhicules, des espaces rouliers, des cuisines, des locaux de catégorie spéciale et des espaces à cargaison doivent, en général, être séparés les uns des autres et de ceux qui desservent d'autres locaux. Toutefois, les systèmes de ventilation des cuisines des navires de charge d'une jauge brute inférieure à 4 000 et des navires à passagers ne transportant pas plus de 36 passagers n'ont pas à être complètement séparés des autres systèmes de ventilation et peuvent être desservis par des conduits séparés à partir d'un groupe de ventilation qui dessert d'autres locaux. Dans ce cas, un volet d'incendie automatique doit être installé dans le conduit de ventilation des cuisines à proximité du groupe de ventilation.
 
-Toutefois, les conduits qui traversent les cloisonnements d'une tranche principale doivent aussi satisfaire aux prescriptions du paragraphe 4.1.1.8.
+7.2.2 Les conduits destinés à la ventilation des locaux de machines de la catégorie A, des cuisines, des locaux à véhicules, des espaces rouliers ou des locaux de catégorie spéciale ne doivent traverser ni les locaux d'habitation ni les locaux de service ni les postes de sécurité, à moins qu'ils ne satisfassent aux dispositions du paragraphe 7.2.4.
 
-7.2.2 Les conduits destinés à la ventilation des locaux d'habitation, des locaux de service ou des postes de sécurité ne doivent pas traverser les locaux de machines de la catégorie A, les cuisines, les locaux à véhicules, les espaces rouliers ou les locaux de catégorie spéciale, à moins qu'ils ne satisfassent aux conditions énoncées aux paragraphes 7.2.2.1.1 à 7.2.2.1.3 ou 7.2.2.2.1 et 7.2.2.2.2 ci-après :
+7.2.3 Les conduits destinés à la ventilation des locaux d'habitation, des locaux de service ou des postes de sécurité ne doivent traverser ni les locaux de machines de la catégorie A ni les cuisines ni les locaux à véhicules ni les espaces rouliers ni les locaux de catégorie spéciale, à moins qu'ils ne satisfassent aux dispositions du paragraphe 7.2.4.
 
-.1.1 les conduits, dans leur traversée d'un local de machines de la catégorie A, d'une cuisine, d'un local à véhicules, d'un espace roulier ou d'un local de catégorie spéciale, sont construits en acier conformément aux dispositions des paragraphes 7.2.1.1.1 et 7.2.1.1.2 ;
+7.2.4 Les conduits remplissant les conditions indiquées aux paragraphes 7.2.2 et 7.2.3 doivent être soit :
 
-.1.2 les conduits sont pourvus de volets automatiques d'incendie près des cloisonnements qu'ils traversent ; et
+1.1 en acier d'une épaisseur d'au moins 3 mm si leur section libre est inférieure à 0,075 m2, d'au moins 4 mm si leur section libre est comprise entre 0,075 m2 et 0,45 m2 et d'au moins 5 mm si leur section libre est supérieure à 0,45 m2 ;
 
-.1.3 l'intégrité des cloisonnements délimitant les locaux de machines, les cuisines, les locaux à véhicules, les espaces rouliers ou les locaux de catégorie spéciale est maintenue à l'endroit où les conduits traversent ces cloisonnements ;
+1.2 convenablement supportés et renforcés ;
 
-ou
+1.3 pourvus de volets d'incendie automatiques près des cloisonnements qu'ils traversent ; et
 
-.2.1 les conduits, dans leur traversée d'un local de machines de la catégorie A, d'une cuisine, d'un local à véhicules, d'un espace roulier ou d'un local de catégorie spéciale, sont construits en acier conformément aux dispositions des paragraphes 7.2.1.1.1 et 7.2.1.1.2 ; et
+1.4 isolés conformément à la norme A-60 depuis les cloisonnements constituant les limites des locaux ou espaces qu'ils desservent jusqu'à un point situé à 5 m au moins au-delà de chaque volet d'incendie ;
 
-.2.2 les conduits sont isolés conformément à la norme "A-60" à l'intérieur des locaux de machines, des cuisines, des locaux à véhicules, des espaces rouliers ou des locaux de catégorie spéciale.
+Soit
 
-Toutefois, les conduits qui traversent les cloisonnements d'une tranche principale doivent aussi satisfaire aux prescriptions du paragraphe 4.1.1.8.
+2.1 Construits en acier conformément aux prescriptions des paragraphes 7.2.4.1.1 et 7.2.4.1.2 ; et
 
-7.3 Description des passages de conduits
+2.2 Isolés conformément à la norme A-60 dans tous les locaux ou espaces qu'ils traversent, sauf s'ils traversent des locaux et espaces de la catégorie 9) ou 10) tels que définis au paragraphe 2.2.3.2.2.
 
-7.3.1 Lorsqu'un conduit ayant une paroi peu épaisse et une section libre inférieure ou égale à 0,02 m2 traverse des cloisons ou ponts du type "A", les traversées de cloison ou de pont doivent comporter un manchon en acier ayant une épaisseur d'au moins 3 mm et une longueur d'au moins 200 mm, répartie de préférence à raison de 100 mm de part et d'autre de la cloison ou, dans le cas des ponts, entièrement située sur la face inférieure du pont que traverse le conduit. Lorsque des conduits de ventilation ayant une section libre supérieure à 0,02 m2 traversent des cloisons ou ponts du type "A", les traversées de cloison ou de pont doivent comporter un manchon en acier. Toutefois, lorsque ces conduits sont en acier et traversent une cloison ou un pont, les conduits et manchons doivent satisfaire aux conditions ci-après :
+7.2.5 Aux fins des paragraphes 7.2.4.1.4 et 7.2.4.2.2, les conduits doivent être isolés sur toute la surface extérieure de leur section. Les conduits qui sont situés à l'extérieur du local ou espace spécifié mais lui sont contigus et qui ont une ou plusieurs surfaces en commun avec lui doivent être considérés comme le traversant et doivent être isolés sur toute la surface qu'ils partagent avec ce local ou espace sur une distance de 450 mm au-delà du conduit (7).
 
-.1 les manchons doivent avoir une épaisseur d'au moins 3 mm et une longueur d'au moins 900 mm. Pour les traversées de cloison, cette longueur minimale doit être répartie de préférence à raison de 450 mm de part et d'autre de la cloison. Ces conduits ou les manchons qui les recouvrent doivent comporter une isolation contre l'incendie. L'intégrité au feu de l'isolation doit être au moins égale à celle de la cloison ou du pont que le conduit traverse ; et
+7.2.6 Lorsqu'il est nécessaire qu'un conduit de ventilation traverse un cloisonnement de tranche verticale principale, un volet d'incendie automatique doit être installé à côté du cloisonnement. Ce volet doit également pouvoir être fermé manuellement de chaque côté du cloisonnement. La commande doit être située dans un endroit facile d'accès et être signalée de façon claire et bien visible. La longueur de conduit située entre le cloisonnement et le volet doit être construite en acier conformément aux dispositions des paragraphes 7.2.4.1.1 et 7.2.4.1.2 et être isolée de manière à avoir au moins la même intégrité au feu que le cloisonnement qu'elle traverse. Le volet doit être muni, sur un côté au moins du cloisonnement, d'un indicateur bien en vue montrant la position du volet.
 
-.2 les conduits ayant une section libre supérieure à 0,075 m² doivent comporter des volets d'incendie, tout en satisfaisant aux dispositions du paragraphe 7.3.1.1. Le volet d'incendie doit fonctionner automatiquement et doit également pouvoir être fermé à la main des deux cotés de la cloison ou du pont. Le volet doit être muni d'un indicateur d'ouverture ou de fermeture. Des volets d'incendie ne sont cependant pas obligatoires lorsque les conduits traversent, sans les desservir, des locaux entourés de cloisonnements du type "A", à condition que ces conduits aient la même intégrité au feu que les cloisons qu'ils traversent. Les volets d'incendie doivent être facilement accessibles. Lorsqu'ils sont placés derrière des plafonds ou des vaigrages, ceux-ci doivent être munis d'une porte de visite pourvue d'une plaque portant le numéro d'identification du volet d'incendie. Le numéro d'identification du volet d'incendie doit également être placé sur toute commande à distance requise.
+7.3 Description des volets d'incendie et des passages de conduits.
 
-7.3.2 Les passages de conduits de ventilation ayant une section libre supérieure à 0,02 m² qui traversent des cloisons du type "B" doivent comporter des manchons en acier d'une longueur de 900 mm, réparties de préférence à raison de 450 mm de part et d'autre de la cloison, à moins que les conduits ne soient en acier sur cette longueur.
+7.3.1 Les conduits qui traversent des cloisonnements du type A doivent satisfaire aux prescriptions ci-après :
 
-7.4 Systèmes de ventilation à bord des navires à passagers transportant plus de 36 passagers
+. 1 lorsqu'un conduit ayant une paroi peu épaisse et une section libre inférieure ou égale à 0,02 m2 traverse des cloisonnements du type A , les traversées doivent être pourvues d'un manchon en acier ayant une épaisseur d'au moins 3 mm et une longueur d'au moins 200 mm, répartie de préférence à raison de 100 mm de part et d'autre de la cloison ou, dans le cas d'un pont, entièrement située sur la face inférieure du pont que traverse le conduit ;
 
-7.4.1 Le système de ventilation d'un navire à passagers transportant plus de 36 passagers doit satisfaire aux prescriptions supplémentaires ci-après.
+. 2 lorsque des conduits de ventilation ayant une section libre supérieure à 0,02 m2, mais ne dépassant pas 0,075 m2, traversent des cloisonnements du type A , les traversées doivent comporter des manchons en acier. Les conduits et les manchons doivent avoir une épaisseur d'au moins 3 mm et une longueur d'au moins 900 mm.
 
-7.4.2 D'une manière générale, les ventilateurs doivent être disposés de façon que les conduits débouchant dans les divers locaux restent à l'intérieur de la même tranche verticale principale.
+Pour les traversées de cloison, cette longueur doit être répartie de préférence à raison de 450 mm de part et d'autre de la cloison. Ces conduits ou les manchons qui les recouvrent doivent comporter une isolation contre l'incendie. L'intégrité au feu de l'isolation doit être au moins égale à celle du cloisonnement que le conduit traverse ; et
 
-7.4.3 Lorsque les systèmes de ventilation traversent des ponts, il convient de prendre des mesures, en plus des mesures concernant l'intégrité au feu des ponts qui sont prescrites aux paragraphes 3.1 et 4.1.1.5, pour réduire le risque d'un passage de la fumée et des gaz brûlants d'un entrepont à un autre par la voie du système de ventilation. L'isolation des conduits verticaux doit satisfaire aux conditions requises au paragraphe 7.4 et, si nécessaire, aux normes prescrites dans les tableaux 9.1 et 9.2.
+. 3 des volets d'incendie automatiques doivent être installés dans tous les conduits ayant une section libre supérieure à 0,075 m2 qui traversent des cloisonnements du type A . Chaque volet doit être installé à proximité du cloisonnement traversé et la longueur du conduit située entre le volet et le cloisonnement traversé doit être construite en acier conformément aux dispositions des paragraphes 7.2.4.2.1 et 7.2.4.2.2. Le volet d'incendie doit fonctionner automatiquement et doit également pouvoir être fermé manuellement des deux côtés du cloisonnement. Le volet doit être pourvu d'un indicateur bien en vue montrant la position du volet. Des volets d'incendie ne sont cependant pas obligatoires lorsque les conduits traversent, sans les desservir, des locaux entourés de cloisonnements du type A , à condition que ces conduits aient la même intégrité au feu que les cloisonnements qu'ils traversent.
 
-7.4.4 Sauf dans les espaces à cargaison, les matériaux utilisés pour la construction des conduits de ventilation doivent être les suivants :
+Un conduit dont la section es supérieure à 0,075 m2 ne doit pas se subdiviser en conduits plus petits à l'endroit où il traverse un cloisonnement du type A puis rejoindre le conduit de l'autre côté du cloisonnement pour éviter d'installer le volet d'incendie exigé par la présente disposition.
 
-.1 pour les conduits dont la section libre n'est pas inférieure à 0,075 m² et tous les conduits verticaux qui desservent plus d'un entrepont : acier ou autre matériau équivalent ;
+7.3.2 Les passages de conduits de ventilation ayant une section libre supérieure à 0,02 m2 qui traversent des cloisons du type " B " doivent comporter des manchons en acier d'une longueur de 900 mm, répartie de préférence à raison de 450 mm de part et d'autre de la cloison, à moins que les conduits ne soient en acier sur cette longueur.
 
-.2 pour les conduits de moins de 0,075 m² de section libre autres que les conduits verticaux visés au paragraphe 7.4.4.1 : matériaux en acier ou en matériau équivalent. Il convient d'assurer l'intégrité au feu des cloisonnements du type "A" ou "B" lorsqu'ils sont traversés par ces conduits ; et
+7.3.3 Tous les volets d'incendie doivent pouvoir être commandés manuellement. Ils doivent comporter un moyen d'actionnement mécanique direct ou, à défaut, être fermés par commande électrique, hydraulique ou pneumatique. Tous les volets doivent pouvoir être commandés manuellement des deux côtés du cloisonnement. Les volets d'incendie automatiques, y compris ceux qui peuvent être commandés à distance, doivent comporter un mécanisme de sécurité intrinsèque leur permettant de se fermer lors d'un incendie même en cas de panne d'énergie électrique ou de perte de pression hydraulique ou pneumatique. Les volets d'incendie commandés à distance doivent pouvoir être rouverts manuellement à leur emplacement.
 
-.3 les faibles longueurs de conduits, dont la longueur ne dépasse généralement pas 2 m, ni la section libre 0,02 m², n'ont pas à être en matériau en acier ou en matériau équivalent sous réserve que toutes les conditions suivantes soient remplies :
+7.4 Systèmes de ventilation à bord des navires à passagers transportant plus de 36 passagers.
 
-.3.1 sous réserve des dispositions du paragraphe 7.4.4.3.2, ces longueurs de conduits sont en un matériau quelconque qui a un faible pouvoir propagateur de flamme ;
+7.4.1 Outre les prescriptions des paragraphes 7.1,7.2 et 7.3, le système de ventilation d'un navire à passagers transportant plus de 36 passagers doit satisfaire aux prescriptions ci-après.
 
-.3.2 pour les navires construits le 1er juillet 2010 ou après cette date, les conduits doivent être en un matériau incombustible résistant à la chaleur, qui peut être recouvert à l'intérieur et à l'extérieur de membranes ayant un faible pouvoir propagateur de flamme et ayant chacune un pouvoir calorifique (*) qui ne dépasse pas 45 MJ/m² de leur surface pour l'épaisseur utilisée ;
+7.4.2 En général, les ventilateurs doivent être disposés de façon que les conduits débouchant dans les divers locaux restent à l'intérieur d'une tranche verticale principale.
 
-.3.3 elles sont uniquement utilisées au point d'aboutissement du dispositif de ventilation ; et
+7.4.3 Les entourages d'escalier doivent être desservis par un ventilateur et un système de conduits (évacuation d'air vicié et arrivée d'air frais) indépendants qui ne desservent aucun autre local relié au système de ventilation.
 
-.3.4 elles ne sont pas situées à moins de 600 mm, mesurés le long du conduit, d'une ouverture pratiquée dans un cloisonnement du type "A" ou "B", y compris les plafonds continus du type "B".
+7.4.4 Quelle que soit sa section, un conduit desservant plus d'un entrepont, local d'habitation, local de service ou poste de sécurité doit être pourvu, à proximité de l'endroit où il traverse chacun des ponts de ces locaux, d'un volet coupe-fumée automatique qui puisse également être fermé manuellement depuis le pont protégé situé au-dessus de lui. Si, à l'intérieur d'une tranche verticale principale, un ventilateur dessert plus d'un entrepont au moyen de conduits distincts, destinés chacun à un seul entrepont, chaque conduit doit être pourvu, à proximité du ventilateur, d'un volet coupe-fumée à commande manuelle.
 
-(*) Se reporter aux recommandations publiées par l'Organisation internationale de normalisation, en particulier à la publication ISO 1716 2002 "détermination de la chaleur de combustion".
+7.4.5 L'isolation des conduits verticaux doit satisfaire, si nécessaire, aux normes prescrites dans les tableaux 9.1 et 9.2. L'isolation des conduits doit être celle qui est requise pour les ponts entre le local qu'ils desservent et le local considéré.
 
-7.5 Conduits d'évacuation des fourneaux des cuisines
+7.5 Conduits d'évacuation des fourneaux des cuisines.
 
-7.5.1.1. Prescriptions applicables aux navires à passagers transportant plus de 36 passagers
+7.5.1 Prescriptions applicables aux navires à passagers transportant plus de 36 passagers
 
-Les conduits d'évacuation des fourneaux des cuisines doivent être conformes aux prescriptions des paragraphes 7.2.1.2.1 et 7.2.1.2.2 et doivent être pourvus :
+7.5.1.1 Outre les prescriptions des sections 7.1,7.2 et 7.3, les conduits d'évacuation des fourneaux des cuisines doivent être construits conformément aux paragraphes 7.2.4.2.1 et 7.2.4.2.2 et être isolés conformément à la norme A-60 à l'intérieur des locaux d'habitation, des locaux de service ou des postes de sécurité qu'ils traversent.
 
-.1 d'un filtre à graisse pouvant être facilement enlevé pour être nettoyé ou d'un autre dispositif approuvé permettant d'éliminer les graisses ;
+Ils doivent également être pourvus :
 
-.2 d'un volet d'incendie à télécommande automatique situé à l'extrémité inférieure du conduit et, en outre, d'un volet d'incendie télécommandé situé à l'extrémité supérieure du conduit ;
+. 1 d'un filtre à graisse pouvant être facilement enlevé pour être nettoyé ou d'un autre dispositif approuvé permettant d'éliminer les graisses ;
 
-.3 d'un dispositif fixe permettant d'éteindre un incendie à l'intérieur du conduit ;
+. 2 d'un volet d'incendie à télécommande automatique situé à l'extrémité inférieure du conduit, au raccordement du conduit à la hotte du fourneau des cuisines, et, en outre, d'un volet d'incendie télécommandé situé à l'extrémité supérieure du conduit, à proximité de sa sortie ;
 
-.4 de commandes à distance qui permettent d'arrêter les ventilateurs aspirants et les ventilateurs refoulants et de faire fonctionner les volets d'incendie mentionnés au paragraphe 7.5.1.2, ainsi que le dispositif d'extinction de l'incendie, et qui soient placées à proximité de l'entrée de la cuisine. Lorsqu'un circuit à conduits multiples est installé, un dispositif télécommandé situé au même endroit que les commandes ci-dessus doit être prévu pour fermer tous les conduits débouchant sur le même conduit principal avant d'introduire un agent extincteur dans le circuit ; et
+. 3 d'un dispositif fixe permettant d'éteindre un incendie à l'intérieur du conduit (8) ;
 
-.5 d'ouvertures d'accès convenablement placées pour l'inspection et le nettoyage.
+. 4 de commandes à distance qui permettent d'arrêter les ventilateurs aspirants et les ventilateurs refoulants et de faire fonctionner les volets d'incendie mentionnés au paragraphe 7.5.1.1.2, ainsi que le dispositif d'extinction de l'incendie, et qui soient placées à l'extérieur de la cuisine mais à proximité de son entrée. Lorsqu'un circuit à conduits multiples est installé, un dispositif télécommandé situé au même endroit que les commandes susmentionnées doit être prévu pour fermer tous les conduits débouchant sur le même conduit principal avant d'introduire un agent d'extinction dans le circuit ; et
 
-7.5.1.2. Les conduits d'évacuation des fourneaux des appareils de cuisson installés sur des ponts découverts doivent être conformes aux dispositions applicables du paragraphe 7.5.1.1 lorsqu'ils traversent des locaux d'habitation ou des locaux contenant des matériaux combustibles.
+. 5 d'ouvertures d'accès convenablement placées pour l'inspection et le nettoyage, dont une à proximité du ventilateur aspirant et une à l'extrémité inférieure où la graisse s'accumule.
 
-7.5.2. Prescriptions applicables aux navires de charge et aux navires à passagers ne transportant pas plus de 36 passagers
+7.5.1.2 Les conduits d'évacuation des fourneaux des équipements de cuisine installés sur des ponts découverts doivent être conformes aux dispositions applicables du paragraphe 7.5.1.1 lorsqu'ils traversent des locaux d'habitation ou des locaux contenant des matériaux combustibles.
 
-7.5.2.1. Les conduits d'évacuation des fourneaux des cuisines doivent être constitués par des cloisonnements du type "A" lorsqu'ils traversent des locaux d'habitation ou des locaux contenant des matériaux combustibles. Chaque conduit d'évacuation doit être pourvu :
+7.5.2 Prescriptions applicables aux navires de charge et aux navires à passagers ne transportant pas plus de 36 passagers
 
-.1 d'un filtre à graisse pouvant être facilement enlevé pour être nettoyé ;
+Les conduits d'évacuation des fourneaux des cuisines doivent être construits conformément aux dispositions des paragraphes 7.2.4.1.1 et 7.2.4.1.2 lorsqu'ils traversent des locaux d'habitation ou des locaux contenant des matériaux combustibles. Chaque conduit d'évacuation doit être pourvu :
 
-.2 d'un volet d'incendie situé à l'extrémité inférieure du conduit, ainsi que d'un volet d'incendie situé à l'extrémité supérieure du conduit ;
+. 1 d'un filtre à graisse pouvant être facilement enlevé pour être nettoyé ;
 
-.3 de dispositifs permettant d'arrêter, depuis la cuisine, les ventilateurs d'évacuation d'air vicié ; et
+. 2 d'un volet d'incendie à télécommande automatique situé à l'extrémité inférieure du conduit, au raccordement du conduit à la hotte du fourneau des cuisines et, en outre, d'un volet d'incendie télécommandé situé à l'extrémité supérieure du conduit, à proximité de sa sortie ;
 
-.4 d'un dispositif fixe permettant d'éteindre un incendie à l'intérieur du conduit.
+. 3 de dispositifs permettant d'arrêter, depuis la cuisine, les ventilateurs aspirants et refoulants ; et
 
-7.6. Systèmes de ventilation des buanderies principales à bord des navires à passagers transportant plus de 36 passagers
+. 4 d'un dispositif fixe permettant d'éteindre un incendie à l'intérieur du conduit (9).
 
-Les conduits d'évacuation des buanderies principales doivent être dotés :
+7.6 Locaux de ventilation desservant des chambres des machines de la catégorie A qui contiennent des machines à combustion interne
 
-.1 de filtres pouvant être facilement enlevés pour être nettoyés ;
+7.6.1 Lorsqu'un local de ventilation ne dessert qu'une chambre des machines adjacente de ce type et qu'il n'existe pas de cloisonnement d'incendie entre le local de ventilation et la chambre des machines, le dispositif de fermeture du ou des conduits de ventilation desservant la chambre des machines doit être situé à l'extérieur du local de ventilation et de la chambre des machines.
 
-.2 d'un volet d'incendie automatique et télécommandé situé à l'extrémité inférieure du conduit ;
+7.6.2 Lorsqu'un local de ventilation dessert une chambre des machines de ce type ainsi que d'autres locaux et est séparé de la chambre des machines par un cloisonnement du type A-0 , traversées comprises, le dispositif de fermeture du ou des conduits de ventilation desservant la chambre des machines peut être situé dans le local de ventilation.
 
-.3 de commandes à distance qui permettent d'arrêter les ventilateurs aspirants et les ventilateurs refoulants depuis l'intérieur du local et de faire fonctionner le volet d'incendie mentionné au paragraphe 7.6.2 ; et
+7.7 Systèmes de ventilation des buanderies des navires à passagers transportant plus de 36 passagers.
 
-.4 d'ouvertures d'accès convenablement placées pour l'inspection et le nettoyage
+Les conduits d'évacuation des buanderies et des séchoirs des locaux de la catégorie (13) définie au paragraphe 2.2.3.2.2 doivent être pourvus :
+
+. 1 de filtres pouvant être facilement enlevés pour être nettoyés ;
+
+. 2 d'un volet d'incendie à télécommande automatique situé à l'extrémité inférieure du conduit ;
+
+. 3 de commandes à distance qui permettent d'arrêter les ventilateurs aspirants et les ventilateurs refoulants depuis l'intérieur du local et de faire fonctionner le volet d'incendie mentionné au paragraphe 7.7.2 ; et
+
+. 4 d'ouvertures d'accès convenablement placées pour l'inspection et le nettoyage.
 
 NOTA :
 

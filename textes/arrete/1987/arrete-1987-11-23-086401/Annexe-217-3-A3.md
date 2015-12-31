@@ -513,3 +513,9 @@ comprimé 250 mg
 I
 
 |
+
+Lieu et date
+
+Signature du capitaine
+
+Visa de l'autorité compétente
