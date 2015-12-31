@@ -1,0 +1,9 @@
+# Réponse à la question SEQ150717462
+
+- Question : [SEQ150717462](seq150717462.md) — Coût des addictions
+
+## Réponse
+
+*Affaires sociales, santé et droits des femmes, JO du 2015-12-31, page 3640*
+
+Les coûts sociaux des conduites addictives font l'objet de plusieurs études. Le rapport de l'observatoire français des drogues et des toxicomanies (OFDT) de 2006 rédigé par MM. Kopp et Fenoglio mettait en évidence le niveau particulièrement important de ces coûts. Le tabac coûtait en 2003 à la France 47,7 milliards d'euros, l'alcool 37 milliards d'euros et les drogues illicites 2,8 milliards d'euros. Depuis lors, les paramètres du calcul économique ont largement été modifiés par une série d'instructions gouvernementales. Les rapports Lebègue (2001), Boiteux (2003) et enfin Quinet (2013) fixent désormais un cadre assez strict au calcul économique et réduisent l'hétérogénéité des méthodologies employées. S'appuyant sur un travail de l'organisation de coopération et de développement économiques (OCDE) qui donne un cadrage de la valeur de la vie moyenne pour l'Union Européenne entre 1,8 et 5,4 millions de dollars, la commission Quinet a recommandé d'utiliser pour la France une valeur autour de 3 millions d'euros et une valeur de l'année de vie sauvée de 115 000 euros. À la suite de la recommandation de la Cour des comptes, dans son rapport d'évaluation des politiques de lutte contre le tabagisme de fin 2012, d'actualiser les évaluations du coût social du tabac en France, le ministère de la santé a commandité à l'OFDT une actualisation de ces estimations pour le tabac, l'alcool et les drogues illicites. Ce travail a été rendu public en septembre 2015. Le coût social de l'alcool a été établi à 120 milliards d'euros, celui du tabac a été fixé également à 120 milliards d'euros et celui des drogues illicites à 8,8 milliards d'euros.
