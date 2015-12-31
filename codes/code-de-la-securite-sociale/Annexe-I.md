@@ -1426,13 +1426,9 @@ Cour d'appel de Cayenne
 
 |
 
-Guyane.
+Guyane. |
 
-|
-
-Cayenne.
-
-|
+Cayenne. |
 
 Le département.
 
@@ -1455,6 +1451,18 @@ Le département.
 |
 
 Cour d'appel de Saint-Denis-de-la-Réunion
+
+|
+
+Mayotte
+
+|
+
+Mamoudzou
+
+|
+
+Le département
 
 |
 
