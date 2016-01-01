@@ -38,8 +38,6 @@ d) Les périodes prises au titre du compte épargne temps ou du compte épargne 
 
 2° Le temps effectué en école de métiers à partir de dix-huit ans, dans la limite de vingt-quatre mois maximum, sous réserve des versements, lorsqu'ils sont dus, des cotisations relatives à la période. Les conditions de validation des périodes mentionnées au présent alinéa sont spécifiées dans le tableau additionnel de l'article 46 de la présente annexe.
 
-Lorsque l'agent a été affilié successivement ou alternativement à plusieurs régimes spéciaux, la validation des périodes précitées incombe au premier régime spécial d'affiliation qui suit la période en cause.
-
 Article 3
 
 Service national, campagnes militaires, volontariat civil et militaire
@@ -608,7 +606,7 @@ II.-L'ex-conjoint remarié avant le décès de l'ouvrant droit est exclu du droi
 
 III.-Pour les mariages contractés avant le 18 juillet 1978, le conjoint non séparé dont la pension de réversion est susceptible du fait des règles de partage d'être inférieure à 50 % de la réversion ou d'être inférieure à 55 %, 60 %, 65 %, 70 % ou 75 % de la réversion pendant la période où il justifie de la charge effective et permanente de respectivement un, deux, trois, quatre ou cinq enfants et plus, âgés de moins de vingt ans au jour du décès de l'ouvrant droit, bénéficie d'une pension de réversion élevée à 50 % de la réversion ou respectivement aux taux visés ci-dessus en cas d'enfants à charge.
 
-IV.-Si la durée des services de l'ouvrant droit admissibles en liquidation au titre du premier alinéa de l'article 9 est inférieure ou égale à dix trimestres, la pension de réversion est substituée à titre définitif pour les bénéficiaires visés au I du présent article et au prorata des durées respectives de chaque mariage, par un capital décès à hauteur de 50 % du dernier salaire annuel d'activité de l'agent, gratification dite de fin d'année incluse, hors primes.
+IV.-Si la durée des services de l'ouvrant droit admissibles en liquidation au titre du premier alinéa de l'article 9 est inférieure ou égale à dix trimestres, la pension de réversion est substituée à titre définitif pour les bénéficiaires visés au I du présent article et au prorata des durées respectives de chaque mariage, par un capital de réversion à hauteur de 50 % du dernier salaire annuel d'activité de l'agent, gratification dite de fin d'année incluse, hors primes.
 
 V.-En cas de décès suite à un accident du travail ou une maladie professionnelle et dans le cas où l'agent décédé totalise moins de quinze ans de services, la pension de réversion est calculée sur la base de soixante trimestres au minimum. Par dérogation au premier alinéa de l'article 1er, le bénéfice de la pension de réversion est également accordé lorsque l'agent décédé justifie de moins d'un an d'affiliation.
 
@@ -796,19 +794,13 @@ Les pensions servies en vertu du présent titre sont revalorisées dans les cond
 
 TITRE IV BIS : PRESTATIONS DÉCÈS
 
-Art. 38-1.
+Art. 38-1
 
-Une indemnité de secours immédiat est attribuée, en cas de décès d'un agent lié à l'entreprise par le contrat de travail résultant de l'article 4 du statut national du personnel des industries électriques et gazières ou d'un titulaire d'une pension statutaire de vieillesse de droit direct ou d'invalidité, au conjoint, ou, à défaut, à parts égales, aux enfants nés de l'agent ou adoptés, ou, à défaut, à parts égales, aux ascendants à charge.
+En cas de décès d'un agent lié à l'entreprise par le contrat de travail résultant de l'article 4 du statut national du personnel des industries électriques et gazières ou d'un titulaire d'une pension d'invalidité exerçant une activité professionnelle en tant qu'agent statutaire, un capital décès est attribué au conjoint ou à défaut, à parts égales, aux enfants nés de l'agent ou adoptés, ou à défaut, à parts égales, aux ascendants à charge.
 
-En cas de décès d'un agent lié à l'entreprise par le contrat de travail résultant de l'article 4 du statut national du personnel des industries électriques et gazières ou d'un titulaire d'une pension d'invalidité exerçant une activité professionnelle en tant qu'agent statutaire dans les industries électriques et gazières, l'indemnité de secours immédiat est égale à deux mois de la rémunération dont bénéficiait ou aurait bénéficié l'agent décédé. La rémunération prise en compte est calculée pour un horaire de travail à temps plein, quelle que soit la situation de l'agent décédé, sur la base de son coefficient hiérarchique, ancienneté, majoration résidentielle et gratification de fin d'année prévue à l'article 14 du statut national du personnel des industries électriques et gazières, comprises.
+Le montant du capital décès est égal au montant mentionné à l'article D. 361-1 du code de la sécurité sociale en vigueur à la date du décès de l'agent.
 
-En cas de décès d'un titulaire d'une pension de vieillesse de droit direct prévue au titre Ier de la présente annexe ou d'un titulaire d'une pension d'invalidité prévue au titre IV de la présente annexe n'exerçant aucune activité professionnelle dans les industries électriques et gazières, l'indemnité de secours immédiat est égale à trois mois de la pension dont bénéficiait l'agent décédé.
-
-L'indemnité de secours immédiat calculée en application des deuxième et troisième alinéas du présent article ne peut être d'un montant inférieur au coefficient hiérarchique dont la valeur est immédiatement supérieure à 325.
-
-L'indemnité de secours immédiat est servie sur demande des bénéficiaires mentionnés au présent article auprès de la Caisse nationale des industries électriques et gazières.
-
-Nota : Décret n° 2012-53 du 15 janvier 2013, article 9 : Les dispositions de l'article 38-1 de l'annexe 3 au statut national du personnel des industries électriques et gazières s'appliquent pour les décès survenus à compter du 1er avril 2013.
+Le capital décès est servi sur demande des bénéficiaires mentionnés au présent article auprès de la Caisse nationale des industries électriques et gazières.
 
 TITRE V : DISPOSITIONS DIVERSES
 
@@ -829,8 +821,6 @@ Article 40
 Paiement des pensions
 
 Les prestations prévues aux titres II, III et IV sont payées par mois d'avance le premier jour ouvré de chaque mois par virement et sont acquises aux ayants droit en cas de décès du bénéficiaire en cours de mois.
-
-Par dérogation aux dispositions de l'alinéa précédent, les pensions dont le montant mensuel est inférieur au montant mensuel fixé par le décret mentionné au II de l'article L. 90 du code des pensions civiles et militaires de retraite sont payées, soit sous forme de capital, soit selon une autre périodicité, dans des conditions déterminées par ce même décret.
 
 Article 41
 

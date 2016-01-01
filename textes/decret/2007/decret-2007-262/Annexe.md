@@ -58,27 +58,27 @@ CONSTITUTION DU DROIT À PENSION ET DURÉE D'ASSURANCE
 
 Article 7
 
-Le droit à pension est acquis aux agents titulairesayant assuré des services effectifs.
+Le droit à pension est acquis aux agents titulaires ayant assuré des services effectifs.
 
 Article 8
 
 Les périodes de services effectifs sont :
 
--les périodes au cours desquelles l'agent a perçu une rémunération d'agent titulaire de la Banque de France ; les périodes pendant lesquelles l'agent a été autorisé à accomplir un service à temps partiel sont comptées pour la totalité de leur durée ;
+- les périodes au cours desquelles l'agent a perçu une rémunération d'agent titulaire de la Banque de France ; les périodes pendant lesquelles l'agent a été autorisé à accomplir un service à temps partiel sont comptées pour la totalité de leur durée ;
 
--le temps passé en service détaché ;
+- le temps passé en service détaché ;
 
--le temps accompli au titre du service national actif obligatoire, dans la limite de la durée légale, s'il n'a pas été pris en compte pour le calcul d'une autre pension ou retraite civile ou militaire ;
+- le temps accompli au titre du service national actif obligatoire, dans la limite de la durée légale, s'il n'a pas été pris en compte pour le calcul d'une autre pension ou retraite civile ou militaire ;
 
--le temps accompli au titre du service civique et des autres formes de volontariat dans les limites de l'obligation légale de reprise des services pour la retraite et dans les conditions prévues par le code du service national ;
+- le temps accompli au titre du service civique et des autres formes de volontariat dans les limites de l'obligation légale de reprise des services pour la retraite et dans les conditions prévues par le code du service national ;
 
--les périodes de mobilisation et de captivité, ainsi que des périodes durant lesquelles les intéressés ont été engagés volontaires en temps de guerre, déportés ou internés résistants ou politiques.
+- les périodes de mobilisation et de captivité, ainsi que des périodes durant lesquelles les intéressés ont été engagés volontaires en temps de guerre, déportés ou internés résistants ou politiques.
 
 Pour les agents titularisés au plus tard le 1er janvier 2017, peuvent également être pris en compte :
 
--les périodes de stage et le temps de service accompli dans le cadre auxiliaire permanent à la Banque de France, si ces périodes ont donné lieu au rappel prévu à l'article 19 ;
+- les périodes de stage et le temps de service accompli dans le cadre auxiliaire permanent à la Banque de France, si ces périodes ont donné lieu au rappel prévu à l'article 19 ;
 
--les services effectués en qualité de contractuel accomplis à la Banque de France, si la validation de ces services a été autorisée par un règlement du gouverneur et si elle est demandée dans l'année qui suit la date de titularisation. Le délai dont dispose l'agent pour accepter ou refuser la notification de validation est d'un an.
+- les services effectués en qualité de contractuel accomplis à la Banque de France, si la validation de ces services a été autorisée par un règlement du gouverneur et si elle est demandée dans l'année qui suit la date de titularisation. Le délai dont dispose l'agent pour accepter ou refuser la notification de validation est d'un an.
 
 Article 9
 
@@ -120,19 +120,19 @@ La bonification prévue à l'alinéa précédent est également acquise aux agen
 
 Article 13
 
-I.-L'interruption d'activité prévue à l'article 12 doit dans tous les cas avoir eu une durée continue au moins égale à deux mois.
+I. - L'interruption d'activité prévue à l'article 12 doit dans tous les cas avoir eu une durée continue au moins égale à deux mois.
 
 La réduction d'activité prévue au même article est constituée d'une période de service à temps partiel, survenue dans les trois ans suivant la naissance de l'enfant ou son arrivée au foyer en cas d'adoption, d'une durée continue :
 
--d'au moins quatre mois pour une quotité de temps de travail de 50 % de la durée du service que les agents à temps plein exerçant les mêmes fonctions doivent effectuer ;
+- d'au moins quatre mois pour une quotité de temps de travail de 50 % de la durée du service que les agents à temps plein exerçant les mêmes fonctions doivent effectuer ;
 
--d'au moins cinq mois pour une quotité de 60 % ;
+- d'au moins cinq mois pour une quotité de 60 % ;
 
--d'au moins sept mois pour une quotité de 70 %.
+- d'au moins sept mois pour une quotité de 70 %.
 
 Toutefois, en cas de naissances ou d'adoptions simultanées, la durée d'interruption ou de réduction d'activité prise en compte au titre de l'ensemble des enfants en cause est celle exigée pour un enfant.
 
-II.-Sont prises en compte pour le calcul de la durée d'interruption d'activité les périodes correspondant à une interruption du service effectif, intervenues dans le cadre :
+II. - Sont prises en compte pour le calcul de la durée d'interruption d'activité les périodes correspondant à une interruption du service effectif, intervenues dans le cadre :
 
 a) Du congé de maternité ;
 
@@ -152,11 +152,11 @@ Les droits pour la liquidation de la retraite intègrent également les période
 
 Ces périodes sont prises en compte dans la limite de 9 ans et sous réserve :
 
--qu'elles soient antérieures à la liquidation de la pension ;
+- qu'elles soient antérieures à la liquidation de la pension ;
 
--qu'elles succèdent à des périodes d'affiliation à un régime d'assurance vieillesse ou de retraite ou à des périodes visées à l'article L. 161-19 du code de la sécurité sociale ;
+- qu'elles succèdent à des périodes d'affiliation à un régime d'assurance vieillesse ou de retraite ou à des périodes visées à l'article L. 161-19 du code de la sécurité sociale ;
 
--qu'elles ne soient pas rémunérées à un autre titre dans ladite pension ou à quelque titre que ce soit dans toute autre pension.
+- qu'elles ne soient pas rémunérées à un autre titre dans ladite pension ou à quelque titre que ce soit dans toute autre pension.
 
 Les pensions des retraités et de leurs ayants cause sont révisées, sur demande des intéressés, pour tenir compte des périodes du versement de l'indemnité de soins aux tuberculeux dans les conditions fixées ci-dessus.
 
@@ -182,11 +182,11 @@ Article 18
 
 Les périodes d'études accomplies dans les établissements, écoles et classes mentionnés à l'article L. 381-4 du code de la sécurité sociale sont susceptibles d'être prises en compte :
 
--soit au titre de la durée des services retenus pour la liquidation des droits et au titre de la durée d'assurance ;
+- soit au titre de la durée des services retenus pour la liquidation des droits et au titre de la durée d'assurance ;
 
--soit au titre de la seule durée d'assurance ;
+- soit au titre de la seule durée d'assurance ;
 
--soit pour obtenir un supplément de liquidation sans que ce supplément soit pris en compte dans la durée d'assurance.
+- soit pour obtenir un supplément de liquidation sans que ce supplément soit pris en compte dans la durée d'assurance.
 
 Cette prise en compte peut concerner au plus douze trimestres, sous réserve de l'obtention du diplôme et du versement des cotisations nécessaires selon le barème et les modalités de paiement définis par décret en Conseil d'Etat pour les fonctionnaires de l'Etat. Le barème s'applique à la rémunération cotisable de l'agent au moment de sa demande.
 
@@ -268,19 +268,19 @@ Sous réserve des dispositions de l'article 72, la liquidation de la pension int
 
 a) Lorsque l'agent est admis à la retraite par limite d'âge ou, sur demande, s'il a cessé son activité et s'il a atteint :
 
--au moins l'âge de soixante-deux ans ;
+- au moins l'âge de soixante-deux ans ;
 
--ou au moins l'âge de cinquante-sept ans s'il appartient à l'une des catégories dont la nomenclature est fixée par délibération du conseil général approuvée par le ministère de l'économie et des finances ;
+- ou au moins l'âge de cinquante-sept ans s'il appartient à l'une des catégories dont la nomenclature est fixée par délibération du conseil général approuvée par le ministère de l'économie et des finances ;
 
 b) Lorsque l'agent est admis à la retraite à la suite d'une invalidité ;
 
 c) Lorsque l'agent, au moment où il cesse ses fonctions :
 
--est parent d'un enfant vivant âgé de plus de un an et atteint d'une invalidité égale ou supérieure à 80 %, à condition d'avoir, pour cet enfant, interrompu ou réduit son activité dans les conditions fixées à l'article 27 et d'avoir accompli quinze années de services effectifs. L'invalidité de l'enfant est appréciée dans les formes prévues à l'article 42.
+- est parent d'un enfant vivant âgé de plus de un an et atteint d'une invalidité égale ou supérieure à 80 %, à condition d'avoir, pour cet enfant, interrompu ou réduit son activité dans les conditions fixées à l'article 27 et d'avoir accompli quinze années de services effectifs. L'invalidité de l'enfant est appréciée dans les formes prévues à l'article 42.
 
 Sont assimilés à l'enfant mentionné à l'alinéa précédent les enfants énumérés au I de l'article 35 que l'agent a élevés dans les conditions prévues au II dudit article ;
 
--ou justifie que son conjoint est atteint d'une infirmité ou d'une maladie incurable le plaçant dans l'impossibilité d'exercer une profession quelconque ; cette incapacité est appréciée dans les formes prévues à l'article 42.
+- ou justifie que son conjoint est atteint d'une infirmité ou d'une maladie incurable le plaçant dans l'impossibilité d'exercer une profession quelconque ; cette incapacité est appréciée dans les formes prévues à l'article 42.
 
 Article 27
 
@@ -288,11 +288,11 @@ L'interruption d'activité prévue au deuxième alinéa du c de l'article 26 doi
 
 La réduction d'activité prévue au même c est constituée d'une période de service à temps partiel d'une durée continue :
 
--d'au moins quatre mois pour une quotité de temps de travail de 50 % de la durée du service que les agents à temps plein exerçant les mêmes fonctions doivent effectuer ;
+- d'au moins quatre mois pour une quotité de temps de travail de 50 % de la durée du service que les agents à temps plein exerçant les mêmes fonctions doivent effectuer ;
 
--d'au moins cinq mois pour une quotité de 60 % ;
+- d'au moins cinq mois pour une quotité de 60 % ;
 
--d'au moins sept mois pour une quotité de 70 %.
+- d'au moins sept mois pour une quotité de 70 %.
 
 Toutefois, en cas de naissances ou d'adoptions simultanées, la durée d'interruption ou de réduction d'activité prise en compte au titre de l'ensemble des enfants en cause est celle exigée pour un enfant.
 
@@ -306,8 +306,6 @@ Article 28
 
 L'âge d'ouverture du droit à pension résultant de l'application du troisième alinéa de l'article 26 est abaissé pour les agents relevant du régime de retraite régi par le présent règlement qui ont commencé leur activité avant un âge et dans des conditions déterminés par l'article 68 et ont accompli une durée totale d'assurance et de périodes reconnues équivalentes dans ce régime et, le cas échéant, dans un ou plusieurs autres régimes obligatoires au moins égale à une limite définie par le même article, tout ou partie de cette durée totale ayant donné lieu à cotisations à la charge de l'agent. Les modalités d'application du présent article et, notamment, les conditions dans lesquelles, le cas échéant, une partie des périodes de service national et les périodes pendant lesquelles les agents ont été placés en congé de maladie ainsi que les périodes comptées comme périodes d'assurance dans un ou plusieurs autres régimes obligatoires au titre de la maladie, de la maternité et de l'inaptitude temporaire peuvent être réputées avoir donné lieu au versement de cotisations sont celles prévues par le décret pris pour l'application de l'article L. 25 bis du code des pensions civiles et militaires de retraite.
 
-Toutefois, pour l'application de la condition de durée minimale d'assurance ou de périodes reconnues équivalentes définie au premier alinéa, sont prises en compte la bonification pour enfant mentionnée à l'article 12, les majorations de durée d'assurance mentionnées aux articles 16 et 17 et les périodes d'interruption ou de réduction d'activité mentionnées à l'article 9.
-
 Article 29
 
 La condition d'âge de soixante ans figurant au a de l'article 26 est abaissée, dans les conditions fixées à l'article R. 37 bis du code des pensions civiles et militaires de retraite, pour les agents handicapés qui totalisent, alors qu'ils étaient atteints d'une incapacité permanente d'au moins 50 %, une durée d'assurance au moins égale à une limite fixée au même article, tout ou partie de cette durée ayant donné lieu à versement de retenues pour pensions.
@@ -318,9 +316,9 @@ Pour bénéficier des dispositions du présent article, l'agent handicapé produ
 
 Art. 29-1
 
-I.-La condition d'âge prévue au troisième alinéa de l'article 26 est abaissée à soixante ans pour les assurés qui justifient d'une incapacité permanente au sens de l'article L. 434-2 du code de la sécurité sociale au moins égale à un taux déterminé par décret, lorsque cette incapacité est reconnue au titre d'une maladie professionnelle mentionnée à l'article L. 461-1 du même code ou au titre d'un accident de travail mentionné à l'article L. 411-1 du même code et ayant entraîné des lésions identiques à celles indemnisées au titre d'une maladie professionnelle.
+I. - La condition d'âge prévue au troisième alinéa de l'article 26 est abaissée à soixante ans pour les assurés qui justifient d'une incapacité permanente au sens de l'article L. 434-2 du code de la sécurité sociale au moins égale à un taux déterminé par décret, lorsque cette incapacité est reconnue au titre d'une maladie professionnelle mentionnée à l'article L. 461-1 du même code ou au titre d'un accident de travail mentionné à l'article L. 411-1 du même code et ayant entraîné des lésions identiques à celles indemnisées au titre d'une maladie professionnelle.
 
-II.-Le I est également applicable à l'assuré justifiant d'une incapacité permanente d'un taux inférieur à celui mentionné au I, sous réserve des conditions cumulatives suivantes :
+II. - Le I est également applicable à l'assuré justifiant d'une incapacité permanente d'un taux inférieur à celui mentionné au I, sous réserve des conditions cumulatives suivantes :
 
 1° Que le taux d'incapacité permanente de l'assuré soit au moins égal à un taux déterminé par décret ;
 
@@ -330,13 +328,13 @@ II.-Le I est également applicable à l'assuré justifiant d'une incapacité per
 
 Une commission pluridisciplinaire dont l'avis s'impose à la caisse de réserve est chargée de valider les modes de preuve apportés par l'agent et d'apprécier l'effectivité du lien entre l'incapacité permanente et l'exposition aux facteurs de risques professionnels. La composition, le fonctionnement et le ressort territorial de cette commission ainsi que les éléments du dossier au vu desquels elle rend son avis sont fixés par un règlement du gouverneur.
 
-III.-Les agents dont la pension est liquidée en application du quatrième alinéa de l'article 26 ne peuvent pas bénéficier des dispositions du présent article.
+III. - Les agents dont la pension est liquidée en application du quatrième alinéa de l'article 26 ne peuvent pas bénéficier des dispositions du présent article.
 
-IV. ― Les décrets mentionnés au présent article sont ceux pris pour l'application de l'article L. 351-1-4 du code de la sécurité sociale.
+IV. - Les décrets mentionnés au présent article sont ceux pris pour l'application de l'article L. 351-1-4 du code de la sécurité sociale.
 
 Article 30
 
-La pension est basée sur la dernière rémunération cotisable afférente à l'emploi, grade ou classe et échelon effectivement occupés par l'agent depuis six mois au moins au moment de la cessation des services valables pour la retraite ou, à défaut,-sauf s'il y a eu rétrogradation par mesure disciplinaire-sur la rémunération cotisable afférente à l'emploi, grade ou classe et échelon antérieurement occupés.
+La pension est basée sur la dernière rémunération cotisable afférente à l'emploi, grade ou classe et échelon effectivement occupés par l'agent depuis six mois au moins au moment de la cessation des services valables pour la retraite ou, à défaut, - sauf s'il y a eu rétrogradation par mesure disciplinaire - sur la rémunération cotisable afférente à l'emploi, grade ou classe et échelon antérieurement occupés.
 
 En cas de travail à temps partiel, la rémunération cotisable retenue pour le calcul de la pension est celle à laquelle l'agent aurait pu prétendre s'il avait assuré un service à plein temps.
 
@@ -346,7 +344,7 @@ Des décisions du gouverneur approuvées par le conseil général fixeront, le c
 
 Article 31
 
-I.-La durée des services et bonifications admissibles en liquidation s'exprime en trimestres. Sous réserve des dispositions de l'article 69, le nombre de trimestres nécessaires pour obtenir le pourcentage maximum de la pension évolue comme la durée des services et bonifications exigée des fonctionnaires de l'Etat pour obtenir le pourcentage maximum d'une pension civile dans les conditions définies à l'article 5 de la loi n° 2003-775 du 21 août 2003 portant réforme des retraites. Sous réserve des dispositions transitoires prévues à l'article 69, le nombre de trimestres nécessaires pour obtenir le pourcentage maximum de la pension est fixé à 172.
+I. - La durée des services et bonifications admissibles en liquidation s'exprime en trimestres. Sous réserve des dispositions de l'article 69, le nombre de trimestres nécessaires pour obtenir le pourcentage maximum de la pension évolue comme la durée des services et bonifications exigée des fonctionnaires de l'Etat pour obtenir le pourcentage maximum d'une pension civile dans les conditions définies à l'article 5 de la loi n° 2003-775 du 21 août 2003 portant réforme des retraites. Sous réserve des dispositions transitoires prévues à l'article 69, le nombre de trimestres nécessaires pour obtenir le pourcentage maximum de la pension est fixé à 172.
 
 Ce pourcentage maximum est fixé à 75 % du traitement mentionné à l'article 30.
 
@@ -354,13 +352,13 @@ Il peut être porté à 80 % du chef des bonifications prévues à l'article 12.
 
 Chaque trimestre est rémunéré en rapportant le pourcentage maximum défini au deuxième alinéa au nombre de trimestres mentionné au premier alinéa.
 
-II.-La fraction de trimestre égale ou supérieure à quarante-cinq jours est comptée pour un trimestre. La fraction de trimestre inférieure à quarante-cinq jours est négligée.
+II. - La fraction de trimestre égale ou supérieure à quarante-cinq jours est comptée pour un trimestre. La fraction de trimestre inférieure à quarante-cinq jours est négligée.
 
 Article 31-1
 
 La durée des services et des bonifications nécessaire à l'obtention du pourcentage maximum de la pension est celle qui est en vigueur lorsque les assurés atteignent l'âge de soixante ans.
 
-Par dérogation à l'alinéa précédent, la durée des services et des bonifications exigée des assurés qui remplissent les conditions de liquidation d'une pension avant l'âge de soixante ans est celle exigée des assurés atteignant l'âge de soixante ans l'année à compter de laquelle la liquidation peut intervenir. (1)
+Par dérogation à l'alinéa précédent, la durée des services et des bonifications exigée des assurés qui remplissent les conditions de liquidation d'une pension avant l'âge de soixante ans est celle exigée des assurés atteignant l'âge de soixante ans l'année à compter de laquelle la liquidation peut intervenir.
 
 Article 32
 
@@ -404,7 +402,7 @@ Si le nombre de trimestres de durée d'assurance, telle que définie à l'articl
 
 a) Lorsque la pension rémunère au moins quarante années de services effectifs, à un montant correspondant à la rémunération cotisable associée à la valeur au 1er avril 2007 de l'indice 182 ;
 
-b) Lorsque la pension rémunère quinze années de services effectifs, à 57,5 % du montant défini à l'alinéa précédent, ce taux étant augmenté de 2,5 points par année supplémentaire de services effectifs de quinze à trente ans et de 0,5 point par année de services effectifs de trente à quarante ans ;
+b) Lorsque la pension rémunère quinze années de services effectifs, à 57, 5 % du montant défini à l'alinéa précédent, ce taux étant augmenté de 2, 5 points par année supplémentaire de services effectifs de quinze à trente ans et de 0, 5 point par année de services effectifs de trente à quarante ans ;
 
 c) Lorsque la pension liquidée au motif d'invalidité rémunère moins de quinze années de services effectifs, à un quinzième du montant défini à l'alinéa précédent pour cette durée de quinze ans, par année de services effectifs ;
 
@@ -422,31 +420,31 @@ Les modalités d'application des deux précédents alinéas sont celles fixées 
 
 Article 35
 
-I.-Une majoration de pension est accordée aux titulaires ayant élevé au moins trois enfants.
+I. - Une majoration de pension est accordée aux titulaires ayant élevé au moins trois enfants.
 
 Ouvrent droit à cette majoration :
 
--les enfants du titulaire de la pension ;
+- les enfants du titulaire de la pension ;
 
--les enfants du conjoint ;
+- les enfants du conjoint ;
 
--les enfants ayant fait l'objet d'une délégation de l'autorité parentale en faveur du titulaire de la pension ou de son conjoint ;
+- les enfants ayant fait l'objet d'une délégation de l'autorité parentale en faveur du titulaire de la pension ou de son conjoint ;
 
--les enfants placés sous tutelle du titulaire de la pension ou de son conjoint, lorsque la tutelle s'accompagne de la garde effective et permanente de l'enfant ;
+- les enfants placés sous tutelle du titulaire de la pension ou de son conjoint, lorsque la tutelle s'accompagne de la garde effective et permanente de l'enfant ;
 
--les enfants recueillis à son foyer par le titulaire de la pension ou son conjoint, qui justifie en avoir assumé la charge effective et permanente par la production de tout document administratif établissant qu'ils ont été retenus pour l'octroi des prestations familiales ou du supplément familial de traitement ou du calcul de l'impôt sur le revenu.
+- les enfants recueillis à son foyer par le titulaire de la pension ou son conjoint, qui justifie en avoir assumé la charge effective et permanente par la production de tout document administratif établissant qu'ils ont été retenus pour l'octroi des prestations familiales ou du supplément familial de traitement ou du calcul de l'impôt sur le revenu.
 
-II.-A l'exception des enfants décédés par faits de guerre, les enfants doivent avoir été élevés pendant au moins neuf ans, soit avant leur seizième anniversaire, soit avant l'âge où ils ont cessé d'être à charge au sens des articles L. 512-3 et R. 512-2 du code de la sécurité sociale.
+II. - A l'exception des enfants décédés par faits de guerre, les enfants doivent avoir été élevés pendant au moins neuf ans, soit avant leur seizième anniversaire, soit avant l'âge où ils ont cessé d'être à charge au sens des articles L. 512-3 et R. 512-2 du code de la sécurité sociale.
 
 Pour l'appréciation de la condition de durée ci-dessus, il est tenu compte, le cas échéant, du temps pendant lequel les enfants ont été élevés par le conjoint après le décès du titulaire.
 
-III.-Le bénéfice de la majoration est accordé :
+III. - Le bénéfice de la majoration est accordé :
 
--soit au moment de la liquidation de la pension, si l'enfant a déjà atteint l'âge de seize ans ou s'il a cessé d'être à charge dans les conditions prévues au II ci-dessus ;
+- soit au moment de la liquidation de la pension, si l'enfant a déjà atteint l'âge de seize ans ou s'il a cessé d'être à charge dans les conditions prévues au II ci-dessus ;
 
--soit ultérieurement, au moment où l'enfant atteint l'âge de seize ans ou cesse, après cet âge, d'être à charge.
+- soit ultérieurement, au moment où l'enfant atteint l'âge de seize ans ou cesse, après cet âge, d'être à charge.
 
-IV.-Le taux de la majoration de la pension est fixé à 8,5 % de son montant pour les trois premiers enfants et à 4,25 % par enfant au-delà du troisième, sans que le montant de la pension majorée puisse excéder celui la rémunération cotisable déterminée à l'article 30.
+IV. - Le taux de la majoration de la pension est fixé à 8, 5 % de son montant pour les trois premiers enfants et à 4, 25 % par enfant au-delà du troisième, sans que le montant de la pension majorée puisse excéder celui la rémunération cotisable déterminée à l'article 30.
 
 TITRE IV
 
@@ -464,11 +462,11 @@ Si, dans le cadre de la mise en oeuvre de l'article 26, un agent souhaite faire 
 
 Article 38
 
-Abrogé
+Supprimé
 
 Article 39
 
-Abrogé
+Supprimé
 
 TITRE V
 
@@ -476,17 +474,17 @@ INVALIDITÉ
 
 Article 40
 
-L'admission à la retraite pour invalidité est prononcée, soit à la demande de l'intéressé, soit d'office, au profit de l'agent titulaire qui se trouve dans l'incapacité permanente de continuer ses fonctions. (2)
+L'admission à la retraite pour invalidité est prononcée, soit à la demande de l'intéressé, soit d'office, au profit de l'agent titulaire qui se trouve dans l'incapacité permanente de continuer ses fonctions.
 
 L'admission à la retraite d'office est prononcée sans délai si l'incapacité résulte d'une maladie ou d'une infirmité que son caractère définitif et stabilisé ne rend pas susceptible de traitement ; elle intervient, dans le cas contraire, à l'expiration du congé de maladie prévu par le statut du personnel.
 
-Par dérogation à l'article 61, la pension rémunérant les services versée en application du premier alinéa est revalorisée dans les conditions fixées à l'article L. 341-6 du code de la sécurité sociale. (2)
+Par dérogation à l'article 61, la pension rémunérant les services versée en application du premier alinéa est revalorisée dans les conditions fixées à l'article L. 341-6 du code de la sécurité sociale.
 
 Article 41
 
 L'agent admis à la retraite pour invalidité en raison d'infirmités résultant de blessures ou de maladie contractées ou aggravées soit en service, soit en accomplissant un acte de dévouement dans un intérêt public, soit en exposant ses jours pour sauver la vie d'une ou plusieurs personnes a droit à une rente viagère d'invalidité cumulable, selon les modalités définies à l'article 45, avec la pension rémunérant les services. Cette rente est liquidée, concédée, payée et revalorisée dans les mêmes conditions que la pension prévue à l'article 40.
 
-Le droit à cette rente est également ouvert à l'agent retraité qui est atteint d'une maladie professionnelle dont l'imputabilité au service est reconnue par la commission de réforme postérieurement à la date de la radiation des cadres, dans les conditions définies à l'article 42. Dans ce cas, la jouissance de la rente prend effet à la date du dépôt de la demande de l'intéressé. Il en est également ainsi lorsque l'entrée en jouissance de la pension est différée en application de l'article 26 d du présent règlement.
+Le droit à cette rente est également ouvert à l'agent retraité qui est atteint d'une maladie professionnelle dont l'imputabilité au service est reconnue par la commission de réforme postérieurement à la date de la radiation des cadres, dans les conditions définies à l'article 42. Dans ce cas, la jouissance de la rente prend effet à la date du dépôt de la demande de l'intéressé. Il en est également ainsi lorsque l'entrée en jouissance de la pension est différée en application de l'article 26 du présent règlement.
 
 Le montant de la rente d'invalidité est fixé à la fraction de la rémunération cotisable égale au pourcentage d'invalidité. Si le montant de cette rémunération cotisable dépasse un montant correspondant à la valeur de l'indice 836 au 1er avril 2007, revalorisé dans les conditions prévues à l'article L. 341-6 du code de la sécurité sociale, la fraction dépassant cette limite n'est comptée que pour le tiers. Toutefois, il n'est pas tenu compte de la fraction excédant dix fois ce montant brut.
 
@@ -494,11 +492,11 @@ Article 42
 
 La réalité des infirmités invoquées, leur rapport avec des infirmités déjà indemnisées, le taux d'invalidité qu'elles entraînent, l'incapacité permanente à l'exercice des fonctions sont appréciés par une commission de réforme composée de :
 
--deux agents titulaires désignés par le gouverneur ;
+- deux agents titulaires désignés par le gouverneur ;
 
--deux agents de même grade que l'agent en cause ou, à défaut, du grade immédiatement supérieur, pris parmi ceux qui représentent le personnel aux conseils de discipline. Ces agents siègent à tour de rôle dans l'ordre et les conditions fixés par décision du gouverneur ;
+- deux agents de même grade que l'agent en cause ou, à défaut, du grade immédiatement supérieur, pris parmi ceux qui représentent le personnel aux conseils de discipline. Ces agents siègent à tour de rôle dans l'ordre et les conditions fixés par décision du gouverneur ;
 
--deux médecins désignés par le gouverneur assistés éventuellement d'un spécialiste.
+- deux médecins désignés par le gouverneur assistés éventuellement d'un spécialiste.
 
 Avant la réunion de la commission, l'agent est invité à prendre connaissance du dossier ; il peut présenter des observations écrites et fournir des certificats médicaux. Si elle le juge utile, la commission peut faire procéder à toutes mesures d'instruction complémentaire.
 
@@ -530,13 +528,13 @@ Sans préjudice du plafond fixé au IV de l'article 35, le montant total des pre
 
 Article 46
 
-Les agents détachés bénéficient, par priorité, du chef de l'invalidité contractée dans l'emploi de détachement ou pendant l'exercice de leur mandat, du régime d'assurance qui leur est appliqué par l'organisme employeur, sans qu'ils puissent percevoir au total une pension inférieure à celle qu'ils auraient obtenue si les articles 40,41 et 45 leur avaient été applicables. Ils perçoivent, en pareil cas, une pension différentielle.
+Les agents détachés bénéficient, par priorité, du chef de l'invalidité contractée dans l'emploi de détachement ou pendant l'exercice de leur mandat, du régime d'assurance qui leur est appliqué par l'organisme employeur, sans qu'ils puissent percevoir au total une pension inférieure à celle qu'ils auraient obtenue si les articles 40, 41 et 45 leur avaient été applicables. Ils perçoivent, en pareil cas, une pension différentielle.
 
 TITRE VI
 
 DROITS DES AYANTS CAUSE
 
-I.-Droits des conjoints
+I. - Droits des conjoints
 
 Article 47
 
@@ -568,7 +566,7 @@ Au décès de l'un des bénéficiaires, sa part passe le cas échéant aux orphe
 
 Article 51
 
-Lorsqu'un agent décède à la suite d'un attentat ou d'une lutte dans l'exercice de ses fonctions ou d'un acte de dévouement dans un intérêt public ou pour sauver la vie d'une ou plusieurs personnes, la pension de réversion concédée au conjoint, augmentée le cas échéant de la rente due au titre de la législation sur les accidents du travail, ne peut être inférieure à un montant correspondant à la rémunération soumise à retenue afférente à l'indice 182, revalorisé dans les conditions prévues à l'article L. 341-6 du code de la sécurité sociale. (2)
+Lorsqu'un agent décède à la suite d'un attentat ou d'une lutte dans l'exercice de ses fonctions ou d'un acte de dévouement dans un intérêt public ou pour sauver la vie d'une ou plusieurs personnes, la pension de réversion concédée au conjoint, augmentée le cas échéant de la rente due au titre de la législation sur les accidents du travail, ne peut être inférieure à un montant correspondant à la rémunération soumise à retenue afférente à l'indice 182, revalorisé dans les conditions prévues à l'article L. 341-6 du code de la sécurité sociale.
 
 Article 52
 
@@ -578,7 +576,7 @@ Les droits qui lui appartenaient ou qui lui auraient appartenu passent aux enfan
 
 Le conjoint survivant ou le conjoint divorcé, dont la nouvelle union est dissoute, qui n'est plus lié par un pacte civil de solidarité ou qui cesse de vivre en état de concubinage notoire, peut, s'il le désire, recouvrer son droit à pension et demander qu'il soit mis fin à l'application qui a pu être faite des dispositions du premier alinéa du présent article. En pareil cas, la pension éventuellement accordée aux enfants nés de son mariage avec l'agent décédé est supprimée.
 
-II.-Droits des orphelins
+II. - Droits des orphelins
 
 Article 53
 
@@ -602,11 +600,11 @@ Article 55
 
 Les enfants infirmes âgés de plus de vingt et un ans, s'ils remplissent les conditions prévues aux troisième et cinquième alinéas de l'article 53, bénéficient de la pension d'orphelin, sous réserve de l'application des règles de cumul fixées à cet article.
 
-III.-Dispositions communes
+III. - Dispositions communes
 
 Article 56
 
-Le total des pensions attribuées du chef de la réversibilité aux conjoints survivants ou aux enfants d'un ou plusieurs lits ne peut excéder, toutes majorations comprises, la pension dont bénéficiait ou aurait bénéficié l'agent toutes majorations comprises le jour de son décès. A cette pension de réversion s'ajoute la moitié de la rente viagère d'invalidité dont aurait pu bénéficier l'agent de manière à ce que le total ne soit pas inférieur à un montant correspondant à la valeur de l'indice 182 au 1er avril 2007.
+Le total des pensions attribuées du chef de la réversibilité aux conjoints survivants ou aux enfants d'un ou plusieurs lits ne peut excéder, toutes majorations comprises, la pension dont bénéficiait ou aurait bénéficié l'agent toutes majorations comprises le jour de son décès.A cette pension de réversion s'ajoute la moitié de la rente viagère d'invalidité dont aurait pu bénéficier l'agent de manière à ce que le total ne soit pas inférieur à un montant correspondant à la valeur de l'indice 182 au 1er avril 2007.
 
 Lorsque le montant total des pensions doit être réduit, par application du maximum fixé ci-dessus, cette réduction affecte proportionnellement la pension de chaque ayant droit. La pension de chaque ayant droit accroît celle des autres bénéficiaires lors de son extinction jusqu'à ce que, dans la limite du maximum fixé ci-dessus, la pension des bénéficiaires atteigne la quotité à laquelle ils peuvent respectivement prétendre.
 
@@ -650,10 +648,6 @@ Article 62
 
 Les pensions de la caisse de réserve des employés sont payables mensuellement et à terme échu, par virement.
 
-Par dérogation à l'alinéa précédent, si le taux de la pension déterminé en application des articles 31 à 35 est inférieur à 2 %, la pension est remplacée par un versement forfaitaire unique, égal à quinze fois le montant annuel de la pension.
-
-Ce versement est effectué à la date à laquelle auraient été versés les premiers arrérages de la pension.
-
 Article 63
 
 En cas de décès d'un agent en activité, le paiement de la pension des ayants cause commence au premier jour du mois civil suivant celui du décès.
@@ -670,25 +664,25 @@ Article 65
 
 Les agents titulaires qui ont cessé définitivement leur activité à la banque sont soumis, pour l'exercice d'une activité professionnelle privée, pendant un délai de trois ans suivant leur cessation d'activité aux dispositions du présent article.
 
-I.-Relèvent des activités professionnelles privées au sens du présent article les activités professionnelles exercées dans les entreprises privées et dans les organismes privés à caractère non lucratif ainsi que les activités privées libérales. Sont assimilées aux entreprises privées les entreprises du secteur concurrentiel opérant conformément aux règles du droit privé.
+I. - Relèvent des activités professionnelles privées au sens du présent article les activités professionnelles exercées dans les entreprises privées et dans les organismes privés à caractère non lucratif ainsi que les activités privées libérales. Sont assimilées aux entreprises privées les entreprises du secteur concurrentiel opérant conformément aux règles du droit privé.
 
-II.-Les agents mentionnés au premier alinéa ne peuvent exercer une activité :
+II. - Les agents mentionnés au premier alinéa ne peuvent exercer une activité :
 
 a) Dans une entreprise privée lorsqu'au cours des trois années précédant la cessation définitive de leurs fonctions ils ont été chargés soit de surveiller ou contrôler cette entreprise, soit de passer des marchés ou contrats avec cette entreprise ou d'exprimer un avis sur de tels marchés ou contrats.
 
 Cette interdiction s'applique également aux activités exercées dans une entreprise :
 
--qui détient au moins 30 % du capital de l'entreprise susmentionnée ou dont le capital est, à hauteur de 30 % au moins, détenu soit par l'entreprise susmentionnée, soit par une entreprise détenant aussi 30 % au moins du capital de l'entreprise susmentionnée ;
+- qui détient au moins 30 % du capital de l'entreprise susmentionnée ou dont le capital est, à hauteur de 30 % au moins, détenu soit par l'entreprise susmentionnée, soit par une entreprise détenant aussi 30 % au moins du capital de l'entreprise susmentionnée ;
 
--ou qui a conclu avec l'entreprise susmentionnée un contrat comportant une exclusivité de droit ou de fait ;
+- ou qui a conclu avec l'entreprise susmentionnée un contrat comportant une exclusivité de droit ou de fait ;
 
 b) Portant atteinte à la dignité de leurs fonctions antérieures ou risquant de compromettre ou mettre en cause le fonctionnement normal, l'indépendance ou la neutralité du service.
 
-III.-Les agents mentionnés au premier alinéa du présent article qui envisagent d'exercer une activité professionnelle privée saisissent une commission sur les incompatibilités instituée par un règlement du gouverneur, qui décide s'il y a lieu de recueillir l'autorisation du gouverneur.
+III. - Les agents mentionnés au premier alinéa du présent article qui envisagent d'exercer une activité professionnelle privée saisissent une commission sur les incompatibilités instituée par un règlement du gouverneur, qui décide s'il y a lieu de recueillir l'autorisation du gouverneur.
 
 Dans le cas où cette autorisation est nécessaire, la décision du gouverneur est portée à la connaissance de l'agent dans un délai de deux mois à compter de la saisine de la commission.
 
-IV.-Les agents titulaires qui contreviendraient aux dispositions du présent article sont passibles d'une suspension de pension prise sur décision du gouverneur, après avis du conseil de discipline compétent pour les agents en activité titulaires du grade que l'agent avait atteint à la date de sa cessation d'activité.
+IV. - Les agents titulaires qui contreviendraient aux dispositions du présent article sont passibles d'une suspension de pension prise sur décision du gouverneur, après avis du conseil de discipline compétent pour les agents en activité titulaires du grade que l'agent avait atteint à la date de sa cessation d'activité.
 
 Article 66
 
@@ -706,83 +700,81 @@ Abrogé.
 
 Article 68
 
-Pour les agents nés avant le 1er janvier 1963, les dispositions du premier alinéa de l'article 28 sont remplacées par les dispositions prévues aux alinéas suivants.
+I. - L'âge d'ouverture du droit à une pension de retraite est abaissé à soixante ans pour les agents relevant du régime de retraite régi par le présent règlement ayant débuté leur activité avant l'âge de vingt ans et qui justifient, dans ce régime et, le cas échéant, dans un ou plusieurs autres régimes obligatoires, d'une durée d'assurance ayant donné lieu à cotisations à leur charge au moins égale à la durée nécessaire pour obtenir le pourcentage maximum de la pension prévue à l'article 31 du présent règlement et applicable l'année où l'assuré atteint l'âge de soixante ans.
 
-L'âge d'ouverture des droits à pension mentionné au a de l'article 26 est abaissé pour les agents relevant du présent règlement qui justifient, dans ce régime et, le cas échéant, dans un ou plusieurs autres régimes obligatoires, d'une durée d'assurance, ou de périodes reconnues équivalentes, au moins égale à la durée nécessaire pour obtenir le pourcentage maximum de la pension prévue à l'article 31 du présent règlement et applicable l'année où l'assuré atteint l'âge précité.
+II. - L'âge d'ouverture du droit à une pension de retraite est abaissé pour les agents relevant du régime de retraite régi par le présent règlement qui justifient, dans ce régime et, le cas échéant, dans un ou plusieurs autres régimes obligatoires, d'une durée d'assurance ayant donné lieu à cotisations à leur charge, au moins égale aux seuils définis ci-après :
 
-I.-Pour les agents nés avant le 1er janvier 1956 :
+A. - Pour les agents nés avant le 1er janvier 1956 :
 
-1° A cinquante-six ans pour les agents justifiant d'une durée d'assurance ayant donné lieu à cotisations à leur charge au moins égale à 168 trimestres et ayant débuté leur activité avant l'âge de seize ans ;
+1° A cinquante-six ans pour les agents justifiant d'une durée d'assurance ayant donné lieu à cotisations à leur charge au moins égale à la durée nécessaire pour obtenir le pourcentage maximum de la pension prévue à l'article 31 du présent règlement et applicable l'année où l'assuré atteint l'âge de soixante ans, majorée de huit trimestres, et ayant débuté leur activité avant l'âge de seize ans ;
 
-2° A cinquante-huit ans pour les agents justifiant d'une durée d'assurance ayant donné lieu à cotisations à leur charge au moins égale à 164 trimestres et ayant débuté leur activité avant l'âge de seize ans ;
+2° A cinquante-huit ans pour les agents justifiant d'une durée d'assurance ayant donné lieu à cotisations à leur charge au moins égale à la durée nécessaire pour obtenir le pourcentage maximum de la pension prévue à l'article 31 du présent règlement et applicable l'année où l'assuré atteint l'âge de soixante ans, majorée de quatre trimestres, et ayant débuté leur activité avant l'âge de seize ans ;
 
-3° A cinquante-neuf ans pour les agents justifiant d'une durée d'assurance ayant donné lieu à cotisations à leur charge au moins égale à 160 trimestres et ayant débuté leur activité avant l'âge de dix-sept ans.
+3° A cinquante-neuf ans pour les agents justifiant d'une durée d'assurance ayant donné lieu à cotisations à leur charge au moins égale à la durée nécessaire pour obtenir le pourcentage maximum de la pension prévue à l'article 31 du présent règlement et applicable l'année où l'assuré atteint l'âge de soixante ans et ayant débuté leur activité avant l'âge de dix-sept ans ;
 
-II.-Pour les agents nés en 1956 :
+B. - Pour les agents nés en 1956 :
 
-1° A cinquante-six ans et trois mois pour les agents justifiant d'une durée d'assurance ayant donné lieu à cotisations à leur charge au moins égale à 169 trimestres et ayant débuté leur activité avant l'âge de seize ans ;
+1° A cinquante-six ans pour les agents justifiant d'une durée d'assurance ayant donné lieu à cotisations à leur charge au moins égale à la durée nécessaire pour obtenir le pourcentage maximum de la pension prévue à l'article 31 du présent règlement et applicable l'année où l'assuré atteint l'âge de soixante ans, majorée de huit trimestres, et ayant débuté leur activité avant l'âge de seize ans ;
 
-2° A cinquante-huit ans et trois mois pour les agents justifiant d'une durée d'assurance ayant donné lieu à cotisations à leur charge au moins égale à 165 trimestres et ayant débuté leur activité avant l'âge de seize ans ;
+2° A cinquante-huit ans pour les agents justifiant d'une durée d'assurance ayant donné lieu à cotisations à leur charge au moins égale à la durée nécessaire pour obtenir le pourcentage maximum de la pension prévue à l'article 31 du présent règlement et applicable l'année où l'assuré atteint l'âge de soixante ans, majorée de quatre trimestres, et ayant débuté leur activité avant l'âge de seize ans ;
 
-3° A cinquante-neuf ans et trois mois pour les agents justifiant d'une durée d'assurance ayant donné lieu à cotisations à leur charge au moins égale à 161 trimestres et ayant débuté leur activité avant l'âge de dix-sept ans ;
+3° A cinquante-neuf ans pour les agents justifiant d'une durée d'assurance ayant donné lieu à cotisations à leur charge au moins égale à la durée nécessaire pour obtenir le pourcentage maximum de la pension prévue à l'article 31 du présent règlement et applicable l'année où l'assuré atteint l'âge de soixante ans et ayant débuté leur activité avant l'âge de dix-sept ans.
 
-4° A soixante ans pour les agents justifiant d'une durée d'assurance ayant donné lieu à cotisations à leur charge au moins égale à 161 trimestres et ayant débuté leur activité avant l'âge de dix-huit ans.
+C. - Pour les agents nés en 1957 :
 
-III.-Pour les agents nés en 1957 :
+1° A cinquante-six ans pour les agents justifiant d'une durée d'assurance ayant donné lieu à cotisations à leur charge au moins égale à la durée nécessaire pour obtenir le pourcentage maximum de la pension prévue à l'article 31 du présent règlement et applicable l'année où l'assuré atteint l'âge de soixante ans, majorée de huit trimestres, et ayant débuté leur activité avant l'âge de seize ans ;
 
-1° A cinquante-six ans et six mois pour les agents justifiant d'une durée d'assurance ayant donné lieu à cotisations à leur charge au moins égale à 170 trimestres et ayant débuté leur activité avant l'âge de seize ans ;
+2° A cinquante-huit ans pour les agents justifiant d'une durée d'assurance ayant donné lieu à cotisations à leur charge au moins égale à la durée nécessaire pour obtenir le pourcentage maximum de la pension prévue à l'article 31 du présent règlement et applicable l'année où l'assuré atteint l'âge de soixante ans, majorée de quatre trimestres, et ayant débuté leur activité avant l'âge de seize ans ;
 
-2° A cinquante-huit ans et six mois pour les agents justifiant d'une durée d'assurance ayant donné lieu à cotisations à leur charge au moins égale à 166 trimestres et ayant débuté leur activité avant l'âge de seize ans ;
+3° A cinquante-neuf ans et quatre mois pour les agents justifiant d'une durée d'assurance cotisée au moins égale à la durée nécessaire pour obtenir le pourcentage maximum de la pension prévue à l'article 31 du présent règlement et applicable l'année où l'assuré atteint l'âge de soixante ans et ayant débuté leur activité avant l'âge de dix-sept ans.
 
-3° A cinquante-neuf ans et six mois pour les agents justifiant d'une durée d'assurance ayant donné lieu à cotisations à leur charge au moins égale à 162 trimestres et ayant débuté leur activité avant l'âge de dix-sept ans ;
+D. - Pour les agents nés en 1958 :
 
-4° A soixante ans pour les agents justifiant d'une durée d'assurance ayant donné lieu à cotisations à leur charge au moins égale à 162 trimestres et ayant débuté leur activité avant l'âge de dix-huit ans.
+1° A cinquante-six ans pour les agents justifiant d'une durée d'assurance cotisée au moins égale à la durée nécessaire pour obtenir le pourcentage maximum de la pension prévue à l'article 31 du présent règlement et applicable l'année où l'assuré atteint l'âge de soixante ans, majorée de huit trimestres, et ayant débuté leur activité avant l'âge de seize ans ;
 
-IV.-Pour les agents nés en 1958 :
+2° A cinquante-huit ans et quatre mois pour les agents justifiant d'une durée d'assurance cotisée au moins égale à la durée nécessaire pour obtenir le pourcentage maximum de la pension prévue à l'article 31 du présent règlement et applicable l'année où l'assuré atteint l'âge de soixante ans, majorée de quatre trimestres, et ayant débuté leur activité avant l'âge de seize ans ;
 
-1° A cinquante-six ans et neuf mois pour les agents justifiant d'une durée d'assurance ayant donné lieu à cotisations à leur charge au moins égale à 171 trimestres et ayant débuté leur activité avant l'âge de seize ans ;
+3° A cinquante-neuf ans et huit mois pour les agents justifiant d'une durée d'assurance cotisée au moins égale à la durée nécessaire pour obtenir le pourcentage maximum de la pension prévue à l'article 31 du présent règlement et applicable l'année où l'assuré atteint l'âge de soixante ans et ayant débuté leur activité avant l'âge de dix-sept ans ;
 
-2° A cinquante-huit ans et neuf mois pour les agents justifiant d'une durée d'assurance ayant donné lieu à cotisations à leur charge au moins égale à 167 trimestres et ayant débuté leur activité avant l'âge de seize ans ;
+E. - Pour les agents nés en 1959 :
 
-3° A cinquante-neuf ans et neuf mois pour les agents justifiant d'une durée d'assurance ayant donné lieu à cotisations à leur charge au moins égale à 163 trimestres et ayant débuté leur activité avant l'âge de dix-sept ans ;
+1° A cinquante-six ans pour les agents justifiant d'une durée d'assurance cotisée au moins égale à la durée nécessaire pour obtenir le pourcentage maximum de la pension prévue à l'article 31 du présent règlement et applicable l'année où l'assuré atteint l'âge de soixante ans, majorée de huit trimestres, et ayant débuté leur activité avant l'âge de seize ans ;
 
-4° A soixante ans pour les agents justifiant d'une durée d'assurance ayant donné lieu à cotisations à leur charge au moins égale à 163 trimestres et ayant débuté leur activité avant l'âge de dix-huit ans.
+2° A cinquante-huit ans et huit mois pour les agents justifiant d'une durée d'assurance cotisée au moins égale à la durée nécessaire pour obtenir le pourcentage maximum de la pension prévue à l'article 31 du présent règlement et applicable l'année où l'assuré atteint l'âge de soixante ans, majorée de quatre trimestres, et ayant débuté leur activité avant l'âge de seize ans ;
 
-V.-Pour les agents nés en 1959 :
+F. - Pour les agents nés en 1960 :
 
-1° A cinquante-sept ans pour les agents justifiant d'une durée d'assurance ayant donné lieu à cotisations à leur charge au moins égale à 172 trimestres et ayant débuté leur activité avant l'âge de seize ans ;
+1° A cinquante-six ans et quatre mois pour les agents justifiant d'une durée d'assurance cotisée au moins égale à la durée d'assurance ou de services et bonifications définie à l'article 5 de la loi du 21 août 2003 précitée et applicable l'année où l'assuré atteint l'âge de soixante ans, majorée de huit trimestres, et ayant débuté leur activité avant l'âge de seize ans ;
 
-2° A cinquante-neuf ans pour les agents justifiant d'une durée d'assurance ayant donné lieu à cotisations à leur charge au moins égale à 168 trimestres et ayant débuté leur activité avant l'âge de seize ans ;
+2° A cinquante-neuf ans pour les agents justifiant d'une durée d'assurance cotisée au moins égale à la durée d'assurance ou de services et bonifications définie à l'article 5 de la loi du 21 août 2003 précitée et applicable l'année où l'assuré atteint l'âge de soixante ans, majorée de quatre trimestres, et ayant débuté leur activité avant l'âge de seize ans ;
 
-3° A soixante ans pour les agents justifiant d'une durée d'assurance ayant donné lieu à cotisations à leur charge au moins égale à 164 trimestres et ayant débuté leur activité avant l'âge de dix-huit ans.
+G. - Pour les agents nés en 1961 :
 
-VI.-Pour les agents nés en 1960 :
+1° A cinquante-six ans et huit mois pour les agents justifiant d'une durée d'assurance cotisée au moins égale à la durée nécessaire pour obtenir le pourcentage maximum de la pension prévue à l'article 31 du présent règlement et applicable l'année où l'assuré atteint l'âge de soixante ans, majorée de huit trimestres, et ayant débuté leur activité avant l'âge de seize ans ;
 
-1° A cinquante-sept ans et trois mois pour les agents justifiant d'une durée d'assurance ayant donné lieu à cotisations à leur charge au moins égale à la durée nécessaire pour obtenir le pourcentage maximum de la pension prévue à l'article 31 du présent règlement et applicable l'année où l'assuré atteint l'âge précité majorée de huit trimestres et ayant débuté leur activité avant l'âge de seize ans ;
+2° A cinquante-neuf ans et quatre mois pour les agents justifiant d'une durée d'assurance cotisée au moins égale à la durée nécessaire pour obtenir le pourcentage maximum de la pension prévue à l'article 31 du présent règlement et applicable l'année où l'assuré atteint l'âge de soixante ans, majorée de quatre trimestres, et ayant débuté leur activité avant l'âge de seize ans ;
 
-2° A cinquante-neuf ans et trois mois pour les agents justifiant d'une durée d'assurance ayant donné lieu à cotisations à leur charge au moins égale à la durée nécessaire pour obtenir le pourcentage maximum de la pension prévue à l'article 31 du présent règlement et applicable l'année où l'assuré atteint l'âge précité majorée de quatre trimestres et ayant débuté leur activité avant l'âge de seize ans ;
+H. - Pour les agents nés en 1962 :
 
-3° A soixante ans pour les agents justifiant d'une durée d'assurance ayant donné lieu à cotisations à leur charge au moins égale à la durée nécessaire pour obtenir le pourcentage maximum de la pension prévue à l'article 31 du présent règlement et applicable l'année où l'assuré atteint l'âge précité et ayant débuté leur activité avant l'âge de dix-huit ans.
+1° A cinquante-sept ans pour les agents justifiant d'une durée d'assurance cotisée au moins égale à la durée nécessaire pour obtenir le pourcentage maximum de la pension prévue à l'article 31 du présent règlement et applicable l'année où l'assuré atteint l'âge de soixante ans, majorée de huit trimestres, et ayant débuté leur activité avant l'âge de seize ans ;
 
-VII.-Pour les agents nés en 1961 :
+2° A cinquante-neuf ans et huit mois pour les agents justifiant d'une durée d'assurance cotisée au moins égale à la durée nécessaire pour obtenir le pourcentage maximum de la pension prévue à l'article 31 du présent règlement et applicable l'année où l'assuré atteint l'âge de soixante ans et ayant débuté leur activité avant l'âge de seize ans ;
 
-1° A cinquante-sept ans et six mois pour les agents justifiant d'une durée d'assurance ayant donné lieu à cotisations à leur charge au moins égale à la durée nécessaire pour obtenir le pourcentage maximum de la pension prévue à l'article 31 du présent règlement et applicable l'année où l'assuré atteint l'âge précité majorée de huit trimestres et ayant débuté leur activité avant l'âge de seize ans ;
+I. - Pour les agents nés en 1963 :
 
-2° A cinquante-neuf ans et six mois pour les agents justifiant d'une durée d'assurance ayant donné lieu à cotisations à leur charge au moins égale à la durée nécessaire pour obtenir le pourcentage maximum de la pension prévue à l'article 31 du présent règlement et applicable l'année où l'assuré atteint l'âge précité majorée de quatre trimestres et ayant débuté leur activité avant l'âge de seize ans ;
+A cinquante-sept ans et quatre mois pour les agents justifiant d'une durée d'assurance cotisée au moins égale à la durée nécessaire pour obtenir le pourcentage maximum de la pension prévue à l'article 31 du présent règlement et applicable l'année où l'assuré atteint l'âge de soixante ans, majorée de huit trimestres, et ayant débuté leur activité avant l'âge de seize ans ;
 
-3° A soixante ans pour les agents justifiant d'une durée d'assurance ayant donné lieu à cotisations à leur charge au moins égale à la durée nécessaire pour obtenir le pourcentage maximum de la pension prévue à l'article 31 du présent règlement et applicable l'année où l'assuré atteint l'âge précité et ayant débuté leur activité avant l'âge de dix-huit ans.
+J. - Pour les agents nés en 1964 :
 
-VIII.-Pour les agents nés en 1962 :
+A cinquante-sept ans et huit mois pour les agents justifiant d'une durée d'assurance cotisée au moins égale à la durée nécessaire pour obtenir le pourcentage maximum de la pension prévue à l'article 31 du présent règlement et applicable l'année où l'assuré atteint l'âge de soixante ans, majorée de huit trimestres, et ayant débuté leur activité avant l'âge de seize ans ;
 
-1° A cinquante-sept ans et neuf mois pour les agents justifiant d'une durée d'assurance ayant donné lieu à cotisations à leur charge au moins égale à la durée nécessaire pour obtenir le pourcentage maximum de la pension prévue à l'article 31 du présent règlement et applicable l'année où l'assuré atteint l'âge précité majorée de huit trimestres et ayant débuté leur activité avant l'âge de seize ans ;
+K. - Pour les agents nés à compter du 1er janvier 1965 :
 
-2° A cinquante-neuf ans et neuf mois pour les agents justifiant d'une durée d'assurance ayant donné lieu à cotisations à leur charge au moins égale à la durée nécessaire pour obtenir le pourcentage maximum de la pension prévue à l'article 31 du présent règlement et applicable l'année où l'assuré atteint l'âge précité majorée de quatre trimestres et ayant débuté leur activité avant l'âge de seize ans ;
-
-3° A soixante ans pour les agents justifiant d'une durée d'assurance ayant donné lieu à cotisations à leur charge au moins égale à la durée nécessaire pour obtenir le pourcentage maximum de la pension prévue à l'article 31 du présent règlement et applicable l'année où l'assuré atteint l'âge précité et ayant débuté leur activité avant l'âge de dix-huit ans.
+A cinquante-huit ans pour les agents justifiant d'une durée d'assurance cotisée au moins égale à la durée nécessaire pour obtenir le pourcentage maximum de la pension prévue à l'article 31 du présent règlement et applicable l'année où l'assuré atteint l'âge de soixante ans, majorée de huit trimestres, et ayant débuté leur activité avant l'âge de seize ans.
 
 Article 69
 
-I.-Jusqu'au 1er juillet 2011, par dérogation au premier alinéa de l'article 31, le nombre de trimestres nécessaires pour obtenir le pourcentage maximum est fixé en fonction de la date à laquelle l'agent est susceptible de liquider sa pension en application de l'article 26 conformément au tableau suivant :
+I. - Jusqu'au 1er juillet 2011, par dérogation au premier alinéa de l'article 31, le nombre de trimestres nécessaires pour obtenir le pourcentage maximum est fixé en fonction de la date à laquelle l'agent est susceptible de liquider sa pension en application de l'article 26 conformément au tableau suivant :
 
 PERIODE AU COURS DE LAQUELLE
 
@@ -846,9 +838,9 @@ Jusqu'au 31 mars 2007
 
 |
 
-II.-A compter du 1er janvier 2012, la durée des services et bonifications nécessaire pour obtenir le pourcentage maximum, fixé en fonction de la date à laquelle l'agent est susceptible de liquider sa pension en application de l'article 26, est majorée d'un trimestre par semestre jusqu'à atteindre la durée de 166 trimestres au 1er juillet 2014.
+II. - A compter du 1er janvier 2012, la durée des services et bonifications nécessaire pour obtenir le pourcentage maximum, fixé en fonction de la date à laquelle l'agent est susceptible de liquider sa pension en application de l'article 26, est majorée d'un trimestre par semestre jusqu'à atteindre la durée de 166 trimestres au 1er juillet 2014.
 
-III.-A compter du 1er janvier 2018, la durée de services et bonifications est fixée à :
+III. - A compter du 1er janvier 2018, la durée de services et bonifications est fixée à :
 
 167 trimestres, pour les agents nés entre le 1er janvier 1958 et le 31 décembre 1960 ;
 
@@ -896,337 +888,225 @@ Jusqu'au 2e semestre 1948
 
 |
 
-Sans objet
+Sans objet |
 
-|
-
-Sans objet
-
-|
+Sans objet |
 
 1er semestre 1949
 
 |
 
-0,125 %
+0,125 % |
 
-|
-
-Lim. âge-3 trimestres
-
-|
+Lim. âge - 3 trimestres |
 
 2e semestre 1949
 
 |
 
-0,125 %
+0,125 % |
 
-|
-
-Lim. âge-3 trimestres
-
-|
+Lim. âge - 3 trimestres |
 
 1er semestre 1950
 
 |
 
-0,250 %
+0,250 % |
 
-|
-
-Lim. âge-3 trimestres
-
-|
+Lim. âge - 3 trimestres |
 
 2e semestre 1950
 
 |
 
-0,250 %
+0,250 % |
 
-|
-
-Lim. âge-3 trimestres
-
-|
+Lim. âge - 3 trimestres |
 
 1er semestre 1951
 
 |
 
-0,375 %
+0,375 % |
 
-|
-
-Lim. âge-3 trimestres
-
-|
+Lim. âge - 3 trimestres |
 
 2e semestre 1951
 
 |
 
-0,375 %
+0,375 % |
 
-|
-
-Lim. âge-3 trimestres
-
-|
+Lim. âge - 3 trimestres |
 
 1er semestre 1952
 
 |
 
-0,500 %
+0,500 % |
 
-|
-
-Lim. âge-4 trimestres
-
-|
+Lim. âge - 4 trimestres |
 
 2e semestre 1952
 
 |
 
-0,500 %
+0,500 % |
 
-|
-
-Lim. âge-4 trimestres
-
-|
+Lim. âge - 4 trimestres |
 
 1er semestre 1953
 
 |
 
-0,625 %
+0,625 % |
 
-|
-
-Lim. âge-5 trimestres
-
-|
+Lim. âge - 5 trimestres |
 
 2e semestre 1953
 
 |
 
-0,625 %
+0,625 % |
 
-|
-
-Lim. âge-5 trimestres
-
-|
+Lim. âge - 5 trimestres |
 
 1er semestre 1954
 
 |
 
-0,750 %
+0,750 % |
 
-|
-
-Lim. âge-6 trimestres
-
-|
+Lim. âge - 6 trimestres |
 
 2e semestre 1954
 
 |
 
-0,750 %
+0,750 % |
 
-|
-
-Lim. âge-6 trimestres
-
-|
+Lim. âge - 6 trimestres |
 
 1er semestre 1955
 
 |
 
-0,875 %
+0,875 % |
 
-|
-
-Lim. âge-7 trimestres
-
-|
+Lim. âge - 7 trimestres |
 
 2e semestre 1955
 
 |
 
-0,875 %
+0,875 % |
 
-|
-
-Lim. âge-7 trimestres
-
-|
+Lim. âge - 7 trimestres |
 
 1er semestre 1956
 
 |
 
-1,000 %
+1,000 % |
 
-|
-
-Lim. âge-7 trimestres
-
-|
+Lim. âge - 7 trimestres |
 
 2e semestre 1956
 
 |
 
-1,000 %
+1,000 % |
 
-|
-
-Lim. âge-6 trimestres
-
-|
+Lim. âge - 6 trimestres |
 
 1er semestre 1957
 
 |
 
-1,125 %
+1,125 % |
 
-|
-
-Lim. âge-6 trimestres
-
-|
+Lim. âge - 6 trimestres |
 
 2e semestre 1957
 
 |
 
-1,125 %
+1,125 % |
 
-|
-
-Lim. âge-5 trimestres
-
-|
+Lim. âge - 5 trimestres |
 
 1er semestre 1958
 
 |
 
-1,250 %
+1,250 % |
 
-|
-
-Lim. âge-5 trimestres
-
-|
+Lim. âge - 5 trimestres |
 
 2e semestre 1958
 
 |
 
-1,250 %
+1,250 % |
 
-|
-
-Lim. âge-4 trimestres
-
-|
+Lim. âge - 4 trimestres |
 
 1er semestre 1959
 
 |
 
-1,250 %
+1,250 % |
 
-|
-
-Lim. âge-4 trimestres
-
-|
+Lim. âge - 4 trimestres |
 
 2e semestre 1959
 
 |
 
-1,250 %
+1,250 % |
 
-|
-
-Lim. âge-3 trimestres
-
-|
+Lim. âge - 3 trimestres |
 
 1er semestre 1960
 
 |
 
-1,250 %
+1,250 % |
 
-|
-
-Lim. âge-3 trimestres
-
-|
+Lim. âge - 3 trimestres |
 
 2e semestre 1960
 
 |
 
-1,250 %
+1,250 % |
 
-|
-
-Lim. âge-2 trimestres
-
-|
+Lim. âge - 2 trimestres |
 
 1er semestre 1961
 
 |
 
-1,250 %
+1,250 % |
 
-|
-
-Lim. âge-2 trimestres
-
-|
+Lim. âge - 2 trimestres |
 
 2e semestre 1961
 
 |
 
-1,250 %
+1,250 % |
 
-|
-
-Lim. âge-1 trimestre
-
-|
+Lim. âge - 1 trimestre |
 
 1er semestre 1962
 
 |
 
-1,250 %
+1,250 % |
 
-|
-
-Lim. âge-1 trimestre
-
-|
+Lim. âge - 1 trimestre |
 
 Par dérogation aux dispositions du 1° de l'article 32, pour les personnels de direction à partir du quatrième degré nés avant le 1er janvier 1956, l'âge auquel s'annule le coefficient de minoration, exprimé par rapport à la limite d'âge, est fixé comme indiqué dans le tableau suivant :
 
@@ -1256,249 +1136,159 @@ Jusqu'au 2e semestre 1948
 
 |
 
-Sans objet
+Sans objet |
 
-|
+Sans objet |
 
-Sans objet
-
-|
-
-Sans objet
-
-|
+Sans objet |
 
 1er semestre 1949
 
 |
 
-Lim. âge-7 trimestres
+Lim. âge - 7 trimestres |
 
-|
+Lim. âge - 15 trimestres |
 
-Lim. âge-15 trimestres
-
-|
-
-Lim. âge-16 trimestres
-
-|
+Lim. âge - 16 trimestres |
 
 2e semestre 1949
 
 |
 
-Lim. âge-7 trimestres
+Lim. âge - 7 trimestres |
 
-|
+Lim. âge - 15 trimestres |
 
-Lim. âge-15 trimestres
-
-|
-
-Lim. âge-15 trimestres
-
-|
+Lim. âge - 15 trimestres |
 
 1er semestre 1950
 
 |
 
-Lim. âge-7 trimestres
+Lim. âge - 7 trimestres |
 
-|
+Lim. âge - 14 trimestres |
 
-Lim. âge-14 trimestres
-
-|
-
-Lim. âge-14 trimestres
-
-|
+Lim. âge - 14 trimestres |
 
 2e semestre 1950
 
 |
 
-Lim. âge-7 trimestres
+Lim. âge - 7 trimestres |
 
-|
+Lim. âge - 13 trimestres |
 
-Lim. âge-13 trimestres
-
-|
-
-Lim. âge-13 trimestres
-
-|
+Lim. âge - 13 trimestres |
 
 1er semestre 1951
 
 |
 
-Lim. âge-7 trimestres
+Lim. âge - 7 trimestres |
 
-|
+Lim. âge - 12 trimestres |
 
-Lim. âge-12 trimestres
-
-|
-
-Lim. âge-12 trimestres
-
-|
+Lim. âge - 12 trimestres |
 
 2e semestre 1951
 
 |
 
-Lim. âge-7 trimestres
+Lim. âge - 7 trimestres |
 
-|
+Lim. âge - 11 trimestres |
 
-Lim. âge-11 trimestres
-
-|
-
-Lim. âge-11 trimestres
-
-|
+Lim. âge - 11 trimestres |
 
 1er semestre 1952
 
 |
 
-Lim. âge-8 trimestres
+Lim. âge - 8 trimestres |
 
-|
+Lim. âge - 11 trimestres |
 
-Lim. âge-11 trimestres
-
-|
-
-Lim. âge-11 trimestres
-
-|
+Lim. âge - 11 trimestres |
 
 2e semestre 1952
 
 |
 
-Lim. âge-8 trimestres
+Lim. âge - 8 trimestres |
 
-|
+Lim. âge - 10 trimestres |
 
-Lim. âge-10 trimestres
-
-|
-
-Lim. âge-10 trimestres
-
-|
+Lim. âge - 10 trimestres |
 
 1er semestre 1953
 
 |
 
-Lim. âge-9 trimestres
+Lim. âge - 9 trimestres |
 
-|
+Lim. âge - 10 trimestres |
 
-Lim. âge-10 trimestres
-
-|
-
-Lim. âge-10 trimestres
-
-|
+Lim. âge - 10 trimestres |
 
 2e semestre 1953
 
 |
 
-Lim. âge-9 trimestres
+Lim. âge - 9 trimestres |
 
-|
+Lim. âge - 9 trimestres |
 
-Lim. âge-9 trimestres
-
-|
-
-Lim. âge-9 trimestres
-
-|
+Lim. âge - 9 trimestres |
 
 1er semestre 1954
 
 |
 
-Lim. âge-9 trimestres
+Lim. âge - 9 trimestres |
 
-|
+Lim. âge - 9 trimestres |
 
-Lim. âge-9 trimestres
-
-|
-
-Lim. âge-9 trimestres
-
-|
+Lim. âge - 9 trimestres |
 
 2e semestre 1954
 
 |
 
-Lim. âge-8 trimestres
+Lim. âge - 8 trimestres |
 
-|
+Lim. âge - 8 trimestres |
 
-Lim. âge-8 trimestres
-
-|
-
-Lim. âge-8 trimestres
-
-|
+Lim. âge - 8 trimestres |
 
 1er semestre 1955
 
 |
 
-Lim. âge-8 trimestres
+Lim. âge - 8 trimestres |
 
-|
+Lim. âge - 8 trimestres |
 
-Lim. âge-8 trimestres
-
-|
-
-Lim. âge-8 trimestres
-
-|
+Lim. âge - 8 trimestres |
 
 2e semestre 1955
 
 |
 
-Lim. âge-7 trimestres
+Lim. âge - 7 trimestres |
 
-|
+Lim. âge - 7 trimestres |
 
-Lim. âge-7 trimestres
-
-|
-
-Lim. âge-7 trimestres
-
-|
+Lim. âge - 7 trimestres |
 
 Pour les agents appartenant à une des catégories visées au quatrième alinéa de l'article 26, l'âge visé au 2° est minoré de 20 trimestres.
 
 Article 71
 
-I.-Les pensions portées au minimum garanti avant l'entrée en vigueur du présent règlement sont revalorisées dans les conditions de l'article 61 à compter de l'année qui suit cette entrée en vigueur.
+I. - Les pensions portées au minimum garanti avant l'entrée en vigueur du présent règlement sont revalorisées dans les conditions de l'article 61 à compter de l'année qui suit cette entrée en vigueur.
 
-II.-Jusqu'au 31 décembre 2016, les dispositions présentées dans le tableau suivant sont applicables, par dérogation aux a et b de l'article 34, et le montant qui en résulte sert, le cas échéant, de référence pour l'application du c du même article.
+II. - Jusqu'au 31 décembre 2016, les dispositions présentées dans le tableau suivant sont applicables, par dérogation aux a et b de l'article 34, et le montant qui en résulte sert, le cas échéant, de référence pour l'application du c du même article.
 
 POUR LES PENSIONS
 
@@ -1564,11 +1354,11 @@ jusqu'à 40 années, de :
 
 |
 
-59,70 %
+59, 70 %
 
 |
 
-3,85 points
+3, 85 points
 
 |
 
@@ -1576,7 +1366,7 @@ jusqu'à 40 années, de :
 
 |
 
-0,05 point
+0, 05 point
 
 |
 
@@ -1584,11 +1374,11 @@ jusqu'à 40 années, de :
 
 |
 
-59,40 %
+59, 40 %
 
 |
 
-3,70 points
+3, 70 points
 
 |
 
@@ -1596,7 +1386,7 @@ jusqu'à 40 années, de :
 
 |
 
-0,10 point
+0, 10 point
 
 |
 
@@ -1604,11 +1394,11 @@ jusqu'à 40 années, de :
 
 |
 
-59,10 %
+59, 10 %
 
 |
 
-3,55 points
+3, 55 points
 
 |
 
@@ -1616,7 +1406,7 @@ jusqu'à 40 années, de :
 
 |
 
-0,15 point
+0, 15 point
 
 |
 
@@ -1624,11 +1414,11 @@ jusqu'à 40 années, de :
 
 |
 
-58,80 %
+58, 80 %
 
 |
 
-3,40 points
+3, 40 points
 
 |
 
@@ -1636,7 +1426,7 @@ jusqu'à 40 années, de :
 
 |
 
-0,20 point
+0, 20 point
 
 |
 
@@ -1644,11 +1434,11 @@ jusqu'à 40 années, de :
 
 |
 
-58,50 %
+58, 50 %
 
 |
 
-3,25 points
+3, 25 points
 
 |
 
@@ -1656,7 +1446,7 @@ jusqu'à 40 années, de :
 
 |
 
-0,25 point
+0, 25 point
 
 |
 
@@ -1664,7 +1454,7 @@ jusqu'à 40 années, de :
 
 |
 
-58,20 %
+58, 20 %
 
 |
 
@@ -1676,7 +1466,7 @@ jusqu'à 40 années, de :
 
 |
 
-0,30 point
+0, 30 point
 
 |
 
@@ -1684,11 +1474,11 @@ jusqu'à 40 années, de :
 
 |
 
-57,90 %
+57, 90 %
 
 |
 
-2,95 points
+2, 95 points
 
 |
 
@@ -1696,7 +1486,7 @@ jusqu'à 40 années, de :
 
 |
 
-0,35 point
+0, 35 point
 
 |
 
@@ -1704,11 +1494,11 @@ jusqu'à 40 années, de :
 
 |
 
-57,60 %
+57, 60 %
 
 |
 
-2,80 points
+2, 80 points
 
 |
 
@@ -1716,7 +1506,7 @@ jusqu'à 40 années, de :
 
 |
 
-0,40 point
+0, 40 point
 
 |
 
@@ -1724,11 +1514,11 @@ jusqu'à 40 années, de :
 
 |
 
-57,50 %
+57, 50 %
 
 |
 
-2,65 points
+2, 65 points
 
 |
 
@@ -1736,13 +1526,13 @@ jusqu'à 40 années, de :
 
 |
 
-0,45 point
+0, 45 point
 
 |
 
 Article 72
 
-I.-1° L'âge d'ouverture du droit à pension de soixante-deux ans mentionné aux troisième et dixième alinéas de l'article 26 s'applique aux agents nés à compter du 1er juillet 1959. Pour les agents nés antérieurement à cette date, cet âge est abaissé :
+I. - 1° L'âge d'ouverture du droit à pension de soixante-deux ans mentionné aux troisième et dixième alinéas de l'article 26 s'applique aux agents nés à compter du 1er juillet 1959 . Pour les agents nés antérieurement à cette date, cet âge est abaissé :
 
 a) A soixante ans pour les agents nés avant le 1er janvier 1956 ;
 
@@ -1790,9 +1580,9 @@ c) Pour l'application des articles 32 et 70 aux agents visés au premier alinéa
 
 d) La Banque de France informe, avant le 1er janvier 2015, les agents ayant accompli quinze années de services effectifs et parents de trois enfants vivants ou décédés pour faits de guerre du changement des règles de départ anticipé à la retraite.
 
-II.-L'âge de soixante ans mentionné aux premier et deuxième alinéas de l'article 33, dans leur rédaction antérieure à l'entrée en vigueur du décret n° 2012-701 du 7 mai 2012 relatif au régime spécial de retraite des agents titulaires de la Banque de France, évolue jusqu'à atteindre l'âge de soixante-deux ans mentionné au troisième alinéa de l'article 26 dans les conditions fixées par le 1° du I du présent article.
+II. - L'âge de soixante ans mentionné aux premier et deuxième alinéas de l'article 33, dans leur rédaction antérieure à l'entrée en vigueur du décret n° 2012-701 du 7 mai 2012 relatif au régime spécial de retraite des agents titulaires de la Banque de France, évolue jusqu'à atteindre l'âge de soixante-deux ans mentionné au troisième alinéa de l'article 26 dans les conditions fixées par le 1° du I du présent article.
 
-III.-A titre transitoire, l'âge mentionné au premier alinéa de l'article 34, auquel s'annule le coefficient de minoration prévu à l'article 32 et à l'article 70, est minoré pour l'application du premier alinéa de l'article 34 d'un nombre de trimestres fixé comme indiqué dans le tableau suivant :
+III. - A titre transitoire, l'âge mentionné au premier alinéa de l'article 34, auquel s'annule le coefficient de minoration prévu à l'article 32 et à l'article 70, est minoré pour l'application du premier alinéa de l'article 34 d'un nombre de trimestres fixé comme indiqué dans le tableau suivant :
 
 ANNÉE AU COURS
 
@@ -1814,60 +1604,38 @@ de l'article 34
 
 |
 
-2016
+2016 |
 
-|
+9 trimestres |
 
-9 trimestres
+2017 |
 
-|
+7 trimestres |
 
-2017
+2018 |
 
-|
+5 trimestres |
 
-7 trimestres
+2019 |
 
-|
+3 trimestres |
 
-2018
+2020 |
 
-|
-
-5 trimestres
-
-|
-
-2019
-
-|
-
-3 trimestres
-
-|
-
-2020
-
-|
-
-1 trimestre
-
-|
-
-(1) Applicable aux pensions prenant effet au 1er janvier 2016.
-
-(2) Les dispositions sont applicables aux pensions, rentes et majorations dues à compter du mois d'avril 2014 ainsi qu'aux rémunérations et indices servant à leur calcul.
+1 trimestre |
 
 NOTA :
 
-Décret n° 2012-701 du 7 mai 2012, art. 41 :
+Décret n° 2012-701 du 7 mai 2012, art. 41 : I. - Les dispositions des articles 21, 22, 24 et 25 ainsi que celles des 2° et 3° de l'article 26 du présent décret sont applicables aux pensions prenant effet à compter du 1er janvier 2016
 
-I. - Les dispositions des articles 21, 22, 24 et 25 ainsi que celles des 2° et 3° de l'article 26 du présent décret sont applicables aux pensions prenant effet à compter du 1er janvier 2016.
+.
 
-II. - L'article 6 du présent décret est applicable aux agents radiés des cadres à compter du 1er janvier 2012.
+II. - L'article 6 du présent décret est applicable aux agents radiés des cadres à compter du 1er janvier 2012
 
-III. - Les dispositions de l'article 20 et de l'article 35 du présent décret sont applicables aux pensions prenant effet à compter du 1er janvier 2016.
+.
+
+III. - Les dispositions de l'article 20 et de l'article 35 du présent décret sont applicables aux pensions prenant effet à compter du 1er janvier 2016
+
+.
 
 IV. - Les dispositions de l'article 27 du présent décret et du III de l'article 72 du règlement annexé au décret du 27 février 2007 susvisé, issues de l'article 38 du présent décret, s'appliquent aux pensions prenant effet à compter du 1er janvier 2016. Toutefois, les agents qui ont atteint, avant cette date, l'âge de liquidation qui leur est applicable en vertu du a de l'article 26 et du premier alinéa de l'article 28 du règlement annexé au décret du 27 février 2007 susvisé, dans leur rédaction antérieure à l'entrée en vigueur du présent décret, conservent le bénéfice des dispositions de l'article 34 du règlement annexé au décret du 27 février 2007 susvisé dans leur rédaction antérieure à l'entrée en vigueur du présent décret.
-
-Conformément au décret n° 2014-1531 du 17 décembre 2014 article 13 I, ces dispositions s'appliquent aux modalités de calcul des cotisations de sécurité sociale dues au titre des rémunérations versées à compter du 1er janvier 2015.
