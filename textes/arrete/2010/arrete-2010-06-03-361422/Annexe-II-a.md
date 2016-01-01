@@ -4,43 +4,43 @@ Règlement d'examen
 
 Unités constitutives d'enseignement général
 
-Unité U11 - épreuve E1 - Économie-droit
+Unité U11-épreuve E1-Économie-droit
 
 L'unité est définie au regard des capacités et compétences mentionnées dans l'arrêté fixant les programmes d'enseignement d'économie-droit pour les classes préparatoires au baccalauréat professionnel.
 
-Unité U12 - épreuve E1 - Mathématiques
+Unité U12-épreuve E1-Mathématiques
 
 L'unité de mathématiques englobe l'ensemble des objectifs, capacités, compétences et savoir-faire mentionnés dans l'arrêté du 10 février 2009 fixant notamment le programme d'enseignement de mathématiques pour les classes préparatoires au baccalauréat professionnel (BOEN spécial n° 2 du 19 février 2009).
 
-Unité U33 - épreuve E3 - Prévention-santé-environnement
+Unité U33-épreuve E3-Prévention-santé-environnement
 
 L'unité englobe l'ensemble des connaissances et capacités mentionnées dans l'arrêté du 10 février 2009 fixant le programme d'enseignement de prévention-santé-environnement pour les classes préparatoires au baccalauréat professionnel (BOEN spécial n° 2 du 19 février 2009).
 
-Unité U41 - épreuve E4 - Langue vivante 1
+Unité U41-épreuve E4-Langue vivante 1
 
 L'unité englobe l'ensemble des objectifs, capacités et compétences énumérés dans l'arrêté du 10 février 2009 fixant le programme d'enseignement de langues vivantes étrangères pour les classes préparatoires au certificat d'aptitude professionnelle et pour les classes préparatoires au baccalauréat professionnel (BOEN spécial n° 2 du 19 février 2009).
 
-Unité U42 - épreuve E4 - Langue vivante 2
+Unité U42-épreuve E4-Langue vivante 2
 
 L'unité englobe l'ensemble des objectifs, capacités et compétences énumérés dans l'arrêté du 10 février 2009 fixant le programme d'enseignement de langues vivantes étrangères pour les classes préparatoires au certificat d'aptitude professionnelle et pour les classes préparatoires au baccalauréat professionnel (BOEN spécial n° 2 du 19 février 2009).
 
-Unité U51 - épreuve E5 - Français
+Unité U51-épreuve E5-Français
 
 L'unité est définie par les compétences établies par l'arrêté du 10 février 2009 fixant le programme de français pour les classes préparatoires au baccalauréat professionnel (BOEN spécial n° 2 du 19 février 2009).
 
-Unité U52 - épreuve E5 - Histoire, géographie et éducation civique
+Unité U52-épreuve E5-Histoire, géographie et enseignement moral et civique
 
 L'unité est définie par les compétences établies par l'arrêté du 10 février 2009 fixant le programme d'enseignement de l'histoire et de la géographie pour les classes préparatoires au baccalauréat professionnel (BOEN spécial n° 2 du 19 février 2009).
 
-Unité U6 - épreuve E6 - Arts appliqués et cultures artistiques
+Unité U6-épreuve E6-Arts appliqués et cultures artistiques
 
 L'unité englobe l'ensemble des capacités et compétences énumérées par l'arrêté du 10 février 2009 fixant le programme d'enseignement d'arts appliqués et cultures artistiques pour les classes préparatoires au baccalauréat professionnel (BOEN spécial n° 2 du 19 février 2009).
 
-Unité U7 - épreuve E7 - Éducation physique et sportive
+Unité U7-épreuve E7-Éducation physique et sportive
 
 L'unité englobe l'ensemble des objectifs, capacités et compétences énumérés par l'arrêté du 10 février 2009 fixant le programme d'éducation physique et sportive pour les classes préparatoires au certificat d'aptitude professionnelle et pour les classes préparatoires au baccalauréat professionnel.
 
-Unité UF1 - épreuve EF - Langue vivante
+Unité UF1-épreuve EF-Langue vivante
 
 L'épreuve a pour but de vérifier la capacité du candidat à comprendre une langue vivante parlée et la capacité de s'exprimer de manière intelligible pour un interlocuteur n'exigeant pas de particularités linguistiques excessives sur un sujet d'intérêt général.
 
@@ -464,7 +464,7 @@ CCF
 
 |
 
-E5 Épreuve de français, histoire géographie et éducation civique
+E5 Épreuve de français, histoire géographie et enseignement moral et civique
 
 |
 
@@ -520,7 +520,7 @@ CCF
 
 |
 
-Sous-épreuve E52 : Histoire géographie et éducation civique
+Sous-épreuve E52 : Histoire géographie et enseignement moral et civique
 
 |
 

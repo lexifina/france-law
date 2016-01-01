@@ -74,11 +74,11 @@ Durée
 
 |
 
-E1 - Épreuve scientifique et technique
+E1-Épreuve scientifique et technique
 
 |
 
-U.1
+U. 1
 
 |
 
@@ -88,43 +88,11 @@ U.1
 
 |
 
-E11 - Sous-épreuve de technologie
+E11-Sous-épreuve de technologie
 
 |
 
-U.11
-
-|
-
-2
-
-|
-
-CCF écrit (1)
-
-|
-
-|
-
-ponctuel écrit
-
-|
-
-1 h (1)
-
-|
-
-CCF écrit (1)
-
-|
-
-|
-
-E12 - Sous-épreuve de sciences appliquées
-
-|
-
-U.12
+U. 11
 
 |
 
@@ -152,11 +120,43 @@ CCF écrit (1)
 
 |
 
-E13 - Sous-épreuve de mathématiques
+E12-Sous-épreuve de sciences appliquées
 
 |
 
-U.13
+U. 12
+
+|
+
+2
+
+|
+
+CCF écrit (1)
+
+|
+
+|
+
+ponctuel écrit
+
+|
+
+1 h (1)
+
+|
+
+CCF écrit (1)
+
+|
+
+|
+
+E13-Sous-épreuve de mathématiques
+
+|
+
+U. 13
 
 |
 
@@ -184,11 +184,11 @@ CCF écrit
 
 |
 
-E2 - Épreuve de gestion et de dossier professionnel
+E2-Épreuve de gestion et de dossier professionnel
 
 |
 
-U.2
+U. 2
 
 |
 
@@ -208,11 +208,11 @@ U.2
 
 |
 
-E21 - Sous-épreuve de gestion appliquée
+E21-Sous-épreuve de gestion appliquée
 
 |
 
-U.21
+U. 21
 
 |
 
@@ -240,11 +240,11 @@ CCF écrit (1)
 
 |
 
-E22 - Sous-épreuve de présentation du dossier professionnel
+E22-Sous-épreuve de présentation du dossier professionnel
 
 |
 
-U.22
+U. 22
 
 |
 
@@ -272,11 +272,11 @@ CCF oral
 
 |
 
-E.3 - Épreuve professionnelle
+E. 3-Épreuve professionnelle
 
 |
 
-U.3
+U. 3
 
 |
 
@@ -286,11 +286,11 @@ U.3
 
 |
 
-E31 - Sous-épreuve de pratique professionnelle
+E31-Sous-épreuve de pratique professionnelle
 
 |
 
-U.31
+U. 31
 
 |
 
@@ -318,11 +318,11 @@ CCF écrit et pratique
 
 |
 
-E32 - Sous-épreuve de prévention-santé-environnement
+E32-Sous-épreuve de prévention-santé-environnement
 
 |
 
-U.32
+U. 32
 
 |
 
@@ -350,11 +350,11 @@ CCF
 
 |
 
-E.4 - Épreuve d'anglais
+E. 4-Épreuve d'anglais
 
 |
 
-U.4
+U. 4
 
 |
 
@@ -382,11 +382,11 @@ CCF
 
 |
 
-E.5 - Épreuve de français-histoire-géographie-éducation civique
+E. 5-Épreuve de français-histoire-géographie- enseignement moral et civique
 
 |
 
-U.5
+U. 5
 
 |
 
@@ -396,11 +396,11 @@ U.5
 
 |
 
-E51 - Sous-épreuve de français
+E51-Sous-épreuve de français
 
 |
 
-U.51
+U. 51
 
 |
 
@@ -430,11 +430,11 @@ CCF
 
 |
 
-E52 - Sous-épreuve d'histoire-géographie-éducation civique
+E52-Sous-épreuve d'histoire-géographie- enseignement moral et civique
 
 |
 
-U.52
+U. 52
 
 |
 
@@ -464,11 +464,11 @@ CCF
 
 |
 
-E.6 - Épreuve d'éducation artistique, arts appliqués
+E. 6-Épreuve d'éducation artistique, arts appliqués
 
 |
 
-U.6
+U. 6
 
 |
 
@@ -496,11 +496,11 @@ CCF
 
 |
 
-E.7 - Épreuve d'éducation physique et sportive
+E. 7-Épreuve d'éducation physique et sportive
 
 |
 
-U.7
+U. 7
 
 |
 

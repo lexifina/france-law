@@ -104,7 +104,7 @@ Durée
 
 |
 
-E1- Épreuve scientifique et technique
+E1-Épreuve scientifique et technique
 
 |
 
@@ -170,7 +170,7 @@ U12
 
 |
 
-1 ,5
+1,5
 
 |
 
@@ -194,7 +194,7 @@ CCF
 
 |
 
-E2- Épreuve technologique :
+E2-Épreuve technologique :
 
 Etude de cas : Préparation et analyse d'une activité de transport fluvial
 
@@ -230,7 +230,7 @@ CCF
 
 |
 
-E3- Épreuve prenant en compte la formation en entreprise
+E3-Épreuve prenant en compte la formation en entreprise
 
 |
 
@@ -380,7 +380,7 @@ CCF
 
 |
 
-Sous-épreuve E35 : Prévention- santé-environnement
+Sous-épreuve E35 : Prévention-santé-environnement
 
 |
 
@@ -410,7 +410,7 @@ CCF
 
 |
 
-E4- Épreuve de langue vivante :
+E4-Épreuve de langue vivante :
 
 |
 
@@ -440,7 +440,7 @@ CCF
 
 |
 
-E5- Épreuve de français - histoire - géographie et éducation civique
+E5-Épreuve de français-histoire-géographie et enseignement moral et civique
 
 Sous-épreuve E51 : Français
 
@@ -478,7 +478,7 @@ CCF
 
 |
 
-Sous-épreuve E52 : Histoire-géographie et éducation civique
+Sous-épreuve E52 : Histoire-géographie et enseignement moral et civique
 
 |
 
@@ -512,7 +512,7 @@ CCF
 
 |
 
-E6- Épreuve d'arts appliqués et cultures artistiques
+E6-Épreuve d'arts appliqués et cultures artistiques
 
 |
 
@@ -542,7 +542,7 @@ CCF
 
 |
 
-E7- Épreuve d'éducation physique et sportive
+E7-Épreuve d'éducation physique et sportive
 
 |
 

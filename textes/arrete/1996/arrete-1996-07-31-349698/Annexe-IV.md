@@ -62,7 +62,7 @@ Durée
 
 |
 
-Épreuve E1 - épreuve d'économie-droit et de mathématiques
+Épreuve E1-épreuve d'économie-droit et de mathématiques
 
 |
 
@@ -180,7 +180,7 @@ CCF
 
 |
 
-Épreuve E2 - épreuve à caractère professionnel
+Épreuve E2-épreuve à caractère professionnel
 
 |
 
@@ -270,7 +270,7 @@ CCF
 
 |
 
-Épreuve E3 - épreuve de pratique professionnelle
+Épreuve E3-épreuve de pratique professionnelle
 
 |
 
@@ -414,7 +414,7 @@ de la formation professionnelle continue dans un établissement public habilité
 
 |
 
-Épreuve E4 - langue vivante
+Épreuve E4-langue vivante
 
 |
 
@@ -500,7 +500,7 @@ CCF
 
 |
 
-Épreuve E5 - Français, Histoire, Géographie et éducation civique
+Épreuve E5-Français, Histoire, Géographie et enseignement moral et civique
 
 |
 
@@ -556,7 +556,7 @@ CCF
 
 |
 
-Sous-épreuve B histoire - géographie et éducation civique
+Sous-épreuve B histoire-géographie et enseignement moral et civique
 
 |
 
@@ -590,7 +590,7 @@ CCF
 
 |
 
-Épreuve E6 - arts appliqués et cultures artistiques
+Épreuve E6-arts appliqués et cultures artistiques
 
 |
 
@@ -622,7 +622,7 @@ CCF
 
 |
 
-Épreuve E7 - éducation physique et sportive
+Épreuve E7-éducation physique et sportive
 
 |
 

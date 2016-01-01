@@ -4,7 +4,7 @@ Règlement d'examen
 
 BACCALAURÉAT PROFESSIONNEL
 
-"gestion-administration"
+" gestion-administration "
 
 |
 
@@ -60,7 +60,7 @@ Mode
 
 |
 
-E1 - Épreuve scientifique et technique
+E1-Épreuve scientifique et technique
 
 |
 
@@ -134,7 +134,7 @@ CCF
 
 |
 
-E2 - Gestion administrative des relations avec le personnel
+E2-Gestion administrative des relations avec le personnel
 
 |
 
@@ -166,7 +166,7 @@ CCF
 
 |
 
-E3 - Pratiques professionnelles de gestion administrative Épreuve prenant en compte la formation en milieu professionnel
+E3-Pratiques professionnelles de gestion administrative Épreuve prenant en compte la formation en milieu professionnel
 
 |
 
@@ -296,7 +296,7 @@ CCF
 
 |
 
-E4 - Épreuve de langue vivante
+E4-Épreuve de langue vivante
 
 |
 
@@ -372,7 +372,7 @@ CCF
 
 |
 
-E5 - Épreuve de français et histoire-géographie-éducation civique
+E5-Épreuve de français et histoire-géographie- enseignement moral et civique
 
 |
 
@@ -422,7 +422,7 @@ CCF
 
 |
 
-Sous-épreuve E52 : histoire-géographie-éducation civique
+Sous-épreuve E52 : histoire-géographie- enseignement moral et civique
 
 |
 
@@ -454,7 +454,7 @@ CCF
 
 |
 
-E6 - Épreuve d'arts appliqués et cultures artistiques
+E6-Épreuve d'arts appliqués et cultures artistiques
 
 |
 
@@ -482,7 +482,7 @@ CCF
 
 |
 
-E7 - Épreuve d'éducation physique et sportive
+E7-Épreuve d'éducation physique et sportive
 
 |
 

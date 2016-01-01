@@ -2,7 +2,7 @@
 
 Définition des épreuves
 
-Épreuve E1 - Épreuve scientifique et technique - unités U11 - U12 - U13 - coefficient 6
+fÉpreuve E1 - Épreuve scientifique et technique - unités U11 - U12 - U13 - coefficient 6
 
 Sous-épreuve E11 - Étude d'un produit de communication visuelle - unité U11 - coefficient 3
 
@@ -1192,7 +1192,7 @@ Pour chaque candidat, le professeur établit son évaluation à partir de la fic
 
 La proposition de note attribuée à l'unité langue vivante du diplôme du baccalauréat professionnel est constituée de la moyenne des notes obtenues à chacune des composantes de l'épreuve. Elle est, le cas échéant, arrondie au demi-point le plus proche. La note finale est arrêtée par le jury.
 
-Épreuve E5 - Épreuve de français et histoire-géographie et éducation civique - unité U51 - U52 - coefficient 5
+Épreuve E5 - Épreuve de français et histoire-géographie et enseignement moral et civique - unité U51 - U52 - coefficient 5
 
 Sous-épreuve E 51 - Français - unité U51 - coefficient 2,5
 
@@ -1240,25 +1240,25 @@ Lors de la situation d'évaluation, un sujet est proposé aux candidats ; ce suj
 
 Le candidat répond à cette question en une quarantaine de lignes et de façon argumentée.
 
-Sous-épreuve E52 - Histoire-géographie et éducation civique - unité U52 - coefficient 2,5
+Sous-épreuve E52 - Histoire-géographie et enseignement moral et civique - unité U52 - coefficient 2,5
 
 Évaluation ponctuelle - épreuve écrite - durée 2 heures
 
-L'examen de baccalauréat professionnel évalue la maîtrise des savoirs et des capacités en histoire- géographie et éducation civique définis dans les programmes de la classe de terminale professionnelle.
+L'examen de baccalauréat professionnel évalue la maîtrise des savoirs et des capacités en histoire- géographie et enseignement moral et civique définis dans les programmes de la classe de terminale professionnelle.
 
 L'épreuve, d'une durée de deux heures, comporte trois parties, notées respectivement 9, 4 et 7 points.
 
 La première partie porte sur les sujets d'étude, soit d'histoire soit de géographie. Elle propose deux sujets au choix. Chaque sujet est composé d'une ou plusieurs questions et peut comporter un support documentaire.
 
-La deuxième partie porte sur le programme d'éducation civique. Elle est composée d'une question et peut comporter un support documentaire.
+La deuxième partie porte sur le programme d'enseignement moral et civique. Elle est composée d'une question et peut comporter un support documentaire.
 
 La troisième partie porte sur la discipline qui n'est pas l'objet de la première partie. Elle consiste en une analyse de document (s) portant sur les situations d'un des sujets d'étude.
 
 Évaluation par contrôle en cours de formation - durée indicative 2 heures
 
-Le contrôle en cours de formation évalue la maîtrise des savoirs et des capacités en histoire, géographie et éducation civique définis dans les programmes de la classe de terminale professionnelle. Il est constitué de deux situations d'évaluation.
+Le contrôle en cours de formation évalue la maîtrise des savoirs et des capacités en histoire, géographie et enseignement moral et civique définis dans les programmes de la classe de terminale professionnelle. Il est constitué de deux situations d'évaluation.
 
-La première situation porte sur les sujets d'étude soit d'histoire soit de géographie. Elle est composée d'une ou plusieurs questions et peut comporter un support documentaire. Une des questions doit avoir une connotation civique en rapport avec le programme d'éducation civique.
+La première situation porte sur les sujets d'étude soit d'histoire soit de géographie. Elle est composée d'une ou plusieurs questions et peut comporter un support documentaire. Une des questions doit avoir une connotation civique en rapport avec le programme d'enseignement moral et civique.
 
 La deuxième situation porte sur la discipline qui n'a pas été l'objet de la première épreuve. Elle consiste en une analyse de document(s). Elle porte sur les situations d'un des sujets d'étude.
 

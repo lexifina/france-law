@@ -4,7 +4,7 @@ Règlement d'examen
 
 Baccalauréat professionnel
 
-"accompagnement, soins et services à la personne "
+" accompagnement, soins et services à la personne "
 
 Option : à domicile
 
@@ -192,7 +192,7 @@ CCF
 
 E2 : Épreuve technologique
 
-Analyse de situation(s) professionnelle(s)
+Analyse de situation (s) professionnelle (s)
 
 |
 
@@ -446,7 +446,7 @@ CCF
 
 |
 
-E5 : Épreuve de français, histoire-géographie et éducation civique
+E5 : Épreuve de français, histoire-géographie et enseignement moral et civique
 
 Sous-épreuve E51 : Français
 
@@ -484,7 +484,7 @@ CCF
 
 |
 
-Sous-épreuve E52 : Histoire-géographie et éducation civique
+Sous-épreuve E52 : Histoire-géographie et enseignement moral et civique
 
 |
 
@@ -624,9 +624,9 @@ Ponctuel oral
 
 Baccalauréat professionnel
 
-"accompagnement, soins et services à la personne"
+" accompagnement, soins et services à la personne "
 
-Option : "en structure"
+Option : " en structure "
 
 |
 
@@ -812,7 +812,7 @@ CCF
 
 E2 : Épreuve technologique
 
-Analyse de situation(s) professionnelle(s)
+Analyse de situation (s) professionnelle (s)
 
 |
 
@@ -1066,7 +1066,7 @@ CCF
 
 |
 
-E5 : Épreuve de français, histoire-géographie et éducation civique
+E5 : Épreuve de français, histoire-géographie et enseignement moral et civique
 
 Sous-épreuve E51 : Français
 
@@ -1104,7 +1104,7 @@ CCF
 
 |
 
-Sous-épreuve E52 : Histoire-géographie et éducation civique
+Sous-épreuve E52 : Histoire-géographie et enseignement moral et civique
 
 |
 
@@ -1241,3 +1241,7 @@ Ponctuel oral
 (1) Dont 5 minutes de préparation.
 
 (2) La langue vivante choisie au titre de l'épreuve facultative est obligatoirement différente de celle choisie au titre de l'épreuve obligatoire. Seuls les points excédant 10 sont pris en compte pour le calcul de la moyenne générale en vue de l'obtention du diplôme et de l'attribution d'une mention.
+
+NOTA :
+
+Conformément à l’article 8 de l’arrêté du 2 février 2022, ces dispositions s’appliquent à l'issue de la dernière session d’examen qui aura lieu en 2024.

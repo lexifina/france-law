@@ -14,11 +14,11 @@ Coefficient 3
 
 |
 
-U11 - U12
+U11-U12
 
 |
 
-Sous-épreuve - E 11
+Sous-épreuve-E 11
 
 |
 
@@ -50,7 +50,7 @@ La sous-épreuve de mathématiques est destinée à évaluer la façon dont les 
 
 Modes d'évaluation
 
-A - Contrôle en Cours de Formation
+A-Contrôle en Cours de Formation
 
 Le contrôle en cours de formation comporte une situation d'évaluation, notée sur 20, d'une durée maximale d'une heure trente fractionnée dans le temps en deux séquences. Chaque séquence, notée sur 10, a une durée de quarante-cinq minutes environ.
 
@@ -72,11 +72,11 @@ Il s'agit d'évaluer les aptitudes à mobiliser les connaissances et compétence
 
 Chaque séquence comporte un ou deux exercices avec des questions de difficulté progressive. Les sujets portent principalement sur les domaines mathématiques les plus utiles pour résoudre un problème en liaison avec la physique, la chimie, un secteur professionnel ou la vie courante. Lorsque la situation s'appuie sur d'autres disciplines, aucune connaissance relative à ces disciplines n'est exigible des candidats et toutes les indications utiles doivent être fournies dans l'énoncé.
 
-L'un des exercices de chaque séquence comporte une ou deux questions dont la résolution nécessite l'utilisation de logiciels ou de calculatrices par les candidats. La présentation de la résolution de la (des) question(s) utilisant les TIC se fait en présence de l'examinateur. Ce type de questions permet d'évaluer les capacités à expérimenter, à simuler, à émettre des conjectures ou contrôler leur vraisemblance. Le candidat porte ensuite par écrit sur une fiche à compléter les résultats obtenus, des observations ou des commentaires.
+L'un des exercices de chaque séquence comporte une ou deux questions dont la résolution nécessite l'utilisation de logiciels ou de calculatrices par les candidats. La présentation de la résolution de la (des) question (s) utilisant les TIC se fait en présence de l'examinateur. Ce type de questions permet d'évaluer les capacités à expérimenter, à simuler, à émettre des conjectures ou contrôler leur vraisemblance. Le candidat porte ensuite par écrit sur une fiche à compléter les résultats obtenus, des observations ou des commentaires.
 
 Une proposition de note est établie. La note définitive est délivrée par le jury.
 
-B - Contrôle ponctuel
+B-Contrôle ponctuel
 
 Cette sous-épreuve, d'une durée d'une heure, est notée sur 20 points.
 
@@ -98,7 +98,7 @@ Les thèmes mathématiques concernés portent principalement sur les domaines ma
 
 L'exercice qui comporte des questions dont la résolution nécessite l'utilisation des Tic est noté sur 10 points. Il permet d'apprécier l'aptitude du candidat à mobiliser les capacités et connaissances du programme pour traiter un problème dont la résolution nécessite l'utilisation de logiciels ou de calculatrices. Il permet d'évaluer les capacités à expérimenter, à simuler, à émettre des conjectures ou contrôler leur vraisemblance. La présentation de la résolution des questions nécessitant l'utilisation des Tic se fait en présence de l'examinateur.
 
-Sous-épreuve - E 12
+Sous-épreuve-E 12
 
 |
 
@@ -130,7 +130,7 @@ La sous-épreuve de sciences physiques et chimiques est destinée à évaluer la
 
 Modes d'évaluation
 
-A - Contrôle en Cours de Formation
+A-Contrôle en Cours de Formation
 
 Le contrôle en cours de formation comporte une situation d'évaluation en sciences physiques et chimiques, notée sur 20, d'une durée maximale d'une heure trente minutes fractionnée dans le temps en deux séquences. Chaque séquence, notée sur 10, a une durée de quarante-cinq minutes environ.
 
@@ -152,13 +152,13 @@ L'évaluation porte nécessairement sur les capacités expérimentales du candid
 
 • de montrer qu'il connaît le vocabulaire, les symboles, les grandeurs et les unités mises en œuvre ;
 
-• d'utiliser une ou plusieurs relations. Ces relations sont données lorsqu'elles ne sont pas répertoriées dans la colonne "connaissances" du programme ;
+• d'utiliser une ou plusieurs relations. Ces relations sont données lorsqu'elles ne sont pas répertoriées dans la colonne " connaissances " du programme ;
 
 • d'interpréter et de rendre compte par écrit des résultats des travaux réalisés.
 
 Le candidat porte, sur une fiche qu'il complète en cours de manipulation, les résultats de ses observations, de ses mesures et leur interprétation. L'examinateur élabore une grille de compétences qui lui permet d'évaluer les connaissances et capacités du candidat lors de ses manipulations. Lorsque la situation s'appuie sur d'autres disciplines, aucune connaissance relative à ces disciplines n'est exigible des candidats et toutes les indications utiles doivent être fournies dans l'énoncé.
 
-B - Contrôle ponctuel
+B-Contrôle ponctuel
 
 Cette sous-épreuve, d'une durée d'une heure, est notée sur 20 points. Elle repose sur un sujet qui doit permettre d'évaluer des compétences différentes dans plusieurs champs de la physique et de la chimie. Il est à dominante expérimentale et se compose d'activités expérimentales et d'exercices associés (certaines expériences peuvent être assistées par ordinateur).
 
@@ -172,7 +172,7 @@ Le sujet, conçu en référence explicite aux compétences du programme, consacr
 
 • de montrer qu'il connaît le vocabulaire, les symboles, les grandeurs et les unités mises en œuvre ;
 
-• d'utiliser une ou plusieurs relations. Ces relations sont données lorsqu'elles ne sont pas répertoriées dans la colonne "connaissances" du programme ;
+• d'utiliser une ou plusieurs relations. Ces relations sont données lorsqu'elles ne sont pas répertoriées dans la colonne " connaissances " du programme ;
 
 • d'interpréter et de rendre compte par écrit des résultats des travaux réalisés.
 
@@ -188,7 +188,7 @@ Des exercices ou questions complémentaires, relatifs au contexte de l'expérime
 
 Lorsque l'épreuve s'appuie sur d'autres disciplines, aucune connaissance relative à ces disciplines n'est exigible des candidats et toutes les indications utiles doivent être fournies dans l'énoncé.
 
-E2 - ÉPREUVE TECHNOLOGIQUE
+E2-ÉPREUVE TECHNOLOGIQUE
 
 |
 
@@ -206,9 +206,9 @@ PRÉPARATION ET ANALYSE D'UNE ACTIVITE DE TRANSPORT FLUVIAL
 
 1. CONTENU ET OBJECTIF DE L'ÉPREUVE
 
-Cette épreuve a pour objet de valider tout ou partie des compétences C1.1et C2.1 du référentiel :
+Cette épreuve a pour objet de valider tout ou partie des compétences C1. 1et C2. 1 du référentiel :
 
-C1.1
+C1. 1
 
 |
 
@@ -216,7 +216,7 @@ Analyser et exploiter les informations et les documents nécessaires au transpor
 
 |
 
-C2.1
+C2. 1
 
 |
 
@@ -234,9 +234,9 @@ S'il est bien entendu que la mise en œuvre des compétences à évaluer nécess
 
 2. CONDITIONS DE RÉALISATION
 
-Cette épreuve doit mettre le candidat dans une situation de résolution d'un problème de transport fluvial (marchandises et/ou passagers). Elle est destinée, à travers une étude de cas, choisie par le candidat et validée au préalable par l'équipe pédagogique, à évaluer (tout ou partie) des compétences C1.1 et C2.1 mobilisées au plan méthodologique, technologique, scientifique et réglementaire.
+Cette épreuve doit mettre le candidat dans une situation de résolution d'un problème de transport fluvial (marchandises et/ ou passagers). Elle est destinée, à travers une étude de cas, choisie par le candidat et validée au préalable par l'équipe pédagogique, à évaluer (tout ou partie) des compétences C1. 1 et C2. 1 mobilisées au plan méthodologique, technologique, scientifique et réglementaire.
 
-La situation d'évaluation, s'appuie sur la réalisation d'une activité professionnelle de référence en établissement de formation ou en entreprise et prend en compte les éléments du dossier informatisé, de dix à quinze pages, hors annexes, élaboré par le candidat lors de sa formation en centre et/ou en entreprise.
+La situation d'évaluation, s'appuie sur la réalisation d'une activité professionnelle de référence en établissement de formation ou en entreprise et prend en compte les éléments du dossier informatisé, de dix à quinze pages, hors annexes, élaboré par le candidat lors de sa formation en centre et/ ou en entreprise.
 
 Lors de la mise en œuvre de la situation d'évaluation, il est demandé au candidat de mobiliser également les savoirs S 5.1 (L'environnement professionnel).
 
@@ -246,7 +246,7 @@ Il est à noter qu'en l'absence du dossier personnel réalisé par le candidat, 
 
 La présentation orale doit être claire et structurée, elle doit permettre de faire ressortir les aspects réglementaires et les contraintes techniques et physiques qui s'appliquent réellement. Les outils modernes de communication peuvent être utilisés pour la phase de présentation.
 
-Lors de l'entretien avec le candidat, l'ensemble des questions posées doit permettre de vérifier les compétences décrites plus haut et liées à la communication, à la réglementation et/ou aux techniques actuelles mises en œuvre dans le transport et les évolutions envisagées.
+Lors de l'entretien avec le candidat, l'ensemble des questions posées doit permettre de vérifier les compétences décrites plus haut et liées à la communication, à la réglementation et/ ou aux techniques actuelles mises en œuvre dans le transport et les évolutions envisagées.
 
 Les modalités d'organisation et d'observation de l'activité professionnelle de référence sont arrêtées par l'équipe pédagogique en fonction de l'étude de cas traitée par le candidat. Un professionnel peut être associé à la définition de la situation qui se déroule dans l'établissement de formation bien qu'il ne faille exclure l'exploitation d'une situation rencontrée au cours des périodes de formation en entreprise qui peut alors se substituer à la situation en centre.
 
@@ -280,7 +280,7 @@ Tâches associées
 
 |
 
-C1.1
+C1. 1
 
 |
 
@@ -322,7 +322,7 @@ A1T4
 
 |
 
-Déterminer l'itinéraire adapté et accéder au site de chargement/déchargement des marchandises ou d'embarquement/débarquement des passagers
+Déterminer l'itinéraire adapté et accéder au site de chargement/ déchargement des marchandises ou d'embarquement/ débarquement des passagers
 
 |
 
@@ -330,11 +330,11 @@ A1T5
 
 |
 
-Organiser le chargement/déchargement, l'embarquement/débarquement
+Organiser le chargement/ déchargement, l'embarquement/ débarquement
 
 |
 
-C2.1
+C2. 1
 
 |
 
@@ -360,31 +360,31 @@ Restituer les documents relatifs à ses activités
 
 3. MODES D'ÉVALUATION
 
-3.1- ÉVALUATION PONCTUELLE :Épreuve pratique d'une durée de 2 h 30 suivie d'un oral d'une durée de 30 minutes.
+3.1-ÉVALUATION PONCTUELLE : Épreuve pratique d'une durée de 2 h 30 suivie d'un oral d'une durée de 30 minutes.
 
 1re partie : Réalisation d'une activité professionnelle de référence relevant des domaines du transport fluvial et en relation avec l'étude de cas traitée dans le dossier préparé par le candidat. Ce dossier est remis aux membres de la commission d'évaluation quinze jours avant le passage de l'épreuve. Les modalités d'organisation et le contenu de ce dossier doivent être conformes aux objectifs et aux conditions de réalisation décrits ci-dessus.
 
-2e partie :Oral de 30 minutes (15 minutes de présentation et 15 minutes d'entretien avec les membres de la commission d'évaluation) qui a pour support le dossier élaboré par le candidat. Les candidats individuels utiliseront le dossier constitué pour la première partie.
+2e partie : Oral de 30 minutes (15 minutes de présentation et 15 minutes d'entretien avec les membres de la commission d'évaluation) qui a pour support le dossier élaboré par le candidat. Les candidats individuels utiliseront le dossier constitué pour la première partie.
 
 Pour chaque session, le recteur fixe la date à laquelle les candidats doivent remettre leurs dossiers au centre d'examen en fonction du calendrier national des examens.
 
 Les candidats individuels constitueront un dossier présentant une expérience conforme à l'activité professionnelle de référence et comportant les documents de communication technique utiles à sa description.
 
-3.2- CONTRÔLE EN COURS DE FORMATION : Réalisation d'une activité professionnelle de référence en établissement de formation ou en entreprise suivie d'un oral d'une durée de 30 minutes
+3.2-CONTRÔLE EN COURS DE FORMATION : Réalisation d'une activité professionnelle de référence en établissement de formation ou en entreprise suivie d'un oral d'une durée de 30 minutes
 
 L'épreuve se décompose en 3 temps :
 
-- 1er temps(pendant le premier trimestre de l'année terminale) : définition du cahier des charges d'une étude de cas à travers laquelle le candidat est amené à conduire ses investigations, ses recherches pour résoudre une problématique de transport fluvial. Cette étude est illustrée dans le dossier à présenter à la commission d'évaluation.
+-1er temps (pendant le premier trimestre de l'année terminale) : définition du cahier des charges d'une étude de cas à travers laquelle le candidat est amené à conduire ses investigations, ses recherches pour résoudre une problématique de transport fluvial. Cette étude est illustrée dans le dossier à présenter à la commission d'évaluation.
 
-- 2e temps : Réalisation d'une activité professionnelle de référence en relation avec l'étude de cas traitée et visant tout ou partie des compétences C11 et C21 relatives à cette sous épreuve en prenant en considération les indicateurs de performance des compétences visées.
+-2e temps : Réalisation d'une activité professionnelle de référence en relation avec l'étude de cas traitée et visant tout ou partie des compétences C11 et C21 relatives à cette sous épreuve en prenant en considération les indicateurs de performance des compétences visées.
 
-- 3e temps : La situation d'évaluation est organisée par le(s) professeur(s) chargé(s) des enseignements de transport fluvial conformément aux objectifs et aux conditions de réalisation décrits ci-dessus. Elle se déroule au sein de l'établissement de formation ou en entreprise. Un professionnel est associé à cette évaluation ou à défaut un autre enseignant du domaine professionnel.
+-3e temps : La situation d'évaluation est organisée par le (s) professeur (s) chargé (s) des enseignements de transport fluvial conformément aux objectifs et aux conditions de réalisation décrits ci-dessus. Elle se déroule au sein de l'établissement de formation ou en entreprise. Un professionnel est associé à cette évaluation ou à défaut un autre enseignant du domaine professionnel.
 
 La période choisie pour l'évaluation pouvant être différente pour chacun des candidats en fonction de son cursus effectif, son choix relève de la responsabilité des enseignants mais le dernier semestre de formation est la période recommandée. La durée de la réalisation de l'activité de référence, support de l'évaluation, ne doit pas dépasser la durée prévue pour la forme ponctuelle.
 
 Chaque candidat est informé à l'avance et individuellement de la période prévue pour le déroulement de la situation d'évaluation qui le concerne.
 
-E3 - ÉPREUVE PRENANT EN COMPTE LA FORMATION EN ENTREPRISE
+E3-ÉPREUVE PRENANT EN COMPTE LA FORMATION EN ENTREPRISE
 
 |
 
@@ -404,11 +404,11 @@ Cette épreuve comprend cinq sous-épreuves :
 
 • E33 Communication professionnelle et sécurité (Certifications complémentaires)
 
-• E34 :Economie-Gestion
+• E34 : Economie-Gestion
 
 • E35 : Prévention-Santé-Environnement
 
-E3.1 RÉALISATION D'INTERVENTIONS EN ENTREPRISE
+E3. 1 RÉALISATION D'INTERVENTIONS EN ENTREPRISE
 
 |
 
@@ -428,7 +428,7 @@ Sous-épreuve E31
 
 La sous-épreuve E31 a pour objet de valider tout ou partie des compétences suivantes exigées du titulaire de la spécialité transport fluvial de baccalauréat professionnel ;
 
-C3.1
+C3. 1
 
 |
 
@@ -436,15 +436,15 @@ Conditionner et contrôler le bâtiment en vue du transport
 
 |
 
-C3.4
+C3. 4
 
 |
 
-Gérer et contrôler le chargement/déchargement, l'embarquement/débarquement des passagers
+Gérer et contrôler le chargement/ déchargement, l'embarquement/ débarquement des passagers
 
 |
 
-C3.7
+C3. 7
 
 |
 
@@ -460,7 +460,7 @@ S'il est bien entendu que la mise en œuvre des compétences à évaluer nécess
 
 2. CONDITIONS DE RÉALISATION
 
-Le contenu de cette sous-épreuve porte sur la réalisation d'opérations de transport fluvial (chargement/déchargement de marchandises, embarquement/débarquement des passagers, avitaillement) effectuées en entreprise.
+Le contenu de cette sous-épreuve porte sur la réalisation d'opérations de transport fluvial (chargement/ déchargement de marchandises, embarquement/ débarquement des passagers, avitaillement) effectuées en entreprise.
 
 Au cours de la période de formation en entreprise, le candidat constitue, à titre individuel un rapport d'activités portant sur l'analyse des activités et tâches réalisées en relation avec les compétences concernées. Ce rapport d'activités, support de l'évaluation, ne sera pas noté en tant que tel.
 
@@ -468,13 +468,13 @@ Le candidat remettra également son livret de suivi (ou document de liaison) de 
 
 Pour chaque session, le recteur fixe la date à laquelle les candidats doivent remettre leurs rapports d'activités et leurs livrets de suivi des périodes de formation en milieu professionnel au centre d'examen.
 
-Il est à noter qu'en l'absence du rapport d'activités et/ou du livret de suivi des périodes de formation en milieu professionnel, le candidat se verra attribuer la note zéro à cette sous-épreuve.
+Il est à noter qu'en l'absence du rapport d'activités et/ ou du livret de suivi des périodes de formation en milieu professionnel, le candidat se verra attribuer la note zéro à cette sous-épreuve.
 
 Une fiche nationale d'évaluation du travail réalisé pour cette épreuve, rédigée et mise à jour par l'inspection générale de l'Éducation nationale, est diffusée aux établissements par les services rectoraux des examens et concours.
 
 CONTEXTE PROFESSIONNEL : RELATIONS ENTRE COMPÉTENCES DE L'ÉPREUVE E31 ET LES ACTIVITÉS PROFESSIONNELLES
 
-Les activités menées dans le cadre de cette unité U31 se réaliseront au sein de l'entreprise de transport fluvial lors des chargements/déchargements, d'embarquement/débarquement et dans toutes les autres opérations relatives au transport fluvial.
+Les activités menées dans le cadre de cette unité U31 se réaliseront au sein de l'entreprise de transport fluvial lors des chargements/ déchargements, d'embarquement/ débarquement et dans toutes les autres opérations relatives au transport fluvial.
 
 • Nature de l'activité
 
@@ -492,7 +492,7 @@ Tâches associées
 
 |
 
-C3.1
+C3. 1
 
 |
 
@@ -518,13 +518,13 @@ Collecter et exploiter les informations et documents nécessaires au transport �
 
 |
 
-C3.4
+C3. 4
 
-C3.7
+C3. 7
 
 |
 
-Gérer et contrôler le chargement/décharge ment, l'embarquement/
+Gérer et contrôler le chargement/ décharge ment, l'embarquement/
 
 débarquement des passagers
 
@@ -552,7 +552,7 @@ A1T5
 
 |
 
-Organiser le chargement/déchargement, l'embarquement/débarquement
+Organiser le chargement/ déchargement, l'embarquement/ débarquement
 
 |
 
@@ -560,7 +560,7 @@ A2T1
 
 |
 
-Préparer le bâtiment et accessoires nécessaires à l'activité de chargement/déchargement et/ou d'embarquement/débarquement
+Préparer le bâtiment et accessoires nécessaires à l'activité de chargement/ déchargement et/ ou d'embarquement/ débarquement
 
 |
 
@@ -568,7 +568,7 @@ A2T2
 
 |
 
-Superviser les opérations de chargement /déchargement, embarquement/débarquement, procéder à l'avitaillement
+Superviser les opérations de chargement/ déchargement, embarquement/ débarquement, procéder à l'avitaillement
 
 |
 
@@ -634,7 +634,7 @@ Première partie :
 
 Cette partie pratique d'une durée de 2 heures organisée et réalisée à bord d'une unité de transport fluvial correspondant à tout ou partie des tâches professionnelles décrites dans le contenu de la sous épreuve. Elle est organisée dans le cadre d'une opération de transport fluvial réelle ou exceptionnellement simulée.
 
-Deuxième partie : Oral de 30 minutes(exposé de 10 minutes au maximum suivi d'un entretien de 20 minutes) qui a pour support le rapport d'activités élaboré par le candidat. Cet entretien porte sur les tâches réalisées par le candidat lors de ses périodes de formation en milieu professionnel et prend appui sur le rapport d'activités du candidat et sur les éléments du livret de suivi des PFMP.
+Deuxième partie : Oral de 30 minutes (exposé de 10 minutes au maximum suivi d'un entretien de 20 minutes) qui a pour support le rapport d'activités élaboré par le candidat. Cet entretien porte sur les tâches réalisées par le candidat lors de ses périodes de formation en milieu professionnel et prend appui sur le rapport d'activités du candidat et sur les éléments du livret de suivi des PFMP.
 
 Le rapport doit être remis aux membres de la commission d'évaluation, quinze jours avant le déroulement de l'épreuve ponctuelle. Les candidats individuels utiliseront le dossier constitué pour l'épreuve E2.
 
@@ -646,7 +646,7 @@ La commission d'évaluation est composée de deux membres au moins :
 
 Lors de la période de formation en milieu professionnel, une synthèse de l'évaluation des compétences acquises par le candidat est effectuée conjointement par le tuteur de l'entreprise d'accueil et par un enseignant du domaine professionnel en charge de la formation. Cette synthèse est rédigée sous forme d'un compte rendu à insérer dans le livret de suivi du candidat.
 
-L'évaluation certificative est réalisée au regard des indicateurs de performance des compétences C3.1, C3.4 et C3.7. Elle prend appui sur le contenu du rapport d'activités, sur la pertinence de l'exposé et la qualité de l'entretien. La commission d'évaluation renseigne la fiche d'évaluation nationale établie par l'inspection générale et propose une note affectée d'un coefficient 3.
+L'évaluation certificative est réalisée au regard des indicateurs de performance des compétences C3. 1, C3. 4 et C3. 7. Elle prend appui sur le contenu du rapport d'activités, sur la pertinence de l'exposé et la qualité de l'entretien. La commission d'évaluation renseigne la fiche d'évaluation nationale établie par l'inspection générale et propose une note affectée d'un coefficient 3.
 
 3.2 CONTRÔLE EN COURS DE FORMATION :
 
@@ -658,7 +658,7 @@ Première situation d'évaluation
 
 Cette partie pratique est une activité de référence, organisée et réalisée en cours de formation à bord d'une unité de transport fluvial. Elle correspond à tout ou partie des tâches professionnelles décrites dans le contenu de la sous épreuve. Elle est organisée dans le cadre d'une opération de transport fluvial réelle ou exceptionnellement simulée.
 
-Deuxième situation d'évaluation : Oral de 30 minutes(exposé de 10 minutes au maximum suivi d'un entretien de 20 minutes) qui a pour support le rapport d'activités élaboré par le candidat. Cet entretien porte sur les tâches réalisées par le candidat lors de ses périodes de formation en milieu professionnel et prend appui sur le rapport d'activités du candidat et sur les éléments du livret de suivi des PFMP.
+Deuxième situation d'évaluation : Oral de 30 minutes (exposé de 10 minutes au maximum suivi d'un entretien de 20 minutes) qui a pour support le rapport d'activités élaboré par le candidat. Cet entretien porte sur les tâches réalisées par le candidat lors de ses périodes de formation en milieu professionnel et prend appui sur le rapport d'activités du candidat et sur les éléments du livret de suivi des PFMP.
 
 Le rapport doit être remis aux membres de la commission d'évaluation, quinze jours avant le déroulement de l'épreuve ponctuelle
 
@@ -666,11 +666,11 @@ Cette situation d'évaluation est organisée par le professeur d'enseignement pr
 
 Lors de la période de formation en milieu professionnel, une synthèse de l'évaluation des compétences acquises par le candidat est effectuée conjointement par le tuteur de l'entreprise d'accueil et par un enseignant du domaine professionnel en charge de la formation. Cette synthèse est rédigée sous forme d'un compte rendu à insérer dans le livret de suivi du candidat.
 
-L'évaluation certificative est réalisée au regard des indicateurs de performance des compétences C3.1, C3.4 et C3.7. Elle prend appui sur le livret de suivi des PFMP, le contenu du rapport d'activités, sur la pertinence de l'exposé et la qualité de l'entretien. La commission d'évaluation renseigne la fiche d'évaluation nationale établie par l'inspection générale et propose une note affectée d'un coefficient 3.
+L'évaluation certificative est réalisée au regard des indicateurs de performance des compétences C3. 1, C3. 4 et C3. 7. Elle prend appui sur le livret de suivi des PFMP, le contenu du rapport d'activités, sur la pertinence de l'exposé et la qualité de l'entretien. La commission d'évaluation renseigne la fiche d'évaluation nationale établie par l'inspection générale et propose une note affectée d'un coefficient 3.
 
 La période choisie pour l'évaluation pouvant être différente pour chacun des candidats en fonction de son cursus, son choix et son organisation relèvent de la responsabilité de l'équipe pédagogique, le troisième trimestre de la dernière année de formation est la période indiquée. Chaque candidat est informé à l'avance de la période prévue pour le déroulement de la situation d'évaluation qui le concerne.
 
-E3.2 CONDUITE, MANŒUVRES ET MAINTENANCE D'UNE UNITÉ DE TRANSPORT FLUVIAL
+E3. 2 CONDUITE, MANŒUVRES ET MAINTENANCE D'UNE UNITÉ DE TRANSPORT FLUVIAL
 
 |
 
@@ -688,11 +688,11 @@ Sous-épreuve E32
 
 1. CONTENU DE LA SOUS-ÉPREUVE
 
-Cette sous-épreuve a pour objet de valider tout ou partie des compétences C3.2, C3.3 et C3.5 du référentiel et prépare le candidat aux épreuves pratiques du Certificat de capacité à la conduite des bateaux de commerce du "groupe B".
+Cette sous-épreuve a pour objet de valider tout ou partie des compétences C3. 2, C3. 3 et C3. 5 du référentiel et prépare le candidat aux épreuves pratiques du Certificat de capacité à la conduite des bateaux de commerce du " groupe B ".
 
-Elle intègre l'évaluation théorique relative au Certificat de capacité à la conduite des bateaux de commerce du "groupe B".
+Elle intègre l'évaluation théorique relative au Certificat de capacité à la conduite des bateaux de commerce du " groupe B ".
 
-C3.2
+C3. 2
 
 |
 
@@ -700,7 +700,7 @@ Gérer et assurer la maintenance, l'entretien du bâtiment, procéder aux avitai
 
 |
 
-C3.3
+C3. 3
 
 |
 
@@ -708,7 +708,7 @@ Assurer la conduite et les manœuvres en toute sécurité
 
 |
 
-C3.5
+C3. 5
 
 |
 
@@ -740,7 +740,7 @@ Pour la deuxième phase, la commission d'évaluation est composée de deux membr
 
 CONTEXTE PROFESSIONNEL : Relations entre compétences de l'épreuve E32 et les activités professionnelles :
 
-Les activités menées dans le cadre de cette unité U32 sont organisées au sein de l'entreprise de transport fluvial lors des chargements/déchargements, d'embarquement/débarquement et/ou dans l'espace de formation adapté. L'activité demandée est observée en conditions réelles à bord d'unité de transport fluvial ou, en cas d'impossibilité avérée, en simulation en zone de travail reconstituée.
+Les activités menées dans le cadre de cette unité U32 sont organisées au sein de l'entreprise de transport fluvial lors des chargements/ déchargements, d'embarquement/ débarquement et/ ou dans l'espace de formation adapté. L'activité demandée est observée en conditions réelles à bord d'unité de transport fluvial ou, en cas d'impossibilité avérée, en simulation en zone de travail reconstituée.
 
 Nature de l'activité
 
@@ -758,19 +758,19 @@ Tâches associées
 
 |
 
-C3.3
+C3. 3
 
 |
 
-- Assurer la conduite et les manœuvres en toute sécurité
+-Assurer la conduite et les manœuvres en toute sécurité
 
 |
 
-A1 - Préparer et organiser sa mission de transport
+A1-Préparer et organiser sa mission de transport
 
-A3 - Réaliser le transport
+A3-Réaliser le transport
 
-A5 - Gérer son unité de transport
+A5-Gérer son unité de transport
 
 |
 
@@ -792,7 +792,7 @@ A5T3
 
 Prendre en charge le bâtiment, l'équipage, les équipements et les accessoires
 
-Déterminer l'itinéraire adapté et accéder au site de chargement/déchargement des marchandises ou d'embarquement/débarquement des passagers
+Déterminer l'itinéraire adapté et accéder au site de chargement/ déchargement des marchandises ou d'embarquement/ débarquement des passagers
 
 Conduire rationnellement et en sécurité le bateau
 
@@ -806,31 +806,31 @@ Traiter les anomalies, les incidents et accidents
 
 |
 
-C3.2
+C3. 2
 
 |
 
-- Gérer et assurer la maintenance, l'entretien du bâtiment, procéder aux avitaillements
+-Gérer et assurer la maintenance, l'entretien du bâtiment, procéder aux avitaillements
 
 |
 
-C3.5
+C3. 5
 
 |
 
-- Mettre en œuvre les mesures de prévention des risques professionnels et de protection de l'environnement.
+-Mettre en œuvre les mesures de prévention des risques professionnels et de protection de l'environnement.
 
 |
 
 3. MODES D'ÉVALUATION
 
-3.1 - FORME PONCTUELLE :
+3.1-FORME PONCTUELLE :
 
-PREMIERE PARTIE : Évaluation relative à la préparation au Certificat de capacité à la conduite des bateaux de commerce du "groupe B" Durée 3 heures - Coefficient 3
+PREMIERE PARTIE : Évaluation relative à la préparation au Certificat de capacité à la conduite des bateaux de commerce du " groupe B " Durée 3 heures-Coefficient 3
 
-Cette épreuve porte sur tout ou partie des compétences C3.2, C3.3 et C3.5 du référentiel de certification mises en œuvre dans les tâches A1, A3 et A5 et permet, dans le respect des règles établies par l'autorité compétente, de délivrer le certificat de l'épreuve théorique du Certificat de capacité à la conduite des bateaux de commerce du "groupe B".
+Cette épreuve porte sur tout ou partie des compétences C3. 2, C3. 3 et C3. 5 du référentiel de certification mises en œuvre dans les tâches A1, A3 et A5 et permet, dans le respect des règles établies par l'autorité compétente, de délivrer le certificat de l'épreuve théorique du Certificat de capacité à la conduite des bateaux de commerce du " groupe B ".
 
-Cette première partie est composée de deux sous- parties distinctes : une épreuve écrite et une épreuve pratique.
+Cette première partie est composée de deux sous-parties distinctes : une épreuve écrite et une épreuve pratique.
 
 1re sous-partie : Épreuve écrite d'une durée d'une heure (coefficient 1).
 
@@ -838,11 +838,11 @@ L'épreuve est organisée en conformité avec la règlementation en vigueur pour
 
 La réussite à cette épreuve théorique ouvre droit à une inscription aux examens pratiques du Certificat de conduite des bateaux de commerce du groupe B si elle correspond aux exigences définies par l'autorité compétente.
 
-Le non délivrance de l'attestation relative à la partie théorique du certificat de capacité de conduite des bateaux de commerce du "groupe B" n'est en aucun cas éliminatoire pour l'obtention du diplôme.
+Le non délivrance de l'attestation relative à la partie théorique du certificat de capacité de conduite des bateaux de commerce du " groupe B " n'est en aucun cas éliminatoire pour l'obtention du diplôme.
 
 La note obtenue par le candidat est prise en compte dans la note globale attribuée à la sous-épreuve E32.
 
-2e sous-partie : Épreuve pratique CONDUITE ET MANŒUVRES (coef. 2) : d'une durée de 2 heures, comportant un passage d'ouvrage ou une entrée/sortie d'un port (exemples : passage d'un pont, d'une écluse ou d'un tunnel).
+2e sous-partie : Épreuve pratique CONDUITE ET MANŒUVRES (coef. 2) : d'une durée de 2 heures, comportant un passage d'ouvrage ou une entrée/ sortie d'un port (exemples : passage d'un pont, d'une écluse ou d'un tunnel).
 
 Cette partie pratique consiste en un parcours de conduite sur une voie navigable laissé à l'appréciation de la commission d'évaluation comportant des conditions de navigation normale avec utilisation des outils d'aide à la navigation.
 
@@ -850,15 +850,15 @@ Au cours de l'épreuve, des situations d'avaries de moteurs et de gouverne sont 
 
 Le candidat est évalué :
 
-- en timonerie : il effectue un parcours de conduite sur une voie navigable laissé à l'appréciation de la commission d'évaluation comportant des conditions de navigation normale avec utilisation des outils d'aide à la navigation.
+-en timonerie : il effectue un parcours de conduite sur une voie navigable laissé à l'appréciation de la commission d'évaluation comportant des conditions de navigation normale avec utilisation des outils d'aide à la navigation.
 
-- sur le pont : il effectue des manœuvres en tant que membre de l'équipage.
+-sur le pont : il effectue des manœuvres en tant que membre de l'équipage.
 
-Pour les manœuvres d'appareillage et d'amarrage, le candidat dispose de tierce(s) personne(s) qui exécuteront ses ordres. La commission d'évaluation appréciera les aptitudes du candidat en matière de commandement de l'équipage.
+Pour les manœuvres d'appareillage et d'amarrage, le candidat dispose de tierce (s) personne (s) qui exécuteront ses ordres. La commission d'évaluation appréciera les aptitudes du candidat en matière de commandement de l'équipage.
 
 Le candidat peut être interrogé sur ses connaissances en matière de mécanique et de conduite à tenir dans des circonstances particulières de navigation.
 
-Deuxième partie :Opération de maintenance à bord - Durée 2 heures - Coefficient 2
+Deuxième partie : Opération de maintenance à bord-Durée 2 heures-Coefficient 2
 
 Organisée sous forme de travaux pratiques, cette partie d'épreuve consiste à mettre le candidat en situation réelle de résolution d'un problème de maintenance à bord d'une unité de transport fluvial (diagnostic et intervention). Elle met en œuvre tout ou partie des tâches professionnelles indiquées plus haut.
 
@@ -870,15 +870,15 @@ Un dysfonctionnement du matériel ou de l'équipement, qui ne nécessite qu'une 
 
 La commission d'évaluation est composée du représentant du ministère chargé des transports et d'un enseignant du domaine professionnel assurant les enseignements de transport fluvial.
 
-3.2 - CONTRÔLE EN COURS DE FORMATION :
+3.2-CONTRÔLE EN COURS DE FORMATION :
 
 Cette situation d'évaluation comprend deux phases :
 
-Première situation d'évaluation : Évaluation relative à la préparation au Certificat de capacité à la conduite des bateaux de commerce du "groupe B" - Coefficient 3
+Première situation d'évaluation : Évaluation relative à la préparation au Certificat de capacité à la conduite des bateaux de commerce du " groupe B "-Coefficient 3
 
 La situation d'évaluation comporte une épreuve écrite et une épreuve pratique.
 
-Cette situation d'évaluation porte sur tout ou partie des compétences C3.2, C3.3 et C3.5 du référentiel de certification mise en œuvre dans les tâches A1, A3 et A5 et permet, dans le respect des règles établies par l'autorité compétente, de délivrer le certificat de l'épreuve théorique du Certificat de capacité à la conduite des bateaux de commerce du "groupe B".
+Cette situation d'évaluation porte sur tout ou partie des compétences C3. 2, C3. 3 et C3. 5 du référentiel de certification mise en œuvre dans les tâches A1, A3 et A5 et permet, dans le respect des règles établies par l'autorité compétente, de délivrer le certificat de l'épreuve théorique du Certificat de capacité à la conduite des bateaux de commerce du " groupe B ".
 
 1re partie : Épreuve écrite (coefficient 1),
 
@@ -888,13 +888,13 @@ Elle s'organise en conformité avec la règlementation en vigueur pour la déliv
 
 Le support est mis à disposition par le ministère chargé des transports. La situation d'évaluation est organisée par l'équipe pédagogique dans l'établissement de formation.
 
-La réussite à cette partie d'épreuve ouvre droit à une inscription aux examens pratiques du Certificat de capacité à la conduite des bateaux de commerce du "groupe B" si elle correspond aux exigences définies par l'autorité compétente.
+La réussite à cette partie d'épreuve ouvre droit à une inscription aux examens pratiques du Certificat de capacité à la conduite des bateaux de commerce du " groupe B " si elle correspond aux exigences définies par l'autorité compétente.
 
-Le non délivrance de l'attestation relative à la partie théorique du certificat de capacité à la conduite des bateaux de commerce du "groupe B" n'est en aucun cas éliminatoire pour le candidat.
+Le non délivrance de l'attestation relative à la partie théorique du certificat de capacité à la conduite des bateaux de commerce du " groupe B " n'est en aucun cas éliminatoire pour le candidat.
 
 La note obtenue par le candidat est prise en compte dans la note globale attribuée à la sous-épreuve E32.
 
-2e partie : Épreuve pratique CONDUITE ET MANŒUVRES (coefficient 2), comportant un passage d'ouvrage ou une entrée/sortie d'un port (passage d'un pont, d'une écluse ou d'un tunnel).
+2e partie : Épreuve pratique CONDUITE ET MANŒUVRES (coefficient 2), comportant un passage d'ouvrage ou une entrée/ sortie d'un port (passage d'un pont, d'une écluse ou d'un tunnel).
 
 Cette partie pratique consiste en un parcours de conduite sur une voie navigable laissé à l'appréciation de la commission d'évaluation comportant des conditions de navigation normale avec utilisation des outils d'aide à la navigation.
 
@@ -902,15 +902,15 @@ Au cours de l'épreuve, des situations d'avaries de moteurs et de gouverne sont 
 
 Le candidat est évalué :
 
-- en timonerie : Le candidat effectue un parcours de conduite sur une voie navigable laissé à l'appréciation de la commission d'évaluation comportant des conditions de navigation normale avec utilisation des outils d'aide à la navigation.
+-en timonerie : Le candidat effectue un parcours de conduite sur une voie navigable laissé à l'appréciation de la commission d'évaluation comportant des conditions de navigation normale avec utilisation des outils d'aide à la navigation.
 
-- sur le pont : il effectue des manœuvres en tant que membre de l'équipage.
+-sur le pont : il effectue des manœuvres en tant que membre de l'équipage.
 
-Pour les manœuvres d'appareillage et d'amarrage, le candidat dispose de tierce(s) personne(s) qui exécuteront ses ordres. La commission d'évaluation appréciera les aptitudes du candidat en matière de commandement de l'équipage.
+Pour les manœuvres d'appareillage et d'amarrage, le candidat dispose de tierce (s) personne (s) qui exécuteront ses ordres. La commission d'évaluation appréciera les aptitudes du candidat en matière de commandement de l'équipage.
 
 Le candidat peut être interrogé sur ses connaissances en matière de mécanique et de conduite à tenir dans des circonstances particulières de navigation.
 
-Deuxième situation d'évaluation : Opération de maintenance à bord - Coefficient 2
+Deuxième situation d'évaluation : Opération de maintenance à bord-Coefficient 2
 
 Organisée sous forme de travaux pratiques, cette partie d'épreuve consiste à mettre le candidat en situation réelle de résolution d'un problème de maintenance à bord d'une unité de transport fluvial (diagnostic et intervention). Elle met en œuvre tout ou partie des tâches professionnelles indiquées plus haut.
 
@@ -924,11 +924,11 @@ La commission d'évaluation est composée du représentant du ministère chargé
 
 Les deux situations d'évaluation sont organisées en fonction de l'avancement de la formation et de l'acquisition des compétences du candidat et au plus tard au cours du troisième trimestre de l'année terminale. La période choisie pour l'évaluation pouvant être différente pour chacun des candidats, son choix relève de la responsabilité de l'équipe pédagogique. Chaque candidat est informé à l'avance de la période prévue pour le déroulement de la situation d'évaluation qui le concerne.
 
-E3.3. COMMUNICATION PROFESSIONNELLE ET SÉCURITÉ (Certifications complémentaires ASP, CRR,)
+E3. 3. COMMUNICATION PROFESSIONNELLE ET SÉCURITÉ (Certifications complémentaires ASP, CRR,)
 
 |
 
-Sous-épreuve E3.3
+Sous-épreuve E3. 3
 
 |
 
@@ -944,7 +944,7 @@ Sous-épreuve E3.3
 
 La sous-épreuve E33 a pour objet de valider tout ou partie des compétences suivantes exigées du titulaire de la spécialité transport fluvial de baccalauréat professionnel :
 
-C1.2
+C1. 2
 
 |
 
@@ -952,7 +952,7 @@ Communiquer en interne, avec les clients et les tiers
 
 |
 
-C2.2
+C2. 2
 
 |
 
@@ -970,7 +970,7 @@ S'il est bien entendu que la mise en œuvre des compétences à évaluer nécess
 
 2. CONDITIONS DE RÉALISATION
 
-La sous-épreuve s'appuie sur des situations réelles ou simulées liées à une activité de transport fluvial pendant laquelle le candidat sera amené à mobiliser les compétences liées à la communication et à la mise en œuvre des procédures et des matériels de sécurité et de sûreté à bord d'une unité de transport fluvial .
+La sous-épreuve s'appuie sur des situations réelles ou simulées liées à une activité de transport fluvial pendant laquelle le candidat sera amené à mobiliser les compétences liées à la communication et à la mise en œuvre des procédures et des matériels de sécurité et de sûreté à bord d'une unité de transport fluvial.
 
 Cette sous épreuve intègre :
 
@@ -1008,7 +1008,7 @@ Tâches associées
 
 |
 
-C1.2
+C1. 2
 
 |
 
@@ -1058,7 +1058,7 @@ Assurer la surveillance, la maintenance et l'entretien du bâtiment
 
 |
 
-C2.2
+C2. 2
 
 |
 
@@ -1084,11 +1084,11 @@ Communiquer avec les acteurs de la voie d'eau.
 
 3. MODES D'ÉVALUATION
 
-3.1 - Forme ponctuelle : coefficient 2
+3.1-Forme ponctuelle : coefficient 2
 
-Première partie : Evaluation relative à l'Attestation Spéciale Passagers (ASP) ou expert passagers - Durée 30 minutes pour la théorie et 1 heure pour la pratique - Coefficient 1
+Première partie : Evaluation relative à l'Attestation Spéciale Passagers (ASP) ou expert passagers-Durée 30 minutes pour la théorie et 1 heure pour la pratique-Coefficient 1
 
-Cette partie d'épreuve porte sur la compétence C2.2 (Gérer les incidents, les accidents, les anomalies et les litiges) du référentiel de certification qui est mise en œuvre dans les tâches professionnelles A4T1 et A4T2. Elle permet, dans le respect des règles établies par l'autorité compétente (ou établissement agréé), de délivrer l'Attestation Spéciale Passagers (ASP).
+Cette partie d'épreuve porte sur la compétence C2. 2 (Gérer les incidents, les accidents, les anomalies et les litiges) du référentiel de certification qui est mise en œuvre dans les tâches professionnelles A4T1 et A4T2. Elle permet, dans le respect des règles établies par l'autorité compétente (ou établissement agréé), de délivrer l'Attestation Spéciale Passagers (ASP).
 
 Elle s'organise en conformité avec la règlementation en vigueur pour la délivrance de cette attestation dont les références réglementaires au code des transports sont données dans la page lexique du présent référentiel.
 
@@ -1096,9 +1096,9 @@ La note obtenue par le candidat est prise en compte dans la note globale attribu
 
 La non délivrance de l'ASP n'est en aucun cas éliminatoire pour le candidat.
 
-2e partie : Évaluation relative au Certificat Restreint de Radiotéléphoniste (CRR) du domaine fluvial - Evaluation écrite d'une durée de 45 minutes - Coefficient 1
+2e partie : Évaluation relative au Certificat Restreint de Radiotéléphoniste (CRR) du domaine fluvial-Evaluation écrite d'une durée de 45 minutes-Coefficient 1
 
-Cette partie d'épreuve porte sur la compétence du référentiel de certification C1-2 "Communiquer en interne, avec les clients et les tiers" et permet, dans le respect des règles établies par l'autorité compétente, de délivrer le certificat restreint de radiotéléphonie.
+Cette partie d'épreuve porte sur la compétence du référentiel de certification C1-2 " Communiquer en interne, avec les clients et les tiers " et permet, dans le respect des règles établies par l'autorité compétente, de délivrer le certificat restreint de radiotéléphonie.
 
 Elle s'organise en conformité avec la règlementation en vigueur pour la délivrance de ce certificat. Les références réglementaires au code des transports sont données dans la page lexique du présent référentiel.
 
@@ -1106,21 +1106,21 @@ La note obtenue par le candidat est prise en compte dans la note globale attribu
 
 La non délivrance du CRR n'est en aucun cas éliminatoire pour le candidat.
 
-3.2 - Contrôle en cours de formation :
+3.2-Contrôle en cours de formation :
 
 L'évaluation est organisée sous forme de situations d'évaluation en fonction de l'avancement de la formation et de l'acquisition des compétences par le candidat et au plus tard en cours du deuxième trimestre de l'année terminale de formation. La période choisie pour l'évaluation pouvant être différente pour chacun des candidats, son choix relève de la responsabilité de l'équipe pédagogique. Le candidat en est informé à l'avance.
 
-Première situation d'évaluation : Évaluation relative à l'Attestation Spéciale Passagers (ASP) ou expert passagers - Durée 30 minutes pour la théorie + 1 heure pour la pratique - Coefficient 1
+Première situation d'évaluation : Évaluation relative à l'Attestation Spéciale Passagers (ASP) ou expert passagers-Durée 30 minutes pour la théorie + 1 heure pour la pratique-Coefficient 1
 
-Cette situation d'évaluation porte sur la compétence C2.2 (Gérer les incidents, les accidents, les anomalies et les litiges) du référentiel de certification qui est mise en œuvre dans les tâches professionnelles A4T1 et A4T2. Elle permet, dans le respect des règles établies par l'autorité compétente, de délivrer l'Attestation Spéciale Passagers (ASP) ou autre titre jugé équivalent par le ministère chargé des transports.
+Cette situation d'évaluation porte sur la compétence C2. 2 (Gérer les incidents, les accidents, les anomalies et les litiges) du référentiel de certification qui est mise en œuvre dans les tâches professionnelles A4T1 et A4T2. Elle permet, dans le respect des règles établies par l'autorité compétente, de délivrer l'Attestation Spéciale Passagers (ASP) ou autre titre jugé équivalent par le ministère chargé des transports.
 
 La note obtenue par le candidat est prise en compte dans la note globale attribuée à l'épreuve E33. Elle conduit à délivrer l'ASP si elle correspond aux exigences définies par l'autorité compétente.
 
 La non délivrance de l'ASP n'est en aucun cas éliminatoire pour le candidat.
 
-2e situtation d'évaluation : Évaluation relative au Certificat Restreint de Radiotéléphoniste (CRR) du domaine fluvial - Durée 45 minutes - Coefficient 1
+2e situtation d'évaluation : Évaluation relative au Certificat Restreint de Radiotéléphoniste (CRR) du domaine fluvial-Durée 45 minutes-Coefficient 1
 
-Cette situation d'évaluation porte sur la compétence du référentiel de certification C1-2 "Communiquer en interne, avec les clients et les tiers" et permet, dans le respect des règles établies par l'autorité compétente, de délivrer le certificat restreint de radiotéléphonie.
+Cette situation d'évaluation porte sur la compétence du référentiel de certification C1-2 " Communiquer en interne, avec les clients et les tiers " et permet, dans le respect des règles établies par l'autorité compétente, de délivrer le certificat restreint de radiotéléphonie.
 
 Elle s'organise en conformité avec la règlementation en vigueur pour la délivrance de ce certificat. Les références réglementaires au code des transports sont données dans la page lexique du présent référentiel.
 
@@ -1130,9 +1130,9 @@ La non délivrance du CRR n'est en aucun cas éliminatoire pour le candidat.
 
 Les candidats détenteurs soit de l'attestation spéciale passagers (ASP) ou expert passagers, soit du certificat restreint de radiotéléphoniste (CRR) ou ayant validé les épreuves soit de l'ASP, soit du CRR, doivent se présenter à la partie d'épreuve correspondant à la certification non obtenue ou aux épreuves non validées. Dans ce cas, le coefficient de l'épreuve est reporté sur la seule partie de l'épreuve présentée.
 
-Sous épreuve E34 : Economie - Gestion
+Sous épreuve E34 : Economie-Gestion
 
-Unité U34 - Coefficient 1
+Unité U34-Coefficient 1
 
 |
 
@@ -1142,7 +1142,7 @@ La certification vise à évaluer la maîtrise des connaissances et compétences
 
 Modes de l'évaluation
 
-A - Contrôle en cours de formation
+A-Contrôle en cours de formation
 
 L'évaluation de l'Économie-Gestion s'effectue dans l'établissement de formation.
 
@@ -1154,7 +1154,7 @@ Première situation d'évaluation : Résultats d'évaluations significatives (su
 
 Les évaluations significatives, élaborées à partir de situations professionnelles contextualisées correspondant à la spécialité préparée, sont réalisées au cours de la formation et portent sur les thèmes suivants :
 
-• pour l'axe 1 - le contexte professionnel :
+• pour l'axe 1-le contexte professionnel :
 
 THÈME 1.2 La diversité des organisations, leur finalité et leur réalité
 
@@ -1162,7 +1162,7 @@ THÈME 1.3 Les domaines d'activités des organisations
 
 THÈME 1.4 L'environnement économique, juridique et institutionnel
 
-• pour l'axe 2 - l'insertion dans l'organisation :
+• pour l'axe 2-l'insertion dans l'organisation :
 
 THÈME 2.2 L'embauche et la rémunération
 
@@ -1170,7 +1170,7 @@ THÈME 2.3 La structure de l'organisation
 
 THÈME 2.4 Les règles de vie au sein de l'entreprise
 
-• pour l'axe 3 - l'organisation de l'activité :
+• pour l'axe 3-l'organisation de l'activité :
 
 THÈME 3.1 L'activité commerciale
 
@@ -1178,13 +1178,13 @@ THÈME 3.2 L'organisation de la production et du travail
 
 THÈME 3.3 La gestion des ressources humaines
 
-• pour l'axe 4 - la vie de l'organisation :
+• pour l'axe 4-la vie de l'organisation :
 
 THÈME 4.1 L'organisation créatrice de richesses
 
 THÈME 4.2 Les relations avec les partenaires extérieurs
 
-• pour l'axe 5 - les mutations et leurs incidences :
+• pour l'axe 5-les mutations et leurs incidences :
 
 THÈME 5.1 Les mutations de l'environnement
 
@@ -1214,9 +1214,9 @@ Ce projet professionnel est structuré de façon à mettre en évidence :
 
 L'évaluation se déroule en deux temps :
 
-- présentation orale, par le candidat, de son projet professionnel pendant laquelle il n'est pas interrompu,
+-présentation orale, par le candidat, de son projet professionnel pendant laquelle il n'est pas interrompu,
 
-- entretien avec la commission d'évaluation portant sur le projet et sur les connaissances et compétences relevant des trois thèmes cités précédemment.
+-entretien avec la commission d'évaluation portant sur le projet et sur les connaissances et compétences relevant des trois thèmes cités précédemment.
 
 À la date fixée par le formateur d'Économie-Gestion, le candidat se présente à l'entretien muni de son dossier-projet. Celui-ci sert uniquement de support à l'épreuve et n'est pas évalué en tant que tel.
 
@@ -1264,9 +1264,9 @@ Ce projet professionnel est structuré de façon à mettre en évidence :
 
 L'évaluation se déroule en deux temps :
 
-- présentation orale, par le candidat, de son projet professionnel (5 minutes maximum) pendant laquelle il n'est pas interrompu,
+-présentation orale, par le candidat, de son projet professionnel (5 minutes maximum) pendant laquelle il n'est pas interrompu,
 
-- entretien avec la commission d'interrogation (10 minutes maximum) portant sur le projet et sur les connaissances et compétences relevant des trois thèmes cités précédemment.
+-entretien avec la commission d'interrogation (10 minutes maximum) portant sur le projet et sur les connaissances et compétences relevant des trois thèmes cités précédemment.
 
 À la date fixée par les services académiques des examens, le candidat se présente à l'entretien muni de son dossier-projet. Celui-ci sert uniquement de support à l'épreuve et n'est pas évalué en tant que tel.
 
@@ -1288,7 +1288,7 @@ Dans la continuité de la prestation orale (présentation et entretien) du dossi
 
 Le questionnement prend appui sur des situations professionnelles contextualisées correspondant à la spécialité préparée. Il porte sur les thèmes suivants :
 
-• pour l'axe 1 - le contexte professionnel :
+• pour l'axe 1-le contexte professionnel :
 
 THÈME 1.2 La diversité des organisations, leur finalité et leur réalité
 
@@ -1296,7 +1296,7 @@ THÈME 1.3 Les domaines d'activités des organisations
 
 THÈME 1.4 L'environnement économique, juridique et institutionnel
 
-• pour l'axe 2 - l'insertion dans l'organisation :
+• pour l'axe 2-l'insertion dans l'organisation :
 
 THÈME 2.2 L'embauche et la rémunération
 
@@ -1304,7 +1304,7 @@ THÈME 2.3 La structure de l'organisation
 
 THÈME 2.4 Les règles de vie au sein de l'entreprise
 
-• pour l'axe 3 - l'organisation de l'activité :
+• pour l'axe 3-l'organisation de l'activité :
 
 THÈME 3.1 L'activité commerciale
 
@@ -1312,13 +1312,13 @@ THÈME 3.2 L'organisation de la production et du travail
 
 THÈME 3.3 La gestion des ressources humaines
 
-• pour l'axe 4 - la vie de l'organisation :
+• pour l'axe 4-la vie de l'organisation :
 
 THÈME 4.1 L'organisation créatrice de richesses
 
 THÈME 4.2 Les relations avec les partenaires extérieurs
 
-• pour l'axe 5 - les mutations et leurs incidences :
+• pour l'axe 5-les mutations et leurs incidences :
 
 THÈME 5.1 Les mutations de l'environnement
 
@@ -1334,7 +1334,7 @@ La note globale proposée au jury est accompagnée des grilles d'évaluation.
 
 Sous épreuve E35 : Prévention-Santé-Environnement
 
-Unité U35 - Coefficient 1
+Unité U35-Coefficient 1
 
 Objectifs et contenus de la sous-épreuve
 
@@ -1364,7 +1364,7 @@ L'évaluation porte notamment sur :
 
 Modes d'évaluation
 
-A - Contrôle en Cours de Formation
+A-Contrôle en Cours de Formation
 
 Le contrôle en cours de formation est organisé à partir de deux situations d'évaluation.
 
@@ -1394,11 +1394,11 @@ Cette production met en évidence :
 
 • la politique de prévention dans l'entreprise.
 
-B - Contrôle ponctuel - durée 2 heures
+B-Contrôle ponctuel-durée 2 heures
 
 Le sujet se compose de deux parties correspondant l'une aux modules de 1 à 8, l'autre aux modules 9 à 12. Chaque partie comporte plusieurs questions indépendantes ou liées permettant d'évaluer les connaissances et les capacités relatives aux modules correspondants.
 
-- La première partie notée sur 12 pointscomporte :
+-La première partie notée sur 12 pointscomporte :
 
 • Un questionnement noté sur 9 points. Il prend appui sur des situations de la vie quotidienne ou professionnelle et permet d'évaluer :
 
@@ -1408,7 +1408,7 @@ le module 8 noté sur 3 pointsévalué à travers la mise en œuvre de la démar
 
 . Un questionnement noté sur 3 points permet d'expliquer la conduite à tenir face à une situation d'urgence.
 
-- La deuxième partie, notée sur 8 points permet d'évaluer les modules de 9 à 12. L'évaluation s'appuie sur un dossier ressource qui présente une situation d'entreprise. Les contenus du dossier permettent la mise en œuvre de la démarche d'analyse par le travail, la mobilisation des connaissances scientifiques et législatives, l'argumentation des solutions proposées.
+-La deuxième partie, notée sur 8 points permet d'évaluer les modules de 9 à 12. L'évaluation s'appuie sur un dossier ressource qui présente une situation d'entreprise. Les contenus du dossier permettent la mise en œuvre de la démarche d'analyse par le travail, la mobilisation des connaissances scientifiques et législatives, l'argumentation des solutions proposées.
 
 Le dossier fourni au candidat présente :
 
@@ -1436,7 +1436,7 @@ U4
 
 |
 
-Epreuve - E 4
+Epreuve-E 4
 
 |
 
@@ -1454,19 +1454,19 @@ coefficient 2
 
 Modes d'évaluation
 
-A - Contrôle en Cours de Formation
+A-Contrôle en Cours de Formation
 
 Cette évaluation donne lieu à une situation d'évaluation unique.
 
 • Compétences évaluées : expression orale en continu, interaction orale et compréhension de l'écrit.
 
-• Niveau attendu en référence à l'échelle de niveaux du C.E.C.R.L. : B1+.
+• Niveau attendu en référence à l'échelle de niveaux du C. E. C. R. L. : B1 +.
 
 • Durée : 15 minutes, sans préparation ; partie 1 et partie 2 : 5 minutes maximum chacune, notées pour un total de 20 points ; partie 3 : 5 minutes maximum, notée sur 10.
 
 L'évaluation a lieu au cours du sixième semestre de la formation conduisant à la délivrance du diplôme du baccalauréat professionnel. Le calendrier de cette évaluation est établi par le chef d'établissement (ou du centre de formation dans le cas d'un CFA habilité à pratiquer le CCF) après consultation des enseignants concernés. Ces derniers peuvent proposer, au sein de la période considérée, un ordre de passage des candidats qui tient compte de leur degré de maîtrise des compétences à évaluer. Les candidats reçoivent une convocation du chef d'établissement ou du directeur de centre de formation.
 
-L'évaluation est conduite par les professeurs et/ou les formateurs enseignant les langues concernées dans l'établissement quelles que soient les classes ou groupes d'élèves qui leur sont confiés. Elle peut être organisée de manière à ce que les professeurs n'évaluent pas leurs élèves de l'année en cours.
+L'évaluation est conduite par les professeurs et/ ou les formateurs enseignant les langues concernées dans l'établissement quelles que soient les classes ou groupes d'élèves qui leur sont confiés. Elle peut être organisée de manière à ce que les professeurs n'évaluent pas leurs élèves de l'année en cours.
 
 La situation d'évaluation se compose de trois parties, chacune d'une durée maximale de cinq minutes. Aucune de ces trois parties n'est précédée d'un temps de préparation.
 
@@ -1490,7 +1490,7 @@ La deuxième partie vise à évaluer la capacité du candidat à interagir en la
 
 Partie 3
 
-La troisième partie, qui vise à évaluer la capacité du candidat à comprendre un document écrit rédigé en langue étrangère, est conduite en langue française. Elle prend appui sur un document inconnu en langue étrangère ne comportant pas plus de 15 lignes (ligne s'entend au sens de 70 signes environ, y compris les blancs et signes de ponctuation) mis à la disposition du candidat par le professeur. Ce document peut relever de genres différents (publicité, extrait d'article de presse ou d'œuvre littéraire, courrier de nature professionnelle, notice, mode d'emploi, etc.). Il peut être informatif, descriptif, narratif ou argumentatif ; il peut comporter du dialogue. Il est authentique (au sens technique du terme), c'est-à-dire non élaboré ou adapté à des fins d'enseignement. Son degré de difficulté correspond au niveau du C.E.C.R.L. attendu pour les candidats concernés. Il peut comporter des éléments iconographiques (textes illustrés par des photographies, articles de presse accompagnés de dessins, textes publicitaires, bandes dessinées, etc.). On évitera toute spécialisation excessive dans le cas d'un document lié à un secteur professionnel.
+La troisième partie, qui vise à évaluer la capacité du candidat à comprendre un document écrit rédigé en langue étrangère, est conduite en langue française. Elle prend appui sur un document inconnu en langue étrangère ne comportant pas plus de 15 lignes (ligne s'entend au sens de 70 signes environ, y compris les blancs et signes de ponctuation) mis à la disposition du candidat par le professeur. Ce document peut relever de genres différents (publicité, extrait d'article de presse ou d'œuvre littéraire, courrier de nature professionnelle, notice, mode d'emploi, etc.). Il peut être informatif, descriptif, narratif ou argumentatif ; il peut comporter du dialogue. Il est authentique (au sens technique du terme), c'est-à-dire non élaboré ou adapté à des fins d'enseignement. Son degré de difficulté correspond au niveau du C. E. C. R. L. attendu pour les candidats concernés. Il peut comporter des éléments iconographiques (textes illustrés par des photographies, articles de presse accompagnés de dessins, textes publicitaires, bandes dessinées, etc.). On évitera toute spécialisation excessive dans le cas d'un document lié à un secteur professionnel.
 
 Le professeur laisse au candidat le temps nécessaire pour prendre connaissance du support. Durant cette prise de connaissance, le candidat n'est pas autorisé à annoter le document ni à prendre des notes. Le professeur pose ensuite, en français, au candidat des questions graduées (du général au particulier) visant à vérifier son degré de compréhension. Le nombre de questions posées au candidat ne saurait être inférieur à quatre ni excéder six. Enfin, le professeur peut éventuellement demander au candidat de lire à haute voix tout ou partie du document.
 
@@ -1498,15 +1498,15 @@ Pour chaque candidat, le professeur établit son évaluation à partir de la fic
 
 À l'issue de la situation de CCF, le professeur formule une proposition de note et une appréciation. Cette proposition de note ainsi que l'appréciation ne sont pas communiquées au candidat. Le professeur veille à ce que le candidat restitue le document support de la partie 3 de l'épreuve.
 
-La proposition de note attribuée à l'unité "langue vivante" du diplôme du baccalauréat professionnel est constituée de la moyenne des notes obtenues à chacune des composantes de la situation de CCF. Elle est, le cas échéant, arrondie au demi-point le plus proche. La note finale est arrêtée par le jury.
+La proposition de note attribuée à l'unité " langue vivante " du diplôme du baccalauréat professionnel est constituée de la moyenne des notes obtenues à chacune des composantes de la situation de CCF. Elle est, le cas échéant, arrondie au demi-point le plus proche. La note finale est arrêtée par le jury.
 
-B - Contrôle ponctuel - épreuve orale - durée 15 minutes
+B-Contrôle ponctuel-épreuve orale-durée 15 minutes
 
 Cette épreuve est une épreuve orale.
 
 • Compétences évaluées : expression orale en continu, interaction orale et compréhension de l'écrit.
 
-• Niveau attendu en référence à l'échelle de niveaux du C.E.C.R.L. : B1+ .
+• Niveau attendu en référence à l'échelle de niveaux du C. E. C. R. L. : B1 +.
 
 • Durée : 15 minutes, précédées d'un temps de préparation de 5 minutes pour la première partie de l'épreuve ; partie 1 et partie 2 : 5 minutes maximum chacune, notées pour un total de 20 points ; partie 3 : 5 minutes maximum, notée sur 10.
 
@@ -1532,7 +1532,7 @@ La deuxième partie de l'épreuve vise à évaluer la capacité du candidat à i
 
 Partie 3
 
-La troisième partie, qui vise à évaluer la capacité du candidat à comprendre un document écrit rédigé en langue étrangère, est conduite en langue française. Elle prend appui sur un document inconnu en langue étrangère ne comportant pas plus de 15 lignes (ligne s'entend au sens de 70 signes environ y compris les blancs et signes de ponctuation) mis à la disposition du candidat par le professeur. Ce document peut relever de genres différents (publicité, extrait d'article de presse ou d'œuvre littéraire, courrier de nature professionnelle, notice, mode d'emploi, etc.). Il peut être informatif, descriptif, narratif ou argumentatif ; il peut comporter du dialogue. Il est authentique (au sens technique du terme), c'est-à-dire non élaboré ou adapté à des fins d'enseignement. Son degré de difficulté correspond au niveau du C.E.C.R.L. attendu pour les candidats concernés. Il peut comporter des éléments iconographiques (textes illustrés par des photographies, articles de presse accompagnés de dessins, textes publicitaires, bandes dessinées, etc.). On évitera toute spécialisation excessive dans le cas d'un document lié à un secteur professionnel.
+La troisième partie, qui vise à évaluer la capacité du candidat à comprendre un document écrit rédigé en langue étrangère, est conduite en langue française. Elle prend appui sur un document inconnu en langue étrangère ne comportant pas plus de 15 lignes (ligne s'entend au sens de 70 signes environ y compris les blancs et signes de ponctuation) mis à la disposition du candidat par le professeur. Ce document peut relever de genres différents (publicité, extrait d'article de presse ou d'œuvre littéraire, courrier de nature professionnelle, notice, mode d'emploi, etc.). Il peut être informatif, descriptif, narratif ou argumentatif ; il peut comporter du dialogue. Il est authentique (au sens technique du terme), c'est-à-dire non élaboré ou adapté à des fins d'enseignement. Son degré de difficulté correspond au niveau du C. E. C. R. L. attendu pour les candidats concernés. Il peut comporter des éléments iconographiques (textes illustrés par des photographies, articles de presse accompagnés de dessins, textes publicitaires, bandes dessinées, etc.). On évitera toute spécialisation excessive dans le cas d'un document lié à un secteur professionnel.
 
 Le professeur laisse au candidat le temps nécessaire pour prendre connaissance du support. Durant cette phase, le candidat n'est pas autorisé à annoter le document ni à prendre des notes. Le professeur pose ensuite, en français, au candidat des questions graduées (du général au particulier) visant à vérifier son degré de compréhension. Le nombre de questions posées ne saurait être inférieur à quatre ni excéder six. Enfin, le professeur peut éventuellement demander au candidat de lire à haute voix tout ou partie du document.
 
@@ -1548,9 +1548,9 @@ E5
 
 |
 
-ÉPREUVE DE FRANÇAIS ET HISTOIRE -
+ÉPREUVE DE FRANÇAIS ET HISTOIRE-
 
-GÉOGRAPHIE ET ÉDUCATION CIVIQUE
+GÉOGRAPHIE ET ENSEIGNEMENT MORAL ET CIVIQUE
 
 |
 
@@ -1558,11 +1558,11 @@ Coefficient 5
 
 |
 
-U51 - U52
+U51-U52
 
 |
 
-Sous-épreuve - E 51
+Sous-épreuve-E 51
 
 |
 
@@ -1580,7 +1580,7 @@ coefficient 2.5
 
 Modes d'évaluation
 
-A - Contrôle en Cours de Formation - durée indicative 2h30
+A-Contrôle en Cours de Formation-durée indicative 2h30
 
 La certification en cours de formation comprend deux situations d'évaluation, toutes les deux notées sur 20.
 
@@ -1588,11 +1588,11 @@ Première situation d'évaluation : compétences de lecture (durée maximale : 1
 
 Support : un corpus de textes et documents (2 à 3) référé à un des trois objets d'étude de la dernière année de formation
 
-1) Question portant sur le corpus : "Présentation du corpus" (6 points)
+1) Question portant sur le corpus : " Présentation du corpus " (6 points)
 
 Le candidat rédige quelques lignes (de 3 à 6 environ) pour présenter les relations que les documents proposés dans le corpus entretiennent entre eux.
 
-2) Question(s) portant sur un ou des documents du corpus : "Analyse et interprétation" (notée sur 14) Le candidat analyse un ou deux effets d'écriture (inscrits dans le libellé de la ou des deux questions) et en propose une interprétation.
+2) Question (s) portant sur un ou des documents du corpus : " Analyse et interprétation " (notée sur 14) Le candidat analyse un ou deux effets d'écriture (inscrits dans le libellé de la ou des deux questions) et en propose une interprétation.
 
 Deuxième situation d'évaluation : compétences d'écriture (durée maximale : 1 h 30)
 
@@ -1600,17 +1600,17 @@ Support : un corpus de textes et documents (2 à 3) référé à un autre des tr
 
 Lors de la situation d'évaluation, un sujet est proposé aux candidats ; ce sujet indique une question explicitement posée en lien avec le corpus proposé et avec l'objet d'étude.
 
-B - Contrôle ponctuel - épreuve écrite - durée 2h30
+B-Contrôle ponctuel-épreuve écrite-durée 2h30
 
 Support : un corpus de textes et documents (2 à 3) référé à l'un des objets d'étude de l'année de Terminale.
 
 Première partie : compétences de lecture (10 points)
 
-1) Question portant sur le corpus : "Présentation du corpus"
+1) Question portant sur le corpus : " Présentation du corpus "
 
 Le candidat rédige quelques lignes (de 3 à 6 environ) pour présenter les relations que les documents proposés dans le corpus entretiennent entre eux.
 
-2) Question(s) portant sur un ou des documents du corpus : "Analyse et interprétation"
+2) Question (s) portant sur un ou des documents du corpus : " Analyse et interprétation "
 
 Le candidat analyse un ou deux effets d'écriture (inscrits dans le libellé de la ou des deux questions) et en propose une interprétation.
 
@@ -1618,11 +1618,11 @@ Deuxième partie : compétences d'écriture (10 points)
 
 Dans le libellé du sujet une question est posée en lien avec le corpus proposé en première partie. Le candidat répond à cette question en une quarantaine de lignes et de façon argumentée.
 
-Sous-épreuve - E 52
+Sous-épreuve-E 52
 
 |
 
-Histoire - Géographie et Education civique
+Histoire-Géographie et Enseignement moral et civique
 
 |
 
@@ -1636,29 +1636,29 @@ coefficient 2.5
 
 Modes d'évaluation
 
-A - Contrôle en Cours de Formation - durée indicative 2 heures
+A-Contrôle en Cours de Formation-durée indicative 2 heures
 
 • Évaluation par contrôle en cours de formation
 
-Le contrôle en cours de formation évalue la maîtrise des savoirs et des capacités en histoire, géographie et éducation civique définis dans les programmes de la classe de terminale professionnelle. Il est constitué de deux situations d'évaluation.
+Le contrôle en cours de formation évalue la maîtrise des savoirs et des capacités en histoire, géographie et enseignement moral et civique définis dans les programmes de la classe de terminale professionnelle. Il est constitué de deux situations d'évaluation.
 
-La première situation porte sur les sujets d'étude soit d'histoire soit de géographie. Elle est composée d'une ou plusieurs questions et peut comporter un support documentaire. Une des questions doit avoir une connotation civique en rapport avec le programme d'éducation civique.
+La première situation porte sur les sujets d'étude soit d'histoire soit de géographie. Elle est composée d'une ou plusieurs questions et peut comporter un support documentaire. Une des questions doit avoir une connotation civique en rapport avec le programme d' enseignement moral et civique.
 
-La deuxième situation porte sur la discipline qui n'a pas été l'objet de la première épreuve. Elle consiste en une analyse de document(s). Elle porte sur les situations d'un des sujets d'étude.
+La deuxième situation porte sur la discipline qui n'a pas été l'objet de la première épreuve. Elle consiste en une analyse de document (s). Elle porte sur les situations d'un des sujets d'étude.
 
-B - Contrôle ponctuel - épreuve écrite - durée 2 heures
+B-Contrôle ponctuel-épreuve écrite-durée 2 heures
 
-Évaluation sous forme ponctuelle - durée 2 h
+Évaluation sous forme ponctuelle-durée 2 h
 
-L'examen de baccalauréat professionnel évalue la maîtrise des savoirs et des capacités en histoire- géographie et éducation civique définis dans les programmes de la classe de terminale professionnelle.
+L'examen de baccalauréat professionnel évalue la maîtrise des savoirs et des capacités en histoire-géographie et enseignement moral et civique définis dans les programmes de la classe de terminale professionnelle.
 
-L'épreuve, d'une durée de deux heures, comporte trois parties, notées respectivement 9, 4 et 7 points.
+L'épreuve, d'une durée de deux heures, comporte trois parties, notées respectivement 9,4 et 7 points.
 
 La première partie porte sur les sujets d'étude, soit d'histoire soit de géographie. Elle propose deux sujets au choix. Chaque sujet est composé d'une ou plusieurs questions et peut comporter un support documentaire.
 
-La deuxième partie porte sur le programme d'éducation civique. Elle est composée d'une question et peut comporter un support documentaire.
+La deuxième partie porte sur le programme d' enseignement moral et civique. Elle est composée d'une question et peut comporter un support documentaire.
 
-La troisième partieporte sur la discipline qui n'est pas l'objet de la première partie. Elle consiste en une analyse de document(s) portant sur les situations d'un des sujets d'étude.
+La troisième partieporte sur la discipline qui n'est pas l'objet de la première partie. Elle consiste en une analyse de document (s) portant sur les situations d'un des sujets d'étude.
 
 E6
 
@@ -1680,15 +1680,15 @@ Objectifs et contenus de l'épreuve
 
 Le sujet pose une question simple à partir d'un ensemble documentaire limité (3 formats A4 maximum).
 
-Les documents relèvent des champs 1 : "Appréhender son espace de vie", 2 : "Construire son identité culturelle" et 3 : "Élargir sa culture artistique" ; ils intègrent la dimension histoire des arts.
+Les documents relèvent des champs 1 : " Appréhender son espace de vie ", 2 : " Construire son identité culturelle " et 3 : " Élargir sa culture artistique " ; ils intègrent la dimension histoire des arts.
 
 Modes d'évaluation
 
-A - Contrôle en Cours de Formation
+A-Contrôle en Cours de Formation
 
 Le contrôle en cours de formation comporte deux situations d'évaluation organisées au cours de la formation. Sur un sujet personnel, défini en accord avec le professeur d'arts appliqués, le candidat constitue un dossier. Ce dossier est réalisé en classe, sur une durée limitée.
 
-Le sujet porte sur le contenu d'un des champs du programme : "Appréhender son espace de vie", "Construire son identité culturelle", "Élargir sa culture artistique". Une partie histoire des arts est clairement identifiée.
+Le sujet porte sur le contenu d'un des champs du programme : " Appréhender son espace de vie ", " Construire son identité culturelle ", " Élargir sa culture artistique ". Une partie histoire des arts est clairement identifiée.
 
 Première situation
 
@@ -1706,7 +1706,7 @@ Le candidat montre qu'il est capable de repérer de façon autonome les caracté
 
 • les présenter de façon lisible et expressive ;
 
-Cette partie compte pour 30% de la note globale.
+Cette partie compte pour 30 % de la note globale.
 
 Deuxième situation
 
@@ -1724,9 +1724,9 @@ Le candidat montre qu'il est sensibilisé à son environnement culturel en appuy
 
 • s'exprimer dans un langage correct et précis en utilisant le vocabulaire technique approprié.
 
-Cette partie compte pour 70% de la note globale.
+Cette partie compte pour 70 % de la note globale.
 
-B - Contrôle ponctuel - épreuve écrite - durée 1h 30
+B-Contrôle ponctuel-épreuve écrite-durée 1h 30
 
 Le candidat choisit l'un des champs et doit montrer qu'il est capable :
 
@@ -1780,7 +1780,7 @@ La langue vivante choisie au titre de l'épreuve facultative est obligatoirement
 
 Épreuve orale d'une durée de 15 minutes, précédée d'un temps de préparation de 5 minutes pour la première partie de l'épreuve. Partie 1 et partie 2 : 5 minutes maximum chacune, notées pour un total de 20 points. Partie 3 : 5 minutes maximum, notée sur 10.
 
-Niveau attendu en référence à l'échelle de niveaux du C.E.C.R.L. : B1+
+Niveau attendu en référence à l'échelle de niveaux du C. E. C. R. L. : B1 +
 
 Cette épreuve est organisée par le recteur d'académie dans un centre d'examen. Le candidat reçoit une convocation.
 
@@ -1806,7 +1806,7 @@ Partie 3
 
 La troisième partie, qui vise à évaluer la capacité du candidat à comprendre un document écrit rédigé en langue étrangère, est conduite en langue française. Elle prend appui sur un document inconnu en langue étrangère ne comportant pas plus de 15 lignes (ligne s'entend au sens de 70 signes environ y compris les blancs et signes de ponctuation) mis à la disposition du candidat par l'examinateur.
 
-Ce document peut relever de genres différents (publicité, extrait d'article de presse ou d'œuvre littéraire, courrier de nature professionnelle, notice, mode d'emploi, etc.). Il peut être informatif, descriptif, narratif ou argumentatif ; il peut comporter du dialogue. Il est authentique (au sens technique du terme), c'est-à-dire non élaboré ou adapté à des fins d'enseignement. Son degré de difficulté correspond au niveau du C.E.C.R.L. attendu pour les candidats concernés. Il peut comporter des éléments iconographiques (textes illustrés par des photographies, articles de presse accompagnés de dessins, textes publicitaires, bandes dessinées, etc.). On évitera toute spécialisation excessive dans le cas d'un document lié à un secteur professionnel.
+Ce document peut relever de genres différents (publicité, extrait d'article de presse ou d'œuvre littéraire, courrier de nature professionnelle, notice, mode d'emploi, etc.). Il peut être informatif, descriptif, narratif ou argumentatif ; il peut comporter du dialogue. Il est authentique (au sens technique du terme), c'est-à-dire non élaboré ou adapté à des fins d'enseignement. Son degré de difficulté correspond au niveau du C. E. C. R. L. attendu pour les candidats concernés. Il peut comporter des éléments iconographiques (textes illustrés par des photographies, articles de presse accompagnés de dessins, textes publicitaires, bandes dessinées, etc.). On évitera toute spécialisation excessive dans le cas d'un document lié à un secteur professionnel.
 
 L'examinateur laisse au candidat le temps nécessaire pour prendre connaissance du support. Durant cette prise de connaissance, le candidat n'est pas autorisé à annoter le document ni à prendre des notes. L'examinateur pose ensuite, en français, des questions graduées (du général au particulier) visant à évaluer chez le candidat son degré de compréhension du document. Le nombre de questions posées au candidat ne saurait être inférieur à quatre ni excéder six. Enfin, l'examinateur professeur peut éventuellement demander au candidat de lire à haute voix tout ou partie du document.
 
@@ -1816,7 +1816,7 @@ Pour chaque candidat, l'examinateur établit son évaluation à partir de la fic
 
 La proposition de note attribuée à l'épreuve facultative de langue vivante du diplôme du baccalauréat professionnel est constituée de la moyenne des notes obtenues à chacune des composantes de l'épreuve. Elle est, le cas échéant, arrondie au point le plus proche. La note finale est arrêtée par le jury.
 
-DÉFINITION DE L'ÉPREUVE FACULTATIVE DE LANGUE DES SIGNES FRANCAISE (L.S.F.) DANS
+DÉFINITION DE L'ÉPREUVE FACULTATIVE DE LANGUE DES SIGNES FRANCAISE (L. S. F.) DANS
 
 LES SPÉCIALITÉS DE BACCALAURÉATS PROFESSIONNELS
 
@@ -1828,9 +1828,9 @@ Déroulement de l'épreuve :
 
 Pendant le temps de préparation de 30 minutes, l'examinateur propose au candidat deux documents :
 
-- un document iconographique contemporain,
+-un document iconographique contemporain,
 
-- un texte contemporain, écrit en français d'une longueur maximale de 2000 signes typographiques.
+-un texte contemporain, écrit en français d'une longueur maximale de 2000 signes typographiques.
 
 Au cours de la même journée d'interrogation, chaque examinateur veillera à proposer deux documents différents à chaque candidat.
 
@@ -1848,16 +1848,16 @@ Le candidat doit :
 
 a) pour la présentation du document (durée : 5 minutes, notée sur 10 points)
 
-- être capable de rendre compte du contenu du document qui lui est proposé, pouvoir le décrire, expliciter la situation ou le thème présenté, apporter un commentaire personnel s'il le juge approprié ou pertinent.
+-être capable de rendre compte du contenu du document qui lui est proposé, pouvoir le décrire, expliciter la situation ou le thème présenté, apporter un commentaire personnel s'il le juge approprié ou pertinent.
 
-- faire la preuve de sa capacité à signer clairement, à un rythme naturel et à un niveau qui n'entrave pas la transmission de sa présentation.
+-faire la preuve de sa capacité à signer clairement, à un rythme naturel et à un niveau qui n'entrave pas la transmission de sa présentation.
 
 b) pour l'entretien (durée : 25 minutes, noté sur 10 points)
 
-- comprendre des signes familiers et fréquents portant sur des domaines familiers ou des questions d'actualité que l'examinateur utilise de façon naturelle.
+-comprendre des signes familiers et fréquents portant sur des domaines familiers ou des questions d'actualité que l'examinateur utilise de façon naturelle.
 
-- être capable de faire face à une situation de communication où il lui est demandé de bien recevoir un message ou une question, afin de pouvoir réagir ou répondre en s'exprimant à son tour par des signes clairs et à un rythme convenable.
+-être capable de faire face à une situation de communication où il lui est demandé de bien recevoir un message ou une question, afin de pouvoir réagir ou répondre en s'exprimant à son tour par des signes clairs et à un rythme convenable.
 
-- faire preuve d'une certaine aisance : signer en continu pour exprimer ou défendre un point de vue, argumenter, voire apporter une contradiction.
+-faire preuve d'une certaine aisance : signer en continu pour exprimer ou défendre un point de vue, argumenter, voire apporter une contradiction.
 
 Le candidat, tout comme l'examinateur, peut étendre la discussion sur d'autres points sans lien direct avec le document.

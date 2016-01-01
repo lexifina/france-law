@@ -4,7 +4,7 @@ Règlement d'examen
 
 SPECIALITE
 
-"conducteur transport routier marchandises" du baccalauréat professionnel
+" conducteur transport routier marchandises " du baccalauréat professionnel
 
 |
 
@@ -82,7 +82,7 @@ Durée
 
 |
 
-E1- Épreuve scientifique et technique
+E1-Épreuve scientifique et technique
 
 |
 
@@ -192,7 +192,7 @@ CCF
 
 |
 
-E2- Épreuve technologique :
+E2-Épreuve technologique :
 
 Étude de cas : préparation d'une activité de transport routier
 
@@ -222,7 +222,7 @@ CCF
 
 |
 
-E3- Épreuve prenant en compte la formation en entreprise
+E3-Épreuve prenant en compte la formation en entreprise
 
 |
 
@@ -388,7 +388,7 @@ CCF
 
 |
 
-E4- Épreuve de langue vivante
+E4-Épreuve de langue vivante
 
 |
 
@@ -416,7 +416,7 @@ CCF
 
 |
 
-E5- Épreuve de français et histoire-géographie et éducation civique
+E5-Épreuve de français et histoire-géographie et enseignement moral et civique
 
 |
 
@@ -500,7 +500,7 @@ CCF
 
 |
 
-E6 - Épreuve d'arts appliqués et cultures artistiques
+E6-Épreuve d'arts appliqués et cultures artistiques
 
 |
 
@@ -528,7 +528,7 @@ CCF
 
 |
 
-E7 - Épreuve d'éducation physique et sportive
+E7-Épreuve d'éducation physique et sportive
 
 |
 

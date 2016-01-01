@@ -10,15 +10,15 @@ Unités professionnelles
 
 La définition du contenu des unités professionnelles du diplôme a pour but de préciser, pour chacune d'elles, quelles tâches et compétences professionnelles sont concernées et dans quel contexte. Il s'agit à la fois de :
 
-- permettre la mise en correspondance des activités professionnelles et des unités dans le cadre du dispositif de validation des acquis de l'expérience (VAE) ;
+-permettre la mise en correspondance des activités professionnelles et des unités dans le cadre du dispositif de validation des acquis de l'expérience (VAE) ;
 
-- établir la liaison entre les unités, correspondant aux épreuves, et le référentiel d'activités professionnelles afin de préciser le cadre de l'évaluation.
+-établir la liaison entre les unités, correspondant aux épreuves, et le référentiel d'activités professionnelles afin de préciser le cadre de l'évaluation.
 
 ACTIVITÉS
 
 |
 
-COMPÉTENCES / UNITÉS
+COMPÉTENCES/ UNITÉS
 
 |
 
@@ -52,7 +52,7 @@ L'accueil en face à face
 
 |
 
-111.1 Saluer et recevoir le client/usager
+111.1 Saluer et recevoir le client/ usager
 
 |
 
@@ -250,7 +250,7 @@ X
 
 |
 
-122.3 Annoncer le client/usager
+122.3 Annoncer le client/ usager
 
 |
 
@@ -268,7 +268,7 @@ X
 
 |
 
-122.4 Guider, accompagner le client/usager
+122.4 Guider, accompagner le client/ usager
 
 |
 
@@ -286,7 +286,7 @@ X
 
 |
 
-122.5 Proposer des solutions susceptibles d'aider le client/usager
+122.5 Proposer des solutions susceptibles d'aider le client/ usager
 
 |
 
@@ -304,7 +304,7 @@ X
 
 |
 
-122.6 Vérifier la compréhension et la pertinence de la proposition et/ou de l'information
+122.6 Vérifier la compréhension et la pertinence de la proposition et/ ou de l'information
 
 |
 
@@ -340,7 +340,7 @@ X
 
 |
 
-123.1 Accompagner et assister les clients/usagers
+123.1 Accompagner et assister les clients/ usagers
 
 |
 
@@ -394,7 +394,7 @@ X
 
 |
 
-124.1 Orienter/installer le client/usager vers l'espace d'attente ou proposer une alternative à l'attente
+124.1 Orienter/ installer le client/ usager vers l'espace d'attente ou proposer une alternative à l'attente
 
 |
 
@@ -412,7 +412,7 @@ X
 
 |
 
-124.2 Évaluer le temps d'attente et en tenir informé le client/usager
+124.2 Évaluer le temps d'attente et en tenir informé le client/ usager
 
 |
 
@@ -502,7 +502,7 @@ X
 
 |
 
-131.1 Vérifier la satisfaction de la demande du client/usager
+131.1 Vérifier la satisfaction de la demande du client/ usager
 
 |
 
@@ -520,7 +520,7 @@ X
 
 |
 
-131.2 Conclure l'échange et saluer le client/usager
+131.2 Conclure l'échange et saluer le client/ usager
 
 |
 
@@ -1108,7 +1108,7 @@ X
 
 |
 
-321.1 Gérer simultanément les clients/usagers et les appels téléphoniques
+321.1 Gérer simultanément les clients/ usagers et les appels téléphoniques
 
 |
 
@@ -1162,7 +1162,7 @@ X
 
 |
 
-321.4 Organiser l'attente des clients/usagers
+321.4 Organiser l'attente des clients/ usagers
 
 |
 
@@ -1492,7 +1492,7 @@ X
 
 |
 
-412.1 Cerner les besoins du client/usager
+412.1 Cerner les besoins du client/ usager
 
 |
 
@@ -2330,17 +2330,17 @@ X
 
 UNITES D'ENSEIGNEMENT GENERAL
 
-Unité (U11, épreuve E1) : Économie -Droit
+Unité (U11, épreuve E1) : Économie-Droit
 
-L'unité est définie au regard des capacités et compétences mentionnées dans l'arrêté fixant les programmes d'enseignement d'économie - droit pour les classes préparatoires au baccalauréat professionnel.
+L'unité est définie au regard des capacités et compétences mentionnées dans l'arrêté fixant les programmes d'enseignement d'économie-droit pour les classes préparatoires au baccalauréat professionnel.
 
 Unité (U12, épreuve E1) : Mathématiques
 
 L'unité de mathématiques englobe l'ensemble des objectifs, capacités, compétences et savoir-faire mentionnés dans l'arrêté du 10 février 2009 fixant notamment le programme d'enseignement de mathématiques (groupement C) pour les classes préparatoires au baccalauréat professionnel (BOEN spécial no 2 du 19 février 2009).
 
-Unité (U34, épreuve E3) : Prévention - Santé - environnement
+Unité (U34, épreuve E3) : Prévention-Santé-environnement
 
-L'unité englobe l'ensemble des connaissances et capacités mentionnées dans l'arrêté du 10 février 2009 fixant le programme d'enseignement de Prévention - santé - environnement pour les classes préparatoires au baccalauréat professionnel (BOEN spécial no 2 du 19 février 2009).
+L'unité englobe l'ensemble des connaissances et capacités mentionnées dans l'arrêté du 10 février 2009 fixant le programme d'enseignement de Prévention-santé-environnement pour les classes préparatoires au baccalauréat professionnel (BOEN spécial no 2 du 19 février 2009).
 
 Unité (U41, épreuve E4) : Langue vivante 1
 
@@ -2354,7 +2354,7 @@ Unité (U51, épreuve E5) : Français
 
 L'unité est définie par les compétences établies par l'arrêté du 10 février 2009 fixant le programme de français pour les classes préparatoires au baccalauréat professionnel (BOEN spécial no 2 du 19 février 2009).
 
-Unité (U52, épreuve E5) : Histoire, géographie et éducation civique
+Unité (U52, épreuve E5) : Histoire, géographie et enseignement moral et civique
 
 L'unité est définie par les compétences établies par l'arrêté du 10 février 2009 fixant le programme d'enseignement de l'histoire et de la géographie pour les classes préparatoires français pour les classes préparatoires au baccalauréat professionnel (BOEN spécial no 2 du 19 février 2009).
 

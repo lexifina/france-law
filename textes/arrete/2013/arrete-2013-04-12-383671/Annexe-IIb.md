@@ -296,7 +296,7 @@ CCF
 
 |
 
-Sous-épreuve E33 : Économie - gestion
+Sous-épreuve E33 : Économie-gestion
 
 |
 
@@ -326,7 +326,7 @@ CCF
 
 |
 
-Sous-épreuve E34 : Prévention- santé-environnement
+Sous-épreuve E34 : Prévention-santé-environnement
 
 |
 
@@ -382,7 +382,7 @@ CCF
 
 |
 
-E5 : Épreuve de français, histoire - géographie et éducation civique
+E5 : Épreuve de français, histoire-géographie et enseignement moral et civique
 
 |
 
@@ -434,7 +434,7 @@ CCF
 
 |
 
-Sous-épreuve E52 : Histoire - géographie et éducation civique
+Sous-épreuve E52 : Histoire-géographie et enseignement moral et civique
 
 |
 
@@ -530,7 +530,7 @@ CCF
 
 Épreuves facultatives
 
-Langue vivante(3) ou Langue des signes française (LSF)
+Langue vivante (3) ou Langue des signes française (LSF)
 
 |
 

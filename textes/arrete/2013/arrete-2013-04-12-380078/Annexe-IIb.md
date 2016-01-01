@@ -276,7 +276,7 @@ CCF
 
 |
 
-Sous-épreuve E32 : Montage - démontage
+Sous-épreuve E32 : Montage-démontage
 
 |
 
@@ -372,7 +372,7 @@ CCF
 
 |
 
-Sous-épreuve E35 : Économie - gestion
+Sous-épreuve E35 : Économie-gestion
 
 |
 
@@ -404,7 +404,7 @@ CCF
 
 |
 
-Sous-épreuve E36 : Prévention - santé - environnement
+Sous-épreuve E36 : Prévention-santé-environnement
 
 |
 
@@ -466,7 +466,7 @@ CCF
 
 |
 
-E5 : Épreuve de français, histoire - géographie et éducation civique
+E5 : Épreuve de français, histoire-géographie et enseignement moral et civique
 
 |
 
@@ -520,7 +520,7 @@ CCF
 
 |
 
-Sous-épreuve E52 : Histoire - géographie et éducation civique
+Sous-épreuve E52 : Histoire-géographie et enseignement moral et civique
 
 |
 
@@ -942,7 +942,7 @@ CCF
 
 |
 
-Sous-épreuve E32 : Montage - démontage
+Sous-épreuve E32 : Montage-démontage
 
 |
 
@@ -1038,7 +1038,7 @@ CCF
 
 |
 
-Sous-épreuve E35 : Économie - gestion
+Sous-épreuve E35 : Économie-gestion
 
 |
 
@@ -1070,7 +1070,7 @@ CCF
 
 |
 
-Sous-épreuve E36 : Prévention - santé - environnement
+Sous-épreuve E36 : Prévention-santé-environnement
 
 |
 
@@ -1132,7 +1132,7 @@ CCF
 
 |
 
-E5 : Épreuve de français, histoire - géographie et éducation civique
+E5 : Épreuve de français, histoire-géographie et enseignement moral et civique
 
 |
 
@@ -1186,7 +1186,7 @@ CCF
 
 |
 
-Sous-épreuve E52 : Histoire - géographie et éducation civique
+Sous-épreuve E52 : Histoire-géographie et enseignement moral et civique
 
 |
 
@@ -1606,7 +1606,7 @@ CCF
 
 |
 
-Sous-épreuve E32 : Montage - démontage
+Sous-épreuve E32 : Montage-démontage
 
 |
 
@@ -1702,7 +1702,7 @@ CCF
 
 |
 
-Sous-épreuve E35 : Économie - gestion
+Sous-épreuve E35 : Économie-gestion
 
 |
 
@@ -1734,7 +1734,7 @@ CCF
 
 |
 
-Sous-épreuve E36 : Prévention - santé - environnement
+Sous-épreuve E36 : Prévention-santé-environnement
 
 |
 
@@ -1796,7 +1796,7 @@ CCF
 
 |
 
-E5 : Épreuve de français, histoire - géographie et éducation civique
+E5 : Épreuve de français, histoire-géographie et enseignement moral et civique
 
 |
 
@@ -1850,7 +1850,7 @@ CCF
 
 |
 
-Sous-épreuve E52 : Histoire - géographie et éducation civique
+Sous-épreuve E52 : Histoire-géographie et enseignement moral et civique
 
 |
 

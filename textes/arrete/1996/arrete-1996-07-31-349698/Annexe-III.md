@@ -22,7 +22,7 @@ annuelle moyenne indicative
 
 |
 
-I - Enseignements obligatoires incluant les activités de projet
+I-Enseignements obligatoires incluant les activités de projet
 
 |
 
@@ -54,7 +54,7 @@ Prévention-santé-environnement
 
 |
 
-Français et/ou mathématiques et/ou langue vivante et/ou arts appliqués
+Français et/ ou mathématiques et/ ou langue vivante et/ ou arts appliqués
 
 |
 
@@ -70,7 +70,7 @@ Enseignements généraux
 
 |
 
-Français, histoire-géographie, éducation civique
+Français, histoire-géographie, enseignement moral et civique
 
 |
 
@@ -126,7 +126,7 @@ EPS
 
 |
 
-75(1)
+75 (1)
 
 |
 
@@ -142,7 +142,7 @@ Total
 
 |
 
-II - Accompagnement personnalisé
+II-Accompagnement personnalisé
 
 |
 

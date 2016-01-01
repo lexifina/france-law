@@ -76,7 +76,7 @@ E1 : Épreuve scientifique
 
 |
 
-Sous - Épreuve E11 :
+Sous-Épreuve E11 :
 
 |
 
@@ -124,7 +124,7 @@ Mathématiques
 
 |
 
-Sous - Épreuve E12 :
+Sous-Épreuve E12 :
 
 Sciences physiques et chimiques
 
@@ -180,7 +180,7 @@ E2 : Épreuve technologique
 
 |
 
-Sous - Épreuve E21 :
+Sous-Épreuve E21 :
 
 Technologie professionnelle et Dessin morphologique
 
@@ -216,7 +216,7 @@ CCF
 
 |
 
-Sous - Épreuve E22 :
+Sous-Épreuve E22 :
 
 Hygiène et réglementation appliquées au laboratoire
 
@@ -308,7 +308,7 @@ CCF
 
 |
 
-Sous - Épreuve E32 : Pratique professionnelle 2
+Sous-Épreuve E32 : Pratique professionnelle 2
 
 |
 
@@ -340,11 +340,11 @@ CCF
 
 |
 
-Prothèse partielle métallique - Prothèse fixée - Conception assistée par ordinateur
+Prothèse partielle métallique-Prothèse fixée-Conception assistée par ordinateur
 
 |
 
-Sous- Épreuve E33 : Rapport d'activités en milieu professionnel
+Sous-Épreuve E33 : Rapport d'activités en milieu professionnel
 
 |
 
@@ -408,7 +408,7 @@ CCF
 
 |
 
-Sous-épreuve E35 : Prévention - santé -environnement
+Sous-épreuve E35 : Prévention-santé-environnement
 
 |
 
@@ -472,7 +472,7 @@ CCF
 
 |
 
-E5 : Épreuve de français, histoire - géographie et éducation civique
+E5 : Épreuve de français, histoire-géographie et enseignement moral et civique
 
 |
 
@@ -494,7 +494,7 @@ E5 : Épreuve de français, histoire - géographie et éducation civique
 
 |
 
-Sous - épreuve E51 : Français
+Sous-épreuve E51 : Français
 
 |
 
@@ -528,7 +528,7 @@ CCF
 
 |
 
-Sous - épreuve E52 : Histoire - géographie et éducation civique
+Sous-épreuve E52 : Histoire-géographie et enseignement moral et civique
 
 |
 

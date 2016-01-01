@@ -10,27 +10,27 @@ L'unité est définie au regard des capacités et compétences mentionnées dans
 
 Unité U12, épreuve E1 : Mathématiques
 
-L'unité de mathématiques englobe l'ensemble des objectifs, capacités, compétences et savoir-faire mentionnés dans l'arrêté du 10 février 2009 fixant notamment le programme d'enseignement de mathématiques (groupement C) pour les classes préparatoires au baccalauréat professionnel (B.O.EN spécial no 2 du 19 février 2009).
+L'unité de mathématiques englobe l'ensemble des objectifs, capacités, compétences et savoir-faire mentionnés dans l'arrêté du 10 février 2009 fixant notamment le programme d'enseignement de mathématiques (groupement C) pour les classes préparatoires au baccalauréat professionnel (B. O. EN spécial no 2 du 19 février 2009).
 
 Unité U32, épreuve E3 : Prévention-santé-environnement
 
-L'unité englobe l'ensemble des connaissances et capacités mentionnées dans l'arrêté du 10 février 2009 fixant le programme d'enseignement de prévention-santé-environnement pour les classes préparatoires au baccalauréat professionnel (B.O.EN spécial n° 2 du 19 février 2009).
+L'unité englobe l'ensemble des connaissances et capacités mentionnées dans l'arrêté du 10 février 2009 fixant le programme d'enseignement de prévention-santé-environnement pour les classes préparatoires au baccalauréat professionnel (B. O. EN spécial n° 2 du 19 février 2009).
 
 Unité U41, épreuve E4 : Langue vivante 1
 
-L'unité englobe l'ensemble des objectifs, capacités et compétences énumérés dans l'arrêté du 10 février 2009 fixant le programme d'enseignement de langues vivantes étrangères pour les classes préparatoires au certificat d'aptitude professionnelle et pour les classes préparatoires au baccalauréat professionnel (B.O.EN spécial n° 2 du 19 février 2009).
+L'unité englobe l'ensemble des objectifs, capacités et compétences énumérés dans l'arrêté du 10 février 2009 fixant le programme d'enseignement de langues vivantes étrangères pour les classes préparatoires au certificat d'aptitude professionnelle et pour les classes préparatoires au baccalauréat professionnel (B. O. EN spécial n° 2 du 19 février 2009).
 
 Unité U51, épreuve E5 : Français
 
-L'unité est définie par les compétences établies par l'arrêté du 10 février 2009 fixant le programme de français pour les classes préparatoires au baccalauréat professionnel (B.O.EN spécial n° 2 du 19 février 2009).
+L'unité est définie par les compétences établies par l'arrêté du 10 février 2009 fixant le programme de français pour les classes préparatoires au baccalauréat professionnel (B. O. EN spécial n° 2 du 19 février 2009).
 
-Unité U52, épreuve E5 : Histoire-géographie et éducation civique
+Unité U52, épreuve E5 : Histoire-géographie et enseignement moral et civique
 
-L'unité est définie par les compétences établies par l'arrêté du 10 février 2009 fixant le programme d'enseignement de l'histoire et de la géographie pour les classes préparatoires français pour les classes préparatoires au baccalauréat professionnel (B.O.EN spécial n° 2 du 19 février 2009).
+L'unité est définie par les compétences établies par l'arrêté du 10 février 2009 fixant le programme d'enseignement de l'histoire et de la géographie pour les classes préparatoires français pour les classes préparatoires au baccalauréat professionnel (B. O. EN spécial n° 2 du 19 février 2009).
 
 Unité U6, épreuve E6 : Arts appliqués et cultures artistiques
 
-L'unité englobe l'ensemble des capacités et compétences énumérées par l'arrêté du 10 février 2009 fixant le programme d'enseignement d'arts appliqués et cultures artistiques pour les classes préparatoires au baccalauréat professionnel (B.O.EN spécial n° 2 du 19 février 2009)
+L'unité englobe l'ensemble des capacités et compétences énumérées par l'arrêté du 10 février 2009 fixant le programme d'enseignement d'arts appliqués et cultures artistiques pour les classes préparatoires au baccalauréat professionnel (B. O. EN spécial n° 2 du 19 février 2009)
 
 Unité U7, épreuve E7 : Éducation physique et sportive
 
@@ -44,7 +44,7 @@ Règlement d'examen
 
 SPECIALITE :
 
-"transport" du baccalauréat professionnel
+" transport " du baccalauréat professionnel
 
 |
 
@@ -394,7 +394,7 @@ CCF
 
 |
 
-E5 Épreuve de français, histoire géographie et éducation civique
+E5 Épreuve de français, histoire géographie et enseignement moral et civique
 
 |
 
@@ -450,7 +450,7 @@ CCF
 
 |
 
-Sous-épreuve E52 : Histoire-géographie et éducation civique
+Sous-épreuve E52 : Histoire-géographie et enseignement moral et civique
 
 |
 

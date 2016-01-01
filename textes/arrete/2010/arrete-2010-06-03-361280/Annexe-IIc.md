@@ -2,13 +2,13 @@
 
 Définition des épreuves
 
-E1 - Épreuve scientifique et technique - unité 1 - coefficient 2
+E1-Épreuve scientifique et technique-unité 1-coefficient 2
 
 Cette épreuve comprend deux sous-épreuves : E11 et E12 (U11, U12)
 
 La définition de la sous-épreuve d'économie-droit figurant ci-dessous est applicable pour la session 2012.
 
-Sous-épreuve E 11 - Économie-droit - unité 11 - coefficient 1
+Sous-épreuve E 11-Économie-droit-unité 11-coefficient 1
 
 Objectif
 
@@ -20,13 +20,13 @@ Compétences et savoirs associés de l'unité U11 : cadre économique et juridiq
 
 Critères d'évaluation
 
-- utilisation appropriée du vocabulaire économique et juridique ;
+-utilisation appropriée du vocabulaire économique et juridique ;
 
-- pertinence et rigueur de l'analyse ;
+-pertinence et rigueur de l'analyse ;
 
-- exactitude des connaissances mobilisées ;
+-exactitude des connaissances mobilisées ;
 
-- cohérence du raisonnement.
+-cohérence du raisonnement.
 
 Modes d'évaluation
 
@@ -40,15 +40,15 @@ Sous-épreuve ponctuelle écrite d'une durée de 1 heure 30 prenant appui sur un
 
 La définition de la sous-épreuve d'économie-droit figurant ci-dessous est applicable à compter de la session 2013.
 
-Sous-épreuve E 11 - Économie-droit - unité 11 - coefficient 1
+Sous-épreuve E 11-Économie-droit-unité 11-coefficient 1
 
 Finalités et objectifs
 
 Cette sous-épreuve a pour objectif d'évaluer, chez les candidats, le niveau de compréhension et d'analyse :
 
-- de l'organisation économique et juridique de la société contemporaine ;
+-de l'organisation économique et juridique de la société contemporaine ;
 
-- des contextes dans lesquels s'exercent les activités professionnelles caractéristiques du diplôme considéré.
+-des contextes dans lesquels s'exercent les activités professionnelles caractéristiques du diplôme considéré.
 
 Contenu
 
@@ -58,11 +58,11 @@ Critères d'évaluation
 
 Plus précisément, la sous-épreuve doit permettre de mesurer :
 
-- l'acquisition d'un corpus de connaissances juridiques et économiques, associées à celles portant sur la diversité, le fonctionnement et l'analyse des organisations ;
+-l'acquisition d'un corpus de connaissances juridiques et économiques, associées à celles portant sur la diversité, le fonctionnement et l'analyse des organisations ;
 
-- la maîtrise de méthodes d'observation, d'interprétation et d'explicitation de situations professionnelles prenant appui sur ces connaissances ;
+-la maîtrise de méthodes d'observation, d'interprétation et d'explicitation de situations professionnelles prenant appui sur ces connaissances ;
 
-- la capacité à restituer les résultats de ces analyses sous forme écrite et/ou orale.
+-la capacité à restituer les résultats de ces analyses sous forme écrite et/ ou orale.
 
 Modes d'évaluation
 
@@ -70,19 +70,19 @@ A. Contrôle en cours de formation
 
 Durée : 30 minutes maximum La sous-épreuve comporte une situation d'évaluation.
 
-Elle prend appui sur un dossier comportant quatre études , choisies par le candidat parmi celles menées en classe de première et de terminale préparant au baccalauréat professionnel.
+Elle prend appui sur un dossier comportant quatre études, choisies par le candidat parmi celles menées en classe de première et de terminale préparant au baccalauréat professionnel.
 
-La notion d' étude est définie dans le point 2 du programme d'enseignement d'économie-droit.
+La notion d'étude est définie dans le point 2 du programme d'enseignement d'économie-droit.
 
 Deux exemplaires du dossier sont confectionnés en vue de l'examen.
 
-- Déroulement
+-Déroulement
 
 La situation se déroule dans l'établissement de formation du candidat, en classe de terminale, à un moment choisi par l'enseignant ou le formateur, en fonction du niveau atteint par le candidat.
 
 L'enseignant ou le formateur choisit l'une des études figurant dans le dossier du candidat.
 
-La sous- épreuve se déroule en 2 phases :
+La sous-épreuve se déroule en 2 phases :
 
 . Exposé oral du candidat (10 minutes)
 
@@ -96,11 +96,11 @@ Sauf cas de nécessité majeure, le candidat n'est pas interrompu durant son exp
 
 Cet exposé est suivi d'un entretien. Il permet d'évaluer la qualité du travail réalisé par le candidat, sa capacité à réinvestir ses connaissances et ses compétences dans le cadre des études ainsi que son investissement personnel.
 
-- Interrogation
+-Interrogation
 
 Elle est effectuée par l'enseignant ou le formateur ayant eu le candidat en formation en classe de terminale.
 
-- Communication des éléments d'évaluation au jury
+-Communication des éléments d'évaluation au jury
 
 À l'issue de la situation d'évaluation, le professeur ou le formateur attribue une note sur 20.
 
@@ -108,9 +108,9 @@ Il conserve un exemplaire du dossier du candidat.
 
 Il y ajoute :
 
-- la fiche descriptive du déroulement de l'épreuve ;
+-la fiche descriptive du déroulement de l'épreuve ;
 
-- la grille d'évaluation de la prestation du candidat.
+-la grille d'évaluation de la prestation du candidat.
 
 Les modèles de ces deux documents seront fournis aux établissements par les autorités académiques.
 
@@ -120,17 +120,17 @@ Les éléments du dossier décrits ci-dessus sont transmis, sous la responsabili
 
 B. Forme ponctuelle
 
-Sous-épreuve orale - Durée : 30 minutes
+Sous-épreuve orale-Durée : 30 minutes
 
-Elle prend appui sur un dossier comportant quatre études , choisies par le candidat parmi celles qu'il a réalisées au cours de la formation en première et terminale professionnelle ou à titre personnel, pour les candidats inscrits à l'examen en qualité de candidat libre.
+Elle prend appui sur un dossier comportant quatre études, choisies par le candidat parmi celles qu'il a réalisées au cours de la formation en première et terminale professionnelle ou à titre personnel, pour les candidats inscrits à l'examen en qualité de candidat libre.
 
 Ces études doivent être le résultat d'un travail personnalisé.
 
-La notion d' étude est définie dans le point 2 du programme d'enseignement d'économie-droit.
+La notion d'étude est définie dans le point 2 du programme d'enseignement d'économie-droit.
 
 Deux exemplaires du dossier sont confectionnés en vue de l'examen (1 pour le candidat, 1 pour l'examinateur).
 
-- Déroulement
+-Déroulement
 
 La sous-épreuve se déroule en 2 phases :
 
@@ -148,25 +148,25 @@ Sauf cas de nécessité majeure, le candidat n'est pas interrompu durant son exp
 
 Cet exposé est suivi d'un entretien avec l'examinateur. Il permet d'évaluer la qualité du travail réalisé par le candidat, sa capacité à réinvestir ses connaissances et ses compétences dans le cadre des études ainsi que son investissement personnel.
 
-- Conduite de l'évaluation
+-Conduite de l'évaluation
 
 L'évaluation est conduite par un examinateur qui est un enseignant d'économie et gestion, ayant en charge l'enseignement de l'économie-droit dans une classe préparant au baccalauréat professionnel tertiaire.
 
 À l'issue de l'interrogation une note sur 20 est attribuée.
 
-Sous épreuve E 12 - Mathématiques - unité 12 - coefficient 1
+Sous épreuve E 12-Mathématiques-unité 12-coefficient 1
 
 Objectifs
 
 La sous-épreuve de mathématiques est destinée à évaluer la façon dont les candidats ont atteint les grands objectifs visés par le programme :
 
-- former à l'activité mathématique par la mise en œuvre des démarches d'investigation, de résolution de problèmes et d'expérimentation ;
+-former à l'activité mathématique par la mise en œuvre des démarches d'investigation, de résolution de problèmes et d'expérimentation ;
 
-- apprendre à mobiliser les outils mathématiques dans des situations liées à la profession ou à la vie courante ;
+-apprendre à mobiliser les outils mathématiques dans des situations liées à la profession ou à la vie courante ;
 
-- entraîner à la lecture active de l'information, à sa critique, à son traitement en privilégiant l'utilisation des Tic ;
+-entraîner à la lecture active de l'information, à sa critique, à son traitement en privilégiant l'utilisation des Tic ;
 
-- développer les capacités de communication écrite et orale.
+-développer les capacités de communication écrite et orale.
 
 Modes d'évaluation
 
@@ -180,17 +180,17 @@ L'évaluation est conçue comme sondage probant sur des compétences du programm
 
 Il s'agit d'évaluer les aptitudes à mobiliser les connaissances et compétences pour résoudre des problèmes, en particulier :
 
-- rechercher, extraire et organiser l'information ;
+-rechercher, extraire et organiser l'information ;
 
-- choisir et exécuter une méthode de résolution ;
+-choisir et exécuter une méthode de résolution ;
 
-- raisonner, argumenter, critiquer et valider un résultat ;
+-raisonner, argumenter, critiquer et valider un résultat ;
 
-- présenter, communiquer un résultat.
+-présenter, communiquer un résultat.
 
 Chaque séquence comporte un ou deux exercices avec des questions de difficulté progressive. Les sujets portent principalement sur les domaines mathématiques les plus utiles pour résoudre un problème en liaison avec la physique, la chimie, un secteur professionnel ou la vie courante. Lorsque la situation s'appuie sur d'autres disciplines, aucune connaissance relative à ces disciplines n'est exigible des candidats et toutes les indications utiles doivent être fournies dans l'énoncé.
 
-L'un des exercices de chaque séquence comporte une ou deux questions dont la résolution nécessite l'utilisation de logiciels ou de calculatrices par les candidats. La présentation de la résolution de la (des) question(s) utilisant les Tic se fait en présence de l'examinateur. Ce type de questions permet d'évaluer les capacités à expérimenter, à simuler, à émettre des conjectures ou contrôler leur vraisemblance. Le candidat porte ensuite par écrit sur une fiche à compléter, les résultats obtenus, des observations ou des commentaires.
+L'un des exercices de chaque séquence comporte une ou deux questions dont la résolution nécessite l'utilisation de logiciels ou de calculatrices par les candidats. La présentation de la résolution de la (des) question (s) utilisant les Tic se fait en présence de l'examinateur. Ce type de questions permet d'évaluer les capacités à expérimenter, à simuler, à émettre des conjectures ou contrôler leur vraisemblance. Le candidat porte ensuite par écrit sur une fiche à compléter, les résultats obtenus, des observations ou des commentaires.
 
 Une proposition de note est établie. La note définitive est délivrée par le jury.
 
@@ -202,13 +202,13 @@ L'évaluation est conçue comme sondage probant sur des compétences du programm
 
 Il s'agit d'évaluer les aptitudes à mobiliser les connaissances et compétences pour résoudre des problèmes, en particulier :
 
-- rechercher, extraire et organiser l'information ;
+-rechercher, extraire et organiser l'information ;
 
-- choisir et exécuter une méthode de résolution ;
+-choisir et exécuter une méthode de résolution ;
 
-- raisonner, argumenter, critiquer et valider un résultat ;
+-raisonner, argumenter, critiquer et valider un résultat ;
 
-- présenter, communiquer un résultat.
+-présenter, communiquer un résultat.
 
 Le sujet se compose de deux ou trois exercices avec des questions de difficulté progressive recouvrant une part aussi large que possible des capacités mentionnées dans le programme de terminale professionnelle. L'un des exercices comporte des questions dont la résolution nécessite l'utilisation des Tic (logiciels ou calculatrices).
 
@@ -216,7 +216,7 @@ Les thèmes mathématiques concernés portent principalement sur les domaines ma
 
 L'exercice qui comporte des questions dont la résolution nécessite l'utilisation des Tic est noté sur 10 points. Il permet d'apprécier l'aptitude du candidat à mobiliser les capacités et connaissances du programme pour traiter un problème dont la résolution nécessite l'utilisation de logiciels ou de calculatrices. Il permet d'évaluer les capacités à expérimenter, à simuler, à émettre des conjectures ou contrôler leur vraisemblance. La présentation de la résolution des questions nécessitant l'utilisation des Tic se fait en présence de l'examinateur.
 
-E2 - Analyse et traitement de situations liées à l'accueil - unité 2 - coefficient 4
+E2-Analyse et traitement de situations liées à l'accueil-unité 2-coefficient 4
 
 Finalité et objectifs
 
@@ -226,7 +226,7 @@ Contenu
 
 Cette épreuve porte sur les compétences et savoirs regroupés dans les activités suivantes :
 
-Activité 3 : la gestion de la fonction accueil : T32.2 La contribution à l'analyse qualitative et quantitative des activités liées à l'accueil, A33 La permanence, la continuité, la qualité du service d'accueil ;
+Activité 3 : la gestion de la fonction accueil : T32. 2 La contribution à l'analyse qualitative et quantitative des activités liées à l'accueil, A33 La permanence, la continuité, la qualité du service d'accueil ;
 
 Activité 4 : la vente de services ou de produits associée à l'accueil ;
 
@@ -236,23 +236,23 @@ Critères d'évaluation
 
 L'évaluation, sous forme ponctuelle ou en contrôle en cours de formation, prend en compte les éléments suivants :
 
-- la qualité de l'expression écrite et de la présentation des travaux ;
+-la qualité de l'expression écrite et de la présentation des travaux ;
 
-- le respect des consignes ;
+-le respect des consignes ;
 
-- la prise en compte des objectifs et des contraintes ;
+-la prise en compte des objectifs et des contraintes ;
 
-- la cohérence du raisonnement et de l'interprétation des données fournies ;
+-la cohérence du raisonnement et de l'interprétation des données fournies ;
 
-- l'exactitude des résultats ;
+-l'exactitude des résultats ;
 
-- la pertinence des propositions et des justifications ;
+-la pertinence des propositions et des justifications ;
 
-- la pertinence de l'évaluation des actions entreprises (quantité, qualité, délai, coût) ;
+-la pertinence de l'évaluation des actions entreprises (quantité, qualité, délai, coût) ;
 
-- le respect de la réglementation en vigueur, des règles de sécurité ;
+-le respect de la réglementation en vigueur, des règles de sécurité ;
 
-- la maîtrise et la pertinence des outils et des techniques.
+-la maîtrise et la pertinence des outils et des techniques.
 
 Modes d'évaluation
 
@@ -260,55 +260,55 @@ A. Contrôle en cours de formation
 
 Le contrôle en cours de formation comporte trois situations d'évaluation d'égale importance. Ces trois situations donnent lieu, chacune, à une production écrite du candidat. Chaque situation d'évaluation prend la forme d'une étude de cas portant sur une ou plusieurs situations-problèmes liées à l'exercice de la profession. Elle prend appui sur des documents destinés à situer le contexte et nécessaires à la résolution du cas.
 
-- Première situation d'évaluation
+-Première situation d'évaluation
 
 D'une durée maximum de 1 h 30, elle permet d'évaluer les compétences et les savoirs liés à l'activité 5 (activités administratives connexes à l'accueil).
 
-- Deuxième situation d'évaluation
+-Deuxième situation d'évaluation
 
 D'une durée maximum de 1 h 30, elle permet d'évaluer les compétences et les savoirs liés à l'activité 3 (gestion de la fonction accueil).
 
-- Troisième situation d'évaluation D'une durée maximum de 1 h 30, elle permet d'évaluer les compétences et les savoirs liés à l'activité 4 (vente de services ou de produits associée à l'accueil).
+-Troisième situation d'évaluation D'une durée maximum de 1 h 30, elle permet d'évaluer les compétences et les savoirs liés à l'activité 4 (vente de services ou de produits associée à l'accueil).
 
 Communication des éléments d'évaluation au jury
 
-À l'issue de chaque situation d'évaluation, le(s) professeur(s) en charge des enseignements professionnels de spécialité constituera(ont) pour chaque candidat un dossier comprenant :
+À l'issue de chaque situation d'évaluation, le (s) professeur (s) en charge des enseignements professionnels de spécialité constituera (ont) pour chaque candidat un dossier comprenant :
 
-- l'ensemble des documents remis au candidat (sujets, documents annexes) pour effectuer le travail demandé pendant la situation d'évaluation ;
+-l'ensemble des documents remis au candidat (sujets, documents annexes) pour effectuer le travail demandé pendant la situation d'évaluation ;
 
-- les documents rédigés par le candidat durant l'évaluation ;
+-les documents rédigés par le candidat durant l'évaluation ;
 
-- une fiche d'analyse du travail effectué par le candidat, rédigée par le(s) professeur(s) de spécialité, comprenant une proposition de note et une appréciation détaillée relevant les points positifs et les points négatifs qui justifient la note.
+-une fiche d'analyse du travail effectué par le candidat, rédigée par le (s) professeur (s) de spécialité, comprenant une proposition de note et une appréciation détaillée relevant les points positifs et les points négatifs qui justifient la note.
 
 Les éléments du dossier décrits ci-dessus sont transmis, sous la responsabilité du chef d'établissement, à l'autorité rectorale et mis à la disposition du jury. Après examen attentif des documents fournis, le jury la note.
 
 B. Forme ponctuelle
 
-Épreuve écrite - Durée 4 heures
+Épreuve écrite-Durée 4 heures
 
 L'épreuve revêt la forme d'une étude de cas portant sur une ou plusieurs situations-problèmes liées à l'exercice de la profession. Elle prend appui sur des documents destinés à situer le contexte et nécessaires à la résolution du cas.
 
-Épreuve E3 - Environnement professionnel - unité 3 - coefficient 9
+Épreuve E3-Environnement professionnel-unité 3-coefficient 9
 
 Cette épreuve comprend quatre sous-épreuves E31, E32, E33 et E34 (U31, U32, U33, U34)
 
-Sous-épreuve E31 - Analyse de la fonction accueil et projet d'amélioration - unité 31 - coefficient 4
+Sous-épreuve E31-Analyse de la fonction accueil et projet d'amélioration-unité 31-coefficient 4
 
 Finalité et objectifs de la sous-épreuve
 
 Cette sous-épreuve vise à évaluer les capacités du candidat à :
 
-- réaliser un diagnostic général de la fonction accueil en termes de points forts et de points à améliorer selon les attentes des clients externes et/ou internes de l'organisation ;
+-réaliser un diagnostic général de la fonction accueil en termes de points forts et de points à améliorer selon les attentes des clients externes et/ ou internes de l'organisation ;
 
-- proposer des solutions adaptées dans le but d'améliorer la qualité d'accueil des visiteurs (clients internes ou externes) ;
+-proposer des solutions adaptées dans le but d'améliorer la qualité d'accueil des visiteurs (clients internes ou externes) ;
 
-- prendre en compte les objectifs, les contraintes et l'environnement propre à l'organisation en vue de proposer un projet réalisable ;
+-prendre en compte les objectifs, les contraintes et l'environnement propre à l'organisation en vue de proposer un projet réalisable ;
 
-- justifier la démarche adoptée, les choix effectués et la pertinence du projet.
+-justifier la démarche adoptée, les choix effectués et la pertinence du projet.
 
 Contenu
 
-La sous-épreuve se rapporte à la maîtrise des compétences et savoirs relatifs à la tâche T33.2.
+La sous-épreuve se rapporte à la maîtrise des compétences et savoirs relatifs à la tâche T33. 2.
 
 Le projet étudié par le candidat peut mobiliser également des ressources relevant des activités A1 à A5.
 
@@ -320,35 +320,35 @@ La sous-épreuve comporte deux situations d'évaluation.
 
 Première situation : diagnostic de la fonction accueil
 
-Épreuve orale - Coefficient 2 - Durée : 30 minutes maximum
+Épreuve orale-Coefficient 2-Durée : 30 minutes maximum
 
 L'épreuve prend appui sur un dossier élaboré par le candidat et mis à la disposition de la commission d'interrogation 8 jours au moins avant la réalisation de l'évaluation. Le dossier comporte un rapport d'étonnement (2 pages maximum) et un diagnostic interne de la fonction accueil (4 pages maximum), réalisés dans l'organisation où le candidat effectue la première partie de sa période de formation en milieu professionnel (PFMP) de l'année terminale.
 
 Le diagnostic interne comprend :
 
-- la présentation du contexte général de la fonction accueil ;
+-la présentation du contexte général de la fonction accueil ;
 
-- la démarche adoptée (documentation consultée, personnes sollicitées, visites extérieures réalisées) ;
+-la démarche adoptée (documentation consultée, personnes sollicitées, visites extérieures réalisées) ;
 
-- les points forts et les points faibles de la fonction accueil ;
+-les points forts et les points faibles de la fonction accueil ;
 
-- une liste d'améliorations possibles.
+-une liste d'améliorations possibles.
 
-- Critères d'évaluation
+-Critères d'évaluation
 
-- pertinence des recherches documentaires internes ou externes à l'organisation ;
+-pertinence des recherches documentaires internes ou externes à l'organisation ;
 
-- pertinence des contacts et entretiens ;
+-pertinence des contacts et entretiens ;
 
-- qualité des observations relevées dans le rapport d'étonnement (prise en compte du contexte, pertinence de l'observation, étendue du champ d'observation, curiosité) ;
+-qualité des observations relevées dans le rapport d'étonnement (prise en compte du contexte, pertinence de l'observation, étendue du champ d'observation, curiosité) ;
 
-- qualité du diagnostic de la fonction accueil (relevé des points forts et points faibles, étendue du champ étudié, exploitation d'indicateurs) ;
+-qualité du diagnostic de la fonction accueil (relevé des points forts et points faibles, étendue du champ étudié, exploitation d'indicateurs) ;
 
-- qualité de l'expression (utilisation du vocabulaire professionnel adapté) ;
+-qualité de l'expression (utilisation du vocabulaire professionnel adapté) ;
 
-- qualité de l'argumentation.
+-qualité de l'argumentation.
 
-- Déroulement de l'épreuve
+-Déroulement de l'épreuve
 
 L'épreuve se déroule lors de la première partie de la PFMP de l'année terminale, au premier trimestre, de préférence dans l'organisation d'accueil. Le rapport d'étonnement doit être réalisé dans les premiers jours de cette période et remis au tuteur à la fin de la première semaine. Le diagnostic doit être terminé au moment du passage de l'épreuve.
 
@@ -362,7 +362,7 @@ Le candidat présente le rapport d'étonnement tel qu'il a été conçu lors de 
 
 L'entretien vise à éclairer les membres de la commission sur la méthodologie mise en œuvre et à approfondir l'exposé présenté par le candidat.
 
-- Composition de la commission d'interrogation
+-Composition de la commission d'interrogation
 
 La commission d'interrogation est composée du tuteur du candidat et d'un professeur de la spécialité.
 
@@ -370,7 +370,7 @@ La commission d'interrogation est composée du tuteur du candidat et d'un profes
 
 Seconde situation : projet d'amélioration de la fonction accueil
 
-Épreuve orale - Coefficient 2 - Durée : 30 minutes maximum
+Épreuve orale-Coefficient 2-Durée : 30 minutes maximum
 
 L'épreuve est le prolongement de la première situation.
 
@@ -378,15 +378,15 @@ L'épreuve est le prolongement de la première situation.
 
 Ce projet doit être rédigé en respectant les règles de présentation professionnelle, comporter 8 pages maximum hors annexes, et être structuré de la manière suivante :
 
-- présentation de la nature du projet, des besoins exprimés et du contexte organisationnel ;
+-présentation de la nature du projet, des besoins exprimés et du contexte organisationnel ;
 
-- préconisation de solutions alternatives et complémentaires ;
+-préconisation de solutions alternatives et complémentaires ;
 
-- proposition argumentée du choix d'une (ou des) solutions.
+-proposition argumentée du choix d'une (ou des) solutions.
 
 L'épreuve se déroule dans le centre de formation après la dernière PFMP, au cours du dernier trimestre de l'année terminale.
 
-- Critères d'évaluation
+-Critères d'évaluation
 
 . formulation claire du besoin et du contexte organisationnel ;
 
@@ -400,7 +400,7 @@ L'épreuve se déroule dans le centre de formation après la dernière PFMP, au 
 
 . pertinence des outils utilisés pour la rédaction et la présentation du projet (fonctionnalités du texteur, tableur, grapheur, etc.).
 
-- Déroulement de l'épreuve
+-Déroulement de l'épreuve
 
 L'épreuve a une durée de 30 minutes maximum. Elle se déroule en deux phases :
 
@@ -412,13 +412,13 @@ Le candidat présente son projet d'amélioration de la fonction accueil. Il n'es
 
 L'entretien vise à approfondir l'exposé présenté par le candidat, tant sur le plan méthodologique, que des propositions d'amélioration, des compétences, ou connaissances mobilisées à cette occasion.
 
-- Composition de la commission d'interrogation
+-Composition de la commission d'interrogation
 
 La commission d'interrogation est composée du tuteur du candidat et d'un professeur de la spécialité, enseignant de l'élève.
 
-- Communication des éléments d'évaluation au jury
+-Communication des éléments d'évaluation au jury
 
-À l'issue de chaque situation d'évaluation, le(s) professeur(s) en charge des enseignements professionnels de spécialité constituera (ont) pour chaque candidat un dossier comprenant :
+À l'issue de chaque situation d'évaluation, le (s) professeur (s) en charge des enseignements professionnels de spécialité constituera (ont) pour chaque candidat un dossier comprenant :
 
 . le rapport d'étonnement, le diagnostic et projet d'amélioration ;
 
@@ -428,23 +428,23 @@ Après examen attentif des documents fournis, le jury formule toutes remarques e
 
 B. Forme ponctuelle
 
-Épreuve orale - Durée : 40 minutes - Dossier support de l'épreuve
+Épreuve orale-Durée : 40 minutes-Dossier support de l'épreuve
 
 Le dossier est composé de trois documents :
 
-- un rapport d'étonnement (2 pages maximum),
+-un rapport d'étonnement (2 pages maximum),
 
-- un diagnostic interne de la fonction accueil (4 pages maximum),
+-un diagnostic interne de la fonction accueil (4 pages maximum),
 
-- un projet d'amélioration de la fonction accueil (8 pages maximum), réalisés dans l'organisation où le candidat effectue sa période de formation en milieu professionnel, ou son apprentissage dans le cas de centres de formation d'apprentis non habilités à pratiquer le contrôle en cours de formation, ou dans le cadre de son activité professionnelle.
+-un projet d'amélioration de la fonction accueil (8 pages maximum), réalisés dans l'organisation où le candidat effectue sa période de formation en milieu professionnel, ou son apprentissage dans le cas de centres de formation d'apprentis non habilités à pratiquer le contrôle en cours de formation, ou dans le cadre de son activité professionnelle.
 
 Il est transmis à la commission d'interrogation 8 jours au moins avant le déroulement de la sous-épreuve.
 
-- Critères d'évaluation
+-Critères d'évaluation
 
 Les critères d'évaluation sont ceux définis pour les situations 1 et 2 du contrôle en cours de formation.
 
-- Déroulement de l'épreuve
+-Déroulement de l'épreuve
 
 L'épreuve a une durée de 40 minutes. Elle se déroule en deux phases :
 
@@ -456,11 +456,11 @@ Le candidat présente le rapport d'étonnement tel qu'il a été conçu lors de 
 
 L'entretien vise à approfondir l'exposé présenté par le candidat, tant sur le plan méthodologique, que des propositions d'amélioration, des compétences, ou connaissances mobilisées à cette occasion.
 
-- Composition de la commission d'interrogation
+-Composition de la commission d'interrogation
 
 La commission d'interrogation est composée d'un professeur de la spécialité et d'un professionnel ou, le cas échéant, d'un deuxième professeur enseignant la spécialité.
 
-Sous-épreuve E32 - Accueil au téléphone - unité 32 - coefficient 2
+Sous-épreuve E32-Accueil au téléphone-unité 32-coefficient 2
 
 Finalité et objectifs
 
@@ -474,41 +474,41 @@ Critères d'évaluation
 
 L'évaluation, sous forme ponctuelle ou par contrôle en cours de formation, prend en compte les éléments suivants :
 
-- la maîtrise des fonctionnalités du standard ;
+-la maîtrise des fonctionnalités du standard ;
 
-- le respect de la charte ou du protocole d'accueil téléphonique de l'organisation ;
+-le respect de la charte ou du protocole d'accueil téléphonique de l'organisation ;
 
-- la qualité de l'expression orale ;
+-la qualité de l'expression orale ;
 
-- la rapidité, l'efficacité et la courtoisie dans le traitement de l'appel ;
+-la rapidité, l'efficacité et la courtoisie dans le traitement de l'appel ;
 
-- la pertinence de l'information, du conseil transmis à l'interlocuteur ;
+-la pertinence de l'information, du conseil transmis à l'interlocuteur ;
 
-- la fidélité et la précision des messages transmis aux collaborateurs ou à la hiérarchie ;
+-la fidélité et la précision des messages transmis aux collaborateurs ou à la hiérarchie ;
 
-- le respect des consignes données et de la confidentialité ;
+-le respect des consignes données et de la confidentialité ;
 
-- la capacité à évaluer sa prestation.
+-la capacité à évaluer sa prestation.
 
 Modes d'évaluation
 
 A. Contrôle en cours de formation
 
-Épreuve pratique et orale - Durée : 35 minutes maximum
+Épreuve pratique et orale-Durée : 35 minutes maximum
 
 L'épreuve comporte une situation d'évaluation.
 
 Elle prend appui sur un scénario de simulation d'un appel téléphonique construit par le professeur.
 
-Ce scénario doit se rapporter nécessairement aux tâches T21.1, T22.1, T22.3, T22.5, T22.6 et T22.7. Il peut éventuellement être complété par les autres tâches T22.2 et T22.4.
+Ce scénario doit se rapporter nécessairement aux tâches T21. 1, T22. 1, T22. 3, T22. 5, T22. 6 et T22. 7. Il peut éventuellement être complété par les autres tâches T22. 2 et T22. 4.
 
 Le scénario comprend :
 
-- un dossier de mise en situation, destiné à l'élève, composé d'une documentation présentant le contexte d'une situation d'accueil téléphonique (présentation de l'organisation, organigramme, procédure d'accueil, etc.) dans une organisation et des consignes à respecter ;
+-un dossier de mise en situation, destiné à l'élève, composé d'une documentation présentant le contexte d'une situation d'accueil téléphonique (présentation de l'organisation, organigramme, procédure d'accueil, etc.) dans une organisation et des consignes à respecter ;
 
-- une fiche de rôle du professeur composée d'une documentation présentant le contexte d'un appel téléphonique, le profil de l'appelant et les objectifs d'appel visant à mettre en jeu les compétences (par exemple le filtrage).
+-une fiche de rôle du professeur composée d'une documentation présentant le contexte d'un appel téléphonique, le profil de l'appelant et les objectifs d'appel visant à mettre en jeu les compétences (par exemple le filtrage).
 
-- Déroulement
+-Déroulement
 
 Cette situation se déroule dans le centre de formation, de préférence en classe de première.
 
@@ -526,35 +526,35 @@ Le candidat, installé à son poste de travail, réceptionne l'appel téléphoni
 
 Au terme de la simulation, un entretien avec le professeur permet une analyse de l'appel. Au cours de cet entretien le candidat doit être en mesure d'évaluer sa prestation en matière d'accueil téléphonique.
 
-- Composition de la commission d'interrogation
+-Composition de la commission d'interrogation
 
 La commission d'interrogation est composée du professeur de spécialité qui enseigne au candidat.
 
-- Communication des éléments d'évaluation au jury
+-Communication des éléments d'évaluation au jury
 
 À l'issue de la situation d'évaluation, le professeur qui a procédé à l'évaluation constitue pour chaque candidat un dossier comprenant :
 
-- le scénario de simulation de l'appel ;
+-le scénario de simulation de l'appel ;
 
-- la grille d'évaluation.
+-la grille d'évaluation.
 
 Les éléments du dossier sont transmis, sous la responsabilité du chef d'établissement, à l'autorité rectorale et mis à la disposition du jury. Le jury arrête la note.
 
 B. Forme ponctuelle
 
-Épreuve pratique et orale - Durée : 35 minutes
+Épreuve pratique et orale-Durée : 35 minutes
 
 L'épreuve prend appui sur un scénario de simulation d'un appel téléphonique construit par la commission d'interrogation.
 
-Ce scénario doit se rapporter nécessairement aux tâches T21.1, T22.1, T22.3, T22.5, T22.6 et T22.7. Il peut éventuellement être complété par les autres tâches T22.2 et T22.4.
+Ce scénario doit se rapporter nécessairement aux tâches T21. 1, T22. 1, T22. 3, T22. 5, T22. 6 et T22. 7. Il peut éventuellement être complété par les autres tâches T22. 2 et T22. 4.
 
 Le scénario comprend :
 
-- un dossier de mise en situation, destiné à l'élève, composé d'une documentation présentant le contexte d'une situation d'accueil téléphonique (présentation de l'organisation, organigramme, procédure d'accueil) dans une organisation et des consignes à respecter ;
+-un dossier de mise en situation, destiné à l'élève, composé d'une documentation présentant le contexte d'une situation d'accueil téléphonique (présentation de l'organisation, organigramme, procédure d'accueil) dans une organisation et des consignes à respecter ;
 
-- une fiche de rôle du professeur composée d'une documentation présentant le contexte d'un appel téléphonique, le profil de l'appelant et les objectifs d'appel visant à mettre en jeu les compétences (par exemple le filtrage).
+-une fiche de rôle du professeur composée d'une documentation présentant le contexte d'un appel téléphonique, le profil de l'appelant et les objectifs d'appel visant à mettre en jeu les compétences (par exemple le filtrage).
 
-- Déroulement
+-Déroulement
 
 L'épreuve se déroule dans des centres d'examen disposant du matériel nécessaire pour effectuer une simulation d'appel téléphonique. Elle comporte 3 phases :
 
@@ -570,49 +570,49 @@ Le candidat, installé à son poste de travail, réceptionne l'appel téléphoni
 
 Au terme de la simulation, un entretien avec la commission d'interrogation permet une analyse de l'appel. Au cours de cet entretien le candidat doit être en mesure d'évaluer sa prestation en matière d'accueil téléphonique.
 
-- Composition de la commission d'interrogation
+-Composition de la commission d'interrogation
 
 L'interrogation est réalisée par un professeur de spécialité.
 
-Sous-épreuve E33 - Accueil en face-à-face - unité 33 - coefficient 2
+Sous-épreuve E33-Accueil en face-à-face-unité 33-coefficient 2
 
 Finalité et objectifs
 
 Cette sous-épreuve vise à évaluer l'aptitude du candidat à :
 
-- analyser et rendre compte d'une situation d'accueil en face-à-face ;
+-analyser et rendre compte d'une situation d'accueil en face-à-face ;
 
-- prendre en compte l'évolution d'une situation d'accueil et adapter la réponse ;
+-prendre en compte l'évolution d'une situation d'accueil et adapter la réponse ;
 
-- analyser sa prestation pour y apporter les correctifs nécessaires, dans le respect des attentes et de la procédure d'accueil de l'organisation.
+-analyser sa prestation pour y apporter les correctifs nécessaires, dans le respect des attentes et de la procédure d'accueil de l'organisation.
 
 Contenu
 
 Cette sous-épreuve porte sur les compétences et les savoirs associés relevant de :
 
-- l'activité A1 ;
+-l'activité A1 ;
 
-- la sous-activité A31 et de la tâche T32.1 de la sous-activité A32.
+-la sous-activité A31 et de la tâche T32. 1 de la sous-activité A32.
 
 Critères d'évaluation
 
 Les critères d'évaluation sont les suivants :
 
-- pertinence de l'analyse de la situation d'accueil ;
+-pertinence de l'analyse de la situation d'accueil ;
 
-- qualité de l'attention portée à l'image transmise (tenue vestimentaire, registre de langage adaptés, posture)
+-qualité de l'attention portée à l'image transmise (tenue vestimentaire, registre de langage adaptés, posture)
 
-- qualité de l'attention portée au sens du service ;
+-qualité de l'attention portée au sens du service ;
 
-- qualité relationnelle (écoute, courtoisie, empathie) ;
+-qualité relationnelle (écoute, courtoisie, empathie) ;
 
-- respect des procédures et des consignes ;
+-respect des procédures et des consignes ;
 
-- clarté et précision de l'expression orale ;
+-clarté et précision de l'expression orale ;
 
-- adaptation des techniques, des gestes, des postures et des comportements à la situation et à l'évolution de la situation ;
+-adaptation des techniques, des gestes, des postures et des comportements à la situation et à l'évolution de la situation ;
 
-- pertinence des interventions pendant l'échange (simulation ou entretien) ; - objectivité et pertinence de l'analyse de sa prestation.
+-pertinence des interventions pendant l'échange (simulation ou entretien) ;-objectivité et pertinence de l'analyse de sa prestation.
 
 Modes d'évaluation
 
@@ -622,13 +622,13 @@ La sous-épreuve comporte deux situations d'évaluation.
 
 Première situation : Accueil en face-à-face
 
-Coefficient : 1 - Épreuve orale - Durée : 20 minutes maximum - Temps de préparation : 20 minutes
+Coefficient : 1-Épreuve orale-Durée : 20 minutes maximum-Temps de préparation : 20 minutes
 
 La situation se déroule au début de l'année terminale et, au plus tard, à la fin du premier semestre.
 
 Dossier support de l'épreuve
 
-Le dossier comprend la présentation de trois situations d'accueil, vécues ou observées par le candidat dans un contexte de travail, lors des périodes de formation professionnelle de première et/ou des journées d'accueil événementiel.
+Le dossier comprend la présentation de trois situations d'accueil, vécues ou observées par le candidat dans un contexte de travail, lors des périodes de formation professionnelle de première et/ ou des journées d'accueil événementiel.
 
 Deux des trois domaines de l'accueil (événementiel, sédentaire, transport) doivent être couverts, toutefois, l'une des situations se déroule obligatoirement lors d'un accueil événementiel.
 
@@ -636,27 +636,27 @@ Huit, au moins, des douze tâches définies dans le contenu de l'épreuve doiven
 
 Le dossier doit comporter trois fiches descriptives de situations d'accueil qui indiquent notamment :
 
-- l'identification du candidat ;
+-l'identification du candidat ;
 
-- l'identification de l'organisation dans laquelle s'est déroulée la situation ;
+-l'identification de l'organisation dans laquelle s'est déroulée la situation ;
 
-- l'intitulé de la situation et sa date de réalisation ;
+-l'intitulé de la situation et sa date de réalisation ;
 
-- la description du contexte professionnel : en particulier, les éléments correspondant à l'environnement professionnel et l'offre de services de l'organisation ;
+-la description du contexte professionnel : en particulier, les éléments correspondant à l'environnement professionnel et l'offre de services de l'organisation ;
 
-- la description du poste de travail : espace d'accueil, procédures, tenue vestimentaire, consignes ;
+-la description du poste de travail : espace d'accueil, procédures, tenue vestimentaire, consignes ;
 
-- le compte rendu de la situation d'accueil : contraintes, résultats attendus, scénario chronologique, résultats obtenus, outils et sources d'informations utilisés, productions éventuellement réalisées ;
+-le compte rendu de la situation d'accueil : contraintes, résultats attendus, scénario chronologique, résultats obtenus, outils et sources d'informations utilisés, productions éventuellement réalisées ;
 
-- en annexe, tout document utile à la compréhension de la situation.
+-en annexe, tout document utile à la compréhension de la situation.
 
-- Déroulement de l'épreuve
+-Déroulement de l'épreuve
 
-- Avant l'épreuve
+-Avant l'épreuve
 
 La commission d'interrogation choisit une fiche descriptive et construit une nouvelle situation d'accueil en modifiant certains paramètres. Les changements apportés doivent modifier de manière significative la situation initiale, tout en conservant un caractère réaliste. Ils ne doivent cependant pas aboutir à une situation totalement nouvelle au sein de laquelle le candidat n'aurait plus aucun repère.
 
-- Au moment de l'accueil du candidat
+-Au moment de l'accueil du candidat
 
 La commission d'interrogation informe le candidat sous forme écrite :
 
@@ -664,7 +664,7 @@ La commission d'interrogation informe le candidat sous forme écrite :
 
 . des nouveaux paramètres qui modifient la situation de communication orale.
 
-- La préparation (20 minutes)
+-La préparation (20 minutes)
 
 Ce temps permet au candidat :
 
@@ -688,19 +688,19 @@ Phase 3 (10 minutes)
 
 L'entretien permet de revenir sur les compétences professionnelles mises en œuvre par le candidat au cours de la simulation.
 
-- Composition de la commission d'interrogation
+-Composition de la commission d'interrogation
 
 La commission est composée du professeur de spécialité et d'un professionnel ou, le cas échéant, d'un professeur de la classe en enseignement professionnel.
 
 Seconde situation : Pratique de l'accueil
 
-Coefficient : 1 - Épreuve pratique
+Coefficient : 1-Épreuve pratique
 
 Avant chacune des deux périodes de formation en milieu professionnel de la classe de première, les objectifs, exprimés en termes d'activités et de compétences, sont déterminés avec le tuteur afin de cibler :
 
-- les tâches obligatoires (relevant des activités et sous-activités évaluées) ;
+-les tâches obligatoires (relevant des activités et sous-activités évaluées) ;
 
-- le degré d'autonomie dans la réalisation de ces tâches.
+-le degré d'autonomie dans la réalisation de ces tâches.
 
 À la fin de chacune de ces périodes, le professeur ou le formateur, conjointement avec le tuteur, positionne le candidat (grille de suivi) sur les compétences spécifiques mises en œuvre en situation.
 
@@ -708,23 +708,23 @@ La grille de suivi propose une échelle de 1 à 4 : non acquis, en cours d'acqui
 
 À la fin de la dernière période de formation, l'équipe pédagogique se concerte et propose une note pour chaque candidat.
 
-- Communication des éléments d'évaluation au jury
+-Communication des éléments d'évaluation au jury
 
-À l'issue de chaque situation d'évaluation, le(s) professeur(s) en charge de l'évaluation constitue(nt) pour chaque candidat un dossier comprenant :
+À l'issue de chaque situation d'évaluation, le (s) professeur (s) en charge de l'évaluation constitue (nt) pour chaque candidat un dossier comprenant :
 
-- les trois fiches descriptives de situation d'accueil ;
+-les trois fiches descriptives de situation d'accueil ;
 
-- les grilles de suivi ;
+-les grilles de suivi ;
 
-- les grilles d'évaluation.
+-les grilles d'évaluation.
 
 Les éléments du dossier des deux situations sont transmis, sous la responsabilité du chef d'établissement, à l'autorité rectorale et mis à la disposition du jury. Le jury formule toutes remarques et observations qu'il juge utile et arrête la note.
 
 B. Forme ponctuelle
 
-Coefficient : 2 - Épreuve orale - Durée : 25 minutes - Temps de préparation : 20 minutes
+Coefficient : 2-Épreuve orale-Durée : 25 minutes-Temps de préparation : 20 minutes
 
-- Dossier support de l'épreuve
+-Dossier support de l'épreuve
 
 Il comporte :
 
@@ -732,13 +732,13 @@ Il comporte :
 
 . une grille de suivi, décrivant les tâches accomplies et les compétences professionnelles mises en œuvre au cours des périodes de formation en milieu professionnel ou dans le cadre de son activité professionnelle. Cette grille, dont un modèle sera présenté dans la circulaire d'organisation, est remplie par le candidat qui procède également à une évaluation du niveau atteint.
 
-- Déroulement de l'épreuve
+-Déroulement de l'épreuve
 
-- Avant l'épreuve
+-Avant l'épreuve
 
 La commission d'interrogation choisit une fiche descriptive et construit une nouvelle situation d'accueil en modifiant certains paramètres. Les changements apportés doivent modifier de manière significative la situation initiale, tout en conservant un caractère réaliste. Ils ne doivent cependant pas aboutir à une situation totalement nouvelle au sein de laquelle le candidat n'aurait plus aucun repère.
 
-- Au moment de l'accueil du candidat
+-Au moment de l'accueil du candidat
 
 La commission d'interrogation informe le candidat sous forme écrite :
 
@@ -746,7 +746,7 @@ La commission d'interrogation informe le candidat sous forme écrite :
 
 . des nouveaux paramètres qui modifient la situation de communication orale.
 
-- La préparation (20 minutes)
+-La préparation (20 minutes)
 
 Ce temps permet au candidat :
 
@@ -754,7 +754,7 @@ Ce temps permet au candidat :
 
 . de préparer sa simulation.
 
-- L'interrogation (25 minutes)
+-L'interrogation (25 minutes)
 
 Elle comporte 3 phases :
 
@@ -770,37 +770,37 @@ Phase 3 (15 minutes)
 
 L'entretien permet de revenir sur la prestation du candidat au cours de la simulation. Il est également l'occasion de l'interroger sur les activités réellement exercées, retracées sur la grille de suivi, et d'évaluer le niveau de compétence atteint. Il n'est pas demandé d'être exhaustif mais de se centrer sur une ou deux tâches.
 
-- Composition de la commission d'interrogation
+-Composition de la commission d'interrogation
 
 La commission est composée du professeur chargé de l'enseignement de spécialité et d'un professionnel ou, le cas échéant, d'un autre professeur enseignant la spécialité.
 
-Sous-épreuve E34 - Prévention-santé-environnement - unité 34 - coefficient 1
+Sous-épreuve E34-Prévention-santé-environnement-unité 34-coefficient 1
 
 Objectifs
 
 La sous-épreuve a pour objectif d'évaluer les compétences du candidat à :
 
-- conduire une démarche d'analyse de situations en appliquant la démarche de résolution de problème ;
+-conduire une démarche d'analyse de situations en appliquant la démarche de résolution de problème ;
 
-- analyser une situation professionnelle en appliquant différentes démarches : analyse par le risque, par le travail, par l'accident ;
+-analyser une situation professionnelle en appliquant différentes démarches : analyse par le risque, par le travail, par l'accident ;
 
-- mobiliser des connaissances scientifiques, juridiques et économiques ;
+-mobiliser des connaissances scientifiques, juridiques et économiques ;
 
-- proposer et justifier les mesures de prévention adaptées ;
+-proposer et justifier les mesures de prévention adaptées ;
 
-- agir de façon efficace face à une situation d'urgence.
+-agir de façon efficace face à une situation d'urgence.
 
 Critères d'évaluation
 
 L'évaluation porte notamment sur :
 
-- la qualité du raisonnement et de l'analyse ;
+-la qualité du raisonnement et de l'analyse ;
 
-- l'exactitude des connaissances ;
+-l'exactitude des connaissances ;
 
-- la pertinence et le réalisme des solutions proposées ;
+-la pertinence et le réalisme des solutions proposées ;
 
-- l'efficacité de l'action face à une situation d'urgence.
+-l'efficacité de l'action face à une situation d'urgence.
 
 Modalités d'évaluation
 
@@ -810,11 +810,11 @@ Le contrôle en cours de formation est organisé à partir de deux situations d'
 
 La première situation d'évaluation, notée sur 12 points, a lieu au plus tard, en fin de première professionnelle et comporte deux parties.
 
-- Une évaluation écrite d'une durée de 1 heure, notée sur 9 points.
+-Une évaluation écrite d'une durée de 1 heure, notée sur 9 points.
 
 Elle prend appui sur des situations de la vie quotidienne ou professionnelle. Elle comporte plusieurs questions indépendantes ou liées permettant d'évaluer les connaissances et les capacités relatives à au moins deux modules parmi les modules 1 à 7 notés sur 6 points. Le module 8, à l'exception des situations d'urgence, noté sur 3 points, est évalué à travers la mise en œuvre de la démarche d'approche par le risque.
 
-- Une évaluation pratique, notée sur 3 points
+-Une évaluation pratique, notée sur 3 points
 
 Elle prend en compte les résultats obtenus lors de la formation de base au secourisme ou du recyclage SST.
 
@@ -826,67 +826,67 @@ Le dossier produit présente la place de la prévention dans l'entreprise et l'a
 
 Cette production met en évidence :
 
-- une description des activités de l'entreprise ;
+-une description des activités de l'entreprise ;
 
-- l'identification d'un risque et de ses effets physiopathologiques dans le cadre d'une situation professionnelle ;
+-l'identification d'un risque et de ses effets physiopathologiques dans le cadre d'une situation professionnelle ;
 
-- la mise œuvre d'une démarche d'analyse (approche par le travail ou par l'accident) ;
+-la mise œuvre d'une démarche d'analyse (approche par le travail ou par l'accident) ;
 
-- la politique de prévention dans l'entreprise.
+-la politique de prévention dans l'entreprise.
 
 Évaluation par épreuve ponctuelle (2 heures)
 
 Le sujet se compose de deux parties correspondant l'une aux modules 1 à 8, l'autre aux modules 9 à 12. Chaque partie comporte plusieurs questions indépendantes ou liées permettant d'évaluer les connaissances et les capacités relatives aux modules correspondants.
 
-- La première partie notée sur 12 points comporte :
+-La première partie notée sur 12 points comporte :
 
 Un questionnement noté sur 9 points, Il prend appui sur des situations de la vie quotidienne ou professionnelle et permet d'évaluer :
 
-- au moins deux modules parmi les modules de 1 à 7, notés sur 6 points ;
+-au moins deux modules parmi les modules de 1 à 7, notés sur 6 points ;
 
-- le module 8 noté sur 3 points évalué à travers la mise en œuvre de la démarche d'approche par le risque. Le candidat dispose de documents ressources lui permettant de proposer une démarche de prévention.
+-le module 8 noté sur 3 points évalué à travers la mise en œuvre de la démarche d'approche par le risque. Le candidat dispose de documents ressources lui permettant de proposer une démarche de prévention.
 
 Un questionnement noté sur 3 points permet d'expliquer la conduite à tenir face à une situation d'urgence.
 
-- La deuxième partie, notée sur 8 points, permet d'évaluer les modules 9 à 12. L'évaluation s'appuie sur un dossier ressource qui présente une situation d'entreprise. Les contenus du dossier permettent la mise en œuvre de la démarche d'analyse par le travail, la mobilisation des connaissances scientifiques et législatives, l'argumentation des solutions proposées.
+-La deuxième partie, notée sur 8 points, permet d'évaluer les modules 9 à 12. L'évaluation s'appuie sur un dossier ressource qui présente une situation d'entreprise. Les contenus du dossier permettent la mise en œuvre de la démarche d'analyse par le travail, la mobilisation des connaissances scientifiques et législatives, l'argumentation des solutions proposées.
 
 Le dossier fourni au candidat présente :
 
-- une situation professionnelle ;
+-une situation professionnelle ;
 
-- une description des activités de l'entreprise ;
+-une description des activités de l'entreprise ;
 
-- des documents législatifs et réglementaires nécessaires.
+-des documents législatifs et réglementaires nécessaires.
 
-E4 - Épreuve de langues vivantes - unité 4 - coefficient 4
+E4-Épreuve de langues vivantes-unité 4-coefficient 4
 
 Cette épreuve comprend deux sous-épreuves :
 
-Sous-épreuve E41 - Langue vivante 1 - unité 41 - coefficient 2
+Sous-épreuve E41-Langue vivante 1-unité 41-coefficient 2
 
-Sous-épreuve E42 - Langue vivante 2 - unité 42 - coefficient 2
+Sous-épreuve E42-Langue vivante 2-unité 42-coefficient 2
 
 Compétences évaluées pour ces deux-sous épreuves :
 
 Expression orale en continu, interaction orale et compréhension de l'écrit. Niveau attendu en référence à l'échelle de niveaux du CECRL :
 
-B1+ pour la sous-épreuve E41 - Langue vivante 1 (LV1)
+B1 + pour la sous-épreuve E41-Langue vivante 1 (LV1)
 
-B1 pour la sous-épreuve E42 - Langue vivante 2 (LV2).
+B1 pour la sous-épreuve E42-Langue vivante 2 (LV2).
 
 Modes d'évaluation
 
-Les modes d'évaluation sont identiques pour les deux sous-épreuves E41 - Langue vivante 1 (U41) et E42 - Langue vivante 2 (U42).
+Les modes d'évaluation sont identiques pour les deux sous-épreuves E41-Langue vivante 1 (U41) et E42-Langue vivante 2 (U42).
 
 Évaluation en CCF (LV1 et LV2)
 
 Cette évaluation donne lieu à une situation d'évaluation unique.
 
-- Durée : 15 minutes, sans préparation ; partie 1 et partie 2 : 5 minutes maximum chacune, notées pour un total de 20 points ; partie 3 : 5 minutes maximum, notée sur 10.
+-Durée : 15 minutes, sans préparation ; partie 1 et partie 2 : 5 minutes maximum chacune, notées pour un total de 20 points ; partie 3 : 5 minutes maximum, notée sur 10.
 
 L'évaluation a lieu au cours du sixième semestre de la formation conduisant à la délivrance du diplôme du baccalauréat professionnel. Le calendrier de cette évaluation est établi par le chef d'établissement (ou du centre de formation dans le cas d'un CFA habilité à pratiquer le CCF) après consultation des enseignants concernés. Ces derniers peuvent proposer, au sein de la période considérée, un ordre de passage des candidats qui tient compte de leur degré de maîtrise des compétences à évaluer. Les candidats reçoivent une convocation du chef d'établissement ou du directeur de centre de formation.
 
-L'évaluation est conduite par les professeurs et/ou les formateurs enseignant les langues concernées dans l'établissement quelles que soient les classes ou groupes d'élèves qui leur sont confiés. Elle peut être organisée de manière à ce que les professeurs n'évaluent pas leurs élèves de l'année en cours.
+L'évaluation est conduite par les professeurs et/ ou les formateurs enseignant les langues concernées dans l'établissement quelles que soient les classes ou groupes d'élèves qui leur sont confiés. Elle peut être organisée de manière à ce que les professeurs n'évaluent pas leurs élèves de l'année en cours.
 
 La situation d'évaluation se compose de trois parties, chacune d'une durée maximale de cinq minutes. Aucune de ces trois parties n'est précédée d'un temps de préparation.
 
@@ -894,11 +894,11 @@ Partie 1
 
 La première partie vise à évaluer la capacité du candidat à prendre la parole de manière continue. Elle prend appui sur une liste de trois thèmes ou sujets, libellés dans la langue concernée et consignés sur un document remis par le candidat au professeur. Ce document est au préalable validé par le professeur en charge de la formation.
 
-- celui des projets ou réalisations mis en œuvre par le candidat au cours de sa formation au baccalauréat professionnel ;
+-celui des projets ou réalisations mis en œuvre par le candidat au cours de sa formation au baccalauréat professionnel ;
 
-- celui de ses expériences professionnelles ou personnelles liées à son étude ou sa pratique de la langue étrangère concernée ;
+-celui de ses expériences professionnelles ou personnelles liées à son étude ou sa pratique de la langue étrangère concernée ;
 
-- celui de la culture quotidienne, contemporaine ou patrimoniale du ou des pays où la langue étrangère étudiée est parlée, le candidat pouvant s'exprimer sur une œuvre étrangère (œuvre littéraire, picturale, musicale, architecturale, cinématographique, etc.), sur un objet ou produit du design industriel, de la tradition culinaire, de l'artisanat, etc., sur une manifestation ou un événement (artistique, sportif, politique, historique, etc.).
+-celui de la culture quotidienne, contemporaine ou patrimoniale du ou des pays où la langue étrangère étudiée est parlée, le candidat pouvant s'exprimer sur une œuvre étrangère (œuvre littéraire, picturale, musicale, architecturale, cinématographique, etc.), sur un objet ou produit du design industriel, de la tradition culinaire, de l'artisanat, etc., sur une manifestation ou un événement (artistique, sportif, politique, historique, etc.).
 
 Le professeur choisit un des thèmes ou sujets proposés et invite le candidat à s'exprimer. Ce dernier dispose de cinq minutes maximum pour présenter, à l'oral et en langue étrangère, le thème ou le sujet en question. Au cours de cette phase d'expression en continu, le professeur doit laisser le candidat aller au bout de ce qu'il souhaite dire et veiller à ne pas l'interrompre, quelles que soient ses éventuelles hésitations.
 
@@ -924,7 +924,7 @@ Cette épreuve est une épreuve orale.
 
 Compétences évaluées : expression orale en continu, interaction orale et compréhension de l'écrit.
 
-Niveau attendu en référence à l'échelle de niveaux du CECRL : B1+ pour LV1, B1 pour LV2.
+Niveau attendu en référence à l'échelle de niveaux du CECRL : B1 + pour LV1, B1 pour LV2.
 
 Durée : 15 minutes, précédées d'un temps de préparation de 5 minutes pour la première partie de l'épreuve ; partie 1 et partie 2 : 5 minutes maximum chacune, notées pour un total de 20 points ; partie 3 : 5 minutes maximum, notée sur 10.
 
@@ -962,13 +962,13 @@ Pour chaque candidat, le professeur établit son évaluation à partir de la fic
 
 La proposition de note attribuée à l'unité langue vivante du diplôme du baccalauréat professionnel est constituée de la moyenne des notes obtenues à chacune des composantes de l'épreuve. Elle est, le cas échéant, arrondie au demi-point le plus proche. La note finale est arrêtée par le jury.
 
-E 5 - Épreuve de français, histoire-géographie et éducation civique - unité 5 - coefficient 5
+E 5-Épreuve de français, histoire-géographie et enseignement moral et civique-unité 5-coefficient 5
 
 Cette épreuve comprend deux sous-épreuves : E51 et E52 (U51, U52).
 
-Sous épreuve E 51 - Français - unité 51 - coefficient 2,5
+Sous épreuve E 51-Français-unité 51-coefficient 2,5
 
-Évaluation sous forme ponctuelle - Durée 2 h 30
+Évaluation sous forme ponctuelle-Durée 2 h 30
 
 Support : un corpus de textes et documents (2 à 3) référé à l'un des objets d'étude de l'année de terminale.
 
@@ -978,7 +978,7 @@ Première partie : compétences de lecture (10 points)
 
 Le candidat rédige quelques lignes (de 3 à 6 environ) pour présenter les relations que les documents proposés dans le corpus entretiennent entre eux.
 
-2) Question(s) portant sur un ou des documents du corpus : Analyse et interprétation
+2) Question (s) portant sur un ou des documents du corpus : Analyse et interprétation
 
 Le candidat analyse un ou deux effets d'écriture (inscrits dans le libellé de la ou des deux questions) et en propose une interprétation.
 
@@ -1000,7 +1000,7 @@ Support : un corpus de textes et documents (2 à 3) référé à un des trois ob
 
 Le candidat rédige quelques lignes (de 3 à 6 environ) pour présenter les relations que les documents proposés dans le corpus entretiennent entre eux.
 
-1) Question(s) portant sur un ou des documents du corpus : Analyse et interprétation (notée sur 14)
+1) Question (s) portant sur un ou des documents du corpus : Analyse et interprétation (notée sur 14)
 
 Le candidat analyse un ou deux effets d'écriture (inscrits dans le libellé de la ou des deux questions) et en propose une interprétation.
 
@@ -1014,31 +1014,31 @@ Lors de la situation d'évaluation, un sujet est proposé aux candidats ; ce suj
 
 Le candidat répond à cette question en une quarantaine de lignes et de façon argumentée.
 
-Sous-épreuve E 52 - Histoire-géographie et éducation civique - unité 52 - coefficient 2,5
+Sous-épreuve E 52-Histoire-géographie et enseignement moral et civique-unité 52-coefficient 2,5
 
 Modes d'évaluation
 
-Évaluation sous forme ponctuelle - Durée 2 h
+Évaluation sous forme ponctuelle-Durée 2 h
 
-L'examen de baccalauréat professionnel évalue la maîtrise des savoirs et des capacités en histoire-géographie et éducation civique définis dans les programmes de la classe de terminale professionnelle.
+L'examen de baccalauréat professionnel évalue la maîtrise des savoirs et des capacités en histoire-géographie et enseignement moral et civique définis dans les programmes de la classe de terminale professionnelle.
 
-L'épreuve, d'une durée de deux heures, comporte trois parties, notées respectivement 9, 4 et 7 points.
+L'épreuve, d'une durée de deux heures, comporte trois parties, notées respectivement 9,4 et 7 points.
 
 La première partie porte sur les sujets d'étude, soit d'histoire soit de géographie. Elle propose deux sujets au choix. Chaque sujet est composé d'une ou plusieurs questions et peut comporter un support documentaire.
 
-La deuxième partie porte sur le programme d'éducation civique. Elle est composée d'une question et peut comporter un support documentaire.
+La deuxième partie porte sur le programme d' enseignement moral et civique. Elle est composée d'une question et peut comporter un support documentaire.
 
-La troisième partie porte sur la discipline qui n'est pas l'objet de la première partie. Elle consiste en une analyse de document(s) portant sur les situations d'un des sujets d'étude.
+La troisième partie porte sur la discipline qui n'est pas l'objet de la première partie. Elle consiste en une analyse de document (s) portant sur les situations d'un des sujets d'étude.
 
 Évaluation par contrôle en cours de formation
 
-Le contrôle en cours de formation évalue la maîtrise des savoirs et des capacités en histoire, géographie et éducation civique définis dans les programmes de la classe de terminale professionnelle. Il est constitué de deux situations d'évaluation.
+Le contrôle en cours de formation évalue la maîtrise des savoirs et des capacités en histoire, géographie et enseignement moral et civique définis dans les programmes de la classe de terminale professionnelle. Il est constitué de deux situations d'évaluation.
 
-La première situation porte sur les sujets d'étude soit d'histoire soit de géographie. Elle est composée d'une ou plusieurs questions et peut comporter un support documentaire. Une des questions doit avoir une connotation civique en rapport avec le programme d'éducation civique.
+La première situation porte sur les sujets d'étude soit d'histoire soit de géographie. Elle est composée d'une ou plusieurs questions et peut comporter un support documentaire. Une des questions doit avoir une connotation civique en rapport avec le programme d' enseignement moral et civique.
 
-La deuxième situation porte sur la discipline qui n'a pas été l'objet de la première épreuve. Elle consiste en une analyse de document(s). Elle porte sur les situations d'un des sujets d'étude.
+La deuxième situation porte sur la discipline qui n'a pas été l'objet de la première épreuve. Elle consiste en une analyse de document (s). Elle porte sur les situations d'un des sujets d'étude.
 
-E 6 - Épreuve d'arts appliqués et cultures artistiques - unité 6 - coefficient 1
+E 6-Épreuve d'arts appliqués et cultures artistiques-unité 6-coefficient 1
 
 Contrôle en cours de formation
 
@@ -1046,7 +1046,7 @@ Le contrôle en cours de formation comporte deux situations d'évaluation organi
 
 Sur un sujet personnel, défini en accord avec le professeur d'arts appliqués, le candidat constitue un dossier. Ce dossier est réalisé en classe, sur une durée limitée.
 
-Le sujet porte sur le contenu d'un des champs du programme : Appréhender son espace de vie , Construire son identité culturelle , Élargir sa culture artistique . Une partie histoire des arts est clairement identifiée.
+Le sujet porte sur le contenu d'un des champs du programme : Appréhender son espace de vie, Construire son identité culturelle, Élargir sa culture artistique. Une partie histoire des arts est clairement identifiée.
 
 Première situation
 
@@ -1058,13 +1058,13 @@ Critères d'évaluation
 
 Le candidat montre qu'il est capable de repérer de façon autonome les caractéristiques essentielles d'œuvres, de produits, d'espaces urbains ou de messages visuels. À cette fin, il doit :
 
-- collecter et sélectionner une documentation (visuelle, textuelle, sonore, etc.) ;
+-collecter et sélectionner une documentation (visuelle, textuelle, sonore, etc.) ;
 
-- porter un regard critique sur les références recueillies ;
+-porter un regard critique sur les références recueillies ;
 
-- les commenter graphiquement et par écrit ;
+-les commenter graphiquement et par écrit ;
 
-- les présenter de façon lisible et expressive.
+-les présenter de façon lisible et expressive.
 
 Cette partie compte pour 30 % de la note globale.
 
@@ -1078,13 +1078,13 @@ Critères d'évaluation
 
 Le candidat montre qu'il est sensibilisé à son environnement culturel en appuyant sa réflexion sur des connaissances précises, notamment en histoire des arts, et qu'il a acquis les principes élémentaires de la démarche créative. À cette fin, il doit :
 
-- situer une œuvre ou une production dans son contexte de création ;
+-situer une œuvre ou une production dans son contexte de création ;
 
-- explorer des axes de recherche en réponse à une question simple et s'engager dans un projet ;
+-explorer des axes de recherche en réponse à une question simple et s'engager dans un projet ;
 
-- maîtriser les bases de la pratique des outils graphiques, traditionnels et informatiques ;
+-maîtriser les bases de la pratique des outils graphiques, traditionnels et informatiques ;
 
-- s'exprimer dans un langage correct et précis en utilisant le vocabulaire technique approprié.
+-s'exprimer dans un langage correct et précis en utilisant le vocabulaire technique approprié.
 
 Cette partie compte pour 70 % de la note globale.
 
@@ -1094,31 +1094,31 @@ Durée : 1 heure 30
 
 Le sujet pose une question simple à partir d'un ensemble documentaire limité (3 formats A4 maximum).
 
-Les documents relèvent des champs 1 : Appréhender son espace de vie , 2 : Construire son identité culturelle et 3 : Élargir sa culture artistique ; ils intègrent la dimension histoire des arts.
+Les documents relèvent des champs 1 : Appréhender son espace de vie, 2 : Construire son identité culturelle et 3 : Élargir sa culture artistique ; ils intègrent la dimension histoire des arts.
 
 Critères d'évaluation
 
 Le candidat choisit l'un des champs et doit montrer qu'il est capable :
 
-- de situer une œuvre ou une production dans son contexte de création ;
+-de situer une œuvre ou une production dans son contexte de création ;
 
-- de porter un regard critique sur les références proposées ;
+-de porter un regard critique sur les références proposées ;
 
-- de les commenter graphiquement et par écrit ;
+-de les commenter graphiquement et par écrit ;
 
-- de proposer, sous forme graphique et écrite, une réponse argumentée à la question posée.
+-de proposer, sous forme graphique et écrite, une réponse argumentée à la question posée.
 
-E 7 - Épreuve d'éducation physique et sportive - unité 7 - coefficient 1
+E 7-Épreuve d'éducation physique et sportive-unité 7-coefficient 1
 
 Évaluation ponctuelle et par contrôle en cours de formation
 
 Les modalités de l'épreuve d'éducation physique et sportive sont définies par l'arrêté du 15 juillet 2009 relatif aux modalités d'organisation du contrôle en cours de formation et de l'examen terminal pour l'éducation physique et sportive aux examens du baccalauréat professionnel, du certificat d'aptitude professionnelle et du brevet d'études professionnelles (Journal officiel du 31 juillet 2009, BOEN du 27 août 2009) et la note de service n° 2009-141 du 8 octobre 2009 relative à l'éducation physique et sportive aux examens du baccalauréat professionnel, du certificat d'aptitude professionnelle et du brevet d'études professionnelles (BOEN du 12 novembre 2009).
 
-EF - Épreuve facultative de langue vivante
+EF-Épreuve facultative de langue vivante
 
 Épreuve orale d'une durée de 15 minutes, précédée d'un temps de préparation de 5 minutes pour la première partie de l'épreuve. Partie 1 et partie 2 : 5 minutes maximum chacune, notées pour un total de 20 points. Partie 3 : 5 minutes maximum, notée sur 10.
 
-Niveau attendu en référence à l'échelle de niveaux du CECRL : B1+
+Niveau attendu en référence à l'échelle de niveaux du CECRL : B1 +
 
 Cette épreuve est organisée par le recteur d'académie dans un centre d'examen. Le candidat reçoit une convocation.
 

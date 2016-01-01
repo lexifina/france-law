@@ -416,7 +416,7 @@ CCF
 
 |
 
-E5 Épreuve de français, histoire-géographie et éducation civique
+E5 Épreuve de français, histoire-géographie et enseignement moral et civique
 
 |
 
@@ -472,7 +472,7 @@ CCF
 
 |
 
-Sous-épreuve E52 : Histoire-géographie et éducation civique
+Sous-épreuve E52 : Histoire-géographie et enseignement moral et civique
 
 |
 

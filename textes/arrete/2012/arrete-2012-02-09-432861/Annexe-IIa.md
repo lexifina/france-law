@@ -6,19 +6,19 @@ Annexe II a
 
 UNITÉS CONSTITUTIVES DU DIPLÔME
 
-Unité U11 - Mathématiques
+Unité U11-Mathématiques
 
-Le contenu de cette unité est défini par l'arrêté du 10 février 2009 fixant les programmes d'enseignement de mathématiques pour les classes préparatoires au baccalauréat professionnel (BOEN spécial n°2 du 19 février 2009).
+Le contenu de cette unité est défini par l'arrêté du 10 février 2009 fixant les programmes d'enseignement de mathématiques pour les classes préparatoires au baccalauréat professionnel (BOEN spécial n° 2 du 19 février 2009).
 
 La spécialité Photographie de baccalauréat professionnel est rattachée au groupement B défini en annexe de cet arrêté.
 
-Unité U12 - Sciences physiques et chimiques
+Unité U12-Sciences physiques et chimiques
 
-Le contenu de cette unité est défini par l'arrêté du 10 février 2009 fixant les programmes d'enseignement de sciences physiques pour les classes préparatoires au baccalauréat professionnel (BOEN spécial n°2 du 19 février 2009).
+Le contenu de cette unité est défini par l'arrêté du 10 février 2009 fixant les programmes d'enseignement de sciences physiques pour les classes préparatoires au baccalauréat professionnel (BOEN spécial n° 2 du 19 février 2009).
 
 Les modules spécifiques applicables à la spécialité Photographie de baccalauréat professionnel sont les modules SL5, SL6 et SL7 définis en annexe de cet arrêté.
 
-Unité U21 - Étude technique d'une production photographique
+Unité U21-Étude technique d'une production photographique
 
 Objectifs de la sous-épreuve
 
@@ -28,17 +28,17 @@ Compétences évaluées
 
 Cette épreuve porte sur tout ou partie des compétences suivantes :
 
-C1-3 / Étudier la faisabilité
+C1-3/ Étudier la faisabilité
 
-C2-1 / Choisir les moyens de production
+C2-1/ Choisir les moyens de production
 
-C2-2 / Organiser la production
+C2-2/ Organiser la production
 
-C4-1 / Gérer les droits
+C4-1/ Gérer les droits
 
-C4-2 / Diffuser les images
+C4-2/ Diffuser les images
 
-Unité U22 - Étude critique de photographies et autres œuvres relevant des arts visuels
+Unité U22-Étude critique de photographies et autres œuvres relevant des arts visuels
 
 Objectifs de l'épreuve
 
@@ -56,9 +56,9 @@ Compétences évaluées
 
 Cette épreuve porte sur tout ou partie de la compétence suivante :
 
-C1-2 / Approfondir les données
+C1-2/ Approfondir les données
 
-Unité U31 - Présentation des activités en milieu professionnel
+Unité U31-Présentation des activités en milieu professionnel
 
 Objectifs de la sous-épreuve
 
@@ -78,11 +78,11 @@ Compétences évaluées
 
 Cette épreuve porte sur tout ou partie des compétences suivantes :
 
-C5-1 / Établir et assurer les relations avec les partenaires
+C5-1/ Établir et assurer les relations avec les partenaires
 
-C2-3 / Mettre en œuvre une méthode de production
+C2-3/ Mettre en œuvre une méthode de production
 
-Unité U32 - Soutenance de projet photographique
+Unité U32-Soutenance de projet photographique
 
 Objectifs de la sous-épreuve
 
@@ -92,13 +92,13 @@ Compétences évaluées
 
 Cette épreuve porte sur tout ou partie des compétences suivantes :
 
-C1-1 / Identifier et faire préciser la demande
+C1-1/ Identifier et faire préciser la demande
 
-C3-2 / Construire une série cohérente d'images en réponse à un thème
+C3-2/ Construire une série cohérente d'images en réponse à un thème
 
-C5-2 / Argumenter
+C5-2/ Argumenter
 
-Unité U33 - Présentation d'un dossier de travaux professionnels
+Unité U33-Présentation d'un dossier de travaux professionnels
 
 Objectifs de la sous-épreuve
 
@@ -116,43 +116,43 @@ Compétences évaluées
 
 Cette épreuve porte sur tout ou partie des compétences suivantes :
 
-C3-1 / Réaliser une prise de vue fixe ou animée
+C3-1/ Réaliser une prise de vue fixe ou animée
 
-C3-3 / Traiter les images
+C3-3/ Traiter les images
 
-C3-4 / Gérer, conserver et archiver les images
+C3-4/ Gérer, conserver et archiver les images
 
-C5-3 / Rendre compte d'une méthode de réalisation
+C5-3/ Rendre compte d'une méthode de réalisation
 
-Unité U34 - Économie - gestion
+Unité U34-Économie-gestion
 
 Le contenu de cette unité est défini par l'arrêté du 10 février 2009 fixant les programmes d'enseignement d'économie-gestion pour les classes préparatoires aux baccalauréats professionnels du secteur de la production (BOEN spécial n° 2 du 19 février 2009).
 
-Unité U35 - Prévention - Santé - Environnement
+Unité U35-Prévention-Santé-Environnement
 
 Le contenu de cette unité est défini par l'arrêté du 10 février 2009 fixant les programmes d'enseignement de Prévention-santé-environnement pour les classes préparatoires au baccalauréat professionnel (BOEN spécial n° 2 du 19 février 2009).
 
-Unité U4 - Langue vivante
+Unité U4-Langue vivante
 
 Le contenu de cette unité est défini par l'arrêté du 10 février 2009 fixant les programmes d'enseignement de langues vivantes étrangères pour les classes préparatoires au certificat d'aptitude professionnelle et pour les classes préparatoires au baccalauréat professionnel (BOEN spécial n° 2 du 19 février 2009).
 
-Unité U51 - Français
+Unité U51-Français
 
-Le contenu de cette unité est défini par l'arrêté du 10 février 2009 fixant les programmes d'enseignement de français pour les classes préparant au baccalauréat professionnel (BOEN spécial n°2 du 19 février 2009).
+Le contenu de cette unité est défini par l'arrêté du 10 février 2009 fixant les programmes d'enseignement de français pour les classes préparant au baccalauréat professionnel (BOEN spécial n° 2 du 19 février 2009).
 
-Unité U52 - Histoire, géographie et éducation civique
+Unité U52-Histoire, géographie et enseignement moral et civique
 
-Le contenu de cette unité est défini par l'arrêté du 10 février 2009 fixant les programmes d'enseignement de l'histoire et de la géographie pour les classes préparatoires au baccalauréat professionnel (BOEN spécial n°2 du 19 février 2009).
+Le contenu de cette unité est défini par l'arrêté du 10 février 2009 fixant les programmes d'enseignement de l'histoire et de la géographie pour les classes préparatoires au baccalauréat professionnel (BOEN spécial n° 2 du 19 février 2009).
 
-Unité U6 - Arts appliqués et cultures artistiques
+Unité U6-Arts appliqués et cultures artistiques
 
 Le contenu de cette unité est défini par l'arrêté du 10 février 2009 fixant les programmes d'enseignement d'arts appliqués et cultures artistiques pour les classes préparatoires au baccalauréat professionnel (BOEN spécial n° 2 du 19 février 2009)
 
-Unité U7 - Éducation physique et sportive
+Unité U7-Éducation physique et sportive
 
 Le contenu de cette unité est défini par l'arrêté du 10 février 2009 fixant les programmes d'enseignement d'éducation physique et sportive pour les classes préparatoires au certificat d'aptitude professionnelle et pour les classes préparatoires au baccalauréat professionnel.
 
-Unité UF1 - Langue vivante
+Unité UF1-Langue vivante
 
 Le contenu de cette unité est défini par l'arrêté du 08 avril 2010.
 
@@ -226,7 +226,7 @@ COMPÉTENCES
 
 |
 
-C1 - ANALYSER
+C1-ANALYSER
 
 |
 
@@ -240,7 +240,7 @@ C1 - ANALYSER
 
 |
 
-C1-1 / Identifier et faire préciser la demande
+C1-1/ Identifier et faire préciser la demande
 
 |
 
@@ -256,7 +256,7 @@ X
 
 |
 
-C1-2 / Approfondir les données
+C1-2/ Approfondir les données
 
 |
 
@@ -272,7 +272,7 @@ X
 
 |
 
-C1-3 / Étudier la faisabilité
+C1-3/ Étudier la faisabilité
 
 |
 
@@ -288,7 +288,7 @@ X
 
 |
 
-C2 - PRÉPARER - ORGANISER
+C2-PRÉPARER-ORGANISER
 
 |
 
@@ -302,23 +302,7 @@ C2 - PRÉPARER - ORGANISER
 
 |
 
-C2-1 / Choisir les moyens de production
-
-|
-
-X
-
-|
-
-|
-
-|
-
-|
-
-|
-
-C2-2 / Organiser la production
+C2-1/ Choisir les moyens de production
 
 |
 
@@ -334,115 +318,7 @@ X
 
 |
 
-C2-3 / Mettre en œuvre une méthode de production
-
-|
-
-|
-
-|
-
-X
-
-|
-
-|
-
-|
-
-C3 - RÉALISER
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-C3-1 / Réaliser une prise de vue fixe ou animée
-
-|
-
-|
-
-|
-
-|
-
-|
-
-X
-
-|
-
-C3-2 / Construire une série cohérente d'images en réponse à un thème
-
-|
-
-|
-
-|
-
-|
-
-X
-
-|
-
-|
-
-C3-3 / Traiter les images
-
-|
-
-|
-
-|
-
-|
-
-|
-
-X
-
-|
-
-C3-4 / Gérer, conserver et archiver les images
-
-|
-
-|
-
-|
-
-|
-
-|
-
-X
-
-|
-
-C4 - COMMERCIALISER
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-C4-1 / Gérer les droits
+C2-2/ Organiser la production
 
 |
 
@@ -458,37 +334,7 @@ X
 
 |
 
-C4-2 / Diffuser les images
-
-|
-
-X
-
-|
-
-|
-
-|
-
-|
-
-|
-
-C5 - Communiquer
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-C5-1 / Établir et gérer les relations avec les partenaires
+C2-3/ Mettre en œuvre une méthode de production
 
 |
 
@@ -504,7 +350,37 @@ X
 
 |
 
-C5-2 / Argumenter
+C3-RÉALISER
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+C3-1/ Réaliser une prise de vue fixe ou animée
+
+|
+
+|
+
+|
+
+|
+
+|
+
+X
+
+|
+
+C3-2/ Construire une série cohérente d'images en réponse à un thème
 
 |
 
@@ -520,7 +396,131 @@ X
 
 |
 
-C5-3 / Rendre compte d'une méthode de réalisation
+C3-3/ Traiter les images
+
+|
+
+|
+
+|
+
+|
+
+|
+
+X
+
+|
+
+C3-4/ Gérer, conserver et archiver les images
+
+|
+
+|
+
+|
+
+|
+
+|
+
+X
+
+|
+
+C4-COMMERCIALISER
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+C4-1/ Gérer les droits
+
+|
+
+X
+
+|
+
+|
+
+|
+
+|
+
+|
+
+C4-2/ Diffuser les images
+
+|
+
+X
+
+|
+
+|
+
+|
+
+|
+
+|
+
+C5-Communiquer
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+C5-1/ Établir et gérer les relations avec les partenaires
+
+|
+
+|
+
+|
+
+X
+
+|
+
+|
+
+|
+
+C5-2/ Argumenter
+
+|
+
+|
+
+|
+
+|
+
+X
+
+|
+
+|
+
+C5-3/ Rendre compte d'une méthode de réalisation
 
 |
 

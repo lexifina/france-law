@@ -54,7 +54,7 @@ Durée
 
 |
 
-Épreuve E1 - épreuve d'économie- droit et de mathématiques
+Épreuve E1-épreuve d'économie-droit et de mathématiques
 
 |
 
@@ -180,7 +180,7 @@ CCF
 
 |
 
-Épreuve E2 - épreuve à caractère professionnel
+Épreuve E2-épreuve à caractère professionnel
 
 |
 
@@ -278,7 +278,7 @@ CCF
 
 |
 
-Épreuve E3 - épreuve de pratique professionnelle
+Épreuve E3-épreuve de pratique professionnelle
 
 |
 
@@ -366,7 +366,7 @@ CCF
 
 |
 
-Sous-épreuve C prévention-santé- environnement
+Sous-épreuve C prévention-santé-environnement
 
 |
 
@@ -400,7 +400,7 @@ CCF
 
 |
 
-Épreuve E4 - langue vivante
+Épreuve E4-langue vivante
 
 |
 
@@ -494,9 +494,9 @@ CCF
 
 |
 
-Épreuve E5 - Français, Histoire
+Épreuve E5-Français, Histoire
 
-Géographie et éducation civique
+Géographie et enseignement moral et civique
 
 |
 
@@ -554,7 +554,7 @@ CCF
 
 |
 
-Sous-épreuve B Histoire Géographie et éducation civique
+Sous-épreuve B Histoire Géographie et enseignement moral et civique
 
 |
 
@@ -590,7 +590,7 @@ CCF
 
 |
 
-Épreuve E6 - arts appliqués et cultures artistiques
+Épreuve E6-arts appliqués et cultures artistiques
 
 |
 

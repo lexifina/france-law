@@ -2,37 +2,37 @@
 
 Définition des épreuves
 
-E1 - Épreuve scientifique et technique - coefficient 6
+E1-Épreuve scientifique et technique-coefficient 6
 
-Cette épreuve comprend trois sous-épreuves : E11, E12 et E13 (U11 - U12 - U13)
+Cette épreuve comprend trois sous-épreuves : E11, E12 et E13 (U11-U12-U13)
 
-Sous-épreuve E11 - Analyse d'une situation professionnelle de transport spécifique - unité U11 - coefficient 3
+Sous-épreuve E11-Analyse d'une situation professionnelle de transport spécifique-unité U11-coefficient 3
 
 1. Contenu de la sous-épreuve
 
-La sous-épreuve a pour objet de valider tout ou partie des compétences C1.1 et C1.2 du référentiel :
+La sous-épreuve a pour objet de valider tout ou partie des compétences C1. 1 et C1. 2 du référentiel :
 
-C1.1 : Collecter et exploiter les informations nécessaires au transport
+C1. 1 : Collecter et exploiter les informations nécessaires au transport
 
-- Utiliser les différents supports documentaires.
+-Utiliser les différents supports documentaires.
 
-- Collecter toutes les informations nécessaires au transport à réaliser.
+-Collecter toutes les informations nécessaires au transport à réaliser.
 
-- Exploiter et analyser les informations liées à la réglementation du transport.
+-Exploiter et analyser les informations liées à la réglementation du transport.
 
-- Collecter et analyser les informations liées à l'itinéraire.
+-Collecter et analyser les informations liées à l'itinéraire.
 
-C1.2: Communiquer avec son entreprise, le client et les acteurs du domaine public
+C1. 2 : Communiquer avec son entreprise, le client et les acteurs du domaine public
 
-- Transmettre les informations sur le déroulement du transport.
+-Transmettre les informations sur le déroulement du transport.
 
-- Transmettre les informations d'ordre commercial.
+-Transmettre les informations d'ordre commercial.
 
-- Effectuer un compte rendu adapté.
+-Effectuer un compte rendu adapté.
 
-- Signaler les difficultés rencontrées et proposer des actions correctives.
+-Signaler les difficultés rencontrées et proposer des actions correctives.
 
-- Adopter une attitude citoyenne et respectueuse.
+-Adopter une attitude citoyenne et respectueuse.
 
 Les indicateurs de performances sont ceux définis dans le référentiel de certification.
 
@@ -48,7 +48,7 @@ Ce dossier est présenté oralement par le candidat pendant 15 minutes au maximu
 
 Une problématique liée à la spécificité du transport présenté doit être clairement identifiée. La présentation orale doit être claire et structurée en faisant ressortir les aspects réglementaires et les contraintes techniques et physiques qui s'appliquent. Les outils actuels de communication sont disponibles pour la phase présentation.
 
-Lors de l'entretien avec le candidat, l'ensemble des questions posées doit permettre de contrôler les compétences liées à la communication, la réglementation et/ou les techniques actuelles mises en œuvre dans le transport et les évolutions envisagées.
+Lors de l'entretien avec le candidat, l'ensemble des questions posées doit permettre de contrôler les compétences liées à la communication, la réglementation et/ ou les techniques actuelles mises en œuvre dans le transport et les évolutions envisagées.
 
 Pour chaque session, le recteur fixe la date à laquelle le candidat doit remettre son dossier au centre d'examen.
 
@@ -76,13 +76,13 @@ Chaque candidat est informé à l'avance de la période prévue pour le déroule
 
 À l'issue de cette situation d'évaluation, le professeur chargé des enseignements de conduite routière et l'équipe pédagogique de l'établissement de formation constituent pour chaque candidat un dossier comprenant :
 
-- la description sommaire des moyens matériels mis à sa disposition ;
+-la description sommaire des moyens matériels mis à sa disposition ;
 
-- les documents produits et présentés par le candidat lors de l'évaluation ;
+-les documents produits et présentés par le candidat lors de l'évaluation ;
 
-- une fiche d'analyse du travail effectué par le candidat ;
+-une fiche d'analyse du travail effectué par le candidat ;
 
-- la fiche d'évaluation renseignée.
+-la fiche d'évaluation renseignée.
 
 Seule cette fiche d'évaluation sera transmise au jury, accompagnée de la proposition de note.
 
@@ -90,19 +90,19 @@ Après examen attentif des documents fournis, le jury formule toute remarque et 
 
 L'ensemble du dossier décrit ci-dessus, relatif à la situation d'évaluation, est tenu à la disposition du jury.
 
-Sous-épreuve E12 - Mathématiques - unité U12 - coefficient 1,5
+Sous-épreuve E12-Mathématiques-unité U12-coefficient 1,5
 
 Objectifs des sous-épreuves de mathématiques et de sciences physiques et chimiques
 
 Les sous-épreuves de mathématiques et de sciences physiques et chimiques sont destinées à évaluer la façon dont les candidats ont atteint les grands objectifs visés par le programme :
 
-- former à l'activité mathématique et scientifique par la mise en œuvre des démarches d'investigation, de résolution de problèmes et d'expérimentation ;
+-former à l'activité mathématique et scientifique par la mise en œuvre des démarches d'investigation, de résolution de problèmes et d'expérimentation ;
 
-- apprendre à mobiliser les outils mathématiques et scientifiques dans des situations liées à la profession ou à la vie courante ;
+-apprendre à mobiliser les outils mathématiques et scientifiques dans des situations liées à la profession ou à la vie courante ;
 
-- entraîner à la lecture active de l'information, à sa critique, à son traitement en privilégiant l'utilisation des Tic ;
+-entraîner à la lecture active de l'information, à sa critique, à son traitement en privilégiant l'utilisation des Tic ;
 
-- développer les capacités de communication écrite et orale.
+-développer les capacités de communication écrite et orale.
 
 Modes d'évaluation
 
@@ -116,17 +116,17 @@ L'évaluation est conçue comme sondage probant sur des compétences du programm
 
 Il s'agit d'évaluer les aptitudes à mobiliser les connaissances et compétences pour résoudre des problèmes, en particulier :
 
-- rechercher, extraire et organiser l'information ;
+-rechercher, extraire et organiser l'information ;
 
-- choisir et exécuter une méthode de résolution ;
+-choisir et exécuter une méthode de résolution ;
 
-- raisonner, argumenter, critiquer et valider un résultat ;
+-raisonner, argumenter, critiquer et valider un résultat ;
 
-- présenter, communiquer un résultat.
+-présenter, communiquer un résultat.
 
 Chaque séquence comporte un ou deux exercices avec des questions de difficulté progressive. Les sujets portent principalement sur les domaines mathématiques les plus utiles pour résoudre un problème en liaison avec la physique, la chimie, un secteur professionnel ou la vie courante. Lorsque la situation s'appuie sur d'autres disciplines, aucune connaissance relative à ces disciplines n'est exigible des candidats et toutes les indications utiles doivent être fournies dans l'énoncé.
 
-L'un des exercices de chaque séquence comporte une ou deux questions dont la résolution nécessite l'utilisation de logiciels ou de calculatrices par les candidats. La présentation de la résolution de la (des) question(s) utilisant les Tic se fait en présence de l'examinateur. Ce type de questions permet d'évaluer les capacités à expérimenter, à simuler, à émettre des conjectures ou contrôler leur vraisemblance. Le candidat porte ensuite par écrit sur une fiche à compléter, les résultats obtenus, des observations ou des commentaires.
+L'un des exercices de chaque séquence comporte une ou deux questions dont la résolution nécessite l'utilisation de logiciels ou de calculatrices par les candidats. La présentation de la résolution de la (des) question (s) utilisant les Tic se fait en présence de l'examinateur. Ce type de questions permet d'évaluer les capacités à expérimenter, à simuler, à émettre des conjectures ou contrôler leur vraisemblance. Le candidat porte ensuite par écrit sur une fiche à compléter, les résultats obtenus, des observations ou des commentaires.
 
 Une proposition de note est établie. La note définitive est délivrée par le jury.
 
@@ -138,13 +138,13 @@ L'évaluation est conçue comme sondage probant sur des compétences du programm
 
 Il s'agit d'évaluer les aptitudes à mobiliser les connaissances et compétences pour résoudre des problèmes, en particulier :
 
-- rechercher, extraire et organiser l'information ;
+-rechercher, extraire et organiser l'information ;
 
-- choisir et exécuter une méthode de résolution ;
+-choisir et exécuter une méthode de résolution ;
 
-- raisonner, argumenter, critiquer et valider un résultat ;
+-raisonner, argumenter, critiquer et valider un résultat ;
 
-- présenter, communiquer un résultat.
+-présenter, communiquer un résultat.
 
 Le sujet se compose de deux ou trois exercices avec des questions de difficulté progressive recouvrant une part aussi large que possible des capacités mentionnées dans le programme de terminale professionnelle. L'un des exercices comporte des questions dont la résolution nécessite l'utilisation des Tic (logiciels ou calculatrices).
 
@@ -152,7 +152,7 @@ Les thèmes mathématiques concernés portent principalement sur les domaines ma
 
 L'exercice qui comporte des questions dont la résolution nécessite l'utilisation des Tic est noté sur 10 points. Il permet d'apprécier l'aptitude du candidat à mobiliser les capacités et connaissances du programme pour traiter un problème dont la résolution nécessite l'utilisation de logiciels ou de calculatrices. Il permet d'évaluer les capacités à expérimenter, à simuler, à émettre des conjectures ou contrôler leur vraisemblance. La présentation de la résolution des questions nécessitant l'utilisation des Tic se fait en présence de l'examinateur.
 
-Sous-épreuve E13 - Sciences physiques et chimiques - unité U13 - coefficient 1,5
+Sous-épreuve E13-Sciences physiques et chimiques-unité U13-coefficient 1,5
 
 a) Contrôle en cours de formation (CCF)
 
@@ -166,17 +166,17 @@ L'évaluation est conçue comme sondage probant sur des compétences du programm
 
 L'évaluation porte nécessairement sur les capacités expérimentales du candidat observées durant les manipulations qu'il réalise, sur les mesures obtenues et leur interprétation. Lors de cette évaluation, il est demandé au candidat :
 
-- de mettre en œuvre un protocole expérimental ;
+-de mettre en œuvre un protocole expérimental ;
 
-- d'utiliser correctement le matériel mis à sa disposition ;
+-d'utiliser correctement le matériel mis à sa disposition ;
 
-- de mettre en œuvre les procédures et consignes de sécurité adaptées ;
+-de mettre en œuvre les procédures et consignes de sécurité adaptées ;
 
-- de montrer qu'il connaît le vocabulaire, les symboles, les grandeurs et les unités mises en œuvre ;
+-de montrer qu'il connaît le vocabulaire, les symboles, les grandeurs et les unités mises en œuvre ;
 
-- d'utiliser une ou plusieurs relations. Ces relations sont données lorsqu'elles ne sont pas répertoriées dans la colonne connaissances du programme ;
+-d'utiliser une ou plusieurs relations. Ces relations sont données lorsqu'elles ne sont pas répertoriées dans la colonne connaissances du programme ;
 
-- d'interpréter et de rendre compte par écrit des résultats des travaux réalisés.
+-d'interpréter et de rendre compte par écrit des résultats des travaux réalisés.
 
 b) Contrôle ponctuel
 
@@ -184,27 +184,27 @@ Cette sous-épreuve, d'une durée d'une heure, est notée sur 20 points. Elle re
 
 Le sujet, conçu en référence explicite aux compétences du programme, consacre 15 points sur 20 à l'évaluation des capacités expérimentales du candidat, observées durant les manipulations qu'il réalise, sur les mesures obtenues, leur interprétation et leur exploitation. Lors de cette évaluation, il est demandé au candidat :
 
-- de mettre en œuvre un protocole expérimental ;
+-de mettre en œuvre un protocole expérimental ;
 
-- d'utiliser correctement le matériel mis à sa disposition ;
+-d'utiliser correctement le matériel mis à sa disposition ;
 
-- de mettre en œuvre les procédures et consignes de sécurité adaptées ;
+-de mettre en œuvre les procédures et consignes de sécurité adaptées ;
 
-- de montrer qu'il connaît le vocabulaire, les symboles, les grandeurs et les unités mises en œuvre ;
+-de montrer qu'il connaît le vocabulaire, les symboles, les grandeurs et les unités mises en œuvre ;
 
-- d'utiliser une ou plusieurs relations. Ces relations sont données lorsqu'elles ne sont pas répertoriées dans la colonne connaissances du programme ;
+-d'utiliser une ou plusieurs relations. Ces relations sont données lorsqu'elles ne sont pas répertoriées dans la colonne connaissances du programme ;
 
-- d'interpréter et de rendre compte par écrit des résultats des travaux réalisés.
+-d'interpréter et de rendre compte par écrit des résultats des travaux réalisés.
 
 Le candidat porte, sur une fiche qu'il complète en cours de manipulation, les résultats de ses observations, de ses mesures et leur interprétation. Une grille de compétences permet d'évaluer les connaissances et capacités du candidat lors de ses manipulations.
 
 Des exercices ou questions complémentaires, relatifs au contexte de l'expérimentation qui structure le sujet et notés sur 5 points, mettent en œuvre une ou plusieurs grandeurs et relations entre elles. Les questions posées doivent permettre de vérifier que le candidat est capable :
 
-- de montrer qu'il connaît le vocabulaire, les symboles, les grandeurs et les unités mises en œuvre ;
+-de montrer qu'il connaît le vocabulaire, les symboles, les grandeurs et les unités mises en œuvre ;
 
-- d'indiquer l'ordre de grandeur d'une valeur compte tenu des mesures fournies et du contexte envisagé ;
+-d'indiquer l'ordre de grandeur d'une valeur compte tenu des mesures fournies et du contexte envisagé ;
 
-- d'utiliser des définitions, des lois et des modèles pour répondre aux problèmes posés.
+-d'utiliser des définitions, des lois et des modèles pour répondre aux problèmes posés.
 
 Lorsque l'épreuve s'appuie sur d'autres disciplines, aucune connaissance relative à ces disciplines n'est exigible des candidats et toutes les indications utiles doivent être fournies dans l'énoncé.
 
@@ -230,81 +230,81 @@ Les consignes de correction devront permettre aux correcteurs de prendre réelle
 
 Les examinateurs et les correcteurs ne manifesteront pas d'exigences de formulation démesurées, et prêteront une attention particulière aux démarches engagées, aux tentatives pertinentes, aux résultats partiels.
 
-E2 - Épreuve technologique - U2 - coefficient 3
+E2-Épreuve technologique-U2-coefficient 3
 
 Étude de cas : Préparation d'une activité de transport routier
 
 1. Contenu de l'épreuve
 
-Cette épreuve a pour objet de valider tout ou partie des compétences C1.3, C2.1, C2.2, C2.3, C2.4 et C2.5 du référentiel :
+Cette épreuve a pour objet de valider tout ou partie des compétences C1. 3, C2. 1, C2. 2, C2. 3, C2. 4 et C2. 5 du référentiel :
 
-C1.3 : Renseigner, restituer les documents relatifs à ses activités.
+C1. 3 : Renseigner, restituer les documents relatifs à ses activités.
 
-- Restituer les documents et données liés aux activités.
+-Restituer les documents et données liés aux activités.
 
-- Rendre compte à la hiérarchie.
+-Rendre compte à la hiérarchie.
 
-- Préconiser des améliorations.
+-Préconiser des améliorations.
 
-- Sélectionner les outils de la démarche qualité.
+-Sélectionner les outils de la démarche qualité.
 
-- Renseigner les documents de la démarche qualité.
+-Renseigner les documents de la démarche qualité.
 
-C2.1 : Vérifier et renseigner les documents nécessaires au transport.
+C2. 1 : Vérifier et renseigner les documents nécessaires au transport.
 
-- Contrôler les documents d'accompagnement.
+-Contrôler les documents d'accompagnement.
 
-- Sélectionner et compléter les documents de transport.
+-Sélectionner et compléter les documents de transport.
 
-- Identifier, signaler les anomalies et incidents.
+-Identifier, signaler les anomalies et incidents.
 
-- Valider les documents de transport avec le client ou donneur d'ordre.
+-Valider les documents de transport avec le client ou donneur d'ordre.
 
-C2.2 : Prendre en charge le véhicule et organiser le chargement.
+C2. 2 : Prendre en charge le véhicule et organiser le chargement.
 
-- Contrôler la compatibilité du véhicule au transport à réaliser.
+-Contrôler la compatibilité du véhicule au transport à réaliser.
 
-- Contrôler la conformité des véhicules au transport à réaliser.
+-Contrôler la conformité des véhicules au transport à réaliser.
 
-- Organiser le plan de chargement.
+-Organiser le plan de chargement.
 
-- Proposer des solutions correctives.
+-Proposer des solutions correctives.
 
-C2.3 : Déterminer et adapter l'itinéraire.
+C2. 3 : Déterminer et adapter l'itinéraire.
 
-- Exploiter les informations liées aux conditions de circulation.
+-Exploiter les informations liées aux conditions de circulation.
 
-- Déterminer un itinéraire.
+-Déterminer un itinéraire.
 
-- Proposer et justifier des aménagements.
+-Proposer et justifier des aménagements.
 
-C2.4 : Programmer et gérer ses activités.
+C2. 4 : Programmer et gérer ses activités.
 
-- Exploiter les données liées à la réglementation.
+-Exploiter les données liées à la réglementation.
 
-- Vérifier la compatibilité des ordres de transport.
+-Vérifier la compatibilité des ordres de transport.
 
-- Proposer une organisation de ses activités.
+-Proposer une organisation de ses activités.
 
-- Justifier, argumenter les différentes propositions en gérant les coûts.
+-Justifier, argumenter les différentes propositions en gérant les coûts.
 
-- Gérer ses différentes activités en appliquant la RSE et le code du Travail.
+-Gérer ses différentes activités en appliquant la RSE et le code du Travail.
 
-- Gérer les aléas et signaler les anomalies constatées.
+-Gérer les aléas et signaler les anomalies constatées.
 
-C2.5 : Gérer des litiges, les anomalies, les incidents et accidents.
+C2. 5 : Gérer des litiges, les anomalies, les incidents et accidents.
 
-- Analyser un problème, une difficulté.
+-Analyser un problème, une difficulté.
 
-- Identifier un dysfonctionnement lié au véhicule.
+-Identifier un dysfonctionnement lié au véhicule.
 
-- Proposer des solutions de traitement des litiges ou anomalies ou incidents.
+-Proposer des solutions de traitement des litiges ou anomalies ou incidents.
 
-- Mettre en œuvre les solutions validées.
+-Mettre en œuvre les solutions validées.
 
-- Gérer les situations d'accident ou d'incident avec un véhicule.
+-Gérer les situations d'accident ou d'incident avec un véhicule.
 
-- Gérer les aléas et signaler les anomalies constatées.
+-Gérer les aléas et signaler les anomalies constatées.
 
 Les indicateurs de performances sont ceux définis dans le référentiel de certification.
 
@@ -340,13 +340,13 @@ Chaque candidat est informé à l'avance de la période prévue pour le déroule
 
 À l'issue de chaque situation d'évaluation, le professeur chargé des enseignements de conduite routière et l'équipe pédagogique de l'établissement de formation constituent pour chaque candidat un dossier comprenant :
 
-- l'ensemble des documents remis au candidat pour conduire le travail demandé ;
+-l'ensemble des documents remis au candidat pour conduire le travail demandé ;
 
-- la description sommaire des moyens matériels mis à sa disposition ;
+-la description sommaire des moyens matériels mis à sa disposition ;
 
-- les documents rédigés par le candidat lors de l'évaluation ;
+-les documents rédigés par le candidat lors de l'évaluation ;
 
-- la fiche d'évaluation renseignée.
+-la fiche d'évaluation renseignée.
 
 Seule cette fiche d'évaluation est transmise au jury, accompagnée de la proposition de note.
 
@@ -354,39 +354,39 @@ Après examen attentif des documents fournis, le jury formule toute remarque et 
 
 L'ensemble du dossier décrit ci-dessus, relatif à la situation d'évaluation, est tenu à la disposition du jury.
 
-E3 - Épreuve prenant en compte la formation en entreprise - unités U31, U32, U33, U34, U35 - coefficient 11
+E3-Épreuve prenant en compte la formation en entreprise-unités U31, U32, U33, U34, U35-coefficient 11
 
 Cette épreuve comprend cinq sous-épreuves :
 
-- E31 Réalisation d'interventions en entreprise
+-E31 Réalisation d'interventions en entreprise
 
-- E32 Conduite d'un véhicule lourd articulé
+-E32 Conduite d'un véhicule lourd articulé
 
-- E33 Conduite avec mise à quai en entreprise. Conduite de chariot de manutention
+-E33 Conduite avec mise à quai en entreprise. Conduite de chariot de manutention
 
-- E34 Économie-gestion
+-E34 Économie-gestion
 
-- E35 Prévention-santé-environnement
+-E35 Prévention-santé-environnement
 
-Sous-épreuve E31 - Réalisation d'interventions en entreprise - unité 31 - coefficient 2
+Sous-épreuve E31-Réalisation d'interventions en entreprise-unité 31-coefficient 2
 
 1. Contenu de la sous-épreuve
 
-La sous-épreuve a pour objet de valider tout ou partie des compétences suivantes exigées du titulaire du baccalauréat professionnel conducteur transport routier marchandises .
+La sous-épreuve a pour objet de valider tout ou partie des compétences suivantes exigées du titulaire du baccalauréat professionnel conducteur transport routier marchandises.
 
-- C3.1 : Préparer le véhicule et les accessoires au chargement
+-C3. 1 : Préparer le véhicule et les accessoires au chargement
 
-- C3.2 : Charger, caler et arrimer la marchandise
+-C3. 2 : Charger, caler et arrimer la marchandise
 
-- C3.4 : Contrôler le chargement
+-C3. 4 : Contrôler le chargement
 
-- C3.6 : Exploiter les moyens embarqués de contrôle, de communication, d'aide à la conduite et de suivi de la marchandise
+-C3. 6 : Exploiter les moyens embarqués de contrôle, de communication, d'aide à la conduite et de suivi de la marchandise
 
-- C3.8 : Mettre la marchandise et les documents à disposition du client
+-C3. 8 : Mettre la marchandise et les documents à disposition du client
 
-- C3.9 : Gérer les supports de charge, les conditionnements, les rebuts
+-C3. 9 : Gérer les supports de charge, les conditionnements, les rebuts
 
-- C3.10 : Restituer le véhicule
+-C3. 10 : Restituer le véhicule
 
 Les indicateurs de performances sont ceux définis dans le référentiel de certification.
 
@@ -408,7 +408,7 @@ Une fiche nationale d'évaluation du travail réalisé pour cette épreuve, réd
 
 3. Mode d'évaluation
 
-3.1 Forme ponctuelle : Orale - durée 45 minutes
+3.1 Forme ponctuelle : Orale-durée 45 minutes
 
 Il s'agit d'un entretien s'appuyant sur le suivi des tâches et le rapport d'activités réalisé par le candidat.
 
@@ -416,11 +416,11 @@ La commission d'évaluation des candidats est composée d'un professeur chargé 
 
 À l'issue de la situation d'évaluation, les membres du jury constituent pour chaque candidat un dossier comprenant :
 
-- l'ensemble des documents utilisés pour conduire l'entretien ;
+-l'ensemble des documents utilisés pour conduire l'entretien ;
 
-- une fiche d'analyse du travail effectué par le candidat, en relation avec le livret de suivi en entreprise ;
+-une fiche d'analyse du travail effectué par le candidat, en relation avec le livret de suivi en entreprise ;
 
-- la fiche d'évaluation renseignée.
+-la fiche d'évaluation renseignée.
 
 Seule cette fiche d'évaluation est transmise au jury, accompagnée de la proposition de note.
 
@@ -432,17 +432,17 @@ Au terme de la dernière période de formation en milieu professionnel, les prof
 
 Cette proposition prend en compte :
 
-- les compétences acquises lors des travaux réalisés en entreprise ;
+-les compétences acquises lors des travaux réalisés en entreprise ;
 
-- l'entretien avec le formateur (tuteur, maître d'apprentissage) de la dernière entreprise d'accueil et un professeur d'enseignement professionnel membre de l'équipe pédagogique ayant en charge la formation.
+-l'entretien avec le formateur (tuteur, maître d'apprentissage) de la dernière entreprise d'accueil et un professeur d'enseignement professionnel membre de l'équipe pédagogique ayant en charge la formation.
 
 À l'issue de la situation d'évaluation, l'équipe pédagogique de l'établissement de formation constitue pour chaque candidat un dossier comprenant :
 
-- l'ensemble des documents utilisés pour conduire l'entretien ;
+-l'ensemble des documents utilisés pour conduire l'entretien ;
 
-- une fiche d'analyse du travail effectué par le candidat, en relation avec le livret de suivi en entreprise ;
+-une fiche d'analyse du travail effectué par le candidat, en relation avec le livret de suivi en entreprise ;
 
-- la fiche d'évaluation renseignée.
+-la fiche d'évaluation renseignée.
 
 Seule cette fiche d'évaluation est transmise au jury, accompagnée de la proposition de note.
 
@@ -450,37 +450,37 @@ Après examen attentif des documents fournis, le jury formule toute remarque et 
 
 L'ensemble du dossier décrit ci-dessus, relatif à la situation d'évaluation, est tenu à la disposition du jury.
 
-Sous-épreuve E32 - Conduite d'un véhicule lourd articulé - unité 32
+Sous-épreuve E32-Conduite d'un véhicule lourd articulé-unité 32
 
 (Remplacé)
 
-Sous-épreuve E33 - Conduite avec mise à quai. Conduite de chariot de manutention - unité 33 - coefficient 2
+Sous-épreuve E33-Conduite avec mise à quai. Conduite de chariot de manutention-unité 33-coefficient 2
 
 1. Contenu de la sous-épreuve
 
-Cette sous-épreuve a pour objet de valider tout ou partie des compétences C3.3 et C3.7 du référentiel.
+Cette sous-épreuve a pour objet de valider tout ou partie des compétences C3. 3 et C3. 7 du référentiel.
 
-C3.3 : Conduire en sécurité les chariots de manutention à conducteur porté
+C3. 3 : Conduire en sécurité les chariots de manutention à conducteur porté
 
-- Choisir et prendre en charge le chariot de manutention adapté
+-Choisir et prendre en charge le chariot de manutention adapté
 
-- Réaliser la manutention prévue
+-Réaliser la manutention prévue
 
-- Appliquer les règles d'ergonomie et de gestes et postures lors de manutention
+-Appliquer les règles d'ergonomie et de gestes et postures lors de manutention
 
-- Immobiliser les engins de manutention
+-Immobiliser les engins de manutention
 
-- Signaler les anomalies et incidents constatés
+-Signaler les anomalies et incidents constatés
 
-C3.7 : Accéder et manœuvrer sur le site du client
+C3. 7 : Accéder et manœuvrer sur le site du client
 
-- Localiser et accéder sur le site du client
+-Localiser et accéder sur le site du client
 
-- Circuler et stationner sur le site du client
+-Circuler et stationner sur le site du client
 
-- Effectuer une mise à quai dans l'entreprise partenaire
+-Effectuer une mise à quai dans l'entreprise partenaire
 
-- Signaler les anomalies et incidents constatés
+-Signaler les anomalies et incidents constatés
 
 Les indicateurs de performances sont ceux définis dans le référentiel de certification.
 
@@ -492,49 +492,49 @@ S'il est bien entendu que la mise en œuvre des compétences à évaluer nécess
 
 Cette épreuve se décompose en deux parties :
 
-- Réalisation d'opérations de manutention en conformité avec les instructions prévues pour la conduite en sécurité des chariots à conducteur porté des catégories 1 et 3 (R.389 CNAMTS) ;
+-Réalisation d'opérations de manutention en conformité avec les instructions prévues pour la conduite en sécurité des chariots à conducteur porté des catégories 1 et 3 (R. 389 CNAMTS) ;
 
-- Réalisation d'opération de circulation au sein d'une entreprise de transport et de mise à quai.
+-Réalisation d'opération de circulation au sein d'une entreprise de transport et de mise à quai.
 
 Pour la partie manutention, le candidat réalise :
 
-- un test écrit portant sur l'ensemble des connaissances relatives à la conduite des chariots à conducteur porté (10 minutes maximum) ;
+-un test écrit portant sur l'ensemble des connaissances relatives à la conduite des chariots à conducteur porté (10 minutes maximum) ;
 
-- un test pratique sur chaque catégorie de chariot : un test sur chariot transpalettes à conducteur porté (15 minutes maximum) ; un test sur chariot élévateur en porte-à-faux de capacité inférieure ou égale à 6 000 kg (25 minutes maximum).
+-un test pratique sur chaque catégorie de chariot : un test sur chariot transpalettes à conducteur porté (15 minutes maximum) ; un test sur chariot élévateur en porte-à-faux de capacité inférieure ou égale à 6 000 kg (25 minutes maximum).
 
 Le sujet ou la situation professionnelle proposé au candidat liste les compétences à mettre en œuvre, définit le parcours à réaliser et prévoit le chariot à utiliser.
 
-Le parcours défini doit comporter au moins pour le chariot transpalettes à conducteur porté ou préparateur de commandes au sol de levée inférieure à 1 m (R.389 CNAMTS CACES catégorie 1) pendant 15 minutes maximum :
+Le parcours défini doit comporter au moins pour le chariot transpalettes à conducteur porté ou préparateur de commandes au sol de levée inférieure à 1 m (R. 389 CNAMTS CACES catégorie 1) pendant 15 minutes maximum :
 
-- la circulation à vide, en charge, en marche AV et marche AR, en virage et l'arrêt en position de sécurité ;
+-la circulation à vide, en charge, en marche AV et marche AR, en virage et l'arrêt en position de sécurité ;
 
-- la prise et la dépose au sol d'une charge palettisée ;
+-la prise et la dépose au sol d'une charge palettisée ;
 
-- le chargement et le déchargement d'un camion ou d'une remorque par l'arrière à partir d'un quai (en particulier avec une charge limitant la visibilité).
+-le chargement et le déchargement d'un camion ou d'une remorque par l'arrière à partir d'un quai (en particulier avec une charge limitant la visibilité).
 
-Le parcours défini doit comporter au moins pour le chariot élévateur en porte-à-faux de capacité inférieure ou égale à 6 000 kg (R.389 CNAMTS CACES catégorie 3) pendant 25 minutes maximum :
+Le parcours défini doit comporter au moins pour le chariot élévateur en porte-à-faux de capacité inférieure ou égale à 6 000 kg (R. 389 CNAMTS CACES catégorie 3) pendant 25 minutes maximum :
 
-- la circulation à vide, en charge, en marche AV et marche AR, en virage et l'arrêt en position de sécurité ;
+-la circulation à vide, en charge, en marche AV et marche AR, en virage et l'arrêt en position de sécurité ;
 
-- le gerbage et le dégerbage en pile.
+-le gerbage et le dégerbage en pile.
 
 Et au moins deux des opérations suivantes :
 
-- la circulation et l'arrêt sur un plan incliné ;
+-la circulation et l'arrêt sur un plan incliné ;
 
-- la prise et la dépose d'une charge au sol ;
+-la prise et la dépose d'une charge au sol ;
 
-- la mise en stock et le déstockage d'une charge à un ou plusieurs niveaux d'un palettier jusqu'à une hauteur de 4 m ;
+-la mise en stock et le déstockage d'une charge à un ou plusieurs niveaux d'un palettier jusqu'à une hauteur de 4 m ;
 
-- le chargement ou le déchargement latéral d'un camion ou d'une remorque ;
+-le chargement ou le déchargement latéral d'un camion ou d'une remorque ;
 
-- la prise, le transport et la dépose d'une charge longue ou volumineuse.
+-la prise, le transport et la dépose d'une charge longue ou volumineuse.
 
 Le candidat doit, en début et en fin d'exercice, être considéré comme débutant ou terminant sa période de travail.
 
 La prestation de conduite doit se faire sans précipitation, dans le respect de toutes les consignes et règles de sécurité en vigueur, dans le temps maximum imparti. La commission d'évaluation apprécie l'opportunité et la durée de la préparation qui peut éventuellement être accordée au candidat avant l'épreuve proprement dite, sur le matériel du centre.
 
-Pour la partie circulation et mise à quai au sein d'une entreprise de transport , le candidat doit se présenter au sein de l'entreprise, circuler et stationner en respectant le protocole de sécurité en place, réaliser la mise à quai donnée par l'exploitant sous le contrôle de l'enseignant.
+Pour la partie circulation et mise à quai au sein d'une entreprise de transport, le candidat doit se présenter au sein de l'entreprise, circuler et stationner en respectant le protocole de sécurité en place, réaliser la mise à quai donnée par l'exploitant sous le contrôle de l'enseignant.
 
 Une fiche nationale d'évaluation du travail réalisé pour cette épreuve, rédigée et mise à jour par l'inspection générale de l'Éducation nationale, est diffusée aux établissements par les services rectoraux des examens et concours.
 
@@ -556,9 +556,9 @@ Le candidat tire au sort le sujet préparé par le centre d'examen.
 
 La situation d'évaluation est organisée :
 
-- pour la mise à quai, par le professeur chargé des enseignements de conduite routière lors des périodes de conduite intensive prévues durant les périodes de formation en milieu professionnel (PFMP). Un professionnel est associé à cette évaluation ;
+-pour la mise à quai, par le professeur chargé des enseignements de conduite routière lors des périodes de conduite intensive prévues durant les périodes de formation en milieu professionnel (PFMP). Un professionnel est associé à cette évaluation ;
 
-- pour la conduite des chariots, par le professeur habilité à former et tester les candidats. Un professionnel est associé à cette évaluation.
+-pour la conduite des chariots, par le professeur habilité à former et tester les candidats. Un professionnel est associé à cette évaluation.
 
 Des activités similaires doivent être intégrées à la stratégie de formation durant les PFMP de première et terminale professionnelle afin de répondre aux exigences de cette évaluation.
 
@@ -568,13 +568,13 @@ Chaque candidat est informé à l'avance de la période prévue pour le déroule
 
 À l'issue de la situation d'évaluation, l'équipe pédagogique du centre de formation constitue pour chaque candidat un dossier comprenant :
 
-- l'ensemble des documents utilisés pour réaliser le travail demandé ;
+-l'ensemble des documents utilisés pour réaliser le travail demandé ;
 
-- les documents rédigés par le candidat lors de cette évaluation ;
+-les documents rédigés par le candidat lors de cette évaluation ;
 
-- la fiche d'analyse du travail effectivement réalisé par le candidat ;
+-la fiche d'analyse du travail effectivement réalisé par le candidat ;
 
-- la fiche d'évaluation renseignée.
+-la fiche d'évaluation renseignée.
 
 Seule cette fiche d'évaluation sera transmise au jury, accompagnée de la proposition de note.
 
@@ -582,7 +582,7 @@ Après examen attentif des documents fournis, le jury formule toute remarque et 
 
 L'ensemble du dossier décrit ci-dessus, relatif à la situation d'évaluation, est tenu à la disposition du jury.
 
-Sous-épreuve E34 - Économie-gestion - unité U34 - coefficient 1
+Sous-épreuve E34-Économie-gestion-unité U34-coefficient 1
 
 Finalité de l'évaluation
 
@@ -604,7 +604,7 @@ Première situation d'évaluation : Résultats d'évaluations significatives (su
 
 Les évaluations significatives, élaborées à partir de situations professionnelles contextualisées correspondant à la spécialité préparée, sont réalisées au cours de la formation et portent sur les thèmes suivants :
 
-- pour l'axe 1 - le contexte professionnel :
+-pour l'axe 1-le contexte professionnel :
 
 Thème 1.2 La diversité des organisations, leur finalité et leur réalité
 
@@ -612,7 +612,7 @@ Thème 1.3 Les domaines d'activités des organisations
 
 Thème 1.4 L'environnement économique, juridique et institutionnel
 
-- pour l'axe 2 - l'insertion dans l'organisation :
+-pour l'axe 2-l'insertion dans l'organisation :
 
 Thème 2.2 L'embauche et la rémunération
 
@@ -620,7 +620,7 @@ Thème 2.3 La structure de l'organisation
 
 Thème 2.4 Les règles de vie au sein de l'entreprise
 
-- pour l'axe 3 - l'organisation de l'activité :
+-pour l'axe 3-l'organisation de l'activité :
 
 Thème 3.1 L'activité commerciale
 
@@ -628,13 +628,13 @@ Thème 3.2 L'organisation de la production et du travail
 
 Thème 3.3 La gestion des ressources humaines
 
-- pour l'axe 4 - la vie de l'organisation :
+-pour l'axe 4-la vie de l'organisation :
 
 Thème 4.1 L'organisation créatrice de richesses
 
 Thème 4.2 Les relations avec les partenaires extérieurs
 
-- pour l'axe 5 - les mutations et leurs incidences :
+-pour l'axe 5-les mutations et leurs incidences :
 
 Thème 5.1 Les mutations de l'environnement
 
@@ -648,25 +648,25 @@ Deuxième situation d'évaluation : Présentation du projet professionnel du can
 
 Le projet professionnel est matérialisé par un dossier-projet de 3 à 5 pages, hors annexes, élaboré à l'aide de l'outil informatique. Il porte sur les thèmes suivants :
 
-- Thème 1.1 Un secteur professionnel, une diversité de métiers
+-Thème 1.1 Un secteur professionnel, une diversité de métiers
 
-- Thème 2.1 La recherche d'emploi
+-Thème 2.1 La recherche d'emploi
 
-- Thème 4.3 La création et la reprise d'entreprise
+-Thème 4.3 La création et la reprise d'entreprise
 
 Ce projet professionnel est structuré de façon à mettre en évidence :
 
-- la présentation du candidat et de son cursus ;
+-la présentation du candidat et de son cursus ;
 
-- sa connaissance du secteur professionnel et de ses métiers à partir de l'expérience acquise en entreprise ;
+-sa connaissance du secteur professionnel et de ses métiers à partir de l'expérience acquise en entreprise ;
 
-- la présentation structurée et argumentée de son projet professionnel (objectifs à court et moyen terme, motivations, démarches).
+-la présentation structurée et argumentée de son projet professionnel (objectifs à court et moyen terme, motivations, démarches).
 
 L'évaluation se déroule en deux temps :
 
-- présentation orale, par le candidat, de son projet professionnel, pendant laquelle il n'est pas interrompu,
+-présentation orale, par le candidat, de son projet professionnel, pendant laquelle il n'est pas interrompu,
 
-- entretien avec la commission d'évaluation portant sur le projet et sur les connaissances et compétences relevant des trois thèmes cités précédemment.
+-entretien avec la commission d'évaluation portant sur le projet et sur les connaissances et compétences relevant des trois thèmes cités précédemment.
 
 À la date fixée par le formateur d'économie-gestion, le candidat se présente à l'entretien muni de son dossier-projet. Celui-ci sert uniquement de support à l'épreuve et n'est pas évalué en tant que tel.
 
@@ -676,11 +676,11 @@ Tout candidat se présentant sans dossier-projet ou avec un dossier-projet non c
 
 Un dossier-projet est considéré non conforme dans les cas suivants :
 
-- il n'est pas personnel ;
+-il n'est pas personnel ;
 
-- il n'est pas réalisé avec l'outil informatique ;
+-il n'est pas réalisé avec l'outil informatique ;
 
-- il comporte moins de 3 pages, hors annexes.
+-il comporte moins de 3 pages, hors annexes.
 
 La note globale proposée au jury est accompagnée des documents d'évaluation (pour chaque candidat : contrôles significatifs, grilles d'évaluation).
 
@@ -698,25 +698,25 @@ Première partie : Présentation du projet professionnel du candidat et entretie
 
 Le projet professionnel est matérialisé par un dossier-projet de 3 à 5 pages, hors annexes, élaboré à l'aide de l'outil informatique. Il porte sur les thèmes suivants :
 
-- Thème 1.1 Un secteur professionnel, une diversité de métiers.
+-Thème 1.1 Un secteur professionnel, une diversité de métiers.
 
-- Thème 2.1 La recherche d'emploi.
+-Thème 2.1 La recherche d'emploi.
 
-- Thème 4.3 La création et la reprise d'entreprise.
+-Thème 4.3 La création et la reprise d'entreprise.
 
 Ce projet professionnel est structuré de façon à mettre en évidence :
 
-- la présentation du candidat et de son cursus ;
+-la présentation du candidat et de son cursus ;
 
-- sa connaissance du secteur professionnel et de ses métiers à partir de l'expérience acquise en entreprise ;
+-sa connaissance du secteur professionnel et de ses métiers à partir de l'expérience acquise en entreprise ;
 
-- la présentation structurée et argumentée de son projet professionnel (objectifs à court et moyen terme, motivations, démarches).
+-la présentation structurée et argumentée de son projet professionnel (objectifs à court et moyen terme, motivations, démarches).
 
 L'évaluation se déroule en deux temps :
 
-- présentation orale, par le candidat, de son projet professionnel (5 minutes maximum), pendant laquelle il n'est pas interrompu,
+-présentation orale, par le candidat, de son projet professionnel (5 minutes maximum), pendant laquelle il n'est pas interrompu,
 
-- entretien avec la commission d'interrogation (10 minutes maximum) portant sur le projet et sur les connaissances et compétences relevant des trois thèmes cités précédemment.
+-entretien avec la commission d'interrogation (10 minutes maximum) portant sur le projet et sur les connaissances et compétences relevant des trois thèmes cités précédemment.
 
 À la date fixée par les services académiques des examens, le candidat se présente à l'entretien muni de son dossier-projet.
 
@@ -728,11 +728,11 @@ Tout candidat se présentant sans dossier-projet ou avec un dossier-projet non c
 
 Un dossier-projet est considéré non conforme dans les cas suivants :
 
-- il n'est pas personnel ;
+-il n'est pas personnel ;
 
-- il n'est pas réalisé avec l'outil informatique ;
+-il n'est pas réalisé avec l'outil informatique ;
 
-- il comporte moins de 3 pages, hors annexes.
+-il comporte moins de 3 pages, hors annexes.
 
 Deuxième partie : Évaluation des connaissances et compétences en économie-gestion (sur 12 points)
 
@@ -740,7 +740,7 @@ Dans la continuité de la prestation orale (présentation et entretien) du dossi
 
 Le questionnement prend appui sur des situations professionnelles contextualisées correspondant à la spécialité préparée. Il porte sur les thèmes suivants :
 
-- pour l'axe 1 - le contexte professionnel :
+-pour l'axe 1-le contexte professionnel :
 
 Thème 1.2 La diversité des organisations, leur finalité et leur réalité
 
@@ -748,7 +748,7 @@ Thème 1.3 Les domaines d'activités des organisations
 
 Thème 1.4 L'environnement économique, juridique et institutionnel
 
-- pour l'axe 2 - l'insertion dans l'organisation :
+-pour l'axe 2-l'insertion dans l'organisation :
 
 Thème 2.2 L'embauche et la rémunération
 
@@ -756,7 +756,7 @@ Thème 2.3 La structure de l'organisation
 
 Thème 2.4 Les règles de vie au sein de l'entreprise
 
-- pour l'axe 3 - l'organisation de l'activité :
+-pour l'axe 3-l'organisation de l'activité :
 
 Thème 3.1 L'activité commerciale
 
@@ -764,13 +764,13 @@ Thème 3.2 L'organisation de la production et du travail
 
 Thème 3.3 La gestion des ressources humaines
 
-- pour l'axe 4 - la vie de l'organisation :
+-pour l'axe 4-la vie de l'organisation :
 
 Thème 4.1 L'organisation créatrice de richesses
 
 Thème 4.2 Les relations avec les partenaires extérieurs
 
-- pour l'axe 5 - les mutations et leurs incidences :
+-pour l'axe 5-les mutations et leurs incidences :
 
 Thème 5.1 Les mutations de l'environnement
 
@@ -784,33 +784,33 @@ Pour conduire l'entretien, la commission d'interrogation orientera son questionn
 
 La note globale proposée au jury est accompagnée des grilles d'évaluation.
 
-Sous-épreuve E35 - Prévention-santé-environnement - unité U35 - coefficient 1
+Sous-épreuve E35-Prévention-santé-environnement-unité U35-coefficient 1
 
 Objectifs de l'épreuve
 
 L'épreuve a pour objectif d'évaluer les compétences du candidat à :
 
-- conduire une démarche d'analyse de situations en appliquant la démarche de résolution de problème ;
+-conduire une démarche d'analyse de situations en appliquant la démarche de résolution de problème ;
 
-- analyser une situation professionnelle en appliquant différentes démarches : analyse par le risque, par le travail, par l'accident ;
+-analyser une situation professionnelle en appliquant différentes démarches : analyse par le risque, par le travail, par l'accident ;
 
-- mobiliser des connaissances scientifiques, juridiques et économiques ;
+-mobiliser des connaissances scientifiques, juridiques et économiques ;
 
-- proposer et justifier les mesures de prévention adaptées ;
+-proposer et justifier les mesures de prévention adaptées ;
 
-- agir de façon efficace face à une situation d'urgence.
+-agir de façon efficace face à une situation d'urgence.
 
 Critères d'évaluation
 
 L'évaluation porte notamment sur :
 
-- la qualité du raisonnement et de l'analyse ;
+-la qualité du raisonnement et de l'analyse ;
 
-- l'exactitude des connaissances ;
+-l'exactitude des connaissances ;
 
-- la pertinence et le réalisme des solutions proposées ;
+-la pertinence et le réalisme des solutions proposées ;
 
-- l'efficacité de l'action face à une situation d'urgence.
+-l'efficacité de l'action face à une situation d'urgence.
 
 Modalités d'évaluation
 
@@ -818,7 +818,7 @@ Modalités d'évaluation
 
 Le contrôle en cours de formation est organisé à partir de deux situations d'évaluation.
 
-- La première situation d'évaluation, notée sur 12 points, a lieu au plus tard en fin de première professionnelle et comporte deux parties.
+-La première situation d'évaluation, notée sur 12 points, a lieu au plus tard en fin de première professionnelle et comporte deux parties.
 
 . une évaluation écrite d'une durée de 1 heure, notée sur 9 points.
 
@@ -830,7 +830,7 @@ Elle prend en compte les résultats obtenus lors de la formation de base au seco
 
 Pour les candidats en situation de handicap, une adaptation de cette évaluation pratique doit être proposée sous forme orale ou écrite.
 
-- La deuxième situation d'évaluation, notée sur 8 points, a lieu en terminale professionnelle.
+-La deuxième situation d'évaluation, notée sur 8 points, a lieu en terminale professionnelle.
 
 Elle permet d'évaluer les modules de 9 à 12 à travers une production personnelle écrite (10 pages environ).
 
@@ -838,19 +838,19 @@ Le dossier produit présente la place de la prévention dans l'entreprise et l'a
 
 Cette production met en évidence :
 
-- une description des activités de l'entreprise ;
+-une description des activités de l'entreprise ;
 
-- l'identification d'un risque et de ses effets physiopathologiques dans le cadre d'une situation professionnelle ;
+-l'identification d'un risque et de ses effets physiopathologiques dans le cadre d'une situation professionnelle ;
 
-- la mise œuvre d'une démarche d'analyse (approche par le travail ou par l'accident) ;
+-la mise œuvre d'une démarche d'analyse (approche par le travail ou par l'accident) ;
 
-- la politique de prévention dans l'entreprise.
+-la politique de prévention dans l'entreprise.
 
 Évaluation par épreuve ponctuelle (2 heures)
 
 Le sujet se compose de deux parties correspondant l'une aux modules 1 à 8, l'autre aux modules 9 à 12. Chaque partie comporte plusieurs questions indépendantes ou liées permettant d'évaluer les connaissances et les capacités relatives aux modules correspondants.
 
-- La première partie notée sur 12 points comporte :
+-La première partie notée sur 12 points comporte :
 
 . Un questionnement noté sur 9 points. Il prend appui sur des situations de la vie quotidienne ou professionnelle et permet d'évaluer :
 
@@ -860,31 +860,31 @@ le module 8 noté sur 3 points évalué à travers la mise en œuvre de la déma
 
 . Un questionnement noté sur 3 points permet d'expliquer la conduite à tenir face à une situation d'urgence.
 
-- La deuxième partie, notée sur 8 points, permet d'évaluer les modules 9 à 12. L'évaluation s'appuie sur un dossier ressource qui présente une situation d'entreprise. Les contenus du dossier permettent la mise en œuvre de la démarche d'analyse par le travail, la mobilisation des connaissances scientifiques et législatives, l'argumentation des solutions proposées.
+-La deuxième partie, notée sur 8 points, permet d'évaluer les modules 9 à 12. L'évaluation s'appuie sur un dossier ressource qui présente une situation d'entreprise. Les contenus du dossier permettent la mise en œuvre de la démarche d'analyse par le travail, la mobilisation des connaissances scientifiques et législatives, l'argumentation des solutions proposées.
 
 Le dossier fourni au candidat présente :
 
-- une situation professionnelle ;
+-une situation professionnelle ;
 
-- une description des activités de l'entreprise ;
+-une description des activités de l'entreprise ;
 
-- des documents législatifs et réglementaires nécessaires.
+-des documents législatifs et réglementaires nécessaires.
 
-E4 - Épreuve de langue vivante - unité U4 - coefficient 2
+E4-Épreuve de langue vivante-unité U4-coefficient 2
 
 Évaluation en contrôle en cours de formation
 
 Cette évaluation donne lieu à une situation d'évaluation unique.
 
-- Compétences évaluées : expression orale en continu, interaction orale et compréhension de l'écrit.
+-Compétences évaluées : expression orale en continu, interaction orale et compréhension de l'écrit.
 
-- Niveau attendu en référence à l'échelle de niveaux du CECRL : B1+.
+-Niveau attendu en référence à l'échelle de niveaux du CECRL : B1 +.
 
-- Durée : 15 minutes, sans préparation ; partie 1 et partie 2 : 5 minutes maximum chacune, notées pour un total de 20 points ; partie 3 : 5 minutes maximum, notée sur 10.
+-Durée : 15 minutes, sans préparation ; partie 1 et partie 2 : 5 minutes maximum chacune, notées pour un total de 20 points ; partie 3 : 5 minutes maximum, notée sur 10.
 
 L'évaluation a lieu au cours du sixième semestre de la formation conduisant à la délivrance du diplôme du baccalauréat professionnel. Le calendrier de cette évaluation est établi par le chef d'établissement (ou du centre de formation dans le cas d'un CFA habilité à pratiquer le CCF) après consultation des enseignants concernés. Ces derniers peuvent proposer, au sein de la période considérée, un ordre de passage des candidats qui tient compte de leur degré de maîtrise des compétences à évaluer. Les candidats reçoivent une convocation du chef d'établissement ou du directeur de centre de formation.
 
-L'évaluation est conduite par les professeurs et/ou les formateurs enseignant les langues concernées dans l'établissement quelles que soient les classes ou groupes d'élèves qui leur sont confiés. Elle peut être organisée de manière à ce que les professeurs n'évaluent pas leurs élèves de l'année en cours.
+L'évaluation est conduite par les professeurs et/ ou les formateurs enseignant les langues concernées dans l'établissement quelles que soient les classes ou groupes d'élèves qui leur sont confiés. Elle peut être organisée de manière à ce que les professeurs n'évaluent pas leurs élèves de l'année en cours.
 
 La situation d'évaluation se compose de trois parties, chacune d'une durée maximale de cinq minutes. Aucune de ces trois parties n'est précédée d'un temps de préparation.
 
@@ -894,11 +894,11 @@ La première partie vise à évaluer la capacité du candidat à prendre la paro
 
 Ces trois thèmes ou sujets peuvent relever d'un ou plusieurs des domaines suivants :
 
-- celui des projets ou réalisations mis en œuvre par le candidat au cours de sa formation au baccalauréat professionnel ;
+-celui des projets ou réalisations mis en œuvre par le candidat au cours de sa formation au baccalauréat professionnel ;
 
-- celui de ses expériences professionnelles ou personnelles liées à son étude ou sa pratique de la langue étrangère concernée ;
+-celui de ses expériences professionnelles ou personnelles liées à son étude ou sa pratique de la langue étrangère concernée ;
 
-- celui de la culture quotidienne, contemporaine ou patrimoniale du ou des pays où la langue étrangère étudiée est parlée, le candidat pouvant s'exprimer sur une œuvre étrangère (œuvre littéraire, picturale, musicale, architecturale, cinématographique, etc.), sur un objet ou produit du design industriel, de la tradition culinaire, de l'artisanat, etc., sur une manifestation ou un événement (artistique, sportif, politique, historique, etc.).
+-celui de la culture quotidienne, contemporaine ou patrimoniale du ou des pays où la langue étrangère étudiée est parlée, le candidat pouvant s'exprimer sur une œuvre étrangère (œuvre littéraire, picturale, musicale, architecturale, cinématographique, etc.), sur un objet ou produit du design industriel, de la tradition culinaire, de l'artisanat, etc., sur une manifestation ou un événement (artistique, sportif, politique, historique, etc.).
 
 Le professeur choisit un des thèmes ou sujets proposés et invite le candidat à s'exprimer. Ce dernier dispose de cinq minutes maximum pour présenter, à l'oral et en langue étrangère, le thème ou le sujet en question. Au cours de cette phase d'expression en continu, le professeur doit laisser le candidat aller au bout de ce qu'il souhaite dire et veiller à ne pas l'interrompre, quelles que soient ses éventuelles hésitations.
 
@@ -924,11 +924,11 @@ Partie 1
 
 Cette épreuve est une épreuve orale.
 
-- Compétences évaluées : expression orale en continu, interaction orale et compréhension de l'écrit.
+-Compétences évaluées : expression orale en continu, interaction orale et compréhension de l'écrit.
 
-- Niveau attendu en référence à l'échelle de niveaux du CECRL : B1+.
+-Niveau attendu en référence à l'échelle de niveaux du CECRL : B1 +.
 
-- Durée : 15 minutes, précédées d'un temps de préparation de 5 minutes pour la première partie de l'épreuve ; partie 1 et partie 2 : 5 minutes maximum chacune, notées pour un total de 20 points ; partie 3 : 5 minutes maximum, notée sur 10.
+-Durée : 15 minutes, précédées d'un temps de préparation de 5 minutes pour la première partie de l'épreuve ; partie 1 et partie 2 : 5 minutes maximum chacune, notées pour un total de 20 points ; partie 3 : 5 minutes maximum, notée sur 10.
 
 Cette épreuve est organisée par le recteur d'académie dans un centre d'examen. Le candidat reçoit une convocation.
 
@@ -952,9 +952,9 @@ Pour chaque candidat, le professeur établit son évaluation à partir de la fic
 
 La proposition de note attribuée à l'unité langue vivante du diplôme du baccalauréat professionnel est constituée de la moyenne des notes obtenues à chacune des composantes de l'épreuve. Elle est, le cas échéant, arrondie au demi-point le plus proche. La note finale est arrêtée par le jury.
 
-E5 - Épreuve de français et histoire-géographie et éducation civique - unité U5 - coefficient : 5
+E5-Épreuve de français et histoire-géographie et enseignement moral et civique-unité U5-coefficient : 5
 
-Sous-épreuve E51 - Français - unité U51 - coefficient 2,5
+Sous-épreuve E51-Français-unité U51-coefficient 2,5
 
 Évaluation sous forme ponctuelle
 
@@ -968,7 +968,7 @@ Première partie : compétences de lecture (10 points)
 
 Le candidat rédige quelques lignes (de 3 à 6 environ) pour présenter les relations que les documents proposés dans le corpus entretiennent entre eux.
 
-2) Question(s) portant sur un ou des documents du corpus : Analyse et interprétation
+2) Question (s) portant sur un ou des documents du corpus : Analyse et interprétation
 
 Le candidat analyse un ou deux effets d'écriture (inscrits dans le libellé de la ou des deux questions) et en propose une interprétation.
 
@@ -990,7 +990,7 @@ Support : un corpus de textes et documents (2 à 3) référé à un des trois ob
 
 Le candidat rédige quelques lignes (de 3 à 6 environ) pour présenter les relations que les documents proposés dans le corpus entretiennent entre eux.
 
-2) Question(s) portant sur un ou des documents du corpus : Analyse et interprétation (notée sur 14)
+2) Question (s) portant sur un ou des documents du corpus : Analyse et interprétation (notée sur 14)
 
 Le candidat analyse un ou deux effets d'écriture (inscrits dans le libellé de la ou des deux questions) et en propose une interprétation.
 
@@ -1004,31 +1004,31 @@ Lors de la situation d'évaluation, un sujet est proposé aux candidats ; ce suj
 
 Le candidat répond à cette question en une quarantaine de lignes et de façon argumentée.
 
-Sous-épreuve E52 - Histoire-géographie et éducation civique - unité U52 - coefficient 2,5
+Sous-épreuve E52-Histoire-géographie et enseignement moral et civique-unité U52-coefficient 2,5
 
 Évaluation sous forme ponctuelle
 
 Durée 2 h
 
-L'examen de baccalauréat professionnel évalue la maîtrise des savoirs et des capacités en histoire-géographie et éducation civique définis dans les programmes de la classe de terminale professionnelle.
+L'examen de baccalauréat professionnel évalue la maîtrise des savoirs et des capacités en histoire-géographie et enseignement moral et civique définis dans les programmes de la classe de terminale professionnelle.
 
-L'épreuve, d'une durée de deux heures, comporte trois parties, notées respectivement 9, 4 et 7 points.
+L'épreuve, d'une durée de deux heures, comporte trois parties, notées respectivement 9,4 et 7 points.
 
 La première partie porte sur les sujets d'étude, soit d'histoire soit de géographie. Elle propose deux sujets au choix. Chaque sujet est composé d'une ou plusieurs questions et peut comporter un support documentaire.
 
-La deuxième partie porte sur le programme d'éducation civique. Elle est composée d'une question et peut comporter un support documentaire.
+La deuxième partie porte sur le programme d' enseignement moral et civique. Elle est composée d'une question et peut comporter un support documentaire.
 
-La troisième partie porte sur la discipline qui n'est pas l'objet de la première partie. Elle consiste en une analyse de document(s) portant sur les situations d'un des sujets d'étude.
+La troisième partie porte sur la discipline qui n'est pas l'objet de la première partie. Elle consiste en une analyse de document (s) portant sur les situations d'un des sujets d'étude.
 
 Évaluation par contrôle en cours de formation
 
-Le contrôle en cours de formation évalue la maîtrise des savoirs et des capacités en histoire, géographie et éducation civique définis dans les programmes de la classe de terminale professionnelle. Il est constitué de deux situations d'évaluation.
+Le contrôle en cours de formation évalue la maîtrise des savoirs et des capacités en histoire, géographie et enseignement moral et civique définis dans les programmes de la classe de terminale professionnelle. Il est constitué de deux situations d'évaluation.
 
-La première situation porte sur les sujets d'étude soit d'histoire soit de géographie. Elle est composée d'une ou plusieurs questions et peut comporter un support documentaire. Une des questions doit avoir une connotation civique en rapport avec le programme d'éducation civique.
+La première situation porte sur les sujets d'étude soit d'histoire soit de géographie. Elle est composée d'une ou plusieurs questions et peut comporter un support documentaire. Une des questions doit avoir une connotation civique en rapport avec le programme d' enseignement moral et civique.
 
-La deuxième situation porte sur la discipline qui n'a pas été l'objet de la première épreuve. Elle consiste en une analyse de document(s). Elle porte sur les situations d'un des sujets d'étude.
+La deuxième situation porte sur la discipline qui n'a pas été l'objet de la première épreuve. Elle consiste en une analyse de document (s). Elle porte sur les situations d'un des sujets d'étude.
 
-E6 - Épreuve d'arts appliqués et cultures artistiques - unité U6 - coefficient 1
+E6-Épreuve d'arts appliqués et cultures artistiques-unité U6-coefficient 1
 
 Contrôle en cours de formation
 
@@ -1036,7 +1036,7 @@ Le contrôle en cours de formation comporte deux situations d'évaluation organi
 
 Sur un sujet personnel, défini en accord avec le professeur d'arts appliqués, le candidat constitue un dossier. Ce dossier est réalisé en classe, sur une durée limitée.
 
-Le sujet porte sur le contenu d'un des champs du programme : Appréhender son espace de vie , Construire son identité culturelle , Élargir sa culture artistique . Une partie histoire des arts est clairement identifiée.
+Le sujet porte sur le contenu d'un des champs du programme : Appréhender son espace de vie, Construire son identité culturelle, Élargir sa culture artistique. Une partie histoire des arts est clairement identifiée.
 
 Première situation
 
@@ -1048,13 +1048,13 @@ Critères d'évaluation
 
 Le candidat montre qu'il est capable de repérer de façon autonome les caractéristiques essentielles d'œuvres, de produits, d'espaces urbains ou de messages visuels. À cette fin, il doit :
 
-- collecter et sélectionner une documentation (visuelle, textuelle, sonore) ;
+-collecter et sélectionner une documentation (visuelle, textuelle, sonore) ;
 
-- porter un regard critique sur les références recueillies ;
+-porter un regard critique sur les références recueillies ;
 
-- les commenter graphiquement et par écrit ;
+-les commenter graphiquement et par écrit ;
 
-- les présenter de façon lisible et expressive.
+-les présenter de façon lisible et expressive.
 
 Cette partie compte pour 30 % de la note globale.
 
@@ -1068,13 +1068,13 @@ Critères d'évaluation
 
 Le candidat montre qu'il est sensibilisé à son environnement culturel en appuyant sa réflexion sur des connaissances précises, notamment en histoire des arts, et qu'il a acquis les principes élémentaires de la démarche créative. À cette fin, il doit :
 
-- situer une œuvre ou une production dans son contexte de création ;
+-situer une œuvre ou une production dans son contexte de création ;
 
-- explorer des axes de recherche en réponse à une question simple et s'engager dans un projet ;
+-explorer des axes de recherche en réponse à une question simple et s'engager dans un projet ;
 
-- maîtriser les bases de la pratique des outils graphiques, traditionnels et informatiques ;
+-maîtriser les bases de la pratique des outils graphiques, traditionnels et informatiques ;
 
-- s'exprimer dans un langage correct et précis en utilisant le vocabulaire technique approprié.
+-s'exprimer dans un langage correct et précis en utilisant le vocabulaire technique approprié.
 
 Cette partie compte pour 70 % de la note globale.
 
@@ -1084,31 +1084,31 @@ Durée : 1 heure 30
 
 Le sujet pose une question simple à partir d'un ensemble documentaire limité (3 formats A4 maximum).
 
-Les documents relèvent des champs 1 : Appréhender son espace de vie , 2 : Construire son identité culturelle et 3 : Élargir sa culture artistique ; ils intègrent la dimension histoire des arts.
+Les documents relèvent des champs 1 : Appréhender son espace de vie, 2 : Construire son identité culturelle et 3 : Élargir sa culture artistique ; ils intègrent la dimension histoire des arts.
 
 Critères d'évaluation :
 
 Le candidat choisit l'un des champs et doit montrer qu'il est capable :
 
-- de situer une œuvre ou une production dans son contexte de création ;
+-de situer une œuvre ou une production dans son contexte de création ;
 
-- de porter un regard critique sur les références proposées ;
+-de porter un regard critique sur les références proposées ;
 
-- de les commenter graphiquement et par écrit ;
+-de les commenter graphiquement et par écrit ;
 
-- de proposer, sous forme graphique et écrite, une réponse argumentée à la question posée.
+-de proposer, sous forme graphique et écrite, une réponse argumentée à la question posée.
 
-E7 - Épreuve d'éducation physique et sportive - unité U7 - coefficient 1
+E7-Épreuve d'éducation physique et sportive-unité U7-coefficient 1
 
 Évaluation ponctuelle et par contrôle en cours de formation
 
-Les modalités de l'épreuve d'éducation physique et sportive sont définies par l' arrêté du 15 juillet 2009 relatif aux modalités d'organisation du contrôle en cours de formation et de l'examen terminal pour l'éducation physique et sportive aux examens du baccalauréat professionnel, du certificat d'aptitude professionnelle et du brevet d'études professionnelles (Journal officiel du 31 juillet 2009, BOEN du 27 août 2009) et la note de service no 2009-141 du 8 octobre 2009 relative à l'éducation physique et sportive aux examens du baccalauréat professionnel, du certificat d'aptitude professionnelle et du brevet d'études professionnelles (BOEN du 12 novembre 2009).
+Les modalités de l'épreuve d'éducation physique et sportive sont définies par l'arrêté du 15 juillet 2009 relatif aux modalités d'organisation du contrôle en cours de formation et de l'examen terminal pour l'éducation physique et sportive aux examens du baccalauréat professionnel, du certificat d'aptitude professionnelle et du brevet d'études professionnelles (Journal officiel du 31 juillet 2009, BOEN du 27 août 2009) et la note de service no 2009-141 du 8 octobre 2009 relative à l'éducation physique et sportive aux examens du baccalauréat professionnel, du certificat d'aptitude professionnelle et du brevet d'études professionnelles (BOEN du 12 novembre 2009).
 
 Épreuve facultative de langue vivante UF1
 
 Épreuve orale d'une durée de 15 minutes, précédée d'un temps de préparation de 5 minutes pour la première partie de l'épreuve. Partie 1 et partie 2 : 5 minutes maximum chacune, notées pour un total de 20 points. Partie 3 : 5 minutes maximum, notée sur 10.
 
-Niveau attendu en référence à l'échelle de niveaux du CECRL : B1+
+Niveau attendu en référence à l'échelle de niveaux du CECRL : B1 +
 
 Cette épreuve est organisée par le recteur d'académie dans un centre d'examen. Le candidat reçoit une convocation.
 
@@ -1158,9 +1158,9 @@ Déroulement de l'épreuve
 
 Pendant le temps de préparation de 30 minutes, l'examinateur propose au candidat deux documents :
 
-- un document iconographique contemporain,
+-un document iconographique contemporain,
 
-- un texte contemporain, écrit en français d'une longueur maximale de 2 000 signes typographiques.
+-un texte contemporain, écrit en français d'une longueur maximale de 2 000 signes typographiques.
 
 Au cours de la même journée d'interrogation, chaque examinateur veillera à proposer deux documents différents à chaque candidat.
 
@@ -1176,17 +1176,17 @@ Le candidat doit :
 
 a) pour la présentation du document (durée : 5 minutes, notée sur 10 points)
 
-- être capable de rendre compte du contenu du document qui lui est proposé, pouvoir le décrire, expliciter la situation ou le thème présenté, apporter un commentaire personnel s'il le juge approprié ou pertinent ;
+-être capable de rendre compte du contenu du document qui lui est proposé, pouvoir le décrire, expliciter la situation ou le thème présenté, apporter un commentaire personnel s'il le juge approprié ou pertinent ;
 
-- faire la preuve de sa capacité à signer clairement, à un rythme naturel et à un niveau qui n'entrave pas la transmission de sa présentation.
+-faire la preuve de sa capacité à signer clairement, à un rythme naturel et à un niveau qui n'entrave pas la transmission de sa présentation.
 
 b) pour l'entretien (durée : 25 minutes, noté sur 10 points)
 
-- comprendre des signes familiers et fréquents portant sur des domaines familiers ou des questions d'actualité que l'examinateur utilise de façon naturelle ;
+-comprendre des signes familiers et fréquents portant sur des domaines familiers ou des questions d'actualité que l'examinateur utilise de façon naturelle ;
 
-- être capable de faire face à une situation de communication où il lui est demandé de bien recevoir un message ou une question, afin de pouvoir réagir ou répondre en s'exprimant à son tour par des signes clairs et à un rythme convenable ;
+-être capable de faire face à une situation de communication où il lui est demandé de bien recevoir un message ou une question, afin de pouvoir réagir ou répondre en s'exprimant à son tour par des signes clairs et à un rythme convenable ;
 
-- faire la preuve d'une certaine aisance : signer en continu pour exprimer ou défendre un point de vue, argumenter, voire apporter une contradiction.
+-faire la preuve d'une certaine aisance : signer en continu pour exprimer ou défendre un point de vue, argumenter, voire apporter une contradiction.
 
 Le candidat, tout comme l'examinateur, peut étendre la discussion sur d'autres points sans lien direct avec le document.
 

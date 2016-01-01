@@ -12,7 +12,7 @@ Unités professionnelles
 
 La définition du contenu des unités professionnelles du diplôme a pour but de préciser, pour chacune d'elles, quelles tâches et compétences professionnelles sont concernées et dans quel contexte. Il s'agit à la fois de :
 
-• permettre la mise en correspondance des activités professionnelles et des unités dans le cadre du dispositif de "validation des acquis de l'expérience" (VAE).
+• permettre la mise en correspondance des activités professionnelles et des unités dans le cadre du dispositif de " validation des acquis de l'expérience " (VAE).
 
 • établir la liaison entre les unités, correspondant aux épreuves, et le référentiel d'activités professionnelles afin de préciser le cadre de l'évaluation.
 
@@ -82,7 +82,7 @@ X
 
 |
 
-C1-1.3 Mettre en place le(s) poste(s) de travail pour la production
+C1-1.3 Mettre en place le (s) poste (s) de travail pour la production
 
 |
 
@@ -590,7 +590,7 @@ C3-2 Optimiser les formances de l'équipe
 
 |
 
-C3-2.1 Évaluer son travail et/ou celui de son équipe
+C3-2.1 Évaluer son travail et/ ou celui de son équipe
 
 |
 
@@ -616,7 +616,7 @@ X
 
 |
 
-C3-2.3 Proposer et/ou mettre en œuvre les actions d'optimisation et/ou correctives
+C3-2.3 Proposer et/ ou mettre en œuvre les actions d'optimisation et/ ou correctives
 
 |
 
@@ -936,7 +936,7 @@ X
 
 |
 
-C4-4.5 Mesurer la réaction face à l'offre "prix"
+C4-4.5 Mesurer la réaction face à l'offre " prix "
 
 |
 
@@ -1106,27 +1106,27 @@ UNITÉS CONSTITUTIVES D'ENSEIGNEMENT GÉNÉRAL
 
 Unité (U13, épreuve E1) : Mathématiques
 
-L'unité de mathématiques englobe l'ensemble des objectifs, capacités, compétences et savoir-faire mentionnés dans l'arrêté du 10 février 2009 fixant les programmes d'enseignement de mathématiques et de sciences physiques et chimiques pour les classes préparatoires au baccalauréat professionnel (B.O.E.N. spécial no 2 du 19 février 2009).
+L'unité de mathématiques englobe l'ensemble des objectifs, capacités, compétences et savoir-faire mentionnés dans l'arrêté du 10 février 2009 fixant les programmes d'enseignement de mathématiques et de sciences physiques et chimiques pour les classes préparatoires au baccalauréat professionnel (B. O. E. N. spécial no 2 du 19 février 2009).
 
-Unité (U32, épreuve E3) : Prévention - Santé - Environnement
+Unité (U32, épreuve E3) : Prévention-Santé-Environnement
 
-L'unité englobe l'ensemble des connaissances et capacités mentionnées dans l'arrêté du 10 février 2009 fixant le programme d'enseignement de Prévention-santé-environnement pour les classes préparatoires au baccalauréat professionnel (B.O.E.N. spécial no 2 du 19 février 2009).
+L'unité englobe l'ensemble des connaissances et capacités mentionnées dans l'arrêté du 10 février 2009 fixant le programme d'enseignement de Prévention-santé-environnement pour les classes préparatoires au baccalauréat professionnel (B. O. E. N. spécial no 2 du 19 février 2009).
 
 Unité (U4, épreuve E4) : Anglais
 
-L'unité englobe l'ensemble des objectifs, capacités et compétences énumérés dans l'arrêté du 10 février 2009 fixant le programme de langues vivantes étrangères pour les classes préparatoires au certificat d'aptitude professionnelle et pour les classes préparatoires au baccalauréat professionnel (B.O.E.N. spécial no 2 du 19 février 2009).
+L'unité englobe l'ensemble des objectifs, capacités et compétences énumérés dans l'arrêté du 10 février 2009 fixant le programme de langues vivantes étrangères pour les classes préparatoires au certificat d'aptitude professionnelle et pour les classes préparatoires au baccalauréat professionnel (B. O. E. N. spécial no 2 du 19 février 2009).
 
 Unité (U51, épreuve E5) : Français
 
-L'unité est définie par les compétences établies par l'arrêté du 10 février 2009 fixant le programme de français pour les classes préparant au baccalauréat professionnel (B.O.E.N. spécial no 2 du 19 février 2009).
+L'unité est définie par les compétences établies par l'arrêté du 10 février 2009 fixant le programme de français pour les classes préparant au baccalauréat professionnel (B. O. E. N. spécial no 2 du 19 février 2009).
 
-Unité (U52, épreuve E5) : Histoire, géographie et éducation civique
+Unité (U52, épreuve E5) : Histoire, géographie et enseignement moral et civique
 
-L'unité est définie par les compétences établies par l'arrêté du 10 février 2009 fixant le programme d'enseignement de l'histoire et de la géographie pour les classes préparatoires au baccalauréat professionnel (B.O.E.N. spécial no 2 du 19 février 2009).
+L'unité est définie par les compétences établies par l'arrêté du 10 février 2009 fixant le programme d'enseignement de l'histoire et de la géographie pour les classes préparatoires au baccalauréat professionnel (B. O. E. N. spécial no 2 du 19 février 2009).
 
 Unité (U6, épreuve E6) : Arts appliqués et cultures artistiques
 
-L'unité englobe l'ensemble des capacités et compétences énumérées par l'arrêté du 10 février 2009 fixant le programme d'enseignement d'arts appliqués et cultures artistiques pour les classes préparatoires au baccalauréat professionnel (B.O.E.N. spécial no 2 du 19 février 2009).
+L'unité englobe l'ensemble des capacités et compétences énumérées par l'arrêté du 10 février 2009 fixant le programme d'enseignement d'arts appliqués et cultures artistiques pour les classes préparatoires au baccalauréat professionnel (B. O. E. N. spécial no 2 du 19 février 2009).
 
 Unité (U7, épreuve E7) : Éducation physique et sportive
 

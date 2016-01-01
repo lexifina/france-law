@@ -46,24 +46,24 @@ Lors de la situation d'évaluation, un sujet est proposé aux candidats ; ce suj
 
 Le candidat répond à cette question en une quarantaine de lignes et de façon argumentée.
 
-II - Histoire-géographie-éducation civique
+II - Histoire-géographie-enseignement moral et civique
 
 Évaluation sous forme ponctuelle - durée 2h
 
-L'examen de baccalauréat professionnel évalue la maîtrise des savoirs et des capacités en histoire- géographie et éducation civique définis dans les programmes de la classe de terminale professionnelle.
+L'examen de baccalauréat professionnel évalue la maîtrise des savoirs et des capacités en histoire- géographie et enseignement moral et civique définis dans les programmes de la classe de terminale professionnelle.
 
 L'épreuve, d'une durée de deux heures, comporte trois parties, notées respectivement 9, 4 et 7 points.
 
 La première partie porte sur les sujets d'étude, soit d'histoire soit de géographie. Elle propose deux sujets au choix. Chaque sujet est composé d'une ou plusieurs questions et peut comporter un support documentaire.
 
-La deuxième partie porte sur le programme d'éducation civique. Elle est composée d'une question et peut comporter un support documentaire.
+La deuxième partie porte sur le programme d'enseignement moral et civique. Elle est composée d'une question et peut comporter un support documentaire.
 
 La troisième partie porte sur la discipline qui n'est pas l'objet de la première partie. Elle consiste en une analyse de document(s) portant sur les situations d'un des sujets d'étude.
 
 Évaluation par contrôle en cours de formation
 
-Le contrôle en cours de formation évalue la maîtrise des savoirs et des capacités en histoire, géographie et éducation civique définis dans les programmes de la classe de terminale professionnelle. Il est constitué de deux situations d'évaluation.
+Le contrôle en cours de formation évalue la maîtrise des savoirs et des capacités en histoire, géographie et enseignement moral et civique définis dans les programmes de la classe de terminale professionnelle. Il est constitué de deux situations d'évaluation.
 
-La première situation porte sur les sujets d'étude soit d'histoire soit de géographie. Elle est composée d'une ou plusieurs questions et peut comporter un support documentaire. Une des questions doit avoir une connotation civique en rapport avec le programme d'éducation civique.
+La première situation porte sur les sujets d'étude soit d'histoire soit de géographie. Elle est composée d'une ou plusieurs questions et peut comporter un support documentaire. Une des questions doit avoir une connotation civique en rapport avec le programme d'enseignement moral et civique.
 
 La deuxième situation porte sur la discipline qui n'a pas été l'objet de la première épreuve. Elle consiste en une analyse de document(s). Elle porte sur les situations d'un des sujets d'étude.

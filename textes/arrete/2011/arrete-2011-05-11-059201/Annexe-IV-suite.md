@@ -1,12 +1,12 @@
 # Article Annexe IV (suite)
 
-Épreuve E1 - Épreuve scientifique et technique - U11, U12, U13 - coefficient 7
+Épreuve E1-Épreuve scientifique et technique-U11, U12, U13-coefficient 7
 
 Objectifs de l'épreuve
 
 L'épreuve est destinée à vérifier que les candidats ont atteint les grands objectifs visés par le programme de mathématiques et de sciences physiques et chimiques ainsi que les compétences nécessaires à la conduite d'un projet d'accompagnement.
 
-Sous-épreuve E11 - Mathématiques - U11 - coefficient 1,5
+Sous-épreuve E11-Mathématiques-U11-coefficient 1,5
 
 Modes d'évaluation
 
@@ -22,17 +22,17 @@ L'évaluation est conçue comme sondage probant sur des compétences du programm
 
 Il s'agit d'évaluer les aptitudes à mobiliser les connaissances et compétences pour résoudre des problèmes, en particulier :
 
-- rechercher, extraire et organiser l'information ;
+-rechercher, extraire et organiser l'information ;
 
-- choisir et exécuter une méthode de résolution ;
+-choisir et exécuter une méthode de résolution ;
 
-- raisonner, argumenter, critiquer et valider un résultat ;
+-raisonner, argumenter, critiquer et valider un résultat ;
 
-- présenter, communiquer un résultat.
+-présenter, communiquer un résultat.
 
 Chaque séquence comporte un ou deux exercices avec des questions de difficulté progressive. Les sujets portent principalement sur les domaines mathématiques les plus utiles pour résoudre un problème en liaison avec la physique, la chimie, un secteur professionnel ou la vie courante. Lorsque la situation s'appuie sur d'autres disciplines, aucune connaissance relative à ces disciplines n'est exigible des candidats et toutes les indications utiles doivent être fournies dans l'énoncé.
 
-L'un des exercices de chaque séquence comporte une ou deux questions dont la résolution nécessite l'utilisation de logiciels ou de calculatrices par les candidats. La présentation de la résolution de la (des) question(s) utilisant les Tic se fait en présence de l'examinateur. Ce type de questions permet d'évaluer les capacités à expérimenter, à simuler, à émettre des conjectures ou contrôler leur vraisemblance. Le candidat porte ensuite par écrit, sur une fiche à compléter, les résultats obtenus, des observations ou des commentaires.
+L'un des exercices de chaque séquence comporte une ou deux questions dont la résolution nécessite l'utilisation de logiciels ou de calculatrices par les candidats. La présentation de la résolution de la (des) question (s) utilisant les Tic se fait en présence de l'examinateur. Ce type de questions permet d'évaluer les capacités à expérimenter, à simuler, à émettre des conjectures ou contrôler leur vraisemblance. Le candidat porte ensuite par écrit, sur une fiche à compléter, les résultats obtenus, des observations ou des commentaires.
 
 Une proposition de note est établie. La note définitive est délivrée par le jury.
 
@@ -44,13 +44,13 @@ L'évaluation est conçue comme sondage probant sur des compétences du programm
 
 Il s'agit d'évaluer les aptitudes à mobiliser les connaissances et compétences pour résoudre des problèmes, en particulier :
 
-- rechercher, extraire et organiser l'information ;
+-rechercher, extraire et organiser l'information ;
 
-- choisir et exécuter une méthode de résolution ;
+-choisir et exécuter une méthode de résolution ;
 
-- raisonner, argumenter, critiquer et valider un résultat ;
+-raisonner, argumenter, critiquer et valider un résultat ;
 
-- présenter, communiquer un résultat.
+-présenter, communiquer un résultat.
 
 Le sujet se compose de deux ou trois exercices avec des questions de difficulté progressive recouvrant une part aussi large que possible des capacités mentionnées dans le programme de terminale professionnelle. L'un des exercices comporte des questions dont la résolution nécessite l'utilisation des Tic (logiciels ou calculatrices).
 
@@ -58,7 +58,7 @@ Les thèmes mathématiques concernés portent principalement sur les domaines ma
 
 L'exercice qui comporte des questions dont la résolution nécessite l'utilisation des Tic est noté sur 10 points. Il permet d'apprécier l'aptitude du candidat à mobiliser les capacités et connaissances du programme pour traiter un problème dont la résolution nécessite l'utilisation de logiciels ou de calculatrices. Il permet d'évaluer les capacités à expérimenter, à simuler, à émettre des conjectures ou contrôler leur vraisemblance. La présentation de la résolution des questions nécessitant l'utilisation des Tic se fait en présence de l'examinateur.
 
-Sous-épreuve E12 - Sciences physiques et chimiques - U12 - coefficient 1,5
+Sous-épreuve E12-Sciences physiques et chimiques-U12-coefficient 1,5
 
 Modes d'évaluation
 
@@ -74,17 +74,17 @@ L'évaluation est conçue comme sondage probant sur des compétences du programm
 
 L'évaluation porte nécessairement sur les capacités expérimentales du candidat observées durant les manipulations qu'il réalise, sur les mesures obtenues et leur interprétation. Lors de cette évaluation, il est demandé au candidat :
 
-- de mettre en œuvre un protocole expérimental ;
+-de mettre en œuvre un protocole expérimental ;
 
-- d'utiliser correctement le matériel mis à sa disposition ;
+-d'utiliser correctement le matériel mis à sa disposition ;
 
-- de mettre en œuvre les procédures et consignes de sécurité adaptées ;
+-de mettre en œuvre les procédures et consignes de sécurité adaptées ;
 
-- de montrer qu'il connaît le vocabulaire, les symboles, les grandeurs et les unités mises en œuvre ;
+-de montrer qu'il connaît le vocabulaire, les symboles, les grandeurs et les unités mises en œuvre ;
 
-- d'utiliser une ou plusieurs relations. Ces relations sont données lorsqu'elles ne sont pas répertoriées dans la colonne connaissances du programme ;
+-d'utiliser une ou plusieurs relations. Ces relations sont données lorsqu'elles ne sont pas répertoriées dans la colonne connaissances du programme ;
 
-- d'interpréter et de rendre compte par écrit des résultats des travaux réalisés.
+-d'interpréter et de rendre compte par écrit des résultats des travaux réalisés.
 
 Le candidat porte, sur une fiche qu'il complète en cours de manipulation, les résultats de ses observations, de ses mesures et leur interprétation. L'examinateur élabore une grille de compétences qui lui permet d'évaluer les connaissances et capacités du candidat lors de ses manipulations. Lorsque la situation s'appuie sur d'autres disciplines, aucune connaissance relative à ces disciplines n'est exigible des candidats et toutes les indications utiles doivent être fournies dans l'énoncé.
 
@@ -94,27 +94,27 @@ Cette sous-épreuve, d'une durée d'une heure, est notée sur 20 points. Elle re
 
 Le sujet, conçu en référence explicite aux compétences du programme, consacre 15 points sur 20 à l'évaluation des capacités expérimentales du candidat, observées durant les manipulations qu'il réalise, sur les mesures obtenues, leur interprétation et leur exploitation. Lors de cette évaluation, il est demandé au candidat :
 
-- de mettre en œuvre un protocole expérimental ;
+-de mettre en œuvre un protocole expérimental ;
 
-- d'utiliser correctement le matériel mis à sa disposition ;
+-d'utiliser correctement le matériel mis à sa disposition ;
 
-- de mettre en œuvre les procédures et consignes de sécurité adaptées ;
+-de mettre en œuvre les procédures et consignes de sécurité adaptées ;
 
-- de montrer qu'il connaît le vocabulaire, les symboles, les grandeurs et les unités mises en œuvre ;
+-de montrer qu'il connaît le vocabulaire, les symboles, les grandeurs et les unités mises en œuvre ;
 
-- d'utiliser une ou plusieurs relations. Ces relations sont données lorsqu'elles ne sont pas répertoriées dans la colonne connaissances du programme ;
+-d'utiliser une ou plusieurs relations. Ces relations sont données lorsqu'elles ne sont pas répertoriées dans la colonne connaissances du programme ;
 
-- d'interpréter et de rendre compte par écrit des résultats des travaux réalisés.
+-d'interpréter et de rendre compte par écrit des résultats des travaux réalisés.
 
 Le candidat porte, sur une fiche qu'il complète en cours de manipulation, les résultats de ses observations, de ses mesures et leur interprétation. Une grille de compétences permet d'évaluer les connaissances et capacités du candidat lors de ses manipulations.
 
 Des exercices ou questions complémentaires, relatifs au contexte de l'expérimentation qui structure le sujet et notés sur 5 points, mettent en œuvre une ou plusieurs grandeurs et relations entre elles. Les questions posées doivent permettre de vérifier que le candidat est capable :
 
-- de montrer qu'il connaît le vocabulaire, les symboles, les grandeurs et les unités mises en œuvre ;
+-de montrer qu'il connaît le vocabulaire, les symboles, les grandeurs et les unités mises en œuvre ;
 
-- d'indiquer l'ordre de grandeur d'une valeur compte tenu des mesures fournies et du contexte envisagé ;
+-d'indiquer l'ordre de grandeur d'une valeur compte tenu des mesures fournies et du contexte envisagé ;
 
-- d'utiliser des définitions, des lois et des modèles pour répondre aux problèmes posés.
+-d'utiliser des définitions, des lois et des modèles pour répondre aux problèmes posés.
 
 Lorsque l'épreuve s'appuie sur d'autres disciplines, aucune connaissance relative à ces disciplines n'est exigible des candidats et toutes les indications utiles doivent être fournies dans l'énoncé.
 
@@ -136,7 +136,7 @@ Remarques sur la correction et la notation pour les sous-épreuves de mathémati
 
 Les concepteurs de sujets veilleront, dans leurs propositions, à mettre en évidence les objectifs et les capacités ou compétences visées.
 
-Sous-épreuve E13 - Conduite d'un projet d'accompagnement - U13 - coefficient 4
+Sous-épreuve E13-Conduite d'un projet d'accompagnement-U13-coefficient 4
 
 Contenus de la sous-épreuve
 
@@ -154,7 +154,7 @@ EN STRUCTURE
 
 |
 
-C1.2 : Communiquer avec l'équipe, les autres professionnels, les services, les partenaires
+C1. 2 : Communiquer avec l'équipe, les autres professionnels, les services, les partenaires
 
 |
 
@@ -162,19 +162,7 @@ C1.2 : Communiquer avec l'équipe, les autres professionnels, les services, les 
 
 |
 
-C1.2.3 : Rédiger, mettre en forme et diffuser un document professionnel
-
-|
-
-X
-
-|
-
-X
-
-|
-
-C1.2.4 : Assurer une veille des documents professionnels
+C1. 2.3 : Rédiger, mettre en forme et diffuser un document professionnel
 
 |
 
@@ -186,7 +174,7 @@ X
 
 |
 
-C3.2 : Élaborer le projet individualisé, le projet de vie
+C1. 2.4 : Assurer une veille des documents professionnels
 
 |
 
@@ -198,15 +186,7 @@ X
 
 |
 
-C3.4 : Concevoir et mettre en œuvre des activités d'acquisition ou de maintien de l'autonomie et de la vie sociale
-
-|
-
-|
-
-|
-
-C3.4.1 : Choisir une ou des activités pour une personne, un groupe
+C3. 2 : Élaborer le projet individualisé, le projet de vie
 
 |
 
@@ -218,7 +198,27 @@ X
 
 |
 
-C3.4.2 : Favoriser l'accès aux apprentissages du jeune handicapé dans le cadre de son accompagnement
+C3. 4 : Concevoir et mettre en œuvre des activités d'acquisition ou de maintien de l'autonomie et de la vie sociale
+
+|
+
+|
+
+|
+
+C3. 4.1 : Choisir une ou des activités pour une personne, un groupe
+
+|
+
+X
+
+|
+
+X
+
+|
+
+C3. 4.2 : Favoriser l'accès aux apprentissages du jeune handicapé dans le cadre de son accompagnement
 
 |
 
@@ -228,7 +228,7 @@ X
 
 |
 
-C3.4.5 : Conduire et évaluer une activité individuelle (vie quotidienne, activité motrice, d'éveil, de maintien de l'autonomie, de loisirs)
+C3. 4.5 : Conduire et évaluer une activité individuelle (vie quotidienne, activité motrice, d'éveil, de maintien de l'autonomie, de loisirs)
 
 |
 
@@ -260,37 +260,37 @@ Techniques professionnelles et technologie associée-animation-éducation à la 
 
 La sous-épreuve doit permettre de vérifier que le candidat est capable :
 
-- d'identifier et d'analyser les besoins et attentes de la personne ;
+-d'identifier et d'analyser les besoins et attentes de la personne ;
 
-- de présenter et justifier le projet d'accompagnement élaboré ;
+-de présenter et justifier le projet d'accompagnement élaboré ;
 
-- de décrire des actions d'accompagnement dans les actes de la vie quotidienne et/ou des activités de maintien de la vie relationnelle et sociale en adéquation avec les besoins répertoriés et en lien avec le secteur professionnel concerné ;
+-de décrire des actions d'accompagnement dans les actes de la vie quotidienne et/ ou des activités de maintien de la vie relationnelle et sociale en adéquation avec les besoins répertoriés et en lien avec le secteur professionnel concerné ;
 
-- de se placer dans une posture professionnelle, dans le respect de ses limites de compétences.
+-de se placer dans une posture professionnelle, dans le respect de ses limites de compétences.
 
 La sous-épreuve prend appui sur un dossier élaboré par le candidat au cours d'une période de formation en milieu professionnel (PFMP) d'une durée minimale de 4 semaines, effectuée en année terminale ou lors d'une activité professionnelle.
 
 La PFMP est effectuée obligatoirement dans des services ou structures représentatifs de l'option présentée :
 
-- service d'aide à domicile pour l'option à domicile ;
+-service d'aide à domicile pour l'option à domicile ;
 
-- établissements de santé, structures sociales ou médico-sociales, école élémentaire, structure d'accompagnement du jeune en situation de handicap pour l'option en structure .
+-établissements de santé, structures sociales ou médico-sociales, école élémentaire, structure d'accompagnement du jeune en situation de handicap pour l'option en structure.
 
 Le dossier, entre 15 et 20 pages, annexes non comprises, présente :
 
-- succinctement le contexte professionnel ;
+-succinctement le contexte professionnel ;
 
-- la personne concernée par le projet d'accompagnement, dans le respect de la confidentialité ;
+-la personne concernée par le projet d'accompagnement, dans le respect de la confidentialité ;
 
-- l'analyse de ses besoins, de ses attentes ;
+-l'analyse de ses besoins, de ses attentes ;
 
-- le projet d'accompagnement proposé ;
+-le projet d'accompagnement proposé ;
 
-- les actions retenues et leur justification dans le cadre de ce projet ;
+-les actions retenues et leur justification dans le cadre de ce projet ;
 
-- les modalités de formalisation du projet ;
+-les modalités de formalisation du projet ;
 
-- l'évaluation éventuelle des mesures mises en place.
+-l'évaluation éventuelle des mesures mises en place.
 
 Le dossier est obligatoirement accompagné de l'attestation de la période de formation en milieu professionnel correspondante et de la fiche d'appréciation ou des documents attestant de l'activité professionnelle.
 
@@ -298,13 +298,13 @@ Le candidat qui justifie d'une expérience professionnelle correspondant à la f
 
 Forme de l'évaluation
 
-Ponctuelle : épreuve orale - durée : 45 minutes
+Ponctuelle : épreuve orale-durée : 45 minutes
 
 L'épreuve s'organise en deux temps :
 
-- la présentation du dossier par le candidat (15 minutes maximum) ;
+-la présentation du dossier par le candidat (15 minutes maximum) ;
 
-- un entretien avec les membres de la commission d'évaluation (30 minutes). Au cours de cet entretien, le candidat est amené à justifier et à approfondir les éléments présentés dans le dossier.
+-un entretien avec les membres de la commission d'évaluation (30 minutes). Au cours de cet entretien, le candidat est amené à justifier et à approfondir les éléments présentés dans le dossier.
 
 L'entretien permet également de vérifier la maîtrise des savoirs associés en lien avec la situation décrite.
 
@@ -320,33 +320,33 @@ Le contrôle en cours de formation s'appuie sur une situation d'évaluation en c
 
 Le contrôle en cours de formation est organisé sous la responsabilité du chef d'établissement et l'évaluation s'appuie sur des critères mentionnés sur un document élaboré à partir du référentiel et validé par l'IEN de la spécialité (sciences biologiques, sciences sociales appliquées).
 
-E2 - Analyse de situation(s) professionnelle(s) - U2 - coefficient 4
+E2-Analyse de situation (s) professionnelle (s)-U2-coefficient 4
 
 Finalité de l'épreuve
 
 Elle permet de vérifier :
 
-- l'exactitude des connaissances relatives aux personnes auprès desquelles s'inscrivent les activités professionnelles et aux contextes institutionnels ;
+-l'exactitude des connaissances relatives aux personnes auprès desquelles s'inscrivent les activités professionnelles et aux contextes institutionnels ;
 
-- l'aptitude à les mobiliser dans un contexte professionnel ;
+-l'aptitude à les mobiliser dans un contexte professionnel ;
 
-- la capacité d'analyse et de réflexion.
+-la capacité d'analyse et de réflexion.
 
 Formes de l'évaluation
 
-Ponctuelle : épreuve écrite - durée : 4 heures
+Ponctuelle : épreuve écrite-durée : 4 heures
 
-L'épreuve prend appui sur une ou des situation(s) professionnelle(s) et un dossier technique fourni.
+L'épreuve prend appui sur une ou des situation (s) professionnelle (s) et un dossier technique fourni.
 
 Elle porte sur des savoirs associés de biologie et microbiologie appliquées, de sciences médico-sociales dont les notions de bientraitance, d'éthique et de déontologie, de nutrition, de technologies associées aux techniques professionnelles, communs aux deux options.
 
 Les limites de connaissances sont celles du référentiel des savoirs associés.
 
-E3 - Épreuve professionnelle spécifique à chaque option - U31, U32, U33, U34, U35 - coefficient 10
+E3-Épreuve professionnelle spécifique à chaque option-U31, U32, U33, U34, U35-coefficient 10
 
 Option à domicile
 
-Sous-épreuve E31 - Accompagnement des actes de la vie quotidienne à domicile - U31 - coefficient 4
+Sous-épreuve E31-Accompagnement des actes de la vie quotidienne à domicile-U31-coefficient 4
 
 Finalité de la sous-épreuve
 
@@ -356,91 +356,91 @@ Contenus de la sous-épreuve
 
 Elle permet d'évaluer tout ou partie des compétences suivantes :
 
-C1.1 : Accueillir, communiquer avec la personne, sa famille, son entourage
+C1. 1 : Accueillir, communiquer avec la personne, sa famille, son entourage
 
-C1.2 : Communiquer avec l'équipe, les autres professionnels, les services, les partenaires
+C1. 2 : Communiquer avec l'équipe, les autres professionnels, les services, les partenaires
 
-C1.2.1 : Recueillir, sélectionner et ordonner les informations
+C1. 2.1 : Recueillir, sélectionner et ordonner les informations
 
-C1.2.5 : Transmettre les informations pour assurer la continuité de l'accompagnement
+C1. 2.5 : Transmettre les informations pour assurer la continuité de l'accompagnement
 
-C1.2.8 : Intervenir en tant que représentant du service lors de réunions
+C1. 2.8 : Intervenir en tant que représentant du service lors de réunions
 
 C 2.1 : Organiser le travail en équipe professionnelle
 
-C2.1.2 : Planifier ses activités de travail
+C2. 1.2 : Planifier ses activités de travail
 
-C2.2 : Participer à la formation et à l'encadrement de stagiaires - Accueillir de nouveaux agents, des bénévoles
+C2. 2 : Participer à la formation et à l'encadrement de stagiaires-Accueillir de nouveaux agents, des bénévoles
 
-C2.3 : Participer au contrôle et à la gestion de la qualité (sauf C2.3.5)
+C2. 3 : Participer au contrôle et à la gestion de la qualité (sauf C2. 3.5)
 
-C2.4 : Gérer les stocks et les matériels
+C2. 4 : Gérer les stocks et les matériels
 
-C2.4.1 : Évaluer les besoins en produits et matériels
+C2. 4.1 : Évaluer les besoins en produits et matériels
 
-C3.1 : Assurer l'hygiène de l'environnement de la personne
+C3. 1 : Assurer l'hygiène de l'environnement de la personne
 
-C3.1.1 : Mettre en œuvre des techniques de nettoyage
+C3. 1.1 : Mettre en œuvre des techniques de nettoyage
 
-C3.1.3 : Mettre en œuvre des techniques d'entretien du linge
+C3. 1.3 : Mettre en œuvre des techniques d'entretien du linge
 
-C3.1.4 : Surveiller et maintenir l'état de fonctionnement du lit, des aides techniques, surveiller l'état de fonctionnement des dispositifs médicaux
+C3. 1.4 : Surveiller et maintenir l'état de fonctionnement du lit, des aides techniques, surveiller l'état de fonctionnement des dispositifs médicaux
 
-C3.3 : Réaliser les activités liées à l'hygiène, au confort de la personne et à la sécurisation
+C3. 3 : Réaliser les activités liées à l'hygiène, au confort de la personne et à la sécurisation
 
-C3.3.1 : Aider à la réalisation de soins d'hygiène corporelle de l'adulte
+C3. 3.1 : Aider à la réalisation de soins d'hygiène corporelle de l'adulte
 
-C3.3.3 : Réaliser la toilette de l'enfant
+C3. 3.3 : Réaliser la toilette de l'enfant
 
-C3.3.4 : Aider à l'habillage et au déshabillage
+C3. 3.4 : Aider à l'habillage et au déshabillage
 
-C3.3.5 1 : Assurer la réfection d'un lit inoccupé
+C3. 3.5 1 : Assurer la réfection d'un lit inoccupé
 
-C3.3.6 : Installer ou aider à mobiliser une personne pour le repos, les déplacements, des activités
+C3. 3.6 : Installer ou aider à mobiliser une personne pour le repos, les déplacements, des activités
 
-C3.5 : Surveiller l'état de santé de la personne et intervenir en conséquence
+C3. 5 : Surveiller l'état de santé de la personne et intervenir en conséquence
 
-C3.5.1 : Observer le comportement relationnel et social, les attitudes de la personne
+C3. 5.1 : Observer le comportement relationnel et social, les attitudes de la personne
 
-C3.5.2 : Identifier les signes de détresse, de douleur et les anomalies
+C3. 5.2 : Identifier les signes de détresse, de douleur et les anomalies
 
-C3.5.4 : Aider à la prise de médicaments
+C3. 5.4 : Aider à la prise de médicaments
 
-C3.5.5 : Évaluer le caractère urgent d'une situation, agir en conséquence
+C3. 5.5 : Évaluer le caractère urgent d'une situation, agir en conséquence
 
-C3.6 : Concevoir et préparer des collations, des repas équilibrés conformes à un régime et aider à la prise des repas
+C3. 6 : Concevoir et préparer des collations, des repas équilibrés conformes à un régime et aider à la prise des repas
 
-C3.6.1 : Concevoir des repas
+C3. 6.1 : Concevoir des repas
 
-C3.6.2 : Préparer des repas
+C3. 6.2 : Préparer des repas
 
-C3.6.3 : Préparer des collations
+C3. 6.3 : Préparer des collations
 
-C3.6.4 : Distribuer des collations ou des repas
+C3. 6.4 : Distribuer des collations ou des repas
 
-C3.6.6 : Aider à la prise des repas
+C3. 6.6 : Aider à la prise des repas
 
-C3.6.7 : Conserver des aliments, des préparations culinaires
+C3. 6.7 : Conserver des aliments, des préparations culinaires
 
 La sous-épreuve s'appuie sur l'ensemble des savoirs associés nécessaires aux services aux usagers, aux soins d'hygiène et de confort, et plus particulièrement ceux relatifs aux :
 
-- Techniques professionnelles et technologie associée-services à l'usager
+-Techniques professionnelles et technologie associée-services à l'usager
 
-- Techniques professionnelles et technologie associée-ergonomie-soins
+-Techniques professionnelles et technologie associée-ergonomie-soins
 
 Formes de l'évaluation
 
-Ponctuelle : pratique et orale - durée : 2 heures
+Ponctuelle : pratique et orale-durée : 2 heures
 
 À partir d'un contexte professionnel donné, le candidat doit :
 
-- déterminer les objectifs et les priorités des actions à mettre en œuvre ;
+-déterminer les objectifs et les priorités des actions à mettre en œuvre ;
 
-- concevoir et préparer tout ou partie d'un repas en tenant compte des ingrédients à disposition et du régime prescrit ;
+-concevoir et préparer tout ou partie d'un repas en tenant compte des ingrédients à disposition et du régime prescrit ;
 
-- aider à mobiliser et/ou installer la personne ;
+-aider à mobiliser et/ ou installer la personne ;
 
-- assurer l'hygiène de l'environnement de la personne (locaux, matériel et équipements, linge).
+-assurer l'hygiène de l'environnement de la personne (locaux, matériel et équipements, linge).
 
 La situation professionnelle pourra inclure une aide à la réalisation d'un soin d'hygiène et de confort auprès d'une personne et introduire une situation d'urgence.
 
@@ -450,7 +450,7 @@ La commission d'évaluation est composée de deux membres, enseignants de la sp�
 
 Contrôle en cours de formation
 
-- Candidats scolaires issus d'établissements publics ou privés sous contrat et apprentis de CFA habilités
+-Candidats scolaires issus d'établissements publics ou privés sous contrat et apprentis de CFA habilités
 
 Le contrôle en cours de formation a lieu au cours de la période de formation en milieu professionnel à domicile. Cette période, d'une durée d'au moins quatre semaines, a lieu en fin de classe de première ou au cours de la classe de terminale.
 
@@ -458,7 +458,7 @@ L'évaluation est réalisée par le tuteur sur l'ensemble de la période de form
 
 . d'aide aux soins d'hygiène et de confort auprès d'une personne adulte ;
 
-. de mobilisation et/ou d'installation de la personne ;
+. de mobilisation et/ ou d'installation de la personne ;
 
 . de conception, de préparation et service de repas et de collations ;
 
@@ -466,25 +466,25 @@ L'évaluation est réalisée par le tuteur sur l'ensemble de la période de form
 
 Ces activités doivent permettre d'évaluer les compétences d'organisation, de communication et de gestion de la qualité.
 
-- Candidats relevant d'établissements publics de formation continue :
+-Candidats relevant d'établissements publics de formation continue :
 
 Ces candidats sont tenus d'effectuer les mêmes périodes de formation en milieu professionnel que les candidats scolaires. Les acquis sont alors vérifiés selon les modalités définies ci-dessus.
 
-- Les candidats en situation de perfectionnement peuvent être dispensés d'effectuer des périodes de formation en milieu professionnel s'ils justifient d'au moins 6 mois d'activités professionnelles correspondant à la finalité du diplôme (annexe II § 2.3.2). Afin de vérifier la possession des acquis correspondant à la formation en milieu professionnel, une situation d'évaluation pratique et orale est mise en place par l'établissement de formation. Cette situation permet d'évaluer, dans des locaux équipés, les compétences et les savoirs associés de U3.1.
+-Les candidats en situation de perfectionnement peuvent être dispensés d'effectuer des périodes de formation en milieu professionnel s'ils justifient d'au moins 6 mois d'activités professionnelles correspondant à la finalité du diplôme (annexe II § 2.3.2). Afin de vérifier la possession des acquis correspondant à la formation en milieu professionnel, une situation d'évaluation pratique et orale est mise en place par l'établissement de formation. Cette situation permet d'évaluer, dans des locaux équipés, les compétences et les savoirs associés de U3. 1.
 
 L'évaluation s'appuie sur des critères mentionnés sur un document élaboré à partir du référentiel et validé par l'IEN de la spécialité (sciences biologiques, sciences sociales appliquées).
 
 La proposition de note de l'évaluation en milieu professionnel est établie conjointement par le tuteur et un professeur ou formateur d'enseignement professionnel.
 
-Sous-épreuve E32 - Organisation d'intervention à domicile - U32 - coefficient 2
+Sous-épreuve E32-Organisation d'intervention à domicile-U32-coefficient 2
 
 Finalité de la sous-épreuve
 
 La sous-épreuve permet d'évaluer :
 
-- des compétences mises en œuvre lors de l'organisation des interventions à domicile, de la préparation et animation d'une réunion ;
+-des compétences mises en œuvre lors de l'organisation des interventions à domicile, de la préparation et animation d'une réunion ;
 
-- des compétences mises en œuvre lors d'une intervention à domicile, gestion des documents de la vie quotidienne.
+-des compétences mises en œuvre lors d'une intervention à domicile, gestion des documents de la vie quotidienne.
 
 Contenus
 
@@ -492,21 +492,21 @@ Elle permet d'évaluer tout ou partie des compétences suivantes :
 
 C1 2 : Communiquer avec l'équipe, les autres professionnels, les services, les partenaires
 
-C1.2.2 : Choisir et utiliser l'outil de communication
+C1. 2.2 : Choisir et utiliser l'outil de communication
 
-C1.2.6 : Préparer une réunion de travail
+C1. 2.6 : Préparer une réunion de travail
 
-C1.2.7 : Animer une réunion de travail
+C1. 2.7 : Animer une réunion de travail
 
 C 2.1 : Organiser le travail en équipe professionnelle
 
-C2.1.1 : S'inscrire dans une équipe pluri-professionnelle
+C2. 1.1 : S'inscrire dans une équipe pluri-professionnelle
 
-C2.1.3 : Établir le planning de travail et des activités des membres d'une équipe
+C2. 1.3 : Établir le planning de travail et des activités des membres d'une équipe
 
-C2.1.4 : Participer à l'évaluation des personnels
+C2. 1.4 : Participer à l'évaluation des personnels
 
-C2.1.5 : Identifier les besoins de formation des personnels d'une équipe
+C2. 1.5 : Identifier les besoins de formation des personnels d'une équipe
 
 3.8 Gérer des documents de la vie quotidienne
 
@@ -532,7 +532,7 @@ Techniques professionnelles et technologie associée-services à l'usager
 
 Formes de l'évaluation
 
-Ponctuelle : orale - durée : 2 heures
+Ponctuelle : orale-durée : 2 heures
 
 Préparation : 1h30
 
@@ -542,13 +542,13 @@ Exposé et entretien : 30 minutes
 
 Dans le cadre de la gestion d'une équipe restreinte
 
-- organiser l'intervention des membres de l'équipe et justifier ses choix ;
+-organiser l'intervention des membres de l'équipe et justifier ses choix ;
 
-- organiser une réunion sur un thème donné et en lien avec la situation.
+-organiser une réunion sur un thème donné et en lien avec la situation.
 
 Dans le cadre d'une intervention à domicile
 
-- gérer des documents de la vie quotidienne pour cette personne (élaboration d'échéancier, suivi des démarches, etc.).
+-gérer des documents de la vie quotidienne pour cette personne (élaboration d'échéancier, suivi des démarches, etc.).
 
 L'entretien permet également de vérifier la maîtrise des savoirs associés en lien avec la situation décrite.
 
@@ -562,15 +562,15 @@ Cette situation est construite sur le modèle de l'épreuve ponctuelle et donne 
 
 Le contrôle en cours de formation est organisé sous la responsabilité du chef d'établissement et l'évaluation s'appuie sur des critères mentionnés sur un document élaboré à partir du référentiel et validé par l'IEN de la spécialité (sciences biologiques, sciences sociales appliquées).
 
-Sous-épreuve E33 - Aménagement et équipement de l'espace privé - U33 - coefficient 2
+Sous-épreuve E33-Aménagement et équipement de l'espace privé-U33-coefficient 2
 
 Finalité de la sous-épreuve
 
 La sous-épreuve permet d'évaluer tout ou partie des compétences mises en œuvre dans le secteur de l'aide à domicile pour :
 
-- l'aménagement d'un espace en vue du maintien de l'autonomie de la ou des personnes qui l'occupent et de la sécurisation ;
+-l'aménagement d'un espace en vue du maintien de l'autonomie de la ou des personnes qui l'occupent et de la sécurisation ;
 
-- du suivi des commandes, des contrats de location et/ou maintenance de matériels et/ou d'équipements.
+-du suivi des commandes, des contrats de location et/ ou maintenance de matériels et/ ou d'équipements.
 
 La sous-épreuve s'appuie sur l'ensemble des savoirs associés nécessaires à l'aménagement des espaces et plus particulièrement sur ceux de :
 
@@ -590,41 +590,41 @@ La sous-épreuve porte sur les compétences :
 
 C24 : Gérer les stocks et les matériels
 
-C2.4.2 : Planifier les achats en fonction des inventaires des produits et/ou de la vétusté, des matériels en réserve
+C2. 4.2 : Planifier les achats en fonction des inventaires des produits et/ ou de la vétusté, des matériels en réserve
 
-C2.4.3 : Rédiger un bon de commande et assurer le suivi des commandes
+C2. 4.3 : Rédiger un bon de commande et assurer le suivi des commandes
 
-C2.4.4 : Assurer le suivi des contrats de location, de maintenance
+C2. 4.4 : Assurer le suivi des contrats de location, de maintenance
 
-C3.3 : Réaliser les activités liées à l'hygiène, au confort de la personne et à la sécurisation
+C3. 3 : Réaliser les activités liées à l'hygiène, au confort de la personne et à la sécurisation
 
-C3.3.8 : Proposer des aménagements d'espaces pour favoriser l'autonomie et prévenir les accidents
+C3. 3.8 : Proposer des aménagements d'espaces pour favoriser l'autonomie et prévenir les accidents
 
 La sous-épreuve doit permettre de vérifier que le candidat est capable de :
 
-- proposer et justifier un aménagement de l'espace de vie de la personne ;
+-proposer et justifier un aménagement de l'espace de vie de la personne ;
 
-- choisir et commander un équipement en lien avec l'aménagement proposé ;
+-choisir et commander un équipement en lien avec l'aménagement proposé ;
 
-- assurer le suivi des contrats de location et de maintenance.
+-assurer le suivi des contrats de location et de maintenance.
 
 Cette sous-épreuve prend appui sur un dossier élaboré par le candidat, au cours de sa formation en milieu professionnel ou de son expérience professionnelle dans le secteur d'activités.
 
 Le dossier de 10 à 15 pages présente :
 
-- le contexte humain et matériel ;
+-le contexte humain et matériel ;
 
-- une proposition d'aménagement justifiée de l'espace de vie, illustrée par des plans ;
+-une proposition d'aménagement justifiée de l'espace de vie, illustrée par des plans ;
 
-- un choix d'équipement(s) justifié en fonction du contexte ;
+-un choix d'équipement (s) justifié en fonction du contexte ;
 
-- des documents liés aux commandes ;
+-des documents liés aux commandes ;
 
-- des documents de location et de suivi de maintenance des équipements.
+-des documents de location et de suivi de maintenance des équipements.
 
 Formes de l'évaluation
 
-Ponctuelle : orale - durée : 30 minutes
+Ponctuelle : orale-durée : 30 minutes
 
 Le candidat dispose de dix minutes maximum pour présenter son dossier, ce temps d'exposé est suivi de vingt minutes d'entretien avec le jury. Cet entretien porte sur la justification des choix retenus par le candidat et permet de vérifier la maîtrise des savoirs associés énoncés ci-dessus.
 
@@ -650,7 +650,7 @@ Le contrôle en cours de formation est organisé sous la responsabilité du chef
 
 Option en structure
 
-Sous-épreuve E31 - Soins d'hygiène et de confort, de services à la personne en structure - U 31 - coefficient 4
+Sous-épreuve E31-Soins d'hygiène et de confort, de services à la personne en structure-U 31-coefficient 4
 
 Finalité de la sous-épreuve
 
@@ -660,77 +660,77 @@ Contenus
 
 Elle porte sur tout ou partie des compétences suivantes :
 
-C1.2 : Communiquer avec l'équipe, les autres professionnels, les services, les partenaires
+C1. 2 : Communiquer avec l'équipe, les autres professionnels, les services, les partenaires
 
-C1.2.1 : Recueillir, sélectionner et ordonner les informations
+C1. 2.1 : Recueillir, sélectionner et ordonner les informations
 
-C1.2.5 : Transmettre les informations pour assurer la continuité de l'accompagnement
+C1. 2.5 : Transmettre les informations pour assurer la continuité de l'accompagnement
 
-C1.2.8 : Intervenir en tant que représentant du service lors de réunions
+C1. 2.8 : Intervenir en tant que représentant du service lors de réunions
 
 C 2.1 : Organiser le travail en équipe professionnelle
 
-C2.1.1 : S'inscrire dans une équipe pluri-professionnelle
+C2. 1.1 : S'inscrire dans une équipe pluri-professionnelle
 
-C2.1.2 : Planifier ses activités de travail
+C2. 1.2 : Planifier ses activités de travail
 
-C2.2 : Participer à la formation et à l'encadrement de stagiaires - Accueillir de nouveaux agents, des bénévoles
+C2. 2 : Participer à la formation et à l'encadrement de stagiaires-Accueillir de nouveaux agents, des bénévoles
 
-C2.3 : Participer au contrôle et à la gestion de la qualité (sauf C2.3.5)
+C2. 3 : Participer au contrôle et à la gestion de la qualité (sauf C2. 3.5)
 
-C2.4 : Gérer les stocks et les matériels
+C2. 4 : Gérer les stocks et les matériels
 
-C2.4.1 : Évaluer les besoins en produits et matériels
+C2. 4.1 : Évaluer les besoins en produits et matériels
 
-C2.4.2 : Planifier les achats en fonction des inventaires des produits et/ou de la vétusté, des matériels en réserve
+C2. 4.2 : Planifier les achats en fonction des inventaires des produits et/ ou de la vétusté, des matériels en réserve
 
-C2.4.3 : Rédiger un bon de commande et assurer le suivi des commandes
+C2. 4.3 : Rédiger un bon de commande et assurer le suivi des commandes
 
-C3.1 : Assurer l'hygiène de l'environnement de la personne
+C3. 1 : Assurer l'hygiène de l'environnement de la personne
 
-C3.1.2 : Mettre en œuvre des techniques de bio-nettoyage
+C3. 1.2 : Mettre en œuvre des techniques de bio-nettoyage
 
-C3.1.4 : Surveiller et maintenir l'état de fonctionnement du lit, des aides techniques, surveiller l'état de fonctionnement des dispositifs médicaux
+C3. 1.4 : Surveiller et maintenir l'état de fonctionnement du lit, des aides techniques, surveiller l'état de fonctionnement des dispositifs médicaux
 
 C 3.1.5 : Préparer les matériels en vue de la stérilisation
 
 C 3.1.6 : Assurer le tri et l'acheminement du linge, des matériels et des déchets
 
-C3.3 : Réaliser les activités liées à l'hygiène, au confort de la personne et à la sécurisation (sauf C.3.3.8)
+C3. 3 : Réaliser les activités liées à l'hygiène, au confort de la personne et à la sécurisation (sauf C. 3.3.8)
 
-C3.5 : Surveiller l'état de santé de la personne et intervenir en conséquence
+C3. 5 : Surveiller l'état de santé de la personne et intervenir en conséquence
 
-C3.6 : Concevoir et préparer des collations, des repas équilibrés conformes à un régime et aider à la prise des repas
+C3. 6 : Concevoir et préparer des collations, des repas équilibrés conformes à un régime et aider à la prise des repas
 
-C3.6.3 : Préparer des collations
+C3. 6.3 : Préparer des collations
 
-C3.6.4 : Distribuer des collations ou des repas
+C3. 6.4 : Distribuer des collations ou des repas
 
-C3.6.5 : Organiser la distribution
+C3. 6.5 : Organiser la distribution
 
-C3.6.6 : Aider à la prise des repas
+C3. 6.6 : Aider à la prise des repas
 
 La sous-épreuve s'appuie sur l'ensemble des savoirs associés nécessaires aux soins d'hygiène et de confort, aux services aux usagers et plus particulièrement à ceux de :
 
-- Techniques professionnelles et technologie associée-ergonomie-soins
+-Techniques professionnelles et technologie associée-ergonomie-soins
 
-- Techniques professionnelles et technologie associée-services à l'usager
+-Techniques professionnelles et technologie associée-services à l'usager
 
 Formes de l'évaluation
 
-Ponctuelle : pratique et orale - durée : 2 heures
+Ponctuelle : pratique et orale-durée : 2 heures
 
 À partir d'un contexte professionnel donné, dans une situation professionnelle complexe, le candidat doit :
 
-- déterminer les objectifs et les priorités des actions à mettre en œuvre ;
+-déterminer les objectifs et les priorités des actions à mettre en œuvre ;
 
-- réaliser un soin d'hygiène et de confort auprès d'une personne adulte non autonome ;
+-réaliser un soin d'hygiène et de confort auprès d'une personne adulte non autonome ;
 
-- mesurer et transcrire un paramètre vital ;
+-mesurer et transcrire un paramètre vital ;
 
-- effectuer une technique de manutention ;
+-effectuer une technique de manutention ;
 
-- réaliser un bio-nettoyage et/ou une préparation de stérilisation.
+-réaliser un bio-nettoyage et/ ou une préparation de stérilisation.
 
 La situation professionnelle pourra inclure la préparation et le service d'une collation, le service d'un repas, l'aide à la prise d'un repas et introduire une situation d'urgence.
 
@@ -740,7 +740,7 @@ La commission d'évaluation est composée de deux membres, un enseignant de la s
 
 Contrôle en cours de formation
 
-- Candidats scolaires issus d'établissements publics ou privés sous contrat et apprentis de CFA habilités
+-Candidats scolaires issus d'établissements publics ou privés sous contrat et apprentis de CFA habilités
 
 Le contrôle en cours de formation a lieu au cours de la période de formation en milieu professionnel auprès d'adultes non autonomes. Cette période, d'une durée d'au moins quatre semaines, a lieu en fin de classe de première ou au cours de la classe de terminale.
 
@@ -758,17 +758,17 @@ L'évaluation est réalisée par le tuteur sur l'ensemble de la période de form
 
 Ces activités doivent permettre d'évaluer les compétences d'organisation, de communication et de gestion de la qualité.
 
-- Candidats relevant d'établissements publics de formation continue :
+-Candidats relevant d'établissements publics de formation continue :
 
 Ces candidats sont tenus d'effectuer les mêmes périodes de formation en milieu professionnel que les candidats scolaires. Les acquis sont alors vérifiés selon les modalités définies ci-dessus.
 
-Les candidats en situation de perfectionnement peuvent être dispensés d'effectuer des périodes de formation en milieu professionnel s'ils justifient d'au moins 6 mois d'activité professionnelle correspondant à la finalité du diplôme. (annexe II § 2.3.2). Afin de vérifier la possession des acquis correspondant à la formation en milieu professionnel, une situation d'évaluation est mise en place par l'établissement de formation. Cette situation permet d'évaluer, dans des locaux équipés, les compétences et les savoirs associés de U3.1.
+Les candidats en situation de perfectionnement peuvent être dispensés d'effectuer des périodes de formation en milieu professionnel s'ils justifient d'au moins 6 mois d'activité professionnelle correspondant à la finalité du diplôme. (annexe II § 2.3.2). Afin de vérifier la possession des acquis correspondant à la formation en milieu professionnel, une situation d'évaluation est mise en place par l'établissement de formation. Cette situation permet d'évaluer, dans des locaux équipés, les compétences et les savoirs associés de U3. 1.
 
 L'évaluation s'appuie sur des critères mentionnés sur un document élaboré à partir du référentiel et validé par l'IEN de la spécialité (sciences biologiques, sciences sociales appliquées).
 
 La proposition de note de l'évaluation en milieu professionnel est établie conjointement par le tuteur et un professeur ou formateur d'enseignement professionnel.
 
-Sous-épreuve E32 - Projet d'animation - U32 - coefficient 2
+Sous-épreuve E32-Projet d'animation-U32-coefficient 2
 
 Finalité de la sous-épreuve
 
@@ -778,15 +778,15 @@ Contenus
 
 Elle porte sur tout ou partie des compétences suivantes :
 
-C1.1 : Accueillir, communiquer avec la personne, sa famille, son entourage
+C1. 1 : Accueillir, communiquer avec la personne, sa famille, son entourage
 
-C3.4 : Concevoir et mettre en œuvre des activités d'acquisition ou de maintien de l'autonomie et de la vie sociale
+C3. 4 : Concevoir et mettre en œuvre des activités d'acquisition ou de maintien de l'autonomie et de la vie sociale
 
-C3.4.3 : Concevoir un projet d'animation
+C3. 4.3 : Concevoir un projet d'animation
 
-C3.4.4 : Conduire et évaluer un projet d'animation
+C3. 4.4 : Conduire et évaluer un projet d'animation
 
-C3.4.6 : Conduire et évaluer une activité collective (vie quotidienne, activité motrice, d'éveil, de maintien de l'autonomie, de loisirs)
+C3. 4.6 : Conduire et évaluer une activité collective (vie quotidienne, activité motrice, d'éveil, de maintien de l'autonomie, de loisirs)
 
 La sous-épreuve s'appuie sur l'ensemble des savoirs associés nécessaires à la conduite d'un projet d'animation ou d'une activité collective et plus particulièrement ceux relatifs aux :
 
@@ -804,7 +804,7 @@ Sciences médico-sociales
 
 Formes de l'évaluation
 
-Ponctuelle : orale - durée : 2 heures
+Ponctuelle : orale-durée : 2 heures
 
 Préparation : 1h30
 
@@ -812,11 +812,11 @@ Exposé et entretien : 30 minutes
 
 À partir d'une situation donnée, précisant le contexte professionnel et le public, le candidat doit :
 
-- proposer les grandes étapes et les modalités de mise en œuvre du projet d'animation ;
+-proposer les grandes étapes et les modalités de mise en œuvre du projet d'animation ;
 
-- choisir et présenter une activité collective et son organisation, dans le cadre du projet retenu ;
+-choisir et présenter une activité collective et son organisation, dans le cadre du projet retenu ;
 
-- justifier le choix de cette activité.
+-justifier le choix de cette activité.
 
 L'entretien permet également de vérifier la maîtrise des savoirs associés en lien avec la situation décrite.
 
@@ -824,17 +824,17 @@ La commission d'évaluation est composée de deux membres, un enseignant de la s
 
 Contrôle en cours de formation
 
-- Candidats scolaires issus d'établissements publics ou privés sous contrat et apprentis de CFA habilités
+-Candidats scolaires issus d'établissements publics ou privés sous contrat et apprentis de CFA habilités
 
 Le contrôle en cours de formation a lieu au cours d'une des périodes de formation en milieu professionnel d'une durée minimum de quatre semaines, de l'année de première ou de terminale.
 
-L'évaluation est réalisée par le tuteur, elle porte sur la conception et la conduite de tout ou partie d'un projet d'animation et/ou d'activités collectives.
+L'évaluation est réalisée par le tuteur, elle porte sur la conception et la conduite de tout ou partie d'un projet d'animation et/ ou d'activités collectives.
 
-- Candidats relevant d'établissements publics de formation continue :
+-Candidats relevant d'établissements publics de formation continue :
 
 Ces candidats sont tenus d'effectuer les mêmes périodes de formation en milieu professionnel que les candidats scolaires. Les acquis sont alors vérifiés selon les modalités définies ci-dessus.
 
-- Les candidats en situation de perfectionnement peuvent être dispensés d'effectuer des périodes de formation en milieu professionnel s'ils justifient d'au moins 6 mois d'activité professionnelle correspondant à la finalité du diplôme. (annexe II § 2.3.2). Afin de vérifier la possession des acquis correspondant à la formation en milieu professionnel, une situation d'évaluation orale est mise en place par l'établissement de formation. Cette situation permet d'évaluer les compétences et les savoirs associés de U3.2.1.
+-Les candidats en situation de perfectionnement peuvent être dispensés d'effectuer des périodes de formation en milieu professionnel s'ils justifient d'au moins 6 mois d'activité professionnelle correspondant à la finalité du diplôme. (annexe II § 2.3.2). Afin de vérifier la possession des acquis correspondant à la formation en milieu professionnel, une situation d'évaluation orale est mise en place par l'établissement de formation. Cette situation permet d'évaluer les compétences et les savoirs associés de U3. 2.1.
 
 À partir de son expérience professionnelle, le candidat présente un projet d'animation qu'il a mené ou auquel il a participé.
 
@@ -842,7 +842,7 @@ L'évaluation s'appuie sur des critères mentionnés sur un document élaboré �
 
 La proposition de note de l'évaluation en milieu professionnel est établie conjointement par le tuteur et un professeur ou formateur d'enseignement professionnel.
 
-Sous-épreuve E33 - Conduite d'action d'éducation à la santé - U33 - coefficient 2
+Sous-épreuve E33-Conduite d'action d'éducation à la santé-U33-coefficient 2
 
 Finalité de la sous-épreuve
 
@@ -852,21 +852,21 @@ Contenus
 
 La sous-épreuve porte sur les compétences :
 
-C1.2 : Communiquer avec l'équipe, les autres professionnels, les services, les partenaires
+C1. 2 : Communiquer avec l'équipe, les autres professionnels, les services, les partenaires
 
-C1.2.1 : Recueillir, sélectionner et ordonner les informations
+C1. 2.1 : Recueillir, sélectionner et ordonner les informations
 
-C1.2.2 : Choisir et utiliser l'outil de communication
+C1. 2.2 : Choisir et utiliser l'outil de communication
 
-C3.7 : Conduire des actions d'éducation à la santé
+C3. 7 : Conduire des actions d'éducation à la santé
 
-C3.7.1 : Repérer les besoins d'un public sur des aspects simples de santé
+C3. 7.1 : Repérer les besoins d'un public sur des aspects simples de santé
 
-C3.7.2 : Repérer les dispositifs en éducation à la santé
+C3. 7.2 : Repérer les dispositifs en éducation à la santé
 
-C3.7.3 : Concevoir ou participer à l'élaboration de supports ou d'outils pédagogiques dans le cadre d'une action ou d'un projet
+C3. 7.3 : Concevoir ou participer à l'élaboration de supports ou d'outils pédagogiques dans le cadre d'une action ou d'un projet
 
-C3.7.4 : Concevoir et mettre en œuvre des actions individuelles ou collectives de promotion de la santé
+C3. 7.4 : Concevoir et mettre en œuvre des actions individuelles ou collectives de promotion de la santé
 
 La sous-épreuve s'appuie sur l'ensemble des savoirs associés nécessaires à la mise en place d'une éducation à la santé et plus particulièrement :
 
@@ -900,29 +900,29 @@ Techniques professionnelles et technologie associée-animation-éducation à la 
 
 La sous-épreuve doit permettre de vérifier que le candidat est capable :
 
-- de proposer des techniques ou outils pertinents pour analyser les besoins d'un public en matière d'éducation à la santé ;
+-de proposer des techniques ou outils pertinents pour analyser les besoins d'un public en matière d'éducation à la santé ;
 
-- de retenir une action d'éducation à la santé en réponse aux besoins repérés ;
+-de retenir une action d'éducation à la santé en réponse aux besoins repérés ;
 
-- de présenter et justifier le/ou les supports utilisés ;
+-de présenter et justifier le/ ou les supports utilisés ;
 
-- de développer les étapes de la mise en œuvre de l'action.
+-de développer les étapes de la mise en œuvre de l'action.
 
 Cette sous-épreuve prend appui sur un dossier élaboré par le candidat, au cours de sa formation ou de son expérience professionnelle dans le secteur d'activité ; il doit s'appuyer sur des actions menées individuellement ou collectivement.
 
 Le dossier, de 10 à 15 pages, annexes non comprises, présente :
 
-- la justification de la thématique retenue en lien avec des besoins repérés d'un public ;
+-la justification de la thématique retenue en lien avec des besoins repérés d'un public ;
 
-- l'action d'éducation à la santé retenue ;
+-l'action d'éducation à la santé retenue ;
 
-- un support retenu pour cette action ;
+-un support retenu pour cette action ;
 
-- les modalités de mise en œuvre et d'évaluation de l'action.
+-les modalités de mise en œuvre et d'évaluation de l'action.
 
 Formes de l'évaluation
 
-Ponctuelle : orale - durée : 30 minutes
+Ponctuelle : orale-durée : 30 minutes
 
 Le candidat dispose de 10 minutes maximum pour présenter son dossier, ce temps d'exposé est suivi de 20 minutes d'entretien avec le jury. Cet entretien porte sur la justification des choix retenus par le candidat et permet de vérifier la maîtrise des savoirs associés énoncés ci-dessus.
 
@@ -942,7 +942,7 @@ Le contrôle en cours de formation s'appuie sur une situation d'évaluation en c
 
 Le contrôle en cours de formation est organisé sous la responsabilité du chef d'établissement et l'évaluation s'appuie sur des critères mentionnés sur un document élaboré à partir du référentiel et validé par l'IEN de la spécialité (sciences biologiques, sciences sociales appliquées).
 
-Sous-épreuve E34 - Économie-gestion - U34 - coefficient 1
+Sous-épreuve E34-Économie-gestion-U34-coefficient 1
 
 Finalité de la sous-épreuve
 
@@ -964,7 +964,7 @@ Première situation d'évaluation : Résultats d'évaluations significatives (su
 
 Les évaluations significatives, élaborées à partir de situations professionnelles contextualisées correspondant à la spécialité préparée, sont réalisées au cours de la formation et portent sur les thèmes suivants :
 
-. Pour l'axe 1 - Le contexte professionnel :
+. Pour l'axe 1-Le contexte professionnel :
 
 Thème 1.2 La diversité des organisations, leur finalité et leur réalité
 
@@ -972,7 +972,7 @@ Thème 1.3 Les domaines d'activités des organisations
 
 Thème 1.4 L'environnement économique, juridique et institutionnel
 
-. Pour l'axe 2 - L'insertion dans l'organisation :
+. Pour l'axe 2-L'insertion dans l'organisation :
 
 Thème 2.2 L'embauche et la rémunération
 
@@ -980,7 +980,7 @@ Thème 2.3 La structure de l'organisation
 
 Thème 2.4 Les règles de vie au sein de l'entreprise
 
-. Pour l'axe 3 - L'organisation de l'activité :
+. Pour l'axe 3-L'organisation de l'activité :
 
 Thème 3.1 L'activité commerciale
 
@@ -988,13 +988,13 @@ Thème 3.2 L'organisation de la production et du travail
 
 Thème 3.3 La gestion des ressources humaines
 
-. Pour l'axe 4 - La vie de l'organisation :
+. Pour l'axe 4-La vie de l'organisation :
 
 Thème 4.1 L'organisation créatrice de richesses
 
 Thème 4.2 Les relations avec les partenaires extérieurs
 
-. Pour l'axe 5 - Les mutations et leurs incidences :
+. Pour l'axe 5-Les mutations et leurs incidences :
 
 Thème 5.1 Les mutations de l'environnement
 
@@ -1016,17 +1016,17 @@ Thème 4.3 La création et la reprise d'entreprise
 
 Ce projet professionnel est structuré de façon à mettre en évidence :
 
-- la présentation du candidat et de son cursus ;
+-la présentation du candidat et de son cursus ;
 
-- sa connaissance du secteur professionnel et de ses métiers à partir de l'expérience acquise en entreprise ;
+-sa connaissance du secteur professionnel et de ses métiers à partir de l'expérience acquise en entreprise ;
 
-- la présentation structurée et argumentée de son projet professionnel (objectifs à court et moyen terme, motivations, démarches).
+-la présentation structurée et argumentée de son projet professionnel (objectifs à court et moyen terme, motivations, démarches).
 
 L'évaluation se déroule en deux temps :
 
-- présentation orale, par le candidat, de son projet professionnel pendant laquelle il n'est pas interrompu ;
+-présentation orale, par le candidat, de son projet professionnel pendant laquelle il n'est pas interrompu ;
 
-- entretien avec la commission d'évaluation portant sur le projet et sur les connaissances et compétences relevant des trois thèmes cités précédemment.
+-entretien avec la commission d'évaluation portant sur le projet et sur les connaissances et compétences relevant des trois thèmes cités précédemment.
 
 À la date fixée par le formateur d'économie-gestion, le candidat se présente à l'entretien muni de son dossier-projet. Celui-ci sert uniquement de support à l'épreuve et n'est pas évalué en tant que tel.
 
@@ -1036,11 +1036,11 @@ Tout candidat se présentant sans dossier-projet ou avec un dossier-projet non c
 
 Un dossier-projet est considéré non conforme dans les cas suivants :
 
-- il n'est pas personnel ;
+-il n'est pas personnel ;
 
-- il n'est pas réalisé avec l'outil informatique ;
+-il n'est pas réalisé avec l'outil informatique ;
 
-- il comporte moins de 3 pages, hors annexes.
+-il comporte moins de 3 pages, hors annexes.
 
 La note globale proposée au jury est accompagnée des documents d'évaluation (pour chaque candidat : contrôles significatifs, grilles d'évaluation).
 
@@ -1066,17 +1066,17 @@ Thème 4.3 La création et la reprise d'entreprise
 
 Ce projet professionnel est structuré de façon à mettre en évidence :
 
-- la présentation du candidat et de son cursus ;
+-la présentation du candidat et de son cursus ;
 
-- sa connaissance du secteur professionnel et de ses métiers à partir de l'expérience acquise en entreprise ;
+-sa connaissance du secteur professionnel et de ses métiers à partir de l'expérience acquise en entreprise ;
 
-- la présentation structurée et argumentée de son projet professionnel (objectifs à court et moyen terme, motivations, démarches).
+-la présentation structurée et argumentée de son projet professionnel (objectifs à court et moyen terme, motivations, démarches).
 
 L'évaluation se déroule en deux temps :
 
-- présentation orale, par le candidat, de son projet professionnel (5 minutes maximum) pendant laquelle il n'est pas interrompu ;
+-présentation orale, par le candidat, de son projet professionnel (5 minutes maximum) pendant laquelle il n'est pas interrompu ;
 
-- entretien avec la commission d'interrogation (10 minutes maximum) portant sur le projet et sur les connaissances et compétences relevant des trois thèmes cités précédemment.
+-entretien avec la commission d'interrogation (10 minutes maximum) portant sur le projet et sur les connaissances et compétences relevant des trois thèmes cités précédemment.
 
 À la date fixée par les services académiques des examens, le candidat se présente à l'entretien muni de son dossier-projet. Celui-ci sert uniquement de support à l'épreuve et n'est pas évalué en tant que tel.
 
@@ -1086,11 +1086,11 @@ Tout candidat se présentant sans dossier-projet ou avec un dossier-projet non c
 
 Un dossier-projet est considéré non conforme dans les cas suivants :
 
-- il n'est pas personnel ;
+-il n'est pas personnel ;
 
-- il n'est pas réalisé avec l'outil informatique ;
+-il n'est pas réalisé avec l'outil informatique ;
 
-- il comporte moins de 3 pages, hors annexes.
+-il comporte moins de 3 pages, hors annexes.
 
 Deuxième partie : Évaluation des connaissances et compétences en économie-gestion (sur 12 points)
 
@@ -1098,7 +1098,7 @@ Dans la continuité de la prestation orale (présentation et entretien) du dossi
 
 Le questionnement prend appui sur des situations professionnelles contextualisées correspondant à la spécialité préparée. Il porte sur les thèmes suivants :
 
-. Pour l'axe 1 - Le contexte professionnel :
+. Pour l'axe 1-Le contexte professionnel :
 
 Thème 1.2 La diversité des organisations, leur finalité et leur réalité
 
@@ -1106,7 +1106,7 @@ Thème 1.3 Les domaines d'activités des organisations
 
 Thème 1.4 L'environnement économique, juridique et institutionnel
 
-. Pour l'axe 2 - L'insertion dans l'organisation :
+. Pour l'axe 2-L'insertion dans l'organisation :
 
 Thème 2.2 L'embauche et la rémunération
 
@@ -1114,7 +1114,7 @@ Thème 2.3 La structure de l'organisation
 
 Thème 2.4 Les règles de vie au sein de l'entreprise
 
-. Pour l'axe 3 - L'organisation de l'activité :
+. Pour l'axe 3-L'organisation de l'activité :
 
 Thème 3.1 L'activité commerciale
 
@@ -1122,13 +1122,13 @@ Thème 3.2 L'organisation de la production et du travail
 
 Thème 3.3 La gestion des ressources humaines
 
-. Pour l'axe 4 - La vie de l'organisation :
+. Pour l'axe 4-La vie de l'organisation :
 
 Thème 4.1 L'organisation créatrice de richesses
 
 Thème 4.2 Les relations avec les partenaires extérieurs
 
-. Pour l'axe 5 - Les mutations et leurs incidences :
+. Pour l'axe 5-Les mutations et leurs incidences :
 
 Thème 5.1 Les mutations de l'environnement
 
@@ -1142,33 +1142,33 @@ Pour conduire l'entretien, la commission d'interrogation orientera son questionn
 
 La note globale proposée au jury est accompagnée des grilles d'évaluation.
 
-Sous-épreuve E35 - Prévention-santé-environnement - U35 - coefficient 1
+Sous-épreuve E35-Prévention-santé-environnement-U35-coefficient 1
 
 Objectifs de l'épreuve
 
 L'épreuve a pour objectif d'évaluer les compétences du candidat à :
 
-- Conduire une démarche d'analyse de situations en appliquant la démarche de résolution de problème
+-Conduire une démarche d'analyse de situations en appliquant la démarche de résolution de problème
 
-- Analyser une situation professionnelle en appliquant différentes démarches : analyse par le risque, par le travail, par l'accident
+-Analyser une situation professionnelle en appliquant différentes démarches : analyse par le risque, par le travail, par l'accident
 
-- Mobiliser des connaissances scientifiques, juridiques et économiques
+-Mobiliser des connaissances scientifiques, juridiques et économiques
 
-- Proposer et justifier les mesures de prévention adaptées
+-Proposer et justifier les mesures de prévention adaptées
 
-- Agir de façon efficace face à une situation d'urgence
+-Agir de façon efficace face à une situation d'urgence
 
 Critères d'évaluation
 
 L'évaluation porte notamment sur :
 
-- la qualité du raisonnement et de l'analyse ;
+-la qualité du raisonnement et de l'analyse ;
 
-- l'exactitude des connaissances ;
+-l'exactitude des connaissances ;
 
-- la pertinence et le réalisme des solutions proposées ;
+-la pertinence et le réalisme des solutions proposées ;
 
-- l'efficacité de l'action face à une situation d'urgence.
+-l'efficacité de l'action face à une situation d'urgence.
 
 Modes d'évaluation
 
@@ -1178,11 +1178,11 @@ Le contrôle en cours de formation est organisé à partir de deux situations d'
 
 La première situation d'évaluation, notée sur 12 points, a lieu au plus tard en fin de première professionnelle et comporte deux parties.
 
-- Une évaluation écrite d'une durée de 1 heure, notée sur 9 points
+-Une évaluation écrite d'une durée de 1 heure, notée sur 9 points
 
 Elle prend appui sur des situations de la vie quotidienne ou professionnelle. Elle comporte plusieurs questions indépendantes ou liées permettant d'évaluer les connaissances et les capacités relatives à au moins deux modules parmi les modules 1 à 7 notés sur 6 points. Le module 8, à l'exception des situations d'urgence, noté sur 3 points est évalué à travers la mise en œuvre de la démarche d'approche par le risque.
 
-- Une évaluation pratique, notée sur 3 points.
+-Une évaluation pratique, notée sur 3 points.
 
 Elle prend en compte les résultats obtenus lors de la formation de base au secourisme ou du recyclage SST.
 
@@ -1196,13 +1196,13 @@ Le dossier produit présente la place de la prévention dans l'entreprise et l'a
 
 Cette production met en évidence :
 
-- une description des activités de l'entreprise ;
+-une description des activités de l'entreprise ;
 
-- l'identification d'un risque et de ses effets physiopathologiques dans le cadre d'une situation professionnelle ;
+-l'identification d'un risque et de ses effets physiopathologiques dans le cadre d'une situation professionnelle ;
 
-- la mise œuvre d'une démarche d'analyse (approche par le travail ou par l'accident) ;
+-la mise œuvre d'une démarche d'analyse (approche par le travail ou par l'accident) ;
 
-- la politique de prévention dans l'entreprise.
+-la politique de prévention dans l'entreprise.
 
 Évaluation par épreuve ponctuelle (2 heures)
 
@@ -1210,7 +1210,7 @@ Le sujet se compose de deux parties correspondant l'une aux modules 1 à 8, l'au
 
 La première partie, notée sur 12 points, comporte :
 
-- un questionnement noté sur 9 points. Il prend appui sur des situations de la vie quotidienne ou professionnelle et permet d'évaluer :
+-un questionnement noté sur 9 points. Il prend appui sur des situations de la vie quotidienne ou professionnelle et permet d'évaluer :
 
 . au moins deux modules parmi les modules 1 à 7, notés sur 6 points,
 
@@ -1222,27 +1222,27 @@ La deuxième partie, notée sur 8 points, permet d'évaluer les modules 9 à 12.
 
 Le dossier fourni au candidat présente :
 
-- une situation professionnelle ;
+-une situation professionnelle ;
 
-- une description des activités de l'entreprise ;
+-une description des activités de l'entreprise ;
 
-- des documents législatifs et réglementaires nécessaires.
+-des documents législatifs et réglementaires nécessaires.
 
-E4 - Épreuve de langue vivante - U4 - coefficient 2
+E4-Épreuve de langue vivante-U4-coefficient 2
 
 Contrôle en cours de formation (CCF)
 
 Cette évaluation donne lieu à une situation d'évaluation unique.
 
-- Compétences évaluées : expression orale en continu, interaction orale et compréhension de l'écrit.
+-Compétences évaluées : expression orale en continu, interaction orale et compréhension de l'écrit.
 
-- Niveau attendu en référence à l'échelle de niveaux du CECRL : B1+
+-Niveau attendu en référence à l'échelle de niveaux du CECRL : B1 +
 
-- Durée : 15 minutes, sans préparation ; partie 1 et partie 2 : 5 minutes maximum chacune, notées pour un total de 20 points ; partie 3 : 5 minutes maximum, notée sur 10.
+-Durée : 15 minutes, sans préparation ; partie 1 et partie 2 : 5 minutes maximum chacune, notées pour un total de 20 points ; partie 3 : 5 minutes maximum, notée sur 10.
 
 L'évaluation a lieu au cours du sixième semestre de la formation conduisant à la délivrance du diplôme du baccalauréat professionnel. Le calendrier de cette évaluation est établi par le chef d'établissement (ou du centre de formation dans le cas d'un CFA habilité à pratiquer le CCF) après consultation des enseignants concernés. Ces derniers peuvent proposer, au sein de la période considérée, un ordre de passage des candidats qui tient compte de leur degré de maîtrise des compétences à évaluer. Les candidats reçoivent une convocation du chef d'établissement ou du directeur de centre de formation.
 
-L'évaluation est conduite par les professeurs et/ou les formateurs enseignant les langues concernées dans l'établissement quelles que soient les classes ou groupes d'élèves qui leur sont confiés. Elle peut être organisée de manière à ce que les professeurs n'évaluent pas leurs élèves de l'année en cours.
+L'évaluation est conduite par les professeurs et/ ou les formateurs enseignant les langues concernées dans l'établissement quelles que soient les classes ou groupes d'élèves qui leur sont confiés. Elle peut être organisée de manière à ce que les professeurs n'évaluent pas leurs élèves de l'année en cours.
 
 La situation d'évaluation se compose de trois parties, chacune d'une durée maximale de cinq minutes. Aucune de ces trois parties n'est précédée d'un temps de préparation.
 
@@ -1252,11 +1252,11 @@ La première partie vise à évaluer la capacité du candidat à prendre la paro
 
 Ces trois thèmes ou sujets peuvent relever d'un ou plusieurs des domaines suivants :
 
-- celui des projets ou réalisations mis en œuvre par le candidat au cours de sa formation au baccalauréat professionnel ;
+-celui des projets ou réalisations mis en œuvre par le candidat au cours de sa formation au baccalauréat professionnel ;
 
-- celui de ses expériences professionnelles ou personnelles liées à son étude ou sa pratique de la langue étrangère concernée ;
+-celui de ses expériences professionnelles ou personnelles liées à son étude ou sa pratique de la langue étrangère concernée ;
 
-- celui de la culture quotidienne, contemporaine ou patrimoniale du ou des pays où la langue étrangère étudiée est parlée, le candidat pouvant s'exprimer sur une œuvre étrangère (œuvre littéraire, picturale, musicale, architecturale, cinématographique, etc.), sur un objet ou produit du design industriel, de la tradition culinaire, de l'artisanat, etc., sur une manifestation ou un événement (artistique, sportif, politique, historique, etc.).
+-celui de la culture quotidienne, contemporaine ou patrimoniale du ou des pays où la langue étrangère étudiée est parlée, le candidat pouvant s'exprimer sur une œuvre étrangère (œuvre littéraire, picturale, musicale, architecturale, cinématographique, etc.), sur un objet ou produit du design industriel, de la tradition culinaire, de l'artisanat, etc., sur une manifestation ou un événement (artistique, sportif, politique, historique, etc.).
 
 Le professeur choisit un des thèmes ou sujets proposés et invite le candidat à s'exprimer. Ce dernier dispose de cinq minutes maximum pour présenter, à l'oral et en langue étrangère, le thème ou le sujet en question. Au cours de cette phase d'expression en continu, le professeur doit laisser le candidat aller au bout de ce qu'il souhaite dire et veiller à ne pas l'interrompre, quelles que soient ses éventuelles hésitations.
 
@@ -1280,11 +1280,11 @@ La proposition de note attribuée à l'unité langue vivante du diplôme du bacc
 
 Cette épreuve est une épreuve orale.
 
-- Compétences évaluées : expression orale en continu, interaction orale et compréhension de l'écrit.
+-Compétences évaluées : expression orale en continu, interaction orale et compréhension de l'écrit.
 
-- Niveau attendu en référence à l'échelle de niveaux du CECRL : B1+.
+-Niveau attendu en référence à l'échelle de niveaux du CECRL : B1 +.
 
-- Durée : 15 minutes, précédées d'un temps de préparation de 5 minutes pour la première partie de l'épreuve ; partie 1 et partie 2 : 5 minutes maximum chacune, notées pour un total de 20 points ; partie 3 : 5 minutes maximum, notée sur 10.
+-Durée : 15 minutes, précédées d'un temps de préparation de 5 minutes pour la première partie de l'épreuve ; partie 1 et partie 2 : 5 minutes maximum chacune, notées pour un total de 20 points ; partie 3 : 5 minutes maximum, notée sur 10.
 
 Cette épreuve est organisée par le recteur d'académie dans un centre d'examen. Le candidat reçoit une convocation.
 
@@ -1318,21 +1318,21 @@ Pour chaque candidat, le professeur établit son évaluation à partir de la fic
 
 La proposition de note attribuée à l'unité langue vivante du diplôme du baccalauréat professionnel est constituée de la moyenne des notes obtenues à chacune des composantes de l'épreuve. Elle est, le cas échéant, arrondie au demi-point le plus proche. La note finale est arrêtée par le jury.
 
-E5 - Épreuve de français et histoire-géographie et éducation civique - U5 - coefficient 5
+E5-Épreuve de français et histoire-géographie et enseignement moral et civique-U5-coefficient 5
 
-Sous-épreuve E51 - Français - U51 - coefficient 2,5
+Sous-épreuve E51-Français-U51-coefficient 2,5
 
-Évaluation sous forme ponctuelle - durée 2h30
+Évaluation sous forme ponctuelle-durée 2h30
 
 Support : un corpus de textes et documents (2 à 3) référé à l'un des objets d'étude de l'année de terminale.
 
 Première partie : compétences de lecture (10 points)
 
-- Question portant sur le corpus : Présentation du corpus
+-Question portant sur le corpus : Présentation du corpus
 
 Le candidat rédige quelques lignes (de 3 à 6 environ) pour présenter les relations que les documents proposés dans le corpus entretiennent entre eux.
 
-- Question(s) portant sur un ou des documents du corpus : Analyse et interprétation
+-Question (s) portant sur un ou des documents du corpus : Analyse et interprétation
 
 Le candidat analyse un ou deux effets d'écriture (inscrits dans le libellé de la ou des deux questions) et en propose une interprétation.
 
@@ -1350,11 +1350,11 @@ Première situation d'évaluation : compétences de lecture (durée maximale : 1
 
 Support : un corpus de textes et documents (2 à 3) référé à l'un des trois objets d'étude de la dernière année de formation
 
-- Question portant sur le corpus : Présentation du corpus (6 points)
+-Question portant sur le corpus : Présentation du corpus (6 points)
 
 Le candidat rédige quelques lignes (de 3 à 6 environ) pour présenter les relations que les documents proposés dans le corpus entretiennent entre eux.
 
-- Question(s) portant sur un ou des documents du corpus : Analyse et interprétation (notée sur 14)
+-Question (s) portant sur un ou des documents du corpus : Analyse et interprétation (notée sur 14)
 
 Le candidat analyse un ou deux effets d'écriture (inscrits dans le libellé de la ou des deux questions) et en propose une interprétation.
 
@@ -1366,29 +1366,29 @@ Lors de la situation d'évaluation, un sujet est proposé aux candidats ; ce suj
 
 Le candidat répond à cette question en une quarantaine de lignes et de façon argumentée
 
-Sous-épreuve E52 - Histoire-géographie et éducation civique - U52 - coefficient 2,5
+Sous-épreuve E52-Histoire-géographie et enseignement moral et civique-U52-coefficient 2,5
 
-Évaluation sous forme ponctuelle - durée 2h
+Évaluation sous forme ponctuelle-durée 2h
 
-L'examen de baccalauréat professionnel évalue la maîtrise des savoirs et des capacités en histoire-géographie et éducation civique définis dans les programmes de la classe de terminale professionnelle.
+L'examen de baccalauréat professionnel évalue la maîtrise des savoirs et des capacités en histoire-géographie et enseignement moral et civique définis dans les programmes de la classe de terminale professionnelle.
 
-L'épreuve, d'une durée de deux heures, comporte trois parties, notées respectivement 9, 4 et 7 points.
+L'épreuve, d'une durée de deux heures, comporte trois parties, notées respectivement 9,4 et 7 points.
 
 La première partie porte sur les sujets d'étude, soit d'histoire soit de géographie. Elle propose deux sujets au choix. Chaque sujet est composé d'une ou plusieurs questions et peut comporter un support documentaire.
 
-La deuxième partie porte sur le programme d'éducation civique. Elle est composée d'une question et peut comporter un support documentaire.
+La deuxième partie porte sur le programme d' enseignement moral et civique. Elle est composée d'une question et peut comporter un support documentaire.
 
-La troisième partie porte sur la discipline qui n'est pas l'objet de la première partie. Elle consiste en une analyse de document(s) portant sur les situations d'un des sujets d'étude.
+La troisième partie porte sur la discipline qui n'est pas l'objet de la première partie. Elle consiste en une analyse de document (s) portant sur les situations d'un des sujets d'étude.
 
 Évaluation par contrôle en cours de formation
 
-Le contrôle en cours de formation évalue la maîtrise des savoirs et des capacités en histoire, géographie et éducation civique définis dans les programmes de la classe de terminale professionnelle. Il est constitué de deux situations d'évaluation.
+Le contrôle en cours de formation évalue la maîtrise des savoirs et des capacités en histoire, géographie et enseignement moral et civique définis dans les programmes de la classe de terminale professionnelle. Il est constitué de deux situations d'évaluation.
 
-La première situation porte sur les sujets d'étude soit d'histoire soit de géographie. Elle est composée d'une ou plusieurs questions et peut comporter un support documentaire. Une des questions doit avoir une connotation civique en rapport avec le programme d'éducation civique.
+La première situation porte sur les sujets d'étude soit d'histoire soit de géographie. Elle est composée d'une ou plusieurs questions et peut comporter un support documentaire. Une des questions doit avoir une connotation civique en rapport avec le programme d' enseignement moral et civique.
 
-La deuxième situation porte sur la discipline qui n'a pas été l'objet de la première épreuve. Elle consiste en une analyse de document(s). Elle porte sur les situations d'un des sujets d'étude.
+La deuxième situation porte sur la discipline qui n'a pas été l'objet de la première épreuve. Elle consiste en une analyse de document (s). Elle porte sur les situations d'un des sujets d'étude.
 
-E6 - Épreuve d'arts appliqués et cultures artistiques - U6 - coefficient 1
+E6-Épreuve d'arts appliqués et cultures artistiques-U6-coefficient 1
 
 Contrôle en cours de formation
 
@@ -1396,7 +1396,7 @@ Le contrôle en cours de formation comporte deux situations d'évaluation organi
 
 Sur un sujet personnel, défini en accord avec le professeur d'arts appliqués, le candidat constitue un dossier. Ce dossier est réalisé en classe, sur une durée limitée.
 
-Le sujet porte sur le contenu d'un des champs du programme : Appréhender son espace de vie , Construire son identité culturelle , Élargir sa culture artistique . Une partie histoire des arts est clairement identifiée.
+Le sujet porte sur le contenu d'un des champs du programme : Appréhender son espace de vie, Construire son identité culturelle, Élargir sa culture artistique. Une partie histoire des arts est clairement identifiée.
 
 Première situation
 
@@ -1408,13 +1408,13 @@ Critères d'évaluation
 
 Le candidat montre qu'il est capable de repérer de façon autonome les caractéristiques essentielles d'œuvres, de produits, d'espaces urbains ou de messages visuels. À cette fin, il doit :
 
-- collecter et sélectionner une documentation (visuelle, textuelle, sonore, etc.) ;
+-collecter et sélectionner une documentation (visuelle, textuelle, sonore, etc.) ;
 
-- porter un regard critique sur les références recueillies ;
+-porter un regard critique sur les références recueillies ;
 
-- les commenter graphiquement et par écrit ;
+-les commenter graphiquement et par écrit ;
 
-- les présenter de façon lisible et expressive.
+-les présenter de façon lisible et expressive.
 
 Cette partie compte pour 30 % de la note globale.
 
@@ -1428,13 +1428,13 @@ Critères d'évaluation
 
 Le candidat montre qu'il est sensibilisé à son environnement culturel en appuyant sa réflexion sur des connaissances précises, notamment en histoire des arts, et qu'il a acquis les principes élémentaires de la démarche créative. À cette fin, il doit :
 
-- situer une œuvre ou une production dans son contexte de création ;
+-situer une œuvre ou une production dans son contexte de création ;
 
-- explorer des axes de recherche en réponse à une question simple et s'engager dans un projet ;
+-explorer des axes de recherche en réponse à une question simple et s'engager dans un projet ;
 
-- maîtriser les bases de la pratique des outils graphiques, traditionnels et informatiques ;
+-maîtriser les bases de la pratique des outils graphiques, traditionnels et informatiques ;
 
-- s'exprimer dans un langage correct et précis en utilisant le vocabulaire technique approprié.
+-s'exprimer dans un langage correct et précis en utilisant le vocabulaire technique approprié.
 
 Cette partie compte pour 70 % de la note globale.
 
@@ -1444,31 +1444,31 @@ Durée : 1 heure 30
 
 Le sujet pose une question simple à partir d'un ensemble documentaire limité (3 formats A4 maximum).
 
-Les documents relèvent des champs 1 : Appréhender son espace de vie , 2 : Construire son identité culturelle et 3 : Élargir sa culture artistique ; ils intègrent la dimension histoire des arts.
+Les documents relèvent des champs 1 : Appréhender son espace de vie, 2 : Construire son identité culturelle et 3 : Élargir sa culture artistique ; ils intègrent la dimension histoire des arts.
 
 Critères d'évaluation
 
 Le candidat choisit l'un des champs et doit montrer qu'il est capable :
 
-- de situer une œuvre ou une production dans son contexte de création ;
+-de situer une œuvre ou une production dans son contexte de création ;
 
-- de porter un regard critique sur les références proposées ;
+-de porter un regard critique sur les références proposées ;
 
-- de les commenter graphiquement et par écrit ;
+-de les commenter graphiquement et par écrit ;
 
-- de proposer, sous forme graphique et écrite, une réponse argumentée à la question posée.
+-de proposer, sous forme graphique et écrite, une réponse argumentée à la question posée.
 
-E7 - Épreuve d'éducation physique et sportive - U7 - coefficient 1
+E7-Épreuve d'éducation physique et sportive-U7-coefficient 1
 
 Évaluation ponctuelle et par contrôle en cours de formation
 
 Les modalités de l'épreuve d'éducation physique et sportive sont définies par l'arrêté du 15 juillet 2009 relatif aux modalités d'organisation du contrôle en cours de formation et de l'examen terminal pour l'éducation physique et sportive aux examens du baccalauréat professionnel, du certificat d'aptitude professionnelle et du brevet d'études professionnelles (Journal officiel du 31 juillet 2009, BOEN du 27 août 2009) et la note de service n° 2009-141 du 8 octobre 2009 relative à l'éducation physique et sportive aux examens du baccalauréat professionnel, du certificat d'aptitude professionnelle et du brevet d'études professionnelles (BOEN du 12 novembre 2009).
 
-Épreuve facultative - Langue vivante - UF1
+Épreuve facultative-Langue vivante-UF1
 
 Épreuve orale d'une durée de 15 minutes, précédée d'un temps de préparation de 5 minutes pour la première partie de l'épreuve. Partie 1 et partie 2 : 5 minutes maximum chacune, notées pour un total de 20 points. Partie 3 : 5 minutes maximum, notée sur 10.
 
-Niveau attendu en référence à l'échelle de niveaux du CECRL : B1+.
+Niveau attendu en référence à l'échelle de niveaux du CECRL : B1 +.
 
 Cette épreuve est organisée par le recteur d'académie dans un centre d'examen. Le candidat reçoit une convocation.
 
@@ -1516,9 +1516,9 @@ Déroulement de l'épreuve
 
 Pendant le temps de préparation de 30 minutes, l'examinateur propose au candidat deux documents :
 
-- un document iconographique contemporain ;
+-un document iconographique contemporain ;
 
-- un texte contemporain, écrit en français, d'une longueur maximale de 2 000 signes typographiques.
+-un texte contemporain, écrit en français, d'une longueur maximale de 2 000 signes typographiques.
 
 Au cours de la même journée d'interrogation, chaque examinateur veillera à proposer deux documents différents à chaque candidat.
 
@@ -1536,16 +1536,20 @@ Le candidat doit :
 
 Pour la présentation du document (durée : 5 minutes, notée sur 10 points) :
 
-- être capable de rendre compte du contenu du document qui lui est proposé, pouvoir le décrire, expliciter la situation ou le thème présenté, apporter un commentaire personnel s'il le juge approprié ou pertinent ;
+-être capable de rendre compte du contenu du document qui lui est proposé, pouvoir le décrire, expliciter la situation ou le thème présenté, apporter un commentaire personnel s'il le juge approprié ou pertinent ;
 
-- faire la preuve de sa capacité à signer clairement, à un rythme naturel et à un niveau qui n'entrave pas la transmission de sa présentation.
+-faire la preuve de sa capacité à signer clairement, à un rythme naturel et à un niveau qui n'entrave pas la transmission de sa présentation.
 
 Pour l'entretien (durée : 25 minutes, noté sur 10 points) :
 
-- comprendre des signes familiers et fréquents portant sur des domaines familiers ou des questions d'actualité que l'examinateur utilise de façon naturelle ;
+-comprendre des signes familiers et fréquents portant sur des domaines familiers ou des questions d'actualité que l'examinateur utilise de façon naturelle ;
 
-- être capable de faire face à une situation de communication où il lui est demandé de bien recevoir un message ou une question, afin de pouvoir réagir ou répondre en s'exprimant à son tour par des signes clairs et à un rythme convenable ;
+-être capable de faire face à une situation de communication où il lui est demandé de bien recevoir un message ou une question, afin de pouvoir réagir ou répondre en s'exprimant à son tour par des signes clairs et à un rythme convenable ;
 
-- faire la preuve d'une certaine aisance : signer en continu pour exprimer ou défendre un point de vue, argumenter, voire apporter une contradiction.
+-faire la preuve d'une certaine aisance : signer en continu pour exprimer ou défendre un point de vue, argumenter, voire apporter une contradiction.
 
 Le candidat, tout comme l'examinateur, peut étendre la discussion sur d'autres points sans lien direct avec le document.
+
+NOTA :
+
+Conformément à l’article 8 de l’arrêté du 2 février 2022, ces dispositions s’appliquent à l'issue de la dernière session d’examen qui aura lieu en 2024.

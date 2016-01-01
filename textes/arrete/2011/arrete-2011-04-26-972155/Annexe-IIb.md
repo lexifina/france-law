@@ -506,7 +506,7 @@ CCF
 
 Sous-épreuve E52
 
-Histoire-Géographie et Éducation civique
+Histoire-Géographie et Enseignement moral et civique
 
 |
 

@@ -310,7 +310,7 @@ U 33
 
 |
 
-Sous-épreuve E 34 : Économie - gestion
+Sous-épreuve E 34 : Économie-gestion
 
 |
 
@@ -318,7 +318,7 @@ U 34
 
 |
 
-Sous-épreuve E34 : Économie - gestion
+Sous-épreuve E34 : Économie-gestion
 
 |
 
@@ -376,13 +376,13 @@ E 5 : Épreuve de français, histoire et géographie
 
 |
 
-E 5 : Épreuve de français, histoire géographie et éducation civique
+E 5 : Épreuve de français, histoire géographie et enseignement moral et civique
 
 |
 
 |
 
-E 5 : Épreuve de français, histoire géographie et éducation civique
+E 5 : Épreuve de français, histoire géographie et enseignement moral et civique
 
 |
 
@@ -420,7 +420,7 @@ U 52
 
 |
 
-Sous-épreuve B 5 : Histoire géographie et éducation civique
+Sous-épreuve B 5 : Histoire géographie et enseignement moral et civique
 
 |
 
@@ -428,7 +428,7 @@ U 52
 
 |
 
-Sous-épreuve 52 : Histoire géographie et éducation civique
+Sous-épreuve 52 : Histoire géographie et enseignement moral et civique
 
 |
 

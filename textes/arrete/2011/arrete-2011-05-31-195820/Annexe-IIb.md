@@ -72,11 +72,11 @@ Mode
 
 |
 
-E1 - Épreuve scientifique et technique
+E1-Épreuve scientifique et technique
 
 |
 
-U.1
+U. 1
 
 |
 
@@ -96,7 +96,7 @@ U.1
 
 |
 
-E11 - Sous-épreuve de technologie
+E11-Sous-épreuve de technologie
 
 |
 
@@ -128,7 +128,7 @@ CCF écrit (1)
 
 |
 
-E12 - Sous-épreuve de sciences appliquées
+E12-Sous-épreuve de sciences appliquées
 
 |
 
@@ -160,7 +160,7 @@ CCF écrit (1)
 
 |
 
-E13 - Sous-épreuve de mathématiques
+E13-Sous-épreuve de mathématiques
 
 |
 
@@ -192,11 +192,11 @@ CCF écrit
 
 |
 
-E2 - Épreuve de gestion et de dossier professionnel
+E2-Épreuve de gestion et de dossier professionnel
 
 |
 
-U.2
+U. 2
 
 |
 
@@ -216,7 +216,7 @@ U.2
 
 |
 
-E21- Sous-épreuve de mercatique et de gestion appliquée
+E21-Sous-épreuve de mercatique et de gestion appliquée
 
 |
 
@@ -248,7 +248,7 @@ CCF écrit (1)
 
 |
 
-E22 - Sous-épreuve de présentation du dossier
+E22-Sous-épreuve de présentation du dossier
 
 |
 
@@ -280,11 +280,11 @@ CCF oral
 
 |
 
-E.3 - Épreuve professionnelle
+E. 3-Épreuve professionnelle
 
 |
 
-U.3
+U. 3
 
 |
 
@@ -304,11 +304,11 @@ U.3
 
 |
 
-E31 - Sous-épreuve de communication et commercialisation
+E31-Sous-épreuve de communication et commercialisation
 
 |
 
-U.31
+U. 31
 
 |
 
@@ -336,11 +336,11 @@ CCF écrit, oral et pratique
 
 |
 
-E32 - Sous-épreuve d'organisation et mise en oeuvre d'un service
+E32-Sous-épreuve d'organisation et mise en oeuvre d'un service
 
 |
 
-U.32
+U. 32
 
 |
 
@@ -368,11 +368,11 @@ CCF écrit, oral et pratique
 
 |
 
-E33 - Sous-épreuve prévention-santé-environnement
+E33-Sous-épreuve prévention-santé-environnement
 
 |
 
-U.33
+U. 33
 
 |
 
@@ -396,11 +396,11 @@ CCF
 
 |
 
-E.4 - Épreuve d'anglais
+E. 4-Épreuve d'anglais
 
 |
 
-U.4
+U. 4
 
 |
 
@@ -424,11 +424,11 @@ CCF
 
 |
 
-E.5 - Épreuve de français-histoire-géographie-éducation civique
+E. 5-Épreuve de français-histoire-géographie- enseignement moral et civique
 
 |
 
-U.5
+U. 5
 
 |
 
@@ -448,11 +448,11 @@ U.5
 
 |
 
-E51 - Sous épreuve de français
+E51-Sous épreuve de français
 
 |
 
-U.51
+U. 51
 
 |
 
@@ -482,11 +482,11 @@ CCF
 
 |
 
-E52 - Sous-épreuve d'histoire-géographie-éducation civique
+E52-Sous-épreuve d'histoire-géographie- enseignement moral et civique
 
 |
 
-U.52
+U. 52
 
 |
 
@@ -516,11 +516,11 @@ CCF
 
 |
 
-E.6 - Épreuve d'éducation artistique, arts appliqués
+E. 6-Épreuve d'éducation artistique, arts appliqués
 
 |
 
-U.6
+U. 6
 
 |
 
@@ -548,11 +548,11 @@ CCF
 
 |
 
-E.7 - Épreuve d'éducation physique et sportive
+E. 7-Épreuve d'éducation physique et sportive
 
 |
 
-U.7
+U. 7
 
 |
 

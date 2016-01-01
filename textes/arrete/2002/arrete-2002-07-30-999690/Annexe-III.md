@@ -474,7 +474,7 @@ CCF
 
 EPREUVE E5 :
 
-français, histoire-géographie éducation civique
+français, histoire-géographie enseignement moral et civique
 
 |
 
@@ -534,7 +534,7 @@ CCF
 
 Sous-épreuve E52 :
 
-histoire-géographie éducation civique
+histoire-géographie enseignement moral et civique
 
 |
 
@@ -1032,7 +1032,7 @@ CCF
 
 |
 
-EPREUVE E4:
+EPREUVE E4 :
 
 langues vivantes
 
@@ -1122,7 +1122,7 @@ CCF
 
 EPREUVE E5 :
 
-français, histoire-géographie éducation civique
+français, histoire-géographie enseignement moral et civique
 
 |
 
@@ -1178,7 +1178,7 @@ CCF
 
 |
 
-Sous-épreuve E52 : histoire-géographie -éducation civique
+Sous-épreuve E52 : histoire-géographie- enseignement moral et civique
 
 |
 

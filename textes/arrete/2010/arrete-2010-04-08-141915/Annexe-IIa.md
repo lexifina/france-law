@@ -8,33 +8,33 @@ UNITES PROFESSIONNELLES
 
 La définition du contenu des unités professionnelles du diplôme a pour but de préciser, pour chacune d'elles, quelles tâches et compétences professionnelles sont concernées et dans quel contexte. Il s'agit à la fois de :
 
-• permettre la mise en correspondance des activités professionnelles et des unités dans le cadre du dispositif de "validation des acquis de l'expérience" (VAE).
+• permettre la mise en correspondance des activités professionnelles et des unités dans le cadre du dispositif de " validation des acquis de l'expérience " (VAE).
 
 • établir la liaison entre les unités, correspondant aux épreuves, et le référentiel d'activités professionnelles afin de préciser le cadre de l'évaluation.
 
-U11/E1 (sous-épreuve E11) - MATHEMATIQUES
+U11/ E1 (sous-épreuve E11)-MATHEMATIQUES
 
 La sous-épreuve mathématiques est constituée des éléments définis pour le groupement B du programme de mathématiques établi par l'arrêté du 10 février 2009 précité.
 
-U12/E1 (sous-épreuve E12) -SCIENCES PHYSIQUES ET CHIMIQUES
+U12/ E1 (sous-épreuve E12)-SCIENCES PHYSIQUES ET CHIMIQUES
 
 La sous-épreuve sciences physiques et chimiques comprend les unités spécifiques suivantes du programme de sciences physiques et chimiques établi par l'arrêté du 10 février 2009 précité :
 
 HS5 et HS6 (hygiène, santé, chimie organique)
 
-U34/E3 (sous-épreuve E34) -ECONOMIE - GESTION
+U34/ E3 (sous-épreuve E34)-ECONOMIE-GESTION
 
-U35/E3 (sous-épreuve E35) -PREVENTION - SANTE - ENVIRONNEMENT
+U35/ E3 (sous-épreuve E35)-PREVENTION-SANTE-ENVIRONNEMENT
 
 MISE EN RELATION DES COMPETENCES ET DES SAVOIRS ASSOCIES
 
 |
 
-U21/E2 (sous-épreuve E21) - Technologie professionnelle et dessin morphologique
+U21/ E2 (sous-épreuve E21)-Technologie professionnelle et dessin morphologique
 
 |
 
-COMPETENCES / SAVOIRS ASSOCIES
+COMPETENCES/ SAVOIRS ASSOCIES
 
 |
 
@@ -290,7 +290,7 @@ x
 
 |
 
-C4.2 Confectionner des modèles primaires, secondaires et des duplicatas pour prothèse amovible partielle ou maxillo-mandibulaire., des modèles d'orthodontie et des modèles pour prothèse fixée
+C4. 2 Confectionner des modèles primaires, secondaires et des duplicatas pour prothèse amovible partielle ou maxillo-mandibulaire., des modèles d'orthodontie et des modèles pour prothèse fixée
 
 |
 
@@ -316,7 +316,7 @@ x
 
 |
 
-C4.3 Régler l'articulateur, transférer tous types de modèles sur l'articulateur et confectionner la table de montage individualisée
+C4. 3 Régler l'articulateur, transférer tous types de modèles sur l'articulateur et confectionner la table de montage individualisée
 
 |
 
@@ -340,7 +340,7 @@ x
 
 |
 
-C4.4 Confectionner des PEI et les maquettes d'occlusion pour prothèse amovible et fixée.
+C4. 4 Confectionner des PEI et les maquettes d'occlusion pour prothèse amovible et fixée.
 
 |
 
@@ -414,7 +414,7 @@ x
 
 |
 
-C47 Réaliser des maquettes de PPAMde façon traditionnel et en C.A.O et F.A.O
+C47 Réaliser des maquettes de PPAMde façon traditionnel et en C. A. O et F. A. O
 
 |
 
@@ -440,7 +440,7 @@ x
 
 |
 
-C48 Transformer des maquettes de méthode traditionnelle ou issues de FAO(cire ou résine)en prothèse amovible ou en prothèse fixée
+C48 Transformer des maquettes de méthode traditionnelle ou issues de FAO (cire ou résine) en prothèse amovible ou en prothèse fixée
 
 |
 
@@ -684,7 +684,7 @@ x
 
 |
 
-C5.1 Contrôler l'ajustage et la fonction des éléments réalisés
+C5. 1 Contrôler l'ajustage et la fonction des éléments réalisés
 
 |
 
@@ -704,7 +704,7 @@ x
 
 |
 
-C5.2 Contrôle en cours de fabrication
+C5. 2 Contrôle en cours de fabrication
 
 |
 
@@ -728,7 +728,7 @@ x
 
 |
 
-C5.3 Contrôler la conformité du produit fini
+C5. 3 Contrôler la conformité du produit fini
 
 |
 
@@ -748,7 +748,7 @@ x
 
 |
 
-C5.4 Enregistrer les éléments de traçabilité
+C5. 4 Enregistrer les éléments de traçabilité
 
 |
 
@@ -768,7 +768,7 @@ x
 
 |
 
-C6.1 Assurer les opérations de maintenance
+C6. 1 Assurer les opérations de maintenance
 
 |
 
@@ -788,7 +788,7 @@ x
 
 |
 
-C6.2 Maintenir le poste de travail opérationnel
+C6. 2 Maintenir le poste de travail opérationnel
 
 |
 
@@ -806,7 +806,7 @@ x
 
 |
 
-C6.3 Gérer l'évacuation des produits ou déchets et le tri sélectif
+C6. 3 Gérer l'évacuation des produits ou déchets et le tri sélectif
 
 |
 
@@ -826,11 +826,11 @@ x
 
 ..
 
-E22/E2 (Sous-épreuve E22) - Hygiène et règlementation appliquées au laboratoire
+E22/ E2 (Sous-épreuve E22)-Hygiène et règlementation appliquées au laboratoire
 
 |
 
-COMPETENCES / SAVOIRS ASSOCIES
+COMPETENCES/ SAVOIRS ASSOCIES
 
 |
 
@@ -1028,7 +1028,7 @@ x
 
 |
 
-C4.2 Confectionner des modèles primaires, secondaires et des duplicatas pour prothèse amovible partielle ou maxillo-mandibulaire., des modèles d'orthodontie et des modèles pour prothèse fixée
+C4. 2 Confectionner des modèles primaires, secondaires et des duplicatas pour prothèse amovible partielle ou maxillo-mandibulaire., des modèles d'orthodontie et des modèles pour prothèse fixée
 
 |
 
@@ -1046,7 +1046,7 @@ x
 
 |
 
-C4.3 Régler l'articulateur, transférer tous types de modèles sur l'articulateur et confectionner la table de montage individualisée
+C4. 3 Régler l'articulateur, transférer tous types de modèles sur l'articulateur et confectionner la table de montage individualisée
 
 |
 
@@ -1064,7 +1064,7 @@ x
 
 |
 
-C4.4 Confectionner des PEI et les maquettes d'occlusion pour prothèse amovible et fixée
+C4. 4 Confectionner des PEI et les maquettes d'occlusion pour prothèse amovible et fixée
 
 |
 
@@ -1118,7 +1118,7 @@ x
 
 |
 
-C47 Réaliser des maquettes de châssis de façon traditionnel et en C.A.O et F.A.O
+C47 Réaliser des maquettes de châssis de façon traditionnel et en C. A. O et F. A. O
 
 |
 
@@ -1316,7 +1316,7 @@ x
 
 |
 
-C5.1 Contrôler l'ajustage et la fonction des éléments réalisés
+C5. 1 Contrôler l'ajustage et la fonction des éléments réalisés
 
 |
 
@@ -1334,7 +1334,7 @@ x
 
 |
 
-C5.2 Contrôle en cours de fabrication
+C5. 2 Contrôle en cours de fabrication
 
 |
 
@@ -1352,7 +1352,7 @@ x
 
 |
 
-C5.3 Contrôler la conformité du produit fini
+C5. 3 Contrôler la conformité du produit fini
 
 |
 
@@ -1370,7 +1370,7 @@ x
 
 |
 
-C5.4 Enregistrer les éléments de traçabilité
+C5. 4 Enregistrer les éléments de traçabilité
 
 |
 
@@ -1388,7 +1388,7 @@ x
 
 |
 
-C6.1 Assurer les opérations de maintenance
+C6. 1 Assurer les opérations de maintenance
 
 |
 
@@ -1406,7 +1406,7 @@ x
 
 |
 
-C6.2 Maintenir le poste de travail opérationnel
+C6. 2 Maintenir le poste de travail opérationnel
 
 |
 
@@ -1424,7 +1424,7 @@ x
 
 |
 
-C6.3 Gérer l'évacuation des produits ou déchets et le tri sélectif
+C6. 3 Gérer l'évacuation des produits ou déchets et le tri sélectif
 
 |
 
@@ -1448,11 +1448,11 @@ MISE EN RELATION DES COMPETENCES ET DES SAVOIRS ASSOCIES
 
 |
 
-U31/E3 (Sous-épreuve E31) Pratique professionnelle 1 - Prothèse adjointe totale maxillo-mandibulaire et orthodontie
+U31/ E3 (Sous-épreuve E31) Pratique professionnelle 1-Prothèse adjointe totale maxillo-mandibulaire et orthodontie
 
 |
 
-COMPETENCES / SAVOIRS ASSOCIES
+COMPETENCES/ SAVOIRS ASSOCIES
 
 |
 
@@ -1686,7 +1686,7 @@ x
 
 |
 
-C4.2 Confectionner des modèles primaires, secondaires et des duplicatas pour prothèse amovible partielle ou maxillo-mandibulaire., des modèles d'orthodontie et des modèles pour prothèse fixée
+C4. 2 Confectionner des modèles primaires, secondaires et des duplicatas pour prothèse amovible partielle ou maxillo-mandibulaire., des modèles d'orthodontie et des modèles pour prothèse fixée
 
 |
 
@@ -1714,7 +1714,7 @@ x
 
 |
 
-C4.3 Régler l'articulateur, transférer tous types de modèles sur l'articulateur et confectionner la table de montage individualisée
+C4. 3 Régler l'articulateur, transférer tous types de modèles sur l'articulateur et confectionner la table de montage individualisée
 
 |
 
@@ -1742,7 +1742,7 @@ x
 
 |
 
-C4.4 Confectionner des PEI et les maquettes d'occlusion pour prothèse amovible et fixée.
+C4. 4 Confectionner des PEI et les maquettes d'occlusion pour prothèse amovible et fixée.
 
 |
 
@@ -1826,7 +1826,7 @@ x
 
 |
 
-C47 Réaliser des maquettes de châssis de façon traditionnel et en C.A.O et F.A.O
+C47 Réaliser des maquettes de châssis de façon traditionnel et en C. A. O et F. A. O
 
 |
 
@@ -2134,7 +2134,7 @@ x
 
 |
 
-C5.1 Contrôler l'ajustage et la fonction des éléments réalisés
+C5. 1 Contrôler l'ajustage et la fonction des éléments réalisés
 
 |
 
@@ -2162,7 +2162,7 @@ x
 
 |
 
-C5.2 Contrôle en cours de fabrication
+C5. 2 Contrôle en cours de fabrication
 
 |
 
@@ -2190,7 +2190,7 @@ x
 
 |
 
-C5.3 Contrôler la conformité du produit fini
+C5. 3 Contrôler la conformité du produit fini
 
 |
 
@@ -2218,7 +2218,7 @@ x
 
 |
 
-C5.4 Enregistrer les éléments de traçabilité
+C5. 4 Enregistrer les éléments de traçabilité
 
 |
 
@@ -2246,7 +2246,7 @@ x
 
 |
 
-C6.1 Assurer les opérations de maintenance
+C6. 1 Assurer les opérations de maintenance
 
 |
 
@@ -2274,7 +2274,7 @@ x
 
 |
 
-C6.2 Maintenir le poste de travail opérationnel
+C6. 2 Maintenir le poste de travail opérationnel
 
 |
 
@@ -2302,7 +2302,7 @@ x
 
 |
 
-C6.3 Gérer l'évacuation des produits ou déchets et le tri sélectif
+C6. 3 Gérer l'évacuation des produits ou déchets et le tri sélectif
 
 |
 
@@ -2336,11 +2336,11 @@ MISE EN RELATION DES COMPETENCES ET DES SAVOIRS ASSOCIES
 
 |
 
-U32/E3 (Sous-épreuve E32) - Pratique professionnelle 2 - Prothèse partielle métallique, prothèse fixée et CAO
+U32/ E3 (Sous-épreuve E32)-Pratique professionnelle 2-Prothèse partielle métallique, prothèse fixée et CAO
 
 |
 
-COMPETENCES / SAVOIRS ASSOCIES
+COMPETENCES/ SAVOIRS ASSOCIES
 
 |
 
@@ -2570,7 +2570,7 @@ x
 
 |
 
-C4.2 Confectionner des modèles primaires, secondaires et des duplicatas pour prothèse amovible partielle ou maxillo-mandibulaire, des modèles d'orthodontie et des modèles pour prothèse fixée
+C4. 2 Confectionner des modèles primaires, secondaires et des duplicatas pour prothèse amovible partielle ou maxillo-mandibulaire, des modèles d'orthodontie et des modèles pour prothèse fixée
 
 |
 
@@ -2598,7 +2598,7 @@ x
 
 |
 
-C4.3 Régler l'articulateur, transférer tous types de modèles sur l'articulateur et confectionner la table de montage individualisée
+C4. 3 Régler l'articulateur, transférer tous types de modèles sur l'articulateur et confectionner la table de montage individualisée
 
 |
 
@@ -2626,7 +2626,7 @@ x
 
 |
 
-C4.4 Confectionner des PEI et les maquettes d'occlusion pour prothèse amovible et fixée
+C4. 4 Confectionner des PEI et les maquettes d'occlusion pour prothèse amovible et fixée
 
 |
 
@@ -2708,7 +2708,7 @@ x
 
 |
 
-C47 Réaliser des maquettes de châssis de façon traditionnel et en C.A.O et F.A.O
+C47 Réaliser des maquettes de châssis de façon traditionnel et en C. A. O et F. A. O
 
 |
 
@@ -3006,7 +3006,7 @@ x
 
 |
 
-C5.1 Contrôler l'ajustage et la fonction des éléments réalisés
+C5. 1 Contrôler l'ajustage et la fonction des éléments réalisés
 
 |
 
@@ -3034,7 +3034,7 @@ x
 
 |
 
-C5.2 Contrôle en cours de fabrication
+C5. 2 Contrôle en cours de fabrication
 
 |
 
@@ -3062,7 +3062,7 @@ x
 
 |
 
-C5.3 Contrôler la conformité du produit fini
+C5. 3 Contrôler la conformité du produit fini
 
 |
 
@@ -3086,7 +3086,7 @@ x
 
 |
 
-C5.4 Enregistrer les éléments de traçabilité
+C5. 4 Enregistrer les éléments de traçabilité
 
 |
 
@@ -3110,7 +3110,7 @@ x
 
 |
 
-C6.1 Assurer les opérations de maintenance
+C6. 1 Assurer les opérations de maintenance
 
 |
 
@@ -3134,7 +3134,7 @@ x
 
 |
 
-C6.2 Maintenir le poste de travail opérationnel
+C6. 2 Maintenir le poste de travail opérationnel
 
 |
 
@@ -3158,7 +3158,7 @@ x
 
 |
 
-C6.3 Gérer l'évacuation des produits ou déchets et le tri sélectif
+C6. 3 Gérer l'évacuation des produits ou déchets et le tri sélectif
 
 |
 
@@ -3188,11 +3188,11 @@ MISE EN RELATION DES COMPETENCES ET DES SAVOIRS ASSOCIES
 
 |
 
-U32/E3 (Sous-épreuve E32) - Pratique professionnelle 2 - Prothèse partielle métallique, prothèse fixée et CAO
+U32/ E3 (Sous-épreuve E32)-Pratique professionnelle 2-Prothèse partielle métallique, prothèse fixée et CAO
 
 |
 
-COMPETENCES / SAVOIRS ASSOCIES
+COMPETENCES/ SAVOIRS ASSOCIES
 
 |
 
@@ -3440,7 +3440,7 @@ x
 
 |
 
-C4.2 Confectionner des modèles primaires, secondaires et des duplicatas pour prothèse amovible partielle ou maxillo-mandibulaire., des modèles d'orthodontie et des modèles pour prothèse fixée
+C4. 2 Confectionner des modèles primaires, secondaires et des duplicatas pour prothèse amovible partielle ou maxillo-mandibulaire., des modèles d'orthodontie et des modèles pour prothèse fixée
 
 |
 
@@ -3464,7 +3464,7 @@ x
 
 |
 
-C4.3 Régler l'articulateur, transférer tous types de modèles sur l'articulateur et confectionner la table de montage individualisée
+C4. 3 Régler l'articulateur, transférer tous types de modèles sur l'articulateur et confectionner la table de montage individualisée
 
 |
 
@@ -3488,7 +3488,7 @@ x
 
 |
 
-C4.4 Confectionner des PEI et les maquettes d'occlusion pour prothèse amovible et fixée
+C4. 4 Confectionner des PEI et les maquettes d'occlusion pour prothèse amovible et fixée
 
 |
 
@@ -3560,7 +3560,7 @@ x
 
 |
 
-C47 Réaliser des maquettes de châssis de façon traditionnel et en C.A.O et F.A.O
+C47 Réaliser des maquettes de châssis de façon traditionnel et en C. A. O et F. A. O
 
 |
 
@@ -3824,7 +3824,7 @@ x
 
 |
 
-C5.1 Contrôler l'ajustage et la fonction des éléments réalisés
+C5. 1 Contrôler l'ajustage et la fonction des éléments réalisés
 
 |
 
@@ -3848,7 +3848,7 @@ x
 
 |
 
-C5.2 Contrôle en cours de fabrication
+C5. 2 Contrôle en cours de fabrication
 
 |
 
@@ -3872,7 +3872,7 @@ x
 
 |
 
-C5.3 Contrôler la conformité du produit fini
+C5. 3 Contrôler la conformité du produit fini
 
 |
 
@@ -3896,7 +3896,7 @@ x
 
 |
 
-C5.4 Enregistrer les éléments de traçabilité
+C5. 4 Enregistrer les éléments de traçabilité
 
 |
 
@@ -3920,7 +3920,7 @@ x
 
 |
 
-C6.1 Assurer les opérations de maintenance
+C6. 1 Assurer les opérations de maintenance
 
 |
 
@@ -3944,7 +3944,7 @@ x
 
 |
 
-C6.2 Maintenir le poste de travail opérationnel
+C6. 2 Maintenir le poste de travail opérationnel
 
 |
 
@@ -3968,7 +3968,7 @@ x
 
 |
 
-C6.3 Gérer l'évacuation des produits ou déchets et le tri sélectif
+C6. 3 Gérer l'évacuation des produits ou déchets et le tri sélectif
 
 |
 
@@ -3996,37 +3996,37 @@ UNITES CONSTITUTIVES D'ENSEIGNEMENT GENERAL
 
 Unité (U11, épreuve E1) : Mathématiques
 
-L'unité de mathématiques et sciences physiques englobe l'ensemble des objectifs, capacités, compétences et savoir-faire mentionnés dans l'arrêté du 10 février 2009 fixant les programmes d'enseignement de mathématiques et de sciences physiques pour les classes préparatoires au baccalauréat professionnel (B.O.E.N. spécial n°2 du 19 février 2009).
+L'unité de mathématiques et sciences physiques englobe l'ensemble des objectifs, capacités, compétences et savoir-faire mentionnés dans l'arrêté du 10 février 2009 fixant les programmes d'enseignement de mathématiques et de sciences physiques pour les classes préparatoires au baccalauréat professionnel (B. O. E. N. spécial n° 2 du 19 février 2009).
 
 Unité (U12, épreuve E1) : Sciences physiques et chimiques
 
-L'unité est définie au regard des capacités et compétences mentionnées dans l'arrêté du 10 février 2009 fixant les programmes d'enseignement de mathématiques et de sciences physiques pour les classes préparatoires au baccalauréat professionnel (B.O.E.N. spécial n°2 du 19 février 2009).
+L'unité est définie au regard des capacités et compétences mentionnées dans l'arrêté du 10 février 2009 fixant les programmes d'enseignement de mathématiques et de sciences physiques pour les classes préparatoires au baccalauréat professionnel (B. O. E. N. spécial n° 2 du 19 février 2009).
 
 Unité (U34, épreuve E3) : Economie-gestion
 
-Le contenu de cette unité est défini dans l'arrêté du 10 février 2009 fixant le programme d'enseignement d'économie-gestion pour les classes préparatoires aux baccalauréats professionnels du secteur de la production (B.O.E.N. spécial n° 2 du 19 février 2009).
+Le contenu de cette unité est défini dans l'arrêté du 10 février 2009 fixant le programme d'enseignement d'économie-gestion pour les classes préparatoires aux baccalauréats professionnels du secteur de la production (B. O. E. N. spécial n° 2 du 19 février 2009).
 
-Unité (U35, épreuve E3) : Prévention - Santé - Environnement
+Unité (U35, épreuve E3) : Prévention-Santé-Environnement
 
-L'unité englobe l'ensemble des connaissances et capacités mentionnées dans l'arrêté du 10 février 2009 fixant le programme d'enseignement de Prévention-santé-environnement pour les classes préparatoires au baccalauréat professionnel (B.O.E.N. spécial n° 2 du 19 février 2009).
+L'unité englobe l'ensemble des connaissances et capacités mentionnées dans l'arrêté du 10 février 2009 fixant le programme d'enseignement de Prévention-santé-environnement pour les classes préparatoires au baccalauréat professionnel (B. O. E. N. spécial n° 2 du 19 février 2009).
 
 Unité (U4, épreuve E4) : Langue vivante
 
 L'unité englobe l'ensemble des objectifs, capacités et compétences énumérés dans l'arrêté du 10 février 2009 fixant le programme de langues vivantes étrangères pour les classes préparatoires au certificat d'aptitude professionnelle et pour les classes préparatoires au baccalauréat professionnel
 
-(B.O.E.N. spécial n° 2 du 19 février 2009).
+(B. O. E. N. spécial n° 2 du 19 février 2009).
 
 Unité (U51, épreuve E5) : Français
 
-L'unité est définie par les compétences établies par l'arrêté du 10 février 2009 fixant le programme de français pour les classes préparant au baccalauréat professionnel (B.O.E.N. spécial n°2 du 19 février 2009).
+L'unité est définie par les compétences établies par l'arrêté du 10 février 2009 fixant le programme de français pour les classes préparant au baccalauréat professionnel (B. O. E. N. spécial n° 2 du 19 février 2009).
 
-Unité (U52, épreuve E5) : Histoire, géographie et éducation civique
+Unité (U52, épreuve E5) : Histoire, géographie et enseignement moral et civique
 
-L'unité est définie par les compétences établies par l'arrêté du 10 février 2009 fixant le programme d'enseignement de l'histoire et de la géographie pour les classes préparatoires au baccalauréat professionnel (B.O.E.N. spécial n°2 du 19 février 2009).
+L'unité est définie par les compétences établies par l'arrêté du 10 février 2009 fixant le programme d'enseignement de l'histoire et de la géographie pour les classes préparatoires au baccalauréat professionnel (B. O. E. N. spécial n° 2 du 19 février 2009).
 
 Unité (U6, épreuve E6) : Arts appliqués et cultures artistiques
 
-L'unité englobe l'ensemble des capacités et compétences énumérées par l'arrêté du 10 février 2009 fixant le programme d'enseignement d'arts appliqués et cultures artistiques pour les classes préparatoires au baccalauréat professionnel (B.O.E.N. spécial n° 2 du 19 février 2009).
+L'unité englobe l'ensemble des capacités et compétences énumérées par l'arrêté du 10 février 2009 fixant le programme d'enseignement d'arts appliqués et cultures artistiques pour les classes préparatoires au baccalauréat professionnel (B. O. E. N. spécial n° 2 du 19 février 2009).
 
 Unité (U7, épreuve E7) : Education physique et sportive
 
