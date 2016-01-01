@@ -76,7 +76,7 @@ Location d'autres matériels de transport terrestre (1) |
 
 b) Salariés bénéficiaires
 
-Le présent accord, sous réserve des dispositions qui suivent, s'applique à l'ensemble des salariés (ouvriers, employés, techniciens et agents de maîtrise, ingénieurs et cadres) des entreprises susvisées dès lors qu'ils justifient d'une ancienneté dans l'entreprise d'au moins 6 mois.
+Le présent accord, sous réserve des dispositions qui suivent, s'applique à l'ensemble du personnel des entreprises susvisées.
 
 Peuvent être dispensés d'adhésion :
 
