@@ -8,7 +8,7 @@ DESIGNATION DES FONCTIONS ELIGIBLES
 
 BONIFICATION
 
-(en points d’indice majoré)
+(en points d ’ indice majoré)
 
 Nombre de points attribués
 
@@ -22,7 +22,7 @@ Nombre de points attribués
 
 |
 
-2. Responsable de circonscription ou d'unité territoriale d'action sanitaire et sociale des
+2. Responsable de circonscription ou d' unité départementale d'action sanitaire et sociale des
 
 départements. |
 
@@ -134,7 +134,7 @@ l'article 53 de la loi n° 84-53 du 26 janvier 1984 et ne relevant pas des dispo
 
 |
 
-15. Chef d'établissement d'un musée ayant reçu l'appellation "musée de Francef".
+15. Chef d'établissement d'un musée ayant reçu l'appellation " musée de Francef ".
 
 |
 
@@ -206,7 +206,7 @@ DESIGNATION DES FONCTIONS ELIGIBLES
 
 BONIFICATION
 
-(en points d’indice majoré)
+(en points d ’ indice majoré)
 
 Nombre de points attribués
 
@@ -280,7 +280,7 @@ d'enseignement.
 
 15 |
 
-3. FONCTIONS D'ACCUEIL EXERCÉES À TITRE PRINCIPAL
+. FONCTIONS D'ACCUEIL EXERCÉES À TITRE PRINCIPAL
 
 DESIGNATION DES FONCTIONS ELIGIBLES
 
@@ -288,7 +288,7 @@ DESIGNATION DES FONCTIONS ELIGIBLES
 
 BONIFICATION
 
-(en points d’indice majoré)
+(en points d ’ indice majoré)
 
 Nombre de points attribués
 
@@ -308,7 +308,7 @@ qualité de fonctionnaire a été maintenue.
 
 10 |
 
-4. FONCTIONS IMPLIQUANT UNE TECHNICITÉ ET UNE POLYVALENCE PARTICULIÈRES LIÉES À L'EXERCICE DANS CERTAINES COLLECTIVITÉS OU DANS LEURS ÉTABLISSEMENTS PUBLICS ASSIMILÉS
+. FONCTIONS IMPLIQUANT UNE TECHNICITÉ ET UNE POLYVALENCE PARTICULIÈRES LIÉES À L'EXERCICE DANS CERTAINES COLLECTIVITÉS OU DANS LEURS ÉTABLISSEMENTS PUBLICS ASSIMILÉS
 
 DESIGNATION DES FONCTIONS ELIGIBLES
 
@@ -316,7 +316,7 @@ DESIGNATION DES FONCTIONS ELIGIBLES
 
 BONIFICATION
 
-(en points d’indice majoré)
+(en points d ’ indice majoré)
 
 Nombre de points attribués
 

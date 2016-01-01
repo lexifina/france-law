@@ -98,7 +98,7 @@ B
 
 |
 
-Responsable du secrétariat particulier des directeurs régionaux des entreprises, de la concurrence, de la consommation, du travail et de l'emploi, des directeurs d'unité territoriale, des directions des entreprises, de la concurrence, de la consommation, du travail et de l'emploi
+Responsable du secrétariat particulier des directeurs régionaux des entreprises, de la concurrence, de la consommation, du travail et de l'emploi, des directeurs d' unité départementale, des directions des entreprises, de la concurrence, de la consommation, du travail et de l'emploi
 
 |
 
