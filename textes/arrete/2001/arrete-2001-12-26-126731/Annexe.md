@@ -28,6 +28,8 @@ CLASSE 1. - COMPTES DE CAPITAUX
 
 1025. Dons et legs en capital.
 
+103. Plan de relance FCTVA.
+
 106. Réserves.
 
 1068. Excédents de fonctionnement capitalisés.
@@ -869,6 +871,10 @@ CLASSE 6. - COMPTES DE CHARGES
 615. Entretien et réparations.
 
 6152. Entretien et réparations sur biens immobiliers.
+
+61521. Bâtiments publics.
+
+61528. Autres bâtiments.
 
 6155. Entretien et réparations sur biens mobiliers.
 
