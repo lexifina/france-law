@@ -110,57 +110,11 @@ B - INSPECTIONS A COMPETENCES LOCALES
 
 |
 
-Inspecteur de l'académie de Paris
-
-|
-
-701-1015 (a)
-
-|
-
-(a) Mention maintenue pendant une période de deux ans à compter du 29 octobre 2009, date d'entrée en vigueur du décret n° 2009-1302 du 26 octobre 2009, conformément au décret n° 2009-1303 du 26 octobre 2009, article 5.
-
-|
-
-Inspecteur d'académie-inspecteur pédagogique régional :
-
-hors classe
-
-classe normale
-
-|
-
-(a)
-
-701-1015 (a)
-
-|
-
-(a) A compter du 1er janvier 1998
-
-|
-
 Inspecteur principal (enseignements techniques et professionnels)
 
 |
 
 612-1015
-
-|
-
-|
-
-Inspecteur de l'éducation nationale
-
-hors classe
-
-classe normale
-
-|
-
-612-HEA
-
-416-966
 
 |
 
@@ -220,7 +174,7 @@ Echelon fonctionnel : inspecteur adjoint au directeur académique des services d
 
 |
 
-II Bis-ÉTABLISSEMENTS ET SERVICE DE RECHERCHE
+II Bis - ÉTABLISSEMENTS ET SERVICE DE RECHERCHE
 
 |
 
@@ -503,6 +457,12 @@ Délégué régional du CNRS
 |
 
 (a)
+
+|
+
+|
+
+|
 
 |
 
