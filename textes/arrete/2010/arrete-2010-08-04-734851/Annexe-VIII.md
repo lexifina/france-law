@@ -16,7 +16,7 @@ de la commission titulaire
 
 PRÉSIDENCE
 
-de la commission suppléant
+de la commission suppléante
 
 |
 
@@ -24,11 +24,11 @@ MEMBRES
 
 |
 
-Personnel placé sous l'autorité du commandant de région de gendarmerie.
+Personnel placé sous l'autorité d'un commandant de région de gendarmerie.
 
 |
 
-Le commandant en second de région de gendarmerie, commandant en second de groupement chef-lieu d'implantation de la région de gendarmerie.
+Le commandant en second de la région de gendarmerie.
 
 |
 
@@ -44,7 +44,7 @@ Deux sous-officiers désignés par le commandant de la formation administrative.
 
 |
 
-Personnel placé sous l'autorité du commandant de région de gendarmerie, commandant la gendarmerie pour la zone de défense et de sécurité.
+Personnel placé sous l'autorité d'un commandant de région de gendarmerie, commandant la gendarmerie pour la zone de défense et de sécurité.
 
 |
 
@@ -52,6 +52,18 @@ Le commandant en second de la région de gendarmerie, commandant en second de la
 
 |
 
-(1) Pour les régions de gendarmerie non implantées au siège d'une zone de défense et de sécurité, lire : "bureau de la gestion du personnel".
+Personnel placé sous l'autorité d'un commandant adjoint de région, commandant d'un groupement de gendarmerie départementale ayant le statut de formation administrative.
+
+|
+
+L'officier le plus ancien dans le grade le plus élevé des membres de la commission d'avancement.
+
+|
+
+/
+
+|
+
+(1) A défaut, lire : bureau de la gestion du personnel .
 
 |

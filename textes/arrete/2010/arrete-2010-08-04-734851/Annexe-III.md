@@ -18,7 +18,7 @@ de la commission titulaire
 
 PRÉSIDENCE
 
-de la commission suppléant
+de la commission suppléante
 
 |
 
@@ -26,7 +26,7 @@ MEMBRES
 
 |
 
-Ensemble des formations de gendarmerie départementale placées sous l'autorité du commandant de région de gendarmerie.
+Ensemble des formations de gendarmerie départementale placées sous l'autorité d'un commandant adjoint de région, commandant d'un groupement de gendarmerie départementale ayant le statut de formation administrative.
 
 |
 
@@ -38,21 +38,21 @@ L'officier le plus ancien dans le grade le plus élevé parmi les membres prése
 
 |
 
-Les commandants de groupement ou les commandants de groupement par suppléance (1).
+Le commandant en second du groupement de gendarmerie départementale ayant le statut de formation administrative.
 
-Les commandants des sections de recherches ou les commandants des sections de recherches par suppléance.
+Les commandants des groupements de gendarmerie départementale placés sous l'autorité du commandant adjoint de région, commandant du groupement de gendarmerie départementale ayant le statut de formation administrative ou, à défaut, leurs suppléants.
 
-Le commandant de la section d'appui judiciaire ou le commandant de la section d'appui judiciaire par suppléance.
+Les commandants des sections de recherches ou, à défaut, leurs suppléants.
 
-Le commandant en second de région de gendarmerie, commandant en second de groupement chef-lieu d'implantation de la région de gendarmerie.
-
-|
-
-Ensemble des formations de gendarmerie départementale placées sous l'autorité du commandant de région de gendarmerie, commandant la gendarmerie pour la zone de défense et de sécurité.
+Le commandant de la section d'appui judiciaire ou, à défaut, son suppléant.
 
 |
 
-Commandant en second de la région de gendarmerie, commandant en second de la gendarmerie pour la zone de défense et de sécurité.
+Ensemble des formations de gendarmerie départementale placées sous l'autorité d'un commandant de région de gendarmerie (à l'exception de celles placées sous l'autorité d'un commandant adjoint de région, commandant d'un groupement de gendarmerie départementale ayant le statut de formation administrative).
+
+|
+
+Pour les régions de gendarmerie situées au siège d'une zone de défense et de sécurité : le commandant en second de la région de gendarmerie.
 
 |
 
@@ -60,11 +60,29 @@ L'officier le plus ancien dans le grade le plus élevé parmi les membres prése
 
 |
 
-Les commandants de groupement ou les commandants de groupement par suppléance.
+Les commandants des groupements de gendarmerie départementale subordonnés ou, à défaut, leurs suppléants.
 
-Les commandants des sections de recherches ou les commandants des sections de recherches par suppléance.
+Les commandants des sections de recherches ou, à défaut, leurs suppléants.
 
-Le commandant de la section d'appui judiciaire ou le commandant de la section d'appui judiciaire par suppléance.
+Le commandant de la section d'appui judiciaire ou à défaut, son suppléant.
+
+|
+
+Pour les autres régions de gendarmerie : l'officier le plus ancien dans le grade le plus élevé parmi les membres présents.
+
+|
+
+/
+
+|
+
+Le commandant en second de la région de gendarmerie.
+
+Les commandants des groupements de gendarmerie départementale subordonnés (à l'exception du groupement chef-lieu d'implantation de la région de gendarmerie) ou, à défaut, leurs suppléants.
+
+Les commandants des sections de recherches ou, à défaut, leurs suppléants.
+
+Le commandant de la section d'appui judiciaire ou, à défaut, son suppléant.
 
 |
 
@@ -144,10 +162,6 @@ Deux officiers supérieurs de la branche considérée, à défaut, désignés pa
 
 |
 
-(1) Ne sont pas visés les groupements chefs-lieux d'implantation des régions de gendarmerie.
-
-|
-
 2. Branches de la subdivision d'arme de la gendarmerie mobile
 
 BRANCHES
@@ -162,7 +176,7 @@ de la commission titulaire
 
 PRÉSIDENCE
 
-de la commission suppléant
+de la commission suppléante
 
 |
 
@@ -204,7 +218,9 @@ L'administrateur, régisseur des formations musicales de la garde républicaine.
 
 |
 
-(1) Pour la région de gendarmerie implantée au siège de la zone de défense et de sécurité d'Ile-de-France, lire "chef d'état-major". |
+(1) Pour la région de gendarmerie implantée au siège de la zone de défense et de sécurité d'Ile-de-France, lire chef d'état-major.
+
+|
 
 3. Branches communes aux deux subdivisions d'arme
 
@@ -220,7 +236,7 @@ de la commission titulaire
 
 PRÉSIDENCE
 
-de la commission suppléant
+de la commission suppléante
 
 |
 
@@ -278,7 +294,7 @@ Les commandants des écoles de la gendarmerie nationale et centres d'instruction
 
 |
 
-Organismes centraux, branche administrative.
+Organismes centraux, branche administrative et technique.
 
 |
 
@@ -290,23 +306,7 @@ Un officier du grade de colonel de la branche considérée, à défaut, désign�
 
 |
 
-Deux officiers supérieurs désignés par le commandant de l'établissement central de l'administration et du soutien de la gendarmerie nationale.
-
-|
-
-Organismes centraux, branche technique.
-
-|
-
-Un officier du grade de colonel de la branche considérée, à défaut, désigné par le directeur des personnels militaires de la gendarmerie nationale.
-
-|
-
-Un officier du grade de colonel de la branche considérée, à défaut, désigné par le directeur des personnels militaires de la gendarmerie nationale.
-
-|
-
-Un officier supérieur du centre technique de la gendarmerie nationale.
+Trois officiers supérieurs désignés par le commandant du soutien opérationnel de la gendarmerie nationale.
 
 Un officier supérieur de la direction de la coopération internationale.
 
@@ -328,7 +328,9 @@ L'officier de gendarmerie adjoint au sous-directeur de la gestion du personnel.
 
 |
 
-Un officier supérieur du cabinet du directeur général de la gendarmerie nationale.
+Un officier supérieur
+
+du cabinet du directeur général de la gendarmerie nationale.
 
 Un officier supérieur de la direction des opérations et de l'emploi.
 
@@ -420,7 +422,7 @@ de la commission titulaire
 
 PRÉSIDENCE
 
-de la commission suppléant
+de la commission suppléante
 
 |
 
