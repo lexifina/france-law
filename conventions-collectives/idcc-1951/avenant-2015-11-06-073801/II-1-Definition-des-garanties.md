@@ -1,0 +1,11 @@
+# Article II.1. Définition des garanties
+
+La couverture a pour objet d'assurer le remboursement de tout ou partie des frais médicaux, chirurgicaux ou d'hospitalisation. Les garanties sont établies sur la base de la législation et de la réglementation de l'assurance maladie, en vigueur au moment de la conclusion du présent accord. Elles sont revues, le cas échéant, en cas de changement de ces textes.
+
+Sont couverts tous les actes et frais courants, sur la période de garantie ayant fait l'objet d'un remboursement et d'un décompte individualisé du régime de base de la sécurité sociale, au titre de la législation « maladie », « accidents du travail/maladie professionnelle » et « maternité », ainsi que les actes et frais non pris en charge par ce dernier, expressément mentionnés dans le tableau des garanties figurant en annexe.
+
+Les prestations sont limitées aux frais réels dûment justifiés, restant à charge du bénéficiaire après intervention du régime de base et/ou d'éventuels organismes complémentaires.
+
+Les garanties respectent en toutes circonstances les exigences du contrat « responsable » en termes d'interdictions et d'obligations minimales de prise en charge, conformément aux articles L. 871-1, R. 871-1 et R. 871-2 du code de la sécurité sociale ; l'exigence relative aux contrats responsables étant renforcée du fait de la politique de prévention, conçue dans la perspective de l'objectif de solidarité.
+
+La grille des prestations en nature fait l'objet d'une annexe spécifique.
