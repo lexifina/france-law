@@ -6,7 +6,7 @@ A. A l'exception de celles qui sont visées au I du A de l'article 1594-0 G, les
 
 B. Les mutations de propriété faites entre les propriétaires participant aux opérations de rénovation urbaine et l'organisme de rénovation. Toutefois, en ce qui concerne la taxe ou le droit afférents aux biens remis aux anciens propriétaires en contre-partie de leur créance sur un organisme de rénovation, le bénéfice de la réduction de taux ne peut être invoqué qu'à concurrence du montant de la créance sur l'organisme de rénovation ;
 
-C. Les cessions gratuites aux collectivités publiques de terrains classés, visées à l'article L. 130-2 du code de l'urbanisme ;
+C. Les cessions gratuites aux collectivités publiques de terrains classés, visées à l'article L. 113-3 du code de l'urbanisme ;
 
 D. I. Les acquisitions d'immeubles ruraux à condition :
 
@@ -34,7 +34,7 @@ Ce taux s'applique aux acquisitions effectuées par l'acquéreur à hauteur d'un
 
 F. Les ventes résultant de l'application des articles L. 181-5 à L. 181-8 du code rural et de la pêche maritime relatifs à la mise en valeur agricole des terres incultes, des terres laissées à l'abandon et des terres insuffisamment exploitées de la Guadeloupe, de la Martinique, de la Réunion et de la Guyane.
 
-G.(Abrogé).
+G. (Abrogé).
 
 H. Les acquisitions, par une société de crédit-bail, d'immeubles dont elle concède immédiatement la jouissance au vendeur par un contrat de crédit-bail, à la condition que ce dernier fasse l'objet d'une publication si cette formalité est obligatoire en application des dispositions de l'article 28 du décret n° 55-22 du 4 janvier 1955 modifié.
 
@@ -45,7 +45,3 @@ J. (Dispositions devenues sans objet)
 K. Dans les départements d'outre-mer, les acquisitions de terrains compris dans le périmètre de lotissements qui sont agréés dans des conditions fixées par décret.
 
 L.-Les acquisitions en vue de leur revente de lots de copropriétés faisant l'objet d'un plan de sauvegarde, en application de l'article L. 615-1 du code de la construction et de l'habitation, par des sociétés anonymes et des sociétés anonymes coopératives de production d'habitations à loyers modérés ainsi que par des sociétés d'économie mixte.
-
-NOTA :
-
-LOI n° 2009-1673 du 30 décembre 2009 de finances pour 2010 art 77 1.2.1.6 : les présentes dispositions s'appliquent aux actes passés et aux conventions conclues à compter du 1er janvier 2011.
