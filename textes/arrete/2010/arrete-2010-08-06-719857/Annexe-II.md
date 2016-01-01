@@ -84,7 +84,7 @@ Les exigences suivantes en matière de vision doivent être respectées :
 
 - champ de vision : complet ;
 
-- vision des deux yeux : effective ; non exigée lorsque l'intéressé possède une adaptation adéquate et a acquis une capacité de compensation suffisante. Uniquement dans le cas où l'intéressé a perdu la vision binoculaire tandis qu'il exerçait déjà ses fonctions ;
+- vision des deux yeux : effective ;
 
 - vision binoculaire : effective ;
 
