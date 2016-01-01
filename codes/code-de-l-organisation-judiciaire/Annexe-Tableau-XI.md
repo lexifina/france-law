@@ -46,6 +46,18 @@ Cantons de Bouglon, Casteljaloux, Castelmoron-sur-Lot, Damazan, Duras, Houeillè
 
 |
 
+Cour d'appel de Basse-Terre
+
+|
+
+Basse-Terre |
+
+|
+
+Saint-Martin |
+
+Cantons de Saint-Barthélemy, Saint-Martin 1er canton et Saint-Martin 2e canton. |
+
 Cour d'appel de Besançon
 
 |
