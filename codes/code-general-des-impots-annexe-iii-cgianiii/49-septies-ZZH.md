@@ -20,9 +20,9 @@ La prime p est fixée, en fonction de l'appartenance à l'une des tranches menti
 
 TRANCHES |
 
-1 à 2 |
+1 |
 
-3 à 5 |
+2 À 3 |
 
 Prime p |
 
@@ -33,3 +33,7 @@ Prime p |
 Dans ce qui précède, la durée de la première période de remboursement du prêt est arrondie au multiple inférieur de six mois.
 
 Le taux S ainsi calculé par l'organisme mentionné au cinquième alinéa de l'article L. 312-1 du code de la construction et de l'habitation, est applicable aux prêts ne portant pas intérêt faisant l'objet d'une offre de prêt au cours d'un même trimestre.
+
+NOTA :
+
+Ces dispositions sont applicables aux offres de prêt émises à compter du 1er janvier 2016.
