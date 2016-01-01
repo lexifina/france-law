@@ -2,31 +2,25 @@
 
 1. Entreprises
 
-Le présent accord est applicable aux entreprises de transport routier de voyageurs visées à l'article 1er de la convention collective nationale des transports routiers et des activités auxiliaires du transport, à savoir les entreprises enregistrées sous les codes NAF 49.39A et 49.39B.
+Le présent accord est applicable aux entreprises de transport routier de voyageurs visées à l'article 1er de la convention collective nationale des transports routiers et des activités auxiliaires du transport, à savoir les entreprises enregistrées sous les codes NAF 49. 39A et 49.39 B.
 
 2. Salariés bénéficiaires
 
-Le présent accord, sous réserve des dispositions qui suivent, s'applique à l'ensemble des salariés (ouvriers, employés, techniciens et agents de maîtrise, ingénieurs et cadres) des entreprises susvisées. Les cas spécifiques de maintien des droits sont visés à l'article 6 du présent accord.
+Le présent accord, sous réserve des dispositions qui suivent, s'applique à l'ensemble du personnel des entreprises susvisées.
 
-Dans les situations suivantes, les salariés peuvent néanmoins être dispensés d'adhésion :
+Conformément au cadre maximal légal et réglementaire des dispenses possibles, peuvent être dispensés d'adhésion :
 
-– lors de la mise en place, pour la première fois, d'une couverture santé dans l'entreprise :
+a) Les salariés et apprentis bénéficiaires d'un contrat à durée déterminée ou d'un contrat de mission d'une durée au moins égale à 12 mois à condition de justifier par écrit en produisant tous documents d'une couverture individuelle souscrite par ailleurs pour le même type de garanties ;
 
-–– les salariés déjà couverts par des garanties frais de soins de santé à titre obligatoire (par exemple, par son conjoint ou assimilé tel que défini ci-après) ;
+b) Les salariés et apprentis bénéficiaires d'un contrat à durée déterminée ou d'un contrat de mission d'une durée inférieure à 12 mois, même s'ils ne bénéficient pas d'une couverture individuelle souscrite par ailleurs ;
 
-–– les salariés déjà couverts par des garanties frais de soins de santé à titre individuel, pour la durée restant à courir entre la date d'entrée en vigueur du présent régime et la date d'échéance du contrat individuel.
+c) Les salariés à temps partiel et apprentis dont l'adhésion au système de garanties les conduirait à s'acquitter d'une cotisation au moins égale à 10 % de leur rémunération brute ;
 
-– lors de la mise en place, pour la première fois, d'une couverture santé dans l'entreprise ou lors de l'embauche :
+d) Les salariés bénéficiaires d'une couverture complémentaire en application de l'article L. 861-3 du code de la sécurité sociale ou d'une aide à l'acquisition d'une complémentaire santé en application de l'article L. 863-1. La dispense ne peut alors jouer que jusqu'à la date à laquelle les salariés cessent de bénéficier de cette couverture ou de cette aide ;
 
-–– les salariés bénéficiaires de la couverture maladie universelle (CMU-C) jusqu'à l'échéance de leurs droits ;
+e) Les salariés couverts par une assurance individuelle de frais de santé au moment de la mise en place des garanties ou de l'embauche si elle est postérieure. La dispense ne peut alors jouer que jusqu'à échéance du contrat individuel ;
 
-–– les salariés sous contrat à durée déterminée d'une durée inférieure à 12 mois ;
-
-–– les salariés à employeurs multiples bénéficiant d'une couverture de frais de soin de santé obligatoire dans le cadre d'un autre emploi ;
-
-–– les salariés à temps très partiel qui devraient acquitter une cotisation, qu'elle soit forfaitaire ou proportionnelle au revenu, au moins égale à 10 % de leur rémunération ;
-
-– pour les couples travaillant dans la même entreprise, il est offert la possibilité de s'affilier ensemble ou séparément (un des deux membres du couple pouvant être ayant droit de l'autre affilié en propre).
+f) Les salariés qui bénéficient par ailleurs, y compris en tant qu'ayants droit, d'une couverture collective relevant d'un dispositif de prévoyance complémentaire conforme à un de ceux fixés par l'arrêté du 26 mars 2012 relatif aux facultés de dispense d'adhésion à des systèmes de prévoyance collectifs et obligatoires mis en place dans les entreprises.
 
 Les salariés se prévalant d'une dispense d'adhésion doivent :
 
@@ -44,10 +38,10 @@ Au titre du présent accord, sont ayants droit :
 
 – le ou les enfant (s) de moins de 21 ans considérés comme ayants droit par la sécurité sociale au titre de l'assuré, de son conjoint, de son concubin, ou de la personne liée par un pacte civil de solidarité. Cette limite d'âge est prorogée jusqu'à leur 26e anniversaire :
 
-–– pour les enfants affiliés à la sécurité sociale des étudiants ;
+– – pour les enfants affiliés à la sécurité sociale des étudiants ;
 
-–– pour les enfants demandeurs d'emploi inscrits à Pôle emploi ;
+– – pour les enfants demandeurs d'emploi inscrits à Pôle emploi ;
 
-–– pour les enfants en contrat d'apprentissage.
+– – pour les enfants en contrat d'apprentissage.
 
 Par exception, aucune limite d'âge n'est fixée pour les enfants titulaires de la carte d'invalidité prévue à l'article L. 241-3 du code de l'action sociale et des familles.
