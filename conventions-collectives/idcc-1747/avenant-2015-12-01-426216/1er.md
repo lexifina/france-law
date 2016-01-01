@@ -1,0 +1,945 @@
+# Article 1er
+
+Les parties conviennent de substituer aux articles suivants de la convention collective des activités industrielles de boulangerie-pâtisserie les articles ci-après :
+
+« 120.2. Cotisations
+
+Les cotisations sont calculées sur la rémunération brute annuelle, toutes primes et indemnités confondues, supportant les charges sociales.
+
+Elles sont partagées entre l'employeur et le salarié à raison de :
+
+– 1/3 à la charge du salarié ;
+
+– 2/3 à la charge de l'employeur.
+
+L'affectation des cotisations aux diverses prestations du régime est fixée comme suit.
+
+(En pourcentage.)
+
+|
+
+Employeur |
+
+Salarié |
+
+Décès |
+
+0,100 |
+
+0,039 |
+
+Rente éducation |
+
+0,043 |
+
+0,017 |
+
+Allocation obsèques |
+
+0,007 |
+
+0,003 |
+
+Incapacité de travail |
+
+0 |
+
+0,274 |
+
+Invalidité |
+
+0,547 |
+
+0 |
+
+Total |
+
+0,697 |
+
+0,333 |
+
+Les cotisations sont réglées par l'entreprise par trimestre à terme échu.
+
+Dans le prolongement de l'article 26 de la loi n° 2010-1330 du 9 novembre 2010 portant réforme des retraites, un complément de provisions mathématiques doit être constitué par les organismes assureurs au titre du maintien de la garantie décès et des arrêts de travail survenus au 31 décembre 2010 pour les contrats conclus avant cette date.
+
+En cas de dénonciation du régime de prévoyance de la boulangerie industrielle ou de changement des organismes assureurs désignés avant la constitution des provisions mathématiques finançant le passif résultant de la loi portant réforme des retraites, une indemnité de résiliation est due dont le montant est égal à la différence entre le montant des provisions techniques à constituer, permettant de couvrir intégralement les engagements relatifs à la poursuite des prestations “ incapacité ” et “ invalidité ” et au maintien de la garantie décès, et le montant des provisions techniques effectivement constituées au jour de la dénonciation, et ce au titre des incapacités et invalidités en cours à la date de la dénonciation. » (1)
+
+« 122.1. Portabilité des droits (2)
+
+Sont bénéficiaires des régimes de prévoyance du présent chapitre les anciens salariés des entreprises de la branche dont la rupture du contrat de travail, non consécutive à une faute lourde, ouvre droit au régime d'indemnisation de l'assurance chômage.
+
+Ils bénéficient du maintien des garanties dès le lendemain de la fin de leur contrat de travail.
+
+La durée de la portabilité est égale à la durée du dernier contrat de travail, appréciée en mois entiers, dans la limite de 12 mois.
+
+Le maintien des garanties est obligatoire.
+
+Les anciens salariés susvisés devront fournir chaque mois à l'assureur un document attestant de leur prise en charge par le régime d'assurance chômage.
+
+Le bénéfice des régimes cessera dans les hypothèses suivantes :
+
+– en cas de reprise d'une activité professionnelle et de cessation concomitante du bénéfice du régime d'assurance chômage. Dans une telle hypothèse, il appartiendra au salarié concerné d'en informer l'entreprise ou (3) l'assureur et de transmettre le justificatif de cessation du régime d'assurance chômage ;
+
+– en cas de décès.
+
+Le financement du maintien de ces garanties est assuré dans le cadre de la mutualisation du régime.
+
+L'indemnisation au titre de la garantie incapacité de travail telle que définie aux articles 120.1.3 et 121.1.4 interviendra à compter du 91e jour d'incapacité de travail continue.
+
+Les prestations sont versées jusqu'au 1 095e jour d'incapacité ou jusqu'à la mise en invalidité et au plus tard à la date d'effet de la liquidation de la pension vieillesse de la sécurité sociale.
+
+En tout état de cause, l'indemnisation prévue ne peut conduire l'intéressé à percevoir une indemnisation supérieure au montant de l'allocation nette du régime obligatoire d'assurance chômage à laquelle il ouvre droit et qu'il aurait perçue au titre de la même période. Si l'allocation chômage n'a pas encore été versée, celle-ci sera reconstituée sur la base des conditions du régime d'assurance chômage applicables au jour de l'incapacité. »
+
+« 125.1. Bénéficiaires à titre obligatoire
+
+En application des dispositions légales et réglementaires, le présent régime de remboursement de frais de santé bénéficie obligatoirement aux salariés titulaires d'un contrat de travail, quelle qu'en soit la nature, y compris les salariés en arrêt maladie indemnisés, directement par l'entreprise ou indirectement par un organisme tiers, à la date de prise d'effet des présentes dispositions.
+
+Les salariés en suspension du contrat de travail sans rémunération, ni revenu de substitution provenant d'un régime de prévoyance, à la date d'application des présentes dispositions ne bénéficieront pas des garanties du présent régime le temps de leur absence non indemnisée, à l'exception de ceux qui souhaitent y adhérer en assurant entièrement à leur charge les cotisations. »
+
+« 125.2. Dérogations au caractère obligatoire
+
+Certains salariés ont la faculté, s'ils le souhaitent, de ne pas adhérer au présent régime, sans pour autant remettre en cause le caractère obligatoire.
+
+Les salariés concernés sont les suivants :
+
+– les salariés et apprentis bénéficiaires d'un contrat de travail à durée déterminée et les travailleurs saisonniers, étant précisé que ces derniers, dès lors qu'ils sont titulaires d'un contrat à durée déterminée de moins de 12 mois, bénéficient d'une dispense d'affiliation qui est de droit ;
+
+– les salariés à temps très partiel ou apprentis, à l'exclusion des salariés à employeurs multiples qui devraient acquitter une cotisation au moins égale à 10 % de leur rémunération, l'employeur pouvant dans ce cas décider d'acquitter la part salariale de cotisation ;
+
+– les salariés bénéficiaires de la couverture maladie universelle complémentaire instituée dans le cadre de la couverture maladie universelle ou de l'aide à l'acquisition d'une complémentaire santé ;
+
+– les salariés qui bénéficient déjà, à la date d'effet du présent régime ou au moment de leur embauche si elle est postérieure, d'une couverture complémentaire obligatoire de remboursement de frais de santé au titre d'un autre emploi (salarié à employeurs multiples) ;
+
+– les salariés qui bénéficient déjà, à la date d'effet du présent régime ou au moment de leur embauche si elle est postérieure, d'une couverture complémentaire individuelle de remboursement de frais de santé au titre d'un contrat d'assurance individuel. Cette dispense d'affiliation sera temporaire pour la durée restant à courir jusqu'à la date d'échéance du contrat individuel ;
+
+– les salariés qui bénéficient déjà, à la date d'effet du présent régime ou au moment de leur embauche si elle est postérieure, d'une couverture complémentaire obligatoire familiale de remboursement de frais de santé par leur conjoint.
+
+Dans le cas particulier des couples travaillant dans la même entreprise, compte tenu du fait que la couverture de l'ayant droit est facultative, les salariés ont le choix de s'affilier ensemble ou séparément. Dans les deux cas, le caractère obligatoire n'est pas remis en cause et les contributions versées par l'employeur, soit pour le couple, soit pour chacun des membres du couple, bénéficient de l'exclusion d'assiette.
+
+Les salariés ci-dessus mentionnés devront formuler expressément et par écrit leur volonté de ne pas adhérer au présent régime, auprès de leur employeur, dans la limite d'un délai de 1 mois à la date de mise en place du régime de l'entreprise ou, pour ceux embauchés postérieurement, dans un délai de 1 mois courant à compter de leur embauche. Cette demande comporte la mention selon laquelle le salarié a été préalablement informé par l'employeur des conséquences de son choix.
+
+En outre, ils seront tenus de communiquer, au moins une fois par an, les informations permettant de justifier de leur situation. A défaut, ils seront tenus d'adhérer et de cotiser au régime. »
+
+« 128.1. Garanties
+
+Les garanties du présent régime sont établies sur la base de la législation et de la réglementation de l'assurance maladie en vigueur au moment de sa prise d'effet. Elles seront revues, le cas échéant, sans délai en cas de changement de ces textes.
+
+Sont couverts tous les actes et frais courants sur la période de garantie ayant fait l'objet d'un remboursement et d'un décompte individualisé du régime de base de sécurité sociale au titre de la législation maladie, accidents du travail, maladies professionnelles et maternité ainsi que les actes et frais non pris en charge par ce régime, expressément mentionnés dans le tableau des garanties visé ci-dessous.
+
+Les garanties maternité prévues au présent régime n'interviennent que pendant la période au cours de laquelle l'assurée reçoit des prestations en nature de la sécurité sociale au titre du risque maternité.
+
+L'organisme assureur verse, en cas de naissance d'un enfant du salarié, viable ou mort-né, une allocation dont le montant est égal au forfait en vigueur au jour de l'événement.
+
+Le forfait maternité du participant est également versé en cas d'adoption d'un enfant mineur.
+
+Un seul forfait peut être octroyé par période de 300 jours, à l'exception des naissances gémellaires ou de l'adoption.
+
+Les dates prises en compte, pour le versement du forfait maternité et pour le calcul de la période de 300 jours, sont les dates de naissance respectives de chaque enfant.
+
+Les niveaux d'indemnisation s'entendent y compris les prestations versées par la sécurité sociale.
+
+Nature des frais |
+
+Niveaux d'indemnisation (1) |
+
+|
+
+Conventionné |
+
+Non conventionné |
+
+Hospitalisation médicale, chirurgicale et maternité |
+
+|
+
+|
+
+Frais de séjour |
+
+130 % de la BR |
+
+Actes de chirurgie (ADC) |
+
+250 % de la BR médecins adhérents CAS |
+
+Actes d'anesthésie (ADA) |
+
+200 % de la BR médecins non adhérents CAS |
+
+Autres honoraires |
+
+|
+
+Chambre particulière |
+
+28,00 € par jour |
+
+Forfait hospitalier engagé |
+
+100 % des frais réels par jour et dans la limite
+
+de la réglementation en vigueur |
+
+Frais d'accompagnement d'un enfant à charge de moins de 10 ans (sur présentation d'un justificatif) |
+
+35,00 € par jour |
+
+Transport remboursé sécurité sociale |
+
+100 % de la BR |
+
+Actes médicaux |
+
+|
+
+Généralistes (consultations et visites) |
+
+100 % de la BR |
+
+Spécialistes (consultations et visites) |
+
+100 % de la BR |
+
+Actes de chirurgie (ADC) |
+
+100 % de la BR |
+
+Actes techniques médicaux (ATM) |
+
+100 % de la BR |
+
+Actes d'imagerie médicale (ADI) |
+
+|
+
+Actes d'échographie (ADE) |
+
+100 % de la BR |
+
+|
+
+Auxiliaires médicaux |
+
+|
+
+|
+
+Analyses |
+
+100 % de la BR |
+
+Actes médicaux non remboursés sécurité sociale |
+
+|
+
+Chirurgie réfractive des yeux (myopie, presbytie, astigmatisme et hypermétropie) |
+
+Crédit annuel par bénéficiaire de 7 % du PMSS par œil |
+
+Pharmacie remboursée sécurité sociale |
+
+100 % de la BR |
+
+Pharmacie non remboursée sécurité sociale |
+
+|
+
+Contraceptifs (pilules et patchs) non remboursés par la sécurité sociale et patchs antitabac |
+
+Crédit annuel par bénéficiaire de 1 % du PMSS |
+
+Dentaire |
+
+|
+
+Soins dentaires (à l'exception des inlays simples, onlays) |
+
+100 % de la BR |
+
+Inlay simple, onlay |
+
+100 % de la BR |
+
+Prothèses dentaires remboursées par la sécurité sociale |
+
+200 % de la BR |
+
+Inlay core |
+
+200 % de la BR |
+
+Prothèses dentaires non remboursées par la sécurité sociale (2) |
+
+110 % de la BR |
+
+Orthodontie acceptée par la sécurité sociale |
+
+180 % de la BR |
+
+Orthodontie refusée par la sécurité sociale |
+
+110 % de la BR |
+
+Prothèses non dentaires (acceptées sécurité sociale) |
+
+100 % de la BR plus crédit annuel par bénéficiaire
+
+de 1 000,00 € |
+
+|
+
+Prothèses auditives |
+
+|
+
+|
+
+Orthopédie et autres prothèses |
+
+|
+
+|
+
+Optique : pour l'appréciation de la période permettant un renouvellement, le point de départ est fixé à la date d'acquisition d'un équipement optique (ou du premier élément de l'équipement dans l'hypothèse d'un remboursement demandé en deux temps). La période de renouvellement de l'équipement pour les adultes est réduite à 1 an en cas de renouvellement justifié par une évolution de la vue |
+
+|
+
+Monture |
+
+100 % de la BR plus 2,5 % du PMSS par bénéficiaire |
+
+Verres |
+
+100 % de la BR plus montants indiqués dans les tableaux ci-après en fonction du type de verre (4) |
+
+Lentilles acceptées par la sécurité sociale |
+
+100 % de la BR plus un crédit annuel par bénéficiaire
+
+de 5 % du PMSS |
+
+Lentilles refusées par la sécurité sociale (y compris lentilles jetables) |
+
+Crédit annuel par bénéficiaire de 7 % du PMSS |
+
+Cure thermale (acceptée sécurité sociale) |
+
+|
+
+Frais de traitement et honoraires |
+
+Néant |
+
+Frais de voyage et hébergement |
+
+Néant |
+
+Maternité |
+
+|
+
+Naissance d'un enfant déclaré |
+
+100,00 € |
+
+Médecines hors nomenclature |
+
+|
+
+Acupuncture, chiropractie, ostéopathie |
+
+30,00 € par acte, limité à 4 actes par année civile. |
+
+Actes de prévention conformément aux dispositions du décret n° 2005-1226 du 29 septembre 2005 (3) |
+
+100 % de la BR |
+
+Les postes exprimés en crédit annuel s'entendent par année civile.
+
+PMSS : plafond mensuel de la sécurité sociale.
+
+FR : frais réels engagés par l'assuré.
+
+BR : base de remboursement retenue par l'assurance maladie obligatoire pour déterminer le montant de son remboursement.
+
+RSS : remboursement sécurité sociale = montant remboursé par l'assurance maladie obligatoire et calculé par application du taux de remboursement légal en vigueur à la base de remboursement.
+
+TM : ticket modérateur, soit partie de la base de remboursement non prise en charge par l'assurance maladie obligatoire (TM = BR – RSS).
+
+CAS : contrat d'accès aux soins.
+
+(1) Les remboursements sont effectués pour des frais relevant des législations maladie, accident de travail/ maladie professionnelle et maternité, et sont limités, toutes prestations comprises, aux frais réels engagés.
+
+(2) La garantie prothèse dentaire non remboursée comprend les actes suivants :
+
+– couronnes dentaires : HBLD038, HBLD036, à l'exclusion des couronnes ou dents à tenon préfabriquées, couronnes ou dents à tenon provisoires, couronnes à recouvrement partiel ;
+
+– prothèses supra-implantaires : HBLD132, HBLD492, HBLD118, HBLD199, HBLD240, HBLD236, HBLD217, HBLD171 ;
+
+– bridges : HBLD040, HBLD043, HBLD033, HBLD023, et les actes annexes s'y rapportant : HBMD490, HBMD342, HBMD082, HBMD479, HBMD433, HBMD072, HBMD081, HBMD087, à l'exclusion des prothèses dentaires sur dents temporaires, prothèses dentaires ou dents à tenon préfabriquées, prothèses dentaires ou dents à tenon provisoires, les piliers de bridge à recouvrement partiel.
+
+(3) Liste des actes de préventions :
+
+a) Scellement des sillons sur les molaires avant 14 ans
+
+b) Détartrage annuel complet sus-et sous-gingival effectué en 2 séances maximum
+
+c) Premier bilan du langage oral ou écrit pour un enfant de moins de 14 ans
+
+d) Dépistage de l'hépatite B
+
+e) Dépistage une fois tous les 5 ans des troubles de l'audition chez les personnes âgées de plus de 50 ans pour un des actes suivants :
+
+I. – Audiométrie tonale ou vocale
+
+II. – Audiométrie tonale avec tympanométrie
+
+III. – Audiométrie vocale dans le bruit
+
+IV. – Audiométrie tonale et vocale
+
+V. – Audiométrie tonale et vocale avec tympanométrie
+
+f) Ostéodensitométrie pour les femmes de plus de 50 ans, tous les 6 ans
+
+g) Vaccinations suivantes, seules ou combinées :
+
+I. – Diphtérie, tétanos et poliomyélite : tous âges
+
+II. – Coqueluche : avant 14 ans
+
+III. – Hépatite B : avant 14 ans
+
+IV. – BCG : avant 6 ans
+
+V. – Rubéole pour les adolescentes qui n'ont pas été vaccinées et pour les femmes non immunisées désirant un enfant
+
+VI. – Haemophilus influenzae B – infections à l'origine de la méningite de l'enfant
+
+VII. – Vaccination contre les infections invasives à pneumocoques pour les enfants de moins de 18 mois.
+
+(4) Voir grille optique ci-après. |
+
+Grille optique
+
+Adulte ( 18 ans) code LPP |
+
+Unifocaux/ multifocaux |
+
+Avec/ sans cylindre |
+
+Sphère |
+
+Montant par verre |
+
+2203240 : verre blanc |
+
+Unifocaux |
+
+Sphérique |
+
+De – 6 à + 6 |
+
+2,5 % du PMSS |
+
+2287916 : verre teinté |
+
+|
+
+|
+
+|
+
+|
+
+2280660 : verre blanc |
+
+|
+
+|
+
+De – 6,25 à – 10 ou de + 6,25 à + 10 |
+
+2,5 % du PMSS |
+
+2282793 : verre blanc |
+
+|
+
+|
+
+|
+
+|
+
+2263459 : verre teinté |
+
+|
+
+|
+
+|
+
+|
+
+2265330 : verre teinté |
+
+|
+
+|
+
+|
+
+|
+
+2235776 : verre blanc |
+
+|
+
+|
+
+< – 10 ou > + 10 |
+
+2,5 % du PMSS |
+
+2295896 : verre teinté |
+
+|
+
+|
+
+|
+
+|
+
+2259966 : verre blanc |
+
+|
+
+Cylindre < 4 |
+
+De – 6 à + 6 |
+
+2,5 % du PMSS |
+
+2226412 : verre teinté |
+
+|
+
+|
+
+|
+
+|
+
+2284527 : verre blanc |
+
+|
+
+|
+
+< – 6 et > + 6 |
+
+2,5 % du PMSS |
+
+2254868 : verre teinté |
+
+|
+
+|
+
+|
+
+|
+
+2212976 : verre blanc |
+
+|
+
+Cylindre > 4 |
+
+De – 6 à + 6 |
+
+2,5 % du PMSS |
+
+2252668 : verre teinté |
+
+|
+
+|
+
+|
+
+|
+
+2288519 : verre blanc |
+
+|
+
+|
+
+< – 6 et > + 6 |
+
+2,5 % du PMSS |
+
+2299523 : verre teinté |
+
+|
+
+|
+
+|
+
+|
+
+2290396 : verre blanc |
+
+Multifocaux |
+
+Sphérique |
+
+De – 4 à + 4 |
+
+2,5 % du PMSS |
+
+2291183 : verre teinté |
+
+|
+
+|
+
+|
+
+|
+
+2245384 : verre blanc |
+
+|
+
+|
+
+< – 4 ou > + 4 |
+
+2,5 % du PMSS |
+
+2295198 : verre teinté |
+
+|
+
+|
+
+|
+
+|
+
+2227038 : verre blanc |
+
+|
+
+Tout cylindre |
+
+De – 8 à + 8 |
+
+2,5 % du PMSS |
+
+2299180 : verre teinté |
+
+|
+
+|
+
+|
+
+|
+
+2202239 : verre blanc |
+
+|
+
+|
+
+< – 8 ou > + 8 |
+
+2,5 % du PMSS |
+
+2252042 : verre teinté |
+
+|
+
+|
+
+|
+
+|
+
+Enfant
+
+(< 18 ans)
+
+Code LPP |
+
+Unifocaux/
+
+multifocaux |
+
+Avec/ sans
+
+cylindre |
+
+Sphère |
+
+Montant
+
+par verre |
+
+2261874 : verre blanc |
+
+Unifocaux |
+
+Sphérique |
+
+De – 6 à + 6 |
+
+2,5 % du PMSS |
+
+2242457 : verre teinté |
+
+|
+
+|
+
+|
+
+|
+
+2243540 : verre blanc |
+
+|
+
+|
+
+De – 6,25 à – 10 ou de + 6,25 à + 10 |
+
+2,5 % du PMSS |
+
+2297441 : verre teinté |
+
+|
+
+|
+
+|
+
+|
+
+2243304 : verre blanc |
+
+|
+
+|
+
+|
+
+|
+
+2291088 : verre teinté |
+
+|
+
+|
+
+|
+
+|
+
+2273854 : verre blanc |
+
+|
+
+|
+
+< – 10 ou > + 10 |
+
+2,5 % du PMSS |
+
+2248320 : verre teinté |
+
+|
+
+|
+
+|
+
+|
+
+2200393 : verre blanc |
+
+|
+
+Cylindre < 4 |
+
+De – 6 à + 6 |
+
+2,5 % du PMSS |
+
+2270413 : verre teinté |
+
+|
+
+|
+
+|
+
+|
+
+2283953 : verre blanc |
+
+|
+
+|
+
+< – 6 et > + 6 |
+
+2,5 % du PMSS |
+
+2219381 : verre teinté |
+
+|
+
+|
+
+|
+
+|
+
+2238941 : verre blanc |
+
+|
+
+Cylindre > 4 |
+
+De – 6 à + 6 |
+
+2,5 % du PMSS |
+
+2268385 : verre teinté |
+
+|
+
+|
+
+|
+
+|
+
+2245036 : verre blanc |
+
+|
+
+|
+
+< – 6 et > + 6 |
+
+2,5 % du PMSS |
+
+2206800 : verre teinté |
+
+|
+
+|
+
+|
+
+|
+
+2259245 : verre blanc |
+
+Multifocaux |
+
+Sphérique |
+
+De – 4 à + 4 |
+
+2,5 % du PMSS |
+
+2264045 : verre teinté |
+
+|
+
+|
+
+|
+
+|
+
+2238792 : verre blanc |
+
+|
+
+|
+
+< – 4 ou > + 4 |
+
+2,5 % du PMSS |
+
+2202452 : verre teinté |
+
+|
+
+|
+
+|
+
+|
+
+2240671 : verre blanc |
+
+|
+
+Tout cylindre |
+
+De – 8 à + 8 |
+
+2,5 % du PMSS |
+
+2282221 : verre teinté |
+
+|
+
+|
+
+|
+
+|
+
+2234239 : verre blanc |
+
+|
+
+|
+
+< – 8 ou > + 8 |
+
+2,5 % du PMSS |
+
+2259660 : verre teinté |
+
+|
+
+|
+
+|
+
+|
+
+(1) Paragraphes exclus de l'extension comme étant contraires aux dispositions de l'article L. 2221-1 du code du travail et de l'article L. 911-1 du code de la sécurité sociale.
+
+(Arrêté du 21 février 2017-art. 1)
+
+(2) Article étendu sous réserve de l'application des dispositions de l'article L. 911-8 du code de la sécurité sociale.
+
+(Arrêté du 21 février 2017-art. 1)
+
+(3) Mots exclus de l'extension comme étant contraires aux dispositions de l'article L. 911-8 du code de la sécurité sociale.
+
+(Arrêté du 21 février 2017 - art. 1)
