@@ -26,7 +26,7 @@ Pré requis recyclage
 
 |
 
-Titulaire des diplômes S.S.I.A.P., d'une équivalence ou des diplômes "ERP" et "IGH" niveaux 1 à 3.
+Titulaire des diplômes S.S.I.A.P., d'une équivalence ou des diplômes "ERP" et "IGH" niveaux 1 à 3 ou des décisions de reconnaissance de qualification professionnelle délivrées par le ministre de l'intérieur en application des articles 3-1 à 3-3.
 
 Qualification de secourisme en cours de validité
 
@@ -36,7 +36,7 @@ Pré requis remise à niveau
 
 |
 
-Titulaire des diplômes S.S.I.A.P., d'une équivalence ou des diplômes "ERP" et "IGH" niveaux 1 à 3.
+Titulaire des diplômes S.S.I.A.P., d'une équivalence ou des diplômes "ERP" et "IGH" niveaux 1 à 3 ou des décisions de reconnaissance de qualification professionnelle délivrées par le ministre de l'intérieur en application des articles 3-1 à 3-3.
 
 Qualification de secourisme en cours de validité
 
