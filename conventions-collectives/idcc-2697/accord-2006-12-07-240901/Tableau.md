@@ -2,404 +2,686 @@
 
 Régime frais de santé ensemble du personnel
 
-Garanties aménagées. - Base
-
-Nature des soins |
-
-Montant des prestations |
-
-Hospitalisation (médicale, chirurgicale et psychiatrique) |
+Nature des soins
 
 |
 
-Frais de séjour |
+Montant des prestations au 01/01/2016
 
 |
 
-Secteur conventionné |
-
-100 % des frais réels |
-
-Secteur non conventionné |
-
-90 % des frais réels, limité à 400 % de la BR |
-
-Honoraires |
+HOSPITALISATION (médicale, chirurgicale et psychiatrique)
 
 |
 
-Secteur conventionné |
+|
 
-100 % des frais réels limité à 400 % de la BR |
-
-Secteur non conventionné |
-
-90 % des frais réels limité à 400 % de la BR |
-
-Forfait journalier hospitalier |
-
-100 % des frais réels |
-
-Chambre particulière (y compris maternité) |
-
-3 % PMSS par jour |
-
-Frais d'accompagnement (enfant de moins de 16 ans) |
-
-40 € par jour limité à 60 jours par an |
-
-Frais médicaux courants |
+Frais de séjour-
 
 |
 
-Consultations, visites généralistes conventionnés ou non conventionnés |
+|
 
-200 % de la BR |
-
-Consultations, visites spécialistes conventionnés ou non conventionnés |
-
-200 % de la BR |
-
-Auxiliaires médicaux |
-
-200 % de la BR |
-
-Analyses |
-
-200 % de la BR |
-
-Actes d'imagerie, actes de radiologie et d'électroradiologie conventionnés ou non conventionnés |
-
-200 % de la BR |
-
-Actes de spécialité, actes techniques médicaux conventionnés ou non conventionnés |
-
-200 % de la BR |
-
-Densitométrie osseuse |
-
-75 € par an et par bénéficiaire |
-
-Sevrage tabagique (bénéficiaires : 16 ans et plus) |
-
-50 % des frais réels, maximum 100 € au total |
-
-Ostéopathie, chiropractie, acupuncture |
-
-40 € par séance (maximum 3 séances
-
-par an et par bénéficiaire) |
-
-Consultation diététicien enfant de moins de 12 ans |
-
-100 % des frais réels limité à 30 €
-
-par consultation, maximum 2 séances par an |
-
-Pharmacie |
-
-Ticket modérateur |
-
-Vaccins non pris en charge par la sécurité sociale/ MSA mais prescrits |
-
-100 % des frais réels |
-
-Vaccins non pris en charge par la sécurité sociale/ MSA et non prescrits |
-
-6 % PMSS par an et par bénéficiaire |
-
-Transport |
+Secteur conventionné
 
 |
 
-Transport des malades |
-
-100 % des frais réels |
-
-Maternité, adoption |
+100 % des Frais Réels
 
 |
 
-Naissances simples |
-
-20 % PMSS |
-
-Naissances multiples |
-
-40 % PMSS |
-
-Frais d'optique |
-
-Limitation à une paire de lunettes tous les 2 ans,
-
-sauf évolution de la dioptrie |
-
-Verres unifocaux ou multifocaux |
-
-Voir grille optique |
-
-Monture |
-
-5 % PMSS |
-
-Lentilles prises en charge ou non par la sécurité sociale/ MSA |
-
-10 % PMSS par an et par bénéficiaire |
-
-Chirurgie réfractive |
-
-305 € par œil, par an et par bénéficiaire |
-
-Frais dentaires |
-
-Plafond dentaire de 100 % PMSS
-
-par an et par bénéficiaire (hors implantologie) |
-
-Soins dentaires (y compris inlays-onlays) |
-
-200 % de la BR |
-
-Prothèses dentaires prises en charge par la sécurité
-
-sociale/ MSA |
-
-420 % de la BR |
-
-Prothèses dentaires provisoires fixes non prises en charge par la sécurité sociale/ MSA |
-
-430 € |
-
-Pilier de bridge sur dent saine |
-
-537,50 € |
-
-Orthodontie prise en charge par la sécurité sociale/ MSA |
-
-300 % de la BR |
-
-Orthodontie non prise en charge par la sécurité sociale/ MSA (début de traitement avant 26 ans) |
-
-300 % de la BR dans la limite de 580,50 € par semestre, avec un maximum de 4 semestres consécutifs |
-
-Implantologie (maximum 3 implants par an) |
+Secteur non conventionné
 
 |
 
-Pose de l'implant |
-
-645 € |
-
-Faux moignon implantaire |
-
-215 € |
-
-Couronne |
-
-537,50 € |
-
-Parodontologie : |
+90 % des Frais Réels limité à 400 % de la Base de Remboursement
 
 |
 
-Curetage : surfaçage |
-
-144,60 € par séance (maximum 2 séances
-
-par an et par bénéficiaire) |
-
-Greffe gingivale |
-
-430 € (maximum une greffe par an et par bénéficiaire) |
-
-Allongement coronaire |
-
-72,30 € par intervention (4 interventions maximum
-
-par an et par bénéficiaire) |
-
-Lambeau |
-
-215 € (maximum 4 interventions par an
-
-et par bénéficiaire) |
-
-Appareillage |
+Honoraires
 
 |
 
-Prothèses auditives |
+|
 
-200 % de la BR + 50 % PMSS par an |
-
-Gros et petit appareillages |
-
-300 % de la BR |
-
-Autres prothèses prises en charge par la sécurité sociale/ MSA |
-
-300 % de la BR |
-
-Orthopédie |
-
-300 % de la BR |
-
-Fournitures médicales, pansements |
-
-100 % des frais réels |
-
-Cure thermale (21 jours maximum) |
+Secteur conventionné
 
 |
 
-Cure thermale prise en charge par la sécurité sociale/ MSA (transport et hébergement) |
-
-25 % PMSS dans la limite des frais restant à charge |
-
-Allocation obsèques |
+Médecins CAS : Rbt MSA + TM + 300 % BR
 
 |
 
-Assuré, conjoint, concubin, pacsé, enfant |
+Secteur non conventionné
 
-100 % PMSS limité aux frais réels pour les enfants
+|
 
-de moins de 12 ans |
+Médecins non CAS : Rbt MSA + TM + 100 % BR
 
-Garanties sous déduction des prestations versées par la MSA/ sécurité sociale
+|
 
-Lexique
+Forfait journalier hospitalier
 
-PMSS : plafond mensuel de la sécurité sociale, qui correspond au salaire de référence fixé chaque année par la sécurité sociale et qui sert de référence pour déterminer certaines prestations.
+|
 
-Base de remboursement de la sécurité sociale : tarif fixé par la sécurité sociale sur lequel celle-ci calcule son remboursement.
+100 % des Frais Réels
 
-Ticket modérateur : différence entre la base de remboursement de la sécurité sociale et son remboursement.
+|
+
+Chambre particulière (y compris Maternité)
+
+|
+
+3 % PMSS/ jour
+
+|
+
+Frais d'accompagnement (enfant de moins de 16 ans)
+
+|
+
+40 € par jour limité à 60 jours par an
+
+|
+
+FRAIS MEDICAUX COURANTS
+
+|
+
+|
+
+Consultations/ visites généralistes conventionnés ou non conventionnés
+
+|
+
+Médecins CAS : Rbt MSA + TM + 100 % BR
+
+|
+
+Consultations/ visites spécialistes conventionnés ou non conventionnés
+
+|
+
+Médecins non CAS : Rbt MSA + TM + 80 % BR
+
+|
+
+Auxiliaires médicaux
+
+|
+
+200 % de la Base de Remboursement
+
+|
+
+Analyses
+
+|
+
+Médecins CAS : Rbt MSA + TM + 100 % BR
+
+Médecins non CAS : Rbt MSA + TM + 80 % BR
+
+|
+
+Actes d'imagerie/ actes de radiologie et électroradiologie conventionnés ou non conventionnés
+
+|
+
+Actes de spécialité/ actes techniques médicaux conventionnés ou non conventionnés
+
+|
+
+Densitométrie osseuse
+
+|
+
+75 € par an et par bénéficiaire
+
+|
+
+Sevrage tabagique (bénéficiaire 16 ans et plus)
+
+|
+
+50 % des Frais Réels maxi 100 € au Total
+
+|
+
+Ostéopathie, chiropractie, acupuncture
+
+|
+
+40 € par séance (maxi 3 séances/ an/ bénéficiaire)
+
+|
+
+Consultation diététicien enfant moins de 12 ans
+
+|
+
+100 % des Frais Réels limité à 30 €/ consultation max 2 séances par an
+
+|
+
+PHARMACIE
+
+|
+
+|
+
+Pharmacie
+
+|
+
+Ticket Modérateur
+
+|
+
+Vaccins non pris en charge par la Sécurité sociale/ MSA mais prescrits
+
+|
+
+100 % des Frais Réels
+
+|
+
+Vaccins non pris en charge par la Sécurité sociale/ MSA et non prescrits
+
+|
+
+6 % PMSS/ an/ bénéficiaire
+
+|
+
+TRANSPORT
+
+|
+
+|
+
+Transport des malades
+
+|
+
+100 % des Frais Réels
+
+|
+
+MATERNITE-ADOPTION
+
+|
+
+|
+
+Naissance simple
+
+|
+
+20 % PMSS
+
+|
+
+Naissance multiple
+
+|
+
+40 % PMSS
+
+|
+
+FRAIS D'OPTIQUE
+
+|
+
+1 équipement tous les 2 ans sauf pour les mineurs ou en cas d'évolution de la vue où un équipement peut être remboursé tous les ans
+
+|
+
+Verres unifocaux ou multifocaux
+
+|
+
+Voir Grille Optique
+
+|
+
+Monture
+
+|
+
+150 €
+
+|
+
+Lentilles prises en charge ou non par la Sécurité sociale/ MSA
+
+|
+
+10 % PMSS/ an/ bénéficiaire (minimum Rbt MSA + TM)
+
+|
+
+Chirurgie réfractive
+
+|
+
+305 € par oeil/ an/ bénéficiaire
+
+|
+
+FRAIS DENTAIRES
+
+|
+
+Plafond dentaire de 100 % PMSS/ an/ Bénéficiaire (hors implantologie)
+
+|
+
+Soins dentaires (y compris Inlays Onlays)
+
+|
+
+200 % BR (si plafond atteint Rbt MSA + TM)
+
+|
+
+Prothèses dentaires prises en charge par la Sécurité sociale/ MSA
+
+|
+
+420 % BR (si plafond atteint Rbt MSA + TM + 25 % BR)
+
+|
+
+Prothèses dentaires provisoire fixe non prises en charge par la Sécurité sociale/ MSA
+
+|
+
+430 €
+
+|
+
+Pilier de bridge sur dent saine
+
+|
+
+537,50 €
+
+|
+
+Orthodontie prise en charge par la Sécurité sociale/ MSA
+
+|
+
+300 % BR (si plafond atteint Rbt MSA + TM + 25 % BR)
+
+|
+
+Orthodontie non prise en charge par la Sécurité sociale/ MSA (début de traitement avant 26 ans)
+
+|
+
+300 % de la Base de Remboursement dans la limite à 580,50 € par semestre avec un maximum de 4 semestres consécutifs
+
+|
+
+Implantologie (maximum 3 implants par an)
+
+|
+
+|
+
+-pose de l'implant
+
+|
+
+645 €
+
+|
+
+-faux moignon implantaire
+
+|
+
+215 €
+
+|
+
+-couronne
+
+|
+
+537,50 €
+
+|
+
+Parodontologie
+
+|
+
+|
+
+-Curetage : surfaçage
+
+|
+
+144,60 € par séance (maxi 2 séances par an/ bénéficiaire)
+
+|
+
+-Greffe gingivale
+
+|
+
+430 € (maxi une greffe par an/ bénéficiaire)
+
+|
+
+-Allongement coronaire
+
+|
+
+72,30 € par intervention (4 interventions max/ an/ bénéficiaire)
+
+|
+
+-Lambeau
+
+|
+
+215 € (max 4 interventions par an/ bénéficiaire)
+
+|
+
+APPAREILLAGE
+
+|
+
+|
+
+Prothèses auditives
+
+|
+
+200 % de la Base de Remboursement + 50 % PMSS/ an
+
+|
+
+Gros et petit appareillage
+
+|
+
+300 % de la Base de Remboursement
+
+|
+
+Autres prothèses prises en charge par la Sécurité sociale/ MSA
+
+|
+
+300 % de la Base de Remboursement
+
+|
+
+Orthopédie
+
+|
+
+300 % de la Base de Remboursement
+
+|
+
+Fournitures médicales, pansements
+
+|
+
+100 % des Frais Réels
+
+|
+
+CURE THERMALE (21 jours maximum)
+
+|
+
+|
+
+Cure thermale prises en charge par la Sécurité sociale/ MSA (Transport et Hébergement)
+
+|
+
+25 % PMSS dans la limite des frais restant à charge
+
+|
+
+ALLOCATION OBSEQUES
+
+|
+
+|
+
+Assuré, conjoint, concubin, pacsé, enfant
+
+|
+
+100 % PMSS limité aux frais réels pour les enfants de moins de 12 ans
+
+|
 
 Grille optique
 
-Type de verre |
-
-Puissance sphère |
-
-Cylindrique |
-
-Garantie par verre |
+Type de verre
 
 |
 
-|
+Puissance sphère
 
 |
 
-Adulte |
+Cylindre
 
-Enfant |
+|
 
-Unifocaux, classe 1 |
+Garantie par verre
+
+|
+
+Adulte
+
+|
+
+Enfant
+
+|
+
+Unifocaux-Classe 1
+
+|
 
 0 à 2
 
-2,25 à 4 |
+2,25 à 4
 
-< 2 |
+|
 
-5 % PMSS |
+≤ 2
 
-4 % PMSS |
+|
 
-Unifocaux, classe 2 |
+159 €
+
+|
+
+127 €
+
+|
+
+Unifocaux-Classe 2
+
+|
 
 0 à 4
 
-4,25 à 6 |
+4,25 à 6
+
+|
 
 > 2
 
-< 2 |
+≥ 2
 
-5 % PMSS |
+|
 
-4 % PMSS |
+159 €
 
-Unifocaux, classe 3 |
+|
+
+127 €
+
+|
+
+Unifocaux-Classe 3
+
+|
 
 4,25 à 6
 
-6,25 à 8 |
+6,25 à 8
+
+|
 
 > 2
 
-< 2 |
+≥ 2
 
-7 % PMSS |
+|
 
-6 % PMSS |
+159 €
 
-Unifocaux, classe 4 |
+223 €
+
+|
+
+159 €
+
+191 €
+
+|
+
+Unifocaux-Classe 4
+
+|
 
 6,25 à 8
 
-> 8 |
+> 8
+
+|
 
 > 2
 
-Tous |
+Tous
 
-7 % PMSS |
+|
 
-6 % PMSS |
+223 €
 
-Multifocaux, classe 1 |
+|
+
+191 €
+
+|
+
+Multifocaux-Classe 1
+
+|
 
 0 à 2
 
-2,25 à 4 |
+4,25 à 6
 
-< 2 |
+|
 
-9 % PMSS |
+≤ 2
 
-8 % PMSS |
+|
 
-Multifocaux, classe 2 |
+286 €
+
+|
+
+254 €
+
+|
+
+Multifocaux-Classe 2
+
+|
 
 0 à 4
 
-4,25 à 6 |
+4,25 à 6
+
+|
 
 > 2
 
-< 2 |
+≥ 2
 
-9 % PMSS |
+|
 
-8 % PMSS |
+286 €
 
-Multifocaux, classe 3 |
+|
+
+254 €
+
+|
+
+Multifocaux-Classe 3
+
+|
 
 4,25 à 6
 
-6,25 à 8 |
+6,25 à 8
+
+|
 
 > 2
 
-< 2 |
+≥ 2
 
-10 % PMSS |
+|
 
-10 % PMSS |
+300 €
 
-Multifocaux, classe 4 |
+|
+
+300 €
+
+|
+
+Multifocaux-Classe 4
+
+|
 
 6,25 à 8
 
-> 8 |
+> 8
+
+|
 
 > 2
 
-Tous |
+Tous
 
-12 % PMSS |
+|
 
-10 % PMSS |
+300 €
+
+|
+
+300 €
+
+|
