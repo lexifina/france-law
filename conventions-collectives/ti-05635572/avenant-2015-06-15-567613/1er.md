@@ -1,0 +1,21 @@
+# Article 1er
+
+L'article 3 du règlement RPP est modifié comme suit :
+
+« Article 3
+
+Champ d'application : personnel bénéficiaire
+
+Le présent règlement s'applique obligatoirement à l'ensemble des salariés des entreprises, organismes ou syndicats visés à l'article 2 exerçant leurs activités professionnelles en France métropolitaine et dans les départements d'outre-mer et cela sans condition d'ancienneté.
+
+Toutefois, les salariés qui sont éligibles à l'un des deux cas de dispense visés ci-dessous peuvent, à leur demande, ne pas bénéficier du présent règlement, et cela conformément à l'article R. 242-1-6 du code de la sécurité sociale :
+
+– salariés bénéficiaires par ailleurs d'une couverture collective relevant d'un dispositif de prévoyance complémentaire conforme à un de ceux fixés par arrêté du ministre en charge de la sécurité sociale, auprès d'un autre employeur, à condition de le justifier chaque année ;
+
+– salariés et apprentis bénéficiaires d'un contrat à durée déterminée ou d'un contrat de mission d'une durée inférieure à 12 mois, même s'ils ne bénéficient pas d'une couverture individuelle souscrite par ailleurs.
+
+L'employeur a l'obligation de proposer aux salariés visés ci-dessus l'affiliation au RPP. Les salariés remplissant les conditions d'une des dispenses ci-dessus doivent en faire la demande par un écrit stipulant leur refus d'affiliation et le motif exact parmi les cas listés ci-dessus, accompagné des justificatifs nécessaires le cas échéant, auprès de l'employeur qui en conservera la trace.
+
+En cas de rupture du contrat de travail survenant alors que l'intéressé est en arrêt de travail indemnisé par la sécurité sociale pour maladie ou accident, le bénéfice des dispositions du présent règlement est maintenu pendant toute la durée de l'arrêt de travail.
+
+Le personnel bénéficiaire est désigné sous le terme “ le personnel ”. »
