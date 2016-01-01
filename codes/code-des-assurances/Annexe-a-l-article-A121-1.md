@@ -8,7 +8,7 @@ Art. 2.-La prime de référence est la prime établie par l'assureur pour le ris
 
 Les caractéristiques techniques concernent le véhicule, la zone géographique de circulation ou de garage, l'usage socioprofessionnel ou le kilométrage parcouru, éventuellement la conduite exclusive du véhicule, ainsi que les réductions éventuelles figurant au tarif des entreprises d'assurance.
 
-Cette prime de référence ne comprend pas les majorations éventuellement prévues pour les circonstances aggravantes énumérées à l'article A. 335-9-2 du Code des assurances. En revanche, pour l'application des dispositions de la clause, cette prime de référence comprend la surprime éventuellement prévue pour les conducteurs novices à l'article A. 335-9-1 du Code des assurances ainsi que les réductions éventuelles mentionnées à l'article A. 335-9-3.
+Cette prime de référence ne comprend pas les majorations éventuellement prévues pour les circonstances aggravantes énumérées à l'article A. 121-1-2 du Code des assurances. En revanche, pour l'application des dispositions de la clause, cette prime de référence comprend la surprime éventuellement prévue pour les conducteurs novices à l'article A. 121-1-1 du Code des assurances ainsi que les réductions éventuelles mentionnées à l'article A. 335-9-3.
 
 Art. 3.-La prime sur laquelle s'applique le coefficient de réduction-majoration est la prime de référence définie à l'article précédent, pour la garantie des risques de responsabilité civile, de dommages au véhicule, de vol, d'incendie, de bris de glaces et de catastrophes naturelles.
 
