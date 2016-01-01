@@ -248,14 +248,126 @@ L
 
 |
 
-2. Dans les zones définies au point 1 de la présente annexe, la pêche au moyen des engins traînants de fond suivants est interdite, le code de chaque engin est issu de la classification statistique internationale type des engins de pêche de la FAO précisé entre parenthèses :
+Les zones de nourricerie de la sole commune (Solea solea) en Manche Est sont complétées par les zones situées à l'Est de la ligne reliant les points N et O, délimitées au nord par la ligne joignant les points M et N et au Sud par la ligne joignant les points O et P :
 
-- sennes : sennes danoises (SDN), sennes écossaises (SSC), sennes hâlées à bord (SV), sennes manœuvrées par deux bateaux (SPR), sennes non spécifiées (SX) ;
+Coordonnées des points géographiques (système WGS 84)
 
-- chaluts de fond : chaluts à perche (TBB), chaluts de fond à panneaux (OTB), chaluts-bœufs de fond (PTB), chaluts de fond non spécifiés (TB) ; chaluts jumeaux à panneaux (OTT) ; chaluts à panneaux non spécifiés (OT), chaluts bœufs non spécifiés (PT), autres chaluts non spécifiés (TX) ;
+CÔTES DU NORD - PAS-DE-CALAIS - PICARDIE
 
-- dragues : dragues remorquées par bateau (DRB).
+|
 
-CARTOGRAPHIES DES ZONES À TITRE INDICATIF, SEULES LES COORDONNÉES GÉOGRAPHIQUES DES POINTS FONT FOI
+|
 
-Vous pouvez consulter l'image dans le fac-similé du JO nº 0027 du 01/02/2015, texte nº 8
+Latitude
+
+|
+
+Longitude
+
+|
+
+M
+
+|
+
+50° 33'57" N
+
+|
+
+01° 34'44" E
+
+|
+
+N
+
+|
+
+50° 33'57" N
+
+|
+
+01° 33'57" E
+
+|
+
+O
+
+|
+
+50° 12'27" N
+
+|
+
+01° 30'05" E
+
+|
+
+P
+
+|
+
+50° 12'27" N
+
+|
+
+01° 30'52" E
+
+|
+
+2. Dans les zones définies au point 1 de la présente annexe, la pêche au moyen des engins suivants est interdite, le code correspondant est issu de la classification statistique internationale type des engins de pêche de la FAO précisé entre parenthèses :
+
+-Chaluts de fond :
+
+-chaluts à perche (TBB) ;
+
+-chaluts de fond à panneaux (OTB) ;
+
+-chaluts jumeaux à panneaux (OTT) ;
+
+-chaluts-bœufs de fond (PTB) ;
+
+-chaluts à langoustines (TBN) ;
+
+-chaluts de fond non spécifiés (TB) (ERS uniquement) ;
+
+-Dragues :
+
+-dragues remorquées par un bateau (DRB) ;
+
+-dragues à main manœuvrées à partir du bateau (DHB) ;
+
+-Filets maillants et emmêlants :
+
+-trémails (GTR) ;
+
+-trémails et filets maillants combinés (GTN) ;
+
+-filets maillants (non spécifiés) (GN) (ERS uniquement) ;
+
+-filets maillants encerclants (GNC) (ERS uniquement) ;
+
+-filets maillants calés de fond à une nappe, filets droits (GNS) (ERS uniquement) ;
+
+-autres filets maillants et filets emmêlants (non spécifiés) (GEN) ;
+
+-Filets tournants (ERS uniquement) :
+
+-sennes tournantes (PS) ;
+
+-sennes coulissantes manœuvrées par un navire (PS1) ;
+
+-sennes coulissantes manœuvrées par deux navires (PS2) ;
+
+-Sennes :
+
+-sennes danoises (SDN) ;
+
+-sennes de plage (SB) ;
+
+-sennes écossaises (dragage à la volée) (SSC) (ERS uniquement) ;
+
+-sennes de bateau (SV) (ERS uniquement) ;
+
+-sennes-bœufs écossaise (dragage à la volée) (SPR) (ERS uniquement) ;
+
+-sennes (non spécifiées) (SX) (ERS uniquement).
