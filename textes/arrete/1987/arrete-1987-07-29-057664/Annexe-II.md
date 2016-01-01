@@ -1,22 +1,24 @@
 # Article Annexe II
 
-plafonds de ressources annuelles imposables prévus à l'article R. 331-12 du code de la construction et de l'habitation (CCH) applicables aux logements mentionnés au II de l'article R. 331-1 du CCH (plan d'intégration)
+PLAFONDS DE RESSOURCES ANNUELLES IMPOSABLES PRÉVUS à L'ARTICLE R. 331-12 DU CODE DE LA CONSTRUCTION ET DE L'HABITATION (CCH) APPLICABLES AUX LOGEMENTS MENTIONNÉS AU II DE L'ARTICLE R. 331-1 DU CCH (PLA D'INTÉGRATION)
 
 CATÉGORIE DE MÉNAGES
 
 |
 
-PARIS ET COMMUNES LIMITROPHES
+PARIS
+
+et communes limitrophes
 
 (en euros)
 
 |
 
-ILE-DE-FRANCE HORS PARIS
+ILE-DE-FRANCE
 
-et communes limitrophes
+hors Paris
 
-(en euros)
+et communes limitrophes (en euros)
 
 |
 
@@ -30,15 +32,15 @@ AUTRES RÉGIONS
 
 |
 
-12 722
+12 725
 
 |
 
-12 722
+12 725
 
 |
 
-11 058
+11 060
 
 |
 
@@ -46,15 +48,15 @@ AUTRES RÉGIONS
 
 |
 
-20 740
+20 744
 
 |
 
-20 740
+20 744
 
 |
 
-16 112
+16 115
 
 |
 
@@ -62,15 +64,15 @@ AUTRES RÉGIONS
 
 |
 
-27 186
+27 191
 
 |
 
-24 929
+24 934
 
 |
 
-19 374
+19 378
 
 |
 
@@ -78,15 +80,15 @@ AUTRES RÉGIONS
 
 |
 
-29 757
+29 763
 
 |
 
-27 373
+27 378
 
 |
 
-21 558
+21 562
 
 |
 
@@ -94,15 +96,15 @@ AUTRES RÉGIONS
 
 |
 
-35 399
+35 406
 
 |
 
-32 407
+32 413
 
 |
 
-25 223
+25 228
 
 |
 
@@ -110,15 +112,15 @@ AUTRES RÉGIONS
 
 |
 
-39 836
+39 844
 
 |
 
-36 466
+36 473
 
 |
 
-28 425
+28 431
 
 |
 
@@ -126,14 +128,14 @@ Par personne supplémentaire
 
 |
 
-4 438
+4 439
 
 |
 
-4 062
+4 063
 
 |
 
-3 170
+3 171
 
 |
