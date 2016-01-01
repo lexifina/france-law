@@ -1,0 +1,11 @@
+# Article XI.2
+
+Le présent accord a pour objet de généraliser la complémentaire santé dans la branche des missions locales et PAIO au bénéfice des salariés visés à l'article XI. 3 afin de permettre le remboursement complémentaire des frais occasionnés par la maladie, la maternité ou par un accident. Cette couverture permet ainsi le remboursement des frais exposés pour les prestations de santé, en complément, le cas échéant, de la prise en charge opérée par la sécurité sociale.
+
+Il est vivement conseillé aux entreprises relevant du champ d'application de la convention collective nationale d'adhérer à l'organisme assureur recommandé par la branche et d'y affilier la totalité de leurs salariés.
+
+Cet accord n'a pas pour objet de remettre en cause les accords existants. Il a surtout pour objectif d'offrir une couverture santé plus favorable que la loi et extensible à la famille, notamment pour les structures qui sont dépourvues d'un accord complémentaire santé.
+
+Les entreprises ayant instauré un régime de frais de soins obligatoire avant l'entrée en vigueur du présent accord peuvent conserver leur régime dès lors que les garanties assurées par ce dernier couvrent les mêmes prestations à un niveau supérieur ou égal à celles définies dans le présent accord. Le régime « complémentaire santé » défini par la branche est conforme à l'article L. 871-1 du code de la sécurité sociale relatif aux contrats responsables ainsi qu'aux décrets et arrêtés pris pour son application (R. 871-1 et R. 871-2 du code de la sécurité sociale).
+
+En tout état de cause, la mise en place de la complémentaire santé dans les structures doit se faire dans le respect des règles de la négociation.

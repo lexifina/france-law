@@ -1,0 +1,61 @@
+# Article XI.3
+
+Le présent régime « frais de santé » est un régime à adhésion obligatoire mis en place au bénéfice de l'ensemble des salariés des structures comprises dans le champ d'application défini à l'article XI. 1 du présent accord.
+
+XI. 3.1. Définition des bénéficiaires (1)
+
+c) Les salariés :
+
+Le régime de complémentaire santé bénéficie à l'ensemble des salariés titulaires d'un contrat de travail. Les salariés concernés ne peuvent s'opposer au précompte de leur quote-part de cotisations.
+
+d) Les ayants droit :
+
+Les garanties sont accordées au salarié et aux membres de sa famille à titre obligatoire désignés ci-dessous :
+
+–   le conjoint, le concubin ou la personne liée par un Pacs à charge au sens de la sécurité sociale ;
+
+–   les enfants considérés à charge au sens de la sécurité sociale ;
+
+–   les enfants rattachés à l'assuré ou à son conjoint au sens de la législation fiscale, c'est-à-dire âgés de moins de 21 ans (ou de moins de 25 ans si poursuite d'études) ;
+
+–   les enfants jusqu'au jour de leur 28e anniversaire satisfaisant au moins l'une des conditions suivantes :
+
+–   étudiants percevant une rémunération au plus trois mois dans l'année ou à défaut n'excédant pas 60 % du Smic mensuel ;
+
+–   sans condition d'âge pour les enfants reconnus handicapés par la commission des droits et de l'autonomie des personnes handicapées (CDAPH) ;
+
+–   à la recherche d'un premier emploi et inscrits en tant que tels à Pôle emploi.
+
+Le conjoint, le concubin ou la personne liée par un Pacs, non à charge au sens de la sécurité sociale, devra avoir la faculté d'adhérer à titre facultatif.
+
+XI. 3.2. Dispenses d'adhésion
+
+Il est rappelé que l'adhésion des salariés au régime de complémentaire santé est obligatoire. Toutefois, les salariés suivants auront la faculté de refuser leur adhésion au régime :
+
+–   les salariés bénéficiaires d'un contrat à durée déterminée d'une durée inférieure à douze mois, même s'ils ne bénéficient pas d'une couverture individuelle souscrite par ailleurs conformément à l'article R. 241-1-6 du code de la sécurité sociale ;
+
+–   les salariés titulaires d'un contrat d'une durée déterminée au moins égale à douze mois, à condition de justifier par écrit en produisant tous documents d'une couverture individuelle souscrite par ailleurs pour le même type de garanties ;
+
+–   les salariés à temps partiel et apprentis dont l'adhésion au système de garanties les conduirait à s'acquitter d'une cotisation au moins égale à 10 % de leur rémunération brute ;
+
+–   les salariés bénéficiaires de la CMU-C ou d'une aide à l'acquisition d'une complémentaire santé (ACS) : dans ces cas, la dispense, qui doit être justifiée par tout document utile, peut jouer jusqu'à la date à laquelle les salariés cessent de bénéficier de cette couverture ou de cette aide ;
+
+–   les salariés couverts par une assurance individuelle frais de santé au moment de la mise en place des garanties ou de l'embauche si elle est postérieure. La dispense ne peut alors jouer que jusqu'à échéance du contrat individuel. Si le contrat prévoit une clause de renouvellement tacite, la dispense prend fin à la date de reconduction tacite.
+
+Ont également la faculté de refuser d'adhérer au régime, à condition de le justifier chaque année, les salariés qui bénéficient, par ailleurs, y compris en tant qu'ayants droit, de prestations :
+
+–   dans le cadre d'un dispositif de remboursement de « frais de santé » remplissant les conditions mentionnées au sixième alinéa de l'article L.   242-1 du code de la sécurité sociale. Autrement dit, il s'agit des salariés qui bénéficient par ailleurs pour les mêmes risques, y compris en tant qu'ayants droit, d'une couverture collective relevant d'un dispositif de protection sociale complémentaire présentant un caractère collectif et obligatoire, sous réserve de le justifier chaque année ;
+
+–   par le régime local d'assurance maladie du Haut-Rhin, du Bas-Rhin et de la Moselle, en application des articles D. 325-6 et D. 325-7 du code de la sécurité sociale ;
+
+–   par le régime complémentaire d'assurance maladie des industries électriques et gazières en application du décret n° 46-1541 du 22 juin 1946 ;
+
+–   en matière de « frais de santé », dans le cadre des dispositions prévues par le décret n° 2007-1373 du 19 septembre 2007 relatif à la participation de l'Etat et de ses établissements publics au financement de la protection sociale complémentaire de leurs personnels ;
+
+–   en matière de « frais de santé », dans le cadre des dispositions prévues par le décret n° 2011-1474 du 8 novembre 2011 relatif à la participation des collectivités territoriales et de leurs établissements publics au financement de la protection sociale complémentaire de leurs agents.
+
+En aucun cas, une dispense d'adhésion ne peut être imposée par l'employeur.
+
+(1) Article étendu sous réserve de l'application des dispositions des articles L. 911-7 et D. 91162 du code de la sécurité sociale.
+
+(Arrêté du 6 février 2017 - art. 1)
