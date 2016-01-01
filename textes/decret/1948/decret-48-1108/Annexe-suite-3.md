@@ -212,7 +212,7 @@ Attaché
 
 |
 
-Agent chef de 1ere catégorie
+Agent chef de 1re catégorie
 
 |
 
@@ -615,24 +615,6 @@ Secrétaire général
 |
 
 841 - HEB
-
-|
-
-|
-
-9 bis - Centre régional de documentation pédagogique (CRDP)
-
-|
-
-|
-
-|
-
-Directeur
-
-|
-
-701 - HEB
 
 |
 
