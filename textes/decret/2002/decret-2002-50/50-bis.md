@@ -1,9 +1,0 @@
-# Article 50 bis
-
-Six mois au moins avant la fin de la scolarité, un arrêté du Premier ministre détermine le nombre des emplois offerts aux élèves de la promotion dans chacun des corps recrutés par la voie de l'école. Pour le corps des administrateurs civils, il précise leur répartition par ministère.
-
-Au plus tard trois mois avant la fin de la scolarité, les administrations ou les institutions d'emploi transmettent à la commission de suivi de la procédure d'affectation un dossier comportant une présentation générale de l'organisation dans laquelle les emplois sont proposés la description de ces emplois et des profils de carrière proposés ainsi que les modalités retenues pour les entretiens individuels prévus à l'article 50 ter. Le contenu de ce dossier est fixé par arrêté du ministre chargé de la fonction publique. La commission de suivi de la procédure d'affectation s'assure du respect des délais de transmission et du caractère complet des dossiers transmis puis les adresse à l'école, qui les diffuse sans délai aux élèves.
-
-NOTA :
-
-Conformément à l'article 58 1° du décret n°2015-1449 du 9 novembre 2015, les dispositions du décret n° 2002-50 du 10 janvier 2002 restent applicables aux élèves, stagiaires et bénéficiaires des formations ayant commencé leur scolarité, stage ou formation avant le 1er janvier 2016.
