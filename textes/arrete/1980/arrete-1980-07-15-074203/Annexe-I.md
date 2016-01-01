@@ -1,6 +1,6 @@
 # Article Annexe I
 
-Conditions de fabrication ou d'installation
+CONDITIONS DE FABRICATION OU D'INSTALLATION
 
 RÉFÉRENCE
 
@@ -34,21 +34,11 @@ des spécifications
 
 |
 
-Cas des matériels
-
-d'un modèle déjà
-
-commercialisé
-
-et non conforme
-
-à la spécification
+Cas des matériels d'un modèle déjà commercialisé et non conforme à la spécification
 
 |
 
-Cas des nouveaux
-
-matériels
+Cas des nouveaux matériels
 
 |
 
@@ -122,7 +112,7 @@ Cette spécification définit les éléments de conduites montantes réalisés d
 
 |
 
-CCH AFG 2004-02 (juin 2006)
+CCH 2004-02 (juin 2006)
 
 |
 
@@ -146,11 +136,11 @@ La preuve de conformité à la spécification des raccords est apportée par l'o
 
 |
 
-CCH AFG 2007-01 (juin 2007)
+CCH 2007-01 (juin 2014)
 
 |
 
-Kits de tuyaux onduleux pliables en acier inoxydable pour le gaz dans les bâtiments avec une pression de service inférieure ou égale à 0,5 bar (kits PLT ).
+Kits de tuyaux onduleux pliables en acier inoxydable pour le gaz dans les bâtiments avec une pression de service inférieure ou égale à 0,5 bar (kits PLT).
 
 |
 
@@ -170,7 +160,7 @@ La preuve de conformité à la spécification des kits PLT est apportée par l'o
 
 |
 
-CCH AFG 2006-01 (décembre 2007)
+CCH 2006-01 (décembre 2007)
 
 |
 
@@ -193,3 +183,25 @@ Cette spécification définit les caractéristiques des flexibles courts pour le
 La preuve de conformité à la spécification des flexibles courts est apportée par l'obtention de la certification les concernant (marque ATG) gérée par CERTIGAZ sis 8, rue de l'Hôtel-de-Ville, 92200 Neuilly-sur-Seine.
 
 |
+
+CCH 2005-01 (février 2014)
+
+|
+
+Prises gaz de sécurité (PGS) situées à l'extérieur et/ ou l'intérieur des bâtiments pour les appareils à usage domestique ou en établissement recevant du public alimentés par tuyau flexible utilisant les combustibles gazeux distribués par réseaux ou par récipients.
+
+|
+
+Sans objet
+
+|
+
+1er janvier 2016
+
+|
+
+Cette spécification définit les caractéristiques des prises gaz de sécurité situées à l'extérieur ou/ et à l'intérieur d'une habitation ou d'un local et équipée d'un tuyau flexible pour le raccordement externe des appareils à usage domestique ou en établissement recevant du public utilisant les combustibles gazeux, alimentés à partir d'un réseau de distribution ou par récipient
+
+|
+
+La preuve de conformité à la spécification des prises gaz de sécurité est apportée par l'obtention de la certification les concernant (marque NF) gérée par CERTIGAZ sis 8, rue de l'Hôtel-de-Ville, 92200 Neuilly-sur-Seine. |
