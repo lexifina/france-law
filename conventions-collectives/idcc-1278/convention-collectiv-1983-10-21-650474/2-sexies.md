@@ -8,7 +8,7 @@ Les organismes de moins de 200 salariés ne comportant pas d'organisation syndic
 
 L'objet de la négociation des accords concerne uniquement les mesures dont la mise en œuvre est subordonnée par la loi à un accord collectif, à l'exception des accords collectifs mentionnés à l'article L. 1233-21 du code du travail.
 
-Conformément à l'article L. 2232-22 du code du travail, la validité des accords est subordonnée à leur conclusion par des membres titulaires représentant la majorité des suffrages exprimés lors des dernières élections professionnelles et à l'approbation par la commission paritaire de branche.
+Conformément aux dispositions de l'article L. 2232-21 du code du travail, l'employeur informe les organisations syndicales représentatives dans la branche dont relève l'organisme de sa décision d'engager des négociations. Cette information doit se faire par courrier recommandé avec avis de réception adressé aux organisations représentatives au plan national dans un délai de 15 jours calendaires avant l'ouverture de la négociation. Elle doit indiquer l'objet de la négociation.
 
 La commission mixte paritaire de la branche PACT-ARIM tient lieu de commission paritaire de validation dès lors que son ordre du jour prévoit expressément l'examen et la validation d'un accord d'entreprise ou d'établissement conclu avec des représentants du personnel.
 
@@ -100,8 +100,8 @@ La commission paritaire de la convention collective tenant lieu de commission de
 
 (1) Le premier alinéa du préambule est étendu sous réserve de l'application des dispositions de l'article L. 2232-21 du code du travail.
 
-(Arrêté du 19 février 2013-art. 1)
+(Arrêté du 19 février 2013 - art. 1)
 
 (2) L'article 2.1 est étendu à l'exclusion des termes : « cet accord devra mentionner que son application est conditionnée par un avis favorable de la commission » figurant au premier tiret, en ce qu'ils contreviennent aux dispositions de l'article L. 2232-22 du code du travail.
 
-(Arrêté du 19 février 2013-art. 1)
+(Arrêté du 19 février 2013 - art. 1)

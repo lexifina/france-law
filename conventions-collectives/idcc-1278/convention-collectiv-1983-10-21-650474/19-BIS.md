@@ -1,3 +1,95 @@
 # Article 19 BIS
 
 L'association est tenus de s'affilier à une caisse de retraite en vue de garantir à tous ses collaborateurs une retraite complémentaire.
+
+Faculté pour les salariés à temps partiel de calculer les cotisations d'assurance vieillesse sur un salaire à temps plein
+
+En cas d'emploi exercé à temps partiel, l'assiette des cotisations d'assurance vieillesse peut être calculée sur le salaire correspondant à l'activité exercée à temps plein, conformément aux dispositions des articles L. 241-3-1, R. 241-0-1 à R. 241-0-6 et D. 241-1-1 du code de la sécurité sociale.
+
+Le dispositif permettant de calculer des cotisations d'assurance vieillesse sur le salaire à temps plein est ouvert aux salariés titulaires d'un contrat de travail à temps partiel défini par l'article L. 3123-1 du nouveau code du travail.
+
+Il s'agit de tout salarié dont l'horaire de travail est inférieur à un horaire à temps plein : salariés dont la durée du travail est inférieure à la durée légale du travail hebdomadaire (35 heures) ou mensuelle (151,67 heures), ou annuelle (1 607 heures), ou, si elle est inférieure, à la durée du travail fixée par un accord collectif de branche ou d'entreprise, ou à la durée du travail applicable dans l'établissement.
+
+La durée de référence de l'horaire à temps plein, éventuellement rapportée au mois ou à l'année, est la durée légale (35 heures par semaine) ou, si elle est inférieure, la durée conventionnelle fixée au niveau de l'organisme.
+
+Peuvent également bénéficier de ce maintien d'assiette les salariés dont la rémunération n'est pas déterminée en fonction d'un nombre d'heures de travail effectuées : salariés en convention de forfait annuel en heures ou
+
+(1) en jours, travailleurs à domicile, concierges et employés d'immeubles.
+
+Pour tout passage d'un temps plein à un temps partiel du fait de l'employeur, celui-ci doit proposer au salarié ce dispositif.
+
+Nécessité d'un accord entre le salarié et l'employeur
+
+Le calcul des cotisations d'assurance vieillesse sur le salaire à temps plein doit résulter de l'accord du salarié et de l'employeur. Cet accord doit être écrit, daté et signé soit dans le contrat de travail initial, soit par avenant.
+
+Si, le cas échéant, l'employeur prend en charge tout ou partie de la cotisation salariale additionnelle, l'accord mentionne la proportion, la durée et les modalités de cette prise en charge.
+
+Si le passage à temps partiel constitue une alternative à un licenciement collectif pour motif économique, l'employeur qui souhaite proposer le maintien de l'assiette à hauteur de la rémunération à temps plein doit le faire dans les mêmes termes pour l'ensemble des salariés, dont le contrat est ainsi transformé.
+
+Cette proposition est notifiée par lettre recommandée à l'ensemble des salariés concernés et intégrée au projet d'avenant de modification du contrat de travail. Elle comporte, le cas échéant, les modalités de prise en charge par l'employeur des cotisations.
+
+Le refus éventuel du salarié est mentionné expressément dans l'avenant.
+
+Dénonciation par l'employeur ou le salarié
+
+L'accord peut être dénoncé par l'employeur ou le salarié sous certaines conditions. La dénonciation doit être notifiée à l'autre partie et mentionnée par avenant au contrat de travail.
+
+La dénonciation par l'employeur ne peut intervenir qu'après l'expiration d'un délai minimum de 1 an à compter de sa date d'effet ou d'un délai d'une durée supérieure si l'accord comporte un engagement de l'employeur en ce sens.
+
+L'option prend fin pour les rémunérations versées à partir du premier jour du mois au cours duquel mention est faite au contrat de travail de la dénonciation de l'accord par le salarié ou l'employeur.
+
+En cas de dénonciation, il ne peut être conclu de nouvel accord au titre du même contrat de travail avant l'expiration d'un délai de 5 ans à compter de la date d'effet de la dénonciation.
+
+Date d'effet et de fin de l'option
+
+1° L'accord fixe une date d'effet au premier jour d'un mois
+
+Le calcul de l'assiette des cotisations d'assurance vieillesse sur un salaire à temps plein s'applique aux cotisations afférentes aux rémunérations versées à compter de la date d'entrée en vigueur fixée par l'accord ou l'avenant. Cette date ne peut être antérieure à la date de conclusion de l'accord ou de l'avenant, ni à la date à laquelle le salarié remplit les conditions pour bénéficier du maintien d'assiette.
+
+2° La date d'effet n'est pas le premier jour d'un mois
+
+Si cette date ne correspond pas à un premier jour du mois, le maintien d'assiette s'applique aux cotisations dues sur les rémunérations versées à compter du premier jour du mois suivant.
+
+3° L'accord ne comporte pas de date d'effet de l'option
+
+Si l'accord ou l'avenant ne comporte pas de date d'entrée en vigueur, le maintien d'assiette s'applique aux cotisations dues sur les rémunérations versées :
+
+-à compter du premier jour du mois suivant sa date de conclusion si le salarié remplit les conditions requises le jour de la conclusion de l'accord ;
+
+-ou à compter du premier jour du mois suivant la date où le salarié remplit les conditions requises, si cette date est postérieure à la conclusion ou à la notification de l'accord ou de l'avenant.
+
+4° Date d'effet de l'option en cas de passage d'un temps plein à un temps partiel
+
+En cas de transformation d'un contrat de travail à temps plein en contrat à temps partiel, la date de mise en œuvre du maintien d'assiette est reculée de 1 mois lorsque la rémunération afférente à la période de travail à temps complet est versée après la date d'effet du passage à temps partiel.
+
+5° Fin de l'option
+
+Ce dispositif cesse d'être applicable aux cotisations afférentes aux rémunérations versées à partir du premier jour du mois au cours duquel :
+
+-la dénonciation de l'accord par le salarié ou l'employeur est notifiée ;
+
+-le salarié cesse de remplir les conditions requises ;
+
+-le contrat de travail prend fin.
+
+Calcul des cotisations d'assurance vieillesse
+
+Le calcul des cotisations d'assurance vieillesse sur un salaire à temps complet suppose la prise en compte :
+
+-de la rémunération réelle perçue par le salarié à temps partiel ;
+
+-et du supplément d'assiette résultant de la différence entre le salaire réellement versé et la rémunération correspondant à un temps plein.
+
+Le salaire correspondant à l'activité à temps plein s'obtient en appliquant la formule de calcul suivante :
+
+Rémunération à temps plein = rémunération mensuelle perçue par le salarié × (durée mensuelle de temps plein/ nombre d'heures rémunérées au cours du mois).
+
+La durée mensuelle de temps plein correspond à la durée légale calculée sur le mois ou, si elle est inférieure, à la durée mensuelle fixée conventionnellement pour la branche, l'entreprise ou la durée du travail applicable dans l'établissement.
+
+Le nombre d'heures rémunérées inclut les heures complémentaires.
+
+Seules les cotisations salariales et patronales d'assurance vieillesse sont calculées sur la rémunération correspondant à une activité à temps plein ; les autres cotisations de sécurité sociale (maladie maternité, invalidité, décès, allocations familiales, accident du travail), la contribution FNAL, le versement de transport, la CSG et la CRDS restent calculés sur la rémunération réelle versée au salarié à temps partiel.
+
+(1) Termes exclus de l'extension comme étant contraires aux dispositions de l'article L. 3121-56 du code du travail.
+
+(Arrêté du 5 mai 2017 - art. 1)
