@@ -2,9 +2,9 @@
 
 Les travaux d'installation, de régulation ou de remplacement de systèmes de chauffage ou de production d'eau chaude sanitaire performants sont réalisés à l'aide des solutions suivantes :
 
--pose d'une chaudière à combustible fossile à condensation au sens de la directive européenne 92/42/ CE, accompagnée, sauf lorsque la chaudière assure uniquement la production d'eau chaude sanitaire, d'un dispositif de programmation du chauffage ;
+-pose d'une chaudière à combustible fossile à haute performance énergétique conforme aux exigences définies au a du 2 de l'article 18 bis susmentionné, accompagnée, sauf lorsque la chaudière assure uniquement la production d'eau chaude sanitaire, d'un dispositif de programmation du chauffage ;
 
--pose d'une pompe à chaleur conforme aux exigences définies aux 1°, 2°, 3° ou 4° du b du 3 de l'article 18 bis susmentionné ainsi qu'à l'exigence définie au premier alinéa de ce même b, accompagnée d'un dispositif de programmation du chauffage ;
+-pose d'une pompe à chaleur conforme aux exigences définies au 1° du b du 3 de l'article 18 bis susmentionné ainsi qu'à l'exigence définie au premier alinéa de ce même b, accompagnée d'un dispositif de programmation du chauffage ;
 
 -pose d'une chaudière à micro-cogénération gaz conforme aux exigences du g du 2 de l'article 200 quater du code général des impôts, accompagnée d'un dispositif de programmation du chauffage ;
 
