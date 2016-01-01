@@ -1,3 +1,0 @@
-# Article 1er
-
-Le présent accord ainsi que ses éventuels futurs avenants sont applicables à tous les employeurs et les salariés compris dans le champ d'application de la convention collective du négoce de l'ameublement du 31 mai 1995 (art. 1er).
