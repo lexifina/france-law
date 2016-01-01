@@ -12,11 +12,11 @@ II. – Sont redevables de la contribution mentionnée au I :
 
 Les activités mentionnées aux articles L. 621-1 et L. 622-1 du même code sont réputées se situer en France lorsqu'elles sont effectuées pour les besoins d'une personne établie ou domiciliée en France.
 
-III. – Pour les personnes morales et physiques mentionnées auX 1° et 3° du II, la contribution est calculée au taux de 0,45 % sur le montant hors taxe des ventes de prestations de services d'activités privées de sécurité assurées en France par ces personnes.
+III. – Pour les personnes morales et physiques mentionnées auX 1° et 3° du II, la contribution est calculée au taux de 0,4 % sur le montant hors taxe des ventes de prestations de services d'activités privées de sécurité assurées en France par ces personnes.
 
 Le fait générateur et l'exigibilité de la contribution interviennent dans les mêmes conditions que celles applicables en matière de taxe sur la valeur ajoutée.
 
-IV. – Pour les personnes mentionnées au 2° du II, la contribution est assise sur les sommes payées à leurs salariés qui exécutent une ou plusieurs activités privées de sécurité à titre de rémunération. Le taux de la contribution est dans ce cas fixé à 0,65 % du montant de ces rémunérations, évalué selon les règles prévues aux chapitres Ier et II du titre IV du livre II du code de la sécurité sociale.
+IV. – Pour les personnes mentionnées au 2° du II, la contribution est assise sur les sommes payées à leurs salariés qui exécutent une ou plusieurs activités privées de sécurité à titre de rémunération. Le taux de la contribution est dans ce cas fixé à 0,6 % du montant de ces rémunérations, évalué selon les règles prévues aux chapitres Ier et II du titre IV du livre II du code de la sécurité sociale.
 
 Le fait générateur et l'exigibilité de la contribution interviennent au moment des versements des sommes mentionnées au premier alinéa du présent IV.
 
@@ -29,3 +29,7 @@ V. – 1. Sous réserve du 2, la contribution est déclarée et liquidée comme 
 VI. – Lorsqu'une personne non établie dans un Etat membre de l'Union européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen et ayant conclu une convention fiscale qui contient une clause d'assistance administrative en vue de lutter contre la fraude ou l'évasion fiscale est redevable de la contribution mentionnée au I, elle est tenue de faire accréditer auprès de l'administration fiscale un représentant établi en France, qui s'engage à remplir les formalités lui incombant et à acquitter la contribution à sa place. Ce représentant tient à la disposition de l'administration fiscale la comptabilité afférente aux prestations de services rendues et les données relatives aux rémunérations mentionnées au IV. A défaut de désignation de représentant, la contribution et, le cas échéant, les pénalités qui s'y rapportent sont dues par le destinataire de la prestation imposable.
 
 VII. – Le montant de la contribution s'ajoute au prix acquitté par le client. Il est signalé par une mention particulière figurant au bas de la facture relative à la prestation servie.
+
+NOTA :
+
+Conformément aux dispositions du D du XV de l'article 26 de la loi n° 2018-1317 du 28 décembre 2018, les dispositions de l'article 1609 quintricies sont abrogées le 1er janvier 2020.

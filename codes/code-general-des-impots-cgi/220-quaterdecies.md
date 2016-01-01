@@ -10,15 +10,15 @@ a) Ne pas être admises au bénéfice des aides financières à la production du
 
 b) Comporter, dans leur contenu dramatique, des éléments rattachés à la culture, au patrimoine ou au territoire français. Le respect de cette condition est vérifié au moyen d'un barème de points dont le contenu est fixé par décret ;
 
-c) Faire l'objet de dépenses éligibles mentionnées au III, d'un montant supérieur ou égal à un million d'euros et, pour les œuvres appartenant au genre de la fiction, d'un minimum de cinq jours de tournage en France.
+c) Faire l'objet de dépenses éligibles mentionnées au III, d'un montant supérieur ou égal à un million d'euros ou, lorsque le budget de production de l'œuvre est inférieur à 2 millions d'euros, d'un montant correspondant au moins à 50 % de ce budget et, pour les œuvres appartenant au genre de la fiction, d'un minimum de cinq jours de tournage en France.
 
-2.N'ouvrent pas droit au crédit d'impôt mentionné au I :
+2. N'ouvrent pas droit au crédit d'impôt mentionné au I :
 
 a) Les œuvres cinématographiques ou audiovisuelles à caractère pornographique ou d'incitation à la violence ;
 
 b) Les œuvres cinématographiques ou audiovisuelles utilisables à des fins de publicité.
 
-III. ― 1. Le crédit d'impôt, calculé au titre de chaque exercice, est égal à 20 % du montant total des dépenses suivantes correspondant à des opérations ou prestations effectuées en France :
+III. ― 1. Le crédit d'impôt, calculé au titre de chaque exercice, est égal à 30 % du montant total des dépenses suivantes correspondant à des opérations ou prestations effectuées en France :
 
 a) Les rémunérations versées aux auteurs énumérés à l'article L. 113-7 du code de la propriété intellectuelle sous forme d'avances à valoir sur les recettes d'exploitation des œuvres, ainsi que les charges sociales afférentes ;
 
@@ -38,8 +38,16 @@ IV. ― Les dépenses mentionnées au III ouvrent droit au crédit d'impôt à c
 
 V. ― Les subventions publiques reçues par les entreprises de production exécutive à raison des opérations ouvrant droit au crédit d'impôt sont déduites des bases de calcul de ce crédit, qu'elles soient définitivement acquises par elles ou remboursables.
 
-VI. ― La somme des crédits d'impôt calculés au titre d'une même œuvre ne peut excéder 20 millions d'euros.
+VI. ― La somme des crédits d'impôt calculés au titre d'une même œuvre ne peut excéder 30 millions d'euros.
 
 VII. ― Les crédits d'impôts obtenus pour la production d'une même œuvre cinématographique ou audiovisuelle ne peuvent avoir pour effet de porter à plus de 50 % du budget de production de l'œuvre le montant total des aides publiques accordées.
 
 VIII. ― Un décret précise les conditions d'application du présent article.
+
+NOTA :
+
+Ces dispositions s'appliquent aux crédits d'impôt calculés au titre des exercices ouverts à compter du 1er janvier 2016.
+
+Ces dispositions entrent en vigueur à une date fixée par un décret, qui ne peut être postérieure de plus de six mois à la date de réception par le Gouvernement de la réponse de la Commission européenne permettant de considérer le dispositif législatif lui ayant été notifié comme conforme au droit de l'Union européenne en matière d'aides d'Etat.
+
+Loi n° 2008-1425 du 27 décembre 2008 article 131 IV modifié par l'article 72 de la loi n° 2012-1509 du 29 décembre 2012 et l'article 20 de la loi n° 2016-1917 du 30 décembre 2016 : Le I s'applique aux crédits d'impôt calculés au titre des dépenses engagées entre le 1er janvier 2009 et le 31 décembre 2019. Le IV de l'article 131 de la loi n° 2008-1425 du 27 décembre 2008 a été abrogé par l'article 144 de la loi n° 2018-1317 du 28 décembre 2018.
