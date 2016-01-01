@@ -2,7 +2,7 @@
 
 I. - Constituent, du point de vue fiscal, un élément du prix de revient du terrain sur lequel est édifiée la construction :
 
-a. la redevance payée, à raison d'une construction donnée, dans le cadre des articles L 520-1 à L 520-9 du code de l'urbanisme ;
+a. la redevance payée, à raison d'une construction donnée, dans le cadre des articles L 520-1 à L 520-22 du code de l'urbanisme ;
 
 b. Disposition devenue sans objet ;
 

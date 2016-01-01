@@ -42,15 +42,7 @@ d) Pour la consommation des autorités régionales et locales ou des autres orga
 
 7. Sont également exonérés de la taxe intérieure de consommation mentionnée au 1 les gaz repris au code NC 2705, ainsi que le biogaz repris au code NC 2711-29, lorsqu'il n'est pas mélangé au gaz naturel.
 
-8. La taxe intérieure de consommation mentionnée au 1 est assise sur la quantité d'énergie livrée. Elle est déterminée conformément au tableau ci-dessous :
-
-|
-
-|
-
-TARIF (EN EUROS)
-
-|
+8. La taxe intérieure de consommation mentionnée au 1 est assise sur la quantité d'énergie livrée, exprimée en mégawattheures, après arrondi au mégawattheure le plus proche. La taxe est déterminée conformément au tableau ci-dessous :
 
 DÉSIGNATION DES PRODUITS
 
@@ -60,11 +52,7 @@ UNITÉ DE PERCEPTION
 
 |
 
-2014
-
-|
-
-2015
+TARIF
 
 |
 
@@ -72,27 +60,27 @@ UNITÉ DE PERCEPTION
 
 |
 
+2017
+
+|
+
 2711-11 et 2711-21 : gaz naturel destiné à être utilisé comme combustible
 
 |
 
-Mégawattheure
+Mégawattheure en pouvoir calorifique supérieur
 
 |
 
-1,41
+4,34
 
 |
 
-2,93
+5,88 |
 
-|
+Le montant de la taxe est arrondi à l'euro le plus proche.
 
-4,45
-
-|
-
-Le montant du tarif total est arrondi au mégawattheure le plus voisin.
+En cas de changement de tarif de la taxe au cours d'une période de facturation, les quantités concernées sont réparties en fonction des tarifs proportionnellement au nombre de jours de chaque période.
 
 9. a. Les fournisseurs de gaz naturel établis sur le territoire douanier de la France se font enregistrer auprès de l'administration des douanes et droits indirects chargée du recouvrement de la taxe intérieure de consommation préalablement au commencement de leur activité.
 
@@ -106,14 +94,16 @@ d. Les fournisseurs doivent communiquer chaque année à l'administration des do
 
 10. La taxe est acquittée, selon une périodicité trimestrielle, auprès du service des douanes désigné lors de l'enregistrement.
 
-Les quantités d'énergie livrées à un utilisateur final ou importées ou, dans les autres cas, consommées par un utilisateur final au titre d'un trimestre, pour lesquelles la taxe est devenue exigible, sont portées sur une déclaration déposée dans un délai de deux mois suivant le trimestre concerné. La taxe correspondante est acquittée lors du dépôt de la déclaration.
-
-La forme de la déclaration d'acquittement et les modalités déclaratives sont définies par arrêté du ministre chargé du budget.
+Les quantités d'énergie livrées à un utilisateur final ou importées ou, dans les autres cas, consommées par un utilisateur final au titre d'un trimestre, pour lesquelles la taxe est devenue exigible, sont portées sur une déclaration, conforme à un modèle fixé par l'administration, déposée avant le 25 du mois suivant le trimestre concerné. La taxe correspondante est acquittée dans le même délai.
 
 La déclaration d'acquittement peut être effectuée par voie électronique.
 
-11. Les personnes qui ont reçu des produits mentionnés au 1, sans que ces produits soient soumis à la taxe intérieure de consommation dans les conditions mentionnées au 4, ou en exonération conformément au 5, sont tenues, sans préjudice des pénalités éventuellement applicables, d'acquitter les taxes ou le supplément de taxes dû, lorsque les produits n'ont pas été affectés à la destination ou à l'utilisation ayant justifié l'absence de taxation, l'exonération, l'octroi d'un régime fiscal privilégié ou d'un taux réduit.
+11. Les personnes qui ont reçu des produits mentionnés au 1, sans que ces produits soient soumis à la taxe intérieure de consommation dans les conditions mentionnées au 4, ou en exonération conformément au 5, ou avec l'application d'un taux réduit conformément à l'article 265 nonies, sont tenues, sans préjudice des pénalités éventuellement applicables, d'acquitter les taxes ou le supplément de taxes dû, lorsque les produits n'ont pas été affectés à la destination ou à l'utilisation ayant justifié l'absence de taxation, l'exonération, l'octroi d'un régime fiscal privilégié ou d'un taux réduit.
 
-12. Lorsque les produits mentionnés au 1 ont été normalement soumis à la taxe intérieure de consommation alors qu'ils ont été employés en tout ou partie par l'utilisateur final à un usage non taxable prévu au 4 ou à un usage exonéré prévu au 5, l'utilisateur final peut demander le remboursement de la taxe ou de la fraction de taxe, dans les conditions prévues à l'article 352.
+12. Lorsque les produits mentionnés au 1 ont été normalement soumis à la taxe intérieure de consommation alors qu'ils ont été employés en tout ou partie par l'utilisateur final à un usage non taxable prévu au 4 ou à un usage exonéré prévu au 5 ou à un usage permettant l'application d'un taux réduit conformément à l'article 265 nonies, l'utilisateur final peut demander le remboursement de la taxe ou de la fraction de taxe, dans les conditions prévues à l'article 352.
 
 Lorsque les produits mentionnés au 1 soumis à la taxe ont fait l'objet d'un rachat par le fournisseur auprès de son client, la taxe est remboursée au fournisseur, pour autant que le fournisseur justifie qu'il a précédemment acquitté la taxe. Ce remboursement peut s'effectuer par imputation sur le montant de la taxe due.
+
+NOTA :
+
+Ces dispositions s'appliquent aux opérations dont le fait générateur intervient à compter du 1er janvier 2016.

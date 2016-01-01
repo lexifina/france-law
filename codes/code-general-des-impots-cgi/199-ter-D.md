@@ -1,6 +1,6 @@
 # Article 199 ter D
 
-I.-Le crédit d'impôt défini à l'article 244 quater E est imputé sur l'impôt sur le revenu dû par le contribuable au titre de l'année au cours de laquelle les biens éligibles au dispositif sont acquis, créés ou loués. Lorsque les biens éligibles sont acquis, créés ou loués au titre d'un exercice ne coïncidant pas avec l'année civile, le crédit d'impôt correspondant est imputé sur l'impôt sur le revenu dû par le contribuable au titre de l'année au cours de laquelle l'exercice est clos. Si le montant du crédit d'impôt excède l'impôt dû au titre de ladite année, l'excédent est utilisé pour le paiement de l'impôt sur le revenu dû au titre des neuf années suivantes. Le solde non utilisé est remboursé à l'expiration de cette période dans la limite de 50 % du crédit d'impôt et d'un montant de 300 000 €.
+I. – Le crédit d'impôt défini à l'article 244 quater E est imputé sur l'impôt sur le revenu dû par le contribuable au titre de l'année au cours de laquelle les biens éligibles au dispositif sont acquis, créés ou loués. Lorsque les biens éligibles sont acquis, créés ou loués au titre d'un exercice ne coïncidant pas avec l'année civile, le crédit d'impôt correspondant est imputé sur l'impôt sur le revenu dû par le contribuable au titre de l'année au cours de laquelle l'exercice est clos. Si le montant du crédit d'impôt excède l'impôt dû au titre de ladite année, l'excédent est utilisé pour le paiement de l'impôt sur le revenu dû au titre des neuf années suivantes. Le solde non utilisé est remboursé à l'expiration de cette période dans la limite de 50 % du crédit d'impôt et d'un montant de 300 000 €.
 
 Toutefois, sur demande du redevable, le solde non utilisé peut être remboursé à compter de la cinquième année, dans la limite de 35 % du crédit d'impôt et d'un montant de 300 000 €.
 
@@ -12,7 +12,7 @@ En cas de fusion ou d'opération assimilée bénéficiant du régime prévu à l
 
 En cas de scission ou d'apport partiel d'actif, la créance est transmise en proportion de l'actif net réel apporté à la ou aux sociétés bénéficiaires des apports.
 
-II. ― La créance mentionnée au premier alinéa du I est immédiatement remboursable lorsqu'elle est constatée par l'une des entreprises suivantes :
+II. – La créance mentionnée au premier alinéa du I est immédiatement remboursable lorsqu'elle est constatée par l'une des entreprises suivantes :
 
 1° Les entreprises autres que celles mentionnées au III de l'article 44 sexies et dont le capital est entièrement libéré et détenu de manière continue à 50 % au moins :
 
@@ -28,4 +28,4 @@ Ces entreprises peuvent demander le remboursement immédiat de la créance const
 
 3° Les jeunes entreprises innovantes mentionnées à l'article 44 sexies-0 A ;
 
-4° Les entreprises qui satisfont à la définition des micro, petites et moyennes entreprises donnée à l'annexe I au règlement (CE) n° 800/2008 de la Commission, du 6 août 2008, déclarant certaines catégories d'aide compatibles avec le marché commun en application des articles 87 et 88 du traité (Règlement général d'exemption par catégorie).
+4° Les entreprises qui satisfont à la définition des micro, petites et moyennes entreprises donnée à l'annexe I au règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 déclarant certaines catégories d'aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité.

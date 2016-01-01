@@ -1,6 +1,6 @@
 # Article 885 I ter
 
-I.-1. Sont exonérés les titres reçus par le redevable en contrepartie de sa souscription au capital initial ou aux augmentations de capital, en numéraire ou en nature par apport de biens nécessaires à l'exercice de l'activité, à l'exception des actifs immobiliers et des valeurs mobilières, d'une petite et moyenne entreprise au sens de l'annexe I au règlement (CE) n° 800/2008 de la Commission du 6 août 2008 déclarant certaines catégories d'aides compatibles avec le marché commun en application des articles 87 et 88 du traité (Règlement général d'exemption par catégorie), si les conditions suivantes sont réunies au 1er janvier de l'année d'imposition :
+I. – 1. Sont exonérés les titres reçus par le redevable en contrepartie de sa souscription au capital initial ou aux augmentations de capital, en numéraire ou en nature par apport de biens nécessaires à l'exercice de l'activité, à l'exception des actifs immobiliers et des valeurs mobilières, d'une petite et moyenne entreprise au sens de l'annexe I au règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 déclarant certaines catégories d'aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité, si les conditions suivantes sont réunies au 1er janvier de l'année d'imposition :
 
 a. La société exerce exclusivement une activité industrielle, commerciale, artisanale, agricole ou libérale, à l'exclusion des activités de gestion de patrimoine mobilier définie à l'article 885 O quater, et notamment celles des organismes de placement en valeurs mobilières, et des activités de gestion ou de location d'immeubles ;
 
@@ -20,4 +20,4 @@ L'exonération s'applique alors à la valeur des titres de la société détenus
 
 L'exonération est limitée à la fraction de la valeur des parts de ces fonds représentative de titres reçus en contrepartie de souscriptions au capital de sociétés vérifiant les conditions prévues au même 1.
 
-II.-Un décret fixe les obligations déclaratives incombant aux redevables et aux sociétés ainsi qu'aux gérants de fonds visés au I.
+II. – Un décret fixe les obligations déclaratives incombant aux redevables et aux sociétés ainsi qu'aux gérants de fonds visés au I.

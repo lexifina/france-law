@@ -10,7 +10,7 @@ En cas de fusion ou d'opération assimilée intervenant au cours de la période 
 
 II.-La créance mentionnée au premier alinéa du I est immédiatement remboursable lorsqu'elle est constatée par l'une des entreprises suivantes :
 
-1° Les entreprises qui satisfont à la définition des micro, petites et moyennes entreprises donnée à l'annexe I au règlement (CE) n° 800/2008 de la Commission du 6 août 2008 déclarant certaines catégories d'aide compatibles avec le marché commun en application des articles 87 et 88 du traité (Règlement général d'exemption par catégorie) ;
+1° Les entreprises qui satisfont à la définition des micro, petites et moyennes entreprises donnée à l'annexe I au règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 déclarant certaines catégories d'aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité ;
 
 2° Les entreprises nouvelles, autres que celles mentionnées au III de l'article 44 sexies, dont le capital est entièrement libéré et détenu de manière continue à 50 % au moins :
 
@@ -25,3 +25,7 @@ Ces entreprises peuvent demander le remboursement immédiat de la créance const
 3° Les jeunes entreprises innovantes mentionnées à l'article 44 sexies-0 A ;
 
 4° Les entreprises ayant fait l'objet d'une procédure de conciliation ou de sauvegarde, d'un redressement ou d'une liquidation judiciaire. Ces entreprises peuvent demander le remboursement de leur créance non utilisée à compter de la date de la décision ou du jugement qui a ouvert ces procédures.
+
+NOTA :
+
+Conformément au B du V de l'article 86 de la loi n° 2017-1837 du 30 décembre 2017, modifié par l'article 155 de la loi n° 2018-1317 du 28 décembre 2018 et devenu B du IV dudit article 86, l'article 199 ter C devant être abrogé est rétabli.

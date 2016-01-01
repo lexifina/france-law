@@ -14,7 +14,7 @@ Il en est de même dans la mesure où elle justifie que les bénéficiaires de c
 
 3 Les dispositions du 1 ne s'appliquent pas lorsque la société étrangère remplit les conditions suivantes :
 
-a) Avoir son siège de direction effective dans un Etat membre de l'Union européenne ;
+a) Avoir son siège de direction effective dans un Etat membre de l'Union européenne ou partie à l'accord sur l'Espace économique européen ;
 
 b) Y être passible de l'impôt sur les sociétés, sans possibilité d'option et sans en être exonérée et sans bénéficier d'une exonération spécifique sur les bénéfices mentionnés au 1.
 

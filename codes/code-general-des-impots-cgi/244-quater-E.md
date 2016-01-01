@@ -38,4 +38,4 @@ Lorsque l'investissement est réalisé par une société soumise au régime d'im
 
 IV.-Les dispositions du présent article s'appliquent aux investissements réalisés à compter du 1er janvier 2002 au cours d'un exercice clos à compter de la date de publication de la loi n° 2002-92 du 22 janvier 2002 relative à la Corse.
 
-V.-Le bénéfice du crédit d'impôt mentionné au I est subordonné au respect de l'article 13 du règlement (CE) n° 800/2008 de la Commission du 6 août 2008 déclarant certaines catégories d'aides compatibles avec le marché commun en application des articles 87 et 88 du traité (Règlement général d'exemption par catégorie).
+V.-Le bénéfice du crédit d'impôt mentionné au I est subordonné au respect de l'article 14 du règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 déclarant certaines catégories d'aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité.

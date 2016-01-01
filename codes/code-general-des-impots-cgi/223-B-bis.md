@@ -1,12 +1,12 @@
 # Article 223 B bis
 
-I. - Les charges financières nettes afférentes aux sommes laissées ou mises à disposition de sociétés membres du groupe par des personnes qui n'en sont pas membres sont réintégrées au résultat d'ensemble pour une fraction égale à 25 % (1) de leur montant.
+I. - Les charges financières nettes afférentes aux sommes laissées ou mises à disposition de sociétés membres du groupe par des personnes qui n'en sont pas membres sont réintégrées au résultat d'ensemble pour une fraction égale à 25 % de leur montant.
 
 II. - Le I ne s'applique pas lorsque le montant total des charges financières nettes du groupe est inférieur à trois millions d'euros.
 
 III. - Pour l'application des I et II, le montant des charges financières nettes est entendu comme la somme des charges ou produits financiers nets de chacune des sociétés membres du groupe tels que définis au III de l'article 212 bis.
 
-IV. - Pour l'application du I, le montant des charges financières est diminué des fractions des charges financières non admises en déduction en application du IX de l'article 209, de l'article 212 et du septième alinéa ainsi que des six derniers alinéas de l'article 223 B.
+IV. - Pour l'application du I, le montant des charges financières est diminué des fractions des charges financières non admises en déduction en application du IX de l'article 209, de l'article 212 et du sixième alinéa ainsi que des six derniers alinéas de l'article 223 B.
 
 IV bis. - Pour l'application du I, le montant des charges financières nettes est diminué des charges financières de chacune des sociétés du groupe afférentes aux contrats de financement des stocks de produits faisant l'objet d'une obligation réglementaire de conservation et dont le cycle de rotation est supérieur à trois ans.
 
@@ -28,4 +28,4 @@ Le présent V s'applique aux charges financières supportées dans le cadre des 
 
 NOTA :
 
-(1) Ce taux est aux applicable aux exercices ouverts à compter du 1er janvier 2014 : loi n° 2012-1509 du 29 décembre 2012, art. 23-IV
+Ces dispositions s'appliquent aux exercices ouverts à compter du 1er janvier 2016.

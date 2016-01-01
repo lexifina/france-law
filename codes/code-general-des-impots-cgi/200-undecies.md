@@ -6,6 +6,8 @@ Le crédit d'impôt est accordé, sous les mêmes conditions et à proportion de
 
 II. - Le crédit d'impôt est égal à 50 % des dépenses mentionnées au I et effectivement supportées, dans la limite par an de quatorze jours de remplacement pour congé. Pour ce calcul, le coût d'une journée de remplacement est plafonné à quarante-deux fois le taux horaire du minimum garanti mentionné à l'article L. 3231-12 du code du travail. Le crédit d'impôt est accordé au titre de l'année au cours de laquelle les dépenses ont été engagées.
 
+Lorsque l'activité dont les revenus sont imposés dans la catégorie des bénéfices agricoles est exercée dans un groupement agricole d'exploitation en commun, le plafond du crédit d'impôt est multiplié par le nombre d'associés que compte le groupement, dans la limite de quatre. Le plafond du crédit d'impôt dont bénéficie un associé de groupement agricole d'exploitation en commun ne peut toutefois pas excéder le plafond du crédit d'impôt bénéficiant à un exploitant individuel.
+
 III. - Le crédit d'impôt est imputé sur l'impôt sur le revenu après imputation des réductions d'impôt mentionnées aux articles 199 quater B à 200 bis, des crédits d'impôt et des prélèvements ou retenues non libératoires. S'il excède l'impôt dû, l'excédent est restitué.
 
 IV. - Le bénéfice du crédit d'impôt au titre des dépenses engagées entre le 1er janvier 2011 et le 31 décembre 2016 est subordonné au respect du règlement (UE) n° 1408/2013 de la Commission, du 18 décembre 2013, relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis dans le secteur de l'agriculture.

@@ -12,7 +12,7 @@ a. La consommation annuelle d'électricité du site en heures creuses, c'est-à-
 
 b. Le rapport entre l'énergie consommée au-dessous de la puissance visée au quatrième alinéa du présent article et cette puissance ne peut être inférieur à 8 000 heures, hors arrêts exceptionnels et périodes d'entretien ;
 
-c. Les consommations d'électricité de cette entreprise donnent lieu au paiement de la contribution aux charges du service public de l'électricité prévue aux articles L. 121-10 à L. 121-26 du code de l'énergie.
+c. Les consommations d'électricité de cette entreprise donnent lieu au paiement de la contribution aux charges du service public de l'électricité prévue aux articles L. 121-10 à L. 121-26 du code de l'énergie, dans leur rédaction antérieure à la loi n° 2015-1786 du 29 décembre 2015 de finances rectificative pour 2015.
 
 Les actions souscrites doivent revêtir la forme nominative. Le montant du capital agréé est limité à 600 000 €.
 

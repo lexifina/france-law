@@ -16,7 +16,7 @@ c) A compter de l'acquisition, l'acquéreur ou l'un des autres associés mention
 
 d) La société reprise a son siège social dans un Etat membre de l'Union européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen ayant conclu avec la France une convention d'assistance administrative en vue de lutter contre la fraude et l'évasion fiscales, et est soumise à l'impôt sur les sociétés dans les conditions de droit commun ou y serait soumise dans les mêmes conditions si l'activité était exercée en France ;
 
-e) La société reprise doit être une petite et moyenne entreprise au sens de l'annexe I au règlement (CE) n° 800/2008 de la Commission du 6 août 2008 déclarant certaines catégories d'aides compatibles avec le marché commun en application des articles 87 et 88 du traité (Règlement général d'exemption par catégorie) ;
+e) La société reprise doit être une petite et moyenne entreprise au sens de l'annexe I au règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 déclarant certaines catégories d'aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité ;
 
 f) La société reprise exerce une activité commerciale, industrielle, artisanale, libérale ou agricole, à l'exception de la gestion de son propre patrimoine mobilier ou immobilier.
 

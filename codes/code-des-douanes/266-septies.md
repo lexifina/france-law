@@ -30,7 +30,7 @@ b. L'exploitation au cours d'une année civile d'un établissement mentionné au
 
 9. (Alinéa abrogé) ;
 
-10. La première livraison ou la première utilisation des sacs de caisse à usage unique en matière plastique mentionnés au 10 du I de l'article 266 sexies.
+10. (Abrogé)
 
 NOTA :
 

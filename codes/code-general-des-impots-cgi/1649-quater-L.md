@@ -4,16 +4,18 @@ Pour l'application des dispositions du 1° du 7 de l'article 158, les profession
 
 Ils doivent, en outre, conclure avec l'administration fiscale une convention portant sur une période de trois ans et dans laquelle ils s'engagent :
 
-1° à viser les documents fiscaux transmis par leurs clients ou leurs adhérents, ou les documents fiscaux qu'ils établissent pour le compte de leurs clients ou adhérents, après s'être assurés de leur régularité et avoir demandé à leurs clients ou adhérents tous renseignements utiles de nature à établir la concordance entre les résultats fiscaux et la comptabilité ;
+1° à viser les documents fiscaux transmis par leurs clients ou leurs adhérents, ou les documents fiscaux qu'ils établissent pour le compte de leurs clients ou adhérents, après s'être assurés de leur régularité et avoir demandé à leurs clients ou adhérents tous renseignements et documents utiles de nature à établir la concordance entre les résultats fiscaux et la comptabilité ;
 
-2° à procéder à un examen de cohérence et de vraisemblance du résultat déclaré à partir notamment de ratios économiques et financiers ;
+2° A réaliser à l'égard de leurs clients ou adhérents, selon la nature de leur activité, l'ensemble des missions prévues aux articles 1649 quater C à 1649 quater E ou aux articles 1649 quater F à 1649 quater H, dans les conditions prévues aux mêmes articles ;
 
-3° à dématérialiser et à télétransmettre aux services fiscaux, selon la procédure prévue par le système de transfert des données fiscales et comptables, les déclarations de résultats de leurs clients ou adhérents, leurs annexes et les autres documents les accompagnant. Ils doivent recevoir mandat pour transmettre les informations correspondant à leurs obligations déclaratives, selon des modalités définies par arrêté ministériel ;
+3° A se soumettre à un contrôle spécifique de l'administration fiscale qui ne constitue ni à leur égard ni à l'égard de leurs clients ou adhérents le début d'une des procédures mentionnées aux articles L. 12 et L. 13 du livre des procédures fiscales ;
 
-4° à fournir annuellement à leurs clients ou adhérents commerçants, agriculteurs ou artisans un dossier de gestion ;
+4° (Abrogé) ;
 
-5° à fournir annuellement à leurs clients ou adhérents un dossier d'analyse économique en matière de prévention des difficultés économiques et financières ;
+5° (Abrogé) ;
 
-6° à se soumettre à un contrôle spécifique défini par l'administration fiscale.
+6° (Abrogé).
 
 Les conditions et les modalités de la délivrance de l'autorisation, de la conclusion de la convention avec l'administration fiscale et du contrôle sont précisées par décret en Conseil d'Etat.
+
+Les clients ou adhérents des professionnels de l'expertise comptable sont soumis à l'obligation prévue à l'article 1649 quater E bis.

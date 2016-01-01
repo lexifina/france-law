@@ -22,10 +22,4 @@ III.-Les entreprises créées dans le cadre d'une concentration, d'une restructu
 
 L'existence d'un contrat, quelle qu'en soit la dénomination, ayant pour objet d'organiser un partenariat, caractérise l'extension d'une activité préexistante lorsque l'entreprise nouvellement créée bénéficie de l'assistance de ce partenaire, notamment en matière d'utilisation d'une enseigne, d'un nom commercial, d'une marque ou d'un savoir-faire, de conditions d'approvisionnement, de modalités de gestion administrative, contentieuse, commerciale ou technique, dans des conditions telles que cette entreprise est placée dans une situation de dépendance.
 
-IV.-Pour les exercices clos du 1er janvier 2007 au 31 décembre 2013, le bénéfice de l'exonération est subordonné au respect du règlement (CE) n° 1998/2006 de la Commission, du 15 décembre 2006, concernant l'application des articles 87 et 88 du traité aux aides de minimis.
-
-Pour les exercices clos à compter du 1er janvier 2014, le bénéfice de l'exonération est subordonné au respect du règlement (UE) n° 1407/2013 de la Commission, du 18 décembre 2013, relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis (1).
-
-NOTA :
-
-(1) Ces dispositions s'appliquent aux avantages octroyés à compter du 1er janvier 2014.
+IV. - Le bénéfice de l'exonération est subordonné au respect du règlement (UE) n° 1407/2013 de la Commission, du 18 décembre 2013, relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis.

@@ -1,6 +1,6 @@
 # Article 1649 quater F
 
-Des associations ayant pour objet de développer l'usage de la comptabilité, de fournir une analyse des informations économiques, comptables et financières en matière de prévention des difficultés économiques et financières et de faciliter l'accomplissement de leurs obligations administratives et fiscales par les membres des professions libérales et les titulaires des charges et offices peuvent être agréées dans des conditions fixées par décret en Conseil d'Etat pris après avis des organisations professionnelles.
+Des associations ayant pour objet de développer l'usage de la comptabilité, de fournir une assistance en matière de gestion, de leur fournir une analyse des informations économiques, comptables et financières en matière de prévention des difficultés économiques et financières et de faciliter l'accomplissement de leurs obligations administratives et fiscales par les membres des professions libérales et les titulaires des charges et offices peuvent être agréées dans des conditions fixées par décret en Conseil d'Etat.
 
 Ces associations ont pour fondateurs soit des ordres ou des organisations professionnelles légalement constituées des membres des professions mentionnées au premier alinéa, soit des experts comptables ou des sociétés inscrites à l'ordre des experts comptables.
 

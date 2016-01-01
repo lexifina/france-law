@@ -1,14 +1,16 @@
 # Article 44 quindecies
 
-I. ― Dans les zones de revitalisation rurale mentionnées à l'article 1465 A, les entreprises qui sont créées ou reprises entre le 1er janvier 2011 et le 31 décembre 2015, soumises de plein droit ou sur option à un régime réel d'imposition de leurs résultats et qui exercent une activité industrielle, commerciale, artisanale au sens de l'article 34 ou professionnelle au sens du 1 de l'article 92, sont exonérées d'impôt sur le revenu ou d'impôt sur les sociétés à raison des bénéfices réalisés, à l'exclusion des plus-values constatées lors de la réévaluation des éléments d'actif, jusqu'au terme du cinquante-neuvième mois suivant celui de leur création ou de leur reprise et déclarés selon les modalités prévues à l'article 53 A.
+I. – Dans les zones de revitalisation rurale mentionnées à l'article 1465 A, les entreprises qui sont créées ou reprises entre le 1er janvier 2011 et le 31 décembre 2020, soumises de plein droit ou sur option à un régime réel d'imposition de leurs résultats et qui exercent une activité industrielle, commerciale, artisanale au sens de l'article 34 ou professionnelle au sens du 1 de l'article 92, sont exonérées d'impôt sur le revenu ou d'impôt sur les sociétés à raison des bénéfices réalisés, à l'exclusion des plus-values constatées lors de la réévaluation des éléments d'actif, jusqu'au terme du cinquante-neuvième mois suivant celui de leur création ou de leur reprise et déclarés selon les modalités prévues à l'article 53 A.
 
 Les bénéfices ne sont soumis à l'impôt sur le revenu ou à l'impôt sur les sociétés que pour le quart, la moitié ou les trois quarts de leur montant selon qu'ils sont réalisés respectivement au cours de la première, de la deuxième ou de la troisième période de douze mois suivant cette période d'exonération.
 
-II. ― Pour bénéficier de l'exonération mentionnée au I, l'entreprise doit répondre aux conditions suivantes :
+II. – Pour bénéficier de l'exonération mentionnée au I, l'entreprise doit répondre aux conditions suivantes :
 
 a) Le siège social de l'entreprise ainsi que l'ensemble de son activité et de ses moyens d'exploitation sont implantés dans les zones mentionnées au I. Lorsqu'une entreprise exerce une activité non sédentaire, réalisée en partie en dehors des zones précitées, la condition d'implantation est réputée satisfaite dès lors qu'elle réalise au plus 25 % de son chiffre d'affaires en dehors de ces zones. Au-delà de 25 %, les bénéfices réalisés sont soumis à l'impôt sur le revenu ou à l'impôt sur les sociétés dans les conditions de droit commun en proportion du chiffre d'affaires réalisé en dehors des zones déjà citées. Cette condition de chiffre d'affaires s'apprécie exercice par exercice ;
 
-b) L'entreprise emploie moins de dix salariés bénéficiant d'un contrat de travail à durée indéterminée ou d'une durée d'au moins six mois à la date de clôture du premier exercice et au cours de chaque exercice de la période d'application du présent article ; si l'effectif varie en cours d'exercice, il est calculé compte tenu de la durée de présence des salariés en cause pendant l'exercice ;
+b) L'entreprise emploie moins de onze salariés bénéficiant d'un contrat de travail à durée indéterminée ou d'une durée d'au moins six mois à la date de clôture du premier exercice et au cours de chaque exercice de la période d'application du présent article ; si l'effectif varie en cours d'exercice, il est calculé compte tenu de la durée de présence des salariés en cause pendant l'exercice.
+
+Toutefois, au titre des exercices clos entre le 31 décembre 2015 et le 31 décembre 2018, lorsqu'une entreprise bénéficiant déjà de l'exonération mentionnée au I constate, à la date de clôture de l'exercice, un dépassement du seuil d'effectif mentionné au premier alinéa du présent b, cette circonstance ne lui fait pas perdre le bénéfice de cette exonération pour l'exercice au cours duquel ce dépassement est constaté ainsi que pour les deux exercices suivants ;
 
 c) L'entreprise n'exerce pas une activité bancaire, financière, d'assurances, de gestion ou de location d'immeubles, de pêche maritime ;
 
@@ -22,6 +24,8 @@ III. L'exonération ne s'applique pas aux créations et aux reprises d'activité
 
 44 duodecies, 44 terdecies, 44 quaterdecies ou d'une prime d'aménagement du territoire.
 
+L'exonération ne s'applique pas aux créations et aux reprises d'activités dans les zones de revitalisation rurale mentionnées au I consécutives au transfert, à la concentration ou à la restructuration d'activités précédemment exercées dans ces zones, sauf pour la durée restant à courir si l'activité reprise ou transférée bénéficie ou a bénéficié de l'exonération prévue au présent article.
+
 L'exonération ne s'applique pas non plus dans les situations suivantes :
 
 a) si, à l'issue de l'opération de reprise ou de restructuration, le cédant, son conjoint, le partenaire auquel il est lié par un pacte civil de solidarité défini à l'article 515-1 du code civil, leurs ascendants et descendants, leurs frères et sœurs détiennent ensemble, directement ou indirectement, plus de 50 % des droits de vote ou des droits dans les bénéfices sociaux de la société, de la personne morale ou du groupement soit repris, soit bénéficiaire de l'opération de reprise ou de restructuration.
@@ -30,11 +34,11 @@ Le cédant s'entend de toute personne qui, avant l'opération de reprise ou de r
 
 b) si l'entreprise individuelle a fait l'objet d'une opération de reprise ou de restructuration au profit du conjoint de l'entrepreneur individuel, du partenaire auquel il est lié par un pacte civil de solidarité défini à l'article 515-1 du code civil, de leurs ascendants et descendants ou de leurs frères et sœurs.
 
-IV. ― Lorsqu'elle répond aux conditions requises pour bénéficier des dispositions de l'un des régimes prévus aux articles 44 sexies, 44 sexies A, 44 septies, 44 octies A, 44 duodecies, 44 terdecies, 44 quaterdecies et du régime prévu au présent article, l'entreprise peut opter pour ce dernier régime dans les six mois suivant le début d'activité. L'option est irrévocable et emporte renonciation définitive aux autres régimes.
+IV. – Lorsqu'elle répond aux conditions requises pour bénéficier des dispositions de l'un des régimes prévus aux articles 44 sexies, 44 sexies A, 44 septies, 44 octies A, 44 duodecies, 44 terdecies, 44 quaterdecies et du régime prévu au présent article, l'entreprise peut opter pour ce dernier régime dans les six mois suivant le début d'activité. L'option est irrévocable et emporte renonciation définitive aux autres régimes.
 
-V. ― Le bénéfice de l'exonération et de l'imposition partielle est subordonné au respect du règlement (UE) n° 1407/2013 de la Commission, du 18 décembre 2013, relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis (1).
+V. – Le bénéfice de l'exonération et de l'imposition partielle est subordonné au respect du règlement (UE) n° 1407/2013 de la Commission, du 18 décembre 2013, relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis (1).
 
-VI. ― L'exonération reste applicable pour sa durée restant à courir lorsque la commune d'implantation de l'entreprise sort de la liste des communes classées en zone de revitalisation rurale après la date de sa création ou de sa reprise.
+VI. – L'exonération reste applicable pour sa durée restant à courir lorsque la commune d'implantation de l'entreprise sort de la liste des communes classées en zone de revitalisation rurale après la date de sa création ou de sa reprise.
 
 NOTA :
 

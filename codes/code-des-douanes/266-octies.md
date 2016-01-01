@@ -18,4 +18,4 @@ La taxe mentionnée à l'article 266 sexies est assise sur :
 
 8. (Alinéa abrogé) ;
 
-9. Le poids des sacs de caisse à usage unique en matière plastique mentionnés au 10 du I de l'article 266 sexies.
+9. (Abrogé).

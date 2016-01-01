@@ -2,9 +2,9 @@
 
 1. Les tarifs de la taxe mentionnée à l'article 266 sexies sont fixés comme suit :
 
-A.-Pour les déchets non dangereux mentionnés au 1 du I de l'article 266 sexies :
+A.-Pour les déchets réceptionnés dans une installation de stockage ou de traitement thermique de déchets non dangereux mentionnée au 1 du I de l'article 266 sexies :
 
-a) Déchets non dangereux réceptionnés dans une installation de stockage de déchets non dangereux ou transférés vers une telle installation située dans un autre Etat :
+a) Déchets réceptionnés dans une installation de stockage de déchets non dangereux ou transférés vers une telle installation située dans un autre Etat :
 
 DÉSIGNATION DES MATIÈRES
 
@@ -250,17 +250,19 @@ Tonne
 
 |
 
-Sur le territoire de la Guyane, pour les déchets réceptionnés dans une installation de stockage de déchets non dangereux accessible par voies terrestres, le tarif de la taxe est fixé à 10 € par tonne de 2013 à 2018 et, pour les déchets réceptionnés dans une installation de stockage de déchets non dangereux non accessible par voies terrestres, le tarif de la taxe est fixé à 3 € par tonne de 2013 à 2018.
+Sur le territoire de la Guadeloupe, de la Martinique et de la Réunion, les tarifs mentionnés au tableau du présent a applicables à compter de 2016 sont multipliés par un coefficient égal à 0,75.
 
-Sur le territoire de Mayotte, pour les déchets réceptionnés dans une installation de stockage de déchets non dangereux, le tarif de la taxe est fixé à 0 € par tonne de 2014 à 2017, puis à 10 € par tonne pour 2018.
+Sur le territoire de la Guyane, pour les déchets réceptionnés dans une installation de stockage de déchets non dangereux accessible par voie terrestre, le tarif de la taxe est fixé à 10 € par tonne jusqu'au 31 décembre 2018 et, pour les déchets réceptionnés dans une installation de stockage de déchets non dangereux non accessible par voie terrestre, le tarif de la taxe est fixé à 3 € par tonne jusqu'au 31 décembre 2018.
 
-A compter de 2019, les tarifs fixés au tableau du présent a sont applicables en Guyane et à Mayotte.
+Sur le territoire de Mayotte, pour les déchets réceptionnés dans une installation de stockage de déchets non dangereux, le tarif de la taxe est fixé à 0 € par tonne jusqu'au 31 décembre 2017, puis à 10 € par tonne en 2018.
+
+A compter de 2019, sur le territoire de la Guyane et de Mayotte, les tarifs mentionnés au tableau du présent a sont multipliés par un coefficient égal à 0,4.
 
 Les déchets réceptionnés dans une installation de stockage de déchets non dangereux visée aux A, B ou C du tableau du présent a ou transférés vers une telle installation située dans un autre Etat et autorisée en vertu d'une réglementation d'effet équivalent bénéficient d'une réduction à raison des tonnages dont le transfert entre le site de regroupement et le site de traitement final est effectué par voie ferroviaire ou fluviale, sous réserve que la desserte routière terminale, lorsqu'elle est nécessaire, n'excède pas 20 % du kilométrage de l'itinéraire global.
 
-Cette réduction est égale à 0,50 € par tonne en 2009, 0,60 € par tonne en 2010 et 2011, 0,70 € par tonne en 2012, 0,80 € par tonne en 2013, 0,90 € par tonne en 2014 et 1 € par tonne à compter de 2015. Elle est, à compter du 1er janvier 2016, revalorisée dans la même proportion que la limite supérieure de la première tranche de l'impôt sur le revenu ;
+Cette réduction est égale à 0,50 € par tonne en 2009, 0,60 € par tonne en 2010 et 2011, 0,70 € par tonne en 2012, 0,80 € par tonne en 2013, 0,90 € par tonne en 2014 et 1 € par tonne à compter de 2015. Elle est, à compter du 1er janvier 2016, revalorisée chaque année, dans une proportion égale au taux de croissance de l'indice des prix à la consommation hors tabac de l'avant-dernière année ;
 
-b) Déchets non dangereux réceptionnés dans une installation de traitement thermique de déchets ou transférés vers une telle installation située dans un autre Etat :
+b) Déchets réceptionnés dans une installation de traitement thermique de déchets non dangereux ou transférés vers une telle installation située dans un autre Etat :
 
 DÉSIGNATION DES MATIÈRES
 
@@ -456,7 +458,7 @@ Tonne
 
 Les déchets réceptionnés dans une installation de traitement thermique de déchets non dangereux mentionnée aux A, B, C ou D du tableau du présent b ou transférés vers une telle installation située dans un autre Etat bénéficient d'une réduction à raison des tonnages dont le transfert entre le site de regroupement et le site de traitement final est effectué par voie ferroviaire ou fluviale, sous réserve que la desserte routière terminale, lorsqu'elle est nécessaire, n'excède pas 20 % du kilométrage de l'itinéraire global.
 
-Cette réduction est égale à 0,50 € par tonne en 2009 et 2010, 0,80 € par tonne en 2011 et 2012 et 1 € par tonne à compter de 2013. Elle est, à compter du 1er janvier 2014, revalorisée dans la même proportion que la limite supérieure de la première tranche de l'impôt sur le revenu.
+Cette réduction est égale à 0,50 € par tonne en 2009 et 2010, 0,80 € par tonne en 2011 et 2012 et 1 € par tonne à compter de 2013. Elle est, à compter du 1er janvier 2016, revalorisée chaque année, dans une proportion égale au taux de croissance de l'indice des prix à la consommation hors tabac de l'avant-dernière année.
 
 c) Les tarifs visés au A des tableaux du a et du b s'appliquent aux tonnages de déchets réceptionnés entre la date d'obtention de l'enregistrement EMAS ou de la certification ISO 14001 et le 31 décembre de l'année au titre de laquelle la taxe est due.
 
@@ -486,7 +488,7 @@ QUOTITÉ
 
 |
 
-Déchets dangereux réceptionnés dans une installation de traitement thermique ou de tout autre traitement de déchets dangereux ou transférés vers une telle installation située dans un autre Etat.
+Déchets réceptionnés dans une installation de traitement thermique ou de tout autre traitement de déchets dangereux ou transférés vers une telle installation située dans un autre Etat.
 
 |
 
@@ -832,18 +834,6 @@ Exploitation au cours d'une année civile (tarifs de base) :
 
 |
 
-Sacs de caisse à usage unique en matière plastique
-
-|
-
-Kilogramme
-
-|
-
-10
-
-|
-
 1 bis. A compter du 1er janvier 2013, les tarifs mentionnés au 1 sont relevés, chaque année, dans une proportion égale au taux de croissance de l'indice des prix à la consommation hors tabac de l'avant-dernière année.
 
 Toutefois, le premier alinéa du présent 1 bis ne s'applique qu'à compter :
@@ -852,9 +842,7 @@ a) Du 1er janvier 2014 aux tarifs mentionnés au b du A du 1 ;
 
 b) Du 1er janvier 2016 aux tarifs mentionnés au a du même A ;
 
-c) Du 1er janvier 2015 au tarif applicable aux sacs de caisse à usage unique en matière plastique mentionnés au 10 du I de l'article 266 sexies.
-
-.
+c) (Abrogé)
 
 2. Le montant minimal annuel de la taxe due par les deux premières catégories de personnes mentionnées au 1 du I de l'article 266 sexies est de 450 € par installation.
 

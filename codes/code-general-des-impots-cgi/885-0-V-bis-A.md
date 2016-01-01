@@ -1,8 +1,8 @@
 # Article 885-0 V bis A
 
-I.-Le redevable peut imputer sur l'impôt de solidarité sur la fortune, dans la limite de 50 000 €, 75 % du montant des dons en numéraire et dons en pleine propriété de titres de sociétés admis aux négociations sur un marché réglementé français ou étranger effectués au profit :
+I. – Le redevable peut imputer sur l'impôt de solidarité sur la fortune, dans la limite de 50 000 €, 75 % du montant des dons en numéraire et dons en pleine propriété de titres de sociétés admis aux négociations sur un marché réglementé français ou étranger effectués au profit :
 
-1° Des établissements de recherche ou d'enseignement supérieur ou d'enseignement artistique publics ou privés, d'intérêt général, à but non lucratif ;
+1° Des établissements de recherche ou d'enseignement supérieur ou d'enseignement artistique publics ou privés, d'intérêt général, à but non lucratif et des établissements d'enseignement supérieur consulaire mentionnés à l'article L. 711-17 du code de commerce ;
 
 2° Des fondations reconnues d'utilité publique répondant aux conditions fixées au a du 1 de l'article 200 ;
 
@@ -28,17 +28,17 @@ Lorsque les dons et versements ont été effectués au profit d'un organisme non
 
 Un décret fixe les conditions d'application des douzième et treizième alinéas et notamment la durée de validité ainsi que les modalités de délivrance, de publicité et de retrait de l'agrément.
 
-II.-Les dons ouvrant droit à l'avantage fiscal mentionné au I sont ceux effectués entre la date limite de dépôt de la déclaration de l'année précédant celle de l'imposition et la date limite de dépôt de la déclaration de l'année d'imposition.
+II. – Les dons ouvrant droit à l'avantage fiscal mentionné au I sont ceux effectués entre la date limite de dépôt de la déclaration de l'année précédant celle de l'imposition et la date limite de dépôt de la déclaration de l'année d'imposition.
 
-III.-La fraction du versement ayant donné lieu à l'avantage fiscal mentionné au I ne peut donner lieu à un autre avantage fiscal au titre d'un autre impôt.
+III. – La fraction du versement ayant donné lieu à l'avantage fiscal mentionné au I ne peut donner lieu à un autre avantage fiscal au titre d'un autre impôt.
 
 Le redevable peut bénéficier de l'avantage fiscal prévu au présent article et de celui prévu à l'article 885-0 V bis au titre de la même année, sous réserve que le montant imputé sur l'impôt de solidarité sur la fortune résultant des deux avantages n'excède pas 45 000 €.
 
 Par dérogation à l'alinéa précédent, la fraction des versements pour laquelle le redevable demande le bénéfice de l'avantage fiscal prévu au présent article ne peut donner lieu à l'application de l'article 885-0 V bis.
 
-IV.-Le bénéfice de l'avantage fiscal prévu au I est subordonné au respect du règlement (UE) n° 1407/2013 de la Commission, du 18 décembre 2013, relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis et à la condition que soient jointes à la déclaration d'impôt de solidarité sur la fortune prévue au 1 du I de l'article 885 W, ou fournies dans les trois mois suivant la date limite de dépôt de ladite déclaration, des pièces justificatives attestant le total du montant et la date des versements ainsi que l'identité des bénéficiaires.
+IV. – Le bénéfice de l'avantage fiscal prévu au I est subordonné au respect du règlement (UE) n° 1407/2013 de la Commission, du 18 décembre 2013, relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis et à la condition que soient jointes à la déclaration d'impôt de solidarité sur la fortune prévue au 1 du I de l'article 885 W, ou fournies dans les trois mois suivant la date limite de dépôt de ladite déclaration, des pièces justificatives attestant le total du montant et la date des versements ainsi que l'identité des bénéficiaires.
 
-V.-Un décret fixe les obligations déclaratives incombant aux redevables et aux personnes mentionnées au I.
+V. – Un décret fixe les obligations déclaratives incombant aux redevables et aux personnes mentionnées au I.
 
 NOTA :
 

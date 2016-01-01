@@ -28,7 +28,7 @@ b. Tout exploitant d'un établissement mentionné au a dont les activités, figu
 
 9. Alinéa abrogé ;
 
-10. A compter du 1er janvier 2014, toute personne qui, pour les besoins de son activité économique, livre pour la première fois sur le marché intérieur ou utilise pour la première fois des sacs de caisse à usage unique en matière plastique, dont les caractéristiques sont définies par décret.
+10. (Abrogé)
 
 II.-La taxe ne s'applique pas :
 
@@ -54,6 +54,6 @@ II.-La taxe ne s'applique pas :
 
 6. Aux lubrifiants biodégradables, non écotoxiques et d'origine renouvelable respectant les critères définis pour le label écologique communautaire des lubrifiants dans la décision n° 2005/360/ CE de la Commission européenne du 26 avril 2005 établissant les critères écologiques et les exigences associées en matière d'évaluation et de vérification pour l'attribution du label écologique communautaire aux lubrifiants ;
 
-7. Aux sacs de caisse à usage unique en matière plastique biodégradables constitués, dans des conditions définies par décret, d'un minimum de 40 % de matières végétales en masse.
+7. (Abrogé)
 
 III.-Sont exonérées de la taxe mentionnée au I, dans la limite de 20 % de la quantité annuelle totale de déchets reçus par installation, les réceptions de matériaux ou déchets inertes. Sont considérés comme déchets inertes les déchets qui ne se décomposent pas, ne brûlent pas et ne produisent aucune autre réaction physique ou chimique, ne sont pas biodégradables et ne détériorent pas d'autres matières avec lesquelles ils entrent en contact, d'une manière susceptible d'entraîner une pollution de l'environnement ou de nuire à la santé humaine.
