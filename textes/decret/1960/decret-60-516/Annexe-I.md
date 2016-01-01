@@ -1,60 +1,46 @@
 # Article Annexe I
 
-Désignation
+.
 
-des circonscriptions d'action régionale
+DÉSIGNATION DES CIRCONSCRIPTIONS
 
-|
-
-Départements
+d'action régionale
 
 |
 
-Nord-Pas-de-Calais
+DÉPARTEMENTS
 
 |
 
-Nord, Pas-de-Calais
+Alsace, Champagne-Ardenne, Lorraine
 
 |
 
-Picardie
+Aube, Ardennes, Bas-Rhin, Haut-Rhin, Haute-Marne, Marne, Meurthe-et-Moselle, Meuse, Moselle, Vosges
 
 |
 
-Aisne, Oise, Somme
+Aquitaine, Limousin, Poitou-Charentes
 
 |
 
-Région parisienne
+Charente, Charente-Maritime, Corrèze, Creuse, Deux-Sèvres, Dordogne, Gironde, Haute-Vienne, Landes, Lot-et-Garonne, Pyrénées-Atlantiques, Vienne
 
 |
 
-Paris, Seine-et-Marne, Yvelines, Essonne, Hauts-de-Seine, Seine-Saint-Denis, Val-de-Marne, Val-d'Oise.
+Auvergne, Rhône-Alpes
 
 |
 
-Centre
+Ain, Allier, Ardèche, Cantal, Drôme, Haute-Loire, Haute-Savoie, Isère, Loire, Puy-de-Dôme, Rhône, Savoie
 
 |
 
-Cher, Eure-et-Loir, Indre, Indre-et-Loire, Loir-et-Cher, Loiret
+Bourgogne, Franche-Comté
 
 |
 
-Haute-Normandie
-
-|
-
-Eure, Seine-Maritime
-
-|
-
-Basse-Normandie
-
-|
-
-Calvados, Manche, Orne
+Côte-d'Or, Doubs, Haute-Saône, Jura, Nièvre, Saône-et-Loire, Territoire de Belfort, Yonne
 
 |
 
@@ -62,7 +48,55 @@ Bretagne
 
 |
 
-Côtes d'Armor, Finistère, Ille-et-Vilaine, Morbihan
+Côtes-d'Armor, Finistère, Ille-et-Vilaine, Morbihan
+
+|
+
+Centre, Val de Loire
+
+|
+
+Cher, Eure-et-Loir, Indre, Indre-et-Loire, Loir-et-Cher, Loiret
+
+|
+
+Corse
+
+|
+
+Corse-du-Sud, Haute-Corse
+
+|
+
+Ile-de-France
+
+|
+
+Essonne, Hauts-de-Seine, Paris, Seine-et-Marne, Seine-Saint-Denis, Val-d'Oise, Val-de-Marne, Yvelines
+
+|
+
+Languedoc-Roussillon, Midi-Pyrénées
+
+|
+
+Aude, Ariège, Aveyron, Gard, Gers, Haute-Garonne, Hautes-Pyrénées, Hérault, Lot, Lozère, Pyrénées-Orientales, Tarn, Tarn-et-Garonne
+
+|
+
+Nord-Pas-de-Calais, Picardie
+
+|
+
+Aisne, Nord, Oise, Pas-de-Calais, Somme
+
+|
+
+Normandie
+
+|
+
+Calvados, Eure, Manche, Orne, Seine-Maritime
 
 |
 
@@ -74,107 +108,11 @@ Loire-Atlantique, Maine-et-Loire, Mayenne, Sarthe, Vendée
 
 |
 
-Poitou-Charentes
-
-|
-
-Charente, Charente-Maritime, Deux-Sèvres, Vienne
-
-|
-
-Limousin
-
-|
-
-Corrèze, Creuse, Haute-Vienne
-
-|
-
-Aquitaine
-
-|
-
-Dordogne, Gironde, Landes, Lot-et-Garonne, Pyrénées-Atlantiques
-
-|
-
-Midi-Pyrénées
-
-|
-
-Ariège, Aveyron, Haute-Garonne, Gers, Lot, Hautes-Pyrénées, Tarn, Tarn-et-Garonne
-
-|
-
-Champagne
-
-|
-
-Ardennes, Aube, Marne, Haute-Marne
-
-|
-
-Lorraine
-
-|
-
-Meurthe-et-Moselle, Meuse, Moselle, Vosges
-
-|
-
-Alsace
-
-|
-
-Bas-Rhin, Haut-Rhin
-
-|
-
-Franche-Comté
-
-|
-
-Doubs, Jura, Haute-Saône, territoire de Belfort
-
-|
-
-Bourgogne
-
-|
-
-Côte-d'Or, Nièvre, Saône-et-Loire, Yonne
-
-|
-
-Auvergne
-
-|
-
-Allier, Cantal, Haute-Loire, Puy-de-Dôme
-
-|
-
-Rhône-Alpes
-
-|
-
-Ain, Ardèche, Drôme, Isère, Loire, Rhône, Savoie, Haute-Savoie
-
-|
-
-Languedoc-Roussillon
-
-|
-
-Aude, Gard, Hérault, Lozère, Pyrénées-Orientales
-
-|
-
 Provence-Alpes-Côte d'Azur
 
 |
 
-Alpes-de-Haute-Provence, Hautes-Alpes, Alpes-Maritimes, Bouches-du-Rhône, Var, Vaucluse
+Alpes-de-Haute-Provence, Alpes-Maritimes, Bouches-du-Rhône, Hautes-Alpes, Var, Vaucluse
 
 |
 
@@ -186,18 +124,26 @@ Guadeloupe
 
 |
 
-Martinique |
+Martinique
 
-Martinique |
+|
 
-Réunion |
+Martinique
 
-Réunion |
+|
 
-Guyane |
+La Réunion
 
-Guyane |
+|
 
-Corse |
+La Réunion
 
-Corse-du-Sud, Haute-Corse |
+|
+
+Guyane
+
+|
+
+Guyane
+
+|
