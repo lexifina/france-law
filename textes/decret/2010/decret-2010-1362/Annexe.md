@@ -12,15 +12,15 @@ Ouvrant droit
 
 Ont droit et ouvrent droit, sous réserve de l'application des règles de maintien des droits et de coordination prévues à la sous-section 2 de la section 1 du chapitre Ier du titre VI du livre Ier du code de la sécurité sociale et au chapitre II du titre VII du livre Ier du même code :
 
-I. - Aux prestations de prévoyance prévues au 2° du III de l'article 1er du décret n° 2007-730 du 7 mai 2007 relatif à la caisse de prévoyance et de retraite du personnel de la Société nationale des chemins de fer français :
+I.-Aux prestations de prévoyance prévues au 2° du III de l'article 1er du décret n° 2007-730 du 7 mai 2007 relatif à la caisse de prévoyance et de retraite du personnel de la Société nationale des chemins de fer français :
 
 1. Les personnes mentionnées à l'article 2 du décret du 7 mai 2007 dès le jour de leur affiliation, y compris les anciens agents de l'ancien réseau Alsace-Lorraine titulaires d'une pension ou d'une rente d'invalidité.
 
 2. Les orphelins titulaires d'une pension attribuée à la suite du décès d'un agent ou d'un ancien agent au titre de l'article 18 du décret n° 2008-639 du 30 juin 2008 relatif au régime spécial de retraite du personnel de la Société nationale des chemins de fer français et non couverts à titre d'ayant droit par un régime de sécurité sociale.
 
-II. - Aux prestations en nature des assurances maladie et maternité les agents en congé de disponibilité dont la liste figure à l'article 12 du chapitre 10 du statut des relations collectives entre la SNCF et son personnel dans sa rédaction à la date de publication du décret créant la présente annexe, sans versement des cotisations ouvrières et patronales. Leur droit à l'allocation de fin de carrière et aux allocations décès n'est maintenu que moyennant le versement des cotisations ouvrières et patronales, selon les modalités prévues à l'article 7 du décret n° 2007-1056 du 28 juin 2007 relatif aux ressources de la caisse de prévoyance et de retraite du personnel de la Société nationale des chemins de fer français.
+II.-Aux prestations en nature des assurances maladie et maternité les agents en congé de disponibilité dont la liste figure à l'article 12 du chapitre 10 du statut des relations collectives entre la SNCF et son personnel dans sa rédaction à la date de publication du décret créant la présente annexe, sans versement des cotisations ouvrières et patronales. Leur droit à l'allocation de fin de carrière et aux allocations décès n'est maintenu que moyennant le versement des cotisations ouvrières et patronales, selon les modalités prévues à l'article 7 du décret n° 2007-1056 du 28 juin 2007 relatif aux ressources de la caisse de prévoyance et de retraite du personnel de la Société nationale des chemins de fer français.
 
-III. - Aux seules prestations en nature des assurances maladie et maternité dans les conditions applicables aux retraités les anciens agents ayant cessé leurs fonctions à la SNCF par départ volontaire qui reçoivent des indemnités de chômage versées par la SNCF sans interruption jusqu'à la date d'entrée en jouissance de leur pension du régime spécial de retraite du personnel de la SNCF.
+III.-Aux seules prestations en nature des assurances maladie et maternité dans les conditions applicables aux retraités les anciens agents ayant cessé leurs fonctions à la SNCF par départ volontaire qui reçoivent des indemnités de chômage versées par la SNCF sans interruption jusqu'à la date d'entrée en jouissance de leur pension du régime spécial de retraite du personnel de la SNCF.
 
 Article 1er-2
 
@@ -28,7 +28,7 @@ Ayant droit
 
 Ont droit, sous réserve de l'application des règles de maintien des droits et de coordination prévues à la sous-section 2 de la section I du chapitre Ier du titre VI du livre Ier du code de la sécurité sociale et au chapitre II du titre VII du livre Ier du même code :
 
-I. - Au titre des prestations de l'assurance maladie :
+I.-Au titre des prestations de l'assurance maladie :
 
 1° Les membres de la famille ayants droit au titre de l'assurance maladie des personnes mentionnées au précédent article sont les suivants :
 
@@ -58,7 +58,7 @@ k) La personne qui vit maritalement avec l'affilié célibataire, veuf, séparé
 
 l) La personne, non visée ci-dessus, qui vit depuis au moins un an avec l'affilié et qui est à sa charge effective, totale et permanente.
 
-II. - Au titre des prestations de l'assurance maternité :
+II.-Au titre des prestations de l'assurance maternité :
 
 Les ayants droit à l'assurance maternité sont les personnes définies aux a, b, c, e, f, j, k et l du 1° du présent article.
 
@@ -66,15 +66,15 @@ III. ― Au titre des prestations de l'assurance décès et de la prestation sp�
 
 Les ayants droit à l'assurance décès et à la prestation spéciale d'accompagnement sont définis au chapitre 4 et à l'article 5-1 de la présente annexe.
 
-IV. - Définition des enfants à charge :
+IV.-Définition des enfants à charge :
 
 Pour l'application des 1° et 2° du présent article, sont considérés comme étant à charge les enfants dont la rémunération n'excède pas le plafond mentionné au deuxième alinéa de l'article R. 512-2 du code de la sécurité sociale.
 
-V. - Dispositions diverses :
+V.-Dispositions diverses :
 
-L'ouvrant droit au titre d'un droit à pension de vieillesse dérivé n'ouvre pas la qualité d'ayant droit aux personnes visées aux points 1, 10 et 11 du I du présent article ni à leurs enfants.
+L'ouvrant droit au titre d'un droit à pension de vieillesse dérivé n'ouvre pas la qualité d'ayant droit aux personnes visées aux points 1,10 et 11 du I du présent article ni à leurs enfants.
 
-Les personnes de nationalité étrangère ne peuvent être admises en qualité d'ayant droit que si elles répondent aux dispositions des articles L. 161-25-2 et R. 115-6 du code de la sécurité sociale.
+Les personnes de nationalité étrangère ne peuvent être admises en qualité d'ayant droit que si elles répondent aux dispositions des articles L. 161-25-2 et R. 111-2 du code de la sécurité sociale.
 
 Chapitre 2
 
@@ -92,9 +92,9 @@ Pour le service de ces prestations, les dispositions contenues dans les livres, 
 
 2. Article L. 314-1 relatif aux soins pris en charge par l'assurance maladie.
 
-3. Article L. 321-1, 5° excepté, relatif aux prestations en nature.
+3. Article L. 321-1,5° excepté, relatif aux prestations en nature.
 
-4. Chapitre II du titre II du livre III relatif aux prestations en nature, à l'exception de l'article R. 322-8.
+4. Chapitre II du titre II du livre III relatif aux prestations en nature, à l'exception de l'article R. 160-16.
 
 5. Chapitre IV du titre II du livre III relatif à la qualité et à la coordination des soins des patients atteints d'une affection de longue durée.
 
@@ -134,7 +134,7 @@ Article 3-1
 
 Taux de remboursement
 
-I. - Agents en activité :
+I.-Agents en activité :
 
 Les actes, soins, prestations, cures thermales et fournitures délivrés ou prescrits aux personnes mentionnées aux a, b et d de l'article 2 du décret du 7 mai 2007, qui ont consulté dans le cadre de l'organisation médicale mise en place par la SNCF en application du statut des relations collectives entre la SNCF et son personnel dans sa rédaction à la date de publication du décret créant la présente annexe, sont pris en charge à 100 % des tarifs.
 
@@ -154,7 +154,7 @@ Pour les personnes qui n'ont pas consulté dans le cadre de l'organisation médi
 
 ― les dépenses d'hospitalisation réalisées dans les établissements de santé publics et privés mentionnés aux articles L. 162-22-6, L. 174-1 et R-321-4 du code de la sécurité sociale.
 
-II. - Autres bénéficiaires :
+II.-Autres bénéficiaires :
 
 Les actes, soins, prestations, fournitures et cures délivrés ou prescrits aux affiliés mentionnés au c de l'article 2 du décret du 7 mai 2007, aux personnes visées au 2 du I et au III de l'article 1er-1 de la présente annexe ainsi qu'aux ayants droit mentionnés à l'article 1er-2 de cette même annexe, sont remboursés au taux de 75 %.
 
@@ -182,21 +182,21 @@ Article 3-2
 
 Prestations
 
-I. - Optique :
+I.-Optique :
 
 Les frais d'achat de lentilles de contact au titre d'une affection différente de celles énumérées dans la liste des produits et prestations remboursables prévue à l'article L. 165-1 du code de la sécurité sociale sont pris en charge sur la base du tarif prévu pour des lunettes munies de verres ordinaires de mêmes caractéristiques. Leur renouvellement ne peut être pris en charge avant un délai minimum de douze mois.
 
-II. - Orthèses, grand appareillage, prothèse oculaire, chaussures orthopédiques, appareils électroniques correcteurs de la surdité :
+II.-Orthèses, grand appareillage, prothèse oculaire, chaussures orthopédiques, appareils électroniques correcteurs de la surdité :
 
 Le renouvellement des appareils n'est accordé que s'ils sont hors d'usage et reconnus irréparables, ou si l'évolution de l'état de santé de l'intéressé le justifie.
 
 Sauf cas exceptionnel, le renouvellement des chaussures orthopédiques n'est pris en charge qu'après un délai minimum de six mois.
 
-III. - Frais de transport pour se rendre en consultation :
+III.-Frais de transport pour se rendre en consultation :
 
 Indépendamment des règles de prise en charge prévues au chapitre II du titre II du Livre III du code de la sécurité sociale, les frais de transports prescrits pour se rendre en consultation aux assurés présentant un handicap lourd nécessitant une aide au déplacement sur avis du médecin conseil ainsi qu'aux assurés âgés de plus de 90 ans sans avis médical, sont pris en charge sur la base des taux fixés à l'article 3-1 de la présente annexe.
 
-IV. - Suppléments dentaires :
+IV.-Suppléments dentaires :
 
 Sont pris en charge, sur la base des tarifs prévus dans la nomenclature générale des actes professionnels, les actes suivants :
 
@@ -210,7 +210,7 @@ Sont pris en charge, sur la base des tarifs prévus dans la nomenclature génér
 
 ― les bridges collés, sur la base du tarif applicable à une attelle métallique et à une prothèse dentaire adjointe prévue pour le remplacement d'une à trois dents.
 
-V. - Cures :
+V.-Cures :
 
 Une allocation forfaitaire d'hébergement, dont le montant est fixé par l'arrêté ministériel du 23 février 1993, est versée, sans condition de ressources, au titre des cures thermales suivies dans une station figurant à la liste fixée par la nomenclature générale des actes professionnels, sous réserve que l'établissement thermal considéré soit agréé et entre dans le champ d'application de la convention nationale thermale, sauf lorsque l'affilié ou l'ayant droit peut, pendant la cure, conserver sa résidence habituelle.
 
@@ -218,7 +218,7 @@ Dans le cas d'une cure thermale suivie par un enfant de moins de 10 ans, une ind
 
 Une allocation journalière d'un montant égal à 1/21 de celui de l'allocation forfaitaire d'hébergement est versée, après avis du contrôle médical, au titre des cures libres de convalescence d'une durée minimum d'un mois et des cures balnéaires d'une durée de vingt-cinq jours. L'allocation au titre de la cure de convalescence peut être renouvelée au moins une fois par le service médical dans des cas de gravité plus marquée.
 
-VI. - Prestations différentielles en matière d'hospitalisation :
+VI.-Prestations différentielles en matière d'hospitalisation :
 
 L'agent ou l'ancien agent retraité ouvrant droit aux prestations de prévoyance visées au 2° du III de l'article 1er du décret du 7 mai 2007 reçoit, pour les membres de la famille mentionnés aux a à i de l'article 1.2 de la présente annexe et relevant d'un autre régime de sécurité sociale, le différentiel entre les prestations garanties par le régime spécial de prévoyance du personnel de la SNCF en matière d'hospitalisation et celles servies par le régime de sécurité sociale dont relèvent les intéressés.
 
@@ -246,7 +246,7 @@ Article 4-2
 
 Décès de l'agent en activité ou de l'ancien agent retraité
 
-I. - Montant :
+I.-Montant :
 
 a) Au décès de l'affilié visé aux a, b et d de l'article 2 du décret du 7 mai 2007 et ouvrant droit aux prestations de prévoyance dans les conditions prévues à l'article 1.1 de la présente annexe, ou en position de disponibilité qui a versé durant son congé les cotisations ouvrières et patronales de prévoyance, l'allocation au décès est égale à la rémunération totale annuelle brute déterminée en fonction du barème de rémunération applicable au jour du décès, augmentée le cas échéant des prestations familiales, sans jamais être inférieure à un montant forfaitaire minimum défini à l'article 4-6 de la présente annexe.
 
@@ -258,7 +258,7 @@ Si le défunt était titulaire d'une pension directe ainsi que d'une pension de 
 
 c) L'allocation mentionnée aux a et b n'est versée qu'en présence d'ayants droit mentionnés au II du présent article et suivant les règles de priorité et de répartition indiquées à ce même II. En l'absence de tels ayant droits, seule une allocation d'un montant forfaitaire est versée, suivant les modalités précisées au III du présent article.
 
-II. - Ayants droit :
+II.-Ayants droit :
 
 L'allocation au décès prévue au I du présent article est versée :
 
@@ -272,7 +272,7 @@ En l'absence de conjoint ou de partenaire avec lequel l'assuré était lié par 
 
 ― aux ascendants à charge de l'assuré au jour du décès.
 
-III. - Autres cas :
+III.-Autres cas :
 
 En l'absence d'ayant droits énumérés au II du présent article, il est versé :
 
@@ -280,7 +280,7 @@ En l'absence d'ayant droits énumérés au II du présent article, il est versé
 
 ― dans le cas du décès de l'ancien agent retraité, une allocation égale à un montant forfaitaire minimum défini à l'article 4-6 de la présente annexe, soit aux descendants de l'assuré, soit, à défaut, à ses ascendants, sans considération de charge ou d'âge.
 
-IV. - Lorsque le décès de l'agent en activité est consécutif à un accident du travail, de trajet reconnu ou à une maladie professionnelle, le montant de l'allocation au décès est triplé sauf dans le cas mentionné au paragraphe précédent.
+IV.-Lorsque le décès de l'agent en activité est consécutif à un accident du travail, de trajet reconnu ou à une maladie professionnelle, le montant de l'allocation au décès est triplé sauf dans le cas mentionné au paragraphe précédent.
 
 Article 4-3
 
@@ -344,11 +344,11 @@ Décès des pensionnés ou de leurs ayant droits
 
 relevant d'un autre régime de sécurité sociale
 
-I. - a) Les anciens agents titulaires d'une pension définie aux articles 1er, 2, 3 (II), 4 et 5 du décret du 30 juin 2008 qui seraient ouvrant droits au régime spécial de prévoyance du personnel de la SNCF s'ils ne relevaient pas en priorité d'un autre régime de sécurité sociale du fait de l'exercice d'une activité professionnelle ou par application des règles de coordination en matière d'assurance maladie, bénéficient de l'allocation au décès prévue aux articles 4-3 et 4-4 de la présente annexe sous réserve qu'un droit à ce titre ne soit pas servi par le régime dont relève le conjoint, la personne ayant conclu un pacte civil de solidarité avec l'affilié ou l'enfant ;
+I.-a) Les anciens agents titulaires d'une pension définie aux articles 1er, 2,3 (II), 4 et 5 du décret du 30 juin 2008 qui seraient ouvrant droits au régime spécial de prévoyance du personnel de la SNCF s'ils ne relevaient pas en priorité d'un autre régime de sécurité sociale du fait de l'exercice d'une activité professionnelle ou par application des règles de coordination en matière d'assurance maladie, bénéficient de l'allocation au décès prévue aux articles 4-3 et 4-4 de la présente annexe sous réserve qu'un droit à ce titre ne soit pas servi par le régime dont relève le conjoint, la personne ayant conclu un pacte civil de solidarité avec l'affilié ou l'enfant ;
 
-b) Les conjoints titulaires de la réversion d'une des pensions définie aux articles 1er, 2, 3 (II), 4 et 5 du décret du 30 juin 2008 et n'ouvrant pas droit au régime spécial de prévoyance du personnel de la SNCF, bénéficient de l'allocation au décès prévue à l'article 4-4 de la présente annexe, sous réserve qu'un droit à ce titre ne soit pas servi par le régime dont relève l'enfant.
+b) Les conjoints titulaires de la réversion d'une des pensions définie aux articles 1er, 2,3 (II), 4 et 5 du décret du 30 juin 2008 et n'ouvrant pas droit au régime spécial de prévoyance du personnel de la SNCF, bénéficient de l'allocation au décès prévue à l'article 4-4 de la présente annexe, sous réserve qu'un droit à ce titre ne soit pas servi par le régime dont relève l'enfant.
 
-II. - a) Au décès des personnes mentionnées au I a du présent article, leurs ayant droits mentionnés à l'article 4-2 de la présente annexe bénéficient de l'allocation au décès prévue au même article, sous réserve qu'un droit à ce titre ne soit pas servi par le régime dont elles relèvent.
+II.-a) Au décès des personnes mentionnées au I a du présent article, leurs ayant droits mentionnés à l'article 4-2 de la présente annexe bénéficient de l'allocation au décès prévue au même article, sous réserve qu'un droit à ce titre ne soit pas servi par le régime dont elles relèvent.
 
 b) Au décès des personnes mentionnées au I b du présent article, leurs ayant droits mentionnés à l'article 4.5 de la présente annexe bénéficient de l'allocation au décès prévue au même article, sous réserve qu'un droit à ce titre ne soit pas servi par le régime dont elles relèvent.
 
@@ -360,7 +360,7 @@ Article 5-1
 
 Prestation spéciale d'accompagnement
 
-I. - Bénéficiaires relevant du régime spécial de prévoyance du personnel de la SNCF :
+I.-Bénéficiaires relevant du régime spécial de prévoyance du personnel de la SNCF :
 
 Lorsqu'un agent en activité, un ancien agent retraité, ou un de leurs ayant droits, une veuve ou un veuf d'un agent ou d'un ancien agent retraité, est bénéficiaire de l'allocation personnalisée d'autonomie prévue aux articles L. 232-3 et suivants du code de l'action sociale et des familles, les aides jugées nécessaires au maintien à domicile sont prises en charge, sur avis du contrôle médical, dans la limite prévue par arrêté ministériel. Cette prestation, est versée suivant un plan d'aide médicalisée établi par la caisse, conjointement avec le bénéficiaire et son médecin.
 
@@ -368,11 +368,11 @@ En cas d'admission d'un ancien agent retraité ou d'un ayant droit bénéficiair
 
 Cette prestation, non renouvelable, prend effet, en cas d'accord de la caisse, à compter de la date de réception de l'ensemble des éléments nécessaires à l'examen de la demande.
 
-II. - Bénéficiaires relevant d'un autre régime de sécurité sociale :
+II.-Bénéficiaires relevant d'un autre régime de sécurité sociale :
 
 Sous réserve que les intéressés satisfassent aux conditions du I du présent article, cette prestation est également attribuée :
 
-― aux anciens agents titulaires d'une pension définie aux articles 1er, 2, 3 (II), 4 et 5 du décret du 30 juin 2008 qui seraient ouvrant droits au régime spécial de prévoyance du personnel de la SNCF s'ils ne relevaient pas en priorité d'un autre régime de sécurité sociale du fait de l'exercice d'une activité professionnelle ou par application des règles de coordination en matière d'assurance maladie et aux membres de leur famille mentionnés à l'article 1er-2 de la présente annexe ;
+― aux anciens agents titulaires d'une pension définie aux articles 1er, 2,3 (II), 4 et 5 du décret du 30 juin 2008 qui seraient ouvrant droits au régime spécial de prévoyance du personnel de la SNCF s'ils ne relevaient pas en priorité d'un autre régime de sécurité sociale du fait de l'exercice d'une activité professionnelle ou par application des règles de coordination en matière d'assurance maladie et aux membres de leur famille mentionnés à l'article 1er-2 de la présente annexe ;
 
 ― aux veufs ou veuves de l'agent ou de l'ancien agent retraité, non affiliés au régime spécial de prévoyance du personnel de la SNCF, titulaires de la réversion d'une des pensions précitées.
 
@@ -382,11 +382,11 @@ Article 5-2
 
 Allocation de fin de carrière
 
-I. - Une allocation égale à 1/12 de la rémunération totale annuelle brute déterminée en fonction du barème de rémunération applicable au jour de sa cessation de fonctions, augmentée, le cas échéant, des prestations familiales, est versée à l'affilié, agent en activité ou en congé de disponibilité effectuant les versements de cotisations ouvrières et patronales, qui cesse ses fonctions et demande le bénéfice immédiat des pensions prévues aux articles 1er, 2, 3 (II), 4 et 5 du décret du 30 juin 2008.
+I.-Une allocation égale à 1/12 de la rémunération totale annuelle brute déterminée en fonction du barème de rémunération applicable au jour de sa cessation de fonctions, augmentée, le cas échéant, des prestations familiales, est versée à l'affilié, agent en activité ou en congé de disponibilité effectuant les versements de cotisations ouvrières et patronales, qui cesse ses fonctions et demande le bénéfice immédiat des pensions prévues aux articles 1er, 2,3 (II), 4 et 5 du décret du 30 juin 2008.
 
 Si, au jour de la cessation des fonctions, l'agent exerce son activité à temps partiel, l'allocation est calculée sur la base des éléments fixes de la rémunération correspondant à un travail à temps complet.
 
-II. - Les éléments constitutifs de la rémunération et les prestations familiales à prendre en compte pour le calcul de l'allocation définie au I, sont :
+II.-Les éléments constitutifs de la rémunération et les prestations familiales à prendre en compte pour le calcul de l'allocation définie au I, sont :
 
 ― les éléments fixes mensuels imposables ;
 
