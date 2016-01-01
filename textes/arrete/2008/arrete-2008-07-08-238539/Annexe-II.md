@@ -1,8 +1,8 @@
 # Article Annexe II
 
-MODÈLE DE RAPPORT DE L'ÉTAT
+MODÈLE DE RAPPORT DE L'ÉTAT DE L'INSTALLATION INTÉRIEURE D'ÉLECTRICITÉ
 
-DE L'INSTALLATION INTÉRIEURE D'ÉLECTRICITÉ
+Norme ou spécification technique utilisée : ...............
 
 A. - Désignation du ou des immeubles bâtis
 
@@ -20,7 +20,7 @@ N° de rue, voie :
 
 Référence cadastrale :
 
-Désignation et situation du lot de (co) propriété :
+Désignation et situation du lot de (co)propriété :
 
 Type d'immeuble :
 
@@ -68,13 +68,15 @@ Désignation de la compagnie d'assurance :
 
 N° de police et date de validité :
 
-Le présent rapport est établi par une personne dont les compétences sont certifiées par : ............. le : ....................
+Le présent rapport est établi par une personne dont les compétences sont certifiées par : ........................... le : ........................... jusqu'au : ...........................
 
-D. - Synthèse de l'état de l'installation intérieure d'électricité
+D. - Limites du domaine d'application du diagnostic
 
-Le diagnostic porte uniquement sur l'ensemble de l'installation intérieure d'électricité à basse tension des locaux à usage d'habitation située en aval de l'appareil général de commande et de protection de cette installation. Il ne concerne pas les matériels d'utilisation amovibles, ni les circuits internes des matériels d'utilisation fixes, destinés à être reliés à l'installation électrique fixe, ni les installations de production d'énergie électrique du générateur jusqu'au point d'injection au réseau public de distribution d'énergie ou au point de raccordement à l'installation intérieure.
+Le diagnostic porte uniquement sur l'ensemble de l'installation intérieure d'électricité à basse tension des locaux à usage d'habitation située en aval de l'appareil général de commande et de protection de cette installation. Il ne concerne pas les matériels d'utilisation amovibles, ni les circuits internes des matériels d'utilisation fixes, destinés à être reliés à l'installation électrique fixe, ni les installations de production d'énergie électrique du générateur jusqu'au point d'injection au réseau public de distribution d'énergie ou au point de raccordement à l'installation intérieure, ni les circuits de téléphonie, de télévision, de réseau informatique, de vidéophonie, de centrale d'alarme, etc., lorsqu'ils sont alimentés en régime permanent sous une tension inférieure ou égale à 50 V en courant alternatif et 120 V en courant continu.
 
-L'intervention de l'opérateur de diagnostic ne porte que sur les constituants visibles, visitables, de l'installation au moment du diagnostic. Elle s'effectue sans déplacement de meubles ni démontage de l'installation électrique (hormis le démontage des capots des tableaux électriques lorsque cela est possible) ni destruction des isolants des câbles : des éléments dangereux de l'installation intérieure d'électricité peuvent ne pas être repérés, notamment :
+L'intervention de l'opérateur de diagnostic ne porte que sur les constituants visibles, visitables, de l'installation au moment du diagnostic. Elle s'effectue sans déplacement de meubles ni démontage de l'installation électrique (hormis le démontage des capots des tableaux électriques lorsque cela est possible) ni destruction des isolants des câbles.
+
+Des éléments dangereux de l'installation intérieure d'électricité peuvent ne pas être repérés, notamment :
 
 - les parties de l'installation électrique non visibles (incorporées dans le gros œuvre ou le second œuvre ou masquées par du mobilier) ou nécessitant un démontage ou une détérioration pour pouvoir y accéder (boîtes de connexion, conduits, plinthes, goulottes, huisseries, éléments chauffants incorporés dans la maçonnerie, luminaires des piscines plus particulièrement) ;
 
@@ -82,41 +84,55 @@ L'intervention de l'opérateur de diagnostic ne porte que sur les constituants v
 
 - inadéquation entre le courant assigné (calibre) des dispositifs de protection contre les surintensités et la section des conducteurs sur toute la longueur des circuits.
 
-E. - Synthèse de l'état de l'installation
+E. - Synthèse de l'état de l'installation intérieure d'électricité
 
-intérieure d'électricité
+E.1. Anomalies et/ou constatations diverses relevées
 
-L'installation intérieure d'électricité ne comporte aucune anomalie.
+Cocher distinctement le cas approprié parmi les quatre éventualités ci-dessous :
 
-L'installation intérieure d'électricité comporte une ou des anomalies pour laquelle ou lesquelles il est vivement recommandé d'agir afin d'éliminer les dangers qu'elle (s) présente (nt).
+□ L'installation intérieure d'électricité ne comporte aucune anomalie et ne fait pas l'objet de constatations diverses.
 
-Les anomalies constatées concernent :
+□ L'installation intérieure d'électricité ne comporte aucune anomalie, mais fait l'objet de constatations diverses.
 
-L'appareil général de commande et de protection et son accessibilité.
+□ L'installation intérieure d'électricité comporte une ou des anomalies. Il est recommandé au propriétaire de les supprimer en consultant dans les meilleurs délais un installateur électricien qualifié afin d'éliminer les dangers qu'elle(s) présente(nt). L'installation ne fait pas l'objet de constatations diverses.
 
-La protection différentielle à l'origine de l'installation électrique et sa sensibilité appropriée aux conditions de mise à la terre.
+□ L'installation intérieure d'électricité comporte une ou des anomalies. Il est recommandé au propriétaire de les supprimer en consultant dans les meilleurs délais un installateur électricien qualifié afin d'éliminer les dangers qu'elle(s) présente(nt). L'installation fait également l'objet de constatations diverses.
 
-La prise de terre et l'installation de mise à la terre.
+E.2. Les domaines faisant l'objet d'anomalies sont :
 
-La protection contre les surintensités adaptée à la section des conducteurs, sur chaque circuit.
+Cocher distinctement les domaines où des anomalies non compensées sont avérées en faisant mention des autres domaines :
 
-La liaison équipotentielle dans les locaux contenant une baignoire ou une douche.
+□ 1. L'appareil général de commande et de protection et son accessibilité.
 
-Les règles liées aux zones dans les locaux contenant une baignoire ou une douche.
+□ 2. La protection différentielle à l'origine de l'installation électrique et sa sensibilité appropriée aux conditions de mise à la terre.
 
-Des matériels électriques présentant des risques de contact direct.
+□ 3. La prise de terre et l'installation de mise à la terre.
 
-Des matériels électriques vétustes, inadaptés à l'usage.
+□ 4. La protection contre les surintensités adaptée à la section des conducteurs, sur chaque circuit.
 
-Des conducteurs non protégés mécaniquement.
+□ 5. La liaison équipotentielle dans les locaux contenant une baignoire ou une douche.
 
-Des appareils d'utilisation situés dans des parties communes et alimentés depuis la partie privative ou des appareils d'utilisation situés dans la partie privative et alimentés depuis les partie communes.
+□ 6. Les règles liées aux zones dans les locaux contenant une baignoire ou une douche.
 
-La piscine privée.
+□ 7. Des matériels électriques présentant des risques de contact direct.
 
-L'installation intérieure d'électricité n'était pas alimentée lors du diagnostic. Les vérifications de fonctionnement du ou des dispositifs de protection à courant différentiel-résiduel n'ont pu être effectuées.
+□ 8.1. Des matériels électriques vétustes, inadaptés à l'usage.
 
-Constatations diverses (références et libellés des constatations diverses selon la norme XP C 16-600) :
+□ 8.2. Des conducteurs non protégés mécaniquement.
+
+□ 9. Des appareils d'utilisation situés dans des parties communes et alimentés depuis la partie privative.
+
+□ 10. La piscine privée ou le bassin de la fontaine.
+
+E.3. Les constatations diverses concernent :
+
+Cocher distinctement le(s) cas approprié(s) parmi les éventualités ci-dessous :
+
+□ Des installations, parties d'installations ou spécificités non couvertes par le présent diagnostic.
+
+□ Des points de contrôle n'ayant pu être vérifiés.
+
+□ Des constatations concernant l'installation électrique et/ou son environnement.
 
 F. - Anomalies identifiées
 
@@ -126,7 +142,7 @@ article (1)
 
 |
 
-LIBELLÉ DES ANOMALIES
+LIBELLÉ ET LOCALISATION (*) DES ANOMALIES
 
 |
 
@@ -144,7 +160,7 @@ correctement mises en œuvre
 
 |
 
-.
+-
 
 |
 
@@ -154,15 +170,17 @@ correctement mises en œuvre
 
 |
 
-(1) Référence des anomalies selon la norme XP C 16-600.
+(1) Référence des anomalies selon la norme ou la spécification technique utilisée.
 
-(2) Référence des mesures compensatoires selon la norme XP C 16-600.
+(2) Référence des mesures compensatoires selon la norme ou la spécification technique utilisée.
 
 (3) Une mesure compensatoire est une mesure qui permet de limiter un risque de choc électrique lorsque les règles fondamentales de sécurité ne peuvent s'appliquer pleinement pour des raisons soit économiques, soit techniques, soit administratives. Le numéro d'article et le libellé de la mesure compensatoire sont indiqués en regard de l'anomalie concernée.
 
+(*) Avertissement : la localisation des anomalies n'est pas exhaustive. Il est admis que l'opérateur de diagnostic ne procède à la localisation que d'une anomalie par point de contrôle. Toutefois, cet avertissement ne concerne pas le test de déclenchement des dispositifs différentiels.
+
 |
 
-G. - Informations complémentaires
+G.1. - Informations complémentaires
 
 NUMÉRO
 
@@ -174,19 +192,47 @@ LIBELLÉ DES INFORMATIONS
 
 |
 
-.
+-
 
 |
 
 |
 
-.
+-
 
 |
 
 |
 
-(1) Référence des informations complémentaires selon la norme XP C 16-600.
+(1) Référence des informations complémentaires selon la norme ou la spécification technique utilisée.
+
+|
+
+G.2. - Constatations diverses
+
+NUMÉRO
+
+article (1)
+
+|
+
+LIBELLÉ DES CONSTATATIONS DIVERSES
+
+|
+
+-
+
+|
+
+|
+
+-
+
+|
+
+|
+
+(1) Référence des constatations diverses selon la norme ou la spécification technique utilisée.
 
 |
 
@@ -198,9 +244,9 @@ Dates de visite et d'établissement de l'état
 
 Visite effectuée le :
 
-Etat rédigé à Le
+Etat rédigé à .......... le ...........
 
-Nom : Prénom :
+Nom : .......... Prénom : ..........
 
 Signature de l'opérateur :
 
@@ -208,7 +254,9 @@ I. - Objectif des dispositions et description des risques encourus en fonction d
 
 CORRESPONDANCE
 
-avec le groupe d'anomalies (1)
+avec le domaine
+
+d'anomalies (1)
 
 |
 
@@ -218,7 +266,7 @@ et description des risques encourus
 
 |
 
-B1
+1
 
 |
 
@@ -228,11 +276,11 @@ Appareil général de commande et de protection : cet appareil, accessible à l'
 
 |
 
-Son absence, son inaccessibilité ou un appareil inadapté ne permet pas d'assurer cette fonction de coupure en cas de danger, d'incendie ou d'intervention sur l'installation électrique.
+Son absence, son inaccessibilité ou un appareil inadapté ne permet pas d'assurer cette fonction de coupure en cas de danger (risque d'électrisation, voire d'électrocution), d'incendie ou d'intervention sur l'installation électrique.
 
 |
 
-B2
+2
 
 |
 
@@ -246,7 +294,7 @@ Son absence ou son mauvais fonctionnement peut être la cause d'une électrisati
 
 |
 
-B3
+3
 
 |
 
@@ -260,7 +308,7 @@ L'absence de ces éléments ou leur inexistence partielle peut être la cause d'
 
 |
 
-B4
+4
 
 |
 
@@ -274,7 +322,7 @@ L'absence de ces dispositifs de protection ou leur calibre trop élevé peut êt
 
 |
 
-B5
+5
 
 |
 
@@ -288,7 +336,7 @@ Son absence privilégie, en cas de défaut, l'écoulement du courant électrique
 
 |
 
-B6
+6
 
 |
 
@@ -302,15 +350,15 @@ Le non-respect de celles-ci peut être la cause d'une électrisation, voire d'un
 
 |
 
-B7
+7
 
 |
 
-Matériels électriques présentant des risques de contact direct : les matériels électriques dont des parties nues sous tension sont accessibles (matériels électriques anciens, fils électriques dénudés, bornes de connexion non placées dans une boîte équipée d'un capot, matériels électriques cassés...) présentent d'importants risques d'électrisation, voire d'électrocution.
+Matériels électriques présentant des risques de contact direct : les matériels électriques dont des parties nues sous tension sont accessibles (matériels électriques anciens, fils électriques dénudés, bornes de connexion non placées dans une boîte équipée d'un couvercle, matériels électriques cassés...) présentent d'importants risques d'électrisation, voire d'électrocution.
 
 |
 
-B8
+8
 
 |
 
@@ -318,7 +366,7 @@ Matériels électriques vétustes ou inadaptés à l'usage : ces matériels éle
 
 |
 
-B9
+9
 
 |
 
@@ -326,11 +374,11 @@ Appareils d'utilisation situés dans des parties communes et alimentés depuis l
 
 |
 
-B10
+10
 
 |
 
-Piscine privée : les règles de mise en œuvre de l'installation électrique et des équipements associés à la piscine permettent de limiter le risque de chocs électriques, du fait de la réduction de la résistance électrique du corps humain lorsque celui-ci est mouillé ou immergé.
+Piscine privée ou bassin de fontaine : les règles de mise en œuvre de l'installation électrique et des équipements associés à la piscine ou au bassin de fontaine permettent de limiter le risque de chocs électriques, du fait de la réduction de la résistance électrique du corps humain lorsque celui-ci est mouillé ou immergé.
 
 |
 
@@ -340,7 +388,7 @@ Le non-respect de celles-ci peut être la cause d'une électrisation, voire d'un
 
 |
 
-(1) Référence des anomalies selon la norme XP C 16-600.
+(1) Référence des anomalies selon la norme ou la spécification technique utilisée.
 
 |
 
@@ -348,7 +396,9 @@ J. - Informations complémentaires
 
 CORRESPONDANCE
 
-avec le groupe d'informations (1)
+avec le domaine
+
+d'informations (1)
 
 |
 
@@ -358,11 +408,11 @@ et description des risques encourus
 
 |
 
-B11
+11
 
 |
 
-Dispositif (s) différentiel (s) à haute sensibilité protégeant l'ensemble de l'installation électrique : l'objectif est d'assurer rapidement la mise hors tension de l'installation électrique ou du circuit concerné, dès l'apparition d'un courant de défaut même de faible valeur. C'est le cas notamment lors de la défaillance occasionnelle des mesures classiques de protection contre les chocs électriques (tels que l'usure normale ou anormale des matériels, l'imprudence ou le défaut d'entretien...).
+Dispositif(s) différentiel(s) à haute sensibilité protégeant tout ou partie de l'installation électrique : l'objectif est d'assurer rapidement la coupure du courant de l'installation électrique ou du circuit concerné, dès l'apparition d'un courant de défaut même de faible valeur. C'est le cas notamment lors de la défaillance occasionnelle (telle que l'usure normale ou anormale des matériels, l'imprudence ou le défaut d'entretien, la rupture du conducteur de mise à la terre d'un matériel électrique ) des mesures classiques de protection contre les risques d'électrisation, voire d'électrocution.
 
 |
 
@@ -372,6 +422,12 @@ Socles de prise de courant de type à obturateurs : l'objectif est d'éviter l'i
 
 |
 
-(1) Référence des informations complémentaires selon la norme XP C 16-600.
+|
+
+Socles de prise de courant de type à puits : La présence d'un puits au niveau d'un socle de prise de courant évite le risque d'électrisation, voire d'électrocution, au moment de l'introduction des fiche mâles non isolées d'un cordon d'alimentation.
+
+|
+
+(1) Référence des informations complémentaires selon la norme ou la spécification technique utilisée.
 
 |
