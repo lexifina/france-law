@@ -1,0 +1,37 @@
+# Article 1er
+
+L'article 4 « Prévenir les conflits en renforçant les moyens du dialogue social de branche : création d'un fonds de financement du dialogue social de branche » de l'accord de branche du 3 décembre 2007 sur le développement du dialogue social, la prévention des conflits et la continuité du service public dans les transports urbains de voyageurs est annulé et remplacé comme suit.
+
+« Article 4
+
+Prévenir les conflits en renforçant les moyens du dialogue social de branche : création d'un fonds de financement du dialogue social de branche
+
+Par le présent accord, les parties signataires reconnaissent que l'évolution des relations sociales de la branche des transports urbains de voyageurs nécessite la mise en place de moyens permettant d'assurer un dialogue social et des négociations de branche de qualité.
+
+Ils décident donc d'instituer une contribution spécifique des entreprises relevant du champ d'application de la convention collective des transports urbains de voyageurs.
+
+Le montant de cette contribution annuelle est fixé à 0,1 % de la masse salariale brute totale des entreprises entrant dans le champ d'application de la convention collective des transports urbains de voyageurs. Elle est calculée conformément aux dispositions de l'article 1er de l'annexe “ Financement du dialogue social de branche ” du présent accord.
+
+Dans les conditions, limites et plafonds fixés à l'annexe “ Financement du dialogue social de branche ”, le conseil d'administration de l'association de gestion du fonds du dialogue social de branche pourra décider, au regard des excédents constatés sur un ou plusieurs exercices comptables, de la minoration de la contribution financière appelée auprès des entreprises.
+
+Le complément entre la contribution légale du 0,1 % conventionnel et la contribution minorée des entreprises sera pris sur les réserves de l'association de gestion du fonds du dialogue social. L'assiette de répartition pour les différents budgets sera prise sur le taux de contribution légale du 0,1 % conventionnel.
+
+Cette contribution a pour objet la prise en charge du dialogue social de branche, dans les conditions prévues par les dispositions de l'article 3.2 de l'annexe “ Financement du dialogue social de branche ” du présent accord, à savoir principalement :
+
+– le détachement de salariés en qualité de “ chargé du dialogue social de branche ” ;
+
+– les dépenses spécifiques des “ chargés du dialogue social de branche ” ;
+
+– les moyens matériels des organisations syndicales représentatives de branche : documentations, bureautique, informatique ;
+
+– les frais de participation aux réunions paritaires de branche dans les conditions fixées par l'article 12.2 de la convention collective nationale “ Transports urbains ” ;
+
+– les frais de fonctionnement de l'observatoire paritaire de la négociation collective et du dialogue social ;
+
+– les frais de fonctionnement de l'association de gestion du fonds du dialogue social de branche.
+
+Conformément à l'article 5 de l'annexe “ Financement du dialogue social de branche ” du présent accord, 80 % du montant total de la contribution des entreprises seront affectés au financement des trois premiers postes de dépenses listés ci-dessus, le solde de 20 % sera affecté au financement des trois autres postes.
+
+Dans les conditions, limites, planchers et plafonds fixés à l'annexe “ Financement du dialogue social de branche ”, le conseil d'administration de l'association de gestion du fonds du dialogue social de branche pourra décider de la modification de cette répartition.
+
+Cette contribution au dialogue social de branche est instituée, gérée, collectée et répartie dans les conditions fixées à l'annexe du présent accord mettant en place une association paritaire de gestion du fonds du dialogue social de branche. »
