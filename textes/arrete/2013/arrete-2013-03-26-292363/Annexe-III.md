@@ -1,83 +1,29 @@
 # Article Annexe III
 
-FORMATION DE SPÉCIALISTE LA FORMATION INITIALE AU SOUTIEN OPÉRATIONNEL POLYVALENT
+FORMATION DE SPÉCIALISTE
 
-1. Les épreuves
+La phase de formation d'adaptation à la spécialité varie en fonction des spécialités :
 
-Les épreuves de la formation au soutien opérationnel polyvalent comprennent :
+9 semaines de formation d'adaptation à la spécialité pour :
 
-- une épreuve de connaissance du groupe de commandement constituée d'un test comportant cinq questions à réponses brèves (durée : 30 minutes ; coefficient 3) ;
+- spécialité administration et gestion du personnel ;
 
-- une épreuve de connaissance du soutien des personnels constituée d'un test comportant cinq questions à réponses brèves (durée : 30 minutes ; coefficient 3) ;
+- spécialité gestion logistique et financière ;
 
-- une épreuve de logistique de l'unité constituée d'un test comportant cinq questions à réponses brèves (durée : 30 minutes ; coefficient 5) ;
+- spécialité imprimerie.
 
-- une épreuve de l'exécution du service et suivi de l'activité opérationnelle constituée d'un test comportant cinq questions à réponses brèves (durée : 30 minutes ; coefficient 4).
+11 semaines de formation d'adaptation à la spécialité pour :
 
-2. Le programme
+- spécialité restauration collective.
 
-2.1. Fonctionnement du groupe commandement
+12 semaines de formation d'adaptation à la spécialité pour :
 
-Le traitement du courrier et la gestion de la documentation.
+- spécialité auto-engins blindés.
 
-Le mémorial, les annuaires gendarmerie et interadministrations (MAIA).
+19 semaines de formation d'adaptation à la spécialité :
 
-La protection des documents et l'utilisation des diverses mentions (diffusion restreinte et confidentialité spécifiques).
+- spécialité armurerie pyrotechnie.
 
-Les écrits de service.
+22 semaines de formation d'adaptation à la spécialité pour :
 
-Le compte rendu de réunion.
-
-La gestion de la messagerie interpersonnelle et organique.
-
-L'outil AGORH@.
-
-La contexture du message Evengrave.
-
-2.2. Soutien des personnels
-
-Les statuts des SOG, CSTAGN et GAV.
-
-Les principales positions statutaires.
-
-Le dossier général et le dossier d'archives.
-
-Les dispositions et les conditions régissant la mobilité des militaires (SOG et CSTAGN).
-
-Les cursus de formation et leurs implications (SOG et CSTAGN).
-
-2.3. Logistique de l'unité
-
-La chaîne et la nature des dépenses (chaîne logistique, interlocuteurs, crédits budgétaires, régime dérogatoire).
-
-La préparation, le suivi et la mise en œuvre d'un budget.
-
-La gestion des matériels MAT, AMOD et SIC (gestion, comptabilité, rôle des autorités, codification, contrôle, les prises et remises de service, pertes, détériorations...).
-
-La sécurité des matériels MAT, AMOD et SIC dans les unités.
-
-La gestion du parc immobilier et du casernement.
-
-Le suivi du parc automobile et du carburant.
-
-2.4. Exécution du service et suivi de l'activité opérationnelle
-
-La riposte graduée et les méthodes d'autodéfense.
-
-La sécurité des hommes, des installations et de l'armement.
-
-La terminologie du droit pénal et de la procédure pénale.
-
-La transmission des procédures judiciaires.
-
-La mise en œuvre des Evengrave.
-
-La sécurité des casernes et la prévention des accidents en gendarmerie.
-
-Le soutien des opérations nécessitant des moyens importants (demande de moyens complémentaires).
-
-Les missions de maintien de l'ordre et de défense de l'unité.
-
-Les systèmes d'information et de communication en usage dans les unités.
-
-Le CSTAGN militaire et citoyen.
+- spécialité affaires immobilières.

@@ -1,855 +1,187 @@
 # Article Annexe V
 
-1. Barèmes des épreuves physiques
+FORMATION DE SPÉCIALISTE : LA FORMATION D'ADAPTATION À LA SPÉCIALITÉ
 
-NOTE |
+1. Spécialité "administration et gestion du personnel"
 
-3 000 MÈTRES COURSE |
+1.1. Le programme
 
-APPUIS FACIAUX |
+Gestion des ressources humaines
 
-ABDOMINAUX |
+Droits individuels
 
-Masculin |
+Déplacements et changement de résidence
 
-Féminin |
+Activités professionnelles bureautique et informatique
 
-Masculin |
+Structure de commandement et d'administration de la gendarmerie
 
-Féminin |
+La mise en œuvre du système informatique en matière de RH (Agorha, Agorha FD/CR...)
 
-Masculin |
+1.2. Les épreuves
 
-Féminin |
+Les épreuves de la formation d'adaptation à la spécialité couvrent la totalité du programme et comprennent :
 
-20
+- un ensemble d'épreuves de contrôle continu (coefficient 60) ;
 
-|
+- un examen final constitué entre autres de la résolution d'un cas concret (durée : 3 heures ; coefficient 40).
 
-12'00
+Une note moyenne inférieure à 8 sur 20 est éliminatoire.
 
-|
+2. Spécialité "gestion logistique et financière"
 
-15'00
+2.1. Le programme
 
-|
+Contrôle de gestion
 
-40
+Comptabilité générale de l'Etat
 
-|
+Achats-marchés
 
-25
+Comptabilité générale
 
-|
+Gestion des matériels-tenue des stocks
 
-50
+Gestion des matériels-gestion logistique
 
-|
+Activités professionnelles bureautique et informatique
 
-40
+La mise en œuvre du système informatique en matière de gestion des matériels
 
-|
+2.2. Les épreuves
 
-19,5
+Les épreuves de la formation d'adaptation à la spécialité couvrent la totalité du programme et comprennent :
 
-|
+- un ensemble d'épreuves de contrôle continu (coefficient 60) ;
 
-12'10
+- un examen final constitué entre autres de la résolution d'un cas concret (durée : 3 heures ; coefficient 40).
 
-|
+Une note moyenne inférieure à 8 sur 20 est éliminatoire.
 
-15'10
+3. Spécialité "auto-engins blindés"
 
-|
+3.1. Le programme
 
-|
+La technique automobile
 
-|
+L'environnement administratif et réglementaire
 
-45
+3.2. Les épreuves
 
-|
+Les épreuves de la formation d'adaptation à la spécialité couvrent la totalité du programme et comprennent des évaluations certificatives et des contrôles continus.
 
-35
+Une note moyenne inférieure à 8 sur 20 est éliminatoire.
 
-|
+4. Spécialité "affaires immobilières"
 
-19
+4.1. Le programme
 
-|
+La maîtrise d'ouvrage
 
-12'20
+L'administration et les finances
 
-|
+La maîtrise d'œuvre
 
-15'20
+L'ingénierie
 
-|
+Sécurité santé au travail dans un atelier casernement
 
-34
+Activités professionnelles bureautique et informatique
 
-|
+La mise en œuvre du système informatique en matière de gestion du parc immobilier et des charges
 
-22
+4.2. Les épreuves
 
-|
+Les épreuves de la formation d'adaptation à la spécialité couvrent la totalité du programme et comprennent des évaluations certificatives et des contrôles continus.
 
-44
+Une note moyenne inférieure à 8 sur 20 est éliminatoire.
 
-|
+5. Spécialité "restauration collective"
 
-34
+5.1. Le programme
 
-|
+Achats-marchés
 
-18,5
+Comptabilité générale
 
-|
+Direction et fonctionnement d'un cercle mixte
 
-12'30
+HACCP
 
-|
+Nutrition
 
-15'30
+Ressources humaines
 
-|
+Sécurité alimentaire
 
-|
+Sécurité santé au travail dans un service hôtellerie-restauration-loisirs
 
-|
+Achats
 
-43
+Activités professionnelles bureautique et informatique
 
-|
+Direction et fonctionnement d'un cercle mixte
 
-33
+Management
 
-|
+5.2. Les épreuves
 
-18
+Les épreuves de la formation d'adaptation à la spécialité couvrent la totalité du programme et comprennent des évaluations certificatives et des contrôles continus.
 
-|
+L'obtention d'une note inférieure à 8 sur 20 aux épreuves de budget et de méthode HACCP est éliminatoire.
 
-12'40
+Une note moyenne inférieure à 8 sur 20 est éliminatoire.
 
-|
+6. Spécialité "imprimerie"
 
-15'40
+6.1. Le programme
 
-|
+Achats-marchés
 
-32
+Comptabilité générale de l'Etat
 
-|
+Comptabilité générale
 
-21
+Gestion des matériels-gestion logistique
 
-|
+Gestion des matériels-tenue des stocks
 
-42
+Activités professionnelles bureautique et informatique
 
-|
+La mise en œuvre du système informatique en matière de gestion des matériels
 
-32
+Sécurité santé au travail dans un atelier d'imprimerie
 
-|
+6.2. Les épreuves
 
-17,5
+Les épreuves de la formation d'adaptation à la spécialité couvrent la totalité du programme et comprennent :
 
-|
+- quatre épreuves de contrôle continu (durée : 2 heures ; coefficient 15 chacune) ;
 
-12'50
+- un examen final constitué entre autres de la résolution d'un cas concret (durée : 3 heures ; coefficient 40).
 
-|
+Une note moyenne inférieure à 8 sur 20 est éliminatoire.
 
-15'50
+7. Spécialité "armurerie pyrotechnie"
 
-|
+7.1. Le programme
 
-|
+Domaine commun armement-pyrotechnie
 
-|
+Domaine armement-balistique-NRBC-optique
 
-41
+Domaine pyrotechnie
 
-|
+Domaine gestion et comptabilité des matériels
 
-31
+Domaine activités professionnelles bureautique et informatique
 
-|
+7.2. Les épreuves
 
-17
+Les épreuves de la formation d'adaptation à la spécialité couvrent la totalité du programme et comprennent :
 
-|
+- des évaluations certificatives et des contrôles continus (coefficient 100).
 
-12'00
+Une note moyenne inférieure à 8 sur 20 est éliminatoire.
 
-|
-
-15'00
-
-|
-
-13
-
-|
-
-20
-
-|
-
-40
-
-|
-
-30
-
-|
-
-16,5
-
-|
-
-13'10
-
-|
-
-16'10
-
-|
-
-|
-
-|
-
-39
-
-|
-
-29
-
-|
-
-16
-
-|
-
-13'20
-
-|
-
-16'20
-
-|
-
-28
-
-|
-
-19
-
-|
-
-38
-
-|
-
-28
-
-|
-
-15,5
-
-|
-
-13'30
-
-|
-
-16'30
-
-|
-
-|
-
-|
-
-37
-
-|
-
-27
-
-|
-
-15
-
-|
-
-13'40
-
-|
-
-16'40
-
-|
-
-26
-
-|
-
-18
-
-|
-
-36
-
-|
-
-26
-
-|
-
-14,5
-
-|
-
-13'48
-
-|
-
-16'48
-
-|
-
-|
-
-|
-
-35
-
-|
-
-25
-
-|
-
-14
-
-|
-
-13'56
-
-|
-
-16'56
-
-|
-
-24
-
-|
-
-17
-
-|
-
-34
-
-|
-
-24
-
-|
-
-13,5
-
-|
-
-14'04
-
-|
-
-17'04
-
-|
-
-|
-
-|
-
-33
-
-|
-
-23
-
-|
-
-13
-
-|
-
-14'12
-
-|
-
-17'12
-
-|
-
-22
-
-|
-
-16
-
-|
-
-32
-
-|
-
-22
-
-|
-
-12,5
-
-|
-
-14'20
-
-|
-
-17'20
-
-|
-
-|
-
-|
-
-31
-
-|
-
-21
-
-|
-
-12
-
-|
-
-14'28
-
-|
-
-17'28
-
-|
-
-20
-
-|
-
-15
-
-|
-
-30
-
-|
-
-20
-
-|
-
-11,5
-
-|
-
-14'36
-
-|
-
-17'36
-
-|
-
-|
-
-|
-
-29
-
-|
-
-19
-
-|
-
-11
-
-|
-
-14'44
-
-|
-
-17'44
-
-|
-
-19
-
-|
-
-14
-
-|
-
-28
-
-|
-
-18
-
-|
-
-10,5
-
-|
-
-14'52
-
-|
-
-17'52
-
-|
-
-|
-
-|
-
-27
-
-|
-
-17
-
-|
-
-10
-
-|
-
-15'00
-
-|
-
-18'00
-
-|
-
-18
-
-|
-
-13
-
-|
-
-26
-
-|
-
-16
-
-|
-
-9
-
-|
-
-15'18
-
-|
-
-18'18
-
-|
-
-17
-
-|
-
-12
-
-|
-
-24
-
-|
-
-14
-
-|
-
-8
-
-|
-
-15'36
-
-|
-
-18'36
-
-|
-
-16
-
-|
-
-11
-
-|
-
-22
-
-|
-
-12
-
-|
-
-7
-
-|
-
-15'54
-
-|
-
-18'54
-
-|
-
-15
-
-|
-
-10
-
-|
-
-21
-
-|
-
-11
-
-|
-
-6
-
-|
-
-16'12
-
-|
-
-19'12
-
-|
-
-14
-
-|
-
-09
-
-|
-
-20
-
-|
-
-10
-
-|
-
-5
-
-|
-
-16'30
-
-|
-
-19'30
-
-|
-
-13
-
-|
-
-08
-
-|
-
-18
-
-|
-
-08
-
-|
-
-4
-
-|
-
-16'48
-
-|
-
-19'48
-
-|
-
-12
-
-|
-
-07
-
-|
-
-16
-
-|
-
-06
-
-|
-
-3
-
-|
-
-17'06
-
-|
-
-20'06
-
-|
-
-11
-
-|
-
-06
-
-|
-
-14
-
-|
-
-05
-
-|
-
-2
-
-|
-
-17'24
-
-|
-
-20'24
-
-|
-
-10
-
-|
-
-05
-
-|
-
-13
-
-|
-
-04
-
-|
-
-1
-
-|
-
-17'42
-
-|
-
-20'42
-
-|
-
-09
-
-|
-
-04
-
-|
-
-12
-
-|
-
-03
-
-|
-
-0
-
-|
-
-18'00
-
-|
-
-21'00
-
-|
-
-08
-
-|
-
-03
-
-|
-
-08
-
-|
-
-01
-
-|
-
-2. Barèmes des épreuves de course d'orientation
-
-Le barème de notation de la course d'orientation est déterminé conjointement par le directeur du stage et le bureau PIPEPS à partir, d'une part, du temps moyen de référence de deux ouvreurs et, d'autre part, des pénalités appliquées pour absence de poinçonnage. Les résultats des temps de parcours sont communiqués aux élèves à la fin de l'épreuve.
+Les épreuves de la formation d'adaptation à la spécialité pour le domaine de la pyrotechnie comprennent des évaluations certificatives et des contrôles continus organisés par l'école de formation de la défense de Bourges.
