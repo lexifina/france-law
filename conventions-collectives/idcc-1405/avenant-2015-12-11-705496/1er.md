@@ -1,0 +1,5 @@
+# Article 1er
+
+Le régime de prévoyance défini à l'annexe III de la convention collective nationale des entreprises d'expédition et d'exportation de fruits et légumes concerne les salariés ne relevant pas de l'article 4 de la convention collective des cadres AGIRC du 14 mars 1947.
+
+Les entreprises relevant de la convention collective nationale pourront, par acte juridique interne, permettre aux salariés relevant de l'article 36 de la convention collective nationale AGIRC de 1947, de bénéficier des garanties prévues pour le personnel relevant de l'article 4 de la convention collective nationale AGIRC de 1947.
