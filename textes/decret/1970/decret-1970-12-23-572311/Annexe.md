@@ -124,14 +124,6 @@ Médecine.
 
 |
 
-Grenoble-I
-
-|
-
-Sciences biologiques et médicales 2° et 3°cycle.
-
-|
-
 Lille-II
 
 |
