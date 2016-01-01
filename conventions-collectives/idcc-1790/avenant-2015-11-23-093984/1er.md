@@ -1,0 +1,145 @@
+# Article 1er
+
+L'article 4 de l'avenant n° 45 du 28 juin 2013 applicable pour les entreprises relevant de la convention nationale des espaces de loisirs, d'attractions et culturels est ainsi modifié :
+
+« Le présent régime ainsi que le contrat d'assurance précité sont mis en œuvre conformément aux articles L. 871-1 et L. 242-1, alinéas 6 et 8, du code de la sécurité sociale, ainsi que des articles 83,1° quater, et 1001,2°, du code général des impôts, et des décrets pris en application de ces dispositions.
+
+Les garanties mises en œuvre par le présent accord sont les suivantes.
+
+Garanties à effet du 1er janvier 2016
+
+Base salariés et ayants droit
+
+Chaque ayant droit affilié au contrat bénéficie de l'ensemble des prestations indiquées ci-dessous :
+
+Les niveaux d'indemnisation mentionnés ci-dessous incluent les remboursements versés par la sécurité sociale. Les remboursements sont effectués pour des frais relevant des législations maladie, accident du travail/ maladie professionnelle et maternité. Ils ne peuvent en aucun cas dépasser la totalité des frais laissés à charge de l'assuré après remboursement de la sécurité sociale et de tout autre éventuel contrat complémentaire frais de santé. Le respect des règles de prise en charge maximale définies à l'article R. 871-2 du code de la sécurité sociale est apprécié eu égard à l'ensemble des prises en charge déjà effectuées par la sécurité sociale, par tout autre éventuel contrat complémentaire frais de santé et le présent contrat.
+
+Hospitalisation et soins externes
+
+(Tableau non reproduit, consultable en ligne sur le site www. journal-officiel. gouv. fr, rubrique BO Convention collective.)
+
+http://www.journal-officiel.gouv.fr/publications/bocc/pdf/2016/0001/boc_20160001_0000_0012.pdf
+
+Soins, prothèses dentaires et orthodontie
+
+(Tableau non reproduit, consultable en ligne sur le site www. journal-officiel. gouv. fr, rubrique BO Convention collective.)
+
+http://www.journal-officiel.gouv.fr/publications/bocc/pdf/2016/0001/boc_20160001_0000_0012.pdf
+
+Equipement optique
+
+Conformément au décret n° 2014-1374 du 18 novembre 2014 et sauf en cas d'évolution de la vue médicalement constatée, le remboursement du renouvellement d'un équipement optique, composé de deux verres et d'une monture, n'est possible qu'au-delà d'un délai de 12 mois pour les mineurs et de 24 mois pour les adultes suivant l'acquisition du précédent équipement.
+
+Lorsque l'assuré effectue des demandes de remboursement de son équipement en deux temps (d'une part, la monture, d'autre part, les verres), la période pendant laquelle un équipement optique peut être remboursé est identique.
+
+La justification de l'évolution de la vue se fonde soit sur la présentation d'une nouvelle prescription médicale portant une correction différente de la précédente, soit sur la présentation de la prescription initiale comportant les mentions portées par l'opticien en application de l'article R. 165-1 du code de la sécurité sociale. La nouvelle correction doit être comparée à celle du dernier équipement ayant fait l'objet d'un remboursement par l'assureur.
+
+(Tableau non reproduit, consultable en ligne sur le site www. journal-officiel. gouv. fr, rubrique BO Convention collective.)
+
+http://www.journal-officiel.gouv.fr/publications/bocc/pdf/2016/0001/boc_20160001_0000_0012.pdf
+
+Autres garanties
+
+(Tableau non reproduit, consultable en ligne sur le site www. journal-officiel. gouv. fr, rubrique BO Convention collective.)
+
+http://www.journal-officiel.gouv.fr/publications/bocc/pdf/2016/0001/boc_20160001_0000_0012.pdf
+
+Option 1
+
+Chaque ayant droit affilié au contrat bénéficie de l'ensemble des prestations indiquées ci-dessous :
+
+Les niveaux d'indemnisation mentionnés ci-dessous complètent les remboursements versés par la sécurité sociale et ceux versés au titre du régime de base. Les remboursements sont effectués pour des frais relevant des législations maladie, accident du travail/ maladie professionnelle et maternité. Ils ne peuvent en aucun cas dépasser la totalité des frais laissés à charge de l'assuré après remboursement de la sécurité sociale et de tout autre éventuel contrat complémentaire frais de santé. Le respect des règles de prise en charge maximale définies à l'article R. 871-2 du code de la sécurité sociale est apprécié eu égard à l'ensemble des prises en charge déjà effectuées par la sécurité sociale, par tout autre éventuel contrat complémentaire frais de santé et le présent contrat.
+
+Hospitalisation et soins externes
+
+Soins, prothèses dentaires et orthodontie
+
+(Tableau non reproduit, consultable en ligne sur le site www. journal-officiel. gouv. fr, rubrique BO Convention collective.)
+
+http://www.journal-officiel.gouv.fr/publications/bocc/pdf/2016/0001/boc_20160001_0000_0012.pdf
+
+Equipement optique
+
+Conformément au décret n° 2014-1374 du 18 novembre 2014 et sauf en cas d'évolution de la vue médicalement constatée, le remboursement du renouvellement d'un équipement optique, composé de deux verres et d'une monture, n'est possible qu'au-delà d'un délai de 12 mois pour les mineurs et de 24 mois pour les adultes suivant l'acquisition du précédent équipement.
+
+Lorsque l'assuré effectue des demandes de remboursement de son équipement en deux temps (d'une part, la monture, d'autre part, les verres), la période pendant laquelle un équipement optique peut être remboursé est identique.
+
+La justification de l'évolution de la vue se fonde soit sur la présentation d'une nouvelle prescription médicale portant une correction différente de la précédente, soit sur la présentation de la prescription initiale comportant les mentions portées par l'opticien en application de l'article R. 165-1 du code de la sécurité sociale. La nouvelle correction doit être comparée à celle du dernier équipement ayant fait l'objet d'un remboursement par l'assureur.
+
+(Tableaux non reproduits, consultables en ligne sur le site www. journal-officiel. gouv. fr, rubrique BO Convention collective.)
+
+http://www.journal-officiel.gouv.fr/publications/bocc/pdf/2016/0001/boc_20160001_0000_0012.pdf
+
+Autres garanties
+
+(Tableau non reproduit, consultable en ligne sur le site www. journal-officiel. gouv. fr, rubrique BO Convention collective.)
+
+http://www.journal-officiel.gouv.fr/publications/bocc/pdf/2016/0001/boc_20160001_0000_0012.pdf
+
+Option 2
+
+Chaque ayant droit affilié au contrat bénéficie de l'ensemble des prestations indiquées ci-dessous :
+
+Les niveaux d'indemnisation mentionnés ci-dessous complètent les remboursements versés par la sécurité sociale et ceux versés au titre du régime de base. Les remboursements sont effectués pour des frais relevant des législations maladie, accident du travail/ maladie professionnelle et maternité. Ils ne peuvent en aucun cas dépasser la totalité des frais laissés à charge de l'assuré après remboursement de la sécurité sociale et de tout autre éventuel contrat complémentaire frais de santé. Le respect des règles de prise en charge maximale définies à l'article R. 871-2 du code de la sécurité sociale est apprécié eu égard à l'ensemble des prises en charge déjà effectuées par la sécurité sociale, par tout autre éventuel contrat complémentaire frais de santé et le présent contrat.
+
+(Voir tableau pages suivantes.)
+
+Hospitalisation et soins externes
+
+(Tableau non reproduit, consultable en ligne sur le site www. journal-officiel. gouv. fr, rubrique BO Convention collective.)
+
+http://www.journal-officiel.gouv.fr/publications/bocc/pdf/2016/0001/boc_20160001_0000_0012.pdf
+
+Soins, prothèses dentaires et orthodontie
+
+(Tableau non reproduit, consultable en ligne sur le site www. journal-officiel. gouv. fr, rubrique BO Convention collective.)
+
+http://www.journal-officiel.gouv.fr/publications/bocc/pdf/2016/0001/boc_20160001_0000_0012.pdf
+
+Equipement optique
+
+Conformément au décret n° 2014-1374 du 18 novembre 2014 et sauf en cas d'évolution de la vue médicalement constatée, le remboursement du renouvellement d'un équipement optique, composé de deux verres et d'une monture, n'est possible qu'au-delà d'un délai de 12 mois pour les mineurs et de 24 mois pour les adultes suivant l'acquisition du précédent équipement.
+
+Lorsque l'assuré effectue des demandes de remboursement de son équipement en deux temps (d'une part, la monture, d'autre part, les verres), la période pendant laquelle un équipement optique peut être remboursé est identique.
+
+La justification de l'évolution de la vue se fonde soit sur la présentation d'une nouvelle prescription médicale portant une correction différente de la précédente, soit sur la présentation de la prescription initiale comportant les mentions portées par l'opticien en application de l'article R. 165-1 du code de la sécurité sociale. La nouvelle correction doit être comparée à celle du dernier équipement ayant fait l'objet d'un remboursement par l'assureur.
+
+(Tableau non reproduit, consultable en ligne sur le site www. journal-officiel. gouv. fr, rubrique BO Convention collective.)
+
+http://www.journal-officiel.gouv.fr/publications/bocc/pdf/2016/0001/boc_20160001_0000_0012.pdf
+
+Autres garanties
+
+(Tableau non reproduit, consultable en ligne sur le site www. journal-officiel. gouv. fr, rubrique BO Convention collective.)
+
+http://www.journal-officiel.gouv.fr/publications/bocc/pdf/2016/0001/boc_20160001_0000_0012.pdf
+
+Option 3
+
+Chaque ayant droit affilié au contrat bénéficie de l'ensemble des prestations indiquées ci-dessous :
+
+Les niveaux d'indemnisation mentionnés ci-dessous complètent les remboursements versés par la sécurité sociale et ceux versés au titre du régime de base. Les remboursements sont effectués pour des frais relevant des législations maladie, accident du travail/ maladie professionnelle et maternité. Ils ne peuvent en aucun cas dépasser la totalité des frais laissés à charge de l'assuré après remboursement de la sécurité sociale et de tout autre éventuel contrat complémentaire frais de santé. Le respect des règles de prise en charge maximale définies à l'article R. 871-2 du code de la sécurité sociale est apprécié eu égard à l'ensemble des prises en charge déjà effectuées par la sécurité sociale, par tout autre éventuel contrat complémentaire frais de santé et le présent contrat.
+
+Hospitalisation et soins externes
+
+(Tableau non reproduit, consultable en ligne sur le site www. journal-officiel. gouv. fr, rubrique BO Convention collective.)
+
+http://www.journal-officiel.gouv.fr/publications/bocc/pdf/2016/0001/boc_20160001_0000_0012.pdf
+
+Soins, prothèses dentaires et orthodontie
+
+(Tableau non reproduit, consultable en ligne sur le site www. journal-officiel. gouv. fr, rubrique BO Convention collective.)
+
+http://www.journal-officiel.gouv.fr/publications/bocc/pdf/2016/0001/boc_20160001_0000_0012.pdf
+
+Equipement optique
+
+Conformément au décret n° 2014-1374 du 18 novembre 2014 et sauf en cas d'évolution de la vue médicalement constatée, le remboursement du renouvellement d'un équipement optique, composé de deux verres et d'une monture, n'est possible qu'au-delà d'un délai de 12 mois pour les mineurs et de 24 mois pour les adultes suivant l'acquisition du précédent équipement.
+
+Lorsque l'assuré effectue des demandes de remboursement de son équipement en deux temps (d'une part, la monture, d'autre part, les verres), la période pendant laquelle un équipement optique peut être remboursé est identique.
+
+La justification de l'évolution de la vue se fonde soit sur la présentation d'une nouvelle prescription médicale portant une correction différente de la précédente, soit sur la présentation de la prescription initiale comportant les mentions portées par l'opticien en application de l'article R. 165-1 du code de la sécurité sociale. La nouvelle correction doit être comparée à celle du dernier équipement ayant fait l'objet d'un remboursement par l'assureur.
+
+Autres garanties
+
+http://www.journal-officiel.gouv.fr/publications/bocc/pdf/2016/0001/boc_20160001_0000_0012.pdf
