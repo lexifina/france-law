@@ -2,59 +2,53 @@
 
 a) Entreprises
 
-Le présent accord est applicable aux entreprises de transport sanitaire enregistrées sous le code NAF visé ci-dessous relevant du champ d'application de la convention collective nationale des transports routiers et des activités auxiliaires du transport :
+Le présent accord est applicable aux entreprises de transport sanitaire enregistrées sous les codes NAF suivants :
 
-NAF Rév. 2 |
+– code NAF, rév. 1 : 851J ;
 
-NAF Rév. 1 |
+– code NAF, rév. 2 : 86.90A,
 
-Ambulances |
-
-86.90A |
-
-Ambulances |
-
-851J |
+relevant du champ d'application de la convention collective nationale des transports routiers et des activités auxiliaires du transport.
 
 b) Salariés bénéficiaires
 
-Le présent accord, sous réserve des dispositions qui suivent, s'applique à l'ensemble des salariés, quelle que soit la nature du contrat (ouvriers, employés, techniciens et agents de maîtrise, ingénieurs et cadres) des entreprises susvisées dès lors qu'ils justifient d'une ancienneté dans l'entreprise d'au moins 6 mois. Ce délai est préfix et n'est susceptible ni de suspension, ni d'interruption.
+Le présent accord, sous réserve des dispositions qui suivent, s'applique à l'ensemble du personnel.
 
-Peuvent être dispensés d'adhésion :
+Peuvent être dispensés d'adhésion, en application des dispositions légales et réglementaires en vigueur à la date de signature du présent accord :
 
-– les salariés et apprentis bénéficiaires d'un contrat d'une durée au moins égale à 12 mois, à condition de justifier par écrit en produisant tous documents d'une couverture individuelle souscrite par ailleurs pour le même type de garanties ;
+a) Les salariés et apprentis bénéficiaires d'un contrat à durée déterminée ou d'un contrat de mission d'une durée au moins égale à 12 mois, à condition de justifier par écrit en produisant tous documents d'une couverture individuelle souscrite par ailleurs pour le même type de garanties ;
 
-– les salariés et apprentis bénéficiaires d'un contrat d'une durée inférieure à 12 mois, même s'ils ne bénéficient pas d'une couverture individuelle souscrite par ailleurs ;
+b) Les salariés et apprentis bénéficiaires d'un contrat à durée déterminée ou d'un contrat de mission d'une durée inférieure à 12 mois, même s'ils ne bénéficient pas d'une couverture individuelle souscrite par ailleurs ;
 
-– les salariés à temps partiel et apprentis dont l'adhésion au régime les conduirait à s'acquitter d'une cotisation au moins égale à 10 % de leur rémunération brute ;
+c) Les salariés à temps partiel et apprentis dont l'adhésion au système de garanties les conduirait à s'acquitter d'une cotisation au moins égale à 10 % de leur rémunération brute ;
 
-– les salariés bénéficiaires d'une couverture complémentaire en application de l'article L. 861-3 du code de la sécurité sociale (CMU-C) ou d'une aide à l'acquisition d'une complémentaire santé en application de l'article L. 863-1 du code de la sécurité sociale jusqu'à l'échéance du contrat ;
+d) Les salariés bénéficiaires d'une couverture complémentaire en application de l'article L. 861-3 du code de la sécurité sociale ou d'une aide à l'acquisition d'une complémentaire santé en application de l'article L. 863-1. La dispense ne peut alors jouer que jusqu'à la date à laquelle les salariés cessent de bénéficier de cette couverture ou de cette aide ;
 
-– les salariés couverts par une assurance individuelle frais de santé au moment de la mise en place du régime ou de l'embauche si celle-ci est postérieure jusqu'à l'échéance du contrat individuel ;
+e) Les salariés couverts par une assurance individuelle de frais de santé au moment de la mise en place des garanties ou de l'embauche si elle est postérieure. La dispense ne peut alors jouer que jusqu'à échéance du contrat individuel ;
 
-– à condition de le justifier chaque année, les salariés bénéficiant par ailleurs, y compris en tant qu'ayants droit, d'une couverture collective relevant d'un dispositif de prévoyance complémentaire conforme à l'un de ceux fixés par l'arrêté du 26 mars 2012 (arrêté relatif aux facultés de dispense d'adhésion à des systèmes de prévoyance collectifs et obligatoires mis en place dans les entreprises).
+f) Les salariés qui bénéficient par ailleurs, y compris en tant qu'ayants droit, d'une couverture collective relevant d'un dispositif de prévoyance complémentaire conforme à un de ceux fixés par l'arrêté du 26 mars 2012 relatif aux facultés de dispense d'adhésion à des systèmes de prévoyance collectifs et obligatoires mis en place dans les entreprises.
 
 Les salariés se prévalant d'une dispense d'adhésion doivent :
 
 – faire part de leur décision par écrit ;
 
-– fournir des justificatifs et renouveler leur choix lors de chaque échéance annuelle.
+– fournir les justificatifs et, pour les cas de dispense concernés, renouveler leur choix lors de chaque échéance annuelle.
 
 c) Ayants droit
 
-Les salariés visés au point b de l'article 1er du présent accord peuvent choisir de couvrir leurs ayants droit en souscrivant des garanties complémentaires au régime obligatoire, conformément aux dispositions de l'article 4 du présent accord.
+Les salariés visés au point b de l'article 1er du présent accord peuvent choisir de couvrir leurs ayants droit en souscrivant des garanties complémentaires au régime obligatoire, conformément aux dispositions de l'article 2 du présent accord.
 
 Au titre du présent accord, sont ayants droit :
 
 – le conjoint couvert ou non par la sécurité sociale à titre d'ayant droit du salarié.
 
-Est assimilé au conjoint :
+Sont assimilés au conjoint :
 
-– le concubin ayant un domicile commun avec le salarié (l'adresse déclarée à la sécurité sociale faisant foi) ;
+–– le concubin ayant un domicile commun avec le salarié (l'adresse déclarée à la sécurité sociale faisant foi) ;
 
-– la personne liée au salarié par un pacte civil de solidarité (Pacs) ;
+–– la personne liée au salarié par un pacte civil de solidarité (Pacs) ;
 
-– l(es) enfant(s) de moins de 21 ans considéré(s) comme ayant(s) droit par la sécurité sociale au titre de l'assuré, de son conjoint ou assimilé.
+–– le (les) enfant(s) de moins de 21 ans considéré(s) comme ayant(s) droit par la sécurité sociale au titre de l'assuré, de son conjoint ou assimilé.
 
 Cette limite d'âge est prorogée jusqu'à leur 26e anniversaire :
 
