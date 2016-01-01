@@ -10,9 +10,7 @@ Tant qu'il est en vigueur, aucun salarié bénéficiaire ne peut quitter à titr
 
 2. Bénéficiaires
 
-Sont bénéficiaires du présent régime " remboursement de frais de soins de santé " obligatoire tous les salariés relevant des entreprises visées à l'article 1er de la présente convention collective nationale et ayant 1 mois d'ancienneté dans l'entreprise.
-
-Lorsque le salarié aura atteint l'ancienneté requise, il pourra bénéficier du régime à compter de sa date d'entrée dans l'entreprise avec effet rétroactif.
+Sont bénéficiaires du présent régime « remboursement de frais de soins de santé » obligatoire, tous les salariés relevant des entreprises visées à l'article 1er de la présente convention collective nationale à leur date d'entrée dans l'entreprise.
 
 Dans le cas d'un contrat à durée indéterminée (CDI) faisant suite sans interruption à un contrat à durée déterminée (CDD), c'est la date d'effet du premier contrat qui sera prise en considération pour le calcul de l'ancienneté.
 
