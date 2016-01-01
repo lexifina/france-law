@@ -1,0 +1,21 @@
+# Article 1er
+
+L'article 27 « Garantie frais de santé » de l'accord est supprimé et remplacé par les dispositions suivantes :
+
+« Article 27
+
+Garantie frais de santé
+
+La cotisation mensuelle frais de santé, toutes taxes comprises, est égale à :
+
+– 2,90 % de la rémunération brute de la tranche A avec une assiette minimale de 2,10 % du plafond mensuel des assurances sociales agricoles, prise en charge à 50 % par l'employeur et à 50 % par le salarié.
+
+Pour l'Alsace et la Moselle, cette cotisation est de 1,89 % de la rémunération brute de la tranche A avec une assiette minimale de 1,37 % du plafond mensuel des assurances sociales, prise en charge à 50 % par l'employeur et à 50 % par le salarié.
+
+Un taux d'appel pour cette partie de la cotisation peut être fixé chaque année par la commission paritaire de suivi en fonction des résultats du régime.
+
+– 1,26 % du plafond mensuel des assurances sociales agricoles, prise en charge à 50 % par l'employeur et à 50 % par le salarié.
+
+Pour l'Alsace et la Moselle, cette cotisation est égale à 1,14 % du plafond mensuel des assurances sociales, prise en charge à 50 % par l'employeur et à 50 % par le salarié.
+
+Toute nouvelle taxe, charge, contribution ou majoration de ces dernières qui entrerait en vigueur postérieurement à la date de signature du présent avenant et dont la répercussion ne serait pas interdite, sera automatiquement répercutée sur les présentes cotisations après consultation et avis préalable de la commission paritaire de suivi. »
