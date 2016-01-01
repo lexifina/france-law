@@ -1,503 +1,277 @@
-# Article KALIARTI000031198360
+# Article KALIARTI000033102923
 
 Annexe I
 
-Taux contractuels et ventilation des cotisations en vigueur au 1er juillet 2015
+Taux contractuels et ventilation des cotisations en vigueur au 1er janvier 2016
 
 (En pourcentage.)
-
-Garantie
 
 |
 
 TA
 
-|
-
-TB - TC
-
-|
-
-Tranche de salaire inférieure ou égale au plafond ASA
-
-|
-
-Tranche de salaire comprise entre 1 et 8 fois le plafond ASA
-
-|
-
-Part employeur
-
-|
-
-Part salarié
-
-|
-
-Total
-
-|
-
-Part employeur
-
-|
-
-Part salarié
-
-|
-
-Total
-
-|
-
-Décès
-
-|
-
-1,01
-
-|
-
-|
-
-1,01
-
-|
-
-0,445
-
-|
-
-0,445
-
-|
-
-0,89
-
-|
-
-Capital décès
-
-|
-
-0,31
-
-|
-
-|
-
-0,31
-
-|
-
-0,115
-
-|
-
-0,115
-
-|
-
-0,23
-
-|
-
-Indemnité frais d'obsèques
-
-|
-
-0,02
-
-|
-
-|
-
-0,02
-
-|
-
-|
-
-|
-
-|
-
-Rente éducation
-
-|
-
-0,07
-
-|
-
-|
-
-0,07
-
-|
-
-0,025
-
-|
-
-0,025
-
-|
-
-0,05
-
-|
-
-Rente de conjoint
-
-|
-
-0,61
-
-|
-
-|
-
-0,61
-
-|
-
-0,305
-
-|
-
-0,305
-
-|
-
-0,61
-
-|
+Tranche de salaire inférieure ou égale au plafond ASA |
 
-Incapacité temporaire
+TB-TC
 
-|
-
-0,30
-
-|
-
-0,26
-
-|
-
-0,56
-
-|
-
-0,49
-
-|
-
-0,73
-
-|
-
-1,22
-
-|
-
-Mensualisation
-
-|
-
-0,30
-
-|
-
-|
-
-0,30
-
-|
-
-0,49
+Tranche de salaire comprise entre 1 et 8 fois le plafond ASA |
 
 |
 
-|
-
-0,49
-
-|
-
-Relais mensualisation
-
-|
-
-|
-
-0,26
-
-|
-
-0,26
-
-|
-
-|
-
-0,73
-
-|
+Part employeur |
 
-0,73
+Part salarié |
 
-|
+Total |
 
-Incapacité permanente
+Part employeur |
 
-|
+Part salarié |
 
-0,35
+Total |
 
-|
+Décès |
 
-|
+1,01 |
 
-0,35
+- |
 
-|
+1,01 |
 
-0,528
+0,445 |
 
-|
+0,445 |
 
-0,292
+0,89 |
 
-|
+Capital décès |
 
-0,82
+0,31 |
 
-|
+- |
 
-Incapacité permanente privée
+0,31 |
 
-|
+0,115 |
 
-0,31
+0,115 |
 
-|
+0,23 |
 
-|
+Indemnité frais d'obsèques |
 
-0,31
+0,02 |
 
-|
+- |
 
-0,438
+0,02 |
 
-|
+- |
 
-0,292
+- |
 
-|
+- |
 
-0,73
+Rente éducation |
 
-|
+0,07 |
 
-Incapacité permanente professionnelle
+- |
 
-|
+0,07 |
 
-0,04
+0,025 |
 
-|
+0,025 |
 
-|
+0,05 |
 
-0,04
+Rente de conjoint |
 
-|
+0,61 |
 
-0,09
+- |
 
-|
+0,61 |
 
-|
+0,305 |
 
-0,09
+0,305 |
 
-|
+0,61 |
 
-Total prévoyance
+Incapacité temporaire |
 
-|
+0,30 |
 
-1,66
+0,26 |
 
-|
+0,56 |
 
-0,26
+0,49 |
 
-|
+0,73 |
 
-1,92
+1,22 |
 
-|
+Mensualisation |
 
-1,463
+0,30 |
 
-|
+- |
 
-1,467
+0,30 |
 
-|
+0,49 |
 
-2,93
+- |
 
-|
+0,49 |
 
-(Soit en répartition)
+Relais mensualisation |
 
 |
 
-86,50
+0,26 |
 
-|
+0,26 |
 
-13,50
+- |
 
-|
+0,73 |
 
-100
+0,73 |
 
-|
+Incapacité permanente |
 
-50,00
+0,35 |
 
-|
+- |
 
-50,00
+0,35 |
 
-|
+0,528 |
 
-100
+0,292 |
 
-|
+0,82 |
 
-Frais de santé
+Incapacité permanente privée |
 
-|
+0,31 |
 
-|
+- |
 
-|
+0,31 |
 
-|
+0,438 |
 
-|
+0,292 |
 
-|
+0,73 |
 
-|
+Incapacité permanente professionnelle |
 
-Assiette salaire (avec cotisation minimum 2,1 % PMSS)
+0,04 |
 
-|
+- |
 
-1,45
+0,04 |
 
-|
+0,09 |
 
-1,45
+- |
 
-|
+0,09 |
 
-2,90
+Total prévoyance |
 
-|
+1,66 |
 
-|
+0,26 |
 
-|
+1,92 |
 
-|
+1,463 |
 
-Assiette plafond sécurité sociale
+1,467 |
 
-|
+2,93 |
 
-0,378
+(Soit en répartition) |
 
-|
+86,50 |
 
-0,882
+13,50 |
 
-|
+100 |
 
-1,26
+50,00 |
 
-|
+50,00 |
 
-|
+100 |
 
-|
+Frais de santé |
 
 |
 
-Frais de santé régime local Alsace-Moselle
+Assiette salaire (avec cotisation minimale de 2,61 % PMSS) |
 
-|
+1,45 |
 
-|
+1,45 |
 
-|
+2,90 |
 
-|
+- |
 
-|
+- |
 
-|
+- |
 
-|
+Assiette plafond SS |
 
-Assiette salaire (avec cotisation minimum 1,37 % PMSS)
+0,63 |
 
-|
+0,63 |
 
-0,945
+1,26 |
 
-|
+- |
 
-0,945
+- |
 
-|
+- |
 
-1,89
+Frais de santé régime local Alsace-Moselle |
 
 |
 
-|
+Assiette salaire (avec cotisation minimale de 1,70 % PMSS) |
 
-|
+0,945 |
 
-|
+0,945 |
 
-Assiette plafond sécurité sociale
+1,89 |
 
-|
+- |
 
-0,342
+- |
 
-|
+- |
 
-0,798
+Assiette plafond SS |
 
-|
+0,57 |
 
-1,14
+0,57 |
 
-|
+1,14 |
 
-|
+- |
 
-|
+- |
 
-|
+- |
