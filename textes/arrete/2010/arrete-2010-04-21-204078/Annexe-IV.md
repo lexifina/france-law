@@ -126,7 +126,7 @@ Unités d'enseignement général
 
 |
 
-EG1 : Français et Histoire -Géographie - Education civique
+EG1 : Français et Histoire -Géographie - enseignement moral et civique
 
 |
 
@@ -227,5 +227,3 @@ Seuls les points supérieurs à la note de 10/20 sont pris en compte pour la dé
 Cette épreuve est précédée d'un temps égal de préparation.
 
 |
-
-.

@@ -2,7 +2,7 @@
 
 Modalités de certification
 
-IIc - Définition des épreuves
+IIc-Définition des épreuves
 
 ÉPREUVE EP1
 
@@ -24,23 +24,23 @@ Contenu de l'épreuve
 
 Cette épreuve a pour objet de valider tout ou partie des compétences suivantes :
 
-C1.1 Collecter et s'approprier les informations et les documents.
+C1. 1 Collecter et s'approprier les informations et les documents.
 
 Collecter les informations et les documents.
 
 S'approprier les informations.
 
-C1.2 Communiquer avec l'entreprise.
+C1. 2 Communiquer avec l'entreprise.
 
 Informer l'entreprise et rendre compte.
 
-C2.1 S'assurer de la validité des documents et de la compatibilité véhicule/attelage/chargement
+C2. 1 S'assurer de la validité des documents et de la compatibilité véhicule/ attelage/ chargement
 
 S'assurer de la conformité et de la validité des documents.
 
-S'assurer des compatibilités véhicule/attelage/chargement.
+S'assurer des compatibilités véhicule/ attelage/ chargement.
 
-C2.2 Préparer le conditionnement, le démontage et remontage, la manutention et le portage.
+C2. 2 Préparer le conditionnement, le démontage et remontage, la manutention et le portage.
 
 Préparer le conditionnement et le déballage.
 
@@ -48,15 +48,15 @@ Préparer le démontage et remontage.
 
 Préparer la manutention et le portage.
 
-C2.3 Déterminer l'itinéraire
+C2. 3 Déterminer l'itinéraire
 
-C2.4 Modifier l'itinéraire.
+C2. 4 Modifier l'itinéraire.
 
-C2.7 Respecter les temps de service
+C2. 7 Respecter les temps de service
 
-C2.8 Gérer les situations d'incident ou d'accident.
+C2. 8 Gérer les situations d'incident ou d'accident.
 
-C2.9 Identifier et localiser un dysfonctionnement
+C2. 9 Identifier et localiser un dysfonctionnement
 
 Relever un dysfonctionnement.
 
@@ -76,7 +76,7 @@ La fiche nationale d'évaluation du travail réalisé pour cette épreuve, rédi
 
 Modes d'évaluation
 
-Évaluation ponctuelle - Épreuve écrite de 2 heures.
+Évaluation ponctuelle-Épreuve écrite de 2 heures.
 
 Le candidat doit réaliser l'étude de cas proposée et définie dans les conditions de réalisation. Il lui est remis un dossier technique en relation avec la situation professionnelle, qui comprend les ressources nécessaires et notamment celles permettant l'exploitation de données informatisées.
 
@@ -84,11 +84,11 @@ Contrôle en cours de formation : durée de 2 heures maximum.
 
 Le candidat doit réaliser l'étude de cas proposée.
 
-La situation d'évaluation est préparée par le ou les professeur(s) chargé(s) des enseignements du domaine professionnel. Inscrit, dans la mesure du possible, dans des travaux pratiques intégrés à la stratégie de formation, cette situation s'appuie sur un dossier technique qui comprend les ressources nécessaires et notamment celles permettant l'exploitation de données informatisées.
+La situation d'évaluation est préparée par le ou les professeur (s) chargé (s) des enseignements du domaine professionnel. Inscrit, dans la mesure du possible, dans des travaux pratiques intégrés à la stratégie de formation, cette situation s'appuie sur un dossier technique qui comprend les ressources nécessaires et notamment celles permettant l'exploitation de données informatisées.
 
 La période choisie pour l'évaluation pouvant être différente pour chacun des candidats, son choix relève de la responsabilité de l'équipe pédagogique. Cependant, le dernier trimestre de la formation est la période recommandée. Le candidat en est informé à l'avance. La commission d'évaluation est composée de l'équipe enseignante et si possible d'un professionnel.
 
-À l'issue de l'épreuve, le ou les professeur(s) chargé(s) des enseignements du domaine professionnel, constitue(nt) pour chaque candidat un dossier comprenant :
+À l'issue de l'épreuve, le ou les professeur (s) chargé (s) des enseignements du domaine professionnel, constitue (nt) pour chaque candidat un dossier comprenant :
 
 . l'ensemble des documents remis au candidat pour conduire le travail demandé ;
 
@@ -122,31 +122,31 @@ Contenu de l'épreuve
 
 Cette épreuve a pour objet de valider tout ou partie des compétences suivantes :
 
-C1.3 Communiquer avec le client et les tiers.
+C1. 3 Communiquer avec le client et les tiers.
 
 Communiquer avec le client.
 
 Communiquer avec les tiers.
 
-C2.5 Préparer le chargement
+C2. 5 Préparer le chargement
 
 Établir un plan de chargement.
 
-Établir la chronologie chargement / livraison.
+Établir la chronologie chargement/ livraison.
 
-C2.6 Respecter les temps impartis.
+C2. 6 Respecter les temps impartis.
 
-C3.2 Remettre en conformité.
+C3. 2 Remettre en conformité.
 
 Remettre en conformité le véhicule avec ou sans attelage.
 
-C3.3 Rassembler les matériels, l'outillage et les matériaux
+C3. 3 Rassembler les matériels, l'outillage et les matériaux
 
 Vérifier.
 
 Ranger.
 
-C3.5 Prendre en charge les objets, le mobilier et les équipements
+C3. 5 Prendre en charge les objets, le mobilier et les équipements
 
 Conditionner les objets, les mobiliers et les équipements.
 
@@ -158,7 +158,7 @@ Déballer les objets, les mobiliers et les équipements.
 
 Remonter les mobiliers et les équipements.
 
-C3.6 Porter - Manutentionner
+C3. 6 Porter-Manutentionner
 
 Porter et manutentionner sans aide mécanisé.
 
@@ -166,13 +166,13 @@ Utiliser un hayon.
 
 Utiliser un monte-meubles.
 
-C3.8 Gérer le chargement du véhicule
+C3. 8 Gérer le chargement du véhicule
 
 Charger, caler et arrimer.
 
 Décharger.
 
-C3.9 Organiser les activités sur le site
+C3. 9 Organiser les activités sur le site
 
 Préparer les activités.
 
@@ -180,7 +180,7 @@ Conclure les activités.
 
 Effectuer un encaissement.
 
-C3.10 Restituer le véhicule, la caisse mobile, le conteneur, les matériels, les matériaux.
+C3. 10 Restituer le véhicule, la caisse mobile, le conteneur, les matériels, les matériaux.
 
 Restituer le véhicule, la caisse mobile, le conteneur.
 
@@ -188,7 +188,7 @@ Restituer les matériels, l'outillage...
 
 Restituer les matériaux.
 
-C3.11 Maîtriser les risques professionnels
+C3. 11 Maîtriser les risques professionnels
 
 Prévenir les accidents du travail.
 
@@ -206,17 +206,17 @@ Cette épreuve est destinée à certifier les compétences mobilisées lors d'un
 
 Le candidat dispose :
 
-.d'un dossier technique et/ou de consignes précisant les activités à réaliser et leurs conditions de réalisation ;
+. d'un dossier technique et/ ou de consignes précisant les activités à réaliser et leurs conditions de réalisation ;
 
-.d'une zone de travail reconstituée ou réelle ;
+. d'une zone de travail reconstituée ou réelle ;
 
-.des moyens appropriés.
+. des moyens appropriés.
 
 Cette épreuve permet également d'évaluer les compétences du candidat au regard :
 
-- de l'utilisation et du suivi et d'un hayon élévateur ou d'un monte-meubles,
+-de l'utilisation et du suivi et d'un hayon élévateur ou d'un monte-meubles,
 
-- de la remise en conformité du véhicule et son attelage, leurs équipements limitée à des opérations telles que changement de lampes, de feux, remplissage des essuie-glaces, etc.
+-de la remise en conformité du véhicule et son attelage, leurs équipements limitée à des opérations telles que changement de lampes, de feux, remplissage des essuie-glaces, etc.
 
 Le candidat peut être amené à renseigner des documents de type lacunaire, voire à effectuer tout croquis nécessaire à la réalisation d'une tâche professionnelle.
 
@@ -224,7 +224,7 @@ La fiche nationale d'évaluation du travail réalisé, rédigée et mise à jour
 
 Modes d'évaluation
 
-Évaluation ponctuelle - Épreuve pratique de 5 heures maximum.
+Évaluation ponctuelle-Épreuve pratique de 5 heures maximum.
 
 Le candidat doit effectuer le travail demandé dans les conditions de réalisation.
 
@@ -240,19 +240,19 @@ Au terme de la dernière période de formation en milieu professionnel, les prof
 
 Cette proposition prend en compte :
 
-- les compétences acquises lors des travaux réalisés en entreprise,
+-les compétences acquises lors des travaux réalisés en entreprise,
 
-- l'entretien avec le formateur (tuteur, maître d'apprentissage) de l'entreprise d'accueil et un professeur d'enseignement professionnel membre de l'équipe pédagogique ayant en charge la formation. Ils rédigent un procès-verbal, sur la fiche nationale d'évaluation correspondant à cette épreuve, et proposent conjointement une note, non communiquée au candidat.
+-l'entretien avec le formateur (tuteur, maître d'apprentissage) de l'entreprise d'accueil et un professeur d'enseignement professionnel membre de l'équipe pédagogique ayant en charge la formation. Ils rédigent un procès-verbal, sur la fiche nationale d'évaluation correspondant à cette épreuve, et proposent conjointement une note, non communiquée au candidat.
 
-À l'issue des évaluations, le ou les professeur(s) chargé(s) des enseignements du domaine professionnel, constitue(nt) pour chaque candidat un dossier comprenant :
+À l'issue des évaluations, le ou les professeur (s) chargé (s) des enseignements du domaine professionnel, constitue (nt) pour chaque candidat un dossier comprenant :
 
-.l'ensemble des fiches évaluées en entreprise et en établissement de formation ;
+. l'ensemble des fiches évaluées en entreprise et en établissement de formation ;
 
-.les documents renseignés ou produits par le candidat ;
+. les documents renseignés ou produits par le candidat ;
 
-.une fiche d'analyse des activités conduites en entreprise ;
+. une fiche d'analyse des activités conduites en entreprise ;
 
-.la fiche nationale d'évaluation renseignée pour cette épreuve.
+. la fiche nationale d'évaluation renseignée pour cette épreuve.
 
 Seule cette fiche nationale d'évaluation est transmise au jury, accompagnée de la proposition de note établie par addition des points obtenus à chaque partie de l'épreuve.
 
@@ -260,29 +260,29 @@ Les autres éléments du dossier décrits ci-dessus sont mis à la disposition d
 
 Après examen de la fiche nationale et, le cas échéant des autres documents du dossier, le jury formule toute remarque et observation qu'il juge utile et arrête la note.
 
-Prévention - Santé - Environnement - Coefficient 1
+Prévention-Santé-Environnement-Coefficient 1
 
 1. Objectifs de l'épreuve :
 
 L'épreuve a pour objectif d'évaluer les compétences du candidat à :
 
-.Conduire une démarche d'analyse de situations en appliquant la démarche de résolution de problème et/ou l'approche par le risque ;
+. Conduire une démarche d'analyse de situations en appliquant la démarche de résolution de problème et/ ou l'approche par le risque ;
 
-.Mobiliser des connaissances scientifiques, juridiques et économiques ;
+. Mobiliser des connaissances scientifiques, juridiques et économiques ;
 
-.Proposer des mesures de prévention adaptées ;
+. Proposer des mesures de prévention adaptées ;
 
-.Agir de façon efficace face à une situation d'urgence.
+. Agir de façon efficace face à une situation d'urgence.
 
 L'évaluation porte notamment sur :
 
-.Le respect des étapes de la démarche mise en œuvre ;
+. Le respect des étapes de la démarche mise en œuvre ;
 
-.L'exactitude des connaissances ;
+. L'exactitude des connaissances ;
 
-.La pertinence des mesures de prévention proposées ;
+. La pertinence des mesures de prévention proposées ;
 
-.L'efficacité de l'action face à une situation d'urgence.
+. L'efficacité de l'action face à une situation d'urgence.
 
 2. Modalités d'évaluation :
 
@@ -290,7 +290,7 @@ Contrôle en cours de formation (noté sur 20)
 
 Le contrôle en cours de formation est organisé à partir de deux situations d'évaluation. Chaque situation est notée sur 10 points.
 
-Première situation d'évaluation : écrite - 1 heure
+Première situation d'évaluation : écrite-1 heure
 
 Elle permet en fin de première année de formation l'évaluation par sondage des compétences des modules1, 2 et 3, santé, consommation et parcours professionnel. Le sujet comporte plusieurs questions indépendantes ou liées sur les modules correspondants. Il permet d'évaluer des capacités et des connaissances. A partir d'une situation de la vie professionnelle ou quotidienne, le candidat doit notamment appliquer une démarche d'analyse.
 
@@ -298,9 +298,9 @@ Seconde situation d'évaluation :
 
 Elle permet au cours de la deuxième année de formation l'évaluation par sondage des compétences du module 4, environnement professionnel. Elle est constituée de deux parties :
 
-- une évaluation écrite d'une durée de 1 heure portant sur l'ensemble du module à l'exception des situations d'urgences. Elle prend appui sur une situation professionnelle accompagnée d'une documentation. Elle permet d'évaluer l'application de la démarche d'approche par le risque et les connaissances relatives à l'environnement professionnel,
+-une évaluation écrite d'une durée de 1 heure portant sur l'ensemble du module à l'exception des situations d'urgences. Elle prend appui sur une situation professionnelle accompagnée d'une documentation. Elle permet d'évaluer l'application de la démarche d'approche par le risque et les connaissances relatives à l'environnement professionnel,
 
-- une évaluation pratique prenant en compte les résultats obtenus lors de la formation de base au secourisme ou du recyclage SST.
+-une évaluation pratique prenant en compte les résultats obtenus lors de la formation de base au secourisme ou du recyclage SST.
 
 Pour les candidats en situation de handicap, une adaptation de cette évaluation pratique doit être proposée sous forme orale ou écrite.
 
@@ -318,9 +318,9 @@ Deuxième partie :
 
 Le sujet comporte lui-même deux parties :
 
-- l'une notée sur 8 points prend appui sur une situation professionnelle accompagnée d'une documentation. Elle permet d'évaluer l'application de la démarche d'approche par le risque et les connaissances relatives à l'environnement professionnel.
+-l'une notée sur 8 points prend appui sur une situation professionnelle accompagnée d'une documentation. Elle permet d'évaluer l'application de la démarche d'approche par le risque et les connaissances relatives à l'environnement professionnel.
 
-- l'autre notée sur 2 points permet d'expliquer la conduite à tenir dans une situation d'urgence.
+-l'autre notée sur 2 points permet d'expliquer la conduite à tenir dans une situation d'urgence.
 
 En ce qui concerne l'évaluation d'un risque professionnel, elle pourra porter sur un risque dont l'étude n'est pas obligatoire. Dans ce cas, le candidat disposera de documents ressources lui permettant de proposer une démarche de prévention.
 
@@ -344,11 +344,11 @@ Contenu de l'épreuve
 
 Cette épreuve a pour objet de valider tout ou partie des compétences suivantes :
 
-C3.1 Prendre en charge un véhicule, une caisse mobile, un conteneur.
+C3. 1 Prendre en charge un véhicule, une caisse mobile, un conteneur.
 
 Prendre en charge un véhicule avec ou sans attelage, une caisse mobile, un conteneur.
 
-C3.4 Conduire le véhicule.
+C3. 4 Conduire le véhicule.
 
 Conduire un véhicule isolé ou attelé.
 
@@ -358,7 +358,7 @@ Manœuvrer le véhicule isolé ou attelé.
 
 Stationner le véhicule.
 
-C3.7 Utiliser un chariot élévateur.
+C3. 7 Utiliser un chariot élévateur.
 
 Prendre en charge le chariot adapté.
 
@@ -376,9 +376,9 @@ Conditions de réalisation
 
 Cette épreuve se décompose en 2 phases, de même poids.
 
-1 -Utilisation d'un chariot automoteur de manutention de catégorie 3.
+1-Utilisation d'un chariot automoteur de manutention de catégorie 3.
 
-Cette phase de l'épreuve est réalisée en établissement de formation. Le sujet de la situation professionnelle comprend les opérations de manutention en conformité avec les instructions prévues pour le CACES 3 (R.389 de la CNAMTS), soit :
+Cette phase de l'épreuve est réalisée en établissement de formation. Le sujet de la situation professionnelle comprend les opérations de manutention en conformité avec les instructions prévues pour le CACES 3 (R. 389 de la CNAMTS), soit :
 
 Un test écrit portant sur l'ensemble des connaissances relatives à la conduite des chariots à conducteur porté (10 min maximum).
 
@@ -386,21 +386,21 @@ Un test pratique sur chariot élévateur en porte-à-faux de capacité inférieu
 
 Le parcours défini doit comporter au moins :
 
-- Circulation à vide, en charge, en marche avant et marche arrière , en ligne droite et en virage et l'arrêt en position de sécurité,
+-Circulation à vide, en charge, en marche avant et marche arrière, en ligne droite et en virage et l'arrêt en position de sécurité,
 
-- Gerbage et dégerbage en pile,
+-Gerbage et dégerbage en pile,
 
 Et au moins deux des opérations suivantes :
 
-- Circulation et arrêt sur un plan incliné,
+-Circulation et arrêt sur un plan incliné,
 
-- Prise et dépose d'une charge au sol,
+-Prise et dépose d'une charge au sol,
 
-- Mise en stock et déstockage d'une charge à un ou plusieurs niveaux d'un palettier jusqu'à une hauteur de 4 m,
+-Mise en stock et déstockage d'une charge à un ou plusieurs niveaux d'un palettier jusqu'à une hauteur de 4 m,
 
-- Chargement ou déchargement latéral d'un camion ou d'une remorque,
+-Chargement ou déchargement latéral d'un camion ou d'une remorque,
 
-- Prise, transport et dépose d'une charge longue ou volumineuse.
+-Prise, transport et dépose d'une charge longue ou volumineuse.
 
 En début et en fin d'exercice, le candidat est considéré respectivement comme commençant une période de travail ou la terminant.
 
@@ -408,9 +408,9 @@ La prestation de conduite doit se faire sans précipitation, dans le respect de 
 
 Les candidats qui auront validé le diplôme et l'épreuve de manutention se verront attribuer une attestation de formation.
 
-2 - Conduite d'un véhicule
+2-Conduite d'un véhicule
 
-Le candidat se présente aux épreuves du permis E(B) qui se déroulent en conformité avec les instructions d'organisation des épreuves pratiques de ce permis, après avoir validé en amont le niveau du permis B et l'ETG. Le candidat réalise la phase circulation et la phase hors circulation telles que définies par le ministère en charge des transports terrestres.
+Le candidat se présente aux épreuves du permis E (B) qui se déroulent en conformité avec les instructions d'organisation des épreuves pratiques de ce permis, après avoir validé en amont le niveau du permis B et l'ETG. Le candidat réalise la phase circulation et la phase hors circulation telles que définies par le ministère en charge des transports terrestres.
 
 La commission d'évaluation est composée obligatoirement de l'expert en charge des examens du permis de conduire, d'un enseignant de la conduite routière et si possible d'un professionnel.
 
@@ -418,19 +418,19 @@ Si le candidat n'obtient pas d'avis favorable lors de la première séance, deux
 
 À l'issue de l'épreuve du permis :
 
-- Le candidat qui obtient un avis favorable pour la validation du permis E(B) ou qui est déjà titulaire du permis E(B), obtient une note de 10. La prestation du candidat, au regard de compétences liées à une conduite professionnelle, permet de lui attribuer une note comprise entre 10 et 20 ;
+-Le candidat qui obtient un avis favorable pour la validation du permis E (B) ou qui est déjà titulaire du permis E (B), obtient une note de 10. La prestation du candidat, au regard de compétences liées à une conduite professionnelle, permet de lui attribuer une note comprise entre 10 et 20 ;
 
-- Si le candidat n'obtient pas d'avis favorable au terme des deux séances de rattrapage il obtient une note de 0. Cependant, le candidat n'est pas éliminé à cet examen.
+-Si le candidat n'obtient pas d'avis favorable au terme des deux séances de rattrapage il obtient une note de 0. Cependant, le candidat n'est pas éliminé à cet examen.
 
-Le candidat déjà titulaire du permis E(B) doit passer cette partie d'épreuve afin d'être évalué sur ces compétences liées à une conduite professionnelle.
+Le candidat déjà titulaire du permis E (B) doit passer cette partie d'épreuve afin d'être évalué sur ces compétences liées à une conduite professionnelle.
 
-Le résultat aux épreuves du permis E(B) est consigné sur un dossier spécifique renseigné par l'expert en charge des examens du permis de conduire.
+Le résultat aux épreuves du permis E (B) est consigné sur un dossier spécifique renseigné par l'expert en charge des examens du permis de conduire.
 
 La fiche nationale d'évaluation du travail réalisé, rédigée et mise à jour par l'Inspection Générale de l'Éducation Nationale, est diffusée aux établissements par les services rectoraux des examens et concours.
 
 Modes d'évaluation
 
-Évaluation ponctuelle - Durée de 1 h 25 max.
+Évaluation ponctuelle-Durée de 1 h 25 max.
 
 Première phase de l'épreuve : écrite et pratique d'une durée de 0 h 35 max.
 
@@ -464,17 +464,17 @@ Le candidat est informé à l'avance de la période prévue pour le déroulement
 
 Chaque phase de l'épreuve est notée sur 20
 
-À l'issue des évaluations, le ou les professeur(s) chargé(s) des enseignements du domaine professionnel, constitue(nt) pour chaque candidat un dossier comprenant :
+À l'issue des évaluations, le ou les professeur (s) chargé (s) des enseignements du domaine professionnel, constitue (nt) pour chaque candidat un dossier comprenant :
 
-- l'ensemble des documents remis au candidat pour réaliser le travail demandé,
+-l'ensemble des documents remis au candidat pour réaliser le travail demandé,
 
-- les documents renseignés ou produits par le candidat ;
+-les documents renseignés ou produits par le candidat ;
 
-- les documents produits par l'expert en charge des examens du permis de conduire,
+-les documents produits par l'expert en charge des examens du permis de conduire,
 
-- deux fiches d'analyse du travail effectué par le candidat, l'une pour l'utilisation du chariot automoteur de manutention de catégorie 3, l'autre pour la conduite du véhicule ;
+-deux fiches d'analyse du travail effectué par le candidat, l'une pour l'utilisation du chariot automoteur de manutention de catégorie 3, l'autre pour la conduite du véhicule ;
 
-- la fiche nationale d'évaluation correspondant à l'épreuve, renseignée.
+-la fiche nationale d'évaluation correspondant à l'épreuve, renseignée.
 
 Seule cette fiche nationale d'évaluation est transmise au jury, accompagnée de la proposition de note, établie par addition des points obtenus à chaque partie de l'épreuve. Les autres éléments du dossier décrits ci-dessus sont mis à la disposition du jury, qui peut demander à en avoir communication, et de l'autorité rectorale.
 
@@ -498,21 +498,21 @@ Coefficient 3
 
 Objectifs
 
-L'épreuve de français et d'histoire - géographie - éducation civique* permet d'apprécier :
+L'épreuve de français et d'histoire-géographie-éducation civique* permet d'apprécier :
 
-- les qualités de lecture et d'analyse de textes documentaires, de textes fictionnels, de documents iconographiques, de documents de nature historique et géographique ;
+-les qualités de lecture et d'analyse de textes documentaires, de textes fictionnels, de documents iconographiques, de documents de nature historique et géographique ;
 
-- les qualités d'organisation des informations et d'argumentation dans la justification des informations sélectionnées ;
+-les qualités d'organisation des informations et d'argumentation dans la justification des informations sélectionnées ;
 
-- les qualités d'expression et de communication à l'oral et à l'écrit, en particulier la maîtrise de la langue.
+-les qualités d'expression et de communication à l'oral et à l'écrit, en particulier la maîtrise de la langue.
 
 Modes d'évaluation
 
 Évaluation par contrôle en cours de formation :
 
-L'épreuve de français et d'histoire - géographie- éducation civique* est constituée de deux situations
+L'épreuve de français et d'histoire-géographie-éducation civique* est constituée de deux situations
 
-d'évaluation, comprenant chacune deux parties : une partie écrite en français, une partie orale en histoire -géographie - éducation civique.
+d'évaluation, comprenant chacune deux parties : une partie écrite en français, une partie orale en histoire-géographie- enseignement moral et civique.
 
 Les deux situations d'évaluation sont évaluées à part égale. Par ailleurs, les deux parties de chaque situationd'évaluation, évaluent des compétences complémentaires, à parts égales.
 
@@ -520,7 +520,7 @@ L'évaluation se déroule dans la deuxième moitié de la formation. Toutefois, 
 
 Une proposition de note, sur 20, est établie. La note définitive est délivrée par le jury
 
-A -Première situation d'évaluation
+A-Première situation d'évaluation
 
 Première partie (français)
 
@@ -534,7 +534,7 @@ Dans la troisième étape, le candidat finalise sa production, notamment à l'ai
 
 Les trois séances, d'une durée d'environ quarante minutes, s'échelonnent sur une durée de quinze jours.
 
-Seconde partie (histoire - géographie- éducation civique)
+Seconde partie (histoire-géographie- enseignement moral et civique)
 
 Le candidat présente oralement un dossier (constitué individuellement ou par groupe) comprenant trois ou quatre documents de nature variée (textes, images, tableaux de chiffres, cartes...).
 
@@ -546,7 +546,7 @@ Le candidat présente son dossier pendant cinq minutes. La présentation est sui
 
 L'entretien est conduit, par le professeur de la discipline assisté, dans la mesure du possible, d'un membre de l'équipe pédagogique.
 
-B - Seconde situation d'évaluation
+B-Seconde situation d'évaluation
 
 Première partie (français)
 
@@ -554,19 +554,19 @@ Le candidat répond par écrit, sur un texte fictionnel ou un document iconograp
 
 La durée est d'environ une heure trente minutes.
 
-Seconde partie (histoire - géographie - éducation civique)
+Seconde partie (histoire-géographie- enseignement moral et civique)
 
-Se référer à la seconde partie de la situation n° 1. Seule la dominante change (histoire ou géographie- éducation civique).
+Se référer à la seconde partie de la situation n° 1. Seule la dominante change (histoire ou géographie- enseignement moral et civique).
 
-Évaluation par épreuve ponctuelle - 2 heures + 15 minutes.
+Évaluation par épreuve ponctuelle-2 heures + 15 minutes.
 
-Les deux parties de l'épreuve (français et histoire - géographie - éducation civique), qui évaluent des compétences complémentaires, sont évaluées à part égale, sur 10 points.
+Les deux parties de l'épreuve (français et histoire-géographie- enseignement moral et civique), qui évaluent des compétences complémentaires, sont évaluées à part égale, sur 10 points.
 
 Première partie (français)
 
 Le candidat répond par écrit, sur un texte fictionnel, à des questions de vocabulaire et de compréhension. Il rédige ensuite, dans une situation de communication définie par un type de discours, soit un récit, un dialogue, une description, un portrait, une opinion argumentée (quinze à vingt lignes), soit une courte production écrite répondant à une consigne en lien avec l'expérience professionnelle (quinze à vingt lignes).
 
-Seconde partie (histoire - géographie - éducation civique)
+Seconde partie (histoire-géographie- enseignement moral et civique)
 
 Le candidat se présente à l'épreuve avec deux dossiers qu'il a préalablement constitués, un à dominante histoire, l'autre à dominante géographie, comprenant chacun trois ou quatre documents de nature variée (textes, images, tableaux de chiffres, cartes...). Un de ces documents peut comporter une dimension civique en lien avec le programme d'éducation civique*.
 
@@ -580,7 +580,7 @@ En l'absence de dossier le candidat peut néanmoins passer l'épreuve.
 
 |
 
-MATHÉMATIQUES - SCIENCES PHYSIQUES ET CHIMIQUES
+MATHÉMATIQUES-SCIENCES PHYSIQUES ET CHIMIQUES
 
 |
 
@@ -604,7 +604,7 @@ Pour les autres candidats les premières séquences doivent être organisées av
 
 Une proposition de note est établie. La note définitive est délivrée par le jury.
 
-A - La situation d'évaluation en mathématiques (notée sur 20)
+A-La situation d'évaluation en mathématiques (notée sur 20)
 
 Cette évaluation en mathématiques d'une durée totale d'une heure environ est fractionnée dans le temps en deux séquences, chacune notée sur 10.
 
@@ -612,7 +612,7 @@ L'évaluation est conçue comme un sondage probant sur des compétences du réf�
 
 Les sujets portent principalement sur les domaines mathématiques les plus utiles pour résoudre un problème en liaison avec les sciences physiques et chimiques, un secteur professionnel ou la vie courante. Lorsque la situation s'appuie sur d'autres disciplines, aucune connaissance relative à ces disciplines n'est exigible des candidats et toutes les indications utiles doivent être fournies dans l'énoncé
 
-B - La situation d'évaluation en sciences physiques et chimiques (notée sur 20)
+B-La situation d'évaluation en sciences physiques et chimiques (notée sur 20)
 
 Cette situation d'évaluation en sciences physiques ou chimiques d'une durée d'une heure environ est fractionnée dans le temps en deux séquences, chacune notée sur 10
 
@@ -622,17 +622,17 @@ L'évaluation est conçue comme sondage probant sur des compétences du référe
 
 L'évaluation porte nécessairement sur les capacités expérimentales du candidat observées durant les manipulations qu'il réalise, sur les mesures obtenues et leur interprétation. Lors de cette évaluation, il est demandé au candidat :
 
-- de mettre en œuvre un protocole expérimental ;
+-de mettre en œuvre un protocole expérimental ;
 
-- d'utiliser correctement le matériel mis à sa disposition ;
+-d'utiliser correctement le matériel mis à sa disposition ;
 
-- de mettre en œuvre les procédures et consignes de sécurité adaptées ;
+-de mettre en œuvre les procédures et consignes de sécurité adaptées ;
 
-- de montrer qu'il connaît le vocabulaire, les symboles, les grandeurs et les unités mises en œuvre ;
+-de montrer qu'il connaît le vocabulaire, les symboles, les grandeurs et les unités mises en œuvre ;
 
-- d'utiliser une ou plusieurs relations, ces relations étant données ;
+-d'utiliser une ou plusieurs relations, ces relations étant données ;
 
-- de rendre compte par écrit des résultats des travaux réalisés.
+-de rendre compte par écrit des résultats des travaux réalisés.
 
 Le candidat porte, sur une fiche qu'il complète en cours de manipulation, les résultats de ses observations, de ses mesures et leur interprétation. L'examinateur élabore une grille de compétences qui lui permet d'évaluer les connaissances et capacités du candidat lors de ses manipulations. Lorsque la situation s'appuie sur d'autres disciplines, aucune connaissance relative à ces disciplines n'est exigible des candidats et toutes les indications utiles doivent être fournies dans l'énoncé.
 
@@ -640,13 +640,13 @@ Le candidat porte, sur une fiche qu'il complète en cours de manipulation, les r
 
 L'épreuve d'une durée de deux heures, notée sur 20 points, comporte deux parties écrites d'égale importance concernant l'une les mathématiques, l'autre les sciences physiques et chimiques.
 
-Partie Mathématiques (notée sur 10 points) :1 heure.
+Partie Mathématiques (notée sur 10 points) : 1 heure.
 
 Le sujet se compose de deux ou trois exercices avec des questions de difficulté progressive recouvrant une part aussi large que possible des capacités et connaissances mentionnées dans le référentiel de CAP.
 
 Les thèmes mathématiques concernés portent principalement sur les domaines mathématiques les plus utiles pour résoudre un problème en liaison avec la physique, la chimie, un secteur professionnel ou la vie courante. Lorsque la situation s'appuie sur d'autres disciplines, aucune connaissance relative à ces disciplines n'est exigible des candidats et toutes les indications utiles doivent être fournies dans l'énoncé.
 
-Partie Sciences physiques et chimiques (notée sur 10 points) :1 heure.
+Partie Sciences physiques et chimiques (notée sur 10 points) : 1 heure.
 
 Le sujet doit porter sur des champs différents de la Physique et de la Chimie. Il se compose de deux parties :
 
@@ -654,21 +654,21 @@ Première partie
 
 Un exercice restitue une expérience ou un protocole opératoire, à partir d'un texte court et éventuellement d'un schéma. Au sujet de cette expérience décrite, quelques questions conduisent le candidat, par exemple à :
 
-- montrer ses connaissances ;
+-montrer ses connaissances ;
 
-- relever des observations pertinentes ;
+-relever des observations pertinentes ;
 
-- organiser les observations fournies, en déduire une interprétation et, plus généralement, exploiter les résultats.
+-organiser les observations fournies, en déduire une interprétation et, plus généralement, exploiter les résultats.
 
 Seconde partie
 
 Un exercice met en œuvre, dans un contexte donné, une ou plusieurs grandeurs et relations entre elles. Les questions posées doivent permettre de vérifier que le candidat est capable :
 
-- de montrer qu'il connaît le vocabulaire, les symboles, les grandeurs et les unités mises en œuvre ;
+-de montrer qu'il connaît le vocabulaire, les symboles, les grandeurs et les unités mises en œuvre ;
 
-- d'indiquer l'ordre de grandeur d'une valeur compte tenu des mesures fournies et du contexte envisagé ;
+-d'indiquer l'ordre de grandeur d'une valeur compte tenu des mesures fournies et du contexte envisagé ;
 
-- d'utiliser des définitions, des lois et des modèles pour résoudre le problème posé.
+-d'utiliser des définitions, des lois et des modèles pour résoudre le problème posé.
 
 Dans un même exercice, les capacités décrites pour ces deux parties peuvent être mises en œuvre. Lorsque l'épreuve s'appuie sur d'autres disciplines, aucune connaissance relative à ces disciplines n'est exigible des candidats et toutes les indications utiles doivent être fournies dans l'énoncé.
 
@@ -730,7 +730,7 @@ Arrêté du 17 juin 2003 fixant les unités générales du certificat d'aptitude
 
 Arrêté du 10 février 2009 fixant le programme d'enseignement des langues vivantes étrangères pour les classes préparatoires au certificat d'aptitude professionnelle et pour les classes préparatoires au baccalauréat professionnel.
 
-L'épreuve comporte un entretien se rapportant soit à un document étudié au cours de la formation (texte ou image), soit à un document lié à l'activité et/ou à l'expérience du candidat.
+L'épreuve comporte un entretien se rapportant soit à un document étudié au cours de la formation (texte ou image), soit à un document lié à l'activité et/ ou à l'expérience du candidat.
 
 NOTA :
 

@@ -2,9 +2,9 @@
 
 DÉFINITION DES ÉPREUVES
 
-Épreuve EP1 - Analyse et exploitation de données esthétiques et
+Épreuve EP1-Analyse et exploitation de données esthétiques et
 
-techniques - unité UP 1 - coefficient 5
+techniques-unité UP 1-coefficient 5
 
 Objectifs de l'épreuve
 
@@ -24,37 +24,37 @@ C2-1 : Identifier, préparer les matériaux, les articles.
 
 C2-2 : Participer à la gestion du stock.
 
-C2-3 : Construire et/ou modifier le patron de base.
+C2-3 : Construire et/ ou modifier le patron de base.
 
 C2-4 : Participer aux choix esthétiques et technologiques.
 
 Le candidat peut être amené à :
 
-- identifier et exploiter des documents de référence relatifs à l'histoire du chapeau et éventuellement du vêtement, ses accessoires, son environnement, ainsi qu'aux tendances de la mode, aux évolutions techniques et sociétales ;
+-identifier et exploiter des documents de référence relatifs à l'histoire du chapeau et éventuellement du vêtement, ses accessoires, son environnement, ainsi qu'aux tendances de la mode, aux évolutions techniques et sociétales ;
 
-- mettre au point une proposition graphique, chromatique et/ou volumique de tout ou partie d'un produit ;
+-mettre au point une proposition graphique, chromatique et/ ou volumique de tout ou partie d'un produit ;
 
-- repérer les éléments constitutifs du produit ;
+-repérer les éléments constitutifs du produit ;
 
-- relever tout ou partie d'un produit ;
+-relever tout ou partie d'un produit ;
 
-- construire ou modifier les éléments d'un patron ;
+-construire ou modifier les éléments d'un patron ;
 
-- réaliser le patronnage ;
+-réaliser le patronnage ;
 
-- évaluer partiellement le coût de revient du produit ;
+-évaluer partiellement le coût de revient du produit ;
 
-- proposer des matières d'œuvre, des garnitures, des finitions, la méthode de travail, des solutions technologiques, des outillages et justifier les propositions ;
+-proposer des matières d'œuvre, des garnitures, des finitions, la méthode de travail, des solutions technologiques, des outillages et justifier les propositions ;
 
-- compléter une fiche de stock.
+-compléter une fiche de stock.
 
 L'évaluation porte notamment sur :
 
-- le respect des données esthétiques et techniques fournies pour résoudre la problématique ;
+-le respect des données esthétiques et techniques fournies pour résoudre la problématique ;
 
-- la précision des constructions, des modifications ;
+-la précision des constructions, des modifications ;
 
-- l'exactitude du stock en fonction des ressources et des moyens à disposition.
+-l'exactitude du stock en fonction des ressources et des moyens à disposition.
 
 Modalités d'évaluation
 
@@ -64,27 +64,27 @@ L'évaluation s'appuie sur un dossier élaboré conjointement par les professeur
 
 L'évaluation est notée sur vingt points :
 
-- cinq points portent sur les connaissances et compétences du domaine des arts appliqués ;
+-cinq points portent sur les connaissances et compétences du domaine des arts appliqués ;
 
-- quinze points portent sur les activités liées au domaine professionnel.
+-quinze points portent sur les activités liées au domaine professionnel.
 
 Les temps indicatifs pour cette épreuve doivent correspondre à :
 
-- 1/3 pour le domaine des arts appliqués ;
+-1/3 pour le domaine des arts appliqués ;
 
-- 2/3 pour le domaine professionnel.
+-2/3 pour le domaine professionnel.
 
 Évaluation par contrôle en cours de formation
 
 Le contrôle des acquis du candidat s'effectue sur la base d'une situation d'évaluation, organisée au cours de l'année civile de l'examen. Elle se déroule dans le cadre des activités habituelles de formation et sa durée ne saurait dépasser le double de la durée de l'épreuve sous la forme ponctuelle.
 
-Un professionnel au moins est associé à l'évaluation. L'absence de ce(s) dernier(s) ne peut en aucun cas invalider l'épreuve.
+Un professionnel au moins est associé à l'évaluation. L'absence de ce (s) dernier (s) ne peut en aucun cas invalider l'épreuve.
 
 À l'issue de cette situation d'évaluation, les professeurs chargés de l'enseignement de spécialité et des arts appliqués de l'établissement de formation constituera, pour chaque candidat, un dossier comprenant :
 
-- l'ensemble des documents remis pour conduire le travail demandé pendant la situation d'évaluation ;
+-l'ensemble des documents remis pour conduire le travail demandé pendant la situation d'évaluation ;
 
-- les documents justifiant des travaux réalisés par le candidat lors de l'évaluation ; - la fiche d'évaluation renseignée.
+-les documents justifiant des travaux réalisés par le candidat lors de l'évaluation ;-la fiche d'évaluation renseignée.
 
 À cet effet, une fiche type d'évaluation, rédigée et mise à jour par l'inspection générale de l'éducation nationale, est transmise aux services rectoraux des examens et concours pour diffusion dans les établissements. Seule cette dernière sera systématiquement transmise au jury.
 
@@ -100,9 +100,9 @@ Les compétences et les connaissances évaluées ainsi que les critères d'éval
 
 Le dossier technique réalisé pour cette épreuve respecte les conditions définies ci-dessus.
 
-Épreuve EP2 - Mise en œuvre de la réalisation de tout
+Épreuve EP2-Mise en œuvre de la réalisation de tout
 
-ou partie d'un ou plusieurs produits - unité UP2 - coefficient 10
+ou partie d'un ou plusieurs produits-unité UP2-coefficient 10
 
 Objectifs de l'épreuve
 
@@ -132,7 +132,7 @@ C3-1 : Effectuer les opérations de rénovation et de transformation.
 
 C3-2 : Effectuer les opérations de placement de matelassage et de coupe.
 
-C3-3 : Effectuer les opérations d'assemblage : coupé/cousu.
+C3-3 : Effectuer les opérations d'assemblage : coupé/ cousu.
 
 C3-4 : Effectuer les opérations de mise en volume.
 
@@ -156,39 +156,39 @@ Les compétences C1-1 et C2-1 peuvent être mobilisées mais ne seront pas éval
 
 Le candidat peut être amené à :
 
-- positionner les éléments du patron sur la matière d'œuvre ;
+-positionner les éléments du patron sur la matière d'œuvre ;
 
-- matérialiser les contours ;
+-matérialiser les contours ;
 
-- procéder à la coupe d'un ou plusieurs produits ;
+-procéder à la coupe d'un ou plusieurs produits ;
 
-- régler et mettre en œuvre les matériels ;
+-régler et mettre en œuvre les matériels ;
 
-- procéder aux opérations d'entoilage ;
+-procéder aux opérations d'entoilage ;
 
-- procéder aux opérations de montage, de finition et de repassage ;
+-procéder aux opérations de montage, de finition et de repassage ;
 
-- vérifier la conformité :
+-vérifier la conformité :
 
 • des opérations de fabrication,
 
 • du ou des produits ;
 
-- utiliser un vocabulaire technique adapté.
+-utiliser un vocabulaire technique adapté.
 
 L'évaluation porte notamment sur :
 
-- le respect des données fournies ;
+-le respect des données fournies ;
 
-- la maîtrise des techniques de coupe de réalisation, de garniture et de finition, etc. ;
+-la maîtrise des techniques de coupe de réalisation, de garniture et de finition, etc. ;
 
-- la maîtrise des matériels usuels ;
+-la maîtrise des matériels usuels ;
 
-- le respect des règles d'hygiène, de sécurité et d'ergonomie ;
+-le respect des règles d'hygiène, de sécurité et d'ergonomie ;
 
-- la maîtrise du langage technique ;
+-la maîtrise du langage technique ;
 
-- la pertinence du contrôle de qualité.
+-la pertinence du contrôle de qualité.
 
 Modalités d'évaluation
 
@@ -204,11 +204,11 @@ L'autre situation d'évaluation a lieu dans l'entreprise au cours de la période
 
 À l'issue de chaque situation d'évaluation, l'équipe des professeurs chargés de l'enseignement de spécialité de l'établissement de formation constituera, pour chaque candidat, un dossier comprenant :
 
-- l'ensemble des documents remis pour conduire le travail demandé pendant la situation d'évaluation ;
+-l'ensemble des documents remis pour conduire le travail demandé pendant la situation d'évaluation ;
 
-- les documents et travaux réalisés par le candidat lors de l'évaluation ;
+-les documents et travaux réalisés par le candidat lors de l'évaluation ;
 
-- la fiche d'évaluation renseignée.
+-la fiche d'évaluation renseignée.
 
 À cet effet, une fiche type d'évaluation, rédigée et mise à jour par l'inspection générale de l'éducation nationale, est transmise aux services rectoraux des examens et concours pour diffusion dans les établissements. Seule cette dernière sera systématiquement transmise au jury.
 
@@ -224,7 +224,7 @@ La synthèse de l'évaluation est effectuée par le formateur de l'entreprise d'
 
 Situation d'évaluation en centre de formation
 
-Le contrôle des acquis du candidat s'effectue sur la base d'une situation d'évaluation préparée et organisée par les professeurs chargés de l'enseignement de spécialité. Un professionnel au moins y est associé. L'absence de ce(s) dernier(s) ne peut en aucun cas invalider l'épreuve.
+Le contrôle des acquis du candidat s'effectue sur la base d'une situation d'évaluation préparée et organisée par les professeurs chargés de l'enseignement de spécialité. Un professionnel au moins y est associé. L'absence de ce (s) dernier (s) ne peut en aucun cas invalider l'épreuve.
 
 La situation d'évaluation est organisée au cours de l'année civile de l'examen. Elle se déroule dans le cadre des activités habituelles de formation et sa durée ne saurait dépasser le double de la durée de l'épreuve sous la forme ponctuelle.
 
@@ -242,29 +242,29 @@ Les compétences et les connaissances évaluées ainsi que les critères d'éval
 
 Le dossier technique réalisé pour cette épreuve respecte les conditions définies ci-dessus.
 
-Prévention-santé-environnement - coefficient 1
+Prévention-santé-environnement-coefficient 1
 
 Objectifs de l'épreuve
 
 L'épreuve a pour objectif d'évaluer les compétences du candidat à :
 
-- conduire une démarche d'analyse de situations en appliquant la démarche de résolution de problème et/ou l'approche par le risque ;
+-conduire une démarche d'analyse de situations en appliquant la démarche de résolution de problème et/ ou l'approche par le risque ;
 
-- mobiliser des connaissances scientifiques, juridiques et économiques ;
+-mobiliser des connaissances scientifiques, juridiques et économiques ;
 
-- proposer des mesures de prévention adaptées ;
+-proposer des mesures de prévention adaptées ;
 
-- agir de façon efficace face à une situation d'urgence.
+-agir de façon efficace face à une situation d'urgence.
 
 L'évaluation porte notamment sur :
 
-- le respect des étapes de la démarche mise en œuvre ;
+-le respect des étapes de la démarche mise en œuvre ;
 
-- l'exactitude des connaissances ;
+-l'exactitude des connaissances ;
 
-- la pertinence des mesures de prévention proposées ;
+-la pertinence des mesures de prévention proposées ;
 
-- l'efficacité de l'action face à une situation d'urgence.
+-l'efficacité de l'action face à une situation d'urgence.
 
 Modalités d'évaluation
 
@@ -272,23 +272,23 @@ Contrôle en cours de formation (noté sur 20)
 
 Le contrôle en cours de formation est organisé à partir de deux situations d'évaluation. Chaque situation est notée sur 10 points.
 
-Première situation d'évaluation : écrite - 1 heure
+Première situation d'évaluation : écrite-1 heure
 
-Elle permet en fin de première année de formation l'évaluation par sondage des compétences des modules 1, 2 et 3, santé, consommation et parcours professionnel. Le sujet comporte plusieurs questions indépendantes ou liées sur les modules correspondants. Il permet d'évaluer des capacités et des connaissances. A partir d'une situation de la vie professionnelle ou quotidienne, le candidat doit notamment appliquer une démarche d'analyse.
+Elle permet en fin de première année de formation l'évaluation par sondage des compétences des modules 1,2 et 3, santé, consommation et parcours professionnel. Le sujet comporte plusieurs questions indépendantes ou liées sur les modules correspondants. Il permet d'évaluer des capacités et des connaissances. A partir d'une situation de la vie professionnelle ou quotidienne, le candidat doit notamment appliquer une démarche d'analyse.
 
 Deuxième situation d'évaluation
 
 Elle permet au cours de la deuxième année de formation l'évaluation par sondage des compétences du module 4, environnement professionnel. Elle est constituée de deux parties :
 
-- une évaluation écrite d'une durée de 1 heure portant sur l'ensemble du module à l'exception des situations d'urgences. Elle prend appui sur une situation professionnelle accompagnée d'une documentation. Elle permet d'évaluer l'application de la démarche d'approche par le risque et les connaissances relatives à l'environnement professionnel ;
+-une évaluation écrite d'une durée de 1 heure portant sur l'ensemble du module à l'exception des situations d'urgences. Elle prend appui sur une situation professionnelle accompagnée d'une documentation. Elle permet d'évaluer l'application de la démarche d'approche par le risque et les connaissances relatives à l'environnement professionnel ;
 
-- une évaluation pratique prenant en compte les résultats obtenus lors de la formation de base au secourisme ou du recyclage SST.
+-une évaluation pratique prenant en compte les résultats obtenus lors de la formation de base au secourisme ou du recyclage SST.
 
 Pour les candidats en situation de handicap, une adaptation de cette évaluation pratique doit être proposée sous forme orale ou écrite.
 
 L'évaluation écrite est notée sur 8 points, l'évaluation pratique sur 2 points.
 
-Épreuve ponctuelle (notée sur 20) - 1 heure
+Épreuve ponctuelle (notée sur 20)-1 heure
 
 Le sujet se compose de deux parties indépendantes, correspondant l'une aux modules 1 à 3, l'autre au module 4. Chaque partie comporte plusieurs questions sur chacun des modules.
 
@@ -296,31 +296,31 @@ Première partie : Le sujet sur 10 points comporte plusieurs questions indépend
 
 Deuxième partie : Le sujet comporte lui-même deux parties :
 
-- l'une notée sur 8 points prend appui sur une situation professionnelle accompagnée d'une documentation. Elle permet d'évaluer l'application de la démarche d'approche par le risque et les connaissances relatives à l'environnement professionnel ;
+-l'une notée sur 8 points prend appui sur une situation professionnelle accompagnée d'une documentation. Elle permet d'évaluer l'application de la démarche d'approche par le risque et les connaissances relatives à l'environnement professionnel ;
 
-- l'autre notée sur 2 points permet d'expliquer la conduite à tenir dans une situation d'urgence.
+-l'autre notée sur 2 points permet d'expliquer la conduite à tenir dans une situation d'urgence.
 
 En ce qui concerne l'évaluation d'un risque professionnel, elle pourra porter sur un risque dont l'étude n'est pas obligatoire. Dans ce cas, le candidat disposera de documents ressources lui permettant de proposer une démarche de prévention.
 
-EG1 Français et histoire-géographie-éducation civique -
+EG1 Français et histoire-géographie- enseignement moral et civique-
 
 coefficient 3
 
 Objectifs de l'épreuve
 
-L'épreuve de français et d'histoire-géographie-éducation civique permet d'apprécier :
+L'épreuve de français et d'histoire-géographie- enseignement moral et civique permet d'apprécier :
 
-- les qualités de lecture et d'analyse de textes documentaires, de textes fictionnels, de documents iconographiques, de documents de nature historique et géographique ;
+-les qualités de lecture et d'analyse de textes documentaires, de textes fictionnels, de documents iconographiques, de documents de nature historique et géographique ;
 
-- les qualités d'organisation des informations et d'argumentation dans la justification des informations sélectionnées ;
+-les qualités d'organisation des informations et d'argumentation dans la justification des informations sélectionnées ;
 
-- les qualités d'expression et de communication à l'oral et à l'écrit, en particulier la maîtrise de la langue.
+-les qualités d'expression et de communication à l'oral et à l'écrit, en particulier la maîtrise de la langue.
 
 Modalités d'évaluation
 
 Évaluation par contrôle en cours de formation
 
-L'épreuve de français et d'histoire-géographie-éducation civique est constituée de deux situations d'évaluation, comprenant chacune deux parties : une partie écrite en français, une partie orale en histoire-géographie-éducation civique.
+L'épreuve de français et d'histoire-géographie- enseignement moral et civique est constituée de deux situations d'évaluation, comprenant chacune deux parties : une partie écrite en français, une partie orale en histoire-géographie- enseignement moral et civique.
 
 Les deux situations d'évaluation sont évaluées à part égale. Par ailleurs, les deux parties de chaque situation d'évaluation évaluent des compétences complémentaires, à parts égales.
 
@@ -330,7 +330,7 @@ Une proposition de note, sur 20, est établie. La note définitive est délivré
 
 Première situation d'évaluation
 
-- Première partie (français)
+-Première partie (français)
 
 Le candidat rédige une production écrite réalisée en trois étapes. Cette situation d'évaluation, de nature formative, s'inscrit dans le calendrier d'une séquence.
 
@@ -340,11 +340,11 @@ Dans la deuxième étape, le candidat reprend sa production initiale à partir d
 
 Les trois séances, d'une durée d'environ quarante minutes, s'échelonnent sur une durée de quinze jours.
 
-- Deuxième partie (histoire-géographie-éducation civique)
+-Deuxième partie (histoire-géographie- enseignement moral et civique)
 
 Le candidat présente oralement un dossier (constitué individuellement ou par groupe) comprenant trois ou quatre documents de nature variée (textes, images, tableaux de chiffres, cartes, etc.).
 
-Ces documents sont accompagnés d'une brève analyse en réponse à une problématique relative à la situation historique ou géographique proposée. Les documents concernent un des thèmes généraux du programme étudiés dans l'année, à dominante histoire ou géographie. Si la dominante du dossier de la situation 1 est l'histoire, la dominante du dossier de la situation 2 est la géographie, et inversement. Un de ces documents peut comporter une dimension civique en lien avec le programme d'éducation civique.
+Ces documents sont accompagnés d'une brève analyse en réponse à une problématique relative à la situation historique ou géographique proposée. Les documents concernent un des thèmes généraux du programme étudiés dans l'année, à dominante histoire ou géographie. Si la dominante du dossier de la situation 1 est l'histoire, la dominante du dossier de la situation 2 est la géographie, et inversement. Un de ces documents peut comporter une dimension civique en lien avec le programme d' enseignement moral et civique.
 
 Le candidat présente son dossier pendant cinq minutes. La présentation est suivie d'un entretien (dix minutes au maximum) au cours duquel le candidat justifie ses choix et répond aux questions.
 
@@ -352,19 +352,19 @@ L'entretien est conduit, par le professeur de la discipline assisté, dans la me
 
 Deuxième situation d'évaluation
 
-- Première partie (français)
+-Première partie (français)
 
 Le candidat répond par écrit, sur un texte fictionnel ou un document iconographique ou sur un texte professionnel, à des questions de vocabulaire et de compréhension, puis rédige, dans une situation de communication définie par un type de discours, un récit, un dialogue, une description, un portrait, une opinion argumentée (quinze à vingt lignes).
 
 La durée est d'environ une heure trente minutes.
 
-- Deuxième partie (histoire-géographie-éducation civique)
+-Deuxième partie (histoire-géographie- enseignement moral et civique)
 
-Se référer à la deuxième partie de la situation n° 1. Seule la dominante change (histoire ou géographie-éducation civique).
+Se référer à la deuxième partie de la situation n° 1. Seule la dominante change (histoire ou géographie- enseignement moral et civique).
 
-Évaluation par épreuve ponctuelle - 2 heures + 15 minutes
+Évaluation par épreuve ponctuelle-2 heures + 15 minutes
 
-Les deux parties de l'épreuve (français et histoire-géographie-éducation civique), qui évaluent des compétences complémentaires, sont évaluées à part égale, sur 10 points.
+Les deux parties de l'épreuve (français et histoire-géographie- enseignement moral et civique), qui évaluent des compétences complémentaires, sont évaluées à part égale, sur 10 points.
 
 Première partie (français)
 
@@ -372,9 +372,9 @@ Le candidat répond par écrit, sur un texte fictionnel, à des questions de voc
 
 Il rédige ensuite, dans une situation de communication définie par un type de discours, soit un récit, un dialogue, une description, un portrait, une opinion argumentée (quinze à vingt lignes), soit une courte production écrite répondant à une consigne en lien avec l'expérience professionnelle (quinze à vingt lignes).
 
-Deuxième partie (histoire-géographie-éducation civique)
+Deuxième partie (histoire-géographie- enseignement moral et civique)
 
-Le candidat se présente à l'épreuve avec deux dossiers qu'il a préalablement constitués, un à dominante histoire, l'autre à dominante géographie, comprenant chacun trois ou quatre documents de nature variée (textes, images, tableaux de chiffres, cartes, etc.). Un de ces documents peut comporter une dimension civique en lien avec le programme d'éducation civique.
+Le candidat se présente à l'épreuve avec deux dossiers qu'il a préalablement constitués, un à dominante histoire, l'autre à dominante géographie, comprenant chacun trois ou quatre documents de nature variée (textes, images, tableaux de chiffres, cartes, etc.). Un de ces documents peut comporter une dimension civique en lien avec le programme d' enseignement moral et civique.
 
 Ces dossiers, d'un maximum de trois pages chacun, se réfèrent aux thèmes généraux du programme.
 
@@ -382,7 +382,7 @@ Les documents sont accompagnés d'une brève analyse en réponse à une problém
 
 En l'absence de dossier le candidat peut néanmoins passer l'épreuve.
 
-EG2 - Mathématiques-sciences physiques et chimiques -
+EG2-Mathématiques-sciences physiques et chimiques-
 
 coefficient 2
 
@@ -410,17 +410,17 @@ Elles s'appuient sur une ou deux activités expérimentales composées d'une ou 
 
 L'évaluation porte nécessairement sur les capacités expérimentales du candidat observées durant les manipulations qu'il réalise, sur les mesures obtenues et leur interprétation. Lors de cette évaluation, il est demandé au candidat :
 
-- de mettre en œuvre un protocole expérimental ;
+-de mettre en œuvre un protocole expérimental ;
 
-- d'utiliser correctement le matériel mis à sa disposition ;
+-d'utiliser correctement le matériel mis à sa disposition ;
 
-- de mettre en œuvre les procédures et consignes de sécurité adaptées ;
+-de mettre en œuvre les procédures et consignes de sécurité adaptées ;
 
-- de montrer qu'il connaît le vocabulaire, les symboles, les grandeurs et les unités mises en œuvre ;
+-de montrer qu'il connaît le vocabulaire, les symboles, les grandeurs et les unités mises en œuvre ;
 
-- d'utiliser une ou plusieurs relations, ces relations étant données ;
+-d'utiliser une ou plusieurs relations, ces relations étant données ;
 
-- de rendre compte par écrit des résultats des travaux réalisés.
+-de rendre compte par écrit des résultats des travaux réalisés.
 
 Le candidat porte, sur une fiche qu'il complète en cours de manipulation, les résultats de ses observations, de ses mesures et leur interprétation. L'examinateur élabore une grille de compétences qui lui permet d'évaluer les connaissances et capacités du candidat lors de ses manipulations. Lorsque la situation s'appuie sur d'autres disciplines, aucune connaissance relative à ces disciplines n'est exigible des candidats et toutes les indications utiles doivent être fournies dans l'énoncé.
 
@@ -428,37 +428,37 @@ Le candidat porte, sur une fiche qu'il complète en cours de manipulation, les r
 
 L'épreuve d'une durée de deux heures, notée sur 20 points, comporte deux parties écrites d'égale importance concernant l'une les mathématiques, l'autre les sciences physiques et chimiques.
 
-Partie mathématiques (notée sur 10 points) - 1 heure
+Partie mathématiques (notée sur 10 points)-1 heure
 
 Le sujet se compose de deux ou trois exercices avec des questions de difficulté progressive recouvrant une part aussi large que possible des capacités et connaissances mentionnées dans le référentiel de CAP.
 
 Les thèmes mathématiques concernés portent principalement sur les domaines mathématiques les plus utiles pour résoudre un problème en liaison avec la physique, la chimie, un secteur professionnel ou la vie courante. Lorsque la situation s'appuie sur d'autres disciplines, aucune connaissance relative à ces disciplines n'est exigible des candidats et toutes les indications utiles doivent être fournies dans l'énoncé.
 
-Partie sciences physiques et chimiques (notée sur 10 points) - 1 heure
+Partie sciences physiques et chimiques (notée sur 10 points)-1 heure
 
 Le sujet doit porter sur des champs différents de la physique et de la chimie. Il se compose de deux parties :
 
-- Première partie
+-Première partie
 
 Un exercice restitue une expérience ou un protocole opératoire, à partir d'un texte court et éventuellement d'un schéma. Au sujet de cette expérience décrite, quelques questions conduisent le candidat, par exemple à :
 
-- montrer ses connaissances ;
+-montrer ses connaissances ;
 
-- relever des observations pertinentes ;
+-relever des observations pertinentes ;
 
-- organiser les observations fournies, en déduire une interprétation et, plus généralement, exploiter les résultats.
+-organiser les observations fournies, en déduire une interprétation et, plus généralement, exploiter les résultats.
 
-- Deuxième partie
+-Deuxième partie
 
 Un exercice met en œuvre, dans un contexte donné, une ou plusieurs grandeurs et relations entre elles.
 
 Les questions posées doivent permettre de vérifier que le candidat est capable :
 
-- de montrer qu'il connaît le vocabulaire, les symboles, les grandeurs et les unités mises en œuvre ;
+-de montrer qu'il connaît le vocabulaire, les symboles, les grandeurs et les unités mises en œuvre ;
 
-- d'indiquer l'ordre de grandeur d'une valeur compte tenu des mesures fournies et du contexte envisagé ;
+-d'indiquer l'ordre de grandeur d'une valeur compte tenu des mesures fournies et du contexte envisagé ;
 
-- d'utiliser des définitions, des lois et des modèles pour résoudre le problème posé.
+-d'utiliser des définitions, des lois et des modèles pour résoudre le problème posé.
 
 Dans un même exercice, les capacités décrites pour ces deux parties peuvent être mises en œuvre.
 
@@ -488,6 +488,6 @@ Les consignes de correction devront permettre aux correcteurs de prendre réelle
 
 Les examinateurs et les correcteurs ne manifesteront pas d'exigences de formulation démesurées, et prêteront une attention particulière aux démarches engagées, aux tentatives pertinentes, aux résultats partiels.
 
-EG3 - Éducation physique et sportive - coefficient 1
+EG3-Éducation physique et sportive-coefficient 1
 
 Les modalités de l'épreuve d'éducation physique et sportive sont définies par l'arrêté du 15 juillet 2009 relatif aux modalités d'organisation du contrôle en cours de formation et de l'examen terminal pour l'éducation physique et sportive aux examens du baccalauréat professionnel, du certificat d'aptitude professionnelle et du brevet d'études professionnelles et la note de service n° 2009-141 du 8 octobre 2009 relative à l'éducation physique et sportive aux examens du baccalauréat professionnel, du certificat d'aptitude professionnelle et du brevet d'études professionnelles.

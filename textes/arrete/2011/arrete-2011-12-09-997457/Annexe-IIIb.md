@@ -1,8 +1,8 @@
-# Article Annexe IIIb
+# Article Annexe III b
 
 RÈGLEMENT D'EXAMEN
 
-CAP "métiers de la mode : chapelier-modiste"
+CAP " métiers de la mode : chapelier-modiste "
 
 |
 
@@ -28,7 +28,7 @@ Formation professionnelle
 
 continue (établissements privés)
 
-Enseignement à distance -
+Enseignement à distance-
 
 candidats libres
 
@@ -66,7 +66,7 @@ Unités professionnelles
 
 |
 
-EP1 - Analyse et exploitation de données esthétiques et techniques
+EP1-Analyse et exploitation de données esthétiques et techniques
 
 |
 
@@ -90,7 +90,7 @@ Ponctuel écrit
 
 |
 
-EP2 - Mise en œuvre de la réalisation de tout ou partie d'un ou plusieurs produits
+EP2-Mise en œuvre de la réalisation de tout ou partie d'un ou plusieurs produits
 
 |
 
@@ -118,7 +118,7 @@ pratique
 
 20 heures
 
-+1 heure (PSE)
++ 1 heure (PSE)
 
 |
 
@@ -126,7 +126,7 @@ Unités d'enseignement général
 
 |
 
-EG1 - Français, histoire- géographie-éducation civique
+EG1-Français, histoire-géographie- enseignement moral et civique
 
 |
 
@@ -150,7 +150,7 @@ Ponctuel écrit et oral
 
 |
 
-EG2 - Mathématiques-sciences physiques et chimiques
+EG2-Mathématiques-sciences physiques et chimiques
 
 |
 
@@ -174,7 +174,7 @@ Ponctuel écrit
 
 |
 
-EG3 - Éducation physique et sportive
+EG3-Éducation physique et sportive
 
 |
 

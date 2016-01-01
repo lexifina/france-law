@@ -122,7 +122,7 @@ UNITÉS D'ENSEIGNEMENT GÉNÉRAL
 
 |
 
-EG1 -Français et Histoire-Géographie et Education civique
+EG1 -Français et Histoire-Géographie et enseignement moral et civique
 
 |
 

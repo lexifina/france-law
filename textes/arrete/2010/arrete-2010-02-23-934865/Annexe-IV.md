@@ -1,7 +1,5 @@
 # Article Annexe IV
 
-Annexe IV
-
 Règlement d'examen et définition des épreuves
 
 Règlement d'examen
@@ -60,7 +58,7 @@ Unités professionnelles
 
 |
 
-EP1 - Techniques professionnelles
+EP1-Techniques professionnelles
 
 |
 
@@ -70,7 +68,7 @@ UP2
 
 |
 
-9 (1)*
+9 (1) *
 
 4
 
@@ -110,7 +108,7 @@ Unités d'enseignement général**
 
 |
 
-EG1 - Français et Histoire - géographie - éducation civique
+EG1-Français et Histoire-géographie- enseignement moral et civique
 
 |
 
@@ -134,7 +132,7 @@ ponctuel écrit
 
 |
 
-EG2 - Mathématiques sciences physiques et chimiques
+EG2-Mathématiques sciences physiques et chimiques
 
 |
 
@@ -158,7 +156,7 @@ ponctuel écrit
 
 |
 
-EG3 - Éducation physique et sportive
+EG3-Éducation physique et sportive
 
 |
 
@@ -274,7 +272,7 @@ X
 
 |
 
-Économie - Gestion
+Économie-Gestion
 
 |
 
@@ -388,7 +386,7 @@ X
 
 |
 
-Partie 3 Hygiène - Sécurité - Conditions de travail
+Partie 3 Hygiène-Sécurité-Conditions de travail
 
 |
 
@@ -436,15 +434,15 @@ L'épreuve a pour objectif de vérifier les compétences professionnelles et les
 
 Elle permet d'évaluer :
 
-- l'ensemble des compétences du référentiel d'activités professionnelles,
+-l'ensemble des compétences du référentiel d'activités professionnelles,
 
 les savoirs associés :
 
-- Biologie et chimie appliquées : Partie 4 Chimie appliquée
+-Biologie et chimie appliquées : Partie 4 Chimie appliquée
 
-- Sciences médico-sociales : Partie 4 Les personnes et leur cadre de vie : le logement social
+-Sciences médico-sociales : Partie 4 Les personnes et leur cadre de vie : le logement social
 
-- Technologie : Partie 1 L'immeuble et le logement, Partie 2 Nettoyage et nettoiement, Partie 3 Hygiène sécurité et conditions de travail, Partie 4 Gestion administrative, Partie 5 Communication professionnelle
+-Technologie : Partie 1 L'immeuble et le logement, Partie 2 Nettoyage et nettoiement, Partie 3 Hygiène sécurité et conditions de travail, Partie 4 Gestion administrative, Partie 5 Communication professionnelle
 
 Mode d'évaluation
 
@@ -462,23 +460,23 @@ Première partie (partie pratique)
 
 L'épreuve permet de vérifier que le candidat est capable :
 
-- de faire un état des lieux et d'analyser une situation ou un dysfonctionnement ;
+-de faire un état des lieux et d'analyser une situation ou un dysfonctionnement ;
 
-- de préparer et réaliser des opérations techniques de nettoiement, de nettoyage, de désinfection et de manutention des déchets ;
+-de préparer et réaliser des opérations techniques de nettoiement, de nettoyage, de désinfection et de manutention des déchets ;
 
-- d'assurer l'entretien et la maintenance de premier et de deuxième niveaux des équipements et des matériels ;
+-d'assurer l'entretien et la maintenance de premier et de deuxième niveaux des équipements et des matériels ;
 
-- de réaliser des opérations élémentaires de gestion locative : recouvrement de loyers et délivrance de quittances ;
+-de réaliser des opérations élémentaires de gestion locative : recouvrement de loyers et délivrance de quittances ;
 
-- d'informer et de rendre compte.
+-d'informer et de rendre compte.
 
 Deuxième partie (partie orale)
 
 L'épreuve permet de vérifier que le candidat est capable :
 
-- d'assurer une opération de gestion locative ;
+-d'assurer une opération de gestion locative ;
 
-- de dialoguer, conseiller, animer et négocier dans le cadre d'une activité d'accompagnement social.
+-de dialoguer, conseiller, animer et négocier dans le cadre d'une activité d'accompagnement social.
 
 La première partie de l'épreuve porte sur 10 points et la deuxième partie sur 10 points.
 
@@ -498,35 +496,35 @@ Elle est organisée au cours du premier ou second trimestre de l'année civile d
 
 La situation d'évaluation porte sur les compétences suivantes :
 
-C12 - décoder l'information technique
+C12-décoder l'information technique
 
-C22 - identifier les déchets et les produits dangereux, toxiques et polluants
+C22-identifier les déchets et les produits dangereux, toxiques et polluants
 
-C31 - organiser son travail
+C31-organiser son travail
 
-C32 - gérer son poste de travail
+C32-gérer son poste de travail
 
-C33 - gérer les produits et les matériels nécessaires aux opérations d'entretien et de maintenance
+C33-gérer les produits et les matériels nécessaires aux opérations d'entretien et de maintenance
 
-C41 - conduire des opérations de nettoiement, de nettoyage et de désinfection des locaux, des abords, des équipements et des matériels
+C41-conduire des opérations de nettoiement, de nettoyage et de désinfection des locaux, des abords, des équipements et des matériels
 
-C43 - effectuer des opérations de manutention des déchets
+C43-effectuer des opérations de manutention des déchets
 
-C53 - rendre compte des opérations effectuées ou des informations collectées
+C53-rendre compte des opérations effectuées ou des informations collectées
 
-C54 - produire et transmettre un message oral, écrit ou télématique
+C54-produire et transmettre un message oral, écrit ou télématique
 
 Et sur les savoirs associés suivants :
 
-- Biologie et chimie appliquées : Partie 4 Chimie appliquée
+-Biologie et chimie appliquées : Partie 4 Chimie appliquée
 
-- Technologie : Partie 2 Nettoyage et nettoiement, Partie 3 Hygiène, sécurité et conditions de travail
+-Technologie : Partie 2 Nettoyage et nettoiement, Partie 3 Hygiène, sécurité et conditions de travail
 
 Le candidat doit être capable :
 
-- de préparer et réaliser des opérations techniques de nettoiement, de nettoyage, de désinfection et de manutention des déchets ;
+-de préparer et réaliser des opérations techniques de nettoiement, de nettoyage, de désinfection et de manutention des déchets ;
 
-- d'informer et de rendre compte.
+-d'informer et de rendre compte.
 
 Un professionnel au moins est associé, dans la mesure du possible, à la mise en œuvre de la situation d'évaluation.
 
@@ -538,51 +536,51 @@ Pour les candidats issus des établissements d'enseignement publics ou privés s
 
 L'évaluation porte sur les compétences suivantes :
 
-C11- collecter l'information
+C11-collecter l'information
 
-C13- traiter l'information
+C13-traiter l'information
 
-C21- identifier, inventorier et apprécier les désordres, dégradations et dysfonctionnements
+C21-identifier, inventorier et apprécier les désordres, dégradations et dysfonctionnements
 
-C23- analyser des documents de gestion locative
+C23-analyser des documents de gestion locative
 
-C24- repérer les difficultés individuelles et identifier des problèmes de vie collective
+C24-repérer les difficultés individuelles et identifier des problèmes de vie collective
 
-C42- participer à la maintenance des immeubles, des équipements et des matériels
+C42-participer à la maintenance des immeubles, des équipements et des matériels
 
-C44- réaliser des opérations élémentaires de gestion locative
+C44-réaliser des opérations élémentaires de gestion locative
 
-C45- appliquer des mesures de prévention et mettre en œuvre les mesures de sauvegarde adaptées en cas de dysfonctionnement ou de sinistre
+C45-appliquer des mesures de prévention et mettre en œuvre les mesures de sauvegarde adaptées en cas de dysfonctionnement ou de sinistre
 
-C51- donner des informations, des explications et des recommandations d'ordre technique aux clients
+C51-donner des informations, des explications et des recommandations d'ordre technique aux clients
 
-C52- dialoguer, animer, négocier
+C52-dialoguer, animer, négocier
 
 Et sur les savoirs associés suivants :
 
-- Sciences médico-sociales : Partie 4 Les personnes et leur cadre de vie : le logement social
+-Sciences médico-sociales : Partie 4 Les personnes et leur cadre de vie : le logement social
 
-- Technologie : Partie 1 L'immeuble et le logement, Partie 4 Gestion administrative, Partie 5 Communication professionnelle
+-Technologie : Partie 1 L'immeuble et le logement, Partie 4 Gestion administrative, Partie 5 Communication professionnelle
 
-Le candidat doit être capable:
+Le candidat doit être capable :
 
-- de réaliser des opérations élémentaires de gestion locative : recouvrement de loyers et délivrance de quittances ;
+-de réaliser des opérations élémentaires de gestion locative : recouvrement de loyers et délivrance de quittances ;
 
-- de faire un état des lieux et d'analyser une situation ou un dysfonctionnement ;
+-de faire un état des lieux et d'analyser une situation ou un dysfonctionnement ;
 
-- d'assurer la maintenance de premier et deuxième niveaux des équipements et des matériels ;
+-d'assurer la maintenance de premier et deuxième niveaux des équipements et des matériels ;
 
-- de dialoguer, d'expliquer, d'animer et de négocier dans le cadre d'une activité d'accompagnement social ou dans le cadre de l'information et du conseil technique.
+-de dialoguer, d'expliquer, d'animer et de négocier dans le cadre d'une activité d'accompagnement social ou dans le cadre de l'information et du conseil technique.
 
 L'inspecteur de l'éducation nationale de la spécialité veille au bon déroulement de l'évaluation organisée sous la responsabilité du chef d'établissement ou du directeur du CFA.
 
 Prévention santé environnement coefficient 1
 
-1- Objectifs de l'épreuve :
+1-Objectifs de l'épreuve :
 
 L'épreuve a pour objectif d'évaluer les compétences du candidat à :
 
-Conduire une démarche d'analyse de situations en appliquant la démarche de résolution de problème et/ou l'approche par le risque
+Conduire une démarche d'analyse de situations en appliquant la démarche de résolution de problème et/ ou l'approche par le risque
 
 Mobiliser des connaissances scientifiques, juridiques et économiques
 
@@ -592,25 +590,25 @@ Agir de façon efficace face à une situation d'urgence
 
 L'évaluation porte notamment sur :
 
-- le respect des étapes de la démarche mise en œuvre,
+-le respect des étapes de la démarche mise en œuvre,
 
-- l'exactitude des connaissances,
+-l'exactitude des connaissances,
 
-- la pertinence des mesures de prévention proposées,
+-la pertinence des mesures de prévention proposées,
 
-- l'efficacité de l'action face à une situation d'urgence.
+-l'efficacité de l'action face à une situation d'urgence.
 
-2 - Modalités d'évaluation :
+2-Modalités d'évaluation :
 
 a) Contrôle en cours de formation (noté sur 20)
 
 Le contrôle en cours de formation est organisé à partir de deux situations d'évaluation. Chaque situation est notée sur 10 points.
 
-- première situation d'évaluation : écrite - 1 heure
+-première situation d'évaluation : écrite-1 heure
 
-Elle permet en fin de première année de formation l'évaluation par sondage des compétences des modules 1, 2 et 3, santé, consommation et parcours professionnel. Le sujet comporte plusieurs questions indépendantes ou liées sur les modules correspondants. Il permet d'évaluer des capacités et des connaissances. A partir d'une situation de la vie professionnelle ou quotidienne, le candidat doit notamment appliquer une démarche d'analyse.
+Elle permet en fin de première année de formation l'évaluation par sondage des compétences des modules 1,2 et 3, santé, consommation et parcours professionnel. Le sujet comporte plusieurs questions indépendantes ou liées sur les modules correspondants. Il permet d'évaluer des capacités et des connaissances. A partir d'une situation de la vie professionnelle ou quotidienne, le candidat doit notamment appliquer une démarche d'analyse.
 
-- deuxième situation d'évaluation :
+-deuxième situation d'évaluation :
 
 Elle permet au cours de la deuxième année de formation l'évaluation par sondage des compétences du module 4, environnement professionnel. Elle est constituée de deux parties :
 
@@ -636,7 +634,7 @@ Deuxième partie : Le sujet comporte lui-même deux parties :
 
 En ce qui concerne l'évaluation d'un risque professionnel, elle pourra porter sur un risque dont l'étude n'est pas obligatoire. Dans ce cas, le candidat disposera de documents ressources lui permettant de proposer une démarche de prévention.
 
-EP2- Épreuve scientifique et technologique
+EP2-Épreuve scientifique et technologique
 
 Coefficient 4
 
@@ -654,11 +652,11 @@ Elle permet également de vérifier des qualités d'analyse à travers l'étude 
 
 L'épreuve porte sur les savoirs associés suivants :
 
-- Biologie et chimie appliquée : Partie 1 Biologie appliquée, Partie 2 Microbiologie appliquée, Partie 3 Écologie appliquée
+-Biologie et chimie appliquée : Partie 1 Biologie appliquée, Partie 2 Microbiologie appliquée, Partie 3 Écologie appliquée
 
-- Économie - Gestion : Partie 1 Notions élémentaires d'économie, Partie 2 Notions élémentaires de comptabilité, Partie 3 Notions juridiques
+-Économie-Gestion : Partie 1 Notions élémentaires d'économie, Partie 2 Notions élémentaires de comptabilité, Partie 3 Notions juridiques
 
-- Sciences médico-sociales : Partie 1 Les personnes et leur environnement social, Partie 2 Les personnes et les groupes sociaux, Partie 3 Protection sanitaire et sociale des personnes.
+-Sciences médico-sociales : Partie 1 Les personnes et leur environnement social, Partie 2 Les personnes et les groupes sociaux, Partie 3 Protection sanitaire et sociale des personnes.
 
 Mode d'évaluation
 
@@ -676,33 +674,33 @@ L'évaluation des acquis des candidats s'effectue sur la base d'un contrôle en 
 
 Le niveau d'exigence de cette situation d'évaluation est identique à celui de l'épreuve ponctuelle.
 
-Le support d'évaluation est conçu par le(s) professeur (s) ou le(s) formateur(s) responsable(s) des enseignements des savoirs associés
+Le support d'évaluation est conçu par le (s) professeur (s) ou le (s) formateur (s) responsable (s) des enseignements des savoirs associés
 
 Définition des épreuves d'enseignement général
 
-EG1 - Français et histoire-géographie-éducation civique
+EG1-Français et histoire-géographie- enseignement moral et civique
 
-Coefficient 3 - UG.1
+Coefficient 3-UG. 1
 
 |
 
 Objectifs
 
-L'épreuve de français et d'histoire - géographie -éducation civique permet d'apprécier :
+L'épreuve de français et d'histoire-géographie- enseignement moral et civique permet d'apprécier :
 
-- les qualités de lecture et d'analyse de textes documentaires, de textes fictionnels, de documents iconographiques, de documents de nature historique et géographique ;
+-les qualités de lecture et d'analyse de textes documentaires, de textes fictionnels, de documents iconographiques, de documents de nature historique et géographique ;
 
-- les qualités d'organisation des informations et d'argumentation dans la justification des informations sélectionnées ;
+-les qualités d'organisation des informations et d'argumentation dans la justification des informations sélectionnées ;
 
-- les qualités d'expression et de communication à l'oral et à l'écrit, en particulier la maîtrise de la langue.
+-les qualités d'expression et de communication à l'oral et à l'écrit, en particulier la maîtrise de la langue.
 
 Modes d'évaluation
 
 Évaluation par contrôle en cours de formation
 
-L'épreuve de français et d'histoire - géographie-éducation civique* est constituée de deux situations d'évaluation, comprenant chacune deux parties : une partie écrite en français, une partie orale en histoire
+L'épreuve de français et d'histoire-géographie-éducation civique* est constituée de deux situations d'évaluation, comprenant chacune deux parties : une partie écrite en français, une partie orale en histoire
 
-- géographie-éducation civique.
+-géographie- enseignement moral et civique.
 
 Les deux situations d'évaluation sont évaluées à part égale. Par ailleurs, les deux parties de chaque situation d'évaluation, évaluent des compétences complémentaires, à parts égales.
 
@@ -710,7 +708,7 @@ L'évaluation se déroule dans la deuxième moitié de la formation. Toutefois, 
 
 Une proposition de note, sur 20, est établie. La note définitive est délivrée par le jury
 
-A -Première situation d'évaluation
+A-Première situation d'évaluation
 
 Première partie (français)
 
@@ -724,7 +722,7 @@ Dans la troisième étape, le candidat finalise sa production, notamment à l'ai
 
 Les trois séances, d'une durée d'environ quarante minutes, s'échelonnent sur une durée de quinze jours.
 
-Deuxième partie (histoire-géographie-éducation civique)
+Deuxième partie (histoire-géographie- enseignement moral et civique)
 
 Le candidat présente oralement un dossier (constitué individuellement ou par groupe) comprenant trois ou quatre documents de nature variée (textes, images, tableaux de chiffres, cartes...).
 
@@ -744,25 +742,25 @@ Le candidat répond par écrit, sur un texte fictionnel ou un document iconograp
 
 La durée est d'environ une heure trente minutes.
 
-Deuxième partie (histoire-géographie-éducation civique)
+Deuxième partie (histoire-géographie- enseignement moral et civique)
 
-Se référer à la deuxième partie de la situation n° 1. Seule la dominante change (histoire ou géographie-éducation civique).
+Se référer à la deuxième partie de la situation n° 1. Seule la dominante change (histoire ou géographie- enseignement moral et civique).
 
-Évaluation par épreuve ponctuelle - 2 heures + 15 minutes
+Évaluation par épreuve ponctuelle-2 heures + 15 minutes
 
-C) Les deux parties de l'épreuve (français et histoire-géographie-éducation civique), qui évaluent des compétences complémentaires, sont évaluées à part égale, sur 10 points.
+C) Les deux parties de l'épreuve (français et histoire-géographie- enseignement moral et civique), qui évaluent des compétences complémentaires, sont évaluées à part égale, sur 10 points.
 
 1) Première partie (français)
 
 Le candidat répond par écrit, sur un texte fictionnel, à des questions de vocabulaire et de compréhension. Il rédige ensuite, dans une situation de communication définie par un type de discours, soit un récit, un dialogue, une description, un portrait, une opinion argumentée (quinze à vingt lignes), soit une courte production écrite répondant à une consigne en lien avec l'expérience professionnelle (quinze à vingt lignes).
 
-2) Deuxième partie (histoire - géographie -éducation civique)* :
+2) Deuxième partie (histoire-géographie- enseignement moral et civique) * :
 
 Le candidat se présente à l'épreuve avec deux dossiers qu'il a préalablement constitués, un à dominante histoire, l'autre à dominante géographie, comprenant chacun trois ou quatre documents de nature variée (textes, images, tableaux de chiffres, cartes...). Un de ces documents peut comporter une dimension civique en lien avec le programme d'éducation civique*.
 
 Ces dossiers, d'un maximum de trois pages chacun, se réfèrent aux thèmes généraux du programme.
 
-* L'évaluation de l'éducation civique est applicable à compter de la session 2012
+* L'évaluation de l' enseignement moral et civique est applicable à compter de la session 2012
 
 Les documents sont accompagnés d'une brève analyse en réponse à une problématique liée à la situation historique et géographique étudiée dans le dossier.
 
@@ -770,9 +768,9 @@ L'examinateur choisit l'un des deux dossiers. Le candidat présente oralement, p
 
 En l'absence de dossier le candidat peut néanmoins passer l'épreuve.
 
-EG 2 - Mathématiques - sciences physiques et chimiques :
+EG 2-Mathématiques-sciences physiques et chimiques :
 
-Coefficient 2 - UG 2
+Coefficient 2-UG 2
 
 Modes d'évaluation applicables a la session 2011 :
 
@@ -800,31 +798,31 @@ Une évaluation écrite en mathématiques, notée sur 10, d'une durée d'une heu
 
 Chaque séquence d'évaluation comporte un ou plusieurs exercices avec des questions de difficulté progressive recouvrant une part aussi large que possible des connaissances mentionnées dans le référentiel.
 
-Certaines compétences peuvent être évaluées plusieurs fois par fractionnement de la situation de l'évaluation dans le temps. Les thèmes mathématiques concernés portent principalement sur les domaines de connaissances les plus utiles pour résoudre un problème en liaison avec la physique, la chimie, la technologie, l'économie, la vie courante, ...
+Certaines compétences peuvent être évaluées plusieurs fois par fractionnement de la situation de l'évaluation dans le temps. Les thèmes mathématiques concernés portent principalement sur les domaines de connaissances les plus utiles pour résoudre un problème en liaison avec la physique, la chimie, la technologie, l'économie, la vie courante,...
 
 Lorsque la situation s'appuie sur d'autres disciplines, aucune connaissance relative à ces disciplines n'est exigible des candidats et toutes les indications utiles doivent être fournies dans l'énoncé.
 
 Deuxième partie :
 
-Une évaluation d'une durée d'une heure environ en physique - chimie, fractionnée dans le temps en deux ou trois séquences, ayant pour support une ou plusieurs activités expérimentales (travaux pratiques). Elle est notée sur 10 (7points pour l'activité expérimentale, 3 points pour le compte rendu).
+Une évaluation d'une durée d'une heure environ en physique-chimie, fractionnée dans le temps en deux ou trois séquences, ayant pour support une ou plusieurs activités expérimentales (travaux pratiques). Elle est notée sur 10 (7points pour l'activité expérimentale, 3 points pour le compte rendu).
 
 Ces séquences d'évaluation sont conçues comme des sondages probants sur des compétences terminales. Les notions évaluées ont été étudiées précédemment. Chaque séquence d'évaluation s'appuie sur une activité expérimentale (travaux pratiques) permettant d'apprécier les connaissances et savoir-faire expérimentaux des candidats.
 
-Au cours de l'activité expérimentale, le candidat est évalué à partir d'une ou plusieurs expériences .L'évaluation porte nécessairement sur les savoir-faire expérimentaux du candidat observés durant les manipulations qu'il réalise, sur les mesures obtenues et leur interprétation.
+Au cours de l'activité expérimentale, le candidat est évalué à partir d'une ou plusieurs expériences. L'évaluation porte nécessairement sur les savoir-faire expérimentaux du candidat observés durant les manipulations qu'il réalise, sur les mesures obtenues et leur interprétation.
 
 Lors de cette évaluation, il est demandé au candidat :
 
-- De mettre en œuvre un protocole expérimental ;
+-De mettre en œuvre un protocole expérimental ;
 
-- D'utiliser correctement le matériel mis à sa disposition ;
+-D'utiliser correctement le matériel mis à sa disposition ;
 
-- De mettre en œuvre les procédures et consignes de sécurité établies ;
+-De mettre en œuvre les procédures et consignes de sécurité établies ;
 
-- De montrer qu'il connaît le vocabulaire, les symboles, les grandeurs et unités mises en œuvre ;
+-De montrer qu'il connaît le vocabulaire, les symboles, les grandeurs et unités mises en œuvre ;
 
-- D'utiliser une ou plusieurs relations, ces relations étant données ;
+-D'utiliser une ou plusieurs relations, ces relations étant données ;
 
-- De rendre compte par écrit des résultats des travaux réalisés.
+-De rendre compte par écrit des résultats des travaux réalisés.
 
 Le candidat porte, sur une fiche qu'il complète en cours de manipulation, les résultats de ses observations, de ses mesures et de leur interprétation. L'examinateur élabore une grille d'observation qui lui permet d'évaluer les connaissances et savoir-faire expérimentaux du candidat lors de ses manipulations.
 
@@ -832,9 +830,9 @@ Lorsque la situation s'appuie sur d'autres disciplines, aucune connaissance rela
 
 Évaluation ponctuelle : (Écrite ; durée : 2 h)
 
-L'épreuve comporte deux parties écrites d'égale importance concernant l'une les mathématiques, l'autre la physique - chimie.
+L'épreuve comporte deux parties écrites d'égale importance concernant l'une les mathématiques, l'autre la physique-chimie.
 
-Mathématiques : 1 heure - notée sur 10 points
+Mathématiques : 1 heure-notée sur 10 points
 
 Le sujet se compose de plusieurs exercices avec des questions de difficulté progressive recouvrant une part aussi large que possible des connaissances mentionnées dans le programme.
 
@@ -842,7 +840,7 @@ Les thèmes mathématiques concernés portent principalement sur les domaines de
 
 Lorsque la situation s'appuie sur d'autres disciplines, aucune connaissance relative à ces disciplines n'est exigible des candidats et toutes les indications utiles doivent être fournies dans l'énoncé.
 
-Physique - chimie : 1 heure - notée sur 10 points
+Physique-chimie : 1 heure-notée sur 10 points
 
 Le sujet doit porter sur des champs différents de la physique et de la chimie. Il se compose de deux parties.
 
@@ -850,11 +848,11 @@ Première partie :
 
 Un ou deux exercices restituent, à partir d'un texte (en une dizaine de lignes au maximum) et éventuellement d'un schéma, une expérience ou un protocole opératoire. Au sujet de cette expérience décrite, quelques questions conduisent le candidat, par exemple :
 
-- A montrer ses connaissances ;
+-A montrer ses connaissances ;
 
-- A relever des observations pertinentes ;
+-A relever des observations pertinentes ;
 
-- A organiser les observations fournies, à en déduire une interprétation et, plus généralement, à exploiter les résultats.
+-A organiser les observations fournies, à en déduire une interprétation et, plus généralement, à exploiter les résultats.
 
 Deuxième partie :
 
@@ -862,11 +860,11 @@ Un exercice met en œuvre, dans un contexte donné, une ou plusieurs grandeurs e
 
 Les questions posées doivent permettre de vérifier que le candidat est capable :
 
-- De montrer qu'il connaît le vocabulaire, les symboles, les grandeurs et les unités mises en œuvre ;
+-De montrer qu'il connaît le vocabulaire, les symboles, les grandeurs et les unités mises en œuvre ;
 
-- D'indiquer l'ordre de grandeur d'une valeur compte tenu des mesures fournies et du contexte envisagé ;
+-D'indiquer l'ordre de grandeur d'une valeur compte tenu des mesures fournies et du contexte envisagé ;
 
-- D'utiliser des définitions, des lois et des modèles pour résoudre le problème posé.
+-D'utiliser des définitions, des lois et des modèles pour résoudre le problème posé.
 
 Dans un même exercice, les capacités décrites pour ces deux parties peuvent être mises en œuvre.
 
@@ -880,11 +878,11 @@ L'utilisation des calculatrices électroniques pendant l'épreuve est définie p
 
 Les trois alinéas suivants doivent être rappelés en tête des sujets :
 
-- La clarté des raisonnements et la qualité de la rédaction interviendront dans l'appréciation des copies ;
+-La clarté des raisonnements et la qualité de la rédaction interviendront dans l'appréciation des copies ;
 
-- L'usage des calculatrices électroniques est autorisé sauf mention contraire figurant sur le sujet ;
+-L'usage des calculatrices électroniques est autorisé sauf mention contraire figurant sur le sujet ;
 
-- L'usage du formulaire officiel de mathématiques est autorisé.
+-L'usage du formulaire officiel de mathématiques est autorisé.
 
 Instructions complémentaires pour l'ensemble des types d'épreuves (contrôle en cours de formation ou épreuve ponctuelle)
 
@@ -916,7 +914,7 @@ Le contrôle en cours de formation comporte deux situations d'évaluation, l'une
 
 Pour les candidats préparant un baccalauréat professionnel en trois ans, les premières séquences sont organisées avant la fin du deuxième semestre de la formation et les deuxièmes au plus tard à la fin du troisième semestre de la formation. Pour les autres candidats les premières séquences doivent être organisées avant la fin de la première moitié de la formation et les deuxièmes au cours de la seconde moitié de la formation. Une proposition de note est établie. La note définitive est délivrée par le jury.
 
-- La situation d'évaluation en mathématiques (notée sur 20)
+-La situation d'évaluation en mathématiques (notée sur 20)
 
 Cette évaluation en mathématiques d'une durée totale d'une heure environ est fractionnée dans le temps en deux séquences, chacune notée sur 10.
 
@@ -928,17 +926,17 @@ Cette situation d'évaluation en sciences physiques ou chimiques d'une durée d'
 
 Elles s'appuient sur une ou deux activités expérimentales composées d'une ou plusieurs expériences (dont certaines peuvent être assistées par ordinateur). L'évaluation est conçue comme sondage probant sur des compétences du référentiel. Les notions évaluées ont été étudiées précédemment. L'évaluation porte nécessairement sur les capacités expérimentales du candidat observées durant les manipulations qu'il réalise, sur les mesures obtenues et leur interprétation. Lors de cette évaluation, il est demandé au candidat :
 
-- de mettre en œuvre un protocole expérimental ;
+-de mettre en œuvre un protocole expérimental ;
 
-- d'utiliser correctement le matériel mis à sa disposition ;
+-d'utiliser correctement le matériel mis à sa disposition ;
 
-- de mettre en œuvre les procédures et consignes de sécurité adaptées ;
+-de mettre en œuvre les procédures et consignes de sécurité adaptées ;
 
-- de montrer qu'il connaît le vocabulaire, les symboles, les grandeurs et les unités mises en œuvre ;
+-de montrer qu'il connaît le vocabulaire, les symboles, les grandeurs et les unités mises en œuvre ;
 
-- d'utiliser une ou plusieurs relations, ces relations étant données ;
+-d'utiliser une ou plusieurs relations, ces relations étant données ;
 
-- de rendre compte par écrit des résultats des travaux réalisés.
+-de rendre compte par écrit des résultats des travaux réalisés.
 
 Le candidat porte, sur une fiche qu'il complète en cours de manipulation, les résultats de ses observations, de ses mesures et leur interprétation. L'examinateur élabore une grille de compétences qui lui permet d'évaluer les connaissances et capacités du candidat lors de ses manipulations. Lorsque la situation s'appuie sur d'autres disciplines, aucune connaissance relative à ces disciplines n'est exigible des candidats et toutes les indications utiles doivent être fournies dans l'énoncé.
 
@@ -946,33 +944,33 @@ Le candidat porte, sur une fiche qu'il complète en cours de manipulation, les r
 
 L'épreuve d'une durée de deux heures, notée sur 20 points, comporte deux parties écrites d'égale importance concernant l'une les mathématiques, l'autre les sciences physiques et chimiques.
 
-- Partie Mathématiques (notée sur 10 points) : 1 heure
+-Partie Mathématiques (notée sur 10 points) : 1 heure
 
 Le sujet se compose de deux ou trois exercices avec des questions de difficulté progressive recouvrant une part aussi large que possible des capacités et connaissances mentionnées dans le référentiel de CAP.
 
 Les thèmes mathématiques concernés portent principalement sur les domaines mathématiques les plus utiles pour résoudre un problème en liaison avec la physique, la chimie, un secteur professionnel ou la vie courante. Lorsque la situation s'appuie sur d'autres disciplines, aucune connaissance relative à ces disciplines n'est exigible des candidats et toutes les indications utiles doivent être fournies dans l'énoncé.
 
-- Partie Sciences physiques et chimiques (notée sur 10 points) : 1 heure
+-Partie Sciences physiques et chimiques (notée sur 10 points) : 1 heure
 
 Le sujet doit porter sur des champs différents de la Physique et de la Chimie. Il se compose de deux parties :
 
 Première partie Un exercice restitue une expérience ou un protocole opératoire, à partir d'un texte court et éventuellement d'un schéma. Au sujet de cette expérience décrite, quelques questions conduisent le candidat, par exemple à :
 
-- montrer ses connaissances ;
+-montrer ses connaissances ;
 
-- relever des observations pertinentes ;
+-relever des observations pertinentes ;
 
-- organiser les observations fournies, en déduire une interprétation et, plus généralement, exploiter les résultats.
+-organiser les observations fournies, en déduire une interprétation et, plus généralement, exploiter les résultats.
 
 Deuxième partie
 
 Un exercice met en œuvre, dans un contexte donné, une ou plusieurs grandeurs et relations entre elles. Les questions posées doivent permettre de vérifier que le candidat est capable :
 
-- de montrer qu'il connaît le vocabulaire, les symboles, les grandeurs et les unités mises en œuvre ;
+-de montrer qu'il connaît le vocabulaire, les symboles, les grandeurs et les unités mises en œuvre ;
 
-- d'indiquer l'ordre de grandeur d'une valeur compte tenu des mesures fournies et du contexte envisagé ;
+-d'indiquer l'ordre de grandeur d'une valeur compte tenu des mesures fournies et du contexte envisagé ;
 
-- d'utiliser des définitions, des lois et des modèles pour résoudre le problème posé.
+-d'utiliser des définitions, des lois et des modèles pour résoudre le problème posé.
 
 Dans un même exercice, les capacités décrites pour ces deux parties peuvent être mises en œuvre. Lorsque l'épreuve s'appuie sur d'autres disciplines, aucune connaissance relative à ces disciplines n'est exigible des candidats et toutes les indications utiles doivent être fournies dans l'énoncé.
 
@@ -998,9 +996,9 @@ Les consignes de correction devront permettre aux correcteurs de prendre réelle
 
 Les examinateurs et les correcteurs ne manifesteront pas d'exigences de formulation démesurées, et prêteront une attention particulière aux démarches engagées, aux tentatives pertinentes, aux résultats partiels.
 
-EG 3 - Éducation physique et sportive
+EG 3-Éducation physique et sportive
 
-Coefficient 1 -
+Coefficient 1-
 
 |
 
@@ -1012,7 +1010,7 @@ Les modalités de l'épreuve d'éducation physique et sportive sont définies pa
 
 Épreuve facultative : langue vivante
 
-Épreuve orale - durée : 20 mn - préparation : 20 mn
+Épreuve orale-durée : 20 mn-préparation : 20 mn
 
 |
 
@@ -1024,4 +1022,4 @@ Arrêté du 17 juin 2003 fixant les unités générales du certificat d'aptitude
 
 Arrêté du 10 février 2009 fixant le programme d'enseignement des langues vivantes étrangères pour les classes préparatoires au certificat d'aptitude professionnelle et pour les classes préparatoires au baccalauréat professionnel.
 
-L'épreuve comporte un entretien se rapportant soit à un document étudié au cours de la formation (texte ou image), soit à un document lié à l'activité et/ou à l'expérience du candidat.
+L'épreuve comporte un entretien se rapportant soit à un document étudié au cours de la formation (texte ou image), soit à un document lié à l'activité et/ ou à l'expérience du candidat.

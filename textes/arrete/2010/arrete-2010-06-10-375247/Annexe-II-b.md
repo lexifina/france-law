@@ -1,7 +1,5 @@
 # Article Annexe II b
 
-Annexe II
-
 Modalités de certification
 
 IIb - Règlement d'examen
@@ -156,7 +154,7 @@ Unités d'enseignement général
 
 Épreuve EG1 :
 
-. Français et Histoire - Géographie Éducation civique
+. Français et Histoire - Géographie enseignement moral et civique
 
 |
 

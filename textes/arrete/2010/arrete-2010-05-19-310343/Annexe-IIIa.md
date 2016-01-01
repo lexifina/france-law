@@ -1,12 +1,10 @@
 # Article Annexe IIIa
 
-Annexe IIIa
-
 Règlement d'examen
 
 SPÉCIALITÉ
 
-"distribution d'objets et services à la clientèle" du certificat d'aptitude professionnelle
+" distribution d'objets et services à la clientèle " du certificat d'aptitude professionnelle
 
 |
 
@@ -80,7 +78,7 @@ UNITÉS PROFESSIONNELLES
 
 |
 
-EP1 - Distribution
+EP1-Distribution
 
 |
 
@@ -108,7 +106,7 @@ CCF
 
 |
 
-EP2 - Gestion de la relation client
+EP2-Gestion de la relation client
 
 |
 
@@ -136,7 +134,7 @@ CCF
 
 |
 
-EP3 - Étude de situations professionnelles
+EP3-Étude de situations professionnelles
 
 |
 
@@ -168,7 +166,7 @@ UNITÉS GÉNÉRALES
 
 |
 
-EG1 - Français et histoire-géographie-éducation civique
+EG1-Français et histoire-géographie- enseignement moral et civique
 
 |
 
@@ -196,7 +194,7 @@ CCF
 
 |
 
-EG2 - Mathématiques-sciences physiques et chimiques
+EG2-Mathématiques-sciences physiques et chimiques
 
 |
 
@@ -224,7 +222,7 @@ CCF
 
 |
 
-EG3 - Éducation physique et sportive
+EG3-Éducation physique et sportive
 
 |
 
@@ -248,7 +246,7 @@ CCF
 
 |
 
-EF - Épreuve facultative de langue vivante étrangère (3)
+EF-Épreuve facultative de langue vivante étrangère (3)
 
 |
 
@@ -284,9 +282,9 @@ Ponctuel oral
 
 * CCF : contrôle en cours de formation.
 
-(1) Dont coefficient 1 pour "Prévention-santé-environnement".
+(1) Dont coefficient 1 pour " Prévention-santé-environnement ".
 
-(2) Dont une heure pour "Prévention-santé-environnement".
+(2) Dont une heure pour " Prévention-santé-environnement ".
 
 (3) Ne sont autorisées que les langues vivantes enseignées dans l'académie. Seuls les points supérieurs à la note de 10/20 sont pris en compte pour la délivrance du diplôme. Cette épreuve est précédée d'un temps égal de préparation.
 
