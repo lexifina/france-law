@@ -34,7 +34,7 @@ L'exploitant établit et tient à jour un dossier comportant les documents suiva
 
 - les plans tenus à jour ;
 
-- le récépissé de déclaration et les prescriptions générales ;
+- la preuve de dépôt de la déclaration et les prescriptions générales ;
 
 - les arrêtés préfectoraux relatifs à l'installation concernée, pris en application des articles L. 512-9 (troisième alinéa) et L. 512-12 du code de l'environnement, s'il y en a ;
 
@@ -50,7 +50,7 @@ Ce dossier est tenu à la disposition de l'inspecteur des installations classée
 
 Objet du contrôle :
 
-- présence du récépissé de déclaration ;
+- présence de la preuve de dépôt de la déclaration ;
 
 - vérification de la puissance thermique nominale au regard de la puissance thermique déclarée ;
 
@@ -164,7 +164,7 @@ Les locaux abritant l'installation présentent les caractéristiques de réactio
 
 - les autres matériaux sont B s1 d0.
 
-La couverture satisfait la classe et l'indice BROOF (t3). De plus, les isolants thermiques (ou l'isolant s'il n'y en a qu'un) sont de classe A2 s1 d0. A défaut, le système "support de couverture + isolants" est de classe B s1 d0 et l'isolant, unique, a un PCS inférieur ou égal à 8,4 MJ/ kg.
+La couverture satisfait la classe et l'indice BROOF (t3). De plus, les isolants thermiques (ou l'isolant s'il n'y en a qu'un) sont de classe A2 s1 d0. A défaut, le système "support de couverture + isolants" est de classe B s1 d0 et l'isolant, unique, a un PCS inférieur ou égal à 8,4 MJ/kg.
 
 Les locaux sont équipés en partie haute de dispositifs permettant l'évacuation des fumées et gaz de combustion dégagés en cas d'incendie (par exemple lanterneaux en toiture, ouvrants en façade ou tout autre moyen équivalent). Les commandes d'ouverture manuelle sont placées à proximité des accès. Le système de désenfumage est adapté aux risques particuliers de l'installation. Les locaux où sont utilisés des combustibles susceptibles de provoquer une explosion sont conçus de manière à limiter les effets de l'explosion à l'extérieur du local (évents, parois de faible résistance...).
 

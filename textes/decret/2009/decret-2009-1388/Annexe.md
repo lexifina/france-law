@@ -16,7 +16,11 @@ Contrôleurs de la concurrence, de la consommation et de la répression des frau
 
 Contrôleurs des services techniques du ministère de l'intérieur.
 
+Dessinateurs projeteurs du ministère des finances.
+
 Géomètres-cadastreurs des finances publiques.
+
+Géomètres de l'Institut national de l'information géographique et forestière.
 
 Inspecteurs du permis de conduire et de la sécurité routière.
 
@@ -57,6 +61,12 @@ Secrétaires des systèmes d'information et de communication du ministère des a
 Techniciens d'art.
 
 Techniciens de formation et de recherche du ministère de l'agriculture.
+
+Techniciens de l'environnement.
+
+Techniciens de police technique et scientifique de la police nationale.
+
+Techniciens de recherche du ministère de la culture.
 
 Techniciens des services culturels et des Bâtiments de France
 

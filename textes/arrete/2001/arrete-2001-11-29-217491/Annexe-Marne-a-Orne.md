@@ -488,547 +488,261 @@ C
 
 Direction départementale des territoires et de la mer du Nord
 
-FONCTIONS EXERCÉES
-
-|
+FONCTIONS EXERCÉES |
 
 NIVEAU
 
 de qualification
 
-de l'emploi
-
-|
+de l'emploi |
 
 NOMBRE
 
-d'emplois
+d'emplois |
 
-|
+NOMBRE DE POINTS
 
-NOMBRE
+(IM) par emploi |
 
-de points (IM)
+Adjoint au chef du service aménagement ville renouvellement urbain |
 
-par emploi
+A |
 
-|
+1 |
 
-Chef du service aménagement ville renouvellement urbain
+25 |
 
-|
+Chef de l'unité instruction administrative et financière-service aménagement ville renouvellement urbain |
 
-A
+A |
 
-|
+1 |
 
-1
+20 |
 
-|
+Chef de l'unité volet social des projets de rénovation urbaine-service aménagement ville renouvellement urbain |
 
-30 points
+A |
 
-|
+1 |
 
-Adjoint au chef du service aménagement ville renouvellement urbain
+20 |
 
-|
+Référent composition urbaine-service aménagement ville renouvellement urbain |
 
-A
+A |
 
-|
+1 |
 
-1
+20 |
 
-|
+Référent programme national de requalification des quartiers anciens dégradés et aménagement-service aménagement ville renouvellement urbain |
 
-25 points
+A |
 
-|
+1 |
 
-Chef de cellule instruction administrative et financière au sein du service
+20 |
 
-aménagement ville renouvellement urbain
+Responsable de projets ANRU en charge de l'élaboration de méthodologies-service aménagement ville renouvellement urbain |
 
-|
+A |
 
-A
+1 |
 
-|
+20 |
 
-1
+Adjoint au chef de l'unité instruction administrative et financière, en charge du suivi de l'activité et instruction financière-service aménagement ville renouvellement urbain |
 
-|
+B |
 
-20 points
+1 |
 
-|
+15 |
 
-Référent social au sein du service aménagement ville renouvellement urbain
+Adjoint au responsable de projets ANRU-service aménagement ville renouvellement urbain |
 
-|
+B |
 
-A
+1 |
 
-|
+15 |
 
-1
+Instructeur de subvention ANRU-service aménagement ville renouvellement urbain |
 
-|
+B |
 
-20 points
+4 |
 
-|
+15 |
 
-Référent composition urbaine au sein du service aménagement ville renouvellement urbain
+Instructeur de subvention ANRU-service aménagement ville renouvellement urbain |
 
-|
+C |
 
-A
+1 |
 
-|
+15 |
 
-1
+Adjoint au chef du service habitat |
 
-|
+A |
 
-20 points
+1 |
 
-|
+25 |
 
-Référent aménagement opérationnel au sein du service aménagement ville renouvellement urbain
+Chef de l'unité suivi des organismes HLM-service habitat |
 
-|
+A |
 
-A
+1 |
 
-|
+20 |
 
-1
+Chef de l'unité droit au logement-éradication habitat indigne-service habitat |
 
-|
+A |
 
-20 points
+1 |
 
-|
+20 |
 
-Référent appui méthodologique au sein du service aménagement ville renouvellement urbain
+Chef de l'unité parc privé-service habitat |
 
-|
+A |
 
-A
+1 |
 
-|
+29 |
 
-1
+Chef de l'unité parc social-service habitat |
 
-|
+A |
 
-20 points
+1 |
 
-|
+20 |
 
-Adjoint au chef du service habitat
+Chargé de mission logement aide durable-service habitat |
 
-|
+B |
 
-A
+1 |
 
-|
+15 |
 
-1
+Adjoint au chef de l'unité parc privé-service habitat |
 
-|
+B |
 
-25 points
+1 |
 
-|
+15 |
 
-Chef de cellule suivi des organismes HLM au sein du service habitat
+Adjoint au responsable de la délégation territoriale des Flandres |
 
-|
+A |
 
-A
+1 |
 
-|
+25 |
 
-1
+Chef de l'unité habitat aménagement constructions durables-délégation territoriale des Flandres |
 
-|
+A |
 
-20 points
+1 |
 
-|
+25 |
 
-Chef de cellule droit au logement-éradication habitat indigne au sein du service habitat
+Chef du pôle DALO-plan départemental d'actions pour le logement des personnes défavorisées-délégation territoriale des Flandres |
 
-|
+B |
 
-A
+1 |
 
-|
+15 |
 
-1
+Adjoint au responsable de la délégation territoriale de Lille |
 
-|
+A |
 
-20 points
+1 |
 
-|
+20 |
 
-Chef de cellule parc privé au sein du service habitat
+Chef de l'unité habitat renouvellement urbain-délégation territoriale de Lille |
 
-|
+A |
 
-A
+1 |
 
-|
+20 |
 
-1
+Chargé d'études observations et suivi d'activité du peuplement-délégation territoriale de Lille |
 
-|
+B |
 
-29 points
+1 |
 
-|
+15 |
 
-Chef de cellule parc social au sein du service habitat
+Chef du pôle DALO-plan départemental d'actions pour le logement des personnes défavorisées-délégation territoriale de Lille |
 
-|
+B |
 
-A
+1 |
 
-|
+15 |
 
-1
+Adjoint au responsable de la délégation territoriale Douaisis et Cambrésis |
 
-|
+A |
 
-20 points
+1 |
 
-|
+20 |
 
-Responsable de la délégation territoriale des Flandres
+Chef de l'unité habitat ville-délégation territoriale Douaisis et Cambrésis |
 
-|
+A |
 
-A
+1 |
 
-|
+20 |
 
-1
+Chef de l'unité habitat ville-délégation territoriale de l'Avesnois |
 
-|
+A |
 
-20 points
+1 |
 
-|
+20 |
 
-Chef de cellule habitat aménagement constructions durables au sein de la délégation territoriale des Flandres
+Chargé d'études habitat ville-délégation territoriale de l'Avesnois |
 
-|
+B |
 
-A
+1 |
 
-|
+15 |
 
-1
+Chef de l'unité logement construction ville-délégation territoriale du Valenciennois |
 
-|
+A |
 
-25 points
+1 |
 
-|
+20 |
 
-Adjoint au responsable de la délégation territoriale de Lille
+Chargé de mission DALO-plan départemental d'actions pour le logement des personnes défavorisées-logement et habitat privé-délégation territoriale du Valenciennois |
 
-|
+B |
 
-A
+1 |
 
-|
-
-1
-
-|
-
-20 points
-
-|
-
-Chef de cellule politiques de l'habitat au sein de la délégation territoriale de Lille
-
-|
-
-A
-
-|
-
-1
-
-|
-
-20 points
-
-|
-
-Adjoint au responsable de la délégation territoriale du Douaisis et Cambrésis
-
-|
-
-A
-
-|
-
-1
-
-|
-
-20 points
-
-|
-
-Chef de cellule habitat ville au sein de la délégation territoriale de l'Avesnois
-
-|
-
-A
-
-|
-
-1
-
-|
-
-20 points
-
-|
-
-Chef de cellule habitat ville au sein de la délégation territoriale du Valenciennois
-
-|
-
-A
-
-|
-
-1
-
-|
-
-20 points
-
-|
-
-Adjoint au chef de la cellule instruction administrative et financière au sein du service
-
-aménagement ville renouvellement urbain
-
-|
-
-B
-
-|
-
-1
-
-|
-
-15 points
-
-|
-
-Chargé du centre de ressources au sein du service aménagement ville renouvellement urbain
-
-|
-
-B
-
-|
-
-1
-
-|
-
-15 points
-
-|
-
-Chargé d'études au sein du service aménagement ville renouvellement urbain
-
-|
-
-B
-
-|
-
-1
-
-|
-
-15 points
-
-|
-
-Instructeur ANRU au sein du service aménagement ville renouvellement urbain
-
-|
-
-B
-
-|
-
-2
-
-|
-
-15 points
-
-|
-
-Chargé de mission logement aidé durable au sein du service habitat
-
-|
-
-B
-
-|
-
-1
-
-|
-
-15 points
-
-|
-
-Adjoint au chef de cellule parc privé au sein du service habitat
-
-|
-
-B
-
-|
-
-1
-
-|
-
-15 points
-
-|
-
-Chargé de programmation logement au sein de la délégation territoriale des Flandres
-
-|
-
-B
-
-|
-
-1
-
-|
-
-15 points
-
-|
-
-Chargé de mission PDALPD et insalubrité au sein de la délégation territoriale de Lille
-
-|
-
-B
-
-|
-
-1
-
-|
-
-15 points
-
-|
-
-Chef de pôle DALO au sein de la délégation territoriale de Lille
-
-|
-
-B
-
-|
-
-1
-
-|
-
-15 points
-
-|
-
-Chef de pôle DALO au sein de la délégation territoriale du Douaisis et Cambrésis
-
-|
-
-B
-
-|
-
-1
-
-|
-
-15 points
-
-|
-
-Chargé d'études habitat au sein de la délégation territoriale de l'Avesnois
-
-|
-
-B
-
-|
-
-1
-
-|
-
-15 points
-
-|
-
-Chef de pôle DALO au sein de la délégation territoriale du Valenciennois
-
-|
-
-B
-
-|
-
-1
-
-|
-
-15 points
-
-|
-
-Instructeur gestionnaires parc social au sein du service habitat
-
-|
-
-C
-
-|
-
-1
-
-|
-
-15 points
-
-|
+15 |
 
 Direction départementale de la cohésion sociale du Nord
 
@@ -1062,33 +776,21 @@ Mission accès au logement
 
 |
 
-A
+A |
 
-|
+1 |
 
-1
-
-|
-
-15 points
-
-|
+15 points |
 
 Mission accès au logement
 
 |
 
-B
+B |
 
-|
+1 |
 
-1
-
-|
-
-15 points
-
-|
+15 points |
 
 Direction départementale de l'équipement et de l'agriculture (2) de l'Oise
 

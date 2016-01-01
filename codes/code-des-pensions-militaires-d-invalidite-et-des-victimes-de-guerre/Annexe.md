@@ -4,7 +4,7 @@ LISTE DES CORPS EXCLUS DU DISPOSITIF DES EMPLOIS RÉSERVÉS PRÉVUE À L'ARTICLE
 
 I. - Corps relevant du ministère de l'intérieur, de l'outre-mer et des collectivités territoriales :
 
-Techniciens de police scientifique et technique (décret n° 2005-1204 du 29 septembre 2005).
+Techniciens de police scientifique et technique (décret n° 2016-1677 du 5 décembre 2016).
 
 II. - Corps relevant du ministère des affaires étrangères et européennes :
 

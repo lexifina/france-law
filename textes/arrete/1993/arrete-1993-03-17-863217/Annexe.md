@@ -1,52 +1,68 @@
 # Article Annexe
 
-CENTRE NATIONAL DE DOCUMENTATION PÉDAGOGIQUE ET CENTRES RÉGIONAUX DE DOCUMENTATION PÉDAGOGIQUES
+DÉSIGNATION DES EMPLOIS
 
-Désignation des emplois correspondant aux fonctions mentionnées dans le décret n° 93-375 du 17 mars 1993 modifié
+correspondant aux fonctions
 
-|
+mentionnées
 
-Niveau des responsabilités exercées
+dans le décret n° 93-375
 
-|
-
-Attribution au 1er août 1994
+du 17 mars 1993 modifié
 
 |
 
-Attribution au 1er août 1995
+NIVEAU
+
+des responsabilités
+
+exercées
 
 |
 
-Attribution au 1er août 1996
+BONIFICATION INDICIAIRE
+
+(en points d'indice majoré)
+
+par agent
 
 |
 
-Points
+AU 1er JANVIER 2016
 
 |
 
-Emplois
+Nombre d'emplois
 
 |
 
-Points
+Nombre total
+
+de points attribués
 
 |
 
-Emplois
+Secrétaire général
 
 |
 
-Points
+A
 
 |
 
-Emplois
+50
 
 |
 
-Chefs de division, de service ou chargé de mission au CNDP
+1
+
+|
+
+50
+
+|
+
+Directeur fonctionnel, directeur académique, secrétaire général adjoint
 
 |
 
@@ -55,6 +71,46 @@ A
 |
 
 40
+
+|
+
+22
+
+|
+
+880
+
+|
+
+Agent comptable
+
+|
+
+A
+
+|
+
+40
+
+|
+
+1
+
+|
+
+40
+
+|
+
+Directeur territorial adjoint
+
+|
+
+A
+
+|
+
+35
 
 |
 
@@ -62,43 +118,11 @@ A
 
 |
 
-40
+420
 
 |
 
-13
-
-|
-
-|
-
-|
-
-Agent comptable du CNDP
-
-|
-
-A
-
-|
-
-40
-
-|
-
-1
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Agents comptables des CRDP et du CDP de Nouvelle Calédonie à temps complet
+Responsable administratif et financier, mandataire de l'agent comptable
 
 |
 
@@ -107,6 +131,26 @@ A
 |
 
 30
+
+|
+
+16
+
+|
+
+480
+
+|
+
+Directeur fonctionnel adjoint
+
+|
+
+A
+
+|
+
+20
 
 |
 
@@ -114,107 +158,11 @@ A
 
 |
 
-30
+280
 
 |
 
-15
-
-|
-
-30
-
-|
-
-28
-
-|
-
-Directeurs adjoints ou chefs de service des CRDP
-
-|
-
-A-B
-
-|
-
-|
-
-|
-
-30
-
-|
-
-9
-
-|
-
-30
-
-|
-
-28
-
-|
-
-Secrétaires généraux des CRDP
-
-|
-
-A
-
-|
-
-de 20 à 30 points dans la limite de 700 points
-
-|
-
-28
-
-|
-
-|
-
-|
-
-30
-
-|
-
-28
-
-|
-
-Chefs d'unités du CNDP
-
-|
-
-A-B
-
-|
-
-10
-
-|
-
-1
-
-|
-
-25
-
-|
-
-8
-
-|
-
-|
-
-|
-
-Secrétaires de direction ou de services et personnels qualifiés dans des domaines techniques au CNDP
+Assistant de direction (site de Chasseneuil), agent d'accueil (site de Chasseneuil)
 
 |
 
@@ -226,22 +174,8 @@ B-C
 
 |
 
-8
+5
 
 |
 
-10
-
-|
-
-11
-
-|
-
-10
-
-|
-
-18
-
-|
+50 |

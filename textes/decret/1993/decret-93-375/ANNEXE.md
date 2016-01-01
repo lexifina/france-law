@@ -16,17 +16,25 @@
 
 - personnels qualifiés dans le domaine de la gestion et de la comptabilité.
 
-3. Fonctions pouvant donner lieu au versement d'une nouvelle bonification indiciaire et exercées au Centre national de documentation pédagogique (C.N.D.P.) et dans les centres régionaux de documentation pédagogique (C.R.D.P.) :
+3. Fonctions pouvant donner lieu au versement d'une nouvelle bonification indiciaire et exercées au Réseau Canopé :
 
-- responsables d'unités administratives chargés des affaires financières, juridiques et de la gestion de personnel ;
+- directeur territorial adjoint ;
 
-- responsables dans les domaines de l'édition, de la documentation et de l'audiovisuel ;
+- secrétaire général, secrétaire général adjoint ;
 
-- responsabilités spécifiques exercées dans le domaine de la diffusion ;
+- directeur fonctionnel, directeur fonctionnel adjoint ;
 
-- responsables de services ou d'équipes techniques ;
+- directeur académique ;
 
-- responsables de l'encadrement dans les centres régionaux de documentation pédagogique et fonctions de secrétariat ou personnels qualifiés dans les domaines techniques au Centre national de documentation pédagogique ;
+- responsable administratif et financier ;
+
+- agent comptable ;
+
+- mandataire de l'agent comptable ;
+
+- assistant de direction (site de Chasseneuil) ;
+
+- agent d'accueil (site de Chasseneuil).
 
 4. Fonctions pouvant donner lieu au versement d'une nouvelle bonification indiciaire et exercées au Centre d'études et de recherches sur les qualifications (C.E.R.E.Q.) :
 
@@ -42,7 +50,7 @@
 
 - fonctions de techniciens, de secrétariat ou de responsabilité dans un secteur d'activité ;
 
-- fonctions de direction de centres d'enseignement ou de l'école de formation à l'enseignement à distance
+- fonctions de direction de centres d'enseignement ou de l'école de formation à l'enseignement à distance.
 
 6. Fonctions pouvant donner lieu au versement d'une nouvelle bonification indiciaire et exercées au Centre international d'études pédagogiques (C.I.E.P.) :
 
@@ -52,7 +60,7 @@
 
 - responsables d'unités administratives chargés des affaires financières et de la gestion de personnel ;
 
-- responsables de services ou d'équipes techniques.
+- responsables de services ou d'équipes techniques ;
 
 - responsable d'unité administrative délocalisée du Centre international d'études pédagogiques .
 

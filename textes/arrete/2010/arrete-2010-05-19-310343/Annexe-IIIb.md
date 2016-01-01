@@ -1,10 +1,8 @@
 # Article Annexe IIIb
 
-Annexe III b
-
 Définition des épreuves
 
-EP1 - Distribution UP1
+EP1-Distribution UP1
 
 Coefficient : 5
 
@@ -14,11 +12,11 @@ L'épreuve vise à évaluer les compétences professionnelles du candidat dans l
 
 La situation ne comporte aucun élément exceptionnel. Le candidat doit pouvoir recourir aux matériels et véhicules qu'il a utilisés durant sa formation ou, à défaut, à des matériels et des véhicules dont il est censé connaître le maniement, au regard des exigences du diplôme.
 
-Les compétences évaluées sont celles qui figurent dans les activités 1, 2, 3 et 5 du référentiel de certification à savoir, la réalisation des travaux :
+Les compétences évaluées sont celles qui figurent dans les activités 1,2,3 et 5 du référentiel de certification à savoir, la réalisation des travaux :
 
 • préparatoires à la distribution ;
 
-• de distribution et/ou de collecte des objets ;
+• de distribution et/ ou de collecte des objets ;
 
 • de retour de distribution,
 
@@ -30,17 +28,17 @@ Evaluation par contrôle en cours de formation
 
 La durée de l'épreuve peut être variable, en fonction des contraintes matérielles liées au déroulement de la situation d'évaluation. Elle ne peut excéder 2 heures.
 
-L'épreuve, à caractère pratique, prend appui sur une situation professionnelle de distribution, vécue par le candidat pendant sa formation en milieu professionnel. Elle consiste, pour le professionnel ou le(s) formateur(s) ayant eu en charge la formation du candidat en milieu professionnel, à évaluer en situation réelle de travail, les compétences acquises en matière de distribution (incluant préparation, distribution et/ou collecte et retour) et d'utilisation des véhicules et des matériels nécessaires.
+L'épreuve, à caractère pratique, prend appui sur une situation professionnelle de distribution, vécue par le candidat pendant sa formation en milieu professionnel. Elle consiste, pour le professionnel ou le (s) formateur (s) ayant eu en charge la formation du candidat en milieu professionnel, à évaluer en situation réelle de travail, les compétences acquises en matière de distribution (incluant préparation, distribution et/ ou collecte et retour) et d'utilisation des véhicules et des matériels nécessaires.
 
 L'évaluation est conduite au moyen d'une grille d'évaluation définie nationalement.
 
-Evaluation par épreuve ponctuelle - Durée : 2 heures
+Evaluation par épreuve ponctuelle-Durée : 2 heures
 
 D'une durée de 2 heures, l'épreuve ponctuelle consiste en une simulation d'une situation de travail, comportant plusieurs ateliers intégrant les travaux suivants :
 
 • préparation de la distribution ;
 
-• distribution et/ou collecte d'objets ;
+• distribution et/ ou collecte d'objets ;
 
 • retour de distribution,
 
@@ -52,7 +50,7 @@ Le jury est composé de 2 personnes par atelier : 1 enseignant ou formateur et 1
 
 La grille d'évaluation utilisée est la même que celle utilisée pour l'épreuve en contrôle en cours de formation.
 
-EP2 - Gestion de la relation client UP2
+EP2-Gestion de la relation client UP2
 
 Coefficient : 5
 
@@ -60,7 +58,7 @@ Objectifs et contenus de l'épreuve
 
 L'épreuve vise à évaluer les compétences du candidat en matière de communication professionnelle avec un client, dans le cadre d'une activité de service. Elle permet l'évaluation des compétences figurant dans le domaine d'activité 4 du référentiel de certification (La promotion et la mise en œuvre des services de l'entreprise).
 
-L'épreuve prend appui sur un Dossier d'activités de services élaboré par le candidat de manière individuelle durant sa formation ou dans le cadre de ses activités professionnelles. Ce dossier comporte 3 Fiches descriptives d'activités de services , rédigées par le candidat selon un modèle défini nationalement. Chaque fiche décrit une activité de service (promotion ou mise en œuvre) de nature différente, à laquelle le candidat a participé, soit en autonomie, soit en compagnie d'un professionnel.
+L'épreuve prend appui sur un Dossier d'activités de services élaboré par le candidat de manière individuelle durant sa formation ou dans le cadre de ses activités professionnelles. Ce dossier comporte 3 Fiches descriptives d'activités de services, rédigées par le candidat selon un modèle défini nationalement. Chaque fiche décrit une activité de service (promotion ou mise en œuvre) de nature différente, à laquelle le candidat a participé, soit en autonomie, soit en compagnie d'un professionnel.
 
 Modes d'évaluation
 
@@ -78,7 +76,7 @@ Les 20 minutes restantes prennent la forme d'un dialogue qui doit permettre au c
 
 L'évaluation est conduite au moyen d'une grille d'évaluation définie nationalement.
 
-Evaluation par épreuve ponctuelle - Durée 30 minutes
+Evaluation par épreuve ponctuelle-Durée 30 minutes
 
 D'une durée de 30 minutes maximum, l'épreuve ponctuelle consiste en un entretien avec une commission composée de deux à trois personnes :
 
@@ -86,11 +84,11 @@ D'une durée de 30 minutes maximum, l'épreuve ponctuelle consiste en un entreti
 
 • un ou deux enseignants (ou formateurs) chargés de l'enseignement :
 
-- de la Communication professionnelle ,
+-de la Communication professionnelle,
 
-- et/ou des Techniques professionnelles ,
+-et/ ou des Techniques professionnelles,
 
-- et/ou de l'Environnement Économique et Juridique .
+-et/ ou de l'Environnement Économique et Juridique.
 
 En cas d'absence, le professionnel peut être remplacé par un enseignant (ou un formateur) du domaine professionnel.
 
@@ -108,7 +106,7 @@ Coefficient 5 (4 + 1 pour la PSE)
 
 Objectifs et contenus de l'épreuve
 
-L'épreuve a pour objectif d'évaluer les connaissances du candidat des domaines d'activités 1, 2, 3,4 et 5 du référentiel de certification y compris celles relevant de l'Environnement Économique et Juridique. Elle vise également à évaluer la capacité du candidat à analyser une ou plusieurs situations professionnelles présentant un caractère exceptionnel et à proposer des solutions adaptées.
+L'épreuve a pour objectif d'évaluer les connaissances du candidat des domaines d'activités 1,2,3,4 et 5 du référentiel de certification y compris celles relevant de l'Environnement Économique et Juridique. Elle vise également à évaluer la capacité du candidat à analyser une ou plusieurs situations professionnelles présentant un caractère exceptionnel et à proposer des solutions adaptées.
 
 L'épreuve est écrite, d'une durée de 2 heures.
 
@@ -140,21 +138,21 @@ Selon les exigences des différentes parties de l'épreuve, les réponses du can
 
 L'épreuve est corrigée par une équipe pédagogique constituée de toutes les disciplines d'enseignement représentées dans le sujet.
 
-PREVENTION - SANTE - ENVIRONNEMENT coefficient 1
+PREVENTION-SANTE-ENVIRONNEMENT coefficient 1
 
-1- Objectifs de l'épreuve :
+1-Objectifs de l'épreuve :
 
-L'épreuve a pour objectif d'évaluer les compétences du candidat à : Conduire une démarche d'analyse de situations en appliquant la démarche de résolution de problème et/ou l'approche par le risque Mobiliser des connaissances scientifiques, juridiques et économiques Proposer des mesures de prévention adaptées Agir de façon efficace face à une situation d'urgence L'évaluation porte notamment sur :le respect des étapes de la démarche mise en œuvre, l'exactitude des connaissances, la pertinence des mesures de prévention proposées, l'efficacité de l'action face à une situation d'urgence.
+L'épreuve a pour objectif d'évaluer les compétences du candidat à : Conduire une démarche d'analyse de situations en appliquant la démarche de résolution de problème et/ ou l'approche par le risque Mobiliser des connaissances scientifiques, juridiques et économiques Proposer des mesures de prévention adaptées Agir de façon efficace face à une situation d'urgence L'évaluation porte notamment sur : le respect des étapes de la démarche mise en œuvre, l'exactitude des connaissances, la pertinence des mesures de prévention proposées, l'efficacité de l'action face à une situation d'urgence.
 
-2 - Modalités d'évaluation :
+2-Modalités d'évaluation :
 
 a) Contrôle en cours de formation (noté sur 20)
 
 Le contrôle en cours de formation est organisé à partir de deux situations d'évaluation. Chaque situation est notée sur 10 points.
 
--première situation d'évaluation : écrite - 1 heure
+-première situation d'évaluation : écrite-1 heure
 
-Elle permet en fin de première année de formation l'évaluation par sondage des compétences des modules 1, 2 et 3, santé, consommation et parcours professionnel. Le sujet comporte plusieurs questions indépendantes ou liées sur les modules correspondants. Il permet d'évaluer des capacités et des connaissances. A partir d'une situation de la vie professionnelle ou quotidienne, le candidat doit notamment appliquer une démarche d'analyse.
+Elle permet en fin de première année de formation l'évaluation par sondage des compétences des modules 1,2 et 3, santé, consommation et parcours professionnel. Le sujet comporte plusieurs questions indépendantes ou liées sur les modules correspondants. Il permet d'évaluer des capacités et des connaissances. A partir d'une situation de la vie professionnelle ou quotidienne, le candidat doit notamment appliquer une démarche d'analyse.
 
 -deuxième situation d'évaluation :
 
@@ -184,13 +182,13 @@ En ce qui concerne l'évaluation d'un risque professionnel, elle pourra porter s
 
 Épreuves d'enseignement général
 
-EG1 - Français et histoire-géographie - Éducation civique UG1
+EG1-Français et histoire-géographie-Éducation civique UG1
 
-Coefficient:3
+Coefficient : 3
 
 Objectifs
 
-L'épreuve de français et d'histoire - géographie - éducation civique* permet d'apprécier :
+L'épreuve de français et d'histoire-géographie-éducation civique* permet d'apprécier :
 
 • les qualités de lecture et d'analyse de textes documentaires, de textes fictionnels, de documents iconographiques, de documents de nature historique et géographique ;
 
@@ -202,7 +200,7 @@ Modes d'évaluation
 
 Évaluation par contrôle en cours de formation
 
-L'épreuve de français et d'histoire - géographie- éducation civique* est constituée de deux situations d'évaluation, comprenant chacune deux parties : une partie écrite en français, une partie orale en histoire - géographie- éducation civique.
+L'épreuve de français et d'histoire-géographie-éducation civique* est constituée de deux situations d'évaluation, comprenant chacune deux parties : une partie écrite en français, une partie orale en histoire-géographie- enseignement moral et civique.
 
 Les deux situations d'évaluation sont évaluées à part égale. Par ailleurs, les deux parties de chaque situation d'évaluation, évaluent des compétences complémentaires, à parts égales.
 
@@ -210,7 +208,7 @@ L'évaluation se déroule dans la deuxième moitié de la formation. Toutefois, 
 
 Une proposition de note, sur 20, est établie. La note définitive est délivrée par le jury
 
-A -Première situation d'évaluation
+A-Première situation d'évaluation
 
 • Première partie (français)
 
@@ -224,7 +222,7 @@ Dans la troisième étape, le candidat finalise sa production, notamment à l'ai
 
 Les trois séances, d'une durée d'environ quarante minutes, s'échelonnent sur une durée de quinze jours.
 
-• Deuxième partie (histoire-géographie- éducation civique)
+• Deuxième partie (histoire-géographie- enseignement moral et civique)
 
 Le candidat présente oralement un dossier (constitué individuellement ou par groupe) comprenant trois ou quatre documents de nature variée (textes, images, tableaux de chiffres, cartes...).
 
@@ -244,19 +242,19 @@ Le candidat répond par écrit, sur un texte fictionnel ou un document iconograp
 
 La durée est d'environ une heure trente minutes.
 
-• Deuxième partie (histoire-géographie- éducation civique)
+• Deuxième partie (histoire-géographie- enseignement moral et civique)
 
-Se référer à la deuxième partie de la situation n° 1. Seule la dominante change (histoire ou géographie- éducation civique).
+Se référer à la deuxième partie de la situation n° 1. Seule la dominante change (histoire ou géographie- enseignement moral et civique).
 
-Évaluation par épreuve ponctuelle - 2 heures + 15 minutes
+Évaluation par épreuve ponctuelle-2 heures + 15 minutes
 
-C) Les deux parties de l'épreuve (français et histoire-géographie- éducation civique), qui évaluent des compétences complémentaires, sont évaluées à part égale, sur 10 points.
+C) Les deux parties de l'épreuve (français et histoire-géographie- enseignement moral et civique), qui évaluent des compétences complémentaires, sont évaluées à part égale, sur 10 points.
 
 1) Première partie (français)
 
 Le candidat répond par écrit, sur un texte fictionnel, à des questions de vocabulaire et de compréhension. Il rédige ensuite, dans une situation de communication définie par un type de discours, soit un récit, un dialogue, une description, un portrait, une opinion argumentée (quinze à vingt lignes), soit une courte production écrite répondant à une consigne en lien avec l'expérience professionnelle (quinze à vingt lignes).
 
-2) Deuxième partie (histoire - géographie - éducation civique)* :
+2) Deuxième partie (histoire-géographie- enseignement moral et civique) * :
 
 Le candidat se présente à l'épreuve avec deux dossiers qu'il a préalablement constitués, un à dominante histoire, l'autre à dominante géographie, comprenant chacun trois ou quatre documents de nature variée (textes, images, tableaux de chiffres, cartes...). Un de ces documents peut comporter une dimension civique en lien avec le programme d'éducation civique*.
 
@@ -268,7 +266,7 @@ L'examinateur choisit l'un des deux dossiers. Le candidat présente oralement, p
 
 En l'absence de dossier le candidat peut néanmoins passer l'épreuve.
 
-EG 2 - Mathématiques - Sciences physiques et chimiques UG2
+EG 2-Mathématiques-Sciences physiques et chimiques UG2
 
 Coefficient : 2
 
@@ -282,7 +280,7 @@ Pour les autres candidats les premières séquences doivent être organisées av
 
 Une proposition de note est établie. La note définitive est délivrée par le jury.
 
-- La situation d'évaluation en mathématiques (notée sur 20)
+-La situation d'évaluation en mathématiques (notée sur 20)
 
 Cette évaluation en mathématiques d'une durée totale d'une heure environ est fractionnée dans le temps en deux séquences, chacune notée sur 10.
 
@@ -290,7 +288,7 @@ L'évaluation est conçue comme un sondage probant sur des compétences du réf�
 
 Les sujets portent principalement sur les domaines mathématiques les plus utiles pour résoudre un problème en liaison avec les sciences physiques et chimiques, un secteur professionnel ou la vie courante. Lorsque la situation s'appuie sur d'autres disciplines, aucune connaissance relative à ces disciplines n'est exigible des candidats et toutes les indications utiles doivent être fournies dans l'énoncé.
 
-- La situation d'évaluation en sciences physiques et chimiques (notée sur 20)
+-La situation d'évaluation en sciences physiques et chimiques (notée sur 20)
 
 Cette situation d'évaluation en sciences physiques ou chimiques d'une durée d'une heure environ est fractionnée dans le temps en deux séquences, chacune notée sur 10
 
@@ -318,13 +316,13 @@ Le candidat porte, sur une fiche qu'il complète en cours de manipulation, les r
 
 L'épreuve d'une durée de deux heures, notée sur 20 points, comporte deux parties écrites d'égale importance concernant l'une les mathématiques, l'autre les sciences physiques et chimiques.
 
-• - Partie Mathématiques (notée sur 10 points) : 1 heure
+•-Partie Mathématiques (notée sur 10 points) : 1 heure
 
 • Le sujet se compose de deux ou trois exercices avec des questions de difficulté progressive recouvrant une part aussi large que possible des capacités et connaissances mentionnées dans le référentiel de CAP.
 
 • Les thèmes mathématiques concernés portent principalement sur les domaines mathématiques les plus utiles pour résoudre un problème en liaison avec la physique, la chimie, un secteur professionnel ou la vie courante. Lorsque la situation s'appuie sur d'autres disciplines, aucune connaissance relative à ces disciplines n'est exigible des candidats et toutes les indications utiles doivent être fournies dans l'énoncé.
 
-• - Partie Sciences physiques et chimiques (notée sur 10 points) : 1 heure
+•-Partie Sciences physiques et chimiques (notée sur 10 points) : 1 heure
 
 Le sujet doit porter sur des champs différents de la Physique et de la Chimie. Il se compose de deux parties :
 
@@ -332,11 +330,11 @@ Le sujet doit porter sur des champs différents de la Physique et de la Chimie. 
 
 Un exercice restitue une expérience ou un protocole opératoire, à partir d'un texte court et éventuellement d'un schéma. Au sujet de cette expérience décrite, quelques questions conduisent le candidat, par exemple à :
 
-- montrer ses connaissances ;
+-montrer ses connaissances ;
 
-- relever des observations pertinentes ;
+-relever des observations pertinentes ;
 
-- organiser les observations fournies, en déduire une interprétation et, plus généralement, exploiter les résultats.
+-organiser les observations fournies, en déduire une interprétation et, plus généralement, exploiter les résultats.
 
 • Deuxième partie
 
@@ -374,7 +372,7 @@ Calculatrices et formulaires
 
 • Les examinateurs et les correcteurs ne manifesteront pas d'exigences de formulation démesurées, et prêteront une attention particulière aux démarches engagées, aux tentatives pertinentes, aux résultats partiels.
 
-EG 3 - Éducation physique et sportive UG3
+EG 3-Éducation physique et sportive UG3
 
 Coefficient : 1
 
@@ -382,10 +380,10 @@ Les modalités de l'épreuve d'éducation physique et sportive sont définies pa
 
 Epreuve facultative : langue vivante UF
 
-Épreuve orale - durée : 20 mn - préparation : 20 mn
+Épreuve orale-durée : 20 mn-préparation : 20 mn
 
 Arrêté du 17 juin 2003 fixant les unités générales du certificat d'aptitude professionnelle et définissant les modalités d'évaluation de l'enseignement général.
 
 Arrêté du 10 février 2009 fixant le programme d'enseignement des langues vivantes étrangères pour les classes préparatoires au certificat d'aptitude professionnelle et pour les classes préparatoires au baccalauréat professionnel.
 
-L'épreuve comporte un entretien se rapportant soit à un document étudié au cours de la formation (texte ou image), soit à un document lié à l'activité et/ou à l'expérience du candidat.
+L'épreuve comporte un entretien se rapportant soit à un document étudié au cours de la formation (texte ou image), soit à un document lié à l'activité et/ ou à l'expérience du candidat.

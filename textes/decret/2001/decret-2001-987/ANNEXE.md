@@ -1,6 +1,6 @@
 # Article ANNEXE
 
-A.-Fonctions pouvant donner lieu au versement d'une nouvelle bonification indiciaire à l'administration centrale des ministères chargés de l'éducation nationale, de l'enseignement supérieur et de la recherche :
+A. - Fonctions pouvant donner lieu au versement d'une nouvelle bonification indiciaire à l'administration centrale des ministères chargés de l'éducation nationale, de l'enseignement supérieur et de la recherche :
 
 1° Secrétaire général ;
 
@@ -31,3 +31,9 @@ B. - Fonctions pouvant donner lieu au versement d'une nouvelle bonification indi
 6° Inspecteur d'académie adjoint en fonctions dans les départements d'outre-mer ;
 
 7° Directeur du service interacadémique des examens et concours des académies de Créteil, Paris et Versailles.
+
+C. - Fonctions pouvant donner lieu au versement d'une nouvelle bonification indiciaire dans l'établissement public Réseau Canopé relevant du ministère chargé de l'éducation nationale :
+
+1° Directeur général adjoint ;
+
+2° Directeur territorial.

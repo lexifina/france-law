@@ -1,6 +1,6 @@
 # Article 3 bis
 
-I.-L'échelonnement indiciaire applicable aux cadres de santé paramédicaux civils du ministère de la défense, régis par le décret n° 2015-303 du 17 mars 2015 portant statut particulier du corps des cadres de santé paramédicaux civils du ministère de la défense, est fixé ainsi qu'il suit :
+L'échelonnement indiciaire applicable aux cadres de santé paramédicaux civils du ministère de la défense régis par le décret n° 2015-303 du 17 mars 2015portant statut particulier du corps des cadres de santé paramédicaux civils du ministère de la défense, est fixé ainsi qu'il suit :
 
 GRADES ET ÉCHELONS
 
@@ -8,9 +8,45 @@ GRADES ET ÉCHELONS
 
 INDICES BRUTS
 
+à compter
+
+du 1er janvier 2016
+
+|
+
+INDICES BRUTS
+
+à compter
+
+du 1er janvier 2017
+
+|
+
+INDICES BRUTS
+
+à compter
+
+du 1er janvier 2018
+
+|
+
+INDICES BRUTS
+
+à compter
+
+du 1er janvier 2019
+
 |
 
 Cadre supérieur de santé paramédical
+
+|
+
+|
+
+|
+
+|
 
 |
 
@@ -18,7 +54,19 @@ Cadre supérieur de santé paramédical
 
 |
 
-820
+906
+
+|
+
+914
+
+|
+
+928
+
+|
+
+940
 
 |
 
@@ -26,7 +74,19 @@ Cadre supérieur de santé paramédical
 
 |
 
-800
+859
+
+|
+
+875
+
+|
+
+879
+
+|
+
+883
 
 |
 
@@ -34,47 +94,23 @@ Cadre supérieur de santé paramédical
 
 |
 
-771
+812
+
+|
+
+827
+
+|
+
+831
+
+|
+
+835
 
 |
 
 4e échelon
-
-|
-
-728
-
-|
-
-3e échelon
-
-|
-
-701
-
-|
-
-2e échelon
-
-|
-
-668
-
-|
-
-1er échelon
-
-|
-
-642
-
-|
-
-Cadre de santé paramédical
-
-|
-
-11e échelon
 
 |
 
@@ -82,59 +118,15 @@ Cadre de santé paramédical
 
 |
 
-10e échelon
+778
 
 |
 
-747
+781
 
 |
 
-9e échelon
-
-|
-
-712
-
-|
-
-8e échelon
-
-|
-
-686
-
-|
-
-7e échelon
-
-|
-
-646
-
-|
-
-6e échelon
-
-|
-
-614
-
-|
-
-5e échelon
-
-|
-
-593
-
-|
-
-4e échelon
-
-|
-
-562
+791
 
 |
 
@@ -142,7 +134,19 @@ Cadre de santé paramédical
 
 |
 
-524
+728
+
+|
+
+736
+
+|
+
+740
+
+|
+
+748
 
 |
 
@@ -150,7 +154,19 @@ Cadre de santé paramédical
 
 |
 
-505
+694
+
+|
+
+709
+
+|
+
+713
+
+|
+
+716
 
 |
 
@@ -158,77 +174,19 @@ Cadre de santé paramédical
 
 |
 
-490
+664
 
 |
 
-II.-A compter du 1er juillet 2015, l'échelonnement indiciaire applicable au corps des cadres de santé paramédicaux civils du ministère de la défense, régis par le décret n° 2015-303 du 17 mars 2015 précité, est fixé ainsi qu'il suit :
-
-GRADES ET ÉCHELONS
+672
 
 |
 
-INDICES BRUTS
+676
 
 |
 
-Cadre supérieur de santé paramédical
-
-|
-
-7e échelon
-
-|
-
-901
-
-|
-
-6e échelon
-
-|
-
-854
-
-|
-
-5e échelon
-
-|
-
-807
-
-|
-
-4e échelon
-
-|
-
-765
-
-|
-
-3e échelon
-
-|
-
-723
-
-|
-
-2e échelon
-
-|
-
-688
-
-|
-
-1er échelon
-
-|
-
-659
+680
 
 |
 
@@ -236,11 +194,31 @@ Cadre de santé paramédical
 
 |
 
+|
+
+|
+
+|
+
+|
+
 11e échelon
 
 |
 
-801
+807
+
+|
+
+815
+
+|
+
+822
+
+|
+
+830
 
 |
 
@@ -248,7 +226,19 @@ Cadre de santé paramédical
 
 |
 
-773
+778
+
+|
+
+785
+
+|
+
+789
+
+|
+
+793
 
 |
 
@@ -256,7 +246,19 @@ Cadre de santé paramédical
 
 |
 
-742
+747
+
+|
+
+760
+
+|
+
+765
+
+|
+
+778
 
 |
 
@@ -264,7 +266,19 @@ Cadre de santé paramédical
 
 |
 
-712
+717
+
+|
+
+725
+
+|
+
+729
+
+|
+
+741
 
 |
 
@@ -272,7 +286,19 @@ Cadre de santé paramédical
 
 |
 
-682
+687
+
+|
+
+702
+
+|
+
+706
+
+|
+
+710
 
 |
 
@@ -280,7 +306,19 @@ Cadre de santé paramédical
 
 |
 
-649
+655
+
+|
+
+661
+
+|
+
+665
+
+|
+
+674
 
 |
 
@@ -288,7 +326,19 @@ Cadre de santé paramédical
 
 |
 
-617
+622
+
+|
+
+630
+
+|
+
+634
+
+|
+
+645
 
 |
 
@@ -296,7 +346,19 @@ Cadre de santé paramédical
 
 |
 
-584
+589
+
+|
+
+597
+
+|
+
+601
+
+|
+
+614
 
 |
 
@@ -304,7 +366,19 @@ Cadre de santé paramédical
 
 |
 
-558
+563
+
+|
+
+573
+
+|
+
+577
+
+|
+
+585
 
 |
 
@@ -312,7 +386,19 @@ Cadre de santé paramédical
 
 |
 
-527
+532
+
+|
+
+543
+
+|
+
+547
+
+|
+
+554
 
 |
 
@@ -320,6 +406,16 @@ Cadre de santé paramédical
 
 |
 
-516
+521
 
 |
+
+531
+
+|
+
+538
+
+|
+
+541 |

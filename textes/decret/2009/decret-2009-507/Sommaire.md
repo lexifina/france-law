@@ -208,6 +208,8 @@ Radar
 
 4.06 Radar.
 
+4.07 AIS Intérieur et ECDIS Intérieur.
+
 CHAPITRE V :
 
 Signalisation et balisage de la voie navigable
@@ -444,16 +446,4 @@ Annexe 10 : Modèle de carnet de contrôle des huiles usées.
 
 NOTA :
 
-Conformément à la décision CM-I-13-4.5-8-1 du 13 juin 2013, l'amendement entre en vigueur le 1er juin 2014.
-
-Conformément à la décision CM-I-13-4.5-9-1 du 13 juin 2013, l'amendement entre en vigueur le 1er juin 2014.
-
-Conformément à la décision CM-I-13-4.5-5-1 du 13 juin 2013, l'amendement entre en vigueur le 1er juin 2014.
-
-Conformément à la décision CM-I-13-4.5-10-1 du 13 juin 2013, l'amendement entre en vigueur le 1er juin 2014.
-
-Conformément à la décision CM-I-13-4.5-2-1 du 13 juin 2013, l'amendement entre en vigueur le 1er juin 2014.
-
-Conformément à la décision CM-I-13-4.5-4-1 du 13 juin 2013, l'amendement entre en vigueur le 1er juin 2014.
-
-Conformément à la décision CM-I-13-4.3-1-1 du 13 juin 2013, l'amendement entre en vigueur le 1er juin 2014.
+Conformément à la décision CM-I-15-5.2-1-2 du 11 juin 2015, l'amendement entrera en vigueur le 1er janvier 2016.

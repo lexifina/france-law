@@ -212,7 +212,7 @@ Par ailleurs, une distance d'éloignement de 5 mètres est observée entre les p
 
 La distance de 5 mètres est également observée aux limites de la voie publique et aux limites de l'établissement, cette distance pouvant être ramenée à 1,5 mètre sur un seul côté, lorsque la limite est constituée par un mur REI 120 de 2,5 mètres de haut ou lorsque les liquides inflammables distribués sont de catégorie C au titre de la rubrique 1430 de la nomenclature des installations classées.
 
-Pour les installations régulièrement autorisées ou déclarées à la date de publication du présent arrêté, les distances à prendre en compte au titre du présent point B sont celles prévues dans l'arrêté d'autorisation ou à la date du récépissé de déclaration.
+Pour les installations régulièrement autorisées ou déclarées à la date de publication du présent arrêté, les distances à prendre en compte au titre du présent point B sont celles prévues dans l'arrêté d'autorisation ou à la date de la preuve de dépôt de la déclaration.
 
 C. - Les stockages de bouteilles de gaz combustibles liquéfiés respectent les conditions minimales d'éloignement suivantes des parois des appareils de distribution :
 
