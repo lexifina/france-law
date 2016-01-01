@@ -4,8 +4,6 @@ I. – Les taux des taxes foncières et de la taxe d'habitation votés par une c
 
 Pour l'application du premier alinéa aux communes situées sur le territoire de la métropole de Lyon, le taux moyen d'une taxe constaté l'année précédente dans l'ensemble des communes du département s'entend du taux moyen constaté l'année précédente sur le territoire de chaque commune.
 
-Les taux des taxes foncières et de la taxe d'habitation votés par une commune située dans le périmètre de la métropole du Grand Paris ne peuvent excéder deux fois et demie la somme des taux moyens constatés l'année précédente au niveau national pour la même taxe, respectivement pour l'ensemble des établissements publics de coopération intercommunale soumis à l'article 1609 nonies C et pour l'ensemble des communes.
-
 II. et III. – (Disjoints)
 
 IV. – Le taux de la cotisation foncière des entreprises voté par une commune ne peut excéder deux fois le taux moyen de cette taxe constaté l'année précédente au niveau national pour l'ensemble des communes.
