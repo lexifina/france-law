@@ -1,7 +1,7 @@
 # Article Annexe 3
 
-FORMULAIRE TYPE DE JUSTIFICATION DE RÉALISATION DES TRAVAUX
+FORMULAIRE TYPE DE DEMANDE D'UNE AVANCE REMBOURSABLE SANS INTÉRÊT PAR UN SYNDICAT DE COPROPRIETAIRES
 
-Vous pouvez consulter les images dans le fac-similé du JO nº 0280 du 04/12/2014, texte nº 26 à l'adresse suivante
+Vous pouvez consulter l'image dans le fac-similé du JO nº 0303 du 31/12/2015, texte nº 313 à l'adresse suivante
 
-http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20141204&numTexte=26&pageDebut=20173&pageFin=20173
+http://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000031741495
