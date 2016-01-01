@@ -1,0 +1,1305 @@
+# Article 1er
+
+Les articles 11.1,11.2 et 11.3 sont modifiés comme suit.
+
+« Article 11.1
+
+Prévoyance des salariés non cadres
+
+11.1.1. Champ d'application
+
+1. Entreprises concernées par la couverture prévoyance des salariés non cadres
+
+Sont concernées toutes les entreprises entrant dans le champ d'application de la présente convention collective nationale du golf du 13 juillet 1998.
+
+2. Salariés couverts
+
+Pour la garantie décès, tous les salariés non cadres, ne relevant pas de la convention collective nationale AGIRC du 14 mars 1947, des entreprises visées au 1 du présent article sont couverts sans condition d'ancienneté.
+
+Pour la garantie incapacité de travail, invalidité et incapacité permanente professionnelle, sont couverts tous les salariés non cadres des entreprises visées au 1 du présent article, ayant au moins 1 an d'ancienneté dans l'entreprise, à l'exception des salariés relevant des cas particuliers ci-dessous.
+
+Cas particuliers des salariés travaillant dans la branche du golf :
+
+Les salariés non cadres ayant acquis préalablement le bénéfice de la garantie dans une autre entreprise relevant du champ d'application de la présente convention font l'objet, à leur demande, d'une affiliation aux garanties définies à l'article 11.1.3 dès lors que leur embauche intervient au plus tard dans les 12 mois suivant la fin de leur précédent contrat de travail.
+
+La demande devra être formulée par le salarié au moment de l'embauche.
+
+Si le salarié justifie de 1 an d'ancienneté en discontinu dans la branche sur une période de 3 ans, il peut, à sa demande, bénéficier de la couverture incapacité de travail, invalidité et incapacité permanente professionnelle.
+
+11.1.2. Adhésion des entreprises et affiliation des salariés
+
+1. Adhésion des entreprises
+
+L'ensemble des entreprises visées à l'article 11.1.1.1 sont tenues d'adhérer à un contrat collectif et obligatoire de prévoyance mettant en œuvre la couverture définie par la présente convention collective nationale.
+
+Cependant, les entreprises disposant déjà d'une couverture prévoyance au 1er janvier 2016 et comprenant l'ensemble des garanties pour un niveau de prestations égal ou supérieur à celles définies à l'article 11.1.3 ne sont pas tenues de remettre en cause leurs propres garanties.
+
+En revanche, les entreprises ayant mis en place avant le 1er janvier 2016 une couverture prévoyance d'un niveau inférieur aux garanties définies à l'article 11.1.3 doivent se mettre en conformité avec les dispositions de la couverture conventionnelle.
+
+2. Affiliation des salariés
+
+Les entreprises relevant du champ d'application de la présente convention collective nationale devront affilier l'ensemble des salariés visés à l'article 11.1.1.2 à un contrat collectif et obligatoire de prévoyance comprenant les garanties définies à l'article 11.1.3.
+
+Pour la garantie décès, l'affiliation prendra effet à compter de l'embauche du salarié.
+
+Seuls les salariés non cadres ayant acquis 4 mois d'ancienneté continus et plus dans l'entreprise seront affiliés aux garanties invalidité, incapacité temporaire et incapacité permanente professionnelle. L'affiliation prendra effet à compter du premier jour du mois civil suivant l'acquisition de la condition d'ancienneté.
+
+Les salariés relevant des cas particuliers de l'article 11.1.1,2, pourront être affiliés dès leur embauche.
+
+Les garanties incapacité temporaire, incapacité permanente professionnelle, invalidité et décès définies par la présente convention collective nationale, et dont bénéficient l'ensemble des salariés visés à l'article 11.1.1,2, sont mises en œuvre par ledit contrat de prévoyance sur la base des garanties définies à l'article 11.1.3.
+
+11.1.3. Définition des garanties
+
+1. Incapacité temporaire de travail
+
+En cas d'arrêt de travail consécutif à une maladie ou à un accident, professionnel ou non, le salarié bénéficie du versement d'indemnités journalières complémentaires à celles versées par le régime de base – régime agricole ou régime général.
+
+Condition d'ancienneté
+
+L'indemnité journalière complémentaire sera versée à tous les salariés non cadres ayant 1 an d'ancienneté continue dans l'entreprise, à l'exception des salariés relevant des cas particuliers de l'article 11.1.1.2, qui pourront bénéficier de l'indemnité journalière complémentaire dès leur embauche.
+
+Délai de franchise
+
+Le versement de l'indemnité journalière complémentaire intervient après le dernier jour d'absence ayant donné lieu à un complément de rémunération par l'employeur conformément aux articles L. 1226-1 et suivants du code du travail (loi n° 2008-596 du 25 juin 2008 sur la mensualisation).
+
+Cas particulier des salariés travaillent dans la branche du golf :
+
+Pour les salariés relevant des cas particuliers de l'article 11.1.1,2, n'ayant pas acquis 1 an d'ancienneté dans l'entreprise et qui ne peuvent prétendre au maintien de salaire des articles L. 1226-1 et suivants du code du travail, le versement de l'indemnité journalière complémentaire intervient :
+
+– à compter du 1er jour d'arrêt de travail, si celui-ci est consécutif à un accident du travail ou à une maladie professionnelle ;
+
+– à compter du 8e jour d'arrêt de travail, si celui-ci est consécutif à une maladie, à un accident de la vie privée ou à un accident de trajet.
+
+Montant de l'indemnisation
+
+Le cumul de l'indemnité du régime de base et de l'indemnité complémentaire ne doit pas excéder le salaire net qu'aurait perçu le salarié en activité.
+
+Le salarié n'ayant pas acquis le nombre d'heures suffisant par trimestre pour avoir droit aux prestations en espèces du régime de base n'ouvre pas droit à perception des indemnités du régime de base et percevra seulement le montant de l'indemnité complémentaire. Cette indemnité ne se substitue pas aux indemnités du régime de base. Les indemnités du régime de base seront calculées de manière théorique et seul le complément de rémunération sera versé.
+
+Le montant des indemnités journalières complémentaires s'élève à :
+
+Origine |
+
+Indemnisation TA |
+
+Indemnisation TB |
+
+Maladie et accident résultant de la vie privée |
+
+15 % du salaire de référence |
+
+15 % du salaire de référence |
+
+Accident du travail ou maladie professionnelle |
+
+100 % du salaire de référence (déduction faite des indemnités du régime de base) |
+
+Durée de l'indemnisation
+
+L'indemnité complémentaire est versée jusqu'au premier des trois événements suivants : reprise d'activité, classement en invalidité par le régime de base ou liquidation des droits à la retraite.
+
+2. Invalidité et incapacité permanente professionnelle
+
+En cas d'invalidité de 2e ou 3e catégorie, ou en cas d'accident du travail ou de maladie professionnelle, si le salarié a un taux d'incapacité permanente supérieur ou égal à 33 %, il bénéficie du versement d'une pension complémentaire d'un montant égal à 20 % du salaire annuel de référence.
+
+Cette pension ne pourra en aucun cas dépasser le salaire net qu'aurait perçu le salarié en activité.
+
+3. Décès
+
+En cas de décès du salarié, ses ayants droit bénéficient des prestations suivantes :
+
+– un capital décès ;
+
+– une rente éducation ;
+
+– le remboursement des frais d'obsèques.
+
+Dans le cadre de la garantie décès, par conjoint, il faut entendre la personne mariée non séparée de corps. Sont assimilés au conjoint :
+
+– la personne ayant conclu un Pacs ;
+
+– le concubin, à condition de justifier d'au moins 2 ans de vie commune et d'être libre de tout lien de mariage ou de Pacs. La condition de durée est considérée comme remplie lorsque au moins un enfant est né de cette union.
+
+Dans le cadre de la garantie décès, sont considérés comme “ à charge ” :
+
+– les enfants à naître ;
+
+– les enfants nés viables ;
+
+– les enfants recueillis – c'est-à-dire ceux de l'ex-conjoint éventuel, du conjoint ou du concubin ou du partenaire lié par un Pacs – du salarié décédé qui ont vécu au foyer jusque au moment du décès et si leur autre parent n'est pas tenu au versement d'une pension alimentaire ;
+
+– les enfants du salarié, qu'ils soient légitimes, naturels, adoptifs ou reconnus,
+
+et ce :
+
+– jusqu'à leur 18e anniversaire, sans condition ;
+
+– jusqu'à leur 26e anniversaire et sous condition :
+
+– soit de poursuivre des études dans un établissement d'enseignement secondaire, supérieur ou professionnel ;
+
+– soit d'être en apprentissage ;
+
+– soit de poursuivre une formation professionnelle en alternance, dans le cadre d'un contrat d'aide à l'insertion professionnelle des jeunes associant, d'une part, des enseignements généraux professionnels et technologiques dispensés pendant le temps de travail, dans des organismes publics ou privés de formation, et, d'autre part, l'acquisition d'un savoir-faire par l'exercice en entreprise d'une ou de plusieurs activités professionnelles en relation avec les enseignements reçus ;
+
+– soit d'être, préalablement à l'exercice d'un premier emploi rémunéré, inscrits auprès de Pôle emploi comme demandeurs d'emploi ou stagiaires de la formation professionnelle ;
+
+– soit d'être employés dans un établissement et service d'aide par le travail ou dans un métier protégé en tant que travailleurs handicapés ;
+
+– sans limitation de durée en cas d'invalidité avant le 26e anniversaire, équivalente à l'invalidité de 2e ou 3e catégorie de la sécurité sociale justifiée par un avis médical ou tant qu'ils bénéficient de l'allocation adulte handicapé et tant qu'ils sont titulaires de la carte d'invalide civil.
+
+Capital décès
+
+En cas de décès du salarié, l'organisme assureur choisi par l'entreprise verse au (x) bénéficiaire (s) désigné (s) auprès de l'organisme assureur un capital d'un montant égal à 100 % du salaire annuel de référence.
+
+En l'absence de désignation par le salarié, le capital sera versé dans l'ordre suivant :
+
+– au conjoint ;
+
+– à défaut, aux enfants ;
+
+– à défaut, aux parents ;
+
+– à défaut, aux grands-parents ;
+
+– à défaut, aux héritiers selon les règles de dévolution successorale.
+
+Ce capital est versé par anticipation en cas d'invalidité absolue et définitive du salarié (invalidité de 3e catégorie).
+
+Rente éducation
+
+En cas de décès ou d'invalidité absolue et définitive du salarié, il est versé aux enfants à charge une rente annuelle égale à :
+
+– 5 % du salaire annuel brut limité aux tranches A et B jusqu'au 16e anniversaire ;
+
+– 10 % du salaire annuel brut limité aux tranches A et B du 16e anniversaire au 18e anniversaire ;
+
+– 10 % du salaire annuel brut limité aux tranches A et B du 18e au 25e anniversaire, sous la condition de poursuivre leurs études.
+
+La rente est versée viagèrement aux enfants invalides déclarés avant leur 26e anniversaire.
+
+Elle est doublée pour les orphelins des deux parents.
+
+Remboursement des frais d'obsèques
+
+En cas de décès du salarié, de son conjoint ou d'un de ses enfants à charge, il sera procédé au remboursement des frais d'obsèques à celui qui les aura effectivement supportés. Ce remboursement est limité au plafond mensuel de la sécurité sociale en vigueur au moment du décès et exclut les frais relatifs à la construction d'un monument funéraire.
+
+Exclusions
+
+Les garanties susvisées ne font l'objet d'aucune exclusion, sauf :
+
+– les exclusions générales : guerres mettant en cause l'Etat français ;
+
+– les exclusions d'ordre public : le meurtre commis ou commandité par le bénéficiaire sur la personne du participant et pour lequel il a été condamné par une décision de justice devenue définitive. Dans cette situation, la garantie est acquise aux bénéficiaires subséquents du participant.
+
+11.1.4. Salaire annuel de référence
+
+Le salaire de référence pris en compte pour le calcul des prestations correspond au total des rémunérations brutes perçues par le salarié au cours des 12 mois précédant l'événement.
+
+Il sera calculé en tenant compte de tous les éléments contractuels entrant dans l'assiette des cotisations sociales, plafonnés au maximum de la tranche B.
+
+Lorsque le salarié ne justifie pas de 12 mois entiers de rémunération dans l'entreprise adhérente, le salaire de référence pris en compte est le salaire mensuel moyen de la période considérée multiplié par 12 mois.
+
+11.1.5. Revalorisation des prestations
+
+Les prestations en cours de service (incapacité temporaire de travail, invalidité, incapacité permanente professionnelle et rente éducation) à la date d'entrée en vigueur de la couverture conventionnelle ou résultant d'un arrêt de travail ou d'un décès antérieur à cette même date continuent à être supportées par l'organisme assureur chez qui les droits ont été ouverts.
+
+En revanche, les revalorisations postérieures à cette même date d'entrée en vigueur sont prises en charge par le nouvel organisme assureur choisi par l'entreprise.
+
+11.1.6. Maintien des garanties au titre de la portabilité des droits prévoyance
+
+Conformément aux dispositions de l'article L. 911-8 du code de la sécurité sociale, les salariés bénéficient du maintien à titre gratuit des garanties de prévoyance en cas de cessation du contrat de travail, non consécutive à une faute lourde, ouvrant droit à prise en charge par le régime d'assurance chômage, selon les conditions suivantes :
+
+1° Le maintien des garanties est applicable à compter de la date de cessation du contrat de travail et pendant une durée égale à la période d'indemnisation du chômage, dans la limite de la durée du dernier contrat de travail ou, le cas échéant, des derniers contrats de travail lorsqu'ils sont consécutifs chez le même employeur. Cette durée est appréciée en mois, le cas échéant arrondie au nombre supérieur, sans pouvoir excéder 12 mois ;
+
+2° Le bénéfice du maintien des garanties est subordonné à la condition que les droits à remboursements complémentaires aient été ouverts chez le dernier employeur, c'est-à-dire que les salariés bénéficient à la date de cessation de leur contrat de travail de la couverture conventionnelle ;
+
+3° Les garanties maintenues au bénéfice de l'ancien salarié sont celles en vigueur au niveau de la branche. Ainsi, en cas de modification ou de révision des garanties des salariés, les garanties des assurés bénéficiant du dispositif de portabilité seront modifiées ou révisées dans les mêmes conditions ;
+
+4° Le maintien des garanties ne peut conduire l'ancien salarié à percevoir des indemnités d'un montant supérieur à celui des allocations chômage qu'il aurait perçues au titre de la même période ;
+
+5° L'ancien salarié justifie auprès de son organisme assureur, à l'ouverture et au cours de la période de maintien des garanties, des conditions prévues au présent article. Il doit fournir notamment un justificatif de l'ouverture de ses droits à indemnisation chômage et s'engage à informer l'entreprise et son organisme assureur en cas de reprise d'une activité professionnelle et dès lors qu'il ne bénéficie plus d'aucune indemnisation au titre du chômage ;
+
+6° L'employeur doit signaler le maintien de ces garanties dans le certificat de travail et informe l'organisme assureur de la cessation du contrat de travail.
+
+L'entreprise disposant de garanties prévoyance préalablement à l'entrée en vigueur du contrat doit, dans un délai de 30 jours suivant la souscription du contrat, informer l'organisme assureur de la liste des anciens salariés dont la notification de la rupture de leur contrat de travail et susceptible d'ouvrir droit à portabilité.
+
+Par la suite, en cas de changement d'organisme assureur, le nouvel assureur doit prendre en charge les bénéficiaires de la portabilité à compter de la date d'effet du nouveau contrat collectif.
+
+11.1.7. Cotisations
+
+1. Taux, assiette, répartition des cotisations
+
+Les partenaires sociaux de la convention collective nationale du golf ont défini un taux maximal de cotisation que les employeurs devront consacrer au financement des garanties définies à l'article 11.1.3.
+
+Le taux maximal global consacré au financement de l'ensemble des garanties définies à l'article 11.1.3 figure dans le tableau des cotisations ci-dessous.
+
+Ces cotisations maximales sont fixées au titre des exercices 2016,2017 et 2018. Au-delà de 2018, ils feront l'objet d'un réexamen annuel en commission paritaire.
+
+Ces cotisations devront être assises sur la totalité des rémunérations brutes entrant dans l'assiette des cotisations du régime de base de la sécurité sociale ou de la MSA, la cotisation étant répartie selon les pourcentages définis par les partenaires sociaux de la branche d'activité, à savoir :
+
+– 60 % à la charge de l'employeur et 40 % à la charge du salarié.
+
+Leur versement relève de la responsabilité des entreprises visées à l'article 11.1.1.1.
+
+Elles sont appelées pour les salariés :
+
+– dès l'embauche, pour les cotisations décès ;
+
+– à compter du 5e mois (4 mois d'ancienneté), pour les garanties invalidité et incapacité temporaire et permanente professionnelle.
+
+Pour les salariés relevant des cas particuliers de l'article 11.1.1.1, l'ensemble des cotisations sera appelé à compter de la nouvelle embauche.
+
+Tableau des taux de cotisations
+
+(En pourcentage.)
+
+|
+
+TA |
+
+TB |
+
+|
+
+Part patronale |
+
+Part salariale |
+
+Total |
+
+Part patronale |
+
+Part salariale |
+
+Total |
+
+Garantie décès |
+
+0,10 |
+
+|
+
+0,10 |
+
+0,10 |
+
+|
+
+0,10 |
+
+Rente éducation |
+
+0,04 |
+
+0,06 |
+
+0,10 |
+
+0,03 |
+
+0,07 |
+
+0,10 |
+
+Frais d'obsèques |
+
+|
+
+0,02 |
+
+0,02 |
+
+|
+
+|
+
+|
+
+Garantie décès |
+
+0,14 |
+
+0,08 |
+
+0,22 |
+
+0,13 |
+
+0,07 |
+
+0,20 |
+
+Incapacité temporaire |
+
+|
+
+0,12 |
+
+0,12 |
+
+|
+
+0,12 |
+
+0,12 |
+
+Incapacité permanente et invalidité |
+
+0,15 |
+
+|
+
+0,15 |
+
+0,15 |
+
+|
+
+0,15 |
+
+Garantie incapacité et invalidité |
+
+0,15 |
+
+0,12 |
+
+0,27 |
+
+0,15 |
+
+0,12 |
+
+0,27 |
+
+Total décès + incapacité |
+
+0,29 |
+
+0,20 |
+
+0,49 |
+
+0,28 |
+
+0,19 |
+
+0,47 |
+
+2. Caractère obligatoire de la couverture conventionnelle
+
+En raison du caractère obligatoire de leur affiliation au contrat collectif de prévoyance souscrit par l'entreprise pour répondre à ses obligations conventionnelles, les salariés concernés ne pourront s'opposer au précompte de leur quote-part de cotisation.
+
+11.1.8. Maintien des garanties et des prestations en cas de changement d'organisme assureur
+
+En cas de changement d'organisme assureur :
+
+– les prestations incapacité temporaire et incapacité permanente professionnelle en cours de service seront maintenues à leur niveau atteint au jour de la résiliation ;
+
+– il appartiendra aux parties signataires d'organiser avec le nouvel assureur la poursuite de la revalorisation des prestations incapacité temporaire et permanente ;
+
+– la couverture décès sera également maintenue aux salariés ou anciens salariés indemnisés au titre des présentes garanties incapacité temporaire et permanente.
+
+Article 11.2
+
+Prévoyance des salariés cadres
+
+11.2.1. Champ d'application
+
+1. Entreprises concernées par la couverture prévoyance des salariés cadres
+
+Sont concernées toutes les entreprises entrant dans le champ d'application de la présente convention collective nationale du golf du 13 juillet 1998.
+
+2. Salariés couverts
+
+Tous les salariés cadres, relevant de la convention collective nationale AGIRC du 14 mars 1947, des entreprises visées au 1 du présent article sont couverts sans condition d'ancienneté.
+
+Toutefois, la couverture mise en place dans le cadre de la présente convention collective nationale ne s'applique pas aux salariés cadres relevant de la convention collective nationale de prévoyance des ingénieurs et cadres d'entreprises agricoles du 2 avril 1952.
+
+11.2.2. Adhésion des entreprises et affiliation des salariés
+
+1. Adhésion des entreprises
+
+L'ensemble des entreprises visées à l'article 11.2.1.1 sont tenues d'adhérer à un contrat collectif et obligatoire de prévoyance mettant en œuvre la couverture définie par la présente convention collective nationale.
+
+Cependant, les entreprises disposant déjà d'une couverture prévoyance au 1er janvier 2016 et comprenant l'ensemble des garanties pour un niveau de prestations égales ou supérieures à celles définies à l'article 11.2.4 ne sont pas tenues de remettre en cause leurs propres garanties.
+
+En revanche, les entreprises ayant mis en place avant le 1er janvier 2016 une couverture prévoyance d'un niveau inférieur aux garanties définies à l'article 11.2.3 doivent se mettre en conformité avec les dispositions de la couverture conventionnelle.
+
+2. Affiliation des salariés
+
+Les entreprises relevant du champ d'application de la présente convention collective nationale devront affilier l'ensemble des salariés visés à l'article 11.2.1.2 au contrat collectif et obligatoire de prévoyance.
+
+L'affiliation pour l'ensemble des garanties prend effet à compter de l'embauche du salarié.
+
+Les garanties incapacité temporaire, incapacité permanente professionnelle, invalidité et décès définies par la présente convention collective nationale, et dont bénéficient l'ensemble des salariés visés à l'article 11.2.1.2, sont mises en œuvre par ledit contrat de prévoyance sur la base du résumé des garanties définies à l'article 11.1.3.
+
+11.2.3. Définition des garanties
+
+1. Incapacité temporaire de travail
+
+En cas d'arrêt de travail consécutif à une maladie ou à un accident, professionnel ou non, le salarié bénéficie du versement d'indemnités journalières complémentaires à celles versées par le régime général de la sécurité sociale.
+
+Délai de franchise
+
+Si le salarié ne justifie pas de 1 an d'ancienneté dans l'entreprise et que par conséquent il ne peut prétendre au maintien de salaire des articles L. 1226-1 et suivants du code du travail, le versement de l'indemnité journalière complémentaire intervient :
+
+– à compter du 1er jour d'arrêt de travail, si celui-ci est consécutif à un accident du travail ou à une maladie professionnelle ;
+
+– à compter du 8e jour d'arrêt de travail, si celui-ci est consécutif à une maladie, à un accident de la vie privée ou à un accident de trajet.
+
+Si le salarié justifie de 1 an d'ancienneté dans l'entreprise :
+
+Le versement de l'indemnité journalière complémentaire intervient après le dernier jour d'absence ayant donné lieu à un complément de rémunération par l'employeur en application des articles L. 1226-1 et suivants du code du travail.
+
+Montant de l'indemnisation
+
+Le cumul de l'indemnité du régime de base et de l'indemnité complémentaire ne doit pas excéder le salaire net qu'aurait perçu le salarié en activité.
+
+Le salarié n'ayant pas acquis le nombre d'heures suffisant par trimestre pour avoir droit aux prestations en espèces du régime de base n'ouvre pas droit à perception des indemnités du régime de base et percevra seulement le montant de l'indemnité complémentaire. Cette indemnité ne se substitue pas aux indemnités du régime de base. Les indemnités du régime de base seront calculées de manière théorique et seul le complément de rémunération sera versé.
+
+Le montant des indemnités journalières complémentaires s'élève à :
+
+Origine |
+
+Indemnisation TA |
+
+Indemnisation TB/ TC |
+
+Maladie et accident résultant de la vie privée |
+
+20 % du salaire de référence |
+
+70 % du salaire de référence |
+
+Accident du travail ou maladie professionnelle |
+
+100 % du salaire de référence (déduction faite des indemnités du régime de base) |
+
+Durée de l'indemnisation
+
+L'indemnité complémentaire est versée jusqu'au premier des trois événements suivants : reprise d'activité, classement en invalidité par le régime de base et mise à la retraite.
+
+2. Invalidité et incapacité permanente professionnelle
+
+En cas d'invalidité de 2e ou 3e catégorie, ou en cas d'accident du travail ou de maladie professionnelle, si le salarié a un taux d'incapacité permanente supérieur ou égal à 33 %, il bénéficie du versement d'une pension complémentaire d'un montant égal à :
+
+– 20 % du salaire de référence pour la tranche A ;
+
+– 70 % du salaire de référence pour les tranches B et C.
+
+Cette pension ne pourra en aucun cas dépasser le salaire net qu'aurait perçu le salarié en activité.
+
+3. Décès
+
+En cas de décès du salarié, ses ayants droit bénéficient des prestations suivantes :
+
+– un capital décès ;
+
+– une rente éducation ;
+
+– le remboursement des frais d'obsèques.
+
+Dans le cadre de la garantie décès, par conjoint, il faut entendre la personne mariée non séparée de corps. Sont assimilés au conjoint :
+
+– les personnes ayant conclu un Pacs ;
+
+– les concubins, à condition de justifier d'au moins 2 ans de vie commune et d'être libres de tout lien de mariage ou de Pacs. La condition de durée est considérée comme remplie lorsque au moins un enfant est né de cette union.
+
+Dans le cadre de la garantie décès, sont considérés comme “ à charge ” :
+
+– les enfants à naître ;
+
+– les enfants nés viables ;
+
+– les enfants recueillis – c'est-à-dire ceux de l'ex-conjoint éventuel, du conjoint ou du concubin ou du partenaire lié par un Pacs – du salarié décédé qui ont vécu au foyer jusqu'au moment du décès et si leur autre parent n'est pas tenu au versement d'une pension alimentaire ;
+
+– les enfants du salarié, qu'ils soient légitimes, naturels, adoptifs ou reconnus,
+
+et ce :
+
+– jusqu'à leur 18e anniversaire, sans condition ;
+
+– jusqu'à leur 26e anniversaire et sous condition :
+
+– soit de poursuivre des études dans un établissement d'enseignement secondaire, supérieur ou professionnel ;
+
+– soit d'être en apprentissage ;
+
+– soit de poursuivre une formation professionnelle en alternance, dans le cadre d'un contrat d'aide à l'insertion professionnelle des jeunes associant, d'une part, des enseignements généraux professionnels et technologiques dispensés pendant le temps de travail, dans des organismes publics ou privés de formation, et, d'autre part, l'acquisition d'un savoir-faire par l'exercice en entreprise d'une ou de plusieurs activités professionnelles en relation avec les enseignements reçus ;
+
+– soit d'être, préalablement à l'exercice d'un premier emploi rémunéré, inscrits auprès de Pôle emploi comme demandeurs d'emploi ou stagiaires de la formation professionnelle ;
+
+– soit d'être employés dans un établissement et service d'aide par le travail ou dans un métier protégé en tant que travailleurs handicapés ;
+
+– sans limitation de durée en cas d'invalidité avant le 26e anniversaire, équivalente à l'invalidité de 2e ou 3e catégorie de la sécurité sociale justifiée par un avis médical ou tant qu'ils bénéficient de l'allocation adulte handicapé et tant qu'ils sont titulaires de la carte d'invalide civil.
+
+Capital décès
+
+En cas de décès du salarié, il sera versé au (x) bénéficiaire (s) désigné (s) un capital d'un montant égal à 150 % du salaire annuel de référence.
+
+Le capital sera versé en premier lieu au (x) bénéficiaire (s) désigné (s) par le salarié et, en l'absence de désignation, dans l'ordre suivant :
+
+– au conjoint ;
+
+– à défaut, aux enfants ;
+
+– à défaut, aux parents ;
+
+– à défaut, aux grands-parents ;
+
+– à défaut, aux héritiers selon les règles de dévolution successorale.
+
+Les majorations familiales sont versées dans tous les cas aux seules personnes qui les ont générées.
+
+Montant du capital décès en cas de décès non accidentel :
+
+Capital de base |
+
+Quelle que soit la situation familiale |
+
+150 % du salaire annuel de référence |
+
+Majorations familiales |
+
+Par enfant à charge |
+
++ 75 % du salaire annuel de référence |
+
+Montant du capital décès en cas de décès accidentel :
+
+L'accident se définit, d'une façon générale, comme l'atteinte corporelle, mais non intentionnelle de la part du participant, provenant de l'action soudaine et imprévisible d'une cause extérieure.
+
+Le décès ne peut être considéré comme accidentel que s'il survient dans un délai maximum de 12 mois à compter du jour de l'accident. La preuve de la nature accidentelle du décès ou de la relation de cause à effet entre l'accident et le décès incombe aux bénéficiaires. En outre, l'affiliation du participant au contrat doit toujours être en vigueur à la date du décès.
+
+Capital de base |
+
+Quelle que soit la situation familiale |
+
+225 % du salaire annuel de référence |
+
+Majorations familiales |
+
+Par enfant à charge |
+
++ 112,50 % du salaire annuel de référence |
+
+Invalidité absolue et définitive :
+
+Ce capital est versé par anticipation en cas d'invalidité absolue et définitive du salarié (invalidité de 3e catégorie).
+
+Rente éducation
+
+En cas de décès ou d'invalidité absolue et définitive du salarié, il est versé aux enfants à charge une rente égale à :
+
+– 5 % du salaire annuel brut TA/ TB-TC jusqu'au 16e anniversaire ;
+
+– 10 % du salaire annuel brut TA/ TB-TC du 16e au 18e anniversaire ;
+
+– 10 % du salaire annuel brut TA/ TB-TC du 18e au 25e anniversaire, sous la condition de poursuivre leurs études.
+
+La rente est versée viagèrement aux enfants invalides déclarés avant leur 26e anniversaire. Elle est doublée pour les orphelins des deux parents.
+
+Remboursement des frais d'obsèques
+
+En cas de décès du salarié, de son conjoint ou d'un de ses enfants à charge, il sera procédé au remboursement des frais d'obsèques à celui qui les aura effectivement supportés. Ce remboursement est limité au plafond mensuel de la sécurité sociale en vigueur au moment du décès et exclut les frais relatifs à la construction d'un monument funéraire.
+
+Exclusions
+
+Les garanties susvisées ne font l'objet d'aucune exclusion, sauf :
+
+– les exclusions générales : guerres mettant en cause l'Etat français ;
+
+– les exclusions d'ordre public : le meurtre commis ou commandité par le bénéficiaire sur la personne du participant et pour lequel il a été condamné par une décision de justice devenue définitive. Dans cette situation, la garantie est acquise aux bénéficiaires subséquents du participant.
+
+11.2.4. Salaire annuel de référence
+
+Le salaire de référence pris en compte pour le calcul des prestations correspond au total des rémunérations brutes perçues par le salarié au cours des 12 mois précédant l'événement.
+
+Il sera calculé en tenant compte de tous les éléments contractuels entrant dans l'assiette des cotisations sociales.
+
+Lorsque le participant ne justifie pas de 12 mois entiers de rémunération dans l'entreprise adhérente, le salaire de référence pris en compte est le salaire mensuel moyen de la période considérée multiplié par 12 mois.
+
+11.2.5. Revalorisation des prestations
+
+Les prestations en cours de service (incapacité temporaire de travail, invalidité, incapacité permanente professionnelle et rente éducation) à la date d'entrée en vigueur de la couverture conventionnelle ou résultant d'un arrêt de travail ou d'un décès antérieur à cette même date continuent à être supportées par l'organisme assureur chez qui les droits ont été ouverts.
+
+En revanche, les revalorisations postérieures à cette même date d'entrée en vigueur sont prises en charge par le nouvel organisme assureur choisi par l'entreprise.
+
+11.2.6. Maintien des garanties au titre de la portabilité des droits prévoyance
+
+Conformément aux dispositions de l'article L. 911-8 du code de la sécurité sociale, les salariés bénéficient du maintien à titre gratuit des garanties de prévoyance en cas de cessation du contrat de travail, non consécutive à une faute lourde, ouvrant droit à prise en charge par le régime d'assurance chômage, selon les conditions suivantes :
+
+1° Le maintien des garanties est applicable à compter de la date de cessation du contrat de travail et pendant une durée égale à la période d'indemnisation du chômage, dans la limite de la durée du dernier contrat de travail ou, le cas échéant, des derniers contrats de travail lorsqu'ils sont consécutifs chez le même employeur. Cette durée est appréciée en mois, le cas échéant arrondie au nombre supérieur, sans pouvoir excéder 12 mois ;
+
+2° Le bénéfice du maintien des garanties est subordonné à la condition que les droits à remboursements complémentaires aient été ouverts chez le dernier employeur, c'est-à-dire que les salariés bénéficient à la date de cessation de leur contrat de travail de la couverture conventionnelle ;
+
+3° Les garanties maintenues au bénéfice de l'ancien salarié sont celles en vigueur au niveau de la branche. Ainsi, en cas de modification ou de révision des garanties des salariés, les garanties des assurés bénéficiant du dispositif de portabilité seront modifiées ou révisées dans les mêmes conditions ;
+
+4° Le maintien des garanties ne peut conduire l'ancien salarié à percevoir des indemnités d'un montant supérieur à celui des allocations chômage qu'il aurait perçues au titre de la même période ;
+
+5° L'ancien salarié justifie auprès de son organisme assureur, à l'ouverture et au cours de la période de maintien des garanties, des conditions prévues au présent article. Il doit fournir notamment un justificatif de l'ouverture de ses droits à indemnisation chômage et s'engage à informer l'entreprise et son organisme assureur en cas de reprise d'une activité professionnelle et dès lors qu'il ne bénéficie plus d'aucune indemnisation au titre du chômage ;
+
+6° L'employeur doit signaler le maintien de ces garanties dans le certificat de travail et informe l'organisme assureur de la cessation du contrat de travail.
+
+L'entreprise disposant de garanties prévoyance préalablement à l'entrée en vigueur du contrat doit, dans un délai de 30 jours suivant la souscription du contrat, informer l'organisme assureur de la liste des anciens salariés dont la notification de la rupture de leur contrat de travail et susceptible d'ouvrir droit à portabilité.
+
+Par la suite, en cas de changement d'organisme assureur, le nouvel assureur doit prendre en charge les bénéficiaires de la portabilité à compter de la date d'effet du nouveau contrat collectif.
+
+11.2.7. Cotisations
+
+1. Taux, assiette et répartition des cotisations
+
+Les partenaires sociaux de la convention collective nationale du golf ont défini un taux maximal de cotisation que les employeurs devront consacrer au financement des garanties définies à l'article 11.2.3.
+
+Le taux maximal global consacré au financement de l'ensemble des garanties définies à l'article 11.2.3 figure dans le tableau des cotisations ci-dessous.
+
+Ces cotisations maximales sont fixées au titre des exercices 2016,2017 et 2018. Au-delà de 2018, ils feront l'objet d'un réexamen annuel en commission paritaire.
+
+En application de l'article 7 de la convention collective nationale des cadres du 14 mars 1947, les cotisations assises sur la tranche A du salaire sont exclusivement à la charge de l'employeur (soit 1,50 % TA).
+
+Ces cotisations devront être assises sur la totalité des rémunérations brutes entrant dans l'assiette des cotisations du régime de base de la sécurité sociale ou de la MSA, la cotisation étant répartie selon les pourcentages définis par les partenaires sociaux de la branche d'activité, à savoir :
+
+– 60 % à la charge de l'employeur et 40 % à la charge du salarié.
+
+Leur versement relève de la responsabilité des entreprises visées à l'article 11.1.1.1.
+
+Elles sont appelées pour les salariés dès leur embauche.
+
+Tableau des taux de cotisations
+
+(En pourcentage.)
+
+|
+
+TA |
+
+TB ET TC |
+
+|
+
+Part patronale |
+
+Part salariale |
+
+Total |
+
+Part patronale |
+
+Part salariale |
+
+Total |
+
+Capital décès |
+
+0,54 |
+
+|
+
+0,54 |
+
+0,32 |
+
+|
+
+0,32 |
+
+Rente éducation |
+
+0,14 |
+
+|
+
+0,14 |
+
+0,14 |
+
+|
+
+0,14 |
+
+Frais d'obsèques |
+
+0,02 |
+
+|
+
+0,02 |
+
+|
+
+|
+
+|
+
+Garantie décès |
+
+0,70 |
+
+|
+
+0,70 |
+
+0,46 |
+
+|
+
+0,46 |
+
+Incapacité temporaire |
+
+0,46 |
+
+|
+
+0,46 |
+
+0,20 |
+
+0,79 |
+
+0,99 |
+
+Incapacité permanente et invalidité |
+
+0,34 |
+
+|
+
+0,34 |
+
+0,52 |
+
+|
+
+0,52 |
+
+Garantie incapacité et invalidité |
+
+0,80 |
+
+|
+
+0,80 |
+
+0,72 |
+
+0,79 |
+
+1,51 |
+
+Total décès + incapacité |
+
+1,50 |
+
+|
+
+1,50 |
+
+1,18 |
+
+0,79 |
+
+1,97 |
+
+2. Caractère obligatoire de la couverture conventionnelle
+
+En raison du caractère obligatoire de leur affiliation au contrat collectif de prévoyance, les salariés concernés ne pourront s'opposer au précompte de leur quote-part de cotisation.
+
+11.2.8. Maintien des garanties et des prestations en cas de changement d'organisme assureur
+
+En cas de changement d'organisme assureur :
+
+– les prestations d'incapacité temporaire, invalidité, incapacité permanente professionnelle et la rente éducation en cours de service seront maintenues à leur niveau atteint au jour de la résiliation ;
+
+– il appartiendra aux entreprises relevant de la présente convention d'organiser avec le nouvel assureur la poursuite de la revalorisation des prestations incapacité temporaire, invalidité, incapacité permanente professionnelle et la rente éducation ;
+
+– la couverture décès sera également maintenue aux salariés ou anciens salariés indemnisés au titre des présentes garanties incapacité temporaire, invalidité et incapacité permanente professionnelle.
+
+Article 11.3
+
+Complémentaire frais de santé pour l'ensemble du personnel
+
+11.3.1. Champ d'application
+
+11.3.1.1. Entreprises
+
+Toutes les entreprises entrant dans le champ d'application de la présente convention collective nationale du golf du 13 juillet 1998 sont tenues de mettre en œuvre les dispositions relatives aux garanties frais de santé de l'ensemble de leurs salariés.
+
+Sont concernées par la présente couverture toutes les entreprises entrant dans le champ d'application de la convention collective nationale du golf du 13 juillet 1998 tel que défini en son article 1.1.
+
+11.3.1.2. Salariés bénéficiaires
+
+Tous les salariés cadres et non cadres des entreprises relevant du champ d'application de la convention collective nationale du golf bénéficient dès leur embauche des présentes dispositions.
+
+Toutefois, la couverture mise en place dans le cadre de la présente convention collective nationale ne s'applique pas aux salariés cadres relevant de la convention collective nationale de prévoyance des ingénieurs et cadres d'entreprises agricoles du 2 avril 1952.
+
+Ont par ailleurs la possibilité de solliciter une dispense afin de ne pas être affiliés à la présente couverture les salariés se trouvant dans un des cas ci-dessous :
+
+– salariés bénéficiant d'une couverture complémentaire santé collective et obligatoire dans le cadre d'un autre emploi au sein de la branche ou non ;
+
+– salariés à temps partiel pour lesquels le montant de cotisation à leur charge représenterait 10 % ou plus de leur rémunération brute ;
+
+– salariés bénéficiaires de la CMU-C ainsi que ceux bénéficiant de l'aide à l'acquisition d'une complémentaire santé visée à l'article L. 863-1 du code de la sécurité sociale. Dans ce cas, la dispense ne peut jouer que jusqu'à l'échéance de cette couverture ou de cette aide ;
+
+– salariés bénéficiant en qualité d'ayant droit de leur conjoint d'une couverture complémentaire santé familiale collective obligatoire, pour un niveau de prestations au moins équivalent ;
+
+– salariés bénéficiaires d'un contrat à durée déterminée d'une durée au moins égale à 12 mois à condition de justifier par écrit en produisant tous documents d'une couverture individuelle souscrite par ailleurs pour le même type de garanties ;
+
+– salariés bénéficiaires d'un contrat à durée déterminée d'une durée inférieure à 12 mois, même s'ils ne bénéficient pas d'une couverture individuelle souscrite par ailleurs ;
+
+La mise en œuvre d'un de ces cas de dispense ne peut avoir lieu que sur demande expresse du salarié concerné.
+
+Au moment de la mise en place de la couverture, la demande de dispense devra être adressée à l'employeur avant la fin du mois, puis au 1er janvier de chaque année.
+
+Le salarié devra produire chaque année à son employeur les justificatifs permettant de vérifier les conditions de la dispense.
+
+La dispense prend fin en cas de modification de la situation du salarié ne lui permettant plus d'en justifier les conditions, en cas de non-renouvellement annuel des justificatifs ou à sa demande. Il doit alors obligatoirement en informer l'employeur et cotiser à l'assurance complémentaire santé à compter du mois civil suivant.
+
+Dans les cas d'exclusion ou de dispense précités, les cotisations correspondantes ne sont pas dues ni par le salarié ni par l'employeur.
+
+11.3.2. Garanties
+
+1. Couverture salarié isolé
+
+La couverture conventionnelle prévue dans les tableaux ci-après frais de santé couvre à titre obligatoire le salarié seul (couverture “ isolé ”).
+
+La couverture frais de santé a pour objet le remboursement total ou partiel des dépenses de santé engagées par le participant, en complétant, acte par acte, les prestations versées par le régime social de base, dans la limite des frais réellement engagés.
+
+Les prestations de la présente couverture frais de santé respectent l'ensemble des obligations liées aux contrats solidaires et responsables.
+
+Aussi, elle ne prend pas en charge les pénalités appliquées en cas de non-respect du parcours de soins, de même que la participation forfaitaire et les franchises médicales mentionnées à l'article L. 322-2 du code de la sécurité sociale.
+
+Elle répond également aux exigences du décret du 18 novembre 2014 relatif au contenu des contrats responsables : prise en charge du ticket modérateur et du forfait journalier, planchers et plafonds pour les frais d'optique, plafonnement des dépassements d'honoraires des médecins non adhérents au contrat d'accès aux soins (CAS).
+
+En tout état de cause, les garanties seront automatiquement adaptées en fonction des évolutions législatives et réglementaires régissant les garanties des contrats dits “ responsables ”.
+
+Les salariés couverts ainsi que leurs éventuels ayants droit bénéficient également des services proposés par un réseau de soins.
+
+2. Couverture des ayants droit
+
+En sus de la couverture “ isolé ”, l'employeur peut également mettre en place une complémentaire santé familiale obligatoire. Cette couverture devra prévoir une structure tarifaire “ famille ” ainsi qu'une structure tarifaire “ monoparentale ”.
+
+Si l'employeur choisit de ne mettre en place que la couverture “ isolé ”, le salarié peut opter pour la formule complémentaire santé familiale, selon l'une des structures tarifaires propre à sa situation (famille ou monoparentale). Les garanties souscrites à titre facultatif par le salarié lui sont accordées moyennant le paiement intégral de cotisation additionnelle.
+
+Pour la couverture “ famille ” sont considérés comme ayants droit du salarié :
+
+– le conjoint, concubin ou cosignataire du Pacs sur présentation de justificatifs ;
+
+– les enfants âgés de moins de 18 ans non salariés et les enfants âgés de moins de 28 ans qui justifient :
+
+– de la poursuite d'études ;
+
+– d'un contrat d'apprentissage, d'une formation en alternance ;
+
+– de leur première inscription en tant que demandeurs d'emploi non indemnisés au titre de la réglementation en vigueur ;
+
+– les personnes vivant sous le toit de l'assuré et à sa charge au sens fiscal du terme sur présentation d'un justificatif (ascendants, descendants et collatéraux), sauf refus exprès du représentant légal.
+
+Pour la couverture “ monoparental ”, sont considérés comme enfants du salarié :
+
+– les enfants âgés de moins de 18 ans non salariés et les enfants âgés de moins de 28 ans qui justifient :
+
+– de la poursuite d'études ;
+
+– d'un contrat d'apprentissage, d'une formation en alternance ;
+
+– de leur première inscription en tant que demandeurs d'emploi non indemnisés au titre de la réglementation en vigueur.
+
+3. Garantie optionnelle
+
+En complément de la couverture conventionnelle, les partenaires sociaux ont défini une garantie optionnelle.
+
+La garantie optionnelle est exprimée dans le tableau de garanties ci-dessous en incluant les garanties du socle.
+
+Tableau des garanties santé hors Alsace-Moselle
+
+Le ticket modérateur est remboursé par la complémentaire santé pour tous les actes pris en charge par le régime de base, qu'ils figurent ou non dans le tableau ci-dessous, sauf en cas d'épuisement du forfait équipement.
+
+(Tableau non reproduit, consultable en ligne sur le site www. journal-officiel. gouv. fr, rubrique BO Convention collective.)
+
+http://www.journal-officiel.gouv.fr/publications/bocc/pdf/2015/0047/boc_20150047_0000_0009.pdf
+
+Tableau des garanties santé Alsace-Moselle
+
+Le ticket modérateur est remboursé par la complémentaire santé pour tous les actes pris en charge par le régime de base, qu'ils figurent ou non dans le tableau ci-dessous, sauf en cas d'épuisement du forfait équipement.
+
+(Tableau non reproduit, consultable en ligne sur le site www. journal-officiel. gouv. fr, rubrique BO Convention collective.)
+
+http://www.journal-officiel.gouv.fr/publications/bocc/pdf/2015/0047/boc_20150047_0000_0009.pdf
+
+11.3.3. Antériorité des régimes d'assurance complémentaire santé d'entreprise
+
+Les entreprises disposant déjà d'une couverture complémentaire frais de santé au 1er janvier 2016, comprenant l'ensemble des garanties définies à l'article 11.3.2 pour un niveau de prestations égales ou supérieures, peuvent conserver leur régime.
+
+Par niveau de prestations égales ou supérieures, il faut entendre des garanties égales ou supérieures pour chaque ligne de prestations et non sur une seule d'entre elles. En outre, les garanties en place doivent s'adresser à la même population que celle définie aux articles 11.3.1.2 et 11.3.5.
+
+En revanche, les entreprises ayant mis en place, avant le 1er janvier 2016, une couverture obligatoire complémentaire frais de santé de niveau inférieur aux garanties définies à l'article 11.3.2 doivent se mettre en conformité avec les dispositions de la couverture conventionnelle.
+
+11.3.4. Cotisations et prestations
+
+Les cotisations sont établies sur la base de la législation de l'assurance maladie et de la réglementation sociale et fiscale en vigueur au moment de la mise place de la couverture frais de santé.
+
+Les parties signataires pourront convenir d'une révision des garanties en tout ou partie, à cette occasion.
+
+11.3.4.1. Répartition des taux de cotisations
+
+Les garanties sont accordées aux salariés, et éventuellement à tout ou partie de leurs ayants droit, moyennant une cotisation maximale qui devra être établie selon l'une des trois structures tarifaires définies précédemment, au choix de l'employeur (isolé, famille, monoparentale).
+
+Conformément à la loi de sécurisation de l'emploi du 14 juin 2013, l'employeur prend en charge 50 % de la cotisation afférente à la couverture mise en place à titre obligatoire dans l'entreprise, y compris lorsque la garantie optionnelle et la couverture des ayants droit sont rendues obligatoires.
+
+Tableau des taux de cotisations (Applicables que la couverture soit mise à titre obligatoire ou facultative s'agissant de la garantie optionnelle et de l'extension de la couverture aux ayants droit du salarié)
+
+Les partenaires sociaux de la convention collective nationale du golf ont défini un taux maximal de cotisation que les employeurs devront consacrer au financement des garanties définies à l'article 11.3.2.
+
+Les cotisations maximales sont fixées au titre des exercices 2016 et 2017. Au-delà de 2017, ils feront l'objet d'un réexamen annuel en commission paritaire.
+
+Taux de cotisations en % PMSS et TTC
+
+Régime agricole
+
+(En pourcentage.)
+
+Hors Alsace-Moselle |
+
+|
+
+Alsace-Moselle |
+
+Actifs en % PMSS |
+
+Socle CCN golf |
+
+Garantie optionnelle
+
+(y compris socle) |
+
+|
+
+Actifs en % PMSS |
+
+Socle CCN golf |
+
+Garantie optionnelle
+
+(y compris socle) |
+
+Isolé |
+
+1,13 |
+
+1,53 |
+
+|
+
+Isolé |
+
+0,86 |
+
+1,16 |
+
+Isolé + enfant |
+
+1,96 |
+
+2,72 |
+
+|
+
+Isolé + enfant |
+
+1,49 |
+
+2,04 |
+
+Famille |
+
+2,94 |
+
+4,39 |
+
+|
+
+Famille |
+
+2,22 |
+
+3,30 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Loi Evin en % PMSS |
+
+Socle CCN golf |
+
+Garantie optionnelle
+
+(y compris socle) |
+
+|
+
+Loi Evin en % PMSS |
+
+Socle CCN golf |
+
+Garantie optionnelle
+
+(y compris socle) |
+
+Isolé |
+
+1,69 |
+
+2,30 |
+
+|
+
+Isolé |
+
+1,29 |
+
+1,74 |
+
+Isolé + enfant |
+
+2,93 |
+
+4,08 |
+
+|
+
+Isolé + enfant |
+
+2,23 |
+
+3,06 |
+
+Famille |
+
+4,42 |
+
+6,58 |
+
+|
+
+Famille |
+
+3,33 |
+
+4,96 |
+
+Taux de cotisations en % PMSS et TTC
+
+Régime général
+
+(En pourcentage.)
+
+Hors Alsace-Moselle |
+
+|
+
+Alsace-Moselle |
+
+Actifs en % PMSS |
+
+Socle CCN golf |
+
+Garantie optionnelle
+
+(y compris socle) |
+
+|
+
+Actifs en % PMSS |
+
+Socle CCN golf |
+
+Garantie optionnelle
+
+(y compris socle) |
+
+Isolé |
+
+1,20 |
+
+1,63 |
+
+|
+
+Isolé |
+
+0,92 |
+
+1,23 |
+
+Isolé + enfant |
+
+2,08 |
+
+2,90 |
+
+|
+
+Isolé + enfant |
+
+1,59 |
+
+2,17 |
+
+Famille |
+
+3,14 |
+
+4,68 |
+
+|
+
+Famille |
+
+2,37 |
+
+3,52 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Loi Evin en % PMSS |
+
+Socle CCN golf |
+
+Garantie optionnelle
+
+(y compris socle) |
+
+|
+
+Loi Evin en % PMSS |
+
+Socle CCN golf |
+
+Garantie optionnelle
+
+(y compris socle) |
+
+Isolé |
+
+1,80 |
+
+2,45 |
+
+|
+
+Isolé |
+
+1,38 |
+
+1,85 |
+
+Isolé + enfant |
+
+3,13 |
+
+4,35 |
+
+|
+
+Isolé + enfant |
+
+2,38 |
+
+3,26 |
+
+Famille |
+
+4,71 |
+
+7,02 |
+
+|
+
+Famille |
+
+3,55 |
+
+5,28 |
+
+11.3.4.2. Règlement des prestations
+
+Les prestations garanties sont versées soit directement aux salariés, soit aux professionnels de santé par tiers payant.
+
+Les modalités pratiques complémentaires du règlement des prestations (pièces justificatives...) seront détaillées dans la notice d'information remise aux employeurs et aux salariés.
+
+11.3.4.3. Suspension du contrat de travail
+
+Le bénéfice des garanties mises en place dans le cadre de la présente couverture est maintenu au profit des salariés dont le contrat de travail est suspendu, pour la période au titre de laquelle ils bénéficient :
+
+– soit d'un maintien total ou partiel de salaire ;
+
+– soit d'indemnités journalières complémentaires financées au moins pour partie par l'employeur, qu'elles soient versées directement par l'employeur ou pour son compte par l'intermédiaire d'un tiers.
+
+Dans ce cas, les cotisations correspondantes continuent d'être versées normalement, par l'employeur et le salarié, à charge pour l'employeur d'en assurer le reversement complet auprès de l'organisme assureur.
+
+En cas de suspension du contrat de travail à l'initiative du salarié ne donnant pas lieu à indemnisation et intervenant après la date d'affiliation au régime, les garanties prévues par la présente couverture peuvent continuer à être accordées, sous réserve que l'intéressé en fasse la demande expresse et qu'il règle la totalité de la cotisation correspondante directement auprès de l'organisme assureur.
+
+11.3.5. Cessation et maintien des garanties
+
+Pour tout salarié, la garantie cesse d'être accordée à l'expiration du mois au cours duquel prend fin le contrat de travail qui le lie à l'entreprise adhérente.
+
+11.3.5.1. Maintien des droits pendant un délai maximum de 12 mois (portabilité des droits, art. L. 911-8 du code de la sécurité sociale)
+
+Conformément aux dispositions de l'article L. 911-8 du code de la sécurité sociale, les salariés bénéficient du maintien à titre gratuit des garanties de complémentaire frais de santé en cas de cessation du contrat de travail, non consécutive à une faute lourde, ouvrant droit à prise en charge par le régime d'assurance chômage, selon les conditions suivantes :
+
+1° Le maintien des garanties est applicable à compter de la date de cessation du contrat de travail et pendant une durée égale à la période d'indemnisation du chômage, dans la limite de la durée du dernier contrat de travail ou, le cas échéant, des derniers contrats de travail lorsqu'ils sont consécutifs chez le même employeur. Cette durée est appréciée en mois, le cas échéant arrondie au nombre supérieur, sans pouvoir excéder 12 mois ;
+
+2° Le bénéfice du maintien des garanties est subordonné à la condition que les droits à remboursements complémentaires aient été ouverts chez le dernier employeur, c'est-à-dire que les salariés bénéficient à la date de cessation de leur contrat de travail de la couverture conventionnelle ;
+
+3° Les garanties maintenues au bénéfice de l'ancien salarié sont celles en vigueur au niveau de la branche. Ainsi, en cas de modification ou de révision des garanties des salariés, les garanties des assurés bénéficiant du dispositif de portabilité seront modifiées ou révisées dans les mêmes conditions ;
+
+4° L'ancien salarié justifie auprès de son organisme assureur, à l'ouverture et au cours de la période de maintien des garanties, des conditions prévues au présent article. Il doit fournir notamment un justificatif de l'ouverture de ses droits à indemnisation chômage et s'engage à informer l'entreprise et son organisme assureur en cas de reprise d'une activité professionnelle et dès lors qu'il ne bénéficie plus d'aucune indemnisation au titre du chômage ;
+
+5° L'employeur doit signaler le maintien de ces garanties dans le certificat de travail et informe l'organisme assureur de la cessation du contrat de travail.
+
+Les ayants droit du salarié couverts par la présente couverture au moment de la rupture du contrat de travail bénéficient également de ce maintien.
+
+L'entreprise disposant de garanties santé préalablement à l'entrée en vigueur du contrat doit, dans un délai de 30 jours suivant la souscription du contrat, informer l'organisme assureur de la liste des anciens salariés dont la notification de la rupture de leur contrat de travail et susceptible d'ouvrir droit à portabilité.
+
+Par la suite, en cas de changement d'organisme assureur, le nouvel assureur doit prendre en charge les bénéficiaires de la portabilité à compter de la date d'effet du nouveau contrat collectif.
+
+11.3.5.2. Possibilité de souscription volontaire du salarié (loi Evin)
+
+Conformément aux dispositions de l'article 4 de la loi Evin n° 89-1009 du 31 décembre 1989, les salariés pouvant souscrire, à titre individuel, une garantie complémentaire frais de santé, dans les conditions prévues audit article, sont :
+
+– les salariés bénéficiaires d'une pension de retraite, d'une rente d'incapacité ou d'invalidité ;
+
+– les salariés privés d'emploi et bénéficiaires d'un revenu de remplacement ;
+
+– les ayants droit d'un salarié décédé.
+
+Dans tous les cas, ce maintien est accordé dans le cadre d'une affiliation individuelle facultative proposée par l'organisme assureur. Les tarifs applicables à ces anciens salariés sont plafonnés à 150 % des tarifs globaux applicables aux salariés actifs.
+
+L'organisme assureur adresse la proposition de maintien de couverture à ces anciens salariés au plus tard dans le délai de 2 mois à compter de la date de cessation du contrat de travail ou de la fin de la période de portabilité.
+
+La demande de maintien de la garantie frais de santé devra être adressée dans les 6 mois qui suivent la rupture du contrat de travail ou dans les 6 mois suivant l'expiration de la période de portabilité des droits, telle que prévue à l'article 11.3.5.1. »
