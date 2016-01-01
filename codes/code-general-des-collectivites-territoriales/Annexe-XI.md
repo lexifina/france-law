@@ -36,61 +36,121 @@ TOTAL
 
 |
 
+|
+
+|
+
+|
+
 Total troisième collège
 
 |
 
-Dont au titre
-
-du deuxième alinéa
-
-de l'article L. 4134-2
-
-du CGCT
+Dont au titre du deuxième alinéa de l'article L. 4134-2 du CGCT
 
 |
 
-Alsace
+|
 
 |
 
-25
+Alsace-Champagne-Ardenne-Lorraine
 
 |
 
-25
+58
 
 |
 
-25
+58
 
 |
 
-4
+58
 
 |
 
-3
+9
 
 |
 
-78
+6
 
 |
 
-Aquitaine
+180
 
 |
 
-38
+Aquitaine-Limousin-Poitou-Charentes
 
 |
 
-38
+58
 
 |
 
-38
+58
+
+|
+
+58
+
+|
+
+9
+
+|
+
+6
+
+|
+
+180
+
+|
+
+Auvergne-Rhône-Alpes
+
+|
+
+61
+
+|
+
+61
+
+|
+
+61
+
+|
+
+10
+
+|
+
+7
+
+|
+
+190
+
+|
+
+Bourgogne-Franche-Comté
+
+|
+
+35
+
+|
+
+35
+
+|
+
+35
 
 |
 
@@ -102,91 +162,7 @@ Aquitaine
 
 |
 
-119
-
-|
-
-Auvergne
-
-|
-
-24
-
-|
-
-24
-
-|
-
-24
-
-|
-
-4
-
-|
-
-3
-
-|
-
-75
-
-|
-
-Basse-Normandie
-
-|
-
-25
-
-|
-
-25
-
-|
-
-25
-
-|
-
-4
-
-|
-
-3
-
-|
-
-78
-
-|
-
-Bourgogne
-
-|
-
-25
-
-|
-
-25
-
-|
-
-25
-
-|
-
-4
-
-|
-
-3
-
-|
-
-78
+110
 
 |
 
@@ -210,15 +186,15 @@ Bretagne
 
 |
 
-5
+6
 
 |
 
-119
+120
 
 |
 
-Centre
+Centre-Val de Loire
 
 |
 
@@ -246,135 +222,107 @@ Centre
 
 |
 
-Champagne-Ardenne
-
-|
-
-25
-
-|
-
-25
-
-|
-
-25
-
-|
-
-4
-
-|
-
-3
-
-|
-
-78
-
-|
-
-Franche-Comté
-
-|
-
-22
-
-|
-
-22
-
-|
-
-22
-
-|
-
-4
-
-|
-
-3
-
-|
-
-69
-
-|
-
-Haute-Normandie
-
-|
-
-25
-
-|
-
-25
-
-|
-
-25
-
-|
-
-4
-
-|
-
-3
-
-|
-
-78
-
-|
-
 Ile-de-France
 
 |
 
-41
+61
 
 |
 
-41
+61
 
 |
 
-41
+61
 
 |
 
-6
+10
 
 |
 
-5
+7
 
 |
 
-128
+190
 
 |
 
-Languedoc-Roussillon
+Languedoc-Roussillon-Midi-Pyrénées
 
 |
 
-30
+54
 
 |
 
-30
+54
 
 |
 
-30
+54
 
 |
 
-5
+9
+
+|
+
+8
+
+|
+
+170
+
+|
+
+Nord-Pas-de-Calais-Picardie
+
+|
+
+54
+
+|
+
+54
+
+|
+
+54
+
+|
+
+9
+
+|
+
+8
+
+|
+
+170
+
+|
+
+Normandie
+
+|
+
+42
+
+|
+
+42
+
+|
+
+42
+
+|
+
+7
 
 |
 
@@ -382,119 +330,7 @@ Languedoc-Roussillon
 
 |
 
-94
-
-|
-
-Limousin
-
-|
-
-22
-
-|
-
-22
-
-|
-
-22
-
-|
-
-4
-
-|
-
-3
-
-|
-
-69
-
-|
-
-Lorraine
-
-|
-
-31
-
-|
-
-31
-
-|
-
-31
-
-|
-
-5
-
-|
-
-4
-
-|
-
-97
-
-|
-
-Midi-Pyrénées
-
-|
-
-38
-
-|
-
-38
-
-|
-
-38
-
-|
-
-6
-
-|
-
-5
-
-|
-
-119
-
-|
-
-Nord - Pas-de-Calais
-
-|
-
-38
-
-|
-
-38
-
-|
-
-38
-
-|
-
-6
-
-|
-
-5
-
-|
-
-119
+130
 
 |
 
@@ -518,67 +354,11 @@ Pays de la Loire
 
 |
 
-5
+6
 
 |
 
-119
-
-|
-
-Picardie
-
-|
-
-25
-
-|
-
-25
-
-|
-
-25
-
-|
-
-4
-
-|
-
-3
-
-|
-
-78
-
-|
-
-Poitou-Charentes
-
-|
-
-25
-
-|
-
-25
-
-|
-
-25
-
-|
-
-4
-
-|
-
-3
-
-|
-
-78
+120
 
 |
 
@@ -586,47 +366,19 @@ Provence-Alpes-Côte d'Azur
 
 |
 
-39
+45
 
 |
 
-39
+45
 
 |
 
-39
+45
 
 |
 
-6
-
-|
-
-5
-
-|
-
-122
-
-|
-
-Rhône-Alpes
-
-|
-
-39
-
-|
-
-39
-
-|
-
-39
-
-|
-
-6
+7
 
 |
 
@@ -634,4 +386,8 @@ Rhône-Alpes
 
 |
 
-122 |
+140 |
+
+NOTA :
+
+Aux termes du I de l'article 1er du décret n° 2015-1917 du 30 décembre 2015, ces dispositions s'appliquent à compter du prochain renouvellement des membres des conseils économiques, sociaux et environnementaux régionaux.
