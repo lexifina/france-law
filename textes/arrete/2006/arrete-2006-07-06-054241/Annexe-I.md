@@ -46,7 +46,7 @@ L'exploitant établit et tient à jour un dossier comportant les documents suiva
 
 - les plans tenus à jour ;
 
-- le récépissé de déclaration et les prescriptions générales ;
+- la preuve de dépôt de la déclaration et les prescriptions générales ;
 
 - les arrêtés préfectoraux relatifs à l'installation concernée, pris en application de la législation relative aux installations classées pour la protection de l'environnement, s'il y en a ;
 
@@ -60,7 +60,7 @@ Ce dossier est tenu à la disposition de l'inspection des installations classée
 
 Objet du contrôle :
 
-- présentation du récépissé de la déclaration et des prescriptions générales ;
+- présentation de la preuve de dépôt de la déclaration et des prescriptions générales ;
 
 - présentation des arrêtés préfectoraux relatifs à l'installation, s'il y en a ;
 

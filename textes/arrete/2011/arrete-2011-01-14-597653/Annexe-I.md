@@ -24,7 +24,7 @@ L'exploitant établit et tient à jour un dossier comportant les documents suiva
 
 - les plans tenus à jour ;
 
-- le récépissé de déclaration et les prescriptions générales ;
+- la preuve de dépôt de la déclaration et les prescriptions générales ;
 
 - les arrêtés préfectoraux relatifs à l'installation concernée, pris en application de la législation relative aux installations classées, s'il y en a ;
 
@@ -478,25 +478,17 @@ Supérieur à 35 et inférieur ou égal à 45 dB(A)
 
 |
 
-6 dB(A)
+6 dB(A) |
 
-|
-
-4 dB(A)
-
-|
+4 dB(A) |
 
 Supérieur à 45 dB(A)
 
 |
 
-5 dB(A)
+5 dB(A) |
 
-|
-
-3 dB(A)
-
-|
+3 dB(A) |
 
 De plus, le niveau de bruit en limite de propriété de l'installation ne dépasse pas, lorsqu'elle est en fonctionnement, 70 dB(A) pour la période de jour et 60 dB(A) pour la période de nuit, sauf si le bruit résiduel pour la période considérée est supérieur à cette limite.
 
@@ -527,5 +519,3 @@ Outre les dispositions prévues au point 1.7, l'exploitant remet en état le sit
 - tous les produits dangereux ainsi que tous les déchets sont valorisés ou évacués vers des installations dûment autorisées ;
 
 - les cuves ayant contenu des produits susceptibles de polluer les eaux ou de provoquer un incendie ou une explosion sont vidées, nettoyées, dégazées et, le cas échéant, décontaminées. Elles sont si possible enlevées, sinon elles sont neutralisées par remplissage avec un solide inerte. Le produit utilisé pour la neutralisation recouvre toute la surface de la paroi interne et possède une résistance à terme suffisante pour empêcher l'affaissement du sol en surface.
-
-(*) Un modèle a été constitué pour la rédaction des arrêtés de prescriptions générales applicables aux installations soumises à déclaration. Certaines dispositions de ce modèle, qui ne se justifient pas pour les installations visées par la rubrique n° 2340, ont été supprimées. Néanmoins, la numérotation a été conservée pour permettre une homogénéité entre les arrêtés de prescriptions générales de toutes les rubriques de la nomenclature.

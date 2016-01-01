@@ -30,7 +30,7 @@ L'exploitant doit établir et tenir à jour un dossier comportant les documents 
 
 – les plans tenus à jour ;
 
-– le récépissé de déclaration et les prescriptions générales ;
+– la preuve de dépôt de la déclaration et les prescriptions générales ;
 
 – les arrêtés préfectoraux relatifs à l'installation concernée, pris en application de la législation relative aux installations classées, s'il y en a ;
 
@@ -46,9 +46,9 @@ Objet du contrôle :
 
 – vérification de la puissance maximale au regard de la puissance déclarée ;
 
-– vérification que la puissance maximale est inférieure au seuil maximal du régime déclaratif tel que défini à l' annexe de l'article R. 511-9 du code de l'environnement ou que le type d'installation correspond au seuil déclaratif (le non-respect de ce point relève d'une non-conformité majeure) ;
+– vérification que la puissance maximale est inférieure au seuil maximal du régime déclaratif tel que défini à l'annexe de l'article R. 511-9 du code de l'environnement ou que le type d'installation correspond au seuil déclaratif (le non-respect de ce point relève d'une non-conformité majeure) ;
 
-– présence du récépissé de déclaration ;
+– présence de la preuve de dépôt de la déclaration ;
 
 – présence des prescriptions générales ;
 

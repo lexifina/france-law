@@ -1,6 +1,6 @@
 # Article Annexe I
 
-PRESCRIPTIONS GÉNÉRALES ET FAISANT L'OBJET DU CONTRÔLE PÉRIODIQUE APPLICABLES AUX INSTALLATIONS CLASSÉES POUR LA PROTECTION DE L'ENVIRONNEMENT SOUMISES À DÉCLARATION SOUS LA RUBRIQUE N o 2781-1
+PRESCRIPTIONS GÉNÉRALES ET FAISANT L'OBJET DU CONTRÔLE PÉRIODIQUE APPLICABLES AUX INSTALLATIONS CLASSÉES POUR LA PROTECTION DE L'ENVIRONNEMENT SOUMISES À DÉCLARATION SOUS LA RUBRIQUE No 2781-1
 
 1. Dispositions générales
 
@@ -14,9 +14,9 @@ L'installation est implantée et réalisée conformément aux plans joints à la
 
 L'installation est soumise à des contrôles périodiques par des organismes agréés dans les conditions définies par les articles R. 512-55 à R. 512-60 du code de l'environnement.
 
-Ces contrôles ont pour objet de vérifier la conformité de l'installation aux prescriptions repérées dans la présente annexe par le terme : " objet du contrôle ", éventuellement modifiées par arrêté préfectoral, lorsqu'elles lui sont applicables.
+Ces contrôles ont pour objet de vérifier la conformité de l'installation aux prescriptions repérées dans la présente annexe par le terme : "objet du contrôle", éventuellement modifiées par arrêté préfectoral, lorsqu'elles lui sont applicables.
 
-Les prescriptions dont le non-respect constitue une non-conformité majeure entraînant l'information du préfet dans les conditions prévues à l'article R. 512-59-1 sont repérées dans la présente annexe par la mention : " le non-respect de ce point relève d'une non-conformité majeure ".
+Les prescriptions dont le non-respect constitue une non-conformité majeure entraînant l'information du préfet dans les conditions prévues à l'article R. 512-59-1 sont repérées dans la présente annexe par la mention : "le non-respect de ce point relève d'une non-conformité majeure".
 
 L'exploitant conserve le rapport de visite que l'organisme agréé lui adresse dans le dossier installations classées prévu au point 1.4. Si le rapport fait apparaître des non-conformités aux dispositions faisant l'objet du contrôle, l'exploitant met en œuvre les actions correctives nécessaires pour y remédier. Ces actions ainsi que leurs dates de mise en œuvre sont formalisées et conservées dans le dossier susmentionné.
 
@@ -24,43 +24,43 @@ L'exploitant conserve le rapport de visite que l'organisme agréé lui adresse d
 
 Toute modification apportée par le déclarant à l'installation, à son mode d'exploitation ou à son voisinage, entraînant un changement notable des éléments du dossier de déclaration initiale, doit être portée, avant sa réalisation, à la connaissance du préfet, qui peut exiger une nouvelle déclaration.
 
-1.3. [⁎]
+1.3. [ * ]
 
 1.4. Dossier installation classée
 
 L'exploitant établit et tient à jour un dossier comportant les documents suivants :
 
--le dossier de déclaration ;
+- le dossier de déclaration ;
 
--le plan de situation du cadastre produit dans le dossier de déclaration ainsi que le plan détaillé de l'installation tenu à jour ;
+- le plan de situation du cadastre produit dans le dossier de déclaration ainsi que le plan détaillé de l'installation tenu à jour ;
 
--le récépissé de déclaration et les prescriptions générales ;
+- la preuve de dépôt de la déclaration et les prescriptions générales ;
 
--le cas échéant, les arrêtés préfectoraux relatifs à l'installation concernée, pris en application de la législation relative aux installations classées pour la protection de l'environnement ;
+- le cas échéant, les arrêtés préfectoraux relatifs à l'installation concernée, pris en application de la législation relative aux installations classées pour la protection de l'environnement ;
 
--les rapports des contrôles prévus à l'article 1.5 ;
+- les rapports des contrôles prévus à l'article 1.5 ;
 
--les résultats des dernières mesures sur les effluents et le bruit ;
+- les résultats des dernières mesures sur les effluents et le bruit ;
 
--les documents prévus aux points 3.5,3.6,4.3,4.7,5.1 et 5.8 du présent arrêté ;
+- les documents prévus aux points 3.5, 3.6, 4.3, 4.7, 5.1 et 5.8 du présent arrêté ;
 
--tous éléments utiles relatifs aux risques induits par l'exploitation de l'installation.
+- tous éléments utiles relatifs aux risques induits par l'exploitation de l'installation.
 
 Ce dossier est tenu à la disposition des services en charge du contrôle des installations classées.
 
 Objet du contrôle :
 
--présence et date du récépissé de déclaration ;
+- présence et date de la preuve de dépôt de la déclaration ;
 
--vérification de la capacité journalière maximale au regard de la capacité journalière déclarée ;
+- vérification de la capacité journalière maximale au regard de la capacité journalière déclarée ;
 
--vérification que le la capacité journalière maximale est inférieure au palier supérieur du régime déclaratif tel que défini à l'annexe de l'article R. 511-9 du code de l'environnement (le non-respect de ce point relève d'une non-conformité majeure) ;
+- vérification que le la capacité journalière maximale est inférieure au palier supérieur du régime déclaratif tel que défini à l'annexe de l'article R. 511-9 du code de l'environnement (le non-respect de ce point relève d'une non-conformité majeure) ;
 
--présence des prescriptions générales ;
+- présence des prescriptions générales ;
 
--présence des arrêtés préfectoraux relatifs à l'installation, s'il y en a ;
+- présence des arrêtés préfectoraux relatifs à l'installation, s'il y en a ;
 
--présence de plans détaillés tenus à jour.
+- présence de plans détaillés tenus à jour.
 
 1.5. Déclaration d'accident ou de pollution accidentelle
 
@@ -74,15 +74,15 @@ Lorsque l'installation change d'exploitant, le nouvel exploitant ou son représe
 
 Lorsque l'installation cesse l'activité au titre de laquelle elle était déclarée, son exploitant en informe le préfet au moins un mois avant l'arrêt définitif. La notification de l'exploitant indique les mesures de remise en état prévues ou réalisées.
 
-2. Implantation.-Aménagement
+2. Implantation. - Aménagement
 
 2.1. Règles d'implantation
 
 Sans préjudice des règlements d'urbanisme, les lieux d'implantation de l'aire ou des équipements de stockage des matières entrantes et des digestats satisfont les dispositions suivantes :
 
--ils ne sont pas situés dans le périmètre de protection rapproché d'un captage d'eau destinée à la consommation humaine ;
+- ils ne sont pas situés dans le périmètre de protection rapproché d'un captage d'eau destinée à la consommation humaine ;
 
--ils sont distants d'au moins 35 mètres des puits et forages de captage d'eau extérieurs au site, des sources, des aqueducs en écoulement libre, des rivages et des berges des cours d'eau, de toute installation souterraine ou semi-enterrée utilisée pour le stockage des eaux destinées à l'alimentation en eau potable, à des industries agroalimentaires, ou à l'arrosage des cultures maraîchères ou hydroponiques ; la distance de 35 mètres des rivages et des berges des cours d'eau peut toutefois être réduite en cas de transport par voie d'eau.
+- ils sont distants d'au moins 35 mètres des puits et forages de captage d'eau extérieurs au site, des sources, des aqueducs en écoulement libre, des rivages et des berges des cours d'eau, de toute installation souterraine ou semi-enterrée utilisée pour le stockage des eaux destinées à l'alimentation en eau potable, à des industries agroalimentaires, ou à l'arrosage des cultures maraîchères ou hydroponiques; la distance de 35 mètres des rivages et des berges des cours d'eau peut toutefois être réduite en cas de transport par voie d'eau.
 
 La distance entre les digesteurs et les habitations occupées par des tiers ne peut pas être inférieure à 50 mètres, à l'exception des logements occupés par des personnels de l'installation et des logements dont l'exploitant ou le fournisseur de substrats de méthanisation ou l'utilisateur de la chaleur produite à la jouissance.
 
@@ -100,7 +100,7 @@ Les planchers supérieurs des bâtiments abritant les installations de méthanis
 
 Objet du contrôle :
 
--absence de locaux habités, occupés par des tiers ou à usage de bureaux, à l'exception de locaux techniques nécessaires au fonctionnement de l'installation, sur les planchers supérieurs des bâtiments abritant les installations de méthanisation, de combustion, d'épuration ou de compression du biogaz.
+- absence de locaux habités, occupés par des tiers ou à usage de bureaux, à l'exception de locaux techniques nécessaires au fonctionnement de l'installation, sur les planchers supérieurs des bâtiments abritant les installations de méthanisation, de combustion, d'épuration ou de compression du biogaz.
 
 2.4. Comportement au feu des locaux
 
@@ -112,9 +112,9 @@ Lorsque les équipements de méthanisation sont couverts, les locaux les abritan
 
 Lorsque les équipements de méthanisation sont couverts, les locaux les abritant présentent les caractéristiques de résistance au feu minimales suivantes :
 
--murs extérieurs et murs séparatifs REI 120 (coupe-feu de degré deux heures) ;
+- murs extérieurs et murs séparatifs REI 120 (coupe-feu de degré deux heures) ;
 
--planchers REI 120 (coupe-feu de degré deux heures) ;
+- planchers REI 120 (coupe-feu de degré deux heures) ;
 
 R : capacité portante ;
 
@@ -124,7 +124,7 @@ I : isolation thermique.
 
 2.4.3. Toitures et couvertures de toiture
 
-Les toitures et couvertures de toiture répondent à la classe B ROOF (t3), pour un temps de passage du feu au travers de la toiture supérieur à trente minutes (classe T 30) et pour une durée de la propagation du feu à la surface de la toiture supérieure à trente minutes (indice 1).
+Les toitures et couvertures de toiture répondent à la classe BROOF (t3), pour un temps de passage du feu au travers de la toiture supérieur à trente minutes (classe T 30) et pour une durée de la propagation du feu à la surface de la toiture supérieure à trente minutes (indice 1).
 
 2.4.4. Désenfumage
 
@@ -132,9 +132,9 @@ Lorsque les équipements de méthanisation sont couverts, les locaux les abritan
 
 Ces dispositifs sont à commandes automatique et manuelle. Leur surface utile d'ouverture ne doit pas être inférieure à :
 
--2 % si la superficie à désenfumer est inférieure à 1 600 m 2 ;
+- 2 % si la superficie à désenfumer est inférieure à 1 600 m2 ;
 
--une valeur à déterminer selon la nature des risques si la superficie à désenfumer est supérieure à 1 600 m 2, sans pouvoir être inférieure à 2 % de la superficie des locaux.
+- une valeur à déterminer selon la nature des risques si la superficie à désenfumer est supérieure à 1 600 m2, sans pouvoir être inférieure à 2 % de la superficie des locaux.
 
 En exploitation normale, la fermeture de ces dispositifs doit être possible depuis le sol du local ou depuis la zone de désenfumage ou depuis la cellule à désenfumer dans le cas de local divisé en plusieurs cantons ou cellules.
 
@@ -142,13 +142,13 @@ Les commandes d'ouverture manuelle sont placées à proximité des accès des b�
 
 Tous les dispositifs installés après le 31 décembre 2006, date de la fin de la période de transition du marquage CE et des normes françaises pour ces matériels, présentent les caractéristiques suivantes, en référence à la norme NF EN 12 101-2 :
 
--fiabilité : classe RE 300 (300 cycles de mise en sécurité). Les exutoires bifonctions sont soumis à 10 000 cycles d'ouverture en position d'aération ;
+- fiabilité : classe RE 300 (300 cycles de mise en sécurité). Les exutoires bifonctions sont soumis à 10 000 cycles d'ouverture en position d'aération ;
 
--la classification de la surcharge neige à l'ouverture est SL 250 (25 daN/ m 2) pour des altitudes inférieures ou égales à 400 mètres et SL 500 (50 daN/ m 2) pour des altitudes supérieures à 400 mètres et inférieures ou égales à 800 mètres. La classe SL 0 est utilisable si la région d'implantation n'est pas susceptible d'être enneigée ou si des dispositions constructives empêchent l'accumulation de la neige. Au-dessus de 800 mètres, les exutoires sont de la classe SL 500 et installés avec des dispositions constructives empêchant l'accumulation de la neige ;
+- la classification de la surcharge neige à l'ouverture est SL 250 (25 daN/m2) pour des altitudes inférieures ou égales à 400 mètres et SL 500 (50 daN/m2) pour des altitudes supérieures à 400 mètres et inférieures ou égales à 800 mètres. La classe SL 0 est utilisable si la région d'implantation n'est pas susceptible d'être enneigée ou si des dispositions constructives empêchent l'accumulation de la neige. Au-dessus de 800 mètres, les exutoires sont de la classe SL 500 et installés avec des dispositions constructives empêchant l'accumulation de la neige ;
 
--classe de température ambiante T0 (0 o C) ;
+- classe de température ambiante T0 (0 oC) ;
 
--classe d'exposition à la chaleur HE 300 (300 o C) ;
+- classe d'exposition à la chaleur HE 300 (300 oC) ;
 
 Des amenées d'air frais d'une surface libre égale à la surface géométrique de l'ensemble des dispositifs d'évacuation du plus grand canton de désenfumage sont réalisées cellule par cellule. Ces amenées sont disponibles.
 
@@ -164,7 +164,7 @@ Pour les installations implantées sur le même site qu'une autre installation c
 
 Objet du contrôle :
 
--présence de la clôture ou, le cas échéant, d'une signalétique adaptée.
+- présence de la clôture ou, le cas échéant, d'une signalétique adaptée.
 
 2.5.2. Accessibilité en cas de sinistre
 
@@ -180,11 +180,11 @@ La ventilation assure en permanence, y compris en cas d'arrêt de l'installation
 
 Objet du contrôle :
 
--présence d'ouvertures en parties haute et basse des espaces confinés et des locaux dans lesquels du biogaz pourrait s'accumuler ou de tout autre moyen de ventilation équivalent (le non-respect de ce point relève d'une non-conformité majeure).
+- présence d'ouvertures en parties haute et basse des espaces confinés et des locaux dans lesquels du biogaz pourrait s'accumuler ou de tout autre moyen de ventilation équivalent (le non-respect de ce point relève d'une non-conformité majeure).
 
 2.7. Installations électriques
 
-Les installations électriques sont réalisées conformément aux règles en vigueur, notamment par l'application du décret n o 88-1056 du 14 novembre 1988 relatif à la réglementation du travail ou par l'application des articles de la quatrième partie du code du travail.
+Les installations électriques sont réalisées conformément aux règles en vigueur, notamment par l'application du décret no 88-1056 du 14 novembre 1988 relatif à la réglementation du travail ou par l'application des articles de la quatrième partie du code du travail.
 
 2.8. Mise à la terre des équipements
 
@@ -196,17 +196,17 @@ Le sol des aires et des locaux de stockage ou de manipulation des matières dang
 
 Objet du contrôle :
 
--étanchéité des sols (par examen visuel : nature du matériau et absence de fissures, etc.) ;
+- étanchéité des sols (par examen visuel : nature du matériau et absence de fissures, etc.) ;
 
--capacité des aires et locaux à recueillir les eaux et matières répandues (présence de seuil par exemple).
+- capacité des aires et locaux à recueillir les eaux et matières répandues (présence de seuil par exemple).
 
 2.10. Cuvettes de rétention
 
 Tout stockage de matières liquides autres que le digestat, les matières en cours de traitement ou les effluents d'élevage, susceptibles de créer une pollution de l'eau ou du sol, est associé à une capacité de rétention de volume au moins égal à la plus grande des deux valeurs suivantes :
 
--100 % de la capacité du plus grand réservoir servant au stockage de ces matières liquides ;
+- 100 % de la capacité du plus grand réservoir servant au stockage de ces matières liquides ;
 
--50 % de la capacité globale des réservoirs associés.
+- 50 % de la capacité globale des réservoirs associés.
 
 Les réservoirs fixes sont munis de jauges de niveau et, pour les stockages enterrés, de limiteurs de remplissage. Le stockage sous le niveau du sol n'est autorisé que dans des réservoirs en fosse maçonnée ou assimilés. L'étanchéité des réservoirs doit être contrôlable.
 
@@ -222,9 +222,9 @@ Pour les cuves enterrées, en cas d'impossibilité de mettre en place une cuvett
 
 Objet du contrôle :
 
--présence de cuvettes de rétention (le non-respect de ce point relève d'une non-conformité majeure) ;
+- présence de cuvettes de rétention (le non-respect de ce point relève d'une non-conformité majeure) ;
 
--sur les cuves enterrées, en cas d'impossibilité de mettre en place une cuvette de rétention, présence d'un réseau de drainage.
+- sur les cuves enterrées, en cas d'impossibilité de mettre en place une cuvette de rétention, présence d'un réseau de drainage.
 
 2.11. Isolement du réseau de collecte
 
@@ -240,9 +240,9 @@ Des dispositifs permettant l'obturation des réseaux d'évacuation des eaux de r
 
 Objet du contrôle :
 
--présence d'un dispositif de limitation des conséquences d'une éventuelle surpression brutale ou explosion ;
+- présence d'un dispositif de limitation des conséquences d'une éventuelle surpression brutale ou explosion ;
 
--présence et bon fonctionnement d'un dispositif destiné à prévenir les risques de surpression ou de sous-pression (le non-respect de ce point relève d'une non-conformité majeure).
+- présence et bon fonctionnement d'un dispositif destiné à prévenir les risques de surpression ou de sous-pression (le non-respect de ce point relève d'une non-conformité majeure).
 
 2.13. Caractéristiques des canalisations et stockages de biogaz
 
@@ -256,19 +256,19 @@ Les raccords des tuyauteries de biogaz sont soudés lorsqu'ils sont positionnés
 
 Objet du contrôle :
 
--identification des canalisations par des couleurs normalisées ou par des pictogrammes et report de ces canalisations sur le plan de l'installation ;
+- identification des canalisations par des couleurs normalisées ou par des pictogrammes et report de ces canalisations sur le plan de l'installation ;
 
--conformité des raccords de tuyauterie positionnés dans, ou à proximité immédiate d'un local accueillant des personnes autre que le local de combustion ou présence d'un détecteur de gaz.
+- conformité des raccords de tuyauterie positionnés dans, ou à proximité immédiate d'un local accueillant des personnes autre que le local de combustion ou présence d'un détecteur de gaz.
 
 2.14. Traitement du biogaz
 
-Lorsqu'il existe un dispositif d'injection d'air dans le biogaz destiné à en limiter la teneur en H 2 S par oxydation, ce dispositif est conçu pour prévenir le risque de formation d'une atmosphère explosive ou doté des sécurités permettant de prévenir ce risque.
+Lorsqu'il existe un dispositif d'injection d'air dans le biogaz destiné à en limiter la teneur en H2S par oxydation, ce dispositif est conçu pour prévenir le risque de formation d'une atmosphère explosive ou doté des sécurités permettant de prévenir ce risque.
 
 2.15. Stockage du digestat
 
 Les ouvrages de stockage du digestat sont dimensionnés et exploités de manière à éviter tout déversement dans le milieu naturel. Ils ont une capacité suffisante pour permettre le stockage de la quantité de digestat (fraction solide et fraction liquide) produit pendant au moins quatre mois ou pendant une période correspondant à la plus longue période pendant laquelle son évacuation ou son traitement n'est pas possible. Cette disposition n'est pas applicable si l'exploitant ou un prestataire dispose de capacités de stockage sur un autre site et est en mesure d'en justifier la disponibilité.
 
-3. Exploitation.-Entretien
+3. Exploitation. - Entretien
 
 3.1. Surveillance de l'exploitation et formation
 
@@ -288,11 +288,11 @@ L'exploitant tient à la disposition de l'inspection des installations classées
 
 Objet du contrôle :
 
--présentation de l'attestation de formation (le non-respect de ce point relève d'une non-conformité majeure).
+- présentation de l'attestation de formation (le non-respect de ce point relève d'une non-conformité majeure).
 
-3.2. [⁎]
+3.2. [ * ]
 
-3.3. Connaissance des produits.-Étiquetage
+3.3. Connaissance des produits. - Étiquetage
 
 L'exploitant garde à sa disposition des documents lui permettant de connaître la nature et les risques des produits dangereux présents dans l'installation, en particulier les fiches de données de sécurité.
 
@@ -302,17 +302,17 @@ Les fûts, réservoirs et autres emballages doivent porter en caractères très 
 
 Les locaux sont maintenus propres et régulièrement nettoyés.
 
-3.5. Registres entrées/ sorties
+3.5. Registres entrées/sorties
 
 3.5.1. Admission
 
 L'admission des déchets suivants sur le site de l'installation est interdite :
 
--déchets dangereux au sens de l'article R. 541-8 du code de l'environnement susvisé ;
+- déchets dangereux au sens de l'article R. 541-8 du code de l'environnement susvisé ;
 
--sous-produits animaux de catégorie 1 tels que définis à l'article 4 du règlement (CE) n o 1774 2002 ;
+- sous-produits animaux de catégorie 1 tels que définis à l'article 4 du règlement (CE) no 1774 2002 ;
 
--déchets contenant un ou plusieurs radionucléides dont l'activité ou la concentration ne peut être négligée du point de vue de la radioprotection.
+- déchets contenant un ou plusieurs radionucléides dont l'activité ou la concentration ne peut être négligée du point de vue de la radioprotection.
 
 Toute admission envisagée par l'exploitant de matières à méthaniser d'une nature ou d'une origine différentes de celles mentionnées dans le dossier de déclaration est portée à la connaissance du préfet.
 
@@ -320,15 +320,15 @@ Toute admission envisagée par l'exploitant de matières à méthaniser d'une na
 
 Toute admission de déchets ou de matières donne lieu à un enregistrement :
 
--de leur désignation ;
+- de leur désignation ;
 
--de la date de réception ;
+- de la date de réception ;
 
--du tonnage ou, en cas de livraison par canalisation, du volume ;
+- du tonnage ou, en cas de livraison par canalisation, du volume ;
 
--du nom et de l'adresse de l'expéditeur initial ;
+- du nom et de l'adresse de l'expéditeur initial ;
 
--le cas échéant, de la date et du motif de refus de prise en charge, complétés de la mention de destination prévue des déchets et matières refusés.
+- le cas échéant, de la date et du motif de refus de prise en charge, complétés de la mention de destination prévue des déchets et matières refusés.
 
 L'exploitant est en mesure de justifier de la masse (ou du volume, pour les matières liquides) des matières reçues lors de chaque réception, sur la base d'une pesée effectuée lors de la réception ou des informations et estimations communiquées par le producteur de ces matières ou d'une évaluation effectuée selon une méthode spécifiée.
 
@@ -336,9 +336,9 @@ Les registres d'admission des déchets sont conservés par l'exploitant pendant 
 
 Objet du contrôle :
 
--présence et tenue à jour d'un registre d'admission des déchets et matières (le non-respect de ce point relève d'une non-conformité majeure) ;
+- présence et tenue à jour d'un registre d'admission des déchets et matières (le non-respect de ce point relève d'une non-conformité majeure) ;
 
--vérification de la conformité des matières traitées avec la liste des matières autorisées figurant à l'article 1er.
+- vérification de la conformité des matières traitées avec la liste des matières autorisées figurant à l'article 1er.
 
 3.5.3. Enregistrement des sorties de déchets et de digestat
 
@@ -350,7 +350,7 @@ Le cahier d'épandage tel que prévu par l'arrêté du 7 février 2005 susvisé 
 
 Objet du contrôle :
 
--présence et tenue à jour d'un registre de sortie des déchets (le non-respect de ce point relève d'une non-conformité majeure) ;
+- présence et tenue à jour d'un registre de sortie des déchets (le non-respect de ce point relève d'une non-conformité majeure) ;
 
 3.6. Vérification périodique des installations électriques
 
@@ -358,7 +358,7 @@ Toutes les installations électriques sont maintenues en bon état et sont véri
 
 Objet du contrôle :
 
--présence des éléments justifiant que les installations électriques sont entretenues en bon état et vérifiées conformément aux normes en vigueur.
+- présence des éléments justifiant que les installations électriques sont entretenues en bon état et vérifiées conformément aux normes en vigueur.
 
 3.7. Consignes d'exploitation
 
@@ -368,11 +368,11 @@ L'installation est conçue, équipée, construite et exploitée de manière à c
 
 À cet effet :
 
--si le délai de traitement des matières susceptibles de générer des nuisances à la livraison ou lors de leur entreposage est supérieur à vingt-quatre heures, l'exploitant met en place les moyens d'entreposage adaptés ;
+- si le délai de traitement des matières susceptibles de générer des nuisances à la livraison ou lors de leur entreposage est supérieur à vingt-quatre heures, l'exploitant met en place les moyens d'entreposage adaptés ;
 
--les matières et effluents à traiter sont déchargés dès leur arrivée dans un dispositif de stockage étanche, conçu pour éviter tout écoulement incontrôlé d'effluents liquides ;
+- les matières et effluents à traiter sont déchargés dès leur arrivée dans un dispositif de stockage étanche, conçu pour éviter tout écoulement incontrôlé d'effluents liquides ;
 
--la zone de déchargement est équipée des moyens permettant d'éviter tout envol de matières et de poussières à l'extérieur du site de l'installation.
+- la zone de déchargement est équipée des moyens permettant d'éviter tout envol de matières et de poussières à l'extérieur du site de l'installation.
 
 3.7.2. Surveillance du procédé de méthanisation
 
@@ -384,9 +384,9 @@ L'installation est conçue, équipée, construite et exploitée de manière à c
 
 Objet du contrôle :
 
--existence de dispositifs de contrôle en continu de la température du digestat et de la pression du digesteur ;
+- existence de dispositifs de contrôle en continu de la température du digestat et de la pression du digesteur ;
 
--présence du dispositif de mesure de la quantité de biogaz produit.
+- présence du dispositif de mesure de la quantité de biogaz produit.
 
 3.7.3. Phase de démarrage des installations
 
@@ -398,9 +398,9 @@ Pendant ces phases, toute opération ou intervention de nature à accentuer le r
 
 Objet du contrôle :
 
--existence du rapport de contrôle de l'étanchéité ;
+- existence du rapport de contrôle de l'étanchéité ;
 
--existence d'une consigne spécifique d'exploitation pour les phases de démarrage et redémarrage de l'installation.
+- existence d'une consigne spécifique d'exploitation pour les phases de démarrage et redémarrage de l'installation.
 
 4. Risques
 
@@ -408,21 +408,21 @@ Objet du contrôle :
 
 L'exploitant identifie les zones présentant un risque de présence d'une atmosphère explosive, qui peut également se superposer à un risque toxique. Ce risque est signalé et, lorsque ces zones sont confinées, elles sont équipées de détecteurs de méthane ou d'alarmes. Il est reporté sur un plan général des ateliers et des stockages indiquant les différentes zones de danger correspondant à ces risques.
 
-Ces zones sont définies sans préjudice des dispositions de l'arrêté du 4 novembre 1993, de l'arrêté du 8 juillet 2003 complétant celui-ci, du décret n o 2002-1553 du 24 décembre 2002, ainsi que de l'arrêté du 28 juillet 2003 susvisés. Elles sont reportées sur le plan des installations mentionné au point 1.4. du présent arrêté.
+Ces zones sont définies sans préjudice des dispositions de l'arrêté du 4 novembre 1993, de l'arrêté du 8 juillet 2003 complétant celui-ci, du décret no 2002-1553 du 24 décembre 2002, ainsi que de l'arrêté du 28 juillet 2003 susvisés. Elles sont reportées sur le plan des installations mentionné au point 1.4. du présent arrêté.
 
 Objet du contrôle :
 
--identification et signalisation des zones présentant un risque d'explosion (le non-respect de ce point relève d'une non-conformité majeure).
+- identification et signalisation des zones présentant un risque d'explosion (le non-respect de ce point relève d'une non-conformité majeure).
 
-4.2. [⁎]
+4.2. [ * ]
 
 4.3. Moyens de lutte contre l'incendie
 
 L'installation est dotée de moyens de lutte contre l'incendie appropriés aux risques et conformes aux normes en vigueur, notamment :
 
--d'un ou plusieurs appareils d'incendie (prises d'eau, poteaux par exemple), d'un réseau public ou privé, implantés, de telle sorte que tout point de la limite du stockage se trouve, d'une part, à moins de 100 mètres d'un appareil et, d'autre part, à moins de 200 mètres d'un ou plusieurs appareils permettant de fournir un débit minimal de 60 m 3/ h pendant une durée d'au moins deux heures ;
+- d'un ou plusieurs appareils d'incendie (prises d'eau, poteaux par exemple), d'un réseau public ou privé, implantés, de telle sorte que tout point de la limite du stockage se trouve, d'une part, à moins de 100 mètres d'un appareil et, d'autre part, à moins de 200 mètres d'un ou plusieurs appareils permettant de fournir un débit minimal de 60 m3/h pendant une durée d'au moins deux heures ;
 
--de robinets d'incendie armés situés à proximité des issues. Ils sont disposés de telle sorte qu'un foyer puisse être attaqué simultanément par deux lances sous deux angles différents.
+- de robinets d'incendie armés situés à proximité des issues. Ils sont disposés de telle sorte qu'un foyer puisse être attaqué simultanément par deux lances sous deux angles différents.
 
 À défaut, une réserve d'eau destinée à l'extinction est accessible en toutes circonstances et à une distance du stockage ayant recueilli l'accord des services départementaux d'incendie et de secours.
 
@@ -432,29 +432,29 @@ Ces moyens sont utilisables en période de gel. L'exploitant est en mesure de ju
 
 Objet du contrôle :
 
--présence des appareils d'incendie (bouches, poteaux...) (au moins un) et des extincteurs (au moins un) (le non-respect de ce point relève d'une non-conformité majeure) ;
+- présence des appareils d'incendie (bouches, poteaux...) (au moins un) et des extincteurs (au moins un) (le non-respect de ce point relève d'une non-conformité majeure) ;
 
--implantation des appareils d'incendie (bouches, poteaux...) et des extincteurs (le non-respect de ce point relève d'une non-conformité majeure).
+- implantation des appareils d'incendie (bouches, poteaux...) et des extincteurs(le non-respect de ce point relève d'une non-conformité majeure).
 
 4.4. Matériels utilisables dans les zones à risque d'explosion
 
-Le matériel implanté dans les zones pouvant présenter un risque d'explosion, identifiées conformément aux dispositions de l'article 4.1, est conforme aux prescriptions du décret n o 96-1010 du 19 novembre 1996 susvisé. Les installations électriques sont réalisées avec du matériel normalisé et installées conformément aux normes applicables, par des personnes compétentes et en conformité avec la réglementation ATEX en vigueur.
+Le matériel implanté dans les zones pouvant présenter un risque d'explosion, identifiées conformément aux dispositions de l'article 4.1, est conforme aux prescriptions du décret no 96-1010 du 19 novembre 1996 susvisé. Les installations électriques sont réalisées avec du matériel normalisé et installées conformément aux normes applicables, par des personnes compétentes et en conformité avec la réglementation ATEX en vigueur.
 
 Les gaines et chemins de câbles électriques ne doivent pas être une cause possible d'inflammation et doivent être convenablement protégés contre les chocs, contre la propagation des flammes et contre l'action des produits présents dans la partie de l'installation en cause.
 
 4.5. Interdiction des feux
 
-Dans les parties de l'installation visées au point 4.1, présentant des risques d'incendie ou d'explosion, il est interdit d'apporter du feu sous une forme quelconque, sauf pour la réalisation de travaux ayant fait l'objet d'un " permis de feu ". Cette interdiction doit être affichée en caractères apparents.
+Dans les parties de l'installation visées au point 4.1, présentant des risques d'incendie ou d'explosion, il est interdit d'apporter du feu sous une forme quelconque, sauf pour la réalisation de travaux ayant fait l'objet d'un "permis de feu". Cette interdiction doit être affichée en caractères apparents.
 
 Objet du contrôle :
 
--affichage, dans les zones présentant un risque explosif, de l'interdiction d'apporter du feu. (Le non-respect de ce point relève d'une non-conformité majeure).
+- affichage, dans les zones présentant un risque explosif, de l'interdiction d'apporter du feu. (Le non-respect de ce point relève d'une non-conformité majeure).
 
-4.6. Permis d'intervention.-Permis de feu
+4.6. Permis d'intervention. - Permis de feu
 
-Dans les parties de l'installation visées au point 4.1, tous les travaux de réparation ou d'aménagement conduisant à une augmentation des risques (emploi d'une flamme ou d'une source chaude, purge des circuits...) ne peuvent être effectués qu'après délivrance d'un " permis d'intervention " et éventuellement d'un " permis de feu " et en respectant les règles d'une consigne particulière.
+Dans les parties de l'installation visées au point 4.1, tous les travaux de réparation ou d'aménagement conduisant à une augmentation des risques (emploi d'une flamme ou d'une source chaude, purge des circuits...) ne peuvent être effectués qu'après délivrance d'un "permis d'intervention" et éventuellement d'un "permis de feu" et en respectant les règles d'une consigne particulière.
 
-Le " permis d'intervention " et éventuellement le " permis de feu " et la consigne particulière sont établis et visés par l'exploitant ou par la personne qu'il aura expressément désignée. Ils sont délivrés après analyse des risques correspondants et définition des mesures de prévention. Lorsque les travaux sont effectués par une entreprise extérieure, le " permis d'intervention " et éventuellement le " permis de feu " et la consigne particulière relative à la sécurité de l'installation sont cosignés par l'exploitant et l'entreprise extérieure ou les personnes qu'ils auront désignées.
+Le "permis d'intervention" et éventuellement le "permis de feu" et la consigne particulière sont établis et visés par l'exploitant ou par la personne qu'il aura expressément désignée. Ils sont délivrés après analyse des risques correspondants et définition des mesures de prévention. Lorsque les travaux sont effectués par une entreprise extérieure, le "permis d'intervention" et éventuellement le "permis de feu" et la consigne particulière relative à la sécurité de l'installation sont cosignés par l'exploitant et l'entreprise extérieure ou les personnes qu'ils auront désignées.
 
 Avant la remise en service de l'équipement ayant fait l'objet des travaux mentionnés ci-dessus, l'exploitant vérifie que le niveau de prévention des risques n'a pas été dégradé.
 
@@ -462,27 +462,27 @@ Avant la remise en service de l'équipement ayant fait l'objet des travaux menti
 
 Sans préjudice des dispositions du code du travail, des consignes précisant les modalités d'application des dispositions du présent arrêté sont établies, tenues à jour et portées à la connaissance du personnel dans les lieux fréquentés par le personnel. Ces consignes indiquent notamment :
 
--l'interdiction d'apporter du feu sous quelque forme que ce soit, dans les parties de l'installation susceptibles de contenir du biogaz ;
+- l'interdiction d'apporter du feu sous quelque forme que ce soit, dans les parties de l'installation susceptibles de contenir du biogaz ;
 
--l'obligation du " permis d'intervention " ou du " permis de feu " pour les parties de l'installation susceptibles de contenir du biogaz ;
+- l'obligation du "permis d'intervention" ou du "permis de feu" pour les parties de l'installation susceptibles de contenir du biogaz ;
 
--les procédures d'arrêt d'urgence et de mise en sécurité de l'installation (électricité, réseaux de fluides) ;
+- les procédures d'arrêt d'urgence et de mise en sécurité de l'installation (électricité, réseaux de fluides) ;
 
--les mesures à prendre en cas de fuite sur un récipient ou une canalisation contenant des substances dangereuses, notamment les conditions de rejet prévues au point 5.7 ;
+- les mesures à prendre en cas de fuite sur un récipient ou une canalisation contenant des substances dangereuses, notamment les conditions de rejet prévues au point 5.7 ;
 
--les précautions à prendre avec l'emploi et le stockage de produits incompatibles ;
+- les précautions à prendre avec l'emploi et le stockage de produits incompatibles ;
 
--les moyens d'extinction à utiliser en cas d'incendie ;
+- les moyens d'extinction à utiliser en cas d'incendie ;
 
--la procédure d'alerte avec les numéros de téléphone du responsable d'intervention de l'établissement, des services d'incendie et de secours, etc. ;
+- la procédure d'alerte avec les numéros de téléphone du responsable d'intervention de l'établissement, des services d'incendie et de secours, etc. ;
 
--les modalités de mise en œuvre des dispositifs d'isolement du réseau de collecte, prévues au point 2.11 ;
+- les modalités de mise en œuvre des dispositifs d'isolement du réseau de collecte, prévues au point 2.11 ;
 
--l'obligation d'informer l'inspection des installations classées en cas d'accident.
+- l'obligation d'informer l'inspection des installations classées en cas d'accident.
 
 Objet du contrôle :
 
--présence de chacune de ces consignes.
+- présence de chacune de ces consignes.
 
 5. Eau
 
@@ -512,25 +512,25 @@ Sans préjudice de l'autorisation de déversement dans le réseau public (art. L
 
 a) Dans tous les cas, avant rejet au milieu naturel ou dans un réseau d'assainissement collectif ;
 
--pH 5,5-8,5 (9,5 en cas de neutralisation alcaline) ;
+- pH 5,5-8,5 (9,5 en cas de neutralisation alcaline) ;
 
--température < 30° C.
+- température < 30 °C.
 
-b) Dans le cas de rejet dans un réseau d'assainissement collectif muni d'une station d'épuration, lorsque le flux maximal apporté par l'effluent est susceptible de dépasser 15 kg/ j de MEST ou 15 kg/ j de DBO 5 ou 45 kg/ j de DCO :
+b) Dans le cas de rejet dans un réseau d'assainissement collectif muni d'une station d'épuration, lorsque le flux maximal apporté par l'effluent est susceptible de dépasser 15 kg/j de MEST ou 15 kg/j de DBO5 ou 45 kg/j de DCO :
 
--matières en suspension : 600 mg/ l ;
+- matières en suspension : 600 mg/l ;
 
--DCO : 2 000 mg/ l ;
+- DCO : 2 000 mg/l ;
 
--DBO 5 800 mg/ l.
+- DBO5 800 mg/l.
 
 c) Dans le cas de rejet dans le milieu naturel ou dans un réseau d'assainissement collectif dépourvu de station d'épuration :
 
--matières en suspension : la concentration ne doit pas dépasser 100 mg/ l si le flux journalier n'excède pas 15 kg/ j, 35 mg/ l au-delà ;
+- matières en suspension : la concentration ne doit pas dépasser 100 mg/l si le flux journalier n'excède pas 15 kg/j, 35 mg/l au-delà ;
 
--DCO : la concentration ne doit pas dépasser 300 mg/ l si le flux journalier n'excède pas 100 kg/ j, 125 mg/ l au-delà ;
+- DCO : la concentration ne doit pas dépasser 300 mg/l si le flux journalier n'excède pas 100 kg/j, 125 mg/l au-delà ;
 
--DBO 5 : la concentration ne doit pas dépasser 100 mg/ l si le flux journalier n'excède pas 30 kg/ j, 30 mg/ l au-delà.
+- DBO5 : la concentration ne doit pas dépasser 100 mg/l si le flux journalier n'excède pas 30 kg/j, 30 mg/l au-delà.
 
 Dans tous les cas, les rejets doivent être compatibles avec la qualité ou les objectifs de qualité des cours d'eau.
 
@@ -554,19 +554,19 @@ b) En cas de risque de dépassement des capacités de stockage du digestat, l'ex
 
 c) Une étude préalable d'épandage précise l'innocuité (dans les conditions d'emploi) et l'intérêt agronomique du digestat au regard des paramètres définis à l'annexe II, l'aptitude du sol à le recevoir, et le plan d'épandage détaillé ci-après. Cette étude justifie la compatibilité de l'épandage avec les contraintes environnementales recensées et les documents de planification existants, notamment les plans prévus à l'article L. 541-14 du code de l'environnement et les schémas d'aménagement et de gestion des eaux, prévus aux articles L. 212-1 et 212-3 du code de l'environnement. L'étude préalable comprend notamment :
 
--la caractérisation du digestat à épandre (quantités prévisionnelles, rythme de production, valeur agronomique) ;
+- la caractérisation du digestat à épandre (quantités prévisionnelles, rythme de production, valeur agronomique) ;
 
--la description des caractéristiques des sols, notamment au regard des paramètres définis à l'annexe II ;
+- la description des caractéristiques des sols, notamment au regard des paramètres définis à l'annexe II ;
 
--la description des modalités techniques de réalisation de l'épandage ;
+- la description des modalités techniques de réalisation de l'épandage ;
 
 d) Un plan d'épandage est réalisé, constitué :
 
--d'une carte à une échelle minimum de 1/12 500 permettant de localiser les surfaces où l'épandage est possible compte tenu des exclusions mentionnées au point f " Règles d'épandages ". Cette carte fait apparaître les contours et les numéros des unités de surface permettant de les repérer, ainsi que les zones exclues à l'épandage ;
+- d'une carte à une échelle minimum de 1/12 500 permettant de localiser les surfaces où l'épandage est possible compte tenu des exclusions mentionnées au point f "Règles d'épandages". Cette carte fait apparaître les contours et les numéros des unités de surface permettant de les repérer, ainsi que les zones exclues à l'épandage ;
 
--d'un document mentionnant l'identité et l'adresse des prêteurs de terres qui ont souscrit un contrat écrit avec l'exploitant ;
+- d'un document mentionnant l'identité et l'adresse des prêteurs de terres qui ont souscrit un contrat écrit avec l'exploitant ;
 
--d'un tableau référençant les surfaces repérées sur le support cartographique et indiquant, pour chaque unité, la superficie totale et la superficie épandable.
+- d'un tableau référençant les surfaces repérées sur le support cartographique et indiquant, pour chaque unité, la superficie totale et la superficie épandable.
 
 e) Les apports azotés, toutes origines confondues, organique et minérale, sur les terres faisant l'objet d'un épandage, tiennent compte de la nature particulière des terrains et de la rotation des cultures. La fertilisation est équilibrée et correspond aux capacités exportatrices de la culture concernée. La fertilisation azotée organique est interdite sur toutes les légumineuses, sauf la luzerne et les prairies d'association graminées-légumineuses. S'il apparaît nécessaire de renforcer la protection des eaux, le préfet peut fixer les quantités épandables d'azote et de phosphore à ne pas dépasser.
 
@@ -574,15 +574,15 @@ f) Règles d'épandage :
 
 L'épandage est effectué par enfouissement direct, par pendillards ou par un dispositif équivalent permettant de limiter les émissions atmosphériques d'ammoniac. Il est interdit :
 
--à moins de 50 mètres de toute habitation de tiers ou tout local habituellement occupé par des tiers, les stades ou les terrains de camping agréés, à l'exception des terrains de camping à la ferme, cette distance étant réduite à 15 mètres en cas d'enfouissement direct ;
+- à moins de 50 mètres de toute habitation de tiers ou tout local habituellement occupé par des tiers, les stades ou les terrains de camping agréés, à l'exception des terrains de camping à la ferme, cette distance étant réduite à 15 mètres en cas d'enfouissement direct ;
 
--à moins de 50 mètres des points de prélèvement d'eau destinée à l'alimentation des collectivités humaines ou des particuliers, à moins de 200 mètres des lieux publics de baignades et des plages, à moins de 500 mètres en amont des piscicultures et des zones conchylicoles ;
+- à moins de 50 mètres des points de prélèvement d'eau destinée à l'alimentation des collectivités humaines ou des particuliers, à moins de 200 mètres des lieux publics de baignades et des plages, à moins de 500 mètres en amont des piscicultures et des zones conchylicoles ;
 
--à moins de 35 mètres des berges des cours d'eau, cette limite étant réduite à 10 mètres si une bande de 10 mètres enherbée ou boisée et ne recevant aucun intrant est implantée de façon permanente en bordure des cours d'eau ;
+- à moins de 35 mètres des berges des cours d'eau, cette limite étant réduite à 10 mètres si une bande de 10 mètres enherbée ou boisée et ne recevant aucun intrant est implantée de façon permanente en bordure des cours d'eau ;
 
--sur les terrains de forte pente, sauf s'il est mis en place des dispositifs prévenant tout risque d'écoulement et de ruissellement vers les cours d'eau, sur les sols pris en masse par le gel ou enneigés, sur les sols inondés ou détrempés, sur les sols non utilisés en vue d'une production agricoles ;
+- sur les terrains de forte pente, sauf s'il est mis en place des dispositifs prévenant tout risque d'écoulement et de ruissellement vers les cours d'eau, sur les sols pris en masse par le gel ou enneigés, sur les sols inondés ou détrempés, sur les sols non utilisés en vue d'une production agricoles ;
 
--pendant les périodes de forte pluviosité.
+- pendant les périodes de forte pluviosité.
 
 En aucun cas la capacité d'absorption des sols ne doit être dépassée, de telle sorte que ni la stagnation prolongée sur ces sols ni le ruissellement en dehors du champ d'épandage ni une percolation rapide vers les nappes souterraines ne puissent se produire.
 
@@ -590,19 +590,19 @@ g) Un cahier d'épandage, tenu sous la responsabilité de l'exploitant, à la di
 
 Objet du contrôle :
 
--existence de l'étude préalable d'épandage (le non-respect de ce point relève d'une non-conformité majeure) ;
+- existence de l'étude préalable d'épandage (le non-respect de ce point relève d'une non-conformité majeure) ;
 
--existence du plan d'épandage (le non-respect de ce point relève d'une non-conformité majeure) ;
+- existence du plan d'épandage (le non-respect de ce point relève d'une non-conformité majeure) ;
 
--présence du cahier d'épandage régulièrement rempli (le non-respect de ce point relève d'une non-conformité majeure).
+- présence du cahier d'épandage régulièrement rempli (le non-respect de ce point relève d'une non-conformité majeure).
 
 5.9. Surveillance par l'exploitant de la pollution rejetée
 
 Une mesure des concentrations des différents polluants visés au point 5.5 susceptibles d'être émis par l'installation est effectuée sur les effluents rejetés, au moins tous les trois ans, par un organisme agréé par le ministre chargé de l'environnement. Ces mesures sont effectuées sur un échantillon représentatif du fonctionnement de l'installation et constitué soit par un prélèvement continu d'une demi-heure, soit par au moins deux prélèvements instantanés espacés d'une demi-heure.
 
-Le débit est également mesuré, ou estimée à partir des consommations, si celui-ci est supérieur à 10 m 3/ j.
+Le débit est également mesuré, ou estimée à partir des consommations, si celui-ci est supérieur à 10 m3/j.
 
-6. Air.-Odeurs
+6. Air. - Odeurs
 
 6.1. Captage et épuration des rejets à l'atmosphère
 
@@ -614,25 +614,25 @@ Si la circulation d'engins ou de véhicules dans l'enceinte de l'installation en
 
 Sans préjudice des dispositions du code du travail, les installations et les entrepôts pouvant dégager des émissions odorantes sont aménagés autant que possible dans des locaux confinés et si besoin ventilés. Les effluents gazeux canalisés odorants sont, le cas échéant, récupérés et acheminés vers une installation d'épuration des gaz. Les sources potentielles d'odeurs (bassin de stockage, bassin de traitement...) difficiles à confiner en raison de leur grande surface sont implantées de manière à limiter la gêne pour le voisinage en tenant compte, notamment, de la direction des vents dominants.
 
-6.3. [⁎]
+6.3. [ * ]
 
 6.4. Composition du biogaz et prévention de son rejet
 
 a) Le rejet direct de biogaz dans l'air est interdit en fonctionnement normal.
 
-b) La teneur en CH 4 et H 2 S du biogaz produit est mesurée en continu ou au moyen d'analyses effectuées au minimum une fois par jour, sur un équipement contrôlé annuellement et étalonné a minima tous les trois ans par un organisme extérieur. Les résultats des mesures sont consignés et tenus à la disposition des services chargés du contrôle des installations.
+b) La teneur en CH4 et H2S du biogaz produit est mesurée en continu ou au moyen d'analyses effectuées au minimum une fois par jour, sur un équipement contrôlé annuellement et étalonné a minima tous les trois ans par un organisme extérieur. Les résultats des mesures sont consignés et tenus à la disposition des services chargés du contrôle des installations.
 
-c) La teneur en H 2 S du biogaz issu de l'installation de méthanisation en fonctionnement stabilisé à la sortie de l'installation est inférieure à 300 ppm.
+c) La teneur en H2S du biogaz issu de l'installation de méthanisation en fonctionnement stabilisé à la sortie de l'installation est inférieure à 300 ppm.
 
 Objet du contrôle :
 
--réalisation des contrôles de la qualité du biogaz ;
+- réalisation des contrôles de la qualité du biogaz ;
 
--conformité de la teneur du biogaz en H 2 S.
+- conformité de la teneur du biogaz en H2S.
 
 7. Déchets
 
-7.1. Récupération.-Recyclage.-Élimination
+7.1. Récupération. - Recyclage. - Élimination
 
 Toutes dispositions sont prises pour limiter les quantités des déchets produits et pour favoriser le recyclage ou la valorisation des matières conformément à la réglementation.
 
@@ -650,7 +650,7 @@ Leur quantité stockée sur le site ne dépasse pas la capacité mensuelle produ
 
 Objet du contrôle :
 
--présence d'un emplacement dédié à l'entreposage des déchets produits par l'installation et des déchets indésirables.
+- présence d'un emplacement dédié à l'entreposage des déchets produits par l'installation et des déchets indésirables.
 
 7.4. Déchets non dangereux
 
@@ -658,7 +658,7 @@ Les déchets non dangereux et non souillés par des produits toxiques ou polluan
 
 Les seuls modes d'élimination autorisés pour les déchets d'emballage sont la valorisation par réemploi, recyclage ou toute autre action visant à obtenir des matériaux utilisables ou de l'énergie. Cette disposition n'est pas applicable aux détenteurs de déchets d'emballage qui en produisent un volume hebdomadaire inférieur à 1 100 litres et qui les remettent au service de collecte et de traitement des communes.
 
-7.5. [⁎]
+7.5. [ * ]
 
 7.6. Brûlage
 
@@ -670,15 +670,15 @@ Le brûlage des déchets à l'air libre est interdit.
 
 Au sens du présent arrêté, on appelle :
 
--" émergence " : la différence entre les niveaux de pression continus équivalents pondérés A, notés LAeq, T, du bruit ambiant (installation en fonctionnement) et du bruit résiduel (installation à l'arrêt) ;
+- "émergence" : la différence entre les niveaux de pression continus équivalents pondérés A, notés LAeq, T, du bruit ambiant (installation en fonctionnement) et du bruit résiduel (installation à l'arrêt) ;
 
--" zones à émergence réglementée " :
+- "zones à émergence réglementée" :
 
--l'intérieur des immeubles habités ou occupés par des tiers, existant à la date de la déclaration et, le cas échéant, en tout point de leurs parties extérieures les plus proches (cour, jardin, terrasse) ;
+- l'intérieur des immeubles habités ou occupés par des tiers, existant à la date de la déclaration et, le cas échéant, en tout point de leurs parties extérieures les plus proches (cour, jardin, terrasse) ;
 
--les zones constructibles, à l'exclusion des zones destinées à recevoir des activités artisanales ou industrielles, définies par des documents d'urbanisme opposables aux tiers et publiés à la date de la déclaration ;
+- les zones constructibles, à l'exclusion des zones destinées à recevoir des activités artisanales ou industrielles, définies par des documents d'urbanisme opposables aux tiers et publiés à la date de la déclaration ;
 
--l'intérieur des immeubles habités ou occupés par des tiers qui ont été implantés dans les zones constructibles définies par des documents d'urbanisme opposables aux tiers et publiés à la date de la déclaration et, le cas échéant, en tout point de leurs parties extérieures les plus proches (cour, jardin, terrasse), à l'exclusion des parties extérieures des immeubles implantés dans les zones destinées à recevoir des activités artisanales ou industrielles. Pour les installations existantes (déclarées avant le 1er janvier 1997), la date de la déclaration est remplacée, dans la définition ci-dessus des zones à émergence réglementée, par la date du présent arrêté. L'installation est construite, équipée et exploitée de façon telle que son fonctionnement ne puisse être à l'origine de bruits aériens ou solidiens susceptibles de compromettre la santé ou la sécurité du voisinage ou de constituer une gêne pour sa tranquillité.
+- l'intérieur des immeubles habités ou occupés par des tiers qui ont été implantés dans les zones constructibles définies par des documents d'urbanisme opposables aux tiers et publiés à la date de la déclaration et, le cas échéant, en tout point de leurs parties extérieures les plus proches (cour, jardin, terrasse), à l'exclusion des parties extérieures des immeubles implantés dans les zones destinées à recevoir des activités artisanales ou industrielles. Pour les installations existantes (déclarées avant le 1er janvier 1997), la date de la déclaration est remplacée, dans la définition ci-dessus des zones à émergence réglementée, par la date du présent arrêté. L'installation est construite, équipée et exploitée de façon telle que son fonctionnement ne puisse être à l'origine de bruits aériens ou solidiens susceptibles de compromettre la santé ou la sécurité du voisinage ou de constituer une gêne pour sa tranquillité.
 
 Les émissions sonores émises par l'installation ne doivent pas être à l'origine, dans les zones à émergence réglementée, d'une émergence supérieure aux valeurs admissibles précisées dans le tableau suivant :
 
@@ -750,17 +750,17 @@ L'usage de tous appareils de communication par voie acoustique (sirènes, averti
 
 8.3. Vibrations
 
-Les règles techniques annexées à la circulaire n o 86-23 du 23 juillet 1986 (Journal officiel du 22 octobre 1986) sont applicables.
+Les règles techniques annexées à la circulaire no 86-23 du 23 juillet 1986 (Journal officiel du 22 octobre 1986) sont applicables.
 
 8.4. Mesure de bruit
 
-Les mesures sont effectuées selon la méthode définie aux points 2.1,2.2 et 2.3 de l'arrêté du 20 août 1985. Ces mesures sont effectuées dans des conditions représentatives du fonctionnement de l'installation sur une durée d'une demi-heure au moins. Une mesure du niveau de bruit et de l'émergence doit être effectuée au moins tous les trois ans.
+Les mesures sont effectuées selon la méthode définie aux points 2.1, 2.2 et 2.3 de l'arrêté du 20 août 1985. Ces mesures sont effectuées dans des conditions représentatives du fonctionnement de l'installation sur une durée d'une demi-heure au moins. Une mesure du niveau de bruit et de l'émergence doit être effectuée au moins tous les trois ans.
 
 Objet du contrôle :
 
--présence des résultats des mesures faites par l'exploitant ;
+- présence des résultats des mesures faites par l'exploitant ;
 
--conformité des résultats de mesures avec les valeurs limites d'émission applicables.
+- conformité des résultats de mesures avec les valeurs limites d'émission applicables.
 
 9. Remise en état en fin d'exploitation
 

@@ -36,7 +36,7 @@ L’exploitant établit et tient à jour un dossier comportant les documents sui
 
 – les plans tenus à jour ;
 
-– le récépissé de déclaration et les prescriptions générales ;
+– la preuve de dépôt de la déclaration et les prescriptions générales ;
 
 – les arrêtés préfectoraux relatifs à l’installation concernée, pris en application de la législation relative aux installations classées pour la protection de l’environnement, lorsqu’ils existent ;
 
@@ -50,7 +50,7 @@ Ce dossier est tenu à la disposition de l’inspection des installations class�
 
 Objet du contrôle :
 
-– présence du récépissé de déclaration et des prescriptions générales ;
+– présence de la preuve de dépôt de la déclaration et des prescriptions générales ;
 
 – vérification de la quantité maximale au regard de la quantité déclarée ;
 
@@ -134,7 +134,7 @@ Sans préjudice des dispositions du code du travail, les locaux sont convenablem
 
 2.7. Installations électriques
 
-Les installations électriques sont réalisées conformément aux règles en vigueur, notamment par l’application du décret no 88-1056 du 14 novembre 1988 relatif à la réglementation du travail ou par l’application des articles de la quatrième partie du code du travail.
+Les installations électriques sont réalisées conformément aux règles en vigueur, notamment par l’application du décret n° 88-1056 du 14 novembre 1988 relatif à la réglementation du travail ou par l’application des articles de la quatrième partie du code du travail.
 
 2.8. Mise à la terre des équipements
 
@@ -512,7 +512,7 @@ L’usage de tous appareils de communication par voie acoustique (sirènes, aver
 
 8.3. Vibrations
 
-Les règles techniques annexées à la circulaire no 86-23 du 23 juillet 1986 sont applicables.
+Les règles techniques annexées à la circulaire n° 86-23 du 23 juillet 1986 sont applicables.
 
 8.4. Mesure de bruit
 

@@ -36,7 +36,7 @@ L'exploitant établit et tient à jour un dossier comportant les documents suiva
 
 - les plans tenus à jour, c'est-à-dire le plan général d'implantation et le plan des tuyauteries. Pour les installations existantes, le plan des tuyauteries concerne les tuyauteries mises en place après le 3 avril 2003 ;
 
-- le récépissé de déclaration et les prescriptions générales ;
+- la preuve de dépôt de la déclaration et les prescriptions générales ;
 
 - les arrêtés préfectoraux relatifs à l'installation concernée, pris en application de la législation relative aux installations classées pour la protection de l'environnement, s'il y en a ;
 
@@ -1012,7 +1012,7 @@ Objet du contrôle :
 
 7.3. (*)
 
-7.4. (*)
+7.4.(*)
 
 7.5. (*)
 

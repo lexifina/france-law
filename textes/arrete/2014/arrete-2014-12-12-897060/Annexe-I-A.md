@@ -84,7 +84,7 @@ L'exploitant tient à jour un dossier comportant :
 
 - les plans tenus à jour ;
 
-- le récépissé de déclaration et les prescriptions générales ;
+- la preuve de dépôt de la déclaration et les prescriptions générales ;
 
 - les arrêtés préfectoraux relatifs à l'installation concernée, pris en application de la législation relative aux installations classées pour la protection de l'environnement, s'ils existent ;
 
@@ -100,7 +100,7 @@ Ce dossier est tenu à la disposition de l'inspection des installations classée
 
 Objet du contrôle :
 
-- présence du récépissé de déclaration ;
+- présence de la preuve de dépôt de la déclaration ;
 
 - vérification que la quantité totale de matière active présente est inférieure au palier supérieur du régime déclaratif tel que défini à l'annexe de l'article R. 511-9 du code de l'environnement (le non-respect de ce point relève d'une non-conformité majeure) ;
 
@@ -990,25 +990,17 @@ Supérieur à 35 et inférieur ou égal à 45 dB (A)
 
 |
 
-6 dB (A)
+6 dB (A) |
 
-|
-
-4 dB (A)
-
-|
+4 dB (A) |
 
 Supérieur à 45 dB (A)
 
 |
 
-5 dB (A)
+5 dB (A) |
 
-|
-
-3 dB (A)
-
-|
+3 dB (A) |
 
 De plus, le niveau de bruit en limite de propriété de l'installation ne dépasse pas, lorsqu'elle est en fonctionnement, 70 dB (A) pour la période de jour et 60 dB (A) pour la période de nuit, sauf si le bruit résiduel pour la période considérée est supérieur à cette limite.
 

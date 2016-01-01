@@ -22,7 +22,7 @@ L'exploitant doit établir et tenir à jour un dossier comportant les documents 
 
 - les plans tenus à jour,
 
-- le récépissé de déclaration et les prescriptions générales,
+- la preuve de dépôt de la déclaration et les prescriptions générales,
 
 - les arrêtés préfectoraux relatifs à l'installation concernée, pris en application de la législation relative aux installations classées pour la protection de l'environnement, s'il y en a,
 
@@ -322,7 +322,9 @@ L'installation est construite, équipée et exploitée de façon telle que son f
 
 Les émissions sonores émises par l'installation ne doivent pas être à l'origine, dans les zones à émergence réglementée, d'une émergence supérieure aux valeurs admissibles précisées dans le tableau suivant :
 
-Niveau de bruit ambiant existant dans les zones à émergence réglementée (incluant le bruit de l'installation)
+Niveau de bruit ambiant existant dans les zones à émergence réglementée
+
+(incluant le bruit de l'installation)
 
 |
 

@@ -28,7 +28,7 @@ L'exploitant établit et tient à jour un dossier comportant les documents suiva
 
 - les plans tenus à jour ;
 
-- le récépissé de déclaration et les prescriptions générales ;
+- la preuve de dépôt de la déclaration et les prescriptions générales ;
 
 - le cas échéant, les arrêtés préfectoraux relatifs à l'installation concernée, pris en application de la législation relative aux installations classées pour la protection de l'environnement ;
 
@@ -50,7 +50,7 @@ Objet du contrôle :
 
 - vérification que la capacité maximale est inférieure au seuil maximal du régime déclaratif tel que défini à l'annexe de l'article R. 511-9 du code de l'environnement (le non-respect de ce point relève d'une non-conformité majeure) ;
 
-- présence du récépissé de déclaration ;
+- présence de la preuve de dépôt de la déclaration ;
 
 - présence des prescriptions générales ;
 

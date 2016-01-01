@@ -1,6 +1,6 @@
 # Article Annexe I
 
-PRESCRIPTIONS GÉNÉRALES ET FAISANT L'OBJET DU CONTRÔLE PÉRIODIQUE APPLICABLES AUX INSTALLATIONS CLASSÉES POUR LA PROTECTION DE L'ENVIRONNEMENT SOUMISES À DÉCLARATION SOUS LA RUBRIQUE N o 4710
+PRESCRIPTIONS GÉNÉRALES ET FAISANT L'OBJET DU CONTRÔLE PÉRIODIQUE APPLICABLES AUX INSTALLATIONS CLASSÉES POUR LA PROTECTION DE L'ENVIRONNEMENT SOUMISES À DÉCLARATION SOUS LA RUBRIQUE No 4710
 
 1. Dispositions générales
 
@@ -14,9 +14,9 @@ L'installation est implantée, réalisée et exploitée conformément aux plans 
 
 L'installation est soumise à des contrôles périodiques par des organismes agréés dans les conditions définies par les articles R. 512-55 à R. 512-60 du code de l'environnement.
 
-Ces contrôles ont pour objet de vérifier la conformité de l'installation aux prescriptions repérées dans la présente annexe par le terme : " objet du contrôle ", éventuellement modifiées par arrêté préfectoral, lorsqu'elles lui sont applicables.
+Ces contrôles ont pour objet de vérifier la conformité de l'installation aux prescriptions repérées dans la présente annexe par le terme: "objet du contrôle", éventuellement modifiées par arrêté préfectoral, lorsqu'elles lui sont applicables.
 
-Les prescriptions dont le non-respect constitue une non-conformité majeure entraînant l'information du préfet dans les conditions prévues à l'article R. 512-59-1 sont repérées dans la présente annexe par la mention : " le non-respect de ce point relève d'une non-conformité majeure ".
+Les prescriptions dont le non-respect constitue une non-conformité majeure entraînant l'information du préfet dans les conditions prévues à l'article R. 512-59-1 sont repérées dans la présente annexe par la mention: "le non-respect de ce point relève d'une non-conformité majeure".
 
 L'exploitant conserve le rapport de visite que l'organisme agréé lui adresse dans le dossier installations classées prévu au point 1.4. Si le rapport fait apparaître des non-conformités aux dispositions faisant l'objet du contrôle, l'exploitant met en œuvre les actions correctives nécessaires pour y remédier. Ces actions ainsi que leurs dates de mise en œuvre sont formalisées et conservées dans le dossier susmentionné.
 
@@ -32,35 +32,35 @@ La déclaration précise les mesures prises relatives aux conditions d'utilisati
 
 L'exploitant établit et tient à jour un dossier comportant les documents suivants :
 
--le dossier de déclaration ;
+- le dossier de déclaration ;
 
--les plans tenus à jour ;
+- les plans tenus à jour ;
 
--le récépissé de déclaration et les prescriptions générales ;
+- la preuve de dépôt de la déclaration et les prescriptions générales ;
 
--les arrêtés préfectoraux relatifs à l'installation concernée, pris en application de la législation relative aux installations classées pour la protection de l'environnement, lorsqu'ils existent ;
+- les arrêtés préfectoraux relatifs à l'installation concernée, pris en application de la législation relative aux installations classées pour la protection de l'environnement, lorsqu'ils existent ;
 
--les résultats des dernières mesures sur les effluents et le bruit ;
+- les résultats des dernières mesures sur les effluents et le bruit ;
 
--les rapports des visites et contrôles prévus à la présente annexe ;
+- les rapports des visites et contrôles prévus à la présente annexe ;
 
--les documents prévus au titre des points suivants de la présente annexe ;
+- les documents prévus au titre des points suivants de la présente annexe ;
 
--le dossier rassemblant des éléments relatifs au risque (notamment les caractéristiques physiques, chimiques et toxicologiques du chlore employé ou stocké, incompatibilités entre les produits et matériaux utilisés dans l'installation) tel que prévu au point 3.3.
+- le dossier rassemblant des éléments relatifs au risque (notamment les caractéristiques physiques, chimiques et toxicologiques du chlore employé ou stocké, incompatibilités entre les produits et matériaux utilisés dans l'installation) tel que prévu au point 3.3.
 
 L'ensemble de ces documents est tenu à la disposition de l'inspection des installations classées et de l'organisme chargé du contrôle périodique.
 
 Objet du contrôle :
 
--présentation du récépissé de la déclaration et des prescriptions générales ;
+- présentation du récépissé de la déclaration et des prescriptions générales ;
 
--présentation des arrêtés préfectoraux relatifs à l'installation, lorsqu'ils existent ;
+- présentation des arrêtés préfectoraux relatifs à l'installation, lorsqu'ils existent ;
 
--vérification de la quantité totale présente dans l'installation le jour du contrôle au regard de la quantité déclarée ;
+- vérification de la quantité totale présente dans l'installation le jour du contrôle au regard de la quantité déclarée ;
 
--vérification que la quantité totale présente dans l'installation le jour du contrôle est inférieure au palier supérieur du régime déclaratif tel que défini à l'annexe de l'article R. 511-9 du code de l'environnement (le non-respect de ce point relève d'une non-conformité majeure) ;
+- vérification que la quantité totale présente dans l'installation le jour du contrôle est inférieure au palier supérieur du régime déclaratif tel que défini à l'annexe de l'article R. 511-9 du code de l'environnement (le non-respect de ce point relève d'une non-conformité majeure) ;
 
--présentation du dossier de déclaration.
+- présentation du dossier de déclaration.
 
 1.5. Déclaration d'accident ou de pollution accidentelle
 
@@ -80,17 +80,17 @@ Lorsqu'une installation classée est mise à l'arrêt définitif, l'exploitant n
 
 Aux fins du présent arrêté, on entend par :
 
-" Récipient " : récipient en acier étiré contenant du chlore sous pression.
+"Récipient" : récipient en acier étiré contenant du chlore sous pression.
 
-" Local technique " : local destiné exclusivement au stockage ou à l'utilisation des récipients de chlore. Lorsque le local technique est destiné au stockage, il est sans communication directe avec les autres parties de l'installation.
+"Local technique" : local destiné exclusivement au stockage ou à l'utilisation des récipients de chlore. Lorsque le local technique est destiné au stockage, il est sans communication directe avec les autres parties de l'installation.
 
-" Armoire technique " : armoire permettant le stockage et/ ou l'emploi de récipients de chlore et destinée exclusivement à cet usage. Les dimensions de l'armoire technique de sécurité empêchent toute personne d'y pénétrer et d'y rester. Elle comporte une grille d'aération en partie basse et en partie haute. Elle est sans communication directe avec les autres parties de l'installation.
+"Armoire technique" : armoire permettant le stockage et/ou l'emploi de récipients de chlore et destinée exclusivement à cet usage. Les dimensions de l'armoire technique de sécurité empêchent toute personne d'y pénétrer et d'y rester. Elle comporte une grille d'aération en partie basse et en partie haute. Elle est sans communication directe avec les autres parties de l'installation.
 
-" Chloromètre à dépression " : dispositif de soutirage du chlore en dépression à sécurité positive. Le soutirage de chlore est réalisé en phase gazeuse par effet venturi induit par l'alimentation en eau.
+"Chloromètre à dépression" : dispositif de soutirage du chlore en dépression à sécurité positive. Le soutirage de chlore est réalisé en phase gazeuse par effet venturi induit par l'alimentation en eau.
 
-" Chloration des eaux " : procédé désignant le traitement des eaux usées, la potabilisation, le traitement des eaux de piscine, ainsi que la désinfection.
+"Chloration des eaux" : procédé désignant le traitement des eaux usées, la potabilisation, le traitement des eaux de piscine, ainsi que la désinfection.
 
-2. Implantation.-Aménagement
+2. Implantation. - Aménagement
 
 2.1. Règles d'implantation
 
@@ -102,21 +102,21 @@ L'installation est implantée à une distance minimale des limites de propriét�
 
 Objet du contrôle :
 
--respect des distances d'éloignement (le non-respect de ce point relève d'une non-conformité majeure).
+- respect des distances d'éloignement (le non-respect de ce point relève d'une non-conformité majeure).
 
 2.1.2. Installations employant du chlore (local technique ou armoire technique)
 
 L'installation est implantée à une distance minimale des limites de propriété égale à :
 
--20 mètres lorsque le chlore est utilisé à une pression supérieure à la pression atmosphérique ;
+- 20 mètres lorsque le chlore est utilisé à une pression supérieure à la pression atmosphérique ;
 
--10 mètres lorsque le chlore est utilisé à une pression supérieure à la pression atmosphérique et lorsque l'installation est équipée d'un système de neutralisation des fuites tel que défini au point 4.10 ;
+- 10 mètres lorsque le chlore est utilisé à une pression supérieure à la pression atmosphérique et lorsque l'installation est équipée d'un système de neutralisation des fuites tel que défini au point 4.10 ;
 
--10 mètres lorsqu'il y a utilisation d'un chloromètre à dépression.
+- 10 mètres lorsqu'il y a utilisation d'un chloromètre à dépression.
 
 Objet du contrôle :
 
--respect des distances d'éloignement (le non-respect de ce point relève d'une non-conformité majeure).
+- respect des distances d'éloignement (le non-respect de ce point relève d'une non-conformité majeure).
 
 2.2. Intégration dans le paysage
 
@@ -128,7 +128,7 @@ Hormis au sein d'un établissement recevant du public, l'installation ne surmont
 
 Objet du contrôle :
 
--hormis pour les établissements recevant du public, absence de locaux occupés par des tiers ou habités au-dessus ou au-dessous de l'installation (le non-respect de ce point relève d'une non-conformité majeure).
+- hormis pour les établissements recevant du public, absence de locaux occupés par des tiers ou habités au-dessus ou au-dessous de l'installation (le non-respect de ce point relève d'une non-conformité majeure).
 
 2.4. Comportement au feu des bâtiments
 
@@ -140,17 +140,17 @@ Les justificatifs attestant du caractère A1 sont conservés et tenus à la disp
 
 Objet du contrôle :
 
--présentation du document justifiant du caractère A1 des matériaux (le non-respect de ce point relève d'une non-conformité majeure).
+- présentation du document justifiant du caractère A1 des matériaux (le non-respect de ce point relève d'une non-conformité majeure).
 
 2.4.2. Résistance au feu
 
 Les locaux techniques dans lesquels le chlore est stocké ou employé présentent les caractéristiques de résistance au feu minimales suivantes :
 
--murs extérieurs et murs séparatifs : REI 60 ;
+- murs extérieurs et murs séparatifs : REI 60 ;
 
--planchers : REI 60 ;
+- planchers: REI 60 ;
 
--portes et fermetures : EI 60.
+- portes et fermetures: EI 60.
 
 Lors de l'utilisation d'une armoire technique, la paroi séparant l'armoire d'autres bâtiments est de caractéristiques de résistance au feu REI 60.
 
@@ -158,11 +158,11 @@ Les justificatifs attestant des propriétés de résistance au feu sont conserv�
 
 Objet du contrôle :
 
--présentation du document attestant des propriétés de résistance au feu (le non-respect de ce point relève d'une non-conformité majeure).
+- présentation du document attestant des propriétés de résistance au feu (le non-respect de ce point relève d'une non-conformité majeure).
 
 2.4.3. Toitures et couvertures de toiture
 
-Les toitures et couvertures de toiture des locaux techniques répondent à la classe B ROOF (t3).
+Les toitures et couvertures de toiture des locaux techniques répondent à la classe BROOF (t3).
 
 2.5. Accessibilité
 
@@ -172,7 +172,7 @@ Les véhicules dont la présence est liée à l'exploitation de l'établissement
 
 Objet du contrôle :
 
--présence d'un accès pour les services d'incendie et de secours (le non-respect de ce point relève d'une non-conformité majeure).
+- présence d'un accès pour les services d'incendie et de secours (le non-respect de ce point relève d'une non-conformité majeure).
 
 2.6. Ventilation
 
@@ -194,7 +194,7 @@ Le sol des aires et des locaux de stockage ou de manipulation des matières dang
 
 Les matières recueillies sont de préférence récupérées et recyclées ou, en cas d'impossibilité, traitées conformément au point 5.5 et à la partie 7.
 
-2.10. [⁎]
+2.10. (*)
 
 2.11. Isolement du réseau de collecte
 
@@ -214,13 +214,13 @@ Les dispositions du présent point ne sont pas applicables aux installations de 
 
 Les stockages et les locaux d'emploi sont aménagés et organisés en fonction des risques présentés par les substances ou préparations stockées, tels qu'identifiés au point 4.1. Des emplacements prédéterminés sont aménagés pour le positionnement au sol et le maintien des récipients de chlore en position verticale, robinet vers le haut. Toutes dispositions sont prises pour éviter leur chute et les chocs.
 
-Les conditions de stockage permettent de maintenir les récipients à l'abri des intempéries et de toute source d'inflammation. La température de l'installation est en permanence inférieure à 50 o C.
+Les conditions de stockage permettent de maintenir les récipients à l'abri des intempéries et de toute source d'inflammation. La température de l'installation est en permanence inférieure à 50 oC.
 
 Objet du contrôle :
 
--vérification de la position verticale des récipients de chlore, robinet vers le haut (le non-respect de ce point relève d'une non-conformité majeure).
+- vérification de la position verticale des récipients de chlore, robinet vers le haut (le non-respect de ce point relève d'une non-conformité majeure).
 
-3. Exploitation.-Entretien
+3. Exploitation. - Entretien
 
 3.1. Surveillance de l'exploitation
 
@@ -232,9 +232,9 @@ Les personnes étrangères à l'établissement n'ont pas d'accès libre aux inst
 
 Objet du contrôle :
 
--présence d'un dispositif interdisant l'accès aux installations aux personnes non autorisées.
+- présence d'un dispositif interdisant l'accès aux installations aux personnes non autorisées.
 
-3.3. Connaissance des produits.-Étiquetage
+3.3. Connaissance des produits. - Étiquetage
 
 Sans préjudice des dispositions du code du travail, l'exploitant dispose des documents lui permettant de connaître la nature et les risques des produits dangereux présents dans l'installation, en particulier les fiches de données de sécurité.
 
@@ -242,7 +242,7 @@ Les récipients portent en caractères lisibles le nom des produits et, s'il y a
 
 Objet du contrôle :
 
--affichage du nom des produits et des symboles de danger lisible sur les emballages (le non-respect de ce point relève d'une non-conformité majeure).
+- affichage du nom des produits et des symboles de danger lisible sur les emballages (le non-respect de ce point relève d'une non-conformité majeure).
 
 3.4. Propreté
 
@@ -250,7 +250,7 @@ Les locaux sont maintenus propres et régulièrement nettoyés, notamment de man
 
 Objet du contrôle :
 
--absence d'amas de matières dangereuses, polluantes ou combustibles, dans les locaux (le non-respect de ce point relève d'une non-conformité majeure).
+- absence d'amas de matières dangereuses, polluantes ou combustibles, dans les locaux (le non-respect de ce point relève d'une non-conformité majeure).
 
 3.5. État des stocks de produits dangereux
 
@@ -260,7 +260,7 @@ La présence de matières dangereuses ou combustibles dans les ateliers est limi
 
 Objet du contrôle :
 
--présentation de l'état des stocks de produits dangereux tenu à jour et du plan général des stockages (le non-respect de ce point relève d'une non-conformité majeure).
+- présentation de l'état des stocks de produits dangereux tenu à jour et du plan général des stockages (le non-respect de ce point relève d'une non-conformité majeure).
 
 3.6. Vérification périodique des installations électriques
 
@@ -274,25 +274,25 @@ Toute manipulation sur les récipients est réalisée par des opérateurs nommé
 
 Ces consignes prévoient notamment :
 
--les modes opératoires ;
+- les modes opératoires ;
 
--la fréquence de vérification des dispositifs de sécurité et de limitation ou de traitement des pollutions et nuisances générées ;
+- la fréquence de vérification des dispositifs de sécurité et de limitation ou de traitement des pollutions et nuisances générées ;
 
--les instructions de maintenance et de nettoyage ;
+- les instructions de maintenance et de nettoyage ;
 
--le maintien, dans le local, de la quantité de chlore nécessaire au fonctionnement de l'installation ;
+- le maintien, dans le local, de la quantité de chlore nécessaire au fonctionnement de l'installation ;
 
--lorsque l'installation dispose d'un système de neutralisation, la vérification de la quantité de produit nécessaire à la neutralisation en cas de fuite et de sa qualité ;
+- lorsque l'installation dispose d'un système de neutralisation, la vérification de la quantité de produit nécessaire à la neutralisation en cas de fuite et de sa qualité ;
 
--les conditions de conservation et de stockage des produits ;
+- les conditions de conservation et de stockage des produits ;
 
--la fréquence de contrôle de l'étanchéité et des fixations des réservoirs.
+- la fréquence de contrôle de l'étanchéité et des fixations des réservoirs.
 
 Avant le début de toute intervention sur les récipients de chlore, l'opérateur nommément désigné par l'exploitant contrôle :
 
--la présence et l'opérabilité des appareils de protection respiratoire spécifique au chlore ;
+- la présence et l'opérabilité des appareils de protection respiratoire spécifique au chlore ;
 
--la disponibilité de moyens de communication et d'alerte des services de secours.
+- la disponibilité de moyens de communication et d'alerte des services de secours.
 
 L'absence de fuite de chlore est vérifiée après toute intervention sur les récipients de chlore et à la suite de l'ouverture des robinets de ces récipients de chlore ou de leur remise en service.
 
@@ -308,9 +308,9 @@ Une signalisation adéquate posée sur la porte d'accès à tout local ou toute 
 
 Objet du contrôle :
 
--présentation du plan de l'installation indiquant les différentes zones de danger ;
+- présentation du plan de l'installation indiquant les différentes zones de danger ;
 
--présence d'une signalisation des risques dans les zones de danger, conforme aux indications du plan (le non-respect de ce point relève d'une non-conformité majeure).
+- présence d'une signalisation des risques dans les zones de danger, conforme aux indications du plan (le non-respect de ce point relève d'une non-conformité majeure).
 
 4.2. Protection individuelle
 
@@ -320,7 +320,7 @@ Toute intervention d'urgence nécessite de s'équiper d'un dispositif de protect
 
 Objet du contrôle :
 
--vérification de la présence de matériels de protection individuelle (le non-respect de ce point relève d'une non-conformité majeure).
+- vérification de la présence de matériels de protection individuelle (le non-respect de ce point relève d'une non-conformité majeure).
 
 4.3. Moyens de prévention et de lutte
 
@@ -336,23 +336,23 @@ Ces détecteurs peuvent ne pas être mis en place lorsque l'installation se situ
 
 Objet du contrôle :
 
--présence d'un détecteur dans chaque local ou armoire technique (le non-respect de ce point relève d'une non-conformité majeure) ;
+- présence d'un détecteur dans chaque local ou armoire technique (le non-respect de ce point relève d'une non-conformité majeure) ;
 
--présentation du suivi de la vérification des détecteurs (le non-respect de ce point relève d'une non-conformité majeure) ;
+- présentation du suivi de la vérification des détecteurs (le non-respect de ce point relève d'une non-conformité majeure) ;
 
--pour les installations ne disposant pas de détecteurs, vérification de l'absence d'habitations ou de locaux de travail ou d'établissements recevant du public dans un rayon de 50 mètres autour de l'installation (le non-respect de ce point relève d'une non-conformité majeure).
+- pour les installations ne disposant pas de détecteurs, vérification de l'absence d'habitations ou de locaux de travail ou d'établissements recevant du public dans un rayon de 50 mètres autour de l'installation (le non-respect de ce point relève d'une non-conformité majeure).
 
 4.3.2. Moyens de lutte contre l'incendie
 
 L'installation est équipée de moyens de lutte contre l'incendie appropriés aux risques, notamment :
 
--d'un moyen permettant d'alerter les services d'incendie et de secours ;
+- d'un moyen permettant d'alerter les services d'incendie et de secours ;
 
--de plans des locaux facilitant l'intervention des services d'incendie et de secours avec une description des dangers pour chaque local ;
+- de plans des locaux facilitant l'intervention des services d'incendie et de secours avec une description des dangers pour chaque local ;
 
--d'un ou de plusieurs appareils d'incendie (bouches, poteaux, par exemple) publics ou privés dont un implanté à 200 mètres au plus du risque, ou de points d'eau, bassins, citernes, etc., d'une capacité permettant de combattre les incendies susceptibles de se produire à proximité de l'installation ;
+- d'un ou de plusieurs appareils d'incendie (bouches, poteaux, par exemple) publics ou privés dont un implanté à 200 mètres au plus du risque, ou de points d'eau, bassins, citernes, etc., d'une capacité permettant de combattre les incendies susceptibles de se produire à proximité de l'installation ;
 
--d'extincteurs répartis à l'intérieur de l'installation lorsqu'elle est couverte, sur les aires extérieures et dans les lieux présentant des risques spécifiques, à proximité des dégagements, bien visibles et facilement accessibles. Les agents d'extinction sont appropriés aux risques à combattre et compatibles avec les matières stockées.
+- d'extincteurs répartis à l'intérieur de l'installation lorsqu'elle est couverte, sur les aires extérieures et dans les lieux présentant des risques spécifiques, à proximité des dégagements, bien visibles et facilement accessibles. Les agents d'extinction sont appropriés aux risques à combattre et compatibles avec les matières stockées.
 
 Les installations de protection contre l'incendie sont correctement entretenues et maintenues en bon état de marche. Elles font l'objet de vérifications périodiques (a minima une fois par an) dont le suivi est consigné dans un registre tenu à la disposition de l'inspection des installations classées et de l'organisme chargé du contrôle périodique.
 
@@ -360,25 +360,25 @@ Les moyens de lutte contre l'incendie sont capables de fonctionner efficacement 
 
 Objet du contrôle :
 
--présence d'un moyen permettant d'alerter les services d'incendie et de secours (le non-respect de ce point relève d'une non-conformité majeure) ;
+- présence d'un moyen permettant d'alerter les services d'incendie et de secours (le non-respect de ce point relève d'une non-conformité majeure) ;
 
--présence de plans des locaux ;
+- présence de plans des locaux ;
 
--présence et implantation d'au moins un extincteur (le non-respect de ce point relève d'une non-conformité majeure) ;
+- présence et implantation d'au moins un extincteur (le non-respect de ce point relève d'une non-conformité majeure) ;
 
--présentation d'un justificatif de contrôle annuel des matériels (le non-respect de ce point relève d'une non-conformité majeure).
+- présentation d'un justificatif de contrôle annuel des matériels (le non-respect de ce point relève d'une non-conformité majeure).
 
-4.4. [⁎]
+4.4. (*)
 
 4.5. Interdiction des feux
 
-Dans les parties de l'installation présentant des risques d'incendie ou d'explosion, il est interdit d'apporter du feu sous une forme quelconque, sauf pour la réalisation de travaux ayant fait l'objet d'un " permis de feu ". Cette interdiction est affichée en caractères apparents.
+Dans les parties de l'installation présentant des risques d'incendie ou d'explosion, il est interdit d'apporter du feu sous une forme quelconque, sauf pour la réalisation de travaux ayant fait l'objet d'un "permis de feu". Cette interdiction est affichée en caractères apparents.
 
-4.6. " Permis d'intervention ", " permis de feu "
+4.6. "Permis d'intervention", "permis de feu"
 
-Dans les parties de l'installation visées au point 4.1, tous les travaux de réparation ou d'aménagement conduisant à une augmentation des risques (notamment emploi d'une flamme ou d'une source chaude, purge des circuits) ne peuvent être effectués qu'après délivrance d'un " permis d'intervention " et éventuellement d'un " permis de feu " et en respectant les règles d'une consigne particulière.
+Dans les parties de l'installation visées au point 4.1, tous les travaux de réparation ou d'aménagement conduisant à une augmentation des risques (notamment emploi d'une flamme ou d'une source chaude, purge des circuits) ne peuvent être effectués qu'après délivrance d'un "permis d'intervention" et éventuellement d'un "permis de feu" et en respectant les règles d'une consigne particulière.
 
-Le " permis d'intervention " et éventuellement le " permis de feu " et la consigne particulière sont établis et visés par l'exploitant ou par la personne qu'il aura nommément désignée. Lorsque les travaux sont effectués par une entreprise extérieure, le " permis d'intervention " et éventuellement le " permis de feu " et la consigne particulière relative à la sécurité de l'installation sont cosignés par l'exploitant et l'entreprise extérieure ou les personnes qu'ils auront nommément désignées.
+Le "permis d'intervention" et éventuellement le "permis de feu" et la consigne particulière sont établis et visés par l'exploitant ou par la personne qu'il aura nommément désignée. Lorsque les travaux sont effectués par une entreprise extérieure, le "permis d'intervention" et éventuellement le "permis de feu" et la consigne particulière relative à la sécurité de l'installation sont cosignés par l'exploitant et l'entreprise extérieure ou les personnes qu'ils auront nommément désignées.
 
 Après la fin des travaux et avant la reprise de l'activité, une vérification des installations est effectuée par l'exploitant ou son représentant.
 
@@ -388,29 +388,29 @@ Sans préjudice des dispositions du code du travail, des consignes de sécurité
 
 Ces consignes indiquent notamment :
 
--l'interdiction d'apporter du feu sous une forme quelconque, notamment l'interdiction de fumer, dans les parties de l'installation visées au point 4.1 et présentant des risques d'incendie ou d'explosion ;
+- l'interdiction d'apporter du feu sous une forme quelconque, notamment l'interdiction de fumer, dans les parties de l'installation visées au point 4.1 et présentant des risques d'incendie ou d'explosion ;
 
--l'obligation du " permis d'intervention " pour les parties de l'installation visées au point 4.1 ;
+- l'obligation du "permis d'intervention" pour les parties de l'installation visées au point 4.1 ;
 
--les procédures d'arrêt d'urgence et de mise en sécurité de l'installation (électricité, réseaux de fluides) ;
+- les procédures d'arrêt d'urgence et de mise en sécurité de l'installation (électricité, réseaux de fluides) ;
 
--les mesures à prendre en cas de fuite sur un récipient ou une tuyauterie contenant des substances dangereuses, notamment les conditions de rejet prévues au point 5.7 ;
+- les mesures à prendre en cas de fuite sur un récipient ou une tuyauterie contenant des substances dangereuses, notamment les conditions de rejet prévues au point 5.7 ;
 
--les précautions à prendre pour l'emploi et le stockage de produits incompatibles ;
+- les précautions à prendre pour l'emploi et le stockage de produits incompatibles ;
 
--les moyens d'extinction à utiliser en cas d'incendie ;
+- les moyens d'extinction à utiliser en cas d'incendie ;
 
--la procédure d'alerte avec les numéros de téléphone du responsable d'intervention de l'établissement, des services d'incendie et de secours... ;
+- la procédure d'alerte avec les numéros de téléphone du responsable d'intervention de l'établissement, des services d'incendie et de secours... ;
 
--les modalités de mise en œuvre des dispositifs d'isolement du réseau de collecte, prévues au point 2.11 ;
+- les modalités de mise en œuvre des dispositifs d'isolement du réseau de collecte, prévues au point 2.11 ;
 
--l'obligation d'informer l'inspection des installations classées en cas d'accident.
+- l'obligation d'informer l'inspection des installations classées en cas d'accident.
 
 Le personnel reçoit une formation portant sur les risques présentés par le stockage ou l'emploi de chlore, ainsi que sur les moyens mis en œuvre pour les éviter. Il connaît les procédures à suivre en cas d'urgence et procède à des exercices d'entraînement au moins tous les deux ans.
 
 Objet du contrôle :
 
--affichage des consignes de sécurité dans les lieux fréquentés par le personnel.
+- affichage des consignes de sécurité dans les lieux fréquentés par le personnel.
 
 4.8. Emploi
 
@@ -420,15 +420,15 @@ L'exploitant tient à jour la liste des procédés chimiques mis en œuvre dans 
 
 Hormis pour la chloration de l'eau, l'exploitant établit un document comprenant au moins les éléments suivants :
 
--caractéristiques physiques, chimiques et toxicologiques des produits mis en œuvre ;
+- caractéristiques physiques, chimiques et toxicologiques des produits mis en œuvre ;
 
--caractéristiques des réactions chimiques principales avec estimation du potentiel de risque s'y rapportant ;
+- caractéristiques des réactions chimiques principales avec estimation du potentiel de risque s'y rapportant ;
 
--incompatibilités entre les produits et matériaux utilisés dans l'installation ;
+- incompatibilités entre les produits et matériaux utilisés dans l'installation ;
 
--modes opératoires ;
+- modes opératoires ;
 
--consignes de sécurité propres à l'installation. Celles-ci prévoient en particulier explicitement les mesures à prendre en cas de dérive du procédé par rapport aux conditions opératoires sûres.
+- consignes de sécurité propres à l'installation. Celles-ci prévoient en particulier explicitement les mesures à prendre en cas de dérive du procédé par rapport aux conditions opératoires sûres.
 
 La capacité unitaire de chlore des récipients est inférieure à 60 kg.
 
@@ -438,9 +438,9 @@ Le chloromètre est fixé directement sur le robinet du récipient de chlore. To
 
 Objet du contrôle :
 
--pour les installations utilisant un ou des chloromètres à dépression et ne disposant pas de système de neutralisation, vérification que chaque chloromètre est directement fixé sur le robinet d'un seul récipient de chlore (le non-respect de ce point relève d'une non-conformité majeure) ;
+- pour les installations utilisant un ou des chloromètres à dépression et ne disposant pas de système de neutralisation, vérification que chaque chloromètre est directement fixé sur le robinet d'un seul récipient de chlore (le non-respect de ce point relève d'une non-conformité majeure) ;
 
--pour chaque chloromètre à dépression raccordé à plusieurs récipients de chlore, vérification de la présence d'un système de neutralisation correctement dimensionné (le non-respect de ce point relève d'une non-conformité majeure).
+- pour chaque chloromètre à dépression raccordé à plusieurs récipients de chlore, vérification de la présence d'un système de neutralisation correctement dimensionné (le non-respect de ce point relève d'une non-conformité majeure).
 
 4.8.3. Dispositions spécifiques à la mise en œuvre de chlore à une pression supérieure à la pression atmosphérique
 
@@ -454,7 +454,7 @@ En cas de détection de chlore au-delà du seuil défini au point 4.3.1, une van
 
 Objet du contrôle :
 
--pour les installations mettant en œuvre du chlore à une pression supérieure à la pression atmosphérique, vérification de la présence d'une vanne d'arrêt (le non-respect de ce point relève d'une non-conformité majeure).
+- pour les installations mettant en œuvre du chlore à une pression supérieure à la pression atmosphérique, vérification de la présence d'une vanne d'arrêt (le non-respect de ce point relève d'une non-conformité majeure).
 
 4.9. Stockage
 
@@ -464,9 +464,9 @@ Les récipients sont équipés en permanence d'un chapeau dont la résistance au
 
 Objet du contrôle :
 
--vérification de l'usage exclusif du local pour le stockage (le non-respect de ce point relève d'une non-conformité majeure) ;
+- vérification de l'usage exclusif du local pour le stockage (le non-respect de ce point relève d'une non-conformité majeure) ;
 
--présence permanente du chapeau sur le récipient et d'un bouchon de protection vissé sur le raccord de sortie, équipé d'un joint d'étanchéité (le non-respect de ce point relève d'une non-conformité majeure).
+- présence permanente du chapeau sur le récipient et d'un bouchon de protection vissé sur le raccord de sortie, équipé d'un joint d'étanchéité (le non-respect de ce point relève d'une non-conformité majeure).
 
 La capacité unitaire de chlore des récipients est inférieure à 60 kg.
 
@@ -482,9 +482,9 @@ La démonstration du dimensionnement du système de neutralisation est tenue à 
 
 Objet du contrôle :
 
--présence d'une cloche de sécurité (le non-respect de ce point relève d'une non-conformité majeure) ;
+- présence d'une cloche de sécurité (le non-respect de ce point relève d'une non-conformité majeure) ;
 
--pour les installations équipées d'un système de neutralisation, présentation de la démonstration du dimensionnement (le non-respect de ce point relève d'une non-conformité majeure).
+- pour les installations équipées d'un système de neutralisation, présentation de la démonstration du dimensionnement (le non-respect de ce point relève d'une non-conformité majeure).
 
 4.11. Trichlorure d'azote
 
@@ -492,7 +492,7 @@ Pour les installations employant du chlore, l'exploitant s'assure auprès de son
 
 Objet du contrôle :
 
--présentation des éléments permettant de s'assurer que la teneur en trichlorure d'azote est conforme (le non-respect de ce point relève d'une non-conformité majeure).
+- présentation des éléments permettant de s'assurer que la teneur en trichlorure d'azote est conforme (le non-respect de ce point relève d'une non-conformité majeure).
 
 5. Eau
 
@@ -510,7 +510,7 @@ L'usage du réseau d'eau incendie est strictement réservé aux sinistres et aux
 
 Toutes les dispositions sont prises pour limiter la consommation d'eau.
 
-Les circuits de refroidissement ouverts sont interdits au-delà d'un débit de 10 m 3/ j.
+Les circuits de refroidissement ouverts sont interdits au-delà d'un débit de 10 m3/j.
 
 5.3. Réseau de collecte
 
@@ -526,41 +526,41 @@ Sans préjudice de l'autorisation de déversement dans le réseau public (art. L
 
 a) Dans tous les cas, avant rejet au milieu naturel ou dans un réseau d'assainissement collectif :
 
--pH (selon la norme mentionnée à l'annexe II de l'arrêté du 7 juillet 2009 relatif aux modalités d'analyse dans l'air et dans l'eau dans les ICPE et aux normes de référence) : 6,5-8,5 (9,5 en cas de neutralisation alcaline) ;
+- pH (selon la norme mentionnée à l'annexe II de l'arrêté du 7 juillet 2009 relatif aux modalités d'analyse dans l'air et dans l'eau dans les ICPE et aux normes de référence) : 6,5-8,5 (9,5 en cas de neutralisation alcaline) ;
 
--température < 30 o C.
+- température < 30 oC.
 
-b) Dans le cas de rejet dans un réseau d'assainissement collectif muni d'une station d'épuration, lorsque le flux maximal apporté par l'effluent est susceptible de dépasser 15 kg/ j de MEST ou 15 kg/ j de DBO 5 ou 45 kg/ j de DCO :
+b) Dans le cas de rejet dans un réseau d'assainissement collectif muni d'une station d'épuration, lorsque le flux maximal apporté par l'effluent est susceptible de dépasser 15 kg/j de MEST ou 15 kg/j de DBO5 ou 45 kg/j de DCO :
 
--matières en suspension (selon la norme mentionnée à l'annexe II de l'arrêté du 7 juillet 2009 relatif aux modalités d'analyse dans l'air et dans l'eau dans les ICPE et aux normes de référence) : 600 mg/ l ;
+- matières en suspension (selon la norme mentionnée à l'annexe II de l'arrêté du 7 juillet 2009 relatif aux modalités d'analyse dans l'air et dans l'eau dans les ICPE et aux normes de référence) : 600 mg/l ;
 
--DCO (selon la norme mentionnée à l'annexe II de l'arrêté du 7 juillet 2009 relatif aux modalités
+- DCO (selon la norme mentionnée à l'annexe II de l'arrêté du 7 juillet 2009 relatif aux modalités
 
-d'analyse dans l'air et dans l'eau dans les ICPE et aux normes de référence) : 2 000 mg/ l (1) ;
+d'analyse dans l'air et dans l'eau dans les ICPE et aux normes de référence) : 2 000 mg/l (1) ;
 
--DBO 5 (selon la norme mentionnée à l'annexe II de l'arrêté du 7 juillet 2009 relatif aux modalités d'analyse dans l'air et dans l'eau dans les ICPE et aux normes de référence) : 800 mg/ l.
+- DBO5 (selon la norme mentionnée à l'annexe II de l'arrêté du 7 juillet 2009 relatif aux modalités d'analyse dans l'air et dans l'eau dans les ICPE et aux normes de référence) : 800 mg/l.
 
 c) Dans le cas de rejet dans le milieu naturel (ou dans un réseau d'assainissement collectif dépourvu de station d'épuration) :
 
--matières en suspension (selon la norme mentionnée à l'annexe II de l'arrêté du 7 juillet 2009 relatif aux modalités d'analyse dans l'air et dans l'eau dans les ICPE et aux normes de référence) : la concentration ne dépasse pas 100 mg/ l si le flux journalier n'excède pas 15 kg/ j, 35 mg/ l au-delà, 150 mg/ l dans le cas d'une épuration par lagunage ;
+- matières en suspension (selon la norme mentionnée à l'annexe II de l'arrêté du 7 juillet 2009 relatif aux modalités d'analyse dans l'air et dans l'eau dans les ICPE et aux normes de référence) : la concentration ne dépasse pas 100 mg/l si le flux journalier n'excède pas 15 kg/j, 35 mg/l au-delà, 150 mg/l dans le cas d'une épuration par lagunage ;
 
--DCO (selon la norme mentionnée à l'annexe II de l'arrêté du 7 juillet 2009 relatif aux modalités d'analyse dans l'air et dans l'eau dans les ICPE et aux normes de référence) : la concentration ne dépasse pas 300 mg/ l si le flux journalier n'excède pas 100 kg/ j, 125 mg/ l au-delà ;
+- DCO (selon la norme mentionnée à l'annexe II de l'arrêté du 7 juillet 2009 relatif aux modalités d'analyse dans l'air et dans l'eau dans les ICPE et aux normes de référence) : la concentration ne dépasse pas 300 mg/l si le flux journalier n'excède pas 100 kg/j, 125 mg/l au-delà ;
 
--DBO 5 (selon la norme mentionnée à l'annexe II de l'arrêté du 7 juillet 2009 relatif aux modalités d'analyse dans l'air et dans l'eau dans les ICPE et aux normes de référence) : la concentration ne dépasse pas 100 mg/ l si le flux journalier n'excède pas 30 kg/ j, 30 mg/ l au-delà.
+- DBO5 (selon la norme mentionnée à l'annexe II de l'arrêté du 7 juillet 2009 relatif aux modalités d'analyse dans l'air et dans l'eau dans les ICPE et aux normes de référence) : la concentration ne dépasse pas 100 mg/l si le flux journalier n'excède pas 30 kg/j, 30 mg/l au-delà.
 
 Dans tous les cas, les rejets sont compatibles avec la qualité ou les objectifs de qualité des cours d'eau.
 
-d) Polluants spécifiques : avant rejet dans le milieu naturel ou dans un réseau d'assainissement collectif urbain :
+d) Polluants spécifiques: avant rejet dans le milieu naturel ou dans un réseau d'assainissement collectif urbain :
 
--indice phénols (selon la norme mentionnée à l'annexe II de l'arrêté du 7 juillet 2009 relatif aux modalités d'analyse dans l'air et dans l'eau dans les ICPE et aux normes de référence) : 0,3 mg/ l si le flux est supérieur à 3 g/ j ;
+- indice phénols (selon la norme mentionnée à l'annexe II de l'arrêté du 7 juillet 2009 relatif aux modalités d'analyse dans l'air et dans l'eau dans les ICPE et aux normes de référence) : 0,3 mg/l si le flux est supérieur à 3 g/j ;
 
--AO x (selon la norme mentionnée à l'annexe II de l'arrêté du 7 juillet 2009 relatif aux modalités d'analyse dans l'air et dans l'eau dans les ICPE et aux normes de référence) : 5 mg/ l si le flux est supérieur à 30 g/ j ;
+- AOx (selon la norme mentionnée à l'annexe II de l'arrêté du 7 juillet 2009 relatif aux modalités d'analyse dans l'air et dans l'eau dans les ICPE et aux normes de référence) : 5 mg/l si le flux est supérieur à 30 g/j ;
 
--arsenic et composés (NF T90-026) : 0,1 mg/ l si le flux est supérieur à 1 g/ j ;
+- arsenic et composés (NF T90-026) : 0,1 mg/l si le flux est supérieur à 1 g/j ;
 
--hydrocarbures totaux (selon la norme mentionnée à l'annexe II de l'arrêté du 7 juillet 2009 relatif aux modalités d'analyse dans l'air et dans l'eau dans les ICPE et aux normes de référence) : 10 mg/ l si le flux est supérieur à 100 g/ j ;
+- hydrocarbures totaux (selon la norme mentionnée à l'annexe II de l'arrêté du 7 juillet 2009 relatif aux modalités d'analyse dans l'air et dans l'eau dans les ICPE et aux normes de référence) : 10 mg/l si le flux est supérieur à 100 g/j ;
 
--métaux totaux (NF T90 112) : 15 mg/ l si le flux est supérieur à 100 g/ j.
+- métaux totaux (NF T90 112) : 15 mg/l si le flux est supérieur à 100 g/j.
 
 Ces valeurs limites sont respectées en moyenne quotidienne. Aucune valeur instantanée ne dépasse le double des valeurs limites de concentration.
 
@@ -584,11 +584,11 @@ L'épandage des déchets, effluents et sous-produits est interdit.
 
 L'exploitant met en place un programme de surveillance des caractéristiques soit des émissions des polluants représentatifs parmi ceux visés au point 5.5, soit de paramètres représentatifs de ces derniers, lui permettant d'intervenir dès que les limites d'émissions sont ou risquent d'être dépassées.
 
-Une mesure des concentrations des différents polluants visés au point 5.5 est effectuée au moins tous les trois ans par un organisme agréé par le ministre chargé de l'environnement. Ces mesures sont effectuées sur un échantillon représentatif du fonctionnement sur une journée de l'installation et constitué soit par un prélèvement continu d'une demi-heure, soit par au moins deux prélèvements instantanés espacés d'une demi-heure. En cas d'impossibilité d'obtenir un tel échantillon, une évaluation des capacités des équipements d'épuration à respecter les valeurs limites est réalisée. Une mesure du débit est également réalisée ou estimée à partir des consommations, si celui-ci est supérieur à 10 m 3/ j.
+Une mesure des concentrations des différents polluants visés au point 5.5 est effectuée au moins tous les trois ans par un organisme agréé par le ministre chargé de l'environnement. Ces mesures sont effectuées sur un échantillon représentatif du fonctionnement sur une journée de l'installation et constitué soit par un prélèvement continu d'une demi-heure, soit par au moins deux prélèvements instantanés espacés d'une demi-heure. En cas d'impossibilité d'obtenir un tel échantillon, une évaluation des capacités des équipements d'épuration à respecter les valeurs limites est réalisée. Une mesure du débit est également réalisée ou estimée à partir des consommations, si celui-ci est supérieur à 10 m3/j.
 
 Les polluants visés au point 5.5 qui ne sont pas susceptibles d'être émis par l'installation ne font pas l'objet des mesures périodiques prévues au présent point. Dans ce cas, l'exploitant tient à la disposition de l'inspection des installations classées les éléments techniques permettant d'attester l'absence d'émission de ces produits par l'installation.
 
-6. Air.-Odeurs
+6. Air. - Odeurs
 
 Les articles 6.1 à 6.3 ne sont pas applicables aux installations de stockage et aux installations de chloration des eaux.
 
@@ -600,7 +600,7 @@ Le débouché des cheminées est éloigné au maximum des immeubles habités ou 
 
 La dilution des effluents est interdite sauf autorisation explicite du préfet. Elle ne peut être autorisée aux seules fins de respecter les valeurs limites de concentration.
 
-Les installations susceptibles de dégager des gaz ou vapeurs toxiques sont munies de dispositifs permettant de collecter et canaliser les émissions, y compris les points de purge effectués au cours des opérations de branchement/ débranchement des récipients, dans des endroits éloignés au maximum des habitations. Les débouchés à l'atmosphère ne comportent pas d'obstacles à la diffusion des gaz.
+Les installations susceptibles de dégager des gaz ou vapeurs toxiques sont munies de dispositifs permettant de collecter et canaliser les émissions, y compris les points de purge effectués au cours des opérations de branchement/débranchement des récipients, dans des endroits éloignés au maximum des habitations. Les débouchés à l'atmosphère ne comportent pas d'obstacles à la diffusion des gaz.
 
 Toutes dispositions sont prises pour limiter au minimum le rejet à l'air libre des gaz, gaz liquéfiés ou vapeurs toxiques.
 
@@ -610,61 +610,61 @@ Les effluents gazeux respectent les valeurs limites définies ci-après, exprim�
 
 Les valeurs limites d'émission exprimées en concentration se rapportent à une quantité d'effluents gazeux n'ayant pas subi de dilution autre que celles éventuellement nécessitée par les procédés utilisés. Pour les métaux, les valeurs limites s'appliquent à la masse totale d'une substance émise, y compris la part sous forme de gaz ou de vapeur contenue dans les effluents gazeux.
 
-a) Poussières [⁎]
+a) Poussières (*)
 
 b) Composés organiques volatils (COV)
 
-b. 1) Définitions
+b.1) Définitions
 
 On entend par :
 
--" composé organique volatil " (COV) : tout composé organique, à l'exclusion du méthane, ayant une pression de vapeur de 0,01 kPa ou plus à une température de 293,15 o kelvins ou ayant une volatilité correspondante dans des conditions d'utilisation particulières ;
+- "composé organique volatil" (COV) : tout composé organique, à l'exclusion du méthane, ayant une pression de vapeur de 0,01 kPa ou plus à une température de 293,15 o kelvins ou ayant une volatilité correspondante dans des conditions d'utilisation particulières ;
 
--" solvant organique " : tout COV utilisé seul ou en association avec d'autres agents, sans subir de modification chimique, pour dissoudre des matières premières, des produits ou des déchets, ou utilisé comme solvants de nettoyage pour dissoudre des salissures, ou comme dissolvant, dispersant, correcteur de viscosité, correcteur de tension superficielle, plastifiant ou agent protecteur ;
+- "solvant organique" : tout COV utilisé seul ou en association avec d'autres agents, sans subir de modification chimique, pour dissoudre des matières premières, des produits ou des déchets, ou utilisé comme solvants de nettoyage pour dissoudre des salissures, ou comme dissolvant, dispersant, correcteur de viscosité, correcteur de tension superficielle, plastifiant ou agent protecteur;
 
--" consommation de solvants organiques " : la quantité totale de solvants organiques utilisée dans une installation sur une période de douze mois, diminuée de la quantité de COV récupérés en interne en vue de leur réutilisation ;
+- "consommation de solvants organiques" : la quantité totale de solvants organiques utilisée dans une installation sur une période de douze mois, diminuée de la quantité de COV récupérés en interne en vue de leur réutilisation ;
 
--" réutilisation " : l'utilisation à des fins techniques ou commerciales, y compris en tant que combustible, de solvants organiques récupérés dans une installation. N'entrent pas dans la définition de " réutilisation " les solvants organiques récupérés qui sont évacués définitivement comme déchets ;
+- "réutilisation" : l'utilisation à des fins techniques ou commerciales, y compris en tant que combustible, de solvants organiques récupérés dans une installation. N'entrent pas dans la définition de "réutilisation" les solvants organiques récupérés qui sont évacués définitivement comme déchets ;
 
--" utilisation de solvants organiques " : la quantité de solvants organiques, à l'état pur ou dans les préparations, qui est utilisée dans l'exercice d'une activité, y compris les solvants recyclés à l'intérieur ou à l'extérieur de l'installation, qui sont comptés chaque fois qu'ils sont utilisés pour l'exercice de l'activité ;
+- "utilisation de solvants organiques" : la quantité de solvants organiques, à l'état pur ou dans les préparations, qui est utilisée dans l'exercice d'une activité, y compris les solvants recyclés à l'intérieur ou à l'extérieur de l'installation, qui sont comptés chaque fois qu'ils sont utilisés pour l'exercice de l'activité ;
 
--" émission diffuse de COV " : toute émission de COV dans l'air, le sol et l'eau, qui n'a pas lieu sous la forme d'émissions canalisées. Pour le cas spécifique des COV, cette définition couvre, sauf indication contraire, les émissions retardées dues aux solvants contenus dans les produits finis.
+- "émission diffuse de COV" : toute émission de COV dans l'air, le sol et l'eau, qui n'a pas lieu sous la forme d'émissions canalisées. Pour le cas spécifique des COV, cette définition couvre, sauf indication contraire, les émissions retardées dues aux solvants contenus dans les produits finis.
 
-b. 2) Valeurs limites d'émission)
+b.2) Valeurs limites d'émission)
 
 Des dérogations aux valeurs limites d'émission diffuses de COV mentionnées ci-dessous peuvent être accordées par le préfet, si l'exploitant démontre le caractère acceptable des risques pour la santé humaine ou l'environnement et qu'il fait appel aux meilleures techniques disponibles.
 
-I.-CAS GÉNÉRAL (POUR LES ACTIVITÉS NON VISÉES PAR LA DIRECTIVE N o 99/13/ CE DU 11 MARS 1999, QU'IL CONVIENDRA QUE CHACUN DISTINGUE)
+I. - CAS GÉNÉRAL (POUR LES ACTIVITÉS NON VISÉES PAR LA DIRECTIVE No 99/13/CE DU 11 MARS 1999, QU'IL CONVIENDRA QUE CHACUN DISTINGUE)
 
-Si le flux horaire total de COV dépasse 2 kg/ h, la valeur limite exprimée en carbone total de la concentration globale de l'ensemble des composés est de 110 mg/ m 3. En outre, si la consommation annuelle de solvants est supérieure à 5 tonnes par an, le flux annuel des émissions diffuses ne dépasse pas 25 % de la quantité de solvants utilisée.
+Si le flux horaire total de COV dépasse 2 kg/h, la valeur limite exprimée en carbone total de la concentration globale de l'ensemble des composés est de 110 mg/m3. En outre, si la consommation annuelle de solvants est supérieure à 5 tonnes par an, le flux annuel des émissions diffuses ne dépasse pas 25 % de la quantité de solvants utilisée.
 
-II.- [⁎]
+II. - (*)
 
-III.-VALEURS LIMITES D'ÉMISSION EN COV, NO x, CO ET CH 4 EN CAS D'UTILISATION D'UNE TECHNIQUE D'ÉPURATION DES ÉMISSIONS CANALISÉES PAR OXYDATION THERMIQUE
+III. - VALEURS LIMITES D'ÉMISSION EN COV, NOx, CO ET CH4 EN CAS D'UTILISATION D'UNE TECHNIQUE D'ÉPURATION DES ÉMISSIONS CANALISÉES PAR OXYDATION THERMIQUE
 
-Dans le cas de l'utilisation d'une technique d'oxydation pour l'élimination COV, la valeur limite d'émission en COV exprimée en carbone total est de 20 mg par m 3 ou 50 mg/ m 3 si le rendement d'épuration est supérieur à 98 %. La teneur en oxygène de référence pour la vérification de la conformité aux valeurs limites d'émission est celle mesurée dans les effluents en sortie d'équi ­ pement d'oxydation. En outre, l'exploitant s'assurera du respect des valeurs limites d'émission définies ci-dessous pour les oxydes d'azote (NO x), le monoxyde de carbone (CO) et le méthane (CH 4) :
+Dans le cas de l'utilisation d'une technique d'oxydation pour l'élimination COV, la valeur limite d'émission en COV exprimée en carbone total est de 20 mg par m3 ou 50 mg/m3 si le rendement d'épuration est supérieur à 98 %. La teneur en oxygène de référence pour la vérification de la conformité aux valeurs limites d'émission est celle mesurée dans les effluents en sortie d'équi­pement d'oxydation. En outre, l'exploitant s'assurera du respect des valeurs limites d'émission définies ci-dessous pour les oxydes d'azote (NOx), le monoxyde de carbone (CO) et le méthane (CH4) :
 
--NO x (en équivalent NO 2) : 100 mg/ m 3,
+- NOx (en équivalent NO2) : 100 mg/m3,
 
--CH 4 : 50 mg/ m 3 ;
+- CH4 : 50 mg/m3 ;
 
--CO : 100 mg/ m 3.
+- CO : 100 mg/m3.
 
-IV.-COMPOSÉS ORGANIQUES VOLATILS À PHRASE DE RISQUE
+IV. - COMPOSÉS ORGANIQUES VOLATILS À PHRASE DE RISQUE
 
-Si le flux horaire total des composés organiques listés ci-dessous dépasse 0,1 kg/ h, la valeur limite d'émission de la concentration globale de l'ensemble de ces composés est de 20 mg/ m 3 :
+Si le flux horaire total des composés organiques listés ci-dessous dépasse 0,1 kg/h, la valeur limite d'émission de la concentration globale de l'ensemble de ces composés est de 20 mg/m3 :
 
--acide chloracétique ;
+- acide chloracétique;
 
--2,4 dichlorophénol ;
+- 2,4 dichlorophénol ;
 
--1,1,2 trichloroéthane.
+- 1,1,2 trichloroéthane.
 
-En cas de mélange de composés à la fois visés et non visés dans cette liste, la valeur limite de 20 mg/ m 3 ne s'impose qu'aux composés visés dans cette liste et une valeur de 110 mg/ m 3, exprimée en carbone total, s'impose à l'ensemble des composés.
+En cas de mélange de composés à la fois visés et non visés dans cette liste, la valeur limite de 20 mg/m3 ne s'impose qu'aux composés visés dans cette liste et une valeur de 110 mg/m3, exprimée en carbone total, s'impose à l'ensemble des composés.
 
-V.- [⁎]
+V. - (*)
 
-VI.-MISE EN ŒUVRE D'UN SCHÉMA DE MAÎTRISE DES ÉMISSIONS DE COV
+VI. - MISE EN ŒUVRE D'UN SCHÉMA DE MAÎTRISE DES ÉMISSIONS DE COV
 
 Les valeurs limites d'émissions canalisées et diffuses relatives aux COV définies aux I et II ci-dessus ne sont pas applicables aux rejets des installations faisant l'objet d'un schéma de maîtrise des émissions de COV, tel que défini ci-après.
 
@@ -672,7 +672,7 @@ Un tel schéma garantit que le flux total d'émissions de COV de l'installation 
 
 L'installation ou les parties de l'installation, dans lesquelles sont notamment mises en œuvre une ou plusieurs des substances visées aux points IV et V ci-dessus peuvent faire l'objet d'un schéma de maîtrise des émissions. La concentration résiduelle des substances visées aux points IV et V reste néanmoins soumise au respect des valeurs limites prévues aux IV et V.
 
-[⁎]
+(*)
 
 Le point de rejet surmonte d'au moins un mètre les bâtiments situés dans un rayon de 15 mètres
 
@@ -700,23 +700,23 @@ En cas d'impossibilité, liée à l'activité ou aux équipements, d'effectuer u
 
 b) Cas des COV
 
-Lorsque la consommation de solvant de l'installation est supérieure à une tonne/ an, l'exploitant met en place un plan de gestion de solvants, mentionnant notamment les entrées et les sorties de solvants de l'installation. Ce plan est tenu à la disposition de l'inspection des installations classées, ainsi que tout justificatif concernant la consommation de solvant (notamment factures, nom des fournisseurs).
+Lorsque la consommation de solvant de l'installation est supérieure à une tonne/an, l'exploitant met en place un plan de gestion de solvants, mentionnant notamment les entrées et les sorties de solvants de l'installation. Ce plan est tenu à la disposition de l'inspection des installations classées, ainsi que tout justificatif concernant la consommation de solvant (notamment factures, nom des fournisseurs).
 
 La surveillance en permanence des émissions canalisées de l'ensemble des COV à l'exclusion du méthane est réalisée si, sur l'ensemble de l'installation, l'une des conditions suivantes est remplie :
 
--le flux horaire maximal en COV à l'exclusion du méthane, exprimé en carbone total, dépasse :
+- le flux horaire maximal en COV à l'exclusion du méthane, exprimé en carbone total, dépasse :
 
--15 kg/ h, dans le cas général ;
+- 15 kg/h, dans le cas général ;
 
--10 kg/ h, si un équipement d'épuration des gaz chargés en COV est nécessaire pour respecter les valeurs limites d'émission canalisées ;
+- 10 kg/h, si un équipement d'épuration des gaz chargés en COV est nécessaire pour respecter les valeurs limites d'émission canalisées ;
 
--le flux horaire maximal en COV, à l'exclusion du méthane, visés au IV du point 6.2 de la présente annexe, ou en cas d'utilisation de substances de mentions de danger H340, H350, H350i, H360D ou H360F ou à phrases de risque R45, R46, R49, R60 ou R61, ou les substances halogénées de mentions de danger H341 ou étiqueté R40, dépasse 2 kg/ h (exprimé en somme des composés).
+- le flux horaire maximal en COV, à l'exclusion du méthane, visés au IV du point 6.2 de la présente annexe, ou en cas d'utilisation de substances de mentions de danger H340, H350, H350i, H360D ou H360F ou à phrases de risque R45, R46, R49, R60 ou R61, ou les substances halogénées de mentions de danger H341 ou étiqueté R40, dépasse 2 kg/h (exprimé en somme des composés).
 
 Toutefois, en accord avec le préfet, cette surveillance en permanence peut être remplacée par le suivi d'un paramètre représentatif, corrélé aux émissions. Cette corrélation est alors confirmée périodiquement par une mesure des émissions.
 
 Dans les autres cas, des prélèvements instantanés sont réalisés.
 
-Lorsque l'installation est équipée d'un oxydateur, la conformité aux valeurs limites d'émissions en NO x, méthane et CO prévues au III est vérifiée une fois par an, en marche continue et stable.
+Lorsque l'installation est équipée d'un oxydateur, la conformité aux valeurs limites d'émissions en NOx, méthane et CO prévues au III est vérifiée une fois par an, en marche continue et stable.
 
 7. Déchets
 
@@ -736,7 +736,7 @@ La quantité de déchets stockés sur le site ne dépasse pas la capacité mensu
 
 7.4. Déchets non dangereux
 
-Les déchets non dangereux (par ex. : bois, papier, verre, textile, plastique et caoutchouc) et non souillés par des produits toxiques ou polluants peuvent être récupérés, valorisés ou éliminés dans des installations autorisées.
+Les déchets non dangereux (par ex.: bois, papier, verre, textile, plastique et caoutchouc) et non souillés par des produits toxiques ou polluants peuvent être récupérés, valorisés ou éliminés dans des installations autorisées.
 
 Les seuls modes d'élimination autorisés pour les déchets d'emballage sont la valorisation par réemploi, recyclage ou toute autre action visant à obtenir des matériaux utilisables ou de l'énergie. Cette disposition n'est pas applicable aux détenteurs de déchets d'emballage qui en produisent un volume hebdomadaire inférieur à 1 100 litres et qui les remettent au service de collecte et de traitement des communes.
 
@@ -754,21 +754,21 @@ Le brûlage des déchets à l'air libre est interdit.
 
 Au sens du présent arrêté, on appelle :
 
--" émergence " : la différence entre les niveaux de pression continus équivalents pondérés du bruit ambiant (installation en fonctionnement) et du bruit résiduel (en l'absence du bruit généré par l'installation) ;
+- "émergence" : la différence entre les niveaux de pression continus équivalents pondérés du bruit ambiant (installation en fonctionnement) et du bruit résiduel (en l'absence du bruit généré par l'installation) ;
 
--" zones à émergence réglementée " :
+- "zones à émergence réglementée" :
 
--l'intérieur des immeubles habités ou occupés par des tiers, existant à la date de la déclaration, et leurs parties extérieures éventuelles les plus proches (cour, jardin, terrasse) ;
+- l'intérieur des immeubles habités ou occupés par des tiers, existant à la date de la déclaration, et leurs parties extérieures éventuelles les plus proches (cour, jardin, terrasse) ;
 
--les zones constructibles définies par des documents d'urbanisme opposables aux tiers et publiés à la date de la déclaration ;
+- les zones constructibles définies par des documents d'urbanisme opposables aux tiers et publiés à la date de la déclaration;
 
--l'intérieur des immeubles habités ou occupés par des tiers qui ont été implantés après la date de la déclaration dans les zones constructibles définies ci-dessus, et leurs parties extérieures éventuelles les plus proches (cour, jardin, terrasse), à l'exclusion de celles des immeubles implantés dans les zones destinées à recevoir des activités artisanales ou industrielles.
+- l'intérieur des immeubles habités ou occupés par des tiers qui ont été implantés après la date de la déclaration dans les zones constructibles définies ci-dessus, et leurs parties extérieures éventuelles les plus proches (cour, jardin, terrasse), à l'exclusion de celles des immeubles implantés dans les zones destinées à recevoir des activités artisanales ou industrielles.
 
 Pour les installations existantes, déclarées au plus tard quatre mois après la date de publication du présent arrêté au Journal officiel, la date de la déclaration est remplacée, dans la définition ci-dessus des zones à émergence réglementée, par la date du présent arrêté.
 
 L'installation est construite, équipée et exploitée de façon telle que son fonctionnement ne puisse être à l'origine de bruits transmis par voie aérienne ou solidienne susceptibles de compromettre la santé ou la sécurité du voisinage ou de constituer une nuisance pour celui-ci.
 
-Les émissions sonores émises par l'installation ne sont pas à l'origine, dans les zones à émergence réglementée, d'une émergence supérieure aux valeurs admissibles définies dans le tableau suivant :
+Les émissions sonores émises par l'installation ne sont pas à l'origine, dans les zones à émergence réglementée, d'une émergence supérieure aux valeurs admissibles définies dans le tableau suivant:
 
 NIVEAU DE BRUIT
 
@@ -848,8 +848,8 @@ Lorsque des mesures sont effectuées pour vérifier le respect des présentes di
 
 Outre les dispositions prévues au point 1.7, l'exploitant remet en état le site de sorte qu'il ne s'y manifeste plus aucun danger. En particulier :
 
--tous les produits dangereux ainsi que tous les déchets sont valorisés ou évacués vers des installations dûment autorisées ;
+- tous les produits dangereux ainsi que tous les déchets sont valorisés ou évacués vers des installations dûment autorisées ;
 
--les cuves ayant contenu des produits susceptibles de polluer les eaux sont vidées, nettoyées, dégazées et, le cas échéant, décontaminées. Elles sont si possible enlevées, sinon, et dans le cas spécifique des cuves enterrées, elles sont rendues inutilisables par remplissage avec un matériau solide inerte.
+- les cuves ayant contenu des produits susceptibles de polluer les eaux sont vidées, nettoyées, dégazées et, le cas échéant, décontaminées. Elles sont si possible enlevées, sinon, et dans le cas spécifique des cuves enterrées, elles sont rendues inutilisables par remplissage avec un matériau solide inerte.
 
-[⁎] Un modèle a été constitué pour la rédaction des arrêtés de prescriptions générales applicables aux installations soumises à déclaration. Certaines dispositions de ce modèle, qui ne se justifient pas pour les installations visées par le présent arrêté ont été supprimées. Néanmoins, la numérotation a été conservée pour permettre une homogénéité entre les arrêtés de prescriptions générales de toutes les rubriques de la nomenclature.
+(*) Un modèle a été constitué pour la rédaction des arrêtés de prescriptions générales applicables aux installations soumises à déclaration. Certaines dispositions de ce modèle, qui ne se justifient pas pour les installations visées par le présent arrêté ont été supprimées. Néanmoins, la numérotation a été conservée pour permettre une homogénéité entre les arrêtés de prescriptions générales de toutes les rubriques de la nomenclature.

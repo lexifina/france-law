@@ -10,7 +10,7 @@ L'installation est implantée, réalisée et exploitée conformément aux plans 
 
 1.2. Modifications
 
-Toute modification apportée par le déclarant à l'installation, à son mode d'exploitation ou à son voisinage, entraînant un changement notable des éléments du dossier de déclaration initiale, est portée, avant sa réalisation, à la connaissance du préfet, qui demande une nouvelle déclaration si la modification est considérée comme substantielle. C'est en particulier le cas pour toute modification de la capacité nominale de l'installation dont l'activité est mentionnée au point 6. 2. b. 2. II donnant lieu à une augmentation des émissions de composés organiques volatils supérieure :
+Toute modification apportée par le déclarant à l'installation, à son mode d'exploitation ou à son voisinage, entraînant un changement notable des éléments du dossier de déclaration initiale, est portée, avant sa réalisation, à la connaissance du préfet, qui demande une nouvelle déclaration si la modification est considérée comme substantielle. C'est en particulier le cas pour toute modification de la capacité nominale de l'installation dont l'activité est mentionnée au point 6.2.b.2. II donnant lieu à une augmentation des émissions de composés organiques volatils supérieure :
 
 - à 10 % pour les installations dont la consommation de solvant est supérieure à 25 tonnes par an pour les activités d'impression sur rotative offset à sécheur thermique, d'héliogravure d'édition et d'autres unités d'héliogravure, flexographie, impression sérigraphique en rotative, contrecollage ou vernissage, et pour les installations dont la consommation de solvant est supérieure à 30 tonnes par an pour l'activité d'impression sérigraphique en rotative sur textiles/cartons ;
 
@@ -32,7 +32,7 @@ L'exploitant doit établir et tenir à jour un dossier comportant les documents 
 
 - les plans tenus à jour ;
 
-- le récépissé de déclaration et les prescriptions générales ;
+- la preuve de dépôt de la déclaration et les prescriptions générales ;
 
 - les arrêtés préfectoraux relatifs à l'installation concernée, pris en application de la législation relative aux installations classées pour la protection de l'environnement, s'il y en a ;
 
@@ -98,7 +98,7 @@ Sans préjudice des dispositions du code du travail, les locaux sont convenablem
 
 2.7. Installations électriques
 
-Les installations électriques sont réalisées, entretenues et vérifiées conformément au décret n° 88-1056 du 14 novembre 1988 pris pour l'exécution des dispositions du livre II du code du travail (titre III : hygiène, sécurité et conditions de travail) en ce qui concerne la protection des travailleurs dans les établissements qui mettent en oeuvre des courants électriques.
+Les installations électriques sont réalisées, entretenues et vérifiées conformément au décret n° 88-1056 du 14 novembre 1988 pris pour l'exécution des dispositions du livre II du code du travail (titre III : hygiène, sécurité et conditions de travail) en ce qui concerne la protection des travailleurs dans les établissements qui mettent en œuvre des courants électriques.
 
 2.8. Mise à la terre des équipements
 

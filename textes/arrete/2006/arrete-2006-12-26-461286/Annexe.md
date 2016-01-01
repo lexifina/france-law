@@ -30,7 +30,7 @@ La déclaration doit préciser les mesures prises relatives aux conditions d'uti
 
 1.4. Dossier installation classée
 
-Indépendamment des documents du dossier de déclaration, du récépissé de déclaration et éventuellement d'un arrêté préfectoral de prescriptions particulières, l'exploitant de la carrière doit établir et tenir à jour un dossier comportant les documents suivants :
+Indépendamment des documents du dossier de déclaration, de la preuve de dépôt de la déclaration et éventuellement d'un arrêté préfectoral de prescriptions particulières, l'exploitant de la carrière doit établir et tenir à jour un dossier comportant les documents suivants :
 
 1. Une attestation de la maîtrise foncière sur l'emprise de l'exploitation.
 
@@ -58,7 +58,7 @@ Ce dossier doit être tenu à la disposition de l'inspection des installations c
 
 Objet du contrôle :
 
--présence du récépissé de déclaration ;
+-présence de la preuve de dépôt de la déclaration ;
 
 -vérification des volumes maximaux au regard des volumes déclarés ;
 

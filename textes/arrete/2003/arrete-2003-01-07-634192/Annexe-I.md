@@ -86,7 +86,7 @@ L'exploitant établit et tient à jour un dossier comportant les documents suiva
 
 -les plans tenus à jour, c'est-à-dire le plan général d'implantation et le plan des canalisations ; pour les installations existantes, le plan des canalisations concerne les canalisations mises en place après la date de publication du présent arrêté ;
 
--le récépissé de déclaration et les prescriptions générales ;
+-la preuve de dépôt de la déclaration et les prescriptions générales ;
 
 -les arrêtés préfectoraux relatifs à l'installation concernée, pris en application de la législation relative aux installations classées pour la protection de l'environnement, s'il y en a ;
 
@@ -100,7 +100,7 @@ Ce dossier est tenu à la disposition de l'inspection des installations classée
 
 Objet du contrôle :
 
--présentation du récépissé de déclaration et des prescriptions générales ;
+-présentation de la preuve de dépôt de la déclaration et des prescriptions générales ;
 
 -présentation des plans à jour d'éventuelles modifications (le non-respect de ce point relève d'une non-conformité majeure) ;
 
@@ -908,7 +908,7 @@ HAUTEUR D'EMISSION
 
 DÉBIT D'ODEUR
 
-(en m 3/ h)
+(en m3/ h)
 
 |
 
@@ -1014,19 +1014,25 @@ L'installation est construite, équipée et exploitée de façon telle que son f
 
 Les émissions sonores émises par l'installation ne sont pas à l'origine, dans les zones à émergence réglementée, d'une émergence supérieure aux valeurs admissibles définies dans le tableau suivant :
 
-NIVEAU DE BRUIT ambiant existant dans les zones à émergence réglementée
+NIVEAU DE BRUIT
+
+ambiant existant dans les zones à émergence réglementée
 
 (incluant le bruit de l'installation)
 
 |
 
-EMERGENCE ADMISSIBLE pour la période allant de 7 heures à 22 heures,
+EMERGENCE ADMISSIBLE
+
+pour la période allant de 7 heures à 22 heures,
 
 sauf dimanches et jours fériés
 
 |
 
-EMERGENCE ADMISSIBLE pour la période allant de 22 heures à 7 heures,
+EMERGENCE ADMISSIBLE
+
+pour la période allant de 22 heures à 7 heures,
 
 ainsi que les dimanches et jours fériés
 

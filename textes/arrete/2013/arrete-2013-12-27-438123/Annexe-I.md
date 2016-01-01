@@ -152,7 +152,7 @@ Objet du contrôle périodique (pour toutes les rubriques avec contrôle périod
 
 - le ou les rapports des services de contrôles, les rapports d'audit, charte des bonnes pratiques d'élevage, le cas échéant ;
 
-2. L'effectif au jour du contrôle, selon le registre, l'extraction de la base de données nationale d'identification (BDNI), les bordereaux de livraison ou tout autre document tenu à jour par l'exploitant (pour les espèces concernées par le contrôle périodique) est conforme ou inférieur à l'effectif défini sur le récépissé de déclaration ou l'arrêté préfectoral.
+2. L'effectif au jour du contrôle, selon le registre, l'extraction de la base de données nationale d'identification (BDNI), les bordereaux de livraison ou tout autre document tenu à jour par l'exploitant (pour les espèces concernées par le contrôle périodique) est conforme ou inférieur à l'effectif défini sur la preuve de dépôt de la déclaration ou l'arrêté préfectoral.
 
 Ce point de contrôle est susceptible de donner lieu à une non-conformité majeure.
 

@@ -32,7 +32,7 @@ L'exploitant doit établir et tenir à jour un dossier comportant les documents 
 
 - les plans tenus à jour ;
 
-- le récépissé de déclaration et les prescriptions générales ;
+- la preuve de dépôt de la déclaration et les prescriptions générales ;
 
 - les arrêtés préfectoraux relatifs à l'installation concernée, pris en application de la législation relative aux installations classées pour la protection de l'environnement, s'il y en a ;
 
@@ -44,7 +44,7 @@ Ce dossier doit être tenu à la disposition de l'inspecteur des installations c
 
 Objet du contrôle :
 
-- présence du récépissé de déclaration ;
+- présence de la preuve de dépôt de la déclaration ;
 
 - vérification du volume maximal au regard du volume déclaré ;
 

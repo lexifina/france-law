@@ -42,7 +42,7 @@ L'exploitant tient à jour un dossier comportant les documents suivants :
 
 - les plans tenus à jour, notamment les documents prévus au point 3.9.2 ;
 
-- le récépissé de déclaration et les prescriptions générales ;
+- la preuve de dépôt de la déclaration et les prescriptions générales ;
 
 - les arrêtés préfectoraux relatifs à l'installation concernée, pris en application de la législation relative aux installations classées pour la protection de l'environnement, s'ils existent ;
 
@@ -112,7 +112,7 @@ Les véhicules dont la présence est liée à l'exploitation de l'installation s
 
 2.8. Mise à la terre des équipements
 
-Les éléments métalliques de l'installation sont reliés de façon équipotentielle et l'installation respecte les dispositions prévues au point 9.2.2 de l'accord européen relatif au transport international des marchandises dangereuses par route ( ADR ).
+Les éléments métalliques de l'installation sont reliés de façon équipotentielle et l'installation respecte les dispositions prévues au point 9.2.2 de l'accord européen relatif au transport international des marchandises dangereuses par route (ADR).
 
 Lorsque l'installation est reliée à une installation fixe (notamment lors des phases de chargement/déchargement), elle est mise à la terre, conformément aux normes NF C 15-100 (version compilée de 2013) et NF C 13-200 (version de 2009) lorsque celles-ci sont applicables.
 

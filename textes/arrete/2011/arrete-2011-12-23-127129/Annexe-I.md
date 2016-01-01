@@ -32,35 +32,35 @@ La déclaration précise les mesures prises relatives aux conditions d'utilisati
 
 L'exploitant établit et tient à jour un dossier comportant les documents suivants :
 
-- le dossier de déclaration ;
+-le dossier de déclaration ;
 
-- les plans tenus à jour ;
+-les plans tenus à jour ;
 
-- le récépissé de déclaration et les prescriptions générales ;
+-la preuve de dépôt de la déclaration et les prescriptions générales ;
 
-- les arrêtés préfectoraux relatifs à l'installation concernée, pris en application de la législation relative aux installations classées pour la protection de l'environnement, lorsqu'ils existent ;
+-les arrêtés préfectoraux relatifs à l'installation concernée, pris en application de la législation relative aux installations classées pour la protection de l'environnement, lorsqu'ils existent ;
 
-- les résultats des dernières mesures sur les effluents et le bruit ;
+-les résultats des dernières mesures sur les effluents et le bruit ;
 
-- les documents, rapports des visites et contrôles prévus à la présente annexe ;
+-les documents, rapports des visites et contrôles prévus à la présente annexe ;
 
-- un dossier rassemblant des éléments relatifs au risque (notamment les caractéristiques physiques, chimiques et toxicologiques des matières entreposées, triées et regroupées, incompatibilités entre les produits et déchets ou entre les déchets).
+-un dossier rassemblant des éléments relatifs au risque (notamment les caractéristiques physiques, chimiques et toxicologiques des matières entreposées, triées et regroupées, incompatibilités entre les produits et déchets ou entre les déchets).
 
 L'ensemble de ces documents est tenu à la disposition de l'inspection des installations classées et de l'organisme chargé du contrôle périodique.
 
 Objet du contrôle :
 
-- présence et date du récépissé de déclaration ;
+-présence et date de la preuve de dépôt de la déclaration ;
 
-- vérification de la capacité journalière maximale au regard de la capacité journalière déclarée ;
+-vérification de la capacité journalière maximale au regard de la capacité journalière déclarée ;
 
-- vérification que la capacité journalière maximale est inférieure au palier supérieur du régime déclaratif, tel que défini à l'annexe de l'article R. 511-9 du code de l'environnement (le non-respect de ce point relève d'une non-conformité majeure) ;
+-vérification que la capacité journalière maximale est inférieure au palier supérieur du régime déclaratif, tel que défini à l'annexe de l'article R. 511-9 du code de l'environnement (le non-respect de ce point relève d'une non-conformité majeure) ;
 
-- présence des prescriptions générales ;
+-présence des prescriptions générales ;
 
-- présence des arrêtés préfectoraux relatifs à l'installation, s'il y en a (le non-respect de ce point relève d'une non-conformité majeure) ;
+-présence des arrêtés préfectoraux relatifs à l'installation, s'il y en a (le non-respect de ce point relève d'une non-conformité majeure) ;
 
-- présence de plans détaillés tenus à jour.
+-présence de plans détaillés tenus à jour.
 
 1.5. Déclaration d'accident ou de pollution accidentelle
 
@@ -82,11 +82,11 @@ Lorsqu'une installation classée est mise à l'arrêt définitif, l'exploitant n
 
 Dans cet arrêté, on entend par :
 
-Produits d'égouttures : les résidus de produit très concentrés contenus dans la citerne, le fût ou tout autre contenant issus de la première phase de lavage où aucun adjuvant n'est introduit. Opérations de lavage : les opérations de nettoyage des contenants à l'aide de liquide additionné d'adjuvants et/ou opérations de rinçage (nettoyage à l'eau) dont l'objectif est de réduire, voire éliminer, les polluants dans les contenants.
+Produits d'égouttures : les résidus de produit très concentrés contenus dans la citerne, le fût ou tout autre contenant issus de la première phase de lavage où aucun adjuvant n'est introduit. Opérations de lavage : les opérations de nettoyage des contenants à l'aide de liquide additionné d'adjuvants et/ ou opérations de rinçage (nettoyage à l'eau) dont l'objectif est de réduire, voire éliminer, les polluants dans les contenants.
 
 Eaux de lavage : les eaux issues des opérations de lavage. La citerne est débarrassée de la plus grande partie du produit dans un premier temps, puis une opération de nettoyage intervient où des adjuvants de lavage sont utilisés, couplés à l'action mécanique de la pression et à une action thermique.
 
-2. Implantation - Aménagement
+2. Implantation-Aménagement
 
 2.1. Aménagement de l'installation
 
@@ -106,15 +106,39 @@ L'installation ne surmonte pas et n'est pas surmontée de locaux habités ou occ
 
 2.4. Comportement au feu des bâtiments
 
-2.4.1.
+2.4.1. [⁎]
+
+2.4.2. Résistance au feu
+
+Les bâtiments couverts recevant les contenants à laver de déchets combustibles ou inflammables présentent les caractéristiques de résistance au feu minimales suivantes :
+
+-murs extérieurs et murs séparatifs REI 30 (coupe-feu de degré une demi-heure) ;
+
+-planchers REI 30 (coupe-feu de degré une demi-heure) ;
+
+-portes et fermetures résistantes au feu (y compris celles comportant des vitrages et des quincailleries) et leurs dispositifs de fermeture EI 30 (coupe-feu de degré une demi-heure).
+
+R : capacité portante.
+
+E : étanchéité au feu.
+
+I : Isolation thermique.
+
+Les classifications sont exprimées en minutes (30 : une demi-heure).
+
+Les justificatifs attestant des propriétés de résistance au feu sont conservés dans le dossier " installations classées ", prévue au point 1.4.
+
+Les portes et fermetures résistantes au feu qui participent à la sectorisation des installations en cas d'incendie sont équipées de dispositifs de fermeture automatique et sont maintenues fermées en cas d'incendie.
+
+2.4.3. [⁎]
 
 2.4.4. Désenfumage
 
 Les bâtiments fermés abritant les installations sont équipés en partie haute de dispositifs d'évacuation naturelle de fumées et de chaleur, conformes aux normes en vigueur, permettant l'évacuation à l'air libre des fumées, gaz de combustion, chaleur et produits imbrûlés dégagés en cas d'incendie.
 
-Ces dispositifs sont à commandes automatique ou manuelle. Leur surface utile d'ouverture n'est pas inférieure à 2 % si la superficie à désenfumer est inférieure à 1 600 m2.
+Ces dispositifs sont à commandes automatique ou manuelle. Leur surface utile d'ouverture n'est pas inférieure à 2 % si la superficie à désenfumer est inférieure à 1 600 m 2.
 
-Elle est à déterminer selon la nature des risques si la superficie à désenfumer est supérieure à 1 600 m2, sans pouvoir être inférieure à 2 % de la superficie des locaux.
+Elle est à déterminer selon la nature des risques si la superficie à désenfumer est supérieure à 1 600 m 2, sans pouvoir être inférieure à 2 % de la superficie des locaux.
 
 En exploitation normale, le réarmement (fermeture) est possible depuis le sol du local, ou depuis la zone de désenfumage, ou la cellule à désenfumer, dans le cas de local divisé en plusieurs cantons ou cellules.
 
@@ -124,13 +148,13 @@ Les dispositifs d'évacuation naturelle de fumées et de chaleur sont adaptés a
 
 Tous les dispositifs présentent, en référence à la norme NF EN 12 101-2 (version octobre 2003), les caractéristiques suivantes :
 
-- fiabilité : classe RE 300 (300 cycles de mise en sécurité). Les exutoires bifonction sont soumis à 10 000 cycles d'ouverture en position d'aération ;
+-fiabilité : classe RE 300 (300 cycles de mise en sécurité). Les exutoires bifonction sont soumis à 10 000 cycles d'ouverture en position d'aération ;
 
-- la classification de la surcharge neige à l'ouverture est SL 250 (25 daN/m2) pour des altitudes inférieures ou égales à 400 m et SL 500 (50 daN/m2) pour des altitudes supérieures à 400 m et inférieures ou égales à 800 m. La classe SL 0 est utilisable si la région d'implantation n'est pas susceptible d'être enneigée ou si des dispositions constructives empêchent l'accumulation de la neige. Au-dessus de 800 m, les exutoires sont de la classe SL 500 et installés avec des dispositions constructives empêchant l'accumulation de la neige ;
+-la classification de la surcharge neige à l'ouverture est SL 250 (25 daN/ m 2) pour des altitudes inférieures ou égales à 400 m et SL 500 (50 daN/ m 2) pour des altitudes supérieures à 400 m et inférieures ou égales à 800 m. La classe SL 0 est utilisable si la région d'implantation n'est pas susceptible d'être enneigée ou si des dispositions constructives empêchent l'accumulation de la neige. Au-dessus de 800 m, les exutoires sont de la classe SL 500 et installés avec des dispositions constructives empêchant l'accumulation de la neige ;
 
-- classe de température ambiante T0 (0 °C) ;
+-classe de température ambiante T0 (0° C) ;
 
-- classe d'exposition à la chaleur HE 300 (300 °C).
+-classe d'exposition à la chaleur HE 300 (300° C).
 
 Des amenées d'air frais d'une surface libre égale à la surface géométrique de l'ensemble des dispositifs d'évacuation du plus grand canton seront réalisées cellule par cellule.
 
@@ -138,11 +162,11 @@ La présente section ne s'applique pas aux installations présentant des ventila
 
 Objet du contrôle :
 
-- présence des dispositifs d'évacuation des fumées et gaz de combustion ;
+-présence des dispositifs d'évacuation des fumées et gaz de combustion ;
 
-- positionnement des commandes d'ouverture manuelle à proximité des accès ;
+-positionnement des commandes d'ouverture manuelle à proximité des accès ;
 
-- contrôle de la possibilité de fermeture depuis le sol du local ou depuis la zone à désenfumer.
+-contrôle de la possibilité de fermeture depuis le sol du local ou depuis la zone à désenfumer.
 
 2.5. Accessibilité
 
@@ -158,9 +182,9 @@ L'installation est desservie, sur au moins une face, par une voie engins, ou par
 
 Objet du contrôle :
 
-- présence d'un sens unique de circulation sur le site, affichage visible si le bâtiment est traversant, ou présence d'un plan de circulation du site et marquage au sol, affichage lisible ;
+-présence d'un sens unique de circulation sur le site, affichage visible si le bâtiment est traversant, ou présence d'un plan de circulation du site et marquage au sol, affichage lisible ;
 
-- présence d'un accès pour les services d'incendie et de secours sur une des façades de chaque bâtiment ;
+-présence d'un accès pour les services d'incendie et de secours sur une des façades de chaque bâtiment ;
 
 -présence sur au moins une façade d'une voie engins, ou voie échelles si le plancher bas du niveau le plus haut de l'installation excède 8 m par rapport à cette voie.
 
@@ -184,23 +208,23 @@ Le sol des aires et des locaux de réception, d'entreposage et, plus largement, 
 
 Objet du contrôle :
 
-- étanchéité des sols (par examen visuel : nature et absence de fissures) (le non-respect de ce point relève d'une non-conformité majeure) ;
+-étanchéité des sols (par examen visuel : nature et absence de fissures) (le non-respect de ce point relève d'une non-conformité majeure) ;
 
-- présence d'un dispositif empêchant la diffusion des égouttures, eaux de lavage, eaux d'extinction d'incendie, les matières ou déchets répandus accidentellement.
+-présence d'un dispositif empêchant la diffusion des égouttures, eaux de lavage, eaux d'extinction d'incendie, les matières ou déchets répandus accidentellement.
 
 2.10. Cuvettes de rétention
 
 Tout stockage de produits, de produits d'égouttures éventuels et de déchets liquides dangereux, ou susceptibles de créer une pollution de l'eau ou du sol (à l'exception des eaux de lavage et des effluents phytosanitaires dont le stockage est réglementé par l'arrêté du 12 septembre 2006 relatif à la mise sur le marché et à l'utilisation des produits visés à l'article L. 253-1 du code rural et de la pêche maritime) est associé à une capacité de rétention dont le volume est au moins égal à la plus grande des deux valeurs suivantes :
 
-- 100 % de la capacité du plus grand réservoir ;
+-100 % de la capacité du plus grand réservoir ;
 
-- 50 % de la capacité globale des réservoirs associés.
+-50 % de la capacité globale des réservoirs associés.
 
 Les réservoirs fixes sont munis de jauges de niveau et, pour les stockages enterrés, de limiteurs de remplissage. Le stockage sous le niveau du sol n'est autorisé que dans des réservoirs en fosse maçonnée ou assimilés.
 
 L'étanchéité des réservoirs est contrôlable à tout moment et fait l'objet d'un examen visuel tous les six mois.
 
-Lorsque le stockage est constitué exclusivement de récipients de capacité unitaire inférieure ou égale à 250 litres, admis au transport, le volume minimal de la rétention est égal soit à la capacité totale des récipients, si cette capacité est inférieure à 800 litres, soit à 20 % de la capacité totale, ou 50 % dans le cas de déchets ou produits liquides inflammables ou liquides combustibles de point éclair compris entre 60 °C et 93 °C (à l'exception des lubrifiants), avec un minimum de 800 litres si cette capacité excède 800 litres.
+Lorsque le stockage est constitué exclusivement de récipients de capacité unitaire inférieure ou égale à 250 litres, admis au transport, le volume minimal de la rétention est égal soit à la capacité totale des récipients, si cette capacité est inférieure à 800 litres, soit à 20 % de la capacité totale, ou 50 % dans le cas de déchets ou produits liquides inflammables ou liquides combustibles de point éclair compris entre 60° C et 93° C (à l'exception des lubrifiants), avec un minimum de 800 litres si cette capacité excède 800 litres.
 
 La capacité de rétention est étanche aux produits et déchets qu'elle pourrait contenir et résiste à l'action physique et chimique des fluides. Il en est de même pour le dispositif d'obturation, qui est maintenu fermé en conditions normales.
 
@@ -212,23 +236,23 @@ Les produits récupérés en cas d'accident ne peuvent être rejetés que dans d
 
 Objet du contrôle :
 
-- présence de cuvettes de rétention (le non-respect de ce point relève d'une non-conformité majeure) ;
+-présence de cuvettes de rétention (le non-respect de ce point relève d'une non-conformité majeure) ;
 
-- vérification du volume des cuvettes de rétention (le non-respect de ce point relève d'une non-conformité majeure) ;
+-vérification du volume des cuvettes de rétention (le non-respect de ce point relève d'une non-conformité majeure) ;
 
-- étanchéité des cuvettes de rétention (par examen visuel : nature du matériau et absence de fissures) ;
+-étanchéité des cuvettes de rétention (par examen visuel : nature du matériau et absence de fissures) ;
 
-- pour les réservoirs fixes, présence de jauge ;
+-pour les réservoirs fixes, présence de jauge ;
 
-- pour les stockages enterrés, présence de limiteurs de remplissage ;
+-pour les stockages enterrés, présence de limiteurs de remplissage ;
 
-- conditions de stockage sous le niveau du sol (réservoirs en fosse maçonnée ou assimilés) (contrôle visuel ou documentaire) ;
+-conditions de stockage sous le niveau du sol (réservoirs en fosse maçonnée ou assimilés) (contrôle visuel ou documentaire) ;
 
-- présentation des deux derniers comptes rendus d'examen visuel ;
+-présentation des deux derniers comptes rendus d'examen visuel ;
 
-- vérification de la position fermée du dispositif d'obturation ;
+-vérification de la position fermée du dispositif d'obturation ;
 
-- présence de cuvettes de rétention séparées pour les produits susceptibles de réagir dangereusement ensemble.
+-présence de cuvettes de rétention séparées pour les produits susceptibles de réagir dangereusement ensemble.
 
 2.11. Isolement du réseau de collecte
 
@@ -236,7 +260,7 @@ Des dispositifs permettant l'obturation des réseaux d'évacuation des eaux de r
 
 Objet du contrôle :
 
-- présence de la consigne.
+-présence de la consigne.
 
 2.12. Installation de traitement des effluents aqueux
 
@@ -248,7 +272,7 @@ Elles sont conçues, exploitées et entretenues de manière à réduire à leur 
 
 Les installations de traitement sont correctement entretenues. Les principaux paramètres permettant de s'assurer de leur bonne marche sont mesurés périodiquement et si besoin en continu avec asservissement à une alarme. Les résultats de ces mesures sont portés sur un registre éventuellement informatisé et tenus à la disposition de l'inspection des installations classées.
 
-3. Exploitation - Entretien
+3. Exploitation-Entretien
 
 3.1. Surveillance de l'exploitation
 
@@ -260,9 +284,9 @@ Les personnes étrangères à l'établissement n'ont pas d'accès libre aux inst
 
 Objet du contrôle :
 
-- présence d'une clôture ;
+-présence d'une clôture ;
 
-- affichage des heures de réception.
+-affichage des heures de réception.
 
 3.3. Connaissance et étiquetage des produits utilisés et des contenants lavés et procédure d'acceptation
 
@@ -272,29 +296,29 @@ Ces documents sont conservés pendant une durée minimale de cinq ans et sont te
 
 Les fûts, réservoirs et autres emballages des produits sont étiquetés, conformément à la réglementation en vigueur ; ils portent, en caractères lisibles :
 
-- les noms des produits qu'ils contiennent ;
+-les noms des produits qu'ils contiennent ;
 
-- les symboles de danger, conformément à la réglementation en vigueur.
+-les symboles de danger, conformément à la réglementation en vigueur.
 
 Les contenants destinés à être lavés reçus sur l'installation sont vides et doivent être accompagnés d'un document précisant :
 
 -la provenance des contenants : raison sociale, adresse ;
 
-- le type de contenants ;
+-le type de contenants ;
 
-- la nature des résidus ;
+-la nature des résidus ;
 
-- les risques associés aux résidus.
+-les risques associés aux résidus.
 
 Ces données sont enregistrées et conservées pendant une durée de cinq ans dans un registre tenu à la disposition de l'inspection des installations classées et de l'organisme en charge du contrôle.
 
 Objet du contrôle :
 
-- présence des fiches de données de sécurité ;
+-présence des fiches de données de sécurité ;
 
-- présence et lisibilité des noms de produits et symboles de danger sur les fûts, réservoirs et emballages ;
+-présence et lisibilité des noms de produits et symboles de danger sur les fûts, réservoirs et emballages ;
 
-- présence du registre et du contenu des documents conservés dans celui-ci.
+-présence du registre et du contenu des documents conservés dans celui-ci.
 
 3.4. Propreté
 
@@ -302,17 +326,17 @@ Les locaux, voies de circulation et aires de stationnement sont maintenus propre
 
 Objet du contrôle :
 
-- absence d'amas de matières polluantes, de matériaux extraits et de poussières.
+-absence d'amas de matières polluantes, de matériaux extraits et de poussières.
 
 3.5. Etat des stocks des produits dangereux
 
-L'exploitant tient à jour un registre indiquant la nature et la quantité des produits dangereux détenus ou utilisés, auquel est annexé un plan général des stockages correspondants. Ce registre est tenu à la disposition de l'inspection des installations classées, des services d'incendie et de secours, de l'organisme en charge du contrôle périodique et est consigné dans le dossier "installations classées", prévu au point 1.5.
+L'exploitant tient à jour un registre indiquant la nature et la quantité des produits dangereux détenus ou utilisés, auquel est annexé un plan général des stockages correspondants. Ce registre est tenu à la disposition de l'inspection des installations classées, des services d'incendie et de secours, de l'organisme en charge du contrôle périodique et est consigné dans le dossier " installations classées ", prévu au point 1.5.
 
 La présence dans l'installation de matières dangereuses ou combustibles est limitée au plus juste des besoins de l'exploitation.
 
 Objet du contrôle :
 
-- présence de l'état des stocks (nature et quantité) de produits dangereux tenu à jour.
+-présence de l'état des stocks (nature et quantité) de produits dangereux tenu à jour.
 
 3.6. Vérification périodique des installations électriques
 
@@ -326,17 +350,17 @@ Les opérations comportant des manipulations dangereuses et la conduite des inst
 
 Ces consignes prévoient notamment :
 
-- les modes opératoires ;
+-les modes opératoires ;
 
-- la fréquence de vérification des dispositifs de sécurité, ainsi que les instructions de maintenance et de nettoyage ;
+-la fréquence de vérification des dispositifs de sécurité, ainsi que les instructions de maintenance et de nettoyage ;
 
-- les conditions d'entreposage des produits et des déchets.
+-les conditions d'entreposage des produits et des déchets.
 
-Ces éléments sont consignés dans le dossier "installations classées", prévu au point 1.4.
+Ces éléments sont consignés dans le dossier " installations classées ", prévu au point 1.4.
 
 Objet du contrôle :
 
-- présence de chacune de ces consignes.
+-présence de chacune de ces consignes.
 
 3.8. Envol de matières
 
@@ -352,13 +376,13 @@ L'exploitant détermine, pour chaque partie de l'installation recensée en appli
 
 L'exploitant dispose d'un plan général des ateliers et des stockages indiquant les différentes zones de danger correspondant à ces risques éventuels.
 
-Le plan et les justificatifs du zonage sont consignés dans le rapport "installations classées", prévu au point 1.4.
+Le plan et les justificatifs du zonage sont consignés dans le rapport " installations classées ", prévu au point 1.4.
 
 Objet du contrôle :
 
-- présence du plan de l'installation indiquant les différentes zones de danger ;
+-présence du plan de l'installation indiquant les différentes zones de danger ;
 
-- présence d'une signalisation des risques dans les zones de danger, conforme aux indications du plan.
+-présence d'une signalisation des risques dans les zones de danger, conforme aux indications du plan.
 
 4.2. Protection individuelle
 
@@ -366,7 +390,7 @@ Sans préjudice des dispositions du code du travail, des matériels de protectio
 
 Objet du contrôle :
 
-- présence de matériels de protection individuelle.
+-présence de matériels de protection individuelle.
 
 4.3. Moyens de prévention et de lutte
 
@@ -380,43 +404,43 @@ L'exploitant tient à la disposition de l'inspection des installations classées
 
 Objet du contrôle :
 
-- dans les parties présentant des risques de dégagement de gaz ou de vapeurs toxiques, présence de détecteurs de gaz ;
+-dans les parties présentant des risques de dégagement de gaz ou de vapeurs toxiques, présence de détecteurs de gaz ;
 
-- présence des documents permettant de justifier de la suffisance, de l'efficacité et de l'opérabilité des moyens de détection et alarme mis en place ;
+-présence des documents permettant de justifier de la suffisance, de l'efficacité et de l'opérabilité des moyens de détection et alarme mis en place ;
 
-- implantation conforme aux préconisations du document justificatif.
+-implantation conforme aux préconisations du document justificatif.
 
 4.3.2. Moyens d'intervention
 
 L'installation est équipée de moyens d'intervention appropriés aux risques, notamment :
 
-- d'un moyen permettant d'alerter les services d'incendie et de secours ;
+-d'un moyen permettant d'alerter les services d'incendie et de secours ;
 
-- de plans des locaux facilitant l'intervention des services d'incendie et de secours, avec une description des dangers pour chaque local ;
+-de plans des locaux facilitant l'intervention des services d'incendie et de secours, avec une description des dangers pour chaque local ;
 
-- d'un ou plusieurs appareils d'incendie (prises d'eau, poteaux par exemple) d'un réseau public ou privé, implantés de telle sorte que, d'une part, les installations susceptibles d'être à l'origine d'un incendie se trouvent à moins de 100 m d'un appareil et que, d'autre part, elles se trouvent à moins de 200 m d'un ou plusieurs appareils permettant de fournir un débit minimal de 60 m3/h pendant une durée d'au moins deux heures et dont le dispositif de raccordement est conforme aux normes en vigueur, pour permettre au service d'incendie et de secours de s'alimenter sur ces appareils.
+-d'un ou plusieurs appareils d'incendie (prises d'eau, poteaux par exemple) d'un réseau public ou privé, implantés de telle sorte que, d'une part, les installations susceptibles d'être à l'origine d'un incendie se trouvent à moins de 100 m d'un appareil et que, d'autre part, elles se trouvent à moins de 200 m d'un ou plusieurs appareils permettant de fournir un débit minimal de 60 m 3/ h pendant une durée d'au moins deux heures et dont le dispositif de raccordement est conforme aux normes en vigueur, pour permettre au service d'incendie et de secours de s'alimenter sur ces appareils.
 
 A défaut, une réserve d'eau destinée à l'extinction est accessible en toutes circonstances et à une distance des aires de stockage ayant recueilli l'avis des services départementaux d'incendie et de secours. Le niveau d'eau requis est matérialisé afin d'apprécier, en temps réel, la quantité d'eau disponible dans la réserve ;
 
-- d'extincteurs répartis à l'intérieur de l'installation, lorsqu'elle est couverte, et, sur les aires extérieures et dans les lieux présentant des risques spécifiques, à proximité des dégagements, bien visibles et facilement accessibles. Les agents d'extinction sont appropriés aux risques à combattre et compatibles avec les matières et déchets entreposés.
+-d'extincteurs répartis à l'intérieur de l'installation, lorsqu'elle est couverte, et, sur les aires extérieures et dans les lieux présentant des risques spécifiques, à proximité des dégagements, bien visibles et facilement accessibles. Les agents d'extinction sont appropriés aux risques à combattre et compatibles avec les matières et déchets entreposés.
 
-Ces moyens d'intervention sont correctement entretenus et maintenus en bon état de marche. Ils font l'objet de vérifications périodiques (a minima une fois par an), dont le suivi est consigné dans un registre figurant dans le rapport "installations classées" prévu au point 1.4.
+Ces moyens d'intervention sont correctement entretenus et maintenus en bon état de marche. Ils font l'objet de vérifications périodiques (a minima une fois par an), dont le suivi est consigné dans un registre figurant dans le rapport " installations classées " prévu au point 1.4.
 
 Les moyens d'intervention sont capables de fonctionner efficacement quelle que soit la température du dépôt, et notamment en période de gel.
 
-En outre, les stockages aériens de déchets liquides inflammables ou combustibles de point éclair compris entre 60 °C et 93 °C ou explosibles sont également équipés d'un système de détection et d'extinction automatique d'incendie approprié et adapté au risque à couvrir. Ce système est conçu, installé et entretenu régulièrement, conformément aux référentiels reconnus.
+En outre, les stockages aériens de déchets liquides inflammables ou combustibles de point éclair compris entre 60° C et 93° C ou explosibles sont également équipés d'un système de détection et d'extinction automatique d'incendie approprié et adapté au risque à couvrir. Ce système est conçu, installé et entretenu régulièrement, conformément aux référentiels reconnus.
 
 Objet du contrôle :
 
-- présence des appareils d'incendie (bouches, poteaux...) (au moins un) et des extincteurs ;
+-présence des appareils d'incendie (bouches, poteaux...) (au moins un) et des extincteurs ;
 
-- implantation des appareils d'incendie (bouches, poteaux...) et des extincteurs ;
+-implantation des appareils d'incendie (bouches, poteaux...) et des extincteurs ;
 
-- présence d'un moyen d'alerte des services d'incendie et de secours ;
+-présence d'un moyen d'alerte des services d'incendie et de secours ;
 
-- présence de plans de locaux ;
+-présence de plans de locaux ;
 
-- présence du rapport de contrôle datant de moins d'un an.
+-présence du rapport de contrôle datant de moins d'un an.
 
 4.4. Matériels utilisables en atmosphère explosible
 
@@ -424,13 +448,13 @@ Dans les parties de l'installation visées au point 4.1 et susceptibles d'être 
 
 4.5. Interdiction des feux
 
-Dans les parties de l'installation visées au point 4.1 et présentant des risques d'incendie ou d'explosion, il est interdit d'apporter du feu sous une forme quelconque, sauf pour la réalisation de travaux ayant fait l'objet d'un "permis de feu". Cette interdiction est affichée en caractères apparents.
+Dans les parties de l'installation visées au point 4.1 et présentant des risques d'incendie ou d'explosion, il est interdit d'apporter du feu sous une forme quelconque, sauf pour la réalisation de travaux ayant fait l'objet d'un " permis de feu ". Cette interdiction est affichée en caractères apparents.
 
 Objet du contrôle :
 
-- affichage visible de l'interdiction d'apporter du feu dans les parties de l'installation présentant un risque d'incendie ou d'explosion.
+-affichage visible de l'interdiction d'apporter du feu dans les parties de l'installation présentant un risque d'incendie ou d'explosion.
 
-4.6. Permis d'intervention - Permis de feu
+4.6. Permis d'intervention-Permis de feu
 
 Dans les parties de l'installation visées au point 4.1, tous les travaux de réparation ou d'aménagement conduisant à une augmentation des risques (notamment emploi d'une flamme ou d'une source chaude, purge des circuits) ne peuvent être effectués qu'après délivrance d'un " permis d'intervention ", et éventuellement d'un " permis de feu ", et en respectant les règles d'une consigne particulière.
 
@@ -444,33 +468,33 @@ Sans préjudice des dispositions du code du travail, des consignes de sécurité
 
 Ces consignes indiquent notamment :
 
-- toutes les informations utiles sur les produits ou déchets manipulés (caractéristiques et dangers associés), les réactions chimiques et les risques des opérations mises en œuvre ;
+-toutes les informations utiles sur les produits ou déchets manipulés (caractéristiques et dangers associés), les réactions chimiques et les risques des opérations mises en œuvre ;
 
-- la procédure d'alerte, avec les numéros de téléphone du responsable d'intervention de l'établissement, des services d'incendie et de secours, etc., ainsi que les moyens à mettre en œuvre en cas d'accident (notamment les moyens d'extinction à utiliser en cas d'incendie) ;
+-la procédure d'alerte, avec les numéros de téléphone du responsable d'intervention de l'établissement, des services d'incendie et de secours, etc., ainsi que les moyens à mettre en œuvre en cas d'accident (notamment les moyens d'extinction à utiliser en cas d'incendie) ;
 
-- l'obligation d'informer l'inspection des installations classées en cas d'accident ;
+-l'obligation d'informer l'inspection des installations classées en cas d'accident ;
 
-- l'interdiction d'apporter du feu sous une forme quelconque, notamment l'interdiction de fumer, dans les parties de l'installation visées au point 4.1 et présentant des risques d'incendie ou d'explosion ;
+-l'interdiction d'apporter du feu sous une forme quelconque, notamment l'interdiction de fumer, dans les parties de l'installation visées au point 4.1 et présentant des risques d'incendie ou d'explosion ;
 
-- l'obligation du "permis d'intervention" pour les parties de l'installation, visées au point 4.1 ;
+-l'obligation du " permis d'intervention " pour les parties de l'installation, visées au point 4.1 ;
 
-- les procédures d'arrêt d'urgence et de mise en sécurité de l'installation (électricité, réseaux de fluides) ;
+-les procédures d'arrêt d'urgence et de mise en sécurité de l'installation (électricité, réseaux de fluides) ;
 
-- les précautions à prendre pour l'emploi et l'entreposage de produits ou déchets incompatibles.
+-les précautions à prendre pour l'emploi et l'entreposage de produits ou déchets incompatibles.
 
 Le personnel d'exploitation reçoit une formation portant sur les risques présentés par l'entreposage ou la manipulation des matières dangereuses, ainsi que sur les moyens mis en œuvre pour les éviter. Il connaît les procédures à suivre en cas d'urgence.
 
-Le personnel procède également et au moins tous les deux ans à des exercices périodiques de simulation d'application des consignes de sécurité prévues par le présent arrêté, ainsi qu'à un entraînement régulier au maniement des moyens d'intervention affectés. Un compte rendu écrit de ces exercices est établi et consigné dans le rapport "installations classées", prévu au point 1.4.
+Le personnel procède également et au moins tous les deux ans à des exercices périodiques de simulation d'application des consignes de sécurité prévues par le présent arrêté, ainsi qu'à un entraînement régulier au maniement des moyens d'intervention affectés. Un compte rendu écrit de ces exercices est établi et consigné dans le rapport " installations classées ", prévu au point 1.4.
 
 Objet du contrôle :
 
-- affichage des consignes de sécurité dans les lieux fréquentés par le personnel ;
+-affichage des consignes de sécurité dans les lieux fréquentés par le personnel ;
 
-- présence des justificatifs de la formation initiale du personnel d'exploitation en matière de risques présents par l'entreposage, la manipulation des déchets dangereux ou contenant des substances ou préparations dangereuses mentionnées à l'article R. 511-10, ainsi que sur les moyens mis en œuvre pour les éviter.
+-présence des justificatifs de la formation initiale du personnel d'exploitation en matière de risques présents par l'entreposage, la manipulation des déchets dangereux ou contenant des substances ou préparations dangereuses mentionnées à l'article R. 511-10, ainsi que sur les moyens mis en œuvre pour les éviter.
 
 5. Eau
 
-5.1. [*]
+5.1. [⁎]
 
 5.2. Connexité avec des ouvrages soumis à la nomenclature eau
 
@@ -482,33 +506,33 @@ Le raccordement à une nappe d'eau ou au réseau public de distribution d'eau po
 
 L'usage du réseau d'eau incendie est strictement réservé aux sinistres et aux exercices de secours, ainsi qu'aux opérations d'entretien ou de maintien hors gel de ce réseau.
 
-Les installations de prélèvement doivent être munies d'un dispositif de mesure totaliseur. Le relevé du totaliseur est effectué au minimum une fois par mois et est porté sur un registre consigné dans le dossier "installations classées" prévu au point 1.4.
+Les installations de prélèvement doivent être munies d'un dispositif de mesure totaliseur. Le relevé du totaliseur est effectué au minimum une fois par mois et est porté sur un registre consigné dans le dossier " installations classées " prévu au point 1.4.
 
 A défaut, en cas d'impossibilité d'un compteur dédié à l'installation de lavage, l'exploitant évalue la quantité d'eau consommée par cette installation.
 
 Objet du contrôle :
 
-- en cas d'installations de prélèvement d'eau, présence du dispositif de mesure totalisateur (le non-respect de ce point relève d'une non-conformité majeure) ;
+-en cas d'installations de prélèvement d'eau, présence du dispositif de mesure totalisateur (le non-respect de ce point relève d'une non-conformité majeure) ;
 
-- présence des enregistrements des relevés de mesures (le non-respect de ce point relève d'une non-conformité majeure) ;
+-présence des enregistrements des relevés de mesures (le non-respect de ce point relève d'une non-conformité majeure) ;
 
-- présence d'un dispositif antiretour en cas de raccordement à une nappe ou au réseau public.
+-présence d'un dispositif antiretour en cas de raccordement à une nappe ou au réseau public.
 
 5.4. Consommation
 
 L'exploitant prend toutes les dispositions nécessaires, dans la conception et l'exploitation des installations, pour limiter la quantité d'eau mise en œuvre, y compris lorsqu'il s'agit des eaux de lavage réutilisées après traitement in situ. Pour cela, l'exploitant définit les spécifications minimales que doivent respecter les eaux entrantes dans le process pour que le lavage soit efficace.
 
-Ces spécifications sont consignées dans le dossier "installations classées" prévu au 1.4.
+Ces spécifications sont consignées dans le dossier " installations classées " prévu au 1.4.
 
 Les eaux de lavage respectant ces spécifications font l'objet d'une recirculation dans le process. A défaut, en cas d'impossibilité d'un compteur dédié à l'installation de lavage, l'exploitant évalue la quantité d'eau consommée par cette installation.
 
 Objet du contrôle :
 
-- concordance entre les spécifications mentionnées dans le dossier et les analyses des eaux de lavage après utilisation (le non-respect de ce point relève d'une non-conformité majeure).
+-concordance entre les spécifications mentionnées dans le dossier et les analyses des eaux de lavage après utilisation (le non-respect de ce point relève d'une non-conformité majeure).
 
 5.5. Réseau de collecte
 
-Lorsque le lavage est réalisé sous bâtiment et que le ruissellement des eaux pluviales sur des toitures, aires de stockage, voies de circulation, aires de stationnement et autres surfaces imperméables est susceptible de présenter un risque particulier d'entraînement de pollution par lessivage des toitures, sols, aires de stockage, etc., un réseau de collecte des eaux pluviales est aménagé et raccordé à un (ou plusieurs) bassin(s) de confinement capable(s) de recueillir le premier flot des eaux pluviales.
+Lorsque le lavage est réalisé sous bâtiment et que le ruissellement des eaux pluviales sur des toitures, aires de stockage, voies de circulation, aires de stationnement et autres surfaces imperméables est susceptible de présenter un risque particulier d'entraînement de pollution par lessivage des toitures, sols, aires de stockage, etc., un réseau de collecte des eaux pluviales est aménagé et raccordé à un (ou plusieurs) bassin (s) de confinement capable (s) de recueillir le premier flot des eaux pluviales.
 
 Les eaux de lavage collectées ne peuvent être rejetées au milieu récepteur qu'après contrôle de leur qualité conformément au présent arrêté, et si besoin traitement approprié. Leur rejet est étalé dans le temps, en tant que de besoin, en vue de respecter les valeurs limites en concentration fixées par le présent arrêté.
 
@@ -518,7 +542,7 @@ Le plan des réseaux de collecte des effluents prévu fait apparaître les secte
 
 Objet du contrôle :
 
-- vérification de l'existence du plan des réseaux et contenu de celui-ci.
+-vérification de l'existence du plan des réseaux et contenu de celui-ci.
 
 5.6. Mesure des volumes rejetés
 
@@ -526,9 +550,9 @@ Tous les effluents aqueux sont canalisés (eaux usées domestiques, eaux pluvial
 
 A l'exception des cas accidentels où la sécurité des personnes ou des installations serait compromise, il est interdit d'établir des liaisons directes conduisant au contournement des dispositifs de traitement des effluents avant rejet. Les liaisons directes sont également interdites entre les réseaux de collecte séparatifs des effluents devant subir un traitement ou être détruits et entre ces réseaux et le milieu récepteur.
 
-Les eaux de lavage ainsi que les eaux météoriques des aires "voiries", "parking", des aires de dépotage, remplissage, transvasement des stockages, etc. transitent, a minima, avant rejet, par des débourbeurs-déshuileurs. Des installations de traitement physico-chimique et/ou biologique des effluents sont mises en œuvre lorsqu'elles sont nécessaires au respect des valeurs limites imposées au rejet au point 5.7.
+Les eaux de lavage ainsi que les eaux météoriques des aires " voiries ", " parking ", des aires de dépotage, remplissage, transvasement des stockages, etc. transitent, a minima, avant rejet, par des débourbeurs-déshuileurs. Des installations de traitement physico-chimique et/ ou biologique des effluents sont mises en œuvre lorsqu'elles sont nécessaires au respect des valeurs limites imposées au rejet au point 5.7.
 
-Ces installations sont entretenues régulièrement et au minimum une fois par an. Les rapports d'entretien sont conservés dans le rapport "installations classées" prévu au point 1.4 durant cinq ans au minimum.
+Ces installations sont entretenues régulièrement et au minimum une fois par an. Les rapports d'entretien sont conservés dans le rapport " installations classées " prévu au point 1.4 durant cinq ans au minimum.
 
 Les boues issues de ces installations de traitement sont traitées conformément aux dispositions figurant au point 7 de la présente annexe.
 
@@ -536,7 +560,7 @@ Les installations de traitement sont conçues, exploitées et entretenues de man
 
 Objet du contrôle :
 
-- présentation du justificatif du curage et nettoyage du décanteur séparateur depuis moins d'un an (le non-respect de ce point relève d'une non-conformité majeure).
+-présentation du justificatif du curage et nettoyage du décanteur séparateur depuis moins d'un an (le non-respect de ce point relève d'une non-conformité majeure).
 
 5.7. Valeurs limites de rejet
 
@@ -544,67 +568,67 @@ Sans préjudice de l'autorisation de déversement dans le réseau public (art. L
 
 a) Dans tous les cas, avant rejet au milieu naturel ou dans un réseau d'assainissement collectif :
 
-- pH 5,5-8,5 (9,5 en cas de neutralisation alcaline) ;
+-pH 5,5-8,5 (9,5 en cas de neutralisation alcaline) ;
 
-- température < 30 °C.
+-température < 30° C.
 
-b) Dans le cas de rejet dans un réseau d'assainissement collectif muni d'une station d'épuration, lorsque le flux maximal apporté par l'effluent est susceptible de dépasser 15 kg/j de MEST ou 15 kg/j de DBO5 ou 45 kg/j de DCO :
+b) Dans le cas de rejet dans un réseau d'assainissement collectif muni d'une station d'épuration, lorsque le flux maximal apporté par l'effluent est susceptible de dépasser 15 kg/ j de MEST ou 15 kg/ j de DBO5 ou 45 kg/ j de DCO :
 
-- matières en suspension : 600 mg/l ;
+-matières en suspension : 600 mg/ l ;
 
-- DCO : 2 000 mg/l ;
+-DCO : 2 000 mg/ l ;
 
-- DBO5 : 800 mg/l.
+-DBO5 : 800 mg/ l.
 
 Ces valeurs limites ne sont pas applicables lorsque l'autorisation de déversement dans le réseau public prévoit une valeur supérieure.
 
 c) Dans le cas de rejet dans le milieu naturel (ou dans un réseau d'assainissement collectif dépourvu de station d'épuration) :
 
-- matières en suspension : la concentration ne doit pas dépasser 100 mg/l si le flux journalier n'excède pas 15 kg/j, 35 mg/l au-delà ;
+-matières en suspension : la concentration ne doit pas dépasser 100 mg/ l si le flux journalier n'excède pas 15 kg/ j, 35 mg/ l au-delà ;
 
-- DCO : la concentration ne doit pas dépasser 300 mg/l si le flux journalier n'excède pas 100 kg/j, 125 mg/l au-delà ;
+-DCO : la concentration ne doit pas dépasser 300 mg/ l si le flux journalier n'excède pas 100 kg/ j, 125 mg/ l au-delà ;
 
-- DBO5 : la concentration ne doit pas dépasser 100 mg/l si le flux journalier n'excède pas 30 kg/j, 30 mg/l au-delà.
+-DBO5 : la concentration ne doit pas dépasser 100 mg/ l si le flux journalier n'excède pas 30 kg/ j, 30 mg/ l au-delà.
 
 Dans tous les cas, les rejets doivent être compatibles avec la qualité ou les objectifs de qualité des cours d'eau.
 
 d) Polluants spécifiques : avant rejet dans le milieu naturel ou dans un réseau d'assainissement collectif urbain :
 
-- indice phénols : 0,3 mg/l si le flux est supérieur à 3 g/j ;
+-indice phénols : 0,3 mg/ l si le flux est supérieur à 3 g/ j ;
 
-- chrome hexavalent : 0,1 mg/l si le flux est supérieur à 1 g/j ;
+-chrome hexavalent : 0,1 mg/ l si le flux est supérieur à 1 g/ j ;
 
-- cyanures totaux : 0,1 mg/l si le flux est supérieur à 1 g/j ;
+-cyanures totaux : 0,1 mg/ l si le flux est supérieur à 1 g/ j ;
 
-- AOx : 5 mg/l si le flux est supérieur à 30 g/j ;
+-AOx : 5 mg/ l si le flux est supérieur à 30 g/ j ;
 
-- arsenic : 0,1 mg/l si le flux est supérieur à 1 g/j ;
+-arsenic : 0,1 mg/ l si le flux est supérieur à 1 g/ j ;
 
-- hydrocarbures totaux : 10 mg/l si le flux est supérieur à 100 g/j ;
+-hydrocarbures totaux : 10 mg/ l si le flux est supérieur à 100 g/ j ;
 
-- métaux totaux : 15 mg/l si le flux est supérieur à 100 g/j.
+-métaux totaux : 15 mg/ l si le flux est supérieur à 100 g/ j.
 
 Ces valeurs limites sont à respecter en moyenne quotidienne. Aucune valeur instantanée ne doit dépasser le double des valeurs limites de concentration.
 
 e) Substances toxiques, bioaccumulables ou nocives pour l'environnement : avant rejet dans le milieu naturel ou dans un réseau d'assainissement collectif urbain :
 
-- anthracène : 1,5 mg/l ;
+-anthracène : 1,5 mg/ l ;
 
-- benzène : 1,5 mg/l ;
+-benzène : 1,5 mg/ l ;
 
-- biphényle : 1,5 mg/l ;
+-biphényle : 1,5 mg/ l ;
 
-- cadmium et ses composés : 0,2 mg/l ;
+-cadmium et ses composés : 0,2 mg/ l ;
 
-- dichlorométhane : 1,5 mg/l ;
+-dichlorométhane : 1,5 mg/ l ;
 
-- éthylbenzène : 1,5 mg/l ;
+-éthylbenzène : 1,5 mg/ l ;
 
-- naphtalène : 1,5 mg/l ;
+-naphtalène : 1,5 mg/ l ;
 
-- toluène : 4 mg/l ;.
+-toluène : 4 mg/ l ;.
 
-- xylènes : 1,5 mg/l.
+-xylènes : 1,5 mg/ l.
 
 Les valeurs limites du présent point sont respectées en moyenne journalière. Aucune valeur instantanée ne dépasse le double des valeurs limites de concentration fixée par la présente annexe.
 
@@ -630,15 +654,15 @@ Objet du contrôle :
 
 Pour les effluents contenant uniquement des produits phytosanitaire, en cas d'épandage :
 
-- vérification de l'utilisation d'un système de traitement agréé (le non-respect de ce point relève d'une non-conformité majeure) ;
+-vérification de l'utilisation d'un système de traitement agréé (le non-respect de ce point relève d'une non-conformité majeure) ;
 
-- vérification du respect des conditions d'épandage (le non-respect de ce point relève d'une non-conformité majeure).
+-vérification du respect des conditions d'épandage (le non-respect de ce point relève d'une non-conformité majeure).
 
 5.11. Surveillance par l'exploitant de la pollution rejetée
 
 L'exploitant réalise, a minima une fois par an, un contrôle de la qualité des eaux de rejet sur l'ensemble des paramètres mentionnés au point 5.7, complété, pour les installations rejetant au milieu naturel, d'un contrôle mensuel sur les paramètres DCO et MES. Ces contrôles sont réalisés par un organisme agréé par le ministre chargé de l'environnement, selon les méthodes de référence précisées dans l'arrêté du 7 juillet 2009 susvisé.
 
-Ces mesures sont effectuées sur un échantillon représentatif du fonctionnement sur une journée de l'installation et constitué soit par un prélèvement continu d'une demi-heure, soit par au moins deux prélèvements instantanés espacés d'une demi-heure. En cas d'impossibilité d'obtenir un tel échantillon, une évaluation des capacités des équipements d'épuration à respecter les valeurs limites est réalisée. Une mesure du débit est également réalisée, ou estimée à partir des consommations, si celui-ci est supérieur à 10 m3/j.
+Ces mesures sont effectuées sur un échantillon représentatif du fonctionnement sur une journée de l'installation et constitué soit par un prélèvement continu d'une demi-heure, soit par au moins deux prélèvements instantanés espacés d'une demi-heure. En cas d'impossibilité d'obtenir un tel échantillon, une évaluation des capacités des équipements d'épuration à respecter les valeurs limites est réalisée. Une mesure du débit est également réalisée, ou estimée à partir des consommations, si celui-ci est supérieur à 10 m 3/ j.
 
 Une mesure de la concentration en PCB des rejets aqueux est effectuée au moins tous les cinq ans par un laboratoire agréé par le ministre chargé de l'environnement.
 
@@ -648,13 +672,13 @@ Tous les résultats de la surveillance des rejets sont consignés dans le dossie
 
 Objet du contrôle :
 
-- présence des résultats des mesures selon la fréquence et sur les paramètres décrits ci-dessus ou, en cas d'impossibilité d'obtenir un échantillon représentatif, évaluation des capacités des équipements d'épuration à respecter les valeurs limites d'émissions applicables ;
+-présence des résultats des mesures selon la fréquence et sur les paramètres décrits ci-dessus ou, en cas d'impossibilité d'obtenir un échantillon représentatif, évaluation des capacités des équipements d'épuration à respecter les valeurs limites d'émissions applicables ;
 
-- conformité des résultats de mesures avec les valeurs limites d'émissions applicables ;
+-conformité des résultats de mesures avec les valeurs limites d'émissions applicables ;
 
-- présence des éléments justifiant que les polluants mentionnés au point 5.6 ne faisant pas l'objet de mesures périodiques ne sont pas émis par l'installation.
+-présence des éléments justifiant que les polluants mentionnés au point 5.6 ne faisant pas l'objet de mesures périodiques ne sont pas émis par l'installation.
 
-6. Air - Odeurs
+6. Air-Odeurs
 
 6.1. Captage et épuration des rejets à l'atmosphère
 
@@ -676,9 +700,9 @@ a) Poussières :
 
 Sans préjudice des dispositions du code du travail en matière de protection des travailleurs, les parties de l'installation comportant des phases de travail, à l'origine de fortes émissions de poussières (manipulation de matières pulvérulentes...), sont équipées de dispositifs de captage, d'aspiration et de capotage adaptés aux risques et permettant de respecter les valeurs limites d'émission ci-dessous :
 
-- si le flux massique est inférieur ou égale à 1 kg/h, les gaz rejetés à l'atmosphère ne contiennent pas plus de 100 mg/Nm3 de poussières ;
+-si le flux massique est inférieur ou égale à 1 kg/ h, les gaz rejetés à l'atmosphère ne contiennent pas plus de 100 mg/ Nm 3 de poussières ;
 
-- si le flux massique est supérieur à 1 kg/h, les gaz rejetés à l'atmosphère ne contiennent pas plus de 40 mg/Nm3 de poussières.
+-si le flux massique est supérieur à 1 kg/ h, les gaz rejetés à l'atmosphère ne contiennent pas plus de 40 mg/ Nm 3 de poussières.
 
 b) Composés organiques volatils :
 
@@ -688,7 +712,7 @@ Composé organique volatil (COV) : tout composé organique, à l'exclusion du m�
 
 Emissions canalisées de COV : toute émission de COV dans l'atmosphère réalisée à l'aide d'une cheminée ou issue d'un équipement de réduction des émissions.
 
-Les émissions canalisées rejetées à l'atmosphère ne contiennent pas plus de 110 mg/Nm3 en carbone total de la concentration globale de l'ensemble des composés de COV. Si la consommation de solvants est supérieure à 2 tonnes par an, la valeur limite, exprimée en carbone total de la concentration globale de l'ensemble des composés organiques volatils, à l'exclusion du méthane, est de 75 mg/m3.
+Les émissions canalisées rejetées à l'atmosphère ne contiennent pas plus de 110 mg/ Nm 3 en carbone total de la concentration globale de l'ensemble des composés de COV. Si la consommation de solvants est supérieure à 2 tonnes par an, la valeur limite, exprimée en carbone total de la concentration globale de l'ensemble des composés organiques volatils, à l'exclusion du méthane, est de 75 mg/ m 3.
 
 Le flux annuel des émissions diffuses de ces composés ne doit en outre pas dépasser 20 % de la quantité de solvants utilisée ; ce taux est ramené à 15 % si la consommation de solvants est supérieure à 10 tonnes par an.
 
@@ -712,9 +736,9 @@ Les résultats de ces mesures sont consignés dans le dossier installations clas
 
 Objet du contrôle :
 
-- présence des résultats des mesures faites par l'exploitant ou dans les cas d'impossibilité prévus, présence de l'évaluation des conditions de fonctionnement et des capacités des équipements d'épuration à respecter les valeurs limites d'émission applicables ;
+-présence des résultats des mesures faites par l'exploitant ou dans les cas d'impossibilité prévus, présence de l'évaluation des conditions de fonctionnement et des capacités des équipements d'épuration à respecter les valeurs limites d'émission applicables ;
 
-- conformité des résultats de mesures avec les valeurs limites d'émission applicables.
+-conformité des résultats de mesures avec les valeurs limites d'émission applicables.
 
 7. Déchets
 
@@ -726,15 +750,15 @@ Les déchets sont éliminés dans des installations réglementées à cet effet,
 
 L'exploitant tient à jour un registre des déchets dangereux, dont le contenu est fixé par l'arrêté du 7 juillet 2005 susvisé.
 
-Ce registre est consigné dans le dossier installations classées , prévu au point 1.4.
+Ce registre est consigné dans le dossier installations classées, prévu au point 1.4.
 
 L'exploitant organise la gestion des déchets sortants dans des conditions propres à garantir la préservation des intérêts visés aux articles L. 511-1 et L. 541-1 du code de l'environnement. Il s'assure que les installations de destination disposent des autorisations, enregistrements ou déclarations et agréments nécessaires. L'exploitant émet un bordereau de suivi des déchets dangereux, ou contenant de l'amiante, conformément aux dispositions de l'arrêté du 29 juillet 2005 modifié susvisé, dès qu'il remet ces déchets à un tiers.
 
 Objet du contrôle :
 
-- vérification de l'effectif envoi des déchets dans des installations réglementées, présentation des justificatifs ;
+-vérification de l'effectif envoi des déchets dans des installations réglementées, présentation des justificatifs ;
 
-- présence du registre (le non-respect de ce point relève d'une non-conformité majeure).
+-présence du registre (le non-respect de ce point relève d'une non-conformité majeure).
 
 7.2. Brûlage
 
@@ -750,11 +774,11 @@ Emergence : la différence entre les niveaux de pression continus équivalents p
 
 Zones à émergence réglementée :
 
-- l'intérieur des immeubles habités ou occupés par des tiers, existant à la date de la déclaration, et leurs parties extérieures éventuelles les plus proches (cour, jardin, terrasse) ;
+-l'intérieur des immeubles habités ou occupés par des tiers, existant à la date de la déclaration, et leurs parties extérieures éventuelles les plus proches (cour, jardin, terrasse) ;
 
-- les zones constructibles définies par des documents d'urbanisme opposables aux tiers et publiés à la date de la déclaration ;
+-les zones constructibles définies par des documents d'urbanisme opposables aux tiers et publiés à la date de la déclaration ;
 
-- l'intérieur des immeubles, habités ou occupés par des tiers, qui ont été implantés après la date de la déclaration dans les zones constructibles définies ci-dessus, et leurs parties extérieures éventuelles les plus proches (cour, jardin, terrasse), à l'exclusion de celles des immeubles implantés dans les zones destinées à recevoir des activités artisanales ou industrielles.
+-l'intérieur des immeubles, habités ou occupés par des tiers, qui ont été implantés après la date de la déclaration dans les zones constructibles définies ci-dessus, et leurs parties extérieures éventuelles les plus proches (cour, jardin, terrasse), à l'exclusion de celles des immeubles implantés dans les zones destinées à recevoir des activités artisanales ou industrielles.
 
 Pour les installations existantes, déclarées au plus tard quatre mois après la date de publication du présent arrêté au Journal officiel, la date de la déclaration est remplacée, dans la définition ci-dessus des zones à émergence réglementée, par la date du présent arrêté.
 
@@ -826,7 +850,7 @@ Dans le cas où le bruit particulier de l'établissement est à tonalité marqu�
 
 Lorsque plusieurs installations classées, soumises à déclaration au titre de rubriques différentes, sont situées au sein d'un même établissement, le niveau de bruit global émis par ces installations respecte les valeurs limites ci-dessus.
 
-8.2. Véhicules - Engins de chantier
+8.2. Véhicules-Engins de chantier
 
 Les véhicules de transport, les matériels de manutention et les engins de chantier utilisés à l'intérieur de l'installation sont conformes aux dispositions en vigueur en matière de limitation de leurs émissions sonores. En particulier, les engins de chantier sont conformes à un type homologué.
 
@@ -844,6 +868,6 @@ Lorsque des mesures sont effectuées pour vérifier le respect des présentes di
 
 Outre les dispositions prévues au point 1.7, l'exploitant remet en état le site de sorte qu'il ne s'y manifeste plus aucun danger et que le site soit restauré au niveau de ce qu'il était avant son utilisation comme installation de lavage de contenants. En particulier :
 
-- tous les produits dangereux ainsi que tous les déchets sont valorisés ou évacués conformément au point 7.1 de la présente annexe ;
+-tous les produits dangereux ainsi que tous les déchets sont valorisés ou évacués conformément au point 7.1 de la présente annexe ;
 
-- les cuves ayant contenu des produits ou déchets susceptibles de polluer les eaux, ou de provoquer un incendie ou une explosion, sont vidées, nettoyées, dégazées et, le cas échéant, décontaminées. Elles sont si possible enlevées, sinon, et dans le cas spécifique des cuves enterrées, elles sont rendues inutilisables par remplissage avec un matériau solide inerte. Le produit utilisé pour la neutralisation recouvre toute la surface de la paroi interne, et possède une résistance à terme suffisante pour empêcher l'affaissement du sol en surface.
+-les cuves ayant contenu des produits ou déchets susceptibles de polluer les eaux, ou de provoquer un incendie ou une explosion, sont vidées, nettoyées, dégazées et, le cas échéant, décontaminées. Elles sont si possible enlevées, sinon, et dans le cas spécifique des cuves enterrées, elles sont rendues inutilisables par remplissage avec un matériau solide inerte. Le produit utilisé pour la neutralisation recouvre toute la surface de la paroi interne, et possède une résistance à terme suffisante pour empêcher l'affaissement du sol en surface.
