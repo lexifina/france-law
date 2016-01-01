@@ -1,9 +1,5 @@
 # Article Annexe
 
-T A B L E A U
-
-A N N E X E
-
 SECRÉTARIATS GÉNÉRAUX POUR L'ADMINISTRATION DE LA POLICE
 
 SECRETARIATS GENERAUX
@@ -97,60 +93,6 @@ Siège : Toulouse
 |
 
 Sièges : Bayonne, la Rochelle, Limoges, Tarbes
-
-|
-
-.
-
-SECRETARIATS GENERAUX
-
-Pour l'administration de la police
-
-|
-
-SERVICES
-
-administratifs
-
-|
-
-SERVICES
-
-Techniques
-
-|
-
-ANTENNES LOGISTIQUES
-
-|
-
-ANTENNES
-
-techniques
-
-SIC
-
-|
-
-Zone de défense et de sécurité de Paris
-
-Siège : Paris (départements de la région Ile-de-France)
-
-|
-
-Siège : Versailles
-
-|
-
-Siège : Le Chesnay
-
-|
-
-Sièges : Boissy-l'Aillerie, Chevilly-Larue et Créteil
-
-|
-
-Siège : Melun
 
 |
 
