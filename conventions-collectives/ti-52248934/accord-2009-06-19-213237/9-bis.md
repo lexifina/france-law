@@ -1,9 +1,7 @@
-# Article 10 bis
+# Article 9 bis
 
-Portabilité
-
-Les salariés bénéficient des dispositions légales sur le maintien des garanties de protection sociale complémentaire en cas de cessation du contrat de travail ouvrant droit à prise en charge par le régime d'assurance chômage selon les conditions définies par les textes légaux, et ce à compter de la date fixée par la loi (dispositions figurant pour information en annexe III au présent accord).
+Les salariés entrant dans le champ d'application du présent accord et couverts collectivement par les garanties frais de santé bénéficient des dispositions légales sur le maintien du régime frais de santé en cas de cessation du contrat de travail ouvrant doit à prise en charge par le régime d'assurance chômage selon les conditions définies par les textes légaux et ce à compter de la date fixée par la loi (dispositions figurant pour information en annexe III à l'avenant n° 4 du 19 novembre 2015).
 
 Pour bénéficier des prestations, le demandeur d'emploi bénéficiant du maintien des garanties doit fournir l'ensemble des justificatifs demandés au salarié auxquels s'ajoute le justificatif de versement des allocations chômage du mois correspondant à celui pour lequel les prestations demandées sont dues.
 
-Les effectifs ainsi que les prestations versées au titre de la portabilité font l'objet d'un suivi spécifique sur des lignes distinctes du bilan.
+(ancien article 10 bis)
