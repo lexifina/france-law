@@ -1,6 +1,6 @@
-# Article A III
+# Article A II
 
-A. - III. - RÉPARTITION DES EMPLOIS D'ADMINISTRATEUR DE L'ÉDUCATION NATIONALE,
+A. - II. - RÉPARTITION DES EMPLOIS D'ADMINISTRATEUR DE L'ÉDUCATION NATIONALE,
 
 de l'enseignement supérieur et de la recherche
 

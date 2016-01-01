@@ -348,9 +348,7 @@ Le service départemental de l'éducation nationale du Puy-de-Dôme
 
 |
 
-Etablissement public local d'enseignement-Lycée-Chef d'agence comptable
-
-|
+Etablissement public local d'enseignement-Lycée-Chef d'agence comptable |
 
 5
 
@@ -408,9 +406,7 @@ Rectorat
 
 |
 
-Etablissement public local d'enseignement-Lycée-Chef d'agence comptable
-
-|
+Etablissement public local d'enseignement-Lycée-Chef d'agence comptable |
 
 10
 
@@ -552,13 +548,9 @@ Etablissement public local d'enseignement-Lycée-Chef d'agence comptable
 
 |
 
-Guadeloupe
+Guadeloupe |
 
-|
-
-Rectorat
-
-|
+Rectorat |
 
 2
 
@@ -578,9 +570,7 @@ Etablissement public local d'enseignement-Lycée-Chef d'agence comptable
 
 |
 
-Guyane
-
-|
+Guyane |
 
 Rectorat
 
@@ -612,7 +602,17 @@ Rectorat
 
 |
 
-7
+6
+
+|
+
+|
+
+Service départemental de l'éducation nationale du Nord
+
+|
+
+1
 
 |
 
@@ -630,9 +630,7 @@ Limoges
 
 |
 
-Rectorat
-
-|
+Rectorat |
 
 3
 
@@ -682,9 +680,7 @@ Lyon
 
 |
 
-Rectorat
-
-|
+Rectorat |
 
 4
 
@@ -742,9 +738,7 @@ Rectorat
 
 |
 
-Etablissement public local d'enseignement-Lycée-Chef d'agence comptable
-
-|
+Etablissement public local d'enseignement-Lycée-Chef d'agence comptable |
 
 2
 
@@ -810,9 +804,7 @@ Nancy-Metz
 
 |
 
-Rectorat
-
-|
+Rectorat |
 
 4
 
@@ -850,9 +842,7 @@ Service départemental de l'éducation nationale des Vosges
 
 |
 
-Etablissement public local d'enseignement-Lycée-Chef d'agence comptable
-
-|
+Etablissement public local d'enseignement-Lycée-Chef d'agence comptable |
 
 7
 
@@ -1178,9 +1168,7 @@ Rennes
 
 |
 
-Rectorat
-
-|
+Rectorat |
 
 5
 
@@ -1220,9 +1208,7 @@ A effet du 1er septembre 2014
 
 |
 
-La Réunion
-
-|
+La Réunion |
 
 Rectorat
 
@@ -1270,9 +1256,7 @@ Service départemental de l'éducation nationale de l'Eure
 
 |
 
-Etablissement public local d'enseignement-Lycée-Chef d'agence comptable
-
-|
+Etablissement public local d'enseignement-Lycée-Chef d'agence comptable |
 
 4
 
@@ -1282,13 +1266,9 @@ A effet du 1er septembre 2014
 
 |
 
-Strasbourg
+Strasbourg |
 
-|
-
-Rectorat
-
-|
+Rectorat |
 
 5
 
@@ -1324,9 +1304,7 @@ Etablissement public local d'enseignement-Lycée-Chef d'agence comptable
 
 |
 
-Toulouse
-
-|
+Toulouse |
 
 Rectorat
 
@@ -1494,7 +1472,7 @@ Réseau Canopé
 
 |
 
-2
+7
 
 |
 
@@ -1508,9 +1486,7 @@ Office national d'information sur les enseignements et les professions
 
 |
 
-Administration centrale
-
-|
+Administration centrale |
 
 |
 
