@@ -84,15 +84,7 @@ E.-Le taux de la réduction d'impôt est fixé à :
 
 F. ― La réduction d'impôt est répartie, selon la durée de l'engagement de location, sur six ou neuf années. Elle est accordée au titre de l'année de la souscription et imputée sur l'impôt dû au titre de cette même année, puis sur l'impôt dû au titre de chacune des cinq ou huit années suivantes à raison d'un sixième ou d'un neuvième de son montant total au titre de chacune de ces années.
 
-IX. ― Au sein d'un même immeuble neuf comportant au moins cinq logements, un pourcentage des logements doit être acquis sans pouvoir ouvrir droit au bénéfice de la réduction d'impôt prévue au présent article. Un décret fixe ce pourcentage, qui ne peut être inférieur à 20 %. Le respect de cette limite s'apprécie à la date de la signature de l'acte authentique d'acquisition du dernier logement acquis.
-
-Le droit mentionné au premier alinéa prend la forme d'une mention figurant dans l'acte authentique d'acquisition des logements ouvrant droit à la réduction d'impôt mentionnée au présent article.
-
-Le premier alinéa ne s'applique pas aux immeubles dont l'ensemble des logements est acquis par une société civile de placement immobilier dans les conditions mentionnées au VIII.
-
-La personne qui commercialise des logements situés dans un immeuble mentionné au premier alinéa de telle sorte que la limite mentionnée à ce même alinéa n'est pas respectée est passible d'une amende maximale de 18 000 € par logement excédentaire. L'administration notifie à la personne qui commercialise un ou des logements au-delà de la limite mentionnée audit alinéa le montant de l'amende dont elle est passible et sollicite ses observations.
-
-Le décret mentionné au premier alinéa fixe les conditions et les modalités d'application du présent IX et, notamment, les modalités de recouvrement de l'amende mentionnée à l'avant-dernier alinéa. Ces dispositions s'appliquent aux immeubles faisant l'objet d'un permis de construire accordé à compter de la publication de ce décret.
+IX. ― (Abrogé).
 
 X. ― Le montant total des dépenses retenu pour l'application du présent article au titre, d'une part, de l'acquisition ou de la construction de logements et, d'autre part, de souscriptions de titres ne peut excéder globalement 300 000 € par contribuable et pour une même année d'imposition.
 

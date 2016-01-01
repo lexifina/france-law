@@ -4,7 +4,9 @@ I. ― Les contribuables domiciliés en France au sens de l'article 4 B bénéfi
 
 1°-situé dans un secteur sauvegardé créé en application du I de l'article L. 313-1 du code de l'urbanisme, soit lorsque le plan de sauvegarde et de mise en valeur de ce secteur est approuvé, soit lorsque la restauration a été déclarée d'utilité publique en application de l'article L. 313-4 du même code ;
 
-2°-jusqu'au 31 décembre 2015, situé dans un quartier ancien dégradé délimité en application de l'article 25 de la loi n° 2009-323 du 25 mars 2009 de mobilisation pour le logement et la lutte contre l'exclusion lorsque la restauration a été déclarée d'utilité publique ;
+2°-jusqu'au 31 décembre 2017, situé dans un quartier ancien dégradé délimité en application de l'article 25 de la loi n° 2009-323 du 25 mars 2009 de mobilisation pour le logement et la lutte contre l'exclusion lorsque la restauration a été déclarée d'utilité publique ;
+
+2° bis Jusqu'au 31 décembre 2017, situé dans un quartier présentant une concentration élevée d'habitat ancien dégradé et faisant l'objet d'une convention pluriannuelle prévue à l'article 10-3 de la loi n° 2003-710 du 1er août 2003 d'orientation et de programmation pour la ville et la rénovation urbaine, lorsque la restauration a été déclarée d'utilité publique. Les ministres chargés de la ville et de la culture arrêtent la liste des quartiers présentant une concentration élevée d'habitat ancien dégradé, sur proposition de l'Agence nationale pour la rénovation urbaine ;
 
 3°-situé dans une zone de protection du patrimoine architectural, urbain et paysager créée en application des articles L. 642-1 à L. 642-7 du code du patrimoine dans leur rédaction applicable avant l'entrée en vigueur de la loi n° 2010-788 du 12 juillet 2010 portant engagement national pour l'environnement lorsque la restauration a été déclarée d'utilité publique ;
 
@@ -22,7 +24,7 @@ Lorsque les dépenses de travaux sont réalisées dans le cadre d'un contrat de 
 
 III. ― La réduction d'impôt est égale à 22 % du montant des dépenses mentionnées au II, retenues dans la limite annuelle de 100 000 €.
 
-Ce taux est porté à 30 % lorsque les dépenses sont effectuées pour des immeubles situés dans un secteur sauvegardé créé en application du I de l'article L. 313-1 du code de l'urbanisme ou dans un quartier ancien dégradé délimité en application de l'article 25 de la loi n° 2009-323 du 25 mars 2009 de mobilisation pour le logement et la lutte contre l'exclusion lorsque la restauration a été déclarée d'utilité publique.
+Ce taux est porté à 30 % lorsque les dépenses sont effectuées pour des immeubles situés dans un secteur sauvegardé créé en application du I de l'article L. 313-1 du code de l'urbanisme ou dans un quartier ancien dégradé délimité en application de l'article 25 de la loi n° 2009-323 du 25 mars 2009 de mobilisation pour le logement et la lutte contre l'exclusion lorsque la restauration a été déclarée d'utilité publique ou dans un quartier présentant une concentration élevée d'habitat ancien dégradé et faisant l'objet d'une convention pluriannuelle prévue à l'article 10-3 de la loi n° 2003-710 du 1er août 2003 précitée, lorsque la restauration a été déclarée d'utilité publique.
 
 IV. ― Lorsque les dépenses portent sur un local à usage d'habitation, le propriétaire prend l'engagement de le louer nu, à usage de résidence principale du locataire, pendant une durée de neuf ans. Lorsque les dépenses portent sur un local affecté à un usage autre que l'habitation, le propriétaire prend l'engagement de le louer pendant la même durée.
 
@@ -55,3 +57,7 @@ VI. ― La réduction d'impôt obtenue fait l'objet d'une reprise au titre de l'
 VII. ― Un décret précise, en tant que de besoin, les modalités d'application du présent article.
 
 VIII. ― Le présent article s'applique aux dépenses portant sur des immeubles pour lesquels une demande de permis de construire ou une déclaration de travaux a été déposée à compter du 1er janvier 2009.
+
+NOTA :
+
+Ces dispositions entrent en vigueur pour les revenus perçus à compter du 1er janvier 2016.

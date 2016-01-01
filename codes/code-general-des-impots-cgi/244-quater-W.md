@@ -8,7 +8,7 @@ Le crédit d'impôt prévu au premier alinéa s'applique également aux investis
 
 2. Le crédit d'impôt ne s'applique pas :
 
-a) A l'acquisition de véhicules soumis à la taxe définie à l'article 1010 qui ne sont pas strictement indispensables à l'activité ;
+a) A l'acquisition de véhicules définis au premier alinéa du I de l'article 1010 qui ne sont pas strictement indispensables à l'activité ;
 
 b) Aux investissements portant sur des installations de production d'électricité utilisant l'énergie radiative du soleil.
 
@@ -24,7 +24,7 @@ c) L'entreprise locataire ou crédit-preneuse aurait pu bénéficier du crédit 
 
 1° Aux acquisitions ou constructions de logements neufs à usage locatif situés dans les départements d'outre-mer, à l'exception des logements neufs répondant aux critères mentionnés aux b et c du 1 du I de l'article 244 quater X, si les conditions suivantes sont réunies :
 
-a) L'entreprise ou l'organisme s'engage à louer l'immeuble nu dans les six mois de son achèvement, ou de son acquisition si elle est postérieure, et pendant six ans au moins à des personnes qui en font leur résidence principale ;
+a) L'entreprise ou l'organisme s'engage à louer l'immeuble nu dans les six mois de son achèvement, ou de son acquisition si elle est postérieure, et pendant cinq ans (1) au moins à des personnes qui en font leur résidence principale ;
 
 b) Le loyer et les ressources du locataire n'excèdent pas des plafonds fixés par décret ;
 
@@ -72,7 +72,7 @@ b) En cas de rénovation ou de réhabilitation d'immeuble, le crédit d'impôt e
 
 3. Lorsque l'investissement est réalisé dans les conditions prévues au 3 ou au 2° du 4 du I, le crédit d'impôt est accordé au titre de l'année au cours de laquelle l'investissement est mis à la disposition de l'entreprise locataire ou crédit-preneuse ou de l'organisme crédit-preneur.
 
-V. ― 1. Lorsque l'entreprise ou l'organisme qui exploite l'investissement réalise un chiffre d'affaires, apprécié selon les règles définies au premier alinéa du I de l'article 199 undecies B, inférieur à 20 millions d'euros, le bénéfice du crédit d'impôt est subordonné à l'exercice d'une option.
+V. ― 1. Lorsque l'entreprise ou l'organisme qui exploite l'investissement réalise un chiffre d'affaires, apprécié selon les règles définies au premier alinéa du I de l'article 199 undecies B, inférieur, selon le cas, aux limites prévues à ce même alinéa ou à la limite fixée à la première phrase du premier alinéa du I de l'article 217 undecies, le bénéfice du crédit d'impôt est subordonné à l'exercice d'une option.
 
 Cette option est exercée par investissement et s'applique à l'ensemble des autres investissements d'un même programme. L'option est exercée par l'entreprise ou l'organisme qui exploite l'investissement, au plus tard à la date à laquelle celui-ci est mis en service ou est mis à sa disposition dans les cas mentionnés au 3 et au 2° du 4 du I ; l'option est alors portée à la connaissance du loueur ou du crédit-bailleur. Elle est formalisée dans la déclaration de résultat de l'exercice au cours duquel l'investissement a été mis en service ou mis à disposition et est jointe à la déclaration de résultat du loueur ou du crédit-bailleur de ce même exercice.
 
@@ -106,7 +106,9 @@ En outre, lorsque l'investissement porte sur la construction ou l'acquisition d'
 
 Sont considérés comme à jour de leurs obligations fiscales et sociales les employeurs qui, d'une part, ont souscrit et respectent un plan d'apurement des cotisations restant dues et, d'autre part, acquittent les cotisations en cours à leur date normale d'exigibilité.
 
-IX. ― 1. Le présent article est applicable aux investissements mis en service à compter du 1er janvier 2015, et jusqu'au 31 décembre 2017.
+IX. ― 1. Le présent article est applicable aux investissements mis en service à compter du 1er janvier 2015, et jusqu'au 31 décembre 2020, aux travaux de réhabilitation hôtelière achevés au plus tard à cette date et aux acquisitions d'immeubles à construire et constructions d'immeubles dont les fondations sont achevées au plus tard à cette date.
+
+L'extinction du crédit d'impôt aux dates prévues au présent IX n'intervient, conformément aux derniers alinéas du VI de l'article 199 undecies B et du V de l'article 217 undecies, que dans le cas où un dispositif pérenne permettant aux entreprises ultramarines d'échelonner sur cinq ans le paiement de leurs investissements productifs mentionnés au présent article, sans recourir à un emprunt bancaire et à un prix de revient diminué d'un taux d'abattement équivalent aux taux prévus au III, a été créé à la date de ces échéances.
 
 2. Un décret fixe les conditions d'application du présent article, notamment les obligations déclaratives incombant aux entreprises et organismes mentionnés au 4 du I.
 
@@ -114,4 +116,4 @@ X. - Le bénéfice du crédit d'impôt prévu au I est subordonné au respect du
 
 NOTA :
 
-Conformément à l'article 67 III B de la loi n° 2014-1655 du 29 décembre 2014 de finance rectificative pour 2014, ces dispositions s'appliquent aux déductions et aux réductions et crédits d'impôt dont le fait générateur intervient à compter du 1er janvier 2015 , y compris aux déductions et aux réductions d'impôts afférentes aux investissements mentionnés aux deuxième à dernier alinéas du III de l'article 21 de la loi n° 2013-1278 du 29 décembre 2013 de finances pour 2014, dans leur rédaction résultant du II du présent article .
+(1) Conformément à l'article 110 III C de la loi n° 2015-1785 du 29 décembre 2015, les présentes dispositions s'appliquent aux investissements réalisés au titre des exercices ouverts à compter du 1er janvier 2018.

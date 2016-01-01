@@ -1,12 +1,16 @@
 # Article 244 quater Q
 
-I.-1. Les entreprises imposées d'après leur bénéfice réel ou exonérées en application des articles 44 sexies, 44 septies, 44 octies, 44 terdecies, 44 quaterdecies ou 44 quindecies, dont le dirigeant est titulaire du titre de maître-restaurateur, peuvent bénéficier d'un crédit d'impôt égal à 50 % des dépenses qui permettent de satisfaire aux normes d'aménagement et de fonctionnement prévues par le cahier des charges relatif au titre de maître-restaurateur.
+I.-1. Les entreprises imposées d'après leur bénéfice réel ou exonérées en application des articles 44 sexies, 44 septies, 44 octies, 44 terdecies, 44 quaterdecies ou 44 quindecies, dont le dirigeant ou un salarié est titulaire du titre de maître-restaurateur, peuvent bénéficier d'un crédit d'impôt égal à 50 % des dépenses qui permettent de satisfaire aux normes d'aménagement et de fonctionnement prévues par le cahier des charges relatif au titre de maître-restaurateur.
 
 Lorsque le titulaire du titre de maître-restaurateur est dirigeant d'une entreprise disposant de plusieurs établissements, le crédit d'impôt est calculé au titre des dépenses exposées par les établissements contrôlés dans le cadre de la délivrance de ce titre.
 
 Lorsque le titulaire du titre de maître-restaurateur est dirigeant de plusieurs entreprises, le crédit d'impôt est accordé à une seule entreprise, dont le ou les établissements sont contrôlés dans le cadre de la délivrance de ce titre.
 
+Lorsque le titulaire du titre de maître-restaurateur est un salarié, le crédit d'impôt est accordé à l'entreprise dont le ou les établissements sont contrôlés dans le cadre de la délivrance de ce titre.
+
 2. Pour l'application du 1, le dirigeant s'entend de l'exploitant pour les entreprises individuelles ou d'une personne exerçant les fonctions de gérant nommé conformément aux statuts d'une société à responsabilité limitée ou en commandite par actions, de président, directeur général, président du conseil de surveillance ou membre du directoire d'une société par actions.
+
+Le salarié titulaire du titre de maître-restaurateur doit, au 31 décembre de l'année civile au titre de laquelle le crédit d'impôt est calculé, être employé depuis au moins un mois, le cas échéant après une période d'essai, par l'entreprise et avoir conclu avec celle-ci un contrat de travail à durée indéterminée ou à durée déterminée pour une période minimale de douze mois, pour un temps de travail qui ne peut être inférieur à la durée minimale de travail définie à l'article L. 3123-14-1 du code du travail.
 
 II.-1. Les dépenses qui permettent de satisfaire aux normes d'aménagement et de fonctionnement prévues par le cahier des charges relatif au titre de maître-restaurateur et ouvrant droit au crédit d'impôt mentionné au 1 du I sont :
 
@@ -46,19 +50,9 @@ d. à l'acquisition d'équipements informatiques et de téléphonie directement 
 
 4° Les dotations aux amortissements des immobilisations et les dépenses permettant l'accueil des personnes à mobilité réduite ;
 
-5° Les dépenses courantes suivantes :
+5° Les dépenses d'audit externe permettant de vérifier le respect du cahier des charges relatif au titre de maître-restaurateur.
 
-a. dépenses vestimentaires et de petit équipement pour le personnel de cuisine ;
-
-b. dépenses de formation du personnel à l'accueil, à l'hygiène, à la sécurité, aux techniques culinaires et à la maîtrise de la chaîne du froid ;
-
-c. dépenses relatives aux tests de microbiologie ;
-
-d. dépenses relatives à la signalétique intérieure et extérieure de l'établissement ;
-
-e. dépenses d'audit externe permettant de vérifier le respect du cahier des charges relatif au titre de maître-restaurateur.
-
-2. Les dépenses mentionnées au 1 sont prises en compte pour le calcul du crédit dans la limite de 30 000 € pour l'ensemble de la période constituée de l'année civile au cours de laquelle le dirigeant de l'entreprise a obtenu le titre de maître-restaurateur et des deux années suivantes.
+2. Les dépenses mentionnées au 1 sont prises en compte pour le calcul du crédit dans la limite de 30 000 € pour l'ensemble de la période constituée de l'année civile au cours de laquelle le dirigeant de l'entreprise ou un salarié a obtenu le titre de maître-restaurateur et des deux années suivantes.
 
 3. Les dépenses mentionnées au 1 doivent satisfaire aux conditions suivantes :
 
@@ -74,9 +68,9 @@ IV.-Le bénéfice du crédit d'impôt mentionné au I est subordonné au respect
 
 Pour l'application du premier alinéa, les sociétés de personnes mentionnées aux articles 8 et 238 bis L qui ne sont pas soumises à l'impôt sur les sociétés doivent également respecter le règlement (UE) n° 1407/2013 de la Commission, du 18 décembre 2013 précité. Le crédit d'impôt peut être utilisé par les associés de ces sociétés proportionnellement à leurs droits dans ces sociétés s'ils satisfont aux conditions d'application de ce même règlement et sous réserve qu'il s'agisse de redevables soumis à l'impôt sur les sociétés ou de personnes physiques participant à l'exploitation au sens du 1° bis du I de l'article 156.
 
-V.-Les I à IV s'appliquent aux entreprises dont le dirigeant a obtenu la délivrance du titre de maître-restaurateur entre le 15 novembre 2006 et le 31 décembre 2017.
+V.-Les I à IV s'appliquent aux entreprises dont le dirigeant ou un salarié a obtenu la délivrance du titre de maître-restaurateur entre le 15 novembre 2006 et le 31 décembre 2017.
 
-VI.-Les conditions dans lesquelles le titre de maître-restaurateur est délivré par l'autorité administrative aux dirigeants et le cahier des charges est établi sont définies par décret en Conseil d'Etat.
+VI.-Les conditions dans lesquelles le titre de maître-restaurateur est délivré par l'autorité administrative aux dirigeants ou aux salariés et le cahier des charges est établi sont définies par décret en Conseil d'Etat.
 
 Un décret fixe les conditions d'application du présent article, notamment les obligations déclaratives incombant aux entreprises.
 

@@ -4,7 +4,7 @@ I. – Il est institué une taxe sur les plus-values réalisées dans les condit
 
 La taxe ne s'applique pas aux plus-values réalisées lors de la cession de terrains à bâtir ou de droits s'y rapportant.
 
-Le produit de la taxe est affecté, pour les cessions intervenues jusqu'au 31 décembre 2015, au fonds mentionné à l'article L. 452-1-1 du code de la construction et de l'habitation, dans la limite du plafond prévu au I de l'article 46 de la loi n° 2011-1977 du 28 décembre 2011 de finances pour 2012.
+Le produit de la taxe est affecté au fonds mentionné à l'article L. 351-6 du code de la construction et de l'habitation, dans la limite du plafond prévu au I de l'article 46 de la loi n° 2011-1977 du 28 décembre 2011 de finances pour 2012.
 
 II. – La taxe est assise sur le montant imposable des plus-values déterminé dans les conditions prévues, selon le cas, aux articles 150 V à 150 VD ou au II de l'article 244 bis A.
 
@@ -14,9 +14,7 @@ III. – La taxe est due à raison des plus-values imposables d'un montant supé
 
 (En euros)
 
-MONTANT DE LA PLUS-VALUE
-
-imposable
+MONTANT DE LA PLUS-VALUE IMPOSABLE
 
 |
 
