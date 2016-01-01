@@ -1,0 +1,71 @@
+# Article 1er
+
+Les dispositions de l'article 3 « Salariés bénéficiaires » sont modifiées et remplacées comme suit :
+
+« Les dispositions du présent accord s'appliquent à tous les salariés non affiliés à l'AGIRC, ayant au moins 3 mois d'ancienneté continue dans l'entreprise ou l'exploitation agricole et entrant dans le champ d'application dudit accord. (1)
+
+Sont exclus :
+
+– les cadres et personnels relevant de la convention collective du 2 avril 1952 et de la caisse de retraite complémentaire cadre en application des décisions de l'AGIRC et bénéficiant à ce titre du régime de prévoyance défini dans la convention précitée ;
+
+– les VRP relevant d'autres dispositions conventionnelles ;
+
+– les salariés tels que définis ci-dessus relevant d'un accord d'entreprise dans les conditions de l'article 13 de l'accord.
+
+La condition d'ancienneté est réputée acquise au premier jour du mois civil suivant celui au cours duquel le salarié acquiert 3 mois d'ancienneté.
+
+Toutefois, les salariés nouvellement embauchés dans une entreprise relevant du champ d'application de l'accord, et ayant acquis préalablement l'ancienneté requise dans une autre entreprise relevant du champ d'application de l'accord, peuvent bénéficier des garanties dès leur date d'embauche dès lors que cette dernière intervient au plus tard dans les 4 mois suivant la fin de leur contrat de travail précédent. Dans ce cadre, les salariés doivent en faire la demande écrite formelle au nouvel employeur.
+
+Article 3.1
+
+Affiliation
+
+A compter de la date d'effet du présent accord, les entreprises doivent affilier les salariés bénéficiaires visés au présent article.
+
+Conformément aux dispositions légales, une notice d'information, délivrée par l'organisme assureur à l'employeur, sera remise par ce dernier à chaque salarié de l'entreprise afin de lui faire connaître les caractéristiques du régime. Cette notice définit, notamment, les garanties, leurs modalités d'entrée en vigueur, les formalités à accomplir, les exclusions ou limitations de garanties ainsi que les délais de prescription.
+
+Article 3.2
+
+Dispenses d'affiliation
+
+Par exception aux dispositions précédentes, il est prévu une faculté, au choix du salarié, de dispense d'adhésion au dispositif frais de santé pour certaines catégories de personnel, quelle que soit leur date d'embauche, sans que cela ne remette en cause le caractère obligatoire du dispositif, conformément notamment aux dispositions de l'article R. 242-1-6 du code de la sécurité sociale.
+
+Cette possibilité de dispense d'adhésion concerne les salariés qui relèvent de l'une des situations définies ci-après et qui en font la demande expresse écrite auprès de l'employeur en apportant, le cas échéant, les justificatifs nécessaires :
+
+– les salariés et apprentis bénéficiaires d'un contrat à durée déterminée ou d'un contrat de mission d'une durée au moins égale à 12 mois, à condition de le justifier par écrit en produisant tous documents attestant d'une couverture individuelle souscrite pour le même type de garanties ;
+
+– les salariés et apprentis bénéficiaires d'un contrat à durée déterminée ou d'un contrat de mission d'une durée inférieure à 12 mois, à condition de le justifier par écrit en produisant tous documents attestant d'une couverture individuelle souscrite pour le même type de garanties ;
+
+– les salariés à temps partiel et apprentis dont l'adhésion au système de garanties les conduirait à s'acquitter d'une cotisation au moins égale à 10 % de leur rémunération brute à condition de le justifier par écrit en produisant tous documents attestant d'une couverture individuelle souscrite pour le même type de garanties ;
+
+– les salariés bénéficiaires de l'ACS ou de la CMU-C. La dispense ne peut alors jouer que jusqu'à la date à laquelle les salariés cessent de bénéficier de cette couverture ou de cette aide ;
+
+– les salariés couverts par une assurance individuelle au moment de la mise en place du dispositif ou de l'embauche si elle est postérieure. La dispense ne peut alors jouer que jusqu'à échéance du contrat individuel ;
+
+– les salariés qui bénéficient par ailleurs, y compris en tant qu'ayants droit, d'une couverture collective relevant de l'un des dispositifs de garantie frais de santé conforme à l'un de ceux visés ci-après (voir arrêté du 26 mars 2012 relatif aux facultés de dispense d'adhésion), à condition de le justifier chaque année :
+
+–– dispositif de protection sociale complémentaire (y compris étranger) présentant un caractère collectif et obligatoire (ainsi, la dispense d'adhésion ne peut jouer, pour un salarié ayant droit au titre de la couverture dont bénéficie son conjoint salarié dans une autre entreprise, que si ce dispositif prévoit la couverture des ayants droit à titre obligatoire) ;
+
+–– régime complémentaire relevant de la caisse d'assurance maladie des industries électriques et gazières (CAMIEG) ;
+
+–– régime complémentaire frais de santé facultatif référencé de la fonction publique d'Etat, dans le cadre des dispositions prévues par le décret n° 2007-1373 du 19 septembre 2007 relatif à la participation de l'Etat et de ses établissements publics au financement de la protection sociale complémentaire de leurs personnels ;
+
+–– régime complémentaire frais de santé facultatif (contrat labellisé ou convention de participation) de la fonction publique territoriale dans le cadre des dispositions prévues par le décret n° 2011-1474 du 8 novembre 2011 relatif à la participation des collectivités territoriales et de leurs établissements publics au financement de la protection sociale complémentaire de leurs agents ;
+
+–– contrats d'assurance de groupe dits ''Madelin'' ;
+
+–– régime spécial de sécurité sociale des gens de mer (ENIM) ;
+
+–– caisse de prévoyance et de retraite des personnels de la SNCF (CPRPSNCF).
+
+La demande de dispense doit être notifiée par écrit à l'employeur avant la fin du premier mois qui suit l'entrée en vigueur du présent accord ou celui de la date d'obtention de la condition d'ancienneté de 3 mois. Dans tous les cas, les employeurs des exploitations et entreprises agricoles doivent être en mesure de produire la demande de dispense des salariés concernés, qui devront produire chaque année les justificatifs permettant de vérifier les conditions de la dispense.
+
+Si le salarié ne remplit plus les conditions de dispense d'affiliation, il doit en informer l'employeur et il devra alors obligatoirement cotiser à l'assurance complémentaire santé à compter du mois civil suivant.
+
+Dans les cas d'exclusion ou de dispense précités, les cotisations correspondantes ne sont pas dues ni par le salarié ni par l'employeur.
+
+Pour les salariés à employeurs multiples relevant du champ d'application du présent accord, le salarié et un seul de ses employeurs cotisent auprès de l'organisme désigné. Il s'agira de l'employeur chez lequel le salarié acquiert en premier la condition d'ancienneté requise pour bénéficier du régime, sauf accord entre les employeurs et le salarié. »
+
+(1) Le deuxième alinéa de l'article 1er est étendu sous réserve de l'article L. 911-7 du code de la sécurité sociale.
+
+(Arrêté du 23 mars 2016 - art. 1)
