@@ -4,59 +4,45 @@ MODÈLE DE TABLEAU RÉCAPITULATIF DES OPÉRATIONS D'ÉCONOMIES
 
 D'ÉNERGIE LORSQUE LES BÉNÉFICIAIRES SONT DES PERSONNES MORALES
 
-RAISON SOCIALE
+RAISON
 
-du demandeur
+SOCIALE du
 
-|
+demandeur |
 
 SIREN
 
-du demandeur
+du
 
-|
+demandeur |
 
-RÉFÉRENCE
+RÉFÉRENCE EMMY de la
 
-EMMY
-
-de la demande
-
-|
+demande |
 
 RÉFÉRENCE
 
 interne de
 
-l'opération
-
-|
+l'opération |
 
 NOM DU SITE
 
-bénéficiaire
+bénéficiaire de
 
-de l'opération
-
-|
+l'opération |
 
 ADRESSE
 
-de l'opération
-
-|
+de l'opération |
 
 CODE POSTAL
 
-sans Cedex
+sans Cedex |
 
-|
+VILLE |
 
-VILLE
-
-|
-
-|
+" |
 
 |
 
@@ -72,85 +58,69 @@ VILLE
 
 |
 
-Suite du tableau
+"Suite du tableau
 
-RAISON
+"RAISON sociale du
 
-sociale
+bénéficiaire de l'opération |
 
-du bénéficiaire
+SIREN |
 
-de l'opération
+ADRESSE du siège social du
 
-|
+bénéficiaire de l'opération |
 
-SIREN
+CODE postal sans
 
-|
+Cedex |
 
-ADRESSE
+VILLE |
 
-du siège social
-
-du bénéficiaire
-
-de l'opération
+" |
 
 |
 
-CODE
-
-postal
-
-sans
-
-Cedex
+|
 
 |
 
-VILLE
-
 |
 
-VOLUME
+"Suite du tableau
 
-(kWh Cumac)
+"VOLUME CEE "hors
 
-|
+précarité énergétique"
 
-RÉFÉRENCE
+(kWh cumac) |
 
-de la fiche
+VOLUME CEE
 
-d'opération
+"précarité énergétique"
 
-standardisée
+(kWh cumac) |
 
-|
+RÉFÉRENCE de la
+
+fiche d'opération
+
+standardisée |
 
 DATE
 
 d'engagement
 
-de l'opération
-
-|
+de l'opération |
 
 DATE
 
 d'achèvement
 
-de l'opération
+de l'opération |
 
-|
+NATURE
 
-|
-
-|
-
-|
-
-|
+de la bonification |
 
 |
 

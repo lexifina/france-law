@@ -4,7 +4,9 @@ MODÈLE DE TABLEAU RÉCAPITULATIF DES OPÉRATIONS D'ÉCONOMIES
 
 D'ÉNERGIE LORSQUE LES BÉNÉFICIAIRES SONT DES PERSONNES PHYSIQUES
 
-RAISON sociale
+" RAISON
+
+sociale
 
 du
 
@@ -30,15 +32,17 @@ de la demande
 
 RÉFÉRENCE
 
-interne de
+interne
 
-l'opération
+de l'opération
 
 |
 
 NOM
 
-du bénéficiaire de l'opération
+du bénéficiaire
+
+de l'opération
 
 |
 
@@ -58,13 +62,15 @@ de l'opération
 
 CODE POSTAL
 
-sans Cedex
+sans cedex
 
 |
 
 VILLE
 
 |
+
+"
 
 |
 
@@ -86,15 +92,27 @@ VILLE
 
 Suite du tableau
 
-VOLUME
+" VOLUME CEE
 
-(kWh Cumac)
+" hors précarité énergétique"
+
+(kWh CUMAC)
 
 |
 
-RÉFÉRENCE DE LA FICHE
+VOLUME CEE
 
-d'opération standardisée
+" précarité énergétique"
+
+(kWh
+
+CUMAC)
+
+|
+
+RÉFÉRENCE
+
+de la fiche d'opération standardisée
 
 |
 
@@ -104,7 +122,21 @@ de l'opération
 
 |
 
-DATE DE LA FACTURE
+DATE
+
+de la facture
+
+|
+
+NATURE
+
+de la bonification
+
+|
+
+"
+
+|
 
 |
 
