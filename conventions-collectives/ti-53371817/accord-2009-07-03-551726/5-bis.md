@@ -1,11 +1,13 @@
 # Article 5 bis
 
-Les salariés bénéficiaires à titre obligatoire, par application de l'article 3 du présent accord, et (ou) à titre facultatif, par application de l'article 5, peuvent demander à bénéficier à titre facultatif d'une des options supplémentaires présentées dans le tableau annexé à l'accord (annexe IV).
+Les salariés bénéficiaires à titre obligatoire, par application de l'article 3 du présent accord, et (ou) à titre facultatif, par application de l'article 5, peuvent demander à bénéficier à titre facultatif d'une des options supplémentaires présentées dans le tableau annexé à l'accord (annexe II).
 
-L'option choisie s'applique alors au salarié et à son (ou ses) ayant (s) droit moyennant le paiement d'une cotisation définie à l'article 8 « Cotisations ».
+L'option choisie s'applique alors au salarié et à son/ ou ses ayant (s) droit.
 
 L'option supplémentaire choisie a vocation à s'appliquer uniformément à l'ensemble des bénéficiaires défini par le salarié pour les garanties de base : salarié et ayants droit.
 
 Une même famille ne peut pas souscrire simultanément aux deux options supplémentaires.
 
-Le bénéfice du régime est subordonné à la souscription d'un bulletin d'adhésion.
+Le bénéfice du régime est subordonné à la souscription d'un bulletin d'adhésion par le salarié.
+
+La cotisation de ces options supplémentaires sera entièrement financée par le salarié.
