@@ -348,7 +348,7 @@ h) Travaux de rechargement de plage d'un volume inférieur à 10 000 mètres cub
 
 |
 
-11° Travaux, ouvrages et aménagements dans les espaces remarquables du littoral et visés au b et au d du R. 146-2 du code de l'urbanisme.
+11° Travaux, ouvrages et aménagements dans les espaces remarquables du littoral et mentionnés aux 2° et 4° de l'article R. 121-5 du code de l'urbanisme.
 
 |
 
@@ -494,7 +494,7 @@ a) Stations d'épuration des agglomérations ou dispositifs d'assainissement non
 
 |
 
-b) Stations d'épuration situées dans la bande littorale de cent mètres prévue au III de l'article L. 146-4 du code de l'urbanisme, dans la bande littorale prévue à l'article L. 156-2 de ce code, ou dans un espace remarquable du littoral prévu par l'article L. 146-6 du même code.
+b) Stations d'épuration situées dans la bande littorale de cent mètres ou dans un espace remarquable du littoral prévu à l'article L. 121-5.
 
 |
 
@@ -768,7 +768,7 @@ Equipements culturels, sportifs ou de loisirs susceptibles d'accueillir plus de 
 
 |
 
-39° Projets soumis à une étude d'impact prévue par le schéma de cohérence territoriale en application de l'article L. 122-1-5 du code de l'urbanisme.
+39° Projets soumis à une étude d'impact prévue par le schéma de cohérence territoriale en application de l'article L. 141-9.
 
 |
 
@@ -888,7 +888,7 @@ Terrain de golf d'une surface inférieure à 25 hectares situé en secteur sauve
 
 |
 
-47° Opérations autorisées par décret en application de l'alinéa 3 de l'article L. 130-2 du code de l'urbanisme.
+47° Opérations autorisées par décret en application de l'article L. 113-3.
 
 |
 
