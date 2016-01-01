@@ -330,7 +330,7 @@ ponctuel oral
 
 |
 
-E.7 - Épreuve de Français - histoire géographie-éducation civique
+E.7 - Épreuve de Français - histoire géographie- enseignement moral et civique
 
 |
 
@@ -374,7 +374,7 @@ ponctuel écrit
 
 |
 
-Histoire-géographie-éducation civique
+Histoire-géographie- enseignement moral et civique
 
 |
 
