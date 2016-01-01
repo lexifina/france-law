@@ -1,0 +1,273 @@
+# Article 1er
+
+Les parties au présent avenant décident d'insérer un article 9 dans la convention collective des entreprises de propreté et services associés du 26 juillet 2011 dédié au régime frais de santé obligatoire du personnel non cadre de la profession et rédigé comme suit.
+
+« Article 9
+
+Le présent article a pour objet l'instauration et l'organisation au niveau national, au bénéfice du personnel tel que défini à l'article 9.1, d'un régime frais de santé obligatoire s'imposant à toutes les entreprises mentionnées audit article et comprenant un panier de soins minimum, des dispenses d'affiliation et un haut degré de solidarité.
+
+Le présent régime obligatoire est mutualisé dans le cadre d'une recommandation d'un organisme qui sera retenu aux termes d'une négociation ultérieure.
+
+Les parties s'accordent pour permettre aux entreprises qui le souhaitent de conserver leur niveau de garanties, leur tarification et la répartition de celle-ci, lorsque le régime frais de santé déjà existant est au moins aussi favorable que celui mis en place dans le cadre du présent article.
+
+Article 9.1
+
+Champ d'application et bénéficiaires
+
+Le présent régime frais de santé obligatoire s'applique à toutes les entreprises relevant de la présente convention collective.
+
+Le régime frais de santé institué par le présent article couvre l'ensemble des salariés non cadres ayant au moins 6 mois d'ancienneté dans l'entreprise, celle-ci s'appréciant en tenant compte des dispositions de l'article 7 de la présente convention collective, instaurant une garantie d'emploi en faveur des salariés en cas de succession de prestataire sur des mêmes locaux, suite à la cessation du contrat commercial ou du marché public.
+
+Article 9.2
+
+Caractère obligatoire du régime frais de santé et dispenses d'affiliation
+
+Le présent article institue un régime frais de santé obligatoire pour les salariés entrant dans son champ d'application.
+
+Peuvent, à leur initiative et quelle que soit leur date d'embauche, se dispenser d'adhérer au présent régime frais de santé, conformément aux dispositions réglementaires, en fournissant les justificatifs correspondants et à condition d'avoir été préalablement informés par l'employeur des conséquences de cette demande :
+
+– les salariés bénéficiant de la couverture maladie universelle complémentaire (CMU-C), pour la durée de leur prise en charge au titre de ce régime, à la condition de fournir à leur employeur une attestation justifiant de leur couverture : les salariés devront obligatoirement rejoindre le présent régime à compter de la date à laquelle ils ne bénéficient plus du régime de la CMU-C ;
+
+– les salariés bénéficiant de l'aide à l'acquisition d'une complémentaire santé visée à l'article L. 863-1 du code de la sécurité sociale, et cela jusqu'à la date à laquelle les salariés cessent de bénéficier de cette aide ;
+
+– les salariés couverts par une assurance individuelle de frais de santé au moment de la mise en place des garanties ou de l'embauche si elle est postérieure : la dispense ne peut alors jouer que jusqu'à l'échéance du contrat individuel ;
+
+– des salariés qui bénéficient par ailleurs, y compris en tant qu'ayants droit, d'une couverture collective relevant d'un dispositif de prévoyance complémentaire autre que le régime obligatoire frais de santé mis en place dans le cadre du présent article, quel que soit l'organisme choisi par l'employeur et conforme à la réglementation de la sécurité sociale, à condition de le justifier chaque année ;
+
+– les apprentis et salariés bénéficiaires d'un contrat à durée déterminée d'une durée au moins égale à 12 mois, à condition de justifier par écrit en produisant tous documents d'une couverture individuelle souscrite par ailleurs pour le même type de garanties ;
+
+– les apprentis et salariés bénéficiaires d'un contrat à durée déterminée de moins de 12 mois, même s'ils ne bénéficient pas d'une couverture individuelle souscrite par ailleurs.
+
+Article 9.3
+
+Affiliation des salariés
+
+Le présent article comprend des dispositions générales relatives à l'affiliation des salariés au titre du régime frais de santé obligatoire, des dispositions particulières pour les salariés à employeurs multiples ainsi que des dispositions sur le contrat de garanties collectives applicable à l'organisme recommandé pour la gestion dudit régime.
+
+9.3.1. Dispositions générales relatives à l'affiliation du salarié
+
+Les parties rappellent que les entreprises ont le choix de l'organisme à qui sera confiée la gestion des garanties mises en place par le présent article au titre du régime obligatoire couvrant le salarié.
+
+A compter de la date d'entrée en vigueur du présent article, l'employeur procède à l'affiliation du salarié en respectant a minima le niveau des prestations, sa tarification et sa répartition instaurés au titre du régime obligatoire couvrant les salariés.
+
+Les parties rappellent que l'affiliation du salarié à des régimes optionnels''surcomplémentaires''et''famille''relève de sa liberté et de sa seule responsabilité.
+
+9.3.2. Dispositions particulières à l'affiliation des salariés multi-employeurs
+
+Les parties souhaitent prendre en compte tant la réalité de la branche, qui est celle du salarié multi-employeurs, que les spécificités conventionnelles du secteur, résultant du transfert du salarié fondé sur l'article 7 de la présente convention collective : dans ce contexte les partenaires sociaux de la branche attachent une importance particulière à la simplicité de la gestion de l'affiliation du salarié multi-employeurs à l'organisme recommandé par la branche au titre du présent régime, cette dernière relevant de la liberté de choix de l'entreprise.
+
+Ainsi, les parties actent leur attachement au principe de l'unicité de l'affiliation des salariés multi-employeurs entrant dans le champ d'application du présent régime frais de santé à l'organisme recommandé par la branche, lorsque les employeurs d'un même salarié choisissent de rejoindre ledit organisme : dans ce cas, le salarié multi-employeurs n'est affilié qu'une seule fois à l'organisme recommandé par la branche au titre du présent régime, quel que soit le nombre d'employeurs du salarié ayant rejoint ledit organisme.
+
+9.3.3. Dispositions relatives au contrat de garanties collectives applicable à l'organisme recommandé pour la gestion du régime frais de santé obligatoire
+
+Les modalités de l'affiliation du salarié, quel que soit le nombre de ses employeurs, à l'organisme recommandé par la branche seront décrites dans le contrat de garanties collectives conclu entre les partenaires sociaux et l'organisme recommandé (bulletins d'affiliation, notice d'information, etc.).
+
+Article 9.4
+
+Structure du financement
+
+Afin d'harmoniser et de simplifier le financement du présent régime, et conformément à la réglementation de la sécurité sociale autorisant le partage par quotes-parts de la part patronale finançant un régime de protection sociale complémentaire pour le salarié multi-employeurs selon des conditions déterminées conjointement par ces derniers, le financement du présent régime obligatoire est assuré par une cotisation globale assise sur le salaire répartie à parts égales entre les parties d'un même contrat de travail, lorsque l'employeur choisit d'affilier le salarié à l'organisme recommandé par la branche au titre du régime obligatoire, que le salarié ait un ou plusieurs employeurs.
+
+Le taux de cotisation global finançant le régime obligatoire sera fixé dans le cadre d'une négociation ultérieure portant notamment sur la recommandation de l'organisme devant assurer la gestion de la mutualisation du risque.
+
+Article 9.5
+
+Niveau des prestations
+
+Le présent régime frais de santé obligatoire est établi dans le cadre du dispositif relatif aux contrats responsables par référence aux articles L. 871-1, R. 871-1 et R. 871-2 du code de la sécurité sociale, ainsi que dans le respect du niveau de garanties tel que défini à l'article D. 911-1 dans le cadre du dispositif de généralisation de la complémentaire santé.
+
+Tableau de garanties
+
+Nature des frais |
+
+Panier de soins |
+
+Hospitalisation médicale, chirurgicale et maternité |
+
+Frais de séjour |
+
+20 % de la BR |
+
+Forfait hospitalier engagé |
+
+100 % des FR limité au forfait réglementaire en vigueur |
+
+Actes de chirurgie (ADC) |
+
+50 % de la BR |
+
+Actes d'anesthésie (ADA) |
+
+50 % de la BR |
+
+Autres honoraires |
+
+50 % de la BR |
+
+Chambre particulière |
+
+30 € par jour |
+
+Transport remboursé par la sécurité sociale |
+
+Transport |
+
+35 % de la BR |
+
+Actes médicaux |
+
+Généralistes (consultations et visites) |
+
+30 % de la BR |
+
+Spécialistes (consultations et visites) |
+
+30 % de la BR |
+
+Actes de chirurgie (ADC) |
+
+30 % de la BR |
+
+Actes techniques médicaux (ATM) |
+
+30 % de la BR |
+
+Actes d'imagerie médicale (ADI) |
+
+30 % de la BR |
+
+Actes d'échographie (ADE) |
+
+30 % de la BR |
+
+Auxiliaires médicaux |
+
+40 % de la BR |
+
+Analyses |
+
+40 % de la BR |
+
+Pharmacie remboursée par la sécurité sociale |
+
+Pharmacie vignettes blanches |
+
+35 % de la BR |
+
+Pharmacie vignettes bleues |
+
+70 % de la BR |
+
+Dentaire |
+
+Soins dentaires |
+
+30 % de la BR |
+
+Inlays simples, onlays |
+
+55 % de la BR |
+
+Prothèses dentaires remboursées par la sécurité sociale (y compris les inlays cores et les inlays à clavettes) |
+
+170 % de la BR |
+
+Orthodontie acceptée par la sécurité sociale |
+
+100 % de la BR + 200 € |
+
+Prothèses non dentaires (acceptées par la sécurité sociale) |
+
+Prothèses auditives |
+
+40 % de la BR + 200 € |
+
+Orthopédie et autres prothèses |
+
+40 % de la BR |
+
+Optique |
+
+Monture |
+
+40 % de la BR + 50 € par bénéficiaire tous les 2 ans |
+
+Verres simples |
+
+40 % de la BR + 75 € par bénéficiaire tous les 2 ans |
+
+Verres complexes |
+
+40 % de la BR + 150 € par bénéficiaire tous les 2 ans |
+
+Verres très complexes |
+
+40 % de la BR + 225 € par bénéficiaire tous les 2 ans |
+
+Lentilles acceptées ou refusées par la sécurité sociale
+
+(y compris lentilles jetables) |
+
+Forfait de 170 €
+
+(en remplacement des remboursements des lunettes) |
+
+Actes de prévention conformément aux dispositions du décret n° 2005-1226 du 29 septembre 2005
+
+|
+
+Prise en charge de tous les actes de prévention |
+
+30 % de la BR |
+
+Article 9.6
+
+Engagement des partenaires sociaux au titre du haut degré de solidarité
+
+Le présent article instaure un régime frais de santé obligatoire présentant un degré élevé de solidarité au sens de l'article L. 912-1 du code de la sécurité sociale et comprend, à ce titre, des prestations à caractère non directement contributif.
+
+Ainsi, quel que soit l'organisme choisi pour la gestion du présent régime obligatoire, le haut degré de solidarité comprend notamment :
+
+1. La prise en charge de la part salariale de cotisation des apprentis affiliés au présent régime frais de santé dont le contrat est inférieur à 12 mois ;
+
+2. Le financement d'actions de prévention des risques professionnels dans le secteur ;
+
+3. La prise en charge de prestations d'action sociale individuelles ou collectives, notamment en faveur des travailleurs en situation de handicap.
+
+La part de la prime ou de la cotisation acquittée affectée au financement de ces prestations est fixée à 2 % minimum.
+
+Les parties s'entendent pour créer un fonds social dédié auquel devront cotiser les entreprises qui choisiront de rejoindre l'organisme recommandé.
+
+Les parties s'accordent ainsi pour confier la gestion de ce fonds social à l'organisme recommandé pour la gestion du présent régime obligatoire.
+
+Le déploiement du haut degré de solidarité par l'organisme recommandé pour la gestion du présent régime obligatoire est programmé dans la limite des sommes versées dans le fonds social et disponibles.
+
+Les modalités de gestion de ce fonds et de mise en œuvre du haut degré de solidarité seront définies dans la convention de gestion conclue entre les partenaires sociaux et ledit organisme recommandé.
+
+L'organisme recommandé pour la gestion du présent régime obligatoire établira annuellement un rapport financier et un rapport d'activité de ce fonds, qu'il transmettra à la commission paritaire de suivi du présent régime frais de santé obligatoire instituée à l'article 9.7 de la présente convention.
+
+Article 9.7
+
+Pilotage du régime obligatoire
+
+Les parties conviennent de confier à une commission paritaire de surveillance l'étude du suivi du présent régime frais de santé obligatoire et de son fonctionnement.
+
+Les parties rappellent que le fonctionnement et les modalités de gestion de ladite commission sont fixés dans le cadre d'un protocole de fonctionnement conclu entre ces derniers et l'organisme recommandé.
+
+Il est enfin convenu que l'organisme devra, notamment, tenir à jour et remettre à la commission paritaire les documents suivants :
+
+– descriptif technique des prestations accordées ;
+
+– cahiers de procédures ;
+
+– structures des enregistrements informatiques ;
+
+– documents de liaison ;
+
+– structure des comptes annuels.
+
+Article 9.8
+
+Evolution des garanties et des cotisations du régime obligatoire
+
+A tout moment, si des évolutions législatives et réglementaires venaient à s'imposer aux garanties mises en place, devant entraîner des modifications des garanties et/ ou des cotisations, celles-ci seraient mises à jour sans remettre en cause les termes du présent régime. Une information générale sera effectuée auprès des employeurs et des salariés de la profession. »
