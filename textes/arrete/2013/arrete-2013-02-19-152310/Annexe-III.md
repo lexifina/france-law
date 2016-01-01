@@ -60,6 +60,8 @@ Le comité de pilotage est composé de :
 
 2 représentants de la Fédération nationale des entreprises de détection de réseaux enterrés (FNEDRE) ;
 
+- 1 représentant de la Fédération européenne des métiers de l'ingénierie et de la topographie liés aux réseaux aériens, souterrains et subaquatiques (FEMITRAS) ;
+
 2 représentants des exploitants de réseaux entrant dans le champ de l'article R. 554-2 du code de l'environnement ;
 
 1 représentant de la Fédération nationale des travaux publics (FNTP) ou des canalisateurs de France ;
