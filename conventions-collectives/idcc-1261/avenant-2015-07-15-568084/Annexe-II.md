@@ -1,0 +1,33 @@
+# Article Annexe II
+
+Annexe II « Définition des ayants droit »
+
+Selon l'article 4.1 « Structure de la cotisation », les ayants droit s'entendent comme :
+
+– l'époux ou l'épouse de l'assuré, même séparé de corps, mais non divorcé, à condition de ne pas exercer d'activité ;
+
+– la personne vivant en couple sans être mariée avec l'assuré (union libre ou pacte civil de solidarité (Pacs), à condition d'être à sa charge effective, totale et permanente (une seule personne peut être désigné ayant droit au titre de ces deux premières définitions) ;
+
+– les enfants fiscalement à charge du salarié sont rattachés à leurs parents assurés en qualité d'ayants droit sous certaines conditions :
+
+–– un enfant de moins de 16 ans à la charge d'un de ses parents ou des deux peut être rattaché en qualité d'ayant droit d'un de ses parents ou des deux (double rattachement) ;
+
+–– un enfant de 16 à 20 ans peut être rattaché en qualité d'ayant droit d'un de ses parents ou des deux s'il remplit au moins une des conditions suivantes :
+
+––– poursuivre des études ;
+
+––– être en apprentissage ;
+
+––– être dans l'incapacité permanente de travailler (infirmité ou maladie chronique) ;
+
+––– vivre avec l'assuré depuis 12 mois au moins et être à sa charge effective, totale et permanente ;
+
+– un enfant de 20 à 26 ans peut être rattaché en qualité d'ayant droit d'un de ses parents ou des deux s'il ne bénéficie pas à titre personnel d'un régime de protection sociale et s'il remplit l'une des conditions suivantes :
+
+–– être inscrit dans un établissement d'enseignement ;
+
+–– être à la recherche d'un premier emploi ou inscrit à Pôle emploi ;
+
+–– avoir dû interrompre ses études primaires, secondaires ou technologiques pour cause de maladie.
+
+Le rattachement aux parents est possible jusqu'à la fin de l'année scolaire au cours de laquelle le jeune a 26 ans.
