@@ -1,76 +1,8 @@
 # Article Annexe II
 
-PROGRAMME DE LA FORMATION AU COMMANDEMENT ET À L'EXPERTISE
+BARÈME DE L'ÉPREUVE DU 3 000 MÈTRES
 
-L'analyse des composantes logistiques et ressources humaines des déploiements de la gendarmerie en métropole, en outre-mer et en OPEX.
-
-L'organisation d'un état-major interalliés et interarmées.
-
-La défense d'une enceinte.
-
-Le commandement d'un groupe de commandement.
-
-L'ordre et la directive administratifs et logistiques.
-
-L'organisation, la direction et le contrôle de l'activité des personnels.
-
-Les inspections.
-
-Les ordres de commandement.
-
-La communication dans l'exécution des missions.
-
-La représentation de son service vis-à-vis de ses principaux partenaires.
-
-Les conflits interpersonnels et collectifs.
-
-Les facteurs de motivation.
-
-La définition des rôles et des responsabilités des personnels de l'équipe.
-
-L'organisation, la répartition et la planification des tâches entre les membres de l'équipe.
-
-La coordination et le contrôle de l'action de ses subordonnés.
-
-La délégation.
-
-L'organisation du travail et la hiérarchisation des tâches.
-
-La notation.
-
-L'identification et la prévention des facteurs de stress.
-
-Les statuts : sous-officier de gendarmerie, sous-officier du corps de soutien technique et administratif de la gendarmerie nationale, gendarme adjoint volontaire, personnels civils.
-
-Les fiches de poste.
-
-Les principes de gestion d'un budget.
-
-Les règles fondamentales des finances publiques.
-
-Les écrits de service.
-
-Les enjeux économiques et humains en matière de prévision et d'évaluation des risques professionnels.
-
-Le rôle et les missions d'un chef de service en matière HSCT.
-
-Les risques relatifs à la sécurité des systèmes informatiques et les responsabilités d'un chef de service en la matière.
-
-La préparation et la conduite d'une séance d'instruction.
-
-Les méthodes pédagogiques.
-
-L'organisation et la conduite d'une séance de tir.
-
-L'organisation d'une séance de sport de base.
-
-La vérification des acquis des personnes formées.
-
-Les présentations informatiques (diaporama).
-
-BARÈME DES ÉPREUVES DE SPORT
-
-Militaires âgés de moins de quarante ans
+Militaires âgés de moins de quarante ans :
 
 NOTE
 
@@ -456,7 +388,7 @@ FEMME
 
 |
 
-Militaires âgés de quarante ans et plus
+Militaires âgés de quarante ans et plus :
 
 NOTE
 
@@ -838,4 +770,6 @@ FEMME
 
 |
 
-24' |
+24'
+
+|
