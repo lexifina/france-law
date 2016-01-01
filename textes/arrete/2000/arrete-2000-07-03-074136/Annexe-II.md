@@ -1,6 +1,6 @@
 # Article Annexe II
 
-LISTE COMPLEMENTAIRE D'ETABLISSEMENTS AYANT FABRIQUE DES MATERIAUX CONTENANT DE L'AMIANTE ET DES ETABLISSEMENTS DE FLOCAGE ET CALORIFUGEAGE A L'AMIANTE SUSCEPTIBLES D'OUVRIR DROIT A L'ALLOCATION DE CESSATION ANTICIPEE D'ACTIVITE
+LISTE COMPLÉMENTAIRE D'ÉTABLISSEMENTS AYANT FABRIQUÉ DES MATÉRIAUX CONTENANT DE L'AMIANTE ET DES ÉTABLISSEMENTS DE FLOCAGE ET CALORIFUGEAGE A L'AMIANTE SUSCEPTIBLES D'OUVRIR DROIT A L'ALLOCATION DE CESSATION ANTICIPÉE D'ACTIVITÉ
 
 Alsace
 
@@ -654,13 +654,15 @@ Moulinage et retorderie de l'Oise (MERO), 57, boulevard Lebègue, 60530 Neuilly-
 
 REVCO puis GURIT ESSEX puis DOW AUTOMOTIVE, route d'Amiens, zone industrielle Nord, 60130 Saint-Just-en-Chaussée : de 1981 à 1983 ;
 
+TREMOIS/ SETA/ SETA KENNEDY, 132, rue Kennedy, 02100 Saint-Quentin : de 1960 à 1996 ;
+
 SA Fichet Bauche, 80460 Oust-Marest : De 1969 à 1977 ;
 
 SA GEB, 1, allée des Coquelicots, 60440 Nanteuil-le-Haudouin, de 1986 à 1996 ;
 
 Sitel/ Delle-CGE/ Unelec/ Alsthom, 1572, route de Guise, 02100 Harly, Route de Guise, 02 Saint-Quentin-Harly, Route de Guise, 02101 Saint-Quentin, Route de Guise BP 26,02101 Saint-Quentin, Route de Guise BP 642,02322 Saint-Quentin, De 1937 à 1987 ;
 
-GEC-Unelec SA/ Power Controls France/ GE Power Controls France, 1572, route de Guise, 02100 Harly, Route de Guise, 02 Saint-Quentin-Harly, Route de Guise, 02101 Saint-Quentin, Route de Guise BP 26,02101 Saint-Quentin, Route de Guise, BP 642,02322 Saint-Quentin, De 1988 à 1996
+GEC-Unelec SA/ Power Controls France/ GE Power Controls France, 1572, route de Guise, 02100 Harly, Route de Guise, 02 Saint-Quentin-Harly, Route de Guise, 02101 Saint-Quentin, Route de Guise BP 26,02101 Saint-Quentin, Route de Guise, BP 642,02322 Saint-Quentin : de 1988 à 1996 ;
 
 Société Cape Contracts/ SOCAP, 1, rampe Saint-Prix, 02100 Saint-Quentin : de 1990 à 1997 ;
 
