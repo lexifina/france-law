@@ -192,40 +192,6 @@ Arrêté du 26 décembre 2012 relatif aux conditions de conventionnement des sit
 
 |
 
-Code de l'énergie
-
-|
-
-Approbation d'installation d'équipements pour turbinage des débits minimaux
-
-|
-
-Article L. 511-7
-
-|
-
-|
-
-Dérogations concernant une nouvelle infrastructure (gaz)
-
-|
-
-Articles L. 452-5 et L. 452-6
-
-|
-
-|
-
-Approbation des prestations de services de l'entreprise verticalement intégrée au profit du gestionnaire d'un réseau de transport en vue d'assurer l'ajustement ou l'équilibrage du système électrique ou gazier ainsi que sa sécurité et sa sûreté
-
-|
-
-Article L. 111-17 et 1er alinéa de l'article L. 111-18
-
-|
-
-|
-
 Code de l'environnement
 
 |
@@ -1386,7 +1352,9 @@ Articles L. 6211-1 du code des transports et R. 131-6 du code de l'aviation civi
 
 Transport de marchandises dangereuses par voies de navigation intérieures
 
-Délivrance d'un certificat d'agrément ou d'un certificat d'agrément provisoire pour le transport de marchandises dangereuses par voies de navigation intérieures |
+Délivrance d'un certificat d'agrément ou d'un certificat d'agrément provisoire pour le transport de marchandises dangereuses par voies de navigation intérieures
+
+|
 
 4° de l'article R. * 4200-1 du code des transports
 
@@ -1489,36 +1457,6 @@ Chapitres 6-8,6-9,6-10,6-12 et 9-2
 |
 
 6 mois
-
-|
-
-Décret n° 62-1297 du 7 novembre 1962 pris en ce qui concerne les règles techniques d'utilisation et les caractéristiques des produits pétroliers
-
-|
-
-Dérogation à titre exceptionnel et temporaire à la qualité des carburants
-
-|
-
-Article 11
-
-|
-
-|
-
-Décret n° 2000-877 du 7 septembre 2000 relatif à l'autorisation d'exploiter les installations de production d'électricité
-
-|
-
-Autorisation d'exploiter une installation de production électrique
-
-|
-
-Article 3
-
-|
-
-4 mois
 
 |
 
