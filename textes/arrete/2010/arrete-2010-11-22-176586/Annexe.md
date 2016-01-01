@@ -2,7 +2,7 @@
 
 LISTE DES SUBSTANCES FIGURANT DANS CHAQUE CATÉGORIE MENTIONNÉE AU I DE L'ARTICLE R. 213-48-13 DU CODE DE L'ENVIRONNEMENT ET CONCERNÉES PAR LA REDEVANCE POUR POLLUTIONS DIFFUSES VISÉE À L'ARTICLE L. 213-10-8 DU MÊME CODE
 
-Substances classées en raison de leur cancérogénicité ou de leur mutagénicité sur les cellules germinales ou de leur toxicité pour la reproduction de catégorie 1A ou 1B :
+Substances classées en raison de leur cancérogénicité, ou de leur mutagénicité sur les cellules germinales ou de leur toxicité pour la reproduction de catégorie 1A ou 1B :
 
 DÉNOMINATION
 
@@ -22,7 +22,7 @@ de la décision communautaire
 
 CORRESPONDANT
 
-notamment au cas
+notamment au CAS
 
 |
 
@@ -64,7 +64,7 @@ Glufosinate
 
 |
 
-823/2012
+2015/404
 
 |
 
@@ -88,23 +88,7 @@ Linuron
 
 |
 
-Quizalofop-P
-
-|
-
-540/2011
-
-|
-
-119738-06-6
-
-|
-
-Quizalofop-P-éthyl
-
-|
-
-Substances classées en raison de leur cancérogénicité ou de leur mutagénicité sur les cellules germinales ou de leur toxicité pour la reproduction de catégorie 2 :
+Substances classées en raison de leur cancérogénicité, ou de leur mutagénicité sur les cellules germinales ou de leur toxicité pour la reproduction de catégorie 2 :
 
 DÉNOMINATION
 
@@ -122,9 +106,9 @@ de la décision communautaire
 
 |
 
-CORRESPONDANT
+Correspondant
 
-notamment au cas
+notamment au CAS
 
 |
 
@@ -176,6 +160,20 @@ Aclonifen
 
 |
 
+Amisulbrom
+
+|
+
+193/2014
+
+|
+
+348635-87-0
+
+|
+
+|
+
 Amitrole (ou aminotriazole)
 
 |
@@ -213,20 +211,6 @@ Benthiavalicarbe
 |
 
 177406-68-7
-
-|
-
-|
-
-Bifenthrine
-
-|
-
-582/2012
-
-|
-
-82657-04-3
 
 |
 
@@ -330,6 +314,20 @@ Cycloxydime
 
 |
 
+Cymoxanil
+
+|
+
+540/2011
+
+|
+
+57966-95-7
+
+|
+
+|
+
 Cyproconazole
 
 |
@@ -381,6 +379,20 @@ Dodemorphe
 |
 
 1593-77-7
+
+|
+
+|
+
+Fénoxycarbe
+
+|
+
+823/2012
+
+|
+
+72490-01-8
 
 |
 
@@ -512,6 +524,20 @@ Forchlorfenuron
 
 |
 
+Fuberidazole
+
+|
+
+540/2011
+
+|
+
+3878-19-1
+
+|
+
+|
+
 Iprodione
 
 |
@@ -534,7 +560,7 @@ Ioxynil
 
 |
 
-3861-47-0 ; 1689-83-4
+3861-47-0,1689-83-4
 
 |
 
@@ -549,6 +575,20 @@ Isoproturon
 |
 
 34123-59-6
+
+|
+
+|
+
+Isopyrazam
+
+|
+
+1037/2012
+
+|
+
+881685-58-1
 
 |
 
@@ -577,6 +617,20 @@ Krésoxim-méthyl
 |
 
 143390-89-0
+
+|
+
+|
+
+Lenacile
+
+|
+
+823/2012
+
+|
+
+2164-08-1
 
 |
 
@@ -666,20 +720,6 @@ Métosulame
 
 |
 
-Molinate
-
-|
-
-540/2011
-
-|
-
-2212-67-1
-
-|
-
-|
-
 Myclobutanil
 
 |
@@ -717,6 +757,34 @@ Oxadiargyl
 |
 
 39807-15-3
+
+|
+
+|
+
+Oxyfluorfène
+
+|
+
+540/2011
+
+|
+
+42874-03-3
+
+|
+
+|
+
+Penconazole
+
+|
+
+540/2011
+
+|
+
+66246-88-6
 
 |
 
@@ -801,6 +869,20 @@ Pymétrozine
 |
 
 123312-89-0
+
+|
+
+|
+
+Pyriofénone
+
+|
+
+833/2013
+
+|
+
+688046-61-9
 
 |
 
@@ -1022,7 +1104,7 @@ de la décision communautaire
 
 CORRESPONDANT
 
-notamment au cas
+notamment au CAS
 
 |
 
@@ -1058,7 +1140,7 @@ LE CAS ÉCHÉANT,
 
 dans le cadre du règlement
 
-d'exécution (UE) ou
+d'exécution UE ou
 
 de la décision communautaire
 
@@ -1066,7 +1148,7 @@ de la décision communautaire
 
 CORRESPONDANT
 
-notamment au cas
+notamment au CAS
 
 |
 
@@ -1104,7 +1186,7 @@ Acéquinocyl
 
 |
 
-Acide benzoique
+Acide benzoïque
 
 |
 
@@ -1132,9 +1214,7 @@ Acide indolylbutyrique
 
 |
 
-Alpha-Cyperméthrine
-
-(alphaméthrine)
+Alpha-Cyperméthrine (alphaméthrine)
 
 |
 
@@ -1226,11 +1306,11 @@ Cuivre et composés
 
 |
 
-12069-69-1 ; 71789-22-8 ; 20427-59-2 ; 1332-65-6 ; 1332-40-7
+12069-69-1,71789-22-8,20427-59-2,1332-65-6,1332-40-7
 
 |
 
-Cuivre du sulfate de cuivre, cuivre de l'oxyde cuivreux, cuivre du sulfate tribasique, cuivre du sulfate tétracuivrique et tricalcique
+Cuivre du sulfate de cuivre ; cuivre de l'oxyde cuivreux, cuivre du sulfate tribasique, cuivre du sulfate tétracuivrique et tricalcique
 
 |
 
@@ -1360,15 +1440,15 @@ Esfenvalerate
 
 |
 
-Ethoprophos
+Ethéphon
 
 |
 
-1178/2013
+540/2011
 
 |
 
-13194-48-4
+16672-87-0
 
 |
 
@@ -1416,20 +1496,6 @@ Fenpyroximate
 
 |
 
-Fipronil
-
-|
-
-781/2013
-
-|
-
-120068-37-3
-
-|
-
-|
-
 Fluorure de sulfuryle
 
 |
@@ -1453,20 +1519,6 @@ Fluquinconazole
 |
 
 136426-54-5
-
-|
-
-|
-
-Formétanate
-
-|
-
-540/2011
-
-|
-
-23422-53-9
 
 |
 
@@ -1744,7 +1796,7 @@ de la décision communautaire
 
 CORRESPONDANT
 
-notamment au cas
+notamment au CAS
 
 |
 
@@ -2092,20 +2144,6 @@ Carfentrazone-éthyl
 
 |
 
-Clofentézine
-
-|
-
-540/2011
-
-|
-
-74115-24-5
-
-|
-
-|
-
 Chlorantraniliprole
 
 |
@@ -2190,6 +2228,20 @@ Clodinafop
 
 |
 
+Clofentézine
+
+|
+
+540/2011
+
+|
+
+74115-24-5
+
+|
+
+|
+
 Clomazone
 
 |
@@ -2269,20 +2321,6 @@ Cyhalofop-butyl
 |
 
 122008-85-9
-
-|
-
-|
-
-Cymoxanil
-
-|
-
-540/2011
-
-|
-
-57966-95-7
 
 |
 
@@ -2456,20 +2494,6 @@ Diméthomorphe
 
 |
 
-Ethéphon
-
-|
-
-540/2011
-
-|
-
-16672-87-0
-
-|
-
-|
-
 Ethofumesate
 
 |
@@ -2577,20 +2601,6 @@ Fenoxaprop-P
 |
 
 71283-80-2
-
-|
-
-|
-
-Fénoxycarbe
-
-|
-
-823/2012
-
-|
-
-72490-01-8
 
 |
 
@@ -2764,20 +2774,6 @@ Foramsulfuron
 
 |
 
-Fuberidazole
-
-|
-
-705/2011
-
-|
-
-3878-19-1
-
-|
-
-|
-
 Glyphosate
 
 |
@@ -2786,7 +2782,7 @@ Glyphosate
 
 |
 
-81591-81-3 ; 1071-83-6
+81591-81-3,1071-83-6
 
 |
 
@@ -2866,7 +2862,7 @@ Imazalil (enilconazole)
 
 |
 
--
+705/2011
 
 |
 
@@ -2969,34 +2965,6 @@ Isoxadifen-éthyl
 |
 
 163520-33-0
-
-|
-
-|
-
-Lenacile
-
-|
-
-823/2012
-
-|
-
-2164-08-1
-
-|
-
-|
-
-Lufénuron
-
-|
-
-540/2011
-
-|
-
-103055-07-8
 
 |
 
@@ -3324,20 +3292,6 @@ Oxasulfuron
 
 |
 
-Oxyfluorfène
-
-|
-
-540/2011
-
-|
-
-42874-03-3
-
-|
-
-|
-
 Paclobutrazol
 
 |
@@ -3347,20 +3301,6 @@ Paclobutrazol
 |
 
 76738-62-0
-
-|
-
-|
-
-Penconazole
-
-|
-
-540/2011
-
-|
-
-66246-88-6
 
 |
 
@@ -3403,6 +3343,20 @@ Penoxsulame
 |
 
 219714-96-2
+
+|
+
+|
+
+Penthiopyrade
+
+|
+
+1187/2013
+
+|
+
+183675-82-3
 
 |
 
@@ -3460,7 +3414,19 @@ Phéromones de lépidoptères
 
 |
 
-33956-49-9 ; 16974-11-1 ; 54364-62-4 ; 40642-40-8 ; 28079-04-1 ; 38363-29-0 ; 37338-40-2 ; 112-53-8 ; 112-72-1
+33956-49-9,16974-11-1,54364-62-4
+
+40642-40-8,
+
+28079-04-1,
+
+38363-29-0,
+
+37338-40-2,
+
+112-53-8,
+
+112-72-1
 
 |
 
@@ -3536,6 +3502,20 @@ Pirimiphos-methyl
 
 |
 
+Polysulfure de calcium
+
+|
+
+540/2011
+
+|
+
+1344-81-6
+
+|
+
+|
+
 Prochloraze
 
 |
@@ -3544,7 +3524,21 @@ Prochloraze
 
 |
 
-75747-77-2 ; 67747-09-5
+75747-77-2,67747-09-5
+
+|
+
+|
+
+Prohexadione
+
+|
+
+540/2011
+
+|
+
+127277-53-6
 
 |
 
@@ -3732,7 +3726,7 @@ Quinoxyfène
 
 |
 
-Quizalofop-P
+Quizalofop-P-ethyle
 
 |
 
@@ -3743,8 +3737,6 @@ Quizalofop-P
 100646-51-3
 
 |
-
-quizalofop-P-tefuryl
 
 |
 
@@ -3958,7 +3950,7 @@ Thirame
 
 |
 
-Tolclofos-méthyl
+Tolclofos-methyl
 
 |
 
@@ -4056,7 +4048,7 @@ Trifloxystrobine
 
 |
 
-Trinexapac (ou cimetacarb ethyl
+Trinexapac (ou cimetacarb ethyl)
 
 |
 
@@ -4064,7 +4056,7 @@ Trinexapac (ou cimetacarb ethyl
 
 |
 
-104273-73-6 ; 95266-40-3
+104273-73-6,95266-40-3
 
 |
 
@@ -4146,7 +4138,7 @@ de la décision communautaire
 
 CORRESPONDANT
 
-notamment au cas
+notamment au CAS
 
 |
 
@@ -4164,13 +4156,11 @@ Cuivre et composés
 
 |
 
-8011-63-0 ; 12527-76-3 ; 8011-63-0 ; 7758-98-7 ; 1317-39-1
+8011-63-0,12527-76-3,7758-98-7,1317-39-1
 
 |
 
-Cuivre de l'hydroxyde de cuivre,
-
-cuivre de l'oxychlorure de cuivre
+Cuivre de l'hydroxyde de cuivre, cuivre de l'oxychlorure de cuivre
 
 |
 
@@ -4200,20 +4190,6 @@ Thiocyanate d'ammonium
 
 |
 
-Phosphonate de disodium
-
-|
-
-832/2013
-
-|
-
-13708-85-5
-
-|
-
-|
-
 Zinc (incl. sulfate de zinc)
 
 |
@@ -4222,4 +4198,8 @@ Zinc (incl. sulfate de zinc)
 
 |
 
-7446-19-7 |
+7446-19-7
+
+|
+
+|
