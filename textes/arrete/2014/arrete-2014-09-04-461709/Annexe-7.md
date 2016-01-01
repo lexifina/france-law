@@ -18,6 +18,10 @@ L'attestation sur l'honneur comporte dans l'ordre les parties suivantes :
 
 - une partie C relative au professionnel ayant mis en œuvre ou assuré la maîtrise d'œuvre de l'opération ;
 
+- une ou plusieurs parties complémentaires, si celles-ci sont prévues par la fiche d'opération standardisée ;
+
+- une partie ou plusieurs parties complémentaires, si l'opération est réalisée au bénéfice des ménages en situation de précarité énergétique ;
+
 - une partie finale.
 
 L'attestation sur l'honneur est imprimée de façon lisible :
@@ -30,7 +34,7 @@ Les pages sont numérotées selon le format suivant : numéro de page/nombre tot
 
 Les informations portées dans la partie réservée au demandeur, les éléments entre crochets ([raison sociale du demandeur]) figurant dans les parties B et C et la mention prévue à l'article 32 de la loi n° 78-17 du 6 janvier 1978 susvisée, dite mention CNIL , du demandeur doivent être renseignés de façon dactylographiée avant la signature de l'attestation par le professionnel et le bénéficiaire. En dehors de ces éléments qui doivent être personnalisés par le demandeur, aucune modification du contenu et de l'organisation de l'attestation sur l'honneur n'est autorisée.
 
-Le remplissage des champs précédés d'un astérisque est obligatoire. Par dérogation avec l'alinéa précédent, le demandeur a la possibilité d'ajouter un astérisque devant certaines données des parties A, B ou C lorsqu'il souhaite la communication de ces données par le bénéficiaire ou le professionnel qui a mis en œuvre ou assuré la maîtrise d'œuvre de l'opération.
+Le remplissage des champs précédés d'un astérisque est obligatoire. Par dérogation avec l'alinéa précédent, le demandeur a la possibilité d'ajouter un astérisque devant certaines données des parties A, B, C ou complémentaires lorsqu'il souhaite la communication de ces données par le bénéficiaire ou le professionnel qui a mis en œuvre ou assuré la maîtrise d'œuvre de l'opération.
 
 2. Titre et introduction
 
@@ -58,6 +62,24 @@ Le contenu de la partie C est défini à l'annexe 7-1. Par dérogation, les arr�
 
 L'une des deux cases permettant d'identifier le type du professionnel est cochée.
 
-7. Partie finale
+7. Parties complémentaires dans le cas d'opérations réalisées chez des ménages en situation de précarité énergétique
+
+Le contenu de ces parties R1, BS, CD et R2 est défini à l'annexe 7-1. Une même attestation sur l'honneur peut comporter :
+
+- une unique partie R1 ; ou
+
+- une unique partie R2 et/ou une ou plusieurs parties BS ; ou
+
+- une unique partie CD.
+
+La partie R1 est utilisée lorsque l'opération entre dans le cadre du paragraphe 8.1 de l'annexe 5.
+
+La partie BS correspond à l'attestation prévue au point I du paragraphe 8.2 de l'annexe 5. Elle peut être dupliquée autant de fois que nécessaire.
+
+La partie CD correspond à l'attestation prévue par le paragraphe 8.3 de l'annexe 5.
+
+La partie R2 correspond à l'attestation prévue au point II du paragraphe 8.2 de l'annexe 5 et à l'attestation prévue par le paragraphe 8.4.
+
+8. Partie finale
 
 Le contenu de cette partie est défini à l'annexe 7-1. Elle comporte notamment la mention CNIL relative au ministère chargé de l'énergie et la mention CNIL du demandeur.

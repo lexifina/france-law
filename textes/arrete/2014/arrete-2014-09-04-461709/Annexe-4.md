@@ -4,7 +4,7 @@ COMPOSITION D'UNE DEMANDE DE CERTIFICATS D'ÉCONOMIES
 
 D'ÉNERGIE RELATIVE À UNE OPÉRATION SPÉCIFIQUE
 
-Une demande portant sur la réalisation d'une opération spécifique d'économies d'énergie est faite en trois exemplaires dont un exemplaire numérique. Elle comporte :
+I. - Une demande portant sur la réalisation d'une opération spécifique d'économies d'énergie est faite en trois exemplaires dont un exemplaire numérique. Elle comporte :
 
 1° L'ensemble des justificatifs permettant de déterminer la situation avant l'opération :
 
@@ -24,7 +24,7 @@ Cet audit est réalisé moins de quatre ans avant l'engagement de l'opération.
 
 b) Dans le cas où l'opération d'économies d'énergie n'est pas conduite dans une installation fixe, le demandeur fournit les documents permettant d'établir la situation avant l'opération ;
 
-2° L'ensemble des justificatifs permettant de déterminer la situation de référence. La situation de référence est déterminée conformément aux dispositions de l'article 3 du décret n° 2010-1664 du 29 décembre 2010 susvisé. La situation de référence peut être décrite par la reprise de la méthodologie d'une opération standardisée si la fiche d'opération standardisée est représentative de l'opération spécifique concernée. Dans ce dernier cas, le demandeur apporte les éléments qui motivent cette représentativité.
+2° L'ensemble des justificatifs permettant de déterminer la situation de référence. La situation de référence est déterminée conformément aux dispositions de l'article R. 221-16 du code de l'énergie. La situation de référence peut être décrite par la reprise de la méthodologie d'une opération standardisée si la fiche d'opération standardisée est représentative de l'opération spécifique concernée. Dans ce dernier cas, le demandeur apporte les éléments qui motivent cette représentativité.
 
 Dans certains cas, notamment lorsque l'opération concernée ne correspond pas à un marché ou à un parc homogène, la situation avant l'opération sera considérée comme la situation de référence ;
 
@@ -40,4 +40,8 @@ Dans certains cas, notamment lorsque l'opération concernée ne correspond pas �
 
 8° Une attestation sur l'honneur signée par le bénéficiaire de l'opération précisant son engagement à fournir exclusivement au demandeur les documents permettant de valoriser cette opération au titre du dispositif des certificats d'économies d'énergie et à ne pas signer d'attestation sur l'honneur semblable avec une autre personne morale dans le cadre du dispositif des certificats d'économies d'énergie ;
 
-9° Une attestation sur l'honneur signée par le professionnel mettant en œuvre ou assurant la maîtrise d'œuvre de l'opération précisant son engagement à fournir exclusivement au demandeur les documents permettant de valoriser cette opération au titre du dispositif des certificats d'économies d'énergie et à ne pas signer d'attestation sur l'honneur semblable avec une autre personne morale dans le cadre du dispositif des certificats d'économies d'énergie.
+9° Une attestation sur l'honneur signée par le professionnel mettant en œuvre ou assurant la maîtrise d'œuvre de l'opération précisant son engagement à fournir exclusivement au demandeur les documents permettant de valoriser cette opération au titre du dispositif des certificats d'économies d'énergie et à ne pas signer d'attestation sur l'honneur semblable avec une autre personne morale dans le cadre du dispositif des certificats d'économies d'énergie ;
+
+10° Lorsque l'opération concerne des ménages en situation de précarité énergétique, une attestation sur l'honneur décrivant l'opération d'économies d'énergie et contenant, selon le ou les paragraphes du point 8 de l'annexe 5 dont relève l'opération, les engagements et informations présents dans les parties R1, R2, BS ou CD prévues par l'annexe 7.
+
+II. - Dans le cas où l'opération spécifique correspond à la location d'un équipement et est conforme sur tous les autres points aux exigences d'une fiche d'opération standardisée pour une durée de location inférieure à la durée de vie conventionnelle de l'opération standardisée, la demande est faite en un seul exemplaire et comporte, à la place des pièces prévues au I, l'ensemble des pièces justificatives liées à la fiche d'opération standardisée concernée prévues par l'annexe 5.

@@ -34,9 +34,23 @@ Les tableaux récapitulatifs sont complétés en respectant les règles suivante
 
 - pour la référence interne de l'opération : cette donnée correspond à la référence unique attribuée par le demandeur à l'opération ;
 
-- pour le volume des certificats d'économies d'énergie : le volume des certificats d'économies d'énergie demandés est exprimé en kilowattheures d'énergie finale cumulée actualisés (cumac) ;
+- pour le volume des certificats d'économies d'énergie "hors précarité énergétique"et"précarité énergétique" : le volume des certificats d'économies d'énergie demandés est exprimé en kilowattheures d'énergie finale cumulée actualisés (cumac) ;
 
 - pour la référence de la fiche d'opération standardisée : la référence de la fiche d'opération standardisée est celle utilisée dans l'arrêté définissant les opérations standardisées d'économies d'énergie. Dans le cas des opérations spécifiques, la référence de la fiche d'opération standardisée est remplacée par SPE-XX-XX.
+
+- pour la nature de la bonification : cette colonne comporte le ou les sigles suivants correspondant aux bonifications dont bénéficie l'opération d'économies d'énergie :
+
+a) "ZNI", pour la bonification prévue à l'article 4 de l'arrêté du 29 décembre 2014 susvisé pour les actions réalisées en zone non interconnectée au réseau métropolitain continental de transport d'électricité ;
+
+b) "GPE ZNI", pour la bonification prévue à l'article 4 de l'arrêté du 29 décembre 2014 susvisé pour les actions réalisées en zone non interconnectée au réseau métropolitain continental de transport d'électricité au bénéfice de ménages en situation de grande précarité énergétique ;
+
+c) "SME", pour la bonification prévue à l'article 5 de l'arrêté du 29 décembre 2014 susvisé ;
+
+d) "CPE", pour la bonification prévue à l'article 6 de l'arrêté du 29 décembre 2014 susvisé ;
+
+e) "GPE", pour la bonification prévue à l'article 6-1 de l'arrêté du 29 décembre 2014 susvisé.
+
+Lorsque plusieurs sigles concernent une même opération, ils sont concaténés par ordre alphabétique en étant séparés par un espace.
 
 Pour le cas d'un regroupement :
 
