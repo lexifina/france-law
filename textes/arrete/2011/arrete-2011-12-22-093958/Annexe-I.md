@@ -1,6 +1,8 @@
 # Article Annexe I
 
-LISTE DES ESPACES NATURELS PROTÉGÉS CONCERNÉS ET DES RECETTES RÉGIONALES DES DOUANES CHARGÉES DE PERCEVOIR LA TAXE SUR LES PASSAGERS MARITIMES PRÉVUE PAR L'ARTICLE 285 QUATER DU CODE DES DOUANES
+LISTE DES ESPACES NATURELS PROTÉGÉS CONCERNÉS ET DES RECETTES RÉGIONALES DES DOUANES
+
+CHARGÉES DE PERCEVOIR LA TAXE SUR LES PASSAGERS MARITIMES PRÉVUE PAR L'ARTICLE 285 QUATER DU CODE DES DOUANES
 
 ESPACE NATUREL PROTÉGÉ
 
@@ -30,7 +32,7 @@ Basse-Normandie RR, 44, quai Vendeuvre, 14019 Caen
 
 |
 
-Espaces terrestres classés au titre de l'article L341-2 et terrains du Conservatoire de l'espace littoral et des rivages lacustres situés sur l'archipel de Chausey (Manche)
+Espaces terrestres classés au titre de l'article L. 341-2 et terrains du Conservatoire de l'espace littoral et des rivages lacustres situés sur l'archipel de Chausey (Manche)
 
 |
 
@@ -46,7 +48,7 @@ Réserve naturelle nationale du Banc d'Arguin (Gironde)
 
 |
 
-Bureau d'Arcachon, Les Huniers, 14 bis, quai Capitaine-Allègre, 33311 Arcachon
+Bureau d'Arcachon, les Huniers, 14 bis, quai Capitaine-Allègre, 33311 Arcachon
 
 |
 
@@ -54,7 +56,7 @@ Bordeaux RR, 1, quai de la Douane, 33064 Bordeaux
 
 |
 
-Ile aux Moines du golfe du Morbihan (Morbihan)
+Ile-aux-Moines du golfe du Morbihan (Morbihan)
 
 |
 
@@ -102,7 +104,7 @@ Bretagne RR, 8, cours des Alliés, 35012 Rennes
 
 |
 
-Espaces terrestres et marins classés au titre de l'article L. 341-2 et territoires classés de la réserve naturelle nationale de Saint-Nicolas-des-Glénan situés sur l'archipel de Glénan, ainsi que le port de l'île de Saint-Nicolas (Finistère)
+Espaces terrestres et marins classés au titre de l'article L. 341-2 et territoires classés de la réserve naturelle nationale de Saint-Nicolas-de-Glénan situés sur l'archipel de Glénan, ainsi que le port de l'île de Saint-Nicolas (Finistère)
 
 |
 
@@ -190,9 +192,7 @@ Espaces terrestres et marins classés en réserve naturelle nationale des Sept-I
 
 |
 
-Bureau de Saint-Brieuc,
-
-3, impasse des Longs-Réages, 22193 Plérin
+Bureau de Saint-Brieuc, 3, impasse des Longs-Réages, 22193 Plérin
 
 |
 
@@ -204,9 +204,7 @@ Sites classés de l'île de Bréhat et port de Bréhat (Côtes-d'Armor)
 
 |
 
-Bureau de Saint-Brieuc,
-
-3, impasse des Longs-Réages, 22193 Plérin
+Bureau de Saint-Brieuc, 3, impasse des Longs-Réages, 22193 Plérin
 
 |
 
@@ -218,7 +216,7 @@ Désert des Agriates et plage du Loto (Haute-Corse)
 
 |
 
-Bureau de Bastia, port de commerce de Bastia, 20416 Ville-di-Pietrabugno
+Bureau d'Ajaccio, 3, quai L'Herminier, 20177 Ajaccio
 
 |
 
@@ -322,7 +320,7 @@ Guadeloupe RR, 51, rue du Docteur-Pitat, 97100 Basse-Terre
 
 |
 
-Parc national de la Guadeloupe : Îlet pigeon, îlets du Grand Cul de Sac marin, mangroves du Grand Cul de Sac marin classés en coeur de parc national ainsi que l'aire maritime adjacente (Guadeloupe)
+Parc national de la Guadeloupe : îlet Pigeon, îlets du Grand Cul de Sac marin, mangroves du Grand Cul de Sac marin classés en cœur de parc national ainsi que l'aire maritime adjacente (Guadeloupe)
 
 |
 
@@ -338,7 +336,7 @@ Iles du Salut (Guyane)
 
 |
 
-Bureau de Degrad-des-Cannes, ZI Degrad-des-Cannes, 97354 Rémire-Montjoly
+Bureau de Degrad-des-Cannes, ZI Degrad-des-Cannes, 97354 Remire-Montjoly
 
 |
 
@@ -350,7 +348,7 @@ Réserve naturelle nationale de l'île du Grand-Connétable (Guyane)
 
 |
 
-Bureau de Degrad-des-Cannes, ZI Degrad-des-Cannes, 97354 Rémire-Montjoly
+Bureau de Degrad-des-Cannes, ZI Degrad-des-Cannes, 97354 Remire-Montjoly
 
 |
 
@@ -362,11 +360,11 @@ Parc national des Calanques (Bouches-du-Rhône)
 
 |
 
-Marseille transports, 48, avenue Robert-Schuman, 13224 Marseille
+Bureau de Toulon-la-Seyne, port marchand, 83070 Toulon
 
 |
 
-Marseille RR, 48, avenue Robert-Schuman, 13224 Marseille
+Provence RR, hôtel des douanes, boulevard du Château-Double, 13098 Aix-en-Provence
 
 |
 
@@ -374,11 +372,11 @@ Ilet Madame (Martinique)
 
 |
 
-Bureau de Fort de France port, centre d'affaires Agora bât. D, ZAC Etang Z'abricot, BP 629,97200 Fort-de-France Cedex
+Bureau de Fort-de-France port, centre d'affaires Agora, bât. D, ZAC Etang Z'abricot, BP 629,97200 Fort-de-France Cedex
 
 |
 
-Martinique RR, centre d'affaires Agora bât. D, ZAC Etang Z'abricot, BP 629 97261 Fort-de-France Cedex
+Martinique RR, centre d'affaires Agora, bât. D, ZAC Etang Z'abricot, BP 629,97261 Fort-de-France Cedex
 
 |
 
@@ -414,11 +412,11 @@ Bureau de Perpignan, immeuble Le Carré, 3, avenue de Rome, BP 5156,66031 Perpig
 
 |
 
-Perpignan RR, 1, boulevard Kennedy, immeuble Espadon, 66028 Perpignan Cedex
+Perpignan RR, 1, bd Kennedy, immeuble Espadon, 66028 Perpignan Cedex
 
 |
 
-Sites classés du Cap Oullestrell situé sur les communes de Banyuls-sur-Mer et Port-Vendres ainsi que le domaine public correspondant maritime (Pyrénées-Orientales)
+Sites classés du Cap Oullestrell situé sur les communes de Banyuls-sur-mer et Port-Vendres ainsi que le domaine public correspondant maritime (Pyrénées-Orientales)
 
 |
 
@@ -426,7 +424,7 @@ Bureau de Perpignan, immeuble Le Carré, 3, avenue de Rome, BP 5156,66031 Perpig
 
 |
 
-Perpignan RR, 1, boulevard Kennedy, immeuble Espadon, 66028 Perpignan Cedex
+Perpignan RR, 1, bd Kennedy, immeuble Espadon, 66028 Perpignan Cedex
 
 |
 
@@ -438,7 +436,7 @@ Bureau de Perpignan, immeuble Le Carré, 3, avenue de Rome, BP 5156,66031 Perpig
 
 |
 
-Perpignan RR, 1, boulevard Kennedy, immeuble Espadon, 66028 Perpignan Cedex
+Perpignan RR, 1, bd Kennedy, immeuble Espadon, 66028 Perpignan Cedex
 
 |
 
@@ -450,7 +448,7 @@ Bureau de Perpignan, immeuble Le Carré, 3, avenue de Rome, BP 5156,66031 Perpig
 
 |
 
-Perpignan RR, 1, boulevard Kennedy, immeuble Espadon, 66028 Perpignan Cedex
+Perpignan RR, 1, bd Kennedy, immeuble Espadon, 66028 Perpignan Cedex
 
 |
 
@@ -470,11 +468,11 @@ Parc national de Port-Cros :
 
 -île de Port-Cros (dont le port de Port-Cros), île de Bagaud, île de la Gabinière, classés en cœur de parc national, ainsi que l'aire maritime adjacente (Var)
 
--Espaces terrestres et maritimes situés sur l'île de Porquerolles et classés en cœur de parc national, en aire maritime adjacente (dont le port de Porquerolles) et en site classé au titre de l'article L. 341-2 du code de l'environnement (Var)
+-espaces terrestres et maritimes situés sur l'île de Porquerolles et classés en cœur de parc national, en aire maritime adjacente (dont le port de Porquerolles) et en site classé au titre de l'article L. 341-2 du code de l'environnement (Var)
 
 |
 
-Bureau de Toulon-La-Seyne, port marchand, 83070 Toulon
+Bureau de Toulon-la-Seyne, port marchand, 83070 Toulon
 
 |
 
@@ -486,10 +484,10 @@ Réserve naturelle nationale marine de La Réunion (La Réunion)
 
 |
 
-Bureau de Le Port, hôtel des douanes, boulevard Mascareignes ZAC Belvédère, BP 52003,97821 Le Port Cedex
+Bureau de Le Port, hôtel des douanes, bd Mascareignes ZAC Belvédère, BP 52003,97821 Le Port Cedex
 
 |
 
-Réunion RR, 13, rue Jules-Auber, BP 02041,7488 Saint-Denis Cedex 9
+Réunion RR, 13, rue Jules-Auber, BP 02041,97488 Saint-Denis Cedex
 
 |
