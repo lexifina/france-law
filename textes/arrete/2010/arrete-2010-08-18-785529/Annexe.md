@@ -2,60 +2,18 @@
 
 RÉGIONS DE RATTACHEMENT
 
-Sont rattachées à la région Basse-Normandie les régions :
+Pour l'application du présent arrêté, l'organisation et les notifications des décisions en matière de validation des acquis de l'expérience pour l'obtention du diplôme d'Etat d'ergothérapeute :
 
-- Haute-Normandie ;
+1° Pour les candidats résidant dans la région Bourgogne-Franche-Comté, relèvent de la compétence du préfet de la région Alsace-Champagne-Ardenne-Loraine ;
 
-- Saint-Martin ;
+2° Pour les candidats résidant en Guadeloupe, à Saint-Martin et Saint-Barthélemy, relèvent de la compétence du préfet de la région Auvergne-Rhône-Alpes ;
 
-- Saint-Barthélemy.
+3° Pour les candidats résidant à Saint-Pierre-et-Miquelon, relèvent de la compétence du préfet de la région Basse-Normandie-Haute-Normandie ;
 
-Sont rattachées à la région Nord-Pas-de-Calais les régions :
+4° Pour les candidats résidant dans la région Pays de la Loire, relèvent de la compétence du préfet de la région Bretagne ;
 
-- Picardie ;
+5° Pour les candidats résidant en Martinique et en Guyane, relèvent de la compétence du préfet de la région Languedoc-Roussillon-Midi-Pyrénées ;
 
-- Champagne-Ardenne ;
+6° Pour les candidats résidant dans la région Corse, relèvent de la compétence du préfet de la région Provence-Alpes-Côte d'Azur ;
 
-- Réunion.
-
-Sont rattachées à la région Aquitaine les régions :
-
-- Limousin ;
-
-- Poitou-Charentes ;
-
-- Guadeloupe.
-
-Sont rattachées à la région Ile-de-France les régions :
-
-- Bourgogne ;
-
-- Centre ;
-
-- Martinique.
-
-Sont rattachées à la région Rhône-Alpes les régions :
-
-- Provence-Alpes-Côte d'Azur ;
-
-- Corse ;
-
-- Guyane.
-
-Sont rattachées à la région Languedoc-Roussillon les régions :
-
-- Midi-Pyrénées ;
-
-- Auvergne.
-
-Sont rattachées à la région Lorraine les régions :
-
-- Alsace ;
-
-- Franche-Comté.
-
-Sont rattachées à la région Bretagne les régions :
-
-- Pays de la Loire ;
-
-- Saint-Pierre-et-Miquelon.
+7° Pour les candidats résidant à Mayotte, relèvent de la compétence du préfet de La Réunion.
