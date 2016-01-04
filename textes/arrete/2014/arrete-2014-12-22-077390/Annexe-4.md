@@ -12,7 +12,13 @@ Conformément à l’article 9 de l’arrêté du 31 juillet 2015 (NOR : DEVR151
 
 - Tubes à LED à éclairage hémisphérique / Fiche d’opération standardisée n° IND-BA-115
 
+Conformément à l’article 7 de l’arrêté du 22 décembre 2015 (NOR : DEVR1529503A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 6 dudit arrêté.
+
+- Isolation de combles ou de toitures (France d’outre-mer) / Fiche d’opération standardisée n° IND-EN-102
+
 - Système de variation électronique de vitesse sur un moteur asynchrone / Fiche d’opération standardisée n° IND-UT-102
+
+Conformément à l’article 7 de l’arrêté du 22 décembre 2015 (NOR : DEVR1529503A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 6 dudit arrêté.
 
 - Système de récupération de chaleur sur un compresseur d’air / Fiche d’opération standardisée n° IND-UT-103
 
@@ -54,7 +60,11 @@ Conformément à l’article 9 de l’arrêté du 31 juillet 2015 (NOR : DEVR151
 
 - Presse à injecter toute électrique ou hybride / Fiche d’opération standardisée n° IND-UT-129
 
+- Condenseur sur les effluents gazeux d’une chaudière de production de vapeur / Fiche d’opération standardisée n° IND-UT-130
+
 Liens :
+
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0002 du 03/01/2016, texte n° 6, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=7tQP0tbHnNdb41iGhdrOe9_gRqcUA3qn9Cpuf_2cwJA=
 
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0184 du 11/08/2015, texte n° 2, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=rZaFYhIykfEHeO_cYuUudh9K_gvnOMgthOva_2h02AY=
 
@@ -63,7 +73,3 @@ Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'ex
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0075 du 29/03/2015, texte n° 6, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=xhmSfzOnsCkjNrGahHphZrmpoFhR61mGJ7APKjTA6As=
 
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0297 du 24/12/2014, texte n° 18, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=FGBMw6bzzOGU6LHfYz6-OOYiF3mTkUVDd1KHOMS6u0s=
-
-NOTA :
-
-Se reporter aux conditions d’application prévues à l’article 8 de l’arrêté du 31 juillet 2015 (NOR : DEVR1518934A).

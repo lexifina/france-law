@@ -10,7 +10,13 @@ Isolation d’un plancher / Fiche d’opération standardisée n° BAT-EN-103
 
 Fenêtre ou porte-fenêtre complète avec vitrage isolant / Fiche d’opération standardisée n° BAT-EN-104
 
+Isolation des combles ou de toitures (France d’outre-mer) / Fiche d’opération standardisée n° BAT-EN-106
+
 Isolation des toitures-terrasses / Fiche d’opération standardisée n° BAT-EN-107
+
+Isolation des murs (France d’outre-mer) / Fiche d’opération standardisée n° BAT-EN-108
+
+Réglage des organes d’équilibrage d’une installation de chauffage à eau chaude / Fiche d’opération standardisée n° BAT-SE-103
 
 Chaudière collective haute performance énergétique / Fiche d’opération standardisée n° BAT-TH-102
 
@@ -54,6 +60,8 @@ Pompe à chaleur à moteur gaz de type air/eau / Fiche d’opération standardis
 
 Pompe à chaleur à absorption de type air/eau ou eau/eau / Fiche d’opération standardisée n° BAT-TH-140
 
+Déstratificateur ou brasseur d’air / Fiche d’opération standardisée n° BAT-TH-142
+
 Ventilo-convecteurs haute performance / Fiche d’opération standardisée n° BAT-TH-143
 
 Luminaires à modules LED pour surfaces commerciales / Fiche d’opération standardisée n° BAT-EQ-111
@@ -70,9 +78,13 @@ Conduits de lumière naturelle / Fiche d’opération standardisée n° BAT-EQ-1
 
 Tubes à LED à éclairage hémisphérique / Fiche d’opération standardisée n° BAT-EQ-132
 
+Conformément à l’article 7 de l’arrêté du 22 décembre 2015 (NOR : DEVR1529503A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 6 dudit arrêté.
+
 Systèmes hydro-économes (France métropolitaine) / Fiche d’opération standardisée n° BAT-EQ-133
 
 Liens :
+
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0002 du 03/01/2016, texte n° 6, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=7tQP0tbHnNdb41iGhdrOe9_gRqcUA3qn9Cpuf_2cwJA=
 
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0184 du 11/08/2015, texte n° 2, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=rZaFYhIykfEHeO_cYuUudh9K_gvnOMgthOva_2h02AY=
 
@@ -84,4 +96,4 @@ Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'ex
 
 NOTA :
 
-Se reporter aux conditions d’application prévues à l’article 9 de l’arrêté du 31 juillet 2015 (NOR : DEVR1518934A)
+Se reporter aux conditions d’application prévues à l’article 8 de l’arrêté du 22 décembre 2015 (NOR : DEVR1529503A).

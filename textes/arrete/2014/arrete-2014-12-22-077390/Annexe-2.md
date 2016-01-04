@@ -14,11 +14,7 @@ Secteur résidentiel
 
 - Isolation de combles ou de toitures (France d’outre-mer) / Fiche d’opération standardisée n° BAR-EN-106
 
-Conformément à l’article 5 de l’arrêté du 30 septembre 2015 (NOR : DEVR1521810A), la fiche d’opération standardisée est remplacée par la version figurant en annexe dudit arrêté.
-
 - Isolation des murs (France d’outre-mer) / Fiche d’opération standardisée n° BAR-EN-107
-
-Conformément à l’article 5 de l’arrêté du 30 septembre 2015 (NOR : DEVR1521810A), la fiche d’opération standardisée est remplacée par la version figurant en annexe dudit arrêté.
 
 - Fermeture isolante / Fiche d’opération standardisée n° BAR-EN-108
 
@@ -58,8 +54,6 @@ Conformément à l’article 5 de l’arrêté du 30 septembre 2015 (NOR : DEVR1
 
 - Chauffe-eau solaire individuel (France d’outre-mer) / Fiche d’opération standardisée n°BAR-TH-124
 
-Conformément à l’article 5 de l’arrêté du 30 septembre 2015 (NOR : DEVR1521810A), la fiche d’opération standardisée est remplacée par la version figurant en annexe dudit arrêté.
-
 - Système de ventilation double flux autoréglable ou modulé à haute performance (France métropolitaine) / Fiche d’opération standardisée n°BAR-TH-125
 
 - Ventilation Mécanique Contrôlée simple flux hygroréglable (France métropolitaine) / Fiche d’opération standardisée n°BAR-TH-127
@@ -77,6 +71,8 @@ Conformément à l’article 9 de l’arrêté du 31 juillet 2015 (NOR : DEVR151
 - Système de variation électronique de vitesse sur une pompe / Fiche d’opération standardisée n°BAR-TH-139
 
 - Climatiseur performant (France d’outre-mer) / Fiche d’opération standardisée n°BAR-TH-141
+
+- Rénovation globale d’un bâtiment résidentiel (France métropolitaine) / Fiche d’opération standardisée n°BAR-TH-145
 
 - Chauffe-eau thermodynamique à accumulation / Fiche d’opération standardisée n°BAR-TH-148
 
@@ -106,7 +102,11 @@ Conformément au 1° de l’article 5 de l’arrêté du 20 mars 2015 (NOR : DEV
 
 - Dispositif d’affichage et d’interprétation des consommations d’énergie pour un logement chauffé au combustible / Fiche d’opération standardisée n° BAR-EQ-114
 
+- Réglage des organes d’équilibrage d’une installation de chauffage à eau chaude / Fiche d’opération standardisée n° BAR-SE-104
+
 Liens :
+
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0002 du 03/01/2016, texte n° 6, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=7tQP0tbHnNdb41iGhdrOe9_gRqcUA3qn9Cpuf_2cwJA=
 
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0230 du 04/10/2015, texte n° 4, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=77zgWXa2t1AtUu7C9fx1wEFiR1cJimgoBPDZZ4qc0Sc=
 
@@ -117,3 +117,7 @@ Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'ex
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0075 du 29/03/2015, texte n° 6, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=xhmSfzOnsCkjNrGahHphZrmpoFhR61mGJ7APKjTA6As=
 
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0297 du 24/12/2014, texte n° 18, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=FGBMw6bzzOGU6LHfYz6-OOYiF3mTkUVDd1KHOMS6u0s=
+
+NOTA :
+
+Se reporter aux conditions d’application prévues à l’article 8 de l’arrêté du 31 juillet 2015 (NOR : DEVR1518934A).

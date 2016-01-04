@@ -32,11 +32,19 @@ Secteur agriculture
 
 - Système de variation électronique de vitesse sur un moteur asynchrone / Fiche d’opération n° AGRI-UT-102
 
+- Système de régulation sur un groupe de production de froid permettant d'avoir une basse pression flottante / Fiche d'opération n° AGRI-UT-103
+
 - Pré-refroidisseur de lait / Fiche d'opération n° AGRI-TH-103
 
 - Pompe à chaleur de type air/eau ou eau/eau / Fiche d'opération n° AGRI-TH-108
 
+- Contrôle et préconisations de réglage du moteur d'un tracteur / Fiche d'opération n° AGRI-SE-101
+
 Liens
+
+Vous pouvez consulter les fiches dans le fac-similé du JO nº 0002 du 03/01/2016, texte nº 6
+
+https://www.legifrance.gouv.fr/download/pdf?id=7tQP0tbHnNdb41iGhdrOe9_gRqcUA3qn9Cpuf_2cwJA=
 
 Vous pouvez consulter les fiches dans le fac-similé du JO nº 0184 du 11/08/2015, texte nº 6
 

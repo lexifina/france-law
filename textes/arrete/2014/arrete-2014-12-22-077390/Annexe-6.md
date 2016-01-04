@@ -12,7 +12,11 @@ Secteur transport
 
 - Unité de transport intermodal pour le transport combiné fluvial-route / Fiche d’opération n° TRA-EQ-107
 
+- Wagon d’autoroute ferroviaire / Fiche d’opération n° TRA-EQ-108
+
 - Barge fluviale / Fiche d’opération n° TRA-EQ-109
+
+- Automoteur fluvial / Fiche d’opération n° TRA-EQ-110
 
 - Lubrifiant économiseur d’énergie pour des véhicules de transport de personnes ou de marchandises / Fiche d’opération n° TRA-EQ-113
 
@@ -38,6 +42,10 @@ Conformément à l’article 8 de l’arrêté du 31 juillet 2015 (NOR : DEVR151
 
 - Mesure et optimisation des consommations de carburant d’une unité de transport fluvial / Fiche d’opération n° TRA-SE-106
 
+Conformément à l’article 7 de l’arrêté du 22 décembre 2015 (NOR : DEVR1529503A), la fiche d'opération standardisée d'économies d'énergie est remplacée par la fiche d’opération standardisée portant les mêmes références situées dans l’annexe 6 dudit arrêté.
+
+- Carénage sur une unité de transport fluvial / Fiche d’opération n° TRA-SE-107
+
 - Gestion externalisée de la globalité du poste pneumatique (Véhicules de transport de marchandises) / Fiche d’opération n° TRA-SE-108
 
 - Gestion externalisée de la globalité du poste pneumatique (Véhicules de transport de personnes) / Fiche d’opération n° TRA-SE-109
@@ -51,6 +59,10 @@ Conformément à l’article 8 de l’arrêté du 31 juillet 2015 (NOR : DEVR151
 - Suivi des consommations de carburants grâce à des cartes privatives / Fiche d’opération n° TRA-SE-113
 
 Liens :
+
+Vous pouvez consulter l’intégralité du texte avec ses images à partir de l’extrait du Journal officiel électronique authentifié n° 2 du 03/01/2016, texte nº 6, accessible à l’adresse suivante :
+
+https://www.legifrance.gouv.fr/download/pdf?id=7tQP0tbHnNdb41iGhdrOe9_gRqcUA3qn9Cpuf_2cwJA=
 
 Vous pouvez consulter l’intégralité du texte avec ses images à partir de l’extrait du Journal officiel électronique authentifié n° 184 du 11/08/2015, texte nº 6, accessible à l’adresse suivante :
 
@@ -70,4 +82,4 @@ https://www.legifrance.gouv.fr/download/pdf?id=FGBMw6bzzOGU6LHfYz6-OOYiF3mTkUVDd
 
 NOTA :
 
-Se reporter aux modalités d’application prévues par l’article 9 de l’arrêté du 31 juillet 2015 (NOR : DEVR1518934A).
+Se reporter aux modalités d’application prévues par l’article 8 de l’arrêté du 22 décembre 2015 (NOR : DEVR1529503A).
