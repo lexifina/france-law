@@ -1,0 +1,9 @@
+# Réponse à la question n° 79850
+
+- Question : [79850](79850.md) — Question n° 79850 — caisse des règlements pécuniaires; perspectives
+
+## Réponse
+
+*JO du 2016-01-05*
+
+L’article 9 du décret no 2014-796 du 11 juillet 2014 n’a consisté qu’en une réécriture du dernier alinéa de l’article 241-2 du décret no 91-1197 du 27 novembre 1991, organisant la profession d’avocat, afin de tenir compte de la création de l’article 241-3-2. En revanche, le décret précité du 11 juillet 2014 n’a pas modifié le premier alinéa de ce même article 241-2 qui évoque l’obligation pour la caisse des règlements pécuniaires des avocats d’avoir un commissaire aux comptes, choisi sur la liste mentionnée à l’article 219 de la loi no 66-537 du 24 juillet 1966 sur les sociétés commerciales et répondant aux conditions de choix prescrites par l’article 30 de la loi du 10 juillet 1991. La loi du 24 juillet 1966 sur les sociétés commerciales a certes été abrogée par l’ordonnance no 2000-912 du 18 septembre 2000, relative à la partie Législative du code de commerce. Cependant l’article 3 de cette ordonnance dispose que les références contenues dans les dispositions de nature législative à des dispositions abrogées par l’article 4 de ladite ordonnance, sont remplacées par les références aux dispositions correspondantes du code de commerce. Enfin, l’article 30 de la loi no 91-647 du 10 juillet 1991, relative à l’aide juridique, dispose que la caisse des règlements pécuniaires désigne un commissaire aux comptes et un suppléant choisis sur la liste mentionnée à l’article L. 225-219 du code de commerce pour une durée de six exercices. Il n’y a donc pas de discontinuité dans les textes applicables ni d’ambigüité sur le caractère obligatoire du commissariat aux comptes, qui n’a de ce fait jamais été contesté depuis 2000.
