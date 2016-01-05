@@ -1,0 +1,9 @@
+# Réponse à la question n° 56338
+
+- Question : [56338](56338.md) — Question n° 56338 — accidents nucléaires; pastilles d'iodes
+
+## Réponse
+
+*JO du 2016-01-05*
+
+Les mesures de protection des populations en cas d’accident nucléaire ont fait l’objet de travaux interministériels menés sous l’égide du secrétariat général de la défense et de la sécurité nationale (SGDSN) et formalisées dans un plan gouvernemental de gestion d’une crise nucléaire diffusé début 2014. Parmi les mesures de protection susceptibles d’être mises en œuvre, il convient de citer notamment l’organisation de la mise à l’abri ou de l’évacuation des populations, ainsi que la prise de traitements appropriés. Ainsi la prise de comprimés d’iodure de potassium peut prévenir l’accumulation d’iode radioactif au niveau de la thyroïde ; cette mesure de protection est recommandée par les organisations internationales. A cette fin, en France, deux schémas complémentaires de distribution de l’iode stable ont été mis en place : - distribution préventive à la population dans un périmètre de 10 km autour d’une installation nucléaire, zone soumise à un Plan particulier d’intervention (PPI) ; - constitution en complément de stocks de première proximité dans les départements, distribuables rapidement par les préfets, selon la circulaire interministérielle du 11 juillet 2011. En outre, le ministère chargé de la santé a constitué des stocks d’antidotes, gérés par l’établissement de préparation et de réponse aux urgences sanitaires (EPRUS), afin de traiter les formes graves d’une contamination interne par certaines substances radioactives, notamment le césium. L’arrêté du 4 juin 2013 relatif aux modalités de distribution de certains produits de santé pour faire face à une situation sanitaire exceptionnelle permet de faciliter la distribution de ces différents produits.
