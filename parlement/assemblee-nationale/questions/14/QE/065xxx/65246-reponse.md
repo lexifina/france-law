@@ -1,0 +1,9 @@
+# Réponse à la question n° 65246
+
+- Question : [65246](65246.md) — Question n° 65246 — procédures d'expertise; transmission; délais
+
+## Réponse
+
+*JO du 2016-01-05*
+
+L’articleR. 621-9 du code de justice administrative prévoit, depuis sa modification issue du décret no 2010-164 du 22 février 2010, que les copies du rapport d’expertise sont notifiées aux parties par l’expert lui-même. Ainsi, contrairement à la rédaction du texte qui prévalait antérieurement, le greffe du tribunal administratif n’est plus compétent pour adresser le rapport d’expertise aux parties exception faite, depuis 2013 et la généralisation des Téléprocédures, du cas où l’expert a déposé son rapport au greffe sous forme numérique. Lorsque surviennent toutefois des difficultés dans la notification, par l’expert, du rapport aux parties, qui légitimement attendent sa communication, en vue de présenter leurs observations, et, pour le demandeur, en vue de chiffrer ou de parfaire le chiffrage de son préjudice, ces dernières peuvent alerter le greffe du tribunal qui rappellera à l’expert les obligations qui lui incombent. Néanmoins, le tribunal ne dispose, à ce stade de la procédure, d’aucun moyen lui permettant de contraindre l’expert à procéder à cette notification. Le président du Tribunal pourra seulement, le cas échéant, prendre en considération l’insuffisance de diligence de l’expert lorsqu’il procédera à l’évaluation des honoraires dus au titre de l’expertise, conformément aux dispositions de l’article R.621-11 du code de justice administrative. Par ailleurs, le dépôt du rapport d’expertise ne rouvre pas l’instruction de l’affaire qui, si elle est en état, peut être inscrite à une audience dès lors que la partie demanderesse a chiffré son préjudice avant l’expertise, en se réservant la possibilité de le compléter après le dépôt du rapport.
