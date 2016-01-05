@@ -1,0 +1,9 @@
+# Réponse à la question n° 82091
+
+- Question : [82091](82091.md) — Question n° 82091 — commissions administratives à caractère consultatif; missions; pertinence
+
+## Réponse
+
+*JO du 2016-01-05*
+
+Le comité des usagers du réseau routier national a été institué par le décret no 2009-1102 du 8 septembre 2009 relatif à la création du comité des usagers du réseau routier national. Conformément à ses attributions, le comité recueille les attentes des usagers de ce réseau, formule des propositions ainsi que des pistes d’améliorations du service qui leur est rendu et émet des recommandations sur les tarifs appliqués sur le réseau autoroutier concédé. Il peut également formuler des avis sur tous les sujets ayant trait au service aux usagers et aux relations entre les gestionnaires du réseau routier national et ses usagers. En 2014, le comité des usagers du réseau routier national s’est réuni à cinq reprises. Le comité a notamment pu examiner les hausses de tarif de péage pour l’année 2014, les principaux aménagements sur le réseau routier national sur la période 2014-2015, ainsi que l’avis de l’autorité de la concurrence de septembre 2014 sur l’économie des concessions. Les membres du comité des usagers du réseau routier national exercent leurs fonctions à titre gratuit. Ils bénéficient du remboursement des frais de déplacement et de séjour supportés par eux, dans les conditions prévues par la réglementation applicable aux fonctionnaires civils de l’État. Le coût de fonctionnement pour l’État de ce comité a ainsi été inférieur à 1 000 euros pour les années 2013 et 2014. Aucune autre commission n’étant en mesure de reprendre les attributions du comité des usagers du réseau routier national, le décret no 2015-622 du 5 juin 2015 a reconduit ce comité pour une période de cinq ans, à l’issue de laquelle un nouvel examen sera fait.
