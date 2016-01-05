@@ -1,0 +1,9 @@
+# Réponse à la question n° 91057
+
+- Question : [91057](91057.md) — Question n° 91057 — filière amandes; soutien; perspectives
+
+## Réponse
+
+*JO du 2016-01-05*
+
+La production d’amandes en France représente une superficie de 1 135 ha et un volume total de 1 068 tonnes. La Corse représente une superficie de 360 ha et un volume total de 268 tonnes soit 25 % de la production nationale. Plus de 95 % des amandéiculteurs corses sont organisés autour du groupement d’intérêt économique (GIE) CORSICAMANDES, groupement d’intérêt collectif créé en 1996 qui regroupe 70 producteurs. Ce GIE est rattaché à la coopérative Sud amandes localisée à Garons dans le Gard, qui intègre l’unité de cassage et de commercialisation. Les producteurs d’amandes disposent de plusieurs types de soutien à la replantation : - les fonds opérationnels au titre de l’organisation commune de marché « fruits et légumes », qui peuvent permettre de soutenir la replantation des vergers des producteurs membres d’organisations de producteurs ; - l’aide à la rénovation des vergers mise en œuvre par FranceAgriMer sur crédits nationaux ; - les fonds de développement rural (FEADER), dont les conseils régionaux sont autorités de gestion, pour les exploitations et les entreprises de transformation. Ces derniers peuvent faire le choix de soutenir la rénovation des vergers, en articulation avec le dispositif de FranceAgriMer. Par ailleurs, les acteurs de la filière peuvent bénéficier du programme d’investissement d’avenir, qui comprend depuis 2015 une action sur les projets agricoles et agroalimentaires d’avenir (P3A) dont l’opérateur est FranceAgriMer. Le troisième appel à projet comporte deux volets : le volet compétitif « initiatives innovantes dans l’agriculture et l’agroalimentaire » et le volet générique « projets structurants des filières agricoles et agroalimentaires ». Ce levier de financement est accessible à l’ensemble des acteurs de la filière.
