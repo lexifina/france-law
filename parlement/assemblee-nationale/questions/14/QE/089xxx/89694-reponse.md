@@ -1,0 +1,9 @@
+# Réponse à la question n° 89694
+
+- Question : [89694](89694.md) — Question n° 89694 — médicaments; résidus; lutte et prévention
+
+## Réponse
+
+*JO du 2016-01-05*
+
+Le Plan national sur les résidus de médicaments (PNRM), lancé conjointement en 2011 par le ministère chargé de la santé et le ministère chargé de l’écologie, s’achève en cette fin d’année 2015. Un bilan positif en a été tiré et sera prochainement disponible sur les sites Internet des deux ministères. La France a incité l’Union européenne à mettre en œuvre une stratégie européenne pour limiter les résidus de médicaments dans les masses d’eau. En qualité d’État membre, lors des discussions au sein de la Commission européenne, les deux ministères cités ci-avant ont défendu les positions suivantes : - soutenir et mettre en œuvre la surveillance de certains résidus de médicaments dans les eaux, notamment grâce au système d’une liste de vigilance, et introduire, si nécessaire, d’autres molécules à surveiller dans le cadre de cette liste au delà des 3 déjà inscrites dans la directive 2013/39/UE ; - privilégier une approche préventive afin de limiter les émissions de médicaments dans l’environnement ; - comparer l’intérêt d’une réduction respective à la source et d’un traitement en aval des stations de traitement des eaux usées ; - développer des monographies des substances actives utilisées en médecine humaine et vétérinaire afin de mieux connaître le risque environnemental lié aux médicaments et de faciliter le partage des connaissances. La rédaction d’un nouveau plan micropolluants 2015-2021 va bientôt aboutir. Interministériel, ce plan assure une continuité avec le PNRM et propose de nouvelles actions pour réduire la présence de résidus pharmaceutiques dans les eaux et les milieux aquatiques, pour poursuivre la connaissance des rejets et prédire l’occurrence dans les eaux et le biote et enfin pour prioriser les actions des pouvoirs publics.
