@@ -1,0 +1,9 @@
+# Réponse à la question n° 69055
+
+- Question : [69055](69055.md) — Question n° 69055 — offres; accès
+
+## Réponse
+
+*JO du 2016-01-05*
+
+La création des emplois d’avenir est la traduction de la très forte priorité que le Gouvernement souhaite accorder à la jeunesse, en particulier pour l’accès à l’emploi des jeunes peu ou pas qualifiés. Il se fixe comme objectif d’améliorer l’insertion professionnelle de ces jeunes en leur offrant une qualification et une situation d’emploi. Le public visé par ce dispositif est l’ensemble des jeunes de 16 à 25 ans, peu ou pas qualifiés (niveau inférieur au baccalauréat) ainsi que les jeunes reconnus travailleurs handicapés et âgés de moins de trente ans. Afin de toucher les jeunes les plus vulnérables, les jeunes résidant dans les zones urbaines sensibles, les zones de revitalisation rurale et les départements d’outre-mer sont recrutés en priorité. La mise en œuvre des emplois d’avenir s’appuie sur trois réseaux, Pole Emploi, les missions locales et les Cap Emploi et repose sur une animation régionale et un dialogue permanent entre les opérateurs du service public de l’emploi. Dans chaque territoire, une cellule opérationnelle du déploiement des emplois d’avenir composée des responsables locaux de Pole Emploi, de la mission locale et de Cap Emploi met en œuvre un plan d’actions territorial en assurant le partage d’informations sur les contacts avec les employeurs en matière de prospection, le nombre de jeunes pouvant être orientés vers ces offres, les modalités de mise en relation avec l’employeur et le suivi des candidatures. Elle permet un partage des offres d’emploi entre les différents opérateurs afin de pouvoir diffuser ces offres dans les bassins d’emploi défavorisés par le manque d’offres d’emploi, notamment les zones de revitalisation rurale.
