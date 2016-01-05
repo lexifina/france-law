@@ -1,0 +1,9 @@
+# Réponse à la question n° 64308
+
+- Question : [64308](64308.md) — Question n° 64308 — siège; Strasbourg; perspectives
+
+## Réponse
+
+*JO du 2016-01-05*
+
+La position de la France sur le siège du Parlement européen reste constante. Elle repose sur le respect des traités et notamment sur le protocole no 6 au traité sur le fonctionnement de l’Union européenne qui dispose que "le Parlement européen a son siège à Strasbourg, où se tiennent les douze périodes de sessions plénières mensuelles". La France est très attachée au respect de ces dispositions qui traduisent la volonté des pères fondateurs de construire une Europe polycentrique. Le statut de capitale européenne de Strasbourg, symbole de réconciliation franco-allemande, est intangible et non négociable. La localisation des institutions de l’Union dans plusieurs villes européennes résulte de compromis délicats entre Etats membres. Remettre en cause le siège strasbourgeois du Parlement reviendrait à remettre en cause l’ensemble de cet équilibre. Au moment où l’Europe fait face à une multitude de défis, les citoyens de l’Union européenne attendent par ailleurs mieux de leurs dirigeants qu’une querelle autour des sièges des institutions. L’accueil du siège du Parlement européen sur le territoire français implique un certain nombre de responsabilités. Dans un contexte de contraintes budgétaires fortes, l’État et les collectivités territoriales concernées mobilisent d’importants crédits pour conforter le rôle de Strasbourg dans l’Union européenne. Le volet financier du contrat triennal "Strasbourg capitale européenne" 2015-2017 s’établit ainsi à 148,7 millions d’euros. Ce contrat triennal vise notamment à améliorer l’accessibilité du siège du Parlement européen, à agir pour le développement du campus européen de Strasbourg et à renforcer le rayonnement culturel européen de l’agglomération.
