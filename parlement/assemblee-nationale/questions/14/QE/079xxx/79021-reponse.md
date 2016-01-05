@@ -1,0 +1,9 @@
+# Réponse à la question n° 79021
+
+- Question : [79021](79021.md) — Question n° 79021 — régime juridique; perspectives
+
+## Réponse
+
+*JO du 2016-01-05*
+
+La légitime défense, définie à l’article 122-5 du code pénal, est une cause d’irresponsabilité pénale qui assure l’impunité de celui qui, pour repousser une agression actuelle et injuste le menaçant ou menaçant autrui, est amené à commettre une infraction lésant l’auteur du péril. Comme pour toutes les causes d’irresponsabilité pénale, il incombe en principe à la personne poursuivie de démontrer qu’elle a agi en état de légitime défense. Le ministère public qui a pour tâche de démontrer, le cas échéant, l’existence des éléments matériels et intellectuels indispensables à la caractérisation de toute infraction devra, dans pareille hypothèse, répondre à l’argumentation de la défense qui ferait valoir la légitime défense pour justifier le comportement poursuivi. De manière exceptionnelle et pour répondre à des situations qui correspondent a priori à des atteintes injustifiées dont il est légitime de se défendre, le législateur a édicté une présomption de légitime défense à l’article 122-6 du code pénal. Celle-ci vise deux hypothèses spécifiques : pour repousser, de nuit, l’entrée par effraction, violence ou ruse dans un lieu habité et pour se défendre contre les auteurs de vols ou de pillages exécutés avec violence. Cette présomption se justifie par le fait que les circonstances mêmes des faits notamment le lieu où ils sont commis (domicile de la personne arguant de la légitime défense) sont de nature à limiter grandement toute contestation éventuelle sur la réalité de la légitime défense. Pour autant, cette présomption ne présente pas un caractère absolu et irréfragable, et est susceptible de céder devant la preuve contraire.
