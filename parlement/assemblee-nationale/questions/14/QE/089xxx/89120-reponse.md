@@ -1,0 +1,9 @@
+# Réponse à la question n° 89120
+
+- Question : [89120](89120.md) — Question n° 89120 — retraités; coût
+
+## Réponse
+
+*JO du 2016-01-05*
+
+Le Gouvernement est conscient de la difficulté des retraités à accéder à une complémentaire santé. C’est la raison pour laquelle l’article 33 du projet de loi de financement de la sécurité sociale (PLFSS) pour 2016 crée une procédure de labellisation permettant d’identifier les contrats présentant des tarifs accessibles pour des niveaux de garantie définis. Les contrats souscrits par des personnes âgées de 65 ans et plus dont les garanties seront au moins équivalentes à l’un de ces paniers de prestations et qui respecteront des tarifs plafonds définis pour chaque panier et pour différents âges donneront lieu à un crédit de la taxe de solidarité additionnelle aux cotisations d’assurance. Ce dispositif, qui entrera en vigueur en 2017, devrait inciter les organismes complémentaires à proposer des contrats présentant un meilleur rapport qualité/prix. Par ailleurs, lors de la présentation du PLFSS, le Gouvernement a annoncé la modification du cadre règlementaire relatif à la tarification des contrats souscrits sur la base de l’article 4 de la loi Evin. Cet article permet aux anciens salariés, de conserver la couverture complémentaire dont ils bénéficiaient en tant que salarié à un tarif encadré. Aujourd’hui, les tarifs sont plafonnés, dès le départ à la retraite, à 150 % du tarif global de la couverture collective dont ils bénéficiaient à titre obligatoire, ce qui constitue une hausse particulièrement importante. Le Gouvernement envisage donc de lisser progressivement la majoration de la cotisation afin d’éviter une augmentation trop importante du prix du contrat d’assurance au moment du départ à la retraite. Cette modification de l’encadrement de la cotisation des retraités fait actuellement l’objet d’une concertation.
