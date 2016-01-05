@@ -1,0 +1,9 @@
+# Réponse à la question n° 83502
+
+- Question : [83502](83502.md) — Question n° 83502 — instances consultatives; coût de fonctionnement
+
+## Réponse
+
+*JO du 2016-01-05*
+
+Conformément aux article L335-6 et R338-1 et suivants du code de l’éducation, au décret no 2006-672 du 8 juin 2006 et à l’arrêté du 2 juillet 2009, les commissions professionnelles consultatives (CPC) du ministère du travail, de l’emploi, de la formation professionnelle et du dialogue social formulent des avis et propositions sur la création, l’actualisation ou la suppression des titres professionnels au regard de l’évolution des qualifications, de l’usage des titres dans un objectif de mise en cohérence des certifications. Elles sont également appelées à se prononcer sur l’emploi type, le référentiel d’activités et de compétences professionnelles ainsi que sur le référentiel de certification pour chaque spécialité du titre professionnel. Enfin, elles peuvent être saisies par le ministre chargé de l’emploi de toute question générale ou particulière relative aux titres professionnels ou des recommandations émises par la commission nationale des certifications professionnelles (CNCP). Au cours de l’année 2014, les 7 CPC du ministère du travail, de l’emploi, de la formation professionnelle et du dialogue social ont examiné 52 titres professionnels et ont formulé 51 avis qui ont permis l’actualisation du portefeuille des titres. Ainsi, au 31 décembre 2014, le patrimoine des certifications est composé de 264 certifications, soit 255 titres professionnels et 9 certificats complémentaires de spécialisation. La commission interprofessionnelle consultative professionnelle n’a pas été réunie en 2014. Le secrétariat des CPC est confié à l’Association nationale pour la formation professionnelle des adultes (AFPA) dans le cadre du programme d’activité de service public pour un montant de 1 244 000 € au titre de 2014.
