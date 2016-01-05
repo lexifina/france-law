@@ -1,0 +1,9 @@
+# Réponse à la question n° 90195
+
+- Question : [90195](90195.md) — Question n° 90195 — situation politique; attitude de la France
+
+## Réponse
+
+*JO du 2016-01-05*
+
+Le ministère des affaires étrangères et du développement international n’a pas été consulté sur la tenue de ce rassemblement à Strasbourg et n’avait pas à l’être, dans la mesure où aucune règle de droit international n’est prescriptive en la matière. Seuls des motifs d’ordre public seraient, le cas échéant, opposables à ce genre de rassemblements politiques. Il convient également de rappeler qu’il arrive à des personnalités politiques françaises de tenir des rassemblements politiques à l’étranger, y compris dans des salles publiques, notamment à l’occasion des campagnes organisées pour les législatives. La Turquie est un partenaire stratégique pour la France et pour l’Union européenne. Notre relation s’inscrit, depuis de nombreuses années maintenant, dans une logique de partenariat et de coopération, qui doit être poursuivie sur tous les sujets d’intérêt commun, notamment dans la lutte contre Daech. Il est essentiel que tous les membres de la communauté internationale joignent leurs forces pour tarir les ressources de cette organisation terroriste et la neutraliser. La coopération sur les questions migratoires constitue un autre enjeu majeur. Nous devons épauler la Turquie, comme nous le faisons avec les autres pays voisins de la Syrie, dans l’effort qu’elle fournit en matière d’accueil des réfugiés, de surveillance des frontières et de lutte contre les réseaux de trafics de migrants. C’est le sens du « plan d’action » qui a été adopté à l’occasion du sommet UE-Turquie du 29 novembre. Il doit être mis en œuvre, dans le respect du cadre établi. S’agissant des questions de droits de l’Homme et libertés fondamentales, elles restent au cœur du partenariat entre l’Union européenne et la Turquie, notamment dans le cadre du processus d’adhésion.
