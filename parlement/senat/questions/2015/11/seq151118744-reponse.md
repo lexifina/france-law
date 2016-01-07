@@ -1,0 +1,9 @@
+# Réponse à la question SEQ151118744
+
+- Question : [SEQ151118744](seq151118744.md) — Modification des règles de vente d'animaux de compagnie pour les chasseurs
+
+## Réponse
+
+*Agriculture, agroalimentaire et forêt, JO du 2016-01-07, page 45*
+
+L'ordonnance n° 2015-1243 du 7 octobre 2015 relative au commerce et à la protection des animaux de compagnie, qui entre en vigueur le 1er janvier 2016, rend obligatoire la déclaration, en tant qu'éleveur, dès le premier chien ou chat vendu. Cette mesure implique l'immatriculation de l'éleveur auprès de la chambre d'agriculture. L'éleveur obtient ainsi un numéro unique issu du système d'identification du répertoire des établissements qui devra figurer sur toute publication d'offre de cession de chats ou chiens, y compris sur les sites internet. Les éleveurs peuvent être accompagnés dans cette démarche par les chambres d'agriculture ainsi que, dans le cas des chasseurs, par leur fédération départementale. Ces nouvelles mesures visent un meilleur encadrement du commerce des chiens et des chats, ainsi que l'amélioration des conditions d'élevage des animaux, sur le plan sanitaire comme sur celui du bien-être. Elles n'interdisent cependant pas aux chasseurs et plus généralement à tous les particuliers non déclarés, de faire don des chiots issus de la reproduction de leurs animaux. La dérogation prévue dans l'ordonnance s'applique aux éleveurs d'animaux inscrits à un livre généalogique reconnu par le ministère chargé de l'agriculture, dans la limite d'une portée annuelle commercialisée. En effet, les éleveurs commercialisant plus d'une portée par an ont obligation de se déclarer auprès de la préfecture, de suivre une formation adaptée et de justifier d'une certification professionnelle, d'un certificat de capacité ou d'une attestation de connaissances. Ces dernières dispositions étaient déjà en vigueur avant la publication de l'ordonnance pour tous les éleveurs commercialisant plus d'une portée par an.
