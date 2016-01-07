@@ -1,0 +1,9 @@
+# Réponse à la question SEQ141013404
+
+- Question : [SEQ141013404](seq141013404.md) — Respect des droits de visite et d'hébergement
+
+## Réponse
+
+*Justice, JO du 2016-01-07, page 57*
+
+Consciente de la nécessité de garantir le respect par chacun des parents titulaires de l'exercice de l'autorité parentale, en cas de séparation, des droits de l'autre, la Chancellerie a mis en place en 2013 un groupe de travail composé d'associations représentatives de parents et des familles, d'avocats, de magistrats et de représentants du Défenseur des droits, afin de mener une réflexion qui a donné lieu à la publication d'un rapport. Un certain nombre des propositions de ce rapport ont été reprises dans la proposition de loi n° 1856, relative à l'autorité parentale et à l'intérêt de l'enfant, qui a été adoptée en première lecture par l'Assemblée nationale le 27 juin 2014. Celle-ci traite notamment des questions d'exécution des décisions des juges aux affaires familiales et de la sanction de leur non respect par l'un des parents. Ainsi, afin de favoriser l'exécution des décisions, il est proposé de rappeler à l'article 373-2-6 du code civil que le juge aux affaires familiales peut, le cas échéant, assortir d'une astreinte les mesures permettant de garantir la continuité et l'effectivité du maintien des liens de l'enfant avec chacun des parents. En outre, la proposition de loi instaure un mécanisme d'amende civile pour sanctionner le parent qui fait délibérément obstacle de manière grave ou renouvelée aux règles de l'exercice conjoint de l'autorité parentale, ou qui ne respecte pas une décision fixant les modalités de l'exercice de l'autorité parentale. Enfin, la proposition de loi contraventionnalise le délit de non-représentation d'enfant, lors de la première infraction. L'ensemble de ces propositions doit désormais être examiné par le Sénat et la chancellerie sera attentive au maintien d'un équilibre afin de garantir la coparentalité.
