@@ -1,0 +1,9 @@
+# Réponse à la question SEQ140210602
+
+- Question : [SEQ140210602](seq140210602.md) — Situation des laboratoires de biologie médicale
+
+## Réponse
+
+*Affaires sociales, santé et droits des femmes, JO du 2016-01-07, page 31*
+
+L'ordonnance n° 2010-49 du 13 janvier 2010 ratifiée par la loi du 30 mai 2013 relative à la biologie médicale a réformé de façon importante la législation applicable à l'organisation des laboratoires de biologie médicale tant publics que privés. Elle a pour finalité d'accroître la fiabilité et la traçabilité des résultats d'examens de biologie médicale. Dans cet objectif, l'obligation d'accréditation est une étape indispensable pour les laboratoires de biologie médicale français : facteur de qualité des pratiques, moteur pour une traçabilité sans faille et une qualité prouvée, moyen d'assurer la compétitivité des laboratoires français vis-à-vis des homologues européens, elle concourt à une amélioration des pratiques en biologie médicale. Tous les laboratoires de biologie médicale ont obtenu, comme le prévoyait la loi, leur preuve d'entrée dans la démarche d'accréditation au 31 octobre 2013. Afin de s'assurer que le comité français d'accréditation (COFRAC) adopte des règles de fonctionnement conformes au domaine de la santé, des représentants du ministère chargé de la santé et des agences régionales de santé sont membres de toutes ses instances afin de permettre que toutes les exigences d'accréditation imposées aux laboratoires de biologie médicale soient des exigences posées dans l'intérêt des patients. Des réunions régulières sont par ailleurs organisées sous l'égide du ministère chargé de la santé, entre le COFRAC et les représentants des laboratoires publics et privés pour préparer les prochaines échéances de montée en charge de l'obligation d'accréditation.
