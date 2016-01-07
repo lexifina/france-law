@@ -16,7 +16,7 @@ Biotoxines marines
 
 |
 
-Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail (ANSES)-Laboratoire de sécurité des aliments de Maisons-Alfort
+Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail (ANSES)-Laboratoire de sécurité des aliments-site de Maisons-Alfort
 
 |
 
@@ -44,15 +44,15 @@ ANSES-Laboratoire de la rage et de la faune sauvage de Nancy
 
 |
 
-Escherichia coli,
-
-y compris E. coli vérotoxinogènes (VTEC)
+Escherichia coli, y compris E. coli vérotoxinogènes (VTEC)
 
 |
 
 VET AGRO SUP-Campus vétérinaire de Lyon
 
-Laboratoire d'études des microorganismes alimentaires pathogènes (LMAP)-Marcy L'Etoile
+Laboratoire d'études des microorganismes alimentaires pathogènes (LMAP)
+
+-Marcy L'Etoile
 
 |
 
@@ -60,17 +60,15 @@ Histamine dans les produits de la pêche et de l'aquaculture
 
 |
 
-ANSES-Laboratoire de sécurité des aliments de Maisons-Alfort
+ANSES-Laboratoire de sécurité des aliments-site de Boulogne-sur-Mer
 
 |
 
-Lait et produits laitiers
-
-(en particulier la qualité sanitaire du lait cru)
+Lait et produits laitiers (en particulier la qualité sanitaire du lait cru)
 
 |
 
-ANSES-Laboratoire de sécurité des aliments de Maisons-Alfort
+ANSES-Laboratoire de sécurité des aliments-site de Maisons-Alfort
 
 |
 
@@ -78,7 +76,7 @@ Listeria monocytogenes
 
 |
 
-ANSES-Laboratoire de sécurité des aliments de Maisons-Alfort
+ANSES-Laboratoire de sécurité des aliments-site de Maisons-Alfort
 
 |
 
@@ -94,7 +92,7 @@ Parasites transmis par les aliments, hormis Echinococcus sp.
 
 |
 
-ANSES-Laboratoire de santé animale de Maisons-Alfort Unité mixte de recherche Biologie moléculaire et immunologie parasitaires et fongiques (UMR BIPAR)
+ANSES-Laboratoire de santé animale de Maisons-Alfort Unité mixte de recherche "Biologie moléculaire et immunologie parasitaires et fongiques" (UMR BIPAR)
 
 |
 
@@ -118,7 +116,7 @@ Staphylocoques à coagulase positive, y compris Staphylococcus aureus et entéro
 
 |
 
-ANSES-laboratoire de sécurité des aliments de Maisons-Alfort
+ANSES-Laboratoire de sécurité des aliments-site de Maisons-Alfort
 
 |
 
@@ -126,7 +124,7 @@ Vibrio spp. dans les produits de la pêche
 
 |
 
-ANSES-Laboratoire de sécurité des aliments de Maisons-Alfort
+ANSES-Laboratoire de sécurité des aliments-site de Boulogne-sur-Mer
 
 |
 
@@ -160,7 +158,7 @@ Dioxines et PCB dans l'alimentation humaine et animale
 
 |
 
-Laboratoire d'Etude des résidus et contaminants dans les aliments (LABERCA ONIRIS)-Nantes
+Laboratoire d'étude des résidus et contaminants dans les aliments (LABERCA ONIRIS)-Nantes
 
 |
 
@@ -184,7 +182,7 @@ Eléments traces métalliques dans les denrées alimentaires d'origine animale (
 
 |
 
-ANSES-laboratoire de sécurité des aliments de Maisons-Alfort
+ANSES-Laboratoire de sécurité des aliments-site de Maisons-Alfort
 
 |
 
@@ -200,7 +198,7 @@ Pesticides dans les denrées alimentaires d'origine animale et produits à forte
 
 |
 
-ANSES-laboratoire de sécurité des aliments de Maisons-Alfort
+ANSES-Laboratoire de sécurité des aliments-site de Maisons-Alfort
 
 |
 
@@ -208,7 +206,7 @@ Pesticides par méthodes monorésidus
 
 |
 
-ANSES-laboratoire de sécurité des aliments de Maisons-Alfort
+ANSES-Laboratoire de sécurité des aliments-site de Maisons-Alfort
 
 |
 
@@ -310,7 +308,7 @@ ANSES-Laboratoire de pathologie équine de Dozulé
 
 |
 
-Encéphalites virales des équidés : encéphalite West-Nile
+Encéphalites virales des équidés : encéphalite West Nile
 
 |
 
@@ -387,6 +385,14 @@ Herpès viroses équines
 |
 
 ANSES-Laboratoire de pathologie équine de Dozulé
+
+|
+
+Hypodermose bovine
+
+|
+
+ANSES-Laboratoire de Niort
 
 |
 
@@ -486,14 +492,6 @@ ANSES-Laboratoire de Ploufragan/ Plouzané
 
 |
 
-Santé des abeilles
-
-|
-
-ANSES-Laboratoire de Sophia-Antipolis
-
-|
-
 Peste bovine
 
 |
@@ -566,6 +564,14 @@ ANSES-Laboratoire de Ploufragan/ Plouzané
 
 |
 
+Santé des abeilles
+
+|
+
+ANSES-Laboratoire de Sophia-Antipolis
+
+|
+
 Stomatite vésiculeuse
 
 |
@@ -622,7 +628,9 @@ OGM dans les semences (toutes espèces) et dans les denrées alimentaires d'orig
 
 |
 
-Service commun des laboratoires-Laboratoire de Illkirch Graffenstaden
+Service commun des laboratoires-Laboratoire de
+
+Illkirch Graffenstaden
 
 |
 
@@ -646,7 +654,7 @@ ANSES-Laboratoire de la santé des végétaux
 
 Unité pathogènes des plantes tropicales
 
-Station de Saint Pierre-île de La Réunion
+Station de Saint-Pierre-île de La Réunion
 
 |
 
@@ -760,7 +768,9 @@ Unité mycologie-Station de Malzéville (près de Nancy)
 
 |
 
-Champignons sensu stricto, ainsi que les organismes généralement assimilés (i. e. oomycètes, plasmodiophoromycètes)
+Champignons sensu stricto ainsi que les organismes généralement assimilés
+
+(i. e. Oomycètes, Plasmodiophoromycètes)
 
 Nématodes phytopathogènes
 
@@ -798,9 +808,7 @@ Insectes, acariens phytoparasites et auxiliaires sur toutes matrices
 
 ANSES-Laboratoire de la santé des végétaux
 
-Unité entomologie, plantes invasives-Station de Montferrier-sur-Lèz
-
-(près de Montpellier)
+Unité entomologie, plantes invasives-Station de Montferrier-sur-Lèz (près de Montpellier)
 
 |
 
@@ -820,6 +828,6 @@ Plantes invasives
 
 ANSES-Laboratoire de la santé des végétaux
 
-Unité entomologie, plantes invasives-Station de Montferrier-sur-Lèz
+Unité entomologie, plantes invasives-Station de Montferrier-sur-Lèz (près de Montpellier)
 
-(près de Montpellier) |
+|
