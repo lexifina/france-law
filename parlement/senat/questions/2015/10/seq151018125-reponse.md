@@ -1,0 +1,9 @@
+# Réponse à la question SEQ151018125
+
+- Question : [SEQ151018125](seq151018125.md) — Marins titulaires d'une pension invalidité accident
+
+## Réponse
+
+*Transports, mer et pêche, JO du 2016-01-07, page 69*
+
+Le bénéfice de la pension d'invalidité pour accident du travail maritime (PIA) est accordé au marin dont le taux d'incapacité permanente partielle (IPP) est au moins de 10 %. Le marin titulaire d'une PIA peut exercer une activité professionnelle maritime s'il est apte à la navigation ou une activité relevant d'un autre régime de sécurité sociale s'il est déclaré inapte à la navigation. La PIA est cumulable avec une pension servie par l'assurance vieillesse des marins à l'exception de la pension de retraite anticipée (PRA). Cependant, la situation d'un marin qui a effectué une courte carrière du fait d'un accident du travail maritime occasionnant une inaptitude à la navigation et un taux élevé d'incapacité physique ne permettant pas la reprise d'une autre activité professionnelle pose une réelle difficulté, notamment en cas de décès non imputable à l'accident du travail maritime. En effet, les ayants cause, c'est-à-dire les personnes qui ont acquis les droits du marin décédé, ne peuvent pas prétendre à la réversion de la PIA et la pension de vieillesse est faible en raison d'une carrière courte. C'est pourquoi, le conseil supérieur des gens de mer (CSGM) a souhaité travailler sur ce sujet. Ainsi une étude est en cours sur la possibilité de prendre en compte les périodes de versement de la PIA pour le calcul des pensions personnelles sur l'assurance vieillesse des marins lorsque le taux d'incapacité permanente est supérieur à 66 %. En fonction des conclusions de ces travaux, qui seront présentées au CSGM et aux ministères de tutelle, il sera décidé des suites à donner à cette question.
