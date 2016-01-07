@@ -1,0 +1,9 @@
+# Réponse à la question SEQ151118908
+
+- Question : [SEQ151118908](seq151118908.md) — Retraite minimale pour les anciens exploitants agricoles et leurs conjoints
+
+## Réponse
+
+*Agriculture, agroalimentaire et forêt, JO du 2016-01-07, page 46*
+
+La loi n° 2014-40 du 20 janvier 2014 garantissant l'avenir et la justice du système de retraites comprend plusieurs mesures importantes en faveur des petites retraites agricoles. Cette loi met en œuvre l'engagement du président de la République et de l'ensemble du Gouvernement pour améliorer le pouvoir d'achat des retraités agricoles, dans un esprit de justice sociale et d'équité. À compter de 2017, les chefs d'exploitation ou d'entreprise agricole qui justifient d'une carrière complète en cette qualité dans le régime non-salarié agricole bénéficieront d'un montant total de pensions, de base et complémentaire, au moins égal à 75 % du salaire minimum de croissance net. L'attribution d'un complément différentiel de points de retraite complémentaire obligatoire (RCO) permettra d'atteindre progressivement, entre 2015 et 2017, ce montant minimum de retraite. Pour les pensions liquidées avant le 1er janvier 2015, le législateur a prévu que ce complément différentiel de points de RCO serait calculé au plus tôt au 1er octobre 2015. Pour les pensions liquidées à compter du 1er janvier 2015, ce complément différentiel sera calculé au plus tôt au 1er octobre de l'année civile au cours de laquelle la pension de retraite prend effet. Cette mesure a fait l'objet du décret n° 2015-1107 du 31 août 2015, paru au Journal officiel du 2 septembre 2015. La mise en paiement de la première tranche de ce complément différentiel, intervenue début novembre 2015, a concerné 182 596 bénéficiaires, pour un montant mensuel moyen de 25 €, ce qui représente une revalorisation de 3,5 % de la pension mensuelle moyenne globale.
