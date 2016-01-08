@@ -350,13 +350,13 @@ CI d'un an après guérison
 
 |
 
-Infection par le Virus West Nile
+Infection par le virus West Nile (*)
 
 |
 
-CI de 120 jours après la fin des symptômes.
+CI de 120 jours après la fin des symptômes
 
-CI de 28 jours après avoir quitté une région présentant des cas, au moment du séjour, de transmission, du virus à l'homme. (*)
+CI de 28 jours après avoir quitté une région présentant des cas au moment du séjour, de transmission du virus à l'homme, sauf si le dépistage unitaire par diagnostic génomique viral est réalisé et s'avère négatif
 
 |
 
