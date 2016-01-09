@@ -866,13 +866,59 @@ S'il s'agit d'un don d'ovocytes :
 
 Une procédure permettant de connaître le nombre de grossesses, le nombre d'enfants nés et l'état de santé des enfants issus d'un même donneur est élaborée. Cette information est inscrite dans le dossier spécifique du donneur.
 
-V-3. Entretiens et formalités préalables
+V-3. Conservation d'une partie des gamètes du donneur n'ayant pas procréé à son bénéfice.
+
+Conformément aux dispositions de l'article L. 1244-2 du code de la santé publique, le donneur n'ayant pas procréé se voit proposer le recueil et la conservation d'une partie de ses gamètes en vue d'une éventuelle réalisation ultérieure, à son bénéfice, d'une assistance médicale à la procréation, dans les conditions prévues au titre IV du livre Ier de la deuxième partie du même code.
+
+L'ensemble des dispositions relatives à l'assistance médicale à la procréation avec don de gamètes figurant au présent arrêté sont applicables aux donneurs n'ayant pas procréé.
+
+V-3-1. Information et consentement du donneur n'ayant pas procréé.
+
+Outre les éléments mentionnés à l'article R. 1244-2 du code de la santé publique, l'information délivrée aux personnes n'ayant pas procréé et souhaitant conserver une partie de leurs gamètes précise :
+
+-les conditions dans lesquelles cette conservation peut être réalisée et les règles de répartition des gamètes destinées à permettre la réalisation du don :
+
+-pour les donneuses d'ovocytes les règles sont déclinées en fonction du nombre d'ovocytes matures recueillis ; il peut arriver que la conservation à son bénéfice ne soit pas réalisable et la donneuse en est clairement informée ;
+
+-pour les donneurs de spermatozoïdes, les règles sont déclinées en fonction du nombre de recueils de sperme pour tenir compte du nombre de paillettes constituées ;
+
+-la nécessité de répondre aux relances annuelles du centre où sont conservés les gamètes et de lui signaler tout changement d'adresse ;
+
+-que la conservation à son bénéfice d'une partie de ses gamètes ne garantit pas au donneur le succès en cas d'utilisation ultérieure à son bénéfice de ces gamètes dans le cadre d'une assistance médicale à la procréation.
+
+Le donneur consent par écrit au don et à la conservation d'une partie de ses gamètes pour lui-même, si celle-ci est possible. Un exemplaire du formulaire de consentement au don est conservé dans le dossier anonymisé mentionné au paragraphe V-2 du présent arrêté. Toutes les informations relatives à la conservation des gamètes au bénéfice de la personne sont consignées avec son formulaire de consentement dans un dossier spécifique, dans le centre autorisé pour la mise en œuvre du don de gamètes.
+
+V-3-2. Règles de répartition des gamètes du donneur n'ayant pas procréé.
+
+Dans le cadre du don d'ovocytes consenti par une donneuse n'ayant pas procréé et qui souhaite conserver une partie de ces ovocytes à son bénéfice, le nombre d'ovocytes matures recueillis conditionne la répartition des ovocytes entre le don et la conservation au bénéfice de la donneuse. Dans cette situation, les ovocytes sont décoronisés après leur prélèvement de façon à connaître le nombre d'ovocytes matures recueillis et permettre l'application des règles de répartition suivantes :
+
+-jusqu'à 5 ovocytes matures obtenus, tous les ovocytes sont destinés au don et la conservation au bénéfice de la donneuse n'est alors pas réalisée :
+
+-de 6 à 10 ovocytes matures obtenus, au moins 5 ovocytes matures sont destinés au don ;
+
+-au-delà de 10 ovocytes matures obtenus, au moins la moitié des ovocytes matures est dirigée vers le don.
+
+Dans le cadre du don de spermatozoïdes, dans la mesure où le don nécessite plusieurs recueils, au-delà de 3 recueils de sperme, un recueil peut être proposé en vue de la conservation au bénéfice du donneur n'ayant pas procréé si celui-ci le souhaite.
+
+V-3-3. Organisation de la conservation d'une partie des gamètes du donneur n'ayant pas procréé à son bénéfice.
+
+Lorsque des gamètes sont conservés en application du troisième alinéa de l'article L. 1244-2 précité :
+
+-les paillettes destinées à la conservation au bénéfice de la personne portent un identifiant qui lui est propre, de préférence sous la forme d'un code ;
+
+-un dossier nominatif spécifique est constitué ;
+
+-un compte rendu est transmis à la personne décrivant les caractéristiques et le nombre de paillettes conservées à son bénéfice.
+
+Les activités de recueil, préparation, conservation et mise à disposition du sperme en vue de don d'une part et de préparation, conservation et mise à disposition d'ovocytes en vue de don d'autre part, mentionnées à l'article R. 2142-1 du code de la santé publique comprennent l'activité de conservation de gamètes d'un donneur, en vue de la réalisation ultérieure à son bénéfice d'une assistance médicale à la procréation dans les conditions prévues aux articles L. 2141-1 et suivants du même code.
+
+V-4. Entretiens et formalités préalables
 
 relatifs au couple receveur
 
 Au cours des entretiens prévus par la réglementation en vigueur sont abordés les enjeux du don de gamètes et les questions relatives à l'information de l'enfant sur les circonstances de sa conception. Un entretien avec le psychiatre ou le psychologue adjoint à l'équipe clinico-biologique est recommandé. Le couple est informé des dispositions législatives et réglementaires ainsi que des modalités de recrutement des donneurs.
 
-V-4. Attribution et mise à disposition des gamètes
+V-5. Attribution et mise à disposition des gamètes
 
 Un appariement entre le couple receveur et le donneur ou la donneuse dont les gamètes sont utilisés est souhaitable. Il tient compte des caractéristiques physiques et des groupes sanguins du couple receveur.
 
