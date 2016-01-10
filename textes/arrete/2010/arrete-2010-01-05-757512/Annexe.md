@@ -20,13 +20,15 @@ Adresse d'implantation au format postal.
 
 C'est le numéro SIRET à 14 chiffres de l'établissement siège.
 
-II-Tableau 2 : Enregistrements " logement "
+II.-Tableau 2 : Enregistrements " logement "
 
 1. Identifiant du logement au répertoire :
 
-Doit être obligatoirement renseigné sur 10 positions pour les logements figurant déjà au répertoire.
+Doit être obligatoirement renseigné sur 10 positions pour tous les logements figurant déjà au répertoire.
 
-Il s'agit de l'identifiant attribué au logement par l'administration pour le répertoire des logements locatifs des bailleurs sociaux. Il est communiqué à l'organisme en fin de traitement du répertoire via un fichier des doublets identifiant du logement dans le système d'information de l'organisme identifiant du logement dans le répertoire.
+Il s'agit de l'identifiant attribué au logement par l'administration pour le répertoire des logements locatifs des bailleurs sociaux.
+
+Par dérogation, les logements non encore immatriculés au 1er janvier 2016 seront transmis sans identifiant lors de l'enquête de mise à jour du répertoire au 1er janvier 2016.
 
 2. Identifiant du logement dans le SI du propriétaire :
 
@@ -46,7 +48,7 @@ Doit être obligatoirement renseigné sur 5 positions.
 
 C'est la concaténation du code département et du code de la commune où est situé le logement. Le code officiel géographique est disponible sur le site internet de l'INSEE :
 
-http :// www. insee. fr/ fr/ methodes/ nomenclatures/ cog/ telechargement. asp
+http :// www. insee. fr/ fr/ methodes/ nomenclatures/ cog/ telechargement. asp.
 
 5 à 10. Adresse du logement :
 
@@ -58,7 +60,7 @@ Elle se compose du code postal, du nom de la commune, du numéro dans la voie, d
 
 En complément de l'adresse, le cas échéant, des champs spécifiques sont prévus pour indiquer le numéro d'appartement, de boîte aux lettres, d'escalier, de couloir, d'étage. S'il n'est pas possible de fournir ces informations dans des champs séparés, les indiquer dans le champ général de complément d'identification du logement.
 
-23 à 19. Compléments d'identification du bâtiment :
+17 à 19. Compléments d'identification du bâtiment :
 
 En complément de l'adresse, le cas échéant, des champs spécifiques sont prévus pour indiquer l'entrée, l'immeuble, le bâtiment et le nom du programme.
 
@@ -66,11 +68,11 @@ En complément de l'adresse, le cas échéant, des champs spécifiques sont pré
 
 Doit être obligatoirement renseigné pour les logements situés dans les communes définies dans l'article L. 302-6 du CCH.
 
-22. Logement situé en ZUS :
+22. Logement situé dans un quartier prioritaire de la politique de la ville :
 
 Doit être obligatoirement renseigné.
 
-Le champ est renseigné à 1 si le logement est en zone urbaine sensible, il est à 2 si le logement est en dehors d'une zone urbaine sensible.
+Le champ est renseigné à 1 si le logement est situé dans un quartier prioritaire de la politique de la ville défini par décret (ex. décret n° 2015-1138 du 14 septembre 2015), il est à 2 si le logement est en dehors d'un quartier prioritaire de la politique de la ville.
 
 23. Type de construction :
 
@@ -78,13 +80,13 @@ Doit être obligatoirement renseigné, en lettres majuscules.
 
 Un logement est dit collectif s'il fait partie d'un bâtiment d'au moins deux logements. Sinon, c'est un logement individuel.
 
+Le champ est renseigné à E si le logement est situé dans une résidence étudiante.
+
 24 : Nombre de pièces principales du logement :
 
 Doit être obligatoirement renseigné.
 
-Il s'agit des pièces principales au sens de l'article R. 111-1-1 du CCH.
-
-Dernier alinéa de l'article R. 111-1-1 du CCH : " Un logement ou habitation comprend, d'une part, des pièces principales destinées au séjour ou au sommeil, éventuellement des chambres isolées et, d'autre part, des pièces de service, telles que cuisines, salles d'eau, cabinets d'aisance, buanderies, débarras, séchoirs ainsi que, le cas échéant, des dégagements et des dépendances. "
+Il s'agit des pièces principales au sens de l'article R. 111-1-1 du CCH dernier alinéa de l'article R. 111-1-1 du CCH : " Un logement ou habitation comprend, d'une part, des pièces principales destinées au séjour ou au sommeil, éventuellement des chambres isolées et, d'autre part, des pièces de service, telles que cuisines, salles d'eau, cabinets d'aisance, buanderies, débarras, séchoirs ainsi que, le cas échéant, des dégagements et des dépendances. "
 
 25. Surface habitable en mètres carrés :
 
@@ -166,7 +168,7 @@ Indiquer le jour, le mois et l'année de la prise d'effet de la convention. Pour
 
 Doit être obligatoirement renseigné.
 
-Indiquer s'il s'agit de vente à l'occupant, vente à un autre bailleur social, autre vente, démolition, autre cas (destruction de logement par incendie, catastrophe naturelle...).
+Indiquer s'il s'agit de vente à l'occupant, vente à un autre bailleur social, autre vente, démolition, autre cas (destruction de logement par incendie, catastrophe naturelle ...).
 
 Si le logement est toujours dans votre patrimoine, indiquer " 9 sans objet ".
 
@@ -192,7 +194,7 @@ Doit être obligatoirement renseigné.
 
 5. Logement occupé avec ou sans contrepartie financière : il s'agit soit d'un logement faisant l'objet d'un bail professionnel, de baux communs commerce-logement ; soit d'un logement de fonction ou de service (loge de gardien, etc.) ; soit d'un logement occupé sans titre, soit d'un logement occupé par un mineur ou ses ayants droit (Epinorpa, Sainte Barbe).
 
-9. Sans objet : le logement est sorti du patrimoine (vente, démolition...) ou n'existe plus au 1er janvier (changement d'usage, fusion ou éclatement au cours de l'année n-1).
+9. Sans objet : le logement est sorti du patrimoine (vente, démolition ...) ou n'existe plus au 1er janvier (changement d'usage, fusion ou éclatement au cours de l'année n-1).
 
 41. Date de prise d'effet du bail en cours :
 
@@ -206,7 +208,9 @@ Surface utile : article R. 353-16 du CCH, la surface utile est égale à la surf
 
 Surface corrigée : loi n° 48-1360 du 1er septembre 1948, la surface corrigée des pièces et annexes, totalisée pour l'ensemble du local, est affectée d'un correctif d'ensemble tenant compte, d'une part, de la vétusté et de l'état d'entretien du local, d'autre part, de l'emplacement du local dans l'agglomération et des sujétions de voisinage.
 
-Surface habitable : article R. 111-2 du CCH, c'est la surface de plancher construite, après déduction des surfaces occupées par les murs, cloisons, marches et cages d'escalier, gaines, ébrasements de portes et fenêtres. Il n'est pas tenu compte des combles non aménagés, caves, sous-sol, garages, terrasses, balcons, loggias, ni des surfaces dont la hauteur sous plafond est inférieure à 1,80 mètre.
+Surface habitable : article R. 111-2 du CCH, c'est la surface de plancher construite, après déduction des surfaces occupées par les murs, cloisons, marches et cages d'escalier, gaines, ébrasements de portes et fenêtres.
+
+Il n'est pas tenu compte des combles non aménagés, caves, sous-sol, garages, terrasses, balcons, loggias, ni des surfaces dont la hauteur sous plafond est inférieure à 1,80 mètre.
 
 Sans objet, le loyer n'est pas calculé en référence à une surface.
 
@@ -262,27 +266,21 @@ Pour les seuls logements situés dans les communes définies dans l'article L. 3
 
 53. Le cas échéant, numéro interne au MEDDE de l'organisme gestionnaire.
 
-Il peut être dérogé à l'obligation d'alimentation de cette information pour la première collecte suivant la publication du présent arrêté.
-
 54. Code identifiant le segment de patrimoine CUS.
 
 La notion de segment de patrimoine ne concerne que les organismes soumis à la signature de la convention d'utilité sociale (CUS) définie aux articles L. 445-1 et suivants du CCH. L'article R. 445-2-1 du CCH prévoit que cette segmentation est définie de manière pertinente par les organismes.
 
 Doit être obligatoirement renseigné pour :
 
-a) Tous les logements sur lesquels les organismes HLM définis à l'article L. 411-2 du CCH détiennent un droit réel.
+a) Tous les logements sur lesquels les organismes HLM définis à l'article L. 411-2 du CCH détiennent un droit réel ;
 
 b) Les logements sur lesquels les sociétés d'économie mixte de construction et de gestion de logements locatifs sociaux définis à l'article L. 481-1 détiennent un droit réel ET sont conventionnés à l'APL.
 
 Il s'agit du code que l'organisme affecte à un segment de patrimoine de logements locatifs, dont le libellé est précisé ci-dessous.
 
-Il peut être dérogé à cette obligation d'alimentation pour la première collecte suivant la publication du présent arrêté.
-
 55. Libellé court du segment de patrimoine :
 
 Il s'agit du libellé qui décrit brièvement le segment de patrimoine et permet de l'identifier. Ce libellé doit être celui inscrit dans la CUS de l'organisme.
-
-Il peut être dérogé à cette obligation d'alimentation pour la première collecte suivant la publication du présent arrêté.
 
 56. Montant du loyer mensuel maximal de la convention APL :
 
@@ -292,8 +290,6 @@ Il s'agit d'indiquer le montant du loyer mensuel maximal résultant de la conven
 
 Le loyer pratiqué doit obligatoirement être inférieur ou égal au loyer maximal de la convention APL pour les organismes ne complétant pas la donnée " montant du loyer maximal résultant de la CUS ".
 
-Il peut être dérogé à cette obligation d'alimentation pour la première collecte suivant la publication du présent arrêté.
-
 57. Le cas échéant, montant du loyer mensuel maximal résultant de la CUS :
 
 Obligatoirement renseigné pour les organismes soumis à l'obligation de signer une CUS et opérant une " remise en ordre des loyers maximaux " (ne dérogeant pas au sixième alinéa de l'article L. 445-2 du CCH).
@@ -302,15 +298,11 @@ Il s'agit d'indiquer le montant du loyer maximal du logement découlant du cahie
 
 Le loyer pratiqué doit obligatoirement être inférieur ou égal à ce loyer maximal résultant de la CUS.
 
-Il peut être dérogé à cette obligation d'alimentation pour la première collecte suivant la publication du présent arrêté.
-
 58. Si le logement a été vendu au cours de l'année civile précédant la collecte, type de vente :
 
 Obligatoire uniquement si le logement a été vendu au cours de l'année civile précédant l'enquête (motif de sortie du patrimoine du bailleur au cours de l'année civile précédant l'enquête = 1,2 ou 3), indiquer le type de vente.
 
 Il s'agit de préciser si la vente a été faite à un locataire occupant, un conjoint, ascendant ou descendant, un locataire de l'organisme occupant un logement dans le département, un gardien d'immeuble de l'organisme, une autre personne physique, un organisme HLM, une SEM, une collectivité territoriale, un organisme qui bénéficie de l'agrément prévu à l'article L. 365-2 ou une autre personne morale.
-
-Il peut être dérogé à cette obligation d'alimentation pour la première collecte suivant la publication du présent arrêté.
 
 59. Mise en commercialisation effective au cours de l'année civile précédant l'enquête :
 
@@ -330,8 +322,6 @@ Sont considérés comme mis en commercialisation effective :
 
 -les logements occupés pour lesquels l'organisme a fait une proposition de vente en application du troisième alinéa de l'article L. 443-11 et pour lesquels il a recueilli les accords et avis prévus à l'article L. 443-7.
 
-Il peut être dérogé à cette obligation d'alimentation pour la première collecte suivant la publication du présent arrêté.
-
 60. Prix de vente du logement :
 
 Obligatoire uniquement pour les logements soumis aux dispositions de l'article L. 443-11, à savoir :
@@ -342,8 +332,6 @@ b) Les logements des sociétés d'économie mixte de construction et de gestion 
 
 Il s'agit d'indiquer le prix de vente du logement. Le prix de vente correspond à la somme inscrite au compte 775 " produits des cessions d'éléments d'actifs ".
 
-Il peut être dérogé à cette obligation d'alimentation pour la première collecte suivant la publication du présent arrêté.
-
 61. Produit financier net encaissé par l'organisme :
 
 Obligatoire uniquement pour les logements soumis aux dispositions de l'article L. 443-11, à savoir :
@@ -353,8 +341,6 @@ a) L'ensemble des logements des organismes d'habitation à loyer modéré ;
 b) Les logements des sociétés d'économie mixte de construction et de gestion de logements sociaux faisant l'objet de conventions régies par le chapitre III du titre V du livre III.
 
 Il s'agit d'indiquer le produit financier net encaissé par l'organisme. Le produit financier net correspond à la différence entre d'une part, la valeur d'entrée (valeur d'origine) et les amortissements calculés jusqu'à la date de la sortie de l'actif qui est retracée au compte 675 " valeurs comptables des éléments d'actif cédés " et, d'autre part, le produit de cession enregistré au compte 775 " produits des cessions d'éléments d'actif ".
-
-Il peut être dérogé à cette obligation d'alimentation pour la première collecte suivant la publication du présent arrêté.
 
 62. Dernière date à laquelle le logement a pu être offert à la location :
 
@@ -370,6 +356,8 @@ Obligatoirement renseigné si le logement relève de l'article L. 441-1 c'est-à
 
 -conventionnés dans les conditions définies à l'article L. 351-2 et appartenant à ou gérés par des sociétés d'économie mixte mentionnées à l'article L. 481-2.
 
+Il s'agit d'indiquer si le logement est réservé à un public particulier au 1er janvier de l'année de la collecte.
+
 Est une valeur parmi la liste suivante :
 
 1. Etat-fonctionnaires et agents publics de l'Etat.
@@ -384,4 +372,4 @@ Est une valeur parmi la liste suivante :
 
 6. Autres réservataires (dont contingents des organismes désintéressés CAF, MSA).
 
-7. Non réservé (les logements pour lesquels aucun réservataire n'existe sont classés dans cette catégorie. Il en est de même lorsque les conventions, ou, à défaut, l'arrêté préfectoral, prévus au septième alinéa de l'article R. 441-5 stipulent que les logements pour lesquels l'état bénéficie du droit de réservation ne sont pas identifiés).
+7. Non réservé (les logements pour lesquels aucun réservataire n'existe sont classés dans cette catégorie.
