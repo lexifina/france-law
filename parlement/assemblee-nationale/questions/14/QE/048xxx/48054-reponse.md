@@ -1,0 +1,9 @@
+# Réponse à la question n° 48054
+
+- Question : [48054](48054.md) — Question n° 48054 — réglementation; politiques communautaires
+
+## Réponse
+
+*JO du 2016-01-12*
+
+L’assujettissement aux régimes de sécurité sociale des personnes exerçant une activité en France n’a pas été remis en cause par la Cour de justice de l’Union européenne. Les assurances sociales comprises dans un régime légal et obligatoire de sécurité sociale sont expressément exclues du champ des directives CEE 92/49 et CEE 92/96 sur l’assurance. La Cour de justice a confirmé à plusieurs reprises que le droit de l’Union européenne ne porte pas atteinte à la compétence qu’ont les Etats membres pour aménager leurs systèmes de sécurité sociale et que des régimes légaux obligatoires de sécurité sociale ne constituent pas une activité d’entreprise entrant dans le champ des règles de concurrence résultant du traité. Examinant la situation de régimes français de sécurité sociale, la Cour a confirmé dans son arrêt Garcia (affaire C-238/94) la non-application de la directive 92/49/CEE à ces derniers. La libre concurrence ne concerne donc que l’assurance facultative. Il est donc du devoir de chacun de rappeler que notre système de sécurité sociale est non seulement conforme à la réglementation européenne mais encore qu’il constitue la meilleure garantie d’une protection sociale de haut niveau, solidaire et durable pour tous. La France a fait le choix d’une sécurité sociale solidaire protégeant l’ensemble de la population. La contrepartie des droits reconnus à tous les résidents en France est l’obligation pour tous de cotiser à ce socle commun de protection sociale. Par conséquent l’assujettissement aux régimes de sécurité sociale des personnes exerçant une activité en France est conforme aux directives susmentionnées. Au surplus, le non-respect de l’obligation d’affiliation ou le refus de verser les cotisations aux régimes de sécurité sociale expose à des sanctions civiles et pénales.
