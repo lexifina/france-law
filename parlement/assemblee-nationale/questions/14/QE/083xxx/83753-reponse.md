@@ -1,0 +1,9 @@
+# Réponse à la question n° 83753
+
+- Question : [83753](83753.md) — Question n° 83753 — perspectives
+
+## Réponse
+
+*JO du 2016-01-12*
+
+La proposition de loi de Messieurs les députés Claeys et Léonetti, actuellement en cours d’examen devant le Parlement, comporte des avancées majeures pour les malades et les personnes en fin de vie : respect absolu par le corps médical des directives anticipées, celles-ci devenant contraignantes ; droit à une sédation profonde et continue jusqu’au décès, associée à un arrêt de l’ensemble des traitements de maintien en vie lorsqu’un patient est atteint d’une maladie grave et incurable et dont le pronostic vital est engagé à court terme et est en proie à une souffrance réfractaire. L’article 3 de cette proposition de loi affirme le droit de la personne gravement malade de ne pas souffrir en précisant le droit du patient à demander une sédation profonde et continue pour une fin de vie digne et apaisée et l’obligation du médecin de mettre en œuvre tous les moyens à sa disposition pour que ce droit soit respecté. L’objectif de cette sédation est de soulager le malade qui présente une situation de souffrance vécue comme insupportable. Cet article précise également les garanties apportées par la procédure collégiale qui permet de vérifier que les conditions d’accès à la sédation profonde et continue sont remplies. Dans le cadre de la sédation et de l’arrêt des traitements de maintien en vie, c’est l’évolution de la maladie qui conduit au décès, dans des conditions de confort améliorées par la sédation. Compte tenu des situations dans lesquelles elle est autorisée, le patient ne décède pas des suites de la sédation mais de sa pathologie. L’arrêt des traitements de maintien en vie ne saurait être assimilé à une aide à mourir. L’arrêt des traitements s’inscrit dans le cadre du refus de l’obstination déraisonnable inscrit dans la loi Léonetti de 2005 et validé par la Cour européenne des droits de l’homme.
