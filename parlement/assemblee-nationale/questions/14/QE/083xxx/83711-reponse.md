@@ -1,0 +1,9 @@
+# Réponse à la question n° 83711
+
+- Question : [83711](83711.md) — Question n° 83711 — instances consultatives; suppression
+
+## Réponse
+
+*JO du 2016-01-12*
+
+L’action de la ministre des affaires sociales, de la santé et des droits des femmes s’inscrit dans le cadre de la politique gouvernementale visant à réaliser un important effort de rationalisation des commissions consultatives de l’Etat. Cet effort se traduit par les suppressions et regroupements décidés lors des comités interministériels de la modernisation de l’action publique intervenus le 2 avril 2013 (CIMAP 2) et le 17 juillet 2013 (CIMAP 3). Ces décisions visent, au total, la disparition, par suppression ou par fusion, de 168 instances consultatives, soit une diminution de 25 % du nombre total de ces instances. C’est dans ce contexte que le groupe de travail d’experts sur la prise en charge médicale des personnes infectées par le virus de l’immunodéficience humaine (VIH) a été supprimé par le décret no 2014-132 du 17 février 2014 portant suppression de commissions administratives à caractère consultatif. Les instances telles que la Haute autorité de santé, émettent des recommandations pour ce qui concerne la prise en charge des personnes infectées par le VIH ; des instances spécifiques telles que l’agence nationale de recherche sur le SIDA et les hépatites virales (ANRS) et le conseil national du sida et des hépatites virales chroniques œuvrent à garantir la prise en charge et l’accompagnement des personnes infectées par le VIH. Ces deux instances ont été missionnées par la ministre de la santé le 19 novembre 2012 pour coordonner la rédaction du rapport d’experts sur la prise en charge médicale des personnes infectées par le VIH ; ce rapport a été publié en juillet 2013 sous l’égide du Pr Morlat et a été mis à jour en octobre 2015.
