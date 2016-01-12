@@ -1,0 +1,9 @@
+# Réponse à la question n° 90984
+
+- Question : [90984](90984.md) — Question n° 90984 — situation politique; attitude de la France
+
+## Réponse
+
+*JO du 2016-01-12*
+
+La France suit avec la plus grande attention la situation au Burundi. Dès le début de la crise, la France a appelé toutes les parties à l’arrêt des violences et au dialogue pour trouver une solution consensuelle dans le respect de l’accord de paix d’Arusha. La France a suspendu sans attendre ses actions de coopération de sécurité et de défense au Burundi. L’Union africaine, la communauté d’Afrique de l’est et la médiation ougandaise sont très engagées sur le dossier burundais. La France leur apporte tout son soutien : - elle encourage l’ouverture d’un dialogue sous médiation africaine ; - elle a soutenu l’adoption de sanctions européennes contre trois personnalités proches du pouvoir et une de l’opposition armée afin d’augmenter la pression sur les parties. Des consultations entre l’Union européenne et les autorités burundaises devraient commencer début décembre ; - à Genève, elle a obtenu que le conseil des droits de l’Homme donne mandat au Haut-Commissariat aux droits de l’Homme d’évaluer la situation ; Début novembre, les déclarations à connotation communautaire des autorités ont fait craindre une aggravation de la situation. La France, et ses partenaires, ont très clairement mis en garde les autorités et l’opposition radicale. A notre initiative, le conseil de sécurité des Nations unies a adopté à l’unanimité une résolution condamnant les violences et appelant toutes les parties au dialogue, à l’extérieur du pays, sous peine de sanction. Cette résolution sollicite également le renforcement de la présence des Nations unies au Burundi. La France continuera à appuyer les initiatives africaines à Addis-Abeba, New York, Genève et Bruxelles.
