@@ -1,0 +1,9 @@
+# Réponse à la question n° 82099
+
+- Question : [82099](82099.md) — Question n° 82099 — perspectives
+
+## Réponse
+
+*JO du 2016-01-12*
+
+La Cour européenne des droits de l’homme, à la suite du Conseil d’Etat, a confirmé, dans sa décision du 5 juin 2015, la conformité à la Convention européenne de sauvegarde des droits de l’homme et des libertés fondamentales de la loi « Léonetti » de 2005 dans l’application qui en a été faite dans l’affaire Vincent Lambert. Par conséquent, elle a validé le dispositif français de mise en œuvre de l’arrêt de des traitements de maintien en vie, en l’occurrence de l’alimentation et de l’hydratation artificielles, conformément à la décision du médecin du 11 janvier 2014 prise au titre du refus de l’obstination déraisonnable et en tenant compte de la volonté antérieurement exprimée du patient. La Cour a estimé que l’Etat français a pu, sans porter atteinte aux droits fondamentaux énoncés dans la convention européenne, autoriser l’arrêt des traitements en cas d’obstination déraisonnable, dès lors que la loi française garantit l’équilibre entre le droit à la vie (article 2) et le respect de l’autonomie de la personne (article 8). Pour l’avenir, le Président de la République a souhaité que le sujet de la fin de vie soit traité dans le rassemblement et l’apaisement. L’introduction d’un droit à mourir ne permet pas de répondre à cet objectif. La proposition de loi de MM. Claeys et Léonetti actuellement en discussion, qui s’inscrit dans le cadre des principes posés par la loi de 2005, n’a pas pour finalité d’instaurer un tel droit, mais d’introduire un droit du patient à une fin de vie apaisée et sans souffrance. Elle permet aussi l’affirmation du respect des volontés des patients concernant les conditions de leur fin de vie, notamment par le renforcement du dispositif relatif aux directives anticipées.
