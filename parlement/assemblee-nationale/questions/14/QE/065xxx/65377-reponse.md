@@ -1,0 +1,9 @@
+# Réponse à la question n° 65377
+
+- Question : [65377](65377.md) — Question n° 65377 — données personnelles; administrateur général; saisine; modalités
+
+## Réponse
+
+*JO du 2016-01-12*
+
+Le gouvernement s’est engagé avec ambition dans l’amélioration de la circulation et de l’exploitation des données par les administrations. L’institution d’un administrateur général des données par le décret du 16 septembre 2014 est une des manifestations concrètes de cette ambition. Ses missions consistent, entre autres, à organiser la meilleure exploitation des données et leur plus large circulation, notamment aux fins d’évaluation des politiques publiques, d’amélioration et de transparence de l’action publique et de stimulation de la recherche et de l’innovation. L’article 4 de ce décret a ouvert le droit pour toute personne de saisir l’administrateur général des données de toute question relative à la circulation des données. La procédure de saisine est légère et accessible. Toute personne peut saisir l’administrateur général des données par le biais d’un formulaire accessible sur la page dédiée de son site http://agd.data.gouv.fr/saisines-de-lagd/formulaire-de-saisine. L’administrateur général des données s’engage alors à contacter l’administration concernée, à appuyer la demande concernant la circulation des données si elle est fondée, et à faire connaître les résultats statistiques des saisines et des réponses. Par ailleurs, les collectivités territoriales, les personnes morales de droit public et les personnes morales de droit privé chargées d’une mission de service public ont la capacité de saisir l’Administrateur général des données, pour avis, de toute question liée à l’utilisation par leurs services des données des administrations. Dans ce cas, l’administrateur général des données préparera un avis circonstancié, avec un groupe de travail ad hoc si nécessaire, le remettra à l’administration concernée et le publiera avec son accord.
