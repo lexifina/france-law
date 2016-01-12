@@ -1,0 +1,9 @@
+# Réponse à la question n° 89813
+
+- Question : [89813](89813.md) — Question n° 89813 — rapport parlementaire; recommandations
+
+## Réponse
+
+*JO du 2016-01-12*
+
+Le rapport remis par la sénatrice Hélène Conway-Mouret sur le retour en France des Français de l’étranger recommande de rappeler aux caisses primaires d’assurance maladie les cas particuliers dans lesquels il peut être dérogé à l’application de la condition de résidence en France de trois mois pour l’ouverture du bénéfice de la couverture maladie universelle. Des dérogations à la condition d’une résidence stable et régulière de plus de trois mois en France s’appliquent aux personnes suivantes : -les personnes inscrites dans un établissement d’enseignement ainsi que celles venant en France effectuer un stage dans le cadre d’accords de coopération culturelle, technique et scientifique -les bénéficiaires de certaines prestations : -prestations familiales (prestation d’accueil du jeune enfant, allocations familiales, complément familial, allocation de logement, allocation d’éducation de l’enfant handicapé, allocation de soutien familial, allocation de rentrée scolaire, allocation journalière de présence parentale) -allocation de solidarité aux personnes âgées -allocation de logement et aide personnalisée au logement -allocation personnalisée d’autonomie -allocation adulte handicapé -revenu de solidarité active… -les personnes reconnues réfugiées, admises au titre de l’asile ou ayant demandé le statut de réfugié -les personnes ayant accompli, en application des dispositions du chapitre II du titre II du livre Ier du code du service national, un volontariat international à l’étranger, si elles n’ont droit à aucun autre titre à leur retour en France, aux prestations d’un régime obligatoire d’assurance maladie et maternité. Le Gouvernement confirme que la règle générale et ces dérogations sont bien connues des caisses primaires d’assurance maladie.
