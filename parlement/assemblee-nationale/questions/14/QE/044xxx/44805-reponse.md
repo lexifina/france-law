@@ -1,0 +1,9 @@
+# Réponse à la question n° 44805
+
+- Question : [44805](44805.md) — Question n° 44805 — thyroïde; traitement
+
+## Réponse
+
+*JO du 2016-01-12*
+
+En 2009, le nombre de nouveaux cas de cancers de la thyroïde diagnostiqués est estimé à 8 600 dont 75 % chez la femme. La majorité des cancers de la thyroïde sont de bon pronostic. Leur survie relative à 5 ans, tous stades et tous types histologiques confondus, s’élève à 94 %. Les micro-cancers (tumeur 1 cm) représentent 40 % des cancers thyroïdiens opérés ; 25 % de ces micro-cancers sont découverts fortuitement sur pièce de thyroïdectomie ou de lobectomie pour pathologie bénigne. Il existe plusieurs types histologiques de cancer de la thyroïde : les cancers différenciés de la thyroïde de souche folliculaire représentent plus de 90 % des cancers de la thyroïde et sont de bon pronostic (survie relative à 5 ans proche de 95 %). Les formes papillaires sont très majoritaires. Les formes histologiques rares ont un pronostic plus péjoratif. L’article paru dans le British medical journal d’août 2013 est contemporain d’une étude populationnelle américaine, et précède la publication d’une autre étude traitant des sur-diagnostics, question préalable à une remise à plat de toutes les techniques d’imagerie en cancérologie. La conduite à tenir en cas de cancers papillaires de moins de 20 millimètres de diamètre (les plus fréquemment découverts fortuitement), suggérée par les auteurs, est en cohérence avec les recommandations de pratique contenues dans le guide édité par la haute autorité de santé (HAS) en 2010 et consacré aux cancers de la thyroïde. Les explorations sont guidées par l’évaluation des risques liés au nodule comme aux circonstances de sa découverte. Le guide HAS identifie bien les mêmes caractères de risque. Ces recommandations en vigueur sont en ligne à la fois sur le site internet de la HAS et sur celui de l’institut national du cancer (INCa).
