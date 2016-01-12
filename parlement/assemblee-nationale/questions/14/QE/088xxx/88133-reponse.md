@@ -1,0 +1,9 @@
+# Réponse à la question n° 88133
+
+- Question : [88133](88133.md) — Question n° 88133 — fonds européens; utilisation
+
+## Réponse
+
+*JO du 2016-01-12*
+
+Le 19 juillet 2013, la Commission européenne a publié des lignes directrices sur l’éligibilité des entités israéliennes et de leurs activités dans les territoires occupés par Israël depuis juin 1967 aux subventions, bourses et instruments financés par l’Union européenne. Entrées en vigueur le 1er janvier 2014, ces lignes directrices fixent des règles transversales à l’application du règlement financier 2014-2020, afin de garantir que les différents programmes et aides de l’Union européenne ne bénéficient pas à des activités développées dans les colonies israéliennes. Les premières négociations concernées par la mise en œuvre de ces lignes directrices, qui portaient sur la participation d’Israël au programme de recherche Horizon 2020, ont abouti avec succès : l’Union européenne et Israël sont parvenus, le 26 novembre 2013, à un accord garantissant que les dispositions ne s’appliqueraient pas aux territoires occupés par Israël depuis juin 1967. Une société israélienne, active dans le domaine de l’industrie de défense, bénéficie, dans le cadre de cet accord, d’un financement européen. L’UE a mis en place des mesures pour s’assurer que les aides européennes ne financent pas d’activités de recherche susceptibles de violer le droit international : analyse des propositions à partir de critères éthiques, évaluation des projets de recherche susceptibles d’être à double usage (seules les activités axées exclusivement sur le domaine civil peuvent bénéficier d’un financement européen). L’ensemble des projets ayant bénéficié d’une aide dans le cadre du programme Horizon 2020 ont ainsi été évalués par des experts indépendants afin que soient respectées les législations européennes et internationales relatives aux droits de l’Homme, notamment la Charte européenne des droits fondamentaux.
