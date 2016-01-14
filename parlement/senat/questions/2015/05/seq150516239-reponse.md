@@ -1,0 +1,9 @@
+# Réponse à la question SEQ150516239
+
+- Question : [SEQ150516239](seq150516239.md) — Contraception d'urgence
+
+## Réponse
+
+*Affaires sociales, santé et droits des femmes, JO du 2016-01-14, page 138*
+
+La contraception d'urgence permet d'éviter une grossesse non désirée lors d'une situation à risque qui peut notamment se rencontrer lorsque le moyen de contraception est déficient (accidents de préservatif, oubli de pilule…). Son accessibilité a été améliorée en permettant l'accès libre de celle-ci en pharmacie et de manière gratuite et anonyme pour les jeunes femmes mineures. Afin de renforcer ce dispositif, le projet de loi de modernisation de notre système de santé prévoit que les infirmières scolaires puissent délivrer la contraception d'urgence sans aucune condition restrictive. Des enquêtes montrent qu'en 2010, il y avait 24,4 % des femmes de 15 à 49 ans qui déclaraient avoir déjà utilisé au moins une fois au cours de leur vie la contraception d'urgence, alors qu'elles n'étaient que 15,2 % en 2005 et 8,9 % en 2000. Malgré cela, il existe encore des méconnaissances à propos de l'accès et de l'utilisation de la contraception d'urgence. C'est pourquoi, depuis 2008, l'institut national de prévention et d'éducation à la santé (INPES) a inscrit dans son programme stratégique « contraception » l'objectif suivant : « augmenter le recours à la contraception d'urgence en cas d'oubli, d'échec ou d'absence de contraceptif ». De plus, en 2015-2016, l'INPES va éditer de nouveaux outils, dont une brochure d'information sur la contraception d'urgence, qui existe déjà pour les départements français d'Amérique, et un outil ludo-pédagogique digital sur le site www.choisirsacontraception.fr pour expliquer et promouvoir le recours à la contraception d'urgence. Enfin, la Haute Autorité de santé (HAS) a mis à disposition des professionnels une « fiche mémo » sur ce sujet en 2013.
