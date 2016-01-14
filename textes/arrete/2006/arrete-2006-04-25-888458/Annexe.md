@@ -1,5 +1,9 @@
 # Article Annexe
 
-L'annexe n'est pas reproduite vous pouvez la consulter à l'adresse suivante :
+INSTALLATIONS RELEVANT DU CODE DE L'ENVIRONNEMENT
 
-http://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000017761523
+GÉRÉES PAR LE DPSM (BRGM) AU 1ER JANVIER 2015
+
+Vous pouvez consulter l'image dans le fac-similé du JO nº 10 du 13/01/2016, texte nº 2, à l'adresse suivante ;
+
+http://legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000031824474
