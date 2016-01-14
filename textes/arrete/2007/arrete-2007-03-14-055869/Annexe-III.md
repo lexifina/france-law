@@ -60,7 +60,7 @@ Teneur en chlorures supérieure à 200 mg/l (en Cl-).
 
 |
 
-"Calcique".
+Calcique ou contient du calcium.
 
 |
 
@@ -68,7 +68,7 @@ Teneur en calcium supérieure à 150 mg/l (en Ca++).
 
 |
 
-"Magnésienne".
+Magnésienne ou contient du magnésium.
 
 |
 

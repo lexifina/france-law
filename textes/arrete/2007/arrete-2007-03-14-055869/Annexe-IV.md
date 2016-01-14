@@ -588,7 +588,7 @@ Bq/l
 
 |
 
-Activité bêta globale.
+Activité bêta globale résiduelle.
 
 |
 
@@ -602,7 +602,7 @@ Bq/l
 
 |
 
-Dose totale indicative.
+Dose indicative.
 
 |
 

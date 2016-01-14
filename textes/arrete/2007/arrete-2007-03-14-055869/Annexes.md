@@ -4,7 +4,7 @@ CRITÈRES DE QUALITÉ DE L'EAU MINÉRALE NATURELLE, DE L'EAU DE SOURCE ET DE L'E
 
 A. - Limites de qualité microbiologiques
 
-PARAMÈTRES
+PARAMÈTRES (**)
 
 |
 
@@ -466,7 +466,9 @@ Odeur et saveur
 
 |
 
-Au cours de la commercialisation, aucun changement anormal, notamment pas d'odeur détectée pour un taux de dilution de 3 °C à 25 °C.
+Au cours de la commercialisation, aucun changement anormal, notamment pas d'odeur détectée pour un taux de dilution de 3 à
+
+25 °C.
 
 |
 
@@ -1230,7 +1232,7 @@ En cas de dépassement, il est procédé à l'analyse des radionucléides spéci
 
 |
 
-Activité bêta globale.
+Activité bêta globale résiduelle.
 
 |
 
@@ -1262,7 +1264,7 @@ La présence de concentrations élevées de tritium dans l'eau peut être le té
 
 |
 
-Dose totale indicative (DTI).
+Dose indicative (DI).
 
 |
 
@@ -1270,10 +1272,26 @@ Dose totale indicative (DTI).
 
 |
 
-MSv/an
+mSv/an
 
 |
 
-Le calcul de la DTI est effectué selon les modalités définies à l'article R. 1321-20 du CSP.
+Le calcul de la DI est effectué selon les modalités définies à l'article R. 1321-20 du CSP.
+
+|
+
+Radon.
+
+|
+
+100
+
+|
+
+Bq/l
+
+|
+
+S'applique uniquement aux eaux d'origine souterraine.
 
 |
