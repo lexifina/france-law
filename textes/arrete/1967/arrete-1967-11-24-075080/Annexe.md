@@ -57,3 +57,7 @@ Panneau B1j. - Panneau de répétition d'interdiction d'accès à contresens de 
 Les modèles des signaux M12, R12pps et R19 et leurs définitions figurent à l'adresse suivante ainsi que le nouveau modèle de panneau C50 :
 
 http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20151009&numTexte=21&pageDebut=18341&pageFin=18350
+
+Les modèles des signaux M6k1, M6k2, CE52 et ID39 figurent à l'adresse suivante :
+
+http://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000031845144
