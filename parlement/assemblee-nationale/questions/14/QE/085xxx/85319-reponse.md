@@ -1,0 +1,9 @@
+# Réponse à la question n° 85319
+
+- Question : [85319](85319.md) — Question n° 85319 — mise en oeuvre; modalités
+
+## Réponse
+
+*JO du 2016-01-19*
+
+Dans le cadre de la procédure de création d'une commune nouvelle, le II de l'article L. 2113-6 du code général des collectivités territoriales dispose que : « l'arrêté du représentant de l'Etat dans le département prononçant la création de la commune nouvelle détermine le nom de la commune nouvelle, le cas échéant, au vu des avis émis par les conseils municipaux, fixe la date de création et en complète, en tant que de besoin, les modalités ». L'arrêté préfectoral relatif à la création de la commune nouvelle est ensuite mentionné au Journal officiel comme le prévoit l'article D. 2112-1 du même code : « les arrêtés du préfet portant modification aux limites territoriales des communes, visés à l'article L. 2112-5, sont publiés au recueil des actes administratifs de la préfecture. Mention est faite au Journal officiel de la République française des arrêtés du préfet portant création ou suppression de communes ». L'institut national de la statistique et des études économiques (INSEE) répertorie, pour sa part, la commune nouvelle dans le code officiel géographique (COG) et lui attribue le code de l'ancienne commune désignée comme chef-lieu de la commune nouvelle. Les codes des autres communes, devenues communes déléguées et n'ayant plus à ce titre le statut de collectivités territoriales, ne seront plus considérés comme actifs dans le COG, mais ils ne seront pas supprimés. La nécessité de renommer certaines voies, qui pourra se présenter lorsque deux rues ont le même nom dans deux des communes appelées à fusionner, devra être anticipée par les maires de chacune des communes, en lien avec La Poste, en amont de la création de la commune nouvelle dans la base adresse nationale.
