@@ -1,0 +1,9 @@
+# Réponse à la question n° 83485
+
+- Question : [83485](83485.md) — Question n° 83485 — instances consultatives; coût de fonctionnement
+
+## Réponse
+
+*JO du 2016-01-19*
+
+Les attributions de la Commission nationale de sécurité de la navigation de plaisance (CNSNP) ainsi que ses modalités de fonctionnement sont définies par les articles 17, 18 et 19 du décret no 84-810 relatif à la sauvegarde de la vie humaine, à l'habitabilité à bord des navires et à la prévention de la pollution. Elle permet à l'autorité ministérielle de disposer d'une commission consultative capable de se prononcer sur l'ensemble des sujets relatifs à la sécurité des activités de plaisance, la sauvegarde de la vie humaine en mer mais aussi de tout projet de réglementation sur la sécurité plaisance et leur évolution. Dans le cadre de l'approbation des navires de plaisance de grande dimension (longueur supérieure à 24 mètres), elle apporte son expertise dans l'étude d'une grande diversité de types de navires tels que des yachts pouvant être utilisés dans le cadre d'activités commerciales, des navires de compétition ou des navires traditionnels tels que l'Hermione. La CNSNP examine les recours des commissions régionales de sécurité pour les navires de plaisance de moins de 24 mètres. Elle constitue un gisement d'expertise représentative de la diversité des acteurs de la filière nautique qui génère 4,5 milliards de chiffre d'affaires annuel et 50 000 emplois en France. Cette commission s'est réunie 9 fois au cours de l'année 2014. Elle a étudié 11 dossiers relatifs à des évolutions réglementaires et 24 dossiers relatifs à l'approbation de navires. Le coût global de cette commission est faible pour l'année 2014. Il s'élève à 4 052 euros. L'essentiel de cette somme (3 883 euros) est représenté par les coûts de transport remboursés aux membres en raison de leur éloignement géographique.
