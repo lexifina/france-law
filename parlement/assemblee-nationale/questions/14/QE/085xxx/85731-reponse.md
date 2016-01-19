@@ -1,0 +1,9 @@
+# Réponse à la question n° 85731
+
+- Question : [85731](85731.md) — Question n° 85731 — coûts; rapport parlementaire; propositions
+
+## Réponse
+
+*JO du 2016-01-19*
+
+Parmi les 61 propositions formulées dans le rapport sur le coût économique et financier de la pollution de l'air publié par le Sénat le 15 juillet 2015, la proposition no 28 a pour objet de favoriser les études et les recherches médicales innovantes en matière de pollution de l'air et en épigénétique. Les études d'évaluation des effets sur la santé de la pollution de l'air peuvent permettre notamment de documenter les liens entre exposition à la pollution atmosphérique et santé, et de conduire des approches intégrées par source de pollution et/ou par type d'exposition, afin d'aider à la décision publique. Ces études permettent d'évaluer, de façon prospective puis de façon rétrospective, les effets sur la qualité de l'air d'une mesure et les impacts associés sur la santé, et la documentation de la contribution de la pollution de l'air aux inégalités sociales de santé en termes d'exposition à la pollution et de vulnérabilité aux effets sur la santé de la pollution. En France, des études en toxicologie et en épidémiologie sont notamment menées pour évaluer les effets sur la santé de la pollution de l'air. Elles relèvent de différents champs de compétence et associent divers organismes nationaux : de la recherche (institut national de la santé et de la recherche médicale, centre national de la recherche scientifique…), de l'expertise (agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail notamment), et de la surveillance sanitaire (institut de veille sanitaire -InVS- notamment). Le ministère chargé de la santé veillera à ce la proposition no 28 soit prise en compte par les différents comités d'orientation et de programmation de la recherche et des études de ces organismes.
