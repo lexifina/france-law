@@ -1,0 +1,9 @@
+# Réponse à la question n° 56955
+
+- Question : [56955](56955.md) — Question n° 56955 — espaces naturels sensibles; organisatiosn professionnelles; consultation
+
+## Réponse
+
+*JO du 2016-01-19*
+
+Les articles législatifs et réglementaires du chapitre II du Code de l'urbanisme consacré aux espaces naturels sensibles n'indiquent effectivement pas de manière explicite les organisations à consulter. Néanmoins, les zones de préemption sont définies avec l'accord du conseil municipal comme énoncé à l'article L.142-3 et il est précisé, comme vous l'avez noté, que les représentants des organisations professionnelles et agricoles et forestières sont consultés sur la délimitation de ces zones de préemption. Ainsi, il appartient au conseil municipal de prendre l'attache de ces représentants présents sur son territoire communal et habituellement présents dans les procédures de révision ou de modification du document d'urbanisme. C'est au porteur de projet d'identifier concrètement les organisations professionnelles concernées par le projet de préemption. Dans les faits, bien qu'ils ne soient pas explicitement désignés dans le code d'urbanisme, ces représentants sont régulièrement associés, de façon appropriée en fonction des activités professionnelles concernées. Il ressort de la jurisprudence que le large choix laissé à l'autorité administrative est volontaire. Il lui appartient de consulter les organisations professionnelles qu'elle estime être les plus en lien avec la délimitation proposée (cf. arrêt de la Cours administrative d'appel (CAA) de Nancy du 23 juin 2014 no 12NC01789). Il n'apparaît donc pas opportun de compléter les dispositions en vigueur au risque d'omettre des représentants, compte tenu de la diversité des territoires ruraux et des organisations professionnelles agricoles et forestières qui y sont implantées.
