@@ -1,0 +1,9 @@
+# Réponse à la question n° 66631
+
+- Question : [66631](66631.md) — Question n° 66631 — écotaxe; alternative
+
+## Réponse
+
+*JO du 2016-01-19*
+
+La mise en œuvre de la redevance kilométrique a rencontré des difficultés techniques, économiques et d'acceptabilités majeures qui ont conduit le Gouvernement, dans un premier temps, à l'ajourner puis, dans un deuxième temps, à l'abandonner. Dès le mois d'octobre 2014, compte tenu d'échanges préalables avec les chargeurs et les transporteurs routiers, un groupe de travail piloté par le secrétaire d'État chargé des transports, de la mer et de la pêche a été mis en place pour examiner les mesures permettant d'assurer le financement des infrastructures de transport par le secteur du transport routier de marchandises. Ce groupe de travail a principalement examiné deux modalités de contribution : une vignette par application de la directive européenne relative à la tarification du réseau transeuropéen de poids-lourds dite « Eurovignette » ; la prolongation de la mesure exceptionnelle décidée pour le budget 2015 consistant à rehausser de deux centimes la fiscalité pesant sur le gazole professionnel (taxe intérieure de consommation sur les produits énergétiques ou TICPE). Le groupe de travail a étudié de manière partenariale et approfondie ces deux scénarios à la fois en termes de possibilités juridiques, d'impact sur le secteur et de répartition entre les différents acteurs. Il est apparu que si elle présentait quelques avantages, la vignette n'était pas consensuelle parmi les acteurs et qu'en particulier le cadre communautaire limitait très fortement les dispositifs possibles. La plus grande partie des acteurs économiques a, en revanche considéré, que le rehaussement de la TICPE constituait le meilleur compromis notamment dans la mesure où elle était simple à percevoir et facilement traductible dans les échanges entre chargeurs et transporteurs. C'est donc ce mécanisme qui a été pérennisé.
