@@ -1,0 +1,9 @@
+# Réponse à la question n° 53838
+
+- Question : [53838](53838.md) — Question n° 53838 — périodes d'activité à l'étranger; réglementation
+
+## Réponse
+
+*JO du 2016-01-19*
+
+Compte tenu des liens économiques et des flux de personnes qui se développent entre la France et l'Australie, ainsi que de la forte attente des expatriés et des entreprises françaises pour la conclusion d'un accord de sécurité sociale, le Gouvernement a entrepris des négociations en ce sens avec l'Australie. Deux sessions se sont ainsi tenues respectivement à Canberra, début mars 2008, et à Paris, fin avril 2010, mais n'ont pas permis d'aboutir. En effet, la recherche d'un accord équilibré qui soit bénéfique à l'ensemble des Français s'est avérée complexe, l'Australie souhaitant limiter le bénéfice de l'accord aux seules personnes titulaires d'un droit de séjour permanent. Or, les Français travaillant en Australie sont dans leur grande majorité des personnes qui bénéficient de titres de travail de courte durée. Le Gouvernement français est cependant disposé à reprendre des échanges avec le Gouvernement australien sur ce sujet. Dans ce contexte, les Français établis en Australie qui souhaitent s'ouvrir des droits à retraite auprès du régime général ont la possibilité d'adhérer à la Caisse des Français de l'étranger (CFE). La CFE gère en effet, pour le compte de la Caisse nationale d'assurance vieillesse (CNAV), l'assurance volontaire vieillesse (AVV) des travailleurs Français expatriés. Ont ainsi la faculté de s'assurer volontairement contre le risque vieillesse les anciens assurés d'un régime obligatoire de retraite, dans la mesure où ils justifient qu'ils relevaient de ce régime depuis au moins six mois et à condition de déposer leur demande d'adhésion à la CFE dans un délai de six mois. Ont également la faculté de s'assurer les personnes qui ont été à la charge, à quelque titre que ce soit, d'un régime obligatoire d'assurance maladie pendant une durée de cinq ans.
