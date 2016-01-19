@@ -1,0 +1,9 @@
+# Réponse à la question n° 85694
+
+- Question : [85694](85694.md) — Question n° 85694 — conseillers communautaires; répartition des sièges; réglementation
+
+## Réponse
+
+*JO du 2016-01-19*
+
+La loi no 2015-991 du 7 août 2015 portant nouvelle organisation territoriale de la République (NOTRe) prévoit la mise en œuvre de nouveaux schémas départementaux de coopération intercommunale. Le V de l'article 35 de la loi précitée prévoit les modalités de composition de l'organe délibérant des établissements publics de coopération intercommunale (EPCI) à fiscalité propre en cas de création, de modification de périmètre ou de fusion de l'EPCI à fiscalité propre. Si, avant la prise des arrêtés définitifs de création, modification de périmètre ou de fusion d'EPCI à fiscalité propre, les communes n'ont pas déterminé le nombre et la répartition des sièges, elles disposeront d'un délai de trois mois à compter de la prise des arrêtés définitifs de périmètre pour délibérer sur la composition de l'organe délibérant, sans que ces délibérations ne puissent intervenir après le 15 décembre 2016. A l'issue de ce délai, le préfet arrêtera la composition de l'organe délibérant de l'EPCI à fiscalité propre. A défaut de délibérations concordantes dans le délai précité en faveur d'un accord local, la composition du conseil communautaire sera fixée par arrêté suivant des modalités de droit commun prévues au II à V de l'article L. 5211-6-1 du code général des collectivités territoriales (CGCT), c'est-à-dire à la représentation proportionnelle à la plus forte moyenne. Dans l'hypothèse d'une fusion de deux communautés de communes, le nombre de conseillers communautaires pourra être ainsi déterminé soit par accord local soit par application de règles de répartition proportionnelle à la plus forte moyenne. Le principe constitutionnel d'égalité devant le suffrage sera dans tous les cas ainsi respecté.
