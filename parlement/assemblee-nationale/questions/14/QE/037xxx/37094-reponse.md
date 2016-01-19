@@ -1,0 +1,9 @@
+# Réponse à la question n° 37094
+
+- Question : [37094](37094.md) — Question n° 37094 — trains de banlieue; suroccupation; horaires des salariés; adaptations
+
+## Réponse
+
+*JO du 2016-01-19*
+
+Les usagers des lignes du Transilien, comme beaucoup d'usagers des transports publics en Île-de-France, rencontrent des difficultés importantes dans leurs déplacements au quotidien. Le réseau francilien, soumis à la constante augmentation du nombre de voyageurs demande, pour faire face à ce défi, un effort sans précédent de renouvellement et de modernisation figurant au nouveau contrat plan État-région (CPER) Île-de-France signé le 9 juillet 2015. Par ailleurs, lors de sa visite au centre de commandement unifié du RER B de Denfert Rochereau le 28 avril dernier, le Secrétaire d'Etat chargé des transports, le Président de la région Île de France, Président du STIF, ont présenté leurs 4 priorités pour les transports en Île-de-France en présence des présidents de la SNCF et de la RATP. Au-delà de ces mesures, l'optimisation des déplacements constitue également un moyen de décongestionner le trafic. La SNCF a exploré cette piste et sa proposition d'inciter les entreprises à décaler leurs horaires de travail a reçu un accueil favorable de la part de la communauté d'agglomération de Plaine-Commune, en Seine-Saint-Denis. Le territoire de celle-ci connaît en effet une forte expansion, en termes de sièges sociaux notamment. Desservi par les RER B et D, il se prête particulièrement bien à cette expérimentation. Ainsi, grâce au concours de cette communauté d'agglomération et de grandes entreprises du secteur privé, qui considèrent cette initiative avec intérêt, une quinzaine d'entre elles a accepté de se réunir en vue d'explorer et de tester, sur la base du volontariat, différentes solutions innovantes de mobilité, dont en particulier celle de l'élargissement des plages horaires. L'objectif est d'effacer 10 % de la demande en heure de pointe.
