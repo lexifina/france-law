@@ -1,0 +1,9 @@
+# Réponse à la question n° 76702
+
+- Question : [76702](76702.md) — Question n° 76702 — amiante; indemnisation
+
+## Réponse
+
+*JO du 2016-01-19*
+
+L'article 41 de la loi no 98-1194 du 23 décembre 1998 de financement de la sécurité sociale pour 1999 modifié dispose que l'allocation de cessation anticipée d'activité des travailleurs de l'amiante (ACAATA) est versée sous certaines conditions aux salariés et anciens salariés travaillant ou ayant travaillé dans un établissement de fabrication de matériaux contenant de l'amiante, de calorifugeage et de flocage à l'amiante ou de construction et de réparation navales figurant sur une liste établie par arrêté interministériel. A l'heure actuelle, la fonderie d'Autun ne figure pas sur la liste des établissements susceptibles d'ouvrir droit à l'ACAATA. Le fait que des salariés de cet établissement soient intervenus, en tant que salariés d'une entreprise extérieure par exemple, dans l'établissement « compagnie internationale de chauffage » devenu « BAXI France », inscrit par arrêté du 2 novembre 2013 sur cette liste pour la période 1983-2005, n'emporte pas attribution automatique de l'ACAATA aux intéressés. L'établissement « fonderie d'Autun » doit être inscrit en tant que tel sur la liste. Il appartient aux anciens salariés de cet établissement qui le souhaitent de solliciter cette inscription auprès de la direction générale du travail (DGT) du ministère du travail de l'emploi, de la formation professionnelle et du dialogue social. L'inscription d'un établissement sur la liste des établissements susceptibles d'ouvrir droit à l'ACAATA est conditionnée au fait que l'exercice des activité de fabrication de matériaux contenant de l'amiante, de flocage et de calorifugeage à l'amiante de l'établissement présente un caractère significatif. Ce caractère est apprécié au regard notamment de la fréquence des activités susmentionnées et de la proportion de salariés qui y ont été affectés.
