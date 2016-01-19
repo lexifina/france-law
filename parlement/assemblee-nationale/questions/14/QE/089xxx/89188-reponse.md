@@ -1,0 +1,9 @@
+# Réponse à la question n° 89188
+
+- Question : [89188](89188.md) — Question n° 89188 — aides à l'installation
+
+## Réponse
+
+*JO du 2016-01-19*
+
+L'aide à la restructuration permet la plantation d'une vigne en contrepartie de l'arrachage d'une superficie équivalente, dans l'objectif de reconvertir les variétés, de réimplanter les vignobles ou d'améliorer les techniques de gestion du vignoble. Un nouveau dispositif de gestion du potentiel de production est mis en place au niveau européen à partir du 1er janvier 2016. Le dispositif permet la croissance du vignoble à hauteur de 1 % par an en superficie. Il repose sur trois types d'autorisations : les autorisations de plantations nouvelles qui encadrent la possibilité de croissance du vignoble nationale, les autorisations de replantation en contrepartie de l'arrachage d'une superficie équivalente sur cette même exploitation et enfin les autorisations de plantation issues de la conversion d'un droit de plantation dans la période de transition avec le régime précédent. Dans ce cadre, seules les autorisations dites de « replantation » délivrées à l'issue d'un arrachage sont éligibles à l'aide à la restructuration. Les plantations réalisées à l'aide d'autorisations de plantations nouvelles ne sont pas éligibles à ce dispositif, ce qui, dans certaines situations, pose problème, notamment pour certains jeunes agriculteurs qui ont besoin d'accroître la superficie de leur exploitation. Dans ces cas, le cadre européen des aides du fonds européen agricole pour le développement rural (FEADER) permet la mise en place d'aides à la plantation de nouvelles vignes. Le ministère chargé de l'agriculture travaille sur cette problématique avec les régions qui sont désormais autorité de gestion du FEADER afin que, le cas échéant, si elles le souhaitent, elles puissent mettre en place un dispositif pour aider les plantations nouvelles de vignes dans leur plan de développement rural régional.
