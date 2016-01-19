@@ -1,0 +1,9 @@
+# Réponse à la question n° 62179
+
+- Question : [62179](62179.md) — Question n° 62179 — plan médical; accessibilité
+
+## Réponse
+
+*JO du 2016-01-19*
+
+L'information et la communication sur les maladies neuro-dégénératives constituent une priorité du nouveau plan maladies neuro-dégénératives 2014-2019 et font l'objet d'une mesure spécifique, la mesure 41 : mettre en place une politique d'information et de communication efficiente et évaluée pour changer le regard sur les maladies neuro-dégénératives. Cette mesure 41 comporte plusieurs actions permettant cette évolution : concevoir et soutenir des campagnes de communication adaptées et structurées en lien avec les associations de personnes malades ou de proches ; animer une véritable politique de diffusion des actions, initiatives, et expériences contribuant à faire connaître et partager tout ce qui se fait au bénéfice de l'intégration sociale, de la qualité de vie et de soins des personnes malades et de leurs proches ; mobiliser les possibilités du web et de l'open data pour créer de nouvelles formes d'expression des usagers, de services en direction du grand public, des malades et de leurs proches, des professionnels ; mettre à disposition des associations et de tous les professionnels un guide pratique et accessible permettant de présenter et de comprendre l'accompagnement médico-social. Cette initiative pourra également s'appuyer sur les travaux réalisés notamment pour les personnes touchées par une maladie rare (outils disponibles sur ORPHANET), pérenniser les évaluations existantes et soutenir de nouvelles initiatives en matière d'évaluation et d'enquêtes sur les représentations sociales et le regard porté sur les différentes maladies et permettra l'évolution du site internet actuellement utilisé dans le cadre du Plan Alzheimer 2008-2012.
