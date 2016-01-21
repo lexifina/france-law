@@ -8,9 +8,7 @@ Conversion partielle du total des résultats obtenus aux épreuves spécifiques
 
 Nota.-Pour prétendre à l'Abitur, les candidats doivent réussir la partie allemande de l'Abibac :
 
-Cette réussite est conditionnée à l'obtention d'une note supérieure à 5/15 pour chacune des épreuves.
-
-Les notes sont au nombre de 4. Le minimum de points est donc de 20 et le maximum de 60.
+Les quatre épreuves sont notées sur 15 points. La réussite à la partie allemande de l'Abibac est conditionnée à l'obtention d'un total de points supérieur ou égal à 20/60.
 
 A = Total des points obtenus sur 60 :
 
