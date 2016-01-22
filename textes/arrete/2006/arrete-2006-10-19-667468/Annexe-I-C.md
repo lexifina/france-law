@@ -414,6 +414,20 @@ Hydrolyse des liaisons endo-alpha-1-4 - glycosidiques des oligosaccharides et de
 
 Dose techniquement inévitable. |
 
+Alpha-amylase issue d'une souche génétiquement modifiée de Bacillus licheniformis (GICC03305) porteuse du gène codant une alpha-amylase de Geobacillus stearothermophilus. |
+
+Enzymes |
+
+Brasserie. Industrie de l'alcool.
+
+Amidonnerie, production de sirop de glucose.
+
+|
+
+Hydrolyse des liaisons alpha 1-4 glycosidiques des polysaccharides et des oligosaccharides. |
+
+Teneur résiduelle techniquement inévitable. |
+
 Alpha-amylase de Bacillus licheniformis obtenu par recombinaison homologue.
 
 |
@@ -2030,6 +2044,24 @@ Dose techniquement inévitable.
 
 |
 
+Exo-alpha amylase maltogène (ou 4-D glucan maltohydrolase) d'une souche génétiquement modifiée de Bacillus licheniformis (MDT06-221) contenant le gène synthétique codant une exo-alpha amylase maltogène de Geobacillus stearothermophilus. |
+
+Enzymes |
+
+Amidonnerie, production de sirop de glucose.
+
+Brasserie.
+
+Industrie de l'alcool potable.
+
+Panification (à l'exception du pain de tradition française) et panification spéciale, biscuiterie, pâtisserie et viennoiserie.
+
+|
+
+Hydrolyse des liaisons alpha-1-4 des chaînes d'amidon et d'oligosaccharides. |
+
+Teneur résiduelle techniquement inévitable. |
+
 Exo-α-amylase maltogène (ou 4-D glucan maltohydrolase) d'une souche génétiquement modifiée de Bacillus subtilis (SM) contenant le gène de Bacillus stearothermophilus.
 
 |
@@ -2373,6 +2405,20 @@ Glucose oxydase d'une souche (DS 31859) d'Aspergillus niger non génétiquement 
 Enzymes. |
 
 Œufs. |
+
+Hydrolyse du bêta D-glucose.
+
+L'activité glucose oxydase doit être associée à une activité catalase, en quantité suffisante pour dégrader le peroxyde d'hydrogène au fur et à mesure de sa formation.
+
+|
+
+Teneur résiduelle techniquement inévitable. |
+
+Glucose oxydase issue d'une souche génétiquement modifiée d'Aspergillus niger (ZGL) porteuse du gène codant une glucose oxydase de Penicillium chrysogenum. |
+
+Enzymes |
+
+Panification (à l'exception du pain de tradition française) et panification spéciale, biscuiterie, pâtisserie, biscotterie et viennoiserie. |
 
 Hydrolyse du bêta D-glucose.
 
@@ -3313,6 +3359,16 @@ Hydrolyse de l'ARN.
 Dose techniquement inévitable.
 
 |
+
+Phosphodiestérase I issue d'une souche non génétiquement modifiée de Leptographium procerum (DS14595). |
+
+Enzymes |
+
+Production d'extraits de levures autolysées riches en 5'nucléotides. |
+
+Hydrolyse de l'ARN. |
+
+Teneur résiduelle techniquement inévitable. |
 
 Phospholipase A1 produite par une souche génétiquement modifiée d'Aspergillus oryzae contenant le gène codant la phospholipase A1 de Fusarium venenatum (PP). |
 
@@ -4311,6 +4367,18 @@ Hydrolyse des liaisons peptidiques des protéines.
 Dose techniquement inévitable.
 
 |
+
+Xylanase issue d'une souche génétiquement modifiée d'Aspergillus acidus (RF7398) porteuse d'un gène codant une xylanase de Aspergillus acidus.
+
+|
+
+Enzymes |
+
+Panification (à l'exception du pain de tradition française) et panification spéciale, biscuiterie, pâtisserie, biscotterie et viennoiserie. |
+
+Hydrolyse des liaisons osidiques des hémicelluloses. |
+
+Teneur résiduelle techniquement inévitable. |
 
 Xylanase d'Aspergillus oryzae contenant le gène codant pour la xylanase de Thermomyces lanuginosus.
 

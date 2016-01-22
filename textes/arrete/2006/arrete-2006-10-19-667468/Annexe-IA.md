@@ -1262,6 +1262,16 @@ Teneur résiduelle techniquement inévitable.
 
 |
 
+Mélanges de copolymères d'oxyde d'éthylène et d'oxyde de propylène condensés sur sorbitol, sur glycérol ou estérifiés ou condensés sur glycérol. |
+
+Antimousse |
+
+Sucre (mi-) blanc cristallisé. |
+
+A la dose maximale de 40 g/T de cossettes pour la transformation de betteraves sucrières destinées à la production de sucre blanc cristallisé. |
+
+Teneur résiduelle techniquement inévitable. |
+
 Mélange de polystyrène et de polyvinylpyrrolidone réticulée obtenu par un procédé spécial et contenant au plus 8 mg de styrène par kg.
 
 |
