@@ -2,10 +2,10 @@
 
 Pour l'application du III de l'article R. 351-7 :
 
-1° Le montant de salaire prévu au deuxième alinéa est fixé à 1 290,13 € ;
+1° Le montant de salaire prévu au deuxième alinéa est fixé à 1 291,42 € ;
 
-2° Le montant du salaire ou de l'addition des deux salaires prévu au troisième alinéa est fixé à 1 935,20 €.
+2° Le montant du salaire ou de l'addition des deux salaires prévu au troisième alinéa est fixé à 1 937,14 €.
 
 NOTA :
 
-Conformément à l'article 2 de l'arrêté du 30 décembre 2014, les présentes dispositions sont applicables pour les prestations dues à compter du mois de janvier 2015.
+Conformément à l'article 9 de l'arrêté du 21 janvier 2016, les présentes dispositions sont applicables pour les prestations dues à compter du mois de janvier 2016.
