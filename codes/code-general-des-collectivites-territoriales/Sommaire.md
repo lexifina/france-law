@@ -22,31 +22,31 @@ Rubrique 1. Administration générale
 
 10. Consignation
 
-11. Gestion du patrimoine : location d'un bien immobilier
+11. Placement financier de certains fonds
 
-12. Placement financier de certains fonds
+12. Reversement d'excédents de budgets annexes
 
-13. Reversement d'excédents de budgets annexes
+13. Réduction de créances et admission en non-valeurs
 
-14. Réduction de créances et admission en non-valeurs
+14. Paiement de frais juridiques tarifés
 
-15. Paiement des frais d'actes et de contentieux
+15. Paiement sur décisions de justice
 
-16. Paiement des frais et des décisions de justice
+16. Remboursement d'emprunt et frais
 
-17. Remboursement d'emprunt et frais
+17. Impôts, taxes et versements assimilés
 
-18. Impôts, taxes et versements assimilés
-
-19. Transaction et remise gracieuse de dette
+18. Transaction et remise gracieuse de dette
 
 Rubrique 2. Dépenses de personnel
 
 21. Dépenses de personnel des collectivités territoriales, de leurs groupements, de leurs établissements publics et de leurs services d'hébergement de personnes âgées gérés en régie directe
 
-22. Dépenses de personnel des établissements publics de santé (EPS) et des établissements publics sociaux et médico-sociaux (ESMS)
+22. Dépenses de personnel des établissements publics de santé (EPS) et des établissements publics sociaux et médico-sociaux (EPSMS)
 
 23. Dépenses de personnel des associations syndicales de propriétaires
+
+24. Rémunérations d'agents d'autres collectivités publiques
 
 Rubrique 3. Dépenses liées à l'exercice de fonctions électives ou de représentation
 
@@ -56,25 +56,23 @@ Rubrique 3. Dépenses liées à l'exercice de fonctions électives ou de représ
 
 33. Autres dépenses
 
-Rubrique 4. Marchés publics
+Rubrique 4. Commande publique
 
-41. Travaux, fournitures et services répertoriés par l'article 3 du code des marchés publics
+40. Dédommagement pour retard de paiement
 
-42. Marchés publics passés selon une procédure adaptée prévue par les articles 28 ou 30 du code des marchés publics
+41. Marchés publics soumis au code des marchés publics
 
-43. Marchés publics passés selon une procédure formalisée prévue par l'article 26 du code des marchés publics
+42. Marchés publics soumis à l'ordonnance n° 2005-649 du 5 juin 2005
 
-44. Marchés passés sur le fondement d'un accord-cadre
+43. Délégations de service public
 
-45. Sous-traitance et paiement direct
+44. Les contrats de partenariat
 
-46. Coordination, groupements de commandes et centrales d'achats
+45. Les concessions de travaux
 
-47. Paiements à des tiers substitués au créancier initial
+46. Les concessions d'aménagement
 
-48. Paiements en situation exceptionnelle
-
-Rubrique 5. Acquisitions d'immeubles et opérations complexes
+Rubrique 5. Opérations portant sur les immeubles et les fonds de commerce
 
 51. Acquisitions amiables d'immeubles à titre onéreux
 
@@ -82,7 +80,9 @@ Rubrique 5. Acquisitions d'immeubles et opérations complexes
 
 53. Acquisitions d'immeubles selon des procédés de contrainte
 
-54. Opérations complexes
+54. Opérations conférant le droit de jouir d'un immeuble
+
+55. Opérations portant sur les fonds de commerce
 
 Rubrique 6. Interventions sociales et diverses
 
@@ -90,7 +90,7 @@ Rubrique 6. Interventions sociales et diverses
 
 62. Prêts et bourses
 
-63. Remise de prix, prestations diverses, gratifications
+63. Remise de prix, prestations diverses, gratifications, pécules
 
 64. Frais de transport des élèves et étudiants handicapés
 
@@ -114,51 +114,47 @@ Rubrique 7. Interventions économiques et financières
 
 Annexes de la liste des pièces justificatives
 
-ANNEXE V-aux articles D. 2224-1, D. 2224-2 et D. 2224-3-Le service public d'eau potable
+Annexe A. - Frais de déplacement des agents
 
-ANNEXE VI-aux articles D. 2224-1, D. 2224-2 et D. 2224-3-Le service public de l'assainissement
+Annexe B. - Etat de frais de changement de résidence
 
-Annexe A.-Frais de déplacement des agents
+Annexe C. - Enonciation des mentions devant figurer sur les factures ou les mémoires
 
-Annexe B.-Etat de frais de changement de résidence
+Annexe D. - Enonciation des mentions devant figurer sur le procès-verbal ou le certificat administratif pour le paiement d'un acompte
 
-Annexe C.-Enonciation des mentions devant figurer sur les factures ou sur les mémoires
+Annexe E. - Enonciations devant figurer sur l'état liquidatif des révisions et/ou des actualisations de prix
 
-Annexe D.-Enonciation des mentions devant figurer sur le procès-verbal ou le certificat administratif pour le paiement d'un acompte
+Annexe F. - Mentions relatives à l'affacturage
 
-Annexe E.-Enonciation devant figurer sur l'état liquidatif des révisions et / ou des actualisations de prix
+Annexe G. - Caractéristiques formelles des marchés publics et des accords-cadres
 
-Annexe F.-Mentions relatives à l'affacturage
+Annexe H. - Mentions obligatoires devant figurer dans un contrat de partenariat
 
-Annexe G.-Caractéristiques formelles des marchés publics et des accords-cadres
+Annexe I. - Tableau mensuel de service
 
-Annexe H.-Tableau mensuel de service
+Définitions et principes
 
-DÉFINITIONS ET PRINCIPES
+1. Collectivités
 
-1 COLLECTIVITÉS
+Dans la présente nomenclature, le terme collectivité s'entend aussi bien des collectivités territoriales que des établissements publics locaux et des établissements publics de santé (EPS) visés à l'article D. 1617-19 du code général des collectivités territoriales. Ce terme peut également viser les associations syndicales de propriétaires dotés d'un comptable public.
 
-Dans la présente nomenclature, le terme collectivité » s'entend aussi bien des collectivités territoriales que des établissements publics locaux et des établissements publics de santé visés à l'article D. 1617-19 du code général des collectivités territoriales.
+2. Décision
 
-Ce terme peut également viser les associations syndicales de propriétaires dotées d'un comptable public.
+La pièce émane, selon le cas, par exemple du conseil municipal, du conseil général, du conseil régional, ou du conseil d'administration ("délibération") ; de l'organe régulièrement habilité à agir en leurs lieu et place (commission permanente du conseil général ou du conseil régional, par exemple), ou de l'autorité exécutive (arrêté municipal ou arrêté du président du conseil régional, par exemple).
 
-2 DÉCISION
-
-La pièce émane, selon le cas, par exemple du conseil municipal, du conseil général, du conseil régional, ou du conseil d'administration (" délibération ") ; de l'organe régulièrement habilité à agir en leurs lieu et place (commission permanente du conseil général ou du conseil régional, par exemple), ou de l'autorité exécutive (arrêté municipal ou arrêté du président du conseil régional, par exemple).
-
-Lorsque la pièce justificative est un certificat émis par l'ordonnateur, la valeur probante de cette attestation suppose qu'elle soit signée par l'ordonnateur ou son délégataire tout comme un arrêté. Par contre, l'ordonnateur n'a pas l'obligation de signer une délibération produite au comptable dans la mesure où il en certifie le caractère exécutoire (cf. art.D. 1617-23 du code général des collectivités territoriales).
+Lorsque la pièce justificative est un certificat émis par l'ordonnateur, la valeur probante de cette attestation suppose qu'elle soit signée par l'ordonnateur ou son délégataire tout comme un arrêté. Par contre, l'ordonnateur n'a pas l'obligation de signer une délibération produite au comptable dans la mesure où il en certifie le caractère exécutoire (cf. article. D. 1617-23 du code général des collectivités territoriales).
 
 Le budget (budgets primitif et supplémentaire, budgets principal et annexes, états annexes) constitue une délibération que l'ordonnateur exécute dans la limite des crédits ouverts. Toutefois, en ce qui concerne la section de fonctionnement, une délibération spécifique doit être produite lorsque la réglementation en vigueur exige une intervention particulière de l'assemblée délibérante pour autoriser une dépense (approbation préalable de conventions ou de taux par l'assemblée).
 
 De la même façon, en ce qui concerne la section d'investissement, le budget est considéré comme délibération suffisante pour permettre à l'ordonnateur d'effectuer la dépense sans autre autorisation, dans la mesure où les crédits font l'objet d'une inscription clairement individualisée et où la réglementation en vigueur ne prescrit pas expressément une décision particulière de l'assemblée délibérante.
 
-S'agissant particulièrement des établissements publics de santé, la décision émane soit du conseil d'administration (délibération »), soit du directeur qui peut déléguer sa signature.
+L'Etat Prévisionnel des Recettes et des Dépenses (EPRD) constitue une décision (délibération pour les offices publics de l'habitat, décision du directeur pour les EPS) que le directeur exécute. Le directeur n'est tenu que par les crédits de personnels permanents inscrits à l'EPRD, ou par l'ensemble des crédits en cas d'arrêt de l'EPRD par le directeur de l'Agence Régionale de Santé (ARS), s'agissant des EPS, ou le préfet, s'agissant des offices publics de l'habitat (OPH).
+
+Concernant particulièrement les établissements publics de santé, les décisions émanent essentiellement du directeur, qui peut déléguer sa signature.
 
 S'agissant des associations syndicales de propriétaires dotées d'un comptable public, l'assemblée délibérante est le syndicat.
 
-L'état prévisionnel des recettes et des dépenses (EPRD) constitue une délibération que le directeur exécute. Le directeur n'est tenu que par les crédits de personnels permanents inscrits à l'EPRD, ou par l'ensemble des crédits en cas d'arrêt de l'EPRD par le directeur de l'agence régionale d'hospitalisation (ARH), suite à carence du conseil d'administration.
-
-3 LE CAS ÉCHÉANT, S'IL Y A LIEU, PRODUCTION DE LA PIÈCE JUSTIFICATIVE
+3. Le cas échéant, s'il y a lieu, production de la pièce justificative
 
 Ces termes sont utilisés dans la présente liste des pièces justificatives dans les cas suivants :
 
@@ -166,13 +162,11 @@ Première hypothèse :
 
 La production de la pièce justificative est subordonnée à la réalisation de conditions particulières prévues par la réglementation ou la collectivité :
 
-Exemple : prêts et avances (rubrique 71) :
+Exemple. - Prêts et avances (rubrique 71) :
 
 La justification des sûretés n'est exigée à l'appui du paiement que dans l'hypothèse où la délibération portant octroi du prêt l'exige.
 
-De même, une collectivité ou un établissement public local qui accorde à un organisme de droit privé une subvention d'un montant supérieur à certain seuil (art. 10 de la
-
-loi n o 2000-321 du 12 avril 2000) doit justifier de la passation d'une convention avec ledit organisme (rubrique 711).
+De même, une collectivité ou un établissement public local qui accorde à un organisme de droit privé une subvention d'un montant supérieur à certain seuil (article 10 de la loi n°2000-321 du 12 avril 2000) doit justifier de la passation d'une convention avec ledit organisme (rubrique 711).
 
 Deuxième hypothèse :
 
@@ -180,36 +174,28 @@ La réglementation spécifique à une collectivité ou à un établissement publ
 
 La décision de reversement d'un excédent de budget annexe ne concerne que les établissements publics locaux dont le statut ou le texte relatif au régime financier l'autorise.
 
-4 LA DISTINCTION ENTRE PREMIER PAIEMENT ET AUTRES PAIEMENTS
+4. L'utilisation de la liste des pièces justificatives pour le contrôle de la dépense
 
-La liste ci-après distingue, dans certains cas, les pièces justificatives à fournir à l'appui du premier mandatement de celles à fournir à l'appui des mandatements suivants.
+Les principes de mise en œuvre de la présente liste des pièces justificatives sont :
 
-Sur la pièce justificative jointe aux mandatements postérieurs au premier paiement-ou sur le document servant au mandatement lui-même-, il est fait référence aux pièces justificatives produites uniquement au premier mandatement.
+- La neutralité : La liste ne modifie pas les réglementations en vigueur. Elle n'en est que la conséquence.
 
-Les références à porter sont : ce numéro du mandatement de référence, le millésime de l'année d'imputation de la dépense initiale, l'imputation budgétaire de la dépense lors du premier paiement.
+- L'exhaustivité : Lorsqu'une dépense est répertoriée dans la liste, les pièces justificatives nécessaires au paiement de cette dépense y sont toutes énumérées. Lorsqu'une dépense n'est pas répertoriée dans la liste, le comptable doit demander, en se référant si possible à une dépense similaire répertoriée, les pièces justificatives qui lui permettent d'effectuer ses contrôles.
 
-5 L'UTILISATION DE LA LISTE DES PIÈCES JUSTIFICATIVES POUR LE CONTRÔLE DE LA DÉPENSE
+- Le caractère obligatoire : La liste est obligatoire en ce qu'elle constitue à la fois le minimum et le maximum des pièces justificatives exigibles par le comptable. Elle s'impose à la fois aux ordonnateurs, aux comptables et aux juges des comptes.
 
-Les principes de mise en oeuvre de la présente liste des pièces justificatives sont :
+Le contrôle hiérarchisé de la dépense permet au comptable de moduler ses contrôles en fonction des risques et des enjeux identifiés dans le respect des normes définies par le ministre en charge du budget. Cette modulation porte sur le moment du contrôle (contrôle a priori ou a posteriori) le champ du contrôle (contrôle exhaustif ou par échantillon) et l'intensité des contrôles (réaliser tout ou partie des contrôles), conformément aux dispositions émanant de l'arrêté du 25 juillet 2013 portant application du premier alinéa de l'article 42 du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique et encadrant le contrôle sélectif de la dépense.
 
--la neutralité : la liste ne modifie pas les réglementations en vigueur. Elle n'en est que la conséquence ;
+En complément du contrôle hiérarchisé de la dépense, le comptable et l'ordonnateur peuvent convenir de mettre en place un dispositif de contrôle allégé partenarial, selon la procédure décrite à l'arrêté du 11 mai 2011 pris en application du préambule de l'annexe I du code général des collectivités territoriales portant fixation des modalités de justification des dépenses des collectivités territoriales, de leurs établissements publics et des établissements publics de santé. Dans ce cas, l'ordonnateur est dispensé de produire les pièces justificatives, selon les modalités prévues par la convention signée à cet effet et dans la limite des dépenses inférieures ou égales à 400 euros.
 
--l'exhaustivité : lorsqu'une dépense est répertoriée dans la liste, les pièces justificatives nécessaires au paiement de cette dépense y sont toutes énumérées. Lorsqu'une dépense n'est pas répertoriée dans la liste, le comptable doit demander, en se référant si possible à une dépense similaire répertoriée, les pièces justificatives qui lui permettent d'effectuer ses contrôles ;
+5. Autofacturation et pièces justificatives sous forme dématérialisée
 
--le caractère obligatoire : la liste est obligatoire en ce qu'elle constitue à la fois le minimum et le maximum des pièces justificatives exigibles par le comptable. Elle s'impose à la fois aux ordonnateurs, aux comptables et aux juges des comptes.
+L'article 289-I-2 du CGI autorise le recours à l'autofacturation. Par ce dispositif, la collectivité territoriale ou l'établissement public local émet une facture au nom et pour le compte de son fournisseur. La collectivité ou l'établissement conserve la facture originale et envoie le double de cette facture à son fournisseur.
 
-Le contrôle hiérarchisé de la dépense permet au comptable de moduler ses contrôles en fonction des risques et des enjeux identifiés dans le respect des normes définies par le ministre en charge du budget. Cette modulation porte sur le moment du contrôle (contrôle a priori ou a posteriori), le champ du contrôle (contrôle exhaustif ou par échantillon) et l'intensité des contrôles (réaliser tout ou partie des contrôles).
+Dans cette hypothèse, le fournisseur doit donner expressément un mandat écrit et préalable au tiers ou au client pour émettre matériellement les factures en son nom et pour son compte (article 242 nonies de l'annexe II au CGI). Le mandat doit prévoir que "le fournisseur conserve l'entière responsabilité de ses obligations en matière de facturation et de ses conséquences au regard de la TVA".
 
-En complément du contrôle hiérarchisé de la dépense, le comptable et l'ordonnateur peuvent convenir de mettre en place un dispositif de contrôle allégé partenarial en respectant les normes définies par le ministre en charge du budget. Dans ce cas, le comptable peut, le cas échéant, dispenser l'ordonnateur de produire les pièces justificatives selon les modalités et sous un seuil fixé par arrêté du ministre en charge du budget.
+Le mandat est délivré soit pour une série d'opérations données, soit pour tout ou partie des opérations réalisées par le mandant sur une période déterminée par le contrat. Ce mandat doit être communiqué au comptable public à l'appui du premier mandat/ordonnancement de dépense concerné. Les mandats de dépenses suivants y font référence.
 
-6 AUTOFACTURATION ET PIÈCES JUSTIFICATIVES SOUS FORME DÉMATÉRIALISÉE
+Dans les conditions définies par le ministre en charge du budget et avant la conclusion de ce mandat, l'ordonnateur doit obtenir l'avis du comptable, notamment sur la forme des factures qu'il va ainsi émettre, qu'elles soient ou non dématérialisées, sur les modalités qu'il va mettre en œuvre au sein de ses services pour vérifier la réalité du service fait et sur les conditions de computation du délai global de paiement qui en découlent. Les factures doivent contenir toutes les mentions obligatoires prévues par l'article 242 nonies A à l'annexe II du CGI. Il est recommandé de faire figurer expressément la mention que "la facture est établie par X au nom et pour le compte de Y".
 
-L'article 289-I-2 du CGI autorise les recours à l'autofacturation. Par ce dispositif, la collectivité territoriale ou l'établissement public local émet une facture au nom et pour le compte de son fournisseur. La collectivité ou l'établissement conserve la facture originale et envoie le double de cette facture à son fournisseur.
-
-Dans cette hypothèse, le fournisseur doit donner expressément un mandat écrit et préalable au tiers ou au client pour émettre matériellement les factures en son nom et pour son compte (art. 242 nonies de l'annexe II du CGI). Le mandat doit prévoir que le fournisseur conserve l'entière responsabilité de ses obligations en matière de facturation et de ses conséquences au regard de la TVA.
-
-Le mandat est délivré soit pour une série d'opérations données, soit pour tout ou partie des opérations réalisées par le mandant sur un période déterminée par le contrat. Ce mandat doit être communiqué au comptable public à l'appui du premier mandat / ordonnancement de dépense concerné. Les mandats de dépenses suivants y font référence.
-
-Dans les conditions définies par le ministre en charge du budget et avant la conclusion de ce mandat, l'ordonnateur doit obtenir l'avis du comptable, notamment sur la forme des factures qu'il va ainsi émettre, qu'elles soient ou non dématérialisées, sur les modalités qu'il va mettre en oeuvre au sein de ses services pour vérifier la réalité du service fait et sur les conditions de computation du délai global de paiement qui en découlent. Les factures doivent contenir toutes les mentions obligatoires par l'article 242 nonies A à l'annexe II du CGI. Il est recommandé de faire expressément la mention que la facture est établie par X au nom et pour le compte de Y.
-
-Les conditions de la dématérialisation des pièces justificatives et de leur transmission, électronique ou non, sont fixées par l'article D. 1617-23 du code général des collectivités territoriales. Leur mise en oeuvre suppose la conclusion préalable d'une convention entre l'ordonnateur et le comptable.
+Les conditions de la dématérialisation des pièces justificatives et de leur transmission, électronique ou non, sont fixées par l'article D. 1617-23 du code général des collectivités territoriales et précisées par l'arrêté du 27 juin 2007 portant application de l'article D. 1617-23 du code général des collectivités territoriales relatif à la dématérialisation des opérations en comptabilité publique. Leur mise en œuvre suppose la conclusion préalable d'une convention entre l'ordonnateur et le comptable.

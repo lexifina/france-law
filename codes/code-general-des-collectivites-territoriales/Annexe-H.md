@@ -1,27 +1,27 @@
 # Article Annexe H
 
-TRAVAUX, FOURNITURES OU SERVICES N'ENTRANT PAS DANS LE CHAMP D'APPLICATION DU CODE DES MARCHÉS PUBLICS
+Mentions obligatoires devant figurer dans un contrat de partenariat
 
-Le cas échéant, l'ordonnateur certifie au comptable que la dépense relève d'un contrat visé à l'article 3 du code des marchés publics.
+1. Identification des parties contractantes ;
 
-Aux termes de l'article 3 du code des marchés publics, les dispositions de ce code ne sont pas applicables :
+2. Référence à la délibération ou à la décision autorisant la personne publique à passer le contrat de partenariat ;
 
--aux contrats conclus par la personne publique avec un cocontractant sur lequel elle exerce un contrôle comparable à celui qu'elle exerce sur ses propres services et qui réalise l'essentiel de ses activités pour elle, à condition que ce cocontractant applique, pour répondre à ses besoins propres, les règles de passation des marchés prévues au code des marchés publics ;
+3. Définition de l'objet du contrat de partenariat ;
 
--aux contrats de services conclus avec une autre personne publique ou avec une des personnes mentionnées à l'article 9 de la loi n o 91-3 du 3 janvier 1991 lorsque le cocontractant bénéficie sur le fondement d'une disposition légalement prise d'un droit exclusif ayant pour effet de lui réserver l'exercice d'une activité ;
+4. Durée ;
 
--aux contrats qui ont pour objet l'acquisition ou la location de terrains, de bâtiments existants ou d'autres biens immeubles, ou qui concernent d'autres droits sur ces biens, sauf s'ils comportent des clauses relatives au financement du prix ;
+5. Modalités de détermination de la rémunération du cocontractant comportant, notamment, la ventilation entre les coûts d'investissement, les coûts de fonctionnement et les coûts de financement et, le cas échéant, les recettes de valorisation ainsi que les modalités des variations de ces éléments pendant la durée du contrat ;
 
--aux contrats qui ont pour objet l'achat, le développement, la production ou la coproduction de programmes avec des organismes de radiodiffusion ou l'achat de temps de diffusion ;
+6. Conditions dans lesquelles est établi le partage des risques entre la personne publique et son cocontractant ;
 
--aux contrats qui ont pour objet des emprunts ou des engagements financiers, qu'ils soient destinés à la couverture d'un besoin de financement ou de trésorerie, des services relatifs à l'émission, à l'achat, à la vente ou au transfert de titres et instruments financiers, ou encore des services rendus par la Banque de France ou le Système européen de banques centrales ;
+7. Objectifs de performance assignés au cocontractant ;
 
--aux contrats relatifs à des programmes de recherche-développement auxquels la personne publique contribue sans les financer intégralement ni en acquérir complètement les résultats ;
+8. Sanctions et pénalités applicables au partenaire privé en cas de manquement à ses obligations, notamment en cas de non-respect des objectifs de performance, de la part du cocontractant ;
 
--aux contrats relatifs à des fournitures, des travaux ou des services conclus pour le compte d'une organisation internationale ;
+9. Le cas échéant, périodicité de reddition des comptes et leur mode de justification;
 
--aux contrats relatifs à des fournitures, des travaux ou des services conclus pour l'application d'un accord international concernant le stationnement des troupes ;
+10. Modalités de paiement, notamment conditions dans lesquelles, chaque année, les sommes dues par la personne publique à son cocontractant et celles dont celui-ci est redevable au titre de pénalités ou de sanctions, font l'objet d'une compensation ;
 
--aux contrats relatifs à des fournitures, des travaux ou des services conclus pour l'application d'un accord international passé entre la France et un ou plusieurs pays tiers en vue de la réalisation ou de l'exploitation d'un projet ou d'un ouvrage ;
+11. Conséquences de la fin, anticipée ou non, du contrat, notamment en ce qui concerne la propriété des ouvrages, équipements ou biens immatériels ;
 
--aux contrats qui ont pour objet l'achat d'oeuvres d'art ou d'objets anciens ou de collection.
+12. Comptable assignataire.
