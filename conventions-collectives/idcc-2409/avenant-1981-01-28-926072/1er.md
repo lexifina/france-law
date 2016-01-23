@@ -1,5 +1,0 @@
-# Article 1er
-
-Le 4e alinéa du protocole d'accord du 13 juin 1973est abrogé et remplacé par le suivant :
-
-« Dans le courant du mois de mars Gestion BTP effectuera le calcul des sommes dues et à percevoir et en informera les organismes et organisations intéressées.A la fin du même mois chaque organisme versera directement à chaque organisation sa part contributive. »
