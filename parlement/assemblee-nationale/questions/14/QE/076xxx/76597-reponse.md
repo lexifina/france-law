@@ -1,0 +1,9 @@
+# Réponse à la question n° 76597
+
+- Question : [76597](76597.md) — Question n° 76597 — enseignants; déontologie
+
+## Réponse
+
+*JO du 2016-01-26*
+
+Les mutations à Mayotte des personnels enseignants se font depuis la rentrée 2014 selon les règles de droit commun conformément aux dispositions de l'article 60 de la loi du 11 janvier 1984, comme suite à l'abrogation du décret no 96-1027 du 26 novembre 1996 relatif à la situation des fonctionnaires de l'Etat et de certains magistrats à Mayotte décidé par le gouvernement consécutivement au changement de statut du territoire. Des personnels de confession musulmane peuvent dans ce cadre souhaiter venir exercer à Mayotte, dont la population est elle-même en très grande majorité de confession musulmane. Dans ce cadre, les services du vice-rectorat comme l'ensemble des services académiques sont particulièrement vigilants à l'égard de tous les personnels en matière de prévention et de suivi d'éventuels comportements prosélytes ou radicaux. Dans le cadre des mesures mises en place par l'ensemble de académies, le vice-rectorat a ainsi créé un groupe de travail inter catégoriel "Laïcité"qui assure une formation des personnels (cadres et enseignants) et qui met à la disposition des établissements une cellule d'appui. Par ailleurs, un référent"Laïcité" a été nommé et les Assises de la mobilisation de l'Ecole et de ses partenaires pour les valeurs de la République ont lancé une dynamique visant à sensibiliser à la question et à partager et valoriser des actions citoyennes. Par ailleurs le vice-rectorat emploie un nombre important de contractuels pour pallier l'insuffisance de titulaires. Le contrat des intéressés stipule expressément que le personnel contractuel est soumis aux mêmes droits et obligations qu'un titulaire de la fonction publique et que parmi ces obligations figure "la défense des valeurs de la République".
