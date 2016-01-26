@@ -1,0 +1,9 @@
+# Réponse à la question n° 63397
+
+- Question : [63397](63397.md) — Question n° 63397 — enfants; protection
+
+## Réponse
+
+*JO du 2016-01-26*
+
+S'agissant de la régulation de la publicité à la télévision, des discussions ont eu lieu avec les professionnels des médias en 2008. Elles ont abouti à la signature le 18 février 2009 de la charte visant à promouvoir une alimentation et une activité physique favorables à la santé dans les programmes et les publicités télévisés par les ministres chargés de la santé et de la culture, le conseil supérieur de l'audiovisuel (CSA) et les grands acteurs du secteur audiovisuel (dont 17 chaînes regroupant l'audience la plus significative). Elle a été renouvelée en novembre 2013. Les bilans annuels de l'application de cette charte sont disponibles sur le site du CSA. En 2011, l'évaluation de l'impact de la charte concluait que le volume annuel d'émissions relatives à une bonne hygiène de vie et faisant référence au site www.mangerbouger.fr avait augmenté de 31%, passant de 789 heures en 2010 à 1036 heures en 2011. Pour la première fois et à la demande du CSA, des diffusions ont été réalisées sur les chaînes d'outre-mer. Concernant plus généralement des publicités et promotions en faveur de certains aliments et boissons, l'arrêté du 27 février 2007 fixe les conditions relatives aux informations à caractère sanitaire devant accompagner ces messages. Plusieurs études de l'Institut National de Prévention et d'Education pour la Santé ont montré qu'une grande majorité des Français ont accueilli favorablement ces messages sanitaires. Leur révision prévue dans le cadre du Programme National Nutrition Santé 2011-2015 sera faite après la révision des repères de consommation par l'agence nationale de sécurité sanitaire des aliments de l'environnement et du travail prévue au premier semestre 2016.
