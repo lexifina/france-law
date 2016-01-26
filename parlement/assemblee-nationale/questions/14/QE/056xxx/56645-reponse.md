@@ -1,0 +1,9 @@
+# Réponse à la question n° 56645
+
+- Question : [56645](56645.md) — Question n° 56645 — Direction générale de la concurrence, de la consommation et de la répression des fraudes; droit de communication; statistiques
+
+## Réponse
+
+*JO du 2016-01-26*
+
+Les agents de la concurrence, consommation et répression des fraudes (CCRF) disposent de pouvoirs propres qui leur permettent de demander communication de tous documents professionnels (article L. 450-3 du code de commerce) ou des documents de toute nature (article L. 215-3 du code de la consommation) et de recueillir les renseignements et justifications. Ces pouvoirs leur permettent ainsi d'obtenir communication des informations conservées par les opérateurs de communications électroniques en vertu de l'article L. 34-1 du code des postes et des communications électroniques (CPCE). C'est notamment ce qu'a admis la Cour d'appel de Paris dans quatre arrêts du 15 avril 2010. Une autorisation judiciaire n'est pas requise. L'absence d'une telle procédure préalable n'est pas exceptionnelle. Elle apparaît d'ailleurs comme le principe s'agissant des demandes de communication réalisées par les services de contrôle de l'Etat. Ainsi, les agents de la direction générale des douanes et droits indirects (DGDDI) et ceux de la direction générale des finances publiques (DGFiP) ont également accès à ces informations dans les mêmes circonstances. La direction générale de la concurrence, de la consommation et de la répression des fraudes (DGCCRF) n'effectue pas de demande de communication d'informations sur les appels téléphoniques ou les connexions internet de personnes privées. Les demandes qu'elle effectue ne concernent que des professionnels qui font l'objet d'enquêtes relatives à des fraudes importantes. Ces demandes visent à identifier le professionnel auteur des pratiques frauduleuses.
