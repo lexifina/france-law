@@ -1,0 +1,9 @@
+# Réponse à la question n° 74230
+
+- Question : [74230](74230.md) — Question n° 74230 — dons du sang; réforme; perspectives
+
+## Réponse
+
+*JO du 2016-01-26*
+
+En France, l'interdiction de la rémunération des dons de sang est absolue. C'est ainsi que sont prohibées les rémunérations directes ou indirectes (art. D.1221-1 du code de la santé publique), incluant la remise de bons d'achat, coupons de réduction, ou tout octroi d'un quelconque avantage. Cette prohibition de la rémunération du don de sang, explicite dans notre législation nationale, correspond à une tradition éthique dans laquelle les donneurs de sang et leurs associations ont joué un rôle essentiel. Les collectes sont organisées, en France, par l'Etablissements Français du Sang (EFS), qui dispose d'un monopole légal dans le domaine civil, et par le centre de transfusion sanguine des armées, qui intervient dans le seul secteur militaire et pour le besoin des armées. En outre, l'EFS a un monopole de préparation et de distribution de l'ensemble des produits sanguins labiles, directement issus du sang et des composants sanguins qu'il collecte sur le territoire. Par ailleurs, en ce qui concerne les médicaments dérivés du sang (MDS), produits à partir de plasma, le Laboratoire français des biotechnologies (LFB), société à capitaux publics, a l'exclusivité du fractionnement du plasma collecté par I'EFS et commercialise prioritairement sur le territoire français les médicaments qui en sont issus. Le projet d'ouverture du capital social du LFB est limité à un niveau minoritaire, et ne permettra en aucun de lui faire perdre son caractère public. Dès lors, le LFB demeurera une société contrôlée par l'Etat, et dont l'objet restera de distribuer prioritairement ses produits sur le territoire national. Il n'y a, dans ce cadre, aucune remise en cause du principe de séparation entre la structure assurant la collecte de sang, et celle assurant le fractionnement et la production des MDS.
