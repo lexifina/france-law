@@ -1,0 +1,9 @@
+# Réponse à la question n° 40569
+
+- Question : [40569](40569.md) — Question n° 40569 — ressources fiscales affectées; rapport; propositions
+
+## Réponse
+
+*JO du 2016-01-26*
+
+La collecte des données relatives à la fiscalité affectée est assurée par la direction du budget, qui consolide et expertise les chiffres des différents secteurs (organismes d'administrations centrales, secteur local, secteur social, divers). Ce travail de suivi et de prévision est ensuite restitué dans des documents budgétaires annexés au projet de loi de finances, afin d'apporter aux pouvoirs publics une meilleure visibilité sur les dispositifs existants et de renforcer ainsi la capacité de pilotage du Gouvernement et du Parlement en la matière. En ce qui concerne l'enrichissement des annexes budgétaires, les données relatives à la fiscalité affectée sont présentées dans l'évaluation des voies et moyens (tome 1) annexée au projet de loi de finances. Ce document a fortement évolué depuis 2012. Il présente aujourd'hui l'ensemble des dispositifs existants avec leur bénéficiaire, leur rendement de l'année précédente, une prévision de rendement pour l'année en cours et pour l'année suivante ainsi que leur référence législative. Afin d'apporter, outre cette description, des outils utiles au pilotage de la fiscalité affectée, un tableau récapitulatif du mécanisme de plafonnement y a également été intégré. On peut y suivre l'extension du périmètre de plafonnement, les réductions du niveau du plafond ainsi que les éventuelles suppressions ou rebudgétisations de taxes. Cette annexe budgétaire a vocation à être revue et complétée chaque année pour permettre un suivi optimal des réformes de la fiscalité affectée et prendre en compte les évolutions du périmètre qui en résultent, tout en préservant la profondeur historique nécessaire à l'analyse d'ensemble du phénomène d'affectation.
