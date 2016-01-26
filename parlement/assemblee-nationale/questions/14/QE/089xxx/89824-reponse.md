@@ -1,0 +1,9 @@
+# Réponse à la question n° 89824
+
+- Question : [89824](89824.md) — Question n° 89824 — rapport parlementaire; recommandations
+
+## Réponse
+
+*JO du 2016-01-26*
+
+Un usager non résident, qui disposait de revenus de source française imposables en France pendant sa période d'expatriation, est tenu de déposer deux déclarations l'année qui suit celle de son retour : - une déclaration no 2042-NR comprenant ses seuls revenus de source française, imposables en France, perçus du 1er janvier à la date du retour en France ; - une déclaration no 2042 comprenant l'ensemble des revenus perçus de la date du retour en France au 31 décembre. Les deux déclarations doivent être transmises à son service gestionnaire, le service des impôts des particuliers non-résidents, en mentionnant la nouvelle adresse en France, afin de permettre la transmission du dossier fiscal au nouveau service gestionnaire, le service des impôts du nouveau domicile en France. Cette transmission a donc lieu habituellement l'année qui suit celle du retour effectif en France, après le dépôt de la déclaration. Ce délai n'est pas spécifique aux usagers non-résidents de retour en France. Il s'applique de la même manière aux résidents qui changent d'adresse en France, relevant de services des impôts différents. Le délai de transfert, tel que décrit, est donc conforme à la procédure de déménagement des dossiers d'un service des impôts des particuliers (SIP) d'origine vers le SIP du nouveau domicile. Cela étant, si l'auteur de la question avait connaissance de dysfonctionnements particuliers affectant le délai raisonnablement nécessaire aux transferts entre SIP évoqués ci avant, il conviendrait qu'il en fasse part à la direction générale des finances publiques afin qu'ils puissent être utilement examinés et les processus revus en tant que de besoin.
