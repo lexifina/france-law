@@ -1,0 +1,9 @@
+# Réponse à la question n° 86877
+
+- Question : [86877](86877.md) — Question n° 86877 — défenseur des droits; propositions
+
+## Réponse
+
+*JO du 2016-01-26*
+
+La loi 2015-1463 du 12 novembre 2015, publiée au Journal officiel le 13 novembre 2015, autorise la ratification du protocole facultatif à la convention relative aux droits de l'enfant établissant une procédure de présentation de communications. La France reste plus que jamais mobilisée en faveur de la promotion des droits de l'enfant, de la reconnaissance de sa parole et du respect de son meilleur intérêt. La promotion de la santé scolaire relève en première ligne du ministère de l'éducation nationale. En application de la loi du 8 juillet 2013 d'orientation et de programmation pour la refondation de l'école de la République, qui prévoit qu'un texte réglementaire est pris par les ministres chargés de l'éducation nationale et de la santé pour définir le contenu et la périodicité des visites médicales et de dépistage obligatoires, la direction générale de la santé et la direction générale de l'enseignement scolaire ont retenu deux périodes clefs du développement de l'enfant, la sixième année et la douzième année. L'arrêté du 3 novembre 2015 relatif à la périodicité et au contenu des visites médicales et de dépistages obligatoires prévus à l'article L 541-1 du code de l'éducation nationale est parue au journal officiel du 6 novembre 2015. Par ailleurs, l'élaboration d'une convention-cadre entre les deux ministères est en prévision pour faciliter les collaborations entre les administrations territoriales du ministère chargé de l'éducation nationale, les établissements d'enseignement scolaire et les agences régionales de santé ; il s'agit en particulier de favoriser la prise en charge médicale et sociale des enfants en situation de vulnérabilité.
