@@ -1,0 +1,9 @@
+# Réponse à la question n° 67931
+
+- Question : [67931](67931.md) — Question n° 67931 — perspectives
+
+## Réponse
+
+*JO du 2016-01-26*
+
+En 2014, l'ensemble du commerce a réalisé un chiffre d'affaires de 1 401 milliards d'euros (HT). Les ventes en volume ont progressé de + 0,8 % après avoir baissé de - 0,2 % en 2013. L'emploi salarié dans l'ensemble du commerce est passé, en moyenne annuelle, de 3 003 100 emplois en 2013 à 2 999 400 en 2014, soit une baisse de 3 700 emplois. On constate toutefois des disparités entre les différents secteurs du commerce : dans le commerce de détail, 8 000 emplois ont été créés, alors que 5 800 emplois ont été perdus dans le commerce de gros et 5 900 dans le commerce et la réparation automobile. Le nombre d'entreprises dans l'ensemble du commerce est passé, entre 2013 et 2014, de 747 000 à 782 200, soit une hausse de + 4,7 % et le nombre de créations d'entreprises demeure élevé : 107 772 contre 106 980 en 2013. Au-delà des chiffres, l'appropriation du numérique par les très petites entreprises (TPE) et les petites et moyennes entreprises (PME), y compris celles du commerce, est un facteur clé de la modernisation du système économique français. Afin d'accélérer la diffusion des usages du numérique, le Gouvernement a lancé en 2012 le programme « transition numérique » destiné à structurer l'offre de conseil numérique de proximité à l'attention des TPE et des PME, tant dans les réseaux publics et para publics (réseaux des chambres de commerce et d'industrie -CCI- et des chambres de métiers et de l'artisanat -CMA-, échangeurs, centres de ressources…) que dans les réseaux privés. En juin 2015, le rapport « ambition numérique », issu des travaux du conseil national du numérique a été remis au Premier ministre, et 70 propositions ont été formulées, dont certaines sont dédiées au commerce et à l'artisanat, notamment la mise en place d'une offre globale d'accès au numérique pour les TPE et PME.
