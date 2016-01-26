@@ -1,0 +1,9 @@
+# Réponse à la question n° 69680
+
+- Question : [69680](69680.md) — Question n° 69680 — finances publiques locales; Cour des comptes; rapport; recommandations
+
+## Réponse
+
+*JO du 2016-01-26*
+
+La réforme territoriale a été engagée par la loi no 2014-58 du 27 janvier 2014 de modernisation de l'action publique territoriale et d'affirmation des métropoles (MAPTAM) et la loi no 2015-29 du 16 janvier 2015 relative à la délimitation des régions, aux élections régionales et départementales et modifiant le calendrier électoral. Elle s'est poursuivie avec l'adoption de la loi no 2015-991 du 7 août 2015 portant nouvelle organisation territoriale de la République (NOTRe). Il s'agit de moderniser en profondeur l'organisation territoriale par une clarification des compétences permettant d'identifier les responsabilités de chacun des acteurs de la puissance publique, et de simplifier les relations entre l'Etat et les collectivités territoriales. L'Etat demeure le responsable des choix stratégiques, ainsi que du contrôle de l'application des lois, de la protection des citoyens et de la cohésion sociale comme territoriale. Les collectivités territoriales assurent la déclinaison et la mise en œuvre de leurs compétences au plus près des populations et des territoires. S'agissant des compétences du bloc communal, la loi MAPTAM a déjà procédé à un certain nombre de transferts de plein droit aux métropoles et communautés urbaines (eau, assainissement, tourisme, déchets…). La loi NOTRe poursuit ce mouvement de mutualisation et de rationalisation des compétences et prévoit le transfert des compétences eau, assainissement, déchets, gens du voyage et développement économique de plein droit aux communautés de communes et aux communautés d'agglomération. La recommandation de la Cour des comptes d'opérer les transferts de compétence des communes aux intercommunalités par champ d'intervention se trouve ainsi satisfaite.
