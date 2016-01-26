@@ -1,0 +1,9 @@
+# Réponse à la question n° 83266
+
+- Question : [83266](83266.md) — Question n° 83266 — instances consultatives; coût de fonctionnement
+
+## Réponse
+
+*JO du 2016-01-26*
+
+La commission interministérielle, prévue par l'article 5 du décret no 97-663 du 29 mai 1997 pris en application de l'article 34 de la loi de finances rectificative pour 1995, est composée de représentants du ministère chargé du budget, du ministère de la culture et de la communication, du ministère de l'artisanat, du commerce et du tourisme ainsi que du ministère de l'intérieur. Chargée d'émettre un avis sur les demandes d'abattement supplémentaire sur le produit des jeux formulées par les casinos pour leur contribution à l'organisation de manifestations artistiques, elle se réunit généralement deux fois par an. Les demandes d'abattement présentées sont préalablement instruites pour leur partie financière par les services déconcentrés de la direction générale des finances publiques (DGFiP), l'appréciation de la qualité artistique des manifestations en cause étant du ressort du ministère de la culture et de la communication et de ses directions régionales. La commission, qui se prononce sur la qualité artistique de la manifestation et les états de dépenses et recettes présentés à l'appui de la demande, est organisée et animée par le service de la gestion fiscale de la direction générale des finances publiques. Elle ne dispose donc pas de moyens financiers spécifiques. Afin de simplifier cette procédure, l'article 39 de la loi no 2014-1655 du 29 décembre 2014 de finances rectificative pour 2014 a réformé ce dispositif en remplaçant l'abattement supplémentaire par un crédit d'impôt et en déconcentrant au niveau local le processus de décision. Cette mesure, qui s'applique aux manifestations artistiques organisées à compter du 1er novembre 2015, se traduira par la suppression de cette commission interministérielle.
