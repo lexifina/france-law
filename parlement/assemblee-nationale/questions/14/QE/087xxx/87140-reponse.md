@@ -1,0 +1,9 @@
+# Réponse à la question n° 87140
+
+- Question : [87140](87140.md) — Question n° 87140 — décrets; bilan
+
+## Réponse
+
+*JO du 2016-01-26*
+
+En application des articles L. 542-5, L. 755-21 et L. 831-4 du code de la sécurité sociale, les paramètres de calcul des allocations logement sont révisés chaque année au 1er octobre. Les paramètres ainsi revalorisés sont les plafonds de loyer, la mensualité maximale de remboursement d'emprunt, le loyer de référence, le terme constant de la participation minimale de l'allocataire, la majoration forfaitaire au titre des charges et le montant forfaitaire de loyer en service collectif. Ils sont indexés sur le dernier taux d'évolution de l'indice de référence des loyers publié par l'institut national de la statistique et des études économiques (INSEE), soit pour la revalorisation au 1er octobre 2014 une augmentation de 0,57 %. Le décret no 2014-1245 du 27 octobre 2014 relatif au calcul des allocations de logement a simplifié la procédure antérieure en renvoyant à un seul arrêté la revalorisation de tous les paramètres révisés au 1er octobre en lieu et place d'un décret pour les équivalences de loyer et d'un arrêté pour les autres paramètres. L'arrêté du 27 octobre 2014 relatif à la revalorisation des paramètres de calcul de l'allocation de logement a revalorisé l'ensemble des paramètres de calcul des allocations de logement au taux de 0,57 %. Ces revalorisations annuelles ne font pas l'objet d'un bilan spécifique. Cependant, chaque année, la commission des comptes du logement et la caisse nationale des allocations familiales (CNAF) fournit des éléments chiffrés sur le nombre de bénéficiaires et sur la dépense des aides personnelles au logement. Ces données qui permettent de mesurer les évolutions intervenues au cours des dernières années sont disponibles sur les sites internet du ministère du logement, de l'égalité des territoires et de la ruralité et de la CNAF.
