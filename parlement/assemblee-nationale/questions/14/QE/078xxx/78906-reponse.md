@@ -1,0 +1,9 @@
+# Réponse à la question n° 78906
+
+- Question : [78906](78906.md) — Question n° 78906 — Canada; retraites; Québec; alignement
+
+## Réponse
+
+*JO du 2016-01-26*
+
+La France et le Canada sont liés par un accord de sécurité sociale, conclu le 9 février 1979, qui permet, depuis l'origine, une coordination en matière de retraite entre les deux Etats. Il prévoit en effet (articles 14 à 17) que chaque État rémunère les périodes d'assurance accomplies sous sa législation. Pour la liquidation de la pension, il peut être fait appel, en cas de besoin, aux périodes d'assurance accomplies sous la législation de l'autre État. La coordination en matière de retraite avec le Canada s'effectue à deux niveaux : entre les pensions française et canadienne d'une part, et entre le système fédéral et les éventuelles pensions des différentes provinces, d'autre part. Mais ce dernier aspect n'est pas du ressort de la convention franco-canadienne qui porte sur le seul niveau fédéral. L'accord franco-canadien de 1979 a fait l'objet d'une renégociation, selon la volonté conjointe des autorités françaises et canadiennes de le moderniser. Signé le 14 mars 2013, ce nouvel accord concerne l'ensemble des personnes qui sont ou ont été soumises à la législation de l'un des deux Etats, ainsi que les personnes à leur charge, quelle que soit leur nationalité. En outre, il prend désormais en compte les conventions de sécurité sociale passées par la France et le Canada avec des pays tiers et autorise la totalisation des périodes cotisées au Québec dans le calcul des pensions de retraite coordonnées. Ce nouvel accord, dont les procédures de ratification sont achevées côté canadien, est actuellement en cours d'approbation parlementaire conformément à l'article 53 de la Constitution. Il entrera en vigueur le premier jour du 4ème mois suivant la notification par chaque Etat de l'accomplissement de ses procédures de ratification.
