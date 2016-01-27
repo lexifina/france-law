@@ -30,21 +30,19 @@ Les analyses sont de type RP, RS, RSadd, P1, P2, D1 ou D2, avec :
 
 Tableau 1
 
-CONTENU DES ANALYSES TYPES
+Contenu des analyses types
 
 RESSOURCE
 
 |
 
-POINT DE MISE
-
-EN DISTRIBUTION
+POINT DE MISE EN DISTRIBUTION
 
 |
 
-DISTRIBUTION aux robinets
+DISTRIBUTION AUX ROBINETS
 
-visés à l'article R. 1321-5 (1°)
+visés à l'article R. 1321-5-1°
 
 |
 
@@ -76,7 +74,7 @@ D2
 
 |
 
-Paramètres microbiologiques
+PARAMÈTRES MICROBIOLOGIQUES
 
 |
 
@@ -86,13 +84,13 @@ Paramètres microbiologiques
 
 |
 
-Spores de microorganismes anaérobies sulfito-réducteurs (pour les eaux d'origine superficielle ou influencées par une eau d'origine superficielle)
+Spores de micro-organismes anaérobies sulfito-réducteurs (pour les eaux d'origine superficielle ou influencées par une eau d'origine superficielle)
 
 |
 
 |
 
-Spores de microorganismes anaérobies sulfito-réducteurs (pour les eaux d'origine superficielle ou influencées par une eau d'origine superficielle)
+Spores de micro-organismes anaérobies sulfito-réducteurs (pour les eaux d'origine superficielle ou influencées par une eau d'origine superficielle)
 
 |
 
@@ -116,39 +114,31 @@ Bactéries coliformes
 
 |
 
-Entérocoques intestinaux
+Entérocoques
+
+intestinaux
 
 |
 
-Entérocoques intestinaux
+Entérocoques
 
-|
-
-|
-
-Entérocoques intestinaux
-
-|
-
-|
-
-Entérocoques intestinaux
+intestinaux
 
 |
 
 |
 
-Escherichia coli
+Entérocoques
+
+intestinaux
 
 |
 
-Escherichia coli
-
 |
 
-|
+Entérocoques
 
-Escherichia coli
+intestinaux
 
 |
 
@@ -158,6 +148,20 @@ Escherichia coli
 
 |
 
+Escherichia coli
+
+|
+
+|
+
+Escherichia coli
+
+|
+
+|
+
+Escherichia coli
+
 |
 
 |
@@ -166,19 +170,37 @@ Escherichia coli
 
 |
 
-Dénombrement des microorganismes revivifiables à 22° C et 36° C
+|
+
+Dénombrement des micro-organismes revivifiables à 22 °C et 36 °C
 
 |
 
 |
 
-Dénombrement des microorganismes revivifiables à 22° C et 36° C
+Dénombrement des micro-organismes revivifiables à 22 °C et 36 °C
 
 |
 
 |
 
-Paramètres chimiques et organoleptiques
+PARAMÈTRES CHIMIQUES ET ORGANOLEPTIQUES
+
+|
+
+|
+
+|
+
+Acide perfluorooctanesulfonique (PFOS) (8)
+
+|
+
+|
+
+|
+
+|
 
 |
 
@@ -236,23 +258,23 @@ Aluminium (lorsqu'il est utilisé comme agent de floculation)
 
 |
 
-Ammonium (NH4 +)
+Ammonium (NH4+)
 
 |
 
-Ammonium (NH4 +)
-
-|
-
-|
-
-Ammonium (NH4 +)
+Ammonium (NH4+)
 
 |
 
 |
 
-Ammonium (NH4 +)
+Ammonium (NH4+)
+
+|
+
+|
+
+Ammonium (NH4+)
 
 |
 
@@ -398,9 +420,7 @@ Bore (2)
 
 |
 
-Bromates
-
-(si l'eau subit un traitement d'ozonation ou un traitement de chloration)
+Bromates (si l'eau subit un traitement d'ozonation ou un traitement de chloration)
 
 |
 
@@ -412,7 +432,7 @@ Bromates
 
 |
 
-Diphényléther-bromés : somme des congénères n° s 28, 47, 99, 100, 153 et 154
+Diphényléthers bromés (8) : tétrabromodiphényléther, pentabromodiphényléther, hexabromodiphényléther, heptabromodiphényléther
 
 |
 
@@ -496,9 +516,7 @@ Chlore libre et total (ou tout autre paramètre représentatif du traitement de 
 
 |
 
-Chlorites
-
-(si l'eau subit un traitement au dioxyde de chlore)
+Chlorites (si l'eau subit un traitement au dioxyde de chlore)
 
 |
 
@@ -506,9 +524,7 @@ Chlorites
 
 |
 
-Chloroalcanes
-
-C10-13
+Chloroalcanes C10 -13
 
 |
 
@@ -704,15 +720,13 @@ Magnésium
 
 |
 
-|
-
-1, 2-dichloroéthane
+1,2-dichloroéthane
 
 |
 
 |
 
-1, 2-dichloroéthane
+1,2-dichloroéthane
 
 |
 
@@ -740,7 +754,9 @@ Dichlorométhane
 
 |
 
-Di-(2-éthylhexyl) phtalate
+Di-
+
+(2-éthylhexyl) phtalate
 
 |
 
@@ -790,11 +806,11 @@ Equilibre calcocarbonique (5)
 
 |
 
-Fer dissous (sur échantillon filtré à 0, 45 µm)
+Fer dissous (sur échantillon filtré à 0,45 µm)
 
 |
 
-Fer dissous (sur échantillon filtré à 0, 45 µm)
+Fer dissous (sur échantillon filtré à 0,45 µm)
 
 |
 
@@ -836,21 +852,21 @@ Fluorures (F-) (2)
 
 |
 
-Hydrocarbures aromatiques polycycliques : somme de fluoranthène, benzo [b] fluoranthène, benzo [k] fluoranthène, benzo [a] pyrène, benzo [g, h, i] pérylène et indéno [1, 2, 3-cd] pyrène
+Hydrocarbures aromatiques polycycliques : somme de fluoranthène, benzo[b]fluoranthène, benzo[k]fluoranthène, benzo[a]pyrène, benzo[g,h,i]pérylène et indéno[1, 2, 3-cd]pyrène
 
 |
 
-Hydrocarbures aromatiques polycycliques (par substance individuelle) : anthracène, naphtalène, fluoranthène, benzo [b] fluoranthène, benzo [k] fluoranthène, benzo [a] pyrène, benzo [g, h, i] pérylène et indéno [1, 2, 3-cd] pyrène
-
-|
-
-|
+Hydrocarbures aromatiques polycycliques (par substance individuelle) : anthracène, naphtalène, fluoranthène, benzo[b]fluoranthène, benzo[k]fluoranthène, benzo[a]pyrène, benzo[g,h,i]pérylène et indéno[1, 2, 3-cd]pyrène
 
 |
 
 |
 
-Hydrocarbures aromatiques polycycliques : benzo [a] pyrène (substance individuelle) et somme de benzo [b] fluoranthène, benzo [k] fluoranthène, benzo [g, h, i] pérylène et indéno [1, 2, 3-cd]-pyrène
+|
+
+|
+
+Hydrocarbures aromatiques polycycliques : benzo[a]pyrène (substance individuelle) et somme de benzo[b]fluoranthène, benzo[k]fluoranthène, benzo[g,h,i]pérylène et indéno[1, 2, 3-cd]pyrène
 
 |
 
@@ -1002,7 +1018,7 @@ Nitrates (NO3-)
 
 |
 
-Nitrates (NO3-) (si plusieurs ressources en eau au niveau de l'unité de distribution dont une au moins délivre une eau dont la concentration en nitrates est supérieure à 50 mg / L)
+Nitrates (NO3-) (si plusieurs ressources en eau au niveau de l'unité de distribution dont une au moins délivre une eau dont la concentration en nitrates est supérieure à 50 mg/L)
 
 |
 
@@ -1050,7 +1066,7 @@ Nitrites (NO2-)
 
 |
 
-4-(1, 1', 3, 3'-tétraméthylbutyl)-phénol
+4-(1,1',3,3'-tétraméthylbutyl) -phénol
 
 |
 
@@ -1070,7 +1086,7 @@ Pesticides (par substance individuelle)
 
 |
 
-Pesticides (par substance individuelle) : alachlore, atrazine, chlorfenvinphos, chlorpyrifos, diuron, endosulfan (somme des isomères alpha-et bêta-), hexachlorobutadiène, hexachlorocyclohexane (somme des isomères alpha-, bêta-, delta-, gamma-), isoproturon, pentachlorobenzène, pentachlorophénol, simazine et trifluraline
+Pesticides (par substance individuelle) : alachlore, atrazine, chlorfenvinphos, chlorpyrifos, diuron, endosulfan (somme des isomères alpha- et bêta-), hexachlorobutadiène, hexachlorocyclo-hexane (somme des isomères alpha-, bêta-, delta-, gamma-), isoproturon, pentachlorobenzène, pentachlorophénol, simazine, trifluraline, aclonifène (8), bifénox (8), cybutryne (8), cyperméthrine (8), dichlorvos (8), dicofol (8) heptachlore (8), époxyde d'heptachlore (8), quinoxyfène (8), terbutryne (8)
 
 |
 
@@ -1088,19 +1104,25 @@ Potentiel hydrogène (pH)
 
 |
 
-Potentiel hydrogène (pH)
+Potentiel hydrogène
+
+(pH)
 
 |
 
 |
 
-Potentiel hydrogène (pH)
+Potentiel hydrogène
+
+(pH)
 
 |
 
 |
 
-Potentiel hydrogène (pH)
+Potentiel hydrogène
+
+(pH)
 
 |
 
@@ -1126,7 +1148,9 @@ Phosphore total (P2O5)
 
 |
 
-Phosphore total (P2O5)
+Phosphore total
+
+(P2O5)
 
 |
 
@@ -1312,7 +1336,7 @@ Trihalométhanes : somme de chloroforme, bromoforme, dibromochlorométhane et br
 
 |
 
-Trihalométhanes : somme de chloroforme, bromoforme, dibromochlorométhane et bromodichlorométhane (s'il y a une rechloration ou si la teneur en chlore > 0, 5 mg / L)
+Trihalométhanes : somme de chloroforme, bromoforme, dibromochlorométhane et bromodichlorométhane (s'il y a une rechloration ou si teneur en chlore > 0,5 mg/L)
 
 |
 
@@ -1354,8 +1378,6 @@ Hydrogénocarbonates
 
 |
 
-|
-
 Tributylétain-cation
 
 |
@@ -1372,7 +1394,7 @@ Tributylétain-cation
 
 |
 
-Trichlorobenzène : somme des isomères 1, 2, 4-, 1, 2, 3-et 1, 3, 5-
+Trichlorobenzène : somme des isomères 1,2,4-, 1,2,3- et 1,3,5-
 
 |
 
@@ -1438,7 +1460,7 @@ Zinc (Zn)
 
 |
 
-Paramètres radiologiques
+PARAMÈTRES RADIOLOGIQUES
 
 |
 
@@ -1496,13 +1518,15 @@ Tritium (2, 1, 7)
 
 (3) La limite de qualité se réfère à la concentration résiduelle en monomères dans l'eau, calculée conformément aux spécifications de la migration maximale du polymère correspondant en contact avec l'eau.
 
-(4) Seulement nécessaire lorsque les observations visuelles et / ou analytiques mettent en évidence un risque de prolifération de cyanobactéries.
+(4) Seulement nécessaire lorsque les observations visuelles et/ou analytiques mettent en évidence un risque de prolifération de cyanobactéries.
 
 (5) Les concentrations en calcium, magnésium et potassium doivent être exprimées par le laboratoire d'analyses concomitamment au calcul de l'équilibre calcocarbonique.
 
 (6) Ce paramètre doit être mesuré pour les systèmes de production et de distribution desservant au moins 5 000 habitants.
 
-(7) Afin de déterminer l'activité bêta globale résiduelle, le potassium doit être recherché concomitamment à la mesure des paramètres radiologiques. La mesure du potassium est réalisée lors de la mesure de l'équilibre calcocarbonique. En cas de valeurs supérieures à 0, 1 Bq / L (activité alpha globale) ou 1, 0 Bq / L (activité bêta globale), il est procédé à l'analyse des radionucléides spécifiques définis dans l'arrêté mentionné à l'article R. 1321-20.
+(7) Afin de déterminer l'activité bêta globale résiduelle, le potassium doit être recherché concomitamment à la mesure des paramètres radiologiques. La mesure du potassium est réalisée lors de la mesure de l'équilibre calco-carbonique. En cas de valeurs supérieures à 0,1 Bq/L (activité alpha globale) ou 1,0 Bq/L (activité bêta globale), il est procédé à l'analyse des radionucléides spécifiques définis dans l'arrêté mentionné à l'article R. 1321-20.
+
+(8) La première analyse de ces paramètres doit être réalisée avant le 31 décembre 2018.
 
 |
 

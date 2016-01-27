@@ -36,19 +36,17 @@ RS
 
 |
 
-RSadd (9)
-
-|
+RSadd |
 
 Inférieur à 10
 
 |
 
-0, 2 (8)
+0, 2 (9)
 
 |
 
-0, 5 (8)
+0, 5 (9)
 
 |
 
@@ -58,7 +56,7 @@ De 10 à 99
 
 |
 
-0, 2 (8)
+0, 2 (9)
 
 |
 
@@ -72,7 +70,7 @@ De 100 à 1 999
 
 |
 
-0, 5 (8)
+0, 5 (9)
 
 |
 
@@ -132,9 +130,7 @@ Supérieur ou égal à 20 000
 
 |
 
-(8) 0, 2 et 0, 5 correspondent respectivement à une analyse tous les 5 ans et tous les 2 ans.
-
-(9) Les analyses de type RSadd sont à réaliser sur une année civile et pour la première fois en 2010.
+(9) 0, 2 et 0, 5 correspondent respectivement à une analyse tous les 5 ans et tous les 2 ans.
 
 (10) Ces fréquences de prélèvements et d'analyses s'appliquent aux paramètres définis dans le tableau 1 de l'annexe I (RSadd). Pour les paramètres cadmium, mercure, nickel, plomb et les hydrocarbures aromatiques polycycliques, également contrôlés dans les analyses de type RS, ces fréquences se substituent à celles des analyses de type RS.
 
@@ -162,9 +158,7 @@ Lorsqu'un réseau de distribution dessert plusieurs communes, le nombre d'analys
 
 Tableau 2
 
-Fréquences annuelles des prélèvements d'échantillons d'eau
-
-et d'analyses d'eau aux points de mise en distribution et d'utilisation
+Fréquences annuelles des prélèvements d'échantillons d'eau et d'analyses d'eau aux points de mise en distribution et d'utilisation
 
 POPULATION DESSERVIE
 
@@ -516,4 +510,6 @@ Supérieur ou égal à 125 000
 
 (14) Pour cette catégorie, une analyse supplémentaire doit être réalisée par tranche supplémentaire de 25 000 m³ / j du volume total.
 
-(15) Pour cette catégorie, trois analyses supplémentaires doivent être réalisées par tranche supplémentaire de 1 000 m³ / j du volume total. |
+(15) Pour cette catégorie, trois analyses supplémentaires doivent être réalisées par tranche supplémentaire de 1 000 m³ / j du volume total.
+
+|
