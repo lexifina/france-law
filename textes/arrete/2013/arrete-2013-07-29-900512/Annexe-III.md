@@ -390,13 +390,9 @@ S'arrêter et stationner en épi, en bataille et en créneau.
 
 .
 
-3. - CIRCULER
+3. CIRCULER
 
-dans des conditions difficiles
-
-et partager la route
-
-avec les autres usagers
+dans des conditions difficiles et partager la route avec les autres usagers
 
 |
 
@@ -420,21 +416,19 @@ RISQUES
 
 INFLUENCES
 
-de son entourage
-
-et de son mode de vie
+de son entourage et de son mode de vie
 
 |
 
 PRESSIONS
 
-exercées par la
-
-société : publicité, travail...
+exercées par la société : publicité, travail …
 
 |
 
-AUTOÉVALUATION
+AUTO-
+
+ÉVALUATION
 
 |
 
@@ -558,6 +552,26 @@ Conduire dans une file de véhicules et dans une circulation dense.
 
 |
 
+Connaître les règles relatives à la circulation inter-files des motocyclistes. Savoir en tenir compte.
+
+|
+
+□
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
 Conduire quand l'adhérence et la visibilité sont réduites.
 
 |
@@ -578,11 +592,13 @@ Conduire quand l'adhérence et la visibilité sont réduites.
 
 |
 
-Conduire à l'abord et dans la traversée d'ouvrages routiers tels que les tunnels, les ponts...
+Conduire à l'abord et dans la traversée d'ouvrages routiers tels que les tunnels, les ponts …
 
 |
 
 □
+
+|
 
 |
 

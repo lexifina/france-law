@@ -4,71 +4,39 @@ PARTIE PÉDAGOGIQUE DU LIVRET D'APPRENTISSAGE
 
 DE LA CATÉGORIE BE
 
-Vous pouvez consulter le tableau dans le JO
+Vous pouvez consulter l'intégralité du tableau dans le JORF n° 121 du 25/05/2014 texte numéro 16 au lien suivant : https://www.legifrance.gouv.fr/download/pdf?id=mzx6jUB6RJK9ZP7BuBQsayVuWr0oZmjTy5LY7ucMcns=.
 
-n° 121 du 25/05/2014 texte numéro 16
+3. CIRCULER
 
-http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20140525&numTexte=16&pageDebut=08559&pageFin=08564
-
-3. - CIRCULER
-
-dans des conditions difficiles
-
-et partager la route
-
-avec les autres usagers
-
-|
+dans des conditions difficiles et partager la route avec les autres usagers |
 
 |
 
 POURQUOI :
 
-raisons
-
-|
+raisons |
 
 COMMENT :
 
-procédures
+procédures |
 
-|
-
-RISQUES
-
-|
+RISQUES |
 
 INFLUENCES
 
-de son entourage
-
-et de son mode
-
-de vie
-
-|
+de son entourage et de son mode de vie |
 
 PRESSIONS
 
-exercées par la
+exercées par la société : publicité, travail … |
 
-société : publicité, travail...
+AUTO-
 
-|
-
-AUTOÉVALUATION
-
-|
+EVALUATION |
 
-Evaluer et maintenir les distances de sécurité.
-
-|
-
-□
-
-|
+Evaluer et maintenir les distances de sécurité. |
 
-|
+□ |
 
 |
 
@@ -79,16 +47,12 @@ Evaluer et maintenir les distances de sécurité.
 |
 
 |
-
-Croiser, dépasser, être dépassé.
 
 |
 
-□
-
-|
+Croiser, dépasser, être dépassé. |
 
-|
+□ |
 
 |
 
@@ -99,16 +63,12 @@ Croiser, dépasser, être dépassé.
 |
 
 |
-
-Négocier les virages de façon sécurisante.
 
 |
 
-□
+Négocier les virages de façon sécurisante. |
 
-|
-
-|
+□ |
 
 |
 
@@ -120,13 +80,11 @@ Négocier les virages de façon sécurisante.
 
 |
 
-Connaître les caractéristiques des autres usagers (notamment les usagers vulnérables) et savoir se comporter à leur égard avec respect et courtoisie.
-
 |
 
-□
+Connaître les caractéristiques des autres usagers (notamment les usagers vulnérables) et savoir se comporter à leur égard avec respect et courtoisie. |
 
-|
+□ |
 
 |
 
@@ -140,11 +98,9 @@ Connaître les caractéristiques des autres usagers (notamment les usagers vuln�
 
 |
 
-Quitter un stationnement, repartir après un arrêt et s'insérer dans la circulation.
-
-|
+Quitter un stationnement, repartir après un arrêt et s'insérer dans la circulation. |
 
-□
+□ |
 
 |
 
@@ -158,13 +114,11 @@ Quitter un stationnement, repartir après un arrêt et s'insérer dans la circul
 
 |
 
-|
+S'insérer, circuler et sortir d'une voie rapide. |
 
-S'insérer, circuler et sortir d'une voie rapide.
+□ |
 
 |
-
-□
 
 |
 
@@ -176,15 +130,11 @@ S'insérer, circuler et sortir d'une voie rapide.
 
 |
 
-|
+Conduire dans une file de véhicules et dans une circulation dense. |
 
 |
 
-Conduire dans une file de véhicules et dans une circulation dense.
-
 |
-
-□
 
 |
 
@@ -196,22 +146,26 @@ Conduire dans une file de véhicules et dans une circulation dense.
 
 |
 
-|
+Connaître les règles relatives à la circulation inter-files des motocyclistes. Savoir en tenir compte. |
 
-|
+□ |
 
-Conduire en déclivité.
+|
 
 |
 
-□
+|
 
 |
 
 |
 
 |
+
+Conduire en déclivité. |
 
+□ |
+
 |
 
 |
@@ -220,13 +174,13 @@ Conduire en déclivité.
 
 |
 
-Conduire quand l'adhérence et la visibilité sont réduites.
+|
 
 |
 
-□
+Conduire quand l'adhérence et la visibilité sont réduites. |
 
-|
+□ |
 
 |
 
@@ -240,11 +194,9 @@ Conduire quand l'adhérence et la visibilité sont réduites.
 
 |
 
-Conduire à l'abord et dans la traversée d'ouvrages routiers tels que les tunnels, les ponts...
-
-|
+Conduire à l'abord et dans la traversée d'ouvrages routiers tels que les tunnels, les ponts … |
 
-□
+□ |
 
 |
 

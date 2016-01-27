@@ -32,6 +32,8 @@ Explication et échanges sur les comportements par rapport au phénomène vitess
 
 ― vitesse et conséquences sur l'équilibre, la force centrifuge, le freinage, l'adhérence.
 
+Explications et échanges sur l'expérimentation relative à la circulation inter-files des motocyclistes et sur les règles encadrant cette pratique.
+
 Explication et échanges sur les raisons du caractère indispensable du port des équipements de protection pour la sécurité et sur les conséquences, pour l'intégrité physique du motard, de l'absence d'équipement ou d'un équipement inadapté en cas d'accident et/ou de chute.
 
 Conduite et produits psychoactifs :
@@ -86,7 +88,7 @@ L'objectif de cette séquence est de réaliser un audit de la conduite du ou des
 
 ― dans le véhicule suiveur pren(nent) place l'enseignant, installé au poste de conduite, en liaison radio avec l'élève conducteur de la motocyclette ainsi que, le cas échéant, au maximum trois autres élèves en situation d'écoute pédagogique ;
 
-― chaque élève effectue 30 minutes au minimum de conduite, à l'issue desquelles 10 minutes sont consacrées au bilan de sa prestation.
+― chaque élève effectue 30 minutes au minimum de conduite, à l'issue desquelles 10 minutes sont consacrées au bilan de sa prestation. L'élève peut pratiquer la circulation inter-files dans les départements autorisés et si les conditions de sécurité et la situation d'apprentissage le permettent.
 
 Ce bilan comprend :
 

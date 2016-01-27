@@ -32,6 +32,8 @@ L'objectif de cette phase formation est de permettre au futur conducteur de moto
 
 ― anticiper et détecter les dangers ;
 
+― de connaître l'expérimentation et les règles encadrant la circulation inter-files des motocyclistes ;
+
 ― de savoir se rendre détectable ;
 
 ― d'être sensibilisé à l'importance de s'équiper de vêtements protecteurs (casque à la bonne taille et attaché, gants, pantalon, blouson avec dorsale, chaussures montantes) ;
@@ -79,6 +81,8 @@ L'objectif de cette phase de formation est de permettre au futur conducteur de m
 ― adapter sa vitesse aux situations ― respecter les distances de sécurité latérales et longitudinales ;
 
 ― choisir la voie de circulation ;
+
+― savoir pratiquer la circulation inter-files dans les départements autorisés et si les conditions de sécurité et la situation d'apprentissage le permettent ;
 
 ― se placer sur la chaussée en fonction des autres véhicules, connaître et prendre en compte les spécificités des véhicules lourds (angles morts) ;
 

@@ -468,13 +468,9 @@ Franchir les ronds-points et les carrefours à sens giratoire.
 
 .
 
-3. - CIRCULER
+3. CIRCULER
 
-dans des conditions difficiles
-
-et partager la route
-
-avec les autres usagers
+dans des conditions difficiles et partager la route avec les autres usagers
 
 |
 
@@ -498,23 +494,19 @@ RISQUES
 
 INFLUENCES
 
-de son entourage
-
-et de son mode
-
-de vie
+de son entourage et de son mode de vie
 
 |
 
 PRESSIONS
 
-exercée par la
-
-société : publicité, travail...
+exercées par la société : publicité, travail …
 
 |
 
-AUTOÉVALUATION
+AUTO-
+
+évaluation
 
 |
 
@@ -638,7 +630,7 @@ Connaître les particularités des véhicules lourds et savoir se rendre visible
 
 |
 
-S'insérer, circuler et sortir d'une voie rapide.
+S'insérer, circuler et sortir d'une voie rapide
 
 |
 
@@ -678,6 +670,28 @@ Conduire dans une file de véhicules et dans une circulation dense.
 
 |
 
+Connaître les règles relatives à la circulation inter-files.
+
+Savoir la pratiquer dans les départements autorisés et si les conditions de sécurité et la situation d'apprentissage le permettent.
+
+|
+
+□
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
 Conduire quand l'adhérence et la visibilité sont réduites.
 
 |
@@ -698,11 +712,13 @@ Conduire quand l'adhérence et la visibilité sont réduites.
 
 |
 
-Conduire à l'abord et dans la traversée d'ouvrages routiers tels que les tunnels, les ponts...
+Conduire à l'abord et dans la traversée d'ouvrages routiers tels que les tunnels, les ponts …
 
 |
 
 □
+
+|
 
 |
 

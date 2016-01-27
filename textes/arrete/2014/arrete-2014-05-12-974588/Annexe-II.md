@@ -8,13 +8,9 @@ Vous pouvez consulter le tableau dans le JO n° 121 du 25/05/2014 texte numéro 
 
 http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20140525&numTexte=18&pageDebut=08572&pageFin=08578
 
-4. - CIRCULER
+4. CIRCULER
 
-dans des conditions difficiles
-
-et partager la route
-
-avec les autres usagers
+dans des conditions difficiles et partager la route avec les autres usagers
 
 |
 
@@ -38,23 +34,19 @@ RISQUES
 
 INFLUENCES
 
-de son entourage
-
-et de son mode
-
-de vie
+de son entourage et de son mode de vie
 
 |
 
 PRESSIONS
 
-exercées par la
-
-société : publicité, travail...
+exercées par la société : publicité, travail …
 
 |
 
-AUTOÉVALUATION
+AUTO-
+
+EVALUATION
 
 |
 
@@ -198,6 +190,26 @@ Conduire dans une file de véhicules et dans une circulation dense.
 
 |
 
+Connaître les règles relatives à la circulation inter-files des motocyclistes. Savoir en tenir compte.
+
+|
+
+□
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
 Conduire en déclivité.
 
 |
@@ -238,7 +250,7 @@ Conduire quand l'adhérence et la visibilité sont réduites.
 
 |
 
-Conduire à l'abord et dans la traversée d'ouvrages routiers tels que les tunnels, les ponts...
+Conduire à l'abord et dans la traversée d'ouvrages routiers tels que les tunnels, les ponts …
 
 |
 
