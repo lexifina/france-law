@@ -1,0 +1,9 @@
+# Réponse à la question SEQ151018247
+
+- Question : [SEQ151018247](seq151018247.md) — Lait pour bébé et aluminium
+
+## Réponse
+
+*Affaires sociales, santé et droits des femmes, JO du 2016-01-28, page 327*
+
+L'aluminium est un métal naturellement présent dans l'environnement. Les effets cliniques avérés de l'aluminium sont observés dans des situations de fortes expositions chroniques (par exemple, dans différents secteurs de la production ou du travail des métaux). À ce jour, aucune étude n'a mis en évidence de tels effets dans la population générale, exposée à travers l'alimentation courante. L'exposition moyenne française est inférieure à la dose hebdomadaire tolérable provisoire (DHTP) définie par l'autorité européenne de sécurité des aliments (EFSA) de 1 mg/kg poids corporel/semaine. C'est ce que montre la deuxième étude française de l'alimentation totale (EAT 2) menée par l'agence nationale de sécurité sanitaire des aliments, de l'environnement et du travail (ANSES) indiquant que l'exposition moyenne de la population française à l'aluminium est estimée à 0,28 mg/kg poids corporel/semaine chez les adultes et 0,42 mg/kg poids corporel/semaine chez les enfants (de 3 à 17 ans). Dans le cadre de l'étude de l'alimentation totale infantile (« EATi ») actuellement menée par l'ANSES, les concentrations en aluminium sont en cours de mesure dans l'ensemble du régime alimentaire des enfants de 0 à 3 ans. Cette étude permettra de déterminer les quantités totales d'aluminium auxquelles cette population est exposée (notamment via les préparations infantiles) et d'évaluer le risque sanitaire lié à la présence de cette substance dans l'alimentation. En fonction de ces conclusions, des recommandations de consommation ou d'évolution de la réglementation pourront être émises. Les résultats de cette étude sont attendus très prochainement, en début d'année 2016.
