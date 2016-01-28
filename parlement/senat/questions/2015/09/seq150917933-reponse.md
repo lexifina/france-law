@@ -1,0 +1,9 @@
+# Réponse à la question SEQ150917933
+
+- Question : [SEQ150917933](seq150917933.md) — Rachat des assurances vie
+
+## Réponse
+
+*Budget, JO du 2016-01-28, page 330*
+
+Conformément aux dispositions du deuxième alinéa du I de l'article 125-0 A du code général des impôts (CGI), les produits des bons ou contrats de capitalisation ou d'assurance-vie sont exonérés d'impôt sur le revenu, quelle que soit leur durée, lorsque le rachat ou le dénouement du bon ou du contrat résulte notamment du licenciement du bénéficiaire ou de son conjoint ou partenaire à un pacte civil de solidarité (PACS). Conformément aux précisions apportées dans la réponse ministérielle n° 97715, publiée au Journal officiel le 3 avril 2012, l'exonération ne s'applique que si l'intéressé s'est trouvé privé d'emploi pour une raison indépendante de sa volonté et a été inscrit comme demandeur au Pôle emploi. Tel n'est pas le cas lorsque la perte de l'emploi résulte d'une rupture conventionnelle du contrat de travail dans les conditions prévues aux articles L. 1237-11 et suivants du code du travail. En effet, contrairement au licenciement, la rupture conventionnelle du contrat de travail ne saurait être imposée au salarié et résulte d'un commun accord entre employeur et employé. Dès lors, le contribuable qui se trouve sans emploi par suite d'une rupture conventionnelle de son contrat de travail ne peut bénéficier, en cas de rachat partiel ou total, de l'exonération des produits des bons ou contrats considérés. Ces produits sont imposables dans les conditions de droit commun au barème progressif de l'impôt sur le revenu ou, sur option du contribuable, au prélèvement forfaitaire libératoire au taux et dans les conditions prévues au II de l'article 125-0 A du CGI. Ces produits bénéficient, le cas échéant, d'un abattement d'assiette de 4 600 € ou 9 200 € selon la situation de famille.
