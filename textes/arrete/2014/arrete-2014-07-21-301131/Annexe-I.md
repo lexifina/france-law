@@ -14,7 +14,7 @@ La période d'enseignement théorique des techniciens supérieurs principaux de 
 
 D'une durée de quatre mois, cet enseignement doit permettre aux techniciens supérieurs principaux de l'économie et de l'industrie d'acquérir une vision globale de l'organisation et des missions de leurs structures administratives d'emploi et de maîtriser les principes de base ainsi que les connaissances nécessaires à l'exercice de leurs futurs métiers.
 
-Cet enseignement dispensé au cours de la formation de tronc commun se déroule sur huit semaines à l'ENSMD en alternance avec des périodes d'insertion dans le service d'affectation.
+Cet enseignement dispensé au cours de la formation de tronc commun se déroule sur huit semaines à l'établissement spécialisé de formation en alternance avec des périodes d'insertion dans le service d'affectation.
 
 Les enseignements fondamentaux dispensés lors de cette phase se déclinent en trois axes :
 
@@ -42,7 +42,7 @@ c) Connaissances de l'ensemble des métiers exercés par les techniciens supéri
 
 D'une durée de deux mois, cet enseignement a pour objectif de préparer les techniciens supérieurs principaux de l'économie et de l'industrie à l'exercice des missions de leur premier poste d'affectation par des enseignements liés aux domaines d'activité dans lesquels ils assurent leurs fonctions.
 
-Les enseignements dispensés au cours de la phase d'option se déroulent sur environ quatre semaines à l'ENSMD en alternance avec des périodes d'insertion dans le service d'affectation.
+Les enseignements dispensés au cours de la phase d'option se déroulent sur environ quatre semaines à l'établissement spécialisé de formation en alternance avec des périodes d'insertion dans le service d'affectation.
 
 Ces enseignements portent en particulier sur les matières suivantes :
 
