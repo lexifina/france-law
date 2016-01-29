@@ -98,6 +98,8 @@ Directeur du service interarmées des munitions
 
 Commandant du centre du soutien des opérations et des acheminements
 
+Commandant du centre interarmées de coordination du soutien
+
 |
 
 Armée de terre
@@ -124,7 +126,7 @@ Directeur du centre interarmées d'administration des opérations
 
 Directeurs du commissariat en opération extérieure
 
-|
+Directeur du centre d'expertise de soutien général des armées |
 
 191. - RECHERCHE DUALE
 
