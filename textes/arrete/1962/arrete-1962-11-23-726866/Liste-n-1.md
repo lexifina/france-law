@@ -296,7 +296,7 @@ Hérault |
 
 |
 
-Biarritz-Bayonne-Anglet |
+Biarritz-Pays Basque |
 
 Pyrénées-Atlantiques |
 
