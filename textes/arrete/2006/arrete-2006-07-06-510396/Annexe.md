@@ -4,73 +4,45 @@ PROGRAMME DES ÉPREUVES
 
 Le programme ci-après, défini par domaines, indique les connaissances de base ainsi que les techniques dont les candidats sont supposés avoir acquis la maîtrise.
 
-Sont supposés connus les principaux textes législatifs et réglementaires appliqués dans l'exercice de la pratique professionnelle correspondant au sujet choisi par le candidat.
+Sont supposés connus les principaux textes législatifs et réglementaires appliqués dans l'exercice de la pratique professionnelle correspondant au domaine choisi par le candidat.
 
-1er domaine : mise en valeur agricole et forestière
-
-Sujet 1.1 : production agricole :
+Domaine 1 : politique et mise en valeur agricole, industries agroalimentaires
 
 Le cadre de la production agricole :
 
-- politique agricole commune : modalités de mise en oeuvre ;
+Politique agricole commune : modalités de mise en œuvre ;
 
-- marchés ;
+Marchés ;
 
-- gestion de l'exploitation agricole ;
+Gestion de l'exploitation agricole ;
 
-- activités agricoles, développement rural et environnement.
+Activités agricoles, développement rural et environnement.
 
 Les productions animales :
 
-- analyse des risques pour l'environnement ;
+Analyse des risques pour l'environnement ;
 
-- techniques de production ;
+Techniques de production ;
 
-- gestion technico-économique des productions ;
+Gestion technico-économique des productions ;
 
-- débouchés et filières.
+Débouchés et filières.
 
 Les productions végétales :
 
-- plante et milieu ;
+Plante et milieu ;
 
-- action sur le milieu et analyse des risques pour l'environnement ;
+Action sur le milieu et analyse des risques pour l'environnement ;
 
-- systèmes de production ;
+Systèmes de production ;
 
-- fonctionnement d'un processus de production végétale ;
+Fonctionnement d'un processus de production végétale ;
 
-- expérimentation et statistiques appliquées.
+Expérimentation et statistiques appliquées.
 
 La transformation et la commercialisation des produits.
 
-Sujet 1.2 : production forestière :
-
-Biodiversité, aménagement, et traitement des forêts ;
-
-Reboisement et boisement ;
-
-Dendrométrie ;
-
-Voirie forestière et topographie ;
-
-Equipements touristique et de protection ;
-
-Milieu forestier (notamment pédologie, pathologie et botanique forestières, phyto-écologie) ;
-
-Exploitation forestière (notamment méthodes d'exploitation et d'organisation des chantiers d'exploitation) ;
-
-Economie forestière ;
-
-Technologie : le matériau-bois ; utilisation et débit du bois ;
-
-Risques : défense des forêts contre l'incendie, restauration des terrains de montagne, prise en compte des indicateurs du développement durable.
-
-2e domaine : gestion et préservation des espaces,
-
-des espèces, des ressources et des milieux naturels
-
-Sujet 2.1 : gestion de l'eau et des milieux aquatiques :
+Domaine 2 : eaux, biodiversité et prévention des risques naturels
 
 Gestion de l'eau et son évolution (directive-cadre sur l'eau, loi sur l'eau) ;
 
@@ -94,9 +66,7 @@ Maîtrise des risques de pollution (et notamment de la pollution diffuse) ;
 
 Notions d'épuration et de traitement des eaux ;
 
-Police de l'eau et de la pêche.
-
-Sujet 2.2 : préservation et gestion des espaces, des espèces, des milieux naturels et des paysages :
+Police de l'eau et de la pêche ;
 
 Ecologie des systèmes vivants ;
 
@@ -118,89 +88,81 @@ Modes de gestion des espaces naturels, réseau Natura 2000 ;
 
 Installations classées.
 
-3e domaine : aménagement, développement et équipement
+Domaine 3 : politique et mise en valeur forestière
 
-des territoires ainsi que leur prévention contre les risques naturels
+Biodiversité, aménagement et traitement des forêts ;
 
-Sujet 3.1 : aménagement et développement local :
+Reboisement et boisement ;
 
-Politiques et procédures d'aménagement des territoires ;
+Dendrométrie ;
 
-Diagnostic territorial ;
+Voirie forestière et topographie ;
 
-Techniques utiles à l'étude préalable à un aménagement ;
+Equipements touristique et de protection ;
 
-Développement local et aménagement : conception, suivi et financement des projets ;
+Milieu forestier (notamment pédologie, pathologie et botanique forestières, phyto-écologie) ;
 
-Prévention des risques.
+Exploitation forestière (notamment méthodes d'exploitation et d'organisation des chantiers d'exploitation) ;
 
-Sujet 3.2 : ingénierie d'appui territorial :
+Economie forestière ;
 
-Alimentation en eau potable ;
+Technologie : le matériau-bois ; utilisation et débit du bois ;
 
-Assainissement : eaux pluviales, eaux usées, traitement des boues ;
+Risques : défense des forêts contre l'incendie, restauration des terrains de montagne, prise en compte des indicateurs du développement durable.
 
-Déchets : gestion des déchets, valorisation et recyclage ;
+Domaine 4 : alimentation et santé animale et végétale, impact environnemental
 
-Organisation et modes d'action des services publics de l'eau, de l'assainissement et des déchets.
-
-4e domaine : qualité et sécurité sanitaires
-
-dans la chaîne alimentaire
-
-Sujet 4.1 : qualité et protection des végétaux :
+Qualité et protection des végétaux :
 
 Bases législatives et réglementaires :
 
-- contrôles phytosanitaires à l'importation et à l'exportation ;
+Contrôles phytosanitaires à l'importation et à l'exportation ;
 
-- contrôle de la mise sur le marché et de l'utilisation des produits phytosanitaires.
+Contrôle de la mise sur le marché et de l'utilisation des produits phytosanitaires.
 
 Méthodes et techniques de protection des plantes :
 
-- surveillance du territoire (dans et hors passeport phytosanitaire européen) ;
+Surveillance du territoire (dans et hors passeport phytosanitaire européen) ;
 
-- protection des cultures (lutte agronomique, lutte biologique, lutte chimique) ;
+Protection des cultures (lutte agronomique, lutte biologique, lutte chimique) ;
 
-- expérimentation (méthode statistique).
-
-Sujet 4.2 : sécurité sanitaire des aliments et santé et protection animales :
+Expérimentation (méthode statistique).
 
 Sécurité sanitaire des aliments :
 
-- cadre réglementaire ;
+Cadre réglementaire ;
 
-- contrôles officiels, gestion des alertes ;
+Contrôles officiels, gestion des alertes ;
 
-- traçabilité, plans de maîtrise sanitaire et méthode HACCP (hazard analysis critical control point), assurance qualité ;
+Traçabilité, plans de maîtrise sanitaire et méthode HACCP (hazard analysis critical control point), assurance qualité ;
 
-- sous-produits et déchets ; alimentation animale ;
+Sous-produits et déchets ; alimentation animale ;
 
-- maladies d'origine alimentaire ;
+Maladies d'origine alimentaire ;
 
-- surveillance de la contamination des denrées.
+Surveillance de la contamination des denrées.
 
 Santé et protection animales :
 
-- prévention et lutte contre les maladies contagieuses ;
+Prévention et lutte contre les maladies contagieuses ;
 
-- identification et mouvements d'animaux ;
+Identification et mouvements d'animaux ;
 
-- zoonoses ;
+Zoonoses ;
 
-- veille épidémiologique.
+Veille épidémiologique.
 
 Protection animale :
 
-- élevage, détention, transport et abattage d'animaux ;
+Elevage, détention, transport et abattage d'animaux ;
 
-- divagation, animaux dangereux.
+Divagation, animaux dangereux ;
 
 Règles s'appliquant à l'importation, à l'exportation et aux échanges intracommunautaires d'animaux et de produits animaux.
 
-5e domaine : gestion de l'information
+Domaine 5 : gestion de l'information
 
-Sujet 5.1 : Statistiques :
+Statistiques :
 
 Cadre réglementaire et organisation de la statistique agricole ;
 
@@ -212,7 +174,7 @@ Opérations de synthèse ;
 
 Exploitation et diffusion des données.
 
-Sujet 5.2 : systèmes d'information :
+Systèmes d'information :
 
 Serveur et poste client : installation, administration, gestion approfondie des machines ;
 
