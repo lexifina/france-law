@@ -1,307 +1,113 @@
 # Article Annexe
 
-Annexe
+CONTRAT D'ANNÉE DE RECHERCHE EN MÉDECINE, EN PHARMACIE OU EN ODONTOLOGIE
 
-Contrat d'année-recherche en médecine, pharmacie ou odontologie
+Numéro de contrat (à remplir par le CHU de rattachement) :
 
-N° contrat : (à remplir par le centre hospitalier universitaire de rattachement) ....................
+Numéro d'immatriculation :
 
-|
+Entre :
 
-N° d'immatriculation :
+Mme/ M.
 
-|
+Nom de naissance :
 
-NOM de l'allocataire (mettre en majuscules) :
+Nom d'usage :
 
-|
-
-Épouse de (mettre en majuscules) :
-
-(pour les femmes mariées, nom de jeune fille) :
-
-|
-
-Prénom :
-
-|
+Prénom (s) :
 
 Date et lieu de naissance :
 
-|
-
 Situation de famille :
-
-|
 
 Nationalité :
 
-|
-
 Adresse :
-
-|
 
 Téléphone :
 
-|
+Compte bancaire ou compte chèque postal n° :
 
-Compte bancaire n° :
+Nom de banque ou centre de chèques postaux :
 
-Nom de banque :
+Identification et adresse de la succursale ou intitulé du compte (joindre un relevé d'identité bancaire ou un relevé d'identité postal) :
 
-|
+Ci-après dénommé "l'étudiant".
 
-Identification et adresse de la succursale (joindre un relevé d'identité bancaire)
+D'une part,
 
-|
+Le directeur général de l'agence régionale de santé de la subdivision de rattachement de l'étudiant,
 
-OU :
+D'autre part,
 
-|
+Le président de l'université d'inscription de l'étudiant,
 
-Compte chèque postal n° :
+Et :
 
-Centre de chèques postaux...........................
+Le directeur général du centre hospitalier universitaire de rattachement de l'étudiant,
 
-|
+Vu le code de l'éducation ;
 
-Intitulé exact du compte (joindre un relevé d'identité postal)
+Vu le code de la santé publique, notamment l'article R. 6153-11 ;
 
-|
+Vu l'arrêté du 4 octobre 2006 modifié définissant les modalités d'organisation de l'année de recherche durant le troisième cycle des études de médecine, d'odontologie et de pharmacie ;
 
-ENTRE
+Il est convenu de ce qui suit :
 
-|
+Article 1er
 
-Le préfet agissant au nom de l'État,
+Objet du contrat
 
-Le directeur du centre hospitalier universitaire de (CHU de rattachement) :
+Il est conclu un contrat d'année de recherche conformément à l' article R. 6153-11 du code de la santé publique .
 
-|
+Article 2
 
-et sur proposition de M...............,
+Nature de l'engagement
 
-responsable de l'organisation du diplôme concerné,
+L'étudiant consacre toute son activité à la préparation du diplôme ........................... sur le thème : ................
 
-à : (nom de l'établissement dans lequel exerce le responsable de l'organisation du diplôme d'études approfondies)
+Il est soumis aux règles internes en vigueur dans le laboratoire où il effectue ses travaux de recherche, y compris en matière de brevets d'invention.
 
-|
+L'étudiant ne peut exercer aucune autre activité de caractère permanent, rémunérée ou non.
 
-ET
+Article 3
 
-|
+Durée de l'engagement
 
-NOM ............. (pour les femmes mariées, nom de jeune fille), Prénom ...........
+Le présent contrat est conclu pour une période continue couvrant l'année universitaire..../.... non renouvelable.
 
-|
+Article 4
 
-ci-dessous désignée(e) : l'allocataire
+Conditions et modalités de rupture du contrat
 
-|
+En cas de non-respect par l'étudiant des obligations prévues à l'article 2 du présent contrat, le directeur général du centre hospitalier universitaire (CHU) de rattachement peut mettre fin au présent contrat sur proposition du professeur responsable de l'organisation du diplôme poursuivi dans le cadre du présent contrat et après avis du directeur de l'unité de formation et de recherche concernée.
 
-Il est convenu ce qui suit :
+La partie qui rompt le contrat en informe les autres parties par lettre recommandée avec accusé de réception ou par tout autre moyen permettant d'attester de sa date de réception. La résiliation prend effet à la date de réception.
 
-1) L'allocation visée à l'article 2 de l'arrêté fixant le régime des années-recherche durant l'internat de médecine et de pharmacie est attribuée au bénéficiaire à compter du............................. date de début du présent contrat.
+Fait à ................................................., le ....................................................................................,
 
-Elle fera l'objet d'une déclaration au titre de l'impôt sur le revenu des personnes physiques. Le montant net de l'allocation d'année-recherche est celui visé à l'article 11 du décret n° 99-930 du 10 novembre 1999 fixant le statut des internes et des résidents en médecine et des internes en pharmacie.
+En quatre exemplaires originaux.
 
-2) Le présent contrat est à durée déterminée. Il est conclu pour une période d'un an.
+Le directeur général du centre hospitalier universitaire de rattachement de l'étudiant,
 
-3) Le présent contrat ne constitue aucun engagement de la part de l'État de recruter l'allocataire parmi son personnel soit comme titulaire, soit comme agent sur contrat.
+Signature précédée de la mention manuscrite
 
-4) L'allocataire consacrera son activité à la préparation d'un diplôme sur le thème :...............................................................................
+"Lu et approuvé"
 
-5) L'allocataire consacre toute son activité à la préparation de son diplôme. Il est soumis aux règles internes en vigueur dans le laboratoire où il effectue ses travaux de recherche, y compris en matière de brevets d'invention.
+Le directeur général de l'agence régionale de santé de rattachement de l'étudiant
 
-En cas de non-respect de ces obligations par l'allocataire, le directeur général peut mettre fin au présent contrat sur proposition du professeur responsable de l'organisation du diplôme.
+Signature précédée de la mention manuscrite
 
-6) En cas de rupture anticipée du fait de l'allocataire durant l'application du contrat et sauf cas de force majeure, l'État peut procéder au remboursement fixé par le directeur général. Ce dernier établit alors un titre de perception au nom de l'intéressé.
+"Lu et approuvé"
 
-7) Pendant la durée du contrat, l'allocataire bénéficie des prestations du régime général de la sécurité sociale : assurances sociales, allocations familiales, accidents du travail et maladies professionnelles.
+Le président de l'université d'inscription de l'étudiant,
 
-8) L'allocataire ne pourra exercer aucune autre activité de caractère permanent rémunérée ou non.
+Signature précédée de la mention manuscrite
 
-9) L'allocataire a droit à un congé annuel de trente jours ouvrables, pendant lequel il perçoit l'allocation mentionnée au 1) du présent contrat. Les congés seront pris suivant les conditions du laboratoire dans lequel l'allocataire exerce son activité mais le seront toujours pendant la durée du contrat.
+"Lu et approuvé"
 
-10) À l'issue de la période de validité du contrat, l'allocataire cessera son activité sans que l'hôpital ait à lui signifier un préavis.
+(L'étudiant) Mme/ M.
 
-|
+Signature précédée de la mention manuscrite
 
-Fait à
-
-|
-
-, le
-
-|
-
-|
-
-Lu et approuvé
-
-|
-
-|
-
-L'allocataire
-
-|
-
-P/le préfet
-
-|
-
-Le directeur général (CHU de rattachement)
-
-|
-
-|
-
-le DRASS (DRASS de la subdivision d'origine)
-
-|
-
-|
-
-Politique régionale de santé - Gestion des internes
-
-ANNÉE-RECHERCHE
-
-Nom et prénom de l'interne :
-
-|
-
-Adresse :
-
-|
-
-Année du concours :
-
-|
-
-Discipline d'affectation :
-
-|
-
-CHU de rattachement :
-
-|
-
-Inscription en........... année d'internat...........
-
-|
-
-DIPLÔME
-
-Diplôme d'affectation (intitulé) :
-
-|
-
-Nom du responsable :
-
-|
-
-|
-
-Date :
-
-|
-
-UER d'inscription attestant
-
-|
-
-|
-
-l'agrément du (ou des)
-
-|
-
-(cachet)
-
-|
-
-|
-
-laboratoire(s) d'accueil
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Signature du responsable de diplôme
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Imprimé à retourner à la DRASS du....................
-
-Politique régionale de santé - Gestion des internes
-
-STAGES EN ANNÉE-RECHERCHE
-
-1er stage (novembre 200...à avril 200...)
-
-|
-
-Laboratoire d'accueil :
-
-|
-
--intitulé :
-
-|
-
--adresse :
-
-|
-
-Responsable de stage :
-
-|
-
-|
-
-|
-
-.
-
-2e stage (mai 200...à avril 200...)
-
-|
-
-Laboratoire d'accueil :
-
-|
-
--intitulé :
-
-|
-
--adresse :
-
-|
-
-Responsable de stage :
-
-|
-
-|
-
-|
+"Lu et approuvé".
