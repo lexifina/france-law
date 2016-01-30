@@ -1,6 +1,6 @@
-# Article Annexe II
+# Article Annexe 2
 
-Taux de compensation au titre de la remise compensatoire applicables en 2015 aux débits de tabac implantés dans un département frontalier
+TAUX DE COMPENSATION AU TITRE DE LA REMISE COMPENSATOIRE APPLICABLES EN 2016 AUX DÉBITS DE TABAC IMPLANTÉS DANS UN DÉPARTEMENT FRONTALIER
 
 DÉPARTEMENTS
 
@@ -10,15 +10,11 @@ TAUX DE COMPENSATION
 
 |
 
-Baisse de chiffre d'affaires
-
-de 10 à 25 %
+Baisse de chiffre d'affaires de 10 à 25 %
 
 |
 
-Baisse de chiffre d'affaires
-
-supérieure à 25 %
+Baisse de chiffre d'affaires supérieure à 25 %
 
 |
 
