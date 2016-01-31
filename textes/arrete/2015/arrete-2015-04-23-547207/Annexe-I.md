@@ -12,9 +12,7 @@ Autorités concernées
 
 |
 
-Etat-major des armées
-
-|
+Direction générale des relations internationales et de la stratégie |
 
 Directeur de l'institut de la recherche stratégique de l'Ecole militaire
 
@@ -126,7 +124,9 @@ Directeur du centre interarmées d'administration des opérations
 
 Directeurs du commissariat en opération extérieure
 
-Directeur du centre d'expertise de soutien général des armées |
+Directeur du centre d'expertise de soutien général des armées
+
+|
 
 191. - RECHERCHE DUALE
 
