@@ -444,6 +444,6 @@ Article L. 232-2 du code du sport
 
 |
 
-30 jours
+21 jours
 
 |
