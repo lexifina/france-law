@@ -1,0 +1,9 @@
+# Réponse à la question n° 92211
+
+- Question : [92211](92211.md) — Question n° 92211 — pompes à chaleur; installations; aides
+
+## Réponse
+
+*JO du 2016-02-02*
+
+L'installation de pompes à chaleur s'inscrit dans le cadre de la politique du Gouvernement qui attache une grande importance à la réduction de nos consommations d'énergie et au développement des énergies renouvelables qui contribuent naturellement à la lutte contre l'effet de serre. La diffusion des économies d'énergie et des énergies nouvelles dans le secteur domestique est soutenue principalement grâce au crédit d'impôt pour la transition énergétique, par les certificats d'économies d'énergie et par l'éco-prêt à taux zéro, en parallèle d'une réglementation européenne qui écarte les produits les plus énergivores. Le crédit d'impôt a été mis en place principalement pour développer les équipements de production d'énergie utilisant une source d'énergie renouvelable, et notamment les pompes à chaleur dont la finalité essentielle est d'assurer le chauffage ou la fourniture d'eau chaude sanitaire des résidences principales. Il s'applique sur des critères technologiques qui figurent sur la facture des travaux. Pour les pompes à chaleur air/air, il a fallu ajouter des règles d'installation complexes qui garantissaient que l'équipement servait principalement au chauffage. Cette complexité a été source de nombreux litiges et comportait des risques de subventionner le volumineux marché de la climatisation, c'est pourquoi ces équipements ont été exclus du crédit d'impôt à compter du 1er janvier 2009. Les pompes à chaleur air/air sont en revanche éligibles au dispositif des certificats d'économies d'énergie, et ont trouvé de nouvelles perspectives de développement dans le cadre de la réglementation thermique sur les bâtiments neufs (RT 2012).
