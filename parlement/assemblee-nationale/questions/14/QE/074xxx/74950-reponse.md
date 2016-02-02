@@ -1,0 +1,9 @@
+# Réponse à la question n° 74950
+
+- Question : [74950](74950.md) — Question n° 74950 — pollution maritime; plastiques; lutte et prévention
+
+## Réponse
+
+*JO du 2016-02-02*
+
+Le suivi du programme national de prévention des déchets (PNPD) 2014-2020 est assuré par le groupe de travail « prévention » issu du conseil national des déchets. Ce groupe de travail étudie de façon qualitative et quantitative les avancées effectuées en la matière par les différents acteurs mobilisés, et renseigne les indicateurs prévus par le programme. Le bilan à mi-parcours de mise en œuvre du programme national de prévention des déchets sera publié par l'Agence de l'environnement et de la maîtrise de l'énergie (ADEME) en 2018, et permettra d'évaluer la mise en œuvre des actions au regard des objectifs fixés. Toute action de prévention des déchets constitue de fait une mesure de prévention des déchets marins. Néanmoins, le Gouvernement a tenu à réaffirmer sa volonté très forte de réduire la quantité de déchets marins au travers de l'axe 13 du programme national de prévention des déchets, consacré spécifiquement à cette question. Cet axe, qui s'inscrit dans la poursuite des objectifs fixés par la directive cadre « stratégie pour le milieu marin » (DCSMM, 2008/56/CE), prévoit la mise en place d'un programme d'actions cohérent contre les déchets marins, et s'est traduit par l'articulation des programmes de mesures de la directive cadre « stratégie pour le milieu marin » avec la révision des schémas d'aménagement et de gestion des eaux (SDAGE). Ces mesures, portées notamment par le Gouvernement, prévoient la limitation du déversement de déchets dans le milieu marin. Enfin, la mesure d'interdiction de distribution des sacs de caisse en matière plastique à usage unique, figurant dans la loi du 17 août 2015 sur la transition énergétique pour la croissance verte, conduira à réduire un flux de déchets susceptibles d'avoir un impact important sur une partie de la faune marine.
