@@ -1,0 +1,81 @@
+# Culture : liberté, indépendance et pluralisme des médias
+
+- Procédure : Proposition de loi ordinaire
+- Législature : 14
+- Identifiant : DLR5L14N34672
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/renforcement_liberte_independance_pluralisme_medias
+- Sénat : http://www.senat.fr/dossier-legislatif/ppl15-446.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2016-02-02 : 1er dépôt d'une initiative. (PIONANR5L14B3465)
+  - 2016-02-08 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2016-02-02 : Renvoi en commission au fond
+      - 2016-02-03 : Nomination de rapporteur
+      - 2016-02-03 : Réunion de commission
+      - 2016-03-02 : Réunion de commission
+      - 2016-03-08 : Réunion de commission
+      - 2016-03-02 : Dépôt de rapport (RAPPANR5L14B3542, PIONANR5L14BTC3542)
+  - Discussion en séance publique
+    - 2016-03-08 : Discussion en séance publique
+    - 2016-03-08 : Discussion en séance publique
+    - 2016-03-08 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2016-03-09 : Dépôt d'une initiative en navette (PIONSNR5S259B0446)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2016-03-09 : Renvoi en commission au fond
+      - 2016-03-16 : Nomination de rapporteur
+      - 2016-03-30 : Dépôt de rapport (RAPPSNR5S259B0518)
+    - Travaux d'une commission saisie pour avis
+      - 2016-03-23 : Saisine pour avis d'une commission
+      - 2016-03-23 : Nomination de rapporteur
+      - 2016-03-29 : Dépôt de rapport (AVISSNR5S259B0505)
+  - Discussion en séance publique
+    - 2016-04-06 : Discussion en séance publique
+    - 2016-05-26 : Discussion en séance publique
+    - 2016-05-26 : Décision
+- Commission Mixte Paritaire
+  - 2016-05-27 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2016-06-14 : Nomination de rapporteur
+    - 2016-06-14 : Dépôt du rapport d'une CMP (RAPPANR5L14B3837)
+    - 2016-06-14 : Dépôt du rapport d'une CMP (RAPPSNR5S259B0681)
+  - 2016-06-14 : Décision de la CMP
+- Nouvelle Lecture
+  - 2016-05-26 : Dépôt d'une initiative en navette (PIONANR5L14B3788)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2016-05-26 : Renvoi en commission au fond
+      - 2016-07-05 : Réunion de commission
+      - 2016-07-18 : Réunion de commission
+      - 2016-07-05 : Dépôt de rapport (RAPPANR5L14B3920, PIONANR5L14BTC3920)
+  - Discussion en séance publique
+    - 2016-07-18 : Discussion en séance publique
+    - 2016-07-18 : Décision
+- Nouvelle Lecture
+  - 2016-07-19 : Dépôt d'une initiative en navette (PIONSNR5S259B0802)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2016-07-19 : Renvoi en commission au fond
+      - 2016-09-21 : Dépôt de rapport (RAPPSNR5S259B0844)
+  - Discussion en séance publique
+    - 2016-09-29 : Discussion en séance publique
+    - 2016-09-29 : Décision
+- Lecture définitive
+  - 2016-09-30 : Dépôt d'une initiative en navette (PIONANR5L14B4070)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2016-09-30 : Renvoi en commission au fond
+      - 2016-10-05 : Dépôt de rapport (RAPPANR5L14B4076)
+  - Discussion en séance publique
+    - 2016-10-06 : Discussion en séance publique
+    - 2016-10-06 : Décision
+- Conseil constitutionnel
+  - 2016-10-10 : Saisine du conseil constitutionnel
+  - 2016-11-10 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2016-11-14 : Promulgation d'une loi
