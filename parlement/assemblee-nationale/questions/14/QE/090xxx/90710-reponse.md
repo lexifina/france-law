@@ -1,0 +1,9 @@
+# Réponse à la question n° 90710
+
+- Question : [90710](90710.md) — Question n° 90710 — lutte et prévention
+
+## Réponse
+
+*JO du 2016-02-02*
+
+L'exposition croissante des jeunes à des niveaux sonores élevés, notamment par l'intermédiaire de l'écoute de baladeurs et de musique amplifiée, est une préoccupation de santé publique qui fait l'objet à la fois de mesures de restriction et de prévention. Le ministère chargé de la santé a introduit, dès 1998, dans la réglementation relative aux établissements recevant du public et diffusant de la musique amplifiée, une limitation du niveau sonore à l'intérieur de ces lieux. Afin de réviser la réglementation en vigueur en tenant compte des évolutions techniques et musicales, le ministère a saisi le haut conseil de la santé publique (HCSP) qui a rendu ses recommandations en 2013. En 2014, la commission « bruit et santé » du conseil national du bruit (CNB) a décliné de façon opérationnelle ces recommandations et propose notamment des niveaux sonores maximum à respecter en associant une valeur limite avec une durée d'exposition pour une meilleure protection de l'audition du public, la mise en place d'une zone de récupération auditive, un avertissement spécifique à l'attention des personnes sensibles, la fourniture gratuite de protections auditives ou encore le renforcement des messages de prévention. La loi de modernisation de notre système de santé introduit dans le code de la santé publique un nouveau chapitre relatif à la prévention des risques liés au bruit et notamment la protection de l'audition du public vis-à-vis des activités impliquant la diffusion de sons à des niveaux sonores élevés dans les lieux publics ou recevant du public, clos ou ouverts. Dans ce contexte, un groupe de travail interministériel associant les ministères chargés de l'environnement et de la culture a été mis en place pour décliner sur le plan réglementaire les recommandations du HCSP et du CNB.
