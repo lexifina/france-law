@@ -1,0 +1,9 @@
+# Réponse à la question n° 81825
+
+- Question : [81825](81825.md) — Question n° 81825 — reprise; réglementation
+
+## Réponse
+
+*JO du 2016-02-02*
+
+L'obligation de reprise par les distributeurs des déchets d'équipements électriques et électroniques dans le cadre du dispositif dit « 1 pour 1 » (1 appareil acheté = 1 déchet de même type repris gratuitement) est issu de la directive du 27 janvier 2003 dite « DEEE I » (transposée en droit français par le décret du 20 juillet 2005) et a été confirmée par la nouvelle directive du 4 juillet 2012 dite « DEEE II ». Lors des travaux relatifs à la transposition de cette directive menés en 2013 et 2014, il a notamment été mis en avant par les parties prenantes un défaut de mise en œuvre de ces dispositions par certains distributeurs vendant à distance, ainsi qu'un manque d'exigences dans les textes en vigueur concernant l'information du consommateur sur les dispositifs de reprise. Au regard de ces constats, le ministère de l'écologie, en concertation avec le ministère de la consommation, a renforcé les dispositions applicables en la matière dans le décret no 2014-928 du 19 août 2014 relatif aux déchets d'équipements électriques et électroniques et aux équipements électriques et électroniques usagés (publié au JO le 22 août) et l'arrêté du 8 octobre 2014 relatif aux conditions de mise en œuvre des obligations de reprise par les distributeurs des équipements électriques et électroniques usagés, prévu à l'article R. 543-180 du code de l'environnement (publié au JO le 15 octobre). Maintenant que le cadre réglementaire est stabilisé, l'État va engager des actions de contrôle de ces dispositions afin de s'assurer de la mise en œuvre effective des mesures d'information du consommateur et de reprise des DEEE dans le cadre du dispositif « 1 pour 1 ».
