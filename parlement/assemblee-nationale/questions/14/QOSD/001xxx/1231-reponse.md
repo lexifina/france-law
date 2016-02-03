@@ -1,0 +1,29 @@
+# Réponse à la question n° 1231
+
+- Question : [1231](1231.md) — Question n° 1231 — moulins à eau; réglementation
+
+## Réponse
+
+*JO du 2016-02-03*
+
+CONSÉQUENCES DE LA LOI SUR L'EAU ET LES MILIEUX AQUATIQUES SUR LES MOULINS À EAU
+
+M. le président. La parole est à Mme Valérie Lacroute, pour exposer sa question, n° 1231, relative aux conséquences de la loi sur l'eau et les milieux aquatiques sur les moulins à eau.
+
+Mme Valérie Lacroute. La loi sur l'eau et les milieux aquatiques du 30 décembre 2006, dite loi LEMA, entend assurer la continuité écologique des cours d'eau en garantissant la circulation des espèces animales et le bon déroulement du transport des sédiments. Or c'est précisément au nom de la continuité écologique que 20 000 moulins à eau pourraient être détruits en France, dont 1 200 dans la seule région Île-de-France. En effet, les propriétaires sont confrontés à un dilemme imposé par la loi : ou bien ils détruisent sur fonds publics leurs moulins considérés comme des obstacles transversaux rompant cette continuité, ou bien ils se voient contraints de s'équiper à des coûts exorbitants en dispositifs de franchissement tels que passes à poissons ou rivières de contournement. Cette menace suscite une vive émotion parmi les propriétaires de moulin mais aussi chez de nombreux citoyens et élus qui sont à leurs côtés.
+
+Voilà plus de mille ans que ces moulins sont implantés sur nos rivières, sans préjudice pour la circulation des poissons et des sédiments. Outre leur indéniable valeur patrimoniale, les moulins à eau constituent un fort vecteur d'identité territoriale et un modèle d'économie de proximité. À l'heure où la société est prête à remettre en cause ses schémas de production et de consommation, ils ouvrent aussi des perspectives très prometteuses en matière d'énergie alternative propre et d'agriculture durable. Ma question est donc la suivante : le Gouvernement compte-t-il décréter un moratoire sur l'application des dispositions de la loi LEMA pour sauver les moulins auxquels les Français sont si attachés ? Il est possible de trouver un compromis raisonnable entre la protection de l'écosystème et la préservation de notre magnifique patrimoine hydraulique.
+
+M. le président. La parole est à Mme la secrétaire d'État chargée des droits des femmes.
+
+Mme Pascale Boistard, secrétaire d'État chargée des droits des femmes. Mme Ségolène Royal connaît l'importance que vous attachez à la préservation de nos moulins, madame la députée Valérie Lacroute, et partage cette préoccupation car elle estime que ceux-ci font partie de notre patrimoine national et de notre histoire. Les moulins représentent environ 20 % des 80 000 obstacles actuellement recensés sur nos cours d'eau et certains de ces 15 000 ouvrages ne font pas obstacle à la continuité écologique. Ségolène Royal a donc récemment donné instruction aux préfets de ne plus concentrer leurs efforts sur ces ouvrages qui comportent une dimension patrimoniale. Le rétablissement de la continuité écologique peut être obtenu sans difficulté sur la grande majorité des cours d'eau présentant des obstacles différents. Elle les a également invités à prendre des initiatives pédagogiques inspirées des multiples situations de rétablissement de la continuité écologique réalisées à la satisfaction de tous, y compris sur des moulins.
+
+Plus généralement, il existe plusieurs solutions pour restaurer la continuité écologique, de la suppression totale de l'ouvrage à l'aménagement de passes à poissons en passant par des ouvertures de vannages ou des abaissements partiels de hauteur. Ces interventions sont programmées au cas par cas et de façon proportionnée après analyse de chaque situation. Ségolène Royal a demandé que ces choix soient faits à l'issue d'une procédure participative, ce qui est souvent le cas lorsque les projets de restauration sont pris en charge par les groupements de collectivités ou élaborés dans le cadre des schémas d'aménagement et de gestion de l'eau – SAGE. D'ailleurs, deux députés, M. Vigier et Mme Dubois, préconisent de généraliser la prise en charge à cette échelle dans le rapport d'information sur la continuité écologique qu'ils viennent de présenter à la commission du développement durable.
+
+Pour sa part, Ségolène Royal vient de prendre plusieurs mesures visant à renforcer la conciliation sur ce sujet. Un appel d'offres pour le développement de la petite hydroélectricité comprenant la remise en exploitation de moulins dans le respect des enjeux environnementaux a été lancé. Des pages pédagogiques sur le fonctionnement des cours d'eau et la continuité écologique ont été mises en ligne sur internet. Un projet de charte est en cours de rédaction par les services du ministère de l'écologie, du développement durable et de l'énergie auquel sont associés des représentants de la Fédération française des amis des moulins. Le Conseil général de l'environnement et du développement durable a été chargé d'analyser les situations présentant des difficultés et de préconiser des solutions.
+
+Un groupe de travail sera lancé avec les services et les représentants des amis des moulins, à l'initiative du ministère de la culture, pour réfléchir à la dimension patrimoniale des moulins.
+
+Nous venons par ailleurs de voter au Sénat un amendement au projet de loi relatif à la biodiversité, accordant trois ans supplémentaires pour achever de mettre en conformité les ouvrages pour lesquels un dossier aura été déposé.
+
+Tous ces éléments sont de nature à apaiser les tensions regrettables que cette question des moulins a pu causer. Ils permettront d'engager une démarche appropriée, qui implique au cas par cas les parties concernées, afin de concilier la restauration du bon état écologique de nos cours d'eau et la préservation de notre patrimoine des moulins, auquel nous tenons tous.
