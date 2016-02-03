@@ -1,0 +1,77 @@
+# Police et sécurité : lutte contre le crime organisé et le terrorisme
+
+- Procédure : Projet de loi ordinaire
+- Législature : 14
+- Identifiant : DLR5L14N34682
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/lutte_crime_organise_terrorisme
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl15-445.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2016-02-03 : 1er dépôt d'une initiative. (PRJLANR5L14B3473)
+  - 2016-02-03 : Etude d'impact (ETDIANR5L14B3473)
+  - 2016-02-03 : Avis du Conseil d'Etat (AVCEANR5L14B3473)
+  - 2016-02-03 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2016-02-03 : Renvoi en commission au fond
+      - 2016-02-03 : Nomination de rapporteur
+      - 2016-02-03 : Réunion de commission
+      - 2016-02-10 : Réunion de commission
+      - 2016-02-10 : Réunion de commission
+      - 2016-02-17 : Réunion de commission
+      - 2016-02-17 : Réunion de commission
+      - 2016-03-01 : Réunion de commission
+      - 2016-02-18 : Dépôt de rapport (RAPPANR5L14B3515, PRJLANR5L14BTC3515)
+    - Travaux d'une commission saisie pour avis
+      - 2016-02-09 : Saisine pour avis d'une commission
+      - 2016-02-16 : Nomination de rapporteur
+      - 2016-02-16 : Réunion de commission
+      - 2016-02-16 : Dépôt de rapport (AVISANR5L14B3510)
+  - Discussion en séance publique
+    - 2016-03-01 : Discussion en séance publique
+    - 2016-03-01 : Discussion en séance publique
+    - 2016-03-02 : Discussion en séance publique
+    - 2016-03-02 : Discussion en séance publique
+    - 2016-03-03 : Discussion en séance publique
+    - 2016-03-03 : Discussion en séance publique
+    - 2016-03-08 : Discussion en séance publique
+    - 2016-03-08 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2016-03-09 : Dépôt d'une initiative en navette (PRJLSNR5S259B0445)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2016-03-09 : Renvoi en commission au fond
+      - 2016-02-17 : Nomination de rapporteur
+      - 2016-03-23 : Dépôt de rapport (RAPPSNR5S259B0491)
+    - Travaux d'une commission saisie pour avis
+      - 2016-03-02 : Saisine pour avis d'une commission
+      - 2016-03-02 : Nomination de rapporteur
+      - 2016-03-16 : Dépôt de rapport (AVISSNR5S259B0476)
+    - Travaux d'une commission saisie pour avis
+      - 2016-03-02 : Saisine pour avis d'une commission
+      - 2016-03-02 : Nomination de rapporteur
+      - 2016-03-16 : Dépôt de rapport (AVISSNR5S259B0474)
+  - Discussion en séance publique
+    - 2016-03-29 : Discussion en séance publique
+    - 2016-03-30 : Discussion en séance publique
+    - 2016-03-31 : Discussion en séance publique
+    - 2016-04-05 : Discussion en séance publique
+    - 2016-04-05 : Décision
+- Commission Mixte Paritaire
+  - 2016-04-06 : Dépôt d'un projet de loi (PRJLANR5L14B3669)
+  - 2016-04-06 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2016-05-11 : Nomination de rapporteur
+    - 2016-05-11 : Dépôt du rapport d'une CMP (RAPPANR5L14B3742)
+    - 2016-05-11 : Dépôt du rapport d'une CMP (RAPPSNR5S259B0605)
+  - Discussion en séance publique
+    - 2016-05-19 : Discussion en séance publique
+    - 2016-05-19 : Décision
+  - Discussion en séance publique
+    - 2016-05-25 : Discussion en séance publique
+    - 2016-05-25 : Décision
+  - 2016-05-12 : Décision de la CMP
+- Promulgation de la loi
+  - 2016-06-03 : Promulgation d'une loi
