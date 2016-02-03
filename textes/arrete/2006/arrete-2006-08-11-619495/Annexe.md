@@ -212,6 +212,10 @@ Cessions partielles portant sur la composante temporelle ou, pour les autorisati
 
 |
 
+791 MHz-821 MHz
+
+832 MHz-862 MHz
+
 880 MHz-915 MHz
 
 925 MHz-960 MHz
@@ -277,6 +281,18 @@ Cessions partielles portant sur la composante spectrale.
 Cessions intégrales.
 
 Cessions partielles portant sur la composante temporelle.
+
+|
+
+2 500 MHz-2570 MHz
+
+2 620 MHz-2 690 MHz
+
+|
+
+Cessions intégrales.
+
+Cessions partielles portant sur la composante spectrale.
 
 |
 
