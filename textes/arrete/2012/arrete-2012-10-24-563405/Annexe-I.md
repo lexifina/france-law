@@ -664,13 +664,9 @@ Paris-Atyrau ;
 
 Kenya :
 
-Paris-Eldoret ;
+Paris-Nairobi,
 
-Paris-Kisumu ;
-
-Paris-Mombasa ;
-
-Paris-Nairobi ;
+ainsi que toute liaison exploitée en partage de codes avec une compagnie kenyane entre un point du territoire français et un point du territoire kenyan situé au-delà de Nairobi.
 
 Kirghizistan :
 
