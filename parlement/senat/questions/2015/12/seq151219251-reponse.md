@@ -1,0 +1,9 @@
+# Réponse à la question SEQ151219251
+
+- Question : [SEQ151219251](seq151219251.md) — Autorisation du port d'un épieu durant une action de chasse
+
+## Réponse
+
+*Écologie, développement durable et énergie, JO du 2016-02-04, page 442*
+
+L'article L. 424-4 du code de l'environnement prévoit que le permis de chasser validé donne à son détenteur le droit de chasser « de jour, soit à tir, soit à courre, à cor et à cri, soit au vol » dans le temps où la chasse est ouverte. Au regard de la réglementation en vigueur, l'épieu n'est pas une arme de chasse dont l'emploi est autorisé au cours de l'acte de chasse, qui est un acte volontaire lié à la recherche, à la poursuite ou à l'attente du gibier, ayant pour but ou pour résultat la capture ou la mort de celui-ci. Lorsque l'animal est abattu à l'aide d'un rapace autorisé par la chasse au vol, ou bien par tir d'une arme à feu ou d'un arc autorisés pour la pratique de la chasse telle que précité conformément à l'arrêté ministériel du 1er août 1986, l'acte de chasse s'arrête. Il en est de même lorsque le gibier est « aux abois », encerclé par la meute de chiens ou « sur ses fins », agonisant, blessé ou non, sans possibilité aucune de fuir et d'échapper au chasseur : dès lors sa mise à mort dans ces deux derniers cas ne constitue pas un acte de chasse, et l'animal peut être « servi » soit par arme à feu, soit par arme blanche, telle que la dague de chasse ou l'épieu. Dans ce contexte précis, le chasseur peut porter à la ceinture une dague ou l'épieu, démonté en plusieurs parties dans son étui, jusqu'au moment où il sera éventuellement amené, à l'issue de l'acte de chasse, à utiliser l'une ou l'autre de ces armes blanches après sortie de l'étui pour servir l'animal « aux abois ou sur ses fins ». Pour autant, le fait de chercher, poursuivre, ou attendre le gibier avec un épieu monté en main n'est pas autorisé, ce qui n'obère en rien la question du port légitime de l'arme dans son étui dans le cas précité.
