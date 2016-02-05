@@ -66,4 +66,6 @@ Association des professionnels en conseil carbone (APCC).
 
 Réseau des agences régionales de l'énergie (RARE).
 
+Fédération des syndicats des métiers de la prestation intellectuelle du conseil, de l'ingénierie et du numérique (CINOV).
+
 En tant que de besoin, d'autres ministères, organismes ou experts seront associés au pôle.
