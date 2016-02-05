@@ -4048,17 +4048,35 @@ A l'exclusion du temps scolaire contraint.
 
 |
 
-CQP "animateur de savate".
+CQP animateur de savate, option "boxe française".
 
 |
 
-Encadrement en autonomie de la savate, incluant la mise en œuvre des procédures de passage des gants bleus, verts, rouges et blancs.
+Encadrement en autonomie de la boxe française auprès de tout public, incluant la mise en œuvre des procédures de passage des grades : kangourous, gants bleu, vert, rouge et blanc. |
 
 |
 
-Activité exercée à titre secondaire.
+CQP animateur de savate, option "canne de combat et bâton".
 
 |
+
+Encadrement en autonomie de la canne de combat et bâton auprès de tout public, incluant la mise en œuvre des procédures de passage des pommeaux bleu, vert, rouge, blanc et jaune. |
+
+|
+
+CQP animateur de savate, option "savate forme". |
+
+Encadrement en autonomie de la savate forme auprès de tout public, incluant la mise en œuvre des procédures de passage des grades : kangourous, gants bleu, vert et rouge. |
+
+|
+
+CQP animateur de savate, option "savate bâton défense".
+
+|
+
+Encadrement en autonomie de la savate bâton défense, incluant la mise en œuvre des procédures de passage des grades : kangourous, gants bleu, vert et rouge et savates bâton bleu, vert, rouge, blanc et jaune |
+
+Pour des publics de plus de 16 ans. |
 
 CQP "animateur des activités gymniques", mention "activités gymniques acrobatiques".
 
