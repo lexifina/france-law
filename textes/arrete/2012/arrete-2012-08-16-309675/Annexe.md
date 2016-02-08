@@ -312,7 +312,7 @@ Polish extérieur pour véhicules
 
 |
 
-Filtres à huile et à gasoil des voitures
+Filtres à huile et à gasoil des véhicules particuliers
 
 |
 
@@ -372,7 +372,7 @@ Produits vendus aux particuliers pour ramoner les cheminées
 
 |
 
-Nettoyants et décapants pour cheminées et inserts
+Nettoyants et décapants pour cheminées et inserts et appareils de chauffage ménagers
 
 |
 
@@ -396,7 +396,7 @@ Déboucheurs pour canalisations
 
 |
 
-Décapants pour fours ménagers
+Décapants pour appareils de cuisson ménagers
 
 |
 
@@ -415,6 +415,22 @@ Produits imperméabilisants et/ ou de protection textiles et/ ou cuir et/ ou dai
 ≤ 400 ml
 
 |
+
+|
+
+|
+
+Autres produits de traitement de piscine que ceux figurant dans la catégorie 9
+
+|
+
+Liquide : ≤ 5 L |
+
+|
+
+|
+
+Solide : ≤ 5 kg |
 
 |
 
