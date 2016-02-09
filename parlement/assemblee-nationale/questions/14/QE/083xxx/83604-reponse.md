@@ -1,0 +1,9 @@
+# Réponse à la question n° 83604
+
+- Question : [83604](83604.md) — Question n° 83604 — instances consultatives; coût de fonctionnement
+
+## Réponse
+
+*JO du 2016-02-09*
+
+Le haut conseil à l'égalité entre les femmes et les hommes (HCEfh) a été constitué par le décret no 2013-8 du 3 janvier 2013. Il est composé de cinq commissions qui se réunissent régulièrement : - commission des violences de genre ; - commission relative à la lutte contre les stéréotypes sexistes et à la répartition des rôles sociaux ; - commission des droits des femmes et des enjeux internationaux et européens ; - commission de la parité en matière politique, administrative et dans la vie économique et sociale ; - commission de la santé, des droits sexuels et reproductifs. Chacune de ces commissions a un calendrier de travail indépendant et a rendu les travaux suivants en 2014. - Rapport « Pour l'égalité femmes-hommes et contre les stéréotypes de sexe, conditionner les financements publics » ; - rapport EGAliTER - "combattre maintenant les inégalités sexuées, sociales et territoriales dans les quartiers politique de la ville et dans les territoires ruraux fragilisés" ; - étude "Les chiffres clés des inégalités femmes-hommes dans les quartiers prioritaires et les territoires ruraux" ; - avis sur le projet de loi no 2182 relatif à la réforme de l'asile ; - avis sur la loi relative à l'égalité réelle entre les femmes et les hommes. D'autres travaux ont été rendus en 2015, tels que : - guide sur la parité en politique ; - avis relatif au harcèlement sexiste et aux violences sexuelles dans les transports en commun. Le HCEfh est une instance opérationnelle, permettant la concertation entre les différents acteurs et actrices impliqués sur l'égalité entre les femmes et les hommes. Il produit une expertise considérable et précieuse sur la thématique des droits des femmes.
