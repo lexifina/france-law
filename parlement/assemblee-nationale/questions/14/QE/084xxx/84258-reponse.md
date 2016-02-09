@@ -1,0 +1,9 @@
+# Réponse à la question n° 84258
+
+- Question : [84258](84258.md) — Question n° 84258 — dispositifs d'aide; bénéficiaires
+
+## Réponse
+
+*JO du 2016-02-09*
+
+L'objectif du gouvernement est d'appuyer toutes les entreprises pour leur permettre de se développer à l'international, particulièrement les TPE et PME. Le ministère des affaires étrangères et du développement international a conscience que près d'un tiers des entreprises exportatrices sont des entreprises artisanales. C'est l'une des raisons qui ont poussé le MAEDI à plaider en faveur de l'intégration de l'Assemblée permanente de la Chambre des métiers de l'artisanat (APCMA) au Conseil stratégique de l'export (CSE). Les TPE disposent ainsi d'une réelle influence et leur voix compte quand il s'agit de délibérer ou d'élaborer des réponses aux problématiques de l'export. En ce qui concerne les dispositifs de soutien à l'internationalisation des entreprises, les régions, quand elles sont sollicitées par les TPE ou quand elles détectent les profils les plus susceptibles de réussir leur internationalisation, mènent un travail d'accompagnement en coopération avec les chambres de commerce et d'industrie (CCI). Ces dispositifs couvrent la sensibilisation à l'international, un pré-diagnostic des chances de réussite, des modules de formation, l'identification et la priorisation des marchés ou encore l'incorporation au sein d'un incubateur. La loi NOTRe confirme le rôle central des régions en termes de soutien aux PME, ETI et TPE. En complément de ces dispositifs appuyés notamment par les CCI, les TPE peuvent aussi avoir accès aux services de Business France. Quand elle est sollicitée par une TPE, l'agence porte une attention particulière à l'analyse de la solidité du projet de l'entreprise demandeuse afin de s'assurer de la pérennité de la démarche.
