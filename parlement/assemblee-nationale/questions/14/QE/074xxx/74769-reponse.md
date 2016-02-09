@@ -1,0 +1,9 @@
+# Réponse à la question n° 74769
+
+- Question : [74769](74769.md) — Question n° 74769 — lieux publics; interdiction de fumer; violations
+
+## Réponse
+
+*JO du 2016-02-09*
+
+Depuis le renforcement de l'interdiction de fumer dans les lieux collectifs en 2007, la France a connu une réduction significative du tabagisme passif. Toutefois, des améliorations importantes restent nécessaires. Il s'agit, d'une part, de renforcer le respect des interdictions existantes et, d'autre part, d'étendre les lieux où il est interdit de fumer, en particulier ceux où sont présents des enfants. A cette fin, l'article 31 de la loi de modernisation de notre système de santé étend les compétences des polices municipales, des gardes champêtres, des agents de surveillance de Paris ainsi que des agents de la ville de Paris chargés d'un service de police pour contrôler le respect de la réglementation du tabac et notamment le respect de l'interdiction de fumer dans les lieux collectifs. L'habilitation des agents de police municipale pour contrôler ces infractions à la législation de santé publique sur le tabac facilitera le respect des interdictions existantes, notamment l'interdiction de vente à un mineur de tabac ou de cigarette électronique, l'interdiction de fumer dans les lieux collectifs ou l'interdiction de fumer dans les espaces de jeux publics destinés aux enfants ainsi que des évolutions réglementaires à venir (interdiction de vapoter dans certains lieux collectifs, interdiction de fumer dans un véhicule en présence d'un mineur). Les policiers municipaux sont un corps de contrôle de proximité qui permettra de mieux constater les infractions à la réglementation. La procédure de l'amende forfaitaire est prévue et le contrevenant s'acquittera donc de l'amende directement auprès de l'agent de police municipale.
