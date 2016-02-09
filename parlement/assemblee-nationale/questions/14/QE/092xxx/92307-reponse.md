@@ -1,0 +1,9 @@
+# Réponse à la question n° 92307
+
+- Question : [92307](92307.md) — Question n° 92307 — meunerie; soutien; perspectives
+
+## Réponse
+
+*JO du 2016-02-09*
+
+Après l'instauration du crédit d'impôt pour la compétitivité et l'emploi, la mise en œuvre du pacte de responsabilité et de solidarité a marqué une nouvelle étape de l'action du Gouvernement pour soutenir la croissance et l'emploi, tout en maîtrisant les comptes publics. Cette stratégie doit permettre la mise en place d'un cadre fiscal et réglementaire favorable au redressement de l'activité économique pour créer les conditions qui permettront aux entreprises de se développer. Dans cet esprit, et dans le prolongement des travaux des assises de la fiscalité des entreprises, le Gouvernement a annoncé son intention de supprimer certaines taxes à faible rendement. L'inspection générale des finances lui a remis, en mars 2014, un rapport qui effectue une revue de près de 200 impositions dont la taxe prélevée sur les farines et affectée au régime maladie des exploitants agricoles pour un produit de 63 millions d'euros. La loi de finances pour 2015 a abrogé un certain nombre de ces taxes, en cohérence avec le mouvement engagé dans la voie de la simplification et de la lisibilité fiscales, avec notamment la loi no 2014-1545 du 20 décembre 2014 relative à la simplification de la vie des entreprises et portant diverses dispositions de simplification et de clarification du droit et des procédures administratives. La loi de finances pour 2016, adoptée par le Parlement, prévoit également la suppression d'autres petites taxes. La suppression progressive des taxes à faible rendement demeure envisagée, elle ne doit cependant pas déstabiliser les équilibres financiers des entités auxquelles elles sont affectées. Compte tenu de la recette qu'elle représente pour la mutualité sociale agricole, la suppression de la « taxe farine » n'est pas envisagée à ce stade.
