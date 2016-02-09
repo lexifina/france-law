@@ -1,0 +1,9 @@
+# Réponse à la question n° 81728
+
+- Question : [81728](81728.md) — Question n° 81728 — Cour des comptes; rapport; recommandations
+
+## Réponse
+
+*JO du 2016-02-09*
+
+La sixième recommandation du rapport public thématique de la Cour des comptes consacré à Radio France est la suivante : « Fusionner les deux orchestres symphoniques de Radio France, établir une direction commune à France Musique et à la direction de la musique ». Elle est adressée à Radio France. Cette recommandation n'a pas été retenue dans le contrat d'objectifs et de moyens (COM) 2015-2019, tant pour des raisons artistiques que budgétaires. Un tel scénario aurait en effet consisté à affaiblir non seulement l'offre musicale de Radio France, mais encore l'offre musicale symphonique française, pour une économie de long-terme incertaine pour l'entreprise. En revanche, le COM 2015-2019 prévoit bien une réforme de l'organisation des formations musicales à Radio France. Cette réforme reposera sur une optimisation de la planification et de la programmation, une réforme des modalités de travail des musiciens et une réflexion sur le dimensionnement des formations, qui s'appuiera sur les constats et recommandations formulés par Monsieur Stephan Gehmacher. Une mission de préfiguration a été confiée par le président-directeur général de Radio France à Madame Marie-Pierre de Surville. Cette mission a pour double objet de définir le projet artistique de la Maison de la radio en tant que lieu de spectacle vivant, et de proposer l'organisation qui permettra sa mise en œuvre. Ce projet artistique s'appuiera en premier lieu sur les formations musicales mais aussi sur les expressions scéniques des antennes et la création musicale dans son ensemble. L'organisation qui en découlera, comprenant notamment le redimensionnement des formations, devra permettre l'accueil d'un public le plus diversifié possible.
