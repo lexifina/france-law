@@ -1,0 +1,9 @@
+# Réponse à la question n° 90172
+
+- Question : [90172](90172.md) — Question n° 90172 — transports collectifs; réglementation
+
+## Réponse
+
+*JO du 2016-02-09*
+
+Concernant l'obligation d'équipement en tachygraphe numérique, celle-ci est applicable, pour les véhicules de transport routier de voyageurs de plus de neuf places, depuis le 1er mai 2006 en application du règlement (CE) 561/2006 relatif à l'harmonisation de certaines dispositions de la législation sociale dans le domaine des transports par route. Ainsi, les véhicules mis en circulation après cette date devraient donc tous être équipés de tachygraphes numériques sachant que les véhicules immatriculés avant cette date doivent être équipés d'un tachygraphe analogique (à disques papier). La seule dérogation prévue par la réglementation européenne concerne les véhicules affectés à des services réguliers dont le parcours de la ligne ne dépasse pas 50 km. Cet équipement permet de contrôler le respect, entre autres, des temps de travail, de conduite, de repos donc des conditions de travail des conducteurs, ces dernières ayant un impact certain sur la sécurité routière. Un chef d'entreprise de transport public routier, de par les responsabilités qui pèsent sur lui, ne peut pas passer outre les exigences réglementaires en la matière, auxquelles il n'est pas envisageable de surseoir. S'agissant des obligations d'équipement des autocars en ceintures de sécurité et en éthylotest anti-démarrage, elles ont été inscrites dans les textes dès 2009 pour une mise en œuvre en 2015 afin de permettre aux opérateurs de procéder à une gestion anticipée de leur parc. Toutefois, compte tenu du contexte économique particulièrement difficile que connaît le département de la Martinique, la modification des mesures réglementaires inhérentes à ces deux obligations a été engagée afin de reporter au 1er septembre 2016 la date de leur mise en œuvre dans les départements et territoires d'outre-mer.
