@@ -1,0 +1,9 @@
+# Réponse à la question n° 31331
+
+- Question : [31331](31331.md) — Question n° 31331 — trottoirs
+
+## Réponse
+
+*JO du 2016-02-09*
+
+Le Conseil d'État a défini l'exercice de la compétence en matière de voirie comme un bloc insécable d'attributions comprenant l'entretien des voies et notamment leur nettoiement (CE, 18 mai 1988, no 53575). Par ailleurs, la compétence en matière de voirie s'exerce sur l'intégralité de l'emprise de la voie, constituée non seulement de la chaussée mais aussi de ses dépendances. Ces dernières comprennent les éléments accessoires nécessaires ou indispensables au soutien ou à la protection de ladite voie, parmi lesquelles sont inclus les trottoirs. La jurisprudence a en effet clairement établi que les trottoirs devaient être considérés comme des dépendances de la voie, puisqu'ils sont partie intégrante de l'emprise du domaine public routier, le Conseil d'Etat jugeant que « les trottoirs établis en bordure des voies publiques présentent, dans leur ensemble, le caractère de dépendances de ces voies » (CE, 14 mai 1975, no 90899). Aussi, par principe, si la commune a procédé au transfert de la compétence en matière de voirie à l'établissement public de coopération intercommunale (EPCI) dont elle est membre, il appartient à celui-ci d'assurer l'entretien des voies communales et de leurs trottoirs. Toutefois, l'article L. 5214-16 du code général des collectivités territoriales (CGCT) prévoit l'unique exception à ce principe, une communauté de communes pouvant sous certaines conditions limiter l'intérêt communautaire à certaines portions de trottoirs. En tout état de cause, sans préjudice de la compétence du gestionnaire de la voirie, le maire peut, au titre de son pouvoir de police générale, prendre les dispositions nécessaires pour assurer « la sûreté et la commodité » du passage sur les voies publiques (1° de l'article L. 2212-2-1° du CGCT).
