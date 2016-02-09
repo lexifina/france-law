@@ -1,0 +1,9 @@
+# Réponse à la question n° 84877
+
+- Question : [84877](84877.md) — Question n° 84877 — kinésithérapeutes; revalorisation
+
+## Réponse
+
+*JO du 2016-02-09*
+
+L'attractivité de la profession de masseurs-kinésithérapeutes en milieu hospitalier est un sujet majeur que le Gouvernement est soucieux d'améliorer. Cela passe en premier lieu par une reconnaissance statutaire qui corresponde aux niveaux de formation, de qualification et de responsabilité de la profession. Les masseurs-kinésithérapeutes sont actuellement classés dans le nouvel espace statutaire de la catégorie B et doivent intégrer la catégorie A, conformément au protocole d'accord du 2 février 2010, dit protocole LMD, dès que leur formation récemment réingéniée et portée à 4 années d'études après une année universitaire aura été reconnue à un grade universitaire. Pour autant, les questions d'attractivité ne se résument pas au débat sur le juste niveau des indices de rémunération. La réflexion sur les conditions d'exercice à l'hôpital, sur le lien ville-hôpital ou sur l'exercice mixte peut permettre d'identifier de puissants leviers d'attractivité notamment pour une profession à exercice libéral très majoritaire. Sur tous ces sujets, le Gouvernement considère qu'il ne faut écarter a priori aucune mesure qui permettrait de renforcer l'égal accès aux soins de nos concitoyens. Pour cette raison et dans le respect des principes fondamentaux du statut de la fonction publique, le ministère chargé de la santé est favorable à l'engagement de travaux portant notamment sur l'exercice mixte et l'autorisation du recours à des emplois titulaires à temps non complet. S'agissant de dispositions dérogatoires, elles ne peuvent naturellement se concevoir que dans un cadre précisément défini et en étroite concertation avec les représentants de la profession et des organisations syndicales.
