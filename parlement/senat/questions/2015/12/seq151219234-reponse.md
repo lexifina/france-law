@@ -1,0 +1,9 @@
+# Réponse à la question SEQ151219234
+
+- Question : [SEQ151219234](seq151219234.md) — Réponse apportée à la question écrite n° 17902
+
+## Réponse
+
+*Écologie, développement durable et énergie, JO du 2016-02-11, page 601*
+
+Le ministère de l'écologie du développement durable et de l'énergie n'envisage pas de renforcer les règles applicables aux voies existantes qui, sans avoir connu de transformation substantielle, ont vu leur trafic augmenter progressivement. En effet, le cadre réglementaire actuel permet de prendre en compte de telles situations au moyen des cartes de bruit stratégiques et des plans de prévention du bruit dans l'environnement. Les cartes de bruit sont destinées à permettre l'évaluation globale de l'exposition au bruit, notamment le long des infrastructures existantes importantes (plus de 3 millions de véhicules par an) qui pourraient occasionner des gênes aux populations situées à leurs abords. De telles cartes doivent également être dressées pour toutes les routes, quel que soit leur trafic, dans les agglomérations de plus de 100 000 habitants. Sur la base de ces cartes de bruit, il est établi des plans de prévention du bruit dans l'environnement qui recensent en particulier les mesures prévues par les autorités compétentes pour prévenir ou traiter les situations identifiées par les cartes de bruit, notamment lorsque les valeurs limites sont dépassées ou risquent de l'être à l'avenir. Lorsque de telles situations sont identifiées le long de voies existantes, ce qui peut bien sûr être le cas le long de voies dont le trafic a augmenté progressivement depuis leur construction, elles pourront être prises en compte par le plan d'actions en fonction des priorités ressorties et des moyens budgétaires que le législateur fixe pour ces politiques de lutte contre les nuisances sonores. Il est enfin rappelé que le public peut s'exprimer sur ces documents lors de leur mise en consultation avant approbation.
