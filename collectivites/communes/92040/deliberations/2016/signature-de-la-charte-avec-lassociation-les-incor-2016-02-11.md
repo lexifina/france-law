@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Signature de la Charte avec l’Association « les Incorruptibles » en faveur de la promotion de la littérature de jeunesse
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2016-02-11
+- Matière : JEUNESSE ET FAMILLE
+- Objet : Signature de la Charte avec l’Association « les Incorruptibles » en faveur de la promotion de la littérature de jeunesse
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTU0NzIsInB1ciI6ImJsb2JfaWQifX0=--f98c08c6b13d1eadc42c4f8c760f86db20d45071/110216_9.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
