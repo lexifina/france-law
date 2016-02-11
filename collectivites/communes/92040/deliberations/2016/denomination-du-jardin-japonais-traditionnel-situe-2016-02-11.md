@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Dénomination du jardin japonais traditionnel situé dans le quartier du Fort
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2016-02-11
+- Matière : RELATIONS INTERNATIONALES ET TOURISME
+- Objet : Dénomination du jardin japonais traditionnel situé dans le quartier du Fort
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTUxNzYsInB1ciI6ImJsb2JfaWQifX0=--b5b1e564673953da7824248c081fd6145d494b38/110216_2.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
