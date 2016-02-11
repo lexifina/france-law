@@ -1,0 +1,9 @@
+# Réponse à la question SEQ151018283
+
+- Question : [SEQ151018283](seq151018283.md) — Sénateurs et conseils régionaux
+
+## Réponse
+
+*Intérieur, JO du 2016-02-11, page 610*
+
+L'article L.O. 141-1 du code électoral, qui s'appliquera aux sénateurs par renvoi de l'article L.O. 297 du même code à compter du 1er octobre 2017, quelle que soit la série à laquelle ils appartiennent, prévoit que le mandat de sénateur est incompatible notamment avec celui de président et de vice-président de conseil régional. Selon l'article L.O. 151 du même code, le sénateur qui se trouve dans ce cas d'incompatibilité est tenu de faire cesser cette incompatibilité en démissionnant du mandat ou de la fonction qu'il détenait antérieurement, au plus tard le trentième jour qui suit la date de la proclamation des résultats de l'élection qui l'a mis en situation d'incompatibilité ou, en cas de contestation, la date à laquelle le jugement confirmant cette élection est devenu définitif. À défaut d'option dans le délai imparti, il est réputé avoir renoncé au mandat acquis ou renouvelé à la date la plus ancienne. Ainsi, en l'absence d'option ou en cas de démission du dernier mandat ou fonction acquis dans le délai imparti, le mandat ou la fonction acquis ou renouvelé à la date la plus ancienne prend fin de plein droit. Appliquée à un sénateur de la série 2 élu président ou vice-président de conseil régional en décembre 2015, cette règle a pour conséquence que ce parlementaire devra renoncer à son mandat de sénateur puisqu'il s'agira du mandat le plus ancien, s'il n'a pas démissionné de son mandat d'exécutif régional avant l'entrée en vigueur des dispositions de l'article L.O. 141-1 du code électoral, c'est-à-dire – conformément à ce que prévoit l'article 12 de la loi du 14 février 2014 – avant le 1er octobre 2017.
