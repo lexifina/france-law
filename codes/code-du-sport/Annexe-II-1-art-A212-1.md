@@ -2,7 +2,7 @@
 
 (Article A. 212-1 du code du sport)
 
-A.-Diplômes et titres délivrés par le ministère chargé de l'enseignement supérieur
+A. - Diplômes et titres délivrés par le ministère chargé de l'enseignement supérieur
 
 INTITULÉ DU DIPLÔME
 
@@ -110,9 +110,9 @@ Animation auprès de tout public par la découverte des activités physiques, sp
 
 Animation auprès de tout public, à l'exclusion :
 
--des groupes constitués de personnes ayant un handicap physique ou sensoriel, une déficience intellectuelle ou un trouble psychique ;
+- des groupes constitués de personnes ayant un handicap physique ou sensoriel, une déficience intellectuelle ou un trouble psychique ;
 
--des pratiques compétitives.
+- des pratiques compétitives.
 
 |
 
@@ -150,9 +150,9 @@ Encadrement et animation auprès de tout public, des activités physiques et spo
 
 Encadrement et animation auprès de tout public, à l'exclusion :
 
--des groupes constitués de personnes ayant un handicap physique ou sensoriel, une déficience intellectuelle ou un trouble psychique ;
+- des groupes constitués de personnes ayant un handicap physique ou sensoriel, une déficience intellectuelle ou un trouble psychique ;
 
--des pratiques compétitives.
+- des pratiques compétitives.
 
 |
 
@@ -206,11 +206,13 @@ Encadrement des activités physiques ou sportives à destination de différents 
 
 |
 
-B.-Diplômes et titres délivrés par le ministère chargé de l'agriculture
+B. - Diplômes et titres délivrés par le ministère chargé de l'agriculture
 
 Néant.
 
-C.-Diplômes délivrés par le ministère chargé des sports
+C. - Diplômes délivrés par le ministre chargé des sports
+
+C.1. - Brevet d'Etat d'éducateur sportif (BEES)
 
 INTITULÉ DU DIPLÔME
 
@@ -224,845 +226,13 @@ LIMITES DES CONDITIONS D'EXERCICE
 
 |
 
-Brevet d'Etat d'éducateur sportif (BEES)
+BEES du 3e degré, toutes options.
 
 |
 
-BEES, option "métiers de la forme".
+Enseignement de l'activité visée par l'option considérée, dans tout établissement.
 
 |
-
-Enseignement des méthodes et techniques visant à entretenir et améliorer la condition physique ; conduite de séances de préparation physique sportive.
-
-|
-
-|
-
-BEES, option "activités gymniques" (gymnastique générale, gymnastique artistique féminine, gymnastique artistique masculine, gymnastique rythmique et sportive, aérobic).
-
-|
-
-Enseignement des activités gymniques dans tout établissement.
-
-|
-
-|
-
-BEES, option "gymnastique sportive féminine".
-
-|
-
-Enseignement des activités gymniques dans tout établissement.
-
-|
-
-|
-
-BEES, option "gymnastique sportive masculine".
-
-|
-
-Enseignement des activités gymniques dans tout établissement.
-
-|
-
-|
-
-BEES, option "gymnastique sportive masculine et féminine".
-
-|
-
-Enseignement des activités gymniques dans tout établissement.
-
-|
-
-|
-
-BEES, option "gymnastique rythmique et sportive".
-
-|
-
-Enseignement des activités gymniques dans tout établissement.
-
-|
-
-|
-
-BEES, option "haltérophilie, culturisme, musculation éducative, sportive et d'entretien".
-
-|
-
-Enseignement de l'haltérophilie, du culturisme, de la musculation éducative, sportive et d'entretien dans tout établissement.
-
-|
-
-|
-
-BEES, option "animation des activités physiques pour tous".
-
-|
-
-Encadrement des activités physiques ou sportives dans une perspective de découverte des activités encadrées, de développement et de maintien des capacités physiques individuelles dans tout établissement.
-
-|
-
-A l'exclusion de toute activité d'entraînement ou d'approfondissement d'une discipline sportive.
-
-|
-
-BEES, option "activités physiques et sportives adaptées".
-
-|
-
-Enseignement des activités physiques ou sportives adaptées auprès des personnes déficientes intellectuelles ou des personnes atteintes de troubles psychiques.
-
-|
-
-Enseignement de la natation sous la surveillance d'un maître nageur sauveteur.
-
-|
-
-BEES, option "sports pour handicapés physiques et sensoriels" (options principales : athlétisme, basket-ball en fauteuil roulant, développé couché et musculation, tennis de table, tir à l'arc, volley-ball, natation, ski alpin, ski nordique de fond).
-
-|
-
-Enseignement des activités physiques ou sportives adaptées auprès des personnes handicapées physiques et sensorielles.
-
-|
-
-Enseignement de la natation dans les seuls établissements spécialisés, sous la surveillance d'un maître nageur sauveteur ;
-
-Enseignement du ski alpin et du ski nordique réservé aux personnes ayant choisi ces disciplines en option.
-
-|
-
-BEES, option "activités de la natation".
-
-|
-
-Enseignement des activités de la natation, entraînement à la compétition et surveillance des baignades dans tout lieu de baignade ou établissement de natation.
-
-|
-
-Sous réserve de la présentation du certificat quinquennal d'aptitude à l'exercice de la profession de maître nageur sauveteur, en cours de validité.
-
-|
-
-BEES, option "aviron".
-
-|
-
-Enseignement de l'aviron dans tout établissement.
-
-|
-
-|
-
-BEES, option "canoë-kayak et disciplines associées".
-
-|
-
-Enseignement du canoë-kayak (canoë-kayak, raft, nage en eaux vives) dans tout établissement.
-
-|
-
-Dans les rivières jusqu'à la classe 3.
-
-En mer jusqu'à un mille d'un abri et par vent jusqu'à 3 Beaufort.
-
-|
-
-BEES, option "canoë-kayak et disciplines associées" assorti du certificat de qualification complémentaire (CQC) "entraînement à la compétition".
-
-|
-
-Enseignement du canoë-kayak (canoë-kayak, raft, nage en eaux vives) dans tout établissement. Organisation et encadrement de séances ou stages d'entraînement.
-
-|
-
-Dans les rivières jusqu'à la classe 3.
-
-En mer jusqu'à un mille d'un abri et par vent jusqu'à 3 Beaufort.
-
-|
-
-BEES, option "canoë-kayak et disciplines associées" assorti du CQC "mer".
-
-|
-
-Enseignement du canoë-kayak (canoë-kayak, raft, nage en eaux vives) dans tout établissement. Organisation et encadrement des sorties en mer, y compris vent supérieur à force 3 Beaufort ou à plus d'un mille d'un abri accessible et conduite des séances d'apprentissage et d'entraînement de canoë-kayak de vagues.
-
-|
-
-|
-
-BEES, option "canoë-kayak et disciplines associées" assorti du CQC "raft en eaux vives".
-
-|
-
-Enseignement du canoë-kayak (canoë-kayak, raft, nage en eaux vives) dans tout établissement. Organisation et encadrement du canoë-kayak et du raft y compris dans les rivières de classe supérieure à 3.
-
-|
-
-|
-
-BEES, option "canoë-kayak et disciplines associées" assorti du CQC "nage en eaux vives".
-
-|
-
-Enseignement du canoë-kayak (canoë-kayak, raft, nage en eaux vives) dans tout établissement. Organisation et encadrement du canoë-kayak et de la nage en eaux vives y compris dans les rivières de classe supérieure à 3.
-
-|
-
-|
-
-BEES, option "canoë-kayak et disciplines associées" assorti du CQC "canoë-kayak en eaux vives".
-
-|
-
-Organisation et enseignement du canoë-kayak sur rivières de toutes classes.
-
-|
-
-|
-
-BEES, option "char à voile".
-
-|
-
-Enseignement du char à voile dans tout établissement.
-
-|
-
-|
-
-BEES, option "plongée subaquatique".
-
-|
-
-Enseignement de la plongée subaquatique dans les conditions techniques et de sécurité prévues par la réglementation.
-
-|
-
-|
-
-BEES, option "ski nautique".
-
-|
-
-Enseignement et organisation des activités de ski nautique sous toutes leurs formes, dans tout établissement.
-
-|
-
-|
-
-BEES, option "surf".
-
-|
-
-Enseignement des activités du surf dans tout établissement.
-
-|
-
-|
-
-BEES, option "voile".
-
-|
-
-Enseignement de la voile (catamarans, dériveurs, planches à voile, habitables) dans tout établissement.
-
-|
-
-|
-
-BEES, option "aïkido", spécialité "aïkido".
-
-|
-
-Enseignement de l'aïkido dans tout établissement.
-
-|
-
-|
-
-BEES, option "aïkido", spécialité "aïkibudo"
-
-|
-
-Enseignement de l'aïkibudo dans tout établissement.
-
-|
-
-|
-
-BEES, option "boxe anglaise".
-
-|
-
-Enseignement de la boxe anglaise dans tout établissement, avec le titre de prévôt.
-
-|
-
-|
-
-BEES, option "boxe française".
-
-|
-
-Enseignement de la boxe française dans tout établissement.
-
-|
-
-|
-
-BEES, option "escrime".
-
-|
-
-Enseignement de l'escrime (épée, fleuret, sabre) dans tout établissement, avec le titre de maître d'armes.
-
-|
-
-|
-
-BEES, option "judo, jujitsu".
-
-|
-
-Enseignement du judo et des disciplines associées dans tout établissement.
-
-|
-
-|
-
-BEES, option "karaté et arts martiaux affinitaires".
-
-|
-
-Enseignement du karaté et des arts martiaux affinitaires dans tout établissement.
-
-|
-
-|
-
-BEES, option "lutte".
-
-|
-
-Enseignement de la lutte dans tout établissement.
-
-|
-
-|
-
-BEES, option "sambo".
-
-|
-
-Enseignement du sambo dans tout établissement.
-
-|
-
-|
-
-BEES, option "taekwondo et disciplines associées".
-
-|
-
-Enseignement du taekwondo et des disciplines associées dans tout établissement.
-
-|
-
-|
-
-BEES, option "athlétisme".
-
-|
-
-Enseignement de l'athlétisme (vitesse, haies, demi-fond, fond, marche, sauts, lancers) dans tout établissement.
-
-|
-
-|
-
-BEES, option "badminton".
-
-|
-
-Enseignement du badminton dans tout établissement.
-
-|
-
-|
-
-BEES, option "billard".
-
-|
-
-Enseignement du billard (billard français, américain, pool anglais) dans tout établissement.
-
-|
-
-|
-
-BEES, option "bobsleigh".
-
-|
-
-Enseignement du bobsleigh dans tout établissement.
-
-|
-
-|
-
-BEES, option "hockey sur glace".
-
-|
-
-Enseignement du hockey sur glace dans tout établissement.
-
-|
-
-|
-
-BEES, option "patinage sur glace".
-
-|
-
-Enseignement du patinage sur glace dans tout établissement.
-
-|
-
-|
-
-BEES, option "patinage artistique".
-
-|
-
-Enseignement du patinage sur glace et notamment du patinage artistique dans tout établissement.
-
-|
-
-|
-
-BEES, option "patinage de vitesse".
-
-|
-
-Enseignement du patinage sur glace et notamment du patinage de vitesse dans tout établissement.
-
-|
-
-|
-
-BEES, option "patinage danse".
-
-|
-
-Enseignement du patinage sur glace et notamment du patinage danse dans tout établissement.
-
-|
-
-|
-
-BEES, option "roller-skating".
-
-|
-
-Enseignement du roller-skating (patinage artistique, rink-hockey, course, danse, randonnée, roller acrobatique, roller in line hockey, skateboard) dans tout établissement.
-
-|
-
-|
-
-BEES, option "pentathlon moderne".
-
-|
-
-Enseignement du pentathlon moderne dans tout établissement.
-
-|
-
-|
-
-BEES, option "motocyclisme".
-
-|
-
-Enseignement du motocyclisme dans tout établissement.
-
-|
-
-|
-
-BEES, option "motocyclisme" assorti du CQC "sécurité routière des cyclomotoristes".
-
-|
-
-Enseignement du motocyclisme dans tout établissement. Encadrement de stages d'initiation à la conduite de cyclomoteurs dont le déroulement s'effectue en partie sur la voie publique et qui conduisent à la délivrance du brevet de sécurité routière valant autorisation de conduite des cyclomoteurs.
-
-|
-
-|
-
-BEES, option "trampoline et sports acrobatiques".
-
-|
-
-Enseignement du trampoline et des sports acrobatiques dans tout établissement : trampoline, double mini-tramp, tumbling, acrosport.
-
-|
-
-|
-
-BEES, option "golf".
-
-|
-
-Enseignement du golf et des disciplines associées dans tout établissement.
-
-|
-
-|
-
-BEES, option "tennis".
-
-|
-
-Enseignement du tennis dans tout établissement.
-
-|
-
-|
-
-BEES, option "tennis de table".
-
-|
-
-Enseignement du tennis de table dans tout établissement.
-
-|
-
-|
-
-BEES, option "squash".
-
-|
-
-Enseignement du squash dans tout établissement.
-
-|
-
-|
-
-BEES, option "tir à l'arc".
-
-|
-
-Enseignement du tir à l'arc dans tout établissement.
-
-|
-
-|
-
-BEES, option "tir sportif".
-
-|
-
-Enseignement du tir sportif dans tout établissement :
-
--plateau : double trap, fosse olympique, skeet olympique, fosse américaine ;
-
--cible : arbalète, carabine, pistolet, sanglier courant.
-
-|
-
-|
-
-BEES, option "sport-boules".
-
-|
-
-Enseignement du sport-boules dans tout établissement.
-
-|
-
-|
-
-BEES, option "pelote basque".
-
-|
-
-Enseignement de la pelote basque dans tout établissement.
-
-|
-
-|
-
-BEES, option "activités du cyclisme".
-
-|
-
-Enseignement des activités du cyclisme dans tout établissement.
-
-|
-
-|
-
-BEES, option "cyclisme", spécialité "cyclisme traditionnel".
-
-|
-
-Enseignement du cyclisme traditionnel dans tout établissement : route, piste, cyclo-cross.
-
-|
-
-|
-
-BEES, option "cyclisme", spécialité "bicross".
-
-|
-
-Enseignement du bicross dans tout établissement.
-
-|
-
-|
-
-BEES, option "cyclisme", spécialité "cyclisme en salle".
-
-|
-
-Enseignement du cyclisme en salle dans tout établissement.
-
-|
-
-|
-
-BEES, option "cyclisme", spécialité "vélo tout terrain (VTT)".
-
-|
-
-Enseignement du vélo tout terrain dans tout établissement.
-
-|
-
-|
-
-BEES, option "cyclisme" assorti du CQC "VTT en milieu montagnard".
-
-|
-
-Enseignement de la spécialité et de l'activité VTT en milieu montagnard dans tout établissement.
-
-|
-
-|
-
-BEES, option "course d'orientation".
-
-|
-
-Enseignement et conduite de la course d'orientation dans tout établissement.
-
-|
-
-|
-
-BEES, option "équitation-activités équestres".
-
-|
-
-Enseignement des activités équestres dans tout établissement.
-
-|
-
-|
-
-BEES, option "parachutisme", spécialité "progression traditionnelle (TRAD)".
-
-|
-
-Enseignement de la TRAD dans tout établissement.
-
-|
-
-|
-
-BEES, option "parachutisme", spécialité "progression accompagnée en chute libre (PAC)".
-
-|
-
-Enseignement de la PAC dans tout établissement.
-
-|
-
-|
-
-BEES, option "parachutisme", spécialité "parachute biplace (tandem)".
-
-|
-
-Enseignement du parachute biplace (tandem) dans tout établissement.
-
-|
-
-|
-
-BEES, option "vol libre", spécialité "parapente".
-
-|
-
-Enseignement du parapente dans tout établissement.
-
-|
-
-|
-
-BEES, option "vol libre", spécialité "delta".
-
-|
-
-Enseignement du delta dans tout établissement.
-
-|
-
-|
-
-BEES, option "spéléologie", délivré avant le 31 décembre 1996.
-
-|
-
-Encadrement de la spéléologie dans toute cavité et tout établissement.
-
-|
-
-|
-
-BEES, option "spéléologie", délivré après le 1er janvier 1997.
-
-|
-
-Enseignement de la spéléologie dans toutes cavités, canyons, lieux d'entraînement pour tout public et dans le respect du milieu naturel.
-
-|
-
-|
-
-BEES, option "escalade", délivré avant le 31 décembre 1996.
-
-|
-
-Enseignement de la discipline sur des structures artificielles d'escalade à toute altitude et sur des sites naturels d'escalade situés à une altitude inférieure à 1 500 mètres.
-
-|
-
-|
-
-BEES, option "escalade", délivré après le 1er janvier 1997.
-
-|
-
-Enseignement de la discipline sur des structures artificielles d'escalade et dans les canyons à caractéristiques verticales et aquatiques nécessitant l'usage d'agrès à toute altitude et sur des sites naturels d'escalade situés à une altitude inférieure à 1 500 mètres.
-
-|
-
-A l'exclusion :
-
--des sites enneigés ou de ceux dont l'accès ne peut s'effectuer qu'en traversant des zones enneigées ;
-
--des sites dont la fréquentation fait appel aux techniques de la neige et de la glace.
-
-Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'un stage de recyclage.
-
-|
-
-Diplôme d'aspirant guide du brevet d'Etat d'alpinisme.
-
-|
-
-Encadrement et conduite de personnes dans des excursions ou des ascensions :
-
--alpinisme (randonnée, rocher, neige, glace et mixte) : randonnées à toutes altitudes ; courses faciles et peu difficiles ; courses AD, D, TD ; courses hivernales
-
--ski alpinisme ;
-
--escalade sportive.
-
-Enseignement des techniques d'alpinisme, de ski de randonnée, de ski alpinisme et ski hors pistes et entraînement aux pratiques de compétition dans ces disciplines.
-
-|
-
-Alpinisme :
-
--courses faciles et peu difficiles jusqu'à 5 000 mètres ;
-
--courses AD, D, TD jusqu'à 3 500 mètres ;
-
--courses hivernales jusqu'à 2 000 mètres sans limitation de difficulté.
-
-Ski alpinisme jusqu'à 4 000 mètres et pour des randonnées à ski de deux jours maximum (une seule nuit en refuge).
-
-Escalade sportive jusqu'à 2 000 mètres sans limitation de difficulté.
-
-Enseignement des techniques d'alpinisme, de ski de randonnée, de ski alpinisme et ski hors pistes et entraînement aux pratiques de compétition dans les mêmes limites.
-
-Ces limites sont sans objet, lorsque les activités sont placées sous la conduite d'un guide.
-
-|
-
-Diplôme de guide de haute montagne du brevet d'Etat d'alpinisme délivré avant le 31 décembre 1996.
-
-|
-
-Conduite et accompagnement de personnes dans des excursions ou des ascensions de montagne en rocher, neige, glace et terrain mixte. Conduite et accompagnement de personnes dans des excursions de ski de randonnée, ski alpinisme et en ski hors pistes. Enseignement des techniques d'alpinisme, d'escalade et de ski de randonnée, ski alpinisme et ski hors pistes. Entraînement aux pratiques de compétition dans les disciplines précitées.
-
-|
-
-Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'un stage de recyclage.
-
-|
-
-Diplôme de guide de haute montagne du brevet d'Etat d'alpinisme délivré après le 1er janvier 1997.
-
-|
-
-Conduite et accompagnement de personnes dans des excursions ou des ascensions de montagne en rocher, neige, glace et terrain mixte. Conduite et accompagnement de personnes dans des excursions de ski de randonnée, ski alpinisme et en ski hors pistes. Enseignement des techniques d'alpinisme, d'escalade et de ski de randonnée, ski alpinisme et ski hors pistes. Entraînement aux pratiques de compétition dans les disciplines précitées. Encadrement et enseignement de la pratique des canyons à caractéristiques verticales et aquatiques nécessitant l'usage d'agrès.
-
-|
-
-Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'un stage de recyclage.
-
-|
-
-Diplôme de guide de haute montagne du brevet d'Etat d'alpinisme assorti du CQC "VTT en milieu montagnard".
-
-|
-
-Conduite et accompagnement de personnes dans des excursions ou des ascensions de montagne en rocher, neige, glace et terrain mixte. Conduite et accompagnement de personnes dans des excursions de ski de randonnée, ski alpinisme et en ski hors pistes. Enseignement des techniques d'alpinisme, d'escalade et de ski de randonnée, ski alpinisme et ski hors pistes. Entraînement aux pratiques de compétition dans les disciplines précitées. Enseignement de l'activité VTT en milieu montagnard.
-
-|
-
-Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'un stage de recyclage.
-
-|
-
-Diplôme d'accompagnateur en moyenne montagne (AMM) du brevet d'Etat d'alpinisme délivré en application de l'arrêté du 5 juin 1985 modifié fixant les conditions de délivrance du diplôme d'AMM du brevet d'Etat d'alpinisme.
-
-|
-
-Conduite et encadrement de personnes en espace rural montagnard. Animation de groupes et enseignement des connaissances et savoir-faire propres à l'activité et au milieu.
-
-|
-
-A l'exclusion :
-
--des rochers, des glaciers, des canyons et des terrains nécessitant, pour la progression l'utilisation du matériel ou des techniques de l'alpinisme ;
-
--de toute pratique de la moyenne montagne enneigée.
-
-Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'un stage de recyclage.
 
 |
 
@@ -1070,7 +240,7 @@ Diplôme d'AMM du brevet d'Etat d'alpinisme délivré en application de l'arrêt
 
 |
 
-Conduite et encadrement de personnes en espace rural montagnard ainsi que sur des terrains enneigés faciles, vallonnés, de type nordique, excluant tout accident de terrain et situés en moyenne montagne.
+Conduite et encadrement de personnes en espace rural montagnard ainsi que sur des terrains enneigés faciles, vallonnés, de type nordique excluant tout accident de terrain et situés en moyenne montagne.
 
 Animation de groupes et enseignement des connaissances et savoir-faire propres à l'activité et au milieu.
 
@@ -1078,9 +248,9 @@ Animation de groupes et enseignement des connaissances et savoir-faire propres �
 
 A l'exclusion :
 
--des rochers, des glaciers, des canyons et des terrains nécessitant pour la progression, l'utilisation du matériel ou des techniques de l'alpinisme ;
+- des rochers, des glaciers, des canyons et des terrains nécessitant pour la progression l'utilisation du matériel ou des techniques de l'alpinisme ;
 
--de la pratique du ski et activités assimilées.
+- de la pratique du ski et activités assimilées.
 
 Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'un stage de recyclage.
 
@@ -1090,7 +260,7 @@ Diplôme d'AMM du brevet d'Etat d'alpinisme assorti de la qualification "pratiqu
 
 |
 
-Conduite et encadrement de personnes en espace rural montagnard ainsi que sur des terrains enneigés faciles, vallonnés, de type nordique, excluant tout accident de terrain et situés en moyenne montagne.
+Conduite et encadrement de personnes en espace rural montagnard ainsi que sur des terrains enneigés faciles, vallonnés, de type nordique excluant tout accident de terrain et situés en moyenne montagne.
 
 Animation de groupes et enseignement des connaissances et savoir-faire propres à l'activité et au milieu.
 
@@ -1098,9 +268,9 @@ Animation de groupes et enseignement des connaissances et savoir-faire propres �
 
 A l'exclusion :
 
--des rochers, des glaciers, des canyons et des terrains nécessitant, pour la progression, l'utilisation du matériel ou des techniques de l'alpinisme ;
+- des rochers, des glaciers, des canyons et des terrains nécessitant pour la progression l'utilisation du matériel ou des techniques de l'alpinisme ;
 
--de la pratique du ski et activités assimilées.
+- de la pratique du ski et activités assimilées.
 
 Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'un stage de recyclage.
 
@@ -1110,7 +280,7 @@ Diplôme d'AMM du brevet d'Etat d'alpinisme assorti du brevet national de pisteu
 
 |
 
-Conduite et encadrement de personnes en espace rural montagnard ainsi que sur des terrains enneigés faciles, vallonnés, de type nordique, excluant tout accident de terrain et situés en moyenne montagne.
+Conduite et encadrement de personnes en espace rural montagnard ainsi que sur des terrains enneigés faciles, vallonnés, de type nordique excluant tout accident de terrain et situés en moyenne montagne.
 
 Animation de groupes et enseignement des connaissances et savoir-faire propres à l'activité et au milieu.
 
@@ -1118,9 +288,9 @@ Animation de groupes et enseignement des connaissances et savoir-faire propres �
 
 A l'exclusion :
 
--des rochers, des glaciers, des canyons et des terrains nécessitannt pour la progression, l'utilisation du matériel ou des techniques de l'alpinisme ;
+- des rochers, des glaciers, des canyons et des terrains nécessitant pour la progression l'utilisation du matériel ou des techniques de l'alpinisme ;
 
--de la pratique du ski et activités assimilées.
+- de la pratique du ski et activités assimilées.
 
 Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'un stage de recyclage.
 
@@ -1130,7 +300,7 @@ Diplôme d'AMM du brevet d'Etat d'alpinisme assorti du BEES du 1er degré, optio
 
 |
 
-Conduite et encadrement de personnes en espace rural montagnard ainsi que sur des terrains enneigés faciles, vallonnés, de type nordique, excluant tout accident de terrain et situés en moyenne montagne.
+Conduite et encadrement de personnes en espace rural montagnard ainsi que sur des terrains enneigés faciles, vallonnés, de type nordique excluant tout accident de terrain et situés en moyenne montagne.
 
 Animation de groupes et enseignement des connaissances et savoir-faire propres à l'activité et au milieu.
 
@@ -1140,9 +310,9 @@ Prérogatives conférées aux titulaires du BEES option "ski alpin" ou "ski nord
 
 A l'exclusion :
 
--des rochers, des glaciers, des canyons et des terrains nécessitant, pour la progression, l'utilisation du matériel ou des techniques de l'alpinisme ;
+- des rochers, des glaciers, des canyons et des terrains nécessitant pour la progression l'utilisation du matériel ou des techniques de l'alpinisme ;
 
--de la pratique du ski et activités assimilées.
+- de la pratique du ski et activités assimilées.
 
 Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'un stage de recyclage.
 
@@ -1156,7 +326,7 @@ Conduite et encadrement de personnes en moyenne montagne tropicale, animation de
 
 |
 
-A l'exclusion des rochers, des canyons, des terrains nécessitant, pour la progression, l'utilisation du matériel ou des techniques de l'alpinisme.
+A l'exclusion des rochers, des canyons, des terrains nécessitant pour la progression l'utilisation du matériel ou des techniques de l'alpinisme.
 
 |
 
@@ -1180,109 +350,17 @@ Enseignement de l'activité VTT en milieu montagnard.
 
 |
 
-BEES, option "ski alpin".
+C.2. - Brevet d'aptitude professionnelle d'assistant animateur technicien de la jeunesse et des sports (BAPAAT)
+
+INTITULÉ DU DIPLÔME
 
 |
 
-Enseignement et entraînement en ski alpin et activités assimilées à l'ensemble des classes de la progression du ski alpin définies par le Conseil supérieur des sports de montagne (CSSM). Permet d'exercer sur pistes et hors pistes. Confère le titre de moniteur national.
+CONDITIONS D'EXERCICE
 
 |
 
-A l'exclusion des zones glaciaires non balisées et des terrains dont la fréquentation fait appel aux techniques de l'alpinisme.
-
-|
-
-BEES, option "ski nordique de fond".
-
-|
-
-Enseignement, encadrement et animation du ski nordique de fond sous toutes ses formes, dans toutes les classes de la progression de l'enseignement du ski nordique de fond définie par le CSSM, y compris la classe compétition. Confère le titre de moniteur national.
-
-|
-
-|
-
-BEES, option "football".
-
-|
-
-Enseignement du football dans tout établissement.
-
-|
-
-|
-
-BEES, option "baseball et softball".
-
-|
-
-Enseignement du baseball et du softball dans tout établissement.
-
-|
-
-|
-
-BEES option "basket-ball".
-
-|
-
-Enseignement du basket-ball dans tout établissement.
-
-|
-
-|
-
-BEES, option "handball".
-
-|
-
-Enseignement du handball dans tout établissement.
-
-|
-
-|
-
-BEES, option "volley-ball".
-
-|
-
-Enseignement du volley-ball dans tout établissement.
-
-|
-
-|
-
-BEES, option "hockey sur gazon".
-
-|
-
-Enseignement du hockey sur gazon dans tout établissement.
-
-|
-
-|
-
-BEES, option "rugby".
-
-|
-
-Enseignement du rugby dans tout établissement.
-
-|
-
-|
-
-BEES, option "rugby à XIII".
-
-|
-
-Enseignement du rugby à XIII dans tout établissement.
-
-|
-
-|
-
-Brevet d'aptitude professionnelle d'assistant animateur technicien de la jeunesse et des sports (BAPAAT)
+LIMITES DES CONDITIONS D'EXERCICE
 
 |
 
@@ -1388,7 +466,7 @@ Initiation à la spéléologie, avec les prérogatives et dans les conditions pr
 
 |
 
-Vélo tout-terrain (VTT).
+Vélo tout terrain (VTT).
 
 |
 
@@ -1428,11 +506,11 @@ Animation des jeux sportifs collectifs, avec les prérogatives et dans les condi
 
 |
 
-Roller-skating.
+Roller skating.
 
 |
 
-Animation de l'activité roller-skating, avec les prérogatives et dans les conditions prévues par l'arrêté du 19 janvier 1993 modifié.
+Animation de l'activité roller skating, avec les prérogatives et dans les conditions prévues par l'arrêté du 19 janvier 1993 modifié.
 
 |
 
@@ -1468,17 +546,27 @@ Animation de la pratique du swin, avec les prérogatives et dans les conditions 
 
 |
 
-Randonnée équestre et brevet d'études professionnelles agricoles, option "activités hippiques", support technique "randonnée équestre".
+Randonnée équestre et brevet d'études professionnelles agricoles, option "activités hippiques, support technique "randonnée équestre".
 
 |
 
-Conduite de randonnées équestres dans les conditions prévues par l'arrêté du 14 septembre 1993 créant une spécialité "accompagnement de randonnée équestre" du brevet d'études professionnelles agricoles, option "activités hippiques" et fixant les modalités de certification conjointe avec le BAPAAT, support technique "randonnée équestre".
+Conduite de randonnées équestres dans les conditions prévues par l'arrêté du 14 septembre 1993 créant une spécialité "accompagnement de randonnée équestre" du brevet d'études professionnelles agricoles, option "activités hippiques", et fixant les modalités de certification conjointe avec le BAPAAT, support technique "randonnée équestre".
 
 |
 
 |
 
-Brevet professionnel de la jeunesse, de l'éducation populaire et du sport (BP JEPS)
+C.3. - Brevet professionnel de la jeunesse, de l'éducation populaire et du sport (BP JEPS)
+
+INTITULÉ DU DIPLÔME
+
+|
+
+CONDITIONS D'EXERCICE
+
+|
+
+LIMITES DES CONDITIONS D'EXERCICE
 
 |
 
@@ -1486,7 +574,9 @@ BP JEPS, spécialité "activités équestres".
 
 |
 
-Conduite de séances et de cycles d'initiation, de découverte et d'animation sportive dans toutes les activités équestres. |
+Conduite de séances et de cycles d'initiation, de découverte et d'animation sportive dans toutes les activités équestres.
+
+|
 
 |
 
@@ -1494,15 +584,17 @@ Mentions de la spécialité "activités équestres"
 
 |
 
-Equitation.
+Equitation
 
 |
 
-Conduite de séances et de cycles d'enseignement jusqu'au premier niveau de compétition en équitation. |
+Conduite de séances et de cycles d'enseignement jusqu'au premier niveau de compétition en équitation.
 
 |
 
-Tourisme équestre.
+|
+
+Tourisme équestre
 
 |
 
@@ -1512,7 +604,7 @@ Conduite de séances et de cycles d'enseignement jusqu'au premier niveau de comp
 
 |
 
-Equitation western.
+Equitation western
 
 |
 
@@ -1522,7 +614,7 @@ Conduite de séances et de cycles d'enseignement jusqu'au premier niveau de comp
 
 |
 
-Equitation de tradition et de travail.
+Equitation de tradition et de travail
 
 |
 
@@ -1532,29 +624,11 @@ Conduite de séances et de cycles d'enseignement jusqu'au premier niveau de comp
 
 |
 
-Attelage.
+Attelage
 
 |
 
 Conduite de séances et de cycles d'enseignement jusqu'au premier niveau de compétition en attelage.
-
-|
-
-|
-
-Certificats de spécialisation (CS) associés à la spécialité "activités équestres"
-
-|
-
-|
-
-|
-
-CS "course d'orientation".
-
-|
-
-Conduite de cycles d'animation en course d'orientation.
 
 |
 
@@ -1572,7 +646,9 @@ Mentions monovalentes de la spécialité "activités nautiques"
 
 |
 
-Aviron et disciplines associées. |
+Aviron et disciplines associées.
+
+|
 
 Encadrement et animation d'activités de découverte et d'initiation, incluant les premiers niveaux de compétition en aviron et disciplines associées.
 
@@ -1580,7 +656,9 @@ Encadrement et animation d'activités de découverte et d'initiation, incluant l
 
 |
 
-Canoë-kayak et disciplines associées. |
+Canoë-kayak et disciplines associées.
+
+|
 
 Encadrement et animation d'activités de découverte et d'initiation, incluant les premiers niveaux de compétition en canoë-kayak et disciplines associées sur tout support ou embarcation propulsée à la pagaie ou à la nage.
 
@@ -1602,7 +680,7 @@ Char à voile.
 
 |
 
-Encadrement et animation d'activités de découverte et d'initiation, incluant les premiers niveaux de compétition en char à voile. Char à voile en pratique assise et allongée, en pratique debout, en pratique tractée, pour tout lieu de pratique de l'activité aménagé et ouvert.
+Encadrement et animation d'activités de découverte et d'initiation incluant les premiers niveaux de compétition en char à voile. Char à voile en pratique assise et allongée, en pratique debout, en pratique tractée, pour tout lieu de pratique de l'activité aménagé et ouvert.
 
 |
 
@@ -1612,7 +690,7 @@ Glisse aérotractée.
 
 |
 
-Encadrement et animation d'activités de découverte et d'initiation, incluant les premiers niveaux de compétition en glisse aérotractée.
+Encadrement et animation d'activités de découverte et d'initiation incluant les premiers niveaux de compétition en glisse aérotractée.
 
 |
 
@@ -1624,7 +702,7 @@ Motonautisme.
 
 |
 
-Encadrement et animation d'activités de découverte et d'initiation, incluant les premiers niveaux de compétition en motonautisme.
+Encadrement et animation d'activités de découverte et d'initiation incluant les premiers niveaux de compétition en motonautisme.
 
 |
 
@@ -1632,17 +710,23 @@ Activités de jet, bateau à moteur, engins tractés, pour tout public et sur to
 
 |
 
-Ski nautique et disciplines associées. |
+Ski nautique et disciplines associées.
 
-Encadrement et animation d'activités de découverte et d'initiation, incluant les premiers niveaux de compétition en ski nautique et disciplines associées. |
+|
 
-Activités du ski nautique et des disciplines associées (téléski nautique, wakeboard, nu-pied et courses), pour tout public et sur tout lieu de pratique de l'activité. |
+Encadrement et animation d'activités de découverte et d'initiation incluant les premiers niveaux de compétition en ski nautique et disciplines associées.
+
+|
+
+Activités du ski nautique et des disciplines associées (téléski nautique, wakeboard, nu-pied et courses) pour tout public et sur tout lieu de pratique de l'activité.
+
+|
 
 Surf.
 
 |
 
-Encadrement et animation d'activités de découverte et d'initiation, incluant les premiers niveaux de compétition en surf.
+Encadrement et animation d'activités de découverte et d'initiation incluant les premiers niveaux de compétition en surf.
 
 |
 
@@ -1670,13 +754,17 @@ Groupe A
 
 |
 
-Aviron de mer.
+Aviron de mer
 
 |
 
-Encadrement et animation d'activités de découverte et d'initiation, incluant les premiers niveaux de compétition en aviron de mer. |
+Encadrement et animation d'activités de découverte et d'initiation incluant les premiers niveaux de compétition en aviron de mer.
 
-Sur des bateaux d'aviron utilisables en mer, pour tout public, sur le milieu marin. |
+|
+
+Sur des bateaux d'aviron utilisables en mer, pour tout public, sur le milieu marin.
+
+|
 
 Aviron d'initiation et de découverte.
 
@@ -1686,7 +774,9 @@ Encadrement et animation d'activités de découverte et d'initiation.
 
 |
 
-Sur tout type de bateaux, pour tout public sur des plans d'eau calmes, abrités et délimités. |
+Sur tout type de bateau, pour tout public, sur des plans d'eau calmes, abrités et délimités.
+
+|
 
 Groupe B
 
@@ -1696,17 +786,19 @@ Canoë-kayak "eau calme et rivière d'eau vive".
 
 |
 
-Encadrement et animation d'activités de découverte et d'initiation, incluant les premiers niveaux de compétition en canoë-kayak "eau calme et rivière d'eau vive".
+Encadrement et animation d'activités de découverte et d'initiation incluant les premiers niveaux de compétition en canoë-kayak "eau calme et rivière d'eau vive".
 
 |
 
-Pour tout public, en eau calme et en rivière, jusqu'en classe III incluse. |
-
-Canoë-kayak "eau calme, mer et vagues".
+Pour tout public en eau calme et en rivière jusqu'en classe III incluse.
 
 |
 
-Encadrement et animation d'activités de découverte et d'initiation, incluant les premiers niveaux de compétition en canoë-kayak "eau calme, mer et vagues"
+Canoë-kayak "eau clame, mer et vagues".
+
+|
+
+Encadrement et animation d'activités de découverte et d'initiation incluant les premiers niveaux de compétition en canoë-kayak "eau calme, mer et vagues".
 
 |
 
@@ -1718,11 +810,13 @@ Groupe C
 
 |
 
-Char à voile d'initiation et de découverte.
+Char à voile d'initiation, et de découverte.
 
 |
 
-Encadrement et animation d'activités de découverte et d'initiation en char à voile. |
+Encadrement et animation d'activités de découverte et d'initiation en char à voile.
+
+|
 
 Sur tout support (à l'exception des activités tractées), sur des parcours école aménagés.
 
@@ -1740,7 +834,7 @@ Encadrement et animation d'activités de découverte et d'initiation, incluant l
 
 |
 
-Sur des voiliers autres que les embarcations légères de plaisance, pour tout public, jusqu'à 12 milles nautiques d'un abri. Au-delà, possibilité d'encadrer en croisière au sein d'une flottille et sous la responsabilité d'un chef de flottille possédant les diplômes requis.
+Sur des voiliers autres que les embarcations légères de plaisance, pour tout public jusqu'à 12 milles nautiques d'un abri. Au-delà, possibilité d'encadrer en croisière au sein d'une flottille et sous la responsabilité d'un chef de flottille possédant les diplômes requis.
 
 |
 
@@ -1760,7 +854,7 @@ Planche à voile.
 
 |
 
-Encadrement et animation d'activités de découverte et d'initiation, incluant les premiers niveaux de compétition en multicoques et dériveurs.
+Encadrement et animation d'activités de découverte et d'initiation incluant les premiers niveaux de compétition en planche à voile.
 
 |
 
@@ -1780,7 +874,7 @@ Encadrement et animation d'activités de découverte et d'initiation en ski naut
 
 |
 
-Activités du ski nautique (bi-ski, wakeboard), pour tout public et sur tout lieu de pratique de l'activité.
+Activités du ski nautique (bi-ski, wakeboard) pour tout public et sur tout lieu de pratique de l'activité.
 
 |
 
@@ -1796,7 +890,7 @@ Encadrement et animation d'activités de découverte et d'initiation, incluant l
 
 |
 
-Activités de véhicule nautique à moteur, pour tout public et sur tout lieu de pratique de l'activité.
+Activités de véhicule nautique à moteur pour tout public et sur tout lieu de pratique de l'activité.
 
 |
 
@@ -1836,9 +930,595 @@ Encadrement et animation d'activités de découverte et d'initiation, incluant l
 
 |
 
-Avec des voilures hémisphériques à tuyères, dans tous les modes de pratique, pour tout public et sur tout lieu de pratique de l'activité. |
+Avec des voilures hémisphériques à tuyères, dans tous les modes de pratique, pour tout public et sur tout lieu de pratique de l'activité.
 
-Unités capitalisables complémentaires (UCC) associées à la spécialité "activités nautiques"
+|
+
+BP JEPS, spécialité "activités pugilistiques"
+
+|
+
+|
+
+|
+
+Mentions de la spécialité "activités pugilistiques"
+
+|
+
+Kick boxing.
+
+|
+
+Encadrement et animation d'activités de kick boxing.
+
+|
+
+|
+
+Muaythaï.
+
+|
+
+Encadrement et animation d'activités de muaythaï.
+
+|
+
+|
+
+Boxe anglaise.
+
+|
+
+Encadrement et animation d'activités de boxe anglaise.
+
+|
+
+|
+
+Boxe française, savate.
+
+|
+
+Encadrement et animation d'activités de boxe française, savate.
+
+|
+
+|
+
+Full contact.
+
+|
+
+Encadrement et animation d'activités de full contact.
+
+|
+
+|
+
+Sports de contact.
+
+|
+
+Animation d'activités de sports de contact.
+
+|
+
+A l'exclusion de toute pratique compétitive.
+
+|
+
+Boxe
+
+|
+
+Encadrement, animation et apprentissage des différentes formes de pratique de la boxe et préparation aux compétitions.
+
+|
+
+|
+
+BP JEPS, spécialité "pêche de loisirs".
+
+|
+
+Encadrement, animation et initiation d'activités de pêche sportive en eau douce.
+
+|
+
+|
+
+BP JEPS, spécialité "sport automobile".
+
+|
+
+|
+
+|
+
+Mentions de la spécialité "sport automobile"
+
+|
+
+Circuit.
+
+|
+
+Encadrement et animation d'activités de loisir, d'initiation, de découverte et de préparation à un premier niveau de compétition en circuit.
+
+|
+
+|
+
+Karting.
+
+|
+
+Encadrement et animation d'activités de loisir, d'initiation, de découverte et de préparation à un premier niveau de compétition en karting.
+
+|
+
+|
+
+Perfectionnement du pilotage.
+
+|
+
+Encadrement et animation d'activités de loisir, d'initiation, de découverte et de préparation à un premier niveau de compétition en perfectionnement du pilotage.
+
+|
+
+|
+
+Rallye
+
+|
+
+Encadrement et animation d'activités de loisir, d'initiation, de découverte et de préparation à un premier niveau de compétition en rallye.
+
+|
+
+|
+
+Tout-terrain.
+
+|
+
+Encadrement et animation d'activités de loisir, d'initiation, de découverte et de préparation à un premier niveau de compétition en tout-terrain.
+
+|
+
+|
+
+BP JEPS, spécialité "activités physiques pour tous".
+
+|
+
+Animation à destination de différents publics à travers notamment la découverte des activités physiques.
+
+|
+
+Toute activité physique ou sportive auprès de tout public, à l'exclusion des groupes constitués de personnes ayant un handicap physique ou sensoriel, une déficience intellectuelle ou un trouble psychique.
+
+|
+
+BP JEPS, spécialité "activités gymniques de la forme et de la force".
+
+|
+
+|
+
+|
+
+Mentions de la spécialité "activités gymniques de la forme et de la force"
+
+|
+
+Activités gymniques acrobatiques.
+
+|
+
+Encadrement et animation d'activités de loisir, d'initiation et de découverte des activités gymniques acrobatiques.
+
+|
+
+|
+
+Activités gymniques d'expression
+
+|
+
+Encadrement et animation d'activités de loisir, d'initiation et de découverte des activités gymniques d'expression.
+
+|
+
+|
+
+Forme en cours collectifs.
+
+|
+
+Encadrement et animation d'activités de loisir, d'initiation et de découverte des activités de forme en cours collectifs.
+
+|
+
+|
+
+Haltère, musculation et forme sur plateau.
+
+|
+
+Encadrement et animation d'activités de loisir, d'initiation et de découverte des activités haltère, musculation et forme sur plateau.
+
+|
+
+|
+
+BP JEPS, spécialité "activités sports collectifs".
+
+|
+
+Conduite de séances et de cycles d'initiation, de découverte et d'animation sportive en sports collectifs.
+
+|
+
+|
+
+Mentions de la spécialité "activités sports collectifs"
+
+|
+
+Basket-ball.
+
+|
+
+Conduite en autonomie d'une séance d'entraînement en basket-ball.
+
+|
+
+|
+
+Football.
+
+|
+
+Conduite en autonomie d'une séance d'entraînement en football.
+
+|
+
+|
+
+Handball.
+
+|
+
+Conduite en autonomie d'une séance d'entraînement en handball.
+
+|
+
+|
+
+Hockey sur gazon.
+
+|
+
+Conduite en autonomie d'une séance d'entraînement en hockey sur gazon.
+
+|
+
+|
+
+Rugby à XIII.
+
+|
+
+Conduite en autonomie d'une séance d'entraînement en rugby à XIII.
+
+|
+
+|
+
+Rugby à XV.
+
+|
+
+Conduite en autonomie d'une séance d'entraînement en rugby à XV.
+
+|
+
+|
+
+Volley-ball.
+
+|
+
+Conduite en autonomie d'une séance d'entraînement en volley-ball.
+
+|
+
+|
+
+BP JEPS, spécialité "vol libre"
+
+|
+
+|
+
+|
+
+Mentions de la spécialité "vol libre"
+
+|
+
+Parapente.
+
+|
+
+Encadrement d'actions d'animation, d'initiation et de progression jusqu'à l'autonomie en parapente.
+
+|
+
+|
+
+Deltaplane.
+
+|
+
+Encadrement d'actions d'animation, d'initiation et de progression jusqu'à l'autonomie en deltaplane.
+
+|
+
+|
+
+BP JEPS, spécialité "activités aquatiques et de la natation".
+
+|
+
+Enseignement et animation d'activités aquatiques d'éveil, de découverte et de loisirs aquatiques. Apprentissage et enseignement des différentes nages.
+
+Surveillance de tout lieu de pratique des activités aquatiques et sauvetage de tout public en milieu aquatique.
+
+|
+
+Sous réserve de la présentation du certificat quinquennal d'aptitude à l'exercice de la profession de maître nageur sauveteur en cours de validité.
+
+|
+
+BP JEPS, spécialité "escrime".
+
+|
+
+Encadrement et animation d'activités d'éveil à l'escrime et de découverte des trois armes. Encadrement de cycles d'apprentissage et d'enseignement à deux armes, jusqu'au premier niveau de compétition.
+
+|
+
+|
+
+BP JEPS, spécialité "plongée subaquatique".
+
+|
+
+Encadrement en autonomie de la randonnée subaquatique.
+
+Enseignement et encadrement de la plongée subaquatique, dans les conditions techniques et de sécurité définies aux articles A. 322-71 et suivants du code du sport.
+
+|
+
+Autorisation d'exercer pour une durée de cinq ans, renouvelée à l'issue d'un stage de recyclage.
+
+|
+
+BP JEPS, spécialité "parachutisme".
+
+|
+
+|
+
+|
+
+Mentions de la spécialité "parachutisme"
+
+|
+
+Tandem.
+
+|
+
+Encadrement en autonomie du tandem, dans les conditions techniques et de sécurité définies aux articles A. 322-147 et suivants du code du sport.
+
+|
+
+Autorisation d'exercer pour une durée d'une année, renouvelée sur proposition du directeur technique national du parachutisme.
+
+|
+
+Progression accompagnée en chute libre.
+
+|
+
+Encadrement en autonomie de la progression accompagnée en chute libre, dans les conditions techniques et de sécurité définies aux articles A. 322-147 et suivants du code du sport.
+
+|
+
+Autorisation d'exercer pour une durée d'une année, renouvelée sur proposition du directeur technique national du parachutisme.
+
+|
+
+Progression traditionnelle.
+
+|
+
+Encadrement en autonomie de la progression traditionnelle, dans les conditions techniques et de sécurité définies aux articles A. 322-147 et suivants du code du sport.
+
+|
+
+Autorisation d'exercer pour une durée d'une année, renouvelée sur proposition du directeur technique national du parachutisme.
+
+|
+
+BP JEPS, spécialité "activités du cyclisme".
+
+|
+
+Préparation et mise en œuvre de cycles d'animation et d'initiation en vélo.
+
+|
+
+A l'exclusion de toute pratique compétitive.
+
+|
+
+Mentions de la spécialité "activités du cyclisme"
+
+|
+
+BMX.
+
+|
+
+Préparation et mise en œuvre de cycles d'apprentissage en BMX.
+
+|
+
+|
+
+Cyclisme traditionnel.
+
+|
+
+Préparation et mise en œuvre de cycles d'apprentissage en cyclisme traditionnel.
+
+|
+
+|
+
+VTT.
+
+|
+
+Préparation et mise en œuvre de cycles d'apprentissage en VTT.
+
+|
+
+|
+
+BP JEPS, spécialité "lutte et disciplines associées".
+
+|
+
+Conduite de séances et de cycles d'initiation, de découverte et d'animation sportive dans toutes les activités de lutte et disciplines associées.
+
+|
+
+A l'exclusion de toute pratique compétitive au-delà du niveau régional.
+
+|
+
+Mentions de la spécialité "lutte et disciplines associées"
+
+|
+
+Lutte.
+
+|
+
+Encadrement et animation d'activités de loisir, d'initiation, de découverte et de préparation aux premiers niveaux de compétition régionale en lutte.
+
+|
+
+|
+
+Sambo.
+
+|
+
+Encadrement et animation d'activités de loisir, d'initiation, de découverte et de préparation aux premiers niveaux de compétition régionale en sambo.
+
+|
+
+|
+
+Grappling.
+
+|
+
+Encadrement et animation d'activités de loisir, d'initiation, de découverte et de préparation aux premiers niveaux de compétition régionale en grappling.
+
+|
+
+|
+
+Lutte bretonne (gouren).
+
+|
+
+Encadrement et animation d'activités de loisir, d'initiation, de découverte et de préparation aux premiers niveaux de compétition régionale en lutte bretonne (gouren).
+
+|
+
+|
+
+BP JEPS, spécialité "judo-jujitsu".
+
+|
+
+Encadrement et animation d'activités d'éveil, de découverte et d'initiation au judo-jujitsu pour tous les publics. Encadrement et conduite de cycles d'apprentissage, d'enseignement et d'entraînement du judo-jujitsu jusqu'aux premiers niveaux de compétition. Encadrement et conduite de cycles d'apprentissage permettant la préparation aux grades.
+
+|
+
+|
+
+BP JEPS, spécialité "basket-ball".
+
+|
+
+Encadrement, enseignement et animation d'activités de découverte, de loisir et d'initiation. Conduite de cycles d'apprentissage jusqu'aux premiers niveaux de compétition en basket-ball.
+
+|
+
+|
+
+BP JEPS, spécialité "patinage sur glace".
+
+|
+
+Encadrement, enseignement et animation d'activités de découverte, de loisir et d'initiation. Conduite de cycles d'apprentissage jusqu'aux premiers niveaux de compétition en patinage sur glace.
+
+|
+
+|
+
+BP JEPS, spécialité "rugby à XV".
+
+|
+
+Encadrement, enseignement et animation d'activités de découverte, de loisir et d'initiation. Conduite de cycles d'apprentissage jusqu'aux premiers niveaux de compétition en rugby à XV.
+
+|
+
+|
+
+BP JEPS, spécialité "golf".
+
+|
+
+Encadrement et animation de l'activité golf.
+
+|
+
+|
+
+BP JEPS, spécialité "volley-ball et volley-ball de plage (beach-volley)".
+
+|
+
+Encadrement et animation d'activités d'éveil, de découverte et d'initiation en volley-ball et volley-ball de plage (beach-volley) pour tous les publics. Conduite de cycles d'apprentissage, d'enseignement et d'entraînement jusqu'aux premiers niveaux de compétition.
+
+|
+
+|
+
+Unités capitalisables complémentaires (UCC) et certificats de spécialisation (CS) associés aux spécialités du BP JEPS
 
 |
 
@@ -1926,6 +1606,16 @@ Pour tout public et sur tout lieu de pratique de l'activité.
 
 |
 
+UCC "cerf-volant".
+
+|
+
+Découverte, animation et initiation jusqu'au premier niveau de compétition en cerf-volant.
+
+|
+
+|
+
 UCC "planche à voile".
 
 |
@@ -1982,7 +1672,7 @@ Encadrement et animation d'activités de découverte et d'initiation, incluant l
 
 |
 
-Pratique d'engins flottants tractés sur l'eau (bouées, ski, bus, fly fish), pour tout public et sur tout lieu de pratique de l'activité.
+Pratique d'engins flottants tractés sur l'eau (bouées, ski, bus, fly fish) pour tout public et sur tout lieu de pratique de l'activité.
 
 |
 
@@ -1994,177 +1684,7 @@ Encadrement et animation d'activités de découverte et d'initiation, incluant l
 
 |
 
-Avec des voilures hémisphériques à tuyères, dans tous les modes de pratique, pour tout public et sur tout lieu de pratique de l'activité. |
-
-Certificats de spécialisation (CS) associés à la spécialité "activités nautiques"
-
-|
-
-CS "croisière".
-
-|
-
-Encadrement de la croisière côtière ou hauturière pour tout public, de jour comme de nuit, dans les limites navigation du (ou des) voilier (s) utilisé (s) jusqu'à 200 milles nautiques d'un abri.
-
-|
-
-Croisière : encadrement de la croisière côtière ou hauturière pour tout public, de jour comme de nuit, dans les limites navigation du (ou des) voilier (s) utilisé (s) jusqu'à 200 milles nautiques d'un abri.
-
-|
-
-CS "activités d'escalade".
-
-|
-
-Conduite de cycles de découverte, d'animation, d'initiation et d'apprentissage jusqu'au premier niveau de compétition en escalade.
-
-|
-
-Toutes structures artificielles d'escalade, tous sites naturels d'escalade de blocs ; tous sites naturels d'escalade sportifs limités aux "secteurs découverte" (1) d'une longueur de corde et d'un maximum de 35 mètres de hauteur en partant du sol ; tous parcours aménagés, dont les parcours acrobatiques en hauteur, à l'exclusion de la via ferrata.
-
-|
-
-CS "cerf-volant".
-
-|
-
-Découverte, animation et initiation jusqu'au premier niveau de compétition en cerf-volant.
-
-|
-
-|
-
-BP JEPS, spécialité "activités pugilistiques".
-
-|
-
-|
-
-|
-
-Mentions de la spécialité "activités pugilistiques"
-
-|
-
-Kick boxing.
-
-|
-
-Encadrement et animation d'activités de kick boxing.
-
-|
-
-|
-
-Muaythaï.
-
-|
-
-Encadrement et animation d'activités de muaythaï.
-
-|
-
-|
-
-Boxe anglaise.
-
-|
-
-Encadrement et animation d'activités de boxe anglaise.
-
-|
-
-|
-
-Boxe française, savate.
-
-|
-
-Encadrement et animation d'activités de boxe française, savate.
-
-|
-
-|
-
-Full contact.
-
-|
-
-Encadrement et animation d'activités de full contact
-
-|
-
-|
-
-Sports de contact
-
-|
-
-Animation d'activités de sports de contact.
-
-|
-
-A l'exclusion de toute pratique compétitive.
-
-|
-
-Boxe. |
-
-Encadrement, animation et apprentissage des différentes formes de pratique de la boxe et préparation aux compétitions.
-
-|
-
-|
-
-Certificats de spécialisation associés à la spécialité "activités pugilistiques"
-
-|
-
-CS "lutte et disciplines associées".
-
-|
-
-Conduite de cycles d'initiation en lutte et dans les disciplines associées.
-
-|
-
-|
-
-BP JEPS, spécialité "golf".
-
-|
-
-Encadrement et animation de l'activité golf.
-
-|
-
-|
-
-Unités capitalisables complémentaires (UCC) associées à la spécialité "golf"
-
-|
-
-UCC "squash".
-
-|
-
-Conduite de cycles d'apprentissage en squash, jusqu'au premier niveau de compétition.
-
-|
-
-|
-
-BP JEPS, spécialité "pêche de loisir".
-
-|
-
-Encadrement, animation et initiation d'activités de pêche sportive en eau douce.
-
-|
-
-|
-
-Unités capitalisables complémentaires (UCC) associées à la spécialité "pêche de loisir"
+Avec des voilures hémisphériques à tuyères, dans tous les modes de pratique, pour tout public et sur tout lieu de pratique de l'activité.
 
 |
 
@@ -2178,105 +1698,85 @@ Conduite de cycles d'apprentissage en pêche de loisir en milieu maritime, jusqu
 
 |
 
-BP JEPS, spécialité "sport automobile".
+UCC "BMX"
+
+|
+
+Conduite de cycles d'apprentissage jusqu'au premier niveau de compétition en BMX.
 
 |
 
 |
 
-|
-
-Mentions de la spécialité "sport automobile"
+UCC "vélo tout terrain".
 
 |
 
-Circuit.
+Conduite de cycles d'apprentissage jusqu'au premier niveau de compétition en vélo tout terrain.
 
 |
 
-Encadrement et animation d'activités de loisir, d'initiation, de découverte et de préparation à un premier niveau de compétition en circuit.
+A l'exclusion du vélo tout terrain de descente.
 
 |
 
-|
-
-Karting.
+UCC "culturisme".
 
 |
 
-Encadrement et animation d'activités de loisir, d'initiation, de découverte et de préparation à un premier niveau de compétition en karting.
+Découverte, initiation, animation et perfectionnement jusqu'au premier niveau de compétition en culturisme.
 
 |
 
 |
 
-Perfectionnement du pilotage.
+UCC "haltérophilie".
 
 |
 
-Encadrement et animation d'activités de loisir, d'initiation, de découverte et de préparation à un premier niveau de compétition en perfectionnement du pilotage.
-
-|
-
-|
-
-Rallye.
-
-|
-
-Encadrement et animation d'activités de loisir, d'initiation, de découverte et de préparation à un premier niveau de compétition en rallye.
+Découverte, initiation, animation et perfectionnement jusqu'au premier niveau de compétition en haltérophilie.
 
 |
 
 |
 
-Tout-terrain.
+UCC "trampoline"
 
 |
 
-Encadrement et animation d'activités de loisir, d'initiation, de découverte et de préparation à un premier niveau de compétition en tout-terrain.
-
-|
-
-|
-
-Unités capitalisables complémentaires (UCC) associées à la spécialité "sport automobile"
-
-|
-
-UCC "conduite sur glace".
-
-|
-
-Encadrement et animation d'activités de loisir, d'initiation, de découverte et de préparation à un premier niveau de compétition en conduite sur glace.
+Découverte, initiation, animation et perfectionnement jusqu'au premier niveau de compétition en trampoline.
 
 |
 
 |
 
-UCC "conduite de loisir sur quad".
+UCC "gymnastique artistique féminine".
 
 |
 
-Encadrement et animation d'activités de loisir, d'initiation, de découverte.
+Découverte, initiation, animation et perfectionnement jusqu'au premier niveau de compétition en gymnastique artistique féminine.
 
 |
 
 |
 
-BP JEPS, spécialité "activités physiques pour tous".
+UCC "gymnastique artistique masculine".
 
 |
 
-Animation à destination des différents publics à travers notamment la découverte des activités physiques.
+Découverte, initiation, animation et perfectionnement jusqu'au premier niveau de compétition en gymnastique artistique masculine.
 
 |
 
-Toute activité physique ou sportive auprès de tout public, à l'exclusion des groupes constitués de personnes ayant un handicap physique ou sensoriel, une déficience intellectuelle ou un trouble psychique.
+|
+
+UCC "gymnastique rythmique".
 
 |
 
-Unités capitalisables complémentaires (UCC) associées à la spécialité "activités physiques pour tous"
+Découverte, initiation, animation et perfectionnement jusqu'au premier niveau de compétition en gymnastique rythmique.
+
+|
 
 |
 
@@ -2290,21 +1790,11 @@ Conduite de cycles d'apprentissage jusqu'au premier niveau de compétition en ba
 
 |
 
-UCC "cricket".
+UCC "flag".
 
 |
 
-Conduite de cycles d'apprentissage jusqu'au premier niveau de compétition en cricket.
-
-|
-
-|
-
-UCC "football américain et flag".
-
-|
-
-Conduite de cycles d'apprentissage jusqu'au premier niveau de compétition en football américain et flag.
+Conduite de cycles d'initiation et d'apprentissage jusqu'au premier niveau de compétition en flag.
 
 |
 
@@ -2315,16 +1805,6 @@ UCC "football américain".
 |
 
 Conduite de cycles d'initiation et d'apprentissage jusqu'au premier niveau de compétition en football américain.
-
-|
-
-|
-
-UCC "flag".
-
-|
-
-Conduite de cycles d'initiation et d'apprentissage jusqu'au premier niveau de compétition en flag.
 
 |
 
@@ -2350,141 +1830,45 @@ Conduite de cycles d'apprentissage jusqu'au premier niveau de compétition en tr
 
 |
 
-UCC "swin".
+UCC "conduite sur glace".
 
 |
 
-Conduite de cycles d'apprentissage jusqu'au premier niveau de compétition en swin.
-
-|
-
-|
-
-UCC "pétanque".
-
-|
-
-Conduite de cycles d'apprentissage jusqu'au premier niveau de compétition en pétanque.
+Encadrement et animation d'activités de loisir, d'initiation, de découverte et de préparation à un premier niveau de compétition en conduite sur glace.
 
 |
 
 |
 
-UCC "skateboard".
+UCC "conduite de loisir sur quad".
 
 |
 
-Conduite de cycles d'apprentissage en skateboard.
-
-|
-
-|
-
-UCC "squash".
-
-|
-
-Conduite de cycles d'apprentissage jusqu'au premier niveau de compétition en squash.
+Encadrement et animation d'activités de loisir, d'initiation, de découverte.
 
 |
 
 |
 
-UCC "cyclisme traditionnel".
-
-|
-
-Conduite de cycles d'apprentissage jusqu'au premier niveau de compétition en cyclisme sur route, en cyclisme sur piste et en cyclo-cross.
-
-|
-
-|
-
-UCC "BMX".
-
-|
-
-Conduite de cycles d'apprentissage jusqu'au premier niveau de compétition en BMX.
-
-|
-
-|
-
-UCC "vélo tout terrain".
-
-|
-
-Conduite de cycles d'apprentissage jusqu'au premier niveau de compétition en vélo tout terrain.
-
-|
-
-A l'exclusion du vélo tout terrain de descente.
-
-|
-
-UCC "carambole".
-
-|
-
-Conduite de cycles d'apprentissage jusqu'au premier niveau de compétition en carambole.
-
-|
-
-|
-
-UCC "billard à poches".
-
-|
-
-Conduite de cycles d'apprentissage jusqu'au premier niveau de compétition en billard à poches.
-
-|
-
-|
-
-UCC "vélo tout terrain".
-
-|
-
-Encadrement de cycles d'initiation jusqu'au 1er niveau de compétition en vélo tout terrain.
-
-|
-
-A l'exclusion du vélo tout terrain de descente.
-
-|
-
-Certificats de spécialisation (CS) associés à la spécialité "activités physiques pour tous"
-
-|
-
-CS "cerf-volant".
-
-|
-
-Découverte, animation et initiation jusqu'au premier niveau de compétition en cerf-volant.
-
-|
-
-|
-
-CS "roller".
-
-|
-
-Conduite de cycles de découverte, d'initiation et d'apprentissage en roller.
-
-|
-
-|
-
-CS "activités athlétiques".
+CS "activités athlétiques"
 
 |
 
 Découverte, animation et initiation jusqu'au premier niveau de compétition en activités athlétiques.
 
 |
+
+|
+
+CS "athlétisme et disciplines associées".
+
+|
+
+Encadrement et conduite de séances de découverte et d'initiation des différents groupes de spécialités de l'athlétisme et disciplines associées.
+
+|
+
+A l'exclusion de toute pratique compétitive.
 
 |
 
@@ -2500,782 +1884,6 @@ Toutes structures artificielles d'escalade, tous sites naturels d'escalade de bl
 
 |
 
-CS "tennis de table".
-
-|
-
-Conduite de cycles d'animation et d'entraînement en tennis de table.
-
-|
-
-|
-
-CS "bowling et sport de quilles".
-
-|
-
-Conduite de cycles d'apprentissage et de séances d'entraînement jusqu'au premier niveau de compétition en bowling. Conduite de cycles d'initiation et d'apprentissage en sports de quilles.
-
-|
-
-|
-
-CS "tir sportif".
-
-|
-
-Conduite de cycles d'animation dans toutes les disciplines du tir sportif.
-
-|
-
-|
-
-CS "tir à l'arc".
-
-|
-
-Conduite de cycles d'animation en tir à l'arc.
-
-|
-
-|
-
-CS "escrime".
-
-|
-
-Conduite de cycles d'animation en escrime.
-
-|
-
-|
-
-CS "accompagnement et intégration des personnes en situation de handicap".
-
-|
-
-Animation des activités physiques ou sportives :
-
--auprès de groupes intégrant des personnes déficientes motrices, sensorielles ou intellectuelles ; des personnes présentant une souffrance psychique ou éprouvant des difficultés d'adaptation du fait de carences affectives ou éducatives ;
-
--auprès de groupes constitués exclusivement de ces publics.
-
-|
-
-Auprès de groupes constitués exclusivement de ces publics, cette intervention est réalisée :
-
--à titre ponctuel ;
-
--et en qualité de prestataire pour le compte de la structure employeuse.
-
-Les pratiquants demeurent sous la responsabilité éducative et/ ou thérapeutique du personnel de la structure spécialisée qui les accompagne.
-
-|
-
-CS "pentathlon moderne".
-
-|
-
-Conduite de cycles d'initiation en pentathlon moderne. Conduite de cycles d'apprentissage jusqu'au premier niveau de compétition en pentajeune.
-
-|
-
-|
-
-CS "course d'orientation".
-
-|
-
-Conduite de cycles d'animation en course d'orientation.
-
-|
-
-|
-
-CS "lutte et disciplines associées".
-
-|
-
-Conduite de cycles d'initiation en lutte et dans les disciplines associées.
-
-|
-
-|
-
-CS sport-boules . |
-
-Conduite de cycles de découverte, d'animation, d'initiation et d'entraînement jusqu'au premier niveau de compétition en sport-boules. |
-
-|
-
-CS athlétisme et disciplines associées.
-
-|
-
-Encadrement et conduite de séances de découverte et d'initiation des différents groupes de spécialités de l'athlétisme et disciplines associées.
-
-|
-
-A l'exclusion de toute pratique compétitive.
-
-|
-
-CS hockey.
-
-|
-
-Conduite de cycles de découverte, d'initiation et d'apprentissage en hockey.
-
-|
-
-|
-
-BP JEPS, spécialité "activités gymniques de la forme et de la force". |
-
-|
-
-|
-
-Mentions de la spécialité "activités gymniques de la forme et de la force"
-
-|
-
-Activités gymniques acrobatiques.
-
-|
-
-Encadrement et animation d'activités de loisir, d'initiation et de découverte des activités gymniques acrobatiques.
-
-|
-
-|
-
-Activités gymniques d'expression.
-
-|
-
-Encadrement et animation d'activités de loisir, d'initiation et de découverte des activités gymniques d'expression.
-
-|
-
-|
-
-Forme en cours collectifs.
-
-|
-
-Encadrement et animation d'activités de loisir, d'initiation et de découverte des activités de forme en cours collectifs.
-
-|
-
-|
-
-Haltère, musculation et forme sur plateau.
-
-|
-
-Encadrement et animation d'activités de loisir, d'initiation et de découverte des activités haltère, musculation et forme sur plateau.
-
-|
-
-|
-
-Unités capitalisables complémentaires associées à la spécialité "activités gymniques de la forme et de la force"
-
-|
-
-UCC "gymnastique artistique féminine".
-
-|
-
-Découverte, initiation, animation et perfectionnement jusqu'au premier niveau de compétition en gymnastique artistique féminine.
-
-|
-
-|
-
-UCC "gymnastique artistique masculine".
-
-|
-
-Découverte, initiation, animation et perfectionnement jusqu'au premier niveau de compétition en gymnastique artistique masculine.
-
-|
-
-|
-
-UCC "gymnastique acrobatique".
-
-|
-
-Découverte, initiation, animation et perfectionnement jusqu'au premier niveau de compétition en gymnastique acrobatique.
-
-|
-
-|
-
-UCC "gymnastique rythmique".
-
-|
-
-Découverte, initiation, animation et perfectionnement jusqu'au premier niveau de compétition en gymnastique rythmique.
-
-|
-
-|
-
-UCC "gymnastique aérobic".
-
-|
-
-Découverte, initiation, animation et perfectionnement jusqu'au premier niveau de compétition en gymnastique aérobic.
-
-|
-
-|
-
-UCC "trampoline".
-
-|
-
-Découverte, initiation, animation et perfectionnement jusqu'au premier niveau de compétition en trampoline.
-
-|
-
-|
-
-UCC "tumbling".
-
-|
-
-Découverte, initiation, animation et perfectionnement jusqu'au premier niveau de compétition en tumbling.
-
-|
-
-|
-
-UCC "twirling".
-
-|
-
-Découverte, initiation, animation et perfectionnement jusqu'au premier niveau de compétition en twirling.
-
-|
-
-|
-
-UCC "force athlétique".
-
-|
-
-Découverte, initiation, animation et perfectionnement jusqu'au premier niveau de compétition en force athlétique.
-
-|
-
-|
-
-UCC "culturisme".
-
-|
-
-Découverte, initiation, animation et perfectionnement jusqu'au premier niveau de compétition en culturisme.
-
-|
-
-|
-
-UCC "haltérophilie".
-
-|
-
-Découverte, initiation, animation et perfectionnement jusqu'au premier niveau de compétition en haltérophilie.
-
-|
-
-|
-
-Certificats de spécialisation associés à la spécialité "activités gymniques de la forme et de la force"
-
-|
-
-CS "activités d'escalade".
-
-|
-
-Conduite de cycles de découverte, d'animation, d'initiation et d'apprentissage jusqu'au premier niveau de compétition en escalade.
-
-|
-
-Toutes structures artificielles d'escalade, tous sites naturels d'escalade de blocs ; tous sites naturels d'escalade sportifs limités aux "secteurs découverte" (3) d'une longueur de corde et d'un maximum de 35 mètres de hauteur en partant du sol ; tous parcours aménagés dont les parcours acrobatiques en hauteur, à l'exclusion de la via ferrata.
-
-|
-
-CS "tennis de table".
-
-|
-
-Conduite de cycles d'animation et d'entraînement en tennis de table.
-
-|
-
-|
-
-CS "escrime".
-
-|
-
-Conduite de cycles d'animation en escrime.
-
-|
-
-|
-
-CS "lutte et disciplines associées".
-
-|
-
-Conduite de cycles d'initiation en lutte et dans les disciplines associées.
-
-|
-
-|
-
-CS athlétisme et disciplines associées .
-
-|
-
-Encadrement et conduite de séances de découverte et d'initiation des différents groupes de spécialités de l'athlétisme et disciplines associées.
-
-|
-
-A l'exclusion de toute pratique compétitive.
-
-|
-
-BP JEPS, spécialité "activités sports collectifs".
-
-|
-
-Conduite de séances et de cycles d'initiation, de découverte et d'animation sportive en sports collectifs.
-
-|
-
-|
-
-Mentions de la spécialité "activités sports collectifs"
-
-|
-
-Basket-ball.
-
-|
-
-Conduite en autonomie d'une séance d'entraînement en basket-ball.
-
-|
-
-|
-
-Football.
-
-|
-
-Conduite en autonomie d'une séance d'entraînement en football.
-
-|
-
-|
-
-Handball.
-
-|
-
-Conduite en autonomie d'une séance d'entraînement en handball.
-
-|
-
-|
-
-Hockey sur gazon.
-
-|
-
-Conduite en autonomie d'une séance d'entraînement en hockey sur gazon.
-
-|
-
-|
-
-Rugby à XIII.
-
-|
-
-Conduite en autonomie d'une séance d'entraînement en rugby à XIII.
-
-|
-
-|
-
-Rugby à XV
-
-|
-
-Conduite en autonomie d'une séance d'entraînement en rugby à XIII.
-
-|
-
-|
-
-Volley-ball.
-
-|
-
-Conduite en autonomie d'une séance d'entraînement en volley-ball.
-
-|
-
-|
-
-Unités capitalisables complémentaires associées à la spécialité "activités sports collectifs".
-
-|
-
-UCC "squash".
-
-|
-
-Conduite de cycles de découverte et d'apprentissage jusqu'au premier niveau de compétition fédérale en squash.
-
-|
-
-|
-
-Certificats de spécialisation associés à la spécialité "activités sports collectifs"
-
-|
-
-CS "activités athlétiques".
-
-|
-
-Découverte, animation et initiation jusqu'au premier niveau de compétition en activités athlétiques.
-
-|
-
-|
-
-CS "tennis de table".
-
-|
-
-Conduite de cycles d'animation et d'entraînement en tennis de table.
-
-|
-
-|
-
-CS athlétisme et disciplines associées .
-
-|
-
-Encadrement et conduite de séances de découverte et d'initiation des différents groupes de spécialités de l'athlétisme et disciplines associées.
-
-|
-
-A l'exclusion de toute pratique compétitive.
-
-|
-
-BP JEPS, spécialité "vol libre".
-
-|
-
-|
-
-|
-
-Mentions de la spécialité "vol libre"
-
-|
-
-Parapente.
-
-|
-
-Encadrement d'actions d'animation, d'initiation et de progression jusqu'à l'autonomie en parapente.
-
-|
-
-|
-
-Deltaplane.
-
-|
-
-Encadrement d'actions d'animation, d'initiation et de progression jusqu'à l'autonomie en parapente.
-
-|
-
-|
-
-BP JEPS, spécialité "activités aquatiques".
-
-|
-
-Encadrement et animation d'activités aquatiques d'éveil, de découverte et d'initiation jusqu'aux premiers apprentissages auprès de tout public et d'activités aquagym.
-
-|
-
-Surveillance des publics dans le cadre des activités encadrées.
-
-|
-
-BP JEPS, spécialité "activités aquatiques et de la natation".
-
-|
-
-Encadrement et animation d'activités aquatiques d'éveil, de découverte et de loisirs aquatiques. Apprentissage et enseignement des différentes nages.
-
-Surveillance de tout lieu de pratique des activités aquatiques et sauvetage de tout public en milieu aquatique.
-
-|
-
-Sous réserve de la présentation du certificat quinquennal d'aptitude à l'exercice de la profession de maître nageur sauveteur en cours de validité.
-
-|
-
-BP JEPS, spécialité "escrime".
-
-|
-
-Encadrement et animation d'activités d'éveil à l'escrime et de découverte des trois armes. Encadrement de cycles d'apprentissage et d'enseignement à deux armes, jusqu'au premier niveau de compétition.
-
-|
-
-|
-
-BP JEPS, spécialité "plongée subaquatique".
-
-|
-
-Encadrement en autonomie de la randonnée subaquatique.
-
-Enseignement et encadrement de la plongée subaquatique dans les conditions techniques et de sécurité définies aux articles A. 322-71 et suivants du code du sport.
-
-|
-
-Autorisation d'exercer pour une durée de cinq ans, renouvelée à l'issue d'un stage de recyclage.
-
-|
-
-BP JEPS, spécialité "parachutisme", mention "tandem".
-
-|
-
-Encadrement en autonomie du tandem dans les conditions techniques et de sécurité définies aux articles A. 322-147 et suivants du code du sport.
-
-|
-
-Autorisation d'exercer pour une durée d'une année, renouvelée sur proposition du directeur technique national du parachutisme.
-
-|
-
-BP JEPS, spécialité "parachutisme", mention "progression accompagnée en chute libre"
-
-|
-
-Encadrement en autonomie de la progression accompagnée en chute libre dans les conditions techniques et de sécurité définies aux articles A. 322-147 et suivants du code du sport.
-
-|
-
-Autorisation d'exercer pour une durée d'une année, renouvelée sur proposition du directeur technique national du parachutisme.
-
-|
-
-BP JEPS, spécialité "parachutisme" mention "progression traditionnelle"
-
-|
-
-Encadrement en autonomie de la progression traditionnelle dans les conditions techniques et de sécurité définies aux articles A. 322-147 et suivants du code du sport.
-
-|
-
-Autorisation d'exercer pour une durée d'une année, renouvelée sur proposition du directeur technique national du parachutisme.
-
-|
-
-BP JEPS, spécialité "activités du cyclisme"
-
-|
-
-Préparation et mise en œuvre de cycles d'animation et d'initiation en vélo.
-
-|
-
-A l'exclusion de toute pratique compétitive.
-
-|
-
-Mentions de la spécialité "activités du cyclisme"
-
-|
-
-BMX.
-
-|
-
-Préparation et mise en œuvre de cycles d'apprentissage en BMX.
-
-|
-
-|
-
-Cyclisme traditionnel.
-
-|
-
-Préparation et mise en œuvre de cycles d'apprentissage en cyclisme traditionnel.
-
-|
-
-|
-
-VTT.
-
-|
-
-Préparation et mise en œuvre de cycles d'apprentissage en VTT.
-
-|
-
-|
-
-BP JEPS, spécialité "lutte et disciplines associées".
-
-|
-
-Conduite de séances et de cycles d'initiation, de découverte et d'animation sportive dans toutes les activités de lutte et disciplines associées.
-
-|
-
-A l'exclusion de toute pratique compétitive au-delà du niveau régional.
-
-|
-
-Mentions de la spécialité lutte et disciplines associées
-
-|
-
-Lutte. |
-
-Encadrement et animation d'activités de loisir, d'initiation, de découverte et de préparation aux premiers niveaux de compétition régionale en lutte.
-
-|
-
-|
-
-Sambo.
-
-|
-
-Encadrement et animation d'activités de loisir, d'initiation, de découverte et de préparation aux premiers niveaux de compétition régionale en sambo.
-
-|
-
-|
-
-Grappling. |
-
-Encadrement et animation d'activités de loisir, d'initiation, de découverte et de préparation aux premiers niveaux de compétition régionale en grappling. |
-
-|
-
-Lutte bretonne (gouren).
-
-|
-
-Encadrement et animation d'activités de loisir, d'initiation, de découverte et de préparation aux premiers niveaux de compétition régionale en lutte bretonne (gouren).
-
-|
-
-|
-
-BP JEPS, spécialité "judo-jujitsu".
-
-|
-
-Encadrement et animation d'activités d'éveil, de découverte et d'initiation au judo-jujitsu pour tous les publics. Encadrement et conduite de cycles d'apprentissage, d'enseignement et d'entraînement du judo-jujitsu jusqu'aux premiers niveaux de compétition. Encadrement et conduite de cycles d'apprentissage permettant la préparation aux grades.
-
-|
-
-|
-
-BP JEPS, spécialité "basket-ball".
-
-|
-
-Encadrement, enseignement et animation d'activités de découverte, de loisir et d'initiation. Conduite de cycles d'apprentissage jusqu'aux premiers niveaux de compétition en basket-ball. |
-
-|
-
-BP JEPS, spécialité "patinage sur glace".
-
-|
-
-Encadrement, enseignement et animation d'activités de découverte, de loisir et d'initiation. Conduite de cycles d'apprentissage jusqu'aux premiers niveaux de compétition en patinage sur glace.
-
-|
-
-|
-
-BP JEPS, spécialité "rugby à XV".
-
-|
-
-Encadrement, enseignement et animation d'activités de découverte, de loisir et d'initiation. Conduite de cycles d'apprentissage jusqu'aux premiers niveaux de compétition en rugby à XV.
-
-|
-
-|
-
-BP JEPS, spécialité "volley-ball et volley-ball de plage (beach-volley)". |
-
-Encadrement et animation d'activités d'éveil, de découverte et d'initiation en volley-ball et volley-ball de plage (beach volley) pour tous les publics.
-
-Conduite de cycles d'apprentissage, d'enseignement et d'entraînement, jusqu'aux premiers niveaux de compétition.
-
-|
-
-|
-
-Unités capitalisables complémentaires associées à la spécialité "activités aquatiques"
-
-|
-
-UCC "triathlon".
-
-|
-
-Conduite de cycles de découverte et d'apprentissage jusqu'au premier niveau de compétition en triathlon.
-
-|
-
-|
-
-Certificats de spécialisation associés à la spécialité "activités aquatiques"
-
-|
-
-CS "pentathlon moderne".
-
-|
-
-Conduite de cycles d'initiation en pentathlon moderne. Conduite de cycles d'apprentissage jusqu'au premier niveau de compétition en pentajeune.
-
-|
-
-|
-
 CS "sauvetage et sécurité en milieu aquatique".
 
 |
@@ -3288,109 +1896,33 @@ Sous réserve de la présentation du certificat quinquennal d'aptitude à l'exer
 
 |
 
-Unités capitalisables complémentaires associées à la spécialité "activités de randonnée" du BP JEPS
+CS "accompagnement et intégration des personnes en situation de handicap".
 
 |
 
-UCC "cyclisme traditionnel".
+Animation des activités physiques ou sportives :
+
+- auprès de groupes intégrant des personnes déficientes motrices, sensorielles ou intellectuelles ; des personnes présentant une souffrance psychique ou éprouvant des difficultés d'adaptation du fait de carences affectives ou éducatives ;
+
+- auprès de groupes constitués exclusivement de ces publics.
 
 |
 
-Conduite de cycles d'apprentissage jusqu'au premier niveau de compétition en cyclisme sur route, en cyclisme sur piste et en cyclo-cross.
+Auprès de groupes constitués exclusivement de ces publics, cette intervention est réalisée :
+
+- à tire ponctuel ;
+
+- et en qualité de prestataire pour le compte de la structure employeuse.
+
+Les pratiquants demeurent sous la responsabilité éducative et/ou thérapeutique du personnel de la structure spécialisée qui les accompagne.
 
 |
 
-|
-
-UCC "BMX".
+CS "tennis de table".
 
 |
 
-Conduite de cycles d'apprentissage jusqu'au premier niveau de compétition en BMX.
-
-|
-
-|
-
-UCC vélo tout terrain .
-
-|
-
-Conduite de cycles d'apprentissage jusqu'au premier niveau de compétition en vélo tout terrain.
-
-|
-
-A l'exclusion du vélo tout terrain de descente.
-
-|
-
-Certificats de spécialisation associés à la spécialité "activités de randonnée" du BP JEPS
-
-|
-
-CS "course d'orientation".
-
-|
-
-Conduite de cycles d'animation en course d'orientation.
-
-|
-
-|
-
-Unités capitalisables complémentaires associées à la spécialité "loisirs tout public" du BP JEPS
-
-|
-
-UCC "football américain".
-
-|
-
-Conduite de cycles d'initiation et d'apprentissage jusqu'au premier niveau de compétition en football américain.
-
-|
-
-|
-
-UCC "flag".
-
-|
-
-Conduite de cycles d'initiation et d'apprentissage jusqu'au premier niveau de compétition en flag.
-
-|
-
-|
-
-Certificats de spécialisation associés à la spécialité "loisirs tout public" du BP JEPS
-
-|
-
-CS "tir sportif".
-
-|
-
-Conduite de cycles d'animation dans toutes les disciplines du tir sportif.
-
-|
-
-|
-
-CS "tir à l'arc".
-
-|
-
-Conduite de cycles d'animation en tir à l'arc.
-
-|
-
-|
-
-CS "escrime".
-
-|
-
-Conduite de cycles d'animation en escrime.
+Conduite de cycles d'animation et d'entraînement en tennis de table.
 
 |
 
@@ -3406,20 +1938,6 @@ Conduite de cycles d'animation en course d'orientation.
 
 |
 
-Certificats de spécialisation associés à la spécialité "animation culturelle" du BP JEPS
-
-|
-
-CS "tir sportif".
-
-|
-
-Conduite de cycles d'animation dans toutes les disciplines du tir sportif.
-
-|
-
-|
-
 CS "escrime".
 
 |
@@ -3427,10 +1945,6 @@ CS "escrime".
 Conduite de cycles d'animation en escrime.
 
 |
-
-|
-
-Certificats de spécialisation associés à la spécialité "animation sociale" du BP JEPS
 
 |
 
@@ -3444,7 +1958,59 @@ Conduite de cycles d'animation en tir à l'arc.
 
 |
 
-Diplôme d'Etat et diplôme d'Etat supérieur de la jeunesse, de l'éducation populaire et du sport (DE JEPS et DES JEPS)
+CS "croisière".
+
+|
+
+Encadrement de la croisière côtière ou hauturière pour tout public, de jour comme de nuit, dans les limites de navigation du ou des voilier(s) utilisé(s) jusqu'à 200 milles nautiques d'un abri.
+
+|
+
+|
+
+CS "cerf-volant".
+
+|
+
+Découverte, animation et initiation jusqu'au premier niveau de compétition en cerf-volant.
+
+|
+
+|
+
+CS "lutte et disciplines associées".
+
+|
+
+Conduite de cycles d'initiation en lutte et dans les disciplines associées.
+
+|
+
+|
+
+CS "roller".
+
+|
+
+Conduite de cycles de découverte, d'initiation et d'apprentissage en roller.
+
+|
+
+|
+
+C.4. - Diplôme d'Etat de la jeunesse, de l'éducation populaire et du sport et diplôme d'Etat
+
+supérieur de la jeunesse, de l'éducation populaire et du sport (DE JEPS ET DES JEPS)
+
+INTITULÉ DU DIPLÔME
+
+|
+
+CONDITIONS D'EXERCICE
+
+|
+
+LIMITES DES CONDITIONS D'EXERCICE
 
 |
 
@@ -3472,7 +2038,7 @@ DE JEPS, spécialité "perfectionnement sportif", mention "canyonisme".
 
 |
 
-Enseignement, animation, encadrement du canyonisme ou entraînement de ses pratiquants.
+Enseignement, animation, encadrement du canyonisme ou entraînement de ses pratiquants".
 
 |
 
@@ -3480,7 +2046,7 @@ Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'un s
 
 |
 
-DE JEPS, spécialité "perfectionnement sportif", mention "parachutisme".
+DE JEPS, spécialité "perfectionnement sportif", mention "parachutisme."
 
 |
 
@@ -3501,6 +2067,18 @@ Enseignement, animation, encadrement du parachutisme ou entraînement de ses pra
 |
 
 DE JEPS, spécialité "perfectionnement sportif", mention "plongée subaquatique".
+
+|
+
+Enseignement, animation, encadrement de la plongée subaquatique ou entraînement de ses pratiquants dans les conditions techniques et de sécurité définies aux articles A. 322-71 et suivants du code du sport.
+
+|
+
+Autorisation d'exercer pour une durée de cinq ans, renouvelée à l'issue d'un stage de recyclage.
+
+|
+
+DES JEPS, spécialité "performance sportive", mention "plongée subaquatique".
 
 |
 
@@ -3572,23 +2150,11 @@ Autorisation d'exercer pour une durée de cinq ans, renouvelée à l'issue d'un 
 
 |
 
-DES JEPS, spécialité "performance sportive", mention "plongée subaquatique".
+Unités capitalisables complémentaires (UCC) et certificats de spécialisation associés au DE JEPS et au DES JEPS
 
 |
 
-Enseignement, animation, encadrement de la plongée subaquatique ou entraînement de ses pratiquants dans les conditions techniques et de sécurité définies aux articles A. 322-71 et suivants du code du sport.
-
-|
-
-Autorisation d'exercer pour une durée de cinq ans, renouvelée à l'issue d'un stage de recyclage.
-
-|
-
-Unités capitalisables complémentaires associées aux DE JEPS et aux DES JEPS
-
-|
-
-UCC "baby et mini-volley" associée au DE JEPS, spécialité "perfectionnement sportif", mention "volley-ball".
+UCC "baby et mini-volley"
 
 |
 
@@ -3598,77 +2164,7 @@ Enseignement, animation, encadrement du baby et du mini-volley.
 
 |
 
-Certificats de spécialisation associés aux DE JEPS et aux DES JEPS
-
-|
-
-CS "beach-volley" associé au DES JEPS, spécialité "performance sportive", mention "volley-ball".
-
-|
-
-Encadrement du beach-volley et entraînement de ses pratiquants.
-
-|
-
-|
-
-CS "cerf-volant" associé :
-
--au DE JEPS, spécialité "perfectionnement sportif" et au DES JEPS, spécialité "performance sportive", mention "glisses aérotractées nautiques" ;
-
--au DE JEPS, spécialité "perfectionnement sportif" et au DES JEPS, spécialité "performance sportive", mention "voile".
-
-|
-
-Découverte, animation et initiation, jusqu'au premier niveau de compétition en cerf-volant.
-
-|
-
-|
-
-CS "canoë-kayak et disciplines associées en mer" associé :
-
--au DE JEPS, spécialité "perfectionnement sportif" et au DES JEPS, spécialité "performance sportive", mention "canoë-kayak et disciplines associées en eau calme" ;
-
--au DE JEPS, spécialité "perfectionnement sportif", mention "canoë-kayak et disciplines associées en eau vive".
-
-|
-
-Encadrement du kayak de mer et des disciplines associées et entraînement des pratiquants.
-
-|
-
-|
-
-CS "natation en eau libre" associé au DE JEPS, spécialité "perfectionnement sportif" et au DES JEPS, spécialité "performance sportive", mention "natation course".
-
-|
-
-Encadrement de la natation en eau libre et entraînement de ses pratiquants.
-
-|
-
-|
-
-CS "nage avec palmes" associé au DE JEPS, spécialité "perfectionnement sportif" et au DES JEPS, spécialité "performance sportive" mention "natation course".
-
-|
-
-Encadrement de la nage avec palmes et entraînement de ses pratiquants.
-
-|
-
-|
-
-CS "sauvetage et sécurité en milieu aquatique" associé :
-
--au DE JEPS, spécialité "perfectionnement sportif" et au DES JEPS, spécialité "performance sportive", mention "natation course" ;
-
--au DE JEPS, spécialité "perfectionnement sportif" et au DES JEPS, spécialité "performance sportive", mention "natation synchronisée" ;
-
--au DE JEPS, spécialité "perfectionnement sportif" et au DES JEPS, spécialité "performance sportive", mention "water-polo" ;
-
--au DE JEPS, spécialité "perfectionnement sportif" et au DES JEPS, spécialité "performance sportive", mention "plongeon".
+CS "sauvetage et sécurité en milieu aquatique".
 
 |
 
@@ -3680,11 +2176,37 @@ Sous réserve de la présentation du certificat quinquennal d'aptitude à l'exer
 
 |
 
-Diplômes d'Etat des métiers d'enseignement, d'encadrement et d'entraînement des sports de montagne.
+CS "canoë-kayak et disciplines associées en mer".
+
+|
+
+Encadrement du kayak de mer et des disciplines associées et entraînement des pratiquants.
 
 |
 
 |
+
+CS "cerf-volant".
+
+|
+
+Découverte, animation et initiation, jusqu'au premier niveau de compétition en cerf-volant.
+
+|
+
+|
+
+C.5. - Diplôme d'Etat des métiers d'enseignement, d'encadrement et d'entraînement des sports de montagne
+
+INTITULÉ DU DIPLÔME
+
+|
+
+CONDITIONS D'EXERCICE
+
+|
+
+LIMITES DES CONDITIONS D'EXERCICE
 
 |
 
@@ -3692,7 +2214,7 @@ Diplôme d'Etat de ski-moniteur national de ski alpin.
 
 |
 
-Encadrement, animation, enseignement et entraînement du ski alpin et de ses activités dérivées en application de l'ensemble des classes de la progression du ski alpin et de ses activités dérivées définies par la commission de la formation et de l'emploi du conseil supérieur des sports de montagne.
+Encadrement, animation, enseignement et entraînement du ski alpin et de ses activités dérivées en application de l'ensemble des classes de la progression du ski alpin et de ses activités dérivées définies par la commission de la formation et de l'emploi du Conseil supérieur des sports de montagne.
 
 |
 
@@ -3714,7 +2236,7 @@ Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'un s
 
 |
 
-Diplôme d'Etat d'alpinisme-guide de haute montagne
+Diplôme d'Etat d'alpinisme-guide de haute montagne.
 
 |
 
@@ -3742,11 +2264,11 @@ Encadrement, conduite, animation, enseignement, entraînement en sécurité de t
 
 A l'exclusion :
 
--des zones glaciaires et des zones de rochers, canyons, terrains nécessitant pour la progression l'utilisation du matériel ou des techniques de l'alpinisme ;
+- des zones glaciaires et des zones de rochers, canyons, terrains nécessitant pour la progression l'utilisation du matériel ou des techniques de l'alpinisme ;
 
--de la pratique de toutes les disciplines du ski et activités dérivées, à l'exception de la raquette à neige ;
+- de la pratique de toutes les disciplines du ski et activités dérivées, à l'exception de la raquette à neige ;
 
--de l'exercice professionnel dans les régions à climat tropical et équatorial, en période de fortes précipitations fixées par l'autorité publique compétente, sur des terrains escarpés et détrempés.
+- de l'exercice professionnel dans les régions à climat tropical et équatorial, en périodes de fortes précipitations fixées par l'autorité publique compétente, sur des terrains escarpés et détrempés.
 
 Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'un stage de recyclage.
 
@@ -3756,21 +2278,21 @@ Diplôme d'Etat d'alpinisme-accompagnateur en moyenne montagne, option "moyenne 
 
 |
 
-Encadrement, conduite, animation, enseignement, entraînement en sécurité de tout public en randonnée pédestre et activités assimilées en moyenne montagne ainsi que dans les régions à climat tropical et équatorial en périodes de fortes précipitations fixées par l'autorité compétente, sur des terrains escarpés et détrempés.
+Encadrement, conduite, animation, enseignement, entraînement en sécurité de tout public en randonnée pédestre et activités assimilées en moyenne montagne ainsi que dans les régions à climat tropical et équatorial en périodes de fortes précipitations fixées par l'autorité publique compétente, sur des terrains escarpés et détrempés.
 
 |
 
 A l'exclusion :
 
--des zones glaciaires et des zones de rochers, canyons, terrains nécessitant pour la progression l'utilisation du matériel ou des techniques de l'alpinisme ;
+- des zones glaciaires et des zones de rochers, canyons, terrains nécessitant pour la progression l'utilisation du matériel ou des techniques de l'alpinisme ;
 
--des terrains enneigés.
+- des terrains enneigés.
 
 Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'un stage de recyclage.
 
 |
 
-D.-Titres à finalité professionnelle
+D. - Titres à finalité professionnelle
 
 D-1. Titres à finalité professionnelle délivrés par le ministère chargé de la défense
 
@@ -3926,7 +2448,7 @@ Encadrement et entraînement de joueurs de haut niveau en football dans un club 
 
 |
 
-E.-Certificats de qualification délivrés par les branches professionnelles
+E. - Certificats de qualification délivrés par les branches professionnelles
 
 E-1. Certificats de qualification délivrés par la Commission paritaire nationale de l'emploi des entreprises équestres (CPNE-EE)
 
@@ -4060,13 +2582,19 @@ CQP animateur de savate, option "canne de combat et bâton".
 
 |
 
-Encadrement en autonomie de la canne de combat et bâton auprès de tout public, incluant la mise en œuvre des procédures de passage des pommeaux bleu, vert, rouge, blanc et jaune. |
+Encadrement en autonomie de la canne de combat et bâton auprès de tout public, incluant la mise en œuvre des procédures de passage des pommeaux bleu, vert, rouge, blanc et jaune.
 
 |
 
-CQP animateur de savate, option "savate forme". |
+|
 
-Encadrement en autonomie de la savate forme auprès de tout public, incluant la mise en œuvre des procédures de passage des grades : kangourous, gants bleu, vert et rouge. |
+CQP animateur de savate, option "savate forme".
+
+|
+
+Encadrement en autonomie de la savate forme auprès de tout public, incluant la mise en œuvre des procédures de passage des grades : kangourous, gants bleu, vert et rouge.
+
+|
 
 |
 
@@ -4074,9 +2602,13 @@ CQP animateur de savate, option "savate bâton défense".
 
 |
 
-Encadrement en autonomie de la savate bâton défense, incluant la mise en œuvre des procédures de passage des grades : kangourous, gants bleu, vert et rouge et savates bâton bleu, vert, rouge, blanc et jaune |
+Encadrement en autonomie de la savate bâton défense, incluant la mise en œuvre des procédures de passage des grades : kangourous, gants bleu, vert et rouge et savates bâton bleu, vert, rouge, blanc et jaune
 
-Pour des publics de plus de 16 ans. |
+|
+
+Pour des publics de plus de 16 ans.
+
+|
 
 CQP "animateur des activités gymniques", mention "activités gymniques acrobatiques".
 
@@ -4234,13 +2766,13 @@ Activité exercée à titre secondaire ;
 
 A l'exclusion des équipes évoluant :
 
--en pro A et en pro B ;
+- en pro A et en pro B ;
 
--en nationale masculine 1 et nationale masculine 2 ;
+- en nationale masculine 1 et nationale masculine 2 ;
 
--en ligue féminine ;
+- en ligue féminine ;
 
--en nationale féminine 1 et nationale féminine 2 ;
+- en nationale féminine 1 et nationale féminine 2 ;
 
 Dans la limite de 2 équipes ;
 
@@ -4252,7 +2784,7 @@ CQP "assistant moniteur char à voile".
 
 |
 
-Initiation à la pratique du char à voile de loisirs dans le support certifié (char assis/ allongé, char debout ou char tracté).
+Initiation à la pratique du char à voile de loisirs dans le support certifié (char assis/allongé, char debout ou char tracté).
 
 |
 
@@ -4296,15 +2828,15 @@ Animation de séances de découverte et d'initiation à la pratique du motonauti
 
 Sous l'autorité d'un référent, le titulaire du CQP encadre :
 
--2 VNM maximum ;
+- 2 VNM maximum ;
 
--ou 4 VNM à vue du référent.
+- ou 4 VNM à vue du référent.
 
 Le référent est titulaire :
 
--d'un diplôme d'Etat à compétence motonautique de niveau IV ou supérieur ;
+- d'un diplôme d'Etat à compétence motonautique de niveau IV ou supérieur ;
 
--ou du brevet fédéral jet 2e degré délivré par la Fédération française motonautique jusqu'au 28 août 2007.
+- ou du brevet fédéral jet 2e degré délivré par la Fédération française motonautique jusqu'au 28 août 2007.
 
 Le nombre de titulaires du CQP placés sous l'autorité du référent ne peut être supérieur à 2 ou à 1, dans le cas où il encadre 4 VNM à vue.
 
@@ -4410,9 +2942,9 @@ Encadrement en autonomie du roller randonnée jusqu'aux premiers niveaux de comp
 
 Pour l'encadrement en autonomie du roller randonnée jusqu'aux premiers niveaux de compétition inclus :
 
--dans la limite de vingt pratiquants par titulaire du CQP ;
+- dans la limite de vingt pratiquants par titulaire du CQP ;
 
--sur voies ouvertes, sous l'autorité de deux titulaires du CQP, dans le cas où le groupe comprend plus de huit pratiquants.
+- sur voies ouvertes, sous l'autorité de deux titulaires du CQP, dans le cas où le groupe comprend plus de huit pratiquants.
 
 |
 
@@ -4740,7 +3272,7 @@ A l'exclusion du temps scolaire contraint.
 
 |
 
-F.-Diplômes délivrés par le ministère chargé de la santé
+F. - Diplômes délivrés par le ministère chargé de la santé
 
 INTITULÉ DU CERTIFICAT
 
