@@ -1,8 +1,16 @@
 # Article Annexe
 
-ZONES DE RESTRUCTURATION DE LA DÉFENSE MENTIONNÉES À L'ARTICLE 42 MODIFIÉ DE LA LOI N° 95-115 DU 4 FÉVRIER 1995 D'ORIENTATION POUR L'AMÉNAGEMENT ET LE DÉVELOPPEMENT DU TERRITOIREListe des communes et année de référence
+ZONES DE RESTRUCTURATION DE LA DÉFENSE MENTIONNÉES À L'ARTICLE 42 MODIFIÉ DE LA LOI N° 95-115 DU 4 FÉVRIER 1995 D'ORIENTATION POUR L'AMÉNAGEMENT ET LE DÉVELOPPEMENT DU TERRITOIRE
+
+Liste des communes et année de référence
 
 Bourgogne
+
+Côte-d'Or
+
+Communes de Bretenière (n° 21110), Longvic (n° 21600), Neuilly-lès-Dijon (n° 21800), Ouges (n° 21600) et Sennecey-lès-Dijon (n° 21800).
+
+Année au titre de laquelle les communes sont reconnues en application du 2° du 3 ter de l'article 42 de la loi n° 95-115 du 4 février 1995 précitée : 2016.
 
 Yonne
 
@@ -19,6 +27,12 @@ Commune de Joigny (n° 89206)
 Année au titre de laquelle la commune est reconnue en application du 2° du 3 ter de l'article 42 de la loi n° 95-115 du 4 février 1995 visée ci-dessus : 2010.
 
 Centre
+
+Eure-et-Loir
+
+Commune de Châteaudun (n° 28200)
+
+Année au titre de laquelle la commune est reconnue en application du 2° du 3 ter de l'article 42 de la loi n° 95-115 du 4 février 1995 précitée : 2016.
 
 Indre
 
@@ -79,6 +93,22 @@ Haute-Marne
 Commune de Langres (n° 52269)
 
 Année au titre de laquelle la commune est reconnue en application du 2° du 3 ter précité : 2010.
+
+Franche-Comté
+
+Haute-Saône
+
+Zone d'emploi de Lure-Luxeuil (n° 4302)
+
+Année au titre de laquelle la zone d'emploi est reconnue en application du 1° du 3 ter de l'article 42 de la loi n° 95-115 du 4 février 1995 précitée : 2017.
+
+70001 Abelcourt ; 70004 Adelans-et-le-Val-de-Bithaine ; 70006 Aillevillers-et-Lyaumont ; 70007 Ailloncourt ; 70008 Ainvelle ; 70010 Alaincourt ; 70011 Amage ; 70013 Ambiévillers ; 70014 Amblans-et-Velotte ; 70016 Amont-et-Effreney ; 70021 Andornay ; 70023 Anjeux ; 70029 Arpenans ; 70046 Les Aynans ; 70052 Bassigney ; 70055 Baudoncourt ; 70061 Belfahy ; 70062 Belmont ; 70063 Belonchamp ; 70067 Betoncourt-lès-Brotte ; 70069 Betoncourt-Saint-Pancras ; 70071 Beulotte-Saint-Laurent ; 70081 Bouhans-lès-Lure ; 70083 Bouligney ; 70087 Bourguignon-lès-Conflans ; 70093 Breuches ; 70094 Breuchotte ; 70097 Briaucourt ; 70098 Brotte-lès-Luxeuil ; 70103 La Bruyère ; 70120 Champagney ; 70128 La Chapelle-lès-Luxeuil ; 70140 Châteney ; 70141 Châtenois ; 70155 Citers ; 70157 Clairegoutte ; 70168 Conflans-sur-Lanterne ; 70171 Corbenay ; 70172 La Corbière ; 70176 Corravillers ; 70178 La Côte ; 70186 La Creuse ; 70188 Creveney ; 70190 Cubry-lès-Faverney ; 70194 Cuve ; 70195 Dambenoît-lès-Colombe ; 70196 Dampierre-lès-Conflans ; 70200 Dampvalley-Saint-Pancras ; 70205 Échavanne ; 70210 Écromagny ; 70213 Éhuns ; 70215 Errevet ; 70216 Esboz-Brest ; 70217 Esmoulières ; 70227 Faucogney-et-la-Mer ; 70233 Les Fessey ; 70238 Fleurey-lès-Saint-Loup ; 70240 Fontaine-lès-Luxeuil ; 70242 Fontenois-la-Ville ; 70245 Fougerolles ; 70248 Frahier-et-Chatebier ; 70249 Francalmont ; 70250 Franchevelle ; 70254 Frédéric-Fontaine ; 70256 Fresse ; 70258 Froideconche ; 70259 Froideterre ; 70260 Frotey-lès-Lure ; 70262 Genevreuille ; 70263 Genevrey ; 70269 Girefontaine ; 70283 Haut-du-Them-Château-Lambert ; 70284 Hautevelle ; 70287 Hurecourt ; 70290 Jasney ; 70294 Lantenot ; 70295 La Lanterne-et-les-Armonts ; 70304 Linexert ; 70308 La Longine ; 70310 Lure ; 70311 Luxeuil-les-Bains ; 70313 Lyoffans ; 70314 Magnivray ; 70315 Magnoncourt ; 70318 Magny-Danigon ; 70319 Magny-Jobert ; 70321 Magny-Vernois ; 70322 Mailleroncourt-Charrette ; 70323 Mailleroncourt-Saint-Pancras ; 70328 Malbouhans ; 7033 Melincourt ; 70339 Mélisey ; 70344 Meurcourt ; 70345 Miellin ; 70348 Moffans-et-Vacheresse ; 70351 Mollans ; 70352 La Montagne ; 70360 Montdoré ; 70361 Montessaux ; 70380 Neurey-en-Vaux ; 70385 La Neuvelle-lès-Lure ; 70398 Ormoiche ; 70403 Palante ; 70411 La Pisseure ; 70412 Plainemont ; 70413 Plancher-Bas ; 70414 Plancher-les-Mines ; 70416 Pomoy ; 70419 Pont-du-Bois ; 70425 La Proiselière-et-Langle ; 70432 Quers ; 70435 Raddon-et-Chapendu ; 70445 Rignovelle ; 70451 Ronchamp ; 70453 La Rosière ; 70455 Roye ; 70459 Saint-Barthélemy ; 70460 Saint-Bresson ; 70464 Saint-Germain ; 70467 Saint-Loup-sur-Semouse ; 70469 Sainte-Marie-en-Chanois ; 70470 Sainte-Marie-en-Chaux ; 70473 Saint-Sauveur ; 70475 Saint-Valbert ; 70478 Saulx ; 70485 Selles ; 70489 Servance ; 70490 Servigney ; 70498 Ternuay-Melay-et-Saint-Hilaire ; 70512 La Vaivre ; 70515 Le Val-de-Gouhenans ; 70526 Vauvillers ; 70537 Velleminfroy ; 70541 Velorcey ; 70555 La Villedieu-en-Fontenette ; 70564 Villers-lès-Luxeuil ; 70571 Visoncourt ; 70573 La Voivre ; 70577 Vouhenans ; 70581 Vy-lès-Lure.
+
+Haute-Saône
+
+Communes de Baudoncourt (n° 70055), Breuches (n° 70093), La Chapelle-les-Luxeuil (n° 70128) et Saint-Sauveur (n° 70473)
+
+Année au titre de laquelle les communes sont reconnues en application du 2° du 3 ter de l'article 42 de la loi n° 95-115 du 4 février 1995 précitée : 2016.
 
 Ile-de-France
 
@@ -158,9 +188,7 @@ Liste des communes : 57002 Aboncourt-sur-Seille ; 57003 Abreschviller ; 57004 Ac
 
 Moselle
 
-Communes de Dieuze (n° 57177)
-
-et Guéblange-lès-Dieuze (n° 57266)
+Communes de Dieuze (n° 57177) et Guéblange-lès-Dieuze (n° 57266)
 
 Année au titre de laquelle ces communes sont reconnues en application du 2° du 3 ter précité : 2010.
 
@@ -182,9 +210,7 @@ Liste des communes : 59001 Abancourt ; 59010 Anneux ; 59023 Aubencheul-au-Bac ; 
 
 Nord - Pas-de-Calais
 
-Communes de Haynecourt (n° 59294), Sancourt (n° 59552),
-
-Epinoy (n° 62298), Sauchy-Lestree (n° 62781)
+Communes de Haynecourt (n° 59294), Sancourt (n° 59552), Epinoy (n° 62298), Sauchy-Lestree (n° 62781)
 
 Année au titre de laquelle ces communes sont reconnues en application du 2° du 3 ter précité : 2011.
 
@@ -244,6 +270,10 @@ Année au titre de laquelle ces communes sont reconnues en application du 2° du
 
 Oise
 
+Communes d'Apremont (n° 60300), Creil (n° 60100) et Verneuil-en-Halatte (n° 60550)
+
+Année au titre de laquelle les communes sont reconnues en application du 2° du 3 ter de l'article 42 de la loi n° 95-115 du 4 février 1995 précitée : 2016.
+
 Communes de Noyon (n° 60471), Genvry (n° 60270), Béhéricourt (n° 60059), Crisolles (n° 60181), Grandrû (n° 60287) et Salency (n° 60603)
 
 Année au titre de laquelle ces communes sont reconnues en application du 2° du 3 ter précité : 2012.
@@ -266,9 +296,7 @@ Année au titre de laquelle la commune est reconnue en application du 2° du 3 t
 
 Hautes-Alpes
 
-Communes d'Aiguilles (n° 05003),
-
-de Briançon (n° 05023) et de Névache (n° 05093)
+Communes d'Aiguilles (n° 05003), de Briançon (n° 05023) et de Névache (n° 05093)
 
 Année au titre de laquelle ces communes sont reconnues en application du 2° du 3 ter précité : 2011.
 
