@@ -4,11 +4,11 @@ PROGRAMME, NUMÉRO ET INTITULÉ
 
 |
 
-AUTORITÉ RESPONSABLE
+AUTORITÉ REPONSABLE
 
 |
 
-Mission Défense
+Mission défense
 
 |
 
@@ -16,7 +16,7 @@ Mission Défense
 
 |
 
-Directeur général des relations internationales et de la stratégie.
+Directeur général des relations internationales et de la stratégie
 
 |
 
@@ -40,7 +40,7 @@ Chef d'état-major des armées.
 
 |
 
-212. Soutien de la politique de défense.
+212. Soutien de la politique de la défense.
 
 |
 
@@ -48,11 +48,11 @@ Secrétaire général pour l'administration.
 
 |
 
-Mission Anciens combattants, mémoire et liens avec la nation
+Mission anciens combattants, mémoire et liens avec la Nation
 
 |
 
-167. Liens entre la nation et son armée.
+167. Liens entre la Nation et son armée.
 
 |
 
@@ -68,26 +68,12 @@ Secrétaire général pour l'administration.
 
 |
 
-Mission Recherche et enseignement supérieur
+Mission recherche et enseignement supérieur
 
 |
 
-191. Recherche duale.
+191. Recherche duale (civile et militaire).
 
 |
 
-Délégué général pour l'armement.
-
-|
-
-Mission Gestion et valorisation des ressources tirées de l'utilisation du spectre hertzien,des systèmes et des infrastructures de télécommunications de l'Etat
-
-|
-
-762. Optimisation de l'usage du spectre hertzien et interception et traitement des émissions électromagnétiques.
-
-|
-
-Délégué général pour l'armement.
-
-|
+Délégué général pour l'armement |

@@ -128,7 +128,7 @@ Directeur du centre d'expertise de soutien général des armées
 
 |
 
-191. - RECHERCHE DUALE
+191. - RECHERCHE DUALE (civile et militaire)
 
 |
 
@@ -173,33 +173,5 @@ Direction de la mémoire, du patrimoine et des archives
 |
 
 Chef du service historique de la défense
-
-|
-
-762. - OPTIMISATION DE L'USAGE DU SPECTRE HERTZIEN ET INTERCEPTION
-
-et traitement des émissions électromagnétiques de télécommunications de l'Etat
-
-|
-
-Armées, direction ou service
-
-|
-
-Autorités concernées
-
-|
-
-Direction générale de l'armement
-
-|
-
-Directeur de l'unité de management Horus
-
-Directeur de l'unité de management espace et système d'information opérationnels
-
-Directeur de l'unité de management avions de missions et de support
-
-Directeur de l'unité de management opérations d'armement navales
 
 |

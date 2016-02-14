@@ -236,9 +236,7 @@ Chef du service contrats finances de la structure intégrée du maintien en cond
 
 |
 
-P. 144, P. 146, P. 178, P. 212, P. 762
-
-|
+P. 144, P. 146, P. 178, P. 212 |
 
 Directeur de l'atelier industriel de l'aéronautique de Cuers-Pierrefeu
 
@@ -252,7 +250,7 @@ Directeur du service de l'exécution financière, de la gestion logistique des b
 
 |
 
-P. 144, P. 146, P. 178, P. 191, P. 212, P. 762
+P. 144, P. 146, P. 178, P. 191, P. 212
 
 |
 
