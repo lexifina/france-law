@@ -44,6 +44,8 @@ Les formations conduites dans le cadre du plan de formation sont :
 
 – les actions de formation qui participent au développement des compétences des salariés. Ces actions peuvent se dérouler en dehors du temps de travail, dans les conditions fixées par l'article L. 6321-6 du code du travail, et elles donnent lieu au versement par l'entreprise de l'allocation de formation prévue par l'article L. 6321-10 du code du travail.
 
+La contribution légale " plan de formation " doit être utilisée pour financer principalement les formations prévues à l'article 1.4.
+
 1.4. Formations financées par la contribution conventionnelle
 
 Compte tenu du besoin important en formation des entreprises de la branche, les partenaires sociaux conviennent que les contributions conventionnelles financeront principalement :
