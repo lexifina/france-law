@@ -1,0 +1,35 @@
+# Réponse à la question n° 1282
+
+- Question : [1282](1282.md) — Question n° 1282 — transports urbains; terminal de transport combiné; Mourepiane; perspectives
+
+## Réponse
+
+*JO du 2016-02-17*
+
+TERMINAL DE TRANSPORT COMBINÉ DE MOUREPIANE
+
+M. le président. La parole est à M. Henri Jibrayel, pour exposer sa question, n° 1282, relative au terminal de transport combiné de Mourepiane.
+
+M. Henri Jibrayel. À mon tour, je vous félicite de votre nomination au Gouvernement et vous souhaite bonne chance dans vos nouvelles fonctions, madame la secrétaire d'État ! Ma question porte sur le projet du Grand port maritime de Marseille d'installer un terminal de transport combiné dans une zone urbaine peuplée de 30 000 habitants, sur le site de Mourepiane, dans les quartiers nord, au cœur de ma circonscription. Qui peut s'opposer au développement économique du Grand port maritime de Marseille ? Personne ! Toutefois, cette implantation ne doit pas être menée au détriment de la qualité de vie des riverains. Vous savez de quoi je parle, madame la secrétaire d'État, vous qui êtes une élue activement opposée à toute forme de nuisance en matière de conditions de vie.
+
+Dans ce périmètre où vivent 30 000 personnes, le Grand port maritime entend imposer un terminal. Une enquête publique a été initiée par la préfecture, au cours de laquelle nous avons subi un déni de démocratie. Les collectivités que sont la région, le département, la communauté urbaine et la ville de Marseille ont été appelées à voter le budget, qui avoisine 80 millions d'euros. Dans chacune d'entre elles, tous les élus de gauche se sont opposés au budget et ont demandé le retrait du projet dans la mesure où le temps de l'enquête publique et de la démocratie n'était pas encore épuisé. La sénatrice Samia Ghali a fait retirer le rapport à la communauté urbaine de Marseille. Quant à la municipalité, elle a voté l'engagement financier avec des réserves, tout comme les conseils départemental et régional.
+
+L'enquête publique s'est conclue par un avis négatif sur la création du terminal. Sa mise en place par le Grand port maritime de Marseille impliquerait l'arrivée sur le site de Mourepiane de plusieurs milliers de camions et de nombreux trains via un passage à niveau ancien. La multiplication des trains en circulation aurait pour conséquence le contournement du quartier, ce qui contribuerait à l'isoler alors même qu'il subit la disparition de nombreux commerces. Un travail a été réalisé par les comités inter-quartiers de ce périmètre, en particulier celui de Saint-André, et par les associations. La levée de boucliers a été considérable.
+
+Lorsque le commissaire-enquêteur a remis son rapport émettant un avis négatif, il a été révoqué de ses fonctions à la demande du président du conseil de surveillance du Grand port maritime de Marseille ! Je crie au déni de démocratie ! On ne peut pas accepter qu'un commissaire-enquêteur soit évincé au motif qu'il a rendu un rapport allant à l'encontre des intérêts de ceux qui l'ont commandé ! La récente annonce de l'organisation d'un référendum à Notre-Dame-des-Landes par le Président de la République montre que les citoyens doivent être pris en considération. Alors même que le secteur de Mourepiane a connu une levée de boucliers, on considère que les conclusions du commissaire-enquêteur sont contraires à ce qu'envisagent l'État et le Grand port maritime de Marseille, ce qui va à l'encontre de …
+
+M. le président. Si vous souhaitez obtenir une réponse, cher collègue, il faut à présent laisser la parole à Mme la secrétaire d'État.
+
+M. Henri Jibrayel. Mme la ministre de l'environnement, de l'énergie et de la mer a été interpellée. Que compte faire le Gouvernement pour venir au secours de ces populations qui condamnent ce projet inutile et néfaste pour elles ?
+
+M. le président. La parole est à Mme la secrétaire d'État auprès du ministère de l'environnement, de l'énergie et de la mer, chargée des relations internationales sur le climat, chargée de la biodiversité.
+
+Mme Barbara Pompili, secrétaire d'État chargée des relations internationales sur le climat, chargée de la biodiversité. Je vous remercie tout d'abord de vos encouragements, monsieur le député. Vous interrogez M. le secrétaire d'État aux transports sur le projet de terminal de transport combiné de Mourepiane et les suites qui seront données à l'avis rendu par le commissaire-enquêteur. Ce projet, comme vous l'avez dit, a pour ambition de conforter l'activité économique du terminal à conteneurs des bassins Est du Grand port maritime de Marseille. Je rappelle avant tout que nous avons la responsabilité collective de construire une vision partagée par tous les opérateurs de la place portuaire. Compte tenu du contexte fortement urbain des quartiers environnants, cette vision doit bien entendu prendre en compte les avis des élus et des citoyens émis lors de la concertation publique tenue du 5 octobre au 6 novembre 2015 et s'inscrire pleinement dans la dynamique impulsée par la charte Ville-Port signée en juin 2013.
+
+Ce projet, j'en suis sûre, permettra de rééquilibrer la desserte des bassins Est du Grand port maritime de Marseille au bénéfice du transport ferroviaire. Il s'inscrit dans une dynamique de développement durable et d'accompagnement de la transition énergétique en contribuant à réduire globalement les émissions polluantes en ville et dans la vallée du Rhône. Pour autant, Alain Vidalies a pris note des craintes des riverains, des doutes de certains opérateurs et donc des incertitudes pesant sur la possibilité de faire aboutir le projet sous sa forme actuelle. Par conséquent, s'il lui semble urgent de conserver les ambitions initiales du projet, il lui semble aussi indispensable de le mettre en œuvre dans une version plus séquencée tenant compte de la montée en puissance du trafic et visant à rassembler les parties prenantes autour de la poursuite d'un objectif commun.
+
+Cette réflexion préalable doit en premier lieu conduire à améliorer la desserte ferroviaire du Grand port maritime afin de favoriser le report modal, qui demeure stratégique pour l'avenir de la place portuaire marseillaise. Ainsi, le Grand port maritime de Marseille présentera, lors de son conseil de surveillance du 19 février prochain, un phasage du projet dont la première tranche sera circonscrite au terminal à conteneurs de Mourepiane afin de répondre aux besoins du trafic maritime. Le calendrier et les modalités détaillées des tranches suivantes seront définis après une concertation approfondie, en lien avec les acteurs politiques et économiques concernés.
+
+M. le président. La parole est à M. Henri Jibrayel.
+
+M. Henri Jibrayel. Je vous remercie de votre réponse, madame la secrétaire d'État. Elle répond aux attentes des populations, des associations, des comités inter-quartiers et des élus du secteur. J'ose espérer que les responsables du Grand port maritime de Marseille l'entendront et reviendront à la raison, afin d'organiser une concertation plus approfondie à propos des nuisances que peut causer ce terminal pour une population de 30 000 habitants.
