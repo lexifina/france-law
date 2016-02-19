@@ -1,0 +1,33 @@
+# Réponse à la question n° 1298
+
+- Question : [1298](1298.md) — Question n° 1298 — lutte et prévention
+
+## Réponse
+
+*JO du 2016-02-19*
+
+PROLIFÉRATION DES RATS TAUPIERS
+
+M. le président. La parole est à M. Alain Marleix, pour exposer sa question, n° 1298, relative à la prolifération des rats taupiers.
+
+M. Alain Marleix. Monsieur le ministre de l'agriculture, de l'agroalimentaire et de la forêt, je souhaite appeler votre attention sur les inquiétudes des agriculteurs de plusieurs régions françaises, notamment du Massif central, devant la prolifération, voire la pullulation des rats taupiers. Les dégâts en phase de pullulation – 1 500 rats par hectare : c’est considérable ! – ont des effets économiques majeurs sur les exploitations agricoles concernées. Il est évident que seule la combinaison de tous les moyens de lutte existants, notamment préventifs, peut permettre aux agriculteurs de réussir à endiguer ce phénomène.
+
+L'arrêté du 14 mai 2014, encadrant la lutte contre le campagnol, notamment l'utilisation des produits phytopharmaceutiques contenant de la bromadiolone, vise « la maîtrise des populations » de ces rongeurs, en limitant le recours à ce raticide. Des méthodes empiriques ont été mises à l’essai, un peu timidement, je dois le reconnaître. Malgré cela, la situation est loin de s'améliorer, hélas. La cible a été manquée, chacun en convient, si bien que la colère des agriculteurs grandit devant ce fléau qui semble impossible à éradiquer, s'étend et gagne petit à petit tous les départements du Massif central, de la Corrèze au Cantal jusqu'à la Lozère et l'Aveyron en passant par le Puy-de-Dôme et la Haute-Loire.
+
+Lors du bilan de santé de la PAC, l’Union européenne a engagé une réforme de la gestion des risques en agriculture, ouvrant à ses États membres la possibilité de mettre en place des fonds de mutualisation pour indemniser les pertes subies par les agriculteurs lors des crises sanitaires ou des accidents environnementaux. Ces fonds de mutualisation existent : ils sont financés à la fois par la profession agricole, l'État et l’Union européenne. Depuis cette date, un travail a été engagé sur le campagnol sous l'impulsion notamment de l’Institut national de la recherche agronomique – INRA –, de la nouvelle région Auvergne-Rhône-Alpes, qui est concernée par la situation, ainsi que par la Franche-Comté, qui est habituée à ces pullulations de rats taupiers. Ces dernières semaines, des recherches, menées à partir de l'université de Lyon, se sont enfin accélérées
+
+Ce qui nous inquiète, c'est que le comité scientifique qui avait été nommé par l'administration dans le Massif central, ne s'est, me semble-t-il, toujours pas réuni, alors que nous sommes aujourd'hui plus de quatre mois après l'annonce de la création de ce comité chargé de faire des propositions. Il nous paraît grand temps de trouver le produit susceptible d'éradiquer définitivement ce fléau récurrent qui, joint à la sécheresse et à la fièvre catarrhale, contribue, vous le savez, à affaiblir l'élevage français et à décourager nos agriculteurs, notamment les jeunes, de s'installer. Le fait que le Cantal, mon département, qui est peut-être celui qui installe, chaque année, le plus grand nombre de jeunes agriculteurs – plus d'une centaine –, ait vu ce nombre réduit de moitié cette année est un signe de ce découragement.
+
+Monsieur le ministre, pouvez-vous me donner des précisions sur l'évolution de ce dossier, qui pénalise de plus en plus les campagnes françaises, puisque, à ce jour, aucune solution durable n'a pu être mise en place pour éviter cette prolifération ? Il le faut avant que ne se déclare également une véritable crise sanitaire liée aux cadavres des dizaines de milliers de rats présents dans nos ruisseaux et dans nos rivières.
+
+Deux questions urgentes se posent : quels sont les moyens de lutte crédibles en période de pullulation massive ? En 1990, le seuil de bromadiolone admis était de vingt et un kilogrammes à l'hectare ; dans les années 2000, il a été abaissé à quatorze kilogrammes et il est aujourd'hui de 7,5 kilogrammes. Ne peut-on pas, pour réguler cette pullulation, revenir pour quelque temps, par dérogation exceptionnelle, aux anciens seuils de tolérance ? Par ailleurs, comment l'État pourra-t-il aider dans quelques semaines ces agriculteurs de montagne qui n'auront ni herbe ni fourrage ?
+
+M. le président. La parole est à M. le ministre de l'agriculture, de l'agroalimentaire et de la forêt, porte-parole du Gouvernement.
+
+M. Stéphane Le Foll, ministre de l'agriculture, de l'agroalimentaire et de la forêt, porte-parole du Gouvernement. Monsieur le député, vous avez évoqué les problèmes à l'ordre du jour, notamment les zones réglementées « fièvre catarrhale ovine » – FCO ; j'aurai à répondre également à une question sur l'influenza aviaire. Vous avez parlé de la crise de l'élevage et de la sécheresse et rappelé, à juste titre, les problèmes dus aux campagnols ou rats taupiers, qui occasionnent des dégâts, notamment dans les prairies permanentes.
+
+Je souhaite vous apporter une réponse objective, capable de régler le problème. Vous avez évoqué les deux approches possibles. La première consiste à relever les niveaux de tolérance de bromadiolone, ce qui ne serait pas sans risque. En effet, si ce produit est de moins en moins utilisé, c'est qu'il comporte des risques pour l'environnement. Il convient aussi d'utiliser des produits de substitution. Des pistes intéressantes existent aujourd'hui, sur lesquelles nous pouvons désormais travailler : je pense notamment à l'introduction sous terre de glace carbonique pour asphyxier les rats.
+
+La seconde stratégie vise, contre ces parasites et nuisibles, à appliquer des règles de prévention coordonnées et organisées. Une fois qu'on a laissé proliférer les nuisibles, on est contraint de trouver des mesures d'éradication qui ont souvent de lourdes conséquences environnementales. Le comité scientifique, dites-vous, ne s'est pas réuni. Aussitôt après vous avoir répondu, je ferai passer un message visant à demander la mise en place d'un comité de pilotage de gestion et de prévention de l'ensemble de ce sujet, qui prendra en considération les éléments techniques et scientifiques supplémentaires qui sont à notre disposition – j'ai évoqué la glace carbonique. Le FMSE, le fonds national agricole de mutualisation sanitaire et environnementale, pourrait être également mobilisé puisque nous avons affaire à un problème sanitaire.
+
+Plutôt que de nous retrouver dans une situation qui ne nous laisserait pas d'autre choix que l'éradication par des produits et la mutualisation des aides, nous devons prévoir des stratégies de prévention.
