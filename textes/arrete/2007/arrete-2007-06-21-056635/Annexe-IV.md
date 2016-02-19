@@ -54,9 +54,79 @@ Après examen des documents fournis, le jury formule toutes remarques et observa
 
 L'inspecteur de l'Éducation nationale chargé de la spécialité concernée veille à la qualité et au bon déroulement de la situation d'évaluation ainsi qu'à sa conformité au règlement d'examen.
 
-EP2/UP2 - conduite d'un véhicule
+EP2 - Conduite d'un véhicule - UP2 - coefficient 8
 
-(Remplacée)
+Objectifs et contenus de l'épreuve
+
+Cette sous-épreuve recouvre tout ou partie des compétences exigées du titulaire du certificat d'aptitude professionnelle du conducteur routier marchandises pour réaliser la conduite d'un véhicule lourd articulé, en sécurité, en prenant en compte un comportement éco citoyen.
+
+Elle a pour objet de valider tout ou partie des compétences suivantes du référentiel :
+
+- C2.5 : Gérer ses activités
+
+- C3.1 : Prendre en charge le véhicule et ses supports de manutention
+
+- C3.4 : Conduire un véhicule
+
+- C3.6 : Gérer les supports de manutention et restituer le véhicule
+
+Les indicateurs de performances sont ceux définis dans le référentiel de certification.
+
+On notera que pour effectuer les tâches demandées, certaines autres compétences peuvent être mobilisées. En aucun cas, ces dernières ne donneront lieu à évaluation. Si ces compétences ne sont pas maîtrisées, les tâches correspondantes doivent être réalisées avec assistance.
+
+S'il est bien entendu que la mise en œuvre des compétences à évaluer nécessite la mobilisation des savoirs correspondants, il ne saurait être question d'évaluer les seuls savoirs.
+
+Conditions de réalisation
+
+Le support de l'épreuve est celui des épreuves orales et pratiques de conduite et manœuvres d'un véhicule articulé de PTAC supérieur à 3,5 tonnes.
+
+Cette épreuve se déroule conformément à la nature et aux exigences des épreuves pratiques de la catégorie CE du permis de conduire après avoir validé en amont le niveau des catégories B puis C.
+
+Au terme de l'épreuve si le candidat obtient :
+
+- un avis favorable, il se voit attribuer une note en fonction de ses performances dans la démonstration des compétences visées par cette épreuve.
+
+- un avis défavorable, il n'obtient pas de note, seule cette appréciation est portée sur son dossier ; il ne peut donc pas se voir délivrer le diplôme postulé.
+
+Les avis favorables ou défavorables sont prononcés sur la base des fiches de "recueil épreuves hors circulation et circulation" publiées et mises à jour par le ministère de l'intérieur en charge du permis de conduire.
+
+La fiche nationale d'évaluation permettant d'attribuer la note, rédigée et mise à jour par l'inspection générale de l'éducation nationale, est diffusée aux établissements par les services rectoraux des examens et concours.
+
+Modes d'évaluation
+
+Forme ponctuelle : épreuve pratique, écrite et orale d'une durée de 2 h
+
+La commission d'évaluation est composée :
+
+- de l'expert du permis de conduire en charge de proposer à la commission, l'avis favorable ou défavorable ;
+
+- de l'enseignant de conduite routière ;
+
+- d'un professionnel. Toutefois l'absence de celui-ci n'invalide pas le déroulement de l'épreuve.
+
+Les candidats qui possèdent la catégorie CE du permis de conduire et la qualification initiale sont à leur demande lors de l'inscription, dispensés de cette épreuve. Ils se voient alors attribuer la note de 10 sur 20.
+
+Contrôle en cours de formation : épreuve pratique, écrite et orale
+
+Les situations d'évaluation au cours de la formation seront assurées de façon conjointe :
+
+- par un professeur de conduite routière en charge de proposer l'avis favorable ou défavorable. Cet enseignant n'est pas le formateur à la conduite CE de l'élève ;
+
+- par l'enseignant de conduite routière ;
+
+- par un professionnel. Toutefois l'absence de celui-ci n'invalide pas le déroulement de l'évaluation.
+
+À l'issue de la situation d'évaluation, l'équipe pédagogique de l'établissement de formation constitue pour chaque candidat un dossier comprenant :
+
+- le dossier recueil des dates de validation de l'épreuve théorique générale et des niveaux de conduite B, C et CE ;
+
+- la fiche nationale d'évaluation comprenant :
+
+. la présentation du travail effectivement réalisé par le candidat ;
+
+. le bilan de compétences ayant permis la proposition de note pour les candidats ayant obtenu un avis favorable.
+
+L'ensemble du dossier décrit ci-dessus, sera transmis au jury, accompagné de la proposition de note.
 
 EP3/UP3 - évaluation des activités en milieu professionnel
 

@@ -1,7 +1,5 @@
 # Article Annexe III
 
-Annexe III
-
 Règlement d'examen
 
 CAP
@@ -100,11 +98,7 @@ UP2
 
 |
 
-Ponctuelle pratique et orale
-
-|
-
-2 h maxi
+CCF
 
 |
 
@@ -247,21 +241,5 @@ Ponctuelle orale
 (2) dont 1 h pour la VSP
 
 (3) seuls les points au-dessus de 10 sont pris en compte pour la délivrance du diplôme. L'épreuve n'est organisée que s'il est possible d'adjoindre au jury un examinateur compétent. L'épreuve est précédée d'un temps égal de préparation.
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
 
 |
