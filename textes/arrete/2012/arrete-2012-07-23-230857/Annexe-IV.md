@@ -6,7 +6,7 @@ a) Un mémoire technique décrivant le projet réalisé, comprenant les document
 
 b) Le cas échéant, la liste des tests et essais réalisés ainsi que les avis des personnes compétentes qui ont analysé et validé les résultats ;
 
-c) Un mémoire ayant pour objet de préciser les conditions d'exploitation et de maintenance du projet à respecter pour assurer le respect des objectifs de sécurité (conformément aux méthodes décrites dans le règlement [CE] n° 352/2009) tout au long de la durée de l'exploitation et qui comporte :
+c) Un mémoire ayant pour objet de préciser les conditions d'exploitation et de maintenance du projet à respecter pour assurer le respect des objectifs de sécurité (conformément aux méthodes décrites dans le règlement 402/2013/UE déjà mentionné) tout au long de la durée de l'exploitation et qui comporte :
 
 La description des domaines d'exploitation et des caractéristiques générales d'exploitation en situation normale, particulière ou dégradée, et notamment :
 
@@ -26,10 +26,8 @@ d) Une déclaration du demandeur certifiant la couverture des risques identifié
 
 Le cas échéant, aux prescriptions émises par l'EPSF dans l'avis sur le DCS ou dans l'acte d'approbation du DPS ;
 
-e) Le cas échéant, la déclaration CE de vérification du véhicule ou autre sous-système, sous réserve des dérogations éventuelles accordées par le ministre chargé des transports. La déclaration devra respecter les prescriptions décrites aux annexes VI et VII. En particulier, elle devra préciser la liste des constituants d'interopérabilité utilisés et, pour chacun d'entre eux, une déclaration CE d'évaluation de la conformité ou de l'aptitude à l'emploi doit être fournie ;
+Le cas échéant, la mention du système de référence pris en compte.
 
-f) Le cas échéant, la déclaration de vérification aux règles nationales, sous réserve des dérogations éventuelles accordées par le ministre chargé des transports. La déclaration devra respecter les prescriptions décrites à l'annexe VII ;
+e) Le cas échéant, la déclaration "CE" de vérification du véhicule ou autre sous-système, sous réserve des dérogations éventuelles accordées par le ministre chargé des transports. La déclaration devra respecter les prescriptions décrites à l'annexe V et à l'annexe VI de la directive 2008/57/CE. En particulier, elle devra préciser la liste des constituants d'interopérabilité utilisés, et, pour chacun d'entre eux, une déclaration "CE" d'évaluation de la conformité ou de l'aptitude à l'emploi doit être fournie, conformément à l'annexe IV de la directive 2008/57/CE. Cette déclaration intègre, le cas échéant, le certificat de vérification au regard de la réglementation nationale, sous réserve des dérogations éventuelles accordées par le ministre chargé des transports. La déclaration devra respecter les prescriptions de l'annexe V et de l'annexe VI de la directive 2008/57/CE ;
 
-g) Les éléments permettant de renseigner, selon la nature du projet, le registre de l'infrastructure, le registre national des véhicules, le registre ERATV.
-
-Le DS est accompagné du rapport de l'OQA désigné à cet effet.
+f) Les éléments permettant de renseigner, selon la nature du projet, le registre de l'infrastructure indiqué dans la décision d'exécution 2014/880/UE du 26 novembre 2014 relative aux spécifications communes du registre de l'infrastructure ferroviaire et abrogeant la décision d'exécution 2011/633/UE, le registre national des véhicules, le registre ERATV indiqué dans la décision d'exécution 2011/665/UE du 4 octobre 2011 relative au registre européen des types de véhicules ferroviaires autorisés. Le DS est accompagné du rapport de l'OQA désigné à cet effet.
