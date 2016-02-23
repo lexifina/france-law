@@ -1,0 +1,9 @@
+# Réponse à la question n° 84326
+
+- Question : [84326](84326.md) — Question n° 84326 — service civique; dérives
+
+## Réponse
+
+*JO du 2016-02-23*
+
+La mise en œuvre du service civique universel s'accompagne nécessairement d'une attention accrue portée à la qualité des missions proposées aux engagés. Il est en effet essentiel que le service civique constitue effectivement un temps d'engagement pour les jeunes dans le cadre duquel les engagés acquièrent savoir-être et savoir-faire. Aussi les nouvelles missions qui seront proposées aux engagés doivent effectivement être destinées à servir l'intérêt général. C'est pourquoi des missions de sensibilisation et d'information au bénéfice direct des habitants et particulièrement les plus vulnérables sont mises en œuvre, notamment au sein des services de police et de gendarmerie ou des caisses d'allocations familiales. Complémentaires de l'action des fonctionnaires, des salariés et des bénévoles, ces missions doivent permettre d'expérimenter ou de développer de nouveaux projets au service de la population ou de démultiplier l'impact des actions existantes et de renforcer la qualité du service rendu aux usagers. La définition des profils de missions et les modalités d'accompagnement des engagés sont élaborées en étroite collaboration avec l'agence du service civique. La mise en place de programmes portés par les différents départements ministériels, s'accompagne de la mise en place de nouveaux outils. L'agence du service civique organise des séminaires de travail collectif, propose des formations à destination de correspondants du service civique, élabore de nouveaux outils tel un catalogue de missions type. Le contrôle des organismes d'accueil exercé par l'agence du service civique et ses délégués territoriaux sera également renforcé afin d'éviter toutes dérives liées à la substitution à l'emploi.
