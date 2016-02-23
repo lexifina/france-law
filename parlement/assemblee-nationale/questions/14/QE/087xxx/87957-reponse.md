@@ -1,0 +1,9 @@
+# Réponse à la question n° 87957
+
+- Question : [87957](87957.md) — Question n° 87957 — aides-soignants à domicile; statut; reconnaissance
+
+## Réponse
+
+*JO du 2016-02-23*
+
+En application des dispositions de l'article R. 4311-4 du code de la santé publique, l'aide-soignant exerce son activité en collaboration et sous la responsabilité de l'infirmier, dans le cadre du rôle qui relève de l'initiative de celui-ci. Il a pour mission de dispenser des soins liés aux fonctions d'entretien et de continuité de la vie, visant le bien-être et l'autonomie de la personne et de l'enfant et réalise les actes de soins pour lesquels il a été formé. Cette collaboration ne peut exister qu'au sein d'un établissement de santé ou d'un service à domicile à caractère sanitaire, social ou médico-social, c'est pourquoi la profession d'aide-soignant ne peut être exercée en mode libéral. On constate aujourd'hui une forte évolution des besoins de la population (notamment liés au vieillissement), des pratiques professionnelles, des techniques et des lieux d'exercice. Ainsi, dix ans après la publication des référentiels relatifs à cette profession, la réingénierie du métier et de la formation d'aide-soignant, ainsi que de ceux d'auxiliaire de puériculture est devenue nécessaire. Un groupe de travail associant les représentants des organisations professionnelles d'aides-soignants, d'auxiliaires de puériculture, d'infirmières et de cadres de santé, le conseil national de l'ordre infirmier, le conseil national de l'ordre des médecins, les organisations syndicales siégeant au haut conseil des professions paramédicales et les fédérations d'employeurs a débuté la réflexion le 26 mai 2015. Ce travail d'actualisation a pour objet de faire évoluer le champ et les modalités d'exercice de ces professions ainsi que leur formation afin de mieux répondre aux nouveaux besoins de santé de la population.
