@@ -1,0 +1,9 @@
+# Réponse à la question n° 79755
+
+- Question : [79755](79755.md) — Question n° 79755 — sécurité et accessibilité; rapport; recommandations
+
+## Réponse
+
+*JO du 2016-02-23*
+
+Depuis de nombreuses années, un partenariat étroit est engagé entre le ministère de l'éducation nationale, de l'enseignement supérieur et de la recherche (MENESR) et l'organisme professionnel de prévention du bâtiment et des travaux publics (OPPBTP). Ce partenariat, dont l'objectif est de favoriser la prise en compte des problématiques de prévention des risques professionnels, concerne l'ensemble du processus, de l'élaboration des référentiels des diplômes à la mise en œuvre des formations : - Participation de l'OPPBTP aux groupes de travail de création ou rénovation des diplômes professionnels du secteur du bâtiment et des travaux publics ; - Invitation de l'OPPBTP aux séances plénières des commissions professionnelles consultatives (CPC) relevant de son champ d'action (5ème CPC – Bâtiment, travaux publics et matériaux de construction - et 10ème CPC - Bois et dérivés) ; - Animation de journées techniques à destination des enseignants sur les problématiques de prévention des risques professionnels (plus de 500 enseignants formés à ce jour). Cette collaboration témoigne de l'engagement du ministère dans la prise en compte de la sécurité et de la prévention des risques dans le processus d'élaboration des référentiels des diplômes professionnels. Le rapport annuel de l'Observatoire national de la sécurité et de l'accessibilité des établissements d‘enseignement évoque parmi d'autres propositions, la possibilité de création d'un site de ressources partagées entre le MENESR et l'OPPBTP. Cette création pourra en effet, lorsque la nature du site et son articulation avec les nombreuses actions partenariales existantes auront été précisées, contribuer à améliorer la prise en compte des enjeux de sécurité et de prévention des risques professionnels.
