@@ -186,7 +186,7 @@ Chef du service historique de la défense
 
 |
 
-Chef du service centralisé des achats de la direction des opérations (DGA)
+Chef du service des achats d'armement de la direction des opérations (DGA)
 
 |
 

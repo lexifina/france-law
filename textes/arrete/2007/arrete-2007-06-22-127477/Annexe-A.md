@@ -398,7 +398,7 @@ Direction des opérations
 
 |
 
-Chef du service centralisé des achats
+Chef du service des achats d'armement
 
 |
 
@@ -406,13 +406,17 @@ Sans limitation
 
 |
 
-Adjoints du chef du service centralisé des achats
+Adjoints du chef du service des achats d'armement
 
 |
 
 Sans limitation
 
 |
+
+Autorités signataires de marchés |
+
+MAPA × 50 |
 
 Direction de la stratégie
 
@@ -431,42 +435,6 @@ Directeur de DGA intelligence technique et économique
 |
 
 Sans limitation
-
-|
-
-Direction technique
-
-|
-
-Chef du service centralisé des achats techniques
-
-|
-
-Sans limitation
-
-|
-
-Adjoints du chef du service centralisé des achats techniques
-
-|
-
-MAPA x 50
-
-|
-
-Directeur de DGA Ingénierie des projets
-
-|
-
-MAPA x 50
-
-|
-
-Directeurs des centres d'expertise et d'essais
-
-|
-
-MAPA x 50
 
 |
 

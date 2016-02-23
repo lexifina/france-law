@@ -16,7 +16,7 @@ I.-Direction des opérations
 
 |
 
-Service centralisé des achats |
+Service des achats d'armement |
 
 MAPA x 30
 

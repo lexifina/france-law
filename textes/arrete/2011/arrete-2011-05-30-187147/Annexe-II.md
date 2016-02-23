@@ -108,7 +108,7 @@ Le directeur du centre ministériel de gestion de Saint-Germain-en-Laye
 
 Agents en fonctions dans les organismes ne relevant pas de l'administration centrale et implantés dans les départements suivants :
 
-- Oise (60), Paris (75), Seine-et-Marne (77), Yvelines (78), Essonne (91), Hauts-de-Seine (92), Seine-Saint-Denis (93), Val-de-Marne (94), Val-d'Oise (95)
+-Oise (60), Paris (75), Seine-et-Marne (77), Yvelines (78), Essonne (91), Hauts-de-Seine (92), Seine-Saint-Denis (93), Val-de-Marne (94), Val-d'Oise (95)
 
 Agents en fonctions dans les organismes implantés dans les départements et collectivités d'outre-mer
 
@@ -118,25 +118,25 @@ Agents en fonctions au sein de la direction de la protection et de la sécurité
 
 Agents en fonctions au sein des établissements publics suivants :
 
-- Institution nationale des Invalides
+-Institution nationale des Invalides
 
-- musée de l'armée
+-musée de l'armée
 
-- musée de l'air et de l'espace
+-musée de l'air et de l'espace
 
-- musée de la marine
+-musée de la marine
 
-- établissement de communication et de production audiovisuelle de la défense
+-établissement de communication et de production audiovisuelle de la défense
 
-- Office national des anciens combattants
+-Office national des anciens combattants
 
-- Ecole polytechnique
+-Ecole polytechnique
 
-- Ecole nationale supérieure de techniques avancées
+-Ecole nationale supérieure de techniques avancées
 
-- Etablissement public d'insertion de la défense
+-Etablissement public d'insertion de la défense
 
-- Institut des hautes études de la défense nationale
+-Institut des hautes études de la défense nationale
 
 Agents en fonctions dans les organismes ne relevant pas de l'administration centrale du service historique de la défense à l'exception des agents en fonctions au sein du centre des archives du personnel militaire de Pau
 
@@ -190,13 +190,13 @@ Le directeur du centre ministériel de gestion de Bordeaux
 
 Agents en fonctions dans les organismes ne relevant pas de l'administration centrale et implantés dans les départements suivants :
 
-- Ariège (09), Aveyron (12), Charente (16), Charente-Maritime (17), Corrèze (19), Creuse (23), Dordogne (24), Haute-Garonne (31), Gers (32), Gironde (33), Landes (40), Lot (46), Lot-et-Garonne (47), Pyrénées-Atlantiques (64), Hautes-Pyrénées (65), Deux-Sèvres (79), Tarn (81), Tarn-et-Garonne (82), Vienne (86), Haute-Vienne (87)
+-Ariège (09), Aveyron (12), Charente (16), Charente-Maritime (17), Corrèze (19), Creuse (23), Dordogne (24), Haute-Garonne (31), Gers (32), Gironde (33), Landes (40), Lot (46), Lot-et-Garonne (47), Pyrénées-Atlantiques (64), Hautes-Pyrénées (65), Deux-Sèvres (79), Tarn (81), Tarn-et-Garonne (82), Vienne (86), Haute-Vienne (87)
 
 Agents en fonctions au sein de DGA essais de missiles
 
 Agents en fonctions au sein de l'établissement public suivant :
 
-- Institut supérieur de l'aéronautique
+-Institut supérieur de l'aéronautique
 
 |
 
@@ -248,19 +248,19 @@ Le directeur du centre ministériel de gestion de Lyon
 
 Agents en fonctions dans les organismes ne relevant pas de l'administration centrale et implantés dans les départements suivants :
 
-- Ain (01), Allier (03), Ardèche (07), Cantal (15), Drôme (26), Isère (38), Loire (42), Haute-Loire (43), Puy-de-Dôme (63), Rhône (69), Savoie (73), Haute-Savoie (74)
+-Ain (01), Allier (03), Ardèche (07), Cantal (15), Drôme (26), Isère (38), Loire (42), Haute-Loire (43), Puy-de-Dôme (63), Rhône (69), Savoie (73), Haute-Savoie (74)
 
 Agents en fonctions dans les organismes extérieurs de la direction du service national suivants :
 
-- centre du service national de Nîmes
+-centre du service national de Nîmes
 
-- centre du service national Nice
+-centre du service national Nice
 
-- centre du service national Marseille
+-centre du service national Marseille
 
-- centre du service national Perpignan
+-centre du service national Perpignan
 
-Agents en fonctions dans les sociétés DCNS, GIAT/Nexter et au sein du Commissariat à l'énergie atomique et aux énergies alternatives
+Agents en fonctions dans les sociétés DCNS, GIAT/ Nexter et au sein du Commissariat à l'énergie atomique et aux énergies alternatives
 
 |
 
@@ -312,7 +312,7 @@ Le directeur du centre ministériel de gestion de Metz
 
 Agents en fonctions dans les organismes ne relevant pas de l'administration centrale et implantés dans les départements suivants :
 
-- Aisne (02), Ardennes (08), Aube (10), Côte-d'Or (21), Doubs (25), Jura (39), Marne (51), Haute-Marne (52), Meurthe-et-Moselle (54), Meuse (55), Moselle (57), Nièvre (58), Nord (59), Pas-de-Calais (62), Bas-Rhin (67), Haut-Rhin (68), Haute-Saône (70), Saône-et-Loire (71), Somme (80), Vosges (88), Yonne (89), Territoire de Belfort (90)
+-Aisne (02), Ardennes (08), Aube (10), Côte-d'Or (21), Doubs (25), Jura (39), Marne (51), Haute-Marne (52), Meurthe-et-Moselle (54), Meuse (55), Moselle (57), Nièvre (58), Nord (59), Pas-de-Calais (62), Bas-Rhin (67), Haut-Rhin (68), Haute-Saône (70), Saône-et-Loire (71), Somme (80), Vosges (88), Yonne (89), Territoire de Belfort (90)
 
 Agents en fonctions au sein du service des essences des armées
 
@@ -368,13 +368,13 @@ Le directeur du centre ministériel de gestion de Rennes
 
 Agents en fonctions dans les organismes ne relevant pas de l'administration centrale et implantés dans les départements suivants :
 
-- Calvados (14), Cher (18), Côtes-d'Armor (22), Eure (27), Eure-et-Loir (28), Finistère (29), Ille-et-Vilaine (35), Indre (36), Indre-et-Loire (37), Loir-et-Cher (41), Loire-Atlantique (44), Loiret (45), Maine-et-Loire (49), Manche (50), Mayenne (53), Morbihan (56), Orne (61), Sarthe (72), Seine-Maritime (76), Vendée (85)
+-Calvados (14), Cher (18), Côtes-d'Armor (22), Eure (27), Eure-et-Loir (28), Finistère (29), Ille-et-Vilaine (35), Indre (36), Indre-et-Loire (37), Loir-et-Cher (41), Loire-Atlantique (44), Loiret (45), Maine-et-Loire (49), Manche (50), Mayenne (53), Morbihan (56), Orne (61), Sarthe (72), Seine-Maritime (76), Vendée (85)
 
 Agents en fonctions au sein des établissements publics suivants :
 
-- Ecole nationale supérieure de techniques avancées Bretagne
+-Ecole nationale supérieure de techniques avancées Bretagne
 
-- service hydrographique et océanographique de la marine
+-service hydrographique et océanographique de la marine
 
 |
 
@@ -426,27 +426,27 @@ Le directeur du centre ministériel de gestion de Toulon
 
 Agents en fonctions dans les organismes ne relevant pas de l'administration centrale et implantés dans les départements suivants :
 
-- Corse-du-Sud (2A), Haute-Corse (2B), Alpes-de-Haute-Provence (04), Hautes-Alpes (05), Alpes-Maritimes (06), à l'exception du centre du service national de Nice, Aude (11), Bouches-du-Rhône (13), à l'exception du centre du service national de Marseille, Gard (30), à l'exception du centre du service national de Nîmes, Hérault (34), Lozère (48), Pyrénées-Orientales (66), à l'exception du centre du service national de Perpignan, Var (83), Vaucluse (84)
+-Corse-du-Sud (2A), Haute-Corse (2B), Alpes-de-Haute-Provence (04), Hautes-Alpes (05), Alpes-Maritimes (06), à l'exception du centre du service national de Nice, Aude (11), Bouches-du-Rhône (13), à l'exception du centre du service national de Marseille, Gard (30), à l'exception du centre du service national de Nîmes, Hérault (34), Lozère (48), Pyrénées-Orientales (66), à l'exception du centre du service national de Perpignan, Var (83), Vaucluse (84)
 
 Agents en fonctions dans les organismes extérieurs de la direction générale de l'armement suivants :
 
-- DGA essais en vol
+-DGA essais en vol
 
-- service de la qualité
+-service de la qualité
 
-- centre technique des systèmes d'information
+-centre technique des systèmes d'information
 
-- service centralisé des achats techniques
+- service des achats d'armement
 
-- service de l'exécution budgétaire et des comptabilités des opérations d'armement
+-service de l'exécution budgétaire et des comptabilités des opérations d'armement
 
-- service extérieur de la communication
+-service extérieur de la communication
 
-- centre de la sécurité de défense et des systèmes d'information
+-centre de la sécurité de défense et des systèmes d'information
 
-- centre de prestations de proximité des ressources humaines
+-centre de prestations de proximité des ressources humaines
 
-- DGA techniques navales
+-DGA techniques navales
 
 |
 
@@ -570,7 +570,7 @@ Suppléants
 
 |
 
-CAPL/ATMD
+CAPL/ ATMD
 
 Administration centrale
 
@@ -622,7 +622,7 @@ Agent technique 2e classe
 
 |
 
-CAPL/ATMD
+CAPL/ ATMD
 
 Saint-Germain-en-Laye
 
@@ -634,7 +634,7 @@ Le directeur du centre ministériel de gestion de Saint-Germain-en-Laye
 
 Agents en fonctions dans les organismes ne relevant pas de l'administration centrale et implantés dans les départements suivants :
 
-- Oise (60), Paris (75), Seine-et-Marne (77), Yvelines (78), Essonne (91), Hauts-de-Seine (92), Seine-Saint-Denis (93), Val-de-Marne (94), Val-d'Oise (95)
+-Oise (60), Paris (75), Seine-et-Marne (77), Yvelines (78), Essonne (91), Hauts-de-Seine (92), Seine-Saint-Denis (93), Val-de-Marne (94), Val-d'Oise (95)
 
 Agents en fonctions dans les organismes implantés dans les départements et collectivités d'outre-mer
 
@@ -644,25 +644,25 @@ Agents en fonctions au sein de la direction de la protection et de la sécurité
 
 Agents en fonctions au sein des établissements publics suivants :
 
-- Institution nationale des Invalides
+-Institution nationale des Invalides
 
-- musée de l'armée
+-musée de l'armée
 
-- musée de l'air et de l'espace
+-musée de l'air et de l'espace
 
-- musée de la marine
+-musée de la marine
 
-- établissement de communication et de production audiovisuelle de la défense
+-établissement de communication et de production audiovisuelle de la défense
 
-- Office national des anciens combattants
+-Office national des anciens combattants
 
-- Ecole polytechnique
+-Ecole polytechnique
 
-- Ecole nationale supérieure de techniques avancées
+-Ecole nationale supérieure de techniques avancées
 
-- Etablissement public d'insertion de la défense
+-Etablissement public d'insertion de la défense
 
-- Institut des hautes études de la défense nationale
+-Institut des hautes études de la défense nationale
 
 Agents en fonctions dans les organismes ne relevant pas de l'administration centrale du service historique de la défense à l'exception des agents en fonctions au sein du centre des archives du personnel militaire de Pau
 
@@ -702,7 +702,7 @@ Agent technique 2e classe
 
 |
 
-CAPL/ATMD
+CAPL/ ATMD
 
 Bordeaux
 
@@ -714,13 +714,13 @@ Le directeur du centre ministériel de gestion de Bordeaux
 
 Agents en fonctions dans les organismes ne relevant pas de l'administration centrale et implantés dans les départements suivants :
 
-- Ariège (09), Aveyron (12), Charente (16), Charente-Maritime (17), Corrèze (19), Creuse (23), Dordogne (24), Haute-Garonne (31), Gers (32), Gironde (33), Landes (40), Lot (46), Lot-et-Garonne (47), Pyrénées-Atlantiques (64), Hautes-Pyrénées (65), Deux-Sèvres (79), Tarn (81), Tarn-et-Garonne (82), Vienne (86), Haute-Vienne (87)
+-Ariège (09), Aveyron (12), Charente (16), Charente-Maritime (17), Corrèze (19), Creuse (23), Dordogne (24), Haute-Garonne (31), Gers (32), Gironde (33), Landes (40), Lot (46), Lot-et-Garonne (47), Pyrénées-Atlantiques (64), Hautes-Pyrénées (65), Deux-Sèvres (79), Tarn (81), Tarn-et-Garonne (82), Vienne (86), Haute-Vienne (87)
 
 Agents en fonctions au sein de DGA essais de missiles
 
 Agents en fonctions au sein de l'établissement public suivant :
 
-- Institut supérieur de l'aéronautique
+-Institut supérieur de l'aéronautique
 
 |
 
@@ -758,7 +758,7 @@ Agent technique 2e classe
 
 |
 
-CAPL/ATMD
+CAPL/ ATMD
 
 Lyon
 
@@ -770,19 +770,19 @@ Le directeur du centre ministériel de gestion de Lyon
 
 Agents en fonctions dans les organismes ne relevant pas de l'administration centrale et implantés dans les départements suivants :
 
-- Ain (01), Allier (03), Ardèche (07), Cantal (15), Drôme (26), Isère (38), Loire (42), Haute-Loire (43), Puy-de-Dôme (63), Rhône (69), Savoie (73), Haute-Savoie (74)
+-Ain (01), Allier (03), Ardèche (07), Cantal (15), Drôme (26), Isère (38), Loire (42), Haute-Loire (43), Puy-de-Dôme (63), Rhône (69), Savoie (73), Haute-Savoie (74)
 
 Agents en fonctions dans les organismes extérieurs de la direction du service national suivants :
 
-- centre du service national de Nîmes
+-centre du service national de Nîmes
 
-- centre du service national Nice
+-centre du service national Nice
 
-- centre du service national Marseille
+-centre du service national Marseille
 
-- centre du service national Perpignan
+-centre du service national Perpignan
 
-Agents en fonctions dans les sociétés DCNS, GIAT/Nexter et au sein du Commissariat à l'énergie atomique et aux énergies alternatives
+Agents en fonctions dans les sociétés DCNS, GIAT/ Nexter et au sein du Commissariat à l'énergie atomique et aux énergies alternatives
 
 |
 
@@ -820,7 +820,7 @@ Agent technique 2e classe
 
 |
 
-CAPL/ATMD
+CAPL/ ATMD
 
 Metz
 
@@ -832,7 +832,7 @@ Le directeur du centre ministériel de gestion de Metz
 
 Agents en fonctions dans les organismes ne relevant pas de l'administration centrale et implantés dans les départements suivants :
 
-- Aisne (02), Ardennes (08), Aube (10), Côte-d'Or (21), Doubs (25), Jura (39), Marne (51), Haute-Marne (52), Meurthe-et-Moselle (54), Meuse (55), Moselle (57), Nièvre (58), Nord (59), Pas-de-Calais (62), Bas-Rhin (67), Haut-Rhin (68), Haute-Saône (70), Saône-et-Loire (71), Somme (80), Vosges (88), Yonne (89), Territoire de Belfort (90)
+-Aisne (02), Ardennes (08), Aube (10), Côte-d'Or (21), Doubs (25), Jura (39), Marne (51), Haute-Marne (52), Meurthe-et-Moselle (54), Meuse (55), Moselle (57), Nièvre (58), Nord (59), Pas-de-Calais (62), Bas-Rhin (67), Haut-Rhin (68), Haute-Saône (70), Saône-et-Loire (71), Somme (80), Vosges (88), Yonne (89), Territoire de Belfort (90)
 
 Agents en fonctions au sein du service des essences des armées
 
@@ -874,7 +874,7 @@ Agent technique 2e classe
 
 |
 
-CAPL/ATMD
+CAPL/ ATMD
 
 Rennes
 
@@ -886,13 +886,13 @@ Le directeur du centre ministériel de gestion de Rennes
 
 Agents en fonctions dans les organismes ne relevant pas de l'administration centrale et implantés dans les départements suivants :
 
-- Calvados (14), Cher (18), Côtes-d'Armor (22), Eure (27), Eure-et-Loir (28), Finistère (29), Ille-et-Vilaine (35), Indre (36), Indre-et-Loire (37), Loir-et-Cher (41), Loire-Atlantique (44), Loiret (45), Maine-et-Loire (49), Manche (50), Mayenne (53), Morbihan (56), Orne (61), Sarthe (72), Seine-Maritime (76), Vendée (85)
+-Calvados (14), Cher (18), Côtes-d'Armor (22), Eure (27), Eure-et-Loir (28), Finistère (29), Ille-et-Vilaine (35), Indre (36), Indre-et-Loire (37), Loir-et-Cher (41), Loire-Atlantique (44), Loiret (45), Maine-et-Loire (49), Manche (50), Mayenne (53), Morbihan (56), Orne (61), Sarthe (72), Seine-Maritime (76), Vendée (85)
 
 Agents en fonctions au sein des établissements publics suivants :
 
-- Ecole nationale supérieure de techniques avancées Bretagne
+-Ecole nationale supérieure de techniques avancées Bretagne
 
-- service hydrographique et océanographique de la marine
+-service hydrographique et océanographique de la marine
 
 |
 
@@ -930,7 +930,7 @@ Agent technique 2e classe
 
 |
 
-CAPL/ATMD
+CAPL/ ATMD
 
 Toulon
 
@@ -942,27 +942,27 @@ Le directeur du centre ministériel de gestion de Toulon
 
 Agents en fonctions dans les organismes ne relevant pas de l'administration centrale et implantés dans les départements suivants :
 
-- Corse-du-Sud (2A), Haute-Corse (2B), Alpes-de-Haute-Provence (04), Hautes-Alpes (05), Alpes-Maritimes (06), Aude (11), Bouches-du-Rhône(13), Gard (30), Hérault (34), Lozère (48), Pyrénées-Orientales (66), Var (83), Vaucluse (84)
+-Corse-du-Sud (2A), Haute-Corse (2B), Alpes-de-Haute-Provence (04), Hautes-Alpes (05), Alpes-Maritimes (06), Aude (11), Bouches-du-Rhône (13), Gard (30), Hérault (34), Lozère (48), Pyrénées-Orientales (66), Var (83), Vaucluse (84)
 
 Agents en fonctions dans les organismes extérieurs de la direction générale de l'armement suivants :
 
-- DGA essais en vol
+-DGA essais en vol
 
-- service de la qualité
+-service de la qualité
 
-- centre technique des systèmes d'information
+-centre technique des systèmes d'information
 
-- service centralisé des achats techniques
+- service des achats d'armement
 
-- service de l'exécution budgétaire et des comptabilités des opérations d'armement
+-service de l'exécution budgétaire et des comptabilités des opérations d'armement
 
-- service extérieur de la communication
+-service extérieur de la communication
 
-- centre de la sécurité de défense et des systèmes d'information
+-centre de la sécurité de défense et des systèmes d'information
 
-- centre de prestations de proximité des ressources humaines
+-centre de prestations de proximité des ressources humaines
 
-- DGA techniques navales
+-DGA techniques navales
 
 Agents en fonctions dans les organismes implantés dans les départements
 
@@ -1040,7 +1040,7 @@ Suppléants
 
 |
 
-CAPL/ASASHQC
+CAPL/ ASASHQC
 
 Saint-Germain-en-Laye
 
@@ -1128,7 +1128,7 @@ Suppléants
 
 |
 
-CAPL/TSEF
+CAPL/ TSEF
 
 Administration centrale
 
@@ -1174,7 +1174,7 @@ Technicien supérieur d'études et de fabrications
 
 |
 
-CAPL/TSEF
+CAPL/ TSEF
 
 Saint-Germain-en-Laye
 
@@ -1186,7 +1186,7 @@ Le directeur du centre ministériel de gestion de Saint-Germain-en-Laye
 
 Agents en fonctions dans les organismes ne relevant pas de l'administration centrale et implantés dans les départements suivants :
 
-- Oise (60), Paris (75), Seine-et-Marne (77), Yvelines (78), Essonne (91), Hauts-de-Seine (92), Seine-Saint-Denis (93), Val-de-Marne (94), Val-d'Oise (95)
+-Oise (60), Paris (75), Seine-et-Marne (77), Yvelines (78), Essonne (91), Hauts-de-Seine (92), Seine-Saint-Denis (93), Val-de-Marne (94), Val-d'Oise (95)
 
 Agents en fonctions dans les organismes implantés dans les départements et collectivités d'outre-mer
 
@@ -1196,25 +1196,25 @@ Agents en fonctions au sein de la direction de la protection et de la sécurité
 
 Agents en fonctions au sein des établissements publics suivants :
 
-- Institution nationale des Invalides
+-Institution nationale des Invalides
 
-- musée de l'armée
+-musée de l'armée
 
-- musée de l'air et de l'espace
+-musée de l'air et de l'espace
 
-- musée de la marine
+-musée de la marine
 
-- Etablissement de communication et de production audiovisuelle de la défense
+-Etablissement de communication et de production audiovisuelle de la défense
 
-- Office national des anciens combattants
+-Office national des anciens combattants
 
-- Ecole polytechnique
+-Ecole polytechnique
 
-- Ecole nationale supérieure de techniques avancées
+-Ecole nationale supérieure de techniques avancées
 
-- Etablissement public d'insertion de la défense
+-Etablissement public d'insertion de la défense
 
-- Institut des hautes études de la défense nationale
+-Institut des hautes études de la défense nationale
 
 Agents en fonctions dans les organismes ne relevant pas de l'administration centrale du service historique de la défense à l'exception des agents en fonctions au sein du centre des archives du personnel militaire de Pau
 
@@ -1248,7 +1248,7 @@ Technicien supérieur d'études et de fabrications
 
 |
 
-CAPL/TSEF
+CAPL/ TSEF
 
 Bordeaux
 
@@ -1260,13 +1260,13 @@ Le directeur du centre ministériel de gestion de Bordeaux
 
 Agents en fonctions dans les organismes ne relevant pas de l'administration centrale et implantés dans les départements suivants :
 
-- Ariège (09), Aveyron (12), Charente (16), Charente-Maritime (17), Corrèze (19), Creuse (23), Dordogne (24), Haute-Garonne (31), Gers (32), Gironde (33), Landes (40), Lot (46), Lot-et-Garonne (47), Pyrénées-Atlantiques (64), Hautes-Pyrénées (65), Deux-Sèvres (79), Tarn (81), Tarn-et-Garonne (82), Vienne (86), Haute-Vienne (87)
+-Ariège (09), Aveyron (12), Charente (16), Charente-Maritime (17), Corrèze (19), Creuse (23), Dordogne (24), Haute-Garonne (31), Gers (32), Gironde (33), Landes (40), Lot (46), Lot-et-Garonne (47), Pyrénées-Atlantiques (64), Hautes-Pyrénées (65), Deux-Sèvres (79), Tarn (81), Tarn-et-Garonne (82), Vienne (86), Haute-Vienne (87)
 
 Agents en fonctions au sein de DGA essais de missiles
 
 Agents en fonctions au sein de l'établissement public suivant :
 
-- Institut supérieur de l'aéronautique
+-Institut supérieur de l'aéronautique
 
 |
 
@@ -1298,7 +1298,7 @@ Technicien supérieur d'études et de fabrications
 
 |
 
-CAPL/TSEF
+CAPL/ TSEF
 
 Lyon
 
@@ -1310,19 +1310,19 @@ Le directeur du centre ministériel de gestion de Lyon
 
 Agents en fonctions dans les organismes ne relevant pas de l'administration centrale et implantés dans les départements suivants :
 
-- Ain (01), Allier (03), Ardèche (07), Cantal (15), Drôme (26), Isère (38), Loire (42), Haute-Loire (43), Puy-de-Dôme (63), Rhône (69), Savoie (73), Haute-Savoie (74)
+-Ain (01), Allier (03), Ardèche (07), Cantal (15), Drôme (26), Isère (38), Loire (42), Haute-Loire (43), Puy-de-Dôme (63), Rhône (69), Savoie (73), Haute-Savoie (74)
 
 Agents en fonctions dans les organismes extérieurs de la direction du service national suivants :
 
-- centre du service national de Nîmes
+-centre du service national de Nîmes
 
-- centre du service national Nice
+-centre du service national Nice
 
-- centre du service national Marseille
+-centre du service national Marseille
 
-- centre du service national Perpignan
+-centre du service national Perpignan
 
-Agents en fonctions dans les sociétés DCNS, GIAT/Nexter et au sein du Commissariat à l'énergie atomique et aux énergies alternatives
+Agents en fonctions dans les sociétés DCNS, GIAT/ Nexter et au sein du Commissariat à l'énergie atomique et aux énergies alternatives
 
 |
 
@@ -1354,7 +1354,7 @@ Technicien supérieur d'études et de fabrications
 
 |
 
-CAPL/TSEF
+CAPL/ TSEF
 
 Metz
 
@@ -1366,7 +1366,7 @@ Le directeur du centre ministériel de gestion de Metz
 
 Agents en fonctions dans les organismes ne relevant pas de l'administration centrale et implantés dans les départements suivants :
 
-- Aisne (02), Ardennes (08), Aube (10), Côte-d'Or (21), Doubs (25), Jura (39), Marne (51), Haute-Marne (52), Meurthe-et-Moselle (54), Meuse (55), Moselle (57), Nièvre (58), Nord (59), Pas-de-Calais (62), Bas-Rhin (67), Haut-Rhin (68), Haute-Saône (70), Saône-et-Loire (71), Somme (80), Vosges (88), Yonne (89), Territoire de Belfort (90)
+-Aisne (02), Ardennes (08), Aube (10), Côte-d'Or (21), Doubs (25), Jura (39), Marne (51), Haute-Marne (52), Meurthe-et-Moselle (54), Meuse (55), Moselle (57), Nièvre (58), Nord (59), Pas-de-Calais (62), Bas-Rhin (67), Haut-Rhin (68), Haute-Saône (70), Saône-et-Loire (71), Somme (80), Vosges (88), Yonne (89), Territoire de Belfort (90)
 
 Agents en fonctions au sein du service des essences des armées
 
@@ -1402,7 +1402,7 @@ Technicien supérieur d'études et de fabrications
 
 |
 
-CAPL/TSEF
+CAPL/ TSEF
 
 Rennes
 
@@ -1414,13 +1414,13 @@ Le directeur du centre ministériel de gestion de Rennes
 
 Agents en fonctions dans les organismes ne relevant pas de l'administration centrale et implantés dans les départements suivants :
 
-- Calvados (14), Cher (18), Côtes-d'Armor (22), Eure (27), Eure-et-Loir (28), Finistère (29), Ille-et-Vilaine (35), Indre (36), Indre-et-Loire (37), Loir-et-Cher (41), Loire-Atlantique (44), Loiret (45), Maine-et-Loire (49), Manche (50), Mayenne (53), Morbihan (56), Orne (61), Sarthe (72), Seine-Maritime (76), Vendée (85)
+-Calvados (14), Cher (18), Côtes-d'Armor (22), Eure (27), Eure-et-Loir (28), Finistère (29), Ille-et-Vilaine (35), Indre (36), Indre-et-Loire (37), Loir-et-Cher (41), Loire-Atlantique (44), Loiret (45), Maine-et-Loire (49), Manche (50), Mayenne (53), Morbihan (56), Orne (61), Sarthe (72), Seine-Maritime (76), Vendée (85)
 
 Agents en fonctions au sein des établissements publics suivants :
 
-- Ecole nationale supérieure de techniques avancées Bretagne
+-Ecole nationale supérieure de techniques avancées Bretagne
 
-- service hydrographique et océanographique de la marine
+-service hydrographique et océanographique de la marine
 
 |
 
@@ -1452,7 +1452,7 @@ Technicien supérieur d'études et de fabrications
 
 |
 
-CAPL/TSEF
+CAPL/ TSEF
 
 Toulon
 
@@ -1464,27 +1464,27 @@ Le directeur du centre ministériel de gestion de Toulon
 
 Agents en fonctions dans les organismes ne relevant pas de l'administration centrale et implantés dans les départements suivants :
 
-- Corse-du-Sud (2A), Haute-Corse (2B), Alpes-de-Haute-Provence (04), Hautes-Alpes (05), Alpes-Maritimes (06), à l'exception du centre du service national de Nice, Aude (11), Bouches-du-Rhône (13), à l'exception du centre du service national de Marseille, Gard (30), à l'exception du centre du service national de Nîmes, Hérault (34), Lozère (48), Pyrénées-Orientales (66), à l'exception du centre du service national de Perpignan, Var (83), Vaucluse (84)
+-Corse-du-Sud (2A), Haute-Corse (2B), Alpes-de-Haute-Provence (04), Hautes-Alpes (05), Alpes-Maritimes (06), à l'exception du centre du service national de Nice, Aude (11), Bouches-du-Rhône (13), à l'exception du centre du service national de Marseille, Gard (30), à l'exception du centre du service national de Nîmes, Hérault (34), Lozère (48), Pyrénées-Orientales (66), à l'exception du centre du service national de Perpignan, Var (83), Vaucluse (84)
 
 Agents en fonctions dans les organismes extérieurs de la direction générale de l'armement suivants :
 
-- DGA essais en vol
+-DGA essais en vol
 
-- service de la qualité
+-service de la qualité
 
-- centre technique des systèmes d'information
+-centre technique des systèmes d'information
 
-- service centralisé des achats techniques
+- service des achats d'armement
 
-- service de l'exécution budgétaire et des comptabilités des opérations d'armement
+-service de l'exécution budgétaire et des comptabilités des opérations d'armement
 
-- service extérieur de la communication
+-service extérieur de la communication
 
-- centre de la sécurité de défense et des systèmes d'information
+-centre de la sécurité de défense et des systèmes d'information
 
-- centre de prestations de proximité des ressources humaines
+-centre de prestations de proximité des ressources humaines
 
-- DGA techniques navales
+-DGA techniques navales
 
 Agents en fonctions au sein de la caisse nationale militaire de sécurité sociale (CNMSS)
 
@@ -1554,7 +1554,7 @@ Suppléants
 
 |
 
-CAPL/SA
+CAPL/ SA
 
 SPAC
 
@@ -1600,7 +1600,7 @@ Secrétaire administratif de classe normale
 
 |
 
-CAPL/SA
+CAPL/ SA
 
 Saint-Germain-en-Laye
 
@@ -1612,7 +1612,7 @@ Le directeur du centre ministériel de gestion de Saint-Germain-en-Laye
 
 Agents en fonctions dans les organismes ne relevant pas de l'administration centrale et implantés dans les départements suivants :
 
-- Oise (60), Paris (75), à l'exception des personnels d'administration centrale gérés par le service parisien de soutien de l'administration centrale, Seine-et-Marne (77), Yvelines (78), Essonne (91), Hauts-de-Seine (92), Seine-Saint-Denis (93), Val-de-Marne (94), Val-d'Oise (95)
+-Oise (60), Paris (75), à l'exception des personnels d'administration centrale gérés par le service parisien de soutien de l'administration centrale, Seine-et-Marne (77), Yvelines (78), Essonne (91), Hauts-de-Seine (92), Seine-Saint-Denis (93), Val-de-Marne (94), Val-d'Oise (95)
 
 Agents en fonctions dans les organismes implantés dans les départements et collectivités d'outre-mer
 
@@ -1622,25 +1622,25 @@ Agents en fonctions au sein de la direction de la protection et de la sécurité
 
 Agents en fonctions au sein des établissements publics suivants :
 
-- Institution nationale des Invalides
+-Institution nationale des Invalides
 
-- musée de l'armée
+-musée de l'armée
 
-- musée de l'air et de l'espace
+-musée de l'air et de l'espace
 
-- musée de la marine
+-musée de la marine
 
-- Etablissement de communication et de production audiovisuelle de la défense
+-Etablissement de communication et de production audiovisuelle de la défense
 
-- Office national des anciens combattants
+-Office national des anciens combattants
 
-- Ecole polytechnique
+-Ecole polytechnique
 
-- Ecole nationale supérieure de techniques avancées
+-Ecole nationale supérieure de techniques avancées
 
-- Etablissement public d'insertion de la défense
+-Etablissement public d'insertion de la défense
 
-- Institut des hautes études de la défense nationale
+-Institut des hautes études de la défense nationale
 
 Agents en fonctions dans les organismes ne relevant pas de l'administration centrale du service historique de la défense à l'exception des agents en fonctions au sein du centre des archives du personnel militaire de Pau
 
@@ -1674,7 +1674,7 @@ Secrétaire administratif de classe normale
 
 |
 
-CAPL/SA
+CAPL/ SA
 
 Bordeaux
 
@@ -1686,13 +1686,13 @@ Le directeur du centre ministériel de gestion de Bordeaux
 
 Agents en fonctions dans les organismes ne relevant pas de l'administration centrale et implantés dans les départements suivants :
 
-- Ariège (09), Aveyron (12), Charente (16), Charente-Maritime (17), Corrèze (19), Creuse (23), Dordogne (24), Haute-Garonne (31), Gers (32), Gironde (33), Landes (40), Lot (46), Lot-et-Garonne (47), Pyrénées-Atlantiques (64), Hautes-Pyrénées (65), Deux-Sèvres (79), Tarn (81), Tarn-et-Garonne (82), Vienne (86), Haute-Vienne (87)
+-Ariège (09), Aveyron (12), Charente (16), Charente-Maritime (17), Corrèze (19), Creuse (23), Dordogne (24), Haute-Garonne (31), Gers (32), Gironde (33), Landes (40), Lot (46), Lot-et-Garonne (47), Pyrénées-Atlantiques (64), Hautes-Pyrénées (65), Deux-Sèvres (79), Tarn (81), Tarn-et-Garonne (82), Vienne (86), Haute-Vienne (87)
 
 Agents en fonctions au sein de DGA essais de missiles
 
 Agents en fonctions au sein de l'établissement public suivant :
 
-- Institut supérieur de l'aéronautique
+-Institut supérieur de l'aéronautique
 
 |
 
@@ -1724,7 +1724,7 @@ Secrétaire administratif de classe normale
 
 |
 
-CAPL/SA
+CAPL/ SA
 
 LYON
 
@@ -1736,19 +1736,19 @@ Le directeur du centre ministériel de gestion de Lyon
 
 Agents en fonctions dans les organismes ne relevant pas de l'administration centrale et implantés dans les départements suivants :
 
-- Ain (01), Allier (03), Ardèche (07), Cantal (15), Drôme (26), Isère (38), Loire (42), Haute-Loire (43), Puy-de-Dôme (63), Rhône (69), Savoie (73), Haute-Savoie (74)
+-Ain (01), Allier (03), Ardèche (07), Cantal (15), Drôme (26), Isère (38), Loire (42), Haute-Loire (43), Puy-de-Dôme (63), Rhône (69), Savoie (73), Haute-Savoie (74)
 
 Agents en fonctions dans les organismes extérieurs de la direction du service national suivants :
 
-- centre du service national de Nîmes
+-centre du service national de Nîmes
 
-- centre du service national Nice
+-centre du service national Nice
 
-- centre du service national Marseille
+-centre du service national Marseille
 
-- centre du service national Perpignan
+-centre du service national Perpignan
 
-Agents en fonctions dans les sociétés DCNS, GIAT/Nexter et au sein du Commissariat à l'énergie atomique et aux énergies alternatives
+Agents en fonctions dans les sociétés DCNS, GIAT/ Nexter et au sein du Commissariat à l'énergie atomique et aux énergies alternatives
 
 |
 
@@ -1780,7 +1780,7 @@ Secrétaire administratif de classe normale
 
 |
 
-CAPL/SA
+CAPL/ SA
 
 Metz
 
@@ -1792,7 +1792,7 @@ Le directeur du centre ministériel de gestion de Metz
 
 Agents en fonctions dans les organismes ne relevant pas de l'administration centrale et implantés dans les départements suivants :
 
-- Aisne (02), Ardennes (08), Aube (10), Côte-d'Or (21), Doubs (25), Jura (39), Marne (51), Haute-Marne (52), Meurthe-et-Moselle (54), Meuse (55), Moselle (57), Nièvre (58), Nord (59), Pas-de-Calais (62), Bas-Rhin (67), Haut-Rhin (68), Haute-Saône (70), Saône-et-Loire (71), Somme (80), Vosges (88), Yonne (89), Territoire de Belfort (90)
+-Aisne (02), Ardennes (08), Aube (10), Côte-d'Or (21), Doubs (25), Jura (39), Marne (51), Haute-Marne (52), Meurthe-et-Moselle (54), Meuse (55), Moselle (57), Nièvre (58), Nord (59), Pas-de-Calais (62), Bas-Rhin (67), Haut-Rhin (68), Haute-Saône (70), Saône-et-Loire (71), Somme (80), Vosges (88), Yonne (89), Territoire de Belfort (90)
 
 Agents en fonctions au sein du service des essences des armées
 
@@ -1828,7 +1828,7 @@ Secrétaire administratif de classe normale
 
 |
 
-CAPL/SA
+CAPL/ SA
 
 Rennes
 
@@ -1840,13 +1840,13 @@ Le directeur du centre ministériel de gestion de Rennes
 
 Agents en fonctions dans les organismes ne relevant pas de l'administration centrale et implantés dans les départements suivants :
 
-- Calvados (14), Cher (18), Côtes-d'Armor (22), Eure (27), Eure-et-Loir (28), Finistère (29), Ille-et-Vilaine (35), Indre (36), Indre-et-Loire (37), Loir-et-Cher (41), Loire-Atlantique (44), Loiret (45), Maine-et-Loire (49), Manche (50), Mayenne (53), Morbihan (56), Orne (61), Sarthe (72), Seine-Maritime (76), Vendée (85)
+-Calvados (14), Cher (18), Côtes-d'Armor (22), Eure (27), Eure-et-Loir (28), Finistère (29), Ille-et-Vilaine (35), Indre (36), Indre-et-Loire (37), Loir-et-Cher (41), Loire-Atlantique (44), Loiret (45), Maine-et-Loire (49), Manche (50), Mayenne (53), Morbihan (56), Orne (61), Sarthe (72), Seine-Maritime (76), Vendée (85)
 
 Agents en fonctions au sein des établissements publics suivants :
 
-- Ecole nationale supérieure de techniques avancées Bretagne
+-Ecole nationale supérieure de techniques avancées Bretagne
 
-- service hydrographique et océanographique de la marine
+-service hydrographique et océanographique de la marine
 
 |
 
@@ -1878,7 +1878,7 @@ Secrétaire administratif de classe normale
 
 |
 
-CAPL/SA
+CAPL/ SA
 
 Toulon
 
@@ -1890,27 +1890,27 @@ Le directeur du centre ministériel de gestion de Toulon
 
 Agents en fonctions dans les organismes ne relevant pas de l'administration centrale et implantés dans les départements suivants :
 
-- Corse-du-Sud (2A), Haute-Corse (2B), Alpes-de-Haute-Provence (04), Hautes-Alpes (05), Alpes-Maritimes (06), à l'exception du centre du service national de Nice, Aude (11), Bouches-du-Rhône (13), à l'exception du centre du service national de Marseille, Gard (30), à l'exception du centre du service national de Nîmes, Hérault (34), Lozère (48), Pyrénées-Orientales (66), à l'exception du centre du service national de Perpignan, Var (83), Vaucluse (84)
+-Corse-du-Sud (2A), Haute-Corse (2B), Alpes-de-Haute-Provence (04), Hautes-Alpes (05), Alpes-Maritimes (06), à l'exception du centre du service national de Nice, Aude (11), Bouches-du-Rhône (13), à l'exception du centre du service national de Marseille, Gard (30), à l'exception du centre du service national de Nîmes, Hérault (34), Lozère (48), Pyrénées-Orientales (66), à l'exception du centre du service national de Perpignan, Var (83), Vaucluse (84)
 
 Agents en fonctions dans les organismes extérieurs de la direction générale de l'armement suivants :
 
-- DGA essais en vol
+-DGA essais en vol
 
-- service de la qualité
+-service de la qualité
 
-- centre technique des systèmes d'information
+-centre technique des systèmes d'information
 
-- service centralisé des achats techniques
+- service des achats d'armement
 
-- service de l'exécution budgétaire et des comptabilités des opérations d'armement
+-service de l'exécution budgétaire et des comptabilités des opérations d'armement
 
-- service extérieur de la communication
+-service extérieur de la communication
 
-- centre de la sécurité de défense et des systèmes d'information
+-centre de la sécurité de défense et des systèmes d'information
 
-- centre de prestations de proximité des ressources humaines
+-centre de prestations de proximité des ressources humaines
 
-- DGA techniques navales
+-DGA techniques navales
 
 |
 
@@ -1942,7 +1942,7 @@ Secrétaire administratif de classe normale
 
 |
 
-CAPL/SA
+CAPL/ SA
 
 CNMSS
 
@@ -2020,7 +2020,7 @@ Suppléants
 
 |
 
-CAPL/Techniciens
+CAPL/ Techniciens
 
 paramédicaux civils
 
