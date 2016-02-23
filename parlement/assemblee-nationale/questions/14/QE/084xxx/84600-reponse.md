@@ -1,0 +1,9 @@
+# Réponse à la question n° 84600
+
+- Question : [84600](84600.md) — Question n° 84600 — insécurité; lutte et prévention; rapport parlementaire; propositions
+
+## Réponse
+
+*JO du 2016-02-23*
+
+La « résolution de problème » est une méthode qui trouve son origine dans les pays anglo-saxons. Elle consiste à privilégier une approche partenariale afin d'éviter la réitération ou l'accumulation d'actes liés à la délinquance de voie publique. Consciente de l'intérêt de cette pratique, la gendarmerie a déjà intégré dans le cadre de la formation initiale et continue des officiers ce principe d'action. Cette approche privilégie le partenariat et constitue une déclinaison concrète de la doctrine de prévention de la délinquance qui est mise en œuvre dans les unités territoriales au travers d'actions utiles et bien ciblées. Le maire a également toute sa place dans cette démarche puisque la loi du 5 mars 2007 relative à la prévention de la délinquance le désigne comme le pivot de la prévention. Ainsi, les communes de plus de 10 000 habitants doivent disposer d'un Conseil Local de Sécurité et de Prévention de la Délinquance (CLSPD). Aux côtés de partenaires institutionnels et issus de la société civile, la gendarmerie siège au sein de ces structures. La mise en œuvre efficace des actions est conditionnée par l'établissement d'un diagnostic partagé avec les élus, les autres représentants institutionnels et de la société civile. La méthode de « résolution de problème » s'intègre particulièrement bien à ce cadre partenarial. Au sein des ZSP, les Cellules de Coordination Opérationnelles du Partenariat constituent une déclinaison supplémentaire de mise en application de cette notion. Enfin, la Mission Permanente d'Evaluation de la Politique de Prévention de la Délinquance (MPEPPD) est dédiée à l'évaluation de la stratégie nationale de prévention de la délinquance et constitue un vivier d'expertise en la matière.
