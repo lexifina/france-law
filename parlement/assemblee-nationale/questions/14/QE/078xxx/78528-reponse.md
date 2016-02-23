@@ -1,0 +1,9 @@
+# Réponse à la question n° 78528
+
+- Question : [78528](78528.md) — Question n° 78528 — génériques; prescriptions obligatoires; établissements privés; perspectives
+
+## Réponse
+
+*JO du 2016-02-23*
+
+Il est important de rappeler que les contrats, conclus en application du décret no 2015-355 du 27 mars 2015 relatif au contrat de bon usage des médicaments et des produits et prestations mentionné à l'article L. 162-22-7 du code de la sécurité sociale, participent de la politique de maîtrise médicalisée des dépenses de santé, c'est-à-dire une recherche d'efficience et de réduction des dépenses et prescriptions inutilement coûteuses ou médicalement injustifiées. La maîtrise des volumes est un élément essentiel de la régulation de l'objectif national des dépenses d'assurance maladie (ONDAM) qui ne saurait passer par une seule action sur les prix, en particulier s'agissant des dépenses de médicaments. Les prescriptions médicales effectuées en établissements de santé au moment de la sortie ont une importance particulière puisqu'elles fixent des traitements, parfois au long cours, dispensés en ville et émargeant en conséquence sur le sous-objectif ville de l'ONDAM. Il est dès lors légitime que les établissements de santé fassent l'objet d'actions spécifiques en vue d'améliorer la pertinence et l'efficience des prescriptions à l'instar de la politique menée par l'assurance maladie auprès des prescripteurs de ville. Et il serait incompréhensible que cette action soit limitée aux seuls établissements publics. Le décret mentionné n'instaure pas un nouveau dispositif contractuel mais étend le dispositif existant pour permettre de cibler la question des prescriptions injustifiées en dehors du répertoire des génériques. Cette extension s'inscrit pleinement dans le plan de promotion des médicaments génériques qui est un axe important de l'action du Gouvernement en matière de maîtrise des dépenses de santé.
