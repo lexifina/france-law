@@ -1,0 +1,9 @@
+# Réponse à la question n° 85617
+
+- Question : [85617](85617.md) — Question n° 85617 — personnel; contrats d'engagement éducatif; stipulations
+
+## Réponse
+
+*JO du 2016-02-23*
+
+Les accueils collectifs de mineurs (ACM) constituent un lieu d'apprentissage pour de nombreux enfants et le Gouvernement est attaché à leur développement, comme en témoigne la campagne « #génération-camp-colos » qui s'attache à promouvoir un modèle de vacances accessible à tous. Si le renforcement de l'accessibilité financière de ces accueils constitue bien un objectif partagé, la recherche d'économie ne doit pas conduire à diminuer la sécurité de ces séjours pour les mineurs. La mission du ministre chargé de la jeunesse est, en effet, de s'assurer que les mineurs puissent bénéficier d'un accueil collectif de qualité, tant sur le plan de la sécurité physique et morale des jeunes que sur celui de la qualité éducative des accueils. Le bon fonctionnement des ACM, tant en ce qui concerne la sécurité des mineurs que la mise en œuvre d'un projet pédagogique, nécessite l'existence d'un lien de subordination entre un directeur et son équipe d'animateurs. Or, un statut de volontaires se caractérise notamment par une absence de lien de subordination. Dans le cas du volontariat d'animation, l'absence de lien de subordination dans le cadre d'une équipe encadrant des mineurs ne peut être envisagée sans remettre en cause leur sécurité. De plus, un tel statut de volontaire de l'animation irait à l'encontre de la valorisation et de la professionnalisation du métier d'animateur, souhaitées par de nombreux acteurs. Les organisateurs d'ACM disposent déjà d'un contrat de travail adapté à leur situation : le contrat d'engagement éducatif (CEE). Le CEE déroge au code du travail sur de nombreux points (rémunération, temps de travail, etc.) tout en permettant, en tant que contrat de travail, de respecter cet impératif de l'existence d'un lien de subordination.
