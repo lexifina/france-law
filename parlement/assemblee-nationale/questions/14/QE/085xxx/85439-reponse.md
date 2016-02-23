@@ -1,0 +1,9 @@
+# Réponse à la question n° 85439
+
+- Question : [85439](85439.md) — Question n° 85439 — statut; perspectives
+
+## Réponse
+
+*JO du 2016-02-23*
+
+Les assistants d'éducation (AED) sont essentiels au bon fonctionnement des établissements. Ils apportent un soutien indispensable à l'équipe éducative pour l'encadrement et la surveillance des élèves, ainsi que pour l'assistance pédagogique dans les établissements de l'éducation prioritaire. Si les AED sont recrutés sur la base de contrats de droit public d'une durée maximale de trois ans, renouvelables dans la limite d'une période d'engagement totale de six ans, il n'en demeure pas moins que la ministre de l'éducation nationale, de l'enseignement supérieur et de la recherche est attentive au fait qu'ils puissent bénéficier de réelles perspectives professionnelles. Les règles de gestion posent le principe selon lequel le concours reste la voie normale d'accès aux corps des enseignants comme à l'ensemble de la fonction publique de l'Etat, conformément aux dispositions de la loi du 11 janvier 1984 qui constitue le titre II du statut général des fonctionnaires. Ainsi, les AED peuvent se présenter aux différents concours des métiers de l'enseignement, notamment aux concours internes. Ils peuvent également se présenter aux concours de l'enseignement en externe, qui ne sont contraints ni par une limite d'âge, ni par une durée minimum requise dans les services de la fonction publique. Enfin, à l'issue de leur contrat, les assistants d'éducation peuvent demander à faire valider l'expérience acquise dans les conditions définies par l'article L. 6412-1 du code du travail. Au moment où les recrutements de professeurs augmentent fortement pour atteindre 26 500 postes aux concours externes des premier et second degrés, les AED se voient offrir de véritables chances de mener à bien un projet professionnel au sein de l'éducation nationale.
