@@ -1,6 +1,6 @@
-# Article Annexe IV
+# Article Annexe III
 
-TITRES ET CERTIFICATS DÉLIVRÉS AU PLUS TARD LE 31 DÉCEMBRE 2014, RÉPONDANT À TITRE TRANSITOIRE À LA CONDITION DE DÉLIVRANCE DU CCAD
+TITRES ET CERTIFICATS DÉLIVRÉS AU PLUS TARD LE 31 DÉCEMBRE 2014, RÉPONDANT À LA CONDITION D'EXERCICE D'UNE ACTIVITÉ INSCRITE AUX I DES ARTICLES L. 214-6-1 ET L. 214-6-2 ET À L'ARTICLE L. 214-6-3 DU CODE RURAL ET DE LA PÊCHE MARITIME
 
 Certificat de spécialisation
 
@@ -22,10 +22,10 @@ Certificat d'aptitude aux fonctions de juge et expert confirmateur, délivré pa
 
 Certificat de formation à l'élevage canin délivré par la Société centrale canine pour l'amélioration des races de chiens en France (SCC).
 
-Certificat d'études techniques de l'animal de compagnie d'espèce domestique, option chien , délivré par la Société francophone de cynotechnie (SFC).
+Certificat d'études techniques de l'animal de compagnie d'espèce domestique, option chien, délivré par la Société francophone de cynotechnie (SFC).
 
-Certificat d'études techniques de l'animal de compagnie d'espèce domestique, option chats et petits mammifères familiers , délivré par la Société francophone de cynotechnie (SFC).
+Certificat d'études techniques de l'animal de compagnie d'espèce domestique, option chats et petits mammifères familiers, délivré par la Société francophone de cynotechnie (SFC).
 
-Certificat d'études techniques de l'animal de compagnie d'espèce domestique, option chat , délivré par le Livre officiel des origines félines (LOOF).
+Certificat d'études techniques de l'animal de compagnie d'espèce domestique, option chat, délivré par le Livre officiel des origines félines (LOOF).
 
 Educateur de chiens-guides d'aveugles, délivré par la Fédération nationale des éducateurs de chiens d'aveugles.
