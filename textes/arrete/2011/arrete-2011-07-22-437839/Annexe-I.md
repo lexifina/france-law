@@ -2,19 +2,39 @@
 
 LISTE DES ZONES GÉOGRAPHIQUES RÉGLEMENTÉES VIS-À-VIS DE CERTAINS SÉROTYPES DE LA FIÈVRE CATARRHALE DU MOUTON ET LISTE DES SÉROTYPES CONSIDÉRÉS COMME ENDÉMIQUES DANS CES ZONES
 
-ZONES réglementées
+ZONES RÉGLEMENTÉES
 
 |
 
-TYPE de zone
+TYPE
+
+de zone
 
 |
 
-LISTE des sérotypes pour lesquelles la zone est réglementée
+LISTE
+
+des sérotypes
+
+pour lesquelles
+
+la zone
+
+est réglementée
 
 |
 
-LISTE des sérotypes considérés comme endémiques dans la zone
+LISTE
+
+des sérotypes
+
+considérés
+
+comme
+
+endémiques
+
+dans la zone
 
 |
 
@@ -82,7 +102,39 @@ Zone réglementée
 
 |
 
+Département des Alpes-de-Haute-Provence (04)
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
 Département des Hautes-Alpes (05)
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+Département des Alpes-Maritimes (06)
 
 |
 
@@ -322,7 +374,7 @@ Zone réglementée
 
 |
 
-Département de l'Eure-et-Loir (28)
+Département d'Eure-et-Loir (28)
 
 |
 
@@ -418,7 +470,7 @@ Zone réglementée
 
 |
 
-Département de l'Indre-et-Loire (37)
+Département d'Indre-et-Loire (37)
 
 |
 
@@ -466,7 +518,7 @@ Zone réglementée
 
 |
 
-Département du Loir-et-Cher (41)
+Département de Loir-et-Cher (41)
 
 |
 
@@ -514,6 +566,22 @@ Zone réglementée
 
 |
 
+Département de la Loire-Atlantique (44)
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
 Département du Loiret (45)
 
 |
@@ -546,7 +614,7 @@ Zone réglementée
 
 |
 
-Département du Lot-et-Garonne (47)
+Département de Lot-et-Garonne (47)
 
 |
 
@@ -563,6 +631,38 @@ Zone réglementée
 |
 
 Département de la Lozère (48)
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+Département de Maine-et-Loire (49)
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+Département de la Haute-Marne (52)
 
 |
 
@@ -626,7 +726,7 @@ Zone réglementée
 
 |
 
-Département de la Saône-et-Loire (71)
+Département de Saône-et-Loire (71)
 
 |
 
@@ -690,7 +790,7 @@ Zone réglementée
 
 |
 
-Département de Seine-et-Marne (77)
+Département de la Seine-et-Marne (77)
 
 |
 
@@ -722,6 +822,22 @@ Zone réglementée
 
 |
 
+Département des Deux-Sèvres (79)
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
 Département du Tarn (81)
 
 |
@@ -738,7 +854,7 @@ Zone réglementée
 
 |
 
-Département du Tarn et Garonne (82)
+Département de Tarn-et-Garonne (82)
 
 |
 
@@ -754,7 +870,23 @@ Zone réglementée
 
 |
 
-Département du Vaucluse (84)
+Département du Var (83)
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+Département de Vaucluse (84)
 
 |
 
@@ -850,7 +982,7 @@ Zone réglementée
 
 |
 
-Département de Seine-Saint-Denis (93)
+Département de la Seine-Saint-Denis (93)
 
 |
 
@@ -866,7 +998,7 @@ Zone réglementée
 
 |
 
-Département de Val-de-Marne (94)
+Département du Val-de-Marne (94)
 
 |
 
@@ -882,27 +1014,29 @@ Zone réglementée
 
 |
 
-ZONES RÉGLEMENTÉES
+Zones réglementées
 
 |
 
-TYPE DE ZONE
+Type de zone
 
 |
 
-SÉROTYPE
+Sérotype
 
 |
 
-SÉROTYPE
+Sérotype
 
 |
 
-CODE DEPARTEMENT
+CODE
+
+département
 
 |
 
-DEPARTEMENT
+DÉPARTEMENT
 
 |
 
@@ -928,11 +1062,67 @@ ARIEGE
 
 |
 
+AIGUES-JUNTES
+
+|
+
+09001
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+09
+
+|
+
+ARIEGE
+
+|
+
 AIGUES-VIVES
 
 |
 
 09002
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+09
+
+|
+
+ARIEGE
+
+|
+
+ALLIERES
+
+|
+
+09007
 
 |
 
@@ -1040,6 +1230,34 @@ ARIEGE
 
 |
 
+BAGERT
+
+|
+
+09033
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+09
+
+|
+
+ARIEGE
+
+|
+
 LA BASTIDE-DE-BESPLAS
 
 |
@@ -1124,6 +1342,118 @@ ARIEGE
 
 |
 
+LA BASTIDE-DE-SEROU
+
+|
+
+09042
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+09
+
+|
+
+ARIEGE
+
+|
+
+LA BASTIDE-SUR-L'HERS
+
+|
+
+09043
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+09
+
+|
+
+ARIEGE
+
+|
+
+BAULOU
+
+|
+
+09044
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+09
+
+|
+
+ARIEGE
+
+|
+
+BEDEILLE
+
+|
+
+09046
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+09
+
+|
+
+ARIEGE
+
+|
+
 BELLOC
 
 |
@@ -1185,6 +1515,34 @@ BESSET
 |
 
 09052
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+09
+
+|
+
+ARIEGE
+
+|
+
+BETCHAT
+
+|
+
+09054
 
 |
 
@@ -1320,11 +1678,67 @@ ARIEGE
 
 |
 
+CADARCET
+
+|
+
+09071
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+09
+
+|
+
+ARIEGE
+
+|
+
 CALZAN
 
 |
 
 09072
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+09
+
+|
+
+ARIEGE
+
+|
+
+CAMARADE
+
+|
+
+09073
 
 |
 
@@ -1437,6 +1851,34 @@ CARLA-BAYLE
 |
 
 09079
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+09
+
+|
+
+ARIEGE
+
+|
+
+CARLA-DE-ROQUEFORT
+
+|
+
+09080
 
 |
 
@@ -1600,6 +2042,90 @@ ARIEGE
 
 |
 
+CERIZOLS
+
+|
+
+09094
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+09
+
+|
+
+ARIEGE
+
+|
+
+CLERMONT
+
+|
+
+09097
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+09
+
+|
+
+ARIEGE
+
+|
+
+CONTRAZY
+
+|
+
+09098
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+09
+
+|
+
+ARIEGE
+
+|
+
 COUSSA
 
 |
@@ -1633,6 +2159,34 @@ COUTENS
 |
 
 09102
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+09
+
+|
+
+ARIEGE
+
+|
+
+CRAMPAGNA
+
+|
+
+09103
 
 |
 
@@ -1852,6 +2406,34 @@ ARIEGE
 
 |
 
+FABAS
+
+|
+
+09120
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+09
+
+|
+
+ARIEGE
+
+|
+
 FORNEX
 
 |
@@ -1908,11 +2490,67 @@ ARIEGE
 
 |
 
+GABRE
+
+|
+
+09127
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+09
+
+|
+
+ARIEGE
+
+|
+
 GAUDIES
 
 |
 
 09132
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+09
+
+|
+
+ARIEGE
+
+|
+
+GUDAS
+
+|
+
+09137
 
 |
 
@@ -2081,6 +2719,62 @@ LAPENNE
 |
 
 09153
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+09
+
+|
+
+ARIEGE
+
+|
+
+LAROQUE-D'OLMES
+
+|
+
+09157
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+09
+
+|
+
+ARIEGE
+
+|
+
+LASSERRE
+
+|
+
+09158
 
 |
 
@@ -2468,6 +3162,62 @@ ARIEGE
 
 |
 
+LE MAS-D'AZIL
+
+|
+
+09181
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+09
+
+|
+
+ARIEGE
+
+|
+
+MAUVEZIN-DE-SAINTE-CROIX
+
+|
+
+09184
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+09
+
+|
+
+ARIEGE
+
+|
+
 MAZERES
 
 |
@@ -2524,6 +3274,34 @@ ARIEGE
 
 |
 
+MERIGON
+
+|
+
+09190
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+09
+
+|
+
+ARIEGE
+
+|
+
 MIREPOIX
 
 |
@@ -2557,6 +3335,34 @@ MONESPLE
 |
 
 09195
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+09
+
+|
+
+ARIEGE
+
+|
+
+MONTARDIT
+
+|
+
+09198
 
 |
 
@@ -2664,6 +3470,62 @@ ARIEGE
 
 |
 
+MONTESQUIEU-AVANTES
+
+|
+
+09204
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+09
+
+|
+
+ARIEGE
+
+|
+
+MONTFA
+
+|
+
+09205
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+09
+
+|
+
+ARIEGE
+
+|
+
 MOULIN-NEUF
 
 |
@@ -2725,6 +3587,34 @@ PAMIERS
 |
 
 09225
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+09
+
+|
+
+ARIEGE
+
+|
+
+LE PEYRAT
+
+|
+
+09229
 
 |
 
@@ -3028,6 +3918,34 @@ ARIEGE
 
 |
 
+SAINTE-CROIX-VOLVESTRE
+
+|
+
+09257
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+09
+
+|
+
+ARIEGE
+
+|
+
 SAINT-FELIX-DE-RIEUTORD
 
 |
@@ -3089,6 +4007,34 @@ SAINTE-FOI
 |
 
 09260
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+09
+
+|
+
+ARIEGE
+
+|
+
+SAINT-JEAN-DE-VERGES
+
+|
+
+09264
 
 |
 
@@ -3336,6 +4282,34 @@ ARIEGE
 
 |
 
+SAUTEL
+
+|
+
+09281
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+09
+
+|
+
+ARIEGE
+
+|
+
 SAVERDUN
 
 |
@@ -3397,6 +4371,34 @@ SIEURAS
 |
 
 09294
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+09
+
+|
+
+ARIEGE
+
+|
+
+SUZAN
+
+|
+
+09304
 
 |
 
@@ -3509,6 +4511,34 @@ LA TOUR-DU-CRIEU
 |
 
 09312
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+09
+
+|
+
+ARIEGE
+
+|
+
+TOURTOUSE
+
+|
+
+09313
 
 |
 
@@ -4092,6 +5122,34 @@ AUDE
 
 |
 
+ALBIERES
+
+|
+
+11007
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+11
+
+|
+
+AUDE
+
+|
+
 ALET-LES-BAINS
 
 |
@@ -4349,6 +5407,34 @@ ARZENS
 |
 
 11018
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+11
+
+|
+
+AUDE
+
+|
+
+AURIAC
+
+|
+
+11020
 
 |
 
@@ -4988,6 +6074,34 @@ AUDE
 
 |
 
+BRENAC
+
+|
+
+11050
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+11
+
+|
+
+AUDE
+
+|
+
 BREZILHAC
 
 |
@@ -5077,6 +6191,34 @@ LES BRUNELS
 |
 
 11054
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+11
+
+|
+
+AUDE
+
+|
+
+BUGARACH
+
+|
+
+11055
 
 |
 
@@ -5240,11 +6382,67 @@ AUDE
 
 |
 
+CAMPAGNE-SUR-AUDE
+
+|
+
+11063
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+11
+
+|
+
+AUDE
+
+|
+
 CAMPLONG-D'AUDE
 
 |
 
 11064
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+11
+
+|
+
+AUDE
+
+|
+
+CAMPS-SUR-L'AGLY
+
+|
+
+11065
 
 |
 
@@ -5800,6 +6998,34 @@ AUDE
 
 |
 
+CAVES
+
+|
+
+11086
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+11
+
+|
+
+AUDE
+
+|
+
 CAZALRENOUX
 
 |
@@ -6164,6 +7390,34 @@ AUDE
 
 |
 
+COUIZA
+
+|
+
+11103
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+11
+
+|
+
+AUDE
+
+|
+
 COURNANEL
 
 |
@@ -6276,6 +7530,34 @@ AUDE
 
 |
 
+COUSTAUSSA
+
+|
+
+11109
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+11
+
+|
+
+AUDE
+
+|
+
 COUSTOUGE
 
 |
@@ -6309,6 +7591,62 @@ CRUSCADES
 |
 
 11111
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+11
+
+|
+
+AUDE
+
+|
+
+CUBIERES-SUR-CINOBLE
+
+|
+
+11112
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+11
+
+|
+
+AUDE
+
+|
+
+CUCUGNAN
+
+|
+
+11113
 
 |
 
@@ -6444,6 +7782,34 @@ AUDE
 
 |
 
+DERNACUEILLETTE
+
+|
+
+11118
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+11
+
+|
+
+AUDE
+
+|
+
 LA DIGNE-D'AMONT
 
 |
@@ -6556,11 +7922,67 @@ AUDE
 
 |
 
+DUILHAC-SOUS-PEYREPERTUSE
+
+|
+
+11123
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+11
+
+|
+
+AUDE
+
+|
+
 DURBAN-CORBIERES
 
 |
 
 11124
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+11
+
+|
+
+AUDE
+
+|
+
+EMBRES-ET-CASTELMAURE
+
+|
+
+11125
 
 |
 
@@ -6617,6 +8039,62 @@ ESCUEILLENS-ET-SAINT-JUST-DE-BELENGARD
 |
 
 11128
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+11
+
+|
+
+AUDE
+
+|
+
+ESPERAZA
+
+|
+
+11129
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+11
+
+|
+
+AUDE
+
+|
+
+FA
+
+|
+
+11131
 
 |
 
@@ -6920,6 +8398,62 @@ AUDE
 
 |
 
+FEUILLA
+
+|
+
+11143
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+11
+
+|
+
+AUDE
+
+|
+
+FITOU
+
+|
+
+11144
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+11
+
+|
+
+AUDE
+
+|
+
 FLEURY
 
 |
@@ -7172,11 +8706,67 @@ AUDE
 
 |
 
+FOURTOU
+
+|
+
+11155
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+11
+
+|
+
+AUDE
+
+|
+
 FRAISSE-CABARDES
 
 |
 
 11156
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+11
+
+|
+
+AUDE
+
+|
+
+FRAISSE-DES-CORBIERES
+
+|
+
+11157
 
 |
 
@@ -7373,6 +8963,34 @@ GRAMAZIE
 |
 
 11167
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+11
+
+|
+
+AUDE
+
+|
+
+GRANES
+
+|
+
+11168
 
 |
 
@@ -7900,6 +9518,34 @@ AUDE
 
 |
 
+LA PALME
+
+|
+
+11188
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+11
+
+|
+
+AUDE
+
+|
+
 LAPRADE
 
 |
@@ -8264,6 +9910,34 @@ AUDE
 
 |
 
+LEUCATE
+
+|
+
+11202
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+11
+
+|
+
+AUDE
+
+|
+
 LEZIGNAN-CORBIERES
 
 |
@@ -8544,6 +10218,34 @@ AUDE
 
 |
 
+MAISONS
+
+|
+
+11213
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+11
+
+|
+
+AUDE
+
+|
+
 MALRAS
 
 |
@@ -8773,6 +10475,34 @@ MAS-DES-COURS
 |
 
 11223
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+11
+
+|
+
+AUDE
+
+|
+
+MASSAC
+
+|
+
+11224
 
 |
 
@@ -9221,6 +10951,34 @@ MONTFERRAND
 |
 
 11243
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+11
+
+|
+
+AUDE
+
+|
+
+MONTGAILLARD
+
+|
+
+11245
 
 |
 
@@ -9720,6 +11478,34 @@ AUDE
 
 |
 
+NEBIAS
+
+|
+
+11263
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+11
+
+|
+
+AUDE
+
+|
+
 NEVIAN
 
 |
@@ -9837,6 +11623,34 @@ OUVEILLAN
 |
 
 11269
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+11
+
+|
+
+AUDE
+
+|
+
+PADERN
+
+|
+
+11270
 
 |
 
@@ -10700,6 +12514,90 @@ AUDE
 
 |
 
+PUIVERT
+
+|
+
+11303
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+11
+
+|
+
+AUDE
+
+|
+
+QUILLAN
+
+|
+
+11304
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+11
+
+|
+
+AUDE
+
+|
+
+QUINTILLAN
+
+|
+
+11305
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+11
+
+|
+
+AUDE
+
+|
+
 RAISSAC-D'AUDE
 
 |
@@ -10733,6 +12631,62 @@ RAISSAC-SUR-LAMPY
 |
 
 11308
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+11
+
+|
+
+AUDE
+
+|
+
+RENNES-LE-CHATEAU
+
+|
+
+11309
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+11
+
+|
+
+AUDE
+
+|
+
+RENNES-LES-BAINS
+
+|
+
+11310
 
 |
 
@@ -10873,6 +12827,34 @@ RIEUX-MINERVOIS
 |
 
 11315
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+11
+
+|
+
+AUDE
+
+|
+
+RIVEL
+
+|
+
+11316
 
 |
 
@@ -11064,6 +13046,34 @@ AUDE
 
 |
 
+ROUFFIAC-DES-CORBIERES
+
+|
+
+11326
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+11
+
+|
+
+AUDE
+
+|
+
 ROULLENS
 
 |
@@ -11097,6 +13107,34 @@ ROUTIER
 |
 
 11328
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+11
+
+|
+
+AUDE
+
+|
+
+ROUVENAC
+
+|
+
+11329
 
 |
 
@@ -11260,6 +13298,34 @@ AUDE
 
 |
 
+SAINTE-COLOMBE-SUR-L'HERS
+
+|
+
+11336
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+11
+
+|
+
+AUDE
+
+|
+
 SAINT-COUAT-D'AUDE
 
 |
@@ -11372,6 +13438,34 @@ AUDE
 
 |
 
+SAINT-FERRIOL
+
+|
+
+11341
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+11
+
+|
+
+AUDE
+
+|
+
 SAINT-FRICHOUX
 
 |
@@ -11456,11 +13550,95 @@ AUDE
 
 |
 
+SAINT-JEAN-DE-BARROU
+
+|
+
+11345
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+11
+
+|
+
+AUDE
+
+|
+
+SAINT-JEAN-DE-PARACOL
+
+|
+
+11346
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+11
+
+|
+
+AUDE
+
+|
+
 SAINT-JULIEN-DE-BRIOLA
 
 |
 
 11348
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+11
+
+|
+
+AUDE
+
+|
+
+SAINT-JUST-ET-LE-BEZU
+
+|
+
+11350
 
 |
 
@@ -12128,6 +14306,34 @@ AUDE
 
 |
 
+SERRES
+
+|
+
+11377
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+11
+
+|
+
+AUDE
+
+|
+
 SERVIES-EN-VAL
 
 |
@@ -12212,6 +14418,34 @@ AUDE
 
 |
 
+SOUGRAIGNE
+
+|
+
+11381
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+11
+
+|
+
+AUDE
+
+|
+
 SOUILHANELS
 
 |
@@ -12245,6 +14479,34 @@ SOUILHE
 |
 
 11383
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+11
+
+|
+
+AUDE
+
+|
+
+SOULATGE
+
+|
+
+11384
 
 |
 
@@ -12632,6 +14894,34 @@ AUDE
 
 |
 
+TREILLES
+
+|
+
+11398
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+11
+
+|
+
+AUDE
+
+|
+
 TREVILLE
 
 |
@@ -12665,6 +14955,34 @@ TREZIERS
 |
 
 11400
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+11
+
+|
+
+AUDE
+
+|
+
+TUCHAN
+
+|
+
+11401
 
 |
 
@@ -13472,6 +15790,34 @@ AUDE
 
 |
 
+VILLENEUVE-LES-CORBIERES
+
+|
+
+11431
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+11
+
+|
+
+AUDE
+
+|
+
 VILLENEUVE-LES-MONTREAL
 
 |
@@ -13864,6 +16210,34 @@ HAUTE-GARONNE
 
 |
 
+ALAN
+
+|
+
+31005
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+31
+
+|
+
+HAUTE-GARONNE
+
+|
+
 ALBIAC
 
 |
@@ -13920,11 +16294,95 @@ HAUTE-GARONNE
 
 |
 
+ANAN
+
+|
+
+31008
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+31
+
+|
+
+HAUTE-GARONNE
+
+|
+
+ARNAUD-GUILHEM
+
+|
+
+31018
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+31
+
+|
+
+HAUTE-GARONNE
+
+|
+
 AUCAMVILLE
 
 |
 
 31022
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+31
+
+|
+
+HAUTE-GARONNE
+
+|
+
+AULON
+
+|
+
+31023
 
 |
 
@@ -14060,11 +16518,67 @@ HAUTE-GARONNE
 
 |
 
+AURIGNAC
+
+|
+
+31028
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+31
+
+|
+
+HAUTE-GARONNE
+
+|
+
 AURIN
 
 |
 
 31029
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+31
+
+|
+
+HAUTE-GARONNE
+
+|
+
+AUSSEING
+
+|
+
+31030
 
 |
 
@@ -14121,6 +16635,34 @@ AUTERIVE
 |
 
 31033
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+31
+
+|
+
+HAUTE-GARONNE
+
+|
+
+AUZAS
+
+|
+
+31034
 
 |
 
@@ -14233,6 +16775,34 @@ AZAS
 |
 
 31038
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+31
+
+|
+
+HAUTE-GARONNE
+
+|
+
+BACHAS
+
+|
+
+31039
 
 |
 
@@ -14592,6 +17162,34 @@ HAUTE-GARONNE
 
 |
 
+BELBEZE-EN-COMMINGES
+
+|
+
+31059
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+31
+
+|
+
+HAUTE-GARONNE
+
+|
+
 BELESTA-EN-LAURAGAIS
 
 |
@@ -14653,6 +17251,34 @@ BELLESSERRE
 |
 
 31062
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+31
+
+|
+
+HAUTE-GARONNE
+
+|
+
+BENQUE
+
+|
+
+31063
 
 |
 
@@ -14760,11 +17386,67 @@ HAUTE-GARONNE
 
 |
 
+BLAJAN
+
+|
+
+31070
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+31
+
+|
+
+HAUTE-GARONNE
+
+|
+
 BOIS-DE-LA-PIERRE
 
 |
 
 31071
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+31
+
+|
+
+HAUTE-GARONNE
+
+|
+
+BOISSEDE
+
+|
+
+31072
 
 |
 
@@ -14928,11 +17610,123 @@ HAUTE-GARONNE
 
 |
 
+BOULOGNE-SUR-GESSE
+
+|
+
+31080
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+31
+
+|
+
+HAUTE-GARONNE
+
+|
+
 BOURG-SAINT-BERNARD
 
 |
 
 31082
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+31
+
+|
+
+HAUTE-GARONNE
+
+|
+
+BOUSSAN
+
+|
+
+31083
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+31
+
+|
+
+HAUTE-GARONNE
+
+|
+
+BOUSSENS
+
+|
+
+31084
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+31
+
+|
+
+HAUTE-GARONNE
+
+|
+
+BOUZIN
+
+|
+
+31086
 
 |
 
@@ -15488,6 +18282,90 @@ HAUTE-GARONNE
 
 |
 
+CARDEILHAC
+
+|
+
+31108
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+31
+
+|
+
+HAUTE-GARONNE
+
+|
+
+CASSAGNABERE-TOURNAS
+
+|
+
+31109
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+31
+
+|
+
+HAUTE-GARONNE
+
+|
+
+CASSAGNE
+
+|
+
+31110
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+31
+
+|
+
+HAUTE-GARONNE
+
+|
+
 CASTAGNAC
 
 |
@@ -15521,6 +18399,34 @@ CASTANET-TOLOSAN
 |
 
 31113
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+31
+
+|
+
+HAUTE-GARONNE
+
+|
+
+CASTELGAILLARD
+
+|
+
+31115
 
 |
 
@@ -15684,11 +18590,67 @@ HAUTE-GARONNE
 
 |
 
+CASTERA-VIGNOLES
+
+|
+
+31121
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+31
+
+|
+
+HAUTE-GARONNE
+
+|
+
 CASTIES-LABRANDE
 
 |
 
 31122
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+31
+
+|
+
+HAUTE-GARONNE
+
+|
+
+CASTILLON-DE-SAINT-MARTORY
+
+|
+
+31124
 
 |
 
@@ -15768,6 +18730,62 @@ HAUTE-GARONNE
 
 |
 
+CAZENEUVE-MONTAUT
+
+|
+
+31134
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+31
+
+|
+
+HAUTE-GARONNE
+
+|
+
+CAZERES
+
+|
+
+31135
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+31
+
+|
+
+HAUTE-GARONNE
+
+|
+
 CEPET
 
 |
@@ -15801,6 +18819,62 @@ CESSALES
 |
 
 31137
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+31
+
+|
+
+HAUTE-GARONNE
+
+|
+
+CHARLAS
+
+|
+
+31138
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+31
+
+|
+
+HAUTE-GARONNE
+
+|
+
+CIADOUX
+
+|
+
+31141
 
 |
 
@@ -15941,6 +19015,62 @@ CORRONSAC
 |
 
 31151
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+31
+
+|
+
+HAUTE-GARONNE
+
+|
+
+COUEILLES
+
+|
+
+31152
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+31
+
+|
+
+HAUTE-GARONNE
+
+|
+
+COULADERE
+
+|
+
+31153
 
 |
 
@@ -16216,11 +19346,67 @@ HAUTE-GARONNE
 
 |
 
+EOUX
+
+|
+
+31168
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+31
+
+|
+
+HAUTE-GARONNE
+
+|
+
 ESCALQUENS
 
 |
 
 31169
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+31
+
+|
+
+HAUTE-GARONNE
+
+|
+
+ESCANECRABE
+
+|
+
+31170
 
 |
 
@@ -16272,11 +19458,67 @@ HAUTE-GARONNE
 
 |
 
+ESPARRON
+
+|
+
+31172
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+31
+
+|
+
+HAUTE-GARONNE
+
+|
+
 ESPERCE
 
 |
 
 31173
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+31
+
+|
+
+HAUTE-GARONNE
+
+|
+
+FABAS
+
+|
+
+31178
 
 |
 
@@ -16664,6 +19906,62 @@ HAUTE-GARONNE
 
 |
 
+FRANCON
+
+|
+
+31196
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+31
+
+|
+
+HAUTE-GARONNE
+
+|
+
+LE FRECHET
+
+|
+
+31198
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+31
+
+|
+
+HAUTE-GARONNE
+
+|
+
 FRONTIGNAN-SAVES
 
 |
@@ -16725,6 +20023,34 @@ FROUZINS
 |
 
 31203
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+31
+
+|
+
+HAUTE-GARONNE
+
+|
+
+FUSTIGNAC
+
+|
+
+31204
 
 |
 
@@ -16972,6 +20298,34 @@ HAUTE-GARONNE
 
 |
 
+GENSAC-DE-BOULOGNE
+
+|
+
+31218
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+31
+
+|
+
+HAUTE-GARONNE
+
+|
+
 GENSAC-SUR-GARONNE
 
 |
@@ -17061,6 +20415,34 @@ GOUTEVERNISSE
 |
 
 31225
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+31
+
+|
+
+HAUTE-GARONNE
+
+|
+
+GOUZENS
+
+|
+
+31226
 
 |
 
@@ -17308,6 +20690,34 @@ HAUTE-GARONNE
 
 |
 
+L'ISLE-EN-DODON
+
+|
+
+31239
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+31
+
+|
+
+HAUTE-GARONNE
+
+|
+
 ISSUS
 
 |
@@ -17425,6 +20835,34 @@ LABASTIDE-CLERMONT
 |
 
 31250
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+31
+
+|
+
+HAUTE-GARONNE
+
+|
+
+LABASTIDE-PAUMES
+
+|
+
+31251
 
 |
 
@@ -17616,6 +21054,34 @@ HAUTE-GARONNE
 
 |
 
+LAFFITE-TOUPIERE
+
+|
+
+31260
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+31
+
+|
+
+HAUTE-GARONNE
+
+|
+
 LAFITTE-VIGORDANE
 
 |
@@ -17784,6 +21250,62 @@ HAUTE-GARONNE
 
 |
 
+LAHITERE
+
+|
+
+31267
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+31
+
+|
+
+HAUTE-GARONNE
+
+|
+
+LALOURET-LAFFITEAU
+
+|
+
+31268
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+31
+
+|
+
+HAUTE-GARONNE
+
+|
+
 LAMASQUERE
 
 |
@@ -17929,6 +21451,34 @@ LASSERRE
 |
 
 31277
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+31
+
+|
+
+HAUTE-GARONNE
+
+|
+
+LATOUE
+
+|
+
+31278
 
 |
 
@@ -18260,11 +21810,95 @@ HAUTE-GARONNE
 
 |
 
+LESCUNS
+
+|
+
+31292
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+31
+
+|
+
+HAUTE-GARONNE
+
+|
+
 LESPINASSE
 
 |
 
 31293
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+31
+
+|
+
+HAUTE-GARONNE
+
+|
+
+LESPUGUE
+
+|
+
+31295
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+31
+
+|
+
+HAUTE-GARONNE
+
+|
+
+LESTELLE-DE-SAINT-MARTORY
+
+|
+
+31296
 
 |
 
@@ -18344,6 +21978,34 @@ HAUTE-GARONNE
 
 |
 
+LILHAC
+
+|
+
+31301
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+31
+
+|
+
+HAUTE-GARONNE
+
+|
+
 LONGAGES
 
 |
@@ -18377,6 +22039,62 @@ LOUBENS-LAURAGAIS
 |
 
 31304
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+31
+
+|
+
+HAUTE-GARONNE
+
+|
+
+LUNAX
+
+|
+
+31307
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+31
+
+|
+
+HAUTE-GARONNE
+
+|
+
+LUSSAN-ADEILHAC
+
+|
+
+31309
 
 |
 
@@ -18484,11 +22202,67 @@ HAUTE-GARONNE
 
 |
 
+MANCIOUX
+
+|
+
+31314
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+31
+
+|
+
+HAUTE-GARONNE
+
+|
+
 MARIGNAC-LASCLARES
 
 |
 
 31317
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+31
+
+|
+
+HAUTE-GARONNE
+
+|
+
+MARIGNAC-LASPEYRES
+
+|
+
+31318
 
 |
 
@@ -18568,11 +22342,67 @@ HAUTE-GARONNE
 
 |
 
+MARSOULAS
+
+|
+
+31321
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+31
+
+|
+
+HAUTE-GARONNE
+
+|
+
 MARTISSERRE
 
 |
 
 31322
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+31
+
+|
+
+HAUTE-GARONNE
+
+|
+
+MARTRES-TOLOSANE
+
+|
+
+31324
 
 |
 
@@ -18629,6 +22459,34 @@ MASSABRAC
 |
 
 31326
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+31
+
+|
+
+HAUTE-GARONNE
+
+|
+
+MAURAN
+
+|
+
+31327
 
 |
 
@@ -18848,6 +22706,34 @@ HAUTE-GARONNE
 
 |
 
+MAZERES-SUR-SALAT
+
+|
+
+31336
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+31
+
+|
+
+HAUTE-GARONNE
+
+|
+
 MENVILLE
 
 |
@@ -19021,6 +22907,90 @@ MIREPOIX-SUR-TARN
 |
 
 31346
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+31
+
+|
+
+HAUTE-GARONNE
+
+|
+
+MOLAS
+
+|
+
+31347
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+31
+
+|
+
+HAUTE-GARONNE
+
+|
+
+MONDAVEZAN
+
+|
+
+31349
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+31
+
+|
+
+HAUTE-GARONNE
+
+|
+
+MONDILHAN
+
+|
+
+31350
 
 |
 
@@ -19296,11 +23266,95 @@ HAUTE-GARONNE
 
 |
 
+MONTBERAUD
+
+|
+
+31362
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+31
+
+|
+
+HAUTE-GARONNE
+
+|
+
+MONTBERNARD
+
+|
+
+31363
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+31
+
+|
+
+HAUTE-GARONNE
+
+|
+
 MONTBERON
 
 |
 
 31364
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+31
+
+|
+
+HAUTE-GARONNE
+
+|
+
+MONTBRUN-BOCAGE
+
+|
+
+31365
 
 |
 
@@ -19352,6 +23406,34 @@ HAUTE-GARONNE
 
 |
 
+MONTCLAR-DE-COMMINGES
+
+|
+
+31367
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+31
+
+|
+
+HAUTE-GARONNE
+
+|
+
 MONTCLAR-LAURAGAIS
 
 |
@@ -19380,11 +23462,67 @@ HAUTE-GARONNE
 
 |
 
+MONTEGUT-BOURJAC
+
+|
+
+31370
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+31
+
+|
+
+HAUTE-GARONNE
+
+|
+
 MONTEGUT-LAURAGAIS
 
 |
 
 31371
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+31
+
+|
+
+HAUTE-GARONNE
+
+|
+
+MONTESQUIEU-GUITTAUT
+
+|
+
+31373
 
 |
 
@@ -19469,6 +23607,34 @@ MONTGAILLARD-LAURAGAIS
 |
 
 31377
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+31
+
+|
+
+HAUTE-GARONNE
+
+|
+
+MONTGAILLARD-SUR-SAVE
+
+|
+
+31378
 
 |
 
@@ -19660,6 +23826,90 @@ HAUTE-GARONNE
 
 |
 
+MONTMAURIN
+
+|
+
+31385
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+31
+
+|
+
+HAUTE-GARONNE
+
+|
+
+MONTOULIEU-SAINT-BERNARD
+
+|
+
+31386
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+31
+
+|
+
+HAUTE-GARONNE
+
+|
+
+MONTOUSSIN
+
+|
+
+31387
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+31
+
+|
+
+HAUTE-GARONNE
+
+|
+
 MONTPITOL
 
 |
@@ -19693,6 +23943,34 @@ MONTRABE
 |
 
 31389
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+31
+
+|
+
+HAUTE-GARONNE
+
+|
+
+MONTSAUNES
+
+|
+
+31391
 
 |
 
@@ -19805,6 +24083,62 @@ NAILLOUX
 |
 
 31396
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+31
+
+|
+
+HAUTE-GARONNE
+
+|
+
+NENIGAN
+
+|
+
+31397
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+31
+
+|
+
+HAUTE-GARONNE
+
+|
+
+NIZAN-GESSE
+
+|
+
+31398
 
 |
 
@@ -19968,6 +24302,34 @@ HAUTE-GARONNE
 
 |
 
+PALAMINY
+
+|
+
+31406
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+31
+
+|
+
+HAUTE-GARONNE
+
+|
+
 PAULHAC
 
 |
@@ -20080,11 +24442,95 @@ HAUTE-GARONNE
 
 |
 
+PEGUILHAN
+
+|
+
+31412
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+31
+
+|
+
+HAUTE-GARONNE
+
+|
+
 PELLEPORT
 
 |
 
 31413
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+31
+
+|
+
+HAUTE-GARONNE
+
+|
+
+PEYRISSAS
+
+|
+
+31414
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+31
+
+|
+
+HAUTE-GARONNE
+
+|
+
+PEYROUZET
+
+|
+
+31415
 
 |
 
@@ -20276,6 +24722,34 @@ HAUTE-GARONNE
 
 |
 
+PLAGNE
+
+|
+
+31422
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+31
+
+|
+
+HAUTE-GARONNE
+
+|
+
 PLAGNOLE
 
 |
@@ -20309,6 +24783,62 @@ PLAISANCE-DU-TOUCH
 |
 
 31424
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+31
+
+|
+
+HAUTE-GARONNE
+
+|
+
+LE PLAN
+
+|
+
+31425
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+31
+
+|
+
+HAUTE-GARONNE
+
+|
+
+POLASTRON
+
+|
+
+31428
 
 |
 
@@ -20528,6 +25058,34 @@ HAUTE-GARONNE
 
 |
 
+PROUPIARY
+
+|
+
+31440
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+31
+
+|
+
+HAUTE-GARONNE
+
+|
+
 PRUNET
 
 |
@@ -20561,6 +25119,34 @@ PUYDANIEL
 |
 
 31442
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+31
+
+|
+
+HAUTE-GARONNE
+
+|
+
+PUYMAURIN
+
+|
+
+31443
 
 |
 
@@ -20836,6 +25422,62 @@ HAUTE-GARONNE
 
 |
 
+RIOLAS
+
+|
+
+31456
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+31
+
+|
+
+HAUTE-GARONNE
+
+|
+
+ROQUEFORT-SUR-GARONNE
+
+|
+
+31457
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+31
+
+|
+
+HAUTE-GARONNE
+
+|
+
 ROQUES
 
 |
@@ -21060,6 +25702,34 @@ HAUTE-GARONNE
 
 |
 
+SAINT-ANDRE
+
+|
+
+31468
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+31
+
+|
+
+HAUTE-GARONNE
+
+|
+
 SAINT-ARAILLE
 
 |
@@ -21093,6 +25763,34 @@ SAINT-CEZERT
 |
 
 31473
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+31
+
+|
+
+HAUTE-GARONNE
+
+|
+
+SAINT-CHRISTAUD
+
+|
+
+31474
 
 |
 
@@ -21172,11 +25870,67 @@ HAUTE-GARONNE
 
 |
 
+SAINT-ELIX-SEGLAN
+
+|
+
+31477
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+31
+
+|
+
+HAUTE-GARONNE
+
+|
+
 SAINT-FELIX-LAURAGAIS
 
 |
 
 31478
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+31
+
+|
+
+HAUTE-GARONNE
+
+|
+
+SAINT-FERREOL-DE-COMMINGES
+
+|
+
+31479
 
 |
 
@@ -21233,6 +25987,34 @@ SAINTE-FOY-DE-PEYROLIERES
 |
 
 31481
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+31
+
+|
+
+HAUTE-GARONNE
+
+|
+
+SAINT-FRAJOU
+
+|
+
+31482
 
 |
 
@@ -21480,6 +26262,62 @@ HAUTE-GARONNE
 
 |
 
+SAINT-LARY-BOUJEAN
+
+|
+
+31493
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+31
+
+|
+
+HAUTE-GARONNE
+
+|
+
+SAINT-LAURENT
+
+|
+
+31494
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+31
+
+|
+
+HAUTE-GARONNE
+
+|
+
 SAINT-LEON
 
 |
@@ -21620,6 +26458,90 @@ HAUTE-GARONNE
 
 |
 
+SAINT-MARCET
+
+|
+
+31502
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+31
+
+|
+
+HAUTE-GARONNE
+
+|
+
+SAINT-MARTORY
+
+|
+
+31503
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+31
+
+|
+
+HAUTE-GARONNE
+
+|
+
+SAINT-MICHEL
+
+|
+
+31505
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+31
+
+|
+
+HAUTE-GARONNE
+
+|
+
 SAINT-ORENS-DE-GAMEVILLE
 
 |
@@ -21653,6 +26575,34 @@ SAINT-PAUL-SUR-SAVE
 |
 
 31507
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+31
+
+|
+
+HAUTE-GARONNE
+
+|
+
+SAINT-PE-DELBOSC
+
+|
+
+31510
 
 |
 
@@ -21928,6 +26878,62 @@ HAUTE-GARONNE
 
 |
 
+SALERM
+
+|
+
+31522
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+31
+
+|
+
+HAUTE-GARONNE
+
+|
+
+SALIES-DU-SALAT
+
+|
+
+31523
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+31
+
+|
+
+HAUTE-GARONNE
+
+|
+
 SALLES-SUR-GARONNE
 
 |
@@ -21989,6 +26995,118 @@ LA SALVETAT-LAURAGAIS
 |
 
 31527
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+31
+
+|
+
+HAUTE-GARONNE
+
+|
+
+SAMAN
+
+|
+
+31528
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+31
+
+|
+
+HAUTE-GARONNE
+
+|
+
+SAMOUILLAN
+
+|
+
+31529
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+31
+
+|
+
+HAUTE-GARONNE
+
+|
+
+SANA
+
+|
+
+31530
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+31
+
+|
+
+HAUTE-GARONNE
+
+|
+
+SARREMEZAN
+
+|
+
+31532
 
 |
 
@@ -22180,6 +27298,34 @@ HAUTE-GARONNE
 
 |
 
+SEPX
+
+|
+
+31545
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+31
+
+|
+
+HAUTE-GARONNE
+
+|
+
 SEYRE
 
 |
@@ -22241,6 +27387,34 @@ TARABEL
 |
 
 31551
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+31
+
+|
+
+HAUTE-GARONNE
+
+|
+
+TERREBASSE
+
+|
+
+31552
 
 |
 
@@ -23053,6 +28227,34 @@ VILLENOUVELLE
 |
 
 31589
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+31
+
+|
+
+HAUTE-GARONNE
+
+|
+
+ESCOULIS
+
+|
+
+31591
 
 |
 
