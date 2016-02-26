@@ -2,12 +2,6 @@
 
 LIAISONS RÉGULIÈRES DE PASSAGERS, DE COURRIER ET DE FRÊT
 
-Jusqu'au 1er mars 2016 :
-
-Paris-Port-Louis (île Maurice) ;
-
-Lyon-Port-Louis (île Maurice).
-
 Jusqu'au 15 juin 2016 :
 
 Dzaoudzi-Antananarivo (Madagascar).
@@ -97,3 +91,7 @@ Paris-Saint-Martin Juliana (Antilles néerlandaises) ;
 Jusqu'au 30 novembre 2020 :
 
 Paris-Sal (Cabo Verde).
+
+Jusqu'au 28 février 2021 :
+
+Paris-Port-Louis (île Maurice).
