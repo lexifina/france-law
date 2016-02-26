@@ -46,15 +46,13 @@ Centrale production de Bonneville
 
 |
 
-FR000000000000522
+FR000000000000451
 
 |
 
-EDF
+EDF |
 
-|
-
-Centrale EDF de la Maxe
+CENTRALE DE BLÉNOD
 
 |
 
@@ -204,11 +202,11 @@ FR000000000000988
 
 |
 
-GDF SUEZ Thermique France
+ENGIE THERMIQUE FRANCE
 
 |
 
-GDF SUEZ Thermique France - Centrale de Dunkerque (DK6)
+Centrale de Dunkerque (DK6)
 
 |
 
@@ -257,18 +255,6 @@ EDF SEI
 |
 
 CENTRALE DE JARRY SUD
-
-|
-
-FR000000000001109
-
-|
-
-EDF SEI
-
-|
-
-CENTRALE DE SAINT-BARTHÉLEMY
 
 |
 
@@ -336,11 +322,11 @@ FR000000000001133
 
 |
 
-E. ON France POWER SAS
+UNIPER France POWER
 
 |
 
-E. ON-centrale Emile HUCHET
+UNIPER Centrale Emile Huchet
 
 |
 
@@ -372,11 +358,11 @@ FR000000000001151
 
 |
 
-POWEO PONT-SUR-SAMBRE PRODUCTION
+PONT SUR SAMBRE POWER SAS
 
 |
 
-POWEO PONT-SUR-SAMBRE PRODUCTION
+PONT SUR SAMBRE POWER SAS
 
 |
 
@@ -384,7 +370,7 @@ FR000000000001158
 
 |
 
-GDF SUEZ THERMIQUE
+ENGIE THERMIQUE FRANCE
 
 |
 
@@ -464,7 +450,7 @@ ALBIOMA CARAÏBES
 
 |
 
-FR-new6900563
+FR-new-6900563
 
 |
 
@@ -536,7 +522,7 @@ GLOBAL SWITCH
 
 |
 
-FR-new40000003
+FR-new-40000003
 
 |
 
@@ -545,16 +531,6 @@ Electricité de Mayotte
 |
 
 EDM Centrale de Badamiers
-
-|
-
-FR000000000000451
-
-|
-
-EDF |
-
-CENTRALE DE BLÉNOD
 
 |
 
@@ -576,7 +552,7 @@ UNIBIENS Site de Mainvilliers
 
 |
 
-FR-new40000024
+FR-new-40000024
 
 |
 
@@ -585,5 +561,17 @@ Electricité de Mayotte
 |
 
 EDM Centrale de Longoni
+
+|
+
+FR-new-EDF-SPM
+
+|
+
+EDF SEI
+
+|
+
+Centrale de Saint-Pierre-et-Miquelon
 
 |

@@ -2168,11 +2168,11 @@ FR000000000000068
 
 |
 
-MUNKSJÖ LABEL PACK
+MUNKSJÖ ROTTERSAC SAS
 
 |
 
-MUNKSJÖ LABEL PACK
+MUNKSJÖ ROTTERSAC
 
 |
 
@@ -2888,11 +2888,11 @@ FR000000000000088
 
 |
 
-Gascogne Paper
+GASCOGNE PAPIER
 
 |
 
-Gascogne Paper
+GASCOGNE PAPIER
 
 |
 
@@ -7064,11 +7064,11 @@ FR000000000000201
 
 |
 
-CHRU de Clermont-Ferrand
+CHRU de Clermont Ferrand
 
 |
 
-CHRU de Clermont-Ferrand CHU Gabriel Montpied
+CHRU de Clermont Ferrand CHU Gabriel Montpied
 
 |
 
@@ -7080,31 +7080,31 @@ CHRU de Clermont-Ferrand CHU Gabriel Montpied
 
 |
 
-5 612
+0
 
 |
 
-4 909
+0
 
 |
 
-4 229
+0
 
 |
 
-3 571
+0
 
 |
 
-2 934
+0
 
 |
 
-2 321
+0
 
 |
 
-36 990
+13 414
 
 |
 
@@ -7544,11 +7544,11 @@ FR000000000000215
 
 |
 
-BANQUE DE France
+EUROPAFI
 
 |
 
-PAPETERIE DE LA BANQUE DE FRANCE site de VIC LE COMTE
+EUROPAFI Longues Vic-Le-Comte
 
 |
 
@@ -8460,7 +8460,7 @@ IMERYS TC site de Limonest
 
 |
 
-IMERYS TC site de Pargny-sur-Saulx Bois-du-Roi
+IMERYS TC site de Pargny sur Saulx Bois du Roi
 
 |
 
@@ -8476,27 +8476,27 @@ IMERYS TC site de Pargny-sur-Saulx Bois-du-Roi
 
 |
 
-10 712
+0
 
 |
 
-10 509
+0
 
 |
 
-10 304
+0
 
 |
 
-10 097
+0
 
 |
 
-9 888
+0
 
 |
 
-84 843
+33 333
 
 |
 
@@ -8648,11 +8648,11 @@ FR000000000000242
 
 |
 
-SEM ENERGIE
+GRAND TROYES
 
 |
 
-SEM ENERGIE Chaufferie Centrale des Chartreux
+Chaufferie Centrale des Chartreux
 
 |
 
@@ -8840,11 +8840,11 @@ FR000000000000246
 
 |
 
-LUCART France SAS
+WEPA TROYES
 
 |
 
-LUCART France SAS
+WEPA TROYES
 
 |
 
@@ -9176,11 +9176,11 @@ FR000000000000253
 
 |
 
-TOTAL RAFFINAGE France, raffinerie de NORMANDIE
+TOTAL RAFFINAGE France
 
 |
 
-TOTAL RAFFINAGE France, raffinerie de NORMANDIE
+raffinerie de NORMANDIE
 
 |
 
@@ -11144,11 +11144,11 @@ FR000000000000303
 
 |
 
-NIPRO GLASS France
+NIPRO PHARMAPACKAGING France
 
 |
 
-NIPRO GLASS France
+NIPRO PHARMAPACKAGING France
 
 |
 
@@ -11384,11 +11384,11 @@ FR000000000000310
 
 |
 
-Solvay Electrolyse France
+SOLVAY TAVAUX
 
 |
 
-Solvay Electrolyse France Tavaux
+Société de Cogénération de Tavaux
 
 |
 
@@ -11864,11 +11864,11 @@ FR000000000000321
 
 |
 
-Holcim France Rochefort
+EQIOM
 
 |
 
-Holcim France Rochefort
+EQIOM Rochefort
 
 |
 
@@ -12152,7 +12152,7 @@ FR000000000000329
 
 |
 
-Solvay Electrolyse France
+SOLVAY TAVAUX
 
 |
 
@@ -13112,11 +13112,11 @@ FR000000000000355
 
 |
 
-Papeteries CANSON SAS
+CANSON SAS
 
 |
 
-Moulin du Roy
+CANSON Usine de Moulin du Roy
 
 |
 

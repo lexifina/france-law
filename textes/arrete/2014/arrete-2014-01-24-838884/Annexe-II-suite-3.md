@@ -664,11 +664,11 @@ FR-new-05201262
 
 |
 
-EADS ASTRIUM SPACE TRANSPORTATION
+AIRBUS DEFENCE and SPACE SAS
 
 |
 
-EADS ASTRIUM SPACE TRANSPORTATION
+AIRBUS DEFENCE and SPACE SAS
 
 |
 
@@ -684,27 +684,27 @@ EADS ASTRIUM SPACE TRANSPORTATION
 
 |
 
-1 373
+0
 
 |
 
-1 184
+0
 
 |
 
-999
+0
 
 |
 
-821
+0
 
 |
 
-650
+0
 
 |
 
-10 350
+5 323
 
 |
 
@@ -1672,11 +1672,11 @@ FR-new-05209054
 
 |
 
-APPIA Grands Travaux
+EIFFAGE génie civil-GTE
 
 |
 
-APPIA Grands Travaux - centrale d'enrobage mobile
+Centrale mobile d'enrobage MI708
 
 |
 
@@ -1960,11 +1960,11 @@ FR-new-05401050
 
 |
 
-ISOROY AUXERRE
+KRONOSPAN SAS
 
 |
 
-ISOROY AUXERRE
+KRONOSPAN AUXERRE
 
 |
 
@@ -2584,11 +2584,11 @@ FR-new-05600302
 
 |
 
-Groupe MARAZZI France
+GROUPE CERABATI
 
 |
 
-Groupe MARAZZI site de Paulhaguet
+GROUPE CERABATI (site de Couteuges)
 
 |
 
@@ -2728,11 +2728,11 @@ FR-new-05600372
 
 |
 
-Constellium France usine d'Issoire
+CONSTELLIUM ISSOIRE
 
 |
 
-Constellium France usine d'Issoire
+CONSTELLIUM ISSOIRE
 
 |
 
@@ -2968,11 +2968,11 @@ FR-new-05602422
 
 |
 
-EFFAGE
+EIFFAGE génie civil-GTE
 
 |
 
-Centrale d'enrobage MI707
+Centrale mobile d'enrobage MI707
 
 |
 
@@ -4360,11 +4360,11 @@ FR-new-05800571
 
 |
 
-V&M France tuberie de Deville
+Vallourec Tubes France
 
 |
 
-V&M France tuberie de Deville
+Tuberie de Déville
 
 |
 
@@ -4696,7 +4696,7 @@ FR-new-05904909
 
 |
 
-Solvay Electrolyse France
+SOLVAY TAVAUX
 
 |
 
@@ -4744,7 +4744,7 @@ FR-new-05904910
 
 |
 
-Solvay Electrolyse France
+INOVYN France
 
 |
 
@@ -4792,7 +4792,7 @@ FR-new-05904912
 
 |
 
-Solvay Electrolyse France
+INOVYN France
 
 |
 
@@ -4840,7 +4840,7 @@ FR-new-05904913
 
 |
 
-Solvay Electrolyse France
+SOLVAY TAVAUX
 
 |
 
@@ -4888,7 +4888,7 @@ FR-new-05904914
 
 |
 
-Solvay Electrolyse France
+SOLVAY TAVAUX
 
 |
 
@@ -4936,7 +4936,7 @@ FR-new-05904915
 
 |
 
-Solvay Electrolyse France
+SOLVAY TAVAUX
 
 |
 
@@ -4984,7 +4984,7 @@ FR-new-05904916
 
 |
 
-Solvay Electrolyse France
+INOVYN France
 
 |
 
@@ -8008,11 +8008,11 @@ FR-new-06401076
 
 |
 
-ISOROY TORCY
+KRONOSPAN SAS
 
 |
 
-ISOROY TORCY
+KRONOSPAN TORCY
 
 |
 
@@ -9352,11 +9352,11 @@ FR-new-06700469
 
 |
 
-CONSTELLIUM France
+CONSTELLIUM Neuf Brisach
 
 |
 
-CONSTELLIUM France
+CONSTELLIUM Neuf Brisach
 
 |
 
@@ -9928,11 +9928,11 @@ FR-new-06700795
 
 |
 
-Thermal Ceramics de France SAS
+SITEK Insulation
 
 |
 
-Thermal Ceramics de France ; usine de Wissembourg
+SITEK Insulation
 
 |
 
@@ -10428,35 +10428,35 @@ Airforge
 
 |
 
-2 470
+0
 
 |
 
-2 187
+0
 
 |
 
-1 914
+0
 
 |
 
-1 649
+0
 
 |
 
-1 392
+0
 
 |
 
-1 144
+0
 
 |
 
-905
+0
 
 |
 
-14 420
+2 759
 
 |
 
@@ -10512,11 +10512,11 @@ FR-new-07000438
 
 |
 
-GTS Industries
+DILLINGER France
 
 |
 
-GTS Industries
+DILLINGER France
 
 |
 
@@ -10656,11 +10656,11 @@ FR-new-07000631
 
 |
 
-Vam Drilling Aulnoye
+VALLOUREC OIL AND GAS France
 
 |
 
-Vam Drilling Aulnoye
+VALLOUREC OIL AND GAS France Usine filet
 
 |
 
@@ -10704,11 +10704,11 @@ FR-new-07000632
 
 |
 
-V&M France tuberie de Saint-Saulve
+Vallourec Tubes France
 
 |
 
-V&M tuberie de Saint-Saulve
+Vallourec Tubes France-tuberie de Saint Saulve
 
 |
 
@@ -10752,11 +10752,11 @@ FR-new-07000633
 
 |
 
-V&M France tuberie d'Aulnoye
+Vallourec Tubes France
 
 |
 
-V&M France tuberie d'Aulnoye
+Vallourec Tubes France-tuberie d'Aulnoye-Aymeries
 
 |
 
@@ -11328,11 +11328,11 @@ FR-new-07000922
 
 |
 
-TIOXIDE EUROPE SAS
+HUNTSMAN P & A France SAS
 
 |
 
-Tioxide Europe SAS
+HUNTSMAN P & A France-usine de Calais
 
 |
 
@@ -11424,11 +11424,11 @@ FR-new-07000973
 
 |
 
-SODECA
+TEREOS France
 
 |
 
-SODECA
+Tereos (ex-SODECA)
 
 |
 
@@ -11520,11 +11520,11 @@ FR-new-07001051
 
 |
 
-Sica pulpes Boiry
+TEREOS France
 
 |
 
-Sica pulpes de Boiry
+Tereos (Boiry)
 
 |
 
@@ -12192,11 +12192,11 @@ FR-new-07208224
 
 |
 
-APPIA Grands Travaux
+EIFFAGE génie civil-GTE
 
 |
 
-Centrale d'enrobage au bitume de matériaux routiers à chaud
+Centrale mobile d'enrobage MI744
 
 |
 
@@ -12484,7 +12484,7 @@ CORPOCHALEUR
 
 |
 
-Chaufferie de la Rabaterie (SAINT-PIERRE-DES-CORPS)
+Chaufferie de la Rabaterie (ST-PIERRE DES CORPS)
 
 |
 
@@ -12500,27 +12500,27 @@ Chaufferie de la Rabaterie (SAINT-PIERRE-DES-CORPS)
 
 |
 
-2 571
+0
 
 |
 
-2 215
+0
 
 |
 
-1 870
+0
 
 |
 
-1 536
+0
 
 |
 
-1 216
+0
 
 |
 
-19 371
+9 963
 
 |
 
@@ -12544,31 +12544,31 @@ Centrale d'enrobage au bitume de matériaux routiers à chaud
 
 |
 
-885
+0
 
 |
 
-775
+0
 
 |
 
-666
+0
 
 |
 
-563
+0
 
 |
 
-463
+0
 
 |
 
-366
+0
 
 |
 
-5 833
+2 115
 
 |
 
@@ -12816,11 +12816,11 @@ FR-new-10400075
 
 |
 
-ALFI
+AIR LIQUIDE HYDROGENE
 
 |
 
-ALFI Pont-de-Claix
+Air Liquide Pont de Claix
 
 |
 

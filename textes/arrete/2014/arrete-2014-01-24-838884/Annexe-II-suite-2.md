@@ -492,7 +492,7 @@ IDEX ENERGIES
 
 |
 
-IDEX ENERGIES -Chaufferie de Levallois
+IDEX ENERGIES-Chaufferie de Levallois
 
 |
 
@@ -508,27 +508,27 @@ IDEX ENERGIES -Chaufferie de Levallois
 
 |
 
-7 260
+0
 
 |
 
-6 254
+0
 
 |
 
-5 280
+0
 
 |
 
-4 339
+0
 
 |
 
-3 433
+0
 
 |
 
-54 697
+28 131
 
 |
 
@@ -604,27 +604,27 @@ ZIPEC
 
 |
 
-2 638
+0
 
 |
 
-2 273
+0
 
 |
 
-1 919
+0
 
 |
 
-1 577
+0
 
 |
 
-1 247
+0
 
 |
 
-19 875
+10 221
 
 |
 
@@ -4184,11 +4184,11 @@ FR000000000000847
 
 |
 
-Holcim France Altkirch
+HOLCIM Haut Rhin
 
 |
 
-Holcim France Altkirch
+HOLCIM Haut Rhin
 
 |
 
@@ -5720,11 +5720,11 @@ FR000000000000898
 
 |
 
-AJINOMOTO SWEETENERS EUROPE
+HYET SWEET
 
 |
 
-AJINOMOTO SWTENERS EUROPE
+HYET SWEET
 
 |
 
@@ -6152,11 +6152,11 @@ FR000000000000914
 
 |
 
-INEOS ChlorVinyls France
+VYNOVA MAZINGARBE SAS
 
 |
 
-INEOS ChlorVinyls France
+VYNOVA MAZINGARBE SAS
 
 |
 
@@ -6200,7 +6200,7 @@ FR000000000000915
 
 |
 
-ARC International
+ARC INTERNATIONAL FRANCE
 
 |
 
@@ -6872,11 +6872,11 @@ FR000000000000937
 
 |
 
-Holcim France Lumbres
+EQIOM
 
 |
 
-Holcim France Lumbres
+EQIOM-Lumbres
 
 |
 
@@ -7208,11 +7208,11 @@ FR000000000000947
 
 |
 
-WEPA LILLE
+WEPA FRANCE
 
 |
 
-WEPA LILLE
+WEPA FRANCE
 
 |
 
@@ -9464,11 +9464,11 @@ FR000000000001005
 
 |
 
-V&M France Aciérie de Saint-Saulve
+Vallourec Tubes France
 
 |
 
-V&M France aciérie de Saint-Saulve
+Vallourec Tubes France-Acierie de Saint Saulve
 
 |
 
@@ -11192,11 +11192,11 @@ FR000000000001066
 
 |
 
-MFPM JOUE-LES-TOURS
+MFPM JOUE LES TOURS
 
 |
 
-Usine MICHELIN de JOUE-LES-TOURS
+Usine MICHELIN de JOUE LES TOURS
 
 |
 
@@ -11212,27 +11212,27 @@ Usine MICHELIN de JOUE-LES-TOURS
 
 |
 
-9 917
+0
 
 |
 
-9 729
+0
 
 |
 
-9 539
+0
 
 |
 
-9 347
+0
 
 |
 
-9 154
+0
 
 |
 
-99 296
+51 610
 
 |
 
@@ -12302,9 +12302,7 @@ KRONOFRANCE
 
 |
 
-KRONO
-
-FRANCE
+KRONO FRANCE
 
 |
 
@@ -13164,11 +13162,11 @@ FR000000000001129
 
 |
 
-CURMA
+ENORIS
 
 |
 
-CURMA VICTOR BASCH
+CURMA rue Victor Basch
 
 |
 

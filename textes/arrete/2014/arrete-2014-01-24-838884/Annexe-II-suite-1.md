@@ -160,10 +160,6 @@ CATERPILLAR France SAS
 
 |
 
-7 484
-
-|
-
 0
 
 |
@@ -188,7 +184,11 @@ CATERPILLAR France SAS
 
 |
 
-15 100
+0
+
+|
+
+7 616
 
 |
 
@@ -292,7 +292,7 @@ FR000000000000379
 
 |
 
-Commissariat à l'énergie atomique et aux énergies alternatives
+Compagnie de Chauffage Intercommunale de l'Agglomération Grenobloise (CCIAG)
 
 |
 
@@ -2518,31 +2518,31 @@ ANNECY BIO CHALEUR
 
 |
 
-5 176
+0
 
 |
 
-4 528
+0
 
 |
 
-3 900
+0
 
 |
 
-3 294
+0
 
 |
 
-2 706
+0
 
 |
 
-2 141
+0
 
 |
 
-34 192
+12 447
 
 |
 
@@ -3078,11 +3078,11 @@ FR000000000000459
 
 |
 
-PERFORMANCE FIBERS
+LONGLAVILLE DURAFIBER TECHNOLOGIES (DFT) SAS
 
 |
 
-Longlaville Performance Fibers
+DURAFIBER TECHNOLOGIES SAS-Longlaville
 
 |
 
@@ -3504,11 +3504,11 @@ FR000000000000475
 
 |
 
-MUNKSJO LABELPACK
+MUNKSJO STENAY SAS
 
 |
 
-MUNKSJO LABELPACK - usine de Stenay
+MUNKSJO STENAY SAS-usine de Stenay
 
 |
 
@@ -3874,11 +3874,11 @@ FR000000000000486
 
 |
 
-Holcim France Héming
+EQIOM
 
 |
 
-Holcim France Héming
+EQIOM Héming
 
 |
 
@@ -4546,11 +4546,11 @@ FR000000000000504
 
 |
 
-NOVATISSUE SAS
+LUCART SAS
 
 |
 
-NOVATISSUE SAS
+Lucart SAS (ex-Novatissue)
 
 |
 
@@ -6788,11 +6788,11 @@ FR000000000000571
 
 |
 
-GDF SUEZ THERMIQUE France
+ENGIE THERMIQUE FRANCE
 
 |
 
-GDF SUEZ THERMIQUE France
+SPEM pointe
 
 |
 
@@ -8664,13 +8664,11 @@ FR000000000000625
 
 |
 
-Ascométal
+ASCO INDUSTRIE
 
 |
 
-Ascométal - usine de Fos
-
-|
+ASCO Industrie-Usine de Fos |
 
 76 802
 
@@ -9250,27 +9248,27 @@ COFELY Romainville 93
 
 |
 
-3 768
+0
 
 |
 
-3 574
+0
 
 |
 
-3 383
+0
 
 |
 
-3 197
+0
 
 |
 
-3 016
+0
 
 |
 
-37 982
+21 044
 
 |
 
@@ -10956,7 +10954,7 @@ Chaufferie de Grigny 2 |
 
 FR000000000000707 |
 
-CURMA |
+ENORIS |
 
 CURMA LA BONDE |
 
