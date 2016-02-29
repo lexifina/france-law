@@ -6,9 +6,9 @@ GRADES
 
 |
 
-CLASSEMENT
+CLASSEMENT HIÉRARCHIQUE
 
-hiérarchique (indices bruts)
+(indices bruts)
 
 |
 
@@ -20,7 +20,7 @@ Cadre supérieur
 
 |
 
-(287309347)
+(287-309-347)
 
 |
 
@@ -28,21 +28,9 @@ Echelons provisoires
 
 |
 
-Cadre supérieur
-
 |
 
-379966
-
-|
-
-|
-
-Cadre supérieur
-
-|
-
-(1015HEA)
+379 - 966 (1015) (HEA)
 
 |
 
@@ -54,29 +42,9 @@ Cadre de second niveau
 
 |
 
-(287309347379416)
+(287-309-347-379-416)
 
-|
-
-Echelons provisoires
-
-|
-
-Cadre de second niveau
-
-|
-
-440841
-
-|
-
-|
-
-Cadre de premier niveau
-
-|
-
-(287309332357)
+440 - 841
 
 |
 
@@ -88,17 +56,17 @@ Cadre de premier niveau
 
 |
 
-379735
+(287-309-332-357)
+
+|
+
+Echelons provisoires
 
 |
 
 |
 
-Cadre de premier niveau
-
-|
-
-(780)
+379 - 735 (780)
 
 |
 
@@ -110,7 +78,9 @@ Cadre professionnel
 
 |
 
-(287309324335)
+(287-309-324-335)
+
+395 - 675
 
 |
 
@@ -118,21 +88,11 @@ Echelons provisoires
 
 |
 
-Cadre professionnel
-
-|
-
-346660
-
-|
-
-|
-
 Technicien supérieur
 
 |
 
-323638
+323 - 645
 
 |
 
@@ -142,7 +102,7 @@ Agent technique et de gestion de niveau supérieur
 
 |
 
-425638
+425 - 645
 
 |
 
@@ -152,7 +112,9 @@ Agent technique et de gestion de second niveau
 
 |
 
-(284307323347370)
+(284-307-323-347-370)
+
+384 - 614
 
 |
 
@@ -160,19 +122,11 @@ Echelons provisoires
 
 |
 
-Agent technique et de gestion de second niveau
+Agent technique et de gestion de premier niveau
 
 |
 
-384592
-
-|
-
-|
-
-Agent technique et de gestion de second niveau
-
-|
+358 - 592
 
 (612)
 
@@ -182,67 +136,13 @@ Echelon exceptionnel
 
 |
 
-Agent technique et de gestion de premier niveau
+Agent professionnel qualifié de second niveau
 
 |
 
 (284)
 
-|
-
-Echelon provisoire
-
-|
-
-Agent technique et de gestion de premier niveau
-
-|
-
-306544
-
-|
-
-|
-
-Agent technique et de gestion de premier niveau
-
-|
-
-(592612)
-
-|
-
-Echelons exceptionnels
-
-|
-
-Agent professionnel qualifié de second niveau
-
-|
-
-(281)
-
-|
-
-Echelon provisoire
-
-|
-
-Agent professionnel qualifié de second niveau
-
-|
-
-290479
-
-|
-
-|
-
-Agent professionnel qualifié de premier niveau
-
-|
-
-(281)
+353 - 543
 
 |
 
@@ -254,9 +154,13 @@ Agent professionnel qualifié de premier niveau
 
 |
 
-287449
+(281)
+
+338 - 465
 
 |
+
+Echelon provisoire
 
 |
 
@@ -264,8 +168,12 @@ Agent professionnel
 
 |
 
-281388
+(281)
+
+318 - 409
 
 |
+
+Echelon provisoire
 
 |
