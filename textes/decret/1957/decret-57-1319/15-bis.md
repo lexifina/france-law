@@ -1,24 +1,24 @@
 # Article 15 bis
 
-La durée moyenne et la durée minimale du temps passé dans chacun des échelons du grade de préposé sont fixées ainsi qu'il suit :
+La durée du temps passé dans chacun des échelons du grade de préposé est fixée ainsi qu'il suit :
 
 ÉCHELONS
 
 |
 
-DURÉES
+DURÉE
 
 |
 
-Moyenne
+12e échelon
 
 |
 
-Minimale
+3 ans
 
 |
 
-11e échelon
+8e, 9e, 10e et 11e échelons
 
 |
 
@@ -26,15 +26,7 @@ Minimale
 
 |
 
-3 ans
-
-|
-
-10e échelon
-
-|
-
-4 ans
+5e, 6e et 7e échelons
 
 |
 
@@ -42,99 +34,11 @@ Minimale
 
 |
 
-9e échelon
-
-|
-
-4 ans
-
-|
-
-3 ans
-
-|
-
-8e échelon
-
-|
-
-4 ans
-
-|
-
-3 ans
-
-|
-
-7e échelon
-
-|
-
-3 ans
+2e, 3e et 4e échelons
 
 |
 
 2 ans
-
-|
-
-6e échelon
-
-|
-
-3 ans
-
-|
-
-2 ans
-
-|
-
-5e échelon
-
-|
-
-3 ans
-
-|
-
-2 ans
-
-|
-
-4e échelon
-
-|
-
-2 ans
-
-|
-
-1 an 6 mois
-
-|
-
-3e échelon
-
-|
-
-2 ans
-
-|
-
-1 an 6 mois
-
-|
-
-2e échelon
-
-|
-
-2 ans
-
-|
-
-1 an 6 mois
 
 |
 
@@ -142,13 +46,7 @@ Minimale
 
 |
 
-1 an
-
-|
-
-1 an
-
-|
+1 an |
 
 NOTA :
 

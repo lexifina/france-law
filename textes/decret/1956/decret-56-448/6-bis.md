@@ -4,13 +4,13 @@ I. − Les fonctionnaires titulaires d'un grade classé en catégorie C ou D ou 
 
 Lorsque cette nomination à l'échelon déterminé par application de la disposition de l'alinéa précédent a pour résultat d'accorder aux intéressés un gain excédant 75 points indiciaires bruts, elle est prononcée à l'échelon inférieur le plus voisin tel que ce gain n'excède pas le chiffre précité.
 
-Ils conservent, dans la limite de l'ancienneté moyenne exigée pour une promotion à l'échelon supérieur du nouveau grade, l'ancienneté d'échelon qu'ils avaient acquise dans leur grade antérieur.
+Ils conservent, dans la limite de l'ancienneté exigée pour une promotion à l'échelon supérieur du nouveau grade, l'ancienneté d'échelon qu'ils avaient acquise dans leur grade antérieur.
 
-Dans le cas où l'application des dispositions du présent article aboutit à classer dans un même échelon des fonctionnaires appartenant à deux ou plusieurs échelons successifs d'un même grade, ces fonctionnaires sont rangés dans cet échelon d'après les modalités suivantes:
+Dans le cas où l'application des dispositions du présent article aboutit à classer dans un même échelon des fonctionnaires appartenant à deux ou plusieurs échelons successifs d'un même grade, ces fonctionnaires sont rangés dans cet échelon d'après les modalités suivantes :
 
-1. Lorsque les intéressés appartiennent à deux échelons successifs, seuls les fonctionnaires appartenant au plus élevé de ces échelons conservent, dans la limite prévue au troisième alinéa ci-dessus, l'ancienneté d'échelon qu'ils avaient acquise dans leur grade antérieur;
+1. Lorsque les intéressés appartiennent à deux échelons successifs, seuls les fonctionnaires appartenant au plus élevé de ces échelons conservent, dans la limite prévue au troisième alinéa ci-dessus, l'ancienneté d'échelon qu'ils avaient acquise dans leur grade antérieur ;
 
-2. Lorsque les intéressés appartiennent à plusieurs échelons successifs, seuls les fonctionnaires appartenant aux deux échelons les plus élevés bénéficient, dans leur nouvel échelon, d'une ancienneté déterminée conformément aux indications du tableau ci-après:
+2. Lorsque les intéressés appartiennent à plusieurs échelons successifs, seuls les fonctionnaires appartenant aux deux échelons les plus élevés bénéficient, dans leur nouvel échelon, d'une ancienneté déterminée conformément aux indications du tableau ci-après :
 
 ECHELON
 
@@ -32,13 +32,13 @@ l'échelon le plus élevé.
 
 Ancienneté d'échelon acquise dans le grade antérieur
 
-majorée de la moitié de la durée moyenne de service
+majorée de la moitié de la durée de service
 
 exigée pour l'accès à l'échelon supérieur du nouveau
 
 grade, l'ancienneté totale ne pouvant excéder cette
 
-durée moyenne.
+durée .
 
 |
 
@@ -52,7 +52,7 @@ inférieur.
 
 Ancienneté d'échelon acquise dans le grade antérieur
 
-dans la limite de la moitié de la durée moyenne de
+dans la limite de la moitié de la durée de
 
 service exigée pour l'accès à l'échelon supérieur du
 

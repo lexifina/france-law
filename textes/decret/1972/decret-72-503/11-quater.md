@@ -2,39 +2,29 @@
 
 La durée moyenne et la durée minimale du temps passé dans chacun des échelons du grade de contrôleur sont fixées ainsi qu'il suit :
 
-ECHELONS
+ÉCHELONS |
+
+DURÉE
 
 |
 
-DUREE
+14e échelon
 
 |
 
-Moyenne
+3 ans
 
 |
 
-Minimale |
+13e échelon
 
-13e |
+|
 
 4 ans
 
 |
 
-3 ans |
-
-12e
-
-|
-
-3 ans |
-
-2 ans 3 mois
-
-|
-
-11e
+7e, 8e, 9e, 10e, 11e et 12e échelons
 
 |
 
@@ -42,57 +32,7 @@ Minimale |
 
 |
 
-2 ans 3 mois
-
-|
-
-10e |
-
-3 ans
-
-|
-
-2 ans 3 mois
-
-|
-
-9e
-
-|
-
-3 ans
-
-|
-
-2 ans 3 mois
-
-|
-
-8e
-
-|
-
-3 ans
-
-|
-
-2 ans 3 mois
-
-|
-
-7e
-
-|
-
-3 ans
-
-|
-
-2 ans 3 mois
-
-|
-
-6e
+6e échelon
 
 |
 
@@ -100,9 +40,7 @@ Minimale |
 
 |
 
-1 an 6 mois |
-
-5e
+2e, 3e, 4e et 5e échelons
 
 |
 
@@ -110,37 +48,9 @@ Minimale |
 
 |
 
-1 an 6 mois |
-
-4e
+1er échelon
 
 |
-
-1 an 6 mois |
-
-1 an 6 mois |
-
-3e
-
-|
-
-1 an 6 mois |
-
-1 an 6 mois |
-
-2e
-
-|
-
-1 an 6 mois |
-
-1 an 6 mois |
-
-1er
-
-|
-
-1 an |
 
 1 an |
 

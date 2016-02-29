@@ -1,6 +1,6 @@
 # Article 17 bis
 
-Les fonctionnaires du corps des inspecteurs de La Poste et les fonctionnaires du corps des inspecteurs de France Télécom relèvent de la catégorie cadre au sens de l'article 3 des décrets n° 90-1111 et n° 90-1112 du 12 décembre 1990 portant respectivement statut de La Poste et de France Télécom.
+Les fonctionnaires du corps des inspecteurs de La Poste relèvent de la catégorie cadre au sens de l'article 4 du décret n° 2010-191 du 26 février 2010 fixant les statuts initiaux de La Poste et portant diverses dispositions relatives à La Poste.
 
 NOTA :
 

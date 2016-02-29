@@ -30,6 +30,14 @@ Technicien
 
 |
 
+14e échelon |
+
+9e
+
+|
+
+Ancienneté acquise (dans la limite de 3 ans 3 mois) |
+
 13e échelon
 
 |

@@ -6,6 +6,10 @@ Vous pouvez consulter le tableau dans le JO n° 0234 du 08/10/1992 à l'adresse 
 
 https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000000360396&pageCourante=13996
 
+Vous pouvez consulter le fac-similé dans le JO n° 0050 du 28/02/2016 à l'adresse suivante
+
+https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000032114707
+
 NOTA :
 
 Décret n° 2009-1555 du 14 décembre 2009 article 1 :

@@ -4,7 +4,7 @@ Les fonctionnaires appartenant à un corps de catégorie B ou de niveau équival
 
 Le détachement est prononcé à équivalence de grade, à l'échelon comportant un indice égal ou, à défaut, immédiatement supérieur à celui détenu dans le grade d'origine.
 
-Dans la limite de l'ancienneté moyenne exigée pour une promotion à l'échelon supérieur du grade dans lequel ils sont détachés, les intéressés conservent l'ancienneté d'échelon qu'ils avaient acquise dans l'échelon de leur grade d'origine, lorsque l'augmentation de traitement consécutive à leur détachement est inférieure à celle que leur aurait procurée un avancement d'échelon dans ce grade ou, s'ils étaient déjà à l'échelon terminal, à celle qui résulte d'un avancement à cet échelon.
+Dans la limite de l'ancienneté exigée pour une promotion à l'échelon supérieur du grade dans lequel ils sont détachés, les intéressés conservent l'ancienneté d'échelon qu'ils avaient acquise dans l'échelon de leur grade d'origine, lorsque l'augmentation de traitement consécutive à leur détachement est inférieure à celle que leur aurait procurée un avancement d'échelon dans ce grade ou, s'ils étaient déjà à l'échelon terminal, à celle qui résulte d'un avancement à cet échelon.
 
 Pendant leur détachement, ils concourent pour l'avancement d'échelon avec les fonctionnaires du corps dans lequel ils sont détachés.
 

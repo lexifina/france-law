@@ -4,7 +4,7 @@ Les fonctionnaires de La Poste, de France Télécom ou du ministère chargé des
 
 Lorsque cette nomination à l'échelon déterminé par application de la disposition de l'alinéa précédent a pour résultat d'accorder aux intéressés un gain excédant 75 points indiciaires bruts, elle est prononcée à l'échelon inférieur le plus voisin tel que ce gain n'excède pas le chiffre précité.
 
-Ils conservent, dans la limite de l'ancienneté moyenne exigée pour une promotion à l'échelon supérieur du nouveau grade, l'ancienneté d'échelon qu'ils avaient acquise dans leur grade antérieur.
+Ils conservent, dans la limite de l'ancienneté exigée pour une promotion à l'échelon supérieur du nouveau grade, l'ancienneté d'échelon qu'ils avaient acquise dans leur grade antérieur.
 
 Dans le cas où l'application des dispositions du présent article aboutit à classer dans un même échelon des fonctionnaires appartenant à deux ou plusieurs échelons successifs d'un même grade, ces fonctionnaires sont rangés dans cet échelon d'après les modalités suivantes :
 
@@ -34,7 +34,7 @@ Ancienneté d'échelon acquise dans le
 
 grade antérieur majorée de la moitié
 
-de la durée moyenne de service exigée
+de la durée de service exigée
 
 pour l'accès à l'échelon supérieur du
 
@@ -54,7 +54,7 @@ Ancienneté d'échelon acquise dans le
 
 grade antérieur dans la limite de la
 
-moitié de la durée moyenne de service
+moitié de la durée de service
 
 exigée pour l'accès à l'échelon supérieur
 
@@ -62,7 +62,7 @@ du nouveau grade.
 
 |
 
-Les agents non titulaires nommés au grade d'agent d'exploitation sont classés en prenant en compte à raison des trois quarts de leur durée les services civils qu'ils ont accomplis, sur la base de la durée moyenne de service exigée pour chaque avancement d'échelon.
+Les agents non titulaires nommés au grade d'agent d'exploitation sont classés en prenant en compte à raison des trois quarts de leur durée les services civils qu'ils ont accomplis, sur la base de la durée de service exigée pour chaque avancement d'échelon.
 
 Ce classement ne doit en aucun cas créer des situations plus favorables que celles qui résulteraient d'un classement à un échelon comportant un traitement égal ou, à défaut, immédiatement supérieur à celui perçu dans l'ancien emploi, avec conservation de l'ancienneté d'échelon dans les conditions définies aux troisième et quatrième alinéas du présent article.
 

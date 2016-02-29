@@ -1,26 +1,16 @@
 # Article 10 bis
 
-La durée moyenne et la durée minimale du temps passé dans chacun des échelons du grade d'agent d'exploitation sont fixées ainsi qu'il suit :
+La durée du temps passé dans chacun des échelons du grade d'agent d'exploitation est fixée ainsi qu'il suit :
 
-ECHELONS
-
-|
-
-DUREES
+ÉCHELONS
 
 |
 
-Moyenne |
-
-Minimale
+DURÉE
 
 |
 
-11e échelon
-
-|
-
-4 ans
+12e échelon
 
 |
 
@@ -28,7 +18,7 @@ Minimale
 
 |
 
-10e échelon
+8e, 9e, 10e et 11e échelons
 
 |
 
@@ -36,13 +26,7 @@ Minimale
 
 |
 
-3 ans |
-
-9e échelon
-
-|
-
-4 ans
+5e, 6e et 7e échelons
 
 |
 
@@ -50,89 +34,15 @@ Minimale
 
 |
 
-8e échelon
-
-|
-
-4 ans
-
-|
-
-3 ans
-
-|
-
-7e échelon
-
-|
-
-3 ans
+2e, 3e et 4e échelons
 
 |
 
 2 ans
-
-|
-
-6e échelon
-
-|
-
-3 ans
-
-|
-
-2 ans |
-
-5e échelon
-
-|
-
-3 ans
-
-|
-
-2 ans |
-
-4e échelon
-
-|
-
-2 ans
-
-|
-
-1 an 6 mois
-
-|
-
-3e échelon
-
-|
-
-2 ans |
-
-1 an 6 mois
-
-|
-
-2e échelon
-
-|
-
-2 ans
-
-|
-
-1 an 6 mois
 
 |
 
 1er échelon
-
-|
-
-1 an
 
 |
 
