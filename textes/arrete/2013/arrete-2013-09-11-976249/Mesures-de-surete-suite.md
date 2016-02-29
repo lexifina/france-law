@@ -720,17 +720,15 @@ Article 1-3-5 I-T - Obligations des personnes autres que les passagers
 
 Les personnes autres que les passagers sont tenues de se soumettre, ainsi que les objets qu'elles transportent, au dispositif en vigueur d'inspection filtrage.
 
-Article 1-3-6 I-T - Dispositions spécifiques à l'inspection filtrage des personnes autres que les passagers et aux personnels navigants et des objets qu'ils transportent
+Article 1-3-6 I-T - Dispositions spécifiques à l'inspection/ filtrage des personnes autres que les passagers et des objets qu'elles transportent.
 
-I.-Le point 4.1.1.1 de l'annexe du règlement (UE) n° 185/2010 susvisé s'applique aux personnes autres que les passagers et aux objets qu'elles transportent sauf :
+Les points 4.1.1.1,4.1.2.1 et 4.1.2.8 de l'annexe du règlement d'exécution (UE) 2015/1998 susvisé s'appliquent aux personnes autres que les passagers et aux objets qu'elles transportent, sauf :
 
 1. Aux titulaires d'un titre de circulation aéroportuaire valable pour l'aérodrome ;
 
 2. Aux personnels navigants en uniforme sur présentation d'un certificat de membre d'équipage d'un transporteur aérien communautaire tel que défini au point 5 de l'article 3 du règlement (CE) n° 300/2008 susvisé ;
 
-3. Aux personnels navigants sans uniforme, en fonctions ou en mise en place au sens du règlement (CE) n° 859/2008 de la Commission du 20 août 2008 sur présentation d'un justificatif de mission et d'un certificat de membre d'équipage d'un transporteur aérien communautaire tel que défini au point 5 de l'article 3 du règlement (CE) n° 300/2008 susvisé.
-
-II.-Les points 4.1.2.1 et 4.1.2.8 de l'annexe du règlement (UE) n° 185/2010 susvisé s'appliquent aux personnes autres que les passagers et aux personnels navigants en fonction ou en mise en place au sens du règlement (CE) n° 859/2008 susvisé et aux objets qu'ils transportent.
+3. Aux personnels navigants sans uniforme, en fonction ou en mise en place au sens du règlement (CE) n° 859/2008 de la Commission du 20 août 2008 sur présentation d'un justificatif de mission et d'un certificat de membre d'équipage d'un transporteur aérien communautaire tel que défini au point 5 de l'article 3 du règlement (CE) n° 300/2008 susvisé.
 
 Article 1-3-7 I-T - Conditions de mise en place de l'inspection filtrage des personnes autres que les passagers et des objets qu'elles transportent
 
