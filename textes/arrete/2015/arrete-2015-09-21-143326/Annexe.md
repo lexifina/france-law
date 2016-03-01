@@ -2,7 +2,7 @@
 
 PROGRAMME D'ENQUÊTES STATISTIQUES DES SERVICES PUBLICS AUPRÈS DES MÉNAGES ET DES COLLECTIVITÉS TERRITORIALES POUR 2016
 
-L'avis d'opportunité, l'avis de conformité ainsi que le descriptif des enquêtes sont disponibles sur le site du CNIS ( www.cnis.fr)
+L'avis d'opportunité, l'avis de conformité ainsi que le descriptif des enquêtes sont disponibles sur le site du CNIS ( http://www.cnis.fr/)
 
 1. Enquêtes d'intérêt général et obligatoires
 
@@ -236,6 +236,30 @@ INSEE
 
 |
 
+Emploi, insertion professionnelle, salaires
+
+Enquête sur l'insertion à six mois de sortants d'un contrat de professionnalisation
+
+|
+
+Annuelle
+
+|
+
+DARES
+
+|
+
+Projet MUSE (MUltimode sur l'enquête emploi) : deux expérimentations quantitatives |
+
+Ponctuelle
+
+|
+
+INSEE
+
+|
+
 SERVICES PUBLICS ET SERVICES AUX PUBLICS
 
 |
@@ -372,6 +396,30 @@ DARES et Pôle emploi
 
 |
 
+Emploi, insertion professionnelle, salaires
+
+Enquête Surveillance médicale des expositions des salariés aux risques professionnels (SUMER 2016-2017)
+
+|
+
+Ponctuelle
+
+|
+
+CÉREQ
+
+|
+
+Enquête de cheminement tous niveaux du système éducatif Génération 2013 |
+
+Ponctuelle
+
+|
+
+CÉREQ
+
+|
+
 SERVICES PUBLICS ET SERVICES AUX PUBLICS
 
 |
@@ -451,6 +499,18 @@ Annuelle
 |
 
 SIES
+
+|
+
+Enquête sur les délais d'attente en matière d'accès aux soins
+
+|
+
+Ponctuelle
+
+|
+
+DREES
 
 |
 
