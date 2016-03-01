@@ -1,113 +1,5 @@
 # Article Annexe 1 (suite)
 
-1471
-
-|
-
-05C121
-
-|
-
-Amputations du membre inférieur, sauf des orteils, pour troubles circulatoires, niveau 1
-
-|
-
-1472
-
-|
-
-05C122
-
-|
-
-Amputations du membre inférieur, sauf des orteils, pour troubles circulatoires, niveau 2
-
-|
-
-1473
-
-|
-
-05C123
-
-|
-
-Amputations du membre inférieur, sauf des orteils, pour troubles circulatoires, niveau 3
-
-|
-
-1474
-
-|
-
-05C124
-
-|
-
-Amputations du membre inférieur, sauf des orteils, pour troubles circulatoires, niveau 4
-
-|
-
-1475
-
-|
-
-05C131
-
-|
-
-Amputations pour troubles circulatoires portant sur le membre supérieur ou les orteils, niveau 1
-
-|
-
-1476
-
-|
-
-05C132
-
-|
-
-Amputations pour troubles circulatoires portant sur le membre supérieur ou les orteils, niveau 2
-
-|
-
-1477
-
-|
-
-05C133
-
-|
-
-Amputations pour troubles circulatoires portant sur le membre supérieur ou les orteils, niveau 3
-
-|
-
-1478
-
-|
-
-05C134
-
-|
-
-Amputations pour troubles circulatoires portant sur le membre supérieur ou les orteils, niveau 4
-
-|
-
-1532
-
-|
-
-05C13J
-
-|
-
-Amputations pour troubles circulatoires portant sur le membre supérieur ou les orteils, en ambulatoire
-
-|
-
 1479
 
 |
@@ -624,6 +516,10 @@ Endoprothèses vasculaires sans infarctus du myocarde, niveau 1
 
 |
 
+1854
+
+|
+
 1698
 
 |
@@ -633,6 +529,10 @@ Endoprothèses vasculaires sans infarctus du myocarde, niveau 1
 |
 
 Endoprothèses vasculaires sans infarctus du myocarde, niveau 2
+
+|
+
+1855
 
 |
 
@@ -648,6 +548,10 @@ Endoprothèses vasculaires sans infarctus du myocarde, niveau 3
 
 |
 
+1856
+
+|
+
 1700
 
 |
@@ -657,6 +561,10 @@ Endoprothèses vasculaires sans infarctus du myocarde, niveau 3
 |
 
 Endoprothèses vasculaires sans infarctus du myocarde, niveau 4
+
+|
+
+1857
 
 |
 
@@ -672,6 +580,10 @@ Endoprothèses vasculaires sans infarctus du myocarde, très courte durée
 
 |
 
+1858
+
+|
+
 1702
 
 |
@@ -681,6 +593,10 @@ Endoprothèses vasculaires sans infarctus du myocarde, très courte durée
 |
 
 Actes diagnostiques par voie vasculaire, niveau 1
+
+|
+
+1859
 
 |
 
@@ -696,6 +612,10 @@ Actes diagnostiques par voie vasculaire, niveau 2
 
 |
 
+1860
+
+|
+
 1704
 
 |
@@ -705,6 +625,10 @@ Actes diagnostiques par voie vasculaire, niveau 2
 |
 
 Actes diagnostiques par voie vasculaire, niveau 3
+
+|
+
+1861
 
 |
 
@@ -720,6 +644,10 @@ Actes diagnostiques par voie vasculaire, niveau 4
 
 |
 
+1862
+
+|
+
 1706
 
 |
@@ -729,6 +657,10 @@ Actes diagnostiques par voie vasculaire, niveau 4
 |
 
 Actes diagnostiques par voie vasculaire, en ambulatoire
+
+|
+
+1863
 
 |
 
@@ -800,7 +732,7 @@ Mise en place de certains accès vasculaires pour des affections de la CMD 05, s
 
 |
 
-Surveillances de greffes de coeur avec acte diagnostique par voie vasculaire, niveau 1
+Surveillances de greffes de cœur avec acte diagnostique par voie vasculaire, niveau 1
 
 |
 
@@ -812,7 +744,7 @@ Surveillances de greffes de coeur avec acte diagnostique par voie vasculaire, ni
 
 |
 
-Surveillances de greffes de coeur avec acte diagnostique par voie vasculaire, niveau 2
+Surveillances de greffes de cœur avec acte diagnostique par voie vasculaire, niveau 2
 
 |
 
@@ -824,7 +756,7 @@ Surveillances de greffes de coeur avec acte diagnostique par voie vasculaire, ni
 
 |
 
-Surveillances de greffes de coeur avec acte diagnostique par voie vasculaire, niveau 3
+Surveillances de greffes de cœur avec acte diagnostique par voie vasculaire, niveau 3
 
 |
 
@@ -836,7 +768,7 @@ Surveillances de greffes de coeur avec acte diagnostique par voie vasculaire, ni
 
 |
 
-Surveillances de greffes de coeur avec acte diagnostique par voie vasculaire, niveau 4
+Surveillances de greffes de cœur avec acte diagnostique par voie vasculaire, niveau 4
 
 |
 
@@ -848,7 +780,7 @@ Surveillances de greffes de coeur avec acte diagnostique par voie vasculaire, ni
 
 |
 
-Surveillances de greffes de coeur avec acte diagnostique par voie vasculaire, en ambulatoire
+Surveillances de greffes de cœur avec acte diagnostique par voie vasculaire, en ambulatoire
 
 |
 
@@ -1028,7 +960,7 @@ Poses de bioprothèses de valves cardiaques par voie vasculaire, niveau 4
 
 |
 
-Actes thérapeutiques par voie vasculaire sur les orifices du coeur, âge supérieur à 17 ans, niveau 1
+Actes thérapeutiques par voie vasculaire sur les orifices du cœur, âge supérieur à 17 ans, niveau 1
 
 |
 
@@ -1040,7 +972,7 @@ Actes thérapeutiques par voie vasculaire sur les orifices du coeur, âge supér
 
 |
 
-Actes thérapeutiques par voie vasculaire sur les orifices du coeur, âge supérieur à 17 ans, niveau 2
+Actes thérapeutiques par voie vasculaire sur les orifices du cœur, âge supérieur à 17 ans, niveau 2
 
 |
 
@@ -1052,7 +984,7 @@ Actes thérapeutiques par voie vasculaire sur les orifices du coeur, âge supér
 
 |
 
-Actes thérapeutiques par voie vasculaire sur les orifices du coeur, âge supérieur à 17 ans, niveau 3
+Actes thérapeutiques par voie vasculaire sur les orifices du cœur, âge supérieur à 17 ans, niveau 3
 
 |
 
@@ -1064,7 +996,7 @@ Actes thérapeutiques par voie vasculaire sur les orifices du coeur, âge supér
 
 |
 
-Actes thérapeutiques par voie vasculaire sur les orifices du coeur, âge supérieur à 17 ans, niveau 4
+Actes thérapeutiques par voie vasculaire sur les orifices du cœur, âge supérieur à 17 ans, niveau 4
 
 |
 
@@ -1136,7 +1068,7 @@ Ablations, repositionnements et poses de sondes cardiaques supplémentaires par 
 
 |
 
-Dilatations coronaires et autres actes thérapeutiques sur le coeur par voie vasculaire, âge supérieur à 17 ans, niveau 1
+Dilatations coronaires et autres actes thérapeutiques sur le cœur par voie vasculaire, âge supérieur à 17 ans, niveau 1
 
 |
 
@@ -1148,7 +1080,7 @@ Dilatations coronaires et autres actes thérapeutiques sur le coeur par voie vas
 
 |
 
-Dilatations coronaires et autres actes thérapeutiques sur le coeur par voie vasculaire, âge supérieur à 17 ans, niveau 2
+Dilatations coronaires et autres actes thérapeutiques sur le cœur par voie vasculaire, âge supérieur à 17 ans, niveau 2
 
 |
 
@@ -1160,7 +1092,7 @@ Dilatations coronaires et autres actes thérapeutiques sur le coeur par voie vas
 
 |
 
-Dilatations coronaires et autres actes thérapeutiques sur le coeur par voie vasculaire, âge supérieur à 17 ans, niveau 3
+Dilatations coronaires et autres actes thérapeutiques sur le cœur par voie vasculaire, âge supérieur à 17 ans, niveau 3
 
 |
 
@@ -1172,7 +1104,7 @@ Dilatations coronaires et autres actes thérapeutiques sur le coeur par voie vas
 
 |
 
-Dilatations coronaires et autres actes thérapeutiques sur le coeur par voie vasculaire, âge supérieur à 17 ans, niveau 4
+Dilatations coronaires et autres actes thérapeutiques sur le cœur par voie vasculaire, âge supérieur à 17 ans, niveau 4
 
 |
 
@@ -1184,7 +1116,7 @@ Dilatations coronaires et autres actes thérapeutiques sur le coeur par voie vas
 
 |
 
-Dilatations coronaires et autres actes thérapeutiques sur le coeur par voie vasculaire, âge supérieur à 17 ans, en ambulatoire
+Dilatations coronaires et autres actes thérapeutiques sur le cœur par voie vasculaire, âge supérieur à 17 ans, en ambulatoire
 
 |
 
@@ -2204,7 +2136,7 @@ Transferts et autres séjours courts pour endocardites aiguës et subaiguës
 
 |
 
-Surveillances de greffes de coeur sans acte diagnostique par voie vasculaire, niveau 1
+Surveillances de greffes de cœur sans acte diagnostique par voie vasculaire, niveau 1
 
 |
 
@@ -2216,7 +2148,7 @@ Surveillances de greffes de coeur sans acte diagnostique par voie vasculaire, ni
 
 |
 
-Surveillances de greffes de coeur sans acte diagnostique par voie vasculaire, niveau 2
+Surveillances de greffes de cœur sans acte diagnostique par voie vasculaire, niveau 2
 
 |
 
@@ -2228,7 +2160,7 @@ Surveillances de greffes de coeur sans acte diagnostique par voie vasculaire, ni
 
 |
 
-Surveillances de greffes de coeur sans acte diagnostique par voie vasculaire, niveau 3
+Surveillances de greffes de cœur sans acte diagnostique par voie vasculaire, niveau 3
 
 |
 
@@ -2240,7 +2172,7 @@ Surveillances de greffes de coeur sans acte diagnostique par voie vasculaire, ni
 
 |
 
-Surveillances de greffes de coeur sans acte diagnostique par voie vasculaire, niveau 4
+Surveillances de greffes de cœur sans acte diagnostique par voie vasculaire, niveau 4
 
 |
 
@@ -3376,7 +3308,7 @@ Affections digestives sans acte opératoire de la CMD 06, avec anesthésie, en a
 
 |
 
-Autres gastro-entérites et maladies diverses du tube digestif, âge inférieur à 18 ans, niveau 1
+Autres gastroentérites et maladies diverses du tube digestif, âge inférieur à 18 ans, niveau 1
 
 |
 
@@ -3388,7 +3320,7 @@ Autres gastro-entérites et maladies diverses du tube digestif, âge inférieur 
 
 |
 
-Autres gastro-entérites et maladies diverses du tube digestif, âge inférieur à 18 ans, niveau 2
+Autres gastroentérites et maladies diverses du tube digestif, âge inférieur à 18 ans, niveau 2
 
 |
 
@@ -3400,7 +3332,7 @@ Autres gastro-entérites et maladies diverses du tube digestif, âge inférieur 
 
 |
 
-Autres gastro-entérites et maladies diverses du tube digestif, âge inférieur à 18 ans, niveau 3
+Autres gastroentérites et maladies diverses du tube digestif, âge inférieur à 18 ans, niveau 3
 
 |
 
@@ -3412,7 +3344,7 @@ Autres gastro-entérites et maladies diverses du tube digestif, âge inférieur 
 
 |
 
-Autres gastro-entérites et maladies diverses du tube digestif, âge inférieur à 18 ans, niveau 4
+Autres gastroentérites et maladies diverses du tube digestif, âge inférieur à 18 ans, niveau 4
 
 |
 
@@ -3424,7 +3356,7 @@ Autres gastro-entérites et maladies diverses du tube digestif, âge inférieur 
 
 |
 
-Autres gastro-entérites et maladies diverses du tube digestif, âge inférieur à 18 ans, très courte durée
+Autres gastroentérites et maladies diverses du tube digestif, âge inférieur à 18 ans, très courte durée
 
 |
 
@@ -3436,7 +3368,7 @@ Autres gastro-entérites et maladies diverses du tube digestif, âge inférieur 
 
 |
 
-Autres gastro-entérites et maladies diverses du tube digestif, âge supérieur à 17 ans, niveau 1
+Autres gastroentérites et maladies diverses du tube digestif, âge supérieur à 17 ans, niveau 1
 
 |
 
@@ -3448,7 +3380,7 @@ Autres gastro-entérites et maladies diverses du tube digestif, âge supérieur 
 
 |
 
-Autres gastro-entérites et maladies diverses du tube digestif, âge supérieur à 17 ans, niveau 2
+Autres gastroentérites et maladies diverses du tube digestif, âge supérieur à 17 ans, niveau 2
 
 |
 
@@ -3460,7 +3392,7 @@ Autres gastro-entérites et maladies diverses du tube digestif, âge supérieur 
 
 |
 
-Autres gastro-entérites et maladies diverses du tube digestif, âge supérieur à 17 ans, niveau 3
+Autres gastroentérites et maladies diverses du tube digestif, âge supérieur à 17 ans, niveau 3
 
 |
 
@@ -3472,7 +3404,7 @@ Autres gastro-entérites et maladies diverses du tube digestif, âge supérieur 
 
 |
 
-Autres gastro-entérites et maladies diverses du tube digestif, âge supérieur à 17 ans, niveau 4
+Autres gastroentérites et maladies diverses du tube digestif, âge supérieur à 17 ans, niveau 4
 
 |
 
@@ -3484,7 +3416,7 @@ Autres gastro-entérites et maladies diverses du tube digestif, âge supérieur 
 
 |
 
-Autres gastro-entérites et maladies diverses du tube digestif, âge supérieur à 17 ans, très courte durée
+Autres gastroentérites et maladies diverses du tube digestif, âge supérieur à 17 ans, très courte durée
 
 |
 
@@ -4084,7 +4016,7 @@ Tumeurs malignes de l'œsophage et de l'estomac, très courte durée
 
 |
 
-Invaginations intestinales aiguës, niveau 1
+Invaginations intestinales aigües, niveau 1
 
 |
 
@@ -4096,7 +4028,7 @@ Invaginations intestinales aiguës, niveau 1
 
 |
 
-Invaginations intestinales aiguës, niveau 2
+Invaginations intestinales aigües, niveau 2
 
 |
 
@@ -4108,7 +4040,7 @@ Invaginations intestinales aiguës, niveau 2
 
 |
 
-Invaginations intestinales aiguës, niveau 3
+Invaginations intestinales aigües, niveau 3
 
 |
 
@@ -4120,7 +4052,7 @@ Invaginations intestinales aiguës, niveau 3
 
 |
 
-Invaginations intestinales aiguës, niveau 4
+Invaginations intestinales aigües, niveau 4
 
 |
 
@@ -4696,7 +4628,7 @@ Autres interventions sur les voies biliaires sauf cholécystectomies isolées, n
 
 |
 
-Cholécystectomies sans exploration de la voie biliaire principale pour affections aiguës, niveau 1
+Cholécystectomies sans exploration de la voie biliaire principale pour affections aigües, niveau 1
 
 |
 
@@ -4708,7 +4640,7 @@ Cholécystectomies sans exploration de la voie biliaire principale pour affectio
 
 |
 
-Cholécystectomies sans exploration de la voie biliaire principale pour affections aiguës, niveau 2
+Cholécystectomies sans exploration de la voie biliaire principale pour affections aigües, niveau 2
 
 |
 
@@ -4720,7 +4652,7 @@ Cholécystectomies sans exploration de la voie biliaire principale pour affectio
 
 |
 
-Cholécystectomies sans exploration de la voie biliaire principale pour affections aiguës, niveau 3
+Cholécystectomies sans exploration de la voie biliaire principale pour affections aigües, niveau 3
 
 |
 
@@ -4732,7 +4664,7 @@ Cholécystectomies sans exploration de la voie biliaire principale pour affectio
 
 |
 
-Cholécystectomies sans exploration de la voie biliaire principale pour affections aiguës, niveau 4
+Cholécystectomies sans exploration de la voie biliaire principale pour affections aigües, niveau 4
 
 |
 
@@ -4744,7 +4676,7 @@ Cholécystectomies sans exploration de la voie biliaire principale pour affectio
 
 |
 
-Cholécystectomies sans exploration de la voie biliaire principale à l'exception des affections aiguës, niveau 1
+Cholécystectomies sans exploration de la voie biliaire principale à l'exception des affections aigües, niveau 1
 
 |
 
@@ -4756,7 +4688,7 @@ Cholécystectomies sans exploration de la voie biliaire principale à l'exceptio
 
 |
 
-Cholécystectomies sans exploration de la voie biliaire principale à l'exception des affections aiguës, niveau 2
+Cholécystectomies sans exploration de la voie biliaire principale à l'exception des affections aigües, niveau 2
 
 |
 
@@ -4768,7 +4700,7 @@ Cholécystectomies sans exploration de la voie biliaire principale à l'exceptio
 
 |
 
-Cholécystectomies sans exploration de la voie biliaire principale à l'exception des affections aiguës, niveau 3
+Cholécystectomies sans exploration de la voie biliaire principale à l'exception des affections aigües, niveau 3
 
 |
 
@@ -4780,7 +4712,7 @@ Cholécystectomies sans exploration de la voie biliaire principale à l'exceptio
 
 |
 
-Cholécystectomies sans exploration de la voie biliaire principale à l'exception des affections aiguës, niveau 4
+Cholécystectomies sans exploration de la voie biliaire principale à l'exception des affections aigües, niveau 4
 
 |
 
@@ -4792,7 +4724,7 @@ Cholécystectomies sans exploration de la voie biliaire principale à l'exceptio
 
 |
 
-Cholécystectomies sans exploration de la voie biliaire principale à l'exception des affections aiguës, en ambulatoire
+Cholécystectomies sans exploration de la voie biliaire principale à l'exception des affections aigües, en ambulatoire
 
 |
 
@@ -5248,7 +5180,7 @@ Hépatites chroniques, très courte durée
 
 |
 
-Pancréatites aiguës, niveau 1
+Pancréatites aigües, niveau 1
 
 |
 
@@ -5260,7 +5192,7 @@ Pancréatites aiguës, niveau 1
 
 |
 
-Pancréatites aiguës, niveau 2
+Pancréatites aigües, niveau 2
 
 |
 
@@ -5272,7 +5204,7 @@ Pancréatites aiguës, niveau 2
 
 |
 
-Pancréatites aiguës, niveau 3
+Pancréatites aigües, niveau 3
 
 |
 
@@ -5284,7 +5216,7 @@ Pancréatites aiguës, niveau 3
 
 |
 
-Pancréatites aiguës, niveau 4
+Pancréatites aigües, niveau 4
 
 |
 
@@ -5296,7 +5228,7 @@ Pancréatites aiguës, niveau 4
 
 |
 
-Pancréatites aiguës, très courte durée
+Pancréatites aigües, très courte durée
 
 |
 
@@ -5560,7 +5492,7 @@ Ictères du nouveau-né, niveau 4
 
 |
 
-Interventions majeures multiples sur les genoux et/ ou les hanches, niveau 1
+Interventions majeures multiples sur les genoux et/ou les hanches, niveau 1
 
 |
 
@@ -5572,7 +5504,7 @@ Interventions majeures multiples sur les genoux et/ ou les hanches, niveau 1
 
 |
 
-Interventions majeures multiples sur les genoux et/ ou les hanches, niveau 2
+Interventions majeures multiples sur les genoux et/ou les hanches, niveau 2
 
 |
 
@@ -5584,7 +5516,7 @@ Interventions majeures multiples sur les genoux et/ ou les hanches, niveau 2
 
 |
 
-Interventions majeures multiples sur les genoux et/ ou les hanches, niveau 3
+Interventions majeures multiples sur les genoux et/ou les hanches, niveau 3
 
 |
 
@@ -5596,7 +5528,7 @@ Interventions majeures multiples sur les genoux et/ ou les hanches, niveau 3
 
 |
 
-Interventions majeures multiples sur les genoux et/ ou les hanches, niveau 4
+Interventions majeures multiples sur les genoux et/ou les hanches, niveau 4
 
 |
 
@@ -5764,7 +5696,7 @@ Biopsies ostéoarticulaires, en ambulatoire
 
 |
 
-Résections osseuses localisées et/ ou ablation de matériel de fixation interne au niveau de la hanche et du fémur, niveau 1
+Résections osseuses localisées et/ou ablation de matériel de fixation interne au niveau de la hanche et du fémur, niveau 1
 
 |
 
@@ -5776,7 +5708,7 @@ Résections osseuses localisées et/ ou ablation de matériel de fixation intern
 
 |
 
-Résections osseuses localisées et/ ou ablation de matériel de fixation interne au niveau de la hanche et du fémur, niveau 2
+Résections osseuses localisées et/ou ablation de matériel de fixation interne au niveau de la hanche et du fémur, niveau 2
 
 |
 
@@ -5788,7 +5720,7 @@ Résections osseuses localisées et/ ou ablation de matériel de fixation intern
 
 |
 
-Résections osseuses localisées et/ ou ablation de matériel de fixation interne au niveau de la hanche et du fémur, niveau 3
+Résections osseuses localisées et/ou ablation de matériel de fixation interne au niveau de la hanche et du fémur, niveau 3
 
 |
 
@@ -5800,7 +5732,7 @@ Résections osseuses localisées et/ ou ablation de matériel de fixation intern
 
 |
 
-Résections osseuses localisées et/ ou ablation de matériel de fixation interne au niveau de la hanche et du fémur, niveau 4
+Résections osseuses localisées et/ou ablation de matériel de fixation interne au niveau de la hanche et du fémur, niveau 4
 
 |
 
@@ -5812,7 +5744,7 @@ Résections osseuses localisées et/ ou ablation de matériel de fixation intern
 
 |
 
-Résections osseuses localisées et/ ou ablation de matériel de fixation interne au niveau de la hanche et du fémur, en ambulatoire
+Résections osseuses localisées et/ou ablation de matériel de fixation interne au niveau de la hanche et du fémur, en ambulatoire
 
 |
 
@@ -5824,7 +5756,7 @@ Résections osseuses localisées et/ ou ablation de matériel de fixation intern
 
 |
 
-Résections osseuses localisées et/ ou ablation de matériel de fixation interne au niveau d'une localisation autre que la hanche et le fémur, niveau 1
+Résections osseuses localisées et/ou ablation de matériel de fixation interne au niveau d'une localisation autre que la hanche et le fémur, niveau 1
 
 |
 
@@ -5836,7 +5768,7 @@ Résections osseuses localisées et/ ou ablation de matériel de fixation intern
 
 |
 
-Résections osseuses localisées et/ ou ablation de matériel de fixation interne au niveau d'une localisation autre que la hanche et le fémur, niveau 2
+Résections osseuses localisées et/ou ablation de matériel de fixation interne au niveau d'une localisation autre que la hanche et le fémur, niveau 2
 
 |
 
@@ -5848,7 +5780,7 @@ Résections osseuses localisées et/ ou ablation de matériel de fixation intern
 
 |
 
-Résections osseuses localisées et/ ou ablation de matériel de fixation interne au niveau d'une localisation autre que la hanche et le fémur, niveau 3
+Résections osseuses localisées et/ou ablation de matériel de fixation interne au niveau d'une localisation autre que la hanche et le fémur, niveau 3
 
 |
 
@@ -5860,7 +5792,7 @@ Résections osseuses localisées et/ ou ablation de matériel de fixation intern
 
 |
 
-Résections osseuses localisées et/ ou ablation de matériel de fixation interne au niveau d'une localisation autre que la hanche et le fémur, niveau 4
+Résections osseuses localisées et/ou ablation de matériel de fixation interne au niveau d'une localisation autre que la hanche et le fémur, niveau 4
 
 |
 
@@ -5872,7 +5804,7 @@ Résections osseuses localisées et/ ou ablation de matériel de fixation intern
 
 |
 
-Résections osseuses localisées et/ ou ablation de matériel de fixation interne au niveau d'une localisation autre que la hanche et le fémur, en ambulatoire
+Résections osseuses localisées et/ou ablation de matériel de fixation interne au niveau d'une localisation autre que la hanche et le fémur, en ambulatoire
 
 |
 
@@ -8525,125 +8457,5 @@ Maladies osseuses et arthropathies spécifiques, niveau 4
 |
 
 Maladies osseuses et arthropathies spécifiques, très courte durée
-
-|
-
-3068
-
-|
-
-08M141
-
-|
-
-Affections du tissu conjonctif, niveau 1
-
-|
-
-3069
-
-|
-
-08M142
-
-|
-
-Affections du tissu conjonctif, niveau 2
-
-|
-
-3070
-
-|
-
-08M143
-
-|
-
-Affections du tissu conjonctif, niveau 3
-
-|
-
-3071
-
-|
-
-08M144
-
-|
-
-Affections du tissu conjonctif, niveau 4
-
-|
-
-3072
-
-|
-
-08M14T
-
-|
-
-Affections du tissu conjonctif, très courte durée
-
-|
-
-3073
-
-|
-
-08M151
-
-|
-
-Tendinites, myosites et bursites, niveau 1
-
-|
-
-3074
-
-|
-
-08M152
-
-|
-
-Tendinites, myosites et bursites, niveau 2
-
-|
-
-3075
-
-|
-
-08M153
-
-|
-
-Tendinites, myosites et bursites, niveau 3
-
-|
-
-3076
-
-|
-
-08M154
-
-|
-
-Tendinites, myosites et bursites, niveau 4
-
-|
-
-3167
-
-|
-
-08M15T
-
-|
-
-Tendinites, myosites et bursites, très courte durée
 
 |

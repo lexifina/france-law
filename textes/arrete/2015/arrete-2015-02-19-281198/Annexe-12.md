@@ -2,13 +2,13 @@
 
 Listes des GHM et des diagnostics autorisant le supplément ante partum
 
-Liste 1. Liste des GHM autorisant le supplément ante partum
+Liste 1 : liste des GHM autorisant le supplément ante partum
 
 N° GHM
 
 |
 
-LIBELLÉ
+Libellé
 
 |
 
@@ -276,13 +276,13 @@ Accouchements uniques par voie basse chez une multipare
 
 |
 
-Liste 2. Liste des affections relatives à l'ante partum
+Liste 2 : liste des affections relatives à l'ante partum
 
-CODE
+CODES
 
 |
 
-LIBELLÉ
+LIBELLÉS
 
 |
 
@@ -354,7 +354,7 @@ O12.0
 
 |
 
-Œdème gestationnel
+Oedème gestationnel
 
 |
 
@@ -370,7 +370,7 @@ O12.2
 
 |
 
-Œdème gestationnel avec protéinurie
+Oedème gestationnel avec protéinurie
 
 |
 
@@ -402,7 +402,7 @@ O14.2
 
 |
 
-Syndrome HELLP
+HELLP syndrome
 
 |
 
@@ -418,7 +418,7 @@ O15.0
 
 |
 
-Eclampsie au cours de la grossesse
+Éclampsie au cours de la grossesse
 
 |
 
@@ -426,7 +426,7 @@ O15.1
 
 |
 
-Eclampsie au cours du travail
+Éclampsie au cours du travail
 
 |
 
@@ -434,7 +434,7 @@ O15.9
 
 |
 
-Eclampsie, sans précision quant à la période
+Éclampsie, sans précision quant à la période
 
 |
 
@@ -514,7 +514,7 @@ O22.0
 
 |
 
-Varices (des membres inférieurs) au cours de la grossesse
+Varices des membres inférieurs au cours de la grossesse
 
 |
 
@@ -530,7 +530,7 @@ O22.2
 
 |
 
-Thrombophlébite (superficielle) au cours de la grossesse
+Thrombophlébite superficielle au cours de la grossesse
 
 |
 
@@ -610,7 +610,7 @@ O23.4
 
 |
 
-Infection non précisée de l'appareil urinaire au cours de la grossesse
+Infection de l'appareil urinaire sans précision au cours de la grossesse
 
 |
 
@@ -634,7 +634,7 @@ O24.0
 
 |
 
-Diabète sucré préexistant de type 1, au cours de la grossesse
+Diabète sucré préexistant, de type 1
 
 |
 
@@ -642,7 +642,7 @@ O24.1
 
 |
 
-Diabète sucré préexistant de type 2, au cours de la grossesse
+Diabète sucré préexistant, de type 2
 
 |
 
@@ -650,7 +650,7 @@ O24.2
 
 |
 
-Diabète sucré préexistant lié à la malnutrition, au cours de la grossesse
+Diabète sucré préexistant lié à la malnutrition, (au cours de la grossesse)
 
 |
 
@@ -658,7 +658,7 @@ O24.3
 
 |
 
-Diabète sucré préexistant, sans précision, au cours de la grossesse
+Diabète sucré préexistant, sans précision, (au cours de la grossesse)
 
 |
 
@@ -874,7 +874,7 @@ O29.6
 
 |
 
-Echec ou difficulté d'intubation au cours de la grossesse
+Échec ou difficulté d'intubation au cours de la grossesse
 
 |
 
@@ -898,7 +898,7 @@ O30.0
 
 |
 
-Grossesse multiple : jumeaux
+Jumeaux
 
 |
 
@@ -906,7 +906,7 @@ O30.1
 
 |
 
-Grossesse multiple : triplés
+Triplés
 
 |
 
@@ -914,7 +914,7 @@ O30.2
 
 |
 
-Grossesse multiple : quadruplés
+Quadruplés
 
 |
 
@@ -1058,7 +1058,7 @@ O33.2
 
 |
 
-Soins maternels pour disproportion due à un rétrécissement du détroit supérieur (du bassin maternel)
+Soins maternels pour disproportion due à un rétrécissement du détroit supérieur du bassin maternel
 
 |
 
@@ -1074,7 +1074,7 @@ O33.4
 
 |
 
-Soins maternels pour disproportion fœto-pelvienne d'origine mixte, maternelle et fœtale
+Soins maternels pour disproportion foeto-pelvienne d'origine mixte, maternelle et fœtale
 
 |
 
@@ -1298,7 +1298,7 @@ O36.2
 
 |
 
-Soins maternels pour anasarque fœto-placentaire
+Soins maternels pour anasarque foeto-placentaire
 
 |
 
@@ -1414,14 +1414,6 @@ Rupture prématurée des membranes, travail retardé par traitement
 
 |
 
-O42.9
-
-|
-
-Rupture prématurée des membranes, sans précision
-
-|
-
 O43.0
 
 |
@@ -1466,7 +1458,7 @@ O44.0
 
 |
 
-Placenta prævia précisé sans hémorragie
+Placenta praevia précisé sans hémorragie
 
 |
 
@@ -1474,7 +1466,7 @@ O44.1
 
 |
 
-Placenta prævia avec hémorragie
+Placenta praevia avec hémorragie
 
 |
 
@@ -1530,7 +1522,7 @@ O47.0
 
 |
 
-Faux travail avant 37 semaines entières de gestation [menace d'accouchement prématuré]
+Faux travail avant 37 semaines révolues de gestation
 
 |
 
@@ -1538,7 +1530,7 @@ O47.1
 
 |
 
-Faux travail à ou après la 37e semaine entière de gestation
+Faux travail à ou après la 37ème semaine révolues de gestation
 
 |
 
@@ -1586,7 +1578,7 @@ O61.0
 
 |
 
-Echec du déclenchement médical (du travail)
+Échec du déclenchement médical du travail
 
 |
 
@@ -1594,7 +1586,7 @@ O61.1
 
 |
 
-Echec du déclenchement instrumental (du travail)
+Échec du déclenchement instrumental du travail
 
 |
 
@@ -1610,7 +1602,7 @@ O61.9
 
 |
 
-Echec du déclenchement du travail, sans précision
+Échec du déclenchement du travail, sans précision
 
 |
 
@@ -1626,7 +1618,7 @@ O66.4
 
 |
 
-Echec de l'épreuve de travail, sans précision
+Échec de l'épreuve de travail, sans précision
 
 |
 
@@ -1674,7 +1666,7 @@ O88.2
 
 |
 
-Embolie obstétricale (par caillot sanguin)
+Embolie obstétricale par caillot sanguin
 
 |
 
@@ -1714,7 +1706,7 @@ O91.2
 
 |
 
-Mastite (non purulente) associée à l'accouchement
+Mastite non purulente associée à l'accouchement
 
 |
 

@@ -1,16 +1,22 @@
 # Article Annexe 7
 
-Liste 1. Actes marqueurs de suppléance vitale pour lesquels une occurrence suffit
+Liste 1 : actes marqueurs de suppléance vitale pour lesquels une occurrence suffit
 
 CODE
 
 |
 
-LIBELLÉ DE L'ACTE CCAM
+EXT. PMSI
 
 |
 
-ABQP001-00
+LIBELLÉ DE L'ACTE
+
+|
+
+ABQP001
+
+|
 
 |
 
@@ -18,7 +24,9 @@ Surveillance continue de la pression intracrânienne, par 24 heures
 
 |
 
-DCJB001-00
+DCJB001
+
+|
 
 |
 
@@ -26,23 +34,29 @@ Drainage d'une collection du péricarde, par voie transcutanée
 
 |
 
-DCJB002-00
+DCJB002
 
 |
 
-Evacuation d'une collection du péricarde, par voie transcutanée
+|
+
+Évacuation d'une collection du péricarde, par voie transcutanée
 
 |
 
-DERP004-00
+DERP004
 
 |
 
-Choc électrique cardiaque transcutané [cardioversion externe], en urgence
+|
+
+Choc électrique cardiaque transcutané [Cardioversion externe], en urgence
 
 |
 
-DERP005-00
+DERP005
+
+|
 
 |
 
@@ -50,7 +64,9 @@ Stimulation cardiaque temporaire transcutanée
 
 |
 
-DFNF001-00
+DFNF001
+
+|
 
 |
 
@@ -58,7 +74,9 @@ Fibrinolyse in situ de l'artère pulmonaire, par voie veineuse transcutanée
 
 |
 
-DKMD001-00
+DKMD001
+
+|
 
 |
 
@@ -66,7 +84,9 @@ Ressuscitation cardiorespiratoire avec intubation trachéale, en dehors d'un blo
 
 |
 
-DKMD002-00
+DKMD002
+
+|
 
 |
 
@@ -74,7 +94,9 @@ Ressuscitation cardiorespiratoire avec intubation trachéale, dans un bloc médi
 
 |
 
-EQCF001-00
+EQCF001
+
+|
 
 |
 
@@ -82,7 +104,9 @@ Circulation extracorporelle pour réchauffement d'une hypothermie accidentelle
 
 |
 
-EQLF002-00
+EQLF002
+
+|
 
 |
 
@@ -90,7 +114,9 @@ Perfusion intraveineuse de produit de remplissage à un débit supérieur à 50 
 
 |
 
-EQLF003-00
+EQLF003
+
+|
 
 |
 
@@ -98,7 +124,9 @@ Injection intraveineuse continue de dobutamine ou de dopamine à débit supérie
 
 |
 
-EQLF005-00
+EQLF005
+
+|
 
 |
 
@@ -106,7 +134,9 @@ Administration intraveineuse continue d'agent pharmacologique vasoactif chez le 
 
 |
 
-EQMF003-00
+EQMF003
+
+|
 
 |
 
@@ -114,7 +144,9 @@ Suppléance hémodynamique et ventilatoire d'un patient en état de mort encéph
 
 |
 
-EQMP001-00
+EQMP001
+
+|
 
 |
 
@@ -122,7 +154,9 @@ Suppléance hémodynamique par dispositif de contrepulsion diastolique intraaort
 
 |
 
-EQQP004-00
+EQQP004
+
+|
 
 |
 
@@ -130,7 +164,9 @@ Suppléance hémodynamique par circulation extracorporelle, par 24 heures
 
 |
 
-EQQP013-00
+EQQP013
+
+|
 
 |
 
@@ -138,7 +174,9 @@ Suppléance hémodynamique par assistance circulatoire mécanique ventriculaire,
 
 |
 
-FEJF001-00
+FEJF001
+
+|
 
 |
 
@@ -146,15 +184,19 @@ Séance d'épuration semisélective de substance plasmatique par double filtrati
 
 |
 
-FEJF002-00
+FEJF002
 
 |
 
-Séance non programmée de soustraction thérapeutique de plasma avec perfusion de produit de substitution [échange plasmatique] pour affection aiguë
+|
+
+Séance non programmée de soustraction thérapeutique de plasma avec perfusion de produit de substitution [échange plasmatique] pour affection aigüe
 
 |
 
-FELF003-00
+FELF003
+
+|
 
 |
 
@@ -162,7 +204,9 @@ Administration intraveineuse simultanée de deux des produits sanguins suivants 
 
 |
 
-FELF004-00
+FELF004
+
+|
 
 |
 
@@ -170,7 +214,9 @@ Transfusion de concentré de globules rouges d'un volume supérieur à une demi-
 
 |
 
-FELF005-00
+FELF005
+
+|
 
 |
 
@@ -178,7 +224,9 @@ Exsanguinotransfusion d'épuration ou de substitution, chez le nouveau-né
 
 |
 
-FELF012-00
+FELF012
+
+|
 
 |
 
@@ -186,15 +234,19 @@ Exsanguinotransfusion d'épuration ou de substitution
 
 |
 
-GLJF010-00
+GLJF010
 
 |
 
-Epuration extracorporelle du dioxyde de carbone [CO2], par 24 heures
+|
+
+Épuration extracorporelle du dioxyde de carbone [CO2], par 24 heures
 
 |
 
-GLLD003-00
+GLLD003
+
+|
 
 |
 
@@ -202,15 +254,19 @@ Ventilation spontanée au masque facial, par canule nasale ou par sonde nasophar
 
 |
 
-GLLD004-00
+GLLD004
 
 |
 
-Ventilation mécanique intratrachéale avec pression expiratoire positive [PEP] supérieure à 6 et/ou FiO2 supérieure à 60 %, avec technique de décubitus ventral alterné par 24 heures
+|
+
+Ventilation mécanique intratrachéale avec pression expiratoire positive [PEP] supérieure à 6 et/ou FiO2 supérieure à 60%, avec technique de décubitus ventral alterné par 24 heures
 
 |
 
-GLLD007-00
+GLLD007
+
+|
 
 |
 
@@ -218,15 +274,19 @@ Ventilation mécanique à poumons séparés, par 24 heures
 
 |
 
-GLLD008-00
+GLLD008
 
 |
 
-Ventilation mécanique intratrachéale avec pression expiratoire positive [PEP] supérieure à 6 et/ou FiO2 supérieure à 60 %, par 24 heures
+|
+
+Ventilation mécanique intratrachéale avec pression expiratoire positive [PEP] supérieure à 6 et/ou FiO2 supérieure à 60%, par 24 heures
 
 |
 
-GLLD009-00
+GLLD009
+
+|
 
 |
 
@@ -234,7 +294,9 @@ Ventilation par oscillations à haute fréquence, par 24 heures
 
 |
 
-GLLD012-00
+GLLD012
+
+|
 
 |
 
@@ -242,15 +304,19 @@ Ventilation mécanique continue au masque facial pour suppléance ventilatoire, 
 
 |
 
-GLLD019-00
+GLLD019
 
 |
 
-Ventilation barométrique ou volumétrique non effractive au masque facial pendant au moins 2 heures cumulées au cours des 12 heures, pour insuffisance respiratoire aiguë
+|
+
+Ventilation barométrique ou volumétrique non effractive au masque facial pendant au moins 2 heures cumulées au cours des 12 heures, pour insuffisance respiratoire aigüe
 
 |
 
-GLLD021-00
+GLLD021
+
+|
 
 |
 
@@ -258,7 +324,9 @@ Oxygénothérapie hyperbare avec inhalation d'oxygène pur d'une durée minimale
 
 |
 
-GLQP015-00
+GLQP015
+
+|
 
 |
 
@@ -266,23 +334,29 @@ Surveillance continue de la saturation jugulaire en oxygène par dispositif intr
 
 |
 
-JVJB002-00
+JVJB002
 
 |
 
-Epuration extrarénale par dialyse péritonéale pour insuffisance rénale aiguë, par 24 heures
+|
+
+Épuration extrarénale par dialyse péritonéale pour insuffisance rénale aigüe, par 24 heures
 
 |
 
-JVJF002-00
+JVJF002
 
 |
 
-Epuration extrarénale par hémodialyse, hémodiafiltration ou hémofiltration discontinue pour insuffisance rénale aiguë, par 24 heures
+|
+
+Épuration extrarénale par hémodialyse, hémodiafiltration ou hémofiltration discontinue pour insuffisance rénale aigüe, par 24 heures
 
 |
 
-JVJF003-00
+JVJF003
+
+|
 
 |
 
@@ -290,27 +364,33 @@ Séance d'épuration extrarénale par hémoperfusion
 
 |
 
-JVJF005-00
+JVJF005
 
 |
 
-Epuration extrarénale par hémodialyse, hémodiafiltration ou hémofiltration continue pour insuffisance rénale aiguë, par 24 heures
+|
+
+Épuration extrarénale par hémodialyse, hémodiafiltration ou hémofiltration continue pour insuffisance rénale aigüe, par 24 heures
 
 |
 
-JVJF006-00
+JVJF006
 
 |
 
-Epuration extrarénale par hémodialyse ou hémofiltration discontinue pour insuffisance rénale aiguë chez le nouveau-né, par 24 heures
+|
+
+Épuration extrarénale par hémodialyse ou hémofiltration discontinue pour insuffisance rénale aigüe chez le nouveau-né, par 24 heures
 
 |
 
-JVJF007-00
+JVJF007
 
 |
 
-Epuration extrarénale par hémodialyse ou hémofiltration continue pour insuffisance rénale aiguë chez le nouveau-né, par 24 heures
+|
+
+Épuration extrarénale par hémodialyse ou hémofiltration continue pour insuffisance rénale aigüe chez le nouveau-né, par 24 heures
 
 |
 
@@ -320,11 +400,17 @@ CODE
 
 |
 
-LIBELLÉ DE L'ACTE CCAM
+EXT. PMSI
 
 |
 
-GLLD015-00
+LIBELLÉ DE L'ACTE
+
+|
+
+GLLD015
+
+|
 
 |
 
@@ -338,19 +424,27 @@ CODE
 
 |
 
-LIBELLÉ DE L'ACTE CCAM
+EXT. PMSI
 
 |
 
-DZFA004-00
+LIBELLÉ DE L'ACTE
 
 |
 
-Exérèse d'un greffon de transplantation du cœur avec pose d'une assistance circulatoire mécanique biventriculaire interne, par thoracotomie avec CEC
+DZFA004
 
 |
 
-EQKA002-00
+|
+
+Exérèse d'un greffon de transplantation du coeur avec pose d'une assistance circulatoire mécanique biventriculaire interne, par thoracotomie avec CEC
+
+|
+
+EQKA002
+
+|
 
 |
 
@@ -358,7 +452,9 @@ Changement d'un système d'assistance circulatoire mécanique ventriculaire, par
 
 |
 
-EQKA003-00
+EQKA003
+
+|
 
 |
 
@@ -366,7 +462,9 @@ Changement d'un système d'assistance circulatoire mécanique ventriculaire, par
 
 |
 
-EQLA003-00
+EQLA003
+
+|
 
 |
 
@@ -374,7 +472,9 @@ Pose d'une assistance circulatoire mécanique monoventriculaire externe, par tho
 
 |
 
-EQLA004-00
+EQLA004
+
+|
 
 |
 
@@ -382,7 +482,9 @@ Pose d'une assistance circulatoire mécanique monoventriculaire externe, par tho
 
 |
 
-EQLA005-00
+EQLA005
+
+|
 
 |
 
@@ -390,7 +492,9 @@ Pose d'une assistance circulatoire mécanique biventriculaire externe, par thora
 
 |
 
-EQLA006-00
+EQLA006
+
+|
 
 |
 
@@ -398,7 +502,9 @@ Pose d'une assistance circulatoire mécanique biventriculaire externe, par thora
 
 |
 
-EQLA007-00
+EQLA007
+
+|
 
 |
 
@@ -406,7 +512,9 @@ Pose d'une assistance circulatoire mécanique monoventriculaire interne, par tho
 
 |
 
-EQLA008-00
+EQLA008
+
+|
 
 |
 
@@ -414,7 +522,9 @@ Pose d'une assistance circulatoire mécanique monoventriculaire interne, par tho
 
 |
 
-EQLA009-00
+EQLA009
+
+|
 
 |
 
@@ -422,7 +532,9 @@ Pose d'une assistance circulatoire mécanique biventriculaire interne, par thora
 
 |
 
-EQLA010-00
+EQLA010
+
+|
 
 |
 

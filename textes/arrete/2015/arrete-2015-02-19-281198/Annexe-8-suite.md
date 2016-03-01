@@ -1,16 +1,22 @@
 # Article Annexe 8 (suite)
 
-Liste 2. Actes autorisant la facturation d'un supplément de surveillance continue
+Liste 2 : actes autorisant la facturation d'un supplément de surveillance continue
 
-CODE CCAM
-
-|
-
-LIBELLÉ CCAM
+CODES ACTES CCAM
 
 |
 
-AAFA001-00
+EXT. PMSI
+
+|
+
+LIBELLÉS CCAM
+
+|
+
+AAFA001
+
+|
 
 |
 
@@ -18,7 +24,9 @@ Exérèse de tumeur intraparenchymateuse du cervelet, par craniotomie
 
 |
 
-AAFA002-00
+AAFA002
+
+|
 
 |
 
@@ -26,7 +34,9 @@ Exérèse de tumeur intraparenchymateuse du cerveau, par craniotomie
 
 |
 
-AAFA003-00
+AAFA003
+
+|
 
 |
 
@@ -34,7 +44,9 @@ Exérèse de lésion du tronc cérébral, par craniotomie
 
 |
 
-AAFA004-00
+AAFA004
+
+|
 
 |
 
@@ -42,7 +54,9 @@ Hémisphérectomie fonctionnelle, par craniotomie
 
 |
 
-AAFA005-00
+AAFA005
+
+|
 
 |
 
@@ -50,7 +64,9 @@ Exérèse de lésion du corps calleux, du fornix hypothalamique ou du septum pel
 
 |
 
-AAFA006-00
+AAFA006
+
+|
 
 |
 
@@ -58,7 +74,9 @@ Résection de parenchyme cérébral pour infarctus expansif, par craniotomie
 
 |
 
-AAFA007-00
+AAFA007
+
+|
 
 |
 
@@ -66,7 +84,9 @@ Excision d'une zone épileptogène, par craniotomie
 
 |
 
-AAFA008-00
+AAFA008
+
+|
 
 |
 
@@ -74,47 +94,59 @@ Résection de parenchyme cérébelleux pour infarctus expansif, par craniotomie
 
 |
 
-AAJA001-00
+AAJA001
 
 |
 
-Evacuation de collection intracérébrale, par craniotomie
+|
+
+Évacuation de collection intracérébrale, par craniotomie
 
 |
 
-AAJA002-00
+AAJA002
 
 |
 
-Evacuation d'hématome intracérébral traumatique [contusion], par craniotomie
+|
+
+Évacuation d'hématome intracérébral traumatique [contusion], par craniotomie
 
 |
 
-AAJA003-00
+AAJA003
 
 |
 
-Evacuation d'hématome intracérébelleux, par craniotomie
+|
+
+Évacuation d'hématome intracérébelleux, par craniotomie
 
 |
 
-AAJA004-00
+AAJA004
 
 |
 
-Evacuation d'hématome intracérébral non traumatique, par craniotomie
+|
+
+Évacuation d'hématome intracérébral non traumatique, par craniotomie
 
 |
 
-AAJA005-00
+AAJA005
 
 |
 
-Evacuation de collection intracrânienne postopératoire, par reprise de la craniotomie précédente
+|
+
+Évacuation de collection intracrânienne postopératoire, par reprise de la craniotomie précédente
 
 |
 
-AAJA006-00
+AAJA006
+
+|
 
 |
 
@@ -122,39 +154,49 @@ Parage de plaie craniocérébrale
 
 |
 
-AAJH001-00
+AAJH001
 
 |
 
-Evacuation de collection intracérébrale, par voie transcrânienne avec guidage scanographique
+|
+
+Évacuation de collection intracérébrale, par voie transcrânienne avec guidage scanographique
 
 |
 
-AAJH002-00
+AAJH002
 
 |
 
-Evacuation d'hématome intracérébral non traumatique, par voie transcrânienne avec guidage scanographique
+|
+
+Évacuation d'hématome intracérébral non traumatique, par voie transcrânienne avec guidage scanographique
 
 |
 
-AAJH003-00
+AAJH003
 
 |
 
-Evacuation de collection intracérébrale, par voie transcrânienne avec guidage radiologique
+|
+
+Évacuation de collection intracérébrale, par voie transcrânienne avec guidage radiologique
 
 |
 
-AAJH004-00
+AAJH004
 
 |
 
-Evacuation d'hématome intracérébral non traumatique, par voie transcrânienne avec guidage radiologique
+|
+
+Évacuation d'hématome intracérébral non traumatique, par voie transcrânienne avec guidage radiologique
 
 |
 
-AALB001-00
+AALB001
+
+|
 
 |
 
@@ -162,7 +204,9 @@ Implantation d'électrode de stimulation intracérébrale à visée thérapeutiq
 
 |
 
-ABCA001-00
+ABCA001
+
+|
 
 |
 
@@ -170,15 +214,19 @@ Ventriculoventriculostomie, ventriculocisternostomie, kystocisternostomie ou kys
 
 |
 
-ABFA001-00
+ABFA001
 
 |
 
-Exérèse et/ ou fermeture de méningœncéphalocèle de la base du crâne, sans rapprochement orbitaire
+|
+
+Exérèse et/ou fermeture de méningoencéphalocèle de la base du crâne, sans rapprochement orbitaire
 
 |
 
-ABFA002-00
+ABFA002
+
+|
 
 |
 
@@ -186,15 +234,19 @@ Exérèse de lésion du troisième ventricule, par craniotomie
 
 |
 
-ABFA004-00
+ABFA004
 
 |
 
-Exérèse et/ ou fermeture de méningœncéphalocèle de la base du crâne, avec rapprochement orbitaire
+|
+
+Exérèse et/ou fermeture de méningoencéphalocèle de la base du crâne, avec rapprochement orbitaire
 
 |
 
-ABFA005-00
+ABFA005
+
+|
 
 |
 
@@ -202,7 +254,9 @@ Exérèse de lésion d'un ventricule latéral cérébral, par craniotomie
 
 |
 
-ABFA006-00
+ABFA006
+
+|
 
 |
 
@@ -210,7 +264,9 @@ Exérèse de lésion du quatrième ventricule, par craniotomie
 
 |
 
-ABFA007-00
+ABFA007
+
+|
 
 |
 
@@ -218,7 +274,9 @@ Exérèse d'une fistule dermique avec prolongement intradural occipital
 
 |
 
-ABFA008-00
+ABFA008
+
+|
 
 |
 
@@ -226,7 +284,9 @@ Exérèse de tumeur de la tente du cervelet, par craniotomie soustentorielle
 
 |
 
-ABFA009-00
+ABFA009
+
+|
 
 |
 
@@ -234,7 +294,9 @@ Exérèse de tumeur de l'incisure de la tente, par craniotomie sustentorielle
 
 |
 
-ABFA010-00
+ABFA010
+
+|
 
 |
 
@@ -242,7 +304,9 @@ Exérèse de tumeur de la faux du cerveau, par craniotomie
 
 |
 
-ABFC001-00
+ABFC001
+
+|
 
 |
 
@@ -250,7 +314,9 @@ Exérèse de lésion du troisième ventricule, par vidéochirurgie intracrânien
 
 |
 
-ABFC002-00
+ABFC002
+
+|
 
 |
 
@@ -258,55 +324,69 @@ Exérèse de lésion d'un ventricule latéral cérébral, par vidéochirurgie in
 
 |
 
-ABJA001-00
+ABJA001
 
 |
 
-Evacuation d'une hémorragie intraventriculaire cérébrale, par craniotomie
+|
+
+Évacuation d'une hémorragie intraventriculaire cérébrale, par craniotomie
 
 |
 
-ABJA002-00
+ABJA002
 
 |
 
-Evacuation d'un hématome subdural aigu, par craniotomie
+|
+
+Évacuation d'un hématome subdural aigu, par craniotomie
 
 |
 
-ABJA004-00
+ABJA004
 
 |
 
-Evacuation d'un hématome extradural infratentoriel, par craniotomie
+|
+
+Évacuation d'un hématome extradural infratentoriel, par craniotomie
 
 |
 
-ABJA005-00
+ABJA005
 
 |
 
-Evacuation d'un hématome extradural supratentoriel, par craniotomie
+|
+
+Évacuation d'un hématome extradural supratentoriel, par craniotomie
 
 |
 
-ABJA007-00
+ABJA007
 
 |
 
-Evacuation d'un hématome extradural plurifocal supratentoriel et/ ou infratentoriel, par craniotomie
+|
+
+Évacuation d'un hématome extradural plurifocal supratentoriel et/ou infratentoriel, par craniotomie
 
 |
 
-ABJA008-00
+ABJA008
 
 |
 
-Evacuation d'un empyème intracrânien extracérébral, par craniotomie
+|
+
+Évacuation d'un empyème intracrânien extracérébral, par craniotomie
 
 |
 
-ABLB001-00
+ABLB001
+
+|
 
 |
 
@@ -314,7 +394,9 @@ Pose d'un cathéter ventriculaire cérébral par voie transcrânienne, avec mesu
 
 |
 
-ABLB002-00
+ABLB002
+
+|
 
 |
 
@@ -322,7 +404,9 @@ Pose d'un capteur ventriculaire de pression intracrânienne, par voie transcrân
 
 |
 
-ABLB003-00
+ABLB003
+
+|
 
 |
 
@@ -330,7 +414,9 @@ Pose d'un capteur extraventriculaire de pression intracrânienne, par voie trans
 
 |
 
-ABQP001-00
+ABQP001
+
+|
 
 |
 
@@ -338,7 +424,9 @@ Surveillance continue de la pression intracrânienne, par 24 heures
 
 |
 
-ABSA001-00
+ABSA001
+
+|
 
 |
 
@@ -346,7 +434,9 @@ Fermeture d'une brèche ostéodurale de l'étage moyen de la base du crâne, par
 
 |
 
-ABSA002-00
+ABSA002
+
+|
 
 |
 
@@ -354,7 +444,9 @@ Fermeture d'une brèche ostéodurale de l'étage moyen de la base du crâne, par
 
 |
 
-ABSA004-00
+ABSA004
+
+|
 
 |
 
@@ -362,7 +454,9 @@ Fermeture d'une brèche ostéodurale de l'étage moyen de la base du crâne, par
 
 |
 
-ABSA006-00
+ABSA006
+
+|
 
 |
 
@@ -370,7 +464,9 @@ Fermeture d'une brèche ostéodurale de l'étage moyen de la base du crâne, par
 
 |
 
-ABSA007-00
+ABSA007
+
+|
 
 |
 
@@ -378,7 +474,9 @@ Fermeture d'une brèche ostéodurale ou d'une méningocèle de l'étage antérie
 
 |
 
-ABSA008-00
+ABSA008
+
+|
 
 |
 
@@ -386,7 +484,9 @@ Fermeture d'une fistule postopératoire de liquide cérébrospinal de la base du
 
 |
 
-ACFA001-00
+ACFA001
+
+|
 
 |
 
@@ -394,7 +494,9 @@ Exérèse de tumeur de l'étage antérieur de la base du crâne, par craniotomie
 
 |
 
-ACFA002-00
+ACFA002
+
+|
 
 |
 
@@ -402,7 +504,9 @@ Exérèse de tumeur extraparenchymateuse de la convexité du cerveau sans attein
 
 |
 
-ACFA003-00
+ACFA003
+
+|
 
 |
 
@@ -410,7 +514,9 @@ Exérèse de tumeur de la pointe du rocher, par abord translabyrinthique
 
 |
 
-ACFA004-00
+ACFA004
+
+|
 
 |
 
@@ -418,15 +524,19 @@ Exérèse de tumeur du clivus, par craniotomie
 
 |
 
-ACFA005-00
+ACFA005
 
 |
 
-Exérèse de tumeur de l'angle pontocérébelleux et/ ou du méat acoustique interne [conduit auditif interne], par abord rétrolabyrinthique présigmoïdien
+|
+
+Exérèse de tumeur de l'angle pontocérébelleux et/ou du méat acoustique interne [conduit auditif interne], par abord rétrolabyrinthique présigmoïdien
 
 |
 
-ACFA006-00
+ACFA006
+
+|
 
 |
 
@@ -434,15 +544,19 @@ Exérèse de tumeur de la pointe du rocher sans déroutement du nerf facial, par
 
 |
 
-ACFA007-00
+ACFA007
 
 |
 
-Exérèse de tumeur de l'angle pontocérébelleux et/ ou du méat acoustique interne [conduit auditif interne], par abord translabyrinthique
+|
+
+Exérèse de tumeur de l'angle pontocérébelleux et/ou du méat acoustique interne [conduit auditif interne], par abord translabyrinthique
 
 |
 
-ACFA008-00
+ACFA008
+
+|
 
 |
 
@@ -450,7 +564,9 @@ Exérèse de tumeur extraparenchymateuse de la convexité du cervelet sans attei
 
 |
 
-ACFA009-00
+ACFA009
+
+|
 
 |
 
@@ -458,15 +574,19 @@ Exérèse de tumeur de la pointe du rocher, par abord suprapétreux
 
 |
 
-ACFA010-00
+ACFA010
 
 |
 
-Exérèse de tumeur de l'angle pontocérébelleux et/ ou du méat acoustique interne [conduit auditif interne], par abord infraoccipital rétrosigmoïdien
+|
+
+Exérèse de tumeur de l'angle pontocérébelleux et/ou du méat acoustique interne [conduit auditif interne], par abord infraoccipital rétrosigmoïdien
 
 |
 
-ACFA011-00
+ACFA011
+
+|
 
 |
 
@@ -474,15 +594,19 @@ Exérèse de tumeur de l'étage moyen de la base du crâne, par craniotomie
 
 |
 
-ACFA012-00
+ACFA012
 
 |
 
-Exérèse de tumeur de l'angle pontocérébelleux et/ ou du méat acoustique interne [conduit auditif interne], par abord suprapétreux
+|
+
+Exérèse de tumeur de l'angle pontocérébelleux et/ou du méat acoustique interne [conduit auditif interne], par abord suprapétreux
 
 |
 
-ACFA013-00
+ACFA013
+
+|
 
 |
 
@@ -490,15 +614,19 @@ Exérèse de tumeur du tiers interne de l'étage moyen de la base du crâne int�
 
 |
 
-ACFA014-00
+ACFA014
 
 |
 
-Exérèse de tumeur de l'angle pontocérébelleux et/ ou du méat acoustique interne [conduit auditif interne], par deux abords
+|
+
+Exérèse de tumeur de l'angle pontocérébelleux et/ou du méat acoustique interne [conduit auditif interne], par deux abords
 
 |
 
-ACFA015-00
+ACFA015
+
+|
 
 |
 
@@ -506,7 +634,9 @@ Exérèse de tumeur de l'étage antérieur de la base du crâne, par craniotomie
 
 |
 
-ACFA016-00
+ACFA016
+
+|
 
 |
 
@@ -514,7 +644,9 @@ Exérèse de tumeur de la région pétroclivale sans déroutement du nerf facial
 
 |
 
-ACFA018-00
+ACFA018
+
+|
 
 |
 
@@ -522,7 +654,9 @@ Exérèse de tumeur extraparenchymateuse de la convexité du cervelet envahissan
 
 |
 
-ACFA019-00
+ACFA019
+
+|
 
 |
 
@@ -530,7 +664,9 @@ Exérèse de tumeur du foramen magnum avec déroutement de l'artère vertébrale
 
 |
 
-ACFA020-00
+ACFA020
+
+|
 
 |
 
@@ -538,15 +674,19 @@ Exérèse de tumeur du clivus, par abord transoral ou nasosphénoïdal
 
 |
 
-ACFA022-00
+ACFA022
 
 |
 
-Exérèse de tumeur de la région optochiasmatique et/ ou hypothalamique, par craniotomie
+|
+
+Exérèse de tumeur de la région optochiasmatique et/ou hypothalamique, par craniotomie
 
 |
 
-ACFA023-00
+ACFA023
+
+|
 
 |
 
@@ -554,7 +694,9 @@ Exérèse de tumeur du foramen jugulaire, par craniotomie
 
 |
 
-ACFA024-00
+ACFA024
+
+|
 
 |
 
@@ -562,7 +704,9 @@ Exérèse de tumeur du foramen magnum sans déroutement de l'artère vertébrale
 
 |
 
-ACFA025-00
+ACFA025
+
+|
 
 |
 
@@ -570,7 +714,9 @@ Exérèse de tumeur de la région pétroclivale avec déroutement du nerf facial
 
 |
 
-ACFA026-00
+ACFA026
+
+|
 
 |
 
@@ -578,15 +724,19 @@ Exérèse de tumeur de l'étage antérieur de la base du crâne, par craniotomie
 
 |
 
-ACFA027-00
+ACFA027
 
 |
 
-Exérèse de tumeur de l'angle pontocérébelleux et/ ou du méat acoustique interne [conduit auditif interne], par abord transotique
+|
+
+Exérèse de tumeur de l'angle pontocérébelleux et/ou du méat acoustique interne [conduit auditif interne], par abord transotique
 
 |
 
-ACFA028-00
+ACFA028
+
+|
 
 |
 
@@ -594,7 +744,9 @@ Exérèse de tumeur extraparenchymateuse de la convexité du cerveau envahissant
 
 |
 
-ACFA029-00
+ACFA029
+
+|
 
 |
 
@@ -602,7 +754,9 @@ Exérèse de tumeur de la pointe du rocher avec déroutement du nerf facial, par
 
 |
 
-ACPA001-00
+ACPA001
+
+|
 
 |
 
@@ -610,7 +764,9 @@ Libération d'un conflit vasculonerveux intracrânien, par craniotomie
 
 |
 
-ADCA006-00
+ADCA006
+
+|
 
 |
 
@@ -618,7 +774,9 @@ Suture de plaie d'un nerf crânien, par craniotomie
 
 |
 
-ADEA005-00
+ADEA005
+
+|
 
 |
 
@@ -626,7 +784,9 @@ Autogreffe de nerf crânien, par craniotomie
 
 |
 
-ADPA013-00
+ADPA013
+
+|
 
 |
 
@@ -634,7 +794,9 @@ Section de nerf crânien, par abord infraoccipital rétrosigmoïdien
 
 |
 
-AEFA001-00
+AEFA001
+
+|
 
 |
 
@@ -642,7 +804,9 @@ Exérèse de lésion de la moelle épinière sur un étage vertébral, par abord
 
 |
 
-AEFA002-00
+AEFA002
+
+|
 
 |
 
@@ -650,7 +814,9 @@ Exérèse de lésion de la moelle épinière sur plusieurs étages vertébraux, 
 
 |
 
-AEFA003-00
+AEFA003
+
+|
 
 |
 
@@ -658,7 +824,9 @@ Exérèse de lésion du cône médullaire, par abord postérieur
 
 |
 
-AEJA001-00
+AEJA001
+
+|
 
 |
 
@@ -666,7 +834,9 @@ Parage et fermeture de plaie pénétrante vertébrospinale, par abord antérieur
 
 |
 
-AEJA002-00
+AEJA002
+
+|
 
 |
 
@@ -674,15 +844,19 @@ Parage et fermeture de plaie pénétrante vertébrospinale avec ostéosynthèse 
 
 |
 
-AEJA003-00
+AEJA003
 
 |
 
-Evacuation d'hématome intraspinal [hématomyélie]
+|
+
+Évacuation d'hématome intraspinal [hématomyélie]
 
 |
 
-AEJA004-00
+AEJA004
+
+|
 
 |
 
@@ -690,7 +864,9 @@ Parage et fermeture de plaie pénétrante vertébrospinale, par abord postérieu
 
 |
 
-AEJA005-00
+AEJA005
+
+|
 
 |
 
@@ -698,7 +874,9 @@ Parage et fermeture de plaie pénétrante vertébrospinale avec ostéosynthèse 
 
 |
 
-AFCA004-00
+AFCA004
+
+|
 
 |
 
@@ -706,7 +884,9 @@ Dérivation externe du liquide cérébrospinal subarachnoïdien rachidien
 
 |
 
-AFFA001-00
+AFFA001
+
+|
 
 |
 
@@ -714,7 +894,9 @@ Exérèse de tumeur intradurale extraspinale sans reconstruction vertébrale, pa
 
 |
 
-AFFA007-00
+AFFA007
+
+|
 
 |
 
@@ -722,7 +904,9 @@ Exérèse de tumeur intradurale extraspinale, par abord postérieur ou postérol
 
 |
 
-AFFA009-00
+AFFA009
+
+|
 
 |
 
@@ -730,31 +914,39 @@ Exérèse de tumeur intradurale extraspinale avec reconstruction vertébrale, pa
 
 |
 
-AFJA001-00
+AFJA001
 
 |
 
-Evacuation d'hématome péridural [épidural] rachidien, par abord direct
+|
+
+Évacuation d'hématome péridural [épidural] rachidien, par abord direct
 
 |
 
-AFJA003-00
+AFJA003
 
 |
 
-Evacuation d'hématome intradural rachidien, par abord direct
+|
+
+Évacuation d'hématome intradural rachidien, par abord direct
 
 |
 
-AFJA004-00
+AFJA004
 
 |
 
-Evacuation d'hématome péridural [épidural] rachidien postopératoire, par abord direct
+|
+
+Évacuation d'hématome péridural [épidural] rachidien postopératoire, par abord direct
 
 |
 
-AFLB001-00
+AFLB001
+
+|
 
 |
 
@@ -762,7 +954,9 @@ Injection péridurale [épidurale] de sang autologue [Blood patch]
 
 |
 
-AFSA001-00
+AFSA001
+
+|
 
 |
 
@@ -770,7 +964,9 @@ Fermeture d'un spina bifida avec myéloméningocèle, par abord postérieur
 
 |
 
-AHFA003-00
+AHFA003
+
+|
 
 |
 
@@ -778,7 +974,9 @@ Exérèse de lésion de la queue de cheval étendue sur plusieurs étages verté
 
 |
 
-AHFA011-00
+AHFA011
+
+|
 
 |
 
@@ -786,7 +984,9 @@ Exérèse de tumeur nerveuse cervicale profonde, par cervicotomie et par thoraco
 
 |
 
-AHGA001-00
+AHGA001
+
+|
 
 |
 
@@ -794,7 +994,9 @@ Ablation d'électrode de stimulation du nerf phrénique, par thoracotomie
 
 |
 
-AHKA001-00
+AHKA001
+
+|
 
 |
 
@@ -802,7 +1004,11 @@ Changement d'électrode de stimulation du nerf phrénique, par thoracotomie
 
 |
 
-AHLA002-01
+AHLA002
+
+|
+
+-01
 
 |
 
@@ -810,15 +1016,23 @@ Implantation d'électrode de stimulation du nerf phrénique par thoracotomie, av
 
 |
 
-AHLA802-02
+AHLA802
 
 |
 
-Implantation d'électrode de stimulation du nerf phrénique par cœlioscopie ou par laparotomie, avec pose d'un générateur externe
+-02
 
 |
 
-AHLC802-01
+Implantation d'électrode de stimulation du nerf phrénique par cœlioscopie, ou par laparotomie, avec pose d'un générateur externe
+
+|
+
+AHLC802
+
+|
+
+-01
 
 |
 
@@ -826,7 +1040,9 @@ Implantation d'électrode de stimulation du nerf phrénique par thoracoscopie, o
 
 |
 
-DAAA001-00
+DAAA001
+
+|
 
 |
 
@@ -834,7 +1050,9 @@ Agrandissement d'une communication interventriculaire ou du foramen bulboventric
 
 |
 
-DAAA002-00
+DAAA002
+
+|
 
 |
 
@@ -842,7 +1060,9 @@ Plastie d'agrandissement de l'infundibulum pulmonaire avec section de l'anneau p
 
 |
 
-DAAA003-00
+DAAA003
+
+|
 
 |
 
@@ -850,7 +1070,9 @@ Plastie d'agrandissement de l'infundibulum pulmonaire, par thoracotomie avec CEC
 
 |
 
-DAAF001-00
+DAAF001
+
+|
 
 |
 
@@ -858,7 +1080,9 @@ Dilatation intraluminale de la voie d'éjection du ventricule droit et du tronc 
 
 |
 
-DAAF002-00
+DAAF002
+
+|
 
 |
 
@@ -866,7 +1090,9 @@ Dilatation intraluminale de la voie d'éjection infraaortique, par voie artérie
 
 |
 
-DAAF003-00
+DAAF003
+
+|
 
 |
 
@@ -874,23 +1100,29 @@ Agrandissement d'une communication interatriale, par voie veineuse transcutanée
 
 |
 
-DACA001-00
+DACA001
 
 |
 
-Suture de plaie du cœur, par thoracotomie sans CEC
+|
+
+Suture de plaie du coeur, par thoracotomie sans CEC
 
 |
 
-DAFA001-00
+DAFA001
 
 |
 
-Exérèse d'un diverticule du cœur, par thoracotomie sans CEC
+|
+
+Exérèse d'un diverticule du coeur, par thoracotomie sans CEC
 
 |
 
-DAFA002-00
+DAFA002
+
+|
 
 |
 
@@ -898,23 +1130,29 @@ Résection ou consolidation d'une zone myocardique infarcie, par thoracotomie sa
 
 |
 
-DAFA003-00
+DAFA003
 
 |
 
-Résection d'un anévrisme de la paroi ventriculaire du cœur, par thoracotomie avec CEC
+|
+
+Résection d'un anévrisme de la paroi ventriculaire du coeur, par thoracotomie avec CEC
 
 |
 
-DAFA005-00
+DAFA005
 
 |
 
-Exérèse d'une tumeur du cœur, par thoracotomie sans CEC
+|
+
+Exérèse d'une tumeur du coeur, par thoracotomie sans CEC
 
 |
 
-DAFA006-00
+DAFA006
+
+|
 
 |
 
@@ -922,7 +1160,9 @@ Résection d'un bourrelet musculaire infraaortique pour cardiomyopathie obstruct
 
 |
 
-DAFA007-00
+DAFA007
+
+|
 
 |
 
@@ -930,7 +1170,9 @@ Résection musculaire cardiaque intraventriculaire, par thoracotomie avec CEC
 
 |
 
-DAFA008-00
+DAFA008
+
+|
 
 |
 
@@ -938,15 +1180,19 @@ Résection ou consolidation d'une zone myocardique infarcie, par thoracotomie av
 
 |
 
-DAFA009-00
+DAFA009
 
 |
 
-Exérèse d'une tumeur du cœur, par thoracotomie avec CEC
+|
+
+Exérèse d'une tumeur du coeur, par thoracotomie avec CEC
 
 |
 
-DAFA010-00
+DAFA010
+
+|
 
 |
 
@@ -954,7 +1200,9 @@ Résection d'une sténose congénitale infraorificielle de l'aorte, par thoracot
 
 |
 
-DAGA001-00
+DAGA001
+
+|
 
 |
 
@@ -962,7 +1210,9 @@ Ablation de corps étranger ou exérèse de végétation ou de caillot intracard
 
 |
 
-DAGA002-00
+DAGA002
+
+|
 
 |
 
@@ -970,7 +1220,9 @@ Ablation d'électrode intracardiaque de stimulation ou de défibrillation, par t
 
 |
 
-DAGF001-00
+DAGF001
+
+|
 
 |
 
@@ -978,7 +1230,9 @@ Ablation de corps étranger intracardiaque ou intravasculaire, par voie vasculai
 
 |
 
-DAHF001-00
+DAHF001
+
+|
 
 |
 
@@ -986,7 +1240,9 @@ Biopsie de l'endocarde et du myocarde, par voie vasculaire transcutanée
 
 |
 
-DAMA003-00
+DAMA003
+
+|
 
 |
 
@@ -994,7 +1250,9 @@ Création d'une communication interatriale, par thoracotomie
 
 |
 
-DAMA005-00
+DAMA005
+
+|
 
 |
 
@@ -1002,7 +1260,9 @@ Correction d'une malformation sténosante intraatriale droite ou gauche congéni
 
 |
 
-DAMA900-00
+DAMA900
+
+|
 
 |
 
@@ -1010,7 +1270,9 @@ Cardiomyoplastie de substitution ventriculaire, par thoracotomie avec CEC
 
 |
 
-DAMA901-00
+DAMA901
+
+|
 
 |
 
@@ -1018,7 +1280,9 @@ Cardiomyoplastie de substitution ventriculaire, par thoracotomie sans CEC
 
 |
 
-DAMF001-00
+DAMF001
+
+|
 
 |
 
@@ -1026,7 +1290,9 @@ Création d'une communication interatriale, par voie veineuse transcutanée
 
 |
 
-DAPA001-00
+DAPA001
+
+|
 
 |
 
@@ -1034,7 +1300,9 @@ Interruption du conduit artériel, par thoracotomie sans CEC
 
 |
 
-DAPC001-00
+DAPC001
+
+|
 
 |
 
@@ -1042,7 +1310,9 @@ Interruption du conduit artériel, par thoracoscopie sans CEC
 
 |
 
-DASA001-00
+DASA001
+
+|
 
 |
 
@@ -1050,7 +1320,9 @@ Fermeture d'une communication interventriculaire avec pose d'un conduit extracar
 
 |
 
-DASA002-00
+DASA002
+
+|
 
 |
 
@@ -1058,7 +1330,9 @@ Fermeture d'une communication atrioventriculaire sans geste sur le septum interv
 
 |
 
-DASA003-00
+DASA003
+
+|
 
 |
 
@@ -1066,7 +1340,9 @@ Fermeture d'une communication interatriale, par thoracotomie avec CEC
 
 |
 
-DASA004-00
+DASA004
+
+|
 
 |
 
@@ -1074,7 +1350,9 @@ Fermeture d'une communication interventriculaire pour discordance atrioventricul
 
 |
 
-DASA006-00
+DASA006
+
+|
 
 |
 
@@ -1082,15 +1360,19 @@ Fermeture d'une rupture du septum interventriculaire cardiaque, par thoracotomie
 
 |
 
-DASA007-00
+DASA007
 
 |
 
-Fermeture d'une communication interventriculaire avec correction d'une sténose de l'aorte thoracique horizontale et/ ou de l'isthme aortique, avec commissurotomie ou valvectomie pulmonaire, par thoracotomie avec CEC
+|
+
+Fermeture d'une communication interventriculaire avec correction d'une sténose de l'aorte thoracique horizontale et/ou de l'isthme aortique, avec commissurotomie ou valvectomie pulmonaire, par thoracotomie avec CEC
 
 |
 
-DASA008-00
+DASA008
+
+|
 
 |
 
@@ -1098,15 +1380,19 @@ Fermeture d'une communication atrioventriculaire avec geste sur le septum interv
 
 |
 
-DASA009-00
+DASA009
 
 |
 
-Fermeture d'une communication interventriculaire avec correction d'une sténose de l'aorte thoracique horizontale et/ ou de l'isthme aortique, par thoracotomie avec CEC
+|
+
+Fermeture d'une communication interventriculaire avec correction d'une sténose de l'aorte thoracique horizontale et/ou de l'isthme aortique, par thoracotomie avec CEC
 
 |
 
-DASA010-00
+DASA010
+
+|
 
 |
 
@@ -1114,7 +1400,9 @@ Fermeture de communications interventriculaires multiples, avec résection muscu
 
 |
 
-DASA011-00
+DASA011
+
+|
 
 |
 
@@ -1122,7 +1410,9 @@ Fermeture de communications interventriculaires multiples, par thoracotomie avec
 
 |
 
-DASA012-00
+DASA012
+
+|
 
 |
 
@@ -1130,7 +1420,9 @@ Fermeture d'une communication interventriculaire sans pose d'un conduit extracar
 
 |
 
-DASA013-00
+DASA013
+
+|
 
 |
 
@@ -1138,7 +1430,9 @@ Fermeture d'une communication atrioventriculaire, avec geste sur le septum inter
 
 |
 
-DASA014-00
+DASA014
+
+|
 
 |
 
@@ -1146,7 +1440,9 @@ Fermeture d'une communication interventriculaire avec résection musculaire card
 
 |
 
-DASF001-00
+DASF001
+
+|
 
 |
 
@@ -1154,7 +1450,9 @@ Fermeture du conduit artériel, par voie vasculaire transcutanée
 
 |
 
-DASF002-00
+DASF002
+
+|
 
 |
 
@@ -1162,7 +1460,9 @@ Fermeture d'une déhiscence d'une prothèse de cloisonnement intraatrial, par vo
 
 |
 
-DASF003-00
+DASF003
+
+|
 
 |
 
@@ -1170,7 +1470,9 @@ Fermeture de communication interventriculaire, par voie veineuse transcutanée
 
 |
 
-DASF004-00
+DASF004
+
+|
 
 |
 
@@ -1178,7 +1480,9 @@ Fermeture d'une communication interatriale, par voie veineuse transcutanée
 
 |
 
-DASF005-00
+DASF005
+
+|
 
 |
 
@@ -1186,7 +1490,9 @@ Fermeture d'un foramen ovale perméable, par voie veineuse transcutanée
 
 |
 
-DBAF001-00
+DBAF001
+
+|
 
 |
 
@@ -1194,7 +1500,9 @@ Dilatation intraluminale de l'orifice aortique, par voie artérielle transcutan�
 
 |
 
-DBAF002-00
+DBAF002
+
+|
 
 |
 
@@ -1202,7 +1510,9 @@ Dilatation intraluminale de l'orifice pulmonaire sans perforation de la valve at
 
 |
 
-DBAF003-00
+DBAF003
+
+|
 
 |
 
@@ -1210,7 +1520,9 @@ Dilatation intraluminale de l'orifice atrioventriculaire droit, par voie veineus
 
 |
 
-DBAF004-00
+DBAF004
+
+|
 
 |
 
@@ -1218,7 +1530,9 @@ Dilatation intraluminale de l'orifice atrioventriculaire gauche, par voie veineu
 
 |
 
-DBAF005-00
+DBAF005
+
+|
 
 |
 
@@ -1226,7 +1540,9 @@ Dilatation intraluminale de l'orifice pulmonaire avec perforation de la valve at
 
 |
 
-DBEA001-00
+DBEA001
+
+|
 
 |
 
@@ -1234,7 +1550,9 @@ Réinsertion d'une prothèse orificielle cardiaque, par thoracotomie avec CEC
 
 |
 
-DBFA001-00
+DBFA001
+
+|
 
 |
 
@@ -1242,7 +1560,9 @@ Résection d'une fibrose endocardique, par thoracotomie avec CEC
 
 |
 
-DBFA002-00
+DBFA002
+
+|
 
 |
 
@@ -1250,7 +1570,9 @@ Thrombectomie de prothèse orificielle cardiaque, par thoracotomie avec CEC
 
 |
 
-DBKA001-00
+DBKA001
+
+|
 
 |
 
@@ -1258,7 +1580,9 @@ Remplacement de la valve aortique par homogreffe, par thoracotomie avec CEC
 
 |
 
-DBKA002-00
+DBKA002
+
+|
 
 |
 
@@ -1266,7 +1590,9 @@ Remplacement de la valve atrioventriculaire gauche par prothèse en position non
 
 |
 
-DBKA003-00
+DBKA003
+
+|
 
 |
 
@@ -1274,7 +1600,9 @@ Remplacement de la valve aortique par bioprothèse sans armature, par thoracotom
 
 |
 
-DBKA004-00
+DBKA004
+
+|
 
 |
 
@@ -1282,7 +1610,9 @@ Remplacement de la valve atrioventriculaire droite par prothèse mécanique ou b
 
 |
 
-DBKA005-00
+DBKA005
+
+|
 
 |
 
@@ -1290,7 +1620,9 @@ Remplacement de la valve atrioventriculaire gauche par homogreffe, par thoracoto
 
 |
 
-DBKA006-00
+DBKA006
+
+|
 
 |
 
@@ -1298,7 +1630,9 @@ Remplacement de la valve aortique par prothèse mécanique ou bioprothèse avec 
 
 |
 
-DBKA007-00
+DBKA007
+
+|
 
 |
 
@@ -1306,7 +1640,9 @@ Remplacement de la valve pulmonaire par prothèse mécanique ou bioprothèse ave
 
 |
 
-DBKA008-00
+DBKA008
+
+|
 
 |
 
@@ -1314,7 +1650,9 @@ Remplacement de la valve atrioventriculaire droite par homogreffe, par thoracoto
 
 |
 
-DBKA009-00
+DBKA009
+
+|
 
 |
 
@@ -1322,7 +1660,9 @@ Remplacement de la valve aortique et de la valve atrioventriculaire gauche par p
 
 |
 
-DBKA010-00
+DBKA010
+
+|
 
 |
 
@@ -1330,7 +1670,9 @@ Remplacement de la valve atrioventriculaire gauche par prothèse mécanique ou b
 
 |
 
-DBKA011-00
+DBKA011
+
+|
 
 |
 
@@ -1338,7 +1680,9 @@ Remplacement de la valve aortique par prothèse en position non anatomique, par 
 
 |
 
-DBKA012-00
+DBKA012
+
+|
 
 |
 
@@ -1346,7 +1690,9 @@ Remplacement de la valve pulmonaire par homogreffe ou bioprothèse sans armature
 
 |
 
-DBLA001-00
+DBLA001
+
+|
 
 |
 
@@ -1354,7 +1700,9 @@ Pose d'un tube valvé ou non entre un ventricule et l'artère pulmonaire, par th
 
 |
 
-DBLA002-00
+DBLA002
+
+|
 
 |
 
@@ -1362,7 +1710,9 @@ Pose d'un tube valvé entre un ventricule et l'aorte, par thoracotomie avec CEC
 
 |
 
-DBLA003-00
+DBLA003
+
+|
 
 |
 
@@ -1370,7 +1720,19 @@ Pose d'un tube valvé entre le ventricule gauche et l'aorte [tube apicoaortique]
 
 |
 
-DBLF001-00
+DBLA004
+
+|
+
+|
+
+Pose d'une bioprothèse de la valve aortique, par abord de l'apex du coeur par thoracotomie sans CEC
+
+|
+
+DBLF001
+
+|
 
 |
 
@@ -1378,7 +1740,9 @@ Pose d'une bioprothèse de la valve aortique, par voie artérielle transcutanée
 
 |
 
-DBLF009-00
+DBLF009
+
+|
 
 |
 
@@ -1386,15 +1750,9 @@ Pose d'une bioprothèse de la valve pulmonaire dans un conduit prothétique, par
 
 |
 
-DBLA004-00
+DBMA001
 
 |
-
-Pose d'une bioprothèse de la valve aortique, par abord de l'apex du cœur par thoracotomie sans CEC
-
-|
-
-DBMA001-00
 
 |
 
@@ -1402,7 +1760,9 @@ Reconstruction de la voie aortique par élargissement antérodroit de l'anneau a
 
 |
 
-DBMA002-00
+DBMA002
+
+|
 
 |
 
@@ -1410,7 +1770,9 @@ Valvoplastie atrioventriculaire gauche, par thoracotomie avec CEC
 
 |
 
-DBMA003-00
+DBMA003
+
+|
 
 |
 
@@ -1418,7 +1780,9 @@ Annuloplastie atrioventriculaire gauche, par thoracotomie avec CEC
 
 |
 
-DBMA004-00
+DBMA004
+
+|
 
 |
 
@@ -1426,7 +1790,9 @@ Reconstruction de la voie aortique par transfert de la valve pulmonaire en posit
 
 |
 
-DBMA005-00
+DBMA005
+
+|
 
 |
 
@@ -1434,7 +1800,9 @@ Reconstruction de l'anneau atrioventriculaire gauche avec remplacement de la val
 
 |
 
-DBMA006-00
+DBMA006
+
+|
 
 |
 
@@ -1442,7 +1810,9 @@ Reconstruction de l'anneau aortique avec remplacement de la valve par bioprothè
 
 |
 
-DBMA007-00
+DBMA007
+
+|
 
 |
 
@@ -1450,7 +1820,9 @@ Reconstruction de l'anneau atrioventriculaire gauche avec valvoplastie, par thor
 
 |
 
-DBMA008-00
+DBMA008
+
+|
 
 |
 
@@ -1458,7 +1830,9 @@ Annuloplastie atrioventriculaire droite, par thoracotomie avec CEC
 
 |
 
-DBMA009-00
+DBMA009
+
+|
 
 |
 
@@ -1466,7 +1840,9 @@ Reconstruction de l'anneau aortique avec remplacement de la valve par prothèse 
 
 |
 
-DBMA010-00
+DBMA010
+
+|
 
 |
 
@@ -1474,7 +1850,9 @@ Reconstruction de l'anneau aortique avec remplacement de la valve par homogreffe
 
 |
 
-DBMA011-00
+DBMA011
+
+|
 
 |
 
@@ -1482,7 +1860,9 @@ Valvoplastie aortique, par thoracotomie avec CEC
 
 |
 
-DBMA012-00
+DBMA012
+
+|
 
 |
 
@@ -1490,7 +1870,9 @@ Valvoplastie atrioventriculaire droite, par thoracotomie avec CEC
 
 |
 
-DBMA013-00
+DBMA013
+
+|
 
 |
 
@@ -1498,7 +1880,9 @@ Reconstruction de l'anneau atrioventriculaire gauche avec remplacement de la val
 
 |
 
-DBMA015-00
+DBMA015
+
+|
 
 |
 
@@ -1506,7 +1890,9 @@ Reconstruction de la voie aortique par élargissement antérogauche de l'anneau 
 
 |
 
-DBPA001-00
+DBPA001
+
+|
 
 |
 
@@ -1514,7 +1900,9 @@ Commissurotomie [Valvulotomie] ou valvectomie [valvulectomie] pulmonaire avec fe
 
 |
 
-DBPA002-00
+DBPA002
+
+|
 
 |
 
@@ -1522,7 +1910,9 @@ Commissurotomie ou valvectomie atrioventriculaire droite, par thoracotomie avec 
 
 |
 
-DBPA003-00
+DBPA003
+
+|
 
 |
 
@@ -1530,7 +1920,9 @@ Commissurotomie [Valvulotomie] ou valvectomie [valvulectomie] pulmonaire, par th
 
 |
 
-DBPA004-00
+DBPA004
+
+|
 
 |
 
@@ -1538,7 +1930,9 @@ Commissurotomie ou valvectomie pulmonaire, par thoracotomie avec CEC
 
 |
 
-DBPA005-00
+DBPA005
+
+|
 
 |
 
@@ -1546,7 +1940,9 @@ Commissurotomie de la valve atrioventriculaire gauche, par thoracotomie sans CEC
 
 |
 
-DBPA006-00
+DBPA006
+
+|
 
 |
 
@@ -1554,7 +1950,9 @@ Commissurotomie de la valve atrioventriculaire gauche, par thoracotomie avec CEC
 
 |
 
-DBPA007-00
+DBPA007
+
+|
 
 |
 
@@ -1562,7 +1960,9 @@ Commissurotomie de la valve aortique, par thoracotomie avec CEC
 
 |
 
-DBSF001-00
+DBSF001
+
+|
 
 |
 
@@ -1570,7 +1970,9 @@ Fermeture d'une déhiscence par désinsertion de prothèse orificielle cardiaque
 
 |
 
-DCFA001-00
+DCFA001
+
+|
 
 |
 
@@ -1578,7 +1980,9 @@ Péricardectomie subtotale, par thoracotomie
 
 |
 
-DCJA001-00
+DCJA001
+
+|
 
 |
 
@@ -1586,7 +1990,9 @@ Drainage d'une collection du péricarde, par thoracotomie ou par abord infraxiph
 
 |
 
-DCJB001-00
+DCJB001
+
+|
 
 |
 
@@ -1594,15 +2000,19 @@ Drainage d'une collection du péricarde, par voie transcutanée
 
 |
 
-DCJB002-00
+DCJB002
 
 |
 
-Evacuation d'une collection du péricarde, par voie transcutanée
+|
+
+Évacuation d'une collection du péricarde, par voie transcutanée
 
 |
 
-DCMA001-00
+DCMA001
+
+|
 
 |
 
@@ -1610,7 +2020,9 @@ Création d'une fenêtre péricardopéritonéale, par abord infraxiphoïdien
 
 |
 
-DCMC001-00
+DCMC001
+
+|
 
 |
 
@@ -1618,7 +2030,9 @@ Création d'une fenêtre péricardopleurale, par thoracoscopie
 
 |
 
-DDAA002-00
+DDAA002
+
+|
 
 |
 
@@ -1626,7 +2040,9 @@ Angioplastie d'élargissement du tronc commun de l'artère coronaire gauche, par
 
 |
 
-DDEA001-00
+DDEA001
+
+|
 
 |
 
@@ -1634,7 +2050,9 @@ Réimplantation d'une artère coronaire pour anomalie congénitale d'origine, pa
 
 |
 
-DDLF001-00
+DDLF001
+
+|
 
 |
 
@@ -1642,7 +2060,9 @@ Injection in situ d'agent pharmacologique dans une branche d'artère coronaire p
 
 |
 
-DDMA003-00
+DDMA003
+
+|
 
 |
 
@@ -1650,271 +2070,339 @@ Revascularisation coronaire par 3 greffons artériels avec 3 anastomoses distale
 
 |
 
-DDMA004-00
+DDMA004
 
 |
 
-Revascularisation coronaire par greffon veineux avec 4 anastomosess distales ou plus, par thoracotomie avec CEC
+|
+
+Revascularisation coronaire par greffon veineux avec 4 anastomoses distales ou plus, par thoracotomie avec CEC
 
 |
 
-DDMA005-00
+DDMA005
+
+|
 
 |
 
-Revascularisation coronaire par 2 greffons artériels et par greffon veineux avec 3 anastomosess distales, par thoracotomie avec CEC
+Revascularisation coronaire par 2 greffons artériels et par greffon veineux avec 3 anastomoses distales, par thoracotomie avec CEC
 
 |
 
-DDMA006-00
+DDMA006
 
 |
 
-Revascularisation coronaire par 2 greffons artériels avec 3 anastomosess distales, par thoracotomie avec CEC
+|
+
+Revascularisation coronaire par 2 greffons artériels avec 3 anastomoses distales, par thoracotomie avec CEC
 
 |
 
-DDMA007-00
+DDMA007
+
+|
 
 |
 
-Revascularisation coronaire par greffon veineux avec une anastomoses distale, par thoracotomie avec CEC
+Revascularisation coronaire par greffon veineux avec une anastomose distale, par thoracotomie avec CEC
 
 |
 
-DDMA008-00
+DDMA008
 
 |
 
-Revascularisation coronaire par 2 greffons artériels avec 4 anastomosess distales ou plus, par thoracotomie avec CEC
+|
+
+Revascularisation coronaire par 2 greffons artériels avec 4 anastomoses distales ou plus, par thoracotomie avec CEC
 
 |
 
-DDMA009-00
+DDMA009
+
+|
 
 |
 
-Revascularisation coronaire par 2 greffons artériels et par greffon veineux avec 4 anastomosess distales ou plus, par thoracotomie avec CEC
+Revascularisation coronaire par 2 greffons artériels et par greffon veineux avec 4 anastomoses distales ou plus, par thoracotomie avec CEC
 
 |
 
-DDMA011-00
+DDMA011
 
 |
 
-Revascularisation coronaire par un greffon artériel et par greffon veineux avec 2 anastomosess distales, par thoracotomie avec CEC
+|
+
+Revascularisation coronaire par un greffon artériel et par greffon veineux avec 2 anastomoses distales, par thoracotomie avec CEC
 
 |
 
-DDMA012-00
+DDMA012
 
 |
 
-Revascularisation coronaire par 3 greffons artériels et par greffon veineux avec 4 anastomosess distales ou plus, par thoracotomie avec CEC
+|
 
+Revascularisation coronaire par 3 greffons artériels et par greffon veineux avec 4 anastomoses distales ou plus, par thoracotomie avec CEC
+
 |
+
+DDMA013
 
-DDMA013-00
+|
 
 |
 
-Revascularisation coronaire par 3 greffons artériels avec 4 anastomosess distales ou plus, par thoracotomie avec CEC
+Revascularisation coronaire par 3 greffons artériels avec 4 anastomoses distales ou plus, par thoracotomie avec CEC
 
 |
+
+DDMA015
 
-DDMA015-00
+|
 
 |
 
-Revascularisation coronaire par un greffon artériel avec une anastomoses distale, par thoracotomie avec CEC
+Revascularisation coronaire par un greffon artériel avec une anastomose distale, par thoracotomie avec CEC
 
 |
+
+DDMA016
 
-DDMA016-00
+|
 
 |
 
-Revascularisation coronaire par greffon veineux avec 3 anastomosess distales, par thoracotomie avec CEC
+Revascularisation coronaire par greffon veineux avec 3 anastomoses distales, par thoracotomie avec CEC
 
 |
+
+DDMA017
 
-DDMA017-00
+|
 
 |
 
-Revascularisation coronaire par un greffon artériel avec 2 anastomosess distales, par thoracotomie avec CEC
+Revascularisation coronaire par un greffon artériel avec 2 anastomoses distales, par thoracotomie avec CEC
 
 |
+
+DDMA018
 
-DDMA018-00
+|
 
 |
 
-Revascularisation coronaire par un greffon artériel et par greffon veineux avec 3 anastomosess distales, par thoracotomie avec CEC
+Revascularisation coronaire par un greffon artériel et par greffon veineux avec 3 anastomoses distales, par thoracotomie avec CEC
 
 |
+
+DDMA019
 
-DDMA019-00
+|
 
 |
 
-Revascularisation coronaire par greffon veineux avec 2 anastomosess distales, par thoracotomie avec CEC
+Revascularisation coronaire par greffon veineux avec 2 anastomoses distales, par thoracotomie avec CEC
 
 |
+
+DDMA020
 
-DDMA020-00
+|
 
 |
 
-Revascularisation coronaire par 2 greffons artériels avec 2 anastomosess distales, par thoracotomie avec CEC
+Revascularisation coronaire par 2 greffons artériels avec 2 anastomoses distales, par thoracotomie avec CEC
 
 |
+
+DDMA021
 
-DDMA021-00
+|
 
 |
 
-Revascularisation coronaire par un greffon artériel et par greffon veineux avec 4 anastomosess distales ou plus, par thoracotomie avec CEC
+Revascularisation coronaire par un greffon artériel et par greffon veineux avec 4 anastomoses distales ou plus, par thoracotomie avec CEC
 
 |
 
-DDMA022-00
+DDMA022
+
+|
 
 |
 
-Revascularisation coronaire par 2 greffons artériels et par greffon veineux avec 3 anastomosess distales, par thoracotomie sans CEC
+Revascularisation coronaire par 2 greffons artériels et par greffon veineux avec 3 anastomoses distales, par thoracotomie sans CEC
 
 |
 
-DDMA023-00
+DDMA023
 
 |
 
-Revascularisation coronaire par un greffon artériel avec 2 anastomosess distales, par thoracotomie sans CEC
+|
+
+Revascularisation coronaire par un greffon artériel avec 2 anastomoses distales, par thoracotomie sans CEC
 
 |
 
-DDMA024-00
+DDMA024
+
+|
 
 |
 
-Revascularisation coronaire par greffon veineux avec 2 anastomosess distales, par thoracotomie sans CEC
+Revascularisation coronaire par greffon veineux avec 2 anastomoses distales, par thoracotomie sans CEC
 
 |
 
-DDMA025-00
+DDMA025
 
 |
 
-Revascularisation coronaire par un greffon artériel avec une anastomoses distale, par thoracotomie sans CEC
+|
+
+Revascularisation coronaire par un greffon artériel avec une anastomose distale, par thoracotomie sans CEC
 
 |
 
-DDMA026-00
+DDMA026
+
+|
 
 |
 
-Revascularisation coronaire par 2 greffons artériels avec 2 anastomosess distales, par thoracotomie sans CEC
+Revascularisation coronaire par 2 greffons artériels avec 2 anastomoses distales, par thoracotomie sans CEC
 
 |
 
-DDMA027-00
+DDMA027
 
 |
 
-Revascularisation coronaire par greffon veineux avec 3 anastomosess distales, par thoracotomie sans CEC
+|
+
+Revascularisation coronaire par greffon veineux avec 3 anastomoses distales, par thoracotomie sans CEC
 
 |
 
-DDMA028-00
+DDMA028
+
+|
 
 |
 
-Revascularisation coronaire par greffon veineux avec une anastomoses distale, par thoracotomie sans CEC
+Revascularisation coronaire par greffon veineux avec une anastomose distale, par thoracotomie sans CEC
 
 |
 
-DDMA029-00
+DDMA029
 
 |
 
-Revascularisation coronaire par un greffon artériel et par greffon veineux avec 3 anastomosess distales, par thoracotomie sans CEC
+|
+
+Revascularisation coronaire par un greffon artériel et par greffon veineux avec 3 anastomoses distales, par thoracotomie sans CEC
 
 |
 
-DDMA030-00
+DDMA030
 
 |
 
-Revascularisation coronaire par 3 greffons artériels avec 3 anastomosess distales, par thoracotomie sans CEC
+|
 
+Revascularisation coronaire par 3 greffons artériels avec 3 anastomoses distales, par thoracotomie sans CEC
+
 |
+
+DDMA031
 
-DDMA031-00
+|
 
 |
 
-Revascularisation coronaire par 2 greffons artériels avec 3 anastomosess distales, par thoracotomie sans CEC
+Revascularisation coronaire par 2 greffons artériels avec 3 anastomoses distales, par thoracotomie sans CEC
 
 |
+
+DDMA032
 
-DDMA032-00
+|
 
 |
 
-Revascularisation coronaire par un greffon artériel et par greffon veineux avec 2 anastomosess distales, par thoracotomie sans CEC
+Revascularisation coronaire par un greffon artériel et par greffon veineux avec 2 anastomoses distales, par thoracotomie sans CEC
 
 |
+
+DDMA033
 
-DDMA033-00
+|
 
 |
 
-Revascularisation coronaire par 2 greffons artériels avec 4 anastomosess distales ou plus, par thoracotomie sans CEC
+Revascularisation coronaire par 2 greffons artériels avec 4 anastomoses distales ou plus, par thoracotomie sans CEC
 
 |
+
+DDMA034
 
-DDMA034-00
+|
 
 |
 
-Revascularisation coronaire par 2 greffons artériels et par greffon veineux avec 4 anastomosess distales ou plus, par thoracotomie sans CEC
+Revascularisation coronaire par 2 greffons artériels et par greffon veineux avec 4 anastomoses distales ou plus, par thoracotomie sans CEC
 
 |
+
+DDMA035
 
-DDMA035-00
+|
 
 |
 
-Revascularisation coronaire par 3 greffons artériels avec 4 anastomosess distales ou plus, par thoracotomie sans CEC
+Revascularisation coronaire par 3 greffons artériels avec 4 anastomoses distales ou plus, par thoracotomie sans CEC
 
 |
+
+DDMA036
 
-DDMA036-00
+|
 
 |
 
-Revascularisation coronaire par 3 greffons artériels et par greffon veineux avec 4 anastomosess distales ou plus, par thoracotomie sans CEC
+Revascularisation coronaire par 3 greffons artériels et par greffon veineux avec 4 anastomoses distales ou plus, par thoracotomie sans CEC
 
 |
+
+DDMA037
 
-DDMA037-00
+|
 
 |
 
-Revascularisation coronaire par greffon veineux avec 4 anastomosess distales ou plus, par thoracotomie sans CEC
+Revascularisation coronaire par greffon veineux avec 4 anastomoses distales ou plus, par thoracotomie sans CEC
 
 |
+
+DDMA038
 
-DDMA038-00
+|
 
 |
 
-Revascularisation coronaire par un greffon artériel et par greffon veineux avec 4 anastomosess distales ou plus, par thoracotomie sans CEC
+Revascularisation coronaire par un greffon artériel et par greffon veineux avec 4 anastomoses distales ou plus, par thoracotomie sans CEC
 
 |
 
-DDSA001-00
+DDSA001
+
+|
 
 |
 
@@ -1922,7 +2410,9 @@ Fermeture de fistule coronarocardiaque, par thoracotomie avec CEC
 
 |
 
-DDSA002-00
+DDSA002
+
+|
 
 |
 
@@ -1930,7 +2420,9 @@ Fermeture de fistule coronarocardiaque, par thoracotomie sans CEC
 
 |
 
-DEFA001-00
+DEFA001
+
+|
 
 |
 
@@ -1938,7 +2430,9 @@ Exérèse ou destruction de foyer arythmogène pour tachycardie ventriculaire, p
 
 |
 
-DEFA002-00
+DEFA002
+
+|
 
 |
 
@@ -1946,7 +2440,9 @@ Exérèse ou destruction de foyer arythmogène ou de faisceau cardionecteur pour
 
 |
 
-DEGA002-00
+DEGA002
+
+|
 
 |
 
@@ -1954,7 +2450,9 @@ Ablation d'électrode épicardique définitive, par thoracotomie
 
 |
 
-DELA001-00
+DELA001
+
+|
 
 |
 
@@ -1962,7 +2460,9 @@ Implantation d'un stimulateur cardiaque avec pose d'électrodes épicardiques at
 
 |
 
-DELA003-00
+DELA003
+
+|
 
 |
 
@@ -1970,7 +2470,9 @@ Implantation d'un stimulateur cardiaque avec pose d'électrode épicardique vent
 
 |
 
-DELA004-00
+DELA004
+
+|
 
 |
 
@@ -1978,7 +2480,9 @@ Implantation d'un défibrillateur cardiaque avec pose d'électrode épicardique,
 
 |
 
-DELF006-00
+DELF006
+
+|
 
 |
 
@@ -1986,7 +2490,9 @@ Pose d'une sonde intraventriculaire droite et d'une sonde dans le sinus coronair
 
 |
 
-DELF011-00
+DELF011
+
+|
 
 |
 
@@ -1994,7 +2500,9 @@ Pose d'une sonde intraventriculaire droite pour stimulation cardiaque temporaire
 
 |
 
-DFAA002-00
+DFAA002
+
+|
 
 |
 
@@ -2002,7 +2510,9 @@ Angioplastie d'élargissement d'une sténose congénitale d'une branche de l'art
 
 |
 
-DFAA003-00
+DFAA003
+
+|
 
 |
 
@@ -2010,7 +2520,9 @@ Angioplastie d'élargissement d'une sténose congénitale du tronc de l'artère 
 
 |
 
-DFAA004-00
+DFAA004
+
+|
 
 |
 
@@ -2018,7 +2530,9 @@ Angioplastie d'élargissement d'une sténose congénitale de la bifurcation de l
 
 |
 
-DFAA005-00
+DFAA005
+
+|
 
 |
 
@@ -2026,7 +2540,9 @@ Angioplastie d'élargissement d'une sténose congénitale d'une branche de l'art
 
 |
 
-DFAF001-00
+DFAF001
+
+|
 
 |
 
@@ -2034,7 +2550,9 @@ Dilatation intraluminale de plusieurs branches de l'artère pulmonaire avec pose
 
 |
 
-DFAF002-00
+DFAF002
+
+|
 
 |
 
@@ -2042,7 +2560,9 @@ Dilatation intraluminale d'une branche de l'artère pulmonaire sans pose d'endop
 
 |
 
-DFAF003-00
+DFAF003
+
+|
 
 |
 
@@ -2050,7 +2570,9 @@ Dilatation intraluminale d'une branche de l'artère pulmonaire avec pose d'endop
 
 |
 
-DFAF004-00
+DFAF004
+
+|
 
 |
 
@@ -2058,7 +2580,9 @@ Dilatation intraluminale de plusieurs branches de l'artère pulmonaire sans pose
 
 |
 
-DFBA001-00
+DFBA001
+
+|
 
 |
 
@@ -2066,7 +2590,9 @@ Cerclage de l'artère pulmonaire, par thoracotomie sans CEC
 
 |
 
-DFCA001-00
+DFCA001
+
+|
 
 |
 
@@ -2074,7 +2600,9 @@ Suture de plaie d'artère pulmonaire ou de veine pulmonaire, par thoracotomie sa
 
 |
 
-DFCA002-00
+DFCA002
+
+|
 
 |
 
@@ -2082,7 +2610,9 @@ Anastomose cavopulmonaire fonctionnellement terminoterminale, par thoracotomie s
 
 |
 
-DFCA003-00
+DFCA003
+
+|
 
 |
 
@@ -2090,7 +2620,9 @@ Anastomose artérielle systémicopulmonaire avec prothèse, par thoracotomie san
 
 |
 
-DFCA004-00
+DFCA004
+
+|
 
 |
 
@@ -2098,7 +2630,9 @@ Anastomose cavopulmonaire ou atriopulmonaire totale, par thoracotomie avec CEC
 
 |
 
-DFCA005-00
+DFCA005
+
+|
 
 |
 
@@ -2106,7 +2640,9 @@ Anastomose cavopulmonaire bidirectionnelle, par thoracotomie sans CEC
 
 |
 
-DFCA006-00
+DFCA006
+
+|
 
 |
 
@@ -2114,7 +2650,9 @@ Anastomose entre le tronc de l'artère pulmonaire et l'aorte thoracique ascendan
 
 |
 
-DFCA007-00
+DFCA007
+
+|
 
 |
 
@@ -2122,7 +2660,9 @@ Anastomose cavopulmonaire bidirectionnelle, par thoracotomie avec CEC
 
 |
 
-DFCA008-00
+DFCA008
+
+|
 
 |
 
@@ -2130,7 +2670,9 @@ Anastomose cavopulmonaire fonctionnellement terminoterminale, par thoracotomie a
 
 |
 
-DFCA009-00
+DFCA009
+
+|
 
 |
 
@@ -2138,15 +2680,19 @@ Anastomose artérielle systémicopulmonaire sans prothèse, par thoracotomie san
 
 |
 
-DFCA010-00
+DFCA010
 
 |
 
-Anastomose entre le tronc pulmonaire et l'aorte avec anastomoses systémicopulmonaire, par thoracotomie avec CEC
+|
+
+Anastomose entre le tronc pulmonaire et l'aorte avec anastomose systémicopulmonaire, par thoracotomie avec CEC
 
 |
 
-DFEA001-00
+DFEA001
+
+|
 
 |
 
@@ -2154,7 +2700,9 @@ Réimplantation d'une artère pulmonaire pour anomalie d'origine, par thoracotom
 
 |
 
-DFFA001-00
+DFFA001
+
+|
 
 |
 
@@ -2162,7 +2710,9 @@ Embolectomie de l'artère pulmonaire, par thoracotomie avec CEC
 
 |
 
-DFFA002-00
+DFFA002
+
+|
 
 |
 
@@ -2170,15 +2720,19 @@ Embolectomie de l'artère pulmonaire, par thoracotomie sans CEC
 
 |
 
-DFFA003-00
+DFFA003
 
 |
 
-Thromboendartériectomie du tronc et/ ou des branches de l'artère pulmonaire, par thoracotomie avec CEC
+|
+
+Thromboendartériectomie du tronc et/ou des branches de l'artère pulmonaire, par thoracotomie avec CEC
 
 |
 
-DFFA004-00
+DFFA004
+
+|
 
 |
 
@@ -2186,7 +2740,9 @@ Exérèse de tumeur des vaisseaux pulmonaires, par thoracotomie sans CEC
 
 |
 
-DFGA001-00
+DFGA001
+
+|
 
 |
 
@@ -2194,7 +2750,9 @@ Ablation d'un cerclage pulmonaire, par thoracotomie avec CEC
 
 |
 
-DFGA002-00
+DFGA002
+
+|
 
 |
 
@@ -2202,7 +2760,9 @@ Ablation d'un cerclage pulmonaire avec fermeture de communications interventricu
 
 |
 
-DFGA003-00
+DFGA003
+
+|
 
 |
 
@@ -2210,7 +2770,9 @@ Ablation d'un cerclage pulmonaire, par thoracotomie sans CEC
 
 |
 
-DFGA004-00
+DFGA004
+
+|
 
 |
 
@@ -2218,7 +2780,9 @@ Ablation d'un cerclage pulmonaire avec fermeture d'une communication interventri
 
 |
 
-DFMA001-00
+DFMA001
+
+|
 
 |
 
@@ -2226,7 +2790,9 @@ Réparation d'une obstruction du retour veineux pulmonaire, par thoracotomie ave
 
 |
 
-DFMA003-00
+DFMA003
+
+|
 
 |
 
@@ -2234,7 +2800,9 @@ Unifocalisation artérielle pulmonaire, par thoracotomie sans CEC
 
 |
 
-DFMA004-00
+DFMA004
+
+|
 
 |
 
@@ -2242,7 +2810,9 @@ Réparation du retour veineux pulmonaire anormal total, par thoracotomie avec CE
 
 |
 
-DFMA006-00
+DFMA006
+
+|
 
 |
 
@@ -2250,7 +2820,9 @@ Unifocalisation artérielle pulmonaire, par thoracotomie avec CEC
 
 |
 
-DFMA008-00
+DFMA008
+
+|
 
 |
 
@@ -2258,15 +2830,19 @@ Réparation du retour veineux pulmonaire anormal partiel, par thoracotomie avec 
 
 |
 
-DFMA010-00
+DFMA010
 
 |
 
-Démontage d'une anastomoses cavopulmonaire totale, par thoracotomie avec CEC
+|
+
+Démontage d'une anastomose cavopulmonaire totale, par thoracotomie avec CEC
 
 |
 
-DFMA011-00
+DFMA011
+
+|
 
 |
 
@@ -2274,7 +2850,9 @@ Réparation d'une atrésie de l'artère pulmonaire avec fermeture d'une communic
 
 |
 
-DFMA012-00
+DFMA012
+
+|
 
 |
 
@@ -2282,7 +2860,9 @@ Réparation d'une atrésie de l'artère pulmonaire avec fermeture d'une communic
 
 |
 
-DFNF001-00
+DFNF001
+
+|
 
 |
 
@@ -2290,7 +2870,9 @@ Fibrinolyse in situ de l'artère pulmonaire, par voie veineuse transcutanée
 
 |
 
-DFNF002-00
+DFNF002
+
+|
 
 |
 
@@ -2298,7 +2880,9 @@ Thrombolyse mécanique ou thromboaspiration de l'artère pulmonaire, par voie ve
 
 |
 
-DFSA001-00
+DFSA001
+
+|
 
 |
 
@@ -2306,7 +2890,9 @@ Suppression de circulation systémique pulmonaire, par thoracotomie
 
 |
 
-DFSA002-00
+DFSA002
+
+|
 
 |
 
@@ -2314,7 +2900,9 @@ Fermeture de fistule ou exclusion d'anévrisme artérioveineux pulmonaire, par t
 
 |
 
-DFSF001-00
+DFSF001
+
+|
 
 |
 
@@ -2322,7 +2910,9 @@ Oblitération d'anévrisme sacculaire de l'artère pulmonaire, par voie veineuse
 
 |
 
-DGAA002-00
+DGAA002
+
+|
 
 |
 
@@ -2330,7 +2920,9 @@ Angioplastie d'élargissement ou résection-anastomose d'une sténose de l'aorte
 
 |
 
-DGAA003-00
+DGAA003
+
+|
 
 |
 
@@ -2338,7 +2930,9 @@ Angioplastie d'élargissement de l'aorte thoracique horizontale avec réimplanta
 
 |
 
-DGAA004-00
+DGAA004
+
+|
 
 |
 
@@ -2346,7 +2940,9 @@ Angioplastie d'élargissement ou résection-anastomose d'une sténose de l'aorte
 
 |
 
-DGAA005-00
+DGAA005
+
+|
 
 |
 
@@ -2354,7 +2950,9 @@ Angioplastie d'élargissement ou résection-anastomose d'une sténose de l'aorte
 
 |
 
-DGAA006-00
+DGAA006
+
+|
 
 |
 
@@ -2362,7 +2960,9 @@ Angioplastie d'élargissement de l'aorte thoracique horizontale sans réimplanta
 
 |
 
-DGAF001-00
+DGAF001
+
+|
 
 |
 
@@ -2370,7 +2970,9 @@ Dilatation intraluminale de l'aorte thoracique sans pose d'endoprothèse, par vo
 
 |
 
-DGAF003-00
+DGAF003
+
+|
 
 |
 
@@ -2378,7 +2980,9 @@ Dilatation intraluminale d'une coarctation de l'aorte abdominale, par voie arté
 
 |
 
-DGAF004-00
+DGAF004
+
+|
 
 |
 
@@ -2386,7 +2990,9 @@ Dilatation intraluminale d'une coarctation de l'aorte thoracique avec pose d'end
 
 |
 
-DGAF005-00
+DGAF005
+
+|
 
 |
 
@@ -2394,7 +3000,9 @@ Dilatation intraluminale de l'aorte abdominale avec pose d'endoprothèse, par vo
 
 |
 
-DGAF006-00
+DGAF006
+
+|
 
 |
 
@@ -2402,7 +3010,9 @@ Dilatation intraluminale d'une coarctation de l'aorte thoracique sans pose d'end
 
 |
 
-DGAF007-00
+DGAF007
+
+|
 
 |
 
@@ -2410,7 +3020,9 @@ Dilatation intraluminale de l'aorte thoracique avec pose d'endoprothèse, par vo
 
 |
 
-DGAF008-00
+DGAF008
+
+|
 
 |
 
@@ -2418,15 +3030,19 @@ Dilatation intraluminale de l'aorte abdominale sans pose d'endoprothèse, par vo
 
 |
 
-DGCA001-00
+DGCA001
 
 |
 
-Suture de plaie de l'aorte abdominale, d'une artère iliaque commune et/ ou d'une artère iliaque externe, par laparotomie
+|
+
+Suture de plaie de l'aorte abdominale, d'une artère iliaque commune et/ou d'une artère iliaque externe, par laparotomie
 
 |
 
-DGCA002-00
+DGCA002
+
+|
 
 |
 
@@ -2434,7 +3050,9 @@ Suture d'une rupture de l'isthme de l'aorte, par thoracotomie sans CEC
 
 |
 
-DGCA003-00
+DGCA003
+
+|
 
 |
 
@@ -2442,7 +3060,9 @@ Pontage rétropéritonéal entre l'aorte thoracique descendante et les artères 
 
 |
 
-DGCA005-00
+DGCA005
+
+|
 
 |
 
@@ -2450,7 +3070,9 @@ Pontage aortohépatique, par laparotomie
 
 |
 
-DGCA006-00
+DGCA006
+
+|
 
 |
 
@@ -2458,7 +3080,9 @@ Suture d'une rupture de l'isthme de l'aorte, par thoracotomie avec CEC
 
 |
 
-DGCA008-00
+DGCA008
+
+|
 
 |
 
@@ -2466,7 +3090,9 @@ Pontage entre l'aorte thoracique ascendante et l'aorte abdominale avec exclusion
 
 |
 
-DGCA010-00
+DGCA010
+
+|
 
 |
 
@@ -2474,7 +3100,9 @@ Pontage bifurqué aortobifémoral, par laparotomie avec clampage suprarénal
 
 |
 
-DGCA011-00
+DGCA011
+
+|
 
 |
 
@@ -2482,7 +3110,9 @@ Pontages multiples entre l'aorte et les troncs supraaortiques, par thoracotomie 
 
 |
 
-DGCA012-00
+DGCA012
+
+|
 
 |
 
@@ -2490,7 +3120,9 @@ Pontage aortoaortique infrarénal par laparotomie, avec clampage suprarénal
 
 |
 
-DGCA013-00
+DGCA013
+
+|
 
 |
 
@@ -2498,7 +3130,9 @@ Pontages multiples entre l'aorte et les troncs supraaortiques, par thoracotomie 
 
 |
 
-DGCA014-00
+DGCA014
+
+|
 
 |
 
@@ -2506,7 +3140,9 @@ Pontage rétrograde aortomésentérique ou iliomésentérique supérieur, par la
 
 |
 
-DGCA015-00
+DGCA015
+
+|
 
 |
 
@@ -2514,7 +3150,9 @@ Pontage entre l'aorte thoracique ascendante et l'aorte abdominale sans exclusion
 
 |
 
-DGCA016-00
+DGCA016
+
+|
 
 |
 
@@ -2522,7 +3160,9 @@ Pontage antérograde aortomésentérique supérieur, par laparotomie
 
 |
 
-DGCA017-00
+DGCA017
+
+|
 
 |
 
@@ -2530,7 +3170,9 @@ Suture latérale de plaie de l'aorte thoracique, par thoracotomie avec CEC
 
 |
 
-DGCA018-00
+DGCA018
+
+|
 
 |
 
@@ -2538,7 +3180,9 @@ Pontage aortorénal antérograde unilatéral, par laparotomie ou par lombotomie
 
 |
 
-DGCA019-00
+DGCA019
+
+|
 
 |
 
@@ -2546,7 +3190,9 @@ Pontage aortofémoral unilatéral, par laparotomie avec clampage suprarénal
 
 |
 
-DGCA020-00
+DGCA020
+
+|
 
 |
 
@@ -2554,7 +3200,9 @@ Pontage bifurqué aorto-ilio-fémoral, par laparotomie avec clampage suprarénal
 
 |
 
-DGCA021-00
+DGCA021
+
+|
 
 |
 
@@ -2562,7 +3210,9 @@ Pontage aortobirénal, par laparotomie
 
 |
 
-DGCA023-00
+DGCA023
+
+|
 
 |
 
@@ -2570,7 +3220,9 @@ Pontage entre l'aorte thoracique descendante ou l'aorte juxtadiaphragmatique et 
 
 |
 
-DGCA024-00
+DGCA024
+
+|
 
 |
 
@@ -2578,7 +3230,9 @@ Pontage aortorénal rétrograde unilatéral, par laparotomie ou par lombotomie
 
 |
 
-DGCA025-00
+DGCA025
+
+|
 
 |
 
@@ -2586,7 +3240,9 @@ Suture latérale de plaie de l'aorte thoracique, par thoracotomie sans CEC
 
 |
 
-DGCA026-00
+DGCA026
+
+|
 
 |
 
@@ -2594,7 +3250,9 @@ Pontage bifurqué aortobisiliaque, par laparotomie avec clampage suprarénal
 
 |
 
-DGCA027-00
+DGCA027
+
+|
 
 |
 
@@ -2602,7 +3260,9 @@ Pontage entre l'aorte thoracique ascendante et l'aorte abdominale sans exclusion
 
 |
 
-DGCA028-00
+DGCA028
+
+|
 
 |
 
@@ -2610,7 +3270,9 @@ Pontage entre l'aorte thoracique ascendante et l'aorte thoracique descendante, p
 
 |
 
-DGCA031-00
+DGCA031
+
+|
 
 |
 
@@ -2618,7 +3280,9 @@ Pontage entre l'aorte thoracique ascendante et l'aorte thoracique descendante, p
 
 |
 
-DGCA032-00
+DGCA032
+
+|
 
 |
 
@@ -2626,7 +3290,81 @@ Pontage entre l'aorte et le tronc artériel brachiocéphalique, par thoracotomie
 
 |
 
-DGDA001-00
+DGCC812
+
+|
+
+-01
+
+|
+
+Pontage aortoaortique infrarénal par coelioscopie, avec clampage suprarénal
+
+|
+
+DGCC825
+
+|
+
+-01
+
+|
+
+Pontage bifurqué aortobifémoral, par coelioscopie avec clampage suprarénal
+
+|
+
+DGCC852
+
+|
+
+-01
+
+|
+
+Mise à plat d'un anévrisme aortique infrarénal non rompu avec pose d'élément prothétique aortoaortique infrarénal, par coelioscopie avec clampage suprarénal
+
+|
+
+DGCC857
+
+|
+
+-01
+
+|
+
+Pontage bifurqué aortobisiliaque, par coelioscopie avec clampage suprarénal
+
+|
+
+DGCC859
+
+|
+
+-01
+
+|
+
+Pontage aortofémoral unilatéral, par coelioscopie avec clampage suprarénal
+
+|
+
+DGCC872
+
+|
+
+-01
+
+|
+
+Pontage bifurqué aorto-ilio-fémoral, par coelioscopie avec clampage suprarénal
+
+|
+
+DGDA001
+
+|
 
 |
 
@@ -2634,7 +3372,9 @@ Aortopexie rétrosternale
 
 |
 
-DGFA001-00
+DGFA001
+
+|
 
 |
 
@@ -2642,7 +3382,9 @@ Thromboendartériectomie du tronc de l'aorte abdominale, par laparotomie
 
 |
 
-DGFA002-00
+DGFA002
+
+|
 
 |
 
@@ -2650,7 +3392,9 @@ Thromboendartériectomie de l'aorte thoracique horizontale et des troncs supraao
 
 |
 
-DGFA011-00
+DGFA011
+
+|
 
 |
 
@@ -2658,7 +3402,9 @@ Thromboendartériectomie du tronc et de branche viscérale de l'aorte juxtadiaph
 
 |
 
-DGFA012-00
+DGFA012
+
+|
 
 |
 
@@ -2666,7 +3412,9 @@ Thrombectomie d'un pontage ou d'une thromboendartériectomie de l'aorte abdomina
 
 |
 
-DGFA013-00
+DGFA013
+
+|
 
 |
 
@@ -2674,7 +3422,9 @@ Résection-anastomose de l'isthme de l'aorte, par thoracotomie avec dérivation 
 
 |
 
-DGFA014-00
+DGFA014
+
+|
 
 |
 
@@ -2682,7 +3432,9 @@ Résection-anastomose de l'aorte thoracique descendante ou de l'aorte juxtadiaph
 
 |
 
-DGFA015-00
+DGFA015
+
+|
 
 |
 
@@ -2690,7 +3442,9 @@ Résection-anastomose de l'aorte abdominale ou de l'artère iliaque commune, par
 
 |
 
-DGFA016-00
+DGFA016
+
+|
 
 |
 
@@ -2698,7 +3452,9 @@ Résection-anastomose de l'isthme de l'aorte, par thoracotomie sans dérivation 
 
 |
 
-DGFA017-00
+DGFA017
+
+|
 
 |
 
@@ -2706,7 +3462,9 @@ Résection-anastomose de l'aorte thoracique descendante ou de l'aorte juxtadiaph
 
 |
 
-DGFA018-00
+DGFA018
+
+|
 
 |
 
@@ -2714,7 +3472,9 @@ Résection-anastomose de l'isthme de l'aorte, par thoracotomie avec CEC
 
 |
 
-DGFA019-00
+DGFA019
+
+|
 
 |
 
@@ -2722,7 +3482,9 @@ Résection-anastomose de l'aorte thoracique descendante ou de l'aorte juxtadiaph
 
 |
 
-DGFA020-00
+DGFA020
+
+|
 
 |
 
@@ -2730,7 +3492,9 @@ Résection-anastomose de l'isthme de l'aorte, par thoracotomie sans CEC, avant l
 
 |
 
-DGGA001-00
+DGGA001
+
+|
 
 |
 
@@ -2738,7 +3502,9 @@ Ablation d'un dispositif de contrepulsion diastolique intraaortique, par thoraco
 
 |
 
-DGGA004-00
+DGGA004
+
+|
 
 |
 
@@ -2746,7 +3512,9 @@ Ablation d'un dispositif de contrepulsion diastolique intraaortique avec rétabl
 
 |
 
-DGKA001-00
+DGKA001
+
+|
 
 |
 
@@ -2754,7 +3522,9 @@ Remplacement de l'aorte thoracique ascendante et de l'aorte horizontale sans rem
 
 |
 
-DGKA002-00
+DGKA002
+
+|
 
 |
 
@@ -2762,7 +3532,9 @@ Remplacement de l'isthme de l'aorte, par thoracotomie sans dérivation vasculair
 
 |
 
-DGKA003-00
+DGKA003
+
+|
 
 |
 
@@ -2770,7 +3542,9 @@ Remplacement de l'aorte thoracique ascendante sans remplacement de la valve aort
 
 |
 
-DGKA005-00
+DGKA005
+
+|
 
 |
 
@@ -2778,7 +3552,9 @@ Remplacement de l'aorte thoracique horizontale, par thoracotomie avec CEC
 
 |
 
-DGKA006-00
+DGKA006
+
+|
 
 |
 
@@ -2786,7 +3562,9 @@ Remplacement de l'aorte thoracique descendante et de l'aorte juxtadiaphragmatiqu
 
 |
 
-DGKA007-00
+DGKA007
+
+|
 
 |
 
@@ -2794,7 +3572,9 @@ Remplacement de l'aorte thoracique descendante, par thoracotomie avec CEC
 
 |
 
-DGKA008-00
+DGKA008
+
+|
 
 |
 
@@ -2802,7 +3582,9 @@ Remplacement de l'aorte thoracique descendante et de l'aorte juxtadiaphragmatiqu
 
 |
 
-DGKA009-00
+DGKA009
+
+|
 
 |
 
@@ -2810,7 +3592,9 @@ Remplacement de l'aorte thoracique descendante, par thoracotomie sans CEC
 
 |
 
-DGKA010-00
+DGKA010
+
+|
 
 |
 
@@ -2818,7 +3602,9 @@ Remplacement de l'aorte juxtadiaphragmatique, par thoraco-phréno-laparotomie av
 
 |
 
-DGKA011-00
+DGKA011
+
+|
 
 |
 
@@ -2826,7 +3612,9 @@ Remplacement de l'aorte thoracique ascendante avec remplacement de la valve aort
 
 |
 
-DGKA012-00
+DGKA012
+
+|
 
 |
 
@@ -2834,7 +3622,9 @@ Remplacement de l'ensemble de l'aorte thoracique, par thoraco-phréno-laparotomi
 
 |
 
-DGKA013-00
+DGKA013
+
+|
 
 |
 
@@ -2842,7 +3632,9 @@ Remplacement de l'aorte juxtadiaphragmatique, par thoraco-phréno-laparotomie sa
 
 |
 
-DGKA014-00
+DGKA014
+
+|
 
 |
 
@@ -2850,7 +3642,9 @@ Remplacement de l'aorte thoracique ascendante et de l'aorte horizontale avec rem
 
 |
 
-DGKA015-00
+DGKA015
+
+|
 
 |
 
@@ -2858,7 +3652,9 @@ Remplacement de l'aorte thoracique ascendante avec remplacement de la valve aort
 
 |
 
-DGKA016-00
+DGKA016
+
+|
 
 |
 
@@ -2866,7 +3662,9 @@ Remplacement de l'aorte juxtadiaphragmatique, par thoraco-phréno-laparotomie av
 
 |
 
-DGKA017-00
+DGKA017
+
+|
 
 |
 
@@ -2874,7 +3672,9 @@ Remplacement de l'aorte thoracique descendante pour sténose congénitale, par t
 
 |
 
-DGKA018-00
+DGKA018
+
+|
 
 |
 
@@ -2882,7 +3682,9 @@ Remplacement de l'aorte thoracique ascendante et de l'aorte horizontale avec rem
 
 |
 
-DGKA019-00
+DGKA019
+
+|
 
 |
 
@@ -2890,7 +3692,9 @@ Remplacement de l'isthme de l'aorte, par thoracotomie avec dérivation vasculair
 
 |
 
-DGKA020-00
+DGKA020
+
+|
 
 |
 
@@ -2898,7 +3702,9 @@ Remplacement de l'aorte thoracique descendante et de l'aorte juxtadiaphragmatiqu
 
 |
 
-DGKA021-00
+DGKA021
+
+|
 
 |
 
@@ -2906,7 +3712,9 @@ Remplacement de l'aorte thoracique descendante pour sténose congénitale, par t
 
 |
 
-DGKA022-00
+DGKA022
+
+|
 
 |
 
@@ -2914,7 +3722,9 @@ Remplacement de l'isthme de l'aorte pour coarctation, par thoracotomie sans CEC
 
 |
 
-DGKA023-00
+DGKA023
+
+|
 
 |
 
@@ -2922,7 +3732,9 @@ Remplacement de l'isthme de l'aorte, par thoracotomie avec CEC
 
 |
 
-DGKA024-00
+DGKA024
+
+|
 
 |
 
@@ -2930,7 +3742,9 @@ Remplacement de l'isthme de l'aorte pour coarctation, par thoracotomie avec CEC
 
 |
 
-DGKA025-00
+DGKA025
+
+|
 
 |
 
@@ -2938,7 +3752,9 @@ Remplacement de l'aorte thoracique ascendante sans remplacement de la valve aort
 
 |
 
-DGKA026-00
+DGKA026
+
+|
 
 |
 
@@ -2946,7 +3762,9 @@ Remplacement de l'aorte thoracique ascendante et de l'aorte horizontale sans rem
 
 |
 
-DGKA027-00
+DGKA027
+
+|
 
 |
 
@@ -2954,7 +3772,9 @@ Remplacement de l'aorte thoracique descendante pour rupture d'anévrisme, par th
 
 |
 
-DGKA028-00
+DGKA028
+
+|
 
 |
 
@@ -2962,7 +3782,9 @@ Remplacement de l'aorte thoracique ascendante pour rupture d'anévrisme, par tho
 
 |
 
-DGKA029-00
+DGKA029
+
+|
 
 |
 
@@ -2970,7 +3792,9 @@ Remplacement de l'aorte juxtadiaphragmatique pour rupture d'anévrisme, par thor
 
 |
 
-DGLA002-00
+DGLA002
+
+|
 
 |
 
@@ -2978,7 +3802,9 @@ Pose d'un ballon de contrepulsion diastolique intraaortique, par abord artériel
 
 |
 
-DGLF003-00
+DGLF003
+
+|
 
 |
 
@@ -2986,7 +3812,9 @@ Pose d'endoprothèse couverte dans l'aorte thoracique, par voie artérielle tran
 
 |
 
-DGLF006-00
+DGLF006
+
+|
 
 |
 
@@ -2994,7 +3822,9 @@ Pose d'un ballon de contrepulsion diastolique intraaortique, par voie artériell
 
 |
 
-DGMA001-00
+DGMA001
+
+|
 
 |
 
@@ -3002,7 +3832,9 @@ Correction d'une interruption de l'aorte thoracique horizontale avec prothèse, 
 
 |
 
-DGMA002-00
+DGMA002
+
+|
 
 |
 
@@ -3010,7 +3842,9 @@ Correction d'une interruption de l'aorte thoracique horizontale sans prothèse, 
 
 |
 
-DGMA005-00
+DGMA005
+
+|
 
 |
 
@@ -3018,7 +3852,9 @@ Correction d'une interruption de l'aorte thoracique horizontale avec réparation
 
 |
 
-DGMA009-00
+DGMA009
+
+|
 
 |
 
@@ -3026,7 +3862,9 @@ Plastie d'une sténose supraorificielle de l'aorte, par thoracotomie avec CEC
 
 |
 
-DGMA010-00
+DGMA010
+
+|
 
 |
 
@@ -3034,7 +3872,9 @@ Correction d'une interruption de l'aorte thoracique horizontale avec prothèse, 
 
 |
 
-DGMA011-00
+DGMA011
+
+|
 
 |
 
@@ -3042,7 +3882,9 @@ Correction d'une interruption de l'aorte thoracique horizontale sans prothèse, 
 
 |
 
-DGMA012-00
+DGMA012
+
+|
 
 |
 
@@ -3050,7 +3892,9 @@ Correction d'une interruption de l'aorte thoracique horizontale sans prothèse, 
 
 |
 
-DGPA001-00
+DGPA001
+
+|
 
 |
 
@@ -3058,7 +3902,9 @@ Mise à plat d'un anévrisme aorto-ilio-fémoral avec remplacement prothétique 
 
 |
 
-DGPA008-00
+DGPA008
+
+|
 
 |
 
@@ -3066,7 +3912,9 @@ Mise à plat d'un anévrisme aortique infrarénal ou aortobisiliaque non rompu a
 
 |
 
-DGPA013-00
+DGPA013
+
+|
 
 |
 
@@ -3074,7 +3922,9 @@ Mise à plat d'un anévrisme aortique infrarénal ou aortobisiliaque non rompu a
 
 |
 
-DGPA014-00
+DGPA014
+
+|
 
 |
 
@@ -3082,7 +3932,9 @@ Désobstruction d'une prothèse de l'aorte thoracique, par thoracotomie
 
 |
 
-DGPA017-00
+DGPA017
+
+|
 
 |
 
@@ -3090,7 +3942,9 @@ Mise à plat d'un anévrisme aortique infrarénal non rompu avec remplacement pr
 
 |
 
-DGPA018-00
+DGPA018
+
+|
 
 |
 
@@ -3098,7 +3952,45 @@ Mise à plat d'un anévrisme aortique infrarénal ou aortobisiliaque rompu avec 
 
 |
 
-DGSA001-00
+DGPC807
+
+|
+
+-01
+
+|
+
+Mise à plat d'un anévrisme aortique infrarénal ou aortobisiliaque non rompu avec pose d'élément prothétique aortobifémoral, par coelioscopie avec clampage suprarénal
+
+|
+
+DGPC810
+
+|
+
+-01
+
+|
+
+Mise à plat d'un anévrisme aortique infrarénal ou aortobisiliaque non rompu avec pose d'élément prothétique aortobisiliaque, par coelioscopie avec clampage suprarénal
+
+|
+
+DGPC858
+
+|
+
+-01
+
+|
+
+Mise à plat d'un anévrisme aorto-ilio-fémoral avec avec pose d'élément prothétique bifurqué aorto-ilio-fémoral, par coelioscopie avec clampage suprarénal
+
+|
+
+DGSA001
+
+|
 
 |
 
@@ -3106,7 +3998,9 @@ Fermeture de fistule aortodigestive ou iliodigestive avec pontage non anatomique
 
 |
 
-DGSA002-00
+DGSA002
+
+|
 
 |
 
@@ -3114,7 +4008,9 @@ Fermeture de fistule artérioveineuse aortocave, iliocave ou ilio-iliaque avec p
 
 |
 
-DGSA003-00
+DGSA003
+
+|
 
 |
 
@@ -3122,7 +4018,9 @@ Fermeture d'une fenêtre [fistule] aortopulmonaire, par thoracotomie avec CEC
 
 |
 
-DGSA004-00
+DGSA004
+
+|
 
 |
 
@@ -3130,7 +4028,9 @@ Fermeture de fistule aortodigestive ou iliodigestive avec pontage aortoaortique 
 
 |
 
-DGSA005-00
+DGSA005
+
+|
 
 |
 
@@ -3138,7 +4038,9 @@ Hémostase secondaire à un acte sur l'aorte abdominale ou ses branches, par lap
 
 |
 
-DHCA001-00
+DHCA001
+
+|
 
 |
 
@@ -3146,7 +4048,9 @@ Suture de plaie de la veine cave inférieure rétrohépatique ou suprahépatique
 
 |
 
-DHCA002-00
+DHCA002
+
+|
 
 |
 
@@ -3154,7 +4058,9 @@ Pontage de la veine brachiocéphalique ou de la veine cave supérieure, par thor
 
 |
 
-DHCA003-00
+DHCA003
+
+|
 
 |
 
@@ -3162,15 +4068,19 @@ Suture de plaie de la veine brachiocéphalique ou de la veine cave supérieure, 
 
 |
 
-DHFA001-00
+DHFA001
 
 |
 
-Résection de la veine cave inférieure suprarénale rétrohépatique et/ ou suprahépatique avec reconstruction, par laparotomie
+|
+
+Résection de la veine cave inférieure suprarénale rétrohépatique et/ou suprahépatique avec reconstruction, par laparotomie
 
 |
 
-DHFA002-00
+DHFA002
+
+|
 
 |
 
@@ -3178,15 +4088,19 @@ Résection de la veine cave inférieure infrarénale sans reconstruction, par la
 
 |
 
-DHFA003-00
+DHFA003
 
 |
 
-Thrombectomie des veines iliaques et/ ou de la veine cave inférieure, par laparotomie
+|
+
+Thrombectomie des veines iliaques et/ou de la veine cave inférieure, par laparotomie
 
 |
 
-DHFA004-00
+DHFA004
+
+|
 
 |
 
@@ -3194,15 +4108,19 @@ Résection de la veine cave inférieure suprarénale infrahépatique sans recons
 
 |
 
-DHFA005-00
+DHFA005
 
 |
 
-Résection de la veine cave inférieure suprarénale rétrohépatique et/ ou suprahépatique sans reconstruction, par laparotomie
+|
+
+Résection de la veine cave inférieure suprarénale rétrohépatique et/ou suprahépatique sans reconstruction, par laparotomie
 
 |
 
-DHFA006-00
+DHFA006
+
+|
 
 |
 
@@ -3210,7 +4128,9 @@ Résection de la veine cave inférieure suprarénale infrahépatique avec recons
 
 |
 
-DHFA007-00
+DHFA007
+
+|
 
 |
 
@@ -3218,7 +4138,9 @@ Résection de la veine cave inférieure infrarénale avec reconstruction, par la
 
 |
 
-DHGA001-00
+DHGA001
+
+|
 
 |
 
@@ -3226,7 +4148,9 @@ Ablation d'un filtre de la veine cave inférieure sans reconstruction de la vein
 
 |
 
-DHGA002-00
+DHGA002
+
+|
 
 |
 
@@ -3234,7 +4158,9 @@ Ablation d'un filtre de la veine cave inférieure avec reconstruction de la vein
 
 |
 
-DHNF005-00
+DHNF005
+
+|
 
 |
 
@@ -3242,7 +4168,9 @@ Fibrinolyse in situ de la veine cave supérieure, par voie veineuse transcutané
 
 |
 
-DHPA001-00
+DHPA001
+
+|
 
 |
 
@@ -3250,7 +4178,9 @@ Désobstruction de la veine cave supérieure, par thoracotomie
 
 |
 
-DHSA001-00
+DHSA001
+
+|
 
 |
 
@@ -3258,15 +4188,19 @@ Oblitération partielle de la veine cave inférieure, par laparotomie
 
 |
 
-DHSA002-00
+DHSA002
 
 |
 
-Ligature de la veine cave inférieure et/ ou de l'une de ses branches viscérales, par laparotomie
+|
+
+Ligature de la veine cave inférieure et/ou de l'une de ses branches viscérales, par laparotomie
 
 |
 
-DKMD001-00
+DKMD001
+
+|
 
 |
 
@@ -3274,7 +4208,9 @@ Ressuscitation cardiorespiratoire avec intubation trachéale, en dehors d'un blo
 
 |
 
-DKMD002-00
+DKMD002
+
+|
 
 |
 
@@ -3282,47 +4218,59 @@ Ressuscitation cardiorespiratoire avec intubation trachéale, dans un bloc médi
 
 |
 
-DZEA001-00
+DZEA001
 
 |
 
-Transplantation itérative du cœur, par thoracotomie avec CEC
+|
+
+Transplantation itérative du coeur, par thoracotomie avec CEC
 
 |
 
-DZEA002-00
+DZEA002
 
 |
 
-Transplantation orthotopique du cœur, par thoracotomie avec CEC
+|
+
+Transplantation orthotopique du coeur, par thoracotomie avec CEC
 
 |
 
-DZEA003-00
+DZEA003
 
 |
 
-Transplantation hétérotopique du cœur, par thoracotomie avec CEC
+|
+
+Transplantation hétérotopique du coeur, par thoracotomie avec CEC
 
 |
 
-DZEA004-00
+DZEA004
 
 |
 
-Transplantation du bloc cœur-poumons, par thoracotomie avec CEC
+|
+
+Transplantation du bloc coeur-poumons, par thoracotomie avec CEC
 
 |
 
-DZFA004-00
+DZFA004
 
 |
 
-Exérèse d'un greffon de transplantation du cœur avec pose d'une assistance circulatoire mécanique biventriculaire interne, par thoracotomie avec CEC
+|
+
+Exérèse d'un greffon de transplantation du coeur avec pose d'une assistance circulatoire mécanique biventriculaire interne, par thoracotomie avec CEC
 
 |
 
-DZMA001-00
+DZMA001
+
+|
 
 |
 
@@ -3330,7 +4278,9 @@ Réparation d'une malposition des gros vaisseaux avec communication interventric
 
 |
 
-DZMA002-00
+DZMA002
+
+|
 
 |
 
@@ -3338,7 +4288,9 @@ Réparation anatomique de la discordance atrioventriculaire et de la transpositi
 
 |
 
-DZMA003-00
+DZMA003
+
+|
 
 |
 
@@ -3346,7 +4298,9 @@ Réparation anatomique à l'étage artériel et atrial de la discordance atriove
 
 |
 
-DZMA004-00
+DZMA004
+
+|
 
 |
 
@@ -3354,7 +4308,9 @@ Réparation à l'étage artériel d'une transposition ou d'une malposition des g
 
 |
 
-DZMA005-00
+DZMA005
+
+|
 
 |
 
@@ -3362,7 +4318,9 @@ Réparation de la tétralogie de Fallot sans section de l'anneau pulmonaire, par
 
 |
 
-DZMA006-00
+DZMA006
+
+|
 
 |
 
@@ -3370,7 +4328,9 @@ Réparation à l'étage atrial d'une transposition ou d'une malposition des gros
 
 |
 
-DZMA007-00
+DZMA007
+
+|
 
 |
 
@@ -3378,7 +4338,9 @@ Réparation à l'étage artériel de la transposition des gros vaisseaux, par th
 
 |
 
-DZMA009-00
+DZMA009
+
+|
 
 |
 
@@ -3386,7 +4348,9 @@ Réparation du tronc artériel commun [truncus arteriosus], par thoracotomie ave
 
 |
 
-DZMA010-00
+DZMA010
+
+|
 
 |
 
@@ -3394,7 +4358,9 @@ Réparation d'une malposition des gros vaisseaux avec communication interventric
 
 |
 
-DZMA011-00
+DZMA011
+
+|
 
 |
 
@@ -3402,7 +4368,9 @@ Réparation de la tétralogie de Fallot avec section de l'anneau pulmonaire, par
 
 |
 
-DZMA012-00
+DZMA012
+
+|
 
 |
 
@@ -3410,23 +4378,29 @@ Réparation à l'étage atrial de la transposition des gros vaisseaux, par thora
 
 |
 
-DZSA001-00
+DZSA001
 
 |
 
-Suppression d'une anastomoses palliative pour cardiopathie congénitale, avec angioplastie d'agrandissement d'une branche de l'artère pulmonaire, par thoracotomie avec CEC
+|
+
+Suppression d'une anastomose palliative pour cardiopathie congénitale, avec angioplastie d'agrandissement d'une branche de l'artère pulmonaire, par thoracotomie avec CEC
 
 |
 
-DZSA002-00
+DZSA002
 
 |
 
-Hémostase secondaire à un acte sur le cœur et/ ou les vaisseaux intrathoraciques, par thoracotomie
+|
+
+Hémostase secondaire à un acte sur le coeur et/ou les vaisseaux intrathoraciques, par thoracotomie
 
 |
 
-EAAF002-00
+EAAF002
+
+|
 
 |
 
@@ -3434,7 +4408,9 @@ Dilatation intraluminale du tronc de l'artère carotide interne intracrânienne 
 
 |
 
-EAAF004-00
+EAAF004
+
+|
 
 |
 
@@ -3442,7 +4418,9 @@ Dilatation intraluminale du tronc de l'artère carotide interne intracrânienne 
 
 |
 
-EABA001-00
+EABA001
+
+|
 
 |
 
@@ -3450,7 +4428,9 @@ Enrobage d'un anévrisme artériel intracrânien, par craniotomie
 
 |
 
-EACA001-00
+EACA001
+
+|
 
 |
 
@@ -3458,7 +4438,9 @@ Exclusion de fistule artérioveineuse de la faux du cerveau ou de la tente du ce
 
 |
 
-EACA002-00
+EACA002
+
+|
 
 |
 
@@ -3466,7 +4448,9 @@ Exclusion d'anévrismes artériels intracrâniens multiples, par craniotomie uni
 
 |
 
-EACA003-00
+EACA003
+
+|
 
 |
 
@@ -3474,7 +4458,9 @@ Exclusion d'un anévrisme artériel intracrânien d'un diamètre supérieur à 2
 
 |
 
-EACA004-00
+EACA004
+
+|
 
 |
 
@@ -3482,7 +4468,9 @@ Exclusion d'un anévrisme artériel vertébrobasilaire d'un diamètre inférieur
 
 |
 
-EACA005-00
+EACA005
+
+|
 
 |
 
@@ -3490,7 +4478,9 @@ Exclusion de fistule artérioveineuse d'un sinus veineux dural [fistule ostéodu
 
 |
 
-EACA006-00
+EACA006
+
+|
 
 |
 
@@ -3498,7 +4488,9 @@ Exclusion de fistule artérioveineuse durale de la convexité, par craniotomie
 
 |
 
-EACA007-00
+EACA007
+
+|
 
 |
 
@@ -3506,7 +4498,9 @@ Exclusion d'un anévrisme artériel supratentoriel d'un diamètre inférieur ou 
 
 |
 
-EAFA001-00
+EAFA001
+
+|
 
 |
 
@@ -3514,7 +4508,9 @@ Embolectomie ou thromboendartériectomie de vaisseau intracrânien, par cranioto
 
 |
 
-EAFA003-00
+EAFA003
+
+|
 
 |
 
@@ -3522,7 +4518,9 @@ Exérèse de malformation artérioveineuse cérébrale superficielle supratentor
 
 |
 
-EAFA004-00
+EAFA004
+
+|
 
 |
 
@@ -3530,7 +4528,9 @@ Exérèse d'une tumeur du glomus [corpuscule] tympanojugulaire étendue à la fo
 
 |
 
-EAFA005-00
+EAFA005
+
+|
 
 |
 
@@ -3538,7 +4538,9 @@ Exérèse de malformation artérioveineuse encéphalique infratentorielle, par c
 
 |
 
-EAFA008-00
+EAFA008
+
+|
 
 |
 
@@ -3546,7 +4548,9 @@ Exérèse de malformation artérioveineuse cérébrale profonde supratentorielle
 
 |
 
-EAFA009-00
+EAFA009
+
+|
 
 |
 
@@ -3554,7 +4558,9 @@ Exérèse de malformation artérioveineuse cérébrale superficielle supratentor
 
 |
 
-EANF002-00
+EANF002
+
+|
 
 |
 
@@ -3562,7 +4568,9 @@ Fibrinolyse in situ suprasélective d'artère intracrânienne, par voie artérie
 
 |
 
-EASA001-00
+EASA001
+
+|
 
 |
 
@@ -3570,7 +4578,9 @@ Ligature de vaisseau intracrânien supratentoriel, par craniotomie
 
 |
 
-EASA002-00
+EASA002
+
+|
 
 |
 
@@ -3578,15 +4588,19 @@ Ligature de vaisseau intracrânien infratentoriel, par craniotomie
 
 |
 
-EASF001-00
+EASF001
 
 |
 
-Oblitération de plusieurs anévrismes sacculaires artériels intracrâniens en dehors d'une période aiguë hémorragique, par voie artérielle transcutanée
+|
+
+Oblitération de plusieurs anévrismes sacculaires artériels intracrâniens en dehors d'une période aigüe hémorragique, par voie artérielle transcutanée
 
 |
 
-EASF004-00
+EASF004
+
+|
 
 |
 
@@ -3594,39 +4608,49 @@ Embolisation suprasélective unilatérale ou bilatérale de branche de l'artère
 
 |
 
-EASF005-00
+EASF005
 
 |
 
-Embolisation d'une fistule artérioveineuse durale craniœncéphalique multipédiculaire, par voie artérielle et par voie veineuse transcutanées
+|
+
+Embolisation d'une fistule artérioveineuse durale cranioencéphalique multipédiculaire, par voie artérielle et par voie veineuse transcutanées
 
 |
 
-EASF007-00
+EASF007
 
 |
 
-Oblitération intraluminale d'une artère intracrânienne porteuse d'un anévrisme en période aiguë hémorragique, par voie artérielle transcutanée
+|
+
+Oblitération intraluminale d'une artère intracrânienne porteuse d'un anévrisme en période aigüe hémorragique, par voie artérielle transcutanée
 
 |
 
-EASF010-00
+EASF010
 
 |
 
-Oblitération d'un anévrisme sacculaire artériel intracrânien en période aiguë hémorragique, par voie artérielle transcutanée
+|
+
+Oblitération d'un anévrisme sacculaire artériel intracrânien en période aigüe hémorragique, par voie artérielle transcutanée
 
 |
 
-EASF011-00
+EASF011
 
 |
 
-Oblitération d'un anévrisme sacculaire artériel intracrânien en dehors d'une période aiguë hémorragique, par voie artérielle transcutanée
+|
+
+Oblitération d'un anévrisme sacculaire artériel intracrânien en dehors d'une période aigüe hémorragique, par voie artérielle transcutanée
 
 |
 
-EASF012-00
+EASF012
+
+|
 
 |
 
@@ -3634,15 +4658,19 @@ Occlusion intraluminale d'un vaisseau intracrânien, par voie vasculaire transcu
 
 |
 
-EASF013-00
+EASF013
 
 |
 
-Oblitération de plusieurs anévrismes sacculaires artériels intracrâniens en période aiguë hémorragique, par voie artérielle transcutanée
+|
+
+Oblitération de plusieurs anévrismes sacculaires artériels intracrâniens en période aigüe hémorragique, par voie artérielle transcutanée
 
 |
 
-EASF014-00
+EASF014
+
+|
 
 |
 
@@ -3650,15 +4678,19 @@ Embolisation sélective ou hypersélective unilatérale ou bilatérale de branch
 
 |
 
-EASF015-00
+EASF015
 
 |
 
-Embolisation d'une fistule artérioveineuse durale craniœncéphalique multipédiculaire, par voie artérielle ou veineuse transcutanée
+|
+
+Embolisation d'une fistule artérioveineuse durale cranioencéphalique multipédiculaire, par voie artérielle ou veineuse transcutanée
 
 |
 
-EBAA002-00
+EBAA002
+
+|
 
 |
 
@@ -3666,7 +4698,9 @@ Angioplastie d'élargissement de la bifurcation carotidienne sans thromboendart�
 
 |
 
-EBAF001-00
+EBAF001
+
+|
 
 |
 
@@ -3674,7 +4708,9 @@ Dilatation intraluminale de l'artère carotide interne extracrânienne avec pose
 
 |
 
-EBAF004-00
+EBAF004
+
+|
 
 |
 
@@ -3682,7 +4718,9 @@ Dilatation intraluminale de l'artère carotide commune cervicale sans pose d'end
 
 |
 
-EBAF010-00
+EBAF010
+
+|
 
 |
 
@@ -3690,7 +4728,9 @@ Dilatation intraluminale de l'artère carotide commune cervicale avec pose d'end
 
 |
 
-EBAF011-00
+EBAF011
+
+|
 
 |
 
@@ -3698,7 +4738,9 @@ Dilatation intraluminale de la bifurcation carotidienne avec pose d'endoprothès
 
 |
 
-EBCA001-00
+EBCA001
+
+|
 
 |
 
@@ -3706,7 +4748,9 @@ Pontage croisé carotidosubclavier ou carotidoaxillaire, par cervicotomie
 
 |
 
-EBCA003-00
+EBCA003
+
+|
 
 |
 
@@ -3714,7 +4758,9 @@ Suture de plaie de l'artère carotide commune, par cervicotomie et par thoracoto
 
 |
 
-EBCA004-00
+EBCA004
+
+|
 
 |
 
@@ -3722,7 +4768,9 @@ Pontage croisé intercarotidien, par cervicotomie
 
 |
 
-EBCA005-00
+EBCA005
+
+|
 
 |
 
@@ -3730,7 +4778,9 @@ Pontage carotidovertébral distal ou subclaviovertébral distal, par cervicotomi
 
 |
 
-EBCA008-00
+EBCA008
+
+|
 
 |
 
@@ -3738,7 +4788,9 @@ Pontage homolatéral carotidosubclavier ou carotidoaxillaire, par cervicotomie
 
 |
 
-EBCA010-00
+EBCA010
+
+|
 
 |
 
@@ -3746,7 +4798,9 @@ Pontage artériel extra-intracrânien sans autogreffe, par craniotomie et par ce
 
 |
 
-EBCA011-00
+EBCA011
+
+|
 
 |
 
@@ -3754,7 +4808,9 @@ Pontage artériel extra-intracrânien avec autogreffe, par craniotomie et par ce
 
 |
 
-EBCA013-00
+EBCA013
+
+|
 
 |
 
@@ -3762,7 +4818,9 @@ Pontage carotidohuméral ou subclaviohuméral, par abord direct
 
 |
 
-EBCA014-00
+EBCA014
+
+|
 
 |
 
@@ -3770,7 +4828,9 @@ Pontage carotidovertébral proximal ou subclaviovertébral proximal, par cervico
 
 |
 
-EBCA015-00
+EBCA015
+
+|
 
 |
 
@@ -3778,7 +4838,9 @@ Pontage aortocarotidien, par cervicotomie et par thoracotomie
 
 |
 
-EBCA016-00
+EBCA016
+
+|
 
 |
 
@@ -3786,7 +4848,9 @@ Suture de plaie de l'artère vertébrale proximale, par cervicotomie
 
 |
 
-EBCA017-00
+EBCA017
+
+|
 
 |
 
@@ -3794,7 +4858,9 @@ Pontage entre l'artère carotide commune et l'artère carotide interne homolaté
 
 |
 
-EBEA002-00
+EBEA002
+
+|
 
 |
 
@@ -3802,7 +4868,9 @@ Réimplantation de l'artère vertébrale proximale dans l'artère subclavière o
 
 |
 
-EBEA004-00
+EBEA004
+
+|
 
 |
 
@@ -3810,7 +4878,9 @@ Réimplantation de l'artère vertébrale distale dans l'artère carotide interne
 
 |
 
-EBEA005-00
+EBEA005
+
+|
 
 |
 
@@ -3818,7 +4888,9 @@ Réimplantation de l'artère carotide commune dans l'artère subclavière, par c
 
 |
 
-EBFA001-00
+EBFA001
+
+|
 
 |
 
@@ -3826,7 +4898,9 @@ Exérèse d'une tumeur du glomus [corpuscule] carotidien avec conservation de l'
 
 |
 
-EBFA003-00
+EBFA003
+
+|
 
 |
 
@@ -3834,7 +4908,9 @@ Thromboendartériectomie de l'artère carotide commune, par cervicotomie
 
 |
 
-EBFA004-00
+EBFA004
+
+|
 
 |
 
@@ -3842,7 +4918,9 @@ Thrombectomie d'un pontage ou d'une thromboendartériectomie des troncs supraaor
 
 |
 
-EBFA008-00
+EBFA008
+
+|
 
 |
 
@@ -3850,7 +4928,9 @@ Thromboendartériectomie de la bifurcation carotidienne par retournement, par ce
 
 |
 
-EBFA010-00
+EBFA010
+
+|
 
 |
 
@@ -3858,7 +4938,9 @@ Thromboendartériectomie de l'artère carotide commune, par cervicotomie et par 
 
 |
 
-EBFA011-00
+EBFA011
+
+|
 
 |
 
@@ -3866,7 +4948,9 @@ Exérèse d'une tumeur du glomus [corpuscule] carotidien avec reconstruction de 
 
 |
 
-EBFA013-00
+EBFA013
+
+|
 
 |
 
@@ -3874,7 +4958,9 @@ Thrombectomie d'un pontage ou d'une thromboendartériectomie d'artère à destin
 
 |
 
-EBFA014-00
+EBFA014
+
+|
 
 |
 
@@ -3882,7 +4968,9 @@ Résection de l'artère carotide interne avec réimplantation dans l'artère car
 
 |
 
-EBFA015-00
+EBFA015
+
+|
 
 |
 
@@ -3890,7 +4978,9 @@ Thromboendartériectomie de la bifurcation carotidienne par retournement, par ce
 
 |
 
-EBFA019-00
+EBFA019
+
+|
 
 |
 
@@ -3898,7 +4988,9 @@ Résection-anastomose de l'artère carotide interne, par cervicotomie
 
 |
 
-EBFA020-00
+EBFA020
+
+|
 
 |
 
@@ -3906,7 +4998,9 @@ Résection-anastomose de l'artère carotide commune, par cervicotomie et par tho
 
 |
 
-EBFA021-00
+EBFA021
+
+|
 
 |
 
@@ -3914,7 +5008,9 @@ Résection-anastomose de l'artère carotide commune, par cervicotomie
 
 |
 
-EBKA001-00
+EBKA001
+
+|
 
 |
 
@@ -3922,7 +5018,9 @@ Remplacement de l'artère carotide commune, par cervicotomie
 
 |
 
-EBKA002-00
+EBKA002
+
+|
 
 |
 
@@ -3930,7 +5028,9 @@ Remplacement de l'artère carotide interne, par cervicotomie
 
 |
 
-EBKA003-00
+EBKA003
+
+|
 
 |
 
@@ -3938,7 +5038,9 @@ Remplacement de l'artère carotide commune, par cervicotomie et par thoracotomie
 
 |
 
-EBNF001-00
+EBNF001
+
+|
 
 |
 
@@ -3946,7 +5048,9 @@ Fibrinolyse in situ sélective ou hypersélective d'une artère extracrânienne 
 
 |
 
-EBNF002-00
+EBNF002
+
+|
 
 |
 
@@ -3954,7 +5058,9 @@ Fibrinolyse in situ suprasélective d'une artère extracrânienne à destination
 
 |
 
-EBSA005-00
+EBSA005
+
+|
 
 |
 
@@ -3962,7 +5068,9 @@ Occlusion progressive de l'artère carotide commune ou de l'artère carotide int
 
 |
 
-EBSA011-00
+EBSA011
+
+|
 
 |
 
@@ -3970,7 +5078,9 @@ Hémostase secondaire, par reprise de cervicotomie
 
 |
 
-EBSA012-00
+EBSA012
+
+|
 
 |
 
@@ -3978,7 +5088,9 @@ Hémostase secondaire à un acte sur les vaisseaux cervicocéphaliques, par cerv
 
 |
 
-ECAF003-00
+ECAF003
+
+|
 
 |
 
@@ -3986,1792 +5098,12 @@ Dilatation intraluminale du tronc artériel brachiocéphalique ou de l'artère c
 
 |
 
-ECAF004-00
+ECAF004
+
+|
 
 |
 
 Dilatation intraluminale du tronc artériel brachiocéphalique ou de l'artère carotide commune intrathoracique avec pose d'endoprothèse, par voie artérielle transcutanée
 
 |
-
-ECCA006-00
-
-|
-
-Suture de plaie du tronc artériel brachiocéphalique, par thoracotomie
-
-|
-
-ECFA001-00
-
-|
-
-Thromboendartériectomie du tronc artériel brachiocéphalique, par thoracotomie
-
-|
-
-ECKA001-00
-
-|
-
-Remplacement du tronc artériel brachiocéphalique, par thoracotomie
-
-|
-
-ECPA003-00
-
-|
-
-Section-anastomose d'un vaisseau pour anomalie des arcs aortiques, par thoracotomie sans CEC
-
-|
-
-ECSA002-00
-
-|
-
-Ligature du tronc artériel brachiocéphalique, par thoracotomie
-
-|
-
-EDCA002-00
-
-|
-
-Suture de plaie de l'artère rénale, par laparotomie ou par lombotomie
-
-|
-
-EDEA001-00
-
-|
-
-Réimplantation ou pontage de l'artère iliaque interne ou d'une de ses branches, par laparotomie
-
-|
-
-EDEA004-00
-
-|
-
-Réimplantation de l'artère rénale dans l'aorte, par laparotomie ou par lombotomie
-
-|
-
-EDEA005-00
-
-|
-
-Réimplantation d'une artère digestive dans l'aorte, par laparotomie
-
-|
-
-EDFA001-00
-
-|
-
-Thromboendartériectomie de l'artère rénale par artériotomie rénale, par laparotomie ou par lombotomie
-
-|
-
-EDFA002-00
-
-|
-
-Thrombectomie d'artère digestive, par laparotomie
-
-|
-
-EDFA004-00
-
-|
-
-Thromboendartériectomie des artères rénales par aortotomie, par laparotomie
-
-|
-
-EDFA005-00
-
-|
-
-Thromboendartériectomie de l'artère mésentérique supérieure et/ ou du tronc cœliaque ou de ses branches, par thoraco-phréno-laparotomie
-
-|
-
-EDFA008-00
-
-|
-
-Thrombectomie de l'artère rénale, par laparotomie ou par lombotomie
-
-|
-
-EDFA009-00
-
-|
-
-Résection-anastomose de l'artère rénale, par laparotomie ou par lombotomie
-
-|
-
-EDKA002-00
-
-|
-
-Remplacement de l'artère rénale, par laparotomie ou par lombotomie
-
-|
-
-EDMA001-00
-
-|
-
-Revascularisation de l'artère rénale à partir d'une artère digestive, par laparotomie ou par lombotomie
-
-|
-
-EDMA003-00
-
-|
-
-Revascularisation des branches de l'artère rénale sur le rein in situ, par laparotomie ou par lombotomie
-
-|
-
-EDMA004-00
-
-|
-
-Réparation de l'artère rénale et/ ou de ses branches sur le rein ex situ avec autotransplantation du rein, par laparotomie ou par lombotomie
-
-|
-
-EDSF011-00
-
-|
-
-Embolisation des artères iliaques internes [hypogastriques] et/ ou de ses branches pour hémorragie du post-partum, par voie artérielle transcutanée
-
-|
-
-EFFA002-00
-
-|
-
-Résection de la veine brachiocéphalique, par thoracotomie
-
-|
-
-EGCA002-00
-
-|
-
-Suture de plaie du tronc ou des branches viscérales de la veine iliaque et/ ou de la veine cave inférieure infrahépatique, par laparotomie
-
-|
-
-EGCA003-00
-
-|
-
-Pontage veineux fémoro-iliaque homolatéral, fémorocave ou fémororénal, par abord direct
-
-|
-
-EHAA001-00
-
-|
-
-Recalibrage d'une anastomoses portocave, par laparotomie
-
-|
-
-EHCA001-00
-
-|
-
-Pontage veineux mésentéricoatrial, par thoracotomie et par laparotomie
-
-|
-
-EHCA002-00
-
-|
-
-Anastomose veineuse splénorénale distale sélective avec déconnexion portosystémique, par laparotomie
-
-|
-
-EHCA003-00
-
-|
-
-Anastomose portocave tronculaire ou portorénale, par laparotomie
-
-|
-
-EHCA004-00
-
-|
-
-Anastomose veineuse splénorénale distale sélective sans déconnexion portosystémique, par laparotomie
-
-|
-
-EHCA005-00
-
-|
-
-Anastomose entre une branche du système porte autre que la veine splénique ou la veine mésentérique supérieure et le système cave inférieur, par laparotomie
-
-|
-
-EHCA006-00
-
-|
-
-Anastomose mésentéricocave inférieure, par laparotomie
-
-|
-
-EHCA007-00
-
-|
-
-Anastomose veineuse splénorénale centrale avec splénectomie, par laparotomie
-
-|
-
-EHCA008-00
-
-|
-
-Suture de plaie de la veine porte et/ ou de l'une de ses branches principales, par laparotomie
-
-|
-
-EHCA009-00
-
-|
-
-Anastomose mésentérico-ilio-cave, par laparotomie
-
-|
-
-EHCA010-00
-
-|
-
-Anastomose entre une branche du système porte et le système cave supérieur, par abord direct
-
-|
-
-EHFA001-00
-
-|
-
-Thrombectomie de la veine porte et/ ou de l'un de ses affluents principaux, par laparotomie
-
-|
-
-ELFA001-00
-
-|
-
-Résection du tronc de la veine porte, des vaisseaux mésentériques supérieurs et/ ou de l'artère hépatique avec rétablissement de la continuité vasculaire, au cours d'une exérèse du foie ou du pancréas
-
-|
-
-EMLA001-00
-
-|
-
-Pose d'une dérivation artérioveineuse fémorale, par abord direct
-
-|
-
-ENCA001-00
-
-|
-
-Exclusion de malformation artérioveineuse durale rachidienne, par abord direct
-
-|
-
-ENFA007-00
-
-|
-
-Exérèse de malformation artérioveineuse intraparenchymateuse de la moelle épinière, par abord direct
-
-|
-
-ENSF003-00
-
-|
-
-Embolisation de malformation artérioveineuse durale spinale, par voie vasculaire transcutanée
-
-|
-
-EPLA002-00
-
-|
-
-Pose d'un cathéter veineux central tunnellisé à double courant pour circulation extracorporelle, par abord direct
-
-|
-
-EPLB002-00
-
-|
-
-Pose d'un cathéter central dans 2 veines différentes pour circulation extracorporelle, par voie transcutanée
-
-|
-
-EPLF003-00
-
-|
-
-Pose d'un cathéter veineux central tunnellisé pour circulation extracorporelle, par voie transcutanée
-
-|
-
-EPLF004-00
-
-|
-
-Pose de 2 cathéters centraux tunnellisés dans une seule veine pour circulation extracorporelle, par voie transcutanée
-
-|
-
-EPLF005-00
-
-|
-
-Pose d'un cathéter veineux central non tunnellisé pour circulation extracorporelle, par voie transcutanée
-
-|
-
-EPMA001-00
-
-|
-
-Correction d'une anomalie du retour veineux systémique sans prothèse, par thoracotomie avec CEC
-
-|
-
-EPMA002-00
-
-|
-
-Correction d'une anomalie du retour veineux systémique avec prothèse, par thoracotomie avec CEC
-
-|
-
-EPPP003-00
-
-|
-
-Désobstruction locale d'un cathéter veineux pour circulation extracorporelle
-
-|
-
-EQCF001-00
-
-|
-
-Circulation extracorporelle pour réchauffement d'une hypothermie accidentelle
-
-|
-
-EQGA001-00
-
-|
-
-Ablation d'une circulation extracorporelle [CEC] établie sur les vaisseaux périphériques
-
-|
-
-EQGA002-00
-
-|
-
-Ablation d'une circulation extracorporelle [CEC] pour assistance circulatoire de longue durée, par thoracotomie
-
-|
-
-EQGA003-00
-
-|
-
-Ablation d'un dispositif d'assistance circulatoire interne ou externe, en dehors d'un dispositif de contrepulsion diastolique intraaortique, par thoracotomie sans CEC
-
-|
-
-EQGA004-00
-
-|
-
-Ablation d'un dispositif d'assistance circulatoire interne ou externe, en dehors d'un dispositif de contrepulsion diastolique intraaortique, par thoracotomie avec CEC
-
-|
-
-EQKA002-00
-
-|
-
-Changement d'un système d'assistance circulatoire mécanique ventriculaire, par thoracotomie avec CEC
-
-|
-
-EQKA003-00
-
-|
-
-Changement d'un système d'assistance circulatoire mécanique ventriculaire, par thoracotomie sans CEC
-
-|
-
-EQLA001-00
-
-|
-
-Pose d'une circulation extracorporelle pour assistance circulatoire de longue durée, par thoracotomie
-
-|
-
-EQLA002-00
-
-|
-
-Pose d'une circulation extracorporelle en urgence pour assistance circulatoire, par abord vasculaire périphérique
-
-|
-
-EQLA003-00
-
-|
-
-Pose d'une assistance circulatoire mécanique monoventriculaire externe, par thoracotomie sans CEC
-
-|
-
-EQLA004-00
-
-|
-
-Pose d'une assistance circulatoire mécanique monoventriculaire externe, par thoracotomie avec CEC
-
-|
-
-EQLA005-00
-
-|
-
-Pose d'une assistance circulatoire mécanique biventriculaire externe, par thoracotomie sans CEC
-
-|
-
-EQLA006-00
-
-|
-
-Pose d'une assistance circulatoire mécanique biventriculaire externe, par thoracotomie avec CEC
-
-|
-
-EQLA007-00
-
-|
-
-Pose d'une assistance circulatoire mécanique monoventriculaire interne, par thoracotomie sans CEC
-
-|
-
-EQLA008-00
-
-|
-
-Pose d'une assistance circulatoire mécanique monoventriculaire interne, par thoracotomie avec CEC
-
-|
-
-EQLA009-00
-
-|
-
-Pose d'une assistance circulatoire mécanique biventriculaire interne, par thoracotomie sans CEC
-
-|
-
-EQLA010-00
-
-|
-
-Pose d'une prothèse mécanique biventriculaire orthotopique, par thoracotomie avec CEC
-
-|
-
-EQLA011-00
-
-|
-
-Pose d'un dispositif interne d'assistance circulatoire, en dehors de la circulation extracorporelle [CEC] et de ventricule artificiel, par thoracotomie sans CEC
-
-|
-
-EQLF005-00
-
-|
-
-Administration intraveineuse continue d'agent pharmacologique vasoactif chez le nouveau-né pour suppléance hémodynamique, par 24 heures
-
-|
-
-EQMF003-00
-
-|
-
-Suppléance hémodynamique et ventilatoire d'un patient en état de mort encéphalique, en vue de prélèvement d'organe
-
-|
-
-EQMP001-00
-
-|
-
-Suppléance hémodynamique par dispositif de contrepulsion diastolique intraaortique, par 24 heures
-
-|
-
-EQQF004-00
-
-|
-
-Mesure et enregistrement des pressions du cœur droit, de l'artère pulmonaire et du cœur gauche, sans injection de produit de contraste, par voie veineuse transcutanée avec perforation du septum interatrial
-
-|
-
-EQQH004-00
-
-|
-
-Mesure et enregistrement des pressions du cœur droit, de l'artère pulmonaire et du cœur gauche, avec injection de produit de contraste, par voie veineuse transcutanée avec perforation du septum interatrial
-
-|
-
-EQQH005-00
-
-|
-
-Mesure et enregistrement des pressions du cœur droit, de l'artère pulmonaire et du cœur gauche, avec injection de produit de contraste, par voie veineuse transcutanée et par voie artérielle transcutanée ou cathétérisme du foramen ovale, avant l'âge de 24
-
-|
-
-EQQP004-00
-
-|
-
-Suppléance hémodynamique par circulation extracorporelle, par 24 heures
-
-|
-
-EQQP012-00
-
-|
-
-Surveillance continue des pressions du cœur droit avec mesure du débit cardiaque ou de la fraction d'éjection du ventricule droit, par 24 heures
-
-|
-
-EQQP013-00
-
-|
-
-Suppléance hémodynamique par assistance circulatoire mécanique ventriculaire, par 24 heures
-
-|
-
-EQQP014-00
-
-|
-
-Surveillance continue des pressions du cœur droit avec mesure du débit cardiaque ou de la fraction d'éjection du ventricule droit, avec surveillance continue de la pression intraartérielle par méthode effractive, par 24 heures
-
-|
-
-EZKA001-00
-
-|
-
-Changement de la membrane d'un site d'accès vasculaire implanté pour circulation extracorporelle
-
-|
-
-EZLA001-00
-
-|
-
-Implantation souscutanée d'un site d'accès vasculaire pour circulation extracorporelle
-
-|
-
-EZMA004-00
-
-|
-
-Création d'une fistule artérioveineuse pour accès vasculaire par abord direct sans superficialisation veineuse, chez un sujet de moins de 20 kg
-
-|
-
-EZSA005-00
-
-|
-
-Fermeture d'une communication artérioveineuse tronculaire congénitale [d'un shunt artérioveineux tronculaire congénital], par abord direct
-
-|
-
-FBFA003-00
-
-|
-
-Exérèse du thymus vestigial, par thoracotomie
-
-|
-
-FBFA900-00
-
-|
-
-Exérèse du thymus vestigial, par thoracotomie avec préparation par thoracoscopie
-
-|
-
-FCFA003-00
-
-|
-
-Exérèse de lymphangiome cervical avec extension médiastinale, par cervicotomie
-
-|
-
-FCFA004-00
-
-|
-
-Curage lymphonodal [ganglionnaire] médiastinal unilatéral ou bilatéral, par thoracotomie
-
-|
-
-FCFA014-00
-
-|
-
-Exérèse de lymphangiome cervicoparotidien avec extension buccopharyngée
-
-|
-
-FCFA015-00
-
-|
-
-Exérèse de lymphangiome cervicoparotidien
-
-|
-
-FCFA017-00
-
-|
-
-Curage lymphonodal du hile du poumon et du médiastin, au cours d'une intervention pleuropulmonaire
-
-|
-
-FCFA023-00
-
-|
-
-Exérèse de lymphangiome cervicoparotidien avec extension buccopharyngée et médiastinale, par cervicotomie
-
-|
-
-FCFC002-00
-
-|
-
-Exérèse de nœud [ganglion] lymphatique du médiastin, par thoracoscopie ou par médiastinoscopie
-
-|
-
-FCSA001-00
-
-|
-
-Fermeture de fistule ou ligature du conduit thoracique, par thoracotomie
-
-|
-
-FCSC001-00
-
-|
-
-Fermeture de fistule ou ligature du conduit thoracique, par thoracoscopie
-
-|
-
-FEJF002-00
-
-|
-
-Séance non programmée de soustraction thérapeutique de plasma avec perfusion de produit de substitution [échange plasmatique] pour affection aiguë
-
-|
-
-FEJF009-00
-
-|
-
-Séance d'ultrafiltration plasmatique
-
-|
-
-FELF003-00
-
-|
-
-Administration intraveineuse simultanée de deux des produits sanguins suivants : plasma frais congelé, plaquettes, facteur antihémophilique, fibrinogène, antithrombine III pour suppléance de coagulopathie, par 24 heures
-
-|
-
-FELF004-00
-
-|
-
-Transfusion de concentré de globules rouges d'un volume supérieur à une demi-masse sanguine chez l'adulte ou à 40 millilitres par kilogramme [ml/ kg] chez le nouveau-né en moins de 24 heures
-
-|
-
-FEPF004-00
-
-|
-
-Séance non programmée de leucaphérèse thérapeutique pour affection aiguë
-
-|
-
-FFSA001-00
-
-|
-
-Hémostase splénique avec conservation de la rate, par laparotomie
-
-|
-
-GCMA001-00
-
-|
-
-Plastie des choanes par abord transpalatin, pour imperforation unilatérale ou bilatérale
-
-|
-
-GDCA002-00
-
-|
-
-Exclusion du larynx
-
-|
-
-GDFA001-00
-
-|
-
-Hyo-thyro-épiglottectomie
-
-|
-
-GDFA003-00
-
-|
-
-Glottectomie horizontale
-
-|
-
-GDFA005-00
-
-|
-
-Laryngectomie totale
-
-|
-
-GDFA006-00
-
-|
-
-Laryngectomie partielle verticale
-
-|
-
-GDFA007-00
-
-|
-
-Exérèse de lésion laryngée infraglottique, par laryngotomie
-
-|
-
-GDFA008-00
-
-|
-
-Laryngectomie supraglottique étendue à la base de langue
-
-|
-
-GDFA009-00
-
-|
-
-Laryngectomie supracricoïdienne avec cricohyoïdopexie
-
-|
-
-GDFA011-00
-
-|
-
-Laryngectomie supracricoïdienne avec crico-hyoïdo-épiglottopexie
-
-|
-
-GDFA012-00
-
-|
-
-Laryngopharyngectomie supracricoïdienne avec cricohyoïdopexie
-
-|
-
-GDFA013-00
-
-|
-
-Hémilaryngopharyngectomie
-
-|
-
-GDFA014-00
-
-|
-
-Laryngectomie supraglottique
-
-|
-
-GDFA015-00
-
-|
-
-Exérèse de lésion du larynx, par thyrotomie latérale extramuqueuse
-
-|
-
-GDFA016-00
-
-|
-
-Laryngectomie frontale antérieure avec épiglottoplastie
-
-|
-
-GDFA017-00
-
-|
-
-Laryngopharyngectomie supraglottique
-
-|
-
-GDFA018-00
-
-|
-
-Laryngectomie totale étendue à la base de langue
-
-|
-
-GDFE016-00
-
-|
-
-Dilatation et/ ou résection de sténose du larynx, par endoscopie avec laser
-
-|
-
-GDMA001-00
-
-|
-
-Laryngoplastie, par cervicotomie
-
-|
-
-GDMA002-00
-
-|
-
-Laryngotrachéoplastie, par cervicotomie
-
-|
-
-GDMA003-00
-
-|
-
-Réparation de fracas du larynx
-
-|
-
-GDNE001-00
-
-|
-
-Coagulation d'un œdème du larynx, par laryngoscopie directe avec laser
-
-|
-
-GDNE004-00
-
-|
-
-Coagulation d'un œdème du larynx, par laryngoscopie directe sans laser
-
-|
-
-GDPE001-00
-
-|
-
-Désobstruction du larynx, par laryngoscopie directe avec laser
-
-|
-
-GDSA001-00
-
-|
-
-Fermeture d'un diastème laryngé congénital
-
-|
-
-GDSA002-00
-
-|
-
-Fermeture d'un diastème laryngotrachéal congénital
-
-|
-
-GDSA003-00
-
-|
-
-Fermeture d'une fente laryngo-trachéo-pharyngo-œsophagienne congénitale, par cervicotomie et par thoracotomie
-
-|
-
-GDSA004-00
-
-|
-
-Fermeture d'une fente laryngo-trachéo-pharyngo-œsophagienne congénitale, par cervicotomie
-
-|
-
-GECA001-00
-
-|
-
-Suture de plaie ou de rupture de bronche, par thoracotomie
-
-|
-
-GECA002-00
-
-|
-
-Suture de plaie ou de rupture de la trachée, par cervicothoracotomie ou par thoracotomie
-
-|
-
-GECA003-00
-
-|
-
-Suture de plaie ou de rupture de la trachée, par cervicotomie
-
-|
-
-GEFA001-00
-
-|
-
-Résection-anastomose de la trachée sans mobilisation viscérale cardiopulmonaire par thoracotomie, avec abaissement du larynx par cervicotomie
-
-|
-
-GEFA002-00
-
-|
-
-Résection-anastomose cricotrachéale, par cervicotomie
-
-|
-
-GEFA003-00
-
-|
-
-Résection-anastomose de la trachée avec abaissement du larynx, par cervicothoracotomie
-
-|
-
-GEFA004-00
-
-|
-
-Résection-anastomose de la bifurcation trachéale, par thoracotomie
-
-|
-
-GEFA005-00
-
-|
-
-Résection-anastomose de la trachée avec mobilisation viscérale cardiopulmonaire par thoracotomie, avec abaissement du larynx par cervicotomie
-
-|
-
-GEFA006-00
-
-|
-
-Résection-anastomose de la trachée sans abaissement du larynx, par thoracotomie
-
-|
-
-GEFA007-00
-
-|
-
-Résection-anastomose de la trachée avec abaissement du larynx, par cervicotomie
-
-|
-
-GEFA008-00
-
-|
-
-Résection-anastomose de la trachée sans abaissement du larynx, par cervicothoracotomie
-
-|
-
-GEFA009-00
-
-|
-
-Résection-anastomose de la trachée avec mobilisation viscérale cardiopulmonaire sans abaissement du larynx, par thoracotomie
-
-|
-
-GEFA010-00
-
-|
-
-Résection-anastomose thyrotrachéale, par cervicotomie
-
-|
-
-GEFA011-00
-
-|
-
-Résection-anastomose bronchique, par thoracotomie
-
-|
-
-GEFA012-00
-
-|
-
-Résection-anastomose de la trachée sans abaissement du larynx, par cervicotomie
-
-|
-
-GEFA013-00
-
-|
-
-Résection-anastomose de la trachée pour sténose congénitale de la trachée, par thoracotomie avec CEC
-
-|
-
-GEFE001-00
-
-|
-
-Séance de résection et/ ou de dilatation de sténose de la trachée, par endoscopie avec laser
-
-|
-
-GEFE002-00
-
-|
-
-Séance de résection et/ ou de dilatation de sténose de la trachée, par endoscopie sans laser
-
-|
-
-GEGA001-00
-
-|
-
-Ablation de corps étranger intrabronchique, par thoracotomie
-
-|
-
-GEJD002-00
-
-|
-
-Lavage pulmonaire unilatéral à visée thérapeutique pour protéinose alvéolaire, par sonde d'intubation à double lumière
-
-|
-
-GEJE002-00
-
-|
-
-Lavage pulmonaire unilatéral à visée thérapeutique pour protéinose alvéolaire, par endoscopie
-
-|
-
-GEKA001-00
-
-|
-
-Remplacement de la trachée par prothèse, par cervicotomie ou par thoracotomie
-
-|
-
-GELA001-00
-
-|
-
-Pose de tuteur trachéal, par cervicotomie
-
-|
-
-GELD001-00
-
-|
-
-Instillation de surfactant exogène chez un nouveau-né en ventilation mécanique
-
-|
-
-GELD003-00
-
-|
-
-Intubation trachéale avec instillation de surfactant exogène
-
-|
-
-GELE002-00
-
-|
-
-Instillation intrabronchique d'agent pharmacologique à visée thérapeutique, par bronchoscopie au tube rigide
-
-|
-
-GELE006-00
-
-|
-
-Pose de tuteur trachéal, par endoscopie
-
-|
-
-GELE007-00
-
-|
-
-Pose intrabronchique de matériel à visée hémostatique, par bronchoscopie au tube rigide
-
-|
-
-GELE008-00
-
-|
-
-Pose d'une endoprothèse trachéobronchique, par endoscopie
-
-|
-
-GELF001-00
-
-|
-
-Pose de cathéter laryngé ou de cathéter trachéal, par voie transcutanée
-
-|
-
-GEMA002-00
-
-|
-
-Plastie de la trachée par autogreffe ou lambeau, par cervicotomie ou par thoracotomie
-
-|
-
-GESA003-00
-
-|
-
-Fermeture de fistule bronchique, par thoracotomie
-
-|
-
-GFBA001-00
-
-|
-
-Réduction bilatérale de volume pulmonaire, par thoracotomie unique
-
-|
-
-GFBA002-00
-
-|
-
-Réduction unilatérale de volume pulmonaire, par thoracotomie
-
-|
-
-GFBA003-00
-
-|
-
-Réduction bilatérale de volume pulmonaire, par thoracotomie bilatérale
-
-|
-
-GFBA004-00
-
-|
-
-Réduction de volume pulmonaire, par thoracoscopie ou par thoracotomie avec préparation par thoracoscopie
-
-|
-
-GFCA001-00
-
-|
-
-Suture de plaie pleuropulmonaire, par thoracotomie
-
-|
-
-GFCC001-00
-
-|
-
-Suture de plaie pleuropulmonaire, par thoracoscopie
-
-|
-
-GFFA001-00
-
-|
-
-Pneumonectomie avec exérèse totale de la plèvre [Pleuropneumonectomie], par thoracotomie
-
-|
-
-GFFA002-00
-
-|
-
-Pneumonectomie avec résection et remplacement prothétique de la veine cave supérieure, par thoracotomie
-
-|
-
-GFFA003-00
-
-|
-
-Exérèse de kyste bronchogénique, par thoracotomie
-
-|
-
-GFFA004-00
-
-|
-
-Lobectomie pulmonaire avec résection-anastomose ou réimplantation de bronche, par thoracotomie
-
-|
-
-GFFA005-00
-
-|
-
-Résection de bulle d'emphysème pulmonaire, par thoracotomie
-
-|
-
-GFFA006-00
-
-|
-
-Lobectomie pulmonaire avec résection et remplacement prothétique de la veine cave supérieure, par thoracotomie
-
-|
-
-GFFA007-00
-
-|
-
-Pneumonectomie avec résection d'organe et/ ou de structure de voisinage, par thoracotomie
-
-|
-
-GFFA008-00
-
-|
-
-Lobectomie pulmonaire supérieure avec résection de côte et libération du plexus brachial, par thoracotomie
-
-|
-
-GFFA009-00
-
-|
-
-Lobectomie pulmonaire, par thoracotomie avec préparation par thoracoscopie
-
-|
-
-GFFA010-00
-
-|
-
-Bilobectomie pulmonaire avec résection de la paroi thoracique, par thoracotomie
-
-|
-
-GFFA011-00
-
-|
-
-Pneumonectomie avec résection-anastomose de la bifurcation trachéale, par thoracotomie
-
-|
-
-GFFA012-00
-
-|
-
-Pneumonectomie, par thoracotomie avec préparation par thoracoscopie
-
-|
-
-GFFA013-00
-
-|
-
-Lobectomie pulmonaire, par thoracotomie
-
-|
-
-GFFA014-00
-
-|
-
-Exérèse de kyste hydatique du poumon, par thoracotomie
-
-|
-
-GFFA015-00
-
-|
-
-Bilobectomie pulmonaire avec résection et remplacement prothétique de la veine cave supérieure, par thoracotomie
-
-|
-
-GFFA016-00
-
-|
-
-Lobectomie pulmonaire avec résection-anastomose de la veine cave supérieure ou résection de l'oreillette gauche, par thoracotomie
-
-|
-
-GFFA017-00
-
-|
-
-Exérèse partielle non anatomique unique du poumon, par thoracotomie
-
-|
-
-GFFA018-00
-
-|
-
-Bilobectomie pulmonaire, par thoracotomie
-
-|
-
-GFFA019-00
-
-|
-
-Exérèse de lobe pulmonaire restant [Totalisation de pneumonectomie], par thoracotomie
-
-|
-
-GFFA021-00
-
-|
-
-Exérèses partielles non anatomiques multiples du poumon, par thoracotomie
-
-|
-
-GFFA022-00
-
-|
-
-Lobectomie pulmonaire avec résection d'organe et/ ou de structure de voisinage, par thoracotomie
-
-|
-
-GFFA023-00
-
-|
-
-Bilobectomie pulmonaire avec résection-anastomose ou réimplantation de bronche, par thoracotomie
-
-|
-
-GFFA024-00
-
-|
-
-Pneumonectomie, par thoracotomie
-
-|
-
-GFFA025-00
-
-|
-
-Pneumonectomie avec résection de la paroi thoracique, par thoracotomie
-
-|
-
-GFFA026-00
-
-|
-
-Lobectomie pulmonaire avec résection-anastomose de la bifurcation trachéale, par thoracotomie
-
-|
-
-GFFA027-00
-
-|
-
-Lobectomie pulmonaire avec résection de la paroi thoracique, par thoracotomie
-
-|
-
-GFFA028-00
-
-|
-
-Pneumonectomie avec résection-anastomose de la veine cave supérieure ou résection de l'oreillette gauche, par thoracotomie
-
-|
-
-GFFA029-00
-
-|
-
-Segmentectomie pulmonaire unique ou multiple, par thoracotomie
-
-|
-
-GFFA030-00
-
-|
-
-Lobectomie pulmonaire supérieure avec résection de côte et libération du plexus brachial, par cervicothoracotomie
-
-|
-
-GFFA031-00
-
-|
-
-Bilobectomie pulmonaire avec résection-anastomose de la veine cave supérieure ou résection de l'oreillette gauche, par thoracotomie
-
-|
-
-GFFA032-00
-
-|
-
-Résection de bulle d'emphysème avec réduction de volume pulmonaire, par thoracotomie
-
-|
-
-GFFA033-00
-
-|
-
-Lobectomie pulmonaire supérieure avec résection de côte, de vertèbre, de vaisseau subclavier, exérèse de nœud [ganglion] lymphatique cervical et libération du plexus brachial, par cervicothoracotomie
-
-|
-
-GFFA034-00
-
-|
-
-Bilobectomie pulmonaire avec résection d'organe et/ ou de structure de voisinage, par thoracotomie
-
-|
-
-GFFA035-00
-
-|
-
-Exérèse de séquestration extralobaire, par thoracotomie
-
-|
-
-GFFC002-00
-
-|
-
-Exérèse partielle non anatomique du poumon, par thoracoscopie
-
-|
-
-GFFC003-00
-
-|
-
-Exérèse de séquestration extralobaire, par thoracoscopie
-
-|
-
-GFFC004-00
-
-|
-
-Exérèse de kyste bronchogénique, par thoracoscopie
-
-|
-
-GFFC005-00
-
-|
-
-Résection de bulle pulmonaire avec abrasion ou exérèse de la plèvre pariétale, par thoracoscopie
-
-|
-
-GFFC006-00
-
-|
-
-Résection de bulle pulmonaire, par thoracoscopie
-
-|
-
-GGCA001-00
-
-|
-
-Pleurostomie cutanée avec résection costale, par thoracotomie [Thoracostomie en gueule de four]
-
-|
-
-GGFA001-00
-
-|
-
-Exérèse de tumeur de la plèvre, par thoracotomie avec préparation par thoracoscopie
-
-|
-
-GGFA003-00
-
-|
-
-Exérèse de tumeur de la plèvre, par thoracotomie
-
-|
-
-GGJA001-00
-
-|
-
-Evacuation de collection septique de la cavité pleurale avec débridement, par thoracotomie
-
-|
-
-GGJA002-00
-
-|
-
-Evacuation de collection de la cavité pleurale, par thoracotomie
-
-|
-
-GGJA003-00
-
-|
-
-Décaillotage de la cavité pleurale, par thoracotomie
-
-|
-
-GGJA004-00
-
-|
-
-Evacuation de collection de la cavité pleurale avec résection costale, par thoracotomie
-
-|
-
-GGJB005-00
-
-|
-
-Pose de plusieurs drains thoraciques pour irrigation-lavage pleurale, par voie transcutanée
-
-|
-
-GGJC001-00
-
-|
-
-Evacuation de collection septique de la cavité pleurale avec débridement, par thoracoscopie
-
-|
-
-GGJC002-00
-
-|
-
-Evacuation d'un hémothorax, par thoracoscopie
-
-|
-
-GGLB006-00
-
-|
-
-Pose d'un drain thoracique pour lavage pleural, par voie transcutanée
-
-|
-
-GGLC001-00
-
-|
-
-Instillation intrapleurale de substance irritante, par thoracoscopie
-
-|
-
-GGNA001-00
-
-|
-
-Abrasion ou exérèse de la plèvre pariétale, par thoracotomie
-
-|
-
-GGNC001-00
-
-|
-
-Abrasion ou exérèse de la plèvre pariétale, par thoracoscopie
-
-|
-
-GGPA001-00
-
-|
-
-Décortication pleuropulmonaire, par thoracotomie
-
-|
-
-GGPA002-00
-
-|
-
-Libération du poumon [Pneumolyse] pour symphyse pleurale
-
-|
-
-GHFA001-00
-
-|
-
-Exérèse de tumeur du médiastin, par cervicotomie
-
-|
-
-GHFA002-00
-
-|
-
-Exérèse de tumeur du médiastin, par thoracotomie avec préparation par thoracoscopie
-
-|
-
-GHFA003-00
-
-|
-
-Exérèse de tumeur du médiastin avec résection d'organe et/ ou de structure de voisinage, par thoracotomie
-
-|
-
-GHFA004-00
-
-|
-
-Exérèse de tumeur du médiastin, par thoracotomie
-
-|
-
-GHJA002-00
-
-|
-
-Evacuation de collection du médiastin, par thoracotomie |

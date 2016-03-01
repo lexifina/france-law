@@ -1,5 +1,125 @@
 # Article Annexe 1 (suite)
 
+3068
+
+|
+
+08M141
+
+|
+
+Affections du tissu conjonctif, niveau 1
+
+|
+
+3069
+
+|
+
+08M142
+
+|
+
+Affections du tissu conjonctif, niveau 2
+
+|
+
+3070
+
+|
+
+08M143
+
+|
+
+Affections du tissu conjonctif, niveau 3
+
+|
+
+3071
+
+|
+
+08M144
+
+|
+
+Affections du tissu conjonctif, niveau 4
+
+|
+
+3072
+
+|
+
+08M14T
+
+|
+
+Affections du tissu conjonctif, très courte durée
+
+|
+
+3073
+
+|
+
+08M151
+
+|
+
+Tendinites, myosites et bursites, niveau 1
+
+|
+
+3074
+
+|
+
+08M152
+
+|
+
+Tendinites, myosites et bursites, niveau 2
+
+|
+
+3075
+
+|
+
+08M153
+
+|
+
+Tendinites, myosites et bursites, niveau 3
+
+|
+
+3076
+
+|
+
+08M154
+
+|
+
+Tendinites, myosites et bursites, niveau 4
+
+|
+
+3167
+
+|
+
+08M15T
+
+|
+
+Tendinites, myosites et bursites, très courte durée
+
+|
+
 3077
 
 |
@@ -728,7 +848,7 @@ Rhumatismes et raideurs articulaires, très courte durée
 
 |
 
-Ostéomyélites aiguës (y compris vertébrales) et arthrites septiques, niveau 1
+Ostéomyélites aigües (y compris vertébrales) et arthrites septiques, niveau 1
 
 |
 
@@ -740,7 +860,7 @@ Ostéomyélites aiguës (y compris vertébrales) et arthrites septiques, niveau 
 
 |
 
-Ostéomyélites aiguës (y compris vertébrales) et arthrites septiques, niveau 2
+Ostéomyélites aigües (y compris vertébrales) et arthrites septiques, niveau 2
 
 |
 
@@ -752,7 +872,7 @@ Ostéomyélites aiguës (y compris vertébrales) et arthrites septiques, niveau 
 
 |
 
-Ostéomyélites aiguës (y compris vertébrales) et arthrites septiques, niveau 3
+Ostéomyélites aigües (y compris vertébrales) et arthrites septiques, niveau 3
 
 |
 
@@ -764,7 +884,7 @@ Ostéomyélites aiguës (y compris vertébrales) et arthrites septiques, niveau 
 
 |
 
-Ostéomyélites aiguës (y compris vertébrales) et arthrites septiques, niveau 4
+Ostéomyélites aigües (y compris vertébrales) et arthrites septiques, niveau 4
 
 |
 
@@ -776,7 +896,7 @@ Ostéomyélites aiguës (y compris vertébrales) et arthrites septiques, niveau 
 
 |
 
-Ostéomyélites aiguës (y compris vertébrales) et arthrites septiques, très courte durée
+Ostéomyélites aigües (y compris vertébrales) et arthrites septiques, très courte durée
 
 |
 
@@ -1124,7 +1244,7 @@ Entorses et luxations du rachis, très courte durée
 
 |
 
-Greffes de peau et/ ou parages de plaie pour ulcère cutané ou cellulite, niveau 1
+Greffes de peau et/ou parages de plaie pour ulcère cutané ou cellulite, niveau 1
 
 |
 
@@ -1136,7 +1256,7 @@ Greffes de peau et/ ou parages de plaie pour ulcère cutané ou cellulite, nivea
 
 |
 
-Greffes de peau et/ ou parages de plaie pour ulcère cutané ou cellulite, niveau 2
+Greffes de peau et/ou parages de plaie pour ulcère cutané ou cellulite, niveau 2
 
 |
 
@@ -1148,7 +1268,7 @@ Greffes de peau et/ ou parages de plaie pour ulcère cutané ou cellulite, nivea
 
 |
 
-Greffes de peau et/ ou parages de plaie pour ulcère cutané ou cellulite, niveau 3
+Greffes de peau et/ou parages de plaie pour ulcère cutané ou cellulite, niveau 3
 
 |
 
@@ -1160,7 +1280,7 @@ Greffes de peau et/ ou parages de plaie pour ulcère cutané ou cellulite, nivea
 
 |
 
-Greffes de peau et/ ou parages de plaie pour ulcère cutané ou cellulite, niveau 4
+Greffes de peau et/ou parages de plaie pour ulcère cutané ou cellulite, niveau 4
 
 |
 
@@ -1172,7 +1292,7 @@ Greffes de peau et/ ou parages de plaie pour ulcère cutané ou cellulite, nivea
 
 |
 
-Greffes de peau et/ ou parages de plaie pour ulcère cutané ou cellulite, en ambulatoire
+Greffes de peau et/ou parages de plaie pour ulcère cutané ou cellulite, en ambulatoire
 
 |
 
@@ -1184,7 +1304,7 @@ Greffes de peau et/ ou parages de plaie pour ulcère cutané ou cellulite, en am
 
 |
 
-Greffes de peau et/ ou parages de plaie à l'exception des ulcères cutanés et cellulites, niveau 1
+Greffes de peau et/ou parages de plaie à l'exception des ulcères cutanés et cellulites, niveau 1
 
 |
 
@@ -1196,7 +1316,7 @@ Greffes de peau et/ ou parages de plaie à l'exception des ulcères cutanés et 
 
 |
 
-Greffes de peau et/ ou parages de plaie à l'exception des ulcères cutanés et cellulites, niveau 2
+Greffes de peau et/ou parages de plaie à l'exception des ulcères cutanés et cellulites, niveau 2
 
 |
 
@@ -1208,7 +1328,7 @@ Greffes de peau et/ ou parages de plaie à l'exception des ulcères cutanés et 
 
 |
 
-Greffes de peau et/ ou parages de plaie à l'exception des ulcères cutanés et cellulites, niveau 3
+Greffes de peau et/ou parages de plaie à l'exception des ulcères cutanés et cellulites, niveau 3
 
 |
 
@@ -1220,7 +1340,7 @@ Greffes de peau et/ ou parages de plaie à l'exception des ulcères cutanés et 
 
 |
 
-Greffes de peau et/ ou parages de plaie à l'exception des ulcères cutanés et cellulites, niveau 4
+Greffes de peau et/ou parages de plaie à l'exception des ulcères cutanés et cellulites, niveau 4
 
 |
 
@@ -1232,7 +1352,7 @@ Greffes de peau et/ ou parages de plaie à l'exception des ulcères cutanés et 
 
 |
 
-Greffes de peau et/ ou parages de plaie à l'exception des ulcères cutanés et cellulites, en ambulatoire
+Greffes de peau et/ou parages de plaie à l'exception des ulcères cutanés et cellulites, en ambulatoire
 
 |
 
@@ -2200,7 +2320,9 @@ Lésions, infections et inflammations de la peau et des tissus sous-cutanés, â
 
 |
 
-Lésions, infections et inflammations de la peau et des tissus sous-cutanés, âge supérieur à 17 ans, niveau 1
+Lésions, infections et inflammations de la peau et des tissus sous-cutanés, âge supérieur à 17 ans,
+
+niveau 1
 
 |
 
@@ -2212,7 +2334,9 @@ Lésions, infections et inflammations de la peau et des tissus sous-cutanés, â
 
 |
 
-Lésions, infections et inflammations de la peau et des tissus sous-cutanés, âge supérieur à 17 ans, niveau 2
+Lésions, infections et inflammations de la peau et des tissus sous-cutanés, âge supérieur à 17 ans,
+
+niveau 2
 
 |
 
@@ -2224,7 +2348,9 @@ Lésions, infections et inflammations de la peau et des tissus sous-cutanés, â
 
 |
 
-Lésions, infections et inflammations de la peau et des tissus sous-cutanés, âge supérieur à 17 ans, niveau 3
+Lésions, infections et inflammations de la peau et des tissus sous-cutanés, âge supérieur à 17 ans,
+
+niveau 3
 
 |
 
@@ -6180,6 +6306,18 @@ Stérilisation et vasoplastie, niveau 4
 
 |
 
+4563
+
+|
+
+12C13J
+
+|
+
+Stérilisation et vasoplastie, en ambulatoire
+
+|
+
 4757
 
 |
@@ -6404,7 +6542,7 @@ Autres affections de l'appareil génital masculin, très courte durée
 
 |
 
-Prostatites aiguës et orchites, niveau 1
+Prostatites aigües et orchites, niveau 1
 
 |
 
@@ -6416,7 +6554,7 @@ Prostatites aiguës et orchites, niveau 1
 
 |
 
-Prostatites aiguës et orchites, niveau 2
+Prostatites aigües et orchites, niveau 2
 
 |
 
@@ -6428,7 +6566,7 @@ Prostatites aiguës et orchites, niveau 2
 
 |
 
-Prostatites aiguës et orchites, niveau 3
+Prostatites aigües et orchites, niveau 3
 
 |
 
@@ -6440,7 +6578,7 @@ Prostatites aiguës et orchites, niveau 3
 
 |
 
-Prostatites aiguës et orchites, niveau 4
+Prostatites aigües et orchites, niveau 4
 
 |
 
@@ -6452,7 +6590,7 @@ Prostatites aiguës et orchites, niveau 4
 
 |
 
-Prostatites aiguës et orchites, très courte durée
+Prostatites aigües et orchites, très courte durée
 
 |
 
@@ -6884,7 +7022,7 @@ Interventions sur la vulve, le vagin ou le col utérin, en ambulatoire
 
 |
 
-Laparoscopies ou cœlioscopies diagnostiques, niveau 1
+Laparoscopies ou coelioscopies diagnostiques, niveau 1
 
 |
 
@@ -6896,7 +7034,7 @@ Laparoscopies ou cœlioscopies diagnostiques, niveau 1
 
 |
 
-Laparoscopies ou cœlioscopies diagnostiques, niveau 2
+Laparoscopies ou coelioscopies diagnostiques, niveau 2
 
 |
 
@@ -6908,7 +7046,7 @@ Laparoscopies ou cœlioscopies diagnostiques, niveau 2
 
 |
 
-Laparoscopies ou cœlioscopies diagnostiques, niveau 3
+Laparoscopies ou coelioscopies diagnostiques, niveau 3
 
 |
 
@@ -6920,7 +7058,7 @@ Laparoscopies ou cœlioscopies diagnostiques, niveau 3
 
 |
 
-Laparoscopies ou cœlioscopies diagnostiques, niveau 4
+Laparoscopies ou coelioscopies diagnostiques, niveau 4
 
 |
 
@@ -6932,7 +7070,7 @@ Laparoscopies ou cœlioscopies diagnostiques, niveau 4
 
 |
 
-Laparoscopies ou cœlioscopies diagnostiques, très courte durée
+Laparoscopies ou coelioscopies diagnostiques, très courte durée
 
 |
 
@@ -6944,7 +7082,7 @@ Laparoscopies ou cœlioscopies diagnostiques, très courte durée
 
 |
 
-Ligatures tubaires par laparoscopie ou cœlioscopie, niveau 1
+Ligatures tubaires par laparoscopie ou coelioscopie, niveau 1
 
 |
 
@@ -6956,7 +7094,7 @@ Ligatures tubaires par laparoscopie ou cœlioscopie, niveau 1
 
 |
 
-Ligatures tubaires par laparoscopie ou cœlioscopie, niveau 2
+Ligatures tubaires par laparoscopie ou coelioscopie, niveau 2
 
 |
 
@@ -6968,7 +7106,7 @@ Ligatures tubaires par laparoscopie ou cœlioscopie, niveau 2
 
 |
 
-Ligatures tubaires par laparoscopie ou cœlioscopie, niveau 3
+Ligatures tubaires par laparoscopie ou coelioscopie, niveau 3
 
 |
 
@@ -6980,19 +7118,19 @@ Ligatures tubaires par laparoscopie ou cœlioscopie, niveau 3
 
 |
 
-Ligatures tubaires par laparoscopie ou cœlioscopie, niveau 4
+Ligatures tubaires par laparoscopie ou coelioscopie, niveau 4
 
 |
 
-4958
+5004
 
 |
 
-13C10T
+13C10J
 
 |
 
-Ligatures tubaires par laparoscopie ou cœlioscopie, très courte durée
+Ligatures tubaires par laparoscopie ou coelioscopie, en ambulatoire
 
 |
 
@@ -7340,6 +7478,18 @@ Cervicocystopexie, niveau 4
 
 |
 
+4800
+
+|
+
+13C17J
+
+|
+
+Cervicocystopexie, en ambulatoire
+
+|
+
 4990
 
 |
@@ -7516,7 +7666,9 @@ Exérèses ou destructions de lésions du col de l'utérus sauf conisations, en 
 
 |
 
-Endoscopies génito-urinaires thérapeutiques et anesthésie : séjours de la CMD 13 et de moins de 2 jours
+Endoscopies génito-urinaires thérapeutiques et anesthésie : séjours de la CMD 13 et de moins
+
+de 2 jours
 
 |
 
@@ -7528,7 +7680,9 @@ Endoscopies génito-urinaires thérapeutiques et anesthésie : séjours de la CM
 
 |
 
-Séjours de la CMD 13 comprenant une endoscopie génito-urinaire thérapeutique sans anesthésie : séjours de moins de 2 jours
+Séjours de la CMD 13 comprenant une endoscopie génito-urinaire thérapeutique sans anesthésie :
+
+séjours de moins de 2 jours
 
 |
 
@@ -7552,7 +7706,9 @@ Endoscopies génito-urinaires diagnostiques et anesthésie : séjours de la CMD 
 
 |
 
-Endoscopies génito-urinaires diagnostiques sans anesthésie : séjours de la CMD 13 et de moins de 2 jours
+Endoscopies génito-urinaires diagnostiques sans anesthésie : séjours de la CMD 13 et de moins
+
+de 2 jours
 
 |
 
@@ -7912,4 +8068,816 @@ Explorations et surveillance gynécologiques
 
 |
 
-Autres symptômes et recours aux soins de la CMD 13 |
+Autres symptômes et recours aux soins de la CMD 13
+
+|
+
+5314
+
+|
+
+14C03A
+
+|
+
+Accouchements uniques par voie basse avec autres interventions, sans complication significative
+
+|
+
+5315
+
+|
+
+14C03B
+
+|
+
+Accouchements uniques par voie basse avec autres interventions, avec autres complications
+
+|
+
+5316
+
+|
+
+14C03C
+
+|
+
+Accouchements uniques par voie basse avec autres interventions, avec complications majeures
+
+|
+
+5317
+
+|
+
+14C03D
+
+|
+
+Accouchements uniques par voie basse avec autres interventions, avec complications sévères
+
+|
+
+5310
+
+|
+
+14C04T
+
+|
+
+Affections du post-partum ou du post abortum avec intervention chirurgicale, très courte durée
+
+|
+
+5311
+
+|
+
+14C04Z
+
+|
+
+Affections du post-partum ou du post abortum avec intervention chirurgicale
+
+|
+
+5312
+
+|
+
+14C05J
+
+|
+
+Avortements avec aspiration ou curetage ou hystérotomie, en ambulatoire
+
+|
+
+5313
+
+|
+
+14C05Z
+
+|
+
+Avortements avec aspiration ou curetage ou hystérotomie
+
+|
+
+5318
+
+|
+
+14C06A
+
+|
+
+Césariennes avec naissance d'un mort-né, sans complication significative
+
+|
+
+5319
+
+|
+
+14C06B
+
+|
+
+Césariennes avec naissance d'un mort-né, avec autres complications
+
+|
+
+5320
+
+|
+
+14C06C
+
+|
+
+Césariennes avec naissance d'un mort-né, avec complications majeures
+
+|
+
+5321
+
+|
+
+14C06D
+
+|
+
+Césariennes avec naissance d'un mort-né, avec complications sévères
+
+|
+
+5322
+
+|
+
+14C07A
+
+|
+
+Césariennes pour grossesse multiple, sans complication significative
+
+|
+
+5323
+
+|
+
+14C07B
+
+|
+
+Césariennes pour grossesse multiple, avec autres complications
+
+|
+
+5324
+
+|
+
+14C07C
+
+|
+
+Césariennes pour grossesse multiple, avec complications majeures
+
+|
+
+5325
+
+|
+
+14C07D
+
+|
+
+Césariennes pour grossesse multiple, avec complications sévères
+
+|
+
+5326
+
+|
+
+14C08A
+
+|
+
+Césariennes pour grossesse unique, sans complication significative
+
+|
+
+5327
+
+|
+
+14C08B
+
+|
+
+Césariennes pour grossesse unique, avec autres complications
+
+|
+
+5328
+
+|
+
+14C08C
+
+|
+
+Césariennes pour grossesse unique, avec complications majeures
+
+|
+
+5329
+
+|
+
+14C08D
+
+|
+
+Césariennes pour grossesse unique, avec complications sévères
+
+|
+
+5330
+
+|
+
+14C09A
+
+|
+
+Grossesses ectopiques avec intervention chirurgicale, sans complication significative
+
+|
+
+5331
+
+|
+
+14C09B
+
+|
+
+Grossesses ectopiques avec intervention chirurgicale, avec complications
+
+|
+
+5332
+
+|
+
+14C10T
+
+|
+
+Affections de l'ante partum avec intervention chirurgicale, très courte durée
+
+|
+
+5333
+
+|
+
+14C10Z
+
+|
+
+Affections de l'ante partum avec intervention chirurgicale
+
+|
+
+5475
+
+|
+
+14M02A
+
+|
+
+Affections médicales du post-partum ou du post-abortum, sans complication significative
+
+|
+
+5476
+
+|
+
+14M02B
+
+|
+
+Affections médicales du post-partum ou du post-abortum, avec complications
+
+|
+
+5460
+
+|
+
+14M02T
+
+|
+
+Affections médicales du post-partum ou du post-abortum, très courte durée
+
+|
+
+5477
+
+|
+
+14M03A
+
+|
+
+Affections de l'ante partum sans intervention chirurgicale, sans complication significative
+
+|
+
+5478
+
+|
+
+14M03B
+
+|
+
+Affections de l'ante partum sans intervention chirurgicale, avec autres complications
+
+|
+
+5479
+
+|
+
+14M03C
+
+|
+
+Affections de l'ante partum sans intervention chirurgicale, avec complications majeures
+
+|
+
+5480
+
+|
+
+14M03D
+
+|
+
+Affections de l'ante partum sans intervention chirurgicale, avec complications sévères
+
+|
+
+5481
+
+|
+
+14M03T
+
+|
+
+Affections de l'ante partum sans intervention chirurgicale, très courte durée
+
+|
+
+5469
+
+|
+
+14Z04T
+
+|
+
+Avortements sans aspiration, ni curetage, ni hystérotomie, très courte durée
+
+|
+
+5470
+
+|
+
+14Z04Z
+
+|
+
+Avortements sans aspiration, ni curetage, ni hystérotomie
+
+|
+
+5472
+
+|
+
+14Z06T
+
+|
+
+Menaces d'avortement, très courte durée
+
+|
+
+5473
+
+|
+
+14Z06Z
+
+|
+
+Menaces d'avortement
+
+|
+
+5482
+
+|
+
+14Z09Z
+
+|
+
+Accouchements hors de l'établissement
+
+|
+
+5483
+
+|
+
+14Z10A
+
+|
+
+Accouchements par voie basse avec naissance d'un mort-né, sans complication significative
+
+|
+
+5484
+
+|
+
+14Z10B
+
+|
+
+Accouchements voie basse avec naissance d'un mort-né, avec complications
+
+|
+
+5485
+
+|
+
+14Z10T
+
+|
+
+Accouchements par voie basse avec naissance d'un mort-né, très courte durée
+
+|
+
+5486
+
+|
+
+14Z11A
+
+|
+
+Accouchements multiples par voie basse chez une primipare, sans complication significative
+
+|
+
+5487
+
+|
+
+14Z11B
+
+|
+
+Accouchements multiples par voie basse chez une primipare, avec complications
+
+|
+
+5488
+
+|
+
+14Z12A
+
+|
+
+Accouchements multiples par voie basse chez une multipare, sans complication significative
+
+|
+
+5489
+
+|
+
+14Z12B
+
+|
+
+Accouchements multiples par voie basse chez une multipare, avec complications
+
+|
+
+5490
+
+|
+
+14Z13A
+
+|
+
+Accouchements uniques par voie basse chez une primipare, sans complication significative
+
+|
+
+5491
+
+|
+
+14Z13B
+
+|
+
+Accouchements uniques par voie basse chez une primipare, avec autres complications
+
+|
+
+5492
+
+|
+
+14Z13C
+
+|
+
+Accouchements uniques par voie basse chez une primipare, avec complications majeures |
+
+5493
+
+|
+
+14Z13D
+
+|
+
+Accouchements uniques par voie basse chez une primipare, avec complications sévères |
+
+5494
+
+|
+
+14Z13T
+
+|
+
+Accouchements uniques par voie basse chez une primipare, très courte durée
+
+|
+
+5495
+
+|
+
+14Z14A
+
+|
+
+Accouchements uniques par voie basse chez une multipare, sans complication significative
+
+|
+
+5496
+
+|
+
+14Z14B
+
+|
+
+Accouchements uniques par voie basse chez une multipare, avec autres complications
+
+|
+
+5497
+
+|
+
+14Z14C
+
+|
+
+Accouchements uniques par voie basse chez une multipare, avec complications majeures
+
+|
+
+5498
+
+|
+
+14Z14D
+
+|
+
+Accouchements uniques par voie basse chez une multipare, avec complications sévères
+
+|
+
+5499
+
+|
+
+14Z14T
+
+|
+
+Accouchements uniques par voie basse chez une multipare, très courte durée
+
+|
+
+5500
+
+|
+
+14Z15Z
+
+|
+
+Grossesses ectopiques sans intervention chirurgicale
+
+|
+
+5501
+
+|
+
+14Z16T
+
+|
+
+Faux travail et menaces d'accouchements prématurés, très courte durée
+
+|
+
+5502
+
+|
+
+14Z16Z
+
+|
+
+Faux travail et menaces d'accouchements prématurés
+
+|
+
+5837
+
+|
+
+15C02A
+
+|
+
+Interventions majeures sur l'appareil digestif, groupes nouveau-nés 1 à 7, sans complication significative |
+
+5932
+
+|
+
+15C02B
+
+|
+
+Interventions majeures sur l'appareil digestif, groupes nouveau-nés 1 à 7, avec complications
+
+|
+
+5838
+
+|
+
+15C03A
+
+|
+
+Interventions majeures sur l'appareil cardiovasculaire, groupes nouveau-nés 1 à 7, sans complication significative
+
+|
+
+5933
+
+|
+
+15C03B
+
+|
+
+Interventions majeures sur l'appareil cardiovasculaire, groupes nouveau-nés 1 à 7, avec complications
+
+|
+
+5839
+
+|
+
+15C04A
+
+|
+
+Autres interventions chirurgicales, groupes nouveau-nés 1 à 7, sans complication significative
+
+|
+
+5934
+
+|
+
+15C04B
+
+|
+
+Autres interventions chirurgicales, groupes nouveau-nés 1 à 7, avec complications
+
+|
+
+5840
+
+|
+
+15C05A
+
+|
+
+Interventions chirurgicales, groupes nouveau-nés 8 à 9, sans complication significative
+
+|
+
+5935
+
+|
+
+15C05B
+
+|
+
+Interventions chirurgicales, groupes nouveau-nés 8 à 9, avec complications
+
+|
+
+5841
+
+|
+
+15C06A
+
+|
+
+Interventions chirurgicales, groupe nouveau-nés 10, sans complication significative
+
+|
+
+5936
+
+|
+
+15C06B
+
+|
+
+Interventions chirurgicales, groupe nouveau-nés 10, avec complications
+
+|
+
+5900
+
+|
+
+15M02Z
+
+|
+
+Transferts précoces de nouveau-nés vers un autre établissement MCO
+
+|
