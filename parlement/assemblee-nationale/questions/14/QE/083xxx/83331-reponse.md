@@ -1,0 +1,9 @@
+# Réponse à la question n° 83331
+
+- Question : [83331](83331.md) — Question n° 83331 — instances consultatives; coût de fonctionnement
+
+## Réponse
+
+*JO du 2016-03-01*
+
+Les articles L.314-6 et R.314-197 à R.314-200 du code de l'action sociale et des familles prévoient et organisent la procédure d'agrément ministériel. L'article L.314-6 prévoit, notamment, que les conventions collectives, conventions d'entreprise ou d'établissement applicables au personnel des établissements et services sociaux et médico-sociaux (ESSMS) privés à but non lucratif doivent, pour prendre effet et s'imposer aux autorités de tarification, être agréées par le ministre compétent après avis de la commission nationale d'agrément (CNA) des conventions collectives des établissements et services sociaux et médico-sociaux à but non lucratif. La procédure d'agrément des accords collectifs applicables dans les ESSMS a pour objet de réguler l'évolution des salaires et mieux maitriser l'évolution des dépenses publiques dans ce secteur. En effet, l'incidence financière des accords et conventions collectives sur le budget des entités institutionnelles (Etat, Départements, organismes de sécurité sociale etc.) suppose un examen attentif du dispositif de régulation de la masse salariale dans le secteur social et médico-social (impact des charges salariales sur le budget des ESSMS). Le contrôle des engagements unilatéraux et des accords collectifs soumis à agrément ministériel, auquel veille la CNA s'avère à ce titre d'une utilité reconnue. En 2014, la commission nationale d'agrément s'est réunie à 12 reprises. Elle s'est prononcée sur un total de 580 textes. Son coût de fonctionnement au titre de l'année 2014 s'élève à 124 623 € : 15 000 € de frais postaux, auxquels s'adjoignent 109 623 € de frais de personnel (3 équivalent temps plein sont dédiés à l'instruction des accords soumis à la CNA).
