@@ -18,4 +18,4 @@ Centre de ressources, d'expertise et de performance sportives de Franche-Comté.
 
 Centre de ressources, d'expertise et de performance sportives de Dinard.
 
-Centre de ressources, d'expertise et de performance sportives de Rhône-Alpes, site de Voiron.
+Centre de ressources, d'expertise et de performance sportive de Rhône-Alpes, site de Voiron.

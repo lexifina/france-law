@@ -14,4 +14,4 @@ Centre de ressources, d'expertise et de performance sportives d'Houlgate.
 
 Centre de ressources, d'expertise et de performance sportives de Mâcon.
 
-Centre de ressources, d'expertise et de performance sportives de Franche-Comté.
+Centre de ressources, d'expertise et de performance sportive de Franche-Comté.

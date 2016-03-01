@@ -4,9 +4,9 @@ TITRE Ier
 
 ÉTABLISSEMENT DES LISTES ÉLECTORALES
 
-I-1. Le directeur du centre de ressources, d'expertise et de performance sportives établit pour chaque collège la liste des électeurs et des personnes éligibles conformément aux dispositions de la présente annexe et des articles A. 211-71 à A. 211-73.
+I-1. Le directeur du centre de ressources, d'expertise et de performance sportive établit pour chaque collège la liste des électeurs et des personnes éligibles conformément aux dispositions de la présente annexe et des articles A. 211-71 à A. 211-73.
 
-I-2. Le directeur du centre de ressources, d'expertise et de performance sportives organise la publicité de ces listes, notamment par voie d'affichage. Toute réclamation doit être adressée par lettre recommandée avec avis de réception, dans les huit jours suivant la date de publicité, au directeur du centre de ressources, d'expertise et de performance sportives. Celui-ci statue sur le bien-fondé des réclamations et arrête dans le même délai la liste électorale définitive.
+I-2. Le directeur du centre de ressources, d'expertise et de performance sportive organise la publicité de ces listes, notamment par voie d'affichage. Toute réclamation doit être adressée par lettre recommandée avec avis de réception, dans les huit jours suivant la date de publicité, au directeur du centre de ressources, d'expertise et de performance sportive. Celui-ci statue sur le bien-fondé des réclamations et arrête dans le même délai la liste électorale définitive.
 
 TITRE II
 
@@ -36,9 +36,9 @@ Les candidats peuvent accompagner leur candidature d'une profession de foi.
 
 II-2 b. Matériels de vote.
 
-La confection des bulletins de vote et des enveloppes destinées au vote, qui doivent être d'un modèle unique, notamment lorsque le centre de ressources, d'expertise et de performance sportives comprend plusieurs sites, incombe au directeur du centre de ressources, d'expertise et de performance sportives.
+La confection des bulletins de vote et des enveloppes destinées au vote, qui doivent être d'un modèle unique, notamment lorsque le centre de ressources, d'expertise et de performance sportive comprend plusieurs sites, incombe au directeur du centre de ressources, d'expertise et de performance sportive.
 
-Le centre de ressources, d'expertise et de performance sportives fait parvenir, en temps utile, aux électeurs, sous enveloppe libellée à leur nom :
+Le centre de ressources, d'expertise et de performance sportive fait parvenir, en temps utile, aux électeurs, sous enveloppe libellée à leur nom :
 
 -les bulletins de vote ;
 
@@ -50,15 +50,15 @@ Pour les personnes absentes de l'établissement, à cette période, pour quelque
 
 II-2 c. Bureau de vote.
 
-Les électeurs doivent exclusivement utiliser le matériel de vote fourni par le centre de ressources, d'expertise et de performance sportives.
+Les électeurs doivent exclusivement utiliser le matériel de vote fourni par le centre de ressources, d'expertise et de performance sportive.
 
 Le vote, sous peine de nullité, doit être exprimé à l'aide d'un seul bulletin de vote ne comportant ni rature, ni signe distinctif, ni surcharge. Ce bulletin est glissé par l'électeur dans une enveloppe qui, également, ne doit comporter aucun signe de reconnaissance.
 
-Le vote sur place a lieu sur chacun des sites du centre de ressources, d'expertise et de performance sportives le jour du scrutin.
+Le vote sur place a lieu sur chacun des sites du centre de ressources, d'expertise et de performance sportive le jour du scrutin.
 
-Le vote par correspondance est admis pour l'ensemble des électeurs. Tous les votes par correspondance sont adressés à la poste du site siège du centre de ressources, d'expertise et de performance sportives.
+Le vote par correspondance est admis pour l'ensemble des électeurs. Tous les votes par correspondance sont adressés à la poste du site siège du centre de ressources, d'expertise et de performance sportive.
 
-Les votes par correspondance sont retirés en bloc à la poste du siège du centre de ressources, d'expertise et de performance sportives, la veille de la date fixée pour le vote sur place.
+Les votes par correspondance sont retirés en bloc à la poste du siège du centre de ressources, d'expertise et de performance sportive, la veille de la date fixée pour le vote sur place.
 
 Pour les votes transmis par la poste, l'enveloppe extérieure (enveloppe n° 1), préaffranchie, ne doit comporter aucune autre mention que celles préimprimées. Une seconde enveloppe (enveloppe n° 2), dans laquelle est glissée une troisième enveloppe (enveloppe n° 3) contenant le bulletin de vote, doit comporter, lisiblement écrits : le nom, le prénom, le collège auquel il appartient et la signature de l'électeur.
 
@@ -66,7 +66,7 @@ Les électeurs qui ne peuvent voter personnellement ont la possibilité d'exerce
 
 Le mandataire doit être inscrit sur la même liste électorale que le mandant. Nul ne peut être porteur de plus de deux procurations.
 
-Les opérations électorales se déroulent publiquement dans un local d'accès facile où la liberté et le secret du vote sont assurés, sous le contrôle d'un bureau de vote constitué, pour chacun des sites du centre de ressources, d'expertise et de performance sportives, d'un président et de deux assesseurs choisis par le directeur du centre de ressources, d'expertise et de performance sportives parmi les électeurs.
+Les opérations électorales se déroulent publiquement dans un local d'accès facile où la liberté et le secret du vote sont assurés, sous le contrôle d'un bureau de vote constitué, pour chacun des sites du centre de ressources, d'expertise et de performance sportive, d'un président et de deux assesseurs choisis par le directeur du centre de ressources, d'expertise et de performance sportive parmi les électeurs.
 
 Les bulletins de vote et les enveloppes nécessaires sont déposés sur une table distincte de celle où est déposée l'urne.
 
@@ -74,7 +74,7 @@ Le passage par l'isoloir est obligatoire.
 
 Les votants sont appelés à apposer leur signature sur une liste d'émargement, avant que le bulletin ne soit introduit dans l'urne. Les votants doivent pouvoir justifier de leur identité.
 
-Avant le début du vote sur place au site siège du centre de ressources, d'expertise et de performance sportives, il est procédé au recensement des votes par correspondance.
+Avant le début du vote sur place au site siège du centre de ressources, d'expertise et de performance sportive, il est procédé au recensement des votes par correspondance.
 
 Le nom des électeurs dont émanent ces enveloppes est émargé sur les listes.
 
@@ -126,9 +126,9 @@ Sont notamment considérés comme nuls :
 
 Sont déclarés élus, pour chacun des collèges, le candidat, ainsi que son suppléant, ayant obtenu le plus grand nombre de voix ; en cas d'égalité du nombre de suffrages obtenus, le candidat le plus âgé est élu.
 
-Les résultats du vote sur place aux sites autres que le site siège du centre de ressources, d'expertise et de performance sportives sont consignés dans un procès-verbal signé par le président et ses assesseurs. Ce procès-verbal est immédiatement communiqué, par fax ou document scanné transmis par courriel, au président du bureau de vote du site siège du centre de ressources, d'expertise et de performance sportives.
+Les résultats du vote sur place aux sites autres que le site siège du centre de ressources, d'expertise et de performance sportive sont consignés dans un procès-verbal signé par le président et ses assesseurs. Ce procès-verbal est immédiatement communiqué, par fax ou document scanné transmis par courriel, au président du bureau de vote du site siège du centre de ressources, d'expertise et de performance sportive.
 
-Les résultats définitifs sont proclamés par le président du bureau de vote du site siège du centre de ressources, d'expertise et de performance sportives et consignés dans un procès-verbal récapitulatif du scrutin signé par le président et les assesseurs. Les bulletins nuls ainsi que les enveloppes qui ont été écartées sans être ouvertes sont annexés au procès-verbal.
+Les résultats définitifs sont proclamés par le président du bureau de vote du site siège du centre de ressources, d'expertise et de performance sportive et consignés dans un procès-verbal récapitulatif du scrutin signé par le président et les assesseurs. Les bulletins nuls ainsi que les enveloppes qui ont été écartées sans être ouvertes sont annexés au procès-verbal.
 
 Le procès-verbal mentionne :
 
@@ -144,10 +144,10 @@ Le procès-verbal mentionne :
 
 6. Les difficultés et incidents survenus.
 
-La copie de ce procès-verbal est affichée par les soins du directeur du centre de ressources, d'expertise et de performance sportives.
+La copie de ce procès-verbal est affichée par les soins du directeur du centre de ressources, d'expertise et de performance sportive.
 
 III-2. Contestations.
 
-Les contestations sur la validité des opérations électorales sont portées devant le directeur du centre de ressources, d'expertise et de performance sportives dans un délai de cinq jours à compter de la proclamation des résultats.
+Les contestations sur la validité des opérations électorales sont portées devant le directeur du centre de ressources, d'expertise et de performance sportive dans un délai de cinq jours à compter de la proclamation des résultats.
 
 Celui-ci doit statuer dans un délai de huit jours, à l'issue duquel la demande est réputée rejetée.
