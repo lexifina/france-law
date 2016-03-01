@@ -1,0 +1,9 @@
+# Réponse à la question n° 86857
+
+- Question : [86857](86857.md) — Question n° 86857 — défenseur des droits; propositions
+
+## Réponse
+
+*JO du 2016-03-01*
+
+La feuille de route 2015-2017 pour la protection de l'enfance, présentée en juin 2015 par la secrétaire d'Etat chargée de la famille, de l'enfance, des personnes âgées et de l'autonomie, préfigure les grands principes d'une réforme centrée sur l'enfant, ses besoins et la réaffirmation de ses droits. C'est l'attention portée à l'enfant qui guide les interventions des professionnels, favorise l'aide aux parents et la mobilisation de toutes les personnes qui comptent pour lui, depuis la prévention jusqu'aux décisions d'accueil de l'enfant en dehors de la cellule familiale. Les référentiels portant sur l'information préalable à l'agrément en vue d'adoption et sur l'évaluation de la demande l'agrément élaborés en 2011 par le ministère des solidarités et de la cohésion sociale dans le cadre d'un groupe de travail réunissant l'ensemble des acteurs concernés (conseils départementaux, associations…) rappellent que l'objectif de la procédure d'évaluation de la demande d'agrément est d'apprécier les risques possibles qui viendraient contre-indiquer l'adoption d'un enfant par les personnes sollicitant l'agrément, cette appréciation étant faite au regard des besoins et de l'intérêt de l'enfant à adopter. Comme le rappelle le conseil supérieur de l'adoption dans sa contribution sur l'agrément en vue d'adoption de 2014, l'agrément est en effet une mesure de protection de l'enfance. La proposition de loi relative à la protection de l'enfant actuellement en discussion au Parlement appelle ainsi à recentrer le processus d'adoption sur l'intérêt de l'enfant. Son article 15 crée ainsi un régime dérogatoire d'audition du mineur pour la procédure d'adoption, la parole du mineur devant, dans son intérêt, être systématiquement prise en compte.
