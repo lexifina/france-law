@@ -1,0 +1,57 @@
+# Economie : réforme du droit des contrats, du régime général et de la preuve des obligations
+
+- Procédure : Projet de loi ordinaire
+- Législature : 14
+- Identifiant : DLR5L14N35818
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/ratification_ordonnance_2016_131
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl16-578.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2017-06-09 : 1er dépôt d'une initiative. (PRJLSNR5S279B0578)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2017-06-09 : Renvoi en commission au fond
+      - 2016-03-02 : Nomination de rapporteur
+      - 2017-10-11 : Dépôt de rapport (RAPPSNR5S299B0022)
+  - Discussion en séance publique
+    - 2017-10-17 : Discussion en séance publique
+    - 2017-10-17 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2017-10-18 : Dépôt d'une initiative en navette (PRJLANR5L15B0315)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2017-10-18 : Renvoi en commission au fond
+      - 2017-11-08 : Nomination de rapporteur
+      - 2017-11-21 : Réunion de commission
+      - 2017-11-29 : Réunion de commission
+      - 2017-11-29 : Dépôt de rapport (RAPPANR5L15B0429, PRJLANR5L15BTC0429)
+  - Discussion en séance publique
+    - 2017-12-11 : Discussion en séance publique
+    - 2017-12-11 : Décision
+- deuxième lecture
+  - 2017-12-12 : Dépôt d'une initiative en navette (PRJLSNR5S299B0154)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2017-12-12 : Renvoi en commission au fond
+      - 2018-01-24 : Dépôt de rapport (RAPPSNR5S299B0247)
+  - Discussion en séance publique
+    - 2018-02-01 : Discussion en séance publique
+    - 2018-02-01 : Décision
+- deuxième lecture
+  - 2018-02-01 : Dépôt d'une initiative en navette (PRJLANR5L15B0629)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2018-02-01 : Renvoi en commission au fond
+      - 2018-02-07 : Réunion de commission
+      - 2018-02-15 : Réunion de commission
+      - 2018-02-07 : Dépôt de rapport (RAPPANR5L15B0639, PRJLANR5L15BTC0639)
+  - Discussion en séance publique
+    - 2018-02-15 : Discussion en séance publique
+    - 2018-02-15 : Discussion en séance publique
+    - 2018-02-15 : Décision
+- Commission Mixte Paritaire
+  - 2018-02-16 : Dépôt d'un projet de loi (PRJLSNR5S299B0309)
+  - 2018-02-16 : Convocation d'une CMP
+  - Commission Mixte Paritaire
