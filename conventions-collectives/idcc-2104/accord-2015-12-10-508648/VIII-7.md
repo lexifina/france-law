@@ -1,0 +1,3 @@
+# Article VIII.7
+
+Il ne peut être dérogé par accord d'entreprise ou par accord d'établissement au présent accord qui est impératif sauf dispositions plus favorables.
