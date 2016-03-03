@@ -1,0 +1,9 @@
+# Réponse à la question SEQ150215036
+
+- Question : [SEQ150215036](seq150215036.md) — Préoccupations de responsables de structures d'hébergement à La Réunion
+
+## Réponse
+
+*Affaires sociales et santé, JO du 2016-03-03, page 841*
+
+La mise en œuvre par les exploitants de piscines d'un ensemble d'obligations prévues par l'arrêté du 7 avril 1981 modifié fixant les dispositions techniques applicables aux piscines permet d'assurer la sécurité sanitaire des personnes fréquentant ces établissements. L'autosurveillance quotidienne de la qualité de l'eau des bassins et la réalisation de contrôles réguliers des autorités sanitaires, en application des articles L. 1332-8 et D. 1332-12 du code de la santé publique (CSP), sont parmi les dispositions les plus importantes. Le contrôle sanitaire des agences régionales de santé (ARS) repose sur l'inspection des établissements faisant suite notamment à des signalements, et la réalisation au moins une fois par mois de prélèvements et d'analyses de l'eau des bassins par les laboratoires agréés par le ministère chargé de la santé. Les prestations de prélèvements et d'analyses réalisées par les laboratoires dans le cadre du contrôle sanitaire se font dans un cadre concurrentiel ; elles sont soumises aux dispositions du code des marchés publics. Des réflexions sur une réforme de la réglementation sanitaire applicable aux piscines sont actuellement menées par les services du ministère chargé de la santé. Celles-ci s'appuient sur les rapports de l'agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail (ANSES) et sur les retours d'expérience des services santé-environnement des agences régionales de santé. Les professionnels du tourisme seront consultés dans le cadre de l'élaboration de ces textes, sans qu'il soit possible à ce stade de considérer que des dispositions spécifiques aux départements d'outre-mer soient nécessaires.
