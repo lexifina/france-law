@@ -6,7 +6,7 @@ Diplôme d'études spécialisées de pharmacie
 
 1-Enseignement
 
-L'interne doit valider des unités d'enseignement pour un crédit total d'au moins 60 E. C. T. S. Les choix des unités d'enseignement figurant dans la présente annexe doivent être au préalable approuvés par le coordonnateur du diplôme d'études spécialisées.
+L'étudiant de troisième cycle spécialisé des études pharmaceutiques doit valider des unités d'enseignement pour un crédit total d'au moins 60 E. C. T. S. Les choix des unités d'enseignement figurant dans la présente annexe doivent être au préalable approuvés par le coordonnateur du diplôme d'études spécialisées.
 
 Liste des unités d'enseignements
 
@@ -103,10 +103,6 @@ Niveau 1
 • dans un établissement industriel agréé pour recevoir des internes en pharmacie du diplôme d'études spécialisées de pharmacie.
 
 -Chaque lieu de stage agréé pour recevoir des internes doit établir chaque année à l'intention du coordonnateur du diplôme d'études spécialisées et de l'agence régionale de santé pilote de l'interrégion, un profil des postes d'internes (description de l'activité de poste, participation à la garde, acquisition possible de compétences spécifiques, etc.).
-
--A l'issue de chaque semestre, le responsable du lieu de stage évalue le stage de l'interne (éléments généraux d'appréciation, objectifs professionnels). Cette évaluation est transmise au coordonnateur interrégional du diplôme d'études spécialisées, qui propose au directeur de l'unité de formation et de recherche concernée la validation du stage.
-
--À l'issue de chaque semestre, l'interne remplit une fiche d'évaluation destinée à apprécier le caractère formateur du lieu du stage dans lequel il était affecté. Cette fiche transmise au coordonnateur du diplôme d'études spécialisées et à l'agence régionale de santé pilote de l'interrégion servira aux travaux de la commission d'interrégion statuant en formation en vue de l'agrément des lieux de stage prévue par le décret n° 2012-257 du 22 février 2012 susmentionné.
 
 À l'issue du niveau 1, l'interne établit librement un projet professionnel concernant le choix de l'option du D. E. S. de pharmacie (D. E. S. de pharmacie : option pharmacie hospitalière-pratique et recherche ou D. E. S. de pharmacie : option pharmacie industrielle et biomédicale), les quatre semestres du niveau 2 et ses objectifs professionnels.
 
