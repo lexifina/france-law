@@ -1,0 +1,9 @@
+# Réponse à la question SEQ151219371
+
+- Question : [SEQ151219371](seq151219371.md) — Réponses apportées aux questions écrites
+
+## Réponse
+
+*Relations avec le Parlement, JO du 2016-03-03, page 850*
+
+Les questions écrites sont un instrument utile pour le travail de contrôle du Parlement. Le taux de réponses aux questions des sénateurs, de 75,23 % entre le 26 juin 2012 et 17 décembre 2015 suivant les statistiques établies par le Sénat, est honorable, même s'il n'est pas pleinement satisfaisant. Un des éléments qui expliquent ce taux insatisfaisant est le volume toujours plus important de questions écrites à chaque législature : plus de 19 000 questions ont ainsi été posées par les sénateurs depuis juin 2012, quelques parlementaires posant à eux seuls plusieurs centaines de questions par an. Certains ministères se voient, en outre, attribuer un très grand nombre de questions écrites : tel est notamment le cas du ministère des affaires sociales, de la santé et des droits des femmes, du ministère de l'intérieur, du ministère des finances et des comptes publics ou du ministère de l'écologie, du développement durable et de l'énergie. Ces facteurs expliquent que le délai réglementaire d'un mois pour la réponse du Gouvernement, prévu par l'article 75 du Règlement du Sénat, soit régulièrement dépassé. Lors de l'ouverture de la session ordinaire, le secrétaire d'État, auprès du Premier ministre, chargé des relations avec le Parlement, a rappelé aux membres du Gouvernement, qu'ils devaient veiller à répondre aux questions écrites dans des délais plus rapides. S'il peut témoigner que chaque ministère consent à des efforts importants pour apporter une réponse précise à chaque question écrite qui lui est posée, il a cependant pris l'engagement, lors de la Conférence des Présidents du 9 décembre 2015, d'attirer à nouveau l'attention de l'ensemble des membres du Gouvernement sur ce sujet.
