@@ -1,7 +1,5 @@
 # Article Annexe A
 
-.
-
 ORGANISMES OU AUTORITÉS
 
 dont relèvent les personnes habilitées
@@ -12,7 +10,7 @@ PERSONNES HABILITÉES
 
 |
 
-MONTANT maximum des marchés (1)
+MONTANT MAXIMUM DES MARCHÉS (1)
 
 |
 
@@ -36,19 +34,11 @@ Direction centrale de la direction interarmées des réseaux d'infrastructure et
 
 |
 
-Directeurs des directions interarmées des réseaux d'infrastructure et des systèmes d'information d'Ile-de-France/8e régiment de transmissions (2), de Rennes (2), de Toulon et de Brest
+Directeurs des directions interarmées des réseaux d'infrastructure et des systèmes d'information de Toulon et de Brest
 
 |
 
 Sans limitation
-
-|
-
-Directeur de la direction interarmées des réseaux d'infrastructure et des systèmes d'information de Saint-Denis de La Réunion (2)
-
-|
-
-MAPA x 1
 
 |
 
@@ -92,11 +82,11 @@ Directeur de l'établissement logistique de Roanne
 
 |
 
-15 000 € HT
+15 000 euros HT
 
 |
 
-Chefs des groupements de soutien de base de défense en métropole (3)
+Chefs des groupements de soutien de base de défense en métropole (2)
 
 |
 
@@ -120,9 +110,7 @@ Directeur de l'exploitation et de la logistique pétrolières interarmées
 
 |
 
-Sans limitation (4)
-
-MAPA x 100 (5)
+Sans limitation
 
 |
 
@@ -130,7 +118,15 @@ Adjoint interarmées de soutien pétrolier
 
 |
 
-Sans limitation (6)
+Sans limitation (3)
+
+|
+
+Chef du détachement de liaison du service des essences des armées, à l'étranger
+
+|
+
+Sans limitation (3)
 
 |
 
@@ -146,7 +142,7 @@ Chef du détachement de liaison du service des essences des armées auprès de l
 
 |
 
-MAPA x 7
+MAPA x 7 (4)
 
 |
 
@@ -154,7 +150,7 @@ Divers
 
 |
 
-Commandants des formations administratives (7)
+Commandants des formations administratives (5)
 
 |
 
@@ -194,23 +190,11 @@ MAPA x 3
 
 |
 
-Structure intégrée du maintien en condition opérationnelle des matériels terrestres
-
-|
-
-Chef du centre d'études et de développements informatiques du matériel de l'armée de terre
-
-|
-
-MAPA x 1
-
-|
-
 Divers
 
 |
 
-Commandants des formations administratives (7)
+Commandants des formations administratives (5)
 
 |
 
@@ -278,7 +262,7 @@ Divers
 
 |
 
-Commandants des formations administratives (7)
+Commandants des formations administratives (5)
 
 |
 
@@ -338,7 +322,7 @@ Service industriel de l'aéronautique
 
 |
 
-Directeur de l'atelier industriel de l'aéronautique d'Ambérieu- en-Bugey
+Directeur de l'atelier industriel de l'aéronautique d'Ambérieu-en-Bugey
 
 |
 
@@ -382,7 +366,7 @@ Divers
 
 |
 
-Commandants des formations administratives (7)
+Commandants des formations administratives (5)
 
 |
 
@@ -413,10 +397,6 @@ Adjoints du chef du service des achats d'armement
 Sans limitation
 
 |
-
-Autorités signataires de marchés |
-
-MAPA × 50 |
 
 Direction de la stratégie
 
@@ -482,19 +462,19 @@ Ministère de l'écologie, du développement durable et de l'énergie
 
 |
 
-Directeur du service national d'ingénierie aéroportuaire (8)
+Directeur du service national d'ingénierie aéroportuaire (6)
 
 |
 
-Sans limitation (9) (10) (11)
+Sans limitation (7) (8) (9)
 
 |
 
-Directeurs des services chargés de l'aviation civile en Nouvelle-Calédonie et en Polynésie française (8)
+Directeurs des services chargés de l'aviation civile en Nouvelle-Calédonie et en Polynésie française (6)
 
 |
 
-Sans limitation (9) (10) (11)
+Sans limitation (7) (8) (9)
 
 |
 
@@ -502,7 +482,7 @@ Directeur du service technique de l'aviation civile
 
 |
 
-Sans limitation (9) (10) (11)
+Sans limitation (7) (8) (9)
 
 |
 
@@ -514,34 +494,26 @@ Chef du quartier général
 
 |
 
-MAPA x 1 (12) (13)
+MAPA x 1 (10)
 
 |
 
-(1) L'expression "MAPA x" s'entend comme suit : montant égal à n fois le seuil des marchés et accords-cadres pouvant être passés selon la procédure adaptée tel qu'il est fixé par l'article 26-II du code des marchés publics.
+(1) L'expression " MAPA x " s'entend comme suit : montant égal à n fois le seuil des marchés et accords-cadres pouvant être passés selon la procédure adaptée tel qu'il est fixé par l'article 26-II du code des marchés publics.
 
-(2) Pour les directeurs des directions d'Ile-de-France/8e régiment de transmissions, de Rennes et de Saint-Denis de La Réunion, la délégation est applicable jusqu'au 30 juin 2015.
+(2) Les chefs des groupements de soutien de base de défense, commandants de formation administrative, reçoivent délégation pour passer les marchés publics et accords-cadres nécessaires au soutien commun ou spécifique des formations de la base de défense, lorsque les besoins ne sont pas satisfaits par un marché public, un accord-cadre ou une convention passés par un autre pouvoir adjudicateur du ministère ou interministériel.
 
-(3) Les chefs des groupements de soutien de base de défense, commandants de formation administrative, reçoivent délégation pour passer les marchés publics et accords-cadres nécessaires au soutien commun ou spécifique des formations de la base de défense, lorsque les besoins ne sont pas satisfaits par un marché public, un accord-cadre ou une convention passés par un autre pouvoir adjudicateur du ministère ou interministériel.
+(3) Délégation limitée aux marchés et accords-cadres de produits pétroliers à l'étranger, dans la zone de compétence des personnes habilitées.
 
-(4) Délégation applicable aux marchés et accords-cadres imputés sur le compte de commerce approvisionnement des armées en produits pétroliers, autres fluides et produits complémentaires .
+(4) Délégation limitée aux marchés subséquents d'approvisionnement en produits pétroliers des bâtiments en escale à l'étranger.
 
-(5) Délégation applicable aux marchés et accords-cadres imputés sur le budget défense.
+(5) A l'exception des commandants des formations dont la liste est prévue à l'article 4 de l'arrêté du 29 novembre 2010 portant création et organisation des bases de défense et fixant les attributions des commandants des bases de défense, les commandants des formations administratives (corps de troupe de l'armée de terre, formations de la marine, bases aériennes et organismes administrés comme tels) soutenues par un groupement de soutien de base de défense ne peuvent passer et signer les marchés publics et accords-cadres mentionnés ci-dessus que dans le cas où la formation, l'organisme ou un de ses éléments se déplace à l'extérieur de la base de défense.
 
-(6) Délégation limitée aux marchés pétroliers à l'étranger dans la zone de compétence de l'adjoint interarmées de soutien pétrolier.
+(6) Délégations accordées sur le fondement du décret n° 51-196 du 21 février 1951 fixant les attributions respectives du secrétariat d'Etat aux forces armées air, du ministre des travaux publics, des transports et du tourisme et du secrétaire d'Etat aux forces armées guerre, en ce qui concerne les installations immobilières du département de l'air et de son arrêté d'application du 22 février 1951 fixant les attributions respectives du secrétaire d'Etat aux forces armées air du ministre des travaux publics, des transports et du tourisme et du secrétaire d'Etat aux forces armées guerre en ce qui concerne les installations immobilières du département de l'air.
 
-(7) A l'exception des commandants des formations dont la liste est prévue à l'article 4 de l'arrêté du 29 novembre 2010 portant création et organisation des bases de défense et fixant les attributions des commandants des bases de défense, les commandants des formations administratives (corps de troupe de l'armée de terre, formations de la marine, bases aériennes et organismes administrés comme tels) soutenues par un groupement de soutien de base de défense ne peuvent passer et signer les marchés publics et accords-cadres mentionnés ci-dessus que dans le cas où la formation, l'organisme ou un de ses éléments se déplace à l'extérieur de la base de défense.
+(7) Délégation limitée aux marchés et accords-cadres se référant aux cahiers des clauses administratives générales (CCAG) (travaux), y compris les marchés de travaux passés à l'étranger ne se référant pas à ce CCAG.
 
-(8) Délégations accordées sur le fondement du décret n° 51-196 du 21 février 1951 fixant les attributions respectives du secrétariat d'Etat aux forces armées air, du ministre des travaux publics, des transports et du tourisme et du secrétaire d'Etat aux forces armées guerre, en ce qui concerne les installations immobilières du département de l'air et de son arrêté d'application du 22 février 1951 fixant les attributions respectives du secrétaire d'Etat aux forces armées air du ministre des travaux publics, des transports et du tourisme et du secrétaire d'Etat aux forces armées guerre en ce qui concerne les installations immobilières du département de l'air.
+(8) Délégation limitée aux marchés et accords-cadres de nature industrielle, de prestations intellectuelles et de fournitures courantes.
 
-(9) Délégation limitée aux marchés et accords-cadres se référant aux cahiers des clauses administratives générales (CCAG) (travaux), y compris les marchés de travaux passés à l'étranger ne se référant pas à ce CCAG.
+(9) Limitation applicable aux seuls marchés de définition ou de maîtrise d'œuvre passés conformément aux dispositions de la loi n° 85-704 du 12 juillet 1985 modifiée relative à la maîtrise d'ouvrage publique et ses rapports avec la maîtrise d'œuvre privée et de ses textes d'application.
 
-(10) Délégation limitée aux marchés et accords-cadres de nature industrielle, de prestations intellectuelles et de fournitures courantes.
-
-(11) Limitation applicable aux seuls marchés de définition ou de maîtrise d'œuvre passés conformément aux dispositions de la loi n° 85-704 du 12 juillet 1985 relative à la maîtrise d'ouvrage publique et ses rapports avec la maîtrise d'œuvre privée et de ses textes d'application.
-
-(12) Pour le chef du quartier général, la délégation pour passer les marchés de fournitures et services est applicable dans des conditions fixées par arrêté.
-
-(13) Jusqu'au 30 mai 2015 : MAPA x 0,66.
-
-|
+(10) Pour le chef du quartier général, la délégation pour passer les marchés de fournitures et services est applicable dans des conditions fixées par arrêté. |
