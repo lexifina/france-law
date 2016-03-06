@@ -1,30 +1,16 @@
-# Article Annexe
+# Article Annexe 1
 
-Annexe
+GRILLE DE NOTATION DE LA SCOLARITÉ DES ÉLÈVES GARDIENS DE LA PAIX DES 240E, 242E ET 243E PROMOTIONS
 
-GRILLE DE NOTATION SCOLARITE DES ELEVES GARDIENS DE LA PAIX
-
-répartition des évaluations à compter de l'incorporation de la 229ème promotion
-
-EVALUATIONS
+INTITULÉ
 
 |
 
-TOTAL
-
-des points
+POINTS
 
 |
 
-COMPORTEMENT
-
-|
-
-Tout au long de la scolarité
-
-|
-
-Exemplarité
+Comportement
 
 |
 
@@ -32,79 +18,31 @@ Exemplarité
 
 |
 
-Investissement personnel
+Evaluation armement
 
 |
 
-35
+70
 
 |
 
-Travail en équipe
+Evaluation tir 1
 
 |
 
-35
+100
 
 |
 
-Total : 170 Pts
+Evaluation tir 2
 
 |
 
-CONNAISSANCES ET SAVOIR FAIRE TECHNIQUES
+130
 
 |
 
-10° semaine environ
-
-|
-
-Évaluation écrite sur les fondamentaux
-
-|
-
-Total : 80 Pts
-
-|
-
-13° semaine environ
-
-|
-
-Habilitation SIG Sauer
-
-|
-
-30
-
-|
-
-14° et 15° semaine
-
-|
-
-Développement de la condition physique opérationnelle
-
-|
-
-Cardio police
-
-|
-
-10
-
-|
-
-Parcours pro
-
-|
-
-20
-
-|
-
-T.D.I. (techniques de défense en intervention)
+Evaluation TDI 1
 
 |
 
@@ -112,178 +50,60 @@ T.D.I. (techniques de défense en intervention)
 
 |
 
-Armement
+EvaluationTDI 2
 
 |
 
-20
+150
 
 |
 
-17° semaine environ
+Développement de la condition physique opérationnelle/ Evaluation parcours police
 
 |
 
-Habilitation bâtons de police
+100
 
 |
 
-20
+Evaluation informatique
 
 |
 
-21° semaine environ
+50
 
 |
 
-Tir
+Contrôle national écrit NR 1 incluant les fondamentaux
 
 |
 
-60
+200
 
 |
 
-|
-
-Total : 210 Pts
+Contrôle national écrit NR 2
 
 |
 
-26° semaine environ
+200
 
 |
 
-EVALUATION INFORMATIQUE
+Contrôle national de simulation
 
 |
 
-Total : 50 Pts
+200
 
 |
 
-CONTROLE NATIONAL DOMAINE GENERAL
+Total des points
 
 |
 
-Total : 250 Pts
+1 350 |
 
-|
+NOTA :
 
-27° et 28° semaine environ
-
-|
-
-Développement de la condition physique opérationnelle
-
-|
-
-Cardio police
-
-|
-
-10
-
-|
-
-Parcours pro
-
-|
-
-10
-
-|
-
-Sprint pro
-
-|
-
-10
-
-|
-
-T.D.I (avec mises en situation bâtons de police )
-
-|
-
-60
-
-|
-
-Armement
-
-|
-
-20
-
-|
-
-Tir
-
-|
-
-80
-
-|
-
-|
-
-Total : 190 Pts
-
-|
-
-COMPETENCES PROFESSIONNELLES
-
-|
-
-16° semaine environ
-
-|
-
-SIMULATION EVALUATION SUR LE CONTROLE D'IDENTITE
-
-|
-
-Total 80 Pts
-
-|
-
-21° semaine environ
-
-|
-
-SIMULATION EVALUATION SUR LES VIOLENCES INTRA FAMILIALES
-
-|
-
-Total 80 Pts
-
-|
-
-30° semaine
-
-|
-
-SIMULATION EVALUATION NATIONALE
-
-|
-
-Total 200 Pts
-
-|
-
-31° semaine
-
-|
-
-CONTROLE NATIONAL DOMAINE JUDICIAIRE
-
-|
-
-Total : 120 Pts
-
-|
-
-TOTAL GENERAL SCOLARITE : 1430 Pts
-
-|
+Conformément aux dispositions de l'article 12 de l'arrêté du 29 février 2016, les présentes dispositions entrent en vigueur à compter de la 237e promotion des élèves gardiens de la paix de la police nationale.
