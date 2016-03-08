@@ -1,0 +1,9 @@
+# Réponse à la question n° 91370
+
+- Question : [91370](91370.md) — Question n° 91370 — impôt sur le revenu; déclaration
+
+## Réponse
+
+*JO du 2016-03-08*
+
+Les contrats d'assurance prévoyance obéissent globalement tous, au plan fiscal, au même principe pour leurs bénéficiaires : si les cotisations sont déductibles ou exonérées à l'entrée, les prestations sont fiscalisées à la sortie et, à l'inverse, si les cotisations ne sont ni déductibles ni exonérées à l'entrée, les prestations versées ne sont pas imposables à la sortie. A cet égard, il est précisé que l'ensemble des cotisations et primes y compris la participation de l'employeur souscrit dans le cadre d'un contrat d'entreprise obligatoire et collectif est déductible dans certaines limites des traitements et salaires pour le calcul de l'impôt sur le revenu, lorsque les garanties financées ne correspondent pas à la garantie des frais de santé. Il s'agit, en pratique, des cotisations versées au titre des garanties incapacité, invalidité, décès et dépendance. En contrepartie, la rente versée à l'assuré ou à ses ayants-droit en cas d'invalidité est imposable à l'impôt sur le revenu selon les règles des pensions. Toute personne peut souscrire un contrat de prévoyance complémentaire à titre individuel et facultatif. Les cotisations versées dans ce cadre ne sont ni déductibles du revenu ni, lorsqu'elles sont prises en charge par l'employeur, exonérées. En contrepartie, les prestations servies par ces contrats ne sont pas imposables à l'impôt sur le revenu. Cela étant, il ne pourra être répondu précisément à la question posée que si, par l'indication des nom et adresse des personnes concernées et de l'ensemble des éléments s'y rapportant, l'administration était à même de procéder à un examen circonstancié du cas particulier évoqué.
