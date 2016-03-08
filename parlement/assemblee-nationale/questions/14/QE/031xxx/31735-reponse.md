@@ -1,0 +1,9 @@
+# Réponse à la question n° 31735
+
+- Question : [31735](31735.md) — Question n° 31735 — Cour des comptes; rapport; conclusions
+
+## Réponse
+
+*JO du 2016-03-08*
+
+En 2015, le Gouvernement aurait dû diminuer les prestations familiales de 0,7 point s'il avait appliqué strictement les dispositions législatives existantes à cette date, du fait du mécanisme de correction en cas d'inflation inférieure aux prévisions. Afin de ne pas pénaliser les familles, le Gouvernement a fait le choix au 1er avril 2015 de ne pas diminuer le montant des prestations. Cependant, le constat d'une absence de lisibilité de ce dispositif de revalorisation, ainsi que, plus largement, d'une grande hétérogénéité et complexité des mécanismes de revalorisation des différentes prestations sociales a conduit à proposer une réforme globale. En effet, coexistaient cinq dates différentes et plusieurs indices de référence, fondée sur l'inflation prévisionnelle, avec ou non un dispositif de correction des écarts de prévision. Les modalités de revalorisation des prestations en loi de finances pour 2016 et en loi de financement de la sécurité sociale pour 2016 ont donc été réformées en : - conservant uniquement deux dates de revalorisation, au 1er octobre pour les retraites, sans changement, et au 1er avril pour toutes les autres prestations ; - garantissant le maintien des prestations à leur niveau antérieur en cas d'inflation négative, par une règle de "bouclier", dans un cadre général où la revalorisation ne se fera qu'en fonction d'évolutions connues de l'inflation, et non prévisionnelles, ce qui exclura en conséquence toute nécessité de correction a posteriori. Les prestations seront donc revalorisées selon une même modalité, sur la base des dernières données d'inflation (hors tabac) publiées et appréciées en moyenne annuelle sur les douze derniers mois.
