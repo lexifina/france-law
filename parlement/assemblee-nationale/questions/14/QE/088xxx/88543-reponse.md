@@ -1,0 +1,9 @@
+# Réponse à la question n° 88543
+
+- Question : [88543](88543.md) — Question n° 88543 — locataires; sinistre; indemnisation
+
+## Réponse
+
+*JO du 2016-03-08*
+
+Le locataire porte la responsabilité des dommages causés à l'immeuble occupé pendant la durée de la location. Il s'agit de la responsabilité locative née du contrat de bail conclu avec le propriétaire. Le code civil définit les principes de responsabilité qui s'appliquent en fonction de l'origine du sinistre (incendie, explosion, dégât des eaux) et qui mettent à la charge du locataire l'obligation de réparer les dommages causés. Le locataire non assuré mais responsable des dommages sera tenu d'indemniser personnellement le propriétaire. Toutefois, en cas de dommages dus à un incendie par exemple, la responsabilité du locataire non assuré pourra être exonérée s'il prouve que ce sinistre est dû à un défaut d'entretien, à un vice de construction, à un cas de force majeur ou à la communication du feu par une habitation voisine. La loi oblige le locataire d'un logement à s'assurer. L'article 7g (1er alinéa) de la loi no 89-462 du 6 juillet 1989 tendant à améliorer les rapports locatifs et portant modification de la loi no 86-1290 du 23 septembre 1986 prévoit que « le locataire est obligé de s'assurer contre les risques dont il doit répondre en sa qualité de locataire et d'en justifier lors de la remise des clés, puis chaque année, à la demande du bailleur ». Soucieuse de l'efficacité de la prise en charge des sinistres, la loi no 2014-366 du 24 mars 2014 pour l'accès au logement et un urbanisme rénové dite loi ALUR a modifié les règles d'assurance. Désormais, à défaut de la remise au bailleur d'une attestation justifiant la souscription d'une assurance et après un délai d'un mois à compter d'une mise en demeure non suivie d'effet, le bailleur peut souscrire une assurance pour compte du locataire, récupérable auprès de celui-ci.
