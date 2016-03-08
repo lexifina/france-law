@@ -1,0 +1,9 @@
+# Réponse à la question n° 91422
+
+- Question : [91422](91422.md) — Question n° 91422 — assistants d'éducation; perspectives
+
+## Réponse
+
+*JO du 2016-03-08*
+
+Le différentiel de rémunération annuelle constaté des assistants d'éducation entre le ministère de l'éducation nationale (MEN) et le ministère de l'agriculture, de l'agroalimentaire et de la forêt (MAAF) s'explique pour deux raisons : D'une part, ce différentiel trouve son origine dans la mise en place des assistants d'éducation en 2002 en remplacement des anciens maîtres d'internat - surveillants d'externat. Le MEN a alors calculé le montant de l'enveloppe budgétaire d'une manière différente de celle appliquée au MAAF ; D'autre part, les revalorisations de point d'indice pratiquées entre 2002 et 2010 par la fonction publique n'ont pas été intégrées dans le calcul des crédits budgétaires du MAAF alloués pour les assistants d'éducation et versés aux établissements publics locaux d'enseignement et de formation professionnelle agricoles (EPLEFPA). En loi de finances initiale pour 2014, l'enseignement technique agricole disposait d'un crédit de 26 millions d'euros correspondant à 1 165 postes d'assistants d'éducation rémunérés par les EPLEFPA. En loi de finances initiale pour 2015, la dotation a progressé pour s'établir à hauteur de 28,8 millions d'euros pour 1 247 postes d'assistants d'éducaion permettant de se rapprocher du financement retenu à l'éducation nationale (soit 26 598 € par assistant d'éducation). Ainsi le différentiel de coût par assistant d'éducation constaté entre le MEN et le MAAF a pu être réduit, voire supprimé dans certaines régions où le besoin en termes d'effectifs est resté stable. En loi de finances initiale pour 2016, la dotation est très proche, à hauteur de 28,1 millions d'euros permettant d'assurer une continuité de l'effort consenti en faveur du financement des postes d'assistants d'éducation.
