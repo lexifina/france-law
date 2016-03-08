@@ -1,0 +1,9 @@
+# Réponse à la question n° 91986
+
+- Question : [91986](91986.md) — Question n° 91986 — portables; opérateurs; pratiques commerciales
+
+## Réponse
+
+*JO du 2016-03-08*
+
+Le verrouillage (ou « simlockage ») des terminaux vise à permettre aux opérateurs de mieux prévenir les comportements frauduleux notamment le vol de téléphone. C'est pourquoi seul le propriétaire du terminal peut effectuer l'opération de déverrouillage (« désimlockage »). La réglementation (décision no 2005-1083 de l'autorité de régulation des communications électroniques et des postes) impose aux opérateurs de procéder gratuitement à cette opération dans les six mois suivant la souscription de l'abonnement par l'utilisateur. A la suite d'un engagement des opérateurs de la fédération française des télécoms du 23 septembre 2011, cette durée a été réduite à trois mois. Le rapport du conseil général de l'économie, de l'industrie, de l'énergie et des technologies de mars 2013 relatif aux modalités de financement des terminaux de téléphonie et lutte contre la fraude, a conclu à la nécessité de maintenir le verrouillage pour combattre la fraude. La réduction du délai d'obtention du déverrouillage a permis de fluidifier le marché. Des améliorations en termes d'information des consommateurs sur le mode d'emploi du déverrouillage ont été réalisées par les opérateurs depuis 2012 notamment sur les sites internet et dans l'espace client. Le rapport constate que la pratique qui a fait l'objet de nombreuses critiques de la part des consommateurs qui ne pouvaient obtenir des opérateurs les codes pour déverrouiller leur appareil ne semble, cependant, plus susciter de difficulté particulière, sauf exception. En conséquence, l'abandon de la pratique du verrouillage des téléphones portables par les opérateurs ne semble pas nécessaire.
