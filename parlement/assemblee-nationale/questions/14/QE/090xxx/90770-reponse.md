@@ -1,0 +1,9 @@
+# Réponse à la question n° 90770
+
+- Question : [90770](90770.md) — Question n° 90770 — non-voyant; exonération
+
+## Réponse
+
+*JO du 2016-03-08*
+
+Conformément à l'article 41 de la loi de finances pour 2005 (n° 2004-1484 du 30 décembre 2004) relatif à la modification du régime de la redevance audiovisuelle, désormais appelée contribution à l'audiovisuel public, les allégements de celle-ci sont alignés sur ceux de la taxe d'habitation et effectués par voie de dégrèvements pris en charge par l'État. Ainsi et sous réserve de satisfaire aux conditions d'occupation de leur résidence principale prévues à l'article 1390 du code général des impôts (CGI), bénéficient d'un dégrèvement de la contribution à l'audiovisuel public, les titulaires de l'allocation supplémentaire d'invalidité mentionnée à l'article L. 815-24 du code de la sécurité sociale ainsi que les contribuables titulaires de l'allocation aux adultes handicapés ou atteints d'une infirmité ou d'une invalidité les empêchant de subvenir par leur travail aux nécessités de l'existence, dont le revenu fiscal de référence de l'année précédente n'excède pas la limite fixée au I de l'article 1417 du CGI. Par ailleurs, dès lors que le champ d'exonération de la redevance audiovisuelle dans le régime antérieur à 2005 et celui de la taxe d'habitation ne se recoupaient pas totalement, un dispositif de maintien de droit a été institué afin que les personnes infirmes qui étaient exonérées de la redevance en 2004 continuent de bénéficier d'un dégrèvement de la contribution à l'audiovisuel public dès lors qu'elles respectent la condition d'occupation précitée, qu'elles ne sont pas assujetties à l'impôt de solidarité sur la fortune et que leur revenu fiscal de référence n'excède pas la limite de revenu fixée au I de l'article 1417 du code précité. La situation des personnes atteintes de cécité de condition modeste est donc déjà largement prise en compte.
