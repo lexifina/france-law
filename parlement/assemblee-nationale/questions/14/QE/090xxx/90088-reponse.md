@@ -1,0 +1,9 @@
+# Réponse à la question n° 90088
+
+- Question : [90088](90088.md) — Question n° 90088 — grande distribution; mention boulangerie; réglementation
+
+## Réponse
+
+*JO du 2016-03-08*
+
+Les dispositions du code de la consommation subordonnent l'usage de l'appellation de « boulanger » et de l'enseigne commerciale de « boulangerie » ou de toute dénomination susceptible de porter à confusion à l'obligation de réaliser entièrement l'élaboration du pain, du choix des farines jusqu'à la remise au consommateur final sur le lieu de vente. En outre, il ne doit pas y avoir recours à l'usage de la congélation à quelque stade de la fabrication que ce soit. Depuis l'entrée en application du texte, les contrôles opérés ont montré que : - les chaînes et les franchises de boulangerie industrielle ont opté pour des appellations ou enseignes commerciales ne comportant pas le mot de boulanger, ni celui de boulangerie ; - les entreprises de la grande distribution se sont, quant à elles, montrées très attachées à la conservation de ces appellations et enseignes commerciales. Pour cela, elles ont, dans leur très grande majorité, intégré des ateliers de boulangerie dans leurs structures et embauché des boulangers qualifiés ; - des entreprises artisanales possédant plusieurs magasins mais fabriquant dans un fournil central pouvaient se trouver en infraction pour ce qui concerne l'usage de ces appellations et enseignes commerciales. Les services déconcentrés de la direction générale de la concurrence, de la consommation et de la répression des fraudes (DGCCRF) exercent, dans le cadre de leurs missions, une surveillance régulière afin de vérifier la bonne application des dispositions des articles L. 121-80 et suivants du code de la consommation. Lorsque des infractions sont constatées, elles reçoivent les suites appropriées (pénales ou administratives).
