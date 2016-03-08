@@ -1,0 +1,9 @@
+# Réponse à la question n° 82923
+
+- Question : [82923](82923.md) — Question n° 82923 — service des impôts des non-résidents; référé par la Cour des comptes; préconisations
+
+## Réponse
+
+*JO du 2016-03-08*
+
+Le gouvernement attache une attention particulière aux délais de publication des textes réglementaires. Toutes les mesures nécessaires sont mises en œuvre pour raccourcir les délais de publication des décrets d'application et des instructions précisant les nouvelles règles fiscales, notamment celles concernant les non-résidents. A ce titre, comme indiqué dans le rapport annuel de performance 2014 du programme 305 (indicateur 2.1), 74,32 % des instructions fiscales ont été publiés dans les six mois après l'entrée en vigueur des textes en 2014. Cependant, concernant les deux dispositifs cités par la Cour des comptes qui l'ont amenée à formuler cette recommandation, il convient d'apporter des précisions. La taxation des plus-values latentes en cas de transfert du domicile fiscal hors de France (exit-tax) et le contentieux sur la retenue à la source appliquée sur les dividendes versés à des organismes en placement collectif de valeurs mobilières (OPCVM) étrangers sont des dispositifs complexes qui ont demandé des expertises approfondies. Concernant l'exit-tax la variété des situations à traiter, la complexité et les améliorations successives des règles fiscales applicables en matière de taxation des plus-values ainsi que la diversité des motifs d'expatriation, le suivi du dispositif durant le temps de l'expatriation ont nécessité d'importants travaux d'expertise en vue d'assurer la sécurité juridique et l'efficacité du dispositif. De même, concernant les OPCVM étrangers, la notion de comparabilité des OPCVM français et étrangers a objectivement nécessité des travaux poussés. Ce sont l'ensemble de ces motifs qui expliquent les délais de publication de ces textes.
