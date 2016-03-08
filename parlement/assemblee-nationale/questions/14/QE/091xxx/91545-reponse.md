@@ -1,0 +1,9 @@
+# Réponse à la question n° 91545
+
+- Question : [91545](91545.md) — Question n° 91545 — grandes surfaces; concurrence
+
+## Réponse
+
+*JO du 2016-03-08*
+
+Le Gouvernement est particulièrement attentif aux commerces de proximité et aux petits commerces de détail alimentaire. Pour cette raison, les dispositions de la loi no 2015-990 du 6 août 2015 pour la croissance, l'activité et l'égalité des chances économiques répondent à la préoccupation exprimée. De manière générale, cette réforme n'a pas eu pour effet de généraliser le travail dominical mais seulement de permettre certains élargissements, dès lors que des impacts positifs sont décelés et qu'il existe un potentiel économique. Par ailleurs, s'agissant des grandes surfaces alimentaires, l'obligation de fermeture est maintenue à 13 heures, sauf si ces dernières sont situées au sein d'un périmètre de zone touristique internationale ou d'une gare caractérisée par une affluence exceptionnelle de passagers. Les contraintes sont par ailleurs renforcées entre autres par l'article 251 de la loi susvisée, prévoyant que les surfaces de vente supérieures à 400 m2, c'est-à-dire les supermarchés et hypermarchés ouvrant le dimanche matin, doivent mettre en place une compensation salariale minimale, en majorant d'au moins 30 % la rémunération des salariés privés du repos dominical par rapport à la rémunération normalement due pour une durée équivalente. Cette mesure est de nature à préserver l'équilibre entre les commerces indépendants et les surfaces de vente supérieures à 400 m2. Enfin, quand ces établissements ouvrent leurs établissements les jours fériés, à l'exception du 1er mai, trois jours de travail par an doivent être déduits du dispositif des douze dimanches susceptibles de donner lieu à une dérogation accordée par le maire. Le nombre de « dimanches du maire » est ainsi limité à neuf dans les établissements de plus de 400 m2.
