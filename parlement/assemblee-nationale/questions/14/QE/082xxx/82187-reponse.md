@@ -1,0 +1,9 @@
+# Réponse à la question n° 82187
+
+- Question : [82187](82187.md) — Question n° 82187 — numérique; rapport; propositions
+
+## Réponse
+
+*JO du 2016-03-08*
+
+Le document « le numérique, une chance à saisir pour la France » regroupe 4 études, réalisées par une grande entreprise du numérique et les étudiants de 4 grandes écoles, et formule 33 propositions en vue de faire de la France une des nations phare du numérique. Cette ambition est aussi celle de la stratégie numérique du Gouvernement rendue publique par le Premier ministre le 18 juin 2015. Cette stratégie repose sur 4 axes qui s'inscrivent dans les valeurs fondamentales de notre pays : liberté d'innover, égalité des droits, fraternité d'un numérique pour tous, exemplarité de l'Etat. Les mesures qu'elles prévoient recoupent largement les propositions du document cité par l'auteur de la question. Elles sont issues, en particulier, du constat qu'il n'est plus pertinent de faire la différence entre un monde qui serait « numérique » et un monde qui ne le serait pas. La proposition no 1 du rapport « le numérique, une chance à saisir pour la France » concerne la mise en place de labels « France numérique » pour reconnaître les structures (entreprises, associations, établissements publics, écoles, etc.) qui investissent dans le numérique. Ce label serait décerné par l'État selon un cahier des charges strict défini pour chaque type de structure. Cette logique de labellisation sur la base d'un cahier des charges est pertinente dans certains cas. Cette logique prévaut à l'identification sur le territoire national de « Métropoles French Tech » particulièrement propices à la création et au développement des start-ups. 13 métropoles ont d'ores et déjà été labellisées. A l'étranger, des French Tech Hub seront labellisés sur le même principe, à l'instar du hub récemment labellisé à New York.
