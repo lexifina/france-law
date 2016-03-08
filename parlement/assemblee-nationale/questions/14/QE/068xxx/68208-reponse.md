@@ -1,0 +1,9 @@
+# Réponse à la question n° 68208
+
+- Question : [68208](68208.md) — Question n° 68208 — bénéficiaires; perspectives
+
+## Réponse
+
+*JO du 2016-03-08*
+
+Les EHPAD (établissements d'hébergement des personnes âgées dépendantes), communément appelées maisons de retraite, peuvent être constitués sous différentes formes juridiques : personnes morales de droit public ou de droit privé, organismes sans but lucratif (OSBL). Le crédit d'impôt pour la compétitivité et l'emploi (CICE), prévu à l'article 244 quater C du code général des impôts (CGI), a été institué en faveur des entreprises imposées d'après leur bénéfice réel et soumises à l'impôt sur les bénéfices (impôt sur les sociétés et impôt sur le revenu) dès lors qu'elles emploient du personnel salarié. Le crédit d'impôt est égal 6 % de la masse salariale brute supportée au cours de l'année pour les rémunérations inférieures ou égales à 2,5 SMIC. L'ensemble des entreprises employant des salariés peuvent en bénéficier, quel que soit leur secteur d'activité et quel que soit leur mode d'exploitation. A cet égard, la forme juridique revêtue par les « entreprises » importe peu. Les associations qui se livrent à des activités lucratives sont normalement soumises aux impôts commerciaux à raison de ces activités et peuvent donc bénéficier du crédit d'impôt au titre des rémunérations qu'elles versent à leurs salariés affectés à ces activités. Le caractère lucratif d'un organisme est déterminé au moyen d'une démarche en trois étapes conduite, pour chaque activité réalisée par l'organisme, suivant les principes énoncés au Bulletin officiel des finances publiques-impôts sous la référence BOI-IS-CHAMP-10-50-20120912. En outre, le dispositif ne prévoit pas la déduction de l'assiette du crédit d'impôt des subventions publiques reçues par les entreprises. La circonstance selon laquelle ces associations bénéficieraient du CICE doit être sans incidence sur leur financement complémentaire au moyen de subventions.
