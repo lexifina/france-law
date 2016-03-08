@@ -1,0 +1,9 @@
+# Réponse à la question n° 90624
+
+- Question : [90624](90624.md) — Question n° 90624 — tarification; pratiques illégales; réglementation
+
+## Réponse
+
+*JO du 2016-03-08*
+
+S'il est légitime que les personnes physiques et morales puissent engager des démarches en vue de recouvrer les sommes qui leur sont dues, ces démarches doivent respecter des règles précises, qui sont garantes du respect des droits des débiteurs. Une enquête menée par la direction générale de la concurrence, de la consommation et de la répression des fraudes (DGCCRF) en 2014, qui visait tous les professionnels du recouvrement amiable de créances, a effectivement mis en évidence un certain nombre de manquements, qui ont donné lieu à 34 avertissements, 13 injonctions et 2 procès-verbaux pour pratiques commerciales trompeuses. Parallèlement à cette enquête, le gouvernement a introduit dans la loi no 2014-344 du 17 mars 2014 relative à la consommation un dispositif de protection renforcée des consommateurs dans le secteur du recouvrement amiable de créances. Le fait d'imputer au débiteur des frais de recouvrement amiable de créances, en méconnaissance de l'article L. 111-8 du code des procédures civiles d'exécution, est désormais pénalisé : le nouvel article L. 122-16 du code de la consommation prévoit en effet que ce manquement est puni d'un emprisonnement de deux ans et d'une amende de 300 000 €. Le montant de cette amende peut être porté, de manière proportionnée aux avantages tirés du manquement, à 10 % du chiffre d'affaires moyen annuel, calculé sur les trois derniers chiffres d'affaires annuels connus à la date des faits. Il existe donc un cadre juridique adapté, garantissant un haut niveau de protection des consommateurs dans le domaine du recouvrement de créances. Il va de soi que les corps d'enquêtes de l'Etat restent vigilants quant à la bonne mise en œuvre de ces règles, et que tout manquement identifié donnera lieu à des mesures correctives appropriées.
