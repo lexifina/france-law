@@ -1,0 +1,9 @@
+# Réponse à la question n° 91650
+
+- Question : [91650](91650.md) — Question n° 91650 — recouvrement des créances; ressortissants étrangers
+
+## Réponse
+
+*JO du 2016-03-08*
+
+L'accueil de patients étrangers dans nos établissements de santé est lié à la réputation internationale des hôpitaux français et à la qualité des équipes médicales et soignantes. La ministre des affaires sociales, de la santé et des droits des femmes soutient donc les initiatives qui sont prises, par l'AP-HP notamment, pour développer cet accueil et promouvoir la visibilité de notre offre de soins à l'international. La question des factures non recouvrées auprès de patients étrangers ou de leurs organismes de prise en charge est connue et le ministère chargé de la santé travaille activement avec les établissements de santé pour identifier les problématiques rencontrées, améliorer le processus de recouvrement et prévenir le non-paiement. Sécuriser le recouvrement des créances consiste à améliorer le circuit de facturation et de recouvrement hospitaliers, pour tous les patients, en lien avec le ministère des finances et des comptes publics et l'agence nationale d'appui à la performance des établissements de santé et médico-sociaux. Concernant plus spécifiquement l'Algérie, plusieurs sessions de négociations ont eu lieu au cours des deux dernières années entre le ministère de la santé, des hôpitaux publics détenteurs de créances à l'encontre de patients résidant en Algérie et les autorités de ce pays concernant un contentieux financier qui est aujourd'hui résolu grâce à un accord entre l'AP-HP et les autorités algériennes sous l'égide des gouvernements français et algérien. Un nouveau protocole de soins de santé franco-algérien, qui remplacera le protocole actuel de 1980, doit être adopté prochainement. Il permettra de prévenir ces dettes.
