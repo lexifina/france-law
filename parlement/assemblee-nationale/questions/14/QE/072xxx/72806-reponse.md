@@ -1,0 +1,9 @@
+# Réponse à la question n° 72806
+
+- Question : [72806](72806.md) — Question n° 72806 — Nord-Picardie; dysfonctionnements; moyens
+
+## Réponse
+
+*JO du 2016-03-08*
+
+En application du principe d'annualité de l'impôt sur le revenu, les pensions de retraite versées tardivement doivent être portées sur la déclaration des revenus de l'année durant laquelle elles ont été effectivement versées, ce quelle que soit la date à laquelle elles auraient dû théoriquement l'être. Ainsi, une pension qui aurait normalement dû être perçue en 2014 mais a été perçue en 2015 suite à un retard de mise en paiement ne doit pas être portée sur la déclaration des revenus 2014, souscrite en 2015. Elle devra être portée sur la déclaration de revenus 2015, souscrite en 2016. Pour éviter que le cumul en 2015 de pensions versées dans les délais normaux et de pensions au titre des années antérieures versées tardivement n'entraîne une augmentation artificielle de leur taux marginal d'imposition et de leur revenu fiscal de référence, les contribuables concernés pourront demander à bénéficier du système du quotient prévu par le II de l'article 163-0 A du code général des impôts. Pour ce faire il leur suffira de porter les pensions perçues l'année suivant leur année de perception théorique dans le cadre « revenus exceptionnels et différés » de leur déclaration 2042, au lieu de les porter dans le cadre « pensions, retraites, rentes ». Pour les contribuables bénéficiant du préremplissage de la déclaration de revenus, cela impliquera une correction de montants préremplis. Enfin, il est rappelé que les retraités éprouvant, en raison d'une mise en paiement tardive de leur pension, des difficultés pour s'acquitter de leurs impôts peuvent contacter les services de la direction générale des finances publiques et solliciter un délai de paiement.
