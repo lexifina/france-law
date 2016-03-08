@@ -1,0 +1,9 @@
+# Réponse à la question n° 60943
+
+- Question : [60943](60943.md) — Question n° 60943 — collectivités territoriales; exonération
+
+## Réponse
+
+*JO du 2016-03-08*
+
+Il existe d'ores et déjà des régimes de faveur permettant d'exonérer les dons et legs consentis à des personnes morales de droit public. En effet, conformément au I de l'article 794 du code général des impôts (CGI), les régions, les départements, les communes, leurs établissements publics et les établissements publics hospitaliers sont exonérés de droits de mutation à titre gratuit (DMTG) sur les biens qui leur adviennent par donation ou succession, dès lors qu'ils sont affectés à des activités non lucratives. A cet égard, le paragraphe no 420 du BOI-ENR-DMTG-10-20-20-20120912 publié au Bulletin officiel des finances publiques –Impôts (BOFIP) précise que lorsqu'une collectivité publique exerce des activités lucratives et des activités non lucratives, la condition tenant à l'affectation des biens donnés ou légués à une activité non lucrative est remplie si la collectivité organise une sectorisation de ses activités et n'inscrit pas le bien au bilan du secteur lucratif. Par ailleurs, l'article 788 du CGI prévoit, sous certaines conditions, un abattement sur la part nette de tout héritier, donataire ou légataire correspondant aux sommes versées par celui-ci à un organisme mentionné à l'article 794 déjà cité du CGI en remploi des sommes, droits ou valeurs reçus du défunt. Cet abattement s'applique à la double condition que la libéralité soit effectuée, à titre définitif et en pleine propriété dans les six mois du décès, d'une part, et que soient jointes à la déclaration de succession des pièces justificatives répondant à un modèle fixé par un arrêté du ministre chargé du budget attestant du montant et de la date de la libéralité ainsi que de l'identité des bénéficiaires, d'autre part. Ces dispositions répondent ainsi pleinement aux préoccupations exprimées par l'auteur de la question.
