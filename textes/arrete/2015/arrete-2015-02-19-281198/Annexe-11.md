@@ -4,7 +4,7 @@ Listes des actes donnant lieu à rémunération des forfaits SE
 
 Liste 1 : liste des actes donnant lieu à rémunération sur la base d'un SE1
 
-Code
+CODE
 
 |
 
@@ -12,7 +12,7 @@ EXT PMSI
 
 |
 
-Libellé de l'acte CCAM
+LIBELLÉ DE L'ACTE CCAM
 
 |
 
@@ -22,7 +22,7 @@ DZQJ001
 
 |
 
-Échographie-doppler du cœur et des vaisseaux intrathoraciques, par voie œsophagienne [Échocardiographie-doppler transœsophagienne]
+Echographie-doppler du cœur et des vaisseaux intrathoraciques, par voie œsophagienne [Echocardiographie-doppler transœsophagienne]
 
 |
 
@@ -32,7 +32,7 @@ DZQJ008
 
 |
 
-Échographie-doppler transthoracique et échographie-doppler par voie œsophagienne du cœur et des vaisseaux intrathoraciques
+Echographie-doppler transthoracique et échographie-doppler par voie œsophagienne du cœur et des vaisseaux intrathoraciques
 
 |
 
@@ -42,7 +42,7 @@ DZQJ010
 
 |
 
-Échographie-doppler transthoracique et échographie-doppler par voie œsophagienne du cœur et des vaisseaux intrathoraciques, avec injection intraveineuse de produit de contraste ultrasonore ne franchissant pas le poumon
+Echographie-doppler transthoracique et échographie-doppler par voie œsophagienne du cœur et des vaisseaux intrathoraciques, avec injection intraveineuse de produit de contraste ultrasonore ne franchissant pas le poumon
 
 |
 
@@ -52,7 +52,7 @@ DZQJ011
 
 |
 
-Échographie-doppler du cœur et des vaisseaux intrathoraciques par voie œsophagienne, avec injection intraveineuse de produit de contraste ultrasonore ne franchissant pas le poumon
+Echographie-doppler du cœur et des vaisseaux intrathoraciques par voie œsophagienne, avec injection intraveineuse de produit de contraste ultrasonore ne franchissant pas le poumon
 
 |
 
@@ -62,7 +62,7 @@ GBQA002
 
 |
 
-Sinusoscopie maxillaire, par voie méatale inférieure et/ou par abord de la fosse canine [abord vestibulaire]
+Sinusoscopie maxillaire, par voie méatale inférieure et/ ou par abord de la fosse canine [abord vestibulaire]
 
 |
 
@@ -142,7 +142,7 @@ HEGE002
 
 |
 
-Ablation de corps étranger de l'œsophage, de l'estomac et/ou du duodénum, par œso-gastro-duodénoscopie
+Ablation de corps étranger de l'œsophage, de l'estomac et/ ou du duodénum, par œso-gastro-duodénoscopie
 
 |
 
@@ -268,7 +268,7 @@ Biopsie de l'urètre à la pince, par endoscopie
 
 Liste 2 : liste des actes donnant lieu à rémunération sur la base d'un SE2
 
-Code
+CODE
 
 |
 
@@ -276,7 +276,7 @@ EXT PMSI
 
 |
 
-Libellé de l'acte CCAM
+LIBELLÉ DE L'ACTE CCAM
 
 |
 
@@ -346,7 +346,7 @@ BEJB001
 
 |
 
-Évacuation de collection de la chambre antérieure de l'œil, par voie transsclérale ou par voie transcornéenne avec irrigation-aspiration automatisée
+Evacuation de collection de la chambre antérieure de l'œil, par voie transsclérale ou par voie transcornéenne avec irrigation-aspiration automatisée
 
 |
 
@@ -356,7 +356,7 @@ BEJB002
 
 |
 
-Évacuation de collection de la chambre antérieure de l'œil, par voie transsclérale ou par voie transcornéenne sans irrigation-aspiration automatisée
+Evacuation de collection de la chambre antérieure de l'œil, par voie transsclérale ou par voie transcornéenne sans irrigation-aspiration automatisée
 
 |
 
@@ -366,7 +366,7 @@ BEPA001
 
 |
 
-Libération de synéchies et/ou de brides du segment antérieur de l'œil, par kératotomie
+Libération de synéchies et/ ou de brides du segment antérieur de l'œil, par kératotomie
 
 |
 
@@ -376,7 +376,7 @@ BGJB001
 
 |
 
-Évacuation de collection de la choroïde, par voie transsclérale
+Evacuation de collection de la choroïde, par voie transsclérale
 
 |
 
@@ -506,7 +506,7 @@ GBJD002
 
 |
 
-Évacuation de collection du sinus maxillaire, par voie méatale inférieure
+Evacuation de collection du sinus maxillaire, par voie méatale inférieure
 
 |
 
@@ -636,7 +636,7 @@ PDFA001
 
 |
 
-Exérèse de lésion fasciale et/ou sousfasciale des tissus mous, sans dissection d'un gros tronc vasculaire ou nerveux
+Exérèse de lésion fasciale et/ ou sousfasciale des tissus mous, sans dissection d'un gros tronc vasculaire ou nerveux
 
 |
 
@@ -647,46 +647,6 @@ QAGA004
 |
 
 Ablation d'un corps étranger profond des tissus mous du visage ou des mains
-
-|
-
-QZFA001
-
-|
-
-|
-
-Exérèse de 2 à 5 lésions souscutanées susfasciales de moins de 3 cm de grand axe
-
-|
-
-QZFA002
-
-|
-
-|
-
-Exérèse d'une lésion souscutanée susfasciale de moins de 3 cm de grand axe
-
-|
-
-QZFA005
-
-|
-
-|
-
-Exérèse de 6 lésions souscutanées susfasciales ou plus de moins de 3 cm de grand axe
-
-|
-
-QZFA007
-
-|
-
-|
-
-Exérèse de lésion souscutanée susfasciale de 3 cm à 10 cm de grand axe
 
 |
 
@@ -712,7 +672,7 @@ Ablation de plusieurs corps étrangers profonds de la peau et des tissus mous, e
 
 Liste 3 : liste des actes donnant lieu à rémunération sur la base d'un SE3
 
-Code
+CODE
 
 |
 
@@ -720,7 +680,7 @@ EXT PMSI
 
 |
 
-Libellé de l'acte CCAM
+LIBELLÉ DE L'ACTE CCAM
 
 |
 
@@ -790,7 +750,7 @@ GGJB002
 
 |
 
-Évacuation d'un épanchement de la cavité pleurale, par voie transcutanée sans guidage
+Evacuation d'un épanchement de la cavité pleurale, par voie transcutanée sans guidage
 
 |
 
@@ -800,7 +760,7 @@ HPJB001
 
 |
 
-Évacuation d'un épanchement intrapéritonéal, par voie transcutanée
+Evacuation d'un épanchement intrapéritonéal, par voie transcutanée
 
 |
 
@@ -876,7 +836,7 @@ Amniocentèse sur un sac amniotique unique, avec guidage échographique
 
 Liste 4 : liste des actes donnant lieu à rémunération sur la base d'un SE4
 
-Code
+CODE
 
 |
 
@@ -884,7 +844,7 @@ EXT PMSI
 
 |
 
-Libellé de l'acte CCAM
+LIBELLÉ DE L'ACTE CCAM
 
 |
 
@@ -894,6 +854,4 @@ FEJF003
 
 |
 
-Saignée thérapeutique
-
-|
+Saignée thérapeutique |
