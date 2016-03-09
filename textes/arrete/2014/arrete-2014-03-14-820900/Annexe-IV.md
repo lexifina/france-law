@@ -238,77 +238,81 @@ La durée cumulée des situations d'évaluation ne peut être inférieure à la 
 
 Épreuve E3 - Mise en service, réglage et communication - Coefficient 6
 
-Sous-épreuve E 31 - Présentation d'un rapport d'activité - U31 - Coefficient : 2
+Sous-épreuve E 31 : U31
 
-Sous-épreuve orale : sa durée est de 30 minutes
+Présentation d'un rapport d'activité
 
-La prise en compte des travaux réalisés au cours de la formation se fera au travers de la présentation orale par le candidat, d'un rapport d'activités.
+Coefficient 2
 
-Ce rapport d'activités, individuel et personnel, sera composé de documents permettant de définir techniquement les travaux réalisés par le candidat au cours de sa formation.
+Sous-épreuve orale : sa durée est de trente minutes.
 
-Les outils de présentation et de rédaction feront appel aux Tice.
+La prise en compte des travaux réalisés au cours de la formation se fera au travers de la présentation orale, par le candidat, d'un rapport d'activité.
+
+Ce rapport d'activité, individuel et personnel, sera composé de documents permettant de définir techniquement les travaux réalisés par le candidat au cours de sa formation.
+
+Les outils de présentation et de rédaction feront appel aux TICE.
 
 L'évaluation porte sur tout ou partie des compétences suivantes et des savoirs qui leur sont associés :
 
-C1.3 - Consigner des informations
+C1. 3-Consigner des informations.
 
-C5.1 - Émettre et recevoir des informations
+C5. 1-Emettre et recevoir des informations.
 
-C5.2 - Échanger des informations
+C5. 2-Echanger des informations.
 
-Il s'agit sur une phase précise, d'en faire la description et l'analyse, et d'émettre des propositions.
+Il s'agit, sur une phase précise, d'en faire la description et l'analyse et d'émettre des propositions.
 
-Ce rapport d'activités de 25 à 30 pages hors annexes comprend :
+Ce rapport d'activité de 25 à 30 pages hors annexes comprend :
 
-- la présentation succincte de l'entreprise ;
+-la présentation succincte de l'entreprise ;
 
-- la présentation concise de l'ensemble des activités pratiquées et/ou observées ;
+-la présentation concise de l'ensemble des activités pratiquées et/ ou observées ;
 
-- la description de deux activités contextualisées dans chacun des domaines climatiques et sanitaire que le candidat a choisi de développer avec les indications suivantes pour chaque activité :
+-la description de deux activités contextualisées dans chacun des domaines climatiques et sanitaire que le candidat a choisi de développer avec les indications suivantes pour chaque activité :
 
-. le choix des activités présentées est argumenté,
+-le choix des activités présentées est argumenté ;
 
-. la présence des documents est justifiée et leur intérêt pour le dossier est précisé,
+-la présence des documents est justifiée et leur intérêt pour le dossier est précisé ;
 
-. la prise en compte de l'analyse et la prévention des risques professionnels est réelle,
+-la prise en compte de l'analyse et la prévention des risques professionnels est réelle ;
 
-. la prise en compte des enjeux énergétiques et environnementaux liés au développement durable est indiquée,
+-la prise en compte des enjeux énergétiques et environnementaux liés au développement durable est indiquée ;
 
-. la plus-value apportée en termes de compétences techniques lors de la réalisation de l'activité est présentée,
+-la plus-value apportée en termes de compétences techniques lors de la réalisation de l'activité est présentée ;
 
-. le degré d'autonomie est justifié.
+-le degré d'autonomie est justifié.
 
-Un exemplaire de ce rapport sera mis à la disposition du jury, deux semaines avant la date prévue pour sa présentation orale.
+Un exemplaire de ce rapport sera mis à la disposition du jury deux semaines avant la date prévue pour sa présentation orale.
 
 La présentation du rapport sera faite à l'occasion d'un entretien de trente minutes avec le jury.
 
 Modes d'évaluation
 
-Ponctuel : sa durée est de 30 minutes et son coefficient est de 2
+Ponctuel : sa durée est de trente minutes et son coefficient est de 2.
 
-Le jury s'attachera à déterminer les compétences figurant au référentiel de certification que le candidat aura mis en œuvre. Les conditions de réalisation ainsi que la prise en compte de la sécurité collective et individuelle. Le niveau de complexité des travaux réalisés sera pris en compte. L'implication effective du candidat, au niveau d'autonomie attendu d'un brevet professionnel, sera un élément déterminant.
+Le jury s'attachera à déterminer les compétences figurant au référentiel de certification que le candidat aura mis en œuvre, les conditions de réalisation ainsi que la prise en compte de la sécurité collective et individuelle. Le niveau de complexité des travaux réalisés sera pris en compte. L'implication effective du candidat, au niveau d'autonomie attendu d'un brevet professionnel, sera un élément déterminant.
 
 Le jury sera composé d'un professionnel et d'un enseignant.
 
 En fin de formation, le candidat présentera oralement le rapport d'activités individuelles personnel à caractère technique des travaux qu'il a réalisés sur les différents lieux de la formation en entreprise.
 
-La présentation du dossier et l'entretien ne dépassera pas 30 minutes, coefficient 1.
+La présentation du dossier et l'entretien ne dépassera pas trente minutes, coefficient 1.
 
-Tout rapport non remis à la date fixée entraînera l'élimination du candidat. La mention Absent sera mentionnée pour cette sous épreuve.
+En l'absence de rapport d'activité, l'interrogation ne peut avoir lieu. Le jury informe le candidat que la note zéro est attribuée à l'épreuve. Si le dossier est incomplet, le candidat est interrogé et une note lui est attribuée.
 
 Le jury sera composé d'un professionnel et d'un enseignant du domaine professionnel.
 
-Contrôle en cours de formation : sa durée est de 30 minutes et son coefficient est de 2
+Contrôle en cours de formation : sa durée est de trente minutes et son coefficient est de 2.
 
 L'évaluation s'effectue sur la base d'un contrôle en cours de formation à l'occasion d'une situation d'évaluation organisée dans l'établissement.
 
 La situation d'évaluation est prévue en fin de formation.
 
-Le jury s'attachera à déterminer les compétences figurant au référentiel de certification que le candidat aura mis en œuvre. Les conditions de réalisation ainsi que la prise en compte de la sécurité collective et individuelle. Le niveau de complexité des travaux réalisés sera pris en compte. L'implication effective du candidat, au niveau d'autonomie attendu d'un brevet professionnel, sera un élément déterminant.
+Le jury s'attachera à déterminer les compétences figurant au référentiel de certification que le candidat aura mis en œuvre, les conditions de réalisation ainsi que la prise en compte de la sécurité collective et individuelle. Le niveau de complexité des travaux réalisés sera pris en compte. L'implication effective du candidat, au niveau d'autonomie attendu d'un brevet professionnel, sera un élément déterminant.
 
-La présentation du dossier et l'entretien ne dépassera pas 30 minutes,
+La présentation du dossier et l'entretien ne dépassera pas trente minutes.
 
-Tout rapport non remis à la date fixée entraînera l'élimination du candidat. La mention Absent sera mentionnée pour cette sous-épreuve.
+En l'absence de rapport d'activité, l'interrogation ne peut avoir lieu. Le jury informe le candidat que la note zéro est attribuée à l'épreuve. Si le dossier est incomplet, le candidat est interrogé et une note lui est attribuée.
 
 Sous-épreuve E32 - Mise en service, contrôle et optimisation - U 32 - Coefficient : 4
 
