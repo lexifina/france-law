@@ -1,0 +1,9 @@
+# Réponse à la question SEQ151219204
+
+- Question : [SEQ151219204](seq151219204.md) — Difficultés rencontrées lors de la résiliation de contrats avec des fournisseurs d'accès à internet
+
+## Réponse
+
+*Commerce, artisanat, consommation et économie sociale et solidaire, JO du 2016-03-10, page 967*
+
+Les procédures de résiliation des contrats de communications électroniques sont encadrées par plusieurs dispositions du code de la consommation. Lorsque des frais de résiliation sont prévus au contrat, l'opérateur de communications électroniques ne peut facturer au consommateur que les frais correspondant aux coûts que lui-même supporte pour la résiliation (article L. 121-84-7). De plus, en raison de possibles abus, l'utilisation des numéros surtaxés a été interdite par le législateur dans des circonstances particulières. Ainsi, en application de l'article L. 113-5 du code de la consommation, ces numéros ne peuvent pas être utilisés par un professionnel pour le traitement des réclamations et plus généralement en vue de la bonne exécution du contrat. Les services d'enquêtes de la direction générale de la concurrence, de la consommation et de la répression des fraudes (DGCCRF) ont constaté une augmentation globale du nombre de plaintes dans ce domaine. Plusieurs réunions ont été organisées avec les services « juridique » et « relation consommateur » des entreprises concernées afin de faire part à l'opérateur des préoccupations de l'administration et lui demander d'améliorer rapidement la situation. Les problèmes de résiliation des contrats de communications électroniques, et en particulier de facturation indue pour non-restitution du matériel, ont été évoqués et font l'objet d'une attention particulière. Les services de l'État ont prévu de rencontrer de nouveau les responsables de SFR-Numéricable très prochainement et ne manqueront pas de vérifier que toutes les dispositions ont été prises par l'entreprise afin de résoudre les difficultés identifiées.
