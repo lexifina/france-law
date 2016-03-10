@@ -1,0 +1,9 @@
+# Réponse à la question SEQ160119713
+
+- Question : [SEQ160119713](seq160119713.md) — Coopératives d'utilisation de matériel agricole
+
+## Réponse
+
+*Agriculture, agroalimentaire et forêt, JO du 2016-03-10, page 956*
+
+En l'absence de plan local d'urbanisme (PLU), le règlement national d'urbanisme (RNU) est applicable, y compris lorsqu'il existe une carte communale, laquelle correspond à une déclinaison zonale d'application du RNU au sein d'une commune. S'agissant de l'implantation des installations nécessaires à l'activité des coopératives d'utilisation de matériel agricole (CUMA) lorsque le RNU est applicable, il convient de se référer aux dispositions suivantes : en l'absence de carte communale, l'article R. 111-14 du code de l'urbanisme dispose qu'en dehors des parties urbanisées d'une commune, il est possible de refuser un projet de construction s'il compromet l'activité agricole et forestière. La rédaction du RNU apparaît donc protectrice de l'activité agricole ou forestière hors zones urbanisées. Dans ces conditions, un refus de permis de construire pour une installation nécessaire à l'activité agricole ou forestière, y compris par une CUMA, devrait être justifié ; en présence d'une carte communale, l'article R. 161-4 du code de l'urbanisme dispose que les documents graphiques délimitent les secteurs où les constructions sont autorisées et ceux où les constructions ne peuvent pas être autorisées, « à l'exception […] des constructions et installations nécessaires […] à l'exploitation agricole ou forestière ». En d'autres termes, la carte communale ne peut conduire à créer des zones d'interdiction des constructions à destination agricole ou forestière. Aussi, en l'absence de PLU et sans préjudice de l'application d'autres réglementations, le législateur laisse une grande ouverture à l'implantation de constructions nécessaires à l'activité de CUMA actives dans le secteur agricole ou forestier.
