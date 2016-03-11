@@ -38,7 +38,7 @@ Article 4
 
 1. Composition
 
-La fédération régionale des chasseurs est administrée par un conseil d'administration comprenant les présidents des fédérations départementales et interdépartementales de la région administrative et un ou deux administrateurs de chaque fédération départementale et interdépartementale des chasseurs.
+La fédération régionale des chasseurs est administrée par un conseil d'administration comprenant les présidents des fédérations départementales et interdépartementales de la région administrative et un à trois administrateurs de chaque fédération départementale et interdépartementale des chasseurs.
 
 2. Renouvellement
 
@@ -213,3 +213,7 @@ A cet effet, et sans préjudice des obligations prévues au deuxième alinéa de
 Article 12
 
 La fédération régionale des chasseurs peut adopter un règlement intérieur pour préciser les dispositions des présents statuts. Préparé par le conseil d'administration, le règlement intérieur est adopté par l'assemblée générale.
+
+NOTA :
+
+Conformément à l'article 3 de l'arrêté du 29 février 2016, la Fédération régionale des chasseurs met ses statuts en conformité avec les modèles de statuts tels qu'ils ont été modifiés par le présent arrêté avant le 15 juillet 2016.

@@ -44,7 +44,83 @@ Article 4
 
 1. Composition
 
-La Fédération nationale des chasseurs est administrée par un conseil d'administration comprenant vingt-sept membres, élus pour six ans parmi les présidents des fédérations départementales et interdépartementales et renouvelables par moitié tous les trois ans. Ces membres sont répartis à raison d'un membre pour chacune des régions administratives, à l'exception des régions Aquitaine, Centre, Midi-Pyrénées et Rhône-Alpes représentées pour chacune d'elles par deux membres, et de la Martinique, de la Guadeloupe, de La Réunion et de Saint-Pierre-et-Miquelon (ci-après désignés par le terme de départements d'outre-mer) représentés collectivement par un membre.
+La Fédération nationale des chasseurs est administrée par un conseil d'administration comprenant vingt-sept membres, élus pour six ans parmi les présidents des fédérations départementales et interdépartementales.
+
+Le conseil d'administration est renouvelable par moitié tous les trois ans.
+
+Chacun des membres est élu, en même temps qu'un suppléant appelé à le remplacer en cas d'absence ou d'empêchement, parmi les présidents des fédérations départementales et interdépartementales d'un groupe de départements, le nombre de membres à élire étant réparti comme suit :
+
+- région Alsace-Champagne-Ardenne-Lorraine :
+
+- Bas-Rhin, Haut-Rhin : 1 membre ;
+
+- Ardennes, Aube, Marne, Haute-Marne : 1 membre ;
+
+- Meurthe-et-Moselle, Meuse, Moselle, Vosges : 1 membre ;
+
+- région Aquitaine-Limousin-Poitou-Charentes :
+
+- Dordogne, Gironde, Landes, Lot-et-Garonne, Pyrénées-Atlantiques : 2 membres ;
+
+- Corrèze, Creuse, Haute-Vienne : 1 membre ;
+
+- Charente, Charente-Maritime, Deux-Sèvres, Vienne : 1 membre ;
+
+- région Auvergne-Rhône-Alpes :
+
+- Allier, Cantal, Haute-Loire, Puy-de-Dôme : 1 membre ;
+
+- Ain, Ardèche, Drôme, Isère, Loire, Rhône, Savoie, Haute-Savoie : 2 membres ;
+
+- région Bourgogne-Franche-Comté :
+
+- Côte-d'Or, Nièvre, Saône-et-Loire, Yonne : 1 membre ;
+
+- Doubs, Jura, Haute-Saône, Territoire de Belfort : 1 membre ;
+
+- région Bretagne :
+
+- Finistère, Ille-et-Vilaine, Morbihan, Côtes-d'Armor : 1 membre ;
+
+- région Centre-Val de Loire :
+
+- Cher, Eure-et-Loir, Indre, Indre-et-Loire, Loir-et-Cher, Loiret : 2 membres ;
+
+- région Corse :
+
+- Corse-du-Sud, Haute-Corse : 1 membre ;
+
+- région Ile-de-France :
+
+- Paris, Seine-et-Marne, Yvelines, Essonne, Hauts-de-Seine, Seine-Saint-Denis, Val-de-Marne, Val-d'Oise : 1 membre ;
+
+- région Languedoc-Roussillon-Midi-Pyrénées :
+
+- Aude, Gard, Hérault, Lozère, Pyrénées-Orientales : 1 membre ;
+
+- Ariège, Aveyron, Haute-Garonne, Gers, Lot, Hautes-Pyrénées, Tarn, Tarn-et-Garonne : 2 membres ;
+
+- région Nord-Pas-de-Calais-Picardie :
+
+- Nord, Pas-de-Calais : 1 membre ;
+
+- Aisne, Oise, Somme : 1 membre ;
+
+- région Normandie :
+
+- Calvados, Manche, Orne : 1 membre ;
+
+- Eure, Seine-Maritime : 1 membre ;
+
+- région Pays de la Loire :
+
+- Loire-Atlantique, Maine-et-Loire, Mayenne, Sarthe, Vendée : 1 membre ;
+
+- région Provence-Alpes-Côte d'Azur :
+
+- Alpes-de-Haute-Provence, Hautes-Alpes, Alpes-Maritimes, Bouches-du-Rhône, Var, Vaucluse : 1 membre ;
+
+- Guadeloupe, Martinique, La Réunion, Saint-Pierre-et-Miquelon : 1 membre.
 
 2. Renouvellement
 
@@ -106,7 +182,7 @@ Le conseil d'administration se réunit au siège de la fédération ou dans tout
 
 La présence effective de la moitié au moins des membres du conseil d'administration est nécessaire pour la validité des délibérations.
 
-Les délibérations sont prises à la majorité des membres présents ou représentés, un membre du conseil ne pouvant disposer que d'un pouvoir en plus de sa voix. En cas de partage égal des voix, celle du président est prépondérante.
+Les délibérations sont prises à la majorité des membres présents ou représentés. En cas d'absence simultanée d'un administrateur titulaire et de son suppléant, un pouvoir peut être donné à un autre membre du conseil, un membre ne pouvant disposer que d'un pouvoir en plus de sa voix. En cas de partage égal des voix, celle du président est prépondérante.
 
 Le conseil d'administration définit les principales orientations de la fédération. Il arrête les comptes de l'exercice écoulé avant le 1er novembre et établit le projet de budget de l'exercice suivant. Il délibère sur toutes les questions et prend toutes décisions, hormis celles relevant expressément de la compétence de l'assemblée générale, telles qu'elles sont prévues à l'article 10. Il décide de la création des postes et emplois salariés à pourvoir ainsi que de leur suppression éventuelle.
 
@@ -267,3 +343,7 @@ Pour l'application du premier alinéa de l'article L. 421-16, le président de l
 Article 12
 
 La Fédération nationale des chasseurs peut adopter un règlement intérieur pour préciser les dispositions des présents statuts. Préparé par le conseil d'administration, le règlement intérieur est adopté par l'assemblée générale.
+
+NOTA :
+
+Conformément à l'article 3 de l'arrêté du 29 février 2016, la Fédération nationale des chasseurs met ses statuts en conformité avec les modèles de statuts tels qu'ils ont été modifiés par le présent arrêté avant le 15 juillet 2016.
