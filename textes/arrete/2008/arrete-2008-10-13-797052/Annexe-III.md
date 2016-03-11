@@ -4,13 +4,13 @@ EXIGENCES SPÉCIFIQUES POUR L'ACCRÉDITATION DES ORGANISMES DE CERTIFICATION
 
 Le présent document a pour objet de spécifier les exigences applicables aux organismes certifiant des organismes évaluateurs afin que ces derniers délivrent des attestations d'aptitude prévues à l'article R. 543-106 du code de l'environnement, ainsi que les modalités spécifiques pour leur accréditation.
 
-Ces exigences spécifiques sont rapportées sous le chapitre de la norme EN 45011 qu'elles spécifient et dont l'intitulé est alors repris, ainsi que la référence au paragraphe de la norme ISO/CEI guide 65, entre parenthèses. De ce fait, quand il n'y a pas d'exigence supplémentaire, le chapitre de la norme n'est pas repris.
+Ces exigences spécifiques sont rapportées sous le chapitre de la norme EN 17065 : 2012 qu'elles spécifient et dont l'intitulé est alors repris, ainsi que la référence au paragraphe de la norme ISO/CEI guide 65, entre parenthèses. De ce fait, quand il n'y a pas d'exigence supplémentaire, le chapitre de la norme n'est pas repris.
 
 1. Exigences à satisfaire par l'organisme certificateur
 
-1.1. Personnel de l'organisme de certification.-
+1.1. Personnel de l'organisme de certification. -
 
-Critères de compétence des auditeurs (EN 45011 § 5.2.1 et § 9.3)
+Critères de compétence des auditeurs
 
 L'organisme de certification doit pouvoir garantir que chaque auditeur possède :
 
@@ -20,7 +20,7 @@ L'organisme de certification doit pouvoir garantir que chaque auditeur possède 
 
 - la connaissance des dispositions règlementaires relatives à la délivrance des attestations d'aptitude, et notamment de celles établissant les procédures d'audits.
 
-La justification des connaissances techniques des auditeurs dans le domaine des équipements de réfrigération et de climatisation et des pompes à chaleur est apportée par la présentation de l'un des documents listés ci-dessous (cf. art.R. 543-106 du code de l'environnement) :
+La justification des connaissances techniques des auditeurs dans le domaine des équipements de réfrigération et de climatisation et des pompes à chaleur est apportée par la présentation de l'un des documents listés ci-dessous (cf. art. R. 543-106 du code de l'environnement) :
 
 - attestation d'aptitude correspondant aux activités évaluées et aux types d'équipements concernés ;
 
@@ -30,7 +30,7 @@ La justification des connaissances techniques des auditeurs dans le domaine des 
 
 La compétence requise est à considérer au niveau des équipes d'audit et non nécessairement de chaque auditeur pris individuellement.
 
-1.2. Champ couvert par la demande (EN 45011 § 8.2.1)
+1.2. Champ couvert par la demande
 
 La certification est délivrée pour l'une ou l'autre des deux familles d'équipements ci-dessous :
 
@@ -40,13 +40,13 @@ Famille n° 2 : les systèmes de climatisation de véhicules, engins et matérie
 
 L'organisme certificateur s'assure que la demande de certification mentionne bien la famille d'équipements couverte.
 
-1.3. Documents de certification (EN 45011 § 12.3)
+1.3. Documents de certification
 
 Le libellé du certificat doit être explicite et préciser le champ d'application de la certification, c'est-à-dire : Certification pour la délivrance de l'attestation d'aptitude prévue par les articles R. 543-75 à R. 543-123 du code de l'environnement, ainsi que la famille d'équipements couverte.
 
 Le certificat doit comporter une référence à l'accréditation conformément aux règles en vigueur de l'organisme d'accréditation.
 
-1.4. Exigences relatives pour les audits (EN 45011 § 10)
+1.4. Exigences relatives pour les audits
 
 Les modalités de réalisation des audits (durées et contenus) sont définies à l'annexe II de l'arrêté relatif à la délivrance des attestations d'aptitude prévues à l'article R. 543-106 du code de l'environnement.
 

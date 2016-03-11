@@ -18,15 +18,13 @@ L'évaluation porte sur les groupes de compétences et de connaissances 1, 2, 3,
 
 Le candidat ne sait pas, avant l'évaluation, sur lequel de ces quatre groupes il sera évalué.
 
-COMPÉTENCES À ÉVALUER
+Dans le tableau suivant, la lettre "T" désigne une épreuve théorique constituée d'une ou de plusieurs questions destinées à évaluer les compétences ou connaissances, et la lettre "P" désigne une épreuve pratique durant laquelle le candidat devra exécuter la tâche indiquée à l'aide du matériel, de l'outillage et de l'équipement nécessaires.
+
+COMPÉTENCES ET CONNAISSANCES
 
 |
 
 CATÉGORIES
-
-|
-
-|
 
 |
 
@@ -46,7 +44,11 @@ IV
 
 |
 
-1. Thermodynamique élémentaire
+1
+
+|
+
+Thermodynamique élémentaire
 
 |
 
@@ -54,7 +56,7 @@ IV
 
 |
 
-Connaître les unités normalisées ISO pour la température, la pression, la masse, la masse volumique et l'énergie.
+Connaître les unités normalisées ISO pour la température, la pression, la masse, la densité et l'énergie
 
 |
 
@@ -78,7 +80,7 @@ T
 
 |
 
-Connaître les caractéristiques de base des systèmes thermodynamiques : terminologie, paramètres et processus essentiels tels que surchauffe, côté haute pression, chaleur de compression, enthalpie, effet de réfrigération, côté basse pression, sous-refroidissement, propriétés et transformations thermodynamiques des fluides frigorigènes, y compris l'identification des mélanges zéotropiques et des états des fluides.
+Comprendre la théorie élémentaire des systèmes de réfrigération : thermodynamique élémentaire (terminologie, paramètres et processus essentiels tels que "surchauffe", "côté haute pression", "chaleur de compression", "enthalpie", "effet de réfrigération", "côté basse pression", "sous-refroidissement"), propriétés et transformations thermodynamiques des fluides frigorigènes, y compris l'identification des mélanges zéotropiques et des états des fluides
 
 |
 
@@ -102,7 +104,7 @@ T
 
 |
 
-Savoir exploiter les tableaux et graphiques : diagramme log p/h, tables de saturation d'un fluide frigorigène, diagramme d'un cycle frigorifique simple à compression et les interpréter dans le cadre d'un contrôle d'étanchéité indirect, y compris le contrôle du bon fonctionnement du système.
+Utiliser les tableaux et graphiques correspondants et les interpréter dans le cadre d'un contrôle d'étanchéité indirect (y compris le contrôle du bon fonctionnement du système) : diagramme log p/ h, tables de saturation d'un fluide frigorigène, diagramme d'un cycle frigorifique simple à compression
 
 |
 
@@ -126,9 +128,11 @@ T
 
 |
 
-Décrire la fonction des principaux composants du système (compresseur, évaporateur, condenseur, détendeurs thermostatiques) et les transformations thermodynamiques du fluide frigorigène au cours du cycle.
+Décrire la fonction des principales composantes du système (compresseur, évaporateur, condenseur, détendeurs thermostatiques) et les transformations thermodynamiques du fluide frigorigène
 
 |
+
+T
 
 |
 
@@ -148,29 +152,7 @@ T
 
 |
 
-Connaître le fonctionnement élémentaire des composants suivants ainsi que leur rôle et leur importance dans la prévention et la détection des fuites de fluide frigorigène :
-
-a) Valves (robinets à boule, diaphragmes, robinets à soupape) ;
-
-b) Contrôleurs de température et de pression ;
-
-c) Voyants et indicateurs d'humidité ;
-
-d) Contrôles du dégivrage ;
-
-e) Protecteurs du système ;
-
-f) Instruments de mesure tels que les thermomètres ;
-
-g) Systèmes de contrôle de l'huile ;
-
-h) Réservoirs ;
-
-i) Séparateurs de liquides et d'huile.
-
-|
-
-T*
+Connaître le fonctionnement élémentaire des composantes suivantes utilisées dans un système de réfrigération ainsi que leur rôle et leur importance dans la prévention et la détection des fuites de fluide frigorigène : a) valves (robinets à boule, diaphragmes, robinets à soupape) ; b) contrôles de la température et de la pression ; c) repères transparents et indicateurs d'humidité ; d) contrôles du dégivrage ; e) protecteurs du système ; f) instruments de mesure tels que les thermomètres ; g) systèmes de contrôle de l'huile ; h) réservoirs ; i) séparateurs de liquides et d'huile
 
 |
 
@@ -186,7 +168,35 @@ T*
 
 |
 
-2. Incidence sur l'environnement des fluides frigorigènes et réglementations correspondantes en matière d'environnement
+1.06
+
+|
+
+Connaître le comportement spécifique, les paramètres physiques, les systèmes, les solutions, les déviances des fluides frigorigènes de substitution dans le cycle de réfrigération et les composants pour leur utilisation
+
+|
+
+T
+
+|
+
+T
+
+|
+
+T
+
+|
+
+T
+
+|
+
+2
+
+|
+
+Incidence sur l'environnement des fluides frigorigènes et réglementations correspondantes en matière d'environnement
 
 |
 
@@ -194,7 +204,7 @@ T*
 
 |
 
-Avoir une connaissance élémentaire du phénomène d'effet de serre, du concept de potentiel de réchauffement planétaire de l'impact des fluides frigorigènes à base de chlorofluorocarbures (CFC) et hydrochlorofluorocarbures (HCFC) sur la couche d'ozone stratosphérique et de celui des fluides frigorigènes à base de (CFC), (HCFC) et hydrofluorocarbures (HFC) sur le climat.
+Posséder des connaissances de base sur la politique européenne et internationale en matière de changement climatique, y compris la convention-cadre des Nations unies sur les changements climatiques
 
 |
 
@@ -218,7 +228,7 @@ T
 
 |
 
-Avoir une connaissance élémentaire des dispositions du règlement (CE) n° 2037/2000 relatives à l'utilisation de CFC et HCFC comme fluide frigorigène, des dispositions du règlement (CE) n° 842/2006 relatives à l'utilisation de HFC comme fluide frigorigène, ainsi que des articles R. 543-75 à R. 543-123 du code de l'environnement.
+Avoir une connaissance élémentaire du concept de "potentiel de réchauffement planétaire" (PRP), de l'utilisation des gaz à effet de serre fluorés et d'autres substances en tant que fluides frigorigènes, de l'incidence des émissions de gaz à effet de serre fluorés sur le climat (ordre de grandeur de leur PRP) ainsi que des dispositions correspondantes du règlement (UE) n° 517/2014 et des articles R. 543-75 à R. 543-123 du code de l'environnement
 
 |
 
@@ -238,7 +248,11 @@ T
 
 |
 
-3. Contrôles à effectuer préalablement à la mise en service, après une longue période d'interruption, un entretien ou une réparation ou durant le fonctionnement
+3
+
+|
+
+Contrôles à effectuer préalablement à la mise en service ou après une longue période d'interruption, un entretien ou une réparation, ou encore durant le fonctionnement
 
 |
 
@@ -246,15 +260,23 @@ T
 
 |
 
-Effectuer une épreuve de pression pour contrôler la résistance du système.
+Effectuer une épreuve de pression pour contrôler la résistance du système
 
 |
 
-|
+P
 
 |
 
+P
+
 |
+
+-
+
+|
+
+-
 
 |
 
@@ -262,23 +284,7 @@ Effectuer une épreuve de pression pour contrôler la résistance du système.
 
 |
 
-Effectuer une épreuve de pression pour contrôler l'étanchéité du système.
-
-|
-
-P*
-
-|
-
-P*
-
-|
-
--
-
-|
-
--
+Effectuer une épreuve de pression pour contrôler l'étanchéité du système
 
 |
 
@@ -286,15 +292,7 @@ P*
 
 |
 
-Utiliser une pompe à vide.
-
-|
-
-|
-
-|
-
-|
+Utiliser une pompe à vide
 
 |
 
@@ -302,15 +300,7 @@ Utiliser une pompe à vide.
 
 |
 
-Faire le vide dans le système pour évacuer l'air et l'humidité.
-
-|
-
-|
-
-|
-
-|
+Faire le vide dans le système pour évacuer l'air et l'humidité selon la pratique habituelle
 
 |
 
@@ -318,7 +308,7 @@ Faire le vide dans le système pour évacuer l'air et l'humidité.
 
 |
 
-Consigner les données dans le registre de suivi de l'équipement et rédiger un rapport portant sur un ou plusieurs des essais et des contrôles effectués durant l'évaluation.
+Consigner les données dans le registre de l'équipement et rédiger un rapport portant sur un ou plusieurs des essais et des contrôles effectués durant l'examen
 
 |
 
@@ -338,7 +328,11 @@ T
 
 |
 
-4. Contrôles d'étanchéité
+4
+
+|
+
+Contrôles d'étanchéité
 
 |
 
@@ -346,7 +340,7 @@ T
 
 |
 
-Connaître les points de fuite potentiels des équipements de réfrigération, de climatisation et de pompes à chaleur.
+Connaître les points de fuite potentiels des équipements de réfrigération, de climatisation et de pompes à chaleur
 
 |
 
@@ -370,15 +364,15 @@ T
 
 |
 
-Consulter le registre de l'équipement avant tout contrôle d'étanchéité et relever les informations pertinentes concernant des problèmes récurrents ou des parties problématiques du système nécessitant une attention particulière.
+Consulter le registre de l'équipement avant tout contrôle d'étanchéité et relever les informations pertinentes concernant des problèmes récurrents ou des parties problématiques du système nécessitant une attention particulière
 
 |
 
-P
+T
 
 |
 
-P
+T
 
 |
 
@@ -386,7 +380,7 @@ P
 
 |
 
-P
+T
 
 |
 
@@ -394,7 +388,7 @@ P
 
 |
 
-Effectuer un contrôle visuel et manuel de tout le système au sens du règlement (CE) n° 1516/2007 de la Commission du 19 décembre 2007.
+Effectuer un contrôle visuel et manuel de tout le système au sens de l'arrêté du règlement (CE) n° 1516/2007
 
 |
 
@@ -418,7 +412,7 @@ P
 
 |
 
-Effectuer un contrôle de l'étanchéité du système au moyen d'une méthode indirecte conformément au règlement (CE) n° 1516/2007 et du manuel d'utilisation du système.
+Effectuer un contrôle de l'étanchéité du système au moyen d'une méthode indirecte conformément à l'arrêté du 29 février 2016 relatif à certains fluides frigorigènes et aux gaz à effet de serre fluorés et au manuel d'utilisation du système
 
 |
 
@@ -442,7 +436,7 @@ P
 
 |
 
-Utiliser des instruments de mesure portables tels que des manomètres, des thermomètres et des multimètres pour mesurer les volts, ampères et ohms en appliquant des méthodes indirectes de contrôle de l'étanchéité, et interpréter les paramètres mesurés.
+Utiliser des instruments de mesure portables tels que des manomètres, des thermomètres et des multimètres pour mesurer les volts, ampères et ohms en appliquant des méthodes indirectes de contrôle de l'étanchéité, et interpréter les paramètres mesurés
 
 |
 
@@ -466,7 +460,7 @@ P
 
 |
 
-Contrôler l'étanchéité du système au moyen d'une des méthodes directes visées au règlement (CE) n° 1516/2007.
+Contrôler l'étanchéité du système au moyen d'une des méthodes directes visées à l'arrêté du 29 février 2016 relatif à certains fluides frigorigènes et aux gaz à effet de serre fluorés
 
 |
 
@@ -490,11 +484,11 @@ P
 
 |
 
-Contrôler l'étanchéité du système au moyen d'une des méthodes directes ne nécessitant pas d'intervenir dans le circuit de réfrigération et visées au règlement (CE) n° 1516/2007.
+Contrôler l'étanchéité du système au moyen d'une des méthodes directes ne nécessitant pas d'intervenir dans le circuit de réfrigération et visées à l'arrêté du 29 février 2016 relatif à certains fluides frigorigènes et aux gaz à effet de serre fluorés
 
 |
 
-P
+-
 
 |
 
@@ -514,7 +508,7 @@ P
 
 |
 
-Utiliser un dispositif électronique de détection des fuites.
+Utiliser un dispositif électronique de détection des fuites
 
 |
 
@@ -538,7 +532,7 @@ P
 
 |
 
-Consigner les données dans le registre de l'équipement.
+Consigner les données dans le registre de l'équipement
 
 |
 
@@ -558,7 +552,11 @@ T
 
 |
 
-5. Gestion écologique du système et du fluide frigorigène lors de l'installation, de l'entretien, de la réparation ou de la récupération
+5
+
+|
+
+Gestion écologique du système et du fluide frigorigène lors de l'installation, de l'entretien, de la réparation ou de la récupération
 
 |
 
@@ -566,7 +564,7 @@ T
 
 |
 
-Connecter et déconnecter les manomètres et lignes en produisant le minimum d'émissions.
+Connecter et déconnecter les jauges et lignes en produisant le minimum d'émissions
 
 |
 
@@ -590,7 +588,7 @@ P
 
 |
 
-Vider et remplir un cylindre de fluide frigorigène à l'état liquide et à l'état gazeux.
+Vider et remplir un cylindre de fluide frigorigène à l'état liquide et à l'état gazeux
 
 |
 
@@ -614,7 +612,7 @@ P
 
 |
 
-Utiliser un dispositif de récupération des fluides frigorigènes et connecter et déconnecter ce dispositif en produisant le minimum d'émissions.
+Utiliser un dispositif de récupération des fluides frigorigènes et connecter et déconnecter ce dispositif en produisant le minimum d'émissions
 
 |
 
@@ -638,7 +636,7 @@ P
 
 |
 
-Vider l'huile usagée d'un système.
+Vider l'huile contaminée par les gaz à effet de serre fluorés d'un système
 
 |
 
@@ -662,7 +660,7 @@ P
 
 |
 
-Déterminer l'état (liquide, gazeux) et les conditions (sous-refroidi, saturé ou surchauffé) d'un fluide frigorigène avant tout remplissage afin de choisir la méthode et le volume de remplissage les plus adaptés. Remplir le système de fluide frigorigène (à l'état liquide et gazeux) sans provoquer de pertes.
+Déterminer l'état (liquide, gazeux) et les conditions (sous-refroidi, saturé ou surchauffé) d'un fluide frigorigène avant tout remplissage afin de choisir la méthode et le volume de remplissage les plus adaptés. Remplir le système de fluide frigorigène (à l'état liquide et gazeux) sans provoquer de pertes
 
 |
 
@@ -686,7 +684,7 @@ P
 
 |
 
-Utiliser une balance pour peser le fluide frigorigène chargé ou retiré de l'équipement.
+Choisir le bon type de balance et l'utiliser pour peser le fluide frigorigène
 
 |
 
@@ -710,7 +708,7 @@ P
 
 |
 
-Consigner dans le registre de l'équipement toutes les informations pertinentes concernant le fluide frigorigène récupéré ou ajouté.
+Consigner dans le registre de l'équipement toutes les informations pertinentes concernant le fluide frigorigène récupéré ou ajouté
 
 |
 
@@ -734,7 +732,7 @@ T
 
 |
 
-Connaître les prescriptions et les procédures de gestion, de stockage et de transport des fluides frigorigènes et huiles contaminés.
+Connaître les prescriptions et les procédures de gestion, de réutilisation, de récupération, de stockage et de transport des fluides frigorigènes et huiles contaminés
 
 |
 
@@ -754,7 +752,11 @@ T
 
 |
 
-6. Composant : installation, mise en service et entretien de compresseurs à piston alternatif, à vis et à spirales, à un ou deux étages
+6
+
+|
+
+Composant : installation, mise en service et entretien de compresseurs à piston alternatif, à vis et à spirales, à un ou deux étages
 
 |
 
@@ -762,7 +764,7 @@ T
 
 |
 
-Expliquer le principe de fonctionnement d'un compresseur (y compris le réglage de la puissance et le circuit de lubrification) et les risques de fuite ou d'émission de fluide frigorigène qui y sont liés.
+Expliquer le principe de fonctionnement d'un compresseur (y compris le réglage de la puissance et le circuit de lubrification) et les risques de fuite ou d'émission de fluide frigorigène qui y sont liés
 
 |
 
@@ -786,7 +788,7 @@ T
 
 |
 
-Installer correctement un compresseur, y compris le matériel de contrôle et de sécurité, de telle sorte qu'aucune fuite ni aucune émission ne se produisent une fois le système en fonctionnement.
+Installer correctement un compresseur, y compris le matériel de contrôle et de sécurité, de telle sorte qu'aucune fuite ni aucune émission ne se produisent une fois le système en fonctionnement
 
 |
 
@@ -794,7 +796,7 @@ P
 
 |
 
--
+P
 
 |
 
@@ -810,63 +812,7 @@ P
 
 |
 
-Régler les interrupteurs de sécurité et de contrôle.
-
-|
-
-|
-
-|
-
-|
-
-|
-
-6.04
-
-|
-
-Régler les soupapes d'aspiration.
-
-|
-
-P*
-
-|
-
--
-
-|
-
--
-
-|
-
--
-
-|
-
-6.05
-
-|
-
-Vérifier le circuit de retour de l'huile.
-
-|
-
-|
-
-|
-
-|
-
-|
-
-6.06
-
-|
-
-Mettre en marche et arrêter un compresseur et en vérifier le bon fonctionnement, y compris en effectuant des mesures durant son fonctionnement.
+Régler les interrupteurs de sécurité et de contrôle
 
 |
 
@@ -886,11 +832,55 @@ P
 
 |
 
+6.04
+
+|
+
+Régler les soupapes d'aspiration
+
+|
+
+6.05
+
+|
+
+Vérifier le circuit de retour de l'huile
+
+|
+
+6.06
+
+|
+
+Mettre en marche et arrêter un compresseur et en vérifier le bon fonctionnement, y compris en effectuant des mesures durant son fonctionnement
+
+|
+
+P
+
+|
+
+P
+
+|
+
+-
+
+|
+
+-
+
+|
+
 6.07
 
 |
 
-Rédiger un rapport sur l'état du compresseur en indiquant tout problème de fonctionnement susceptible d'endommager le système et d'entraîner à terme, faute de mesure, des fuites ou des émissions de fluide frigorigène.
+Rédiger un rapport sur l'état du compresseur en indiquant tout problème de fonctionnement susceptible d'endommager le système et d'entraîner à terme, faute de mesure, des fuites ou des émissions de fluide frigorigène
+
+|
+
+T
 
 |
 
@@ -906,11 +896,11 @@ T
 
 |
 
--
+7
 
 |
 
-7. Composant : installation, mise en service et entretien de condenseurs à air froid et à eau froide
+Composant : installation, mise en service et entretien de condenseurs à air froid et à eau froide
 
 |
 
@@ -918,7 +908,7 @@ T
 
 |
 
-Expliquer le principe de fonctionnement d'un condenseur et les risques de fuite qui y sont associés.
+Expliquer le principe de fonctionnement d'un condenseur et les risques de fuite qui y sont associés
 
 |
 
@@ -942,7 +932,7 @@ T
 
 |
 
-Mettre au point le régulateur de pression de sortie du condenseur.
+Mettre au point le régulateur de pression de sortie du condenseur
 
 |
 
@@ -966,7 +956,31 @@ P
 
 |
 
-Installer correctement un condenseur, y compris les organes de sécurité et de suivi associés, de telle sorte qu'aucune émission ne se produise.
+Installer correctement un condenseur/ une unité extérieure y compris le matériel de réglage et de sécurité, de telle sorte qu'aucune fuite ni aucune émission ne se produise une fois que le système fonctionnera
+
+|
+
+P
+
+|
+
+P
+
+|
+
+-
+
+|
+
+-
+
+|
+
+7.04
+
+|
+
+Régler les interrupteurs de sécurité et de contrôle
 
 |
 
@@ -986,43 +1000,11 @@ P
 
 |
 
-7.04
-
-|
-
-Régler les interrupteurs de sécurité et de contrôle.
-
-|
-
-P*
-
-|
-
--
-
-|
-
--
-
-|
-
--
-
-|
-
 7.05
 
 |
 
-Inspecter les conduites de refoulement et de liquide.
-
-|
-
-|
-
-|
-
-|
+Inspecter les conduites de refoulement et de liquide
 
 |
 
@@ -1030,7 +1012,7 @@ Inspecter les conduites de refoulement et de liquide.
 
 |
 
-Purger le condenseur pour en extraire les gaz non condensables à l'aide d'un appareil de purge pour système de réfrigération.
+Purger le condenseur pour en extraire les gaz non condensables à l'aide d'un appareil de purge pour système de réfrigération
 
 |
 
@@ -1054,7 +1036,7 @@ P
 
 |
 
-Mettre en marche et arrêter un condenseur et en vérifier le bon fonctionnement, y compris en effectuant des mesures durant son fonctionnement.
+Mettre en marche et arrêter un condenseur et en vérifier le bon fonctionnement, y compris en effectuant des mesures durant son fonctionnement
 
 |
 
@@ -1062,7 +1044,7 @@ P
 
 |
 
--
+P
 
 |
 
@@ -1078,7 +1060,11 @@ P
 
 |
 
-Inspecter la surface du condenseur.
+Inspecter la surface du condenseur
+
+|
+
+P
 
 |
 
@@ -1094,15 +1080,15 @@ P
 
 |
 
--
-
-|
-
 7.09
 
 |
 
-Rédiger un rapport sur l'état du condenseur en indiquant tout problème de fonctionnement susceptible d'endommager le système et d'entraîner à terme, faute de mesure, des fuites ou des émissions de fluide frigorigène.
+Rédiger un rapport sur l'état du condenseur en indiquant tout problème de fonctionnement susceptible d'endommager le système et d'entraîner à terme, faute de mesure, des fuites ou des émissions de fluide frigorigène
+
+|
+
+T
 
 |
 
@@ -1118,11 +1104,11 @@ T
 
 |
 
--
+8
 
 |
 
-8. Composant : installation, mise en service et entretien d'évaporateurs à air froid et à eau froide
+Composant : installation, mise en service et entretien d'évaporateurs à air froid et à eau froide
 
 |
 
@@ -1130,7 +1116,7 @@ T
 
 |
 
-Expliquer le principe de fonctionnement d'un évaporateur (y compris le système de dégivrage) et les risques de fuite qui y sont associés.
+Expliquer le principe de fonctionnement d'un évaporateur (y compris le système de dégivrage) et les risques de fuite qui y sont associés
 
 |
 
@@ -1154,7 +1140,7 @@ T
 
 |
 
-Mettre au point un régulateur de pression d'évaporation de l'évaporateur.
+Mettre au point un régulateur de pression d'évaporation de l'évaporateur
 
 |
 
@@ -1178,7 +1164,7 @@ P
 
 |
 
-Installer correctement un évaporateur, y compris le matériel de contrôle de température, de telle sorte qu'aucune émission ne se produise.
+Installer correctement un évaporateur, y compris le matériel de contrôle et de sécurité, de telle sorte qu'aucune fuite ni aucune émission ne se produise une fois le système en fonctionnement
 
 |
 
@@ -1186,7 +1172,7 @@ P
 
 |
 
--
+P
 
 |
 
@@ -1202,79 +1188,7 @@ P
 
 |
 
-Régler les interrupteurs de sécurité et de contrôle.
-
-|
-
-|
-
-|
-
-|
-
-|
-
-8.05
-
-|
-
-Vérifier le raccordement des conduites de liquide et d'aspiration.
-
-|
-
-P*
-
-|
-
--
-
-|
-
--
-
-|
-
--
-
-|
-
-8.06
-
-|
-
-Inspecter le conduit de dégivrage à l'air chaud.
-
-|
-
-|
-
-|
-
-|
-
-|
-
-8.07
-
-|
-
-Régler l'organe de régulation de l'évaporateur à la valeur prescrite pour le régime de fonctionnement.
-
-|
-
-|
-
-|
-
-|
-
-|
-
-8.08
-
-|
-
-Vérifier le bon fonctionnement de l'évaporateur en réalisant un arrêt et une mise en marche de l'installation. Vérifier les températures de consigne.
+Régler les interrupteurs de sécurité et de contrôle
 
 |
 
@@ -1283,6 +1197,54 @@ P
 |
 
 -
+
+|
+
+-
+
+|
+
+-
+
+|
+
+8.05
+
+|
+
+Vérifier que les conduites de liquide et d'aspiration sont dans la bonne position
+
+|
+
+8.06
+
+|
+
+Inspecter le conduit de dégivrage à l'air chaud
+
+|
+
+8.07
+
+|
+
+Régler la soupape de régulation de la pression d'évaporation
+
+|
+
+8.08
+
+|
+
+Mettre en marche et arrêter un évaporateur et en vérifier le bon fonctionnement, y compris en effectuant des mesures durant son fonctionnement
+
+|
+
+P
+
+|
+
+P
 
 |
 
@@ -1298,7 +1260,11 @@ P
 
 |
 
-Inspecter la surface de l'évaporateur.
+Inspecter la surface de l'évaporateur
+
+|
+
+P
 
 |
 
@@ -1314,15 +1280,15 @@ P
 
 |
 
--
-
-|
-
 8.10
 
 |
 
-Rédiger un rapport sur l'état de l'évaporateur, en indiquant tout problème de fonctionnement susceptible d'endommager le système et d'entraîner à terme, faute de mesure, des fuites ou des émissions de fluide frigorigène.
+Rédiger un rapport sur l'état de l'évaporateur en indiquant tout problème de fonctionnement susceptible d'endommager le système et d'entraîner à terme, faute de mesure, des fuites ou des émissions de fluide frigorigène
+
+|
+
+T
 
 |
 
@@ -1338,11 +1304,11 @@ T
 
 |
 
--
+9
 
 |
 
-9. Composant : installation, mise en service et réparation des détendeurs thermostatiques et autres composants
+Composant : installation, mise en service et réparation des détendeurs thermostatiques et autres composants
 
 |
 
@@ -1350,7 +1316,7 @@ T
 
 |
 
-Expliquer le principe de fonctionnement de différents types de vannes d'expansion (détendeurs thermostatiques, tubes capillaires) et les risques de fuite qui y sont liés.
+Expliquer le principe de fonctionnement de différents types de vannes d'expansion (détendeurs thermostatiques, tubes capillaires) et les risques de fuite qui y sont liés
 
 |
 
@@ -1374,7 +1340,7 @@ T
 
 |
 
-Installer des vannes dans la bonne position.
+Installer des vannes dans la bonne position
 
 |
 
@@ -1398,15 +1364,23 @@ P
 
 |
 
-Régler un détendeur thermostatique mécanique/électronique.
+Régler un détendeur thermostatique mécanique/ électronique
 
 |
 
-|
+P
 
 |
 
+-
+
 |
+
+-
+
+|
+
+-
 
 |
 
@@ -1414,23 +1388,7 @@ Régler un détendeur thermostatique mécanique/électronique.
 
 |
 
-Régler des thermostats mécaniques et électroniques.
-
-|
-
-P*
-
-|
-
--
-
-|
-
--
-
-|
-
--
+Régler des thermostats mécaniques et électroniques
 
 |
 
@@ -1438,15 +1396,7 @@ P*
 
 |
 
-Régler la soupape de régulation de la pression.
-
-|
-
-|
-
-|
-
-|
+Régler la soupape de régulation de la pression
 
 |
 
@@ -1454,15 +1404,7 @@ Régler la soupape de régulation de la pression.
 
 |
 
-Régler des limiteurs de pression mécaniques et électroniques.
-
-|
-
-|
-
-|
-
-|
+Régler des limiteurs de pression mécaniques et électroniques
 
 |
 
@@ -1470,11 +1412,11 @@ Régler des limiteurs de pression mécaniques et électroniques.
 
 |
 
-Vérifier le fonctionnement d'un séparateur d'huile.
+Vérifier le fonctionnement d'un séparateur d'huile
 
 |
 
-P*
+P
 
 |
 
@@ -1494,15 +1436,7 @@ P*
 
 |
 
-Vérifier l'état d'un filtre sécheur.
-
-|
-
-|
-
-|
-
-|
+Vérifier l'état d'un filtre sécheur
 
 |
 
@@ -1510,7 +1444,7 @@ Vérifier l'état d'un filtre sécheur.
 
 |
 
-Rédiger un rapport sur l'état de ces composants en indiquant tout problème de fonctionnement susceptible d'endommager le système et d'entraîner à terme, faute de mesure, des fuites ou des émissions de fluide frigorigène.
+Rédiger un rapport sur l'état de ces composants en indiquant tout problème de fonctionnement susceptible d'endommager le système et d'entraîner à terme, faute de mesure, des fuites ou des émissions de fluide frigorigène
 
 |
 
@@ -1530,7 +1464,11 @@ T
 
 |
 
-10. Tuyauterie : monter un réseau de tuyauterie étanche dans une installation de réfrigération
+10
+
+|
+
+Tuyauterie : monter un réseau de tuyauterie étanche dans une installation de réfrigération
 
 |
 
@@ -1538,7 +1476,7 @@ T
 
 |
 
-Soudage, brasage fort et / ou brasage tendre des joints étanches sur des tubes et des tuyaux métalliques pouvant être utilisés dans des systèmes de réfrigération, de climatisation et de pompes à chaleur.
+Soudage, brasage fort et/ ou brasage tendre des joints étanches sur des tubes, des tuyaux et des composants métalliques pouvant être utilisés dans des systèmes de réfrigération, de climatisation et de pompes à chaleur
 
 |
 
@@ -1558,11 +1496,11 @@ P
 
 |
 
-10.02
+1.02
 
 |
 
-Savoir monter ou vérifier les supports de tuyaux et de composants.
+Fabriquer/ vérifier des supports de tuyaux et de composants
 
 |
 
@@ -1578,15 +1516,131 @@ P
 
 |
 
-- |
+-
+
+|
+
+11
+
+|
+
+Informations sur les technologies pertinentes permettant de remplacer les gaz à effet de serre fluorés ou d'en réduire l'utilisation, et sur leur manipulation sans danger
+
+|
+
+|
+
+|
+
+|
+
+|
+
+11.01
+
+|
+
+Connaître les technologies de substitution pertinentes permettant de remplacer les gaz à effet de serre fluorés ou d'en réduire l'utilisation, et savoir les manipuler sans danger
+
+|
+
+T
+
+|
+
+T
+
+|
+
+T
+
+|
+
+T
+
+|
+
+11.02
+
+|
+
+Connaître les systèmes de conception pertinents afin de réduire la charge des gaz à effet de serre fluorés et d'augmenter l'efficacité énergétique
+
+|
+
+T
+
+|
+
+T
+
+|
+
+-
+
+|
+
+-
+
+|
+
+11.03
+
+|
+
+Connaître les réglementations et les normes de sécurité applicables pour l'utilisation, le stockage et le transport des fluides frigorigènes inflammables ou toxiques ou des fluides frigorigènes nécessitant une pression de fonctionnement plus élevée
+
+|
+
+T
+
+|
+
+T
+
+|
+
+-
+
+|
+
+-
+
+|
+
+11.04
+
+|
+
+Comprendre les avantages et inconvénients respectifs, notamment en ce qui concerne l'efficacité énergétique, des fluides frigorigènes de substitution en fonction de leur application prévue et des conditions climatiques des différentes régions
+
+|
+
+T
+
+|
+
+T
+
+|
+
+-
+
+|
+
+-
+
+|
 
 C. - Compétences et connaissances à évaluer pour la catégorie V :
+
+Dans le tableau suivant, la lettre "T" désigne une épreuve théorique constituée d'une ou de plusieurs questions destinées à évaluer les compétences ou connaissances, et la lettre "P" désigne une épreuve pratique durant laquelle le candidat devra exécuter la tâche indiquée à l'aide du matériel, de l'outillage et de l'équipement nécessaires.
 
 COMPÉTENCES À ÉVALUER
 
 |
 
-Evaluation T / P
+ÉVALUATION T/ P
 
 |
 
@@ -1598,7 +1652,7 @@ Evaluation T / P
 
 |
 
-Avoir une connaissance élémentaire des impacts des fluides frigorigènes à base de CFC et HCFC sur la couche d'ozone stratosphérique et des fluides frigorigènes à base de CFC, HCFC et HFC sur le climat.
+Posséder des connaissances de base sur la politique européenne et internationale en matière de changement climatique, y compris la convention-cadre des Nations unies sur les changements climatiques
 
 |
 
@@ -1610,19 +1664,7 @@ T
 
 |
 
-Avoir une connaissance élémentaire des dispositions du règlement (CE) n° 2037/2000 relatives à l'utilisation de CFC et HCFC comme fluide frigorigène, des dispositions du règlement (CE) n° 842/2006 relatives à l'utilisation des HFC, de la directive 2006/40/CE ainsi que des articles R. 543-75 à R. 543-123 du code de l'environnement.
-
-|
-
-T
-
-|
-
-1.3
-
-|
-
-Connaître les règles de sécurité liées à la manipulation des fluides frigorigènes.
+Avoir une connaissance élémentaire du concept de "potentiel de réchauffement planétaire" (PRP), de l'utilisation des gaz à effet de serre fluorés et d'autres substances en tant que fluides frigorigènes, de l'incidence des émissions de gaz à effet de serre fluorés sur le climat (ordre de grandeur de leur PRP) ainsi que des dispositions correspondantes du règlement (UE) n° 517/2014, de la directive 2006/40/CE, et des articles R. 543-75 à R. 543-123 du code de l'environnement
 
 |
 
@@ -1638,7 +1680,7 @@ T
 
 |
 
-Connaître le fonctionnement des systèmes de climatisation dans les véhicules à moteur.
+Connaître le fonctionnement des systèmes de climatisation dans les véhicules à moteur
 
 |
 
@@ -1650,7 +1692,7 @@ T
 
 |
 
-Savoir identifier les principaux composants d'un système frigorifique et connaître leur fonctionnement.
+Savoir identifier les principaux composants d'un système frigorifique et connaître leur fonctionnement
 
 |
 
@@ -1662,7 +1704,7 @@ T
 
 |
 
-Analyser les documents fournis (données du constructeur, registres de l'équipement, plaque signalétique...).
+Analyser les documents fournis (données du constructeur, registres de l'équipement, plaque signalétique ...)
 
 |
 
@@ -1674,7 +1716,7 @@ P
 
 |
 
-Identifier le fluide contenu dans l'équipement.
+Identifier le fluide contenu dans l'équipement
 
 |
 
@@ -1686,7 +1728,7 @@ P
 
 |
 
-Vérifier le fonctionnement normal de l'équipement.
+Vérifier le fonctionnement normal de l'équipement
 
 |
 
@@ -1698,7 +1740,7 @@ P
 
 |
 
-Savoir associer les dysfonctionnements et les symptômes de fuites.
+Savoir associer les dysfonctionnements et les symptômes de fuites
 
 |
 
@@ -1714,7 +1756,7 @@ P et T
 
 |
 
-Connaître les différentes méthodes de détection des fuites et choisir la plus appropriée à une situation donnée.
+Connaître les différentes méthodes de détection des fuites et choisir la plus appropriée à une situation donnée
 
 |
 
@@ -1726,7 +1768,7 @@ P
 
 |
 
-Connaître la procédure à suivre en cas de fuite.
+Connaître la procédure à suivre en cas de fuite
 
 |
 
@@ -1750,7 +1792,7 @@ P
 
 |
 
-Consigner les données dans le registre.
+Consigner les données dans le registre
 
 |
 
@@ -1766,7 +1808,7 @@ P
 
 |
 
-Manipuler un cylindre de fluide frigorigène.
+Manipuler un cylindre de fluide frigorigène
 
 |
 
@@ -1778,7 +1820,7 @@ P
 
 |
 
-Effectuer un transfert de fluide d'un cylindre vers une station.
+Effectuer un transfert de fluide d'un cylindre vers une station
 
 |
 
@@ -1790,7 +1832,7 @@ P
 
 |
 
-Connexion d'un dispositif de récupération aux vannes de service d'un système de climatisation et déconnexion de ce dispositif.
+Connexion d'un dispositif de récupération aux vannes de service d'un système de climatisation et déconnexion de ce dispositif
 
 |
 
@@ -1802,7 +1844,7 @@ P
 
 |
 
-Procéder à la récupération totale du fluide.
+Procéder à la récupération totale du fluide
 
 |
 
@@ -1814,7 +1856,7 @@ P
 
 |
 
-Contrôler la pression finale de récupération.
+Contrôler la pression finale de récupération
 
 |
 
@@ -1826,7 +1868,7 @@ P
 
 |
 
-Déterminer la quantité de fluide récupéré.
+Déterminer la quantité de fluide récupéré
 
 |
 
@@ -1838,7 +1880,7 @@ P
 
 |
 
-Déterminer la quantité d'huile récupérée.
+Déterminer la quantité d'huile récupérée
 
 |
 
@@ -1850,7 +1892,7 @@ P
 
 |
 
-Remonter un élément neuf en respectant les conditions d'étanchéité et de conformité d'origine.
+Remonter un élément neuf en respectant les conditions d'étanchéité et de conformité d'origine
 
 |
 
@@ -1862,7 +1904,7 @@ P
 
 |
 
-Déterminer la quantité d'huile.
+Déterminer la quantité d'huile
 
 |
 
@@ -1874,7 +1916,7 @@ P
 
 |
 
-Procéder au tirage au vide.
+Procéder au tirage au vide
 
 |
 
@@ -1886,7 +1928,7 @@ P
 
 |
 
-Savoir en déterminer la durée.
+Savoir en déterminer la durée
 
 |
 
@@ -1898,7 +1940,7 @@ P
 
 |
 
-Déterminer la qualité et la quantité d'huile à introduire.
+Déterminer la qualité et la quantité d'huile à introduire
 
 |
 
@@ -1910,7 +1952,7 @@ P
 
 |
 
-Introduire l'huile.
+Introduire l'huile
 
 |
 
@@ -1922,7 +1964,7 @@ P
 
 |
 
-Déterminer la charge normale de l'installation suivant les données du constructeur.
+Déterminer la charge normale de l'installation suivant les données du constructeur
 
 |
 
@@ -1934,7 +1976,7 @@ P
 
 |
 
-Charger en fluide frigorigène.
+Charger en fluide frigorigène
 
 |
 
@@ -1946,11 +1988,63 @@ P
 
 |
 
-Remplir la fiche d'intervention.
+Remplir la fiche d'intervention
 
 |
 
 P
+
+|
+
+5. Informations sur les technologies pertinentes permettant de remplacer les gaz à effet de serre fluorés ou d'en réduire l'utilisation, et sur leur manipulation sans danger
+
+|
+
+5.1
+
+|
+
+Connaître les technologies de substitution pertinentes permettant de remplacer les gaz à effet de serre fluorés ou d'en réduire l'utilisation, et savoir les manipuler sans danger
+
+|
+
+T
+
+|
+
+5.2
+
+|
+
+Connaître les systèmes de conception pertinents afin de réduire la charge des gaz à effet de serre fluorés et d'augmenter l'efficacité énergétique
+
+|
+
+T
+
+|
+
+5.3
+
+|
+
+Connaître les réglementations et les normes de sécurité applicables pour l'utilisation, le stockage et le transport des fluides frigorigènes inflammables ou toxiques ou des fluides frigorigènes nécessitant une pression de fonctionnement plus élevée
+
+|
+
+T
+
+|
+
+5.4
+
+|
+
+Comprendre les avantages et inconvénients respectifs, notamment en ce qui concerne l'efficacité énergétique, des fluides frigorigènes de substitution en fonction de leur application prévue et des conditions climatiques des différentes régions
+
+|
+
+T
 
 |
 
