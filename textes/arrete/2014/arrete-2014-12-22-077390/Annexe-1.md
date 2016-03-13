@@ -40,7 +40,13 @@ Secteur agriculture
 
 - Contrôle et préconisations de réglage du moteur d'un tracteur / Fiche d'opération n° AGRI-SE-101
 
+Conformément à l'article 4 de l'arrêté du 8 février 2016 modifiant l'arrêté du 22 décembre 2014 définissant les opérations standardisées d'économies d'énergie (NOR : DEVR1603528A), l’annexe 2 de la fiche d’opération standardisée portant la référence AGRI-SE-101 figurant à l’annexe 1 de l’arrêté du 22 décembre 2014 définissant les opérations standardisées d’économies d’énergie est remplacée par la version figurant à l’annexe 4 du présent arrêté portant la même référence.
+
 Liens
+
+Vous pouvez consulter les fiches dans le fac-similé du JO nº 0061 du 12/03/2016, texte nº 5
+
+https://www.legifrance.gouv.fr/download/pdf?id=MBOjYK1aF6nQu8_MetCbfkOKybiynhwl4zWmqSZPghk=
 
 Vous pouvez consulter les fiches dans le fac-similé du JO nº 0002 du 03/01/2016, texte nº 6
 
