@@ -28,6 +28,8 @@ Radiateur basse température pour un chauffage central/ / Fiche d’opération s
 
 Isolation d’un réseau hydraulique de chauffage / Fiche d’opération standardisée n° BAT-TH-106
 
+Conformément à l’article 2 de l’arrêté du 8 février 2016 (NOR : DEVR1603528A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 2 dudit arrêté.
+
 Récupérateur de chaleur à condensation / Fiche d’opération standardisée n° BAT-TH-110
 
 Chauffe-eau solaire collectif (France métropolitaine) / Fiche d’opération standardisée n° BAT-TH-111
@@ -45,6 +47,8 @@ Conformément au 1° de l’article 6 de l’arrêté du 20 mars 2015 (NOR : DEV
 Système de gestion technique du bâtiment pour le chauffage et l’eau chaude sanitaire / Fiche d’opération standardisée n° BAT-TH-116
 
 Isolation d’un réseau hydraulique d’eau chaude sanitaire / Fiche d’opération standardisée n° BAT-TH-119
+
+Conformément à l’article 2 de l’arrêté du 8 février 2016 (NOR : DEVR1603528A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 2 dudit arrêté.
 
 Chauffe-eau solaire (France d’outre-mer) / Fiche d’opération standardisée n° BAT-TH-121
 
@@ -84,6 +88,8 @@ Systèmes hydro-économes (France métropolitaine) / Fiche d’opération standa
 
 Liens :
 
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0061 du 12/03/2016, texte n° 5, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=MBOjYK1aF6nQu8_MetCbfkOKybiynhwl4zWmqSZPghk=
+
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0002 du 03/01/2016, texte n° 6, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=7tQP0tbHnNdb41iGhdrOe9_gRqcUA3qn9Cpuf_2cwJA=
 
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0184 du 11/08/2015, texte n° 2, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=rZaFYhIykfEHeO_cYuUudh9K_gvnOMgthOva_2h02AY=
@@ -93,7 +99,3 @@ Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'ex
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0075 du 29/03/2015, texte n° 6, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=xhmSfzOnsCkjNrGahHphZrmpoFhR61mGJ7APKjTA6As=
 
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0297 du 24/12/2014, texte n° 18, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=FGBMw6bzzOGU6LHfYz6-OOYiF3mTkUVDd1KHOMS6u0s=
-
-NOTA :
-
-Se reporter aux conditions d’application prévues à l’article 8 de l’arrêté du 22 décembre 2015 (NOR : DEVR1529503A).

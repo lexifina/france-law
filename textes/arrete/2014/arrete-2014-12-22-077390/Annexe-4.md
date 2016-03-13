@@ -4,6 +4,8 @@ Secteur industrie
 
 - Déstratificateur ou brasseur d’air / Fiche d’opération standardisée n° IND-BA-110
 
+Conformément à l’article 3 de l’arrêté du 8 février 2016 (NOR : DEVR1603528A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 3 dudit arrêté.
+
 - Système de récupération de chaleur sur une tour aéroréfrigérante / Fiche d’opération standardisée n° IND-BA-112
 
 Conformément à l’article 9 de l’arrêté du 31 juillet 2015 (NOR : DEVR1518934A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 5 dudit arrêté.
@@ -64,6 +66,8 @@ Conformément à l’article 9 de l’arrêté du 31 juillet 2015 (NOR : DEVR151
 
 Liens :
 
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0061 du 12/03/2016, texte n° 5, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=MBOjYK1aF6nQu8_MetCbfkOKybiynhwl4zWmqSZPghk=
+
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0002 du 03/01/2016, texte n° 6, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=7tQP0tbHnNdb41iGhdrOe9_gRqcUA3qn9Cpuf_2cwJA=
 
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0184 du 11/08/2015, texte n° 2, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=rZaFYhIykfEHeO_cYuUudh9K_gvnOMgthOva_2h02AY=
@@ -73,3 +77,7 @@ Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'ex
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0075 du 29/03/2015, texte n° 6, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=xhmSfzOnsCkjNrGahHphZrmpoFhR61mGJ7APKjTA6As=
 
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0297 du 24/12/2014, texte n° 18, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=FGBMw6bzzOGU6LHfYz6-OOYiF3mTkUVDd1KHOMS6u0s=
+
+NOTA :
+
+Se reporter aux conditions d’application prévues à l’article 6 de l’arrêté du 8 février 2016 (NOR : DEVR1603528A).
