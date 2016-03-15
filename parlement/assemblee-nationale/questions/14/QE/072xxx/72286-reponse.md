@@ -1,0 +1,9 @@
+# Réponse à la question n° 72286
+
+- Question : [72286](72286.md) — Question n° 72286 — accueillants familiaux; réglementation
+
+## Réponse
+
+*JO du 2016-03-15*
+
+L'accueil familial est une modalité alternative d'accueil et d'accompagnement des personnes âgées et des personnes handicapées, intermédiaire entre le domicile et l'établissement. Ce dispositif permet l'accueil à son domicile, à titre onéreux, de personnes âgées et d'adultes handicapés. L'accueil familial est réglementé par le code de l'action sociale et des familles. Il est ainsi soumis à agrément, délivré par le président du conseil départemental, et à des conditions strictes en matière de logement, de continuité de l'accueil ainsi que de santé, de sécurité et de bien-être physique et moral des personnes accueillies. Les conditions matérielles, humaines et financières de l'accueil sont réglementées à travers le contrat type d'accueil annexé au code de l'action sociale et des familles. Ainsi, soumettre les familles hébergeant leurs proches âgés ou en situation de handicap aux obligations ainsi qu'aux contraintes liées au dispositif de l'¿accueil familial, et à l'obligation même d'une autorisation des pouvoirs publics pour le faire, ne peut être envisagé. Toutefois, l'accueil de personnes âgées ou handicapées dans le cadre de la famille peut permettre le bénéfice de certaines aides sous conditions, notamment la réduction d'impôt sur le revenu ou l'abattement de la taxe d'habitation acquittée au titre de la résidence principale. Par ailleurs, une personne âgée ou handicapée bénéficiaire de l'allocation personnalisée d'autonomie (APA) ou de la prestation de compensation du handicap a également la possibilité, sous certaines conditions, d'utiliser ces prestations pour rémunérer un membre de sa famille (hormis, pour l'APA, le conjoint, concubin ou partenaire de pacte civil de solidarité) en tant qu'aide à domicile.
