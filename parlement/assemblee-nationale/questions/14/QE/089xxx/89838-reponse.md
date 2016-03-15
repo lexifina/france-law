@@ -1,0 +1,9 @@
+# Réponse à la question n° 89838
+
+- Question : [89838](89838.md) — Question n° 89838 — rapport parlementaire; recommandations
+
+## Réponse
+
+*JO du 2016-03-15*
+
+Les postes consulaires informent déjà les Français installés à l'étranger et qui demandent leur radiation de la liste électorale consulaire qu'ils ont la possibilité de s'inscrire sur les listes électorales, à leur retour en France, en faisant une demande d'inscription au titre de l'article L.30 du code électoral. L'information est également disponible en ligne sur les sites internet des postes consulaires et sur France diplomatie. Le nouveau "Registre" en ligne sur servicepublic.fr (lancement prévu au 1er semestre 2016) rendra plus accessible l'information sur les modalités et les délais d'inscription à l'occasion d'une demande de radiation de la liste électorale consulaire par les usagers, à la suite ou en vue d'un retour en France. Le simulateur en ligne « retour en France » permettra aux Français de l'étranger, en fonction de leur situation, d'évaluer les démarches à accomplir dans la préparation et la mise en œuvre de leur projet de retour en France, et plus particulièrement la radiation du Registre des Français établis hors de France et de la liste électorale consulaire. Ce simulateur s'adresse à l'ensemble des Français à l'étranger qui envisagent un retour en France, quelle que soit leur situation professionnelle ou familiale. Les postes diplomatiques et consulaires ont reçu instruction d'en annoncer le déploiement sur leur site internet ainsi que sur les réseaux sociaux. Par ailleurs, dans le cadre de la préparation des élections de 2017, une campagne de communication est prévue afin de sensibiliser tous les Français établis hors de France sur les modalités et les conditions d'inscription sur les listes électorales, en France et à l'étranger.
