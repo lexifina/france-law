@@ -1,0 +1,9 @@
+# Réponse à la question n° 91427
+
+- Question : [91427](91427.md) — Question n° 91427 — formations; lycées maritimes; stages
+
+## Réponse
+
+*JO du 2016-03-15*
+
+Les élèves des lycées professionnels maritimes peuvent être employés à bord de navires dans le cadre de leur formation sous réserve de la conclusion d'une convention de stage dont le modèle est fixé par arrêté. Cette convention rappelle les conditions d'accueil prévues par le décret no 2006-534 du 10 mai 2006 relatif à la protection des jeunes âgés de moins de dix-huit ans embarqués sur les navires. Si le travail à bord d'un navire peut être autorisé à partir de 15 ans, le jeune de moins de dix-huit ans bénéficie de règles protectrices spécifiques en matière notamment de durée du travail, de travail de nuit ou encore de travaux dangereux. Comme dans d'autres secteurs d'activité, le principe général d'interdiction du travail de nuit des jeunes travailleurs à bord des navires s'applique. À titre exceptionnel et afin de tenir compte des caractéristiques particulières du transport maritime ou de la pêche, des dérogations à ce principe peuvent être accordées par l'inspecteur du travail. Les conditions dans lesquelles une telle dérogation peut être accordée sont actuellement examinées dans le cadre de la refonte du décret no 2006-534 du 10 mai 2006 en concertation avec les responsables des lycées d'enseignement maritime, les professionnels du secteur et les autres ministères concernés. Si cette réflexion tient compte de la nécessité de faciliter l'embarquement des jeunes afin qu'ils soient en mesure de valider les brevets maritimes nécessaires à l'exercice de la profession de marin, il n'en reste pas moins qu'il est également essentiel de s'assurer que toutes les garanties sont réunies pour garantir la protection de leur santé et de leur sécurité dans l'exercice d'une activité qui, notamment à la pêche, reste particulièrement accidentogène.
