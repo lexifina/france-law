@@ -1,0 +1,118 @@
+# Travail : modernisation du droit du travail
+
+- Procédure : Projet de loi ordinaire
+- Législature : 14
+- Identifiant : DLR5L14N34783
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/nouvelles_libertes_entreprises_actifs
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl15-610.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2016-03-24 : 1er dépôt d'une initiative. (PRJLANR5L14B3600)
+  - 2016-03-24 : Etude d'impact (ETDIANR5L14B3600)
+  - 2016-03-24 : Avis du Conseil d'Etat (AVCEANR5L14B3600)
+  - 2016-05-10 : Dépôt d'une déclaration du gouvernement (DECLANR5L14B3675)
+  - 2016-05-10 : Motion de censure
+  - 2016-03-24 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2016-03-24 : Renvoi en commission au fond
+      - 2016-03-22 : Nomination de rapporteur
+      - 2016-03-29 : Réunion de commission
+      - 2016-03-30 : Réunion de commission
+      - 2016-03-30 : Réunion de commission
+      - 2016-04-05 : Réunion de commission
+      - 2016-04-05 : Réunion de commission
+      - 2016-04-06 : Réunion de commission
+      - 2016-04-06 : Réunion de commission
+      - 2016-04-06 : Réunion de commission
+      - 2016-04-07 : Réunion de commission
+      - 2016-04-07 : Réunion de commission
+      - 2016-05-03 : Réunion de commission
+      - 2016-05-09 : Réunion de commission
+      - 2016-05-10 : Réunion de commission
+      - 2016-04-07 : Dépôt de rapport (RAPPANR5L14B3675, PRJLANR5L14BTC3675)
+    - Travaux d'une commission saisie pour avis
+      - 2016-03-24 : Saisine pour avis d'une commission
+      - 2016-03-16 : Nomination de rapporteur
+      - 2016-04-04 : Réunion de commission
+      - 2016-04-04 : Réunion de commission
+      - 2016-04-05 : Dépôt de rapport (AVISANR5L14B3626)
+  - Discussion en séance publique
+    - 2016-05-12 : Discussion en séance publique
+    - 2016-05-03 : Discussion en séance publique
+    - 2016-05-03 : Discussion en séance publique
+    - 2016-05-04 : Discussion en séance publique
+    - 2016-05-09 : Discussion en séance publique
+    - 2016-05-09 : Discussion en séance publique
+    - 2016-05-10 : Discussion en séance publique
+    - 2016-05-12 : Décision sur une motion de censure
+    - 2016-05-12 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2016-05-13 : Dépôt d'une initiative en navette (PRJLSNR5S259B0610)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2016-05-13 : Renvoi en commission au fond
+      - 2016-03-30 : Nomination de rapporteur
+      - 2016-06-01 : Dépôt de rapport (RAPPSNR5S259B0661)
+  - Discussion en séance publique
+    - 2016-06-13 : Discussion en séance publique
+    - 2016-06-14 : Discussion en séance publique
+    - 2016-06-15 : Discussion en séance publique
+    - 2016-06-16 : Discussion en séance publique
+    - 2016-06-17 : Discussion en séance publique
+    - 2016-06-20 : Discussion en séance publique
+    - 2016-06-21 : Discussion en séance publique
+    - 2016-06-22 : Discussion en séance publique
+    - 2016-06-23 : Discussion en séance publique
+    - 2016-06-24 : Discussion en séance publique
+    - 2016-06-28 : Discussion en séance publique
+    - 2016-06-28 : Décision
+- Commission Mixte Paritaire
+  - 2016-06-28 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2016-06-28 : Nomination de rapporteur
+    - 2016-06-28 : Dépôt du rapport d'une CMP (RAPPANR5L14B3889)
+    - 2016-06-28 : Dépôt du rapport d'une CMP (RAPPSNR5S259B0726)
+  - 2016-06-28 : Décision de la CMP
+- Nouvelle Lecture
+  - 2016-06-28 : Dépôt d'une initiative en navette (PRJLANR5L14B3886)
+  - 2016-07-05 : Dépôt d'une déclaration du gouvernement (DECLANR5L14B3909)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2016-06-28 : Renvoi en commission au fond
+      - 2016-06-30 : Réunion de commission
+      - 2016-06-30 : Réunion de commission
+      - 2016-06-30 : Réunion de commission
+      - 2016-07-05 : Réunion de commission
+      - 2016-07-01 : Dépôt de rapport (RAPPANR5L14B3909, PRJLANR5L14BTC3909)
+  - Discussion en séance publique
+    - 2016-07-05 : Discussion en séance publique
+    - 2016-07-06 : Décision
+- Nouvelle Lecture
+  - 2016-07-06 : Dépôt d'une initiative en navette (PRJLSNR5S259B0771)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2016-07-06 : Renvoi en commission au fond
+      - 2016-07-13 : Dépôt de rapport (RAPPSNR5S259B0790)
+  - Discussion en séance publique
+    - 2016-07-19 : Discussion en séance publique
+    - 2016-07-19 : Décision
+- Lecture définitive
+  - 2016-07-19 : Dépôt d'une initiative en navette (PRJLANR5L14B3976)
+  - 2016-07-20 : Dépôt d'une déclaration du gouvernement (DECLANR5L14B3976)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2016-07-19 : Renvoi en commission au fond
+  - Discussion en séance publique
+    - 2016-07-20 : Discussion en séance publique
+    - 2016-07-21 : Discussion en séance publique
+    - 2016-07-21 : Décision
+- Conseil constitutionnel
+  - 2016-07-21 : Saisine du conseil constitutionnel
+  - 2016-07-22 : Saisine du conseil constitutionnel
+  - 2016-07-25 : Saisine du conseil constitutionnel
+  - 2016-08-04 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2016-08-08 : Promulgation d'une loi
