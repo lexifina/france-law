@@ -142,9 +142,7 @@ FLUVIATECH
 
 |
 
-Carbon pro
-
-Combined Class A/inland AIS
+Simrad V5035 (class A/ inland AIS)
 
 |
 
