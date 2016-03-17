@@ -1,0 +1,5 @@
+# Article 1er
+
+Le champ d'application territorial vise l'ensemble du territoire national, y compris les départements d'outre-mer.
+
+Le champ d'application professionnel concerne les entreprises de négoce et de prestations de services médico techniques. L'activité principale de ces entreprises consiste en la location et la vente de matériels et fournitures destinées à l'assistance des personnes en situation de dépendance, de handicap ou de maladie ainsi qu'à l'équipement médical et/ou dans la réalisation de prestations de services liées aux activités de location ou de vente au profit des mêmes bénéficiaires et à l'exclusion de tout acte de soins. Ces entreprises sont généralement référencées sous les codes NAF 47.74Z et 77.29Z.
