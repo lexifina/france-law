@@ -82,6 +82,22 @@ Entrepierres |
 
 Section 196A parcelles 20 et 21 en partie pour une occupation normale du terrain et un accès à la route |
 
+Alpes-de-Haute-Provence (04) |
+
+Garage d'Authon |
+
+Authon |
+
+C 340
+
+C 439
+
+C 567
+
+C 571
+
+|
+
 Hautes-Alpes (5)
 
 |
@@ -250,6 +266,20 @@ Bouvante |
 
 AI67 en partie afin de constituer une superficie permettant un usage normal du bien |
 
+Eure-et-Loir (28) |
+
+Maison forestière du Rond des Louvetiers |
+
+Senonches |
+
+K 27
+
+K 28
+
+K 29 en partie
+
+|
+
 Finistère (29) |
 
 Pavillon de Fouesnant |
@@ -347,6 +377,14 @@ Roybon |
 F254 et F255 en partie, F253 en partie dans la limite d'un usage normal du bien
 
 |
+
+Isère (38) |
+
+Bureaux de Fourvoirie |
+
+Saint-Laurent-du-Pont |
+
+C 71 |
 
 Jura (39) |
 
@@ -464,6 +502,20 @@ Les Bordes |
 
 ZD6, A183, A184, A178 en partie dans la limite d'un usage normal du bien |
 
+Loiret (45) |
+
+Maison forestière des Six routes |
+
+Châteauneuf-sur-Loire |
+
+AC 89 en partie et AC 90 en partie |
+
+Maison forestière Les Tailles Gillette |
+
+Cercottes |
+
+B 180, B 181 en partie et B182 en partie afin de constituer une superficie permettant un usage normal du bien |
+
 Lozère (48) |
 
 Atelier de Roquedols |
@@ -479,6 +531,14 @@ Maison forestière de Roquedols |
 Meyrueis |
 
 G951 |
+
+Marne (51) |
+
+Maison forestière de l'Etoile |
+
+La Forestière |
+
+E 24 |
 
 Haute-Marne (52)
 
@@ -846,6 +906,20 @@ Compiègne |
 
 E127, E128 en partie afin de constituer une superficie permettant un usage normal du bien |
 
+Oise (60) |
+
+Maison forestière du Bac de Lacroix |
+
+Lacroix Saint-Ouen |
+
+AE 241 |
+
+Maison forestière du Stade de Lacroix |
+
+Lacroix Saint Ouen |
+
+AK 115 |
+
 Orne (61)
 
 |
@@ -1014,6 +1088,20 @@ Niederbronn-les-Bains |
 
 Section 31, 316, 317 |
 
+Bas-Rhin (67) |
+
+Maison forestière de Donauberg |
+
+Haguenau |
+
+ML 121 |
+
+Maison forestière Erzlach |
+
+Soufflenheim (communauté de communes de l'Espace Rhénan) |
+
+MO 163 |
+
 Haut-Rhin (68) |
 
 Maison forestière Le Chant des oiseaux |
@@ -1069,6 +1157,14 @@ Chalet de la Grollaz |
 Saint-Michel-de-Maurienne |
 
 H1541 |
+
+Haute-Savoie (74) |
+
+Chalet de Lutz |
+
+Magland |
+
+B 1693 et B 1694 |
 
 Seine-Maritime (76)
 
@@ -1155,6 +1251,14 @@ Maison forestière de la Bouillarderie |
 Millebosc |
 
 Section B, 443 en partie afin de constituer une superficie permettant un usage normal du bien |
+
+Seine-et-Marne (77) |
+
+Maison forestière des Huit routes |
+
+Fontenailles |
+
+C 44 et C 46 |
 
 Yvelines (78)
 
@@ -1264,6 +1368,14 @@ La Celle-Saint-Cloud |
 
 AK17 |
 
+Yvelines (78) |
+
+Maison forestière de Viroflay |
+
+Viroflay |
+
+D 14 en partie |
+
 Deux-Sèvres (79)
 
 |
@@ -1343,6 +1455,32 @@ Dourdan
 A144 et A27
 
 |
+
+Hauts-de-Seine (92) |
+
+Hangar de Fausses-Reposes |
+
+Ville d'Avray |
+
+B 2 |
+
+Maison forestière de Fausses Reposes n° 1 |
+
+Ville d'Avray |
+
+AL 173 en partie |
+
+Maison forestière de Gallardon |
+
+Sèvres |
+
+AN 0293 en partie |
+
+Terrain n° 1 - Maison forestière de Gallardon |
+
+Sèvres |
+
+AN 0293 en partie |
 
 Val d'Oise (95) |
 

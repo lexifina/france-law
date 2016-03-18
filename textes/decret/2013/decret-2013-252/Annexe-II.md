@@ -36,7 +36,7 @@ Maison forestière de Saint-Remy |
 
 Villers-Cotterêts |
 
-AP32, AP33, AP34, AP35 |
+AP 32 en partie, AP 33 en partie, AP 34, AP35 en partie |
 
 Cher (18)
 
@@ -58,19 +58,19 @@ A23 en partie dans la limite du jardin attenant, A24 en partie pour permettre un
 
 Ile-et-Vilaine (35) |
 
-Ensemble immobilier Le Chenedet |
+Ensemble immobilier "Le Chenedet" |
 
 Landéan |
 
-D126, D127, D128, D129, D130, D131 en partie, D132 en partie, D133 en partie afin de constituer une superficie permettant un usage normal du bien |
+D 126, D 127, D 128, D 129, D 130, D 253, D 254, D 256, D 258 |
 
 Ile-et-Vilaine (35) |
 
-Ensemble immobilier Maison Neuve |
+Ensemble immobilier "Maison Neuve" |
 
 Landéan |
 
-Section D, 146 en partie, 144 en partie, 145 en partie, 147 en partie, 148 en partie afin de constituer une superficie permettant un usage normal du bien |
+D 260, D 263, D 266 |
 
 Isère (38) |
 
@@ -90,11 +90,19 @@ B425 en partie et B426 en partie pour intégrer le jardin et les dépendances, B
 
 |
 
-|
+Landes (40)
 
 |
 
+Maison forestière des Quatre vents
+
 |
+
+Sanguinet
+
+|
+
+BV 18 et BV 17 en partie
 
 |
 
@@ -137,6 +145,40 @@ Maison de Froid Cul |
 Briey |
 
 C47, C46 en partie, C605 en partie |
+
+Meurthe-et-Moselle (54) |
+
+Maison forestière de Bellefontaine |
+
+Champigneulles |
+
+AV 1 en partie
+
+AV 3
+
+AV 4 en partie
+
+AV 5 en partie
+
+AV 6
+
+AV 7
+
+AV 8
+
+|
+
+Maison forestière de la Soye |
+
+Saint-Sauveur |
+
+B 11 en partie
+
+B 12
+
+B13 et B 14
+
+|
 
 Moselle (57) |
 
@@ -194,7 +236,7 @@ Maison forestière de Villebon Nouvelle |
 
 Meudon |
 
-101 en partie, 102 en partie |
+101, 102 en partie |
 
 Vosges (88)
 
@@ -232,10 +274,18 @@ Section B, parcelles 331, 332, 333, 335 dans limite d'un usage normal du bien et
 
 |
 
-Hauts-de-Seine (92) |
+Vosges (88) |
 
-Maison forestière de Villebon Nouvelle |
+Maison forestière de Ban le Duc |
 
-Meudon |
+Charmois-l'Orgueilleux |
 
-101 en partie, 102 en partie |
+E 500
+
+E 501
+
+E 502
+
+E 503 en partie
+
+|
