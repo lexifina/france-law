@@ -1,6 +1,6 @@
 # Article ANNEXE
 
-CAHIER DES CHARGES APPLICABLE AU COORDONNATEUR CHARGÉ D'ASSURER L'ATTRIBUTION DES CRÉNEAUX HORAIRES SUR LES AÉROPORTS DE PARIS-ORLY ET PARIS - CHARLES-DE-GAULLE
+CAHIER DES CHARGES APPLICABLE AU COORDONNATEUR CHARGÉ D'ASSURER L'ATTRIBUTION DES CRÉNEAUX HORAIRES SUR LES AÉROPORTS DE PARIS-ORLY ET PARIS-CHARLES-DE-GAULLE
 
 TITRE Ier
 
@@ -12,21 +12,21 @@ Le coordonnateur accomplit en toute indépendance les tâches prévues par le r�
 
 Article 2
 
-Le coordonnateur attribue les créneaux horaires sur les aéroports de Paris-Orly et Paris - Charles-de-Gaulle, selon la procédure de l'article 8 du règlement (CEE) n° 95/93, de façon neutre, non discriminatoire et transparente, dans le respect des capacités disponibles des aéroports concernés, déterminées conformément à l'article 6 de ce règlement. Il tient compte en outre des réglementations nationales et des principes définis par l'I.A.T.A. Ses décisions, le cas échéant, sont motivées, conformément à la loi n° 79-587 du 11 juillet 1979 relative à la motivation des actes administratifs et aux textes pris pour son application. Il est assisté, à titre consultatif, par le comité de coordination des aéroports parisiens.
+Le coordonnateur attribue les créneaux horaires sur les aéroports de Paris-Orly et Paris-Charles-de-Gaulle, selon la procédure de l'article 8 du règlement (CEE) n° 95/93, de façon neutre, non discriminatoire et transparente, dans le respect des capacités disponibles des aéroports concernés, déterminées conformément à l'article 6 de ce règlement. Il tient compte en outre des réglementations nationales et des principes définis par l'I. A. T. A. Ses décisions, le cas échéant, sont motivées, conformément aux articles L. 211-2 à L. 211-7 du code des relations entre le public et l'administration et aux textes pris pour leur application. Il est assisté, à titre consultatif, par le comité de coordination des aéroports parisiens.
 
 Article 3
 
 Le coordonnateur communique, sur demande et dans un délai raisonnable, à toutes les parties intéressées, pour examen, les informations suivantes :
 
-- les créneaux horaires à caractère historique, ventilés par compagnie aérienne et classés dans l'ordre chronologique pour tous les transporteurs utilisant l'aéroport ;
+-les créneaux horaires à caractère historique, ventilés par compagnie aérienne et classés dans l'ordre chronologique pour tous les transporteurs utilisant l'aéroport ;
 
-- les créneaux horaires demandés à l'origine, ventilés par transporteur et classés dans l'ordre chronologique, pour tous les transporteurs ;
+-les créneaux horaires demandés à l'origine, ventilés par transporteur et classés dans l'ordre chronologique, pour tous les transporteurs ;
 
-- tous les créneaux horaires attribués, ainsi que les demandes en suspens, ventilés par transporteur et classés dans l'ordre chronologique, pour tous les transporteurs ;
+-tous les créneaux horaires attribués, ainsi que les demandes en suspens, ventilés par transporteur et classés dans l'ordre chronologique, pour tous les transporteurs ;
 
-- les créneaux horaires encore disponibles ;
+-les créneaux horaires encore disponibles ;
 
-- des informations complètes et détaillées sur les critères d'attribution.
+-des informations complètes et détaillées sur les critères d'attribution.
 
 Article 4
 
@@ -36,13 +36,13 @@ Article 5
 
 Le coordonnateur peut demander la convocation d'une réunion du comité de coordination des aéroports parisiens afin de :
 
-- présenter à l'examen les réclamations dont il est informé concernant l'attribution des créneaux horaires ;
+-présenter à l'examen les réclamations dont il est informé concernant l'attribution des créneaux horaires ;
 
-- le consulter sur les méthodes de surveillance de l'utilisation des créneaux horaires qu'il envisage de mettre en oeuvre ;
+-le consulter sur les méthodes de surveillance de l'utilisation des créneaux horaires qu'il envisage de mettre en oeuvre ;
 
-- solliciter ses orientations pour l'attribution de créneaux horaires compte tenu des conditions locales ;
+-solliciter ses orientations pour l'attribution de créneaux horaires compte tenu des conditions locales ;
 
-- examiner les problèmes sérieux éprouvés par les transporteurs et notamment les nouveaux arrivants.
+-examiner les problèmes sérieux éprouvés par les transporteurs et notamment les nouveaux arrivants.
 
 TITRE II
 
@@ -100,7 +100,7 @@ Le coordonnateur assure une permanence adaptée aux besoins du service.
 
 Article 16
 
-Le coordonnateur se dote des personnels et des moyens, notamment informatiques, permettant le traitement de toutes les demandes d'attribution ou de modification de créneaux horaires dans les délais conformes aux principes en vigueur dans la profession tels que définis par l'I.A.T.A.
+Le coordonnateur se dote des personnels et des moyens, notamment informatiques, permettant le traitement de toutes les demandes d'attribution ou de modification de créneaux horaires dans les délais conformes aux principes en vigueur dans la profession tels que définis par l'I. A. T. A.
 
 Article 17
 
@@ -108,7 +108,7 @@ Le coordonnateur s'assure que toute demande d'attribution ou de modification de 
 
 Article 18
 
-Le coordonnateur se dote des moyens matériels, et notamment informatiques, permettant d'effectuer le bilan de l'utilisation des créneaux horaires attribués sur les aéroports de Paris-Orly et de Paris - Charles-de-Gaulle, à la fin de chaque saison aéronautique.
+Le coordonnateur se dote des moyens matériels, et notamment informatiques, permettant d'effectuer le bilan de l'utilisation des créneaux horaires attribués sur les aéroports de Paris-Orly et de Paris-Charles-de-Gaulle, à la fin de chaque saison aéronautique.
 
 Le coordonnateur se dote également des moyens nécessaires à la surveillance continue, en cours de saison aéronautique, de l'utilisation des créneaux horaires attribués sur ces aéroports.
 
@@ -124,7 +124,7 @@ DISPOSITIONS TRANSITOIRES
 
 Article 20
 
-Tant que l'ensemble des moyens, notamment informatiques, prévus au titre III du présent cahier des charges n'est pas mis en place, le coordonnateur prend toute mesure alternative nécessaire à l'accomplissement des tâches de la coordination. Il veille en particulier à disposer des personnels et moyens précédemment mis à disposition du coordonnateur désigné par la décision DGAC/DG n° 16 du 4 janvier 1995, en tant que de besoin, pour assurer la continuité de la mission de coordination.
+Tant que l'ensemble des moyens, notamment informatiques, prévus au titre III du présent cahier des charges n'est pas mis en place, le coordonnateur prend toute mesure alternative nécessaire à l'accomplissement des tâches de la coordination. Il veille en particulier à disposer des personnels et moyens précédemment mis à disposition du coordonnateur désigné par la décision DGAC/ DG n° 16 du 4 janvier 1995, en tant que de besoin, pour assurer la continuité de la mission de coordination.
 
 Article 21
 
@@ -132,7 +132,7 @@ Tant que le coordonnateur ne dispose pas des moyens prévus à l'article 16 du t
 
 Article 22
 
-Tant que le coordonnateur ne dispose pas des moyens prévus à l'article 18 du titre III du présent cahier des charges, il communique au ministre chargé de l'aviation civile l'ensemble des créneaux horaires attribués pour la saison aéronautique courante sur les aéroports de Paris-Orly et de Paris - Charles-de-Gaulle, sous une forme adaptée aux besoins du traitement de ces données par les services du ministre, pour effectuer, en lieu et place du coordonnateur, le bilan et le suivi de l'utilisation des créneaux horaires attribués sur les aéroports de Paris-Orly et de Paris - Charles-de-Gaulle.
+Tant que le coordonnateur ne dispose pas des moyens prévus à l'article 18 du titre III du présent cahier des charges, il communique au ministre chargé de l'aviation civile l'ensemble des créneaux horaires attribués pour la saison aéronautique courante sur les aéroports de Paris-Orly et de Paris-Charles-de-Gaulle, sous une forme adaptée aux besoins du traitement de ces données par les services du ministre, pour effectuer, en lieu et place du coordonnateur, le bilan et le suivi de l'utilisation des créneaux horaires attribués sur les aéroports de Paris-Orly et de Paris-Charles-de-Gaulle.
 
 Article 23
 

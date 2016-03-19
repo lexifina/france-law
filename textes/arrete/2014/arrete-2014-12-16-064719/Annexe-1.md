@@ -20,15 +20,15 @@ A l'attention du directeur,
 
 Lieu et date :
 
-Madame/Monsieur le directeur,
+Madame/ Monsieur le directeur,
 
-Je soussigné(e) atteste sur l'honneur être détenteur de chevaux issus d'une saillie déclarée d'un étalon de race de trait.
+Je soussigné (e) atteste sur l'honneur être détenteur de chevaux issus d'une saillie déclarée d'un étalon de race de trait.
 
-Je souhaite procéder au marquage actif de ces animaux par la pose de marques (boutons) auriculaires. Conformément aux dispositions du nouvel article D212-58 du code rural et de la pêche maritime, je vous serais reconnaissant de bien vouloir m'accorder l'habilitation nécessaire.
+Je souhaite procéder au marquage actif de ces animaux par la pose de marques (boutons) auriculaires. Conformément aux dispositions du nouvel article D. 212-58 du code rural et de la pêche maritime, je vous serais reconnaissant de bien vouloir m'accorder l'habilitation nécessaire.
 
-A cet effet, je vous remercie de me faire parvenir l'attestation prévue à l'article 22 de la loi n° 2000-321 du 12 avril 2000 relative aux droits des citoyens dans leurs relations avec les administrations.
+A cet effet, je vous remercie de me faire parvenir l'attestation prévue à l'article L. 232-3 du code des relations entre le public et l'administration.
 
-En vous remerciant par avance de la prise en compte de ma demande, je vous prie d'agréer, Madame/Monsieur le directeur, l'expression de ma considération distinguée.
+En vous remerciant par avance de la prise en compte de ma demande, je vous prie d'agréer, Madame/ Monsieur le directeur, l'expression de ma considération distinguée.
 
 Signature
 

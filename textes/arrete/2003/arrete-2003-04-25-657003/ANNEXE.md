@@ -1,10 +1,10 @@
 # Article ANNEXE
 
-I. - Objet du règlement intérieur
+I.-Objet du règlement intérieur
 
 Le présent règlement intérieur définit les modalités de fonctionnement de la commission, notamment la répartition des tâches confiées aux membres de la commission, au président, aux présidents adjoints, le cas échéant, et à son secrétariat dans la procédure d'instruction des dossiers soumis à la commission siégeant soit en formation de règlement amiable, soit en formation de conciliation.
 
-II. - Dispositions communes
+II.-Dispositions communes
 
 Article 1er
 
@@ -66,7 +66,7 @@ Les membres de la commission, ainsi que les médiateurs, doivent déclarer au se
 
 En séance, le président signale les incompatibilités et les membres concernés ne peuvent alors participer à la préparation des avis, siéger durant les travaux de la commission ou réaliser une mission de conciliation relative au dossier examiné.
 
-III. - Procédure d'instruction des dossiers soumis
+III.-Procédure d'instruction des dossiers soumis
 
 à la commission siégeant en formation de règlement amiable
 
@@ -88,7 +88,7 @@ Article 10
 
 Le président accuse réception du dossier, enregistre la demande et réclame les éventuelles pièces manquantes en fixant un délai impératif pour leur réception.
 
-Conformément aux dispositions du décret n° 2001-492 du 6 juin 2001 relatif à l'accusé de réception des demandes présentées aux autorités administratives, le délai de six mois fixé à la commission pour rendre son avis ne court qu'à compter de la réception de la dernière des pièces requises.
+Conformément aux dispositions de l'article L. 114-5 du code des relations entre le public et l'administration, le délai de six mois fixé à la commission pour rendre son avis ne court qu'à compter de la réception de la dernière des pièces requises.
 
 La saisine régulière de la commission suspend les délais de prescription et de recours contentieux jusqu'au terme de la procédure suivie devant la commission.
 
@@ -154,7 +154,7 @@ Article 23
 
 Les rapports prévus aux articles R. 790-47 et R. 790-48 ainsi que le rapport préparatoire à l'avis prévu à l'article L. 1142-8 du code de la santé publique sont préparés par le président et adoptés par la commission.
 
-IV. - Procédure d'instruction des dossiers soumis
+IV.-Procédure d'instruction des dossiers soumis
 
 à la commission siégeant en formation de conciliation
 

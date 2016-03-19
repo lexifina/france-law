@@ -140,7 +140,7 @@ Certification conforme des copies de documents délivrés par les autorités adm
 
 |
 
-Article 1er du décret n° 2001-899 du 1er octobre 2001 portant abrogation des dispositions réglementaires relatives à la certification conforme des copies de documents délivrés par les autorités administratives
+Article R. 113-10 du code des relations entre le public et l'administration
 
 |
 

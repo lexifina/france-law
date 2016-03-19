@@ -12,21 +12,21 @@ Chapitre Ier : Dispositions applicables au programme d'actions et au règlement 
 
 En application des dispositions des I et II de l'article R. 321-10, de l'article R. 321-10-1 et du II de l'article R. 321-11 du CCH, les décisions d'attribution de subvention ou de rejet des demandes de subvention sont prises par le délégataire ou par le délégué de l'agence dans le département, notamment sur la base d'un programme d'actions défini au A du présent chapitre, le cas échéant après avis de la CLAH suivant les dispositions prévues par son règlement intérieur dans les conditions fixées au B du présent chapitre.
 
-A. - Le programme d'actions
+A.-Le programme d'actions
 
 En application du 1° du I et du II de l'article R. 321-10, du 1° de l'article R. 321-10-1 et du a du 4° du II de l'article R. 321-11 du CCH, un programme d'actions établi, suivant le cas, par le délégué de l'agence dans le département ou par le délégataire est soumis pour avis à la CLAH du territoire de compétence concerné.
 
 Ce programme d'actions précise les conditions d'attribution des aides de l'agence dans le respect des orientations générales de l'agence fixées par le conseil d'administration de l'agence et des enjeux locaux tels qu'ils ressortent notamment :
 
-- des programmes locaux de l'habitat mentionnés à l'article L. 302-1 du CCH (PLH) ;
+-des programmes locaux de l'habitat mentionnés à l'article L. 302-1 du CCH (PLH) ;
 
-- du plan départemental d'actions pour le logement des personnes défavorisées (PDALPD) ;
+-du plan départemental d'actions pour le logement des personnes défavorisées (PDALPD) ;
 
-- du plan départemental de l'habitat visé à l'article L. 302-10 du CCH (PDH) ;
+-du plan départemental de l'habitat visé à l'article L. 302-10 du CCH (PDH) ;
 
-- le cas échéant, des conventions conclues en application des articles L. 301-5-1 ou L. 301-5-2 et L. 321-1-1 ;
+-le cas échéant, des conventions conclues en application des articles L. 301-5-1 ou L. 301-5-2 et L. 321-1-1 ;
 
-- de la connaissance du marché local.
+-de la connaissance du marché local.
 
 Il comporte notamment, pour le territoire de compétence concerné :
 
@@ -54,7 +54,7 @@ Après avis de la CLAH, le programme d'actions et ses modifications successives 
 
 Le programme d'actions et son bilan annuel sont transmis au délégué régional de l'agence, aux fins d'évaluation et de préparation de la programmation des crédits.
 
-B. - Règlement intérieur de la commission locale d'amélioration de l'habitat
+B.-Règlement intérieur de la commission locale d'amélioration de l'habitat
 
 Pour l'application des 4° du I ou du II de l'article R. 321-10 du CCH, le règlement intérieur de la CLAH comporte obligatoirement les cas ou les critères suivant lesquels les décisions du délégué de l'agence dans le département ou du délégataire devront faire l'objet d'un avis préalable de la CLAH.
 
@@ -68,7 +68,7 @@ Le règlement intérieur de la CLAH fait l'objet d'une publication.
 
 Chapitre II : Traitement d'une demande de subvention pour la réalisation de travaux par les demandeurs visés aux I et II de l'article R. 321-12 du CCH
 
-A. - Constitution du dossier de demande
+A.-Constitution du dossier de demande
 
 Article 1er
 
@@ -84,15 +84,15 @@ A réception de la demande, un récépissé est délivré sans délai par le ser
 
 Le récépissé comporte les mentions suivantes :
 
-- la date de réception de la demande de subvention ;
+-la date de réception de la demande de subvention ;
 
-- la désignation, l'adresse postale et, le cas échéant, électronique ainsi que le numéro de téléphone du service chargé du dossier ;
+-la désignation, l'adresse postale et, le cas échéant, électronique ainsi que le numéro de téléphone du service chargé du dossier ;
 
-- l'information selon laquelle seule une décision expresse d'octroi de subvention engage l'agence sur le plan juridique et financier ;
+-l'information selon laquelle seule une décision expresse d'octroi de subvention engage l'agence sur le plan juridique et financier ;
 
-- le principe selon lequel toute demande qui n'a pas donné lieu à la notification d'une décision dans un délai de quatre mois à compter de la date de réception de la demande de subvention est réputée rejetée ;
+-le principe selon lequel toute demande qui n'a pas donné lieu à la notification d'une décision dans un délai de quatre mois à compter de la date de réception de la demande de subvention est réputée rejetée ;
 
-- les délais et les voies de recours en cas de rejet implicite de la demande.
+-les délais et les voies de recours en cas de rejet implicite de la demande.
 
 Article 2
 
@@ -106,7 +106,7 @@ Modification du projet initial
 
 En cas d'extension des travaux, il ne peut y avoir de subvention supplémentaire sans dépôt préalable d'une demande complémentaire. En cas de modification substantielle du projet, une nouvelle demande doit être déposée, dans les conditions prévues à l'article 1er du présent règlement.
 
-B. - Conditions de l'instruction des demandes de subvention
+B.-Conditions de l'instruction des demandes de subvention
 
 Article 4
 
@@ -126,11 +126,11 @@ Commencement des travaux (R. 321-18)
 
 Conformément à l'article R. 321-18 du CCH, les travaux commencés avant le dépôt de la demande de subvention ne peuvent bénéficier d'une aide de l'agence. Toutefois, le délégué de l'agence dans le département ou le délégataire peut, à titre exceptionnel, accorder une subvention lorsque le dossier n'a pu être déposé qu'après le commencement des travaux, notamment :
 
-- en cas de travaux urgents en raison d'un risque manifeste pour la santé ou la sécurité des personnes ;
+-en cas de travaux urgents en raison d'un risque manifeste pour la santé ou la sécurité des personnes ;
 
-- en cas de travaux d'office réalisés par la commune ou l'Etat en application des articles L. 1331-29 et L. 1334-2 du code de la santé publique ou des articles L. 129-2 et L. 511-2 et suivants du code de la construction et de l'habitation (CCH) ;
+-en cas de travaux d'office réalisés par la commune ou l'Etat en application des articles L. 1331-29 et L. 1334-2 du code de la santé publique ou des articles L. 129-2 et L. 511-2 et suivants du code de la construction et de l'habitation (CCH) ;
 
-- en cas d'application des articles L. 125-1 et L. 122-7 du code des assurances pour les dommages causés par des catastrophes naturelles ou par les effets du vent dû aux tempêtes, ouragans et cyclones.
+-en cas d'application des articles L. 125-1 et L. 122-7 du code des assurances pour les dommages causés par des catastrophes naturelles ou par les effets du vent dû aux tempêtes, ouragans et cyclones.
 
 Article 6
 
@@ -138,29 +138,29 @@ Ancienneté des immeubles ou des logements dans lesquels les travaux sont réali
 
 Pour bénéficier d'une aide de l'ANAH, les immeubles ou les logements dans lesquels les travaux sont réalisés doivent être achevés :
 
-- depuis quinze ans au moins à la date de la notification de la décision d'octroi de subvention ; ou
+-depuis quinze ans au moins à la date de la notification de la décision d'octroi de subvention ; ou
 
-- depuis dix ans au moins à la date de la notification de la décision d'octroi de subvention lorsque les travaux portent sur les parties communes d'un immeuble faisant l'objet du plan de sauvegarde prévu à l'article L. 615-1 du CCH.
+-depuis dix ans au moins à la date de la notification de la décision d'octroi de subvention lorsque les travaux portent sur les parties communes d'un immeuble faisant l'objet du plan de sauvegarde prévu à l'article L. 615-1 du CCH.
 
 Exceptions à ces principes d'ancienneté des immeubles :
 
 Cas général : ces délais peuvent ne pas être exigés par le délégué de l'agence dans le département ou le délégataire lorsque les travaux envisagés tendent :
 
-- soit à réaliser l'adaptation des logements aux besoins spécifiques des personnes handicapées ou des personnes âgées ;
+-soit à réaliser l'adaptation des logements aux besoins spécifiques des personnes handicapées ou des personnes âgées ;
 
-- soit à améliorer les logements occupés par les personnes appelées à travailler la nuit ;
+-soit à améliorer les logements occupés par les personnes appelées à travailler la nuit ;
 
-- soit à économiser l'énergie.
+-soit à économiser l'énergie.
 
 Cas particuliers : à titre exceptionnel, des dérogations à la condition du délai de quinze ans peuvent être accordées par le délégué de l'agence dans le département ou le délégataire en fonction de l'urgence et de l'intérêt des travaux à réaliser dans les situations suivantes :
 
-- immeuble en péril, insalubre ou nécessitant des travaux de mise en sécurité d'équipements communs à usage collectif ;
+-immeuble en péril, insalubre ou nécessitant des travaux de mise en sécurité d'équipements communs à usage collectif ;
 
-- travaux consécutifs à une catastrophe naturelle ou technologique, ou aux effets du vent dû aux tempêtes, ouragans et cyclones, dûment constatés en application des articles L. 125-1, L. 122-7 et L. 128-1 du code des assurances ;
+-travaux consécutifs à une catastrophe naturelle ou technologique, ou aux effets du vent dû aux tempêtes, ouragans et cyclones, dûment constatés en application des articles L. 125-1, L. 122-7 et L. 128-1 du code des assurances ;
 
-- travaux sur des immeubles ou logements situés dans le périmètre d'une OPAH prévue à l'article 6 de la loi n° 90-449 du 31 mai 1990 modifiée visant la mise en œuvre du droit au logement, ou d'un plan de sauvegarde prévu à l'article L. 615-1 du CCH, ou lorsqu'un administrateur provisoire a été désigné, conformément aux dispositions de l'article 29-1 de la loi n° 65-557 du 10 juillet 1965 ;
+-travaux sur des immeubles ou logements situés dans le périmètre d'une OPAH prévue à l'article 6 de la loi n° 90-449 du 31 mai 1990 modifiée visant la mise en œuvre du droit au logement, ou d'un plan de sauvegarde prévu à l'article L. 615-1 du CCH, ou lorsqu'un administrateur provisoire a été désigné, conformément aux dispositions de l'article 29-1 de la loi n° 65-557 du 10 juillet 1965 ;
 
-- travaux relatifs à la prévention des risques naturels ou technologiques ou visant à lutter contre les nuisances sonores aux abords des aérodromes ou autre site particulièrement exposé.
+-travaux relatifs à la prévention des risques naturels ou technologiques ou visant à lutter contre les nuisances sonores aux abords des aérodromes ou autre site particulièrement exposé.
 
 Article 7
 
@@ -170,7 +170,7 @@ Article 7-A
 
 Opérations comportant des réservations de logements
 
-I. - L'octroi d'une aide de l'agence peut dans certains cas être subordonné, pour les bailleurs visés aux 1° et 10° du I de l'article R. 321-12 du code de la construction et de l'habitation (CCH) et pour l'établissement public de gestion immobilière de Nord - Pas-de-Calais institué par l'article 191 de la loi n° 2000-1208 du 13 décembre 2000, à la mise en place d'un droit de réservation avec droit de suite sur un ou plusieurs logements. Ne sont concernés par cette disposition que les logements faisant l'objet d'une convention au titre des articles L. 321-4 ou L. 321-8 du CCH. Ces conventions portent mention de ces engagements particuliers.
+I.-L'octroi d'une aide de l'agence peut dans certains cas être subordonné, pour les bailleurs visés aux 1° et 10° du I de l'article R. 321-12 du code de la construction et de l'habitation (CCH) et pour l'établissement public de gestion immobilière de Nord-Pas-de-Calais institué par l'article 191 de la loi n° 2000-1208 du 13 décembre 2000, à la mise en place d'un droit de réservation avec droit de suite sur un ou plusieurs logements. Ne sont concernés par cette disposition que les logements faisant l'objet d'une convention au titre des articles L. 321-4 ou L. 321-8 du CCH. Ces conventions portent mention de ces engagements particuliers.
 
 En application de l'article R. 321-17 du CCH, le conseil d'administration fixe, par délibération, les caractéristiques des dossiers pour lesquels cet engagement de réservation revêt un caractère obligatoire, en fonction notamment du nombre de logements qui font l'objet de la demande d'aide. Il détermine, pour ces dossiers, la quotité de logement devant faire l'objet de réservation ainsi que des critères de sélection des logements réservés.
 
@@ -180,7 +180,7 @@ Ces engagements portent sur toute la durée de validité de la convention conclu
 
 Cette convention de réservation comporte les clauses types figurant en annexe au présent RGA.
 
-II. - La décision d'attribution de la subvention notifiée au bailleur concerné par des engagements de réservation comporte la mention de l'obligation de conclure une convention de réservation, le cas échéant, les coordonnées du réservataire délégué et les conditions relatives aux délais de conclusion de cette convention.
+II.-La décision d'attribution de la subvention notifiée au bailleur concerné par des engagements de réservation comporte la mention de l'obligation de conclure une convention de réservation, le cas échéant, les coordonnées du réservataire délégué et les conditions relatives aux délais de conclusion de cette convention.
 
 Le réservataire ou, le cas échéant, le réservataire délégué doit transmettre au propriétaire bailleur concerné un projet de convention de réservation conforme aux prescriptions prévues au I de l'article 7-A du présent règlement, dans le mois qui suit la notification de la décision d'attribution de la subvention.
 
@@ -188,7 +188,7 @@ La convention de réservation doit être conclue au plus tard trois mois après 
 
 Si, à l'issue des délais impartis, le réservataire ou, le cas échéant, le réservataire délégué n'a pas proposé de projet de convention ou si la convention n'a pas été conclue, sans que cela puisse être imputable au bailleur, ce dernier est dégagé de son obligation.
 
-III. - En dehors des cas visés au I du présent article, où l'engagement de réservation revêt un caractère obligatoire, le conseil d'administration peut fixer les conditions dans lesquelles une aide majorée peut être accordée aux bailleurs qui contractent des engagements de réservation pour un ou plusieurs logements. Dans ce cas, le propriétaire présente, à l'appui de sa demande, le projet de convention de réservation ayant recueilli l'accord soit du réservataire, soit du réservataire délégué de son choix.
+III.-En dehors des cas visés au I du présent article, où l'engagement de réservation revêt un caractère obligatoire, le conseil d'administration peut fixer les conditions dans lesquelles une aide majorée peut être accordée aux bailleurs qui contractent des engagements de réservation pour un ou plusieurs logements. Dans ce cas, le propriétaire présente, à l'appui de sa demande, le projet de convention de réservation ayant recueilli l'accord soit du réservataire, soit du réservataire délégué de son choix.
 
 Article 7-B
 
@@ -232,7 +232,7 @@ Tout usage des informations nominatives à des fins commerciales est prohibé.
 
 Toute personne qui travaille à l'ANAH ou pour le compte de l'ANAH ou par délégation de l'ANAH, ou qui assiste aux réunions de la CLAH ou de la commission des recours, est tenue au respect de la confidentialité des données nominatives dont elle peut avoir connaissance et de toutes informations tenant à la vie privée des demandeurs.
 
-C. - Octroi de la subvention
+C.-Octroi de la subvention
 
 Article 11
 
@@ -264,7 +264,7 @@ Constituent des aides publiques, au sens de l'article R. 321-17 du CCH, les subv
 
 Toutefois, ce plafond peut être porté, à titre exceptionnel, jusqu'à 100 % pour des opérations spécifiques visant à préserver la santé ou la sécurité des personnes et des biens ou certaines opérations à caractère social définies par délibération du conseil d'administration.
 
-D. - Règles relatives à la réalisation des travaux
+D.-Règles relatives à la réalisation des travaux
 
 Article 13
 
@@ -276,43 +276,43 @@ Lorsqu'en application de l'article R. 321-18 du CCH les travaux sont réalisés 
 
 Les coûts pris en compte dans les conditions fixées par le conseil d'administration sont :
 
-- les montants de travaux subventionnables par l'ANAH réalisés, le cas échéant, par des entreprises ;
+-les montants de travaux subventionnables par l'ANAH réalisés, le cas échéant, par des entreprises ;
 
-- pour la partie de travaux réalisés en autoréhabilitation encadrée : le coût d'achat des matériaux, de petits matériels et de location éventuelle de matériel pour le chantier ;
+-pour la partie de travaux réalisés en autoréhabilitation encadrée : le coût d'achat des matériaux, de petits matériels et de location éventuelle de matériel pour le chantier ;
 
-- le montant des éventuelles missions de diagnostic, maîtrise d'œuvre ou autres études techniques relevant de prestations intellectuelles ;
+-le montant des éventuelles missions de diagnostic, maîtrise d'œuvre ou autres études techniques relevant de prestations intellectuelles ;
 
-- le montant de l'encadrement technique.
+-le montant de l'encadrement technique.
 
 Article 14
 
 Délais de commencement et de réalisation des travaux (R. 321-19)
 
-I. - Les travaux doivent commencer dans les conditions et délais suivants :
+I.-Les travaux doivent commencer dans les conditions et délais suivants :
 
 1° Si une avance mentionnée à l'article R. 321-18 a été versée au bénéficiaire de la subvention, les travaux doivent débuter dans le délai de six mois à compter de la date de la notification de la décision attributive de la subvention.
 
 En cas de non-respect de ce délai, l'avance versée doit être remboursée dans les conditions fixées à l'article 21 bis du présent règlement. Toutefois, sur demande motivée du bénéficiaire, un délai supplémentaire de six mois maximum peut être accordé par le délégué de l'agence dans le département ou le délégataire, notamment lorsque des circonstances extérieures à la volonté du demandeur ont fait obstacle au commencement des travaux, telles que :
 
-- un motif d'ordre familial ou de santé ;
+-un motif d'ordre familial ou de santé ;
 
-- l'indisponibilité ou la défaillance de l'entreprise attestée par l'entreprise elle-même, un maître d'œuvre ou un organisme chargé de l'assistance à maîtrise d'ouvrage ;
+-l'indisponibilité ou la défaillance de l'entreprise attestée par l'entreprise elle-même, un maître d'œuvre ou un organisme chargé de l'assistance à maîtrise d'ouvrage ;
 
 2° Dans tous les cas : la décision d'octroi de la subvention devient caduque si les travaux ne sont pas commencés dans le délai d'un an à compter de la notification de la décision attributive de subvention.
 
 Le report de ce délai peut être accordé, sur demande motivée du bénéficiaire, par le délégué de l'agence dans le département ou le délégataire pour les mêmes motifs qu'au 1° du présent article. Cette prorogation ne pourra pas dépasser un an.
 
-II. - L'achèvement des travaux doit être justifié par le bénéficiaire de la subvention sous peine de retrait de la décision d'octroi de la subvention et du remboursement des sommes déjà perçues, dans un délai de trois ans, ou de cinq ans lorsque les travaux portent sur les immeubles faisant l'objet d'un Plan de sauvegarde des copropriétés en difficulté, à compter de la notification de la décision attributive de la subvention.
+II.-L'achèvement des travaux doit être justifié par le bénéficiaire de la subvention sous peine de retrait de la décision d'octroi de la subvention et du remboursement des sommes déjà perçues, dans un délai de trois ans, ou de cinq ans lorsque les travaux portent sur les immeubles faisant l'objet d'un Plan de sauvegarde des copropriétés en difficulté, à compter de la notification de la décision attributive de la subvention.
 
 Sur demande motivée du bénéficiaire de la subvention, une prorogation de ces délais, de deux ans maximum, peut être accordée par le délégué de l'agence dans le département ou le délégataire, notamment lorsque des circonstances extérieures à la volonté du demandeur ont fait obstacle à la réalisation des travaux, telles que :
 
-- un motif d'ordre familial ou de santé ;
+-un motif d'ordre familial ou de santé ;
 
-- une défaillance d'entreprise ;
+-une défaillance d'entreprise ;
 
-- des difficultés importantes d'exécution.
+-des difficultés importantes d'exécution.
 
-E. - Conditions d'attribution des aides et engagements d'occupation des logements
+E.-Conditions d'attribution des aides et engagements d'occupation des logements
 
 Article 15
 
@@ -364,25 +364,25 @@ Locaux à usage d'habitation inclus dans un bail commercial (R. 321-12 [II])
 
 Pour pouvoir bénéficier de cette aide, l'exploitant et, le cas échéant, le propriétaire des murs, s'engage dans une convention, dont les clauses types sont déterminées par le conseil d'administration, à :
 
-- maintenir son activité pendant une durée minimale de neuf ans en tout ou partie au profit de personnes défavorisées au sens de l'article 1er de la loi n° 90-449 du 31 mai 1990 ;
+-maintenir son activité pendant une durée minimale de neuf ans en tout ou partie au profit de personnes défavorisées au sens de l'article 1er de la loi n° 90-449 du 31 mai 1990 ;
 
-- respecter des plafonds de prix de location définis par le délégué de l'agence dans le département ou le délégataire sans pouvoir dépasser des limites fixées par le conseil d'administration ;
+-respecter des plafonds de prix de location définis par le délégué de l'agence dans le département ou le délégataire sans pouvoir dépasser des limites fixées par le conseil d'administration ;
 
-- le cas échéant, louer ces locaux à des services ou opérateurs sociaux visés par la convention, aux fins d'hébergement de personnes défavorisées visées à l'article 1er de la loi précitée, ou à des personnes désignées par ses services ou opérateurs sociaux dans les conditions prévues par la convention.
+-le cas échéant, louer ces locaux à des services ou opérateurs sociaux visés par la convention, aux fins d'hébergement de personnes défavorisées visées à l'article 1er de la loi précitée, ou à des personnes désignées par ses services ou opérateurs sociaux dans les conditions prévues par la convention.
 
 La conclusion de cette convention peut être assortie de garanties telles qu'un nantissement.
 
 A l'issue des travaux :
 
-- l'exploitant doit attester avoir rempli les obligations prévues aux articles L. 1334-8 et 1334-9 du code de la santé publique ;
+-l'exploitant doit attester avoir rempli les obligations prévues aux articles L. 1334-8 et 1334-9 du code de la santé publique ;
 
-- l'immeuble doit respecter les dispositions du règlement sanitaire départemental relatives aux garnis et meublés et les articles R. 123-1 et suivants du CCH.
+-l'immeuble doit respecter les dispositions du règlement sanitaire départemental relatives aux garnis et meublés et les articles R. 123-1 et suivants du CCH.
 
 2. Le titulaire du bail commercial portant en partie sur des locaux affectés à l'habitation peut bénéficier d'une aide de l'agence pour réaliser des travaux d'amélioration ou d'accès dans ces locaux s'il s'engage :
 
-- soit à ce que le logement soit loué selon les mêmes modalités que celles applicables aux propriétaires bailleurs visés à l'article R. 321-12 (I, 1°) du CCH (cf. art. 15-A) ;
+-soit à ce que le logement soit loué selon les mêmes modalités que celles applicables aux propriétaires bailleurs visés à l'article R. 321-12 (I, 1°) du CCH (cf. art. 15-A) ;
 
-- soit à occuper lui-même le logement dans les mêmes conditions que celles applicables aux propriétaires occupants visés à l'article R. 321-12 (I, 2°) (cf. art. 15-D). Cette possibilité n'est offerte que pour des logements occupés par des personnes dont l'ensemble des ressources répond aux conditions définies par l'arrêté visé au dernier alinéa de l'article R. 321-12 (I) du CCH.
+-soit à occuper lui-même le logement dans les mêmes conditions que celles applicables aux propriétaires occupants visés à l'article R. 321-12 (I, 2°) (cf. art. 15-D). Cette possibilité n'est offerte que pour des logements occupés par des personnes dont l'ensemble des ressources répond aux conditions définies par l'arrêté visé au dernier alinéa de l'article R. 321-12 (I) du CCH.
 
 Article 15-D
 
@@ -416,23 +416,23 @@ Article 15-H
 
 Syndicats de copropriétaires (R. 321-12 [I, 7° et 8°])
 
-I. - En application des 7° et 8° de l'article R. 321-12 du CCH, les syndicats de copropriétaires peuvent bénéficier des aides de l'agence lorsque les travaux portent sur :
+I.-En application des 7° et 8° de l'article R. 321-12 du CCH, les syndicats de copropriétaires peuvent bénéficier des aides de l'agence lorsque les travaux portent sur :
 
 1° Les parties communes et équipements communs d'un immeuble en copropriété :
 
-- faisant l'objet du plan de sauvegarde prévu à l'article L. 615-1 du CCH ;
+-faisant l'objet du plan de sauvegarde prévu à l'article L. 615-1 du CCH ;
 
-- situé dans le périmètre d'une opération programmée d'amélioration de l'habitat prévue à l'article 6 de la loi n° 90-449 du 31 mai 1990 modifiée visant la mise en œuvre du droit au logement ;
+-situé dans le périmètre d'une opération programmée d'amélioration de l'habitat prévue à l'article 6 de la loi n° 90-449 du 31 mai 1990 modifiée visant la mise en œuvre du droit au logement ;
 
 2° Pour l'ensemble des mesures prescrites lorsque :
 
-- un arrêté d'insalubrité est pris en application des articles L. 1331-26 et suivants du code de la santé publique ;
+-un arrêté d'insalubrité est pris en application des articles L. 1331-26 et suivants du code de la santé publique ;
 
-- une notification de travaux est prise en application de l'article L. 1334-2 du même code (travaux d'élimination des peintures au plomb) ;
+-une notification de travaux est prise en application de l'article L. 1334-2 du même code (travaux d'élimination des peintures au plomb) ;
 
-- un arrêté de péril est pris en application des articles L. 511-1 et suivants du CCH ;
+-un arrêté de péril est pris en application des articles L. 511-1 et suivants du CCH ;
 
-- ou un arrêté est pris en application des articles L. 129-1 et suivants du CCH (travaux de sécurité des équipements communs), a été notifié au syndicat de copropriétaires sur l'immeuble ;
+-ou un arrêté est pris en application des articles L. 129-1 et suivants du CCH (travaux de sécurité des équipements communs), a été notifié au syndicat de copropriétaires sur l'immeuble ;
 
 3° Lorsque la subvention est attribuée en vue de réaliser des travaux destinés à mettre fin au caractère indigne des logements ou des bâtiments dans lesquels ils sont situés, au sens de l'article 4 de la loi n° 90-449 du 31 mai 1990, selon des modalités définies par le règlement général de l'agence.
 
@@ -442,19 +442,19 @@ Sont visés à ce titre les logements dont l'état, ou celui du bâtiment dans l
 
 5° Pour le financement des travaux d'accessibilité portant sur les parties communes ou équipements communs de l'immeuble.
 
-II. - Pour l'application du 3° du I du présent article, le caractère indigne des logements ou des immeubles au sens de la loi précitée est apprécié sur la base d'un rapport d'analyse de l'insalubrité, établi par un professionnel qualifié. Ce rapport d'analyse concerne des immeubles qui, bien que ne faisant pas l'objet d'un arrêté d'insalubrité, présentent un niveau de dégradation du bâtiment comparable à celui observé dans le cadre d'un arrêté.
+II.-Pour l'application du 3° du I du présent article, le caractère indigne des logements ou des immeubles au sens de la loi précitée est apprécié sur la base d'un rapport d'analyse de l'insalubrité, établi par un professionnel qualifié. Ce rapport d'analyse concerne des immeubles qui, bien que ne faisant pas l'objet d'un arrêté d'insalubrité, présentent un niveau de dégradation du bâtiment comparable à celui observé dans le cadre d'un arrêté.
 
 La production de ce rapport spécifique est obligatoire, pour que l'aide puisse être accordée au titre du syndicat et pour étayer la demande de financement dans les conditions de l'habitat indigne.
 
-Le contenu du rapport d'analyse de l'insalubrité est celui fixé par la grille d'insalubrité publiée en annexe V de l'instruction n° I.2007-03 du 31 décembre 2007 relative aux subventions de l'ANAH dans le cadre de la lutte contre l'habitat indigne dans le Bulletin officiel du MEEDDAT n° 2008-03 du 25 février 2008.
+Le contenu du rapport d'analyse de l'insalubrité est celui fixé par la grille d'insalubrité publiée en annexe V de l'instruction n° I. 2007-03 du 31 décembre 2007 relative aux subventions de l'ANAH dans le cadre de la lutte contre l'habitat indigne dans le Bulletin officiel du MEEDDAT n° 2008-03 du 25 février 2008.
 
 Au vu de ce rapport et de la cotation qui en découle, le délégué de l'agence dans le département ou le délégataire décide si le bien relève d'une situation d'insalubrité et fixe les conditions de son financement dans les conditions et limites fixées par le conseil d'administration.
 
-III. - Pour l'application du présent article, seuls les immeubles affectés de manière prépondérante à usage d'habitation principale (au minimum de 75 % des lots ou à défaut 75 % des tantièmes dédiés à l'habitation) peuvent bénéficier des aides au syndicat de copropriétaires. Cette disposition s'applique également aux immeubles en plan de sauvegarde des copropriétés en difficulté.
+III.-Pour l'application du présent article, seuls les immeubles affectés de manière prépondérante à usage d'habitation principale (au minimum de 75 % des lots ou à défaut 75 % des tantièmes dédiés à l'habitation) peuvent bénéficier des aides au syndicat de copropriétaires. Cette disposition s'applique également aux immeubles en plan de sauvegarde des copropriétés en difficulté.
 
 Les aides aux syndicats sont calculées dans tous les cas sur la totalité des travaux subventionnables appliqués à la totalité des lots d'habitation.
 
-IV. - L'attribution d'une subvention au syndicat des copropriétaires peut être cumulée, pour les mêmes travaux, avec des aides individuelles aux copropriétaires. Le cumul des aides individuelles et de l'aide directe au syndicat des propriétaires ne peut dépasser le montant maximum susceptible d'être versé au seul syndicat.
+IV.-L'attribution d'une subvention au syndicat des copropriétaires peut être cumulée, pour les mêmes travaux, avec des aides individuelles aux copropriétaires. Le cumul des aides individuelles et de l'aide directe au syndicat des propriétaires ne peut dépasser le montant maximum susceptible d'être versé au seul syndicat.
 
 Les conditions d'octroi d'aides ainsi cumulées doivent respecter les conditions suivantes :
 
@@ -464,11 +464,11 @@ Une telle étude peut être réalisée sur l'initiative de l'opérateur de suivi
 
 Cette étude doit comporter les éléments suivants :
 
-- les travaux qui feraient l'objet de demandes cumulées et leur coût ;
+-les travaux qui feraient l'objet de demandes cumulées et leur coût ;
 
-- les caractéristiques de la copropriété et des copropriétaires susceptibles de demander une aide individuelle ;
+-les caractéristiques de la copropriété et des copropriétaires susceptibles de demander une aide individuelle ;
 
-- des simulations financières permettant de comparer plusieurs scénarios d'aides au seul syndicat, ou au syndicat et aux copropriétaires individuellement, selon diverses hypothèses portant sur les taux de subvention au syndicat ou aux copropriétaires et sur le classement prioritaire ou non des demandes individuelles en fonction de critères précisés par l'étude (caractéristiques des demandeurs, engagements pris par les propriétaires...).
+-des simulations financières permettant de comparer plusieurs scénarios d'aides au seul syndicat, ou au syndicat et aux copropriétaires individuellement, selon diverses hypothèses portant sur les taux de subvention au syndicat ou aux copropriétaires et sur le classement prioritaire ou non des demandes individuelles en fonction de critères précisés par l'étude (caractéristiques des demandeurs, engagements pris par les propriétaires...).
 
 Cette étude tient également compte des aides de l'agence déjà accordées à titre individuel pour les travaux sur parties communes.
 
@@ -482,9 +482,9 @@ Dans l'affirmative, il précise les conditions dans lesquelles l'aide au syndica
 
 Cet avis doit en outre indiquer :
 
-- qu'il ne préjuge pas de l'attribution de subvention ;
+-qu'il ne préjuge pas de l'attribution de subvention ;
 
-- que cet avis pourra être remis en cause, notamment en cas d'évolutions survenant entre la notification de l'avis préalable et le dépôt du ou des dossiers de demande de subvention (en particulier : évolution substantielle du coût prévisionnel des travaux, évolutions des règles de financement décidées par le conseil d'administration, évolution du contexte en matière de budget local d'intervention) ;
+-que cet avis pourra être remis en cause, notamment en cas d'évolutions survenant entre la notification de l'avis préalable et le dépôt du ou des dossiers de demande de subvention (en particulier : évolution substantielle du coût prévisionnel des travaux, évolutions des règles de financement décidées par le conseil d'administration, évolution du contexte en matière de budget local d'intervention) ;
 
 2° Sur la base de cet avis préalable, le dossier de demandes cumulées d'aide au syndicat et d'aides individuelles est constitué.
 
@@ -504,11 +504,11 @@ Les demandes individuelles déposées après la notification de la décision d'a
 
 6° Les copropriétaires bénéficiaires de l'aide individuelle complémentaire à l'aide accordée au syndicat restent soumis aux conditions d'engagement et d'occupation du logement précisées à l'article R. 321-20 du CCH et au 15 du présent règlement.
 
-V. - L'attribution d'une subvention à un syndicat de copropriétaire peut être conditionnée à la mise en œuvre de moyens comptables et financiers permettant l'affectation des subventions au profit exclusif des travaux subventionnés, à savoir l'ouverture d'un compte bancaire spécifique pour travaux. Pour cela, le conseil d'administration de l'agence :
+V.-L'attribution d'une subvention à un syndicat de copropriétaire peut être conditionnée à la mise en œuvre de moyens comptables et financiers permettant l'affectation des subventions au profit exclusif des travaux subventionnés, à savoir l'ouverture d'un compte bancaire spécifique pour travaux. Pour cela, le conseil d'administration de l'agence :
 
-- détermine les seuils au-delà desquels cette condition sera rendue obligatoire ;
+-détermine les seuils au-delà desquels cette condition sera rendue obligatoire ;
 
-- prévoit les cas où un compte séparé établi au nom du syndicat des copropriétaires pourra suffire.
+-prévoit les cas où un compte séparé établi au nom du syndicat des copropriétaires pourra suffire.
 
 Dans les cas où un compte bancaire spécifique pour les travaux est obligatoire, le justificatif d'ouverture d'un tel compte est une pièce constitutive du dossier de demande de subvention.
 
@@ -564,7 +564,7 @@ Lorsque la visite met en évidence le non-respect des obligations réglementaire
 
 En cas d'entrave à la réalisation du contrôle sur place, les documents mettant en évidence la carence du bénéficiaire de la subvention, ou de son mandataire, sont versés au dossier. Ils peuvent être mentionnés dans les motifs d'une éventuelle décision de rejet, de retrait, de reversement, de remboursement ou de sanction.
 
-F. - Paiement de la subvention (production des justificatifs, liquidation et mise en paiement des subventions)
+F.-Paiement de la subvention (production des justificatifs, liquidation et mise en paiement des subventions)
 
 Article 18
 
@@ -576,7 +576,7 @@ Article 18 bis
 
 Avance sur subvention (R. 321-18)
 
-I . - Une avance peut être mise en paiement par le délégué de l'agence dans le département, ou par le délégataire pour la part relevant des crédits délégués par l'ANAH et lorsque la convention conclue en application de l'article L. 321-1-1 prévoit qu'il est également en charge du paiement des aides de l'ANAH.
+I.-Une avance peut être mise en paiement par le délégué de l'agence dans le département, ou par le délégataire pour la part relevant des crédits délégués par l'ANAH et lorsque la convention conclue en application de l'article L. 321-1-1 prévoit qu'il est également en charge du paiement des aides de l'ANAH.
 
 Cette avance est versée en application de l'article R. 321-18 du CCH et dans les conditions de l'article 18 du présent RGA aux :
 
@@ -584,21 +584,21 @@ Cette avance est versée en application de l'article R. 321-18 du CCH et dans le
 
 2° Syndicats de copropriétaires définis au 7° du I de l'article R. 321-12, dans la limite de 40 % du montant prévisionnel de la subvention.
 
-II. - La demande d'avance, adressée avant le début des travaux au délégué de l'agence dans le département ou au délégataire, doit comporter les engagements datés et signés du bénéficiaire relatifs au délai de commencement des travaux et au remboursement de toutes sommes versées en cas de non-respect de ce délai, le cas échéant prorogé, ou de toutes autres obligations réglementaires liées au bénéfice de cette avance.
+II.-La demande d'avance, adressée avant le début des travaux au délégué de l'agence dans le département ou au délégataire, doit comporter les engagements datés et signés du bénéficiaire relatifs au délai de commencement des travaux et au remboursement de toutes sommes versées en cas de non-respect de ce délai, le cas échéant prorogé, ou de toutes autres obligations réglementaires liées au bénéfice de cette avance.
 
 Pour être recevable, la demande doit être accompagnée des pièces figurant en annexe du présent RGA, notamment :
 
-- dans tous les cas, au moins un devis d'entreprise participant à la réalisation des travaux subventionnés, daté et signé par l'entreprise et par le bénéficiaire ou son mandataire et faisant mention d'une demande d'acompte à l'acceptation du devis ou pour le démarrage des travaux ;
+-dans tous les cas, au moins un devis d'entreprise participant à la réalisation des travaux subventionnés, daté et signé par l'entreprise et par le bénéficiaire ou son mandataire et faisant mention d'une demande d'acompte à l'acceptation du devis ou pour le démarrage des travaux ;
 
-- en ce qui concerne les bénéficiaires mentionnés au 2° ci-dessus, une attestation du syndic informant du démarrage des travaux dans un délai de trois mois maximum.
+-en ce qui concerne les bénéficiaires mentionnés au 2° ci-dessus, une attestation du syndic informant du démarrage des travaux dans un délai de trois mois maximum.
 
 Pour les bénéficiaires mentionnés au 2° ci-dessus, le versement de l'avance est conditionné à la mise en œuvre de moyens comptable et financier permettant l'affectation des subventions au profit exclusif des travaux subventionnés (compte bancaire spécifique travaux), dans les conditions fixées au V de l'article 15-H du présent règlement et par le conseil d'administration.
 
 Le délégué de l'agence dans le département ou le délégataire peut solliciter la production de toute attestation fournie par l'entreprise, ou l'organisme chargé de l'assistance à maîtrise d'ouvrage ou des missions de suivi animation dans le cadre d'une opération programmée, permettant de vérifier le bien-fondé de la demande d'avance. Le versement d'une avance peut être refusé si le délégué de l'agence dans le département ou le délégataire estime insuffisants les éléments de preuve donnés.
 
-III. - Le montant maximal pouvant être versé sous forme d'avance est fixé par le conseil d'administration.
+III.-Le montant maximal pouvant être versé sous forme d'avance est fixé par le conseil d'administration.
 
-IV. - Cette disposition s'applique aux subventions accordées à compter du 1er janvier 2009 et n'ayant pas encore fait l'objet d'un versement d'acompte et jusqu'à une date précisée par délibération du conseil d'administration.
+IV.-Cette disposition s'applique aux subventions accordées à compter du 1er janvier 2009 et n'ayant pas encore fait l'objet d'un versement d'acompte et jusqu'à une date précisée par délibération du conseil d'administration.
 
 Article 19
 
@@ -622,9 +622,9 @@ Un mandataire peut être désigné par le bénéficiaire de la subvention pour p
 
 Si le bénéficiaire de la subvention désigne un mandataire pour percevoir la subvention, une procuration doit être établie dans les cas mentionnés ci-dessous :
 
-- pour les subventions de montant inférieur ou égal à 5 300 €, quel que soit le type de bénéficiaire, une procuration sous seing privé sera demandée ;
+-pour les subventions de montant inférieur ou égal à 5 300 €, quel que soit le type de bénéficiaire, une procuration sous seing privé sera demandée ;
 
-- pour les subventions supérieures à 5 300 €, une procuration notariée sera demandée sauf pour les bénéficiaires visés aux 2° et 3° du I de l'article R. 321-12 du CCH qui devront produire une procuration sous seing privé.
+-pour les subventions supérieures à 5 300 €, une procuration notariée sera demandée sauf pour les bénéficiaires visés aux 2° et 3° du I de l'article R. 321-12 du CCH qui devront produire une procuration sous seing privé.
 
 Aucune procuration ne sera exigée en présence d'un mandat de gestion valide du bénéficiaire à un professionnel de la gestion immobilière dans le cadre de la loi n° 70-10 du 2 janvier 1970 dite loi Hoguet, quel que soit le montant de la subvention et si le mandat de gestion correspond à l'immeuble subventionné.
 
@@ -638,17 +638,17 @@ Le délégué de l'agence dans le département, après avoir examiné et vérifi
 
 Le délégué de l'agence dans le département atteste et certifie l'exactitude des éléments retenus pour cette liquidation :
 
-- l'identité et la qualité du bénéficiaire ;
+-l'identité et la qualité du bénéficiaire ;
 
-- la régularité et la conformité des factures produites ou autres documents produits prévus à l'annexe 1 avec le projet, objet de la décision attributive de subvention ;
+-la régularité et la conformité des factures produites ou autres documents produits prévus à l'annexe 1 avec le projet, objet de la décision attributive de subvention ;
 
-- la nature et le montant des travaux retenus au regard de ces factures ;
+-la nature et le montant des travaux retenus au regard de ces factures ;
 
-- la présentation des documents justifiant l'occupation des logements et, éventuellement, ceux relatifs aux engagements spécifiques d'occupation, et, le cas échéant, la validité du mandat présenté par le mandataire désigné pour percevoir les fonds.
+-la présentation des documents justifiant l'occupation des logements et, éventuellement, ceux relatifs aux engagements spécifiques d'occupation, et, le cas échéant, la validité du mandat présenté par le mandataire désigné pour percevoir les fonds.
 
 Si la convention de gestion prévoit que l'instruction et le paiement incombent au délégataire, les opérations correspondantes sont effectuées sous sa responsabilité et le paiement par le comptable accrédité.
 
-G. - Autres décisions (retrait, reversement, remboursement, sanction)
+G.-Autres décisions (retrait, reversement, remboursement, sanction)
 
 Article 21
 
@@ -658,23 +658,23 @@ En cas de non-respect des prescriptions relatives aux aides de l'ANAH (articles 
 
 1° Lorsqu'elles sont prononcées avant le versement du solde de la subvention, les décisions de retrait et de reversement sont prises :
 
-- pour les territoires concernés par une convention de gestion prévue à l'article L. 321-1-1 du CCH, dans son champ de compétence, par le délégataire en application du 3° de l'article R. 321-10-1 du CCH ;
+-pour les territoires concernés par une convention de gestion prévue à l'article L. 321-1-1 du CCH, dans son champ de compétence, par le délégataire en application du 3° de l'article R. 321-10-1 du CCH ;
 
-- pour les territoires hors délégation de compétence, par le délégué de l'agence dans le département en application du c du 4° du II de l'article R. 321-11 du CCH.
+-pour les territoires hors délégation de compétence, par le délégué de l'agence dans le département en application du c du 4° du II de l'article R. 321-11 du CCH.
 
 Par exception à ces dispositions, les décisions de retrait ou de reversement avant solde sont prises :
 
-- par le délégataire ayant attribué la subvention lorsque, sur le territoire concerné, un autre délégataire ou le délégué de l'agence dans le département est depuis lors devenu compétent pour attribuer les subventions ;
+-par le délégataire ayant attribué la subvention lorsque, sur le territoire concerné, un autre délégataire ou le délégué de l'agence dans le département est depuis lors devenu compétent pour attribuer les subventions ;
 
-- par le délégué de l'agence dans le département, lorsque, sur le territoire concerné, un délégataire s'est depuis lors substitué au délégué de l'agence dans le département, ou à la commission d'amélioration de l'habitat, en tant qu'autorité compétente pour attribuer les subventions ;
+-par le délégué de l'agence dans le département, lorsque, sur le territoire concerné, un délégataire s'est depuis lors substitué au délégué de l'agence dans le département, ou à la commission d'amélioration de l'habitat, en tant qu'autorité compétente pour attribuer les subventions ;
 
 2° Lorsqu'elles sont prononcées après le versement du solde de la subvention, les décisions de retrait et de reversement sont prises par le directeur général de l'agence ;
 
 3° Les décisions de retrait et de reversement sont prises après avis :
 
-- pour les territoires concernés par une convention de gestion prévue à l'article L. 321-1-1 du CCH, de la CLAH mentionnée au II de l'article R. 321-10 du CCH ;
+-pour les territoires concernés par une convention de gestion prévue à l'article L. 321-1-1 du CCH, de la CLAH mentionnée au II de l'article R. 321-10 du CCH ;
 
-- pour les territoires hors délégation de compétence, de la CLAH mentionnée au I de l'article R. 321-10 du CCH.
+-pour les territoires hors délégation de compétence, de la CLAH mentionnée au I de l'article R. 321-10 du CCH.
 
 Préalablement à toute décision de retrait ou de reversement, un courrier est adressé à la personne intéressée pour l'informer de la mise en œuvre de la procédure et l'inviter à présenter ses observations dans un délai qu'il fixe mais qui ne saurait excéder deux mois. Cette disposition peut ne pas être appliquée dans le cas où une procédure contradictoire a déjà été mise en œuvre, lorsque les délais requis au 2° du I et au II de l'article 14 du présent règlement sont dépassés et ne sont plus prorogeables, et que la procédure de retrait ou de reversement est consécutive à la caducité de la décision d'attribution.
 
@@ -690,9 +690,9 @@ c) Concernant les bénéficiaires mentionnés aux I (1°) et II de l'article R. 
 
 d) Concernant les bénéficiaires et propriétaires occupants mentionnés au I (2° et 3°) de l'article R. 321-12 du CCH :
 
-- en cas de vente du logement subventionné, le reversement peut être prononcé sauf si les acquéreurs justifient, de façon expresse, du respect de l'ensemble des engagements réglementaires d'occupation fixés à l'article R. 321-20 du CCH et répondent aux conditions de ressources définies à l'article R. 321-12 ;
+-en cas de vente du logement subventionné, le reversement peut être prononcé sauf si les acquéreurs justifient, de façon expresse, du respect de l'ensemble des engagements réglementaires d'occupation fixés à l'article R. 321-20 du CCH et répondent aux conditions de ressources définies à l'article R. 321-12 ;
 
-- en cas de décès du bénéficiaire de la subvention, une décision de reversement ne peut pas être prononcée à l'encontre des héritiers.
+-en cas de décès du bénéficiaire de la subvention, une décision de reversement ne peut pas être prononcée à l'encontre des héritiers.
 
 En cas de reprise des engagements réglementaires ou conventionnels, les acquéreurs ou les héritiers signent un formulaire spécifique mis à leur disposition par l'agence.
 
@@ -700,7 +700,7 @@ Article 21 bis
 
 Remboursement de l'avance sur subvention
 
-I. - Remboursement de l'avance sans retrait de la subvention.
+I.-Remboursement de l'avance sans retrait de la subvention.
 
 Le remboursement de l'avance est exigible de droit si les travaux n'ont pas commencé dans les délais impartis visés au 1° du I de l'article 14 du présent règlement, éventuellement prorogés.
 
@@ -716,7 +716,7 @@ Le montant du remboursement correspond à l'intégralité du montant de l'avance
 
 Une décision de remboursement de l'avance ne préjuge en rien de la mise en œuvre ultérieure d'une décision de retrait ou de reversement.
 
-II. - Remboursement de l'avance à la suite du retrait de la subvention.
+II.-Remboursement de l'avance à la suite du retrait de la subvention.
 
 En cas de décision de retrait d'une subvention ayant fait l'objet d'une avance prévue à l'article R. 321-18 du CCH, le remboursement de l'avance est prononcé dans les mêmes conditions qu'à l'article 21 ci-dessus. Aucune exonération de remboursement ne pourra être consentie autre que dans les cas prévus à ce même article. Les dispositions de l'article 22 du présent règlement ne sont pas applicables au remboursement des avances, à l'exception de la disposition relative aux intérêts légaux.
 
@@ -748,9 +748,9 @@ En tant que président de la commission des recours, le directeur général noti
 
 Les observations et demandes d'audition adressées après le terme du délai ne sont pas prises en considération, étant entendu que fait foi, pour la détermination de la date limite :
 
-- pour les envois postaux, le cachet de la poste ;
+-pour les envois postaux, le cachet de la poste ;
 
-- pour les envois par courrier électronique, la date figurant sur l'accusé de réception ou, le cas échéant, sur l'accusé d'enregistrement, dans les conditions fixées par le I de l'article 5 de l'ordonnance n° 2005-1516 du 8 décembre 2005 relative aux échanges électroniques entre les usagers et les autorités administratives.
+-pour les envois par courrier électronique, la date figurant sur l'accusé de réception ou, le cas échéant, sur l'accusé d'enregistrement, dans les conditions fixées par les articles L. 112-11 et L. 112-12 du code des relations entre le public et l'administration.
 
 Au terme de la procédure contradictoire, le cas échéant après présentation de ses observations orales par la personne mise en cause ou son représentant, la commission des recours se prononce, pour avis, sur la sanction envisagée.
 
@@ -770,9 +770,9 @@ Dans ce cadre, le conseil d'administration précise par délibération les dépe
 
 Les prestations subventionnables peuvent être réalisées :
 
-- soit par un opérateur externe distinct du maître d'ouvrage bénéficiaire de la subvention ;
+-soit par un opérateur externe distinct du maître d'ouvrage bénéficiaire de la subvention ;
 
-- soit en régie par le maître d'ouvrage bénéficiaire de la subvention.
+-soit en régie par le maître d'ouvrage bénéficiaire de la subvention.
 
 Lorsque les prestations d'ingénierie de programmes sont réalisées en régie, une subvention peut être accordée si les moyens nécessaires sont rassemblés au sein d'une structure dédiée et clairement identifiée. Seuls les moyens supplémentaires mis en place spécialement pour conduire les prestations et correspondant aux rémunérations de contractuels affectés spécifiquement à cette fin sont pris en compte. Les rémunérations des fonctionnaires territoriaux sont toujours exclues de l'assiette des dépenses de fonctionnement.
 
@@ -794,15 +794,15 @@ A réception de la demande, un récépissé est délivré sans délai par le ser
 
 Le récépissé comporte les mentions suivantes :
 
-- la date de réception de la demande de subvention ;
+-la date de réception de la demande de subvention ;
 
-- la désignation, l'adresse postale et, le cas échéant, électronique ainsi que le numéro de téléphone du service chargé du dossier ;
+-la désignation, l'adresse postale et, le cas échéant, électronique ainsi que le numéro de téléphone du service chargé du dossier ;
 
-- l'information selon laquelle seule une décision expresse d'octroi de subvention engage l'agence sur le plan juridique et financier ;
+-l'information selon laquelle seule une décision expresse d'octroi de subvention engage l'agence sur le plan juridique et financier ;
 
-- le principe selon lequel toute demande qui n'a pas donné lieu à la notification d'une décision dans un délai de quatre mois à compter de la date de réception de la demande de subvention est réputée rejetée ;
+-le principe selon lequel toute demande qui n'a pas donné lieu à la notification d'une décision dans un délai de quatre mois à compter de la date de réception de la demande de subvention est réputée rejetée ;
 
-- les délais et les voies de recours en cas de rejet implicite de la demande.
+-les délais et les voies de recours en cas de rejet implicite de la demande.
 
 Article 27
 
@@ -810,9 +810,9 @@ Autorisation de commencer l'opération
 
 La demande de subvention adressée, le maître d'ouvrage peut commencer l'opération sauf dans le cas du suivi-animation où ce commencement est subordonné :
 
-- d'une part, soit à la signature de la décision d'attribution de la subvention, soit à une autorisation expresse ;
+-d'une part, soit à la signature de la décision d'attribution de la subvention, soit à une autorisation expresse ;
 
-- d'autre part, à la finalisation, après avis de la CLAH, de la convention de programme.
+-d'autre part, à la finalisation, après avis de la CLAH, de la convention de programme.
 
 Article 28
 
@@ -834,15 +834,15 @@ Le délégué de l'agence dans le département ou le délégataire statue sur le
 
 La décision d'attribution de la subvention mentionne :
 
-- les caractéristiques et le coût de l'opération, le taux et le montant de l'aide ;
+-les caractéristiques et le coût de l'opération, le taux et le montant de l'aide ;
 
-- le délai maximum de commencement d'exécution de l'opération ;
+-le délai maximum de commencement d'exécution de l'opération ;
 
-- la durée fixée pour justifier de l'achèvement de l'opération ;
+-la durée fixée pour justifier de l'achèvement de l'opération ;
 
-- les modalités de paiement ;
+-les modalités de paiement ;
 
-- les dispositions relatives à son reversement éventuel.
+-les dispositions relatives à son reversement éventuel.
 
 La subvention est attribuée en une fois, sauf dans le cas des suivis-animations, pour lesquels elle est accordée par tranches annuelles. Une décision d'attribution est alors prise chaque année sur la base du dossier de demande initial pour la première année et du plan de financement de l'année considérée pour chacune des années suivantes.
 
@@ -856,9 +856,9 @@ Délais de commencement et de réalisation des opérations (R. 321-19)
 
 La décision d'octroi de la subvention devient caduque lorsque :
 
-- l'opération n'a pas commencé à être exécutée dans le délai d'un an à compter de la notification de la décision attributive de subvention ;
+-l'opération n'a pas commencé à être exécutée dans le délai d'un an à compter de la notification de la décision attributive de subvention ;
 
-- l'achèvement de l'opération n'a pas été justifié par une demande de paiement adressée par le bénéficiaire dans le délai fixé dans la décision attributive de subvention en fonction des caractéristiques de l'opération. Exceptionnellement, sur demande motivée du bénéficiaire de la subvention formulée avant le terme du délai d'achèvement, une prorogation d'un an maximum peut être accordée par le délégué de l'agence dans le département ou le délégataire.
+-l'achèvement de l'opération n'a pas été justifié par une demande de paiement adressée par le bénéficiaire dans le délai fixé dans la décision attributive de subvention en fonction des caractéristiques de l'opération. Exceptionnellement, sur demande motivée du bénéficiaire de la subvention formulée avant le terme du délai d'achèvement, une prorogation d'un an maximum peut être accordée par le délégué de l'agence dans le département ou le délégataire.
 
 Article 30
 
@@ -934,9 +934,9 @@ Article 34
 
 Les bénéficiaires et structures d'hébergement éligibles
 
-I. - Peuvent bénéficier de subventions sur fonds d'humanisation les propriétaires de l'immeuble ou les gestionnaires non propriétaires titulaires d'un bail ou d'un droit réel immobilier justifié par la copie du titre correspondant.
+I.-Peuvent bénéficier de subventions sur fonds d'humanisation les propriétaires de l'immeuble ou les gestionnaires non propriétaires titulaires d'un bail ou d'un droit réel immobilier justifié par la copie du titre correspondant.
 
-II. - Les bénéficiaires précités susceptibles d'être subventionnés en tant que maîtres d'ouvrage de ces opérations sont :
+II.-Les bénéficiaires précités susceptibles d'être subventionnés en tant que maîtres d'ouvrage de ces opérations sont :
 
 1. Les organismes de logement social, les sociétés d'économie mixte (SEM) ;
 
@@ -946,7 +946,7 @@ II. - Les bénéficiaires précités susceptibles d'être subventionnés en tant
 
 4. A titre exceptionnel et pour des travaux d'ampleur limitée à 100 000 € TTC, un gestionnaire non propriétaire de la structure peut bénéficier de la subvention, sous réserve de disposer d'un acte juridique l'autorisant à réaliser ces travaux (bail ou convention précisant les responsabilités en matière de travaux). Dans ce cas, la durée résiduelle du contrat liant le propriétaire et le gestionnaire devra être supérieure ou égale à la durée d'engagement du bénéficiaire de la subvention à maintenir la fonction d'hébergement.
 
-III. - Les projets et structures d'hébergement éligibles sont :
+III.-Les projets et structures d'hébergement éligibles sont :
 
 1. Des opérations de mise en sécurité ou d'humanisation de tous types de structures d'hébergement, qu'elles soient d'urgence, de stabilisation ou d'insertion, avec ou sans statut de centre d'hébergement et de réinsertion sociale (CHRS) ;
 
@@ -964,15 +964,15 @@ A réception de la demande, un récépissé est délivré sans délai par le ser
 
 Le récépissé comporte les mentions suivantes :
 
-- la date de réception de la demande de subvention ;
+-la date de réception de la demande de subvention ;
 
-- la désignation, l'adresse postale et, le cas échéant, électronique ainsi que le numéro de téléphone du service chargé du dossier ;
+-la désignation, l'adresse postale et, le cas échéant, électronique ainsi que le numéro de téléphone du service chargé du dossier ;
 
-- l'information selon laquelle seule une décision expresse d'octroi de subvention engage l'agence sur le plan juridique et financier ;
+-l'information selon laquelle seule une décision expresse d'octroi de subvention engage l'agence sur le plan juridique et financier ;
 
-- le principe selon lequel toute demande qui n'a pas donné lieu à la notification d'une décision dans un délai de quatre mois à compter de la date de réception de la demande de subvention est réputée rejetée ;
+-le principe selon lequel toute demande qui n'a pas donné lieu à la notification d'une décision dans un délai de quatre mois à compter de la date de réception de la demande de subvention est réputée rejetée ;
 
-- les délais et les voies de recours en cas de rejet implicite de la demande.
+-les délais et les voies de recours en cas de rejet implicite de la demande.
 
 Les modalités de dépôt de la demande et d'enregistrement sont précisées par une instruction du directeur général de l'agence.
 
@@ -1012,47 +1012,47 @@ La notification, au bénéficiaire désigné à l'article 34 du présent règlem
 
 1° Dans le cas d'une subvention portant sur des travaux, cette convention doit mentionner a minima :
 
-- la désignation du bénéficiaire ;
+-la désignation du bénéficiaire ;
 
-- le lieu de situation de l'immeuble concerné par les travaux ;
+-le lieu de situation de l'immeuble concerné par les travaux ;
 
-- la nature des travaux subventionnés ;
+-la nature des travaux subventionnés ;
 
-- le coût de l'opération, le montant TTC des dépenses subventionnables, le taux de subvention et le montant
+-le coût de l'opération, le montant TTC des dépenses subventionnables, le taux de subvention et le montant
 
-- maximum de l'aide ;
+-maximum de l'aide ;
 
-- le délai maximum de commencement d'exécution de l'opération ;
+-le délai maximum de commencement d'exécution de l'opération ;
 
-- le calendrier prévisionnel de réalisation de l'opération et le délai maximum d'achèvement de l'opération ;
+-le calendrier prévisionnel de réalisation de l'opération et le délai maximum d'achèvement de l'opération ;
 
-- le nombre de chambres par type de chambre (individuelles, doubles, le cas échéant, le nombre de places) ;
+-le nombre de chambres par type de chambre (individuelles, doubles, le cas échéant, le nombre de places) ;
 
-- la durée d'engagement à maintenir la fonction d'hébergement de la structure ;
+-la durée d'engagement à maintenir la fonction d'hébergement de la structure ;
 
-- les modalités de paiement ;
+-les modalités de paiement ;
 
-- les modalités de suivi ;
+-les modalités de suivi ;
 
-- les causes de retrait, de réduction ou de reversement de la subvention ;
+-les causes de retrait, de réduction ou de reversement de la subvention ;
 
 2° Dans le cas d'une subvention portant uniquement sur des études, cette convention doit mentionner a minima :
 
-- la désignation du bénéficiaire ;
+-la désignation du bénéficiaire ;
 
-- le lieu de situation de l'immeuble concerné par l'étude ;
+-le lieu de situation de l'immeuble concerné par l'étude ;
 
-- le coût prévisionnel TTC de l'étude subventionnable, le taux de subvention et le montant maximum de l'aide ;
+-le coût prévisionnel TTC de l'étude subventionnable, le taux de subvention et le montant maximum de l'aide ;
 
-- le délai maximum de commencement d'exécution de l'opération ;
+-le délai maximum de commencement d'exécution de l'opération ;
 
-- le calendrier prévisionnel de réalisation de l'étude et le délai maximum de son achèvement ;
+-le calendrier prévisionnel de réalisation de l'étude et le délai maximum de son achèvement ;
 
-- les modalités de paiement ;
+-les modalités de paiement ;
 
-- les modalités de suivi ;
+-les modalités de suivi ;
 
-- les causes de retrait, de réduction ou de reversement de la subvention ;
+-les causes de retrait, de réduction ou de reversement de la subvention ;
 
 3° Dans tous les cas, une fiche récapitulative de calcul devra être annexée à la convention.
 
@@ -1156,7 +1156,7 @@ Article 48
 
 Remboursement de l'avance sur subvention
 
-I. - Remboursement de l'avance sans retrait de la subvention.
+I.-Remboursement de l'avance sans retrait de la subvention.
 
 Le remboursement de l'avance est exigible de plein droit si les travaux n'ont pas commencé dans les délais impartis visés à l'article 43 du présent règlement, éventuellement prorogés.
 
@@ -1170,7 +1170,7 @@ Le montant du remboursement correspond à l'intégralité du montant de l'avance
 
 Une décision de remboursement de l'avance ne préjuge en rien de la mise en œuvre ultérieure d'une décision de retrait ou de reversement.
 
-II. - Remboursement de l'avance à la suite du retrait de la subvention.
+II.-Remboursement de l'avance à la suite du retrait de la subvention.
 
 En cas de décision de retrait d'une subvention ayant fait l'objet d'une avance prévue à l'article R. 321-18 du CCH, le remboursement de l'avance est prononcé dans les mêmes conditions qu'à l'article 47 ci-dessus. La majoration prévue au troisième alinéa de l'article 22 n'est pas applicable aux décisions de remboursement d'une avance.
 
@@ -1230,7 +1230,7 @@ Conditions d'éligibilité au financement relatives aux caractéristiques des im
 
 Sont éligibles à un financement au titre du présent chapitre les immeubles remplissant les conditions suivantes :
 
-I. - Au titre de la RHI :
+I.-Au titre de la RHI :
 
 I-1. Les immeubles présentant les caractéristiques suivantes :
 
@@ -1254,7 +1254,7 @@ I-2. Les immeubles énumérés au I-1 ci-dessus ont le plus souvent vocation à 
 
 3. Ou soumis à des contraintes techniques empêchant leur démolition, la rendant dangereuse ou si, compte tenu des contraintes, la réhabilitation est moins onéreuse que la démolition et reconstruction. Dans ce cas, l'étude comparative des solutions de démolition et de conservation figurera au dossier.
 
-II. - Au titre du dispositif THIRORI :
+II.-Au titre du dispositif THIRORI :
 
 Sont pris en compte les immeubles suivants et qui ne relèvent pas des cas visés au I ci-dessus :
 
@@ -1266,21 +1266,21 @@ Sont pris en compte les immeubles suivants et qui ne relèvent pas des cas visé
 
 4. Immeubles en état d'abandon manifeste en application des articles L. 2243-1 et suivants du code général des collectivités territoriales, s'ils sont contigus aux immeubles visés aux 1 et 2 et que leur traitement est nécessaire à la cohérence globale de l'opération.
 
-III. - Pour l'application des I et II ci-dessus, les immeubles ne sont éligibles à l'aide que s'ils sont significativement occupés, sauf dans les cas particuliers fixés ci-après, lorsque la vacance :
+III.-Pour l'application des I et II ci-dessus, les immeubles ne sont éligibles à l'aide que s'ils sont significativement occupés, sauf dans les cas particuliers fixés ci-après, lorsque la vacance :
 
 a été organisée postérieurement à l'acquisition des immeubles concernés à des fins de protection des habitants, ou du fait d'une obligation de relogement dans le cadre d'une procédure d'insalubrité, de péril ou de prescriptions de mise en sécurité d'établissements recevant du public à usage total ou partiel d'hébergement (hôtels meublés) ;
 
-- concerne des immeubles situés dans un îlot ou mitoyens d'immeubles eux-mêmes éligibles et dont le traitement est techniquement nécessaire à la réalisation de l'opération.
+-concerne des immeubles situés dans un îlot ou mitoyens d'immeubles eux-mêmes éligibles et dont le traitement est techniquement nécessaire à la réalisation de l'opération.
 
 Il peut être dérogé à la condition d'occupation significative lorsque l'opération se situe dans un territoire faisant l'objet d'un projet urbain contractualisé et dans le périmètre duquel le taux d'occupation des logements est faible. Les conditions d'application de ces dispositions, notamment les pièces et éléments justificatifs à produire, sont précisées par instruction du directeur général.
 
-IV. - Pour l'application des I et II ci-dessus, sont éligibles les immeubles acquis après la date à laquelle le demandeur est informé que le dossier de demande de financement comprenant les acquisitions, démolitions et/ou réhabilitations est complet dans les conditions fixées au cinquième alinéa de l'article 55 du présent règlement.
+IV.-Pour l'application des I et II ci-dessus, sont éligibles les immeubles acquis après la date à laquelle le demandeur est informé que le dossier de demande de financement comprenant les acquisitions, démolitions et/ ou réhabilitations est complet dans les conditions fixées au cinquième alinéa de l'article 55 du présent règlement.
 
 Par dérogation, sont également éligibles :
 
-- au titre du dispositif RHI : les immeubles acquis moins de dix ans avant cette date ;
+-au titre du dispositif RHI : les immeubles acquis moins de dix ans avant cette date ;
 
-- au titre du dispositif THIRORI : les immeubles acquis moins de quatre ans avant cette date. Toutefois, ne sont pas éligibles les immeubles acquis avant le 27 décembre 2009.
+-au titre du dispositif THIRORI : les immeubles acquis moins de quatre ans avant cette date. Toutefois, ne sont pas éligibles les immeubles acquis avant le 27 décembre 2009.
 
 Le demandeur justifie alors que ces immeubles ont été acquis dans un but de traitement de l'habitat indigne ou en application de la procédure d'opération de restauration immobilière.
 
@@ -1310,7 +1310,7 @@ Eléments d'assiette de la subvention
 
 La dépense éligible à une subvention au titre du présent chapitre est établie à partir d'un état prévisionnel du déficit de l'opération faisant apparaître des dépenses et des recettes, définies par délibération du conseil d'administration.
 
-I. - Sont notamment pris en compte au titre des dépenses :
+I.-Sont notamment pris en compte au titre des dépenses :
 
 1. Les dépenses d'études de calibrage des opérations.
 
@@ -1322,7 +1322,7 @@ I. - Sont notamment pris en compte au titre des dépenses :
 
 5. Les honoraires de maîtrise d'œuvre et les frais de maîtrise d'ouvrage.
 
-II. - Sont pris en compte au titre des recettes :
+II.-Sont pris en compte au titre des recettes :
 
 1. Le produit des charges foncières ou de cession des terrains.
 
@@ -1336,15 +1336,15 @@ Constitution des dossiers de demande
 
 Les demandes déposées par le maître d'ouvrage peuvent concerner, pour une même opération :
 
-I. - La vérification de l'éligibilité du dossier à l'un des dispositifs du présent chapitre. Le dossier portant sur l'éligibilité comporte les pièces fixées en annexe 2 ter du présent règlement.
+I.-La vérification de l'éligibilité du dossier à l'un des dispositifs du présent chapitre. Le dossier portant sur l'éligibilité comporte les pièces fixées en annexe 2 ter du présent règlement.
 
-II. - Des demandes de financement portant sur :
+II.-Des demandes de financement portant sur :
 
 1. Le financement relatif aux études de calibrage.
 
 2. Le financement relatif aux mesures d'accompagnement social et de relogement des occupants du périmètre concerné.
 
-3. Le financement relatif aux dépenses d'acquisition, de démolition et/ou de réhabilitation.
+3. Le financement relatif aux dépenses d'acquisition, de démolition et/ ou de réhabilitation.
 
 Ces demandes de financement peuvent être formulées seules, indépendamment les unes des autres, ou regroupées en une demande unique. Lorsqu'elles sont effectuées séparément, elles doivent l'être dans le cadre d'un projet d'ensemble cohérent.
 
@@ -1374,7 +1374,7 @@ Démarrage de l'opération
 
 Pour les demandes relatives au seul financement des études de calibrage ou des mesures d'accompagnement social et de relogement des occupants, aucune subvention ne peut être attribuée dès lors qu'il y a eu commencement d'exécution avant le dépôt de la demande.
 
-Pour toute demande de financement incluant des acquisitions, des démolitions et/ou des réhabilitations, aucune subvention ne peut être attribuée dès lors qu'il y a eu commencement d'exécution des travaux avant autorisation du délégué de l'agence dans le département, à l'exception des cas de travaux de démolition prescrits par arrêté de péril ou d'insalubrité, de travaux conservatoires en urgence ou de travaux de neutralisation. Cette autorisation ne peut être délivrée qu'après dépôt de la demande.
+Pour toute demande de financement incluant des acquisitions, des démolitions et/ ou des réhabilitations, aucune subvention ne peut être attribuée dès lors qu'il y a eu commencement d'exécution des travaux avant autorisation du délégué de l'agence dans le département, à l'exception des cas de travaux de démolition prescrits par arrêté de péril ou d'insalubrité, de travaux conservatoires en urgence ou de travaux de neutralisation. Cette autorisation ne peut être délivrée qu'après dépôt de la demande.
 
 Article 55
 
@@ -1390,7 +1390,7 @@ Si les pièces n'ont pas été produites dans le délai imparti, le délégué d
 
 Si le dossier est complet, le délégué de l'agence dans le département adresse au demandeur un courrier l'en informant. Il lui est également indiqué que le dossier fera l'objet d'une transmission à la commission LHI.
 
-Lorsque la demande de subvention inclut le financement relatif aux acquisitions, démolitions et/ou réhabilitations, le courrier mentionné à l'alinéa précédent vaut autorisation de commencer les travaux.
+Lorsque la demande de subvention inclut le financement relatif aux acquisitions, démolitions et/ ou réhabilitations, le courrier mentionné à l'alinéa précédent vaut autorisation de commencer les travaux.
 
 A l'issue de l'instruction, le délégué de l'agence dans le département transmet l'ensemble du dossier au secrétariat de la commission LHI accompagné d'une fiche de synthèse comportant son avis sur le projet et dont le contenu est fixé par instruction du directeur général.
 
@@ -1420,21 +1420,21 @@ Une décision portant uniquement sur l'éligibilité de l'opération ne présume
 
 Toute décision attributive de subvention mentionne :
 
-- la désignation du bénéficiaire ;
+-la désignation du bénéficiaire ;
 
-- les caractéristiques principales de l'opération (contenu de l'étude, périmètre de l'opération, actions d'accompagnement social et de relogement, destination finale des terrains...) ;
+-les caractéristiques principales de l'opération (contenu de l'étude, périmètre de l'opération, actions d'accompagnement social et de relogement, destination finale des terrains...) ;
 
-- le taux de subvention et le montant maximum de l'aide ;
+-le taux de subvention et le montant maximum de l'aide ;
 
-- le rappel des délais d'exécution de l'opération et de justification de l'achèvement de l'opération ;
+-le rappel des délais d'exécution de l'opération et de justification de l'achèvement de l'opération ;
 
-- les modalités de paiement ;
+-les modalités de paiement ;
 
-- les modalités de suivi ;
+-les modalités de suivi ;
 
-- le cas échéant, les conditions particulières à respecter par le bénéficiaire ;
+-le cas échéant, les conditions particulières à respecter par le bénéficiaire ;
 
-- les causes de retrait, de réduction ou de reversement de l'aide.
+-les causes de retrait, de réduction ou de reversement de l'aide.
 
 Le montant maximum de la subvention ne peut être révisé à la hausse après l'engagement initial, sauf en cas d'évaluation ultérieure d'une acquisition foncière par le juge de l'expropriation, supérieure à celle du service des domaines.
 
@@ -1452,7 +1452,7 @@ Délais d'exécution de l'opération et dispositions relatives à la caducité
 
 Toute opération ayant fait l'objet d'une décision attributive de subvention au titre du présent chapitre doit être commencée dans un délai de deux ans maximum à compter de la date de la notification de la décision d'octroi de la subvention. Le commencement de la réalisation de l'opération est constaté par le dépôt de la première demande de paiement (demande d'acompte ou de solde). Si aucune demande de paiement n'a été faite dans ce délai, la décision d'octroi de la subvention devient caduque.
 
-Lorsque la subvention est attribuée pour le financement relatif aux études de calibrage ou des mesures d'accompagnement social et de relogement des occupants, le maintien du bénéfice de cette subvention est conditionné au dépôt d'une demande de financement relative à tout ou partie des acquisitions, des démolitions et/ou des réhabilitations, dans un délai de deux ans suivant la date de notification de la décision. Dans le cas contraire, la décision d'octroi de la subvention devient caduque et le reversement des sommes déjà versées peut être exigé. Toutefois, ce délai peut être prorogé pour une durée d'un an maximum par décision du délégué de l'agence dans le département sur demande motivée du bénéficiaire de la subvention.
+Lorsque la subvention est attribuée pour le financement relatif aux études de calibrage ou des mesures d'accompagnement social et de relogement des occupants, le maintien du bénéfice de cette subvention est conditionné au dépôt d'une demande de financement relative à tout ou partie des acquisitions, des démolitions et/ ou des réhabilitations, dans un délai de deux ans suivant la date de notification de la décision. Dans le cas contraire, la décision d'octroi de la subvention devient caduque et le reversement des sommes déjà versées peut être exigé. Toutefois, ce délai peut être prorogé pour une durée d'un an maximum par décision du délégué de l'agence dans le département sur demande motivée du bénéficiaire de la subvention.
 
 Toute opération ayant fait l'objet d'une décision attributive de subvention doit donner lieu à une demande de paiement du solde dans un délai de huit ans après notification de la décision.
 
@@ -1474,11 +1474,11 @@ Demande de paiement du solde
 
 La demande de paiement du solde est présentée par le bénéficiaire accompagnée des pièces justificatives précisées par instruction du directeur général.
 
-Si l'opération a fait l'objet de demandes de financement successives, la demande de solde de la subvention portant sur les dépenses d'acquisition, de démolition et/ou de réhabilitation doit être accompagnée d'un état récapitulatif de l'ensemble des dépenses et recettes réelles de l'opération.
+Si l'opération a fait l'objet de demandes de financement successives, la demande de solde de la subvention portant sur les dépenses d'acquisition, de démolition et/ ou de réhabilitation doit être accompagnée d'un état récapitulatif de l'ensemble des dépenses et recettes réelles de l'opération.
 
 Après instruction, le délégué de l'agence dans le département transmet la demande de solde au directeur général, accompagnée des pièces prévues par instruction du directeur général.
 
-Si la demande concerne le solde de la subvention portant sur les dépenses d'acquisition, de démolition et/ou de réhabilitation, elle est soumise à la commission LHI, qui émet un avis sur le montant de la subvention à liquider.
+Si la demande concerne le solde de la subvention portant sur les dépenses d'acquisition, de démolition et/ ou de réhabilitation, elle est soumise à la commission LHI, qui émet un avis sur le montant de la subvention à liquider.
 
 Dans tous les cas, la décision de versement du solde de la subvention est prise par le directeur général de l'agence, en tenant compte des dépenses et recettes réellement constatées, dans la limite de l'engagement initial, éventuellement révisé à la suite de l'évaluation du coût d'une acquisition foncière par le juge de l'expropriation supérieure à celle du service des domaines. Il est tenu compte, le cas échéant, des acomptes déjà versés.
 

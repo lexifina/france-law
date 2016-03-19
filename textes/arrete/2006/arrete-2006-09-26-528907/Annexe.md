@@ -208,7 +208,7 @@ D-3. Relations des détenus avec l'extérieur :
 
 D-4. Décisions individuelles prises par l'administration pénitentiaire :
 
-Loi n° 2000-321 du 12 avril 2000 modifiée relative aux droits des citoyens dans leurs relations avec les administrations (art. 24).
+Articles L. 121-1, L. 121-2 et L. 122-1 du code des relations entre le public et l'administration.
 
 D-5. Prévention des suicides :
 

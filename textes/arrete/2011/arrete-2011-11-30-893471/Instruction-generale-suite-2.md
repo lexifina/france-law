@@ -72,7 +72,7 @@ Toute entreprise de droit étranger candidate à un contrat est tenue, à l'appu
 
 L'autorité d'habilitation peut saisir le secrétariat général de la défense et de la sécurité nationale, autorité nationale de sécurité, ou l'autorité de sécurité déléguée mentionnée dans l'accord de sécurité aux fins de requérir l'autorité nationale de sécurité de l'Etat de nationalité de l'entreprise candidate en vue de procéder à l'habilitation appropriée de cette entreprise.
 
-Aucune entreprise candidate de droit étranger ne peut être retenue lorsque l'exécution du contrat conclu dans le cadre du présent titre implique la détention ou l'échange d'informations ou supports classifiés portant la mention "Spécial France" (143).
+Aucune entreprise candidate de droit étranger ne peut être retenue lorsque l'exécution du contrat conclu dans le cadre du présent titre implique la détention ou l'échange d'informations ou supports classifiés portant la mention " Spécial France " (143).
 
 Article 98
 
@@ -96,13 +96,13 @@ Au terme des investigations, le service enquêteur émet un avis de sécurité q
 
 Les conclusions de l'avis de sécurité sont de trois types :
 
-- "avis sans objection", lorsque l'instruction n'a révélé aucun élément de vulnérabilité de nature à constituer un risque pour la sécurité des informations ou supports classifiés ni pour celle de la personne morale ;
+-" avis sans objection ", lorsque l'instruction n'a révélé aucun élément de vulnérabilité de nature à constituer un risque pour la sécurité des informations ou supports classifiés ni pour celle de la personne morale ;
 
-- "avis restrictif", lorsque la personne morale présente certaines vulnérabilités constituant des risques directs ou indirects pour la sécurité des informations ou supports classifiés auxquels elle aurait accès, mais que des mesures de sécurité spécifiques prises par l'officier de sécurité permettraient de maîtriser ;
+-" avis restrictif ", lorsque la personne morale présente certaines vulnérabilités constituant des risques directs ou indirects pour la sécurité des informations ou supports classifiés auxquels elle aurait accès, mais que des mesures de sécurité spécifiques prises par l'officier de sécurité permettraient de maîtriser ;
 
-- "avis défavorable", lorsque des informations précises font apparaître que la personne morale présente des vulnérabilités faisant peser des risques tels qu'aucune mesure de sécurité ne semble suffisante à les neutraliser.
+-" avis défavorable ", lorsque des informations précises font apparaître que la personne morale présente des vulnérabilités faisant peser des risques tels qu'aucune mesure de sécurité ne semble suffisante à les neutraliser.
 
-L'avis de sécurité est émis pour un niveau donné d'habilitation. L'avis "sans objection" est valable pour le niveau précisé ainsi que pour le(s) niveau(x) inférieur(s). Pour les avis restrictifs ou défavorables, les services enquêteurs se prononcent, au cas par cas, sur l'opportunité d'accorder une habilitation pour le(s) niveau(x) inférieur(s).
+L'avis de sécurité est émis pour un niveau donné d'habilitation. L'avis " sans objection " est valable pour le niveau précisé ainsi que pour le (s) niveau (x) inférieur (s). Pour les avis restrictifs ou défavorables, les services enquêteurs se prononcent, au cas par cas, sur l'opportunité d'accorder une habilitation pour le (s) niveau (x) inférieur (s).
 
 Les avis restrictifs ou défavorables ne sont pas classifiés. Ils sont assortis d'une fiche confidentielle indiquant les motifs de l'avis. Cette fiche, classifiée en tout ou partie, explicite les motifs de vulnérabilité décelés lors de l'enquête. Ces motifs ne peuvent être portés qu'à la connaissance de la seule autorité d'habilitation. Ne pouvant être reproduite, la fiche confidentielle est retournée après communication et sans délai au service enquêteur qui l'a émise, aux fins de conservation.
 
@@ -206,37 +206,37 @@ Sous l'autorité du chef de l'entreprise, l'officier de sécurité est chargé d
 
 1. A ce titre, il est amené à s'assurer notamment :
 
-- de l'application des règles de sécurité énoncées dans les différents textes au sein de l'établissement ;
+-de l'application des règles de sécurité énoncées dans les différents textes au sein de l'établissement ;
 
-- de la gestion des dossiers d'habilitation du personnel de l'établissement en fonction du besoin d'en connaître ; il est également chargé des demandes d'habilitation de sous-traitants éventuels. Il est tenu de signaler au service enquêteur les éléments de vulnérabilité portés à sa connaissance apparaissant après la décision d'habilitation et de signaler à l'autorité d'habilitation tout changement dans les statuts de la personne morale ;
+-de la gestion des dossiers d'habilitation du personnel de l'établissement en fonction du besoin d'en connaître ; il est également chargé des demandes d'habilitation de sous-traitants éventuels. Il est tenu de signaler au service enquêteur les éléments de vulnérabilité portés à sa connaissance apparaissant après la décision d'habilitation et de signaler à l'autorité d'habilitation tout changement dans les statuts de la personne morale ;
 
-- de la tenue à jour d'un registre des membres du personnel titulaires d'une habilitation et auxquels l'accès est autorisé, dans le cadre du contrat et d'éventuels contrats de sous-traitance. Ce registre indique les dates de délivrance et de fin de validité ainsi que le niveau de ces habilitations ;
+-de la tenue à jour d'un registre des membres du personnel titulaires d'une habilitation et auxquels l'accès est autorisé, dans le cadre du contrat et d'éventuels contrats de sous-traitance. Ce registre indique les dates de délivrance et de fin de validité ainsi que le niveau de ces habilitations ;
 
-- de fournir, à la demande du service enquêteur, des renseignements sur toutes les personnes qui seront appelées à avoir accès à des informations classifiées ;
+-de fournir, à la demande du service enquêteur, des renseignements sur toutes les personnes qui seront appelées à avoir accès à des informations classifiées ;
 
-- de la sensibilisation et de la formation du personnel ;
+-de la sensibilisation et de la formation du personnel ;
 
-- de signaler les compromissions du secret avérées ou supposées, dans les conditions définies à l'article 67 ;
+-de signaler les compromissions du secret avérées ou supposées, dans les conditions définies à l'article 67 ;
 
-- de la gestion et de la mise à jour des annexes de sécurité des contrats de droit public ou de droit privé ;
+-de la gestion et de la mise à jour des annexes de sécurité des contrats de droit public ou de droit privé ;
 
-- de la mise à jour du dossier de sécurité.
+-de la mise à jour du dossier de sécurité.
 
 2. Dans le cadre des contrats impliquant la détention d'informations ou de supports classifiés, il est en outre chargé :
 
-- du contrôle permanent de la gestion et de la protection des informations ou supports classifiés ;
+-du contrôle permanent de la gestion et de la protection des informations ou supports classifiés ;
 
-- de la gestion et du suivi des ACSSI ;
+-de la gestion et du suivi des ACSSI ;
 
-- de la gestion des demandes d'autorisation d'accès au périmètre d'accès restreint et de la gestion des contrôles élémentaires pour l'accès des personnels extérieurs à l'établissement ;
+-de la gestion des demandes d'autorisation d'accès au périmètre d'accès restreint et de la gestion des contrôles élémentaires pour l'accès des personnels extérieurs à l'établissement ;
 
-- de l'application des règles internationales en matière de visites de ressortissants étrangers se rendant dans l'établissement dont il a la charge ;
+-de l'application des règles internationales en matière de visites de ressortissants étrangers se rendant dans l'établissement dont il a la charge ;
 
-- de l'application des règles internationales en matière de visites à l'étranger des personnels de son établissement ;
+-de l'application des règles internationales en matière de visites à l'étranger des personnels de son établissement ;
 
-- de la sensibilisation aux prescriptions de sécurité à respecter dans l'établissement par les différents intervenants ;
+-de la sensibilisation aux prescriptions de sécurité à respecter dans l'établissement par les différents intervenants ;
 
-- du respect des dispositions réglementaires en matière d'accès, de manipulation, de conservation, de reproduction et de destruction des informations classifiées.
+-du respect des dispositions réglementaires en matière d'accès, de manipulation, de conservation, de reproduction et de destruction des informations classifiées.
 
 Section 2
 
@@ -316,7 +316,7 @@ Archivage : opération consistant à verser à un service d'archives des support
 
 Authenticité : propriété d'une information ou d'un traitement qui garantit son identité, son origine et, éventuellement, sa destination.
 
-Autorité contractante : toute personne publique ou privée, y compris dans le cas des contrats de sous-traitance, qui fait appel à un fournisseur ou à un prestataire pour l'exécution d'un contrat ou d'un marché. Lorsque le marché est régi par les dispositions du code des marchés publics, l'expression "autorité contractante" désigne le pouvoir adjudicateur. Lorsqu'un marché régi par les dispositions du code des marchés publics entraîne des contrats de sous-traitance, le pouvoir adjudicateur à l'origine de celui-ci est appelé "autorité contractante de référence".
+Autorité contractante : toute personne publique ou privée, y compris dans le cas des contrats de sous-traitance, qui fait appel à un fournisseur ou à un prestataire pour l'exécution d'un contrat ou d'un marché. Lorsque le marché est régi par les dispositions du code des marchés publics, l'expression " autorité contractante " désigne le pouvoir adjudicateur. Lorsqu'un marché régi par les dispositions du code des marchés publics entraîne des contrats de sous-traitance, le pouvoir adjudicateur à l'origine de celui-ci est appelé " autorité contractante de référence ".
 
 Autorité d'habilitation : autorité compétente pour solliciter une enquête d'habilitation ou un contrôle élémentaire et émettre la décision.
 
@@ -412,7 +412,7 @@ Procédure d'habilitation : procédure visant à s'assurer qu'une personne peut,
 
 Reclassement : modification, par relèvement, du niveau de classification d'informations ou de supports classifiés.
 
-Refus d'habilitation : décision prise par l'autorité d'emploi, au vu de l'avis de sécurité ou de tout autre élément recueilli sur une personne, de ne pas habiliter cette personne. Sa motivation est régie par la loi n° 79-587 du 11 juillet 1979 sur la motivation des actes administratifs.
+Refus d'habilitation : décision prise par l'autorité d'emploi, au vu de l'avis de sécurité ou de tout autre élément recueilli sur une personne, de ne pas habiliter cette personne. Sa motivation est régie par les articles L. 211-2 à L. 211-7 du code des relations entre le public et l'administration.
 
 Réseau de sécurité : ensemble des moyens humains, matériels et organisationnels qui permettent l'acheminement en toute sécurité des informations ou supports classifiés à un niveau déterminé (et en deçà), entre un ensemble de correspondants habilités.
 
@@ -438,7 +438,7 @@ Système d'information : ensemble des moyens informatiques ayant pour finalité 
 
 Timbre : mention figurant sur un support d'information précisant son niveau de classification et, le cas échéant, son usage national exclusif. Le timbre possède des caractéristiques définies (dimensions, aspect).
 
-Titulaire : toute personne attributaire d'un contrat. Lorsque le contrat est un marché public avec sous-traitance, le titulaire de ce marché est appelé "primocontractant".
+Titulaire : toute personne attributaire d'un contrat. Lorsque le contrat est un marché public avec sous-traitance, le titulaire de ce marché est appelé " primocontractant ".
 
 Travaux classifiés : prestations, quelle qu'en soit la nature, nécessitant l'accès à des informations ou à des supports classifiés.
 
