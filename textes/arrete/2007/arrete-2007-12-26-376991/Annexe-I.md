@@ -280,7 +280,7 @@ Adjoint au chef du bureau des affaires générales, des études et des statuts.
 
 |
 
-Adjoint au chef du bureau de la paie et des régimes indemnitaires.
+Chef de la mission de pilotage de la fonction ressources humaines ministérielle.
 
 |
 
