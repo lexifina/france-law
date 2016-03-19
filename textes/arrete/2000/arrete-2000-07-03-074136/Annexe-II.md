@@ -878,4 +878,8 @@ Synflor/ Gerflor, 69100 Villeurbanne, puis zone industrielle rue du Bois-des-Lot
 
 Thermal Ceramics, BP 4,42680 Saint-Marcellin-en-Forez : de 1957 à 1974 ;
 
-Valéo EEM, rue du Revolay, 38291 Saint-Quentin-Fallavier, de 1989 à 1996.
+Valéo EEM, rue du Revolay, 38291 Saint-Quentin-Fallavier, de 1989 à 1996 ;
+
+Zénith Aviation, boulevard Sagnat, 42230 Roche-la-Molière, de 1969 à 1987 ;
+
+Zénith Fonderie, boulevard Sagnat, 42230 Roche-la-Molière, de 1987 à 1992.
