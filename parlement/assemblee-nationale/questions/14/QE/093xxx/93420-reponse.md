@@ -1,0 +1,9 @@
+# Réponse à la question n° 93420
+
+- Question : [93420](93420.md) — Question n° 93420 — consommation; disparités territoriales
+
+## Réponse
+
+*JO du 2016-03-22*
+
+Le climat est un des facteurs qui impactent les consommations énergétiques des ménages, et conditionne les besoins de chauffage et de refroidissement. Les performances thermiques des bâtiments, ainsi que les comportements des usagers influent également sur ces consommations. La maîtrise des consommations d'énergie est un pilier de la politique de transition énergétique pour la croissance verte dans laquelle s'est engagé le Gouvernement. Pour limiter les consommations énergétiques des ménages, le Gouvernement a mis en place différents outils pour accompagner la réalisation de travaux d'efficacité énergétique : crédit d'impôt pour la transition énergétique, éco-prêt à taux zéro, dispositif des certificats d'économies d'énergie. Le programme « Habiter mieux » porté par l'Anah accompagne lui aussi les actions d'efficacité énergétique, en particulier chez les ménages les plus exposés à la précarité énergétique. Les travaux d'isolation en particulier permettent de limiter l'incidence des conditions climatiques sur la facture énergétique des ménages, tout en garantissant un meilleur confort de vie. Un service public d'information a été mis en place, à travers la création de points rénovation info service (PRIS) pour accompagner et conseiller les ménages et les orienter vers les actions les plus adaptées au climat de leur lieu de résidence. Enfin, la loi relative à la transition énergétique pour la croissance verte réaffirme l'importance de la déclinaison régionale des politiques d'efficacité énergétique. Elle confie aux régions la définition d'un programme régional pour l'efficacité énergétique, qui viendra prendre en compte l'ensemble des spécificités locales pour définir les priorités et les modalités de l'action publique, notamment en matière de rénovation énergétique des bâtiments.
