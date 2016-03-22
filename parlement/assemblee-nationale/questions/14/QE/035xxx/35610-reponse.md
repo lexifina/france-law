@@ -1,0 +1,9 @@
+# Réponse à la question n° 35610
+
+- Question : [35610](35610.md) — Question n° 35610 — rapport; propositions
+
+## Réponse
+
+*JO du 2016-03-22*
+
+L'article 10 de l'arrêté du 7 avril 1981 modifié fixant les dispositions techniques applicables aux piscines prévoit qu'une vidange complète des bassins est assurée au moins deux fois par an. La vidange doit être accompagnée d'un nettoyage et d'une désinfection complète des installations compte tenu des risques sanitaires associés qui peuvent être la conséquence d'un ou de plusieurs facteurs tels qu'un traitement de l'eau inadapté, un non-respect des règles d'hygiène par les baigneurs, des contaminations accidentelles, une sur-fréquentation de l'établissement ou une mauvaise gestion et une surveillance insuffisante par le personnel technique chargé du traitement de l'eau et de l'entretien des surfaces. Lors du comité interministériel aux ruralités du 14 septembre dernier, il a été annoncé que, dans le cadre de la simplification des normes pour les collectivités locales, la fréquence de vidanges des bassins des piscines sera diminuée à une par an. Compte tenu de l'avis de l'agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail de juin 2010, il n'est pas envisagé d'aller au-delà de cette diminution de fréquence en supprimant cette obligation de vidange. Cette modification sera effectuée dans le cadre d'une prochaine révision de la réglementation sanitaire applicable aux piscines. Par ailleurs, puisque l'argument de l'économie de la ressource en eau est évoqué, il convient de rappeler que l'article 3 de l'arrêté du 7 avril 1981 modifié précité proportionne le renouvellement de l'eau à une référence fondée sur la fréquentation réelle du bassin : « Un renouvellement de l'eau des bassins à raison d'au moins 0,03 mètres cubes par baigneur ayant fréquenté l'installation doit être effectué chaque jour d'ouverture ».
