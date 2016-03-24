@@ -95,3 +95,7 @@ Paris-Sal (Cabo Verde).
 Jusqu'au 28 février 2021 :
 
 Paris-Port-Louis (île Maurice).
+
+Jusqu'au 31 mars 2021 :
+
+Paris-Montréal (Canada).
