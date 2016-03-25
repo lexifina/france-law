@@ -448,7 +448,7 @@ Mineur Becourt, 10, rue Jean-Jaurès, 59770 Marly : de 1965 à 1990 ;
 
 Olifan, rue d'Amsterdam et 1, rue de Harlem, 59200 Tourcoing, de 1951 à 1987 ;
 
-Penarroya, puis Metaleurop, puis Metaleurop Nord, 1, avenue Malfidano, BP 1,62950 Noyelles-Godault : De 1962 à 1996 ;
+Penarroya, puis Metaleurop, puis Metaleurop Nord, 1, avenue Malfidano, BP 1,62950 Noyelles-Godault : De 1962 à 1989 ;
 
 Ripolin Georget Freitag, puis Ripolin SA, usine de Ruitz, 62620 Barlin : de 1973 à 1981 ;
 
@@ -589,6 +589,8 @@ Motorola Automobile, Valéo-Motorola alternateurs, Valéo alternateurs Angers, V
 SCREG : 44800 Saint-Herblain : depuis sa création jusqu'en 1990.
 
 Sicof, 85260 La Copechagnière, de 1953 à 1976.
+
+SIDES (Société industrielle pour le développement de la sécurité) 182, rue de Trignac 44600 Saint-Nazaire Période d'inscription : de 1986 à 1999.
 
 SNIFI/ EFI, agence Savenay, 44260 Donges, de 1974 à 1982, puis agence ZI Bonne-Nouvelle, BP 47,44480 Donges, de 1982 à 1994 ;
 
@@ -735,6 +737,8 @@ Isotec, 13, quai de Tourette, 13002 Marseille : de 1984 à 1999 ;
 Kuhlmann puis Société Ugine Kuhlmann puis Pechiney Ugine Kuhlmann-PUK puis Produits chimiques Ugine Kuhlmann-PCUK puis ELF Atochem, Usine de l'Estaque, 13016 Marseille : De 1916 à 1989 ;
 
 L'Aeraulique, le logis du Bonneau, quartier des Mourettes, 06270 Villeneuve-Loubet : de 1975 à 1989 ;
+
+Le Vulcain Zone industrielle de la Delorme 5, avenue de la Bauxite 13015 Marseille De 1981 à 1986
 
 ORGANICO PECHINEY, puis AQUITAINE ORGANICO, puis AQUITAINE TOTAL ORGANICO, puis ATO CHIMIE, puis ATOCHEM, puis ELF ATOCHEM, Usine de Saint-Menet, 123, boulevard de la Millière, 13011 Marseille : de 1956 à 1996 ;
 
