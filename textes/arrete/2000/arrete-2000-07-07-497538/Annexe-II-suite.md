@@ -184,9 +184,7 @@ SERIM, quai des Frégates, 44600 Saint-Nazaire : de sa création à 1982.
 
 Service technique de l'outillage des ateliers et centre d'activité de la réparation navale et du dragage du Port autonome de Nantes - Saint-Nazaire, 9, quai des Coteaux, BP 7, 44640 Le Pellerin. Siège social : 18, quai Ernest-Renaud, BP 18609, 44186 Nantes Cedex 4, de 1945 à 2002.
 
-SIDES :
-
-- 182, rue de Trignac, 44600 Saint-Nazaire : depuis sa création.
+SIDES 182, rue de Trignac 44600 Saint-Nazaire Depuis sa création à 1986
 
 SIN et STESS ;
 
@@ -266,6 +264,8 @@ ACOREM, rue Léo-Lagrange, ZI Toulon Est, 83062 La Garde, ZI Les Négaloux, 8314
 
 Agius Vincent, puis atelier Agius, 6-8, rue Fort-Notre-Dame, 13007 Marseille : à partir de 1960.
 
+Albert CERRUTI Route de la Côte-Bleue 13220 Châteauneuf-les-Martigues De 1979 à 1993
+
 Albert Villani et Fils/Villani :
 
 - boulevard des Bassins-de-Radoub, 13002 Marseille : depuis 1950.
@@ -320,7 +320,13 @@ Ateliers d'ARENC :
 
 - 274, chemin du Littoral, 13015 Marseille : depuis 1979.
 
-Atelier phocéen de mécanique, lot 103, port d'activité Mourrepiane, 467, chemin du Littoral, 13016 Marseille : depuis 1998.
+APM - Atelier phocéen de mécanique, lot 103, port d'activité Mourepiane, 467, chemin du Littoral, 13016 Marseille De 1998 à 2015 Et APM - Atelier phocéen de mécanique, 30, avenue Fernand-Sardou, 13016 Marseille De 2013 à 2014 Puis ZAC de Saumaty Séon, 33, chemin de Saint-Henri, 13016 Marseille De 2014 à 2015
+
+Et
+
+Société nouvelle Atelier rhodanien, quai de la Gabelle, 13200 Arles De 2001 à 2007 Puis APM - Atelier phocéen de mécanique, quai de la Gabelle, 13200 Arles De 2007 à 2008 Puis
+
+Lot 9, ZA II, rue Barthélemy-Contestin, 30300 Fourques De 2008 à 2014 Puis 9, rue de Lédignan, 30300 Fourques de 2008 à 2015
 
 Ateliers Galli :
 
@@ -789,6 +795,10 @@ Porsenni Yvon, 7, rue des Bateliers, La Castellane, 13016 Marseille : de 1979 à
 Poujaud :
 
 - 30, avenue Mirabeau, 13220 La Mède, 79, avenue Roger-Salengro, 13002 Marseille : depuis 1954.
+
+PRIM (Peintures et revêtements industriels et maritimes) 62, chemin du Littoral 3, boulevard Bernado 13015 Marseille Enceinte portuaire Forme 7, local 15, et Forme 8/9, Mourepiane
+
+13002 Marseille De 1968 à 1994
 
 PROMECA :
 
