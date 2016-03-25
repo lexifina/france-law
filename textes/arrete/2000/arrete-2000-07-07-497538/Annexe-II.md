@@ -634,7 +634,7 @@ Leroux et Lotz Meunier/Meunier Leroux et Lotz/Socomele/Leroux et Lotz Meunier, A
 
 Les Ateliers de Kergroise Rue Emile-Marcesche, 56100 Lorient, puis 18, avenue de Kergroise, 56100 Lorient. Depuis 1967.
 
-L'Helgoualc'h François, 73, Grand-Rue, 29750 Loctudy : de sa création à l'année 1979, puis : SOMECO, 73, Grand-Rue, 29750 Loctudy : de 1980 à 1992, puis : terre-plein du Port, 29750 Loctudy : de 1993 à 2007.
+L'Helgouac'h, François, 73, Grand-Rue, 29750 Loctudy, de sa création à l'année 1979, puis SOMECO, 73, Grand-Rue, 29750 Loctudy, de 1980 à 1992, puis Terre-plein du Port, 29750 Loctudy, de 1993 à 2007 SOMECO, Terre-plein du Port, 29100 Douarnenez, de 1989 à 2005
 
 Lip Sudest, puis Lips France, ZI de Petite-Synthe, 59140 Dunkerque : de 1965 à 1991.
 
@@ -1090,7 +1090,7 @@ Caillard Normandie/AFO (Ateliers français de l'Ouest) :
 
 - 76600 Le Havre : depuis 1928.
 
-CGT/CGM/SPIN/CMA-CGM/ARNO/COGER/SIREN (Société industrielle de réparation et d'entretien de navires), rue Bellot, BP 534, 76068 Le Havre, quai de l'Europe, 76600 Le Havre, et route du Môle-Central, 76600 Le Havre : depuis 1955, puis SORENI, route du Môle-Central, 76600 Le Havre : à partir du 1er novembre 2001.
+SPIN, COGER, SIREN (Société industrielle de réparation et d'entretien des navires) : Rue Bellot, BP 534,76068 Le Havre ; Quai de l'Europe, 76600 Le Havre ; Et route du Môle-Central, 76600 Le Havre, De 1955 à 2001 pour SPIN ; De 1955 à 2000 pour COGER ; De 1955 à 2004 pour SIREN. ARNO : Rue Bellot, BP 534,76068 Le Havre ; Quai de l'Europe, 76600 Le Havre ; Et route du Môle-Central, 76600 Le Havre, De 1955 à 2001. Puis SORENI, route du Môle-Central, 76600 Le Havre, De 2001 à 2005.
 
 Chambre de commerce et d'industrie de Dieppe, 4, boulevard du Général-de-Gaulle, 76374 Dieppe Cedex, quai du Maroc, 76200 Dieppe, de 1956 à 1986.
 
@@ -1253,6 +1253,8 @@ Service technique de l'outillage, des ateliers et centre d'activité de la répa
 Service technique Worms :
 
 - 76600 Le Havre : de 1950 à 1963.
+
+SE SIMP (Société industrielle maritime) 185-187, boulevard Amiral-Mouchez 76600 Le Havre De 1970 à 2000
 
 SITAF, avenue du Général-Leclerc, 76530 Grand-Couronne : de sa création à 1998.
 
