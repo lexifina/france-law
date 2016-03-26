@@ -394,9 +394,11 @@ Paris-Pointe-Noire ;
 
 Corée du Sud :
 
+Paris-Daegu ;
+
 Paris-Pusan ;
 
-Paris-Séoul ;
+Paris-Séoul.
 
 Costa Rica :
 
@@ -660,7 +662,9 @@ Kazakhstan :
 
 Paris-Almaty ;
 
-Paris-Atyrau ;
+Paris-Astana ;
+
+Paris-Atyrau.
 
 Kenya :
 
@@ -795,6 +799,8 @@ Paris-Poza Rica ;
 Paris-Puebla ;
 
 Paris-Puerto Vallarta ;
+
+Paris-Queretaro ;
 
 Paris-Reynosa ;
 
