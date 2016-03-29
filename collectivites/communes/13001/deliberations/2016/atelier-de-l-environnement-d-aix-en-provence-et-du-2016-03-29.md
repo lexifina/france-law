@@ -1,0 +1,10 @@
+# Aix-en-Provence : délibération — ATELIER DE L'ENVIRONNEMENT D'AIX EN PROVENCE ET DU PAYS D'AIX - CENTRE PERMANENT D'INITIATIVES POUR L'ENVIRONNEMENT - AVENANT A LA CONVENTION PLURIANNUELLE 2014-2016. VERSEMENT D'UNE AVANCE DE SUBVENTION AU TITRE DE 2016
+
+- Collectivité : Aix-en-Provence
+- SIREN : 211300017
+- Code INSEE : 13001
+- Date : 2016-03-29
+- Séance : Conseil Municipal 1CA
+- Objet : ATELIER DE L'ENVIRONNEMENT D'AIX EN PROVENCE ET DU PAYS D'AIX - CENTRE PERMANENT D'INITIATIVES POUR L'ENVIRONNEMENT - AVENANT A LA CONVENTION PLURIANNUELLE 2014-2016. VERSEMENT D'UNE AVANCE DE SUBVENTION AU TITRE DE 2016
+- Acte publié : http://eadm.mairie-aixenprovence.fr/delibinternet/delib-7583-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/liste-des-deliberations-aix-en-provence@aix-en-provence
