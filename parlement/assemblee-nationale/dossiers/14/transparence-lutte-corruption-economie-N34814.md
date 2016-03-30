@@ -1,0 +1,133 @@
+# Economie : transparence, lutte contre la corruption et modernisation (loi SAPIN2)
+
+- Procédure : Projet de loi ordinaire
+- Législature : 14
+- Identifiant : DLR5L14N34814
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/transparence_lutte_corruption_economie
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl15-691.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2016-03-30 : 1er dépôt d'une initiative. (PRJLANR5L14B3623)
+  - 2016-03-30 : Etude d'impact (ETDIANR5L14B3623)
+  - 2016-03-30 : Avis du Conseil d'Etat (AVCEANR5L14B3623)
+  - 2016-03-30 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2016-03-30 : Renvoi en commission au fond
+      - 2016-04-06 : Nomination de rapporteur
+      - 2016-04-06 : Réunion de commission
+      - 2016-05-24 : Réunion de commission
+      - 2016-05-25 : Réunion de commission
+      - 2016-05-25 : Réunion de commission
+      - 2016-05-25 : Réunion de commission
+      - 2016-06-06 : Réunion de commission
+      - 2016-05-26 : Dépôt de rapport (RAPPANR5L14B3785, PRJLANR5L14BTC3785)
+    - Travaux d'une commission saisie pour avis
+      - 2016-03-31 : Saisine pour avis d'une commission
+      - 2016-04-06 : Nomination de rapporteur
+      - 2016-04-06 : Réunion de commission
+      - 2016-05-17 : Réunion de commission
+      - 2016-05-17 : Réunion de commission
+      - 2016-05-24 : Réunion de commission
+      - 2016-05-18 : Dépôt de rapport (AVISANR5L14B3756)
+    - Travaux d'une commission saisie pour avis
+      - 2016-04-06 : Saisine pour avis d'une commission
+      - 2016-04-06 : Nomination de rapporteur
+      - 2016-04-06 : Réunion de commission
+      - 2016-05-24 : Réunion de commission
+      - 2016-05-24 : Réunion de commission
+      - 2016-05-25 : Dépôt de rapport (AVISANR5L14B3778)
+  - Discussion en séance publique
+    - 2016-06-06 : Discussion en séance publique
+    - 2016-06-06 : Discussion en séance publique
+    - 2016-06-07 : Discussion en séance publique
+    - 2016-06-07 : Discussion en séance publique
+    - 2016-06-08 : Discussion en séance publique
+    - 2016-06-08 : Discussion en séance publique
+    - 2016-06-09 : Discussion en séance publique
+    - 2016-06-09 : Discussion en séance publique
+    - 2016-06-09 : Discussion en séance publique
+    - 2016-06-14 : Discussion en séance publique
+    - 2016-06-14 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2016-06-15 : Dépôt d'une initiative en navette (PRJLSNR5S259B0691)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2016-06-15 : Renvoi en commission au fond
+      - 2016-05-18 : Nomination de rapporteur
+      - 2016-06-22 : Dépôt de rapport (RAPPSNR5S259B0712)
+    - Travaux d'une commission saisie pour avis
+      - 2016-05-18 : Saisine pour avis d'une commission
+      - 2016-05-18 : Nomination de rapporteur
+      - 2016-06-22 : Dépôt de rapport (AVISSNR5S259B0710)
+    - Travaux d'une commission saisie pour avis
+      - 2016-05-18 : Saisine pour avis d'une commission
+      - 2016-05-18 : Nomination de rapporteur
+      - 2016-06-22 : Dépôt de rapport (AVISSNR5S259B0707)
+  - Discussion en séance publique
+    - 2016-07-04 : Discussion en séance publique
+    - 2016-07-05 : Discussion en séance publique
+    - 2016-07-06 : Discussion en séance publique
+    - 2016-07-07 : Discussion en séance publique
+    - 2016-07-08 : Discussion en séance publique
+    - 2016-07-08 : Décision
+- Commission Mixte Paritaire
+  - 2016-07-08 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2016-09-14 : Nomination de rapporteur
+    - 2016-09-14 : Dépôt du rapport d'une CMP (RAPPANR5L14B4032)
+    - 2016-09-14 : Dépôt du rapport d'une CMP (RAPPSNR5S259B0830)
+  - 2016-09-14 : Décision de la CMP
+- Nouvelle Lecture
+  - 2016-07-08 : Dépôt d'une initiative en navette (PRJLANR5L14B3939)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2016-07-08 : Renvoi en commission au fond
+      - 2016-09-21 : Réunion de commission
+      - 2016-09-28 : Réunion de commission
+      - 2016-09-21 : Dépôt de rapport (RAPPANR5L14B4045, PRJLANR5L14BTC4045)
+    - Travaux d'une commission saisie pour avis
+      - 2016-03-31 : Saisine pour avis d'une commission
+      - 2016-04-06 : Nomination de rapporteur
+      - 2016-09-20 : Réunion de commission
+      - 2016-09-20 : Dépôt de rapport (AVISANR5L14B4039)
+    - Travaux d'une commission saisie pour avis
+      - 2016-04-06 : Saisine pour avis d'une commission
+      - 2016-04-06 : Nomination de rapporteur
+      - 2016-09-20 : Réunion de commission
+      - 2016-09-20 : Dépôt de rapport (AVISANR5L14B4040)
+  - Discussion en séance publique
+    - 2016-09-28 : Discussion en séance publique
+    - 2016-09-28 : Discussion en séance publique
+    - 2016-09-29 : Discussion en séance publique
+    - 2016-09-29 : Discussion en séance publique
+    - 2016-09-29 : Décision
+- Nouvelle Lecture
+  - 2016-09-30 : Dépôt d'une initiative en navette (PRJLSNR5S259B0866)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2016-09-30 : Renvoi en commission au fond
+      - 2016-10-26 : Dépôt de rapport (RAPPSNR5S279B0079)
+  - Discussion en séance publique
+    - 2016-11-03 : Discussion en séance publique
+    - 2016-11-03 : Décision
+- Lecture définitive
+  - 2016-11-04 : Dépôt d'une initiative en navette (PRJLANR5L14B4187)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2016-11-04 : Renvoi en commission au fond
+      - 2016-11-08 : Réunion de commission
+      - 2016-11-08 : Dépôt de rapport (RAPPANR5L14B4189)
+  - Discussion en séance publique
+    - 2016-11-08 : Discussion en séance publique
+    - 2016-11-08 : Décision
+- Conseil constitutionnel
+  - 2016-11-15 : Saisine du conseil constitutionnel
+  - 2016-11-15 : Saisine du conseil constitutionnel
+  - 2016-11-15 : Saisine du conseil constitutionnel
+  - 2016-12-07 : Saisine du conseil constitutionnel
+  - 2016-12-08 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2016-12-09 : Promulgation d'une loi
