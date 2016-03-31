@@ -1,0 +1,9 @@
+# Réponse à la question SEQ160220099
+
+- Question : [SEQ160220099](seq160220099.md) — Application de l'indemnité kilométrique vélo
+
+## Réponse
+
+*Transports, mer et pêche, JO du 2016-03-31, page 1323*
+
+L'article 50 de la loi n° 2015-992 du 17 août 2015 sur la transition énergétique pour la croissance verte (TECV) prévoit la création d'une indemnité kilométrique vélo (IKV). Il s'agit d'une mesure d'incitation, destinée à encourager l'usage du vélo pour les trajets domicile-travail grâce à la prise en charge par l'employeur de tout ou partie des frais engagés par les salariés utilisant le vélo pour ces trajets. En outre, la loi de finances rectificative (LFR) pour 2015 a également consacré sans ambiguïté le caractère facultatif de cette prise en charge, qui était un point qui faisait l'objet d'interrogations et nécessitait une clarification : la décision de mise en œuvre appartient à l'employeur. À l'instar de la prise en charge partielle des abonnements de transport collectif, l'IKV bénéficie d'un dispositif d'exonération de cotisations sociales pour les employeurs privés et d'impôt sur le revenu pour les salariés. Le plafond de ces exonérations a été directement fixé par la LFR pour 2015, à hauteur de 200 € par an et par salarié. Le décret n° 2016-144 du 11 février 2016 relatif au versement d'une indemnité kilométrique vélo par les employeurs privés fixe à 25 centimes d'euro par kilomètre le montant de l'IKV et les conditions de cumul avec le remboursement des abonnements de transport en commun ou de service public de location de vélo. Les autres modalités telles que les conditions d'éligibilité, les seuils minimum ou maximum de versement ou encore les précisions dans les justificatifs demandés ont vocation à être fixées par chaque employeur qui décidera de prendre en charge l'IKV. L'application du dispositif aux salariés du secteur public est à l'étude.
