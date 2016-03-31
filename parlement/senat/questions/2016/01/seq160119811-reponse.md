@@ -1,0 +1,9 @@
+# Réponse à la question SEQ160119811
+
+- Question : [SEQ160119811](seq160119811.md) — Versement des aides aux producteurs bio
+
+## Réponse
+
+*Agriculture, agroalimentaire et forêt, JO du 2016-03-31, page 1290*
+
+Les paiements des aides de la politique agricole commune (PAC) dues aux agriculteurs au titre de la campagne 2015 se feront plus tard qu'à l'habitude, en raison de la révision complète des outils de déclaration et d'instruction des surfaces admissibles aux aides de la PAC (registre parcellaire graphique) pour se conformer aux exigences européennes, suite à l'amende infligée à la France pour mauvaise application de la PAC sur la période 2008-2012. Pour faire face au décalage du calendrier de paiement des aides PAC 2015, le ministre de l'agriculture, de l'agroalimentaire et de la forêt a décidé la mise en place d'un apport de trésorerie remboursable. Cette aide exceptionnelle, entièrement financée sur le budget de l'État, a pour objectif d'éviter les difficultés des agriculteurs en attendant le versement des aides PAC. Elle sera remboursée au moment du versement des aides PAC. Le ministre en charge de l'agriculture a annoncé le 26 janvier 2016 l'extension de l'apport de trésorerie, de façon à couvrir l'intégralité des aides liées aux surfaces agricoles demandées par les agriculteurs au titre de la campagne 2015 aux mesures agro-environnementales et climatiques et aux aides bio. La mise en place du paiement de cette composante est prévue pour avril 2016 et permettra d'apporter une réponse aux agriculteurs en agriculture biologique dans l'attente de la finalisation de l'instruction des aides. S'agissant des aides PAC 2016, le calendrier de dépôt des demandes, d'instruction et de paiement des aides 2016 sera à nouveau un calendrier normal. Cela commencera par le dépôt des demandes qui aurait lieu de début avril à mi-mai 2016.
