@@ -1,3 +1,7 @@
 # Article Annexe 2
 
-L'annexe 2 du présent arrêté relative au formulaire CERFA n° 14435* 02 unique pour les récépissés des DT et des DICT peut être obtenue par téléchargement sur le site internet : http://www.service-public.fr/formulaires/.
+Formulaire CERFA n° 14435 de récépissé de DT ou DICT (modifiant l'annexe 2 de l'arrêté du 15 février 2012)
+
+Disponible à l'adresse suivante :
+
+https://www.formulaires.modernisation.gouv.fr/gf/cerfa_14435.do
