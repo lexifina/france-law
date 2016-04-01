@@ -12,4 +12,4 @@ Les critères à la carte , devenant obligatoires pour accéder à la distinctio
 
 II. - Critères à la carte devenant obligatoires
 
-Les critères à la carte devenant obligatoires pour accéder à la distinction Palace sont les critères portant les numéros ci-après au sein du tableau de classement hôtelier en catégorie cinq (5) étoiles figurant en annexe de l'arrêté du 23 décembre 2009 modifié : critères n° 7, n° 8, n° 13, n° 17, n° 22, n° 48, n° 146, n° 147, n° 150, n° 151, n° 167, n° 169, n° 171, n° 172, n° 182, n° 187, n° 189, n° 196, n° 198, n° 201, n° 203, n° 208, n° 210, n° 216, n° 217, n° 218, n° 219, n° 220, n° 221, n° 224 et n° 226.
+Les critères à la carte devenant obligatoires pour accéder à la distinction Palace sont les critères portant les numéros ci-après au sein du tableau de classement hôtelier en catégorie cinq (5) étoiles figurant en annexe de l'arrêté du 23 décembre 2009 modifié : critères nos 11, 16, 20, 43, 72 ou 73, 83, 103, 118, 123, 154, 155, 156 ou 157, 158, 159, 177, 187, 189, 195, 200, 203, 207, 210, 213, 214, 215, 216, 217, 221, 223.
