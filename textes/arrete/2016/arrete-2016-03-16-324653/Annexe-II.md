@@ -1,4 +1,4 @@
-# Article Annexe 6
+# Article Annexe II
 
 TABLEAU SYNTHÉTIQUE DES ESPÈCES D'OISEAUX RÉPUTÉS ÉLEVÉS DE MANIÈRE SYSTÉMATIQUE EN VOLIÈRE ET POUVANT À CE TITRE BÉNÉFICIER DE DÉROGATION À L'INTERDICTION DES RASSEMBLEMENTS
 
@@ -8,9 +8,7 @@ ORDRES
 
 ESPÈCES RÉPUTÉES ÉLEVÉES DE MANIÈRE SYSTÉMATIQUE EN VOLIÈRE
 
-et pouvant à ce titre bénéficier de dérogation vis-à-vis de l'interdiction
-
-des rassemblements
+et pouvant à ce titre bénéficier de dérogation vis-à-vis de l'interdiction des rassemblements
 
 |
 
