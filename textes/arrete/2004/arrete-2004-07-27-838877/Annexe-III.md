@@ -12,7 +12,7 @@ Dans les installations déjà agréées et dans le cadre du même agrément, un 
 
 En cas de remplacement d'un matériel visé aux points 1.1,1.2 et 1.5 sur une installation agréée, le nouveau matériel visé aux points 1.1,1.2 et 1.5 est conforme aux dispositions prévues par la mise à jour la plus récente de la norme ou du cahier des charges applicable, y compris la transmission informatique entre le matériel et l'informatique de l'installation.
 
-Dans le cas particulier des dispositifs de contrôle du réglage des feux d'éclairage, la mise à niveau est effectuée au plus tard le 1er juillet 2016.
+Dans le cas particulier des dispositifs de contrôle du réglage des feux d'éclairage, la mise à niveau est effectuée au plus tard le 1er mars 2017.
 
 Les équipements suivants transmettent les mesures par liaison informatique :
 
@@ -22,7 +22,7 @@ Les équipements suivants transmettent les mesures par liaison informatique :
 
 -dispositif de diagnostic des systèmes embarqués de contrôle des émissions polluantes (disposition applicable à compter du 1er janvier 2011) ;
 
--dispositif de contrôle du réglage des feux d'éclairage (à compter du 1er juillet 2016).
+- dispositif de contrôle du réglage des feux d'éclairage (à compter du 1er mars 2017) ;
 
 La liste des mesures transmises par liaison informatique est définie dans le protocole prévu au point c de l'article 38 du présent arrêté.
 
