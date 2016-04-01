@@ -1,0 +1,37 @@
+# Réponse à la question n° 1383
+
+- Question : [1383](1383.md) — Question n° 1383 — mises en demeure; disparités géographiques
+
+## Réponse
+
+*JO du 2016-04-01*
+
+APPLICATION DES PLANS D'ACTION RELATIFS À L'ÉGALITÉ PROFESSIONNELLE
+
+M. le président. La parole est à Mme Sandrine Mazetier, pour exposer sa question, n° 1383, relative à l'application des plans d'action relatifs à l'égalité professionnelle.
+
+Mme Sandrine Mazetier. Madame la secrétaire d’État, je partage la détermination du Gouvernement à agir pour l'égalité entre les femmes et les hommes. Dès l'automne 2012, un décret, puis la loi du 4 août 2014, ont permis de rappeler les entreprises à leur devoir de conclure un accord ou de déposer un plan d'action relatif à l'égalité professionnelle sous peine de sanctions. Ainsi, depuis 2013, le nombre d'accords conclus et de plans d'action déposés est passé de moins de 800 à plus de 10 000 au 15 juillet 2015. Dans la même période, le nombre de mises en demeure prononcées par les inspecteurs du travail est passé de 251 à plus de 2 000.
+
+Il ne faut toutefois jamais baisser la garde et relâcher l'effort. Car derrière ces résultats encourageants, d'importantes disparités régionales persistent, qu'il s'agisse du nombre d'entreprises couvertes par un accord ou un plan d'action ou du nombre de mises en demeure prononcées. Ainsi, en Île-de-France, région où le taux d'activité des femmes est pourtant le plus élevé de toute la France, le taux d'entreprises couvertes par un accord ou un plan d'action est inférieur au taux national. Je trouve préoccupant que, dans la première région de France et d'Europe, seule une entreprise sur trois soit couverte par un accord sur l'égalité professionnelle. Que compte faire le Gouvernement pour que certaines régions, et tout particulièrement l'Île-de-France, comblent leur retard ?
+
+J'ai par ailleurs la certitude que mettre en lumière les facteurs expliquant la persistance des inégalités entre les femmes et les hommes permet précisément de mieux les combattre. C'est pourquoi je ne comprends pas que les parlementaires ne disposent pas, dès leur publication, des avis du Conseil supérieur de l'égalité professionnelle. Seriez-vous disposée à les rendre publics ou, à tout le moins, à les transmettre aux délégations aux droits des femmes des deux assemblées ?
+
+M. le président. La parole est à Mme la secrétaire d'État chargée de la ville.
+
+Mme Hélène Geoffroy, secrétaire d'État chargée de la ville. Madame la députée, je vous prie d'excuser l'absence de Mme Rossignol, au nom de qui je répondrai. Vous nous interrogez sur les moyens mis en œuvre par le Gouvernement en matière de contrôle du respect par les entreprises de leurs obligations relatives au sujet important de l'égalité professionnelle entre les femmes et les hommes, et plus particulièrement sur les disparités constatées entre les régions dans la réalisation de ces contrôles auprès des entreprises.
+
+Depuis 2012, les actions du Gouvernement en faveur de l'égalité professionnelle sont nombreuses. La loi du 4 août 2014 a renforcé les outils juridiques de l'égalité professionnelle en ajoutant deux domaines de comparaison de la situation des femmes et des hommes : la santé-sécurité au travail et les déroulements de carrière. Elle a également renforcé les sanctions appliquées aux entreprises. La loi pour le dialogue social du 17 août 2015 simplifie ces outils. Le rapport de situation comparée est désormais réalisé sous la forme d'une base de données. L'égalité professionnelle est présente dans les trois négociations obligatoires : égalité professionnelle et qualité de vie, rémunérations et parcours professionnels. En l'absence d'accord d'entreprise ou de plan d'action en faveur de l'égalité entre les femmes et les hommes, les sanctions financières peuvent aller jusqu'à 1 % de la masse salariale. Le non-respect de ces obligations est également passible d'une interdiction de soumissionner aux marchés publics.
+
+Afin de rendre ces mesures effectives pour l'ensemble des salariés, le Gouvernement a fait le choix du dialogue et de la pédagogie en privilégiant les incitations et l'accompagnement. Les contrôles et les sanctions n'interviennent que de manière subsidiaire. Le respect de l'égalité entre les femmes et les hommes fait partie des trois grandes priorités de l'inspection du travail. Il s'agit donc de rendre ce principe opératoire. Les directions régionales des entreprises, de la concurrence, de la consommation, du travail et de l'emploi – DIRECCTE – réalisent un travail d'accompagnement des entreprises. Elles peuvent mettre en demeure les entreprises défaillantes et les aider à régulariser leur situation. C'est la voie qui a été privilégiée.
+
+Les résultats montrent l'efficacité de cette démarche – j'ai bien compris que tel était l'objet de votre inquiétude. En décembre 2015, près de 40 % des entreprises étaient couvertes par un accord ou un plan d'action. Ce taux de couverture a progressé de 23 points depuis janvier 2013. Ce chiffre doit être explicité, car il y a un effet taille qui doit être pris en compte : au 15 décembre 2015, 84 % des entreprises de plus de 1 000 salariés étaient couvertes par un accord d'entreprise ou un plan d'action ; 67 % des entreprises comptant entre 299 et 999 salariés ; 34 % des entreprises de 50 à 299 salariés – les entreprises comptant le moins de salariés doivent donc être particulièrement accompagnées. Même si ce dernier chiffre reste insuffisant, le nombre d'accords et de plans déposés auprès des DIRECCTE progresse régulièrement : on en compte aujourd'hui près de 12 000. De plus, 2 000 mises en demeure ont été adressées aux entreprises. Parmi elles, moins d'une centaine ont été sanctionnées, les entreprises se mettant généralement en conformité avec leurs obligations en quelques mois grâce à l'accompagnement des services de l'État.
+
+Les démarches engagées depuis quelques années par les DIRECCTE produisent leurs effets, mais pas toujours de façon homogène. En effet, certaines régions se situent en dessous de la moyenne des taux de couverture. C'est la raison pour laquelle le suivi des accords sur l'égalité professionnelle est l'un de huit objectifs fixés au système d'inspection du travail pour 2016. À l'occasion du dialogue de gestion, chaque DIRECCTE a été invitée à produire un plan d'action détaillant pour 2016 les actions qui sont mises en œuvre au bénéfice de ce dispositif et précisant la manière dont serait mobilisé l'ensemble des services et des agents concernés.
+
+Cette mobilisation va permettre d'accélérer la montée en charge de la signature des accords ou des plans d'action dans les plus petites entreprises. Elle doit également tenir compte des enseignements tirés des précédents plans, notamment en ce qui concerne le lien fort démontré lors des années précédentes entre contrôle, mise en demeure et taux de couverture des entreprises.
+
+Il est demandé aux services de porter une attention particulière à la cohérence de l'ensemble des actions – sensibilisation, information, accompagnement à la négociation, contrôle – et à la production des données mensuelles traçant la prise en compte des obligations.
+
+Chaque DIRECCTE devra contribuer en 2016 à la poursuite des progrès constatés, avec comme objectif un taux de couverture d'au moins 55 %.
+
+Vous le savez, la volonté du Gouvernement est bien de développer au sein de chaque entreprise une culture de l'égalité professionnelle.
