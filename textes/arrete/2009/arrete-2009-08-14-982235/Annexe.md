@@ -1,18 +1,14 @@
 # Article Annexe
 
-OBLIGATIONS DE SERVICE PUBLIC IMPOSÉES SUR LES SERVICES
+OBLIGATIONS DE SERVICE PUBLIC IMPOSÉES SUR LES SERVICES AÉRIENS RÉGULIERS ENTRE STRASBOURG ET PRAGUE
 
-AÉRIENS RÉGULIERS ENTRE STRASBOURG ET PRAGUE
-
-Les obligations de service public imposées sur les services aériens réguliers entre l'aéroport de Strasbourg et celui de Prague sont les suivantes :
+A compter du 1er avril 2016, les obligations de service public imposées sur les services aériens réguliers entre l'aéroport de Strasbourg et celui de Prague sont les suivantes :
 
 En termes de fréquences
 
-Les services doivent être exploités sans changement d'appareil entre Strasbourg et Prague à raison, au minimum, d'un aller et retour par jour du lundi au vendredi pendant 230 jours par an, dont notamment du lundi au vendredi pendant les semaines de session du Parlement européen.
+Les services doivent être exploités sans changement d'appareil entre Strasbourg et Prague à raison, au minimum, d'un aller et retour par jour les lundi, jeudi et vendredi pendant 138 jours par an, notamment pendant les semaines de session du Parlement européen.
 
-En termes de catégories d'appareils
-
-utilisés et de capacité offerte
+En termes de catégories d'appareils utilisés et de capacité offerte
 
 Les services doivent être assurés avec un appareil d'au moins trente-cinq sièges.
 
