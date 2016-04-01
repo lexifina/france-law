@@ -8,23 +8,15 @@ L'avis d'opportunité, l'avis de conformité ainsi que le descriptif des enquêt
 
 1.A Enquêtes d'initiative nationale
 
-DÉMOGRAPHIE ET QUESTIONS SOCIALES
+DÉMOGRAPHIE ET QUESTIONS SOCIALES |
 
-|
-
-PÉRIODICITÉ
-
-|
+PÉRIODICITÉ |
 
 PRODUCTEURS (*)
 
-(voir liste des producteurs)
+(voir liste des producteurs) |
 
-|
-
-Démographie
-
-|
+Démographie |
 
 |
 
@@ -32,23 +24,15 @@ Démographie
 
 Bulletins d'état civil
 
-Enquêtes annuelles de recensement - Cycle 2015-2019 (dont recensement des communautés)
-
-|
+Enquêtes annuelles de recensement - Cycle 2015-2019 (dont recensement des communautés) |
 
 Annuelle
 
-Annuelle
+Annuelle |
 
-|
+INSEE |
 
-INSEE
-
-|
-
-Conditions de vie
-
-|
+Conditions de vie |
 
 |
 
@@ -56,63 +40,39 @@ Conditions de vie
 
 Enquête de conjoncture auprès des ménages mensuelle (CAMME)
 
-Enquête " Budget de famille " 2016-2017
-
-|
+Enquête " Budget de famille " 2016-2017 |
 
 Mensuelle
 
-Ponctuelle
+Ponctuelle |
 
-|
+INSEE |
 
-INSEE
-
-|
-
-Prix
+Prix |
 
 |
 
 |
 
-|
+Enquête sur le prix des terrains et du bâti |
 
-Enquête sur le prix des terrains et du bâti
+Annuelle |
 
-|
+SOeS |
 
-Annuelle
-
-|
-
-SOeS
-
-|
-
-Logement
+Logement |
 
 |
 
 |
 
-|
+Enquête nationale sur les loyers et charges |
 
-Enquête nationale sur les loyers et charges
+Trimestrielle |
 
-|
+INSEE |
 
-Trimestrielle
-
-|
-
-INSEE
-
-|
-
-Ressources
-
-|
+Ressources |
 
 |
 
@@ -120,57 +80,35 @@ Ressources
 
 Enquête " Statistiques sur les ressources et les conditions de vie " (SRCV)
 
-Enquête sur l'accès aux services - Module secondaire du dispositif SRCV 2016
-
-|
+Enquête sur l'accès aux services - Module secondaire du dispositif SRCV 2016 |
 
 Annuelle
 
-Ponctuelle
+Ponctuelle |
 
-|
+INSEE |
 
-INSEE
+EMPLOI, QUALIFICATION ET REVENUS DU TRAVAIL |
 
-|
-
-EMPLOI, QUALIFICATION ET REVENUS DU TRAVAIL
-
-|
-
-PÉRIODICITÉ
-
-|
+PÉRIODICITÉ |
 
 PRODUCTEURS (*)
 
-(voir liste des producteurs)
+(voir liste des producteurs) |
 
-|
-
-Emploi, insertion professionnelle, salaires
-
-|
+Emploi, insertion professionnelle, salaires |
 
 |
 
 |
 
-Dispositif d'enquête sur les formations et les itinéraires des salariés (DEFIS) - Volet salariés
+Dispositif d'enquête sur les formations et les itinéraires des salariés (DEFIS) - Volet salariés |
 
-|
+Annuelle |
 
-Annuelle
+CÉREQ |
 
-|
-
-CÉREQ
-
-|
-
-Emploi, insertion professionnelle, salaires
-
-|
+Emploi, insertion professionnelle, salaires |
 
 |
 
@@ -184,9 +122,7 @@ Enquête " Risques psycho-sociaux " (RPS) 2015-2016
 
 Enquête auprès des bénéficiaires d'un emploi d'avenir (EAv) et d'une population témoin (vagues 2, 3, 4 et 5)
 
-Enquête sur la formation des adultes (AES) 2016
-
-|
+Enquête sur la formation des adultes (AES) 2016 |
 
 Annuelle
 
@@ -196,17 +132,11 @@ Ponctuelle
 
 Annuelle
 
-Ponctuelle
+Ponctuelle |
 
-|
+DARES |
 
-DARES
-
-|
-
-Emploi, insertion professionnelle, salaires
-
-|
+Emploi, insertion professionnelle, salaires |
 
 |
 
@@ -218,9 +148,7 @@ Enquête annuelle Emploi à Mayotte
 
 Enquête sur l'entrée dans la vie adulte (EVA)
 
-Enquête " Insertion des jeunes sur le marché du travail " - Module complémentaire de l'enquête Emploi 2016
-
-|
+Enquête " Insertion des jeunes sur le marché du travail " - Module complémentaire de l'enquête Emploi 2016 |
 
 Annuelle
 
@@ -228,13 +156,9 @@ Annuelle
 
 Annuelle
 
-Ponctuelle
+Ponctuelle |
 
-|
-
-INSEE
-
-|
+INSEE |
 
 Emploi, insertion professionnelle, salaires
 
@@ -260,47 +184,29 @@ INSEE
 
 |
 
-SERVICES PUBLICS ET SERVICES AUX PUBLICS
+SERVICES PUBLICS ET SERVICES AUX PUBLICS |
 
-|
-
-PÉRIODICITÉ
-
-|
+PÉRIODICITÉ |
 
 PRODUCTEURS (*)
 
-(voir liste des producteurs)
-
-|
+(voir liste des producteurs) |
 
 Panel d'élèves du second degré recrutés en 2007
 
-Panel d'élèves en situation de handicap nés en 2001 et en 2005
-
-|
+Panel d'élèves en situation de handicap nés en 2001 et en 2005 |
 
 Annuelle
 
-Annuelle
+Annuelle |
 
-|
+DEPP |
 
-DEPP
+Enquête " Capacités, aides et ressources des seniors en ménages " (CARE) - Ménages, volets seniors et aidants 2015 |
 
-|
+Ponctuelle |
 
-Enquête " Capacités, aides et ressources des seniors en ménages " (CARE) - Ménages, volets seniors et aidants 2015
-
-|
-
-Ponctuelle
-
-|
-
-DREES
-
-|
+DREES |
 
 Enquête statistique sur le devenir des bacheliers 2014 (ancien nom : enquête sur le suivi des bacheliers)
 
@@ -312,89 +218,55 @@ Enquêtes sur les effectifs d'étudiants dans les établissements supérieurs (s
 
 - enquête auprès des autres établissements d'enseignement
 
-supérieur non rattachés aux universités
-
-|
+supérieur non rattachés aux universités |
 
 Annuelle
 
-Annuelle
+Annuelle |
 
-|
-
-SIES
-
-|
+SIES |
 
 2. Enquêtes d'intérêt général
 
 2.A Enquêtes d'initiative nationale
 
-DÉMOGRAPHIE ET QUESTIONS SOCIALES
+DÉMOGRAPHIE ET QUESTIONS SOCIALES |
 
-|
+PÉRIODICITÉ |
 
-PÉRIODICITÉ
+PRODUCTEURS (*) (voir liste des producteurs) |
 
-|
-
-PRODUCTEURS (*) (voir liste des producteurs)
-
-|
-
-Démographie
+Démographie |
 
 |
 
 |
 
-|
+Enquête de suivi du Panel Patrimoine 2015 |
 
-Enquête de suivi du Panel Patrimoine 2015
+Ponctuelle |
 
-|
+INSEE |
 
-Ponctuelle
+EMPLOI, QUALIFICATION ET REVENUS DU TRAVAIL |
 
-|
-
-INSEE
-
-|
-
-EMPLOI, QUALIFICATION ET REVENUS DU TRAVAIL
-
-|
-
-PÉRIODICITÉ
-
-|
+PÉRIODICITÉ |
 
 PRODUCTEURS (*)
 
-(voir liste des producteurs)
+(voir liste des producteurs) |
 
-|
-
-Emploi, insertion professionnelle, salaires
-
-|
+Emploi, insertion professionnelle, salaires |
 
 |
 
 |
 
-Enquête auprès des sortants des listes de demandeurs d'emploi de Pôle emploi
+Enquête auprès des sortants des listes de demandeurs d'emploi de Pôle emploi |
 
-|
+Trimestrielle |
 
-Trimestrielle
-
-|
-
-DARES et Pôle emploi
-
-|
+DARES et Pôle emploi |
 
 Emploi, insertion professionnelle, salaires
 
@@ -420,91 +292,53 @@ CÉREQ
 
 |
 
-SERVICES PUBLICS ET SERVICES AUX PUBLICS
+SERVICES PUBLICS ET SERVICES AUX PUBLICS |
 
-|
-
-PÉRIODICITÉ
-
-|
+PÉRIODICITÉ |
 
 PRODUCTEURS (*)
 
-(voir liste des producteurs)
+(voir liste des producteurs) |
 
-|
+Système d'information et de vigilance sur la sécurité scolaire (SIVIS) |
 
-Système d'information et de vigilance sur la sécurité scolaire (SIVIS)
+Annuelle |
 
-|
-
-Annuelle
-
-|
-
-DEPP
-
-|
+DEPP |
 
 Enquête sur le cheminement scolaire et professionnel des diplômés de l'enseignement technique agricole
 
-Enquête sur l'insertion scolaire et professionnelle à court terme des sortants de l'enseignement technique agricole
-
-|
+Enquête sur l'insertion scolaire et professionnelle à court terme des sortants de l'enseignement technique agricole |
 
 Annuelle
 
-Annuelle
+Annuelle |
 
-|
-
-DGER
-
-|
+DGER |
 
 Enquête sur l'action sociale des communes et des intercommunalités (ASCO)**
 
-Enquête nationale périnatale 2016
-
-|
+Enquête nationale périnatale 2016 |
 
 Ponctuelle
 
-Ponctuelle
+Ponctuelle |
 
-|
+DREES |
 
-DREES
+Cohorte " Constances " |
 
-|
+Annuelle |
 
-Cohorte " Constances "
+INSERM |
 
-|
+Enquête sur le devenir des bacheliers 2008 |
 
-Annuelle
+Annuelle |
 
-|
+SIES |
 
-INSERM
-
-|
-
-Enquête sur le devenir des bacheliers 2008
-
-|
-
-Annuelle
-
-|
-
-SIES
-
-|
-
-Enquête sur les délais d'attente en matière d'accès aux soins
-
-|
+Enquête sur les délais d'attente en matière d'accès aux soins |
 
 Ponctuelle
 
@@ -514,200 +348,152 @@ DREES
 
 |
 
-** Enquête examinée à la commission " Collectivités territoriales " du Comité du label.
-
-|
+** Enquête examinée à la commission " Collectivités territoriales " du Comité du label. |
 
 2.B Enquête d'initiative régionale
 
-DÉMOGRAPHIE ET QUESTIONS SOCIALES
+DÉMOGRAPHIE ET QUESTIONS SOCIALES |
 
-|
-
-PÉRIODICITÉ
-
-|
+PÉRIODICITÉ |
 
 PRODUCTEURS (*)
 
-(voir liste des producteurs)
+(voir liste des producteurs) |
 
-|
-
-Conditions de vie
-
-|
+Conditions de vie |
 
 |
 
 |
 
-Enquête " Migrations, Famille et Vieillissement " (MFV) à Mayotte
+Enquête " Migrations, Famille et Vieillissement " (MFV) à Mayotte |
 
-|
-
-Ponctuelle
-
-|
+Ponctuelle |
 
 INSEE/Direction régionale de
 
 La Réunion
 
-et INED
-
-|
+et INED |
 
 Liste des producteurs
 
-SIGLE DU PRODUCTEUR
+SIGLE DU PRODUCTEUR |
 
-|
-
-INTITULÉ DU PRODUCTEUR
-
-|
+INTITULÉ DU PRODUCTEUR |
 
 MINISTÈRE OU MINISTÈRE DE TUTELLE
 
-LE CAS ÉCHÉANT
+LE CAS ÉCHÉANT |
 
-|
+Céreq |
 
-Céreq
-
-|
-
-Centre d'études et de recherches sur les qualifications
-
-|
+Centre d'études et de recherches sur les qualifications |
 
 Ministère de l'éducation nationale, de l'enseignement supérieur et de la recherche
 
-Ministère du travail, de l'emploi, de la formation professionnelle et du dialogue social
+Ministère du travail, de l'emploi, de la formation professionnelle et du dialogue social |
 
-|
+DARES |
 
-DARES
+Direction de l'animation de la recherche, des études et des statistiques |
 
-|
+Ministère du travail, de l'emploi, de la formation professionnelle et du dialogue social |
 
-Direction de l'animation de la recherche, des études et des statistiques
+DGER |
 
-|
+Direction générale de l'enseignement et de la recherche |
 
-Ministère du travail, de l'emploi, de la formation professionnelle et du dialogue social
+Ministère de l'agriculture, de l'agroalimentaire et de la forêt |
 
-|
+DEPP |
 
-DGER
+Direction de l'évaluation, de la prospective et de la performance |
 
-|
+Ministère de l'éducation nationale, de l'enseignement supérieur et de la recherche |
 
-Direction générale de l'enseignement et de la recherche
+DREES |
 
-|
+Direction de la recherche, des études, de l'évaluation et des statistiques |
 
-Ministère de l'agriculture, de l'agroalimentaire et de la forêt
+Ministère des affaires sociales, de la santé et des droits des femmes |
 
-|
+INED |
 
-DEPP
-
-|
-
-Direction de l'évaluation, de la prospective et de la performance
-
-|
+Institut national des études démographiques |
 
 Ministère de l'éducation nationale, de l'enseignement supérieur et de la recherche
 
-|
+Ministère des affaires sociales, de la santé et des droits des femmes |
 
-DREES
+INSEE |
 
-|
-
-Direction de la recherche, des études, de l'évaluation et des statistiques
-
-|
-
-Ministère des affaires sociales, de la santé et des droits des femmes
-
-|
-
-INED
-
-|
-
-Institut national des études démographiques
-
-|
-
-Ministère de l'éducation nationale, de l'enseignement supérieur et de la recherche
-
-Ministère des affaires sociales, de la santé et des droits des femmes
-
-|
-
-INSEE
-
-|
-
-Institut national de la statistique et des études économiques
-
-|
+Institut national de la statistique et des études économiques |
 
 Ministère des finances et des comptes publics
 
-Ministère de l'économie, de l'industrie et du numérique
+Ministère de l'économie, de l'industrie et du numérique |
 
-|
+INSERM |
 
-INSERM
+Institut national de la santé et de la recherche médicale |
 
-|
+Ministère de l'éducation nationale, de l'enseignement supérieur et de la recherche |
 
-Institut national de la santé et de la recherche médicale
+Pôle emploi |
 
-|
+Pôle emploi (établissement public) |
 
-Ministère de l'éducation nationale, de l'enseignement supérieur et de la recherche
+Ministère du travail, de l'emploi, de la formation professionnelle et du dialogue social |
 
-|
+SIES |
 
-Pôle emploi
+Sous-direction des systèmes d'information et des études statistiques |
 
-|
+Ministère de l'éducation nationale, de l'enseignement supérieur et de la recherche |
 
-Pôle emploi (établissement public)
+SOeS |
 
-|
+Service de l'observation et des statistiques |
 
-Ministère du travail, de l'emploi, de la formation professionnelle et du dialogue social
+Ministère de l'écologie, du développement durable et de l'énergie |
 
-|
+PROGRAMME D'ENQUÊTES STATISTIQUES DES SERVICES PUBLICS AUPRÈS DES MÉNAGES ET DES COLLECTIVITÉS TERRITORIALES POUR 2016
 
-SIES
+L'avis d'opportunité, l'avis de conformité ainsi que le descriptif des enquêtes sont disponibles sur le site du CNIS (www.cnis.fr).
 
-|
+2. Enquête d'intérêt général
 
-Sous-direction des systèmes d'information et des études statistiques
+2. A.-Enquête d'initiative nationale
 
-|
+TERRITOIRES |
 
-Ministère de l'éducation nationale, de l'enseignement supérieur et de la recherche
+PÉRIODICITÉ |
 
-|
+PRODUCTEUR |
 
-SOeS
+Enquête trimestrielle de conjoncture sur l'investissement public local (*) |
 
-|
+Trimestrielle |
 
-Service de l'observation et des statistiques
+INSEE |
 
-|
+(*) Enquête examinée à la commission "collectivités territoriales" du Comité du label. |
 
-Ministère de l'écologie, du développement durable et de l'énergie
+Producteur
 
-|
+SIGLE DU PRODUCTEUR |
+
+INTITULÉ DU PRODUCTEUR |
+
+MINISTÈRE OU MINISTÈRE DE TUTELLE
+
+le cas échéant |
+
+INSEE |
+
+Institut national de la statistique et des études économiques |
+
+Ministère des finances et des comptes publics
+
+Ministère de l'économie, de l'industrie et du numérique |
