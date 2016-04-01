@@ -4,13 +4,17 @@ MILITAIRES DE RÉSERVE DE LA GENDARMERIE NATIONALE
 
 La commission d'avancement mentionnée à l'article 10 se compose des officiers désignés dans le tableau ci-après :
 
-PRÉSIDENCE DE LA COMMISSION
+PRÉSIDENCE
+
+de la commission
 
 titulaire
 
 |
 
-PRÉSIDENCE DE LA COMMISSION
+PRÉSIDENCE
+
+de la commission
 
 suppléant
 
@@ -36,7 +40,7 @@ Le délégué aux réserves de la gendarmerie.
 
 |
 
-Le chef du bureau du personnel de la réserve militaire de la direction générale de la gendarmerie nationale, ou son représentant.
+Le chef du bureau des ressources humaines de la délégation aux réserves de la gendarmerie ou son représentant.
 
 |
 

@@ -4,15 +4,17 @@ CHANGEMENT D'ARMÉE OU DE CORPS POUR INTÉGRER LE CORPS DES SOUS-OFFICIERS DE GE
 
 La commission d'avancement mentionnée à l'article 6 se compose des officiers désignés dans le tableau ci-après :
 
-PRÉSIDENCE DE LA COMMISSION
+PRÉSIDENCE
+
+de la commission
 
 titulaire
 
 |
 
-PRÉSIDENCE DE LA COMMISSION
+PRÉSIDENCE
 
-suppléant
+de la commission suppléant
 
 |
 
@@ -56,7 +58,7 @@ L'officier de gendarmerie adjoint au sous-directeur de la gestion du personnel.
 
 |
 
-Le chef du bureau du personnel sous-officier du corps de soutien technique et administratif de la gendarmerie nationale, ou son représentant.
+Le chef du bureau du personnel sous-officier du corps de soutien technique et administratif de la gendarmerie nationale, ou son adjoint.
 
 |
 
@@ -64,7 +66,7 @@ Un officier supérieur du corps technique et administratif de la gendarmerie nat
 
 |
 
-Le chef du bureau du recrutement, des concours et des examens.
+Le chef du bureau du recrutement, des concours et des examens, ou son adjoint.
 
 |
 

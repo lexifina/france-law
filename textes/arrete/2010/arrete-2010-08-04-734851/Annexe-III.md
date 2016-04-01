@@ -18,9 +18,7 @@ de la commission titulaire
 
 PRÉSIDENCE
 
-de la commission suppléante
-
-|
+de la commission suppléante |
 
 MEMBRES
 
@@ -328,21 +326,9 @@ L'officier de gendarmerie adjoint au sous-directeur de la gestion du personnel.
 
 |
 
-Un officier supérieur
+Trois officiers supérieurs appartenant respectivement à la direction des opérations et de l'emploi, à la direction des personnels militaires de la gendarmerie nationale et à la direction des soutiens et des finances.
 
-du cabinet du directeur général de la gendarmerie nationale.
-
-Un officier supérieur de la direction des opérations et de l'emploi.
-
-Un officier supérieur de la direction des personnels militaires de la gendarmerie nationale.
-
-Un officier supérieur de la direction des soutiens et des finances.
-
-Un officier supérieur du service d'information et de relations publiques des armées-gendarmerie.
-
-Un officier supérieur du service des technologies et des systèmes d'information de la sécurité intérieure.
-
-Un officier supérieur de la mission du pilotage et de la performance.
+Un officier supérieur de chaque service comptant au moins un sous-officier de gendarmerie remplissant les conditions statutaires pour être promu au grade supérieur (cabinet du directeur général de la gendarmerie nationale, service des technologies et des systèmes d'information de la sécurité intérieure, service d'information et de relations publiques des armées-gendarmerie, mission du pilotage et de la performance, service de l'achat, des équipements et de la logistique de la sécurité intérieure, délégation aux réserves de la gendarmerie).
 
 Le chef du bureau du personnel sous-officier de gendarmerie et volontaire.
 
@@ -380,7 +366,7 @@ Le commandant en second du groupe d'intervention de la gendarmerie nationale.
 
 |
 
-Les chefs d'états-majors, les chefs des forces et le chef de détachement.
+Les chefs d'états-majors, les chefs des forces et le chef de détachement
 
 |
 
@@ -388,7 +374,7 @@ Personnel servant au sein du pôle judiciaire de la gendarmerie nationale.
 
 |
 
-L'adjoint au commandant du pôle judiciaire de la gendarmerie nationale.
+L'adjoint au commandant du pôle judiciaire de la gendarmerie nationale
 
 |
 
@@ -398,7 +384,7 @@ L'officier supérieur le plus ancien dans le grade le plus élevé du pôle judi
 
 Le directeur de l'institut de recherche criminelle de la gendarmerie nationale ou le directeur adjoint de l'institut de recherche criminelle de la gendarmerie nationale par suppléance.
 
-Le chef du service technique de recherches judiciaires ou l'adjoint au chef du service technique de recherches judiciaires par suppléance.
+Le commandant du service central de renseignement criminel de la gendarmerie nationale ou l'adjoint au commandant du service central de renseignement criminel de la gendarmerie nationale par suppléance.
 
 Un officier supérieur du pôle judiciaire désigné par le commandant du pôle judiciaire de la gendarmerie nationale.
 
