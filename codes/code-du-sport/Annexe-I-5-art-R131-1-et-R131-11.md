@@ -2,8 +2,6 @@
 
 DISPOSITIONS OBLIGATOIRES DES STATUTS DES FÉDÉRATIONS SPORTIVES AGRÉÉES
 
-DISPOSITIONS GÉNÉRALES.
-
 1. Dispositions relatives au but et à la composition de la fédération
 
 1.1. But de la fédération
@@ -126,7 +124,7 @@ Ils déterminent l'instance compétente pour adopter les règlements de la féd�
 
 2.2.2.2.4. Le mode de scrutin selon lequel se déroulent les élections ;
 
-2.2.2.2.5. Que le mandat de la ou des instances dirigeantes expire au plus tard le 31 mars suivant les jeux Olympiques d'été ou le 30 juin pour les fédérations qui relèvent d'une discipline inscrite aux jeux Olympiques d'hiver ;
+2.2.2.2.5. Que le mandat de la ou des instances dirigeantes expire au plus tard le 31 décembre de l'année durant laquelle se tiennent les jeux Olympiques d'été ou le 30 juin pour les fédérations qui relèvent d'une discipline inscrite aux jeux Olympiques d'hiver ;
 
 2.2.2.2.6. Que ne peuvent être élues membres d'une instance dirigeante :
 
@@ -192,7 +190,7 @@ d) En cas de constatation d'une irrégularité, exiger l'inscription d'observati
 
 Les statuts prévoient :
 
-3.1. Le montant de la dotation ;
+3.1. Le cas échéant, le montant de la dotation ;
 
 3.2. Que les ressources annuelles de la fédération comprennent :
 
@@ -222,7 +220,7 @@ Les statuts précisent les conditions de leur modification et les conditions de 
 
 4.1. Que l'assemblée générale destinée à modifier les statuts est convoquée, sur un ordre du jour comportant les propositions de modifications, sur proposition d'une instance dirigeante ou d'un nombre minimum de membres représentant un nombre minimum de voix, et les règles de quorum et de majorité appropriées ;
 
-4.2. Que l'assemblée générale ne peut prononcer la dissolution de la fédération que si elle est convoquée spécialement à cet effet et dans les conditions prévues pour la modification des statuts ; qu'en cas de dissolution, l'assemblée générale désigne un ou plusieurs commissaires chargés de la liquidation de ses biens ;
+4.2. Que l'assemblée générale ne peut prononcer la dissolution de la fédération que si elle est convoquée spécialement à cet effet et dans les conditions prévues pour la modification des statuts ; qu'en cas de dissolution, l'assemblée générale désigne un ou plusieurs commissaires chargés de la liquidation de ses biens et attribue l'actif net à un ou plusieurs établissements analogues, publics ou reconnus d'utilité publique, ou à des établissements mentionnés au dernier alinéa de l'article 6 de la loi du 1er juillet 1901 ;
 
 4.3. Que les délibérations de l'assemblée générale concernant la modification des statuts, la dissolution de la fédération et la liquidation de ses biens sont adressées sans délai au ministère chargé des sports.
 
@@ -239,29 +237,3 @@ Les statuts prévoient :
 5.4. Que le ministre chargé des sports a le droit de faire visiter par ses délégués les établissements fondés par la fédération et d'être informé des conditions de leur fonctionnement ;
 
 5.5. Qu'un bulletin publie les règlements édictés par la fédération.
-
-TITRE II : DISPOSITIONS SPÉCIFIQUES AUX FÉDÉRATIONS RECONNUES D'UTILITÉ PUBLIQUE.
-
-Les statuts des fédérations sportives reconnues d'utilité publique prévoient en outre :
-
-1. En ce qui concerne les délibérations de la ou des instances dirigeantes : que les délibérations relatives à l'acceptation des dons et legs ne sont valables qu'après approbation administrative donnée dans les conditions prévues par l'article 910 du code civil, l'article 7 de la loi du 4 février 1901 et le décret n° 66-388 du 13 juin 1966 ;
-
-2. En ce qui concerne les délibérations de l'assemblée générale :
-
-que les délibérations relatives aux aliénations de biens mobiliers et immobiliers dépendant de la dotation, à la constitution d'hypothèques et aux emprunts, ne sont valables qu'après approbation administrative ;
-
-3. En ce qui concerne les recettes annuelles de l'association :
-
-qu'elles comprennent le produit des libéralités dont l'emploi est autorisé au cours de l'exercice ;
-
-4. En ce qui concerne les fonds provenant des subventions : qu'il est justifié chaque année auprès du préfet du département, du ministre de l'intérieur et du ministre chargé des sports de l'emploi de ceux qui ont été accordés au cours de l'exercice écoulé ;
-
-5. En ce qui concerne la dissolution, que dans cette hypothèse l'assemblée générale attribue l'actif net à un ou plusieurs établissements analogues, publics ou reconnus d'utilité publique, ou à des établissements mentionnés à l'article 6, cinquième alinéa, de la loi du 1er juillet 1901 modifiée ;
-
-6. En ce qui concerne les délibérations de l'assemblée générale relatives à la modification des statuts et à la dissolution de la fédération : qu'elles sont adressées, sans délai, au ministre de l'intérieur et ne sont valables qu'après leur approbation ;
-
-7. Que les registres de la fédération et ses pièces de comptabilité sont présentés sans déplacement, sur toute réquisition du ministre de l'intérieur ou du préfet, à eux-mêmes ou à leur délégué ou à tout fonctionnaire accrédité par eux ; et que le rapport annuel et les comptes - y compris ceux des instances locales - sont adressés chaque année au préfet du département et au ministre de l'intérieur ;
-
-8. Que le ministre de l'intérieur a le droit de faire visiter par ses délégués les établissements fondés par l'association et de se faire rendre compte de leur fonctionnement ;
-
-9. Que le règlement intérieur, préparé par la ou les instances dirigeantes et adopté par l'assemblée générale, est adressé à la préfecture du département et ne peut entrer en vigueur ni être modifié qu'après approbation du ministre de l'intérieur.
