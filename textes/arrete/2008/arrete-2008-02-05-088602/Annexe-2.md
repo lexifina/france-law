@@ -1,5 +1,7 @@
 # Article Annexe 2
 
+AU 1ER AVRIL 2016
+
 PAYS DE RÉSIDENCE (RYTHME SUD)
 
 |
@@ -32,15 +34,15 @@ a) Montant mensuel
 
 |
 
-690
+604
 
 |
 
-719
+629
 
 |
 
-784
+684
 
 |
 
@@ -48,15 +50,15 @@ b) Droits de première inscription
 
 |
 
-1 468
+1 247
 
 |
 
-1 468
+1 247
 
 |
 
-1 468
+1 247
 
 |
 
@@ -68,51 +70,15 @@ a) Montant mensuel
 
 |
 
-408
+437
 
 |
 
-417
+446
 
 |
 
-426
-
-|
-
-b) Droits de première inscription
-
-|
-
-1 253
-
-|
-
-1 285
-
-|
-
-1 317
-
-|
-
-BRESIL (Rio)
-
-|
-
-a) Montant mensuel
-
-|
-
-840
-
-|
-
-840
-
-|
-
-840
+456
 
 |
 
@@ -120,19 +86,19 @@ b) Droits de première inscription
 
 |
 
-0
+1 356
 
 |
 
-0
+1 390
 
 |
 
-0
+1 425
 
 |
 
-BRESIL (Sao Paulo)
+BRÉSIL (Rio)
 
 |
 
@@ -140,15 +106,51 @@ a) Montant mensuel
 
 |
 
-831
+639
 
 |
 
-903
+639
 
 |
 
-903
+639
+
+|
+
+b) Droits de première inscription
+
+|
+
+0
+
+|
+
+0
+
+|
+
+0
+
+|
+
+BRÉSIL (Sao Paulo)
+
+|
+
+a) Montant mensuel
+
+|
+
+619
+
+|
+
+671
+
+|
+
+695
 
 |
 
@@ -176,15 +178,15 @@ a) Montant mensuel
 
 |
 
-505
+508
 
 |
 
-505
+508
 
 |
 
-505
+508
 
 |
 
@@ -192,15 +194,15 @@ b) Droits de première inscription
 
 |
 
-1 861
+1 458
 
 |
 
-1 861
+1 458
 
 |
 
-1 861
+1 458
 
 |
 
@@ -212,15 +214,15 @@ a) Montant mensuel
 
 |
 
-403
+438
 
 |
 
-403
+438
 
 |
 
-403
+438
 
 |
 
@@ -240,7 +242,7 @@ b) Droits de première inscription
 
 |
 
-PEROU
+PÉROU
 
 |
 
@@ -248,15 +250,15 @@ a) Montant mensuel
 
 |
 
-499
+491
 
 |
 
-499
+491
 
 |
 
-499
+491
 
 |
 
@@ -264,15 +266,15 @@ b) Droits de première inscription
 
 |
 
-4 641
+930
 
 |
 
-3 403
+682
 
 |
 
-2 135
+428
 
 |
 
@@ -284,15 +286,15 @@ a) Montant mensuel
 
 |
 
-654
+592
 
 |
 
-770
+687
 
 |
 
-828
+728
 
 |
 
@@ -300,15 +302,15 @@ b) Droits de première inscription
 
 |
 
-242
+216
 
 |
 
-423
+377
 
 |
 
-423
+377
 
 |
 
@@ -320,15 +322,15 @@ a) Montant mensuel
 
 |
 
-396
+381
 
 |
 
-450
+433
 
 |
 
-497
+478
 
 |
 
@@ -336,14 +338,14 @@ b) Droits de première inscription
 
 |
 
-752
+719
 
 |
 
-752
+719
 
 |
 
-752
+719
 
 |
