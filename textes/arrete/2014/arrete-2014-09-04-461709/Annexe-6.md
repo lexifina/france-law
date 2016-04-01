@@ -36,7 +36,7 @@ Les tableaux récapitulatifs sont complétés en respectant les règles suivante
 
 - pour le volume des certificats d'économies d'énergie "hors précarité énergétique"et"précarité énergétique" : le volume des certificats d'économies d'énergie demandés est exprimé en kilowattheures d'énergie finale cumulée actualisés (cumac) ;
 
-- pour la référence de la fiche d'opération standardisée : la référence de la fiche d'opération standardisée est celle utilisée dans l'arrêté définissant les opérations standardisées d'économies d'énergie. Dans le cas des opérations spécifiques, la référence de la fiche d'opération standardisée est remplacée par SPE-XX-XX.
+- pour la référence de la fiche d'opération standardisée : la référence de la fiche d'opération standardisée est celle utilisée dans l'arrêté définissant les opérations standardisées d'économies d'énergie. Dans le cas des opérations spécifiques, la référence de la fiche d'opération standardisée est remplacée par SPE-YYY(Y)-XX. YYY(Y) correspond au secteur d'activité principal de l'opération spécifique : AGRI pour le secteur agricole, BAR pour le secteur résidentiel, BAT pour le secteur tertiaire, IND pour le secteur industriel, RES pour le secteur des réseaux et TRA pour le secteur des transports.
 
 - pour la nature de la bonification : cette colonne comporte le ou les sigles suivants correspondant aux bonifications dont bénéficie l'opération d'économies d'énergie :
 
@@ -52,8 +52,14 @@ e) "GPE", pour la bonification prévue à l'article 6-1 de l'arrêté du 29 déc
 
 Lorsque plusieurs sigles concernent une même opération, ils sont concaténés par ordre alphabétique en étant séparés par un espace.
 
+- pour le SIREN et la raison sociale du professionnel : le professionnel est le professionnel ayant mis en œuvre ou assuré la maîtrise d'œuvre de l'opération, signataire de l'attestation prévue au point I 9° de l'annexe 4 ou au point 5 de l'annexe 5. La raison sociale peut être remplacée par le nom commercial du professionnel ou son sigle, tels que portés au registre du commerce et des sociétés.
+
 Pour le cas d'un regroupement :
 
 - les colonnes relatives à l'identité du demandeur sont renseignées avec les informations relatives au membre du regroupement concerné par l'opération (et non au regroupeur, sauf en tant que membre du regroupement) ;
 
 - la colonne de la référence EMMY du dossier permet d'identifier le regroupeur : cette référence comporte notamment son numéro de compte.
+
+NOTA :
+
+Conformément à l'article 6 de l'arrêté du 8 février 2016, les présentes dispositions entrent en vigueur pour toutes les demandes de certificats d'économies d'énergie adressées à l'autorité administrative compétente à compter du 1er avril 2016.

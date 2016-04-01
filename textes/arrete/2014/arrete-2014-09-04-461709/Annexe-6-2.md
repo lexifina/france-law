@@ -6,43 +6,49 @@ D'ÉNERGIE LORSQUE LES BÉNÉFICIAIRES SONT DES PERSONNES MORALES
 
 RAISON
 
-SOCIALE du
+sociale
 
-demandeur |
+du demandeur
+
+|
 
 SIREN
 
-du
+du demandeur
 
-demandeur |
+|
 
-RÉFÉRENCE EMMY de la
+RÉFÉRENCE EMMY
 
-demande |
+de la demande
 
-RÉFÉRENCE
+|
 
-interne de
+RÉFÉRENCE interne
 
-l'opération |
+de l'opération
 
-NOM DU SITE
+|
 
-bénéficiaire de
+NOM
 
-l'opération |
+du site bénéficiaire de l'opération
+
+|
 
 ADRESSE
 
-de l'opération |
+de l'opération
 
-CODE POSTAL
+|
 
-sans Cedex |
+CODE
 
-VILLE |
+postal sans Cedex
 
-" |
+|
+
+VILLE
 
 |
 
@@ -58,69 +64,53 @@ VILLE |
 
 |
 
-"Suite du tableau
-
-"RAISON sociale du
-
-bénéficiaire de l'opération |
-
-SIREN |
-
-ADRESSE du siège social du
-
-bénéficiaire de l'opération |
-
-CODE postal sans
-
-Cedex |
-
-VILLE |
-
-" |
-
 |
 
 |
 
-|
+Suite du tableau
+
+RAISON
+
+sociale
+
+du bénéficiaire de l'opération
 
 |
 
-"Suite du tableau
+SIREN
 
-"VOLUME CEE "hors
+|
 
-précarité énergétique"
+ADRESSE du siège social du bénéficiaire de l'opération
 
-(kWh cumac) |
+|
+
+CODE
+
+postal sans Cedex
+
+|
+
+VILLE
+
+|
 
 VOLUME CEE
 
-"précarité énergétique"
+hors précarité
 
-(kWh cumac) |
+énergétique
 
-RÉFÉRENCE de la
+(kWh cumac)
 
-fiche d'opération
+|
 
-standardisée |
+VOLUME CEE
 
-DATE
+précarité énergétique
 
-d'engagement
-
-de l'opération |
-
-DATE
-
-d'achèvement
-
-de l'opération |
-
-NATURE
-
-de la bonification |
+(kWh cumac)
 
 |
 
@@ -131,3 +121,15 @@ de la bonification |
 |
 
 |
+
+|
+
+|
+
+|
+
+Suite et fin du tableau
+
+NOTA :
+
+Conformément à l'article 6 de l'arrêté du 8 février 2016, les présentes dispositions entrent en vigueur pour toutes les demandes de certificats d'économies d'énergie adressées à l'autorité administrative compétente à compter du 1er avril 2016.

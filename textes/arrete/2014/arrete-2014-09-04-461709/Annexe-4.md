@@ -42,6 +42,12 @@ Dans certains cas, notamment lorsque l'opération concernée ne correspond pas �
 
 9° Une attestation sur l'honneur signée par le professionnel mettant en œuvre ou assurant la maîtrise d'œuvre de l'opération précisant son engagement à fournir exclusivement au demandeur les documents permettant de valoriser cette opération au titre du dispositif des certificats d'économies d'énergie et à ne pas signer d'attestation sur l'honneur semblable avec une autre personne morale dans le cadre du dispositif des certificats d'économies d'énergie ;
 
-10° Lorsque l'opération concerne des ménages en situation de précarité énergétique, une attestation sur l'honneur décrivant l'opération d'économies d'énergie et contenant, selon le ou les paragraphes du point 8 de l'annexe 5 dont relève l'opération, les engagements et informations présents dans les parties R1, R2, BS ou CD prévues par l'annexe 7.
+10° Lorsque l'opération concerne des ménages en situation de précarité énergétique, une attestation sur l'honneur décrivant l'opération d'économies d'énergie et contenant, selon le ou les paragraphes du point 8 de l'annexe 5 dont relève l'opération, les engagements et informations présents dans les parties R1, R2, BS ou CD prévues par l'annexe 7 ;
+
+11° L'identification du secteur d'activité principal de l'opération, parmi les secteurs agriculture, résidentiel, tertiaire, industrie, réseaux ou transport.
 
 II. - Dans le cas où l'opération spécifique correspond à la location d'un équipement et est conforme sur tous les autres points aux exigences d'une fiche d'opération standardisée pour une durée de location inférieure à la durée de vie conventionnelle de l'opération standardisée, la demande est faite en un seul exemplaire et comporte, à la place des pièces prévues au I, l'ensemble des pièces justificatives liées à la fiche d'opération standardisée concernée prévues par l'annexe 5.
+
+NOTA :
+
+Conformément à l'article 6 de l'arrêté du 8 février 2016, les présentes dispositions entrent en vigueur pour toutes les demandes de certificats d'économies d'énergie adressées à l'autorité administrative compétente à compter du 1er avril 2016.

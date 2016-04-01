@@ -4,53 +4,35 @@ MODÈLE DE TABLEAU RÉCAPITULATIF DES OPÉRATIONS D'ÉCONOMIES
 
 D'ÉNERGIE LORSQUE LES BÉNÉFICIAIRES SONT DES PERSONNES PHYSIQUES
 
-" RAISON
-
-sociale
-
-du
-
-demandeur
+RAISON sociale du demandeur
 
 |
 
 SIREN
 
-du
-
-demandeur
+du demandeur
 
 |
 
-RÉFÉRENCE
-
-EMMY
+RÉFÉRENCE EMMY
 
 de la demande
 
 |
 
-RÉFÉRENCE
-
-interne
-
-de l'opération
+RÉFÉRENCE interne de l'opération
 
 |
 
 NOM
 
-du bénéficiaire
-
-de l'opération
+du bénéficiaire de l'opération
 
 |
 
 PRÉNOM
 
-du bénéficiaire
-
-de l'opération
+du bénéficiaire de l'opération
 
 |
 
@@ -60,17 +42,15 @@ de l'opération
 
 |
 
-CODE POSTAL
+CODE
 
-sans cedex
+postal sans Cedex
 
 |
 
 VILLE
 
 |
-
-"
 
 |
 
@@ -92,31 +72,33 @@ VILLE
 
 Suite du tableau
 
-" VOLUME CEE
+VOLUME CEE
 
-" hors précarité énergétique"
-
-(kWh CUMAC)
+hors précarité énergétique (kWh cumac)
 
 |
 
 VOLUME CEE
 
-" précarité énergétique"
+précarité énergétique
 
-(kWh
-
-CUMAC)
+kWh cumac)
 
 |
 
 RÉFÉRENCE
 
-de la fiche d'opération standardisée
+de la fiche
+
+d'opération
+
+standardisée
 
 |
 
-DATE D'ENGAGEMENT
+DATE
+
+d'engagement
 
 de l'opération
 
@@ -134,8 +116,6 @@ de la bonification
 
 |
 
-"
-
 |
 
 |
@@ -147,3 +127,21 @@ de la bonification
 |
 
 |
+
+Suite et fin du tableau
+
+SIREN DU PROFESSIONNEL
+
+|
+
+RAISON SOCIALE DU PROFESSIONNEL
+
+|
+
+|
+
+|
+
+NOTA :
+
+Conformément à l'article 6 de l'arrêté du 8 février 2016, les présentes dispositions entrent en vigueur pour toutes les demandes de certificats d'économies d'énergie adressées à l'autorité administrative compétente à compter du 1er avril 2016.
