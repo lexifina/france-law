@@ -1,0 +1,9 @@
+# Réponse à la question n° 79980
+
+- Question : [79980](79980.md) — Question n° 79980 — conditions de détention; Contrôleur général des lieux de privation de liberté; rapport; propositions
+
+## Réponse
+
+*JO du 2016-04-05*
+
+L'article 10 de l'annexe à l'article R. 57-6-20 du code de procédure pénale dispose que « chaque personne détenue porte les vêtements qu'elle possède, qui lui sont apportés par ses proches ou qu'elle acquiert par l'intermédiaire de l'administration, à moins qu'il n'en soit décidé autrement par le chef d'établissement pour des raisons d'ordre, de sécurité ou de propreté ». Le nécessaire maintien de l'ordre et de la sécurité justifie l'interdiction de vetements ressemblant à l'uniforme des surveillants pénitentiaires. Par ailleurs, les vêtements à capuche, ou tout vêtement qui empêcherait une reconnaissance facile de la personne détenue qui les porte sont proscrits depuis 2008. Avant cette date, de tels vêtements rendaient difficile l'identification des personnes détenues, auteurs d'agressions, de racket ou de violences, alors que le rôle de l'administration pénitentiaire en matière de maintien de l'ordre et de la sécurité est d'éviter les violences à l'égard des autres personnes détenues ou des personnels. Par ailleurs, les vêtements trop amples (par exemple les djellabas), permettant aux personnes détenues de dissimuler des objets, sont prohibés. Si le port de ces vêtements est accepté en cellule, il ne peut être autorisé lors des temps collectifs, par exemple pendant les promenades, afin d'éviter que les personnes détenues ne s'y rendent avec des armes par destination, ou des objets dangereux. Enfin, la caractère laic des établissements pénitentiaires justifie l'interdiction de vêtements manifestant de manière ostensible l'appartenance à un groupe religieux. Ainsi, les vêtements de prière et les voiles ne sont autorisés qu'en cellule et en salle polycultuelle.
