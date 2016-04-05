@@ -1,0 +1,9 @@
+# Réponse à la question n° 86232
+
+- Question : [86232](86232.md) — Question n° 86232 — rénovation; zones frontalières; entreprises belges; fiscalité
+
+## Réponse
+
+*JO du 2016-04-05*
+
+La TVA est une taxe qui pèse sur la consommation finale de biens et de services dont les règles de territorialité sont fixées par les dispositions de la directive no 2006/112/UE relative au système de la TVA, de telle sorte que la recette fiscale correspondante soit attribuée à l'Etat membre dans lequel intervient cette consommation. Ainsi, les prestations de services concourant à la construction ou à la rénovation de charpentes de bâtiments agricoles sont soumises à la TVA française lorsque ces immeubles y sont situés en application du 2° de l'article 259 A du code général des impôts (CGI), qui transpose en droit interne les dispositions de l'article 47 de la directive TVA no 2006/112/CE du 28 novembre 2006. En ce qui concerne le redevable de la taxe, les dispositions du 1 de l'article 283 du CGI prévoient que pour les prestations ou livraisons de biens effectuées par un assujetti établi hors de France (situation des entreprises belges), c'est au preneur assujetti à la TVA de la prestation ou au bénéficiaire de la livraison de l'acquitter. Ce mécanisme d'inversion du redevable est en vigueur depuis 2006. Il a été mis en place pour lutter contre le comportement frauduleux qui consiste, pour l'entreprise étrangère, à ne pas verser au Trésor la TVA qu'elle a facturée à son client (entreprise française), alors même que ce dernier en opère légalement la déduction. Il ne découle donc pas du mécanisme de l'auto-liquidation de la TVA mis en place par le nouvel article 283.2 nonies du CGI entré en vigueur le 1er janvier 2014 qui ne concerne que le domaine de la sous-traitance de travaux immobiliers.
