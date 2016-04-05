@@ -1,0 +1,9 @@
+# Réponse à la question n° 82689
+
+- Question : [82689](82689.md) — Question n° 82689 — abus de faiblesse; personnes vulnérables
+
+## Réponse
+
+*JO du 2016-04-05*
+
+La lutte contre les abus commis à l'encontre des personnes vulnérables constitue une priorité gouvernementale. Ainsi, la loi no 2014-344 du 17 mars 2014 relative à la consommation a aggravé les sanctions applicables en matière de publicité mensongère. Les pratiques commerciales trompeuses ainsi que les pratiques commerciales agressives sont désormais réprimées de deux ans d'emprisonnement et de 300 000 euros d'amende. L'abus de faiblesse est quant à lui réprimé d'une peine de trois ans d'emprisonnement et de 375 000 euros d'amende. En outre, le montant de l'amende peut être porté, de manière proportionnée aux avantages tirés du manquement, à 10 % du chiffre d'affaires moyen annuel. Par ailleurs, le code pénal prévoit également la sanction de l'abus de faiblesse pour réparer les conséquences gravement préjudiciables d'un engagement concernant un mineur ou une personne d'une vulnérabilité particulière (âge, maladie, infirmité, déficience physique ou psychique, grossesse) apparente ou connue de celui qui commet l'abus, ou encore les personnes en état de sujétion psychologique ou physique. Cette infraction est réprimée de trois ans d'emprisonnement et de 375 000 euros d'amende. Si la poursuite des auteurs est plus difficile lorsque les sociétés impliquées sont basées à l'étranger, des outils de coopération internationale ont été mis en place afin d'adapter les moyens de la justice à cette évolution. Ainsi, les autorités judiciaires françaises peuvent notamment formuler des demandes d'entraide à leurs homologues pour faire effectuer des actes d'enquête à l'étranger ou encore, adresser une dénonciation officielle aux autorités d'un pays étranger afin que l'entreprise contrevenante soit poursuivie dans son propre pays.
