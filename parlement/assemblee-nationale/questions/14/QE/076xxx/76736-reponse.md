@@ -1,0 +1,9 @@
+# Réponse à la question n° 76736
+
+- Question : [76736](76736.md) — Question n° 76736 — massage cardiaque; médecins régulateurs; instructions; réglementation
+
+## Réponse
+
+*JO du 2016-04-05*
+
+En application des articles L. 6311-1, R. 6311-1 et R. 6311-2 du code de la santé publique, les décisions prises par les médecins régulateurs des services d'aide médicale urgente (SAMU) sont des décisions médicales par lesquelles ils sont chargés, notamment, d'évaluer médicalement l'état de santé de la personne concernée par l'appel, et en conséquence de déterminer médicalement la nature de la réponse la mieux adaptée à l'état du patient. Les appels pour arrêt cardiaque font généralement l'objet de l'engagement par le SAMU, dans les plus brefs délais, d'un moyen médicalisé auprès de la personne en détresse : mobilisation d'une équipe d'intervention d'une structure mobile d'urgence et de réanimation (SMUR) voire, également, mobilisation d'un moyen médicalisé avant-coureur du SMUR dans les territoires situés à plus de 30 minutes d'un SMUR (ex : médecin correspondant du SAMU ; médecin sapeur-pompier). Comme en toute autre circonstance d'exercice de la médecine, y compris avant l'arrivée d'un médecin sur place, il appartient au médecin régulateur du SAMU, dans les limites fixées par la loi et les règlements et compte tenu des données acquises de la science, de mettre en œuvre tous les moyens à sa disposition pour prendre en urgence les mesures et décisions médicales les plus appropriées à l'état du patient dont il a la charge et aux volontés de ce dernier. Ces situations particulières sont toujours difficiles et il est effectivement indispensable qu'aucune ambiguïté ne subsiste pour les professionnels. C'est pourquoi une réflexion sera menée en vue d'évaluer dans quelle mesure une clarification des textes concernant la responsabilité du médecin régulateur serait utile.
