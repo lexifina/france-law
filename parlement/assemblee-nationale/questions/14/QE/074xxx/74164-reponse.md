@@ -1,0 +1,9 @@
+# Réponse à la question n° 74164
+
+- Question : [74164](74164.md) — Question n° 74164 — blocages; sites internet; modalités
+
+## Réponse
+
+*JO du 2016-04-05*
+
+Le décret no 2015-125 du 5 février 2015 relatif au blocage des sites provoquant à des actes de terrorisme ou en faisant l'apologie et des sites diffusant des images et représentations de mineurs à caractère pornographique, pris pour l'application de l'article 6-1 de la loi du 21 juin 2004 pour la confiance dans l'économie numérique, précise la procédure permettant d'empêcher l'accès des internautes aux sites contrevenants. L'article 6-1, nouvellement créé dans la loi du 21 juin 2004 pour la confiance dans l'économie numérique par la loi du 13 novembre 2014, pose et ce de façon claire et intelligible le principe de subsidiarité selon lequel, avant d'adresser aux fournisseurs d'accès à internet les demandes de blocage, l'autorité administrative doit adresser aux éditeurs et hébergeurs les demandes de retrait des contenus litigieux. Il n'était donc pas nécessaire que le décret d'application répète ce qui était clairement énoncé dans la loi. En revanche, le décret, dans son article 1, désigne l'autorité administrative, à savoir l'office central de lutte contre la criminalité liée aux technologies de l'information et de la communication (OCLCTIC), qui en l'absence de retrait par les éditeurs ou les hébergeurs des contenus contrevenants dans un délai de vingt-quatre heures, notifie aux fournisseurs d'accès à internet la liste des adresses électroniques méconnaissant les dispositions du code pénal. Ces derniers doivent alors empêcher dans un délai de vingt-quatre heures l'accès à ces adresses. Par ailleurs et conformément à l'article 6-1 de la loi susvisée, en l'absence de mise à disposition par les éditeurs des informations d'identification, l'OCLCTIC peut procéder à la demande de blocage sans avoir préalablement demandé le retrait des contenus aux éditeurs ou aux hébergeurs.
