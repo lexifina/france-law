@@ -1,0 +1,9 @@
+# Réponse à la question n° 59843
+
+- Question : [59843](59843.md) — Question n° 59843 — acteurs; collégialité
+
+## Réponse
+
+*JO du 2016-04-05*
+
+La commission professionnelle consultative des métiers du sport et de l'animation (CPC MSA) est composée de huit représentants des employeurs, huit représentants d'organisations syndicales d'employés, douze représentants des pouvoirs publics (dont les principaux ministères concernés par la formation), et dix personnalités qualifiées. Elle apparaît de ce fait comme l'instance collégiale la plus adaptée à la concertation et contribue d'ores et déjà à la définition d'orientations stratégiques en matière de formation. Sa composition permet ainsi d'associer les représentants des deux branches professionnelles de l'animation et du sport à la réflexion sur la conception et l'évolution des diplômes délivrés par le ministère de la ville, de la jeunesse et des sports. Outre la consultation des partenaires sociaux, les travaux de la CPC MSA mobilisent également d'autres départements ministériels (enseignement supérieur, agriculture, affaires sociales, tourisme notamment), les collectivités territoriales ou encore les représentants du personnel du ministère chargé des sports. La pluralité des acteurs sollicités permet donc de déterminer les adaptations à apporter aux diplômes sportifs afin de répondre au mieux aux besoins des employeurs et des publics. Il convient, par ailleurs, de souligner qu'indépendamment des réunions formelles de la CPC MSA, le ministère de la ville, de la jeunesse et des sports s'inscrit résolument dans une démarche générale de concertation et de négociation avec ses partenaires. Ceux-ci ont ainsi été régulièrement sollicités, en 2014 et 2015, sur les orientations de réforme de sa politique de formation et de certification, qui a par ailleurs été présentée à la CPC MSA en avril 2015.
