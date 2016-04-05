@@ -1,0 +1,9 @@
+# Réponse à la question n° 65168
+
+- Question : [65168](65168.md) — Question n° 65168 — affectations; délai; conséquences
+
+## Réponse
+
+*JO du 2016-04-05*
+
+Des préconisations sont données chaque année par la voie de la note de service relative aux opérations de mobilité pour inviter les services départementaux à resserrer le calendrier des opérations de gestion individuelle et collective et à procéder aux affectations des personnels le plus en amont de la date de la rentrée. C'est ainsi que la note de service no 2015-185 du 10 novembre 2015 relative à la mobilité des personnels enseignants du premier degré rappelle que les opérations du mouvement intra départemental doivent débuter dès la communication des résultats de la phase interdépartementale soit pour cette année le 7 mars 2016. Elle préconise en outre la tenue d'une commission administrative paritaire départementale principale d'affectation fin mai, début juin selon l'importance du nombre de demandes à traiter dans le département. Elle insiste tout particulièrement auprès des départements sur la nécessité d'affecter les enseignants au plus tôt. Cette phase principale est ensuite suivie d'une phase d'ajustement afin d'améliorer le taux de satisfaction des demandes de mutation des enseignants. Il est en tout état de cause rappelé que l'ensemble des opérations doit se terminer dès la fin du mois de juin permettant ainsi aux enseignants d'avoir connaissance de leur affectation. De manière exceptionnelle, d'ultimes affectations sont faites, jusqu'à fin du mois d'août, pour couvrir des supports libérés pendant l'été. Il s'agit notamment de la situation des enseignants réintégrés durant l'été à la suite d'un détachement ou d'une disponibilité, qui ne pourront avoir connaissance de leur affectation qu'au moment de la rentrée.
