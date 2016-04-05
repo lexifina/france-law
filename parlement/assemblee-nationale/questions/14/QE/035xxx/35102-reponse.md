@@ -1,0 +1,9 @@
+# Réponse à la question n° 35102
+
+- Question : [35102](35102.md) — Question n° 35102 — soutiens de l'État; rapport; propositions
+
+## Réponse
+
+*JO du 2016-04-05*
+
+Les principales dépenses fiscales du programme sport concernent l'exonération dans la limite de 14,5 % d'un plafond révisable chaque année, des sommes perçues par les arbitres et les juges sportifs (montant estimé à 19 M€ en 2015) et la mise en place d'un taux de TVA réduit à 5,5 % pour les des droits d'entrée aux réunions sportives en remplacement de la taxe sur les spectacles (montant estimé à 35 M€ en 2015 et 40 M€ en 2016). Enfin, la mise en place d'un régime fiscal particulier aux organismes chargés de l'organisation en France d'une compétition sportive internationale et de leurs filiales sera aussi une dépense fiscale importante. Les politiques publiques dédiées au sport professionnel ont fait l'objet d'une évaluation conduite dans le cadre de la modernisation de l'administration publique (MAP) dont les conclusions ont été rendues le 18 décembre 2013. Les mesures prises dans le cadre du programme Sport vont dans le sens de l'amélioration des politiques publiques et la Grande conférence sur le sport professionnel lancée le 7 octobre 2015 par le Secrétaire d'Etat chargé des sports, M. Thierry Braillard, vise entre autre à s'interroger sur les mécanismes de solidarité entre sport amateur et sport professionnel dans un contexte d'attrition des finances publiques. Réunissant plus d'une soixantaine d'acteurs dans le cadre d'un comité de pilotage et de six groupes de travail composés d'experts, cette Grande conférence a pour objectif de dégager des propositions concrètes et adaptées pour améliorer l'organisation, la gestion et la compétitivité du sport professionnel français. Le rendu des travaux est prévu pour avril 2016.
