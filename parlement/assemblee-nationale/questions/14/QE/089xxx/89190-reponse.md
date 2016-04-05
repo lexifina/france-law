@@ -1,0 +1,9 @@
+# Réponse à la question n° 89190
+
+- Question : [89190](89190.md) — Question n° 89190 — promotion; perspectives
+
+## Réponse
+
+*JO du 2016-04-05*
+
+L'accès à l'internet pour la publicité en faveur des boissons alcoolisées a été encadré par la loi du 21 juillet 2009 portant réforme de l'hôpital et relative aux patients, à la santé et aux territoires. La loi a pris en compte les préoccupations prioritaires de santé sans écarter les contraintes commerciales des opérateurs. Cet accès n'est pas remis en cause. La loi no 2016-41 du 26 janvier 2016 de modernisation de notre système de santé n'a pas modifié l'équilibre existant. Le Gouvernement est conscient de l'importance de la filière vitivinicole dans la balance commerciale ainsi que pour la compétitivité de l'économie et le rayonnement de la France à l'étranger. Il est ainsi fortement attaché à la défense des terroirs dont la profession viticole est l'une des composantes majeures, tout en renforçant son action de lutte contre l'alcoolisme, notamment chez les jeunes, enjeu primordial de santé publique. Prenant en compte la demande de la profession, le Gouvernement avait soumis au Parlement un amendement à la loi croissance, activité et égalité des chances économiques qui excluait du champ de la publicité toutes les références aux caractéristiques d'une boisson alcoolique ayant permis la reconnaissance, pour cette boisson, d'une identification de la qualité ou de l'origine. Cette disposition était étendue aux boissons faisant partie du patrimoine gastronomique protégé de la France au sens de l'article L. 665-6 du code rural et de la pêche maritime. Cet amendement a été déclaré contraire à la Constitution par la décision de 5 août 2015 du Conseil constitutionnel, pour des raisons de procédure et non de fond. Toutefois, cette disposition, à l'identique, a été reprise et adoptée dans le cadre de la loi no 2016-41 du 26 janvier 2016 de modernisation de notre système de santé.
