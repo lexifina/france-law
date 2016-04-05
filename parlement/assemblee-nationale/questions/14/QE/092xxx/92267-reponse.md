@@ -1,0 +1,9 @@
+# Réponse à la question n° 92267
+
+- Question : [92267](92267.md) — Question n° 92267 — érosion; lutte et prévention
+
+## Réponse
+
+*JO du 2016-04-05*
+
+Les littoraux de France métropolitaine et des outre-mer sont des zones à très forts enjeux, ce qui est le cas également de la plupart des littoraux du globe. Une démographie et une urbanisation en forte croissance, des activités socio-économiques très dynamiques et des espaces naturels abritant une riche biodiversité caractérisent ces territoires qui subissent les influences croisées de l'océan et des terres. C'est pourquoi les littoraux sont des territoires particulièrement sensibles au changement climatique dont les premiers effets déjà perceptibles s'accentueront au fur et à mesure que le réchauffement global se poursuivra. La hausse du niveau des mers en est une des manifestations les plus visibles. C'est dans le but de faciliter l'accès de la population et des décideurs, notamment les élus des territoires concernés, aux connaissances scientifiques sur les changements en cours et à venir que l'ONERC a choisi le thème « Le littoral dans le contexte du changement climatique » pour son rapport annuel au Premier Ministre et au Parlement publié en octobre 2015. La plupart du contenu de ce rapport fait appel à un niveau de vulgarisation qui permet sa lecture et sa compréhension par un très large public, tout en exposant les connaissances les plus récentes sur les phénomènes qui affectent le littoral de France métropolitaine et des outre-mer. Ce rapport inclut une nouvelle d'anticipation plus particulièrement destinée à la jeunesse qui permet d'aborder les moyens d'action et les modes de penser l'aménagement des territoires littoraux. Ce rapport est accessible à tous gratuitement depuis la mi-février sur le site internet du ministère de l'environnement, de l'énergie et de la mer.
