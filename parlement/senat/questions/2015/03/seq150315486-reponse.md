@@ -1,0 +1,9 @@
+# Réponse à la question SEQ150315486
+
+- Question : [SEQ150315486](seq150315486.md) — Conditions de travail des gardiens et surveillants de prison effectuant des astreintes
+
+## Réponse
+
+*Justice, JO du 2016-04-07, page 1458*
+
+Le décret n° 98-287 du 9 avril 1998 fixe le régime d'indemnisation des astreintes et interventions de nuit effectuées par le personnel de surveillance des services déconcentrés de l'administration pénitentiaire. Il précise dans son article 2 qu'« à l'exception de ceux qui exercent leurs fonctions dans les centres de semi-liberté autonomes, les membres du personnel de surveillance titulaires du grade de premier surveillant, de chef de service pénitentiaire de 2ème classe ou de chef de service pénitentiaire de 1ère classe peuvent bénéficier d'une indemnité pour astreintes de nuit et interventions de nuit à condition d'exercer leurs activités dans des établissements dont le nombre réel global de premiers surveillants exerçant en détention est inférieur ou égal à six » et dans son article 5 que « seuls les agents, pouvant intervenir (compte tenu de la localisation de leur logement) dans le quart d'heure suivant l'appel qui justifie leur déplacement, sont autorisés à effectuer l'astreinte à domicile ». En conséquence, les autres agents sont d'astreintes à l'établissement. Une salle de repos décente doit être mise à leur disposition. Les établissements pénitentiaires récents comportent systématiquement des locaux de veille destinés aux agents qui effectuent des astreintes et des aménagements sont réalisés pour les établissements plus anciens dès lors que cela est possible techniquement. Par ailleurs, le nombre de premiers surveillants/personnes détenues n'est pas proratisé, le calcul de l'organigramme de référence se faisant par rapport aux postes à couvrir. À noter que l'organigramme de référence de la maison d'arrêt d'Albi prévoit cinq premiers surveillants dont un major.
