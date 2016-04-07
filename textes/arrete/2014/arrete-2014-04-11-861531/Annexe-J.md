@@ -6,21 +6,27 @@ NOM DU PORT
 
 CODE
 
-POSTAL
+postal
 
 |
 
 JOURS ET HEURES
 
-obligatoires pour le débarquement/
+obligatoires pour
 
-transbordement (heure locale)
+le débarquement/
+
+transbordement
+
+(heure locale)
 
 |
 
 DÉLAI DE NOTIFICATION
 
-préalable de débarquement
+préalable de
+
+débarquement
 
 (si différent de 4 heures)
 
@@ -30,7 +36,7 @@ RESTRICTIONS
 
 supplémentaires
 
-au débarquement
+au débarquement (*)
 
 |
 
@@ -90,7 +96,7 @@ ROSCOFF
 
 |
 
-Tous les jours de 6h à 22h
+Tous les jours de 6 h à 22 h
 
 |
 
@@ -108,7 +114,7 @@ BREST
 
 |
 
-Tous les jours de 6h à 22h
+Tous les jours de 6 h à 22 h
 
 |
 
@@ -206,7 +212,9 @@ LORIENT
 
 |
 
-Tous les jours de 0h à 5h et de 8h à minuit
+Tous les jours de 0 h à 5 h
+
+et de 8 h à minuit
 
 |
 
@@ -376,26 +384,6 @@ L'AIGUILLON-SUR-MER
 
 |
 
-Seuls les débarquements inférieurs à 150 kilogrammes effectués par des navires d'une longueur inférieure à 12 mètres sont autorisés dans ce port.
-
-|
-
-BEAUVOIR
-
-|
-
-85230
-
-|
-
-|
-
-2 heures
-
-|
-
-Seuls les débarquements inférieurs à 150 kilogrammes effectués par des navires d'une longueur inférieure à 12 mètres sont autorisés dans ce port. Les lieux de débarquement autorisés sont L'Epoids et Port du Bec
-
 |
 
 LA ROCHELLE
@@ -419,6 +407,54 @@ LA COTINIERE
 |
 
 17310
+
+|
+
+|
+
+2 heures
+
+|
+
+|
+
+BOURCEFRANC
+
+|
+
+17560
+
+|
+
+|
+
+2 heures
+
+|
+
+|
+
+BOYARDVILLE
+
+|
+
+17190
+
+|
+
+|
+
+2 heures
+
+|
+
+|
+
+PORT-DES-BARQUES
+
+|
+
+17730
 
 |
 
@@ -478,6 +514,22 @@ CAP-BRETON
 
 |
 
+BAYONNE
+
+|
+
+64100
+
+|
+
+|
+
+2 heures
+
+|
+
+|
+
 SAINT-JEAN-DE-LUZ
 
 |
@@ -509,3 +561,5 @@ HENDAYE
 |
 
 |
+
+(*) La pesée de ces débarquements est effectuée obligatoirement en halle à marée. |
