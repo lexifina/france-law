@@ -1,0 +1,9 @@
+# Réponse à la question SEQ140712767
+
+- Question : [SEQ140712767](seq140712767.md) — Annulation d'une élection municipale
+
+## Réponse
+
+*Justice, JO du 2016-04-07, page 1442*
+
+L'article R. 119 du code électoral prévoit un régime dérogatoire de communication des requêtes et mémoires en cas de contentieux électoral relatif à la contestation d'une élection municipale. Selon le quatrième alinéa de cet article, lorsqu'une réclamation a été enregistrée au greffe du tribunal administratif saisi, le tribunal la notifie dans un délai de trois jours aux conseillers dont l'élection est contestée et avise en même temps les intéressés qu'ils disposent d'un délai de cinq jours pour déposer leur défense au greffe de ce tribunal. Il résulte de cette disposition ainsi que de la jurisprudence, que l'obligation de notification aux conseillers dont l'élection est contestée ne s'applique pas à d'autres pièces que la réclamation (CE, 27 avril 1961, Élection municipale de Strasbourg). Cette jurisprudence a été confirmée en 2002 (CE, 21 janvier 2002, Elections municipales de Villelongue-de-la-Salanque – exclusion des pièces annexes à la réclamation) puis en 2009 (CE, 6 février 2009, Elections municipales d'Étupes – exclusion d'une vidéo du déroulement du dépouillement annexée à la réclamation). Le tribunal est seulement tenu de mettre ces pièces à disposition des différents défendeurs à l'instance. Le fait que la protestation soit introduite auprès de la préfecture ou directement auprès du greffe du tribunal ne change rien ni à la qualité des personnes auxquelles le recours est notifié ni au délai dont ces dernières disposent pour produire leurs observations en défense, dans la mesure où le quatrième alinéa de l'article R. 119 du code électoral précité, prévoit expressément que ce sont les mêmes règles qui s'appliquent à cet égard, que le requérant soit le préfet ou un tiers.
