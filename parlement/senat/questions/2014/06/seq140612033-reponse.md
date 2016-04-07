@@ -1,0 +1,9 @@
+# Réponse à la question SEQ140612033
+
+- Question : [SEQ140612033](seq140612033.md) — Démarchages abusifs auprès des entrepreneurs
+
+## Réponse
+
+*Justice, JO du 2016-04-07, page 1442*
+
+En matière de prévention, la direction générale de la concurrence, de la consommation et de la répression des fraudes mène une action à destination des entreprises et des organisations professionnelles. Ainsi, des informations pratiques ont été mises en ligne sur son site, à l'adresse suivante : http : //www.economie.gouv.fr/dgccrf, rubrique : « vous êtes une entreprise », dossier : « se méfier des propositions d'insertion dans un annuaire professionnel ». La loi du 17 mars 2014 relative à la consommation étend le bénéfice du droit de rétractation en cas de démarchage prévu à l'article L. 121-16-1 du code de la consommation aux entreprises de cinq salariés maximum. Les entreprises victimes de ces pratiques peuvent saisir la direction départementale de la protection des populations (DDPP) ou la direction départementale de la cohésion sociale et de la protection des populations (DDCSPP) de leur département de résidence, d'une plainte sur la base de la publicité mensongère, fondée sur les articles L121-1 et suivants du code de la consommation. Il est également possible que les professionnels victimes déposent une plainte sur le fondement de l'infraction susmentionnée et/ou de l'escroquerie (articles 313-1 et suivants du code pénal) auprès des services de police de leur lieu de résidence ou auprès du procureur de la République. S'agissant d'une société d'annuaire domiciliée à l'étranger la voie judiciaire est la seule préconisée. En matière de répression, le code de la consommation prévoit que les pratiques commerciales trompeuses sont punies d'un emprisonnement de deux ans et d'une amende de 300 000 euros. Le délit d'escroquerie est, quant à lui, puni d'une peine d'emprisonnement de cinq ans et d'une amende de 375 000 euros.
