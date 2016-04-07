@@ -1,0 +1,9 @@
+# Réponse à la question SEQ150817623
+
+- Question : [SEQ150817623](seq150817623.md) — Enlèvement des ordures ménagères
+
+## Réponse
+
+*Justice, JO du 2016-04-07, page 1461*
+
+Le dépôt de déchets ou d'ordures peut être puni, selon les cas, de contraventions allant de la deuxième à la cinquième classe. Ainsi, est réprimé par une contravention de cinquième classe le fait de déposer des objets ou ordures transportés à l'aide d'un véhicule dans un lieu non autorisé, ainsi que dans un bois ou une forêt (article R. 635-8 du code pénal). Est puni d'une contravention de troisième classe, le fait de déposer des ordures, objets, matériaux ou déchets hors des emplacements autorisés, ainsi que dans un bois ou une forêt (article R. 633-6 du code pénal). Est sanctionné par une contravention de deuxième classe, le dépôt d'ordures, d'objets, de matériaux ou de déchets en vue de leur enlèvement par le service de collecte sans respecter les conditions fixées par l'autorité administrative (article R. 632-1 du code pénal). En cas d'identification, si les auteurs présumés de telles infractions sont domiciliés dans un État de l'Union européenne ayant ratifié la convention du 29 mai 2000 d'entraide judiciaire entre les États membres de l'Union européenne, ce qui est le cas du Luxembourg et de la France, la coopération judiciaire sera facilitée. Cette convention permet en effet, une transmission directe des demandes d'entraide judiciaire et des dénonciations officielles entre les autorités judiciaires compétentes des États membres, qu'il s'agisse dans la première hypothèse, pour les autorités judiciaires françaises de demander la réalisation d'un acte d'enquête aux autorités luxembourgeoises si elles envisagent des poursuites sur le territoire national, ou dans la seconde hypothèse de déléguer les poursuites aux autorités luxembourgeoises si elles ont un critère de compétence.
