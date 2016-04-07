@@ -1,0 +1,9 @@
+# Réponse à la question SEQ140913043
+
+- Question : [SEQ140913043](seq140913043.md) — Adoption de l'enfant biologique de son épouse issu d'une PMA
+
+## Réponse
+
+*Justice, JO du 2016-04-07, page 1445*
+
+La question des adoptions sollicitées par la conjointe d'une femme ayant accouché d'un enfant issu d'une assistance médicale à la procréation réalisée à l'étranger a fait l'objet d'une attention particulière de la Chancellerie depuis l'entrée en vigueur de la loi du 17 mai 2013. Sensible au besoin de sécurité juridique manifesté par les familles concernées, la Chancellerie a fait procéder dès le printemps 2014 à une évaluation statistique auprès des juridictions afin de recenser l'ensemble des décisions rendues depuis l'entrée en vigueur de la loi du 17 mai 2013. Le bilan de cette étude a permis de mettre en évidence que la très grande majorité des demandes a été satisfaite par les juridictions. Ainsi, au 1er juillet 2014, seules neuf décisions de rejet avaient été prononcées, pour 295 décisions ayant répondu favorablement aux demandes d'adoption par la conjointe de l'enfant de son épouse. À cet égard, les divergences jurisprudentielles observées devraient s'estomper dès lors que la Cour de cassation a rendu deux avis favorables à de telles adoptions le 22 septembre 2014. La Cour de cassation a ainsi exclu que le fait de recourir à une assistance médicale à la procréation à l'étranger puisse constituer une fraude à la loi française relative à la procréation médicalement assistée ou à l'adoption, et ainsi puisse conduire à s'opposer, pour ce seul motif, à l'adoption de l'enfant au bénéfice de la conjointe de la femme ayant accouché.La Cour de cassation tire ainsi les conséquences de la loi du 17 mai 2013, qui a eu pour effet de permettre, par l'adoption, l'établissement d'un lien de filiation entre un enfant et deux personnes de même sexe.
