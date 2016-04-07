@@ -1,0 +1,9 @@
+# Réponse à la question SEQ150214840
+
+- Question : [SEQ150214840](seq150214840.md) — Reconnaissance d'un enfant à naître
+
+## Réponse
+
+*Justice, JO du 2016-04-07, page 1456*
+
+Les officiers de l'état civil doivent enregistrer les déclarations qui leur sont faites sans avoir à en vérifier la sincérité. Ils ne peuvent ainsi refuser de dresser un acte de reconnaissance prénatale, ou post natale, au motif que celle-ci leur apparaîtrait mensongère. La reconnaissance est en effet un acte juridique unilatéral, strictement personnel, relevant de la volonté discrétionnaire du déclarant, seul à même d'être juge de son opportunité. Elle repose avant tout sur l'intérêt de tout enfant à voir sa filiation juridiquement établie. La publicité de la reconnaissance prénatale ne peut toutefois être assurée, notamment aux yeux des tiers, que par sa mention en marge de l'acte de naissance de l'enfant, ce qui suppose la naissance effective de l'enfant. En outre, si une reconnaissance paraît frauduleuse, les officiers de l'état civil sont invités à appeler l'attention des déclarants sur les sanctions auxquelles ils s'exposent en cas de fausse déclaration visant notamment à se procurer un avantage particulier et dont la finalité est étrangère à l'intérêt de l'enfant et à son éducation. Les officiers de l'état civil doivent enfin signaler au parquet sans délai ce type de reconnaissance, afin que le procureur de la République puisse engager le cas échéant, d'une part, une action en contestation de paternité dans les conditions des articles 332 et suivants du code civil et, d'autre part, des poursuites notamment sur le fondement de l'article 441-4 du code pénal. Le droit positif permet ainsi d'ores-et-déjà de répondre aux préoccupations exprimées, sans qu'il soit nécessaire de compléter les instructions données aux officiers de l'état civil dans le cadre de la délivrance de tels actes.
