@@ -1,0 +1,9 @@
+# Réponse à la question SEQ151018073
+
+- Question : [SEQ151018073](seq151018073.md) — Adoption d'un numéro unique pour les appels d'urgence
+
+## Réponse
+
+*Intérieur, JO du 2016-04-07, page 1440*
+
+Afin de favoriser une meilleure coordination entre les forces de sécurité et de secours, source d'efficacité et de sécurité accrue sur le terrain, le ministère de l'intérieur a engagé une réflexion sur l'unification des plates-formes de réception des appels d'urgence (17 police secours, 18 pompiers et 112 numéro d'urgence européen). Elle vient compléter les démarches de mutualisation des centres 15 et 18, effectives dans une vingtaine de départements. Cette réflexion fait suite à l'expérimentation menée en 2012 pour la réception des appels d'urgence dans l'agglomération parisienne, qui a permis de favoriser une meilleure coordination entre les forces de sécurité et de secours, engendrant ainsi un gain de temps, une efficacité et une sécurité accrues sur le terrain. Ce dispositif novateur a contribué à optimiser les ressources humaines déployées, en confiant la fonction de filtrage à des opérateurs dédiés et en réservant le traitement des seuls appels d'urgence à des policiers et des sapeurs-pompiers. Toutefois, avant de recourir au 112 comme numéro unique d'appel d'urgence, il convient de réaliser, au préalable, un inventaire précis des questions techniques que pose cette mise en commun. Une expérimentation doit être prochainement lancée en province. L'unification des plates-formes de réception des appels d'urgence constitue en effet un enjeu structurant, qui sous-tend des évolutions techniques, des interrogations concernant l'organisation future de l'ensemble des services de secours, des problématiques de partage de responsabilité et des questionnements relatifs à la rencontre de cultures professionnelles différentes.
