@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Modification du règlement de fonctionnement des structures municipales de la Petite Enfance
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2016-04-07
+- Matière : PETITE ENFANCE
+- Objet : Modification du règlement de fonctionnement des structures municipales de la Petite Enfance
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTU3NjksInB1ciI6ImJsb2JfaWQifX0=--9d70f8d4c38eada673261ad30a31ca5482f82e8c/070416_16.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
