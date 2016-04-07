@@ -1,0 +1,9 @@
+# Réponse à la question SEQ150917824
+
+- Question : [SEQ150917824](seq150917824.md) — Statut des conservateurs des antiquités et objets d'art
+
+## Réponse
+
+*Culture et communication, JO du 2016-04-07, page 1427*
+
+Depuis les années 1980, de nombreux conseils départementaux ont mis en place et développé des régimes d'aide en faveur des propriétaires publics et privés d'objets mobiliers, protégés ou non au titre des monuments historiques. En 2015, près de 50 conseils départementaux disposent de services qui œuvrent pour la conservation et la mise en valeur du patrimoine mobilier, les agents de ces services étant par ailleurs bien souvent chargés de la mission de conservateur des antiquités et objets, mission qu'ils exercent pour le compte de l'État. Il est fondamental de sauvegarder la présence, en assistance technique, au plus près des communes et des propriétaires, de professionnels capables de faire du conseil en termes de conservation préventive, notamment en ce qui concerne la prévention des vols et des sinistres, mais aussi de mise en valeur du patrimoine mobilier protégé ou non au titre des monuments historiques (documentation, publications, expositions…). Ces opérations sont essentielles pour la valorisation des territoires, et notamment des communes rurales, dont les objets mobiliers protégés au titre des monuments historiques constituent souvent, lorsqu'elles n'ont pas de musée, la principale richesse artistique. Les conservateurs des antiquités et objets d'art jouent un rôle fondamental dans cette connaissance et cette préservation du patrimoine mobilier national. À cet effet, la ministre de la culture et de la communication souhaite lancer une mission de réflexion afin de disposer très rapidement de propositions pour conforter le réseau des conservateurs des antiquités et objets d'art. Cette mission devra se faire en liens étroits avec l'association des départements de France.
