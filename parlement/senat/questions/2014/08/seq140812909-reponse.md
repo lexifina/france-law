@@ -1,0 +1,9 @@
+# Réponse à la question SEQ140812909
+
+- Question : [SEQ140812909](seq140812909.md) — Médiation entre une commune et un administré
+
+## Réponse
+
+*Justice, JO du 2016-04-07, page 1445*
+
+La médiation est un processus par lequel deux ou plusieurs parties tentent de parvenir à un accord en vue de la résolution amiable de leurs différends, avec l'aide d'un tiers, le médiateur, choisi par elles ou désigné, avec leur accord, par le juge saisi du litige. L'accord auquel peuvent parvenir les parties dans le cadre de ce processus peut être soumis à l'homologation du juge, qui lui donne force exécutoire. Dans l'hypothèse qui est évoquée, le juge a ordonné une mesure de médiation dans un litige opposant une commune à un particulier. L'objet de cette médiation judiciaire est de tenter de résoudre à l'amiable le litige dont le juge a été saisi. Seul le maire (ou la personne à qui il délègue cette mission) peut représenter le commune dans le cadre de cette médiation, sur délibération du conseil municipal. En effet, cette règle de représentation est applicable pour les actes de la vie juridique, comme par exemple les demandes ou défenses en justice (article L.2122-22 du code général des collectivités territoriales). Sur la forme que doit prendre l'accord pouvant intervenir à l'issue de cette médiation judiciaire, les parties disposent d'une grande liberté. Il importe avant tout que cet acte soit fidèle aux termes du litige et traduise précisément le contenu de l'accord amiable auquel les parties sont parvenues. Au cas d'espèce et une fois cet accord finalisé, l'affaire sera nécessairement réexaminée par le juge. Les parties disposent alors d'une option : soit elles demandent au juge une homologation de leur accord ; soit le demandeur se désiste de sa demande, ce désistement étant accepté par le défendeur, les parties estimant qu'une homologation de l'accord n'est pas nécessaire. Dans les deux cas, il est mis fin au litige.
