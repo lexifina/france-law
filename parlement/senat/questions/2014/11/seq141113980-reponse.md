@@ -1,0 +1,9 @@
+# Réponse à la question SEQ141113980
+
+- Question : [SEQ141113980](seq141113980.md) — Célébration d'un mariage
+
+## Réponse
+
+*Justice, JO du 2016-04-07, page 1443*
+
+L'article 38 du code civil dans sa rédaction issue de l'ordonnance n° 58-779 du 23 aout 1958 prévoit que « l'officier d'état civil donnera lecture des actes aux parties comparantes, ou à leur fondé de procuration et aux témoins ». S'agissant de l'acte de mariage, ces dispositions conduisent à faire une lecture, le cas échéant, des prénoms et noms du précédent conjoint de chacun des époux, l'article 76 du Code civil, prévoyant en son 4° que « l'acte de mariage énoncera les prénoms et nom du précédent conjoint de chacun des époux ». Il doit toutefois être relevé que l'article 38 du code civil ne prévoit la lecture de l'intégralité de l'acte de mariage qu'aux seuls époux et témoins, aux fins principalement d'éviter toute erreur matérielle dans l'acte, les autres personnes assistant à la cérémonie n'étant pas concernées par cette lecture. Il convient donc de distinguer cette lecture du recueil de l'échange des consentements prévu à l'article 75 du code civil qui n'impose pas à l'officier de l'état civil d'évoquer la situation matrimoniale antérieure de chacun des époux, comme cela est au demeurant précisé par le paragraphe 401 de l'instruction générale relative à l'état civil, qui propose, au titre de la formule d'échange des consentements, une interpellation des futurs époux par leurs prénoms et nom uniquement. Ainsi, lors d'une cérémonie de mariage, si l'échange de consentement suppose une interpellation des époux, celle-ci n'exige pas de faire référence à la situation matrimoniale antérieure de chacun d'eux. Ces éléments n'ont vocation à être lus que lors de la phase de rédaction et de signature de l'acte de mariage à l'issue de la cérémonie, laquelle ne concerne que les conjoints et leurs témoins et doit à ce titre amener l'officier de l'état civil à faire preuve de discrétion.
