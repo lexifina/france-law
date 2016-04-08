@@ -2,19 +2,37 @@
 
 LISTE DES ZONES GÉOGRAPHIQUES RÉGLEMENTÉES VIS-À-VIS DE CERTAINS SÉROTYPES DE LA FIÈVRE CATARRHALE DU MOUTON ET LISTE DES SÉROTYPES CONSIDÉRÉS COMME ENDÉMIQUES DANS CES ZONES
 
-ZONES réglementées
+ZONES RÉGLEMENTÉES
 
 |
 
-Type de zone
+TYPE
+
+de zone
 
 |
 
-Liste des sérotypes pour lesquelles la zone est réglementée
+LISTE
+
+des sérotypes
+
+pour lesquelles
+
+la zone
+
+est réglementée
 
 |
 
-Liste des sérotypes considérés comme endémiques dans la zone
+LISTE
+
+des sérotypes
+
+considérés
+
+comme endémiques
+
+dans la zone
 
 |
 
@@ -706,7 +724,71 @@ Zone réglementée
 
 |
 
+Département de la Marne (51)
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
 Département de la Haute-Marne (52)
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+Département de la Meurthe-et-Moselle (54)
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+Département de la Meuse (55)
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+Département de la Moselle (57)
 
 |
 
@@ -802,7 +884,55 @@ Zone réglementée
 
 |
 
+Département du Bas-Rhin (67)
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+Département du Haut-Rhin (68)
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
 Département du Rhône (69)
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+Département de la Haute-Saône (70)
 
 |
 
@@ -1042,7 +1172,39 @@ Zone réglementée
 
 |
 
+Département des Vosges (88)
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
 Département de l'Yonne (89)
+
+|
+
+Zone réglementée
+
+|
+
+8
+
+|
+
+8
+
+|
+
+Département du Territoire de Belfort (90)
 
 |
 
@@ -1122,27 +1284,29 @@ Zone réglementée
 
 |
 
-ZONES réglementées
+ZONES RÉGLEMENTÉES
 
 |
 
-Type de zone
+TYPE DE ZONE
 
 |
 
-Sérotype
+SÉROTYPE
 
 |
 
-Sérotype
+SÉROTYPE
 
 |
 
-CODE DEPARTEMENT
+CODE
+
+département
 
 |
 
-DEPARTEMENT
+DÉPARTEMENT
 
 |
 
@@ -1154,8316 +1318,6 @@ N° INSEE
 
 |
 
-|
-
-|
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-ABLANCOURT
-
-|
-
-51001
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-SAINT-MARTIN-D'ABLOIS
-
-|
-
-51002
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-AIGNY
-
-|
-
-51003
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-ALLEMANCHE-LAUNAY-ET-SOYER
-
-|
-
-51004
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-ALLEMANT
-
-|
-
-51005
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-ALLIANCELLES
-
-|
-
-51006
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-AMBONNAY
-
-|
-
-51007
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-AMBRIERES
-
-|
-
-51008
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-ANGLURE
-
-|
-
-51009
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-ANGLUZELLES-ET-COURCELLES
-
-|
-
-51010
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-ANTHENAY
-
-|
-
-51012
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-AOUGNY
-
-|
-
-51013
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-ARCIS-LE-PONSART
-
-|
-
-51014
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-ARRIGNY
-
-|
-
-51016
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-ARZILLIERES-NEUVILLE
-
-|
-
-51017
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-ATHIS
-
-|
-
-51018
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-AUBILLY
-
-|
-
-51020
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-AULNAY-L'AITRE
-
-|
-
-51022
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-AULNAY-SUR-MARNE
-
-|
-
-51023
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-AVENAY-VAL-D'OR
-
-|
-
-51028
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-AVIZE
-
-|
-
-51029
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-AY
-
-|
-
-51030
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-BAGNEUX
-
-|
-
-51032
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-LE BAIZIL
-
-|
-
-51033
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-BANNAY
-
-|
-
-51034
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-BANNES
-
-|
-
-51035
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-BARBONNE-FAYEL
-
-|
-
-51036
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-BASLIEUX-SOUS-CHATILLON
-
-|
-
-51038
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-BASSU
-
-|
-
-51039
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-BASSUET
-
-|
-
-51040
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-BAUDEMENT
-
-|
-
-51041
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-BAYE
-
-|
-
-51042
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-BEAUMONT-SUR-VESLE
-
-|
-
-51044
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-BEAUNAY
-
-|
-
-51045
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-BELVAL-SOUS-CHATILLON
-
-|
-
-51048
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-BERGERES-LES-VERTUS
-
-|
-
-51049
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-BERGERES-SOUS-MONTMIRAIL
-
-|
-
-51050
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-BETHON
-
-|
-
-51056
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-BEZANNES
-
-|
-
-51058
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-BIGNICOURT-SUR-MARNE
-
-|
-
-51059
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-BIGNICOURT-SUR-SAULX
-
-|
-
-51060
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-BILLY-LE-GRAND
-
-|
-
-51061
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-BINSON-ET-ORQUIGNY
-
-|
-
-51063
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-BISSEUIL
-
-|
-
-51064
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-BLACY
-
-|
-
-51065
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-BLAISE-SOUS-ARZILLIERES
-
-|
-
-51066
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-BLESME
-
-|
-
-51068
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-BLIGNY
-
-|
-
-51069
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-BOISSY-LE-REPOS
-
-|
-
-51070
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-BOUCHY-SAINT-GENEST
-
-|
-
-51071
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-BOUILLY
-
-|
-
-51072
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-BOULEUSE
-
-|
-
-51073
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-BOURSAULT
-
-|
-
-51076
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-BOUY
-
-|
-
-51078
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-BOUZY
-
-|
-
-51079
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-BRANDONVILLERS
-
-|
-
-51080
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-BRANSCOURT
-
-|
-
-51081
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-BREBAN
-
-|
-
-51084
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-LE BREUIL
-
-|
-
-51085
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-BREUIL
-
-|
-
-51086
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-BREUVERY-SUR-COOLE
-
-|
-
-51087
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-BROUILLET
-
-|
-
-51089
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-BROUSSY-LE-GRAND
-
-|
-
-51090
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-BROUSSY-LE-PETIT
-
-|
-
-51091
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-BROYES
-
-|
-
-51092
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-BRUGNY-VAUDANCOURT
-
-|
-
-51093
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-BRUSSON
-
-|
-
-51094
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-LE BUISSON
-
-|
-
-51095
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-BUSSY-LE-CHATEAU
-
-|
-
-51097
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-BUSSY-LE-REPOS
-
-|
-
-51098
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-BUSSY-LETTREE
-
-|
-
-51099
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-LA CAURE
-
-|
-
-51100
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-LA CELLE-SOUS-CHANTEMERLE
-
-|
-
-51103
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-CERNON
-
-|
-
-51106
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-CHAINTRIX-BIERGES
-
-|
-
-51107
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-CHALONS-EN-CHAMPAGNE
-
-|
-
-51108
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-CHALTRAIT
-
-|
-
-51110
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-CHAMBRECY
-
-|
-
-51111
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-CHAMERY
-
-|
-
-51112
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-CHAMPAUBERT
-
-|
-
-51113
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-CHAMPFLEURY
-
-|
-
-51115
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-CHAMPGUYON
-
-|
-
-51116
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-CHAMPIGNEUL-CHAMPAGNE
-
-|
-
-51117
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-CHAMPILLON
-
-|
-
-51119
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-CHAMPLAT-ET-BOUJACOURT
-
-|
-
-51120
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-CHAMPVOISY
-
-|
-
-51121
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-CHANGY
-
-|
-
-51122
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-CHANTEMERLE
-
-|
-
-51124
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-CHAPELAINE
-
-|
-
-51125
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-LA CHAPELLE-LASSON
-
-|
-
-51127
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-LA CHAPELLE-SOUS-ORBAIS
-
-|
-
-51128
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-CHARLEVILLE
-
-|
-
-51129
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-CHATELRAOULD-SAINT-LOUVENT
-
-|
-
-51134
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-CHATILLON-SUR-BROUE
-
-|
-
-51135
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-CHATILLON-SUR-MARNE
-
-|
-
-51136
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-CHATILLON-SUR-MORIN
-
-|
-
-51137
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-CHAUMUZY
-
-|
-
-51140
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-LA CHAUSSEE-SUR-MARNE
-
-|
-
-51141
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-CHAVOT-COURCOURT
-
-|
-
-51142
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-CHEMINON
-
-|
-
-51144
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-CHENIERS
-
-|
-
-51146
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-LA CHEPPE
-
-|
-
-51147
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-CHEPPES-LA-PRAIRIE
-
-|
-
-51148
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-CHEPY
-
-|
-
-51149
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-CHERVILLE
-
-|
-
-51150
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-CHICHEY
-
-|
-
-51151
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-CHIGNY-LES-ROSES
-
-|
-
-51152
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-CHOUILLY
-
-|
-
-51153
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-CLAMANGES
-
-|
-
-51154
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-CLESLES
-
-|
-
-51155
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-CLOYES-SUR-MARNE
-
-|
-
-51156
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-COIZARD-JOCHES
-
-|
-
-51157
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-VAL-DES-MARAIS
-
-|
-
-51158
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-COMPERTRIX
-
-|
-
-51160
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-CONDE-SUR-MARNE
-
-|
-
-51161
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-CONFLANS-SUR-SEINE
-
-|
-
-51162
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-CONGY
-
-|
-
-51163
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-CONNANTRAY-VAUREFROY
-
-|
-
-51164
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-CONNANTRE
-
-|
-
-51165
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-COOLE
-
-|
-
-51167
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-COOLUS
-
-|
-
-51168
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-CORBEIL
-
-|
-
-51169
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-CORFELIX
-
-|
-
-51170
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-CORMONTREUIL
-
-|
-
-51172
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-CORMOYEUX
-
-|
-
-51173
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-CORRIBERT
-
-|
-
-51174
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-CORROBERT
-
-|
-
-51175
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-CORROY
-
-|
-
-51176
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-COULOMMES-LA-MONTAGNE
-
-|
-
-51177
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-COUPETZ
-
-|
-
-51178
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-COUPEVILLE
-
-|
-
-51179
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-COURCELLES-SAPICOURT
-
-|
-
-51181
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-COURCEMAIN
-
-|
-
-51182
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-COURDEMANGES
-
-|
-
-51184
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-COURGIVAUX
-
-|
-
-51185
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-COURJEONNET
-
-|
-
-51186
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-COURMAS
-
-|
-
-51188
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-COURTAGNON
-
-|
-
-51190
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-COURTHIEZY
-
-|
-
-51192
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-COURTISOLS
-
-|
-
-51193
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-COURVILLE
-
-|
-
-51194
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-COUVROT
-
-|
-
-51195
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-CRAMANT
-
-|
-
-51196
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-CRUGNY
-
-|
-
-51198
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-CUCHERY
-
-|
-
-51199
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-CUIS
-
-|
-
-51200
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-CUISLES
-
-|
-
-51201
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-CUMIERES
-
-|
-
-51202
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-CUPERLY
-
-|
-
-51203
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-DAMERY
-
-|
-
-51204
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-DAMPIERRE-AU-TEMPLE
-
-|
-
-51205
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-DAMPIERRE-SUR-MOIVRE
-
-|
-
-51208
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-DIZY
-
-|
-
-51210
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-DOMMARTIN-LETTREE
-
-|
-
-51212
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-DOMPREMY
-
-|
-
-51215
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-DORMANS
-
-|
-
-51217
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-VAL-DE-VIERE
-
-|
-
-51218
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-DROSNAY
-
-|
-
-51219
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-DROUILLY
-
-|
-
-51220
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-ECOLLEMONT
-
-|
-
-51223
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-ECRIENNES
-
-|
-
-51224
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-ECUEIL
-
-|
-
-51225
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-ECURY-LE-REPOS
-
-|
-
-51226
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-ECURY-SUR-COOLE
-
-|
-
-51227
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-EPERNAY
-
-|
-
-51230
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-L'EPINE
-
-|
-
-51231
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-ESCARDES
-
-|
-
-51233
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-ESCLAVOLLES-LUREY
-
-|
-
-51234
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-LES ESSARTS-LES-SEZANNE
-
-|
-
-51235
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-LES ESSARTS-LE-VICOMTE
-
-|
-
-51236
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-ESTERNAY
-
-|
-
-51237
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-ETOGES
-
-|
-
-51238
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-ETRECHY
-
-|
-
-51239
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-ETREPY
-
-|
-
-51240
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-EUVY
-
-|
-
-51241
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-FAGNIERES
-
-|
-
-51242
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-FAUX-FRESNAY
-
-|
-
-51243
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-FAUX-VESIGNEUL
-
-|
-
-51244
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-FAVEROLLES-ET-COEMY
-
-|
-
-51245
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-FAVRESSE
-
-|
-
-51246
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-FEREBRIANGES
-
-|
-
-51247
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-FERE-CHAMPENOISE
-
-|
-
-51248
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-FESTIGNY
-
-|
-
-51249
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-FISMES
-
-|
-
-51250
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-FLAVIGNY
-
-|
-
-51251
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-FLEURY-LA-RIVIERE
-
-|
-
-51252
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-FONTAINE-DENIS-NUISY
-
-|
-
-51254
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-FONTAINE-SUR-AY
-
-|
-
-51256
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-LA FORESTIERE
-
-|
-
-51258
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-FRANCHEVILLE
-
-|
-
-51259
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-LE FRESNE
-
-|
-
-51260
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-FRIGNICOURT
-
-|
-
-51262
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-FROMENTIERES
-
-|
-
-51263
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-LE GAULT-SOIGNY
-
-|
-
-51264
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-GAYE
-
-|
-
-51265
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-GERMAINE
-
-|
-
-51266
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-GERMIGNY
-
-|
-
-51267
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-GERMINON
-
-|
-
-51268
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-GIFFAUMONT-CHAMPAUBERT
-
-|
-
-51269
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-GIGNY-BUSSY
-
-|
-
-51270
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-GIONGES
-
-|
-
-51271
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-GIVRY-LES-LOISY
-
-|
-
-51273
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-GLANNES
-
-|
-
-51275
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-GOURGANCON
-
-|
-
-51276
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-SAINTE-MARIE-DU-LAC-NUISEMENT
-
-|
-
-51277
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-LES GRANDES-LOGES
-
-|
-
-51278
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-GRANGES-SUR-AUBE
-
-|
-
-51279
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-GRAUVES
-
-|
-
-51281
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-GUEUX
-
-|
-
-51282
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-HAUSSIGNEMONT
-
-|
-
-51284
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-HAUSSIMONT
-
-|
-
-51285
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-HAUTEVILLE
-
-|
-
-51286
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-HAUTVILLERS
-
-|
-
-51287
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-HEILTZ-LE-HUTIER
-
-|
-
-51288
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-HEILTZ-LE-MAURUPT
-
-|
-
-51289
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-HEILTZ-L'EVEQUE
-
-|
-
-51290
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-HOURGES
-
-|
-
-51294
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-HUIRON
-
-|
-
-51295
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-HUMBAUVILLE
-
-|
-
-51296
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-IGNY-COMBLIZY
-
-|
-
-51298
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-ISLE-SUR-MARNE
-
-|
-
-51300
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-ISSE
-
-|
-
-51301
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-LES ISTRES-ET-BURY
-
-|
-
-51302
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-JALONS
-
-|
-
-51303
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-JANVILLIERS
-
-|
-
-51304
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-JANVRY
-
-|
-
-51305
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-JOISELLE
-
-|
-
-51306
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-JONCHERY-SUR-VESLE
-
-|
-
-51308
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-JONQUERY
-
-|
-
-51309
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-JOUY-LES-REIMS
-
-|
-
-51310
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-JUSSECOURT-MINECOURT
-
-|
-
-51311
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-JUVIGNY
-
-|
-
-51312
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-LACHY
-
-|
-
-51313
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-LAGERY
-
-|
-
-51314
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-LANDRICOURT
-
-|
-
-51315
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-LARZICOURT
-
-|
-
-51316
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-LENHARREE
-
-|
-
-51319
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-LEUVRIGNY
-
-|
-
-51320
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-LHERY
-
-|
-
-51321
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-LIGNON
-
-|
-
-51322
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-LINTHELLES
-
-|
-
-51323
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-LINTHES
-
-|
-
-51324
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-LISSE-EN-CHAMPAGNE
-
-|
-
-51325
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-LIVRY-LOUVERCY
-
-|
-
-51326
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-LOISY-EN-BRIE
-
-|
-
-51327
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-LOISY-SUR-MARNE
-
-|
-
-51328
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-LOUVOIS
-
-|
-
-51331
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-LUDES
-
-|
-
-51333
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-LUXEMONT-ET-VILLOTTE
-
-|
-
-51334
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-MAGNEUX
-
-|
-
-51337
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-MAILLY-CHAMPAGNE
-
-|
-
-51338
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-MAIRY-SUR-MARNE
-
-|
-
-51339
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-MAISONS-EN-CHAMPAGNE
-
-|
-
-51340
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-MANCY
-
-|
-
-51342
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-MARCILLY-SUR-SEINE
-
-|
-
-51343
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-MARDEUIL
-
-|
-
-51344
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-MAREUIL-EN-BRIE
-
-|
-
-51345
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-MAREUIL-LE-PORT
-
-|
-
-51346
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-MAREUIL-SUR-AY
-
-|
-
-51347
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-MARFAUX
-
-|
-
-51348
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-MARGERIE-HANCOURT
-
-|
-
-51349
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-MARGNY
-
-|
-
-51350
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-MARIGNY
-
-|
-
-51351
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-MAROLLES
-
-|
-
-51352
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-MARSANGIS
-
-|
-
-51353
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-MARSON
-
-|
-
-51354
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-MATIGNICOURT-GONCOURT
-
-|
-
-51356
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-MATOUGUES
-
-|
-
-51357
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-MAURUPT-LE-MONTOIS
-
-|
-
-51358
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-MECRINGES
-
-|
-
-51359
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-LE MEIX-SAINT-EPOING
-
-|
-
-51360
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-LE MEIX-TIERCELIN
-
-|
-
-51361
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-MERLAUT
-
-|
-
-51363
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-MERY-PREMECY
-
-|
-
-51364
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-LES MESNEUX
-
-|
-
-51365
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-LE MESNIL-SUR-OGER
-
-|
-
-51367
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-MOEURS-VERDEY
-
-|
-
-51369
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-MOIVRE
-
-|
-
-51371
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-MONCETZ-LONGEVAS
-
-|
-
-51372
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-MONCETZ-L'ABBAYE
-
-|
-
-51373
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-MONDEMENT-MONTGIVROUX
-
-|
-
-51374
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-MONTBRE
-
-|
-
-51375
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-MONTGENOST
-
-|
-
-51376
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-MONTEPREUX
-
-|
-
-51377
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-MONTHELON
-
-|
-
-51378
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-MONTMIRAIL
-
-|
-
-51380
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-MONTMORT-LUCY
-
-|
-
-51381
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-MONT-SUR-COURVILLE
-
-|
-
-51382
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-MORANGIS
-
-|
-
-51384
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-MORSAINS
-
-|
-
-51386
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-MOSLINS
-
-|
-
-51387
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-MOURMELON-LE-GRAND
-
-|
-
-51388
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-MOURMELON-LE-PETIT
-
-|
-
-51389
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-MOUSSY
-
-|
-
-51390
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-MUIZON
-
-|
-
-51391
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-MUTIGNY
-
-|
-
-51392
-
-|
-
-Zone réglementée
-
-|
-
-8
-
-|
-
-8
-
-|
-
-51
-
-|
-
-MARNE
-
-|
-
-NANTEUIL-LA-FORET
-
-|
-
-51393
-
-|
-
 Zone réglementée
 
 |
@@ -9476,19 +1330,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-NESLE-LA-REPOSTE
+ACY-ROMANCE
 
 |
 
-51395
+08001
 
 |
 
@@ -9504,19 +1358,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-NESLE-LE-REPONS
+AIRE
 
 |
 
-51396
+08004
 
 |
 
@@ -9532,19 +1386,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-LA NEUVILLE-AUX-LARRIS
+ALINCOURT
 
 |
 
-51398
+08005
 
 |
 
@@ -9560,19 +1414,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-NEUVY
+ALLAND'HUY-ET-SAUSSEUIL
 
 |
 
-51402
+08006
 
 |
 
@@ -9588,19 +1442,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-NORROIS
+LES ALLEUX
 
 |
 
-51406
+08007
 
 |
 
@@ -9616,19 +1470,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-LA NOUE
+AMAGNE
 
 |
 
-51407
+08008
 
 |
 
@@ -9644,19 +1498,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-NUISEMENT-SUR-COOLE
+AMBLY-FLEURY
 
 |
 
-51409
+08010
 
 |
 
@@ -9672,19 +1526,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-OEUILLY
+ANNELLES
 
 |
 
-51410
+08014
 
 |
 
@@ -9700,19 +1554,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-OGER
+APREMONT
 
 |
 
-51411
+08017
 
 |
 
@@ -9728,19 +1582,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-OGNES
+ARDEUIL-ET-MONTFAUXELLES
 
 |
 
-51412
+08018
 
 |
 
@@ -9756,19 +1610,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-OIRY
+LES GRANDES-ARMOISES
 
 |
 
-51413
+08019
 
 |
 
@@ -9784,19 +1638,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-OLIZY
+LES PETITES-ARMOISES
 
 |
 
-51414
+08020
 
 |
 
@@ -9812,19 +1666,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-OMEY
+ARTAISE-LE-VIVIER
 
 |
 
-51415
+08023
 
 |
 
@@ -9840,19 +1694,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-ORBAIS-L'ABBAYE
+ASFELD
 
 |
 
-51416
+08024
 
 |
 
@@ -9868,19 +1722,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-ORCONTE
+ATTIGNY
 
 |
 
-51417
+08025
 
 |
 
@@ -9896,19 +1750,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-ORMES
+AURE
 
 |
 
-51418
+08031
 
 |
 
@@ -9924,19 +1778,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-OUTINES
+AUSSONCE
 
 |
 
-51419
+08032
 
 |
 
@@ -9952,19 +1806,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-OUTREPONT
+AUTHE
 
 |
 
-51420
+08033
 
 |
 
@@ -9980,19 +1834,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-OYES
+AUTRUCHE
 
 |
 
-51421
+08035
 
 |
 
@@ -10008,19 +1862,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-PARGNY-LES-REIMS
+AUTRY
 
 |
 
-51422
+08036
 
 |
 
@@ -10036,19 +1890,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-PARGNY-SUR-SAULX
+AVANCON
 
 |
 
-51423
+08038
 
 |
 
@@ -10064,19 +1918,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-PASSY-GRIGNY
+BALLAY
 
 |
 
-51425
+08045
 
 |
 
@@ -10092,19 +1946,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-PEAS
+BAR-LES-BUZANCY
 
 |
 
-51426
+08049
 
 |
 
@@ -10120,19 +1974,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-LES PETITES-LOGES
+BAYONVILLE
 
 |
 
-51428
+08052
 
 |
 
@@ -10148,19 +2002,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-PIERRE-MORAINS
+BEAUMONT-EN-ARGONNE
 
 |
 
-51430
+08055
 
 |
 
@@ -10176,19 +2030,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-PIERRY
+BEFFU-ET-LE-MORTHOMME
 
 |
 
-51431
+08056
 
 |
 
@@ -10204,19 +2058,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-PLEURS
+BELLEVILLE-ET-CHATILLON-SUR-BAR
 
 |
 
-51432
+08057
 
 |
 
@@ -10232,19 +2086,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-PLICHANCOURT
+BELVAL-BOIS-DES-DAMES
 
 |
 
-51433
+08059
 
 |
 
@@ -10260,19 +2114,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-PLIVOT
+BERGNICOURT
 
 |
 
-51434
+08060
 
 |
 
@@ -10288,19 +2142,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-POCANCY
+LA BERLIERE
 
 |
 
-51435
+08061
 
 |
 
@@ -10316,19 +2170,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-POGNY
+BERTONCOURT
 
 |
 
-51436
+08062
 
 |
 
@@ -10344,19 +2198,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-POILLY
+LA BESACE
 
 |
 
-51437
+08063
 
 |
 
@@ -10372,19 +2226,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-POIX
+BIERMES
 
 |
 
-51438
+08064
 
 |
 
@@ -10400,19 +2254,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-PONTHION
+BIEVRES
 
 |
 
-51441
+08065
 
 |
 
@@ -10428,19 +2282,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-POTANGIS
+BIGNICOURT
 
 |
 
-51443
+08066
 
 |
 
@@ -10456,19 +2310,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-POURCY
+BLANZY-LA-SALONNAISE
 
 |
 
-51445
+08070
 
 |
 
@@ -10484,19 +2338,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-PRINGY
+BOUCONVILLE
 
 |
 
-51446
+08074
 
 |
 
@@ -10512,19 +2366,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-PRUNAY
+BOULT-AUX-BOIS
 
 |
 
-51449
+08075
 
 |
 
@@ -10540,19 +2394,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-PUISIEULX
+BOURCQ
 
 |
 
-51450
+08077
 
 |
 
@@ -10568,19 +2422,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-QUEUDES
+BRECY-BRIERES
 
 |
 
-51451
+08082
 
 |
 
@@ -10596,19 +2450,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-RECY
+BRIENNE-SUR-AISNE
 
 |
 
-51453
+08084
 
 |
 
@@ -10624,19 +2478,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-REIMS
+BRIEULLES-SUR-BAR
 
 |
 
-51454
+08085
 
 |
 
@@ -10652,19 +2506,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-REIMS-LA-BRULEE
+BRIQUENAY
 
 |
 
-51455
+08086
 
 |
 
@@ -10680,19 +2534,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-REUIL
+BUZANCY
 
 |
 
-51457
+08089
 
 |
 
@@ -10708,19 +2562,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-REUVES
+CAUROY
 
 |
 
-51458
+08092
 
 |
 
@@ -10736,19 +2590,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-REVEILLON
+CHAGNY
 
 |
 
-51459
+08095
 
 |
 
@@ -10764,19 +2618,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-RIEUX
+CHALLERANGE
 
 |
 
-51460
+08097
 
 |
 
@@ -10792,19 +2646,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-RILLY-LA-MONTAGNE
+CHAMPIGNEULLE
 
 |
 
-51461
+08098
 
 |
 
@@ -10820,19 +2674,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-LES RIVIERES-HENRUEL
+CHARBOGNE
 
 |
 
-51463
+08103
 
 |
 
@@ -10848,19 +2702,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-ROMERY
+CHARDENY
 
 |
 
-51465
+08104
 
 |
 
@@ -10876,19 +2730,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-ROMIGNY
+CHATEL-CHEHERY
 
 |
 
-51466
+08109
 
 |
 
@@ -10904,19 +2758,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-ROSNAY
+LE CHATELET-SUR-RETOURNE
 
 |
 
-51468
+08111
 
 |
 
@@ -10932,19 +2786,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-ROUFFY
+CHEMERY-SUR-BAR
 
 |
 
-51469
+08115
 
 |
 
@@ -10960,19 +2814,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-SACY
+LE CHESNE
 
 |
 
-51471
+08116
 
 |
 
@@ -10988,19 +2842,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-SAINT-AMAND-SUR-FION
+CHESNOIS-AUBONCOURT
 
 |
 
-51472
+08117
 
 |
 
@@ -11016,19 +2870,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-SAINT-BON
+CHEVIERES
 
 |
 
-51473
+08120
 
 |
 
@@ -11044,19 +2898,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-SAINT-CHERON
+CHUFFILLY-ROCHE
 
 |
 
-51475
+08123
 
 |
 
@@ -11072,19 +2926,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-SAINT-ETIENNE-AU-TEMPLE
+CONDE-LES-AUTRY
 
 |
 
-51476
+08128
 
 |
 
@@ -11100,19 +2954,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-SAINT-EULIEN
+CONTREUVE
 
 |
 
-51478
+08130
 
 |
 
@@ -11128,19 +2982,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-SAINT-EUPHRAISE-ET-CLAIRIZET
+CORNAY
 
 |
 
-51479
+08131
 
 |
 
@@ -11156,19 +3010,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-SAINTE-GEMME
+COUCY
 
 |
 
-51480
+08133
 
 |
 
@@ -11184,19 +3038,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-SAINT-GERMAIN-LA-VILLE
+COULOMMES-ET-MARQUENY
 
 |
 
-51482
+08134
 
 |
 
@@ -11212,19 +3066,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-SAINT-GIBRIEN
+LA CROIX-AUX-BOIS
 
 |
 
-51483
+08135
 
 |
 
@@ -11240,19 +3094,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-SAINT-GILLES
+DOUX
 
 |
 
-51484
+08144
 
 |
 
@@ -11268,19 +3122,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-SAINT-HILAIRE-AU-TEMPLE
+DRICOURT
 
 |
 
-51485
+08147
 
 |
 
@@ -11296,19 +3150,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-SAINT-IMOGES
+L'ECAILLE
 
 |
 
-51488
+08148
 
 |
 
@@ -11324,19 +3178,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-SAINT-JEAN-DEVANT-POSSESSE
+ECORDAL
 
 |
 
-51489
+08151
 
 |
 
@@ -11352,19 +3206,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-SAINT-JEAN-SUR-MOIVRE
+EXERMONT
 
 |
 
-51490
+08161
 
 |
 
@@ -11380,19 +3234,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-SAINT-JUST-SAUVAGE
+FALAISE
 
 |
 
-51492
+08164
 
 |
 
@@ -11408,19 +3262,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-SAINT-LEONARD
+FAUX
 
 |
 
-51493
+08165
 
 |
 
@@ -11436,19 +3290,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-SAINT-LOUP
+LA FERTE-SUR-CHIERS
 
 |
 
-51495
+08168
 
 |
 
@@ -11464,19 +3318,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-SAINT-LUMIER-EN-CHAMPAGNE
+FLEVILLE
 
 |
 
-51496
+08171
 
 |
 
@@ -11492,19 +3346,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-SAINT-LUMIER-LA-POPULEUSE
+FOSSE
 
 |
 
-51497
+08176
 
 |
 
@@ -11520,19 +3374,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-SAINT-MARD-LES-ROUFFY
+GERMONT
 
 |
 
-51499
+08186
 
 |
 
@@ -11548,19 +3402,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-SAINT-MARTIN-AUX-CHAMPS
+GIVRY
 
 |
 
-51502
+08193
 
 |
 
@@ -11576,19 +3430,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-SAINT-MARTIN-SUR-LE-PRE
+GRANDHAM
 
 |
 
-51504
+08197
 
 |
 
@@ -11604,19 +3458,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-SAINT-MEMMIE
+GRANDPRE
 
 |
 
-51506
+08198
 
 |
 
@@ -11632,19 +3486,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-SAINT-OUEN-DOMPROT
+GRIVY-LOISY
 
 |
 
-51508
+08200
 
 |
 
@@ -11660,19 +3514,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-SAINT-PIERRE
+GUINCOURT
 
 |
 
-51509
+08204
 
 |
 
@@ -11688,19 +3542,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-SAINT-QUENTIN-LES-MARAIS
+HARRICOURT
 
 |
 
-51510
+08215
 
 |
 
@@ -11716,19 +3570,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-SAINT-QUENTIN-LE-VERGER
+HAUVINE
 
 |
 
-51511
+08220
 
 |
 
@@ -11744,19 +3598,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-SAINT-QUENTIN-SUR-COOLE
+HOUDILCOURT
 
 |
 
-51512
+08229
 
 |
 
@@ -11772,19 +3626,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-SAINT-REMY-EN-BOUZEMONT-SAINT-GENEST-ET-ISSON
+IMECOURT
 
 |
 
-51513
+08233
 
 |
 
@@ -11800,19 +3654,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-SAINT-REMY-SOUS-BROYES
+JONVAL
 
 |
 
-51514
+08238
 
 |
 
@@ -11828,19 +3682,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-SAINT-SATURNIN
+JUNIVILLE
 
 |
 
-51516
+08239
 
 |
 
@@ -11856,19 +3710,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-SAINT-UTIN
+LAMETZ
 
 |
 
-51520
+08244
 
 |
 
@@ -11884,19 +3738,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-SAINT-VRAIN
+LANCON
 
 |
 
-51521
+08245
 
 |
 
@@ -11912,19 +3766,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-SAPIGNICOURT
+LANDRES-ET-SAINT-GEORGES
 
 |
 
-51522
+08246
 
 |
 
@@ -11940,19 +3794,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-SARCY
+LEFFINCOURT
 
 |
 
-51523
+08250
 
 |
 
@@ -11968,19 +3822,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-SARON-SUR-AUBE
+LETANNE
 
 |
 
-51524
+08252
 
 |
 
@@ -11996,19 +3850,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-SARRY
+LIRY
 
 |
 
-51525
+08256
 
 |
 
@@ -12024,19 +3878,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-SAUDOY
+LONGWE
 
 |
 
-51526
+08259
 
 |
 
@@ -12052,19 +3906,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-SAVIGNY-SUR-ARDRES
+LOUVERGNY
 
 |
 
-51527
+08261
 
 |
 
@@ -12080,19 +3934,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-SCRUPT
+LUCQUY
 
 |
 
-51528
+08262
 
 |
 
@@ -12108,19 +3962,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-SEPT-SAULX
+MACHAULT
 
 |
 
-51530
+08264
 
 |
 
@@ -12136,19 +3990,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-SERMAIZE-LES-BAINS
+MAISONCELLE-ET-VILLERS
 
 |
 
-51531
+08268
 
 |
 
@@ -12164,19 +4018,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-SERMIERS
+MALANDRY
 
 |
 
-51532
+08269
 
 |
 
@@ -12192,19 +4046,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-SERZY-ET-PRIN
+MANRE
 
 |
 
-51534
+08271
 
 |
 
@@ -12220,19 +4074,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-SEZANNE
+MARCQ
 
 |
 
-51535
+08274
 
 |
 
@@ -12248,19 +4102,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-SILLERY
+MARGUT
 
 |
 
-51536
+08276
 
 |
 
@@ -12276,19 +4130,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-SOGNY-AUX-MOULINS
+MARQUIGNY
 
 |
 
-51538
+08278
 
 |
 
@@ -12304,19 +4158,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-SOGNY-EN-L'ANGLE
+MARS-SOUS-BOURCQ
 
 |
 
-51539
+08279
 
 |
 
@@ -12332,19 +4186,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-SOIZY-AUX-BOIS
+MARVAUX-VIEUX
 
 |
 
-51542
+08280
 
 |
 
@@ -12360,19 +4214,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-SOMMESOUS
+MENIL-ANNELLES
 
 |
 
-51545
+08286
 
 |
 
@@ -12388,19 +4242,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-SOMME-VESLE
+MENIL-LEPINOIS
 
 |
 
-51548
+08287
 
 |
 
@@ -12416,19 +4270,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-SOMME-YEVRE
+MONTCHEUTIN
 
 |
 
-51549
+08296
 
 |
 
@@ -12444,19 +4298,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-SOMPUIS
+LE MONT-DIEU
 
 |
 
-51550
+08300
 
 |
 
@@ -12472,19 +4326,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-SOMSOIS
+MONTGON
 
 |
 
-51551
+08301
 
 |
 
@@ -12500,19 +4354,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-SONGY
+MONTHOIS
 
 |
 
-51552
+08303
 
 |
 
@@ -12528,19 +4382,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-SOUDE
+MONT-LAURENT
 
 |
 
-51555
+08306
 
 |
 
@@ -12556,19 +4410,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-SOUDRON
+MONT-SAINT-MARTIN
 
 |
 
-51556
+08308
 
 |
 
@@ -12584,19 +4438,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-SOULANGES
+MONT-SAINT-REMY
 
 |
 
-51557
+08309
 
 |
 
@@ -12612,19 +4466,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-SOULIERES
+MOURON
 
 |
 
-51558
+08310
 
 |
 
@@ -12640,19 +4494,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-SUIZY-LE-FRANC
+MOUZON
 
 |
 
-51560
+08311
 
 |
 
@@ -12668,19 +4522,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-TAISSY
+NANTEUIL-SUR-AISNE
 
 |
 
-51562
+08313
 
 |
 
@@ -12696,19 +4550,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-TALUS-SAINT-PRIX
+NEUFLIZE
 
 |
 
-51563
+08314
 
 |
 
@@ -12724,19 +4578,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-TAUXIERES-MUTRY
+LA NEUVILLE-A-MAIRE
 
 |
 
-51564
+08317
 
 |
 
@@ -12752,19 +4606,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-THAAS
+LA NEUVILLE-EN-TOURNE-A-FUY
 
 |
 
-51565
+08320
 
 |
 
@@ -12780,19 +4634,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-THIBIE
+NEUVILLE-DAY
 
 |
 
-51566
+08321
 
 |
 
@@ -12808,19 +4662,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-THIEBLEMONT-FAREMONT
+NOIRVAL
 
 |
 
-51567
+08325
 
 |
 
@@ -12836,19 +4690,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-THILLOIS
+NOUART
 
 |
 
-51569
+08326
 
 |
 
@@ -12864,19 +4718,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-LE THOULT-TROSNAY
+NOVY-CHEVRIERES
 
 |
 
-51570
+08330
 
 |
 
@@ -12892,19 +4746,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-VAL-DE-VESLE
+OCHES
 
 |
 
-51571
+08332
 
 |
 
@@ -12920,19 +4774,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-TINQUEUX
+OLIZY-PRIMAT
 
 |
 
-51573
+08333
 
 |
 
@@ -12948,19 +4802,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-TOGNY-AUX-BOEUFS
+OMONT
 
 |
 
-51574
+08335
 
 |
 
@@ -12976,19 +4830,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-TOURS-SUR-MARNE
+PAUVRES
 
 |
 
-51576
+08338
 
 |
 
@@ -13004,19 +4858,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-TRAMERY
+PERTHES
 
 |
 
-51577
+08339
 
 |
 
@@ -13032,19 +4886,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-TRECON
+POILCOURT-SYDNEY
 
 |
 
-51578
+08340
 
 |
 
@@ -13060,19 +4914,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-TREFOLS
+QUATRE-CHAMPS
 
 |
 
-51579
+08350
 
 |
 
@@ -13088,19 +4942,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-TREPAIL
+QUILLY
 
 |
 
-51580
+08351
 
 |
 
@@ -13116,19 +4970,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-TRESLON
+RAUCOURT-ET-FLABA
 
 |
 
-51581
+08354
 
 |
 
@@ -13144,19 +4998,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-TROIS-FONTAINES-L'ABBAYE
+RETHEL
 
 |
 
-51583
+08362
 
 |
 
@@ -13172,19 +5026,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-TROIS-PUITS
+RILLY-SUR-AISNE
 
 |
 
-51584
+08364
 
 |
 
@@ -13200,19 +5054,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-TROISSY
+ROIZY
 
 |
 
-51585
+08368
 
 |
 
@@ -13228,19 +5082,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-UNCHAIR
+LA SABOTTERIE
 
 |
 
-51586
+08374
 
 |
 
@@ -13256,19 +5110,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-VADENAY
+SAILLY
 
 |
 
-51587
+08376
 
 |
 
@@ -13284,19 +5138,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-VANAULT-LE-CHATEL
+SAINT-CLEMENT-A-ARNES
 
 |
 
-51589
+08378
 
 |
 
@@ -13312,19 +5166,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-VANAULT-LES-DAMES
+SAINT-ETIENNE-A-ARNES
 
 |
 
-51590
+08379
 
 |
 
@@ -13340,19 +5194,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-VANDEUIL
+SAINT-JUVIN
 
 |
 
-51591
+08383
 
 |
 
@@ -13368,19 +5222,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-VANDIERES
+SAINT-LAMBERT-ET-MONT-DE-JEUX
 
 |
 
-51592
+08384
 
 |
 
@@ -13396,19 +5250,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-VASSIMONT-ET-CHAPELAINE
+SAINT-LOUP-EN-CHAMPAGNE
 
 |
 
-51594
+08386
 
 |
 
@@ -13424,19 +5278,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-VATRY
+SAINT-LOUP-TERRIER
 
 |
 
-51595
+08387
 
 |
 
@@ -13452,19 +5306,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-VAUCHAMPS
+SAINTE-MARIE
 
 |
 
-51596
+08390
 
 |
 
@@ -13480,19 +5334,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-VAUCIENNES
+SAINT-MOREL
 
 |
 
-51597
+08392
 
 |
 
@@ -13508,19 +5362,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-VAUCLERC
+SAINT-PIERRE-A-ARNES
 
 |
 
-51598
+08393
 
 |
 
@@ -13536,19 +5390,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-VAUDEMANGE
+SAINT-PIERREMONT
 
 |
 
-51599
+08394
 
 |
 
@@ -13564,19 +5418,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-VAVRAY-LE-GRAND
+SAINT-REMY-LE-PETIT
 
 |
 
-51601
+08397
 
 |
 
@@ -13592,19 +5446,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-VAVRAY-LE-PETIT
+SAINTE-VAUBOURG
 
 |
 
-51602
+08398
 
 |
 
@@ -13620,19 +5474,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-VELYE
+SAULCES-CHAMPENOISES
 
 |
 
-51603
+08401
 
 |
 
@@ -13648,19 +5502,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-VENTEUIL
+SAULT-LES-RETHEL
 
 |
 
-51605
+08403
 
 |
 
@@ -13676,19 +5530,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-VERDON
+SAULT-SAINT-REMY
 
 |
 
-51607
+08404
 
 |
 
@@ -13704,19 +5558,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-VERNANCOURT
+SAUVILLE
 
 |
 
-51608
+08405
 
 |
 
@@ -13732,19 +5586,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-VERNEUIL
+SAVIGNY-SUR-AISNE
 
 |
 
-51609
+08406
 
 |
 
@@ -13760,19 +5614,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-VERT-TOULON
+SECHAULT
 
 |
 
-51611
+08407
 
 |
 
@@ -13788,19 +5642,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-VERTUS
+SEMIDE
 
 |
 
-51612
+08410
 
 |
 
@@ -13816,19 +5670,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-VERZENAY
+SEMUY
 
 |
 
-51613
+08411
 
 |
 
@@ -13844,19 +5698,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-VERZY
+SENUC
 
 |
 
-51614
+08412
 
 |
 
@@ -13872,19 +5726,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-VESIGNEUL-SUR-MARNE
+SEUIL
 
 |
 
-51616
+08416
 
 |
 
@@ -13900,19 +5754,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-LA VEUVE
+SIGNY-MONTLIBERT
 
 |
 
-51617
+08421
 
 |
 
@@ -13928,19 +5782,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-LE VEZIER
+SOMMAUTHE
 
 |
 
-51618
+08424
 
 |
 
@@ -13956,19 +5810,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-VILLE-DOMMANGE
+SOMMERANCE
 
 |
 
-51622
+08425
 
 |
 
@@ -13984,19 +5838,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-VILLE-EN-SELVE
+SORCY-BAUTHEMONT
 
 |
 
-51623
+08428
 
 |
 
@@ -14012,19 +5866,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-VILLE-EN-TARDENOIS
+STONNE
 
 |
 
-51624
+08430
 
 |
 
@@ -14040,19 +5894,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-VILLENEUVE-LA-LIONNE
+SUGNY
 
 |
 
-51625
+08431
 
 |
 
@@ -14068,19 +5922,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-LA VILLENEUVE-LES-CHARLEVILLE
+SUZANNE
 
 |
 
-51626
+08433
 
 |
 
@@ -14096,19 +5950,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-VILLENEUVE-RENNEVILLE-CHEVIGNY
+SY
 
 |
 
-51627
+08434
 
 |
 
@@ -14124,19 +5978,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-VILLENEUVE-SAINT-VISTRE-ET-VILLEVOTTE
+TAGNON
 
 |
 
-51628
+08435
 
 |
 
@@ -14152,19 +6006,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-VILLERS-ALLERAND
+TAILLY
 
 |
 
-51629
+08437
 
 |
 
@@ -14180,19 +6034,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-VILLERS-AUX-BOIS
+TANNAY
 
 |
 
-51630
+08439
 
 |
 
@@ -14208,19 +6062,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-VILLERS-AUX-NOEUDS
+TERMES
 
 |
 
-51631
+08441
 
 |
 
@@ -14236,19 +6090,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-VILLERS-LE-CHATEAU
+TERRON-SUR-AISNE
 
 |
 
-51634
+08443
 
 |
 
@@ -14264,19 +6118,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-VILLERS-LE-SEC
+THENORGUES
 
 |
 
-51635
+08446
 
 |
 
@@ -14292,19 +6146,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-VILLERS-MARMERY
+THUGNY-TRUGNY
 
 |
 
-51636
+08452
 
 |
 
@@ -14320,19 +6174,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-VILLERS-SOUS-CHATILLON
+TOGES
 
 |
 
-51637
+08453
 
 |
 
@@ -14348,19 +6202,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-VILLESENEUX
+TOURCELLES-CHAUMONT
 
 |
 
-51638
+08455
 
 |
 
@@ -14376,19 +6230,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-LA VILLE-SOUS-ORBAIS
+TOURTERON
 
 |
 
-51639
+08458
 
 |
 
@@ -14404,19 +6258,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-VILLEVENARD
+VANDY
 
 |
 
-51641
+08461
 
 |
 
@@ -14432,19 +6286,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-VILLIERS-AUX-CORNEILLES
+VAUX-CHAMPAGNE
 
 |
 
-51642
+08462
 
 |
 
@@ -14460,19 +6314,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-VINAY
+VAUX-EN-DIEULET
 
 |
 
-51643
+08463
 
 |
 
@@ -14488,19 +6342,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-VINCELLES
+VAUX-LES-MOURON
 
 |
 
-51644
+08464
 
 |
 
@@ -14516,19 +6370,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-VINDEY
+VAUX-LES-MOUZON
 
 |
 
-51645
+08466
 
 |
 
@@ -14544,19 +6398,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-VITRY-EN-PERTHOIS
+VENDRESSE
 
 |
 
-51647
+08469
 
 |
 
@@ -14572,19 +6426,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-VITRY-LA-VILLE
+VERPEL
 
 |
 
-51648
+08470
 
 |
 
@@ -14600,19 +6454,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-VITRY-LE-FRANCOIS
+VERRIERES
 
 |
 
-51649
+08471
 
 |
 
@@ -14628,19 +6482,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-VOIPREUX
+VIEUX-LES-ASFELD
 
 |
 
-51651
+08473
 
 |
 
@@ -14656,19 +6510,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-VOUARCES
+VILLE-SUR-RETOURNE
 
 |
 
-51652
+08484
 
 |
 
@@ -14684,19 +6538,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-VOUILLERS
+VILLY
 
 |
 
-51654
+08485
 
 |
 
@@ -14712,19 +6566,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-VOUZY
+VONCQ
 
 |
 
-51655
+08489
 
 |
 
@@ -14740,19 +6594,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-VRAUX
+VOUZIERS
 
 |
 
-51656
+08490
 
 |
 
@@ -14768,19 +6622,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-VRIGNY
+VRIZY
 
 |
 
-51657
+08493
 
 |
 
@@ -14796,19 +6650,19 @@ Zone réglementée
 
 |
 
-51
+08
 
 |
 
-MARNE
+ARDENNES
 
 |
 
-MAGENTA
+YONCQ
 
 |
 
-51663
+08502
 
 |
 
