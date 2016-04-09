@@ -152,7 +152,7 @@ Emissions des véhicules utilitaires légers (Euro 5 et Euro 6), émissions de C
 
 |
 
-Règlement (CE) No 715/2007 et règlement (CE) No 692/2008
+Règlement (CE) N° 715/2007 et règlement (CE) N° 692/2008
 
 |
 
@@ -304,47 +304,47 @@ X (1)
 
 |
 
-C (2)
+D (2)
 
 |
 
-B (2)
+D (2)
 
 |
 
-B (2)
+D (2)
 
 |
 
-C (2)
-
-|
-
-A ou B
-
-(8)
+D (2)
 
 |
 
 A ou B
 
-(8)
+(8)(*)
 
 |
 
-B (2)
+A ou B
+
+(8)(*)
 
 |
 
-B (2)
+D (2)
 
 |
 
-A ou B (8)
+D (2)
 
 |
 
-A ou B (8)
+A ou B (8)(*)
+
+|
+
+A ou B (8)(*)
 
 |
 
@@ -360,43 +360,41 @@ Arrêté du 4 mai 2009
 
 |
 
-B
+D
 
 |
 
-B
+D
 
 |
 
-B
+D
 
 |
 
-B
+D |
+
+D
 
 |
 
-B
+D
 
 |
 
-B
+D
 
 |
 
-B
+D
 
 |
 
-B
+D
 
 |
 
-B
-
-|
-
-B
+D
 
 |
 
@@ -900,43 +898,51 @@ X (1)
 
 |
 
-B (2)
+B (2)(*)
 
 |
 
 A (2)
 
-(*) |
-
-A (2)
-
-(*) |
-
-B (2)
+(*)
 
 |
 
 A (2)
 
-(*) |
+(*)
+
+|
+
+B (2)(*)
+
+|
 
 A (2)
 
-(*) |
-
-B (2)
+(*)
 
 |
 
-B (2)
+A (2)
+
+(*)
 
 |
 
-B (2)
+B (2)(*)
 
 |
 
-B (2)
+B (2)(*)
+
+|
+
+B (2)(*)
+
+|
+
+B (2)(*)
 
 |
 
@@ -1354,7 +1360,7 @@ A
 
 |
 
-Installation des dispositifs d'éclairage/signalisation
+Dispositifs d'éclairage
 
 |
 
@@ -1362,43 +1368,43 @@ Arrêté du 16 juillet 1954
 
 |
 
-B (3)
+D (3)
 
 |
 
-B (3)
+D (3)
 
 |
 
-B (3)
+D (3)
 
 |
 
-B (3)
+D (3)
 
 |
 
-B (3)
+D (3)
 
 |
 
-B (3)
+D (3)
 
 |
 
-B (3)
+D (3)
 
 |
 
-B (3)
+D (3)
 
 |
 
-B (3)
+D (3)
 
 |
 
-B (3)
+D (3)
 
 |
 
@@ -2228,9 +2234,7 @@ B (2)
 
 |
 
-Recouvrement des roues
-
-|
+Recouvrement des roues |
 
 Arrêté du 4 mai 2009
 
@@ -2258,21 +2262,13 @@ B
 
 |
 
-38
+38 |
 
-|
+Appuis-tête |
 
-Appuis-tête
+Règlement (CE) n° 661/2009 |
 
-|
-
-Règlement (CE) n° 661/2009
-
-|
-
-C (19)
-
-|
+C (19) |
 
 |
 
@@ -2344,7 +2340,7 @@ Protection latérale
 
 |
 
-Articles 10-7 à 10-9 de l'arrêté du 19 décembre 1958
+Article 10-9 de l'arrêté du 19 décembre 1958
 
 |
 
@@ -2384,15 +2380,11 @@ X (1)
 
 |
 
-B
-
-(2)
+B (2)(*)
 
 |
 
-B
-
-(2)
+B (2)(*)
 
 |
 
@@ -2400,15 +2392,11 @@ B
 
 |
 
-B
-
-(2)
+B (2)(*)
 
 |
 
-B
-
-(2)
+B (2)(*)
 
 |
 
@@ -2458,31 +2446,31 @@ X (1)
 
 |
 
-B (2)
+D (2)
 
 |
 
-B (2)
+D (2)
 
 |
 
-B (2)
+D (2)
 
 |
 
-B (2)
+D (2)
 
 |
 
-B (2)
+D (2)
 
 |
 
-B (2)
+D (2)
 
 |
 
-B (2)
+D (2)
 
 |
 
@@ -2574,43 +2562,43 @@ X (1)
 
 |
 
-B (2)
+D (2)
 
 |
 
-B (2)
+D (2)
 
 |
 
-B (2)
+D (2)
 
 |
 
-B (2)
+D (2)
 
 |
 
-B (2)
+D (2)
 
 |
 
-B (2)
+D (2)
 
 |
 
-B (2)
+D (2)
 
 |
 
-B (2)
+D (2)
 
 |
 
-B (2)
+D (2)
 
 |
 
-B (2)
+D (2)
 
 |
 
@@ -2668,43 +2656,43 @@ X (1)
 
 |
 
-B (2)
+D (2)
 
 |
 
-B (2)
+D (2)
 
 |
 
-B (2)
+D (2)
 
 |
 
-B (2) (18)
+D (2) (18)
 
 |
 
-B (2) (18)
+D (2) (18)
 
 |
 
-B (2) (18)
+D (2) (18)
 
 |
 
-B (2)
+D (2)
 
 |
 
-B (2)
+D (2)
 
 |
 
-B (2)
+D (2)
 
 |
 
-B (2)
+D (2)
 
 |
 
@@ -2808,7 +2796,7 @@ Saillies extérieures des cabines
 
 |
 
-Articles 1er à 10 de l'arrêté du 19 décembre 1958
+Article 10ter de l'arrêté du 19 décembre 1958
 
 |
 
@@ -2890,27 +2878,27 @@ X (1)
 
 |
 
-B (2)
+D (2)
 
 |
 
-B (2)
+D (2)
 
 |
 
-B (2)
+D (2)
 
 |
 
-B (2)
+D (2)
 
 |
 
-B (2)
+D (2)
 
 |
 
-B (2)
+D (2)
 
 |
 
@@ -3820,7 +3808,7 @@ Les notes relatives au tableau de l'annexe IV liste des règlements CEE-ONU ayan
 
 (2) Véhicule ou installation.
 
-(*) Niveau B si l'opération technique ne concerne que la pose d'entités homologuées.
+(*) Niveau D si l'opération technique ne concerne que la pose d'entités homologuées.
 
 (3) Toute transformation apportée sur ce thème sur un véhicule ayant initialement fait l'objet d'une réception partielle en vertu du règlement de Genève n° 48 sera également validée selon ce même règlement.
 
@@ -3874,6 +3862,6 @@ C : le constructeur doit démontrer, à la satisfaction du service chargé des r
 
 D : une déclaration de conformité soumise par le constructeur est suffisante. Aucun rapport d'essai n'est requis.
 
-Le niveau X couvre les niveaux A , B , C et D , le niveau A couvre les niveaux B , C et D ; le niveau B couvre les niveaux C et D . ; le niveau C couvre le niveau D .
+Le niveau X couvre les niveaux A, B, C et D, le niveau A couvre les niveaux B, C et D ; le niveau B couvre les niveaux C et D. ; le niveau C couvre le niveau D.
 
 |
