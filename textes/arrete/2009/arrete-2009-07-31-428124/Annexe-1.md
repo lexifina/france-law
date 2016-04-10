@@ -40,7 +40,7 @@ NATURE DES OPÉRATIONS
 
 |
 
-Les produits apportés par les associés coopérateurs au titre de l'engagement d'activité prévu au premier paragraphe de l'article 8 ci-dessous font l'objet d'un transfert de propriété au bénéfice de l'union [selon les modalités prévues au règlement intérieur].
+[Les produits apportés par les associés coopérateurs au titre de l'engagement d'activité prévu au premier paragraphe de l'article 8 ci-dessous font l'objet d'un transfert de propriété au bénéfice de l'union [selon les modalités prévues au règlement intérieur]].
 
 2° En dehors de l'objet ci-dessus défini, l'union peut également effectuer à titre accessoire, à la demande des associés coopérateurs et sans engagement de ces derniers en application de l'article 8 ci-dessous, des opérations de fourniture de biens et de services se rapportant directement à l'objet principal de l'union.
 
