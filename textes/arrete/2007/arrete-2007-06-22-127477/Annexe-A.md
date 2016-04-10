@@ -398,6 +398,10 @@ Sans limitation
 
 |
 
+Autorités signataires de marchés |
+
+MAPA × 50 |
+
 Direction de la stratégie
 
 |
@@ -516,4 +520,6 @@ MAPA x 1 (10)
 
 (9) Limitation applicable aux seuls marchés de définition ou de maîtrise d'œuvre passés conformément aux dispositions de la loi n° 85-704 du 12 juillet 1985 modifiée relative à la maîtrise d'ouvrage publique et ses rapports avec la maîtrise d'œuvre privée et de ses textes d'application.
 
-(10) Pour le chef du quartier général, la délégation pour passer les marchés de fournitures et services est applicable dans des conditions fixées par arrêté. |
+(10) Pour le chef du quartier général, la délégation pour passer les marchés de fournitures et services est applicable dans des conditions fixées par arrêté.
+
+|
