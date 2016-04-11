@@ -126,8 +126,6 @@ Mission : sport, jeunesse et vie associative
 
 163-04 Action : protection des jeunes.
 
-Subventions d'équipement sportif aux collectivités territoriales ou à leurs établissements versées par le Centre national pour le développement du sport (CNDS).
-
 Mission : transports
 
 203 Programme : réseau routier national.
