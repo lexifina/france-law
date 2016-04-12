@@ -1,0 +1,9 @@
+# Réponse à la question n° 69249
+
+- Question : [69249](69249.md) — Question n° 69249 — numérique; développement; rapport; propositions
+
+## Réponse
+
+*JO du 2016-04-12*
+
+M. Philippe Lemoine a été mandaté le 15 janvier 2014 par le ministre de l'économie et des finances, le ministre du redressement productif et la ministre déléguée chargée des PME, de l'innovation et de l'économie numérique pour une mission sur la transformation numérique de l'économie, et le 13 mars 2014 par la ministre de la décentralisation et de la fonction publique pour une mission complémentaire sur la transformation numérique de l'action publique. Il a remis son rapport, le 7 novembre 2014, au ministre de l'économie, de l'industrie et du numérique, à la ministre de la décentralisation et de la fonction publique, au secrétaire d'Etat chargé de la réforme de l'Etat et de la simplification, et à la secrétaire d'Etat chargée du numérique. Au terme de plusieurs mois de travaux collaboratifs (avec plus de 500 acteurs d'origines très variées de la sphère publique, du monde de l'entreprise et de la société civile) sur des thématiques sectorielles et transverses, qui ont permis de faire émerger une vision partagée des enjeux, le rapport présente 180 propositions pour une transformation numérique rapide (les 9 projets), globale (53 mesures transverses) et durable (118 recommandations pour un agenda triennal). Parmi les 9 projets emblématiques qui concernent différents secteurs (les services de proximité, l'industrie, les services financiers, le commerce, la mobilité des personnes, la santé, l'emploi, l'énergie et les services à l'environnement), certains correspondent à des moteurs de transformation importants et font écho à plusieurs initiatives engagées dans des plans industriels ou des projets de filières. Le rapport a été versé à la concertation sur le numérique, lancée par le Premier ministre le 4 octobre 2014 et a nourri la loi sur la République numérique.
