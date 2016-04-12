@@ -1,0 +1,9 @@
+# Réponse à la question n° 93271
+
+- Question : [93271](93271.md) — Question n° 93271 — attentats de Copenhague; commémoration
+
+## Réponse
+
+*JO du 2016-04-12*
+
+La France et le Danemark ont été frappés par des actes terroristes qui s'attaquaient à la liberté d'expression et à la tradition de tolérance de nos deux pays. Face à ces agressions, la France et le Danemark sont plus que jamais déterminés à poursuivre leur action commune. L'engagement de l'ambassadeur Zimeray en est la parfaite et courageuse illustration. Ces événements tragiques ont contribué à rapprocher les deux pays. Les autorités françaises ont souhaité très rapidement manifester leur soutien aux autorités danoises, ainsi qu'à notre ambassadeur, particulièrement exposé puisqu'il était l'intervenant principal de la conférence sur "l'art, le blasphème et la liberté d'expression" visée par la fusillade. Le ministre de l'intérieur, M. Cazeneuve, s'est rendu au Danemark dès le 15 février et s'est entretenu avec son homologue danoise, Mme Frederiksen. Le secrétaire d'Etat aux affaires européennes, M. Désir, était également à Copenhague le 16 février et a pu assister aux cérémonies de commémoration, qui ont réuni 30.000 personnes. Le Président de la République avait joint la première ministre danoise au téléphone et s'était déplacé à l'ambassade du Danemark à Paris, de même que le Premier ministre. Sur le plan opérationnel, la relation bilatérale a également été renforcée. La coopération de défense entre nos deux pays est excellente, que ce soit au sein de la coalition contre Daech, au Sahel, ou dans la lutte contre la piraterie maritime. Nos positions sont très proches en matière de lutte contre le terrorisme (par exemple sur le PNR), même si le Danemark est dans une position particulière au sein de l'Union européenne compte-tenu de son "opt-out" et de l'échec du référendum du 3 décembre.
