@@ -1,0 +1,9 @@
+# Réponse à la question n° 92592
+
+- Question : [92592](92592.md) — Question n° 92592 — immeuble; vente; droit de préemption; réglementation
+
+## Réponse
+
+*JO du 2016-04-12*
+
+L'article L. 145-46-1 du code de commerce issu de l'article 14 de la loi no 2014-626 du 18 juin 2014 relative à l'artisanat, au commerce et aux très petites entreprises a instauré un droit de préférence au profit du locataire en cas de vente du local commercial ou artisanal dans lequel il exerce son activité. En conséquence, tout propriétaire d'un tel local qui envisage de le vendre doit en informer le locataire. Cette notification vaut offre de vente au profit du locataire qui dispose alors d'un délai d'un mois pour se prononcer. Ce texte a pour objectif de permettre au locataire de poursuivre son activité dans de meilleures conditions, notamment économiques, puisqu'il n'aurait plus à s'acquitter du montant de son loyer. Toutefois, le dernier alinéa de l'article L. 145-46-1 exclut l'application de ce dispositif en cas de cession globale d'un immeuble comprenant un ou plusieurs locaux commerciaux. En effet, imposer un droit de préférence sur la vente du local commercial impliquerait de contraindre le propriétaire à vendre ce local indépendamment du reste, ce qui constituerait une atteinte à son droit de propriété. En outre, le droit de préférence constitue une limitation du droit de propriété et doit donc être interprété restrictivement. Permettre au locataire d'exercer son droit de préférence sur l'ensemble immobilier vendu constituerait une extension de ce droit limité par la loi au seul local commercial où il exerce son activité. En conséquence, dans le cas évoqué d'une vente d'un immeuble comprenant au rez-de-chaussée un local commercial donné à bail et aux étages supérieurs des appartements inoccupés, l'article L. 145 46-1 du code de commerce ne s'appliquera pas, sous réserve de l'interprétation contraire des tribunaux.
