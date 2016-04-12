@@ -1,0 +1,9 @@
+# Réponse à la question n° 93477
+
+- Question : [93477](93477.md) — Question n° 93477 — attitude de la France
+
+## Réponse
+
+*JO du 2016-04-12*
+
+La France plaide de longue date en faveur de la création d'un Etat palestinien indépendant, viable et démocratique. Elle défend également le droit d'Israël à exister et à vivre en sécurité. La situation sur le terrain et l'impasse diplomatique sont aujourd'hui intenables. La France condamne avec la plus grande fermeté tous les actes de terrorisme et de violence et appelle les parties à combattre toutes les formes d'incitation à la haine. Elle continuera à condamner la colonisation en Cisjordanie et à Jérusalem Est, qui est illégale au regard du droit international et constitue un obstacle majeur à la paix. La France reste convaincue que l'absence d'horizon politique est la cause profonde des récents événements, faisant le jeu de la radicalisation et de l'extrémisme. Face à cette situation, l'objectif de la France est de recréer un environnement propice au dialogue et de relancer une dynamique politique crédible. C'est le sens des efforts qu'elle mène depuis plusieurs mois et de l'initiative qu'elle porte aujourd'hui. Elle a en effet engagé des démarches afin de préparer une conférence internationale rassemblant autour des parties leurs principaux partenaires notamment américains, européens et arabes, avec l'objectif de préserver et de faire aboutir la solution des deux États. Dans cette perspective, le ministre des affaires étrangères et du développement international a nommé un envoyé spécial, Monsieur Pierre Vimont, pour organiser la concertation avec les parties et les principaux partenaires. La France restera pleinement engagée sur ce dossier, convaincue que la stabilité de cette région fracturée et meurtrie par les conflits nécessite une résolution juste et durable de la question israélo-palestinienne.
