@@ -1,0 +1,9 @@
+# Réponse à la question n° 52975
+
+- Question : [52975](52975.md) — Question n° 52975 — renseignement; écoutes téléphoniques; perspectives
+
+## Réponse
+
+*JO du 2016-04-12*
+
+La loi de 1991 sur les interceptions de sécurité, dont les principes ont été repris par la loi sur le renseignement du 23 juillet 2015, prévoit le principe de centralisation des demandes d'interception réalisées à l'encontre de personnes situées sur le territoire national via le Groupement interministériel de contrôle (GIC). Ce dernier, indépendant des services de renseignement car directement rattaché au Premier ministre, est le service administratif exclusivement habilité à saisir après demande de la DGSE, comme des autres services, le ou les opérateurs téléphoniques concernés. En aucun cas la Direction générale de la sécurité extérieure (DGSE) ne bénéficie d'un accès direct aux centres de stockage des données de connexion conservées pendant un an, en application de la loi, par les opérateurs de télécommunications. L'opérateur Orange est, de ce point de vue, placé dans la même situation que l'ensemble des autres opérateurs intervenant sur le territoire national. Les demandes émises par les services de renseignement pour le bon exercice de leur mission au service de la sécurité de la Nation et des Français ne sont pas de droit. Ces surveillances ne sont accordées que par le Premier ministre ou l'un de ses délégués directs, après avis préalable de la Commission nationale de contrôle des techniques de renseignement (CNCTR). En outre, les mesures de surveillance internationale sont réalisées dans un cadre légal précisé par la loi du 30 novembre 2015, validée par le conseil constitutionnel. Les lois des 23 juillet et 30 novembre 2015 ont prévu un droit au recours juridictionnel organisé de manière à ce que le secret de la défense nationale ne soit pas opposable au juge, ce qui constitue une première et un progrès incontestable de notre droit.
