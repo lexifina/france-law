@@ -1,0 +1,9 @@
+# Réponse à la question n° 92720
+
+- Question : [92720](92720.md) — Question n° 92720 — équipes cynophiles; armement; perspectives
+
+## Réponse
+
+*JO du 2016-04-12*
+
+Les équipes cynotechniques (une unité à Paris créée en 2006, une à Toulouse en 2012 et une à Meyzieu en 2015) permettent à l'administration pénitentiaire d'être autonome et de pouvoir mobiliser très rapidement des moyens en vue d'effectuer des recherches de matières dangereuses (explosifs, armement, stupéfiants). Leur action depuis 2006 est reconnue tant à l'interne que par leurs partenaires extérieurs. Il arrive parfois que l'administration pénitentiaire soit sollicitée par l'autorité administrative ou par l'autorité judiciaire, afin de venir en soutien à la gendarmerie ou à la police nationale dans le cadre d'opérations à l'intérieur d'enceintes privées. Les unités cynotechniques alors engagées ne sont pas dotées d'armement, puisque ces dernières ne sont pas habilitées au port de ces matériels et que leur formation ne comporte pas de volet dédié au maniement de moyens intermédiaires de défense ou d'armes à feu. Par ailleurs, une note de l'administration pénitentiaire, en date du 22 octobre 2015, est venue préciser les conditions de réalisation de ces missions de recherche en dehors des établissements pénitentiaires. Cette note prévoit, notamment, la possibilité pour le responsable de chaque unité cynotechnique de doter ses personnels en gilets pare-balles dans l'hypothèse où l'environnement immédiat de la zone d'intervention et/ou les éléments d'information recueillis en amont auprès des services solliciteurs pourraient le justifier. En complément de cette protection balistique, la sécurité des personnels pénitentiaires est assurée par la gendarmerie ou la police nationale, responsables du commandement et de l'encadrement de l'opération.
