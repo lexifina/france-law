@@ -44,4 +44,4 @@ Fait à ....................................., le ..............................
 
 (b) D'après les documents communiqués : état civil, domicile, lieu de l'activité professionnelle de la personne physique ; dénomination, forme juridique, siège de la personne morale, ainsi que l'état civil, le domicile et la qualité du ou des représentants légaux ou statutaires ; s'il s'agit d'un versement complémentaire : indications du numéro de la carte professionnelle et de la préfecture qui l'a délivrée.
 
-(c) Activité garantie : Transactions sur immeubles et fonds de commerce ou Gestion immobilière.
+(c) Activité garantie : Transactions sur immeubles et fonds de commerce, gestion immobilière ou syndic de copropriété.

@@ -30,10 +30,10 @@ au titre de l'activité de (c) .................................................
 
 Fait à ............................................., le ..................................
 
-(a) Indication de la dénomination et du siège de la banque, de l'établissement financier habilité à donner caution ou de la société de caution mutuelle.
+(a) Indication de la dénomination et du siège de l'établissement de crédit, de la société de financement ou de l'entreprise d'assurance.
 
 (b) D'après les documents communiqués : état civil, domicile, lieu de l'activité professionnelle de la personne physique ; dénomination, forme juridique, siège de la personne morale, ainsi que : état civil, domicile et qualité de son ou de ses représentants légaux ou statutaires.
 
-(c) Activité garantie : Transactions sur immeubles et fonds de commerce ou Gestion immobilière.
+(c) Activité garantie : Transactions sur immeubles et fonds de commerce, gestion immobilière ou syndic de copropriété.
 
 (d) Préciser la date retenue à la convention : exemple date de la délivrance de la carte professionnelle.
