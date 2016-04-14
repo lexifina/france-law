@@ -1,63 +1,33 @@
 # Article Annexe IV
 
-BRIGADES DE POLICE AÉRONAUTIQUE
+BRIGADES MOBILES DE RECHERCHE AYANT COMPÉTENCE DANS LE RESSORT TERRITORIAL
 
-SERVICE DÉCONCENTRÉ
+DE LA DID DE LA POLICE AUX FRONTIÈRES DU MESNIL-AMELOT
 
-de rattachement
-
-|
-
-DÉPARTEMENT D'IMPLANTATION
-
-de la brigade de police aéronautique
+SERVICE DÉCONCENTRÉ DE RATTACHEMENT
 
 |
 
-Direction zonale de la police aux frontières du Nord
+LIEU D'IMPLANTATION DE LA BRIGADE MOBILE DE RECHERCHE
 
 |
 
-Nord (59)
+Direction interdépartementale de la police aux frontières du Mesnil-Amelot
 
 |
 
-Direction zonale de la police aux frontières du Sud
+Chessy (77)
 
 |
 
-Bouches-du-Rhône (13), Hérault (34)
+Cergy-Pontoise (95)
 
 |
 
-Direction zonale de la police aux frontières de l'Est
+Evry (91)
 
 |
 
-Côte-d'Or (21), Moselle (57)
-
-|
-
-Direction zonale de la police aux frontières de l'Ouest
-
-|
-
-Ille-et-Vilaine (35), Indre-et-Loire (37)
-
-|
-
-Direction zonale de la police aux frontières du Sud-Est
-
-|
-
-Rhône (69)
-
-|
-
-Direction zonale de la police aux frontières du Sud-Ouest
-
-|
-
-Haute-Garonne (31), Gironde (33)
+Saint-Cyr l'Ecole (78)
 
 |
