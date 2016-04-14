@@ -1,0 +1,9 @@
+# Réponse à la question SEQ160320621
+
+- Question : [SEQ160320621](seq160320621.md) — Modernisation du parc actuel des centrales nucléaires
+
+## Réponse
+
+*Environnement, énergie et mer, JO du 2016-04-14, page 1594*
+
+Pour répondre aux défis climatiques et énergétiques majeurs auxquels la France devra faire face dans les décennies à venir, le président de la République a décidé d'engager la transition énergétique. Cette transition repose d'une part sur la sobriété et l'efficacité énergétique, d'autre part sur la diversification des sources de production et d'approvisionnement ainsi que sur le développement des énergies renouvelables. Ainsi, la loi n° 2015-992 du 17 août 2015 relative à la transition énergétique pour la croissance verte a prévu de réduire la part du nucléaire de 75 à 50 % dans la production d'électricité à l'horizon 2025. Ceci passera par des fermetures, des prolongations et des décisions de construire de nouveaux réacteurs nucléaires ainsi que par une politique déterminée de soutien aux énergies renouvelables. En ce qui concerne les énergies renouvelables, la ministre de l'environnement, de l'énergie et de la mer, chargée des relations internationales sur le climat, a annoncé en novembre 2015 des objectifs très ambitieux conduisant à multiplier par 2,5 ces énergies, hors hydroélectricité. Il sera nécessaire, sous réserve des autorisations de l'autorité de sûreté nucléaire, de prolonger au-delà de 40 ans la durée de vie de certains réacteurs nucléaires existants pour assurer la sécurité d'approvisionnement en électricité. Cette prolongation constituera une opportunité économique pour les consommateurs d'électricité puisque ces centrales seront amorties et pourront produire de l'électricité avec des investissements inférieurs à ceux nécessaires pour de nouvelles installations de production d'électricité.
