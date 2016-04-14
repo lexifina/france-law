@@ -18,183 +18,11 @@ Directions départementales
 
 |
 
-Ain
-
-|
-
-Saint-Genis-Pouilly
-
-|
-
-|
-
-Corse-du-Sud
-
-|
-
-Ajaccio
-
-|
-
-|
-
-Haute-Corse
-
-|
-
-Bastia
-
-|
-
-|
-
-Hautes-Alpes
-
-|
-
-Montgenèvre
-
-|
-
-|
-
 Alpes-Maritimes
 
 |
 
 Nice
-
-|
-
-|
-
-Aude
-
-|
-
-Port-la-Nouvelle
-
-|
-
-|
-
-Bouches-du-Rhône
-
-|
-
-Marseille
-
-|
-
-|
-
-Doubs
-
-|
-
-Pontarlier
-
-|
-
-|
-
-Gard
-
-|
-
-Nîmes
-
-|
-
-|
-
-Haute-Garonne
-
-|
-
-Blagnac
-
-|
-
-|
-
-Gironde
-
-|
-
-Bordeaux
-
-|
-
-|
-
-Hérault
-
-|
-
-Montpellier
-
-|
-
-|
-
-Ille-et-Vilaine
-
-|
-
-Rennes
-
-|
-
-|
-
-Loire-Atlantique
-
-|
-
-Bouguenais
-
-|
-
-|
-
-Manche
-
-|
-
-Cherbourg
-
-|
-
-|
-
-Meurthe-et-Moselle
-
-|
-
-Mont-Saint-Martin
-
-|
-
-|
-
-Moselle
-
-|
-
-Metz
-
-|
-
-|
-
-Nord
-
-|
-
-Lille
-
-|
 
 |
 
@@ -206,155 +34,11 @@ Beauvais
 
 |
 
-|
-
-Pas-de-Calais
-
-|
-
-Coquelles
-
-|
-
-|
-
-Puy-de-Dôme
-
-|
-
-Aulnat
-
-|
-
-|
-
-Pyrénées-Atlantiques
-
-|
-
-Hendaye
-
-|
-
-|
-
-Pyrénées-Orientales
-
-|
-
-Perpignan
-
-|
-
-|
-
-Bas-Rhin
-
-|
-
-Aéroport de Strasbourg-Entzheim
-
-|
-
-|
-
-Haut-Rhin
-
-|
-
-Saint-Louis
-
-|
-
-|
-
-Rhône
-
-|
-
-Lyon
-
-|
-
-|
-
 Savoie
 
 |
 
 Chambéry
-
-|
-
-|
-
-Haute-Savoie
-
-|
-
-Gaillard
-
-|
-
-|
-
-Seine-Maritime
-
-|
-
-Le Havre
-
-|
-
-|
-
-Seine-et-Marne
-
-|
-
-Le Mesnil-Amelot
-
-|
-
-|
-
-Yvelines
-
-|
-
-Saint-Cyr-l'Ecole
-
-|
-
-|
-
-Var
-
-|
-
-Toulon
-
-|
-
-|
-
-Essonne
-
-|
-
-Evry
-
-|
-
-|
-
-Val-d'Oise
-
-|
-
-Cergy-Pontoise
-
-|
 
 |
 
@@ -366,15 +50,11 @@ Les Abymes
 
 |
 
-|
-
 Martinique
 
 |
 
 Le Lamentin
-
-|
 
 |
 
@@ -386,15 +66,11 @@ Matoury
 
 |
 
-|
-
 La Réunion
 
 |
 
 Saint-Denis
-
-|
 
 |
 
@@ -410,16 +86,6 @@ Directions
 
 |
 
-Saint-Pierre-et-Miquelon
-
-|
-
-Saint-Pierre
-
-|
-
-|
-
 Polynésie française
 
 |
@@ -428,9 +94,9 @@ Faa'a
 
 |
 
-|
+Nouvelle-Calédonie,
 
-Nouvelle-Calédonie, Wallis-et-Futuna
+Wallis-et-Futuna
 
 |
 
