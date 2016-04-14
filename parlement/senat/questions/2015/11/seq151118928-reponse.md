@@ -1,0 +1,9 @@
+# Réponse à la question SEQ151118928
+
+- Question : [SEQ151118928](seq151118928.md) — Recensement des populations
+
+## Réponse
+
+*Économie, industrie et numérique, JO du 2016-04-14, page 1590*
+
+Le recensement par internet a été généralisé en 2015, dans toutes les communes recensées quelle que soit leur taille. Le protocole de collecte est le suivant : un agent recenseur (agent de la commune) rencontre chacun des ménages à recenser. Il lui explique en quoi consiste le recensement de la population et son intérêt, à la fois pour calculer la population de la commune et pour connaître ses caractéristiques afin que les acteurs publics puissent mettre en place les services et équipements adaptés aux besoins de la population. Il propose ensuite au ménage de répondre par internet si ce dernier est familier de l'utilisation d'internet. Si le ménage accepte de répondre par internet, l'agent recenseur lui remet une notice d'information sur le recensement et les identifiants de connexion. Ainsi, même en cas de réponse par internet, l'agent recenseur entre en contact avec le ménage à recenser lors d'une première visite. Par ailleurs, si le ménage répond par internet, l'agent recenseur n'a pas à revenir visiter le ménage pour récupérer les bulletins, comme c'est le cas pour une réponse sur questionnaire papier. Un contrôle d'exhaustivité de la collecte est ensuite opéré par l'institut national de la statistique et des études économiques (INSEE) conformément à l'article 39 du décret n° 2003-485 du 5 juin 2003 relatif au recensement de la population. Comme prévu par ce décret, ce contrôle est opéré à l'aide des informations transmises par l'administration fiscale et figurant dans le fichier de la taxe d'habitation et, si nécessaire, au moyen d'enquêtes portant sur les logements où un défaut d'exhaustivité aurait été constaté. Ces contrôles permettent d'assurer l'exhaustivité de la collecte dans les communes recensées.
