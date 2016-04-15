@@ -1,0 +1,13 @@
+# Article 1er
+
+L'article 3 est modifié comme suit :
+
+« Article 3
+
+Salariés concernés
+
+Le régime de complémentaire santé bénéficie à l'ensemble des salariés titulaires d'un contrat de travail (CDI et CDD) ou d'un contrat d'apprentissage.
+
+Les garanties prévues au présent accord sont suspendues de plein droit dans les cas où le contrat de travail est suspendu, quelle qu'en soit la cause.
+
+Cependant, par dérogation, le bénéfice des garanties est maintenu durant les périodes de suspension du contrat de travail dès lors que le salarié bénéficie d'un maintien de salaire, total ou partiel, ou du versement d'indemnités journalières par la sécurité sociale ou du versement d'indemnités journalières complémentaires financées au moins pour partie par l'employeur ou pour son compte par l'intermédiaire d'un tiers, notamment en cas de maladie, maternité ou accident. »
