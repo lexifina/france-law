@@ -4,39 +4,19 @@ NOM DU PORT
 
 |
 
-CODE
-
-postal
+CODE POSTAL
 
 |
 
-JOURS ET HEURES
-
-obligatoires pour
-
-le débarquement/
-
-transbordement
-
-(heure locale)
+JOURS ET HEURES obligatoires pour le débarquement/ transbordement (heure locale)
 
 |
 
-DÉLAI DE NOTIFICATION
-
-préalable de
-
-débarquement
-
-(si différent de 4 heures)
+DÉLAI DE NOTIFICATION préalable de débarquement (si différent de 4 heures)
 
 |
 
-RESTRICTIONS
-
-supplémentaires
-
-au débarquement (*)
+RESTRICTIONS supplémentaires au débarquement (*)
 
 |
 
@@ -96,7 +76,7 @@ ROSCOFF
 
 |
 
-Tous les jours de 6 h à 22 h
+Tous les jours de 6 heures à 22 heures
 
 |
 
@@ -114,7 +94,7 @@ BREST
 
 |
 
-Tous les jours de 6 h à 22 h
+Tous les jours de 6 heures à 22 heures
 
 |
 
@@ -140,7 +120,7 @@ DOUARNENEZ
 
 |
 
-SAINT-GUENOLE
+SAINT-GUÉNOLÉ
 
 |
 
@@ -212,9 +192,7 @@ LORIENT
 
 |
 
-Tous les jours de 0 h à 5 h
-
-et de 8 h à minuit
+Tous les jours de 0 heure à 5 heures et de 8 heures à minuit
 
 |
 
@@ -306,7 +284,43 @@ SAINT-NAZAIRE
 
 |
 
-L'HERBAUDIERE
+L'AIGUILLON-SUR-MER
+
+|
+
+85460
+
+|
+
+|
+
+2 heures
+
+|
+
+Seuls les débarquements inférieurs à 150 kilogrammes effectués par des navires d'une longueur inférieure à 12 mètres sont autorisés dans ce port.
+
+|
+
+BEAUVOIR
+
+|
+
+85230
+
+|
+
+|
+
+2 heures
+
+|
+
+Seuls les débarquements inférieurs à 150 kilogrammes effectués par des navires d'une longueur inférieure à 12 mètres sont autorisés dans ce port. Les lieux de débarquement autorisés sont l'Epoids et le port du Bec.
+
+|
+
+L'HERBAUDIÈRE
 
 |
 
@@ -370,22 +384,6 @@ LES SABLES-D'OLONNE
 
 |
 
-L'AIGUILLON-SUR-MER
-
-|
-
-85460
-
-|
-
-|
-
-2 heures
-
-|
-
-|
-
 LA ROCHELLE
 
 |
@@ -402,7 +400,7 @@ LA ROCHELLE
 
 |
 
-LA COTINIERE
+LA COTINIÈRE
 
 |
 
@@ -498,7 +496,7 @@ ARCACHON
 
 |
 
-CAP-BRETON
+CAPBRETON
 
 |
 
@@ -535,22 +533,6 @@ SAINT-JEAN-DE-LUZ
 |
 
 64500
-
-|
-
-|
-
-2 heures
-
-|
-
-|
-
-HENDAYE
-
-|
-
-64700
 
 |
 
