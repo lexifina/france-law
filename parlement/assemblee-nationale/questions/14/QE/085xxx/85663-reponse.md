@@ -1,0 +1,9 @@
+# Réponse à la question n° 85663
+
+- Question : [85663](85663.md) — Question n° 85663 — pièces de rechange; concurrence; développement
+
+## Réponse
+
+*JO du 2016-04-19*
+
+Le coût de l'entretien des véhicules a bien été identifié. Le marché des pièces de rechange visibles représente moins de 20 % du marché global de la distribution de pièces détachées automobile. De plus, la limitation de nos déchets ainsi que les atteintes des taux de recyclage et valorisation imposés par la Commission européenne pour les véhicules hors d'usage constituent également des axes de travail prioritaires. La loi no 2015-992 du 17 août 2015 relative à la transition énergétique pour la croissance verte et, plus précisément son article 77 permet d'apporter une réponse pour progresser sur ces trois thèmes. Le livre 1er du code de la consommation est modifié avec l'insertion d'un nouvel article L. 121-117 dont les dispositions sont applicables à compter du 1er janvier 2016 et qui impose que tout professionnel qui commercialise des prestations d'entretien ou de réparation de véhicules automobiles devra permettre aux consommateurs d'opter pour l'utilisation, pour certaines catégories de pièces de rechange, de pièces issues de l'économie circulaire à la place de pièces neuves. Ces dispositions permettent de réduire le budget nécessaire aux ménages pour assurer l'entretien de leur véhicule, mais permet aussi de prolonger la durée de vie de certains véhicules non économiquement réparables avec des pièces neuves. Ces pièces participent à la sécurité du véhicule et un important travail a été nécessaire en amont pour permettre d'assurer toutes les conditions de fiabilité, garantie et traçabilité. Les nouvelles dispositions contribuent à la préservation du pouvoir d'achat ainsi qu'à l'aide à la mobilité des personnes au revenu modeste tout en garantissant leur sécurité.
