@@ -1,0 +1,9 @@
+# Réponse à la question n° 52095
+
+- Question : [52095](52095.md) — Question n° 52095 — développement; région Nord-Pas-de-Calais
+
+## Réponse
+
+*JO du 2016-04-19*
+
+La programmation pluriannuelle des investissements de production d'électricité, élaborée en 2009, fixait des objectifs ambitieux de développement des énergies renouvelables électriques, pour contribuer à l'atteinte d'une proportion de 23 % de la consommation d'énergie produite à partir d'énergies renouvelables en 2020. Cette programmation établissait pour chaque filière d'énergies renouvelables des objectifs chiffrés à atteindre d'ici 2020. Pour la filière solaire, un objectif de 5 400 MW de puissance installée d'ici 2020 avait été fixé. Grace à un développement rapide de cette filière, dû notamment à la baisse plus rapide que prévue des coûts sur les années 2009-2015, cet objectif a été atteint par anticipation. La loi no 2015-992 du 17 août 2015 sur la transition énergétique pour la croissance verte prévoit d'accélérer le développement des énergies renouvelables pour atteindre 40 % de la production d'électricité renouvelable en 2030. À ce titre, l'arrêté du 28 août 2015 modifiant l'arrêté du 15 décembre 2009 relatif à la programmation pluriannuelle des investissements de production d'électricité a relevé l'objectif à 8 000 MW de puissance solaire totale installée au 31 décembre 2020. En cohérence avec cette dynamique d'accélération du déploiement de capacités solaires, le Gouvernement a augmenté le volume des deux appels d'offres pour les installations photovoltaïques lancés en 2015 et sélectionné près de 1 200 MW de projet. Plusieurs mesures de simplification ont également été engagées (dispense d'autorisation d'exploiter, suppression du certificat ouvrant droit à l'obligation d'achat, cadencement et accélération des appels d'offre).
