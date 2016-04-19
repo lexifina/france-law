@@ -1,0 +1,9 @@
+# Réponse à la question n° 81566
+
+- Question : [81566](81566.md) — Question n° 81566 — ordre des sages-femmes; cotisations; réglementation
+
+## Réponse
+
+*JO du 2016-04-19*
+
+L'avantage fiscal accordé au titre des cotisations syndicales vise à favoriser le développement de la représentativité des syndicats de salariés, qui est un enjeu important pour la démocratie sociale et le dialogue social. Ainsi c'est pour favoriser l'adhésion des salariés aux revenus les plus modestes que cet avantage a été transformé en crédit d'impôt. Cet avantage incitatif n'a pas vocation à s'appliquer à des cotisations qui sont versées à titre obligatoire à des organisations professionnelles, y compris par les travailleurs indépendants, et qui est d'ores et déjà admis en déduction du revenu imposable. A cet égard, les cotisations ordinales versées à titre obligatoire par les sages-femmes libérales ou salariées, qui sont appelées par leur ordre professionnel en vertu des dispositions de l'article L. 4122-2 du code de la santé publique, constituent par nature des frais professionnels déductibles. Deux situations peuvent être distinguées. Si les sages-femmes sont salariées, conformément aux dispositions du 3° de l'article 83 du code général des impôts, leurs cotisations sont déductibles du montant imposable de leur rémunération, soit sous couvert de la déduction forfaitaire de 10 %, soit sur option, pour leur montant réel et justifié. Ces deux modes de déduction sont, au titre de la même année, exclusifs l'un de l'autre. Si elles exercent de manière libérale, conformément aux dispositions du 1 de l'article 93 du code général des impôts, ces cotisations sont déductibles du montant imposable de leurs recettes. La déduction des cotisations ordinales sont donc, dans tous les cas, déjà assurée au niveau de la détermination des revenus catégoriels concernés.
