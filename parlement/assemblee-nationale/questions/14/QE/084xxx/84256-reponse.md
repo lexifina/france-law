@@ -1,0 +1,9 @@
+# Réponse à la question n° 84256
+
+- Question : [84256](84256.md) — Question n° 84256 — piratage informatique; lutte et prévention
+
+## Réponse
+
+*JO du 2016-04-19*
+
+Face à des attaquants toujours plus inventifs, la protection contre les attaques informatiques doit être une préoccupation de l'ensemble des acteurs et, en particulier des acteurs économiques. Il est important que les entreprises puissent être sensibilisées au plus haut niveau aux risques associés à traiter de manière trop superficielle la sécurité de leurs infrastructures numériques. C'est l'un des objectifs du plan « cybersécurité » de la nouvelle France industrielle dont le pilotage a été confié à M. Guillaume Poupard, directeur général de l'agence nationale de la sécurité des systèmes d'information et, désormais intégré à la solution « confiance numérique ». Plusieurs actions conduites dans ce cadre visent également à faciliter la disponibilité d'une offre de produits et de services de sécurité de qualité, adaptée aux enjeux et accessible à l'ensemble des acteurs. Bien des entreprises sont aujourd'hui démunies lorsqu'elles constatent avoir été victimes d'attaque informatique ne disposant souvent pas des moyens humains ou des compétences pointues nécessaires à la mise en œuvre de mesures de remédiation. C'est pourquoi, suite à un travail interministériel mis en place dans le cadre du processus d'actualisation de la stratégie nationale de cybersécurité, la stratégie numérique du Gouvernement présentée par le Premier ministre le 18 juin 2015 identifie parmi ces actions prioritaires le « lancement d'un dispositif d'assistance aux victimes d'actes de cybermalveillance sur tout le territoire, notamment les particuliers, les collectivités territoriales et les entreprises de toutes tailles ». L'objectif est de pouvoir, par ce dispositif, mettre en relation les victimes d'attaques informatiques et les acteurs, notamment économiques, aptes à les aider.
