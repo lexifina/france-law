@@ -1,0 +1,9 @@
+# Réponse à la question n° 39592
+
+- Question : [39592](39592.md) — Question n° 39592 — compte épargne pénibilité; retraite
+
+## Réponse
+
+*JO du 2016-04-19*
+
+L'article 10 de la loi no 2014-40 du 20 janvier 2014 garantissant l'avenir et la justice du système de retraites a créé un compte personnel de prévention de la pénibilité ouvert à tout salarié du secteur privé exposé à des conditions de travail réduisant son espérance de vie. Ce compte permet d'acquérir des points dès lors que le salarié est exposé à un ou plusieurs facteurs de risque au-delà de seuils définis par décret. Les points accumulés sur le compte peuvent être utilisés par le salarié pour financer une formation permettant d'exercer un emploi moins pénible, financer une réduction du temps de travail ou valider des trimestres de retraite (majoration de durée d'assurance vieillesse). Ce dispositif ne concerne pas les fonctionnaires qui bénéficient par ailleurs du dispositif de la catégorie active leur permettant de prendre en compte la pénibilité. Celui-ci permet en effet aux fonctionnaires, dont les emplois présentent un risque particulier ou des fatigues exceptionnelles, de partir de manière anticipée en retraite cinq ans avant l'âge légal, soit à compter de 55 ans pour les générations nées avant le 1er juillet 1956, cet âge augmentant progressivement pour atteindre 57 ans pour les générations nées à compter du 1er janvier 1960. Les policiers municipaux bénéficient dans leur grande majorité de ce dispositif. Ainsi, en 2012, 82 % d'entre eux ont pu partir en retraite anticipée au titre de la catégorie active. Ces agents ne justifiant pas de la durée d'assurance requise pour le bénéfice du taux plein peuvent par ailleurs liquider leur pension sans application d'une décote dès 62 ans (au terme du relèvement prévu par la réforme de 2010), contre 67 ans pour les fonctionnaires sédentaires.
