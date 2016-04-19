@@ -1,0 +1,9 @@
+# Réponse à la question n° 84178
+
+- Question : [84178](84178.md) — Question n° 84178 — télérelève; compteurs; perspectives
+
+## Réponse
+
+*JO du 2016-04-19*
+
+La technologie des compteurs Linky CPL permet de transmettre des informations numériques (internet, données, audio, vidéo, etc…) par modulation du courant présent sur le réseau électrique existant. Les niveaux de rayonnement des compteurs électriques restent très faibles en comparaison avec un téléphone mobile par exemple ; en France, la technologie CPL émet quelques dizaines de microWatts/m2 à 1 mètre de la source. Leur conception évolue d'ailleurs vers des niveaux encore plus réduits pour des raisons de normes de compatibilité électromagnétique. Dans son rapport « Radiofréquences et santé » publié en 2013, l'Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail (ANSES) identifie déjà cette technologie et révèle les très faibles niveaux rayonnés. Afin d'améliorer les connaissances sur la technologie des compteurs intelligents en situation réelle, et de répondre aux questions posées par les associations et les parlementaires, l'ANSES a été saisie par la ministre des affaires sociales et de la santé en septembre 2015. Le déroulé de l'expertise tel que prévu par l'agence, nécessitant notamment l'acquisition des données techniques des différents compteurs communicants en situation réelle, amène à une transmission de l'avis de l'ANSES pour juillet 2016. En effet, les premiers déploiements ont été réalisés fin 2015 par ERDF et les données seront collectées au premier semestre de cette année. Enfin, il n'existe pas encore de réglementation précise quant aux rayonnements des dispositifs mettant en œuvre les équipements et les réseaux CPL. Des travaux normatifs sont en cours mais les résultats n'ont pas encore été publiés.
