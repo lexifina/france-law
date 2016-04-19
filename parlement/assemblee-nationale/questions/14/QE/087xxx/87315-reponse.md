@@ -1,0 +1,9 @@
+# Réponse à la question n° 87315
+
+- Question : [87315](87315.md) — Question n° 87315 — rapport; propositions
+
+## Réponse
+
+*JO du 2016-04-19*
+
+Dans son rapport intitulé « Big data et objets connectés : faire de la France un champion de la révolution numérique », l'institut Montaigne propose en effet d'identifier et de porter au niveau européen un « socle de confiance » pour toutes les application programming interfaces (API), au-delà des seules conditions particulières négociées de tiers à tiers. Il ajoute que « défendues par l'Union européenne, ces clauses juridiques à portée internationale s'imposeraient aux clauses particulières et auraient pour objectif, d'une part, de limiter l'asymétrie des échanges et interdire une utilisation des données sans que le fournisseur initial ne s'en rende compte et, d'autre part, de jouer un rôle de filtre et, dans le temps, de « corde de rappel », en cas de contestation ou afin de permettre une certaine réversibilité ». Les questions de loyauté des plateformes et de renforcement du cadre de la protection des données personnelles sont l'une des dimensions de l'action nationale et européenne du Gouvernement en matière numérique. Le projet de loi numérique qui a été soumis à consultation publique est destiné à garantir une plus grande transparence et une plus grande équité. Seront notamment visées l'information des consommateurs et la portabilité des données. Au niveau européen, la France a obtenu l'inscription de la thématique de la loyauté des plateformes de service numérique dans la stratégie numérique européenne (Digital Single Market). Le projet de règlement général européen relatif à la protection des données, prévoit un renforcement du cadre européen global de protection des données personnelles et aussi un droit des utilisateurs à la portabilité de leurs données.
