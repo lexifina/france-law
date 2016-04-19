@@ -1,0 +1,9 @@
+# Réponse à la question n° 72190
+
+- Question : [72190](72190.md) — Question n° 72190 — professions réglementées; réforme
+
+## Réponse
+
+*JO du 2016-04-19*
+
+La loi pour la croissance, l'activité et l'égalité des chances économiques, promulguée le 6 août 2015, prend en compte les spécificités des missions assurées par les professions réglementées et garantit le maintien de la qualité de leurs prestations, tout en leur offrant l'opportunité de se moderniser : installation facilitée, en particulier pour les jeunes professionnels ; ouverture du capital entre professionnels du droit et du chiffre pour encourager l'investissement et accroître les capacités de financement, tout en assurant le respect des règles déontologiques, et encourager l'interprofessionnalité ; enfin, mise en place d'un principe général pour la détermination des tarifs réglementés permettant de traiter équitablement les différentes professions du droit en augmentant la transparence du tarif tout en assurant une juste rémunération aux professionnels. Cette loi doit ainsi permettre à la fois de moderniser et de développer ce secteur.
