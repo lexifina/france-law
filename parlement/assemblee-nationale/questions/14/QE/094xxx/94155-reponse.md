@@ -1,0 +1,9 @@
+# Réponse à la question n° 94155
+
+- Question : [94155](94155.md) — Question n° 94155 — contraintes administratives; simplification
+
+## Réponse
+
+*JO du 2016-04-19*
+
+La simplification des normes est une priorité pour les agriculteurs confrontés à l'application de nombreuses règles sectorielles qui se cumulent. Le Premier ministre a annoncé le 3 septembre 2015 qu'une nouvelle méthode serait élaborée afin d'associer les professionnels agricoles très en amont de la définition des mesures. Cette nouvelle méthode a pour objectif de simplifier les règles qui s'appliquent aux exploitants. Elle devra assurer la cohérence des différentes réglementations et mesurer le respect de l'équivalence des charges qui pèsent sur les agriculteurs français et leurs principaux concurrents européens. Pour répondre à cette préoccupation, le Premier ministre a confié par courrier du 4 mars 2016 à M. Pierre-Etienne Bisch, préfet - conseiller d'État en service extraordinaire, la présidence d'un comité qui associe les organisations syndicales représentatives agricoles, les directions des cabinets des ministères concernés, des représentants de l'association des régions de France, des chambres d'agriculture, des coopératives agricoles et des instituts techniques. Ce comité s'est réuni pour la première fois le 23 mars 2016. Il examinera également les propositions de simplification de la réglementation en vigueur proposées par une mission qui va être confiée à un parlementaire, un directeur régional de l'alimentation, de l'agriculture et de la forêt et un directeur régional de l'environnement, de l'aménagement et du logement, ainsi qu'un représentant des chambres d'agriculture. Cette nouvelle méthode permettra de faire évoluer régulièrement la législation française en accord avec les textes européens tout en prenant en compte la légitime demande professionnelle de simplification, de sécurité juridique et d'absence de distorsion avec les agriculteurs des pays voisins.
