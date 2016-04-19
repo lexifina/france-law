@@ -1,0 +1,9 @@
+# Réponse à la question n° 82002
+
+- Question : [82002](82002.md) — Question n° 82002 — réglementation
+
+## Réponse
+
+*JO du 2016-04-19*
+
+L'article 38 de la loi no 2007-290 du 5 mars 2007, instituant le droit au logement opposable et portant diverses mesures en faveur de la cohésion sociale, a créé une procédure administrative d'expulsion en cas d'introduction et de maintien dans le domicile d'autrui à l'aide de manoeuvres, menaces, voies de fait ou de contrainte. Dans un tel cas, le propriétaire ou le locataire du logement occupé peut demander au préfet de mettre en demeure l'occupant de quitter les lieux, après avoir déposé plainte, fait la preuve que le logement constitue son domicile et fait constater l'occupation illicite pas un officier de police judiciaire. Lorsque la mise en demeure de quitter les lieux n'a pas été suivie d'effet dans le délai fixé par le préfet, ce dernier doit procéder à l'évacuation forcée du logement, sauf opposition du propriétaire ou du locataire. Aucune disposition n'interdit au préfet d'engager cette procédure plus de quarante-huit heures après l'entrée dans les lieux. En outre, la loi no 2015-714 du 24 juin 2015, tendant à préciser l'infraction de violation de domicile, est de nature à faciliter le dépôt de plainte et le constat, par un officier de police judiciaire, de l'occupation illicite. Cette loi a en effet modifié l'article 226-4 du code pénal pour consacrer le caractère continu de ce délit. En cas d'introduction dans le domicile d'autrui à l'aide de manoeuvres, menaces, voies de fait ou contrainte, une enquête de flagrance pourra être ouverte aussi longtemps que les occupants se maintiennent dans les lieux. Les services de police judiciaire pourront ainsi intervenir à tout moment avec les pouvoirs renforcés propres à la flagrance. La protection des propriétaires de logements contre les occupations illicites s'en trouve ainsi accrue.
