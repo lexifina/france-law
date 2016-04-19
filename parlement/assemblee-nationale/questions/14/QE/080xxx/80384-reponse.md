@@ -1,0 +1,9 @@
+# Réponse à la question n° 80384
+
+- Question : [80384](80384.md) — Question n° 80384 — prix; évolution
+
+## Réponse
+
+*JO du 2016-04-19*
+
+Le Gouvernement est très vigilant à la juste répercussion des évolutions des prix de gros des carburants au niveau des prix de détail. Le suivi réalisé montre que les prix au détail des carburants sur le marché français ont correctement répercuté la baisse des prix de gros. Ainsi, on observe que les prix de détail hebdomadaires du gazole et du sp95 ont connu un recul, de l'ordre de 10 centimes d'euro par litre et de 11 centimes d'euro par litre, depuis la fin du mois de juin 2014, ce qui correspond sensiblement à la baisse en euro des prix de gros du gazole et de l'eurosuper sur la même période. La marge brute de raffinage sur Brent est un indicateur théorique qui correspond à la différence entre la valorisation d'un panier de produits raffinés (issus de la production d'une raffinerie type) sur le marché de Rotterdam et le cours du Brent. Cette marge diffère de la marge réelle réalisée par une raffinerie qui est fonction du type de l'installation, de ses coûts opérationnels et de la valorisation de sa production. Elle connaît de fortes fluctuations annuelles, mensuelles et peut parfois être négative sur une base quotidienne. Elle varie couramment entre 10 et 50 euros par tonne en moyenne. Toute amélioration de la situation reste, en état de cause, très fragile au regard des difficultés structurelles qui affectent le raffinage européen : surcapacités de production, en dépit des adaptations industrielles déjà réalisées, du fait de la baisse de la demande de produits pétroliers, déséquilibre du mix de consommation entre le gazole et l'essence, couplé à une inadaptation de l'outil industriel pour certaines installations, concurrence accrue des raffineries d'Asie et du Moyen-Orient mais aussi des Etats-Unis.
