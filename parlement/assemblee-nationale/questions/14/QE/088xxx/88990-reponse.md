@@ -1,0 +1,9 @@
+# Réponse à la question n° 88990
+
+- Question : [88990](88990.md) — Question n° 88990 — développement
+
+## Réponse
+
+*JO du 2016-04-19*
+
+Les statuts des collectivités territoriales concernées ne permettent pas, à l'heure actuelle, d‘envisager la possibilité de leur adhésion à l'Organisation internationale de la Francophonie (OIF). Les collectivités de Nouvelle-Calédonie et Polynésie française disposent, dans le cadre de leur autonomie, de gouvernements spécifiques leur permettant de conduire des actions en propre. L'article 38 alinéa 1 de la loi organique no 2004-192 du 27 février 2001 portant statut d'autonomie de la Polynésie française, ainsi que l'article 28 alinéa 1 de la loi organique no 99-209 du 19 mars 1999 relative à la Nouvelle-Calédonie, qui ont élargi leurs compétences, leur offrent notamment la possibilité d'accéder en qualité de membres associés ou d'observateurs à certaines organisations régionales. Il s'avère que l'Organisation internationale de la Francophonie, qui regroupe sur l'ensemble des cinq continents 80 Etats (54 Etats et gouvernements membres de plein droit, 3 Etats membres associés, et 23 Etats observateurs), ne peut être qualifiée juridiquement d'organisation régionale. Il s'agit d'une organisation internationale multilatérale à vocation universelle. Si ces deux collectivités territoriales françaises d'outre-mer n'ont pas vocation à rejoindre l'OIF en tant que telles, leurs gouvernements respectifs ont toutefois su démontrer par leurs initiatives leur attachement fort à la promotion de la Francophonie dans la région Pacifique. Elles ne peuvent qu'être encouragées à se rapprocher encore davantage des instances et des opérateurs de la Francophonie. Les services du ministère des Affaires étrangères et du Développement international, et en premier lieu la Délégation aux Affaires francophones, se tiennent naturellement disposés à les soutenir dans leurs démarches.
