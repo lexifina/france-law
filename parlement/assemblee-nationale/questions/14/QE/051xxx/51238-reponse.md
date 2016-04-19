@@ -1,0 +1,9 @@
+# Réponse à la question n° 51238
+
+- Question : [51238](51238.md) — Question n° 51238 — EHPAD; extension; réglementation
+
+## Réponse
+
+*JO du 2016-04-19*
+
+L'article 52 de la loi no 2015-1776 du 28 décembre 2015 relative à l'adaptation de la société au vieillissement créée dans l'allocation personnalisée d'autonomie, un module dédié "droit au répit". Il permettra de solvabiliser une solution temporaire pour que l'aidant puisse prendre du répit, lorsque le plafond d'aide n'y suffit pas. Ce nouveau module est complémentaire de la revalorisation des plafonds des plans d'aide, qui permettra de dégager des marges de financement pour faciliter l'accès aux structures de répit. Il pourra s'agir de financer des séjours de quelques jours en hébergement temporaire mais aussi des heures supplémentaires d'aide à domicile, voire une présence continue, mais également un accueil de jour. Les séjours en hébergement temporaire se déroulent dans des établissements d'hébergement de personnes âgées dépendantes (EHPAD) sur des places dédiées à des séjours de courte durée. Environ 8 600 places au sein des EHPAD sont identifiées pour ces séjours temporaires. Ces places qui représentent 1,5 % de la capacité des EHPAD restent toutefois sous utilisées. En effet le ratio d'exploitation est de 56 %. Une meilleure solvabilisation des séjours prévus par ce projet d'aide au répit devrait conduire à ce que les EHPAD reçoivent plus d'usagers sur ces places dédiées aux séjours temporaires. La capacité actuelle dédiée aux courts séjours doit également augmenter, permettant ainsi de répondre aux nouvelles demandes sollicitées à la suite de la mise en œuvre du module "droit au répit". Les créations de places entrent dans le cadre du déploiement prévu par le plan Solidarité grand âge 2007-2012 qui va se poursuivre jusqu'en 2016 compte tenu du temps requis pour les travaux.
