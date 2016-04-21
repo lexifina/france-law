@@ -1,29 +1,33 @@
 # Article 67 bis
 
-1. La prime annuelle de vacances est calculée en fonction du nombre d'heures de travail effectif réalisées par le salarié, sur une période de 12 mois comprise entre le 1er juin de l'année écoulée et le 31 mai de l'année en cours. Le taux de l'indemnité horaire est fixé en valeur absolue et suivra l'évolution suivante.
+La prime de vacances est calculée en fonction du nombre d'heures de travail effectif réalisées par le salarié, sur une période de 12 mois comprise entre le 1er juin et le 31 mai de l'année écoulée.
 
-Pour mémoire, il est rappelé, dans le paragraphe suivant, les modalités de calcul de la prime pour les années antérieures à l'application du présent avenant.
+Le taux de l'indemnité horaire est égal à :
 
-En 2009, le taux de l'indemnité horaire est égal à : (1 321,05/1 820 heures) × 44 %.
+valeur du salaire minima conventionnel, premier niveau premier échelon, au 31 mai de l'année en cours/1 820 heures
 
-En 2010, le taux de l'indemnité horaire est égal à : (valeur du salaire minimum conventionnel, 1er niveau, 1er échelon, au 31 mai de l'année en cours/1 820 heures) × 63 %.
+Le montant de la prime de vacances est égal au produit du taux ainsi obtenu avec le nombre d'heures de travail effectif réalisées par le salarié sur la période de référence précisée ci-dessus.
 
-En 2011, le taux de l'indemnité horaire est égal à : (valeur du salaire minimum conventionnel, 1er niveau, 1er échelon, au 31 mai de l'année en cours/1 820 heures) × 81 %.
+Pour satisfaire à l'obligation de versement du montant de la prime de vacances, il est pris en compte, durant la période de référence, le cumul de l'ensemble des primes et gratifications versées quelle que soit leur dénomination et présentant un caractère collectif, répétitif, consacré par un accord collectif, par l'usage ou un engagement unilatéral, à l'exception :
 
-En 2012 et pour les années suivantes, le taux de l'indemnité horaire est égal à : (valeur du salaire minimum conventionnel, 1er niveau, 1er échelon, au 31 mai de l'année en cours/1 820 heures) × 100 %.
+- des primes liées à l'activité de l'entreprise comme les primes de production, rendement ;
 
-2. Pour satisfaire à l'obligation de versement du montant conventionnel de la prime annuelle de vacances, il est pris en compte le cumul de l'ensemble des primes et gratifications (à l'exception des primes de production, rendement et de participation) versées durant l'année civile en cours et qui présentent un caractère collectif, répétitif, consacré par un accord collectif ou par l'usage.
-
-Dès lors que le total desdites primes atteint a minima les montants déterminés au paragraphe 1 ci-dessus, au titre de chaque année, les entreprises ne seront pas tenues de revaloriser le taux de l'indemnité horaire de la prime annuelle de vacances applicable antérieurement à l'entrée en vigueur du présent avenant.
+- des sommes versées au titre de l'intéressement et de la participation.
 
 Lesdites primes et gratifications conservent leur mode de calcul et leur périodicité de versement.
 
-Cette prime de vacances est payable par moitié avec la paie précédant la date du départ en congé principal du salarié et pour moitié avec la paie suivant le même congé, à condition que le salarié soit présent le jour de la reprise sauf cas exceptionnel ou autorisation d'absence préalablement accordée.
+Si le montant des primes et gratifications déjà versées par l'entreprise pendant la période de référence est inférieur au montant de la prime de vacances, celle-ci prendra la forme d'un complément pour garantir au salarié le montant défini par le présent accord.
 
-Des dérogations peuvent être apportées en ce qui concerne la date de paiement de la prime soit par accord individuel entre le salarié et le chef d'entreprise, soit par accord d'entreprise, soit selon l'usage en vigueur dans l'entreprise.
+Si le montant des primes et gratifications déjà versées par l'entreprise pendant la période de référence est égal ou supérieur au montant de la prime de vacances, l'obligation de versement est remplie et la prime de vacances n'a donc pas lieu d'être.
+
+Les entreprises qui, à la date de signature du présent accord, cumulent :
+
+- un 13e mois ou toute autre prime ayant un caractère collectif, répétitif, instaurée par l'usage, un engagement unilatéral, ou un accord d'entreprise ;
+
+- la prime de vacances de l'ancien article 67 bis (dans sa version issue de l'avenant n° 3 du 13 novembre 2012 avec taux horaire de 0,185 €),
+
+maintiennent l'avantage collectif acquis pour les salariés présents, au titre de cette prime de vacances.
+
+Si la prime de vacances est due, elle est payable en tout ou partie avant la fin du premier semestre de paie, et le solde avant la fin du second semestre de paie.
 
 L'ensemble des dispositions du présent accord est impératif. Il ne pourra y être dérogé par accord d'entreprise que dans un sens plus favorable aux salariés.
-
-(1) Etendu sous réserve que, pour l'attribution d'une prime destinée à récompenser une assiduité profitable à l'entreprise, toutes les absences, autorisées ou non, entraînent les mêmes conséquences, sous peine de constituer une mesure discriminatoire (notamment Cass. soc., 16 février 1994 n° 90-45. 916 et Cass. soc., 15 février 2006 n° 04-45. 738).
-
-(Arrêté du 7 juin 2013 - art. 1)
