@@ -1,0 +1,9 @@
+# Réponse à la question SEQ150616619
+
+- Question : [SEQ150616619](seq150616619.md) — Société nationale maritime Corse-Méditerranée et attitude de la Commission européenne
+
+## Réponse
+
+*Affaires européennes, JO du 2016-04-21, page 1671*
+
+Par décision en date des 2 mai et 20 novembre 2013, la Commission européenne a estimé que la société nationale maritime Corse-méditerranée (SNCM) avait reçu des aides illégales et incompatibles avec le marché intérieur, en application de l'article 107, paragraphe 1, du traité sur le fonctionnement de l'Union européenne qui prévoit que, « sauf dérogations prévues par le présent traité, sont incompatibles avec le marché intérieur, dans la mesure où elles affectent les échanges entre États membres, les aides accordées par les États ou au moyen de ressources d'État sous quelque forme que ce soit qui faussent ou qui menacent de fausser la concurrence en favorisant certaines entreprises ou certaines productions ». Le tribunal de l'Union européenne, saisi par le recours de la France en date du 12 juillet 2013, a jugé que la Commission avait commis une erreur manifeste d'appréciation, en approuvant par sa décision du 8 juillet 2008, la recapitalisation de la SNCM et, par celle du 2 mai 2013, le dispositif des aides à la convention de délégation de service public pour les liaisons maritimes Corse/Marseille en tant que mesure ne constituant pas une aide d'État. La Cour de justice de l'Union européenne a confirmé dans son arrêt du 4 septembre 2014, l'existence d'une erreur manifeste d'appréciation. Celle-ci n'ouvre pas pour autant droit à indemnisation, seul un préjudice causé par un manquement le permettant. Les autorités françaises travaillent activement avec les services de la Commission pour sécuriser l'élaboration du nouveau régime juridique encadrant la desserte maritime entre la Corse et le continent.
