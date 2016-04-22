@@ -38,17 +38,15 @@ Suppléants
 
 |
 
-CHSCT
-
-ministériel unique
+CHSCT ministériel unique
 
 |
 
-Ministre des finances et des comptes publics, ministre de l'économie, du redressement productif et du numérique, ministre de la décentralisation et de la fonction publique
+Ministre des finances et des comptes publics, ministre de l'économie, de l'industrie et du numérique, ministre de la fonction publique
 
 |
 
-Ensemble des directions et services des trois départements ministériels, à l'exception de la direction générale des collectivités locales
+Ensemble des directions et services des trois départements ministériels
 
 |
 
@@ -64,9 +62,7 @@ Comité technique ministériel unique
 
 |
 
-CHSCT unique
-
-d'administration centrale
+CHSCT unique d'administration centrale
 
 |
 
@@ -74,9 +70,7 @@ Secrétaire général des ministères économiques et financiers
 
 |
 
-Directions et services de l'administration centrale des trois départements minis tériels, à l'exception de la direction générale des collectivités locales ;
-
-Services centraux de la direction générale des finances publiques (hors agents rattachés au CHSCT de Charente-Maritime et de Loire Atlantique), de la direction des douanes et droits indirects, de l'INSEE (y compris centre national d'informatique de Paris et hors centre de Metz et hors centre de formation de l'INSEE-CEFIL) et de la direction générale de la concurrence, de la consommation et de la répression des fraudes (service à compétence nationale de l'Ecole nationale de la CCRF, service de l'informatique et service national des enquêtes inclus)
+Directions et services de l'administration centrale des trois départements minis tériels ; services centraux de la direction générale des finances publiques (hors agents rattachés au CHSCT de Charente-Maritime et de Loire Atlantique), de la direction des douanes et droits indirects, de l'INSEE (y compris centre national d'informatique de Paris et hors centre de Metz et hors centre de formation de l'INSEE-CEFIL) et de la direction générale de la concurrence, de la consommation et de la répression des fraudes (service à compétence nationale de l'Ecole nationale de la CCRF, service de l'infor matique et service national des enquêtes inclus)
 
 |
 
