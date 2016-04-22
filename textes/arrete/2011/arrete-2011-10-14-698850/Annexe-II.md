@@ -394,17 +394,11 @@ du Calvados
 
 |
 
-Directeur régional des finances publiques, directeur régional des douanes et droits indirects, directeur régional de l'INSEE
+Directeur départemental des finances publiques, directeur régional des douanes et droits indirects, directeur régional de l'INSEE
 
 |
 
-DGFiP : direction régionale des finances publiques, direction interrégionale du contrôle fiscal Ouest, Ecole nationale des finances publiques ;
-
-DGDDI : direction régionale de Basse-Normandie ; direction régionale de l'INSEE
-
-|
-
-7
+DGFiP : direction départementale des finances publiques, direction interrégionale du contrôle fiscal Ouest, Ecole nationale des finances publiques ; DGDDI : direction régionale de Basse-Normandie ; INSEE : Etablissement de Caen de la direction régionale
 
 |
 
@@ -412,11 +406,21 @@ DGDDI : direction régionale de Basse-Normandie ; direction régionale de l'INSE
 
 |
 
-DGFiP : comités techniques de service déconcentré de la direction régionale des finances publiques du Calvados et de la direction interrégionale du contrôle fiscal Ouest, comité technique de service à compétence nationale Ecole nationale des finances publiques ;
+7
+
+|
+
+DGFiP : comités techniques de service déconcentré de la direction départementale des finances publiques du Calvados et de la direction interrégionale du contrôle fiscal Ouest, comité technique de service à compétence nationale Ecole nationale des finances publiques ;
 
 DGDDI : comité technique de service déconcentré de la direction interrégionale de Rouen ;
 
-INSEE : comité technique de service déconcentré de la direction régionale de Basse-Normandie
+INSEE : comité technique de service déconcentré de la direction régionale de Normandie, situé à Caen
+
+DGFiP : comités techniques de service déconcentré de la direction départementale des finances publiques du Calvados et de la direction interrégionale du contrôle fiscal Ouest, comité technique de service à compétence nationale Ecole nationale des finances publiques ;
+
+DGDDI : comité technique de service déconcentré de la direction interrégionale de Rouen ;
+
+INSEE : comité technique de service déconcentré de la direction régionale de Normandie, situé à Caen
 
 |
 
@@ -474,7 +478,7 @@ Comités techniques de service déconcentré de la direction départementale des
 
 CHSCT
 
-de la Charente-Maritime
+de Charente-Maritime
 
 |
 
@@ -484,7 +488,7 @@ Directeur départemental des finances publiques et chef du service de la directi
 
 DGFiP : direction départementale des finances publiques, direction interrégionale du contrôle fiscal Sud-Ouest, service des retraites de l'Etat ;
 
-DGDDI : Ecole nationale des brigades des douanes de La Rochelle
+DGDDI : Ecole nationale des douanes de La Rochelle
 
 |
 
@@ -498,7 +502,7 @@ DGDDI : Ecole nationale des brigades des douanes de La Rochelle
 
 DGFiP : comités techniques de service déconcentré de la direction départementale des finances publiques de Charente-Maritime et de la direction interrégionale du contrôle fiscal Sud-Ouest, comité technique de service à compétence nationale service des retraites de l'Etat ;
 
-DGDDI : comité technique du service à compétence nationale, direction nationale du recrutement et de la formation professionnelle
+DGDDI : comité technique du service à compétence nationale direction nationale du recrutement et de la formation professionnelle
 
 |
 
@@ -530,7 +534,7 @@ Comités techniques de service déconcentré de la direction départementale des
 
 CHSCT
 
-de la Corrèze
+de Corrèze
 
 |
 
@@ -538,7 +542,7 @@ Directeur départemental des finances publiques
 
 |
 
-Direction départementale des finances publiques
+Direction départementale des finances publiques et de la direction interrégionale du contrôle fiscal Sud-Ouest
 
 |
 
@@ -550,13 +554,13 @@ Direction départementale des finances publiques
 
 |
 
-Comité technique de service déconcentré de la direction départementale des finances publiques de la Corrèze
+Comité technique de service déconcentré de la direction départementale des finances publiques de Corrèze et de la direction interrégionale du contrôle fiscal Sud-Ouest
 
 |
 
 CHSCT
 
-de la Côte-d'Or
+de Côte-d'Or
 
 |
 
@@ -566,7 +570,9 @@ Directeur régional des finances publiques, directeur interrégional des douanes
 
 DGFiP : direction régionale des finances publiques et direction interrégionale du contrôle fiscal Rhône-Alpes Bourgogne, Ecole nationale des finances publiques, direction nationale d'interventions domaniales ;
 
-DGDDI : direction interrégionale de Dijon, direction régionale de Bourgogne ; direction régionale de l'INSEE
+DGDDI : direction interrégionale de Dijon, direction régionale de Bourgogne ;
+
+INSEE : Etablissement de Dijon de la direction régionale
 
 |
 
@@ -578,27 +584,29 @@ DGDDI : direction interrégionale de Dijon, direction régionale de Bourgogne ; 
 
 |
 
-DGFiP : comités techniques de service déconcentré de la direction régionale des finances publiques de la Côte-d'Or et de la direction interrégionale du contrôle fiscal Rhône-Alpes Bourgogne, comités techniques de service à compétence nationale de l'Ecole nationale des finances publiques et de la direction nationale d'interventions domaniales ;
+DGFiP : comités techniques de service déconcentré de la direction régionale des finances publiques de Côte-d'Or et de la direction interrégionale du contrôle fiscal Rhône-Alpes Bourgogne, comités techniques de service à compétence nationale de l'Ecole nationale des finances publiques et de la direction nationale d'interventions domaniales ;
 
 DGDDI : comité technique de service déconcentré de la direction interrégionale de Dijon ;
 
-INSEE : comité technique de service déconcentré de la direction régionale de Bourgogne
+INSEE : comité technique de service déconcentré de la direction régionale de Bourgogne-Franche-Comté, situé à Dijon
 
 |
 
 CHSCT
 
-de la Corse-du-Sud
+de Corse-du-Sud
 
 |
 
-Directeur départemental des finances publiques, directeur régional des douanes et droits indirects, directeur régional de l'INSEE
+Directeur régionale des finances publiques, directeur régional des douanes et droits indirects, directeur régional de l'INSEE
 
 |
 
-DGFiP : direction départementale des finances publiques ;
+DGFiP : direction régionale des finances publiques ;
 
-DGDDI : Corse direction régionale ; direction régionale de l'INSEE
+DGDDI : Corse direction régionale ;
+
+direction régionale de l'INSEE
 
 |
 
@@ -610,7 +618,7 @@ DGDDI : Corse direction régionale ; direction régionale de l'INSEE
 
 |
 
-DGFiP : comité technique de service déconcentré de la direction départementale des finances publiques de Corse-du-Sud ;
+DGFiP : comité technique de service déconcentré de la direction régionale des finances publiques de Corse-du-Sud ;
 
 DGDDI : comité technique de service déconcentré de la direction interrégionale de Marseille ;
 
@@ -728,13 +736,15 @@ du Doubs
 
 |
 
-Directeur régionale des finances publiques, directeur régional des douanes et droits indirects, directeur régional de l'INSEE
+Directeur départementale des finances publiques, directeur régional des douanes et droits indirects, directeur régional de l'INSEE
 
 |
 
-DGFiP : direction régionale des finances publiques et direction interrégionale du contrôle fiscal Est, Ecole nationale des finances publiques ;
+DGFiP : direction départementale des finances publiques et direction interrégionale du contrôle fiscal Est, Ecole nationale des finances publiques ;
 
-DGDDI : direction régionale Franche-Comté ; direction régionale de l'INSEE
+DGDDI : direction régionale Franche-Comté ;
+
+INSEE : établissement de Besançon de la direction régionale
 
 |
 
@@ -746,11 +756,11 @@ DGDDI : direction régionale Franche-Comté ; direction régionale de l'INSEE
 
 |
 
-DGFiP : comités techniques de service déconcentré de la direction régionale des finances publiques du Doubs et de la direction interrégionale du contrôle fiscal Est, comité technique de service à compétence nationale de l'Ecole nationale des finances publiques ;
+DGFiP : comités techniques de service déconcentré de la direction départementale des finances publiques du Doubs et de la direction interrégionale du contrôle fiscal Est, comité technique de service à compétence nationale de l'Ecole nationale des finances publiques ;
 
 DGDDI : comité technique de service déconcentré de la direction interrégionale de Dijon ;
 
-INSEE : comité technique de service déconcentré de la direction régionale de Franche-Comté
+INSEE : comité technique de service déconcentré de la direction régionale de Bourgogne-Franche-Comté, situé à Besançon
 
 |
 
@@ -886,7 +896,7 @@ Comités techniques de service déconcentré de la direction départementale des
 
 CHSCT
 
-de la Haute-Garonne
+de Haute-Garonne
 
 |
 
@@ -896,7 +906,9 @@ Directeur régional des finances publiques, directeur régional des douanes et d
 
 DGFiP : direction régionale des finances publiques et direction interrégionale du contrôle fiscal Sud-Pyrénées, délégation interrégionale Sud-Pyrénées, direction nationale d'enquêtes fiscales, direction des vérifications nationales et internationales, Ecole nationale des finances publiques, direction nationale d'interventions domaniales ;
 
-DGDDI : direction régionale de Midi-Pyrénées et service à compétence nationale, direction nationale des statistiques du commerce extérieur ; direction régionale de l'INSEE
+DGDDI : direction régionale de Midi-Pyrénées et service à compétence nationale direction nationale des statistiques du commerce extérieur ;
+
+INSEE : établissement de Toulouse de la direction régionale
 
 |
 
@@ -908,11 +920,11 @@ DGDDI : direction régionale de Midi-Pyrénées et service à compétence nation
 
 |
 
-DGFiP : comités techniques de service déconcentré de la direction régionale des finances publiques de la Haute-Garonne, de la direction interrégionale du contrôle fiscal Sud-Pyrénées, de service central de réseau, comités techniques de service à compétence nationale direction nationale d'enquêtes fiscales, direction des vérifications nationales et internationales, Ecole nationale des finances publiques, direction nationale d'interventions domaniales ;
+DGFiP : comités techniques de service déconcentré de la direction régionale des finances publiques de Haute-Garonne, de la direction interrégionale du contrôle fiscal Sud-Pyrénées, de service central de réseau, comités techniques de service à compétence nationale direction nationale d'enquêtes fiscales, direction des vérifications nationales et internationales, Ecole nationale des finances publiques, direction nationale d'interventions domaniales ;
 
-DGDDI : comités techniques de service déconcentré de la direction interrégionale de Bordeaux et du service à compétence nationale, direction nationale des statistiques du commerce extérieur ;
+DGDDI : comités techniques de service déconcentré de la direction interrégionale de Bordeaux et du service à compétence nationale direction nationale des statistiques du commerce extérieur ;
 
-INSEE : comité technique de service déconcentré de la direction régionale de Midi-Pyrénées
+INSEE : comité technique de service déconcentré de la direction régionale de Languedoc-Roussillon-Midi-Pyrénées, situé à Toulouse
 
 |
 
@@ -944,7 +956,7 @@ Comité technique de service déconcentré de la direction départementale des f
 
 CHSCT
 
-de la Gironde
+de Gironde
 
 |
 
@@ -952,13 +964,11 @@ Directeur régional des finances publiques, directeur interrégional des douanes
 
 |
 
-DGFiP : direction régionale des finances publiques et direction interrégionale du contrôle fiscal Sud-Ouest, délégation interrégionale Sud-Ouest, direction nationale d'enquêtes fiscales et service de la documentation nationale du cadastre, Ecole nationale des finances publiques, direction nationale d'interventions domaniales ;
+DGFiP : direction régionale des finances publiques et direction interrégionale du contrôle fiscal Sud-Ouest, délégation interrégionale Sud-Ouest, direction nationale d'enquêtes fiscales et service de la documentation nationale du cadastre, Ecole nationale des finances publiques, direction nationale d'interventions domaniales et la direction des vérifications nationales et internationales ;
 
-DGDDI : direction interrégionale de Bordeaux, direction régionale de Bordeaux ; direction régionale de l'INSEE y compris centre de formation
+DGDDI : direction interrégionale de Bordeaux, direction régionale de Bordeaux ;
 
-|
-
-8
+INSEE : établissement de Bordeaux de la direction régionale y compris centre de formation
 
 |
 
@@ -966,11 +976,15 @@ DGDDI : direction interrégionale de Bordeaux, direction régionale de Bordeaux 
 
 |
 
-DGFiP : comités techniques de service déconcentré de la direction régionale des finances publiques, de la direction interrégionale du contrôle fiscal Sud-Ouest, de service central de réseau, comités techniques de service à compétence nationale, direction nationale d'enquêtes fiscales, service de la documentation nationale du cadastre, Ecole nationale des finances publiques, direction nationale d'interventions domaniales ;
+8
+
+|
+
+DGFiP : comités techniques de service déconcentré de la direction régionale des finances publiques, de la direction interrégionale du contrôle fiscal Sud-Ouest, de service central de réseau, comités techniques de service à compétence nationale direction nationale d'enquêtes fiscales, service de la documentation nationale du cadastre, Ecole nationale des finances publiques, direction nationale d'interventions domaniales et la direction des vérifications nationales et internationales ;
 
 DGDDI : comité technique de service déconcentré de la direction interrégionale de Bordeaux ;
 
-INSEE : comité technique de service déconcentré de la direction régionale d'Aquitaine
+INSEE : comité technique de service déconcentré de la direction régionale d'Aquitaine-Limousin-Poitou-Charentes, situé à Bordeaux
 
 |
 
@@ -980,13 +994,15 @@ de l'Hérault
 
 |
 
-Directeur régional des finances publiques, directeur interrégional des douanes et droits indirects, directeur régional de l'INSEE
+Directeur départemental des finances publiques, directeur interrégional des douanes et droits indirects, directeur régional de l'INSEE
 
 |
 
-DGFiP : direction régionale des finances publiques et direction interrégionale du contrôle fiscal Sud-Pyrénées, Ecole nationale des finances publiques ;
+DGFiP : direction départementale des finances publiques et direction interrégionale du contrôle fiscal Sud-Pyrénées, Ecole nationale des finances publiques ;
 
-DGDDI : direction interrégionale de Montpellier, direction régionale de Montpellier ; direction régionale de l'INSEE
+DGDDI : direction interrégionale de Montpellier, direction régionale de Montpellier ;
+
+INSEE : établissement de Montpellier de la direction régionale
 
 |
 
@@ -998,11 +1014,11 @@ DGDDI : direction interrégionale de Montpellier, direction régionale de Montpe
 
 |
 
-DGFiP : comités techniques de service déconcentré de la direction régionale des finances publiques de l'Hérault et de la direction interrégionale du contrôle fiscal Sud-Pyrénées, comité technique de service à compétence nationale Ecole nationale des finances publiques ;
+DGFiP : comités techniques de service déconcentré de la direction départementale des finances publiques de l'Hérault et de la direction interrégionale du contrôle fiscal Sud-Pyrénées, comité technique de service à compétence nationale Ecole nationale des finances publiques ;
 
 DGDDI : comité technique de service déconcentré de la direction interrégionale de Montpellier ;
 
-INSEE : comité technique de service déconcentré de la direction régionale de Languedoc-Roussillon
+INSEE : comité technique de service déconcentré de la direction régionale de Languedoc-Roussillon-Midi-Pyrénées, situé à Montpellier
 
 |
 
@@ -1248,7 +1264,7 @@ Comité technique de service déconcentré de la direction départementale des f
 
 CHSCT
 
-de la Loire-Atlantique
+de Loire-Atlantique
 
 |
 
@@ -1256,13 +1272,11 @@ Directeur régional des finances publiques, directeur interrégional des douanes
 
 |
 
-DGFiP : direction régionale des finances publiques, Trésorerie générale pour l'étranger, service des retraites de l'Etat, direction interrégionale du contrôle fiscal Ouest, direction des vérifications nationales et internationales, pour partie bureau "applications de la fiscalité des entreprises et du patrimoine" (SI 1C) et bureau "applications du recouvrement" (SI 1F), Ecole nationale des finances publiques ;
+DGFiP : direction régionale des finances publiques, direction spécialisée des finances publiques pour l'étranger, service des retraites de l'Etat, direction interrégionale du contrôle fiscal Ouest, direction des vérifications nationales et internationales, pour partie bureau "applications de la fiscalité des entreprises et du patrimoine" (SI 1C) et bureau "applications du recouvrement" (SI 1F), Ecole nationale des finances publiques ;
 
-DGDDI : direction interrégionale de Nantes, direction régionale des Pays de la Loire ; direction régionale de l'INSEE y compris centre national informatique de Nantes
+DGDDI : direction interrégionale de Nantes, direction régionale des Pays de la Loire ;
 
-|
-
-9
+direction régionale de l'INSEE y compris Centre national informatique de Nantes
 
 |
 
@@ -1270,11 +1284,15 @@ DGDDI : direction interrégionale de Nantes, direction régionale des Pays de la
 
 |
 
-DGFiP : comités techniques de service déconcentré de la direction régionale des finances publiques de Loire-Atlantique, de la trésorerie générale pour l'étranger, de la direction interrégionale du contrôle fiscal Ouest, comité technique de service central de réseau, comités techniques de service à compétence nationale : service des retraites de l'Etat, direction des vérifications nationales et internationales, Ecole nationale des finances publiques ;
+9
 
-DGDDI : comité technique de service déconcentré de la direction interrégionale de Nantes ;
+|
 
-INSEE : comité technique de service déconcentré de la direction régionale des Pays de la Loire
+DGFiP : comités techniques de service déconcentré de la direction régionale des finances publiques de Loire-Atlantique, de la direction spécialisée des finances publiques pour l'étranger, de la direction interrégionale du contrôle fiscal Ouest, comité technique de service central de réseau, comités techniques de service à compétence nationale : service des retraites de l'Etat, direction des vérifications nationales et internationales, Ecole nationale des finances publiques ;
+
+DGDDI : Comité technique de service déconcentré de la direction interrégionale de Nantes ;
+
+INSEE : Comité technique de service déconcentré de la direction régionale des Pays de la Loire
 
 |
 
@@ -1288,9 +1306,11 @@ Directeur régional des finances publiques, directeur régional des douanes et d
 
 |
 
-DGFiP : direction régionale des finances publiques et direction interrégionale du contrôle fiscal Centre, délégation interrégionale Centre Auvergne, Antilles, Guyane, direction nationale d'enquêtes fiscales, Ecole nationale des finances publiques ;
+DGFiP : direction régionale des finances publiques et direction interrégionale du contrôle fiscal Centre, délégation interrégionale Centre Auvergne Antilles, Guyane, direction nationale d'enquêtes fiscales, Ecole nationale des finances publiques ;
 
-DGDDI : direction régionale Centre ; direction régionale de l'INSEE y compris le centre national informatique d'Orléans
+DGDDI : direction régionale Centre ;
+
+direction régionale de l'INSEE y compris le centre national informatique d'Orléans
 
 |
 
@@ -1306,7 +1326,7 @@ DGFiP : comités techniques de service déconcentré de la direction régionale 
 
 DGDDI : comité technique de service déconcentré de la direction interrégionale de Dijon ;
 
-INSEE : comité technique de service déconcentré de la direction régionale Centre
+INSEE : comité technique de service déconcentré de la direction régionale Centre-Val de Loire
 
 |
 
@@ -1446,13 +1466,15 @@ de la Marne
 
 |
 
-Directeur régional des finances publiques, directeur régional des douanes et droits indirects, directeur régional de l'INSEE
+Directeur départemental des finances publiques, directeur régional des douanes et droits indirects, directeur régional de l'INSEE
 
 |
 
-Direction régionale des finances publiques et direction interrégionale du contrôle fiscal Est
+Direction départementale des finances publiques et direction interrégionale du contrôle fiscal Est, Ecole nationale des finances publiques ;
 
-DGDDI : direction régionale de Champagne-Ardennes ; direction régionale de l'INSEE
+DGDDI : direction régionale de Champagne-Ardenne ;
+
+INSEE : établissement de Reims de la direction régionale
 
 |
 
@@ -1464,11 +1486,11 @@ DGDDI : direction régionale de Champagne-Ardennes ; direction régionale de l'I
 
 |
 
-DGFiP : comités techniques de service déconcentré de la direction régionale des finances publiques de la Marne et de la direction interrégionale du contrôle fiscal Est ;
+DGFiP : comités techniques de service déconcentré de la direction départementale des finances publiques de la Marne et de la direction interrégionale du contrôle fiscal Est ;
 
 DGDDI : comité technique de service déconcentré de la direction interrégionale de Metz ;
 
-INSEE : comité technique de service déconcentré de la direction régionale Champagne-Ardennes
+INSEE : comité technique de service déconcentré de la direction régionale Alsace-Champagne-Ardenne-Lorraine, situé à Reims
 
 |
 
@@ -1534,7 +1556,9 @@ Directeur départemental des finances publiques, directeur régional de l'INSEE
 
 |
 
-DGFiP : direction départementale des finances publiques, direction interrégionale du contrôle fiscal Est et délégation interrégionale Est, Ecole nationale des finances publiques, direction nationale d'interventions domaniales ; direction régionale de l'INSEE
+DGFiP : direction départementale des finances publiques, direction interrégionale du contrôle fiscal Est et délégation interrégionale Est, Ecole nationale des finances publiques, direction nationale d'interventions domaniales ;
+
+INSEE : Etablissement de Nancy de la direction régionale
 
 |
 
@@ -1546,9 +1570,9 @@ DGFiP : direction départementale des finances publiques, direction interrégion
 
 |
 
-DGFiP : comités techniques de service déconcentré de la direction régionale des finances publiques de Meurthe-et-Moselle et de la direction interrégionale du contrôle fiscal Est, comité technique de service central de réseau, comités techniques de service à compétence nationale, Ecole nationale des finances publiques, direction nationale d'interventions domaniales ;
+DGFiP : comités techniques de service déconcentré de la direction départementale des finances publiques de Meurthe-et-Moselle et de la direction interrégionale du contrôle fiscal Est, comité technique de service central de réseau, comités techniques de service à compétence nationale Ecole nationale des finances publiques, direction nationale d'interventions domaniales ;
 
-INSEE : comité technique de service déconcentré de la direction régionale de Lorraine
+INSEE : comité technique de service déconcentré de la direction régionale Alsace-Champagne-Ardenne-Lorraine, situé à Nancy
 
 |
 
@@ -1606,17 +1630,17 @@ Comités techniques de service déconcentré de la direction départementale des
 
 CHSCT
 
-de la Moselle
+de Moselle
 
 |
 
-Directeur régional des finances publiques, directeur interrégional des douanes et droits indirects, directeur du centre de Metz de l'INSEE
+Directeur départemental des finances publiques, directeur interrégional des douanes et droits indirects, directeur du centre de Metz de l'INSEE
 
 |
 
-DGFiP : direction régionale des finances publiques et direction interrégionale du contrôle fiscal Est ;
+DGFiP : direction départementale des finances publiques et direction interrégionale du contrôle fiscal Est ;
 
-DGDDI : direction interrégionale de Metz, direction régionale de Lorraine ;
+DGDDI : direction interrégionale de Metz, direction régionale de Lorraine y compris SNDFR ;
 
 INSEE : centre de Metz
 
@@ -1630,7 +1654,7 @@ INSEE : centre de Metz
 
 |
 
-DGFiP : comités techniques de service déconcentré de la direction régionale des finances publiques de Moselle et de la direction interrégionale du contrôle fiscal Est ;
+DGFiP : comités techniques de service déconcentré de la direction départementale des finances publiques de Moselle et de la direction interrégionale du contrôle fiscal Est ;
 
 DGDDI : comité technique de service déconcentré de la direction interrégionale de Metz ;
 
@@ -1676,7 +1700,9 @@ Directeur régional des finances publiques, directeur interrégional des douanes
 
 DGFiP : direction régionale des finances publiques et direction interrégionale du contrôle fiscal Nord, délégation interrégionale Nord, direction nationale d'enquêtes fiscales, direction des vérifications nationales et internationales, service de la documentation nationale du cadastre, Ecole nationale des finances publiques, direction nationale d'interventions domaniales ;
 
-DGDDI : direction interrégionale de Lille, direction régionale de Lille, direction régionale de Dunkerque, Ecole nationale des douanes et personnels administratifs de Tourcoing ; direction régionale de l'INSEE
+DGDDI : direction interrégionale de Lille, direction régionale de Lille, direction régionale de Dunkerque, Ecole nationale des douanes et personnels administratifs de Tourcoing ;
+
+INSEE : Etablissement de Lille de la direction régionale
 
 |
 
@@ -1688,11 +1714,11 @@ DGDDI : direction interrégionale de Lille, direction régionale de Lille, direc
 
 |
 
-DGFiP : comités techniques de service déconcentré de la direction régionale des finances publiques du Nord et de la direction interrégionale du contrôle fiscal Nord, comité technique de service central de réseau, comités techniques de service à compétence nationale, direction nationale d'enquêtes fiscales, direction des vérifications nationales et internationales, service de la documentation nationale du cadastre, Ecole nationale des finances publiques, direction nationale d'interventions domaniales ;
+DGFiP : comités techniques de service déconcentré de la direction régionale des finances publiques du Nord et de la direction interrégionale du contrôle fiscal Nord, comité technique de service central de réseau, comités techniques de service à compétence nationale direction nationale d'enquêtes fiscales, direction des vérifications nationales et internationales, service de la documentation nationale du cadastre, Ecole nationale des finances publiques, direction nationale d'interventions domaniales ;
 
-DGDDI : comité technique de service déconcentré de la direction interrégionale de Lille et du service à compétence nationale, direction nationale du recrutement et de la formation professionnelle ;
+DGDDI : comité technique de service déconcentré de la direction interrégionale de Lille et du service à compétence nationale direction nationale du recrutement et de la formation professionnelle ;
 
-INSEE : comité technique de service déconcentré de la direction régionale Nord-Pas-de-Calais
+INSEE : comité technique de service déconcentré de la direction régionale Nord-Pas-de-Calais-Picardie, situé à Lille
 
 |
 
@@ -1780,13 +1806,15 @@ du Puy-de-Dôme
 
 |
 
-Directeur régional des finances publiques, directeur régional des douanes et droits indirects, directeur régional de l'INSEE
+Directeur départemental des finances publiques, directeur régional des douanes et droits indirects, directeur régional de l'INSEE
 
 |
 
-DGFiP : direction régionale des finances publiques et direction interrégionale du contrôle fiscal Centre, Ecole nationale des finances publiques, direction nationale d'interventions domaniales ;
+DGFiP : direction départementale des finances publiques et direction interrégionale du contrôle fiscal Centre, Ecole nationale des finances publiques, direction nationale d'interventions domaniales ;
 
-DGDDI : direction régionale Auvergne ; direction régionale de l'INSEE
+DGDDI : direction régionale Auvergne ;
+
+INSEE : établissement de Clermont-Ferrand de la direction régionale
 
 |
 
@@ -1798,11 +1826,11 @@ DGDDI : direction régionale Auvergne ; direction régionale de l'INSEE
 
 |
 
-DGFiP : comités techniques de service déconcentré de la direction régionale des finances publiques du Puy-de-Dôme et de la direction interrégionale du contrôle fiscal Centre, comités techniques de service à compétence nationale, Ecole nationale des finances publiques direction nationale d'interventions domaniales ;
+DGFiP : comités techniques de service déconcentré de la direction départementale des finances publiques du Puy-de-Dôme et de la direction interrégionale du contrôle fiscal Centre, comités techniques de service à compétence nationale Ecole nationale des finances publiques direction nationale d'interventions domaniales ;
 
 DGDDI : comité technique de service déconcentré de la direction interrégionale de Lyon ;
 
-INSEE : comité technique de service déconcentré de la direction régionale Auvergne
+INSEE : comité technique de service déconcentré de la direction régionale Auvergne-Rhône-Alpes, situé à Clermont-Ferrand
 
 |
 
@@ -1904,7 +1932,9 @@ Directeur régional des finances publiques, directeur régional des douanes et d
 
 DGFiP : direction régionale des finances publiques et direction interrégionale du contrôle fiscal Est, délégation interrégionale Est, direction des vérifications nationales et internationales, et direction nationale d'enquêtes fiscales, Ecole nationale des finances publiques ;
 
-DGDDI : direction régionale de Strasbourg ; direction régionale de l'INSEE
+DGDDI : direction régionale de Strasbourg ;
+
+INSEE : Etablissement de Strasbourg de la direction régionale
 
 |
 
@@ -1920,7 +1950,7 @@ DGFiP : comités techniques de service déconcentré de la direction régionale 
 
 DGDDI : comité technique de service déconcentré de la direction interrégionale de Metz ;
 
-INSEE : comité technique de service déconcentré de la direction régionale Alsace
+INSEE : comité technique de service déconcentré de la direction régionale Alsace-Champagne-Ardenne-Lorraine, situé à Strasbourg
 
 |
 
@@ -1966,7 +1996,9 @@ Directeur régional des finances publiques, directeur interrégional des douanes
 
 DGFiP : direction régionale des finances publiques et direction interrégionale du contrôle fiscal Rhône-Alpes Bourgogne, délégation interrégionale Rhône-Alpes Bourgogne, direction nationale d'enquêtes fiscales, direction des vérifications nationales et internationales, service de la documentation nationale du cadastre, Ecole nationale des finances publiques, direction nationale d'interventions domaniales ;
 
-DGDDI : direction interrégionale de Lyon, direction régionale de Lyon ; direction régionale de l'INSEE
+DGDDI : direction interrégionale de Lyon, direction régionale de Lyon ;
+
+INSEE : établissement de Lyon de la direction régionale
 
 |
 
@@ -1978,11 +2010,11 @@ DGDDI : direction interrégionale de Lyon, direction régionale de Lyon ; direct
 
 |
 
-DGFiP : comités techniques de service déconcentré de la direction régionale des finances publiques du Rhône et de la direction interrégionale du contrôle fiscal Rhône-Alpes Bourgogne, comité technique de service central de réseau, comités techniques de service à compétence nationale direction nationale d'enquêtes fiscales, direction des vérifications nationales et internationales, service de la documentation nationale du cadastre, Ecole nationale des finances publiques, direction nationale d'interventions domaniales ;
+DGFiP : Comités techniques de service déconcentré de la direction régionale des finances publiques du Rhône et de la direction interrégionale du contrôle fiscal Rhône-Alpes Bourgogne, comité technique de service central de réseau, comités techniques de service à compétence nationale direction nationale d'enquêtes fiscales, direction des vérifications nationales et internationales, service de la documentation nationale du cadastre, Ecole nationale des finances publiques, direction nationale d'interventions domaniales ;
 
 DGDDI : comité technique de service déconcentré de la direction interrégionale de Lyon ;
 
-INSEE : comité technique de service déconcentré de la direction régionale Rhône-Alpes
+INSEE : comité technique de service déconcentré de la direction régionale Auvergne-Rhône-Alpes, situé à Lyon
 
 |
 
@@ -2134,7 +2166,7 @@ Directeur régional des finances publiques, directeur interrégional des douanes
 
 |
 
-DGFiP : direction régionale des finances publiques, trésorerie générale de l'Assistance publique-hôpitaux de Paris, délégation interrégionale Ile-de-France, direction nationale d'enquêtes fiscales, direction nationale de vérification des situations fiscales personnelles ;
+DGFiP : direction régionale des finances publiques, direction spécialisée des finances publiques pour l'Assistance publiques et hôpitaux de Paris, délégation interrégionale Ile-de-France, direction nationale d'enquêtes fiscales, direction nationale de vérification des situations fiscales personnelles et le service de la documentation nationale du cadastre ;
 
 DGDDI : direction interrégionale d'Ile-de-France (y compris Boissy et centre interrégional de saisie des données), direction régionale de Paris
 
@@ -2148,7 +2180,7 @@ DGDDI : direction interrégionale d'Ile-de-France (y compris Boissy et centre in
 
 |
 
-DGFiP : comités techniques de service déconcentré de la direction régionale des finances publiques de Paris, de la trésorerie générale de l'Assistance publique-hôpitaux de Paris, comité technique de service central de réseau, comités techniques de service à compétence nationale, direction nationale d'enquêtes fiscales, direction nationale de vérification des situations fiscales personnelles ;
+DGFiP : comités techniques de service déconcentré de la direction régionale des finances publiques de Paris, de la direction spécialisée des finances publiques pour l'Assistance publiques et hôpitaux de Paris, comité technique de service central de réseau, comités techniques de service à compétence nationale direction nationale d'enquêtes fiscales, direction nationale de vérification des situations fiscales personnelles ;
 
 DGDDI : comité technique de service déconcentré de la direction interrégionale de Paris
 
@@ -2156,7 +2188,7 @@ DGDDI : comité technique de service déconcentré de la direction interrégiona
 
 CHSCT
 
-de la Seine-Maritime
+de Seine-Maritime
 
 |
 
@@ -2166,7 +2198,9 @@ Directeur régional des finances publiques, directeur interrégional des douanes
 
 DGFiP : direction régionale des finances publiques, direction interrégionale du contrôle fiscal Nord, Ecole nationale des finances publiques ;
 
-DGDDI : direction interrégionale de Rouen, direction régionale de Rouen, direction régionale du Havre, Ecole nationale des douanes de Rouen ; direction régionale de l'INSEE
+DGDDI : direction interrégionale de Rouen, direction régionale de Rouen, direction régionale du Havre ;
+
+INSEE : établissement de Rouen de la direction régionale
 
 |
 
@@ -2178,11 +2212,11 @@ DGDDI : direction interrégionale de Rouen, direction régionale de Rouen, direc
 
 |
 
-DGFiP : comités techniques de service déconcentré de la direction régionale des finances publiques de la Seine-Maritime et de la direction interrégionale du contrôle fiscal Nord, comité technique de service à compétence nationale, Ecole nationale des finances publiques ;
+DGFiP : comités techniques de service déconcentré de la direction régionale des finances publiques de Seine-Maritime et de la direction interrégionale du contrôle fiscal Nord, comité technique de service à compétence nationale Ecole nationale des finances publiques ;
 
 DGDDI : comité technique de service déconcentré de la direction interrégionale de Rouen, du service à compétence nationale direction nationale du recrutement et de la formation professionnelle ;
 
-INSEE : comité technique de service déconcentré de la direction régionale Haute-Normandie
+INSEE : Normandie, situé à Rouen
 
 |
 
@@ -2282,13 +2316,15 @@ de la Somme
 
 |
 
-Directeur régional des finances publiques, directeur régional des douanes et droits indirects, directeur régional de l'INSEE
+Directeur départemental des finances publiques, directeur régional des douanes et droits indirects, directeur régional de l'INSEE
 
 |
 
-DGFiP : direction régionale des finances publiques et direction interrégionale du contrôle fiscal Nord, Ecole nationale des finances publiques ;
+DGFiP : direction départementale des finances publiques et direction interrégionale du contrôle fiscal Nord, Ecole nationale des finances publiques ;
 
-DGDDI : direction régionale de Picardie ; direction régionale de l'INSEE
+DGDDI : direction régionale de Picardie ;
+
+INSEE : établissement d'Amiens de la direction régionale
 
 |
 
@@ -2300,11 +2336,11 @@ DGDDI : direction régionale de Picardie ; direction régionale de l'INSEE
 
 |
 
-DGFiP : comités techniques de service déconcentré de la direction régionale des finances publiques de la Somme et de la direction interrégionale du contrôle fiscal Nord, comité technique de service à compétence nationale, Ecole nationale des finances publiques ;
+DGFiP : comités techniques de service déconcentré de la direction départementale des finances publiques de la Somme et de la direction interrégionale du contrôle fiscal Nord, comité technique de service à compétence nationale Ecole nationale des finances publiques ;
 
 DGDDI : comité technique de service déconcentré de la direction interrégionale de Lille ;
 
-INSEE : comité technique de service déconcentré de la direction régionale Picardie
+INSEE : comité technique de service déconcentré de la direction régionale Nord-Pas-de-Calais-Picardie, situé à Amiens
 
 |
 
@@ -2440,17 +2476,19 @@ Comités techniques de service déconcentré de la direction départementale des
 
 CHSCT
 
-de la Vienne
+de Vienne
 
 |
 
-Directeur régional des finances publiques, directeur régional des douanes et droits indirects, directeur régional de l'INSEE
+Directeur départemental des finances publiques, directeur régional des douanes et droits indirects, directeur régional de l'INSEE
 
 |
 
-DGFiP : direction régionale des finances publiques, direction des créances spéciales du Trésor et direction interrégionale du contrôle fiscal Sud-Ouest, Ecole nationale des finances publiques, direction nationale d'interventions domaniales ;
+DGFiP : direction départementale des finances publiques, direction des créances spéciales du Trésor et direction interrégionale du contrôle fiscal Sud-Ouest, Ecole nationale des finances publiques, direction nationale d'interventions domaniales ;
 
-DGDDI : direction régionale de Poitiers ; direction régionale de l'INSEE
+DGDDI : direction régionale de Poitiers ;
+
+INSEE : établissement de Poitiers de la direction régionale
 
 |
 
@@ -2462,17 +2500,17 @@ DGDDI : direction régionale de Poitiers ; direction régionale de l'INSEE
 
 |
 
-DGFiP : comités techniques de service déconcentré de la direction régionale des finances publiques de la Vienne, de la direction des créances spéciales du Trésor et de la direction interrégionale du contrôle fiscal Sud-Ouest, comités techniques de service à compétence nationale, Ecole nationale des finances publiques, direction nationale d'interventions domaniales ;
+DGFiP : comités techniques de service déconcentré de la direction départementale des finances publiques de la Vienne, de la direction des créances spéciales du Trésor et de la direction interrégionale du contrôle fiscal Sud-Ouest, comités techniques de service à compétence nationale Ecole nationale des finances publiques, direction nationale d'interventions domaniales ;
 
 DGDDI : comité technique de service déconcentré de la direction interrégionale de Nantes ;
 
-INSEE : comité technique de service déconcentré de la direction régionale Poitou-Charentes
+INSEE : comité technique de service déconcentré de la direction régionale Aquitaine-Limousin-Poitou-Charentes, situé à Poitiers
 
 |
 
 CHSCT
 
-de la Haute-Vienne
+de Haute-Vienne
 
 |
 
@@ -2480,7 +2518,9 @@ Directeur départemental des finances publiques, directeur régional de l'INSEE
 
 |
 
-DGFiP : direction départementale des finances publiques et direction interrégionale du contrôle fiscal Sud-Ouest, Ecole nationale des finances publiques ; direction régionale de l'INSEE
+DGFiP : direction départementale des finances publiques et direction interrégionale du contrôle fiscal Sud-Ouest, Ecole nationale des finances publiques
+
+INSEE : établissement de Limoges de la direction régionale
 
 |
 
@@ -2492,9 +2532,9 @@ DGFiP : direction départementale des finances publiques et direction interrégi
 
 |
 
-DGFiP : comités techniques de service déconcentré de la direction départementale des finances publiques de la Haute-Vienne et de la direction interrégionale du contrôle fiscal Sud-Ouest, comité technique de service à compétence nationale, Ecole nationale des finances publiques ;
+DGFiP : comités techniques de service déconcentré de la direction départementale des finances publiques de Haute-Vienne et de la direction interrégionale du contrôle fiscal Sud-Ouest, comité technique de service à compétence nationale Ecole nationale des finances publiques ;
 
-INSEE : comité technique de service déconcentré de la direction régionale Limousin
+INSEE : comité technique de service déconcentré de la direction régionale Aquitaine-Limousin-Poitou-Charentes, situé à Limoges
 
 |
 
