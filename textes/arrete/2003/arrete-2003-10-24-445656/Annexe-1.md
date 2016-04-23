@@ -72,7 +72,7 @@ AAL202
 
 |
 
-AAL361-Aude.
+AAL361 Pyrénées Est.
 
 |
 
@@ -180,7 +180,7 @@ AAL506
 
 |
 
-AAL601-Pyrénées.
+AAL601 Pyrénées Ouest.
 
 |
 
