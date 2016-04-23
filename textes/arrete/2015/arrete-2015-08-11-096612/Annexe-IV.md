@@ -44,8 +44,18 @@ Cuisiniers à bord des navires dont la liste d'équipage comprend au moins vingt
 
 |
 
+Attestations de formation avancée à la haute tension à bord des navires (3)
+
+|
+
+Tout personnel en charge de l'entretien et de la maintenance des systèmes électriques haute tension
+
+|
+
 (1) Aux fins du présent arrêté, cette obligation est d'application obligatoire à partir du 1er septembre 2020. En revanche, pour la délivrance ou la revalidation d'un titre, les dispositions et le calendrier de l'arrêté du ministre chargé de la mer relatif à la délivrance de ce titre s'appliquent.
 
 (2) Selon le calendrier de mise en œuvre fixé par l'arrêté du 29 juin 2011 susvisé.
+
+(3) Cette disposition s'applique à partir du 1er septembre 2020 pour les navires armés à la pêche.
 
 |

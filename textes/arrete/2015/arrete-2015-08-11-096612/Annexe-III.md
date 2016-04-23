@@ -92,6 +92,16 @@ Personnels de service à table
 
 |
 
+Attestation de formation avancée à la haute tension à bord des navires (2)
+
+|
+
+Tout personnel en charge de l'entretien et de la maintenance des systèmes électriques haute tension
+
+|
+
 (1) A bord des navires à passagers effectuant des voyages internationaux et des navires à passagers d'une jauge brute égale ou supérieure à 500 effectuant des voyages nationaux.
+
+(2) Cette disposition s'applique à partir du 1er janvier 2017 à bord des navires armés au commerce ou à la plaisance.
 
 |
