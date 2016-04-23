@@ -2,6 +2,10 @@
 
 Agence nationale pour les chèques-vacances ;
 
+L'Agence de l'innovation industrielle (1) ;
+
+L'Agence foncière et technique de la région parisienne ;
+
 Banque de France ;
 
 Caisse centrale de coopération économique ;
@@ -16,11 +20,19 @@ Etablissements publics d'aménagement définis à l'article L. 321-14 du code de
 
 Etablissement public d'aménagement de Paris-Saclay ;
 
+Les établissements publics fonciers définis à l'article L. 321-1 du code de l'urbanisme ;
+
+Les établissements publics fonciers et d'aménagement définis à l'article L. 321-36-1 du code de l'urbanisme ;
+
 Institut d'émission d'outre-mer ;
 
 Institut d'émission des départements d'outre-mer ;
 
 Institution de gestion sociale des armées ;
+
+Société du Canal Seine-Nord Europe ;
+
+Société du Grand Paris ;
 
 Théâtre national de Chaillot ;
 
@@ -28,17 +40,7 @@ Théâtre national de l'Odéon ;
 
 Théâtre national de l'Est parisien ;
 
-Théâtre national de Strasbourg ;
-
-Société du Grand Paris.
-
-L'Agence de l'innovation industrielle (1).
-
-Les établissements publics fonciers définis à l'article L. 321-1 du code de l'urbanisme.
-
-L'Agence foncière et technique de la région parisienne.
-
-Les établissements publics fonciers et d'aménagement définis à l'article L. 321-36-1 du code de l'urbanisme.
+Théâtre national de Strasbourg.
 
 NOTA :
 
