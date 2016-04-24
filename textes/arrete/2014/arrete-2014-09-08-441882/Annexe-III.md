@@ -6,7 +6,7 @@ Article 1er
 
 Champs d'application
 
-1. La pêche professionnelle à la senne tournante coulissante (codes engins FAO : PS) en mer Méditerranée par les navires d'une longueur hors tout inférieure ou égale à 24 mètres et battant pavillon français est soumise à la détention d'une autorisation européenne de pêche (AEP), ci-après dénommée AEP senne tournante coulissante .
+1. La pêche professionnelle au moyen de filets tournants (codes engins FAO : PS (senne tournante coulissante) et LA (senne tournante sans coulisse (filet lamparo)) en mer Méditerranée par les navires d'une longueur hors tout inférieure ou égale à 24 mètres et battant pavillon français est soumise à la détention d'une autorisation européenne de pêche (AEP), ci-après dénommée AEP senne tournante.
 
 2. La pratique de la pêche au moyen d'une senne tournante coulissante est interdite à tout navire non détenteur de l'AEP senne tournante coulissante et aux navires d'une longueur hors tout supérieure à 24 mètres.
 
