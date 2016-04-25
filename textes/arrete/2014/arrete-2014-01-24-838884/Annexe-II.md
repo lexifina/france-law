@@ -3464,11 +3464,11 @@ FR000000000000105
 
 |
 
-RIVE DROITE ENVIRONNEMENT - SAS
+RIVE DROITE Energie
 
 |
 
-RIVE DROITE ENVIRONNEMENT - HAUTS DE GARONNE
+RIVE DROITE Energie-HAUTS DE GARONNE
 
 |
 
@@ -4956,7 +4956,7 @@ CHALON ENERGIE
 
 |
 
-CHALON ENERGIE chaufferie des Aubépins (CHALON)
+Chaufferie des Aubépins (CHALON)
 
 |
 
@@ -4968,31 +4968,31 @@ CHALON ENERGIE chaufferie des Aubépins (CHALON)
 
 |
 
-2 202
+2 477
 
 |
 
-1 847
+3 693
 
 |
 
-1 591
+3 182
 
 |
 
-1 343
+2 687
 
 |
 
-1 104
+2 207
 
 |
 
-873
+1 746
 
 |
 
-33 074
+40 106
 
 |
 
@@ -5392,14 +5392,6 @@ Lafarge Ciments - usine de Frangey
 
 |
 
-187 466
-
-|
-
-184 210
-
-|
-
 0
 
 |
@@ -5424,7 +5416,15 @@ Lafarge Ciments - usine de Frangey
 
 |
 
-371 676
+0
+
+|
+
+0
+
+|
+
+0
 
 |
 
@@ -5912,7 +5912,7 @@ FR000000000000170
 
 |
 
-SIFDDA BRETAGNE
+SECANIM BRETAGNE
 
 |
 
@@ -6776,11 +6776,11 @@ FR000000000000192
 
 |
 
-DALKIA NORD FINISTERE
+ECO CHALEUR DE BREST
 
 |
 
-CHAUFFERIE DU SPERNOT
+Chaufferie du Spernot
 
 |
 
@@ -7976,11 +7976,11 @@ FR000000000000224
 
 |
 
-COFELY GDF SUEZ
+COFELY
 
 |
 
-COFELY- CHAUFFERIE CENTRALE DU VERT BOIS
+COFELY-CHAUFFERIE CENTRALE DU VERT BOIS
 
 |
 
@@ -7992,31 +7992,31 @@ COFELY- CHAUFFERIE CENTRALE DU VERT BOIS
 
 |
 
-7 465
+1 866
 
 |
 
-6 534
+3 267
 
 |
 
-5 632
+2 816
 
 |
 
-4 759
+2 380
 
 |
 
-3 915
+1 958
 
 |
 
-3 101
+1 551
 
 |
 
-49 249
+31 681
 
 |
 
@@ -8464,18 +8464,6 @@ IMERYS TC site de Pargny sur Saulx Bois du Roi
 
 |
 
-11 308
-
-|
-
-11 112
-
-|
-
-10 913
-
-|
-
 0
 
 |
@@ -8496,7 +8484,19 @@ IMERYS TC site de Pargny sur Saulx Bois du Roi
 
 |
 
-33 333
+0
+
+|
+
+0
+
+|
+
+0
+
+|
+
+0
 
 |
 
@@ -8664,31 +8664,31 @@ Chaufferie Centrale des Chartreux
 
 |
 
-5 636
+2 818
 
 |
 
-4 933
+2 467
 
 |
 
-4 252
+2 126
 
 |
 
-3 594
+1 797
 
 |
 
-2 955
+1 478
 
 |
 
-2 341
+1 171
 
 |
 
-37 181
+25 327
 
 |
 
@@ -11772,7 +11772,7 @@ IMERYS TC
 
 |
 
-IMERYS TC site de COMMENAILLES
+IMERYS TC Site de COMMENAILLES
 
 |
 
@@ -11788,27 +11788,27 @@ IMERYS TC site de COMMENAILLES
 
 |
 
-12 433
+6 217
 
 |
 
-12 197
+6 099
 
 |
 
-11 960
+5 980
 
 |
 
-11 719
+5 860
 
 |
 
-11 477
+5 739
 
 |
 
-98 474
+68 583
 
 |
 
@@ -12076,27 +12076,27 @@ PARISOT SAS
 
 |
 
-4 216
+0
 
 |
 
-4 136
+0
 
 |
 
-4 056
+0
 
 |
 
-3 974
+0
 
 |
 
-3 892
+0
 
 |
 
-31 317
+11 043
 
 |
 
@@ -12360,31 +12360,31 @@ PANNEAUX DE CORREZE
 
 |
 
-28 752
+18 893
 
 |
 
-28 223
+16 530
 
 |
 
-27 688
+14 240
 
 |
 
-27 149
+12 024
 
 |
 
-26 601
+9 880
 
 |
 
-26 053
+7 816
 
 |
 
-223 535
+138 452
 
 |
 
@@ -12876,7 +12876,7 @@ STORENGY
 
 |
 
-STORENGY stockage souterrain d'ETREZ
+STORENGY Stockage Souterrain d'ETREZ
 
 |
 
@@ -12892,27 +12892,27 @@ STORENGY stockage souterrain d'ETREZ
 
 |
 
-8 138
+4 704
 
 |
 
-7 010
+4 053
 
 |
 
-5 919
+3 421
 
 |
 
-4 864
+2 812
 
 |
 
-3 848
+2 225
 
 |
 
-80 074
+67 510
 
 |
 

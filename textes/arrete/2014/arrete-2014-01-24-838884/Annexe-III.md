@@ -128,13 +128,65 @@ BRUYERES
 
 |
 
-FR000000000000383 |
+FR000000000000306
+
+|
+
+FICOBEL Chez COFELY
+
+|
+
+FICOBEL
+
+|
+
+0
+
+|
+
+0
+
+|
+
+67 949
+
+|
+
+66 724
+
+|
+
+65 499
+
+|
+
+64 274
+
+|
+
+63 049
+
+|
+
+61 824
+
+|
+
+389 319
+
+|
+
+FR000000000000383
+
+|
 
 ARKEMA France
 
 |
 
-ARKEMA Usine de Jarrie |
+ARKEMA Usine de Jarrie
+
+|
 
 13 141
 
@@ -172,7 +224,9 @@ ARKEMA Usine de Jarrie |
 
 |
 
-FR000000000000554 |
+FR000000000000554
+
+|
 
 SIFDDA CENTRE
 
@@ -650,7 +704,9 @@ Solvay Electrolyse France
 
 |
 
-FR-new-06203291 |
+FR-new-06203291
+
+|
 
 SNF SAS
 
@@ -696,7 +752,9 @@ SNF SAS
 
 |
 
-FR-new-06601577 |
+FR-new-06601577
+
+|
 
 Usine Axens
 

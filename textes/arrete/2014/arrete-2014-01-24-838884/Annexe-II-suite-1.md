@@ -122,7 +122,7 @@ Arjowiggins Rives SAS
 
 |
 
-Arjowiggins Rives SAS usine de Charavines
+Arjowiggins Rives SAS Usine de Charavines
 
 |
 
@@ -132,17 +132,17 @@ Arjowiggins Rives SAS usine de Charavines
 
 4 457 |
 
-4 375 |
+0 |
 
-4 292 |
+0 |
 
-4 208 |
+0 |
 
-4 124 |
+0 |
 
-4 039 |
+0 |
 
-34 651 |
+13 613 |
 
 FR000000000000375
 
@@ -4690,11 +4690,11 @@ FR000000000000508
 
 |
 
-PAPETERIE DES CHATELLES
+Papeterie des Chatelles
 
 |
 
-PAPETERIE DES CHATELLES
+Papeterie des Chatelles
 
 |
 
@@ -4710,27 +4710,25 @@ PAPETERIE DES CHATELLES
 
 |
 
-11 900
+0
 
 |
 
-11 674
+0 |
+
+0
 
 |
 
-11 447
+0
 
 |
 
-11 216
+0
 
 |
 
-10 985
-
-|
-
-94 249
+37 027
 
 |
 
@@ -6226,11 +6224,11 @@ FR000000000000554
 
 |
 
-SIFDDA CENTRE SAS
+SECANIM Centre
 
 |
 
-SIFDDA CENTRE SAS
+SECANIM Centre
 
 |
 
@@ -9038,7 +9036,9 @@ CONSERVES France
 
 |
 
-CONSERVES France - site de Tarascon
+CONSERVES
+
+France-site de Tarascon
 
 |
 
@@ -9054,27 +9054,27 @@ CONSERVES France - site de Tarascon
 
 |
 
-6 054
+880
 
 |
 
-5 518
+758
 
 |
 
-4 998
+640
 
 |
 
-4 491
+526
 
 |
 
-4 003
+416
 
 |
 
-46 591
+24 747
 
 |
 
@@ -9404,17 +9404,17 @@ Société géothermale des Rives de la Marne |
 
 8 525 |
 
-7 458 |
+0 |
 
-6 425 |
+0 |
 
-5 425 |
+0 |
 
-4 458 |
+0 |
 
-3 527 |
+0 |
 
-56 196 |
+28 903 |
 
 FR000000000000652
 
@@ -10256,23 +10256,41 @@ Stockage Souterrain de BEYNES
 
 |
 
-20 240 |
+20 240
 
-18 113 |
+|
 
-16 044 |
+18 113
 
-14 037 |
+|
 
-12 093 |
+16 044
 
-10 210 |
+|
 
-8 390 |
+7 218
 
-6 637 |
+|
 
-105 764 |
+6 218
+
+|
+
+5 250
+
+|
+
+4 314
+
+|
+
+3 413
+
+|
+
+80 810
+
+|
 
 FR000000000000684
 
@@ -11222,7 +11240,7 @@ SEFIR
 
 |
 
-Chaufferie urbaine Fossés Trempés Franconville
+Chaufferie Urbaine Fossés Trempés Franconville
 
 |
 
@@ -11238,27 +11256,27 @@ Chaufferie urbaine Fossés Trempés Franconville
 
 |
 
-1 721
+860
 
 |
 
-1 483
+742
 
 |
 
-1 254
+627
 
 |
 
-1 031
+515
 
 |
 
-817
+408
 
 |
 
-17 669
+14 515
 
 |
 

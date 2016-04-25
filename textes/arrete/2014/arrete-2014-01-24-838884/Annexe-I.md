@@ -72,11 +72,11 @@ FR000000000000587
 
 |
 
-E. ON France Power SAS
+UNIPER France POWER
 
 |
 
-E. ON-centrale de PROVENCE
+UNIPER-Centrale de PROVENCE
 
 |
 
@@ -101,18 +101,6 @@ Electricité de France
 |
 
 EDF Centrale de Martigues
-
-|
-
-FR000000000000653
-
-|
-
-Electricité de France
-
-|
-
-EDF CPT VITRY
 
 |
 
@@ -183,18 +171,6 @@ EDF SEI
 |
 
 EDF Kourou
-
-|
-
-FR000000000000905
-
-|
-
-Electricité de France
-
-|
-
-EDF Centre de Production Thermique de BOUCHAIN
 
 |
 
@@ -334,11 +310,11 @@ FR000000000001149
 
 |
 
-GDF SUEZ Thermique France
+ENGIE THERMIQUE FRANCE
 
 |
 
-GDF Suez Thermique France - Centrale de Fos-sur-Mer CYCOFOS
+ENGIE THERMIQUE FRANCE-Centrale de Fos-sur-Mer CYCOFOS
 
 |
 
@@ -382,11 +358,11 @@ FR000000000001159
 
 |
 
-GDF SUEZ THERMIQUE France
+ENGIE THERMIQUE FRANCE
 
 |
 
-GDF Suez Thermique France - Centrale de Fos-sur-Mer COMBIGOLFE
+ENGIE THERMIQUE FRANCE-Centrale de Fos-sur-Mer COMBIGOLFE
 
 |
 
@@ -564,7 +540,7 @@ EDM Centrale de Longoni
 
 |
 
-FR-new-EDF-SPM
+FR-new-61050201
 
 |
 

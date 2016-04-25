@@ -1064,10 +1064,6 @@ LUR BERRI site SEMENCES AICIRITS
 
 |
 
-1 015
-
-|
-
 0
 
 |
@@ -1088,7 +1084,11 @@ LUR BERRI site SEMENCES AICIRITS
 
 |
 
-3 443
+0
+
+|
+
+2 428
 
 |
 
@@ -2220,27 +2220,27 @@ Coopérative agricole Terre d'alliances
 
 |
 
-1 539
+770
 
 |
 
-1 326
+663
 
 |
 
-1 119
+560
 
 |
 
-920
+460
 
 |
 
-728
+364
 
 |
 
-11 596
+8 781
 
 |
 
@@ -4380,27 +4380,27 @@ Tuberie de Déville
 
 |
 
-36 602
+18 301
 
 |
 
-35 909
+17 955
 
 |
 
-35 208
+17 604
 
 |
 
-34 500
+17 250
 
 |
 
-33 788
+16 894
 
 |
 
-289 900
+201 897
 
 |
 
@@ -4524,27 +4524,27 @@ Atelier d'acide nitrique N7
 
 |
 
-42 358
+84 716
 
 |
 
-41 556
+83 111
 
 |
 
-40 745
+81 490
 
 |
 
-39 925
+79 849
 
 |
 
-39 102
+78 203
 
 |
 
-670 976
+583 887
 
 |
 
@@ -4572,27 +4572,27 @@ Atelier de fabrication d'ammoniac AM2
 
 |
 
-253 714
+507 428
 
 |
 
-248 907
+497 814
 
 |
 
-244 053
+488 106
 
 |
 
-239 139
+478 278
 
 |
 
-234 208
+468 416
 
 |
 
-2 009 495
+3 229 516
 
 |
 
@@ -5028,6 +5028,54 @@ SLV-Ta-POC
 
 |
 
+FR-new-05905393
+
+|
+
+ENGIE COFELY
+
+|
+
+Cogénération du site PSA Sochaux
+
+|
+
+0
+
+|
+
+0
+
+|
+
+0
+
+|
+
+0
+
+|
+
+0
+
+|
+
+0
+
+|
+
+0
+
+|
+
+0
+
+|
+
+0
+
+|
+
 FR-new-06101980
 
 |
@@ -5244,27 +5292,27 @@ Coopérative agricole Terre d'alliances
 
 |
 
-1 940
+970
 
 |
 
-1 672
+836
 
 |
 
-1 411
+706
 
 |
 
-1 160
+580
 
 |
 
-918
+459
 
 |
 
-14 618
+11 068
 
 |
 
@@ -5868,27 +5916,27 @@ Coopérative agricole Terre d'alliances
 
 |
 
-1 204
+602
 
 |
 
-1 037
+519
 
 |
 
-876
+438
 
 |
 
-720
+360
 
 |
 
-570
+285
 
 |
 
-9 072
+6 869
 
 |
 
@@ -6156,27 +6204,27 @@ COOPERATIVE DAUPHINOISE
 
 |
 
-492
+246
 
 |
 
-424
+212
 
 |
 
-358
+179
 
 |
 
-294
+147
 
 |
 
-232
+116
 
 |
 
-3 707
+2 807
 
 |
 
@@ -6616,11 +6664,11 @@ FR-new-06110996
 
 |
 
-Entreprise Malet - Grands Chantiers - PE 15
+Entreprise Malet-Grands Chantiers-PE 15
 
 |
 
-Entreprise Malet - Grands Chantiers - PE 15
+Entreprise Malet-Grands Chantiers-PE 15
 
 |
 
@@ -6636,27 +6684,75 @@ Entreprise Malet - Grands Chantiers - PE 15
 
 |
 
-1 385
+418
 
 |
 
-1 192
+360
 
 |
 
-1 007
+304
 
 |
 
-827
+250
 
 |
 
-654
+197
 
 |
 
-10 427
+6 891
+
+|
+
+FR-new-06111084
+
+|
+
+ENGIE Energie Services, COFELY
+
+|
+
+Chaufferie des Papèteries du Léman
+
+|
+
+0
+
+|
+
+0
+
+|
+
+0
+
+|
+
+0
+
+|
+
+0
+
+|
+
+0
+
+|
+
+0
+
+|
+
+0
+
+|
+
+0
 
 |
 
@@ -8200,11 +8296,11 @@ FR-new-06410379a
 
 |
 
-INEOS Chemicals Lavéra SAS
+INEOS DERIVATIVES LAVERA
 
 |
 
-Usine chimique de Lavéra LPG
+IDL-LPG
 
 |
 
@@ -8220,27 +8316,27 @@ Usine chimique de Lavéra LPG
 
 |
 
-145 412
+116 380
 
 |
 
-142 657
+114 175
 
 |
 
-139 876
+111 949
 
 |
 
-137 059
+109 695
 
 |
 
-134 233
+107 433
 
 |
 
-1 151 711
+1 012 106
 
 |
 
@@ -8248,11 +8344,11 @@ FR-new-06410379b
 
 |
 
-INEOS Chemicals Lavéra SAS
+INEOS CHEMICALS LAVERA
 
 |
 
-Usine chimique de Lavéra LPP
+INEOS CHEMICALS LAVERA
 
 |
 
@@ -8692,35 +8788,35 @@ PEUGEOT CITROEN AULNAY SNC
 
 |
 
-19 386
+0
 
 |
 
-17 171
+0
 
 |
 
-15 023
+0
 
 |
 
-12 942
+0
 
 |
 
-10 928
+0
 
 |
 
-8 980
+0
 
 |
 
-7 103
+0
 
 |
 
-113 195
+21 662
 
 |
 
@@ -10676,27 +10772,27 @@ VALLOUREC OIL AND GAS France Usine filet
 
 |
 
-8 273
+4 137
 
 |
 
-8 116
+4 058
 
 |
 
-7 958
+3 979
 
 |
 
-7 798
+3 899
 
 |
 
-7 637
+3 819
 
 |
 
-65 525
+45 635
 
 |
 
@@ -10772,27 +10868,27 @@ Vallourec Tubes France-tuberie d'Aulnoye-Aymeries
 
 |
 
-36 595
+18 298
 
 |
 
-35 902
+17 951
 
 |
 
-35 202
+17 601
 
 |
 
-34 493
+17 247
 
 |
 
-33 782
+16 891
 
 |
 
-289 846
+201 860
 
 |
 
@@ -11348,27 +11444,27 @@ HUNTSMAN P & A France-usine de Calais
 
 |
 
-156 358
+131 208
 
 |
 
-153 395
+128 722
 
 |
 
-150 403
+126 210
 
 |
 
-147 375
+123 669
 
 |
 
-144 336
+121 119
 
 |
 
-1 238 399
+1 117 460
 
 |
 
@@ -11716,7 +11812,7 @@ HAINAUT ENROBES
 
 |
 
-Centrale d'enrobage au bitume de matériaux routiers à chaud
+Centrale d'enrobage mobile
 
 |
 
@@ -11724,10 +11820,6 @@ Centrale d'enrobage au bitume de matériaux routiers à chaud
 
 |
 
-2 664
-
-|
-
 0
 
 |
@@ -11752,7 +11844,11 @@ Centrale d'enrobage au bitume de matériaux routiers à chaud
 
 |
 
-5 641
+0
+
+|
+
+2 977
 
 |
 
@@ -11760,7 +11856,7 @@ FR-new-07001875
 
 |
 
-M. ROQUET David
+Matériaux enrobés du Nord
 
 |
 
@@ -11768,10 +11864,6 @@ Centrale d'enrobage au bitume de matériaux routiers à chaud
 
 |
 
-2 266
-
-|
-
 0
 
 |
@@ -11800,7 +11892,11 @@ Centrale d'enrobage au bitume de matériaux routiers à chaud
 
 |
 
-2266
+0
+
+|
+
+0
 
 |
 
@@ -12672,23 +12768,11 @@ FR-new-10010658
 
 |
 
-COLAS Centre Ouest-Direction Grands Projets
+COLAS Centre-Ouest-direction grands projets
 
 |
 
-COLAS Centre Ouest-Centrale d'enrobage mobile RMS300
-
-|
-
-862
-
-|
-
-771
-
-|
-
-684
+COLAS Centre-Ouest-centrale d'enrobage mobile RMS300
 
 |
 
@@ -12712,7 +12796,19 @@ COLAS Centre Ouest-Centrale d'enrobage mobile RMS300
 
 |
 
-2 317
+0
+
+|
+
+0
+
+|
+
+0
+
+|
+
+0
 
 |
 
