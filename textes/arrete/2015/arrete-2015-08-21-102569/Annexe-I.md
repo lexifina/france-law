@@ -30,59 +30,59 @@ Satisfaire aux conditions fixées au 1° de l'article 5
 
 |
 
-3. Brevet d'études professionnelles maritimes de marin de commerce délivré conformément à l'arrêté du 25 juillet 1997 modifié portant création d'un brevet d'études professionnelles de marin de commerce
+2. Brevet d'études professionnelles maritimes de marin de commerce délivré conformément à l'arrêté du 25 juillet 1997 modifié portant création d'un brevet d'études professionnelles de marin de commerce
 
 |
 
-4. Brevet d'études professionnelles spécialité "marin de commerce" délivré conformément à l'arrêté du 22 décembre 2009 susvisé
+3. Brevet d'études professionnelles spécialité "marin de commerce" délivré conformément à l'arrêté du 22 décembre 2009 susvisé
 
 |
 
-5. Brevet d'études professionnelles maritimes spécialité "pêche" délivré conformément à l'arrêté du 22 décembre 2009 susvisé
+4. Brevet d'études professionnelles maritimes spécialité "pêche" délivré conformément à l'arrêté du 22 décembre 2009 susvisé
 
 |
 
-6. Baccalauréat professionnel spécialité "conduite et gestion des entreprises maritimes" délivré conformément à l'arrêté du 5 juin 2012 susvisé
+5. Baccalauréat professionnel spécialité "conduite et gestion des entreprises maritimes" délivré conformément à l'arrêté du 5 juin 2012 susvisé
 
 |
 
-7. Baccalauréat professionnel spécialité "conduite et gestion des entreprises maritimes" délivré conformément aux dispositions de l'arrêté du 25 juillet 2005 portant création et fixant les modalités de préparation et de délivrance du baccalauréat professionnel spécialité "conduite et gestion des entreprises maritimes"
+6. Baccalauréat professionnel spécialité "conduite et gestion des entreprises maritimes" délivré conformément aux dispositions de l'arrêté du 25 juillet 2005 portant création et fixant les modalités de préparation et de délivrance du baccalauréat professionnel spécialité "conduite et gestion des entreprises maritimes"
 
 |
 
-8. Brevet de technicien supérieur spécialité "pêche et gestion de l'environnement marin" délivré conformément aux dispositions de l'arrêté du 30 juin 2014 susvisé
+7. Brevet de technicien supérieur maritime spécialité "pêche et gestion de l'environnement marin" délivré conformément aux dispositions de l'arrêté du 30 juin 2014 susvisé
 
 |
 
-9. Diplôme ou brevet de capitaine 200 délivré conformément aux dispositions de l'arrêté du 20 août 2015 relatif à la délivrance du brevet de capitaine 200
+8. Diplôme ou brevet de capitaine 200 délivré conformément aux dispositions de l'arrêté du 20 août 2015 relatif à la délivrance du brevet de capitaine 200
 
 |
 
-10. Brevet de capitaine 200 délivré conformément à l'arrêté du 25 avril 2005 modifié relatif aux conditions de formation et de délivrance du brevet de capitaine 200
+9. Brevet de capitaine 200 délivré conformément à l'arrêté du 25 avril 2005 modifié relatif aux conditions de formation et de délivrance du brevet de capitaine 200
 
 |
 
-11. Brevet de capitaine 200 yacht délivré conformément aux dispositions de l'arrêté du 20 août 2015 relatif à la délivrance du brevet de capitaine 200 yacht
+10. Brevet de capitaine 200 yacht délivré conformément aux dispositions de l'arrêté du 20 août 2015 relatif à la délivrance du brevet de capitaine 200 yacht
 
 |
 
-12. Brevet de capitaine yacht 200 délivré conformément à l'arrêté du 25 avril 2005 modifié relatif aux conditions de délivrance du brevet de capitaine yacht 200
+11. Brevet de capitaine yacht 200 délivré conformément à l'arrêté du 25 avril 2005 modifié relatif aux conditions de délivrance du brevet de capitaine yacht 200
 
 |
 
-13. Brevet du capitaine 200 pêche délivré conformément aux dispositions de l'arrêté du 20 août 2015 relatif à la délivrance du brevet de capitaine 200 pêche
+12. Brevet du capitaine 200 pêche délivré conformément aux dispositions de l'arrêté du 20 août 2015 relatif à la délivrance du brevet de capitaine 200 pêche
 
 |
 
-14. Certificat de capacité délivré conformément à l'arrêté du 25 avril 2005 modifié relatif aux conditions de formation et de délivrance du certificat de capacité
+13. Certificat de capacité délivré conformément à l'arrêté du 25 avril 2005 modifié relatif aux conditions de formation et de délivrance du certificat de capacité
 
 |
 
-15. Brevet de capitaine 200 voile délivré conformément aux dispositions de l'arrêté du 20 août 2015 relatif à la délivrance du brevet de capitaine 200 voile
+14. Brevet de capitaine 200 voile délivré conformément aux dispositions de l'arrêté du 20 août 2015 relatif à la délivrance du brevet de capitaine 200 voile
 
 |
 
-16. Brevet de capitaine 200 voile délivré conformément à l'arrêté du 25 avril 2005 relatif aux conditions de formation et de délivrance du brevet de capitaine 200 voile
+15. Brevet de capitaine 200 voile délivré conformément à l'arrêté du 25 avril 2005 relatif aux conditions de formation et de délivrance du brevet de capitaine 200 voile
 
 |
 

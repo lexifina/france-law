@@ -104,40 +104,44 @@ Satisfaire les conditions fixées aux 1°, 2° et 4° à 7° de l'article 10
 
 |
 
-3. Brevet de technicien supérieur spécialité "pêche et gestion de l'environnement marin" délivré conformément aux dispositions de l'arrêté du 30 juin 2014 susvisé
+3. Brevet de technicien supérieur maritime spécialité "pêche et gestion de l'environnement marin" délivré conformément aux dispositions de l'arrêté du 30 juin 2014 susvisé
 
 |
 
-Tableau 4. - Attestations reconnues en lieu et place du CFBS pour la délivrance du certificat de matelot pont en application du 4.2 de l'article 10, du 6.2.2 de l'article 14, du 7.2.2 de l'article 14 ou du 8.2.2 de l'article 14
+Tableau 4. - Attestations reconnues en lieu et place du CFBS pour la délivrance du brevet de capitaine 200 pêche en application du 4.2 de l'article 10, du 6.2.2 de l'article 14, du 7.2.2 de l'article 14 ou du 8.2.2 de l'article 14
 
-ATTESTATIONS RECONNUES (1)
+ATTESTATIONS RECONNUES
 
-|
-
-CONDITIONS COMPLÉMENTAIRES À SATISFAIRE PAR TOUT TITULAIRE
-
-de l'attestation mentionnée en colonne (1) pour la délivrance du certificat (2)
+(1)
 
 |
 
-1. Attestation de suivi de la formation à la sécurité dispensée avant le 1er janvier 2014 aux marins pêcheurs et approuvée par le ministre chargé de la mer
+CONDITIONS COMPLÉMENTAIRES À SATISFAIRE
+
+par tout titulaire de l'attestation mentionnée en colonne (1)
+
+pour la délivrance du brevet (2)
 
 |
 
-1. Dans le cadre de l'article 9 : satisfaire aux conditions fixées aux 1° à 3° et 5° à 7° de l'article 10
-
-2. Dans le cadre de l'article 14 : satisfaire aux conditions fixées au 6° (pour l'application du 6.2.2), 7° (pour l'application du 7.2.2) ou 8° (pour l'application du 8.2.2) selon le cas de l'article 14
+Attestation de suivi de la formation à la sécurité dispensée avant le 1er janvier 2014 aux marins pêcheurs et approuvée par le ministre chargé de la mer
 
 |
 
-2. Attestation de suivi de la formation à la sécurité dispensée après le 1er septembre 2015 aux personnels appelés à servir à bord des navires armés à la petite pêche ou à la pêche côtière de moins de 12 mètres et approuvée par le ministre chargé de la mer
+1. Dans le cadre de l'article 10 : Satisfaire aux conditions fixées aux 1° à 3° et 5° à 7° de l'article 10
+
+2. Dans la cadre de l'article 14 : Satisfaire aux conditions fixées au 6° (pour l'application du 6.2.2), 7° (pour l'application du 7.2.2) ou 8° (pour l'application du 8.2.2) selon le cas de l'article 14
 
 |
 
-1. Dans le cadre de l'article 9 : satisfaire aux conditions fixées aux 1° à 3° et 5° à 7° de l'article 10
-
-2. Dans le cadre de l'article 14 : satisfaire aux conditions fixées au 6° (pour l'application du 6.2.2), 7° (pour l'application du 7.2.2) ou 8° (pour l'application du 8.2.2) de l'article 14
-
-Dans ces deux cas, la restriction suivante doit être apposée sur le certificat de matelot pont : "valide uniquement sur navires armés à la petite pêche ou à la pêche côtière de moins de 12 mètres". Cette restriction peut être levée sur présentation d'un CFBS en cours de validité pour exercer des fonctions à bord de navires armés au commerce, à la plaisance ou à la pêche.
+Attestation de suivi de la formation à la sécurité dispensée après le 1er septembre 2015 aux personnels appelés à servir à bord des navires armés à la petite pêche ou à la pêche côtière de moins de 12 mètres et approuvée par le ministre chargé de la mer
 
 |
+
+1. Dans le cadre de l'article 10 : Satisfaire aux conditions fixées aux 1° à 3° et 5° à 7° de l'article 10
+
+2. Dans la cadre de l'article 14 : Satisfaire aux conditions fixées au 6° (pour l'application du 6.2.2), 7° (pour l'application du 7.2.2) ou 8° (pour l'application du 8.2.2) de l'article 14
+
+Dans ces deux cas, la restriction suivante doit être apposée sur le brevet de capitaine 200 pêche : valide uniquement sur navires armés à la petite pêche ou à la pêche côtière de moins de 12 mètres. Cette restriction peut être levée sur présentation d'un CFBS en cours de validité pour exercer des fonctions à bord de navires armés au commerce, à la plaisance ou à la pêche.
+
+Pour l'exercice de fonctions à bord des navires armés au commerce ou à la plaisance, le titulaire d'un CFBS doit, tous les cinq ans, pour prouver le maintien de sa compétence professionnelle, avoir suivi une formation de recyclage. |

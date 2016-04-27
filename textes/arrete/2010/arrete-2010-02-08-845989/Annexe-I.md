@@ -1,6 +1,6 @@
 # Article Annexe I
 
-DOCUMENTS À FOURNIR PAR LE MARIN RÉPONDANT AUX CONDITIONS DE L'ARTICLE 19 DU DÉCRET N° 2015-723 DU 24 JUIN 2015 SUSVISÉ DANS SA DÉCLARATION ÉCRITE RENOUVELABLE CHAQUE ANNÉE
+DOCUMENTS À FOURNIR PAR LE MARIN RÉPONDANT AUX CONDITIONS DE L'ARTICLE 19 DU DÉCRET N° 2015-723 DU 24 JUIN 2015 RELATIF A LA DELIVRANCE DES TITRES DE FORMATION PROFESSIONNELLE MARITIME ET AUX CONDITIONS D'EXERCICE DE FONCTIONS A BORD DES NAVIRES ARMES AU COMMERCE, A LA PLAISANCE, A LA PECHE ET AUX CULTURES MARINES DANS SA DÉCLARATION ÉCRITE RENOUVELABLE CHAQUE ANNÉE
 
 1° Déclaration écrite et signée par le déclarant ;
 
@@ -10,7 +10,7 @@ DOCUMENTS À FOURNIR PAR LE MARIN RÉPONDANT AUX CONDITIONS DE L'ARTICLE 19 DU D
 
 4° Preuve des qualifications professionnelles du déclarant ou, dans le cas où la formation ou la profession ne sont pas réglementées dans l'Etat membre, une preuve de l'exercice de son activité pendant au moins une année au cours des dix dernières années ;
 
-5° Certificat d'aptitude physique à la navigation ;
+5° Certificat médical d'aptitude à la navigation ;
 
 6° Document établissant le niveau de connaissance linguistique conformément à l'article 12.
 
