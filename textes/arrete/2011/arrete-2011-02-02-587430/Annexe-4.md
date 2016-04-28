@@ -1,6 +1,8 @@
 # Article Annexe 4
 
-Liste des sociétés installatrices habilitées pour l'installation et le contrôle de fonctionnement des appareils AIS
+LISTE DES SOCIÉTÉS INSTALLATRICES HABILITÉES POUR L'INSTALLATION ET LE CONTRÔLE
+
+DE FONCTIONNEMENT DES APPAREILS AIS INTÉRIEUR
 
 |
 
@@ -24,7 +26,7 @@ AEMI
 
 |
 
-56, avenue Pierre-Berthelot, 14000 Caen
+56, avenue Pierre-Berthelot-14000 Caen
 
 |
 
@@ -40,11 +42,15 @@ ATEYS
 
 |
 
-35, rue de Valmy, 76600 Le Havre
+35, rue de Valmy-76600 Le Havre
 
 |
 
-Nauticast, Furuno, Comnav
+Nauticast, Furuno, Comnav,
+
+Sailor 6280-6281 AIS system
+
+(classA/inland AIS)
 
 |
 
@@ -56,7 +62,7 @@ BARILLEC SAS
 
 |
 
-ZI du Moros, 29990 Concarneau
+ZI du Moros-29990 Concarneau
 
 |
 
@@ -72,11 +78,11 @@ CLAUDIN SERVICE
 
 |
 
-41, avenue Henri-Barbusse, 69250 Albigny-sur-Saône
+41, avenue Henri-Barbusse-69250 Albigny-sur-Saône |
 
-|
+Orolia type Z 601,
 
-Orolia type Z 601, McMurdo Smartfind M5 Class A/inland AIS
+Mc Murdo Smartfind M5 Class A/inland AIS
 
 |
 
@@ -84,13 +90,11 @@ Orolia type Z 601, McMurdo Smartfind M5 Class A/inland AIS
 
 |
 
-Etablissement
-
-Max Guerdin et fils
+Etablissement Max Guerdin et fils
 
 |
 
-13, rue de Clermont, 60200 Compiègne
+13, rue de Clermont-60200 Compiègne
 
 |
 
@@ -106,7 +110,7 @@ ETNA
 
 |
 
-31, rue des Ponts, 76620 Le Havre
+31, rue des Ponts-76620 Le Havre
 
 |
 
@@ -122,7 +126,7 @@ FLUVIAL ELEC
 
 |
 
-4, quai Fernand-Saguet, 94700 Maisons-Alfort
+4, quai Fernand-Saguet-94700 Maisons Alfort
 
 |
 
@@ -138,11 +142,13 @@ FLUVIATECH
 
 |
 
-4, rue Jules-Verne, Eurozone Forbach, 57600 Forbach
+4, rue Jules-Verne-Eurozone Forbach-57600 Forbach
 
 |
 
-Simrad V5035 (class A/ inland AIS)
+Simrad V5035
+
+(class A/inland AIS)
 
 |
 
@@ -154,7 +160,7 @@ G2HE
 
 |
 
-3, rue Sophie-Germain, 75014 Paris
+3, rue Sophie-Germain-75014 Paris
 
 |
 
@@ -170,7 +176,7 @@ MAP Marine
 
 |
 
-1, quai de la Grande-Bigue, bât. B, 13002 Marseille
+1, quai de la Grande-Bigue-Bat B.-13002 Marseille
 
 |
 
@@ -186,7 +192,7 @@ PROMAT
 
 |
 
-68, boulevard Jules-Durand, 76056 Le Havre
+68, boulevard Jules-Durand-76056 Le Havre
 
 |
 
@@ -202,7 +208,7 @@ SIECMI
 
 |
 
-3, quai Est, 29900 Concarneau
+3, quai Est-29900 Concarneau
 
 |
 
@@ -218,7 +224,7 @@ Sud Communication
 
 |
 
-95, rue Rajol, espace Fréjorgues Est, 34130 Mauguio
+95, rue Rajol-espace Fréjorgues Est-34130 Mauguio
 
 |
 
@@ -234,11 +240,15 @@ THEMYS
 
 |
 
-Quartier de la Chaume, CD 45, pont de l'Etoile, 13360 Roquevaire
+Quartier de la Chaume-CD 45-pont de l'Etoile-13360 Roquevaire
 
 |
 
-SAM Electronics, Saab R4 IAIS
+SAM Electronics, Saab R4 IAIS,
+
+Sailor 6280-6281 AIS system
+
+(classA/inland AIS)
 
 |
 
