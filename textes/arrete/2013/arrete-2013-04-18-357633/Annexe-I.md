@@ -1,26 +1,20 @@
 # Article Annexe I
 
-Assignation comptable des dépenses de rémunération des personnels de l'état
-
-(Ministères civils)
+ASSIGNATION COMPTABLE DES DÉPENSES DE RÉMUNÉRATION DES PERSONNELS DE L'ÉTAT (MINISTÈRES CIVILS)
 
 RÉSIDENCE ADMINISTRATIVE DE L'ORDONNATEUR
 
-(dans l'ordre alphabétique des régions)
+ou du responsable d'unité opérationnelle de programme
 
 |
 
-COMPTABLE PUBLIC ASSIGNATAIRE DE LA PAYE
+DIRECTION DES FINANCES PUBLIQUES CHARGÉE DE LA PAIE
 
 sans ordonnancement préalable
 
 |
 
-Résidence administrative de l'ordonnateur (dans l'ordre alphabétique des régions)
-
-|
-
-Comptable public assignataire de la paye sans ordonnancement préalable
+Alsace, Champagne-Ardenne et Lorraine
 
 |
 
@@ -28,55 +22,7 @@ Bas-Rhin, Haut-Rhin
 
 |
 
-Directeur régional des finances publiques d'Alsace et du département du Bas-Rhin
-
-|
-
-Dordogne, Gironde, Landes, Lot-et-Garonne, Pyrénées-Atlantiques
-
-|
-
-Directeur régional des finances publiques d'Aquitaine et du département de la Gironde
-
-|
-
-Allier, Cantal, Puy-de-Dôme, Haute-Loire
-
-|
-
-Directeur régional des finances publiques d'Auvergne et du département du Puy-de-Dôme
-
-|
-
-Calvados, Manche, Orne
-
-|
-
-Directeur régional des finances publiques de Basse-Normandie et du département du Calvados
-
-|
-
-Côte-d'Or, Nièvre, Saône-et-Loire, Yonne
-
-|
-
-Directeur régional des finances publiques de Bourgogne et du département de la Côte-d'Or
-
-|
-
-Côtes-d'Armor, Finistère, Ille-et-Vilaine, Morbihan
-
-|
-
-Directeur régional des finances publiques de Bretagne et du département d'Ille-et-Vilaine
-
-|
-
-Cher, Eure-et-Loir, Indre, Indre-et-Loire, Loir-et-Cher, Loiret
-
-|
-
-Directeur départemental des finances publiques d'Indre-et-Loire
+Bas-Rhin
 
 |
 
@@ -84,103 +30,7 @@ Ardennes, Aube, Marne, Haute-Marne
 
 |
 
-Directeur régional des finances publiques de Champagne-Ardenne et du département de la Marne
-
-|
-
-Corse-du-Sud, Haute-Corse
-
-|
-
-Directeur régional des finances publiques de Corse et du département de Corse-du-Sud
-
-|
-
-Doubs, Jura, Haute-Saône, Territoire de Belfort
-
-|
-
-Directeur régional des finances publiques de Franche-Comté et du département du Doubs
-
-|
-
-Guadeloupe
-
-|
-
-Directeur régional des finances publiques de Martinique
-
-|
-
-Guyane
-
-|
-
-Directeur régional des finances publiques de Martinique
-
-|
-
-Eure, Seine-Maritime
-
-|
-
-Directeur régional des finances publiques de Haute-Normandie et du département de Seine-Maritime
-
-|
-
-Paris
-
-|
-
-Directeur régional des finances publiques d'Ile-de-France et du département de Paris
-
-|
-
-Seine-et-Marne, Val-de-Marne
-
-|
-
-Directeur départemental des finances publiques du Val-de-Marne
-
-|
-
-Yvelines, Essonne
-
-|
-
-Directeur départemental des finances publiques des Yvelines
-
-|
-
-Hauts-de-Seine, Val-d'Oise
-
-|
-
-Directeur départemental des finances publiques des Hauts-de-Seine
-
-|
-
-Seine-Saint-Denis
-
-|
-
-Directeur départemental des finances publiques de Seine-Saint-Denis
-
-|
-
-Aude, Gard, Hérault, Lozère, Pyrénées-Orientales
-
-|
-
-Directeur régional des finances publiques de Languedoc-Roussillon et du département de l'Hérault
-
-|
-
-Corrèze, Creuse, Haute-Vienne
-
-|
-
-Directeur régional des finances publiques du Limousin et du département de la Haute-Vienne
+Marne
 
 |
 
@@ -188,47 +38,27 @@ Meurthe-et-Moselle, Meuse, Moselle, Vosges
 
 |
 
-Directeur régional des finances publiques de Lorraine et du département de la Moselle
+Moselle
 
 |
 
-Martinique
+Aquitaine, Limousin et Poitou-Charentes
 
 |
 
-Directeur régional des finances publiques de Martinique
+Dordogne, Gironde, Landes, Lot-et-Garonne, Pyrénées-Atlantiques
 
 |
 
-Ariège, Aveyron, Haute-Garonne, Gers, Lot, Hautes-Pyrénées, Tarn, Tarn-et-Garonne
+Gironde
 
 |
 
-Directeur régional des finances publiques de Midi-Pyrénées et du département de la Haute-Garonne
+Corrèze, Creuse, Haute-Vienne
 
 |
 
-Nord, Pas-de-Calais
-
-|
-
-Directeur régional des finances publiques de Nord - Pas-de-calais et du département du Nord
-
-|
-
-Loire-Atlantique, Maine-et-Loire, Mayenne, Sarthe, Vendée
-
-|
-
-Directeur régional des finances publiques des Pays de la Loire et du département de Loire-Atlantique
-
-|
-
-Aisne, Oise, Somme
-
-|
-
-Directeur régional des finances publiques de Picardie et du département de la Somme
+Haute-Vienne
 
 |
 
@@ -236,31 +66,19 @@ Charente, Charente-Maritime, Deux-Sèvres, Vienne
 
 |
 
-Directeur régional des finances publiques du Limousin et du département de la Haute-Vienne
+Haute-Vienne
 
 |
 
-Alpes-de-Haute-Provence, Hautes-Alpes, Bouches-du-Rhône, Vaucluse
+Auvergne et Rhône-Alpes
 
 |
 
-Directeur régional des finances publiques de Provence-Alpes-Côte d'Azur et du département des Bouches-du-Rhône
+Allier, Cantal, Puy-de-Dôme, Haute-Loire
 
 |
 
-Alpes-Maritimes, Var
-
-|
-
-Directeur départemental des finances publiques des Alpes-Maritimes
-
-|
-
-Réunion
-
-|
-
-Directeur régional des finances publiques de La Réunion
+Puy-de-Dôme
 
 |
 
@@ -268,7 +86,7 @@ Ain, Loire, Rhône
 
 |
 
-Directeur régional de la région Rhône-Alpes et du département du Rhône
+Rhône
 
 |
 
@@ -276,6 +94,254 @@ Ardèche, Drôme, Isère, Savoie, Haute-Savoie
 
 |
 
-Directeur départemental des finances publiques de l'Isère
+Isère
+
+|
+
+Bourgogne et Franche-Comté
+
+|
+
+Côte-d'Or, Nièvre, Saône-et-Loire, Yonne
+
+|
+
+Côte-d'Or
+
+|
+
+Doubs, Jura, Haute-Saône, Territoire de Belfort
+
+|
+
+Doubs
+
+|
+
+Bretagne
+
+|
+
+Côtes-d'Armor, Finistère, Ille-et-Vilaine, Morbihan
+
+|
+
+Ille-et-Vilaine
+
+|
+
+Centre-Val de Loire
+
+|
+
+Cher, Eure-et-Loir, Indre, Indre-et-Loire, Loire-et-Cher, Loiret
+
+|
+
+Indre-et-Loire
+
+|
+
+Corse
+
+|
+
+Corse-du-Sud, Haute-Corse
+
+|
+
+Corse-du-Sud
+
+|
+
+Ile-de-France
+
+|
+
+Paris
+
+|
+
+Paris
+
+|
+
+Seine-et-Marne, Val-de-Marne
+
+|
+
+Val-de-Marne
+
+|
+
+Yvelines, Essonne
+
+|
+
+Yvelines
+
+|
+
+Hauts-de-Seine, Val-d'Oise
+
+|
+
+Hauts-de-Seine
+
+|
+
+Seine-Saint-Denis
+
+|
+
+Seine-Saint-Denis
+
+|
+
+Languedoc-Roussillon et Midi-Pyrénées
+
+|
+
+Aude, Gard, Hérault, Lozère, Pyrénées-Orientales
+
+|
+
+Hérault
+
+|
+
+Ariège, Aveyron, Haute-Garonne, Gers, Lot, Hautes-Pyrénées, Tarn, Tarn-et-Garonne
+
+|
+
+Haute-Garonne
+
+|
+
+Nord-Pas-de-Calais et Picardie
+
+|
+
+Nord, Pas-de-Calais
+
+|
+
+Nord
+
+|
+
+Aisne, Oise, Somme
+
+|
+
+Somme
+
+|
+
+Normandie
+
+|
+
+Calvados, Manche, Orne
+
+|
+
+Calvados
+
+|
+
+Eure, Seine-Maritime
+
+|
+
+Seine-Maritime
+
+|
+
+Pays de la Loire
+
+|
+
+Loire-Atlantique, Maine-et-Loire, Mayenne, Sarthe, Vendée
+
+|
+
+Loire-Atlantique
+
+|
+
+Provence-Alpes-Côte d'Azur
+
+|
+
+Alpes-de-Haute-Provence, Hautes-Alpes, Bouches-du-Rhône, Vaucluse
+
+|
+
+Bouches-du-Rhône
+
+|
+
+Alpes-Maritimes, Var
+
+|
+
+Alpes-Maritimes
+
+|
+
+Collectivités d'outre-mer régies par l'article 73 de la Constitution
+
+|
+
+Guadeloupe
+
+|
+
+Martinique
+
+|
+
+Guyane
+
+|
+
+Martinique
+
+|
+
+Martinique
+
+|
+
+Martinique
+
+|
+
+La Réunion
+
+|
+
+La Réunion
+
+|
+
+Collectivités d'outre-mer régies par l'article 74 de la Constitution
+
+|
+
+Saint-Barthélemy
+
+|
+
+Martinique
+
+|
+
+Saint-Martin
+
+|
+
+Martinique
 
 |
