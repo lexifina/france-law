@@ -238,6 +238,12 @@ Alinéa 3 de l'article R. 258.
 
 |
 
+1A |
+
+Délivrance et retrait d'agrément pour l'organisation de l'épreuve théorique générale du permis de conduire. |
+
+L. 221-4 et R. 221-3-4 |
+
 2
 
 |
