@@ -1,14 +1,14 @@
 # Article Annexe 311-1.A
 
-Remarque générale pour l'annexe 311-1-A : par règles SOLAS, on entend la version consolidée de SOLAS de 2009.
+Remarque générale pour l'annexe A : par règles SOLAS, on entend la convention SOLAS modifiée.
 
-Remarque générale pour l'annexe 311-1-A : Sous certains noms d'article, la colonne 5 indique certaines variantes de produits possibles répondant au même nom d'article. Les variantes de produits sont mentionnées de manière indépendante et séparées les unes des autres par une ligne pointillée. Aux fins de certification, seule la variante de produit concernée, le cas échéant, doit être choisie (exemple : A.1/3.3).
+Remarque générale pour l'annexe A : Sous certains noms d'article, la colonne 5 indique certaines variantes de produits possibles répondant au même nom d'article. Les variantes de produits sont mentionnées de manière indépendante et séparées les unes des autres par une ligne pointillée. Aux fins de certification, seule la variante de produit concernée, le cas échéant, doit être choisie (exemple : A. 1/3.3).
 
 Sigles et abréviations
 
-A.1 : amendement 1 concernant des documents normatifs autres que ceux de l'OMI.
+A. 1 : amendement 1 concernant des documents normatifs autres que ceux de l'OMI.
 
-A.2 : amendement 2 concernant des documents normatifs autres que ceux de l'OMI.
+A. 2 : amendement 2 concernant des documents normatifs autres que ceux de l'OMI.
 
 AC : amendement rectificatif concernant des documents normatifs autres que ceux de l'OMI.
 
@@ -44,7 +44,7 @@ ISO (International Standardisation Organisation) : Organisation internationale d
 
 UIT : Union internationale des télécommunications.
 
-LSA (Life Saving Appliance) : engin de sauvetage.
+LSA (Life saving appliance) : engin de sauvetage.
 
 Marpol : convention internationale pour la prévention de la pollution par les navires.
 
@@ -54,7 +54,7 @@ MSC : comité de la sécurité maritime.
 
 NOx : oxydes d'azote.
 
-Systèmes O2/HC : systèmes oxygène/hydrocarbure.
+Systèmes O2/ HC : systèmes oxygène/ hydrocarbure.
 
 SOLAS : convention internationale pour la sauvegarde de la vie humaine en mer.
 
