@@ -1,120 +1,300 @@
 # Article Annexe I
 
-RÉFÉRENTIEL RELATIF À LA FORMATION À LA PARTICIPATION DU PERSONNEL DE L'ABATTOIR AU CONTRÔLE DE LA PRODUCTION DE VIANDE DE VOLAILLES ET DE LAGOMORPHES
+RÉFÉRENTIEL RELATIF À LA FORMATION À LA PARTICIPATION DU PERSONNEL DE L'ABATTOIR
 
-L'objectif général de la formation est d'être en capacité de participer au contrôle ante mortem des animaux, au tri de la qualité sanitaire des carcasses et au tri des sous-produits, dans le cadre des contrôles officiels.
+AU CONTRÔLE DE LA PRODUCTION DE VIANDE DE VOLAILLES ET DE LAGOMORPHES
+
+L'objectif général de la formation est d'être en capacité de participer au contrôle ante mortem, au contrôle post mortem des carcasses et des abats et au tri des sous-produits, dans le cadre des contrôles officiels.
 
 Pour ce faire, les modules de formation permettent d'atteindre les objectifs suivants pour le stagiaire :
 
-a) Connaître l'environnement réglementaire, notamment en termes de sécurité sanitaire des aliments et d'hygiène générale ;
+a) Connaître l'environnement réglementaire, notamment en matière de sécurité sanitaire des aliments et d'hygiène générale ;
 
-b) Identifier ses responsabilités en matière de contrôle ante mortem, de retrait des carcasses manifestement impropres à la consommation humaine et de tri des sous-produits, les limites de ce rôle et son positionnement face aux agents de l'Etat en charge de la protection des populations ;
+b) Identifier les responsabilités en matière de contrôle de l'information sur la chaîne alimentaire (ICA), de contrôle à réception des animaux vivants, de contrôle post mortem des carcasses et des abats et de tri des sous-produits ;
 
-c) Savoir identifier sur les documents de transmission de l'information sur la chaîne alimentaire les informations donnant lieu à des préoccupations sanitaires concernant les lots destinés à être abattus ;
+c) Identifier sur les documents de transmission de l'information sur la chaîne alimentaire (ICA), les informations donnant lieu à des préoccupations sanitaires et de protection animale, concernant les lots destinés à être abattus ;
 
 d) Connaître les points de contrôle à effectuer à réception des lots d'animaux ;
 
-e) Connaître les critères d'alerte tant à la lecture des documents de transmission de l'information sur la chaîne alimentaire qu'à réception des animaux et la conduite à tenir ;
+e) Connaître les critères d'alerte relatifs à l'information sur la chaîne alimentaire et au contrôle à réception des animaux devant être notifiés aux services officiels et la conduite à tenir ;
 
-f) Savoir reconnaître, sur support visuel et sur carcasses et abats, les anomalies justifiant un retrait des carcasses et abats manifestement impropres à la consommation humaine de la chaîne d'abattage. Les anomalies à reconnaître portent sur les anomalies d'odeur, de couleur, de conformation, d'aspect, dues ou non au processus d'abattage ;
+f) Savoir reconnaître les anomalies justifiant un retrait total ou partiel des viandes (carcasses et abats) manifestement impropres à la consommation humaine de la chaîne d'abattage ;
 
 g) Savoir identifier, sur carcasses et abats, les anomalies ne justifiant pas un retrait de la chaîne d'abattage ;
 
 h) Savoir classer les sous-produits animaux en catégorie 2 ou 3 en lien avec les anomalies identifiées ;
 
-i) Connaître les règles d'hygiène liées au tri de la qualité sanitaire des carcasses ;
+i) Connaître les critères d'alerte relatifs au contrôle post mortem des carcasses et des abats devant être notifiés aux services officiels et la conduite à tenir ;
 
-j) Connaître les critères d'alerte relatifs au tri de la qualité sanitaire des carcasses nécessitant d'alerter le vétérinaire officiel ou l'auxiliaire officiel ;
+j) Connaître les règles d'hygiène liées au contrôle post mortem des carcasses et des abats ;
 
 k) Connaître les modalités selon lesquelles le personnel des abattoirs est évalué par le vétérinaire officiel ;
 
 l) Savoir enregistrer les retraits des carcasses sur chaîne réalisés dans la journée.
 
-La formation des personnels destinés à participer aux opérations de contrôle des viandes de volailles et de lagomorphes comprend :
+La formation des personnels des abattoirs destinés à participer aux opérations de contrôle de la production de viande de volailles et de lagomorphes comprend :
 
-I. Partie théorique
+- lorsque les stagiaires sont formés pour la première fois :
 
-La partie théorique de la formation comprend les points suivants :
+- le module commun théorique (décrit en partie A de la présente annexe) ;
 
-1. Connaissance de l'environnement réglementaire : présentation du paquet hygiène et des principaux règlements fixant les exigences en termes de sécurité sanitaire des denrées alimentaires et les règles d'organisation de l'inspection des viandes, présentation des textes français relatifs à l'inspection sanitaire avant et après abattage (1 heure).
+- les modules spécifiques (décrits en parties B et C la présente annexe) correspondant aux opérations auxquelles ils sont amenés à participer ;
 
-2. Connaissance des risques sanitaires en abattoir : présentation des principaux dangers dans la filière avicole, des sources habituelles de contaminations par des agents bactériens et des moyens de maîtrise des dangers bactériologiques ; connaissance des étapes clés du process d'abattage et des moyens de maîtrise à mettre en œuvre, gestion des contaminations fécales (1 heure).
+- lors de renouvellement de la formation :
 
-3. Identification du rôle du responsable des retraits : définition des tâches des opérateurs aux trois étapes de l'inspection (contrôle fiche information sur la chaîne alimentaire , contrôles ante mortem et post mortem), définition du positionnement de l'opérateur face aux services vétérinaires (30 minutes).
+- une présentation de la réglementation actualisée ;
 
-4. Connaissance des deux temps de l'inspection ante mortem (2 heures) :
+- les modules spécifiques (décrits en parties B et C de la présente annexe) correspondant aux opérations auxquelles ils sont amenés à participer.
 
-― identification des informations pertinentes sur la fiche information sur la chaîne alimentaire (ICA) ;
+La formation doit être adaptée aux espèces et catégories d'animaux abattus dans les établissements où sont employés les opérateurs en formation.
 
-― points de contrôle à effectuer à réception des lots de volailles ;
+A. - Le module commun théorique
 
-― critères d'alerte fiche ICA et réception des animaux.
-
-5. Réalisation d'une inspection post mortem (2 h 30) :
-
-― rôle de l'opérateur chargé du tri des carcasses non conformes : définitions des postes de tri, objectifs à atteindre, difficultés et importance des tâches ;
-
-― reconnaissance des anomalies justifiant un retrait : présentation du référentiel lésions, anomalies d'odeur, couleur, conformation, aspect, anomalies portant sur les viscères ;
-
-― connaissance des règles d'hygiène liées aux retraits totaux et partiels ;
-
-― connaissance des critères d'alerte des services vétérinaires ;
-
-― enregistrement et traçabilité des retraits.
-
-6. Réalisation du tri des sous-produits : classification des sous produits dans les catégories C2 et C3 en lien avec les anomalies identifiées (30 minutes).
-
-7. Connaissance des modalités d'évaluation du personnel par les services vétérinaires (30 minutes).
-
-II. - Partie pratique
-
-La partie pratique de la formation se déroule sur une demi-journée et inclut les points suivants :
-
-1. Examen pratique des fiches ICA.
-
-2. Mise en situation à réception et présentation de la méthodologie de contrôle.
-
-3. Identification des motifs de tri des carcasses : cette rubrique est directement dépendante des pièces anatomiques disponibles au moment du stage.
-
-4. Réalisation du tri des sous-produits.
-
-A l'issue de la formation, l'organisme formateur délivre au stagiaire un document permettant d'attester de cette formation comprenant :
-
-― la date de la formation suivie ;
-
-― le nom et la signature du formateur.
-
-Chronologie et volumes horaires impartis
-
-1 heure
+POINTS DEVANT ÊTRE ABORDÉS
 
 |
 
-Contexte réglementaire
+ATTENDUS
 
 |
 
-1 heure
+DURÉE MINIMALE
+
+de formation
 
 |
 
-Risques sanitaires en abattoir de volailles
+Connaissance de l'environnement réglementaire
 
 |
 
-30 minutes
+Présentation du "paquet hygiène" et des principaux règlements européens et textes nationaux fixant les exigences en matière de sécurité sanitaire des denrées alimentaires
+
+Présentation du principe de participation du personnel aux tâches de contrôle officiel
+
+Présentation des principes de l'ICA descendante (depuis l'élevage vers l'abattoir) et de l'ICA ascendante (depuis l'abattoir vers l'élevage)
+
+Présentation des règles d'organisation de l'inspection des viandes
 
 |
 
-Rôle du responsable de tri
+2 h
 
 |
 
-2 heures
+Connaissance des risques sanitaires en abattoir
 
 |
 
-Inspection ante mortem
+Présentation des principaux dangers dans les filières avicole et/ ou cunicole, des sources habituelles de contaminations et des moyens de maîtrise des dangers, en particulier bactériologiques
+
+Présentation des étapes clés du process d'abattage, des moyens de maîtrise à mettre en œuvre et des modalités de gestion des contaminations fécales
+
+|
+
+Identification du rôle des responsables des contrôles et positionnement de l'opérateur face aux services officiels
+
+|
+
+Définition des tâches des opérateurs aux trois étapes de l'inspection (contrôle de l'ICA, contrôles à réception et post mortem) : définitions des postes, objectifs à atteindre, difficultés des tâches
+
+Présentation de l'articulation entre les trois étapes du contrôle
+
+Définition du positionnement des opérateurs face aux services officiels
+
+|
+
+B. - Le module spécifique du contrôle de l'information sur la chaîne alimentaire (ICA)
+
+Objectifs :
+
+- connaître le rôle clé de l'ICA dans le système d'inspection sanitaire ;
+
+- savoir analyser les supports de transmission de l'ICA ;
+
+- connaître les critères d'alerte relatifs à l'ICA et la conduite à tenir.
+
+POINTS DEVANT ÊTRE ABORDÉS
+
+|
+
+ATTENDUS
+
+|
+
+DURÉE MINIMALE
+
+de formation
+
+|
+
+Partie
+
+théorique
+
+|
+
+Les modèles de support de l'information sur la chaîne alimentaire
+
+|
+
+Présentation des modèles en vigueur, en cohérence avec le public formé
+
+|
+
+1 h 30
+
+|
+
+Les critères d'alerte
+
+|
+
+Présentation des critères d'alerte, conformément aux instructions techniques en vigueur
+
+Présentation des principes de notification des critères d'alerte de l'exploitant vers le service officiel
+
+|
+
+Conduite à tenir en cas de critères d'alerte
+
+|
+
+Présentation de la conduite à tenir en cas d'identification de critères d'alerte, conformément aux instructions techniques en vigueur
+
+|
+
+Notion d'enregistrement du contrôle
+
+|
+
+Description des modalités pratiques de l'enregistrement associé au contrôle de l'ICA
+
+|
+
+Connaissance des modalités de l'évaluation du personnel contrôlant l'ICA par le service officiel
+
+|
+
+Présentation du principe de cette évaluation et de ses conséquences
+
+|
+
+Partie
+
+pratique
+
+|
+
+Examen pratique de contrôle de fiches ICA
+
+|
+
+Illustrations des différents cas d'alerte possibles au contrôle de l'ICA
+
+|
+
+C. - Le module spécifique du contrôle à réception des animaux vivants
+
+et du contrôle post mortem des carcasses et abats et au tri des sous-produits
+
+Objectifs :
+
+Pour le contrôle à réception des animaux vivants :
+
+- connaître les contrôles à effectuer à réception des lots d'animaux :
+
+- connaître les critères d'alerte à réception des lots d'animaux et la conduite à tenir.
+
+Pour le contrôle post mortem des carcasses et abats et au tri des sous-produits :
+
+- savoir identifier, sur les carcasses et les abats, les anomalies justifiant un retrait des carcasses et abats ;
+
+- connaître les critères d'alerte relatifs au retrait des carcasses et abats et la conduite à tenir ;
+
+- savoir classer les sous-produits animaux en catégories et sous-catégories 2 ou 3 en lien avec les anomalies identifiées ;
+
+- connaître les modalités d'évaluation du personnel par les services vétérinaires.
+
+POINTS DEVANT ÊTRE ABORDÉS
+
+|
+
+ATTENDUS
+
+|
+
+DURÉE MINIMALE
+
+de formation
+
+|
+
+Partie théorique contrôle à réception des animaux vivants
+
+|
+
+Aspects réglementaires
+
+|
+
+Présentation des points de contrôle réglementaires à effectuer à réception des lots de volailles
+
+|
+
+1 h 30
+
+|
+
+Les critères d'alerte à réception des animaux
+
+|
+
+Présentation des critères d'alerte conformément aux instructions techniques en vigueur
+
+|
+
+Conduite à tenir en cas de critère d'alerte
+
+|
+
+Présentation de la conduite à tenir en cas d'identification de critères d'alerte, conformément aux instructions techniques en vigueur
+
+|
+
+Notion d'enregistrement du contrôle
+
+|
+
+Décrire les modalités pratiques de réalisation de l'enregistrement du contrôle à réception
+
+|
+
+Connaissance des modalités de réalisation du tri des sous-produits
+
+|
+
+Présentation de la classification des sous produits dans les catégories et sous-catégories C2 et C3 en lien avec les anomalies identifiées
+
+|
+
+Connaissance des modalités d'évaluation du personnel effectuant le contrôle à réception par le service officiel
+
+|
+
+Présentation du principe de cette évaluation et de ses conséquences
+
+|
+
+Partie théorique contrôle post mortem des carcasses et abats et au tri des sous-produits
+
+|
+
+Bonnes pratiques d'hygiène aux étapes de retrait et de tri des carcasses et abats manifestement impropres à la consommation humaine
+
+|
+
+Présentation de la notion de "bonnes pratiques d'hygiène" générales et spécifiques aux postes de retrait
 
 |
 
@@ -122,32 +302,92 @@ Inspection ante mortem
 
 |
 
-Inspection post mortem
+Description des anomalies associées aux motifs de retrait réglementaires et conduite à tenir
 
 |
 
-30 minutes
+Présentation des principes de l'inspection post mortem et la notion de viande impropre à la consommation
+
+Présentation de la liste harmonisée des anomalies à l'origine de retraits (totaux ou partiels) de la consommation humaine
+
+Présentation illustrée des anomalies justifiant un retrait : présentation du référentiel lésions
+
+Présentation de la conduite à tenir pour chaque type d'anomalie
 
 |
 
-Tri des sous-produits
+Les critères d'alerte en post-mortem
 
 |
 
-30 minutes
+Présentation des critères d'alerte conformément aux instructions techniques en vigueur
 
 |
 
-Evaluation des opérateurs par le VO
+Conduite à tenir en cas de critère d'alerte
 
 |
 
-3 heures
+Présentation de la conduite à tenir en cas d'identification de critères d'alerte, conformément aux instructions techniques en vigueur
 
 |
 
-Volet pratique : mise en situation
+Connaissance des modalités de réalisation du tri des sous-produits
 
 |
 
-A
+Présentation de la classification des sous produits dans les catégories et sous-catégories C2 et C3 en lien avec les anomalies identifiées
+
+|
+
+Enregistrement et traçabilité des retraits
+
+|
+
+Présentation des modalités pratiques d'enregistrement et de traçabilité des retraits
+
+|
+
+Connaissance des modalités d'évaluation du personnel par le service officiel
+
+|
+
+Présentation du principe de cette évaluation et de ses conséquences
+
+|
+
+Partie
+
+pratique
+
+|
+
+Méthodologie de contrôle à partir d'exemples concrets
+
+|
+
+Mise en situation du contrôle à réception des animaux vivants
+
+Mise en situation du contrôle post mortem des carcasses et abats et au tri des sous-produits et de tri en post mortem
+
+|
+
+3 h
+
+|
+
+Cas particulier
+
+Lorsque la formation ne concerne que des opérateurs des salles d'abattage agréées à la ferme (SAAF) ou des abattoirs agréés à la ferme n'abattant que les animaux issus de leur propre élevage, la durée de formation totale peut être réduite à sept heures.
+
+Attestation de formation
+
+A l'issue de la formation, l'organisme formateur délivre au stagiaire un document permettant d'attester de cette formation comprenant :
+
+- les modules de formation suivis ;
+
+- les catégories d'animaux visés par la formation suivie : volailles maigres, volailles grasses ou rongeurs et lagomorphes ;
+
+- la date de la formation suivie ;
+
+- le nom et la signature du formateur.
