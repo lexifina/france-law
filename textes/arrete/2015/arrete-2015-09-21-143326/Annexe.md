@@ -460,7 +460,7 @@ Ministère de l'écologie, du développement durable et de l'énergie |
 
 PROGRAMME D'ENQUÊTES STATISTIQUES DES SERVICES PUBLICS AUPRÈS DES MÉNAGES ET DES COLLECTIVITÉS TERRITORIALES POUR 2016
 
-L'avis d'opportunité, l'avis de conformité ainsi que le descriptif des enquêtes sont disponibles sur le site du CNIS (www.cnis.fr).
+L'avis d'opportunité, l'avis de conformité ainsi que le descriptif des enquêtes sont disponibles sur le site du CNIS ( www.cnis.fr/).
 
 2. Enquête d'intérêt général
 
@@ -489,6 +489,70 @@ INTITULÉ DU PRODUCTEUR |
 MINISTÈRE OU MINISTÈRE DE TUTELLE
 
 le cas échéant |
+
+INSEE |
+
+Institut national de la statistique et des études économiques |
+
+Ministère des finances et des comptes publics
+
+Ministère de l'économie, de l'industrie et du numérique |
+
+PROGRAMME D'ENQUÊTES STATISTIQUES DES SERVICES PUBLICS AUPRÈS DES MÉNAGES ET DES COLLECTIVITÉS TERRITORIALES POUR 2016
+
+L'avis d'opportunité, l'avis de conformité ainsi que le descriptif des enquêtes sont disponibles sur le site du CNIS ( www.cnis.fr/).
+
+2. Enquête d'intérêt général et obligatoire
+
+1. A.-Enquête d'initiative nationale
+
+DÉMOGRAPHIE ET QUESTIONS SOCIALES |
+
+PÉRIODICITÉ |
+
+PRODUCTEUR |
+
+Conditions de vie |
+
+|
+
+|
+
+Plate-forme annuelle CAMME* sur le "Bien-être"
+
+* Enquête méthodologique de conjoncture auprès des ménages mensuelle (CAMME). |
+
+Ponctuelle |
+
+INSEE |
+
+SERVICES PUBLICS ET SERVICES AUX PUBLICS |
+
+PÉRIODICITÉ |
+
+PRODUCTEUR |
+
+Panel d'élèves du premier degré recruté en 2011 |
+
+Annuelle |
+
+DEPP |
+
+Liste des producteurs
+
+SIGLE DU PRODUCTEUR |
+
+INTITULÉ DU PRODUCTEUR |
+
+MINISTÈRE OU MINISTÈRE DE TUTELLE
+
+le cas échéant |
+
+DEPP |
+
+Direction de l'évaluation, de la prospective et de la performance |
+
+Ministère de l'éducation nationale, de l'enseignement supérieur et de la recherche |
 
 INSEE |
 
