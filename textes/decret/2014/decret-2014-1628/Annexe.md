@@ -10,6 +10,8 @@ Agence de l'environnement et de la maîtrise de l'énergie (ADEME).
 
 Agence nationale pour la gestion des déchets radioactifs (ANDRA).
 
+Agence nationale de santé publique (ANSP).
+
 Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail (ANSES).
 
 Agence nationale de sécurité du médicament et des produits de santé (ANSM).
@@ -51,8 +53,6 @@ Institut national de la recherche agronomique (INRA).
 Institut national de la santé et de la recherche médicale (INSERM).
 
 Institut national de transfusion sanguine (INTS).
-
-Institut de veille sanitaire (InVS).
 
 Institut de recherche pour le développement (IRD).
 
