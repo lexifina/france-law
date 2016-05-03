@@ -1,0 +1,9 @@
+# Réponse à la question n° 89201
+
+- Question : [89201](89201.md) — Question n° 89201 — perspectives
+
+## Réponse
+
+*JO du 2016-05-03*
+
+La ministre de la culture et de la communication est consciente du fait que, dans le domaine du spectacle vivant et spécialement dans le secteur des variétés, des rachats de salles de spectacles sont réalisés. Face à ces évolutions, l'État a pris, au cours des derniers mois, un certain nombre d'initiatives propres à mieux cerner les réalités de cette situation. Les services du ministère de la culture et de la communication, avec l'appui du Centre national de la chanson, des variétés et du jazz (CNV), achèvent actuellement une étude qui vise à analyser les diverses modalités de gestion des structures de production et de diffusion, notamment en ce qui concerne les salles de spectacle de grande audience. Ses conclusions seront disponibles dans les prochaines semaines. Par ailleurs, le projet de loi relatif à la liberté de la création, à l'architecture et au patrimoine a prévu de mettre en place auprès du directeur du CNV un observatoire de l'économie de la musique, qui aura compétence sur l'ensemble de la filière musicale, spectacle vivant et musique enregistrée. Les données rassemblées dans ce cadre permettront un suivi précis des logiques économiques concernées. En outre, soucieux de préserver les possibilités de carrière des artistes émergents, le ministère de la culture et de la communication met actuellement en place un dispositif de crédits d'impôt destiné à soutenir la création, l'exploitation et la numérisation de spectacles vivants musicaux ou de variétés. Cette mesure adoptée dans la loi de finances pour 2016 et codifiée au code général des impôts dans l'article 220 quindecies, est expressément réservée aux artistes en développement.
