@@ -1,0 +1,9 @@
+# Réponse à la question n° 91631
+
+- Question : [91631](91631.md) — Question n° 91631 — calcul; données; perspectives
+
+## Réponse
+
+*JO du 2016-05-03*
+
+La direction de l'animation de la recherche, des études et des statistiques (DARES) et Pôle emploi publient chaque mois des statistiques relatives aux demandeurs d'emploi inscrits à Pôle emploi. Ces statistiques ont été labellisées par l'autorité de la statistique publique (ASP) en mars 2014. Le nombre de demandeurs d'emploi constitue un indicateur important, notamment en raison de sa disponibilité précoce, pour éclairer la situation conjoncturelle sur le marché du travail. Cet indicateur ne suffit en revanche pas à lui seul pour analyser la situation conjoncturelle sur le marché du travail. S'agissant du chômage, les statistiques mensuelles de demandeurs d'emploi de la DARES et Pôle emploi sont complétées, chaque trimestre, par les statistiques de chômage au sens du Bureau international du travail (qui font foi pour la comparaison internationale) produites par l'Institut national de la statistique et des études économiques (INSEE) à partir de l'enquête Emploi. S'agissant de l'emploi salarié, ensuite, les statistiques trimestrielles produites par l'Insee en collaboration avec la DARES permettent d'apprécier l'évolution nette du nombre de personnes en emploi, secteur par secteur, autrement dit le solde entre créations et destructions d'emploi dans l'économie. En revanche, ces statistiques d'emploi salarié ne peuvent être produites qu'à une fréquence trimestrielle, en raison des délais inhérents à l'enquête. Toutefois une estimation est publiée par l'INSEE et la DARES 45 jours après la fin du trimestre pour les secteurs principalement marchands à partir des données de l'enquête Activité et conditions de la main d'œuvre (ACEMO) ainsi que des données issues des enquêtes de conjonctures de l'INSEE auprès des entrepreneurs.
