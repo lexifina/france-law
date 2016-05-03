@@ -1,0 +1,9 @@
+# Réponse à la question n° 54998
+
+- Question : [54998](54998.md) — Question n° 54998 — circulaires; statistiques
+
+## Réponse
+
+*JO du 2016-05-03*
+
+L'article R. 312-8 du code des relations entre le public et l'administration, impose la publication sur le site circulaires.legifrance.gouv.fr de l'ensemble des instructions et circulaires adressées aux services et établissements de l'Etat. Au 2 mars 2016, ce site comprend un total 29 670 circulaires et instructions n'ayant pas fait l'objet d'une mesure expresse d'abrogation. Un nombre important de ces circulaires et instructions est purement interne à l'administration dont la quasi-totalité des 7606 instructions du ministère de la défense. Il convient en outre de souligner qu'un grand nombre de circulaires produisent des effets limités dans le temps et ne sont pas expressément abrogées alors même qu'elles ont épuisé leurs effets. Il importe encore de préciser que le nombre et le volume des circulaires doivent être maîtrisés, au nom de la simplification comme de l'accessibilité du droit. La circulaire du Premier ministre du 17 juillet 2013 relative à la simplification administrative et au protocole des relations avec les services déconcentrés demande ainsi aux ministres de limiter le nombre de circulaires que les administrations centrales adressent aux services chargés de la mise en œuvre des politiques publiques, les circulaires devant revêtir la forme d'instructions du Gouvernement, denses (5 pages au plus) et signés par le ministre lui-même. Les ministères sont également incités à utiliser davantage les outils internet ou intranet pour diffuser les éclaircissements et les précisions nécessaires à la mise en œuvre des politiques publiques et les secrétaires généraux sont chargés de veiller au respect de ces consignes. L'information des services et du public doit être renouvelée, par l'usage d'autres canaux que les circulaires, chaque fois que cela est possible et pertinent.
