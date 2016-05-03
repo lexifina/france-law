@@ -1,0 +1,9 @@
+# Réponse à la question n° 68729
+
+- Question : [68729](68729.md) — Question n° 68729 — dons; associations; liste
+
+## Réponse
+
+*JO du 2016-05-03*
+
+Il n'existe actuellement aucune liste des organismes qui ont demandé s'ils relèvent de l'une des catégories mentionnées aux articles 200 et 238 bis du code général des impôts (CGI) et dont la demande aurait reçu, de manière tacite ou expresse, une réponse positive. Cela étant, l'établissement d'une telle liste ne permettrait pas d'atteindre l'objectif de contrôle mentionné par l'auteure de la question. En effet, de telles demandes s'inscrivent dans le cadre de la procédure de rescrit prévue à l'article L. 80 C du livre des procédures fiscales qui est facultative. Il n'existe pas, pour les organismes français, de procédure obligatoire de reconnaissance ou d'autorisation préalable par laquelle l'administration fiscale les habiliterait à délivrer des reçus fiscaux. En d'autres termes, cette procédure constitue une simple faculté à laquelle les organismes sont libres de recourir en vue d'obtenir, au vu de la situation de fait prévalant au moment de la demande, la garantie de l'administration fiscale que l'amende prévue à l'article 1740 A du CGI sanctionnant la délivrance irrégulière de reçus fiscaux aux donateurs ne leur sera pas appliquée. Ils peuvent, s'ils estiment présenter les caractéristiques requises des articles précités, délivrer, sous leur responsabilité, des reçus permettant à leurs donateurs de bénéficier d'une réduction d'impôt sans pour autant avoir sollicité l'avis de l'administration fiscale. Par conséquent, la liste dont l'établissement est demandé ne serait pas exhaustive et ne livrerait qu'une information très partielle et peu utile au contrôle des conditions dont le non-respect est sanctionné à l'article 1740 A du CGI.
