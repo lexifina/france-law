@@ -1,0 +1,9 @@
+# Réponse à la question n° 88029
+
+- Question : [88029](88029.md) — Question n° 88029 — circuits courts; mission d'information; rapport; préconisations
+
+## Réponse
+
+*JO du 2016-05-03*
+
+La proposition no 19 du rapport d'information sur les circuits courts et la relocalisation des filières agricoles et alimentaires, enregistré à la présidence de l'Assemblée nationale le 7 juillet 2015, vise à réduire le gaspillage alimentaire dans la restauration collective. Le Gouvernement français approuve totalement la mise en œuvre de cette proposition. D'ores et déjà, il relève que la clarification des notions de date limite de consommation (DLC) et date de durabilité minimale (DDM), qui a remplacé la date limite d'utilisation optimale (DLUO), réalisée dans le règlement no 1169/2011 du 25 octobre 2011 relatif à l'information des consommateurs sur les denrées alimentaires, contribuera à réduire le gaspillage alimentaire. Les ministères en charge de l'économie et de l'agriculture président actuellement un groupe de travail sur ce sujet, où sont représentés outre les autorités administratives impliquées dans cette démarche, les syndicats professionnels, les industriels et les associations de consommateurs. L'objectif de la réflexion engagée est de voir dans quelles conditions les industriels pourraient faire varier les dates limites de consommation et les dates de durabilité minimale qu'ils ont la responsabilité d'apposer sur leurs produits afin d'éviter que des denrées alimentaires encore saines et consommables ne soient jetées de manière intempestive. Une réflexion a en outre été engagée sur la durée de conservation des denrées alimentaires qui ont été ouvertes et sont conservées dans les réfrigérateurs. Les améliorations qui seront apportées par les industriels de l'agroalimentaire au terme de ces travaux bénéficieront aux consommateurs et auront un effet positif sur la lutte contre le gaspillage dans la restauration tant commerciale que collective.
