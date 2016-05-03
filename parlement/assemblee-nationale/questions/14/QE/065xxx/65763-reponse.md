@@ -1,0 +1,9 @@
+# Réponse à la question n° 65763
+
+- Question : [65763](65763.md) — Question n° 65763 — réglementation; délais
+
+## Réponse
+
+*JO du 2016-05-03*
+
+Aucun texte ne fixe de délai à l'autorité concédante pour prendre sa décision d'attribution. Les dispositions législatives et réglementaires qui encadrent la passation des délégations de service public n'imposent pas à l'autorité délégante de fixer une date limite de validité des offres (CE, 24 juin 2011, Commune de Bourgoin-Jallieu, no 347889). Le délai de validité des offres est la date limite pour laquelle l'entreprise est liée par son offre. L'absence d'exigence se justifie en matière de délégation de service public, dont la procédure de passation prévoit une phase de négociation qui doit laisser une certaine souplesse au représentant du pouvoir adjudicateur chargé de mener les discussions. L'autorité délégante peut prévoir, dans ses règlements de la consultation, un délai de validité des offres. Au terme du délai de validité des offres, l'entreprise candidate peut retirer son offre sans que le pouvoir adjudicateur puisse s'y opposer. Elle est alors libérée de tous ses engagements (CAA Nancy, 26 janvier 2006, Société Propriété Environnement industriel, no 02NC00635 ; question écrite no 81889, Journal officiel Assemblée nationale du 21 septembre 2010, p. 10338). Si ce délai peut faire l'objet d'une prorogation, celle-ci n'est possible qu'après accord de l'ensemble des candidats (CE, 13 décembre 1996, Syndicat intercommunal pour la revalorisation des déchets du secteur Cannes-Grasse, no 169706.) Ces éléments sont de nature à concilier deux impératifs : ne pas engager dans le temps de manière excessive les candidats à l'attribution d'une délégation de service public et garantir un temps raisonnable au pouvoir adjudicateur pour procéder au choix du délégataire.
