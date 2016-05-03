@@ -1,0 +1,9 @@
+# Réponse à la question n° 93040
+
+- Question : [93040](93040.md) — Question n° 93040 — UNESCO; patrimoine mondial; inscription
+
+## Réponse
+
+*JO du 2016-05-03*
+
+La liste représentative du patrimoine culturel immatériel de l'Unesco rassemble des pratiques, des représentations, des expressions, des connaissances et des savoir-faire que les communautés reconnaissent comme faisant partie de leur patrimoine culturel. Le « repas gastronomique des Français » a intégré cette liste le 16 novembre 2010. Les langues n'en font cependant pas partie. Le comité technique chargé d'appliquer la convention de l'Unesco pour la sauvegarde du patrimoine culturel immatériel a en effet arrêté que, aux termes de l'article 2.2 de la convention, les langues ne pouvaient pas, en tant que telles, faire l'objet d'une mesure d'inscription. Selon ce texte, la langue n'est pas prise en compte en elle-même, mais seulement « comme vecteur du patrimoine ». Ainsi, ce sont les œuvres nées des langues qui ont vocation à intégrer cette liste, et non les langues elles-mêmes. Il y a quelques années, une demande a été formulée par les locuteurs de yiddish afin que leur langue rejoigne cette liste, et la même réponse leur a été adressée. C'est donc le Pourim Shpil, tradition populaire ancestrale à l'origine du théâtre yiddish, reposant sur le premier texte écrit en langue yiddish, qui a fait l'objet d'une demande d'inscription sur la liste du patrimoine culturel immatériel. Au-delà de ces considérations techniques et juridiques, il convient de rappeler que le français demeure une langue influente, parlée par 274 millions de locuteurs dans le monde. L'action conjuguée de la France et des États et Gouvernements ayant le français en partage en faveur, notamment, du développement de l'apprentissage du français dans les pays où une forte demande se fait jour, permet d'envisager une poursuite de cette dynamique.
