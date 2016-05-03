@@ -1,0 +1,9 @@
+# Réponse à la question n° 34568
+
+- Question : [34568](34568.md) — Question n° 34568 — oeuvres d'art; définition; graffitis
+
+## Réponse
+
+*JO du 2016-05-03*
+
+Conformément aux dispositions de la directive no 2006/112/CE du Conseil du 28 novembre 2006 relative au système commun de taxe sur la valeur ajoutée (TVA), les Etats membres peuvent appliquer des taux réduits de TVA aux opérations portant sur des objets d'art, de collection ou d'antiquité mentionnés dans la partie A de l'annexe IX de la directive précitée. Le 2° de l'article 278 septies du code général des impôts (CGI) soumet au taux réduit - 10 % - de la TVA depuis le 1er janvier 2014 les livraisons d'œuvres d'art dont la liste est définie au II de l'article 98 A de l'annexe III du même code, effectuées par leur auteur ou ses ayants droit. Cette liste énumère de façon limitative les objets constituant des œuvres d'art et dispose que sont notamment considérées comme telles les réalisations de tableaux, collages et tableautins similaires, peintures et dessins, entièrement exécutés à la main par l'artiste. Elle exclut expressément certaines catégories de réalisation, notamment les dessins industriels ou commerciaux. La doctrine fiscale publiée au BOI TVA SECT-90-10 présente les procédés de peintures ou de dessins admis pour la qualification d'œuvre d'art, telle que la peinture à l'huile, l'aquarelle, la gouache, etc, et précise que la réalisation peut porter sur n'importe quelle matière utilisée comme support. Dans ces conditions, la réalisation de graffitis sur un mur, à la demande du propriétaire, à la condition qu'ils soient effectués entièrement de la main de l'artiste et qu'ils constituent une création originale peut répondre à la définition fiscale d'une œuvre d'art telle qu'indiquée au II de l'article 98 A de l'annexe II.
