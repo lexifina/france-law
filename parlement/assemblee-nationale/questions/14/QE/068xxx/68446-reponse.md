@@ -1,0 +1,9 @@
+# Réponse à la question n° 68446
+
+- Question : [68446](68446.md) — Question n° 68446 — ports maritimes; dragage; Cour des comptes; rapport; recommandations
+
+## Réponse
+
+*JO du 2016-05-03*
+
+Les différentes recommandations de la Cour des comptes concernant les comptes et la gestion du groupement d'intérêt économique (GIE) Dragages-Ports pour les exercices 2005 à 2012, ont permis d'entamer une réflexion concernant la répartition de la dotation de l'État consacrée au remboursement des activités de dragage, d'entretien et d'exploitation des ouvrages portuaires. La clef de répartition de la dotation de l'État versée jusqu'en 2014 avait été définie en 2005, sur la base des dépenses réelles constatées à l'époque. Pour tenir compte, au plus vite, des recommandations de la Cour des comptes, une nouvelle clef de répartition a été élaborée pour l'année 2015, sur la base de nouvelles données. Le traitement des données transmises par les grands ports maritimes (GPM) pour travailler sur cette nouvelle clef a mis en lumière leur très grande hétérogénéité, rendant difficile leur comparaison. Aussi, une mission du conseil général de l'environnement et du développement durable (CGEDD) et du contrôle général économique et financier (CGEFi) a été mise en place en janvier 2016, afin de proposer une nouvelle méthode de répartition. Sur la base de l'identification des coûts éligibles à la dotation et des pistes possibles pour améliorer l'efficacité globale et réduire les coûts concernés, la mission CGEDD-CGEFi prendra en compte en premier lieu les coûts réels de dragage, d'entretien et d'exploitation de certains ouvrages, et en second lieu les efforts entrepris par les GPM pour maîtriser les coûts correspondants et pour renforcer la mutualisation des engins de dragages du GIE Dragages-Ports conformément aux recommandations du rapport de la Cour des comptes.
