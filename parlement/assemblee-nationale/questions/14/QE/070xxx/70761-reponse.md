@@ -1,0 +1,9 @@
+# Réponse à la question n° 70761
+
+- Question : [70761](70761.md) — Question n° 70761 — secteur des matériels; aides de l'État; perspectives
+
+## Réponse
+
+*JO du 2016-05-03*
+
+Dans un contexte de reprise économique fragile, les pouvoirs publics sont très attentifs à la situation des entreprises et prennent toutes les mesures nécessaires pour soutenir et développer leur activité créatrice d'emplois et de croissance. Le crédit d'impôt pour la compétitivité et l'emploi permet aux entreprises qui emploient des salariés dont la rémunération est inférieure à 2,5 SMIC, de restaurer leur taux de marge et de créer des emplois. Le taux du crédit d'impôt applicable à la masse salariale brute a été relevé à 6 % depuis le 1er janvier 2014. L'effort national correspondant à la prise en charge de cette mesure de compétitivité sera ainsi porté à 10 milliards d'euros au titre de 2014. S'agissant plus particulièrement du secteur du bâtiment le Gouvernement est pleinement mobilisé. La loi de finances pour 2014 a étendu le taux réduit de TVA de 5,5 % aux travaux d'amélioration de la performance énergétique des locaux à usage d'habitation achevés depuis plus de deux ans ainsi qu'aux travaux induits qui y sont associés. Cette mesure s'inscrit dans le prolongement du plan de rénovation de 500 000 logements par an. Le projet de loi relatif à la transition énergétique pour la croissance verte accélère et amplifie les travaux de rénovation énergétique des bâtiments pour économiser l'énergie, faire baisser les factures et créer des emplois. Le gouvernement se mobilise également pour libérer le foncier et inciter à la production de logements diversifiés. L'ensemble de ces mesures, transversales ou sectorielles, traduit l'engagement du Gouvernement à soutenir l'activité de la filière du bâtiment et les entreprises de distribution et de réparation-maintenance des matériels, qui constituent un levier important de croissance économique de notre pays.
