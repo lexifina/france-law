@@ -1,0 +1,9 @@
+# Réponse à la question n° 80137
+
+- Question : [80137](80137.md) — Question n° 80137 — grands-parents; droits
+
+## Réponse
+
+*JO du 2016-05-03*
+
+En l'état du droit positif, lorsqu'un enfant a été confié à son grand-père ou sa grand-mère, suite au décès de l'un de ses parents, l'autorité parentale continue d'être exercée par le parent survivant. Toutefois, la personne à qui l'enfant a été confié accomplit tous les actes usuels relatifs à sa surveillance et à son éducation. C'est ainsi que, au-delà de la prise en charge affective de l'enfant, le grand-parent à qui le mineur a été confié peut accomplir tous les actes usuels de l'autorité parentale, c'est-à-dire ceux qui ne rompent pas avec le passé et n'engagent pas l'avenir de l'enfant ou qui ne touchent pas à ses droits fondamentaux. En outre, en application du deuxième alinéa de l'article 377 du code civil, en cas de désintérêt manifeste ou si les parents sont dans l'impossibilité d'exercer tout ou partie de l'autorité parentale, le tiers, qui a recueilli l'enfant, peut également saisir le juge aux fins de se faire déléguer totalement ou partiellement l'exercice de l'autorité parentale. Le juge recherche alors si les circonstances exigent une telle délégation et si elle est conforme à l'intérêt de l'enfant. Enfin, il a été adopté dans le cadre de la proposition de loi no 1856 relative à l'autorité parentale et à l'intérêt de l'enfant, encore en cours d'examen au Parlement, une disposition visant à permettre qu'à titre exceptionnel, le juge puisse également autoriser le tiers à qui l'enfant est confié à accomplir, lorsque l'intérêt de ce dernier le justifie, un acte important de l'autorité parentale. Cette évolution législative paraît répondre aux attentes des grands-parents qui recueillent leurs petits-enfants et souhaitent accomplir les actes nécessaires à la prise en charge et à l'épanouissement personnel de ces derniers.
