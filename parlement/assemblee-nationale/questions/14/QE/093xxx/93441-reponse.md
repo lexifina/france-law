@@ -1,0 +1,9 @@
+# Réponse à la question n° 93441
+
+- Question : [93441](93441.md) — Question n° 93441 — liste électorale consulaire; utilisation; réglementation
+
+## Réponse
+
+*JO du 2016-05-03*
+
+Les dispositions de l'article L.330-4 du code électoral ne précisent pas l'usage qui peut être fait des listes électorales consulaires (LEC) mais indiquent seulement les personnes habilitées à en obtenir communication. Conformément à cet article et en application de l'article 31 de la loi no 2013-659 du 22 juillet 2013 relative à la représentation des Français établis hors de France, le consulat général de France à Genève a donc communiqué aux conseillers consulaires l'ensemble des listes électorales consulaires de leur circonscription d'élection. Le ministère des affaires étrangères et du développement international regrette l'utilisation de la LEC à des fins de politique intérieure d'un Etat souverain, en l'espèce la Suisse, par la fédération des Français de l'étranger du Parti socialiste (FFE-PS). Malheureusement, en l'état actuel du droit, aucune disposition ne permet de contrôler l'usage qui est fait par les dépositaires des LEC. L'utilisation des LEC au-delà de leur destination normale est un sujet particulièrement sensible. Certes l'inclusion dans la LEC de l'adresse électronique de l'électeur est une facilité pour les acteurs de la vie politique française. Toutefois, il ne faudrait pas qu'un usage intempestif, de nature à gêner les ressortissants français établis hors de France, entraîne une désinscription massive de ces derniers du Registre – ce qui constituerait pour le ministère des affaires étrangères et du développement international une difficulté majeure pour assurer sa mission de protection de nos compatriotes à l'étranger. Il est à souligner que la réponse à ce défi est de nature législative, notamment en ce qui concerne le champ des données communiquées ou la définition d'un bon usage.
