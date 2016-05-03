@@ -1,0 +1,9 @@
+# Réponse à la question n° 63203
+
+- Question : [63203](63203.md) — Question n° 63203 — renonciation; réglementation
+
+## Réponse
+
+*JO du 2016-05-03*
+
+A la suite des modifications apportées par la loi no 2006-728 du 23 juin 2006, portant réforme des successions et des libéralités, et par la loi no 2009-526 du 12 mai 2009 de simplification et de clarification du droit et d'allègement des procédures, tout successible, à l'exception du légataire à titre particulier, se trouve désormais tenu, s'il souhaite renoncer à une succession, de faire une déclaration de renonciation au greffe du tribunal de grande instance du lieu d'ouverture de la succession. Ces lois ont eu pour objectif de simplifier la procédure : non seulement cette déclaration est aujourd'hui une simple condition d'opposabilité aux tiers de la renonciation et non plus une condition de validité mais, en outre, elle peut être déposée ou, désormais, adressée au greffe du tribunal et donc être envoyée par courrier. Le rôle du greffier consiste, après avoir exercé un contrôle formel de cette déclaration qui doit contenir certaines mentions légales, à l'inscrire dans un registre tenu à cet effet et à en adresser ou délivrer récépissé au déclarant. Ce processus de simplification de la procédure de renonciation se poursuit toutefois dans le cadre des travaux parlementaires qui concernent le projet de loi relatif à l'action de groupe et à l'organisation judiciaire. Le Sénat a ainsi en première lecture inséré des dispositions modifiant l'article 804 du code civil afin de permettre de prévoir que la renonciation puisse également être effectuée devant le notaire. L'ouverture de cette nouvelle option, en parallèle du passage par le greffe qui reste maintenu, s'avère pertinente dans les cas où les mécanismes de représentation conduisent à des renonciations en chaîne, les descendants renonçant, eux aussi, la plupart du temps, à la succession.
