@@ -1,0 +1,9 @@
+# Réponse à la question SEQ140912966
+
+- Question : [SEQ140912966](seq140912966.md) — Règles d'enregistrement et de publicité foncière concernant les actes de donation
+
+## Réponse
+
+*Finances et comptes publics, JO du 2016-05-05, page 1895*
+
+Les actes de donation visant un immeuble ou droit immobilier sont soumis à la formalité fusionnée au service de la publicité foncière compétent en fonction de la localisation du bien concerné. Lorsqu'un acte concerne des immeubles ou droits immobiliers situés dans le ressort de plusieurs services de publicité foncière, celui-ci demeure soumis à la formalité fusionnée. Conformément aux dispositions de l'article 251 de l'annexe III au code général des impôts, celle-ci est exécutée au service où la publicité est requise en premier lieu. Ce service peut être l'un quelconque des services de publicité foncière intéressés, au choix du requérant. Lorsque les immeubles visés par la donation sont situés pour partie dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle, où il n'existe pas de service de la publicité foncière, l'article 250-I. de l'annexe III au code précité prévoit que la formalité fusionnée n'est applicable que si le rédacteur de l'acte réside en dehors de ces trois départements. Dans une telle situation, si les immeubles situés hors de ces trois départements se situent dans le ressort d'un seul et même service de publicité foncière, celui-ci a compétence exclusive pour exécuter la formalité unique et publier l'acte, en ce qui le concerne ; si ces immeubles sont, en revanche, situés dans le ressort de plusieurs services de publicité foncière, le requérant peut librement choisir celui dans lequel la formalité unique sera accomplie. Dans l'un et l'autre des deux cas précités, l'acte devra ensuite être publié, suivant les règles propres au livre foncier, s'agissant des immeubles situés dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle.
