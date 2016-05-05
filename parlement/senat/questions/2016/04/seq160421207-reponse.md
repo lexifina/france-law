@@ -1,0 +1,9 @@
+# Réponse à la question SEQ160421207
+
+- Question : [SEQ160421207](seq160421207.md) — Taxe sur la valeur ajoutée applicable aux mises à disposition pour les organismes à but  non lucratif
+
+## Réponse
+
+*Finances et comptes publics, JO du 2016-05-05, page 1901*
+
+L'article 261 B du code général des impôts (CGI) exonère, sous certaines conditions, les services rendus à leurs adhérents par les groupements constitués par des personnes physiques ou morales exerçant une activité exonérée de la TVA ou pour laquelle elles n'ont pas la qualité d'assujetti. La doctrine administrative qui commente ce dispositif d'exonération avait effectivement étendu son application aux mises à disposition de personnels et de matériels consenties au profit de certains organismes sans but lucratif ou personnes morales de droit public et facturées à prix coûtant. Or la Commission européenne a estimé cette tolérance doctrinale non conforme à la directive n° 2006/112/CE relative au système commun de la TVA, et plus particulièrement à ses dispositions relatives aux groupements de moyens figurant au f) du 1 de son article 132. Par conséquent, ces dispositions ont été rapportées à compter du 1er janvier 2016. Toutefois, la suppression de cette doctrine n'emporte pas la soumission à la TVA de l'ensemble des mises à disposition qui en étaient auparavant exonérées. Dans certaines situations, ces mises à disposition peuvent continuer à ne pas être soumises à la taxe, soit qu'elles n'entrent pas dans le champ d'application de la TVA, soit qu'elles sont exonérées de cette taxe en tant qu'opérations étroitement liées à la fourniture de prestations elles-mêmes exonérées de TVA. Cela étant, l'administration fiscale ne pourra se prononcer plus précisément sur le statut d'éventuelles mises à disposition au regard de la TVA qu'après avoir été en mesure de procéder à un examen complet des situations particulières qui viendraient à lui être soumises.
