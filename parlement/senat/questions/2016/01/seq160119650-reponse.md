@@ -1,0 +1,9 @@
+# Réponse à la question SEQ160119650
+
+- Question : [SEQ160119650](seq160119650.md) — Problèmes posés par les cartographies des cours d'eau
+
+## Réponse
+
+*Environnement, énergie et mer, JO du 2016-05-05, page 1891*
+
+Les services du ministère en charge de l'environnement sont engagés dans un travail d'identification des cours d'eau dans un souci de clarification du droit applicable et d'exercice apaisé de la police de l'eau, répondant à une demande de clarification des règles, exprimée fortement sur le terrain. Cette instruction a été signée à l'issue d'une concertation avec l'ensemble des parties prenantes, au rang desquelles figuraient les représentants du monde forestier. Les critères utilisés pour la définition d'un cours d'eau sont issus de la jurisprudence du Conseil d'État (notamment son arrêt du 21 octobre 2011) et sont repris dans le projet de loi pour la reconquête de la biodiversité, de la nature et des paysages. Tout en prenant en compte les particularités locales, cette démarche homogène sur l'ensemble du territoire permettra ainsi à chaque usager de visualiser facilement les cours d'eau sur une carte publiée sur internet. L'ensemble des acteurs concernés est associé à l'élaboration des cartes : les organisations professionnelles agricoles, les représentants des forestiers et des propriétaires ruraux, les associations de protection de la nature, les représentants d'élus locaux, etc. Cette instruction technique n'est pas créatrice de droit et la cartographie constitue un inventaire non opposable. Elle vise simplement à mieux faire connaître les parties du réseau hydrographique qui doivent être considérées comme cours d'eau. Cette démarche est itérative. Les erreurs éventuelles pourront être rectifiées par les préfets. En conséquence, il n'y a pas lieu d'adopter un moratoire sur cette instruction, qui est conforme au droit en vigueur et qui permet une clarification attendue par le monde rural.
