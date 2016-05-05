@@ -1,0 +1,9 @@
+# Réponse à la question SEQ160219859
+
+- Question : [SEQ160219859](seq160219859.md) — Fiscalité du pommeau
+
+## Réponse
+
+*Finances et comptes publics, JO du 2016-05-05, page 1900*
+
+Depuis 2008, le Pommeau a été inscrit, en tant qu'indication géographique (IG) « spiritueux », dans le règlement CE n° 110/2008 relatif aux boissons spiritueuses. Le 26 décembre 2014 et le 13 janvier 2015, trois nouveaux cahiers des charges du Pommeau ont été homologués par décret et validés par le Comité de l'Institut national de l'origine et de la qualité (INAO). Ces documents indiquent que le Pommeau est une boisson spiritueuse enregistrée en tant qu'« autres boissons spiritueuses » à l'annexe III du règlement CE n° 110/2008 et la mention relative aux moûts mis en œuvre n'indique plus leur degré alcoométrique, ce qui était déjà le cas en 2009. Par conséquent, la direction générale des douanes et droits indirects (DGDDI) a considéré que le Pommeau, qui se revendique comme boisson spiritueuse au titre des cahiers des charges d'appellation, et qui n'indique plus la mention du degré alcoolique indiquée ci-dessus, serait désormais considéré fiscalement comme une boisson spiritueuse. Les représentants de la profession, du ministère de l'agriculture et de la Fédération française des spiritueux (FFS) ont été reçus par l'administration des douanes et droits indirects, le 2 février 2016. Au cours des discussions, les précisions apportées concernant l'élaboration du Pommeau (les moûts de pommes subissent un début de fermentation, puis l'alcool extrait de ces moûts est reversé sur ces derniers et le mutage intervient par assemblage de ce moût fermenté avec l'eau de vie de cidre) ont permis de confirmer un classement tarifaire à la position NC 2206. Compte tenu de ces éléments concernant le procédé d'élaboration du produit, la DGDDI maintient le classement du Pommeau en tant que produit intermédiaire à la position tarifaire 2206.
