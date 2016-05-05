@@ -1,0 +1,9 @@
+# Réponse à la question SEQ160321030
+
+- Question : [SEQ160321030](seq160321030.md) — Perception d'Albestroff
+
+## Réponse
+
+*Budget, JO du 2016-05-05, page 1870*
+
+La situation budgétaire et la contribution de l'administration fiscale au rétablissement des comptes amènent la direction générale des finances publiques (DGFiP) à réfléchir à la meilleure organisation possible de chacune de ses missions. L'amélioration du service à l'usager et de l'efficacité de l'action publique sur l'ensemble du territoire national constituent pour elle des priorités. S'il apparaît que l'implantation d'une trésorerie ne répond plus aux attentes des différents publics, que sa taille ne lui permet pas d'offrir une qualité de service suffisante, son regroupement avec une unité voisine peut être mis à l'étude. Dans cette démarche, la DGFiP s'attache à maintenir l'accessibilité du service public autant que sa qualité, au bénéfice des élus, des contribuables et de ses partenaires du secteur local. Pour apprécier l'opportunité de chaque projet, la méthode appliquée est fondée sur le dialogue et sur l'appréciation des besoins au plus proche du terrain. En Moselle, cette démarche a conduit à reporter le projet de fusion de la trésorerie mixte d'Albestroff avec les sites Grostenquin-Morhange et Château-Salins au-delà de 2016. La trésorerie mixte d'Albestroff est un petit poste rural de trois agents dans un secteur géographique où la dématérialisation n'offre pas encore toute sa mesure et ce, en raison de l'inachèvement de la couverture numérique haut débit. D'importants efforts sont mis en oeuvre pour que la connexion du territoire progresse rapidement de sorte à simplifier, sécuriser et accélérer les procédures, en particulier dans les relations entre les collectivités et leur comptable public. Ces projets seront réexaminés dans ce cadre pour les années à venir.
