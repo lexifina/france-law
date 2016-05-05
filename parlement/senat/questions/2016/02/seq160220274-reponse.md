@@ -1,0 +1,9 @@
+# Réponse à la question SEQ160220274
+
+- Question : [SEQ160220274](seq160220274.md) — Scandale sanitaire du Meningitec
+
+## Réponse
+
+*Affaires sociales et santé, JO du 2016-05-05, page 1863*
+
+L'analyse des données statistiques et toxicologiques et le suivi en vigilance réalisée par l'agence nationale de sécurité du médicament et des produits de santé (ANSM) et un groupe d'experts mandatés par l'ANSM montrent que le défaut qualité rencontré lors de la production de ce vaccin, retiré par précaution du marché le 24 septembre 2014, et qui concerne essentiellement le bouchon des seringues n'est pas de nature à engendrer un risque pour la santé. L'ANSM n'a pas identifié de signal de pharmacovigilance spécifique susceptible d'être lié au défaut qualité ayant conduit par précaution au retrait de ce vaccin. Lorsqu'un vaccin a été injecté, des réactions locales et transitoires (rougeur ou gonflement au site d'injection), voire des effets généraux (fièvre…) ne peuvent être écartés dans les premières heures ou jours après la vaccination. Par ailleurs, le directeur général de la santé a rencontré le 20 novembre 2015, en présence du directeur général de l'ANSM, des représentants du collectif de parents dont les enfants ont été vaccinés avec ce vaccin. Ils ont pu, au cours de cet entretien, recevoir les compléments d'information. Concernant la présence possible de métaux lourds révélée par des analyses d'un laboratoire italien, l'ANSM précise que la présence de traces métalliques non quantifiées ne doit pas être confondue avec d'éventuelles particules métalliques qui seraient présentes dans des quantités supérieures aux normes en vigueur et menaceraient la santé des sujets vaccinés. L'ANSM va procéder à une série d'analyses qualitatives et quantitatives sur ce vaccin et rendra publics ces résultats et leur interprétation par des spécialistes toxicologues.
