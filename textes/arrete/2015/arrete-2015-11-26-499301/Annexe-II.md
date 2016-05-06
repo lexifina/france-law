@@ -1690,6 +1690,32 @@ ARMÉE DE L'AIR
 
 |
 
+EQUIPE D'EXPERTISE TECHNIQUE CENTRALISÉE C130/DHC6 |
+
+45
+
+|
+
+ORLÉANS
+
+|
+
+T
+
+|
+
+2016
+
+|
+
+2016
+
+|
+
+ARMÉE DE L'AIR
+
+|
+
 ESCADRON DE CHASSE " PROVENCE " 1/7
 
 |
@@ -2183,6 +2209,32 @@ R
 |
 
 2015
+
+|
+
+2016
+
+|
+
+ARMÉE DE L'AIR
+
+|
+
+EQUIPE D'EXPERTISE TECHNIQUE CENTRALISÉE CASA |
+
+60
+
+|
+
+CREIL
+
+|
+
+T
+
+|
+
+2016
 
 |
 
