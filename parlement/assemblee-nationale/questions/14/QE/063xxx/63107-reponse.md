@@ -1,0 +1,9 @@
+# Réponse à la question n° 63107
+
+- Question : [63107](63107.md) — Question n° 63107 — taxe résidence principale; propriétaires; pertinence
+
+## Réponse
+
+*JO du 2016-05-10*
+
+Conformément aux dispositions du II de l'article 15 du code général des impôts, les revenus des logements dont le propriétaire se réserve la jouissance ne sont pas soumis à l'impôt sur le revenu. Cela étant, l'imposition des contribuables propriétaires de leurs logements sur un revenu fictif équivalent au loyer économisé a déjà été pratiquée. En effet, jusqu'en 1965, la législation française taxait sur la base d'un revenu fictif le propriétaire qui se réservait la jouissance d'un logement. Cette mesure visait à assurer, sur le plan des principes, l'égalité entre celui qui, pour se loger, était obligé d'engager une dépense substantielle par le paiement d'un loyer et celui qui, propriétaire de son logement, économisait la valeur de son loyer. Cette législation, prévoyant l'imposition du propriétaire à raison du loyer qu'il économisait, soulevait de nombreux problèmes techniques, liés à la détermination du loyer à prendre en compte et, par suite, à celle de l'évaluation de la valeur locative des logements en cause. C'est la raison pour laquelle la loi de finances pour 1965 (n° 64-1279 du 23 décembre 1964) a abandonné cette mesure et posé le principe de l'exonération des logements dont les propriétaires se réservent la jouissance. Il n'entre pas dans les intentions du Gouvernement de faire évoluer la législation fiscale en vigueur sur ce plan. La loi de finances pour 2016, qui a réformé le prêt à taux zéro, montre au contraire l'attachement du Gouvernement à l'accession à la propriété. Désormais le prêt à taux zéro pourra couvrir jusqu'à 40 % du montant de l'investissement et couvrira les logements anciens avec travaux dans toute la France, dès lors que ces travaux représentent au moins 25% du coût total de l'opération.
