@@ -1,0 +1,9 @@
+# Réponse à la question n° 85910
+
+- Question : [85910](85910.md) — Question n° 85910 — stagiaires; évaluation
+
+## Réponse
+
+*JO du 2016-05-10*
+
+A l'occasion de la conférence nationale du handicap qui s'est tenue le 11 décembre 2014, le Président de la République a souhaité que l'accompagnement des travailleurs handicapés vers l'emploi et dans leur évolution professionnelle offre davantage de continuité et que les passerelles entre l'activité à caractère professionnel exercée en établissement ou service d'aide par le travail (ESAT) et l'emploi en milieu ordinaire de travail soient facilitées. Cette décision s'appuie notamment sur des travaux pilotés par les services du ministère chargé des affaires sociales et du ministère chargé du travail sur l'adaptation du secteur du travail protégé et adapté, qui ont permis d'identifier, à l'aune d'un dispositif global d'accompagnement durable vers et dans l'emploi, les étapes clés des parcours des travailleurs handicapés au plus près de leurs capacités, de leurs besoins et de leurs projets. S'agissant des disparités constatées en matière de bilans ou de diagnostics effectués par les moniteurs d'atelier, des travaux sont en cours à l'initiative des partenaires sociaux de la branche, visant à améliorer et décloisonner la formation des moniteurs d'atelier dont le métier a beaucoup évolué ces dernières années et dont les formations doivent évoluer pour tenir compte des exigences de la fluidité des parcours des personnes handicapées. L'objectif principal est d'expérimenter dans plusieurs régions (7 + 3 en 2015 soit 10 des 13 futures "nouvelles régions" couvertes par l'expérimentation) une nouvelle formation des moniteurs d'atelier en ESAT sanctionnée par un certificat de branche de niveau IV. Elle concerne une centaine de stagiaires auxquels s'ajoutent ceux des 3 nouvelles régions dont la région Ile de France. Cette formation devrait ainsi permettre d'harmoniser les pratiques existantes.
