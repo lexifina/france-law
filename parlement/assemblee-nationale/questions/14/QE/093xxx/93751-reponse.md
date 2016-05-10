@@ -1,0 +1,9 @@
+# Réponse à la question n° 93751
+
+- Question : [93751](93751.md) — Question n° 93751 — financement; perspectives
+
+## Réponse
+
+*JO du 2016-05-10*
+
+Conformément au décret no 2004-868 du 26 août 2004, la Fondation du patrimoine bénéficie de 50 % du produit des successions en déshérence. Ces fonds sont prioritairement consacrés au financement de projets de restauration du patrimoine non protégé. Une partie des fonds est également utilisée pour le fonctionnement de la Fondation et de ses délégations. En 2014, les successions en déshérence représentaient environ 30 % de ses ressources. La Fondation doit faire face à une baisse de la ressource issue des successions en déshérence. Sur la somme collectée à ce titre en 2014 par le ministère chargé du budget, qui s'élevait à 16 M€, la part perçue par la Fondation en 2015 fut de 8 M€. La somme collectée par France Domaine en 2015 ne s'est élevée qu'à 8,65 M€, annonçant donc une baisse de cette ressource pour la Fondation en 2016 d'environ 50 %. Une concertation a été engagée entre les différents ministères concernés, sous l'égide du Premier ministre, et a abouti à la décision de porter à 75 % la part des successions en déshérence revenant à la Fondation. Le produit minimum annuel sera quant à lui de 4 M€ pour la Fondation, sans pouvoir toutefois excéder le produit total encaissé par l'État cette même année. Le montant qui devrait être ainsi perçu en 2016 par la Fondation, dès publication du décret prenant en compte ces nouveaux paramètres, est de 6,5 M€, soit un gain de plus de 2 M€ par rapport à ce qui était attendu si le dispositif précédemment en vigueur s'était appliqué. Enfin, la Fondation a d'ores et déjà engagé un programme d'économies sur ses dépenses de fonctionnement, et une recherche de diversification de ses ressources.
