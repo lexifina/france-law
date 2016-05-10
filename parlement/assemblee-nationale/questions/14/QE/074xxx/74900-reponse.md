@@ -1,0 +1,9 @@
+# Réponse à la question n° 74900
+
+- Question : [74900](74900.md) — Question n° 74900 — journal télévisé pour enfants; perspectives
+
+## Réponse
+
+*JO du 2016-05-10*
+
+Le rapport du groupe interministériel coordonné par Monsieur Marc Schwartz sur l'avenir de France Télévisions, remis aux ministres de tutelle en mars 2015, préconisait de favoriser l'apprentissage de la citoyenneté au sein de l'offre jeunesse. La ministre de la culture et de la communication souscrit pleinement à cette recommandation et veillera, dans le cadre du contrat d'objectifs et de moyens 2016-2020 de France Télévisions, à ce que l'entreprise publique propose une offre de programmes et de services adaptée au jeune public traitant des problématiques citoyennes à travers des formes modernes et efficaces, au-delà des programmes traditionnels d'instruction civique. À ce titre, la ministre de la culture et de la communication partage l'ambition de la nouvelle présidente-directrice générale, Madame Delphine Ernotte-Cunci, qui prévoit dans son projet stratégique d'explorer la possibilité d'un rendez-vous quotidien pour traiter de l'actualité sous un angle adapté à la jeunesse, dans la suite des innovations de presse, du type de « Mon Quotidien ». Pour autant, il appartiendra à France Télévisions de définir la forme de ses programmes destinés au jeune public. En effet, il n'appartient pas au Gouvernement d'intervenir dans l'élaboration des programmes des sociétés de l'audiovisuel public, puisqu'aux termes de la loi no 86-1067 modifiée relative à la liberté de communication, ces sociétés sont seules responsables de leur programmation, dans le cadre des missions qui leur sont imparties par le législateur, sous le contrôle du Conseil supérieur de l'audiovisuel (CSA). Ce principe fondamental garantit l'indépendance de ces médias vis-à-vis du Gouvernement.
