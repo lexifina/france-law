@@ -1,0 +1,9 @@
+# Réponse à la question n° 89378
+
+- Question : [89378](89378.md) — Question n° 89378 — dépendance; perspectives
+
+## Réponse
+
+*JO du 2016-05-10*
+
+En application des dispositions de l'article 199 quindecies du code général des impôts (CGI), les dépenses liées à la dépendance, mais également les frais d'hébergement proprement dits (logement et nourriture), supportés par les contribuables accueillis dans certains établissements délivrant des soins de longue durée, ouvrent droit à une réduction d'impôt de 25 %, dans la limite de 10 000 euros de dépenses annuelles. Dans le contexte budgétaire actuel, il n'est pas envisagé de renforcer ce dispositif. En effet, la question de la prise en charge des dépenses évoquées doit également être appréciée en tenant compte des allocations à caractère social versées par l'Etat et les collectivités territoriales. Il en est ainsi, par exemple, de l'allocation personnalisée d'autonomie (APA) pour les personnes âgées dépendantes qui, au surplus, est exonérée d'impôt sur le revenu. En outre, il existe d'autres mesures fiscales favorables aux personnes dépendantes. Ainsi, lorsqu'elles sont titulaires de la carte d'invalidité prévue à l'article L. 241-3 du code de l'action sociale et des familles (invalidité d'au moins 80 %), les personnes concernées bénéficient d'une demi-part supplémentaire de quotient familial, ou d'une part supplémentaire lorsque chacun des époux est titulaire de cette carte. Elles bénéficient également d'un abattement sur leur revenu imposable, égal à 2 344 euros pour l'imposition des revenus de 2014 si leur revenu imposable n'excède pas 14 710 euros, et à 1 172 euros si leur revenu imposable est compris entre 14 630 euros et 23 700 euros. Le montant de l'abattement est par ailleurs doublé pour les couples mariés lorsque chacun des époux remplit les conditions pour en bénéficier.
