@@ -1,0 +1,9 @@
+# Réponse à la question n° 89250
+
+- Question : [89250](89250.md) — Question n° 89250 — délégations de fonctions; réglementation
+
+## Réponse
+
+*JO du 2016-05-10*
+
+L'article L. 2122-22 du code général des collectivités territoriales (CGCT) prévoit que le conseil municipal peut déléguer une partie de ses attributions au maire, dans le but de faciliter l'administration communale et d'accélérer les procédures. La délégation écarte la possibilité d'intervention du conseil municipal qui se trouve dessaisi des attributions déléguées (CE, 30 décembre 2003, Commune de Saint-Gratien). Néanmoins, l'article L. 2122-23 précise que le maire a une obligation d'information et doit rendre compte à chacune des réunions obligatoires du conseil municipal des décisions prises en vertu de l'article L. 2122-22 du CGCT. Ce compte-rendu doit être suffisamment explicite sur le contenu du contrat pour que soit remplie cette obligation d'information du conseil municipal. Concernant les contrats, la notion de contenu suffisamment explicite peut à tout le moins comprendre les éléments essentiels du contrat au sens de l'arrêt du Conseil d'Etat Commune de Montélimar du 13 octobre 2004, au nombre desquels figurent notamment l'objet précis de celui-ci, mais aussi son montant exact et l'identité de son attributaire. Si les éléments du contrat communiqués par le maire ne sont pas considérés comme satisfaisants par le conseil municipal, ce dernier dispose de la possibilité de saisir le tribunal administratif. Le tribunal administratif de Strasbourg a ainsi précisé, dans un jugement du 20 août 1997, Masson c/ Ville de Metz, que si le maire se borne à une information excessivement succincte, il doit être regardé comme ayant refusé d'informer le conseil municipal. Ce refus est illégal, il peut dès lors être fait injonction au maire de rendre compte au conseil municipal, sans conséquence sur la légalité de l'acte pris par le maire.
