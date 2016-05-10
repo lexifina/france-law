@@ -1,0 +1,9 @@
+# Réponse à la question n° 91127
+
+- Question : [91127](91127.md) — Question n° 91127 — compétence territoriale
+
+## Réponse
+
+*JO du 2016-05-10*
+
+La loi no 2013-403 relative à l'élection des conseillers départementaux, des conseillers municipaux et des conseillers communautaires et modifiant le calendrier électoral a eu pour effet une modification substantielle de la carte cantonale. Cependant, ainsi que l'a rappelée la circulaire JUSB1507102C du 17 mars 2015, l'entrée en vigueur de la nouvelle carte cantonale n'a produit aucun effet de droit sur le ressort géographique des juridictions judiciaires. En effet, la référence aux cantons dans le tableau IV annexé au code de l'organisation judiciaire a pour objet, non pas d'établir un lien juridique entre les circonscriptions de l'élection départementale et le ressort des juridictions, mais seulement de décrire une zone géographique où s'étend la compétence des tribunaux d'instance. Le fait que la carte des cantons ait été modifiée pour les élections départementales n'a donc pas d'effet sur les ressorts des juridictions. Le ressort des juridictions de l'Aveyron reste donc défini par référence aux anciens cantons, conformément au tableau IV annexé au code de l'organisation judiciaire.Toutefois, dans le souci d'une parfaite lisibilité de la carte judiciaire, un tableau précisant pour chaque juridiction les communes composant son ressort a été diffusé, à titre indicatif, en annexe de la circulaire susmentionnée. Néanmoins, le garde des sceaux, ministre de la justice, a tenu à ce que soit mis à l'étude un nouveau référencement des ressorts des juridictions afin d'éviter toute confusion que pourrait créer dans l'esprit des justiciables la référence aux anciens cantons. Cette étude n'en est qu'à ses prémisses, ses résultats seront portés à la connaissance de la représentation nationale.
