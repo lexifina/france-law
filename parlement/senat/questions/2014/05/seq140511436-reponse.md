@@ -1,0 +1,9 @@
+# Réponse à la question SEQ140511436
+
+- Question : [SEQ140511436](seq140511436.md) — Coupures d'électricité
+
+## Réponse
+
+*Environnement, énergie et mer, JO du 2016-05-12, page 2019*
+
+Dans sa délibération du 12 décembre 2013 relative aux tarifs d'utilisation d'un réseau public d'électricité de distribution (TURPE distribution), la commission de régulation de l'énergie (CRE) a renforcé le cadre de régulation incitant ERDF à améliorer la qualité du service rendu aux utilisateurs. Elle prévoit notamment qu'en cas d'interruption d'alimentation d'une durée supérieure à 6 heures due à une défaillance des réseaux publics qu'il gère, ERDF verse aux utilisateurs concernés une pénalité égale à 20 % de la part fixe annuelle du TURPE par période de 6 heures. Ce mécanisme permet de compenser une partie de l'éventuel préjudice subi par l'utilisateur en cas de coupure très longue. Par ailleurs, le versement de pénalités et d'abattements aux utilisateurs ne les prive pas de la faculté de rechercher la responsabilité de leur gestionnaire de réseau public selon les voies de droit commun. Enfin, la loi n° 2010-1488 du 7 décembre 2010 portant nouvelle organisation du marché de l'électricité introduitles conférences départementales, réunies sous l'égide du préfet. Elles élaborent les programmes prévisionnels de tous les investissements envisagés sur les réseaux publics de distribution. À ce titre, ERDF a proposé une trajectoire d'investissements avec un montant annuel moyen de 3,4 milliards d'euros pour la période 2014-2017, soit une hausse de 13 % par rapport à 2012. Le Gouvernement demeure très attentif au maintien de la trajectoire d'investissements, destinés notamment à améliorer la qualité, à moderniser le réseau, et à assurer la juste indemnisation des clients lors de coupures conséquentes.
