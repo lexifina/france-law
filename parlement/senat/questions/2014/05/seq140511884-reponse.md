@@ -1,0 +1,9 @@
+# Réponse à la question SEQ140511884
+
+- Question : [SEQ140511884](seq140511884.md) — Précisions sur les termes de la réponse apportée à la question écrite n° 06827
+
+## Réponse
+
+*Familles, enfance et droits des femmes, JO du 2016-05-12, page 2023*
+
+En complément à la réponse à la question écrite n° 06827 sur les conséquences de la jurisprudence de la Cour de cassation en matière de prestations familiales, il est rappelé que les accords d'association signés entre l'Union européenne et les États méditerranéens comportant une clause d'égalité de traitement sont d'effet direct et garantissent la non–discrimination en matière de sécurité sociale au bénéfice des ressortissants de ces États et à leurs familles à la condition qu'ils résident ou travaillent de manière régulière sur le territoire d'un État membre. L'existence d'un tel accord d'association comportant une clause d'égalité de traitement prévaut sur l'application des règles de droit interne, en raison de la suprématie du droit international et européen. Il en résulte que pour les intéressés, les conditions d'ouverture de droit aux prestations familiales sont examinées de manière identique à celles appliquées aux ressortissants européens. En dehors de ces deux catégories d'allocataires – ressortissants de l'espace économique européen (EEE) ou étrangers hors EEE - la caisse nationale des allocations familiales (CNAF) ne dispose pas de données par nationalité sur le montant des prestations versées. Au 31 décembre 2014, selon les données de la CNAF, l'effectif des bénéficiaires des allocations familiales atteint près de 5 millions pour un total de dépenses de 12,7 milliards d'euros. Sur ces 5 millions de bénéficiaires, 2 % environ sont des ressortissants de l'EEE et de la Suisse et 6 % environ sont des étrangers hors EEE.
