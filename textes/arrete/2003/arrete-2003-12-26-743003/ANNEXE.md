@@ -58,8 +58,6 @@ Cotisations et prestations du conjoint collaborateur
 
 Les cotisations et les prestations du conjoint collaborateur sont calculées conformément aux dispositions de l'article 2-1 du décret n° 2003-1273 du 26 décembre 2003 modifié.
 
-En cas de radiation, quelle que soit la cause, la cotisation de l'exercice civil de radiation est due intégralement jusqu'au 31 décembre de l'année de radiation.
-
 La cotisation du conjoint collaborateur est portable et payable dans sa totalité dans les deux mois suivant l'émission de l'appel.
 
 Toutefois, le conjoint collaborateur peut opter pour le règlement de sa cotisation par acomptes mensuels, prélevés sur un compte ouvert à son nom ou à celui de l'agent général d'assurance avec l'accord de ce dernier.
@@ -78,13 +76,13 @@ Les cotisations non payées en temps utile et les majorations de retard restent 
 
 Les frais engagés par le conjoint collaborateur pour s'acquitter de ses cotisations sont à sa charge.
 
-En aucun cas les cotisations afférentes au régime d'assurance invalidité-décès ne peuvent donner lieu à remboursement.
+En cas de radiation, quelle que soit la cause, la cotisation de l'exercice civil de radiation est réduite au prorata de la durée d'affiliation.
+
+Les garanties du présent régime ne sont plus accordées à compter de la date de radiation.
 
 Article 5
 
 Modalités de paiement de la cotisation de l'agent général d'assurance
-
-En cas de cessation de l'activité d'agent général d'assurance, la cotisation de l'exercice de cessation est due intégralement jusqu'au 31 décembre de l'année de cessation.
 
 La cotisation de l'agent général d'assurance est portable et payée selon les modalités suivantes :
 
@@ -104,7 +102,9 @@ Les garanties du présent régime ne sont accordées de nouveau qu'à compter du
 
 Les cotisations non payées en temps utile, et les majorations de retard restent toujours dues sous réserve, pour ces dernières, de la réduction ou de l'annulation prévue à l'article 7 des présents statuts.
 
-En aucun cas les cotisations afférentes au régime d'assurance invalidité-décès ne peuvent donner lieu à remboursement.
+En cas de cessation de l'activité d'agent général d'assurance, la cotisation de l'exercice civil de cessation est réduite au prorata de la durée d'affiliation.
+
+Les garanties du présent régime ne sont plus accordées à compter de la date de cessation de l'activité d'agent général d'assurance.
 
 Article 6
 
@@ -132,7 +132,7 @@ Conditions d'octroi de la pension d'invalidité professionnelle totale ou partie
 
 Pour prétendre au bénéfice d'une pension d'invalidité professionnelle totale ou partielle, un adhérent doit remplir, au moment de la reconnaissance par la commission d'inaptitude de son invalidité professionnelle totale ou partielle, les conditions suivantes :
 
--être en activité, cotisant au présent régime et à jour de ses cotisations aux régimes obligatoires de sécurité sociale gérés par la CAVAMAC et appelées en application des dispositions des articles L. 642-1, L. 644-1 et L. 644-2 du code de la sécurité sociale, y compris les majorations de retard, le cas échéant ;
+-être en activité, cotisant au présent régime et à jour de ses cotisations aux régimes obligatoires de sécurité sociale gérés par la CAVAMAC et appelées en application des dispositions des articles L. 642-1 , L. 644-1 et L. 644-2 du code de la sécurité sociale, y compris les majorations de retard, le cas échéant ;
 
 -et ne pas avoir atteint l'âge prévu à l'article L. 161-17-2 du code de la sécurité sociale.
 
