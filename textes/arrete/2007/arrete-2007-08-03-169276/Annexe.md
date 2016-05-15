@@ -75,3 +75,7 @@ Lille-Monastir (Tunisie).
 Jusqu'au 30 novembre 2020 :
 
 Paris-Samana (République dominicaine).
+
+Jusqu'au 31 mai 2021 :
+
+Paris-Los Angeles (Etats-Unis).
