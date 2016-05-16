@@ -50,6 +50,14 @@ Pour l'année 2015
 
 |
 
+Pour l'année 2016
+
+|
+
+5,00
+
+|
+
 Ce taux est également applicable au corps des professeurs des écoles du corps de l'Etat créé
 
 pour la Polynésie française, régi par le décret n° 2003-1260 du 23 décembre 2003.
