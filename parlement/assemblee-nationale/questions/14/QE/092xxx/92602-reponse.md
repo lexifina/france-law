@@ -1,0 +1,9 @@
+# Réponse à la question n° 92602
+
+- Question : [92602](92602.md) — Question n° 92602 — pratiques abusives; contrôle
+
+## Réponse
+
+*JO du 2016-05-17*
+
+A la suite d'une question préjudicielle posée par la Cour de cassation le 16 janvier 2015 (Cdiscount SA c/ ministère public -affaire C-13/15), sur la conformité au droit européen de l'arrêté du 31 décembre 2008 relatif aux annonces de réduction de prix, la Cour de justice de l'Union européenne a, par ordonnance du 8 septembre 2015, jugé que la directive no 2005/29/CE du Parlement européen et du Conseil du 11 mai 2005 relative aux pratiques commerciales déloyales (PCD) des entreprises vis-à-vis des consommateurs dans le marché intérieur (« directive PCD ») « doit être interprétée en ce sens qu'elle s'oppose à des dispositions nationales (…) qui prévoient une interdiction générale, sans évaluation au cas par cas permettant d'établir le caractère déloyal, des annonces de réduction de prix qui ne font pas apparaître le prix de référence lors du marquage ou de l'affichage des prix, pour autant que ces dispositions poursuivent des finalités tenant à la protection des consommateurs ». Aux termes de cette ordonnance, une réglementation qui obligerait les commerçants à afficher leur prix de référence et la nature de celui-ci serait ainsi contraire au droit européen. En revanche, les commerçants qui sont désormais libres de déterminer le prix de référence à partir duquel est calculée la réduction de prix doivent être en mesure de justifier de la loyauté de leurs pratiques. La direction générale de la concurrence, de la consommation et de la répression des fraudes entend ainsi maintenir sa pression de contrôle, à la fois dans les commerces physiques mais également sur internet, pour garantir aux consommateurs des transactions loyales.
