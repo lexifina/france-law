@@ -1,0 +1,9 @@
+# Réponse à la question n° 92624
+
+- Question : [92624](92624.md) — Question n° 92624 — zones à risque prioritaire; aides financières
+
+## Réponse
+
+*JO du 2016-05-17*
+
+Fin 2014-début 2015, une souche H5N8 du virus influenza hautement pathogène pour les volailles avait été détectée dans plusieurs États membres de l'Union européenne (Allemagne, Pays-Bas, Royaume-Uni), d'abord dans des exploitations, puis le 22 novembre 2014 dans la faune sauvage (Allemagne). Un avis de l'agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail du 21 novembre 2014 avait conclu à un risque d'introduction « modéré » du virus et à une absence de dangerosité pour l'homme. Les derniers foyers dus à cette souche datent de février 2015 (faune sauvage en Bulgarie). Le ministère de l'agriculture, de l'agroalimentaire et de la forêt a émis dès le 12 novembre 2014 un appel à la vigilance auprès des professionnels de l'élevage et de la chasse, des vétérinaires, de l'office national de la chasse et de la faune sauvage, de la fédération nationale des chasseurs et de ses services déconcentrés. Comme le prévoit la réglementation, la découverte d'un cas dans un État membre frontalier a conduit à requalifier entre le 27 novembre 2014 et le 12 mai 2015 le risque de « négligeable » à « modéré » sur l'ensemble du territoire national, malgré l'absence de cas en France au cours de la période en question. Cette qualification entraîne des limitations de mouvements des oiseaux de certaines zones à risque. Toutefois, compte-tenu de l'impact limité des pertes économiques constatées en France, en comparaison notamment des impacts économiques subis à ce jour par la filière avicole depuis la découverte à la fin du mois de novembre 2015 de foyers d'influenza aviaire hautement pathogène dans le sud-ouest du pays, aucun dispositif d'indemnisation national n'a été mis en place pour compenser les éventuelles pertes subies au début de l'année 2015.
