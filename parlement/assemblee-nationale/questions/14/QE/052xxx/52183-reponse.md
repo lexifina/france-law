@@ -1,0 +1,9 @@
+# Réponse à la question n° 52183
+
+- Question : [52183](52183.md) — Question n° 52183 — évolution; perspectives
+
+## Réponse
+
+*JO du 2016-05-17*
+
+Le garde des sceaux est particulièrement attaché à garantir le bon fonctionnement des juridictions. C'est pourquoi il a souhaité maintenir un effort soutenu de recrutement de magistrats. Ainsi, dans un contexte budgétaire contraint, la promotion 2016 qui vient d'entrer à l'école nationale de la magistrature est composée d'un nombre historique de 366 d'auditeurs. Par ailleurs, 88 postes sont ouverts pour le concours complémentaire organisé au titre de l'année 2016, pour une prise de fonctions en 2017. L'année 2017 devrait également être marquée par la poursuite de recrutements importants. Les services de la chancellerie procèdent chaque année à une localisation des emplois de magistrats afin de définir l'effectif théorique nécessaire au bon fonctionnement des juridictions. 7887 emplois sont actuellement localisés dans la dernière circulaire de localisation des emplois, soit 5880 magistrats du siège et 2007 du parquet. S'agissant du tribunal de grande instance de Nancy, la circulaire de localisation des emplois fixe l'effectif de magistrats à 60 soit 43 magistrats du siège et 17 du parquet. A ce jour, le tribunal de grande instance de Nancy compte 3 postes vacants au siège (1 juge d'instruction, 1 juge d'instance et 1 juge), et 2 postes vacants au parquet (1 vice-procureur et 1 substitut). Au 1er septembre 2016, sous réserve de l'avis du Conseil supérieur de la magistrature, le tribunal de grande instance de Nancy compterait 2 postes vacants au siège (deux postes de juges non spécialisés), et les effectifs du parquet seraient au complet. Le Gouvernement s'est attaché à augmenter le budget du ministère de la justice pour garantir un niveau de recrutement élevé afin de compenser les départs à la retraite et assurer la prise en charge des nouvelles missions dévolues aux juridictions.
