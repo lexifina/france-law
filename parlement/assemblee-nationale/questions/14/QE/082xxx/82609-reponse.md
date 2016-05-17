@@ -1,0 +1,9 @@
+# Réponse à la question n° 82609
+
+- Question : [82609](82609.md) — Question n° 82609 — Cité de l'architecture et du patrimoine; Cour des comptes; rapport; recommandations
+
+## Réponse
+
+*JO du 2016-05-17*
+
+La ministre de la culture et de la communication se réjouit que la Cour des comptes n'ait, sauf éléments très ciblés, pas relevé de manquements particuliers dans la gestion et les comptes de la Cité de l'architecture et du patrimoine (CAPA), respectivement pour les exercices 2004 à 2013 et 2004 à 2012. La ministre de la culture et de la communication partage avec la Cour des comptes une ambition renouvelée pour le futur de l'établissement afin que celui-ci développe le potentiel que lui confèrent sa situation exceptionnelle et sa spécificité unique. La recommandation no 6 adressée par la Cour des comptes à la CAPA vise à « renforcer la coopération de l'École de Chaillot avec les écoles nationales d'architecture, veiller aux conditions de succès de ses étudiants au diplôme spécialisé d'architecture, et redéfinir les formations destinées aux maîtres d'ouvrage publics à partir d'une étude des besoins ; développer le parcours doctoral de l'École de Chaillot, en s'appuyant sur la connaissance du patrimoine comme approche spécifique de l'architecture contemporaine ». S'agissant de ce dernier point, la CAPA a signé, le 21 juillet 2015, une convention de partenariat avec l'université de Paris 1 - Panthéon Sorbonne, pour la délivrance du doctorat. Il s'agit d'une convention de partenariat relative à l'accès au doctorat par la formation continue. Sont concernés les diplômés et les élèves de l'École qui souhaitent s'inscrire en doctorat. Cette convention de trois ans permet d'accueillir à l'Université Paris 1 - Panthéon Sorbonne les postulants venant de l'École de Chaillot dans quatre Écoles doctorales et de suivre les séminaires doctoraux mis en place dans ce cadre.
