@@ -1,0 +1,9 @@
+# Réponse à la question n° 82604
+
+- Question : [82604](82604.md) — Question n° 82604 — Cité de l'architecture et du patrimoine; Cour des comptes; rapport; recommandations
+
+## Réponse
+
+*JO du 2016-05-17*
+
+La ministre de la culture et de la communication se réjouit que la Cour des comptes n'ait, sauf éléments très ciblés, pas relevé de manquements particuliers dans la gestion et les comptes de la Cité de l'architecture et du patrimoine (CAPA), respectivement pour les exercices 2004 à 2013 et 2004 à 2012. La ministre de la culture et de la communication partage avec la Cour des comptes une ambition renouvelée pour le futur de l'établissement afin que celui-ci développe le potentiel que lui confèrent sa situation exceptionnelle et sa spécificité unique. La recommandation no 2 adressée par la Cour des comptes à la CAPA vise à « rechercher un meilleur accompagnement des parcours du public au sein du bâtiment, notamment par une refonte d'ensemble de l'orientation et de la signalétique en cohérence avec le prochain programme scientifique et culturel ». La ministre de la culture et de la communication souscrit à cette recommandation. Elle relève que la CAPA a identifié, notamment grâce aux études réalisées auprès des visiteurs, les difficultés d'orientation et de signalétique que présente le Palais de Chaillot, qui est un bâtiment complexe à la fois dans ses cheminements internes et ses différences de niveaux. L'établissement, qui a souhaité associer un comité des visiteurs à ses réflexions, a inscrit dans son pré-projet scientifique et culturel des objectifs de refonte de la signalétique directionnelle et d'amélioration de l'accueil des visiteurs. Ces objectifs pourraient être remplis dans le cadre de travaux plus larges de réaménagement du hall d'entrée « Trocadéro » que la CAPA souhaite engager.
