@@ -1,0 +1,9 @@
+# Réponse à la question n° 82605
+
+- Question : [82605](82605.md) — Question n° 82605 — Cité de l'architecture et du patrimoine; Cour des comptes; rapport; recommandations
+
+## Réponse
+
+*JO du 2016-05-17*
+
+La ministre de la culture et de la communication se réjouit que la Cour des comptes n'ait, sauf éléments très ciblés, pas relevé de manquements particuliers dans la gestion et les comptes de la Cité de l'architecture et du patrimoine (CAPA), respectivement pour les exercices 2004 à 2013 et 2004 à 2012. La ministre de la culture et de la communication partage avec la Cour des comptes une ambition renouvelée pour le futur de l'établissement afin que celui-ci développe le potentiel que lui confèrent sa situation exceptionnelle et sa spécificité unique. La recommandation no 3 adressée par la Cour des comptes à la CAPA vise à « rationaliser la programmation par un effort d'évaluation des manifestations passées, une vision stratégique pluriannuelle et un travail en équipe des différents services concernés, musée et IFA notamment ». La ministre de la culture et de la communication souscrit à cette recommandation. Elle relève que dans le cadre des travaux d'élaboration de son pré-projet scientifique, culturel et pédagogique, la CAPA indique avoir mené avec l'ensemble de ses équipes des travaux sur la programmation de l'établissement qui se sont articulés autour d'une série de réflexions sur les formats et les temporalités des expositions, ainsi que sur les espaces et les publics de la CAPA. Le bilan de la fréquentation de l'établissement en 2015 et la diminution des ressources propres constatées montrent la nécessité de conduire une réflexion complémentaire sur la programmation culturelle proposée. Des travaux spécifiques sur ce sujet entre l'établissement et ses tutelles doivent ainsi aboutir avant la fin du premier semestre 2016.
