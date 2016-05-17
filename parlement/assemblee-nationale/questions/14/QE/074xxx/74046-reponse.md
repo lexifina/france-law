@@ -1,0 +1,9 @@
+# Réponse à la question n° 74046
+
+- Question : [74046](74046.md) — Question n° 74046 — disparités régionales
+
+## Réponse
+
+*JO du 2016-05-17*
+
+Le pourcentage de liquidations judiciaires ouvertes directement, sans conversion d'une procédure de sauvegarde ou de redressement judiciaire préalable, est environ de 70% au niveau national. Il existe d'importantes variations d'une région à une autre, qui peuvent s'expliquer par la composition du tissu économique. Selon une étude du ministère de la justice couvrant les années 2006 à 2012, si le taux de liquidations judiciaires par rapport au nombre total de procédures collectives était de 82,6% pour Strasbourg, il était identique pour le tribunal de commerce de Pontoise, et très proche pour celui de Créteil sur la même période. Le taux est même de 87,3 % s'agissant du tribunal de commerce de Paris, et de 85,5 % pour celui de Bobigny, qui sont des juridictions ayant eu à connaître plus de mille procédures sur cette période de référence. En outre, les juridictions alsaciennes ont déjà démontré qu'elles pouvaient accompagner les efforts d'anticipation des chefs d'entreprise, puisque le nombre de procédures de sauvegarde ouvertes en Alsace est supérieur à celui d'autres régions françaises pour des volumes de procédures collectives comparables. Le principe constitutionnel de l'indépendance des juridictions et la diversité des situations de fait soumises aux tribunaux ne sont pas compatibles avec la recherche d'une homogénéisation statistique. Les efforts permettant de réduire le nombre de dossiers où la situation de l'entreprise est irrémédiablement compromise doivent être portés sur la prévention. Telle a été l'orientation de la réforme issue des ordonnances du 12 mars et du 26 septembre 2014. La présence du ministère public dans les procédures collectives, renforcée par les réformes évoquées, est l'un des autres moyens favorisant une plus grande cohérence des pratiques.
