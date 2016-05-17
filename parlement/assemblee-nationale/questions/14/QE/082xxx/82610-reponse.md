@@ -1,0 +1,9 @@
+# Réponse à la question n° 82610
+
+- Question : [82610](82610.md) — Question n° 82610 — Cité de l'architecture et du patrimoine; Cour des comptes; rapport; recommandations
+
+## Réponse
+
+*JO du 2016-05-17*
+
+La ministre de la culture et de la communication se réjouit que la Cour des comptes n'ait, sauf éléments très ciblés, pas relevé de manquements particuliers dans la gestion et les comptes de la Cité de l'architecture et du patrimoine (CAPA), respectivement pour les exercices 2004 à 2013 et 2004 à 2012. La ministre de la culture et de la communication partage avec la Cour des comptes une ambition renouvelée pour le futur de l'établissement afin que celui-ci développe le potentiel que lui confèrent sa situation exceptionnelle et sa spécificité unique. La recommandation no 7 adressée par la Cour des comptes à la CAPA vise à « renforcer le rôle d'orientation et de contrôle du conseil d'administration en adoptant un rythme de réunions plus soutenu ; réaffirmer son rôle en matière de gestion de personnel ». La ministre de la culture et de la communication souscrit à cette recommandation et constate qu'elle a été mise en œuvre ces deux dernières années par l'instauration d'un rythme plus soutenu et l'organisation de trois réunions annuelles : une au premier trimestre, une à la fin du premier semestre et une à la fin de l'année. Ce nouveau rythme n'est pas exclusif de l'organisation de réunions supplémentaires par exemple à l'automne en fonction de l'actualité et de la situation de l'établissement. La CAPA a par ailleurs précisé à la Cour, s'agissant du Conseil d'administration, qu'elle souhaitait « réaffirmer son rôle de lieu de débat et d'échange autour des orientations stratégiques de la Cité, en s'appuyant sur les travaux et avis du nouveau conseil d'orientation scientifique, du conseil pédagogique de l'école, du conseil scientifique des archives et de la commission d'acquisition ».
