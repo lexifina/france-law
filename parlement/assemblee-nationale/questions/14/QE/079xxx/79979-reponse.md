@@ -1,0 +1,9 @@
+# Réponse à la question n° 79979
+
+- Question : [79979](79979.md) — Question n° 79979 — conditions de détention; Contrôleur général des lieux de privation de liberté; rapport; propositions
+
+## Réponse
+
+*JO du 2016-05-17*
+
+Le préservatif est l'outil essentiel de la prévention des risques infectieux liés aux pratiques sexuelles. La circulaire interministérielle no DGOS/DSR/DGS/DGCS/DSS/DAP/DPJJ/2012/373 du 30 octobre 2012 relative à la publication du guide méthodologique sur la prise en charge sanitaire des personnes placées sous main de justice rappelle la mise à disposition par l'administration pénitentiaire de préservatifs dans des points d'accès choisis et diversifiés afin de garantir une confidentialité maximale dont les unités sanitaires, locaux associatifs, parloirs familiaux, unités de vie familiale. L'administration pénitentiaire met à disposition des personnes détenues des préservatifs masculins aux normes CE au sein des unités sanitaires, des parloirs familiaux, des unités de vie familiale, ainsi que lors de toute sortie, au greffe de l'établissement. Ces préservatifs sont accompagnés de doses de lubrifiant et livrés sous forme de pochettes. Des préservatifs féminins sont également à disposition des établissements qui en font la demande. De façon complémentaire, les associations ou les établissements de santé de rattachement délivrent aux personnes détenues des préservatifs dans le cadre de leurs actions de prévention et de réduction des risques. Une diversification des lieux d'accès, au-delà des lieux précédemment décrits, est actuellement à l'étude dans le cadre du groupe de travail interministériel justice-santé sur la prévention et réduction des risques piloté par le ministère chargé de la santé. Les ministères étudient la mise à disposition de préservatifs et lubrifiant dans d'autres lieux accessibles à la population pénale, tout en respectant la confidentialité de l'accès de ces matériels de réduction des risques.
