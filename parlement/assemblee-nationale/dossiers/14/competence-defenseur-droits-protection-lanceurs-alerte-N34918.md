@@ -1,0 +1,85 @@
+# Pouvoirs publics : protection des lanceurs d'alerte par le Défenseur des droits
+
+- Procédure : Projet ou proposition de loi organique
+- Législature : 14
+- Identifiant : DLR5L14N34918
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/competence_defenseur_droits_protection_lanceurs_alerte
+- Sénat : http://www.senat.fr/dossier-legislatif/ppl15-683.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2016-05-18 : 1er dépôt d'une initiative. (PIONANR5L14B3770)
+  - 2016-05-20 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2016-05-18 : Renvoi en commission au fond
+      - 2016-05-24 : Nomination de rapporteur
+      - 2016-05-24 : Réunion de commission
+      - 2016-05-25 : Réunion de commission
+      - 2016-05-25 : Réunion de commission
+      - 2016-05-25 : Réunion de commission
+      - 2016-05-26 : Dépôt de rapport (RAPPANR5L14B3786, PIONANR5L14BTC3786)
+  - Discussion en séance publique
+    - 2016-06-06 : Discussion en séance publique
+    - 2016-06-06 : Discussion en séance publique
+    - 2016-06-09 : Discussion en séance publique
+    - 2016-06-14 : Discussion en séance publique
+    - 2016-06-14 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2016-06-14 : Dépôt d'une initiative en navette (PIONSNR5S259B0683)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2016-06-14 : Renvoi en commission au fond
+      - 2016-06-01 : Nomination de rapporteur
+      - 2016-06-22 : Dépôt de rapport (RAPPSNR5S259B0712)
+  - Discussion en séance publique
+    - 2016-07-04 : Discussion en séance publique
+    - 2016-07-05 : Discussion en séance publique
+    - 2016-07-06 : Discussion en séance publique
+    - 2016-07-07 : Discussion en séance publique
+    - 2016-07-08 : Discussion en séance publique
+    - 2016-07-08 : Décision
+- Commission Mixte Paritaire
+  - 2016-07-11 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2016-09-14 : Nomination de rapporteur
+    - 2016-09-14 : Dépôt du rapport d'une CMP (RAPPANR5L14B4033)
+    - 2016-09-14 : Dépôt du rapport d'une CMP (RAPPSNR5S259B0830)
+  - 2016-09-14 : Décision de la CMP
+- Nouvelle Lecture
+  - 2016-07-08 : Dépôt d'une initiative en navette (PIONANR5L14B3937)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2016-07-08 : Renvoi en commission au fond
+      - 2016-09-21 : Réunion de commission
+      - 2016-09-28 : Réunion de commission
+      - 2016-09-21 : Dépôt de rapport (RAPPANR5L14B4046, PIONANR5L14BTC4046)
+  - Discussion en séance publique
+    - 2016-09-28 : Discussion en séance publique
+    - 2016-09-29 : Discussion en séance publique
+    - 2016-09-29 : Décision
+- Nouvelle Lecture
+  - 2016-09-29 : Dépôt d'une initiative en navette (PIONSNR5S259B0865)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2016-09-29 : Renvoi en commission au fond
+      - 2016-10-26 : Dépôt de rapport (RAPPSNR5S259B0865)
+  - Discussion en séance publique
+    - 2016-11-03 : Discussion en séance publique
+    - 2016-11-03 : Décision
+- Lecture définitive
+  - 2016-11-04 : Dépôt d'une initiative en navette (PIONANR5L14B4188)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2016-11-04 : Renvoi en commission au fond
+      - 2016-11-08 : Réunion de commission
+      - 2016-11-08 : Dépôt de rapport (RAPPANR5L14B4188)
+  - Discussion en séance publique
+    - 2016-11-08 : Discussion en séance publique
+    - 2016-11-08 : Décision
+- Conseil constitutionnel
+  - 2016-11-09 : Saisine du conseil constitutionnel
+  - 2016-12-08 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2016-12-09 : Promulgation d'une loi
