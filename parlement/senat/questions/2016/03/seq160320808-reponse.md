@@ -1,0 +1,9 @@
+# Réponse à la question SEQ160320808
+
+- Question : [SEQ160320808](seq160320808.md) — Utilisation d'un terrain de sport
+
+## Réponse
+
+*Intérieur, JO du 2016-05-19, page 2103*
+
+L'appartenance au domaine public des équipements sportifs tels que les stades municipaux a été reconnue par le Conseil d'État dans son arrêt du 13 juillet 1961 Ville de Toulouse. Par conséquent, les conventions passées entre les collectivités locales et les associations sportives doivent être considérées comme des conventions d'occupation du domaine public. Dès lors, les équipements sportifs ne peuvent être mis à la disposition particulière d'un usager que dans le cadre d'un contrat d'occupation privative du domaine public qui doit, en principe, être assujetti au paiement de redevances (article L. 2125-1 du code général de la propriété des personnes publiques). Toutefois, certaines occupations peuvent être consenties gratuitement ou moyennant des redevances réduites lorsqu'un intérêt public le justifie, ce qui paraît être le cas en ce qui concerne la mise à disposition d'équipements sportifs en faveur d'une association sportive, laquelle constitue un organisme à but non lucratif. Les règles de gestion des biens communaux, parmi lesquels les terrains de sport, sont en principe fixées par le conseil municipal en vertu des articles L. 2121-29 et L. 2241-1 du code général des collectivités territoriales, selon lesquels il règle par ses délibérations les affaires de la commune et délibère « sur la gestion des biens et les opérations immobilières de la commune ». Il détient à cet effet un pouvoir réglementaire. Il détermine, le cas échéant, des critères permettant de désigner les occupants prioritaires des équipements concernés. Le maire, quant à lui, prend les décisions qui, bien que concernant la gestion des biens, relèvent de la mesure d'exécution.
