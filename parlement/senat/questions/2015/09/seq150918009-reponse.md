@@ -1,0 +1,9 @@
+# Réponse à la question SEQ150918009
+
+- Question : [SEQ150918009](seq150918009.md) — Fonctionnement des commissions municipales
+
+## Réponse
+
+*Intérieur, JO du 2016-05-19, page 2099*
+
+Aux termes de l'article L. 2121-22 du code général des collectivités territoriales (CGCT), le vice-président d'une commission est désigné par la commission elle-même lors de sa première réunion. Ainsi, le juge administratif a eu à connaître d'un cas où le vice-président de la commission avait été désigné par la délibération du conseil municipal instituant la commission, et a considéré que le conseil municipal avait entaché sa délibération d'un vice de compétence (CAA Bordeaux, 3 mai 2011, n° 10BX01738). Pour ce qui concerne l'ordre du jour du conseil municipal, aucun texte ne prévoit que la commission consultative soit obligatoirement saisie au préalable. S'agissant des conseils municipaux des départements de la Moselle, du Bas-Rhin et du Haut-Rhin : ceux-ci sont soumis à des règles de fonctionnement qui relèvent, pour certaines, du droit local. Ainsi, l'article L. 2541-1 du CGCT exclut l'application des dispositions de l'article L. 2121-22 du CGCT aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin qui prévoit, dans son troisième alinéa, l'obligation de respecter le principe de la représentation proportionnelle dans la composition des commissions municipales, y compris pour les commissions d'appel d'offres et les bureaux d'adjudications dans les communes de plus de 1000 habitants. Pour les communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin, la création de ces commissions, dénommées « commissions spéciales », est prévue par l'article L. 2541-8 du CGCT qui ne prévoit pas l'obligation d'une représentation proportionnelle. Néanmoins, cette obligation est établie par l'article 22 du code des marchés publics pour les commissions d'appel d'offres.
