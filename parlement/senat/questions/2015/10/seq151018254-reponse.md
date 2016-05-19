@@ -1,0 +1,9 @@
+# Réponse à la question SEQ151018254
+
+- Question : [SEQ151018254](seq151018254.md) — Création d'une antenne de l'office français de protection des réfugiés et apatrides en Guyane
+
+## Réponse
+
+*Intérieur, JO du 2016-05-19, page 2101*
+
+L'antenne de l'office français de protection des réfugiés et apatrides dans les départements français d'Amérique est installée en Guadeloupe, d'où elle instruit également les demandes déposées en Martinique et en Guyane. Au cours des dernières années, la part des demandes enregistrées dans chacun des trois départements a varié pour s'équilibrer en 2014 entre la Guyane (45 %) et la Guadeloupe (41 %), la Martinique représentant 14 % de la demande. Une forte augmentation du nombre de demandes d'asile déposées en Guyane est en effet constatée depuis le début de 2015, avec un point culminant au mois d'août, représentant une hausse de 70 % sur les neufs premiers mois de l'année 2015 par rapport à la même période de 2014. Pour faire face à cette situation, l'office a mis en œuvre plusieurs mesures qui permettront de prendre en compte l'augmentation des flux et d'instruire prochainement l'ensemble des demandes en instance. Les effectifs de l'antenne ont été renforcés depuis le mois de septembre 2015, notamment par l'affectation à l'année d'un officier de protection supplémentaire. L'antenne sera ainsi en capacité d'instruire un volume plus important de demandes. Par ailleurs, une équipe s'est rendue en Guyane du 16 au 27 novembre au départ du siège de l'office pour conduire une mission foraine d'instruction, pour résorber les demandes en attente et réduire sensiblement les délais d'instruction. Ces mesures, ainsi que la poursuite de missions d'instruction à un rythme soutenu par l'antenne de Basse-Terre, devraient permettre de traiter dans les délais réglementaires les demandes d'asile déposées dans ce département.
