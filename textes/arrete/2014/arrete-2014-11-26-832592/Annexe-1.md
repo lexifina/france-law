@@ -1,158 +1,208 @@
 # Article Annexe 1
 
-LISTE DES FORMATIONS ET ORGANISMES DE LA GENDARMERIE NATIONALE
+LISTE DES FORMATIONS ET ORGANISMES DE LA GENDARMERIE NATIONALE AU SEIN DESQUELS EST CRÉÉ UN COMITÉ D'HYGIÈNE, DE SÉCURITÉ ET DES CONDITIONS DE TRAVAIL
 
-AU SEIN DESQUELS EST CRÉÉ UN COMITÉ D'HYGIÈNE, DE SÉCURITÉ ET DES CONDITIONS DE TRAVAIL
-
-FORMATIONS ET ORGANISMES ENTRANT DANS LE PÉRIMÈTRE
-
-de rattachement pour chacun des comités
+CHSCT
 
 |
 
-SIÈGE DU COMITÉ
+PÉRIMÈTRE DES CHSCT :
+
+formations et organismes rattachés au périmètre de chacun des comités
 
 |
 
-La région de gendarmerie Alsace.
-
-La région de gendarmerie Lorraine.
+PRÉSIDENCE DU COMITÉ
 
 |
 
-Siège de la région Lorraine.
+Périmètre 1
 
 |
 
-La région de gendarmerie Bourgogne.
-
-La région de gendarmerie Champagne-Ardenne.
-
-La région de gendarmerie Franche-Comté.
-
-L'école de gendarmerie de Chaumont.
+Région de gendarmerie d'Alsace-Champagne-Ardenne-Lorraine, à l'exclusion des groupements de gendarmerie départementale de l'Aube, des Ardennes, de la Haute-Marne et de la Marne.
 
 |
 
-Siège de la région Bourgogne.
+Commandant de la région de gendarmerie d'Alsace-Champagne-Ardenne-Lorraine, ou son représentant.
 
 |
 
-La région de gendarmerie Nord - Pas-de-Calais.
-
-La région de gendarmerie Picardie.
+Périmètre 2
 
 |
 
-Siège de la région Nord - Pas-de-Calais.
+Région de gendarmerie de Bourgogne-Franche-Comté.
+
+Groupements de gendarmerie départementale de l'Aube, des Ardennes, de la Haute-Marne et de la Marne.
+
+Ecole de gendarmerie de Chaumont.
 
 |
 
-La région de gendarmerie Basse-Normandie.
-
-La région de gendarmerie Haute-Normandie.
+Commandant de la région de gendarmerie de Bourgogne-Franche-Comté, ou son représentant.
 
 |
 
-Siège de la région Basse-Normandie.
+Périmètre 3
 
 |
 
-La région de gendarmerie Bretagne.
-
-L'école de gendarmerie de Châteaulin.
+Région de gendarmerie Nord-Pas-de-Calais-Picardie.
 
 |
 
-Siège de la région Bretagne.
+Commandant de la région de gendarmerie Nord-Pas-de-Calais-Picardie, ou son représentant.
 
 |
 
-La région de gendarmerie Centre.
+Périmètre 4
 
 |
 
-Siège de la région Centre.
+Région de gendarmerie de Normandie.
 
 |
 
-La région de gendarmerie Pays de la Loire.
+Commandant de la région de gendarmerie de Normandie, ou son représentant.
 
 |
 
-Siège de la région Pays de la Loire.
+Périmètre 5
 
 |
 
-La région de gendarmerie Languedoc-Roussillon.
+Région de gendarmerie de Bretagne.
+
+Ecole de gendarmerie de Châteaulin.
 
 |
 
-Siège de la région Languedoc-Roussillon.
+Commandant de la région de gendarmerie de Bretagne, ou son représentant.
 
 |
 
-La région de gendarmerie Provence-Alpes-Côte d'Azur.
-
-La région de gendarmerie Corse.
+Périmètre 6
 
 |
 
-Siège de la région Provence-Alpes-Côte d'Azur.
+Région de gendarmerie Centre-Val de Loire.
 
 |
 
-La région de gendarmerie Auvergne.
-
-La région de gendarmerie Rhône-Alpes.
-
-L'école de gendarmerie de Montluçon.
+Commandant de la région de gendarmerie Centre-Val de Loire, ou son représentant.
 
 |
 
-Siège de la région Rhône-Alpes.
+Périmètre 7
 
 |
 
-La région de gendarmerie Aquitaine.
-
-Le Centre national d'entraînement des forces de gendarmerie.
+Région de gendarmerie Pays de la Loire.
 
 |
 
-Siège de la région Aquitaine.
+Commandant de la région de gendarmerie Pays de la Loire, ou son représentant.
 
 |
 
-La région de gendarmerie Limousin.
-
-La région de gendarmerie Poitou-Charentes.
-
-L'école de gendarmerie de Tulle.
+Périmètre 8
 
 |
 
-Siège de la région Poitou-Charentes.
+Région de gendarmerie de Languedoc-Roussillon-Midi-Pyrénées, à l'exclusion des groupements de gendarmerie départementale de l'Ariège, de l'Aveyron, du Gers, de la Haute-Garonne, des Hautes-Pyrénées, du Lot, du Tarn et de Tarn-et-Garonne.
 
 |
 
-La région de gendarmerie Midi-Pyrénées.
+Commandant adjoint de la région de gendarmerie de Languedoc-Roussillon-Midi-Pyrénées, commandant du groupement de gendarmerie départementale de l'Hérault, ou son représentant.
 
 |
 
-Siège de la région Midi-Pyrénées.
+Périmètre 9
 
 |
 
-La région de gendarmerie Ile-de-France.
+Région de gendarmerie de Provence-Alpes-Côte d'Azur.
 
-La garde républicaine.
-
-La gendarmerie de la sécurité des armements nucléaires.
+Région de gendarmerie Corse.
 
 |
 
-Siège de la région Ile-de-France.
+Commandant de la région de gendarmerie de Provence-Alpes-Côte d'Azur, ou son représentant.
+
+|
+
+Périmètre 10
+
+|
+
+Région de gendarmerie d'Auvergne-Rhône-Alpes.
+
+Ecole de gendarmerie de Montluçon.
+
+|
+
+Commandant de la région de gendarmerie d'Auvergne-Rhône-Alpes, ou son représentant.
+
+|
+
+Périmètre 11
+
+|
+
+Région de gendarmerie d'Aquitaine-Limousin-Poitou-Charentes, à l'exclusion des groupements de gendarmerie départementale de la Charente, de la Charente-Maritime, de la Corrèze, de la Creuse, des Deux-Sèvres, de la Haute-Vienne et de la Vienne.
+
+Centre national d'entraînement des forces de gendarmerie.
+
+|
+
+Commandant de la région de gendarmerie d'Aquitaine-Limousin-Poitou-Charentes, ou son représentant.
+
+|
+
+Périmètre 12
+
+|
+
+Région de gendarmerie d'Aquitaine-Limousin-Poitou-Charentes, à l'exception des groupements de gendarmerie départementale de la Dordogne, de la Gironde, des Landes, de Lot-et-Garonne et des Pyrénées-Atlantiques.
+
+Ecole de gendarmerie de Tulle.
+
+|
+
+Commandant adjoint de la région de gendarmerie d'Aquitaine-Limousin-Poitou-Charentes, commandant du groupement de gendarmerie départementale de la Vienne, ou son représentant.
+
+|
+
+Périmètre 13
+
+|
+
+Région de gendarmerie de Languedoc-Roussillon-Midi-Pyrénées, à l'exclusion des groupements de gendarmerie départementale de l'Aude, du Gard, de l'Hérault, de la Lozère et des Pyrénées-Orientales.
+
+|
+
+Commandant de la région de gendarmerie de Languedoc-Roussillon-Midi-Pyrénées, ou son représentant.
+
+|
+
+Périmètre 14
+
+|
+
+Région de gendarmerie d'Ile-de-France.
+
+Garde républicaine.
+
+Gendarmerie de la sécurité des armements nucléaires.
+
+|
+
+Commandant de la région de gendarmerie d'Ile de France, ou son représentant.
+
+|
+
+Périmètre 15
 
 |
 
@@ -162,7 +212,11 @@ Le commandement de la gendarmerie de Martinique.
 
 |
 
-Siège du commandement de la gendarmerie de Martinique.
+Commandant de la gendarmerie de Martinique, ou son représentant.
+
+|
+
+Périmètre 16
 
 |
 
@@ -170,7 +224,11 @@ Le commandement de la gendarmerie de Guyane.
 
 |
 
-Siège du commandement de la gendarmerie de Guyane.
+Commandant de la gendarmerie de Guyane, ou son représentant.
+
+|
+
+Périmètre 17
 
 |
 
@@ -180,37 +238,61 @@ Le commandement de la gendarmerie de Mayotte.
 
 |
 
-Siège du commandement de la gendarmerie de La Réunion.
+Commandant de la gendarmerie de La Réunion, ou son représentant.
 
 |
 
-Le commandement de la gendarmerie de Nouvelle-Calédonie.
-
-Le commandement de la gendarmerie de Polynésie.
+Périmètre 18
 
 |
 
-Siège du commandement de la gendarmerie de Nouvelle-Calédonie.
+Le commandement de la gendarmerie pour la Nouvelle-Calédonie.
+
+Le commandement de la gendarmerie pour la Polynésie.
 
 |
 
-Le centre technique de la gendarmerie nationale.
-
-Le Centre national d'assistance aux utilisateurs.
-
-Le groupement de sécurité et d'appui.
+Commandant de la gendarmerie pour la Nouvelle-Calédonie, ou son représentant.
 
 |
 
-Centre technique de la gendarmerie nationale.
+Périmètre 19
 
 |
 
-L'établissement central de l'administration et du soutien de la gendarmerie nationale.
+Les unités, organismes et services du commandement du soutien opérationnel de la gendarmerie nationale implantés dans le ressort territorial de :
+
+-la région de gendarmerie d'Ile-de-France ;
+
+-la région de gendarmerie Pays de la Loire.
+
+Le centre national d'assistance aux utilisateurs.
 
 |
 
-Etablissement central de l'administration et du soutien de la gendarmerie nationale.
+Commandant du soutien opérationnel de la gendarmerie nationale, ou son représentant.
+
+|
+
+Périmètre 20
+
+|
+
+Les unités, organismes et services du commandement du soutien opérationnel de la gendarmerie nationale implantés dans le ressort territorial de :
+
+-la région de gendarmerie Centre-Val de Loire ;
+
+-la région de gendarmerie de Bretagne ;
+
+-la région de gendarmerie d'Aquitaine-Limousin-Poitou-Charentes, à l'exclusion du centre national d'assistance aux utilisateurs à Rochefort.
+
+|
+
+Commandant du soutien opérationnel de la gendarmerie nationale, ou son représentant.
+
+|
+
+Périmètre 21
 
 |
 
@@ -222,7 +304,11 @@ Le commandement de la gendarmerie d'outre-mer.
 
 |
 
-Direction générale de la gendarmerie nationale.
+Directeur général de la gendarmerie nationale, ou son représentant.
+
+|
+
+Périmètre 22
 
 |
 
@@ -232,13 +318,15 @@ La gendarmerie des transports aériens.
 
 Le pôle judiciaire de la gendarmerie nationale.
 
-L'institut de recherche criminelle de la gendarmerie nationale.
-
 Le commandement de la gendarmerie prévôtale.
 
 |
 
-Pôle judiciaire de la gendarmerie nationale.
+Commandant du pôle judiciaire de la gendarmerie nationale, ou son représentant.
+
+|
+
+Périmètre 23
 
 |
 
@@ -246,27 +334,31 @@ Le commandement des écoles de gendarmerie nationale.
 
 Le centre de production multimédia de la gendarmerie nationale.
 
-Le Centre national de formation aux systèmes d'information et de communication de la gendarmerie.
+Le centre national de formation aux systèmes d'information et de communication de la gendarmerie.
 
-Le Centre national de formation au renseignement opérationnel.
+Le centre national de formation au renseignement opérationnel.
 
-Le Centre national d'instruction de ski et d'alpinisme de la gendarmerie.
+Le centre national d'instruction de ski et d'alpinisme de la gendarmerie.
 
-Le Centre national d'instruction cynophile de la gendarmerie.
+Le centre national d'instruction cynophile de la gendarmerie.
 
-Le Centre national d'instruction nautique de la gendarmerie.
+Le centre national d'instruction nautique de la gendarmerie.
 
 L'école de gendarmerie de Rochefort.
 
-Le Centre national de formation des corps de soutien technique et administratif de la gendarmerie nationale.
+Le centre national de formation des corps de soutien technique et administratif de la gendarmerie nationale.
 
-Le Centre national de formation aux langues et à l'international de la gendarmerie.
+Le centre national de formation aux langues et à l'international de la gendarmerie.
 
-Le Centre national de formation au commandement.
+Le centre national de formation au commandement.
 
 |
 
-Commandement des écoles de gendarmerie nationale.
+Commandant des écoles de gendarmerie nationale, ou son représentant.
+
+|
+
+Périmètre 24
 
 |
 
@@ -274,12 +366,22 @@ L'école des officiers de la gendarmerie nationale de Melun.
 
 L'école de gendarmerie de Fontainebleau.
 
-Le Centre national de formation à la sécurité routière.
+Le centre national de formation à la sécurité routière.
 
-Le Centre national de formation de la police judiciaire.
+Le centre national de formation de la police judiciaire.
+
+|
+
+Commandant de l'école des officiers de la gendarmerie nationale, ou son représentant.
 
 |
 
-Ecole des officiers de la gendarmerie nationale de Melun.
+Périmètre 25
 
 |
+
+L'école de gendarmerie de Dijon.
+
+|
+
+Commandant de l'école de gendarmerie de Dijon, ou son représentant |
