@@ -58,26 +58,6 @@ Inspecteur général de l'éducation nationale
 
 |
 
-Inspecteur général de l'administration de l'éducation nationale et de la recherche
-
-1re classe
-
-2e classe
-
-|
-
-1015-HED
-
-852-HEB
-
-|
-
-A compter du 1er janvier 2000
-
-A compter du 1er janvier 2000
-
-|
-
 Inspecteur général des bibliothèques
 
 |
@@ -778,6 +758,12 @@ E 4
 
 |
 
+|
+
+|
+
+|
+
 Grades et emplois
 
 |
@@ -846,7 +832,7 @@ Professeur des universités de médecine générale
 
 classe exceptionnelle
 
-1re classe
+1ère classe
 
 2e classe
 
