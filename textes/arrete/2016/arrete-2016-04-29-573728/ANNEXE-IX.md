@@ -1,0 +1,61 @@
+# Article ANNEXE IX
+
+INFORMATIONS À INDIQUER POUR L'AUTO-ENREGISTREMENT
+
+Pour les capitaines de navires et leurs représentants :
+
+Prénom
+
+Nom
+
+Titre
+
+Poste
+
+Ville
+
+Adresse
+
+Code postal
+
+Téléphone
+
+Fax
+
+E-mail
+
+Nom du navire
+
+Numéro ICCAT du navire
+
+Date de fin de validité
+
+Pour les vendeurs/exportateurs et pour les acheteurs/importateurs :
+
+Prénom
+
+Nom
+
+Titre
+
+Poste
+
+Ville
+
+Adresse
+
+Code postal
+
+Téléphone
+
+Fax
+
+E-mail
+
+CPC
+
+Nom de l'entreprise
+
+Numéro SIRET
+
+Date de fin de validité
