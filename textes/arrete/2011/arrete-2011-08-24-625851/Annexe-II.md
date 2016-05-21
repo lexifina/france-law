@@ -1,12 +1,12 @@
 # Article Annexe II
 
-MODÈLE DE NOTICE VISÉE AU DEUXIÈME ALINÉA DE L'ARTICLE 4
+MODÈLE DE NOTICE VISÉE AU DEUXIÈME ALINÉA DE L'ARTICLE 3
 
-En complément des exigences de marquage sur les éthylotests selon les règles de certification de la marque NF ETHYLOTEST, la notice d'information contient les mentions suivantes :
+La notice d'information contient au minimum les mentions suivantes :
 
 1° Usage unique de l'embout ;
 
-2° Le seuil maximal d'affichage (0,25 mg/l dans l'air expiré) correspond au seuil contraventionnel fixé à l'article R. 234-1 du code de la route (0,25 mg/l dans l'air expiré correspondent à 0,5 g/l dans le sang) ;
+2° Les seuils maximaux d'affichage (0,10 mg/l et 0,25 mg/l dans l'air expiré) correspondent aux seuils contraventionnels fixés à l'article R. 234-1 du code de la route (0,10 mg/l dans l'air expiré correspond à 0,2 g/l dans le sang et 0,25 mg/l dans l'air expiré correspond à 0,5 g/l dans le sang) ;
 
 3° La durée maximum d'utilisation entre deux calibrations et/ou le nombre de souffles maximum autorisé par l'éthylotest ;
 
@@ -16,7 +16,7 @@ En complément des exigences de marquage sur les éthylotests selon les règles 
 
 6° Le résultat obtenu n'est pas opposable aux résultats des contrôles effectués par les forces de l'ordre dans le cadre des contrôles légaux ;
 
-7° Au-delà de 0,25 mg/l, il est déconseillé de prendre le volant en raison des risques présentés et des sanctions encourues.
+7° Au-delà de 0,10 mg/l pour les conducteurs novices (permis probatoire ou en situation d'apprentissage) ou de 0,25 mg/l pour les autres conducteurs, il est interdit de prendre le volant.
 
 La notice est imprimée :
 
