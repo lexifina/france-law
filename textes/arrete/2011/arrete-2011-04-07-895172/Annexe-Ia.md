@@ -8,9 +8,9 @@ Annexe 1 a
 
 Référentiel des activités professionnelles
 
-Le métier du titulaire du baccalauréat professionnel Agencement de l'Espace Architectural
+Le métier du titulaire du baccalauréat professionnel Etude et réalisation d'agencement
 
-1 - L'emploi et la qualification
+1-L'emploi et la qualification
 
 1-1 Définition de l'emploi
 
@@ -18,11 +18,11 @@ Le titulaire de ce baccalauréat professionnel est un technicien de l'agencement
 
 Au sein de l'entreprise, en bureau d'études, en atelier et sur site, son activité consiste à :
 
-- participer à la finalisation de l'étude esthétique et à la définition du projet,
+-participer à la finalisation de l'étude esthétique et à la définition du projet,
 
-- préparer la réalisation technique d'un projet multi matériaux à partir des concepts et normes de l'agencement et du cahier des charges architectural,
+-préparer la réalisation technique d'un projet multi matériaux à partir des concepts et normes de l'agencement et du cahier des charges architectural,
 
-- organiser, planifier, animer et gérer le suivi de la mise en œuvre sur chantier du lot agencement avec intervention de plusieurs corps d'états.
+-organiser, planifier, animer et gérer le suivi de la mise en œuvre sur chantier du lot agencement avec intervention de plusieurs corps d'états.
 
 1-2 Classification du diplôme et niveau de qualification
 
@@ -30,17 +30,17 @@ Ce diplôme se situe au niveau IV de la nomenclature interministérielle des niv
 
 Les appellations les plus courantes de l'emploi et du niveau de qualification sont :
 
-- technicien professionnel en agencement,
+-technicien professionnel en agencement,
 
-- technicien d'études en agencement,
+-technicien d'études en agencement,
 
-- technicien de chantier en agencement
+-technicien de chantier en agencement
 
 -etc.
 
 1-3 Perspectives d'évolution
 
-Le titulaire du baccalauréat professionnel "Agencement de l'Espace Architectural" doit rapidement s'intégrer dans une équipe de travail et, après quelques mois passés dans l'entreprise, affirmer son autonomie et montrer sa capacité à prendre en charge la conduite de tout ou partie d'un projet selon son ampleur, jusqu'à son aboutissement.
+Le titulaire du baccalauréat professionnel " Etude et réalisation d'agencement " doit rapidement s'intégrer dans une équipe de travail et, après quelques mois passés dans l'entreprise, affirmer son autonomie et montrer sa capacité à prendre en charge la conduite de tout ou partie d'un projet selon son ampleur, jusqu'à son aboutissement.
 
 Après quelques années d'expérience en bureau d'études et sur chantier, il pourra évoluer vers la qualification de conducteur de travaux et assurer la fonction de chef d'équipe.
 
@@ -48,65 +48,65 @@ Il peut poursuivre des études vers un niveau III.
 
 Ayant acquis la maîtrise du métier, il pourra envisager de reprendre ou de créer une entreprise.
 
-2 - Le contexte professionnel
+2-Le contexte professionnel
 
 2-1 Secteur d'activité
 
-Le titulaire du baccalauréat professionnel "Agencement de l'Espace Architectural" exerce son activité dans les petites ou moyennes entreprises qui conçoivent, fabriquent, installent des agencements extérieurs et intérieurs :
+Le titulaire du baccalauréat professionnel " Etude et réalisation d'agencement " exerce son activité dans les petites ou moyennes entreprises qui conçoivent, fabriquent, installent des agencements extérieurs et intérieurs :
 
-- habitat individuel ou collectif,
+-habitat individuel ou collectif,
 
-- locaux professionnels : usines et bureaux ...
+-locaux professionnels : usines et bureaux...
 
--établissements recevant du public (lieux de loisirs, établissements scolaires ou sportifs, centres culturels, lieux de culte ...)
+-établissements recevant du public (lieux de loisirs, établissements scolaires ou sportifs, centres culturels, lieux de culte...)
 
-- commerces, café, hôtel, restaurant...
+-commerces, café, hôtel, restaurant...
 
-- galeries des centres commerciaux,
+-galeries des centres commerciaux,
 
-- construction navale et aéronautique.
+-construction navale et aéronautique.
 
 Dans ce secteur d'activité, l'entreprise réalise tout où partie du second œuvre dans un processus continu d'interventions ou l'on trouve :
 
-- le maître d'ouvrage qui fait construire,
+-le maître d'ouvrage qui fait construire,
 
-- le maître d'œuvre qui conçoit, conseille et contrôle,
+-le maître d'œuvre qui conçoit, conseille et contrôle,
 
-- les entreprises de gros œuvre pour la réalisation du bâtiment,
+-les entreprises de gros œuvre pour la réalisation du bâtiment,
 
-- le concepteur du projet d'agencement (interne ou non à l'entreprise),
+-le concepteur du projet d'agencement (interne ou non à l'entreprise),
 
-- les fournisseurs pour l'approvisionnement des matériaux et composants,
+-les fournisseurs pour l'approvisionnement des matériaux et composants,
 
-- les entreprises du second œuvre et les sous-traitants pour la réalisation et la pose de l'ensemble du projet.
+-les entreprises du second œuvre et les sous-traitants pour la réalisation et la pose de l'ensemble du projet.
 
 2-2 Activités professionnelles et place dans l'organisation de l'entreprise
 
-Le titulaire du baccalauréat professionnel "Agencement de l'Espace Architectural" intervient sous la responsabilité du chef d'entreprise ou d'un chargé d'affaire pour préparer et programmer techniquement dans le cadre d'une étude, tout ou partie d'un projet à réaliser et à mettre en œuvre sur chantier.
+Le titulaire du baccalauréat professionnel " Etude et réalisation d'agencement " intervient sous la responsabilité du chef d'entreprise ou d'un chargé d'affaire pour préparer et programmer techniquement dans le cadre d'une étude, tout ou partie d'un projet à réaliser et à mettre en œuvre sur chantier.
 
-A partir du cahier des charges, au sein du bureau d'étude et/ou sur chantier, il est amené à :
+A partir du cahier des charges, au sein du bureau d'étude et/ ou sur chantier, il est amené à :
 
-- participer à la mise au point de l'étude esthétique du projet,
+-participer à la mise au point de l'étude esthétique du projet,
 
-- préparer l'ensemble des dossiers techniques et administratifs,
+-préparer l'ensemble des dossiers techniques et administratifs,
 
-- réaliser les plans des ouvrages d'agencement et des lots sous-traités,
+-réaliser les plans des ouvrages d'agencement et des lots sous-traités,
 
-- participer à l'élaboration du planning de réalisation et d'intervention des entreprises,
+-participer à l'élaboration du planning de réalisation et d'intervention des entreprises,
 
-- conduire l'installation complète d'un agencement,
+-conduire l'installation complète d'un agencement,
 
-- coordonner le travail d'une équipe et des différents intervenants.
+-coordonner le travail d'une équipe et des différents intervenants.
 
 Les tableaux suivants précisent :
 
-- les activités et tâches du métier,
+-les activités et tâches du métier,
 
-- les tableaux de détail de ces activités,
+-les tableaux de détail de ces activités,
 
-- les matériaux, produits et composants utilisés,
+-les matériaux, produits et composants utilisés,
 
-- la relation entre les matériaux et les techniques de mise en œuvre.
+-la relation entre les matériaux et les techniques de mise en œuvre.
 
 Principales phases du projet
 
@@ -164,35 +164,35 @@ A1
 
 |
 
-T1 - Analyser le contexte architectural
+T1-Analyser le contexte architectural
 
 |
 
-T2 - Relever la configuration du chantier et son environnement, mise au net des relevés, diagnostic de l'existant et de ses contraintes
+T2-Relever la configuration du chantier et son environnement, mise au net des relevés, diagnostic de l'existant et de ses contraintes
 
 |
 
-T3 - Intégrer le projet dans l'existant et vérifier la faisabilité technique
+T3-Intégrer le projet dans l'existant et vérifier la faisabilité technique
 
 |
 
-T4 - Traduire graphiquement l'esthétique du projet (perspectives, schémas, 3D, croquis, photos, élévations...)
+T4-Traduire graphiquement l'esthétique du projet (perspectives, schémas, 3D, croquis, photos, élévations...)
 
 |
 
-T5 - Proposer et argumenter des choix de solutions techniques en collaboration avec le concepteur et/ou le maître d'ouvrage
+T5-Proposer et argumenter des choix de solutions techniques en collaboration avec le concepteur et/ ou le maître d'ouvrage
 
 |
 
-T6 - Réaliser des échantillons, modèles et prototypes clients
+T6-Réaliser des échantillons, modèles et prototypes clients
 
 |
 
-T7 - Identifier les interventions nécessaires des différents corps d'état et les délais à respecter
+T7-Identifier les interventions nécessaires des différents corps d'état et les délais à respecter
 
 |
 
-T8 - Faire valider des solutions techniques, esthétiques et fonctionnelles au regard des délais et des coûts (synthèse)
+T8-Faire valider des solutions techniques, esthétiques et fonctionnelles au regard des délais et des coûts (synthèse)
 
 |
 
@@ -202,23 +202,23 @@ Définition du projet d'agencement
 
 |
 
-T1 - Établir les plans d'ensemble du projet (2D, 3D)
+T1-Établir les plans d'ensemble du projet (2D, 3D)
 
 |
 
-T2 - Établir les plans d'exécution et de détails de sous ensembles du projet (calepinages, coupes, détails, élévations...)
+T2-Établir les plans d'exécution et de détails de sous ensembles du projet (calepinages, coupes, détails, élévations...)
 
 |
 
-T3 - Rédiger les nomenclatures de sous ensembles et constituants des ouvrages à fabriquer
+T3-Rédiger les nomenclatures de sous ensembles et constituants des ouvrages à fabriquer
 
 |
 
-T4 - Établir les quantitatifs de tout ou partie du projet
+T4-Établir les quantitatifs de tout ou partie du projet
 
 |
 
-T5 - Rédiger le cahier des charges sous-traitance
+T5-Rédiger le cahier des charges sous-traitance
 
 |
 
@@ -242,23 +242,23 @@ Planification prévisionnelle et préparation des interventions
 
 |
 
-T1 - Planifier les interventions (corps d'état, détail des opérations, dates d'interventions et délais...)
+T1-Planifier les interventions (corps d'état, détail des opérations, dates d'interventions et délais...)
 
 |
 
-T2 - Définir les besoins humains et matériels par intervention
+T2-Définir les besoins humains et matériels par intervention
 
 |
 
-T3 - Identifier les besoins et contraintes externes (autorisations administratives, locations, énergies, gestion des déchets...)
+T3-Identifier les besoins et contraintes externes (autorisations administratives, locations, énergies, gestion des déchets...)
 
 |
 
-T4 - Lancer et suivre les commandes matériaux et produits
+T4-Lancer et suivre les commandes matériaux et produits
 
 |
 
-T5 - Lancer et suivre les fabrications internes et les opérations de sous-traitance
+T5-Lancer et suivre les fabrications internes et les opérations de sous-traitance
 
 |
 
@@ -268,19 +268,19 @@ Lancement de la mise en œuvre sur chantier
 
 |
 
-T1 - Organiser et vérifier l'environnement du chantier
+T1-Organiser et vérifier l'environnement du chantier
 
 |
 
-T2 - Présenter et argumenter aux intervenants la chronologie des opérations et les procédures de mise en œuvre à respecter
+T2-Présenter et argumenter aux intervenants la chronologie des opérations et les procédures de mise en œuvre à respecter
 
 |
 
-T3 - Lancer les opérations sur chantier : - Réceptionner les espaces et supports à agencer - Implanter les ouvrages à installer
+T3-Lancer les opérations sur chantier :-Réceptionner les espaces et supports à agencer-Implanter les ouvrages à installer
 
 |
 
-T4 - Gérer les livraisons sur chantier (planning, gabarit/accès, conformité..)
+T4-Gérer les livraisons sur chantier (planning, gabarit/ accès, conformité..)
 
 |
 
@@ -290,19 +290,19 @@ Suivi des opérations de mise en œuvre sur chantier
 
 |
 
-T1 - Participer aux réunions de chantier et prendre en compte les modifications et/ou demandes spécifiques
+T1-Participer aux réunions de chantier et prendre en compte les modifications et/ ou demandes spécifiques
 
 |
 
-T2 - Suivre l'avancement du chantier, évaluer les écarts prévu/réalisé et proposer les ajustements nécessaires
+T2-Suivre l'avancement du chantier, évaluer les écarts prévu/ réalisé et proposer les ajustements nécessaires
 
 |
 
-T3 - Contrôler la conformité des travaux exécutés
+T3-Contrôler la conformité des travaux exécutés
 
 |
 
-T4 - Informer et relancer en interne et/ou externe les partenaires et sous-traitants
+T4-Informer et relancer en interne et/ ou externe les partenaires et sous-traitants
 
 |
 
@@ -312,15 +312,15 @@ Bilan et réception des travaux
 
 |
 
-T1 - Participer à la réception des travaux et organiser la levée des réserves
+T1-Participer à la réception des travaux et organiser la levée des réserves
 
 |
 
-T2 - Relever les interventions (temps, matières, environnement, etc.)
+T2-Relever les interventions (temps, matières, environnement, etc.)
 
 |
 
-T3 - Transmettre les informations pour constitution ou actualisation des bases de données de l'entreprise
+T3-Transmettre les informations pour constitution ou actualisation des bases de données de l'entreprise
 
 |
 
@@ -338,7 +338,7 @@ Activité :
 
 |
 
-A1 - Étude du projet d'agencement
+A1-Étude du projet d'agencement
 
 |
 
@@ -382,7 +382,7 @@ T5
 
 |
 
-Proposer et argumenter des choix de solutions techniques en collaboration avec le concepteur et/ou le maître d'ouvrage.
+Proposer et argumenter des choix de solutions techniques en collaboration avec le concepteur et/ ou le maître d'ouvrage.
 
 |
 
@@ -428,7 +428,7 @@ Atelier (réalisation des prototypes...).
 
 |
 
-Données techniques / ressources
+Données techniques/ ressources
 
 |
 
@@ -436,13 +436,13 @@ Données techniques / ressources
 
 Dossier d'appel d'offres établi par un architecte, architecte d'intérieur, designer et constitué de :
 
-- Plans, croquis...
+-Plans, croquis...
 
-- DCE, CCTP, cahier des charges, descriptif,
+-DCE, CCTP, cahier des charges, descriptif,
 
-- Documents graphiques, photos...
+-Documents graphiques, photos...
 
-- Bordereaux quantitatifs.
+-Bordereaux quantitatifs.
 
 Propositions et désirs du client...
 
@@ -562,7 +562,7 @@ R5
 
 |
 
-Les solutions techniques proposées respectent : Le cahier des charges et les normes en vigueur, Les moyens techniques de l'entreprise et/ou des sous-traitants, Une adéquation avec le budget prévisionnel.
+Les solutions techniques proposées respectent : Le cahier des charges et les normes en vigueur, Les moyens techniques de l'entreprise et/ ou des sous-traitants, Une adéquation avec le budget prévisionnel.
 
 |
 
@@ -578,7 +578,7 @@ R7
 
 |
 
-Les interfaces travaux/corps d'état sont listées ainsi que les plages d'intervention de chacun.
+Les interfaces travaux/ corps d'état sont listées ainsi que les plages d'intervention de chacun.
 
 |
 
@@ -604,7 +604,7 @@ Activité :
 
 |
 
-A2 - Définition du projet d'agencement
+A2-Définition du projet d'agencement
 
 |
 
@@ -666,7 +666,7 @@ Bureau d'étude
 
 |
 
-Données techniques / ressources
+Données techniques/ ressources
 
 |
 
@@ -774,7 +774,7 @@ R2
 
 |
 
-Les plans de détails de chaque ouvrage permettent de définir chaque élément : nature des matériaux, dimensions, façonnages, composants ou accessoires à intégrer, articulations et/ou assemblages avec les autres éléments de l'ouvrage.
+Les plans de détails de chaque ouvrage permettent de définir chaque élément : nature des matériaux, dimensions, façonnages, composants ou accessoires à intégrer, articulations et/ ou assemblages avec les autres éléments de l'ouvrage.
 
 |
 
@@ -816,7 +816,7 @@ Activité :
 
 |
 
-A3 - Planification prévisionnelle et préparation des interventions
+A3-Planification prévisionnelle et préparation des interventions
 
 |
 
@@ -880,7 +880,7 @@ Fournisseurs et sous-traitants.
 
 |
 
-Données techniques / ressources
+Données techniques/ ressources
 
 |
 
@@ -1038,7 +1038,7 @@ Activité :
 
 |
 
-A4 - Lancement de la mise en œuvre sur chantier
+A4-Lancement de la mise en œuvre sur chantier
 
 |
 
@@ -1074,7 +1074,7 @@ T4
 
 |
 
-Gérer les livraisons sur chantier (planning, gabarit/accès, conformité, etc.)
+Gérer les livraisons sur chantier (planning, gabarit/ accès, conformité, etc.)
 
 |
 
@@ -1092,7 +1092,7 @@ Chantier
 
 |
 
-Données techniques / ressources
+Données techniques/ ressources
 
 |
 
@@ -1234,7 +1234,7 @@ Activité :
 
 |
 
-A5 - Suivi des opérations de mise en œuvre sur chantier
+A5-Suivi des opérations de mise en œuvre sur chantier
 
 |
 
@@ -1246,7 +1246,7 @@ T1
 
 |
 
-Participer aux réunions de chantier et prendre en compte des modifications et/ou demandes spécifiques.
+Participer aux réunions de chantier et prendre en compte des modifications et/ ou demandes spécifiques.
 
 |
 
@@ -1254,7 +1254,7 @@ T2
 
 |
 
-Suivre l'avancement du chantier, évaluer les écarts "prévu/réalisé" et proposer les ajustements nécessaires.
+Suivre l'avancement du chantier, évaluer les écarts " prévu/ réalisé " et proposer les ajustements nécessaires.
 
 |
 
@@ -1270,7 +1270,7 @@ T4
 
 |
 
-Informer et relancer en interne et/ou externe (les partenaires et sous-traitants).
+Informer et relancer en interne et/ ou externe (les partenaires et sous-traitants).
 
 |
 
@@ -1290,7 +1290,7 @@ Chantier
 
 |
 
-Données techniques / ressources
+Données techniques/ ressources
 
 |
 
@@ -1440,7 +1440,7 @@ Activité :
 
 |
 
-A6 - Bilan et réception des travaux
+A6-Bilan et réception des travaux
 
 |
 
@@ -1488,7 +1488,7 @@ Chantier
 
 |
 
-Données techniques / ressources
+Données techniques/ ressources
 
 |
 
@@ -1720,11 +1720,11 @@ MATIÈRES PLASTIQUES ETRÉSINES
 
 |
 
-P.V.C.
+P. V. C.
 
 |
 
-P.M.M.A
+P. M. M. A
 
 |
 
@@ -1880,7 +1880,7 @@ Mousse à cellules ouvertes ou fermées
 
 |
 
-Profilés métalliques, P.V.C. et aluminium.
+Profilés métalliques, P. V. C. et aluminium.
 
 |
 
@@ -1896,7 +1896,7 @@ Produits de finition, peintures, lasures, vernis, huile, cire...
 
 |
 
-Tableau de mise en relation des matériaux et des techniques à mettre en œuvre par le titulaire du baccalauréat "Agencement de l'Espace Architectural"
+Tableau de mise en relation des matériaux et des techniques à mettre en œuvre par le titulaire du baccalauréat " Etude et réalisation d'agencement "
 
 MATÉRIAUX
 

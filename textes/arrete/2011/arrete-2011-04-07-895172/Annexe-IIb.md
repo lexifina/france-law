@@ -4,7 +4,7 @@ Règlement d'examen
 
 Baccalauréat professionnel
 
-"Agencement de l'Espace Architectural"
+" Etude et réalisation d'agencement "
 
 |
 
@@ -66,7 +66,7 @@ Durée
 
 |
 
-E.1- Épreuve scientifique
+E. 1-Épreuve scientifique
 
 |
 
@@ -80,13 +80,13 @@ E.1- Épreuve scientifique
 
 |
 
-Sous-épreuve E.11
+Sous-épreuve E. 11
 
 Mathématiques
 
 |
 
-U.11
+U. 11
 
 |
 
@@ -110,13 +110,13 @@ CCF
 
 |
 
-Sous-épreuve E.12
+Sous-épreuve E. 12
 
 Sciences physiques et chimiques
 
 |
 
-U.12
+U. 12
 
 |
 
@@ -140,7 +140,7 @@ CCF
 
 |
 
-E.2- Épreuve technologique et artistique
+E. 2-Épreuve technologique et artistique
 
 |
 
@@ -156,13 +156,13 @@ E.2- Épreuve technologique et artistique
 
 |
 
-Sous-épreuve E.21 :
+Sous-épreuve E. 21 :
 
 Arts et techniques : histoire de l'art, des styles et des tendances dans le domaine de l'agencement
 
 |
 
-U.21
+U. 21
 
 |
 
@@ -190,13 +190,13 @@ CCF
 
 |
 
-Sous-épreuve E.22
+Sous-épreuve E. 22
 
 Analyse d'un projet d'agencement
 
 |
 
-U.22
+U. 22
 
 |
 
@@ -224,13 +224,13 @@ CCF
 
 |
 
-Sous épreuve E.23
+Sous épreuve E. 23
 
 Préparation de chantier
 
 |
 
-U.23
+U. 23
 
 |
 
@@ -242,7 +242,7 @@ Ponctuel écrit
 
 |
 
-3 h (+1h)
+3 h (+ 1h)
 
 |
 
@@ -250,7 +250,7 @@ Ponctuel écrit
 
 |
 
-3 h (+1h)
+3 h (+ 1h)
 
 |
 
@@ -258,7 +258,7 @@ CCF
 
 |
 
-E.3- Épreuve pratique prenant en compte la formation en milieu professionnel
+E. 3-Épreuve pratique prenant en compte la formation en milieu professionnel
 
 |
 
@@ -272,13 +272,13 @@ E.3- Épreuve pratique prenant en compte la formation en milieu professionnel
 
 |
 
-Sous-épreuve E.31
+Sous-épreuve E. 31
 
 Réalisation et suivi des ouvrages en entreprise.
 
 |
 
-U.31
+U. 31
 
 |
 
@@ -302,13 +302,13 @@ CCF
 
 |
 
-Sous-épreuve E.32
+Sous-épreuve E. 32
 
 Étude et présentation d'un projet
 
 |
 
-U.32
+U. 32
 
 |
 
@@ -332,13 +332,13 @@ CCF
 
 |
 
-Sous-épreuve E.33
+Sous-épreuve E. 33
 
 Réalisation de maquettes et prototypes
 
 |
 
-U.33
+U. 33
 
 |
 
@@ -362,13 +362,13 @@ CCF
 
 |
 
-Sous-épreuve E.34
+Sous-épreuve E. 34
 
 Économie-gestion
 
 |
 
-U.34
+U. 34
 
 |
 
@@ -392,13 +392,13 @@ CCF
 
 |
 
-Sous-épreuve E.35
+Sous-épreuve E. 35
 
-Prévention - santé - environnement
+Prévention-santé-environnement
 
 |
 
-U.35
+U. 35
 
 |
 
@@ -422,11 +422,11 @@ CCF
 
 |
 
-E.4- Épreuve de langue vivante
+E. 4-Épreuve de langue vivante
 
 |
 
-U.4
+U. 4
 
 |
 
@@ -450,7 +450,7 @@ CCF
 
 |
 
-E.5- Épreuve de Français et Histoire - Géographie et Éducation civique
+E. 5-Épreuve de Français et Histoire-Géographie et Éducation civique
 
 |
 
@@ -464,11 +464,11 @@ E.5- Épreuve de Français et Histoire - Géographie et Éducation civique
 
 |
 
-Sous-épreuve E.51 : Français
+Sous-épreuve E. 51 : Français
 
 |
 
-U.51
+U. 51
 
 |
 
@@ -496,11 +496,11 @@ CCF
 
 |
 
-Sous-épreuve E.52 : Histoire-Géographie et Éducation civique
+Sous-épreuve E. 52 : Histoire-Géographie et Éducation civique
 
 |
 
-U.52
+U. 52
 
 |
 
@@ -528,11 +528,11 @@ CCF
 
 |
 
-E.6- Épreuve d'arts appliqués et cultures artistiques
+E. 6-Épreuve d'arts appliqués et cultures artistiques
 
 |
 
-U.6
+U. 6
 
 |
 
@@ -556,11 +556,11 @@ CCF
 
 |
 
-E.7- Épreuve d'Éducation physique et sportive
+E. 7-Épreuve d'Éducation physique et sportive
 
 |
 
-U.7
+U. 7
 
 |
 
@@ -586,7 +586,7 @@ CCF
 
 |
 
-UF.1
+UF. 1
 
 |
 
