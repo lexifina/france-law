@@ -134,7 +134,9 @@ A
 
 |
 
-a) Installations de chargement ou déchargement desservant un dépôt de gaz inflammables soumis à autorisation |
+a) Installations de chargement ou déchargement desservant un dépôt de gaz inflammables soumis à autorisation
+
+|
 
 A
 
@@ -148,7 +150,9 @@ A
 
 |
 
-b) Autres installations que celles visées au 2. a, lorsque le nombre maximal d'opérations de chargement et de déchargement est supérieur ou égal à 20 par jour ou supérieur ou égal à 75 par semaine |
+b) Autres installations que celles visées au 2.a, lorsque le nombre maximal d'opérations de chargement et de déchargement est supérieur ou égal à 20 par jour ou supérieur ou égal à 75 par semaine
+
+|
 
 A
 
@@ -162,7 +166,9 @@ A
 
 |
 
-c) Autres installations que celles visées aux 2. a et 2. b, lorsque le nombre maximal d'opérations de chargement et de déchargement est supérieur ou égal à 2 par jour |
+c) Autres installations que celles visées aux 2.a et 2.b, lorsque le nombre maximal d'opérations de chargement et de déchargement est supérieur ou égal à 2 par jour
+
+|
 
 DC
 
@@ -188,7 +194,9 @@ DC
 
 |
 
-4. Installations de chargement ou de déchargement de citerne à citerne, à l'exclusion de celles exploitées uniquement à des fins de maintenance des citernes, les citernes étant définies par les réglementations relatives au transport de marchandises dangereuses par voie routière (ADR) ou par voie ferroviaire (RID) |
+4. Installations de chargement ou de déchargement de citerne à citerne, à l'exclusion de celles exploitées uniquement à des fins de maintenance des citernes, les citernes étant définies par les réglementations relatives au transport de marchandises dangereuses par voie routière (ADR) ou par voie ferroviaire (RID)
+
+|
 
 A
 
@@ -224,19 +232,25 @@ Lorsque le remplissage dépasse 1 000 unités par jour
 
 |
 
-A |
+A
 
-1 |
+|
+
+1
 
 |
 
 |
 
-2. Aérosols inflammables non visés par le point 1 et contenant des liquides inflammables de catégorie 2 et 3, le débit maximal de l'installation étant supérieur ou égal à 100 m ³/ h
+|
+
+2. Aérosols inflammables non visés par le point 1 et contenant des liquides inflammables de catégorie 2 et 3, le débit maximal de l'installation étant supérieur ou égal à 100 m³/h
 
 |
 
-A |
+A
+
+|
 
 1
 
@@ -250,7 +264,7 @@ A |
 
 |
 
-Liquides inflammables, liquides combustibles de point éclair compris entre 60° C et 93° C, fiouls lourds, pétroles bruts (installation de remplissage ou de distribution, à l'exception des stations-service visées à la rubrique 1435).
+Liquides inflammables, liquides combustibles de point éclair compris entre 60 °C et 93 °C, fiouls lourds, pétroles bruts (installation de remplissage ou de distribution, à l'exception des stations-service visées à la rubrique 1435).
 
 |
 
@@ -262,9 +276,7 @@ Liquides inflammables, liquides combustibles de point éclair compris entre 60°
 
 |
 
-|
-
-1. Installations de chargement de véhicules citernes, de remplissage de récipients mobiles, le débit maximum de l'installation étant : |
+1. Installations de chargement de véhicules citernes, de remplissage de récipients mobiles, le débit maximum de l'installation étant :
 
 |
 
@@ -276,7 +288,9 @@ Liquides inflammables, liquides combustibles de point éclair compris entre 60°
 
 |
 
-a) Supérieur ou égal à 100 m³/ h |
+a) Supérieur ou égal à 100 m³/h
+
+|
 
 A |
 
@@ -286,15 +300,11 @@ A |
 
 |
 
-|
-
-b) Supérieur ou égal à 5 m³/ h, mais inférieur à 100 m³/ h
+b) Supérieur ou égal à 5 m³/h, mais inférieur à 100 m³/h
 
 |
 
 DC
-
-|
 
 |
 
@@ -348,23 +358,7 @@ Le volume annuel de carburant liquide distribué étant :
 
 |
 
-1. Supérieur à 40 000 m³
-
-|
-
-A
-
-|
-
-1
-
-|
-
-|
-
-|
-
-2. Supérieur à 20 000 m³ mais inférieur ou égal à 40 000 m³
+1. Supérieur à 20 000 m³
 
 |
 
@@ -372,19 +366,23 @@ E
 
 |
 
-|
+-
 
 |
 
 |
 
-3. Supérieur à 100 m³ d'essence ou 500 m3 au total, mais inférieur ou égal à 20 000 m³
+|
+
+23. Supérieur à 100 m³ d'essence ou 500 m3 au total, mais inférieur ou égal à 20 000 m³
 
 |
 
 DC
 
 |
+
+-
 
 |
 
@@ -402,7 +400,7 @@ Essence : tout dérivé du pétrole, avec ou sans additif d'une pression de vape
 
 |
 
-Liquides combustibles de point éclair compris entre 60° C et 93° C (stockage ou emploi de).
+Liquides combustibles de point éclair compris entre 60 °C et 93 °C (stockage ou emploi de).
 
 |
 
@@ -414,7 +412,7 @@ Liquides combustibles de point éclair compris entre 60° C et 93° C (stockage 
 
 |
 
-La quantité totale susceptible d'être présente dans les installations, y compris dans les cavités souterraines étant : |
+La quantité totale susceptible d'être présente dans les installations, y compris dans les cavités souterraines étant :
 
 |
 
@@ -424,7 +422,11 @@ La quantité totale susceptible d'être présente dans les installations, y comp
 
 |
 
-1. Supérieure ou égale à 1 000 t |
+|
+
+1. Supérieure ou égale à 1 000 t
+
+|
 
 A
 
@@ -438,7 +440,9 @@ A
 
 |
 
-2. Supérieure ou égale à 100 t mais inférieure à 1 000 t |
+2. Supérieure ou égale à 100 t mais inférieure à 1 000 t
+
+|
 
 DC
 
@@ -466,7 +470,9 @@ Solides inflammables (stockage ou emploi de).
 
 |
 
-La quantité susceptible d'être présente dans l'installation étant : |
+La quantité susceptible d'être présente dans l'installation étant :
+
+|
 
 |
 

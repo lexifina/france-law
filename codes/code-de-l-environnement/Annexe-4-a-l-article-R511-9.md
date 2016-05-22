@@ -18,6 +18,8 @@ Désignation de la rubrique
 
 A, E, D, S, C (1)
 
+(a)
+
 |
 
 Rayon (2)
@@ -3856,7 +3858,7 @@ A
 
 |
 
-Installation de traitement thermique de déchets non dangereux.
+Installation de traitement thermique de déchets non dangereux, à l'exclusion des installations visées à la rubrique 2971
 
 |
 
@@ -3869,46 +3871,6 @@ A
 |
 
 |
-
-|
-
-|
-
-|
-
-|
-
-La capacité de traitement étant :
-
-|
-
-|
-
-|
-
-|
-
-|
-
-1. Supérieure ou égale à 3 t/h
-
-|
-
-6
-
-|
-
-|
-
-|
-
-|
-
-2. Inférieure à 3 t/h
-
-|
-
-3
 
 |
 
@@ -4288,7 +4250,7 @@ A
 
 |
 
-Installation de traitement de déchets non dangereux à l'exclusion des installations visées aux rubriques 2720, 2760, 2771, 2780, 2781 et 2782.
+Installation de traitement de déchets non dangereux à l'exclusion des installations visées aux rubriques 2720, 2760, 2771, 2780, 2781,2782 et 2971
 
 |
 
@@ -4336,63 +4298,11 @@ DC
 
 |
 
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-1. La capacité de traitement étant :
-
-|
-
-|
-
-|
-
-|
-
-|
-
-a) Supérieure ou égale à 50 t/j
-
-|
-
-6
-
-|
-
-|
-
-|
-
-|
-
-b) Supérieure ou égale à 10 t/j et inférieure à 50 t/j
-
-|
-
-3
-
-|
-
-|
-
-|
-
-|
-
-2. Non soumis à la taxe
-
-|
-
 -
+
+|
+
+|
 
 |
 
@@ -4463,6 +4373,10 @@ Nota. - La concentration en PCB/ PCT s'exprime en PCB totaux.
 Quantité seuil bas au sens de l'article R. 511-10 : 100 t.
 
 Quantité seuil haut au sens de l'article R. 511-10 : 200 t.
+
+(1) A : autorisation, E : enregistrement, D : déclaration, C : soumis au contrôle périodique prévu par l'article L. 512-11 du code de l'environnement.
+
+(2) Rayon d'affichage en kilomètres.
 
 |
 
@@ -4758,7 +4672,7 @@ D
 
 |
 
-Combustion à l'exclusion des installations visées par les rubriques 2770 et 2771.
+Combustion à l'exclusion des installations visées par les rubriques 2770, 2771 et 2971
 
 |
 
@@ -4770,15 +4684,13 @@ Combustion à l'exclusion des installations visées par les rubriques 2770 et 27
 
 |
 
-A. Lorsque l'installation consomme exclusivement, seuls ou en mélange, du gaz naturel, des gaz de pétrole liquéfiés, du fioul domestique, du charbon, des fiouls lourds, de la biomasse telle que définie au a ou au b (i) ou au b (iv) de la définition de biomasse, des produits connexes de scierie issus du b (v) de la définition de biomasse ou lorsque la biomasse est issue de déchets au sens de l'article L. 541-4-3 du code de l'environnement, à l'exclusion des installations visées par d'autres rubriques de la nomenclature pour lesquelles la combustion participe à la fusion, la cuisson ou au traitement, en mélange avec les gaz de combustion, des matières entrantes, si la puissance thermique nominale de l'installation est :
+A.-Lorsque l'installation consomme exclusivement, seuls ou en mélange, du gaz naturel, des gaz de pétrole liquéfiés, du fioul domestique, du charbon, des fiouls lourds, de la biomasse telle que définie au a) ou au b) i) ou au b) iv) de la définition de biomasse, des produits connexes de scierie issus du b) v) de la définition de biomasse ou lorsque la biomasse est issue de déchets au sens de l'article L. 541-4-3 du code de l'environnement, à l'exclusion des installations visées par d'autres rubriques de la nomenclature pour lesquelles la combustion participe à la fusion, la cuisson ou au traitement, en mélange avec les gaz de combustion, des matières entrantes, si la puissance thermique nominale de l'installation est :
 
 |
 
 |
 
 |
-
-A. La puissance thermique nominale de l'installation (fixée et garantie par le constructeur, exprimée en PCI et susceptible d'être consommée en marche continue), étant :
 
 |
 
@@ -4796,39 +4708,7 @@ A
 
 |
 
-a) Supérieure à 1 000 MW
-
 |
-
-10
-
-|
-
-|
-
-|
-
-|
-
-b) Supérieure ou égale à 50 MW mais inférieure à 1 000 MW
-
-|
-
-4
-
-|
-
-|
-
-|
-
-|
-
-c) Supérieure ou égale à 20 MW mais inférieure à 50 MW
-
-|
-
-1
 
 |
 
@@ -4840,13 +4720,7 @@ DC
 
 |
 
-|
-
-|
-
-|
-
-B. Lorsque les produits consommés seuls ou en mélange sont différents de ceux visés en A et C ou sont de la biomasse telle que définie au b (ii) ou au b (iii) ou au b (v) de la définition de biomasse, et si la puissance thermique nominale de l'installation est :
+-
 
 |
 
@@ -4854,7 +4728,13 @@ B. Lorsque les produits consommés seuls ou en mélange sont différents de ceux
 
 |
 
-B. La puissance thermique nominale de l'installation (fixée et garantie par le constructeur, exprimée en PCI et susceptible d'être consommée en marche continue), étant :
+B.-Lorsque les produits consommés seuls ou en mélange sont différents de ceux visés en A et C ou sont de la biomasse telle que définie au b) ii) ou au b) iii) ou au b) v) de la définition de biomasse, et si la puissance thermique nominale de l'installation est :
+
+|
+
+|
+
+|
 
 |
 
@@ -4872,55 +4752,7 @@ A
 
 |
 
-a) Supérieure à 1 000 MW
-
 |
-
-10
-
-|
-
-|
-
-|
-
-|
-
-b) Supérieure ou égale à 50 MW mais inférieure à 1 000 MW
-
-|
-
-4
-
-|
-
-|
-
-E
-
-|
-
-|
-
-c) Supérieure ou égale à 20 MW mais inférieure à 50 MW
-
-|
-
-1
-
-|
-
-|
-
-|
-
-|
-
-d) Supérieure à 0,1 MW mais inférieure à 20 MW lorsque le combustible utilisé n'est pas de la biomasse telle que définie au b (ii) ou au b (iii) ou au b (v) de la définition de biomasse, ou du biogaz autre que celui visé en 2910-C, ou un produit autre que biomasse issu de déchets au sens de l'article L. 541-4-3 du code de l'environnement
-
-|
-
-1
 
 |
 
@@ -4940,7 +4772,11 @@ a) En cas d'utilisation de biomasse telle que définie au b (ii) ou au b (iii) o
 
 |
 
+E
+
 |
+
+-
 
 |
 
@@ -5000,6 +4836,8 @@ E
 
 |
 
+-
+
 |
 
 |
@@ -5013,6 +4851,8 @@ E
 DC
 
 |
+
+-
 
 |
 
@@ -5092,7 +4932,7 @@ ii) Déchets végétaux provenant du secteur industriel de la transformation ali
 
 |
 
-iii) Déchets végétaux fibreux issus de la production de pâte vierge et de la production de papier à partir de pâte, s'ils sont co-incinérés sur le lieu de production et si la chaleur produite est valorisée ;
+iii) Déchets végétaux fibreux issus de la production de pâte vierge et de la production de papier à partir de pâte, s'ils sont coincinérés sur le lieu de production et si la chaleur produite est valorisée ;
 
 |
 
@@ -5825,6 +5665,50 @@ Quelle que soit la capacité
 |
 
 3
+
+|
+
+2971 |
+
+Installation de production de chaleur ou d'électricité à partir de déchets non dangereux préparés sous forme de combustibles solides de récupération dans une installation prévue à cet effet, associés ou non à un autre combustible.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1. Installations intégrées dans un procédé industriel de fabrication |
+
+A
+
+|
+
+2
+
+|
+
+|
+
+|
+
+2. Autres installations
+
+|
+
+A
+
+|
+
+2
+
+|
+
+|
 
 |
 
@@ -6894,7 +6778,7 @@ Nota. - lorsque la seule activité de traitement des déchets exercée est la di
 
 |
 
-Installation de stockage de déchets autre que celles mentionnées à la rubrique 2720 et celles relevant des dispositions de l'article L. 541-30-1 du code de l'environnement, recevant plus de 10 tonnes de déchets par jour ou d'une capacité totale supérieure à 25 000 tonnes
+Installation de stockage de déchets autre que celles mentionnées aux rubriques 2720 et 2760-3, recevant plus de 10 tonnes de déchets par jour ou d'une capacité totale supérieure à 25 000 tonnes
 
 |
 
@@ -7184,7 +7068,9 @@ Nota 2. - La présente rubrique ne s'applique pas si la matière première est s
 
 |
 
-|
+(1) A : autorisation, E : enregistrement, D : déclaration, C : soumis au contrôle périodique prévu par l'article L. 512-11 du code de l'environnement.
+
+(2) Rayon d'affichage en kilomètres.
 
 |
 
@@ -7194,9 +7080,9 @@ Nota 2. - La présente rubrique ne s'applique pas si la matière première est s
 
 |
 
-3643
-
 |
+
+3643 |
 
 Traitement et transformation du lait exclusivement, la quantité de lait reçue étant supérieure à 200 tonnes par jour (valeur moyenne sur une base annuelle)
 
@@ -7214,9 +7100,7 @@ A
 
 |
 
-3650
-
-|
+3650 |
 
 Elimination ou recyclage de carcasses ou de déchets animaux, avec une capacité de traitement supérieure à 10 tonnes par jour
 
@@ -7234,9 +7118,7 @@ A
 
 |
 
-3660
-
-|
+3660 |
 
 Elevage intensif de volailles ou de porcs :
 
@@ -7281,6 +7163,8 @@ A
 |
 
 3
+
+|
 
 |
 
@@ -10097,6 +9981,8 @@ Quantité seuil haut au sens de l'article R. 511-10 : 200 t.
 |
 
 (1) A : autorisation, E : enregistrement, D : déclaration, S: servitude d'utilité publique, C : soumis au contrôle périodique prévu par l'article L. 512-11 du code de l'environnement.
+
+(a) A : autorisation, E : enregistrement, D : déclaration, C : soumis au contrôle périodique prévu par l'article L. 512-11 du code de l'environnement.
 
 (2) Rayon d'affichage en kilomètres.
 
