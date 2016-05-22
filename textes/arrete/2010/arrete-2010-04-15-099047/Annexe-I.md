@@ -16,6 +16,14 @@ Dépotage : approvisionnement des réservoirs fixes de stockage de la station-se
 
 Aire de dépotage : surface d'arrêt des véhicules-citernes dédiée aux opérations d'approvisionnement des réservoirs fixes de stockage. Cette surface englobe les zones situées entre les bouches de réception en produit des réservoirs fixes et les vannes des réservoirs mobiles ainsi que le cheminement des flexibles. Cette surface est au minimum un rectangle de 3 mètres de large et de 4 mètres de longueur.
 
+Catégorie A : catégorie relative à l'oxyde d'éthyle, et à tout liquide dont le point éclair est inférieur à 0 °C et dont la pression de vapeur à 35 °C est supérieure à 105 pascal.
+
+Catégorie B : catégorie relative à tout liquide dont le point éclair est inférieur à 55 °C et qui ne répond pas à la définition des liquides de catégorie A.
+
+Catégorie C : catégorie relative à tout liquide dont le point éclair est supérieur ou égal à 55 °C et inférieur à 93 °C, sauf les fiouls lourds.
+
+Catégorie D : catégorie relative aux fiouls (ou mazout) lourds tels qu'ils sont définis par les spécifications administratives.
+
 Aire de distribution : surface accessible à la circulation des véhicules englobant les zones situées à moins de 3 mètres de la paroi des appareils de distribution.
 
 Décanteur-séparateur d'hydrocarbures : dispositif vers lequel les effluents susceptibles de contenir des hydrocarbures sont orientés avant rejet. Ce dispositif permet de séparer les matières en suspension et les hydrocarbures des eaux collectées. Le décanteur-séparateur d'hydrocarbures est muni d'un dispositif d'obturation automatique, en sortie de séparateur, empêchant tout déversement d'hydrocarbures dans le réseau en cas d'afflux d'hydrocarbures. Il est couplé de façon optionnelle à une cuve de rétention.
@@ -31,6 +39,8 @@ Libre service sans surveillance : installations en libre service autres que cell
 Superéthanol : carburant composé d'un minimum de 65 % d'éthanol d'origine agricole et d'un minimum de 15 % de supercarburant sans plomb.
 
 E10 : carburant ayant une teneur strictement supérieure à 5 % et inférieure ou égale à 10 % en éthanol.
+
+Volume (ou débit) équivalent : volume (ou débit) calculé avec la formule suivante : 10A + B + C/5 + D/15, où A, B, C, D représentent respectivement le volume (ou débit) de liquide de catégorie A, B, C, D.
 
 1.1. Conformité de l'installation au dossier d'enregistrement
 
@@ -62,7 +72,7 @@ Sans préjudice des règlements d'urbanisme, l'exploitant adopte les disposition
 
 L'ensemble des installations est maintenu propre et entretenu en permanence.
 
-Les abords de l'installation, placés sous le contrôle de l'exploitant, sont aménagés et maintenus en bon état de propreté. Les surfaces où cela est possible sont engazonnées. écrans de végétation sont mis en place, si cela est possible.
+Les abords de l'installation, placés sous le contrôle de l'exploitant, sont aménagés et maintenus en bon état de propreté. Les surfaces où cela est possible sont engazonnées. Des écrans de végétation sont mis en place, si cela est possible.
 
 Pour l'entretien des surfaces extérieures de son site (parkings, espaces verts, voies de circulation...), l'exploitant met en œuvre des bonnes pratiques, notamment en ce qui concerne le désherbage.
 
@@ -74,23 +84,13 @@ A. - L'implantation de nouvelles stations-service visées par le présent arrêt
 
 Le niveau de référence est celui de la voirie publique située à l'air libre et desservant la construction utilisable par les engins des services d'incendie et de secours. S'il y a deux accès par des voies situées à des niveaux différents, le niveau de référence est déterminé par la voie la plus basse.
 
-Par ailleurs, aucune bouche de dépotage ne débouche en sous-sol ou en rez-de-chaussée d'un immeuble occupé par des tiers. Cette disposition est applicable :
+Par ailleurs, aucune bouche de dépotage ne débouche en sous-sol ou en rez-de-chaussée d'un immeuble occupé par des tiers.
 
-- à partir du lendemain de la date de publication du présent arrêté, aux nouvelles installations ;
-
-- à partir du lendemain de la date de publication du présent arrêté, aux installations existantes dont le dossier de demande d'autorisation au titre de la rubrique 1434 a été déposé depuis le 1er juillet 2009 ;
-
-- à partir du lendemain de la date de publication du présent arrêté, aux installations régulièrement déclarées au titre de la rubrique 1434 à compter du 1er juillet 2009 ;
-
-- à compter du 1er janvier 2015 pour les installations existantes et régulièrement déclarées ou autorisées avant le 1er juillet 2009.
-
-La distribution en station-service de carburants de la catégorie B de la rubrique 1430 de la nomenclature des installations classées en rez-de-chaussée d'un immeuble habité ou occupé par des tiers ou en sous-sol n'est autorisée que sous réserve que l'installation soit équipée :
+La distribution en station-service de carburants de la catégorie B en rez-de-chaussée d'un immeuble habité ou occupé par des tiers ou en sous-sol n'est autorisée que sous réserve que l'installation soit équipée :
 
 - d'un système de détection des vapeurs d'hydrocarbures, d'une installation de ventilation d'urgence dont le déclenchement est asservi au système de détection et d'un arrêt d'urgence automatique des appareils de distribution asservi à ces mêmes détecteurs ;
 
 - de systèmes de récupération des vapeurs au dépotage des installations de stockage et au ravitaillement en carburant de la catégorie B des véhicules à moteur respectant les prescriptions du point 2.6.3.1 de l'annexe I du présent arrêté et d'un système de régulation électronique en boucle fermée respectant les prescriptions de l'article du point 2.6.3.2 de l'annexe I du présent arrêté quel que soit le volume distribué par an.
-
-Cette disposition s'applique à compter du 1er janvier 2020 pour les installations régulièrement déclarées ou autorisées au titre de la rubrique 1434 avant la date de publication du présent arrêté et immédiatement en cas de modification substantielle de l'installation nécessitant un nouvel enregistrement en application de l'article R. 512-46-12 du code de l'environnement.
 
 B. - Les distances minimales d'implantation (en mètres) à respecter vis-à-vis des issues d'un établissement recevant du public de 1re, 2e, 3e ou 4e catégorie, d'un immeuble habité ou occupé par des tiers, extérieur à l'établissement ou d'une installation extérieure à l'établissement présentant des risques d'incendie ou d'explosion suivantes sont :
 
@@ -210,9 +210,7 @@ Ces distances peuvent être diminuées de 30 % en cas d'interposition d'un mur R
 
 Par ailleurs, une distance d'éloignement de 5 mètres est observée entre les parois des appareils de distribution et les issues des locaux susceptibles d'accueillir le public au sein de l'installation. Cette distance est également observée entre les limites de l'aire de dépotage et ces mêmes issues.
 
-La distance de 5 mètres est également observée aux limites de la voie publique et aux limites de l'établissement, cette distance pouvant être ramenée à 1,5 mètre sur un seul côté, lorsque la limite est constituée par un mur REI 120 de 2,5 mètres de haut ou lorsque les liquides inflammables distribués sont de catégorie C au titre de la rubrique 1430 de la nomenclature des installations classées.
-
-Pour les installations régulièrement autorisées ou déclarées à la date de publication du présent arrêté, les distances à prendre en compte au titre du présent point B sont celles prévues dans l'arrêté d'autorisation ou à la date de la preuve de dépôt de la déclaration.
+La distance de 5 mètres est également observée aux limites de la voie publique et aux limites de l'établissement, cette distance pouvant être ramenée à 1,5 mètre sur un seul côté, lorsque la limite est constituée par un mur REI 120 de 2,5 mètres de haut ou lorsque les liquides inflammables distribués sont de catégorie C.
 
 C. - Les stockages de bouteilles de gaz combustibles liquéfiés respectent les conditions minimales d'éloignement suivantes des parois des appareils de distribution :
 
@@ -220,7 +218,7 @@ C. - Les stockages de bouteilles de gaz combustibles liquéfiés respectent les 
 
 7,5 mètres pour une capacité de dépôt supérieure à 15 000 kilogrammes.
 
-D. - Dans tous les cas, une distance minimale d'éloignement de 4 mètres, mesurée horizontalement, est observée entre l'évent d'un réservoir d'hydrocarbures et les parois d'appareils de distribution. Cette disposition est applicable aux installations existantes précédemment déclarées ou autorisées à compter du 1er juillet 2009 au titre de la rubrique 1434 de la nomenclature des installations classées.
+D. - Dans tous les cas, une distance minimale d'éloignement de 4 mètres, mesurée horizontalement, est observée entre l'évent d'un réservoir d'hydrocarbures et les parois d'appareils de distribution.
 
 2.2. Construction. - Accessibilité
 
@@ -302,7 +300,7 @@ Les gainages électriques et autres canalisations ne sont pas une cause possible
 
 2.2.5. Protection contre la foudre
 
-L'installation respecte les dispositions de l'arrêté du 15 janvier 2008 susvisé.
+L'installation respecte les dispositions de la section 3 de l'arrêté du 4 octobre 2010 relatif à la prévention des risques accidentels au sein des installations classées pour la protection de l'environnement soumises à autorisation.
 
 2.2.6. Rétention des aires et locaux de travail et isolement du réseau de collecte
 
@@ -334,7 +332,7 @@ Toutes dispositions sont prises pour que les égouttures sous les appareils de d
 
 Lorsque l'appareil est alimenté par une canalisation fonctionnant en refoulement, l'installation est équipée d'un dispositif de sécurité arrêtant automatiquement l'arrivée de produit en cas d'incendie ou de renversement accidentel du distributeur.
 
-Pour les installations en libre service sans surveillance, le volume en liquide inflammable délivré par opération par les appareils de distribution en libre service sans surveillance est limité à 120 litres de liquides inflammables de la catégorie de référence (coefficient 1) et à l'équivalent pour les autres catégories, exception faite toutefois des installations dont l'accès est réservé aux personnes formées à cet effet.
+Pour les installations en libre service sans surveillance, le volume délivré par opération par les appareils de distribution en libre service sans surveillance est limité à 120 litres de liquides inflammables de la catégorie B et à l'équivalent pour les autres catégories, exception faite toutefois des installations dont l'accès est réservé aux personnes formées à cet effet.
 
 2.2.9. Les flexibles
 
@@ -406,7 +404,9 @@ D'une façon générale, l'installation est dotée de moyens de lutte contre l'i
 
 - de deux appareils d'incendie (bouches ou poteaux d'incendie) d'un diamètre nominal DN 100 situés à moins de 100 mètres de la station-service (les distances sont mesurées par les voies praticables aux engins de secours). Ces appareils sont alimentés par un réseau public ou privé qui est en mesure de fournir un débit minimum de 60 mètres cubes par heure pendant au moins deux heures ; la pression dynamique minimale des appareils d'incendie est de 1 bar sans dépasser 8 bars.
 
-Le complément éventuel peut être apporté par une ou plusieurs réserves d'eau propre au site, accessible en permanence aux services d'incendie et de secours. Ces réserves ont une capacité minimale réellement utilisable de 120 mètres cubes. Elles sont dotées de plates-formes d'aspiration par tranche de 120 mètres cubes de capacité ;
+Le complément éventuel peut être apporté par une ou plusieurs réserves d'eau propre au site, accessible en permanence aux services d'incendie et de secours. Ces réserves ont une capacité minimale réellement utilisable de 120 mètres cubes. Elles sont dotées de plates-formes d'aspiration par tranche de 120 mètres cubes de capacité.
+
+Les appareils d'incendie (bouches ou poteaux d'incendie) et les réserves d'eau complémentaires sont implantés en respectant les distances minimales d'implantation fixées au point B de l'article 2.1. Cette disposition est applicable pour les installations enregistrées à partir du 1er juillet 2016 ;
 
 - d'un système d'alarme incendie (ou tout moyen permettant d'alerter les services d'incendie et de secours dans le cas des installations sans surveillance) ;
 
@@ -492,7 +492,7 @@ Tous les travaux de réparation ou d'aménagement effectués par une entreprise 
 
 Sans préjudice des dispositions du code du travail, des consignes précisant les modalités d'application des dispositions du présent arrêté sont établies, tenues à jour et portées à la connaissance du personnel dans les lieux fréquentés par le personnel. Ces consignes indiquent notamment :
 
-- l'interdiction d'apporter du feu sous une forme quelconque, dans les parties de l'installation visées au point 2.3.2 ;
+- l'interdiction d'apporter du feu sous une forme quelconque, dans les parties de l'installation visées au point 2.3.3 ;
 
 - l'obligation du plan de prévention pour les parties de l'installation visées au point 2.4.5 ;
 
@@ -564,39 +564,19 @@ Toutes dispositions sont prises pour que les percements effectués, par exemple 
 
 2.6.2. Récupération des vapeurs au remplissage des installations de stockage
 
-Le présent point est applicable à la distribution de carburant de la catégorie B de la rubrique 1430 de la nomenclature des installations classées à l'exception des carburants destinés l'aviation et des stations-service d'un débit inférieur à 100 mètres cubes par an.
+Le présent point est applicable à la distribution de carburant de la catégorie B à l'exception des carburants destinés l'aviation et des stations-service d'un débit inférieur à 100 mètres cubes par an.
 
 Lors du dépotage de carburant d'une citerne de transport dans les installations de stockage, les vapeurs générées par le déplacement de carburant sont renvoyées dans la citerne de transport au moyen d'un tuyau de raccordement étanche aux vapeurs. Lors de cette opération, un dispositif est mis en place afin que ces vapeurs ne s'évacuent pas par l'évent du réservoir de stockage de la station-service.
 
 Les opérations de remplissage des réservoirs des stations-service ne sont pas effectuées avant que ces dispositifs ne soient en place et fonctionnent correctement.
 
-2.6.3. Récupération des vapeurs liées
+2.6.3. Récupération des vapeurs liées au ravitaillement des véhicules à moteur
 
-au ravitaillement des véhicules à moteur
-
-Le présent point est applicable à la distribution de carburant de la catégorie B de la rubrique 1430 de la nomenclature des installations classées. Les carburants pour l'aviation ne sont pas concernés. Les débits considérés au titre du présent point sont relatifs aux carburants de la catégorie B de la rubrique 1430 de la nomenclature des installations classées.
+Le présent point est applicable à la distribution de carburant de la catégorie B. Les carburants pour l'aviation ne sont pas concernés. Les débits considérés au titre du présent point sont relatifs aux carburants de la catégorie B.
 
 2.6.3.1. Récupération des vapeurs
 
-Les stations-service dont le volume distribué est supérieur à 500 mètres cubes par an sont équipées de systèmes actifs de récupération des vapeurs afin de permettre le retour d'au moins 80 % des vapeurs dans les réservoirs fixes des stations-service.
-
-Cette disposition est applicable :
-
-- à partir du lendemain de la date de publication du présent arrêté pour les stations-service nouvelles ;
-
-- à partir du lendemain de la date de publication du présent arrêté pour les stations existantes d'un débit supérieur à 3 000 mètres cubes par an ainsi que pour les stations dont le débit a dépassé pour la première fois 500 mètres cubes par an postérieurement au 4 juillet 2001 ;
-
-- le 30 septembre de l'année suivant l'année civile durant laquelle le débit a dépassé 500 mètres cubes pour les installations dont le débit a été inférieur à 500 mètres cubes par an depuis le 4 juillet 2001 jusqu'au lendemain de la date de publication du présent arrêté ;
-
-- au plus tard le 1er janvier 2016 pour les autres stations-service.
-
-Ce taux de récupération est porté à 90 % :
-
-- à partir du lendemain de la date de publication du présent arrêté pour les nouvelles stations-service et les stations-service régulièrement autorisées ou déclarées à partir du 1er juillet 2009 et les installations en rez-de-chaussée d'un immeuble habité ou occupé par des tiers ou en sous-sol faisant l'objet d'une modification substantielle nécessitant un nouvel enregistrement au titre de l'article R. 512-46-12 du code de l'environnement ;
-
-- au 1er janvier 2016 pour les stations-service existantes régulièrement autorisées ou déclarées avant le 1er juillet 2009 et dont le débit est supérieur à 3 000 mètres cubes par an ;
-
-- au 1er janvier 2020 pour les stations-service existantes dont le débit est supérieur à 1 000 mètres cubes par an.
+Les stations-service dont le volume distribué est supérieur à 500 mètres cubes par an sont équipées de systèmes actifs de récupération des vapeurs afin de permettre le retour d'au moins 90 % des vapeurs dans les réservoirs fixes des stations-service.
 
 Les systèmes de récupération des vapeurs de carburant sont constitués de quatre types d'équipements :
 
@@ -612,15 +592,7 @@ Les systèmes de récupération des vapeurs de carburant sont constitués de qua
 
 Le dispositif de régulation cité au point 2.6.3.1 est en boucle fermée.
 
-Le signal de mauvais fonctionnement du système de récupération des vapeurs entraîne l'arrêt de la distribution de carburant dès lors que la réparation n'est pas réalisée sous 72 heures. Ces dispositions sont applicables :
-
-- au lendemain de la date de publication du présent arrêté, aux stations-service nouvelles ;
-
-- au lendemain de la date de publication du présent arrêté, aux stations-service autorisées à compter du 1er juillet 2009 ;
-
-- à compter du 1er janvier 2014, aux autres stations-service existantes dont le débit est supérieur à 3 000 mètres cubes par an ;
-
-- à compter du 1er janvier 2016, aux autres stations-service existantes dont le débit est supérieur à 1 000 mètres cubes par an.
+Le signal de mauvais fonctionnement du système de récupération des vapeurs entraîne l'arrêt de la distribution de carburant dès lors que la réparation n'est pas réalisée sous 72 heures.
 
 2.6.3.3. Retour des vapeurs
 
@@ -636,17 +608,17 @@ Un organe de coupure est mis en place entre le distributeur de carburant et la c
 
 2.6.3.5. Conception des systèmes de récupération
 
-Les systèmes de récupération des vapeurs sont conformes aux dispositions de l'annexe IV. Cette conformité est attestée, contrôlée et maintenue par un laboratoire compétent et indépendant.
+Les systèmes de récupération des vapeurs sont conformes aux dispositions de l'annexe III. Cette conformité est attestée, contrôlée et maintenue par un laboratoire compétent et indépendant.
 
-Tout système de récupération de vapeurs en provenance de la Communauté européenne ou originaire des pays AELE parties contractantes de l'accord EEE, qui est conforme à une réglementation, norme nationale ou procédé de fabrication dont l'application est permise dans l'un de ces Etats est également reconnu, pour autant que soit assuré un niveau de sécurité et d'efficacité équivalent à celui recherché dans l'annexe II du présent arrêté.
+Tout système de récupération de vapeurs en provenance de la Communauté européenne ou originaire des pays AELE parties contractantes de l'accord EEE, qui est conforme à une réglementation, norme nationale ou procédé de fabrication dont l'application est permise dans l'un de ces Etats est également reconnu, pour autant que soit assuré un niveau de sécurité et d'efficacité équivalent à celui recherché dans l'annexe III du présent arrêté.
 
 2.6.3.6. Maintenance du système de récupération
 
-L'exploitant s'assure du bon fonctionnement de son installation et fait réaliser avant la mise en service du système de récupération de vapeurs, après toute réparation du système et ensuite au moins une fois tous les six mois, pour les installations ne disposant pas d'un système de régulation électronique en boucle fermée et tous les trois ans pour les installations disposant d'un système de régulation électronique en boucle fermée, un contrôle sur site par un organisme compétent et indépendant, conformément aux dispositions de l'annexe III. Les résultats de ces mesures sont tenus à disposition de l'inspecteur des installations classées pendant un délai d'au moins six ans.
+L'exploitant s'assure du bon fonctionnement de son installation et fait réaliser avant la mise en service du système de récupération de vapeurs, après toute réparation du système et ensuite au moins une fois tous les six mois, pour les installations ne disposant pas d'un système de régulation électronique en boucle fermée et tous les trois ans pour les installations disposant d'un système de régulation électronique en boucle fermée, un contrôle sur site par un organisme compétent et indépendant, conformément aux dispositions de l'annexe IV. Les résultats de ces mesures sont tenus à disposition de l'inspecteur des installations classées pendant un délai d'au moins six ans.
 
 2.6.3.7. Affichage
 
-A compter du 1er janvier 2012, un panneau ou autocollant indique la présence d'un système de récupération de vapeur sur chaque distributeur de carburant de catégorie B de la nomenclature des installations classées ou à proximité équipé d'un tel dispositif.
+A compter du 1er janvier 2012, un panneau ou autocollant indique la présence d'un système de récupération de vapeur sur chaque distributeur de carburant de catégorie B ou à proximité équipé d'un tel dispositif.
 
 2.7. Odeurs
 
