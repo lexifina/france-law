@@ -1,0 +1,9 @@
+# Réponse à la question n° 53868
+
+- Question : [53868](53868.md) — Question n° 53868 — procès-verbal électronique; procédure; évolution
+
+## Réponse
+
+*JO du 2016-05-24*
+
+L'article 530 du code de procédure pénale dispose que "dans les trente jours de l'envoi de l'avis invitant le contrevenant à payer l'amende forfaitaire majorée, l'intéressé peut former auprès du ministère public une réclamation motivée qui a pour effet d'annuler le titre exécutoire en ce qui concerne l'amende contestée. Cette réclamation reste recevable tant que la peine n'est pas prescrite, s'il ne résulte pas d'un acte d'exécution ou de tout autre moyen de preuve que l'intéressé a eu connaissance de l'amende forfaitaire majorée. S'il s'agit d'une contravention au code de la route, la réclamation n'est toutefois plus recevable à l'issue d'un délai de trois mois lorsque l'avis d'amende forfaitaire majorée est envoyé par lettre recommandée à l'adresse figurant sur le certificat d'immatriculation du véhicule, sauf si le contrevenant justifie qu'il a, avant l'expiration de ce délai, déclaré son changement d'adresse au service d'immatriculation des véhicules". Dans l'hypothèse où la réclamation est jugée recevable par l'officier du ministère public, il ressort des pratiques rapportées par plusieurs parquets dans le cadre des rapports annuels de politique pénale que, si le requérant démontre qu'il n'a pas eu connaissance de l'amende initiale et s'il est confirmé, après recherches, que celui-ci n'habite pas à l'adresse initialement indiquée, l'amende forfaitaire majorée est annulée à hauteur de la différence avec la première amende et le contrevenant reçoit alors un nouvel avis à payer directement à son domicile. Cette pratique présente l'avantage de renforcer l'individualisation de la réponse pénale, et une modification des textes n'apparaît donc pas nécessaire.
