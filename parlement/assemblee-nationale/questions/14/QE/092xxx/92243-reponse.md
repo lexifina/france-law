@@ -1,0 +1,9 @@
+# Réponse à la question n° 92243
+
+- Question : [92243](92243.md) — Question n° 92243 — Défenseur des droits; rapport; propositions
+
+## Réponse
+
+*JO du 2016-05-24*
+
+Les enquêtes réalisées par la direction de la recherche des études et évaluation et statistiques (DREES) auprès des établissements et services sociaux et médico-sociaux (ESMS) le sont à un rythme quadriennal. La prochaine édition de l'enquête auprès des établissements accueillant des enfants au titre de la protection de l'enfance aura lieu en 2018 et portera sur l'année 2017. Le comité de pilotage de chacune de ces enquêtes est compétent pour décider de la modification des questionnaires. La DREES leur soumettra la proposition d'ajouter une question permettant de repérer, parmi les enfants accueillis au titre du handicap, ceux qui relèvent également de l'aide sociale à l'enfance (ASE), et, parmi les enfants accueillis au titre de la protection de l'enfance, une question sur l'existence d'une reconnaissance administrative du handicap. La DREES attire toutefois l'attention sur, d'une part, le champ de ces enquêtes, limité aux enfants pris en charge par un établissement, et, d'autre part, sur la difficulté à définir et à mesurer de façon simple (en peu de questions) l'existence d'un handicap. Par ailleurs, l'enquête annuelle de la DREES sur les enfants pris en charge par l'aide sociale à l'enfance (questionnaire adressé à l'ensemble des conseils départementaux), comprend une question sur le mode de placement des enfants accueillis à l'ASE. Il est notamment demandé le nombre d'enfants en famille d'accueil et établissement d'éducation spéciale (type institut médico-éducatif), et le nombre d'enfants accueillis exclusivement en établissement d'éducation spéciale. En complément, la DREES rajoutera, à partir de l'enquête 2017 sur la situation 2016, une question sur le nombre d'enfants accueillis à l'ASE et disposant d'une reconnaissance administrative du handicap.
