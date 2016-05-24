@@ -1,0 +1,9 @@
+# Réponse à la question n° 76090
+
+- Question : [76090](76090.md) — Question n° 76090 — prime de naissance; réglementation
+
+## Réponse
+
+*JO du 2016-05-24*
+
+Les conditions d'attribution de la prime à la naissance sont appréciées le premier jour du mois civil suivant le cinquième mois de grossesse conformément à l'article R.531-1 du code de la sécurité sociale. Ainsi, pour pouvoir prétendre au bénéfice de la prime, la grossesse doit donc être toujours en cours au premier jour du sixième mois de grossesse. La date d'appréciation du droit à la prime à la naissance au sixième mois de grossesse répond à une logique de « date d'effet » des prestations familiales sans lien avec le seuil de viabilité du fœtus défini par l'organisation mondiale de la santé (OMS). Ainsi, comme pour toutes les prestations familiales, la date d'appréciation est définie en mois civil. C'est pourquoi, certaines femmes peuvent ne pas bénéficier de la prime à la naissance quand elles perdent leur enfant avant le sixième mois de grossesse. Néanmoins, les caisses d'allocations familiales (CAF) proposent depuis 2009 une offre de services, dans le cadre de leur action sociale, d'accompagnement social des familles endeuillées. Des informations personnalisées et des aides liées au décès sont proposés aux parents dans le cadre de rendez-vous avec des travailleurs sociaux des CAF. L'accompagnement des parents endeuillés passe également par une facilitation des démarches de déclaration du décès. Ainsi, des travaux réunissant diverses administrations, services publics et organismes de protection sociale ont abouti à la création d'un télé-service décès sur le site internet mon.service-public.fr : il est destiné à éviter aux proches endeuillés de devoir, dans une période douloureuse, multiplier les démarches liées au décès.
