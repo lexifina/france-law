@@ -1,0 +1,9 @@
+# Réponse à la question n° 51899
+
+- Question : [51899](51899.md) — Question n° 51899 — Cour des comptes; recommandations
+
+## Réponse
+
+*JO du 2016-05-24*
+
+L'article 45 du code de procédure pénale dispose que "le procureur de la République près le tribunal de grande instance (TGI) occupe le siège du ministère public devant le tribunal de police pour les contraventions de la 5e classe. Il peut l'occuper également en toute matière devant le tribunal de police, s'il le juge à propos, au lieu et place du commissaire de police qui exerce habituellement ces fonctions". La politique pénale appliquée par les officiers du ministère public est définie par les procureurs de la République en fonction des directives nationales et régionales de politique pénale. Ainsi, des instructions de politique pénale sont délivrées par les procureurs concernant les modalités de traitement devant être réservées par les officiers du ministère public à certains types de contentieux, et ce notamment afin d'assurer une cohérence de la réponse pénale apportée aux contraventions des quatre premières classes sur l'ensemble du ressort du TGI, en lien avec le traitement réservé aux contraventions de 5ème classe et aux délits de même nature infractionnelle. Ces instructions des procureurs de la République aux officiers du ministère public constituent un réel contrôle de l'activité de ceux-ci. En outre, le contrôle des officiers du ministère public par les procureurs de la République peut prendre la forme d'inspections se fondant sur le référentiel mis en place par l'inspection générale des services judiciaires, de réunions régulières permettant aux procureurs d'examiner le bilan chiffré des officiers du ministère public, le taux de poursuite et de classement ainsi que les modalités de poursuites retenues, ou encore de la transmission de statistiques annuelles ou pluriannuelles au parquet.
