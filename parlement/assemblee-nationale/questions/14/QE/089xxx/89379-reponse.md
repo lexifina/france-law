@@ -1,0 +1,9 @@
+# Réponse à la question n° 89379
+
+- Question : [89379](89379.md) — Question n° 89379 — immeuble bâti; restauration; maintien
+
+## Réponse
+
+*JO du 2016-05-24*
+
+Les dépenses de restauration immobilière portant sur un immeuble bâti situé dans certains secteurs sauvegardés et assimilés ouvrent droit, sous conditions, à une réduction d'impôt sur le revenu, dite « Malraux », codifiée sous l'article 199 tervicies du code général des impôts. Cette réduction d'impôt s'applique aux dépenses portant sur des immeubles situés dans des secteurs sauvegardés, des zones de protection du patrimoine architectural, urbain et paysager et des aires de mise en valeur de l'architecture et du patrimoine. Par ailleurs, l'article 27 de la loi no 2009-323 du 25 mars 2009 de mobilisation pour le logement et la lutte contre l'exclusion a étendu, de manière temporaire, le champ d'application géographique de la réduction d'impôt « Malraux » aux quartiers anciens dégradés (« QAD »), lorsque la restauration a été déclarée d'utilité publique. En pratique, cette extension s'applique depuis le 1er janvier 2010 aux 40 quartiers anciens dégradés éligibles au programme national de requalification des quartiers anciens dégradés, dont la liste a été fixée par le décret no 2009-1780 du 31 décembre 2009. La période d'application de la réduction d'impôt sur le revenu, précitée, dans ces « QAD » arrivait à échéance au 31 décembre 2015. Cela étant, lors de l'examen du projet de loi de finances pour 2016 par l'Assemblée nationale, la période d'application de la réduction d'impôt « Malraux » dans les QAD a été prorogée de 2 ans, soit jusqu'au 31 décembre 2017. Ce faisant, cette prorogation, inscrite à l'article 5 de la loi no 2015-1785 du 29 décembre 2015 de finances pour 2016, permet de sécuriser les opérations de restauration immobilière déjà engagées et de donner de la visibilité aux opérateurs.
