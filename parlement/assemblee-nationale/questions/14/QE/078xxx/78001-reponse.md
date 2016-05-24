@@ -1,0 +1,9 @@
+# Réponse à la question n° 78001
+
+- Question : [78001](78001.md) — Question n° 78001 — coordination interministérielle pour le développement de l'usage du vélo; perspectives
+
+## Réponse
+
+*JO du 2016-05-24*
+
+La coordination interministérielle pour le développement de l'usage du vélo a été mise en place par le décret 2006-444 du 14 avril 2006 dans un contexte où l'objectif était centré sur le vélo comme moyen de transport. Avec l'attention accrue portée aux questions d'écologie, la croissance des besoins de déplacement et le doublement de la pratique du vélo au quotidien, ses missions se sont élargies aux mobilités actives (marche et vélo notamment). Un premier plan d'action pour le développement des mobilités actives a été adopté en mars 2014, fruit de la concertation avec des représentants d'associations, de collectivités et de services ministériels. Il comprenait 25 mesures visant à répondre aux enjeux de liberté, d'autonomie et de santé publique de la marche et du vélo, d'une part en améliorant les conditions de circulation des cyclistes pour une meilleure sécurité de tous, et d'autre part à leur offrir différents services : parkings à vélo sécurisés, développement de l'apprentissage, accès à des ateliers d'entretien et de réparation de proximité… Cette démarche a également favorisé l'intermodalité notamment par l'adoption dans la loi sur la transition énergétique pour la croissance verte d'une indemnité kilométrique vélo pour inciter les salariés à utiliser le vélo dans leurs trajets domicile-travail, y compris pour le rabattement vers des arrêts de transport public. Le coordonnateur, placé auprès du secrétaire d'État chargé des transports et nommé en décembre 2011, partira à la retraite cette année et son remplacement est prévu. D'ores et déjà, une réflexion est engagée visant à proposer un nouveau plan d'action pour le développement de la marche et du vélo.
