@@ -1,0 +1,9 @@
+# Réponse à la question n° 73888
+
+- Question : [73888](73888.md) — Question n° 73888 — démarches administratives; simplification; rapport; propositions
+
+## Réponse
+
+*JO du 2016-05-24*
+
+À l'occasion du comité interministériel pour l'égalité et la citoyenneté du 6 mars 2015, le Premier ministre a annoncé un « New-Deal » avec le monde associatif. L'objectif est de transformer profondément les relations entre l'État et les associations pour que ces dernières deviennent, plus qu'hier encore, des vecteurs de citoyenneté et d'égalité. Le New Deal repose sur 4 actions principales : un « choc de simplifications » pour alléger le quotidien des associations ; de nouveaux crédits permettant au secteur associatif de mettre en oeuvre des actions en faveur de la cohésion sociale dans les quartiers de la politique de la ville ; la rénovation des relations entre les pouvoirs publics et les acteurs associatifs ; des mesures destinées à favoriser l'engagement bénévole, notamment celui des actifs. Le « choc de simplifications » visant à alléger le quotidien des acteurs associatifs est en cours. L'ordonnance no 2015-904 du 23 juillet 2015 portant simplification du régime des associations et des fondations, prévue par l'article 62 de la loi du 31 juillet 2014 relative à l'économie sociale et solidaire, a été publiée le 24 juillet 2015 au journal officiel. Un formulaire unique de demande de subvention, désormais prévu par la loi, devrait simplifier la présentation des demandes auprès des financeurs publics, État ou collectivités territoriales. L'encadrement de l'appel public à la générosité, la suppression du registre spécial ou encore le rapprochement en un lieu unique des missions assurées par différents services déconcentrés de l'État sont tout aussi importants. Des mesures d'ordre règlementaire seront prises dans les prochains mois.
