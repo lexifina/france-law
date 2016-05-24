@@ -1,0 +1,8 @@
+# Grand Paris Sud : délibération — Fosse d’orchestre du Théâtre-Sénart – demande de subvention auprès de la Direction régionale des affaires culturelles d’Ile-de-France
+
+- Collectivité : Grand Paris Sud
+- SIREN : 200059228
+- Date : 2016-05-24
+- Nature : Délibération
+- Objet : Fosse d’orchestre du Théâtre-Sénart – demande de subvention auprès de la Direction régionale des affaires culturelles d’Ile-de-France
+- Jeu de données : https://www.data.gouv.fr/datasets/6a5188e1ed24ef0b8b7fa59a
