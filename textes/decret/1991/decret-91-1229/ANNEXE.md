@@ -38,7 +38,7 @@ VII.-Fonctions exercées par les personnels enseignants :
 
 -personnels enseignants mis à la disposition de l'Union nationale du sport scolaire et de la Fédération nationale du sport universitaire ;
 
--chefs de travaux ou personnels faisant fonction de chefs de travaux des lycées professionnels, des lycées techniques et des établissements régionaux d'enseignement adapté ;
+-directeurs délégués aux formations professionnelles et technologiques ou personnels faisant fonction de directeurs délégués aux formations professionnelles et technologiques des lycées professionnels, des lycées techniques et des établissements régionaux d'enseignement adapté ;
 
 -personnels enseignants chargés d'assurer la coordination des centres de formation d'apprentis ;
 
