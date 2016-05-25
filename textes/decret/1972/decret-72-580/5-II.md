@@ -1,5 +1,7 @@
-# Article 5-II
+# Article 5-2
 
-Le nombre des places offertes au concours interne ne peut être inférieur à 20 p. 100 ni supérieur à 40 p. 100 du nombre total des places mises aux deux concours.
+Le nombre des places offertes au concours interne ne peut être inférieur à 20 %, ni supérieur à 40 % du nombre total des places mises aux trois concours.
 
-Toutefois les places qui ne sont pas pourvues par la nomination des candidats à l'un des deux concours peuvent être attribuées aux candidats de l'autre concours dans la limite de 10 p. 100 des emplois à pourvoir.
+Le nombre des places offertes au concours externe spécial ne peut être supérieur à 15 % du nombre total des places mises aux deux concours externes.
+
+Toutefois les places qui ne sont pas pourvues par la nomination des candidats à l'un des trois concours peuvent être attribuées aux candidats des autres concours dans la limite de 20 % des emplois à pourvoir.
