@@ -1,0 +1,9 @@
+# Réponse à la question SEQ160119722
+
+- Question : [SEQ160119722](seq160119722.md) — Coût pour les collectivités du recours systématique aux architectes à la place des géomètres-experts
+
+## Réponse
+
+*Culture et communication, JO du 2016-05-26, page 2214*
+
+Les réflexions et travaux menés récemment dans le cadre de la stratégie nationale pour l'architecture, dans la suite du rapport de Monsieur Patrick Bloche de juillet 2014 sur la « création architecturale », ont mis en évidence la nécessité d'améliorer la qualité du cadre de vie et de la construction, particulièrement s'agissant des constructions péri-urbaines. La loi du 3 janvier 1977 sur l'architecture consacre l'intervention de l'architecte comme une garantie du respect de l'intérêt public reconnu à « la création architecturale, la qualité des constructions, leur insertion harmonieuse dans le milieu environnant, le respect des paysages naturels ou urbains ainsi que du patrimoine ». Les opérations de lotissements participent de manière significative à la consommation des terres agricoles, elles constituent une part importante des modalités d'urbanisation des territoires et une proportion tout aussi importante de la production de logements neufs. Il apparaît dès lors fondamental d'engager la nécessaire évolution de ce modèle, notamment à l'aune de la transition écologique. Il est dans cette perspective indispensable, pour les opérations de lotissements soumises à autorisation, de faire intervenir les compétences nécessaires, dont celles d'un architecte, à l'établissement du projet architectural, paysager et environnemental. C'est ce que prévoit le projet de loi relatif à la liberté de la création, à l'architecture et au patrimoine qui, après examen à l'Assemblée nationale et au Sénat, consacre une approche pluridisciplinaire et la nécessaire intervention d'un architecte pour les opérations dépassant un seuil de surface déterminé par décret en Conseil d'État.
