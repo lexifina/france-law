@@ -1,0 +1,9 @@
+# Réponse à la question SEQ151219343
+
+- Question : [SEQ151219343](seq151219343.md) — Droit à déduction de la taxe sur la valeur ajoutée pour l'achat professionnel de vélos
+
+## Réponse
+
+*Finances et comptes publics, JO du 2016-05-26, page 2228*
+
+Selon les dispositions de l'article 271 du code général des impôts (CGI), la taxe sur la valeur ajoutée (TVA) qui a grevé les éléments du prix d'une opération imposable est déductible de la TVA applicable à cette opération. Par exception toutefois, le 6° du 2 du IV de l'article 206 de l'annexe II au CGI pose le principe de l'exclusion du droit à déduction pour les véhicules ou engins, quelle que soit leur nature, conçus pour transporter des personnes ou à usage mixte, qui constituent une immobilisation ou, dans le cas contraire, qui ne sont pas destinés à être revendus à l'état neuf. Cette exclusion ne s'applique cependant pas aux véhicules affectés exclusivement à la location ou à l'enseignement de la conduite. L'exclusion du droit à déduction s'apprécie au regard des seules caractéristiques techniques intrinsèques du véhicule et non au regard de l'utilisation qui en est faite, Elle vise tous les types de véhicules, qu'ils soient terrestres, aériens ou maritimes. Ainsi, les vélos qui sont par nature conçus pour le transport de personnes ou à usage mixte, ne peuvent pas, en principe, ouvrir droit à déduction et ce, quand bien même ils seraient strictement utilisés à des fins professionnelles. Ouvrir le droit à déduction pour ces véhicules n'est pas envisagé. En effet, cela reviendrait à abandonner un dispositif de « clause de gel » communautaire et aurait un coût pour les finances publiques. Au demeurant, la loi de finances rectificative pour 2015 a déjà prévu des dispositions en faveur des vélos utilisés par les salariés pour leurs déplacements domicile-travail. Le Gouvernement n'entend pas aller au-delà.
