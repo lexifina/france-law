@@ -1,6 +1,6 @@
 # Article ANNEXE
 
-A.-Fonctions exercées en administration centrale
+A. - Fonctions exercées en administration centrale
 
 1. Chef du service de l'inspection générale des services judiciaires.
 
@@ -14,7 +14,7 @@ A.-Fonctions exercées en administration centrale
 
 6. Expert de haut niveau ou directeur de projet.
 
-7. Chef de l'inspection des services pénitentiaires.
+7. Chef de l'inspection des services pénitentiaires et chef de l'inspection de la protection judiciaire de la jeunesse.
 
 8. Sous-directeur de l'état-major de sécurité de la direction de l'administration pénitentiaire.
 
@@ -22,12 +22,12 @@ A.-Fonctions exercées en administration centrale
 
 10. Sous-directeur, adjoint au chef d'un service d'administration centrale.
 
-B.-Fonctions exercées dans les services territoriaux
+B. - Fonctions exercées dans les services territoriaux
 
 1. Directeur interrégional des services pénitentiaires.
 
 2. Coordonnateur de service administratif régional de cour d'appel.
 
-3. Directeur interrégional de la protection judiciaire de la jeunesse.
+3. directeur interrégional de la protection judiciaire de la jeunesse.
 
 4. Directeur d'établissement pénitentiaire.
