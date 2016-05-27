@@ -610,27 +610,33 @@ Directeur de projet
 
 |
 
-7. Chef de l'inspection des services pénitentiaires :
+7. Chef de l'inspection des services pénitentiaires et chef de l'inspection de la protection judiciaire de la jeunesse :
 
 DÉSIGNATION DE L'EMPLOI
 
 |
 
-NOMBRE
-
-d'emplois
+NOMBRE D'EMPLOIS
 
 |
 
-NOMBRE
-
-de points
-
-par emploi
+NOMBRE DE POINTS PAR EMPLOI
 
 |
 
 Chef de l'inspection des services pénitentiaires
+
+|
+
+1
+
+|
+
+80
+
+|
+
+Chef de l'inspection de la protection judiciaire de la jeunesse
 
 |
 
