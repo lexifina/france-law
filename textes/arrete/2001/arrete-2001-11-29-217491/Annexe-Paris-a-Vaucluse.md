@@ -162,7 +162,9 @@ Direction régionale et interdépartementale de l'hébergement
 
 et du logement en Ile-de-France
 
-DIRECTION RÉGIONALE ET INTERDÉPARTEMENTALE DE L'HÉBERGEMENT ET DU LOGEMENT EN ÎLE-DE-FRANCE |
+DIRECTION RÉGIONALE ET INTERDÉPARTEMENTALE DE L'HÉBERGEMENT ET DU LOGEMENT EN ÎLE-DE-FRANCE
+
+|
 
 Fonctions exercées
 
@@ -734,7 +736,9 @@ A
 
 |
 
-Chargé de mission politique de la ville - Service habitat et rénovation urbaine |
+Chargé de mission politique de la ville - Service habitat et rénovation urbaine
+
+|
 
 B |
 
@@ -742,9 +746,13 @@ B |
 
 20 |
 
-Comptable chargé des engagements des dossiers de travaux d'investissement et du contrôle de la réalisation des travaux - Service habitat et rénovation urbaine |
+Comptable chargé des engagements des dossiers de travaux d'investissement et du contrôle de la réalisation des travaux - Service habitat et rénovation urbaine
 
-C |
+|
+
+C
+
+|
 
 1
 
@@ -874,21 +882,19 @@ B
 
 |
 
-Direction départementale de l'équipement de la Somme
+Direction départementale de l'équipement de la Somme (3)
 
-FONCTIONS EXERCEES
-
-|
-
-NIVEAU
-
-de qualification de l'emploi
+FONCTIONS EXERCÉES
 
 |
 
-NOMBRE
+NIVEAU DE QUALIFICATION
 
-d'emplois
+de l'emploi
+
+|
+
+NOMBRE D'EMPLOIS
 
 |
 
@@ -898,7 +904,35 @@ par emploi
 
 |
 
-Chef de projet état politique de la ville
+Chef du service habitat et construction |
+
+A
+
+|
+
+1
+
+|
+
+50
+
+|
+
+Chef du bureau de la rénovation urbaine-service habitat et construction |
+
+A
+
+|
+
+1
+
+|
+
+30
+
+|
+
+Chef du bureau du financement du logement social-service habitat et construction
 
 |
 
@@ -910,43 +944,11 @@ A
 
 |
 
-50 points
+30
 
 |
 
-Adjoint au chef de projet politique de la ville
-
-|
-
-A
-
-|
-
-1
-
-|
-
-30 points
-
-|
-
-Chef de l'unité financement du logement social
-
-|
-
-A
-
-|
-
-1
-
-|
-
-30 points
-
-|
-
-Agent chargé de la gestion financière
+Instructeur en charge du conventionnement APL-bureau du financement du logement social-service habitat et construction
 
 |
 
@@ -958,7 +960,7 @@ C
 
 |
 
-20 points
+20
 
 |
 
@@ -1164,17 +1166,15 @@ FONCTIONS EXERCÉES |
 
 NIVEAU
 
-de qualification
+de qualification de
 
-de l'emploi |
+l'emploi |
 
 NOMBRE d'emplois |
 
 NOMBRE
 
-de points (IM)
-
-par emploi |
+de points (IM) par emploi |
 
 Chef de service ville, logement, habitat
 
@@ -1236,10 +1236,14 @@ C
 
 |
 
-5 |
+5
+
+|
 
 NOTA :
 
 (1) En application de l'article 6 du décret n° 2006-1740 du 23 décembre 2006, l'intitulé "direction départementale de l'équipement" est remplacé par l'intitulé "direction départementale de l'équipement et de l'agriculture" au 1er janvier 2009.
 
 (2) Arrêté du 12 mars 2014 art. 1 : les modifications insérées par le présent arrêté sont à effet du 1er juillet 2010 pour les directions départementales de l'équipement des Hauts-de-Seine et de la Seine-Saint-Denis.
+
+(3) Arrêté du 17 mai 2016, art 1 : les modifications insérées par le présent arrêté sont à effet du 1er janvier 2015 pour ce qui concerne la répartition de l'enveloppe de la direction départementale de l'équipement de la Somme.
