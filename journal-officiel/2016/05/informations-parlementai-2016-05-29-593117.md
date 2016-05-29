@@ -1,0 +1,742 @@
+# Commissions et organes de contrôle
+
+- Nature : Informations Parlementaires
+- Publication : 2016-05-29
+- JO n° : 0124
+- NOR : INPX1601488X
+- Origine : JORF n°0124 du 29 mai 2016
+- Légifrance : https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000032593117
+
+## Article
+
+Assemblée nationale
+
+Session ordinaire de 2015-2016
+
+1. Réunions
+
+Mardi 31 mai 2016
+
+Commission des affaires économiques :
+
+A 17 heures salle 6241 (Affaires économiques) :
+
+- audition, ouverte à la presse, de M. Thierry Repentin, sur le rapport annuel de la Commission nationale de l'aménagement, de l'urbanisme et du foncier (CNAUF) relatif à la mobilisation du foncier public en faveur du logement.
+
+Commission des affaires étrangères :
+
+A 17 heures salle 4223 (33, rue Saint-Dominique, 2e étage) :
+
+- audition de M. Ernesto Samper, secrétaire général de l'UNASUR, ancien président de la République de Colombie, sur l'Union des nations sud-américaines : état des lieux et perspectives pour les pays latino-américains.
+
+Commission de la défense :
+
+A 17 heures salle 4123 (33, rue Saint-Dominique) :
+
+- audition de Son Excellence M. Ehab Badawy, ambassadeur en France de la République arabe d'Egypte ;
+
+- désignation de rapporteurs pour avis.
+
+Commission des finances :
+
+A 17 heures salle 6350 (Finances) :
+
+- audition de M. Gérard Rameix, président de l'Autorité des marchés financiers, sur le rapport annuel au Président de la République et au Parlement.
+
+Commission des lois :
+
+A 14 h 45 salle 6242 (Lois) :
+
+- rénovation modalités inscription sur listes électorales (n° 3336) ; des Français établis hors de France (n° 3337) ; des ressortissants d'un Etat membre de l'Union européenne autre que la France pour les élections municipales (n° 3338) (amendements, art. 88).
+
+Commission d'enquête sur la fibromyalgie :
+
+A 9 h 30 salle 6351 (Affaires sociales) :
+
+- audition du professeur Daniel Bontoux, membre titulaire de l'Académie de médecine, rhumatologue.
+
+A 10 h 30 salle 6351 (Affaires sociales) :
+
+- audition du professeur Agnès Buzyn, présidente de la Haute autorité de santé.
+
+A 11 h 30 salle 6351 (Affaires sociales) :
+
+- audition du professeur Francis Berenbaum, rhumatologue à l'hôpital Saint-Antoine et expert de l'Institut thématique multi-organismes Physiopathologie, métabolisme et nutrition pour le domaine ostéo-articulaire.
+
+Commission spéciale chargée d'examiner le projet de loi Egalité et citoyenneté :
+
+A 16 h 30 salle 6238 (Affaires culturelles) :
+
+- audition de M. Jacques Toubon, Défenseur des droits.
+
+A 18 heures salle 6238 (Affaires culturelles) :
+
+- table ronde sur le thème de la politique de la ville :
+
+- M. Olivier Klein, maire de Clichy-sous-Bois ;
+
+- comité national de liaison des régies de quartier (CNLRQ) - Mme Clotilde Bréaud, présidente ;
+
+- commissariat général à l'égalité des territoires (CGET) - M. Sébastien Jallet, commissaire général délégué, directeur de la ville et de la cohésion urbaine ;
+
+- observatoire national de la politique de la ville - M. Jean Daubigny, président.
+
+Délégation aux droits des femmes et à l'égalité des chances entre les hommes et les femmes :
+
+A 17 heures salle 6242 (Lois) :
+
+- audition, ouverte à la presse, sur les études de genre dans l'enseignement supérieur et la recherche, de :
+
+- Mme Hélène Périvier, économiste à l'Observatoire français des conjonctures économiques (OFCE), coresponsable du Programme de recherche et d'enseignement des savoirs sur le genre (PRESAGE) développé par Sciences Po et l'OFCE ;
+
+- Mme Nathalie Lapeyre, sociologue, maître de conférences à l'université Toulouse II, responsable du master « Genre, égalité et politiques sociales » (GEPS), membre du Centre d'études et de recherches Travail, organisations, pouvoirs (CERTOP-CNRS), et responsable de l'équipe de recherche « Savoirs, genre et rapports sociaux de sexe » ;
+
+- Mme Anne-Emmanuelle Berger, directrice de l'unité mixte de recherche (UMR) « Laboratoire d'études de genre et de sexualité » du CNRS, professeure de littérature française et d'études de genre à l'université Paris VIII - Centre d'études féminines et d'études de genre, ancienne directrice du groupement d'intérêt scientifique (GIS) « Institut du Genre », sous réserve de confirmation.
+
+Mission d'évaluation de l'accès aux droits sociaux (CEC) :
+
+A 10 h 30 (salle du CEC) :
+
+- audition de M. Renaud Villard, directeur de la CNAV.
+
+A 11 h 30 (salle du CEC) :
+
+- audition de M. Nicolas Revel, directeur général de la CNAMTS, accompagné de M. David Xardel, directeur de l'organisation, de l'optimisation et du marketing.
+
+Mission d'évaluation du soutien public au thermalisme (CEC) :
+
+A 17 heures (salle du CEC) :
+
+- examen du projet de rapport.
+
+Mission d'information commune sur l'application de la loi du 6 août 2015 pour la croissance, l'activité et l'égalité des chances économiques :
+
+A 18 heures salle 6242 (Lois) :
+
+- audition, ouverte à la presse, de M. Jean-Jacques Urvoas, garde des sceaux, ministre de la justice.
+
+Mission d'information commune sur l'application de la loi du 17 août 2015 relative à la transition énergétique pour la croissance verte :
+
+A 16 h 30 (salle Lamartine) :
+
+- table ronde, ouverte à la presse, regroupant des organisations non gouvernementales, avec la participation de M. Cyrille Cormier, Politiques énergétiques en France, Greenpeace, de Mme Lorelei Limousin, responsable transports et fiscalité, Réseau Action Climat France (RAC), de M. Raphaël Claustre, délégué général, Réseau pour la transition énergétique (CLER), de M. Fabien Veyret, responsable du réseau énergie de l'association France nature environnement et de M. Bernard Lapostolet, Fondation Abbé Pierre.
+
+Mercredi 1er juin 2016
+
+Commission des affaires culturelles :
+
+A 9 h 30 salle 6238 (Affaires culturelles) :
+
+- audition de M. Jean-Christophe Thiery, président du groupe Canal+ et de M. Maxime Saada, directeur général ;
+
+- proposition de résolution relative à la création d'une commission d'enquête sur les conditions d'octroi d'une autorisation d'émettre à la chaîne Numéro 23 et de sa vente (n° 3711) (rapport).
+
+Commission des affaires économiques :
+
+A 9 h 30 salle 6241 (Affaires économiques) :
+
+- audition, ouverte à la presse, de M. Martin Vial, commissaire aux participations de l'Etat.
+
+Commission des affaires étrangères :
+
+Ouverture d'un dialogue culturel et politique avec l'Amérique latine.
+
+A 9 h 45 salle 4223 (33, rue Saint-Dominique, 2e étage) :
+
+- présentation, ouverte à la presse, du rapport de la mission d'information sur l'ouverture d'un dialogue culturel et politique avec l'Amérique latine.
+
+Commission des affaires européennes :
+
+A 17 h 30 (salle de la commission, 3e étage du 33, rue Saint-Dominique) :
+
+- réunion non ouverte à la presse :
+
+- audition de M. Philippe Léglise-Costa, Secrétaire général des affaires européennes ;
+
+- examen de textes européens.
+
+Commission des affaires sociales :
+
+A 9 h 30 salle 6351 (Affaires sociales) :
+
+- audition de M. Norbert Ifrah, dont la désignation à la présidence du conseil d'administration de l'Institut national du cancer (INCA) est envisagée par le Gouvernement (application de l'article L. 1451-1 du code de la santé publique).
+
+Commission de la défense :
+
+A 9 h 30 salle 4123 (33, rue Saint-Dominique) :
+
+- audition du général Grégoire de Saint-Quentin, commandant du commandement des opérations spéciales.
+
+A 10 h 45 salle 4123 (33, rue Saint-Dominique) :
+
+- nomination d'un rapporteur ;
+
+- carte de famille de blessé de guerre (n° 3606) (rapport).
+
+Commission du développement durable :
+
+A 9 h 30 salle 6237 (Développement durable) :
+
+- audition de MM. Jean-Louis Roumégas et Martial Saddier, rapporteurs du Comité d'évaluation et de contrôle des politiques publiques (CEC) sur l'évaluation des politiques publiques de lutte contre la pollution de l'air.
+
+Commission des lois :
+
+A 10 h 30 salle 6242 (Lois) :
+
+- lutte contre la discrimination à raison de la précarité sociale (n° 2885) (rapport) ;
+
+- lutte contre les nuisances de certains engins motorisés en milieu urbain (n° 1698) (rapport).
+
+A 16 h 15 salle 6242 (Lois) :
+
+- permettre le maintien des communes associées, sous forme de communes déléguées, en cas de création d'une commune nouvelle (n° 3560) (amendements, art. 88) ;
+
+- présentation par M. Didier Migaud, premier président, des travaux récents de la Cour des comptes concernant les missions Justice et Sécurité.
+
+Commission d'enquête relative aux moyens mis en œuvre par l'Etat pour lutter contre le terrorisme depuis le 7 janvier 2015 :
+
+A 16 h 15 salle 6241 (Affaires économiques) :
+
+- audition, ouverte à la presse, de M. Jean-Jacques Urvoas, garde des sceaux, ministre de la justice
+
+A 18 h 15 salle 6241 (Affaires économiques) :
+
+- audition, ouverte à la presse, de M. Jean-Yves Le Drian, ministre de la défense.
+
+Commission d'enquête sur les conditions d'abattage des animaux de boucherie dans les abattoirs français :
+
+A 16 h 15 (salle Lamartine) :
+
+- table ronde, ouverte à la presse, réunissant des universitaires spécialistes de l'abattage rituel, avec la participation de M. Mohammed Hocine Benhkeira, directeur d'études à l'École pratique des hautes études, section des sciences religieuses, titulaire de la chaire d'histoire des sciences légales en islam, Mme Anne-Marie Brisebarre, directrice de recherche émérite au Centre national de la recherche scientifique (CNRS), membre du Laboratoire d'anthropologie sociale du Collège de France, et Mme Sophie Nizard, chercheuse en sociologie et en anthropologie du judaïsme, associée au CéSor (Centre d'Études en Sciences Sociales du Religieux-CNRS-EHESS).
+
+Commission spéciale chargée d'examiner le projet de loi Egalité et citoyenneté :
+
+A 10 h 30 (salle Lamartine) :
+
+- table ronde sur le thème du logement :
+
+- agence nationale pour l'information sur le logement (ANIL) - Mme Géraldine Chalancon, directrice générale ;
+
+- association nationale des compagnons bâtisseurs - M. Jean-Paul Lebas, président ;
+
+- fondation Abbé Pierre - M. Christophe Robert, délégué général.
+
+A 16 h 30 (salle 6238 (Affaires culturelles)) :
+
+- table ronde sur le thème du renforcement de la lutte contre les diverses formes de discriminations :
+
+- association française des managers de la diversité (AFMD) ;
+
+- commission nationale consultative des droits de l'homme (CNCDH) - Mme Christine Lazerges, présidente ;
+
+- conseil représentatif des associations noires (CRAN) - M. Louis-Georges Tin, président ;
+
+- haut Conseil à l'égalité entre les femmes et les hommes (HCE fh) - Mme Danielle Bousquet, présidente.
+
+Délégation aux droits des femmes et à l'égalité des chances entre les hommes et les femmes :
+
+A 14 heures salle 6242 (Lois) :
+
+- audition, ouverte à la presse, sur les études de genre, de :
+
+- Mme Laure Bereni, sociologue, chargée de recherche au Centre national de la recherche scientifique (CNRS), membre de l'équipe « Professions, réseaux, organisations » (PRO) du Centre Maurice Halbwachs ;
+
+- Mme Réjane Sénac, chercheuse au CNRS - CEVIPOF (Centre de recherches politiques de Sciences Po), membre du comité de pilotage du PRESAGE et du conseil scientifique de l'Institut Émilie du Châtelet, membre et présidente de la commission Parité du Haut Conseil à l'égalité entre les femmes et les hommes (HCEfh).
+
+Mission d'évaluation et de contrôle :
+
+A 14 h 15 salle 6350 (Finances) :
+
+- formation continue et gestion des carrières dans la haute fonction publique (rapport).
+
+Mission d'information commune sur l'application de la loi du 17 août 2015 relative à la transition énergétique pour la croissance verte :
+
+A 16 h 30 (salon Gabriel) :
+
+- audition, non ouverte à la presse, de M. Philippe Knoche, directeur général d'AREVA.
+
+A 18 heures (salon Gabriel) :
+
+- audition, non ouverte à la presse, de M. Thierry Trouvé, directeur général de GRT Gaz.
+
+Jeudi 2 juin 2016
+
+Commission d'enquête relative aux moyens mis en œuvre par l'Etat pour lutter contre le terrorisme depuis le 7 janvier 2015 :
+
+A 9 heures (salle Lamartine) :
+
+- audition, ouverte à la presse, de M. Bernard Cazeneuve, ministre de l'intérieur.
+
+Commission d'enquête sur les conditions d'abattage des animaux de boucherie dans les abattoirs français :
+
+A 9 heures salle 6241 (Affaires économiques) :
+
+- audition, ouverte à la presse, de Mme Marine Desorge et de Mme Celia Potdevin, chargées de mission alimentation et agriculture de l'association de consommateurs Consommation logement et cadre de vie (CLCV).
+
+A 10 heures salle 6241 (Affaires économiques) :
+
+- audition, ouverte à la presse, de M. Michel Baussier, président du Conseil national de l'ordre des vétérinaires de France (CNOV) et de M. Laurent Perrin, administrateur de la fédération des syndicats vétérinaires de France (FSVF) et secrétaire général du Syndicat National des Vétérinaires d'Exercice Libéral (SNVEL).
+
+A 11 heures salle 6241 (Affaires économiques) :
+
+- audition, ouverte à la presse, de M. Jacques Poulet, directeur du pôle animal, et de professionnels des branches de la coopération agricole de Coop de France.
+
+Mission d'information sur les moyens de Daech :
+
+A 14 h 30 salle 4223 (33, rue Saint-Dominique) :
+
+- de 14 h 30 à 17 heures : audition commune de chercheurs irakiens :
+
+- M. Hamza Shareef Hasan al-Jubouri, directeur d'Al-Nahrain Center for Strategic Studies, Bagdad ;
+
+- M. Husham Challab Arayaid al-Hashimi, Al-Nahrain Center for Strategic Studies, Bagdad ;
+
+- M. Harith Hasan al-Qarawee, Crown Center for Middle-East Studies, Brandeis University, Boston.
+
+2. Ordre du jour prévisionnel
+
+Lundi 6 juin 2016
+
+Commission des lois :
+
+A 15 h 30 salle 6242 (Lois) :
+
+- relatif à la transparence, à la lutte contre la corruption et à la modernisation de la vie économique (n° 3623) (première lecture) (amendements, art. 88).
+
+Mardi 7 juin 2016
+
+Commission des affaires économiques :
+
+A 16 h 15 salle 6241 (Affaires économiques) :
+
+- audition, ouverte à la presse, de M. Olivier Roussat, président-directeur général de Bouygues Telecom.
+
+Commission des affaires étrangères :
+
+A 17 heures :
+
+- audition de M. André Vallini, secrétaire d'Etat auprès du ministre des affaires étrangères et du développement international, chargé du développement et de la francophonie.
+
+Commission des affaires européennes :
+
+A 16 h 30 (salle de la commission, 3e étage du 33, rue Saint-Dominque) :
+
+- audition de M. Michel Barnier, conseiller spécial du président Jean-Claude Juncker pour les questions de défense.
+
+Commission des affaires sociales :
+
+A 16 h 15 salle 6351 (Affaires sociales) :
+
+- avenir système de soins (n° 3710) (première lecture).
+
+Commission du développement durable :
+
+A 16 h 30 salle 6237 (Développement durable) :
+
+- reconquête de la biodiversité, de la nature et des paysages (n° 3748) (nouvelle lecture).
+
+Commission d'enquête sur la fibromyalgie :
+
+A 9 h 30 salle 6351 (Affaires sociales) :
+
+- audition du docteur Jean-François Gérard-Varet, conseiller ordinal, membre de la section Santé publique et démographie médicale du Conseil national de l'ordre des médecins.
+
+A 10 h 30 salle 6351 (Affaires sociales) :
+
+- audition de M. François Bourdillon, directeur général de l'Agence nationale de santé publique (audition à confirmer).
+
+A 11 h 30 salle 6351 (Affaires sociales) :
+
+- audition du professeur Perrot, vice-président de la Société française de l'étude et du traitement de la douleur.
+
+Commission spéciale chargée d'examiner le projet de loi Egalité et citoyenneté :
+
+A 16 h 15 :
+
+- audition de Mme Emmanuelle Cosse, ministre du logement et de l'habitat durable.
+
+Mission d'évaluation de l'accès aux droits sociaux (CEC) :
+
+A 9 heures :
+
+- audition de M. Daniel Lenoir, directeur général de la CNAF.
+
+A 10 heures :
+
+- audition de M. Jean Bassères, directeur général de Pôle emploi.
+
+Mission d'information sur les moyens de Daech :
+
+A 13 h 30 :
+
+- de 13 h 30 à 15 heures : audition fermée à la presse.
+
+A 16 h 15 :
+
+- de 16 h 15 à 18 h 15 : réunion à huis clos des membres de la mission.
+
+Mercredi 8 juin 2016
+
+Comité d'évaluation et de contrôle :
+
+A 11 heures :
+
+- évaluation du soutien public au thermalisme : examen du rapport.
+
+Commission des affaires économiques :
+
+A 9 h 30 salle 6241 (Affaires économiques) :
+
+- table ronde, ouverte à la presse, sur le thème « Régions et filières d'élevage » ;
+
+- proposition de loi remboursement des taxes d'aéroport (n° 3463) (rapport).
+
+A 16 h 15 salle 6241 (Affaires économiques) :
+
+- audition, ouverte à la presse, de M. Louis Schweitzer, commissaire général à l'investissement ;
+
+- proposition de loi débroussaillement (n° 3699) (rapport).
+
+Commission des affaires étrangères :
+
+La diplomatie sportive de la France et son impact économique.
+
+A 9 h 30 :
+
+- audition commune de M. Bernard Lapasset, co-président du Comité de candidature Paris 2024, et de M. Philippe Vinogradoff, ambassadeur pour le sport ;
+
+- présentation du rapport de la mission d'information sur la diplomatie sportive de la France et son impact économique ;
+
+- accord avec la Nouvelle-Zélande sur le statut des forces en visite (n° 3499) (première lecture).
+
+Commission des affaires européennes :
+
+A 9 heures salle 6350 (Finances) :
+
+- audition, conjointe avec la commission des finances, de M. Pierre Moscovici, commissaire européen en charge des questions économiques et financières, de la fiscalité et des douanes.
+
+A 16 h 30 (salle de la commission, 3e étage du 33, rue Saint-Dominique) :
+
+- stratégie européenne de sécurité (rapport d'information) ;
+
+- salaire minimum au sein de l'Union européenne (rapport d'information) ;
+
+- projet de loi Égalité et citoyenneté (rapport d'information pour observations) ;
+
+- examen de textes européens.
+
+Commission des affaires sociales :
+
+A 9 h 30 salle 6351 (Affaires sociales) :
+
+- audition de M. Christophe Sirugue, auteur du rapport « Repenser les minima sociaux : vers une couverture socle commun ».
+
+Commission de la défense :
+
+A 9 h 30 salle 4123 (33, rue Saint-Dominique) :
+
+- audition, ouverte à la presse, de M. Bernard Pêcheur, président du Haut Comité d'évaluation de la condition militaire.
+
+Commission du développement durable :
+
+A 9 h 30 salle 6237 (Développement durable) :
+
+- reconquête de la biodiversité, de la nature et des paysages (n° 3748) (nouvelle lecture) (suite).
+
+A 16 h 30 salle 6237 (Développement durable) :
+
+- reconquête de la biodiversité, de la nature et des paysages (n° 3748) (nouvelle lecture) (suite) (éventuellement).
+
+Commission des finances :
+
+A 9 heures salle 6350 (Finances) :
+
+- audition, conjointe avec la commission des affaires européennes, de M. Pierre Moscovici, commissaire européen aux affaires économiques et financières, à la fiscalité et aux douanes.
+
+A 10 h 30 salle 6350 (Finances) :
+
+- mission d'évaluation et de contrôle (MEC) sur la formation continue et la gestion des carrières dans la haute fonction publique (rapport).
+
+Commission des lois :
+
+A 10 heures salle 6242 (Lois) :
+
+- indisponibilité du corps humain (n° 1354) (première lecture) (rapport) ;
+
+- lutte contre recours mère porteuse (n° 2706) (première lecture) (rapport) ;
+
+- Croix-Rouge (n° 3774) (première lecture) (rapport).
+
+Commission d'enquête sur les conditions d'abattage des animaux de boucherie dans les abattoirs français :
+
+A 16 h 30 (salle Lamartine) :
+
+- table ronde, ouverte à la presse, réunissant Mme Catherine Rémy, chercheuse au Centre national de la recherche scientifique (CNRS), M. Jean-Pierre Marguénaud, professeur à l'Université de Limoges et Mme Florence Burgat, philosophe et directrice de recherche à l'Institut national de la recherche agronomique (INRA).
+
+A 18 h 15 (salle Lamartine) :
+
+- audition, ouverte à la presse, de M. Pierre Hinard, auteur de « Omerta sur la viande » et de Mme Anne de Loisy, auteure de « Bon appétit, quand l'industrie de la viande nous mène en barquette ».
+
+Commission spéciale chargée d'examiner le projet de loi Egalité et citoyenneté :
+
+A 9 h 30 :
+
+- audition de M. Patrick Weil, directeur de recherche au CNRS, Centre d'histoire sociale du 20e siècle.
+
+A 11 h 15 :
+
+- audition de Mme Erika Bareigts, secrétaire d'Etat chargée de l'égalité réelle.
+
+A 16 h 30 :
+
+- audition de M. Patrick Kanner, ministre de la ville, de la jeunesse et des sports.
+
+Mission d'information commune sur l'application de la loi du 17 août 2015 relative à la transition énergétique pour la croissance verte :
+
+A 14 heures (salle Lamartine) :
+
+- audition, ouverte à la presse, de l'Association française indépendante de l'électricité et du gaz (AFIEG), regroupant MM. Marc Boudier, président, Luc Poyer, président du directoire d'Uniper France et Olivier Puit, directeur général d'Alpiq France.
+
+Mission d'information relative au paritarisme :
+
+A 17 heures salle 6549 (2e étage) :
+
+- à 17 heures (à huis clos) : examen du rapport.
+
+Jeudi 9 juin 2016
+
+Commission d'enquête sur les conditions d'abattage des animaux de boucherie dans les abattoirs français :
+
+A 9 heures salle 6241 (Affaires économiques) :
+
+- table ronde, ouverte à la presse, réunissant M. Stéphane Geffroy, auteur de « À l'abattoir », M. François Hochereau, sociologue à l'Institut national de la recherche agronomique (INRA) et M. Félix Jourdan, sociologue, auteurs du rapport « Abattage et Bien-être animal ».
+
+A 11 heures salle 6241 (Affaires économiques) :
+
+- audition, ouverte à la presse, de M. Arnaud Schaumasse, chef du bureau central des cultes au ministère de l'intérieur.
+
+Mardi 14 juin 2016
+
+Commission des affaires culturelles :
+
+A 16 h 30 salle 6238 (Affaires culturelles) :
+
+- à l'issue des votes solennels :
+
+- audition de Mme Najat Vallaud-Belkacem, ministre de l'éducation nationale, de l'enseignement supérieur et de la recherche, sur l'enseignement professionnel.
+
+Commission des affaires étrangères :
+
+A 16 h 30 :
+
+- audition de M. Jean-Marc Ayrault, ministre des affaires étrangères et du développement international.
+
+Commission de la défense :
+
+A 17 heures salle 4123 (33, rue Saint-Dominique) :
+
+- approbation accord Gouvernement de la République française et le Gouvernement de la République de Guinée (n° 2607) (rapport) ;
+
+- ratification traité de coopération en matière de défense entre la République française et la République du Mali (n° 3498) (rapport) ;
+
+- approbation de l'accord entre le Gouvernement de la République française et le Gouvernement de la Nouvelle Zélande (n° 3499) (rapport) ;
+
+- approbation de l'accord entre le Gouvernement de la République française et le Gouvernement de la République de Croatie (n° 3500) (rapport) ;
+
+- approbation de l'accord entre le Gouvernement de la République française et le Gouvernement de la République de Lituanie (n° 3501) (rapport).
+
+- carte de famille de blessé de guerre (n° 3606) (amendements, art. 88).
+
+Commission du développement durable :
+
+A 16 h 15 salle 6237 (Développement durable) :
+
+- mise en œuvre effective du droit humain à l'eau potable et à l'assainissement (n° 3199) (éventuellement) (amendements, art. 88)
+
+Commission des finances :
+
+A 16 h 45 salle 6350 (Finances) :
+
+- audition de M. Daniel Verwaerde, administrateur général du Commissariat à l'énergie atomique et aux énergies alternatives (CEA).
+
+A 18 heures salle 6350 (Finances) :
+
+- projet de loi de règlement du budget et d'approbation des comptes de l'année 2015 (n° 3781) : cycle d'auditions de responsables de programmes sur l'exécution des crédits :
+
+- Programme 166 Justice judiciaire : Mme Marielle Thuau, directrice des services judiciaires.
+
+Commission spéciale chargée d'examiner le projet de loi Egalité et citoyenneté :
+
+A 9 h 30 :
+
+- égalité et citoyenneté (n° 3679) (première lecture) (rapport).
+
+A 16 h 30 :
+
+- égalité et citoyenneté (n° 3679) (première lecture) (suite rapport).
+
+A 21 heures :
+
+- égalité et citoyenneté (n° 3679) (première lecture) (suite rapport).
+
+Mission d'information commune sur l'application de la loi du 17 août 2015 relative à la transition énergétique pour la croissance verte :
+
+A 14 heures (salle de la commission) :
+
+- audition de MM. Jean-Pierre Roncato, président de l'UNIDEN, Gildas Barreyre, président de la commission électricité, Claude Conrard, président de la commission pétrole et gaz et Fabrice Alexandre, conseil de l'UNIDEN.
+
+Mercredi 15 juin 2016
+
+Commission des affaires européennes :
+
+A 9 h 30 (salle de la commission, 3e étage du 33, rue Saint-Dominique) :
+
+- réunion du Triangle de Weimar avec les commissions des affaires européennes du Bundestag, de la Diète et du Sénat de Pologne (sur les questions migratoires et l'avenir de Schengen ; les suites de la COP 21 ; la convergence fiscale et sociale).
+
+A 16 h 30 (salle de la commission, 3e étage du 33, rue Saint-Dominique) :
+
+- audition de M. Sandro Gozi, secrétaire d'Etat auprès du président du Conseil des ministres italien, chargé des affaires européennes.
+
+Commission des affaires sociales :
+
+A 9 heures salle 6351 (Affaires sociales) :
+
+- auditions relatives au prix des médicaments.
+
+A 17 heures salle 6351 (Affaires sociales) :
+
+- visite de l'Agence nationale de santé publique ouverte à l'ensemble des députés membres de la commission.
+
+Commission du développement durable :
+
+A 9 h 30 salle 6237 (Développement durable) :
+
+- table ronde sur les installations de type Seveso en France avec des représentants du ministère de l'environnement, de l'énergie et de la mer ; de l'association nationale des collectivités pour la maîtrise des risques technologiques majeurs (AMARIS) ; de l'union des industries chimiques (UIC) ; de l'union française des industries pétrolières (UFIP) et de la coordination nationale des associations riveraines des sites Seveso.
+
+Commission des finances :
+
+A 10 h 45 salle 6350 (Finances) :
+
+- projet de loi de règlement du budget et d'approbation des comptes de l'année 2015 (n° 3781) : cycle d'auditions de responsables de programmes sur l'exécution des crédits :
+
+- Programmes 109 Aide à l'accès au logement et 135 Urbanisme, territoires et amélioration de l'habitat : MM. Paul Delduc, directeur général de l'aménagement, du logement et de la nature, et Laurent Girometti, directeur de l'habitat, de l'urbanisme et des paysages.
+
+Commission d'enquête relative aux moyens mis en œuvre par l'Etat pour lutter contre le terrorisme depuis le 7 janvier 2015 :
+
+A 16 heures (6e bureau) :
+
+- échange de vues entre les membres de la commission d'enquête.
+
+Commission spéciale chargée d'examiner le projet de loi Egalité et citoyenneté :
+
+A 9 h 30 :
+
+- égalité et citoyenneté (n° 3679) (première lecture) (suite rapport).
+
+A 16 h 30 :
+
+- égalité et citoyenneté (n° 3679) (première lecture) (suite rapport).
+
+A 21 heures :
+
+- égalité et citoyenneté (n° 3679) (première lecture) (suite rapport).
+
+Mission d'information commune sur l'application de la loi du 17 août 2015 relative à la transition énergétique pour la croissance verte :
+
+A 14 heures (salle de la commission) :
+
+- audition de la Fédération des Industries électriques, électroniques et de communication (FIECC).
+
+Jeudi 16 juin 2016
+
+Commission des affaires sociales :
+
+A 9 h 15 salle 6351 (Affaires sociales) :
+
+- avenir système de soins (n° 3710) (première lecture).
+
+Commission d'enquête relative aux moyens mis en œuvre par l'État pour lutter contre le terrorisme depuis le 7 janvier 2015 :
+
+A 9 h 30 salle 6242 (Lois) :
+
+- audition, ouverte à la presse, de Mme Juliette Méadel, secrétaire d'Etat chargée de l'aide aux victimes.
+
+Commission spéciale chargée d'examiner le projet de loi Egalité et citoyenneté :
+
+A 9 h 30 :
+
+- égalité et citoyenneté (n° 3679) (première lecture) (suite rapport).
+
+A 16 h 30 :
+
+- égalité et citoyenneté (n° 3679) (première lecture) (suite rapport).
+
+A 21 heures :
+
+- égalité et citoyenneté (n° 3679) (première lecture) (suite rapport).
+
+Mardi 21 juin 2016
+
+Commission des affaires étrangères :
+
+A 17 heures :
+
+- présentation du rapport de la mission d'information sur la diplomatie et la défense des frontières maritimes de la France.
+
+Commission de la défense :
+
+A 17 heures salle 4123 (33, rue Saint-Dominique) :
+
+- audition de M. Jean-Yves Le Drian, ministre de la défense.
+
+Mercredi 22 juin 2016
+
+Commission des affaires étrangères :
+
+Le Liban.
+
+A 9 h 45 :
+
+- présentation du rapport de la mission d'information sur le Liban.
+
+Commission des finances :
+
+A 9 h 30 salle 6350 (Finances) :
+
+- mission d'évaluation et de contrôle (MEC) sur les programmes d'investissements d'avenir (PIA) finançant la transition écologique (rapport).
+
+Mission d'information commune sur l'application de la loi du 17 août 2015 relative à la transition énergétique pour la croissance verte :
+
+A 16 h 30 (salle de la commission) :
+
+- table ronde, ouverte à la presse, sur la transition énergétique dans les territoires : avec des représentants de l'Association des régions de France, de l'Assemblée des départements de France, de M. André Flajolet, président de la commission Environnement de l'Association des maires de France (AMF).
+
+Mardi 28 juin 2016
+
+Commission des finances :
+
+A 16 h 15 salle 6350 (Finances) :
+
+- audition de M. Didier Migaud, Premier président de la Cour des comptes, sur le rapport sur la situation et les perspectives des finances publiques ;
+
+- mission d'information sur l'évaluation de la politique d'aide sociale de l'Office national des anciens combattants (ONAC) (rapport).
+
+Mercredi 29 juin 2016
+
+Commission des affaires étrangères :
+
+A 9 h 45 :
+
+- présentation du rapport de la mission d'information sur la crise ukrainienne et l'avenir des relations entre la Russie et l'Union européenne et la France.
+
+Commission des finances :
+
+A 9 h 30 salle 6350 (Finances) :
+
+- examen du projet de loi de règlement du budget et d'approbation des comptes de l'année 2015.
+
+Mission d'information commune sur l'application de la loi du 17 août 2015 relative à la transition énergétique pour la croissance verte :
+
+A 17 heures (salle de la commission) :
+
+- table ronde, ouverte à la presse, sur les dispositions relatives aux bâtiments, avec la participation de M. Gilles Vermot Desroches, directeur du développement durable de Schneider Electric France, de M. Pascal Roger, président, et de Mme Elise Bourmeau, déléguée générale de la Fédération des services énergie environnement (FEDENE), de M. José Caire, directeur Villes et Territoires durables de l'Agence de l'environnement et de la maîtrise de l'énergie (ADEME), de M. Gwenaël Cottais, directeur général d'Aponergy, d'un représentant de l'ARC, de M. Fabien Veyret, responsable du réseau énergie de l'association France nature environnement, de M. Raphaël Claustre, délégué général du réseau pour la transition énergétique (CLER), de M. Dominique Desmoulins, Promotelec, de Mme Catherine Jacquot, présidente de l'ordre des architectes, M. Guilhem Fenieys, chargé de mission relations institutionnelles de l'UFC Que Choisir, MM. Guy Lacroix, président, et Alexis Cintrat, chargé de mission efficacité énergétique du Syndicat des entreprises de génie électrique et climatique (SERCE).
