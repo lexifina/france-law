@@ -4,6 +4,6 @@ Recueil CCSS
 
 RECUEIL DE RÈGLES DE SÉCURITÉ APPLICABLES AUX NAVIRES DE CHARGE CARIBÉENS
 
-(Navires de charge d’une jauge brute inférieure à 500)
+(Navires de charge d'une jauge brute inférieure à 500)
 
-Vous pouvez consulter l'image dans le fac-similé du JO nº 0145 du 25/06/2015, texte nº 9 à l'adresse suivante : http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20150625&numTexte=9&pageDebut=10412&pageFin=10412
+Vous pouvez consulter l'image dans le fac-similé du JO nº 0123 du 28/05/2016, texte nº 20 à l'adresse suivante https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000032591296
