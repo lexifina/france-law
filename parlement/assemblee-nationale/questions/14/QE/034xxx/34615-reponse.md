@@ -1,0 +1,9 @@
+# Réponse à la question n° 34615
+
+- Question : [34615](34615.md) — Question n° 34615 — pouvoir adjudicateur; régions; conséquences
+
+## Réponse
+
+*JO du 2016-05-31*
+
+La modernisation de la politique de l'achat public de l'État a plusieurs objectifs : - satisfaire les besoins des services en contribuant à la maîtrise de la dépense publique ; - intégrer les objectifs environnementaux et sociaux dans les stratégies interministérielles ; - promouvoir l'innovation ; - faciliter l'accès des petites et moyennes entreprises à la commande publique. En fonction de la nature des besoins à satisfaire, différentes stratégies achats peuvent être déclinées pour répondre à ces objectifs. Lorsque l'offre économique est concentrée et provient d'entreprises nationales, voire internationales, le service des achats de l'État privilégie les marchés nationaux afin de faire bénéficier les services d'économies d'échelles. En revanche, lorsque l'offre est locale, et que la proximité est une condition de la qualité du service, une approche locale est privilégiée. Tel est le cas notamment des prestations d'entretien immobilier, pour lesquelles le service des achats de l'État privilégie une approche régionale des procédures de mise en concurrence tout en réalisant un allotissement géographique plus fin des marchés, généralement départemental. Le choix de cet allotissement s'accompagne d'échanges et de concertation avec les acteurs économiques locaux tels que les chambres des métiers et les fédérations professionnelles. Tout en contribuant à la réduction de la dépense publique par le développement de synergies de mutualisation à l'achat, cette démarche permet de préserver et d'accompagner le développement des meilleures entreprises locales dans les départements et les régions. Ces dernières, très majoritairement attributaires des marchés de l'État en région, ont un avantage concurrentiel lié à la proximité de leur localisation et développent l'emploi local.
