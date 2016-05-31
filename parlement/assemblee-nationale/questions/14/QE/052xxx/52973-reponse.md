@@ -1,0 +1,9 @@
+# Réponse à la question n° 52973
+
+- Question : [52973](52973.md) — Question n° 52973 — qualité de l'air; transition énergétique; calendrier
+
+## Réponse
+
+*JO du 2016-05-31*
+
+La loi no 2015-992 du 17 août 2015 sur la transition énergétique pour la croissance verte comprend deux chapitres consacrés notamment à la réduction des émissions de gaz à effet de serre, à la réduction des polluants atmosphériques et aux mesures de planification relatives à la qualité de l'air. Elle offre un cadre juridique renouvelé et renforcé pour l'action en faveur de la qualité de l'air, avec une approche intégrée climat-air-énergie depuis le niveau national jusqu'au niveau local. Elle accélère la mutation du parc automobile français en imposant le renouvellement des flottes publiques de transport individuel et collectif (bus propres) et en facilitant le déploiement de bornes de recharge pour les véhicules électriques et hybrides avec un objectif de 7 millions de points de recharge d'ici à 2030 sur le territoire. Elle permet aux collectivités de créer des zones à circulation restreinte, offre des avantages de stationnement et de péages pour les véhicules les moins polluants, et incite à la baisse des vitesses en ville. Elle facilite le développement du covoiturage et impose aux entreprises de plus de 100 salariés sur un même site couvert par un plan de déplacement urbain, de mettre en œuvre un plan de mobilité à compter du 1er janvier 2018. Elle prévoit également une meilleure prise en compte de la qualité de l'air dans les documents de planification : les plans climat-énergie territoriaux (PCET) comporteront des mesures relatives à la qualité de l'air en devenant ainsi des plans climat-air-énergie-territoriaux (PCAET) qui concerneront d'ici 2019 tous les établissements publics de coopération intercommunale (EPCI) de plus de 20 000 habitants. Enfin, elle interdit l'utilisation des produits phytosanitaires dans l'espace public.
