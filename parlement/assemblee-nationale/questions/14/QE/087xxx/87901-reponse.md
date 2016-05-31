@@ -1,0 +1,9 @@
+# Réponse à la question n° 87901
+
+- Question : [87901](87901.md) — Question n° 87901 — non-résidents; dysfonctionnement; perspectives
+
+## Réponse
+
+*JO du 2016-05-31*
+
+En matière de mensualisation, les usagers, qu'ils soient résidents ou non-résidents, disposent d'un interlocuteur unique pour la gestion de leurs contrats, le centre prélèvement service (CPS). Les coordonnées de ce service sont indiquées sur les avis d'impôt et les courriers s'y rapportant ainsi que sur le site www.impots.gouv.fr. Au cas particulier, les contribuables non-résidents relèvent du CPS de Lille. Le service des impôts des particuliers non-résidents (SIPNR) n'intervient pas en ce domaine. L'échéancier des prélèvements d'une année donnée est automatiquement calculé en fonction du montant de l'impôt de l'année précédente et est présenté à l'usager sur son avis d'impôt. Pour toute nouvelle adhésion à la mensualisation faite au second semestre, après réception de l'avis, l'usager reçoit un échéancier en début d'année suivante. Il a la possibilité de moduler à la hausse ou à la baisse ses prélèvements en fonction du montant de l'impôt attendu. Cette modulation peut être faite sur le site www.impots.gouv.fr ou être demandée au CPS de Lille. Sa prise en compte se traduit par l'envoi d'un nouvel échéancier. Toute demande faite avant la fin d'un mois est prise en compte pour le mois suivant. Par ailleurs, au moment de la mise en recouvrement de l'impôt, le montant des prélèvements est automatiquement réajusté. Les prélèvements à venir ou le remboursement éventuel d'un trop perçu sont précisés sur l'avis d'impôt de l'usager. Compte tenu de la formulation très générale de la question, il est difficile d'éclairer davantage son auteur. Cela étant, si celui-ci avait connaissance de dysfonctionnements précis affectant des contribuables identifiés, il est invité à communiquer les détails nécessaires à l'administration fiscale afin que celle-ci puisse utilement les examiner.
