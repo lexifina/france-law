@@ -1,0 +1,9 @@
+# Réponse à la question n° 80525
+
+- Question : [80525](80525.md) — Question n° 80525 — réglementation
+
+## Réponse
+
+*JO du 2016-05-31*
+
+La question posée concerne, d'une manière générale, les modalités d'utilisation des cimetières désaffectés, et de façon plus précise, les délais à respecter. Le code général des collectivités territoriales distingue deux situations, selon la destination envisagée : dans la perspective d'un affermage, l'article L. 2223-7 du code général des collectivités territoriales s'applique. Il dispose qu'après un délai de cinq ans, les cimetières désaffectés peuvent être affermés. Mais cet article, qui réduit le délai à cinq ans dans le seul cas de l'affermage, encadre très strictement la destination réservée à l'ancien cimetière, en précisant « à condition qu'ils ne soient qu'ensemencés ou plantés, sans qu'il puisse être fait aucune fouille ou fondation pour des constructions de bâtiment jusqu'à ce qu'il en soit autrement ordonné ». Pour toute autre destination, un délai de dix ans doit être respecté, l'article L. 2223-8 du même code disposant que les cimetières ne peuvent être aliénés qu'après dix années à compter de la dernière inhumation. Les ossements humains doivent impérativement mais nécessairement avoir été transférés vers le nouveau cimetière (CA Metz, 5 octobre 2010, JCP 2010.1168, note francioso). Toutefois, l'intervention de la procédure d'aliénation laisse ensuite le libre choix de la nouvelle affectation. Sous réserve de l'appréciation souveraine du juge compétent, la construction de bâtiments sur les terrains des cimetières désaffectés ne peut donc intervenir qu'après ce délai de dix ans. Quant aux termes « jusqu'à ce qu'il en soit autrement ordonné » de l'article L.2223-7 précité, ils concernent le cas où les fouilles ou fondations pourraient être autorisées par le juge compétent dans le cadre d'un affermage du cimetière désaffecté par la commune propriétaire.
