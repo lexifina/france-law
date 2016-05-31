@@ -1,0 +1,9 @@
+# Réponse à la question n° 75422
+
+- Question : [75422](75422.md) — Question n° 75422 — réseaux de prestataires; opticiens; rapport d'évaluation
+
+## Réponse
+
+*JO du 2016-05-31*
+
+La loi no 2014-57 du 27 janvier 2014 relative aux modalités de mise en œuvre des conventions conclues entre les organismes d'assurance maladie complémentaire et les professionnels, établissements et services de santé indique que les mutuelles, unions ou fédérations relevant du code de la mutualité, les entreprises d'assurance régies par le code des assurances et les institutions de prévoyance régies par le présent code peuvent, directement ou par l'intermédiaire d'un tiers, conclure avec des professionnels de santé, des établissements de santé ou des services de santé des conventions comportant des engagements relatifs, pour l'organisme assureur, au niveau ou à la nature des garanties ou, pour le professionnel, l'établissement ou le service, aux services rendus ou aux prestations ainsi qu'aux tarifs ou aux prix. La même loi rappelle expressément : le droit fondamental du patient à choisir librement son professionnel de santé, son l'établissement ou son service de santé ; l'absence de clause d'exclusivité pour l'adhésion des professionnels, établissements ou services à ces conventions ; l'interdiction de modulation du niveau de la prise en charge des actes et prestations médicaux selon que le médecin ait ou non conclu une convention. Un rapport d'évaluation doit être produit afin d'établir un bilan et une évaluation des conventions instituant les réseaux de soins et de préciser les garanties et prestations que ces conventions comportent, leurs conséquences pour les patients, en particulier en termes d'accès aux soins et de reste à charge, et leur impact sur les tarifs et prix pratiqués par les professionnels, établissements et services concernés. Ce rapport, en cours de rédaction, sera transmis au Parlement à l'automne.
