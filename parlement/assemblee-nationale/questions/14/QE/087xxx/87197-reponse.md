@@ -1,0 +1,9 @@
+# Réponse à la question n° 87197
+
+- Question : [87197](87197.md) — Question n° 87197 — objets connectés; développement; perspectives
+
+## Réponse
+
+*JO du 2016-05-31*
+
+L'explosion des usages, personnels et professionnels, des objets connectés constitue une opportunité économique majeure pour notre pays qui dispose de leaders mondiaux sur ces sujets. Ainsi, lors du dernier Consumer Electronic Show qui s'est tenu en janvier 2015 à Las Vegas, pas moins de 10 entreprises françaises ont été primées. La solution « objets intelligents » de la nouvelle France industrielle a pour objectif de favoriser les développements nationaux en matière d'objets connectés (savoir-faire) et de positionner la France comme un leader mondial en la matière (faire-savoir) au moyen d'actions dont le pilotage a été confié à Eric Careel, président de Withings. L'une de ces actions phare est la création, avec le soutien de l'Etat au travers du programme des investissements d'avenir, de la « cité de l'objet connecté » au sein de l'écosystème thématique IoTTech Angers French Tech. La cité de l'objet connecté permettra de concentrer en un même lieu toutes les étapes de la conception d'un objet connecté, du prototypage à la production en série. La diffusion des usages liés aux objets connectés dans le monde professionnel est par ailleurs au cœur de la stratégie numérique du Gouvernement présentée par le Premier ministre le 18 juin dernier. Le lancement de deux groupes de réflexion, l'un dans le secteur du luxe, l'autre de l'énergie, dans l'objectif de constituer des projets structurants d'exploitations d'objets connectés à l'échelle de ces filières, est imminent. Le programme « industrie du futur » prévoit par ailleurs la sensibilisation de 15 000 entreprises et l'accompagnement de projets de modernisation de 2 000 petites et moyennes entreprises ou entreprises de taille intermédiaire industrielles, qui pourront comporter un volet lié aux objets connectés.
