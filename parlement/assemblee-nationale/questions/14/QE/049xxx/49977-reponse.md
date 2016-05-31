@@ -1,0 +1,9 @@
+# Réponse à la question n° 49977
+
+- Question : [49977](49977.md) — Question n° 49977 — gaz à effet de serre; réduction; Cour des comptes; rapport; recommandations
+
+## Réponse
+
+*JO du 2016-05-31*
+
+Dans son rapport sur la mise en œuvre par la France du paquet énergie-climat (PEC), la Cour des comptes estime que le processus de débat et de concertation sur la transition énergétique pourrait être confié au commissariat général à la stratégie et à la prospective (CGSP), devenu France Stratégie. Elle propose également de confier à France Stratégie la mise au point des outils de simulation nécessaires. France Stratégie est un acteur essentiel dans le domaine de la prospective notamment pour les questions énergétiques et climatiques. Il a, par exemple, apporté sa contribution aux travaux du « comité trajectoires 2020-2050 vers une économie sobre en carbone » dont le rapport a été publié en 2011. La contribution de France Stratégie a été précieuse pour toutes les parties prenantes lors du débat sur le projet de loi sur la transition énergétique pour la croissance verte ou encore lors de la discussion lancée au niveau européen et international sur les objectifs climatiques à retenir pour l'horizon 2030. Les travaux sur les questions de transition énergétique ont néanmoins vocation à être pilotés par le ministère de l'environnement, de l'énergie et de la mer, en charge des relations internationales sur le climat, conformément aux missions dont il a la charge. La mise au point des outils de simulation est une tâche complexe, réalisée entre autres par des laboratoires de recherche et des bureaux d'étude spécialisés. France Stratégie peut utilement contribuer, en lien avec les autres ministères concernés, à éclairer les choix et à animer des débats sur les résultats obtenus par différents outils.
