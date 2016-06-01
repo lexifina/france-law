@@ -10,7 +10,7 @@ Une commission paritaire nationale pour l'emploi et la formation (CPNEF) est ins
 
 - proposer les actions de formation prioritaires au plan national.
 
-Elle est l'interlocuteur direct représentant les parties contractantes auprès de l'OPCA-PL, en particulier pour les propositions de prise en charge financière des actions de formation. Elle est également l'organisme compétent représentant les parties contractantes auprès de tous les autres partenaires publics ou privés, en matière de formation et d'emploi.
+Elle est l'interlocuteur direct représentant les parties contractantes auprès de l'organisme paritaire collecteur agréé désigné, en particulier pour les propositions de prise en charge financière des actions de formation. Elle est également l'organisme compétent représentant les parties contractantes auprès de tous les autres partenaires publics ou privés, en matière de formation et d'emploi.
 
 Composition.
 

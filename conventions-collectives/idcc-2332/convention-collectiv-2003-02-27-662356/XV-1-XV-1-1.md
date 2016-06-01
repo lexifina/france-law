@@ -6,7 +6,7 @@ La commission paritaire nationale de la négociation collective (CPNNC) est char
 
 - proposer et rédiger des avenants à la présente convention collective sur proposition du collège employeur ou salarié ;
 
-- suivre les négociations des valeurs de point et fixer la valeur du point applicable pour un secteur géographique déterminé en cas d'échec ou de carence de négociation au niveau régional.
+- suivre les négociations des valeurs de point et fixer la valeur du point applicable pour un secteur géographique déterminé en cas d'échec ou de carence de négociation au niveau territorial.
 
 La composition est la suivante :
 
