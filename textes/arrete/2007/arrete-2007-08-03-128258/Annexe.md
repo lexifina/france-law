@@ -6,26 +6,6 @@ Jusqu'au 15 juin 2016 :
 
 Dzaoudzi-Antananarivo (Madagascar).
 
-Jusqu'au 20 juillet 2016 :
-
-Fort-de-France-Sainte-Lucie ;
-
-Pointe-à-Pitre-Saint-Barthélemy.
-
-Jusqu'au 31 août 2016 :
-
-Fort-de-France-Puerto Plata (République dominicaine) ;
-
-Fort-de-France-Punta Cana (République dominicaine) ;
-
-Fort-de-France-Saint-Domingue (République dominicaine) ;
-
-Pointe-à-Pitre-Puerto Plata (République dominicaine) ;
-
-Pointe-à-Pitre-Punta Cana (République dominicaine) ;
-
-Pointe-à-Pitre-Saint-Domingue (République dominicaine).
-
 Jusqu'au 29 juin 2017 :
 
 Paris-Dzaoudzi ;
@@ -99,3 +79,17 @@ Paris-Port-Louis (île Maurice).
 Jusqu'au 31 mars 2021 :
 
 Paris-Montréal (Canada).
+
+Jusqu'au 30 juin 2021 :
+
+Pointe-à-Pitre-Saint-Barthélemy ;
+
+Pointe-à-Pitre-Punta Cana (République dominicaine) ;
+
+Pointe-à-Pitre-Saint-Domingue (République dominicaine) ;
+
+Fort-de-France-Sainte-Lucie ;
+
+Fort-de-France-Punta Cana (République dominicaine) ;
+
+Fort-de-France-Saint-Domingue (République dominicaine).
