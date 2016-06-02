@@ -1,0 +1,9 @@
+# Réponse à la question SEQ160320744
+
+- Question : [SEQ160320744](seq160320744.md) — Blocage sanitaire des exportations d'équidés vers la Chine
+
+## Réponse
+
+*Commerce extérieur, promotion du tourisme et Français de l'étranger, JO du 2016-06-02, page 2358*
+
+La France et la Chine ont signé en juin 2014 un protocole d'accord permettant les exportations de chevaux vers la Chine. Celui-ci prévoit la suspension des exportations si la France n'est pas indemne de la fièvre du Nil occidental. Cette clause a permis de ne pas retarder le démarrage des premières exportations, fin 2014. À la suite de l'apparition de cas de fièvre du Nil occidental dans le Sud de la France, les exportations de chevaux français ont été suspendues du fait même de la clause relative à la fièvre du Nil occidental. La France a mis en œuvre toutes les mesures sanitaires prévues par la réglementation pour maîtriser cette maladie et aucun nouveau cas n'a été détecté depuis le 30 octobre 2015. Depuis lors, la France a multiplié les démarches auprès des autorités chinoises pour obtenir la levée de l'embargo et engager la reconnaissance de la régionalisation. Ce travail diplomatique a porté ses fruits, puisque le 20 avril 2016, l'autorité sanitaire chinoise chargée de l'importation des animaux vivants (AQSIQ) a donné son accord de principe sur le protocole révisé permettant de régionaliser la France au regard du risque de fièvre du Nil occidental. Ce texte doit faire l'objet d'une approbation formelle par le ministre français de l'agriculture et le ministre chinois de l'AQSIQ. Les services français concernés travaillent à une signature du protocole dans les meilleurs délais. Dès la finalisation du protocole, les exportations de chevaux vivants seront à nouveau autorisées depuis les départements non infectés par la maladie.
