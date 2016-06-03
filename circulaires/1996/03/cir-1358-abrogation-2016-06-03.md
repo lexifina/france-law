@@ -1,0 +1,51 @@
+# Validation des services de non-titulaire
+
+- État : abrogée (au 2016-06-03)
+- Numéro : 1996-092
+- Date de signature : 1996-03-22
+- Mise en ligne : 2009-04-17
+- Ministères : 7
+- Domaines : Education, enseignement supérieur, recherche
+- Annexes : 0
+- Identifiant : 1358 (PDF officiel : pdf/2009/04/cir_1358.pdf)
+
+## Texte
+
+Note de service no 96-092 du 22 mars 1996 
+(Education nationale, Enseignement supérieur et Recherche : Finances et Contrôle de gestion) 
+Texte adressé aux recteurs d'académie, au directeur de l'académie de Paris, aux inspecteurs d'académie, 
+directeurs des services départementaux de l'Education nationale, aux présidents d'université et aux directeurs 
+des établissements d'enseignement supérieur. 
+Validation des services de non-titulaire. 
+NOR : MENF9600854N 
+L'article R 7 du Code des pensions civiles et militaires de retraite fixe les bases de calcul des retenues 
+rétroactives dues pour la validation de services de non-titulaire. 
+Le montant de ces cotisations est fonction de la date à laquelle le fonctionnaire présente sa demande de 
+validation. 
+Pour cette raison, la justification de la date de dépôt de la demande de validation revêt une grande 
+importance ; son absence ou la confusion créée par la mention d'une date de réception ou de transmission 
+postérieure à celle du dépôt peut donner lieu à contestation. 
+Afin d'éviter toute divergence d'interprétation, le ministre de l'Economie et des Finances, service des 
+pensions, m'a fait part des observations suivantes, définissant ainsi la date qui détermine les bases de calcul 
+des retenues rétroactives : 
+... « la date à prendre en compte pour la détermination du traitement servant de base au calcul des retenues 
+rétroactives est la date de dépôt initial de la demande de validation auprès de l'administration dont relève le 
+fonctionnaire. 
+Toutefois, cette date de dépôt, qui correspond à la date de réception de la demande par l'administration, ne 
+peut être connue que si la demande a fait l'objet d'un enregistrement lors de sa réception... 
+... S'agissant des futures demandes de validation de services, il me paraît indispensable que le service 
+récepteur de ces demandes appose, dès la réception de la demande, un cachet dateur authentifiant la date 
+de dépôt... » 
+En conséquence, je vous serais obligé de prendre toutes dispositions utiles pour que l'ensemble des 
+établissements et services relevant de votre autorité apposent, le jour même du dépôt initial des demandes 
+de validation de services pour la retraite, le cachet-dateur à en-tête de l'établissement ou du service sur la 
+première page de la demande. 
+Il conviendra également de veiller à ce que les fonctionnaires concernés soient informés que c'est cette date 
+qui déterminera le traitement à prendre en compte pour le calcul des retenues rétroactives, compte tenu des 
+dispositions de l'article R 7, ' 4 et 5 du Code des pensions civiles et militaires de retraite. 
+Pour garantir la bonne application de ces instructions, je souhaite par ailleurs que le nouveau modèle 
+d'imprimé de « demande de validations de services auxiliaires pour la retraite » ci-après soit utilisé dans les 
+meilleurs délais et en tout état de cause à compter de la prochaine rentrée scolaire. 
+(BO no 14 du 4 avril 1996) 
+
+Annexe
