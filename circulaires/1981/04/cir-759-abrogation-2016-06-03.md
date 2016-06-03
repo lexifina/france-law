@@ -1,0 +1,165 @@
+# Validation pour la retraite de certains services d'enseignement accomplis hors de France (application du décret no 65-772 du 7 septembre 1965).
+
+- État : abrogée (au 2016-06-03)
+- Numéro : 81-146
+- Date de signature : 1981-04-01
+- Mise en ligne : 2009-04-15
+- Ministères : 7
+- Domaines : Education, enseignement supérieur, recherche
+- Annexes : 0
+- Identifiant : 759 (PDF officiel : pdf/2009/04/cir_759.pdf)
+
+## Texte
+
+Note de service no 81-146 et no I/81-U-1016 du 1er avril 1981 
+(Education, Universités : Administration générale et personnels administratifs : pensions) 
+Texte adressé aux recteurs et aux inspecteurs d'académie. 
+Validation pour la retraite de certains services d'enseignement accomplis hors de France (application du décret 
+no 65-772 du 7 septembre 1965). 
+La présente note de service a pour objet de rappeler les textes autorisant la validation pour la retraite des 
+services d'enseignement accomplis à l'étranger avant titularisation et d'indiquer les modalités de validation de 
+ces services, dans la mesure où elles diffèrent des dispositions générales applicables en matière de 
+validation de services telles qu'elles ont été précisées dans mes circulaires no 73-069 du 5 février 1973, no 76-
+435 et no 76-U-150 du 6 décembre 1976. 
+En effet, il est apparu, tant au niveau de la constitution des dossiers que de leur transmission, qu'une 
+information particulière était nécessaire afin d'éviter les retards causés par l'acheminement de nombreux 
+dossiers incomplets ou constitués inutilement. 
+
+I. APPLICATION DU DÉCRET No 65-772 DU 7 SEPTEMBRE 1965 
+Il est rappelé que, sous certaines conditions, la validation pour la retraite des services d'enseignement ou 
+d'assistant accomplis à l'étranger, avant titularisation des fonctionnaires, est autorisée par le décret no 65-772 
+du 7 septembre 1965 complété par l'arrêté du 7 septembre 1965 et par l'arrêté du 19 avril 1971 (JO du 11 mai 
+1971). Par ailleurs, les dispositions de la circulaire no V 67-383 du 15 septembre 1967 qui a précisé les 
+modalités d'application du décret du 7 septembre 1965 restent valables. 
+
+CONDITIONS DE VALIDATION POUR LA RETRAITE DE CES SERVICES 
+La validation pour la retraite de tels services est accordée dans des conditions strictes : 
+a) De durée : 
+Cinq ans pour les services accomplis dans l'enseignement secondaire, élémentaire et technique, et pour les 
+services de lecteurs ; 
+Deux ans pour ceux accomplis en qualité d'assistant ; 
+Dix ans pour ceux accomplis dans l'enseignement supérieur. 
+b) D'horaire : 
+Un certain nombre d'heures d'enseignement doit avoir été effectué par semaine : dix-huit heures pour « les 
+enseignements du niveau de l'enseignement élémentaire et des collèges d'enseignement général », quatorze 
+heures pour l'enseignement secondaire, douze heures pour les services d'assistant, douze heures dont six 
+d'enseignement magistral pour les services de lecteurs, trois heures pour l'enseignement du niveau de 
+l'enseignement supérieur. 
+c) De diplômes : 
+Les diplômes possédés avant l'accomplissement de ces services doivent correspondre au niveau de 
+l'enseignement dispensé. 
+
+LA COMPOSITION DU DOSSIER ET LA PROCÉDURE APPLICABLE SONT PRÉCISÉES CI-APRÈS 
+1o COMPOSITION DU DOSSIER 
+a) Demande : l'imprimé spécial de demande de validation doit être utilisé de préférence ; cependant une 
+simple lettre est suffisante si la validation pour la retraite y est expressément demandée, mais dans ce cas 
+toutes les indications que comporte l'imprimé devront être fournies. 
+b) Arrêté de première titularisation ou d'intégration, quel que soit le cadre dans lequel celle-ci est intervenue, 
+avec mention de la date de notification de l'arrêté. 
+c) Photocopie des titres de capacité pour l'enseignement, obtenus avant le début des services dont la 
+validation est demandée. 
+d) Attestation relative aux services dont la validation est demandée. Ce document, à réclamer par les 
+intéressés eux-mêmes auprès des établissements où l'enseignement a été donné, doit, pour être valable : 
+Porter la signature et le cachet du chef de l'établissement ; 
+Indiquer les disciplines enseignées, la durée (avec date de début et de fin) des services rémunérés et - dans 
+tous les cas - le nombre d'heures d'enseignement effectué par semaine. 
+
+e) Etat des services effectués jusqu'au jour de la demande, en France et hors de France, établi par le service 
+gestionnaire ou, à défaut, relevé des services établi par l'intéressé sur papier libre et visé par son supérieur 
+hiérarchique actuel. 
+Dans tous les cas cet état sera établi par les recteurs ou inspecteurs d'académie pour les personnels à 
+gestion déconcentrée. 
+f) Formule d'accusé de réception qui doit être complétée partiellement par le demandeur. 
+g) S'il y a lieu : copie du décret de naturalisation ou certificat de nationalité. 
+h) Le cas échéant, arrêté plaçant en congé pour études les élèves-professeurs autorisés à interrompre leur 
+scolarité pour exercer en qualité d'assistant à l'étranger. 
+
+2o PROCÉDURE 
+A) Envoi du dossier 
+a) Fonctionnaires en activité : 
+Le fonctionnaire sollicitant la validation pour la retraite de services d'enseignement ou d'assistant accomplis à 
+l'étranger avant titularisation ne doit en aucune manière adresser cette demande directement à la sous-
+direction des pensions, mais la remettre à son chef de service ou d'établissement actuel. Celui-ci doit 
+immédiatement apposer le timbre à date et son cachet sur la demande et la viser, puis transmettre le dossier, 
+lorsqu'il sera complet, par la voie hiérarchique, au bureau des retenues et cotisations pour la retraite 
+(ministère de l'Education, direction de l'Administration générale et des personnels administratifs, sous-
+direction des pensions, BP 228, 44505 La Baule Cedex). 
+Il est demandé aux recteurs et inspecteurs d'académie de ne transmettre que les dossiers complets, tant en 
+ce qui concerne les divers documents à fournir que les indications devant obligatoirement y figurer. 
+b) Fonctionnaires détachés à l'étranger : 
+Tout fonctionnaire exerçant à l'étranger au moment où il constitue son dossier de validation pour la retraite de 
+services d'enseignement ou d'assistant est invité à adresser son dossier, dans toute la mesure du possible 
+sous couvert du service culturel ou de coopération, au bureau des retenues et cotisations pour la retraite 
+(ministère de l'Education - direction de l'Administration générale et des personnels administratifs, sous-
+direction des pensions, BP 228, 44505 La Baule Cedex). 
+La sous-direction des pensions retournera tout dossier incomplet, y compris la demande de validation sur 
+laquelle seront notifiés par ses soins la date de réception et le rappel des documents qui devront être fournis 
+ou complétés. 
+En tout état de cause, il appartiendra au fonctionnaire auquel un dossier incomplet aura été retourné de le 
+compléter et de l'adresser dans les meilleurs délais, accompagné de la demande de validation initiale portant 
+la date de la première réception. 
+
+B) Décision de recevabilité 
+La décision de recevabilité de demande de validation de services d'enseignement ou d'assistant accomplis à 
+l'étranger avant titularisation est prise, après avis de la commission paritaire nationale compétente et accord 
+du ministre du Budget, par le ministre de l'Education ou des Universités (bureau des retenues et cotisations 
+pour la retraite), aussi bien pour les personnels à gestion nationale que pour les personnels dont la gestion 
+est assurée par les recteurs ou les inspecteurs d'académie. 
+
+C) Exécution de la décision de recevabilité 
+a) Fonctionnaires en activité : 
+Dès réception de l'autorisation ministérielle donnée par le bureau des retenues et cotisations pour la retraite 
+de la sous-direction des pensions, il appartiendra au service liquidateur du traitement d'engager la procédure 
+comptable pour le calcul et le recouvrement des retenues rétroactives pour pension civile qui sont dues. Cette 
+procédure comptable est identique à celle utilisée habituellement pour la validation pour la retraite de services 
+de non-titulaires, en application de l'article L 5 du Code des pensions. 
+Il est précisé toutefois que les personnels qui ont été rémunérés en totalité par les établissements étrangers 
+(notamment les assistants) n'ont cotisé ni à l'IRCANTEC ni à la Sécurité sociale « risque vieillesse ». 
+Dans ce cas, le montant des versements rétroactifs sera donc égal à la retenue légale de 6 % - sans aucune 
+déduction - sur le traitement brut rattaché à l'emploi du grade, classe et échelon détenus, soit à la date de 
+titularisation (art. R 7, ' 4, du Code des pensions), soit à la date de la demande (art. R 7, ' 5, du Code des 
+pensions). 
+
+b) Fonctionnaires en service détaché : 
+Il appartient au bureau des retenues et cotisations pour la retraite de la sous-direction des pensions d'engager 
+la procédure comptable pour le calcul et le recouvrement des retenues rétroactives pour pension civile qui 
+sont dues. 
+
+II. AUTRES CAS DE VALIDATION POUR LA RETRAITE DES SERVICES ACCOMPLIS A L'ÉTRANGER 
+AVANT TITULARISATION 
+Il est précisé que le décret no 65-772 du 7 septembre 1965 ne concerne pas les services accomplis avant 
+titularisation à l'étranger dans le cadre de la coopération culturelle scientifique et technique ou auprès de 
+certains établissements et organismes de diffusion culturelle ou d'enseignement dépendant du ministère des 
+Affaires étrangères et du ministère de la Coopération, et qui peuvent être validés en application des textes 
+suivants : 
+A) Arrêté du 4 avril 1966 qui autorise la validation pour la retraite des services accomplis en Algérie par les 
+agents recrutés avec l'accord du gouvernement français et selon les dispositions du protocole publié par le 
+décret no 62-1020 du 29 août 1962. 
+Dans ce cas, la même procédure que celle adoptée pour la validation de services auxiliaires accomplis en 
+France doit être appliquée. La décision de recevabilité est prise, en ce qui concerne les personnels à gestion 
+déconcentrée, par le recteur ou l'inspecteur d'académie qui doit demander l'accord de l'ambassade de France 
+en Algérie. 
+B) Arrêtés interministériels des 27 février 1973 et 8 mai 1973 qui permettent la validation au titre de l'article L 
+5 du Code des pensions civiles, pour les personnels recrutés par le ministère des Affaires étrangères, des 
+services de non-titulaires effectués auprès des administrations marocaine et tunisienne postérieurement à 
+l'indépendance de ces pays. 
+Arrêté interministériel du 27 novembre 1974 ( JO des 9 et 10 décembre 1974) qui permet la validation des 
+services de non-titulaires accomplis à temps complet auprès d'un Etat étranger dans le cadre de la 
+coopération culturelle, scientifique et technique avec cet Etat et répondant à la définition prévue par la loi 
+no 72-659 du 13 juillet 1972. 
+Arrêtés du 9 juillet 1980 qui permettent la validation pour la retraite des services de non-titulaires accomplis à 
+temps complet : 
+a) Auprès de l'office universitaire et culturel français en Algérie ; 
+b) Dans les établissements et organismes de diffusion culturelle ou d'enseignement dépendant du ministère 
+des Affaires étrangères figurant sur la liste mentionnée à l'article premier du décret no 76-832 du 24 août 1976 
+(liste publiée dans l'arrêté du 7 janvier 1977, JO du 16 février 1977, et dans l'arrêté du 8 décembre 1978, JO 
+du 23 décembre 1978, du ministère des Affaires étrangères). 
+Pour ces cas, il y a lieu d'appliquer la même procédure que celle suivie pour la validation des services 
+auxiliaires accomplis en France, hormis le fait que la décision de recevabilité doit être prise par le ministre de 
+l'Education ou des Universités (bureau des retenues et cotisations pour la retraite) même lorsqu'il s'agit de 
+personnels à gestion déconcentrée. 
+(BO no 17 du 30 avril 1981.) 
+
+SIGNALE : Certaines références à des lois, règlements ou instructions contenues dans le présent texte sont susceptibles 
+d'avoir été abrogées et, le cas échéant remplacées, par des références nouvelles (codes, lois, règlements ou instructions 
+postérieurs).
