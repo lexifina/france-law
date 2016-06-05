@@ -8,12 +8,12 @@ En outre, elle est habilitée à délivrer les agréments conformément à la r�
 
 Les catégories de marchandises visées à l'alinéa précédent ainsi que les modalités de la présentation en douane sont fixées par un arrêté du ministre chargé des douanes.
 
-3° Les contrôles visés au 1, lorsqu'ils portent sur des marchandises faisant l'objet d'opérations à l'intérieur du territoire douanier de la Communauté européenne, et les contrôles visés au 2 sont effectués conformément aux dispositions prévues par les articles 1er, 2, 3, 322 bis, 468 et 469 ainsi que par le présent titre.
+3° Les contrôles visés au 1, lorsqu'ils portent sur des marchandises faisant l'objet d'opérations à l'intérieur du territoire douanier de la Communauté européenne, et les contrôles visés au 2 sont effectués conformément aux dispositions prévues par les articles 1er, 2,3,322 bis, 468 et 469 ainsi que par le présent titre.
 
 4° Dans tous les cas, les agents des douanes ont accès aux locaux et aux terrains à usage professionnel, à l'exclusion des domiciles ou de la partie des locaux qui sert de domicile, entre 8 heures et 20 heures, ou, en dehors de ces heures, lorsqu'une activité est en cours.
 
-5° Dans le cadre de leurs contrôles, les agents des douanes peuvent procéder à des prélèvements d'échantillons aux fins d'analyse ou d'expertise.
+5° (abrogé)
 
-6° Les dispositions du titre XII, à l'exclusion des articles 410 à 412, 414 à 430, et au titre XV sont applicables lorsque les agents des douanes sont mis dans l'impossibilité d'exercer les contrôles prévus aux 3 et 4 ci-dessus.
+6° Les dispositions du titre XII, à l'exclusion des articles 410 à 412,414 à 430, et au titre XV sont applicables lorsque les agents des douanes sont mis dans l'impossibilité d'exercer les contrôles prévus aux 3 et 4 ci-dessus.
 
 7° Les dispositions du titre XII à l'exclusion des articles 410 à 430, les sanctions figurant au premier alinéa de l'article 414 et les dispositions du titre XV sont applicables en cas d'acte frauduleux ayant pour but ou pour effet d'obtenir, en tout ou partie, un avantage quelconque alloué par le fonds européen d'orientation et de garantie agricole, section garantie, ou par le fonds européen agricole de garantie, lorsqu'il s'agit de marchandises faisant l'objet d'opérations à l'intérieur du territoire douanier de la Communauté européenne.

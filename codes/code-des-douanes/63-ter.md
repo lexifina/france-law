@@ -6,7 +6,7 @@ Cet accès a lieu entre 8 heures et 20 heures ou, en dehors de ces heures, lorsq
 
 Le procureur de la République est préalablement informé des opérations visées au premier alinéa et peut s'y opposer. Un procès-verbal de constat relatant le déroulement des opérations de contrôle lui est transmis dans les cinq jours suivant son établissement. Une copie en est transmise à l'intéressé dans le même délai.
 
-Au cours de leurs investigations, les agents des douanes mentionnés au premier alinéa peuvent effectuer un prélèvement d'échantillons, dans des conditions fixées par décret en Conseil d'Etat, et procéder à la retenue de documents pour les besoins de l'enquête ou en prendre copie quel qu'en soit le support.
+Au cours de leurs investigations, les agents des douanes mentionnés au premier alinéa peuvent procéder à la retenue de documents pour les besoins de l'enquête ou en prendre copie quel qu'en soit le support.
 
 Pour l'application des dispositions relatives à l'assistance mutuelle entre les autorités administratives des Etats membres de la Communauté européenne en matière de réglementation douanière ou agricole, les agents des douanes sont autorisés à mettre en oeuvre les dispositions du présent article pour le contrôle des opérations douanières ou agricoles réalisées dans les autres Etats membres de la Communauté européenne.
 

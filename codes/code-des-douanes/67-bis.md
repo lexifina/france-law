@@ -12,7 +12,7 @@ II.-Lorsque les investigations le justifient, le procureur de la République peu
 
 -les infractions douanières d'importation, d'exportation ou de détention de substances ou plantes classées comme stupéfiants, de contrebande de tabac manufacturé, d'alcool et spiritueux ;
 
--les infractions mentionnées à l'article 414 lorsqu'elles portent sur des marchandises contrefaisantes ;
+-les infractions mentionnées à l'article 414 lorsqu'elles portent sur des marchandises contrefaisantes, des armes ou leurs éléments, des munitions ou des explosifs ;
 
 -les infractions prévues à l'article 415 ;
 
