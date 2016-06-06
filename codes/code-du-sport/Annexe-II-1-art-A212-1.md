@@ -16,7 +16,7 @@ LIMITES DES CONDITIONS D'EXERCICE
 
 |
 
-DEUG "sciences et techniques des activités physiques et sportives : animateur-technicien des activités physiques pour tous".
+DEUG "sciences et techniques des activités physiques et sportives".
 
 |
 
@@ -116,19 +116,19 @@ Animation auprès de tout public, à l'exclusion :
 
 |
 
-Licence professionnelle "santé, option vieillissement et activités physiques adaptées".
+Licence professionnelle mention "santé, vieillissement et activités physiques adaptées" (licence professionnelle "santé", option "vieillissement et activités physiques adaptées").
 
 |
 
-Encadrement des activités physiques ou sportives de publics seniors.
+Encadrement et animation auprès de tout public des activités physiques ou sportives à un niveau d'initiation, d'entretien ou de loisir.
+
+Encadrement de toute activité physique ou sportive adaptée à la prévention du vieillissement, visant à entretenir et à améliorer la condition physique des publics seniors.
 
 |
 
-Toute activité sportive adaptée à la prévention du vieillissement, visant à entretenir et à améliorer la condition physique des publics seniors.
-
 |
 
-Licence professionnelle "activités sportives, option remise en forme et loisirs sportifs associés : responsable d'équipe de projets".
+Licence professionnelle "activités sportives", option "remise en forme et loisirs sportifs associés : responsable d'équipe de projets".
 
 |
 
@@ -136,19 +136,19 @@ Encadrement pour tout public d'activités physiques dans le secteur des métiers
 
 |
 
-Toute activité physique des métiers de la forme, liée au développement et à l'entretien du bien-être et de la santé.
+Toute activité physique des métiers de la forme liée au développement et à l'entretien du bien-être et de la santé.
 
 |
 
-Licence professionnelle "activités sportives", spécialité "développement social et médiation par le sport".
+Licence professionnelle mention "intervention sociale : développement social et médiation par le sport" (licence professionnelle "activités sportives", spécialité "développement social et médiation par le sport").
 
 |
 
-Encadrement et animation auprès de tout public, des activités physiques et sportives.
+Encadrement et animation auprès de tout public des activités physiques ou sportives à un niveau d'initiation, d'entretien ou de loisir.
 
 |
 
-Encadrement et animation auprès de tout public, à l'exclusion :
+A l'exclusion :
 
 - des groupes constitués de personnes ayant un handicap physique ou sensoriel, une déficience intellectuelle ou un trouble psychique ;
 
@@ -156,9 +156,11 @@ Encadrement et animation auprès de tout public, à l'exclusion :
 
 |
 
-Licence professionnelle activités sportives, spécialité "métiers de la forme".
+Licence professionnelle mention "métiers de la forme" (licence professionnelle "activités sportives", spécialité "métiers de la forme").
 
 |
+
+Encadrement et animation auprès de tout public des activités physiques ou sportives à un niveau d'initiation, d'entretien ou de loisir.
 
 Encadrement auprès de tout public d'activités physiques dans le secteur des métiers de la forme.
 
@@ -166,43 +168,51 @@ Encadrement auprès de tout public d'activités physiques dans le secteur des m�
 
 |
 
-Licence professionnelle "animation, gestion et organisation des activités physiques ou sportives".
+Licence professionnelle mention "animation, gestion et organisation des activités physiques ou sportives" (licence professionnelle "animation, gestion et organisation des activités physiques ou sportives").
 
 |
 
-Encadrement auprès de tout public à des fins d'initiation, d'entretien ou de loisir dans la ou les discipline (s) mentionnée (s) dans l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation.
+Encadrement et animation auprès de tout public des activités physiques ou sportives à un niveau d'initiation, d'entretien ou de loisir.
+
+Enseignement auprès de tout public dans la ou les discipline(s) mentionnée(s) dans l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice.
+
+|
+
+A l'exclusion des pratiques compétitives.
+
+|
+
+Licence mention "sciences et techniques des activités physiques et sportives", parcours type "éducation et motricité" (licence "éducation et motricité", filière "sciences et techniques des activités physiques et sportives").
+
+|
+
+Encadrement, enseignement et animation des activités physiques ou sportives auprès de tout public à un niveau d'initiation, d'entretien ou de loisir.
+
+|
+
+A l'exclusion des pratiques compétitives.
+
+|
+
+Licence mention "sciences et techniques des activités physiques et sportives", parcours type "entraînement sportif (licence "entraînement sportif", filière "sciences et techniques des activités physiques et sportives").
+
+|
+
+Encadrement et animation auprès de tout public des activités physiques ou sportives à un niveau d'initiation, d'entretien ou de loisir.
+
+Encadrement de tout public à des fins d'amélioration de la performance ou de développement personnel dans la ou les disciplines mentionnées dans l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation ou sur l'attestation délivrée par le président de l'université certificatrice.
 
 |
 
 |
 
-Licence "éducation et motricité" filière "sciences et techniques des activités physiques et sportives".
+Licence mention sciences et techniques des activités physiques et sportives , parcours type activité physique adaptée et santé (licence activité physique adaptée et santé , filière sciences et techniques des activités physiques et sportives ).
 
 |
 
-Encadrement et enseignement des activités physiques ou sportives auprès des enfants, adolescents et jeunes adultes.
-
-|
-
-|
-
-Licence "entraînement sportif" filière "sciences et techniques des activités physiques et sportives".
-
-|
-
-Encadrement de différents publics à des fins d'amélioration de la performance ou de développement personnel dans la (les) discipline (s) mentionnée (s) dans l'annexe descriptive au diplôme mentionnée à l'article D. 123-13 du code de l'éducation.
-
-|
-
-|
-
-Licence "activité physique adaptée et santé" filière "sciences et techniques des activités physiques et sportives".
-
-|
+Encadrement et animation auprès de tout public des activités physiques ou sportives à un niveau d'initiation, d'entretien ou de loisir.
 
 Encadrement des activités physiques ou sportives à destination de différents publics dans une perspective de prévention-santé ou de réadaptation ou d'intégration de personnes présentant l'altération d'une fonction physique ou psychique.
-
-|
 
 |
 
