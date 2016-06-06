@@ -28,6 +28,8 @@ Pour être autorisé à dispenser l'unité d'enseignement "prévention et secour
 
 - satisfaire aux dispositions de l'arrêté du 24 mai 2000 portant organisation de la formation continue des premiers secours.
 
+Les titulaires du certificat de formateur sauveteur-secouriste du travail (SST), à jour de formation maintien et actualisation des compétences, sont autorisés à dispenser l'unité d'enseignement " prévention et secours civiques de niveau 1 " sous l'égide des organismes de formation répondant au paragraphe 1 de l'annexe 2 du présent arrêté.
+
 5. Encadrement de la formation
 
 Le ratio d'encadrement pour l'unité d'enseignement "prévention et secours civiques de niveau 1" (PSC 1) est fixé à un maximum de dix stagiaires par formateur pour les phases de formation en présentiel.
