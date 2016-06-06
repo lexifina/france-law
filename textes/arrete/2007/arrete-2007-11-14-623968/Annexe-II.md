@@ -67,3 +67,21 @@ Formateur(s) |
 6. Condition d'admission en formation.
 
 Cette unité d'enseignement est accessible à toute personne satisfaisant les conditions fixées au 2° de l'article 11 du décret n° 91-834 du 30 août 1991 modifié susvisé.
+
+7. Dispositions particulières.
+
+Les dispositions de la présente partie sont applicables aux seuls titulaires de diplômes étrangers de secourisme en vue d'assurer, sur le territoire national, un emploi opérationnel dans le cadre des missions de sécurité civile de type D, sous l'égide d'une association agréée de sécurité civile.
+
+Dans ce cas, l'association agréée à la formation aux premiers secours et disposant d'une décision d'agrément PSE 2 en cours de validité est autorisée à délivrer la présente unité d'enseignement et peut déroger aux parties 3 et 5 de la présente annexe en mettant en œuvre un processus pédagogique distinct de celui figurant dans le référentiel interne de formation cité à la partie 2 de la même annexe.
+
+Ce processus pédagogique est réalisé sous la forme d'un allégement de formation défini contractuellement avec le stagiaire. L'allégement de formation portera sur des compétences clairement identifiées, déjà détenues par le stagiaire. Ce processus permettra de limiter le temps de formation aux seules compétences que le stagiaire ne possède pas pour obtenir le certificat de compétence PSE 2. Le dispensateur de formation mettra en place un processus de vérification des compétences déjà détenues (vérification des diplômes et des compétences, expériences professionnelles, entretien individuel, test pratique, théorique...). Le stagiaire ainsi allégé devra néanmoins être validé sur l'ensemble des compétences visées au PSE 2.
+
+L'équipe pédagogique effectuant les bilans de compétences devra être composée au minimum d'un responsable pédagogique titulaire de la pédagogie appliquée à l'emploi de formateur de formateurs et de l'unité d'enseignement de conception et d'encadrement d'une action de formation ainsi que de formateurs titulaires de la pédagogie appliquée à l'emploi de formateur aux premiers secours. Cette équipe est désignée par l'association agréée à la formation aux premiers secours, et l'ensemble des formateurs doit être à jour de formation continue.
+
+Le rôle de l'équipe pédagogique est de vérifier les compétences déjà détenues en référence aux attendus des compétences du PSE 2.
+
+Si le processus pédagogique peut faire appel à des outils de formation ouverte accessible à distance, leur usage est limité aux séquences d'apports de connaissance. La mise en œuvre de ces dispositions particulières peut aller jusqu'à l'individualisation de la formation. Néanmoins, elle doit s'appuyer sur la rédaction d'un référentiel interne de formation distinct, propre au processus pédagogique mis en place.
+
+Quel que soit le processus pédagogique mis en œuvre, les modalités de certification restent identiques aux dispositions de l'annexe 3 du présent arrêté.
+
+Les associations agréées à la formation aux premiers secours désirant mettre en œuvre ces dispositions doivent déposer auprès du ministre chargé de la sécurité civile, deux mois avant le début de la formation, une annexe à leur référentiel interne de formation et de certification précisant les modalités de mise en œuvre.
