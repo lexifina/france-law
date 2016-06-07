@@ -1,0 +1,9 @@
+# Réponse à la question n° 62186
+
+- Question : [62186](62186.md) — Question n° 62186 — prise en charge; jeunes
+
+## Réponse
+
+*JO du 2016-06-07*
+
+Le plan maladies neuro-dégénératives (PMND) 2014-2019, lancé en novembre 2014 par le Gouvernement, comprend plusieurs mesures permettant de favoriser une meilleure qualité de vie pour les malades touchés par la maladie de Parkinson. Les problématiques de santé et d'autonomie des malades jeunes sont prises en compte. Ainsi les questions de maintien dans l'emploi, d'accès à l'assurance, d'amélioration de l'accès aux droits dès lors que la maladie se traduit par un handicap, sont traitées dans le cadre de la mise en œuvre de plusieurs mesures regroupées notamment au sein de l'enjeu no 8 du PMND "Atténuer les conséquences économique de la maladie et aider au maintien d'un parcours professionnels pour les malades jeunes". Par ailleurs, plusieurs mesures (particulièrement la mesure 33) prévoient l'identification par les agences régionales de santé compétentes d'établissements et services "ressources"sur leurs territoires. Il s'agit de repérer les structures dont l'organisation, la formation des professionnels sont particulièrement adaptées à l'accompagnement des personnes touchées par la maladie de Parkinson et dont la prise en charge peut nécessiter une forte mobilisation en kinésithérapie ou une organisation"à la carte" de la prise de médicaments. Pour les personnes âgées accompagnées en maison de retraite médicalisée (EHPAD), la prise en charge financière de médicaments et dispositifs médicaux coûteux ne sera pas imputée sur l'enveloppe "soins" de l'établissement, par dérogation, afin de favoriser l'accès aux soins et à l'accompagnement. Enfin, les ARS sont actuellement mobilisées sur la réalisation d'état des lieux et plan d'actions régionaux déclinant le PMND en région et plusieurs comités de suivi sont d'ores et déjà programmés pour les mois de juin et octobre 2016 prochain.
