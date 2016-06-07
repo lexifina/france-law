@@ -1,0 +1,9 @@
+# Réponse à la question n° 62098
+
+- Question : [62098](62098.md) — Question n° 62098 — loi ALUR; conséquences
+
+## Réponse
+
+*JO du 2016-06-07*
+
+L'article 78 du décret no 72-678 du 20 juillet 1972, fixant les conditions d'application de la loi no 70-9 du 2 janvier 1970, réglementant les conditions d'exercice des activités relatives à certaines opérations portant sur les immeubles et le fonds de commerce, autorise, passé un délai de trois mois, la résiliation unilatérale des mandats de vente assortis d'une clause d'exclusivité, par lettre recommandée avec demande d'avis de réception, adressée quinze jours à l'avance. Ces dispositions, antérieures à l'adoption de la loi no 2014-366 du 24 mars 2014, pour l'accès au logement et un urbanisme rénové, s'appliquent notamment aux mandats portant sur la vente de fonds de commerce. La faculté de résiliation unilatérale des mandats d'exclusivité vise à maintenir un équilibre entre le mandant, d'une part, qui accepte une limitation importante, donc nécessairement temporaire, de son droit de disposer du bien, et l'agent immobilier, d'autre part, qui bénéficie d'un monopole, puisqu'il est seul autorisé à poursuivre la vente. Si aucun acheteur n'a été trouvé au bout de trois mois, le vendeur recouvre sa liberté de proposer le bien à la vente selon des modalités différentes. Aucune disposition ne lui fait toutefois obligation de résilier le mandat. Il n'est pas actuellement envisagé de limiter le droit de résiliation unilatérale des parties à un mandat de vente exclusif d'un fonds de commerce. Dans une optique de protection du vendeur et de mise en concurrence des agents immobiliers, l'article 24 de la loi du 24 mars 2014, précitée, a récemment accru le formalisme applicable aux mandats conclus à compter du 1er juillet 2014. Les mandats exclusifs devront désormais préciser les actions que l'agent immobilier s'engage à réaliser ainsi que les modalités de reddition de compte.
