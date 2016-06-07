@@ -1,0 +1,9 @@
+# Réponse à la question n° 59250
+
+- Question : [59250](59250.md) — Question n° 59250 — procréation avec donneur; réglementation
+
+## Réponse
+
+*JO du 2016-06-07*
+
+La question des adoptions sollicitées par la conjointe d'une femme ayant accouché d'un enfant issu d'une assistance médicale à la procréation réalisée à l'étranger a fait l'objet d'une attention particulière de la Chancellerie depuis l'entrée en vigueur de la loi du 17 mai 2013. Sensible au besoin de sécurité juridique manifesté par les familles concernées, la Chancellerie a fait procéder dès le printemps 2014 à une évaluation statistique auprès des juridictions afin de recenser l'ensemble des décisions rendues depuis l'entrée en vigueur de la loi du 17 mai 2013. Le bilan de cette étude a permis de mettre en évidence que la très grande majorité des demandes a été satisfaite par les juridictions. Ainsi, au 1er juillet 2014, seules neuf décisions de rejet avaient été prononcées, pour 295 décisions ayant répondu favorablement aux demandes d'adoption par la conjointe de l'enfant de son épouse. Les divergences jurisprudentielles observées devraient s'estomper dès lors que la Cour de cassation a rendu deux avis favorables à de telles adoptions le 22 septembre 2014. La Cour de cassation a ainsi exclu que le fait de recourir à une assistance médicale à la procréation à l'étranger puisse constituer une fraude à la loi française relative à la procréation médicalement assistée ou à l'adoption, et ainsi puisse conduire à s'opposer, pour ce seul motif, à l'adoption de l'enfant au bénéfice de la conjointe de la femme ayant accouché.La Cour de cassation tire ainsi les conséquences de la loi du 17 mai 2013, qui a eu pour effet de permettre, par l'adoption, l'établissement d'un lien de filiation entre un enfant et deux personnes de même sexe.
