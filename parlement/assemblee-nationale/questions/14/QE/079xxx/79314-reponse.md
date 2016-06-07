@@ -1,0 +1,9 @@
+# Réponse à la question n° 79314
+
+- Question : [79314](79314.md) — Question n° 79314 — réglementation
+
+## Réponse
+
+*JO du 2016-06-07*
+
+Le cumul emploi retraite permet, à près de 500 000 retraités, de cumuler, tous régimes confondus, une pension de retraite avec des revenus d'activité professionnelle, partiellement ou totalement, sous certaines conditions. Ainsi, le cumul total est ouvert aux assurés ayant atteint l'âge légal de départ à la retraite, justifiant d'une retraite à taux plein en raison de la durée d'assurance (entre 160 et 172 trimestres selon l'année de naissance) ou par l'âge (65 à 67 ans) et qui ont liquidé l'ensemble de leurs pensions de retraite de base et complémentaires ainsi que les pensions étrangères auxquelles ils peuvent prétendre. A défaut, les assurés peuvent reprendre une activité dans le cadre du cumul plafonné : les nouveaux revenus ne doivent alors pas dépasser un plafond. Ce plafond est différent selon les régimes, par exemple : pour le régime général, la mutualité sociale agricole et les régimes spéciaux hors la fonction publique, la somme des pensions de base et complémentaires avec les revenus d'activité ne doit pas dépasser mensuellement 2 332 €, ce qui correspond à 1,6 SMIC (soit 27 984 € annuellement) ou le montant du dernier salaire (le plus favorable des deux étant retenu) ; - pour le régime des fonctions publiques, le revenu brut de l'activité ne doit pas dépasser annuellement le tiers du montant annuel brut de la pension, majoré de 6 941 € (valeur 2014 du minimum garanti fonction publique). Les salariés (à l'exception de ceux de la fonction publique) doivent respecter un délai de 6 mois en cas de reprise d'activité chez le dernier employeur. La législation actuelle permet donc aux retraités de reprendre librement une activité professionnelle tout en veillant à ne pas inciter les assurés à liquider leur pension prématurément.
