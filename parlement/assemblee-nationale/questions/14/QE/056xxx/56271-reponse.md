@@ -1,0 +1,9 @@
+# Réponse à la question n° 56271
+
+- Question : [56271](56271.md) — Question n° 56271 — OGM; destructions; sanctions
+
+## Réponse
+
+*JO du 2016-06-07*
+
+Les disposition législatives en vigueur permettent de réprimer les dégradations de parcelles cultivées, y compris d'organismes génétiquement modifiés : ainsi la loi no 2008-595 du 25 juin 2008 relative aux organismes génétiquement modifiés a créé un délit codifié à l'article L.671-15 du code rural et de la pêche maritime sanctionnant le fait de détruire ou de dégrader une parcelle de culture autorisée par application des articles L.533-5 et L 533-6 du code de l'environnement. Ce délit est puni de deux ans d'emprisonnement et 75000 euros d'amende. Si la destruction ou la dégradation porte sur une parcelle cultivée à toute autre fin que la mise sur le marché (autorisation en application de l'article L 533-3 du code de l'environnement), la peine est portée à trois ans d'emprisonnement et 150 000 euros d'amende. Les personnes morales encourent une peine d'amende portée au quintuple en application de l'article 131-18 du code pénal. En outre, les personnes physiques et morales encourent les peines d'affichage ou de diffusion de la décision prononcée soit par la presse écrite, soit par tout moyen de communication au public par voie électronique. Malgré les difficultés d'identification soulignées, des enquêtes aboutissent et des condamnations sont prononcées. L'infraction de destruction de parcelle de culture d'organismes génétiquement modifiés autorisée aux fins de mise sur le marché a donné lieu à 84 condamnations en 2010. Aucune condamnation n'a été prononcée de ce chef depuis. L'infraction de destruction de parcelle de culture d'organismes génétiquement modifiés autorisée à la dissémination à toutes autres fins que la mise sur le marché a donné lieu à 1 condamnation en 2011 et 8 en 2012.
