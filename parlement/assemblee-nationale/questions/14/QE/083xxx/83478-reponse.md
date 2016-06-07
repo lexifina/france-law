@@ -1,0 +1,9 @@
+# Réponse à la question n° 83478
+
+- Question : [83478](83478.md) — Question n° 83478 — instances consultatives; coût de fonctionnement
+
+## Réponse
+
+*JO du 2016-06-07*
+
+Le comité des usagers du réseau routier national a été institué par le décret no 2009-1102 du 8 septembre 2009 relatif à la création du comité des usagers du réseau routier national. Conformément à ses attributions, le comité recueille les attentes des usagers de ce réseau, formule des propositions ainsi que des pistes d'améliorations du service qui leur est rendu et émet des recommandations sur les tarifs appliqués sur le réseau autoroutier concédé. Il peut également formuler des avis sur tous les sujets ayant trait au service aux usagers et aux relations entre les gestionnaires du réseau routier national et ses usagers. En 2014, le comité des usagers du réseau routier national s'est réuni à cinq reprises. Le comité a notamment pu examiner les hausses de tarif de péage pour l'année 2014, les principaux aménagements sur le réseau routier national sur la période 2014-2015, ainsi que l'avis de l'Autorité de la concurrence de septembre 2014 sur l'économie des concessions. En 2015, le comité des usagers du réseau routier national s'est également réuni à cinq reprises. Le comité a notamment pu examiner les hausses de tarif de péage pour l'année 2015, le contenu du plan de relance autoroutier, ainsi que les mesures des plans de protection de l'atmosphère dans le domaine routier. Les membres du comité des usagers du réseau routier national exercent leurs fonctions à titre gratuit. Ils bénéficient du remboursement des frais de déplacement et de séjour supportés par eux, dans les conditions prévues par la réglementation applicable aux fonctionnaires civils de l'État. Le coût annuel de fonctionnement pour l'État de ce comité est ainsi inférieur à 1 000 euros.
