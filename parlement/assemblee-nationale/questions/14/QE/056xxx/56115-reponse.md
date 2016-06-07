@@ -1,0 +1,9 @@
+# Réponse à la question n° 56115
+
+- Question : [56115](56115.md) — Question n° 56115 — pension alimentaire; réglementation
+
+## Réponse
+
+*JO du 2016-06-07*
+
+En application de l'article 371-2 du code civil, chacun des parents contribue à l'entretien et à l'éducation des enfants à proportion de ses ressources, de celles de l'autre parent, ainsi que des besoins de l'enfant. Pour calculer le montant de cette contribution, il est tenu compte, outre des ressources mensuelles du débiteur et du nombre d'enfants à la charge de celui-ci, de l'amplitude du droit de visite et d'hébergement exercé. Ce faisant, le temps passé par le parent débiteur de la contribution avec l'enfant est bien pris en compte. Ces données sont d'ailleurs explicitement retenues par la table de référence indicative diffusée par une circulaire de 2010 du ministère de la justice pour la fixation du montant de la contribution à l'entretien et à l'éducation de l'enfant de parents séparés. Il en résulte que le temps de résidence de l'enfant au domicile de chacun de ses parents, notamment pendant les congés d'été est directement pris en compte pour la détermination du montant de la contribution aux frais d'éducation et d'entretien des enfants. Si les modalités de versement de la pension alimentaire, telles que fixées par la convention homologuée visée à l'article 373-2-7 du code civil, ou, à défaut, par le juge, prévoient un versement périodique, mensuel, ceci est sans préjudice de la prise en considération au moment de la fixation de la contribution de l'existence d'un droit de visite et d'hébergement pouvant porter sur une période d'un mois de présence de l'enfant auprès du parent débiteur pendant les congés d'été. Le versement mensuel a seulement vocation à permettre de lisser dans le temps l'équivalent annuel du montant de la contribution.
