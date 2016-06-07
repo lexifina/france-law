@@ -1,0 +1,9 @@
+# Réponse à la question n° 86524
+
+- Question : [86524](86524.md) — Question n° 86524 — établissement public; Universcience; présidence; coût
+
+## Réponse
+
+*JO du 2016-06-07*
+
+Les rémunérations des dirigeants d'établissement public sont déterminées par le ministre chargé du budget, conformément à la réglementation en vigueur. Madame Claudie Haigneré a été nommée présidente de la cité des sciences et de l'industrie (CSI) par décret du 16 avril 2009. La qualité de fonctionnaire internationale sous contrat au sein de l'agence spatiale européenne (ESA) de Madame Haigneré a nécessité la mise en œuvre d'une procédure spécifique concernant ses modalités d'emploi et de rémunération. C'est ainsi que la lettre en date du 24 novembre 2010 du ministre chargé du budget a autorisé la mise à disposition de Madame Haigneré à la CSI par l'ESA, contre remboursement à celle-ci. Par ailleurs, l'octroi d'une part variable à Madame Haigneré a été décidée par ce même courrier. Il a été mis fin à ses fonctions début 2015. Le ministère de la culture et de la communication est particulièrement attentif au respect de ces procédures et plus largement au suivi de l'utilisation des moyens mis à la disposition des dirigeants des établissements publics sous sa tutelle. C'est dans cette optique qu'il a diffusé, le 23 juin 2015, une instruction pour la maîtrise et la transparence des dépenses des dirigeants, qui couvre tous les opérateurs sous tutelle du ministère. Ce document répond à deux objectifs principaux : rappeler les règles de bonne administration concernant les dépenses regardant directement l'activité des dirigeants, et prévoir des modalités de suivi pour assurer une meilleure transparence de ces dépenses. En application de cette instruction, les conseils d'administration des opérateurs ont été saisis de ce sujet et ont adopté des délibérations de suivi et de contrôle au dernier trimestre 2015.
