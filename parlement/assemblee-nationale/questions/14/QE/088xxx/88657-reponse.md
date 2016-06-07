@@ -1,0 +1,9 @@
+# Réponse à la question n° 88657
+
+- Question : [88657](88657.md) — Question n° 88657 — établissements privés; contrôle
+
+## Réponse
+
+*JO du 2016-06-07*
+
+Le rapport de 2012 du médiateur de l'éducation nationale et de l'enseignement supérieur consacré à l'enseignement supérieur privé a proposé de clarifier les liens entre l'État et les établissements privés d'enseignement supérieur. Dans ce cadre, une réflexion a été conduite par le ministère chargé de l'enseignement supérieur dans le cadre de l'élaboration de la stratégie nationale de l'enseignement supérieur (StraNES) prévue par la loi du 22 juillet 2013 relative à l'enseignement supérieur et à la recherche. Ce document stratégique, publié le 10 septembre 2015, propose que l'État assure davantage son rôle de régulation et garantisse la qualité des diplômes qu'il reconnaît. Au vu de ces propositions, et en liaison avec le HCERES, une procédure d'évaluation des diplômes reconnus par l'État devrait être mise en place, tandis que la coordination interministérielle sera renforcée en vue d'une meilleure connaissance et d'une régulation accrue du secteur de l'enseignement supérieur privé. Les dispositions relatives à la reconnaissance des établissements et à la dénomination des diplômes seront aussi clarifiées. Cette réforme conduira à renforcer les contrôles sur ces établissements. À noter que seuls trois établissements d'enseignement supérieur privés bénéficient aujourd'hui d'un agrément du ministère de la culture et de la communication (l'Institut supérieur des carrières artistiques (ICART), l'Institut supérieur des arts appliqués (LISAA), et l'École supérieure des arts et techniques de la mode (ESMOD) ). Ces travaux s'inscriront dans le cadre d'une réforme de la procédure de reconnaissance des formations dispensées dans les établissements d'enseignement artistique, prévue à l'article L. 361-2 du code de l'éducation.
