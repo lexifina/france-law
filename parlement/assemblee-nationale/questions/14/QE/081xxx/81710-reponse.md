@@ -1,0 +1,9 @@
+# Réponse à la question n° 81710
+
+- Question : [81710](81710.md) — Question n° 81710 — irrigation collective; financement
+
+## Réponse
+
+*JO du 2016-06-07*
+
+La loi no 2015-991 du 7 août 2015 portant nouvelle organisation territoriale de la République (NOTRe) contribue à rationaliser la répartition des compétences entre les collectivités territoriales en supprimant la clause de compétence générale des régions et des départements. Le bloc communal conserve quant à lui la clause de compétence générale et garde la possibilité d'intervenir sur tous les sujets d'intérêt local lorsque la compétence en question n'a pas été attribuée à une collectivité relevant d'une autre catégorie à titre exclusif (art. L. 2121-29 du code général des collectivités territoriales). Toutefois, certaines compétences, par nature transversales, demeurent partagées entre les différents échelons de collectivités territoriales. Ainsi, dans le domaine de l'eau et des milieux aquatiques et marins, l'article L. 211-7 du code de l'environnement, permet de maintenir une intervention partagée des collectivités territoriales, à l'exception des opérations se rattachant à la compétence « gestion des milieux aquatiques et prévention des inondations » (aménagement d'un bassin ou d'une fraction de bassin hydrographique ; entretien et aménagement d'un cours d'eau, canal, lac ou plan d'eau ; défense contre les inondations et contre la mer ; protection et restauration des sites, des écosystèmes aquatiques et des zones humides ainsi que des formations boisées riveraines) qui seront exclusivement mises en œuvre par le bloc communal, à compter du 1er janvier 2018. Par conséquent, les partenariats de financement entre collectivités territoriales et associations syndicales de propriétaires en charge de la gestion des réseaux collectifs d'irrigation ne sont pas remis en cause par les dispositions de la loi NOTRe.
