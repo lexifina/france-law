@@ -1,0 +1,9 @@
+# Réponse à la question n° 82944
+
+- Question : [82944](82944.md) — Question n° 82944 — rapport; Cour des comptes; recommandations
+
+## Réponse
+
+*JO du 2016-06-07*
+
+Dans le cadre de la redéfinition du référentiel d'activités pour 2015, la direction de la protection judiciaire de la jeunesse (DPJJ) a entrepris pour le secteur public une refonte importante des modalités de programmation et de suivi de la dépense. Ainsi, ce nouveau référentiel met en concordance les nouvelles briques de budgétisation demandées par la direction du budget avec les activités, et donc les opérations budgétaires (OB), les opérations programmées (OP) et les opérations stratégiques (OS) qui en découlent. Si la solution proposée à partir de 2015 conduit à générer un nombre important d'activités, elle présente l'avantage de croiser la destination de la dépense (les missions de la DPJJ) avec la nature de ladite dépense, permettant ainsi d'obtenir pour chaque mode de prise en charge et type de dépenses des données précises sur l'exécution budgétaire et d'assoir ainsi la programmation pour les exercices suivants. Ce référentiel, qui s'applique aux dépenses hors titre 2, ouvre donc la possibilité d'établir une réelle analyse des activités dans le cadre de comptabilité budgétaire. L'analyse des dépenses de personnel (titre 2) fait l'objet d'un retraitement parallèle. L'établissement de coûts, objet de la comptabilité analytique, suppose de recourir aux données de la comptabilité générale. La DPJJ a ouvert une réflexion afin de prendre en compte les éléments de cette comptabilité. Elle a par ailleurs engagé une réflexion sur la manière dont elle pourrait effectuer des comparaisons de coûts par types de prestations offertes en premier lieu pour les services du secteur public, puis pour les services du secteur associatif habilité.
