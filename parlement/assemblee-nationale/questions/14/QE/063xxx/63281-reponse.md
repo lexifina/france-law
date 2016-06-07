@@ -1,0 +1,9 @@
+# Réponse à la question n° 63281
+
+- Question : [63281](63281.md) — Question n° 63281 — certificats d'hérédité; délivrance
+
+## Réponse
+
+*JO du 2016-06-07*
+
+L'article 730 du code civil prévoit que la preuve de la qualité d'héritier peut être établie par tous moyens. Usuellement la preuve de cette qualité se faisait par la production, soit d'un certificat d'hérédité, délivré à titre gracieux par les maires, soit d'un acte de notoriété dressé par notaire. La délivrance des certificats d'hérédité n'a toutefois jamais été une obligation pour les maires, certaines mairies refusant d'y procéder. Il en résulte que 60 % des personnes concernées étaient confrontées à un refus de délivrance du certificat d'hérédité, celles-ci n'ayant d'autre choix que de solliciter, à leur frais, l'établissement d'un acte notarié. Pour remédier à cette difficulté, l'article 4 de la loi no 2015-177 du 16 février 2015, relative à la modernisation et à la simplification du droit et des procédures dans les domaines de la justice et des affaires intérieures, a mis en place un mécanisme permettant de justifier plus facilement de sa qualité d'héritier, sans avoir besoin de recourir à un notaire ou à une mairie, s'agissant des successions les plus modestes. Ainsi, l'article L. 312-1-4 du code monétaire et financier prévoit désormais qu'un héritier peut obtenir la clôture des comptes du défunt et le versement des sommes y figurant lorsque celui-ci justifie de sa qualité d'héritier auprès de l'établissement de crédit teneur de ces comptes par la production de pièces d'état civil et d'une attestation signée de l'ensemble des héritiers qui, à titre principal, l'autorise à percevoir pour leur compte les sommes figurant sur les comptes du défunt. Ce nouveau dispositif est réservé aux successions mobilières portant sur un montant devant être limité à 5 000 euros.
