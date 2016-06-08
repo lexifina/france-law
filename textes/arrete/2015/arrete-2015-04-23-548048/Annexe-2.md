@@ -48,14 +48,6 @@ P. 144, P. 146, P. 178, P. 212
 
 |
 
-Direction centrale de la structure intégrée du maintien en condition opérationnelle des matériels aéronautiques
-
-|
-
-P.146, P.178, P.212,
-
-|
-
 Direction centrale du service industriel de l'aéronautique
 
 |
