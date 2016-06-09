@@ -32,7 +32,7 @@ La société a pour objet :
 
 10° De gérer les immeubles à usage principal d'habitation appartenant à d'autres organismes d'habitations à loyer modéré ;
 
-11° De gérer les immeubles à usage principal d'habitation appartenant à l'Etat, à une collectivité territoriale ou à un groupement de collectivités territoriales, à une société d'économie mixte de construction et de gestion de logements sociaux, à des organismes à but non lucratif, à l'association agréée mentionnée à l'article L. 313-34 du code de la construction et de l'habitation ou aux sociétés civiles immobilières dont les parts sont détenues à 99 % au moins par cette association ;
+11° De gérer les immeubles à usage principal d'habitation appartenant à l'Etat, à une collectivité territoriale ou à un groupement de collectivités territoriales, à une société d'économie mixte agréées en application de l'article L. 481-1, à des organismes à but non lucratif, à l'association agréée mentionnée à l'article L. 313-34 du code de la construction et de l'habitation ou aux sociétés civiles immobilières dont les parts sont détenues à 99 % au moins par cette association ;
 
 12° D'être syndic de copropriété et administrateur de biens d'immeubles bâtis, construits ou acquis soit par elle, soit par un autre organisme d'habitations à loyer modéré, une collectivité territoriale, une société d'économie mixte ou un organisme sans but lucratif, l'association mentionnée à l'article L. 313-34 du code de la construction et de l'habitation précitée ou une des sociétés civiles immobilières dont les parts sont détenues à au moins 99 % par cette association ;
 
