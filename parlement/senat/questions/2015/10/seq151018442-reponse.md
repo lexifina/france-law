@@ -1,0 +1,9 @@
+# Réponse à la question SEQ151018442
+
+- Question : [SEQ151018442](seq151018442.md) — Définition de la clause de repos dans le cadre de la loi portant nouvelle organisation territoriale de la République
+
+## Réponse
+
+*Aménagement du territoire, ruralité et collectivités territoriales, JO du 2016-06-09, page 2541*
+
+Le 1°d du III de l'article L. 5210-1-1 du code général des collectivités territoriales dans sa version issue de l'article 33 de la loi n° 2015-991 du 7 août 2015 portant nouvelle organisation territoriale de la République (NOTRe) prévoit la possibilité d'une adaptation du seuil minimal de population de 15 000 habitants pour les établissements publics de coopération intercommunale (EPCI) à fiscalité propre et pour les projets d'EPCI à fiscalité propre incluant la totalité d'une intercommunalité à fiscalité propre de plus de 12 000 habitants issue d'une fusion intervenue entre le 1er janvier 2012 et la date de publication de la loi du 7 août 2015. Comme les autres adaptations du seuil minimal de population prévues à l'article L. 5210-1-1 de la loi NOTRe, elle constitue une faculté du représentant de l'État, et non un droit automatique pour les EPCI à fiscalité propre concernés. Le représentant de l'État dispose ainsi de la possibilité de ne pas appliquer cette adaptation lorsqu'il estime que des éléments objectifs plaident pour l'inclusion de cet établissement dans un ensemble de coopération plus vaste. La commission départementale de coopération intercommunale (CDCI) peut, pour sa part, amender la proposition du représentant de l'État si cet amendement est conforme à la loi. Par ailleurs, la loi indique clairement que la clause de repos ne s'applique qu'aux EPCI à fiscalité propre issus d'une fusion intervenue entre le 1er janvier 2012 et le 7 août 2015. Seules les opérations impliquant l'intégration dans un même ensemble d'au moins deux EPCI à fiscalité propre dans leur totalité constituent des fusions.
