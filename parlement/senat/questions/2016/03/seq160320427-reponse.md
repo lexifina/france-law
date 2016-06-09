@@ -1,0 +1,9 @@
+# Réponse à la question SEQ160320427
+
+- Question : [SEQ160320427](seq160320427.md) — Complémentaire santé obligatoire pour les saisonniers
+
+## Réponse
+
+*Affaires sociales et santé, JO du 2016-06-09, page 2514*
+
+Depuis le 1er janvier 2016, en application de la loi de sécurisation de l'emploi, les employeurs ont l'obligation de proposer à leurs salariés un dispositif de participation à la protection complémentaire de tous leurs salariés. Le fait que l'accord de branche prévoie une clause d'ancienneté ne dispense donc pas les employeurs de cette obligation à l'égard des salariés en contrat à durée déterminée de moins de trois mois. Le versement santé constitue une modalité alternative, pour les employeurs, de satisfaire à leur obligation de proposer une participation à la protection complémentaire pour leurs salariés. Ce versement santé peut intervenir dans trois cas de figure : à l'initiative des partenaires sociaux, par décision unilatérale de l'entreprise ou à l'initiative du salarié qui a demandé à être dispensé de la couverture collective. En effet, au titre du III de l'article L. 911-7-1 du code de la sécurité sociale, un accord de branche peut prévoir que la couverture santé des salariés, dont la durée de contrat de travail est inférieure ou égale à 3 mois ou dont la durée effective de travail prévue par le contrat de travail est inférieure à 15 heures par semaine, est assurée par le versement santé. En l'absence d'accord de branche ou si celui-ci le prévoit, un accord d'entreprise peut également prévoir cette couverture. En outre, l'employeur peut par décision unilatérale prévoir cette même couverture lorsque ces salariés ne sont pas déjà couverts à titre collectif obligatoire. Ce dispositif, dont le montant est proportionnel à la durée rémunérée et à la cotisation santé due pour un salarié couvert par la couverture complémentaire de l'entreprise, est simple d'utilisation et peut être versée en même temps que le salaire.
