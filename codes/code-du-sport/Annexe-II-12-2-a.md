@@ -38,9 +38,9 @@ Fait à, le
 
 Documents à joindre à la déclaration
 
-1. Photographie d'identité.
+1. Une photographie d'identité conforme aux spécifications de la norme ISO/IEC 19794-5:2005.
 
-2. Copie d'une pièce d'identité.
+2. Une copie d'une pièce d'identité en cours de validité.
 
 3. Certificat médical de non-contre-indication à la pratique et à l'encadrement des activités physiques ou sportives datant de moins d'un an, traduit, le cas échéant, en français par un traducteur ou un organisme assermentés.
 
@@ -50,13 +50,13 @@ Documents à joindre à la déclaration
 
 6. Dans le cas où le titre de formation a été acquis dans un Etat tiers, copies des pièces attestant que ce titre a été admis en équivalence dans un Etat membre de la Communauté européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen qui réglemente l'activité.
 
-7.L'un des trois documents suivants justifiant d'une connaissance suffisante de la langue française (2) :
+7. L'un des trois documents suivants justifiant d'une connaissance suffisante de la langue française (2) :
 
-- copie d'une attestation de qualification délivrée à l'issue d'une formation assurée en français ;
+-copie d'une attestation de qualification délivrée à l'issue d'une formation assurée en français ;
 
-- copie d'une attestation de niveau en français délivrée par une institution spécialisée ;
+-copie d'une attestation de niveau en français délivrée par une institution spécialisée ;
 
-- copie d'un document attestant d'une expérience professionnelle acquise en France.
+-copie d'un document attestant d'une expérience professionnelle acquise en France.
 
 Dans le cas où le déclarant n'est pas en mesure de produire l'un de ces trois documents, un entretien permet de vérifier sa connaissance de la langue française.
 

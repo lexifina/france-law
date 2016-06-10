@@ -3300,7 +3300,7 @@ Diplôme de masseur-kinésithérapeute.
 
 |
 
-Encadrement de la pratique de la gymnastique hygiénique d'entretien ou préventive dans les établissements d'activités physiques et sportives déclarés.
+Encadrement de la pratique de la gymnastique hygiénique d'entretien ou préventive dans les établissements d'activités physiques et sportives.
 
 |
 
