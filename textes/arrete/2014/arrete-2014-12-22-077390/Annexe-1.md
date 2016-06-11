@@ -32,6 +32,8 @@ Secteur agriculture
 
 - Système de variation électronique de vitesse sur un moteur asynchrone / Fiche d’opération n° AGRI-UT-102
 
+Conformément à l'article 2 de l'arrêté du 2 juin 2016 (NOR : DEVR1611811A), la fiche d’opération n° AGRI-UT-102 figurant en annexe 1 du présent arrêté remplace la fiche d’opération standardisée portant la même référence figurant à l’annexe 1 de l’arrêté du 22 décembre 2014 susvisé.
+
 - Système de régulation sur un groupe de production de froid permettant d'avoir une basse pression flottante / Fiche d'opération n° AGRI-UT-103
 
 - Pré-refroidisseur de lait / Fiche d'opération n° AGRI-TH-103
@@ -40,9 +42,13 @@ Secteur agriculture
 
 - Contrôle et préconisations de réglage du moteur d'un tracteur / Fiche d'opération n° AGRI-SE-101
 
-Conformément à l'article 4 de l'arrêté du 8 février 2016 modifiant l'arrêté du 22 décembre 2014 définissant les opérations standardisées d'économies d'énergie (NOR : DEVR1603528A), l’annexe 2 de la fiche d’opération standardisée portant la référence AGRI-SE-101 figurant à l’annexe 1 de l’arrêté du 22 décembre 2014 définissant les opérations standardisées d’économies d’énergie est remplacée par la version figurant à l’annexe 4 du présent arrêté portant la même référence.
+Conformément à l'article 4 de l'arrêté du 8 février 2016 (NOR : DEVR1603528A), l’annexe 2 de la fiche d’opération standardisée portant la référence AGRI-SE-101 figurant à l’annexe 1 de l’arrêté du 22 décembre 2014 définissant les opérations standardisées d’économies d’énergie est remplacée par la version figurant à l’annexe 4 du présent arrêté portant la même référence.
 
 Liens
+
+Vous pouvez consulter les fiches dans le fac-similé du JO nº 0134 du 10/06/2016, texte nº 7
+
+https://www.legifrance.gouv.fr/download/pdf?id=J82GITl53mD3eTDbAnwWy2LCXpWGQoisGfxBVdPuq_E=
 
 Vous pouvez consulter les fiches dans le fac-similé du JO nº 0061 du 12/03/2016, texte nº 5
 
