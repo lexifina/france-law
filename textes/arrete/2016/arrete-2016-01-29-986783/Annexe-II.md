@@ -4,19 +4,11 @@
 
 |
 
-QUOTA EN OCÉAN ATLANTIQUE
-
-à l'est de la longitude 45° Ouest
+QUOTA EN OCÉAN ATLANTIQUE à l'Est de la longitude 45° ouest
 
 |
 
-QUOTA
-
-en mer
-
-Méditerranée
-
-|
+Quota en mer Méditerranée
 
 |
 
@@ -32,7 +24,7 @@ Pour la pêche à la palangre
 
 |
 
-Navires n'adhérant pas à une organisation de producteurs
+Navires non adhérant à une organisation de producteurs
 
 |
 
@@ -56,7 +48,7 @@ Navires adhérant à l'organisation de producteurs Les Pêcheurs d'Aquitaine
 
 |
 
-83
+82
 
 |
 
@@ -116,7 +108,7 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-14
+16
 
 |
 
@@ -136,7 +128,7 @@ Navires adhérant à l'organisation de producteurs Organisation de producteurs d
 
 |
 
-8
+4
 
 |
 
@@ -152,7 +144,7 @@ Navires adhérant à l'organisation de producteurs Organisation de producteurs d
 
 |
 
-Navires adhérant à l'organisation de producteurs Marins pêcheurs de Basse-Normandie (OPBN)
+Navires adhérant à l'Organisation de producteurs marins-pêcheurs de Basse-Normandie (OPBN)
 
 |
 
@@ -196,15 +188,15 @@ Navires adhérant à l'organisation de producteurs Les Pêcheurs de Bretagne
 
 |
 
-110
+113
 
 |
 
-7
+25
 
 |
 
-23
+1
 
 |
 
@@ -224,7 +216,7 @@ Navires adhérant à l'organisation de producteurs de Vendée
 
 |
 
-0
+4
 
 |
 
@@ -252,7 +244,7 @@ Navires adhérant à l'organisation de producteurs Coopérative maritime étaplo
 
 |
 
-TOTAL
+Total
 
 |
 
@@ -260,11 +252,11 @@ TOTAL
 
 |
 
-49
+67
 
 |
 
-25
+7
 
 |
 
