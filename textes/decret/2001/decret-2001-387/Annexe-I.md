@@ -1,4 +1,4 @@
-# Article Annexe
+# Article Annexe I
 
 (Art. 1er, premier alinéa, du décret n° 2001-387 du 3 mai 2001
 
@@ -77,7 +77,3 @@ Thermomètres utilisés par les agents de l'Etat pour le contrôle de la tempér
 Instruments de mesure de la distance entre véhicules ou ensembles de véhicules.
 
 Instruments de mesure multidimensionnelle.
-
-NOTA :
-
-Décret n° 2006-447 art. 23 : Sans préjudice des dispositions de l'article 22, les dispositions du présent décret recevront application à compter du 30 octobre 2006. Toutefois, les désignations et les notifications prévues à l'article 8 pourront être effectuées avant cette date.
