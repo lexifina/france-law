@@ -1,0 +1,9 @@
+# RG-CI : séance V22 . — relatif à la mise en place d'un observatoire.
+
+- Collectivité : RG-CI
+- SIREN : 217500016
+- Code INSEE : 75056
+- Date : 2016-06-13
+- Nature : V
+- Objet : relatif à la mise en place d'un observatoire.
+- Jeu de données : https://www.data.gouv.fr/datasets/59590ceca3a7291dd09c7fd2
