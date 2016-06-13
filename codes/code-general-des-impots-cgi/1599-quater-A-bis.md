@@ -6,9 +6,7 @@ II. - L'imposition forfaitaire est due chaque année par les personnes ou organi
 
 III. - Le montant de l'imposition forfaitaire est établi pour chaque matériel roulant en fonction de sa nature et de son utilisation selon le barème suivant :
 
-CATÉGORIE
-
-de materiels roulants
+CATÉGORIE DE MATÉRIELS ROULANTS
 
 |
 
@@ -28,7 +26,7 @@ Motrice et remorque
 
 |
 
-12 751
+12 879
 
 |
 
@@ -42,7 +40,7 @@ Automotrice et motrice
 
 |
 
-23 920
+24 159
 
 |
 
@@ -50,7 +48,9 @@ Remorque
 
 |
 
-4 992 |
+5 042
+
+|
 
 Les catégories de matériels roulants sont précisées par arrêté conjoint des ministres chargés du transport et du budget en fonction de leur capacité de traction, de captation de l'électricité, d'accueil de voyageurs et de leur performance.
 

@@ -22,31 +22,31 @@ V. - 1. - Un tarif au mètre carré est appliqué par circonscription, définie 
 
 3° Troisième circonscription : les autres communes de la région d'Ile-de-France.
 
-2. - Les tarifs au mètre carré sont fixés, pour l'année 2015, en application du tableau ci-dessous :
+2. - Les tarifs au mètre carré sont fixés, pour l'année 2016, en application du tableau ci-dessous :
 
 (En euros)
 
-1re circonscription
+1re CIRCONSCRIPTION
 
 |
 
-2e circonscription
+2e CIRCONSCRIPTION
 
 |
 
-3e circonscription
+3e CIRCONSCRIPTION
 
 |
 
-4,22
+4,18 €
 
 |
 
-2,42
+2,40 €
 
 |
 
-1,22
+1,21 €
 
 |
 
@@ -62,4 +62,4 @@ Le privilège prévu au 1° du 2 de l'article 1920 peut être exercé pour le re
 
 NOTA :
 
-Aux termes du I et du A du III de l'article 77 de la loi n° 2014-1654 du 29 décembre 2014, ces dispositions s'appliquent à compter des impositions dues au titre de l'année 2015. Pour les impositions dues au titre de 2015 et par dérogation au VII de l'article 1599 quater C du code général des impôts, la déclaration, accompagnée du paiement de la taxe, est déposée avant le 1er septembre 2015.
+Modification effectuée en conséquence de l'article 77-I, II et III A de la loi n° 2014-1654 du 29 décembre 2014.

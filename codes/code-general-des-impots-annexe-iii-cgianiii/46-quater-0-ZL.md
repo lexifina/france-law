@@ -42,8 +42,12 @@ c) Le montant du déficit qui ne peut plus être imputé du fait de la sortie du
 
 8. Un document indiquant les sociétés du groupe relevant des dispositions des articles 44 octies, 44 octies A, 44 duodecies et 44 terdecies du code général des impôts, comportant les éléments nécessaires au calcul de la fraction du bénéfice et de la plus-value nette à long terme d'ensemble exonérés en application du III de l'article 44 octies, du III de l'article 44 octies A, du III de l'article 44 duodecies et du III de l'article 44 terdecies du code général des impôts.
 
-9. Un état faisant apparaître les intérêts mentionnés au quinzième alinéa de l'article 223 B du code général des impôts déductibles du résultat d'ensemble au titre de l'exercice et le suivi des intérêts mentionnés au dix-neuvième alinéa du même article.
+9. Un état faisant apparaître les intérêts mentionnés au quatorzième alinéa de l'article 223 B du code général des impôts déductibles du résultat d'ensemble au titre de l'exercice et le suivi des intérêts mentionnés au dix-huitième alinéa du même article.
 
-10. Un état des rectifications prévues aux deuxième, troisième, quatrième, septième et dix-huitième alinéas de l'article 223 B et à l'article 223 D du code général des impôts qui sont afférentes aux opérations réalisées entre des sociétés du groupe et des sociétés intermédiaires, des sociétés étrangères ou l'entité mère non résidente.
+10. Un état des rectifications prévues aux deuxième, troisième, sixième et dix-septième alinéas de l'article 223 B et à l'article 223 D du code général des impôts qui sont afférentes aux opérations réalisées entre des sociétés du groupe et des sociétés intermédiaires, des sociétés étrangères ou l'entité mère non résidente.
 
 Ces renseignements sont présentés sur des documents conformes aux modèles établis par l'administration.
+
+NOTA :
+
+Modifications effectuées en conséquence de l'article 40-I C 1° et II de la loi n° 2015-1786 du 29 décembre 2015.

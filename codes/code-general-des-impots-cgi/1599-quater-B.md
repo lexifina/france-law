@@ -18,23 +18,11 @@ NATURE DE L'ÉQUIPEMENT
 
 TARIF
 
-(en euros)
-
-2015
+(en euros) 2016
 
 |
 
-TARIF
-
-(en euros)
-
-2016
-
-|
-
-TARIF
-
-(en euros)
+TARIF (EN EUROS)
 
 à compter de 2017
 
@@ -44,17 +32,11 @@ Ligne en service d'un répartiteur principal
 
 |
 
-7,62
+10,13
 
 |
 
-10,12
-
-|
-
-12,65
-
-|
+12,65 |
 
 b) Pour les unités de raccordement d'abonnés et les cartes d'abonnés du réseau téléphonique commuté, le montant de l'imposition est établi en fonction de la nature de l'équipement selon le barème suivant :
 
@@ -62,19 +44,7 @@ NATURE DE L'ÉQUIPEMENT
 
 |
 
-TARIF
-
-(en euros)
-
-2015
-
-|
-
-TARIF
-
-(en euros)
-
-2016
+TARIF (EN EUROS) 2016
 
 |
 
@@ -82,11 +52,7 @@ Unité de raccordement d'abonnés
 
 |
 
-3 361
-
-|
-
-1 673
+1 675
 
 |
 
@@ -94,11 +60,7 @@ Carte d'abonné
 
 |
 
-36,66
-
-|
-
-18,25 |
+18,28 |
 
 IV. ― Le redevable de la taxe déclare, au plus tard le deuxième jour ouvré suivant le 1er mai de l'année d'imposition, par région, département et commune :
 

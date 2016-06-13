@@ -6,9 +6,7 @@ II. - L'imposition forfaitaire est due chaque année par l'entreprise de transpo
 
 III. - Le montant de l'imposition forfaitaire est établi pour chaque matériel roulant en fonction de sa nature et de son utilisation selon le barème suivant :
 
-CATÉGORIE
-
-de matériels roulants
+CATÉGORIE DE MATÉRIELS ROULANTS
 
 |
 
@@ -28,7 +26,7 @@ Automoteur
 
 |
 
-31 200
+31 512
 
 |
 
@@ -36,7 +34,7 @@ Locomotive Diesel
 
 |
 
-31 200
+31 512
 
 |
 
@@ -50,7 +48,7 @@ Automotrice
 
 |
 
-23 920
+24 159
 
 |
 
@@ -58,7 +56,7 @@ Locomotive électrique
 
 |
 
-20 801
+21 009
 
 |
 
@@ -66,7 +64,7 @@ Motrice de matériel à grande vitesse
 
 |
 
-36 401
+36 765
 
 |
 
@@ -74,7 +72,7 @@ Automotrice tram-train
 
 |
 
-11 960
+12 080
 
 |
 
@@ -88,7 +86,7 @@ Remorque pour le transport de passagers
 
 |
 
-4 992
+5 042
 
 |
 
@@ -96,7 +94,7 @@ Remorque pour le transport de passagers à grande vitesse
 
 |
 
-10 400
+10 504
 
 |
 
@@ -104,7 +102,7 @@ Remorque tram-train
 
 |
 
-2 496 |
+2 521 |
 
 Les catégories de matériels roulants sont précisées par arrêté conjoint des ministres chargés du transport et du budget en fonction de leur capacité de traction, de captation de l'électricité, d'accueil de voyageurs et de leur performance.
 

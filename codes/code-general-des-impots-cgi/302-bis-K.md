@@ -32,11 +32,11 @@ Pour l'application du a, un décret précise les aéroports faisant partie d'un 
 
 II. - 1. Le tarif de la taxe, perçue en fonction de la destination finale du passager est le suivant :
 
-4,40 € par passager embarqué à destination de la France, d'un autre Etat membre de la Communauté européenne, d'un autre Etat partie à l'accord sur l'Espace économique européen ou de la Confédération suisse ;
+4,44 € par passager embarqué à destination de la France, d'un autre Etat membre de la Communauté européenne, d'un autre Etat partie à l'accord sur l'Espace économique européen ou de la Confédération suisse ;
 
-7,92 € par passager embarqué vers d'autres destinations ;
+8 € par passager embarqué vers d'autres destinations ;
 
-Le tarif de la taxe est de 1,31 € par tonne de courrier ou de fret embarquée.
+Le tarif de la taxe est de 1,32 € par tonne de courrier ou de fret embarquée.
 
 A compter de l'année 2011, ces tarifs sont revalorisés chaque année dans une proportion égale au taux prévisionnel de croissance de l'indice des prix à la consommation hors tabac associé au projet de loi de finances de l'année.
 
@@ -115,3 +115,7 @@ Pour l'application du a, un décret précise les aéroports faisant partie d'un 
 3. La taxe de solidarité sur les billets d'avion est contrôlée dans les conditions prévues au IV et suivant les délais de prescription du droit de reprise prévus à l'article L. 176 du livre des procédures fiscales en matière de taxes sur le chiffre d'affaires.
 
 4. La taxe de solidarité sur les billets d'avion est recouvrée dans les conditions fixées au V. Elle est reversée mensuellement à l'Agence française de développement.
+
+NOTA :
+
+Modifications effectuées en conséquence de l'article 110 de la loi n° 2009-1673 du 30 décembre 2009

@@ -4,15 +4,15 @@ Pour l'application du l du 1° du I de l'article 31 du code général des impôt
 
 a. Les plafonds de loyer mensuel, charges non comprises, sont fixés aux quatre cinquièmes, arrondis au centime d'euro le plus proche, de ceux mentionnés au :
 
--a de l'article 2 terdecies B, pour les baux conclus en 2015, s'agissant de logements autres que ceux visés au b de ce même article ;
+-a de l'article 2 terdecies B, pour les baux conclus en 2016, s'agissant de logements autres que ceux visés au b de ce même article ;
 
--b de l'article 2 terdecies B, pour les baux conclus en 2015, s'agissant de logements visés au b de ce même article.
+-b de l'article 2 terdecies B, pour les baux conclus en 2016, s'agissant de logements visés au b de ce même article.
 
-Pour les baux conclus en 2015, les plafonds de loyer mensuel, charges non comprises, relatifs aux logements situés outre-mer qui ouvrent droit à la réduction d'impôt prévue à l'article 199 septvicies du code général des impôts sont égaux, par mètre carré de surface habitable, à 10,51 € dans les départements d'outre-mer, à Saint-Barthélemy et Saint-Martin et à 13,80 € en Polynésie française, en Nouvelle-Calédonie, à Saint-Pierre-et-Miquelon et dans les îles Wallis et Futuna. Ces plafonds sont relevés au 1er janvier de chaque année selon les modalités définies au 1 de l'article 46 AG duodecies.
+Pour les baux conclus en 2016, les plafonds de loyer mensuel, charges non comprises, relatifs aux logements situés outre-mer qui ouvrent droit à la réduction d'impôt prévue à l'article 199 septvicies du code général des impôts sont égaux, par mètre carré de surface habitable, à 10,55 € dans les départements d'outre-mer, à Saint-Barthélemy et Saint-Martin et à 13,85 € en Polynésie française, en Nouvelle-Calédonie, à Saint-Pierre-et-Miquelon et dans les îles Wallis et Futuna. Ces plafonds sont relevés au 1er janvier de chaque année selon les modalités définies au 1 de l'article 46 AG duodecies.
 
 b. Les ressources du locataire s'entendent du revenu fiscal de référence au sens du 1° du IV de l'article 1417 du code général des impôts, figurant sur l'avis d'impôt sur le revenu établi au titre de l'avant-dernière année précédant celle de la signature du contrat de location.
 
-Pour les baux conclus en 2015, les plafonds annuels de ressources sont les suivants :
+Pour les baux conclus en 2016, les plafonds annuels de ressources sont les suivants :
 
 (en euros)
 
@@ -52,19 +52,19 @@ Personne seule
 
 |
 
-46 807
+46 835
 
 |
 
-34 769
+34 790
 
 |
 
-31 871
+31 890
 
 |
 
-31 656
+31 675
 
 |
 
@@ -72,19 +72,19 @@ Couple
 
 |
 
-69 953
+69 995
 
 |
 
-51 057
+51 088
 
 |
 
-46 803
+46 831
 
 |
 
-42 547
+42 573
 
 |
 
@@ -92,19 +92,19 @@ Personne seule ou couple ayant une personne à charge
 
 |
 
-84 088
+84 138
 
 |
 
-61 122
+61 159
 
 |
 
-56 029
+56 063
 
 |
 
-50 935
+50 966
 
 |
 
@@ -112,19 +112,19 @@ Personne seule ou couple ayant deux personnes à charge
 
 |
 
-100 724
+100 784
 
 |
 
-73 972
+74 016
 
 |
 
-67 809
+67 850
 
 |
 
-61 644
+61 681
 
 |
 
@@ -132,63 +132,65 @@ Personne seule ou couple ayant trois personnes à charge
 
 |
 
-119 239
+119 311
 
 |
 
-86 820
+86 872
 
 |
 
-79 587
+79 635
 
 |
 
-72 349
+72 392
 
 |
 
-Personne seule ou couple ayant quatre personnes à charge
+Personne seule ou couple ayant quatre personnes à charge ...
 
 |
 
-134 174
+134 255
 
 |
 
-97 933
+97 992
 
 |
 
-89 774
+89 828
 
 |
 
-81 612
+81 661
 
 |
 
-Majoration par personne à charge supplémentaire à partir de la cinquième
+Majoration par personne à charge supplémentaire à partir de
+
+la cinquième
 
 |
 
-+ 14 956
++ 14 965
 
 |
 
-+ 11 124
++ 11 131
 
 |
 
-+ 10 198
++ 10 204
 
 |
 
-+ 9 270 |
++ 9 276 |
 
 Ces plafonds sont révisés chaque année, au 1er janvier, selon les mêmes modalités que les plafonds de ressources prévus à l'article 2 duodecies.
 
-Pour les baux conclus en 2015, les ressources des locataires de logements situés outre-mer qui ouvrent droit à la réduction d'impôt prévue à l'article 199 septvicies du code général des impôts sont les suivants :
+Pour les baux conclus en 2016, les ressources des locataires de logements situés outre-mer qui ouvrent droit à la réduction d'impôt prévue à l'article 199 septvicies du code général des impôts sont les suivants :
 
 (en euros)
 
@@ -198,7 +200,7 @@ COMPOSITION DU FOYER LOCATAIRE
 
 DÉPARTEMENTS D'OUTRE-MER,
 
-Saint-Martin, Saint-Barthélemy
+Saint-Martin, Saint-Barthélémy
 
 (en €)
 
@@ -206,7 +208,11 @@ Saint-Martin, Saint-Barthélemy
 
 POLYNÉSIE FRANÇAISE,
 
-Nouvelle-Calédonie, Saint-Pierre-et-Miquelon, Iles Wallis-et-Futuna
+Nouvelle-Calédonie,
+
+Saint-Pierre-et-Miquelon,
+
+îles Wallis Et Futuna
 
 (en €)
 
@@ -216,11 +222,11 @@ Personne seule
 
 |
 
-28 289
+28 399
 
 |
 
-24 712
+24 804
 
 |
 
@@ -228,11 +234,11 @@ Couple
 
 |
 
-37 779
+37 925
 
 |
 
-45 701
+45 871
 
 |
 
@@ -240,11 +246,11 @@ Personne seule ou couple ayant une personne à charge
 
 |
 
-45 431
+45 607
 
 |
 
-48 343
+48 523
 
 |
 
@@ -252,11 +258,11 @@ Personne seule ou couple ayant deux personnes à charge
 
 |
 
-54 840
+55 052
 
 |
 
-50 987
+51 176
 
 |
 
@@ -264,23 +270,23 @@ Personne seule ou couple ayant trois personnes à charge
 
 |
 
-64 517
+64 767
 
 |
 
-54 519
+54 722
 
 |
 
-Personne seule ou couple ayant quatre personnes à charge
+Personne seule ou couple ayant quatre personnes à charge ...
 
 |
 
-72 709
+72 990
 
 |
 
-58 052
+58 268
 
 |
 
@@ -288,11 +294,11 @@ Majoration par personne à charge supplémentaire à partir de la cinquième
 
 |
 
-+ 8 113
++ 8 145
 
 |
 
-+ 3 709
++ 3 723
 
 |
 
@@ -304,4 +310,4 @@ Pour l'application du présent article, les zones A, A bis, B 1, B 2 et C sont d
 
 NOTA :
 
-Modifications effectuées en conséquence du décret n° 2006-1005 du 10 août 2006, art. 1er G
+Modifications effectuées en conséquence de l'article 1er G du décret n° 2006-1005 du 10 août 2006.

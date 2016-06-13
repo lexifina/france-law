@@ -1,6 +1,6 @@
 # Article 267 octies
 
-Les déclarations prévues aux articles 407 et 408 de récolte et de stocks de vins prévues aux articles 407 et 408 du code général des impôts et qui renferment en outre les indications fixées par décrets (1) sont établies sur des imprimés mis à la disposition des déclarants et déposées à la mairie qui en donne récépissé. Une copie de ces déclarations reste en mairie et doit être communiquée à tout requérant.
+La déclaration prévue à l'article 407 du code général des impôts et qui renferme en outre les indications fixées par décrets est établie sur des imprimés mis à la disposition des déclarants et déposée à la mairie qui en donne récépissé. Une copie de cette déclaration reste en mairie et doit être communiquée à tout requérant.
 
 Les autres exemplaires sont transmis, par les soins de la mairie, au service des douanes et droits indirects dans le ressort duquel sont situées les exploitations intéressées. Ce service ne peut délivrer des titres de mouvement au déclarant pour une quantité de vin supérieure à celle qu'il a déclarée.
 
@@ -10,4 +10,4 @@ Dès le début de la récolte, au fur et à mesure des nécessités de la vente,
 
 NOTA :
 
-(1) Voir l'article 169 bis de l'annexe III.
+Modification effectuée en conséquence de l'article 4-1° de l'ordonnance n° 2015-1247 du 7 octobre 2015.

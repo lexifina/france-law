@@ -2,7 +2,7 @@
 
 I. ― Pour l'application du premier alinéa du III de l'article 199 novovicies du code général des impôts :
 
-1. Les plafonds de loyer mensuel, par mètre carré, charges non comprises, sont fixés, pour les baux conclus en 2015, à 16,82 € en zone A bis, 12,49 € dans le reste de la zone A, 10,06 € en zone B 1 et 8,74 € en zone B 2. Ces plafonds sont révisés au 1er janvier de chaque année selon les modalités prévues au premier alinéa du a de l'article 2 duodecies.
+1. Les plafonds de loyer mensuel, par mètre carré, charges non comprises, sont fixés, pour les baux conclus en 2016, à 16,83 € en zone A bis, 12,50 € dans le reste de la zone A, 10,07 € en zone B 1 et 8,75 € en zone B 2. Ces plafonds sont révisés au 1er janvier de chaque année selon les modalités prévues au premier alinéa du a de l'article 2 duodecies.
 
 Aux plafonds de loyer définis à l'alinéa précédent, il est fait application d'un coefficient multiplicateur calculé selon la formule suivante :
 
@@ -14,7 +14,7 @@ Pour l'application du présent 1, la surface à prendre en compte s'entend de ce
 
 2. Les plafonds de ressources sont les suivants :
 
-a) Pour les baux conclus en 2015, les plafonds annuels de ressources des locataires sont les suivants :
+a) Pour les baux conclus en 2016, les plafonds annuels de ressources des locataires sont les suivants :
 
 COMPOSITION DU FOYER LOCATAIRE
 
@@ -30,7 +30,9 @@ Zone A bis
 
 |
 
-Reste de la zone A
+Reste
+
+de la zone A
 
 (en euros)
 
@@ -52,19 +54,19 @@ Personne seule
 
 |
 
-36 971
+36 993
 
 |
 
-36 971
+36 993
 
 |
 
-30 133
+30 151
 
 |
 
-27 120
+27 136
 
 |
 
@@ -72,19 +74,19 @@ Couple
 
 |
 
-55 254
+55 287
 
 |
 
-55 254
+55 287
 
 |
 
-40 241
+40 265
 
 |
 
-36 216
+36 238
 
 |
 
@@ -92,19 +94,19 @@ Personne seule ou couple ayant une personne à charge
 
 |
 
-72 433
+72 476
 
 |
 
-66 420
+66 460
 
 |
 
-48 393
+48 422
 
 |
 
-43 554
+43 580
 
 |
 
@@ -112,19 +114,19 @@ Personne seule ou couple ayant deux personnes à charge
 
 |
 
-86 479
+86 531
 
 |
 
-79 558
+79 606
 
 |
 
-58 421
+58 456
 
 |
 
-52 579
+52 611
 
 |
 
@@ -132,19 +134,19 @@ Personne seule ou couple ayant trois personnes à charge
 
 |
 
-102 893
+102 955
 
 |
 
-94 183
+94 240
 
 |
 
-68 725
+68 766
 
 |
 
-61 853
+61 890
 
 |
 
@@ -152,19 +154,19 @@ Personne seule ou couple ayant quatre personnes à charge
 
 |
 
-115 782
+115 851
 
 |
 
-105 985
+106 049
 
 |
 
-77 453
+77 499
 
 |
 
-69 707
+69 749
 
 |
 
@@ -172,19 +174,19 @@ Majoration par personne à charge supplémentaire à partir de la cinquième
 
 |
 
-+ 12 900
++ 12 908
 
 |
 
-+ 11 809
++ 11 816
 
 |
 
-+ 8 641
++ 8 646
 
 |
 
-+ 7 775 |
++ 7 780 |
 
 Ces plafonds sont révisés au 1er janvier de chaque année selon les modalités prévues au troisième alinéa du b de l'article 2 duodecies ;
 
@@ -210,4 +212,4 @@ III.-Pour l'application du second alinéa du III de l'article 199 novovicies du 
 
 NOTA :
 
-Modifications effectuées en conséquence de l'article 1er [1°] du décret n° 2012-1532 du 29 décembre 2012 et de la loi n° 2014-366 du 24 mars 2014, art. 33-3°.
+Modifications effectuées en conséquence de l'article 1er-1°]du décret n° 2012-1532 du 29 décembre 2012.

@@ -1,6 +1,6 @@
 # Article 1609 duodecies
 
-La taxe sur l'édition des ouvrages de librairie est due par les éditeurs en raison des ventes autres que les exportations et les livraisons, exonérées en vertu du I de l'article 262 ter ou les livraisons dans un lieu situé dans un autre Etat membre de l'Union européenne en application de l'article 258 A, des ouvrages de librairie de toute nature, y compris des livres numériques au sens de l'article 1er de la loi n° 2011-590 du 26 mai 2011 relative au prix unique du livre, qu'ils éditent.
+La taxe sur l'édition des ouvrages de librairie est due par les éditeurs en raison des ventes autres que les exportations et les livraisons, exonérées en vertu du I de l'article 262 ter ou les livraisons dans un lieu situé dans un autre Etat membre de l'Union européenne en application de l'article 258 A, des ouvrages de librairie de toute nature, y compris des livres numériques au sens de l'article 1er de la loi n° 2011-590 du 26 mai 2011 relative au prix du livre numérique, qu'ils éditent.
 
 En sont exonérés les éditeurs dont le chiffre d'affaires de l'année précédente pour cette branche d'activité n'a pas excédé, tous droits et taxes compris, 76300 €.
 
