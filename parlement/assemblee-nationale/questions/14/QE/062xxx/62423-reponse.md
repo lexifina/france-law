@@ -1,0 +1,9 @@
+# Réponse à la question n° 62423
+
+- Question : [62423](62423.md) — Question n° 62423 — groupe EON; emploi et activité; Gardanne-Meyreuil
+
+## Réponse
+
+*JO du 2016-06-14*
+
+Dans le cadre de l'appel d'offres portant sur la réalisation de centrales de production d'électricité à partir de biomasse lancé en juillet 2010, le Gouvernement de l'époque a décidé en février 2012 de retenir la totalité des projets jugés recevables par la commission de régulation de l'énergie (CRE) pour une puissance totale de 420 MW. Parmi les projets lauréats figurait le projet porté par la société E.ON Provence Biomasse sur le site de Gardanne pour une puissance de 150 MW. Un courrier de notification avait été adressé au lauréat et un arrêté d'autorisation d'exploiter au titre du code de l'énergie en date du 29 février 2012 avait été publié au Journal officiel. Ce projet - exceptionnel par sa taille - présente d'importants enjeux localement tant d'un point de vue économique et social que d'un point de vue environnemental et énergétique. Il fait donc l'objet d'une attention particulière du Gouvernement notamment concernant son plan d'approvisionnement en biomasse et ses impacts sur la ressource biomasse locale. La ministre de l'environnement, de l'énergie et de la mer, chargée des relations internationales sur le climat, a récemment demandé au préfet de la région Provence-Alpes-Côte-d'Azur (PACA) de mettre en place un groupe de concertation, associant notamment le conseil régional, chargé d'évaluer les conséquences de la mise en oeuvre du projet de centrale sur l'ensemble des besoins en bois pour leurs divers usages dans la région PACA. Le Gouvernement est très attentif aux impacts que la mise en œuvre de ce projet pourrait avoir sur l'exploitation de la ressource biomasse locale et sur les secteurs d'activités qui en dépendent.
