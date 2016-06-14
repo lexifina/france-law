@@ -1,0 +1,9 @@
+# Réponse à la question n° 94382
+
+- Question : [94382](94382.md) — Question n° 94382 — gonflage; instruments de mesure; réglementation
+
+## Réponse
+
+*JO du 2016-06-14*
+
+L'article 14 du décret no 61-501 du 3 mai 1961 relatif aux unités de mesure et au contrôle des instruments de mesure dans sa rédaction antérieure au décret no 2015-327 du 23 mars 2015 prévoyait déjà la peine de contravention 3ème classe pour la vente, livraison, commande, mise en service, l'emploi ou l'introduction en France des instruments de mesure qui ne sont pas conformes aux textes réglementaires et qui, notamment, comportent des inscriptions ou graduations autres que celles résultant de l'emploi des unités légales. La nouvelle rédaction de cet article introduit la peine d'amende administrative en lieu et place de la peine de contravention de 3ème classe pour « l'utilisation d'instruments de mesure non-conformes », conformément à l'article 129 de la loi no 2014-344 du 17 mars 2014 relative à la consommation modifiant l'article 9 de la loi du 4 juillet 1837. Les exigences applicables aux manomètres pour pneumatiques des véhicules automobiles sont fixées par le décret no 88-78 du 19 janvier 1988 réglementant cette catégorie et par l'arrêté du 21 mars 1988 relatif à la construction et à la vérification de ces instruments. Ces textes prévoient que les manomètres doivent être gradués uniquement en bar. L'article 8 du décret no 61-501 du 3 mai 1961 prévoit la possibilité que des indications soient exprimées en d'autres unités mais il est précisé « sans préjudice des dispositions de l'article 12 ». Or l'article 12 interdit l'emploi d'unités autres que les unités légales pour les instruments de mesure. Les manomètres à double graduation, dont l'une en unité non légale, ne peuvent pas être mis sur le marché en France, conformément aux dispositions précitées du décret du 3 mai 1961, qui n'ont pas été modifiées par le décret du 23 mars 2015.
