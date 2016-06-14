@@ -1,0 +1,9 @@
+# Réponse à la question n° 47858
+
+- Question : [47858](47858.md) — Question n° 47858 — fonds de solidarité logement; contribution
+
+## Réponse
+
+*JO du 2016-06-14*
+
+Le Gouvernement est particulièrement attentif à la situation des familles en situation de précarité énergétique. C'est ce qui l'a conduit à mettre en place, grâce à la loi de transition énergétique pour la croissance verte, le chèque énergie qui permet d'attribuer automatiquement aux ménages les plus modestes une aide pour payer leurs factures d'énergie, quel que soit leur mode de chauffage. Il a également sensiblement augmenté les crédits de l'Agence nationale de l'habitat (ANAH) permettant la rénovation énergétique de 70 000 logements de familles modestes en 2016 et 100 000 en 2017. En complément, les aides financières attribuées par le fonds de solidarité pour le logement (FSL) permettent aux personnes qui en font la demande de payer tout ou partie de leurs factures d'électricité. Elles sont attribuées, au niveau départemental, après examen des dossiers individuels de demandes par la Commission placée auprès du FSL. Le financement du fonds de solidarité pour le logement est assuré par le département, lequel peut passer des conventions avec les fournisseurs d'énergie ou d'eau livrant des consommateurs domestiques. EDF est, au niveau national, l'un des principaux contributeurs au FSL : la contribution de l'entreprise s'est ainsi graduellement accrue au cours des dernières années, passant de 19,8 M€ en 2008 à 22,3 M€ en 2015. Les contributions au FSL sont financées par l'ensemble des consommateurs d'énergie et contribuables français. Dans un souci d'équité, il est donc souhaitable que la répartition de cette dotation entre les territoires se fasse sur la base de critères objectifs. En ce qui concerne les Deux-Sèvres, la dotation 2015, qui est stable par rapport à celle de 2014, reste supérieure au niveau qui résulterait de l'application stricte des critères.
