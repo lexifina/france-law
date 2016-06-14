@@ -1,0 +1,9 @@
+# Réponse à la question n° 42179
+
+- Question : [42179](42179.md) — Question n° 42179 — divorces; transcription
+
+## Réponse
+
+*JO du 2016-06-14*
+
+Le règlement (CE) no 2201/2003 arrêté par le Conseil de l'Union Européenne le 27 novembre 2003, qui abroge un précédent règlement daté du 29 mai 2000, pose désormais comme principe que les décisions rendues dans un Etat membre sont reconnues dans les autres Etats membres, sans qu'il soit nécessaire de recourir à aucune procédure. En particulier, aucune procédure n'est requise pour la mise à jour des actes d'état civil d'un Etat membre sur la base d'une décision rendue dans un autre Etat membre en matière de divorce, qui n'est plus susceptible de recours selon la loi de cet Etat. Cette règle simplificatrice ne s'applique cependant pas à un divorce prononcé en 1994. Il s'ensuit qu'une telle décision, pour être opposable au regard du droit portugais lorsqu'elle a été rendue par l'autorité judiciaire d'un autre Etat, doit faire l'objet d'une reconnaissance formelle selon les règles de ce pays. La procédure applicable au Portugal est la révision d'une sentence étrangère, qui relève de la compétence des cours d'appel, et implique, de la part de la partie intéressée, le dépôt d'une demande introductive d'instance accompagnée du document sur lequel figure la décision à réviser. Elle donne lieu à une audience, à laquelle la partie adverse est citée et dans le cadre de laquelle le ministère public peut faire valoir ses observations. Pour que la décision soit confirmée, il faut notamment que n'existe aucun doute quant à l'authenticité du document sur lequel figure la décision. Afin de pouvoir produire le jugement de divorce prononcé en France, la requérante pourra obtenir la reconstitution de sa décision auprès du tribunal qui l'a rendue, sur le fondement des dispositions de l'article 1432 du code de procédure civile.
