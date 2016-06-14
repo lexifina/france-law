@@ -1,0 +1,9 @@
+# Réponse à la question n° 56903
+
+- Question : [56903](56903.md) — Question n° 56903 — prérogatives
+
+## Réponse
+
+*JO du 2016-06-14*
+
+L'article 9 de la loi no 2007-1545 du 30 octobre 2007, instituant le contrôleur général des lieux de privation de liberté (CGLPL), prévoit qu'à l'issue de ses visites des lieux de privation des libertés, le CGLPL formule des observations qu'il adresse aux ministres intéressés. Jusqu'à la promulgation de la loi no 2014-528 du 26 mai 2014, le CGLPL pouvait, sans qu'un délai soit préfixé, demander à ces ministres de lui adresser des observations en réponse. L'apport de l'article 5 de la loi du 26 mai 2014 consiste en la possibilité donnée au CGLPL de fixer au ministre un délai de réponse à ses observations initiales qui ne peut être inférieur à un mois. Par cette précision, le législateur a aligné les compétences du CGLPL sur celles des autres autorités de contrôle de l'Etat afin de donner pleine effectivité à ses fonctions de contrôle. C'est ainsi que d'autres autorités, également dotées d'un pouvoir de contrôle sur l'action de l'administration, disposent également du pouvoir de demander au Gouvernement de répondre à leurs observations, le cas échéant dans un délai contraint, notamment la commission nationale de contrôle des interceptions de sécurité (articles L. 243-8 et L. 243-9 du code de la sécurité intérieure) ou le Défenseur des droits (article 25 de la loi organique no 2011-333 du 29 mars 2011). En prévoyant la possibilité d'introduire un délai de réponse aux observations formulées par la CGLPL, la loi a pour objet d'instaurer un dialogue entre le CGLPL et le ministre intéressé afin d'améliorer les droits et les conditions de vie des personnes privées de libertés. Dans ces conditions, la nouvelle rédaction de l'article 9 de la loi du 30 octobre 2007 ne peut être interprétée comme créant une injonction d'une autorité administrative à l'exécutif.
