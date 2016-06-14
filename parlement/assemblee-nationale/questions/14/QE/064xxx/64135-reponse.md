@@ -1,0 +1,9 @@
+# Réponse à la question n° 64135
+
+- Question : [64135](64135.md) — Question n° 64135 — entretien du ministre; bilan
+
+## Réponse
+
+*JO du 2016-06-14*
+
+Le Président de la République tchèque, M. Milos Zeman, a effectué une visite officielle en France du 8 au 10 septembre 2014. Il était accompagné de plusieurs ministres, ainsi que d'une délégation d'entreprises. A cette occasion, le ministre des finances et des comptes publics s'est entretenu avec M. Andrej Babis, Premier vice-Premier ministre en charge de l'économie et ministre des finances de la République tchèque, le 9 septembre. Cet entretien a permis au ministre des finances et des comptes publics d'informer son interlocuteur de la stratégie française de réformes et, à la demande du ministre Babis, de présenter les bonnes pratiques françaises en matière de lutte contre la fraude et de partenariats publics privés. Nommé en janvier 2014, le ministre tchèque a tout d'abord présenté ses priorités afin de moderniser l'administration et le système fiscal dans son ensemble (meilleur recouvrement de l'impôt, lutte contre la fraude fiscale, tout particulièrement la fraude à la TVA). Dans ce cadre, le ministre s'est intéressé à l'organisation de l'administration française, et notamment de la direction générale des finances publiques et de la direction générale des douanes et droits indirects, mais également a indiqué réfléchir à l'introduction d'un registre central des comptes bancaires, comme FICOBA en France. Les ministres ont également échangé sur les débats entourant, en République tchèque, la question de l'adhésion du pays à l'euro. Ils ont enfin souligné l'utilité à promouvoir les investissements en Europe. Le ministre tchèque a conclu l'entretien en soulignant l'intérêt qu'il verrait à ce que les entreprises françaises réalisent des investissements en République tchèque, particulièrement dans le secteur des infrastructures, notamment sous la forme de partenariats publics privés.
