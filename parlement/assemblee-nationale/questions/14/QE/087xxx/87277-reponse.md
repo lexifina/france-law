@@ -1,0 +1,9 @@
+# Réponse à la question n° 87277
+
+- Question : [87277](87277.md) — Question n° 87277 — rapport; propositions
+
+## Réponse
+
+*JO du 2016-06-14*
+
+La stratégie de redressement des comptes publics menée par le Gouvernement est ciblée sur la maîtrise de la dépense. En 2014, le taux de croissance de la dépense publique en valeur et hors crédits d'impôt a atteint un niveau historiquement bas en s'établissant à 0,9 % en exécution. Cet effort sera poursuivi en 2015 et 2016 avec des taux de croissance de la dépense publique qui s'élèveraient à 1,0 % et 1,3 % respectivement, contre 3,2 % en moyenne entre 2007 et 2012. La maîtrise de la dépense permet de libérer des marges budgétaires pour baisser la fiscalité. Le taux de prélèvements obligatoires atteindrait 44,6 % en 2015 après 44,9 % en 2014. Cette baisse reflèterait l'entrée en vigueur du pacte de responsabilité et de solidarité, dont le cumul avec le crédit d'impôt pour la compétitivité et l'emploi représenterait en 2015 un allègement de 24 Mds€ de la fiscalité des entreprises, ainsi que la baisse de l'impôt sur le revenu pour les ménages aux revenus modestes et moyens pour 3 Mds€. En 2016, le taux de prélèvements obligatoires poursuivrait sa trajectoire en s'abaissant à 44,5 % du produit intérieur brut. L'allègement de la fiscalité des entreprises serait porté à 33 Mds€. En particulier, la suppression progressive de la contribution sociale de solidarité des sociétés sera poursuivie, la contribution exceptionnelle à l'impôt sur les sociétés prendra fin et des allègements de cotisations supplémentaires seront mis en œuvre, ainsi que les mesures de suramortissement des investissements et d'aide à l'emploi en direction des petites entreprises. Une refonte de la décote permettra un allègement d'impôt sur le revenu de 2 Mds€ supplémentaires pour les ménages aux revenus modestes et moyens.
