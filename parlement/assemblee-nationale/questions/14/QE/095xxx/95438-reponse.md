@@ -1,0 +1,9 @@
+# Réponse à la question n° 95438
+
+- Question : [95438](95438.md) — Question n° 95438 — fièvre catarrhale; conséquences
+
+## Réponse
+
+*JO du 2016-06-14*
+
+La propagation du sérotype 8 de la fièvre catarrhale ovine (FCO) en France depuis l'automne 2015 a nécessité la mise en place de mesures de restriction des mouvements des animaux qui ont fortement perturbé l'activité des filières d'élevage bovin et ovin. En dehors des producteurs eux-mêmes, les marchés aux bestiaux et les entreprises ayant une activité significative de commercialisation d'animaux maigres ont été parmi les opérateurs les plus touchés par les restrictions de mouvements et le blocage des animaux mis en quarantaine. Aussi, un dispositif a été élaboré afin d'indemniser une partie des pertes liées aux réductions ou contraintes d'adaptation d'activité que ces opérateurs ont pu subir sur l'activité maigre. Ce dispositif est doté d'une enveloppe de 4 millions d'euros. Il a été publié au Bulletin officiel (BO-agri) du 28 avril 2016. Le choix a été fait de baser l'indemnisation sur la baisse de l'activité maigre. En effet, l'activité boucherie, contrairement à l'activité maigre qui a été complètement bloquée, a pu bénéficier de dérogations mises en place pour les animaux destinés à l'abattage ou à l'engraissement. De plus, la fixation d'un plancher minimal d'aide à 2 000 euros répond tout d'abord à un souci d'efficacité de l'aide apportée aux opérateurs et de bonne gestion administrative. Les opérateurs devront obtenir une attestation comptable permettant de justifier de la baisse de chiffre d'affaires ou de valeur ajoutée. L'établissement de cette attestation indispensable représentera un poste de coût pour les opérateurs, à mettre au regard de l'aide apportée par le dispositif. Ce plancher répond également à des enjeux de bonne gestion des coûts administratifs et est classiquement appliqué aux dispositifs en faveur des entreprises mis en œuvre par FranceAgriMer.
