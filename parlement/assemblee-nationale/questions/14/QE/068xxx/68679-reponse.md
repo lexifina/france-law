@@ -1,0 +1,9 @@
+# Réponse à la question n° 68679
+
+- Question : [68679](68679.md) — Question n° 68679 — commande publique; réduction
+
+## Réponse
+
+*JO du 2016-06-14*
+
+La réduction des délais de paiement des fournisseurs de l'Etat et plus particulièrement des petites et moyennes entreprises (PME) constitue une priorité pour le gouvernement. Ainsi, le gouvernement s'est fixé pour objectif de moderniser la chaîne de la dépense de l'Etat et d'atteindre en 2017 un délai de paiement des dépenses de l'État de 20 jours. Le déploiement progressif des services facturiers (centralisation des factures par le comptable public) permet d'optimiser l'organisation du traitement de la dépense, ce qui se traduit par une réduction significative des délais de paiement de l'Etat. Pour la dépense en mode facturier, le délai global de la commande publique s'établit au 31 décembre 2014 à 18 jours contre 25 jours pour la dépense en mode hors facturier soit un écart de 7 jours entre les deux modes de paiement. La dématérialisation du traitement des factures contribue également à accélérer les paiements. Depuis 2012, l'Etat accepte les factures au format dématérialisé. Les fournisseurs de l'État devront également s'engager dans la mise en œuvre des solutions de facturation électronique puisqu'ils seront progressivement concernés par une obligation de transmission dématérialisée des factures à compter de 2017. Par ailleurs, il convient de rappeler que toute facture urgente peut être priorisée par les services ordonnateurs afin d'en assurer un paiement immédiat. La poursuite de l'extension des services facturiers à l'ensemble des administrations de l'État, les développements de la dématérialisation des actes de la dépense et les mesures spécifiques prises en faveur des PME contribuent à satisfaire les engagements pris par le gouvernement en matière de réduction des délais de paiement de l'Etat et permettre ainsi un paiement plus rapide des factures des PME.
