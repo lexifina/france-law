@@ -1,0 +1,9 @@
+# Réponse à la question n° 94158
+
+- Question : [94158](94158.md) — Question n° 94158 — transport; réglementation
+
+## Réponse
+
+*JO du 2016-06-14*
+
+Les exportations vers la Turquie de jeunes bovins destinés à l'engraissement représentent pour l'élevage français un débouché économique majeur. Il est donc primordial d'agir dans un objectif de maintien de ces exportations. L'une des conditions y concourant est bien le respect des règles de protection animale en cours de transport. Une instruction est en cours pour que les services d'inspection du ministère de l'agriculture, de l'agroalimentaire et de la forêt mènent des contrôles renforcés, au titre de la protection animale, des exportations d'animaux vers la Turquie. La planification des voyages y est mentionnée comme devant faire l'objet d'une vigilance particulière. Ce dispositif devrait permettre de mieux anticiper les situations à risque pouvant se présenter en dehors de l'Union européenne. Par ailleurs, le ministère chargé de l'agriculture travaille à la reprise des exportations par voie maritime, depuis le port de Sète. Ce mode de transport apporte une garantie supérieure en matière de bien-être animal. Sur ce sujet, le ministère reste mobilisé pour que des discussions soient engagées entre les autorités européennes et turques. Enfin, la France sera impliquée avant l'été 2016 dans un groupe de travail travaillant à l'élaboration, au niveau européen, d'un guide de contrôles harmonisé portant sur les transports de très longues durées. Le ministère chargé de l'agriculture s'engage ainsi, tant au travers de ces actions que par le biais de la stratégie nationale en faveur du bien-être animal dont les nouvelles orientations ont été présentées par le ministre chargé de l'agriculture le 5 avril 2016, dans une démarche de progrès correspondant à la demande sociétale d'une plus grande exigence de protection des animaux.
