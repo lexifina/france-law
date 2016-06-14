@@ -1,0 +1,9 @@
+# Réponse à la question n° 91293
+
+- Question : [91293](91293.md) — Question n° 91293 — attitude de la France
+
+## Réponse
+
+*JO du 2016-06-14*
+
+La France a fermé son ambassade à Damas en 2012, à l'instar de nombreux partenaires européens, en réaction à la brutale répression du régime contre les soulèvements populaires, alors pacifiques. Ce dernier a usé de la violence contre les civils (bombardements aériens, tortures, armes chimiques notamment) dans des proportions croissantes. Il est le principal responsable des 270.000 à 400.000 morts du conflit, des millions de réfugiés et de la déstabilisation de la région. Les forces gouvernementales continuent par ailleurs d'entraver l'accès aux vivres et aux médicaments à des milliers de civils. Alors que la cessation des hostilités entrée en vigueur le 27 février avait permis une première amélioration, la situation se détériore à nouveau du fait des nombreuses violations de la trêve par le régime. C'est pourquoi, aujourd'hui plus que jamais, la France considère que seule une transition politique est à même de réunir les Syriens et de construire une paix durable. S'agissant de Daech, Bachar al-Assad a toujours cherché à instrumentaliser la question du terrorisme pour obtenir des contreparties politiques. Il continue aujourd'hui d'entretenir des relations ambivalentes avec le groupe djihadiste. Pour toutes ces raisons, la France n'envisage pas de réinstaller une représentation officielle à Damas, tant qu'une transition politique n'aura pas été engagée. S'agissant de la lutte contre Daech, le France est pleinement mobilisée au sein de la coalition internationale et participe à la campagne de frappes aériennes contre cette organisation. Cette action donne des résultats. C'est ainsi qu'avec ses alliés, la France a déjà contribué à affaiblir significativement le groupe terroriste qui a perdu en Syrie environ vingt pour cent des territoires qu'il occupait.
