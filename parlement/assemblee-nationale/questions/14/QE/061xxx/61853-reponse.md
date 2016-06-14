@@ -1,0 +1,9 @@
+# Réponse à la question n° 61853
+
+- Question : [61853](61853.md) — Question n° 61853 — partenariats publics-privés; rapport; recommandations
+
+## Réponse
+
+*JO du 2016-06-14*
+
+Face aux contraintes budgétaires de plus en plus importantes auxquelles les collectivités publiques doivent faire face, les partenariats public-privé apparaissent comme un levier pertinent pour conduire les investissements publics. Des rapports récents invitent toutefois à tirer les enseignements des expériences accumulées depuis 2004, afin que ce contrat soit mobilisé dans des conditions plus protectrices des intérêts publics. Soucieux de renforcer la sécurité juridique et budgétaire de cet outil, le Gouvernement souhaite, à l'occasion de la transposition des directives « marchés publics » du 26 février 2014, rénover et moderniser le cadre juridique du contrat de partenariat. Des réflexions, qui s'inscrivent dans la perspective des propositions formulées dans le rapport d'information du Sénat, sont en cours afin de mieux répondre aux besoins des acheteurs publics tout en garantissant une utilisation efficiente et appropriée de ce contrat dérogatoire au droit commun de la commande publique. Le rapport d'information de la commission des lois du Sénat propose d'instaurer une étude approfondie sur les capacités financières prévisibles de la collectivité publique contractante et sur ses capacités de remboursement à moyen et long termes sans obérer ses capacités d'investissement et de fonctionnement eu égard aux données disponibles. Le Gouvernement souscrit à la nécessité de prévoir une étude budgétaire approfondie avant le lancement de la procédure. Une telle étude de soutenabilité budgétaire existe d'ores et déjà pour l'Etat et ses établissements publics (décret no 2012-1093 du 27 septembre 2012). La question est à l'examen de son éventuel élargissement à l'ensemble des pouvoirs adjudicateurs.
