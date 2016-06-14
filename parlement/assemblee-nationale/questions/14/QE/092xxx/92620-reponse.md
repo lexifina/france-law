@@ -1,0 +1,9 @@
+# Réponse à la question n° 92620
+
+- Question : [92620](92620.md) — Question n° 92620 — légitime défense; violences conjugales
+
+## Réponse
+
+*JO du 2016-06-14*
+
+la demande de grâce présentée en faveur de Jacqueline Sauvage, détenue condamnée le 3 décembre 2015 par la cour d'assises du Loir-et-Cher, statuant en appel, à une peine de 10 ans d'emprisonnement pour meurtre par une personne étant ou ayant été conjoint, concubin ou partenaire lié à la victime par un pacte de solidarité, a fait l'objet d'un examen très attentif. Par décret en date du 2 février 2016, le Président de la République a accordé à Jacqueline Sauvage une remise gracieuse du reliquat de la période de sûreté ainsi qu'une remise gracieuse de 2 ans 4 mois d'emprisonnement. Cette mesure de grâce partielle, notifiée à l'intéressée le 2 février 2016, lui permet, depuis cette date, d'être éligible à une libération conditionnelle. Jacqueline Sauvage a ainsi déposé les 2 et 3 février 2016 une requête en libération conditionnelle auprès du juge de l'application des peines. Au regard du quantum de la peine prononcée à son encontre (10 ans d'emprisonnement) et de la nature des faits commis (meurtre aggravé), l'examen de cette demande relève de la compétence du tribunal de l'application des peines et la libération conditionnelle devra être assortie d'une mesure probatoire (placement sous surveillance électronique, placement extérieur ou semi-liberté) ou d'un placement sous surveillance électronique mobile. En outre, conformément à l'article 730-2 du code de procédure pénale, il ne pourra être fait droit à sa requête aux fins de libération conditionnelle qu'après avis de la commission pluridisciplinaire des mesures de sûreté rendu à la suite d'une évaluation pluridisciplinaire de dangerosité réalisée dans un centre national d'évaluation ainsi qu'après réalisation d'une expertise médicale. Ces diverses investigations sont actuellement en cours.
