@@ -1,0 +1,9 @@
+# Réponse à la question n° 82947
+
+- Question : [82947](82947.md) — Question n° 82947 — rapport; Cour des comptes; recommandations
+
+## Réponse
+
+*JO du 2016-06-14*
+
+La note d'orientation de la protection judiciaire de la jeunesse du 30 septembre 2014 parachève la clarification des rôles des cadres hiérarchiques et fonctionnels, au service de la continuité. L'objectif est de piloter l'activité des établissements et services, tout en valorisant et en sécurisant les agents dans leurs missions. La note relative à l'action éducative en milieu ouvert au sien des services de la protection judiciaire de la jeunesse du 22 octobre 2015 affirme par ailleurs que les directeurs de service sont responsables de l'organisation pédagogique et administrative de leur service. Ils coordonnent, avec les responsables d'unité éducative, l'action des unités placées sous leur autorité. Cette équipe de direction assure le suivi pédagogique et la mise en oeuvre de l'action éducative. Elle s'assure de son adaptabilité constante aux besoins des mineurs, jeunes majeurs et de leur famille et, dans ce cadre, se montre vigilante quant au suivi de l'activité des unités, en lien étroit avec les juridictions. Ainsi, le responsable d'unité et le directeur de service veillent au renseignement régulier du logiciel GAME, outil privilégié pour assurer le suivi de la mise en œuvre de la mesure et plus largement de l'activité du service. Pour optimiser la gestion de l'activité du service, ils doivent être attentifs à anticiper et comptabiliser les fins de prise en charge afin de garantir la mise en oeuvre sans délai des mesures attribuées. En droit, un service éducatif ne peut, de sa seule initiative arrêter une mesure prescrite par un magistrat. C'est pourquoi le logiciel GAME ne prévoit de possibilité de mettre fin à une décision que par une décision de main levée du magistrat ou au terme de la fin de mesure fixée par ce dernier.
