@@ -1,0 +1,9 @@
+# Réponse à la question n° 61635
+
+- Question : [61635](61635.md) — Question n° 61635 — disparités régionales
+
+## Réponse
+
+*JO du 2016-06-14*
+
+Le gouvernement est particulièrement attentif à la question des frais bancaires. Depuis plusieurs années, il œuvre pour un renforcement de la transparence de ces tarifs. Diverses mesures ont été adoptées afin de permettre aux clients de faire jouer la concurrence. À ce titre, les établissements de crédit sont notamment tenus d'informer leurs clients des conditions générales de banque qu'ils pratiquent pour les opérations qu'ils effectuent. Cette information peut se faire par tous moyens : affichage ou mise à disposition de brochures dans les agences, site internet de la banque ou envoi d'un courrier à la clientèle. Les établissements de crédit doivent également communiquer par écrit à leurs clients qui ont signé une convention de compte tout projet de modification des conditions tarifaires applicables au compte de dépôt, et ce deux mois avant la date d'application envisagée (art. L. 312-1-1 du code monétaire et financier). L'observatoire des tarifs bancaires qui regroupe consommateurs, établissements de crédits et experts a par ailleurs réalisé en 2014 une étude sur les tarifs bancaires au niveau des régions. Ce rapport a relevé qu'il n'existe pas de disparité régionale en matière de tarifs bancaires pris dans leur ensemble même si, à partir des moyennes pondérées par les parts de marché, une hétérogénéité des tarifs bancaires selon les lignes tarifaires a été constatée. Le gouvernement, très attentif aux travaux de l'observatoire et à la question des frais bancaires, restera mobilisé en vue d'accroître la transparence des tarifs mais également de faciliter les changements de banque afin de développer la concurrence au bénéfice du consommateur. La mise en place d'un comparateur public des tarifs bancaires en est l'illustration.
