@@ -1,0 +1,9 @@
+# Réponse à la question n° 76197
+
+- Question : [76197](76197.md) — Question n° 76197 — mutation pour rapprochement familial; réglementation
+
+## Réponse
+
+*JO du 2016-06-14*
+
+Les conditions de mutation des agents pénitentiaires ne sont pas propres à l'administration pénitentiaire, mais relèvent du droit commun de la fonction publique, par application de la jurisprudence des juridictions administratives. Ainsi, un fonctionnaire en congé parental, ou en détachement, doit solliciter sa réintégration auprès de sa collectivité d'origine avant de muter. En effet, l'article 57 du décret no 85-986 du 16 septembre 1985 dispose que « A l'expiration du congé parental, le fonctionnaire est réintégré, à sa demande, dans son administration d'origine ou de détachement. Dans ce dernier cas, il est placé en position de détachement pour une période au moins égale à la durée restant à courir du détachement initial. » L'article 54 de la loi no 2012-347 du 12 mars 2015 dispose que « A l'expiration de son congé, le fonctionnaire est réintégré de plein droit, au besoin en surnombre, dans son corps d'origine ou dans le grade ou l'emploi de détachement antérieur. Il est réaffecté dans son emploi. Dans le cas où celui-ci ne peut lui être proposé, le fonctionnaire est affecté dans un emploi le plus proche de son dernier lieu de travail. S'il le demande, il peut également être affecté dans un emploi le plus proche de son domicile, sous réserve de l'application de l'article 60 de la présente loi. » Ces dispositions ont été confirmées par le Conseil d'Etat (arrêt « Madame C » du 3 novembre 1997) et la Cour d'appel administrative de Douai (décisions 06DA01234 et 07DA01560 du 24 septembre 2008). Ainsi, sur les situations individuelles des personnels font l'objet d'un examen attentif à l'occasion des mobilités, les régles relatives à la gestion des personnels de l'Etat sont régulièrement mises en oeuvre par l'administration pénitentiaire.
