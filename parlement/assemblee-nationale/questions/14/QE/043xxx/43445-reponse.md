@@ -1,0 +1,9 @@
+# Réponse à la question n° 43445
+
+- Question : [43445](43445.md) — Question n° 43445 — évolutions; rapport; propositions
+
+## Réponse
+
+*JO du 2016-06-14*
+
+Remis le 29 octobre 2013 au Premier ministre, le rapport de M. Bernard Pêcheur, président de section au Conseil d'Etat, sur l'avenir de la fonction publique recommandait d'améliorer la gouvernance de la fonction publique et de mieux gérer les ressources humaines dans la fonction publique de l'Etat. Le Gouvernement confirme que, dans la mise en œuvre des réformes en cours, la gestion des ressources humaines représente un enjeu majeur. Répondre à ces défis suppose de disposer d'une fonction « ressources humaines » plus forte et plus stratégique tant aux plans ministériels qu'interministériel, plus en capacité également d'apporter rapidement des réponses concrètes et adaptées aux évolutions de l'action publique. C'est pourquoi le Premier ministre et la ministre chargée de la fonction publique ont demandé, par lettre de mission datée du 15 décembre 2015, au directeur général de l'administration et de la fonction publique, de mettre en place une véritable « DRH de l'Etat », chargée de la définition de la stratégie de la politique de ressources humaines et de sa coordination en association étroite avec les secrétaires généraux et les directions des ressources humaines ministérielles. Cette décision est en cours de mise en oeuvre. S'agissant plus spécifiquement de la recommandation visant à définir des « périmètres ministériels administratifs » stables à partir des champs de compétence des secrétaires généraux de ministères, il peut être noté, sans préjudice des décisions susceptibles d'être prises à l'avenir, une grande stabilité de ces champs de compétence depuis la création des secrétariats généraux, dont le périmètre d'intervention ne varie pas avec les changements de périmètre ministériels, et ce afin de faciliter la gestion des agents.
