@@ -1,0 +1,9 @@
+# Réponse à la question n° 67212
+
+- Question : [67212](67212.md) — Question n° 67212 — statut; réglementation
+
+## Réponse
+
+*JO du 2016-06-14*
+
+Le premier alinéa de l'article L. 271-1 du code de la construction et de l'habitation prévoit que « Pour tout acte ayant pour objet la construction ou l'acquisition d'un immeuble à usage d'habitation, la souscription de parts donnant vocation à l'attribution en jouissance ou en propriété d'immeubles d'habitation ou la vente d'immeubles à construire ou de location-accession à la propriété immobilière, l'acquéreur non professionnel peut se rétracter dans un délai de dix jours à compter du lendemain de la première présentation de la lettre lui notifiant l'acte ». Par arrêt en date du 24 octobre 2012 (3e civ., pourvoi no 11-18.774, publié), la Cour de cassation a jugé que ne pouvait bénéficier de cette disposition protectrice une société civile immobilière dont l'objet social est l'acquisition, l'administration et la gestion par location ou autrement de tous immeubles et biens immobiliers meublés et aménagés et qui acquiert un immeuble en rapport direct avec cet objet social. La Cour considère ainsi que le fait pour une personne morale d'exécuter un acte en conformité avec son objet social l'empêche d'être considérée comme un acquéreur non professionnel. Les juges du fond n'ont donc pas à se livrer à une recherche sur son activité réelle. Cette position rejoint la jurisprudence de la première chambre civile en matière de crédit immobilier (1re Civ., 18 janvier 2005, pourvoi no 03-16.603). La remise en cause du critère, objectif, retenu par la jurisprudence pour déterminer si l'acquéreur est ou non professionnel conduirait à faire des distinctions entre les personnes morales et serait source d'insécurité juridique pour le cocontractant quant à l'application ou non du délai de rétractation. En l'état, une modification du texte ne paraît pas nécessaire.
