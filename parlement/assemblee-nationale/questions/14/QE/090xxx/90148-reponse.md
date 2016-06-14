@@ -1,0 +1,9 @@
+# Réponse à la question n° 90148
+
+- Question : [90148](90148.md) — Question n° 90148 — déclaration en ligne; adaptation; handicap visuel
+
+## Réponse
+
+*JO du 2016-06-14*
+
+Dans le cadre de la généralisation progressive de la déclaration en ligne prévue par l'article 76 de la loi de finances pour 2016, l'administration travaille pour adapter son logiciel aux normes du référentiel général d'accessibilité pour les administrations (RGAA), lequel est destiné à définir, en France, les modalités techniques d'accessibilité des services en ligne de l'État, notamment par les personnes handicapées visuelles. Compte tenu du nombre très important des écrans et des enchaînements d'écrans concernés, cette adaptation représente un chantier relativement lourd et une charge financière importante qu'il convient d'étaler dans le temps. Dès à présent, une étude globale sur l'adaptation de la totalité de la déclaration en ligne a été programmée. En 2016, la direction générale des finances publiques devrait proposer une adaptation d'une partie de la déclaration en ligne. Ainsi la procédure dite « rapide » sera développée selon des principes de clarté et de simplicité de nature à faciliter sa praticabilité pour les usagers déficients visuels. Cette procédure qui permet de déclarer en ligne les revenus préremplis, par confirmation, verrait également son périmètre élargi à la saisie des 20 rubriques les plus couramment utilisées afin de la rendre utilisable par un grand nombre d'usagers ayant des situations déclaratives simples. En tout état de cause, en application de l'article 76 précité, les contribuables qui, notamment pour des raisons de santé ou à cause d'un handicap, indiquent à l'administration ne pas être en mesure de souscrire la déclaration par voie électronique conservent la faculté de déclarer sur formulaire papier.
