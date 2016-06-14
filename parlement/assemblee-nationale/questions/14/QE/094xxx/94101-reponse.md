@@ -1,0 +1,9 @@
+# Réponse à la question n° 94101
+
+- Question : [94101](94101.md) — Question n° 94101 — police sanitaire; réglementation
+
+## Réponse
+
+*JO du 2016-06-14*
+
+La directive 64/432/CE du 26 juin 1964, relative à des problèmes de police sanitaire en matière d'échanges intracommunautaires d'animaux des espèces bovine et porcine, encore en vigueur, a été révisée plusieurs fois depuis sa publication. Un nouvel examen du texte est mené dans le cadre de la préparation des textes d'application du règlement cadre européen du 9 mars 2016 relatif aux maladies animales transmissibles et modifiant et abrogeant certains actes dans le domaine de la santé animale. Le règlement entrera en application à l'issue d'une période de 5 ans durant laquelle les différents textes d'applications seront élaborés. Dans ce contexte, la France est active au niveau européen pour faire valoir une position plus souple sur le traitement des suspicions et une accélération du calendrier. Toutefois, la position de la France dans cette négociation est compliquée car certains États membres considèrent que notre pays ne remplit pas les critères pour être officiellement reconnu indemne de tuberculose tandis que d'autres États membres confrontés à la tuberculose sont convaincus de l'importance d'appliquer rigoureusement les principes de la directive. Par ailleurs, particulièrement conscient des difficultés actuelles rencontrées par les filières agricoles et des conséquences de l'évolution des normes, le Gouvernement français a décidé de la mise en place d'un comité interministériel regroupant l'ensemble des partenaires du monde agricole. En associant très en amont les partenaires à la définition des mesures les concernant, ce comité a pour objectif de faciliter la mise en œuvre de ces mesures par les agriculteurs et par les services de l'État.
