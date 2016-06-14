@@ -1,0 +1,9 @@
+# Réponse à la question n° 83227
+
+- Question : [83227](83227.md) — Question n° 83227 — instances consultatives; coût de fonctionnement
+
+## Réponse
+
+*JO du 2016-06-14*
+
+Le Comité consultatif de la législation et de la réglementation financière (CCLRF) a été créé par la loi de sécurité financière du 1er août 2003 pour remplacer le Conseil national des assurances et le Comité de la réglementation bancaire et financière (CRBF) qui exerçaient des fonctions analogues. Il est chargé de donner un avis sur tous les projets de textes à portée normative, relatifs aux secteurs de l'assurance, de la banque et des entreprises d'investissement (à l'exception de mesures individuelles et des textes entrant dans le champ de compétence de l'Autorité des marchés financiers). Aux termes du II de l'article D. 614-3 du code monétaire et financier, la Banque de France met à la disposition du secrétariat général du CCLRF des agents et des moyens nécessaires à l'exercice de ses missions, consacrant ainsi la situation de fait préexistante pour le CRBF. Dans ce cadre, l'État ne supporte pas de coût de fonctionnement pour le CCLRF. En 2014, le CCLRF a été le témoin d'une activité législative et réglementaire soutenue puisqu'il a examiné 111 projets de textes. Ces textes concernent la modernisation du paysage financier, le renforcement de la protection des consommateurs, le soutien à l'activité et la lutte contre le blanchiment des capitaux, le financement du terrorisme et la fraude fiscale. Le CCLRF a permis d'obtenir de larges consensus entre ses différentes composantes (autorités publiques, associations de consommateurs, fédérations professionnelles, universitaires…) sur des textes structurants pour le secteur financier. Il constitue donc un élément essentiel dans le dispositif normatif, notamment en termes d'amélioration de la qualité du droit.
