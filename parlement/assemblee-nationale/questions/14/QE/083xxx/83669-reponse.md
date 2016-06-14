@@ -1,0 +1,9 @@
+# Réponse à la question n° 83669
+
+- Question : [83669](83669.md) — Question n° 83669 — instances consultatives; fusion
+
+## Réponse
+
+*JO du 2016-06-14*
+
+La fusion des Commissions de terminologie relevant des ministères économiques et financiers, décidée au comité interministériel pour la modernisation de l'action publique (CIMAP) du 17 juillet 2013, n'a pas été réalisée. Une refonte du dispositif, par le décret du 25 mars 2015, est venue simplifier le dispositif de terminologie de la façon suivante : - une Commission d'enrichissement de la langue française remplace la Commission générale de terminologie et de néologie ; - au sein de cette Commission, des groupes d'experts peuvent être créés ; il a été depuis acté par la délégation générale à la langue française et aux langues de France (DGLFLF) et les hauts fonctionnaires chargés de la terminologie et de la langue française (HFTLF) que le principe de spécialité par domaine (s) de compétence d'un ministère serait maintenu, le travail terminologique le nécessitant incontestablement. Compte tenu du vaste champ couvert, le HFTLF des ministères économiques et financiers a prévu, en accord avec la DGLFLF, le maintien de groupes de spécialité dénommés dorénavant collèges dans les domaines de sa compétence notamment pour l'automobile ainsi que la chimie et matériaux. Bien évidemment, en tant que de besoin, ces collèges sont appelés à se concerter sur les termes faisant appel aux compétences d'experts relevant de plusieurs d'entre eux, y compris de collèges de ministères tiers. C'est notamment vrai sur les concepts de l'économie numérique et également vrai, mais dans une moindre mesure, pour le collège de la chimie et des matériaux et celui de l'automobile. Pour autant, ces termes restent minoritaires dans l'ensemble des termes traités par chacun des collèges et ne sauraient remettre en cause le principe de spécialité.
