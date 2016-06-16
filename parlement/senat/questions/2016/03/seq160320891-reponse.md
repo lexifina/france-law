@@ -1,0 +1,9 @@
+# Réponse à la question SEQ160320891
+
+- Question : [SEQ160320891](seq160320891.md) — Pérennité du système de retraite des conseillers généraux
+
+## Réponse
+
+*Intérieur, JO du 2016-06-16, page 2704*
+
+Bien que le mandat électoral ne constitue pas une activité professionnelle, les élus locaux peuvent néanmoins se constituer en cette qualité des droits à pension. Tous les élus, dans la mesure où ils perçoivent une indemnité de fonction, sont affiliés au régime complémentaire de retraite institué au profit des agents non titulaires des collectivités publiques (IRCANTEC). La loi n° 92-108 du 3 février 1992 relative aux conditions d'exercice des mandats locaux a reconnu le droit des élus locaux à se constituer une retraite par rente et a maintenu les droits acquis par les élus locaux auprès d'associations d'élus, notamment départementales, constituées avant l'entrée en vigueur de cette loi. Conformément aux dispositions des articles L. 3123-22 et L. 3123-25 du code général des collectivités territoriales, ces régimes particuliers de retraite sont financés pour moitié par une cotisation des élus et pour l'autre moitié par une cotisation de la collectivité de rattachement, dans la limite du taux de 8 % des indemnités de fonction perçues par les élus concernés. Le conseil départemental peut également allouer une subvention d'équilibre aux associations locales de retraite. Ces associations peuvent envisager le transfert de la gestion des pensions des retraites des anciens élus locaux auprès de régimes plus à même d'assurer la pérennité financière du versement des pensions. Ainsi, plusieurs transferts de gestion d'organismes de retraite ont déjà été opérés. La Caisse des dépôts et consignations assure notamment la gestion des régimes de retraite supplémentaire des conseils départementaux de la Creuse, des Bouches-du-Rhône, du Gard, de Haute-Savoie et du Lot-et-Garonne.
