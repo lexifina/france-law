@@ -1,0 +1,9 @@
+# Réponse à la question SEQ160320996
+
+- Question : [SEQ160320996](seq160320996.md) — Sort réservé aux réfugiés afghans renvoyés en Turquie
+
+## Réponse
+
+*Affaires européennes, JO du 2016-06-16, page 2664*
+
+La France est engagée, avec ses partenaires européens, dans la recherche d'une résolution globale à une crise migratoire sans précédent qui nécessite que toutes les parties prennent leurs responsabilités. C'est dans ce contexte l'Union européenne a conclu un accord le 18 mars 2016 avec la Turquie. Cet accord vise à permettre de soutenir la Turquie dans l'effort qu'elle déploie pour l'accueil de plus de trois millions de réfugiés sur son territoire, ainsi qu'à empêcher, par une lutte conjointe contre les réseaux de passeurs, que les migrants et réfugiés ne risquent leur vie en traversant la mer Égée. La France a appelé au strict respect du droit international et européen dans la mise en œuvre de cet accord et elle y veille constamment. La Turquie a modifié sa législation de sorte que les réfugiés syriens puissent accéder au marché du travail, que leurs enfants puissent être scolarisés, et que, plus globalement, une protection internationale leur soit accordée. D'autres évolutions législatives sont annoncées afin que tous les migrants bénéficient d'une protection suffisante, conforme aux normes internationales, et notamment au principe de non-refoulement. Cela vaut bien évidemment aussi pour les ressortissants afghans. La France déploie tous les moyens dont elle dispose pour veiller au respect de ces normes. La France est en outre totalement mobilisée pour trouver une solution durable et pacifique aux conflits qui sont à l'origine de ces flux, et dont la résolution pourrait permettre à de nombreux réfugiés de retourner dans leur foyer. Cela concerne le conflit syrien mais aussi la situation en Irak, en Afghanistan et dans les autres zones de crises.
