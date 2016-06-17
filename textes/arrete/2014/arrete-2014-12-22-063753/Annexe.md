@@ -14,7 +14,7 @@ Conclusions prononcées devant une cour administrative d'appel : 7 euros.
 
 Les abonnements portent sur :
 
-- les décisions et avis contentieux des formations collégiales, à l'exception des décisions refusant l'admission d'un pourvoi en cassation présenté au Conseil d'Etat prises en application de l'article L. 822-1 du code de justice administrative ;
+- les décisions et avis contentieux des formations collégiales, à l'exception des décisions refusant l'admission d'un pourvoi en cassation présenté au Conseil d'Etat prises en application au I de l'article L. 822-1 du code de justice administrative ;
 
 - les décisions des magistrats statuant seuls en audience publique ;
 

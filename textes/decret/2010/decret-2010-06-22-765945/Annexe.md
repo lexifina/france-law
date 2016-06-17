@@ -198,7 +198,7 @@ Notamment :
 
 ― il accepte les dons et les legs et autorise, en dehors de la gestion courante, les acquisitions et cessions de biens mobiliers et immobiliers, les marchés, les baux et les contrats de location, la constitution d'hypothèques et les emprunts ainsi que les cautions et garanties accordées au nom de la fondation ;
 
-― il désigne un ou plusieurs commissaires aux comptes choisis sur la liste mentionnée à l'article L. 822-1 du code de commerce ;
+― il désigne un ou plusieurs commissaires aux comptes choisis sur la liste mentionnée au I de l'article L. 822-1 du code de commerce ;
 
 ― il fixe les conditions de recrutement et de rémunération des personnels ;
 
