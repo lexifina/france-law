@@ -234,7 +234,17 @@ France 4 renforce son engagement en faveur de l'innovation et de la création pa
 
 France 5 valorise l'accessibilité de ses contenus pédagogiques et de connaissances par tout moyen de communication électronique et développe la coopération avec les milieux éducatifs ;
 
-4° bis Via Stella : chaîne régionale ayant pour vocation de diffuser, par voie hertzienne terrestre en Corse ainsi que par des réseaux de communications électroniques n'utilisant pas de fréquences assignées par le Conseil supérieur de l'audiovisuel, des programmes, dont une proportion significative est diffusée en langue corse, consacrés à la Corse, son actualité, son patrimoine, sa culture et ses traditions, avec une ouverture sur d'autres régions, et notamment les régions voisines de la Méditerranée.
+4° bis La chaîne d'information en continu : chaîne nationale diffusée notamment par voie hertzienne terrestre dont l'objet est d'offrir des programmes d'information couvrant tous les domaines de l'actualité en France et dans le monde, notamment grâce à la diffusion régulière de journaux et de résumés d'actualité.
+
+Elle est réalisée avec le concours d'autres organismes du secteur public de la communication audiovisuelle, notamment Radio France, la société en charge de l'audiovisuel extérieur de la France et l'Institut national de l'audiovisuel.
+
+La durée quotidienne du programme est de 24 heures.
+
+Sa programmation répond au besoin de connaissance et de compréhension de l'actualité. Tout en s'attachant à informer le public sur l'actualité la plus immédiate, elle consacre une part substantielle de son antenne à la diffusion de programmes qui favorisent l'analyse et la mise en perspective des événements et intègre une forte dimension d'interactivité afin de toucher des publics diversifiés.
+
+Elle veille à la qualité éditoriale et à la diversité du contenu de ses programmes ainsi que, conformément à l'article 2, à l'expression pluraliste des courants de pensée et d'opinion.
+
+4° ter Via Stella : chaîne régionale ayant pour vocation de diffuser, par voie hertzienne terrestre en Corse ainsi que par des réseaux de communications électroniques n'utilisant pas de fréquences assignées par le Conseil supérieur de l'audiovisuel, des programmes, dont une proportion significative est diffusée en langue corse, consacrés à la Corse, son actualité, son patrimoine, sa culture et ses traditions, avec une ouverture sur d'autres régions, et notamment les régions voisines de la Méditerranée.
 
 Dans le respect de son indépendance éditoriale, ce service peut être financé par la collectivité territoriale de Corse, dans le cadre de conventions signées avec l'Etat.
 
@@ -367,6 +377,8 @@ La société contribue au renouvellement des genres et à la diversité des form
 Le contrat d'objectifs et de moyens conclu entre l'Etat et France Télévisions détermine notamment les montants minimaux d'investissements de la société dans la production d'œuvres audiovisuelle et cinématographique européennes et d'expression originale française, en pourcentage de ses recettes et en valeur absolue.
 
 La société peut par ailleurs nouer des accords spécifiques avec les organisations professionnelles du secteur de la création audiovisuelle et cinématographique.
+
+I bis. ― La chaîne d'information en continu ne diffuse pas d'œuvres cinématographiques de longue durée et réserve annuellement moins de 20 % de son temps de diffusion à des œuvres audiovisuelles.
 
 II. ― Pour l'application des dispositions du chapitre Ier du titre Ier du décret n° 2010-747 du 2 juillet 2010, France Télévisions consacre une part du chiffre d'affaires annuel net de l'exercice précédent de chacun des services France 2, France 3 et France 4 à des dépenses contribuant au développement de la production d'œuvres cinématographiques européennes au moins égale à 3,5 % et respecte les dispositions du II de l'article 10 du décret n° 90-66 du 17 janvier 1990 modifié. La détermination du chiffre d'affaires de France 2, France 3 et France 4 est établie grâce à la mise en place d'une comptabilité analytique. France Télévisions transmet au Conseil supérieur de l'audiovisuel la méthode suivie et les données correspondantes.
 
@@ -510,11 +522,13 @@ III. ― Les nouveaux engagementssur la programmation
 
 Article 19
 
-Les horaires de programmation ¶
+Les horaires de programmation
 
 La société met en œuvre les règles de respect des horaires et de la programmation définies en accord avec le Conseil supérieur de l'audiovisuel.
 
 Elle fait connaître ses programmes deux semaines avant leur diffusion et ne peut les modifier, dans ce délai, sauf circonstances particulières le justifiant.
+
+Par dérogation aux deux alinéas précédents, la structure de la grille de la chaîne d'information en continu et ses évolutions sont rendues publiques dès qu'elles sont déterminées, sauf en cas de survenance d'un événement exceptionnel et majeur lié à l'actualité.
 
 Article 20
 
@@ -600,23 +614,17 @@ IV. ― Les dispositions relatives à la publicité
 
 Article 27
 
-Les principes généraux
+Les principes généraux.
 
-Sous réserve des dispositions du décret n° 92-280 du 27 mars 1992 susvisé, la programmation des messages publicitaires, du parrainage et du télé-achat sur les services de télévision édités par France Télévisions est soumise au respect des dispositions du présent décret.
+La programmation des messages publicitaires et du parrainage sur les services de télévision édités par France Télévisions est soumise au respect des dispositions du présent décret, sous réserve des dispositions de l'article 53 de la loi du 30 septembre 1986 susvisée et du décret n° 92-280 du 27 mars 1992 susvisé.
 
 La société respecte également les règles fixées par le Conseil supérieur de l'audiovisuel en matière de placement de produit.
 
 Article 28
 
-La cessation progressive
+Disposition particulière à la chaîne d'information en continu.
 
-Les programmes diffusés entre vingt heures et six heures des services nationaux de télévision de France Télévisions, à l'exception des programmes régionaux et locaux, ne comportent pas de messages publicitaires autres que ceux pour des biens ou services présentés sous leur appellation générique.
-
-Cette disposition s'applique également aux programmes diffusés par ces services entre six heures et vingt heures à compter de l'extinction de la diffusion par voie hertzienne terrestre en mode analogique des services de télévision sur l'ensemble du territoire métropolitain.
-
-Elle ne s'applique pas aux campagnes d'intérêt général.
-
-A l'extinction de la diffusion par voie hertzienne terrestre en mode analogique des services de télévision sur le territoire d'un département d'outre-mer, d'une collectivité d'outre-mer ou de Nouvelle-Calédonie, et au plus tard le 30 novembre 2011, les programmes de télévision de la société diffusés sur le territoire de la collectivité en cause ne comportent pas de messages publicitaires autres que ceux pour des biens ou services présentés sous leur appellation générique, sous réserve de l'existence d'une offre de télévision privée diffusée par voie hertzienne terrestre en clair.
+La chaîne d'information en continu ne diffuse pas de message publicitaire.
 
 Article 29
 
@@ -753,6 +761,8 @@ Elle adapte les conditions de diffusion des programmes aux difficultés des pers
 Elle diffuse des programmes accessibles aux personnes aveugles ou malvoyantes, dans les conditions prévues par le contrat d'objectifs et de moyens.
 
 A ces fins, elle développe une concertation étroite avec les associations représentatives des personnes handicapées.
+
+Elle porte une attention particulière à l'accessibilité des programmes d'information, en particulier ceux diffusés par la chaîne d'information en continu, par le recours à la traduction en langue des signes et au sous-titrage adapté.
 
 Article 39
 
@@ -952,13 +962,21 @@ Article 60
 
 Les relations avec l'INA
 
-L'Institut national audiovisuel (INA) assure, conformément aux dispositions de la loi du 30 septembre 1986 et à son cahier des charges, la conservation des archives audiovisuelles de France Télévisions et contribue à leur exploitation. La nature, les tarifs, les conditions financières des prestations documentaires et les modalités d'exploitation de ces archives sont fixés par convention.
+L'Institut national audiovisuel (INA) assure, conformément aux dispositions de la loi du 30 septembre 1986et à son cahier des charges, la conservation des archives audiovisuelles de France Télévisions et contribue à leur exploitation. La nature, les tarifs, les conditions financières des prestations documentaires et les modalités d'exploitation de ces archives sont fixés par convention.
 
 Les modalités d'exercice du droit d'utilisation prioritaire prévu au II de l'article 49 de la loi n° 86-1067 du 30 septembre 1986 sont fixées d'un commun accord par convention entre l'INA et la société.
 
 En outre, des conventions peuvent fixer les modalités de coopération entre l'INA et la société dans le domaine de la recherche et pour la formation des personnes de la société.
 
 A défaut d'accord entre la société et l'INA, les parties peuvent saisir le ministre chargé de la communication d'une demande d'arbitrage.
+
+Article 60-1
+
+Les relations avec les autres sociétés et organismes du secteur audiovisuel public en vue de leur participation à la chaîne d'information en continu.
+
+Pour l'élaboration de la chaîne d'information en continu, la société recourt, outre à ses propres productions, à des programmes d'autres organismes du secteur public de la communication audiovisuelle, notamment Radio France, la société en charge de l'audiovisuel extérieur de la France et l'Institut national de l'audiovisuel.
+
+Les modalités de cette coopération sont définies par conventions entre ces sociétés et organismes.
 
 Article 61
 
@@ -985,6 +1003,14 @@ France Télévisions met gratuitement à disposition de Radio France Internation
 ― des éléments sonores de toute autre émission déjà diffusée dans ses programmes.
 
 Dans la limite de la responsabilité susceptible de lui incomber, RFI fait son affaire des réclamations et des frais, y compris les droits d'auteur et droits voisins, que pourrait entraîner l'utilisation des émissions ou des extraits d'émissions que lui met à disposition la société dans les conditions prévues au présent article.
+
+Article 62-1
+
+Les relations avec la société en charge de l'audiovisuel extérieur de la France.
+
+France Télévisions met à disposition de la société en charge de l'audiovisuel extérieur de la France, pour ses services de télévision, des éléments de programme définis d'un commun accord entre les deux sociétés.
+
+Dans la limite de la responsabilité susceptible de lui incomber, la société en charge de l'audiovisuel extérieur de la France fait son affaire des réclamations et des frais, y compris les droits d'auteur et droits voisins, que pourrait entraîner l'utilisation des émissions ou des extraits d'émissions que lui met à disposition la société dans les conditions prévues au présent article.
 
 Article 63
 
