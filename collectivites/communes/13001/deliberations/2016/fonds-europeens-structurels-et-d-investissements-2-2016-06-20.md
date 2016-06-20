@@ -1,0 +1,10 @@
+# Aix-en-Provence : délibération — FONDS EUROPEENS STRUCTURELS ET D'INVESTISSEMENTS 2014-2020 (EUROPE 2020) - ADOPTION DU PRINCIPE DE DEMANDES D'AIDES EUROPEENNES POUR DES PROJETS S'INSCRIVANT DANS LA STRATEGIE NUMERIQUE TERRITORIALE
+
+- Collectivité : Aix-en-Provence
+- SIREN : 211300017
+- Code INSEE : 13001
+- Date : 2016-06-20
+- Séance : Conseil Municipal 1CA
+- Objet : FONDS EUROPEENS STRUCTURELS ET D'INVESTISSEMENTS 2014-2020 (EUROPE 2020) - ADOPTION DU PRINCIPE DE DEMANDES D'AIDES EUROPEENNES POUR DES PROJETS S'INSCRIVANT DANS LA STRATEGIE NUMERIQUE TERRITORIALE
+- Acte publié : http://eadm.mairie-aixenprovence.fr/delibinternet/delib-7886-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/liste-des-deliberations-aix-en-provence@aix-en-provence
