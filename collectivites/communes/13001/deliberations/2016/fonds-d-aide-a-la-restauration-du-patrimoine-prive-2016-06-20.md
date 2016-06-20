@@ -1,0 +1,10 @@
+# Aix-en-Provence : délibération — FONDS D AIDE A LA RESTAURATION DU PATRIMOINE PRIVE ( FAR)-RÈGLEMENT D ATTRIBUTION DES SUBVENTIONS MUNICIPALES AUX PROPRIÉTAIRES PRIVES DANS LE CADRE DU PROGRAMME D'INTERÊT GÉNÉRAL "MIEUX HABITER MIEUX LOUER" 2016-2019
+
+- Collectivité : Aix-en-Provence
+- SIREN : 211300017
+- Code INSEE : 13001
+- Date : 2016-06-20
+- Séance : Conseil Municipal 1CA
+- Objet : FONDS D AIDE A LA RESTAURATION DU PATRIMOINE PRIVE ( FAR)-RÈGLEMENT D ATTRIBUTION DES SUBVENTIONS MUNICIPALES AUX PROPRIÉTAIRES PRIVES DANS LE CADRE DU PROGRAMME D'INTERÊT GÉNÉRAL "MIEUX HABITER MIEUX LOUER" 2016-2019
+- Acte publié : http://eadm.mairie-aixenprovence.fr/delibinternet/delib-7880-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/liste-des-deliberations-aix-en-provence@aix-en-provence
