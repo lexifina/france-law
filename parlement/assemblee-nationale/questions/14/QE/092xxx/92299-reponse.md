@@ -1,0 +1,9 @@
+# Réponse à la question n° 92299
+
+- Question : [92299](92299.md) — Question n° 92299 — nourrissons; abandon
+
+## Réponse
+
+*JO du 2016-06-21*
+
+Le rapport de l'observatoire national de l'enfance en danger (ONED) sur la situation des pupilles de l'Etat au 31 décembre 2014 précise qu'il y a eu en 2014 625 naissances dans le cadre d'un accouchement sous le secret et que 4 enfants ont été trouvés. Le secret de l'abandon, qui vise à protéger la mère comme l'enfant, existe depuis la loi du 27 juin 1904. Elle permet le secret de la naissance des enfants pour réduire les infanticides et augmente les pensions versées aux nourrices. La loi no 2002-93 du 22 janvier 2002 relative à l'accès aux origines des personnes adoptées et des pupilles de l'Etat a posé un nouveau cadre pour l'accouchement sous le secret garantissant le secret (de son admission et de son identité) pour la femme, tout en permettant la possibilité d'accès aux origines à l'enfant. Elle institue la commission nationale d'accès aux origines. En prenant en compte la santé de la mère et celle de l'enfant, l'accouchement sous le secret répond à un objectif de santé publique. Il permet en effet à la mère d'accoucher dans de bonnes conditions sanitaires et d'apporter les soins nécessaires à l'enfant. Il permet également à la mère de bénéficier d'un accompagnement psychologique, social, d'une information sur ses droits et d'une prise en charge des frais d'hébergement et d'accouchement. Ce n'est pas le cas des "boîtes à bébés". Une dizaine de pays ont eu recours depuis 2000 à ce dispositif, qui fait partout l'objet de critiques. Le plus souvent, les "boîtes à bébé" viennent pallier une absence ou un flou de la législation sur le droit d'abandonner un enfant, voire sur le droit à l'avortement, ce qui n'est pas le cas en France.
