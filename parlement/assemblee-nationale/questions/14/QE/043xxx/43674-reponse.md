@@ -1,0 +1,9 @@
+# Réponse à la question n° 43674
+
+- Question : [43674](43674.md) — Question n° 43674 — édition numérique; rapport; préconisations
+
+## Réponse
+
+*JO du 2016-06-21*
+
+Dans sa note d'analyse relative aux acteurs de la chaîne du livre à l'ère numérique, le Centre d'analyse stratégique préconise une concertation avec les éditeurs en vue de fixer un taux limite de décote sur le prix du livre numérique par rapport à son édition papier. Les objectifs qui sous-tendent cette préconisation, visant à parvenir à un prix du livre numérique suffisamment attractif pour le lectorat sans déprécier le travail des acteurs de la chaîne du livre, sont certes défendables. Cependant, la fixation d'un seuil de décote qui interviendrait de manière concertée entre les professionnels devrait être préalablement appréhendée sous l'angle du droit de la concurrence. Par ailleurs, la détermination d'un tel seuil viendrait contredire la liberté de l'éditeur de fixer le niveau du prix de vente de chaque titre qu'il édite. La fixation de ce prix relève en effet d'une décision de gestion propre à chaque éditeur, tenant compte d'un ensemble de paramètres tels que la catégorie éditoriale concernée, le format de l'ouvrage mais aussi les modalités de diffusion et de distribution ou la rémunération de l'auteur. La loi no 2011-590 du 26 mai 2011 relative au prix du livre numérique préserve la liberté de l'éditeur en lui permettant de moduler le prix de vente en fonction du contenu de l'offre de livres numériques et de ses modalités d'accès ou d'usage, tout en disposant que le contrat d'édition doit garantir aux auteurs une rémunération juste et équitable en contrepartie de l'exploitation d'un livre numérique. Le principe défendu par le législateur en 2011 selon lequel l'éditeur doit conserver un rôle central dans la détermination du prix des titres qu'il publie doit être garanti.
