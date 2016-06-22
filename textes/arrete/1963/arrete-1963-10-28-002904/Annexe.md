@@ -282,7 +282,7 @@ Etablissement public du musée des Arts asiatiques Guimet
 
 |
 
-Etablissement public du musée du quai Branly
+Etablissement public du musée du quai Branly - Jacques Chirac
 
 |
 

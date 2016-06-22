@@ -4,7 +4,7 @@ LISTE DES ÉTABLISSEMENTS PUBLICS ADMINISTRATIFS ENTRANT DANS LE CHAMP DE COMPÉ
 
 Etablissement public du Palais de la porte Dorée.
 
-Etablissement public du musée du Quai Branly.
+Etablissement public du musée du quai Branly-Jacques Chirac
 
 Institut national de recherches archéologiques préventives.
 

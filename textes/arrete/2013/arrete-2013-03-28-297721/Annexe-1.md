@@ -52,7 +52,7 @@ CT de la direction régionale des affaires culturelles de Martinique.
 
 CT de la direction régionale des affaires culturelles de Midi-Pyrénées.
 
-CT de la direction régionale des affaires culturelles de Nord - Pas-de-Calais.
+CT de la direction régionale des affaires culturelles de Nord-Pas-de-Calais.
 
 CT de la direction régionale des affaires culturelles des Pays de la Loire.
 
@@ -154,7 +154,7 @@ CT de l'Etablissement public du musée des arts asiatiques Guimet.
 
 CT de l'Etablissement public du musée du Louvre.
 
-CT de l'Etablissement public du musée du quai Branly.
+CT de l' Etablissement public du musée du quai Branly - Jacques Chirac.
 
 CT de l'Etablissement public du château, du musée et du domaine national de Versailles.
 
@@ -168,7 +168,7 @@ CT de l'Opérateur du patrimoine et des projets immobiliers de la culture.
 
 CT de l'Institut national de recherches archéologiques préventives.
 
-CT spécial de la direction interrégionale Centre - Ile-de-France.
+CT spécial de la direction interrégionale Centre-Ile-de-France.
 
 CT spécial de la direction interrégionale Grand Est-Nord.
 
@@ -182,7 +182,7 @@ CT spécial de la direction interrégionale Méditerranée.
 
 CT spécial de la direction interrégionale Nord Picardie.
 
-CT spécial de la direction interrégionale Rhône-Alpes - Auvergne.
+CT spécial de la direction interrégionale Rhône-Alpes-Auvergne.
 
 CT spécial du siège de l'Institut national de recherches archéologiques préventives.
 
@@ -194,11 +194,11 @@ CHSCT ministériel.
 
 CHSCT d'administration centrale, institué auprès du secrétaire général.
 
-CHSCT spécial archives .
+CHSCT spécial archives.
 
-CHSCT spécial filière musées .
+CHSCT spécial filière musées.
 
-CHSCT spécial filière patrimoine et architecture .
+CHSCT spécial filière patrimoine et architecture.
 
 CHSCT spécial des musées et domaines de Compiègne et de Blérancourt.
 
@@ -248,7 +248,7 @@ CHSCT de la direction régionale des affaires culturelles de Martinique.
 
 CHSCT de la direction régionale des affaires culturelles de Midi-Pyrénées.
 
-CHSCT de la direction régionale des affaires culturelles de Nord - Pas-de-Calais.
+CHSCT de la direction régionale des affaires culturelles de Nord-Pas-de-Calais.
 
 CHSCT de la direction régionale des affaires culturelles des Pays de la Loire.
 
@@ -358,7 +358,7 @@ CHSCT de l'Etablissement public du musée des arts asiatiques Guimet.
 
 CHSCT de l'Etablissement public du musée du Louvre.
 
-CHSCT de l'Etablissement public du musée du quai Branly.
+CHSCT de l' Etablissement public du musée du quai Branly - Jacques Chirac.
 
 CHSCT de l'Etablissement public du château, du musée et du domaine national de Versailles.
 
@@ -372,7 +372,7 @@ CHSCT de l'Opérateur du patrimoine et des projets immobiliers de la culture.
 
 CHSCT de l'Institut national de recherches archéologiques préventives.
 
-CHSCT spécial de la direction interrégionale Centre - Ile-de-France.
+CHSCT spécial de la direction interrégionale Centre-Ile-de-France.
 
 CHSCT spécial de la direction interrégionale Grand Est-Nord.
 
@@ -386,6 +386,6 @@ CHSCT spécial de la direction interrégionale Méditerranée.
 
 CHSCT spécial de la direction interrégionale Nord Picardie.
 
-CHSCT spécial de la direction interrégionale Rhône-Alpes - Auvergne.
+CHSCT spécial de la direction interrégionale Rhône-Alpes-Auvergne.
 
 CHSCT spécial du siège de l'Institut national de recherches archéologiques préventives.

@@ -154,9 +154,9 @@ Emplois de catégorie A relatifs à l'expertise du fonctionnement et de la gesti
 
 Emplois de catégorie A relatifs à la botanique |
 
-Emplois de catégorie A relatifs à la biologie des espèces animales et emplois de catégorie B strictement nécessaires à l'appui technique dans ce domaine |
+Emplois de catégorie A relatifs à la biologie des espèces animales et emplois de catégorie B strictement nécessaires à l'appui technique dans ce domaineEmplois |
 
-Emplois de catégorie A requérant une double compétence associant une des spécialités précédemment énumérées et la capacité de conduite de projet, notamment informatique |
+de catégorie A requérant une double compétence associant une des spécialités précédemment énumérées et la capacité de conduite de projet, notamment informatique |
 
 Emplois de catégorie A relatifs au développement et à l'intégration d'indicateurs d'état de diagnostic environnementaux dans les projets informatiques |
 
@@ -234,19 +234,19 @@ Emplois de catégorie A, B et C.
 
 |
 
-Etablissement public du musée du quai Branly
+Etablissement public du musée du quai Branly - Jacques Chirac
 
 |
 
-- emplois de catégorie A, B et C dans le domaine du patrimoine et des collections, du développement culturel et des publics ;
+-emplois de catégorie A, B et C dans le domaine du patrimoine et des collections, du développement culturel et des publics ;
 
-- emplois de catégorie A dans le domaine de l'enseignement et de la recherche ;
+-emplois de catégorie A dans le domaine de l'enseignement et de la recherche ;
 
-- emplois de catégorie A, B et C dans le domaine du mécénat et de la communication ;
+-emplois de catégorie A, B et C dans le domaine du mécénat et de la communication ;
 
-- emplois de catégorie A, B et C liés à la gestion du bâtiment, des systèmes d'information, de la sécurité et de la sûreté ;
+-emplois de catégorie A, B et C liés à la gestion du bâtiment, des systèmes d'information, de la sécurité et de la sûreté ;
 
-- emplois de catégorie A de juristes experts dans le domaine des achats publics et du droit de la propriété littéraire et artistique.
+-emplois de catégorie A de juristes experts dans le domaine des achats publics et du droit de la propriété littéraire et artistique.
 
 |
 

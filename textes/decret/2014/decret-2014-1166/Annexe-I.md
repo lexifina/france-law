@@ -122,19 +122,19 @@ Commissions administratives paritaires
 
 Commissions administratives paritaires compétentes pour les corps de fonctionnaires de l'Institut national de la santé et de la recherche médicale (INSERM) suivants :
 
-- directeurs de recherche ;
+-directeurs de recherche ;
 
-- chargés de recherche ;
+-chargés de recherche ;
 
-- ingénieurs de recherche ;
+-ingénieurs de recherche ;
 
-- ingénieurs d'études et attachés d'administration de la recherche ;
+-ingénieurs d'études et attachés d'administration de la recherche ;
 
-- assistants ingénieurs ;
+-assistants ingénieurs ;
 
-- techniciens de la recherche et secrétaires d'administration de la recherche ;
+-techniciens de la recherche et secrétaires d'administration de la recherche ;
 
-- adjoints techniques de la recherche.
+-adjoints techniques de la recherche.
 
 Comités techniques
 
@@ -220,7 +220,7 @@ Haute-Normandie.
 
 Franche-Comté.
 
-Nord - Pas-de-Calais.
+Nord-Pas-de-Calais.
 
 Picardie.
 
@@ -240,35 +240,35 @@ Comités techniques
 
 Comité technique des établissements suivants :
 
-- Centre des monuments nationaux ;
+-Centre des monuments nationaux ;
 
-- musée d'Orsay et musée de l'Orangerie ;
+-musée d'Orsay et musée de l'Orangerie ;
 
-- Centre national d'art et de culture Georges Pompidou ;
+-Centre national d'art et de culture Georges Pompidou ;
 
-- château, musée et domaine national de Versailles ;
+-château, musée et domaine national de Versailles ;
 
-- château de Fontainebleau ;
+-château de Fontainebleau ;
 
-- musée des arts asiatiques Guimet ;
+-musée des arts asiatiques Guimet ;
 
-- musée Rodin ;
+-musée Rodin ;
 
-- Centre national du cinéma et de l'image animée ;
+-Centre national du cinéma et de l'image animée ;
 
-- bibliothèque publique d'information ;
+-bibliothèque publique d'information ;
 
-- Ecole nationale supérieure d'architecture et de paysage de Lille ;
+-Ecole nationale supérieure d'architecture et de paysage de Lille ;
 
-- Centre national des arts plastiques ;
+-Centre national des arts plastiques ;
 
-- Ecole nationale supérieure des arts décoratifs ;
+-Ecole nationale supérieure des arts décoratifs ;
 
-- Centre national du livre ;
+-Centre national du livre ;
 
-- Ecole nationale supérieure d'architecture de Paris-Belleville ;
+-Ecole nationale supérieure d'architecture de Paris-Belleville ;
 
-- Ecole nationale supérieure d'architecture de Paris-Malaquais.
+-Ecole nationale supérieure d'architecture de Paris-Malaquais.
 
 Comité technique placé auprès de chaque directeur régional des affaires culturelles mentionné ci-après :
 
@@ -294,7 +294,7 @@ Lorraine.
 
 Midi-Pyrénées.
 
-Nord - Pas-de-Calais.
+Nord-Pas-de-Calais.
 
 Picardie.
 
@@ -312,23 +312,23 @@ Comités d'hygiène, de sécurité et des conditions de travail
 
 Comité d'hygiène, de sécurité et des conditions de travail des établissements suivants :
 
-- Centre des monuments nationaux ;
+-Centre des monuments nationaux ;
 
-- musée d'Orsay et musée de l'Orangerie ;
+-musée d'Orsay et musée de l'Orangerie ;
 
-- château, musée et domaine national de Versailles ;
+-château, musée et domaine national de Versailles ;
 
-- château de Fontainebleau ;
+-château de Fontainebleau ;
 
-- musée des arts asiatiques Guimet ;
+-musée des arts asiatiques Guimet ;
 
-- Centre national du cinéma et de l'image animée ;
+-Centre national du cinéma et de l'image animée ;
 
-- Ecole nationale supérieure des arts décoratifs ;
+-Ecole nationale supérieure des arts décoratifs ;
 
-- Ecole nationale supérieure d'architecture de Paris-Belleville ;
+-Ecole nationale supérieure d'architecture de Paris-Belleville ;
 
-- Ecole nationale supérieure d'architecture de Paris-Malaquais.
+-Ecole nationale supérieure d'architecture de Paris-Malaquais.
 
 Comité d'hygiène, de sécurité et des conditions de travail placé auprès de chaque directeur régional des affaires culturelles mentionné ci-après :
 
@@ -348,7 +348,7 @@ Franche-Comté.
 
 Midi-Pyrénées.
 
-Nord - Pas-de-Calais.
+Nord-Pas-de-Calais.
 
 Poitou-Charentes.
 
@@ -356,15 +356,15 @@ Rhône-Alpes.
 
 Comité d'hygiène, de sécurité et des conditions de travail spécial du directeur des établissements suivants :
 
-- mobilier national ;
+-mobilier national ;
 
-- manufactures nationales des Gobelins, de Beauvais et de la Savonnerie.
+-manufactures nationales des Gobelins, de Beauvais et de la Savonnerie.
 
 Comité d'hygiène, de sécurité et des conditions de travail spécial des musées et domaines de Compiègne et Blérancourt.
 
 Comité d'hygiène, de sécurité et des conditions de travail spécial du musée et domaine du château de Pau.
 
-Comité d'hygiène, de sécurité et des conditions de travail du Centre des monuments nationaux zone Nord-Ouest et Ile-de-France (Basse-Normandie, Bretagne, Haute-Normandie, Ile-de-France, Nord - Pas-de-Calais, Pays de la Loire, Picardie).
+Comité d'hygiène, de sécurité et des conditions de travail du Centre des monuments nationaux zone Nord-Ouest et Ile-de-France (Basse-Normandie, Bretagne, Haute-Normandie, Ile-de-France, Nord-Pas-de-Calais, Pays de la Loire, Picardie).
 
 Comité d'hygiène, de sécurité et des conditions de travail du Centre des monuments nationaux zone Centre et Est (Alsace, Bourgogne, Centre, Champagne-Ardenne, Franche-Comté, Lorraine).
 
@@ -386,7 +386,7 @@ Commission consultative paritaire des agents publics non titulaires relevant des
 
 Commission consultative paritaire des agents publics non titulaires relevant du secrétariat général, d'un service déconcentré, d'une autre direction ou délégation que celle précitée ou de l'un des établissements publics administratifs figurant dans la liste figurant en annexe n° 4 de l'arrêté du 17 décembre 2009 instituant des commissions consultatives paritaires des agents non titulaires des services et de certains établissements du ministère de la culture et de la communication, placée auprès du secrétaire général du ministère.
 
-Commission consultative paritaire pour les agents non titulaires de l'Etablissement public du musée du quai Branly.
+Commission consultative paritaire pour les agents non titulaires de l' Etablissement public du musée du quai Branly - Jacques Chirac.
 
 Commission consultative paritaire compétente pour les agents non titulaires du Centre des monuments nationaux.
 

@@ -20,7 +20,7 @@ Décret n° 2003-1300 du 26 décembre 2003 portant création de l'Etablissement 
 
 Décret n° 2003-1301 du 26 décembre 2003 portant création de l'Etablissement public du musée des arts asiatiques Guimet.
 
-Décret n° 2004-1350 du 9 décembre 2004 relatif au statut de l'Etablissement public du musée du quai Branly.
+Décret n° 2004-1350 du 9 décembre 2004 relatif au statut de l' Etablissement public du musée du quai Branly - Jacques Chirac.
 
 Décret n° 2005-538 du 23 mai 2005 relatif à l'Etablissement public du musée national Jean-Jacques Henner.
 

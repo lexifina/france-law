@@ -68,7 +68,7 @@ Etablissement français du sang.
 
 Etablissement public de la porte Dorée-Cité nationale de l'histoire de l'immigration.
 
-Etablissement public du musée du quai Branly.
+Etablissement public du musée du quai Branly - Jacques Chirac.
 
 INRP : Institut national de recherche pédagogique.
 
