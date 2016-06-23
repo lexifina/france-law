@@ -2808,23 +2808,29 @@ Jusqu'au niveau 3 des niveaux de la Fédération française de char à voile.
 
 |
 
-CQP "assistant professeur arts martiaux".
+CQP "assistant professeur arts martiaux" délivré jusqu'au 31 août 2016. |
+
+Encadrement en autonomie jusqu'au premier niveau de compétition, dans la mention considérée (aïkido, aïkibudo, arts martiaux chinois internes, arts martiaux chinois externes, arts énergétiques chinois, judo-jujitsu, karaté et disciplines associées, kendo et disciplines associées, taekwondo et disciplines associées). |
+
+Les mercredis et les samedis pendant l'année scolaire, dans les structures de plus de 200 adhérents.
+
+A raison de 4 séances maximum par semaine pendant l'année scolaire, dans les structures de moins de 200 adhérents.
+
+A l'exclusion du temps scolaire contraint.
+
+A l'exclusion du secteur du tourisme.
 
 |
 
-Encadrement en autonomie jusqu'au premier niveau de compétition dans la mention considérée (aïkido, aïkibudo, arts martiaux chinois internes, arts martiaux chinois externes, arts énergétiques chinois, judo-jujitsu, karaté et disciplines associées, kendo et disciplines associées, taekwondo et disciplines associées).
+CQP "moniteur d'arts martiaux"
 
 |
 
-Les mercredis et les samedis pendant l'année scolaire, dans les structures de plus de 200 adhérents ;
+Encadrement en autonomie jusqu'au premier niveau de compétition ou jusqu'au premier niveau de grade, dan ou équivalent pour les disciplines sans compétition, dans la mention considérée (aïkido, aïkibudo, arts martiaux chinois internes, arts martiaux chinois externes, arts énergétiques chinois, judo-jujitsu, karaté et disciplines associées, kendo et disciplines associées, taekwondo et disciplines associées).
 
-A raison de 4 séances maximum par semaine pendant l'année scolaire, dans les structures de moins de 200 adhérents ;
+|
 
-A l'exclusion du temps scolaire contraint ;
-
-A l'exclusion du secteur du tourisme ;
-
-Sous réserve de la présentation du certificat d'aptitude à l'exercice de la fonction d'assistant professeur arts martiaux en cours de validité.
+A l'exclusion du temps scolaire contraint.
 
 |
 
@@ -3279,6 +3285,16 @@ Encadrement en autonomie des activités de l'escrime artistique par la découver
 Dans la limite de 20 pratiquants.
 
 A l'exclusion du temps scolaire contraint.
+
+|
+
+CQP "animateur d'escalade sur structure artificielle".
+
+|
+
+Encadrement en autonomie des activités d'escalade sur structure artificielle d'escalade pour tout public, de l'initiation jusqu'aux premiers niveaux de compétition.
+
+|
 
 |
 
