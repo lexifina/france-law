@@ -14,7 +14,7 @@ B
 
 |
 
-Masses et dimensions
+Masse et dimensions
 
 |
 
@@ -24,7 +24,7 @@ X
 
 |
 
-Eclairage et signalisation
+Eclairage et Signalisation
 
 |
 
@@ -62,7 +62,7 @@ Organes de manœuvre de direction et de visibilité :
 
 |
 
-- champs de visibilité
+-champ de visibilité
 
 |
 
@@ -72,7 +72,7 @@ X
 
 |
 
-- rétrovision
+-rétrovision
 
 |
 
@@ -82,7 +82,7 @@ X
 
 |
 
-- vitrages
+-vitrages
 
 |
 
@@ -92,7 +92,7 @@ X
 
 |
 
-- organes de direction
+-organes de direction
 
 |
 
@@ -102,7 +102,7 @@ X
 
 |
 
-Dispositifs et aménagements particuliers:
+Dispositifs et aménagements particuliers
 
 |
 
@@ -110,17 +110,7 @@ Dispositifs et aménagements particuliers:
 
 |
 
-- ceintures
-
-|
-
-|
-
-X
-
-|
-
-- indicateur de vitesse, chronotachygraphe et compteur de vitesse
+-ceintures de sécurité
 
 |
 
@@ -130,7 +120,7 @@ X
 
 |
 
-- antivol
+-indicateur de vitesse, chronotachygraphe et compteur de vitesse
 
 |
 
@@ -140,7 +130,7 @@ X
 
 |
 
-- limiteur de vitesse
+-antivol
 
 |
 
@@ -150,7 +140,17 @@ X
 
 |
 
-- plaques et inscriptions
+-limiteur de vitesse
+
+|
+
+|
+
+X
+
+|
+
+-plaques et inscriptions
 
 |
 
@@ -160,7 +160,7 @@ X
 
 |
 
-- emplacement des plaques d'immatriculation
+-emplacement des plaques d'immatriculation
 
 |
 
@@ -170,7 +170,7 @@ X
 
 |
 
-- anti-encastrement AV
+-anti-encastrement AV
 
 |
 
@@ -180,7 +180,7 @@ X
 
 |
 
-- anti-encastrement AR
+-anti-encastrement AR
 
 |
 
@@ -190,7 +190,7 @@ X
 
 |
 
-- protections latérales
+-protections latérales
 
 |
 
@@ -200,7 +200,7 @@ X
 
 |
 
-- anti-projections
+-anti-projections
 
 |
 
@@ -210,7 +210,7 @@ X
 
 |
 
-- réservoir à carburant
+-réservoir à carburant. (montage entités homologuées)
 
 |
 
@@ -220,37 +220,17 @@ X
 
 |
 
-- extincteur cabine
+-extincteur cabine
 
 |
 
 |
 
-X
+(X)
 
 |
 
-- extincteur chargement
-
-|
-
-X
-
-|
-
-|
-
-Energie, émissions polluantes et nuisances :
-
-|
-
-|
-
-|
-
-- émissions polluantes
-
-|
+-extincteur chargement
 
 |
 
@@ -258,17 +238,17 @@ X
 
 |
 
-- niveau sonore
+|
+
+Energie, compatibilité électromagnétique, émissions polluantes et sonores :
 
 |
 
 |
 
-X
-
 |
 
-- moteur auxiliaire dans le cadre des engins mobiles non routiers (EMNR)
+-compatibilité électromagnétique (montage d'entités homologuées)
 
 |
 
@@ -278,10 +258,40 @@ X
 
 |
 
-A : liste des réglementations applicables lors du contrôle de conformité initial:
+-émissions polluantes
 
-X : systématique;
+|
 
-(X) :le cas échéant.
+|
+
+X
+
+|
+
+-niveau sonore
+
+|
+
+|
+
+X
+
+|
+
+-moteur auxiliaire dans le cadre des engins mobiles non routiers (EMNR)
+
+|
+
+(X)
+
+|
+
+|
+
+A : liste des réglementations applicables lors du contrôle de conformité initial :
+
+X : systématique ;
+
+(X) : le cas échéant.
 
 B : réglementations ne devant pas être remises en cause par le carrossage, sous la responsabilité du carrossier.
