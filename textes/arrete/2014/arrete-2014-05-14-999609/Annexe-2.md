@@ -86,7 +86,7 @@ et la longueur des ferrures est inférieure à 120 mm ;
 
 - la largeur du véhicule n'excède pas celle fixée par le constructeur ;
 
-- le véhicule ne sera pas immatriculé dans le genre (J1) TCP ou n'est pas un véhicule spécialisé non affecté au transport des marchandises (RESP, SRSP, VASP, sauf VASP-BOM) ;
+- le véhicule n'est pas immatriculé dans le genre (J1) TCP ou n'est pas un véhicule spécialisé autre que ceux cités dans l'annexe XII de l'arrêté du 19 juillet 1954 susvisé ;
 
 - le véhicule ne sera pas immatriculé sous un double genre (J1) et (ou) une double carrosserie (J3).
 

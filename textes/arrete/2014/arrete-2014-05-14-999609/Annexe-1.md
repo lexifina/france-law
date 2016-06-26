@@ -26,7 +26,7 @@ X
 
 |
 
-Eclairage et signalisation
+Eclairage et Signalisation
 
 |
 
@@ -64,7 +64,7 @@ Organes de manœuvre de direction et de visibilité :
 
 |
 
-- champ de visibilité
+-champ de visibilité
 
 |
 
@@ -74,7 +74,7 @@ X
 
 |
 
-- rétrovision
+-rétrovision
 
 |
 
@@ -84,7 +84,7 @@ X
 
 |
 
-- vitrages
+-vitrages
 
 |
 
@@ -94,11 +94,13 @@ X
 
 |
 
-- organes de direction
+-organes de direction
 
 |
 
 |
+
+X
 
 |
 
@@ -110,7 +112,7 @@ Dispositifs et aménagements particuliers :
 
 |
 
-- ceintures de sécurité
+-ceintures de sécurité
 
 |
 
@@ -120,7 +122,7 @@ X
 
 |
 
-- indicateur de vitesse, chronotachygraphe et compteur de vitesse
+-indicateur de vitesse, chronotachygraphe et compteur de vitesse
 
 |
 
@@ -130,7 +132,7 @@ X
 
 |
 
-- antivol
+-antivol
 
 |
 
@@ -140,7 +142,7 @@ X
 
 |
 
-- plaques et inscriptions
+-plaques et inscriptions
 
 |
 
@@ -150,7 +152,7 @@ X
 
 |
 
-- emplacement des plaques d'immatriculation
+-emplacement des plaques d'immatriculation
 
 |
 
@@ -160,7 +162,7 @@ X
 
 |
 
-- anti-encastrement AR
+-anti-encastrement AR
 
 |
 
@@ -170,7 +172,17 @@ X
 
 |
 
-- protections latérales
+-anti-projections
+
+|
+
+X
+
+|
+
+|
+
+-réservoir à carburant … (montage entités homologuées)
 
 |
 
@@ -180,17 +192,15 @@ X
 
 |
 
-- anti-projections
-
-|
-
-X
+Energie, compatibilité électromagnétique, émissions polluantes et sonores :
 
 |
 
 |
 
-- réservoir à carburant
+|
+
+-compatibilité électromagnétique (montage entités homologuées)
 
 |
 
@@ -200,15 +210,7 @@ X
 
 |
 
-Energie, émissions polluantes et sonores :
-
-|
-
-|
-
-|
-
-- émissions polluantes
+-émissions polluantes
 
 |
 
@@ -218,7 +220,7 @@ X
 
 |
 
-- niveau sonore
+-niveau sonore
 
 |
 
@@ -228,7 +230,7 @@ X
 
 |
 
-- moteur auxiliaire dans le cadre des engins mobiles non routiers (EMNR)
+-moteur auxiliaire dans le cadre des engins mobiles non routiers (EMNR)
 
 |
 
@@ -245,5 +247,3 @@ X : systématique.
 (X) : le cas échéant.
 
 B : réglementations ne devant pas être remises en cause par le carrossage sous la responsabilité du carrossier.
-
-|
