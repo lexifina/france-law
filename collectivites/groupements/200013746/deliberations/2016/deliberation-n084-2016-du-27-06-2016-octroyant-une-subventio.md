@@ -1,0 +1,10 @@
+# Ville de Pirae : délibération — Délibération n°084-2016 du 27-06-2016 - Octroyant une subvention à l'association BUDOKAN JUDO PIRAE
+
+- Collectivité : Ville de Pirae
+- SIREN : 200013746
+- Date : 2016-06-27
+- Objet : Délibération n°084-2016 du 27-06-2016 - Octroyant une subvention à l'association BUDOKAN JUDO PIRAE
+- Pages : 3
+- Acte publié : https://static.data.gouv.fr/resources/deliberations-du-conseil-municipal-annee-2016/20161024-075820/Deliberation_n084-2016_-_Octroyant_une_subvention_a_lassociation_BUDOKAN_JUDO_PIRAE.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/580d7292c751df6d02c562c5
+- Texte : document numérisé sans couche texte (non reproduit ; voir l'acte publié)
