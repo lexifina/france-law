@@ -1132,64 +1132,6 @@ Article R. 543-235 du code de l’environnement.
 
 |
 
-Décret n
-
-°
-
-2012-1538 du 28 décembre 2012 relatif à la mise en place d’une consigne ou d’un système de
-
-reprise équivalent des bouteilles de gaz destinées à un usage individuel et à la gestion des déchets de bouteilles
-
-de gaz
-
-1
-
-|
-
-Approbation et retrait d’approbation des systèmes individuels chargés de la gestion des
-
-déchets de bouteilles de gaz destinées à un usage individuel.
-
-Arrêté conjoint des ministres chargés de l’environnement et de l’industrie.
-
-|
-
-Article R. 543-266.
-
-|
-
-2 |
-
-Agrément et retrait d’agrément des organismes chargés de la gestion des déchets de
-
-bouteilles de gaz destinées à un usage individuel.
-
-Arrêté conjoint des ministres chargés de l’environnement, de l’industrie et des collectivités
-
-territoriales.
-
-|
-
-Article R. 543-267.
-
-|
-
-3 |
-
-Agrément et retrait d’agrément de l’organisme coordonnateur chargés de la gestion des
-
-déchets de bouteilles de gaz destinées à un usage individuel.
-
-Arrêté conjoint des ministres chargés de l’environnement, de l’industrie et des collectivités
-
-territoriales.
-
-|
-
-Article R. 543-268.
-
-|
-
 2. Décisions administratives individuelles prises par le ministre
 
 Décisions entrant dans le champ des compétences de la direction du personnel et de l'administration
@@ -2370,7 +2312,13 @@ Exclusion temporaire ou définitive du bénéfice des dispositions de la convent
 
 |
 
-Article 457 bis des dispositions d’application du code des douanes communautaire.
+Article 457
+
+bis
+
+des dispositions d’application du code
+
+des douanes communautaire.
 
 Article 38 de la convention douanière de Genève
 
@@ -2404,7 +2352,7 @@ Règlement (CE) n
 
 du 7 septembre 2000 fixant certaines dispositions d’application du règlement (CE) n
 
-°
+o
 
 1172/95 du Conseil en ce
 
