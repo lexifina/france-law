@@ -1,0 +1,9 @@
+# Réponse à la question n° 63538
+
+- Question : [63538](63538.md) — Question n° 63538 — plans de déplacements urbains; élaboration
+
+## Réponse
+
+*JO du 2016-06-28*
+
+L'obligation d'élaborer un plan de déplacements urbains (PDU) pour les périmètres de transports urbains inclus dans les agglomérations de plus de 100 000 habitants a été introduite par la loi no 96-1236 du 30 décembre 1996 sur l'air et l'utilisation rationnelle de l'énergie. Celle-ci modifiait l'article 28 de la loi no 82-1153 du 30 décembre 1982 d'orientation des transports intérieurs (LOTI) et prévoyait que ces autorités organisatrices de transports urbains (AOTU), les communes ou leurs groupements le cas échéant, disposaient d'un « délai de deux ans à compter de la publication de la loi nº 96-1236 du 30 décembre 1996 sur l'air et l'utilisation rationnelle de l'énergie » pour la réalisation de leur PDU. En outre, l'article 28-2 de la LOTI précisait que « Si, dans un délai de trois ans et demi à compter de la publication de la loi nº 96-1236 précitée, le plan n'est pas approuvé, le préfet peut engager ou poursuivre son élaboration selon les modalités prévues au présent article ». La loi no 2015-991 du 7 août 2015 portant nouvelle organisation territoriale de la République (NOTRe) remplace les notions d'AOTU par celle d'autorité organisatrice de la mobilité et de périmètre de transports urbains par celle de ressort territorial de l'autorité organisatrice de la mobilité sans modifier le délai d'élaboration d'un PDU. Ainsi, aux termes des articles L. 1214-22 et D. 1214-6 du code des transports, l'autorité organisatrice de la mobilité est tenue d'élaborer un PDU dans un délai de trois ans à compter de la modification du ressort territorial. A l'expiration de ce délai, l'autorité administrative compétente de l'Etat peut engager ou poursuivre les procédures nécessaires à son élaboration.
