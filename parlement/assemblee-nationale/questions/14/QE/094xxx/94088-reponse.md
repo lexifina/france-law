@@ -1,0 +1,9 @@
+# Réponse à la question n° 94088
+
+- Question : [94088](94088.md) — Question n° 94088 — effectifs de la profession
+
+## Réponse
+
+*JO du 2016-06-28*
+
+Répondre aux inégalités de santé et améliorer le parcours de santé du patient dans toutes ses composantes (soins, prévention, dépistage, éducation à la santé), représentent des enjeux majeurs pour le Gouvernement. Plusieurs réponses ont été apportées concernant cette situation. Tout d'abord, le nombre de postes offerts en gynécologie médicale à l'issue des épreuves classantes nationales (ECN) de médecine est en augmentation constante. L'arrêté du 9 juillet 2015 a fixé le nombre de postes offerts en gynécologie médicale à l'issue des ECN à 68 au titre de l'année universitaire 2015-2016. Ainsi, ce nombre de postes a plus que doublé entre 2012 et 2015, passant de 30 postes à 68 postes. Un effort particulier a été fait cette année, puisque 20 postes supplémentaires sont offerts par rapport à l'année passée. Le gouvernement s'est mobilisé pour améliorer l'accessibilité aux soins, plus particulièrement, à travers le Pacte territoire santé. L'un des engagements du pacte a conduit à simplifier, en 2013, le dispositif du contrat d'engagement de service public (CESP), bourse versée aux étudiants en médecine en contrepartie d'un engagement à s'installer en zone sous-dense. Il contribue ainsi à l'installation des professionnels dans les zones rurales. Par ailleurs, le suivi gynécologique de prévention chez la femme en bonne santé peut être réalisé par une sage femme, ainsi que la prescription et le suivi de la contraception. La loi de modernisation du système de santé publiée en janvier 2016 permet désormais aux sages femmes de réaliser des IVG médicamenteuses et de vacciner la femme et son entourage. La complémentarité entre l'exercice des sages femmes et celui des gynécologues doit permettre d'améliorer le suivi des femmes.
