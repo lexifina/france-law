@@ -1,0 +1,9 @@
+# Réponse à la question n° 5695
+
+- Question : [5695](5695.md) — Question n° 5695 — délibérations; compte-rendus; réglementation
+
+## Réponse
+
+*JO du 2016-06-28*
+
+L'article L. 2121-15 du code général des collectivités territoriales (CGCT) prévoit qu'au début de chacune de ses séances, le conseil municipal nomme un ou plusieurs de ses membres pour remplir les fonctions de secrétaire de séance. Le secrétaire de séance a ainsi la charge de rédiger, ou le cas échéant de faire rédiger sous son contrôle, le procès-verbal de la séance du conseil municipal pour laquelle il a été désigné. Une jurisprudence constante du Conseil d'Etat considère que les conseils municipaux sont maîtres de la rédaction du procès-verbal de leurs séances (3 mars 1905, Papot). Le procès verbal de la séance doit être cependant approuvé par les conseillers municipaux présents à la séance (Conseil d'Etat, 10 février 1995, commune de Coudekerque-Branche). La souplesse laissée par la loi aux conseils municipaux pour l'établissement des procès-verbaux de leurs séances ne permet toutefois pas au maire d'intervenir en aucune façon dans la rédaction de celui-ci. Le Conseil d'État a ainsi considéré que le maire n'est pas compétent pour désigner le secrétaire de séance ou pour rayer des procès-verbaux les propos injurieux ou diffamatoire ainsi que toute déclaration dont la publication serait de nature à engager la responsabilité communale (Conseil d'Etat, 10 février 1995, Commune de Coudekerque-Branche), ni même pour corriger les erreurs matérielles constatées (Conseil d'Etat, 28 novembre 1990, Gérard). Si le maire estime qu'une rédaction est incorrecte, il doit soumettre la question aux conseillers présents à la séance et qui doivent signer le texte des délibérations, mais ne peut procéder à une modification unilatérale.
