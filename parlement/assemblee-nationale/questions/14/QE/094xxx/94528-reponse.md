@@ -1,0 +1,9 @@
+# Réponse à la question n° 94528
+
+- Question : [94528](94528.md) — Question n° 94528 — règlement sanitaire; mise en conformité; contrôles
+
+## Réponse
+
+*JO du 2016-06-28*
+
+Le titre II des règlements sanitaires départementaux (RSD) fixe les règles minimales d'hygiène dans l'habitat et ainsi les conditions d'occupation, d'utilisation et d'entretien des logements. Le maire est compétent pour contrôler le respect de ces dispositions applicables que les occupants soient propriétaires ou locataires. Selon le type d'infractions relevé, le maire peut demander une mise en conformité soit auprès de l'occupant (par exemple, en cas d'accumulation de déchets dans le logement), soit auprès du propriétaire (par exemple, absence de ventilation dans la cuisine ou la salle d'eau). Si le nombre d'infractions au RSD, ou leur gravité, est tel que le logement peut être qualifié d'insalubre, il revient au préfet de prescrire au propriétaire les travaux permettant de remédier à l'insalubrité. L'objectif de cette procédure administrative est de mettre un terme aux risques pour la santé des occupants ou du voisinage liés aux désordres relevés dans le logement. Le propriétaire peut en parallèle se retourner contre les occupants, dans le cadre d'une procédure civile, s'il estime que ces désordres sont dus au comportement des occupants. Enfin, il convient de noter que le décret, prévu par la loi no 86-17 du 6 janvier 1986 et devant remplacer les règles fixées en matière d'hygiène par les RSD, nécessitera une modification du décret no 2002-120 du 30 janvier 2002 relatif aux caractéristiques du logement décent, pour une mise en cohérence de ces deux textes. En effet, les RSD et le décret « décence », même s'ils sont de champs d'application différents, fixent des règles parfois contradictoires. Ainsi, ce chantier relève à la fois du ministère chargé de la santé et du ministère chargé du logement.
