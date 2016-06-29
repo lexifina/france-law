@@ -6,7 +6,7 @@ Section arts plastiques
 
 L'ensemble des épreuves du concours vise à évaluer les capacités des candidats au regard des dimensions disciplinaires, scientifiques et professionnelles de l'acte d'enseigner et des situations d'enseignement.
 
-A. ― Epreuves d'admissibilité
+A. - Epreuves d'admissibilité
 
 1° Composition écrite portant sur les fondements de la culture artistique et plastique.
 
@@ -36,7 +36,7 @@ La note d'intention a pour objet, d'une part de faire justifier au candidat les 
 
 Durée : huit heures ; coefficient 1.
 
-B. ― Epreuves d'admission
+B. - Epreuves d'admission
 
 Les deux épreuves orales d'admission comportent un entretien avec le jury qui permet d'évaluer la capacité du candidat à s'exprimer avec clarté et précision, à réfléchir aux enjeux scientifiques, didactiques, épistémologiques, culturels et sociaux que revêt l'enseignement du champ disciplinaire du concours, notamment dans son rapport avec les autres champs disciplinaires.
 
@@ -72,7 +72,7 @@ Section documentation
 
 L'ensemble des épreuves du concours vise à évaluer les capacités des candidats au regard des dimensions disciplinaires, scientifiques et professionnelles de l'acte d'enseigner et des situations d'enseignement.
 
-A. ― Epreuves d'admissibilité
+A. - Epreuves d'admissibilité
 
 1° Epreuve de maîtrise de savoirs académiques.
 
@@ -92,7 +92,7 @@ L'épreuve permet d'évaluer, en particulier, la capacité du candidat à extrai
 
 Durée : cinq heures ; coefficient 1.
 
-B. ― Epreuves d'admission
+B. - Epreuves d'admission
 
 Les deux épreuves orales d'admission comportent un entretien avec le jury qui permet d'évaluer la capacité du candidat à s'exprimer avec clarté et précision, à réfléchir aux enjeux scientifiques, didactiques, épistémologiques, culturels et sociaux que revêt l'enseignement du champ disciplinaire du concours, notamment dans son rapport avec les autres champs disciplinaires.
 
@@ -122,7 +122,7 @@ Section éducation musicale et chant choral
 
 L'ensemble des épreuves du concours vise à évaluer les capacités des candidats au regard des dimensions disciplinaires, scientifiques et professionnelles de l'acte d'enseigner et des situations d'enseignement.
 
-A. ― Epreuves d'admissibilité
+A. - Epreuves d'admissibilité
 
 1° Epreuve de technique musicale.
 
@@ -146,6 +146,8 @@ Trente minutes avant la fin de l'épreuve, un nouvel extrait musical enregistré
 
 Durée totale de l'épreuve : six heures ; coefficient 1.
 
+La première partie de l'épreuve est notée sur 8 points ; la seconde partie est notée sur 12 points.
+
 2° Epreuve de culture musicale et artistique.
 
 L'épreuve prend appui sur un ensemble de documents identifiés comprenant un choix de textes, partitions et/ou éléments iconographiques, et un ou plusieurs extraits musicaux enregistrés.
@@ -162,7 +164,7 @@ Le ou les extraits enregistrés sont diffusés à plusieurs reprises durant l'é
 
 Durée de l'épreuve : cinq heures ; coefficient 1.
 
-B. ― Epreuves d'admission
+B. - Epreuves d'admission
 
 Les deux épreuves orales d'admission comportent un entretien avec le jury qui permet d'évaluer la capacité du candidat à s'exprimer avec clarté et précision, à réfléchir aux enjeux scientifiques, didactiques, épistémologiques, culturels et sociaux que revêt l'enseignement du champ disciplinaire du concours, notamment dans son rapport avec les autres champs disciplinaires.
 
@@ -230,7 +232,7 @@ Section histoire et géographie
 
 L'ensemble des épreuves du concours vise à évaluer les capacités des candidats au regard des dimensions disciplinaires, scientifiques et professionnelles de l'acte d'enseigner et des situations d'enseignement.
 
-A. ― Epreuves écrites d'admissibilité
+A. - Epreuves écrites d'admissibilité
 
 1° Composition.
 
@@ -250,7 +252,7 @@ Durée : cinq heures, coefficient 1.
 
 Lorsque la première épreuve d'admissibilité porte sur l'histoire, la seconde épreuve d'admissibilité porte sur la géographie. Lorsque la première épreuve d'admissibilité porte sur la géographie, la seconde épreuve d'admissibilité porte sur l'histoire.
 
-B. ― Epreuves d'admission
+B. - Epreuves d'admission
 
 Les deux épreuves orales d'admission comportent un entretien avec le jury qui permet d'évaluer la capacité du candidat à s'exprimer avec clarté et précision, à réfléchir aux enjeux scientifiques, didactiques, épistémologiques, culturels et sociaux que revêt l'enseignement du champ disciplinaire du concours, notamment dans son rapport avec les autres champs disciplinaires.
 
@@ -278,11 +280,11 @@ Le programme des épreuves d'admissibilité et d'admission est constitué par tr
 
 Section langues vivantes étrangères :
 
-allemand, anglais, arabe, chinois, espagnol, hébreu, italien, néerlandais, portugais, russe
+allemand, anglais, arabe, chinois, espagnol, hébreu, italien, japonais, néerlandais, portugais, russe
 
 L'ensemble des épreuves du concours vise à évaluer les capacités des candidats au regard des dimensions disciplinaires, scientifiques et professionnelles de l'acte d'enseigner et des situations d'enseignement.
 
-A. ― Epreuves d'admissibilité
+A. - Epreuves d'admissibilité
 
 1° Composition.
 
@@ -296,7 +298,7 @@ Durée : cinq heures ; coefficient 2.
 
 Durée : cinq heures ; coefficient 2.
 
-B. ― Epreuves d'admission
+B. - Epreuves d'admission
 
 Les deux épreuves orales d'admission comportent un entretien avec le jury qui permet d'évaluer la capacité du candidat à s'exprimer avec clarté et précision, à réfléchir aux enjeux scientifiques, didactiques, épistémologiques, culturels et sociaux que revêt l'enseignement du champ disciplinaire du concours, notamment dans son rapport avec les autres champs disciplinaires.
 
@@ -340,7 +342,7 @@ basque, breton, catalan, créole, occitan-langue d'oc
 
 L'ensemble des épreuves du concours vise à évaluer les capacités des candidats au regard des dimensions disciplinaires, scientifiques et professionnelles de l'acte d'enseigner et des situations d'enseignement.
 
-A. ― Epreuves écrites d'admissibilité
+A. - Epreuves écrites d'admissibilité
 
 1° Composition et traduction.
 
@@ -374,7 +376,7 @@ L'épreuve lui permet de mettre ses savoirs en perspective et de manifester un r
 
 Coefficient 2.
 
-B. ― Epreuves d'admission
+B. - Epreuves d'admission
 
 Les deux épreuves orales d'admission comportent un entretien avec le jury qui permet d'évaluer la capacité du candidat à s'exprimer avec clarté et précision, à réfléchir aux enjeux scientifiques, didactiques, épistémologiques, culturels et sociaux que revêt l'enseignement du champ disciplinaire du concours, notamment dans son rapport avec les autres champs disciplinaires.
 
@@ -416,7 +418,7 @@ Section langue corse
 
 L'ensemble des épreuves du concours vise à évaluer les capacités des candidats au regard des dimensions disciplinaires, scientifiques et professionnelles de l'acte d'enseigner et des situations d'enseignement.
 
-A. ― Epreuves écrites d'admissibilité
+A. - Epreuves écrites d'admissibilité
 
 1° Composition.
 
@@ -432,7 +434,7 @@ L'épreuve consiste, au choix du jury, en la traduction en français d'un texte 
 
 Durée : cinq heures ; coefficient 2.
 
-B. ― Epreuves d'admission
+B. - Epreuves d'admission
 
 Les deux épreuves orales d'admission comportent un entretien avec le jury qui permet d'évaluer la capacité du candidat à s'exprimer avec clarté et précision, à réfléchir aux enjeux scientifiques, didactiques, épistémologiques, culturels et sociaux que revêt l'enseignement du champ disciplinaire du concours, notamment dans son rapport avec les autres champs disciplinaires.
 
@@ -474,7 +476,7 @@ Section langue des signes française
 
 L'ensemble des épreuves du concours vise à évaluer les capacités des candidats au regard des dimensions disciplinaires, scientifiques et professionnelles de l'acte d'enseigner et des situations d'enseignement.
 
-A. ― Epreuves d'admissibilité
+A. - Epreuves d'admissibilité
 
 1° Compréhension-restitution en français d'un document vidéo en langue des signes française, complétée par une réflexion sur le transfert d'une langue à l'autre à partir de quelques segments extraits du document vidéo.
 
@@ -488,7 +490,7 @@ Le commentaire effectué par le candidat consiste en une production vidéo en la
 
 Durée : cinq heures ; coefficient 2.
 
-B. ― Epreuves d'admission
+B. - Epreuves d'admission
 
 Les deux épreuves orales d'admission comportent un entretien avec le jury qui permet d'évaluer la capacité du candidat à s'exprimer avec clarté et précision, à réfléchir aux enjeux scientifiques, didactiques, épistémologiques, culturels et sociaux que revêt l'enseignement du champ disciplinaire du concours, notamment dans son rapport avec les autres champs disciplinaires.
 
@@ -526,7 +528,7 @@ Option lettres modernes.
 
 Les candidats proposés pour l'admissibilité et pour l'admission par le jury du concours font l'objet de classements distincts selon l'option.
 
-A. ― Epreuves écrites d'admissibilité
+A. - Epreuves écrites d'admissibilité
 
 1° Composition française.
 
@@ -572,7 +574,7 @@ L'épreuve permet au candidat de mettre ses savoirs en perspective et de manifes
 
 Durée : six heures ; coefficient : 1.
 
-B. ― Epreuves d'admission
+B. - Epreuves d'admission
 
 Les deux épreuves orales d'admission comportent un entretien avec le jury qui permet d'évaluer la capacité du candidat à s'exprimer avec clarté et précision, à réfléchir aux enjeux scientifiques, didactiques, épistémologiques, culturels et sociaux que revêt l'enseignement du champ disciplinaire du concours, notamment dans son rapport avec les autres champs disciplinaires.
 
@@ -652,7 +654,7 @@ Section mathématiques
 
 L'ensemble des épreuves du concours vise à évaluer les capacités des candidats au regard des dimensions disciplinaires, scientifiques et professionnelles de l'acte d'enseigner et des situations d'enseignement.
 
-A. ― Epreuves écrites d'admissibilité
+A. - Epreuves écrites d'admissibilité
 
 Le programme de ces épreuves est constitué des programmes de mathématiques du collège, du lycée et des classes préparatoires aux grandes écoles (MPSI, MP, ECS 1re et 2e années). Les notions traitées dans ces programmes doivent pouvoir être abordées au niveau M1 du cycle master.
 
@@ -676,7 +678,7 @@ L'usage de calculatrices scientifiques est autorisé selon la réglementation en
 
 Durée : cinq heures ; coefficient 1.
 
-B. ― Epreuves d'admission
+B. - Epreuves d'admission
 
 Les deux épreuves orales d'admission comportent un entretien avec le jury qui permet d'évaluer la capacité du candidat à s'exprimer avec clarté et précision, à réfléchir aux enjeux scientifiques, didactiques, épistémologiques, culturels et sociaux que revêt l'enseignement du champ disciplinaire du concours, notamment dans son rapport avec les autres champs disciplinaires.
 
@@ -716,7 +718,7 @@ Section philosophie
 
 L'ensemble des épreuves du concours vise à évaluer les capacités des candidats au regard des dimensions disciplinaires, scientifiques et professionnelles de l'acte d'enseigner et des situations d'enseignement.
 
-A. ― Epreuves écrites d'admissibilité
+A. - Epreuves écrites d'admissibilité
 
 1° Composition de philosophie.
 
@@ -736,7 +738,7 @@ L'épreuve permet au candidat de mettre ses savoirs en perspective et de manifes
 
 Durée : cinq heures ; coefficient 1.
 
-B. ― Epreuves d'admission
+B. - Epreuves d'admission
 
 Les deux épreuves orales d'admission comportent un entretien avec le jury qui permet d'évaluer la capacité du candidat à s'exprimer avec clarté et précision, à réfléchir aux enjeux scientifiques, didactiques, épistémologiques, culturels et sociaux que revêt l'enseignement du champ disciplinaire du concours, notamment dans son rapport avec les autres champs disciplinaires.
 
@@ -764,7 +766,7 @@ Section physique-chimie
 
 L'ensemble des épreuves du concours vise à évaluer les capacités des candidats au regard des dimensions disciplinaires, scientifiques et professionnelles de l'acte d'enseigner et des situations d'enseignement.
 
-A. ― Epreuves d'admissibilité
+A. - Epreuves d'admissibilité
 
 Les sujets peuvent porter, au choix du jury, soit sur la physique pour l'une des épreuves et sur la chimie pour l'autre épreuve, soit associer ces deux champs dans les deux épreuves.
 
@@ -784,7 +786,7 @@ L'épreuve permet au candidat de mettre ses savoirs en perspective et de manifes
 
 Durée : cinq heures ; coefficient 1.
 
-B. ― Epreuves d'admission
+B. - Epreuves d'admission
 
 Les deux épreuves orales d'admission comportent un entretien avec le jury qui permet d'évaluer la capacité du candidat à s'exprimer avec clarté et précision, à réfléchir aux enjeux scientifiques, didactiques, épistémologiques, culturels et sociaux que revêt l'enseignement du champ disciplinaire du concours, notamment dans son rapport avec les autres champs disciplinaires.
 
@@ -810,7 +812,7 @@ Section sciences économiques et sociales
 
 L'ensemble des épreuves du concours vise à évaluer les capacités des candidats au regard des dimensions disciplinaires, scientifiques et professionnelles de l'acte d'enseigner et des situations d'enseignement.
 
-A. ― Epreuves d'admissibilité
+A. - Epreuves d'admissibilité
 
 1° Composition.
 
@@ -832,7 +834,7 @@ Le dossier porte sur le programme de sociologie, de sciences politiques et de re
 
 Durée : cinq heures ; coefficient 1.
 
-B. ― Epreuves d'admission
+B. - Epreuves d'admission
 
 Les deux épreuves orales d'admission comportent un entretien avec le jury qui permet d'évaluer la capacité du candidat à s'exprimer avec clarté et précision, à réfléchir aux enjeux scientifiques, didactiques, épistémologiques, culturels et sociaux que revêt l'enseignement du champ disciplinaire du concours, notamment dans son rapport avec les autres champs disciplinaires.
 
@@ -860,13 +862,13 @@ Section sciences de la vie et de la Terre
 
 L'ensemble des épreuves du concours vise à évaluer les capacités des candidats au regard des dimensions disciplinaires, scientifiques et professionnelles de l'acte d'enseigner et des situations d'enseignement.
 
-A. ― Epreuves écrites d'admissibilité
+A. - Epreuves écrites d'admissibilité
 
 Les sujets peuvent porter, au choix du jury, soit sur les sciences de la vie pour l'une des épreuves et sur les sciences de la Terre pour l'autre épreuve, soit associer ces deux champs pour l'une des épreuves et porter sur un seul de ces champs pour l'autre épreuve.
 
 Le sujet de l'une des épreuves au moins comporte des documents scientifiques fournis aux candidats.
 
-Le programme du concours inclut l'ensemble des programmes des classes de collèges et de lycées, que le futur enseignant de sciences de la vie et de la Terre devra maîtriser, et huit thématiques plus spécialisées dont la liste, publiée sur le site internet du ministère chargé de l'éducation nationale, pourra être renouvelée chaque année par quart. Le niveau de maîtrise de ces thématiques est un niveau universitaire permettant d'avoir le recul attendu d'un enseignant disciplinaire, tant sur les connaissances que sur les méthodes ou les démarches.
+Le programme du concours porte sur l'ensemble des programmes des classes de collèges et de lycées que le futur enseignant de sciences de la vie et de la Terre devra maîtriser. Le niveau de maîtrise des contenus de ces programmes est un niveau universitaire permettant d'avoir le recul attendu d'un enseignant disciplinaire, tant sur les connaissances, les compétences que sur les méthodes, les démarches et les langages.
 
 1° Première épreuve d'admissibilité (durée : quatre heures ; coefficient 1).
 
@@ -884,7 +886,7 @@ Le dossier comporte, en proportions variables suivant les cas, des extraits de p
 
 L'objectif de ces deux épreuves est d'évaluer la capacité du candidat à mettre les savoirs en perspective et à manifester un recul critique vis-à-vis de ces savoirs (par exemple approche historique et/ou épistémologique, une réflexion sur la signification éducative, culturelle et sociétale des savoirs, premiers éléments de réflexion didactique) ainsi que sa maîtrise de la langue française à l'écrit et sa capacité à utiliser les modes de communication propres à la discipline.
 
-B. ― Epreuves d'admission
+B. - Epreuves d'admission
 
 Les deux épreuves orales d'admission comportent un entretien avec le jury qui permet d'évaluer la capacité du candidat à s'exprimer avec clarté et précision, à réfléchir aux enjeux scientifiques, didactiques, épistémologiques, culturels et sociaux que revêt l'enseignement du champ disciplinaire du concours, notamment dans son rapport avec les autres champs disciplinaires.
 
@@ -910,13 +912,13 @@ Cette épreuve est centrée sur un échange avec le jury. Le candidat présente 
 
 L'entretien permet aussi d'évaluer la capacité du candidat à prendre en compte les acquis et les besoins des élèves, à se représenter la diversité des conditions d'exercice de son métier futur, à en connaître de façon réfléchie le contexte dans ses différentes dimensions (classe, équipe éducative, établissement, institution scolaire, société) et les valeurs qui le portent, dont celles de la République.
 
-Durée de la préparation : une heure ; durée de l'épreuve : une heure ; coefficient 2.
+Durée de la préparation : deux heures ; durée de l'épreuve : une heure ; coefficient 2.
 
 Section tahitien
 
 L'ensemble des épreuves du concours vise à évaluer les capacités des candidats au regard des dimensions disciplinaires, scientifiques et professionnelles de l'acte d'enseigner et des situations d'enseignement.
 
-A. ― Epreuves écrites d'admissibilité
+A. - Epreuves écrites d'admissibilité
 
 1° Composition et traduction.
 
@@ -936,7 +938,7 @@ Première épreuve écrite d'admissibilité du CAPES externe de lettres.
 
 Durée : six heures ; coefficient 2.
 
-B. ― Epreuves d'admission
+B. - Epreuves d'admission
 
 Les deux épreuves orales d'admission comportent un entretien avec le jury qui permet d'évaluer la capacité du candidat à s'exprimer avec clarté et précision, à réfléchir aux enjeux scientifiques, didactiques, épistémologiques, culturels et sociaux que revêt l'enseignement du champ disciplinaire du concours, notamment dans son rapport avec les autres champs disciplinaires.
 
@@ -971,3 +973,7 @@ Le document audio ou vidéo et l'enregistrement d'une production orale d'élève
 La qualité de la langue employée est prise en compte dans l'évaluation de chaque partie de l'épreuve.
 
 Durée de la préparation : deux heures ; durée de l'épreuve : une heure (trente minutes maximum pour chaque partie) ; coefficient 4.
+
+NOTA :
+
+Conformément à l'article 2 de l'arrêté du 2 novembre 2015, les présentes dispositions prennent effet à compter de la session 2017 des concours.
