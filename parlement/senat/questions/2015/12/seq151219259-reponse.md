@@ -1,0 +1,9 @@
+# Réponse à la question SEQ151219259
+
+- Question : [SEQ151219259](seq151219259.md) — Contrats d'affermage concessif
+
+## Réponse
+
+*Intérieur, JO du 2016-06-30, page 2917*
+
+En l'état actuel du droit, les délégations de service public sont régies par les articles L.1411-1 et suivants du code général des collectivités territoriales (CGCT). Il n'existe pas de définition législative ou réglementaire des modes de délégation de service public (DSP). La jurisprudence du Conseil d'État a toutefois caractérisé différents types de délégation de service public : l'affermage, la concession et la régie intéressée. L'affermage dit « concessif » est le contrat par lequel le délégataire s'engage à gérer un service public, à ses risques et périls, contre une rémunération versée par les usagers. Celui-ci reverse à la personne publique une redevance destinée à contribuer à l'amortissement des investissements qu'elle a réalisés. L'affermage se distingue de la concession, au sein des DSP, essentiellement par le fait que les ouvrages nécessaires à l'exploitation du service sont remis au fermier par l'autorité délégante qui, en règle générale, en a assuré le financement, le fermier étant chargé de la maintenance de ces ouvrages ou, dans certains cas, de leur modernisation ou leur extension (CE, 29 avril 1987, commune d'Élancourt). L'ordonnance n° 2016-65 du 29 janvier 2016 et le décret n° 2016-86 du 1er février 2016 relatifs aux contrats de concession modifient les dispositions législatives et réglementaires des contrats de délégations de service public, en préservant leurs spécificités. Ils ne remettent pas en cause la typologie des DSP, définie par la jurisprudence du Conseil d'État. La notion d'affermage perdure donc dans le nouveau régime juridique qui est entré en vigueur le 1er avril 2016.
