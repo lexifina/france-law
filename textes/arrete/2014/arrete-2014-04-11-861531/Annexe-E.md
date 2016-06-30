@@ -6,7 +6,7 @@ NOM DU PORT
 
 |
 
-CODE POSTAL
+CODE postal
 
 |
 
@@ -14,7 +14,7 @@ JOURS ET HEURES obligatoires pour le débarquement/ transbordement (heure locale
 
 |
 
-LIEU (X) obligatoire (s) pour le débarquement/ transbordement
+LIEU (X) OBLIGATOIRE (S) pour le débarquement/ transbordement
 
 |
 
@@ -34,11 +34,11 @@ LE GUILVINEC
 
 |
 
-Lundi au vendredi (hors jours fériés) : de 8 h 30 à 17 heures
+Lundi au vendredi (hors jours fériés)-de 8 h 30 à 17 heures
 
 |
 
-Quai de la Criée
+Quai de la criée
 
 |
 
@@ -56,11 +56,13 @@ DOUARNENEZ
 
 |
 
-Lundi au vendredi (hors jours fériés) : de 8 h 30 à 17 heures
+Lundi au vendredi (hors jours fériés)-de 8 h 30 à 17 heures
 
 |
 
-Quai de la Criée, quai Ouest
+Quai de la criée
+
+Quai Ouest
 
 |
 
@@ -78,11 +80,11 @@ CONCARNEAU
 
 |
 
-Lundi au vendredi (hors jours fériés) : de 8 h 30 à 17 heures
+Lundi au vendredi (hors jours fériés)-de 8 h 30 à 17 heures
 
 |
 
-Quai de la Criée
+Quai de la criée
 
 |
 
@@ -100,7 +102,9 @@ LORIENT
 
 |
 
-Du lundi au samedi, hors jours fériés : de 9 heures à 11 heures. Lundi, mardi, jeudi, vendredi, dimanche et les jours fériés : de 16 heures à 21 heures
+Du lundi au samedi, hors jours fériés : de 9 heures à 11 heures.
+
+Lundi, mardi, jeudi, vendredi, dimanche et les jours fériés : de 16 heures à 21 heures.
 
 |
 
@@ -108,7 +112,9 @@ Quais du port de Keroman
 
 |
 
-Jusqu'au 8 août inclus : 24 heures. A partir du 9 août : 12 heures
+Jusqu'au 8 août inclus : 24 heures
+
+A partir du 9 août : 12 heures
 
 |
 
@@ -124,7 +130,7 @@ LA TURBALLE
 
 |
 
-Du lundi au vendredi : de 9 heures à 17 heures
+Du lundi au vendredi de 9 heures à 17 heures
 
 |
 
@@ -133,8 +139,6 @@ Quais du port de La Turballe
 |
 
 10 heures
-
-|
 
 |
 
@@ -176,7 +180,7 @@ LES SABLES-D'OLONNE
 
 |
 
-Du lundi au vendredi : de 9 heures à 18 heures
+Du lundi au vendredi-de 9 heures à 18 heures
 
 |
 
@@ -196,11 +200,11 @@ ARCACHON
 
 |
 
-Du lundi au vendredi : de 8 heures à 17 heures
+Du lundi au vendredi-de 8 heures à 17 heures
 
 |
 
-Port de pêche quai de la Criée
+Port de pêche quai de la criée
 
 |
 
@@ -216,13 +220,11 @@ SAINT-JEAN-DE-LUZ
 
 |
 
-Pour les navires non titulaires d'AEP du 15 juin au 16 octobre 2016 : du dimanche au jeudi, de 10 heures à 17 heures
+Pour les navires non titulaires d'AEP du 15 juin au 16 octobre 2016 du dimanche au jeudi, de 10 heures à 17 heures
 
 |
 
-Quai de la Criée
-
-|
+Quai de la criée
 
 |
 
@@ -234,7 +236,7 @@ Pour les navires titulaires d'une AEP thon rouge : tous les jours de 4 heures à
 
 |
 
-Quai de la Criée
+Quai de la criée
 
 |
 
@@ -250,11 +252,19 @@ PORT-VENDRES
 
 |
 
-De 8 h 30 à 12 heures et de 13 h 30 à 17 h 30
+De 8 h 30 à 12 heures et 13 h 30 à 17 h 30
 
 |
 
-Quai de la République (enceinte portuaire), quai de la presqu'île (enceinte portuaire), débarcadère de la criée, quai François-Joly, quai Pierre-Forgas
+Quai de la République (enceinte portuaire)
+
+Quai de la Presqu'île (enceinte portuaire)
+
+Débarcadère de la criée
+
+Quai François-Joly
+
+Quai Pierre-Forgas
 
 |
 
@@ -270,11 +280,13 @@ SAINT-CYPRIEN
 
 |
 
-De 8 h 30 à 12 heures et de 13 h 30 à 17 h 30
+De 8 h 30 à 12 heures et 13 h 30 à 17 h 30
 
 |
 
-Quai de pêche, quai Arthur-Rimbaud
+Quai de pêche
+
+Quai Arthur-Rimbaud
 
 |
 
@@ -282,7 +294,7 @@ Quai de pêche, quai Arthur-Rimbaud
 
 |
 
-LE BARCARÈS
+LE BARCARES
 
 |
 
@@ -290,11 +302,11 @@ LE BARCARÈS
 
 |
 
-De 9 heures à 12 heures et de 13 h 30 à 17 h 30
+De 9 heures à 12 heures et 13 h 30 à 17 h 30
 
 |
 
-Quai des Pêcheurs
+Quai des pêcheurs
 
 |
 
@@ -310,11 +322,11 @@ PORT-LA-NOUVELLE
 
 |
 
-De 8 h 30 à 12 heures et de 13 h 30 à 17 h 30
+De 8 h 30 à 12 heures et 13 h 30 à 17 h 30
 
 |
 
-Quai des Pêcheurs-à-la-Criée
+Quai des pêcheurs à la criée
 
 |
 
@@ -334,7 +346,9 @@ De 8 heures à 10 heures et de 18 h 30 à 21 heures
 
 |
 
-Quai Baulant, quai Soixante-Dix-Sept
+Quai Baulant
+
+Quai Soixante-Dix-Sept
 
 |
 
@@ -342,7 +356,7 @@ Quai Baulant, quai Soixante-Dix-Sept
 
 |
 
-SÈTE
+SETE
 
 |
 
@@ -354,7 +368,9 @@ De 8 h 30 à 10 h 30 et de 16 h 30 à 21 heures
 
 |
 
-Quai de la Halle-à-Marée, quai d'Alger, quai de Frontignan
+Quai de la Halle-à-Marée Quai d'Alger
+
+Quai de Frontignan
 
 |
 
@@ -374,7 +390,29 @@ De 8 h 30 à 10 h 30 et de 17 h 30 à 21 heures
 
 |
 
-Quai du Général-de-Gaulle (rive droite), quai du 19-Mars-1962
+Quai du Général-de-Gaulle (rive droite)
+
+Quai du 19-Mars-1962
+
+|
+
+|
+
+|
+
+LES SAINTES-MARIES-DE-LA-MER
+
+|
+
+13460
+
+|
+
+De 15 heures à 19 heures
+
+|
+
+Quai doté d'une potence (entre le quai des Brumes et le quai Amiral)
 
 |
 
@@ -410,7 +448,7 @@ MARTIGUES
 
 |
 
-De 8 heures à 11 heures et de 15 h 30 à 18 h 30
+De 8 heures à 11 heures et 15 h 30 à 18 h 30
 
 |
 
@@ -430,7 +468,7 @@ MARSEILLE
 
 |
 
-De 8 heures à 11 heures et de 15 h 30 à 18 h 30
+De 8 heures à 11 heures et 15 h 30 à 18 h 30
 
 |
 
@@ -472,7 +510,7 @@ De 8 h 30 à 11 h 30 et de 14 heures à 16 heures
 
 |
 
-Quai des Pêcheurs
+Quai des pêcheurs
 
 |
 
@@ -506,7 +544,9 @@ NICE
 
 |
 
-Du 15 avril au 31 juillet : de 8 heures à 11 heures et de 18 heures à 22 heures. Du 1er août au 14 avril : de 8 heures à 11 heures et de 17 heures à 20 heures
+Du 15 avril au 31 juillet : de 8 heures à 11 heures et de 18 heures à 22 heures
+
+Du 1er août au 14 avril : de 8 heures à 11 heures et de 17 heures à 20 heures
 
 |
 
@@ -526,11 +566,13 @@ CANNES
 
 |
 
-Du 15 avril au 31 juillet : de 8 heures à 11 heures et de 18 heures à 22 heures. Du 1er août au 14 avril : de 8 heures à 11 heures et de 17 heures à 20 heures
+Du 15 avril au 31 juillet : de 8 heures à 11 heures et de 18 heures à 22 heures
+
+Du 1er août au 14 avril : de 8 heures à 11 heures et de 17 heures à 20 heures
 
 |
 
-Vieux-Port, arrondi du quai Saint-Pierre ou arrondi du quai Laubeuf
+Vieux-port, arrondi du quai Saint-Pierre ou arrondi du quai Laubeuf
 
 |
 
@@ -546,7 +588,7 @@ SARI-SOLENZARA
 
 |
 
-Lundi au vendredi : de 8 heures à 18 heures
+Lundi au vendredi-de 8 heures à 18 heures
 
 |
 
@@ -566,7 +608,7 @@ BONIFACIO
 
 |
 
-Lundi au vendredi : de 8 heures à 18 heures
+Lundi au vendredi-de 8 heures à 18 heures
 
 |
 
@@ -584,7 +626,7 @@ BASTIA
 
 |
 
-Lundi au vendredi : de 8 heures à 18 heures
+Lundi au vendredi-de 8 heures à 18 heures
 
 |
 
@@ -602,7 +644,7 @@ SAINT-FLORENT
 
 |
 
-Lundi au vendredi : de 8 heures à 18 heures
+Lundi au vendredi-de 8 heures à 18 heures
 
 |
 
@@ -620,7 +662,7 @@ CALVI
 
 |
 
-Lundi au vendredi : de 8 heures à 18 heures
+Lundi au vendredi-de 8 heures à 18 heures
 
 |
 
@@ -638,7 +680,7 @@ PORTO-VECCHIO
 
 |
 
-Lundi au vendredi : de 8 heures à 18 heures
+Lundi au vendredi-de 8 heures à 18 heures
 
 |
 
@@ -648,7 +690,7 @@ Lundi au vendredi : de 8 heures à 18 heures
 
 |
 
-SANTA-MARIA-POGGIO
+SANTA-MARIA-POGHJU
 
 |
 
@@ -656,7 +698,7 @@ SANTA-MARIA-POGGIO
 
 |
 
-Lundi au vendredi : de 8 heures à 18 heures
+Lundi au vendredi-de 8 heures à 18 heures
 
 |
 
