@@ -14,6 +14,8 @@ L'autorité administrative lui transmet ensuite le modèle d'attestation de suiv
 
 Toute modification de la déclaration d'intention sera notifiée, par les soins de la personne qui réalise des prestations de formation, à l'autorité administrative concernée.
 
+Toute personne qui réalise des prestations de formation est mentionnée par la direction concernée sur une liste diffusable pour consultation par le public. Le maintien sur cette liste est subordonné au respect des conditions indiquées dans le présent cahier des charges et à la réalisation d'au moins une prestation de formation sur une période couvrant deux bilans annuels successifs.
+
 B. ― Les pièces administratives :
 
 La personne qui réalise la prestation de formation tient à disposition de la direction régionale de l'alimentation, de l'agriculture et de la forêt, de la direction de l'alimentation, de l'agriculture et de la forêt, ou de la direction des territoires, de l'alimentation et de la mer, selon le territoire concerné, les pièces administratives décrivant les moyens pédagogiques et techniques déployés pour mettre en œuvre la formation. Elles contiennent les informations suivantes :
