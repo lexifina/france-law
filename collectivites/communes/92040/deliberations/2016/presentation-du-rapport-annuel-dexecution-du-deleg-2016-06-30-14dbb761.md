@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Présentation du rapport annuel d’exécution du délégataire pour l’exploitation de la crèche « l’Ile aux Pirates ». Exercice 2015
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2016-06-30
+- Matière : PETITE ENFANCE
+- Objet : Présentation du rapport annuel d’exécution du délégataire pour l’exploitation de la crèche « l’Ile aux Pirates ». Exercice 2015
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQ4NDcsInB1ciI6ImJsb2JfaWQifX0=--2e7901f686ab57a1315ec1c01f2840ff80c3f15e/300616_12.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
