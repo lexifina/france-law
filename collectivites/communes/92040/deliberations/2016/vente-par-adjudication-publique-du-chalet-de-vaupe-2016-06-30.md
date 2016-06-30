@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Vente par adjudication publique du Chalet de Vaupéreux sis 184 route de Bièvres à Verrières-le-Buisson. (Essonne)
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2016-06-30
+- Matière : PATRIMOINE
+- Objet : Vente par adjudication publique du Chalet de Vaupéreux sis 184 route de Bièvres à Verrières-le-Buisson. (Essonne)
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQ4NTQsInB1ciI6ImJsb2JfaWQifX0=--887d92b5ec597e507f437bfef0d43e59c2b2a04b/300616_38.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
