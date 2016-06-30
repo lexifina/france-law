@@ -1682,9 +1682,7 @@ Article 5 de l'arrêté du 2 février 2011 relatif à l'agrément du matériel e
 
 |
 
-Décret n° 2007-1557 du 2 novembre 2007 relatif aux installations nucléaires de base (INB) et au contrôle, en matière de sûreté nucléaire,
-
-du transport de substances radioactives
+Décret n° 2007-1557 du 2 novembre 2007 relatif aux installations nucléaires de base (INB) et au contrôle, en matière de sûreté nucléaire, du transport de substances radioactives
 
 |
 
@@ -1697,54 +1695,6 @@ Article 3
 |
 
 1 an
-
-|
-
-Autorisation de mise en service d'une INB (et mise en service partielle)
-
-|
-
-Articles 4 et 20
-
-|
-
-1 an
-
-|
-
-Autorisation de changement d'exploitant d'une INB
-
-|
-
-Articles 4 et 29
-
-|
-
-3 ans
-
-|
-
-Autorisation de modification du périmètre d'une INB
-
-|
-
-Articles 4 et 30
-
-|
-
-3 ans
-
-|
-
-Modification du décret d'autorisation de création faisant l'objet d'une procédure allégée définie par le décret n° 2007-1557 du 2 novembre 2007
-
-|
-
-Articles 4 et 32
-
-|
-
-3 ans
 
 |
 
@@ -1793,30 +1743,6 @@ Article 22
 |
 
 6 mois
-
-|
-
-Décision de dispense de la déclaration prévue à l'article 26
-
-|
-
-Article 27
-
-|
-
-1 an
-
-|
-
-Décision de déclassement d'une INB
-
-|
-
-Article 40
-
-|
-
-1 an
 
 |
 
