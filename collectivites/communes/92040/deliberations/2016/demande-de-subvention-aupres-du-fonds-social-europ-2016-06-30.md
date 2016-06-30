@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Demande de subvention auprès du Fonds Social Européen dans le cadre de l’expérimentation du projet « Espace Accompagnement Santé et Insertion »
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2016-06-30
+- Matière : SANTE
+- Objet : Demande de subvention auprès du Fonds Social Européen dans le cadre de l’expérimentation du projet « Espace Accompagnement Santé et Insertion »
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQ1NjMsInB1ciI6ImJsb2JfaWQifX0=--3b59621aceae4bef5c4bd3592911e8e8625f14ee/300616_19.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
