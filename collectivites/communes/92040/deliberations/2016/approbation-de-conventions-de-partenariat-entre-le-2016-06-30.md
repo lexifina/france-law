@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Approbation de conventions de partenariat entre les espaces ludiques isséens, la ludothèque municipale de Meudon et le Centre national du Jeu à Boulogne-Billancourt
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2016-06-30
+- Matière : CULTURE
+- Objet : Approbation de conventions de partenariat entre les espaces ludiques isséens, la ludothèque municipale de Meudon et le Centre national du Jeu à Boulogne-Billancourt
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTUxOTAsInB1ciI6ImJsb2JfaWQifX0=--948ff3661bd87b5ec06b6bae81b42d75a21508c3/300616_22.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
