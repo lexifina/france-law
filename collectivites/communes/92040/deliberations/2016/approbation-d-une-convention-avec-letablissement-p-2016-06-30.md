@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Approbation d'une convention avec l’Etablissement Public Territorial Grand Paris Seine Ouest relative à la mise en maquette, la mise en page et l'impression des articles consacrés à l'actualité territoriale dans le journal Point d' Appui
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2016-06-30
+- Matière : COMMUNICATION
+- Objet : Approbation d'une convention avec l’Etablissement Public Territorial Grand Paris Seine Ouest relative à la mise en maquette, la mise en page et l'impression des articles consacrés à l'actualité territoriale dans le journal Point d' Appui
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQ4NTIsInB1ciI6ImJsb2JfaWQifX0=--6a1e28c39e10dde62b338500dc59f0d8f9d0b1d7/300616_33.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
