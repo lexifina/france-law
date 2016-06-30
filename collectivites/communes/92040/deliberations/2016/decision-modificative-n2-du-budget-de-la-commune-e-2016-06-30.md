@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Décision modificative n°2 du budget de la commune. Exercice 2016
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2016-06-30
+- Matière : FINANCES
+- Objet : Décision modificative n°2 du budget de la commune. Exercice 2016
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTU0ODEsInB1ciI6ImJsb2JfaWQifX0=--d7616996e92751e7b8603ae64100b4b2e51b397e/300616_24.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
