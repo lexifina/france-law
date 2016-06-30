@@ -1,0 +1,9 @@
+# Réponse à la question SEQ160421071
+
+- Question : [SEQ160421071](seq160421071.md) — Observatoire des finances locales
+
+## Réponse
+
+*Collectivités territoriales, JO du 2016-06-30, page 2900*
+
+L'article 113 de la loi n° 2015-991 du 7 août 2015 portant nouvelle organisation territoriale de la République a modifié l'article L. 1211-4 du code général des collectivités locales (CGCT). Le comité des finances locales (CFL) se voit ainsi confier deux nouvelles missions : établir, collecter, analyser et mettre à jour les données et les statistiques portant sur la gestion des collectivités territoriales et diffuser ces travaux, afin de favoriser le développement des bonnes pratiques ; réaliser des évaluations de politiques publiques locales. Le comité des finances locales conserve les autres missions qui figuraient déjà dans l'article L. 1211-4, notamment la production d'un rapport annuel sur la situation financière des collectivités locales. Ces missions peuvent être confiées par le CFL à une formation spécialisée, dénommée observatoire des finances et de la gestion publique locale (OFGPL). Cet observatoire est présidé par le Président du CFL. Il comporte des représentants de toutes ses composantes et a donc vocation à comporter à la fois des représentants des associations d'élus et des représentants de l'État ; les représentants des associations d'élus sont désignés par le président du CFL. L'observatoire peut par ailleurs bénéficier du concours de fonctionnaires territoriaux et de l'État, et peut solliciter le concours de toute personne pouvant éclairer ses travaux. Il est actuellement envisagé que l'observatoire se dote d'un comité d'orientation, en charge du pilotage, et d'un comité scientifique et technique, en charge du suivi des travaux. Le détail des fonctions de ces deux comités, de même que leur composition et les modalités de financement de l'observatoire, font encore l'objet d'échanges au sein du comité des finances locales.
