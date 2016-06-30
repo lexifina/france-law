@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Modification des tarifs des services publics locaux
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2016-06-30
+- Matière : FINANCES
+- Objet : Modification des tarifs des services publics locaux
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQ4NTAsInB1ciI6ImJsb2JfaWQifX0=--54b12631ba851ee435b7b773d7e6eb7e299afe26/300616_26.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
