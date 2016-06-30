@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Opération du Fort. Approbation du bilan prévisionnel actualisé au 31 décembre 2015 et du compte-rendu d’activité à la collectivité
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2016-06-30
+- Matière : URBANISME
+- Objet : Opération du Fort. Approbation du bilan prévisionnel actualisé au 31 décembre 2015 et du compte-rendu d’activité à la collectivité
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTU3NzYsInB1ciI6ImJsb2JfaWQifX0=--95a68b1fafc2d8aed137b9009990ad770c52d673/300616_49.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
