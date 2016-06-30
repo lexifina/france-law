@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Approbation d’une convention de mise à disposition à titre gratuit au profit d’Enedis d’un terrain sis 9 rue Danton/rue Delahaye
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2016-06-30
+- Matière : PATRIMOINE
+- Objet : Approbation d’une convention de mise à disposition à titre gratuit au profit d’Enedis d’un terrain sis 9 rue Danton/rue Delahaye
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTUxOTQsInB1ciI6ImJsb2JfaWQifX0=--7152bbabdd683907b8aab1b5a38953d61e3da113/300616_41.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
