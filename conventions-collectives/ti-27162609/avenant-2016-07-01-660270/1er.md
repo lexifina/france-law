@@ -1,0 +1,25 @@
+# Article 1er
+
+Le texte de l'article 28 de l'accord relatif aux « Modalités de mise en œuvre du CPF » est modifié comme suit :
+
+« 1. Le salarié mobilise à son initiative et en dehors du temps de travail, les heures acquises sur son compte personnel de formation.
+
+2. Le salarié mobilise les heures acquises sur son compte personnel de formation, avec l'accord de l'employeur, en tout ou partie pendant le temps de travail, selon les modalités suivantes.
+
+a) Le salarié permanent formule sa demande auprès de son employeur.
+
+b) Le salarié intérimaire formule sa demande pendant une mission ou dans un délai de 1 mois à compter de la fin de celle-ci, auprès de l'entreprise de travail temporaire au sein de laquelle il l'a effectuée. Cette demande est effectuée dans les mêmes conditions qu'un salarié intérimaire titulaire d'un contrat de mission.
+
+Le salarié doit à cette occasion solliciter l'accord de l'employeur sur le contenu et le calendrier de la formation au minimum :
+
+– 60 jours avant le début de la formation si celle-ci dure moins de 6 mois ;
+
+– 120 jours avant le début de la formation si celle-ci dure au moins 6 mois.
+
+L'autorisation préalable de l'employeur porte uniquement sur le calendrier de la formation lorsque celle-ci :
+
+– vise l'acquisition du socle de connaissances et de compétence défini conformément aux dispositions légales et réglementaires en vigueur ou un accompagnement à la validation des acquis de l'expérience ;
+
+– est suivie dans le cadre de l'abondement de 100 heures supplémentaires, ou de 130 heures pour les salariés à temps partiel, mis en œuvre au terme de l'état des lieux récapitulatif du parcours professionnel du salarié » visé à l'article 44.2 du présent accord.
+
+A compter de la réception de la demande, l'employeur dispose d'un délai de 30 jours calendaires pour notifier sa réponse au salarié. L'absence de réponse de l'employeur dans ce délai vaut acceptation de la demande. »
