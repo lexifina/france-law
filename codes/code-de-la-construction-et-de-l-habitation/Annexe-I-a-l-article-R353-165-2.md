@@ -236,7 +236,7 @@ Article 12
 
 Prestations
 
-En application des dispositions de l'article L. 113-3 du code de la consommation, les prix des différentes prestations offertes aux résidents doivent être affichés dans l'établissement.
+En application des dispositions de l'article L. 112-1 du code de la consommation, les prix des différentes prestations offertes aux résidents doivent être affichés dans l'établissement.
 
 Les prestations obligatoirement intégrées dans la redevance et non prises en compte pour le calcul de l'APL, et de ce fait non prises en compte au titre des charges récupérables, sont les suivantes :
 
@@ -406,7 +406,7 @@ pour le calcul de l'APL
 
 |
 
-Logement T 1
+Logement T 1 |
 
 |
 
@@ -414,9 +414,7 @@ Logement T 1
 
 |
 
-|
-
-Logement T 1'
+Logement T 1' |
 
 |
 
@@ -424,9 +422,7 @@ Logement T 1'
 
 |
 
-|
-
-Logement T 1 bis
+Logement T 1 bis |
 
 |
 
@@ -434,9 +430,7 @@ Logement T 1 bis
 
 |
 
-|
-
-Logement T 2
+Logement T 2 |
 
 |
 
@@ -444,9 +438,7 @@ Logement T 2
 
 |
 
-|
-
-Logement T 3
+Logement T 3 |
 
 |
 
@@ -454,9 +446,7 @@ Logement T 3
 
 |
 
-|
-
-Logement T 4
+Logement T 4 |
 
 |
 
@@ -464,9 +454,7 @@ Logement T 4
 
 |
 
-|
-
-Logement T 5
+Logement T 5 |
 
 |
 
@@ -474,9 +462,7 @@ Logement T 5
 
 |
 
-|
-
-Logement T 6
+Logement T 6 |
 
 |
 
@@ -484,27 +470,17 @@ Logement T 6
 
 |
 
-|
-
-(*) Normes des typologies définies par l'arrêté du 10 juin 1996.
-
-|
+(*) Normes des typologies définies par l'arrêté du 10 juin 1996. |
 
 3. Surface totale des locaux à usage collectif : mètres carrés de surface habitable ;
 
 Se décomposant comme suit :
 
-TYPE DE LOCAL
+TYPE DE LOCAL |
 
-|
+SURFACE HABITABLE |
 
-SURFACE HABITABLE
-
-|
-
-NOMBRE
-
-|
+NOMBRE |
 
 |
 

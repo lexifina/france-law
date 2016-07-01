@@ -260,7 +260,7 @@ Dans les établissements conventionnés au titre de l'aide personnalisée au log
 
 L'augmentation annuelle du prix de ces prestations est encadrée par un arrêté du ministre de l'économie et des finances en application de l'article L. 342-3 du même code.
 
-En application de l'article L. 113-3 du code de la consommation, les prix des différentes prestations offertes aux résidents doivent être affichés dans l'établissement.
+En application de l'article L. 112-1 du code de la consommation, les prix des différentes prestations offertes aux résidents doivent être affichés dans l'établissement.
 
 Les prestations obligatoirement intégrées dans la redevance et non prises en compte pour le calcul de l'APL, et de ce fait non prises en compte au titre des charges récupérables, sont les suivantes :
 

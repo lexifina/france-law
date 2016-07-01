@@ -180,7 +180,7 @@ Lutter contre l'exclusion bancaire |
 
 (26) Le taux d'effort des ménages du premier décile de revenu pour les dépenses de santé restant à leur charge après remboursement des organismes d'assurance maladie complémentaire est le montant restant à la charge de ces ménages par rapport à leur revenu moyen par unité de consommation.
 
-(27) Le nombre de ménages surendettés est le nombre de ménages dont la situation, selon l'article L. 330-1 du code de la consommation, est caractérisée par l'impossibilité manifeste pour le débiteur de bonne foi de faire face à l'ensemble de ses dettes non professionnelles exigibles et à échoir.
+(27) Le nombre de ménages surendettés est le nombre de ménages dont la situation, selon l'article L. 711-1 du code de la consommation, est caractérisée par l'impossibilité manifeste pour le débiteur de bonne foi de faire face à l'ensemble de ses dettes non professionnelles exigibles et à échoir.
 
 (28) La part des redépôts est la part des dossiers déposés une nouvelle fois parmi l'ensemble des dossiers déposés une année donnée à la commission de surendettement de la Banque de France.
 
