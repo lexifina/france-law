@@ -1,7 +1,7 @@
-# Article 11 bis
+# Article 10
 
-Portabilité
+Les salariés entrant dans le champ d'application du présent accord et couverts collectivement par les garanties frais de santé bénéficient des dispositions légales sur le maintien du régime frais de santé en cas de cessation du contrat de travail ouvrant droit à prise en charge par le régime d'assurance chômage selon les conditions définies par les textes légaux et ce à compter de la date fixée par la loi. Dispositions figurant en annexe III au présent avenant pour information.
 
-Les salariés bénéficient des dispositions légales sur le maintien des garanties de protection sociale complémentaire en cas de cessation du contrat de travail ouvrant droit à prise en charge par le régime d'assurance chômage selon les conditions définies par les textes légaux, et ce à compter de la date fixée par la loi. Ces dispositions figurent pour information en annexe III au présent avenant.
+Pour bénéficier des prestations, le demandeur d'emploi bénéficiant du maintien des garanties doit fournir l'ensemble des justificatifs demandés au salarié auxquels s'ajoute le justificatif de versement des allocations chômage du mois correspondant à celui pour lesquelles les prestations demandées sont dues.
 
-Pour bénéficier des prestations, le demandeur d'emploi bénéficiant du maintien des garanties doit fournir l'ensemble des justificatifs demandés au salarié, auxquels s'ajoute le justificatif de versement des allocations chômage du mois correspondant à celui pour lequel les prestations demandées sont dues.
+(ancien article 11 bis)
