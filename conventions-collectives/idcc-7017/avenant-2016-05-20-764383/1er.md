@@ -1,0 +1,27 @@
+# Article 1er
+
+Le quatrième alinéa de l'article 6.2 intitulé « Relais mensualisation » et le neuvième alinéa de l'article 7 intitulé « Garantie incapacité permanente » de l'accord collectif du 10 janvier 2012traitant des revalorisations des prestations sont abrogés.
+
+L'article 9 intitulé « Dispositions communes » de l'accord collectif du 10 janvier 2012 est désormais rédigé comme suit :
+
+9.1. « Maintien des prestations
+
+Les garanties du présent régime cessent à la rupture du contrat de travail sous réserve :
+
+– du maintien des prestations incapacité temporaire ou incapacité permanente en cours de service   ;
+
+– du maintien de la garantie décès aux bénéficiaires de prestations incapacité temporaire ou incapacité permanente durant toute la durée de versement de celles-ci.
+
+9.2. Maintien au titre de la portabilité
+
+Les salariés bénéficient des dispositions légales sur le maintien des garanties de protection sociale complémentaire en cas de cessation du contrat de travail ouvrant droit à prise en charge par le régime d'assurance chômage selon les conditions définies par les textes légaux et ce à compter de la date fixée par la loi.
+
+Pour bénéficier des prestations, le demandeur d'emploi bénéficiant du maintien des garanties doit fournir l'ensemble des justificatifs demandés au salarié, auxquels s'ajoute le justificatif de versement des allocations chômage du mois correspondant à celui pour lequel les prestations demandées sont dues. »
+
+Pour information, il est ajouté une annexe I relative aux dispositions légales sur la portabilité à la fin du présent avenant.
+
+9.3. Revalorisation des prestations
+
+À la fin de chaque année civile, la revalorisation des prestations incapacité de travail temporaire et permanente est examinée par le conseil d'administration de l'institution lequel fixe, pour chaque exercice, le coefficient servant à la revalorisation des prestations en cours de service.
+
+Le coefficient de revalorisation de la prestation rente d'éducation ainsi que la périodicité sont fixés par l'OCIRP. »
