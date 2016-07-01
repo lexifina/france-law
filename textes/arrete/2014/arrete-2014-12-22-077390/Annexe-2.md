@@ -76,7 +76,7 @@ Conformément à l’article 1er de l’arrêté du 8 février 2016 (NOR : DEVR1
 
 - Raccordement d’un bâtiment résidentiel à un réseau de chaleur / Fiche d’opération standardisée n°BAR-TH-137
 
-- Système de variation électronique de vitesse sur une pompe / Fiche d’opération standardisée n°BAR-TH-139
+- Système de variation électronique de vitesse sur une pompe / Fiche d’opération standardisée n°BAR-TH-139-
 
 - Climatiseur performant (France d’outre-mer) / Fiche d’opération standardisée n°BAR-TH-141
 
@@ -102,7 +102,9 @@ Conformément au 2° de l’article 5 de l’arrêté du 20 mars 2015 (NOR : DEV
 
 - Lampe à LED de classe A+ / Fiche d’opération standardisée n° BAR-EQ-111
 
-- Systèmes hydro-économes (France métropolitaine) / Fiche d’opération standardisée n° BAR-EQ-112
+Conformément à l’article 1er de l’arrêté du 4 mars 2016 (NOR : DEVR1606276A), la fiche d’opération standardisée est remplacée par la version figurant en annexe dudit arrêté, à compter du 1er juillet 2016.
+
+- Systèmes hydro-économes (France métropolitaine) / Fiche d’opération standardisée n° BAR-EQ-112 (Abrogée à compter du 1er mai 2016)
 
 Conformément au 1° de l’article 5 de l’arrêté du 20 mars 2015 (NOR : DEVR1507213A), la fiche d’opération standardisée ainsi que son annexe 1 sont remplacées par les versions figurant à l’annexe 6 dudit arrêté.
 
@@ -113,6 +115,8 @@ Conformément au 1° de l’article 5 de l’arrêté du 20 mars 2015 (NOR : DEV
 - Réglage des organes d’équilibrage d’une installation de chauffage à eau chaude / Fiche d’opération standardisée n° BAR-SE-104
 
 Liens :
+
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0065 du 17/03/2016, texte n° 4, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=euM7CBfnJRla0RrU96Kfh0mtqoLOiPab_gT-xvWbPuE=
 
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0061 du 12/03/2016, texte n° 5, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=MBOjYK1aF6nQu8_MetCbfkOKybiynhwl4zWmqSZPghk=
 
@@ -127,7 +131,3 @@ Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'ex
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0075 du 29/03/2015, texte n° 6, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=xhmSfzOnsCkjNrGahHphZrmpoFhR61mGJ7APKjTA6As=
 
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0297 du 24/12/2014, texte n° 18, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=FGBMw6bzzOGU6LHfYz6-OOYiF3mTkUVDd1KHOMS6u0s=
-
-NOTA :
-
-Se reporter aux conditions d’application prévues à l’article 6 de l’arrêté du 8 février 2016 (NOR : DEVR1603528A).
