@@ -214,11 +214,11 @@ Article R. 521-1
 
 Exemptions au règlement (UE) n° 528/2012 concernant la défense nationale
 
-Décision conjointe du ministre de la défense et du ministre chargé de l'environnement
+Arrêté conjoint du ministre de la défense et du ministre chargé de l'environnement
 
 |
 
-Article R. 522-2 |
+Article R. 522-3 |
 
 |
 
@@ -640,99 +640,31 @@ Article R. 521-34
 
 |
 
-Autorisation provisoire de mise à disposition sur le marché d'un produit biocide contenant une nouvelle substance active biocide en cours d'examen
+Dérogations au titre de l'article 55 du règlement (UE) n° 528/2012
 
 |
 
-Article R. 522-4
-
-|
-
-|
-
-Autorisation nationale de mise à disposition sur le marché et de renouvellement d'autorisation nationale d'un produit biocide
-
-|
-
-Articles R. 522-6 et R. 522-7
+Article R. 522-6
 
 |
 
 |
 
-Autorisation nationale de mise à disposition sur le marché par reconnaissance mutuelle (simultanée ou séquentielle)
+Opposition à une décision du directeur général de l'agence mentionnée à l'article L. 1313-1 du code de la santé publique relative à la délivrance, à la modification ou au retrait de l'autorisation de mise sur le marché ou à l'expérimentation d'un produit biocide
 
 |
 
-Articles R. 522-9, R. 522-10 et R. 522-11
-
-|
-
-|
-
-Modification d'autorisation nationale de mise à disposition sur le marché d'un produit biocide (modification administrative)
-
-|
-
-Articles R. 522-12
+Articles R. 522-11
 
 |
 
 |
 
-Modification d'autorisation nationale de mise à disposition sur le marché d'un produit biocide (modification mineure)
+Mesure d'interdiction, de restriction ou d'application de prescriptions particulières concernant la mise sur le marché, la délivrance, l'utilisation et la détention d'un produit biocide
 
 |
 
-Articles R. 522-13 à R. 522-15
-
-|
-
-|
-
-Modification d'autorisation nationale de mise à disposition sur le marché d'un produit biocide (modification majeure)
-
-|
-
-Articles R. 522-16 à R. 522-18
-
-|
-
-|
-
-Autorisation simplifiée de mise à disposition sur le marché d'un produit biocide
-
-|
-
-Article R. 522-20
-
-|
-
-|
-
-Autorisation de mise à disposition sur le marché de produits biocides identiques
-
-|
-
-Article R. 522-21
-
-|
-
-|
-
-Autorisation d'expériences ou d'essais sur des produits biocides ou des substances actives biocides
-
-|
-
-Articles R. 522-23 et R. 522-24 |
-
-|
-
-Autorisation de commerce parallèle
-
-|
-
-Article R. 522-26
+Articles R. 522-15
 
 |
 

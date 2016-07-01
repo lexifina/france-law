@@ -642,18 +642,6 @@ Arre ̂ te ́ du 20 de ́ cembre 2007 relatif a ̀ l'agrément des organismes pr
 
 |
 
-Exemptions au règlement 528/2012 sur les produits biocides pour les intérêts de la défense nationale
-
-|
-
-Article L. 522-1
-
-|
-
-4 mois
-
-|
-
 Autorisation de mise sur le marché d'organismes génétiquement modifiés
 
 |
