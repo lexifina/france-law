@@ -12,9 +12,9 @@ D. I. Les acquisitions d'immeubles ruraux à condition :
 
 1° Qu'au jour de l'acquisition les immeubles soient exploités depuis au moins deux ans :
 
-― soit en vertu d'un bail consenti à l'acquéreur personne physique, à son conjoint, à ses ascendants ou aux ascendants de son conjoint ou à la personne morale acquéreur ;
+– soit en vertu d'un bail consenti à l'acquéreur personne physique, à son conjoint, à ses ascendants ou aux ascendants de son conjoint ou à la personne morale acquéreur ;
 
-― soit en vertu d'une mise à disposition par le preneur au profit de la personne morale acquéreur ;
+– soit en vertu d'une mise à disposition par le preneur au profit de la personne morale acquéreur ;
 
 2° Que l'acquéreur prenne l'engagement, pour lui et ses ayants cause à titre gratuit, de mettre personnellement en valeur lesdits biens pendant un délai minimal de cinq ans à compter de la date du transfert de la propriété. A défaut d'exécution de cet engagement ou si les biens sont aliénés à titre onéreux en totalité ou en partie dans ce délai de cinq ans, l'acquéreur ou ses ayants cause à titre gratuit sont, sous réserve du cas de force majeure, déchus de plein droit du bénéfice du taux réduit pour les immeubles dont ils cessent l'exploitation ou qui sont aliénés à titre onéreux. Toutefois, l'aliénation du bien acquis consentie à titre onéreux par l'acquéreur à un descendant ou au conjoint de celui-ci n'entraîne pas la déchéance du bénéfice du taux réduit, si le sous-acquéreur s'engage à poursuivre personnellement l'exploitation jusqu'à l'expiration du délai de cinq ans à compter de la date du transfert de propriété initial.
 
@@ -32,7 +32,7 @@ II. Les acquisitions d'immeubles ruraux situés dans les zones prévues au I, so
 
 Ce taux s'applique aux acquisitions effectuées par l'acquéreur à hauteur d'une valeur globale n'excédant pas 99 000 €.
 
-F. Les ventes résultant de l'application des articles L. 181-5 à L. 181-8 du code rural et de la pêche maritime relatifs à la mise en valeur agricole des terres incultes, des terres laissées à l'abandon et des terres insuffisamment exploitées de la Guadeloupe, de la Martinique, de la Réunion et de la Guyane.
+F. Les ventes résultant de l'application des articles L. 181-18 à L. 181-24 du code rural et de la pêche maritime relatifs à la mise en valeur agricole des terres incultes, des terres laissées à l'abandon et des terres insuffisamment exploitées de la Guadeloupe, de la Martinique, de la Réunion et de la Guyane.
 
 G. (Abrogé).
 
@@ -44,4 +44,4 @@ J. (Dispositions devenues sans objet)
 
 K. Dans les départements d'outre-mer, les acquisitions de terrains compris dans le périmètre de lotissements qui sont agréés dans des conditions fixées par décret.
 
-L.-Les acquisitions en vue de leur revente de lots de copropriétés faisant l'objet d'un plan de sauvegarde, en application de l'article L. 615-1 du code de la construction et de l'habitation, par des sociétés anonymes et des sociétés anonymes coopératives de production d'habitations à loyers modérés ainsi que par des sociétés d'économie mixte.
+L. – Les acquisitions en vue de leur revente de lots de copropriétés faisant l'objet d'un plan de sauvegarde, en application de l'article L. 615-1 du code de la construction et de l'habitation, par des sociétés anonymes et des sociétés anonymes coopératives de production d'habitations à loyers modérés ainsi que par des sociétés d'économie mixte.
