@@ -1,0 +1,43 @@
+# Article 1er
+
+Les dispositions de l'article 6 « Taux de cotisation » sont remplacées par :
+
+« Le taux global de cotisation en contrepartie des garanties est fixé à 0,97 % de la tranche A. Il est réparti de la façon suivante :
+
+(En pourcentage.)
+
+|
+
+Cotisation
+
+totale |
+
+A la charge
+
+de l'employeur |
+
+A la charge du salarié |
+
+Décès – Rentes |
+
+0,17 |
+
+0,130 |
+
+0,040 |
+
+Incapacité de travail |
+
+0,30 |
+
+– |
+
+0,300 |
+
+Invalidité |
+
+0,50 |
+
+0,355 |
+
+0,145 |
