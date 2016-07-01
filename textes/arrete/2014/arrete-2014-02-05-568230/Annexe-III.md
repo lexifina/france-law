@@ -248,7 +248,7 @@ Salaires traitement & charges sociales (E)
 
 |
 
-Dotations aux amortissements (F)
+Dotations aux amortissements (F) |
 
 |
 
@@ -256,11 +256,7 @@ Dotations aux amortissements (F)
 
 |
 
-|
-
-Charges financières piste (G)
-
-|
+Charges financières piste (G) |
 
 |
 
@@ -278,9 +274,7 @@ Résultat avant impôt (A ― B ― C ― D ― E ― F ― G)
 
 |
 
-Impôt sur les sociétés
-
-|
+Impôt sur les sociétés |
 
 |
 
@@ -291,6 +285,14 @@ Impôt sur les sociétés
 Résultat net
 
 |
+
+|
+
+|
+
+|
+
+% du chiffre d'affaire correspondant à l'activité réglementée |
 
 |
 

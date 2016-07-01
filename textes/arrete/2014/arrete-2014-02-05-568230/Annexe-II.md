@@ -14,11 +14,21 @@ UNITÉS
 
 COMMENTAIRES |
 
-1 Vente en réseau en m³
+1.1 Vente en réseau
 
 |
 
 XX m³
+
+|
+
+|
+
+|
+
+1.2. Livraisons directes en cuve |
+
+XX m ³
 
 |
 

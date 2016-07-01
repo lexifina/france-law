@@ -562,4 +562,4 @@ PRIX MAXIMUM TTC DE VENTE AU DETAIL AU LITRE
 
 *** AIP : Collecte pour l'Accord Interprofessionnel Pétrolier - Le montant de xxxx € par litre est collecté et facturé par la SARA et intégralement reversé à à la société désignée par les signataires des accords AIP. Le montant de la collecte AIP est exclu de la base de calcul des octrois de mer et de la taxe spéciale de consommation mentionnés lignes 15, 16 et 17.
 
-**** C2E : Contribution fondée sur le décret n°2010-1664 du 29/12/2010 applicable jusqu’au 31 décembre 2014 calculée sur la base des cours EMMY
+**** C2E : Le montant relatif aux obligations d'économies d'énergie prévues à l'article L. 221-1 du code de l'énergie est de [valeur monétaire en euros par hectolitre précisée par l'arrêté préfectoral], et celui relatif aux obligations d'économies d'énergie spécifiques à réaliser au bénéfice des ménages en situation de précarité énergétique prévues à l'article L. 221-1-1 du code de l'énergie est de [valeur monétaire en euros par hectolitre précisée par l'arrêté préfectoral].
