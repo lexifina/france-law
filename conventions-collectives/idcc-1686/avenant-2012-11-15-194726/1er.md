@@ -1,3 +1,0 @@
-# Article 1er
-
-En cas de rupture anticipée du contrat de professionnalisation d'une durée au moins égale à 12 mois, l'OPCA désigné par la branche poursuivra le financement de la formation pendant 3 mois si le bénéficiaire n'est pas à l'origine de la rupture, sauf en cas de faute grave ou lourde.
