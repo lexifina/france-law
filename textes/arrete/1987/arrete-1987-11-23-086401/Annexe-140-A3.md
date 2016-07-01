@@ -2,7 +2,9 @@
 
 LISTE DES ORGANISMES HABILITÉS ET DE LEURS COMPÉTENCES RESPECTIVES
 
-1. Organismes habilités pour la délivrance, le renouvellement, la suspension ou le retrait de certificats d'approbation relatifs à l'évaluation de la conformité des équipements marins au nom de l'Etat, visés par la division 311, annexe A.1 : (1) (2) (3) :
+1. La présente annexe est valable jusqu'au 18 septembre 2016 (date d'application de la directive 2014/90 UE).
+
+2. Organismes habilités pour la délivrance, le renouvellement, la suspension ou le retrait de certificats d'approbation relatifs à l'évaluation de la conformité des équipements marins au nom de l'Etat, visés par la division 311, annexe A.1 : (1) (2) (3) :
 
 ORGANISMES HABILITÉS
 
@@ -42,7 +44,7 @@ A.1/8 Equipements relevant de la convention SOLAS, Chapitre II-1
 
 |
 
-2. Organismes habilités pour la délivrance, le renouvellement, la suspension ou le retrait de certificats d'approbation relatifs à l'évaluation de la conformité des équipements marins au nom de l'Etat, visés par la division 311, annexe A.2, ou toute autre division du présent règlement :
+3. Organismes habilités pour la délivrance, le renouvellement, la suspension ou le retrait de certificats d'approbation relatifs à l'évaluation de la conformité des équipements marins au nom de l'Etat, visés par la division 311, annexe A.2, ou toute autre division du présent règlement :
 
 ORGANISMES HABILITÉS
 
@@ -96,7 +98,13 @@ Division 332 : DAHMAS
 
 |
 
-Division 333 : Rina Services SpA |
+Division 333 : Engins collectifs de sauvetage
+
+|
+
+Division 333 : Rina Services SpA
+
+|
 
 Division 335 : LRIT
 
@@ -106,9 +114,7 @@ Division 361 : dispositifs de détection et d'alarme d'envahissement
 
 |
 
-3. Organismes habilités pour contrôler (4) ou agréer (5) les conteneurs :
-
-- le bureau des conteneurs de la Société nationale des chemins de fer français ;
+4. Organismes habilités pour contrôler ou agréer les conteneurs et les ACEP :
 
 - le Bureau Veritas ;
 
@@ -116,25 +122,31 @@ Division 361 : dispositifs de détection et d'alarme d'envahissement
 
 - l'American Bureau of Shipping ;
 
-- le groupement des associations de propriétaires d'appareils à vapeur et électriques.
+- le groupement des associations de propriétaires d'appareils à vapeur et électriques ;
 
-4. Organismes habilités pour délivrer les approbations de structure prévues à l'article 42-6 du décret susmentionné :
+- le Lloyd's Register EMEA.
 
-- le Bureau Veritas ;
-
-- le DNV-GL AS ;
-
-- le RINA Services.
-
-5. Organismes habilités pour procéder au mesurage de l'exposition aux vibrations mécaniques des personnes employées à bord des navires en application du décret n° 2005-748 du 4 juillet 2005 relatif aux prescriptions de sécurité et de santé applicables en cas d'exposition aux risques dus aux vibrations mécaniques des personnels employés à bord des navires :
+5. Organismes habilités pour délivrer les approbations de structure prévues à l'article 42-6 du décret susmentionné :
 
 - le Bureau Veritas ;
 
 - le DNV-GL AS ;
 
-- le RINA Services s.p.a.
+- le RINA Services ;
 
-6. Organismes habilités pour procéder au mesurage du bruit en application du décret n° 2006-1044 du 23 août 2006 relatif aux prescriptions de sécurité et de santé applicables en cas d'exposition aux risques dus au bruit des personnels employés à bord des navires, sauf en ce qui concerne les mesures prescrites dans le cadre des mises en demeure mentionnées à son article 5 :
+- le Lloyd's Register EMEA.
+
+6. Organismes habilités pour procéder au mesurage de l'exposition aux vibrations mécaniques des personnes employées à bord des navires en application du décret n° 2005-748 du 4 juillet 2005 relatif aux prescriptions de sécurité et de santé applicables en cas d'exposition aux risques dus aux vibrations mécaniques des personnels employés à bord des navires :
+
+- le Bureau Veritas ;
+
+- le DNV-GL AS ;
+
+- le RINA Services s.p.a. ;
+
+- le Lloyd's Register EMEA.
+
+7. Organismes habilités pour procéder au mesurage du bruit en application du décret n° 2006-1044 du 23 août 2006 relatif aux prescriptions de sécurité et de santé applicables en cas d'exposition aux risques dus au bruit des personnels employés à bord des navires, sauf en ce qui concerne les mesures prescrites dans le cadre des mises en demeure mentionnées à son article 5 :
 
 - le Bureau Veritas ;
 
@@ -147,7 +159,3 @@ Division 361 : dispositifs de détection et d'alarme d'envahissement
 (2) Les modules C, D, E et F (au sens de l'annexe 311-1.B de la division 311 du présent règlement) associés aux certificats d'approbation "module B" visés ci-dessus, émis par le Comité national malveillance incendie sécurité SAS, sont invalidés à compter de la date d'entrée en vigueur de la présente annexe. Toutefois, les équipements marqués 1112 (numéro d'organisme notifié du Comité national malveillance incendie sécurité SAS) et fabriqués avant la date d'entrée en vigueur de la présente annexe peuvent être mis à bord jusqu'au 31 décembre 2009.
 
 (3) Les certificats d'approbation émis par le Comité national malveillance incendie sécurité SAS et relatifs aux équipements relevant des items de l'annexe 311-1.A.2 passant à compter du 20 juillet 2009 dans l'annexe 311-1.A.1 de la division 311 du présent règlement (identifiables dans la division 311 sous les mentions "A.1/3.xx Ex A.2/3.yy") sont invalides à compter du 20 juillet 2009.
-
-(4) En application de la décision du 29 juillet 1992 relative à l'habilitation d'organismes de contrôle pour l'agrément des conteneurs.
-
-(5) En application de l'arrêté du 10 juillet 1992 relatif à la procédure d'agrément des conteneurs.

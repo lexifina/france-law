@@ -114,8 +114,8 @@ LISTES DE CERTIFICATS ET DOCUMENTS
 
 55. Certificat international du système antisalissure ;
 
-56. Certificat d'assurance ou autre garantie financière relative à la responsabilité civile pour les dommages dus à la pollution par les hydrocarbures de soute.
+56. Certificat d'assurance ou autre garantie financière relative à la responsabilité civile pour les dommages dus à la pollution par les hydrocarbures de soute ;
 
-(1) A partir de la date d'application de la directive n° 2009/20/CE ;
+57. Document de conformité délivré en vertu du règlement (UE) 2015/757 du Parlement européen et du Conseil du 29 avril 2015 concernant la surveillance, la déclaration et la vérification des émissions de dioxyde de carbone du secteur du transport maritime et modifiant la directive 2009/16/CE (1).
 
-(2) A partir de la date d'application du règlement (CE) n° 392/2009.
+(1) Exigible au 30 avril 2019, conformément au règlement (UE) 2015/757.

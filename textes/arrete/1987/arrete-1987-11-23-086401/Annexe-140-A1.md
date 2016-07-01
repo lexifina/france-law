@@ -32,11 +32,23 @@ Services s.p.a
 
 |
 
+LLOYD'S
+
+REGISTER
+
+EMEA
+
+|
+
 1
 
 |
 
 Permis de navigation
+
+|
+
+-
 
 |
 
@@ -72,11 +84,17 @@ H
 
 |
 
+H
+
+|
+
 3
 
 |
 
 Certificat d'exemption au titre de la Load Line
+
+|
 
 |
 
@@ -112,11 +130,19 @@ H
 
 |
 
+H
+
+|
+
 5
 
 |
 
 Certificat d'exemption au titre de la Solas
+
+|
+
+D
 
 |
 
@@ -154,6 +180,10 @@ H
 
 |
 
+H
+
+|
+
 7
 
 |
@@ -174,11 +204,19 @@ H
 
 |
 
+H
+
+|
+
 8
 
 |
 
 Visites relatives à l'aptitude au transport de gaz liquéfiés en vrac/Certificat international d'aptitude au transport de gaz liquéfié en vrac
+
+|
+
+H
 
 |
 
@@ -216,11 +254,19 @@ H
 
 |
 
+H
+
+|
+
 10
 
 |
 
 Visites relatives à la prévention de la pollution par les hydrocarbures/Certificat international de prévention de la pollution par les hydrocarbures
+
+|
+
+H
 
 |
 
@@ -256,11 +302,19 @@ H
 
 |
 
+H
+
+|
+
 12
 
 |
 
 Visites relatives au registre des apparaux de levage/Approbation du registre
+
+|
+
+H
 
 |
 
@@ -296,11 +350,19 @@ H
 
 |
 
+H
+
+|
+
 14
 
 |
 
 Visites relatives à la prévention de la pollution de l'atmosphère par les navires/Certificat international de prévention de la pollution de l'atmosphère
+
+|
+
+H
 
 |
 
@@ -336,11 +398,19 @@ H
 
 |
 
+H
+
+|
+
 16
 
 |
 
 Visites relatives à la prévention de la pollution par les eaux usées/Certificat international de prévention de la pollution par les eaux usées
+
+|
+
+H
 
 |
 
@@ -376,11 +446,19 @@ H
 
 |
 
+H
+
+|
+
 18
 
 |
 
 Visites relatives à la prévention de la pollution de l'atmosphère par les moteurs/Certificat international de prévention de la pollution de l'atmosphère par les moteurs
+
+|
+
+H
 
 |
 
@@ -416,11 +494,19 @@ H
 
 |
 
+H
+
+|
+
 20
 
 |
 
 Visite relative à la conformité au transport de marchandises dangereuses (circulaire MSC 1266)/Document de conformité prescriptions spéciales applicables aux navires transportant des marchandises dangereuses
+
+|
+
+H
 
 |
 
@@ -456,6 +542,10 @@ H
 
 |
 
+H
+
+|
+
 2. Titres et certificats délivrés au nom de l'Etat pour tous les types de navires :
 
 H : Habilitation comprenant l'étude, l'approbation des plans et documents, la réalisation des visites à bord, la délivrance, le visa et le renouvellement, le retrait et la suspension des titres et certificats en application des dispositions du décret n° 84-810 du 30 août 1984 modifié.
@@ -464,21 +554,41 @@ D : Délivrance d'un certificat d'exemption sur avis conforme du ministre charg�
 
 |
 
-CERTIFICATS/VISITE |
+CERTIFICATS/VISITE
 
-BUREAU VERITAS |
+|
 
-DNV-GL AS |
+BUREAU VERITAS
+
+|
+
+DNV-GL AS
+
+|
 
 RINA
 
-Services s.p.a |
+Services s.p.a
+
+|
+
+LLOYD'S
+
+REGISTER
+
+EMEA
+
+|
 
 1
 
 |
 
 Visites relatives au Certificat international ou national de franc-bord/Certificat de franc-bord
+
+|
+
+H
 
 |
 
@@ -514,11 +624,19 @@ D
 
 |
 
+D
+
+|
+
 3
 
 |
 
 Visites relatives au registre des apparaux de levage/Approbation du registre
+
+|
+
+H
 
 |
 
@@ -554,11 +672,19 @@ H
 
 |
 
+H
+
+|
+
 5
 
 |
 
 Visites relatives à la prévention de la pollution de l'atmosphère par les moteurs/Certificat international de prévention de la pollution de l'atmosphère par les moteurs
+
+|
+
+H
 
 |
 
@@ -580,21 +706,41 @@ H : Habilitation comprenant l'étude, la réalisation des visites à bord et la 
 
 |
 
-CERTIFICATS/VISITE |
+CERTIFICATS/VISITE
 
-BUREAU VERITAS |
+|
 
-DNV-GL AS |
+BUREAU VERITAS
+
+|
+
+DNV-GL AS
+
+|
 
 RINA
 
-Services s.p.a |
+Services s.p.a
+
+|
+
+LLOYD'S
+
+REGISTER
+
+EMEA
+
+|
 
 1
 
 |
 
 Visites relatives au certificat international de jaugeage des navires/Certificat international de jaugeage des navires
+
+|
+
+H
 
 |
 
@@ -630,21 +776,25 @@ H
 
 |
 
+H
+
+|
+
 4. Certificats délivrés au nom de l'Etat pour les navires situés à l'étranger dans une zone formellement déconseillée par le ministère des affaires étrangères.
 
-Conformément au paragraphe III de l'article 3-1 du décret n° 84-810 modifié du 30 août 1984, la délivrance du certificat de gestion de la sécurité du navire peut être déléguée par le ministre chargé de la mer à une société de classification habilitée uniquement lorsque la visite du navire est réalisée dans une zone formellement déconseillée par le ministère des affaires étrangères.
+Conformément au paragraphe III de l'article 3-1 du décret n° 84-810 modifié du 30 août 1984, la délivrance du certificat de gestion de la sécurité du navire et du certificat de travail maritime peut être déléguée par le ministre chargé de la mer à une société de classification habilitée uniquement lorsque la visite du navire est réalisée dans une zone formellement déconseillée par le ministère des affaires étrangères.
 
 Conformément aux articles 3, 4 et 8 du décret n° 2007-937 du 15 mai 2007 relatif à la sûreté des navires, le renouvellement du certificat international de sûreté du navire peut être délégué par le ministre chargé de la mer à une société de classification habilitée au sens de la sûreté uniquement lorsque la visite du navire est réalisée dans une zone formellement déconseillée par le ministère des affaires étrangères.
 
 La carte des zones formellement déconseillées par le ministère des affaires étrangères est disponible sur le lien suivant :
 
-http://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays/.
+http://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays/
 
-H : Habilitation comprenant l'étude, la réalisation des visites à bord et la délivrance, le retrait et la suspension des certificats de gestion de la sécurité, en application des dispositions du décret n° 84-810 modifié du 30 août 1984, ainsi que la réalisation des visites à bord et la délivrance des certificats internationaux de sûreté du navire en application du décret n° 2007-937 du 15 mai 2007.
+H : Habilitation comprenant l'étude, la réalisation des visites à bord et la délivrance, le retrait et la suspension des certificats de gestion de la sécurité du navire et du certificat de travail maritime, en application des dispositions du décret n° 84-810 modifié du 30 août 1984, ainsi que la réalisation des visites à bord et la délivrance des certificats internationaux de sûreté du navire en application du décret n° 2007-937 du 15 mai 2007.
 
 |
 
-CERTIFICATS/ VISITES
+CERTIFICATS/VISITE
 
 |
 
@@ -658,9 +808,15 @@ DNV-GL AS
 
 RINA
 
-Services
+Services s.p.a
 
-s.p.a
+|
+
+LLOYD'S
+
+REGISTER
+
+EMEA
 
 |
 
@@ -684,6 +840,10 @@ H
 
 |
 
+-
+
+|
+
 2
 
 |
@@ -696,10 +856,38 @@ H
 
 |
 
-―
+-
 
 |
 
-―
+-
+
+|
+
+-
+
+|
+
+3
+
+|
+
+Visites relatives au Certificat de travail maritime/Certificat de travail maritime
+
+|
+
+H
+
+|
+
+H
+
+|
+
+H
+
+|
+
+-
 
 |
