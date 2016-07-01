@@ -62,7 +62,7 @@ Chapitre 6 : Fret et courrier
 
 Section 1 : Contrôles de sûreté du fret et du courrier
 
-Section 2 : Inspection/filtrage
+Section 2 : Inspection/ filtrage
 
 Section 3 : Agents habilités
 
@@ -136,23 +136,23 @@ Sous-section 2 : Normes applicables aux équipes cynotechniques
 
 Sous-section 3 : Exigences de formation
 
-Sous-section 4 : Dispositions applicables à l'environnement de travail "Inspection filtrage du fret et du courrier" en déambulation libre
+Sous-section 4 : Dispositions applicables à l'environnement de travail " Inspection filtrage du fret et du courrier " en déambulation libre
 
-Sous-section 5 : Dispositions applicables à l'environnement de travail "Inspection filtrage des bagages de soute"
+Sous-section 5 : Dispositions applicables à l'environnement de travail " Inspection filtrage des bagages de soute "
 
-Sous-section 6 : Dispositions applicables à l'environnement de travail "Fouille de sûreté des locaux de la zone de sûreté à accès réglementé"
+Sous-section 6 : Dispositions applicables à l'environnement de travail " Fouille de sûreté des locaux de la zone de sûreté à accès réglementé "
 
-Sous-section 7 : Dispositions applicables à l'environnement de travail "Contrôle des véhicules"
+Sous-section 7 : Dispositions applicables à l'environnement de travail " Contrôle des véhicules "
 
-Sous-section 8 : Dispositions applicables à l'environnement de travail "Inspection filtrage du fret en méthode de détection à distance d'odeurs d'explosifs"
+Sous-section 8 : Dispositions applicables à l'environnement de travail " Inspection filtrage du fret en méthode de détection à distance d'odeurs d'explosifs "
 
-Sous-section 9 : Dispositions applicables à l'environnement de travail "Inspection filtrage des approvisionnements de bord et des fournitures destinées aux aéroports"
+Sous-section 9 : Dispositions applicables à l'environnement de travail " Inspection filtrage des approvisionnements de bord et des fournitures destinées aux aéroports "
 
-Sous-section 10 : Dispositions applicables à l'environnement de travail "Contrôle des aéronefs"
+Sous-section 10 : Dispositions applicables à l'environnement de travail " Contrôle des aéronefs "
 
-Sous-section 11 : Dispositions applicables à l'environnement de travail "Inspection filtrage des personnes"
+Sous-section 11 : Dispositions applicables à l'environnement de travail " Inspection filtrage des personnes "
 
-Sous-section 12 : Dispositions applicables à l'environnement de travail "Inspection filtrage des bagages de cabine et des objets transportés"
+Sous-section 12 : Dispositions applicables à l'environnement de travail " Inspection filtrage des bagages de cabine et des objets transportés "
 
 Section 10 : Détecteurs de métaux
 
@@ -172,61 +172,61 @@ Titre 1er : Dispositions générales
 
 Chapitre A : Règles générales
 
-Article A-1 I-T - Aérodromes concernés
+Article A-1 I-T-Aérodromes concernés
 
 Par dérogation aux dispositions de la présente annexe, les aérodromes et les zones délimitées des aérodromes visés à l'article 1er du règlement (UE) n° 1254/2009 de la Commission du 18 décembre 2009 peuvent faire l'objet de mesures de sûreté adaptées et procurant un niveau de protection adéquat sur la base d'une évaluation locale des risques.
 
 Ces mesures sont précisées par un arrêté du préfet exerçant les pouvoirs de police sur l'aérodrome, pris en application de l'article R. 213-1-2 du code de l'aviation civile.
 
-Article A-2 I-T - Définitions
+Article A-2 I-T-Définitions
 
 Au sens du présent arrêté, on désigne par :
 
-1. "accès commun" : point de passage des personnes, des véhicules, du fret et des biens vers le côté piste ou une zone de sûreté à accès réglementé d'un aérodrome, dès lors que ce point de passage est utilisable par les usagers de l'aérodrome en dehors de toute disposition particulière limitant cette utilisation à un usager ou à plusieurs usagers identifiés ;
+1. " accès commun " : point de passage des personnes, des véhicules, du fret et des biens vers le côté piste ou une zone de sûreté à accès réglementé d'un aérodrome, dès lors que ce point de passage est utilisable par les usagers de l'aérodrome en dehors de toute disposition particulière limitant cette utilisation à un usager ou à plusieurs usagers identifiés ;
 
-2. "accès privatif" : point de passage vers le côté piste ou vers une zone de sûreté à accès réglementé autre qu'un accès commun ;
+2. " accès privatif " : point de passage vers le côté piste ou vers une zone de sûreté à accès réglementé autre qu'un accès commun ;
 
-3. "analyseur de chaussures (ShSc)" : détecteur de masses métalliques et d'explosifs le cas échéant, se rapportant aux parties basses des membres inférieurs des personnes ;
+3. " analyseur de chaussures (ShSc) " : détecteur de masses métalliques et d'explosifs le cas échéant, se rapportant aux parties basses des membres inférieurs des personnes ;
 
-4. "détecteur de métaux (MDE)" : équipement de détection de masses métalliques contenues dans les colis au sens du point 12.10 de l'annexe du règlement (UE) n° 185/2010 susvisé ;
+4. " détecteur de métaux (MDE) " : équipement de détection de masses métalliques contenues dans les colis au sens du point 12.10 de l'annexe du règlement (UE) n° 185/2010 susvisé ;
 
-5. "détecteur de vapeurs d'explosifs pour le contrôle du fret (ACEDS ou Air Cargo Explosives Detection System)" : système constitué d'un échantillonneur de l'air contenu dans les colis et d'un analyseur permettant la détection d'explosifs ;
+5. " détecteur de vapeurs d'explosifs pour le contrôle du fret (ACEDS ou Air Cargo Explosives Detection System) " : système constitué d'un échantillonneur de l'air contenu dans les colis et d'un analyseur permettant la détection d'explosifs ;
 
-6. "équipement de sûreté" : tout équipement utilisé pour la détection d'articles prohibés ;
+6. " équipement de sûreté " : tout équipement utilisé pour la détection d'articles prohibés ;
 
-7. "personne morale autorisée à occuper le côté piste" : personne morale autorisée par l'exploitant d'aérodrome à occuper le côté piste ou les zones le constituant à des fins professionnelles et pouvant éventuellement exploiter un accès privatif à ces zones ;
+7. " personne morale autorisée à occuper le côté piste " : personne morale autorisée par l'exploitant d'aérodrome à occuper le côté piste ou les zones le constituant à des fins professionnelles et pouvant éventuellement exploiter un accès privatif à ces zones ;
 
-8. "personne morale autorisée à utiliser le côté piste" : personne morale autorisée par l'exploitant d'aérodrome à utiliser le côté piste ou les zones le constituant à des fins professionnelles ;
+8. " personne morale autorisée à utiliser le côté piste " : personne morale autorisée par l'exploitant d'aérodrome à utiliser le côté piste ou les zones le constituant à des fins professionnelles ;
 
-9. "installation commune" : toute installation d'un aérodrome ne se situant pas dans une partie privative ;
+9. " installation commune " : toute installation d'un aérodrome ne se situant pas dans une partie privative ;
 
-10. "lieu à usage exclusif" : partie privative d'un aérodrome située côté piste et occupée par une entité disposant du statut d'occupant de lieu à usage exclusif ;
+10. " lieu à usage exclusif " : partie privative d'un aérodrome située côté piste et occupée par une entité disposant du statut d'occupant de lieu à usage exclusif ;
 
-11. "trafic annuel commercial" : la moyenne du nombre de passagers à l'arrivée, au départ et en transit sur les vols de transport effectués contre rémunération ou en vertu d'un contrat de location, au cours de trois années civiles consécutives écoulées ;
+11. " trafic annuel commercial " : la moyenne du nombre de passagers à l'arrivée, au départ et en transit sur les vols de transport effectués contre rémunération ou en vertu d'un contrat de location, au cours de trois années civiles consécutives écoulées ;
 
-12. "service(s) compétent(s) de l'Etat" : le ou les services de l'Etat chargés de la surveillance et du contrôle de la mise en œuvre des mesures de sûreté ;
+12. " service (s) compétent (s) de l'Etat " : le ou les services de l'Etat chargés de la surveillance et du contrôle de la mise en œuvre des mesures de sûreté ;
 
-13. "système de sûreté" : ensemble d'éléments et d'équipements contribuant à la réalisation des mesures de sûreté du transport aérien.
+13. " système de sûreté " : ensemble d'éléments et d'équipements contribuant à la réalisation des mesures de sûreté du transport aérien.
 
-Article A-3 I-T - Mesures complémentaires des opérateurs
+Article A-3 I-T-Mesures complémentaires des opérateurs
 
-Les dispositions de la présente annexe ne font pas obstacle à l'établissement de mesures complémentaires à l'initiative des organismes, personnes ou entreprises mentionnées au L.6341-2 du code des transports dès lors que leur mise en œuvre ne se fait pas au détriment desdites dispositions.
+Les dispositions de la présente annexe ne font pas obstacle à l'établissement de mesures complémentaires à l'initiative des organismes, personnes ou entreprises mentionnées au L. 6341-2 du code des transports dès lors que leur mise en œuvre ne se fait pas au détriment desdites dispositions.
 
-Article A-4 - Mesures relatives aux vols sensibles
+Article A-4-Mesures relatives aux vols sensibles
 
 Des mesures particulières peuvent être prises par le ministre chargé des transports, le ministre de l'intérieur, et, dans le cas où ces mesures concernent la sûreté du fret aérien, le ministre chargé des douanes, pour application à tout ou partie des vols en provenance de ou en partance vers certaines destinations.
 
 Ces mesures portent notamment sur la fouille et la protection des aéronefs, les contrôles appliqués aux personnels y accédant, les articles prohibés, les mesures appliquées aux passagers à l'enregistrement, à l'inspection filtrage, à l'embarquement et au débarquement, les mesures appliquées aux bagages de soute, au fret, au courrier, au matériel et aux approvisionnements lors de leur inspection filtrage, ou lors de leur chargement ou déchargement de l'aéronef.
 
-Article A-5 I-T - Mise à disposition des documents
+Article A-5 I-T-Mise à disposition des documents
 
 Tous les documents établis en application de la législation nationale et de la réglementation européenne et nationale en matière de sûreté de l'aviation civile sont tenus à la disposition des services compétents de l'Etat.
 
-Article A-6 I-T - Personnes morales autorisées à occuper ou utiliser le côté piste
+Article A-6 I-T-Personnes morales autorisées à occuper ou utiliser le côté piste
 
 L'exploitant d'aérodrome établit et tient à jour la liste des personnes morales autorisées par lui à occuper ou utiliser le côté piste.
 
-Article A-7 I-T - Occupants de lieu à usage exclusif
+Article A-7 I-T-Occupants de lieu à usage exclusif
 
 Le préfet exerçant les pouvoirs de police sur l'aérodrome peut délivrer le statut d'occupant de lieu à usage exclusif à une personne morale ou à un ensemble de personnes morales à condition :
 
@@ -240,17 +240,17 @@ Le préfet exerçant les pouvoirs de police sur l'aérodrome peut délivrer le s
 
 Chapitre B : Programmes de sûreté
 
-Article B-1 I-T - Etablissement et maintien d'un programme de sûreté
+Article B-1 I-T-Etablissement et maintien d'un programme de sûreté
 
-Les exploitants d'aérodrome, les entreprises de transport aérien, les personnes morales autorisées à occuper ou à utiliser le côté piste, les agents habilités et les fournisseurs habilités élaborent, appliquent et tiennent à jour un programme de sûreté conformément aux articles 12, 13 et 14 du règlement (CE) n° 300/2008 susvisé ainsi qu'aux points 6.3.1.2. et 8.1.3.2. de l'annexe du règlement (UE) n° 185/2010 susvisé.
+Les exploitants d'aérodrome, les entreprises de transport aérien, les personnes morales autorisées à occuper ou à utiliser le côté piste, les agents habilités et les fournisseurs habilités élaborent, appliquent et tiennent à jour un programme de sûreté conformément aux articles 12,13 et 14 du règlement (CE) n° 300/2008 susvisé ainsi qu'aux points 6.3.1.2. et 8.1.3.2. de l'annexe du règlement (UE) n° 185/2010 susvisé.
 
-Article B-2 I-T - Contenu des programmes de sûreté
+Article B-2 I-T-Contenu des programmes de sûreté
 
 Le programme de sûreté mentionné à l'article B-1 précise, notamment :
 
 1. la dénomination et l'adresse de l'établissement ou pour une société, la raison sociale et l'adresse du siège telles qu'inscrites sur un extrait K bis du registre du commerce et des sociétés ou, à défaut, sur un journal d'annonces légales datant de moins de deux ans ou sur document équivalent pour les sociétés étrangères ;
 
-2. le nom et les coordonnées de la ou des personne(s) désignée(s) comme responsable(s) de sa mise en œuvre au niveau national et local ;
+2. le nom et les coordonnées de la ou des personne (s) désignée (s) comme responsable (s) de sa mise en œuvre au niveau national et local ;
 
 3. les modalités de recours à la sous-traitance, notamment la répartition des tâches de sûreté entre les différents intervenants ;
 
@@ -268,7 +268,7 @@ Il précise également pour chaque mesure ou obligation qui est du ressort de l'
 
 9. les modalités d'exploitation, en mode normal et en mode dégradé, ainsi que les personnes chargées de leur mise en œuvre.
 
-Article B-3 I-T - Assurance qualité interne
+Article B-3 I-T-Assurance qualité interne
 
 Dans le cadre de l'assurance qualité mentionnée au point 4 de l'article B-2, l'entité doit, notamment :
 
@@ -280,21 +280,21 @@ Dans le cadre de l'assurance qualité mentionnée au point 4 de l'article B-2, l
 
 4. établir un processus de correction en cas d'insuffisances mises en évidence dans l'analyse des incidents d'exploitation, permettant la résolution de celles-ci.
 
-Article B-4 I-T - Sous-traitance d'une mesure de sûreté
+Article B-4 I-T-Sous-traitance d'une mesure de sûreté
 
 I. Lorsqu'une entité citée à l'article B-1 a recours à un sous-traitant, son dispositif d'assurance qualité tel que mentionné à l'article B-3 intègre le contrôle qualité de l'activité de ce sous-traitant, afin, notamment, de s'assurer du respect par ce dernier des obligations découlant de la réglementation de l'Union européenne et de la législation et réglementation nationales relatives à la sûreté de l'aviation civile.
 
 II. Lorsqu'une documentation liée à la mise en œuvre d'une mesure de sûreté est établie en application de la législation nationale et de la réglementation européenne ou nationale et lorsque ladite mesure de sûreté est sous-traitée, cette documentation fait mention du donneur d'ordre.
 
-Article B-5 I-T - Modalités de recrutement et de formation du personnel
+Article B-5 I-T-Modalités de recrutement et de formation du personnel
 
 Dans le cadre des modalités de recrutement et de formation du personnel mentionnées au point 5 de l'article B-2, l'entité décrit notamment :
 
-1. les modalités de mise en œuvre des formations initiales, notamment "sur le tas" lorsque cette dernière est exigée, et périodiques ;
+1. les modalités de mise en œuvre des formations initiales, notamment " sur le tas " lorsque cette dernière est exigée, et périodiques ;
 
 2. le cas échéant, les modalités d'évaluation des compétences des personnels formés.
 
-Article B-6 I-T - Modifications du programme de sûreté et suivi
+Article B-6 I-T-Modifications du programme de sûreté et suivi
 
 I. Les entités citées à l'article B-1 informent l'autorité administrative compétente mentionnée à l'article R. 213-2-1 du code de l'aviation civile, rapidement et au plus tard dans les dix jours ouvrables après leur prise d'effet, des modifications apportées à leur programme de sûreté.
 
@@ -304,25 +304,25 @@ III. Le délai mentionné au II est porté à quarante-cinq jours ouvrables lors
 
 Chapitre C : Tests de performance en situation opérationnelle
 
-Article C-1 I-T - Tests de performance en situation opérationnelle
+Article C-1 I-T-Tests de performance en situation opérationnelle
 
 I. En application de l'article R. 213-5-1 du code de l'aviation civile, des tests de performance en situation opérationnelle sont mis en œuvre conformément aux dispositions du présent article.
 
-II. Les organismes, personnes ou entreprises mentionnées au L.6341-2 du code des transports peuvent réaliser des tests de performance en situation opérationnelle dans le cadre de leur programme d'assurance qualité pour les mesures de sûreté qu'ils mettent en œuvre ou dont ils ont la responsabilité de la mise en œuvre. Ces tests peuvent porter sur l'évaluation de l'application effective des mesures de sûreté suivantes :
+II. Les organismes, personnes ou entreprises mentionnées au L. 6341-2 du code des transports peuvent réaliser des tests de performance en situation opérationnelle dans le cadre de leur programme d'assurance qualité pour les mesures de sûreté qu'ils mettent en œuvre ou dont ils ont la responsabilité de la mise en œuvre. Ces tests peuvent porter sur l'évaluation de l'application effective des mesures de sûreté suivantes :
 
 1. Contrôle de l'accès aux zones de sûreté à accès réglementé ;
 
 2. Protection des aéronefs ;
 
-3. Inspection/filtrage des passagers et des bagages de cabine ;
+3. Inspection/ filtrage des passagers et des bagages de cabine ;
 
-4. Inspection/filtrage du personnel et des objets transportés ;
+4. Inspection/ filtrage du personnel et des objets transportés ;
 
-5. Inspection/filtrage du fret ou du courrier ;
+5. Inspection/ filtrage du fret ou du courrier ;
 
 6. Protection du fret et du courrier ;
 
-7. Inspection/filtrage des bagages de soute.
+7. Inspection/ filtrage des bagages de soute.
 
 III. Sans préjudice des dispositions prévues au II du présent article, les exploitants d'aérodrome réalisent des tests de performance en situation opérationnelle sur les mesures de sûreté prévues aux points 3 et 4 du II du présent article sur les aérodromes dont le trafic annuel commercial dépasse trois millions de passagers.
 
@@ -340,11 +340,11 @@ VIII. Les entités mettant en œuvre des tests de performance en situation opér
 
 Chapitre D : Habilitation
 
-Article D-1 I-T - Durée de validité
+Article D-1 I-T-Durée de validité
 
 L'habilitation relevant des articles R. 213-3 et R. 213-3-1 du code de l'aviation civile est délivrée pour une durée qui n'excède pas trois ans.
 
-Article D-2 I-T -Relation entre habilitation et vérification des antécédents
+Article D-2 I-T-Relation entre habilitation et vérification des antécédents
 
 La possession de l'habilitation prévue à l'article L. 6342-3 du code des transports vaut réalisation de l'alinéa b) du point 11.1.3. de l'annexe du règlement (UE) n° 185/2010 susvisé.
 
@@ -354,7 +354,7 @@ Chapitre 1 : Sûreté aéroportuaire
 
 Section 1 : Exigences en matière de planification aéroportuaire
 
-Article 1-1-1 I-T - Exigences en matière de planification aéroportuaire
+Article 1-1-1 I-T-Exigences en matière de planification aéroportuaire
 
 I. L'exploitant d'aérodrome ou la personne morale autorisée à occuper le côté piste est chargé de l'application du point 1.1.1. de l'annexe du règlement (CE) n° 300/2008 susvisé.
 
@@ -366,11 +366,11 @@ II. Lorsque des créations ou modifications d'installations aéroportuaires conc
 
 les entités concernées mentionnées au I du présent article procèdent à ces créations ou modifications conformément aux dispositions établies par le préfet exerçant les pouvoirs de police sur l'aérodrome.
 
-Article 1-1-2 I-T - Limites entre les zones de l'aéroport
+Article 1-1-2 I-T-Limites entre les zones de l'aéroport
 
 L'exploitant d'aérodrome ou la personne morale autorisée à occuper le côté piste est responsable, selon le cas, de la mise en œuvre de la sous-section 1.1.1. de l'annexe du règlement (UE) n° 185/2010 susvisé.
 
-Article 1-1-3 I-T - Etablissement et fouille des zones de sûreté à accès réglementé et des parties critiques
+Article 1-1-3 I-T-Etablissement et fouille des zones de sûreté à accès réglementé et des parties critiques
 
 L'exploitant d'aérodrome ou la personne morale autorisée à occuper ou à utiliser le côté piste, selon le cas, met en œuvre les fouilles de sûreté prévues par les points 1.1.2.2., 1.1.2.3., 1.1.3.3. et 1.1.3.4. de l'annexe du règlement (UE) n° 185/2010 susvisé, hormis pour ce qui concerne les aéronefs.
 
@@ -378,7 +378,7 @@ Section 2 : Contrôle des accès
 
 Sous-section 1 : Accès au côté piste
 
-Article 1-2-1-1 I-T - Mise en place d'un service gestionnaire chargé des autorisations d'accès au côté piste et des laissez-passer pour l'accès au côté piste
+Article 1-2-1-1 I-T-Mise en place d'un service gestionnaire chargé des autorisations d'accès au côté piste et des laissez-passer pour l'accès au côté piste
 
 En application des modalités fixées par le préfet exerçant les pouvoirs de police sur l'aérodrome, l'exploitant d'aérodrome met en place un service gestionnaire chargé :
 
@@ -396,7 +396,7 @@ En application des modalités fixées par le préfet exerçant les pouvoirs de p
 
 En tant que de besoin, l'exploitant d'aérodrome peut-être autorisé par le préfet exerçant les pouvoirs de police sur l'aérodrome à confier la mise en œuvre de ce service gestionnaire à un sous-traitant.
 
-Article 1-2-1-2 - Catégories de personnes réputées détenir l'autorisation d'accès au côté piste
+Article 1-2-1-2-Catégories de personnes réputées détenir l'autorisation d'accès au côté piste
 
 Les personnes réputées détenir l'autorisation d'accès au côté piste prévue par l'article R. 213-3-2 du code de l'aviation civile sont les suivantes :
 
@@ -412,13 +412,13 @@ Les personnes réputées détenir l'autorisation d'accès au côté piste prévu
 
 6. les élèves pilotes porteurs d'un document justifiant d'une entrée en formation.
 
-Article 1-2-1-3 - Catégories de véhicules réputés détenir le laissez-passer pour l'accès au côté piste
+Article 1-2-1-3-Catégories de véhicules réputés détenir le laissez-passer pour l'accès au côté piste
 
 Les véhicules de service des services compétents de l'Etat, les véhicules de service des fonctionnaires de la police nationale, des militaires de la gendarmerie et des agents des douanes, les véhicules mentionnés au point 1.2.6.9. de l'annexe du règlement (UE) n° 185/2010 susvisé, ainsi que les véhicules disposant du laissez-passer prévu par le point 1.2.2.3. de l'annexe du règlement (UE) n° 185/2010 susvisé valide pour l'aérodrome sont réputés détenir le laissez-passer pour l'accès au côté piste prévue par le point 1.2.1.3. de l'annexe précitée.
 
 Sous-section 2 : Accès aux zones de sûreté à accès réglementé
 
-Article 1-2-2-1 I-T - Mise en place du contrôle d'accès en zone de sûreté à accès réglementé
+Article 1-2-2-1 I-T-Mise en place du contrôle d'accès en zone de sûreté à accès réglementé
 
 L'exploitant d'aérodrome ou la personne morale autorisée à occuper le côté piste opérant un accès privatif, selon le cas :
 
@@ -426,11 +426,11 @@ L'exploitant d'aérodrome ou la personne morale autorisée à occuper le côté 
 
 2. s'assure, en cas d'accès accompagné, de la présence de l'accompagnateur lors de l'accès à la zone de sûreté à accès réglementé.
 
-Article 1-2-2-2 I-T - Obligations relatives à la mise en place du contrôle d'accès en zone de sûreté à accès réglementé
+Article 1-2-2-2 I-T-Obligations relatives à la mise en place du contrôle d'accès en zone de sûreté à accès réglementé
 
 Sur les aérodromes pour lesquels plus de 40 personnes détiennent un titre de circulation aéroportuaire, pour chaque accès à la zone de sûreté à accès réglementé, l'entité responsable de la mise en place et de l'exploitation du contrôle d'accès conserve la liste des personnes, détentrices d'un titre de circulation aéroportuaire au sens de l'article 1-2-5-1 de la présente annexe, ayant utilisé l'accès pendant les trente derniers jours.
 
-Article 1-2-2-3 I-T - Autorisations d'accès en zone de sûreté à accès réglementée pour les titulaires d'une licence de navigant et les élèves pilotes
+Article 1-2-2-3 I-T-Autorisations d'accès en zone de sûreté à accès réglementée pour les titulaires d'une licence de navigant et les élèves pilotes
 
 Les autorisations permettant d'accéder en zone de sûreté à accès réglementé en application du d) du point 1.2.2.2. de l'annexe du règlement (UE) n° 185/2010 susvisé sont :
 
@@ -438,7 +438,7 @@ Les autorisations permettant d'accéder en zone de sûreté à accès réglement
 
 2. un document justifiant d'une entrée en formation pour les élèves pilotes.
 
-Article 1-2-2-4 I-T - Obligations des personnes accédant en zone de sûreté à accès réglementé
+Article 1-2-2-4 I-T-Obligations des personnes accédant en zone de sûreté à accès réglementé
 
 I. Les personnes qui, pour accéder aux zones de sûreté à accès réglementé, se soumettent au dispositif en vigueur de contrôle de la validité de l'un des documents visés aux points 1.2.2.2. c) à e) de l'annexe du règlement (UE) n° 185/2010 susvisé :
 
@@ -464,11 +464,11 @@ III. Les personnes, visées au I et au II du présent article, qui accèdent aux
 
 2. ne facilitent pas l'entrée de personnes dépourvues des autorisations nécessaires en zone de sûreté à accès réglementé.
 
-Article 1-2-2-5 I-T - Obligations des passagers accédant en zone de sûreté à accès réglementé
+Article 1-2-2-5 I-T-Obligations des passagers accédant en zone de sûreté à accès réglementé
 
 Sans préjudice des dispositions de l'article 5-1-4, un passager ne peut accéder en zone de sûreté à accès réglementé que dans le but d'embarquer ou de demeurer à bord d'un aéronef, ou d'en débarquer.
 
-Article 1-2-2-6 I-T - Exemptions de contrôle d'accès pour les personnes autres que les passagers quittant temporairement une partie critique de zone de sûreté à accès réglementé
+Article 1-2-2-6 I-T-Exemptions de contrôle d'accès pour les personnes autres que les passagers quittant temporairement une partie critique de zone de sûreté à accès réglementé
 
 Les personnes autres que les passagers mentionnées au point 1.3.2.2. de l'annexe du règlement (UE) n° 185/2010 susvisé sont exemptées de contrôle d'accès.
 
@@ -478,7 +478,7 @@ Article 1-2-3-1
 
 Article laissé intentionnellement vide
 
-Article 1-2-3-2 I-T - Obligations des entreprises de transport aérien établissant des certificats de membre d'équipage et des entités faisant la demande de titres de circulation aéroportuaire
+Article 1-2-3-2 I-T-Obligations des entreprises de transport aérien établissant des certificats de membre d'équipage et des entités faisant la demande de titres de circulation aéroportuaire
 
 L'entreprise de transport aérien établissant des certificats de membre d'équipage ou l'entité faisant la demande de titres de circulation aéroportuaire :
 
@@ -492,7 +492,7 @@ a. au service gestionnaire défini pour l'aérodrome, pour le titre de circulati
 
 b. aux services compétents de l'Etat, pour le certificat de membre d'équipage.
 
-Article 1-2-3-3 I-T - Obligations des titulaires d'un certificat de membre d'équipage, d'un titre de circulation aéroportuaire, d'une licence de navigant et des élèves pilotes
+Article 1-2-3-3 I-T-Obligations des titulaires d'un certificat de membre d'équipage, d'un titre de circulation aéroportuaire, d'une licence de navigant et des élèves pilotes
 
 Les titulaires d'un certificat de membre d'équipage, d'un titre de circulation aéroportuaire ou d'une licence de navigant ainsi que les élèves pilotes porteurs d'un document justifiant d'une entrée en formation :
 
@@ -500,27 +500,27 @@ Les titulaires d'un certificat de membre d'équipage, d'un titre de circulation 
 
 2. sans préjudice du point 1.2.3.4. de l'annexe du règlement (UE) n° 185/2010 susvisé, le présentent sur requête aux personnes en charge de la surveillance ou des rondes mentionnées au point 1.5.1. de ladite annexe.
 
-Article 1-2-3-4 I-T - Obligations supplémentaires des titulaires d'une licence de navigant et des élèves pilotes
+Article 1-2-3-4 I-T-Obligations supplémentaires des titulaires d'une licence de navigant et des élèves pilotes
 
 Les titulaires d'une licence de navigant, ainsi que les élèves pilotes porteurs d'un document justifiant d'une entrée en formation signalent sans délai son vol ou sa perte aux services compétents de l'Etat.
 
-Article 1-2-3-5 I-T - Obligations supplémentaires des membres d'équipage, des titulaires d'une licence de navigants et des élèves pilotes accédant aux zones de sûreté à accès réglementé
+Article 1-2-3-5 I-T-Obligations supplémentaires des membres d'équipage, des titulaires d'une licence de navigants et des élèves pilotes accédant aux zones de sûreté à accès réglementé
 
 Les membres d'équipage, les personnes titulaires d'une licence de navigant et les élèves pilotes porteurs d'un document justifiant d'une entrée en formation, ne peuvent accéder aux zones listées au point 1.2.7.1. de l'annexe du règlement (UE) n° 185/2010 susvisé que pour les besoins d'un vol.
 
 Sous-section 4 : Exigences supplémentaires applicables aux certificats de membres d'équipages
 
-Article 1-2-4-1 I-T - Obligations supplémentaires des entreprises de transport aérien établissant des certificats de membre d'équipage
+Article 1-2-4-1 I-T-Obligations supplémentaires des entreprises de transport aérien établissant des certificats de membre d'équipage
 
 L'entreprise de transport aérien délivre le certificat de membre d'équipage mentionné au b) du 1.2.2.2. de l'annexe du règlement (UE) n° 185/2010 susvisé pour chaque membre d'équipage rattaché à l'un de ses établissements situés sur le territoire national.
 
-Elle s'assure que la personne qui demande à bénéficier d'un certificat de membre d'équipage possède l'habilitation prévue à l'article L.6342-3 du code des transports. La durée de validité du certificat de membre d'équipage ne peut dépasser celle de cette habilitation.
+Elle s'assure que la personne qui demande à bénéficier d'un certificat de membre d'équipage possède l'habilitation prévue à l'article L. 6342-3 du code des transports. La durée de validité du certificat de membre d'équipage ne peut dépasser celle de cette habilitation.
 
 Elle ne remet le certificat de membre d'équipage que sur présentation d'un document attestant l'identité de son bénéficiaire.
 
 Elle retire leur certificat aux personnels concernés à l'échéance de leur contrat de travail et procède à leur destruction.
 
-Article 1-2-4-2 I-T - Obligations supplémentaires des titulaires d'un certificat de membre d'équipage établi par une entreprise de transport aérien française
+Article 1-2-4-2 I-T-Obligations supplémentaires des titulaires d'un certificat de membre d'équipage établi par une entreprise de transport aérien française
 
 Le titulaire du certificat de membre d'équipage prévu par l'article 1-2-4-1 :
 
@@ -530,7 +530,7 @@ Le titulaire du certificat de membre d'équipage prévu par l'article 1-2-4-1 :
 
 Sous-section 5 : Exigences supplémentaires applicables aux titres de circulation aéroportuaire
 
-Article 1-2-5-1 - Liste des titres de circulation aéroportuaire
+Article 1-2-5-1-Liste des titres de circulation aéroportuaire
 
 Sont considérés comme des titres de circulation aéroportuaire valables mentionnés au c) du point 1.2.2.2. de l'annexe du règlement (UE) n° 185/2010 susvisé :
 
@@ -538,7 +538,7 @@ Sont considérés comme des titres de circulation aéroportuaire valables mentio
 
 2. les titres de circulation temporaires délivrés par le préfet exerçant les pouvoirs de police sur l'aérodrome aux personnes titulaires d'un des titres de circulation prévus au 1 du présent article valide sur un ou plusieurs autres aérodromes. Le titre de circulation aéroportuaire est alors constitué du titre de circulation temporaire et d'un titre de circulation prévu au 1 du présent article. La durée de validité du titre de circulation temporaire n'excède ni la durée du titre de circulation aéroportuaire mentionné au 1 du présent article, ni la durée prévisible de l'activité de son titulaire en zone de sûreté à accès règlementé de l'aérodrome concerné.
 
-Article 1-2-5-2 - Entité faisant la demande de titres de circulation aéroportuaire
+Article 1-2-5-2-Entité faisant la demande de titres de circulation aéroportuaire
 
 L'entité faisant la demande de titres de circulation aéroportuaire prévu par le c) du point 1.2.2.2. de l'annexe du règlement (UE) n° 185/2010 susvisé est :
 
@@ -546,7 +546,7 @@ L'entité faisant la demande de titres de circulation aéroportuaire prévu par 
 
 2. soit la personne morale autorisée à occuper ou à utiliser le côté piste.
 
-Article 1-2-5-3 I-T - Mise en place d'un service gestionnaire chargé des titres de circulation aéroportuaire
+Article 1-2-5-3 I-T-Mise en place d'un service gestionnaire chargé des titres de circulation aéroportuaire
 
 En application des modalités fixées par le préfet exerçant les pouvoirs de police sur l'aérodrome, sous réserve pour les aérodromes dont le cahier des charges est approuvé par décret des dispositions particulières relatives à la sûreté, l'exploitant d'aérodrome met en place un service gestionnaire chargé :
 
@@ -566,7 +566,7 @@ En tant que de besoin, l'exploitant d'aérodrome peut être autorisé par le pr�
 
 Lorsque l'exploitant d'aérodrome ne peut pas disposer d'un accès à la base de données informatique des titres de circulation, son service gestionnaire n'est pas chargé du renseignement de cette base de données ainsi que de la fabrication et de la destruction des titres de circulation aéroportuaire.
 
-Article 1-2-5-4 - Obligations supplémentaires des entités faisant la demande de titres de circulation aéroportuaire
+Article 1-2-5-4-Obligations supplémentaires des entités faisant la demande de titres de circulation aéroportuaire
 
 L'entité faisant la demande du titre de circulation aéroportuaire :
 
@@ -576,7 +576,7 @@ L'entité faisant la demande du titre de circulation aéroportuaire :
 
 3. organise un service de collecte des titres de circulation périmés et les restitue sans délai au service gestionnaire défini pour l'aérodrome.
 
-Article 1-2-5-5 - Obligations supplémentaires des titulaires d'un titre de circulation aéroportuaire
+Article 1-2-5-5-Obligations supplémentaires des titulaires d'un titre de circulation aéroportuaire
 
 Le titulaire du titre de circulation aéroportuaire :
 
@@ -586,7 +586,7 @@ Le titulaire du titre de circulation aéroportuaire :
 
 3. restitue celui-ci, dès la cessation de son activité dans la zone de sûreté à accès réglementé de l'aérodrome, à l'entité qui a formulé la demande ou, si ce n'est pas possible, aux services compétents de l'Etat.
 
-Article 1-2-5-6 - Détection des utilisations frauduleuses de titres de circulations aéroportuaires
+Article 1-2-5-6-Détection des utilisations frauduleuses de titres de circulations aéroportuaires
 
 Les exploitants d'accès communs ou privatifs mettent en place un système donnant une assurance raisonnable que toute tentative d'utilisation d'un titre perdu, volé ou non retourné soit détectée, conformément au point 1.2.5.2. de l'annexe du règlement (UE) n° 185/2010 susvisé.
 
@@ -594,7 +594,7 @@ L'exploitant d'aérodrome établit, tient à jour et communique sans délai aux 
 
 Sous-section 6 : Exigences applicables aux laissez-passer pour véhicule
 
-Article 1-2-6-1 I-T - Entité faisant la demande de laissez-passer pour véhicule
+Article 1-2-6-1 I-T-Entité faisant la demande de laissez-passer pour véhicule
 
 L'entité faisant la demande du laissez-passer prévu par le point 1.2.2.3. de l'annexe du règlement (UE) n° 185/2010 susvisé est :
 
@@ -602,7 +602,7 @@ L'entité faisant la demande du laissez-passer prévu par le point 1.2.2.3. de l
 
 2. soit la personne morale autorisée à occuper ou à utiliser le côté piste.
 
-Article 1-2-6-2 I-T - Mise en place d'un service gestionnaire chargé des laissez-passer pour l'accès en zone de sûreté à accès réglementé
+Article 1-2-6-2 I-T-Mise en place d'un service gestionnaire chargé des laissez-passer pour l'accès en zone de sûreté à accès réglementé
 
 En application des modalités fixées par le préfet exerçant les pouvoirs de police sur l'aérodrome, l'exploitant d'aérodrome met en place un service gestionnaire chargé :
 
@@ -618,7 +618,7 @@ En application des modalités fixées par le préfet exerçant les pouvoirs de p
 
 En tant que de besoin, l'exploitant d'aérodrome peut être autorisé par le préfet exerçant les pouvoirs de police sur l'aérodrome à confier la mise en œuvre de ce service gestionnaire à un sous-traitant.
 
-Article 1-2-6-3 I-T - Obligations des entités faisant la demande d'un laissez-passer
+Article 1-2-6-3 I-T-Obligations des entités faisant la demande d'un laissez-passer
 
 L'entité faisant la demande de laissez-passer :
 
@@ -628,7 +628,7 @@ L'entité faisant la demande de laissez-passer :
 
 3. tient à jour la liste des véhicules disposant d'un laissez-passer et déclare sans délai au service gestionnaire défini pour l'aérodrome le changement de statut d'un véhicule qui ne justifie plus d'un accès à la zone de sûreté à accès réglementé et lui restitue le laissez-passer correspondant.
 
-Article 1-2-6-4 I-T - Obligations des utilisateurs de véhicules disposant d'un laissez-passer
+Article 1-2-6-4 I-T-Obligations des utilisateurs de véhicules disposant d'un laissez-passer
 
 L'utilisateur d'un véhicule disposant d'un laissez-passer :
 
@@ -636,7 +636,7 @@ L'utilisateur d'un véhicule disposant d'un laissez-passer :
 
 2. signale sans délai son vol ou sa perte à l'entité qui a formulé la demande du laissez-passer.
 
-Article 1-2-6-5 I-T - Détection des utilisations frauduleuses de titres de laissez-passer
+Article 1-2-6-5 I-T-Détection des utilisations frauduleuses de titres de laissez-passer
 
 Les exploitants d'accès communs ou privatifs mettent en place un système donnant une assurance raisonnable que toute tentative d'utilisation d'un laissez-passer perdu, volé ou non retourné soit détectée, conformément au point 1.2.6.8. de l'annexe du règlement (UE) n° 185/2010 susvisé.
 
@@ -644,21 +644,21 @@ L'exploitant d'aérodrome établit, tient à jour et communique sans délai aux 
 
 Sous-section 7 : Accès accompagné
 
-Article 1-2-7-1 I-T - Accès accompagné des passagers par un membre d'équipage
+Article 1-2-7-1 I-T-Accès accompagné des passagers par un membre d'équipage
 
 Lorsqu'il accompagne un passager visé au point 1.2.7.5. de l'annexe du règlement (UE) n° 185/2010 susvisé, un membre d'équipage est exempté des exigences du a) du point 1.2.7.3. de l'annexe du règlement (UE) n° 185/2010 susvisé.
 
-Article 1-2-7-2 I-T - Accès accompagné au côté piste
+Article 1-2-7-2 I-T-Accès accompagné au côté piste
 
 Une personne ne disposant pas d'autorisation d'accès au côté piste peut y accéder à condition d'être accompagnée d'une personne titulaire de cette autorisation.
 
 L'accompagnant respecte alors les c) et d) du point 1.2.7.3. de l'annexe du règlement (UE) n° 185/2010 susvisé.
 
-Article 1-2-7-3 I-T - Titre de circulation accompagnée
+Article 1-2-7-3 I-T-Titre de circulation accompagnée
 
 Le préfet exerçant les pouvoirs de police sur l'aérodrome délivre les titres de circulation accompagnée en vue d'autoriser l'accès accompagné en zone de sûreté à accès réglementé aux personnes dépourvues de l'habilitation prévue au I. de l'article R. 213-3 du code de l'aviation civile.
 
-Article 1-2-7-4 I-T - Obligations des entités faisant la demande d'un titre de circulation accompagnée
+Article 1-2-7-4 I-T-Obligations des entités faisant la demande d'un titre de circulation accompagnée
 
 L'entité faisant la demande de titre de circulation accompagnée :
 
@@ -666,17 +666,17 @@ L'entité faisant la demande de titre de circulation accompagnée :
 
 2. notifie sans délai la perte, le vol ou le non-retour du titre à l'entité qui l'a délivré.
 
-Article 1-2-7-5 I-T - Obligations supplémentaires des occupants de lieu à usage exclusif concernant les titres de circulation accompagnée valides pour le seul lieu à usage exclusif
+Article 1-2-7-5 I-T-Obligations supplémentaires des occupants de lieu à usage exclusif concernant les titres de circulation accompagnée valides pour le seul lieu à usage exclusif
 
 Par dérogation et selon des modalités définies par le préfet exerçant les pouvoirs de police sur l'aérodrome, l'occupant d'un lieu à usage exclusif délivre les titres de circulation accompagnée valides pour le seul lieu à usage exclusif.
 
 Sans préjudice des obligations des entités faisant la demande de titres de circulation accompagnée, l'occupant du lieu à usage exclusif s'assure alors que la personne demandant à en bénéficier justifie d'une activité dans le lieu à usage exclusif.
 
-Article 1-2-7-6 I-T - Obligations des titulaires d'un titre de circulation accompagnée
+Article 1-2-7-6 I-T-Obligations des titulaires d'un titre de circulation accompagnée
 
 Le titulaire d'un titre de circulation accompagnée ne se déplace en zone de sûreté à accès réglementé qu'avec l'accompagnant désigné par l'entité à l'origine de la demande du titre.
 
-Article 1-2-7-7 I-T - Obligations de l'accompagnant
+Article 1-2-7-7 I-T-Obligations de l'accompagnant
 
 L'accompagnant mentionné au point 1.2.7.3. de l'annexe du règlement (UE) n° 185/2010 susvisé :
 
@@ -686,11 +686,11 @@ L'accompagnant mentionné au point 1.2.7.3. de l'annexe du règlement (UE) n° 1
 
 Section 3 : Inspection filtrage des personnes autres que les passagers et des objets qu'elles transportent
 
-Article 1-3-1 I-T - Mise en place de l'inspection filtrage des personnes autres que les passagers et des objets qu'elles transportent
+Article 1-3-1 I-T-Mise en place de l'inspection filtrage des personnes autres que les passagers et des objets qu'elles transportent
 
 L'exploitant d'aérodrome ou la personne morale autorisée à occuper le côté piste et opérant un accès privatif, met en œuvre l'inspection filtrage des personnes autres que les passagers et des objets qu'elles transportent conformément aux dispositions de la section 1.3. de l'annexe du règlement (CE) n° 300/2008 susvisé.
 
-Article 1-3-2 I-T - Obligations relatives à la mise en place de l'inspection filtrage des personnes autres que les passagers et des objets qu'elles transportent
+Article 1-3-2 I-T-Obligations relatives à la mise en place de l'inspection filtrage des personnes autres que les passagers et des objets qu'elles transportent
 
 L'entité mentionnée à l'article 1-3-1 :
 
@@ -702,25 +702,25 @@ L'entité mentionnée à l'article 1-3-1 :
 
 4. établit les différents principes d'armement des postes d'inspection filtrage en fonction des flux traités.
 
-Article 1-3-3 I-T - Comptes-rendus d'exploitation
+Article 1-3-3 I-T-Comptes-rendus d'exploitation
 
 L'entité mentionnée à l'article 1-3-1 établit des comptes rendus mensuels d'exploitation du service d'inspection filtrage des personnes autres que les passagers et des objets qu'elles transportent qui précisent :
 
-- les résultats des tests de performance ;
+-les résultats des tests de performance ;
 
-- le nombre de personnes traitées ;
+-le nombre de personnes traitées ;
 
-- les principaux incidents d'exploitation survenus accompagnés d'une analyse ainsi que les mesures correctives prises.
+-les principaux incidents d'exploitation survenus accompagnés d'une analyse ainsi que les mesures correctives prises.
 
-Article 1-3-4 I-T - Exemptions d'inspection filtrage pour les personnes autres que les passagers quittant temporairement une partie critique de zone de sûreté à accès réglementé
+Article 1-3-4 I-T-Exemptions d'inspection filtrage pour les personnes autres que les passagers quittant temporairement une partie critique de zone de sûreté à accès réglementé
 
 Les personnes mentionnées au point 1.3.2.2. de l'annexe du règlement (UE) n° 185/2010 susvisé sont exemptées d'inspection filtrage.
 
-Article 1-3-5 I-T - Obligations des personnes autres que les passagers
+Article 1-3-5 I-T-Obligations des personnes autres que les passagers
 
 Les personnes autres que les passagers sont tenues de se soumettre, ainsi que les objets qu'elles transportent, au dispositif en vigueur d'inspection filtrage.
 
-Article 1-3-6 I-T - Dispositions spécifiques à l'inspection/ filtrage des personnes autres que les passagers et des objets qu'elles transportent.
+Article 1-3-6 I-T-Dispositions spécifiques à l'inspection/ filtrage des personnes autres que les passagers et des objets qu'elles transportent.
 
 Les points 4.1.1.1,4.1.2.1 et 4.1.2.8 de l'annexe du règlement d'exécution (UE) 2015/1998 susvisé s'appliquent aux personnes autres que les passagers et aux objets qu'elles transportent, sauf :
 
@@ -730,31 +730,31 @@ Les points 4.1.1.1,4.1.2.1 et 4.1.2.8 de l'annexe du règlement d'exécution (UE
 
 3. Aux personnels navigants sans uniforme, en fonction ou en mise en place au sens du règlement (CE) n° 859/2008 de la Commission du 20 août 2008 sur présentation d'un justificatif de mission et d'un certificat de membre d'équipage d'un transporteur aérien communautaire tel que défini au point 5 de l'article 3 du règlement (CE) n° 300/2008 susvisé.
 
-Article 1-3-7 I-T - Conditions de mise en place de l'inspection filtrage des personnes autres que les passagers et des objets qu'elles transportent
+Article 1-3-7 I-T-Conditions de mise en place de l'inspection filtrage des personnes autres que les passagers et des objets qu'elles transportent
 
 I. Lorsque l'agent de sûreté ne peut déterminer si une personne autre qu'un passager transporte ou non des articles prohibés, cette dernière est interdite d'accès aux zones de sûreté ou est à nouveau soumise à une inspection filtrage, à la satisfaction de l'agent de sûreté.
 
 II. Lorsque l'agent de sûreté ne peut déterminer si l'objet transporté par une personne autre qu'un passager contient ou non des articles prohibés, cet objet est refusé ou est à nouveau soumis à une inspection filtrage, à la satisfaction de l'agent de sûreté.
 
-Article 1-3-8 I-T - Utilisation des chiens détecteurs d'explosifs et des équipements de détection de traces d'explosifs pour l'inspection filtrage des personnes autres que les passagers et des objets qu'elles transportent
+Article 1-3-8 I-T-Utilisation des chiens détecteurs d'explosifs et des équipements de détection de traces d'explosifs pour l'inspection filtrage des personnes autres que les passagers et des objets qu'elles transportent
 
 I. Les chiens détecteurs d'explosifs ne peuvent être utilisés que comme moyens complémentaires d'inspection filtrage des personnes autres que les passagers et des objets qu'elles transportent.
 
 II. Les équipements de détection de traces d'explosifs ne peuvent être utilisés que comme moyens complémentaires d'inspection filtrage des personnes autres que les passagers et des objets qu'elles transportent.
 
-Article 1-3-9 I-T - Dispositions spécifiques à l'inspection filtrage des personnes autres que les passagers et des objets qu'elles transportent
+Article 1-3-9 I-T-Dispositions spécifiques à l'inspection filtrage des personnes autres que les passagers et des objets qu'elles transportent
 
 Lorsque l'inspection filtrage des personnes autres que les passagers mentionnées à l'article 1-3-6 de la présente annexe comprend une palpation par un agent de sûreté, l'agent de sûreté peut demander aux personnes autres que les passagers de retirer leurs manteaux et vestes.
 
 Section 4 : Inspection filtrage des véhicules
 
-Article 1-4-1 I-T - Mise en place de l'inspection filtrage des véhicules
+Article 1-4-1 I-T-Mise en place de l'inspection filtrage des véhicules
 
 L'exploitant d'aérodrome ou la personne morale autorisée à occuper le côté piste opérant un accès privatif, selon le cas, est tenu de mettre en œuvre l'inspection filtrage des véhicules conformément aux dispositions de la section 1.4. de l'annexe du règlement (UE) n° 185/2010 susvisé.
 
 Section 5 : Surveillance, rondes et autres contrôles physiques
 
-Article 1-5-1 - Surveillance et rondes
+Article 1-5-1-Surveillance et rondes
 
 I. L'obligation générale de surveillance posée par le point 1.5. de l'annexe du règlement (CE) n° 300/2008 susvisé prend la forme, en fonction de l'évaluation du risque établie par le préfet exerçant les pouvoirs de police sur l'aérodrome, de rondes ou de patrouilles, d'une surveillance physique permanente ou d'autres mesures de surveillance équivalentes.
 
@@ -774,15 +774,15 @@ Chapitre 4 : Passagers et bagages de cabine
 
 Section 1 : Inspection filtrage des passagers et des bagages de cabine
 
-Article 4-1-1 I-T - Mise en place de l'inspection filtrage des passagers et des bagages de cabine
+Article 4-1-1 I-T-Mise en place de l'inspection filtrage des passagers et des bagages de cabine
 
 I. L'exploitant d'aérodrome assure le service d'inspection filtrage des passagers et des bagages de cabine pour les passagers traités dans les installations communes de l'aérodrome.
 
 II. Hors des installations communes, l'entreprise de transport aérien ou toute entité disposant d'un accès privatif par lequel accèdent les passagers et leurs bagages de cabine assure l'inspection filtrage de ceux-ci.
 
-Article 4-1-2 I-T - Obligations relatives à la mise en place de l'inspection filtrage des passagers et des bagages de cabine
+Article 4-1-2 I-T-Obligations relatives à la mise en place de l'inspection filtrage des passagers et des bagages de cabine
 
-I. L'entité responsable de la mise en œuvre de l'inspection filtrage des passagers et des bagages de cabine:
+I. L'entité responsable de la mise en œuvre de l'inspection filtrage des passagers et des bagages de cabine :
 
 1. assure l'inspection filtrage de tous les passagers qui se présentent aux postes d'inspection filtrage, de leurs bagages de cabine et des objets qu'ils transportent ;
 
@@ -800,31 +800,31 @@ II. L'entreprise de transport aérien :
 
 3. s'assure que les passagers en transit respectent les conditions visées au point 4.1.3. de l'annexe du règlement (CE) n° 300/2008 susvisé.
 
-Article 4-1-3 I-T - Comptes rendus d'exploitation
+Article 4-1-3 I-T-Comptes rendus d'exploitation
 
 L'entité responsable de la mise en œuvre de l'inspection filtrage des passagers et des bagages de cabine établit des comptes rendus mensuels d'exploitation du service d'inspection filtrage des passagers et des bagages de cabine qui précisent :
 
-- les résultats des tests de performance ;
+-les résultats des tests de performance ;
 
-- le nombre de passagers traités ;
+-le nombre de passagers traités ;
 
-- les principaux incidents d'exploitation survenus accompagnés d'une analyse ainsi que les mesures correctives prises.
+-les principaux incidents d'exploitation survenus accompagnés d'une analyse ainsi que les mesures correctives prises.
 
-Article 4-1-4 I-T - Obligations des passagers
+Article 4-1-4 I-T-Obligations des passagers
 
 Un passager se soumet au dispositif en vigueur d'inspection filtrage lorsqu'il accède à une zone de sûreté à accès réglementé et présente les objets qu'il transporte et ses bagages de cabine à ce dispositif.
 
-Article 4-1-5 I-T - Procédures spéciales d'inspection filtrage des passagers
+Article 4-1-5 I-T-Procédures spéciales d'inspection filtrage des passagers
 
 Les passagers produisant des certificats médicaux attestant d'un état de santé incompatible avec l'utilisation de certains des moyens prévus au point 4.1.1.2. de l'annexe du règlement (UE) n° 185/2010 susvisé sont soumis à d'autres moyens prévus par la législation nationale et la réglementation européenne et nationale.
 
-Article 4-1-6 I-T - Exemptions d'inspection filtrage des passagers et des bagages cabine en transit et en correspondance
+Article 4-1-6 I-T-Exemptions d'inspection filtrage des passagers et des bagages cabine en transit et en correspondance
 
 I. Les passagers en correspondance et leurs bagages de cabine visés au point 4.1.2. de l'annexe du règlement (CE) n° 300/2008 susvisé peuvent être exemptés de l'inspection filtrage à condition :
 
-1. que ces passagers aient déjà fait l'objet d'une inspection filtrage sur une escale précédente; et
+1. que ces passagers aient déjà fait l'objet d'une inspection filtrage sur une escale précédente ; et
 
-2. que ces passagers restent en partie critique de zone de sûreté à accès réglementé; et
+2. que ces passagers restent en partie critique de zone de sûreté à accès réglementé ; et
 
 3. que l'exploitant d'aérodrome, et, le cas échéant, l'entreprise de transport aérien, mettent en place un dispositif permettant la réversibilité partielle du contrôle unique de sûreté ; et
 
@@ -838,15 +838,15 @@ Le cas échéant, il notifie à l'exploitant d'aérodrome les mesures à mettre 
 
 II. Les passagers en transit et leurs bagages de cabine visés au point 4.1.3. de l'annexe du règlement (CE) n° 300/2008 susvisé sont exemptés d'inspection filtrage.
 
-Article 4-1-7 I-T - Moyens d'inspection filtrage des passagers
+Article 4-1-7 I-T-Moyens d'inspection filtrage des passagers
 
 Sans préjudice des dispositions du point 4.1.1.2. de l'annexe du règlement (UE) n° 185/2010 susvisé, les passagers peuvent être soumis à une inspection filtrage au moyen d'un détecteur de traces d'explosifs en combinaison avec un des moyens listés au point 4.1.1.2. de ladite annexe.
 
-Article 4-1-8 I-T - Moyens d'inspection filtrage des bagages de cabine
+Article 4-1-8 I-T-Moyens d'inspection filtrage des bagages de cabine
 
 Sans préjudice des dispositions du point 4.1.2.3. de l'annexe du règlement (UE) n° 185/2010 susvisé, les bagages de cabine peuvent être soumis à une inspection filtrage au moyen d'un détecteur de traces d'explosifs en combinaison avec un des moyens listés au point 4.1.2.3. de ladite annexe.
 
-Article 4-1-9 I-T - Information des passagers
+Article 4-1-9 I-T-Information des passagers
 
 L'entité responsable de la mise en œuvre de l'inspection filtrage des passagers et des bagages de cabine informe les passagers des articles prohibés en cabine, des produits soumis à restriction et limitation d'emport et des précautions à prendre en matière de surveillance des bagages.
 
@@ -862,13 +862,13 @@ L'entreprise de transport aérien présente, de façon accessible aux passagers,
 
 4. le passager n'a pas gardé sur lui ou dans ses bagages de cabine des articles prohibés.
 
-Article 4-1-10 I-T - Exemption d'inspection filtrage des liquides, aérosols et gels des passagers
+Article 4-1-10 I-T-Exemption d'inspection filtrage des liquides, aérosols et gels des passagers
 
 Les liquides, aérosols et gels mentionnés au point 4.1.3.1 de l'annexe du règlement (UE) n° 185/2010 susvisé sont exemptés d'inspection filtrage au moyen d'un équipement d'inspection filtrage des liquides, aérosols et gels (LEDS).
 
 Section 2 : Protection des passagers et des bagages de cabine
 
-Article 4-2-1 I-T - Mise en place de la protection des passagers et des bagages de cabine
+Article 4-2-1 I-T-Mise en place de la protection des passagers et des bagages de cabine
 
 I. L'exploitant d'aérodrome met en place les infrastructures, définit et met en œuvre, pour ce qui le concerne, les procédures permettant de réaliser les dispositions de la section 4.2. de l'annexe du règlement (CE) n° 300/2008 susvisé.
 
@@ -884,13 +884,13 @@ Chapitre 5 : Bagages de soute
 
 Section 1 : Inspection filtrage des bagages de soute
 
-Article 5-1-1 I-T - Mise en place d'un service d'inspection filtrage des bagages de soute
+Article 5-1-1 I-T-Mise en place d'un service d'inspection filtrage des bagages de soute
 
 I. L'exploitant d'aérodrome assure le service d'inspection filtrage des bagages de soute pour les bagages traités dans les installations communes de l'aérodrome.
 
 II. Hors des installations communes, l'entreprise de transport aérien ou toute entité disposant d'un accès privatif par lequel accèdent les bagages de soute assure l'inspection filtrage de ceux-ci.
 
-Article 5-1-2 I-T - Obligations relatives à la mise en place d'un service d'inspection filtrage des bagages de soute
+Article 5-1-2 I-T-Obligations relatives à la mise en place d'un service d'inspection filtrage des bagages de soute
 
 I. L'entité responsable de la mise en œuvre de l'inspection filtrage des bagages de soute :
 
@@ -910,7 +910,7 @@ II. L'entreprise de transport aérien :
 
 3. soumet à une inspection filtrage les bagages de soute de leurs équipages.
 
-Article 5-1-3I-T - Comptes rendus d'exploitation
+Article 5-1-3I-T-Comptes rendus d'exploitation
 
 L'exploitant d'aérodrome établit, par installation, des comptes rendus mensuels d'exploitation du service d'inspection filtrage des bagages de soute qui précisent :
 
@@ -924,7 +924,7 @@ L'exploitant d'aérodrome établit, par installation, des comptes rendus mensuel
 
 5. les principaux incidents d'exploitation survenus accompagnés d'une analyse ainsi que les mesures correctives prises.
 
-Article 5-1-4 I-T - Conditions de réalisation de la fouille manuelle
+Article 5-1-4 I-T-Conditions de réalisation de la fouille manuelle
 
 La fouille manuelle d'un bagage de soute est réalisée en présence du passager ou, à défaut, en présence d'un représentant de l'entreprise de transport aérien.
 
@@ -934,7 +934,7 @@ Section laissée intentionnellement vide.
 
 Section 3 : Procédure de vérification de concordance entre passagers et bagages
 
-Article 5-3-1 I-T - Vérification de concordance
+Article 5-3-1 I-T-Vérification de concordance
 
 I.-Lorsqu'un passager remet à l'entreprise de transport aérien un bagage de soute pour le vol sur lequel ce passager est enregistré, cette dernière :
 
@@ -952,7 +952,7 @@ II.-Lors de la présentation d'un passager à l'embarquement, l'entreprise de tr
 
 Section 4 : Articles prohibés
 
-Article 5-4-1 I-T - Information des passagers relative aux bagages de soute
+Article 5-4-1 I-T-Information des passagers relative aux bagages de soute
 
 L'exploitant d'aérodrome et l'entreprise de transport aérien informent les passagers des articles prohibés en soute, des précautions à prendre en matière de surveillance des bagages de soute ainsi que, le cas échéant, de leurs obligations aux postes d'inspection filtrage.
 
@@ -970,31 +970,31 @@ Chapitre 6 : Fret et courrier
 
 Section 1 : Contrôles de sûreté du fret et du courrier
 
-Article 6-1-1 - Statut de sûreté du fret
+Article 6-1-1-Statut de sûreté du fret
 
 L'entreprise de transport aérien met à disposition du commandant de bord le statut de sûreté du fret embarqué.
 
-Section 2 : Inspection/filtrage
+Section 2 : Inspection/ filtrage
 
 Section laissée intentionnellement vide.
 
 Section 3 : Agents habilités
 
-Article 6-3-1 - Archivage des données
+Article 6-3-1-Archivage des données
 
 Les données précisées aux points 6.3.2.6. et 6.3.2.7. de l'annexe du règlement (UE) n° 185/2010 susvisé sont archivées pendant une durée minimale d'un mois.
 
-Article 6-3-2 - Renouvellement des dossiers de demande d'agrément des agents habilités
+Article 6-3-2-Renouvellement des dossiers de demande d'agrément des agents habilités
 
 Les dossiers de renouvellement de demande d'agrément en qualité d'agent habilité sont déposés au moins trois mois avant la date d'expiration de l'agrément.
 
 Section 4 : Chargeurs connus
 
-Article 6-4-1 - Obligation de visite annuelle pour les chargeurs connus
+Article 6-4-1-Obligation de visite annuelle pour les chargeurs connus
 
 En application du point 6.4.1.4. de l'annexe du règlement (UE) n° 185/2010 susvisé, le maintien de l'agrément d'un chargeur connu est conditionné à la réalisation annuelle par un validateur indépendant, certifié par le ministre chargé des transports, d'une vérification sur place des sites spécifiés dans l'agrément.
 
-Article 6-4-2 - Renouvellement des dossiers de demande d'agrément des chargeurs connus
+Article 6-4-2-Renouvellement des dossiers de demande d'agrément des chargeurs connus
 
 Les dossiers de renouvellement de demande d'agrément en qualité de chargeur connu sont déposés au moins un mois avant la date d'expiration de l'agrément.
 
@@ -1008,7 +1008,7 @@ Chapitre laissé intentionnellement vide.
 
 Chapitre 9 : Fournitures destinées aux aéroports
 
-Article 9-1 I-T - Fournisseur connu de personne morale autorisée à occuper le côté piste opérant un accès privatif
+Article 9-1 I-T-Fournisseur connu de personne morale autorisée à occuper le côté piste opérant un accès privatif
 
 I. Les personnes morales autorisées à occuper le côté piste opérant un accès privatif vers des installations privatives peuvent désigner des fournisseurs connus pour leur usage propre.
 
@@ -1026,13 +1026,13 @@ Section laissée intentionnellement vierge
 
 Section 1 : Recrutement
 
-Article 11-1-1 - Modalités de vérification des antécédents
+Article 11-1-1-Modalités de vérification des antécédents
 
 S'agissant notamment des dispositions de l'alinéa b du point 11.1.3. de l'annexe du règlement (UE) n° 185/2010 susvisé, la vérification des antécédents est réalisée avec succès dès lors qu'aucune condamnation à une peine correctionnelle ou à une peine criminelle n'est inscrite au bulletin n° 3 du casier judiciaire ou, pour les agents ayant résidé à l'étranger, dans un document équivalent accompagné, le cas échéant, de sa traduction certifiée en langue française.
 
 Le bulletin n° 3 de l'extrait de casier judiciaire présenté, ou, pour les agents ayant résidé à l'étranger, le document équivalent, date de moins de 3 mois.
 
-Article 11-1-2 - Accès aux informations non publiquement accessibles
+Article 11-1-2-Accès aux informations non publiquement accessibles
 
 Avant d'accéder à une formation prévue aux points 11.2.3., 11.2.4. et 11.2.5. de l'annexe du règlement (UE) n° 185/2010 susvisé, un agent doit avoir subi avec succès la vérification de ses antécédents prévue au point 11.1.3. de ladite annexe.
 
@@ -1042,37 +1042,37 @@ Section 2 : Formation
 
 Sous-section 1 : Obligations générales en matière de formation
 
-Article 11-2-1-1 - Formation initiale théorique et pratique de tous les agents
+Article 11-2-1-1-Formation initiale théorique et pratique de tous les agents
 
 Les durées minimales des formations initiales, théoriques et pratiques, mentionnées au chapitre 11 de l'annexe du règlement (UE) n° 185/2010 susvisé, sont précisées à l'appendice 11B. La vérification des compétences n'est pas incluse dans ces durées minimales.
 
 La formation des agents qui effectuent les tâches mentionnées aux points 11.2.3.1. à 11.2.3.4. et 11.2.3.6. de l'annexe du règlement (UE) n° 185/2010 susvisé inclut notamment et en tant que de besoin :
 
-- la présentation et la manipulation d'armes neutralisées, montées et démontées, ainsi que de simulants d'explosifs et d'engins explosifs improvisés factices ;
+-la présentation et la manipulation d'armes neutralisées, montées et démontées, ainsi que de simulants d'explosifs et d'engins explosifs improvisés factices ;
 
-- des formations pratiques portant sur les palpations et les fouilles manuelles (bagages et véhicules) ;
+-des formations pratiques portant sur les palpations et les fouilles manuelles (bagages et véhicules) ;
 
-- des formations pratiques sur l'utilisation des équipements.
+-des formations pratiques sur l'utilisation des équipements.
 
-Article 11-2-1-2 - Formation sur le tas
+Article 11-2-1-2-Formation sur le tas
 
 I. Avant d'autoriser un agent à effectuer sans supervision un contrôle de sûreté mentionné aux points 11.2.3.1. à 11.2.3.5. et 11.2.4. de l'annexe du règlement (UE) n° 185/2010, l'employeur s'assure et atteste que l'agent a suivi avec succès la formation sur le tas correspondante, telle que mentionnée au point 11.2.1.2. de cette même annexe.
 
 II. Dans le cadre de la formation sur le tas, l'employeur s'assure que les éléments suivants ont été présentés à l'agent et qu'il en a montré sa compréhension :
 
-- chaque consigne et procédure locale, et
+-chaque consigne et procédure locale, et
 
-- la mise en œuvre des diverses tâches et de leur protocole d'exploitation sur les divers équipements et configurations d'équipements que doit utiliser l'agent.
+-la mise en œuvre des diverses tâches et de leur protocole d'exploitation sur les divers équipements et configurations d'équipements que doit utiliser l'agent.
 
 III. La formation sur le tas est effectuée par et sous le contrôle d'un tuteur, selon des modalités définies par l'employeur et respectant les prescriptions suivantes :
 
 a) Le tuteur est :
 
-- soit une personne qui supervise directement les personnes effectuant les contrôles de sûreté qui font l'objet de la formation sur le tas (superviseur) ;
+-soit une personne qui supervise directement les personnes effectuant les contrôles de sûreté qui font l'objet de la formation sur le tas (superviseur) ;
 
-- soit un instructeur titulaire de la certification exigée pour exécuter, en situation opérationnelle, la tâche effectuée par l'agent en formation ;
+-soit un instructeur titulaire de la certification exigée pour exécuter, en situation opérationnelle, la tâche effectuée par l'agent en formation ;
 
-- soit un agent certifié ayant une expérience de deux ans minimum sur les fonctions pour lesquelles le tutorat lui est confié et ayant acquis les capacités à parrainer, à former sur le tas et à motiver, telles que mentionnées à l'alinéa f du point 11.2.4. de l'annexe du règlement (UE) n° 185/2010 susvisé. Cet agent peut ne pas être certifié s'il assure uniquement le tutorat d'agent relevant de l'article 11-3-4 de la présente annexe.
+-soit un agent certifié ayant une expérience de deux ans minimum sur les fonctions pour lesquelles le tutorat lui est confié et ayant acquis les capacités à parrainer, à former sur le tas et à motiver, telles que mentionnées à l'alinéa f du point 11.2.4. de l'annexe du règlement (UE) n° 185/2010 susvisé. Cet agent peut ne pas être certifié s'il assure uniquement le tutorat d'agent relevant de l'article 11-3-4 de la présente annexe.
 
 Le tuteur peut se faire assister par un ou plusieurs agents préalablement instruits sur leur rôle d'assistance. Ces assistants sont des agents certifiés et justifient d'une expérience d'un an minimum sur les fonctions du stagiaire. Ils peuvent ne pas être certifiés s'ils assurent uniquement le tutorat d'agent relevant de l'article 11-3-4 de la présente annexe.
 
@@ -1084,7 +1084,7 @@ d) Dans le cas où l'agent n'a pas réalisé la formation sur le tas requise dan
 
 IV. Les durées minimales de formation sur le tas relative à l'utilisation des équipements de sûreté sont précisées à l'appendice 11B de la présente annexe.
 
-Article 11-2-1-3 T - Contenu et approbation des cours
+Article 11-2-1-3 T-Contenu et approbation des cours
 
 I. Sans préjudice des droits de propriété intellectuelle, le ministre chargé des transports met un cours de référence à la disposition des instructeurs, organismes ou entreprises délivrant une formation initiale (théorique et pratique) définie au chapitre 11 de l'annexe du règlement (UE) n° 185/2010 susvisé.
 
@@ -1094,49 +1094,53 @@ II. L'entreprise, l'organisme ou l'instructeur ayant élaboré un contenu de cou
 
 L'utilisation d'un cours ou d'une partie de cours, approuvé par le ministre chargé des transports et référencé par son numéro d'approbation, dans son intégralité, par un autre organisme ou entreprise que celui qui en a sollicité et obtenu l'approbation, ne nécessite pas de mesures d'approbation particulière.
 
-Toute modification non substantielle d'un cours ou d'une formation sur ordinateur déjà approuvé devra être notifiée au ministre chargé des transports avec un préavis d'un mois avant sa mise en œuvre.
+Toute modification non substantielle d'un cours ou d'une formation sur ordinateur déjà approuvé fait l'objet d'une déclaration préalable auprès du ministre chargé des transports. Sauf avis contraire du ministre chargé des transports, la modification peut être mise en œuvre à l'issue d'un délai d'un mois à compter de la date de la réception de la déclaration.
 
 III. Le dossier de demande d'approbation d'un cours ou d'une partie de cours dispensé dans le cadre d'une formation initiale ou périodique contient l'ensemble des éléments suivants :
 
-- le contenu des cours, notamment les supports de cours électroniques et/ou papiers, les cours distribués, les notes de l'instructeur, les exercices, les travaux pratiques, les tests de progressions et évaluations;
+-le contenu des cours, notamment les supports de cours électroniques et/ ou papiers, les cours distribués, les notes de l'instructeur, les exercices, les travaux pratiques, les tests de progressions et évaluations ;
 
-- la durée de la formation par objectif pédagogique ;
+-la durée de la formation par objectif pédagogique ;
 
-- le nombre maximum de stagiaires par session ;
+-le nombre maximum de stagiaires par session ;
 
-- les méthodes pédagogiques retenues, notamment : cours magistral, formation ouverte et/ou à distance avec ou sans le soutien d'un instructeur, travaux dirigés, travaux pratiques, mise en situation ;
+-les méthodes pédagogiques retenues, notamment : cours magistral, formation ouverte et/ ou à distance avec ou sans le soutien d'un instructeur, travaux dirigés, travaux pratiques, mise en situation ;
 
-- les outils pédagogiques utilisés, notamment : enseignement assisté par ordinateur, équipements spécifiques, simulateurs d'équipements de sûreté, armes neutralisées, simulants d'explosifs, engins explosifs improvisés factices ;
+-les outils pédagogiques utilisés, notamment : enseignement assisté par ordinateur, équipements spécifiques, simulateurs d'équipements de sûreté, armes neutralisées, simulants d'explosifs, engins explosifs improvisés factices ;
 
-- un exemplaire des documents remis aux stagiaires pendant la formation ou à l'issue de celle-ci ;
+-un exemplaire des documents remis aux stagiaires pendant la formation ou à l'issue de celle-ci ;
 
-- les mesures permettant de s'assurer de l'identité de l'agent suivant la formation ;
+-les mesures permettant de s'assurer de l'identité de l'agent suivant la formation ;
 
-- les modalités mises en œuvre pour s'assurer que le stagiaire a suivi avec succès les formations ou a acquis les compétences définies aux points suivants de l'annexe du règlement (UE) n° 185/2010 susvisé :
+-les modalités mises en œuvre pour s'assurer que le stagiaire a suivi avec succès les formations ou a acquis les compétences définies aux points suivants de l'annexe du règlement (UE) n° 185/2010 susvisé :
 
-- point 11.2.3.3. pour celles des personnes relevant de l'article 11-3-4 de la présente annexe
+-point 11.2.3.3. pour celles des personnes relevant de l'article 11-3-4 de la présente annexe
 
-- points 11.2.3.6. à 11.2.3.10. ;
+-points 11.2.3.6. à 11.2.3.10. ;
 
-- points 11.2.5. à 11.2.7. ; et
+-points 11.2.5. à 11.2.7. ; et
 
-- point 11.2.4. pour celles ne faisant pas l'objet d'une certification.
+-point 11.2.4. pour celles ne faisant pas l'objet d'une certification.
 
 Les méthodes et outils pédagogiques doivent être adaptés à l'acquisition des compétences définies au chapitre 11 de l'annexe du règlement (UE) n° 185/2010 susvisé.
 
-Article 11-2-1-4 - Dossier de formation
+IV.-Les nouvelles dispositions légales ou réglementaires sont intégrées dans les cours dans les meilleurs délais, et au plus tard trois mois après leur entrée en vigueur.
+
+Les nouvelles menaces sont intégrées dans les cours dans les meilleurs délais, et au plus tard trois mois après la diffusion de l'information relative à leur apparition.
+
+Article 11-2-1-4-Dossier de formation
 
 Le dossier de formation de l'agent, du superviseur et de l'instructeur comprend notamment :
 
-- les attestations de formation initiale (théorique, pratique et sur le tas pour les personnes le justifiant) ;
+-les attestations de formation initiale (théorique, pratique et sur le tas pour les personnes le justifiant) ;
 
-- les attestations de formation périodique ;
+-les attestations de formation périodique ;
 
-- les attestations de certification et de renouvellement de certification ;
+-les attestations de certification et de renouvellement de certification ;
 
-- pour la formation sur le tas, la grille de suivi de formation sur le tas et de vérification des compétences, visée pas le ou les tuteurs et l'agent ;
+-pour la formation sur le tas, la grille de suivi de formation sur le tas et de vérification des compétences, visée pas le ou les tuteurs et l'agent ;
 
-- les documents attestant la réussite aux examens ou aux vérifications de compétences prévus au chapitre 11 de l'annexe du règlement (UE) n° 185/2010 susvisé.
+-les documents attestant la réussite aux examens ou aux vérifications de compétences prévus au chapitre 11 de l'annexe du règlement (UE) n° 185/2010 susvisé.
 
 L'employeur conserve le dossier de formation complet. Il le remet à l'agent lors de son départ de l'entreprise.
 
@@ -1144,31 +1148,31 @@ Dans le cas où l'agent est employé par une société d'intérim, son employeur
 
 L'employeur, ou la société utilisatrice lorsque l'agent est un intérimaire, tient ce dossier à la disposition des services compétents de l'Etat.
 
-Article 11-2-1-5 T - Contenu des attestations de formation
+Article 11-2-1-5 T-Contenu des attestations de formation
 
 Les attestations individuelles de formation contiennent au minimum les informations suivantes :
 
-- la mention "Attestation individuelle de formation relative à la sûreté aéroportuaire" ;
+-la mention " Attestation individuelle de formation relative à la sûreté aéroportuaire " ;
 
-- l'identification de l'entreprise ou de l'organisme qui la délivre ;
+-l'identification de l'entreprise ou de l'organisme qui la délivre ;
 
-- les nom et prénom(s) de la personne formée ;
+-les nom et prénom (s) de la personne formée ;
 
-- la liste et la référence (le(s) numéro(s) d'approbation) des cours de formation effectivement suivis par la personne ;
+-la liste et la référence (le (s) numéro (s) d'approbation) des cours de formation effectivement suivis par la personne ;
 
-- la mention "formation initiale" ou "formation sur le tas" ou "formation périodique";
+-la mention " formation initiale " ou " formation sur le tas " ou " formation périodique " ;
 
-- la durée des formations initiales et périodiques ;
+-la durée des formations initiales et périodiques ;
 
-- la date et le lieu de la délivrance de chaque cours ou formation, ainsi que, hors cas de formation sur ordinateur sans le soutien d'un instructeur, le nom de l'instructeur et sa signature ou celle de son employeur ;
+-la date et le lieu de la délivrance de chaque cours ou formation, ainsi que, hors cas de formation sur ordinateur sans le soutien d'un instructeur, le nom de l'instructeur et sa signature ou celle de son employeur ;
 
-- le nom et la signature de l'employeur de la personne formée.
+-le nom et la signature de l'employeur de la personne formée.
 
 Section 3 : Certification ou agrément
 
-Article 11-3-1 : Organisation de la certification des agents relevant des points 11.2.3.1. à 11.2.3.5. ou relevant de la section 12.9. de l'annexe du règlement (UE) no 185/2010 susvisé
+Article 11-3-1 : Organisation de la certification des agents relevant des points 11.2.3.1. à 11.2.3.5. ou relevant de la section 12.9. de l'annexe du règlement (UE) n o 185/2010 susvisé
 
-La certification et le renouvellement de la certification des compétences théoriques et pratiques des agents qui effectuent les tâches mentionnées aux points 11.2.3.1. à 11.2.3.5. ou relèvent du point 12.9. de l'annexe du règlement (UE) no 185/2010 susvisé sont organisés selon les typologies suivantes, liées aux missions exercées par ces agents.
+La certification et le renouvellement de la certification des compétences théoriques et pratiques des agents qui effectuent les tâches mentionnées aux points 11.2.3.1. à 11.2.3.5. ou relèvent du point 12.9. de l'annexe du règlement (UE) n o 185/2010 susvisé sont organisés selon les typologies suivantes, liées aux missions exercées par ces agents.
 
 Typologie
 
@@ -1182,7 +1186,7 @@ Tâches
 
 |
 
-Typologie no 1
+Typologie n o 1
 
 |
 
@@ -1190,11 +1194,11 @@ T1
 
 |
 
-11.2.3.2. : inspection/filtrage du fret et du courrier
+11.2.3.2. : inspection/ filtrage du fret et du courrier
 
 |
 
-Typologie no 2
+Typologie n o 2
 
 |
 
@@ -1202,15 +1206,15 @@ T2
 
 |
 
-11.2.3.1. (IFPBC) : inspection/filtrage des personnes, des bagages de cabine, des articles transportés, et
+11.2.3.1. (IFPBC) : inspection/ filtrage des personnes, des bagages de cabine, des articles transportés, et
 
-11.2.3.2. : inspection/filtrage du fret et du courrier, et
+11.2.3.2. : inspection/ filtrage du fret et du courrier, et
 
 11.2.3.5. : contrôles d'accès à un aéroport et opérations de surveillance et de patrouille.
 
 |
 
-Typologie no 3
+Typologie n o 3
 
 |
 
@@ -1218,13 +1222,13 @@ T3
 
 |
 
-11.2.3.1. (IFPBC) : inspection/filtrage des personnes, des bagages de cabine, des articles transportés, et
+11.2.3.1. (IFPBC) : inspection/ filtrage des personnes, des bagages de cabine, des articles transportés, et
 
 11.2.3.5. : contrôles d'accès à un aéroport et opérations de surveillance et de patrouille.
 
 |
 
-Typologie no 4
+Typologie n o 4
 
 |
 
@@ -1232,11 +1236,11 @@ T4
 
 |
 
-11.2.3.1. (IFBS) : inspection/filtrage des bagages de soute
+11.2.3.1. (IFBS) : inspection/ filtrage des bagages de soute
 
 |
 
-Typologie no 5
+Typologie n o 5
 
 |
 
@@ -1244,15 +1248,15 @@ T5
 
 |
 
-11.2.3.1. (IFPBC) : inspection/filtrage des personnes, des bagages de cabine, des articles transportés, et
+11.2.3.1. (IFPBC) : inspection/ filtrage des personnes, des bagages de cabine, des articles transportés, et
 
-11.2.3.3. : inspection/filtrage du courrier et du matériel des transporteurs aériens, des approvisionnements de bord et des fournitures d'aéroport, et
+11.2.3.3. : inspection/ filtrage du courrier et du matériel des transporteurs aériens, des approvisionnements de bord et des fournitures d'aéroport, et
 
 11.2.3.5. : contrôles d'accès à un aéroport et opérations de surveillance et de patrouille.
 
 |
 
-Typologie no 6
+Typologie n o 6
 
 |
 
@@ -1260,9 +1264,9 @@ T6
 
 |
 
-11.2.3.1. (IFPBC) : inspection/filtrage des personnes, des bagages de cabine, des articles transportés, et
+11.2.3.1. (IFPBC) : inspection/ filtrage des personnes, des bagages de cabine, des articles transportés, et
 
-11.2.3.3. : inspection/filtrage du courrier et du matériel des transporteurs aériens, des approvisionnements de bord et des fournitures d'aéroport, et
+11.2.3.3. : inspection/ filtrage du courrier et du matériel des transporteurs aériens, des approvisionnements de bord et des fournitures d'aéroport, et
 
 11.2.3.4. : inspections des véhicules, et
 
@@ -1270,7 +1274,7 @@ T6
 
 |
 
-Typologie no 7
+Typologie n o 7
 
 |
 
@@ -1278,9 +1282,9 @@ T7
 
 |
 
-11.2.3.1. : inspection/filtrage des personnes, des bagages de cabine, des articles transportés et des bagages de soute, et
+11.2.3.1. : inspection/ filtrage des personnes, des bagages de cabine, des articles transportés et des bagages de soute, et
 
-11.2.3.3. : inspection/filtrage du courrier et du matériel des transporteurs aériens, des approvisionnements de bord et des fournitures d'aéroport, et
+11.2.3.3. : inspection/ filtrage du courrier et du matériel des transporteurs aériens, des approvisionnements de bord et des fournitures d'aéroport, et
 
 11.2.3.4. : inspections des véhicules, et
 
@@ -1288,7 +1292,7 @@ T7
 
 |
 
-Typologie no 8
+Typologie n o 8
 
 |
 
@@ -1296,11 +1300,11 @@ T8
 
 |
 
-11.2.3.3. : inspection/filtrage du courrier et du matériel des transporteurs aériens, des approvisionnements de bord et des fournitures d'aéroport.
+11.2.3.3. : inspection/ filtrage du courrier et du matériel des transporteurs aériens, des approvisionnements de bord et des fournitures d'aéroport.
 
 |
 
-Typologie no 9
+Typologie n o 9
 
 |
 
@@ -1312,7 +1316,7 @@ T9
 
 |
 
-Typologie no 10
+Typologie n o 10
 
 |
 
@@ -1320,11 +1324,11 @@ T10
 
 |
 
-11.2.3.1. : inspection/filtrage des personnes, des bagages de cabine, des articles transportés et des bagages de soute, et
+11.2.3.1. : inspection/ filtrage des personnes, des bagages de cabine, des articles transportés et des bagages de soute, et
 
-11.2.3.2. : inspection/filtrage du fret et du courrier, et
+11.2.3.2. : inspection/ filtrage du fret et du courrier, et
 
-11.2.3.3. : inspection/filtrage du courrier et du matériel des transporteurs aériens, des approvisionnements de bord et des fournitures d'aéroport, et
+11.2.3.3. : inspection/ filtrage du courrier et du matériel des transporteurs aériens, des approvisionnements de bord et des fournitures d'aéroport, et
 
 11.2.3.4. : inspections des véhicules, et
 
@@ -1340,9 +1344,9 @@ Ces typologies englobent l'exploitation des équipements d'imagerie pour l'obten
 
 Dans le cadre d'un renouvellement de certification, l'ensemble de ces typologies sont adaptées aux agents n'utilisant pas d'équipement d'imagerie ou n'effectuant pas d'opération de surveillance et de patrouille ou de contrôle d'accès.
 
-Les sessions d'examen sont surveillées par une personne indépendante de tout organisme délivrant les formations mentionnées au point 11.2.3. de l'annexe du règlement (UE) no 185/2010 susvisé.
+Les sessions d'examen sont surveillées par une personne indépendante de tout organisme délivrant les formations mentionnées au point 11.2.3. de l'annexe du règlement (UE) n o 185/2010 susvisé.
 
-Article 11-3-2 T - Modalités de certification des agents relevant des points 11.2.3.1. à 11.2.3.5. de l'annexe du règlement (UE) n 185/2010 susvisé
+Article 11-3-2 T-Modalités de certification des agents relevant des points 11.2.3.1. à 11.2.3.5. de l'annexe du règlement (UE) n 185/2010 susvisé
 
 I. En application de l'article R. 213-4-1 du code de l'aviation civile, l'école nationale de l'aviation civile (ENAC) est désignée pour organiser les examens de certification des agents de sûreté de l'aviation civile relevant des points 11.2.3.1. à 11.2.3.5. de l'annexe du règlement (UE) n° 185/2010 susvisé.
 
@@ -1350,7 +1354,7 @@ II. Les centres d'examen où sont organisés les examens de certification des ag
 
 Le directeur de l'ENAC fixe les critères, notamment relatifs aux équipements informatiques, aux connexions internet et aux aménagements de salles, permettant d'obtenir cette accréditation.
 
-Il peut retirer ou, en cas d'urgence, suspendre l'accréditation d'un centre d'examen, dans les conditions prévues à l'article 24 de la loi n° 2000-321 du 12 avril 2000 relative aux droits des citoyens dans leurs relations avec les administrations, si ce dernier ne répond plus à ces critères.
+Il peut retirer ou, en cas d'urgence, suspendre l'accréditation d'un centre d'examen, dans les conditions prévues aux articles L. 121-1, L. 121-2 et L. 122-1 du code des relations entre le public et l'administration, si ce dernier ne répond plus à ces critères.
 
 Les centres d'examens mis à disposition par des organismes d'État ne sont pas soumis à ces dispositions.
 
@@ -1360,17 +1364,29 @@ La formation initiale avant l'obtention d'une certification est réalisée dans 
 
 Si un agent souhaite obtenir une certification pour une nouvelle typologie d'agent de sûreté de l'aviation civile définie à l'article 11-3-1, la formation initiale requise doit couvrir l'ensemble des objectifs pédagogiques non couvert par la ou les typologies d'agent de sûreté de l'aviation civile pour lesquelles il est certifié.
 
-IV. L'examen de certification pour une typologie d'agent de sûreté de l'aviation civile définie à l'article 11-3-1 est organisé sur ordinateur. Il comporte des questions à choix multiples portant sur :
+IV. L'examen de certification pour une typologie d'agent de sûreté de l'aviation civile définie à l'article 11-3-1 est organisé sur ordinateur. Il comporte :
 
-- les connaissances règlementaires théoriques et pratiques associées aux objectifs pédagogiques de la typologie d'agent de sûreté de l'aviation civile définie à l'article 11-3-1, et
+-des questions à choix multiples (QCM) portant sur :
 
-- les connaissances théoriques relatives aux équipements radioscopiques, de détection d'explosifs et des scanners de sûreté et des questions de reconnaissance pratique d'imagerie, pour les typologies d'agent de sûreté de l'aviation civile, définies à l'article 11-3-1, avec imagerie et, lors d'un renouvellement de certification, lorsque l'agent utilise des équipements d'imagerie.
+-les connaissances réglementaires théoriques et pratiques associées aux objectifs pédagogiques de la typologie d'agent de sûreté de l'aviation civile définie à l'article 11-3-1 (épreuve connaissance réglementaire) ; et
 
-Un candidat obtient sa certification pour une typologie d'agent de sûreté de l'aviation civile définie à l'article 11-3-1 s'il obtient une note minimale de 12 sur 20 à l'examen de certification.
+-les connaissances théoriques relatives aux équipements de sûreté (épreuve connaissance équipements) ; et
 
-V. Le nombre de présentation à un examen pour l'obtention d'une certification pour une typologie d'agent de sûreté de l'aviation civile définie à l'article 11-3-1 est limité à quatre.
+-des épreuves de reconnaissance pratique d'imagerie, pour les typologies d'agent de sûreté de l'aviation civile (épreuve imagerie IFBC, épreuve imagerie IFBS, épreuve imagerie fret et courrier, épreuve imagerie approvisionnements de bord et fournitures d'aéroport), définies à l'article 11-3-1, avec imagerie et, lors d'un renouvellement de certification, lorsque l'agent utilise des équipements d'imagerie.
 
-Lorsqu'un agent échoue successivement deux fois à un examen de certification pour une typologie d'agent de sûreté de l'aviation civile définie à l'article 11-3-1, il suit une formation initiale relative à la typologie d'agent de sûreté de l'aviation civile à laquelle il a échoué avant de se présenter à nouveau à cet examen. L'employeur atteste que l'agent a suivi cette formation.
+Un candidat obtient sa certification pour une typologie d'agent de sûreté de l'aviation civile définie à l'article 11-3-1 s'il obtient :
+
+-une note minimale de 10 sur 20 au QCM ; et
+
+-une note minimale de 10 sur 20 à chaque épreuve imagerie ; et
+
+-une note moyenne minimale de 12/20 à l'examen de certification.
+
+V. Le nombre de présentations à un examen pour l'obtention d'une certification pour une typologie d'agent de sûreté de l'aviation civile définie à l'article 11-3-1 est limité à quatre, quelle que soit la typologie présentée par l'agent.
+
+Lorsqu'un agent échoue successivement deux fois à un examen de certification pour une des typologies d'agent de sûreté de l'aviation civile définie à l'article 11-3-1, il suit une formation initiale relative à une typologie d'agent de sûreté de l'aviation civile avant de se présenter à nouveau à l'examen de certification initiale relatif à cette typologie. L'employeur atteste que l'agent a suivi cette formation.
+
+Dès lors que l'agent a réussi l'examen, il retrouve le bénéfice de ses quatre passages lors de ses sessions d'examens suivantes.
 
 VI. Les modalités de renouvellement de certification à une typologie d'agent de sûreté de l'aviation civile définie à l'article 11-3-1 sont identiques à celles fixées pour l'obtention d'une certification initiale dans le présent article, à l'exception de la disposition relative à la formation initiale mentionnée au paragraphe III du présent article.
 
@@ -1382,27 +1398,27 @@ Lorsqu'un agent renouvelle avec succès une certification pour une typologie d'a
 
 IX. Le directeur de l'ENAC fixe les modalités d'application du présent article en ce qui concerne l'organisation pratique des examens.
 
-Article 11-3-3 - Certification des agents qui supervisent directement les agents relevant des points 11.2.3.1. à 11.2.3.5. de l'annexe du règlement (UE) n° 185/2010 susvisé
+Article 11-3-3-Certification des agents qui supervisent directement les agents relevant des points 11.2.3.1. à 11.2.3.5. de l'annexe du règlement (UE) n° 185/2010 susvisé
 
 Pour être certifiés, les agents qui supervisent directement les agents concernés par les points 11.2.3.1. à 11.2.3.5. de l'annexe du règlement (UE) n° 185/2010 susvisé doivent :
 
-- être titulaires de la certification requise pour les agents supervisés, délivrée suivant les mêmes modalités que celles décrites à l'article 11-3-1, et
+-être titulaires de la certification requise pour les agents supervisés, délivrée suivant les mêmes modalités que celles décrites à l'article 11-3-1, et
 
-- avoir suivi la formation spécifique et acquis les compétences requises par le point 11.2.4. de l'annexe du règlement (UE) n° 185/2010 susvisé.
+-avoir suivi la formation spécifique et acquis les compétences requises par le point 11.2.4. de l'annexe du règlement (UE) n° 185/2010 susvisé.
 
-Article 11-3-4 - Exemption de certification pour certains agents relevant du point 11.2.3.3. de l'annexe du règlement (UE) n° 185/2010 et de ceux qui les supervisent directement
+Article 11-3-4-Exemption de certification pour certains agents relevant du point 11.2.3.3. de l'annexe du règlement (UE) n° 185/2010 et de ceux qui les supervisent directement
 
 Les personnes relevant du point 11.2.3.3. de l'annexe du règlement (UE) n° 185/2010 sont exemptées de certification si elles sont uniquement autorisées à effectuer des contrôles visuels et ou des fouilles manuelles.
 
 Les agents qui supervisent uniquement des personnes relevant du paragraphe précédent sont exemptés de certification.
 
-Article 11-3-5 - Absence de renouvellement de certification d'un agent
+Article 11-3-5-Absence de renouvellement de certification d'un agent
 
 En l'absence de renouvellement ou en cas d'échec lors du processus de renouvellement de certification d'un agent dans un délai maximum de trois mois suivant la date de fin de validité de sa certification, ce dernier ne peut plus exercer de tâches pour lesquelles cette certification est requise. Il est tenu de suivre une formation initiale pour obtenir à nouveau la certification souhaitée.
 
 Section 4 : Formation périodique
 
-Article 11-4-1 - Formation périodique des agents
+Article 11-4-1-Formation périodique des agents
 
 L'employeur des agents qui effectuent les tâches énumérées au point 11.2 de l'annexe du règlement (UE) n° 185/2010 susvisé met en œuvre la formation périodique et les examens correspondants, tels que définis au point 11.4. de cette même annexe.
 
@@ -1410,67 +1426,67 @@ Les durées et périodicités minimales de formation périodique sont précisée
 
 Les personnes qui font fonctionner des équipements radioscopiques ou de détection d'explosifs et les examinateurs humains de scanners de sûreté suivent la formation périodique définie :
 
-- au point 11.4.1. de l'annexe du règlement (UE) n° 185/2010 susvisé, et
+-au point 11.4.1. de l'annexe du règlement (UE) n° 185/2010 susvisé, et
 
-- au point 11.4.2. de cette même annexe pour les compétences non couvertes par l'alinéa précédent.
+-au point 11.4.2. de cette même annexe pour les compétences non couvertes par l'alinéa précédent.
 
 Lorsque leurs compétences n'ont pas été exercées pendant plus de 6 mois, ces personnes suivent une formation périodique définie aux points 11.4.1. et 11.4.1.1. de l'annexe du règlement (UE) n° 185/2010 susvisé avant la reprise de fonctions de sûreté.
 
 Section 5 : Qualification des instructeurs
 
-Article 11-5-1 - Qualification des instructeurs des personnes relevant des points 11.2.3.6. à 11.2.3.10., 11.2.4. (supervisant directement les agents visées aux point 11.2.3.6. à 11.2.3.10.), 11.2.6.2. et 11.2.7. de l'annexe du règlement (UE) n° 185/2010 susvisé
+Article 11-5-1-Qualification des instructeurs des personnes relevant des points 11.2.3.6. à 11.2.3.10., 11.2.4. (supervisant directement les agents visées aux point 11.2.3.6. à 11.2.3.10.), 11.2.6.2. et 11.2.7. de l'annexe du règlement (UE) n° 185/2010 susvisé
 
 L'employeur des agents qui doivent suivre les formations liées aux tâches énumérées aux points 11.2.3.6. à 11.2.3.10., 11.2.4. (des agents qui supervisent directement les agents visés aux points 11.2.3.6. à 11.2.3.10.), 11.2.6.2. et 11.2.7. de l'annexe du règlement (UE) n° 185/2010 susvisé, s'assure que l'instructeur chargé de dispenser la formation est qualifié, avant de lui confier la réalisation d'une session de formation. Il tient à jour et à la disposition des services compétents de l'Etat la liste des instructeurs qualifiés auxquels il fait appel.
 
 Pour être qualifié, un instructeur doit posséder une expérience de formateur dans le domaine enseigné de la sûreté du transport aérien d'une durée d'au moins un an, ou satisfaire à chacun des 3 critères suivants :
 
-- attester une expérience pratique d'au moins six mois dans les fonctions d'exécution des domaines enseignés, datant de moins de 5 ans ;
+-attester une expérience pratique d'au moins six mois dans les fonctions d'exécution des domaines enseignés, datant de moins de 5 ans ;
 
-- attester une pratique de l'enseignement de plus d'un an ou de la participation à une formation de formateur, datant de moins de 5 ans ;
+-attester une pratique de l'enseignement de plus d'un an ou de la participation à une formation de formateur, datant de moins de 5 ans ;
 
-- attester avoir suivi avec succès la formation définie au point 11.2.2. de l'annexe du règlement (UE) n° 185/2010 susvisé, datant de moins de 5 ans.
+-attester avoir suivi avec succès la formation définie au point 11.2.2. de l'annexe du règlement (UE) n° 185/2010 susvisé, datant de moins de 5 ans.
 
-Article 11-5-2 - Formation des instructeurs certifiés
+Article 11-5-2-Formation des instructeurs certifiés
 
 Avant leur certification, puis deux fois par période de cinq ans, au cours de la troisième et de la cinquième année suivant leur certification ou son renouvellement, les instructeurs, chargés de dispenser la formation prévue aux points 11.2.3.1. à 11.2.3.5. ainsi qu'aux points 11.2.4. (sauf s'il s'agit de la formation des agents qui supervisent directement les agents visées aux point 11.2.3.6. à 11.2.3.10.) et 11.2.5. de l'annexe du règlement (UE) n° 185/2010 susvisé et remplissant les conditions fixées au point 11.5.2. de ladite annexe, suivent des formations délivrées sous l'autorité du ministre chargé des transports.
 
 Ces formations incluent notamment et en tant que de besoin :
 
-- la présentation et la manipulation d'armes neutralisées, montées et démontées, ainsi que de simulants d'explosifs et d'engins explosifs improvisés factices ;
+-la présentation et la manipulation d'armes neutralisées, montées et démontées, ainsi que de simulants d'explosifs et d'engins explosifs improvisés factices ;
 
-- des formations pratiques portant sur les palpations et les fouilles manuelles (bagages et véhicules) ;
+-des formations pratiques portant sur les palpations et les fouilles manuelles (bagages et véhicules) ;
 
-- des formations pratiques sur l'utilisation des équipements.
+-des formations pratiques sur l'utilisation des équipements.
 
-Article 11-5-3- Certification des instructeurs
+Article 11-5-3-Certification des instructeurs
 
 La certification et le renouvellement de la certification pour les instructeurs chargés de dispenser la formation prévue aux points 11.2.3.1. à 11.2.3.5. ainsi qu'aux points 11.2.4. (sauf s'il s'agit de la formation des agents qui supervisent directement les agents visées aux point 11.2.3.6. à 11.2.3.10.) et 11.2.5. de l'annexe du règlement (UE) n° 185/2010 susvisé est organisée selon les modules suivants :
 
-- module général : pédagogie, connaissances réglementaires sûreté ;
+-module général : pédagogie, connaissances réglementaires sûreté ;
 
-- module de spécialisation du module général, relatif à la reconnaissance d'image et à l'exploitation des équipements radioscopiques, de détection d'explosifs et des scanners de sûreté ;
+-module de spécialisation du module général, relatif à la reconnaissance d'image et à l'exploitation des équipements radioscopiques, de détection d'explosifs et des scanners de sûreté ;
 
-- module management : capacité à parrainer, à former sur le tas, à motiver ; connaissance de la gestion des conflits.
+-module management : capacité à parrainer, à former sur le tas, à motiver ; connaissance de la gestion des conflits.
 
 La durée de validité d'une certification d'instructeur est limitée à 5 ans.
 
-Article 11-5-4-T - Modalités de certification des instructeurs dispensant les formations mentionnées aux points 11.2.3.1. à 11.2.3.5., 11.2.4. (sauf s'il s'agit de la formation des agents qui supervisent directement les agents visées aux point 11.2.3.6. à 11.2.3.10.) et 11.2.5. de l'annexe du règlement (UE) n° 185 2010 susvisé
+Article 11-5-4-T-Modalités de certification des instructeurs dispensant les formations mentionnées aux points 11.2.3.1. à 11.2.3.5., 11.2.4. (sauf s'il s'agit de la formation des agents qui supervisent directement les agents visées aux point 11.2.3.6. à 11.2.3.10.) et 11.2.5. de l'annexe du règlement (UE) n° 185 2010 susvisé
 
 I. En application de l'article R. 213-4-1 du code de l'aviation civile, l'ENAC est désignée pour organiser les examens de certification des instructeurs en sûreté de l'aviation civile relevant du point 11.5.5. de l'annexe du règlement (UE) n° 185/2010 susvisé.
 
-II. Le directeur de l'ENAC désigne, pour chaque examen, les membres du jury qui comprend à minima :
+II. Le directeur de l'ENAC désigne, pour les examens de certification d'instructeur en sûreté de l'aviation civile correspondant aux modules général et management, les membres du jury, qui comprend a minima :
 
-- un président ou son suppléant, représentant le ministre chargé des transports et désigné au sein de la direction de la sécurité de l'aviation civile (DSAC) ;
+-un président ou son suppléant, représentant le ministre chargé des transports et désigné au sein de la direction de la sécurité de l'aviation civile (DSAC) ;
 
-- deux membres représentants les services de l'État, choisis au sein de la police aux frontières (PAF) et de la gendarmerie des transports aériens (GTA) ;
+-un membre représentant les services de l'Etat, choisi au sein de la police aux frontières (PAF) ou de la gendarmerie des transports aériens (GTA) ;
 
-- un membre représentant l'ENAC n'ayant pas participé à la formation des candidats.
+-un membre représentant l'ENAC n'ayant pas participé à la dernière formation instructeur en sûreté de l'aviation civile initiale ou périodique des candidats.
 
 Le jury d'examen peut se faire assister d'examinateurs chargés de faire passer les épreuves orales. Le président du jury établit la liste de ces examinateurs.
 
 Le président du jury peut consulter toute personne dont il juge la compétence utile.
 
-Le jury arrête le choix des sujets des épreuves.
+Le président du jury arrête le choix des sujets des épreuves.
 
 Il est responsable du déroulement des épreuves.
 
@@ -1482,15 +1498,15 @@ La formation initiale avant l'obtention d'une certification est réalisée dans 
 
 IV. L'examen de certification d'instructeur en sûreté de l'aviation civile correspondant au module général comporte :
 
-- une épreuve consistant en un questionnaire à choix multiples (QCM), portant sur les connaissances règlementaires des domaines de la sûreté, scindés en différents thèmes, et
+-une épreuve consistant en un questionnaire à choix multiples (QCM), portant sur les connaissances règlementaires des domaines de la sûreté, scindés en différents thèmes, et
 
-- une épreuve orale portant sur les techniques pédagogiques, les méthodes d'apprentissage et les connaissances réglementaires.
+-une épreuve orale portant sur les techniques pédagogiques, les méthodes d'apprentissage et les connaissances réglementaires.
 
 Pour réussir le QCM, le candidat doit obtenir :
 
-- une note minimale de 10 sur 20 à chaque thème, et
+-une note minimale de 10 sur 20 à chaque thème, et
 
-- une note moyenne minimale de 12 sur 20 à l'épreuve.
+-une note moyenne minimale de 12 sur 20 à l'épreuve.
 
 Pour se présenter à l'épreuve orale, le candidat doit avoir réussi le QCM.
 
@@ -1500,9 +1516,9 @@ Un candidat obtient sa certification correspondant au module général s'il a r�
 
 V. L'examen de certification d'instructeur en sûreté de l'aviation civile correspondant au module de spécialisation du module général relatif à la reconnaissance d'image et à l'exploitation des équipements radioscopiques, de détection d'explosifs et des scanners de sûreté, comporte :
 
-- une épreuve QCM portant sur les connaissances théoriques sur les équipements radioscopiques, de détection d'explosifs et des scanners de sûreté, et
+-une épreuve QCM portant sur les connaissances théoriques sur les équipements radioscopiques, de détection d'explosifs et des scanners de sûreté, et
 
-- une épreuve de reconnaissance pratique d'imagerie.
+-une épreuve de reconnaissance pratique d'imagerie.
 
 Pour se présenter à cet examen, le candidat doit être titulaire de la certification module général.
 
@@ -1520,15 +1536,19 @@ Un candidat obtient sa certification correspondant au module management s'il a r
 
 VII. En cas d'échec à l'examen de certification relatif à un module de certification d'instructeur en sûreté de l'aviation civile :
 
-- si la note du candidat est supérieure ou égale à 8 sur 20 à une épreuve, ce dernier peut se représenter à l'épreuve à laquelle il a échoué et garde le bénéfice de sa formation initiale ou périodique pendant une période de quatre mois ;
+-si la note du candidat est supérieure ou égale à 8 sur 20 à une épreuve, ce dernier peut se représenter à l'épreuve à laquelle il a échoué et garde le bénéfice de sa formation initiale ou périodique pendant une période de quatre mois ;
 
-- si la note du candidat est inférieure à 8 sur 20 à une épreuve, ou si le candidat a échoué successivement à trois sessions d'examens, il devra suivre une formation initiale complète avant de pouvoir se présenter à nouveau à un examen relatif à l'obtention ou au renouvellement d'un module de certification.
+-si la note du candidat est inférieure à 8 sur 20 à une épreuve, ou si le candidat a échoué successivement à trois sessions d'examens, il devra suivre une formation initiale complète avant de pouvoir se présenter à nouveau à un examen relatif à l'obtention ou au renouvellement d'un module de certification.
 
 VIII. Le nombre de présentations à un examen relatif à l'obtention d'un module de certification d'instructeur en sûreté de l'aviation civile est limité à quatre.
 
 En l'absence de renouvellement, ou en cas d'échec lors du processus de renouvellement, de la certification d'un instructeur dans un délai maximum de 6 mois suivant la date de fin validité de sa certification, ce dernier suit une formation initiale pour l'obtention de la certification sollicitée, avant de se présenter à un examen de renouvellement de certification.
 
 IX. Les modalités de renouvellement d'un module de certification d'instructeur sont identiques à celles fixées pour l'obtention d'un module de certification d'instructeur dans le présent article.
+
+La date prise en compte pour le calcul de la validité de chaque module de certification d'instructeur en sûreté de l'aviation civile est celle de la date de la fin du mois de la réussite à l'examen.
+
+Lorsqu'un instructeur renouvelle avec succès une certification pour un module dans les six mois précédant ou suivant sa date de validité, c'est cette dernière qui est prise en compte pour le calcul de la validité de sa certification renouvelée.
 
 X. Le directeur de l'ENAC fixe les modalités d'application du présent article en ce qui concerne l'organisation pratique des examens.
 
@@ -1772,7 +1792,7 @@ Formations délivrées par un instructeur certifié ou qualifié
 
 |
 
-11.2.3.9. : contrôles de sûreté sur le fret et le courrier autre que l'inspection/le filtrage
+11.2.3.9. : contrôles de sûreté sur le fret et le courrier autre que l'inspection/ le filtrage
 
 |
 
@@ -1780,7 +1800,7 @@ Formations délivrées par un instructeur certifié ou qualifié
 
 |
 
-11.2.3.10. : contrôles de sûreté sur le courrier et le matériel des transporteurs aériens, les approvisionnements de bord et les fournitures d'aéroport autre que l'inspection/le filtrage
+11.2.3.10. : contrôles de sûreté sur le courrier et le matériel des transporteurs aériens, les approvisionnements de bord et les fournitures d'aéroport autre que l'inspection/ le filtrage
 
 |
 
@@ -1816,7 +1836,7 @@ Formations délivrées par un instructeur certifié
 
 |
 
-11.2.3.3. CVFM (contrôle visuel - fouille manuelle) : inspection/filtrage du courrier et du matériel des transporteurs aériens, des approvisionnements de bord et des fournitures d'aéroport, limitée au contrôle visuel et à la fouille manuelle
+11.2.3.3. CVFM (contrôle visuel-fouille manuelle) : inspection/ filtrage du courrier et du matériel des transporteurs aériens, des approvisionnements de bord et des fournitures d'aéroport, limitée au contrôle visuel et à la fouille manuelle
 
 |
 
@@ -1844,7 +1864,7 @@ RX
 
 |
 
-EDS simple vue / multi vues
+EDS simple vue/ multi vues
 
 |
 
@@ -2136,7 +2156,7 @@ sur 5 ans
 
 |
 
-11.2.3.9 : contrôles de sûreté sur le fret et le courrier autre que l'inspection/le filtrage ou accès à du fret ou du courrier aérien identifiable
+11.2.3.9 : contrôles de sûreté sur le fret et le courrier autre que l'inspection/ le filtrage ou accès à du fret ou du courrier aérien identifiable
 
 |
 
@@ -2148,7 +2168,7 @@ sur 5 ans
 
 |
 
-11.2.3.10 : contrôles de sûreté sur le courrier et le matériel des transporteurs aériens, les approvisionnements de bord et les fournitures d'aéroport autre que l'inspection/le filtrage
+11.2.3.10 : contrôles de sûreté sur le courrier et le matériel des transporteurs aériens, les approvisionnements de bord et les fournitures d'aéroport autre que l'inspection/ le filtrage
 
 |
 
@@ -2564,11 +2584,11 @@ Section 0 : Certification des équipements de sûreté
 
 Sous-section 1 : Dispositions générales aux équipements de sûreté
 
-Article 12-0-1-1 T - Entités concernées
+Article 12-0-1-1 T-Entités concernées
 
-Au sens du présent chapitre de la présente annexe, "les entités utilisant les équipements de sûreté" s'entendent comme les entités citées à l'article B-1 de la présente annexe utilisant les équipements de sûreté.
+Au sens du présent chapitre de la présente annexe, " les entités utilisant les équipements de sûreté " s'entendent comme les entités citées à l'article B-1 de la présente annexe utilisant les équipements de sûreté.
 
-Article 12-0-1-2 T - Liste des équipements de sûreté
+Article 12-0-1-2 T-Liste des équipements de sûreté
 
 Types d'équipement de sûreté
 
@@ -2606,7 +2626,7 @@ NON
 
 |
 
-Equipement de radioscopie/Equipement d'imagerie radioscopique (RX)
+Equipement de radioscopie/ Equipement d'imagerie radioscopique (RX)
 
 |
 
@@ -2716,7 +2736,7 @@ OUI
 
 Sont considérés comme équipements de sûreté soumis aux régimes de certification au sens de la présente annexe les équipements suivants :
 
-Article 12-0-1-3 T - Obligations des constructeurs d'équipements de sûreté ou de leurs distributeurs
+Article 12-0-1-3 T-Obligations des constructeurs d'équipements de sûreté ou de leurs distributeurs
 
 Les constructeurs d'équipements ou leurs distributeurs :
 
@@ -2724,7 +2744,7 @@ Les constructeurs d'équipements ou leurs distributeurs :
 
 2. transmettent aux entités utilisant les équipements de sûreté le certificat individuel ou le certificat de type lorsque seul celui-ci est requis.
 
-Article 12-0-1-4 - Obligations des entités utilisant des équipements de sûreté
+Article 12-0-1-4-Obligations des entités utilisant des équipements de sûreté
 
 Les entités utilisant les équipements de sûreté :
 
@@ -2736,7 +2756,7 @@ Les entités utilisant les équipements de sûreté :
 
 4. adressent au directeur général de l'aviation civile, pour toute installation ou réinstallation d'un équipement de sûreté doté d'un certificat individuel, un compte-rendu d'installation dudit équipement dans un délai de quinze jours maximum après leur installation. Ce compte-rendu mentionne le type de l'équipement, son numéro de série, sa localisation précise, l'ensemble des réglages effectués, des contrôles réalisés et leur résultat pour garantir son parfait fonctionnement.
 
-Article 12-0-1-5 T - Modalités communes aux certifications de type et individuelle des équipements de sûreté
+Article 12-0-1-5 T-Modalités communes aux certifications de type et individuelle des équipements de sûreté
 
 I. Les conditions techniques requises pour la délivrance des certificats de type et individuel sont consultables auprès du directeur général de l'aviation civile selon les conditions définies par l'annexe à l'arrêté du 30 novembre 2011portant approbation de l'instruction générale interministérielle n° 1300 sur la protection du secret de la défense nationale.
 
@@ -2748,17 +2768,17 @@ IV. Les certificats de type et individuel sont valides tant qu'ils n'ont pas ét
 
 Sous-section 2 : Certification de type d'équipement de sûreté
 
-Article 12-0-2-1 T - Certification de type
+Article 12-0-2-1 T-Certification de type
 
 Un certificat de type d'équipement de sûreté est délivré dès lors que les caractéristiques de l'équipement de sûreté représentatif du type soumis à certification, son concept d'opérations et, le cas échéant, ses outils et procédures de vérification de bon fonctionnement, sont conformes à la législation nationale et à la réglementation européenne et nationale, ainsi qu'aux conditions techniques requises établies par le directeur général de l'aviation civile.
 
-Article 12-0-2-2 T - Modalités de délivrance d'un certificat de type d'équipement de sûreté
+Article 12-0-2-2 T-Modalités de délivrance d'un certificat de type d'équipement de sûreté
 
 I. Les conditions techniques applicables pour la vérification de la conformité de type sont celles en vigueur à la date de demande du certificat de type.
 
 II. Sur demande du directeur général de l'aviation civile, le constructeur de l'équipement, ou son distributeur agissant pour son compte, met à sa disposition un exemplaire de l'équipement de sûreté en vue de réaliser les tests d'évaluation nécessaires à l'instruction de la demande de certificat de type. Les frais de transport, de manutention, d'assurance et de mise à disposition durant toute la période de certification, ainsi que les frais d'installation, de repliement et de formation, sont à la charge du demandeur.
 
-Article 12-0-2-3 T - Modifications apportées à un certificat de type d'équipement de sûreté
+Article 12-0-2-3 T-Modifications apportées à un certificat de type d'équipement de sûreté
 
 I. Les modifications que le constructeur apporte à un équipement disposant d'un certificat de type font l'objet d'une déclaration au directeur général de l'aviation civile, laquelle précise les évolutions apportées sur les caractéristiques de l'équipement de sûreté, son concept d'opérations ou ses outils et procédures de vérification de bon fonctionnement et donne toute indication sur les composants techniques qui font l'objet de la modification.
 
@@ -2768,7 +2788,7 @@ III. Si les modifications ne sont pas de nature à remettre en cause les évalua
 
 IV. Si un nouveau certificat de type est nécessaire, le détenteur du certificat soumet au directeur général de l'aviation civile une nouvelle demande de certification de type conforme aux dispositions de la présente annexe.
 
-Article 12-0-2-4 T - Suspension et abrogation d'un certificat de type d'équipement de sûreté
+Article 12-0-2-4 T-Suspension et abrogation d'un certificat de type d'équipement de sûreté
 
 I. Un certificat de type d'équipement de sûreté peut être suspendu par le directeur général de l'aviation civile lorsqu'une non-conformité avec de graves déficiences au sens de l'annexe II du règlement (CE) n° 300/2008 susvisé affectant au moins deux équipements de sûreté du type concerné est constatée.
 
@@ -2784,13 +2804,13 @@ VI. Le constructeur de l'équipement de sûreté, ou son distributeur, doit port
 
 Sous-section 3 : Certification individuelle des équipements de sûreté
 
-Article 12-0-3-1 T - Certification individuelle
+Article 12-0-3-1 T-Certification individuelle
 
 I. Un certificat individuel d'équipement de sûreté est délivré dès lors que les caractéristiques de l'équipement de sûreté, son concept d'opérations et ses outils et procédures de vérification de bon fonctionnement sont conformes à ceux d'un équipement disposant d'un certificat de type en cours de validité et à la législation nationale et à la réglementation européenne et nationale, ainsi qu'aux conditions techniques requises établies par le directeur général de l'aviation civile.
 
 II. Dans le cas d'équipements de sûreté soumis uniquement à certification individuelle, le certificat individuel est délivré dès lors que les caractéristiques de l'équipement de sûreté, son concept d'opérations et, le cas échéant, ses outils et procédures de vérification de bon fonctionnement, sont conformes à la législation nationale et à la réglementation européenne et nationale, ainsi qu'aux conditions techniques requises établies par le directeur général de l'aviation civile.
 
-Article 12-0-3-2 T- Modalités de délivrance du certificat individuel d'équipement de sûreté
+Article 12-0-3-2 T-Modalités de délivrance du certificat individuel d'équipement de sûreté
 
 I. Les conditions techniques applicables pour la vérification de la conformité individuelle sont celles en vigueur à la date de demande du certificat individuel.
 
@@ -2798,17 +2818,17 @@ II. Dans le cas où le type d'équipement ne dispose pas d'un certificat de type
 
 III. Le directeur général de l'aviation civile notifie au postulant les éventuelles non conformités relevées au cours de l'évaluation.
 
-Article 12-0-3-3 T - Modifications d'un équipement de sûreté disposant d'un certificat individuel
+Article 12-0-3-3 T-Modifications d'un équipement de sûreté disposant d'un certificat individuel
 
 Les modifications à apporter à un équipement disposant d'un certificat individuel, susceptibles de rendre l'équipement non conforme à son certificat individuel, doivent faire l'objet d'une nouvelle demande de certificat individuel auprès du directeur général de l'aviation civile.
 
-Article 12-0-3-4 T - Suspension et abrogation d'un certificat individuel d'équipement de sûreté
+Article 12-0-3-4 T-Suspension et abrogation d'un certificat individuel d'équipement de sûreté
 
 I. En cas de non-conformité avec de graves déficiences au sens de l'annexe II du règlement (CE) n° 300/2008 susvisé affectant un équipement disposant d'un certificat individuel, le directeur général de l'aviation civile peut :
 
-- suspendre le certificat individuel. Sauf en cas d'urgence, l'entité utilisant l'équipement de sûreté concerné, son constructeur ou le cas échéant son distributeur, sont préalablement avisés de la mesure de suspension ou de retrait envisagée et disposent d'un délai d'un mois pour présenter leurs observations écrites ou orales. En cas d'urgence, la suspension immédiate de la certification individuelle peut être prononcée pour une durée maximale d'un mois, reconductible une fois au cas où les circonstances l'exigent ;
+-suspendre le certificat individuel. Sauf en cas d'urgence, l'entité utilisant l'équipement de sûreté concerné, son constructeur ou le cas échéant son distributeur, sont préalablement avisés de la mesure de suspension ou de retrait envisagée et disposent d'un délai d'un mois pour présenter leurs observations écrites ou orales. En cas d'urgence, la suspension immédiate de la certification individuelle peut être prononcée pour une durée maximale d'un mois, reconductible une fois au cas où les circonstances l'exigent ;
 
-- imposer des mesures restrictives d'activité ou des mesures correctives ou de nature à compenser la non-conformité relevée. Sauf en cas d'urgence, l'entité utilisant l'équipement de sûreté concerné, son constructeur ou le cas échéant son distributeur sont préalablement avisés de la mesure envisagée et disposent d'un délai de dix jours ouvrés pour présenter leurs observations écrites ou orales.
+-imposer des mesures restrictives d'activité ou des mesures correctives ou de nature à compenser la non-conformité relevée. Sauf en cas d'urgence, l'entité utilisant l'équipement de sûreté concerné, son constructeur ou le cas échéant son distributeur sont préalablement avisés de la mesure envisagée et disposent d'un délai de dix jours ouvrés pour présenter leurs observations écrites ou orales.
 
 II. Lorsque l'entité utilisant l'équipement concerné ne peut durablement mettre en œuvre les mesures correctives de nature à lever toutes les non conformités, le certificat individuel est abrogé.
 
@@ -2816,7 +2836,7 @@ III. La suspension ou l'abrogation du certificat individuel a pour effet d'inter
 
 Section 1 : Portiques de détection de métaux
 
-Article 12-1-1 T - Signalétique destinée aux personnes porteuses de dispositifs médicaux
+Article 12-1-1 T-Signalétique destinée aux personnes porteuses de dispositifs médicaux
 
 Les entités qui utilisent un portique de détection de métaux sont chargées de mettre en place la signalétique destinée aux personnes porteuses de dispositifs médicaux implantés.
 
@@ -2830,23 +2850,23 @@ Section laissée intentionnellement vide.
 
 Section 4 : Systèmes de détection des explosifs
 
-Article 12-4-1 T - Enregistrement des images complètes des bagages ayant provoqué une alarme
+Article 12-4-1 T-Enregistrement des images complètes des bagages ayant provoqué une alarme
 
 Tout système de détection des explosifs installé à compter du 1er janvier 2015 doit enregistrer les images complètes des bagages ayant provoqué une alarme ainsi que la décision de l'opérateur prise en conséquence. A ces images sont ajoutées les informations relatives à la date et à l'heure de l'évènement ainsi que la destination du bagage. La durée de conservation de ces enregistrements est fixée à cinq jours.
 
 Section 5 : Bibliothèques d'images fictives ou d'images de menace
 
-Article 12-5-1 T - Administrateur TIP
+Article 12-5-1 T-Administrateur TIP
 
 Le directeur du service technique de l'aviation civile est désigné comme administrateur TIP au sens du point 12.5.1.4 de l'annexe du règlement (UE) no185/2010 susvisé.
 
-Article 12-5-2 T - Bibliothèque d'images
+Article 12-5-2 T-Bibliothèque d'images
 
 Les images fictives, ou images de menaces, projetées durant l'exploitation des équipements d'imagerie radioscopique ou systèmes de détection d'explosifs, sont exclusivement issues des bibliothèques d'images certifiées afin de pouvoir considérer le logiciel TIP comme activé.
 
 En vue de leur certification, les constructeurs d'équipements ou leurs distributeurs soumettent chaque année avant le 30 juin une bibliothèque d'images mise à jour au directeur général de l'aviation civile selon les modalités de la section 0 du chapitre 12 de la présente annexe.
 
-Article 12-5-3 T - Modalités de répartition des bibliothèques pour l'inspection filtrage mixte des bagages
+Article 12-5-3 T-Modalités de répartition des bibliothèques pour l'inspection filtrage mixte des bagages
 
 Les bibliothèques d'images fictives ou d'images de menaces utilisées par les équipements d'imagerie radioscopique, ou par les systèmes de détection d'explosifs, pour l'inspection filtrage mixte des bagages de cabine et des bagages de soute, ont la même composition que celles utilisées par les équipements radioscopiques, ou par les systèmes de détection d'explosifs, pour l'inspection filtrage des bagages de soute.
 
@@ -2856,7 +2876,7 @@ Section laissée intentionnellement vide.
 
 Section 7 : Inspection filtrage des liquides, aérosols et gels
 
-Article 12-7-1 T - Activation de la fonction de projection d'images fictives ou d'images de menace
+Article 12-7-1 T-Activation de la fonction de projection d'images fictives ou d'images de menace
 
 Lorsque les équipements d'inspection filtrage des liquides, aérosols et gels sont également utilisés comme équipement d'imagerie radioscopique, la fonction de projection d'images fictives ou d'images de menace n'est pas activée lorsque seuls les liquides, aérosols et gels sont inspectés filtrés.
 
@@ -2966,11 +2986,11 @@ II. L'acquisition des compétences 11.2.3.1. à 11.2.3.4. est attestée par la p
 
 III. Pour justifier de l'acquisition des compétences 11.2.3.6., l'agent dispose d'une attestation de suivi avec succès de la formation définie au point 11.2.3.6. de l'annexe du règlement (UE) n° 185/2010 susvisé.
 
-Article 12-9-1-3 T - Certification individuelle des équipes cynotechniques
+Article 12-9-1-3 T-Certification individuelle des équipes cynotechniques
 
 Le certificat individuel est délivré dès lors que les performances de l'équipe cynotechnique sont conformes à la législation nationale et à la réglementation européenne et nationale, ainsi qu'aux conditions techniques requises établies par le directeur général de l'aviation civile.
 
-Article 12-9-1-4 T - Modalités de la certification individuelle des équipes cynotechniques
+Article 12-9-1-4 T-Modalités de la certification individuelle des équipes cynotechniques
 
 I. Les conditions techniques requises pour la délivrance du certificat individuel des équipes cynotechniques sont consultables auprès du directeur général de l'aviation civile selon les conditions de l'arrêté du 30 novembre 2011portant approbation de l'instruction générale interministérielle n° 1300 sur la protection du secret de la défense nationale. Ces conditions techniques sont celles en vigueur à la date de demande du certificat individuel.
 
@@ -2984,17 +3004,17 @@ V. Le nombre de présentations à un examen de certification est limité à quat
 
 Lorsqu'un agent échoue à un examen de certification, il suit une formation de soixante-dix heures avant de se présenter à nouveau à cet examen. L'employeur atteste que l'agent a suivi cette formation.
 
-Article 12-9-1-5 T- Suspension et retrait d'un certificat individuel d'équipe cynotechnique
+Article 12-9-1-5 T-Suspension et retrait d'un certificat individuel d'équipe cynotechnique
 
 I. En cas de non-conformité relevée aux obligations auxquelles sont soumises les équipes cynotechniques disposant d'un certificat individuel, ou lorsque celles-ci peuvent constituer, par leurs méthodes de travail ou par leur comportement professionnel, un risque pour la sûreté, le directeur général de l'aviation civile peut :
 
-- suspendre le certificat individuel. Sauf en cas d'urgence, l'équipe cynotechnique concernée est préalablement avisée de la mesure de suspension ou de retrait envisagée et dispose d'un délai d'un mois pour présenter ses observations écrites ou orales. En cas d'urgence, la suspension immédiate de la certification individuelle peut être prononcée pour une durée maximale d'un mois, reconductible une fois au cas où les circonstances l'exigent ;
+-suspendre le certificat individuel. Sauf en cas d'urgence, l'équipe cynotechnique concernée est préalablement avisée de la mesure de suspension ou de retrait envisagée et dispose d'un délai d'un mois pour présenter ses observations écrites ou orales. En cas d'urgence, la suspension immédiate de la certification individuelle peut être prononcée pour une durée maximale d'un mois, reconductible une fois au cas où les circonstances l'exigent ;
 
-- imposer des mesures restrictives d'activité ou des mesures correctives ou de nature à compenser la non-conformité relevée. Sauf en cas d'urgence, l'équipe cynotechnique concernée est préalablement avisée de la mesure envisagée et dispose d'un délai de dix jours ouvrés pour présenter ses observations écrites ou orales.
+-imposer des mesures restrictives d'activité ou des mesures correctives ou de nature à compenser la non-conformité relevée. Sauf en cas d'urgence, l'équipe cynotechnique concernée est préalablement avisée de la mesure envisagée et dispose d'un délai de dix jours ouvrés pour présenter ses observations écrites ou orales.
 
 II. L'employeur de l'équipe cynotechnique concernée est tenu informé dans les meilleurs délais des mesures envisagées ou prises en application des deux alinéas précédents.
 
-Article 12-9-1-6 T: Posture de travail du chien
+Article 12-9-1-6 T : Posture de travail du chien
 
 Les pattes arrière du chien sont posées sur une surface ou un socle stable lors de l'inspection filtrage.
 
@@ -3004,7 +3024,7 @@ Sous-section laissée intentionnellement vide.
 
 Sous-section 3 : Exigences de formation
 
-Article 12-9-3-1 T: Approbation des cours de formation des conducteurs de chiens
+Article 12-9-3-1 T : Approbation des cours de formation des conducteurs de chiens
 
 I. En application du point 12.9.3.2. de l'annexe du règlement (UE) n° 185/2010 susvisé, le contenu des cours de formation des conducteurs de chiens est approuvé par le directeur général de l'aviation civile.
 
@@ -3016,21 +3036,21 @@ Toute modification non substantielle d'un cours déjà approuvé devra être not
 
 III. Le dossier de demande d'approbation d'un cours, ou d'une partie de cours, dispensé dans le cadre d'une formation initiale ou périodique, contient l'ensemble des éléments suivants :
 
-- le contenu des cours, notamment les supports de cours, les cours distribués, les notes de l'instructeur, les exercices, les travaux pratiques, les tests de progressions et évaluations ;
+-le contenu des cours, notamment les supports de cours, les cours distribués, les notes de l'instructeur, les exercices, les travaux pratiques, les tests de progressions et évaluations ;
 
-- la durée de la formation par objectif pédagogique ;
+-la durée de la formation par objectif pédagogique ;
 
-- les méthodes pédagogiques retenues ;
+-les méthodes pédagogiques retenues ;
 
-- les outils pédagogiques utilisés ;
+-les outils pédagogiques utilisés ;
 
-- un exemplaire des documents remis aux stagiaires pendant la formation ou à l'issue de celle-ci ;
+-un exemplaire des documents remis aux stagiaires pendant la formation ou à l'issue de celle-ci ;
 
-- les mesures permettant de s'assurer de l'identité de l'agent suivant la formation.
+-les mesures permettant de s'assurer de l'identité de l'agent suivant la formation.
 
 IV. Le dossier de demande d'approbation d'un cours contient également les éléments permettant de vérifier la qualification des instructeurs tels que définis à l'article 12-9-3-4 de la présente annexe.
 
-Article 12-9-3-2 T: Objectifs pédagogiques et durées minimales de la formation des équipes cynotechniques
+Article 12-9-3-2 T : Objectifs pédagogiques et durées minimales de la formation des équipes cynotechniques
 
 La formation délivrée par l'instructeur qualifié dans le domaine de la cynotechnie doit permettre d'acquérir les compétences suivantes :
 
@@ -3058,7 +3078,7 @@ Mettre en œuvre les exercices liés à la motivation de l'animal et obtenir le 
 
 |
 
-Enumérer et mettre en œuvre les trois techniques (en liberté, en semi-dirigé et en systématique) de recherche d'explosif pour les chiens en déambulation libre / Mettre en œuvre la technique de recherche d'explosif à distance et savoir corriger les dérives du système en liberté par un entraînement en laisse pour les CDE de détection à distance.
+Enumérer et mettre en œuvre les trois techniques (en liberté, en semi-dirigé et en systématique) de recherche d'explosif pour les chiens en déambulation libre/ Mettre en œuvre la technique de recherche d'explosif à distance et savoir corriger les dérives du système en liberté par un entraînement en laisse pour les CDE de détection à distance.
 
 |
 
@@ -3138,7 +3158,7 @@ Avant d'accéder à une des formations relevant de l'article 12-9-3-2 de la pré
 
 Les dispositions du IV de l'article R. 213-4-5 du code de l'aviation civile s'appliquent également à la vérification des antécédents relevant du présent article.
 
-Article 12-9-3-4 T: Qualification des instructeurs
+Article 12-9-3-4 T : Qualification des instructeurs
 
 I. L'employeur des agents qui suivent les formations liées aux modules détaillés à l'article 12-9-3-2 de la présente annexe s'assure que l'instructeur chargé de dispenser la formation est qualifié, avant de lui confier la réalisation d'une session de formation.
 
@@ -3150,57 +3170,57 @@ a) justifier d'une expérience de formateur dans le domaine de la cynotechnie a�
 
 b) justifier d'une pratique de l'enseignement d'au moins un an, datant de moins de cinq ans, ou de la réussite à une formation de formateur, datant de moins de cinq ans, et satisfaire à un des deux critères suivants :
 
-- avoir été préalablement certifié conducteur de chiens dans chacune des deux normes au sens de la sous-section 12.9.2. de l'annexe du règlement (UE) n° 185/2010 susvisé et justifier d'une expérience pratique d'au moins un an, dans les fonctions d'exécution des domaines enseignés ; ou
+-avoir été préalablement certifié conducteur de chiens dans chacune des deux normes au sens de la sous-section 12.9.2. de l'annexe du règlement (UE) n° 185/2010 susvisé et justifier d'une expérience pratique d'au moins un an, dans les fonctions d'exécution des domaines enseignés ; ou
 
-- posséder dans le domaine de la cynotechnie une formation a minima de niveau 4 conformément à la nomenclature des niveaux de formation approuvée par décision du groupe permanent de la formation professionnelle et de la promotion sociale, ou avoir été formé au sein d'une administration civile ou militaire en qualité de conducteur de chiens. Il doit également justifier d'une expérience pratique d'au moins un an en tant que conducteur de chien détecteur d'explosifs.
+-posséder dans le domaine de la cynotechnie une formation a minima de niveau 4 conformément à la nomenclature des niveaux de formation approuvée par décision du groupe permanent de la formation professionnelle et de la promotion sociale, ou avoir été formé au sein d'une administration civile ou militaire en qualité de conducteur de chiens. Il doit également justifier d'une expérience pratique d'au moins un an en tant que conducteur de chien détecteur d'explosifs.
 
 IV. Avant de dispenser un module de formation détaillé à l'article 12-9-3-2 de la présente annexe, l'instructeur doit également avoir subi avec succès la vérification de ses antécédents prévue au point 11.1.3. de l'annexe du règlement (UE) n° 185/2010 susvisé.
 
-Article 12-9-3-5 T: Manipulation de matières explosives
+Article 12-9-3-5 T : Manipulation de matières explosives
 
-Sans préjudice des règles applicables en matière de produits explosifs qu'il lui appartient de respecter, toute personne manipulant des matières explosives détient, conformément au point 12.9.3.6. de l'annexe du règlement (UE) n° 185/2010 susvisé, les compétences liées à l'objectif pédagogique général : "Acquérir les connaissances théoriques en matière de pyrotechnie." au sens de l'article 12-9-3-2 de la présente annexe.
+Sans préjudice des règles applicables en matière de produits explosifs qu'il lui appartient de respecter, toute personne manipulant des matières explosives détient, conformément au point 12.9.3.6. de l'annexe du règlement (UE) n° 185/2010 susvisé, les compétences liées à l'objectif pédagogique général : " Acquérir les connaissances théoriques en matière de pyrotechnie. " au sens de l'article 12-9-3-2 de la présente annexe.
 
-Sous-section 4 : Dispositions applicables à l'environnement de travail Inspection filtrage du fret et du courrier" en déambulation libre
+Sous-section 4 : Dispositions applicables à l'environnement de travail Inspection filtrage du fret et du courrier " en déambulation libre
 
 Article 12-9-4-1 T : Conditions d'inspection filtrage des fûts scellés
 
-L'inspection filtrage des fûts scellés (non soudés) est réalisée par les équipes cynotechniques disposant d'un certificat individuel pour l'environnement de travail "Inspection filtrage du fret et courrier".
+L'inspection filtrage des fûts scellés (non soudés) est réalisée par les équipes cynotechniques disposant d'un certificat individuel pour l'environnement de travail " Inspection filtrage du fret et courrier ".
 
 L'inspection est réalisée uniquement sur les fûts qui ont fait l'objet d'une prise en charge par un agent habilité au moins 24 heures avant ladite inspection. Cette période de confinement de 24 heures est mise en œuvre par un seul agent habilité.
 
 Lors de l'inspection, le chien détecteur d'explosifs doit avoir accès aux ouvertures de chacun des fûts.
 
-Sous-section 5 : Dispositions applicables à l'environnement de travail "Inspection filtrage des bagages de soute"
+Sous-section 5 : Dispositions applicables à l'environnement de travail " Inspection filtrage des bagages de soute "
 
 Sous-section laissée intentionnellement vide.
 
-Sous-section 6 : Dispositions applicables à l'environnement de travail "Fouille de sûreté des locaux de la zone de sûreté à accès réglementé"
+Sous-section 6 : Dispositions applicables à l'environnement de travail " Fouille de sûreté des locaux de la zone de sûreté à accès réglementé "
 
 Sous-section laissée intentionnellement vide.
 
-Sous-section 7 : Dispositions applicables à l'environnement de travail "Contrôle des véhicules"
+Sous-section 7 : Dispositions applicables à l'environnement de travail " Contrôle des véhicules "
 
 Sous-section laissée intentionnellement vide.
 
-Sous-section 8 : Dispositions applicables à l'environnement de travail "Inspection filtrage du fret en méthode de détection à distance d'odeurs d'explosifs"
+Sous-section 8 : Dispositions applicables à l'environnement de travail " Inspection filtrage du fret en méthode de détection à distance d'odeurs d'explosifs "
 
-Article 12-9-8-1 T: Disposition générale d'utilisation de la méthode de détection à distance d'odeurs d'explosifs
+Article 12-9-8-1 T : Disposition générale d'utilisation de la méthode de détection à distance d'odeurs d'explosifs
 
 La méthode de détection à distance d'odeurs d'explosifs n'est utilisée que pour l'inspection filtrage des expéditions de fret et de courrier d'un volume maximum unitaire de 3 m3, ainsi que des expéditions de fret emportées dans un contenant tôlé ou bâché n'excédant pas 107 m3.
 
-Sous-section 9 : Dispositions applicables à l'environnement de travail "Inspection filtrage des approvisionnements de bord et des fournitures destinées aux aéroports"
+Sous-section 9 : Dispositions applicables à l'environnement de travail " Inspection filtrage des approvisionnements de bord et des fournitures destinées aux aéroports "
 
 Sous-section laissée intentionnellement vide.
 
-Sous-section 10 : Dispositions applicables à l'environnement de travail "Contrôle des aéronefs".
+Sous-section 10 : Dispositions applicables à l'environnement de travail " Contrôle des aéronefs ".
 
 Sous-section laissée intentionnellement vide.
 
-Sous-section 11 : Dispositions applicables à l'environnement de travail "Inspection filtrage des personnes".
+Sous-section 11 : Dispositions applicables à l'environnement de travail " Inspection filtrage des personnes ".
 
 Sous-section laissée intentionnellement vide.
 
-Sous-section 12 : Dispositions applicables à l'environnement de travail "Inspection filtrage des bagages de cabine et des objets transportés .
+Sous-section 12 : Dispositions applicables à l'environnement de travail " Inspection filtrage des bagages de cabine et des objets transportés.
 
 Sous-section laissée intentionnellement vide.
 
@@ -3230,7 +3250,7 @@ L'entité utilisant un scanner de sûreté à ondes millimétriques :
 
 6. s'assure que l'opérateur est à son poste ;
 
-7. s'assure que la file d'attente se forme à l'extérieur de la zone d'exposition mentionnée au 2 du présent article;
+7. s'assure que la file d'attente se forme à l'extérieur de la zone d'exposition mentionnée au 2 du présent article ;
 
 8. s'assure que la personne destinée à être inspectée filtrée adopte la position requise par le concept d'opérations du scanner tel que prévu dans les certificats de type et les certificats individuels.
 
@@ -3444,7 +3464,7 @@ Remplacement du contenu de l'article
 
 |
 
-Mise en cohérence de l'article 1-2-7-1 avec le point 1.2.7.5. de l'annexe du règlement (UE) 185/2010 (modifié par le règlement (UE) 116/2013 du 6 novembre 2013) - Accès accompagné de passagers voyageant hors contrat de transport sans carte d'embarquement ou titre équivalent
+Mise en cohérence de l'article 1-2-7-1 avec le point 1.2.7.5. de l'annexe du règlement (UE) 185/2010 (modifié par le règlement (UE) 116/2013 du 6 novembre 2013)-Accès accompagné de passagers voyageant hors contrat de transport sans carte d'embarquement ou titre équivalent
 
 |
 
@@ -3562,31 +3582,31 @@ Intégration
 
 Correspondances entre les anciens articles et les articles actuels :
 
-11-1-1 <> 1 § 2 AIM ; 11.-1-2 <> 1 § 1 AIM
+11-1-1 < > 1 § 2 AIM ; 11.-1-2 < > 1 § 1 AIM
 
-11-2-1-1 <> 2 AIM ; 11-2-1-2 <> 5 AIM
+11-2-1-1 < > 2 AIM ; 11-2-1-2 < > 5 AIM
 
-11-2-1-3 T <> 1 AM ; 11-2-1-4 <> 12 AIM
+11-2-1-3 T < > 1 AM ; 11-2-1-4 < > 12 AIM
 
-11-2-1-5 T<> 8 AM ;
+11-2-1-5 T < > 8 AM ;
 
-11-3-1 <> 3 AIM ; 11-3-2 T <> 6 AM ;
+11-3-1 < > 3 AIM ; 11-3-2 T < > 6 AM ;
 
-11-3-3 <> 4 AIM ; 11-3-4 <> nouveau
+11-3-3 < > 4 AIM ; 11-3-4 < > nouveau
 
-11-3-5 <> 7 AIM ;
+11-3-5 < > 7 AIM ;
 
-11-4-1 <> 6 AIM ;
+11-4-1 < > 6 AIM ;
 
-11-5-1 <> 11 AIM ; 11-5-2 9 AIM
+11-5-1 < > 11 AIM ; 11-5-2 9 AIM
 
-11-5-3 <> 10 AIM ; 11-5-4 T<> 7 AM
+11-5-3 < > 10 AIM ; 11-5-4 T < > 7 AM
 
-11-7 T <> 9 AM
+11-7 T < > 9 AM
 
-Appendice 11B <> annexe I AIM
+Appendice 11B < > annexe I AIM
 
-Appendice 11C <> annexe II AIM
+Appendice 11C < > annexe II AIM
 
 |
 
@@ -3718,7 +3738,7 @@ Nouvel article
 
 |
 
-Application de l'amendement du point 11.3.1 de l'annexe du règlement (UE) 185/2010 (modifié par le règlement (UE) 1116/22013 du 6 novembre 2013) :dispense de certification de certains agents 11.2.3.3
+Application de l'amendement du point 11.3.1 de l'annexe du règlement (UE) 185/2010 (modifié par le règlement (UE) 1116/22013 du 6 novembre 2013) : dispense de certification de certains agents 11.2.3.3
 
 |
 
