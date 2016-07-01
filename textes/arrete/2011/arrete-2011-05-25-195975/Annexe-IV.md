@@ -2,6 +2,6 @@
 
 FORMULAIRE TYPE DE DEMANDE D'UNE AVANCE REMBOURSABLE SANS INTÉRÊT PAR UN SYNDICAT DE COPROPRIÉTAIRES OUTRE-MER
 
-Vous pouvez consulter l'image dans le fac-similé du JO nº 0303 du 31/12/2015, texte nº 314 à l'adresse suivante
+Vous pouvez consulter l'annexe dans le fac-similé du JO nº 0181 du 05 août 2016, texte nº 64 à l'adresse suivante
 
-http://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000031741508
+https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000032968053

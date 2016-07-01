@@ -28,7 +28,7 @@ FONCTIONS EXERCÉES OUVRANT DROIT AU VERSEMENT D'UNE NOUVELLE BONIFICATION INDIC
 
 13° Chargé d'études financières et/ ou analyste de contreparties ;
 
-14° Chargé de gestion statutaire ou financière au niveau fédéral dans le domaine administratif ou informatique ;
+14° (supprimé) ;
 
 15° Chargé de la communication d'un département ou d'une direction ;
 
@@ -36,7 +36,7 @@ FONCTIONS EXERCÉES OUVRANT DROIT AU VERSEMENT D'UNE NOUVELLE BONIFICATION INDIC
 
 17° Chargé du recrutement et/ ou des carrières et/ ou de la mobilité et/ ou d'orientation professionnelle au niveau fédéral ou au niveau d'une direction ;
 
-18° Chef de projet ;
+18° (supprimé) ;
 
 19° Chef de projet utilisateur ;
 
@@ -44,9 +44,9 @@ FONCTIONS EXERCÉES OUVRANT DROIT AU VERSEMENT D'UNE NOUVELLE BONIFICATION INDIC
 
 21° Comptable de production bancaire ou d'opérations fournisseurs au niveau d'une direction ;
 
-22° Comptable responsable d'un service opérationnel (SOP) important ;
+22° (supprimé) ;
 
-23° Conducteur d'opérations BTP (site parisien) ;
+23° (supprimé) ;
 
 24° Contrôleur des risques ;
 
@@ -86,7 +86,7 @@ FONCTIONS EXERCÉES OUVRANT DROIT AU VERSEMENT D'UNE NOUVELLE BONIFICATION INDIC
 
 42° Responsable de l'antenne de la branche caisses de retraites de Bordeaux à La Rochelle pour le fonds spécial des pensions des ouvriers des établissements industriels de l'Etat (FSPOEIE) ;
 
-43° Responsable du budget, du contrôle de gestion, des moyens généraux, du service du personnel ou du contentieux d'une direction ;
+43° (supprimé) ;
 
 44° Responsable du contentieux et des affaires générales au sein de l'unité administrative chargée de la gestion d'un fonds de la branche caisse de retraites de Bordeaux (BCRB) ;
 

@@ -24,22 +24,6 @@ par emploi
 
 |
 
-Responsable du budget et/ou du contrôle de gestion et/ou des moyens généraux et/ou du service du personnel et/ou du contentieux d'une direction
-
-|
-
-A
-
-|
-
-1
-
-|
-
-40
-
-|
-
 Chargé d'études financières et/ou analyste de contreparties
 
 |
@@ -96,11 +80,25 @@ A
 
 |
 
-40
+31
 
 |
 
 30
+
+|
+
+Adjoint au responsable d'unité à la direction des retraites |
+
+B
+
+|
+
+29
+
+|
+
+25
 
 |
 
@@ -112,7 +110,7 @@ B
 
 |
 
-2
+1
 
 |
 
@@ -128,7 +126,7 @@ B
 
 |
 
-2
+1
 
 |
 
@@ -176,7 +174,7 @@ B
 
 |
 
-9
+8
 
 |
 
@@ -193,22 +191,6 @@ B
 |
 
 1
-
-|
-
-25
-
-|
-
-Chargé de gestion statutaire ou financière au niveau fédéral dans le domaine administratif ou informatique
-
-|
-
-B
-
-|
-
-2
 
 |
 
@@ -288,9 +270,7 @@ B
 
 |
 
-31
-
-|
+35 |
 
 20
 
@@ -312,22 +292,6 @@ B
 
 |
 
-Comptable responsable de service opérationnel important.
-
-|
-
-B
-
-|
-
-2
-
-|
-
-20
-
-|
-
 Comptable de production bancaire ou d'opérations fournisseurs au niveau d'une direction.
 
 |
@@ -336,9 +300,7 @@ B
 
 |
 
-9
-
-|
+10 |
 
 20
 
@@ -352,7 +314,7 @@ B
 
 |
 
-38
+37
 
 |
 
@@ -368,9 +330,7 @@ B
 
 |
 
-78
-
-|
+83 |
 
 20
 
@@ -384,9 +344,7 @@ B
 
 |
 
-34
-
-|
+31 |
 
 20
 
@@ -401,22 +359,6 @@ B
 |
 
 2
-
-|
-
-20
-
-|
-
-Conducteur d'opérations BTP (site parisien)
-
-|
-
-B
-
-|
-
-1
 
 |
 
@@ -448,15 +390,13 @@ B
 
 |
 
-8
-
-|
+19 |
 
 20
 
 |
 
-Technicien de production bancaire exerçant des responsabilités particulières dans les évolutions système
+Technicien de production bancaire exerçant des responsabilités particulières dans les évolutions " système "
 
 |
 
@@ -496,7 +436,7 @@ B
 
 |
 
-34
+40
 
 |
 
@@ -528,7 +468,7 @@ B
 
 |
 
-9
+8
 
 |
 
@@ -544,9 +484,7 @@ B
 
 |
 
-6
-
-|
+7 |
 
 20
 
@@ -568,22 +506,6 @@ B
 
 |
 
-Adjoint au responsable d'unité à la direction des retraites
-
-|
-
-B
-
-|
-
-33
-
-|
-
-20
-
-|
-
 Gestionnaire expert
 
 |
@@ -592,7 +514,7 @@ B
 
 |
 
-53
+64
 
 |
 
@@ -624,9 +546,7 @@ B
 
 |
 
-15
-
-|
+14 |
 
 15
 
@@ -640,7 +560,7 @@ B
 
 |
 
-163
+151
 
 |
 
