@@ -1,0 +1,31 @@
+# Article 1er
+
+Le texte de l'article 3 de l'avenant n° 28 du 24 mars 2015 est annulé. Il est remplacé par la rédaction suivante :
+
+« Article 3
+
+Compte personnel de formation
+
+A compter du 1er janvier 2015, un compte personnel de formation est ouvert aux salariés. Ce compte est alimenté à hauteur de 24 heures par année de travail à temps complet jusqu'à l'acquisition d'un crédit de 120 heures, puis de 12 heures par année de travail à temps complet, dans la limite d'un plafond de 150 heures.
+
+L'acquisition s'effectue pro rata temporis pour les salariés à temps partiel.
+
+Le compte ne peut être mobilisé qu'avec l'accord exprès de son titulaire. Le refus de mobiliser son compte ne constitue pas une faute du salarié.
+
+Les heures de formations éligibles au compte personnel de formation demeurent acquises en cas de changement de situation professionnelle ou de perte d'emploi de leur titulaire. Le compte personnel de formation est fermé lorsque son titulaire est admis à faire valoir l'ensemble de ses droits à retraite.
+
+Dispositions transitoires
+
+Le crédit d'heures de formation acquis au titre du droit individuel à la formation (DIF) non utilisé au 31 décembre 2014 est utilisable dans le cadre du compte personnel de formation jusqu'au 31 décembre 2020. Ce crédit ne figure pas dans le compteur du compte personnel de formation du salarié mais doit être justifié auprès de l'OPCA-PL dénommé ACTALIANS qui finance le compte personnel de formation au moment de son utilisation. Ces heures peuvent se cumuler avec les heures acquises au titre du compte personnel de formation dans la limite de 150 heures.
+
+Actions de formation éligibles
+
+La commission paritaire nationale de l'emploi et de la formation professionnelle (CNPEFP) élaborera chaque année la liste des formations qui seront éligibles à ce dispositif de financement et la communiquera à l'OPCA-PL dénommé ACTALIANS, pour la mise en ligne de ladite liste sur le site national géré par la Caisse des dépôts et consignations.
+
+Relèvent également des formations éligibles les formations figurant sur l'une des listes suivantes :
+
+– listes régionales (COPAREF) ;
+
+– listes nationales (COPANEF) ;
+
+– inventaire publié par la commission nationale des certifications professionnelles (CNCP). »
