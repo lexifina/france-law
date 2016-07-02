@@ -2,59 +2,95 @@
 
 CORRESPONDANCES EN VUE DE L'OBTENTION DU TITRE AMIS
 
-CERTIFICATEURS |
+CERTIFICATEURS
 
-JEUNESSE ET SPORTS |
+|
 
-ÉDUCATION NATIONALE |
+JEUNESSE ET SPORTS
 
-ÉDUCATION NATIONALE |
+|
+
+ÉDUCATION NATIONALE
+
+|
+
+ÉDUCATION NATIONALE
+
+|
 
 Titre professionnel
 
-Agent (e) de médiation, information, services
+agent (e) de médiation,
+
+information, services
 
 |
 
 BAPAAT
 
-Brevet d'aptitude professionnelle d'assistant animateur technicien (décret n° 93-53 du 12 janvier 1993)
+brevet d'aptitude professionnelle d'assistant animateur technicien
+
+(décret n° 93-53 du 12 janvier 1993 )
 
 |
 
-CAP Gardien d'immeubles (arrêté 23 février 2010)
+CAP gardien d'immeubles
+
+(arrêté du 23 février 2010)
 
 |
 
-CAP Agent de prévention et de médiation (arrêté 23 février 2010)
+CAP agent de prévention et de médiation
+
+(arrêté du 23 février 2010)
 
 |
 
-CCP 1.-Prévenir les situations de tension, de conflit et de dysfonctionnement, par une démarche de veille active.
+CCP 1.-Participer au maintien
+
+du lien social
+
+et prévenir les situations de conflits
+
+ou de dysfonctionnements
+
+par une présence active
 
 |
 
 |
 
-EP 1 |
-
-|
-
-CCP 2.-Réguler par la médiation des situations de tension et de conflit.
+EP 1
 
 |
 
 |
 
+CCP 2.-Réguler par la médiation
+
+des situations de tension
+
+et de conflit
+
 |
 
-U 2 |
-
-CCP 3.-Participer à des projets partenariaux ou actions ponctuelles.
+|
 
 |
 
-BAPAAT |
+|
+
+CCP 3.-Participer à des actions
+
+d'animation ponctuelles
+
+ou à des projets partenariaux
+
+|
+
+BAPAAT
+
+|
 
 |
 
