@@ -1,265 +1,221 @@
 # Article Annexe II
 
+RÉPARTITION DU QUOTA DE THON ROUGE EN ATLANTIQUE POUR LA FRANCE EN 2016
+
 (Quotas en tonnes)
 
 |
 
-QUOTA EN OCÉAN ATLANTIQUE à l'Est de la longitude 45° ouest
+QUOTA EN OCÉAN ATLANTIQUE
 
-|
-
-Quota en mer Méditerranée
-
-|
-
-Pour la pêche au chalut
-
-|
-
-Pour la pêche à la ligne et à la canne
-
-|
-
-Pour la pêche à la palangre
-
-|
-
-Navires non adhérant à une organisation de producteurs
-
-|
-
-5
-
-|
-
-0
-
-|
-
-0
-
-|
-
-0
-
-|
-
-Navires adhérant à l'organisation de producteurs Les Pêcheurs d'Aquitaine
-
-|
-
-82
+à l'est de la longitude
 
-|
-
-38
+45° ouest |
 
-|
+QUOTA
 
-1
+en mer Méditerranée |
 
 |
 
-0
-
-|
+Pour
 
-Navires adhérant à l'organisation de producteurs Coopérative Bretagne-Nord (COBRENORD)
+la pêche
 
-|
+au chalut |
 
-2
+Pour
 
-|
+la pêche
 
-0
+à la ligne
 
-|
+et à la canne |
 
-0
+Pour
 
-|
+la pêche
 
-0
+à la palangre |
 
-|
+Navires adhérant à l'organisation de producteurs Les Pêcheurs d'Aquitaine |
 
-Navires adhérant à l'organisation de producteurs Fonds régional d'organisation du marché du poisson du Nord-Normandie (FROM Nord)
+40,4 |
 
-|
+80,6 |
 
-9
+0 |
 
-|
+0 |
 
-0
+Navires adhérant à l'organisation de producteurs Coopérative maritime étaploise (CME) |
 
-|
+0 |
 
-1
+0 |
 
-|
+0 |
 
-0
+0 |
 
-|
+Navires adhérant à l'organisation de producteurs Coopérative Bretagne-Nord (COBRENORD) |
 
-Navires adhérant à l'organisation de producteurs Fonds régional d'organisation du marché du poisson du Sud-Ouest (FROM Sud-Ouest)
+2 |
 
-|
+0 |
 
-16
+0 |
 
-|
+0 |
 
-1
+Navires adhérant à l'organisation de producteurs Fonds régional d'organisation du marché du poisson du Nord-Normandie (FROM Nord) |
 
-|
+0 |
 
-0
+0 |
 
-|
+0 |
 
-0
+0 |
 
-|
+Navires adhérant à l'organisation de producteurs Fonds régional d'organisation du marché du poisson du Sud-Ouest (FROM Sud-Ouest) |
 
-Navires adhérant à l'organisation de producteurs Organisation de producteurs de la Cotinière
+2 |
 
-|
+1 |
 
-4
+0 |
 
-|
+0 |
 
-0
+Dont limites de capture pour les chalutiers de plus de 24 mètres titulaires d'une AEP thon rouge : ABLETTE (684904) |
 
-|
+3 |
 
-0
+0 |
 
-|
+0 |
 
-0
+0 |
 
-|
+Navires adhérant à l'organisation de producteurs Organisation de producteurs de la Cotinière |
 
-Navires adhérant à l'Organisation de producteurs marins-pêcheurs de Basse-Normandie (OPBN)
+4 |
 
-|
+0 |
 
-4
+0 |
 
-|
+0 |
 
-0
+Navires adhérant à l'organisation de producteurs Marins-Pêcheurs de Basse-Normandie (OPBN) |
 
-|
+4 |
 
-0
+0 |
 
-|
+0 |
 
-0
+0 |
 
-|
+Navires adhérant à l'organisation de producteurs Organisation de producteurs des pêcheurs artisans de l'île de Noirmoutier (OPPAN) |
 
-Navires adhérant à l'organisation de producteurs Organisation de producteurs des pêcheurs artisans de l'île de Noirmoutier (OPPAN)
+0 |
 
-|
+0 |
 
-0
+0 |
 
-|
+0 |
 
-0
+Navires adhérant à l'organisation de producteurs Les Pêcheurs de Bretagne |
 
-|
+113 |
 
-0
+25 |
 
-|
+1 |
 
-0
+0 |
 
-|
+Dont limites de capture pour les chalutiers de plus de 24 mètres titulaires d'une AEP thon rouge : FASTNET (926611) |
 
-Navires adhérant à l'organisation de producteurs Les Pêcheurs de Bretagne
+3 |
 
-|
+0 |
 
-113
+0 |
 
-|
+0 |
 
-25
+KSORA (785715) |
 
-|
+3 |
 
-1
+0 |
 
-|
+0 |
 
-0
+0 |
 
-|
+BARA PEMDEZ II (898429) |
 
-Navires adhérant à l'organisation de producteurs de Vendée
+3 |
 
-|
+0 |
 
-39
+0 |
 
-|
+0 |
 
-3
+BARA AR VICHER (929341) |
 
-|
+3 |
 
-4
+0 |
 
-|
+0 |
 
-0
+0 |
 
-|
+Navires adhérant à l'organisation de producteurs de Vendée |
 
-Navires adhérant à l'organisation de producteurs Coopérative maritime étaploise (CME)
+39 |
 
-|
+0 |
 
-0
+31 |
 
-|
+0 |
 
-0
+Dont limites de capture pour les chalutiers de plus de 24 mètres titulaires d'une AEP thon rouge : LES BARGES (870580) |
 
-|
+8 |
 
-0
+0 |
 
-|
+0 |
 
-0
+0 |
 
-|
+Sous-total |
 
-Total
+204,4 |
 
-|
+106,6 |
 
-274
+32 |
 
-|
+0 |
 
-67
+Navires n'adhérant pas à une organisation de producteurs pêchant au titre des prises accessoires telles que définies par la réglementation en vigueur |
 
-|
+5 |
 
-7
+0 |
 
-|
+TOTAL |
 
-0
+348 |
 
-|
+0 |

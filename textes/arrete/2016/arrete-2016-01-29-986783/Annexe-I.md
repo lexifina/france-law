@@ -1,629 +1,443 @@
 # Article Annexe I
 
+RÉPARTITION DU QUOTA DE THON ROUGE EN MÉDITERRANÉE POUR LA FRANCE EN 2016
+
 (Quotas en tonnes)
+
+|
+
+|
 
 |
 
 QUOTA
 
-en mer Méditerranée
-
-|
+en mer Méditerranée |
 
 DONT
 
-x tonnes
+x tonnes mesurant entre 8 et 30 kg |
 
-mesurant
+QUOTA
 
-entre 8 et 30 kg
+en océan Atlantique |
 
-|
-
-Senneurs titulaires d'une AEP thon rouge : VILLE D'ADGE IV immatriculé 924880
-
-|
-
-165
-
-|
-
-0
-
-|
-
-Palangriers petits métiers titulaires d'une AEP thon rouge
-
-|
-
-48,1
-
-|
-
-10,4
-
-|
-
-Canneurs, ligneurs petits métiers titulaires d'une AEP thon rouge
-
-|
-
-10,3
-
-|
-
-2,2
-
-|
-
-TOTAL OP DU SUD
-
-|
-
-223,4
-
-|
-
-12,7
-
-|
-
-Senneurs titulaires d'une AEP thon rouge : JEAN MARIE CHRISTIAN VII immatriculé 900270
-
-|
-
-284
-
-|
-
-0
-
-|
-
-JEAN MARIE CHRISTIAN VI immatriculé 900265
-
-|
-
-284
-
-|
-
-0
-
-|
-
-JEAN MARIE CHRISTIAN III immatriculé 781462
-
-|
-
-284
-
-|
-
-0
-
-|
-
-ANNE ANTOINE II immatriculé 819572
-
-|
-
-82
-
-|
-
-0
-
-|
-
-JANVIER GIORDANO immatriculé 819571
-
-|
-
-94
-
-|
-
-0
-
-|
-
-ST SOPHIE FRANCOIS III immatriculé 923752
-
-|
-
-266
-
-|
-
-0
-
-|
-
-JANVIER LOUIS RAPHAEL immatriculé 925310
-
-|
+Senneurs titulaires d'une AEP thon rouge : VILLE D'ADGE IV immatriculé 924880 |
 
-180
+165 |
 
-|
-
-0
+0 |
 
-|
+0 |
 
-Palangriers hauturiers titulaires d'une AEP thon rouge
+Palangriers petits métiers titulaires d'une AEP thon rouge |
 
-|
+48,1 |
 
-42,4
+10,1 |
 
-|
+0,0 |
 
-9,2
+Canneurs, ligneurs petits métiers titulaires d'une AEP thon rouge |
 
-|
+10,3 |
 
-Palangriers petits métiers titulaires d'une AEP thon rouge
+2,1 |
 
-|
+0,0 |
 
-185,6
+TOTAL OP DU SUD |
 
-|
+223,4 |
 
-40,3
+12,2 |
 
-|
+0,0 |
 
-Canneurs, ligneurs petits métiers titulaires d'une AEP thon rouge
+Senneurs titulaires d'une AEP thon rouge : JEAN MARIE CHRISTIAN VII immatriculé 900270 |
 
-|
+284 |
 
-1,4
+0 |
 
-|
+0 |
 
-0,3
+JEAN MARIE CHRISTIAN VI immatriculé 900265 |
 
-|
+284 |
 
-TOTAL SATHOAN
+0 |
 
-|
+0 |
 
-1 703,4
+JEAN MARIE CHRISTIAN III immatriculé 781462 |
 
-|
+284 |
 
-49,8
+0 |
 
-|
+0 |
 
-Senneurs titulaires d'une AEP thon rouge : GERARLD JEAN III immatriculé 916344
+ANNE ANTOINE II immatriculé 819572 |
 
-|
+82 |
 
-87
+0 |
 
-|
+0 |
 
-0
+JANVIER GIORDANO immatriculé 819571 |
 
-|
+94 |
 
-GERALD JEAN IV immatriculé 916469
+0 |
 
-|
+0 |
 
-88
+ST SOPHIE FRANCOIS III immatriculé 923752 |
 
-|
+266 |
 
-0
+0 |
 
-|
+0 |
 
-CHRISDERIC II immatriculé 863686
+JANVIER LOUIS RAPHAEL immatriculé 925310 |
 
-|
+180 |
 
-163
+0 |
 
-|
+0 |
 
-0
+Palangriers hauturiers titulaires d'une AEP thon rouge |
 
-|
+42,4 |
 
-SALVADOR PIERRE JOSE immatriculé 914222
+8,9 |
 
-|
+0,0 |
 
-139
+Palangriers petits métiers titulaires d'une AEP thon rouge |
 
-|
+185,7 |
 
-0
+38,9 |
 
-|
+0,0 |
 
-CISBERLANDE 5 immatriculé 923751
+Canneurs, ligneurs petits métiers titulaires d'une AEP thon rouge |
 
-|
+1,4 |
 
-142
+0,3 |
 
-|
+0,0 |
 
-0
+TOTAL SATHOAN |
 
-|
+1 703,5 |
 
-VILLE D'ARZEW II immatriculé 860730
+48,1 |
 
-|
+0,0 |
 
-84
+Senneurs titulaires d'une AEP thon rouge : |
 
-|
+GERALD JEAN III immatriculé 916344 |
 
-0
+87 |
 
-|
+0 |
 
-VENT DU NORD II immatriculé 914221
+0 |
 
-|
+GERALD JEAN IV immatriculé 916469 |
 
-172
+88 |
 
-|
+0 |
 
-0
+0 |
 
-|
+CHRISDERIC II immatriculé 863686 |
 
-TOTAL STM
+163 |
 
-|
+0 |
 
-875
+0 |
 
-|
+SALVADOR PIERRE JOSE immatriculé 914222 |
 
-0
+139 |
 
-|
+0 |
 
-Canneurs, ligneurs petits métiers titulaires d'une AEP thon rouge
+0 |
 
 |
 
-1,7
-
 |
 
-0,4
-
-|
+CISBERLANDE 5 immatriculé 923751 |
 
-TOTAL CP
+142 |
 
-|
+0 |
 
-1,7
+0 |
 
 |
-
-0,4
 
 |
 
-Palangriers petits métiers titulaires d'une AEP thon rouge
+VILLE D'ARZEW II immatriculé 860730 |
 
-|
+84 |
 
-5,9
+0 |
 
-|
+0 |
 
-1,3
+VENT DU NORD II immatriculé 914221 |
 
-|
+172 |
 
-TOTAL PMPACA
+0 |
 
-|
+0 |
 
-5,9
+TOTAL STM |
 
-|
+875 |
 
-1,3
+0 |
 
-|
+0 |
 
-Palangriers petits métiers titulaires d'une AEP thon rouge
+Canneurs, ligneurs petits métiers titulaires d'une AEP thon rouge |
 
-|
+1,7 |
 
-2,1
+0,4 |
 
-|
+0,0 |
 
-0,5
+TOTAL CP |
 
-|
+1,7 |
 
-Canneurs, ligneurs petits métiers titulaires d'une AEP thon rouge
+0,4 |
 
-|
+0,0 |
 
-1,8
+Palangriers petits métiers titulaires d'une AEP thon rouge |
 
-|
+5,9 |
 
-0,4
+1,2 |
 
-|
+0,0 |
 
-TOTAL CAOS
+TOTAL PMPACA |
 
-|
+5,9 |
 
-3,9
+1,2 |
 
-|
+0,0 |
 
-0,8
+Palangriers petits métiers titulaires d'une AEP thon rouge |
 
-|
+2,1 |
 
-Palangriers petits métiers titulaires d'une AEP thon rouge
+0,4 |
 
-|
+0,0 |
 
-5,2
+Canneurs, ligneurs petits métiers titulaires d'une AEP thon rouge |
 
-|
+1,8 |
 
-1,1
+0,4 |
 
-|
+0,0 |
 
-Canneurs, ligneurs petits métiers titulaires d'une AEP thon rouge
+TOTAL CAOS |
 
-|
+3,9 |
 
-2,4
+0,8 |
 
-|
+0,0 |
 
-0,5
+Palangriers petits métiers titulaires d'une AEP thon rouge |
 
-|
+5,2 |
 
-TOTAL SPMLR
+1,1 |
 
-|
+0,0 |
 
-7,6
+Canneurs, ligneurs petits métiers titulaires d'une AEP thon rouge |
 
-|
+4,2 |
 
-1,6
+0,9 |
 
-|
+0,0 |
 
-Senneurs titulaires d'une AEP thon rouge : ERIC MARIN immatriculé 924860
+TOTAL SPMLR |
 
-|
+9,4 |
 
-83
+2,0 |
 
-|
+0,0 |
 
-0
+Senneurs titulaires d'une AEP thon rouge : ERIC MARIN immatriculé 924860 |
 
-|
+83 |
 
-GERARD LUC IV immatriculé 900236
+0 |
 
-|
+0 |
 
-168
+GERARD LUC IV immatriculé 900236 |
 
-|
+168 |
 
-0
+0 |
 
-|
+0 |
 
 Palangriers petits métiers
 
-titulaires d'une AEP thon rouge
+titulaires d'une AEP thon rouge |
+
+et immatriculés dans un quartier maritime des Alpes-Maritimes |
+
+0,9 |
+
+0,2 |
+
+0,0 |
+
+et immatriculés dans un quartier maritime des Bouches-du-Rhône |
+
+6,3 |
+
+1,3 |
+
+0,0 |
+
+et immatriculés dans un quartier maritime de la Corse |
+
+2,7 |
+
+0,5 |
+
+0,0 |
+
+et immatriculés dans un quartier maritime de l'Hérault |
+
+7,2 |
+
+1,5 |
+
+0,0 |
+
+et immatriculés dans un quartier maritime des Pyrénées-Orientales |
+
+0,0 |
+
+0,0 |
+
+0,0 |
+
+et immatriculés dans un quartier maritime du Var |
+
+0,3 |
+
+0,1 |
+
+0,0 |
+
+Canneurs, ligneurs petits métiers titulaires d'une AEP thon rouge |
+
+et immatriculés dans un quartier maritime des Alpes-Maritimes |
+
+0,6 |
+
+0,1 |
+
+0,0 |
+
+et immatriculés dans un quartier maritime des Bouches-du-Rhône |
+
+3,7 |
+
+0,8 |
+
+0,0 |
+
+et immatriculés dans un quartier maritime de la Corse |
+
+1,3 |
+
+0,3 |
+
+0,0 |
+
+et immatriculés dans un quartier maritime de l'Hérault |
+
+0,0 |
+
+0,0 |
+
+0,0 |
+
+et immatriculés dans un quartier maritime des Pyrénées-Orientales |
+
+0,0 |
+
+0,0 |
+
+0,0 |
+
+et immatriculés dans un quartier maritime du Var |
+
+1,2 |
+
+0,2 |
+
+0,0 |
+
+TOTAL HORS OP |
+
+275,2 |
+
+5,0 |
+
+0,0 |
+
+Navires pêchant au chalut au titre des prises accessoires telles que définies par la réglementation en vigueur |
+
+6,0 |
+
+0,0 |
+
+0,0 |
+
+TOTAL |
 
 |
 
-et immatriculés dans un quartier maritime des Alpes-Maritimes
-
 |
 
-0,9
+3 104,0 |
 
-|
+69,7 |
 
-0,2
-
-|
-
-et immatriculés dans un quartier maritime des Bouches-du-Rhône
-
-|
-
-6,3
-
-|
-
-1,4
-
-|
-
-et immatriculés dans un quartier maritime de la Corse
-
-|
-
-2,7
-
-|
-
-0,6
-
-|
-
-et immatriculés dans un quartier maritime de l'Hérault
-
-|
-
-7,3
-
-|
-
-1,6
-
-|
-
-et immatriculés dans un quartier maritime des Pyrénées-Orientales
-
-|
-
-0
-
-|
-
-0,0
-
-|
-
-et immatriculés dans un quartier maritime du Var
-
-|
-
-0,3
-
-|
-
-0,1
-
-|
-
-Canneurs, ligneurs petits métiers titulaires d'une AEP thon rouge :
-
-|
-
-et immatriculés dans un quartier maritime des Alpes-Maritimes
-
-|
-
-0,6
-
-|
-
-0,1
-
-|
-
-et immatriculés dans un quartier maritime des Bouches-du-Rhône
-
-|
-
-3,7
-
-|
-
-0,8
-
-|
-
-et immatriculés dans un quartier maritime de la Corse
-
-|
-
-1,9
-
-|
-
-0,4
-
-|
-
-et immatriculés dans un quartier maritime de l'Hérault
-
-|
-
-1,2
-
-|
-
-0,3
-
-|
-
-et immatriculés dans un quartier maritime des Pyrénées-Orientales
-
-|
-
-0
-
-|
-
-0,0
-
-|
-
-et immatriculés dans un quartier maritime du Var
-
-|
-
-1,2
-
-|
-
-0,3
-
-|
-
-TOTAL HORS OP
-
-|
-
-277,1
-
-|
-
-5,7
-
-|
-
-Navires pêchant au chalut au titre des prises accessoires telles que définies par la réglementation en vigueur
-
-|
-
-6
-
-|
-
-0
-
-|
-
-TOTAL
-
-|
-
-3 104
-
-|
-
-71,4 |
+0,0 |
