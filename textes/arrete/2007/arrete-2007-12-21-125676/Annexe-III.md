@@ -392,7 +392,7 @@ NTP ≥ 2 000
 
 Conformément aux dispositions de l'article R 213-48-34 du code de l'environnement, elle s'appuie sur un diagnostic de fonctionnement du dispositif, effectué à la charge du redevable, au moins une fois tous les deux ans, par un organisme habilité pour la réalisation de contrôles techniques. Un rapport de diagnostic est alors établi et communiqué à l'agence de l'eau avant le 31 mars de la deuxième année suivant l'agrément ou la réalisation du dernier diagnostic sous format électronique ou sous tout autre format convenu entre l'agence de l'eau et le redevable. L'agence se prononce alors sur le maintien de l'agrément du dispositif de suivi régulier des rejets et la validation des résultats de mesure pour les exercices considérés.
 
-Les organismes en charge de ce diagnostic devront justifier d'une habilitation à compter d'un an après la parution de cet arrêté.
+Les organismes en charge de ce diagnostic devront justifier d'une habilitation avant le 31 décembre 2016.
 
 4. Calcul des rejets des éléments constitutifs de la pollution
 
