@@ -160,7 +160,7 @@ Secrétaire général
 
 |
 
-6. Président de sous-section de la section du contentieux :
+6. Président de chambre de la section du contentieux :
 
 DÉSIGNATION DE L'EMPLOI
 
@@ -180,7 +180,7 @@ par emploi
 
 |
 
-Président de sous-section de la section du contentieux
+Président de chambre de la section du contentieux
 
 |
 

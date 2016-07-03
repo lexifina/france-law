@@ -12,7 +12,7 @@ Emplois exercés pouvant ouvrir droit au versement d'une nouvelle bonification i
 
 - emploi d'adjoint du chef de cabinet ;
 
-- emplois de secrétaire de sous-section ;
+- emplois de secrétaire de chambre ;
 
 - emploi de secrétaire du bureau d'aide juridictionnelle et du tribunal des conflits ;
 

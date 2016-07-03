@@ -12,7 +12,7 @@ Fonctions exercées pouvant ouvrir droit au versement d'une nouvelle bonificatio
 
 5. Secrétaire général ;
 
-6. Président de sous-section de la section du contentieux ;
+6. Président de chambre de la section du contentieux ;
 
 7. Chef de la mission permanente d'inspection des juridictions administratives ;
 
