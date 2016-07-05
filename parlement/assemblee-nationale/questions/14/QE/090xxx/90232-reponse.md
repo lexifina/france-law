@@ -1,0 +1,9 @@
+# Réponse à la question n° 90232
+
+- Question : [90232](90232.md) — Question n° 90232 — activités nautiques; test d'aisance aquatique; harmonisation
+
+## Réponse
+
+*JO du 2016-07-05*
+
+La question des tests demandés aux enfants pour les activités sportives mentionnées aux articles A. 322-42 et A. 322-64 du code du sport fait l'objet d'une redéfinition et d'une harmonisation qui se traduit par un effort commun du ministère de l'éducation nationale, de l'enseignement supérieur et de la recherche et du ministère de la ville, de la jeunesse et des sports. Ainsi, le ministère de l'éducation nationale, de l'enseignement supérieur et de la recherche adoptera très prochainement le "test d'aisance aquatique", afin d'aller vers une simplification. Par ailleurs, la délivrance de "l'attestation scolaire savoir-nager", définie par l'arrêté du 9 juillet 2015 et prévue par l'article D. 312-47-2 du code de l'éducation, constitue une avancée significative. En effet, sa maîtrise permet d'accéder à toute activité aquatique ou nautique susceptible d'être programmée dans le cadre des enseignements obligatoires ou d'activités optionnelles en éducation physique et sportive (EPS), ou à l'extérieur de l'école, notamment pour la pratique des activités sportives mentionnées aux articles A. 322-42 et A. 322-64 du code du sport. Une évolution du code de l'action sociale et des familles est également en préparation pour prendre en compte cette attestation dans l'accueil collectif des mineurs. Cette attestation scolaire est d'ailleurs un objectif des futurs programmes pour le cycle 3. Il doit enfin être noté qu'un élève qui n'aurait pas validé un de ces tests ne serait pas privé d'activité en piscine dans le cadre scolaire ; il ferait au contraire l'objet d'une attention plus particulière et d'un accompagnement lui permettant d'acquérir le niveau nécessaire à une poursuite sereine de ces activités.
