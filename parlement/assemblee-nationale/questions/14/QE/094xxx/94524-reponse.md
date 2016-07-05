@@ -1,0 +1,9 @@
+# Réponse à la question n° 94524
+
+- Question : [94524](94524.md) — Question n° 94524 — Corse; perspectives
+
+## Réponse
+
+*JO du 2016-07-05*
+
+L'article 30 de la loi no 2015-991 du 7 août 2015 crée la collectivité de Corse. Le nouvel article L. 4421-1 du code général des collectivités territoriales prévoit désormais que la collectivité de Corse constitue, à compter du 1er janvier 2018, une collectivité à statut particulier au sens de l'article 72 de la Constitution, en lieu et place de la collectivité territoriale de Corse et des départements de Corse-du-sud et de Haute-Corse. Le Gouvernement est habilité, dans les dix-huit mois qui suivent la promulgation de la loi, à prendre par ordonnance les mesures d'adaptation des règles de compétence et d'organisation des juridictions. Ces dispositions ont pu faire naître des interrogations sur le devenir de certaines juridictions, et notamment des deux cours d'assises. En effet, l'article 232 du code de procédure pénale indique qu'il est tenu des assises à Paris et dans chaque département. Or, les départements de Corse-du-Sud et de Haute-Corse n'auront plus d'existence puisqu'intégrés dans la nouvelle collectivité, ce qui pose la question du maintien de ces deux juridictions. Cependant, le garde des sceaux, ministre de la justice, tient à ce que les deux cours d'assises d'Ajaccio et de Bastia soient maintenues, notamment en ce que cela permet que l'une soit la juridiction d'appel de l'autre, sans systématiquement renvoyer l'appel à une juridiction continentale. Une nouvelle rédaction du code de procédure pénale est en cours d'élaboration afin de maintenir ces deux cours d'assises au sein de la nouvelle collectivité de Corse. Ces dispositions seront intégrées à l'ordonnance. Pour le reste, aucune réforme de la carte judiciaire n'est envisagée avant les échéances électorales de 2017.
