@@ -2,25 +2,15 @@
 
 Les titulaires des certificats de compétences professionnelles obtenus antérieurement à la publication du présent arrêté modificatif sont réputés avoir obtenu les nouveaux certificats de compétences professionnelles selon le tableau figurant ci-dessous :
 
-TITRE PROFESSIONNEL
+TITRE PROFESSIONNEL CONSEILLER(ÈRE) RELATION CLIENT À DISTANCE
 
-conseiller
-
-service client à distance
-
-(arrêté du 3 juillet 2003)
+(Arrêté du 3 juillet 2003 modifié)
 
 |
 
-TITRE PROFESSIONNEL
+TITRE PROFESSIONNEL CONSEILLER(ÈRE) RELATION CLIENT À DISTANCE
 
-conseiller (ère)
-
-relation client à distance
-
-|
-
-Assister, conseiller et vendre en réception d'appels
+(Présent arrêté)
 
 |
 
@@ -28,7 +18,11 @@ Assurer des services, du conseil et de la gestion en relation client à distance
 
 |
 
-Réaliser des actions mercatiques (marketing) et commerciales en émission d'appels
+Assurer des prestations de services et de conseil en relation client à distance
+
+|
+
+Réaliser des actions commerciales en relation client à distance
 
 |
 
