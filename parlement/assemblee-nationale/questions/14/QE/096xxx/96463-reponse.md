@@ -1,0 +1,9 @@
+# Réponse à la question n° 96463
+
+- Question : [96463](96463.md) — Question n° 96463 — identification; réglementation
+
+## Réponse
+
+*JO du 2016-07-05*
+
+L'identification individuelle des camélidés est prévue dans l'article L. 212-9 du code rural et de la pêche maritime. Cette obligation résulte d'une initiative parlementaire lors de l'examen de la loi d'avenir pour l'agriculture, l'alimentation et la forêt, promulguée le 13 octobre 2014. Les nouvelles dispositions vont dans le sens d'un avis du comité d'experts de l'agence nationale de sécurité sanitaire, de l'alimentation, de l'environnement et du travail (ANSES), en date du 5 février 2009, qui recommandait le recensement précis de l'ensemble des effectifs de camélidés et de cervidés d'élevage et la mise en place d'un système obligatoire et généralisé d'identification pérenne de ces espèces afin de garantir la traçabilité nécessaire à la gestion des crises sanitaires. L'ANSES préconisait également d'intégrer systématiquement ces espèces aux investigations menées autour des foyers ou suspicions de foyers de brucellose ou de tuberculose des ruminants domestiques car elles y sont sensibles. Afin de préciser réglementairement cette nouvelle obligation législative, le ministère chargé de l'agriculture a consulté l'ensemble des organisations professionnelles, dont l'association française lamas alpagas. En prévoyant l'identification individuelle de tous les camélidés selon des modalités comparables à toutes les autres filières d'élevage, ce nouveau dispositif garantit la traçabilité nécessaire permettant la protection sanitaire de ces animaux. Tous les éleveurs de camélidés mettront en place une identification normalisée à partir du 1er juillet 2016 et conforteront ainsi leur capacité à prévenir et gérer l'apparition de maladies contagieuses dans l'intérêt général. Pour les animaux présents dans les élevages avant cette date, un délai de mise en conformité d'un an a été prévu.
