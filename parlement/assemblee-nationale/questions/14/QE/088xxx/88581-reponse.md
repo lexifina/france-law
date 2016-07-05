@@ -1,0 +1,9 @@
+# Réponse à la question n° 88581
+
+- Question : [88581](88581.md) — Question n° 88581 — schémas départementaux; modalités
+
+## Réponse
+
+*JO du 2016-07-05*
+
+Le renforcement de la carte intercommunale est l'une des priorités de la loi no 2015-991 du 7 août 2015 portant nouvelle organisation territoriale de la République (NOTRe) parce qu'elle permet l'amélioration des services publics rendus aux citoyens tout en limitant leur coût. Il importe donc que les nouvelles orientations définies à l'article 33 de la loi NOTRe modifiant l'article L. 5210-1-1 du code général des collectivités territoriales (CGCT) soient mises en œuvre rapidement. L'engagement par les préfets d'une concertation avec les élus concernés, la plupart du temps plusieurs mois avant même l'adoption de la loi NOTRe, leur a permis de présenter aux membres des commissions départementales de coopération intercommunale (CDCI), des projets de schémas départementaux de coopération intercommunale (SDCI) répondant à l'objectif de rationalisation de l'intercommunalité prescrit par la loi. Les délais de consultation des communes, établissements publics de coopération intercommunale (EPCI) et syndicats concernés sont de deux mois sur les projets des SDCI, puis la CDCI disposera de trois mois pour faire évoluer le projet, et enfin les communes disposeront de soixante-quinze jours pour se prononcer sur les arrêtés mettant en œuvre les schémas. La qualité du dialogue avec les élus n'est donc en rien altérée par ces délais et se trouve confortée par le travail réalisé en amont par les préfets avec les élus et par les avancées ainsi permises. Aussi, il n'est pas envisagé de repousser la date de prise d'effet des arrêtés de périmètre au-delà du 1er janvier 2017, le calendrier fixé permettant d'arrêter rapidement dans tous les départements de nouveaux SDCI, sans remettre en cause la qualité des échanges entre les préfets et les élus.
