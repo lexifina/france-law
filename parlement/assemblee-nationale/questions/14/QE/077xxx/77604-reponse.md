@@ -1,0 +1,9 @@
+# Réponse à la question n° 77604
+
+- Question : [77604](77604.md) — Question n° 77604 — personnes handicapées; statistiques
+
+## Réponse
+
+*JO du 2016-07-05*
+
+Le ministre des finances et des comptes publics est très attaché à la qualité de la politique d'intégration des personnes handicapées, politique ministérielle dont le pilotage est confié au secrétariat général commun aux deux ministères économiques et financiers. Afin de favoriser de façon durable l'insertion professionnelle des travailleurs handicapés, les ministères économiques et financiers ont mis en place, dès 1991, une structure dédiée, la cellule de recrutement et d'insertion des personnes handicapées (CRIPH). La CRIPH informe les candidats potentiels sur les modalités de recrutements lors de sa participation active et régulière aux différents salons nationaux dédiés (salon de l'emploi public, salon de la diversité et de l'emploi), qui permet également d'actualiser le vivier de candidatures. Les modalités de recrutement comprennent, d'une part, le concours avec des épreuves éventuellement aménagées et, d'autre part, le recrutement par la voie contractuelle, avec vocation à titularisation au bout d'un an (décret no 95-979 du 25 août 1995). Les campagnes de recrutements par la voie contractuelle lancées chaque année par les directions des ministères économiques et financiers sont l'occasion de multiples échanges avec l'ensemble des personnes handicapées ayant postulé à un emploi dans nos ministères. Ces informations sont disponibles sur internet http://www.economie.gouv.fr/recrutement et sur l'intranet ministériel. Au 1er janvier 2014, le taux d'emploi légal de travailleurs handicapés était de 5,79 % au sein des ministères économiques et financiers. Cela correspondait 8 546 agents déclarés handicapés contre 8 383 au 1er janvier 2013, grâce à 312 recrutements soit 10,75 % de l'ensemble des recrutements des ministères économiques et financiers.
