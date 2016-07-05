@@ -1,0 +1,9 @@
+# Réponse à la question n° 72560
+
+- Question : [72560](72560.md) — Question n° 72560 — clause de compétence générale; suppression; conséquences
+
+## Réponse
+
+*JO du 2016-07-05*
+
+La réforme territoriale a été engagée par la loi no 2014-58 du 27 janvier 2014 de modernisation de l'action publique territoriale et d'affirmation des métropoles (MAPTAM) et la loi no 2015-29 du 16 janvier 2015 relative à la délimitation des régions, aux élections régionales et départementales et modifiant le calendrier électoral, et elle s'est poursuivie par la loi portant nouvelle organisation territoriale de la République (NOTRe) promulguée le 7 août 2015. Il s'agit de moderniser en profondeur notre organisation territoriale par une clarification des compétences permettant d'identifier les responsabilités de chacun des acteurs de la puissance publique, et de simplifier les relations entre l'Etat et les collectivités territoriales. L'Etat demeure le responsable des choix stratégiques, ainsi que du contrôle de l'application des lois, de la protection des citoyens et de la cohésion sociale comme territoriale. Les collectivités territoriales assurent la déclinaison et la mise en oeuvre des stratégies nationales au plus près des populations et des territoires. Dans le prolongement de la loi MAPTAM, la loi portant nouvelle organisation territoriale de la République tend à clarifier les compétences des collectivités territoriales, notamment en supprimant la clause générale de compétence des régions et départements et à encadrer leurs interventions financières, en les limitant aux domaines expressément prévus par la loi. Ainsi, la suppression de la clause de compétence générale des régions ne fera pas obstacle à ce qu'elles prennent en charge les livres scolaires dans les lycées sur la base de leur compétence en matière de soutien aux politiques de l'éducation, expressément prévue à l'article 1er de la loi NOTRe.
