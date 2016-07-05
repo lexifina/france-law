@@ -1,0 +1,9 @@
+# Réponse à la question n° 88294
+
+- Question : [88294](88294.md) — Question n° 88294 — commission d'enquête; rapport
+
+## Réponse
+
+*JO du 2016-07-05*
+
+La proposition no 6 a pour objet de faciliter le suivi par la presse des opérations de maintien de l'ordre. Elle résulte du double constat qu'à l'occasion des manifestations, les journalistes peuvent éventuellement être empêchés d'exercer leur activité par les forces de l'ordre, mais surtout qu'ils sont susceptibles d'être l'objet de violences de la part des manifestants. Respectueuses des libertés publiques, et notamment du droit de la presse, les forces de l'ordre veillent à ce que chacun puisse exercer ses droits dans les meilleures conditions. Ainsi, s'ils en expriment le besoin et que les autorités responsables du maintien de l'ordre en sont d'accord, il suffit aux journalistes de prendre l'attache du Service d'information et de relations publiques des armées-gendarmerie (SIRPAG) ou du service d'information et de communication de la police nationale (SICoP) pour obtenir les autorisations et modalités de tournage ou toute information sur des événements en cours. Il convient toutefois de préciser que l'accompagnement qui en résulte ne doit pas porter atteinte à l'accomplissement de leurs missions par les militaires de la gendarmerie ou les policiers. En outre, les prises de vue des journalistes doivent se limiter aux lieux auxquels ils ont normalement accès. Enfin, la gendarmerie organise depuis quatre ans un stage de sensibilisation des journalistes aux situations de maintien de l'ordre au Centre national d'entraînement des forces de gendarmerie à Saint-Astier. Destiné dans un premier temps aux journalistes de l'Agence France Presse, il a récemment été ouvert à l'ensemble des médias. La police nationale quant à elle organise régulièrement des rencontres entre la presse et ses services spécialisés d'intervention.
