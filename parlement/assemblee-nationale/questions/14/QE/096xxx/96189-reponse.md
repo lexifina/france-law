@@ -1,0 +1,9 @@
+# Réponse à la question n° 96189
+
+- Question : [96189](96189.md) — Question n° 96189 — commission d'appel d'offres; compétence
+
+## Réponse
+
+*JO du 2016-07-05*
+
+L'article L. 1414-2 du code général des collectivités territoriales (CGCT), tel que modifié par l'article 101 de l'ordonnance no 2015-899 du 23 juillet 2015 relative aux marchés publics, dispose que « Pour les marchés publics dont la valeur estimée hors taxe est égale ou supérieure aux seuils européens mentionnés à l'article 42 de l'ordonnance susmentionnée, à l'exception des marchés publics passés par les établissements publics sociaux ou médico-sociaux, le titulaire est choisi par une commission d'appel d'offres composée conformément aux dispositions de l'article L. 1411-5. ». L'article 42 de ladite ordonnance énumère, en son 1°, les procédures formalisées applicables lorsque la valeur estimée hors taxe du besoin est supérieure aux seuils européens publiés au Journal officiel de la République française : procédure d'appel d'offres, procédure concurrentielle avec négociation, procédure négociée avec mise en concurrence préalable et procédure de dialogue compétitif. Les seuils de procédure formalisée fixés par l'avis publié le 27 mars 2016 constituent donc bien le critère de mise en œuvre des procédures énoncées au 1° de l'article 42. En conséquent, lorsque l'article L. 1414-2 du CGCT se réfère aux marchés publics dont la valeur excède les seuils mentionnés à l'article 42 de l'ordonnance, il a pour objet de circonscrire le champ d'intervention de la commission d'appel d'offres aux seuls marchés publics passés en application desdites procédures formalisées en raison de leur montant. Dès lors, les marchés exclus du champ d'application en application des articles 14, 17 et 18 de l'ordonnance du 23 juillet 2015, qui sont exclus du champ d'application en raison de leur nature et non de leur valeur, ne relèvent pas de la compétence des commissions d'appel d'offres.
