@@ -1,0 +1,9 @@
+# Réponse à la question n° 81358
+
+- Question : [81358](81358.md) — Question n° 81358 — circonscriptions; délimitation; réforme; décret
+
+## Réponse
+
+*JO du 2016-07-05*
+
+La loi no 2013-403 du 13 mai 2013 a expressément abrogé l'article 3 de la loi no 2010-1563 du 16 décembre 2010 de réforme des collectivités territoriales qui disposait que : « La délimitation des cantons respecte les limites des circonscriptions pour l'élection des députés ». Le législateur a ainsi entendu écarter toute obligation, lors du remodelage cantonal, de faire coïncider les limites cantonales avec les limites des circonscriptions législatives. La délimitation des circonscriptions pour l'élection des députés repose sur les limites des cantons tels qu'ils étaient définis à la date d'entrée en vigueur de l'ordonnance no 2009-935 du 29 juillet 2009, elle-même ratifiée par la loi no 2010-165 du 23 février 2010. La coïncidence entre les limites des circonscriptions législatives et celles de ces cantons n'était toutefois pas générale. En effet, la loi no 2009-39 du 13 janvier 2009 relative à la commission prévue à l'article 25 de la Constitution et à l'élection des députés disposant que « tout canton constitué par un territoire continu, dont la population est inférieure à 40 000 habitants et qui est extérieur aux circonscriptions des villes de Paris, Lyon et Marseille » devait être compris dans la même circonscription, certains cantons ont pu être fractionnés en raison de leur caractère discontinu, de leur importance démographique ou de leur appartenance aux communes citées.71 cantons ont ainsi été répartis entre deux circonscriptions et deux cantons l'ont été entre trois circonscriptions. 99 circonscriptions législatives, réparties dans 24 départements, comportaient au moins une fraction cantonale. Il n'existe donc pas de coïncidence générale entre les circonscriptions législatives et les cantons quelle que soit la date de création des cantons.
