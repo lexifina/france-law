@@ -1,0 +1,9 @@
+# Réponse à la question n° 82930
+
+- Question : [82930](82930.md) — Question n° 82930 — réglementation
+
+## Réponse
+
+*JO du 2016-07-05*
+
+L'article 199 terdecies-0 A du code général des impôts (CGI) prévoit que les contribuables domiciliés fiscalement en France peuvent bénéficier, sous certaines conditions, d'une réduction d'impôt égale à 18 % des versements effectués au titre des souscriptions en numéraire au capital initial ou aux augmentations de capital des petites et moyennes entreprises non cotées. Le bénéfice de cet avantage fiscal est notamment subordonné à la conservation des titres jusqu'à l'expiration de la cinquième année suivant celle au cours de laquelle la souscription a été réalisée par le contribuable. Cette obligation vise au maintien des capitaux propres dans la société et à la stabilité de son actionnariat. Il en résulte que le désinvestissement constitué par l'apport à une personne morale de titres, dont la souscription a donné lieu à la réduction d'impôt sur le revenu, entraîne la reprise de cette réduction d'impôt lorsque cette opération intervient pendant le délai de cinq ans qui suit la date de la souscription des titres. A cet égard, les mécanismes de report et de sursis d'imposition des gains nets de cession de valeurs mobilières n'ont ni pour objet, ni pour effet d'assouplir la condition de conservation des titres prévue par l'article 199 terdecies-0 A du CGI. Au demeurant, cette analyse a été confirmée par la décision du Conseil d'Etat citée par l'auteur de la question. Admettre qu'un dispositif de report ou de sursis d'imposition justifie la possibilité de céder des titres ayant ouvert droit à la réduction d'impôt avant l'expiration du délai de cinq ans sans remettre en cause cette réduction, conduirait à déstabiliser l'actionnariat des petites entreprises visées par l'article 199 terdecies-0 A et donc à détourner ce dispositif de ses objectifs.
