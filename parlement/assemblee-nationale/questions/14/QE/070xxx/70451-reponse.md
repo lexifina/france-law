@@ -1,0 +1,9 @@
+# Réponse à la question n° 70451
+
+- Question : [70451](70451.md) — Question n° 70451 — maintien de l'ordre; armes; rapport; proposition
+
+## Réponse
+
+*JO du 2016-07-05*
+
+Le ministère de l'intérieur s'inscrit dans le cadre de cette proposition à travers les réflexions et les actions menées par le Service de l'achat des équipements et de la logistique de la sécurité intérieure (SAELSI). En liaison avec le délégué ministériel aux industries de sécurité (DMIS), ce service est l'interlocuteur privilégié de la filière industrielle. Le SAELSI a par exemple été à l'initiative d'une table ronde réunissant ces différents intervenants à l'occasion du salon MILIPOL de novembre 2015. En matière de veille et de prospective technologiques, le SAELSI anime un groupe de travail fédérant les spécialistes du maintien de l'ordre de la police et de la gendarmerie, dont l'expertise se nourrit notamment des retours d'expériences du centre national d'entraînement des forces gendarmerie (CNEFG) de Saint-Astier. En outre, le centre de recherche et d'expertise de la logistique (CREL) du SAELSI a été chargé, en lien avec les services concernés par les questions du maintien et du rétablissement de l'ordre, d'identifier et de tester au cours de l'année 2016 un certain nombre de munitions, de matériels et d'équipements innovants (tenues, armement). Si le ministère de l'intérieur a choisi d'examiner en urgence la question de l'armement des forces de sécurité dans un cadre essentiellement national, le plan européen de recherche sur la sécurité (PERS) constitue une piste de réflexion. A la demande du ministre, une réflexion s'est engagée dès la fin de l'année 2015 sur la structuration des capacités prospectives, stratégiques et des partenariats avec le secteur industriel comme avec le monde de la recherche, au plan national et européen. Cette réflexion doit aboutir d'ici la fin du 1er semestre 2016.
