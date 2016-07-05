@@ -1,0 +1,9 @@
+# Réponse à la question n° 90527
+
+- Question : [90527](90527.md) — Question n° 90527 — pouvoir de police; réglementation
+
+## Réponse
+
+*JO du 2016-07-05*
+
+Le pouvoir de police générale du maire, défini à l'article L.2212-2 du code général des collectivités territoriales (CGCT), a notamment pour objet d'assurer la tranquillité publique en prévenant et réprimant les bruits et troubles de voisinage. Il appartient ainsi au maire de « prendre les mesures appropriées pour empêcher sur le territoire de sa commune les bruits excessifs de nature à troubler le repos et la tranquillité des habitants » (CE, 12 mars 1986, req. no 52101 ; CE 25 septembre 1987, req. no 68501). Le refus de l'autorité municipale de prendre les mesures appropriées peuvent faire l'objet d'un recours devant le juge administratif et la responsabilité administrative de la commune peut être engagée pour carence du maire dans l'exercice de son pouvoir de police s'il apparaît que celui-ci n'a pas pris les mesures nécessaires pour mettre fin à des nuisances sonores dont il connaissait l'existence (CAA Nancy, 7 juin 2007, req. no 06NC00055 ; CAA Bordeaux, 24 avril 2007, req. no 04BX01568 ; CAA Douai, 14 mai 2008, req. no 07DA01776). En outre, au titre de l'article L.2215-1 du CGCT, la carence de l'autorité de police peut mener le représentant de l'État à se substituer au maire, après mise en demeure restée sans résultat, pour prendre les mesures relatives à la tranquillité publique. Cette solution est appréciée au cas par cas par le préfet, en fonction des circonstances de l'espèce. Parallèlement à l'édiction de mesures administratives, « les bruits ou tapages injurieux ou nocturnes troublant la tranquillité d'autrui », punis de l'amende prévue pour les contraventions de la 3e classe en vertu de l'article R.623-2 du code pénal, peuvent notamment être constatés par procès-verbal par les agents de police municipale (article R.15-33-29-3 du code de procédure pénale).
