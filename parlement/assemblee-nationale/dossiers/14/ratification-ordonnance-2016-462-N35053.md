@@ -1,0 +1,52 @@
+# Questions sociales et santé : Agence nationale de santé publique
+
+- Procédure : Projet de loi ordinaire
+- Législature : 14
+- Identifiant : DLR5L14N35053
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/ratification_ordonnance_2016-462
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl15-864.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2016-07-06 : 1er dépôt d'une initiative. (PRJLANR5L14B3927)
+  - 2016-07-06 : Etude d'impact (ETDIANR5L14B3927)
+  - 2016-07-06 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2016-07-06 : Renvoi en commission au fond
+      - 2016-09-20 : Nomination de rapporteur
+      - 2016-09-20 : Réunion de commission
+      - 2016-09-21 : Réunion de commission
+      - 2016-09-29 : Réunion de commission
+      - 2016-09-21 : Dépôt de rapport (RAPPANR5L14B4048, PRJLANR5L14BTC4048)
+  - Discussion en séance publique
+    - 2016-09-29 : Discussion en séance publique
+    - 2016-09-29 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2016-09-29 : Dépôt d'une initiative en navette (PRJLSNR5S259B0864)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2016-09-29 : Renvoi en commission au fond
+      - 2016-09-28 : Nomination de rapporteur
+      - 2016-10-19 : Dépôt de rapport (RAPPSNR5S279B0055)
+  - Discussion en séance publique
+    - 2016-10-27 : Discussion en séance publique
+    - 2016-10-27 : Décision
+- Commission Mixte Paritaire
+  - 2016-10-28 : Dépôt d'un projet de loi (PRJLANR5L14B4179)
+  - 2016-10-31 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2017-01-17 : Nomination de rapporteur
+    - 2017-01-17 : Dépôt du rapport d'une CMP (RAPPANR5L14B4381)
+    - 2017-01-17 : Dépôt du rapport d'une CMP (RAPPSNR5S279B0302)
+  - Discussion en séance publique
+    - 2017-01-26 : Discussion en séance publique
+    - 2017-01-26 : Discussion en séance publique
+    - 2017-01-26 : Décision
+  - Discussion en séance publique
+    - 2017-02-14 : Discussion en séance publique
+    - 2017-02-14 : Décision
+  - 2017-01-18 : Décision de la CMP
+- Promulgation de la loi
+  - 2017-02-24 : Promulgation d'une loi
