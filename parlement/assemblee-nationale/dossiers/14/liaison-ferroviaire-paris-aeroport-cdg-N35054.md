@@ -1,0 +1,51 @@
+# Transports : liaison ferroviaire entre Paris et l’aéroport Paris-Charles de Gaulle
+
+- Procédure : Projet de loi ordinaire
+- Législature : 14
+- Identifiant : DLR5L14N35054
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/liaison_ferroviaire_paris_aeroport_cdg
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl15-861.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2016-07-06 : 1er dépôt d'une initiative. (PRJLANR5L14B3926)
+  - 2016-07-06 : Etude d'impact (ETDIANR5L14B3926)
+  - 2016-07-06 : Avis du Conseil d'Etat (AVCEANR5L14B3926)
+  - 2016-07-06 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2016-07-06 : Renvoi en commission au fond
+      - 2016-07-19 : Nomination de rapporteur
+      - 2016-09-20 : Réunion de commission
+      - 2016-09-27 : Réunion de commission
+      - 2016-09-20 : Dépôt de rapport (RAPPANR5L14B4041, PRJLANR5L14BTC4041)
+  - Discussion en séance publique
+    - 2016-09-27 : Discussion en séance publique
+    - 2016-09-27 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2016-09-28 : Dépôt d'une initiative en navette (PRJLSNR5S259B0861)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2016-09-28 : Renvoi en commission au fond
+      - 2016-09-29 : Nomination de rapporteur
+      - 2016-10-26 : Dépôt de rapport (RAPPSNR5S279B0077)
+  - Discussion en séance publique
+    - 2016-11-07 : Discussion en séance publique
+    - 2016-11-07 : Décision
+- Commission Mixte Paritaire
+  - 2016-11-08 : Dépôt d'un projet de loi (PRJLANR5L14B4190)
+  - 2016-11-08 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2016-11-30 : Nomination de rapporteur
+    - 2016-11-30 : Dépôt du rapport d'une CMP (RAPPANR5L14B4269)
+    - 2016-11-30 : Dépôt du rapport d'une CMP (RAPPSNR5S279B0166)
+  - Discussion en séance publique
+    - 2016-12-19 : Discussion en séance publique
+    - 2016-12-19 : Décision
+  - Discussion en séance publique
+    - 2016-12-20 : Discussion en séance publique
+    - 2016-12-20 : Décision
+  - 2016-12-01 : Décision de la CMP
+- Promulgation de la loi
+  - 2016-12-28 : Promulgation d'une loi
