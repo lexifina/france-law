@@ -304,7 +304,7 @@ Un officier du grade de colonel de la branche considérée, à défaut, désign�
 
 |
 
-Trois officiers supérieurs désignés par le commandant du soutien opérationnel de la gendarmerie nationale.
+Cinq officiers supérieurs désignés par le commandant du soutien opérationnel de la gendarmerie nationale.
 
 Un officier supérieur de la direction de la coopération internationale.
 
