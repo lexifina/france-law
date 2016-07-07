@@ -1,0 +1,9 @@
+# Réponse à la question SEQ141214370
+
+- Question : [SEQ141214370](seq141214370.md) — Délégués communautaires suppléants
+
+## Réponse
+
+*Intérieur, JO du 2016-07-07, page 3076*
+
+Les modifications apportées à l'article L. 273-10 du code électoral, par l'article 62 de la loi n° 2014-873 du 4 août 2014 pour l'égalité réelle entre les femmes et les hommes, ont permis de mettre un terme à une difficulté d'application des dispositions législatives relatives au remplacement des conseillers communautaires, dans les communes de 1 000 habitants et plus, ne comptant qu'un seul conseiller communautaire. En effet, l'article L. 5211-6 du code général des collectivités territoriales (CGCT) prévoit un suppléant pour les communes membres d'une communauté de communes ou d'une communauté d'agglomération qui n'ont qu'un seul conseiller communautaire. Le suppléant est le conseiller qui intervient pour assister aux réunions du conseil communautaire à la place du conseiller titulaire en cas d'empêchement temporaire de ce dernier. En application de ce même article, le suppléant est aussi le conseiller supplémentaire appelé à remplacer le titulaire en cas de vacance du siège pour quelque cause que ce soit et ce, jusqu'au remplacement définitif du titulaire. La loi du 4 août 2014 rend ce dispositif applicable dès sa publication, dès lors que la démission du conseiller titulaire est postérieure à cette loi. Pour respecter le principe de parité, l'article 62 de la loi du 4 août 2014 précitée a complété le premier alinéa de l'article L. 273-10 du code électoral en précisant que lorsqu'une commune ne dispose que d'un seul conseiller communautaire, le remplaçant du titulaire en cas de vacance définitive du siège est le suivant de la liste communautaire qui est donc de sexe opposé. Le premier candidat non élu au conseil communautaire, de sexe opposé à l'élu titulaire, qui est suppléant du titulaire, a désormais vocation à le remplacer en cas de vacance du siège du titulaire.
