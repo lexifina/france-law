@@ -1,0 +1,9 @@
+# Réponse à la question SEQ160421294
+
+- Question : [SEQ160421294](seq160421294.md) — Suppression d'une perception
+
+## Réponse
+
+*Budget, JO du 2016-07-07, page 3036*
+
+Le réseau territorial et les moyens alloués à la direction générale des finances publiques (DGFiP) évoluent en permanence. S'agissant des moyens aussi bien humains que financiers, la DGFiP, qui ne relève pas d'un ministère prioritaire, contribue pleinement à la maîtrise des comptes publics. Ce cadre contraint étant posé, l'amélioration du service à l'usager et de l'efficacité de l'action publique sur l'ensemble du territoire national, reste l'une de ses priorités. La DGFiP veille ainsi toujours à adapter ses implantations à l'évolution des flux de populations et des attentes des usagers, ainsi qu'à l'évolution des structures territoriales : prise en compte de la loi portant nouvelle organisation territoriale de la République (NOTRe), développement de l'intercommunalité, évolution de la carte hospitalière notamment. Le regroupement de la trésorerie de Rémilly avec celle de Verny a effectivement conduit au transfert de la gestion comptable et financière de certaines communes vers ce dernier poste de Verny et non vers celui de Courcelles-Chaussy, trésorerie de rattachement de la communauté de communes du Pays de Pange. L'adaptation du réseau comptable à la carte de l'intercommunalité constitue une préoccupation constante. La DGFiP s'efforce, à chacune des opérations de réorganisations de trésoreries et dans la mesure du possible, d'y répondre. Néanmoins, les nouvelles dispositions de la loi NOTRe imposant un seuil de 15 000 habitants font peser actuellement de nombreuses incertitudes sur le schéma départemental de coopération intercommunale. Lorsque les contours de la nouvelle carte de l'intercommunalité seront fixés, cette demande pourra être examinée avec la plus grande attention. Ces précisions sont de nature à répondre aux préoccupations exprimées.
