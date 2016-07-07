@@ -1,0 +1,9 @@
+# Réponse à la question SEQ160219977
+
+- Question : [SEQ160219977](seq160219977.md) — Statistiques relatives aux ruptures conventionnelles
+
+## Réponse
+
+*Travail, emploi, formation professionnelle et dialogue social, JO du 2016-07-07, page 3102*
+
+Les données publiées sur le site de la direction de l'animation, de la recherche, des études et des statistiques (DARES) concernant les ruptures conventionnelles sont issues d'une exploitation directe des formulaires reçus par la direction générale du travail. Ces données permettent actuellement d'évaluer le nombre de ruptures reçues et homologuées. Elles seront enrichies dans un futur proche par l'ajout de caractéristiques individuelles du salarié (sexe, âge, catégorie socio-professionnelle, montant de l'indemnité) et de l'établissement (secteur d'activité, effectif). À cette fin, un travail de correction des données est en cours, les formulaires n'étant pas toujours bien renseignés. En revanche, l'initiative de la demande ne figure pas dans le formulaire. Enfin, le devenir des salariés est partiellement connu pour ceux qui s'inscrivent à Pôle Emploi à la suite d'une rupture conventionnelle. Il est en effet possible de décrire leur parcours sur les listes de Pôle emploi, puis de détailler pour une partie d'entre eux leur devenir à la sortie des listes (à partir de l'enquête sur les sortants des listes menée avec Pôle emploi). Pour analyser l'ensemble des trajectoires professionnelles faisant suite à des ruptures conventionnelles, il faut mener une analyse plus complexe, qui nécessite en particulier un appariement avec d'autres bases de données. Il s'agit d'un travail d'étude qui peut être envisagé, mais qui ne relève pas d'une production statistique régulière. Les études sur les ruptures conventionnelles ont fait l'objet d'une publication de la DARES datée de 2013 et intitulée « les ruptures conventionnelles de 2008 à 2012 ».
