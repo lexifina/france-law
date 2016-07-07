@@ -1,0 +1,9 @@
+# Réponse à la question SEQ151018131
+
+- Question : [SEQ151018131](seq151018131.md) — Décharge de munitions militaires
+
+## Réponse
+
+*Défense, JO du 2016-07-07, page 3043*
+
+La société industrielle de munitions et de travaux (SIMT), implantée sur le site de « La Carougnade » à Saint-Martin-de-Crau (Bouches-du-Rhône), a été chargée, de 1976 à 2007, d'opérer le démantèlement de munitions provenant d'entreprises privées et de diverses institutions dont le ministère de la défense. Consécutivement à sa liquidation judiciaire, cette société a abandonné sur place une quantité très importante de munitions, enfouies ou en surface. Chargée de procéder à la dépollution du site, la sécurité civile a ainsi recensé à cet endroit environ 3 500 obus explosifs de 105 mm et de 120 mm et une cinquantaine d'obus fumigènes au phosphore, tous dépourvus de leur fusée d'amorçage. Il resterait en outre sur place de nombreux résidus de tir (douilles, corps de bombes…). Compte tenu de leur ancienneté, ces munitions ne peuvent pas être éliminées par les filières industrielles existantes. En effet, cela supposerait de fractionner leurs charges militaires pour pouvoir ensuite les incinérer dans des fours dotés de dispositifs de traitement de fumées conformes à la réglementation. Or, ce fractionnement, possible sur des matières pyrotechniques homogènes et intègres, présenterait des risques élevés s'agissant de matières potentiellement dégradées par le temps. La sécurité civile examine en conséquence actuellement les diverses modalités selon lesquelles pourrait être réalisée la destruction de ces munitions dans les meilleures conditions de sécurité et de respect des normes environnementales. L'option privilégiée consiste en une destruction des munitions sur des sites militaires classés ICPE 2793-3, dédiés à ce type d'opération.
