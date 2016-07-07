@@ -1,0 +1,9 @@
+# Réponse à la question SEQ150817590
+
+- Question : [SEQ150817590](seq150817590.md) — Indemnités des élus
+
+## Réponse
+
+*Aménagement du territoire, ruralité et collectivités territoriales, JO du 2016-07-07, page 3019*
+
+Depuis le 1er janvier 2016, conformément aux dispositions des articles 3 et 18 de la loi n° 2015-366 du 31 mars 2015 visant à faciliter l'exercice, par les élus locaux de leur mandat, les maires bénéficient à titre automatique des indemnités de fonction fixées selon le barème prévu à l'article L. 2123-23 du CGCT. Ces dispositions sont également applicables aux présidents de délégation spéciale. Toutefois, pour les communes de 1 000 habitants et plus, le conseil municipal peut, à la demande du maire et par délibération, fixer pour celui-ci une indemnité inférieure au barème. Lorsque le conseil municipal est renouvelé, il n'est pas nécessaire pour les conseils municipaux de délibérer à nouveau sur le régime indemnitaire des élus municipaux dans le cas où les délibérations indemnitaires prises par les organes délibérants des communes ont déjà fixé les indemnités de fonction du maire au montant maximal. Si ce n'est pas le cas, dans les communes de moins de 1 000 habitants, le conseil municipal doit délibérer à nouveau sur les indemnités de fonction des élus du conseil municipal. Dans les communes de 1 000 habitants et plus, si le maire ne demande pas à bénéficier d'indemnités de fonction inférieures, le conseil municipal doit délibérer à nouveau sur les indemnités de fonction des élus du conseil municipal. S'il le demande, cette nouvelle délibération est une simple faculté. Si les délibérations indemnitaires comportent des dispositions relatives aux majorations d'indemnités de fonction, il est nécessaire de délibérer à nouveau, afin d'attribuer des majorations aux élus des communes qui en remplissent les conditions, conformément aux dispositions de l'article L. 2123-22 du CGCT.
