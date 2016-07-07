@@ -1,0 +1,9 @@
+# Réponse à la question SEQ160220326
+
+- Question : [SEQ160220326](seq160220326.md) — Désignation des conseillers communautaires en cas de création d'une commune nouvelle
+
+## Réponse
+
+*Aménagement du territoire, ruralité et collectivités territoriales, JO du 2016-07-07, page 3023*
+
+L'article L. 5211-6-2 du code général des collectivités territoriales (CGCT) précise les modalités de détermination du nombre et de répartition des sièges de conseiller communautaire entre deux renouvellements généraux des conseils municipaux. Lorsque la création d'une commune nouvelle est effectuée à partir de communes membres d'EPCI à fiscalité propre distincts, la loi prévoit que cette commune nouvelle doit choisir l'EPCI à fiscalité propre auquel elle souhaite être rattachée. L'adhésion de la commune nouvelle est alors considérée comme une extension du périmètre de l'EPCI, ce qui entraîne, conformément à l'article L. 5211-6-2 du CGCT, une recomposition du conseil communautaire de l'EPCI. L'article L. 5211-6-1 du CGCT prévoit que lorsqu'un conseil communautaire doit être recomposé, le nombre de sièges et leur répartition peuvent être fixés selon deux modalités distinctes : soit par accord local dans les conditions prévues au I de cet article, soit en application des dispositions de droit commun prévues aux II à V de ce même article. Dans ses décisions n° 2014-405 QPC du 20 juin 2014, puis dans sa décision n° 2015-711 DC du 5 mars 2015, le Conseil constitutionnel a indiqué que la répartition des sièges de conseillers communautaires entre communes devait respecter un principe général de proportionnalité par rapport à la population. Dès lors, l'attribution des sièges à la commune nouvelle doit respecter strictement ce principe de proportionnalité à la population. Il ne peut par conséquent être envisagé d'attribuer davantage de sièges à une commune nouvelle au motif que les anciennes communes devraient être représentées.
