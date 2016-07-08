@@ -1988,7 +1988,11 @@ xiv : Le fluoranthène figure dans la liste en tant qu'indicateur d'autres hydro
 
 1.2. Liste des polluants concernés et normes de qualité environnementales correspondantes en vigueur à partir du 22 décembre 2015
 
-Pour les substances numérotées de 34 à 45, les NQE prennent effet à compter du 22 décembre 2018.
+Les substances numérotées de 34 à 45 et leurs NQE correspondantes sont prises en compte dans l'évaluation des états ou potentiels des masses d'eaux à compter du 22 décembre 2018.
+
+Les concentrations en substances numérotées de 34 à 45 respectent les NQE correspondantes à compter du 22 décembre 2027.
+
+Les concentrations en substances numérotées 2,5,15,20,22,23 et 28 pour lesquelles les NQE ont été révisées à compter du 22 décembre 2015 respectent ces NQE à compter du 22 décembre 2021
 
 MA : moyenne annuelle.
 
