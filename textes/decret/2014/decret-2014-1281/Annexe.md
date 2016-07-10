@@ -346,9 +346,7 @@ Article 265 bis 1-b et article 265 bis 2
 
 |
 
-Autorisation (attestation d'identification et autorisation expresse pour usages dérogatoires) pour l'utilisation des essences et du gazole, ainsi que des produits pétroliers, destinés à l'avitaillement des navires.
-
-|
+Autorisation (attestation d'identification et autorisation expresse pour usages dérogatoires) pour l'utilisation des essences et du gazole, ainsi que des produits pétroliers, destinés à l'avitaillement des navires. |
 
 Article 265 bis 1-c
 
@@ -358,7 +356,7 @@ Article 265 bis 1-c
 
 |
 
-Autorisation de constitution de dépôt spécial d'avitaillement des navires.
+Autorisation de constitution de dépôt spécial de carburant maritime (DSCM).
 
 |
 
@@ -394,9 +392,7 @@ Article 265 bis 1-b
 
 |
 
-Création et modification des autorisations de stockages spéciaux de carburant d'aviation (SSCA).
-
-|
+Création et modification des autorisations de stockages spéciaux de carburant d'aviation (SSCA). |
 
 Article 265 bis 1-b
 
@@ -406,9 +402,7 @@ Article 265 bis 1-b
 
 |
 
-Décision de fermeture des entrepôts fictifs pour compte d'autrui (EFCA), DSCA et SSCA.
-
-|
+Décision de fermeture des entrepôts fiscaux de carburant d'aviation (EFCA). |
 
 Article 265 bis 1-b
 
@@ -494,7 +488,7 @@ Article 95 ZH de l'annexe II
 
 |
 
-Autorisation et conventionnement du visa fiscal des professionnels de l'expertise comptable.
+Autorisation et conventionnement du "visa fiscal" des professionnels de l'expertise comptable.
 
 |
 
@@ -506,23 +500,11 @@ Article 1649 quater L et article 371 bis B de l'annexe II
 
 |
 
-Autorisation de procéder à un second essai sur des objets marqués du poinçon de la garantie.
+Autorisation de procéder à la vérification de la légalité du titre d'un ouvrage en or, argent ou platine marqué d'un poinçon de garantie.
 
 |
 
 Article 207 de l'annexe III
-
-|
-
-6 mois
-
-|
-
-Autorisation d'attester la garantie du titre des ouvrages en métaux précieux par marquage au laser.
-
-|
-
-Article 523 ; articles 275 bis B à 275 bis i et 275 ter à 275 ter I de l'annexe II, articles 56 J duodecies et 56 J terdecies de l'annexe IV
 
 |
 

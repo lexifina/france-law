@@ -352,23 +352,11 @@ Article R. 2335-4
 
 |
 
-Modification, suspension, retrait et abrogation de l'autorisation d'importation de matériels de guerre, armes et munitions
-
-|
-
-Article R. 2335-7
-
-|
-
-9 mois
-
-|
-
 Exportations de produits explosifs civils (octroi et refus)
 
 |
 
-Articles L. 2352-1 et R. 2352-37
+Article R. 2352-37
 
 |
 
@@ -380,7 +368,7 @@ Importations de produits explosifs civils (octroi et refus)
 
 |
 
-Articles L. 2352-1 et R. 2352-31
+Article R. 2352-31
 
 |
 
@@ -388,7 +376,7 @@ Articles L. 2352-1 et R. 2352-31
 
 |
 
-Transfert : introduction de produits explosifs civils (octroi, refus, suspension, abrogation)
+Transfert : introduction de produits explosifs civils (octroi, refus)
 
 |
 
@@ -416,7 +404,7 @@ Exportation de produits explosifs militaires (octroi et refus)
 
 |
 
-Articles L. 2352-1 et R. 2352-19, deuxième alinéa
+Article R. 2352-19, deuxième alinéa
 
 |
 
@@ -428,7 +416,7 @@ Importation de produits explosifs militaires (octroi et refus)
 
 |
 
-Articles L. 2352-1 et R. 2352-19, premier alinéa
+Article R. 2352-19, premier alinéa
 
 |
 
@@ -739,22 +727,6 @@ Ouverture d'un entrepôt fiscal de stockage d'huiles minérales
 |
 
 Article 3
-
-|
-
--
-
-|
-
-Décret n° 97-1195 du 24 décembre 1997 pris pour l'application du 2° de l'article 2 du décret n° 97-34 du 15 janvier 1997 relatif à la déconcentration des décisions administratives individuelles relevant du ministre de l'économie, des finances et de l'industrie
-
-|
-
-Octroi du statut d'exportateur agréé
-
-|
-
-Accord sur l'Espace économique européen et accords d'association entre l'Union européenne et ses Etats membres et les pays tiers
 
 |
 
