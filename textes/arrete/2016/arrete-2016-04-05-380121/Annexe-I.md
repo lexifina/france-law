@@ -1,28 +1,24 @@
 # Article Annexe I
 
-TABLEAU DES INTERVALLES ENTRE DEUX DONS
-
-(SEMAINES)
+TABLEAU DES INTERVALLES ENTRE DEUX DONS (SEMAINES)
 
 DON SUIVANT
 
 |
 
-SANG
-
-total
+SANG total
 
 |
 
-DON D'APHERESE SIMPLE
+DON D'APHÉRÈSE SIMPLE
 
 |
 
-DON D'APHERESE COMBINEE
+DON D'APHÉRÈSE COMBINÉE
 
 |
 
-DON PRECEDENT
+DON PRÉCÉDENT
 
 |
 
@@ -34,7 +30,7 @@ Plasma
 
 |
 
-Granuloc ytes
+Granulocytes
 
 |
 
@@ -42,7 +38,7 @@ Aphérèse simple GR
 
 |
 
-Plaquettes + Plasma
+Plaquettes + plasma
 
 |
 
@@ -347,5 +343,41 @@ Plasma + GR
 |
 
 8
+
+|
+
+Cellules souches hématopoïétiques
+
+|
+
+16
+
+|
+
+16
+
+|
+
+8
+
+|
+
+16
+
+|
+
+16
+
+|
+
+16
+
+|
+
+16
+
+|
+
+16
 
 |
