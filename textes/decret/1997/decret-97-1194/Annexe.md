@@ -1902,7 +1902,7 @@ Article 6, 1er alinéa.
 
 |
 
-Décisions entrant dans le champ des compétences de la direction générale des impôts et de la direction générale des douanes et droits indirects
+Décisions entrant dans le champ des compétences de la direction générale des finances publiques et de la direction générale des douanes et droits indirects
 
 Code général des impôts
 
@@ -1920,23 +1920,23 @@ Articles 164 P et 164 A B de l'annexe IV.
 
 Livre des procédures fiscales
 
+N° |
+
+LIBELLÉ DE LA DÉCISION |
+
+BASE JURIDIQUE |
+
 1
 
 |
 
-Décisions sur les demandes des contribuables tendant à obtenir une transaction, remise ou modération en matière de contributions indirectes, au-delà du seuil de compétence fixé par le a du premier alinéa de l'article R. 247-5.
+Décisions sur les demandes des contribuables tendant à obtenir une transaction, remise ou modération en matière de contributions indirectes, au-delà des seuils fixés au a et au b de l'article R. * 247-5.
 
 |
 
-Article R. 247-5, 1er alinéa b et c.
+c de l'article R. * 247-5.
 
 |
-
-2 |
-
-Décisions portant dispense du paiement d'impositions établies au nom de tiers et recouvrées par les comptables de la direction générale des impôts et de la direction générale des douanes et droits indirects, au-delà du seuil de compétence fixé par le a du deuxième alinéa de l'article R. 247-11. |
-
-Article R. 247-11, 2e alinéa b et c. |
 
 Décisions entrant dans le champ des compétences de la direction générale des douanes et droits indirects
 
@@ -1996,6 +1996,28 @@ Article 6 §4.
 
 |
 
+Convention relative à un régime de transit commun du 20 mai 1987
+
+N°
+
+|
+
+LIBELLÉ DE LA DÉCISION |
+
+BASE JURIDIQUE
+
+|
+
+1 |
+
+Octroi, pour la partie française, de procédures simplifiées de transit par voie d'arrangements bilatéraux ou multilatéraux applicables à certains trafics ou entreprises déterminées, auprès de bureaux de douane situés dans le ressort de directions interrégionales différentes.
+
+|
+
+Article 6.
+
+|
+
 Réglementations
 
 de l'Union européenne
@@ -2012,23 +2034,9 @@ Délivrance, suspension et retrait des certificats d’opérateurs économiques 
 
 |
 
-Article 5
+Article 5 bis du code des douanes communautaire.
 
-bis
-
-du code des douanes communautaire.
-
-Articles 14
-
-bis
-
-à 14
-
-tervicies
-
-des dispositions
-
-d’application du code des douanes communautaire.
+Articles 14 bis à 14 tervicies des dispositions d’application du code des douanes communautaire.
 
 |
 
@@ -2330,43 +2338,97 @@ sous le couvert de carnets TIR, du
 
 |
 
-Règlement (CEE) 565/80 du Conseil du 4 mars 1980 relatif au paiement à l'avance des restitutions à l'exportation pour les produits agricoles
+Code des douanes de l'Union européenne et ses dispositions d'application
 
-1
+N° |
 
-|
+LIBELLÉ DE LA DÉCISION |
 
-Autorisation de recourir au régime de préfinancement valable dans plusieurs Etats membres de la Communauté européenne relatif au paiement à l'avance des restitutions à l'exportation pour les produits agricoles.
-
-|
-
-Articles 4, 5 et 7.
-
-|
-
-Règlement (CE) n
-
-°
-
-1917/2000 de la Commission
-
-du 7 septembre 2000 fixant certaines dispositions d’application du règlement (CE) n
-
-o
-
-1172/95 du Conseil en ce
-
-qui concerne la statistique du commerce extérieur
+BASE JURIDIQUE |
 
 1 |
 
-Autorisation de simplification de la déclaration d’exportation applicable aux ensembles
+Décisions en matière de renseignement tarifaire contraignant ou de renseignement contraignant en matière d'origine |
 
-industriels.
+Articles 33 et 34, paragraphes 4,,7, 8 et 11, du code des douanes de l'Union européenne. |
 
-|
+2 |
 
-Article 16. |
+Autorisation d'utilisation prolongée d'un renseignement contraignant en matière d'origine ayant cessé d'être valable ou révoqué |
+
+Article 34, paragraphe 9, du code des douanes de l'Union européenne. |
+
+3 |
+
+Octroi d'un délai de grâce en matière de renseignement tarifaire contraignant dans les cas de révocation et des mesures visées à l'article 57 paragraphe 4 du code des douanes de l'Union européenne. |
+
+Article 34, paragraphe 9, du code des douanes de l'Union européenne. |
+
+4 |
+
+Remise ou remboursement de droits en application de décisions de la Commission européenne. |
+
+Articles 116, paragraphe 3, 119 et 120 du code des douanes de l'Union européenne et 101 du règlement délégué. |
+
+5 |
+
+Autorisation d'ajustement en matière de valeur en douane. |
+
+Articles 73 du code des douanes de l'Union et 71 du règlement délégué. |
+
+6 |
+
+Décisions relatives à l'autorisation d'autoévaluation pour effectuer les contrôles de conformité avec les mesures de prohibition et de restriction. |
+
+Articles 185, paragraphe 1, du code des douanes de l'Union européenne, 151 du règlement délégué et 237 du règlement d'exécution. |
+
+7 |
+
+Décisions relatives à l'autorisation d'autoévaluation pour déterminer le montant exigible des droits à l'importation ou à l'exportation, sans dispense de dépôt de déclaration complémentaire. |
+
+Articles 185, paragraphe 1, du code des douanes de l'Union européenne, 151 du règlement délégué, 225 et 237 du règlement d'exécution. |
+
+8 |
+
+Décisions relatives à l'autorisation d'autoévaluation pour déterminer le montant exigible des droits à l'importation ou à l'exportation, avec dispense de dépôt de déclaration complémentaire. |
+
+Articles 185, paragraphe 1, du code des douanes de l'Union européenne, 225 et 237 du règlement d'exécution. |
+
+9 |
+
+Décisions relatives à l'autorisation d'opérateur économique agréé pour les simplifications douanières. |
+
+Articles 38, paragraphe 2 a, 39 du code des douanes de l'Union européenne et 26 à 29 du règlement délégué. |
+
+10 |
+
+Décisions relatives à l'autorisation d'opérateur économique agréé pour la sécurité et la sûreté. |
+
+Articles 38, paragraphe 2 b, 39 du code des douanes de l'Union européenne, et 26 à 29 du règlement délégué. |
+
+11 |
+
+Décisions relatives à une demande d'établissement de ligne maritime régulière |
+
+Article 120 du règlement délégué |
+
+12 |
+
+Décisions relatives à une demande d'exploitation d'installation de stockage temporaire entre plusieurs Etats membres |
+
+Articles 148 du code des douanes de l'Union européenne et 191 du règlement d'exécution. |
+
+13 |
+
+Désignation d'une zone franche |
+
+Article 243 du code des douanes de l'Union. |
+
+14 |
+
+Décisions relatives à l'autorisation d'utilisation d'un document de transport électronique en tant que déclaration de transit pour le transport aérien et pour le transport maritime |
+
+Articles 233, paragraphe 4 e, du code des douanes de l'Union européenne, 199 et 200 du règlement délégué. |
 
 Règlement (UE) n° 608/2013 du Parlement européen et du Conseil du 12 juin 2013 concernant le contrôle, par les autorités douanières, du respect des droits de propriété intellectuelle et abrogeant le règlement (CE) n° 1383/2003 du Conseil
 
@@ -2520,35 +2582,75 @@ susceptibles d’être utilisés en vue d’infliger la peine capitale, la tortu
 
 inhumains ou dégradants.
 
+N° |
+
+LIBELLÉ DE LA DÉCISION |
+
+BASE JURIDIQUE |
+
 1 |
 
-Autorisation d’exportation et de fourniture d’une assistance technique.
+Autorisation d'exportation de biens n'ayant aucune autre utilisation que celle d'infliger la peine capitale, la torture et d'autres peines ou traitements cruels, inhumains ou dégradants ainsi que la fourniture d'assistance technique se rapportant à ces biens. |
 
-|
-
-2 de l’article 3 et 1 de l’article 5.
-
-|
+Article 3. |
 
 2 |
 
-Autorisation d’importation et de fourniture d’une assistance technique.
+Autorisation d'importation de biens n'ayant aucune autre utilisation que celle d'infliger la peine capitale, la torture et d'autres peines ou traitements cruels, inhumains ou dégradants ainsi que la fourniture d'assistance technique se rapportant à ces biens. |
 
-|
-
-2 de l’article 4.
-
-|
+Article 4. |
 
 3 |
 
-Refus, suspension, modification, retrait ou abrogation des autorisations précédentes.
+Autorisation d'exportation de biens susceptibles d'être utilisés en vue d'infliger la peine capitale, la torture et d'autres peines ou traitements cruels, inhumains ou dégradants. |
 
-|
+Article 5. |
 
-4 de l’article 9.
+4 |
 
-|
+Décisions relatives aux autorisations d'exportation prévues aux articles 3 et 5 du règlement (CE) n° 1236/2005 du Conseil du 27 juin 2005 concernant le commerce de certains biens susceptibles d'être utilisés en vue d'infliger la peine capitale, la torture ou d'autres peines ou traitements cruels, inhumains ou dégradants. |
+
+Article 9. |
+
+Règlement (CE) n° 1186/2009 du Conseil du 16 novembre 2009 relatif à l'établissement du régime communautaire des franchises douanières
+
+N° |
+
+LIBELLÉ DE LA DÉCISION |
+
+BASE JURIDIQUE |
+
+1 |
+
+Agrément, suspension et retrait d'agrément des établissements privés autorisés à importer des biens en franchise de droits de douane. |
+
+b de l'article 43, b du 2 de l'article 44, b du 2 de l'article 53,1 de l'article 57, a de l'article 59, a, b etc de l'article 61, b du 1 de l'article 67, b du 1 de l'article 68 et 1 de l'article 74 |
+
+Règlement (UE) n° 258/2012 du Parlement et du Conseil du 14 mars 2012 portant application de l'article 10 du protocole des Nations unies contre la fabrication et le trafic illicites d'armes à feu, de leurs pièces, éléments et munitions, additionnel à la convention des Nations unies contre la criminalité transnationale organisée (protocole relatif aux armes à feu) et instaurant des autorisations d'exportation ainsi que des mesures concernant l'importation et le transit d'armes à feu, de leurs pièces, éléments et munitions
+
+Décret n° 2014-62 du 28 janvier 2014 relatif à l'exportation d'armes à feu, munitions et leurs éléments
+
+N° |
+
+LIBELLÉ DE LA DÉCISION |
+
+BASE JURIDIQUE |
+
+1 |
+
+Autorisation d'exportation d'armes à feu, munitions et leurs éléments |
+
+Article 4 du règlement
+
+Article 2 du décret |
+
+2 |
+
+Refus, suspension, modification, retrait ou abrogation d'autorisation d'exportation d'armes à feu, munitions et leurs éléments |
+
+Article 11 du règlement
+
+Article 10 du décret |
 
 Code des douanes
 
@@ -2556,11 +2658,11 @@ Code des douanes
 
 |
 
-(Supprimé)
+Exonération de droits d'accise des produits destinés à certaines utilisations particulières.
 
 |
 
-|
+Article 158 septies. |
 
 2
 
@@ -2590,11 +2692,11 @@ Article 190 et arrêté du 2 janvier 1974 relatif à l'application de la franchi
 
 |
 
-Agrément des dispositifs de sélection et autorisation d'utilisation de fioul domestique dans un moteur assurant alternativement la propulsion du véhicule et le fonctionnement d'appareils spéciaux.
+Agrément des dispositifs de sélection et autorisation d'utilisation de gazole non routier dans un moteur assurant alternativement la propulsion du véhicule et le fonctionnement d'appareils spéciaux.
 
 |
 
-Article 265 B et arrêté du 29 avril 1970 fixant pour les fuels-oils et les carburéacteurs des conditions d'emploi ouvrant droit à l'application du régime fiscal privilégié en matière de taxe intérieure de consommation, article 1.
+Article 265 B et arrêté du 10 novembre 2011 modifié fixant pour le gazole, les gaz de pétrole liquéfiés et les émulsions d'eau dans du gazole des conditions d'emploi ouvrant droit à l'application du régime fiscal privilégié institué par l'article 265 du code des douanes en matière de taxe intérieure de consommation.
 
 |
 
@@ -2606,7 +2708,7 @@ Agrément des systèmes de dénaturation automatique de gazole en fioul domestiq
 
 |
 
-Article 265 B et arrêté du 29 avril 1970 précité, article 2.
+Article 265 B et arrêté du 10 novembre 2011 précité, article 2.
 
 |
 
@@ -2652,11 +2754,11 @@ Article 444 et article 54-O G de l'annexe IV.
 
 |
 
-Dispense ou aménagement du cautionnement en matière de contributions indirectes.
+Délivrance et retrait d'un numéro d'identification à un fabricant ou à un fournisseur de tabac manufacturé
 
 |
 
-Articles 486, alinéa 2, 498 alinéa 2 et 615, alinéa 2.
+Article 570-III ; articles 276,277 et 279 de l'annexe II
 
 |
 
@@ -2696,221 +2798,137 @@ Article 207 de l'annexe III.
 
 |
 
-Titre III du livre III de la deuxième partie réglementaire du code de la défense
+7 |
 
-1
+Délivrance du numéro d'agrément des personnes responsables de l'embouteillage du produit |
+
+Article 111 I de l'annexe III et le a de l'article 50-0 C de l'annexe IV |
+
+8 |
+
+Délivrance, suspension et retrait de l'agrément des organismes chargés de l'élaboration, de la vente et du transfert des fichiers informatiques supportant la version dématérialisée des poinçons de garantie |
+
+Articles 275 bis F et 275 ter G de l'annexe II ; articles 56 J terdecies A à 56 J terdecies E de l'annexe IV |
+
+9 |
+
+Délivrance, suspension et retrait de l'agrément des organismes de contrôle chargés d'attester la garantie du titre des ouvrages en métaux précieux |
+
+Article 535 II, articles 275 ter à 275 ter P de l'annexe II |
+
+Livre des procédures fiscales
+
+N° |
+
+LIBELLÉ DE LA DÉCISION |
+
+BASE JURIDIQUE |
+
+1 |
+
+Décisions portant dispense du paiement d'impositions établies au nom de tiers et recouvrées par les comptables de la direction générale des douanes et droits indirects, au-delà du seuil de compétence fixé par le a de l'article R. 247-11 du livre des procédures fiscales.
 
 |
 
-Autorisation d’importation de matériels de guerre, armes et munitions.
-
-|
-
-Article R. 2335-2.
-
-|
+b de l'article R. 247-11 |
 
 2 |
 
-Autorisation de transfert d’armes, munitions et leurs éléments
+Décisions sur les demandes tendant à obtenir une remise, modération ou transaction en matière d'amendes prévues à l'article 1788 A du code général des impôts au-delà du seuil prévu au a de l'article R. * 247-5 C du livre des procédures fiscales. |
 
-|
+b de l'article R. * 247-5 C. |
 
-Article R. 2335-40-1
+Code de la défense
 
-|
+N° |
+
+LIBELLÉ DE LA DÉCISION |
+
+BASE JURIDIQUE |
+
+1 |
+
+Accord et refus d'autorisation d'importation et d'autorisation globale d'importation de matériels de guerre, armes et munitions. |
+
+Article R. 2335-2. |
+
+2 |
+
+Modification, suspension, retrait et abrogation de l'autorisation d'importation et d'autorisation d'importation globale de matériels de guerre, armes et munitions. |
+
+Article R. 2335-7. |
 
 3 |
 
-Autorisation de transit de matériels de guerre, armes et munitions et matériels assimilés.
+Délivrance et refus de délivrance d'un certificat international d'importation et d'un certificat de vérification de livraison pour l'importation des matériels de guerre et des matériels assimilés régis par le code de la défense. |
 
-|
-
-Article R. 2335-43.
-
-|
+Article R. 2335-8. |
 
 4 |
 
-Modification, suspension, retrait et abrogation de l’autorisation d’importation de matériels de
+Accord et refus d'autorisation de transit de matériels de guerre, armes et munitions et matériels assimilés. |
 
-guerre, armes et munitions.
-
-|
-
-Article R. 2335-7.
-
-|
+Article R. 2335-43. |
 
 5 |
 
-Modification, suspension, retrait et abrogation de l’autorisation de transfert d’armes,
+Accord et refus d'autorisation globale de transit de matériels de guerre. |
 
-munitions et leurs éléments
-
-|
-
-Article R. 2335-40-1
-
-|
-
-Décret du 30 novembre 1944 fixant les conditions d'importation en France et dans les territoires français d'outre-mer des marchandises étrangères, ainsi que les conditions d'exportation et de réexportation des marchandises hors de France et des territoires d'outre-mer à destination de l'étranger et établissant certaines formalités au point de vue des échanges entre la France et les territoires français d'outre-mer
-
-1
-
-|
-
-Autorisation d'importation et d'exportation de produits contingentés ou soumis à des mesures de commerce extérieur (produits industriels et agricoles).
-
-|
-
-Articles 1er et 5.
-
-|
-
-Décret n° 71-753 du 10 septembre 1971 modifié pris pour l'application de l'article 1er de la loi du 3 juillet 1970 portant réforme du régime des poudres et substances explosives
-
-1
-
-|
-
-Autorisations d’importation, d’exportation, de transfert simple, de
-
-transferts multiples et de transit de produits explosifs.
-
-|
-
-Articles 6-1 (premier et deuxième alinéas), 8-1 (premier alinéa),
-
-8-2 (I, premier et troisième alinéas, II et III), 8-4 (I, premier
-
-alinéa, II et III, premier alinéa), 8-5 (premier et troisième
-
-alinéas), 8-7 et 8-8.
-
-|
-
-Décret n° 93-1094 du 13 septembre 1993 fixant les conditions d'application du chapitre III bis du titre V du code des douanes
-
-1
-
-|
-
-Autorisation d'ouverture d'un entrepôt fiscal de stockage d'huiles minérales.
-
-|
-
-Article 3.
-
-|
-
-2
-
-|
-
-Autorisation de tout changement entrainant une modification d'un élément constitutif d'un entrepôt fiscal de stockage d'huiles minérales.
-
-|
-
-Article 4.
-
-|
-
-3
-
-|
-
-Autorisation de fermeture d'un entrepôt fiscal de stockage d'huiles minérales.
-
-|
-
-Article 5.
-
-|
-
-Décret n° 2013-700 du 30 juillet 2013 portant application de la loi n° 2012-304 du 6 mars 2012 relative à l’établissement d’un contrôle des armes moderne, simplifié et préventif
-
-1
-
-|
-
-Permis de transfert.
-
-|
-
-Article 149.
-
-|
-
-2
-
-|
-
-Agrément de transfert.
-
-|
-
-Article 150.
-
-|
-
-3 |
-
-Accord préalable de transfert.
-
-|
-
-Article 151.
-
-|
-
-4 |
-
-Autorisation de transfert d’armes, munitions et leurs éléments.
-
-|
-
-Article 159.
-
-|
-
-5 |
-
-Modification, suspension, retrait et abrogation du permis de transfert, de l’agrément de
-
-transfert et de l’accord préalable de transfert.
-
-|
-
-Article 156.
-
-|
+Article R. 2335-44. |
 
 6 |
 
-Modification, suspension, retrait et abrogation de l’autorisation de transfert d’armes
+Modification, suspension, retrait et abrogation de l'autorisation de transit de matériels de guerre, armes et munitions. |
 
-munitions et leurs éléments.
+Article R. 2335-45. |
 
-|
+7 |
 
-Article 159.
+Accord, refus, modification, suspension, abrogation et retrait d'autorisation d'importation et d'introduction de produits explosifs militaires. |
 
-|
+Articles L. 2352-1 et R. 2352-19, premier alinéa. |
 
-Décret n° 96-1023 du 22 novembre 1996 relatif au régime de l'usine exercée
+8 |
 
-1
+Accord, refus, modification, suspension, abrogation et retrait d'autorisation d'exportation et d'expédition de produits explosifs militaires. |
 
-|
+Articles L. 2352-1 et R. 2352-19, deuxième alinéa. |
 
-Autorisation de constitution, de fermeture ou de changement de titulaire d'usine exercée.
+9 |
 
-|
+Accord, refus, modification, suspension, abrogation et retrait d'autorisation de transfert intracommunautaire d'explosifs civils à l'introduction. |
 
-Articles 5, 20 et 21.
+Articles L. 2352-1 et R. 2352-26. |
 
-|
+10 |
+
+Accord, refus, modification, suspension, abrogation et retrait d'autorisation d'introduction d'articles pyrotechniques. |
+
+Articles L. 2352-1 et R. 2352-30 |
+
+11 |
+
+Accord, refus, modification, suspension, abrogation et retrait d'autorisation d'importation de produits explosifs civils et articles pyrotechniques. |
+
+Articles L. 2352-1 et R. 2352-31. |
+
+12 |
+
+Accord, refus, modification, suspension, abrogation et retrait d'autorisation de transfert intracommunautaire d'explosifs civils à l'expédition. |
+
+Articles L. 2352-1, R. 2352-34 et R. 2352-35. |
+
+13 |
+
+Accord, refus, modification, suspension, abrogation et retrait d'autorisation d'expédition d'articles pyrotechniques |
+
+Articles L. 2352-1 et R. 2352-36. |
+
+14 |
+
+Accord, refus, modification, suspension, abrogation et retrait d'autorisation d'exportation de produits explosifs civils et articles pyrotechniques. |
+
+Articles L. 2352-1 et R. 2352-37. |
 
 Décret n° 2001-143 du 15 février 2001 concernant la mise en œuvre des dispositions du titre II de la loi n° 98-467 du 17 juin 1998 relative à l'application de la convention du 13 janvier 1993 sur l'interdiction de la mise au point, de la fabrication, du stockage et de l'emploi des armes chimiques et sur leur destruction
 
