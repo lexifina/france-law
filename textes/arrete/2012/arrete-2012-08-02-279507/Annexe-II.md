@@ -86,13 +86,13 @@ Articles L. 4153-2 et D. 4153-21 du code de la santé publique
 
 |
 
-Instances de l'Organisme gestionnaire du développement professionnel continu (OGDPC) :
+Instances de l'Agence nationale du développement professionnel continu :
 
--assemblée générale ;
+- assemblée générale ;
 
--comité paritaire du DPC ;
+- comité paritaire du DPC ;
 
--conseil de surveillance du DPC.
+- conseil de surveillance du DPC.
 
 |
 
