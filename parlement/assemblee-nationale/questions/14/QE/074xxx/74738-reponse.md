@@ -1,0 +1,9 @@
+# Réponse à la question n° 74738
+
+- Question : [74738](74738.md) — Question n° 74738 — délai d'instruction; perspectives
+
+## Réponse
+
+*JO du 2016-07-12*
+
+L'amélioration de la qualité de la liquidation est un axe majeur de la convention d'objectifs et de gestion 2014-2017 (COG) contractualisée entre l'Etat et la caisse nationale d'assurance vieillesse (CNAV). Le délai de versement des pensions, notamment de réversion, est donc un des importants enjeux auxquels veille le gouvernement pour l'ensemble des caisses d'assurance retraite et de la santé au travail (CARSAT). Les résultats du mois d'octobre font état, dans l'ensemble des CARSAT, de 85,29 % de pensions de réversion payées au plus tard dans le mois suivant l'échéance due aux assurés : ce taux de liquidation des droits dérivés est légèrement inférieur à la cible fixée par la COG, qui est de 88% pour l'année 2015. Ces résultats d'ensemble ne doivent pas conduire à ignorer les difficultés réelles de certaines situations et de quelques CARSAT. Face à la hausse du nombre de dossiers à traiter sur le second semestre 2015, deux décisions importantes ont donc été prises. Tout d'abord, la ministre des affaires sociales et de la santé a annoncé le 29 octobre 2015 l'instauration prochaine, pour les pensions de réversion, d'un dispositif inspiré de la garantie de versement offerte par le décret no 2015-1015 du 19 août 2015 relatif aux pensions de droits propres. Ce dispositif permettra de garantir aux usagers le versement de leurs pensions de réversions ou d'une estimation dans un délai imparti. De plus, le Gouvernement a demandé à la CNAV de mettre en œuvre un plan d'action visant à absorber le pic du second semestre dans de bonnes conditions en faisant de la liquidation des pensions de droits propres et des pensions de réversion une priorité. A cet effet, plusieurs leviers sont mobilisés tels que la mise en place d'un programme d'entraide entre CARSAT et le renforcement de moyens humains.
