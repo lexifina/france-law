@@ -1,0 +1,9 @@
+# Réponse à la question n° 59799
+
+- Question : [59799](59799.md) — Question n° 59799 — prévention; rapport; propositions
+
+## Réponse
+
+*JO du 2016-07-12*
+
+La sensibilisation et l'information des populations et de l'ensemble des acteurs sont des actions essentielles de la politique de prévention des risques. Un travail approfondi est mené entre les ministères de l'environnement, de l'énergie et de la mer, chargé des relations internationales sur le climat, et de l'intérieur sur ces sujets, en lien avec météo-France à travers le comité national de vigilance. Le ministère de l'intérieur déploie dans le cadre du dispositif système d'alerte et d'information des populations (SAIP) un vaste programme de modernisation des sirènes ainsi que l'application SAIP sur smartphone, qui avertira les populations des alertes et des consignes à respecter. Le fonds de prévention des risques naturels majeurs (FPRNM) n'a cependant pas vocation à financer directement ce type d'équipement, même dans le cadre de programmes d'actions pour la prévention des inondations (PAPI). Le service central d'hydrométéorologie et d'appui à la prévision des inondations (SCHAPI) et Météo-France développent parallèlement des applications pour smartphone pour diffuser les bulletins de vigilance et rappeler les messages de bon comportement associés. Une cohérence d'ensemble des messages d'alerte et de bons comportements est assurée à travers le comité national de vigilance. Suite aux inondations du 3 octobre 2015 dans les Alpes-Maritimes, une campagne médias va être organisée à l'automne pour renforcer l'information des populations au regard des risques liés aux pluies intenses méditerranéennes. Cette campagne portera sur les bons comportements à suivre en cas d'inondation avant la crise, lors de la vigilance, et, pendant la crise, sur les consignes à suivre au moment de l'alerte.
