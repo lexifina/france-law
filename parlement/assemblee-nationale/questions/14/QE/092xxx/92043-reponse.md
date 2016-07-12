@@ -1,0 +1,9 @@
+# Réponse à la question n° 92043
+
+- Question : [92043](92043.md) — Question n° 92043 — emballages; consigne; mise en place
+
+## Réponse
+
+*JO du 2016-07-12*
+
+La prévention des déchets consiste à réduire la quantité ou la nocivité des déchets produits, en intervenant à la fois sur leur mode de production et de consommation. Elle présente un fort enjeu en permettant de réduire les impacts environnementaux et les coûts associés à la gestion des déchets, mais également les impacts environnementaux dus à l'extraction des ressources naturelles, à la production des biens et services, à leur distribution et à leur utilisation. La hiérarchie européenne et française des modes de gestion des déchets place la prévention au sommet des priorités des politiques de gestion des déchets. Le programme national de prévention des déchets 2014-2020 publié en août 2014, permet de donner corps à cette ambition et de se projeter dans l'avenir. Il s'inscrit dans la volonté du Gouvernement de mettre en œuvre une transition vers le modèle d'économie circulaire, consacré par la loi de transition énergétique pour la croissance verte publiée le 18 août 2015. Cette loi prévoit le développement du système de l'emballage consigné, lorsqu'il est pertinent d'un point de vue environnemental. Elle met en place, notamment, un programme d'expérimentation du retour à la consigne dans les cas où celle-ci apparaît pertinente : ce programme d'expérimentation sera opérationnel fin 2016. Le plan prévoit également d'inscrire dans les cahiers des charges des éco-organismes des filières à responsabilité élargie des producteurs, des missions visant notamment à étudier si et dans quels cas des systèmes de consigne peuvent être pertinents et le cas échéant donner aux éco-organismes des objectifs liés au développement de tels systèmes.
