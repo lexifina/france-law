@@ -1,0 +1,9 @@
+# Réponse à la question n° 20948
+
+- Question : [20948](20948.md) — Question n° 20948 — programme européen d'aide aux plus démunis; perspectives
+
+## Réponse
+
+*JO du 2016-07-12*
+
+L'aide publique apportée aux associations mettant en œuvre l'aide alimentaire ne se limite pas aux seules subventions locales. Elle est en effet accordée sous 3 formes : - denrées, achetées par France AgriMer aux moyens des crédits européens et nationaux (80,6 M€ en 2015) et livrées aux têtes de réseaux associatives désignées par le Gouvernement. Chaque réseau répartit ensuite, au niveau local, les denrées reçues suivant ses propres critères ; - subventions nationales attribuées aux têtes de réseau pour piloter et soutenir les actions locales ; - subventions locales afin de soutenir la mise à disposition par les associations locales de denrées dans des conditions sûres et saines et de réaliser quelques achats alimentaires en circuits courts. En 2012, 5 M€ ont été ainsi mis à disposition des services déconcentrés du ministère des affaires sociales et de la santé afin que, localement, ils apportent un soutien à la mise en œuvre de cette aide. En 2014, ce sont 7,59 M€ qui ont été déconcentrés. La fédération des banques alimentaires fait partie des têtes de réseau bénéficiaires à la fois de l'aide sous la forme de denrées et de subventions nationales. Ce soutien s'inscrit dans la politique plus large d'aide alimentaire portée par le fonds européen d'aide aux plus démunis (FEAD), qui se substitue désormais au programme européen d'aide aux plus démunis (PEAD) pour la période 2014-2020. Grâce aux efforts déployés au sein du conseil par la France tout au long des négociations, et avec le soutien du parlement européen, le FEAD s'applique à tous les Etats membres et est doté de 3,5 milliards d'euros au total pour la période 2014-2020, montant supérieur d'un milliard à ce qui était initialement prévu dans le cadre financier pluriannuel.
