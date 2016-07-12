@@ -1,0 +1,9 @@
+# Réponse à la question n° 93390
+
+- Question : [93390](93390.md) — Question n° 93390 — produits cosmétiques; diplôme
+
+## Réponse
+
+*JO du 2016-07-12*
+
+La directive no 76/768/CEE du 27 juillet 1976 concernant le rapprochement des législations des Etats membres relatives aux produits cosmétiques permettait aux Etats membres de définir des niveaux de qualification pour certaines activités relatives aux produits cosmétiques. C'est dans ce cadre qu'a été élaboré l'arrêté du 25 août 1999 relatif à la qualification professionnelle des responsables de certaines activités concernant les produits cosmétiques. Parmi les activités soumises à condition de qualification par ce texte figuraient entre autres les responsables de la fabrication, du conditionnement, de l'importation ou encore de l'évaluation de produits cosmétiques, mais la vente de produits cosmétiques n'en faisait pas partie. Le règlement (CE) no 1223/2009 du Parlement européen et du conseil, du 30 novembre 2009, relatif aux produits cosmétiques, ne permet plus aux Etats membres de réglementer l'établissement d'opérateurs économiques par des diplômes particuliers, à l'exception des évaluateurs de la sécurité pour la santé humaine, qui doivent toujours posséder un diplôme minimum dans les conditions prévues par son article 10 (2). Ce règlement a donc abrogé implicitement plusieurs articles et annexes de l'arrêté du 25 août 1999 dès sa date d'application, le 11 juillet 2013. Par ailleurs, l'arrêté du 25 août 1999 est abrogé explicitement depuis le 17 mars 2016, date à laquelle est entré en vigueur l'arrêté du 25 février 2015 relatif à la qualification professionnelle des évaluateurs de la sécurité des produits cosmétiques pour la santé humaine, qui prévoit l'abrogation du texte de 1999. Ainsi, ni le règlement européen, ni les arrêtés de 1999 et 2015 ne fixent de condition de qualification pour la vente de produits cosmétiques.
