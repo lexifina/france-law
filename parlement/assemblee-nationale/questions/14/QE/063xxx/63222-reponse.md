@@ -1,0 +1,9 @@
+# Réponse à la question n° 63222
+
+- Question : [63222](63222.md) — Question n° 63222 — rapport; propositions
+
+## Réponse
+
+*JO du 2016-07-12*
+
+Les visites à domicile de professionnels de la protection maternelle et infantile (PMI), notamment après la naissance, sont organisées par les conseils départementaux au titre des missions définies à l'article L.2112-2 du code de la santé publique. Ces visites sont proposées aux parents systématiquement ou de manière ciblée en fonction des vulnérabilités médicales ou sociales (première naissance, prématurité, jeune âge de la mère, …) repérées à partir d'un travail de proximité avec la maternité, le réseau de santé en périnatalité ou le service social ou de l'analyse de documents tels que l'avis de grossesse, l'avis de naissance et le premier certificat de santé de l'enfant. Ces visites peuvent être proposées en continuité d'un suivi prénatal. Dans certains cas, les parents pourront préférer rencontrer les professionnels de PMI lors d'une consultation. Cette offre diversifiée permet au conseil départemental, en lien avec ses partenaires, de répondre aux besoins de la population de son ressort. La loi de modernisation du système de santé comporte des dispositions ancrant les services de protection maternelle et infantile dans la stratégie nationale de santé. Ces dispositions renforceront la coordination des intervenants en périnatalité, dont la PMI, et favoriseront un meilleur suivi des parents et des nouveau-nés. La feuille de route de la Protection de l'enfance rendue publique en juin 2015, déployée notamment dans la loi de protection de l'enfant du 14 mars 2016, rend obligatoire une visite prénatale au 4ème mois de grossesse, permettant ainsi de s'assurer un suivi médicale ou médico social et de proposer un accompagnement spécifique si des besoins sont identifiés.
