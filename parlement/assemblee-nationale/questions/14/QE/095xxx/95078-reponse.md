@@ -1,0 +1,9 @@
+# Réponse à la question n° 95078
+
+- Question : [95078](95078.md) — Question n° 95078 — centre de musique baroque de Versailles; perspectives
+
+## Réponse
+
+*JO du 2016-07-12*
+
+Le ministère de la culture et de la communication accompagne depuis près de 30 ans l'action du Centre de musique baroque de Versailles (CMBV). Il suit donc avec une particulière attention les évolutions de cette structure chargée de restituer, de transmettre et de valoriser le patrimoine musical français des XVIIe et XVIIIe siècles. Il est conscient des difficultés qu'il rencontre pour redéfinir un nouveau modèle économique équilibré tout en poursuivant les ambitions de ses missions d'origine. Le CMBV doit faire face aujourd'hui à une situation financière délicate engendrée par plusieurs facteurs, notamment le retrait de la collectivité territoriale départementale qui constituait de longue date un partenariat précieux corrélé à un projet éducatif original. Le traitement de ce déséquilibre budgétaire structurel appelle un travail de réflexion en profondeur qui ne peut se résumer à la seule mobilisation de nouvelles ressources d'État. Au-delà de l'aide exceptionnelle de 150 K€ qu'il a apportée à la fin de l'année 2015, le ministère de la culture et de la communication est disposé cette année à procéder à une augmentation de sa participation pour assurer a minima la compensation de l'augmentation conventionnelle de la masse salariale du CMBV. Il faut noter que la subvention de l'État (2,4 M€) représente plus de la moitié du budget global de la structure et que l'hypothèse d'une augmentation de plus de 15 % de cette dotation paraît difficilement envisageable. Le CMBV doit donc aussi participer à la définition d'un cadre budgétaire rééquilibré. À cet effet, une phase de travail est actuellement en cours pour définir, dans le cadre d'un programme triennal, les termes d'une convention apte à apporter une solution durable aux difficultés actuelles.
