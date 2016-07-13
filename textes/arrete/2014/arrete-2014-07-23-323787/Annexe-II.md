@@ -16,6 +16,8 @@ Cette épreuve porte, au choix du candidat, sur l'une des matières suivantes :
 
 - synthèse de dossier ;
 
+- mathématiques ;
+
 - cas concret professionnel.
 
 a) Synthèse de dossier :
@@ -26,7 +28,7 @@ La note de synthèse est construite selon un plan classique : introduction, dév
 
 Le candidat doit rédiger en 600 mots (+ ou - 10 %) une note de synthèse claire, précise et concise.
 
-Le candidat doit indiquer, sur sa copie, le nombre de mots qu'il a écrits. Le non-respect du nombre de mots imposé pour la rédaction entraîne l'attribution d'une pénalité fixée dans le tableau ci-dessous :
+Le non-respect du nombre de mots imposé pour la rédaction entraîne l'attribution d'une pénalité fixée dans le tableau ci-dessous :
 
 NOMBRE DE MOTS ÉCRITS PAR LE CANDIDAT
 
@@ -76,7 +78,175 @@ Attribution de la note zéro
 
 |
 
-b) Cas concret professionnel :
+b) Mathématiques :
+
+Cette épreuve vise à déterminer l'aptitude du candidat à faire preuve de capacités d'argumentation, de rédaction d'une démonstration et de logique. Elle permet de démontrer que le candidat a la capacité de :
+
+- mettre en œuvre une recherche de façon autonome ;
+
+- mener des raisonnements ;
+
+- avoir une attitude critique vis-à-vis des résultats obtenus.
+
+Elle consiste à rédiger, sans l'aide d'une documentation, un devoir portant sur des questions de cours et/ou des problèmes figurant au programme ci-après :
+
+i) Analyse.
+
+Suites :
+
+- raisonnement par récurrence ;
+
+- limite finie ou infinie d'une suite ;
+
+- limites et comparaison ;
+
+- opérations sur les limites ;
+
+- comportement à l'infini de la suite (qn), q étant un nombre réel ;
+
+- suite majorée, minorée, bornée.
+
+Limites de fonctions :
+
+- limite finie ou infinie d'une fonction à l'infini ;
+
+- limite infinie d'une fonction en un point ;
+
+- limite d'une somme, d'un produit, d'un quotient ou d'une composée de deux fonctions ;
+
+- limites et comparaison ;
+
+- asymptote parallèle à l'un des axes de coordonnées.
+
+Continuité sur un intervalle, théorème des valeurs intermédiaires.
+
+Calculs de dérivées.
+
+Fonctions sinus et cosinus.
+
+Fonction exponentielle :
+
+- fonction x exp(x) ;
+
+- relation fonctionnelle, notation ex.
+
+Fonction logarithme népérien :
+
+- fonction x ln x ;
+
+- relation fonctionnelle, dérivée.
+
+Intégration :
+
+- définition de l'intégrale d'une fonction continue et positive sur [a,b] comme aire sous la courbe ;
+
+Vous pouvez consulter l'image dans le fac-similé du JO nº 0161 du 12/07/2016, texte nº 1 à l'adresse suivante : https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000032879186
+
+- primitive d'une fonction continue sur un intervalle ;
+
+- théorème : toute fonction continue sur un intervalle admet des primitives ;
+
+- intégrale d'une fonction continue de signe quelconque ;
+
+- linéarité, positivité, relation de Chasles ;
+
+- valeur moyenne.
+
+ii) Géométrie.
+
+1. Nombres complexes :
+
+- forme algébrique, conjugué ;
+
+- somme, produit, quotient ;
+
+- équation du second degré à coefficients réels ;
+
+- représentation géométrique ;
+
+- affixe d'un point, d'un vecteur ;
+
+- forme trigonométrique :
+
+- module et argument, interprétation géométrique dans un repère orthonormé direct ;
+
+- notation exponentielle.
+
+2. Géométrie dans l'espace.
+
+- droites et plans :
+
+- positions relatives de droites et de plans : intersection et parallélisme ;
+
+- orthogonalité :
+
+- de deux droites ;
+
+- d'une droite et d'un plan ;
+
+- géométrie vectorielle :
+
+- caractérisation d'un plan par un point et deux vecteurs non colinéaires ;
+
+- vecteurs coplanaires ;
+
+- décomposition d'un vecteur en fonction de trois vecteurs non coplanaires ;
+
+- repérage ;
+
+- représentation paramétrique d'une droite ;
+
+- produit scalaire :
+
+- produit scalaire de deux vecteurs dans l'espace : définition, propriétés ;
+
+- vecteur normal à un plan ;
+
+- équation cartésienne d'un plan.
+
+3. Probabilités et statistiques :
+
+- conditionnement, indépendance :
+
+- conditionnement par un événement de probabilité non nulle ;
+
+- notation PA (B) ;
+
+- indépendance de deux événements ;
+
+- notion de loi à densité à partir d'exemples :
+
+- loi à densité sur un intervalle ;
+
+- loi uniforme sur [a,b] ;
+
+- espérance d'une variable aléatoire suivant une loi uniforme ;
+
+- lois exponentielles ;
+
+- espérance d'une variable aléatoire suivant une loi exponentielle ;
+
+- loi normale centrée réduite N (0,1) ;
+
+- théorème de Moivre Laplace (admis) ;
+
+- loi normale N (μ, σ2) d'espérance μ et d'écart type σ ;
+
+- intervalle de fluctuation ;
+
+- estimation :
+
+- intervalle de confiance :
+
+- Un intervalle de fluctuation asymptotique de la variable aléatoire Fn au seuil 1 - α est un intervalle déterminé à partir de p et de n et qui contient Fn avec une probabilité d'autant plus proche de 1 - α que n est grand.
+
+Un intervalle de confiance pour une proportion p à un niveau de confiance 1 - α est la réalisation, à partir d'un échantillon, d'un intervalle aléatoire contenant la proportion p avec une probabilité supérieure ou égale à 1 - α, intervalle aléatoire déterminé à partir de la variable aléatoire fréquence Fn qui, à tout échantillon de taille n, associe la fréquence.
+
+Les intervalles de confiance considérés ici sont centrés en la fréquence observée f ;
+
+- niveau de confiance.
+
+c) Cas concret professionnel :
 
 Cette épreuve vise à déterminer l'aptitude des candidats à faire face à une situation susceptible d'être rencontrée dans l'exercice de responsabilités au sein d'un dispositif ou d'une formation relevant d'une des deux subdivisions de l'arme ainsi qu'à démontrer leur capacité à faire appel à des connaissances relatives à la tactique, à l'emploi des moyens de la gendarmerie nationale, à la réglementation, à la législation, à la gestion des ressources humaines et à la mise en œuvre des matériels en service.
 
@@ -176,7 +346,7 @@ Le candidat a le choix de la langue : anglaise, allemande, espagnole ou italienn
 
 L'usage du dictionnaire monolingue ou bilingue est interdit. Après tirage au sort du texte support de l'interrogation, le candidat dispose d'un temps de préparation de 20 minutes.
 
-Cette épreuve débute par une version. Le candidat traduit tout ou partie d'un texte rédigé en langue étrangère dans la langue française puis commente ce texte issu de la presse portant sur un sujet d'actualité ou de société. L'épreuve se poursuit par un entretien d'ordre général avec l'examinateur. Le commentaire et l'entretien s'effectuent dans la langue étrangère choisie.
+Cette épreuve débute par une version. Le candidat traduit tout ou partie d'un texte rédigé en langue étrangère dans la langue française puis commente ce texte issu de la presse portant sur un sujet d'actualité ou de société. L'épreuve se poursuit par un entretien d'ordre général avec le ou les examinateurs. Le commentaire et l'entretien s'effectuent dans la langue étrangère choisie.
 
 4° Des épreuves sportives (la moyenne des notes est affectée du coefficient 10).
 

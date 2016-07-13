@@ -20,7 +20,7 @@ La note de synthèse est construite selon un plan classique : introduction, dév
 
 Le candidat doit rédiger en 600 mots (+ ou - 10 %) une note de synthèse claire, précise et concise.
 
-Le candidat doit indiquer, sur sa copie, le nombre de mots qu'il a écrits. Le non-respect du nombre de mots imposé pour la rédaction entraîne l'attribution d'une pénalité fixée dans le tableau ci-dessous :
+Le non-respect du nombre de mots imposé pour la rédaction entraîne l'attribution d'une pénalité fixée dans le tableau ci-dessous :
 
 NOMBRE DE MOTS ÉCRITS PAR LE CANDIDAT
 
@@ -92,7 +92,7 @@ Le candidat a le choix de la langue : anglaise, allemande, espagnole ou italienn
 
 L'usage du dictionnaire monolingue ou bilingue est interdit. Après tirage au sort du texte support de l'interrogation, le candidat dispose d'un temps de préparation de 20 minutes.
 
-Cette épreuve débute par une version. Le candidat traduit tout ou partie d'un texte rédigé en langue étrangère dans la langue française puis commente ce texte issu de la presse portant sur un sujet d'actualité ou de société. L'épreuve se poursuit par un entretien d'ordre général avec l'examinateur. Le commentaire et l'entretien s'effectuent dans la langue étrangère choisie.
+Cette épreuve débute par une version. Le candidat traduit tout ou partie d'un texte rédigé en langue étrangère dans la langue française puis commente ce texte issu de la presse portant sur un sujet d'actualité ou de société. L'épreuve se poursuit par un entretien d'ordre général avec le ou les examinateurs. Le commentaire et l'entretien s'effectuent dans la langue étrangère choisie.
 
 3° Epreuves sportives (la moyenne des trois notes est affectée du coefficient 3) :
 

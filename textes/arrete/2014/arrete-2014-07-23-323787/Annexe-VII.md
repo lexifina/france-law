@@ -2,13 +2,15 @@
 
 Epreuves sportives des concours prévus aux 2° et 3° de l'article 6 et au 2° de l'article 8 du décret susvisé.
 
-Les candidats effectuent les trois épreuves sportives obligatoirement dans l'ordre suivant :
+Les candidats effectuent les épreuves sportives suivantes :
 
 1° Epreuve de natation ;
 
 2° Epreuve de course de demi-fond ;
 
 3° Epreuve d'abdominaux et de tractions ou d'appuis faciaux.
+
+Pour un même concours, les épreuves sportives doivent être effectuées dans le même ordre de passage.
 
 I. - Epreuve de natation
 

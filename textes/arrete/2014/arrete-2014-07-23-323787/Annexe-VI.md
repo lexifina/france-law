@@ -6,7 +6,7 @@ Les candidats ayant effectué les épreuves définies ci-après au cours de l'an
 
 Au cours d'une même année et à leur demande, les candidats à plusieurs des concours de recrutement d'officiers de la gendarmerie nationale, prévus aux 1° et 4° de l'article 6 du décret susvisé et aux 1° et 3° de l'article 5 du décret n° 2012-1456 du 24 décembre 2012 portant statut particulier des officiers du corps technique et administratif de la gendarmerie nationale, peuvent effectuer une seule fois les épreuves sportives. Les performances ainsi obtenues sont prises en compte pour les concours précités. La note de sport en résultant dépend du coefficient et de la note éliminatoire fixés pour chaque concours.
 
-Les candidats effectuent les quatre épreuves sportives obligatoirement dans l'ordre suivant :
+Les candidats effectuent les épreuves sportives suivantes :
 
 1° Epreuve de natation ;
 
@@ -15,6 +15,8 @@ Les candidats effectuent les quatre épreuves sportives obligatoirement dans l'o
 3° Epreuve de course de demi-fond ;
 
 4° Epreuve de tractions et d'abdominaux.
+
+Pour un même concours, les épreuves sportives doivent être effectuées dans le même ordre de passage.
 
 I. - Epreuve de natation
 
