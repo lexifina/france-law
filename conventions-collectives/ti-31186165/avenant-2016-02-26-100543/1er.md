@@ -1,0 +1,45 @@
+# Article 1er
+
+L'annexe à l'accord collectif national du 18 novembre 2014 relatif à la mise en place de garanties complémentaires de frais de santé dans la coopération agricole et dans des branches des industries agroalimentaires est supprimée pour être remplacée par l'annexe suivante :
+
+« Annexe Champ d'application professionnel
+
+Au titre des industries alimentaires :
+
+CCN 3060. – Meunerie (idcc 1930) ;
+
+CCN 3111. – Industries de la transformation des volailles (idcc 1938) ;
+
+CCN 3124. – Industries laitières (idcc 112) ;
+
+CCN 3125. – Industries charcutières (idcc 1586) ;
+
+CCN 3127. – Industries de produits alimentaires élaborés (idcc 1396) ;
+
+CCN 3184. – Centres immatriculés de conditionnement, de commercialisation et de transformation des œufs et des industries en produits d'œufs (idcc 2075) ;
+
+CCN 3247. – Activités de production des eaux embouteillées, boissons rafraîchissantes sans alcool et de bières (idcc 1513) ;
+
+CCN 3294. – Pâtes alimentaires sèches et du couscous non préparé (idcc 1987) ;
+
+CCN 3384. – 5 branches des industries alimentaires diverses (idcc 3109).
+
+Au titre de la coopération agricole :
+
+CCN 3616. – Coopératives agricoles de céréales, de meunerie, d'approvisionnement, d'alimentation du bétail et d'oléagineux (idcc 7002) ;
+
+CCN 3607. – Conserveries coopératives et SICA (idcc 7003) ;
+
+CCN 3608. – Coopératives agricoles laitières (idcc 7004) ;
+
+CCN 3614. – Fleurs, fruits et légumes, pommes de terre : coopératives agricoles, unions de coopératives agricoles et SICA de fleurs, de fruits et légumes et de pommes de terre (idcc 7006) ;
+
+CCN 3264. – Lin : teillage du lin, coopératives agricoles et SICA (idcc 7007) ;
+
+CCN. – Sélection et reproduction animale (idcc 7021) ;
+
+CCN. – Entreprises agricoles de déshydratation de la région Champagne-Ardenne (idcc 8215) ;
+
+CCN. – Coopératives fruitières fromagères des départements de l'Ain, du Doubs et du Jura (idcc 8435) ;
+
+CCN. – Distilleries viticoles (coopératives et unions) et distillation (SICA) (idcc 7503).
