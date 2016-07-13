@@ -79,3 +79,17 @@ Paris-Samana (République dominicaine).
 Jusqu'au 31 mai 2021 :
 
 Paris-Los Angeles (Etats-Unis).
+
+Jusqu'au 30 juin 2021 :
+
+Dans la limite de cinq fréquences hebdomadaires au total sur les liaisons suivantes :
+
+Bordeaux-Dakar (Sénégal) ;
+
+Lyon-Dakar (Sénégal) ;
+
+Marseille-Dakar (Sénégal) ;
+
+Nantes-Dakar (Sénégal) ;
+
+Toulouse-Dakar (Sénégal).
