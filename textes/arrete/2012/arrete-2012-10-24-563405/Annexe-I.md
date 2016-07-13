@@ -58,6 +58,8 @@ Marseille-Alger ;
 
 Paris-Alger ;
 
+Paris-Oran ;
+
 Angola :
 
 Paris-Luanda ;
