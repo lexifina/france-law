@@ -1,0 +1,53 @@
+# Aménagement du territoire : adaptation des territoires littoraux au changement climatique
+
+- Procédure : Proposition de loi ordinaire
+- Législature : 14
+- Identifiant : DLR5L14N35078
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/adaptation_territoires_littoraux_changement_climatique
+- Sénat : http://www.senat.fr/dossier-legislatif/ppl16-176.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2016-07-13 : 1er dépôt d'une initiative. (PIONANR5L14B3959)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2016-07-13 : Renvoi en commission au fond
+      - 2016-11-09 : Nomination de rapporteur
+      - 2016-11-22 : Réunion de commission
+      - 2016-12-01 : Réunion de commission
+      - 2016-11-23 : Dépôt de rapport (RAPPANR5L14B4241, PIONANR5L14BTC4241)
+  - Discussion en séance publique
+    - 2016-12-01 : Discussion en séance publique
+    - 2016-12-01 : Discussion en séance publique
+    - 2016-12-01 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2016-12-02 : Dépôt d'une initiative en navette (PIONSNR5S279B0176)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2016-12-02 : Renvoi en commission au fond
+      - 2016-12-01 : Nomination de rapporteur
+      - 2016-12-21 : Dépôt de rapport (RAPPSNR5S279B0266)
+    - Travaux d'une commission saisie pour avis
+      - 2016-12-07 : Saisine pour avis d'une commission
+      - 2016-12-07 : Nomination de rapporteur
+      - 2016-12-20 : Dépôt de rapport (AVISSNR5S279B0246)
+  - Discussion en séance publique
+    - 2017-01-11 : Discussion en séance publique
+    - 2017-01-11 : Décision
+- deuxième lecture
+  - 2017-01-12 : Dépôt d'une initiative en navette (PIONANR5L14B4377)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2017-01-12 : Renvoi en commission au fond
+      - 2017-01-25 : Réunion de commission
+      - 2017-01-31 : Réunion de commission
+      - 2017-01-25 : Dépôt de rapport (RAPPANR5L14B4402, PIONANR5L14BTC4402)
+  - Discussion en séance publique
+    - 2017-01-31 : Discussion en séance publique
+    - 2017-01-31 : Décision
+- deuxième lecture
+  - 2017-02-01 : Dépôt d'une initiative en navette (PIONSNR5S279B0346)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2017-02-01 : Renvoi en commission au fond
