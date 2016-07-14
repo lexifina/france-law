@@ -312,6 +312,30 @@ a) 2 enseignements au plus parmi :
 
 |
 
+"informatique et création numérique"
+
+|
+
+2 h
+
+|
+
+"informatique et création numérique"
+
+|
+
+2 h
+
+|
+
+"informatique et création numérique" (i)
+
+|
+
+2 h
+
+|
+
 LV3 (a) (b)
 
 |
@@ -503,6 +527,8 @@ b) atelier artistique
 (g) Un même enseignement de langue et cultures de l'Antiquité (LCA) ou de LV3 ne peut être choisi au titre de l'enseignement obligatoire au choix et au titre de l'option facultative.
 
 (h) Enseignements assurés uniquement dans les lycées d'enseignement général et technologique agricole.
+
+(i) Enseignement assuré uniquement dans les lycées d'enseignement général et technologique relevant du ministère en charge de l'éducation nationale.
 
 |
 
@@ -849,6 +875,30 @@ a) 2 enseignements au plus parmi :
 a) 2 enseignements au plus parmi :
 
 |
+
+|
+
+"informatique et création numérique"
+
+|
+
+2 h
+
+|
+
+"informatique et création numérique"
+
+|
+
+2 h
+
+|
+
+-
+
+|
+
+-
 
 |
 
