@@ -50,13 +50,11 @@ DI Nord-Pas-de-Calais-Picardie
 
 Aisne, Alpes-de-Haute-Provence, Hautes-Alpes, Alpes-Maritimes, Ardennes, Aube, Bouches-du-Rhône, Charente, Charente-Maritime, Corrèze, Corse-du-Sud, Haute-Corse, Côtes-d'Armor, Creuse, Finistère, Ille-et-Vilaine, Isère (1), Loire-Atlantique, Maine-et-Loire, Marne, Haute-Marne, Mayenne, Meurthe-et-Moselle, Meuse, Morbihan, Moselle, Nord, Oise, Pas-de-Calais, Bas-Rhin, Haut-Rhin, Rhône (1), Sarthe, Paris (1), Seine-et-Marne (1), Deux-Sèvres, Somme, Var, Vaucluse, Vendée, Vienne, Haute-Vienne, Vosges, Essonne (1), Val-de-Marne (1), Guadeloupe, Guyane, Martinique, La Réunion
 
+(1) pour les DEB et les DES uniquement
+
 |
 
 Collecte, traitement et enregistrement des documents administratifs uniques (DAU), des déclarations d'échange de biens (DEB) et des déclarations d'échange de services (DES)
-
-|
-
-(1) pour les DEB et les DES uniquement
 
 |
 
@@ -98,19 +96,15 @@ DI Ile-de-France
 
 Ain, Allier, Ardèche, Ariège, Aude, Aveyron, Calvados, Cantal, Cher, Côte-d'Or, Dordogne, Doubs, Drôme, Eure, Eure-et-Loir, Gard, Haute-Garonne, Gers, Gironde, Hérault, Indre, Indre-et-Loire, Isère (1), Jura, Landes, Loir-et-Cher, Loire, Haute-Loire, Loiret, Lot, Lot-et-Garonne, Lozère, Manche, Nièvre, Orne, Puy-de-Dôme, Pyrénées-Atlantiques, Hautes-Pyrénées, Pyrénées-Orientales, Rhône (1), Haute-Saône, Saône-et-Loire, Savoie, Haute-Savoie, Paris (1), Seine-Maritime, Seine-et-Marne (1), Yvelines, Tarn, Tarn-et-Garonne, Yonne, Territoire de Belfort, Essonne (1), Hauts-de-Seine, Seine-Saint-Denis, Val-de-Marne (1), Val-d'Oise et Mayotte
 
+(1) pour les DAU uniquement
+
 |
 
 Collecte, traitement et enregistrement des documents administratifs uniques (DAU), des déclarations d'échange de biens (DEB) et des déclarations d'échange de services (DES)
 
 |
 
-(1) pour les DAU uniquement
-
-|
-
 Centre de services partagés (CSP) CHORUS de Paris
-
-|
 
 |
 
@@ -119,5 +113,35 @@ Essonne, Hauts-de-Seine, Paris, Seine-Saint-Denis, Seine-et-Marne, Val-d'Oise, V
 |
 
 Traitement dans l'outil comptable CHORUS des actes de dépense
+
+|
+
+Service national douanier de la fiscalité routière (SNDFR)
+
+|
+
+DI Alsace-Champagne-Ardenne-Lorraine
+
+|
+
+Bourgogne-Franche-Comté
+
+Centre-Val de Loire
+
+Nord-Pas-de-Calais-Picardie
+
+Normandie
+
+Provence-Alpes-Côte d'Azur
+
+Corse
+
+Alsace-Champagne-Ardenne-Lorraine
+
+Gard, Hérault, Lozère, Aude, Pyrénées-Orientales
+
+|
+
+Gestion de la taxe spéciale sur certains véhicules routiers (art. 284 bis à 284 sexies du code des douanes) et du remboursement partiel de la taxe intérieure de consommation sur les produits énergétiques en faveur des transporteurs de marchandises et de voyageurs (art. 265 septies et 265 octies du même code)
 
 |
