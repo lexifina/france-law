@@ -1,0 +1,10 @@
+# Aix-en-Provence : délibération — MARCHE DE PRESTATIONS DE SERVICES DE TÉLÉCOMMUNICATION - LOT 3 : ACCÈS INTERNET - MARCHE A15.034 - AUTORISATION DE SIGNATURE DU PROJET D'AVENANT N°1 PORTANT MODIFICATION DU BORDEREAU DE PRIX UNITAIRES PAR AJOUTS DE PRIX NOUVEAUX.
+
+- Collectivité : Aix-en-Provence
+- SIREN : 211300017
+- Code INSEE : 13001
+- Date : 2016-07-18
+- Séance : Conseil Municipal 1CA
+- Objet : MARCHE DE PRESTATIONS DE SERVICES DE TÉLÉCOMMUNICATION - LOT 3 : ACCÈS INTERNET - MARCHE A15.034 - AUTORISATION DE SIGNATURE DU PROJET D'AVENANT N°1 PORTANT MODIFICATION DU BORDEREAU DE PRIX UNITAIRES PAR AJOUTS DE PRIX NOUVEAUX.
+- Acte publié : http://eadm.mairie-aixenprovence.fr/delibinternet/delib-7945-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/liste-des-deliberations-aix-en-provence@aix-en-provence
