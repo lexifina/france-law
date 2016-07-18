@@ -1,14 +1,16 @@
 # Article Annexe IV
 
-ÉPREUVES SPORTIVES DES CONCOURS PRÉVUS AUX 2O ET 4O DE L'ARTICLE 5 DU DÉCRET SUSVISÉ
+ÉPREUVES SPORTIVES DES CONCOURS PRÉVUS AUX 2° ET 4° DE L'ARTICLE 5 DU DÉCRET SUSVISÉ
 
-Les candidats effectuent les trois épreuves sportives obligatoirement dans l'ordre suivant :
+Les candidats effectuent les épreuves sportives suivantes :
 
 1° Epreuve de natation ;
 
 2° Epreuve de course de demi-fond ;
 
 3° Epreuve d'abdominaux et de tractions ou d'appuis faciaux.
+
+Pour un même concours, les épreuves sportives doivent être effectuées dans le même ordre de passage.
 
 I. - Epreuve de natation
 

@@ -1,12 +1,12 @@
 # Article Annexe III
 
-ÉPREUVES SPORTIVES DES CONCOURS PRÉVUS AUX 1O ET 3O DE L'ARTICLE 5 DU DÉCRET SUSVISÉ
+ÉPREUVES SPORTIVES DES CONCOURS PRÉVUS AUX 1° ET 3° DE L'ARTICLE 5 DU DÉCRET SUSVISÉ
 
 Les candidats ayant effectué les épreuves définies ci-après au cours de l'année civile, dans le cadre de l'un des concours d'entrée aux grandes écoles militaires de recrutement d'officiers, peuvent faire valoir un relevé de performances. Ce relevé est à produire avant le début des épreuves sportives du concours considéré.
 
 Au cours d'une même année et à leur demande, les candidats à plusieurs des concours de recrutement d'officiers de la gendarmerie nationale, prévus aux 1° et 3° de l'article 5 du décret susvisé et aux 1° et 4° de l'article 6 du décret n° 2008-946 du 12 septembre 2008 portant statut particulier du corps des officiers de gendarmerie, peuvent effectuer une seule fois les épreuves sportives. Les performances ainsi obtenues sont prises en compte pour les concours précités. La note de sport en résultant dépend du coefficient et de la note éliminatoire fixés pour chaque concours.
 
-Les candidats effectuent les quatre épreuves sportives obligatoirement dans l'ordre suivant :
+Les candidats effectuent les épreuves sportives suivantes :
 
 1° Epreuve de natation ;
 
@@ -15,6 +15,8 @@ Les candidats effectuent les quatre épreuves sportives obligatoirement dans l'o
 3° Epreuve de course de demi-fond ;
 
 4° Epreuve de tractions et d'abdominaux.
+
+Pour un même concours, les épreuves sportives doivent être effectuées dans le même ordre de passage.
 
 I.-Epreuve de natation
 

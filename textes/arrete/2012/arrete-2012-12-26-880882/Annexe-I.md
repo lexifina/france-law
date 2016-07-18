@@ -24,11 +24,15 @@ La note de synthèse est construite selon un plan classique : introduction, dév
 
 Le candidat doit rédiger en 600 mots (+ ou-10 %) une note de synthèse claire, précise et concise.
 
-Le candidat doit indiquer, sur sa copie, le nombre de mots qu'il a écrits. Le non-respect du nombre de mots imposé pour la rédaction entraîne l'attribution d'une pénalité fixée dans le tableau ci-dessous :
+Le non-respect du nombre de mots imposé pour la rédaction entraîne l'attribution d'une pénalité fixée dans le tableau ci-dessous :
 
-NOMBRE DE MOTS ÉCRITS PAR LE CANDIDAT |
+NOMBRE DE MOTS ÉCRITS PAR LE CANDIDAT
 
-PÉNALITÉ CORRESPONDANTE |
+|
+
+PÉNALITÉ CORRESPONDANTE
+
+|
 
 Rédaction de 530 à 539 mots ou de 661 à 670 mots
 
