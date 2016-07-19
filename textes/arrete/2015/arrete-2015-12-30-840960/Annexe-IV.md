@@ -1,4 +1,4 @@
-# Article Annexe 4
+# Article Annexe IV
 
 PRESCRIPTIONS POUR LA DÉTERMINATION DES EXIGENCES DE RADIOPROTECTION
 
@@ -12,4 +12,4 @@ La conception de tout équipement devant être soumis en exploitation à des ph�
 
 3. Moyen d'inspection et de maintenance
 
-Les équipements sont conçus de telle sorte que toutes les opérations prévues en application du titre III du présent arrêté puissent être effectuées de manière à assurer, dans le respect des principes et des règles définis par le code de la santé publique et le code du travail, la radioprotection des personnes mettant en oeuvre ou surveillant ces opérations.
+Les équipements sont conçus de telle sorte que toutes les opérations prévues en application des articles L. 557-28 et L. 557-29 du code de l'environnement puissent être effectuées de manière à assurer, dans le respect des principes et des règles définis par le code de la santé publique et le code du travail, la radioprotection des personnes mettant en œuvre ou surveillant ces opérations.

@@ -2,9 +2,9 @@
 
 CONTRÔLES DES ÉQUIPEMENTS SOUS PRESSION NUCLÉAIRES EN SERVICE
 
-Les dispositions de la présente annexe ne sont pas applicables aux équipements sous pression nucléaires de niveau N2 ou N3 prévus pour des liquides dont la pression de vapeur, à la température maximale admissible, est inférieure ou égale à 0,5 bar au-dessus de la pression atmosphérique normale (1 013 mbar).
+Les dispositions de la présente annexe ne sont pas applicables aux équipements sous pression nucléaires de niveffau N2 ou N3 prévus pour des liquides dont la pression de vapeur, à la température maximale admissible, est inférieure ou égale à 0,5 bar au-dessus de la pression atmosphérique normale (1 013 mbar).
 
-Les équipements sous pression nucléaires auxquels les dispositions de la présente annexe s'appliquent sont mentionnés aux 1.1 et 2.1 ci-après. Les opérations de contrôle qui suivent sont réalisées, conformément à l'article 18 du décret du 13 décembre 1999 susvisé, par un organisme indépendant habilité accepté selon la procédure de l'article 15 du présent arrêté, sauf si leur réalisation a été autorisée sous la direction d'un service d'inspection reconnu conformément à l'article 19 du décret du 13 décembre 1999 susvisé et autorisé par l'Autorité de sûreté nucléaire.
+Les équipements sous pression nucléaires auxquels les dispositions de la présente annexe s'appliquent sont mentionnés aux 1.1 et 2.1 ci-après. Les opérations de contrôle qui suivent sont réalisées, conformément à l'article 18 du décret du 13 décembre 1999 susvisé, par un organisme mentionné au a du 11° de l'article R557-4-2 habilité pour le suivi en service des équipements sous pression nucléaires, sauf si leur réalisation a été autorisée sous la direction d'un service d'inspection reconnu conformément à l'article 19 du décret du 13 décembre 1999 susvisé et autorisé par l'Autorité de sûreté nucléaire.
 
 1. Contrôle de mise en service des équipements
 
@@ -26,7 +26,7 @@ sous pression nucléaires
 
 -la vérification que cette mise en oeuvre respecte les principes et les règles de radioprotection définis par le code de la santé publique et par le code du travail.
 
-L'organisme indépendant habilité et accepté ou le service d'inspection reconnu et autorisé par l'Autorité de sûreté nucléaire remet à l'exploitant une attestation de contrôle de mise en service. L'exploitant adresse une copie de cette attestation à l'Autorité de sûreté nucléaire.
+L'organisme habilité par l'Autorité de sûreté nucléaire ou le service d'inspection reconnu et autorisé par l'Autorité de sûreté nucléaire remet à l'exploitant une attestation de contrôle de mise en service. L'exploitant adresse une copie de cette attestation à l'Autorité de sûreté nucléaire.
 
 Lorsqu'un équipement fixe fait l'objet d'une nouvelle installation, le contrôle de mise en service doit être renouvelé et complété par une inspection réalisée selon les modalités de l'inspection de requalification périodique prévue au 2.4 de la présente annexe.
 
