@@ -978,11 +978,7 @@ Diamètre du lacet : 2,3 mm.
 
 |
 
-776 sur la plaquette
-
-fixée sur le côté
-
-de l'émerillon.
+776 sur la plaquette fixée sur le côté de l'émerillon.
 
 |
 
@@ -1784,9 +1780,7 @@ a) patte anti-retour b), c) et d) bagues métalliques serties.
 
 |
 
-Entreprise Jean-Nicolas Ducatillon (59)
-
-|
+Entreprise Jean-Nicolas Ducatillon (59) |
 
 DUCATILLON
 
@@ -2604,9 +2598,7 @@ Dimensions piège fermé : 17 cm × 38 cm
 
 |
 
-826 sur le corps du
-
-piège.
+826 sur le corps du piège.
 
 |
 
@@ -2644,7 +2636,9 @@ Piège rond à déclenchement par une palette.
 
 |
 
-18 |
+18
+
+|
 
 Piège à lacet de cou
 
@@ -2676,13 +2670,17 @@ Ce piège est formé de trois parties : un dispositif métallique armé d'un bra
 
 |
 
-19 |
+19
+
+|
 
 Piège à lacet de patte
 
 |
 
-Claude Roques, 27, Les Martels, 81240 Saint-Amans-Soult |
+Claude Roques, 27, Les Martels, 81240 Saint-Amans-Soult
+
+|
 
 Piège "Maroq"
 
@@ -2694,7 +2692,9 @@ Diamètre de la palette : 5 cm
 
 |
 
-828 |
+828
+
+|
 
 Piège à déclenchement par une palette projetant le lacet par un bras
 
@@ -2702,7 +2702,9 @@ Piège à déclenchement par une palette projetant le lacet par un bras
 
 |
 
-20 |
+20
+
+|
 
 Piège à lacet de patte
 
@@ -2712,7 +2714,9 @@ André Maruejouls, La Grange Réauté, 35235 Thorigné-Fouillard
 
 |
 
-Piège "Maruejouls" |
+Piège "Maruejouls"
+
+|
 
 Dimension du piège tendu : 27 × 8,5 cm
 
@@ -2720,7 +2724,9 @@ Dimension de la palette : rectangle de 6,5 × 7 cm ou disque de 5 cm de diamètr
 
 |
 
-829 |
+829
+
+|
 
 Piège rectangulaire à déclenchement par une palette projetant le lacet par un bras-ressort
 
@@ -2728,13 +2734,21 @@ Piège rectangulaire à déclenchement par une palette projetant le lacet par un
 
 |
 
-21 |
+21
 
-Piège à lacet de patte |
+|
 
-Jean-Yves Viol, 23, avenue de l'Odet, 29950 Bénodet |
+Piège à lacet de patte
 
-HINGIOL |
+|
+
+Jean-Yves Viol, 23, avenue de l'Odet, 29950 Bénodet
+
+|
+
+HINGIOL
+
+|
 
 Dimension du piège tendu : 22 cm x 23 cm
 
@@ -2744,9 +2758,45 @@ Dimension de la palette :
 
 |
 
-830 |
+830
 
-Piège métallique à déclenchement par une palette |
+|
+
+Piège métallique à déclenchement par une palette
+
+|
+
+|
+
+20
+
+|
+
+Piège à lacet de patte
+
+|
+
+André Maruejouls, La Grange Réauté, 35235 Thorigné-Fouillard
+
+|
+
+Piège "Maruejouls"
+
+|
+
+Dimension du piège tendu : 28 x 13 cm
+
+Dimension de la palette : 5 cm de diamètre
+
+|
+
+831
+
+|
+
+Piège rectangulaire à déclenchement par une palette projetant le lacet par un bras-ressort
+
+|
 
 6
 
