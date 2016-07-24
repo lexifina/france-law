@@ -1,6 +1,6 @@
 # Article Annexe II
 
-Les tracteurs agricoles ou forestiers, les entités techniques, les systèmes ou les composants doivent répondre aux règles techniques ci-après :
+Les tracteurs agricoles ou forestiers, doivent répondre aux exigences ci-après :
 
 I. - Protection en cas de renversement :
 
