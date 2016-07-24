@@ -2,11 +2,11 @@
 
 CONGÉS DE DISPONIBILITÉ VISÉS À L'ARTICLE 10 DU PRÉSENT DÉCRET
 
-Congé prévu à l'article 5 du chapitre 1er du statut des relations collectives entre la SNCF et son personnel :
+Congé prévu à l'article 5 du chapitre 1er du statut des relations collectives entre SNCF, SNCF Réseau et SNCF Mobilités constituant le groupe public ferroviaire et leurs personnels :
 
 - congé de disponibilité pour exercice de fonctions syndicales dans les organisations syndicales composées de travailleurs des chemins de fer reconnues comme les plus représentatives.
 
-Congés prévus à l'article 12 du chapitre 10 du statut des relations collectives entre la SNCF et son personnel :
+Congés prévus à l'article 12 du chapitre 10 du statut des relations collectives entre SNCF, SNCF Réseau et SNCF Mobilités constituant le groupe public ferroviaire et leurs personnels :
 
 - congé de disponibilité pour exercice d'un mandat électif ;
 
