@@ -310,7 +310,7 @@ Le chancelier rend compte à la commission administrative centrale des délibér
 
 TITRE VII
 
-LE DIRECTEUR DES SERVICES ADMINISTRATIFS
+LES PERSONNELS DE L'INSTITUT DE FRANCE ET DES ACADEMIES
 
 Article 39
 
@@ -349,3 +349,7 @@ Dans ce cadre, le directeur des services administratifs est notamment chargé de
 8. S'assurer de l'exécution des charges des fondations de l'Institut.
 
 9. Assurer la gestion administrative du patrimoine immobilier locatif de l'Institut.
+
+Article 42
+
+Les personnels affectés à l'Institut de France et aux académies, par le ministère chargé de l'enseignement supérieur ou par toute institution publique, sont nommés après avis conforme du chancelier pour l'Institut, et du secrétaire perpétuel de chacune des académies pour ce qui la concerne.
