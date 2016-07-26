@@ -1,0 +1,9 @@
+# Réponse à la question n° 91656
+
+- Question : [91656](91656.md) — Question n° 91656 — pension alimentaire; redéfinition
+
+## Réponse
+
+*JO du 2016-07-26*
+
+La loi impose à chaque parent de contribuer à l'entretien et l'éducation de son enfant. En cas de séparation des parents (divorce, dissolution de pacte civil de solidarité, fin de concubinage), l'article 373-2-2 du code civil prévoit que cette contribution prend la forme d'une pension alimentaire, versée au parent chez lequel résident les enfants. Selon cette même disposition, elle peut également prendre la forme en tout ou partie d'une prise en charge directe de frais exposés au profit de l'enfant, tel le paiement des frais de scolarité par le débiteur de la pension directement à l'établissement scolaire ou être servie sous forme d'un droit d'usage et d'habitation. L'expression « pension alimentaire » utilisée par la loi est un dérivé du terme « aliments » défini juridiquement comme les sommes versées par une personne pour lui permettre d'assurer les besoins nécessaires à sa vie quotidienne. Lorsqu'il s'agit d'un enfant, les aliments comprennent les frais nécessaires à son éducation. Lorsque le juge aux affaires familiales est saisi d'une demande de fixation d'une pension alimentaire due pour l'entretien et l'éducation d'un enfant, celui-ci statue en fonction des ressources de chacun des parents et des besoins de l'enfant. Sous réserve de son appréciation souveraine, le juge prend en considération les dépenses de cantine, de scolarité, d'activités extrascolaires, les frais de santé, d'habillement et toutes autres dépenses engagées pour l'enfant. Ainsi, dans la loi comme dans son application par les juridictions, il n'y a aucune confusion sur le contenu de la notion de « pension alimentaire ». Il n'est donc pas envisagé de modifier l'utilisation de ces termes dans les textes actuels.
