@@ -1,0 +1,9 @@
+# Réponse à la question n° 24327
+
+- Question : [24327](24327.md) — Question n° 24327 — armes; contrôle
+
+## Réponse
+
+*JO du 2016-07-26*
+
+La France a toujours été pleinement engagée en faveur d'un contrôle rigoureux des exportations d'armement sur le plan international. A cet égard, elle a joué un rôle moteur tout au long du processus de négociation et de rédaction du traité sur le commerce des armes (TCA). L'adoption de ce traité à une très large majorité par l'Assemblée générale des Nations-unies, le 2 avril 2013, constitue un progrès majeur pour la communauté internationale. Premier instrument universel juridiquement contraignant destiné à réglementer le commerce des armes classiques et à lutter contre les trafics illicites d'armements, ce texte fédérateur répond à l'urgence de préserver efficacement les populations civiles des conséquences dramatiques de l'absence de régulation du commerce des armes. La France attache la plus grande importance au TCA dont la ratification a été autorisée par la loi no 2013-1202 du 23 décembre 2013. Le TCA est entré en vigueur le 24 décembre 2014, conformément à son article 22. L'implication des principaux acteurs du marché de l'armement dans la mise en œuvre de ce traité permet à un grand nombre d'États d'adopter, à leur tour, un dispositif national fiable de contrôle du commerce des armes. A ce jour, les dispositifs de contrôle des armes adoptés par la France et nos partenaires européens comptent parmi les plus aboutis. Ils intègrent, notamment, les huit critères européens fixés par la position commune no 2008/944/PESC du Conseil définissant des règles communes régissant le contrôle des exportations de technologie et d'équipements militaires et étendent les opérations de contrôle des armes à une liste plus large de matériels que celle prévue par le TCA.
