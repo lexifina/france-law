@@ -1,0 +1,9 @@
+# Réponse à la question n° 86193
+
+- Question : [86193](86193.md) — Question n° 86193 — locaux; mise à disposition à titre gracieux; pérennité
+
+## Réponse
+
+*JO du 2016-07-26*
+
+Le Gouvernement souhaite donner un cadre pérenne et sûr à la mise à disposition des locaux syndicaux par les collectivités territoriales. Outre que ces mises à dispositions, souvent le fruit de l'histoire, facilitent le syndicalisme de proximité et l'implantation des syndicats sur tout le territoire, leur rôle est également très positif pour offrir des services au public, par exemple en matière d'accès au droit. Pour cela l'article 15 du projet de loi visant à instituer de nouvelles libertés et de nouvelles protections pour les entreprises et les actifs étend le dispositif actuel de mise à disposition des locaux communaux (L. 2125-1 du Code général de la propriété des personnes publiques) à l'ensemble des collectivités territoriales et de leurs groupements. Pour toutes les mises à disposition de locaux, les collectivités sont encouragées à conclure des conventions avec les syndicats bénéficiaires. Afin de préserver la situation des occupants sans obérer les possibilités d'évolution pour l'avenir, le projet de loi prévoit un droit à indemnisation pour les organisations syndicales qui se verraient retirer le bénéfice de l'usage d'un local qu'elles occupaient depuis une durée d'au moins cinq ans, lorsque aucune mise à disposition de nouveaux locaux lui permettant de poursuivre ses activités ne lui aura été proposée. Les syndicats pourront ainsi continuer à développer leurs missions d'intérêt général auprès des salariés, mais aussi d'autres types de publics qui bénéficient de leurs services de proximité (demandeurs d'emploi, étudiants, retraités, etc.). Ce sera une mesure de progrès, qui favorisera le syndicalisme en cohérence avec toutes les évolutions du projet de loi pour donner au dialogue social une place sans précédent dans notre pays.
