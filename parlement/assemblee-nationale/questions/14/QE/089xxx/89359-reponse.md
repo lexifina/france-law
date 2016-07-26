@@ -1,0 +1,9 @@
+# Réponse à la question n° 89359
+
+- Question : [89359](89359.md) — Question n° 89359 — revalorisation
+
+## Réponse
+
+*JO du 2016-07-26*
+
+Le régime indemnitaire des agents territoriaux est défini par l'article 88 de la loi no 84-53 du 26 janvier 1984 portant dispositions statutaires relatives à la fonction publique territoriale, qui pose le principe de la parité entre fonction publique territoriale et fonction publique de l'Etat. Le décret no 91-875 du 6 septembre 1991 détermine, à cet effet, les équivalences entre cadre d'emplois territorial et corps de référence de la fonction publique de l'Etat. Ainsi, le cadre d'emplois des agents territoriaux spécialisés des écoles maternelles (ATSEM) a pour référence le corps des adjoints administratifs du ministère de l'intérieur. Le principe de parité permet aux employeurs territoriaux de retenir leur régime indemnitaire dans la limite de celui versé aux adjoints administratifs du ministère de l'intérieur. Le décret no 2015-1087 du 28 août 2015 portant régime indemnitaire spécifique en faveur des personnels exerçant dans les écoles ou établissements relevant des programmes « Réseau d'éducation prioritaire renforcé » et « Réseau d'éducation prioritaire » prévoit qu'une indemnité de sujétions est allouée aux personnels enseignants, aux conseillers principaux d'éducation, aux personnels de direction, aux personnels administratifs et techniques exerçant dans les écoles ou établissements relevant de ces programmes dont la liste est fixée par arrêté du ministre chargé de l'éducation nationale ainsi que les personnels sociaux et de santé qui y sont affectés. Cette prime relève du ministère de l'éducation nationale, de l'enseignement supérieur et de la recherche et ne peut être octroyée qu'aux fonctionnaires territoriaux qui ont pour corps de référence ceux de ce ministère et qui remplissent les conditions d'affectation. En conséquence, cette indemnité de sujétions ne peut pas être attribuée aux ATSEM.
