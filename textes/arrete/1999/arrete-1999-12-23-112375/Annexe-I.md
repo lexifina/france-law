@@ -1,6 +1,6 @@
 # Article Annexe I
 
-.
+CARACTÉRISTIQUES TECHNIQUES
 
 PROPRIÉTÉS
 
@@ -14,17 +14,15 @@ LIMITES
 
 |
 
-Minimum
+Min.
 
 |
 
-Maximum
+Max.
 
 |
 
-Indice de cétane mesuré.
-
-|
+Indice de cétane mesuré |
 
 |
 
@@ -32,9 +30,11 @@ Indice de cétane mesuré.
 
 |
 
+-
+
 |
 
-Indice de cétane calculé.
+Indice de cétane calculé
 
 |
 
@@ -44,9 +44,11 @@ Indice de cétane calculé.
 
 |
 
+-
+
 |
 
-Masse volumique (à 15 °C).
+Masse volumique (à 15 °C)
 
 |
 
@@ -62,7 +64,7 @@ kg/m³
 
 |
 
-Hydrocarbures aromatiques polycycliques.
+Hydrocarbures aromatiques polycycliques
 
 |
 
@@ -94,6 +96,22 @@ mg/kg
 
 |
 
+Teneur en manganèse
+
+|
+
+mg/l
+
+|
+
+-
+
+|
+
+2,0
+
+|
+
 Point d'éclair
 
 |
@@ -102,7 +120,7 @@ Point d'éclair
 
 |
 
-55
+> 55,0
 
 |
 
@@ -186,11 +204,11 @@ Classe 1
 
 |
 
-Stabilité à l'oxydation 1
+Stabilité à l'oxydation
 
 |
 
-g/ m³
+g/m³
 
 |
 
@@ -214,25 +232,9 @@ h
 
 |
 
-Stabilité à l'oxydation 2 à 115 °C
+Pouvoir lubrifiant, diamètre de marque d'usure corrigée
 
-Variation de l'indice d'acide (2).
-
-|
-
-mg KOH/g
-
-|
-
--
-
-|
-
-0,30
-
-|
-
-Pouvoir lubrifiant, diamètre de marque d'usure corrigé (wsd 1,4) à 60 °C.
+(wsd 1,4) à 60 °C
 
 |
 
@@ -252,21 +254,21 @@ Viscosité à 40 °C
 
 |
 
-mm2/s
+mm2/ s
 
 |
 
-2,00
+2,000
 
 |
 
-4,50
+4,500
 
 |
 
 Distillation :
 
-% (v/v) évaporé à 250 °C
+- % (v/v) récupéré à 250 °C ;
 
 |
 
@@ -282,11 +284,11 @@ Distillation :
 
 |
 
-% (v/v) évaporé à 350 °C
+- % (v/v) récupéré à 350 °C ;
 
 |
 
-% (v/v)
+% (v/ v)
 
 |
 
@@ -298,7 +300,7 @@ Distillation :
 
 |
 
-point 95 % (V/V) condensé à :
+- 95 % (V/V) récupéré à :
 
 |
 
@@ -314,11 +316,11 @@ point 95 % (V/V) condensé à :
 
 |
 
-Teneur en esters d'acides gras conformes à l'arrêté du 30 juin 2010 relatif aux caractéristiques des estersméthyliques d'acides gras (EMAG)
+Teneur en esters méthyliques d'acides gras conformes à l'arrêté du 30 juin 2010 modifié relatif aux caractéristiques des esters méthyliques d'acides gras (EMAG)
 
 |
 
-% (V/V)
+% (v/v)
 
 |
 
@@ -330,9 +332,7 @@ Teneur en esters d'acides gras conformes à l'arrêté du 30 juin 2010 relatif a
 
 |
 
-(1) Il s'agit d'une spécification supplémentaire pour les carburants Diesel dont la teneur en EMAG est supérieure à 2 % (V/V). Cette spécification, en révision au CEN, est temporaire.
-
-(2) Cette spécification supplémentaire est optionnelle.
+(1) Il s'agit d'une spécification supplémentaire pour les carburants diesel dont la teneur en EMAG est supérieure à 2 % (v/v).
 
 |
 
