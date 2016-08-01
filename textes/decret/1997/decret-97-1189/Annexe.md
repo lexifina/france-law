@@ -318,6 +318,20 @@ Article R. * 338-10.
 
 ENSEIGNEMENT SUPÉRIEUR
 
+Code de l'éducation
+
+1
+
+|
+
+Désignation des personnalités en fonction des activités qu'elles exercent dans les domaines de l'éducation, des affaires sociales et de la culture siégeant au conseil d'administration du Centre national des œuvres universitaires et scolaires.
+
+|
+
+Article R. 822-4 du code de l'éducation
+
+|
+
 Code de la sécurité sociale
 
 1
