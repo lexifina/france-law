@@ -1,0 +1,9 @@
+# Réponse à la question n° 69073
+
+- Question : [69073](69073.md) — Question n° 69073 — accueil; prestation de service unique; réglementation
+
+## Réponse
+
+*JO du 2016-08-02*
+
+En 2013, la gestion des établissements d'accueil d'enfants de moins de six ans, dont les crèches, halte-garderies et établissements multi accueil, a engendré plus de 5,5 milliards d'euros de dépenses de fonctionnement. 43,7 % de ces dépenses sont financées par les caisses d'allocations familiales à travers une subvention de fonctionnement, la prestation de service unique (PSU) (33,9 %) et les contrats « enfance et jeunesse » (9,8 %). Les règles nationales relatives au versement de la PSU sont définies par les circulaires du directeur général de la Caisse nationale des allocations familiales (CNAF). La dernière circulaire applicable, en date du 26 mars 2014, prévoit la possibilité d'avances et d'acomptes "sous réserve qu'ils n'excèdent pas 70 % du droit prévisionnel". Cette rédaction est le résultat de l'application d'une règle de gestion prudentielle, certains gestionnaires ayant pu surestimer leurs droits prévisionnels ce qui au final s'est traduit par un indu, le droit étant inférieur à l'acompte versé. Les comptes d'acomptes comme d'indus font d'ailleurs l'objet d'un suivi rigoureux de la Cour des Comptes. Pour tenir compte des contraintes qui peuvent peser sur certains gestionnaires, il a été décidé de porter les plafonds des acomptes à 80%, ce qui nécessitera la conclusion d'avenants aux conventions passées par les caf avec les établissements. Il est aussi possible de déroger à ces règles au cas par cas. Les organismes saisissent alors la CNAF qui peut autoriser à titre spécial une majoration du taux d'acompte. De plus, si en cours d'année un gestionnaire constate une augmentation de son activité, l'acompte peut être revu à la hausse.
