@@ -1,0 +1,88 @@
+# Collectivités territoriales : statut de Paris et aménagement métropolitain
+
+- Procédure : Projet de loi ordinaire
+- Législature : 14
+- Identifiant : DLR5L14N35138
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/statut_paris_amenagement_metropolitain
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl15-815.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2016-08-03 : 1er dépôt d'une initiative. (PRJLSNR5S259B0815)
+  - 2016-08-03 : Etude d'impact (ETDISNR5S259B0815)
+  - 2016-08-03 : Avis du Conseil d'Etat (AVCESNR5S259B0815)
+  - 2016-08-03 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2016-08-03 : Renvoi en commission au fond
+      - 2016-09-21 : Nomination de rapporteur
+      - 2016-10-26 : Dépôt de rapport (RAPPSNR5S279B0082)
+  - Discussion en séance publique
+    - 2016-11-07 : Discussion en séance publique
+    - 2016-11-08 : Discussion en séance publique
+    - 2016-11-09 : Discussion en séance publique
+    - 2016-11-09 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2016-11-10 : Dépôt d'une initiative en navette (PRJLANR5L14B4212)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2016-11-10 : Renvoi en commission au fond
+      - 2016-11-03 : Nomination de rapporteur
+      - 2016-11-23 : Réunion de commission
+      - 2016-11-23 : Réunion de commission
+      - 2016-11-23 : Réunion de commission
+      - 2016-11-30 : Réunion de commission
+      - 2016-12-01 : Réunion de commission
+      - 2016-12-07 : Réunion de commission
+      - 2016-12-07 : Réunion de commission
+      - 2016-12-13 : Réunion de commission
+      - 2016-12-07 : Dépôt de rapport (RAPPANR5L14B4293, PRJLANR5L14BTC4293)
+  - Discussion en séance publique
+    - 2016-12-14 : Discussion en séance publique
+    - 2016-12-14 : Discussion en séance publique
+    - 2016-12-15 : Discussion en séance publique
+    - 2016-12-20 : Discussion en séance publique
+    - 2016-12-20 : Décision
+- deuxième lecture
+  - 2016-12-20 : Dépôt d'une initiative en navette (PRJLSNR5S279B0248)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2016-12-20 : Renvoi en commission au fond
+- Commission Mixte Paritaire
+  - 2016-12-20 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2016-12-21 : Nomination de rapporteur
+    - 2016-12-21 : Dépôt du rapport d'une CMP (RAPPANR5L14B4329)
+    - 2016-12-21 : Dépôt du rapport d'une CMP (RAPPSNR5S279B0261)
+  - 2016-12-21 : Décision de la CMP
+- Nouvelle Lecture
+  - 2016-12-21 : Dépôt d'une initiative en navette (PRJLANR5L14B4350)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2016-12-21 : Renvoi en commission au fond
+      - 2017-01-11 : Réunion de commission
+      - 2017-01-17 : Réunion de commission
+      - 2017-01-11 : Dépôt de rapport (RAPPANR5L14B4365, PRJLANR5L14BTC4365)
+  - Discussion en séance publique
+    - 2017-01-17 : Discussion en séance publique
+    - 2017-01-17 : Décision
+- Nouvelle Lecture
+  - 2017-01-18 : Dépôt d'une initiative en navette (PRJLSNR5S279B0315)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2017-01-18 : Renvoi en commission au fond
+      - 2017-02-01 : Dépôt de rapport (RAPPSNR5S279B0349)
+  - Discussion en séance publique
+    - 2017-02-07 : Discussion en séance publique
+    - 2017-02-07 : Décision
+- Lecture définitive
+  - 2017-02-08 : Dépôt d'une initiative en navette (PRJLANR5L14B4459)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2017-02-08 : Renvoi en commission au fond
+  - Discussion en séance publique
+    - 2017-02-16 : Discussion en séance publique
+    - 2017-02-16 : Décision
+- Promulgation de la loi
+  - 2017-02-28 : Promulgation d'une loi
