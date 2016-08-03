@@ -1,0 +1,91 @@
+# Outre-mer : égalité réelle outre-mer
+
+- Procédure : Projet de loi ordinaire
+- Législature : 14
+- Identifiant : DLR5L14N35137
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/egalite_reelle_outre-mer
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl16-019.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2016-08-03 : 1er dépôt d'une initiative. (PRJLANR5L14B4000)
+  - 2016-08-03 : Etude d'impact (ETDIANR5L14B4000)
+  - 2016-08-03 : Avis du Conseil d'Etat (AVCEANR5L14B4000)
+  - 2016-08-03 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2016-08-03 : Renvoi en commission au fond
+      - 2016-09-06 : Nomination de rapporteur
+      - 2016-09-06 : Réunion de commission
+      - 2016-09-20 : Réunion de commission
+      - 2016-09-27 : Réunion de commission
+      - 2016-09-28 : Réunion de commission
+      - 2016-10-04 : Réunion de commission
+      - 2016-09-28 : Dépôt de rapport (RAPPANR5L14B4064, PRJLANR5L14BTC4064)
+    - Travaux d'une commission saisie pour avis
+      - 2016-08-31 : Saisine pour avis d'une commission
+      - 2016-09-20 : Nomination de rapporteur
+      - 2016-09-26 : Réunion de commission
+      - 2016-09-26 : Dépôt de rapport (AVISANR5L14B4055)
+    - Travaux d'une commission saisie pour avis
+      - 2016-09-08 : Saisine pour avis d'une commission
+      - 2016-09-20 : Nomination de rapporteur
+      - 2016-09-20 : Réunion de commission
+      - 2016-09-26 : Réunion de commission
+      - 2016-09-26 : Dépôt de rapport (AVISANR5L14B4054)
+  - Discussion en séance publique
+    - 2016-10-04 : Discussion en séance publique
+    - 2016-10-04 : Discussion en séance publique
+    - 2016-10-05 : Discussion en séance publique
+    - 2016-10-05 : Discussion en séance publique
+    - 2016-10-11 : Discussion en séance publique
+    - 2016-10-11 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2016-10-11 : Dépôt d'une initiative en navette (PRJLSNR5S279B0019)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2016-10-11 : Renvoi en commission au fond
+      - 2016-11-09 : Nomination de rapporteur
+      - 2017-01-11 : Dépôt de rapport (RAPPSNR5S279B0287)
+    - Travaux d'une commission saisie pour avis
+      - 2016-11-16 : Saisine pour avis d'une commission
+      - 2016-11-16 : Nomination de rapporteur
+      - 2017-01-10 : Dépôt de rapport (AVISSNR5S279B0279)
+    - Travaux d'une commission saisie pour avis
+      - 2016-11-22 : Saisine pour avis d'une commission
+      - 2016-11-22 : Nomination de rapporteur
+      - 2017-01-10 : Dépôt de rapport (AVISSNR5S279B0283)
+    - Travaux d'une commission saisie pour avis
+      - 2016-11-22 : Saisine pour avis d'une commission
+      - 2016-11-22 : Nomination de rapporteur
+      - 2017-01-10 : Dépôt de rapport (AVISSNR5S279B0281)
+    - Travaux d'une commission saisie pour avis
+      - 2016-11-23 : Saisine pour avis d'une commission
+      - 2016-11-23 : Nomination de rapporteur
+      - 2017-01-10 : Dépôt de rapport (AVISSNR5S279B0280)
+    - Travaux d'une commission saisie pour avis
+      - 2016-11-23 : Saisine pour avis d'une commission
+      - 2016-12-01 : Nomination de rapporteur
+      - 2017-01-10 : Dépôt de rapport (AVISSNR5S279B0284)
+  - Discussion en séance publique
+    - 2017-01-17 : Discussion en séance publique
+    - 2017-01-18 : Discussion en séance publique
+    - 2017-01-19 : Discussion en séance publique
+    - 2017-01-19 : Décision
+- Commission Mixte Paritaire
+  - 2017-01-20 : Dépôt d'un projet de loi (PRJLANR5L14B4394)
+  - 2017-01-20 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2017-02-06 : Nomination de rapporteur
+    - 2017-02-07 : Dépôt du rapport d'une CMP (RAPPANR5L14B4448)
+    - 2017-02-07 : Dépôt du rapport d'une CMP (RAPPSNR5S279B0371)
+  - Discussion en séance publique
+    - 2017-02-09 : Discussion en séance publique
+    - 2017-02-09 : Décision
+  - Discussion en séance publique
+    - 2017-02-14 : Discussion en séance publique
+    - 2017-02-14 : Décision
+  - 2017-02-07 : Décision de la CMP
+- Promulgation de la loi
+  - 2017-02-28 : Promulgation d'une loi
