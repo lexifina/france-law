@@ -8,7 +8,9 @@ FONCTIONS EXERCEES
 
 NIVEAU
 
-de qualification de l'emploi
+de qualification
+
+de l'emploi
 
 |
 
@@ -120,9 +122,13 @@ A
 
 |
 
-Chef du service territorial Est |
+Chef du service territorial Est
 
-A |
+|
+
+A
+
+|
 
 1 |
 
@@ -256,108 +262,6 @@ B
 
 |
 
-Direction départementale de l'équipement et de l'agriculture (2) du Calvados
-
-FONCTIONS EXERCEES
-
-|
-
-NIVEAU
-
-de qualification de l'emploi
-
-|
-
-NOMBRE
-
-d'emplois
-
-|
-
-NOMBRE DE POINTS (IM)
-
-par emploi
-
-|
-
-Responsable de l'unité de traitement des situations individuelles (3)
-
-|
-
-A
-
-|
-
-1
-
-|
-
-30 points
-
-|
-
-Chargé de mission développement de l'offre de logement, renouvellement urbain, habitat indigne (3)
-
-|
-
-A
-
-|
-
-1
-
-|
-
-30 points
-
-|
-
-Adjoint au responsable de l'unité ville quartiers habitats (4) |
-
-B
-
-|
-
-1
-
-|
-
-20 points
-
-|
-
-Responsable de l'unité rénovation urbaine (5)
-
-|
-
-B
-
-|
-
-1
-
-|
-
-20 points
-
-|
-
-Gestionnaire de la commission départementale des aides publiques au logement, chargé de la présidence de la commission départementale des aides publiques au logement en cas d'absence du titulaire (3)
-
-|
-
-C
-
-|
-
-1
-
-|
-
-10 points
-
-|
-
 Direction départementale des territoires et de la mer du Calvados
 
 FONCTIONS EXERCEES
@@ -366,7 +270,9 @@ FONCTIONS EXERCEES
 
 NIVEAU
 
-de qualification de l'emploi
+de qualification
+
+de l'emploi
 
 |
 
@@ -382,7 +288,7 @@ par emploi
 
 |
 
-Responsable délégation territoriale Sud Pays d'Auge en charge du renouvellement urbain de Lisieux au bureau de pilotage du réseau territorial
+Responsable du bureau de la stratégie des missions et animation du réseau territorial (7)
 
 |
 
@@ -398,7 +304,7 @@ A
 
 |
 
-Responsable de l'unité rénovation urbaine au service habitat rénovation urbaine
+Responsable de l'unité rénovation urbaine-politique de la ville au pôle habitat ville-service construction, aménagement et habitat (7)
 
 |
 
@@ -422,11 +328,15 @@ FONCTIONS EXERCEES
 
 NIVEAU
 
-de qualification de l'emploi
+de qualification
+
+de l'emploi
 
 |
 
-NOMBRE d'emplois
+NOMBRE
+
+d'emplois
 
 |
 
@@ -436,7 +346,7 @@ par emploi
 
 |
 
-Responsable de l'unité traitement des situations individuelles
+Chef du pôle politiques sociales du logement et de l'habitat (7)
 
 |
 
@@ -452,22 +362,6 @@ A
 
 |
 
-Gestionnaire au sein de la CDAPL, chargé de la présidence de la CDAPL en cas d'absence du titulaire
-
-|
-
-C
-
-|
-
-1
-
-|
-
-10 points
-
-|
-
 Direction départementale de l'équipement de la Charente
 
 FONCTIONS EXERCEES
@@ -476,7 +370,9 @@ FONCTIONS EXERCEES
 
 NIVEAU
 
-de qualification de l'emploi
+de qualification
+
+de l'emploi
 
 |
 
@@ -564,7 +460,9 @@ FONCTIONS EXERCEES
 
 NIVEAU
 
-de qualification de l'emploi
+de qualification
+
+de l'emploi
 
 |
 
@@ -636,7 +534,9 @@ FONCTIONS EXERCEES
 
 NIVEAU
 
-de qualification de l'emploi
+de qualification
+
+de l'emploi
 
 |
 
@@ -724,7 +624,9 @@ FONCTIONS EXERCEES
 
 NIVEAU
 
-de qualification de l'emploi
+de qualification
+
+de l'emploi
 
 |
 
@@ -780,7 +682,9 @@ FONCTIONS EXERCEES
 
 NIVEAU
 
-de qualification de l'emploi
+de qualification
+
+de l'emploi
 
 |
 
@@ -820,7 +724,9 @@ FONCTIONS EXERCEES
 
 NIVEAU
 
-de qualification de l'emploi
+de qualification
+
+de l'emploi
 
 |
 
@@ -892,7 +798,9 @@ FONCTIONS EXERCEES
 
 NIVEAU
 
-de qualification de l'emploi
+de qualification
+
+de l'emploi
 
 |
 
@@ -1008,7 +916,9 @@ FONCTIONS EXERCÉES
 
 NIVEAU
 
-de qualification de l'emploi
+de qualification
+
+de l'emploi
 
 |
 
@@ -1118,7 +1028,9 @@ B
 
 |
 
-Adjoint au responsable de l'unité lutte contre les exclusions et observation de l'habitat |
+Adjoint au responsable de l'unité lutte contre les exclusions et observation de l'habitat
+
+|
 
 B
 
@@ -1140,7 +1052,9 @@ FONCTIONS EXERCEES
 
 NIVEAU
 
-de qualification de l'emploi
+de qualification
+
+de l'emploi
 
 |
 
@@ -1212,7 +1126,9 @@ FONCTIONS EXERCEES
 
 NIVEAU
 
-de qualification de l'emploi
+de qualification
+
+de l'emploi
 
 |
 
@@ -1268,7 +1184,9 @@ FONCTIONS EXERCEES
 
 NIVEAU
 
-de qualification de l'emploi
+de qualification
+
+de l'emploi
 
 |
 
@@ -1332,7 +1250,9 @@ FONCTIONS EXERCEES
 
 NIVEAU
 
-de qualification de l'emploi
+de qualification
+
+de l'emploi
 
 |
 
@@ -1388,7 +1308,9 @@ FONCTIONS EXERCEES
 
 NIVEAU
 
-de qualification de l'emploi
+de qualification
+
+de l'emploi
 
 |
 
@@ -1465,3 +1387,5 @@ NOTA :
 (5) En application de l'article 2 de l'arrêté du 29 décembre 2009, entre en vigueur à compter du 1er juillet 2009.
 
 (6) En application de l'article 1 de l'arrêté du 17 septembre 2012, entre en vigueur à compter du 1er juillet 2011.
+
+(7) En application de l'article 1 de l'arrêté du 25 juillet 2016, entre en vigueur à compter du 1er janvier 2015, pour ce qui concerne la répartition de l'enveloppe de la direction départementale des territoires et de la mer du Calvados, et au 1er décembre 2015 pour ce qui concerne la répartition de l'enveloppe de la direction départementale de la cohésion sociale du Calvados.
