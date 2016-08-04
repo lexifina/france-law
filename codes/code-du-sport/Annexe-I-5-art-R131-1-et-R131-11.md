@@ -96,7 +96,7 @@ Les organismes régionaux, départementaux ou locaux constitués par la fédéra
 
 2.1.2.1.4. Qu'elle fixe les cotisations dues par ses membres ;
 
-2.1.2.1.5. Qu'elle adopte, sur proposition de l'instance dirigeante compétente, le règlement intérieur, le règlement disciplinaire, le règlement financier et le règlement disciplinaire particulier en matière de lutte contre le dopage ;
+2.1.2.1.5. Qu'elle adopte, sur proposition de l'instance dirigeante compétente, le règlement intérieur et le règlement financier ;
 
 2.1.2.1.6. Qu'elle est seule compétente pour se prononcer sur les acquisitions, les échanges et les aliénations de biens immobiliers, sur la constitution d'hypothèques et sur les baux de plus de neuf ans ;
 
@@ -108,7 +108,7 @@ Les organismes régionaux, départementaux ou locaux constitués par la fédéra
 
 Les statuts déterminent la ou les instances chargées de diriger et d'administrer la fédération et prévoient, à ce titre, la répartition des compétences entre elles sous réserve des compétences obligatoirement attribuées à l'assemblée générale.
 
-Ils déterminent l'instance compétente pour adopter les règlements de la fédération autres que ceux qui sont adoptés par l'assemblée générale, notamment le règlement sportif et le règlement médical.
+Les statuts peuvent désigner une instance dirigeante collégiale, autre que l'assemblée générale pour adopter des règlements de la fédération.
 
 2.2.2. Composition, fonctionnement et attributions.
 
@@ -174,7 +174,7 @@ Les statuts instituent :
 
 2.4.1.4. La compétence de la commission pour :
 
-a) Emettre un avis sur la recevabilité des candidatures ;
+a) Se prononcer sur la recevabilité des candidatures par une décision prise en premier et dernier ressort ;
 
 b) Avoir accès à tout moment aux bureaux de vote, leur adresser tous conseils et former à leur intention toutes observations susceptibles de les rappeler au respect des dispositions statutaires ;
 
