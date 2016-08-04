@@ -201,3 +201,11 @@ Secrétariats généraux pour les affaires régionales
 - Nord-Pas-de-Calais et Picardie.
 
 |
+
+Commissariat général à l'égalité des territoires
+
+|
+
+Commissariat à l'aménagement du massif des Vosges
+
+|
