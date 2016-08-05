@@ -3524,6 +3524,20 @@ Opérations sous-traitées intervenant dans la fabrication d'éléments en béto
 
 |
 
+23.65.12
+
+|
+
+Ouvrages en fibre-ciment, cellulose-ciment ou similaires, plaques planes ou ondulées, éléments de couverture, tuyaux et gaines, etc.
+
+|
+
+23.65.99 |
+
+Opérations sous-traitées intervenant dans la fabrication d'ouvrages en fibre-ciment
+
+|
+
 23.69.19
 
 |
