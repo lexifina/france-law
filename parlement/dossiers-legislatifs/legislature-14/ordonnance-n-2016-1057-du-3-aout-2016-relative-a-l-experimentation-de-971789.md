@@ -1,0 +1,28 @@
+# Ordonnance n° 2016-1057 du 3 août 2016 relative à l'expérimentation de véhicules à délégation de conduite sur les voies publiques
+
+- Type : ordonnance publiee
+- Législature : XIVème législature
+- Ouvert le : 2016-08-05
+- Mis à jour le : 2017-04-03
+- Légifrance : https://www.legifrance.gouv.fr/dossierlegislatif/JORFDOLE000032971789
+
+## Ordonnance n° 2016-1057 du 3 août 2016 relative à l'expérimentation de véhicules à délégation de conduite sur les voies publiques
+
+https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000032966695
+
+## Rapport au Président de la République relatif à l'ordonnance n°2016-1057 du 3 août 2016 relative à l'expérimentation de véhicules à délégation de conduite sur les voies publiques
+
+https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000032966690
+
+## Documents
+
+- [Communiqué de presse du Conseil des ministres du 3 août 2016](http://www.gouvernement.fr/conseil-des-ministres/2016-08-03/experimentation-de-vehicules-a-delegation-de-conduite-sur-le) La ministre de l’environnement, de l’énergie et de la mer, chargée des relations internationales sur le climat et le secrétaire d’Etat chargé des transports ont présenté une ordonnance relative à l’expérimentation de véhicules à délégation de conduite sur les voies publiques. Le IX de l’article 37 de la loi n° 2015-992 du 17 août 2015 relative à la transition énergétique pour la croissance verte a habilité le Gouvernement, sur le fondement de l'article 38 de la Constitution, à prendre par ordonnance « toute mesure relevant du domaine de la loi afin de permettre la circulation sur la voie publique de véhicules à délégation partielle ou totale de conduite, qu'il s'agisse de voitures particulières, de véhicules de transport de marchandises ou de véhicules de transport de personnes, à des fins expérimentales, dans des conditions assurant la sécurité de tous les usagers et en prévoyant, le cas échéant, un régime de responsabilité approprié », étant précisé que « la circulation des véhicules à délégation partielle ou totale de conduite ne peut être autorisée sur les voies réservées aux transports collectifs, sauf s'il s'agit de véhicules affectés à un transport public de personnes ». La terminologie de « véhicule à délégation partielle ou totale de conduite » (VDPTC) fait référence, d’une part, aux technologies d’automatisation avancées du véhicule et, d’autre part, au changement fondamental de nature de l’acte de conduire. Ces véhicules, appelés aussi « véhicules autonomes », sont une étape incontournable vers une mobilité apaisée, une régulation et une sécurisation des trafics, et des transports plus efficaces et plus respectueux de l’environnement. Ils constituent l’avenir de l’industrie automobile. Le véhicule à délégation de conduite représente également une piste de progrès prometteuse pour la sécurité routière. Le véhicule autonome devrait avoir des capacités de réaction et d'adaptation supérieures à celles d'un conducteur humain et ainsi commettre moins d’erreurs que ce dernier sujet à la fatigue, l’alcool, la distraction ou l’inexpérience. Le véhicule autonome contribuera aux actions préventives réalisées par le Gouvernement pour sauver des vies et réduire le nombre de blessés sur les routes. Les expérimentations de tous les types de véhicules à délégation de conduite appelés à circuler sur les voies publiques pour un usage particulier, collectif ou de transport de marchandise se multiplient au niveau international et national. En France, les premières expérimentations ont pu rencontrer des difficultés juridiques et pratiques liées à la nécessité de clarifier la situation du conducteur par rapport aux règles internationales en vigueur, à l’inadaptation des dispositions applicables à l’immatriculation des véhicules, aux difficultés à obtenir des porteurs de projets l’ensemble des renseignements permettant notamment de s’assurer que l’expérimentation se déroule en toute sécurité et en coordination avec les différentes autorités publiques concernées, ou aux incertitudes sur la procédure d’instruction et de délivrance de l’autorisation. Elles ont également mis en évidence l’importance qui s’attache à une bonne information du public appelé ou non à être transporté à bord du véhicule. En conséquence, l’ordonnance introduit la notion d’autorisation de circulation sur la voie publique spécifique à l’expérimentation de véhicule à délégation partielle ou totale de conduite. Cette notion servira de fondation à la construction d’un cadre réglementaire solide au travers d’un décret en Conseil d’État. Enfin, l’ordonnance s’inscrit dans l’esprit de la feuille de route du plan industriel « Véhicule Autonome » de la Nouvelle France industrielle, visant à faire de l’industrie française de l’automobile et du transport routier une des pionnières dans la conception du véhicule autonome pour tous. Il traduit l’ambition que la France soit reconnue comme une terre d’expérimentation du véhicule autonome, un centre d’excellence de l’intelligence embarquée et un leader en sécurité des systèmes complexes, afin de préparer les nouvelles mobilités de demain.
+- Dossiers législatifs
+  - [Dossier législatif du projet de loi ratifiant l'ordonnance](https://www.legifrance.gouv.fr/affichLoiPreparation.do?idDocument=JORFDOLE000033967774&type=general&typeLoi=proj&legislature=14)
+  - Assemblée nationale
+  - Sénat
+- Documents préparatoires
+  - [Fiche d'impact](https://www.legifrance.gouv.fr/contenu/Media/Files/autour-de-la-loi/legislatif-et-reglementaire/fiches-d-impact/fiches-d-impact-ordonnances/2016/fi_devr1615137r_30_06_2016.pdf.pdf)
+- Débats parlementaires
+  - Assemblée nationale
+  - Sénat
