@@ -10,7 +10,7 @@ DU DÉBIT DE TABAC DE RATTACHEMENT
 
 A remplir par le gérant du débit de rattachement.
 
-Direction régionale des douanes et droits indirects dont dépend le revendeur (1) :
+Direction interrégionale des douanes et droits indirects dont dépend le revendeur (1) :
 
 N° du débit : N° d'ordre du débitant :
 
@@ -64,7 +64,7 @@ Conditions relatives à la revente :
 
 ― lors de chaque approvisionnement, le gérant du débit de tabac de rattachement est payé directement par l'établissement de revente, quelle que soit la forme juridique de cet établissement, au comptant à l'enlèvement du tabac ;
 
-― l'approvisionnement est limité à vingt kilogrammes maximum par mois sauf autorisation expresse écrite du directeur régional des douanes territorialement compétent ;
+― l'approvisionnement est limité à vingt kilogrammes maximum par mois sauf autorisation expresse écrite du directeur interrégional des douanes territorialement compétent ;
 
 ― le tabac est transporté sous couvert du carnet de revente dûment rempli par le gérant du débit de rattachement ;
 
@@ -74,7 +74,7 @@ Conditions relatives à la revente :
 
 ― pendant les congés annuels du débit de rattachement habituel, le revendeur peut s'approvisionner auprès du débit de tabac permanent ouvert le plus proche. Le carnet de revente est annoté en conséquence.
 
-(1) Intitulé de la direction régionale des douanes dont dépend le revendeur. (2) Nom du déclarant en lettres majuscules. (3) Enseigne commerciale du débit de rattachement. (4) Enseigne commerciale de l'établissement de revente. (5) Par remise directe dans les locaux du service, ou par voie postale, le cachet de la poste faisant foi de la date d'envoi, ou, scanné, par courrier électronique (adresse communiquée par la direction régionale des douanes dont dépend le revendeur).
+(1) Intitulé de la direction interrégionale des douanes dont dépend le revendeur. (2) Nom du déclarant en lettres majuscules. (3) Enseigne commerciale du débit de rattachement. (4) Enseigne commerciale de l'établissement de revente. (5) Par remise directe dans les locaux du service, ou par voie postale, le cachet de la poste faisant foi de la date d'envoi, ou, scanné, par courrier électronique (adresse communiquée par la direction interrégionale des douanes dont dépend le revendeur).
 
 REVENTE DE TABAC
 
@@ -84,7 +84,7 @@ DE FIN D'APPROVISIONNEMENT
 
 A remplir par le débitant de rattachement.
 
-Direction régionale des douanes et droits indirects de (1) :
+Direction interrégionale des douanes et droits indirects de (1) :
 
 N° du débit : N° d'ordre du débitant :
 
@@ -114,4 +114,4 @@ Document à compléter et à signer en un exemplaire original.
 
 Cet exemplaire est à transmettre immédiatement par le débitant au service local des douanes et droits indirects dont dépend le revendeur (5). Le débitant en conserve une copie.
 
-(1) Intitulé de la direction régionale des douanes dont dépend le revendeur. (2) Nom du déclarant en lettres majuscules. (3) Enseigne commerciale du débit de rattachement. (4) Enseigne commerciale de l'établissement de revente. (5) Par remise directe dans les locaux du service, ou par voie postale, le cachet de la poste faisant foi de la date d'envoi, ou, scanné, par courrier électronique (adresse communiquée par la direction régionale des douanes dont dépend le revendeur).
+(1) Intitulé de la direction interrégionale des douanes dont dépend le revendeur. (2) Nom du déclarant en lettres majuscules. (3) Enseigne commerciale du débit de rattachement. (4) Enseigne commerciale de l'établissement de revente. (5) Par remise directe dans les locaux du service, ou par voie postale, le cachet de la poste faisant foi de la date d'envoi, ou, scanné, par courrier électronique (adresse communiquée par la direction interrégionale des douanes dont dépend le revendeur).

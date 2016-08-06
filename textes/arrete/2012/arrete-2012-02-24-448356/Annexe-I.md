@@ -12,7 +12,7 @@ A remplir par le représentant légal de l'établissement de revente.
 
 Avant de remplir ce document, renseignez-vous sur la réglementation applicable (fiche d'information disponible sur le site internet de la douane).
 
-Direction régionale des douanes et droits indirects dont dépend le revendeur (1) :
+Direction interrégionale des douanes et droits indirects dont dépend le revendeur (1) :
 
 Je soussigné (e),
 
@@ -70,7 +70,7 @@ Conditions relatives à la revente :
 
 - le tabac est transporté sous couvert du carnet de revente dûment rempli par le gérant du débit de rattachement ;
 
-- l'approvisionnement est limité à vingt kilogrammes maximum par mois sauf autorisation expresse écrite du directeur régional des douanes territorialement compétent ;
+- l'approvisionnement est limité à vingt kilogrammes maximum par mois sauf autorisation expresse écrite du directeur interrégional des douanes territorialement compétent ;
 
 - le tabac est revendu exclusivement aux clients, aux usagers et aux personnels présents dans l'établissement de revente ;
 
@@ -92,7 +92,7 @@ Conditions relatives à la revente :
 
 Pour toute question complémentaire, rapprochez-vous du service douanier dont vous dépendez.
 
-(1) Intitulé de la direction régionale des douanes dont dépend le revendeur.
+(1) Intitulé de la direction interrégionale des douanes dont dépend le revendeur.
 
 (2) Nom du déclarant en lettres majuscules.
 
@@ -106,4 +106,4 @@ Pour toute question complémentaire, rapprochez-vous du service douanier dont vo
 
 (7) En cas de fermeture pour congés annuels ou de fermeture provisoire du débit de rattachement, le revendeur peut s'approvisionner auprès d'un autre débit de tabac ordinaire permanent, qui est le deuxième le plus proche.
 
-(8) Par remise directe dans les locaux du service, ou par voie postale, le cachet de la poste faisant foi de la date d'envoi, ou, scanné, par courrier électronique (adresse communiquée par la direction régionale des douanes dont dépend le revendeur).
+(8) Par remise directe dans les locaux du service, ou par voie postale, le cachet de la poste faisant foi de la date d'envoi, ou, scanné, par courrier électronique (adresse communiquée par la direction interrégionale des douanes dont dépend le revendeur).

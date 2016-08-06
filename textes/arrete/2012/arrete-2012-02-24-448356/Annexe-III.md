@@ -10,7 +10,7 @@ DU GÉRANT DU DÉBIT DE TABAC LE PLUS PROCHE
 
 A remplir par le gérant du débit le plus proche de l'établissement revendeur.
 
-Direction régionale des douanes et droits indirects dont dépend le revendeur (1) :
+Direction interrégionale des douanes et droits indirects dont dépend le revendeur (1) :
 
 N° du débit : N° d'ordre du débitant :
 
@@ -40,4 +40,4 @@ Document à compléter et à signer en un exemplaire original.
 
 Cet exemplaire est à remettre au revendeur, qui le conserve et en transmet une copie au service local des douanes et droits indirects dont il dépend (5).
 
-(1) Intitulé de la direction régionale des douanes dont dépend le revendeur. (2) Nom du déclarant en lettres majuscules. (3) Enseigne commerciale du débit le plus proche. (4) Enseigne commerciale de l'établissement de revente. (5) Par remise directe dans les locaux du service, ou par voie postale, le cachet de la poste faisant foi de la date d'envoi, ou, scanné, par courrier électronique (adresse communiquée par la direction régionale des douanes dont dépend le revendeur)
+(1) Intitulé de la direction interrégionale des douanes dont dépend le revendeur. (2) Nom du déclarant en lettres majuscules. (3) Enseigne commerciale du débit le plus proche. (4) Enseigne commerciale de l'établissement de revente. (5) Par remise directe dans les locaux du service, ou par voie postale, le cachet de la poste faisant foi de la date d'envoi, ou, scanné, par courrier électronique (adresse communiquée par la direction interrégionale des douanes dont dépend le revendeur)
