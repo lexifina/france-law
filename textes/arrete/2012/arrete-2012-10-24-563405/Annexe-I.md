@@ -946,6 +946,8 @@ Paris-Moscou ;
 
 Paris-Nijnevartovsk ;
 
+Paris-Nijni Novgorod ;
+
 Paris-Novossibirsk ;
 
 Paris-Saint-Pétersbourg ;
