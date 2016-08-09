@@ -1,0 +1,9 @@
+# Réponse à la question n° 75983
+
+- Question : [75983](75983.md) — Question n° 75983 — ESAT; frais; prise en charge
+
+## Réponse
+
+*JO du 2016-08-09*
+
+L'article R. 344-10 du code de l'action sociale et des familles dispose que le budget principal de l'activité sociale (BPAS) des établissements et services d'aide par le travail (ESAT) comprend notamment les frais de transport collectif des travailleurs handicapés lorsque des contraintes tenant à l'environnement ou aux capacités des travailleurs handicapés l'exigent. A ce titre, seuls les frais de transport collectif organisés entre leur domicile et l'ESAT relèvent du BPAS. Le principe général de l'utilisation des moyens de transport public existants doit être rappelé et l'organisation par l'ESAT d'un service de transport propre doit donc rester exceptionnelle notamment dans le cas de l'éloignement du principal foyer de population, d'une mauvaise desserte par les transports en commun, d'isolement, de difficultés d'accessibilité ou de nécessités liées aux capacités des usagers (faible autonomie, problème d'orientation et de déplacement…). S'agissant de l'organisation de transport collectif par l'ESAT pour assurer le trajet depuis l'établissement jusqu'aux ateliers ou lieux de prestations extérieures, les frais de prise en charge relèvent du budget commercial, dès lors que ces trajets sont liés à l'activité commerciale de la structure. Il est en outre possible de demander qu'une aide financière soit versée pour la prise en charge des frais de transport domicile-établissement. Ainsi pour les travailleurs handicapés ne bénéficiant pas d'un moyen de transport collectif mis à disposition par l'ESAT (recours à un transport assuré par un tiers ou déplacement personnel supérieur à un kilométrage), il est possible de demander à bénéficier du troisième élément de la prestation de compensation du handicap en établissement comme tout usager de structure médico-sociale (article L. 245-3 du CASF).
