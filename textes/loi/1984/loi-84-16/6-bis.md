@@ -13,5 +13,3 @@ La durée de six ans mentionnée au quatrième alinéa du présent article est c
 Les services accomplis de manière discontinue sont pris en compte, sous réserve que la durée des interruptions entre deux contrats n'excède pas quatre mois.
 
 Lorsqu'un agent atteint l'ancienneté mentionnée aux quatrième à sixième alinéas du présent article avant l'échéance de son contrat en cours, celui-ci est réputé être conclu à durée indéterminée. L'autorité d'emploi lui adresse une proposition d'avenant confirmant cette nouvelle nature du contrat. En cas de refus par l'agent de l'avenant proposé, l'agent est maintenu en fonctions jusqu'au terme du contrat à durée déterminée en cours.
-
-Seul le premier alinéa s'applique aux contrats conclus pour la mise en œuvre d'un programme de formation, d'insertion, de reconversion professionnelle ou de formation professionnelle d'apprentissage.

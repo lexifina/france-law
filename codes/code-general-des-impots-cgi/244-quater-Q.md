@@ -1,6 +1,6 @@
 # Article 244 quater Q
 
-I.-1. Les entreprises imposées d'après leur bénéfice réel ou exonérées en application des articles 44 sexies, 44 septies, 44 octies, 44 terdecies, 44 quaterdecies ou 44 quindecies, dont le dirigeant ou un salarié est titulaire du titre de maître-restaurateur, peuvent bénéficier d'un crédit d'impôt égal à 50 % des dépenses qui permettent de satisfaire aux normes d'aménagement et de fonctionnement prévues par le cahier des charges relatif au titre de maître-restaurateur.
+I. – 1. Les entreprises imposées d'après leur bénéfice réel ou exonérées en application des articles 44 sexies, 44 septies, 44 octies, 44 terdecies, 44 quaterdecies ou 44 quindecies, dont le dirigeant ou un salarié est titulaire du titre de maître-restaurateur, peuvent bénéficier d'un crédit d'impôt égal à 50 % des dépenses qui permettent de satisfaire aux normes d'aménagement et de fonctionnement prévues par le cahier des charges relatif au titre de maître-restaurateur.
 
 Lorsque le titulaire du titre de maître-restaurateur est dirigeant d'une entreprise disposant de plusieurs établissements, le crédit d'impôt est calculé au titre des dépenses exposées par les établissements contrôlés dans le cadre de la délivrance de ce titre.
 
@@ -10,9 +10,9 @@ Lorsque le titulaire du titre de maître-restaurateur est un salarié, le crédi
 
 2. Pour l'application du 1, le dirigeant s'entend de l'exploitant pour les entreprises individuelles ou d'une personne exerçant les fonctions de gérant nommé conformément aux statuts d'une société à responsabilité limitée ou en commandite par actions, de président, directeur général, président du conseil de surveillance ou membre du directoire d'une société par actions.
 
-Le salarié titulaire du titre de maître-restaurateur doit, au 31 décembre de l'année civile au titre de laquelle le crédit d'impôt est calculé, être employé depuis au moins un mois, le cas échéant après une période d'essai, par l'entreprise et avoir conclu avec celle-ci un contrat de travail à durée indéterminée ou à durée déterminée pour une période minimale de douze mois, pour un temps de travail qui ne peut être inférieur à la durée minimale de travail définie à l'article L. 3123-14-1 du code du travail.
+Le salarié titulaire du titre de maître-restaurateur doit, au 31 décembre de l'année civile au titre de laquelle le crédit d'impôt est calculé, être employé depuis au moins un mois, le cas échéant après une période d'essai, par l'entreprise et avoir conclu avec celle-ci un contrat de travail à durée indéterminée ou à durée déterminée pour une période minimale de douze mois, pour un temps de travail qui ne peut être inférieur à la durée minimale de travail définie au premier alinéa de l'article L. 3123-7 et aux articles L. 3123-19 et L. 3123-27 du code du travail.
 
-II.-1. Les dépenses qui permettent de satisfaire aux normes d'aménagement et de fonctionnement prévues par le cahier des charges relatif au titre de maître-restaurateur et ouvrant droit au crédit d'impôt mentionné au 1 du I sont :
+II. – 1. Les dépenses qui permettent de satisfaire aux normes d'aménagement et de fonctionnement prévues par le cahier des charges relatif au titre de maître-restaurateur et ouvrant droit au crédit d'impôt mentionné au 1 du I sont :
 
 1° Les dotations aux amortissements des immobilisations permettant d'adapter les capacités de stockage et de conservation de l'entreprise à un approvisionnement majoritaire en produits frais :
 
@@ -62,18 +62,14 @@ b) ne pas avoir été ou être comprises dans la base de calcul d'un autre créd
 
 4. Les subventions publiques reçues par les entreprises à raison de dépenses ouvrant droit au crédit d'impôt sont déduites des bases de calcul de ce crédit.
 
-III.-Quelle que soit la date de clôture des exercices et quelle que soit leur durée, le crédit d'impôt mentionné au I est calculé par année civile.
+III. – Quelle que soit la date de clôture des exercices et quelle que soit leur durée, le crédit d'impôt mentionné au I est calculé par année civile.
 
-IV.-Le bénéfice du crédit d'impôt mentionné au I est subordonné au respect du règlement (UE) n° 1407/2013 de la Commission, du 18 décembre 2013, relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis.
+IV. – Le bénéfice du crédit d'impôt mentionné au I est subordonné au respect du règlement (UE) n° 1407/2013 de la Commission, du 18 décembre 2013, relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis.
 
 Pour l'application du premier alinéa, les sociétés de personnes mentionnées aux articles 8 et 238 bis L qui ne sont pas soumises à l'impôt sur les sociétés doivent également respecter le règlement (UE) n° 1407/2013 de la Commission, du 18 décembre 2013 précité. Le crédit d'impôt peut être utilisé par les associés de ces sociétés proportionnellement à leurs droits dans ces sociétés s'ils satisfont aux conditions d'application de ce même règlement et sous réserve qu'il s'agisse de redevables soumis à l'impôt sur les sociétés ou de personnes physiques participant à l'exploitation au sens du 1° bis du I de l'article 156.
 
-V.-Les I à IV s'appliquent aux entreprises dont le dirigeant ou un salarié a obtenu la délivrance du titre de maître-restaurateur entre le 15 novembre 2006 et le 31 décembre 2017.
+V. – Les I à IV s'appliquent aux entreprises dont le dirigeant ou un salarié a obtenu la délivrance du titre de maître-restaurateur entre le 15 novembre 2006 et le 31 décembre 2017.
 
-VI.-Les conditions dans lesquelles le titre de maître-restaurateur est délivré par l'autorité administrative aux dirigeants ou aux salariés et le cahier des charges est établi sont définies par décret en Conseil d'Etat.
+VI. – Les conditions dans lesquelles le titre de maître-restaurateur est délivré par l'autorité administrative aux dirigeants ou aux salariés et le cahier des charges est établi sont définies par décret en Conseil d'Etat.
 
 Un décret fixe les conditions d'application du présent article, notamment les obligations déclaratives incombant aux entreprises.
-
-NOTA :
-
-Décret n° 2014-549 du 26 mai 2014 article 1 : Au 1 du I, la référence : , 44 decies est périmée.
