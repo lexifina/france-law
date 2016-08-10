@@ -4,7 +4,9 @@ LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION DE L'INTÉRIEUR ET DE L'
 
 CONSEILLERS D'ADMINISTRATION DE L'INTÉRIEUR ET DE L'OUTRE-MER
 
-exerçant des fonctions d'encadrement ou d'expertise requérant une haute technicité et d'une importance particulière au sein de la structure d'emploi
+exerçant des fonctions d'encadrement ou d'expertise requérant une haute technicité
+
+et d'une importance particulière au sein de la structure d'emploi
 
 |
 
@@ -77,17 +79,5 @@ Chef du service de l'immigration et de l'intégration.
 |
 
 50
-
-|
-
-Préfecture d'Ille-et-Vilaine
-
-|
-
-Chargé(e) de mission pour la performance régionale sur le périmètre des préfectures de la région Bretagne.
-
-|
-
-30
 
 |

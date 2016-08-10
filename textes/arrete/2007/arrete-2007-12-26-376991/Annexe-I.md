@@ -352,9 +352,7 @@ Chef du bureau des personnels administratifs, techniques et scientifiques.
 
 |
 
-Chef du bureau de la sécurité et de la santé au travail.
-
-|
+Chef du bureau des adjoints de sécurité. |
 
 50
 

@@ -468,7 +468,7 @@ Nombre de points NBI
 
 |
 
-6
+7
 
 |
 
