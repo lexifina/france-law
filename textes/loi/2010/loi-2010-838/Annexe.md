@@ -10,7 +10,7 @@ de chaque assemblée
 
 |
 
-Président-directeur général d'Aéroports de Paris
+Présidence-direction générale d'Aéroports de Paris
 
 |
 
@@ -18,7 +18,7 @@ Commission compétente en matière de transports
 
 |
 
-Président du conseil de l'Agence d'évaluation de la recherche et de l'enseignement supérieur
+Présidence du conseil de l'Agence d'évaluation de la recherche et de l'enseignement supérieur
 
 |
 
@@ -26,7 +26,7 @@ Commission compétente en matière d'enseignement et de recherche
 
 |
 
-Président du conseil d'administration de l'Agence de financement des infrastructures de transport de France
+Présidence du conseil d'administration de l'Agence de financement des infrastructures de transport de France
 
 |
 
@@ -34,7 +34,7 @@ Commission compétente en matière de transports
 
 |
 
-Directeur général de l'Agence française de développement
+Direction générale de l'Agence française de développement
 
 |
 
@@ -42,7 +42,7 @@ Commission compétente en matière de coopération internationale
 
 |
 
-Président du conseil d'administration de l'Agence de l'environnement et de la maîtrise de l'énergie
+Présidence du conseil d'administration de l'Agence française pour la biodiversité
 
 |
 
@@ -50,7 +50,7 @@ Commission compétente en matière d'environnement
 
 |
 
-Directeur général de l'Agence nationale pour la gestion des déchets radioactifs
+Présidence du conseil d'administration de l'Agence de l'environnement et de la maîtrise de l'énergie
 
 |
 
@@ -58,7 +58,15 @@ Commission compétente en matière d'environnement
 
 |
 
-Directeur général de l'Agence nationale pour la rénovation urbaine
+Direction générale de l'Agence nationale pour la gestion des déchets radioactifs
+
+|
+
+Commission compétente en matière d'environnement
+
+|
+
+Direction générale de l'Agence nationale pour la rénovation urbaine
 
 |
 
@@ -66,7 +74,7 @@ Commission compétente en matière d'urbanisme
 
 |
 
-Président de l'Autorité de la concurrence
+Présidence de l'Autorité de la concurrence
 
 |
 
@@ -114,7 +122,7 @@ Commission compétente en matière de postes et de communications électroniques
 
 |
 
-Président de l'Autorité de sûreté nucléaire
+Présidence de l'Autorité de sûreté nucléaire
 
 |
 
@@ -122,7 +130,7 @@ Commission compétente en matière d'énergie
 
 |
 
-Gouverneur de la Banque de France
+Gouvernorat de la Banque de France
 
 |
 
@@ -130,7 +138,7 @@ Commission compétente en matière monétaire
 
 |
 
-Directeur général de la Caisse des dépôts et consignations
+Direction générale de la Caisse des dépôts et consignations
 
 |
 
@@ -138,7 +146,7 @@ Commission compétente en matière d'activités financières
 
 |
 
-Président du conseil d'administration du Centre national d'études spatiales
+Présidence du conseil d'administration du Centre national d'études spatiales
 
 |
 
@@ -146,7 +154,7 @@ Commission compétente en matière de recherche appliquée
 
 |
 
-Président du Centre national de la recherche scientifique
+Présidence du Centre national de la recherche scientifique
 
 |
 
@@ -154,7 +162,7 @@ Commission compétente en matière de recherche
 
 |
 
-Président du Comité consultatif national d'éthique pour les sciences de la vie et de la santé
+Présidence du Comité consultatif national d'éthique pour les sciences de la vie et de la santé
 
 |
 
@@ -162,7 +170,7 @@ Commission compétente en matière de santé publique
 
 |
 
-Administrateur général du Commissariat à l'énergie atomique
+Administration générale du Commissariat à l'énergie atomique
 
 |
 
@@ -170,7 +178,7 @@ Commission compétente en matière d'énergie
 
 |
 
-Président du collège de la Commission de régulation de l'énergie
+Présidence du collège de la Commission de régulation de l'énergie
 
 |
 
@@ -178,7 +186,7 @@ Commission compétente en matière d'énergie
 
 |
 
-Président de la commission de la sécurité des consommateurs
+Présidence de la commission de la sécurité des consommateurs
 
 |
 
@@ -186,11 +194,13 @@ Commission compétente en matière de consommation
 
 |
 
-Président de la Commission nationale de contrôle des techniques de renseignementCommission |
+Présidence de la Commission nationale de contrôle des techniques de renseignement
 
-permanente compétente en matière de libertés publiquesPrésident |
+|
 
-de la Commission nationale du débat public
+Commission permanente compétente en matière de libertés publiques |
+
+Présidence de la Commission nationale du débat public
 
 |
 
@@ -198,7 +208,7 @@ Commission compétente en matière d'aménagement du territoire
 
 |
 
-Président de la commission prévue au dernier alinéa de l'article 25 de la Constitution
+Présidence de la commission prévue au dernier alinéa de l'article 25 de la Constitution
 
 |
 
@@ -206,7 +216,7 @@ Commission compétente en matière de lois électorales
 
 |
 
-Président du directoire de la Compagnie nationale du Rhône
+Présidence du directoire de la Compagnie nationale du Rhône
 
 |
 
@@ -214,7 +224,7 @@ Commission compétente en matière d'énergie
 
 |
 
-Président du Conseil supérieur de l'audiovisuel
+Présidence du Conseil supérieur de l'audiovisuel
 
 |
 
@@ -222,7 +232,7 @@ Commission compétente en matière d'affaires culturelles
 
 |
 
-Contrôleur général des lieux de privation de liberté
+Contrôle général des lieux de privation de liberté
 
 |
 
@@ -230,7 +240,7 @@ Commission compétente en matière de libertés publiques
 
 |
 
-Président-directeur général d'Electricité de France
+Présidence-direction générale d'Electricité de France
 
 |
 
@@ -238,7 +248,7 @@ Commission compétente en matière d'énergie
 
 |
 
-Président-directeur général de La Française des jeux
+Présidence-direction générale de La Française des jeux
 
 |
 
@@ -246,7 +256,7 @@ Commission compétente en matière de finances publiques
 
 |
 
-Président du Haut conseil des biotechnologies
+Présidence du Haut conseil des biotechnologies
 
 |
 
@@ -254,7 +264,7 @@ Commission compétente en matière d'environnement
 
 |
 
-Président du collège de la Haute Autorité de santé
+Présidence du collège de la Haute Autorité de santé
 
 |
 
@@ -262,7 +272,7 @@ Commission compétente en matière de santé publique
 
 |
 
-Président de la Haute Autorité pour la transparence de la vie publique
+Présidence de la Haute Autorité pour la transparence de la vie publique
 
 |
 
@@ -270,13 +280,13 @@ Commission permanente compétente en matière de lois constitutionnelles
 
 |
 
-Président de l'Institut national de l'audiovisuel
+Présidence de l'Institut national de l'audiovisuel
 
 |
 
-Commission compétente en matière d'activités culturellesPrésident |
+Commission compétente en matière d'activités culturelles |
 
-de l'Institut national de la recherche agronomique
+Présidence de l'Institut national de la recherche agronomique
 
 |
 
@@ -284,7 +294,7 @@ Commission compétente en matière de recherche appliquée
 
 |
 
-Président de l'Institut national de la santé et de la recherche médicale
+Présidence de l'Institut national de la santé et de la recherche médicale
 
 |
 
@@ -292,7 +302,7 @@ Commission compétente en matière de recherche
 
 |
 
-Directeur général de l'Institut de radioprotection et de sûreté nucléaire
+Direction générale de l'Institut de radioprotection et de sûreté nucléaire
 
 |
 
@@ -300,7 +310,7 @@ Commission compétente en matière d'environnement
 
 |
 
-Directeur général de l'institution nationale publique mentionnée à l'article L. 5312-1 du code du travail (Pôle emploi)
+Direction générale de l'institution nationale publique mentionnée à l'article L. 5312-1 du code du travail (Pôle emploi)
 
 |
 
@@ -308,7 +318,7 @@ Commission compétente en matière d'emploi
 
 |
 
-Président-directeur général de Météo-France
+Présidence-direction générale de Météo-France
 
 |
 
@@ -316,7 +326,7 @@ Commission compétente en matière d'environnement
 
 |
 
-Directeur général de l'Office français de protection des réfugiés et apatrides
+Direction générale de l'Office français de protection des réfugiés et apatrides
 
 |
 
@@ -324,7 +334,7 @@ Commission compétente en matière de libertés publiques
 
 |
 
-Directeur général de l'Office national des forêts
+Direction générale de l'Office national des forêts
 
 |
 
@@ -332,7 +342,7 @@ Commission compétente en matière d'agriculture
 
 |
 
-Directeur général de la société anonyme Bpifrance
+Direction générale de la société anonyme Bpifrance
 
 |
 
@@ -340,7 +350,7 @@ Commission compétente en matière d'activités financières
 
 |
 
-Président du conseil d'administration de La Poste
+Présidence du conseil d'administration de La Poste
 
 |
 
@@ -348,7 +358,7 @@ Commission compétente en matière de postes et communications
 
 |
 
-Président-directeur général de la Régie autonome des transports parisiens
+Présidence-direction générale de la Régie autonome des transports parisiens
 
 |
 
@@ -356,7 +366,7 @@ Commission compétente en matière de transports
 
 |
 
-Président du conseil de surveillance de la SNCF
+Présidence du conseil de surveillance de la SNCF
 
 |
 
@@ -364,7 +374,7 @@ Commission compétente en matière de transports
 
 |
 
-Président du directoire de la SNCF
+Présidence du directoire de la SNCF
 
 |
 
@@ -372,7 +382,7 @@ Commission compétente en matière de transports
 
 |
 
-Président délégué du directoire de la SNCF
+Présidence déléguée du directoire de la SNCF
 
 |
 
@@ -380,7 +390,7 @@ Commission compétente en matière de transports
 
 |
 
-Président du conseil d'administration de Voies navigables de France
+Présidence du conseil d'administration de Voies navigables de France
 
 |
 
