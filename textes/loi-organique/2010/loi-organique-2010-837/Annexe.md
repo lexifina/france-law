@@ -14,7 +14,7 @@ Aéroports de Paris
 
 |
 
-Président-directeur général
+Présidence-direction générale
 
 |
 
@@ -22,7 +22,7 @@ Agence d'évaluation de la recherche et de l'enseignement supérieur
 
 |
 
-Président du conseil
+Présidence du conseil
 
 |
 
@@ -30,7 +30,7 @@ Agence de financement des infrastructures de transport de France
 
 |
 
-Président du conseil d'administration
+Présidence du conseil d'administration
 
 |
 
@@ -38,7 +38,15 @@ Agence française de développement
 
 |
 
-Directeur général
+Direction générale
+
+|
+
+Agence française pour la biodiversité
+
+|
+
+Présidence du conseil d'administration
 
 |
 
@@ -46,7 +54,7 @@ Agence de l'environnement et de la maîtrise de l'énergie
 
 |
 
-Président du conseil d'administration
+Présidence du conseil d'administration
 
 |
 
@@ -54,7 +62,7 @@ Agence nationale pour la gestion des déchets radioactifs
 
 |
 
-Directeur général
+Direction générale
 
 |
 
@@ -62,7 +70,7 @@ Agence nationale pour la rénovation urbaine
 
 |
 
-Directeur général
+Direction générale
 
 |
 
@@ -70,7 +78,7 @@ Autorité de la concurrence
 
 |
 
-Président
+Présidence
 
 |
 
@@ -78,7 +86,7 @@ Autorité de contrôle des nuisances sonores aéroportuaires
 
 |
 
-Président
+Présidence
 
 |
 
@@ -86,7 +94,7 @@ Autorité des marchés financiers
 
 |
 
-Président
+Présidence
 
 |
 
@@ -94,7 +102,7 @@ Autorité des normes comptables
 
 |
 
-Président
+Présidence
 
 |
 
@@ -102,7 +110,7 @@ Autorité de régulation des activités ferroviaires
 
 |
 
-Président
+Présidence
 
 |
 
@@ -110,7 +118,7 @@ Autorité de régulation des communications électroniques et des postes
 
 |
 
-Président
+Présidence
 
 |
 
@@ -118,7 +126,7 @@ Autorité de sûreté nucléaire
 
 |
 
-Président
+Présidence
 
 |
 
@@ -126,15 +134,13 @@ Banque de France
 
 |
 
-Gouverneur
-
-|
+Gouvernorat |
 
 Caisse des dépôts et consignations
 
 |
 
-Directeur général
+Direction générale
 
 |
 
@@ -142,7 +148,7 @@ Centre national d'études spatiales
 
 |
 
-Président du conseil d'administration
+Présidence du conseil d'administration
 
 |
 
@@ -150,7 +156,7 @@ Centre national de la recherche scientifique
 
 |
 
-Président
+Présidence
 
 |
 
@@ -158,7 +164,7 @@ Comité consultatif national d'éthique pour les sciences de la vie et de la san
 
 |
 
-Président
+Présidence
 
 |
 
@@ -166,15 +172,13 @@ Commissariat à l'énergie atomique
 
 |
 
-Administrateur général
-
-|
+Administration générale |
 
 Commission de régulation de l'énergie
 
 |
 
-Président du collège
+Présidence du collège
 
 |
 
@@ -182,7 +186,7 @@ Commission de la sécurité des consommateurs
 
 |
 
-Président
+Présidence
 
 |
 
@@ -190,7 +194,7 @@ Commission nationale de contrôle des techniques de renseignement
 
 |
 
-Président
+Présidence
 
 |
 
@@ -198,7 +202,7 @@ Commission nationale du débat public
 
 |
 
-Président
+Présidence
 
 |
 
@@ -206,7 +210,7 @@ Commission prévue au dernier alinéa de l'article 25 de la Constitution
 
 |
 
-Président
+Présidence
 
 |
 
@@ -214,7 +218,7 @@ Compagnie nationale du Rhône
 
 |
 
-Président du directoire
+Présidence du directoire
 
 |
 
@@ -222,7 +226,7 @@ Conseil supérieur de l'audiovisuel
 
 |
 
-Président
+Présidence
 
 |
 
@@ -230,7 +234,7 @@ Contrôleur général des lieux de privation de liberté
 
 |
 
-Contrôleur général
+Contrôle général
 
 |
 
@@ -238,7 +242,7 @@ Electricité de France
 
 |
 
-Président-directeur général
+Présidence-direction générale
 
 |
 
@@ -246,7 +250,7 @@ La Française des jeux
 
 |
 
-Président-directeur général
+Présidence-direction générale
 
 |
 
@@ -254,7 +258,7 @@ Haut conseil des biotechnologies
 
 |
 
-Président
+Présidence
 
 |
 
@@ -262,7 +266,7 @@ Haute Autorité pour la transparence de la vie publique
 
 |
 
-Président
+Présidence
 
 |
 
@@ -270,7 +274,7 @@ Haute Autorité de santé
 
 |
 
-Président du collège
+Présidence du collège
 
 |
 
@@ -278,7 +282,7 @@ Institut national de la recherche agronomique
 
 |
 
-Président
+Présidence
 
 |
 
@@ -286,7 +290,7 @@ Institut national de la santé et de la recherche médicale
 
 |
 
-Président
+Présidence
 
 |
 
@@ -294,7 +298,7 @@ Institut de radioprotection et de sûreté nucléaire
 
 |
 
-Directeur général
+Direction générale
 
 |
 
@@ -302,7 +306,7 @@ Institution nationale publique mentionnée à l'article L. 5312-1 du code du tra
 
 |
 
-Directeur général
+Direction générale
 
 |
 
@@ -310,7 +314,7 @@ Météo-France
 
 |
 
-Président-directeur général
+Présidence-direction générale
 
 |
 
@@ -318,7 +322,7 @@ Office français de protection des réfugiés et apatrides
 
 |
 
-Directeur général
+Direction générale
 
 |
 
@@ -326,7 +330,7 @@ Office national des forêts
 
 |
 
-Directeur général
+Direction générale
 
 |
 
@@ -334,7 +338,7 @@ Société anonyme BPI-Groupe
 
 |
 
-Directeur général
+Direction générale
 
 |
 
@@ -342,7 +346,7 @@ La Poste
 
 |
 
-Président du conseil d'administration
+Présidence du conseil d'administration
 
 |
 
@@ -350,17 +354,17 @@ Régie autonome des transports parisiens
 
 |
 
-Président-directeur général
+Présidence-direction générale
 
 |
 
 SNCF |
 
-Président du conseil de surveillance
+Présidence du conseil de surveillance
 
-Président du directoire
+Présidence du directoire
 
-Président délégué du directoire
+Présidence déléguée du directoire
 
 |
 
@@ -368,6 +372,6 @@ Voies navigables de France
 
 |
 
-Président du conseil d'administration
+Présidence du conseil d'administration
 
 |
