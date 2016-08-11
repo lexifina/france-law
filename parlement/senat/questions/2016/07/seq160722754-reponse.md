@@ -1,0 +1,9 @@
+# Réponse à la question SEQ160722754
+
+- Question : [SEQ160722754](seq160722754.md) — Nouveau dispositif de notation des agents communaux
+
+## Réponse
+
+*Fonction publique, JO du 2016-08-11, page 3514*
+
+Les conditions dans lesquelles se déroule l'entretien professionnel des fonctionnaires territoriaux ont été précisées par le décret n° 2014-1526 du 16 décembre 2014 à la suite de la modification de l'article 76 de la loi statutaire du 26 janvier 1984 par la loi du 27 janvier 2014. Aux termes de cet article, l'entretien doit être conduit par le supérieur hiérarchique direct de l'agent. Dans les communes comprenant un seul agent, c'est au maire qu'il appartient de mener cet entretien, de la même façon qu'il devait procéder à la notation. S'agissant des allègements apportés, les conditions de délai spécifiées par le décret du 16 décembre 2014 ont été simplifiées par rapport à celles prévues pendant la période d'expérimentation de l'entretien professionnel entre 2010 et 2014. En effet, pendant cette période, l'autorité territoriale avait dix jours pour notifier à l'agent le compte-rendu visé par elle, le cas échéant avec ses observations : ce délai avait entraîné des difficultés d'application signalées par les employeurs territoriaux. Le Gouvernement a pris en compte ces remarques et a assoupli les délais. Ainsi, le décret du 16 décembre 2014 fixe un délai de 15 jours pour que le compte-rendu de l'entretien professionnel soit adressé à l'agent. Celui-ci le complète alors de ses observations, puis il le fait viser par l'autorité territoriale, sans condition de délai, avant versement au dossier. Enfin, si ses modalités pratiques peuvent être simples, l'entretien professionnel annuel est un acte de management important et utile, que ce soit dans l'administration ou dans une entreprise privée.
