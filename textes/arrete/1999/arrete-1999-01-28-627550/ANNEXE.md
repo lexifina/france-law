@@ -54,7 +54,7 @@ Article 7
 
 Le ramasseur agréé doit procéder dans un délai de quinze jours à l'enlèvement de tout lot d'huiles usagées supérieur à 600 litres qui lui est proposé. Pour tenir compte du contexte local, le préfet pourra accorder un délai d'enlèvement supérieur à quinze jours après avoir pris l'avis du ministre chargé de l'environnement. Tout enlèvement d'un lot d'huiles usagées donne lieu à l'établissement d'un bon d'enlèvement par le ramasseur, qui le remet au détenteur. Ce bon d'enlèvement doit mentionner les quantités, la qualité des huiles collectées et, le cas échéant, le prix de reprise.
 
-En aucun cas, il ne pourra être exigé du détenteur une rétribution pour l'enlèvement des huiles qui ne contiennent pas plus de 5 % d'eau pour les qualités " moteurs ".
+L'enlèvement des huiles usagées qui ne contiennent pas plus de 5 % d'eau pour les qualités " moteurs " est réalisé à titre gratuit dans les départements d'outre-mer et dans les collectivités d'outre-mer où le code de l'environnement s'applique, tant que les ramasseurs agréés d'huiles usagées implantés dans ces départements et ces collectivités bénéficient d'un régime d'aide.
 
 Article 8
 
