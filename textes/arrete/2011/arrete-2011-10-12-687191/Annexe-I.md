@@ -42,7 +42,9 @@ I. - En primo-prescription :
 
 - nalbuphine, ampoules dosées à 20 mg. La prescription est réalisée dans le cadre d'un protocole mis en place avec le médecin anesthésiste-réanimateur. L'usage est limité au début du travail et à une seule ampoule par patiente ;
 
-11° Anti-inflammatoires non stéroïdiens en post-partum immédiat ;
+- association de paracétamol et de poudre d'opium uniquement pour la prise en charge de la douleur dans le cadre de l'interruption de grossesse par voie médicamenteuse (IVG) ;
+
+11° Anti-inflammatoires non stéroïdiens (AINS) uniquement pour la prise en charge de la douleur en post-partum immédiat et dans le cadre de l'IVG, à l'exclusion des AINS indiqués spécifiquement dans la prise en charge symptomatique d'affections rhumatismales ;
 
 12° Antiviraux en prévention des récurrences d'herpès génital en fin de grossesse ;
 
@@ -80,13 +82,13 @@ I. - En primo-prescription :
 
 24° Mélange équimoléculaire oxygène protoxyde d'azote exclusivement en milieu hospitalier, et sous réserve d'une formation adaptée ;
 
-25° Vaccins sous forme monovalente ou associés contre les pathologies suivantes : tétanos, diphtérie, poliomyélite, coqueluche (vaccin acellulaire), rougeole, oreillons, rubéole, hépatite B, grippe, affections liées au papillomavirus humain, infections invasives par le méningocoque C ;
+25° Vaccins sous forme monovalente ou associés contre les pathologies suivantes : tétanos, diphtérie, poliomyélite, coqueluche, rougeole, oreillons, rubéole, hépatite B, grippe, infections à papillomavirus humains, infections invasives à méningocoque C, varicelle ;
 
 26° Immunoglobulines anti-D ;
 
 27° Produits de substitution nicotinique ;
 
-28° Salbutamol par voies orale et rectale.
+28° Les médicaments anti-progestatifs et prostaglandines nécessaires à la réalisation de l'interruption volontaire de grossesse par voie médicamenteuse.
 
 II. - Les sages-femmes sont autorisées à renouveler la prescription faite par un médecin des médicaments suivants :
 
