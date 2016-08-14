@@ -115,3 +115,53 @@ Conformément aux dispositions des règlements (CE) n° 1907/90 et n° 2295/2003
 - la description détaillée de l'ensemble des locaux, de l'équipement technique approprié pour le mirage, le tri et le calibrage des œufs ;
 
 - les procédures de fonctionnement permettant le classement des œufs par catégorie de qualité et de poids.
+
+6° Cas particulier des ateliers collectifs
+
+Un règlement intérieur décrit les conditions d'organisation et de fonctionnement de chacun des exploitants au sein de la structure. Le règlement intérieur doit comporter, notamment :
+
+- les règles d'entrée de tout nouvel utilisateur et les règles d'exclusion d'un exploitant ;
+
+- les obligations de chaque exploitant, notamment en matière de formation et de respect du plan de maîtrise sanitaire ;
+
+- les modalités d'utilisation par chaque exploitant de l'atelier, notamment des locaux communs ;
+
+- les modalités d'utilisation de la marque d'identification si elle est attribuée collectivement à l'atelier collectif ;
+
+- les modalités d'application des procédures mutualisées (exemples : lutte contre les nuisibles, plan de nettoyage-désinfection, organisation de la maintenance des locaux, des équipements et du matériel...) ;
+
+- un engagement de chaque exploitant à transmettre sans délai au responsable de l'entité collective les résultats d'autocontrôles ou toute autre information lui indiquant que les denrées alimentaires ou leur environnement de production ne répondent pas aux exigences de la réglementation en hygiène alimentaire applicable ;
+
+- une procédure de gestion des non-conformités mise en œuvre par le responsable de l'entité collective et le(s) exploitant(s) concerné(s) ;
+
+- un engagement à assurer une transparence des résultats d'autocontrôles vis-à-vis de tous les exploitants de l'atelier collectif ;
+
+- un planning d'utilisation de l'atelier collectif, amené à évoluer si besoin.
+
+7° Cas particulier des abattoirs. - Exigences relatives à la protection des animaux
+
+Des modes opératoires normalisés sont définis pour :
+
+- le déchargement, l'observation des animaux, l'examen des informations de la chaîne alimentaire (ICA) et les critères du premier tri des animaux ;
+
+- l'hébergement et les manipulations ;
+
+- l'immobilisation ;
+
+- l'étourdissement et le contrôle de son efficacité ;
+
+- la mise à mort ;
+
+- la gestion des animaux à problèmes.
+
+Les MON décrivent, pour chaque étape, les quatre points suivants :
+
+- le fonctionnement normal ;
+
+- les modalités du contrôle interne ;
+
+- les anomalies envisageables ;
+
+- les actions correctives prévues pour y remédier.
+
+Les modalités du contrôle interne doivent être conformes aux prescriptions de l'article 16 du règlement 1099/2009.
