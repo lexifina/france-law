@@ -18,7 +18,7 @@ d) Ingénieur hospitalier en chef de classe normale de l'Assistance publique-hô
 
 a) Psychologues de classe normale ;
 
-b) Sages-femmes de classe normale ;
+b) Sages-femmes des hôpitaux du premier grade ;
 
 c) Infirmiers en soins généraux du premier grade du corps des infirmiers en soins généraux et spécialisés ;
 
@@ -30,7 +30,11 @@ f) Puéricultrices du deuxième grade du corps des infirmiers en soins générau
 
 g) Cadres socio-éducatifs du corps des cadres socio-éducatifs ;
 
-3° Personnels administratifs :
+3° Personnels de rééducation :
+
+a) Ergothérapeutes de classe normale ;
+
+4° Personnels administratifs :
 
 a) Attachés du corps des attachés d'administration hospitalière.
 
@@ -46,29 +50,27 @@ c) Techniciens de laboratoire de classe normale ;
 
 d) Diététiciens de classe normale ;
 
-e) Ergothérapeutes de classe normale ;
+e) Masseurs-kinésithérapeutes de classe normale ;
 
-f) Masseurs-kinésithérapeutes de classe normale ;
+f) Orthophonistes de classe normale ;
 
-g) Orthophonistes de classe normale ;
+g) Orthoptistes de classe normale ;
 
-h) Orthoptistes de classe normale ;
+h) Pédicures-podologues de classe normale ;
 
-i) Pédicures-podologues de classe normale ;
+i) Psychomotriciens de classe normale ;
 
-j) Psychomotriciens de classe normale ;
+j) Animateurs ;
 
-k) Animateurs ;
+k) Assistants socio-éducatifs ;
 
-l) Assistants socio-éducatifs ;
+l) Conseillers en économie sociale et familiale ;
 
-m) Conseillers en économie sociale et familiale ;
+m) Educateurs de jeunes enfants de classe normale ;
 
-n) Educateurs de jeunes enfants de classe normale ;
+n) Educateurs techniques spécialisés de classe normale ;
 
-o) Educateurs techniques spécialisés de classe normale ;
-
-p) Moniteurs-éducateurs.
+o) Moniteurs-éducateurs.
 
 Catégorie C
 
