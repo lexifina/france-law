@@ -1,0 +1,9 @@
+# Réponse à la question n° 32532
+
+- Question : [32532](32532.md) — Question n° 32532 — organisation territoriale; Cour des comptes; recommandations
+
+## Réponse
+
+*JO du 2016-08-16*
+
+Le Gouvernement a engagé un certain nombre de travaux destinés à moderniser et simplifier la gestion des ressources humaines. Dans le cadre du comité interministériel pour la modernisation de l'action publique (CIMAP), il a tout d'abord décidé de restaurer une articulation efficace entre le niveau national et le niveau déconcentré et d'assurer une plus grande fluidité des échanges entre le niveau régional et départemental. Cette décision implique une inflexion de la conduite du dialogue de gestion et une plus grande déconcentration des responsabilités et des moyens. Dans cet esprit, la décision a été prise de désigner les préfets de région comme responsables des budgets opérationnels de programme (BOP) gérés par les services placés sous leur autorité. Le ministre chargé de l'économie et le ministre chargé du budget ont récemment signé et diffusé une circulaire destinée à mettre en œuvre cette décision. Complémentairement à cette décision, a été expérimentée une préparation anticipée du dialogue de gestion entre les responsables de programme et les préfets de région, afin de laisser une plus grande place aux discussions concernant la répartition des emplois et des moyens entre les administrations centrales et les services déconcentrés. Cette expérimentation concerne trois régions métropolitaines (Bretagne, Aquitaine et Rhône-Alpes) et deux régions d'Outre-mer (La Réunion et la Martinique). Ces décisions traduisent la volonté du Gouvernement de moderniser la gestion des ressources humaines et de donner de la visibilité aux décideurs territoriaux sur les perspectives d'évolution des moyens qui leur sont alloués pour accomplir les missions qui leur sont confiées.
