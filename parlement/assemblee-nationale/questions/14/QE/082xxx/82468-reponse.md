@@ -1,0 +1,9 @@
+# Réponse à la question n° 82468
+
+- Question : [82468](82468.md) — Question n° 82468 — revendications
+
+## Réponse
+
+*JO du 2016-08-16*
+
+L'aéroport de Paris-Charles-de-Gaulle relève intégralement de la zone d'activité des taxis parisiens en vertu de l'arrêté ministériel du 10 novembre 1972 modifié. Cet arrêté délimite la zone des taxis parisiens. Celle-ci comprend Paris, 80 communes des trois départements de la petite couronne et les six parties de communes correspondant à l'aéroport de Roissy-Charles-de-Gaulle et au parc des expositions de Villepinte. Ainsi, les communes des départements des Yvelines, du Val d'Oise, de l'Essonne, et de la Seine-et-Marne ne relèvent pas de la zone des taxis parisiens. Il en est de même pour 43 communes des départements de la petite couronnequi ne sont pas mentionnées par l'arrêté du 10 novembre 1972. Les autorisations de stationnement sont délivrées par les maires dans chacune de ces communes. Les particularités de la région parisienne, sa géographie et sa démographie, l'existence d'infrastructures lourdes, expliquent que le pouvoir réglementaire ait déterminé une zone spécifique (la zone parisienne) regroupant Paris, 80 communes, l'aéroport de Roissy et le parc des expositions de Villepinte. Concernant les refus de prise en charge que vous évoquez, les services de police continuent de mener leur action, en veillant à faire respecter les règles relatives à l'exercice de la profession de chauffeur de taxi, tout en demeurant particulièrement mobilisés dans la lutte contre les fraudes à la prise en charge de clients. Actuellement, l'évolution de cette répartition n'est plus à l'étude. Toutefois, cette question pourra faire l'objet de discussions dans la nouvelle instance de concertation interdépartementale du transport public particulier de personnes qui va se mettre en place d'ici la fin de l'année 2016.
