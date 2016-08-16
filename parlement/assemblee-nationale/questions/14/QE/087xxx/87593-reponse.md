@@ -1,0 +1,9 @@
+# Réponse à la question n° 87593
+
+- Question : [87593](87593.md) — Question n° 87593 — situation financière; dette; perspectives
+
+## Réponse
+
+*JO du 2016-08-16*
+
+Le Gouvernement est conscient de l'ampleur de la dette du gestionnaire d'infrastructure et de la nécessité de fournir d'importants efforts pour la stabiliser. Un des principaux enjeux de la réforme ferroviaire est ainsi de mettre en place les conditions permettant de traiter cette question. La loi portant réforme ferroviaire a de ce fait acté l'objectif de stabilisation de la dette dans un délai de 10 ans. La création du gestionnaire d'infrastructure unifié permet de dégager d'importants gains de productivité en éliminant les interfaces entre l'ex-RFF et son gestionnaire d'infrastructure délégué, qui étaient une source évidente d'inefficacité. Les règles de financement des investissements de développement du réseau ferré national seront également encadrées en vue de limiter l'accroissement de la dette de SNCF Réseau par le mécanisme de la règle d'or mis en place par la loi. L'activation des leviers nécessaires au redressement de la situation financière de SNCF Réseau sera concrétisée dans le futur contrat de performance de l'établissement. Enfin, comme l'a indiqué le Premier ministre lors de la séance des questions au Gouvernement du 8 juin dernier, la loi portant réforme ferroviaire prévoit l'établissement d'un rapport relatif à la trajectoire de dette de SNCF Réseau et les solutions qui pourraient être mises en oeuvre afin de traiter la dette historique du système ferroviaire. Ce rapport examinera les différentes hypothèses de reprise de tout ou partie de cette dette par l'État, et la création d'une caisse d'amortissement ainsi que leurs effets. Ce rapport est en cours de rédaction. Il sera remis fin août prochain aux Assemblées. Le législateur disposera ainsi de l'ensemble des données afin de prendre une décision.
