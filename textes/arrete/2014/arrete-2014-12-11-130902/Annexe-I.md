@@ -34,10 +34,6 @@ Note 1. - A seule fin d'uniformiser les statistiques, l'OACI considère comme bl
 
 Note 2. - Un aéronef est considéré comme disparu lorsque les recherches officielles ont pris fin sans que l'épave ait été repérée.
 
-Note 3. - Le type de système d'aéronef sans pilote qui doit faire l'objet d'une enquête est indiqué au § 5.1.
-
-Note 4. - Des éléments indicatifs sur la détermination des dommages causés aux aéronefs figurent dans le Supplément F.
-
 Aérodyne (cf. Doc OACI 9713, définition H26) : Tout aéronef dont la sustentation en vol est obtenue principalement par des forces aérodynamiques.
 
 Aérostat (cf. Doc OACI 9713, définition L93) : Tout aéronef dont la sustentation est principalement due à sa flottabilité dans l'air.
