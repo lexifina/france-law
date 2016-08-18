@@ -176,26 +176,6 @@ X
 
 |
 
-Rhinolophe de Méhély (Rhinolophus mehelyi)
-
-|
-
-1302
-
-|
-
-|
-
-|
-
-X
-
-|
-
-|
-
-|
-
 Rhinolophe euryale (Rhinolophus euryale)
 
 |
@@ -222,7 +202,7 @@ X
 
 |
 
-Vespertlionidae
+Vespertilionidae
 
 |
 
@@ -402,8 +382,6 @@ Vespertilion des marais (Myotis dasycneme)
 
 |
 
-X
-
 |
 
 X
@@ -510,9 +488,15 @@ Loup (Canis lupus)
 
 |
 
-|
+X
 
 |
+
+X
+
+|
+
+X
 
 |
 
@@ -582,6 +566,8 @@ Loutre d'Europe (lutra futra)
 
 |
 
+X
+
 |
 
 X
@@ -647,6 +633,8 @@ Lynx boréal (Lynx lynx)
 X
 
 |
+
+X
 
 |
 
@@ -1086,11 +1074,11 @@ Lacertidae
 
 |
 
-Lézard de montagnard pyrénéen (Lacerta bonnali)
+Lézard des Pyrénées (Iberolacerta bonnali)
 
 |
 
-1995
+5259
 
 |
 
@@ -1122,11 +1110,11 @@ Gekkonidae
 
 |
 
-Phyllodactyle d'Europe (Phyllodactylus europaeus)
+Phyllodactyle d'Europe (Euleptes europaea)
 
 |
 
-1229
+6137
 
 |
 
@@ -1200,11 +1188,11 @@ Salamandridae
 
 |
 
-Spélerpès de Strinati (Hydromantes strinatii)
+Spélerpès de Strinati (Speleomantes strinatii)
 
 |
 
-1994
+6211
 
 |
 
@@ -1556,21 +1544,17 @@ X
 
 |
 
-Truite à grosses taches (Salmo macrostigma)
+Truite à grosses taches (Salmo cettii)
 
 |
 
-1108
+5349 |
 
 |
 
 |
 
-|
-
-X
-
-|
+X |
 
 |
 
@@ -1589,26 +1573,6 @@ Cyprinidae
 |
 
 |
-
-|
-
-|
-
-Aspe (Aspius aspius)
-
-|
-
-1130
-
-|
-
-|
-
-|
-
-|
-
-X
 
 |
 
@@ -1640,37 +1604,11 @@ X
 
 |
 
-Blageon (Leuciscus soufia)
+Blageon (Telestes souffia)
 
 |
 
-1131
-
-|
-
-|
-
-X
-
-|
-
-X
-
-|
-
-X
-
-|
-
-|
-
-Bouvière (Rhodeus sericeus amarus)
-
-|
-
-1134
-
-|
+6147
 
 |
 
@@ -1688,11 +1626,37 @@ X
 
 |
 
-Toxostome (Chondrostoma toxostoma)
+|
+
+Bouvière (Rhodeus amarus)
 
 |
 
-1126
+5339
+
+|
+
+|
+
+|
+
+X
+
+|
+
+X
+
+|
+
+X
+
+|
+
+Toxostome (Parachondrostoma toxostoma)
+
+|
+
+6150
 
 |
 
@@ -1934,6 +1898,102 @@ X
 
 |
 
+Chabot de l'Hérault (Cottus rondeletti)
+
+|
+
+5314 |
+
+|
+
+|
+
+X |
+
+|
+
+|
+
+Cottus perifretum
+
+|
+
+5315 |
+
+|
+
+|
+
+|
+
+X |
+
+X |
+
+Chabot d'Auvergne (Cottus duranii)
+
+|
+
+5316 |
+
+|
+
+|
+
+|
+
+X |
+
+|
+
+Chabot des Pyrénées (Cottus hispaniolensis)
+
+|
+
+5317 |
+
+|
+
+X |
+
+|
+
+X |
+
+X |
+
+Chabot du Béarn (Cottus aturi)
+
+|
+
+5318 |
+
+|
+
+X |
+
+|
+
+|
+
+X |
+
+Chabot du Rhin (Cottus rhenanus)
+
+|
+
+5325 |
+
+|
+
+|
+
+|
+
+X |
+
+|
+
 Invertébrés
 
 |
@@ -1950,7 +2010,7 @@ Invertébrés
 
 |
 
-Artropoda
+Arthropoda
 
 Crustacea
 
@@ -2012,7 +2072,7 @@ Coleoptera
 
 |
 
-Barbot (Osmoderma eremita)
+Pique prune (Osmoderma eremita)
 
 |
 
@@ -2050,8 +2110,6 @@ Carabe variolé (Carabus variolosus)
 
 |
 
-X
-
 |
 
 |
@@ -2059,6 +2117,22 @@ X
 X
 
 |
+
+|
+
+Cucujus vermillon (Cucujus cinnaberinus)
+
+|
+
+1086 |
+
+|
+
+|
+
+|
+
+X |
 
 |
 
@@ -2101,6 +2175,8 @@ Graphodère à deux lignes (Graphoderus bilineatus)
 |
 
 |
+
+X
 
 |
 
@@ -2258,17 +2334,11 @@ Lepidoptera
 
 |
 
-Azuré des paluds (Maculinea nausithous)
+Azuré des paluds (Phengaris nausithous)
 
 |
 
-1061
-
-|
-
-|
-
-X
+6179
 
 |
 
@@ -2280,11 +2350,17 @@ X
 
 |
 
-Azuré de la Sanguisorbe (Maculinea teleius)
+X
 
 |
 
-1059
+|
+
+Azuré de la Sanguisorbe (Phengaris teleius)
+
+|
+
+6177
 
 |
 
@@ -2293,6 +2369,8 @@ Azuré de la Sanguisorbe (Maculinea teleius)
 X
 
 |
+
+X
 
 |
 
@@ -2314,9 +2392,9 @@ Cuivré de la Bistorte (Lycaena helle)
 
 |
 
-|
-
 X
+
+|
 
 |
 
@@ -2350,11 +2428,11 @@ X
 
 |
 
-Damier du frêne (Hypodryas materna)
+Damier du frêne (Hypodryas maturna)
 
 |
 
-1052
+6169
 
 |
 
@@ -2396,11 +2474,11 @@ X
 
 |
 
-Ecaille chinée (Callimorpha quadripunctaria)
+Ecaille chinée (Euplagia quadripunctaria)
 
 |
 
-1078
+6199
 
 |
 
@@ -2448,7 +2526,7 @@ X
 
 |
 
-Gortyna borelii lunata
+Noctuelle des Peucédans (Gortyna borelii lunata)
 
 |
 
@@ -2458,23 +2536,21 @@ Gortyna borelii lunata
 
 |
 
-X
-
 |
 
 X
 
 |
 
-|
+X |
+
+X |
+
+Isabelle de France, Papillon vitrail (Actias isabellae)
 
 |
 
-Isabelle de France (Graellsia isabellae)
-
-|
-
-1075
+6170
 
 |
 
@@ -2682,8 +2758,6 @@ Gomphe serpentin (Ophiogomphus cecilia)
 
 |
 
-X
-
 |
 
 X
@@ -2748,7 +2822,7 @@ Gastropoda
 
 |
 
-Anisus vorticulus |
+Planorbe naine (Anisus vorticulus) |
 
 4056
 
@@ -2788,7 +2862,23 @@ X
 
 |
 
-Vertigo angustior
+Vertigo septentrional (Vertigo geyeri)
+
+|
+
+1013 |
+
+|
+
+X |
+
+|
+
+X |
+
+|
+
+Vertigo étroit (Vertigo angustior)
 
 |
 
@@ -2798,7 +2888,11 @@ Vertigo angustior
 
 |
 
+X
+
 |
+
+X
 
 |
 
@@ -2810,7 +2904,23 @@ X
 
 |
 
-Vertigo mouliniona
+Vertigo édenté (Vertigo genesii)
+
+|
+
+1015 |
+
+|
+
+|
+
+|
+
+X |
+
+|
+
+Vertigo de Des Moulins (Vertigo moulinsiana)
 
 |
 
@@ -2870,7 +2980,7 @@ X
 
 |
 
-Unio crassus
+Mulette épaisse (Unio crassus)
 
 |
 
@@ -3012,6 +3122,8 @@ Trichomanes remarquable (Trichomanes speciosum)
 
 |
 
+X
+
 |
 
 X
@@ -3096,7 +3208,7 @@ X
 
 |
 
-Marsilée pubescent (Marsilea strigosa)
+Marsilée pubescente (Marsilea strigosa)
 
 |
 
@@ -3116,7 +3228,7 @@ X
 
 |
 
-Opioglossacea
+Ophioglossaceae
 
 |
 
@@ -3132,7 +3244,7 @@ Opioglossacea
 
 |
 
-Botrychium simple (Botrychium simplex)
+Botryche simple (Botrychium simplex)
 
 |
 
@@ -3350,11 +3462,13 @@ Caryophyllaceae
 
 |
 
-Herniaire de Litardière (Herniana latifolia litardierei)
+Herniaire à feuilles larges, sous-espèce de Litardière
+
+(Herniaria litardierei)
 
 |
 
-1466
+6217
 
 |
 
@@ -3414,7 +3528,7 @@ X
 
 |
 
-Compositae
+Asteraceae
 
 |
 
@@ -3496,11 +3610,11 @@ X
 
 Serratule à feuilles de chanvre d'eau
 
-(Serratula lycopifolia)
+(Klasea lycopifolia)
 
 |
 
-4087
+6282
 
 |
 
@@ -3518,7 +3632,7 @@ X
 
 |
 
-Cruciferae
+Brassicaceae
 
 |
 
@@ -3656,7 +3770,7 @@ X
 
 |
 
-Gramineae
+Poaceae
 
 |
 
@@ -3732,7 +3846,7 @@ X
 
 |
 
-Labiatae
+Lamiaceae
 
 |
 
@@ -3762,13 +3876,7 @@ X
 
 |
 
-|
-
-|
-
-|
-
-Leguminosae
+X
 
 |
 
@@ -3776,6 +3884,14 @@ Leguminosae
 
 |
 
+Fabaceae
+
+|
+
+|
+
+|
+
 |
 
 |
@@ -3784,11 +3900,11 @@ Leguminosae
 
 |
 
-Astragale queue de renard (Astragalus centralpinus)
+Queue de renard des Alpes (Astragalus alopecurus)
 
 |
 
-1557
+6269
 
 |
 
@@ -3944,7 +4060,7 @@ Plumbaginaceae
 
 |
 
-Armeria de Soleirol (Armeria soleirolii)
+Armérie de Soleirol (Armeria soleirolii)
 
 |
 
@@ -4060,7 +4176,7 @@ X
 
 |
 
-Soldanelle velue (Soldane(la villosa)
+Soldanelle velue (Soldane (la villosa)
 
 |
 
@@ -4096,11 +4212,11 @@ Ranunculaceae
 
 |
 
-Aconit de Corse (Aconitum corsicum)
+Aconit de Corse (Aconitum napellus ssp. corsicum)
 
 |
 
-1475
+6313
 
 |
 
@@ -4232,7 +4348,7 @@ X
 
 |
 
-Scrophulariaceae
+Orobanchaceae
 
 |
 
@@ -4254,13 +4370,27 @@ Euphraise naine (Euphrasia nana) |
 
 |
 
-*
-
 |
 
 |
 
 X
+
+|
+
+|
+
+|
+
+Plantaginaceae
+
+|
+
+|
+
+|
+
+|
 
 |
 
@@ -4288,7 +4418,7 @@ X
 
 |
 
-Umbelliferae
+Apiaceae
 
 |
 
@@ -4333,8 +4463,6 @@ Angelique à fruits variables (Angelica heterocarpa)
 1607
 
 |
-
-*
 
 |
 
@@ -4432,7 +4560,7 @@ X
 
 |
 
-Valerianaceae
+Caprifoliaceae
 
 |
 
@@ -4610,11 +4738,11 @@ X
 
 |
 
-Hypne brillante (Drepanocladus vernicosus syn. Hamatocaulis vernicosus)
+Hypne brillante (Hamatocaulis vernicosus)
 
 |
 
-1393
+6216
 
 |
 
@@ -4663,6 +4791,8 @@ Orthotric de Roger (Orthotrichum rogeri)
 X
 
 |
+
+X
 
 |
 

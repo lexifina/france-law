@@ -226,28 +226,6 @@ X
 
 |
 
-Structures sous-marines causées
-
-par des émissions de gaz
-
-|
-
-1180
-
-|
-
-|
-
-|
-
-|
-
-|
-
-X
-
-|
-
 Falaises maritimes et plages de galets
 
 |
@@ -1442,8 +1420,6 @@ Landes humides atlantiques tempérées à Erica ciliaris et Erica tetralix
 
 |
 
-X
-
 |
 
 |
@@ -1591,8 +1567,6 @@ X
 |
 
 |
-
-X
 
 |
 
@@ -2066,8 +2040,6 @@ Parcours substeppiques de graminées et annuelles du Thero-Brachypodietea
 
 |
 
-X
-
 |
 
 X
@@ -2108,28 +2080,6 @@ X
 
 |
 
-Pelouses steppiques subpannoniques
-
-|
-
-6240
-
-|
-
-*
-
-|
-
-X
-
-|
-
-|
-
-|
-
-|
-
 Forêts sclérophylles pâturées (dehesas)
 
 |
@@ -2141,26 +2091,6 @@ Forêts sclérophylles pâturées (dehesas)
 |
 
 |
-
-|
-
-|
-
-|
-
-Dehesas à Quercus spp. sempervirents
-
-|
-
-6310
-
-|
-
-|
-
-|
-
-X
 
 |
 
@@ -2794,6 +2724,8 @@ Eboulis médio-européens calcaires des étages collinéen à montagnard
 
 |
 
+X
+
 |
 
 |
@@ -3392,19 +3324,13 @@ Forêts de Castanea sativa
 
 |
 
-X
-
 |
 
 X
 
 |
 
-X
-
 |
-
-X
 
 |
 
@@ -3698,8 +3624,6 @@ X
 
 |
 
-X
-
 |
 
 Forêts endémiques à Juniperus spp.
@@ -3737,8 +3661,6 @@ Bois méditerranéens à Taxus baccata
 *
 
 |
-
-X
 
 |
 
@@ -3865,3 +3787,5 @@ X
 |
 
 |
+
+Colonne P : habitats et espèces signalés par * : prioritaires, au sens du VIII de l'article L. 414-4 du code de l'environnement.
