@@ -1,3 +1,3 @@
 # Article Annexes
 
-Les annexes au présent arrêté sont publiées au Bulletin officiel du ministère de l'équipement, des transports, du logement, du tourisme et de la mer.
+Le présent arrêté et son annexe III modifiée seront publiés au Bulletin officiel du ministère de l'environnement, de l'énergie et de la mer.
