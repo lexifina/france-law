@@ -576,7 +576,13 @@ Le présent point est applicable à la distribution de carburant de la catégori
 
 2.6.3.1. Récupération des vapeurs
 
-Les stations-service dont le volume distribué est supérieur à 500 mètres cubes par an sont équipées de systèmes actifs de récupération des vapeurs afin de permettre le retour d'au moins 90 % des vapeurs dans les réservoirs fixes des stations-service.
+Les stations-service dont le volume distribué est supérieur à 500 mètres cubes par an sont équipées de systèmes actifs de récupération des vapeurs afin de permettre le retour d'au moins :
+
+85 % des vapeurs dans les réservoirs fixes des stations-service pour les systèmes de récupération conformes à la norme NF EN 16321-1 version de novembre 2013 ;
+
+90 % des vapeurs dans les réservoirs fixes des stations-service pour les systèmes de récupération conformes aux dispositions de l'annexe III du présent arrêté.
+
+Le rapport vapeur/ essence de ces systèmes est supérieur ou égal à 0.95, mais inférieur ou égal à 1.05.
 
 Les systèmes de récupération des vapeurs de carburant sont constitués de quatre types d'équipements :
 
@@ -608,13 +614,25 @@ Un organe de coupure est mis en place entre le distributeur de carburant et la c
 
 2.6.3.5. Conception des systèmes de récupération
 
-Les systèmes de récupération des vapeurs sont conformes aux dispositions de l'annexe III. Cette conformité est attestée, contrôlée et maintenue par un laboratoire compétent et indépendant.
+Toute installation d'un système de récupération des vapeurs ainsi que toute modification de ce système sont conformes :
 
-Tout système de récupération de vapeurs en provenance de la Communauté européenne ou originaire des pays AELE parties contractantes de l'accord EEE, qui est conforme à une réglementation, norme nationale ou procédé de fabrication dont l'application est permise dans l'un de ces Etats est également reconnu, pour autant que soit assuré un niveau de sécurité et d'efficacité équivalent à celui recherché dans l'annexe III du présent arrêté.
+-aux dispositions de l'annexe III du présent arrêté ou à la norme NF EN 16321-1 version de novembre 2013 jusqu'au 20 août 2016 inclus ;
+
+-à la norme NF EN 16321-1 version de novembre 2013 à compter du 20 août 2016 ;
+
+Tout système de récupération de vapeurs en provenance des pays AELE parties contractantes de l'accord EEE :
+
+-conforme à une réglementation, norme nationale ou procédé de fabrication dont l'application est permise dans l'un de ces Etats, et ;
+
+-assurant un niveau de sécurité et d'efficacité équivalent à celui recherché dans l'annexe III du présent arrêté, et ;
+
+-installé jusqu'au 20 août 2016 inclus ;
+
+est également reconnu.
 
 2.6.3.6. Maintenance du système de récupération
 
-L'exploitant s'assure du bon fonctionnement de son installation et fait réaliser avant la mise en service du système de récupération de vapeurs, après toute réparation du système et ensuite au moins une fois tous les six mois, pour les installations ne disposant pas d'un système de régulation électronique en boucle fermée et tous les trois ans pour les installations disposant d'un système de régulation électronique en boucle fermée, un contrôle sur site par un organisme compétent et indépendant, conformément aux dispositions de l'annexe IV. Les résultats de ces mesures sont tenus à disposition de l'inspecteur des installations classées pendant un délai d'au moins six ans.
+L'exploitant s'assure du bon fonctionnement de son installation et fait réaliser avant la mise en service du système de récupération de vapeurs, après toute réparation du système et ensuite au moins une fois tous les six mois, pour les installations ne disposant pas d'un système de régulation électronique en boucle fermée et tous les trois ans pour les installations disposant d'un système de régulation électronique en boucle fermée, un contrôle sur site par un organisme compétent et indépendant, conformément aux dispositions de l'annexe IV du présent arrêté jusqu'au 20 août 2016 inclus puis à la norme NF EN 16321-2 version de novembre 2013 à compter du 21 août 2016. Les résultats de ces mesures sont tenus à disposition de l'inspecteur des installations classées pendant un délai d'au moins six ans.
 
 2.6.3.7. Affichage
 

@@ -574,11 +574,11 @@ Toutes les dispositions de ce point sont applicables
 
 |
 
-Non applicable
+Toutes les dispositions de ce point sont applicables
 
 |
 
-Non applicable
+Toutes les dispositions de ce point sont applicables
 
 |
 
@@ -590,11 +590,11 @@ Toutes les dispositions de ce point sont applicables
 
 |
 
-Non applicable
+Toutes les dispositions de ce point sont applicables
 
 |
 
-Non applicable
+Toutes les dispositions de ce point sont applicables
 
 |
 
@@ -606,35 +606,17 @@ Toutes les dispositions de ce point sont applicables
 
 |
 
-Les dispositions suivantes sont applicables à la distribution de carburant de la catégorie B. Les carburants pour l'aviation ne sont pas concernés. Les débits considérés au titre du présent point sont relatifs aux carburants de la catégorie B.
+Toutes les dispositions de ce point sont applicables et le cas échéant selon les modalités définies par les alinéas suivants.
 
 Les stations-service dont le volume distribué est supérieur à 500 mètres cubes par an sont équipées de systèmes actifs de récupération des vapeurs afin de permettre le retour d'au moins 80 % des vapeurs dans les réservoirs fixes des stations-service :
 
-- pour les stations d'un débit supérieur à 3 000 mètres cubes par an ainsi que pour les stations dont le débit a dépassé pour la première fois 500 mètres cubes par an postérieurement au 4 juillet 2001 ;
+-pour les stations d'un débit supérieur à 3 000 mètres cubes par an ainsi que pour les stations dont le débit a dépassé pour la première fois 500 mètres cubes par an postérieurement au 4 juillet 2001 ;
 
-- le 30 septembre de l'année suivant l'année civile durant laquelle le débit a dépassé 500 mètres cubes pour les installations dont le débit a été inférieur à 500 mètres cubes par an depuis le 4 juillet 2001 jusqu'au 17 avril 2010 ;
+-le 30 septembre de l'année suivant l'année civile durant laquelle le débit a dépassé 500 mètres cubes pour les installations dont le débit a été inférieur à 500 mètres cubes par an depuis le 4 juillet 2001 jusqu'au 17 avril 2010 ;
 
-- au plus tard le 1er janvier 2016 pour les autres stations-service.
+-au plus tard le 1er janvier 2016 pour les autres stations-service.
 
-|
-
-Les dispositions suivantes sont applicables à la distribution de carburant de la catégorie B. Les carburants pour l'aviation ne sont pas concernés. Les débits considérés au titre du présent point sont relatifs aux carburants de la catégorie B.
-
-Les stations-service dont le volume distribué est supérieur à 500 mètres cubes par an sont équipées de systèmes actifs de récupération des vapeurs afin de permettre le retour d'au moins 80 % des vapeurs dans les réservoirs fixes des stations-service :
-
-- pour les stations d'un débit supérieur à 3 000 mètres cubes par an ainsi que pour les stations dont le débit a dépassé pour la première fois 500 mètres cubes par an postérieurement au 4 juillet 2001 ;
-
-- le 30 septembre de l'année suivant l'année civile durant laquelle le débit a dépassé 500 mètres cubes pour les installations dont le débit a été inférieur à 500 mètres cubes par an depuis le 4 juillet 2001 jusqu'au 17 avril 2010 ;
-
-- au plus tard le 1er janvier 2016 pour les autres stations-service.
-
-|
-
-Toutes les dispositions de ce point sont applicables à la distribution de carburant de la catégorie B. Les carburants pour l'aviation ne sont pas concernés. Les débits considérés au titre du présent point sont relatifs aux carburants de la catégorie B.
-
-|
-
-Ce taux de récupération est porté à 90 % :
+Ce taux de récupération est porté à 85 % pour les systèmes de récupération conformes à la norme NF EN 16321-1 version de novembre 2013 et à 90 % pour les systèmes de récupération conformes aux dispositions de l'annexe III du présent arrêté :
 
 -pour les installations en rez-de-chaussée d'un immeuble habité ou occupé par des tiers ou en sous-sol faisant l'objet d'une modification substantielle nécessitant un nouvel enregistrement au titre de l'article R. 512-46-23 du code de l'environnement ;
 
@@ -642,65 +624,71 @@ Ce taux de récupération est porté à 90 % :
 
 -au 1er janvier 2016 pour les stations-service régulièrement autorisées ou déclarées avant le 1er juillet 2009 et dont le débit est supérieur à 3 000 mètres cubes par an ;
 
-- au 1er janvier 2020 pour les stations-service dont le débit est supérieur à 1 000 mètres cubes par an.
+-au 1er janvier 2020 pour les stations-service dont le débit est supérieur à 1 000 mètres cubes par an.
 
 Les systèmes de récupération des vapeurs de carburant sont constitués de quatre types d'équipements :
 
-- un pistolet de remplissage dont le système de dépression est ouvert à l'atmosphère ;
+-un pistolet de remplissage dont le système de dépression est ouvert à l'atmosphère ;
 
-- un flexible de type coaxial ou présentant des garanties équivalentes afin de véhiculer à la fois le carburant et les vapeurs ;
+-un flexible de type coaxial ou présentant des garanties équivalentes afin de véhiculer à la fois le carburant et les vapeurs ;
 
-- un organe déprimogène permettant d'assister l'aspiration des vapeurs du réservoir du véhicule pour les transférer vers le réservoir de la station-service ;
+-un organe déprimogène permettant d'assister l'aspiration des vapeurs du réservoir du véhicule pour les transférer vers le réservoir de la station-service ;
 
-- un dispositif de régulation permettant de contrôler le rapport entre le débit de vapeur aspirée et le débit de carburant distribué.
+-un dispositif de régulation permettant de contrôler le rapport entre le débit de vapeur aspirée et le débit de carburant distribué.
+
+Le dispositif de régulation cité au point 2.6.3.1 est en boucle fermée.
+
+Le signal de mauvais fonctionnement du système de récupération des vapeurs entraîne l'arrêt de la distribution de carburant dès lors que la réparation n'est pas réalisée sous 72 heures. Ces dispositions sont applicables :
+
+-aux stations-service autorisées à compter du 1er juillet 2009 ;
+
+-aux autres stations-service dont le débit est supérieur à 3 000 mètres cubes par an ;
+
+-à compter du 1er janvier 2016, aux autres stations-service dont le débit est supérieur à 1 000 mètres cubes par an.
 
 |
 
-Ce taux de récupération est porté à 90 % :
+Toutes les dispositions de ce point sont applicables et le cas échéant selon les modalités définies par les alinéas suivants.
+
+Les stations-service dont le volume distribué est supérieur à 500 mètres cubes par an sont équipées de systèmes actifs de récupération des vapeurs afin de permettre le retour d'au moins 80 % des vapeurs dans les réservoirs fixes des stations-service :
+
+-pour les stations d'un débit supérieur à 3 000 mètres cubes par an ainsi que pour les stations dont le débit a dépassé pour la première fois 500 mètres cubes par an postérieurement au 4 juillet 2001 ;
+
+-le 30 septembre de l'année suivant l'année civile durant laquelle le débit a dépassé 500 mètres cubes pour les installations dont le débit a été inférieur à 500 mètres cubes par an depuis le 4 juillet 2001 jusqu'au 17 avril 2010 ;
+
+-au plus tard le 1er janvier 2016 pour les autres stations-service.
+
+Ce taux de récupération est porté à 85 % pour les systèmes de récupération conformes à la norme NF EN 16321-1 version de novembre 2013 et à 90 % pour les systèmes de récupération conformes aux dispositions de l'annexe III du présent arrêté :
 
 -pour les installations en rez-de-chaussée d'un immeuble habité ou occupé par des tiers ou en sous-sol faisant l'objet d'une modification substantielle nécessitant un nouvel enregistrement au titre de l'article R. 512-46-23 du code de l'environnement ;
 
 -au 1er janvier 2016 pour les stations-service dont le débit est supérieur à 3 000 mètres cubes par an ;
 
-- au 1er janvier 2020 pour les stations-service dont le débit est supérieur à 1 000 mètres cubes par an.
+-au 1er janvier 2020 pour les stations-service dont le débit est supérieur à 1 000 mètres cubes par an.
 
 Les systèmes de récupération des vapeurs de carburant sont constitués de quatre types d'équipements :
 
-- un pistolet de remplissage dont le système de dépression est ouvert à l'atmosphère ;
+-un pistolet de remplissage dont le système de dépression est ouvert à l'atmosphère ;
 
-- un flexible de type coaxial ou présentant des garanties équivalentes afin de véhiculer à la fois le carburant et les vapeurs ;
+-un flexible de type coaxial ou présentant des garanties équivalentes afin de véhiculer à la fois le carburant et les vapeurs ;
 
-- un organe déprimogène permettant d'assister l'aspiration des vapeurs du réservoir du véhicule pour les transférer vers le réservoir de la station-service ;
+-un organe déprimogène permettant d'assister l'aspiration des vapeurs du réservoir du véhicule pour les transférer vers le réservoir de la station-service ;
 
-- un dispositif de régulation permettant de contrôler le rapport entre le débit de vapeur aspirée et le débit de carburant distribué.
-
-|
-
-|
+-un dispositif de régulation permettant de contrôler le rapport entre le débit de vapeur aspirée et le débit de carburant distribué.
 
 Le dispositif de régulation cité au point 2.6.3.1 est en boucle fermée.
 
 Le signal de mauvais fonctionnement du système de récupération des vapeurs entraîne l'arrêt de la distribution de carburant dès lors que la réparation n'est pas réalisée sous 72 heures. Ces dispositions sont applicables :
 
-- aux stations-service autorisées à compter du 1er juillet 2009 ;
+-aux stations-service autorisées à compter du 1er juillet 2009 ;
 
-- aux autres stations-service dont le débit est supérieur à 3 000 mètres cubes par an ;
+-aux autres stations-service dont le débit est supérieur à 3 000 mètres cubes par an ;
 
-- à compter du 1er janvier 2016, aux autres stations-service dont le débit est supérieur à 1 000 mètres cubes par an.
-
-|
-
-Le dispositif de régulation cité au point 2.6.3.1 est en boucle fermée.
-
-Le signal de mauvais fonctionnement du système de récupération des vapeurs entraîne l'arrêt de la distribution de carburant dès lors que la réparation n'est pas réalisée sous 72 heures. Ces dispositions sont applicables :
-
-- aux stations-service autorisées à compter du 1er juillet 2009 ;
-
-- aux autres stations-service dont le débit est supérieur à 3 000 mètres cubes par an ;
-
-- à compter du 1er janvier 2016, aux autres stations-service dont le débit est supérieur à 1 000 mètres cubes par an.
+-à compter du 1er janvier 2016, aux autres stations-service dont le débit est supérieur à 1 000 mètres cubes par an.
 
 |
+
+Toutes les dispositions de ce point sont applicables |
 
 2.7.
 
