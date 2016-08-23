@@ -1,0 +1,9 @@
+# Réponse à la question n° 92429
+
+- Question : [92429](92429.md) — Question n° 92429 — licence; réglementation
+
+## Réponse
+
+*JO du 2016-08-23*
+
+Les dispositions réglementaires relatives à la vente des cartes de pêche par internet figurent dans les statuts de la fédération nationale de la pêche et de la protection du milieu aquatique (FNPPMA), des fédérations départementales (FD) et des associations agréées de pêche et de protection du milieu aquatique (AAPPMA). Ces statuts sont conformes à des modèles fixés par des arrêtés ministériels. En application de l'article 2 de ses statuts, la FNPPMA « peut créer un dispositif d'adhésion par internet mis à disposition des fédérations départementales de pêche et de protection du milieu aquatique (FDPPMA) et des associations agréées de pêche et de protection du milieu aquatique ». Ce dispositif a été mis en place progressivement à partir de 2011 et est totalement opérationnel depuis 2013. Les FDPPMA et les associations agréées de pêche et de protection du milieu aquatique n'ont pas l'obligation de souscrire à ce dispositif. Les statuts de la FNPPMA, des FD et des AAPPMA ne conditionnent pas la souscription au dispositif d'adhésion par internet, à une « déclaration » relative au respect des dispositions réglementaires. Dès lors que son agrément ne lui a pas été retiré par le préfet, toute AAPPMA est censée respecter ses obligations réglementaires et statutaires. En revanche, l'association doit bien évidemment fournir les informations nécessaires au fonctionnement du dispositif, par exemple le montant de la cotisation qui lui revient et accepter certaines cartes de pêche labellisées. Enfin, en application de l'article 34 des statuts des AAPPMA, l'adhésion, et donc la délivrance de la carte de pêche, peut être refusée à toute personne ayant porté préjudice à l'association ou ayant subi une condamnation pour infraction à la législation et à la réglementation de la pêche.
