@@ -1,0 +1,9 @@
+# Réponse à la question n° 71798
+
+- Question : [71798](71798.md) — Question n° 71798 — enfants décédés; certificat
+
+## Réponse
+
+*JO du 2016-08-23*
+
+Le troisième alinéa de l'article 9 du décret du 15 mai 1974, modifié, relatif au livret de famille, prévoit que l'indication d'enfant sans vie ainsi que la date et le lieu d'accouchement peuvent être apposés sur le livret de famille à titre de mention administrative, à la demande des parents, par l'officier d'état civil qui a établi l'acte. L'officier de l'état civil est tenu d'établir le livret de famille dès lors qu'il est dépositaire de l'acte d'enfant sans vie et ce, quelles que soient la date de l'accouchement et la date de l'établissement de l'acte d'enfant sans vie (article 4 du décret du 15 mai 1974 précité). Les règles relatives à l'apposition de ces mentions n'ont pas été modifiées par le décret no 2008-798 du 20 août 2008 et l'arrêté du même jour, relatifs au nouveau livret de famille, qui prévoient que, désormais, lorsque le premier enfant est un enfant sans vie, les parents non mariés, donc non détenteurs d'un livret de famille, peuvent demander qu'il leur en soit remis un. La demande doit être faite auprès de l'officier d'état civil qui a établi l'acte d'enfant sans vie. Antérieurement à ces dispositions, lorsque l'enfant sans vie était le premier d'un couple non marié, les parents devaient attendre qu'un livret de famille leur soit délivré, lors de leur mariage ou de la naissance d'un enfant né vivant et viable, pour que l'enfant sans vie puisse y figurer. Ainsi, si les conditions de délivrance de ce livret en cas d'accouchement d'un enfant sans vie ont été modifiées, les règles relatives à l'apposition de la mention administrative, sur le livret de famille, de l'indication d'un enfant sans vie demeurent les mêmes.
