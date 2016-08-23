@@ -1,0 +1,9 @@
+# Réponse à la question n° 86828
+
+- Question : [86828](86828.md) — Question n° 86828 — défenseur des droits; propositions
+
+## Réponse
+
+*JO du 2016-08-23*
+
+La loi du 8 janvier 1993, complétée par la loi du 5 mars 2007, a repris l'essentiel des dispositions de la Convention internationale sur les droits de l'enfant en exposant, à l'article 388-1 du code civil, que "dans toute procédure le concernant, le mineur capable de discernement peut, sans préjudice des dispositions prévoyant son intervention ou son consentement, être entendu par le juge ou, lorsque son intérêt le commande, par la personne désignée par le juge à cet effet. Cette audition est de droit lorsque le mineur en fait la demande." Le domaine d'application de ce principe est large puisqu'il recouvre les procédures concernant la séparation ou le divorce affectant les conditions de vie du mineur, les actions se rapportant à l'exercice de l'autorité parentale, et, enfin, toutes les situations dans lesquelles les intérêts personnels, directs et certains de l'enfant, sont en jeu. La question d'une meilleure prise en compte de la parole de l'enfant, dans toute procédure le concernant s'inscrit toutefois dans un vaste mouvement aussi bien français qu'international, qui tend à accorder plus d'attention au point de vue exprimé par l'enfant et de garantir ainsi plus efficacement la défense de ses droits. Dans le même esprit de renforcement de la place de l'audition de l'enfant, la loi no 2016-297 du 14 mars 2016, relative à la protection de l'enfant, systématise désormais l'audition de l'enfant capable de discernement dans le cadre de la procédure d'adoption, étant précisé que le juge qui décide de ne pas procéder à l'audition d'un mineur doit justifier, au vu des éléments du dossier, ce qui permet de considérer que l'enfant n'est pas capable de discernement.
