@@ -1,0 +1,9 @@
+# Réponse à la question n° 61285
+
+- Question : [61285](61285.md) — Question n° 61285 — Livre blanc; archéologie préventive; proposition
+
+## Réponse
+
+*JO du 2016-08-23*
+
+L'archéologie est une discipline scientifique dont l'objet est de rechercher et d'étudier les vestiges témoins de l'occupation humaine, afin de retracer le développement de l'histoire de l'humanité et de sa relation avec l'environnement naturel. Cet objectif de connaissance revêt un caractère d'intérêt général et s'accompagne de missions de service public qui consistent, d'une part, à assurer la protection du patrimoine archéologique dans l'objectif d'une gestion durable et, d'autre part, à encadrer les activités de recherche archéologique afin d'en garantir la qualité scientifique. Ces activités de recherches sont conduites par différents types d'acteurs, que sont par exemple les chercheurs des unités mixtes de recherche du Centre national de la recherche scientifique (CNRS), des universités, des opérateurs d'archéologies préventives. Dans ce cadre, le ministère de la culture et de la communication et le CNRS développent une politique scientifique partagée, formalisée depuis 1992 par un accord-cadre régulièrement renouvelé. Ainsi sont soutenues certaines unités mixtes de recherche qui ont vocation à accueillir les chercheurs quel que soit leur organisme de rattachement et au sein desquelles est assurée pour partie l'exploitation scientifique des opérations d'archéologie. Par ailleurs, la réaffirmation de la responsabilité particulière de l'Institut national de recherches archéologiques préventives dans le dispositif national de la recherche archéologique par sa reconnaissance comme institut de recherche par le ministère de l'éducation nationale, de l'enseignement supérieur et de la recherche relève de la compétence de ce département ministériel. Pour ce qui concerne la double tutelle, les textes le prévoient déjà et ne nécessitent pas d'être modifiés.
