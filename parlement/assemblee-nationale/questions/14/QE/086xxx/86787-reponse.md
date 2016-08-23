@@ -1,0 +1,9 @@
+# Réponse à la question n° 86787
+
+- Question : [86787](86787.md) — Question n° 86787 — successions vacantes; juge; saisine; notaires
+
+## Réponse
+
+*JO du 2016-08-23*
+
+Le droit des successions a été réformé par la loi no 2006-728 du 23 juin 2006, portant réforme des successions et des libéralités, et le décret no 2006-1805 du 23 décembre 2006, relatif à la procédure en matière successorale et modifiant certaines dispositions de procédure civile. Cette réforme a permis notamment de simplifier le régime de la succession vacante, qui s'applique aux cas d'héritiers renonçants, inconnus ou n'ayant pas accepté la succession dans les six mois de son ouverture : la déclaration de vacance nécessite désormais d'être prononcée par ordonnance du président du tribunal de grande instance du lieu de son ouverture, celui-ci pouvant être saisi par requête de « tout créancier », de « toute personne qui assurait, pour le compte de la personne décédée, l'administration de tout ou partie de son patrimoine », ce qui englobe notamment le titulaire d'un mandat à titre posthume, le mandataire conventionnel désigné par les héritiers avant qu'ils ne renoncent, le mandataire judiciaire et l'exécuteur testamentaire, ou encore par requête du « ministère public » ou de « toute autre personne intéressée ». La loi ouvre donc aujourd'hui largement le droit de solliciter la mise en œuvre du régime des successions vacantes. Toutefois, il est exact qu'il existait un doute sur la possibilité pour le notaire d'être lui-même à l'initiative de cette saisine. Ce point est désormais clarifié par le projet de loi de modernisation de la justice du XXIe siècle, actuellement en discussion au Parlement, qui prévoit une modification de l'article 809-1 du code civil, afin d'y introduire le notaire de manière explicite parmi les personnes habilitées à saisir le juge d'une demande d'ouverture de curatelle de succession vacante.
