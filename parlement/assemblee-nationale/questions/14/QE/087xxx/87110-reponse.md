@@ -1,0 +1,9 @@
+# Réponse à la question n° 87110
+
+- Question : [87110](87110.md) — Question n° 87110 — décrets; bilan
+
+## Réponse
+
+*JO du 2016-08-23*
+
+Le décret no 2014-1501 du 12 décembre 2014 a introduit quatre modifications à la nomenclature des installations classées pour la protection de l'environnement (ICPE). Il supprime d'abord l'obligation de faire contrôler périodiquement par un organisme agréé les unités mobiles de fabrication d'explosifs soumises à déclaration. En application de la directive du 4 juillet 2012 dite « Seveso 3 », il intègre également les fiouls lourds dans les produits dérivés du pétrole en appliquant les seuils correspondants. Le décret modifie l'intitulé de la rubrique 1185 (Gaz à effet de serre fluorés) pour tenir compte du règlement (UE) no 517/2014 du 16 avril 2014. Enfin, le décret soumet les installations de stockage de déchets inertes à la législation des ICPE, en adoptant le régime de l'enregistrement, en lieu et place du régime d'autorisation ad hoc actuel. À ce titre, les inspecteurs des installations classées sont désormais chargés de l'instruction des dossiers d'installations de stockage de déchets inertes (ISDI) arrivés après le 1er janvier 2015, selon les modalités de procédure des textes sur les installations classées pour la protection de l'environnement soumises à enregistrement. Le transfert de cette compétence a permis d'avoir un meilleur recensement de ces installations et de renforcer l'action de lutte contre les décharges illégales du BTP. En effet, il s'agissait à la fois de continuer les actions déjà engagées sur les sites précédemment autorisés qui ne respectent pas leur arrêté préfectoral et de réaliser un plan de régularisation des installations illégales identifiées. Ainsi, 54 demandes régularisation ont été réalisées, 44 mises en demeures, 8 sanctions administratives et 40 procès verbaux ont été dressés.
