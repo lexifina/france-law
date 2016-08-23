@@ -1,0 +1,9 @@
+# Réponse à la question n° 97161
+
+- Question : [97161](97161.md) — Question n° 97161 — éleveurs professionnels; vente; réglementation
+
+## Réponse
+
+*JO du 2016-08-23*
+
+L'article L. 213-1 du code rural et de la pêche maritime (CRPM) stipule que l'action en garantie dans les ventes ou échanges d'animaux domestiques s'applique sans préjudice de l'application des articles L. 211-1 à L. 211-6, L. 211-8 du code de la consommation. L'arrêt de la Cour de cassation de décembre 2015 confirme l'applicabilité de la notion de défaut de conformité aux animaux tout en précisant qu'un animal est unique et irremplaçable. Ce jugement va donc dans le sens de l'évolution sociétale qui consiste à protéger l'animal en confirmant sa nature d'être vivant sensible. Ce jugement a par ailleurs l'avantage d'assurer à l'animal le traitement de sa maladie et d'éviter son éventuelle euthanasie en cas de simple remplacement. Dans cette affaire, la Cour a confirmé que le vendeur devrait payer des dommages à l'acheteur du fait du préjudice subi, ce qui résulte des règles générales de responsabilité prévues par le code civil, et non pas par le code de la consommation. Il n'est pas souhaitable que l'animal soit exclu du champ d'application du défaut de conformité, sans une refonte plus approfondie du dispositif général des garanties applicables aux ventes d'animaux. Cette garantie ne peut en effet se limiter aux dispositions relatives aux vices rédhibitoires en application de l'article L. 213-1 du CRPM. Pour autant, l'animal n'est pas un bien de consommation comme les autres. C'est pourquoi depuis l'application de la loi d'avenir pour l'agriculture, l'alimentation et la forêt du 13 octobre 2014, l'article L. 211-7 du code de la consommation n'est plus applicable aux ventes ou échanges d'animaux domestiques.
