@@ -14,9 +14,7 @@ Doit être délivré par le constructeur, ou, pour les véhicules conformes à u
 
 2.1. Demandes d'immatriculation
 
-a) Document dit 3 en 1 (parties demande d'immatriculation et certificat de vente).
-
-;
+a) Document dit 3 en 1 (parties demande d'immatriculation et certificat de vente) ;
 
 b) Demande de certificat d'immatriculation : imprimé CERFA Demande de certificat d'immatriculation d'un véhicule ;
 
@@ -44,7 +42,7 @@ a) Document dit 3 en 1 (partie certificat de conformité) ;
 
 b) Certificat de conformité à un type national : certificat délivré par le constructeur ou son représentant accrédité en France, précédé de la notice descriptive du véhicule et du procès-verbal de réception par type établi par un service chargé des réceptions ;
 
-c) Certificat de conformité à un type CE : certificat conforme aux dispositions de la directive 70/156/CEE ou 74/150/CE ou 2002/24/CE ou 2003/37/CE ou 2007/46/CE délivré par le constructeur, le cas échéant, dans une autre langue que le français.
+c) Certificat de conformité à un type CE : certificat conforme aux dispositions de la directive 70/156/ CEE ou 74/150/ CE ou 92/61/ CE ou 2002/24/ CE ou 2003/37/ CE ou 2007/46/ CE ou du règlement (UE) 167/2013 ou (UE) 168/2013 délivré par le constructeur, le cas échéant, dans une autre langue que le français.
 
 3.2. Autres certificats
 
@@ -64,7 +62,11 @@ Les attestations d'identification sont délivrées soit par le constructeur ou s
 
 3.4. Attestations de carrossage
 
-a) Certificat de carrossage conforme à l'annexe VII de l'arrêté du 19 juillet 1954 modifié relatif à la réception des véhicules, et établi dans les limites d'utilisation et les conditions fixées par cet arrêté ;
+a) Certificat de carrossage
+
+1. Conforme à l'annexe VII de l'arrêté du 19 juillet 1954 modifié relatif à la réception des véhicules, et établi dans les limites d'utilisation et les conditions fixées par cet arrêté ;
+
+2. Conforme à l'annexe VII bis de l'arrêté du 19 juillet 1954 modifié relatif à la réception des véhicules lorsqu'il s'agit de véhicules destinés à un usage spécial de genre VASP, RESP ou SRSP et établi dans les limites d'utilisation et les conditions fixées par cet arrêté ;
 
 b)Certificat de carrossage ou de montage de carrosserie conforme à l'annexe IX de l'arrêté du 19 juillet 1954 modifié relatif à la réception des véhicules ;
 
@@ -97,6 +99,14 @@ c) Procès-verbal de RTI : procès-verbal de réception à titre isolé délivr�
 d) Fiche de RI : fiche de réception individuelle délivrée pour les véhicules neufs par le service chargé des réceptions dans le cadre de l'article 21 de l'arrêté du 4 mai 2009 relatif à la réception des véhicules à moteur, de leurs remorques et des systèmes et équipements destinés à ces véhicules en application de la directive 2007/46/ CE ;
 
 e) Attestation de reconnaissance d'une réception individuelle européenne : attestation délivrée par le service en charge des réceptions pour les véhicules usagés ayant fait l'objet d'une réception individuelle européenne dans le cadre du règlement (UE) n° 183/2011 de la Commission du 22 février 2011.
+
+f) Attestation d'adaptation réversible conforme à l'annexe 1-B de l'arrêté du 7 novembre 2014 relatif à l'adaptation réversible de série de certains types de véhicules, pour les véhicules neufs ou usagés de catégorie M1, genre VP faisant l'objet d'une transformation réversible dite " DERIV VP " ;
+
+g) Attestation d'adaptation réversible conforme à l'annexe 1-C de l'arrêté du 7 novembre 2014 relatif à l'adaptation réversible de série de certains types de véhicules, pour les véhicules usagés de catégorie M1, genre VASP, carrosserie DERIV VP afin de redevenir conforme à son type d'origine ;
+
+h) Attestation de conformité en cas de modification des niveaux de performance d'un type de véhicule, neuf ou usagé, de genre MTT1 ou MTT2 le rendant conforme à un autre type de véhicule de genre MTT2 ou inversement, suivant le modèle présenté en annexe 18 ;
+
+i) Certificat de conformité conforme à l'annexe 1 de l'arrêté du 13 avril 2016 relatif à la puissance des motocyclettes définies à l'article R. 311-1 du code de la route, pour les véhicules neufs de la catégorie L3 ou L4 faisant l'objet d'une opération de débridage.
 
 4. Justificatifs fiscaux
 
