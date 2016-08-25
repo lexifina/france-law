@@ -1,0 +1,9 @@
+# Réponse à la question SEQ140612152
+
+- Question : [SEQ140612152](seq140612152.md) — Réforme territoriale : avenir du conseil d'architecture, d'urbanisme et  de l'environnement
+
+## Réponse
+
+*Aménagement du territoire, ruralité et collectivités territoriales, JO du 2016-08-25, page 3586*
+
+La réforme territoriale engagée par la loi n° 2014-58 du 27 janvier 2014 de modernisation de l'action publique territoriale et d'affirmation des métropoles et la loi n° 2015-29 du 16 janvier 2015 relative à la délimitation des régions, aux élections régionales et départementales et modifiant le calendrier électoral, s'est poursuivie par la loi portant nouvelle organisation territoriale de la République (NOTRe) promulguée le 7 août 2015. Il s'agit de moderniser en profondeur notre organisation territoriale par une clarification des compétences permettant d'identifier les responsabilités de chacun des acteurs de la puissance publique et de simplifier les relations entre l'État et les collectivités territoriales. L'État demeure responsable des choix stratégiques, ainsi que du contrôle de l'application des lois, de la protection des citoyens et de la cohésion sociale comme territoriale. Les collectivités territoriales exercent, quant à elles, leurs compétences au plus près des populations et des territoires. Cette clarification conforte la collectivité départementale en tant qu'échelon privilégié des compétences sociales et de solidarité territoriale, comme le prévoit l'article 94 de la loi NOTRe. A ce titre, le département continuera à assurer un rôle majeur dans la politique nationale de soutien aux personnes en insertion. De même, il n'est pas prévu de modifier le rôle des départements, en matière de financement des CAUE dans le cadre de la part départementale de la taxe d'aménagement qui lui est attribuée.
