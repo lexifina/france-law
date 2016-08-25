@@ -1,0 +1,9 @@
+# Réponse à la question SEQ160421304
+
+- Question : [SEQ160421304](seq160421304.md) — Règlements locaux de publicité
+
+## Réponse
+
+*Environnement, énergie et mer, JO du 2016-08-25, page 3609*
+
+La loi n° 2010-788 du 12 juillet 2010 portant engagement national pour l'environnement a adopté de nouvelles dispositions relatives à l'élaboration des règlements locaux de publicité mais a conservé certains principes de base. Ainsi, l'article L. 581-11 abrogé prévoyait, dans son paragraphe I, que les zones dénommées « zones de publicité restreinte » ne pouvaient contenir que des dispositions plus restrictives que les prescriptions prévues à l'article L. 581-9. L'article L. 581-14 désormais en vigueur prévoit dans son alinéa 1er, que le règlement local de publicité adapte notamment les dispositions prévues à l'article L. 581-9 du code de l'environnement. L'article L. 581-9 en vigueur, faisant quant à lui partie intégrante du champ d'application du règlement local de publicité, a été complété et précise dorénavant de manière assez détaillée les conditions d'installation des dispositifs de publicité lumineuse ou non. L'article L. 581-9 complète même le champ d'application du règlement local de publicité, puisqu'il cite aussi dorénavant les conditions d'utilisation du mobilier urbain, les conditions d'implantation de bâches et celles d'installation de dispositifs publicitaires de dimensions exceptionnelles liés à des manifestations temporaires. En outre, l'article L. 581-14 alinéa 2 prévoit que, sous réserve des dispositions des articles L. 581-4, L. 581-8 et L. 581-13, le règlement local de publicité ne peut définir que la délimitation de zones où s'applique une réglementation plus restrictive que le règlement national de publicité. L'abrogation de l'article L. 581-11 ne nuit donc aucunement à l'application du principe de la règle plus restrictive, laquelle est précisément reprise par la combinaison des articles L. 581-14 et L. 581-9.
