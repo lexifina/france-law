@@ -36,9 +36,13 @@ Chef de service chargé des questions sociales
 
 |
 
-Direction des pêches maritimes et de l'aquaculture |
+Direction des pêches maritimes et de l'aquaculture
 
-Chef de service, adjoint au directeur des pêches maritimes et de l'aquaculture |
+|
+
+Chef de service, adjoint au directeur des pêches maritimes et de l'aquaculture
+
+|
 
 Centre de prestations et d'ingénierie informatiques
 
@@ -156,7 +160,7 @@ Sous-directeur des systèmes d'information pour les activités support
 
 |
 
-Secrétariat général/services des affaires financières
+Secrétariat général/ direction des affaires financières/ sous
 
 |
 
@@ -232,7 +236,7 @@ Direction générale des infrastructures, des transports et de la mer
 
 |
 
-Sous-directeur de la gestion du réseau autoroutier concédé
+Sous-directeur de la gestion et du contrôle du réseau autoroutier concédé
 
 |
 
@@ -368,6 +372,6 @@ Direction générale de l'aviation civile/direction de la sécurité de l'aviati
 
 |
 
-Sous-directeur ressources
+Sous-directeur, directeur gestion des ressources
 
 |

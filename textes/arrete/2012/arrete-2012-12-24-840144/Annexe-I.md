@@ -1,14 +1,18 @@
 # Article Annexe I
 
-|
-
-|
-
 ENTITÉ D'EMPLOI
 
 |
 
 INTITULÉ DE L'EMPLOI
+
+|
+
+Secrétariat général
+
+|
+
+Chef de service, adjoint au secrétaire général
 
 |
 
@@ -41,14 +45,6 @@ Délégation à l'action foncière et immobilière
 |
 
 Chef de service, délégué à l'action foncière et immobilière
-
-|
-
-Secrétariat général/services des affaires financières
-
-|
-
-Chef du service des affaires financières
 
 |
 
@@ -136,7 +132,7 @@ Direction générale de la prévention des risques
 
 |
 
-Chef du service de la prévention des nuisances et de la qualité de l'environnement
+Chef du service des risques sanitaires liés à l'environnement, des déchets et des pollutions diffuses
 
 |
 

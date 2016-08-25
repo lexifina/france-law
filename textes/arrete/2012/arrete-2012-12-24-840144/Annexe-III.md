@@ -128,7 +128,7 @@ Sous-directeur du schéma directeur et de la politique des systèmes d'informati
 
 |
 
-Secrétariat général/services des affaires financières
+Secrétariat général/ direction des affaires financières
 
 |
 
@@ -148,7 +148,9 @@ Direction des pêches maritimes et de l'aquaculture
 
 |
 
-Sous-directeur de l'aquaculture et de l'économie des pêches |
+Sous-directeur de l'aquaculture et de l'économie des pêches
+
+|
 
 Commissariat général au développement durable/direction de la recherche et de l'innovation
 
@@ -390,11 +392,17 @@ Sous-directeur des risques chroniques et du pilotage
 
 |
 
-Direction générale de la prévention des risques |
+Direction générale de la prévention des risques
 
-Sous-directeur santé, environnement, produits chimiques, agriculture |
+|
 
-Direction générale de la prévention des risques |
+Sous-directeur santé, environnement, produits chimiques, agriculture
+
+|
+
+Direction générale de la prévention des risques
+
+|
 
 Sous-directeur déchets et économie circulaire
 
