@@ -1,0 +1,9 @@
+# Réponse à la question SEQ150616674
+
+- Question : [SEQ150616674](seq150616674.md) — Devenir du soutien du conseil général de l'Ain dans le domaine de l'eau et de l'assainissement
+
+## Réponse
+
+*Environnement, énergie et mer, JO du 2016-08-25, page 3596*
+
+La loi portant nouvelle organisation territoriale de la République (NOTRe) a confirmé et renforcé le rôle majeur des départements en matière de solidarité territoriale et d'assistance technique. Il est donc tout à fait opportun que les départements qui le souhaitent poursuivent l'accompagnement des collectivités dans l'exercice de leurs compétences eau et assainissement, en particulier au regard des nombreux enjeux auxquels elles doivent faire face : protection des ressources en eau potable, lutte contre les fuites dans les réseaux, amélioration des performances de traitement par temps de pluie, préparation des transferts de compétence… Concernant la gestion des milieux aquatiques et de la prévention des inondations (GEMAPI), l'attribution de cette compétence au bloc communal ne permettra plus aux départements d'intervenir dans ce champ, juridiquement ou financièrement, à l'issue de la période transitoire. En revanche, les départements conserveront la possibilité de participer au financement de l'exercice de la compétence par les communes ou groupements compétents, par exemple au titre de leur compétence de solidarité territoriale, d'adhérer à un syndicat mixte ouvert compétent en matière de GEMAPI à condition que l'objet de ce dernier inclus au moins une autre mission pour laquelle les départements restent en droit d'intervenir, ou encore de contribuer à la maîtrise d'ouvrage d'opérations « mixtes », c'est à dire relevant à la fois de la compétence GEMAPI et d'une compétence restant partagée en matière de gestion de l'eau.
