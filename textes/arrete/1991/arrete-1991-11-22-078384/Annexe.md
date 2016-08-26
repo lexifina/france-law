@@ -1,141 +1,141 @@
 # Article Annexe
 
-Ecrit.
+Droit civil
 
-Droit civil.
+Les personnes et les droits de la personnalité.
 
-I. - La famille :
+Le droit de propriété, la copropriété et la possession.
 
-Le mariage (formation, preuve, effet, situation respective des époux ; le contrat de mariage ; les régimes matrimoniaux).
+Les obligations.
 
-Le divorce.
+Les preuves.
 
-La séparation de corps.
+Les prescriptions.
 
-La filiation (légitime, naturelle, adoptive).
+Droit pénal
 
-L'obligation alimentaire.
+Droit pénal général.
 
-II. - Le droit de propriété, la copropriété et la possession :
+Régime de l'enfance délinquante.
 
-Modes d'acquisition.
+Droit pénal spécial.
 
-Preuve.
+Droit pénal des affaires.
 
-Protection.
+Droit public interne
 
-III. - Les obligations :
+Les libertés publiques consacrées par le droit positif français.
 
-Théorie générale du contrat.
+Droit administratif général.
 
-La responsabilité civile (contractuelle et délictuelle).
+Droit administratif spécial.
 
-Effets, extinction et transmission des obligations.
-
-IV. - Les preuves.
-
-V. - Les prescriptions.
-
-Droit pénal.
-
-Application de la loi pénale dans le temps et dans l'espace :
-
-L'infraction et ses divers éléments.
-
-Crimes.
-
-Délits.
-
-Contraventions.
-
-La tentative.
-
-La complicité.
-
-La coaction.
-
-Le concours d'infractions.
-
-Le non-cumul des peines.
-
-Causes d'atténuation, d'aggravation et d'extinction des sanctions pénales.
-
-Droit public interne.
-
-I. - Les libertés publiques consacrées par le droit positif français.
-
-II. - Droit administratif général :
-
-Théorie générale de l'acte administratif et de la fonction administrative.
-
-Théorie générale de la responsabilité administrative.
-
-L'organisation administrative : administration centrale ; administration locale (région, département, commune).
-
-Les critères de la distinction des contrats administratifs et des contrats de droit privé.
-
-Les services publics (notion de service public, modes de gestion des services publics, régime juridique et contentieux des services publics industriels et commerciaux, régime juridique et contentieux des services publics de la sécurité sociale).
-
-Droit commercial.
-
-Les actes de commerce.
+Droit commercial
 
 Les commerçants et les sociétés commerciales.
 
 Le fonds de commerce.
 
-Redressement judiciaire et liquidation judiciaire.
+Les actes de commerce.
 
-Oral.
+Les contrats commerciaux.
 
-Organisation judiciaire et juridiction administrative ;
+Les effets de commerce et le chèque.
 
-procédure civile ;
+Les entreprises en difficulté.
 
-procédure pénale et procédure administrative.
+Droit économique.
 
-I. - Organisation judiciaire :
+Droit social
+
+Droit international du travail.
+
+Droit du travail individuel et collectif.
+
+Droit de la sécurité sociale.
+
+Organisation judiciaire et juridiction administrative ; procédure civile ; procédure pénale et procédure administrative
+
+I.-Organisation judiciaire :
 
 L'organisation judiciaire et la compétence.
 
-II. - Procédure civile :
+Les auxiliaires de justice.
 
-La procédure devant les juridictions de première instance (tribunaux de grande instance et d'instance) et la cour d'appel en matière civile.
+Les officiers publics et ministériels.
 
-Les voies de recours : appel, opposition, tierce opposition.
+II.-Procédure civile :
+
+Les procédures devant les juridictions de première instance et la cour d'appel en matière civile.
+
+Les voies de recours.
 
 L'autorité de la chose jugée.
 
-Le pourvoi en cassation :
+Le pourvoi en cassation et la procédure devant la Cour de cassation.
 
-- les cas d'ouverture ;
-
-- la procédure devant la Cour de cassation ;
-
-- la distinction du fait et du droit.
-
-III. - Procédure pénale :
+III.-Procédure pénale :
 
 L'action publique et l'action civile.
 
+La police judiciaire, l'enquête préliminaire et l'infraction flagrante.
+
 L'instruction préparatoire.
+
+La détention provisoire et le contrôle judiciaire.
 
 Les preuves.
 
-Les nullités dans le procès pénal.
+Les nullités dans la procédure pénale.
 
 Les cas d'ouverture à cassation.
 
-IV. - Juridiction administrative et procédure administrative :
+IV.-Juridiction administrative et procédure administrative :
 
-Le partage des compétences entre les juridictions administratives et judiciaires ; les critères de la répartition.
+L'organisation de la juridiction administrative.
 
-Le tribunal des conflits (organisation, compétence, saisine, jugement des conflits).
+Le partage des compétences entre les juridictions administratives et judiciaires.
 
-La réglementation professionnelle.
+Le tribunal des conflits.
 
-Statut, surveillance et discipline des officiers publics et ministériels.
+La compétence judiciaire en matière administrative.
+
+Le contentieux électoral.
+
+Droit européen
+
+L'Union européenne.
+
+Les institutions européennes.
+
+Les juridictions européennes.
+
+Les actes des institutions européennes.
+
+La question préjudicielle.
+
+Droit de l'Union européenne et droit interne.
+
+Charte des droits fondamentaux de l'Union européenne.
+
+Convention européenne de sauvegarde des droits de l'homme et des libertés fondamentales.
+
+Droit constitutionnel
+
+Les droits et libertés garantis par la Constitution.
+
+La hiérarchie des normes.
+
+Le Conseil constitutionnel.
+
+La question prioritaire de constitutionnalité.
+
+La réglementation professionnelle
 
 Déontologie, discipline et responsabilité.
 
 Organisation professionnelle.
+
+Conditions d'accès à la profession.
+
+Gestion d'un office.
