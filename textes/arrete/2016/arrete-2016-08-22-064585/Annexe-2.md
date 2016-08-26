@@ -1,14 +1,14 @@
 # Article Annexe 2
 
-DISPOSITIONS GRAPHIQUES
+DISPOSITIONS GRAPHIQUES DES AFFICHES
 
 Ces modèles doivent être imprimés en l'état, ils ne doivent ni ne peuvent en aucun cas être modifiés. Ils sont libres d'impression sur n'importe quel support papier, plastique, autocollant, etc.
 
 Ces modèles doivent être imprimés, sans limites d'agrandissement homothétique :
 
-― pour le grand format, au format minimium de 21 × 29,7 cm (A4) ;
+- pour le grand format, au format minimum de 21 × 29,7 cm (A4) ;
 
-― pour le petit format, au format minimum 15 × 15 cm.
+- pour le petit format, au format minimum 15 × 15 cm.
 
 En aucun cas les couleurs et typographies ne peuvent différer des références suivantes :
 
