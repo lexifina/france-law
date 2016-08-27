@@ -24,14 +24,6 @@ Arrêté du 5 mai 1995 portant création d'un Conseil national des villes et pay
 
 |
 
-Commission consultative de la commande publique
-
-|
-
-Arrêté du 22 janvier 1998 portant création d'une commission consultative de la commande publique
-
-|
-
 Commission d'arbitrage relative à la perception de la taxe fiscale sur les spectacles
 
 |
