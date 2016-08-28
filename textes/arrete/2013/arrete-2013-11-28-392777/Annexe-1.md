@@ -60,7 +60,7 @@ Analyser l'activité réalisée en fonction de la capacité habilitée.
 
 Cet indicateur principal
 
-Cet indicateur doit être analysé au regard du taux d'occupation plancher fixé à 80% pour tous les CEF. Le % seuil n'est ici pas pertinent.
+cet indicateur doit être analysé au regard du taux d'occupation plancher fixé à 85 % pour tous les CEF. Le % seuil n'est ici pas pertinent.
 
 Cet indicateur ne prend pas en compte le taux de réalisation de prescription des magistrats (et donc la capacité de l'établissement à accompagner le jeune dans la durée), ni le nombre de place mobilisables dans l'année.
 
@@ -270,7 +270,7 @@ section d'exploitation
 
 Formule : (Classe 6 - recettes en atténuation) hors résultat N-2 / nombre de journées théoriques.
 
-Détail du calcul : [total Classe 6 - [(total Classe 7 - compte 732 (produits à la charge de l'Etat)]] / (365*nombre de places en capacité théorique*0,80)
+Détail du calcul : [total Classe 6-[(total Classe 7-compte 732 (produits à la charge de l'Etat))]/ (365* nombre de places en capacité théorique* 0,85)
 
 Vérifier que le résultat N-2 a bien été retiré
 
@@ -280,7 +280,7 @@ si ouverture ou fermeture définitive dans l'année, indiquer la somme des jours
 
 |
 
-Analyser le coût journalier par rapport à l'activité plancher attendue (80%).
+Analyser le coût journalier par rapport à l'activité plancher attendue (85 %)
 
 |
 

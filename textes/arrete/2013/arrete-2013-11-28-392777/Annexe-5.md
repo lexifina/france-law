@@ -28,8 +28,6 @@ Date d’ouverture de l’établissement :
 
 Date de la dernière habilitation :
 
-· Santé mentale : OUI / NON :
-
 · Géographique : zone rurale/zone urbaine/périurbain
 
 · Immobilière :
