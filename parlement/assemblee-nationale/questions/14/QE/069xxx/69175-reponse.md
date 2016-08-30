@@ -1,0 +1,9 @@
+# Réponse à la question n° 69175
+
+- Question : [69175](69175.md) — Question n° 69175 — accompagnement; carences
+
+## Réponse
+
+*JO du 2016-08-30*
+
+La loi no 2015-1776 du 28 décembre 2015 relative à l'adaptation de la société au vieillissement a fait l'objet d'une large concertation préalable avec l'ensemble des acteurs concernés. Les principaux titres de ce texte déclinent les objectifs et les priorités des politiques publiques en la faveur des âgés. Ainsi, le titre Ier est relatif à l'anticipation de la perte d'autonomie. Il a notamment pour objectif de favoriser l'accès aux aides techniques, de développer des actions collectives de prévention au niveau local et de renforcer la coordination autour des personnes âgées. Le titre II vise à favoriser l'adaptation de la société au vieillissement, avec la prise en compte obligatoire des besoins de personnes âgées dans les politiques locales de déplacement et d'habitat, le lancement d'un plan d'adaptation de 80 000 logements d'ici 2017, la création d'un « forfait autonomie » pour les foyers-logements (rebaptisés « résidences autonomie »), et une meilleure protection des droits et libertés des personnes âgées en situation de vulnérabilité. Le titre III prévoit enfin des mesures d'accompagnement de la perte d'autonomie, notamment par une amélioration et une revalorisation de l'allocation personnalisée d'autonomie (APA) à domicile destinée à faire face aux besoins d'accompagnement les plus lourds, la refondation de l'aide à domicile, ainsi que le soutien des aidants et de l'accueil familial. Ce dernier titre et les mesures d'application qui en découlent permettent la mise en place d'une meilleure réponse à l'accompagnement de la perte d'autonomie, en impulsant une dynamique vertueuse et convergente afin de sauvegarder tout en le modernisant ce secteur d'activité indispensable pour réussir le défi de l'accompagnement à domicile et de la réforme de l'APA.
