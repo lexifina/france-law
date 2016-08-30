@@ -1,0 +1,9 @@
+# Réponse à la question n° 95916
+
+- Question : [95916](95916.md) — Question n° 95916 — cynips du châtaignier; lutte et prévention
+
+## Réponse
+
+*JO du 2016-08-30*
+
+En France, le cynips du châtaignier (dryocosmus kuriphilus) fait l'objet depuis 2010 d'une lutte biologique par l'introduction dans les environnements contaminés de son prédateur naturel, torymus sinensis. L'organisation collective de la lutte est aujourd'hui efficacement coordonnée par un comité de pilotage national animé par la chambre d'agriculture de l'Ardèche. Il regroupe de nombreux partenaires tels que des syndicats castanéicoles, des représentants des pépiniéristes et des apiculteurs, des instituts de recherche, des centres techniques, des organismes de veille sanitaire, des organisations professionnelles agricoles et les services de l'État. Des travaux de recherche et de mise en œuvre de la lutte biologique contre le cynips du châtaignier ont été menés avec un soutien financier dans le cadre du plan Ecophyto. Des lâchers de torymus sinensis ont ainsi été réalisés sur plus de 50 sites essentiellement dans le sud de la France (Languedoc-Roussillon, PACA, Rhône-Alpes, Corse, Midi-Pyrénées et Aquitaine) entre 2011 et 2014. Les résultats sont encourageants avec un bon taux de réussite des implantations de torymus sinensis. A l'issue de ces programmes d'introduction, le ministère chargé de l'agriculture a poursuivi en 2015 ses actions d'accompagnement en accordant une subvention de 50 000 euros pour la réalisation d'actions de lâchers de torymus sinensis. Au total, plus de 2 400 lâchers ont eu lieu dans une trentaine de départements recouvrant 9 régions en 2015. L'ensemble de ces opérations ont été réalisées dans le respect des articles L. 258-1, et R. 258-1 à R. 258-9 du code rural et de la pêche maritime, et après évaluation de la souche concernée par l'agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail.
