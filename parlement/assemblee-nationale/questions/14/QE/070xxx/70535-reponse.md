@@ -1,0 +1,9 @@
+# Réponse à la question n° 70535
+
+- Question : [70535](70535.md) — Question n° 70535 — défibrillateurs cardiaques; implantation; déclaration
+
+## Réponse
+
+*JO du 2016-08-30*
+
+L'accès rapide par toute personne à un défibrillateur automatisé externe (DAE) est une préoccupation constante du ministère chargé de la santé. À ce titre, le décret no 2007-705 du 4 mai 2007 relatif à l'utilisation des DAE par des personnes non médecins et modifiant le code de la santé publique a largement contribué à la diffusion d'un parc de DAE « grand public » en permettant à toute personne, même non médecin, d'utiliser un DAE pour une victime d'un arrêt cardiaque. L'International Liaison Committee on Resucitation (ILCOR) a conçu une signalétique internationale pour indiquer la présence des défibrillateurs automatisés externes (DAE). La signalétique est conforme aux normes ISO 7010 et 3864-3 relatives aux signaux de sécurité utilisés sur les lieux de travail et dans les lieux publics. Cette signalétique est destinée à indiquer la présence d'un DAE dans une pièce, un boîtier en libre accès, ou encore pour désigner la direction à prendre pour trouver le DAE le plus proche. Elle peut être combinée à une flèche normalisée et être accompagnée des lettres « DAE » ou d'un équivalent dans la langue locale (AED en anglais). L'ILCOR déconseille d'utiliser le terme « défibrillateur » en entier. Plusieurs combinaisons sont proposées. L'ILCOR souhaite que cette signalétique soit uniformisée au plan international et recommande son utilisation par les fournisseurs. En France, le ministère chargé de la santé a publié un arrêté rendant obligatoire l'utilisation de cette signalisation dans le cas des lieux publics (arrêté du 16 août 2010 fixant les modalités de signalisation des défibrillateurs cardiaques automatisés externes dans les lieux publics).
