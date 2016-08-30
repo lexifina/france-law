@@ -1,0 +1,9 @@
+# Réponse à la question n° 62041
+
+- Question : [62041](62041.md) — Question n° 62041 — perspectives
+
+## Réponse
+
+*JO du 2016-08-30*
+
+Dès la rentrée scolaire de septembre 2012, l'allocation de rentrée scolaire (ARS) a été augmentée de 25%. Trois millions de familles et cinq millions d'enfants ont ainsi bénéficié d'une augmentation moyenne de 75 €. Par ailleurs, afin d'apporter un soutien renforcé aux familles les plus fragiles, deux mesures favorables aux familles nombreuses et monoparentales particulièrement touchées par le risque de pauvreté ont été annoncées le 3 juin 2013 : une mesure de majoration hors inflation du montant du complément familial, de 50 % sur cinq ans pour les familles dont les ressources sont inférieures au seuil de pauvreté et une mesure de revalorisation hors inflation du montant de l'allocation de soutien familial de 25 % sur la même période. Ces mesures qui s'inscrivent dans le cadre de la mise en œuvre du plan de rénovation de la politique familiale du gouvernement et du plan pluriannuel de lutte contre la pauvreté, ont été mises en œuvre dès 2014. La loi de financement de la sécurité sociale pour 2014 a créé le montant majoré du complément familial réservé aux familles ayant des ressources inférieures au seuil de pauvreté. Son montant a été fixé au 1er avril 2014 à 105,78 € en métropole. Le montant majoré du complément familial a été par la suite revalorisé au 1er avril 2015 et au 1er avril 2016 de 16,85 euros par mois soit + 202,20 euros sur une année. Cette hausse concerne 453 000 familles. Le montant de l'allocation de soutien familial a également été revalorisé pendant trois années consécutives (au 1er avril 2014, au 1er avril 2015, au 1er avril 2016) de 5 euros par mois environ, soit + 60 euros sur une année. Cette hausse concerne environ 735 000 familles.
