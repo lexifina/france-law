@@ -1,0 +1,9 @@
+# Réponse à la question n° 52649
+
+- Question : [52649](52649.md) — Question n° 52649 — formations paramédicales; rapport; préconisations
+
+## Réponse
+
+*JO du 2016-08-30*
+
+La formation en soins infirmiers a été la première des professions paramédicales à faire l'objet de travaux de réingénierie, en 2009. Conformément à l'arrêté du 31 juillet 2009 relatif au diplôme d'Etat d'infirmier, des rentrées peuvent s'effectuer en septembre ou en février dans les instituts de formation en soins infirmiers (IFSI). Sur les 328 IFSI sur l'ensemble du territoire, une minorité, de l'ordre d'une vingtaine, organise une rentrée en février. Cette formation s'organise via des conventions signées entre les IFSI et des universités. Ainsi, les enseignements sont sous la responsabilité conjointe de ces deux acteurs. L'organisation par les IFSI d'une rentrée en septembre/octobre est en effet davantage compatible avec celle des universités que lorsque la rentrée s'effectue en février. Toutefois, le maintien d'une rentrée en février présente un intérêt, à plus d'un titre, qu'il convient de préserver. Il s'agit tout d'abord d'accorder une chance aux étudiants n'ayant pu s'inscrire en formation pour la rentrée de septembre. Il s'agit également de permettre à certains IFSI ayant des difficultés de recrutement d'étudiants, d'atteindre leur quota avec ces candidats. Enfin, l'organisation d'une rentrée en février permet également aux établissements de santé de fluidifier leur procédure de recrutement sur l'ensemble de l'année, sur la base de trois sessions de délivrance de diplômes (juillet, décembre et mars). La ministre des affaires sociales et de la santé souhaite ainsi demeurer attentive aux intérêts des différents acteurs, tant ceux des universités que ceux des étudiants, des instituts de formation ou encore des établissements de santé.
