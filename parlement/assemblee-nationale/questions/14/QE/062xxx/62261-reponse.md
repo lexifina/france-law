@@ -1,0 +1,9 @@
+# Réponse à la question n° 62261
+
+- Question : [62261](62261.md) — Question n° 62261 — réglementation; perspectives
+
+## Réponse
+
+*JO du 2016-08-30*
+
+L'arrêté du 24 avril 2002 relatif aux bonnes pratiques de transport des prélèvements, produits et échantillons issus du sang humain dispose que le recours au transport par taxi est autorisé à condition que le taxi ne transporte pas de personnes ou d'autres colis en même temps que le transport de produits sanguins labiles (PSL). Le prestataire doit être assuré pour le transport de ces produits et si le recours est régulier, il convient d'établir un contrat avec le prestataire. Le décret no 99-752 du 30 août 1999 relatif aux transports routiers de marchandises dispose que les entreprises de transport routier de marchandises (…) immatriculées au registre du commerce et des sociétés ou au répertoire des métiers, doivent pour exercer leur activité, être également inscrites au registre des transporteurs et des loueurs tenu par le préfet de la région où elles ont leur siège. Ce décret est modifié par le décret no 2011-2045 du 28 décembre 2011 portant diverses dispositions relatives à l'accès à la profession de transporteur routier et à l'accès au marché du transport routier, pour simplifier l'inscription au registre des transporteurs en prévoyant des dérogations à la condition de capacité professionnelle (article 9 du décret de 1999 modifié). Les taxis souhaitant pouvoir transporter des PSL doivent obtenir leur inscription au registre des transporteurs routiers de marchandises. La délégation à la sécurité et à la circulation routières (DSCR) est depuis le 1er octobre 2012 compétente en matière de réglementation taxi au sein du ministère de l'intérieur et garantit la conformité des conditions de transport des produits sanguins labiles selon les termes de l'arrêté du 24 avril 2002, pour la sécurité transfusionnelle des patients et en particulier dans les situations d'urgence.
