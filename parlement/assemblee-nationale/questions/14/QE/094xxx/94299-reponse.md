@@ -1,0 +1,9 @@
+# Réponse à la question n° 94299
+
+- Question : [94299](94299.md) — Question n° 94299 — anciens combattants; demi-part supplémentaire; conditions d'attribution
+
+## Réponse
+
+*JO du 2016-08-30*
+
+En application du f du 1 de l'article 195 du code général des impôts (CGI), le quotient familial des personnes âgées de plus de 75 ans et titulaires de la carte du combattant ou d'une pension servie en vertu des dispositions du code des pensions militaires d'invalidité et des victimes de guerre, est majoré d'une demi-part supplémentaire. Cette disposition est également applicable aux personnes âgées de plus de 75 ans, veuves de personnes remplissant toutes les conditions requises, ce qui suppose que le défunt a bénéficié, au moins au titre d'une année d'imposition, de la demi-part mentionnée ci-dessus. L'article 4 de la loi de finances pour 2016 du 30 décembre 2015 a ramené ces limites d'âge de 75 à 74 ans. Il s'ensuit que les veuves des personnes titulaires de la carte du combattant n'ayant pas atteint l'âge de 74 ans ne peuvent pas bénéficier de cette demi-part supplémentaire. En effet, le maintien de la demi-part au bénéfice de la personne veuve en cas de décès du titulaire de la carte d'ancien combattant après 74 ans, permet d'éviter que la perte de cette demi-part, dont elle bénéficiait avant ce décès, puisse la pénaliser. Il n'est en revanche pas équitable d'accorder par principe un avantage spécifique aux veuves de plus de 74 ans de personnes titulaires de la carte d'ancien combattant qui n'ont elles-mêmes jamais bénéficié de cette demi-part. Enfin, cet avantage constitue une exception au principe du quotient familial, puisqu'il ne correspond à aucune charge effective, ni charge de famille, ni charge liée à une invalidité. Dès lors, comme tout avantage fiscal, ce supplément de quotient familial ne peut être préservé que s'il garde un caractère exceptionnel.
