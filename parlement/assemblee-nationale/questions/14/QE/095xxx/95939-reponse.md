@@ -1,0 +1,9 @@
+# Réponse à la question n° 95939
+
+- Question : [95939](95939.md) — Question n° 95939 — fonctionnement; réforme
+
+## Réponse
+
+*JO du 2016-08-30*
+
+Depuis 2006, il existe une séparation entre les financements des syndicats agricoles, pris en charge par le budget de l'État (ligne 154-14), et le financement des organismes de développement agricole (chambres d'agriculture, instituts techniques, Coop de France et organismes nationaux de vocation agricole et rural…) qui sont financés via un compte d'affectation spécial, le compte d'affectation spécial développement agricole et rural (CAS-DAR). Par ailleurs, s'agissant des coopératives, deux lois adoptées récemment, la loi du 13 octobre 2014 d'avenir pour l'agriculture, l'alimentation et la forêt et la loi du 31 juillet 2014 relative à l'économie sociale et solidaire ont renforcé la transparence des coopératives et l'information donnée aux associés coopérateurs. Ainsi, les coopératives sont désormais soumises à une procédure de révision obligatoire (c'est-à-dire un contrôle de la conformité du fonctionnement aux principes de la coopération), qui doit intervenir au moins tous les 5 ans. En cas de suspicion de dysfonctionnement, un associé coopérateur peut également saisir le haut conseil de la coopération agricole, dont les missions ont été renforcées. Il est enfin rappelé qu'en tant qu'établissements publics, les chambres d'agriculture ne peuvent accorder de subvention à des structures qu'en vue d'opérations d'intérêt général répondant aux missions qui leur sont confiées par les articles L. 511-3 et L. 511-4 du code rural et de la pêche maritime. Elles ne peuvent en particulier pas participer au financement d'actions strictement syndicales. Des audits sont réalisés régulièrement par le ministère chargé de l'agriculture pour contrôler la bonne application de ces règles.
