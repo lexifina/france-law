@@ -1,0 +1,9 @@
+# Réponse à la question n° 81658
+
+- Question : [81658](81658.md) — Question n° 81658 — aides publiques; montant
+
+## Réponse
+
+*JO du 2016-08-30*
+
+Le Gouvernement est conscient de l'ampleur de la dette du gestionnaire d'infrastructure et de la nécessité de fournir d'importants efforts pour la stabiliser. Un des principaux enjeux de la réforme ferroviaire est ainsi de mettre en place les conditions permettant de traiter cette question. La loi portant réforme ferroviaire a de ce fait acté l'objectif de stabilisation de la dette dans un délai de 10 ans. La création du gestionnaire d'infrastructure unifié permet de dégager d'importants gains de productivité en éliminant les interfaces entre l'ex-RFF et son gestionnaire d'infrastructure délégué, qui étaient une source évidente d'inefficacité. Les règles de financement des investissements de développement du réseau ferré national seront également encadrées en vue de limiter l'accroissement de la dette de SNCF Réseau par le mécanisme de la règle d'or mis en place par la loi. L'activation des leviers nécessaires au redressement de la situation financière de SNCF Réseau sera concrétisée dans le futur contrat de performance de l'établissement. Enfin, comme l'a indiqué le Premier ministre lors de la séance des questions au Gouvernement du 8 juin dernier, la loi portant réforme ferroviaire prévoit l'établissement d'un rapport relatif à la dette de SNCF Réseau. Ce rapport est en cours de rédaction. Il examinera les solutions mises en œuvre pour traiter l'évolution de cette dette et, le cas échéant, envisager des alternatives, y compris une reprise de tout ou partie de la dette et la création d'une caisse d'amortissement. Ce rapport sera remis cet été aux Assemblées. Le législateur disposera ainsi de l'ensemble des données nécessaire afin de prendre une décision.
