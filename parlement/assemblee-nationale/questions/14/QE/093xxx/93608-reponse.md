@@ -1,0 +1,9 @@
+# Réponse à la question n° 93608
+
+- Question : [93608](93608.md) — Question n° 93608 — réseaux d'éducation prioritaire; personnel; régime indemnitaire
+
+## Réponse
+
+*JO du 2016-08-30*
+
+Les articles 1 et 2 du décret no 2015-1087 du 28 août 2015 portant régime indemnitaire spécifique en faveur des personnels exerçant dans les écoles ou établissements relevant des programmes « réseau d'éducation prioritaire » (REP) et « réseau d'éducation prioritaire renforcé » (REP+) disposent que les indemnités REP et REP+ sont allouées aux personnels enseignants, aux conseillers principaux d'éducation, aux personnels de direction, aux personnels administratifs et techniques exerçant dans les écoles ou établissements relevant des classements REP ou REP+. Elles sont également allouées aux personnels sociaux et de santé et aux conseillers d'orientation-psychologues. Ce décret revalorise dans des proportions importantes la rémunération accessoire des personnels exerçant au sein de l'éducation prioritaire. Le montant de la nouvelle indemnité en REP est de 1 734 €, soit une augmentation de 50% par rapport à l'ancienne indemnité et le montant de la nouvelle indemnité en REP+ est de 2 312 €, soit le double de la précédente. Cette amélioration sensible des indemnités vise à renforcer l'attractivité d'une affectation en éducation prioritaire et la stabilisation des personnels. Les assistants d'éducation et les assistants pédagogiques qui sont des personnels contractuels recrutés par contrats d'une durée minimale de 3 ans renouvelables dans la limite d'une période d'engagement totale de six ans conformément à l'article L 916-1 du code de l'éducation, ne relèvent pas des personnels éligibles. Il est rappelé qu'ils ne pouvaient pas davantage prétendre aux indemnités ZEP et ECLAIR, aujourd'hui remplacées par le nouveau dispositif.
