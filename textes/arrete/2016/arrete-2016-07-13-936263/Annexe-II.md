@@ -1,14 +1,14 @@
-# Article Annexe 2
+# Article Annexe II
 
-CONVENTION
+Convention
 
-Conclue entre M., candidat à la délivrance du titre de
+Conclue entre M. , candidat à la délivrance du titre de
 
 par validation des acquis de l'expérience (VAE),
 
 et
 
-M., accompagnateur VAE
+M. , accompagnateur VAE.
 
 Les étapes de l'accompagnement sont les suivantes :
 
