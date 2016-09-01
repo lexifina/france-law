@@ -158,9 +158,9 @@ A. - Epreuves écrites d'admissibilité
 
 1° Composition française sur un sujet se rapportant à un programme d'œuvres d'auteurs de langue française (durée : sept heures ; coefficient 12).
 
-2° Etude grammaticale d'un texte français antérieur à 1500, extrait d'une œuvre inscrite au programme (durée : deux heures trente ; coefficient 4).
+2° Etude grammaticale d'un texte français antérieur à 1500, extrait d'une œuvre inscrite au programme (durée : durée : trois heures ; coefficient 4).
 
-3° Etude grammaticale d'un texte de langue française postérieur à 1500, extrait de l'une des œuvres inscrites au programme (durée : deux heures trente ; coefficient 4).
+3° Etude grammaticale d'un texte de langue française postérieur à 1500, extrait de l'une des œuvres inscrites au programme (durée : durée : trois heures ; coefficient 4).
 
 4° Composition française sur un sujet se rapportant à l'une des deux questions de littérature générale et comparée au programme (durée : sept heures ; coefficient 10).
 
@@ -178,7 +178,7 @@ B. - Epreuves orales d'admission
 
 3° Explication d'un texte de langue française extrait des œuvres au programme de l'enseignement du second degré (durée de la préparation : deux heures ; durée de l'épreuve : trente minutes ; coefficient 7).
 
-4° Commentaire d'un texte de littérature ancienne ou moderne extrait des œuvres au programme prévues pour la seconde composition française (durée de la préparation : deux heures ; durée de l'épreuve : trente minutes ; coefficient 8).
+4° Commentaire d'un texte de littérature ancienne ou moderne extrait des œuvres au programme prévues pour la seconde composition française (durée de la préparation : deux heures trente ; durée de l'épreuve : trente minutes ; coefficient 8).
 
 Un entretien de dix minutes maximum portant sur le contenu de l'exercice présenté suit chacune des quatre épreuves d'admission.
 
@@ -1098,21 +1098,23 @@ Cette dernière épreuve porte sur un programme publié sur le site internet du 
 
 Section sciences industrielles de l'ingénieur
 
-L'agrégation externe de sciences industrielles de l'ingénieur comprend trois options :
+L'agrégation externe de sciences industrielles de l'ingénieur comprend quatre options :
 
 - option sciences industrielles de l'ingénieur et ingénierie mécanique ;
 
 - option sciences industrielles de l'ingénieur et ingénierie électrique ;
 
-- option sciences industrielles de l'ingénieur et ingénierie des constructions.
+- option sciences industrielles de l'ingénieur et ingénierie des constructions ;
 
-Le choix est formulé au moment de l'inscription. Les candidats font l'objet d'un classement distinct selon l'option choisie. Pour l'application du premier alinéa de l'article 3 du présent arrêté, il est institué un jury pour chacune des options.
+- option sciences industrielles de l'ingénieur et ingénierie informatique.
+
+Le choix est formulé au moment de l'inscription. Les candidats font l'objet d'un classement distinct selon l'option choisie. Un jury est institué pour chacune des options.
 
 A. - Epreuves écrites d'admissibilité
 
 1° Epreuve de sciences industrielles de l'ingénieur :
 
-L'épreuve est commune aux trois options. Les candidats composent sur le même sujet au titre de la même session quelle que soit l'option choisie.
+L'épreuve est commune à toutes les options. Les candidats composent sur le même sujet au titre de la même session quelle que soit l'option choisie.
 
 Elle a pour but de vérifier que le candidat est capable de mobiliser ses connaissances scientifiques et techniques pour conduire une analyse systémique, élaborer et exploiter les modèles de comportement permettant de quantifier les performances globales et détaillées d'un système des points de vue matière, énergie et information afin de valider tout ou partie de la réponse au besoin exprimé par un cahier des charges. Elle permet de vérifier les compétences d'un candidat à synthétiser ses connaissances pour analyser et modéliser le comportement d'un système pluritechnique automatique.
 
@@ -1138,9 +1140,9 @@ B. - Epreuves d'admission
 
 1° Exploitation pédagogique d'une activité pratique relative à l'approche globale d'un système pluritechnique :
 
-Durée totale : six heures (activités pratiques : quatre heures ; préparation de l'exposé : une heure ; exposé : quarante minutes maximum ; entretien : vingt minutes maximum) ; 10 points sont attribués à la première partie liée aux activités pratiques et 10 points à la seconde partie liée à la leçon ; coefficient 2.
+Durée totale : six heures (activités pratiques : quatre heures ; préparation de l'exposé : une heure ; exposé : trente minutes maximum ; entretien : trente minutes maximum) ; 10 points sont attribués à la première partie liée aux activités pratiques et 10 points à la seconde partie liée à la leçon ; coefficient 2.
 
-L'épreuve fait appel à des connaissances technologiques et scientifiques communes aux trois options.
+L'épreuve fait appel à des connaissances technologiques et scientifiques communes à l'ensemble des options.
 
 Le support de l'activité pratique proposée est un système pluritechnique et permet une analyse systémique globale. L'exploitation pédagogique proposée, directement liée aux activités pratiques réalisées, est relative aux enseignements de technologie du collège ou aux enseignements technologiques transversaux du cycle terminal "sciences et technologies de l'industrie et du développement durable (STI2D)" et/ou sciences de l'ingénieur de la voie scientifique (SSI) du lycée et des classes préparatoires aux grandes écoles.
 
@@ -1162,7 +1164,7 @@ Au cours de l'entretien, le candidat est conduit plus particulièrement à préc
 
 2° Activité pratique et exploitation pédagogique relatives à l'approche spécialisée d'un système pluritechnique
 
-Durée totale : six heures (activités pratiques : quatre heures ; préparation de l'exposé : une heure ; exposé : quarante minutes maximum ; entretien : vingt minutes maximum) ; 10 points sont attribués à la première partie liée aux activités pratiques et 10 points à la seconde partie liée à la leçon ; coefficient 2.
+Durée totale : six heures (activités pratiques : quatre heures ; préparation de l'exposé : une heure ; exposé : trente minutes maximum ; entretien : trente minutes maximum) ; 10 points sont attribués à la première partie liée aux activités pratiques et 10 points à la seconde partie liée à la leçon ; coefficient 2.
 
 Le support de l'activité pratique proposée permet, à partir d'une analyse systémique globale, l'analyse d'un problème technique particulier relatif à la spécialité du concours dans l'option choisie. La proposition pédagogique attendue, directement liée aux activités pratiques réalisées, est relative aux enseignements technologiques de spécialité du cycle terminal "sciences et technologies de l'industrie et du développement durable (STI2D)" du lycée et des programmes de BTS et DUT relatifs aux champs couverts par l'option choisie.
 
@@ -1280,7 +1282,7 @@ B. - Epreuves d'admission
 
 1° Leçon portant sur le management.
 
-Durée de la préparation : quatre heures ; durée totale de l'épreuve : quarante-cinq minutes maximum (exposé : vingt-cinq minutes maximum ; entretien : vingt minutes maximum), coefficient 1.
+Durée de la préparation : quatre heures ; durée totale de l'épreuve : une heure (exposé : quarante minutes maximum ; entretien : vingt minutes maximum), coefficient 1.
 
 L'épreuve consiste en la présentation d'une leçon en relation avec les programmes de management des lycées et des classes postbaccalauréat. Dans un cadre pédagogique et un contexte d'enseignement donnés, le candidat présente un projet de séquence pédagogique, intégrée dans une progression (leçon, séance de travaux dirigés, etc.). La présentation est suivie d'un entretien avec le jury au cours duquel le candidat est invité à justifier ses choix d'ordre didactique et pédagogique.
 

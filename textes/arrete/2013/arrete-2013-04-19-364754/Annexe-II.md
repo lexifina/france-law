@@ -226,7 +226,7 @@ B. - Epreuve d'admission
 
 Exploitation pédagogique pratique dans l'option choisie.
 
-L'épreuve comprend la réalisation d'un thème pédagogique pratique et un entretien avec le jury.
+L'épreuve comprend la réalisation d'un thème pédagogique pratique, en présence d'élèves, et un entretien avec le jury.
 
 L'épreuve de l'option services et commercialisation comporte une séquence en langue vivante étrangère. Le candidat indique la langue choisie lors de son inscription parmi quatre langues vivantes : allemand, anglais, espagnol et italien.
 
@@ -234,11 +234,11 @@ Cette épreuve doit permettre de tester la valeur pédagogique du candidat et so
 
 Dans l'option choisie, elle peut ainsi consister en la préparation, l'organisation et la réalisation d'une démonstration pratique mettant en œuvre des savoirs et des savoir-faire techniques et professionnels.
 
-Le jury évalue l'aptitude du candidat à préparer des séquences de travaux pratiques ou de technologie appliquée, à les organiser, à les conduire avec méthode tout en ne se limitant pas à la seule dimension technique mais en intégrant des composantes telles que la commercialisation, la communication, l'utilisation des technologies nouvelles, et pour l'option services et commercialisation l'utilisation de la langue choisie dans un contexte professionnel.
+Le jury évalue l'aptitude du candidat à préparer des séquences de travaux pratiques ou d'ateliers expérimentaux, à les organiser et à les conduire avec méthode, avec une pédagogie et une didactique adaptées, en ne se limitant pas à la seule dimension technique mais en intégrant des composantes telles que la commercialisation, la communication, l'utilisation des technologies nouvelles et, pour l'option services et commercialisation, l'utilisation de la langue choisie dans un contexte professionnel.
 
 L'épreuve se termine par un entretien pédagogique qui peut donner lieu à un élargissement permettant au jury de prendre en compte l'expérience professionnelle du candidat.
 
-Durée de l'épreuve : trois heures et dix minutes (quarante minutes pour la phase de préparation et d'organisation sous forme écrite ; deux heures pour la phase de réalisation ; trente minutes pour la phase d'entretien).
+Durée de l'épreuve : trois heures et trente minutes (une heure pour la phase de préparation et d'organisation sous forme écrite ; deux heures pour la phase de réalisation ; trente minutes pour la phase d'entretien).
 
 Lors de l'entretien, dix minutes maximum pourront être réservées à un échange sur le dossier de reconnaissance des acquis de l'expérience professionnelle établi pour l'épreuve d'admissibilité, qui reste, à cet effet, à la disposition du jury.
 

@@ -310,7 +310,7 @@ Les deux épreuves orales d'admission comportent un entretien avec le jury qui p
 
 1° Epreuve de mise en situation professionnelle.
 
-Durée : travaux pratiques : quatre heures ; préparation de l'exposé : une heure ; exposé : quarante minutes ; entretien : vingt minutes ; 10 points sont attribués à la première partie liée au travail pratique et 10 points à la seconde partie liée à la leçon ; coefficient 2.
+Durée : travaux pratiques : quatre heures ; préparation de l'exposé : une heure ; exposé : trente minutes ; entretien : trente minutes ; 10 points sont attribués à la première partie liée au travail pratique et 10 points à la seconde partie liée à la leçon ; coefficient 2.
 
 L'épreuve prend appui sur les investigations et les analyses effectuées par le candidat pendant les quatre heures de travaux pratiques relatifs à un système technique et comporte un exposé suivi d'un entretien avec les membres du jury. L'exploitation pédagogique, attendue, directement liée aux activités pratiques réalisées, est relative aux enseignements d'une classe de lycée professionnel donné. Elle prend appui sur les investigations et les analyses effectuées au préalable par le candidat au cours de travaux pratiques relatifs à un système technique de la spécialité.
 
@@ -402,7 +402,7 @@ Les deux épreuves orales d'admission comportent un entretien avec le jury qui p
 
 1° Epreuve de mise en situation professionnelle.
 
-Durée : travaux pratiques : quatre heures ; préparation de l'exposé : une heure ; exposé : quarante minutes ; entretien : vingt minutes ; 10 points sont attribués à la première partie liée au travail pratique et 10 points à la seconde partie liée à la leçon ; coefficient 2.
+Durée : travaux pratiques : quatre heures ; préparation de l'exposé : une heure ; exposé : trente minutes ; entretien : trente minutes ; 10 points sont attribués à la première partie liée au travail pratique et 10 points à la seconde partie liée à la leçon ; coefficient 2.
 
 L'épreuve prend appui sur les investigations et les analyses effectuées par le candidat pendant les quatre heures de travaux pratiques relatifs à un système technique ou à un processus issu du domaine de la section du concours et comporte un exposé suivi d'un entretien avec les membres du jury. L'exploitation pédagogique attendue est directement liée aux activités pratiques réalisées et est relative aux enseignements du lycée professionnel.
 

@@ -6,7 +6,7 @@ Section économie et gestion
 
 A. - Epreuve d'admissibilité
 
-Seconde épreuve écrite d'admissibilité du concours externe du CAPET d'économie et gestion (coefficient 1).
+Première épreuve écrite d'admissibilité du concours externe du CAPET d'économie et gestion (coefficient 1).
 
 B. - Epreuve d'admission
 

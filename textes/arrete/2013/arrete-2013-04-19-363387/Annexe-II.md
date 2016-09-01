@@ -158,9 +158,9 @@ B. - Epreuves d'admission
 
 Leçon et travail pratique.
 
-Durée : travaux pratiques : quatre heures ; préparation de l'exposé : une heure ; exposé : quarante minutes ; entretien : vingt minutes ; coefficient 2.
+Durée : travaux pratiques : quatre heures ; préparation de l'exposé : une heure ; exposé : trente minutes ; entretien : trente minutes ; 10 points sont attribués à la première partie liée au travail pratique et 10 points à la seconde partie liée à la leçon ; coefficient 2.
 
-Le support du travail pratique proposé est lié à la dominante mais doit être pluritechnique et permettre une démarche systémique globale. La leçon, directement liée aux activités pratiques réalisées, est relative aux enseignements de technologie du collège ou aux enseignements technologiques du cycle terminal sciences et technologies de l'industrie et du développement durable (STI2D) ou aux sciences de l'ingénieur de la voie scientifique du lycée.
+Le support du travail pratique proposé est pluritechnique et permet une démarche systémique intégrant un développement relatif à la dominante. La leçon, directement liée aux activités pratiques réalisées, est relative aux enseignements de technologie du collège ou aux enseignements technologiques du cycle terminal sciences et technologies de l'industrie et du développement durable (STI2D) ou aux sciences de l'ingénieur de la voie scientifique du lycée.
 
 L'épreuve a pour but d'évaluer l'aptitude du candidat à :
 

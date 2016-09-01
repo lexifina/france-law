@@ -302,7 +302,7 @@ Les deux épreuves orales d'admission comportent un entretien avec le jury qui p
 
 1° Epreuve de mise en situation professionnelle.
 
-Durée : travaux pratiques : quatre heures ; préparation de l'exposé : une heure ; exposé : quarante minutes ; entretien : vingt minutes ; 10 points sont attribués à la première partie liée au travail pratique et 10 points à la seconde partie liée à la leçon ; coefficient 2.
+Durée : travaux pratiques : quatre heures ; préparation de l'exposé : une heure ; exposé : trente minutes ; entretien : trente minutes ; 10 points sont attribués à la première partie liée au travail pratique et 10 points à la seconde partie liée à la leçon ; coefficient 2.
 
 L'épreuve prend appui sur les investigations et les analyses effectuées par le candidat pendant les quatre heures de travaux pratiques relatifs à un système technique ou à un processus issu du domaine de la section du concours et comporte un exposé suivi d'un entretien avec les membres du jury. L'exploitation pédagogique attendue est directement liée aux activités pratiques réalisées et du niveau des classes postbaccalauréat.
 
@@ -374,21 +374,23 @@ Section sciences industrielles de l'ingénieur
 
 L'ensemble des épreuves du concours vise à évaluer les capacités des candidats au regard des dimensions disciplinaires, scientifiques, techniques et professionnelles de l'acte d'enseigner et des situations d'enseignement.
 
-A. ― Epreuves d'admissibilité
+A. - Epreuves d'admissibilité
 
-1° Analyse d'un système pluritechnique.
+1° Analyse et exploitation pédagogique d'un système pluritechnique.
 
 L'épreuve est commune à toutes les options.
 
-Elle a pour but de vérifier que le candidat est capable de mobiliser ses connaissances scientifiques et techniques pour conduire une analyse systémique, élaborer et exploiter les modèles de comportement permettant de quantifier les performances globales et détaillées d'un système pluritechnique des points de vue matière, énergie et information afin de valider tout ou partie de la réponse, au besoin exprimée par un cahier des charges.
+Elle a pour but de vérifier que le candidat est capable de mobiliser ses connaissances scientifiques et technologiques pour conduire une analyse systémique, élaborer et exploiter les modèles de comportement permettant de quantifier les performances d'un système pluritechnique des points de vue matière, énergie et information afin de valider tout ou partie de la réponse, au besoin exprimée par un cahier des charges.
 
-Durée : quatre heures ; coefficient 2.
+Elle permet également de vérifier que le candidat est capable d'élaborer tout ou partie de l'organisation d'une séquence pédagogique, relative à l'enseignement de technologie du collège ou aux enseignements technologiques du cycle terminal "sciences et technologies de l'industrie et du développement durable (STI2D)" ou aux sciences de l'ingénieur de la voie scientifique du lycée, ainsi que les documents techniques et pédagogiques associés (documents professeurs, documents fournis aux élèves, éléments d'évaluation).
 
-2° Exploitation pédagogique d'un dossier technique.
+Durée : cinq heures ; coefficient 2.
+
+2° Etude d'un système, d'un procédé ou d'une organisation.
 
 L'épreuve est spécifique à l'option choisie.
 
-A partir d'un dossier technique fourni au candidat comportant les éléments nécessaires à l'étude, l'épreuve a pour objectif de vérifier que le candidat est capable d'élaborer tout ou partie de l'organisation d'une séquence pédagogique, dont le thème est proposé par le jury, relative à l'enseignement de technologie du collège ou aux enseignements technologiques du cycle terminal sciences et technologies de l'industrie et du développement durable (STI2D) ou aux sciences de l'ingénieur de la voie scientifique du lycée, ainsi que les documents techniques et pédagogiques associés (documents professeurs, documents fournis aux élèves, éléments d'évaluation).
+L'épreuve a pour but de vérifier que le candidat est capable de conduire une analyse critique de solutions technologiques et de mobiliser ses connaissances scientifiques et technologiques pour élaborer et exploiter les modèles de comportement permettant de quantifier les performances d'un système ou d'un processus lié à la spécialité et définir des solutions technologiques.
 
 Durée : quatre heures ; coefficient 1.
 

@@ -424,37 +424,43 @@ Un programme de mathématiques et statistiques appliquées aux sciences économi
 
 Section sciences industrielles de l'ingénieur
 
-L'agrégation interne de sciences industrielles de l'ingénieur comprend trois options :
+L'agrégation interne de sciences industrielles de l'ingénieur comprend quatre options :
 
 - option sciences industrielles de l'ingénieur et ingénierie mécanique ;
 
 - option sciences industrielles de l'ingénieur et ingénierie électrique ;
 
-- option sciences industrielles de l'ingénieur et ingénierie des constructions.
+- option sciences industrielles de l'ingénieur et ingénierie des constructions ;
 
-Le choix est formulé au moment de l'inscription. Les candidats font l'objet d'un classement distinct selon l'option choisie. Pour l'application du premier alinéa de l'article 3 du présent arrêté, il est institué un jury pour chacune des options.
+- option sciences industrielles de l'ingénieur et ingénierie informatique.
+
+Le choix est formulé au moment de l'inscription. Les candidats font l'objet d'un classement distinct selon l'option choisie. Un jury est institué pour chacune des options.
 
 A. - Epreuves écrites d'admissibilité
 
-1° Epreuve de sciences industrielles de l'ingénieur :
+1° Analyse et exploitation pédagogique d'un système pluritechnique.
 
-L'épreuve est commune aux trois options. Les candidats composent sur le même sujet au titre de la même session quelle que soit l'option choisie.
+L'épreuve est commune à toutes les options. Les candidats composent sur le même sujet au titre de la même session quelle que soit l'option choisie.
 
-Elle a pour but de vérifier que le candidat est capable de mobiliser ses connaissances scientifiques et techniques pour conduire une analyse systémique, élaborer et exploiter les modèles de comportement permettant de quantifier les performances globales et détaillées d'un système des points de vue matière, énergie et information afin de valider tout ou partie de la réponse aux besoins exprimés par un cahier des charges. Elle permet de vérifier les compétences d'un candidat à synthétiser ses connaissances pour analyser et modéliser le comportement d'un système pluritechnique automatique.
+L'épreuve a pour but de vérifier que le candidat est capable de mobiliser ses connaissances scientifiques et techniques pour conduire une analyse systémique, élaborer et exploiter les modèles de comportement permettant de quantifier les performances globales et détaillées d'un système des points de vue matière, énergie et information afin de valider tout ou partie de la réponse au besoin exprimé par un cahier des charges. Elle permet de vérifier les compétences d'un candidat à synthétiser ses connaissances pour analyser et modéliser le comportement d'un système pluritechnique.
 
-Durée : quatre heures ; coefficient 2.
+Elle permet également de vérifier que le candidat est capable d'élaborer tout ou partie de l'organisation d'une séquence pédagogique, relative à l'enseignement de technologie du collège ou aux enseignements technologiques du cycle terminal "sciences et technologies de l'industrie et du développement durable (STI2D)" ou aux sciences de l'ingénieur de la voie scientifique du lycée, ainsi que les documents techniques et pédagogiques associés (documents professeurs, documents fournis aux élèves, éléments d'évaluation).
 
-2° Exploitation pédagogique d'un dossier technique.
+Durée de l'épreuve : cinq heures ; coefficient 2.
+
+2° Etude d'un système, d'un procédé ou d'une organisation.
 
 L'épreuve est spécifique à l'option choisie.
 
-A partir d'un dossier technique fourni au candidat comportant les éléments nécessaires à l'étude, l'épreuve a pour objectif de vérifier que le candidat est capable d'élaborer tout ou partie de l'organisation d'une séquence pédagogique, dont le thème est proposé par le jury, relative aux enseignements technologiques du cycle terminal "sciences et technologies de l'industrie et du développement durable (STI2D)" ou aux sciences de l'ingénieur de la voie scientifique du lycée, et aux enseignements des BTS du domaine considéré ainsi que les documents techniques et pédagogiques associés (documents professeurs, documents fournis aux élèves, éléments d'évaluation) (durée : six heures ; coefficient 1).
+L'épreuve a pour but de vérifier que le candidat est capable de conduire une analyse critique de solutions technologiques et de mobiliser ses connaissances scientifiques et technologiques pour élaborer et exploiter les modèles de comportement permettant de quantifier les performances d'un système ou d'un processus lié à la spécialité et définir des solutions technologiques.
+
+Durée de l'épreuve : quatre heures ; coefficient 1.
 
 B. - Epreuves d'admission
 
 1° Activité pratique et exploitation pédagogique d'un système pluritechnique :
 
-Dans l'option choisie, le candidat détermine, au moment de l'inscription, un domaine d'activité parmi les deux proposés ci-après :
+Pour certaines options, le candidat détermine, au moment de l'inscription, un domaine d'activité parmi deux qui lui sont proposés :
 
 - "conception des systèmes mécaniques" ou "industrialisation des systèmes mécaniques" pour l'option sciences industrielles de l'ingénieur et ingénierie mécanique ;
 
@@ -462,7 +468,7 @@ Dans l'option choisie, le candidat détermine, au moment de l'inscription, un do
 
 - "constructions" ou "énergétique" pour l'option sciences industrielles de l'ingénieur et ingénierie des constructions.
 
-Durée totale : six heures (activités pratiques : 4 heures ; préparation de l'exposé : une heure ; exposé : quarante minutes maximum ; entretien : vingt minutes maximum) ; 10 points sont attribués à la première partie liée aux activités pratiques et 10 points à la seconde partie liée à la leçon ; coefficient 2.
+Durée totale : six heures (activités pratiques : quatre heures ; préparation de l'exposé : une heure ; exposé : trente minutes maximum ; entretien : trente minutes maximum) ; 10 points sont attribués à la première partie liée aux activités pratiques et 10 points à la seconde partie liée à la leçon ; coefficient 2.
 
 Le support de l'activité pratique proposée permet, à partir d'une analyse systémique globale, l'analyse d'un problème technique particulier relatif à la spécialité de l'agrégation. La proposition pédagogique attendue, directement liée aux activités pratiques réalisées, est relative aux enseignements technologiques de spécialité du cycle terminal "sciences et technologies de l'industrie et du développement durable (STI2D)" du lycée et des programmes de BTS et DUT relatifs aux champs couverts par l'option choisie.
 
