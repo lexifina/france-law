@@ -1,10 +1,8 @@
-# Article LEGIARTI000031854951
-
-ANNEXE 1
+# Article Annexe 2
 
 LISTE DES DIRECTIONS RÉGIONALES
 
-et interrégionales de l'Insee |
+et interrégionales de l'INSEE |
 
 SERVICES |
 
@@ -29,8 +27,6 @@ Direction régionale d'Alsace-Champagne-Ardenne-Lorraine, siège à Strasbourg
 Trois sites : Nancy, Reims et Strasbourg |
 
 Service de l'administration des ressources de Nancy
-
-Service de l'administration des ressources de Reims
 
 Service de l'administration des ressources de Strasbourg
 
@@ -62,11 +58,7 @@ Service statistique de Limoges
 
 Service statistique de Poitiers
 
-Service d'études et de diffusion de Bordeaux
-
-Service d'études et de diffusion de Limoges
-
-Service d'études et de diffusion de Poitiers |
+Service d'études et de diffusion de Bordeaux |
 
 Direction régionale d'Auvergne-Rhône-Alpes, siège à Lyon
 
@@ -164,15 +156,11 @@ Service statistique de Montpellier
 
 Service statistique de Toulouse
 
-Service d'études et de diffusion de Montpellier
-
 Service d'études et de diffusion de Toulouse |
 
 Direction régionale de Nord-Pas-de-Calais-Picardie, siège à Lille
 
 Deux sites : Amiens et Lille |
-
-Service de l'administration des ressources d'Amiens
 
 Service de l'administration des ressources de Lille
 
@@ -191,8 +179,6 @@ Direction régionale de Normandie, siège à Caen
 Deux sites : Caen et Rouen |
 
 Service de l'administration des ressources de Caen
-
-Service de l'administration des ressources de Rouen
 
 Service statistique de Caen
 
