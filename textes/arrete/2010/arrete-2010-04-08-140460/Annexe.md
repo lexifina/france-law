@@ -14,7 +14,7 @@ L'enseignement d'exploration de sciences économiques et sociales en classe de s
 
 Les objectifs d'apprentissage retenus pour cet enseignement d'exploration sont volontairement limités et ne doivent pas conduire à une étude exhaustive des notions et outils figurant dans le programme. Chaque thème est subdivisé en une série de questions simples dont l'étude sera conduite en deux temps : un premier temps de sensibilisation a pour objectif d'ancrer chaque question sur des données concrètes en partant de supports variés (jeux, études de cas, comptes rendus d'enquêtes, tableaux statistiques, graphiques, documents iconographiques et audiovisuels) ; un second temps d'analyse montrera aux élèves comment la mobilisation des notions, outils et modes de raisonnement spécifiques à la science économique et à la sociologie permet d'accéder à une meilleure compréhension des phénomènes étudiés.
 
-Dans le cadre du programme, et sous réserve de respecter les objectifs fixés, les professeurs exerceront leur liberté pédagogique pour organiser leur progression de cours et adapter leurs méthodes de travail à leurs élèves. Ils traiteront obligatoirement la première question de chacun des cinq thèmes et au moins huit questions sur les dix proposées en respectant un équilibre temporel dans le traitement de chaque question. Ils s'efforceront de mettre les élèves en situation d'activité intellectuelle et veilleront à diversifier leurs dispositifs pédagogiques en développant notamment la recherche documentaire, l'utilisation de l'outil informatique et de l'Internet. L'élève sera ainsi placé dans une posture de recherche qui doit le conduire à se poser des questions précises, à formuler des hypothèses explicatives et à les confronter aux données empiriques. Dans tous les cas, les professeurs s'attacheront à organiser la réflexion des élèves et surtout à donner du sens aux apprentissages.
+Dans le cadre du programme, et sous réserve de respecter les objectifs fixés, les professeurs exerceront leur liberté pédagogique pour organiser leur progression de cours et adapter leurs méthodes de travail à leurs élèves. Ils traiteront obligatoirement la première question des thèmes I, II, IV et V et au moins deux questions au choix sur les six autres questions en respectant un équilibre temporel dans le traitement de chaque question. Ils s'efforceront de mettre les élèves en situation d'activité intellectuelle et veilleront à diversifier leurs dispositifs pédagogiques en développant notamment la recherche documentaire, l'utilisation de l'outil informatique et de l'Internet. L'élève sera ainsi placé dans une posture de recherche qui doit le conduire à se poser des questions précises, à formuler des hypothèses explicatives et à les confronter aux données empiriques. Dans tous les cas, les professeurs s'attacheront à organiser la réflexion des élèves et surtout à donner du sens aux apprentissages.
 
 THÈMES D'EXPLORATION
 
@@ -42,7 +42,7 @@ Revenu disponible, consommation, épargne, pouvoir d'achat.
 
 |
 
-Après avoir constaté que le revenu disponible se répartit entre consommation et épargne et évoqué les différentes formes d'épargne, on montrera à partir de données chiffrées simples que la consommation des ménages dépend à la fois du niveau de leur revenu et du prix des biens. On mettra en évidence les effets dans le temps de l'évolution du pouvoir d'achat sur la structure de la consommation des ménages. On initiera les élèves à interpréter les valeurs significatives que peuvent prendre les élasticités (prix et revenu) pour quelques types de biens en mettant en évidence l'intérêt de cet outil pour l'économiste.
+Après avoir constaté que le revenu disponible se répartit entre consommation et épargne et évoqué les différentes formes d'épargne, on montrera à partir de données chiffrées simples que la consommation des ménages dépend à la fois du niveau de leur revenu et du prix des biens. On mettra en évidence les effets dans le temps de l'évolution du pouvoir d'achat sur la structure de la consommation des ménages. On pourra initier les élèves à la notion d'élasticité (prix et revenu) pour quelques types de biens en mettant en évidence l'intérêt de cet outil pour l'économiste.
 
 |
 
@@ -177,7 +177,5 @@ Proportion, pourcentage de répartition.
 Taux de variation, coefficient multiplicateur, indice simple.
 
 Moyenne arithmétique simple et pondérée, médiane.
-
-Élasticité prix et élasticité revenu.
 
 Lecture de tableaux à double entrée, de diagrammes de répartition, de séries chronologiques.
