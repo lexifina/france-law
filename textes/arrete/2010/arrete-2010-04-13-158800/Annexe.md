@@ -1,22 +1,22 @@
 # Article Annexe
 
-1 - INTRODUCTION
+1-INTRODUCTION
 
 L'enseignement d'économie et droit contribue à la formation générale et professionnelle des futurs bacheliers :
 
-- en leur proposant des clefs de compréhension et d'analyse de l'organisation économique et juridique de la société contemporaine, à partir de l'étude des contextes dans lesquels s'exercera leur activité professionnelle ;
+-en leur proposant des clefs de compréhension et d'analyse de l'organisation économique et juridique de la société contemporaine, à partir de l'étude des contextes dans lesquels s'exercera leur activité professionnelle ;
 
-- en servant de base à l'acquisition des compétences professionnelles attendues dans les différentes spécialités de baccalauréats professionnels concernées.
+-en servant de base à l'acquisition des compétences professionnelles attendues dans les différentes spécialités de baccalauréats professionnels concernées.
 
 Cette double ambition conduit à inscrire les apprentissages dans un projet global qui vise à :
 
-- l'acquisition d'un corpus de connaissances juridiques et économiques, associées à celles portant sur la diversité, le fonctionnement et l'analyse des organisations ;
+-l'acquisition d'un corpus de connaissances juridiques et économiques, associées à celles portant sur la diversité, le fonctionnement et l'analyse des organisations ;
 
-- la maîtrise de méthodes d'observation, d'interprétation et d'explicitation de situations professionnelles prenant appui sur ces connaissances ;
+-la maîtrise de méthodes d'observation, d'interprétation et d'explicitation de situations professionnelles prenant appui sur ces connaissances ;
 
-- la restitution des résultats de ces analyses sous forme écrite et/ou orale ;
+-la restitution des résultats de ces analyses sous forme écrite et/ ou orale ;
 
-- la conduite d'activités permettant la mobilisation de ce corpus de connaissances et favorisant le réinvestissement et l'approfondissement des notions étudiées.
+-la conduite d'activités permettant la mobilisation de ce corpus de connaissances et favorisant le réinvestissement et l'approfondissement des notions étudiées.
 
 La complexité et les évolutions de l'environnement professionnel nécessitent d'aborder cet enseignement de la manière la plus concrète possible. Les méthodes d'investigation et les outils des technologies de l'information et de la communication doivent être utilement sollicités à cet effet.
 
@@ -24,29 +24,29 @@ Ce travail d'observation et d'analyse du réel est conduit durant les horaires d
 
 Le programme est découpé en six grandes parties :
 
-1 - Le contexte de l'activité professionnelle
+1-Le contexte de l'activité professionnelle
 
-2 - Le droit facteur d'organisation et de régulation sociales
+2-Le droit facteur d'organisation et de régulation sociales
 
-3 - Les relations sociales dans les organisations
+3-Les relations sociales dans les organisations
 
-4 - La création de richesse
+4-La création de richesse
 
-5 - L'organisation des échanges
+5-L'organisation des échanges
 
-6 - La régulation économique
+6-La régulation économique
 
 Chaque partie est organisée de la façon suivante :
 
-- une présentation des objectifs généraux ;
+-une présentation des objectifs généraux ;
 
-- un tableau composé de quatre colonnes : thèmes, axes de réflexion, champ des connaissances, exemples d'objets d'étude ;
+-un tableau composé de quatre colonnes : thèmes, axes de réflexion, champ des connaissances, exemples d'objets d'étude ;
 
-- des indications complémentaires qui précisent le champ et les limites de la partie.
+-des indications complémentaires qui précisent le champ et les limites de la partie.
 
 Chaque partie comporte une durée indicative de formation en établissement qui constitue un repère pour le formateur. Ces durées ne prennent pas en compte le temps consacré aux études et les périodes de formation en milieu professionnel.
 
-2 - LES ÉTUDES
+2-LES ÉTUDES
 
 Les études visent à permettre aux élèves le réinvestissement des connaissances relatives à un thème donné, sur un objet d'étude donné, avec pour objectif la réalisation d'un travail personnalisé.
 
@@ -54,25 +54,25 @@ Les études offrent une opportunité supplémentaire de rendre les élèves acte
 
 Une étude est caractérisée par :
 
-- un objet explicite ;
+-un objet explicite ;
 
-- un ou plusieurs objectifs opérationnels en terme de formation, en lien direct avec un thème du programme ;
+-un ou plusieurs objectifs opérationnels en terme de formation, en lien direct avec un thème du programme ;
 
-- un champ d'investigation conforme au niveau de formation ;
+-un champ d'investigation conforme au niveau de formation ;
 
-- un volume horaire adapté à la nature de l'étude, mais ne pouvant excéder quatre heures pour la partie réalisée en classe ;
+-un volume horaire adapté à la nature de l'étude, mais ne pouvant excéder quatre heures pour la partie réalisée en classe ;
 
-- l'apport d'un travail personnel de l'élève en dehors de la classe ;
+-l'apport d'un travail personnel de l'élève en dehors de la classe ;
 
-- une modalité de restitution individuelle et personnalisée (écrite et orale).
+-une modalité de restitution individuelle et personnalisée (écrite et orale).
 
 L'étude peut prendre appui sur les informations recueillies ou les observations réalisées à l'occasion des périodes de formation en milieu professionnel. Elle mobilise les méthodes de travail étudiées ainsi que les outils d'investigation dont l'élève peut disposer dans l'établissement de formation ou à l'extérieur.
 
 Des exemples d'objets d'étude figurent au regard de chaque axe du programme (colonne 4), cette liste n'est pas exhaustive. Deux ou trois études sont réalisables au cours de chaque année de formation du cycle conduisant au baccalauréat professionnel.
 
-3 - LES PROGRAMMES
+3-LES PROGRAMMES
 
-Partie 1 - Le contexte économique de l'activité professionnelle
+Partie 1-Le contexte économique de l'activité professionnelle
 
 Partie 1 : LE CONTEXTE ÉCONOMIQUE DE L'ACTIVITÉ PROFESSIONNELLE
 
@@ -104,7 +104,7 @@ Propositions d'objets d'étude
 
 |
 
-1- 1 Les métiers et le contexte professionnel
+1-1 Les métiers et le contexte professionnel
 
 |
 
@@ -146,7 +146,7 @@ Les collectivités et les administrations publiques
 
 |
 
-1- 2 Les organisations
+1-2 Les organisations
 
 |
 
@@ -178,7 +178,7 @@ Les principes et les missions de service public
 
 La défense d'un intérêt commun
 
-La production de biens et/ou de services marchands ou non marchands
+La production de biens et/ ou de services marchands ou non marchands
 
 La création de richesse
 
@@ -196,7 +196,7 @@ Les partenaires et leurs rôles
 
 |
 
-1- 3 Les entreprises
+1-3 Les entreprises
 
 |
 
@@ -252,7 +252,7 @@ Indications complémentaires
 
 1.1 Les métiers et le contexte professionnel
 
-Cette partie prend appui directement sur les acquis du collège, notamment le pilier 7 du socle commun de connaissances et de compétences.
+Cette partie prend appui directement sur les acquis du collège, notamment le pilier 7 du socle commun de connaissances, de compétences et de culture.
 
 Les métiers et les emplois du secteur professionnel correspondant à la spécialité du diplôme
 
@@ -274,7 +274,7 @@ Le rôle des organisations syndicales de salariés est approfondi dans le cadre 
 
 Les différentes organisations
 
-La diversité des organisations répond aux besoins de l'économie et/ou à certaines formes de la demande sociale.
+La diversité des organisations répond aux besoins de l'économie et/ ou à certaines formes de la demande sociale.
 
 L'observation des organisations présente de nombreuses opportunités en matière de repérage d'objets d'étude en relation avec la spécialité du diplôme. Il est possible d'extraire de l'environnement professionnel immédiat des exemples d'évolution des organisations.
 
@@ -314,13 +314,13 @@ La prise de décision est analysée en faisant apparaître, selon le cas, les li
 
 L'entreprise et son marché
 
-Il convient d'identifier les produits et/ou services commercialisés par l'entreprise à partir de son activité principale. On montre que la production et la commercialisation de biens ou de services s'accompagne de plus en plus fréquemment de l'offre de services liés.
+Il convient d'identifier les produits et/ ou services commercialisés par l'entreprise à partir de son activité principale. On montre que la production et la commercialisation de biens ou de services s'accompagne de plus en plus fréquemment de l'offre de services liés.
 
 La situation de l'entreprise est étudiée par rapport à ses partenaires (clients et fournisseurs), à son marché et à la concurrence, à partir d'exemples concrets et en évitant toute approche théorique.
 
 Il s'agit de l'observation du couple marché-produit et de la politique commerciale mise en œuvre : produit, prix, distribution, communication, en se limitant à quelques exemples caractéristiques d'une politique commerciale d'entreprise et en évitant tout développement théorique. L'observation et l'analyse d'une entreprise réelle doit permettre le réinvestissement des ces notions et une mise en perspective.
 
-Partie 2 - Le cadre juridique de l'organisation sociale
+Partie 2-Le cadre juridique de l'organisation sociale
 
 Partie 2 : LE CADRE JURIDIQUE DE L'ORGANISATION SOCIALE
 
@@ -410,33 +410,13 @@ Les attributs des personnes juridiques
 
 |
 
-L'exercice des droits subjectifs d'une catégorie sociale donnée
-
 L'évolution du droit de la preuve liée à l'internet
 
 Une situation concrète mettant en jeu la notion de responsabilité
 
+La responsabilité des commettants du fait de leurs préposés
+
 Une situation juridique en relation avec la spécialité du diplôme préparé et portant sur la mise en œuvre de la responsabilité
-
-|
-
-L'exercice des droits subjectifs
-
-|
-
-L'acte juridique
-
-Les faits juridiques
-
-|
-
-La classification des droits subjectifs
-
-|
-
-Les droits patrimoniaux
-
-Les droits extra-patrimoniaux
 
 |
 
@@ -461,14 +441,6 @@ La responsabilité
 La responsabilité
 
 Les fondements de la responsabilité civile
-
-Le fait générateur de la responsabilité
-
-Le dommage
-
-Le lien de causalité
-
-La réparation
 
 |
 
@@ -516,7 +488,7 @@ Il convient de présenter l'importance de leur ancrage constitutionnel ; en effe
 
 À partir d'un exemple choisi parmi les libertés politiques ou sociales, on montre que le droit encadre et organise l'espace de liberté des individus mais peut aussi en limiter l'usage pour des nécessités d'ordre public.
 
-Les devoirs, les obligations sont abordés sous un angle très général en montrant qu'ils constituent, le plus souvent, la contrepartie des droits fondamentaux. Il convient de partir d'exemples simples de libertés fondamentales en recherchant les devoirs et/ou les obligations qui s'y rapportent (respecter l'ordre public, payer l'impôt, etc.).
+Les devoirs, les obligations sont abordés sous un angle très général en montrant qu'ils constituent, le plus souvent, la contrepartie des droits fondamentaux. Il convient de partir d'exemples simples de libertés fondamentales en recherchant les devoirs et/ ou les obligations qui s'y rapportent (respecter l'ordre public, payer l'impôt, etc.).
 
 Les obligations liées aux contrats sont traitées dans les parties 3 (le contrat de travail) et 5 (les obligations et le contrat). L'analyse des libertés économiques est vue dans la partie 5.
 
@@ -532,29 +504,17 @@ Les titulaires des droits subjectifs
 
 Les sujets de droit sont les personnes physiques et les personnes morales. Ils possèdent la personnalité juridique. L'aptitude à être titulaire de droits n'est pas la même pour toutes les personnes physiques. On distingue capacité d'exercice et capacité de jouissance. Concernant l'incapacité, on se limite à exposer les principaux cas et à montrer qu'elle constitue une exception. La notion de personne morale est présentée comme une technique juridique permettant l'organisation d'un groupement de personnes. Les sujets de droit sont identifiés par leur nom, leur domicile, leur nationalité et leur patrimoine.
 
-L'exercice des droits subjectifs
-
-L'objectif est de distinguer les actes et les faits juridiques. Lors d'un acte juridique les parties prennent en considération les effets juridiques de l'acte alors que dans le fait juridique l'effet de droit est créé par la loi et non par l'individu.
-
-La classification des droits subjectifs
-
-Les droits patrimoniaux résultent des relations juridiques qui naissent de la détention, de la production, de l'exploitation et de la circulation des biens. Ces derniers peuvent être classés en bien meuble et bien immeuble d'une part et en bien corporel et bien incorporel d'autre part. L'analyse s'effectue à partir d'exemples simples en insistant sur l'intérêt de cette classification.
-
-On distingue les droits réels des droits personnels en choisissant l'exemple du droit de propriété et en excluant ses démembrements. Le droit de propriété est analysé de manière plus approfondie dans la partie 5.
-
-Les droits extra-patrimoniaux sont inhérents à la personne humaine. À partir d'exemples on présente les caractères des droits extra-patrimoniaux liés à la personne, dans sa dimension physique et morale.
-
 La preuve des droits subjectifs
 
 Le principe de la charge de la preuve est présenté sans aborder la notion de présomption.
 
 On privilégie la preuve écrite et on montre l'évolution liée à l'utilisation des technologies de l'information et de la communication. On montre qu'il existe des modes de preuves spécifiques selon qu'il s'agit d'actes ou de faits juridiques.
 
-La responsabilité
+La responsabilité :
 
-Les comportements humains peuvent engendrer des dommages que le droit doit sanctionner et réparer. On distingue responsabilité pénale et civile par leur finalité respective : sanction et réparation. On différencie ensuite responsabilité civile délictuelle et responsabilité civile contractuelle, cette dernière étant étudiée dans la partie 5. Il convient de présenter l'évolution des fondements de la responsabilité civile délictuelle. À une responsabilité subjective fondée sur la faute est venue s'ajouter une responsabilité objective fondée sur le risque entraînant une socialisation de celui-ci, c'est-à-dire une prise en charge par la collectivité.
+Les comportements humains peuvent engendrer des dommages. La responsabilité civile a pour finalité la réparation de ces dommages par le versement d'une indemnisation financière, les dommages-intérêts. On différencie responsabilité civile délictuelle et responsabilité civile contractuelle, cette dernière étant étudiée dans la partie 5. Il convient de présenter l'évolution des fondements de la responsabilité civile délictuelle à travers la prise en compte du risque comme fait générateur de la responsabilité du fait d'autrui, en particulier dans le cas de la responsabilité des commettants du fait de leurs préposés.
 
-Les trois éléments constitutifs de la responsabilité civile délictuelle (fait générateur, dommage, lien de causalité) sont présentés à partir d'exemples simples illustrant la responsabilité du fait personnel, du fait des choses et du fait d'autrui.
+Les trois éléments constitutifs de la responsabilité civile délictuelle (fait générateur, dommage, lien de causalité) sont présentés brièvement à partir d'exemples simples illustrant la responsabilité du fait personnel.
 
 2.3 La mise en œuvre du droit
 
@@ -568,7 +528,7 @@ Le principe du double degré de juridiction est explicité et le rôle de la Cou
 
 Les principaux acteurs du système juridique sont identifiés ainsi que les grands principes de déroulement d'une instance.
 
-Partie 3 - Les relations sociales dans les organisations
+Partie 3-Les relations sociales dans les organisations
 
 Partie 3 : LES RELATIONS SOCIALES DANS LES ORGANISATIONS
 
@@ -818,7 +778,7 @@ Les conflits collectifs
 
 Lorsque les relations du travail deviennent difficiles et que les parties n'arrivent pas à s'entendre, des conflits collectifs peuvent survenir (grève, lock-out). On définit et on caractérise la notion de grève licite. On analyse quelques exemples de conflits collectifs qui répondent ou non aux conditions d'une grève licite. On précise les conséquences de la grève (suspension du contrat de travail, perte de salaire).
 
-Partie 4 - La création de richesse
+Partie 4-La création de richesse
 
 Partie 4 : LA CRÉATION DE RICHESSE
 
@@ -846,7 +806,7 @@ Propositions d'objets d'étude
 
 |
 
-4- 1 La production et l'organisation du travail
+4-1 La production et l'organisation du travail
 
 |
 
@@ -900,11 +860,11 @@ L'organisation du travail
 
 Les principes de l'organisation du travail
 
-Les moyens : standardisation et spécialisation - polyvalence et flexibilité
+Les moyens : standardisation et spécialisation-polyvalence et flexibilité
 
 |
 
-4- 2 La création de richesse par l'entreprise
+4-2 La création de richesse par l'entreprise
 
 |
 
@@ -942,7 +902,7 @@ La croissance de l'entreprise et ses modalités : croissance interne, croissance
 
 |
 
-4- 3 La croissance économique et le développement
+4-3 La croissance économique et le développement
 
 |
 
@@ -958,7 +918,7 @@ La notion de pouvoir d'achat Le PIB comme indicateur de la croissance économiqu
 
 |
 
-La comparaison du PIB/habitant et de l'IDH entre plusieurs pays
+La comparaison du PIB/ habitant et de l'IDH entre plusieurs pays
 
 La place de la France dans le monde selon les principaux indicateurs de croissance et de développement
 
@@ -1044,7 +1004,7 @@ L'objectif du développement durable est de répondre aux besoins des générati
 
 Il convient de s'interroger sur la notion de durabilité, en se limitant à identifier les trois piliers et les enjeux du développement durable et à repérer les actions mises en place par les organisations, au niveau national ou international, pour le favoriser.
 
-Partie 5 - L'organisation des échanges
+Partie 5-L'organisation des échanges
 
 Partie 5 : L'ORGANISATION DES ÉCHANGES
 
@@ -1192,11 +1152,11 @@ La structure des marchés est déterminée par le nombre d'offreurs et de demand
 
 Les échanges de biens et de services s'effectuent sur des marchés spécifiques dont il convient de présenter une typologie générale. Les marchés ne sont pas homogènes. On relève que les règles de détermination du prix d'équilibre sont parfois limitées par la nature des biens ou services échangés, et que l'adaptation de l'offre à la demande entraîne une modification du niveau des prix, montrant parfois des déséquilibres, conjoncturels ou durables, spécifiques à chaque marché :
 
-- Sur le marché des biens et services, on étudiera le mécanisme de fixation des prix à partir de quelques exemples simples de biens et de services marchands.
+-Sur le marché des biens et services, on étudiera le mécanisme de fixation des prix à partir de quelques exemples simples de biens et de services marchands.
 
-- Sur le marché du travail, où le mécanisme de formation des prix échappe partiellement à la libre confrontation entre offreurs (les ménages) et demandeurs (les entreprises), il convient de montrer que le prix du travail est encadré par la législation et des conventions collectives. Les différentes fonctions du Smic (fonctions économiques mais aussi sociales) doivent être présentées.
+-Sur le marché du travail, où le mécanisme de formation des prix échappe partiellement à la libre confrontation entre offreurs (les ménages) et demandeurs (les entreprises), il convient de montrer que le prix du travail est encadré par la législation et des conventions collectives. Les différentes fonctions du Smic (fonctions économiques mais aussi sociales) doivent être présentées.
 
-- Sur le marché international, on montre que l'échange se justifie par l'intérêt qu'y trouvent les co-échangistes, compte tenu de l'inégale répartition spatiale des ressources et des savoir-faire : le commerce international permet de s'approvisionner en biens non disponibles sur le territoire national, ou dont la qualité et le coût sont différents de ceux des biens que l'on peut y trouver. Les théories du commerce international ne sont pas traitées.
+-Sur le marché international, on montre que l'échange se justifie par l'intérêt qu'y trouvent les co-échangistes, compte tenu de l'inégale répartition spatiale des ressources et des savoir-faire : le commerce international permet de s'approvisionner en biens non disponibles sur le territoire national, ou dont la qualité et le coût sont différents de ceux des biens que l'on peut y trouver. Les théories du commerce international ne sont pas traitées.
 
 La demande de biens et services par les ménages : la consommation
 
@@ -1218,7 +1178,7 @@ Le contrat est une variété d'obligation. On définit cette notion et on en pr�
 
 Le contrat repose sur le principe de liberté contractuelle. La notion de contrat doit être analysée par l'observation des quatre conditions de validité et par la mise en évidence de diverses typologies liées au mode de formation, au caractère unilatéral ou synallagmatique, au mode d'exécution, à la liberté de négociation. Il convient de montrer que le contrat exerce des effets entre les parties par sa force obligatoire. L'inexécution du contrat entraîne la résolution ou la résiliation de celui-ci, la responsabilité contractuelle peut également être mise en œuvre. Il convient de souligner l'importance de la différenciation entre obligation de moyen et obligation de résultat dans la mise en œuvre de la responsabilité civile contractuelle.
 
-Partie 6 - La régulation économique
+Partie 6-La régulation économique
 
 Partie 6 : LA RÉGULATION ÉCONOMIQUE
 
@@ -1264,7 +1224,7 @@ La concurrence déloyale
 
 |
 
-L'analyse d'une pratique jugée anti-concurrentielle et/ou d'une pratique commerciale déloyale ou trompeuse
+L'analyse d'une pratique jugée anti-concurrentielle et/ ou d'une pratique commerciale déloyale ou trompeuse
 
 Les autorités de la concurrence (rôle, fonctionnement, composition)
 
