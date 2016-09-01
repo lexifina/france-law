@@ -1,337 +1,335 @@
 # Article Annexe I
 
-Horaires
+NATURE DES ÉPREUVES |
 
-Disciplines
+OPTION INSTRUMENT |
 
-|
+OPTION DANSE |
 
-Seconde
+Durée |
 
-|
+Coefficient |
 
-Première
+Durée |
 
-|
+Coefficient |
 
-Terminale
+Premier groupe |
 
+1. Epreuves d'enseignement général |
+
 |
 
-I. ENSEIGNEMENTS GÉNÉRAUX
+|
 
 |
 
 |
 
+A. 1-Français |
+
 |
 
 |
 
-Français
+|
 
 |
 
-4
+Ecrit |
 
-|
+4 h |
 
-4
+2 |
 
-|
+4 h |
 
-2
+2 |
 
-|
+Oral |
 
-Philosophie
+20 min |
 
-|
+1 |
 
--
+20 min |
 
-|
+1 |
 
--
+A. 2-Mathématiques et Sciences physiques |
 
-|
+4 h |
 
-4
+3 |
 
-|
+4 h |
 
-Initiation au mode contemporain
+3 |
 
-|
+ou |
 
-2
+|
 
 |
 
-1
+|
 
 |
 
--
+Philosophie |
 
-|
+4 h |
 
-Histoire de l'art et des civilisations
+3 |
 
-|
+4 h |
 
--
+3 |
 
-|
+A. 3-Langue vivante 1 (a) |
 
-1
+20 min |
 
-|
+3 |
 
-1
+20 min |
 
-|
+3 |
 
-Langue vivante 1
+A. 4-Education physique et sportive |
 
-|
+30 min |
 
-3
+1 |
 
-|
+30 min |
 
-3
+1 |
 
-|
+2. Epreuves à caractère professionnel |
 
-3
+|
 
 |
 
-Mathématiques
+|
 
 |
 
-3
+B. 1-Epreuve technique (option instrument) |
 
-|
+4 h |
 
-4
+3 |
 
 |
 
-3
-
 |
 
-Sciences physiques
+B. 1.1 Epreuve de relevé |
 
-|
+30 min |
 
-2
+1 |
 
 |
-
-2
 
 |
 
-2
+B. 1.2 Epreuve d'analyse |
 
-|
+3 h 30 |
 
-Enseignement renforcé au choix :
+2 |
 
 |
 
 |
+
+B. 1-Epreuve technique (option danse) |
 
 |
 
 |
 
-Philosophie ou mathématiques
+4 h |
 
-|
+3 |
 
-1 (1)
+B. 1.1 Epreuve d'analyse musicale |
 
 |
-
-1 (1)
 
 |
 
-2
+30 min |
 
-|
+1 |
 
-II. ENSEIGNEMENTS PROFESSIONNELS
+B. 1.2 Epreuve d'analyse chorégraphique |
 
 |
 
 |
 
-|
+3 h 30 |
 
-|
+2 |
 
-Option Instrument
+B. 2-Interprétation musicale (a) |
 
-|
+20 min |
 
-|
+4 |
 
 |
 
 |
 
-Exécution instrumentale
+B. 2-Interprétation chorégraphique (a) |
 
 |
 
-2
-
 |
 
-2
+20 min |
 
-|
+4 |
 
-2
+B. 3-Histoire de la musique |
 
-|
+4 h |
 
-Histoire de la musique
+3 |
 
 |
 
-1,5
-
 |
 
-1,5
+B. 3-Histoire de la danse |
 
 |
-
-1,5
 
 |
 
-Dictée
+4 h |
 
-|
+3 |
 
-1
+Deuxième groupe |
 
-|
+1. Epreuves d'enseignement général |
 
-1
+|
 
 |
 
-1
+|
 
 |
 
-Analyse
+A. 5-Philosophie (a) |
 
-|
+20 min |
 
-1,5
+3 |
 
-|
+20 min |
 
-1,5
+3 |
 
-|
+ou |
 
-1,5
+|
 
 |
 
-Lecture à vue instrumentale
+|
 
 |
 
-0,5
+Mathématiques et Sciences physiques (a) |
 
-|
+20 min |
 
-0,5
+3 |
 
-|
+20 min |
 
-0,5
+3 |
 
-|
+A. 6-Histoire de l'art et des civilisations (a) |
 
-Musique d'ensemble
+20 min |
 
-|
+2 |
 
-1,5
+20 min |
 
-|
+2 |
 
-1,5
+Epreuves de contrôle (facultatives) |
 
 |
-
-1,5
 
 |
 
-Harmonie ou solfège
+|
 
 |
 
-2
+Français (a) |
 
-|
+20 min |
 
--
+2 |
 
-|
+20 min |
 
--
+2 |
 
-|
+ou |
 
-Techniques du son
+|
 
 |
 
--
+|
 
 |
 
-1
+Mathématiques et Sciences physiques (a) |
 
-|
+20 min |
 
-1
+3 |
 
-|
+20 min |
 
-Organologie
+3 |
 
-|
+ou |
 
--
+|
 
 |
 
--
+|
 
 |
 
-1
+Philosophie (a) |
 
-|
+20 min |
+
+3 |
+
+20 min |
 
-Option Danse
+3 |
 
+2. Epreuves à caractère professionnel |
+
 |
 
 |
@@ -340,224 +338,206 @@ Option Danse
 
 |
 
-Exécution chorégraphique
+B. 4-Commentaire d'écoute (a) |
 
-|
+15 min |
 
-6
+2 |
 
 |
 
-5
-
 |
 
-5
+ou |
 
 |
-
-Dictée
 
 |
 
-1
+|
 
 |
 
-1
+Ecriture musicale |
 
-|
+4 h |
 
-1
+2 |
 
 |
-
-Analyse musicale
 
 |
 
-1
+ou |
 
 |
 
-1
-
 |
 
-1
+|
 
 |
 
-Histoire de la musique et de la danse
+Lecture à vue instrumentale ou vocale (a) |
 
-|
+10 min |
 
-1,5
+2 |
 
 |
-
-1,5
 
 |
 
-1,5
+ou |
 
 |
 
-Scénographie
-
 |
 
--
+|
 
 |
 
--
+Technique du son (a) |
 
-|
+15 min |
 
-1
+2 |
 
 |
 
-Anatomie
-
 |
 
--
+B. 4-Anatomie (a) |
 
 |
-
-1
 
 |
 
-1
+15 min |
 
-|
+2 |
 
-III. EDUCATION PHYSIQUE ET SPORTIVE
+ou |
 
 |
-
-5
 
 |
 
-5
+|
 
 |
 
-5
+Composition chorégraphique (a) |
 
 |
 
-IV. HEURES DE VIE DE CLASSE (2)
-
 |
 
-10 h annuelles
+30 min |
 
-|
+2 |
 
-10 h annuelles
+ou |
 
 |
 
-10 heures annuelles
+|
+
+|
 
 |
 
-V. ENSEIGNEMENTS FACULTATIFS
+Danse et autres arts (a) |
 
 |
 
 |
+
+20 min |
 
+2 |
+
+ou |
+
 |
 
 |
 
-Langue vivante 2 ou langues et cultures de l'Antiquité (latin ou grec) (5)
+|
 
 |
 
-3
+Improvisation (a) |
 
 |
 
-3
-
 |
 
-3
+10 min |
 
-|
+2 |
 
-Arts plastiques (3)
+Epreuve de contrôle |
 
 |
 
-3
-
 |
 
-3
+|
 
 |
 
-3
+Interprétation musicale (a) |
 
-|
+20 min |
 
-Harmonie ou solfège ou chorégraphie
+4 |
 
 |
-
--
 
 |
 
-2
+Interprétation chorégraphique (a) |
 
 |
 
-2
-
 |
 
-VI. ATELIER ARTISTIQUE (4)
+20 min |
 
-|
+4 |
 
-72 h annuelles
+3. Epreuves facultatives |
 
 |
 
-72 h annuelles
-
 |
 
-72 h annuelles
+|
 
 |
 
-(1) Mathématiques seulement.
+Langue vivante II ou langue ancienne ou langues régionales (a) |
 
+20 min |
+
 |
 
-(2) Les heures de vie de classe sont inscrites dans l'emploi du temps des élèves, en classes de seconde, de première et de terminale, à compter de la rentrée de l'année scolaire 2001-2002.
+20 min |
 
 |
+
+Arts plastiques (a) |
 
-(3) L'enseignement facultatif d'arts plastiques remplace celui d'éducation artistique (dessin, arts plastiques) en classes de seconde et de première, à compter de la rentrée de l'année scolaire 2001-2002 et en classe terminale, à compter de la rentrée de l'année scolaire 2002-2003.
+30 min |
 
 |
 
-(4) L'atelier artistique est introduit en classes de seconde, de première et de terminale, à compter de la rentrée de l'année scolaire 2001-2002.
+30 min |
 
 |
 
-En ce qui concerne l'enseignement de préparation à la vie sociale et familiale, sa suppression intervient dans les deux classes (première et terminale) à compter de la rentrée de l'année scolaire 2001-2002.
+(a) Epreuve orale ou pratique.
 
 |
