@@ -1,13 +1,11 @@
 # Article Annexe 1
 
-Liste des champs professionnels définis pour les spécialités du baccalauréat professionnel
+LISTE DES CHAMPS PROFESSIONNELS DÉFINIS POUR LES SPÉCIALITÉS DU BACCALAURÉAT PROFESSIONNEL
 
-Productions animales.
+Productions
 
-Productions végétales ― Agroéquipement.
+Nature - Jardin - Paysage - Forêt
 
-Nature ― Jardin ― Paysage ― Forêt.
+Conseil vente
 
-Conseil vente.
-
-Alimentation ― Bio-industries ― Laboratoire.
+Alimentation - Bio-industries - Laboratoire

@@ -1,30 +1,20 @@
 # Article Annexe 2
 
-Liste des spécialités du baccalauréat professionnel
+LISTE DES SPÉCIALITÉS DU BACCALAURÉAT PROFESSIONNEL RELEVANT DE CHAQUE CHAMP PROFESSIONNEL
 
-relevant de chaque champ professionnel
-
-SPÉCIALITÉS DU BACCALAURÉAT
-
-professionnel
+SPÉCIALITÉS DU BACCALAURÉAT PROFESSIONNEL
 
 |
 
-CHAMPS PROFESSIONNELS
-
-et classes de seconde professionnelle
+CHAMPS PROFESSIONNELS ET CLASSES DE SECONDE PROFESSIONNELLE
 
 |
 
-Conduite et gestion de l'exploitation agricole/systèmes à dominante élevage
+Conduite et gestion de l'exploitation agricole
 
 |
 
-Productions animales
-
-|
-
-Conduite et gestion de l'entreprise hippique
+Productions
 
 |
 
@@ -36,15 +26,7 @@ Productions aquacoles
 
 |
 
-Conduite et gestion de l'exploitation agricole/systèmes à dominante cultures
-
-|
-
-Productions végétales - agroéquipement
-
-|
-
-Conduite et gestion de l'exploitation agricole/vigne et vin
+Conduite et gestion de l'entreprise hippique
 
 |
 
@@ -60,7 +42,7 @@ Aménagements paysagers
 
 |
 
-Nature - jardin - paysage - forêt
+Nature ― Jardin ― Paysage ― Forêt
 
 |
 
@@ -88,14 +70,16 @@ Technicien conseil vente en produits de jardin
 
 |
 
-Bio-industries de transformation
+Bio-industries de transformation (*)
 
 |
 
-Alimentation - bio-industries - laboratoire
+Alimentation-Bio-industries-Laboratoire
 
 |
 
 Laboratoire contrôle qualité
 
 |
+
+(*) Cette spécialité du baccalauréat professionnel relève également d'un champ professionnel défini par arrêté du ministre de l'éducation nationale. |
