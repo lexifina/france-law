@@ -138,6 +138,14 @@ Satisfaire aux conditions fixées aux 1°, 2°, 4° et 5° de l'article 11
 
 |
 
+9. Diplôme d'officier chef de quart machine de la filière professionnelle machine de la marine marchande délivré conformément à l'arrêté du 26 mars 2003 relatif aux conditions de délivrance du diplôme d'officier chef de quart machine de la filière professionnelle machine de la marine marchande
+
+|
+
+10. Diplôme d'élève officier de 1re classe de la marine marchande délivré conformément à l'arrêté du 30 juin 2014 susvisé ou dans les conditions réglementaires applicables avant l'entrée en vigueur de cet arrêté
+
+|
+
 Tableau 3. - Attestations reconnues en lieu et place du CFBS pour la délivrance du brevet de mécanicien 750 kW en application du 4.2 de l'article 11 et du 3.2.2 de l'article 14
 
 ATTESTATION RECONNUE

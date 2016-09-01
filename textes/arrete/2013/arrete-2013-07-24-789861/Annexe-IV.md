@@ -64,7 +64,7 @@ Brevet de chef de quart passerelle
 
 |
 
-Conditions de revalidation applicables au brevet d'officier chef de quart passerelle
+Conditions de revalidation applicables au brevet d'officier chef de quart passerelle en tenant compte des conditions mentionnées au (1 bis)
 
 |
 
@@ -366,6 +366,18 @@ Avant le 1er septembre 2020
 
 |
 
+Brevet de second mécanicien 3 000 kW pêche |
+
+Conditions de revalidation applicables au brevet de second mécanicien 3 000 kW en tenant compte des conditions mentionnées aux (5) et (7)
+
+|
+
+Brevet de second mécanicien 3 000 kW
+
+|
+
+Avant le 1er septembre 2020 |
+
 Brevet de chef mécanicien 3 000 kW pêche
 
 |
@@ -390,7 +402,7 @@ Conditions de revalidation applicables au brevet de chef mécanicien (7)
 
 |
 
-Brevet de chef mécanicien avec mention sur le brevet limité aux navires d'une puissance propulsive inférieure à 15 000 kW
+Brevet de second mécanicien avec mention sur le brevet limité aux navires d'une puissance propulsive inférieure à 15 000 kW
 
 |
 
@@ -416,13 +428,19 @@ Avant le 1er septembre 2020
 
 (1) Les titulaires d'un brevet de patron de petite navigation sans compétence machine ou d'un brevet de patron à la plaisance (voile) ou brevet de patron à la plaisance (voile) STCW-95 (BBPV-STCW-95) doivent également être titulaires du diplôme, du brevet de mécanicien 250 kW ou de tout diplôme, attestation ou titre reconnu dans le tableau 1 de l'arrêté du 17 août 2015 susvisé pour la délivrance du brevet de mécanicien 250 kW.
 
+(1 bis) Pour les titulaires d'un brevet de chef de quart passerelle restreint aux navires de jauge brute inférieure à 3 000, il convient :
+
+-d'avoir effectué un service en mer de douze mois au pont dans les cinq dernières années à la date de la demande de revalidation en qualité d'officier breveté effectués sur des navires de jauge brute égale ou supérieure à 500 armés au commerce ou à la plaisance, sur des navires de longueur de référence égale ou supérieure à 24 mètres armés à la pêche, ou sur des navires de l'Etat d'une longueur hors tout égale ou supérieure à 50 mètres ou figurant sur une liste définie par le ministre chargé de la mer ; et
+
+-d'être titulaire des attestations mentionnées aux 4 et 5 du 2° de l'article 13 de l'arrêté du 22 décembre 2015 relatif à la délivrance du brevet d'officier chef de quart passerelle. En l'absence de l'attestation de formation au système de visualisation des cartes électroniques et d'information (ECDIS), une restriction est mentionnée sur le brevet.
+
 (2) Les brevets concernés sont : 1° Les brevets de patron à la plaisance (voile) délivré conformément au décret n° 90-521 du 27 juin 1990 relatif à la délivrance du brevet et à l'exercice à titre professionnel des fonctions de patron à la plaisance (voile), et 2° L es brevets de patron à la plaisance (voile) STCW-95 (BBPV-STCW-95) délivré conformément à l'arrêté du 29 avril 2002 relatif à la mise en conformité du brevet de patron à la plaisance (voile) avec les dispositions de la convention de 1978 sur les normes de formation des gens de mer, de délivrance des brevets et de veille telle qu'amendée en 1995.
 
 (3) Pour les brevets de chef de quart yacht 500 limités à 200 milles des côtes, il convient en outre d'avoir effectué douze mois au pont dans les cinq dernières années à la date de la demande de revalidation en qualité d'officier breveté postérieurement à l'obtention du brevet de chef de quart yacht 500 limité à 200 milles des côtes. Lorsque cette condition n'est pas remplie, la mention restrictive "limité à 200 milles des côtes" est inscrite sur le brevet de chef de quart 500 yacht.
 
 (4) Pour les brevets de capitaine yacht 500 limités à 200 milles des côtes, il convient en outre d'avoir effectué douze mois au pont dans les cinq dernières années à la date de la demande de revalidation en qualité d'officier breveté postérieurement à l'obtention du brevet de capitaine yacht 500 limité à 200 milles des côtes, dont six mois en qualité de capitaine.
 
-(5) Pour les brevets de chef mécanicien yacht 3 000 kW limités aux navires d'une jauge brute inférieure à 500 et les brevets de chef mécanicien 3 000 kW pêche, il convient d'avoir effectué vingt-quatre mois au service machine, dont douze mois dans les cinq dernières années au niveau de direction sur des navires d'une puissance propulsive égale ou supérieure à 750 kW. Lorsque cette condition n'est pas remplie, le brevet de chef mécanicien 3 000 kW porte soit la mention restrictive "limité aux navires armés à la pêche" si le titre à revalider est un brevet de chef mécanicien 3 000 kW pêche, soit la mention restrictive "limité aux navires armés à la plaisance" si le titre à revalider est un brevet de chef mécanicien yacht 3 000 kW.
+(5) Pour les brevets de chef mécanicien yacht 3 000 kW limités aux navires d'une jauge brute inférieure à 500 et les brevets de second mécanicien 3 000 kW pêche ou de chef mécanicien 3 000 kW pêche, il convient d'avoir effectué vingt-quatre mois au service machine, dont douze mois dans les cinq dernières années au niveau de direction sur des navires d'une puissance propulsive égale ou supérieure à 750 kW. Lorsque cette condition n'est pas remplie, le brevet de second mécanicien 3 000 kW ou de chef mécanicien 3 000 kW porte soit la mention restrictive "limité aux navires armés à la pêche" si le titre à revalider est un brevet de second mécanicien 3 000 kW pêche ou de chef mécanicien 3 000 kW pêche, soit la mention restrictive "limité aux navires armés à la plaisance" si le titre à revalider est un brevet de chef mécanicien yacht 3 000 kW.
 
 (6) Le demandeur doit, en outre, être titulaire du certificat de formation de base à la sécurité. A défaut d'un certificat de formation de base à la sécurité, le titre peut être revalidé sous réserve que :
 

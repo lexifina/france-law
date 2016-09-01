@@ -164,7 +164,7 @@ Satisfaire aux conditions fixées aux 1° à 3° et 5° à 9° de l'article 11.
 
 |
 
-2. Diplôme de chef mécanicien 3 000 kW délivré conformément à l'arrêté du 12 octobre 2005 relatif aux conditions de formation et de délivrance du diplôme de chef mécanicien 3 000 kW ou baccalauréat professionnel spécialité électromécanicien marine obtenu avant le 1er septembre 2016.
+2. Diplôme de chef mécanicien 3 000 kW délivré conformément à l'arrêté du 12 octobre 2005 relatif aux conditions de formation et de délivrance du diplôme de chef mécanicien 3 000 kW ou baccalauréat professionnel spécialité électromécanicien marine obtenu avant le 1er septembre 2016 ou ensemble des attestations en cours de validité prouvant l'acquisition de la totalité des modules de la formation complémentaire mentionnés à l'article 3 de l'arrêté du 6 juin 2006 relatif aux conditions de délivrance du brevet de chef de quart machine 15 000 kW, du brevet de second mécanicien 3 000 kW et du brevet de chef mécanicien 3 000 kW.
 
 |
 
@@ -224,7 +224,7 @@ Satisfaire aux conditions fixées aux 1° à 3° et 5° à 8° de l'article 11 e
 
 |
 
-9. Brevets délivrés conformément aux dispositions du décret n° 99-439 du 25 mai 1999 relatif à la délivrance des titres de formation professionnelle maritime et aux conditions d'exercice de fonctions à bord des navires de commerce et de pêche ainsi que des navires de plaisance armés avec un rôle d'équipage.
+9. Brevets délivrés conformément aux dispositions du décret n° 99-439 du 25 mai 1999 relatif à la délivrance des titres de formation professionnelle maritime et aux conditions d'exercice de fonctions à bord des navires de commerce et de pêche ainsi que des navires de plaisance armés avec un rôle d'équipage permettant d'exercer les fonctions associées au brevet de second mécanicien 3 000 kW.
 
 |
 

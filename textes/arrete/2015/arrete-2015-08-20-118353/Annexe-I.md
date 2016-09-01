@@ -128,7 +128,7 @@ Les modules P1-1 et P2-1 sont réputés acquis.
 
 |
 
-Satisfaire aux conditions fixées aux 1° et 3° de l'article 5.
+Satisfaire aux conditions fixées aux 1° de l'article 5.
 
 Les modules P1-1, P2-1 et NP-1 sont réputés acquis.
 
