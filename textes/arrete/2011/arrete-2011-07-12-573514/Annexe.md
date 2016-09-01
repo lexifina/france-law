@@ -10,29 +10,29 @@ Enseignement spécifique
 
 Préambule
 
-I - Les sciences de la vie et de la Terre au lycée
+I-Les sciences de la vie et de la Terre au lycée
 
 1. Les sciences de la vie et de la Terre dans le parcours de l'élève en lycée
 
 Les objectifs de l'enseignement des sciences de la vie et de la Terre Au lycée, les sciences de la vie et de la Terre sont une voie de motivation et de réussite pour la poursuite de la formation scientifique après le collège et la préparation à l'enseignement supérieur ; elles participent également à l'éducation en matière de santé, sécurité, environnement, de tout élève qui choisira une orientation vers des filières non scientifiques. La discipline vise trois objectifs essentiels :
 
-- aider à la construction d'une culture scientifique commune fondée sur des connaissances considérées comme valides tant qu'elles résistent à l'épreuve des faits (naturels ou expérimentaux) et des modes de raisonnement propres aux sciences ;
+-aider à la construction d'une culture scientifique commune fondée sur des connaissances considérées comme valides tant qu'elles résistent à l'épreuve des faits (naturels ou expérimentaux) et des modes de raisonnement propres aux sciences ;
 
-- participer à la formation de l'esprit critique et à l'éducation citoyenne par la prise de conscience du rôle des sciences dans la compréhension du monde et le développement de qualités intellectuelles générales par la pratique de raisonnements scientifiques ;
+-participer à la formation de l'esprit critique et à l'éducation citoyenne par la prise de conscience du rôle des sciences dans la compréhension du monde et le développement de qualités intellectuelles générales par la pratique de raisonnements scientifiques ;
 
-- préparer les futures études supérieures de ceux qui poursuivront sur le chemin des sciences et, au-delà, les métiers auxquels il conduit ; aider par les acquis méthodologiques et techniques ceux qui s'orienteront vers d'autres voies.
+-préparer les futures études supérieures de ceux qui poursuivront sur le chemin des sciences et, au-delà, les métiers auxquels il conduit ; aider par les acquis méthodologiques et techniques ceux qui s'orienteront vers d'autres voies.
 
 Trois thématiques structurantes
 
 Pour atteindre ces objectifs, les programmes s'articulent autour de trois grandes thématiques qui, dans une large mesure, ne sont pas indépendantes.
 
-- La Terre dans l'Univers, la vie et l'évolution du vivant. Il s'agit de montrer - dans le cadre des domaines propres aux sciences de la vie et de la Terre - que la science construit, à partir de méthodes d'argumentation rigoureuses fondées sur l'observation du monde, une explication cohérente de son état, de son fonctionnement et de son histoire. Au-delà de la perspective culturelle, cette ligne de réflexion prépare aux métiers les plus proches des sciences fondamentales (recherche, enseignement).
+-La Terre dans l'Univers, la vie et l'évolution du vivant. Il s'agit de montrer-dans le cadre des domaines propres aux sciences de la vie et de la Terre-que la science construit, à partir de méthodes d'argumentation rigoureuses fondées sur l'observation du monde, une explication cohérente de son état, de son fonctionnement et de son histoire. Au-delà de la perspective culturelle, cette ligne de réflexion prépare aux métiers les plus proches des sciences fondamentales (recherche, enseignement).
 
-- Enjeux planétaires contemporains. Il s'agit de montrer comment la discipline participe à l'appréhension rigoureuse de grands problèmes auxquels l'humanité d'aujourd'hui se trouve confrontée. Au-delà de la préoccupation citoyenne qui prépare chacun à l'exercice de ses responsabilités individuelles et collectives, la perspective utilisée ici conduit aux métiers de la gestion publique, aux professions en lien avec la dynamique de développement durable et aux métiers de l'environnement (agronomie, architecture, gestion des ressources naturelles).
+-Enjeux planétaires contemporains. Il s'agit de montrer comment la discipline participe à l'appréhension rigoureuse de grands problèmes auxquels l'humanité d'aujourd'hui se trouve confrontée. Au-delà de la préoccupation citoyenne qui prépare chacun à l'exercice de ses responsabilités individuelles et collectives, la perspective utilisée ici conduit aux métiers de la gestion publique, aux professions en lien avec la dynamique de développement durable et aux métiers de l'environnement (agronomie, architecture, gestion des ressources naturelles).
 
-- Corps humain et santé. Centrée sur l'organisme humain, cette thématique permet à chacun de comprendre le fonctionnement de son organisme, ses capacités et ses limites. Elle prépare à l'exercice des responsabilités individuelles, familiales et sociales et constitue un tremplin vers les métiers qui se rapportent à la santé (médecine, odontologie, diététique, épidémiologie, etc.).
+-Corps humain et santé. Centrée sur l'organisme humain, cette thématique permet à chacun de comprendre le fonctionnement de son organisme, ses capacités et ses limites. Elle prépare à l'exercice des responsabilités individuelles, familiales et sociales et constitue un tremplin vers les métiers qui se rapportent à la santé (médecine, odontologie, diététique, épidémiologie, etc.).
 
-Ces trois thématiques ne sont en rien des catégories rigides mais bien des directions de réflexion. Elles ne se substituent pas aux découpages traditionnels de la discipline (biologie et géologie par exemple) et conduisent à la découverte progressive des grands domaines qu'elle recouvre. En particulier, les sciences de la Terre conservent une originalité qu'il convient de ne pas nier. Les thèmes généraux aident à montrer la cohérence globale du champ intellectuel concerné, centré sur un objet d'étude - la nature - et des méthodes fondées sur la confrontation entre les idées scientifiques et les faits - naturels ou expérimentaux. Elles aident aussi à situer l'enseignement dispensé dans la perspective de la construction d'un projet de vie propre à chaque élève.
+Ces trois thématiques ne sont en rien des catégories rigides mais bien des directions de réflexion. Elles ne se substituent pas aux découpages traditionnels de la discipline (biologie et géologie par exemple) et conduisent à la découverte progressive des grands domaines qu'elle recouvre. En particulier, les sciences de la Terre conservent une originalité qu'il convient de ne pas nier. Les thèmes généraux aident à montrer la cohérence globale du champ intellectuel concerné, centré sur un objet d'étude-la nature-et des méthodes fondées sur la confrontation entre les idées scientifiques et les faits-naturels ou expérimentaux. Elles aident aussi à situer l'enseignement dispensé dans la perspective de la construction d'un projet de vie propre à chaque élève.
 
 Dans chaque thématique, la construction des savoirs se réalise peu à peu tout au long de la scolarité. Cette continuité est conçue pour faciliter la progressivité des apprentissages, sans pour autant empêcher la souplesse nécessaire à l'élaboration d'un parcours de formation pour chaque élève.
 
@@ -48,7 +48,7 @@ seuls à même de déterminer les modalités pédagogiques adaptées à leurs é
 
 2. Les conditions d'exercice de la liberté pédagogique du professeur
 
-Le programme est conçu pour laisser une très large place à la liberté pédagogique du professeur et/ou de l'équipe disciplinaire. Cette liberté porte sur les modalités didactiques mises en œuvre, sur l'ordre dans lequel seront étudiés les thèmes, sur les exemples choisis ainsi que, dans une mesure raisonnable, sur l'ampleur de l'argumentation développée dans le cadre de tel ou tel sujet. C'est pour respecter la liberté de choix d'exemples que les objectifs de formation sont définis avec un grand degré de généralité.
+Le programme est conçu pour laisser une très large place à la liberté pédagogique du professeur et/ ou de l'équipe disciplinaire. Cette liberté porte sur les modalités didactiques mises en œuvre, sur l'ordre dans lequel seront étudiés les thèmes, sur les exemples choisis ainsi que, dans une mesure raisonnable, sur l'ampleur de l'argumentation développée dans le cadre de tel ou tel sujet. C'est pour respecter la liberté de choix d'exemples que les objectifs de formation sont définis avec un grand degré de généralité.
 
 Néanmoins, la liberté pédagogique ne saurait émanciper des objectifs de formation rappelés ci-dessus. Pour aider à atteindre ces objectifs, quelques principes didactiques généraux sont rappelés ci-dessous, dont il convient de faire un usage adapté.
 
@@ -66,21 +66,21 @@ L'activité expérimentale offre la possibilité à l'élève de répondre à un
 
 Il est d'usage de décrire une démarche d'investigation comme la succession d'un certain nombre d'étapes types :
 
-- une situation motivante suscitant la curiosité ;
+-une situation motivante suscitant la curiosité ;
 
-- la formulation d'une problématique précise ;
+-la formulation d'une problématique précise ;
 
-- l'énoncé d'hypothèses explicatives ;
+-l'énoncé d'hypothèses explicatives ;
 
-- la conception d'une stratégie ou d'un protocole pour éprouver ces hypothèses ;
+-la conception d'une stratégie ou d'un protocole pour éprouver ces hypothèses ;
 
-- la mise en œuvre du projet ainsi élaboré ;
+-la mise en œuvre du projet ainsi élaboré ;
 
-- la confrontation des résultats obtenus et des hypothèses ;
+-la confrontation des résultats obtenus et des hypothèses ;
 
-- l'élaboration d'un savoir mémorisable ;
+-l'élaboration d'un savoir mémorisable ;
 
-- l'identification éventuelle de conséquences pratiques de ce savoir.
+-l'identification éventuelle de conséquences pratiques de ce savoir.
 
 Ce canevas est la conceptualisation d'une démarche type. Le plus souvent, pour des raisons variées, il convient d'en choisir quelques aspects pour la conception des séances. C'est là aussi un espace de liberté pédagogique pour le professeur qui vérifiera toutefois qu'à l'issue de l'année, les différentes étapes auront bien été envisagées et pratiquées. Pour que la démarche d'investigation soit un réel outil de formation, une vision qualitative plutôt que quantitative est préférable : mieux vaut argumenter bien et lentement qu'argumenter mal et trop vite. Cette démarche constitue le cadre intellectuel approprié pour la mise en œuvre d'activités de laboratoire, notamment manipulatoires et expérimentales, indispensables à la construction des savoirs de la discipline.
 
@@ -140,27 +140,27 @@ Plusieurs sujets abordés dans le programme s'y prêtent, bien que le choix soit
 
 À titre d'exemple, on peut citer les évocations littéraires de la biodiversité, de l'évolution ou de leur représentation picturale ainsi que la statuaire du corps humain au cours d'un exercice sportif. Les évocations littéraires de la vie des mineurs renseignent sur des conditions d'exploitation souvent révolues aujourd'hui. La représentation d'animaux ou végétaux actuels ou disparus met en scène un dialogue entre les connaissances scientifiques et les pratiques artistiques, etc.
 
-II - Les sciences de la vie et de la terre en classe terminale
+II-Les sciences de la vie et de la terre en classe terminale
 
 Le programme d'enseignement en classe terminale de la série scientifique prend appui sur ceux du collège et de la classe de seconde mais aussi sur les résultats principaux de la classe de première S. De façon à faciliter un changement de filière en fin ou en cours de première, il est possible d'aborder la classe terminale sans avoir à reprendre les démonstrations détaillées conduites en classe de première. Seuls les concepts principaux doivent être acquis. Il va de soi cependant qu'un élève de première non scientifique qui souhaiterait aborder une classe de terminale S devra fournir un effort d'adaptation.
 
 En classe terminale de la série scientifique, les trois thématiques présentées dans le préambule général pour le lycée sont déclinées comme indiqué ci-dessous. Les pourcentages des horaires proposés donnent une indication très générale de la pondération souhaitée entre les thèmes, mais ils ne doivent pas être considérés comme des impératifs rigides. Dans le thème La Terre dans l'Univers, la vie et l'évolution du vivant (50 %), on étudie :
 
-- le brassage génétique lié à la reproduction sexuée et quelques aspects de mécanismes de l'évolution ; cette partie intègre l'approche du végétal angiosperme considéré dans son ensemble ;
+-le brassage génétique lié à la reproduction sexuée et quelques aspects de mécanismes de l'évolution ; cette partie intègre l'approche du végétal angiosperme considéré dans son ensemble ;
 
-- quelques aspects des transformations géologiques du domaine continental.
+-quelques aspects des transformations géologiques du domaine continental.
 
 Pour aborder le thème des Enjeux planétaires contemporains (17 %), deux questions sont traitées :
 
-- la plante domestiquée par l'Homme ;
+-la plante domestiquée par l'Homme ;
 
-- les propriétés thermiques de la Terre comme source possible d'énergie et comme élément de compréhension du fonctionnement de la planète.
+-les propriétés thermiques de la Terre comme source possible d'énergie et comme élément de compréhension du fonctionnement de la planète.
 
 Enfin le thème Corps humain et santé (33 %) est structuré autour de deux questions :
 
-- quelques aspects des relations immunitaires permettent de stabiliser et compléter des connaissances de collège et de relier cette thématique à une vision évolutive ;
+-quelques aspects des relations immunitaires permettent de stabiliser et compléter des connaissances de collège et de relier cette thématique à une vision évolutive ;
 
-- l'étude de la commande du muscle, conduite en association avec celle du réflexe myotatique, est l'occasion de stabiliser la notion de réflexe tout en fournissant les bases nécessaires concernant le neurone et la synapse.
+-l'étude de la commande du muscle, conduite en association avec celle du réflexe myotatique, est l'occasion de stabiliser la notion de réflexe tout en fournissant les bases nécessaires concernant le neurone et la synapse.
 
 Chacun remarquera que, tout en restant en phase avec des préoccupations sociétales, les deux derniers thèmes ont un ancrage dans la science fondamentale plus affirmé que dans les classes précédentes, ce qui est la traduction dans le programme de sciences de la vie et de la Terre du caractère plus spécialisé de la classe terminale.
 
@@ -174,63 +174,63 @@ Le programme est présenté en deux colonnes. Chaque thème comporte une brève 
 
 En italique, la colonne de gauche comporte aussi quelques commentaires qui précisent et limitent les objectifs d'apprentissage, lorsque cela paraît nécessaire :
 
-- en italique simple, quelques précisions sur les objectifs et mots-clés (ces mots-clés correspondent à des notions qui n'ont pas été placées directement dans le programme pour de simples questions d'écriture, mais qui doivent être connues des élèves) ;
+-en italique simple, quelques précisions sur les objectifs et mots-clés (ces mots-clés correspondent à des notions qui n'ont pas été placées directement dans le programme pour de simples questions d'écriture, mais qui doivent être connues des élèves) ;
 
-- entre parenthèses, des indications sur ce qui a déjà été étudié et qui ne sera pas reconstruit en terminale (ces acquis peuvent cependant être rappelés) ;
+-entre parenthèses, des indications sur ce qui a déjà été étudié et qui ne sera pas reconstruit en terminale (ces acquis peuvent cependant être rappelés) ;
 
-- entre crochets, quelques limites, chaque fois qu'il a semblé nécessaire de rendre parfaitement explicite ce qui n'est pas exigible (il s'agit bien de limites de ce qui est exigible pour les élèves, ce qui ne veut pas dire qu'il est interdit d'en parler dans le déroulement de la construction du savoir) ;
+-entre crochets, quelques limites, chaque fois qu'il a semblé nécessaire de rendre parfaitement explicite ce qui n'est pas exigible (il s'agit bien de limites de ce qui est exigible pour les élèves, ce qui ne veut pas dire qu'il est interdit d'en parler dans le déroulement de la construction du savoir) ;
 
-- les convergences les plus marquantes vers d'autres disciplines (ces relations ne sont pas indiquées de façon exhaustive) ;
+-les convergences les plus marquantes vers d'autres disciplines (ces relations ne sont pas indiquées de façon exhaustive) ;
 
-- la rubrique pistes suggère des directions de réflexions susceptibles d'être exploitées dans le cadre de prolongements au-delà du programme lui-même, accompagnement personnalisé, projets ou clubs scientifiques par exemple, de préférence en interdisciplinarité.
+-la rubrique pistes suggère des directions de réflexions susceptibles d'être exploitées dans le cadre de prolongements au-delà du programme lui-même, accompagnement personnalisé, projets ou clubs scientifiques par exemple, de préférence en interdisciplinarité.
 
 La colonne de droite indique les capacités et attitudes dont on attend qu'elles soient exercées dans le cadre de l'item décrit.
 
 En préambule du programme, une liste de capacités et attitudes générales est présentée. Celles-ci sont communes à la plupart des items et ne sont pas reprises par la suite. Il convient cependant de ne pas les oublier et d'organiser leur apprentissage sur l'ensemble de l'année.
 
-On observera que, par souci de continuité et de cohérence, le vocabulaire utilisé pour décrire les capacités et attitudes mises en œuvre s'inspire fortement de celui utilisé pour le socle commun de connaissances et de compétences du collège (B.O.EN n° 29 du 20 juillet 2006) et déjà utilisé pour les programmes en classe de seconde et de première.
+On observera que, par souci de continuité et de cohérence, le vocabulaire utilisé pour décrire les capacités et attitudes mises en œuvre s'inspire fortement de celui utilisé pour le socle commun de connaissances, de compétences et de culture du collège (B. O. EN n° 29 du 20 juillet 2006) et déjà utilisé pour les programmes en classe de seconde et de première.
 
 La classe terminale est à la fois l'achèvement du lycée et la porte d'entrée dans l'enseignement supérieur. Afin de faciliter la poursuite des études, il est bon de saisir les occasions qui se présentent de proposer des bilans simples et synthétiques, souvent sous forme schématique, de ce qui a été construit au long de l'enseignement secondaire. Pour faciliter l'identification de ces occasions de bilan, les chapeaux des items du programme comportent, en caractères gras, des suggestions de tels bilans.
 
 Capacités et attitudes développées tout au long du programme
 
-- Pratiquer une démarche scientifique (observer, questionner, formuler une hypothèse, expérimenter, raisonner avec rigueur, modéliser).
+-Pratiquer une démarche scientifique (observer, questionner, formuler une hypothèse, expérimenter, raisonner avec rigueur, modéliser).
 
-- Recenser, extraire et organiser des informations.
+-Recenser, extraire et organiser des informations.
 
-- Comprendre le lien entre les phénomènes naturels et le langage mathématique.
+-Comprendre le lien entre les phénomènes naturels et le langage mathématique.
 
-- Manipuler et expérimenter.
+-Manipuler et expérimenter.
 
-- Comprendre qu'un effet peut avoir plusieurs causes.
+-Comprendre qu'un effet peut avoir plusieurs causes.
 
-- Exprimer et exploiter des résultats, à l'écrit, à l'oral, en utilisant les technologies de l'information et de la communication.
+-Exprimer et exploiter des résultats, à l'écrit, à l'oral, en utilisant les technologies de l'information et de la communication.
 
-- Communiquer dans un langage scientifiquement approprié : oral, écrit, graphique, numérique.
+-Communiquer dans un langage scientifiquement approprié : oral, écrit, graphique, numérique.
 
-- Percevoir le lien entre sciences et techniques.
+-Percevoir le lien entre sciences et techniques.
 
-- Manifester sens de l'observation, curiosité, esprit critique.
+-Manifester sens de l'observation, curiosité, esprit critique.
 
-- Montrer de l'intérêt pour les progrès scientifiques et techniques.
+-Montrer de l'intérêt pour les progrès scientifiques et techniques.
 
-- Être conscient de sa responsabilité face à l'environnement, la santé, le monde vivant.
+-Être conscient de sa responsabilité face à l'environnement, la santé, le monde vivant.
 
-- Avoir une bonne maîtrise de son corps.
+-Avoir une bonne maîtrise de son corps.
 
-- Être conscient de l'existence d'implications éthiques de la science.
+-Être conscient de l'existence d'implications éthiques de la science.
 
-- Respecter les règles de sécurité.
+-Respecter les règles de sécurité.
 
-- Comprendre la nature provisoire, en devenir, du savoir scientifique.
+-Comprendre la nature provisoire, en devenir, du savoir scientifique.
 
-- Être capable d'attitude critique face aux ressources documentaires.
+-Être capable d'attitude critique face aux ressources documentaires.
 
-- Manifester de l'intérêt pour la vie publique et les grands enjeux de la société.
+-Manifester de l'intérêt pour la vie publique et les grands enjeux de la société.
 
-- Savoir choisir un parcours de formation.
+-Savoir choisir un parcours de formation.
 
-Thème 1 - La Terre dans l'Univers, la vie, l'évolution du vivant
+Thème 1-La Terre dans l'Univers, la vie, l'évolution du vivant
 
 Thème 1-A Génétique et évolution
 
@@ -390,7 +390,7 @@ CAPACITÉS, ATTITUDES
 
 D'un point de vue génétique, l'Homme et le chimpanzé, très proches, se distinguent surtout par la position et la chronologie d'expression de certains gènes. Le phénotype humain, comme celui des grands singes proches, s'acquiert au cours du développement pré et postnatal, sous l'effet de l'interaction entre l'expression de l'information génétique et l'environnement (dont la relation aux autres individus).
 
-Les premiers primates fossiles datent de - 65 à -50 millions d'années. Ils sont variés et ne sont identiques ni à l'Homme actuel, ni aux autres singes actuels. La diversité des grands primates connue par les fossiles, qui a été grande, est aujourd'hui réduite.
+Les premiers primates fossiles datent de-65 à-50 millions d'années. Ils sont variés et ne sont identiques ni à l'Homme actuel, ni aux autres singes actuels. La diversité des grands primates connue par les fossiles, qui a été grande, est aujourd'hui réduite.
 
 Homme et chimpanzé partagent un ancêtre commun récent. Aucun fossile ne peut être à coup sûr considéré comme un ancêtre de l'homme ou du chimpanzé.
 
@@ -428,7 +428,7 @@ CAPACITÉS, ATTITUDES
 
 |
 
-Les caractéristiques de la plante sont en rapport avec la vie fixée à l'interface sol/air dans un milieu variable au cours du temps.
+Les caractéristiques de la plante sont en rapport avec la vie fixée à l'interface sol/ air dans un milieu variable au cours du temps.
 
 Elle développe des surfaces d'échanges de grande dimension avec l'atmosphère (échanges de gaz, capture de la lumière) et avec le sol (échange d'eau et d'ions). Des systèmes conducteurs permettent les circulations de matières dans la plante, notamment entre systèmes aérien et souterrain.
 
@@ -448,7 +448,7 @@ Objectif et mots-clés. Il s'agit d'aboutir à une vue globale de la plante, de 
 
 (Collège. Première approche de l'organisation végétale.)
 
-[Limites. Le raisonnement s'appuie uniquement sur l'observation d'une plante en tant qu'organisme. L'anatomie végétale n'est pas un objectif de formation : on se limite au repérage du phloème et du xylème et à l'indication de leurs rôles - sans mécanisme - dans la conduction des sèves. Les mécanismes immunitaires des végétaux ne sont pas au programme.]
+[Limites. Le raisonnement s'appuie uniquement sur l'observation d'une plante en tant qu'organisme. L'anatomie végétale n'est pas un objectif de formation : on se limite au repérage du phloème et du xylème et à l'indication de leurs rôles-sans mécanisme-dans la conduction des sèves. Les mécanismes immunitaires des végétaux ne sont pas au programme.]
 
 Pistes. Modélisation fractale de l'augmentation de surface du système foliaire ou racinaire. Étude d'hormones végétales et de leurs actions sur la croissance, le passage de la mauvaise saison.
 
@@ -464,11 +464,11 @@ Analyser les modalités de résistance d'une plante aux variations saisonnières
 
 L'organisation florale, contrôlée par des gènes de développement, et le fonctionnement de la fleur permettent le rapprochement des gamètes entre plantes fixées.
 
-La pollinisation de nombreuses plantes repose sur une collaboration animal pollinisateur/plante produit d'une coévolution.
+La pollinisation de nombreuses plantes repose sur une collaboration animal pollinisateur/ plante produit d'une coévolution.
 
 À l'issue de la fécondation, la fleur se transforme en fruits contenant des graines.
 
-La dispersion des graines est nécessaire à la survie et à la dispersion de la descendance. Elle repose souvent sur une collaboration animal disséminateur/plante produit d'une coévolution.
+La dispersion des graines est nécessaire à la survie et à la dispersion de la descendance. Elle repose souvent sur une collaboration animal disséminateur/ plante produit d'une coévolution.
 
 Objectif et mots-clés. Fleur, pistil (ovaire, ovule), étamine, pollen. Fruit, graine. Pollinisation par le vent et les animaux.
 
@@ -488,7 +488,7 @@ Mettre en évidence les relations entre une plante et un animal assurant sa diss
 
 |
 
-Thème 1-B - Le domaine continental et sa dynamique
+Thème 1-B-Le domaine continental et sa dynamique
 
 En classe de première S, l'attention s'est portée principalement sur les domaines océaniques. On aborde ici les continents. Il s'agit de dégager les caractéristiques de la lithosphère continentale et d'en comprendre l'évolution à partir de données de terrain.
 
@@ -500,7 +500,7 @@ Thème 1-B-1 La caractérisation du domaine continental : lithosphère continent
 
 La croûte continentale affleure dans les régions émergées. L'examen de données géologiques permet à la fois d'expliquer cette situation et de nuancer cette vision rapide.
 
-Les mécanismes de formation des montagnes sont complexes. On se limite au cas des reliefs liés à un épaississement crustal dont les indices peuvent être retrouvés sur le terrain et/ou en laboratoire.
+Les mécanismes de formation des montagnes sont complexes. On se limite au cas des reliefs liés à un épaississement crustal dont les indices peuvent être retrouvés sur le terrain et/ ou en laboratoire.
 
 CONNAISSANCES
 
@@ -534,7 +534,7 @@ Les résultats conjugués des études tectoniques et minéralogiques permettent 
 
 Objectifs et mots-clés. Il s'agit de présenter trois grandes caractéristiques continentales : épaisseur crustale, densité crustale, âges variés et parfois très anciens. La radiochronologie des roches est fondée sur la décroissance radioactive naturelle de certains éléments chimiques présents dans les minéraux qui les constituent. On étudie un exemple d'indice tectonique et un indice pétrographique de raccourcissement.
 
-[Limites. L'interrogation en SVT au baccalauréat ne portera pas sur les formalisations mathématiques et/ou physiques de la radioactivité. L'étude de radiochronologie se limite à un cas : droite isochrone Rb/Sr. Les connaissances pétrographiques se limitent au rappel de ce qui a été vu en classe de première pour le granite. L'étude de la gravimétrie se limite à l'étude d'une modélisation simple de l'isostasie. Il ne s'agit pas d'étudier dans son ensemble le mécanisme orogénique mais seulement de mettre en évidence l'association sur un exemple de phénomènes tectoniques et pétrographiques.]
+[Limites. L'interrogation en SVT au baccalauréat ne portera pas sur les formalisations mathématiques et/ ou physiques de la radioactivité. L'étude de radiochronologie se limite à un cas : droite isochrone Rb/ Sr. Les connaissances pétrographiques se limitent au rappel de ce qui a été vu en classe de première pour le granite. L'étude de la gravimétrie se limite à l'étude d'une modélisation simple de l'isostasie. Il ne s'agit pas d'étudier dans son ensemble le mécanisme orogénique mais seulement de mettre en évidence l'association sur un exemple de phénomènes tectoniques et pétrographiques.]
 
 Convergences. Mathématiques : exponentielles. Physique : radioactivité.
 
@@ -576,7 +576,7 @@ Recenser, extraire et organiser des données de terrain entre autres lors d'une 
 
 Repérer à différentes échelles, de l'échantillon macroscopique de roche à la lame mince, des minéraux témoignant de transformations liées à la subduction.
 
-Raisonner à l'aide de calculs simples sur le lien entre âge de la lithosphère/densité/subduction.
+Raisonner à l'aide de calculs simples sur le lien entre âge de la lithosphère/ densité/ subduction.
 
 |
 
@@ -622,7 +622,7 @@ CAPACITÉS, ATTITUDES
 
 |
 
-Les chaînes de montagnes anciennes ont des reliefs moins élevés que les plus récentes. On y observe à l'affleurement une plus forte proportion de matériaux transformés et/ou formés en profondeur. Les parties superficielles des reliefs tendent à disparaître.
+Les chaînes de montagnes anciennes ont des reliefs moins élevés que les plus récentes. On y observe à l'affleurement une plus forte proportion de matériaux transformés et/ ou formés en profondeur. Les parties superficielles des reliefs tendent à disparaître.
 
 Altération et érosion contribuent à l'effacement des reliefs.
 
@@ -650,9 +650,9 @@ Exploiter des données cartographiques. Utiliser des images ou des données sate
 
 |
 
-Thème 2 - Enjeux planétaires contemporains
+Thème 2-Enjeux planétaires contemporains
 
-Thème 2-A - Géothermie et propriétés thermiques de la Terre
+Thème 2-A-Géothermie et propriétés thermiques de la Terre
 
 L'énergie solaire, d'origine externe au globe terrestre, a été largement abordée dans les programmes de sciences de la vie et de la Terre des classes de seconde et de première. Un flux thermique dont l'origine est interne se dirige aussi vers la surface. L'étudier en classe terminale est à la fois prendre conscience d'une ressource énergétique possible et un moyen de comprendre le fonctionnement global de la planète.
 
@@ -740,7 +740,7 @@ Recenser, extraire et exploiter des informations afin de comprendre les caracté
 
 |
 
-Thème 3 - Corps humain et santé
+Thème 3-Corps humain et santé
 
 Dans ce thème, le projet est d'aborder quelques sujets ayant un rapport direct avec de grandes questions de santé en même temps que les bases scientifiques nécessaires pour les traiter. Il s'agit de montrer que la réflexion sur la santé ne peut être conduite sans des connaissances scientifiques solides.
 
@@ -876,7 +876,7 @@ Observer et comparer des lames histologiques de fibre et de nerf. Observer des l
 
 |
 
-Objectifs et mots-clés. Les éléments de l'arc-réflexe : stimulus, récepteur, neurone sensoriel, centre nerveux, neurone moteur, effecteur (fibre musculaire). Caractéristiques structurales et fonctionnelles du neurone (corps cellulaire, dendrite, axone, potentiels de repos et d'action). Synapse chimique (bouton synaptique, neuromédiateur - acétylcholine, exocytose, fente synaptique, récepteur post-synaptique, potentiel d'action musculaire).
+Objectifs et mots-clés. Les éléments de l'arc-réflexe : stimulus, récepteur, neurone sensoriel, centre nerveux, neurone moteur, effecteur (fibre musculaire). Caractéristiques structurales et fonctionnelles du neurone (corps cellulaire, dendrite, axone, potentiels de repos et d'action). Synapse chimique (bouton synaptique, neuromédiateur-acétylcholine, exocytose, fente synaptique, récepteur post-synaptique, potentiel d'action musculaire).
 
 Codage électrique en fréquence, codage chimique en concentration.
 
@@ -946,72 +946,72 @@ L'enseignement de spécialité de sciences de la vie et de la Terre prépare l'�
 
 Les thèmes abordés permettront notamment de développer par la pratique des capacités méthodologiques portant sur la microscopie, l'expérimentation (éventuellement assistée par ordinateur), l'analyse du terrain, la recherche documentaire, la modélisation numérique, etc.
 
-Thème 1 - La Terre dans l'Univers, la vie et l'évolution de la vie
+Thème 1-La Terre dans l'Univers, la vie et l'évolution de la vie
 
 Énergie et cellule vivante (on se limite aux cellules eucaryotes)
 
 Tout système vivant échange de la matière et de l'énergie avec ce qui l'entoure. Il est le siège de couplages énergétiques.
 
-- La cellule chlorophyllienne des végétaux verts effectue la photosynthèse grâce à l'énergie lumineuse. Le chloroplaste est l'organite clé de cette fonction. La phase photochimique produit des composés réduits RH2 et de l'ATP. La phase chimique produit du glucose à partir de CO2 en utilisant les produits de la phase photochimique. [Les mécanismes moléculaires de la chaîne photosynthétique et la conversion chimio-osmotique ne sont pas au programme. Seuls les bilans devront être mémorisés. La réduction dans le chloroplaste d'autres substances minérales que le CO2 n'est pas au programme.]
+-La cellule chlorophyllienne des végétaux verts effectue la photosynthèse grâce à l'énergie lumineuse. Le chloroplaste est l'organite clé de cette fonction. La phase photochimique produit des composés réduits RH2 et de l'ATP. La phase chimique produit du glucose à partir de CO2 en utilisant les produits de la phase photochimique. [Les mécanismes moléculaires de la chaîne photosynthétique et la conversion chimio-osmotique ne sont pas au programme. Seuls les bilans devront être mémorisés. La réduction dans le chloroplaste d'autres substances minérales que le CO2 n'est pas au programme.]
 
-- La plupart des cellules eucaryotes (y compris les cellules chlorophylliennes) respirent : à l'aide de dioxygène, elles oxydent la matière organique en matière minérale. La mitochondrie joue un rôle majeur dans la respiration cellulaire. L'oxydation du glucose comprend la glycolyse (dans le hyaloplasme) puis le cycle de Krebs (dans la mitochondrie) : dans leur ensemble, ces réactions produisent du CO2 et des composés réduits R'H2. La chaîne respiratoire mitochondriale permet la réoxydation des composés réduits ainsi que la réduction de dioxygène en eau. Ces réactions s'accompagnent de la production d'ATP qui permet les activités cellulaires.
+-La plupart des cellules eucaryotes (y compris les cellules chlorophylliennes) respirent : à l'aide de dioxygène, elles oxydent la matière organique en matière minérale. La mitochondrie joue un rôle majeur dans la respiration cellulaire. L'oxydation du glucose comprend la glycolyse (dans le hyaloplasme) puis le cycle de Krebs (dans la mitochondrie) : dans leur ensemble, ces réactions produisent du CO2 et des composés réduits R'H2. La chaîne respiratoire mitochondriale permet la réoxydation des composés réduits ainsi que la réduction de dioxygène en eau. Ces réactions s'accompagnent de la production d'ATP qui permet les activités cellulaires.
 
 [Le détail des réactions chimiques, les mécanismes de la chaîne respiratoire et la conversion chimio-osmotique ne sont pas au programme.]
 
-- Certaines cellules eucaryotes réalisent une fermentation. L'utilisation fermentaire d'une molécule de glucose produit beaucoup moins d'ATP que lors de la respiration.
+-Certaines cellules eucaryotes réalisent une fermentation. L'utilisation fermentaire d'une molécule de glucose produit beaucoup moins d'ATP que lors de la respiration.
 
 [On se limite aux fermentations alcoolique et lactique.]
 
-- La fibre musculaire utilise l'ATP fourni, selon les circonstances, par la fermentation lactique ou la respiration.
+-La fibre musculaire utilise l'ATP fourni, selon les circonstances, par la fermentation lactique ou la respiration.
 
 L'hydrolyse de l'ATP fournit l'énergie nécessaire aux glissements de protéines les unes sur les autres qui constituent le mécanisme moléculaire à la base de la contraction musculaire.
 
 [Les autres aspects de l'énergétique de la fibre musculaire sont exclus.]
 
-- L'ATP joue un rôle majeur dans les couplages énergétiques nécessaires au fonctionnement des cellules. [L'étude préalable des différents exemples du programme permet d'aboutir à une conclusion générale qui ne génère pas en elle-même d'étude complémentaire.]
+-L'ATP joue un rôle majeur dans les couplages énergétiques nécessaires au fonctionnement des cellules. [L'étude préalable des différents exemples du programme permet d'aboutir à une conclusion générale qui ne génère pas en elle-même d'étude complémentaire.]
 
-Thème 2 - Enjeux planétaires contemporains
+Thème 2-Enjeux planétaires contemporains
 
 Atmosphère, hydrosphère, climats : du passé à l'avenir
 
 Les enveloppes fluides de la Terre (atmosphère et hydrosphère) sont le siège d'une dynamique liée notamment à l'énergie reçue du Soleil. Elles sont en interaction permanente avec la biosphère et la géosphère. Le climat, à l'échelle globale ou locale, est à la fois le résultat de ces interactions et la condition de leur déroulement. La compréhension, au moins partielle, de cette complexité permet d'envisager une gestion raisonnée de l'influence de l'Homme. Sans chercher l'exhaustivité, l'objectif de ce thème est d'aborder quelques aspects de la relation entre histoire des enveloppes fluides de la Terre et histoire du climat.
 
-- L'atmosphère initiale de la Terre était différente de l'atmosphère actuelle. Sa transformation est la conséquence, notamment, du développement de la vie. L'histoire de cette transformation se trouve inscrite dans les roches, en particulier celles qui sont sédimentaires.
+-L'atmosphère initiale de la Terre était différente de l'atmosphère actuelle. Sa transformation est la conséquence, notamment, du développement de la vie. L'histoire de cette transformation se trouve inscrite dans les roches, en particulier celles qui sont sédimentaires.
 
 [Il s'agit de traiter le passage de l'atmosphère primitive à l'atmosphère oxydante en s'appuyant sur un nombre limité d'arguments pétrographiques.]
 
-- Les bulles d'air contenues dans les glaces permettent d'étudier la composition de l'air durant les 800 000 dernières années y compris des polluants d'origine humaine. La composition isotopique des glaces et d'autres indices (par exemple la palynologie) permettent de retracer les évolutions climatiques de cette période.
+-Les bulles d'air contenues dans les glaces permettent d'étudier la composition de l'air durant les 800 000 dernières années y compris des polluants d'origine humaine. La composition isotopique des glaces et d'autres indices (par exemple la palynologie) permettent de retracer les évolutions climatiques de cette période.
 
 [Les élèves doivent connaître les apports essentiels de la glaciologie. Aucun autre argument n'est exigible, mais les élèves devront pouvoir étudier des documents permettant de les mettre en évidence.]
 
-- L'effet de serre, déterminé notamment par la composition atmosphérique, est un facteur influençant le climat global. La modélisation de la relation effet de serre/climat est complexe. Elle permet de proposer des hypothèses d'évolutions possibles du climat de la planète notamment en fonction des émissions de gaz à effet de serre induites par l'activité humaine.
+-L'effet de serre, déterminé notamment par la composition atmosphérique, est un facteur influençant le climat global. La modélisation de la relation effet de serre/ climat est complexe. Elle permet de proposer des hypothèses d'évolutions possibles du climat de la planète notamment en fonction des émissions de gaz à effet de serre induites par l'activité humaine.
 
 [L'ensemble des mécanismes agissant sur le climat n'est pas au programme, mais on indiquera que l'effet de serre n'est qu'un facteur parmi d'autres. En particulier, l'influence des paramètres astronomiques pourra être évoquée, mais n'est pas exigible des élèves au baccalauréat.]
 
-- Sur les grandes durées (par exemple pendant le dernier milliard d'années), les traces de variations climatiques importantes sont enregistrées dans les roches sédimentaires. Des conditions climatiques très éloignées de celles de l'époque actuelle ont existé.
+-Sur les grandes durées (par exemple pendant le dernier milliard d'années), les traces de variations climatiques importantes sont enregistrées dans les roches sédimentaires. Des conditions climatiques très éloignées de celles de l'époque actuelle ont existé.
 
 [On étudie seulement un exemple permettant de reconstituer les conditions climatiques et leur explication en termes de géodynamique. L'histoire de la variation du climat en elle-même est hors programme ainsi que l'étude exhaustive des relations entre géodynamique et climat.]
 
-Thème 3 - Corps humain et santé
+Thème 3-Corps humain et santé
 
 Glycémie et diabète
 
 La glycémie est un paramètre du milieu intérieur. Son maintien par l'organisme dans une gamme de valeurs étroite est un indicateur et une condition de bonne santé.
 
-- Les glucides à grosses molécules des aliments sont transformés en glucose grâce à l'action d'enzymes digestives.
+-Les glucides à grosses molécules des aliments sont transformés en glucose grâce à l'action d'enzymes digestives.
 
 Les enzymes sont des protéines qui catalysent des transformations chimiques spécifiques (ici celles de la digestion).
 
 [La digestion n'est pas en elle-même au programme. Elle est simplement l'occasion d'enseigner les notions fondamentales concernant les enzymes.]
 
-- La régulation de la glycémie repose notamment sur les hormones pancréatiques : insuline et glucagon.
+-La régulation de la glycémie repose notamment sur les hormones pancréatiques : insuline et glucagon.
 
 [Les autres mécanismes physiologiques de régulation de la glycémie sont exclus.]
 
-- Le diabète de type 1 résulte de la perturbation de la régulation de la glycémie provoquée par l'arrêt ou l'insuffisance d'une production pancréatique d'insuline. L'absence ou l'insuffisance de l'insuline est due à une destruction auto-immune des cellules β des îlots de Langerhans. Le diabète de type 2 s'explique par la perturbation de l'action de l'insuline.
+-Le diabète de type 1 résulte de la perturbation de la régulation de la glycémie provoquée par l'arrêt ou l'insuffisance d'une production pancréatique d'insuline. L'absence ou l'insuffisance de l'insuline est due à une destruction auto-immune des cellules β des îlots de Langerhans. Le diabète de type 2 s'explique par la perturbation de l'action de l'insuline.
 
 [Les mécanismes de la réaction auto-immune sont exclus.]
 
-- Le déclenchement des diabètes est lié à des facteurs variés, génétiques et environnementaux.
+-Le déclenchement des diabètes est lié à des facteurs variés, génétiques et environnementaux.
 
 [La référence au surpoids, envisagée sous l'angle du lien avec le diabète de type 2, n'entraîne aucune étude exigible du tissu adipeux ou du métabolisme lipidique.]

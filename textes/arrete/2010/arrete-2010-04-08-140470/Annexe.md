@@ -4,7 +4,7 @@ Programme de sciences de la vie et de la terre en classe de seconde générale e
 
 Préambule
 
-I - Les sciences de la vie et de la Terre au lycée
+I-Les sciences de la vie et de la Terre au lycée
 
 1. Les sciences de la vie et de la Terre dans le parcours de l'élève en lycée
 
@@ -12,23 +12,23 @@ Les objectifs de l'enseignement des sciences de la vie et de la Terre
 
 Au lycée, les sciences de la vie et de la Terre sont une voie de motivation et de réussite pour la poursuite de la formation scientifique après le collège et la préparation à l'enseignement supérieur ; elles participent également à l'éducation en matière de santé, sécurité, environnement, de tout élève qui choisira une orientation vers des filières non scientifiques. La discipline vise trois objectifs essentiels :
 
-- aider à la construction d'une culture scientifique commune fondée sur des connaissances considérées comme valides tant qu'elles résistent à l'épreuve des faits (naturels ou expérimentaux) et des modes de raisonnement propres aux sciences ;
+-aider à la construction d'une culture scientifique commune fondée sur des connaissances considérées comme valides tant qu'elles résistent à l'épreuve des faits (naturels ou expérimentaux) et des modes de raisonnement propres aux sciences ;
 
-- participer à la formation de l'esprit critique et à l'éducation citoyenne par la prise de conscience du rôle des sciences dans la compréhension du monde et le développement de qualités intellectuelles générales par la pratique de raisonnements scientifiques ;
+-participer à la formation de l'esprit critique et à l'éducation citoyenne par la prise de conscience du rôle des sciences dans la compréhension du monde et le développement de qualités intellectuelles générales par la pratique de raisonnements scientifiques ;
 
-- préparer les futures études supérieures de ceux qui poursuivront sur le chemin des sciences et, au-delà, les métiers auxquels il conduit ; aider par les acquis méthodologiques et techniques ceux qui s'orienteront vers d'autres voies.
+-préparer les futures études supérieures de ceux qui poursuivront sur le chemin des sciences et, au-delà, les métiers auxquels il conduit ; aider par les acquis méthodologiques et techniques ceux qui s'orienteront vers d'autres voies.
 
 Trois thématiques structurantes
 
 Pour atteindre ces objectifs, les programmes s'articulent autour de trois grandes thématiques qui, dans une large mesure, ne sont pas indépendantes.
 
-La Terre dans l'Univers, la vie et l'évolution du vivant. Il s'agit de montrer - dans le cadre des domaines propres aux sciences de la vie et de la Terre - que la science construit, à partir de méthodes d'argumentation rigoureuses fondées sur l'observation du monde, une explication cohérente de son état, de son fonctionnement et de son histoire. Au-delà de la perspective culturelle, cette ligne de réflexion prépare aux métiers les plus proches des sciences fondamentales (recherche, enseignement).
+La Terre dans l'Univers, la vie et l'évolution du vivant. Il s'agit de montrer-dans le cadre des domaines propres aux sciences de la vie et de la Terre-que la science construit, à partir de méthodes d'argumentation rigoureuses fondées sur l'observation du monde, une explication cohérente de son état, de son fonctionnement et de son histoire. Au-delà de la perspective culturelle, cette ligne de réflexion prépare aux métiers les plus proches des sciences fondamentales (recherche, enseignement).
 
 Enjeux planétaires contemporains. Il s'agit de montrer comment la discipline participe à l'appréhension rigoureuse de grands problèmes auxquels l'humanité d'aujourd'hui se trouve confrontée. Au-delà de la préoccupation citoyenne qui prépare chacun à l'exercice de ses responsabilités individuelles et collectives, la perspective utilisée ici conduit aux métiers de la gestion publique, aux professions en lien avec la dynamique de développement durable et aux métiers de l'environnement (agronomie, architecture, gestion des ressources naturelles).
 
 Corps humain et santé. Centrée sur l'organisme humain, cette thématique permet à chacun de comprendre le fonctionnement de son organisme, ses capacités et ses limites. Elle prépare à l'exercice des responsabilités individuelles, familiales et sociales et constitue un tremplin vers les métiers qui se rapportent à la santé (médecine, odontologie, diététique, épidémiologie).
 
-Ces trois thématiques ne sont en rien des catégories rigides mais bien des directions de réflexion. Elles ne se substituent pas aux découpages traditionnels de la discipline (biologie et géologie par exemple) et conduisent à la découverte progressive des grands domaines qu'elle recouvre. En particulier, les sciences de la Terre conservent une originalité qu'il convient de ne pas nier. Les thèmes généraux aident à montrer la cohérence globale du champ intellectuel concerné, centré sur un objet d'étude - la nature - et des méthodes fondées sur la confrontation entre les idées scientifiques et les faits - naturels ou expérimentaux. Elles aident aussi à situer l'enseignement dispensé dans la perspective de la construction d'un projet de vie propre à chaque élève.
+Ces trois thématiques ne sont en rien des catégories rigides mais bien des directions de réflexion. Elles ne se substituent pas aux découpages traditionnels de la discipline (biologie et géologie par exemple) et conduisent à la découverte progressive des grands domaines qu'elle recouvre. En particulier, les sciences de la Terre conservent une originalité qu'il convient de ne pas nier. Les thèmes généraux aident à montrer la cohérence globale du champ intellectuel concerné, centré sur un objet d'étude-la nature-et des méthodes fondées sur la confrontation entre les idées scientifiques et les faits-naturels ou expérimentaux. Elles aident aussi à situer l'enseignement dispensé dans la perspective de la construction d'un projet de vie propre à chaque élève.
 
 Dans chaque thématique, la construction des savoirs se réalise peu à peu tout au long de la scolarité. Cette continuité est conçue pour faciliter la progressivité des apprentissages, sans pour autant empêcher la souplesse nécessaire à l'élaboration d'un parcours de formation pour chaque élève.
 
@@ -46,7 +46,7 @@ Pour participer à la prise en compte de la diversité des élèves, une grande 
 
 2. Les conditions d'exercice de la liberté pédagogique du professeur
 
-Le programme est conçu pour laisser une très large place à la liberté pédagogique du professeur et/ou de l'équipe disciplinaire. Cette liberté porte sur les modalités didactiques mises en œuvre, sur l'ordre dans lequel seront étudiés les thèmes, sur les exemples choisis ainsi que, dans une mesure raisonnable, sur l'ampleur de l'argumentation développée dans le cadre de tel ou tel sujet. C'est pour respecter la liberté de choix d'exemples que les objectifs de formation sont définis avec un grand degré de généralité. Ces exemples, toujours localisés, seront choisis, pour certains au moins, dans un contexte proche.
+Le programme est conçu pour laisser une très large place à la liberté pédagogique du professeur et/ ou de l'équipe disciplinaire. Cette liberté porte sur les modalités didactiques mises en œuvre, sur l'ordre dans lequel seront étudiés les thèmes, sur les exemples choisis ainsi que, dans une mesure raisonnable, sur l'ampleur de l'argumentation développée dans le cadre de tel ou tel sujet. C'est pour respecter la liberté de choix d'exemples que les objectifs de formation sont définis avec un grand degré de généralité. Ces exemples, toujours localisés, seront choisis, pour certains au moins, dans un contexte proche.
 
 Néanmoins, la liberté pédagogique ne saurait émanciper des objectifs de formation rappelés ci-dessus. Pour aider à atteindre ces objectifs, quelques principes didactiques généraux sont rappelés ci-dessous, dont il convient de faire un usage adapté.
 
@@ -64,21 +64,21 @@ L'activité expérimentale offre la possibilité à l'élève de répondre à un
 
 Il est d'usage de décrire une démarche d'investigation comme la succession d'un certain nombre d'étapes types :
 
-- une situation motivante suscitant la curiosité,
+-une situation motivante suscitant la curiosité,
 
-- la formulation d'une problématique précise,
+-la formulation d'une problématique précise,
 
-- l'énoncé d'hypothèses explicatives,
+-l'énoncé d'hypothèses explicatives,
 
-- la conception d'une stratégie pour éprouver ces hypothèses,
+-la conception d'une stratégie pour éprouver ces hypothèses,
 
-- la mise en œuvre du projet ainsi élaboré,
+-la mise en œuvre du projet ainsi élaboré,
 
-- la confrontation des résultats obtenus et des hypothèses,
+-la confrontation des résultats obtenus et des hypothèses,
 
-- l'élaboration d'un savoir mémorisable,
+-l'élaboration d'un savoir mémorisable,
 
-- l'identification éventuelle de conséquences pratiques de ce savoir.
+-l'identification éventuelle de conséquences pratiques de ce savoir.
 
 Ce canevas est la conceptualisation d'une démarche type. Le plus souvent, pour des raisons variées, il convient d'en choisir quelques aspects pour la conception des séances. C'est là aussi un espace de liberté pédagogique pour le professeur qui vérifiera toutefois qu'à l'issue de l'année, les différentes étapes auront bien été envisagées.
 
@@ -138,15 +138,15 @@ En continuité avec les préconisations contenues dans les programmes de collèg
 
 Plusieurs sujets abordés dans le programme s'y prêtent, bien que le choix soit fait de ne pas le souligner au cas par cas le long du déroulé du programme afin de laisser toute liberté de mise en œuvre aux équipes.
 
-A titre d'exemple, on peut citer les évocations littéraires de la biodiversité ou sa représentation picturale; la statuaire du corps humain au cours d'un exercice sportif. Les évocations littéraires de la vie des mineurs renseignent sur des conditions d'exploitations souvent révolues aujourd'hui. La représentation d'animaux ou végétaux actuels ou disparus met en scène un dialogue entre les connaissances scientifiques et les pratiques artistiques; etc.
+A titre d'exemple, on peut citer les évocations littéraires de la biodiversité ou sa représentation picturale ; la statuaire du corps humain au cours d'un exercice sportif. Les évocations littéraires de la vie des mineurs renseignent sur des conditions d'exploitations souvent révolues aujourd'hui. La représentation d'animaux ou végétaux actuels ou disparus met en scène un dialogue entre les connaissances scientifiques et les pratiques artistiques ; etc.
 
 Préambule
 
-II - Les sciences de la vie et de la Terre en seconde
+II-Les sciences de la vie et de la Terre en seconde
 
 En classe de seconde, les trois thématiques présentées dans le préambule général pour le lycée se déclinent ainsi.
 
-Dans le thème La Terre dans l'Univers, la vie et l'évolution du vivant , selon une logique d'approfondissement des acquis du collège, on étudie successivement les caractéristiques de la Terre qui permettent de comprendre que la vie s'y développe, quelques originalités de fonctionnement et d'organisation du vivant et quelques idées sur la biodiversité et son origine évolutive.
+Dans le thème La Terre dans l'Univers, la vie et l'évolution du vivant, selon une logique d'approfondissement des acquis du collège, on étudie successivement les caractéristiques de la Terre qui permettent de comprendre que la vie s'y développe, quelques originalités de fonctionnement et d'organisation du vivant et quelques idées sur la biodiversité et son origine évolutive.
 
 Pour aborder le thème des enjeux planétaires contemporains on s'intéresse à certains aspects de la question énergétique ainsi qu'au défi que représente, en matière de ressources en sol, le développement d'une agriculture qui répond aux besoins de l'humanité.
 
@@ -162,19 +162,19 @@ La colonne de gauche liste les connaissances (en caractère droit) qui doivent �
 
 En italique, la colonne de gauche comporte aussi quelques commentaires qui précisent et limitent les objectifs d'apprentissage, lorsque cela paraît nécessaire :
 
-- en italique simple, quelques précisions sur les objectifs et mots clés (ces mots clés correspondent à des notions qui n'ont pas été placées directement dans le programme pour de simples questions d'écriture, mais qui doivent être connues des élèves) ;
+-en italique simple, quelques précisions sur les objectifs et mots clés (ces mots clés correspondent à des notions qui n'ont pas été placées directement dans le programme pour de simples questions d'écriture, mais qui doivent être connues des élèves) ;
 
-- entre parenthèses, des indications sur ce qui a déjà été étudié et qui ne sera pas reconstruit en seconde (ces acquis peuvent cependant être rappelés) ;
+-entre parenthèses, des indications sur ce qui a déjà été étudié et qui ne sera pas reconstruit en seconde (ces acquis peuvent cependant être rappelés) ;
 
-- entre crochets, quelques limites, chaque fois qu'il a semblé nécessaire de rendre parfaitement explicite ce jusqu'où ne doit pas aller l'exigible (il s'agit bien de limites de ce qui est exigible pour les élèves, ce qui ne veut pas dire qu'il est interdit d'en parler dans le déroulement de la construction du savoir) ;
+-entre crochets, quelques limites, chaque fois qu'il a semblé nécessaire de rendre parfaitement explicite ce jusqu'où ne doit pas aller l'exigible (il s'agit bien de limites de ce qui est exigible pour les élèves, ce qui ne veut pas dire qu'il est interdit d'en parler dans le déroulement de la construction du savoir) ;
 
-- les convergences les plus marquantes vers d'autres disciplines (ces relations ne sont pas indiquées de façon exhaustive).
+-les convergences les plus marquantes vers d'autres disciplines (ces relations ne sont pas indiquées de façon exhaustive).
 
 La colonne de droite indique les capacités et attitudes dont on attend qu'elles soient développées dans le cadre de l'item décrit.
 
 En préambule du programme, une liste de capacités et attitudes générales est présentée. Il s'agit de capacités et attitudes communes à la plupart des items qui ne sont donc en général pas reprises par la suite. Il convient cependant de ne pas les oublier et d'organiser leur développement sur l'ensemble de l'année.
 
-On observera que, par souci de continuité et de cohérence, le vocabulaire utilisé pour décrire les capacités et attitudes mises en œuvre s'inspire fortement de celui utilisé pour le socle commun de connaissances et de compétences du collège (BOEN no 29 du 20 juillet 2006).
+On observera que, par souci de continuité et de cohérence, le vocabulaire utilisé pour décrire les capacités et attitudes mises en œuvre s'inspire fortement de celui utilisé pour le socle commun de connaissances, de compétences et de culture du collège (BOEN no 29 du 20 juillet 2006).
 
 CAPACITÉS ET ATTITUDES DÉVELOPPÉES TOUT AU LONG DU PROGRAMME
 
@@ -224,7 +224,7 @@ CAPACITÉS ET ATTITUDES
 
 |
 
-Thème 1 - La Terre dans l'Univers, la vie et l'évolution du vivant : une planète habitée
+Thème 1-La Terre dans l'Univers, la vie et l'évolution du vivant : une planète habitée
 
 |
 
@@ -250,9 +250,9 @@ Convergences. Physique : l'univers, le système solaire, les états de l'eau, l'
 
 Expérimenter, modéliser, recenser, extraire et organiser des informations pour :
 
-- comparer les différents objets du système solaire et dégager les singularités de la Terre ;
+-comparer les différents objets du système solaire et dégager les singularités de la Terre ;
 
-- relier les particularités de la planète Terre à sa masse et sa distance au Soleil et définir une zone d'habitabilité autour des étoiles.
+-relier les particularités de la planète Terre à sa masse et sa distance au Soleil et définir une zone d'habitabilité autour des étoiles.
 
 |
 
@@ -276,7 +276,7 @@ Convergences. Chimie : les éléments chimiques, espèces chimiques, classificat
 
 Expérimenter, modéliser, recenser, extraire et organiser des informations pour comprendre la parenté chimique entre le vivant et le non vivant.
 
-Mettre en œuvre un processus (analyse chimique et/ou logiciel de visualisation moléculaire et/ou pratique documentaire) pour repérer quelques caractéristiques des molécules du vivant.
+Mettre en œuvre un processus (analyse chimique et/ ou logiciel de visualisation moléculaire et/ ou pratique documentaire) pour repérer quelques caractéristiques des molécules du vivant.
 
 |
 
@@ -286,7 +286,7 @@ La cellule est un espace limité par une membrane qui échange de la matière et
 
 Cette unité structurale et fonctionnelle commune à tous les êtres vivants est un indice de leur parenté.
 
-Objectifs et mots clés. On étudie un exemple. Mutant, organite, ordres de grandeur de tailles (cellule, organite, membrane). Distinction procaryote / eucaryote.
+Objectifs et mots clés. On étudie un exemple. Mutant, organite, ordres de grandeur de tailles (cellule, organite, membrane). Distinction procaryote/ eucaryote.
 
 (Collège. Membrane, noyau, cytoplasme ; information génétique, gène, allèle.)
 
@@ -298,13 +298,13 @@ Convergences. Chimie : transformations chimiques.
 
 Mettre en œuvre un raisonnement expérimental pour :
 
-- montrer l'effet de mutations sur le métabolisme cellulaire et comprendre le rôle du génome ;
+-montrer l'effet de mutations sur le métabolisme cellulaire et comprendre le rôle du génome ;
 
-- repérer l'influence de l'environnement sur le fonctionnement d'une cellule ;
+-repérer l'influence de l'environnement sur le fonctionnement d'une cellule ;
 
-- comprendre les mécanismes d'une démonstration expérimentale : comparaisons, tests, témoins.
+-comprendre les mécanismes d'une démonstration expérimentale : comparaisons, tests, témoins.
 
-Réaliser une préparation microscopique et/ou utiliser des logiciels et/ou organiser et recenser des informations pour distinguer les échelles : atome, molécule, cellule, organe, organisme et les ordres de grandeur associés.
+Réaliser une préparation microscopique et/ ou utiliser des logiciels et/ ou organiser et recenser des informations pour distinguer les échelles : atome, molécule, cellule, organe, organisme et les ordres de grandeur associés.
 
 Comparer des ultra structures cellulaires pour illustrer la parenté entre les êtres vivants.
 
@@ -326,7 +326,7 @@ Objectifs et mots clés. La double hélice, nucléotide, séquence.
 
 Manipuler, modéliser, recenser, extraire et organiser des informations pour mettre en évidence l'universalité de l'ADN.
 
-Mettre en œuvre une méthode (démarche historique et/ou utilisation de logiciel et/ou pratique documentaire) permettant d'approcher la structure de l'ADN et la nature du message codé.
+Mettre en œuvre une méthode (démarche historique et/ ou utilisation de logiciel et/ ou pratique documentaire) permettant d'approcher la structure de l'ADN et la nature du message codé.
 
 |
 
@@ -350,9 +350,9 @@ Objectifs et mots clés. On enrichit la notion de biodiversité, à l'occasion d
 
 Manipuler, extraire et organiser des informations, si possible sur le terrain, pour :
 
-- repérer les divers aspects de la biodiversité dans une situation donnée ;
+-repérer les divers aspects de la biodiversité dans une situation donnée ;
 
-- mettre en évidence l'influence de l'Homme sur la biodiversité.
+-mettre en évidence l'influence de l'Homme sur la biodiversité.
 
 Utiliser des outils simples de détermination d'espèces végétales ou animales (actuelles ou fossiles) pour mettre en évidence la biodiversité d'un milieu.
 
@@ -374,7 +374,7 @@ Objectifs et mots clés. Polarité, symétrie, squelette osseux, vertèbre.
 
 Mettre en œuvre un protocole de dissection pour comparer l'organisation de quelques vertébrés.
 
-Manipuler, recenser, extraire et organiser des informations sur l'organisation de quelques vertébrés actuels et/ou fossiles.
+Manipuler, recenser, extraire et organiser des informations sur l'organisation de quelques vertébrés actuels et/ ou fossiles.
 
 |
 
@@ -448,7 +448,7 @@ Convergences. Géographie.
 
 Repérer dans la composition et les conditions de gisement les indices d'une origine biologique d'un exemple de combustible fossile.
 
-Manipuler, modéliser, extraire et exploiter des informations, si possible sur le terrain et/ou modéliser pour comprendre les caractéristiques d'un gisement de combustible fossile (structure, formation, découverte, exploitation).
+Manipuler, modéliser, extraire et exploiter des informations, si possible sur le terrain et/ ou modéliser pour comprendre les caractéristiques d'un gisement de combustible fossile (structure, formation, découverte, exploitation).
 
 |
 
@@ -468,7 +468,7 @@ Représenter un cycle du carbone simplifié mais quantifié pour comprendre en q
 
 L'énergie solaire est inégalement reçue à la surface de la planète.
 
-La photosynthèse en utilise moins de 1%. Le reste chauffe l'air (par l'intermédiaire du sol) et l'eau (ce qui est à l'origine des vents et courants) et évapore l'eau (ce qui permet le cycle de l'eau).
+La photosynthèse en utilise moins de 1 %. Le reste chauffe l'air (par l'intermédiaire du sol) et l'eau (ce qui est à l'origine des vents et courants) et évapore l'eau (ce qui permet le cycle de l'eau).
 
 Utiliser l'énergie des vents, des courants marins, des barrages hydroélectriques, revient à utiliser indirectement de l'énergie solaire. Ces ressources énergétiques sont rapidement renouvelables.
 
@@ -482,9 +482,9 @@ Convergences. Géographie, sciences économiques.
 
 |
 
-Expérimenter, modéliser, extraire et exploiter des informations (documents météorologiques et/ou images satellitales et/ou documents océanographiques, etc.) et les mettre en relation pour comprendre l'effet de l'énergie solaire sur un exemple de circulation (atmosphérique ou hydrosphérique).
+Expérimenter, modéliser, extraire et exploiter des informations (documents météorologiques et/ ou images satellitales et/ ou documents océanographiques, etc.) et les mettre en relation pour comprendre l'effet de l'énergie solaire sur un exemple de circulation (atmosphérique ou hydrosphérique).
 
-Construire une argumentation (de nature manipulatoire et/ou documentaire) pour montrer l'inégale répartition de la quantité d'énergie solaire reçue selon la latitude, et ses conséquences.
+Construire une argumentation (de nature manipulatoire et/ ou documentaire) pour montrer l'inégale répartition de la quantité d'énergie solaire reçue selon la latitude, et ses conséquences.
 
 |
 
@@ -506,9 +506,9 @@ Convergences. Géographie.
 
 Modéliser, recenser, extraire et organiser des informations de façon à
 
-- comparer la part de production de biomasse utilisée par l'homme et le total de cette production ;
+-comparer la part de production de biomasse utilisée par l'homme et le total de cette production ;
 
-- établir l'inégale répartition de ces deux ressources.
+-établir l'inégale répartition de ces deux ressources.
 
 Comprendre la responsabilité humaine en matière d'environnement. Comprendre les éléments d'un débat. Manifester un intérêt pour la vie publique et les grands enjeux de la société à l'échelle planétaire.
 
@@ -526,15 +526,15 @@ Objectifs et mots clés. On étudie un exemple, dans l'objectif de comprendre ce
 
 Manipuler, recenser, extraire et organiser des informations, si possible sur le terrain, pour :
 
-- comprendre la formation d'un exemple de sol ;
+-comprendre la formation d'un exemple de sol ;
 
-- relier végétation, climat, nature de la roche mère et nature d'un exemple de sol.
+-relier végétation, climat, nature de la roche mère et nature d'un exemple de sol.
 
 Comprendre la responsabilité humaine en matière d'environnement.
 
 |
 
-Thème 3 - Corps humain et santé : l'exercice physique
+Thème 3-Corps humain et santé : l'exercice physique
 
 |
 
@@ -546,15 +546,15 @@ Des modifications physiologiques à l'effort
 
 |
 
-Au cours d'un exercice long et/ou peu intense, l'énergie est fournie par la respiration, qui utilise le dioxygène et les nutriments.
+Au cours d'un exercice long et/ ou peu intense, l'énergie est fournie par la respiration, qui utilise le dioxygène et les nutriments.
 
 L'effort physique augmente la consommation de dioxygène :
 
-- plus l'effort est intense, plus la consommation de dioxygène augmente ;
+-plus l'effort est intense, plus la consommation de dioxygène augmente ;
 
-- il y a une limite à la consommation de dioxygène. La consommation de nutriments dépend aussi de l'effort fourni. L'exercice physique est un des facteurs qui aident à lutter contre l'obésité.
+-il y a une limite à la consommation de dioxygène. La consommation de nutriments dépend aussi de l'effort fourni. L'exercice physique est un des facteurs qui aident à lutter contre l'obésité.
 
-Objectifs et mots clés. VO2 , VO2max.
+Objectifs et mots clés. VO2, VO2max.
 
 (Collège. Nutriments et dioxygène libèrent de l'énergie utilisable pour le fonctionnement des organes. Réactions de l'organisme à l'effort).
 
@@ -564,9 +564,9 @@ Convergences. Mathématiques : fonctions, tableur.
 
 |
 
-Concevoir et/ou mettre en œuvre un protocole expérimental (ExAO, spirométrie, brassard, ...) pour mettre en évidence un ou plusieurs aspects du métabolisme énergétique à l'effort (consommation de dioxygène, production de chaleur,...).
+Concevoir et/ ou mettre en œuvre un protocole expérimental (ExAO, spirométrie, brassard,...) pour mettre en évidence un ou plusieurs aspects du métabolisme énergétique à l'effort (consommation de dioxygène, production de chaleur,...).
 
-Exploiter des données quantitatives (éventuellement à l'aide d'un tableur) concernant les modifications de la consommation de dioxygène et/ou de nutriments à l'effort.
+Exploiter des données quantitatives (éventuellement à l'aide d'un tableur) concernant les modifications de la consommation de dioxygène et/ ou de nutriments à l'effort.
 
 |
 
@@ -586,9 +586,9 @@ Convergences. EPS, sciences physiques.
 
 |
 
-Concevoir et/ou mettre en œuvre un protocole expérimental (en particulier assisté par ordinateur) pour montrer les variations des paramètres physiologiques à l'effort.
+Concevoir et/ ou mettre en œuvre un protocole expérimental (en particulier assisté par ordinateur) pour montrer les variations des paramètres physiologiques à l'effort.
 
-Manipuler, modéliser, recenser, extraire et organiser des informations et ou manipuler (dissections et/ou logiciels de simulation et/ou recherche documentaire) pour comprendre l'organisation et le fonctionnement des systèmes cardiovasculaire et ventilatoire.
+Manipuler, modéliser, recenser, extraire et organiser des informations et ou manipuler (dissections et/ ou logiciels de simulation et/ ou recherche documentaire) pour comprendre l'organisation et le fonctionnement des systèmes cardiovasculaire et ventilatoire.
 
 |
 
@@ -598,11 +598,11 @@ Une boucle de régulation nerveuse
 
 La pression artérielle est une grandeur contrôlée par plusieurs paramètres. Par exemple, il existe une boucle réflexe de contrôle de la fréquence cardiaque (dont la pression artérielle dépend par l'intermédiaire du débit) :
 
-- des capteurs (barorécepteurs) sont sensibles à la valeur de la pression artérielle ;
+-des capteurs (barorécepteurs) sont sensibles à la valeur de la pression artérielle ;
 
-- un centre bulbaire intègre les informations issues des barorécepteurs et module les messages nerveux en direction de l'effecteur (cœur) ;
+-un centre bulbaire intègre les informations issues des barorécepteurs et module les messages nerveux en direction de l'effecteur (cœur) ;
 
-- les informations sont transmises du centre à l'effecteur par des nerfs sympathiques et parasympathiques.
+-les informations sont transmises du centre à l'effecteur par des nerfs sympathiques et parasympathiques.
 
 La boucle de régulation contribue à maintenir la pression artérielle dans d'étroites limites autour d'une certaine valeur.
 
@@ -612,7 +612,7 @@ Objectifs et mots clés. A partir de la complexité des réactions de l'organism
 
 |
 
-Recenser, extraire et exploiter des documents historiques relatifs à des travaux expérimentaux pour construire et/ou argumenter la boucle de régulation nerveuse évoquée.
+Recenser, extraire et exploiter des documents historiques relatifs à des travaux expérimentaux pour construire et/ ou argumenter la boucle de régulation nerveuse évoquée.
 
 Élaborer un schéma fonctionnel pour représenter une boucle de régulation.
 
@@ -634,13 +634,13 @@ Objectifs et mots clés. On étudie un exemple d'accident musculo-articulaire (c
 
 Recenser, extraire et interpréter des informations tirées de compte rendus d'accidents musculo-articulaires (imageries médicales).
 
-Manipuler, modéliser, recenser, extraire et organiser des informations et/ou manipuler (dissections, maquettes, etc.) pour comprendre le fonctionnement du système musculo-articulaire.
+Manipuler, modéliser, recenser, extraire et organiser des informations et/ ou manipuler (dissections, maquettes, etc.) pour comprendre le fonctionnement du système musculo-articulaire.
 
 Relier les caractéristiques de l'organisation du muscle aux manifestations d'un accident musculo-articulaire.
 
 |
 
-Des pratiques inadaptées ou dangereuses (exercice trop intense, dopage...) augmentent la fragilité du système musculo-articulaire et/ou provoquent des accidents.
+Des pratiques inadaptées ou dangereuses (exercice trop intense, dopage...) augmentent la fragilité du système musculo-articulaire et/ ou provoquent des accidents.
 
 [Limites. On se limite à l'étude d'un exemple.]
 
@@ -648,11 +648,11 @@ Des pratiques inadaptées ou dangereuses (exercice trop intense, dopage...) augm
 
 Extraire et exploiter des informations pour :
 
-- comprendre la différence entre l'usage thérapeutique d'une molécule et l'usage détourné qui peut en être fait ;
+-comprendre la différence entre l'usage thérapeutique d'une molécule et l'usage détourné qui peut en être fait ;
 
-- comprendre l'effet sur la santé des sportifs d'une pratique de dopage ;
+-comprendre l'effet sur la santé des sportifs d'une pratique de dopage ;
 
-- déterminer comment se livrer à un exercice physique dans de bonnes conditions de santé.
+-déterminer comment se livrer à un exercice physique dans de bonnes conditions de santé.
 
 Exercer sa responsabilité en matière de santé.
 

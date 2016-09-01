@@ -6,7 +6,7 @@ CLASSE DE PREMIÈRE SCIENTIFIQUE
 
 Préambule
 
-I. - Les sciences de la vie et de la Terre au lycée
+I.-Les sciences de la vie et de la Terre au lycée
 
 I-1. Les sciences de la vie et de la Terre
 
@@ -62,7 +62,7 @@ I-2. Les conditions d'exercice
 
 de la liberté pédagogique du professeur
 
-Le programme est conçu pour laisser une très large place à la liberté pédagogique du professeur et/ou de l'équipe disciplinaire. Cette liberté porte sur les modalités didactiques mises en œuvre, sur l'ordre dans lequel seront étudiés les thèmes, sur les exemples choisis ainsi que, dans une mesure raisonnable, sur l'ampleur de l'argumentation développée dans le cadre de tel ou tel sujet. C'est pour respecter la liberté de choix d'exemples que les objectifs de formation sont définis avec un grand degré de généralité. Ces exemples, toujours localisés, seront choisis, pour certains au moins, dans un contexte proche.
+Le programme est conçu pour laisser une très large place à la liberté pédagogique du professeur et/ ou de l'équipe disciplinaire. Cette liberté porte sur les modalités didactiques mises en œuvre, sur l'ordre dans lequel seront étudiés les thèmes, sur les exemples choisis ainsi que, dans une mesure raisonnable, sur l'ampleur de l'argumentation développée dans le cadre de tel ou tel sujet. C'est pour respecter la liberté de choix d'exemples que les objectifs de formation sont définis avec un grand degré de généralité. Ces exemples, toujours localisés, seront choisis, pour certains au moins, dans un contexte proche.
 
 Néanmoins, la liberté pédagogique ne saurait émanciper des objectifs de formation rappelés ci-dessus. Pour aider à atteindre ces objectifs, quelques principes didactiques généraux sont rappelés ci-dessous, dont il convient de faire un usage adapté.
 
@@ -162,7 +162,7 @@ Plusieurs sujets abordés dans le programme s'y prêtent, bien que le choix soit
 
 A titre d'exemple, on peut citer les évocations littéraires de la biodiversité ou sa représentation picturale ; la statuaire du corps humain au cours d'un exercice sportif. Les évocations littéraires de la vie des mineurs renseignent sur des conditions d'exploitations souvent révolues aujourd'hui. La représentation d'animaux ou végétaux actuels ou disparus met en scène un dialogue entre les connaissances scientifiques et les pratiques artistiques ; etc.
 
-II. - Les sciences de la vie
+II.-Les sciences de la vie
 
 et de la Terre en classe de première S
 
@@ -184,7 +184,7 @@ Pour aborder le thème des enjeux planétaires contemporains (17 %), deux questi
 
 Enfin le thème corps humain et santé (33 %) est structuré autour de trois questions :
 
-― la dualité féminin/masculin est abordée sous l'angle de son ontogenèse aussi bien que pour permettre une approche biologique des questions de sexualité ;
+― la dualité féminin/ masculin est abordée sous l'angle de son ontogenèse aussi bien que pour permettre une approche biologique des questions de sexualité ;
 
 ― les relations entre la variabilité génétique et la santé conduisent à évoquer la part de la génétique dans la cause des maladies, celle des perturbations du génome dans le cancer, et l'importance médicale de la sélection de souches bactériennes résistantes aux antibiotiques ;
 
@@ -210,13 +210,13 @@ En italique, la colonne de gauche comporte aussi quelques commentaires qui préc
 
 ― les convergences les plus marquantes vers d'autres disciplines (ces relations ne sont pas indiquées de façon exhaustive).
 
-Une nouvelle rubrique apparaît dans cette colonne par rapport au programme de seconde. Dénommée pistes , elle suggère des directions de réflexions susceptibles d'être exploitées dans le cadre de prolongements au-delà du programme lui-même, en TPE, accompagnement personnalisé ou clubs scientifiques par exemple, de préférence en interdisciplinarité.
+Une nouvelle rubrique apparaît dans cette colonne par rapport au programme de seconde. Dénommée pistes, elle suggère des directions de réflexions susceptibles d'être exploitées dans le cadre de prolongements au-delà du programme lui-même, en TPE, accompagnement personnalisé ou clubs scientifiques par exemple, de préférence en interdisciplinarité.
 
 La colonne de droite indique les capacités et attitudes dont on attend qu'elles soient développées dans le cadre de l'item décrit.
 
 En préambule du programme, une liste de capacités et attitudes générales est présentée. Celles-ci sont communes à la plupart des items qui, par conséquent, ne sont pas reprises par la suite. Il convient cependant de ne pas les oublier et d'organiser leur apprentissage sur l'ensemble de l'année.
 
-On observera que, par souci de continuité et de cohérence, le vocabulaire utilisé pour décrire les capacités et attitudes mises en œuvre s'inspire fortement de celui utilisé pour le socle commun de connaissances et de compétences du collège (décret 2006-830 du 11 juillet 2006, encart au BOEN n° 29 du 20 juillet 2006).
+On observera que, par souci de continuité et de cohérence, le vocabulaire utilisé pour décrire les capacités et attitudes mises en œuvre s'inspire fortement de celui utilisé pour le socle commun de connaissances, de compétences et de culture du collège (décret 2006-830 du 11 juillet 2006, encart au BOEN n° 29 du 20 juillet 2006).
 
 CAPACITÉS ET ATTITUDES DÉVELOPPÉES
 
@@ -402,7 +402,7 @@ Pistes. Comprendre la PCR. Calculer la vitesse de réplication chez les eucaryot
 
 |
 
-Mettre en œuvre une méthode (démarche historique) et/ou une utilisation de logiciels et/ou une pratique documentaire permettant de comprendre le mécanisme de réplication semi-conservative.
+Mettre en œuvre une méthode (démarche historique) et/ ou une utilisation de logiciels et/ ou une pratique documentaire permettant de comprendre le mécanisme de réplication semi-conservative.
 
 |
 
@@ -430,7 +430,7 @@ Pistes. Quantification de la mutation dans une population cellulaire (mathémati
 
 |
 
-Recenser, exploiter et interpréter des bases de données et/ou concevoir et réaliser un protocole pour :
+Recenser, exploiter et interpréter des bases de données et/ ou concevoir et réaliser un protocole pour :
 
 ― mettre en évidence l'influence d'agents mutagènes sur des populations humaines (UV, benzène, etc.) ;
 
@@ -462,7 +462,7 @@ Un même ARN pré-messager peut subir, suivant le contexte, des maturations diff
 
 Recenser, extraire et exploiter des informations permettant de caractériser les protéines comme expression primaire de l'information génétique.
 
-Mettre en œuvre une méthode (démarche historique) et/ou une utilisation de logiciels et/ou une pratique documentaire permettant :
+Mettre en œuvre une méthode (démarche historique) et/ ou une utilisation de logiciels et/ ou une pratique documentaire permettant :
 
 ― d'approcher le mécanisme de la transcription, et de la traduction ;
 
@@ -524,7 +524,7 @@ La naissance de l'idée
 
 Au début du xxe les premières idées évoquant la mobilité horizontale s'appuient sur quelques constatations :
 
-― la distribution bimodale des altitudes (continents/océans) ;
+― la distribution bimodale des altitudes (continents/ océans) ;
 
 ― les tracés des côtes ;
 
@@ -614,7 +614,7 @@ Les différences de vitesse des ondes sismiques qui se propagent le long de ce p
 
 L'interprétation de ces données sismiques permet ainsi de montrer que la lithosphère s'enfonce dans le manteau au niveau des fosses dites de subduction.
 
-La limite inférieure de la lithosphère correspond généralement à l'isotherme 1 300 °C.
+La limite inférieure de la lithosphère correspond généralement à l'isotherme 1 300° C.
 
 Objectifs et mots-clés. Distinction claire des notions de : lithosphère, asthénosphère, croûte, manteau, subduction.
 
@@ -668,7 +668,7 @@ Le renforcement du modèle par son efficacité prédictive
 
 |
 
-Le modèle prévoit que la croûte océanique est d'autant plus vieille qu'on s'éloigne de la dorsale. Les âges des sédiments en contact avec le plancher océanique (programme de forage sous-marins J.O.I.D.E.S.) confirment cette prédiction et les vitesses prévues par le modèle de la tectonique des plaques.
+Le modèle prévoit que la croûte océanique est d'autant plus vieille qu'on s'éloigne de la dorsale. Les âges des sédiments en contact avec le plancher océanique (programme de forage sous-marins J. O. I. D. E. S.) confirment cette prédiction et les vitesses prévues par le modèle de la tectonique des plaques.
 
 Le modèle prévoit des vitesses de déplacements des plaques (d'après le paléomagnétisme et les alignements de volcans intraplaques). Avec l'utilisation des techniques de positionnement par satellites (GPS), à la fin du XXe siècle, les mouvements des plaques deviennent directement observables et leurs vitesses sont confirmées.
 
@@ -770,7 +770,7 @@ Pistes. Comprendre l'importance économique d'une histoire géologique (géograp
 
 Recenser, extraire et organiser des informations permettant de reconstituer le contexte géographique et géologique à l'époque du dépôt à l'origine de l'hydrocarbure de l'exemple étudié.
 
-Découvrir la morphologie et la structure des marges passives à partir des profils de sismique réflexion et/ou des cartes et/ou des coupes.
+Découvrir la morphologie et la structure des marges passives à partir des profils de sismique réflexion et/ ou des cartes et/ ou des coupes.
 
 Recenser, extraire et organiser des informations, notamment lors d'une sortie sur le terrain.
 
@@ -840,7 +840,7 @@ Objectifs et mots-clés. Il s'agit de quantifier les flux d'énergie et de mati�
 
 [Limites. Aucune exhaustivité n'est attendue dans la présentation des pratiques agricoles et des intrants.]
 
-Pistes. Agriculture et développement durable ; agriculture biologique / raisonnée (histoire-géographie).
+Pistes. Agriculture et développement durable ; agriculture biologique/ raisonnée (histoire-géographie).
 
 |
 
@@ -850,7 +850,7 @@ Faire preuve d'esprit critique en étudiant la conduite d'une culture quant à s
 
 Recenser, extraire et exploiter des informations, notamment sur le terrain, utiliser des bases de données et des logiciels pour comparer les bilans d'énergie et de matière (dont l'eau) d'un agrosystème de production végétale et d'un écosystème peu modifié par l'homme.
 
-Concevoir et réaliser un protocole pour mettre en œuvre une culture et analyser ses caractéristiques et/ou utiliser des logiciels modélisant une culture, ses bilans et sa gestion.
+Concevoir et réaliser un protocole pour mettre en œuvre une culture et analyser ses caractéristiques et/ ou utiliser des logiciels modélisant une culture, ses bilans et sa gestion.
 
 |
 
@@ -896,15 +896,15 @@ Convergence : Géographie (seconde) ― Nourrir les hommes.
 
 |
 
-Recenser, extraire et exploiter des informations, utiliser des bases de données et des logiciels pour comprendre : ― l'impact global des pratiques alimentaires ; ― la gestion de populations et/ou de peuplements naturels ;
+Recenser, extraire et exploiter des informations, utiliser des bases de données et des logiciels pour comprendre : ― l'impact global des pratiques alimentaires ; ― la gestion de populations et/ ou de peuplements naturels ;
 
 Recenser, extraire et exploiter des informations sur la variété des agro-systèmes mondiaux et leurs caractéristiques.
 
-Recenser et comparer différentes pratiques culturales, du point de vue de leur durabilité (bilan carbone, bilan énergétique, biodiversité, ...).
+Recenser et comparer différentes pratiques culturales, du point de vue de leur durabilité (bilan carbone, bilan énergétique, biodiversité,...).
 
 Recenser, extraire et exploiter des informations sur les recherches actuelles permettant d'améliorer la production végétale dans une logique de développement durable.
 
-Utiliser des systèmes d'information géographique(SIG) pour déterminer l'importance des besoins (énergie, matière, sol, etc.) de la production mondiale agricole actuelle (et son évolution récente).
+Utiliser des systèmes d'information géographique (SIG) pour déterminer l'importance des besoins (énergie, matière, sol, etc.) de la production mondiale agricole actuelle (et son évolution récente).
 
 |
 
@@ -922,7 +922,7 @@ FÉMININ, MASCULIN
 
 |
 
-L'étude de la sexualité humaine s'appuie sur les acquis du collège. Dans une optique d'éducation à la santé et à la responsabilité, il s'agit de comprendre les composantes biologiques principales de l'état masculin ou féminin, du lien entre la sexualité et la procréation et des relations entre la sexualité et le plaisir. Ces enseignements gagneront à être mis en relation avec d'autres approches interdisciplinaire (philosophie) et/ou intercatégorielle (professionnels de santé). Il s'agit d'aider l'élève à la prise en charge responsable de sa vie sexuelle.
+L'étude de la sexualité humaine s'appuie sur les acquis du collège. Dans une optique d'éducation à la santé et à la responsabilité, il s'agit de comprendre les composantes biologiques principales de l'état masculin ou féminin, du lien entre la sexualité et la procréation et des relations entre la sexualité et le plaisir. Ces enseignements gagneront à être mis en relation avec d'autres approches interdisciplinaire (philosophie) et/ ou intercatégorielle (professionnels de santé). Il s'agit d'aider l'élève à la prise en charge responsable de sa vie sexuelle.
 
 |
 
@@ -944,7 +944,7 @@ La puberté est la dernière étape de la mise en place des caractères sexuels.
 
 Objectifs et mots-clés. SRY, testostérone, AMH.
 
-(Collège et seconde. Première approche de la distinction homme/femme et de la puberté.)
+(Collège et seconde. Première approche de la distinction homme/ femme et de la puberté.)
 
 [Limites. Les acquis anatomiques du collège seront seulement rappelés.]
 
@@ -976,7 +976,7 @@ Objectifs et mots-clés. Les mécanismes neuroendocrines de contrôle de la repr
 
 [Limites. Les mécanismes cellulaires de l'action des hormones, de même que les voies de leur synthèse, ne sont pas au programme. Il ne s'agit pas de présenter les techniques de procréation médicalement assistée mais seulement de montrer que la compréhension de leurs principes généraux repose sur des connaissances scientifiques et d'é voquer leur cadre éthique.]
 
-Pistes. Bioéthique (philosophie) ; hormones naturelles / hormones synthétiques (chimie).
+Pistes. Bioéthique (philosophie) ; hormones naturelles/ hormones synthétiques (chimie).
 
 |
 
@@ -984,7 +984,7 @@ Traduire les mécanismes de contrôle de l'activité gonadique sous la forme de 
 
 Effectuer des gestes techniques pour réaliser différentes observations microscopiques.
 
-Mettre en œuvre une méthode (démarche historique) et/ou une utilisation de logiciels et/ou une pratique documentaire pour expliquer le mode d'action de différentes pilules contraceptives.
+Mettre en œuvre une méthode (démarche historique) et/ ou une utilisation de logiciels et/ ou une pratique documentaire pour expliquer le mode d'action de différentes pilules contraceptives.
 
 Extraire et exploiter des données pour relier la prévention contre les IST (SIDA, hépatite, papillomavirus....) à la vaccination ou l'utilisation du préservatif.
 
@@ -1004,7 +1004,7 @@ Sexualité et bases biologiques du plaisir
 
 L'activité sexuelle est associée au plaisir.
 
-Le plaisir repose notamment sur des phénomènes biologiques, en particulier l'activation dans le cerveau des systèmes de récompense .
+Le plaisir repose notamment sur des phénomènes biologiques, en particulier l'activation dans le cerveau des systèmes de récompense.
 
 Objectifs et mots-clés. Sans chercher à laisser croire que les relations entre sexualité et plaisir ne s'expriment qu'en termes scientifiques, on montre qu'une composante biologique existe.
 
@@ -1014,7 +1014,7 @@ Pistes. Education à la santé et à la sexualité.
 
 |
 
-Mettre en œuvre une méthode (démarche historique) et/ou une utilisation de logiciels et/ou une pratique documentaire pour mettre en évidence le système de récompense.
+Mettre en œuvre une méthode (démarche historique) et/ ou une utilisation de logiciels et/ ou une pratique documentaire pour mettre en évidence le système de récompense.
 
 |
 
@@ -1176,7 +1176,7 @@ Pistes. Les traitements des déficiences du cristallin.
 
 |
 
-Recenser, extraire et organiser des informations et/ou manipuler (dissection, maquette et/ou recherche documentaire) pour :
+Recenser, extraire et organiser des informations et/ ou manipuler (dissection, maquette et/ ou recherche documentaire) pour :
 
 ― localiser et comprendre l'organisation et le fonctionnement du cristallin ;
 
@@ -1200,7 +1200,7 @@ Le message nerveux issu de l'œil est acheminé au cerveau par le nerf optique.
 
 |
 
-Extraire et exploiter des informations (maquette, logiciel et/ou recherche documentaire et/ou observations microscopiques) pour :
+Extraire et exploiter des informations (maquette, logiciel et/ ou recherche documentaire et/ ou observations microscopiques) pour :
 
 ― comprendre l'organisation de la rétine ;
 
@@ -1254,6 +1254,6 @@ Recenser, extraire et organiser des informations pour comprendre le phénomène 
 
 Interpréter des expériences sur la maturation du cortex visuel chez l'animal.
 
-Interpréter des observations médicales et/ou des imageries cérébrales chez l'Homme.
+Interpréter des observations médicales et/ ou des imageries cérébrales chez l'Homme.
 
 |

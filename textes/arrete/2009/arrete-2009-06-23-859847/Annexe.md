@@ -8,7 +8,7 @@ Architecture générale
 
 Préambule
 
-Le référentiel de l'enseignement de Prévention Santé Environnement remplace le programme de Vie Sociale et Professionnelle en CAP. L'enseignement de Prévention Santé Environnement conforte les acquisitions du socle commun de connaissances et de compétences notamment celles de la culture scientifique. Il contribue pleinement aux actions prioritaires d'éducation et de prévention définies par les plans nationaux et européens dans les champs de la santé, du travail et de l'environnement.
+Le référentiel de l'enseignement de Prévention Santé Environnement remplace le programme de Vie Sociale et Professionnelle en CAP. L'enseignement de Prévention Santé Environnement conforte les acquisitions du socle commun de connaissances, de compétences et de culture notamment celles de la culture scientifique. Il contribue pleinement aux actions prioritaires d'éducation et de prévention définies par les plans nationaux et européens dans les champs de la santé, du travail et de l'environnement.
 
 Il s'adresse, dans le cadre de la formation tout au long de la vie, à un public très varié tant dans sa composante sociale que dans ses besoins et ses attentes.
 
@@ -18,15 +18,15 @@ Finalités
 
 L'enseignement vise à former des acteurs de prévention individuelle et collective par l'acquisition :
 
-- de connaissances dans le cadre de la prévention, de la santé et de l'environnement ;
+-de connaissances dans le cadre de la prévention, de la santé et de l'environnement ;
 
-- d'un comportement responsable vis à vis de sa santé et de son environnement ;
+-d'un comportement responsable vis à vis de sa santé et de son environnement ;
 
-- des compétences sociales et civiques permettant de réussir sa vie en société dans le respect de soi et des autres ;
+-des compétences sociales et civiques permettant de réussir sa vie en société dans le respect de soi et des autres ;
 
-- d'une culture scientifique et technologique visant à développer l'esprit critique ;
+-d'une culture scientifique et technologique visant à développer l'esprit critique ;
 
-- d'une méthodologie intégrant une démarche d'analyse et de résolution de problèmes.
+-d'une méthodologie intégrant une démarche d'analyse et de résolution de problèmes.
 
 Démarches et méthodes
 
@@ -42,7 +42,7 @@ L'enseignement de Prévention Santé Environnement est organisé en modules de f
 
 En CAP, quatre modules de formation abordent les champs de la santé, de la consommation, de l'insertion et de l'environnement professionnels.
 
-Mise en relation capacités - attitudes
+Mise en relation capacités-attitudes
 
 CAPACITÉS
 
@@ -54,11 +54,11 @@ ATTITUDES
 
 S'informer, se documenter :
 
-- Rechercher l'information
+-Rechercher l'information
 
-- Décoder l'information
+-Décoder l'information
 
-- Traiter l'information
+-Traiter l'information
 
 |
 
@@ -70,9 +70,9 @@ Objectivité
 
 Mobiliser des connaissances scientifiques, juridiques, économiques :
 
-- Énoncer des connaissances
+-Énoncer des connaissances
 
-- Mettre en relation
+-Mettre en relation
 
 |
 
@@ -88,11 +88,11 @@ Conscience de la valeur de la loi
 
 Conduire une démarche d'analyse :
 
-- Identifier un problème,
+-Identifier un problème,
 
-- Appliquer une démarche de résolution de problème
+-Appliquer une démarche de résolution de problème
 
-- Mettre en oeuvre une approche par les risques
+-Mettre en oeuvre une approche par les risques
 
 |
 
@@ -104,13 +104,13 @@ Conscience de sa responsabilité dans la vie professionnelle
 
 S'impliquer dans un projet d'action individuelle ou collective en lien avec le développement durable, la vie professionnelle, la société :
 
-- Identifier la problématique du projet
+-Identifier la problématique du projet
 
-- Repérer les enjeux
+-Repérer les enjeux
 
-- Se situer dans un projet
+-Se situer dans un projet
 
-- Proposer des actions
+-Proposer des actions
 
 |
 
@@ -130,13 +130,13 @@ Attitude critique
 
 Communiquer :
 
-- Utiliser un langage adapté
+-Utiliser un langage adapté
 
-- Utiliser un moyen de communication adapté
+-Utiliser un moyen de communication adapté
 
-- Échanger, prendre en compte différents avis
+-Échanger, prendre en compte différents avis
 
-- Construire son opinion personnelle
+-Construire son opinion personnelle
 
 |
 
@@ -152,7 +152,7 @@ Respect de l'autre
 
 Référentiel Prévention Santé et Environnement pour les Certificats d'Aptitude Professionnelle
 
-1 : L'individu et sa santé - Durée indicative 30% de l'horaire du cycle
+1 : L'individu et sa santé-Durée indicative 30 % de l'horaire du cycle
 
 CONNAISSANCES
 
@@ -166,7 +166,7 @@ ATTITUDES DÉVELOPPÉES
 
 |
 
-ACTIVITÉS - RESSOURCES
+ACTIVITÉS-RESSOURCES
 
 |
 
@@ -192,7 +192,7 @@ Sens de la responsabilité face à sa santé : attitude veille sommeil cohérent
 
 Lecture de courbes, de résultats statistiques.
 
-Utilisation d'études de cas proposant des organisations différentes de la journée ou de la semaine de travail (travail posté, travail de nuit ...).
+Utilisation d'études de cas proposant des organisations différentes de la journée ou de la semaine de travail (travail posté, travail de nuit...).
 
 Exploitation de l'expérience personnelle, de documents.
 
@@ -204,7 +204,7 @@ Sommeil
 
 Préciser les rôles du sommeil.
 
-Repérer les conséquences de l'insuffisance du sommeil sur l'individu et son activité professionnelle .
+Repérer les conséquences de l'insuffisance du sommeil sur l'individu et son activité professionnelle.
 
 Énoncer des mesures collectives et des attitudes personnelles favorisant la récupération.
 
@@ -250,7 +250,7 @@ Proposer et justifier des corrections en fonction de l'activité professionnelle
 
 |
 
-Travail musculaire et interrelations fonctionnelles (organes - appareils)
+Travail musculaire et interrelations fonctionnelles (organes-appareils)
 
 |
 
@@ -342,7 +342,7 @@ IST : agents responsables, modes de contamination, symptômes, conséquences
 
 |
 
-Citer les principales I.S.T. d'origine bactérienne et virale
+Citer les principales I. S. T. d'origine bactérienne et virale
 
 Caractériser les modes de contamination et les agents responsables, les symptômes et les conséquences de ces maladies.
 
@@ -356,7 +356,7 @@ Conscience de l'engagement, de ses droits et de ses devoirs
 
 |
 
-Étude limitée à une I.S.T. d'origine bactérienne et à une I.S.T. d'origine virale : SIDA ou hépatite B
+Étude limitée à une I. S. T. d'origine bactérienne et à une I. S. T. d'origine virale : SIDA ou hépatite B
 
 Analyse de documents ressources, plaquettes d'information, sites Internet...
 
@@ -432,7 +432,7 @@ Indiquer la conduite à tenir suite à une prise de risque.
 
 |
 
-2. L'individu dans ses actes de consommation - Durée indicative : 10% de l'horaire du cycle
+2. L'individu dans ses actes de consommation-Durée indicative : 10 % de l'horaire du cycle
 
 CONNAISSANCES
 
@@ -446,7 +446,7 @@ ATTITUDES DÉVELOPPÉES
 
 |
 
-ACTIVITÉS - RESSOURCES
+ACTIVITÉS-RESSOURCES
 
 |
 
@@ -564,7 +564,7 @@ Observation et comparaison des différents modes de paiement.
 
 Achats
 
-- Critères de choix
+-Critères de choix
 
 |
 
@@ -572,7 +572,7 @@ Achats
 
 |
 
-- Étiquetage
+-Étiquetage
 
 |
 
@@ -582,7 +582,7 @@ Repérer les informations ou signes relatifs à la qualité des produits, à la 
 
 |
 
-- Modes de paiement
+-Modes de paiement
 
 |
 
@@ -658,7 +658,7 @@ Repérer et justifier les actions qui illustrent le principe de précaution et p
 
 |
 
-3. L'individu dans son parcours professionnel - Durée indicative : 10% de l'horaire du cycle
+3. L'individu dans son parcours professionnel-Durée indicative : 10 % de l'horaire du cycle
 
 CONNAISSANCES
 
@@ -672,7 +672,7 @@ ATTITUDES DÉVELOPPÉES
 
 |
 
-ACTIVITÉS - RESSOURCES
+ACTIVITÉS-RESSOURCES
 
 |
 
@@ -742,11 +742,11 @@ Attitude raisonnée et responsable pour évoluer dans son parcours professionnel
 
 Exploitation de :
 
-- lois, décrets et articles du code du travail
+-lois, décrets et articles du code du travail
 
-- règlements intérieurs, conventions, contrats
+-règlements intérieurs, conventions, contrats
 
-- documents d'information diffusés par le conseil régional, la Direction Départementale du Travail, de l'Emploi et de la Formation Professionnelle [B2i].
+-documents d'information diffusés par le conseil régional, la Direction Départementale du Travail, de l'Emploi et de la Formation Professionnelle [B2i].
 
 Recherche au niveau local des formations proposées par les GRETA, les collectivités territoriales, les chambres consulaires, les branches professionnelles, le Centre National d'Enseignement à Distance... [B2i].
 
@@ -856,7 +856,7 @@ Identification des structures et dispositifs locaux.
 
 |
 
-4. L'individu dans son environnement professionnel - Durée indicative : 50% de l'horaire du cycle
+4. L'individu dans son environnement professionnel-Durée indicative : 50 % de l'horaire du cycle
 
 CONNAISSANCES
 
@@ -870,7 +870,7 @@ ATTITUDES DÉVELOPPÉES
 
 |
 
-ACTIVITÉS - RESSOURCES
+ACTIVITÉS-RESSOURCES
 
 |
 
@@ -892,9 +892,9 @@ Situer le champ d'application des différents documents. Préciser le rôle de c
 
 Conscience de :
 
-- ses droits et ses devoirs
+-ses droits et ses devoirs
 
-- la valeur de la loi et de l'engagement
+-la valeur de la loi et de l'engagement
 
 Sens de la responsabilité par rapport aux autres
 
@@ -926,9 +926,9 @@ Préciser le rôle du contrat de travail. Indiquer les éléments qui le constit
 
 Conscience de :
 
-- ses droits et ses devoirs
+-ses droits et ses devoirs
 
-- la valeur de la loi et de l'engagement
+-la valeur de la loi et de l'engagement
 
 |
 
@@ -1062,13 +1062,13 @@ Inspection du travail
 
 Préciser les rôles :
 
-- de l'inspecteur du travail,
+-de l'inspecteur du travail,
 
-- du contrôleur sécurité de la Cram
+-du contrôleur sécurité de la Cram
 
 |
 
-Analyse de témoignages des personnels d'entreprise, d'enquêtes, d'études, ...
+Analyse de témoignages des personnels d'entreprise, d'enquêtes, d'études,...
 
 Exemples d'aménagements de conditions de travail (postes, horaires...) en fonction de situations particulières (travailleur handicapé, femme enceinte...)
 
@@ -1088,7 +1088,7 @@ Service de santé au travail
 
 |
 
-- du médecin du service de santé au travail.
+-du médecin du service de santé au travail.
 
 |
 
@@ -1124,7 +1124,7 @@ Sens de la responsabilité par rapport aux autres.
 
 |
 
-Exploitation d'extraits du code du travail, des lois et décrets spécifiques au secteur concerné ...
+Exploitation d'extraits du code du travail, des lois et décrets spécifiques au secteur concerné...
 
 |
 
@@ -1242,7 +1242,7 @@ Utilisation d'appareils de mesure.
 
 |
 
-Démarche d'approche par le risque appliquée à l'étude d'un risque spécifique : - lié à l'activité physique - lié au bruit - lié aux poussières - chimique - mécanique - électrique - incendie - charge mentale - ...
+Démarche d'approche par le risque appliquée à l'étude d'un risque spécifique :-lié à l'activité physique-lié au bruit-lié aux poussières-chimique-mécanique-électrique-incendie-charge mentale-...
 
 |
 
@@ -1268,15 +1268,15 @@ Protection et prévention
 
 cf. programme de formation en vigueur :
 
-Passerelle PSC1 - SST ou recyclage SST
+Passerelle PSC1-SST ou recyclage SST
 
-- Assurer la protection du secouriste, des témoins et de la victime.
+-Assurer la protection du secouriste, des témoins et de la victime.
 
-- Examiner la victime.
+-Examiner la victime.
 
-- Alerter ou faire alerter.
+-Alerter ou faire alerter.
 
-- Pratiquer les gestes de premiers secours.
+-Pratiquer les gestes de premiers secours.
 
 |
 
@@ -1326,7 +1326,7 @@ Attitude citoyenne
 
 |
 
-Analyse de documents, statistiques sur la relation production - consommation - environnement.
+Analyse de documents, statistiques sur la relation production-consommation-environnement.
 
 Analyse de faits d'actualité relatifs à l'impact des déchets solides, liquides, gazeux, spéciaux.
 

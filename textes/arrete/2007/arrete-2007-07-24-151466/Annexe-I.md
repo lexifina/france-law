@@ -4,7 +4,7 @@ PRÉAMBULE : LES LANGUES ET CULTURES
 
 DE L'ANTIQUITÉ AU LYCÉE
 
-Au lycée, les principes qui fondent la notion de "culture humaniste" dans le socle commun de connaissances et de compétences ne perdent évidemment rien de leur pertinence : "La culture humaniste permet aux élèves d'acquérir tout à la fois le sens de la continuité et de la rupture, de l'identité et de l'altérité. [...] Elle se fonde sur l'analyse et l'interprétation des textes et œuvres d'époques et de genres différents. Elle repose sur la fréquentation des œuvres littéraires (récits, romans, poèmes, pièces de théâtre) qui contribue à la connaissance des idées et à la découverte de soi." Ces principes, historiquement issus de l'humanisme et des humanités, président de soi à l'enseignement du latin et du grec au lycée : l'examen critique des textes transmis, lus directement dans leur langue originelle, y reste une occasion privilégiée de forger la liberté de jugement et de construire l'autonomie personnelle.
+Au lycée, les principes qui fondent la notion de " culture humaniste " dans le socle commun de connaissances, de compétences et de culture ne perdent évidemment rien de leur pertinence : " La culture humaniste permet aux élèves d'acquérir tout à la fois le sens de la continuité et de la rupture, de l'identité et de l'altérité. [...] Elle se fonde sur l'analyse et l'interprétation des textes et œuvres d'époques et de genres différents. Elle repose sur la fréquentation des œuvres littéraires (récits, romans, poèmes, pièces de théâtre) qui contribue à la connaissance des idées et à la découverte de soi. " Ces principes, historiquement issus de l'humanisme et des humanités, président de soi à l'enseignement du latin et du grec au lycée : l'examen critique des textes transmis, lus directement dans leur langue originelle, y reste une occasion privilégiée de forger la liberté de jugement et de construire l'autonomie personnelle.
 
 Ne relevant plus de la communication orale, les langues latine et grecque ont acquis le statut de langues de culture par excellence : elles ont produit une littérature exceptionnellement riche et étendue. Les textes de ce corpus, dont la transmission s'étend sur plus de deux mille cinq cents ans et qui ont été régulièrement réinterprétés, ont au cours des siècles constamment nourri la pensée, la création artistique, le droit, la science, la vie politique et sociale. A travers les médiations successives des productions humanistes de la Renaissance et de l'âge baroque, des Lumières et du romantisme, ces textes et ces langues continuent aujourd'hui d'irriguer les langues que parle l'Europe, ses littératures et sa philosophie. Avec leurs multiples échos dans les lettres françaises et européennes, les littératures latine et grecque constituent naturellement le premier objet du cours de langues anciennes au lycée.
 
@@ -22,23 +22,23 @@ En s'initiant à lire et à comprendre par lui-même nos textes premiers, le lyc
 
 L'enseignement des langues et cultures de l'Antiquité au lycée répond à deux objectifs :
 
-- contribuer, en liaison avec l'enseignement du français et des sciences humaines, à la formation de l'individu et du citoyen par l'accès, pour le plus grand nombre d'élèves, à l'héritage linguistique et culturel gréco-romain ;
+-contribuer, en liaison avec l'enseignement du français et des sciences humaines, à la formation de l'individu et du citoyen par l'accès, pour le plus grand nombre d'élèves, à l'héritage linguistique et culturel gréco-romain ;
 
-- favoriser la formation de spécialistes des disciplines littéraires et de sciences humaines.
+-favoriser la formation de spécialistes des disciplines littéraires et de sciences humaines.
 
 Avec l'ensemble des disciplines des sciences humaines, les langues et cultures de l'Antiquité permettent de comprendre l'importance du monde gréco-romain dans notre culture politique, historique, morale, littéraire et artistique. Elles permettent par ailleurs de prendre conscience du fonctionnement des systèmes linguistiques et renforcent l'apprentissage raisonné du lexique en langue maternelle. Elles contribuent enfin à l'acquisition de compétences intellectuelles grâce à la diversité des exercices qui structurent leur enseignement.
 
 La lecture et l'interprétation des textes grecs et latins, dans le prolongement du collège, doivent permettre aux lycéens, en développant leurs compétences de lecteur :
 
-- de se situer dans l'histoire et de comprendre les événements et idées d'aujourd'hui ;
+-de se situer dans l'histoire et de comprendre les événements et idées d'aujourd'hui ;
 
-- de mieux comprendre et de mieux maîtriser, en l'enrichissant, leur langue maternelle par l'étymologie et par la traduction comme par la comparaison avec les autres langues, romanes en particulier ;
+-de mieux comprendre et de mieux maîtriser, en l'enrichissant, leur langue maternelle par l'étymologie et par la traduction comme par la comparaison avec les autres langues, romanes en particulier ;
 
-- de mieux maîtriser les formes de discours ;
+-de mieux maîtriser les formes de discours ;
 
-- de former leur capacité à argumenter et à délibérer par l'approche des modes de pensée antiques politiques, religieux et philosophiques ;
+-de former leur capacité à argumenter et à délibérer par l'approche des modes de pensée antiques politiques, religieux et philosophiques ;
 
-- de développer leur capacité d'imaginer par la connaissance des mythes, des représentations de l'Antiquité et les différentes formes de l'art antique.
+-de développer leur capacité d'imaginer par la connaissance des mythes, des représentations de l'Antiquité et les différentes formes de l'art antique.
 
 L'enseignement des langues et cultures de l'Antiquité contribue ainsi pleinement à la formation de la personnalité du lycéen comme individu et comme citoyen conscient, autonome et responsable. Il est donc en relation d'abord avec l'enseignement du français, mais aussi de l'histoire, de l'éducation civique, juridique et sociale, de la philosophie, des arts (architecture, sculpture, peinture, etc.) et des sciences ; il renforce les compétences développées dans l'apprentissage des langues étrangères.
 
@@ -90,11 +90,11 @@ Les ressources de l'audiovisuel et de l'informatique (traitement de texte, docum
 
 Le professeur pourra trouver des références et des pistes pédagogiques sur le site Educnet Langues anciennes, sur le site Musagora et sur le site Hélios :
 
-http://www2.educnet.education.fr/sections/lettres/pratiques5675/ticlal ;
+http :// www2. educnet. education. fr/ sections/ lettres/ pratiques5675/ ticlal ;
 
-http://www.educnet.education.fr/musagora/ ;
+http :// www. educnet. education. fr/ musagora/ ;
 
-http://helios.fltr.ucl.ac.be/
+http :// helios. fltr. ucl. ac. be/
 
 5. Programme du lycée
 
@@ -116,51 +116,51 @@ Seconde
 
 L'homme romain :
 
-- le citoyen, l'esclave, l'affranchi ;
+-le citoyen, l'esclave, l'affranchi ;
 
-- la famille ;
+-la famille ;
 
-- les pratiques religieuses.
+-les pratiques religieuses.
 
 |
 
 L'homme grec :
 
-- le citoyen ;
+-le citoyen ;
 
-- les activités économiques ;
+-les activités économiques ;
 
-- les pratiques religieuses.
-
-|
-
-Le monde romain. - Mare nostrum :
-
-- les grandes étapes de la conquête ;
-
-- les grandes reines de la Méditerranée.
+-les pratiques religieuses.
 
 |
 
-Le monde grec. - Regard et discours ethnographique.
+Le monde romain.-Mare nostrum :
+
+-les grandes étapes de la conquête ;
+
+-les grandes reines de la Méditerranée.
 
 |
 
-Figures héroïques et mythologiques :
-
-- des histoires légendaires : Enée, Romulus, Horatius Coclès... ;
-
-- aux légendes historiques : Hannibal, Alexandre, César.
+Le monde grec.-Regard et discours ethnographique.
 
 |
 
 Figures héroïques et mythologiques :
 
-- la famille des Labdacides ;
+-des histoires légendaires : Enée, Romulus, Horatius Coclès... ;
 
-- Héraclès ;
+-aux légendes historiques : Hannibal, Alexandre, César.
 
-- Achille.
+|
+
+Figures héroïques et mythologiques :
+
+-la famille des Labdacides ;
+
+-Héraclès ;
+
+-Achille.
 
 |
 
@@ -170,31 +170,31 @@ Première
 
 Récits et témoignages :
 
-- formes narratives et romanesques ;
+-formes narratives et romanesques ;
 
-- lettres et épigrammes.
+-lettres et épigrammes.
 
 |
 
 Récits et témoignages :
 
-- Xénophon, Cyropédie ;
+-Xénophon, Cyropédie ;
 
-- Lucien, Histoire vraie ou l'Ane ; Longus, Daphnis et Chloé ;
+-Lucien, Histoire vraie ou l'Ane ; Longus, Daphnis et Chloé ;
 
-- Xénophon d'Ephèse, Les Ephésiaques ;
+-Xénophon d'Ephèse, Les Ephésiaques ;
 
-- Achille Tatius, Les Aventures de Leucippé et Clitophon.
+-Achille Tatius, Les Aventures de Leucippé et Clitophon.
 
 |
 
-La rhétorique. - L'orateur et la puissance de la parole :
+La rhétorique.-L'orateur et la puissance de la parole :
 
-- apprentissage de la rhétorique ;
+-apprentissage de la rhétorique ;
 
-- parole et liberté ;
+-parole et liberté ;
 
-- grands orateurs.
+-grands orateurs.
 
 |
 
@@ -210,23 +210,23 @@ Le théâtre : texte et représentation.
 
 |
 
-La poésie. - Amour et amours :
+La poésie.-Amour et amours :
 
-- désir et séduction ;
+-désir et séduction ;
 
-- passions et tourments ;
+-passions et tourments ;
 
-- amour et harmonie ;
+-amour et harmonie ;
 
-- passions fatales.
+-passions fatales.
 
 |
 
-La poésie. - Epos et eros :
+La poésie.-Epos et eros :
 
-- l'épopée ;
+-l'épopée ;
 
-- la poésie érotique.
+-la poésie érotique.
 
 |
 
@@ -236,55 +236,55 @@ Terminale
 
 Interrogations philosophiques :
 
-- choix de vie, construction de soi ;
+-choix de vie, construction de soi ;
 
-- épicurisme et stoïcisme.
+-épicurisme et stoïcisme.
 
 |
 
 Interrogations philosophiques :
 
-- l'homme et l'au-delà ;
+-l'homme et l'au-delà ;
 
-- figures de philosophes.
-
-|
-
-Interrogations scientifiques :
-
-- sciences de la vie ;
-
-- astronomie.
+-figures de philosophes.
 
 |
 
 Interrogations scientifiques :
 
-- médecine ;
+-sciences de la vie ;
 
-- zoologie ;
+-astronomie.
 
-- astronomie ;
+|
 
-- rêve.
+Interrogations scientifiques :
+
+-médecine ;
+
+-zoologie ;
+
+-astronomie ;
+
+-rêve.
 
 |
 
 Interrogations politiques et juridiques :
 
-- idéaux et réalités politiques ;
+-idéaux et réalités politiques ;
 
-- la notion de décadence : le mythe de l'âge d'or et l'idéalisation du passé ;
+-la notion de décadence : le mythe de l'âge d'or et l'idéalisation du passé ;
 
-- mutations culturelles et religieuses.
+-mutations culturelles et religieuses.
 
 |
 
 Interrogations politiques et juridiques :
 
-- justice et société ;
+-justice et société ;
 
-- réflexions sur la cité.
+-réflexions sur la cité.
 
 |
 
