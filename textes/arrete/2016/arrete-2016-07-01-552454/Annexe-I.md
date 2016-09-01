@@ -8,13 +8,13 @@ FONCTIONS |
 
 Cabinet du ministre |
 
-Chef du bureau du cabinet |
-
 Conseiller pour la communication et la presse |
 
 Conseil général de l'alimentation, de l'agriculture et des espaces ruraux |
 
-Chargé de mission auprès du conseil général de l'alimentation de l'agriculture et des espaces ruraux |
+Chef du bureau des affaires générales
+
+|
 
 Secrétariat général
 
@@ -26,15 +26,11 @@ Secrétaire général du conseil des systèmes d'information |
 
 Chef du département de la communication et des réseaux à la délégation à l'information et à la communication |
 
-Chef du bureau de l'administration des personnels à la mission des affaires générales |
-
 Chef du bureau du droit de l'administration au service des affaires juridiques |
 
 Chef de la mission des procédures et diffusion de l'information juridique au service des affaires juridiques |
 
 Chef du bureau du droit financier des contrats publics et de la concurrence au service des affaires juridiques |
-
-Chef du bureau des organismes de protection sociale agricole au service des affaires financières, sociales et logistiques |
 
 Chef du bureau de la sécurité et de la maintenance des bâtiments au service des affaires financières, sociales et logistiques |
 
@@ -60,19 +56,23 @@ Chef du département examens, concours et formations au service de modernisation
 
 Chef du bureau des politiques statutaires et réglementaires au service des ressources humaines |
 
-Chef du bureau des concours et des examens professionnels au service des ressources humaines |
-
 Chef du bureau de gestion des personnels enseignants et des personnels de la filière formation recherche au service des ressources humaines |
 
 Chef du bureau des pensions au service des ressources humaines |
+
+Adjoint au sous-directeur des systèmes d'information au service de la modernisation
+
+|
+
+Chef de la mission contrôle de gestion au service de la modernisation
+
+|
 
 Direction générale de la performance économique
 
 et environnementale
 
 des entreprises |
-
-Chef du bureau des audits et des contrôles |
 
 Chargé de la mission organisation commune des marchés uniques à la sous-direction des produits et marchés |
 
@@ -82,13 +82,15 @@ Chef du bureau de la qualité |
 
 Direction générale de l'alimentation |
 
-Chef du bureau de la maîtrise d'ouvrage des systèmes d'information de l'alimentation |
-
-Chef du département de la santé des forêts |
-
 Adjoint au chef de la mission des affaires générales |
 
-Adjoint au sous-directeur de la qualité et de la protection des végétaux |
+Adjoint au sous-directeur de la politique de l'alimentation
+
+|
+
+Chef du bureau management par la qualité et coordination des contrôles
+
+|
 
 Direction générale de l'enseignement et de la recherche |
 

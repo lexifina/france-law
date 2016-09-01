@@ -10,12 +10,14 @@ L'Institut des sciences et industries du vivant et de l'environnement, Paris (Ag
 
 Responsable des ressources humaines |
 
-L'Ecole Nationale de Formation Agronomique de Toulouse-Auzeville (ENFA) |
+Ecole nationale supérieure de paysage à Versailles (ENSP)
 
-Chef du service patrimoine |
+|
 
-L'Ecole nationale vétérinaire, agroalimentaire et de l'alimentation, Nantes-Atlantique (ONIRIS) |
+Directeur de l'enseignement et de la vie étudiante |
 
-Secrétaire général adjoint |
+L'Ecole nationale supérieure de formation de l'enseignement agricole de Toulouse-Auzeville (ENSFEA) |
 
-Responsable du service financier |
+Chef du service patrimoine
+
+|

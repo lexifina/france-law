@@ -1,6 +1,6 @@
 # Article Annexe VI
 
-LOCALISATION DES EMPLOIS DE CHEF DE MISSION DE L'AGRICULTURE ET DE L'ENVIRONNEMENT SITUÉS DANS LES SERVICES DU MINISTÈRE DE L'ÉCOLOGIE, DU DÉVELOPPEMENT DURABLE ET DE L'ENVIRONNEMENT
+LOCALISATION DES EMPLOIS DE CHEF DE MISSION DE L'AGRICULTURE ET DE L'ENVIRONNEMENT SITUÉS DANS LES SERVICES DU MINISTÈRE DE L'ENVIRONNEMENT, DE L'ÉNERGIE ET DE LA MER
 
 I. - DIRECTIONS D'ADMINISTRATION CENTRALE |
 
@@ -46,6 +46,10 @@ DREAL Alsace- Champagne-Ardenne- Lorraine |
 
 Adjoint au chef du service risques et sécurité et chef du pôle hydrologie-hydraulique |
 
+Adjoint au chef du service eau, biodiversité, paysages
+
+|
+
 DREAL Aquitaine- Limousin-Poitou-Charentes |
 
 Chef de la division milieux naturels et paysages |
@@ -64,12 +68,6 @@ DREAL Bretagne |
 
 Chef du service patrimoine naturel, adjoint au directeur régional |
 
-Chef de la division eau |
-
-DREAL Languedoc- Roussillon-Midi-Pyrénées |
-
-Chef de la division eaux, milieux aquatiques et ressources minérales au sein du service biodiversité et ressources naturelles |
-
 DREAL Normandie |
 
 Chargé de mission pour les affaires régionales |
@@ -80,6 +78,10 @@ Chef du service de la connaissance, de l'aménagement durable et de l'évaluatio
 
 Adjoint au chef de service biodiversité eau paysage |
 
+Chef de l'unité évaluation environnementale du service connaissance aménagement durable et évaluation
+
+|
+
 III. - DIRECTIONS DE L'ENVIRONNEMENT, DE L'AMÉNAGEMENT ET DU LOGEMENT (DEAL) |
 
 Directions |
@@ -88,9 +90,19 @@ Fonctions |
 
 DEAL de Guadeloupe - Basse Terre |
 
-Chef du service de l'aménagement du territoire et de l'organisation du littoral |
+Chef du service prospective, aménagement et connaissance du territoire
 
-Chef du service de la mission développement durable et évaluation environnementale |
+|
+
+Chef de la mission développement durable et évaluation environnementale
+
+|
+
+DEAL de Guadeloupe - antenne Saint-Martin |
+
+Chef du service territoires, mer et développement durable à Saint-Martin - préfecture
+
+|
 
 DEAL de la Réunion |
 

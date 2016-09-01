@@ -18,10 +18,6 @@ DRAAF Aquitaine- Limousin-Poitou-Charentes |
 
 Chef du pôle inter-régional santé des forêts Aquitaine Midi-Pyrénées |
 
-Chef du service régional de l'alimentation |
-
-Chef du service du développement durable des espaces agricoles et forestiers |
-
 DRAAF Auvergne- Rhône-Alpes |
 
 Secrétaire général |
@@ -37,8 +33,6 @@ DRAAF Languedoc- Roussillon Midi-Pyrénées |
 Chef du service régional forêt-bois |
 
 Inspecteur en hygiène et sécurité publique au travail |
-
-Délégué régional à la formation continue |
 
 Chargé de mission régional assurance qualité au service régional de l'alimentation |
 
@@ -93,6 +87,14 @@ Fonctions |
 DDT |
 
 Chef du service de l'environnement |
+
+03. - Allier |
+
+DDT |
+
+Chef du service mission transversale observatoire des territoires
+
+|
 
 04 - Alpes-de-Haute-Provence |
 
@@ -210,6 +212,12 @@ DDTM |
 
 Chef du service de l'économie agriculture durable |
 
+DDTM |
+
+Chef de la mission management crise et coordination
+
+|
+
 37 - Indre-et-Loire |
 
 DDT |
@@ -240,7 +248,9 @@ Chef du service de l'économie agricole |
 
 DDT |
 
-Chef du service d'ingénierie d'appui territorial |
+Chef du service de l'eau et de l'environnement
+
+|
 
 44 - Loire-Altantique |
 
@@ -283,12 +293,6 @@ Chef du service de l'eau, de l'environnement et de la forêt |
 DDT |
 
 Chef du service économie agricole |
-
-50 - Manche |
-
-DDTM |
-
-Chef du service de l'économie agricole et des territoires |
 
 52 - Haute-Marne |
 
@@ -335,12 +339,6 @@ Chef du service productions et économie agricole |
 DDTM |
 
 Chef du service de l'économie agricole |
-
-68 - Haut-Rhin |
-
-DDT |
-
-Chef du service de l'agriculture et du développement rural |
 
 70 - Haute-Saône |
 
@@ -392,18 +390,6 @@ DDT |
 
 Chef du service économie agricole et forestière |
 
-89 - Yonne |
-
-DDT |
-
-Secrétaire général |
-
-975 - Saint-Pierre-et-Miquelon |
-
-Direction des territoires, de l'alimentation et de la mer |
-
-Chef du service du développement rural |
-
 IV. - DIRECTIONS DÉPARTEMENTALES DE LA PROTECTION DES POPULATIONS (DDPP) ET DIRECTIONS DÉPARTEMENTALES DE LA COHÉSION SOCIALE
 
 ET DE LA PROTECTION DES POPULATIONS (DDCSPP) |
@@ -432,23 +418,11 @@ DDPP |
 
 Secrétaire général |
 
-29 - Finistère |
-
-DDPP |
-
-Secrétaire général |
-
 2B - Haute-Corse |
 
 DDCSPP |
 
 Chef du service de la protection animale et végétale |
-
-35 - Ille-et-Vilaine |
-
-DDCSPP |
-
-Secrétaire général |
 
 34 - Hérault |
 
@@ -485,12 +459,6 @@ DDPP |
 Secrétaire général |
 
 76 - Seine-Maritime |
-
-DDPP |
-
-Secrétaire général |
-
-83 - Var |
 
 DDPP |
 

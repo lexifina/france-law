@@ -56,8 +56,6 @@ Délégations régionales de l'Agence de services et de paiement |
 
 Directeur régional de la délégation régionale Auvergne-Rhône-Alpes |
 
-Auditeur au service d'audit interne à la direction régionale de Bretagne |
-
 Directeur régional de la délégation régionale Nord-Pas-de-Calais-Picardie |
 
 Directeur régional délégué du site de Chalons-en-Champagne |
@@ -71,8 +69,6 @@ Institut Français du Cheval (IFCE) |
 Directeur du pilotage et de l'audit interne au haras de Arnac-Pompadour |
 
 Chargé de mission au pôle hippique du Lion d'Angers |
-
-Délégué national au haras de Tarbes |
 
 Adjoint au directeur de délégation au haras de Rodez Directeur de l'appui à la filière et de la stratégie au haras |
 
