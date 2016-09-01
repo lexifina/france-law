@@ -652,39 +652,29 @@ Durée de la préparation : trois heures ; durée totale de l'épreuve : une heu
 
 Section mathématiques
 
-L'ensemble des épreuves du concours vise à évaluer les capacités des candidats au regard des dimensions disciplinaires, scientifiques et professionnelles de l'acte d'enseigner et des situations d'enseignement dans les domaines mathématiques et informatiques.
+L'ensemble des épreuves du concours vise à évaluer les capacités des candidats au regard des dimensions disciplinaires, scientifiques et professionnelles de l'acte d'enseigner et des situations d'enseignement.
 
-Les candidats ont le choix entre deux options (mathématiques ou informatique), qui conditionnent les épreuves subies. Le choix de l'option est formulé au moment de l'inscription.
+A. - Epreuves écrites d'admissibilité
 
-A. - Epreuves d'admissibilité
+Le programme de ces épreuves est constitué des programmes de mathématiques du collège, du lycée et des classes préparatoires aux grandes écoles (MPSI, MP, ECS 1re et 2e années). Les notions traitées dans ces programmes doivent pouvoir être abordées au niveau M1 du cycle master.
 
 1° Première épreuve d'admissibilité.
 
-a) Option mathématiques.
-
 Le sujet est constitué d'un ou plusieurs problèmes. L'épreuve consiste en leur résolution.
 
-L'épreuve permet d'apprécier la connaissance de notions mathématiques au programme du concours. Elle sollicite également les capacités de raisonnement et d'argumentation du candidat ainsi que sa maîtrise de la langue française.
+Elle permet d'apprécier la connaissance de notions mathématiques au programme du concours. Elle sollicite également les capacités de raisonnement et d'argumentation du candidat ainsi que sa maîtrise de la langue française.
 
-Le programme de cette épreuve est publié sur le site internet du ministère chargé de l'éducation nationale.
-
-b) Option informatique.
-
-Le sujet est constitué d'une ou plusieurs situations d'étude. L'épreuve consiste en leur traitement.
-
-L'épreuve permet d'apprécier la connaissance de notions d'informatique au programme du concours. Elle sollicite également les capacités de raisonnement du candidat, son aptitude à programmer ainsi que sa maîtrise de la langue française.
-
-Le programme de cette épreuve est publié sur le site internet du ministère chargé de l'éducation nationale.
-
-Pour chacune des options : durée de l'épreuve : cinq heures ; coefficient 1.
+Durée : cinq heures ; coefficient 1.
 
 2° Deuxième épreuve d'admissibilité.
 
-Le programme de cette épreuve est constitué des programmes de mathématiques du collège et des différentes séries du lycée général et technologique. Les notions traitées dans ces programmes doivent pouvoir être abordées avec un recul correspondant au niveau M1 du cycle master.
+Le sujet est constitué de plusieurs problèmes. L'épreuve consiste en leur résolution et permet également au candidat de mettre ses savoirs en perspective et de manifester un recul critique vis-à-vis de ces savoirs.
 
-Le sujet est constitué de plusieurs problèmes. L'épreuve consiste en leur résolution.
+L'épreuve permet en outre d'apprécier, outre les qualités scientifiques du candidat, son aptitude à se placer dans une optique professionnelle.
 
-L'épreuve permet au candidat de mettre ses savoirs en perspective et de manifester un recul critique vis-à-vis de ces savoirs. Elle permet en outre d'apprécier, outre les qualités scientifiques du candidat, son aptitude à se placer dans une optique professionnelle. Certaines questions font appel à une analyse réflexive pour mettre en perspective des notions au programme de l'enseignement secondaire et justifier des choix pédagogiques.
+Certaines questions font appel à une analyse réflexive pour mettre en perspective des notions au programme de l'enseignement secondaire et justifier des choix pédagogiques.
+
+L'usage de calculatrices scientifiques est autorisé selon la réglementation en vigueur.
 
 Durée : cinq heures ; coefficient 1.
 
@@ -692,35 +682,35 @@ B. - Epreuves d'admission
 
 Les deux épreuves orales d'admission comportent un entretien avec le jury qui permet d'évaluer la capacité du candidat à s'exprimer avec clarté et précision, à réfléchir aux enjeux scientifiques, didactiques, épistémologiques, culturels et sociaux que revêt l'enseignement du champ disciplinaire du concours, notamment dans son rapport avec les autres champs disciplinaires.
 
-Pendant la préparation de ces épreuves et lors de l'interrogation, le candidat bénéficie du matériel informatique mis à sa disposition. Il a également accès aux ouvrages de la bibliothèque du concours et peut, dans les conditions définies par le jury, utiliser des ouvrages personnels.
-
 1° Epreuve de mise en situation professionnelle.
 
-L'épreuve est subie dans l'option choisie pour la première épreuve d'admissibilité.
+L'épreuve comporte un exposé du candidat suivi d'un entretien avec le jury. Elle prend appui sur les programmes de mathématiques du collège, du lycée et des sections de techniciens supérieurs.
 
-a) Option mathématiques.
+L'épreuve permet d'apprécier la capacité du candidat à maîtriser et organiser des notions sur un thème donné, et à les exposer de façon convaincante. Elle consiste en la présentation d'un plan hiérarchisé qui doit mettre en valeur le recul du candidat par rapport au thème.
 
-L'épreuve comporte un exposé du candidat suivi d'un entretien avec le jury. Elle prend appui sur les programmes de mathématiques du collège et des différentes séries du lycée général et technologique. Les notions traitées dans ces programmes doivent pouvoir être abordées avec un recul correspondant au niveau M1 du cycle master.
+Le candidat choisit un sujet parmi deux qu'il tire au sort.
 
-L'épreuve permet d'apprécier la capacité du candidat à maîtriser et organiser des notions sur un thème donné, et à les exposer de façon convaincante. Elle consiste en la présentation d'un plan hiérarchisé qui doit mettre en valeur le recul du candidat par rapport au thème. Le candidat choisit un sujet parmi deux qu'il tire au sort. Pendant vingt minutes, il expose un plan d'étude détaillée du sujet qu'il a choisi. Cet exposé est suivi du développement par le candidat d'une partie de ce plan d'étude, choisie par le jury, puis d'un entretien portant sur ce développement ou sur tout autre aspect en lien avec le sujet choisi par le candidat.
+Pendant vingt minutes, il expose un plan d'étude détaillée du sujet qu'il a choisi. Cet exposé est suivi du développement par le candidat d'une partie de ce plan d'étude, choisie par le jury, puis d'un entretien portant sur ce développement ou sur tout autre aspect en lien avec le sujet choisi par le candidat.
 
-b) Option informatique.
+Pendant la préparation et lors de l'interrogation, le candidat bénéficie du matériel informatique mis à sa disposition. Il a également accès aux ouvrages de la bibliothèque du concours et peut, dans les conditions définies par le jury, utiliser des ouvrages personnels.
 
-L'épreuve comporte un exposé du candidat suivi d'un entretien avec le jury. Elle prend appui sur les programmes des enseignements de spécialité informatique et sciences du numérique du lycée général et technologique, d'algorithmique appliquée des sections de techniciens supérieurs "services informatiques aux organisations", ainsi que du thème algorithmique et programmation présent dans les programmes de mathématiques du collège. Les notions traitées dans ces programmes doivent pouvoir être abordées avec un recul correspondant au niveau M1 du cycle master.
-
-L'épreuve permet d'apprécier la capacité du candidat à maîtriser et organiser des notions sur un thème donné, et à les exposer de façon convaincante. Elle consiste en la présentation d'un plan hiérarchisé qui doit mettre en valeur le recul du candidat par rapport au thème. Le candidat choisit un sujet parmi deux qu'il tire au sort. Pendant vingt minutes, il expose un plan d'étude détaillée du sujet qu'il a choisi. Cet exposé est suivi du développement par le candidat d'une partie de ce plan d'étude, choisie par le jury, puis d'un entretien portant sur ce développement ou sur tout autre aspect en lien avec le sujet choisi par le candidat.
-
-Pour chacune des options : durée de la préparation : deux heures et demie ; durée de l'épreuve : une heure ; coefficient 2.
+Durée de la préparation : deux heures et demie ; durée de l'épreuve : une heure ; coefficient 2.
 
 2° Epreuve sur dossier.
 
-Le programme de cette épreuve est constitué des programmes de mathématiques du collège et du lycée général et technologique.
+Le programme de cette épreuve est constitué des programmes de mathématiques du collège, du lycée et des sections de techniciens supérieurs.
 
 L'épreuve permet d'apprécier la capacité du candidat à engager une réflexion pédagogique pertinente et à communiquer efficacement. Elle donne également au candidat la possibilité de valoriser sa culture scientifique et sa connaissance des programmes officiels.
 
-L'épreuve prend appui sur un dossier fourni par le jury, comprenant des documents de natures diverses (scientifiques, didactiques, pédagogiques, extraits de manuels, travaux d'élèves) et portant sur un thème des programmes de mathématiques du collège ou du lycée général ou technologique. Ce thème peut être illustré par un exercice qui peut être complété par des productions d'élèves, des extraits des programmes officiels, des documents ressources ou des manuels. Les réponses du candidat aux questions posées dans le dossier permettent d'apprécier ses qualités pédagogiques et sa réflexion didactique. Elles concernent l'énoncé de l'exercice, les compétences que celui-ci mobilise, les démarches possibles, les méthodes de résolution ou les éléments d'évaluation. Le candidat doit également proposer des exercices s'inscrivant dans le thème du dossier et visant les objectifs précisés par le jury.
+L'épreuve prend appui sur un dossier fourni par le jury, comprenant des documents de natures diverses (scientifiques, didactiques, pédagogiques, extraits de manuels, travaux d'élèves) et portant sur un thème des programmes de mathématiques du collège, du lycée ou des sections de techniciens supérieurs. Ce thème peut être illustré par un exercice qui peut être complété par des productions d'élèves, des extraits des programmes officiels, des documents ressources ou des manuels.
 
-Pendant vingt minutes, le candidat expose ses réponses aux questions posées dans le dossier. L'entretien avec le jury prend appui sur la présentation faite par le candidat, en particulier sur les exercices qu'il a proposés, aussi bien en ce qui concerne leur résolution que leur intégration dans une séquence pédagogique. L'entretien permet aussi d'évaluer la capacité du candidat à prendre en compte les acquis et les besoins des élèves, à se représenter la diversité des conditions d'exercice de son métier futur, à en connaître de façon réfléchie le contexte dans ses différentes dimensions (classe, équipe éducative, établissement, institution scolaire, société) et les valeurs qui le portent, dont celles de la République.
+Les réponses du candidat aux questions posées dans le dossier permettent d'apprécier ses qualités pédagogiques et sa réflexion didactique. Elles concernent l'énoncé de l'exercice, les compétences que celui-ci mobilise, les démarches possibles, les méthodes de résolution ou les éléments d'évaluation. Le candidat doit également proposer des exercices s'inscrivant dans le thème du dossier et visant les objectifs précisés par le jury.
+
+Pendant trente minutes, le candidat expose ses réponses aux questions posées dans le dossier.
+
+L'entretien avec le jury prend appui sur la présentation faite par le candidat, en particulier sur les exercices qu'il a proposés, aussi bien en ce qui concerne leur résolution que leur intégration dans une séquence pédagogique. L'entretien permet aussi d'évaluer la capacité du candidat à prendre en compte les acquis et les besoins des élèves, à se représenter la diversité des conditions d'exercice de son métier futur, à en connaître de façon réfléchie le contexte dans ses différentes dimensions (classe, équipe éducative, établissement, institution scolaire, société) et les valeurs qui le portent, dont celles de la République.
+
+Pendant la préparation et lors de l'interrogation, le candidat bénéficie du matériel informatique mis à sa disposition. Il a également accès aux ouvrages de la bibliothèque du concours et peut, dans les conditions définies par le jury, utiliser des ouvrages personnels.
 
 Durée de la préparation : deux heures et demie ; durée de l'épreuve : une heure ; coefficient 2.
 
@@ -878,7 +868,7 @@ Les sujets peuvent porter, au choix du jury, soit sur les sciences de la vie pou
 
 Le sujet de l'une des épreuves au moins comporte des documents scientifiques fournis aux candidats.
 
-Le programme du concours est constitué des programmes de sciences de la vie et de la Terre du collège et du lycée (voie générale), du programme de biologie et de sciences de la Terre de la classe préparatoire scientifique BCPST (biologie, chimie, physique, sciences de la Terre) et des éléments de sciences du vivant des programmes de chimie, biochimie, sciences du vivant de la série STL (sciences et technologie de laboratoire) du lycée. Les notions traitées dans ces programmes doivent pouvoir être abordées au niveau M1 du cycle master.
+Le programme du concours porte sur l'ensemble des programmes des classes de collèges et de lycées que le futur enseignant de sciences de la vie et de la Terre devra maîtriser. Le niveau de maîtrise des contenus de ces programmes est un niveau universitaire permettant d'avoir le recul attendu d'un enseignant disciplinaire, tant sur les connaissances, les compétences que sur les méthodes, les démarches et les langages.
 
 1° Première épreuve d'admissibilité (durée : quatre heures ; coefficient 1).
 
