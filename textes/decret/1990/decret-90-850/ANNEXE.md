@@ -1092,17 +1092,13 @@ Directeur départemental
 
 |
 
-Infirmier
+Infirmier de classe normale
 
 |
 
--
+- |
 
-|
-
-16
-
-|
+16 |
 
 |
 
@@ -1114,9 +1110,7 @@ Groupement
 
 |
 
-Infirmier principal et infirmier-chef
-
-|
+Infirmier de classe supérieure et infirmier hors classe |
 
 -
 
@@ -1146,9 +1140,37 @@ Chefferie
 
 |
 
-Infirmier d'encadrement
+Cadre supérieur de santé de sapeurs-pompiers professionnels
 
 |
+
+-
+
+|
+
+16 |
+
+|
+
+Groupement
+
+|
+
+24
+
+|
+
+|
+
+Chefferie
+
+|
+
+31
+
+|
+
+Cadre de santé de sapeurs-pompiers professionnels de 1re classe |
 
 -
 
@@ -1173,6 +1195,36 @@ Groupement
 Chefferie
 
 |
+
+31
+
+|
+
+Cadre de santé de sapeurs-pompiers professionnels de 2e classe
+
+|
+
+-
+
+|
+
+16
+
+|
+
+|
+
+Groupement
+
+|
+
+24
+
+|
+
+|
+
+Chefferie |
 
 31
 
