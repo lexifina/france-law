@@ -1,0 +1,137 @@
+# Article 1er
+
+L'article 34 de la convention collective nationale du notariat du 8 juin 2001, dans sa rédaction issue de l'accord du 19 février 2015, est abrogé et remplacé par les dispositions suivantes :
+
+« Article 34
+
+Droit syndical et représentation des salariés au sein des commissions et organismes paritaires du notariat
+
+34.1. Principes généraux
+
+Les parties contractantes reconnaissent aux salariés, sans exception, l'entière liberté d'opinion en toute matière.
+
+Aucun employeur n'a à prendre en considération le fait qu'un salarié soit affilié à un syndicat ou exerce une activité syndicale.
+
+Tout salarié qui accepte une mission au sein d'une organisation syndicale ou d'un organisme paritaire et/ ou mixte de la branche, quelles que soient les conditions de son engagement (élections, désignations, mandatements), ne doit faire l'objet d'aucune discrimination de ce fait.
+
+Aucun salarié ne peut être licencié en raison de ses absences liées à la mission qu'il exerce dans les conditions exposées ci-après.
+
+34.2. Champ d'application
+
+Disposent du temps nécessaire à l'accomplissement de leurs fonctions dans les conditions définies ci-après et bénéficient de la protection conventionnelle de l'article 34.7 :
+
+– les salariés exerçant des fonctions au sein des organismes syndicaux représentatifs des salariés au plan national ;
+
+– les salariés élus des instances de la profession siégeant en comité mixte ;
+
+– les salariés désignés en qualité de membre :
+
+– du conseil d'administration du CNEPN, des CFPN et des IMN ;
+
+– du conseil d'administration de l'OPCA choisi par la branche, ainsi que du comité de la section paritaire professionnelle OPM ;
+
+– du conseil d'administration de l'INAFON ;
+
+– les salariés désignés en qualité de membre des commissions paritaires instaurées par la présente convention collective (commissions de l'emploi, d'interprétation, régionale de conciliation, de conciliation obligatoire et d'arbitrage facultatif et conseil de conciliation) ;
+
+– les salariés mandatés par les organisations syndicales pour participer à la commission paritaire de la convention collective nationale.
+
+En outre, disposent du temps nécessaire à l'accomplissement de leurs fonctions dans les conditions déterminées par des textes spécifiques, en vigueur au moment de leur mise en œuvre :
+
+– les salariés membres du conseil d'administration de la CRPCEN (textes réglementaires régissant la caisse) ;
+
+– les salariés membres du conseil d'administration d'une mutuelle (art. L. 2411-19 du code du travail et article L. 114-24 du code de la mutualité) ;
+
+– les salariés membres d'un jury d'examen (art. L. 3142-3 et suivants du code du travail).
+
+34.3. Conditions d'exercice des fonctions au sein d'un organisme syndical
+
+Les salariés exerçant des fonctions au sein d'une fédération ou d'un syndicat de salariés représentatif au plan national accomplissent leur activité syndicale ainsi qu'il suit :
+
+– membre du conseil d'administration d'une fédération et d'un syndicat national ou européen de salariés représentatif :
+
+– 4 jours par an (sauf circonstances exceptionnelles nécessitant des réunions extraordinaires), pour assister aux réunions du conseil d'administration dont il est membre ;
+
+– 4 jours par an pour prendre part au congrès annuel de sa fédération ou de son syndicat.
+
+– membre délégué par un syndicat national, ou par une section départementale ou régionale de syndicat national, pour prendre part au congrès annuel de sa fédération ou de son syndicat :
+
+– 2 jours par an.
+
+– président ou secrétaire général, vice-président ou secrétaire général adjoint, secrétaire et trésorier d'un syndicat, ou d'une section départementale ou régionale, pour l'accomplissement de leurs obligations syndicales :
+
+– 2 jours par mois.
+
+– membre du bureau d'une fédération nationale ou d'un syndicat national :
+
+– 18 jours par an pour l'accomplissement de ses obligations syndicales ;
+
+– 3 jours complémentaires par mois, pour le président ou le secrétaire général, le vice-président ou le secrétaire général adjoint, le secrétaire et le trésorier de ces organismes nationaux pour l'accomplissement de leurs obligations syndicales, sans toutefois qu'il puisse y avoir cumul avec les jours prévus à l'alinéa précédent en cas de cumul des fonctions.
+
+Ces salariés reçoivent durant leurs absences leur salaire et bénéficient de plein droit des garanties de stabilité d'emploi légales et conventionnelles.
+
+En outre, ils ont la possibilité d'assister à toutes les assemblées nationales ou internationales des organisations syndicales, dans les conditions suivantes :
+
+– congé rémunéré, dans la limite de 2 jours consécutifs ;
+
+– durée du transport rémunérée, dans la limite de 2 jours ;
+
+– participation du personnel d'un même office ne pouvant dépasser 25 % de l'effectif, avec minimum d'un salarié.
+
+34.4. Conditions d'exercice des fonctions au sein d'un organisme ou d'une commission paritaire et/ ou mixte du notariat
+
+Les salariés concernés participent aux réunions plénières des organismes dans lesquels ils siègent, ainsi qu'aux réunions des commissions dont ils sont membres et auxquelles ils assistent, tels que mentionnés à l'article 34.2.
+
+Ces salariés reçoivent durant leurs absences leur salaire et bénéficient de plein droit des garanties de stabilité d'emploi légales et conventionnelles.
+
+34.5. Modalités d'information de l'employeur
+
+L'organisme où siège le salarié ou la commission à laquelle il participe, doit informer l'employeur dans le mois de son élection, de sa désignation ou de son mandatement pour qu'aucune entrave ne lui soit faite dans l'accomplissement de sa mission et pour qu'il ne subisse ni remarque désobligeante ni mesure discriminatoire de ce fait.
+
+Les salariés visés par les dispositions ci-dessus sont tenus d'aviser leur employeur chaque fois qu'ils s'absentent, en respectant un délai de prévenance minimum de 1 semaine, sans avoir toutefois à solliciter son autorisation.
+
+34.6. Détachement syndical
+
+Dans le cas où un salarié élu, désigné ou mandaté par un syndicat, dans la limite d'une personne à la fois par office, est appelé à remplir une fonction dans laquelle la profession est intéressée et imposant sa mise en disponibilité pour une durée n'excédant pas 3 ans, sa réintégration dans son ancien emploi, ou dans un emploi similaire, est obligatoire de plein droit à l'expiration de la durée pour laquelle cette mise en disponibilité a été demandée, et ce aux conditions en vigueur à l'époque de la réintégration.
+
+A la demande d'une organisation syndicale de salariés, signataire des présentes, un congé sans limitation de durée, peut être obtenu par toute personne salariée, dans la limite d'une personne par office, titulaire d'un mandat donné par l'organisation syndicale et comportant l'obligation, pour elle, d'assurer une permanence nécessaire à l'accomplissement de ses fonctions dans les conditions ci-après.
+
+Cette personne reste salariée de l'office.
+
+Le statut social de cette personne est le même que celui des autres salariés de la profession et ses droits sont maintenus pendant toute la durée de son congé.
+
+Sa rémunération, qui ne peut être moindre que celle de l'emploi qu'elle occupait lors de sa mise en congé, est décidée par l'organisation syndicale concernée et est assurée par l'office auquel l'organisation syndicale de salariés en remet, avant paiement, le montant ainsi que les charges y afférentes.
+
+Durant son détachement, le salarié ne peut, en aucune manière, s'immiscer dans la marche de l'office ou prétendre à une activité quelconque en son sein.
+
+Pendant l'exercice de son mandat, le salarié détaché ne peut pas être licencié par l'office.
+
+A la fin de l'exercice de son mandat, ou de la tenue de la permanence syndicale, la personne est réintégrée dans son emploi et dans le même établissement, ou à défaut, dans la profession, dans toute la mesure du possible, par les soins conjugués du conseil supérieur du notariat, de l'organisation syndicale et de l'office ; des mesures nécessaires sont prises pour faciliter éventuellement, sa réintégration professionnelle et sa mise à niveau.
+
+34.7. Procédure conventionnelle d'avis préalable au licenciement
+
+L'employeur qui engage une procédure de licenciement à l'encontre d'un salarié visé à l'article 34.2, alinéa 1er, doit saisir le conseil paritaire national de conciliation dans les conditions déterminées ci-après.
+
+Cette procédure ne s'applique pas :
+
+– au salarié membre du conseil d'administration de la CRPCEN ou membre du conseil d'administration d'une mutuelle ou membre d'un jury d'examen, tel que visé à l'article 34.2, alinéa 2 ;
+
+– au salarié qui, au titre d'un autre mandat, bénéficie de la protection prévue par l'article L. 2411-3 du code du travail ;
+
+– au notaire salarié dont le licenciement est régi par l'article 19 du décret du 15 janvier 1993.
+
+L'employeur dont le salarié a justifié auprès de lui d'une des qualités visée par l'article 34.2, alinéa 1er, au plus tard le jour de l'entretien préalable, adresse par lettre recommandée avec avis de réception au conseil paritaire national de conciliation (60 boulevard de La Tour-Maubourg, 75007 Paris), un mémoire motivé justifiant de la cause réelle et sérieuse du licenciement envisagé, auquel il joint le justificatif du mandat du salarié concerné.
+
+A la réception du mémoire de l'employeur, le conseil national paritaire de conciliation informe le salarié, par lettre recommandée avec avis de réception, qu'il dispose d'un délai de 14 jours calendaires pour lui adresser un mémoire dans lequel il fait valoir ses observations concernant la procédure de licenciement dont il fait l'objet.
+
+Le conseil paritaire national de conciliation, siégeant en formation restreinte (président et secrétaire ou, en cas d'indisponibilité, un membre représentant les employeurs et un membre représentant les salariés), rend un avis sur mémoires, actant une position commune ou divergente, dans un délai de 1 mois maximum à compter de la date de réception du mémoire de l'employeur.
+
+Qu'il s'agisse d'un licenciement pour motif personnel (disciplinaire ou non disciplinaire) ou d'un licenciement pour motif économique, le conseil paritaire national de conciliation, siégeant en formation restreinte, doit s'assurer :
+
+– que le licenciement est sans lien avec le mandat du salarié ;
+
+– et que la cause du licenciement alléguée par l'employeur est justifiée au vu des mémoires transmis par l'employeur et le salarié.
+
+L'avis ainsi émis fait l'objet d'un procès-verbal signé en trois exemplaires dont un exemplaire est adressé, par lettre recommandée avec AR, à chacune des parties.
+
+L'avis du conseil paritaire national de conciliation n'exclut pas le recours devant les juridictions compétentes. Si le licenciement est reconnu sans motif réel et sérieux par la juridiction ensuite saisie et que le conseil paritaire national de conciliation a lui-même émis un avis défavorable ou acté une position divergente, l'indemnité prévue à l'article 12.4 de la présente convention collective est augmentée d'une somme égale à 3 mois de salaire. »
