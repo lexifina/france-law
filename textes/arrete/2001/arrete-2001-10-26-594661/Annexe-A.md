@@ -118,7 +118,7 @@ Directeur des affaires juridiques
 
 |
 
-140
+160
 
 |
 
@@ -154,9 +154,7 @@ Délégué à la communication
 
 |
 
-120
-
-|
+140 |
 
 3. Chef du service de l'inspection générale de l'administration de l'éducation nationale
 
@@ -586,7 +584,7 @@ Chef de service, adjoint au directeur des affaires juridiques
 
 |
 
-110
+120
 
 |
 
@@ -724,9 +722,7 @@ Sous-directeur du pilotage du recrutement et de la gestion des enseignants-cherc
 
 |
 
-80
-
-|
+110 |
 
 Sous-directeur des études de gestion prévisionnelle et statutaires
 
@@ -848,7 +844,7 @@ Sous-directeur des affaires juridiques de l'enseignement scolaire
 
 |
 
-80
+110
 
 |
 
@@ -860,9 +856,7 @@ Sous-directeur des affaires juridiques de l'enseignement supérieur et de la rec
 
 |
 
-80
-
-|
+110 |
 
 Direction de l'évaluation, de la prospective et de la performance
 
@@ -1026,7 +1020,7 @@ Sous-directeur de la performance et du dialogue avec les académies
 
 |
 
-90
+110
 
 |
 
@@ -1062,7 +1056,7 @@ Sous-directeur des infrastructures techniques et de l'exploitation
 
 |
 
-Sous-directeur des technologies et des systèmes d'information
+Sous-directeur des systèmes d'information
 
 |
 
@@ -1070,7 +1064,7 @@ Sous-directeur des technologies et des systèmes d'information
 
 |
 
-80
+110
 
 |
 
