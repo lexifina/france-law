@@ -456,11 +456,11 @@ Manche
 
 |
 
-Cherbourg-Octeville
+Cherbourg-en-Cotentin
 
 |
 
-Ressort du tribunal de grande instance de Cherbourg-Octeville.
+Ressort du tribunal de grande instance de Cherbourg-en-Cotentin.
 
 |
 

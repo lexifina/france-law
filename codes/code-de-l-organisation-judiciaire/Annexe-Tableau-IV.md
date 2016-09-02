@@ -4258,14 +4258,6 @@ Créteil
 
 |
 
-Boissy-Saint-Léger
-
-|
-
-A l'exception de l'emprise de l'aérodrome de Paris-Orly, cantons de Boissy-Saint-Léger, Chennevières-sur-Marne, Ormesson-sur-Marne, Sucy-en-Brie, Valenton, Villecresnes, Villeneuve-le-Roi, Villeneuve-Saint-Georges et Villiers-sur-Marne.
-
-|
-
 Charenton-le-Pont
 
 |

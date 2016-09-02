@@ -650,19 +650,19 @@ Manche
 
 |
 
-[Cherbourg-Octeville
+[Cherbourg-en-Cotentin
 
 |
 
-Ressort des tribunaux d'instance de Cherbourg-Octeville et Valognes. (3)]
+Ressort des tribunaux d'instance de Cherbourg-en-Cotentin et Valognes. (3)]
 
 |
 
-[Cherbourg-Octeville
+[Cherbourg-en-Cotentin
 
 |
 
-Ressort du tribunal d'instance de Cherbourg-Octeville. (4)]
+Ressort du tribunal d'instance de Cherbourg-en-Cotentin. (4)]
 
 |
 
@@ -2027,14 +2027,6 @@ Ressort du tribunal d'instance de Saint-Ouen.
 |
 
 Val-de-Marne
-
-|
-
-Boissy-Saint-Léger
-
-|
-
-Ressort du tribunal d'instance de Boissy-Saint-Léger.
 
 |
 

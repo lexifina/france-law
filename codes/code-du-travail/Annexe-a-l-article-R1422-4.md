@@ -1,6 +1,10 @@
 # Article Annexe à l'article R1422-4
 
-SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
+TABLEAU C
+
+EN VIGUEUR AU 31 DECEMBRE 2015
+
+SIEGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 
 DÉPARTEMENT
 
@@ -16,10 +20,6 @@ SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 
 |
 
-|
-
-|
-
 Siège du conseil
 
 de prud'hommes
@@ -32,4025 +32,1731 @@ de prud'hommes
 
 |
 
-Cour d'appel d'Agen
+Cour d'appel d'Agen |
 
-|
-
-|
-
-|
-
-|
-
-Gers.
-
-|
-
-Auch.
-
-|
-
-Auch.
-
-|
-
-Ressort du tribunal de grande instance d'Auch.
-
-|
-
-Lot.
-
-|
-
-Cahors.
-
-|
-
-Cahors.
-
-|
-
-Ressort des tribunaux d'instance de Cahors et Gourdon.
-
-|
-
-|
-
-|
-
-Figeac.
-
-|
-
-Ressort du tribunal d'instance de Figeac.
-
-|
-
-Lot-et-Garonne.
-
-|
-
-Agen.
-
-|
-
-Agen.
-
-|
-
-Ressort du tribunal de grande instance d'Agen.
-
-|
-
-|
-
-Marmande.
-
-|
-
-Marmande.
-
-|
-
-Ressort du tribunal de grande instance de Marmande.
-
-|
-
-Cour d'appel d'Aix-en-Provence
-
-|
-
-|
-
-|
-
-|
-
-Alpes-de-Haute-Provence.
-
-|
-
-Digne-les-Bains.
-
-|
-
-Digne-les-Bains.
-
-|
-
-Ressort des tribunaux d'instance de Digne-les-Bains et Barcelonnette.
-
-|
-
-|
-
-|
-
-Manosque.
-
-|
-
-Ressort du tribunal d'instance de Forcalquier.
-
-|
-
-Alpes-Maritimes.
-
-|
-
-Grasse.
-
-|
-
-Cannes.
-
-|
-
-Ressort du tribunal d'instance de Cannes.
-
-|
-
-|
-
-|
-
-Grasse.
-
-|
-
-Ressort des tribunaux d'instance d'Antibes, Cagnes-sur-mer et Grasse.
-
-|
-
-|
-
-Nice.
-
-|
-
-Menton.
-
-|
-
-Ressort du tribunal d'instance de Menton.
-
-|
-
-|
-
-|
-
-Nice.
-
-|
-
-Ressort du tribunal d'instance de Nice.
-
-|
-
-Bouches-du-Rhône.
-
-|
-
-Aix-en-Provence.
-
-|
-
-Aix-en-Provence.
-
-|
-
-Ressort du tribunal d'instance d'Aix-en-Provence.
-
-|
-
-|
-
-|
-
-Martigues.
-
-|
-
-Ressort du tribunal d'instance de Martigues.
-
-|
-
-|
-
-|
-
-Salon-de-Provence.
-
-|
-
-Ressort du tribunal d'instance de Salon-de-Provence.
-
-|
-
-|
-
-Marseille.
-
-|
-
-Marseille.
-
-|
-
-Ressort du tribunal de grande instance de Marseille.
-
-|
-
-|
-
-Tarascon.
-
-|
-
-Arles.
-
-|
-
-Ressort du tribunal de grande instance de Tarascon.
-
-|
-
-Var.
-
-|
-
-Draguignan.
-
-|
-
-Draguignan.
-
-|
-
-Ressort des tribunaux d'instance de Brignoles et Draguignan.
-
-|
-
-|
-
-|
-
-Fréjus.
-
-|
-
-Ressort du tribunal d'instance de Fréjus.
-
-|
-
-|
-
-Toulon.
-
-|
-
-Toulon.
-
-|
-
-Ressort du tribunal de grande instance de Toulon.
-
-|
-
-Cour d'appel d'Amiens
-
-|
-
-|
-
-|
-
-|
-
-Aisne.
-
-|
-
-Laon.
-
-|
-
-Chauny.
-
-|
-
-Cantons de Chauny, Coucy-le-Château-Auffrique. La Fère et Tergnier.
-
-|
-
-|
-
-|
-
-Hirson.
-
-|
-
-Ressort du tribunal d'instance de Vervins.
-
-|
-
-|
-
-|
-
-Laon.
-
-|
-
-Ressort du tribunal d'instance de Laon, à l'exception de des cantons de Chauny, Coucy-le-Château-Auffrique, La Fère et Tergnier.
-
-|
-
-|
-
-Saint-Quentin.
-
-|
-
-Saint-Quentin.
-
-|
-
-Ressort du tribunal de grande instance de Saint-Quentin.
-
-|
-
-|
-
-Soissons.
-
-|
-
-Château-Thierry.
-
-|
-
-Ressort du tribunal d'instance de Château-Thierry.
-
-|
-
-|
-
-|
-
-Soissons.
-
-|
-
-Ressort du tribunal d'instance de Soissons.
-
-|
-
-Oise.
-
-|
-
-Beauvais.
-
-|
-
-Beauvais.
-
-|
-
-Ressort du tribunal de grande instance de Beauvais.
-
-|
-
-|
-
-Compiègne.
-
-|
-
-Compiègne.
-
-|
-
-Ressort du tribunal de grande instance de Compiègne.
-
-|
-
-|
-
-Senlis.
-
-|
-
-Creil.
-
-|
-
-Ressort du tribunal de grande instance de Senlis.
-
-|
-
-Somme.
-
-|
-
-Abbeville.
-
-|
-
-Abbeville.
-
-|
-
-Ressort du tribunal de grande instance d'Abbeville, à l'exception des cantons d'Ault, Friville-Escarbotin, Gamaches et Saint-Valéry-sur-Somme.
-
-|
-
-|
-
-|
-
-Friville-Escarbotin.
-
-|
-
-Cantons d'Ault, Friville-Escarbotin, Gamaches et Saint-Valéry-sur-Somme.
-
-|
-
-|
-
-Amiens.
-
-|
-
-Amiens.
-
-|
-
-Ressort du tribunal de grande instance d'Amiens.
-
-|
-
-|
-
-Péronne.
-
-|
-
-Péronne.
-
-|
-
-Ressort du tribunal de grande instance de Péronne.
-
-|
-
-Cour d'appel d'Angers
-
-|
-
-|
-
-|
-
-|
-
-Maine-et-Loire.
-
-|
-
-Angers.
-
-|
-
-Angers.
-
-|
-
-Ressort des tribunaux d'instance d'Angers et de Cholet.
-
-|
-
-|
-
-Saumur.
-
-|
-
-Saumur.
-
-|
-
-Ressort du tribunal de grande instance de Saumur.
-
-|
-
-Mayenne.
-
-|
-
-Laval.
-
-|
-
-Laval.
-
-|
-
-Ressort du tribunal de grande instance de Laval.
-
-|
-
-Sarthe.
-
-|
-
-Le Mans.
-
-|
-
-Le Mans.
-
-|
-
-Ressort du tribunal de grande instance du Mans.
-
-|
-
-Cour d'appel de Bastia
-
-|
-
-|
-
-|
-
-|
-
-Corse-du-Sud.
-
-|
-
-Ajaccio.
-
-|
-
-Ajaccio.
-
-|
-
-Ressort du tribunal de grande instance d'Ajaccio.
-
-|
-
-Haute-Corse.
-
-|
-
-Bastia.
-
-|
-
-Bastia.
-
-|
-
-Ressort du tribunal de grande instance de Bastia.
-
-|
-
-Cour d'appel de Besançon
-
-|
-
-|
-
-|
-
-|
-
-Territoire de Belfort.
-
-|
-
-Belfort.
-
-|
-
-Belfort.
-
-|
-
-Ressort du tribunal de grande d'instance de Belfort.
-
-|
-
-Doubs.
-
-|
-
-Besançon.
-
-|
-
-Besançon.
-
-|
-
-Ressort du tribunal de grande instance de Besançon.
-
-|
-
-|
-
-Montbéliard.
-
-|
-
-Montbéliard.
-
-|
-
-Ressort du tribunal de grande instance de Montbéliard.
-
-|
-
-Jura.
-
-|
-
-Dole.
-
-|
-
-Dole.
-
-|
-
-Ressort du tribunal de grande instance de Dole.
-
-|
-
-|
-
-Lons-le-Saunier.
-
-|
-
-Lons-le-Saunier.
-
-|
-
-Ressort du tribunal d'instance de Lons-le-Saunier.
-
-|
-
-Haute-Saône.
-
-|
-
-Lure.
-
-|
-
-Saint-Claude.
-
-|
-
-Ressort du tribunal de grande instance de Lure.
-
-|
-
-|
-
-Vesoul.
-
-|
-
-Vesoul.
-
-|
-
-Ressort du tribunal de grande instance de Vesoul.
-
-|
-
-Cour d'appel de Bordeaux
-
-|
-
-|
-
-|
-
-|
-
-Charente.
-
-|
-
-Angoulême.
-
-|
-
-Angoulême.
-
-|
-
-Ressort des tribunaux d'instance d'Angoulême, Confolens et Ruffec.
-
-|
-
-|
-
-|
-
-Cognac.
-
-|
-
-Ressort des tribunaux d'instance de Cognac et Barbezieux.
-
-|
-
-Dordogne.
-
-|
-
-Bergerac.
-
-|
-
-Bergerac.
-
-|
-
-Ressort du tribunal de grande instance de Bergerac.
-
-|
-
-|
-
-Périgueux.
-
-|
-
-Périgueux.
-
-|
-
-Ressort du tribunal de grande instance de Périgueux.
-
-|
-
-Gironde.
-
-|
-
-Bordeaux.
-
-|
-
-Bordeaux.
-
-|
-
-Ressort du tribunal de grande instance de Bordeaux.
-
-|
-
-|
-
-Libourne.
-
-|
-
-Libourne.
-
-|
-
-Ressort du tribunal de grande instance de Libourne.
-
-|
-
-Cour d'appel de Bourges
-
-|
-
-|
-
-|
-
-|
-
-Cher.
-
-|
-
-Bourges.
-
-|
-
-Bourges.
-
-|
-
-Ressort des tribunaux d'instance de Bourges, Saint-Armand-Montrond et Sancerre, à l'exception des cantons d'Argent-sur-Sauldre, Aubigny-sur-Nère et La Chapelle-d'Angillon.
-
-|
-
-|
-
-|
-
-Vierzon.
-
-|
-
-Ressort du tribunal d'instance de Vierzon et cantons d'Argent-sur-Sauldre, Aubigny-sur-Nère et La Chapelle-d'Angillon.
-
-|
-
-Indre.
-
-|
-
-Châteauroux.
-
-|
-
-Châteauroux.
-
-|
-
-Ressort des tribunaux d'instance de Châteauroux et Le Blanc.
-
-|
-
-|
-
-|
-
-Issoudun.
-
-|
-
-Ressort des tribunaux d'instance d'Issoudun et La Châtre.
-
-|
-
-Nièvre.
-
-|
-
-Nevers.
-
-|
-
-Nevers.
-
-|
-
-Ressort du tribunal de grande instance de Nevers.
-
-|
-
-Cour d'appel de Caen
-
-|
-
-|
-
-|
-
-|
-
-Calvados.
-
-|
-
-Caen.
-
-|
-
-Caen.
-
-|
-
-Ressort des tribunaux d'instance de Bayeux, Caen et Falaise.
-
-|
-
-|
-
-|
-
-Vire.
-
-|
-
-Ressort du tribunal d'instance de Vire.
-
-|
-
-|
-
-Lisieux.
-
-|
-
-Lisieux.
-
-|
-
-Ressort du tribunal d'instance de Lisieux.
-
-|
-
-|
-
-|
-
-Trouville.
-
-|
-
-Ressort du tribunal d'instance de Pont-l'Evêque.
-
-|
-
-Manche.
-
-|
-
-Avranches.
-
-|
-
-Avranches.
-
-|
-
-Ressort du tribunal de grande instance d'Avranches.
-
-|
-
-|
-
-Cherbourg.
-
-|
-
-Cherbourg.
-
-|
-
-Ressort du tribunal de grande instance de Cherbourg.
-
-|
-
-|
-
-Coutances.
-
-|
-
-Coutances.
-
-|
-
-Ressort du tribunal de grande instance de Coutances.
-
-|
-
-Orne.
-
-|
-
-Alençon.
-
-|
-
-Alençon.
-
-|
-
-Ressort du tribunal de grande instance d'Alençon.
-
-|
-
-|
-
-Argentan.
-
-|
-
-Argentan.
-
-|
-
-Ressort du tribunal d'instance d'Argentan.
-
-|
-
-|
-
-|
-
-Flers.
-
-|
-
-Ressort du tribunal d'instance de Domfront.
-
-|
-
-Cour d'appel de Chambéry
-
-|
-
-|
-
-|
-
-|
-
-Savoie.
-
-|
-
-Albertville.
-
-|
-
-Albertville.
-
-|
-
-Ressort du tribunal de grande d'instance d'Albertville.
-
-|
-
-|
-
-Chambéry.
-
-|
-
-Aix-les-Bains.
-
-|
-
-Ressort du tribunal d'instance d'Aix-les-Bains.
-
-|
-
-|
-
-|
-
-Chambéry.
-
-|
-
-Ressort du tribunal d'instance de Chambéry.
-
-|
-
-Haute-Savoie.
-
-|
-
-Annecy.
-
-|
-
-Annecy.
-
-|
-
-Ressort du tribunal de grande instance d'Annecy.
-
-|
-
-|
-
-Bonneville.
-
-|
-
-Bonneville.
-
-|
-
-Ressort du tribunal de grande instance de Bonneville.
-
-|
-
-|
-
-Thonon-les-Bains.
-
-|
-
-Annemasse.
-
-|
-
-Ressort du tribunal d'instance de Saint-Julien-en-Genevois.
-
-|
-
-|
-
-|
-
-Thonon-les-Bains.
-
-|
-
-Ressort du tribunal d'instance de Thonon-les-Bains.
-
-|
-
-Cour d'appel de Colmar
-
-|
-
-|
-
-|
-
-|
-
-Bas-Rhin.
-
-|
-
-Saverne.
-
-|
-
-Molsheim.
-
-|
-
-Ressort du tribunal d'instance de Molsheim.
-
-|
-
-|
-
-|
-
-Saverne.
-
-|
-
-Ressort du tribunal d'instance de Saverne.
-
-|
-
-|
-
-Strasbourg.
-
-|
-
-Hagueneau.
-
-|
-
-Ressort des tribunaux d'instance d'Hagueneau et Wissembourg.
-
-|
-
-|
-
-|
-
-Schiltigheim.
-
-|
-
-Ressort des tribunaux d'instance de Brumath et Schiltigheim.
-
-|
-
-|
-
-|
-
-Strasbourg.
-
-|
-
-Ressort des tribunaux d'instance d'Ill-Kirch-Graffenstaden et Strasbourg.
-
-|
-
-Haut-Rhin.
-
-|
-
-Colmar.
-
-|
-
-Colmar.
-
-|
-
-Ressort des tribunaux d'instance de Colmar et Ribeauvillé.
-
-|
-
-|
-
-|
-
-Guebwiller.
-
-|
-
-Ressort du tribunal d'instance de Guebwiller.
-
-|
-
-|
-
-|
-
-Sélestat (Bas-Rhin).
-
-|
-
-Ressort du tribunal d'instance de Sélestat.
-
-|
-
-|
-
-Mulhouse.
-
-|
-
-Altkirch.
-
-|
-
-Ressort des tribunaux d'instance d'Altkirch et Humingue.
-
-|
-
-|
-
-|
-
-Mulhouse.
-
-|
-
-Ressort des tribunaux d'instance de Mulhouse et Thann.
-
-|
-
-Cour d'appel de Dijon
-
-|
-
-|
-
-|
-
-|
-
-Côte d'Or.
-
-|
-
-Dijon.
-
-|
-
-Beaune.
-
-|
-
-Ressort du tribunal d'instance de Beaune.
-
-|
-
-|
-
-|
-
-Dijon.
-
-|
-
-Ressort des tribunaux d'instance de Châtillon-sur-Seine, Dijon et Semur-en-Auxois.
-
-|
-
-Haute-Marne.
-
-|
-
-Chaumont.
-
-|
-
-Chaumont.
-
-|
-
-Ressort des tribunaux d'instance de Chaumont et Langres.
-
-|
-
-|
-
-|
-
-Saint-Dizier.
-
-|
-
-Ressort du tribunal d'instance de Saint-Dizier.
-
-|
-
-Saône-et-Loire.
-
-|
-
-Chalon-sur-Saône.
-
-|
-
-Autun.
-
-|
-
-Ressort du tribunal d'instance d'Autun.
-
-|
-
-|
-
-|
-
-Chalon-sur-Saône.
-
-|
-
-Ressort des tribunaux d'instance de Châlons-sur-Saône et Louhans.
-
-|
-
-|
-
-|
-
-Le Creusot.
-
-|
-
-Ressort du tribunal d'instance du Creusot.
-
-|
-
-|
-
-|
-
-Montceau-les-Mines.
-
-|
-
-Ressort du tribunal d'instance de Montceau-les-Mines.
-
-|
-
-|
-
-Mâcon.
-
-|
-
-Mâcon.
-
-|
-
-Ressort du tribunal de grande instance de Mâcon.
-
-|
-
-Cour d'appel de Douai
-
-|
-
-|
-
-|
-
-|
-
-Nord.
-
-|
-
-Avesnes-sur-Helpe.
-
-|
-
-Fourmies.
-
-|
-
-Ressort du tribunal d'instance d'Avesnes-sur-Helpe.
-
-|
-
-|
-
-|
-
-Maubeuge.
-
-|
-
-Ressort du tribunal d'instance de Maubeuge.
-
-|
-
-|
-
-Cambrai.
-
-|
-
-Cambrai.
-
-|
-
-Ressort du tribunal de grande instance de Cambrai.
-
-|
-
-|
-
-Douai.
-
-|
-
-Douai.
-
-|
-
-Ressort du tribunal de grande instance de Douai.
-
-|
-
-|
-
-Dunkerque.
-
-|
-
-Dunkerque.
-
-|
-
-Ressort du tribunal de grande instance de Dunkerque.
-
-|
-
-|
-
-Hazebrouck.
-
-|
-
-Hazebrouck.
-
-|
-
-Ressort du tribunal de grande instance d'Hazebrouck.
-
-|
-
-|
-
-Lille.
-
-|
-
-Armentières.
-
-|
-
-Canton d'Armentières.
-
-|
-
-|
-
-|
-
-Halluin.
-
-|
-
-Communes de Bousbecques, Comines, Halluin, Roncq et Wervicq-Sud.
-
-|
-
-|
-
-|
-
-Haubourdin.
-
-|
-
-Cantons d'Haubourdin et Lomme.
-
-|
-
-|
-
-|
-
-Lannoy.
-
-|
-
-Cantons de Lannoy, Villeneuve-d'Ascq-Nord et Villeneuve-d'Ascq-Sud.
-
-|
-
-|
-
-|
-
-Lille.
-
-|
-
-Ressort du tribunal d'instance de Lille, à l'exception des cantons d'Armentières, Haubourdin, Lomme, Lannoy, Villeneuve-d'Ascq-Nord et Villeneuve-d'Ascq-Sud et des communes de Comines et Wervicq-Sud.
-
-|
-
-|
-
-|
-
-Roubaix.
-
-|
-
-Ressort du tribunal d'instance de Roubaix.
-
-|
-
-|
-
-|
-
-Tourcoing.
-
-|
-
-Ressort du tribunal d'instance de Tourcoing, à l'exception des communes de Bousbecques, Halluin et Roncq.
-
-|
-
-|
-
-Valenciennes.
-
-|
-
-Valenciennes.
-
-|
-
-Ressort du tribunal de grande instance de Valenciennes.
-
-|
-
-Pas-de-Calais.
-
-|
-
-Arras.
-
-|
-
-Arras.
-
-|
-
-Ressort du tribunal de grande instance d'Arras.
-
-|
-
-|
-
-Béthune.
-
-|
-
-Béthune.
-
-|
-
-Ressort des tribunaux d'instance de Béthune et Houdain.
-
-|
-
-|
-
-|
-
-Lens.
-
-|
-
-Ressort des tribunaux d'instance de Carvin, Lens et Liévin.
-
-|
-
-|
-
-Boulogne-sur-Mer.
-
-|
-
-Montreuil.
-
-|
-
-Ressort du tribunal d'instance de Montreuil
-
-|
-
-|
-
-|
-
-Boulogne-sur-Mer.
-
-|
-
-Ressort du tribunal d'instance de Boulogne-sur-Mer.
-
-|
-
-|
-
-|
-
-Calais.
-
-|
-
-Ressort du tribunal d'instance de Calais.
-
-|
-
-|
-
-Saint-Omer.
-
-|
-
-Saint-Omer.
-
-|
-
-Ressort du tribunal d'instance de Saint-Omer.
-
-|
-
-Cour d'appel de Grenoble
-
-|
-
-|
-
-|
-
-|
-
-Hautes-Alpes.
-
-|
-
-Gap.
-
-|
-
-Briançon.
-
-|
-
-Ressort du tribunal d'instance de Briançon.
-
-|
-
-|
-
-|
-
-Gap.
-
-|
-
-Ressort du tribunal d'instance de Gap.
-
-|
-
-Drôme.
-
-|
-
-Valence.
-
-|
-
-Montélimar.
-
-|
-
-Ressort des tribunaux d'instance de Montélimar et Nyons.
-
-|
-
-|
-
-|
-
-Romans.
-
-|
-
-Ressort du tribunal de grande instance de Romans.
-
-|
-
-|
-
-|
-
-Valence.
-
-|
-
-Ressort des tribunaux d'instance de Die et Valence.
-
-|
-
-Isère.
-
-|
-
-Bourgoin-Jallieu.
-
-|
-
-Bourgoin-Jallieu.
-
-|
-
-Cantons de Bourgoin-Jallieu-Nord, Bourgoin-Jallieu-Sud, Crémieu et Le Grand-Lemps.
-
-|
-
-|
-
-|
-
-La Tour-du-Pin.
-
-|
-
-Cantons de Morestel, Pont-de-Beauvoisin, Saint-Geoire-en-Valdaine, La Tour-du-Pin et Virieu.
-
-|
-
-|
-
-Grenoble.
-
-|
-
-Grenoble.
-
-|
-
-Ressort des tribunaux d'instance de La Mure et Grenoble, à l'exception des cantons de Saint-Laurent-du-Pont et Voiron.
-
-|
-
-|
-
-|
-
-Voiron.
-
-|
-
-Ressort du tribunal d'instance de Saint-Marcellin et cantons de Saint-Laurent-du-Pont et Voiron.
-
-|
-
-|
-
-Vienne.
-
-|
-
-Vienne.
-
-|
-
-Ressort du tribunal de grande instance de Vienne.
-
-|
-
-Cour d'appel de Limoges
-
-|
-
-|
-
-|
-
-|
-
-Corrèze.
-
-|
-
-Brive.
-
-|
-
-Brive.
-
-|
-
-Ressort du tribunal d'instance de Brive (1).
-
-|
-
-|
-
-Tulle.
-
-|
-
-Tulle.
-
-|
-
-Ressort du tribunal de grande instance de Tulle.
-
-|
-
-Creuse.
-
-|
-
-Guéret.
-
-|
-
-Guéret.
-
-|
-
-Ressort du tribunal de grande instance de Guéret.
-
-|
-
-Haute-Vienne.
-
-|
-
-Limoges.
-
-|
-
-Limoges.
-
-|
-
-Ressort du tribunal de grande instance de Limoges.
-
-|
-
-Cour d'appel de Lyon
-
-|
-
-|
-
-|
-
-|
-
-Ain.
-
-|
-
-Belley.
-
-|
-
-Belley.
-
-|
-
-Ressort du tribunal de grande instance de Belley.
-
-|
-
-|
-
-Bourg-en-Bresse.
-
-|
-
-Bourg-en-Bresse.
-
-|
-
-Ressort des tribunaux d'instance de Bourg-en-Bresse et Trévoux.
-
-|
-
-|
-
-|
-
-Oyonnax.
-
-|
-
-Ressort du tribunal de grande instance de Nantua.
-
-|
-
-Loire.
-
-|
-
-Montbrison.
-
-|
-
-Montbrison.
-
-|
-
-Ressort du tribunal de grande instance de Montbrison.
-
-|
-
-|
-
-Roanne.
-
-|
-
-Roanne.
-
-|
-
-Ressort du tribunal de grande instance de Roanne.
-
-|
-
-|
-
-Saint-Etienne.
-
-|
-
-Firminy.
-
-|
-
-Ressort du tribunal d'instance du Chambon-Feugerolles.
-
-|
-
-|
-
-|
-
-Saint-Chamond.
-
-|
-
-Cantons de Pélussin, Rive-de-Gier, Saint-Chamond-Nord et Saint-Chamond-Sud.
-
-|
-
-|
-
-|
-
-Saint-Etienne.
-
-|
-
-Ressort du tribunal d'instance de Saint-Etienne, à l'exception des cantons de Pélussin, Rive-de-Gier, Saint-Chamond-Nord et Saint-Chamond-Sud.
-
-|
-
-Rhône.
-
-|
-
-Lyon.
-
-|
-
-Givors.
-
-|
-
-Cantons de Condrieu, Givors, Mornant et Saint-Symphorien-sur-Coise.
-
-|
-
-|
-
-|
-
-Lyon.
-
-|
-
-Ressort du tribunal de grande instance de Lyon à l'exception des cantons de Condrieu, Givors, Mornant et Saint-Symphorien-sur-Coise.
-
-|
-
-|
-
-Villefranche-sur-Saône.
-
-|
-
-Villefranche-sur-Saône.
-
-|
-
-Ressort du tribunal de grande instance de Villefranche-sur-Saône.
-
-|
-
-Cour d'appel de Metz
-
-|
-
-|
-
-|
-
-|
-
-Moselle.
-
-|
-
-Metz.
-
-|
-
-Metz.
-
-|
-
-Ressort des tribunaux d'instance de Boulay-Moselle et Metz.
-
-|
-
-|
-
-|
-
-Sarrebourg.
-
-|
-
-Ressort des tribunaux d'instance de Château-Salins et Sarrebourg.
-
-|
-
-|
-
-Sarreguemines.
-
-|
-
-Forbach.
-
-|
-
-Ressort des tribunaux d'instance de Forbach et Saint-Avold.
-
-|
-
-|
-
-|
-
-Sarreguemines.
-
-|
-
-Ressort du tribunal d'instance de Sarreguemines.
-
-|
-
-|
-
-|
-
-Thionville.
-
-|
-
-Ressort du tribunal de grande instance de Thionville.
-
-|
-
-Cour d'appel de Montpellier
-
-|
-
-|
-
-|
-
-|
-
-Aude.
-
-|
-
-Carcassonne.
-
-|
-
-Carcassonne.
-
-|
-
-Ressort du tribunal de grande instance de Carcassonne.
-
-|
-
-|
-
-Narbonne.
-
-|
-
-Narbonne.
-
-|
-
-Ressort du tribunal de grande instance de Narbonne.
-
-|
-
-Aveyron.
-
-|
-
-Millau.
-
-|
-
-Millau.
-
-|
-
-Ressort du tribunal de grande instance de Millau.
-
-|
-
-|
-
-Rodez.
-
-|
-
-Decazeville.
-
-|
-
-Ressort du tribunal d'instance de Villefranche-de-Rouergue.
-
-|
-
-|
+Gers |
 
-|
-
-Rodez.
-
-|
-
-Ressort des tribunaux d'instance d'Espalion et Rodez.
-
-|
-
-Hérault.
-
-|
-
-Béziers.
-
-|
-
-Bédarieux.
-
-|
-
-Cantons de Bédarieux et Saint-Gervais-sur-Mare.
-
-|
-
-|
-
-|
-
-Béziers.
-
-|
-
-Ressort du tribunal de grande instance de Béziers, à l'exception des cantons de Bédarieux et Saint-Gervais-sur-Mare.
-
-|
-
-|
-
-Montpellier.
+Auch |
 
-|
-
-Clermont-l'Hérault.
+Auch |
 
-|
+Ressort du tribunal de grande instance d'Auch. |
 
-Ressort du tribunal d'instance de Lodève.
+Lot |
 
-|
+Cahors |
 
-|
+Cahors |
 
-|
+Ressort du tribunal de grande instance de Cahors |
 
-Montpellier.
+Lot-et-Garonne |
 
-|
+Agen |
 
-Ressort du tribunal d'instance de Montpellier.
+Agen |
 
-|
+Ressort des tribunaux d'instance d'Agen et Villeneuve-sur-Lot. |
 
 |
 
 |
 
-Sète.
+Marmande |
 
-|
+Ressort du tribunal d'instance de Marmande. |
 
-Ressort du tribunal d'instance de Sète.
+Cour d'appel d'Aix-en-Provence |
 
-|
+Alpes-de-Haute-Provence |
 
-Pyrénées-Orientales.
+Digne-les-Bains |
 
-|
+Digne-les-Bains |
 
-Perpignan.
+Ressort du tribunal de grande instance de Digne-les-Bains |
 
-|
+Alpes-Maritimes |
 
-Perpignan.
+Grasse |
 
-|
+Cannes |
 
-Ressort du tribunal de grande instance de Perpignan.
+Ressort du tribunal d'instance de Cannes. |
 
 |
-
-Cour d'appel de Nancy
 
 |
 
-|
+Grasse |
 
-|
+Ressort des tribunaux d'instance d'Antibes, Cagnes-sur-Mer et Grasse. |
 
 |
 
-Meurthe-et-Moselle.
+Nice |
 
-|
+Nice |
 
-Briey.
+Ressort du tribunal de grande instance de Nice. |
 
-|
+Bouches-du-Rhône |
 
-Briey.
+Aix-en-Provence |
 
-|
+Aix-en-Provence |
 
-Ressort du tribunal d'instance de Briey.
+Ressort des tribunaux d'instance d'Aix-en-Provence et Salon-de-Provence. |
 
 |
 
 |
-
-Nancy.
 
-|
+Martigues |
 
-Longwy.
+Ressort du tribunal d'instance de Martigues. |
 
 |
 
-Ressort du tribunal d'instance de Longwy.
+Marseille |
 
-|
+Marseille |
 
-|
+Ressort du tribunal de grande instance de Marseille. |
 
 |
 
-Lunéville.
+Tarascon |
 
-|
+Arles |
 
-Ressort du tribunal de grande instance de Lunéville.
+Ressort du tribunal de grande instance de Tarascon. |
 
-|
+Var |
 
-|
+Draguignan |
 
-|
+Draguignan |
 
-Nancy.
+Ressort des tribunaux d'instance de Brignoles et Draguignan. |
 
 |
-
-Ressort des tribunaux d'instance de Nancy et Toul.
 
 |
 
-Meuse.
+Fréjus |
 
-|
-
-Bar-le-Duc.
+Ressort du tribunal d'instance de Fréjus. |
 
 |
 
-Bar-le-Duc.
+Toulon |
 
-|
+Toulon |
 
-Ressort du tribunal de grande instance de Bar-le-Duc.
+Ressort du tribunal de grande instance de Toulon. |
 
-|
+Cour d'appel d'Amiens |
 
-|
+Aisne |
 
-Verdun.
+Laon |
 
-|
+Laon |
 
-Verdun.
+Ressort du tribunal de grande instance de Laon. |
 
 |
 
-Ressort du tribunal de grande instance de Verdun.
+Saint-Quentin |
 
-|
+Saint-Quentin |
 
-Vosges.
+Ressort du tribunal de grande instance de Saint-Quentin. |
 
 |
 
-Épinal.
+Soissons |
 
-|
+Soissons |
 
-Épinal.
+Ressort du tribunal de grande instance de Soissons. |
 
-|
+Oise |
 
-Ressort des tribunaux d'instance d'Épinal, Mirecourt et Neufchâteau.
+Beauvais |
 
-|
+Beauvais |
 
-|
+Ressort du tribunal de grande instance de Beauvais. |
 
 |
-
-Remiremont.
 
-|
+Compiègne |
 
-Ressort du tribunal d'instance de Remiremont.
+Compiègne |
 
-|
+Ressort du tribunal de grande instance de Compiègne. |
 
 |
 
-|
+Senlis |
 
-Saint-Dié-des-Vosges.
+Creil |
 
-|
+Ressort du tribunal de grande instance de Senlis. |
 
-Ressort du tribunal de grande instance de Saint-Dié-des-Vosges.
+Somme |
 
-|
+Amiens |
 
-Cour d'appel de Nîmes
+Abbeville |
 
-|
+Ressort du tribunal d'instance d'Abbeville. |
 
 |
 
 |
 
-|
+Amiens |
 
-Ardèche.
+Ressort du tribunal d'instance d'Amiens. |
 
 |
-
-Privas.
 
 |
 
-Annonay.
+Péronne |
 
-|
+Ressort du tribunal d'instance de Péronne. |
 
-Ressort du tribunal d'instance de Tournon-sur-Rhône.
+Cour d'appel d'Angers |
 
-|
+Maine-et-Loire |
 
-|
+Angers |
 
-|
+Angers |
 
-Aubenas.
+Ressort des tribunaux d'instance d'Angers et Cholet. |
 
 |
 
-Ressort des tribunaux d'instance de Largentière et Privas.
-
 |
 
-Gard.
+Saumur |
 
-|
+Ressort du tribunal d'instance de Saumur. |
 
-Alès.
+Mayenne |
 
-|
+Laval |
 
-Alès.
+Laval |
 
-|
+Ressort du tribunal de grande instance de Laval. |
 
-Ressort du tribunal de grande instance d'Alès.
+Sarthe |
 
-|
+Le Mans |
 
-|
+Le Mans |
 
-Nîmes.
+Ressort du tribunal de grande instance du Mans. |
 
-|
+Cour d'appel de Bastia |
 
-Nîmes.
+Corse-du-Sud |
 
-|
+Ajaccio |
 
-Ressort du tribunal de grande instance de Nîmes.
+Ajaccio |
 
-|
+Ressort du tribunal de grande instance d'Ajaccio. |
 
-Lozère.
+Haute-Corse |
 
-|
+Bastia |
 
-Mende.
+Bastia |
 
-|
+Ressort du tribunal de grande instance de Bastia. |
 
-Mende.
+Cour d'appel de Besançon |
 
-|
+Territoire de Belfort |
 
-Ressort du tribunal de grande instance de Mende.
+Belfort |
 
-|
+Belfort |
 
-Vaucluse.
+Ressort du tribunal de grande d'instance de Belfort. |
 
-|
+Doubs |
 
-Avignon.
+Besançon |
 
-|
+Besançon |
 
-Avignon.
+Ressort du tribunal de grande instance de Besançon. |
 
 |
-
-Ressort du tribunal de grande instance d'Avignon.
 
-|
+Montbéliard |
 
-|
+Montbéliard |
 
-Carpentras.
+Ressort du tribunal de grande instance de Montbéliard. |
 
-|
+Jura |
 
-Carpentras.
+Lons-le-Saunier |
 
-|
+Dole |
 
-Ressort du tribunal d'instance de Carpentras.
+Ressort du tribunal d'instance de Dole. |
 
 |
 
 |
 
-|
+Lons-le-Saunier |
 
-Orange.
+Ressort des tribunaux d'instance de Lons-le-Saunier et Saint-Claude. |
 
-|
+Haute-Saône |
 
-Ressort du tribunal d'instance d'Orange.
+Vesoul |
 
-|
+Lure |
 
-Cour d'appel d'Orléans
+Ressort du tribunal d'instance de Lure. |
 
 |
 
 |
 
-|
+Vesoul |
 
-|
+Ressort du tribunal d'instance de Vesoul. |
 
-Indre-et-Loire.
+Cour d'appel de Bordeaux |
 
-|
+Charente |
 
-Tours.
+Angoulême |
 
-|
+Angoulême |
 
-Tours.
+Ressort du tribunal de grande instance d'Angoulême. |
 
-|
+Dordogne |
 
-Ressort du tribunal de grande instance de Tours.
+Bergerac |
 
-|
+Bergerac |
 
-Loir-et-Cher.
+Ressort du tribunal de grande instance de Bergerac. |
 
 |
 
-Blois.
+Périgueux |
 
-|
+Périgueux |
 
-Blois.
+Ressort du tribunal de grande instance de Périgueux. |
 
-|
+Gironde |
 
-Ressort des tribunaux d'instance de Blois et Vendôme.
+Bordeaux |
 
-|
+Bordeaux |
 
-|
+Ressort du tribunal de grande instance de Bordeaux. |
 
 |
 
-Romorantin-Lanthenay.
+Libourne |
 
-|
+Libourne |
 
-Ressort du tribunal de grande instance de Romorantin-Lanthenay.
+Ressort du tribunal de grande instance de Libourne. |
 
-|
+Cour d'appel de Bourges |
 
-Loiret.
+Cher |
 
-|
+Bourges |
 
-Montargis.
+Bourges |
 
-|
+Ressort du tribunal de grande instance de Bourges. |
 
-Montargis.
+Indre |
 
-|
+Châteauroux |
 
-Ressort du tribunal de grande instance de Montargis.
+Châteauroux |
 
-|
+Ressort du tribunal de grande instance de Châteauroux. |
 
-|
+Nièvre |
 
-Orléans.
+Nevers |
 
-|
+Nevers |
 
-Orléans.
+Ressort du tribunal de grande instance de Nevers. |
 
-|
+Cour d'appel de Caen |
 
-Ressort du tribunal de grande instance d'Orléans.
+Calvados |
 
-|
+Caen |
 
-Cour d'appel de Paris
+Caen |
 
-|
+Ressort du tribunal de grande instance de Caen. |
 
 |
 
-|
+Lisieux |
 
-|
+Lisieux |
 
-Essonne.
+Ressort du tribunal de grande instance de Lisieux. |
 
-|
+Manche |
 
-Évry.
+Cherbourg-en-Cotentin |
 
-|
+Cherbourg-en-Cotentin |
 
-Étampes.
+Ressort du tribunal de grande instance de Cherbourg-en-Cotentin. |
 
 |
 
-Ressort du tribunal d'instance d'Étampes.
+Coutances |
 
-|
+Coutances |
 
-|
+Ressort du tribunal d'instance de Coutances. |
 
 |
 
-Évry.
-
 |
 
-Ressort des tribunaux d'instance d'Évry et Juvisy-sur-Orge.
+Avranches |
 
-|
+Ressort du tribunal d'instance d'Avranches. |
 
 |
 
 |
 
-Longjumeau.
-
 |
-
-Ressort des tribunaux d'instance de Longjumeau et Palaiseau.
 
 |
 
-Seine-et-Marne.
-
-|
+Orne |
 
-Fontainebleau.
+Alençon |
 
-|
+Alençon |
 
-Fontainebleau.
+Ressort du tribunal de grande instance d'Alençon. |
 
 |
-
-Ressort du tribunal de grande instance de Fontainebleau.
 
-|
+Argentan |
 
-|
+Argentan |
 
-Meaux.
+Ressort du tribunal de grande instance d'Argentan. |
 
-|
+Cour d'appel de Chambéry |
 
-Meaux.
+Savoie |
 
-|
+Albertville |
 
-Ressort du tribunal de grande instance de Meaux.
+Albertville |
 
-|
+Ressort du tribunal de grande d'instance d'Albertville. |
 
 |
 
-Melun.
+Chambéry |
 
-|
+Aix-les-Bains |
 
-Melun.
+Cantons d'Aix-les-Bains-Centre, Aix-les-Bains-Nord-Grésy, Aix-les-Bains-Sud, Albens, Le Châtelard, Ruffieux et Yenne. |
 
 |
 
-Ressort du tribunal de grande instance de Melun.
-
 |
-
-Seine-Saint-Denis.
 
-|
+Chambéry |
 
-Bobigny.
+Ressort du tribunal d'instance de Chambéry, à l'exception des cantons d'Aix-les-Bains-Centre, Aix-les-Bains-Nord-Grésy, Aix-les-Bains-Sud, Albens, Le Châtelard, Ruffieux et Yenne. |
 
-|
+Haute-Savoie |
 
-Bobigny.
+Annecy |
 
-|
+Annecy |
 
-Ressort du tribunal de grande instance de Bobigny.
+Ressort du tribunal de grande instance d'Annecy. |
 
 |
 
-Val-de-Marne.
+Bonneville |
 
-|
+Bonneville |
 
-Créteil.
+Ressort du tribunal de grande instance de Bonneville. |
 
 |
 
-Créteil.
-
-|
+Thonon-les-Bains |
 
-Ressort des tribunaux d'instance de Charenton-le-Pont, Ivry-sur-Seine, Nogent-sur-Marne, Saint-Maur-des-Fossés, Villejuif et Vincennes, à l'exception des communes de Choisy-le-Roi et Orly, et de l'emprise de l'aérodrome de Paris-Orly.
+Annemasse |
 
-|
+Ressort du tribunal de grande instance de Thonon-les-Bains. |
 
-|
+Cour d'appel de Colmar |
 
-|
+Bas-Rhin |
 
-Villeneuve-Saint-Georges.
+Saverne |
 
-|
+Saverne |
 
-Ressort du tribunal d'instance de Boissy-Saint-Léger, communes de Choisy-le-Roi et Orly, et l'emprise de l'aérodrome de Paris-Orly.
+Ressort du tribunal de grande instance de Saverne. |
 
 |
 
-Yonne.
+Strasbourg |
 
-|
+Haguenau |
 
-Auxerre.
+Ressort du tribunal d'instance d'Haguenau, à l'exception des cantons de Brumath, Hochfelden et Truchtersheim. |
 
 |
-
-Auxerre.
 
 |
 
-Ressort du tribunal de grande instance d'Auxerre.
+Schiltigheim |
 
-|
+Ressort du tribunal d'instance de Schiltigheim et cantons de Brumath, Hochfelden et Truchtersheim. |
 
 |
-
-Sens.
 
 |
 
-Sens.
+Strasbourg |
 
-|
-
-Ressort du tribunal de grande instance de Sens.
+Ressort des tribunaux d'instance d'Illkirch-Graffenstaden et Strasbourg. |
 
-|
+Haut-Rhin |
 
-Paris.
+Colmar |
 
-|
+Colmar |
 
-Paris.
+Ressort du tribunal de grande instance de Colmar. |
 
 |
 
-Paris.
+Mulhouse |
 
-|
-
-Ressort du tribunal de grande instance de Paris.
+Mulhouse |
 
-|
+Ressort du tribunal de grande instance de Mulhouse. |
 
-Cour d'appel de Pau
+Cour d'appel de Dijon |
 
-|
+Côte-d'Or |
 
-|
+Dijon |
 
-|
+Dijon |
 
-|
+Ressort du tribunal de grande instance de Dijon. |
 
-Landes.
+Haute-Marne |
 
-|
+Chaumont |
 
-Dax.
+Chaumont |
 
-|
+Ressort du tribunal de grande instance de Chaumont. |
 
-Dax.
+Saône-et-Loire |
 
-|
+Chalon-sur-Saône |
 
-Ressort du tribunal de grande instance de Dax.
+Chalon-sur-Saône |
 
-|
+Ressort du tribunal de grande instance de Chalon-sur-Saône. |
 
 |
-
-Mont-de-Marsan.
 
-|
+Mâcon |
 
-Mont-de-Marsan.
+Mâcon |
 
-|
+Ressort du tribunal de grande instance de Mâcon. |
 
-Ressort du tribunal de grande instance de Mont-de-Marsan.
+Cour d'appel de Douai |
 
-|
+Nord |
 
-Pyrénées-Atlantiques.
+Avesnes-sur-Helpe |
 
-|
+Avesnes-sur-Helpe |
 
-Bayonne.
+Ressort du tribunal de grande instance d'Avesnes-sur-Helpe. |
 
 |
 
-Bayonne.
+Cambrai |
 
-|
-
-Ressort du tribunal de grande instance de Bayonne.
+Cambrai |
 
-|
+Ressort du tribunal de grande instance de Cambrai. |
 
 |
 
-Pau.
+Douai |
 
-|
+Douai |
 
-Oloron-Sainte-Marie.
+Ressort du tribunal de grande instance de Douai. |
 
 |
 
-Ressort du tribunal d'instance d'Oloron.
+Dunkerque |
 
-|
+Dunkerque |
 
-|
+Ressort du tribunal d'instance de Dunkerque. |
 
 |
 
-Pau.
-
 |
 
-Ressort des tribunaux d'instance d'Orthez et Pau.
-
-|
+Hazebrouck |
 
-Hautes-Pyrénées.
+Ressort du tribunal d'instance d'Hazebrouck. |
 
 |
 
-Tarbes.
+Lille |
 
-|
+Lannoy |
 
-Tarbes.
+Cantons de Lannoy, Villeneuve-d'Ascq-Nord et Villeneuve-d'Ascq-Sud. |
 
 |
-
-Ressort du tribunal de grande instance de Tarbes.
 
 |
 
-Cour d'appel de Poitiers
+Lille |
 
-|
+Ressort du tribunal d'instance de Lille, à l'exception des cantons de Lannoy, Villeneuve-d'Ascq-Nord et Villeneuve-d'Ascq-Sud et des communes de Comines et Wervicq-Sud. |
 
 |
 
 |
 
-|
+Roubaix |
 
-Charente-Maritime.
+Ressort du tribunal d'instance de Roubaix. |
 
 |
 
-La Rochelle.
-
 |
-
-La Rochelle.
 
-|
+Tourcoing |
 
-Ressort du tribunal de grande instance de La Rochelle.
+Ressort du tribunal d'instance de Tourcoing et communes de Comines et Wervicq-Sud. |
 
 |
 
-|
+Valenciennes |
 
-Rochefort.
+Valenciennes |
 
-|
+Ressort du tribunal de grande instance de Valenciennes. |
 
-Rochefort.
+Pas-de-Calais |
 
-|
+Arras |
 
-Ressort du tribunal de grande instance de Rochefort.
+Arras |
 
-|
+Ressort du tribunal de grande instance d'Arras. |
 
 |
 
-Saintes.
+Béthune |
 
-|
+Béthune |
 
-Saintes.
+Ressort du tribunal d'instance de Béthune. |
 
 |
 
-Ressort du tribunal de grande instance de Saintes.
-
 |
-
-Deux-Sèvres.
 
-|
+Lens |
 
-Bressuire.
+Ressort du tribunal d'instance de Lens. |
 
 |
 
-Thouars.
+Boulogne-sur-Mer |
 
-|
+Boulogne-sur-Mer |
 
-Ressort du tribunal de grande instance de Bressuire.
+Ressort des tribunaux d'instance de Montreuil et Boulogne-sur-Mer. |
 
 |
 
 |
 
-Niort.
+Calais |
 
+Ressort du tribunal d'instance de Calais. |
+
 |
 
-Niort.
+Saint-Omer |
 
-|
+Saint-Omer |
 
-Ressort du tribunal de grande instance de Niort.
+Ressort du tribunal de grande instance de Saint-Omer. |
 
-|
+Cour d'appel de Grenoble |
 
-Vendée.
+Hautes-Alpes |
 
-|
+Gap |
 
-La Roche-sur-Yon.
+Gap |
 
-|
+Ressort du tribunal de grande instance de Gap. |
 
-La Roche-sur-Yon.
+Drôme |
 
-|
+Valence |
 
-Ressort du tribunal de grande instance de La Roche-sur-Yon.
+Montélimar |
 
+Ressort du tribunal d'instance de Montélimar. |
+
 |
 
 |
 
-Les Sables-d'Olonne.
+Valence |
 
-|
+Ressort des tribunaux d'instance de Romans-sur-Isère et Valence. |
 
-Les Sables-d'Olonne.
+Isère |
 
-|
+Vienne (*) |
 
-Ressort du tribunal de grande instance des Sables-d'Olonne.
+Bourgoin-Jallieu |
 
-|
+Ressort du tribunal d'instance de Bourgoin-Jallieu. |
 
-Vienne.
+|
 
 |
+
+Vienne |
 
-Poitiers.
+Ressort du tribunal d'instance de Vienne. |
 
 |
 
-Châtellerault.
+Grenoble |
 
-|
+Grenoble |
 
-Ressort des tribunaux d'instance de Châtellerault et Loudun.
+Ressort du tribunal de grande instance de Grenoble. |
 
 |
 
 |
 
 |
-
-Poitiers.
 
 |
 
-Ressort des tribunaux d'instance de Civray, Montmorillon et Poitiers.
+Cour d'appel de Limoges |
 
-|
+Corrèze |
 
-Cour d'appel de Reims
+Brive |
 
-|
+Brive |
 
-|
+Ressort du tribunal d'instance de Brive. |
 
 |
 
 |
 
-Ardennes.
+Tulle |
 
-|
+Ressort du tribunal d'instance de Tulle. |
 
-Charleville-Mézières.
+Creuse |
 
-|
+Guéret |
 
-Charleville-Mézières.
+Guéret |
 
-|
+Ressort du tribunal de grande instance de Guéret. |
 
-Ressort des tribunaux d'instance de Charleville-Mézières et Rocroi.
+Haute-Vienne |
 
-|
+Limoges |
 
-|
+Limoges |
 
-|
+Ressort du tribunal de grande instance de Limoges. |
 
-Sedan.
+Cour d'appel de Lyon |
 
-|
+Ain |
 
-Ressort des tribunaux d'instance de Rethel, Sedan et Vouziers.
+Bourg-en-Bresse |
 
-|
+Belley |
 
-Aube.
+Ressort du tribunal d'instance de Belley. |
 
 |
-
-Troyes.
 
 |
 
-Romilly-sur-Seine.
-
-|
+Bourg-en-Bresse |
 
-Ressort du tribunal d'instance de Nogent-sur-Seine.
+Ressort des tribunaux d'instance de Bourg-en-Bresse et Trévoux. |
 
 |
 
 |
 
-|
+Oyonnax |
 
-Troyes.
+Ressort du tribunal d'instance de Nantua. |
 
-|
+Loire |
 
-Ressort des tribunaux d'instance de Bar-sur-Aube, Bar-sur-Seine et Troyes.
+Roanne |
 
-|
+Roanne |
 
-Marne.
+Ressort du tribunal de grande instance de Roanne. |
 
 |
 
-Châlons-sur-Marne.
+Saint-Etienne |
 
-|
+Montbrison |
 
-Châlons-sur-Marne.
+Ressort du tribunal d'instance de Montbrison. |
 
 |
 
-Ressort des tribunaux d'instance de Châlons-sur-Marne et Vitry-le-François.
+|
+
+Saint-Etienne |
 
+Ressort du tribunal d'instance de Saint-Etienne. |
+
 |
 
 |
 
-Reims.
+|
 
 |
 
-Épernay.
+Rhône |
 
-|
+Lyon |
 
-Ressort du tribunal d'instance d'Épernay.
+Lyon |
 
-|
+Ressort du tribunal de grande instance de Lyon. |
 
 |
 
-|
+Villefranche-sur-Saône |
 
-Reims.
+Villefranche-sur-Saône |
 
-|
+Ressort du tribunal de grande instance de Villefranche-sur-Saône. |
 
-Ressort du tribunal de grande instance de Reims.
+Cour d'appel de Metz |
 
-|
+Moselle |
 
-Cour d'appel de Rennes
+Metz |
 
-|
+Metz |
 
-|
+Ressort du tribunal de grande instance de Metz. |
 
 |
 
-|
+Sarreguemines |
 
-Côtes-d'Armor.
+Forbach |
 
+Ressort du tribunal de grande instance de Sarreguemines. |
+
 |
 
-Dinan.
+Thionville |
 
-|
+Thionville |
 
-Dinan.
+Ressort du tribunal de grande instance de Thionville. |
 
-|
+Cour d'appel de Montpellier |
 
-Ressort du tribunal de grande instance de Dinan.
+Aude |
 
-|
+Carcassonne |
 
-|
+Carcassonne |
 
-Guingamp.
+Ressort du tribunal de grande instance de Carcassonne. |
 
 |
 
-Guingamp.
+Narbonne |
 
-|
+Narbonne |
 
-Ressort du tribunal de grande instance de Guingamp.
+Ressort du tribunal de grande instance de Narbonne. |
 
-|
+Aveyron |
 
-|
+Rodez |
 
-Saint-Brieuc.
+Millau |
 
-|
+Ressort du tribunal d'instance de Millau. |
 
-Saint-Brieuc.
+|
 
 |
 
-Ressort du tribunal de grande instance de Saint-Brieuc.
+Rodez |
 
-|
+Ressort du tribunal d'instance de Rodez. |
 
-Finistère.
+Hérault |
 
-|
+Béziers |
 
-Brest.
+Béziers |
 
+Ressort du tribunal de grande instance de Béziers. |
+
 |
 
-Brest.
+Montpellier |
 
-|
+Montpellier |
 
-Ressort du tribunal de grande instance de Brest.
+Ressort du tribunal d'instance de Montpellier. |
 
 |
 
 |
 
-Morlaix.
+Sète |
 
-|
+Ressort du tribunal d'instance de Sète. |
 
-Morlaix.
+Pyrénées-Orientales |
 
-|
+Perpignan |
 
-Ressort du tribunal de grande instance de Morlaix.
+Perpignan |
 
-|
+Ressort du tribunal de grande instance de Perpignan. |
 
-|
+Cour d'appel de Nancy |
 
-Quimper.
+Meurthe-et-Moselle |
 
-|
+Briey |
+
+Longwy |
 
-Quimper.
+Ressort du tribunal de grande instance de Briey. |
 
 |
 
-Ressort du tribunal de grande instance de Quimper.
+Nancy |
 
-|
+Nancy |
 
-Ille-et-Vilaine.
+Ressort du tribunal de grande instance de Nancy. |
 
-|
+Meuse |
 
-Rennes.
+Bar-le-Duc |
 
-|
+Bar-le-Duc |
 
-Fougères.
+Ressort du tribunal de grande instance de Bar-le-Duc. |
 
 |
 
-Ressort du tribunal d'instance de Fougères et cantons de Vitré-Est et Vitré-Ouest.
+Verdun |
 
-|
+Verdun |
 
-|
+Ressort du tribunal de grande instance de Verdun. |
 
-|
+Vosges |
 
-Redon.
+Epinal |
 
-|
+Epinal |
 
-Ressort du tribunal d'instance de Redon.
+Ressort du tribunal d'instance d'Epinal. |
 
 |
 
 |
 
-|
+Saint-Dié-des-Vosges |
 
-Rennes.
+Ressort du tribunal d'instance de Saint-Dié-des-Vosges. |
 
-|
+Cour d'appel de Nîmes |
 
-Ressort des tribunaux d'instance de Montfort-sur-Meu, Rennes et Vitré, à l'exception des cantons de Vitré-Est et Vitré-Ouest.
+Ardèche |
 
-|
+Privas |
 
-|
+Annonay |
 
-Saint-Malo.
+Ressort du tribunal d'instance d'Annonay. |
 
 |
-
-Saint-Malo.
 
 |
 
-Ressort du tribunal de grande instance de Saint-Malo.
+Aubenas |
 
-|
+Ressort des tribunaux d'instance d'Aubenas et Privas. |
 
-Loire-Atlantique.
+Gard |
 
-|
+Alès |
 
-Nantes.
+Alès |
 
+Ressort du tribunal de grande instance d'Alès. |
+
 |
 
-Nantes.
+Nîmes |
 
-|
+Nîmes |
 
-Ressort du tribunal de grande instance de Nantes.
+Ressort du tribunal de grande instance de Nîmes. |
 
-|
+Lozère |
 
-|
+Mende |
 
-Saint-Nazaire.
+Mende |
 
-|
+Ressort du tribunal de grande instance de Mende. |
 
-Saint-Nazaire.
+Vaucluse |
 
-|
+Avignon |
 
-Ressort du tribunal de grande instance de Saint-Nazaire.
+Avignon |
 
-|
+Ressort du tribunal de grande instance d'Avignon. |
 
 |
 
-Lorient.
+Carpentras |
 
-|
+Orange |
 
-Lorient.
+Ressort du tribunal de grande instance de Carpentras. |
 
-|
+Cour d'appel d'Orléans |
 
-Ressort du tribunal de grande instance de Lorient.
+Indre-et-Loire |
 
-|
+Tours |
 
-|
+Tours |
 
-Vannes.
+Ressort du tribunal de grande instance de Tours. |
 
-|
+Loir-et-Cher |
 
-Vannes.
+Blois |
 
-|
+Blois |
 
-Ressort du tribunal de grande instance de Vannes.
+Ressort du tribunal de grande instance de Blois. |
 
-|
+Loiret |
 
-Cour d'appel de Riom
+Montargis |
 
-|
+Montargis |
 
-|
+Ressort du tribunal de grande instance de Montargis. |
 
 |
 
-|
+Orléans |
 
-Allier.
+Orléans |
 
-|
+Ressort du tribunal de grande instance d'Orléans. |
 
-Cusset.
+Cour d'appel de Paris |
 
-|
+Essonne |
 
-Vichy.
+Evry |
 
-|
+Evry |
 
-Ressort du tribunal de grande instance de Cusset.
+Ressort des tribunaux d'instance d'Etampes, Evry et Juvisy-sur-Orge. |
 
 |
 
 |
 
-Montluçon.
+Longjumeau |
 
-|
+Ressort des tribunaux d'instance de Longjumeau et Palaiseau. |
 
-Montluçon.
+Seine-et-Marne |
 
-|
+Fontainebleau |
 
-Ressort du tribunal de grande instance de Montluçon.
+Fontainebleau |
 
-|
+Ressort du tribunal de grande instance de Fontainebleau. |
 
 |
 
-Moulins.
+Meaux |
 
-|
+Meaux |
 
-Moulins.
+Ressort du tribunal de grande instance de Meaux. |
 
 |
 
-Ressort du tribunal de grande instance de Moulins.
+Melun |
 
-|
+Melun |
 
-Cantal.
+Ressort du tribunal de grande instance de Melun. |
 
-|
+Seine-Saint-Denis |
 
-Aurillac.
+Bobigny |
 
-|
+Bobigny |
 
-Aurillac.
+Ressort du tribunal de grande instance de Bobigny. |
 
-|
+Val-de-Marne |
 
-Ressort du tribunal de grande instance d'Aurillac.
+Créteil |
 
-|
+Créteil |
 
-Haute-Loire.
+Ressort des tribunaux d'instance de Charenton-le-Pont, Ivry-sur-Seine, Nogent-sur-Marne, Saint-Maur-des-Fossés et Villejuif, à l'exception des cantons de Choisy-le-Roi et Orly, et de l'emprise de l'aérodrome de Paris-Orly. |
 
 |
-
-Le Puy-en-Velay.
 
 |
 
-Le Puy-en-Velay.
+Villeneuve-Saint-Georges |
 
-|
+Ressort du tribunal d'instance de Boissy-Saint-Léger, cantons de Choisy-le-Roi et Orly, et l'emprise de l'aérodrome de Paris-Orly. |
 
-Ressort du tribunal de grande instance du Puy-en-Velay.
+Yonne |
 
-|
+Auxerre |
 
-Puy-de-Dôme.
+Auxerre |
 
+Ressort du tribunal de grande instance d'Auxerre. |
+
 |
 
-Clermont-Ferrand.
+Sens |
 
-|
+Sens |
 
-Clermont-Ferrand.
+Ressort du tribunal de grande instance de Sens. |
 
-|
+Paris |
 
-Ressort des tribunaux d'instance de Clermont-Ferrand et Issoire.
+Paris |
 
-|
+Paris |
 
-|
+Ressort du tribunal de grande instance de Paris. |
 
-|
+Cour d'appel de Pau |
 
-Thiers.
+Landes |
 
-|
+Dax |
 
-Ressort des tribunaux d'instance d'Ambert et Thiers.
+Dax |
 
-|
+Ressort du tribunal de grande instance de Dax. |
 
 |
 
-Riom.
+Mont-de-Marsan |
 
-|
+Mont-de-Marsan |
 
-Riom.
+Ressort du tribunal de grande instance de Mont-de-Marsan. |
 
-|
+Pyrénées-Atlantiques |
 
-Ressort du tribunal de grande instance de Riom.
+Bayonne |
 
-|
+Bayonne |
 
-Cour d'appel de Rouen
+Ressort du tribunal de grande instance de Bayonne. |
 
 |
 
-|
+Pau |
 
-|
+Pau |
 
-|
+Ressort du tribunal de grande instance de Pau. |
 
-Eure.
+Hautes-Pyrénées |
 
-|
+Tarbes |
 
-Bernay.
+Tarbes |
 
-|
+Ressort du tribunal de grande instance de Tarbes. |
 
-Bernay.
+Cour d'appel de Poitiers |
 
-|
+Charente-Maritime |
+
+La Rochelle |
 
-Ressort du tribunal de grande instance de Bernay.
+La Rochelle |
 
+Ressort du tribunal d'instance de La Rochelle. |
+
 |
 
 |
+
+Rochefort |
 
-Évreux.
+Ressort du tribunal d'instance de Rochefort. |
 
 |
 
-Évreux.
+Saintes |
 
-|
+Saintes |
 
-Ressort du tribunal d'instance d'Évreux.
+Ressort du tribunal de grande instance de Saintes. |
 
-|
+Deux-Sèvres |
 
+Niort |
+
+Thouars |
+
+Ressort du tribunal d'instance de Bressuire. |
+
 |
 
 |
 
-Louviers.
+Niort |
 
-|
+Ressort du tribunal d'instance de Niort. |
 
-Ressort des tribunaux d'instance des Andelys et Louviers.
+Vendée |
 
-|
+La Roche-sur-Yon |
+
+La Roche-sur-Yon |
 
-Seine-Maritime.
+Ressort du tribunal de grande instance de La Roche-sur-Yon. |
 
 |
 
-Dieppe.
+Les Sables-d'Olonne |
 
-|
+Les Sables-d'Olonne |
 
-Dieppe.
+Ressort du tribunal de grande instance des Sables-d'Olonne. |
 
-|
+Vienne |
 
-Ressort du tribunal de grande instance de Dieppe.
+Poitiers |
 
-|
+Poitiers |
 
-|
+Ressort du tribunal de grande instance de Poitiers. |
 
-Le Havre.
+Cour d'appel de Reims |
 
-|
+Ardennes |
 
-Bolbec.
+Charleville-Mézières |
 
-|
+Charleville-Mézières |
 
-Cantons de Bolbec et Lillebonne.
+Ressort du tribunal de grande instance de Charleville-Mézières. |
 
-|
+Aube |
 
-|
+Troyes |
 
-|
+Troyes |
 
-Fécamp.
+Ressort du tribunal de grande instance de Troyes. |
 
-|
+Marne |
 
-Canton de Fécamp.
+Châlons-en-Champagne |
 
-|
+Châlons-en-Champagne |
+
+Ressort du tribunal d'instance de Châlons-en-Champagne, à l'exception des cantons d'Anglure, Avize, Dormans, Epernay 1er canton, Epernay 2e canton, Esternay, Fère-Champenoise, Montmirail, Montmort-Lucy et Sézanne. |
 
 |
 
 |
 
-Le Havre.
+Epernay |
 
+Cantons d'Anglure, Avize, Dormans, Epernay 1er canton, Epernay 2e canton, Esternay, Fère-Champenoise, Montmirail, Montmort-Lucy et Sézanne. |
+
 |
 
-Ressort du tribunal de grande instance du Havre, à l'exception des cantons de Bolbec, Fécamp et Lillebonne.
+Reims |
 
-|
+Reims |
 
-|
+Ressort du tribunal de grande instance de Reims. |
 
-Rouen.
+Cour d'appel de Rennes |
 
-|
+Côtes-d'Armor |
 
-Elbeuf.
+Saint-Brieuc |
 
-|
+Guingamp |
 
-Ressort du tribunal d'instance d'Elbeuf.
+Ressort du tribunal d'instance de Guingamp. |
 
 |
 
 |
 
-|
+Saint-Brieuc |
 
-Rouen.
+Ressort du tribunal d'instance de Saint-Brieuc. |
 
-|
+Finistère |
 
-Ressort des tribunaux d'instance Rouen et Yvetot.
+Brest |
 
-|
+Brest |
 
-Cour d'appel de Toulouse
+Ressort du tribunal d'instance de Brest. |
 
 |
 
 |
 
-|
+Morlaix |
+
+Ressort du tribunal d'instance de Morlaix. |
 
 |
 
-Ariège.
+Quimper |
 
-|
+Quimper |
 
-Foix.
+Ressort du tribunal de grande instance de Quimper. |
 
-|
+Ille-et-Vilaine |
 
-Foix.
+Rennes |
 
-|
+Rennes |
 
-Ressort du tribunal de grande instance de Foix.
+Ressort du tribunal de grande instance de Rennes. |
 
 |
 
-Haute-Garonne.
+Saint-Malo |
 
-|
+Dinan (Côtes-d'Armor) |
 
-Toulouse.
+Ressort du tribunal d'instance de Dinan. |
 
 |
 
-Toulouse.
-
 |
 
-Ressort des tribunaux d'instance de Muret et de Toulouse.
+Saint-Malo |
 
-|
+Ressort du tribunal d'instance de Saint-Malo. |
 
-|
+Loire-Atlantique |
 
-Saint-Gaudens.
+Nantes |
 
-|
+Nantes |
 
-Saint-Gaudens.
+Ressort du tribunal de grande instance de Nantes. |
 
 |
 
-Ressort du tribunal de grande instance de Saint-Gaudens.
+Saint-Nazaire |
 
-|
+Saint-Nazaire |
 
-Tarn.
+Ressort du tribunal de grande instance de Saint-Nazaire. |
 
-|
+Morbihan |
 
-Albi.
+Lorient |
 
-|
+Lorient |
 
-Albi.
+Ressort du tribunal de grande instance de Lorient. |
 
 |
 
-Ressort du tribunal de grande instance d'Albi
+Vannes |
 
-|
+Vannes |
 
-|
+Ressort du tribunal de grande instance de Vannes. |
 
-Castres.
+Cour d'appel de Riom |
 
-|
+Allier |
 
-Castres.
+Cusset |
 
-|
+Vichy |
 
-Ressort du tribunal de grande instance de Castres, à l'exception des cantons de Mazamet-Nord-Est, Mazamet-Sud-Ouest et Saint-Amans-Soult.
+Ressort du tribunal d'instance de Vichy. |
 
 |
 
 |
 
-|
+Moulins |
 
-Mazamet.
+Ressort du tribunal d'instance de Moulins. |
 
 |
 
-Cantons de Mazamet-Nord-Est, Mazamet-Sud-Ouest et Saint-Amans-Soult.
+Montluçon |
 
-|
+Montluçon |
 
-Tarn-et-Garonne.
+Ressort du tribunal de grande instance de Montluçon. |
 
-|
+Cantal |
 
-Montauban.
+Aurillac |
 
-|
+Aurillac |
 
-Montauban.
+Ressort du tribunal de grande instance d'Aurillac. |
 
-|
+Haute-Loire |
 
-Ressort du tribunal de grande instance de Montauban.
+Le Puy-en-Velay |
 
-|
+Le Puy-en-Velay |
 
-Cour d'appel de Versailles
+Ressort du tribunal de grande instance du Puy-en-Velay. |
 
-|
+Puy-de-Dôme |
 
-|
+Clermont-Ferrand |
+
+Clermont-Ferrand |
 
+Ressort des tribunaux d'instance de Clermont-Ferrand et Thiers. |
+
 |
 
 |
 
-Eure-et-Loir.
+Riom |
 
-|
+Ressort du tribunal d'instance de Riom. |
 
-Chartres.
+Cour d'appel de Rouen |
 
-|
+Eure |
 
-Chartres.
+Evreux |
 
-|
+Bernay |
 
-Ressort du tribunal d'instance de Chartres.
+Ressort du tribunal d'instance de Bernay. |
 
 |
 
 |
 
-|
+Evreux |
 
-Châteaudun.
+Ressort du tribunal d'instance d'Evreux, à l'exception des cantons d'Amfreville-la-Campagne, Gaillon, Gaillon-Campagne, Le Neubourg, Louviers-Nord, Louviers-Sud, Pont-de-l'Arche et Val-de-Reuil. |
 
 |
-
-Ressort du tribunal d'instance de Châteaudun.
 
 |
 
-|
+Louviers |
 
-|
+Ressort du tribunal d'instance des Andelys et cantons d'Amfreville-la-Campagne, Gaillon, Gaillon-Campagne, Le Neubourg, Louviers-Nord, Louviers-Sud, Pont-de-l'Arche et Val-de-Reuil. |
 
-Dreux.
+Seine-Maritime |
 
-|
+Dieppe |
 
-Ressort du tribunal d'instance de Dreux.
+Dieppe |
 
-|
+Ressort du tribunal de grande instance de Dieppe. |
 
 |
 
-|
+Le Havre |
+
+Le Havre |
 
-Nogent-le-Rotrou.
+Ressort du tribunal de grande instance du Havre. |
 
 |
 
-Ressort du tribunal d'instance de Nogent-le-Rotrou.
+Rouen |
 
-|
+Rouen |
 
-Hauts-de-Seine.
+Ressort du tribunal de grande instance de Rouen. |
 
-|
+Cour d'appel de Toulouse |
 
-Nanterre.
+Ariège |
 
-|
+Foix |
 
-Boulogne-Billancourt.
+Foix |
 
-|
+Ressort du tribunal de grande instance de Foix. |
 
-Ressort des tribunaux d'instance d'Antony, Boulogne-Billancourt et Vanves.
+Haute-Garonne |
 
-|
+Toulouse |
+
+Toulouse |
 
+Ressort des tribunaux d'instance de Muret et Toulouse. |
+
 |
 
 |
 
-Nanterre.
+Saint-Gaudens |
 
-|
+Ressort du tribunal d'instance de Saint-Gaudens |
 
-Ressort des tribunaux d'instance d'Asnières, Clichy, Colombes, Courbevoie, Levallois-Perret, Neuilly-sur-Seine et Puteaux.
+Tarn |
 
-|
+Albi |
+
+Albi |
 
-Val d'Oise.
+Ressort du tribunal de grande instance d'Albi |
 
 |
 
-Pontoise.
+Castres |
 
-|
+Castres |
 
-Argenteuil.
+Ressort du tribunal de grande instance de Castres. |
 
-|
+Tarn-et-Garonne |
 
-Ressort du tribunal d'instance de Sannois.
+Montauban |
 
-|
+Montauban |
 
-|
+Ressort du tribunal de grande instance de Montauban. |
 
-|
+Cour d'appel de Versailles |
 
-Montmorency.
+Eure-et-Loir |
 
-|
+Chartres |
 
-Ressort des tribunaux d'instance d'Écouen, Gonesse et Montmorency.
+Chartres |
 
-|
+Ressort du tribunal d'instance de Chartres, à l'exception des cantons de Bonneval, Brou, Châteaudun, Cloyes-sur-le-Loir et Orgères-en-Beauce. |
 
 |
 
 |
-
-Cergy-Pontoise (2).
 
-|
+Châteaudun |
 
-Ressort du tribunal d'instance de Pontoise.
+Cantons de Bonneval, Brou, Châteaudun, Cloyes-sur-le-Loir et Orgères-en-Beauce. |
 
 |
-
-Yvelines.
 
 |
 
-Versailles.
+Dreux |
 
-|
+Ressort du tribunal d'instance de Dreux. |
 
-Mantes-la-Jolie.
+Hauts-de-Seine |
 
-|
+Nanterre |
 
-Ressort du tribunal d'instance de Mantes-la-Jolie.
+Boulogne-Billancourt |
 
-|
+Ressort des tribunaux d'instance d'Antony, Boulogne-Billancourt et Vanves. |
 
 |
 
 |
 
-Poissy.
+Nanterre |
 
-|
+Ressort des tribunaux d'instance d'Asnières-sur-Seine, Colombes, Courbevoie et Puteaux. |
 
-Ressort du tribunal d'instance de Poissy.
+Val-d'Oise |
 
-|
+Pontoise |
 
-|
+Argenteuil |
 
-|
+Ressort du tribunal d'instance de Sannois. |
 
-Rambouillet.
+|
 
 |
 
-Ressort du tribunal d'instance de Rambouillet.
+Montmorency |
 
-|
+Ressort des tribunaux d'instance de Gonesse et Montmorency. |
 
 |
 
 |
 
-Saint-Germain-en-Laye.
+Cergy-Pontoise |
 
-|
+Ressort du tribunal d'instance de Pontoise. |
 
-Ressort du tribunal d'instance de Saint-Germain-en-Laye.
+Yvelines |
 
-|
+Versailles |
+
+Mantes-la-Jolie |
 
+Ressort du tribunal d'instance de Mantes-la-Jolie. |
+
 |
 
 |
 
-Versailles.
+Poissy |
 
-|
+Ressort du tribunal d'instance de Poissy. |
 
-Ressort du tribunal d'instance de Versailles.
+|
 
 |
 
-Cour d'appel de Basse-Terre
+Rambouillet |
 
-|
+Ressort du tribunal d'instance de Rambouillet. |
 
 |
 
 |
 
-|
+Saint-Germain-en-Laye |
 
-Guadeloupe.
+Ressort du tribunal d'instance de Saint-Germain-en-Laye. |
 
 |
-
-Basse-Terre.
 
 |
 
-Basse-Terre.
-
-|
+Versailles |
 
-Ressort du tribunal de grande instance de Basse-Terre.
+Ressort du tribunal d'instance de Versailles. |
 
-|
+Cour d'appel de Basse-Terre |
 
-|
+Guadeloupe |
 
-Pointe-à-Pitre.
+Basse-Terre |
 
-|
+Basse-Terre |
 
-Pointe-à-Pitre.
+Ressort du tribunal de grande instance de Basse-Terre. |
 
 |
 
-Ressort du tribunal de grande instance de Pointe-à-Pitre.
+Pointe-à-Pitre |
 
-|
+Pointe-à-Pitre |
+
+Ressort du tribunal de grande instance de Pointe-à-Pitre. |
 
 Cour d'appel de Cayenne
 
@@ -4062,15 +1768,15 @@ Cour d'appel de Cayenne
 
 |
 
-Guyane.
+Guyane
 
 |
 
-Cayenne.
+Cayenne
 
 |
 
-Cayenne.
+Cayenne
 
 |
 
@@ -4082,96 +1788,40 @@ Cour d'appel de Fort-de-France
 
 |
 
-|
+Martinique |
+
+Fort-de-France |
+
+Fort-de-France |
+
+Ressort du tribunal de grande instance de Fort-de-France. |
+
+Cour d'appel de Saint-Denis de la Réunion |
+
+Réunion |
+
+Saint-Denis |
+
+Saint-Denis |
+
+Ressort du tribunal de grande instance de Saint-Denis. |
 
 |
 
-|
+Saint-Pierre |
 
-Martinique.
+Saint-Pierre |
 
-|
+Ressort du tribunal de grande instance de Saint-Pierre. |
 
-Fort-de-France.
+Tribunal supérieur de Saint-Pierre |
 
-|
+Saint-Pierre-et-Miquelon |
 
-Fort-de-France.
+Saint-Pierre |
 
-|
+Saint-Pierre |
 
-Ressort du tribunal de grande instance de Fort-de-France.
+Ressort du tribunal supérieur d'appel de Saint-Pierre. |
 
-|
-
-Cour d'appel de Saint-Denis-de-la-Réunion
-
-|
-
-|
-
-|
-
-|
-
-Réunion.
-
-|
-
-Saint-Denis.
-
-|
-
-Saint-Denis.
-
-|
-
-Ressort du tribunal de grande instance de Saint-Denis.
-
-|
-
-|
-
-Saint-Pierre.
-
-|
-
-Saint-Pierre.
-
-|
-
-Ressort du tribunal de grande instance de Saint-Pierre.
-
-|
-
-Tribunal supérieur de Saint-Pierre
-
-|
-
-|
-
-|
-
-|
-
-Saint-Pierre-et-Miquelon.
-
-|
-
-Saint-Pierre.
-
-|
-
-Saint-Pierre.
-
-|
-
-Ressort du tribunal supérieur d'appel de Saint-Pierre.
-
-|
-
-NOTA :
-
-(1) Au lieu de " Brive", il convient de lire " Brive-la-Gaillarde ".
-
-(2) Au lieu de "Cergy-Pontoise ", il convient de lire " Pontoise ".
+(*) Siège provisoire dans l'attente de la future localisation du TGI. |
