@@ -2,10 +2,6 @@
 
 LIAISONS RÉGULIÈRES DE PASSAGERS, DE COURRIER ET DE FRÊT
 
-Jusqu'au 15 juin 2016 :
-
-Dzaoudzi-Antananarivo (Madagascar).
-
 Jusqu'au 29 juin 2017 :
 
 Paris-Dzaoudzi ;
@@ -93,3 +89,23 @@ Fort-de-France-Sainte-Lucie ;
 Fort-de-France-Punta Cana (République dominicaine) ;
 
 Fort-de-France-Saint-Domingue (République dominicaine).
+
+Jusqu'au 31 août 2021 :
+
+Paris-San Juan (Porto Rico) ;
+
+Paris-Melville (La Dominique) ;
+
+Paris-Bridgetown (La Barbade) ;
+
+Pointe-à-Pitre-San Juan (Porto Rico) ;
+
+Pointe-à-Pitre-Melville (La Dominique) ;
+
+Pointe-à-Pitre-Bridgetown (La Barbade) ;
+
+Fort-de-France-San Juan (Porto Rico) ;
+
+Fort-de-France-Melville (La Dominique) ;
+
+Fort-de-France-Bridgetown (La Barbade).
