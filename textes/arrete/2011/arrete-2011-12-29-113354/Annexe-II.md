@@ -8,7 +8,9 @@ administrative
 
 |
 
-CATÉGORIES CONCERNÉES PAR LA DISPENSE DE VISA
+CATÉGORIES CONCERNÉES
+
+par la dispense de visa
 
 |
 
@@ -36,7 +38,7 @@ Algérie
 
 |
 
-Dispense s'appliquant seulement aux titulaires d'un passeport diplomatique.
+Dispense s'appliquant seulement aux titulaires d'un passeport diplomatique ou de service.
 
 |
 
@@ -45,6 +47,14 @@ Andorre
 |
 
 Dispense de visa de court séjour s'étendant à tout type de passeport.
+
+|
+
+Angola
+
+|
+
+Dispense s'appliquant seulement aux titulaires d'un passeport diplomatique ou de service.
 
 |
 
@@ -174,15 +184,21 @@ Dispense de visa sauf pour effectuer un séjour d'une durée n'excédant pas tro
 
 |
 
-Titulaires d'un passeport britannique dont la nationalité mentionnée sur la page des données personnelles n'est pas British Citizen
+Titulaires d'un passeport britannique dont la nationalité mentionnée sur la page des données personnelles n'est pas British Citizen.
 
 |
 
 Dispense s'appliquant aux seuls titulaires d'un passeport britannique portant, sur la page de données personnelles, à la rubrique nationalité :
 
--British Nationals (Overseas) ; ou
+-British Nationals (Overseas) ;
 
--British Subject et la mention que le titulaire du passeport bénéficie du droit de résidence au Royaume Uni (right of abode).
+-British Overseas Territories Citizens ;
+
+-British Overseas Citizens ;
+
+-British Protected Persons ;
+
+-British Subjects.
 
 |
 
@@ -199,6 +215,14 @@ Canada
 |
 
 Dispense de visa de court séjour s'étendant à tout type de passeport.
+
+|
+
+Cap-Vert
+
+|
+
+Dispense s'appliquant seulement aux titulaires d'un passeport diplomatique ou de service.
 
 |
 
@@ -248,7 +272,7 @@ Colombie
 
 |
 
-Dispense de visa s'appliquant aux seuls titulaires d'un passeport diplomatique ou de service.
+Dispense de visa de court séjour s'étendant à tout type de passeport.
 
 |
 
@@ -256,7 +280,7 @@ Congo (Brazzaville)
 
 |
 
-Dispense de visa s'appliquant jusqu'au 31 juillet 2015 aux seuls titulaires d'un passeport diplomatique sécurisé.
+Dispense de visa s'appliquant jusqu'au 31 octobre 2016 aux seuls titulaires d'un passeport diplomatique sécurisé.
 
 |
 
@@ -280,19 +304,19 @@ Dispense de visa de court séjour s'étendant à tout type de passeport.
 
 |
 
-Croatie
-
-|
-
-Dispense de visa de court séjour s'étendant à tout type de passeport.
-
-|
-
 République dominicaine
 
 |
 
 Dispense de visa s'appliquant aux seuls titulaires d'un passeport diplomatique ou de service.
+
+|
+
+Dominique
+
+|
+
+Dispense de visa de court séjour s'étendant à tout type de passeport.
 
 |
 
@@ -308,11 +332,7 @@ Emirats arabes unis
 
 |
 
-Dispense de visa s'appliquant seulement :
-
--aux titulaires d'un passeport diplomatique ou spécial ;
-
--aux titulaires d'un passeport ordinaire sur lequel est apposé un visa à entrées multiples dont la durée de validité est comprise entre six mois et cinq ans, délivré par une autorité consulaire française.
+Dispense de visa de court séjour s'étendant à tout type de passeport
 
 |
 
@@ -332,7 +352,11 @@ Dispense de visa sauf pour effectuer un séjour d'une durée n'excédant pas tro
 
 -une autorisation de travail est exigée par la réglementation de la Polynésie française pour exercer cette activité ; et
 
--le ressortissant étranger n'est pas en mesure de présenter cette autorisation de travail lors du franchissement de la frontière. Outre les ressortissants américains, cette dispense s'étend également aux ressortissants des îles Samoa américaines et de Guam (territoires bénéficiant du statut de non incorporé des USA) et titulaires d'un passeport américain.
+-le ressortissant étranger n'est pas en mesure de présenter cette autorisation de travail lors du franchissement de la frontière.
+
+Outre les ressortissants américains, cette dispense s'étend également aux ressortissants des îles Samoa américaines et de Guam (territoires bénéficiant du statut de non-incorporé des USA) et titulaires d'un passeport américain.
+
+La dispense de visa prévue supra ne s'applique pas aux titulaires d'un passeport diplomatique ou de service effectuant un séjour pour des raisons professionnelles.
 
 |
 
@@ -349,6 +373,14 @@ Géorgie
 |
 
 Dispense de visa s'appliquant aux seuls titulaires d'un passeport diplomatique.
+
+|
+
+Grenade
+
+|
+
+Dispense de visa de court séjour s'étendant à tout type de passeport
 
 |
 
@@ -374,9 +406,17 @@ Inde
 
 Dispense de visa s'appliquant :
 
--aux titulaires d'un passeport diplomatique.
+-aux titulaires d'un passeport diplomatique ;
 
 -aux titulaires d'un passeport sur lequel est apposé un visa à entrées multiples dont la durée de validité est comprise entre six mois et cinq ans, délivré par une autorité consulaire française.
+
+|
+
+Indonésie
+
+|
+
+Dispense s'appliquant seulement aux titulaires d'un passeport diplomatique ou de service.
 
 |
 
@@ -664,6 +704,22 @@ Dispense de visa de court séjour s'étendant à tout type de passeport.
 
 |
 
+Saint-Vincent-et-les-Grenadines
+
+|
+
+Dispense de visa de court séjour s'étendant à tout type de passeport.
+
+|
+
+Sainte-Lucie
+
+|
+
+Dispense de visa de court séjour s'étendant à tout type de passeport.
+
+|
+
 Iles Salomon
 
 |
@@ -724,7 +780,23 @@ Dispense de visa s'appliquant aux seuls titulaires d'un passeport diplomatique.
 
 |
 
+Timor oriental
+
+|
+
+Dispense de visa de court séjour s'étendant à tout type de passeport.
+
+|
+
 Tonga
+
+|
+
+Dispense de visa de court séjour s'étendant à tout type de passeport.
+
+|
+
+Trinité-et-Tobago
 
 |
 
@@ -776,6 +848,14 @@ Dispense de visa de court séjour s'étendant à tout type de passeport.
 
 |
 
+Vanuatu
+
+|
+
+Dispense de visa de court séjour s'étendant à tout type de passeport.
+
+|
+
 Venezuela
 
 |
@@ -808,7 +888,7 @@ b) Les réfugiés statutaires, les apatrides et les autres personnes n'ayant la 
 
 c) Les membres de l'équipage civil des avions (le personnel navigant technique et le personnel navigant commercial des compagnies aériennes) titulaires d'une licence de personnel navigant et d'un certificat de membre d'équipage en cours de validité et ressortissants d'un Etat signataire de la convention de Chicago relative à l'aviation civile internationale pour circuler dans l'aéroport et les localités avoisinantes pendant la durée des escales dans le cadre d'un déplacement de service ;
 
-d) Les membres de l'équipage civil des navires titulaires d'une pièce d'identité des gens de mer, délivrée conformément aux conventions de l'Organisation internationale du travail n° 108 de 1958 et n° 185 du 19 juin 2003 et de la convention visant à faciliter le trafic maritime international signée à Londres le 9 avril 1965, en cas de permission à terre lors d'une escale dans le cadre d'un déplacement de service pour circuler dans la zone portuaire, sur le territoire de la commune du port de relâche et sur celui des communes avoisinantes tel que défini par le haut commissaire.
+d) Les membres de l'équipage civil des navires titulaires d'une pièce d'identité des gens de mer, délivrée conformément aux conventions de l'Organisation internationale du travail n° 108 de 1958 et n° 185 du 19 juin 2003 et de la convention visant à faciliter le trafic maritime international signée à Londres le 9 avril 1965, en cas de descente à terre lors d'une escale pour circuler dans la zone portuaire, sur le territoire de la commune du port de relâche et sur celui des communes avoisinantes tel que défini par le haut commissaire.
 
 e) Les passagers des navires de croisière pour entrer et y séjourner pendant la durée de l'escale s'ils répondent à l'une des conditions suivantes :
 

@@ -14,8 +14,6 @@ Frontières aériennes
 
 |
 
-|
-
 Tahiti-Faa'a
 
 |
@@ -30,7 +28,19 @@ Frontières maritimes
 
 |
 
+Navires de plaisance
+
+|
+
+Autres navires
+
+|
+
 Papeete
+
+|
+
+Permanent
 
 |
 
@@ -46,11 +56,19 @@ Permanent
 
 |
 
+Sur dérogation
+
+|
+
 Raiatea
 
 |
 
 Permanent
+
+|
+
+Sur dérogation
 
 |
 
@@ -62,11 +80,19 @@ Permanent
 
 |
 
+Sur dérogation
+
+|
+
 Huahine
 
 |
 
 Permanent
+
+|
+
+Sur dérogation
 
 |
 
@@ -78,11 +104,19 @@ Permanent
 
 |
 
+Sur dérogation
+
+|
+
 Ua Pou
 
 |
 
 Permanent
+
+|
+
+Sur dérogation
 
 |
 
@@ -94,11 +128,19 @@ Permanent
 
 |
 
+Sur dérogation
+
+|
+
 Tubuai
 
 |
 
 Permanent
+
+|
+
+Sur dérogation
 
 |
 
@@ -110,11 +152,19 @@ Permanent
 
 |
 
+Sur dérogation
+
+|
+
 Raivavae
 
 |
 
 Permanent
+
+|
+
+Sur dérogation
 
 |
 
@@ -126,6 +176,10 @@ Permanent
 
 |
 
+Sur dérogation
+
+|
+
 Mangareva
 
 |
@@ -133,6 +187,8 @@ Mangareva
 Permanent
 
 |
+
+Sur dérogation |
 
 2. Liste des documents sur lesquels il n'est pas apposé de cachet d'entrée et de sortie :
 
