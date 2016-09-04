@@ -16,7 +16,7 @@ Abattoirs de volailles et de lagomorphes agréés
 
 1. Conformément au b du 2 du chapitre II de la section II de l'annexe III du règlement (CE) n° 853 / 2004 du 29 avril 2004, le préfet peut autoriser un abattoir de volailles et de lagomorphes, après examen des procédures du plan de maîtrise sanitaire décrites dans son dossier d'agrément, à ne pas disposer de local séparé pour l'éviscération, sous réserve que ces opérations soient séparées dans le temps et que la reprise de l'activité d'abattage se fasse après nettoyage et désinfection complets du local et des équipements.
 
-2. Conformément au c du 7 du chapitre IV de la section II de l'annexe III du règlement (CE) n° 853 / 2004 du 29 avril 2004, l'éviscération peut être totale, partielle (volailles dites " effilées ") ou différée (volailles dites " New York dressed "). Les palmipèdes gras peuvent également faire l'objet d'une éviscération après refroidissement préalable de la carcasse pour autant qu'elle soit effectuée dans les 24 heures suivant l'abattage.
+2. Conformément au c du 7 du chapitre IV de la section II de l'annexe III du règlement (CE) n° 853 / 2004 du 29 avril 2004, l'éviscération peut être totale, partielle (volailles dites " effilées ") ou différée (dans le cadre des méthodes traditionnelles définies par arrêté du ministre en charge de l'agriculture). Les palmipèdes gras peuvent également faire l'objet d'une éviscération après refroidissement préalable de la carcasse pour autant qu'elle soit effectuée dans les 24 heures suivant l'abattage.
 
 3. Conformément au 6 du chapitre IV de la section II de l'annexe III du règlement (CE) n° 853 / 2004 du 29 avril 2004, les exploitants du secteur alimentaire doivent se conformer aux prescriptions ci-dessous :
 

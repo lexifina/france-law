@@ -138,8 +138,6 @@ Abattage d'urgence en dehors d'un abattoir
 
 3. Les viscères, le sang et le cuir des animaux abattus d'urgence en dehors d'un abattoir ne peuvent en aucun cas être destinés à la consommation humaine.
 
-4. Conformément au 7 du chapitre III de la section I de l'annexe I du règlement (CE) n° 854 / 2004 du 29 avril 2004, la marque de salubrité apposée sur les carcasses des animaux abattus d'urgence en dehors d'un abattoir est décrite à l'appendice 2 de la présente annexe.
-
 APPENDICE 1 DE L'ANNEXE V
 
 MODALITÉS D'AGRÉMENT ET DE FONCTIONNEMENT
@@ -226,8 +224,6 @@ A compter du 1er janvier 2010, les numéros d'agrément figurant dans les marque
 
 -du numéro d'ordre de l'établissement (3 chiffres).
 
-Néanmoins, jusqu'au 31 décembre 2012, le nombre de chiffres du numéro d'ordre de l'établissement dans la commune imposé à trois n'est pas d'application obligatoire pour les établissements dont le numéro d'agrément a été attribué avant la publication du présent arrêté.
-
 La codification du numéro d'agrément est différente en ce qui concerne les départements d'outre-mer : codification du département (3 chiffres) suivie d'un point puis codification de la commune (2 chiffres) suivie d'un point puis numéro d'ordre de l'établissement (3 chiffres).
 
 Les fabricants des marques de salubrité doivent satisfaire aux exigences suivantes :
@@ -274,65 +270,17 @@ Cette marque de salubrité est rendue obligatoire pour tout abattoir temporaire 
 
 La mise sur le marché des produits porteurs de cette marque de salubrité est limitée au département d'implantation de l'abattoir temporaire et aux départements limitrophes.
 
-D.-Marques de salubrité nationale (figures D1 et D2) :
-
-D1 : Marque de salubrité nationale utilisée pour les abattages d'urgence d'ongulés domestiques en dehors d'un abattoir (figure D1) :
-
-La marque de salubrité apposée sur les carcasses des ongulés domestiques abattus d'urgence en dehors d'un abattoir est de forme ronde sur laquelle figurent, en caractères parfaitement lisibles, les indications suivantes :
-
--dans la partie supérieure, le numéro de codification du département (2 chiffres), précédé des lettres FR ;
-
--au centre, le numéro de codification de la commune (3 chiffres) ou, pour Paris, Lyon et Marseille, de l'arrondissement, suivi d'un point et du numéro d'ordre de l'établissement (3 chiffres) ;
-
--dans la partie inférieure, les lettres ISV, pour inspection sanitaire vétérinaire.
-
-Le diamètre du rond est de 65 mm et la taille des lettres et chiffres est de 10 mm.
-
-Cette marque est rendue obligatoire pour ce type d'abattage à compter du 1er janvier 2010.
-
-La mise sur le marché des produits porteurs de cette marque de salubrité est limitée au territoire national.
-
-D2 : Marque de salubrité nationale avec restriction de mise sur le marché pour des raisons de police sanitaire (figure D2) :
+D. - Marque de salubrité nationale avec restriction de mise sur le marché pour des raisons de police sanitaire (figure D) :
 
 Cette marque de salubrité nationale carrée à angles arrondis est utilisée dans les abattoirs d'ongulés domestiques ou dans les établissements de traitement du gibier sauvage bénéficiant d'un agrément communautaire qui sont soumis à des restrictions de mise sur le marché pour des raisons de police sanitaire. La mise sur le marché des produits porteurs de cette marque de salubrité et de tous produits qui en sont issus est limitée au territoire national.
 
 Dans cette marque de salubrité figurent, en caractères parfaitement lisibles, les indications suivantes :
 
--dans la partie supérieure, les lettres FR ;
+- dans la partie supérieure, les lettres FR ;
 
--au centre, le numéro d'agrément de l'établissement : codification du département (2 chiffres) suivie d'un point puis codification de la commune (3 chiffres) ou, pour Paris, Lyon et Marseille, de l'arrondissement, suivie d'un point puis du numéro d'ordre de l'établissement (3 chiffres).
+- au centre, le numéro d'agrément de l'établissement : codification du département (2 chiffres) suivie d'un point puis codification de la commune (3 chiffres) ou, pour Paris, Lyon et Marseille, de l'arrondissement, suivie d'un point puis du numéro d'ordre de l'établissement (3 chiffres).
 
 La taille de la marque de salubrité est de 75 mm de côté. Les lettres ont une hauteur de 8 mm et les chiffres une hauteur de 10 mm.
-
-Cette marque est rendue obligatoire pour ce type d'abattage à compter du 1er janvier 2010.
-
-E.-Marque de salubrité communautaire devant disparaître après le 31 décembre 2009 (figure E) :
-
-La marque de salubrité utilisée dans les abattoirs d'ongulés domestiques bénéficiant d'un agrément communautaire est une marque de forme ovale sur laquelle figurent, en caractères parfaitement lisibles, les indications suivantes :
-
--dans la partie supérieure, la lettre F ;
-
--au centre, les trois groupes de chiffres composant le numéro d'agrément, séparés par un point ou un tiret ;
-
--dans la partie inférieure, les lettres CEE.
-
-La longueur du grand axe de l'ovale est de 75 mm et celle du petit axe est de 55 mm. Les lettres ont une hauteur de 8 mm et les chiffres une hauteur de 10 mm.
-
-F.-Marque de salubrité des abattoirs loco-régionaux devant disparaître après le 31 décembre 2009 (figure F) :
-
-La marque de salubrité utilisée dans les abattoirs d'animaux de boucherie dérogataires bénéficiant d'un agrément loco-régional est une marque de forme ronde sur laquelle figurent, en caractères parfaitement lisibles, les indications suivantes :
-
--dans la partie supérieure, le numéro de codification du département (2 chiffres), précédé de la lettre F ;
-
--au centre le numéro de codification de la commune (3 chiffres) ou, pour Paris, Lyon et Marseille, de l'arrondissement, suivi d'un point et du numéro d'ordre de l'établissement (3 chiffres) ;
-
--dans la partie inférieure les lettres ISV, pour inspection sanitaire vétérinaire.
-
-Le diamètre du rond est de 65 mm et la taille des lettres et chiffres est de 10 mm.
-
-La mise sur le marché est limitée au territoire national.
-
-Vous pouvez consulter le tableau dans le JO n° 301 du 29 / 12 / 2009 texte numéro 29
 
 APPENDICE 3 DE L'ANNEXE V
 
@@ -424,9 +372,9 @@ Le sang d'ongulés domestiques propre à la consommation humaine doit :
 
 -être recueilli dans les meilleures conditions d'hygiène : à l'aide d'un trocart raccordé à un système fermé de collecte, ou de tout autre dispositif permettant de respecter les critères microbiologiques définis au D du présent appendice.
 
-Le sang des animaux accidentés, le sang d'égouttage ainsi que le sang des animaux dont les viandes sont reconnues impropres à la consommation humaine sont des sous-produits animaux au sens du règlement (CE) n° 1774 / 2002.
+Le sang des animaux accidentés, le sang d'égouttage ainsi que le sang des animaux dont les viandes sont reconnues impropres à la consommation humaine sont des sous-produits animaux au sens du règlement (CE) n° 1069/2009
 
-La saignée doit suivre immédiatement l'étourdissement. Elle est suivie obligatoirement d'une phase d'égouttage qui ne peut être inférieure à une durée de trois minutes. Seul le sang issu de la saignée peut être destiné à la consommation humaine.
+La saignée doit suivre immédiatement l'étourdissement. Elle est suivie obligatoirement d'une phase d'égouttage en position verticale . Seul le sang issu de la saignée peut être destiné à la consommation humaine.
 
 B.-Infrastructures nécessaires
 
@@ -494,11 +442,11 @@ dont une partie est soumise à un traitement assainissant par le froid
 
 Les carcasses ou morceaux de découpe de gros sont identifiés en abattoir par un dispositif particulier et sont revêtus de l'estampille en vigueur dans l'établissement. Ils sont accompagnés du laissez-passer conforme au modèle ci-après (établi par le vétérinaire officiel du lieu d'abattage) lors de leur transfert vers un atelier de découpe ou une unité de congélation.
 
-Si les carcasses ou morceaux de découpe de gros transitent par un atelier de découpe pour une inspection approfondie avant l'unité de congélation, le vétérinaire officiel doit s'assurer de la présence des services vétérinaires à l'arrivée dans l'atelier de découpe. Les morceaux de découpe devant être assainis par le froid sont alors dirigés vers l'unité de congélation accompagnés du même laissez-passer.
+Si les carcasses ou morceaux de découpe de gros transitent par un atelier de découpe pour une inspection approfondie avant l'unité de congélation, un agent du service vétérinaire responsable de l'inspection de l'atelier de découpe doit être averti et présent lors de cette découpe. Les morceaux de découpe devant être assainis par le froid sont alors dirigés vers l'unité de congélation accompagnés du même laissez-passer.
 
 L'unité de congélation dans laquelle est effectué l'assainissement doit enregistrer spécifiquement les raisons et la durée de la congélation de ces denrées.
 
-A la fin de la période d'assainissement, le vétérinaire officiel de l'entrepôt frigorifique renvoie le laissez-passer signé aux services vétérinaires du département où l'animal a été abattu.
+A la fin de la période d'assainissement, un agent du service vétérinaire responsable de l'inspection de l'entrepôt frigorifique renvoie le laissez-passer signé aux services vétérinaires du département où l'animal a été abattu.
 
 Dans le cadre de l'information sur la chaîne alimentaire, le vétérinaire officiel de l'abattoir s'assure de la transmission à l'exploitant du secteur alimentaire ayant envoyé l'animal concerné à l'abattoir de l'information relative à la présence d'une ou plusieurs larves de cysticerques dans la carcasse.
 

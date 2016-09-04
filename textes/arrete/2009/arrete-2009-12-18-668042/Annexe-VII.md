@@ -70,13 +70,27 @@ A l'issue de l'examen initial, la personne formée reportera ses constatations s
 
 2. L'examen initial du gibier destiné aux ateliers de traitement est obligatoire à compter de la publication du présent arrêté. Afin de garantir la mise en application des formations des personnes réalisant l'examen initial, un réseau de formateurs référents départementaux doit avoir été constitué.
 
+Section III bis : Dispositions relatives à la réalisation de l'examen initial
+
+Les agents habilités à exercer les contrôles mentionnés à l'article L. 231-1 du code rural et de la pêche maritime qui, dans l'exercice de leurs fonctions, constatent le non-respect des prescriptions relatives à l'examen initial adressent, sans préjudice des suites pénales et administratives, un rapport à la fédération départementale des chasseurs dont dépend la personne ayant réalisé l'examen initial. La fédération départementale des chasseurs en informe alors l'intéressé ainsi que la fédération nationale des chasseurs. Les anomalies pouvant faire l'objet d'un tel rapport sont, de façon non exclusive :
+
+- mise sur le marché de gibier sans fiche d'accompagnement alors que celle-ci est obligatoire ;
+
+- fiche d'accompagnement mentionnant des informations fausses ou incomplètes ;
+
+- fiche d'accompagnement ne mentionnant pas une anomalie visible ;
+
+- mise sur le marché de gibier malgré un examen initial défavorable à une mise sur le marché.
+
+En cas d'anomalies graves ou répétées concernant la réalisation de l'examen initial, la fédération nationale des chasseurs peut, après avoir mis l'intéressé en mesure de présenter ses observations, retirer la personne concernée de la liste des personnes formées à l'examen initial ou de la liste des formateurs référents. La personne faisant l'objet de cette décision ne peut alors plus pratiquer d'examen initial, ni le cas échéant de formation à l'examen initial. Elle est tenue de rendre son attestation à la fédération qui l'a délivrée. Après avoir notifié sa décision à l'intéressé, la fédération nationale des chasseurs en informe les fédérations départementales et les directions départementales de la protection des populations concernées. La personne ayant fait l'objet d'une mesure de délistement ne peut être ré-inscrite qu'après avoir suivi une nouvelle formation, y compris dans le cas des formateurs référents initialement inscrits sur titre.
+
 Section IV
 
 Dispositions relatives à l'inspection du gibier sauvage
 
-Les recherches visant à détecter la présence de Trichinella prévues au 3 de l'article 2 du chapitre II du règlement (CE) n° 2075/2005 du 5 décembre 2005 sont effectuées dans un laboratoire agréé dont la liste figure dans une instruction du ministère chargé de l'agriculture et publiée au Bulletin officiel. Les modalités de prélèvement et les méthodes d'analyse officielles sont décrites dans le règlement (CE) n° 2075/2005 et par arrêté du ministre chargé de l'agriculture. Dans le cadre de la commercialisation via un établissement de traitement du gibier sauvage, le prélèvement est réalisé sous la responsabilité des services vétérinaires, puis est acheminé jusqu'à un laboratoire agréé pour la recherche de larves de trichine accompagné de l'appendice 4 dûment rempli. Les carcasses testées sont consignées dans l'établissement de traitement jusqu'à l'obtention des résultats.
+Les recherches visant à détecter la présence de Trichinella prévues au 3 de l'article 2 du chapitre II du règlement (CE) n° 2075/2005 du 5 décembre 2005 sont effectuées dans un laboratoire agréé dont la liste figure dans une instruction du ministère chargé de l'agriculture et publiée au Bulletin officiel. Les modalités de prélèvement et les méthodes d'analyse officielles sont décrites dans le règlement (CE) n° 2075/2005 et par instruction du ministre chargé de l'agriculture. Dans le cadre de la commercialisation via un établissement de traitement du gibier sauvage, le prélèvement est réalisé sous la responsabilité des services vétérinaires, puis est acheminé jusqu'à un laboratoire agréé pour la recherche de larves de trichine accompagné de l'appendice 4 dûment rempli. Les carcasses testées sont consignées dans l'établissement de traitement jusqu'à l'obtention des résultats.
 
-Le laboratoire doit informer sans délai l'autorité compétente du lieu de prélèvement en cas de résultat non négatif. Les modalités de suivi et de gestion d'un cas non négatif sont précisées dans le règlement (CE) n° 2075/2005 du 5 décembre 2005 et par arrêté du ministre chargé de l'agriculture.
+Le laboratoire doit informer sans délai l'autorité compétente du lieu de prélèvement en cas de résultat non négatif. Les modalités de suivi et de gestion d'un cas non négatif sont précisées dans le règlement (CE) n° 2075/2005 du 5 décembre 2005 et par instruction du ministre chargé de l'agriculture.
 
 APPENDICE 1 DE L'ANNEXE VII : CAHIER DES CHARGES RELATIF À LA FORMATION DES PERSONNES À L'EXAMEN INITIAL DU GIBIER SAUVAGE
 
@@ -124,7 +138,7 @@ Ces personnes doivent, d'une part, posséder des connaissances en matière de gi
 
 b) Personnes dispensées de stage pouvant devenir formateur référent de part leurs qualifications.
 
-Certaines personnes peuvent être considérées comme formateurs référents sans avoir préalablement suivi le stage. Il s'agit des corps de métiers suivants : vétérinaire, technicien des services vétérinaires, personne bénéficiant du certificat de spécialisation de technicien cynégétique conformément aux dispositions de l'arrêté ministériel du 8 août 2005 portant création et fixant les conditions de délivrance du certificat de spécialisation agricole option technicien cynégétique . Ces personnes doivent se faire référencer auprès de la Fédération nationale des chasseurs en adressant copie de leur diplôme.
+Certaines personnes peuvent être considérées comme formateurs référents sans avoir préalablement suivi le stage. Il s'agit des corps de métiers suivants : vétérinaire, technicien des services vétérinaires, personne bénéficiant du certificat de spécialisation de technicien cynégétique conformément aux dispositions de l'arrêté ministériel du 8 août 2005 portant création et fixant les conditions de délivrance du certificat de spécialisation agricole option technicien cynégétique . Ces personnes doivent se faire référencer auprès de la Fédération nationale des chasseurs en adressant copie de leur diplôme ou arrêté de nomination.
 
 Cette liste est évolutive. Tout diplôme pouvant permettre de prétendre à la dispense de formation sera considéré par la direction générale de l'alimentation au cas par cas et pourra venir allonger cette liste. Chaque modification de la liste fera l'objet d'une mise à jour du présent cahier des charges.
 
@@ -278,7 +292,7 @@ Aspect anormal des organes (pièces anatomiques fraîches ou décongelées) :
 
 Réalisation d'une éviscération de sanglier selon les règles d'hygiène sanitaire.
 
-Réalisation d'un prélèvement de langue (ou des piliers du diaphragme) en vue d'une analyse de recherche de larves de trichine et remplissage de la fiche de prélèvement (appendice 1 de l'annexe III du présent arrêté).
+Réalisation d'un prélèvement de langue (ou diaphragme ou membre antérieur) en vue d'une analyse de recherche de larves de trichine et remplissage de la fiche de prélèvement (appendice 1 de l'annexe III du présent arrêté).
 
 Conduites à tenir lors d'anomalies constatées sur la carcasse ou les organes (selon le circuit de commercialisation : atelier de traitement ou commerce de détail).
 

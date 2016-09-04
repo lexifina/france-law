@@ -1,12 +1,12 @@
 # Article Annexe I
 
-DISPOSITIONS APPLICABLES À L'APPROVISIONNEMENT DIRECT PAR LE PRODUCTEUR DU CONSOMMATEUR FINAL OU DU COMMERCE DE DÉTAIL LOCAL FOURNISSANT DIRECTEMENT LE CONSOMMATEUR FINAL EN PETITES QUANTITÉS DE PRODUITS DE LA PÊCHE
+DISPOSITIONS APPLICABLES À L'APPROVISIONNEMENT DIRECT PAR LE PRODUCTEUR DU CONSOMMATEUR FINAL OU DU COMMERCE DE DÉTAIL LOCAL FOURNISSANT DIRECTEMENT LE CONSOMMATEUR FINAL EN PETITES QUANTITÉS DE PRODUITS DE LA PÊCHE VISÉES À LA SECTION VIII DE L'ANNEXE III DU RÈGLEMENT (CE) N° 853/2004 ET TELS QUE DÉFINIS DANS CE TEXTE
 
 1. Conformément au c du 2 de l'article 1er du règlement (CE) n° 852 / 2004 et au c du 3 de l'article 1er du règlement (CE) n° 853 / 2004 et sans préjudice des dispositions prévues aux articles R. 231-13 à R. 231-15 du code rural et de la pêche maritime, l'approvisionnement direct par le producteur du consommateur final ou du commerce de détail local fournissant directement le consommateur final en petites quantités de produits primaires de la pêche est soumis aux conditions définies ci-après :
 
 a) Les quantités maximales pouvant être fournies par le producteur ne dépassent pas :
 
-100 kg de produits par débarquement et par navire de pêche pour les produits de la pêche capturés dans le milieu naturel, hors coquillages ;
+100 kg de produits par débarquement et par navire de pêche pour les produits de la pêche capturés dans le milieu naturel ;
 
 100 kg par jour pour les produits d'aquaculture.
 
