@@ -1,0 +1,9 @@
+# Réponse à la question n° 96630
+
+- Question : [96630](96630.md) — Question n° 96630 — pôle botanique méditerranéen; création; perspectives
+
+## Réponse
+
+*JO du 2016-09-06*
+
+Confiée au ministère de l'agriculture, de l'agroalimentaire et de la forêt (MAAF) et plus particulièrement depuis 1927, à l'institut national de la recherche agronomique (INRA), la question du devenir de la « villa Thuret », unité de recherche expérimentale située sur le Cap d'Antibes (Alpes-Maritimes), se pose depuis le transfert des principaux laboratoires de l'INRA vers Sophia-Antipolis en 2004. Après examen de différentes alternatives et souhaitant favoriser un projet d'intérêt général à même de préserver l'intégrité du site tout en respectant l'esprit de la donation, le MAAF, la communauté d'agglomération de Sophia-Antipolis (CASA), la mairie d'Antibes-Juan-les-Pins et l'INRA ont signé un protocole d'accord en 2012, traduisant l'engagement des parties dans un projet de reconversion du site. Toutefois, des contraintes juridiques liées à la transmission de ce site par legs au 19ème siècle, et des difficultés budgétaires liées au co-financement de ce projet par l'État et les collectivités locales, ont conduit, de prime abord, au constat d'une absence de solutions pérennes sur ce projet. Pour le MAAF, l'enjeu demeure de faire de la « Villa Thuret » une vitrine du paysage méditerranéen, en créant un centre de culture scientifique, d'enseignement, de formation et d'expertise dédié à la biodiversité en milieu méditerranéen et au développement durable, et ce en collaboration étroite avec les collectivités locales. Dès lors, afin de remobiliser l'ensemble des partenaires autour de ce projet d'intérêt général et de mettre en œuvre les premières mesures utiles à celui-ci, un comité de pilotage se réunira en septembre prochain. Le MAAF assurera l'organisation de cette rencontre avec l'ensemble des acteurs associés à ce projet.
