@@ -1,0 +1,9 @@
+# Réponse à la question n° 92042
+
+- Question : [92042](92042.md) — Question n° 92042 — gestion; communes; compétences; perspectives
+
+## Réponse
+
+*JO du 2016-09-06*
+
+La mise en œuvre d'une réglementation se fait selon différents axes : sensibilisation, information, incitation mais doit également comporter un volet répressif et il est important de s'assurer que ce dernier est effectif. L'article L.512-2 du code de la sécurité intérieure prévoit qu'un établissement public de coopération intercommunale (EPCI) à fiscalité propre peut recruter, dans certaines conditions, un ou plusieurs agents de police municipale, en vue de les mettre à disposition de l'ensemble des communes intéressées. Les agents de police intercommunaux entrent donc dans la catégorie des agents de police municipaux et sont donc compétents en matière de déchets. Ils sont placés sous l'autorité du maire de la commune qui fait appel à leur service et qui a conservé son pouvoir de police. L'EPCI est alors autorité de gestion administrative des agents de police municipale intercommunaux tandis que le maire demeure leur autorité d'emploi fonctionnelle. La police municipale dispose d'un véritable levier répressif puisqu'il lui est possible de dresser un procès-verbal selon la nature du déchet abandonné et du contrevenant. Les articles R.635-8 et R.632-1 du code pénal ainsi que l'article R541-76 du code de l'environnement sont plutôt à destination des ménages et les articles R.541-78 à R.541-85 du code de l'environnement à destination des entreprises. Toutes ces dispositions, notamment leur description et leurs différentes modalités d'application sont décrites de manière précise dans le « guide des sanctions administratives et des constats pénaux à l'usage des communes » élaboré par la direction régionale et interdépartementale de l'environnement et de l'énergie (DRIEE) d'Île-de-France.
