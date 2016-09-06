@@ -1,0 +1,9 @@
+# Réponse à la question n° 54343
+
+- Question : [54343](54343.md) — Question n° 54343 — visite médicale obligatoire; perspectives
+
+## Réponse
+
+*JO du 2016-09-06*
+
+La conduite d'un véhicule ou d'un ensemble de véhicules du groupe lourd à titre professionnel est une activité particulièrement exigeante qui fait peser sur les conducteurs concernés une responsabilité particulière en matière de sécurité routière. C'est la raison pour laquelle ces derniers sont soumis à un certain nombre d'obligations préalables à l'exercice de leur activité. Parmi ces obligations, le code de la route prévoit un contrôle médical périodique obligatoire. Pour les conducteurs des véhicules qui relèvent des catégories BE, Cl, C1E, C, CE, Dl, D1E, D et DE, ce contrôle médical doit s'effectuer tous les cinq ans avant 60 ans, puis, tous les deux ans à compter de 60 ans pour les titulaires des catégories BE, Cl, C1E, C, CE et tous les ans, à partir de 60 ans, pour les titulaires des catégories Dl, D1E, D et DE. Enfin, ce contrôle médical intervient tous les ans à partir de 76 ans, quelle que soit la catégorie de permis dont le renouvellement est sollicité. A ce contrôle médical obligatoire prévu par le code de la route, s'ajoute la visite médicale périodique prévue par le code du travail. Enfin, les conducteurs des véhicules relevant du groupe lourd sont tenus de suivre tous les cinq ans une formation continue obligatoire à la sécurité (FCO) pour pouvoir continuer à exercer leur activité. La fréquence des visites médicales prévues par le code de la route permet un contrôle régulier de l'aptitude à la conduite tout en tenant compte de la nature de l'activité professionnelle exercée. Ce dispositif fonctionne de manière satisfaisante et il n'est donc pas prévu de modifier la fréquence des visites médicales.
