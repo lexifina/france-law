@@ -1,0 +1,9 @@
+# Réponse à la question n° 89341
+
+- Question : [89341](89341.md) — Question n° 89341 — conférence sur les changements climatiques; financement
+
+## Réponse
+
+*JO du 2016-09-06*
+
+Le ministre des affaires étrangères et du développement international avait fixé au secrétaire général de la COP21 un objectif ambitieux de 20 % des dépenses pour l'organisation de la conférence financés par le mécénat. Près d'une soixantaine d'acteurs publics et privés ont apporté leur concours à l'organisation de la COP21. Le recours au mécénat a été un succès puisque des contributions évaluées à un coût commercial de 26,9 M€ ont été recueillies (la majorité ayant été apportées sous forme de contributions en nature), soit 15 % des dépenses totales prévues sur le programme 341 "Conférence Paris Climat 2015" dédié à l'organisation de la COP21. Ce résultat est comparable en pourcentage à celui obtenu par les organisateurs de la Conférence de Copenhague, mais nettement supérieur en montant. L'appel au mécénat a poursuivi un triple objectif : - alléger l'important effort financier consenti par l'État, étant entendu que le budget du programme 341 avait été fixé de façon à couvrir l'intégralité du coût de la conférence hors dépenses de sécurité ; - souligner le rôle des entreprises dans la recherche des solutions pour lutter contre les dérèglements climatiques ; - bâtir une conférence aussi éco-responsable que possible, notamment en limitant son empreinte carbone et en bénéficiant des meilleures compétences et technologies disponibles. Cet objectif a été atteint, notamment sur le plan financier. L'engagement du gouvernement de respecter strictement le budget imparti qui s'était traduit par des directives claires en amont et une vigilance durant l'exécution, sera tenu et un reliquat de l'ordre de 10 % du budget global de 187 M€ ouvert sur les exercices 2015 et 2016 pourra même être restitué à l'issue de l'exercice 2016.
