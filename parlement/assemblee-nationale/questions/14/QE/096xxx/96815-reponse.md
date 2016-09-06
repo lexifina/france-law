@@ -1,0 +1,9 @@
+# Réponse à la question n° 96815
+
+- Question : [96815](96815.md) — Question n° 96815 — fleuve Maroni; perspectives
+
+## Réponse
+
+*JO du 2016-09-06*
+
+Lors de la réunion de mai 2012 du Conseil du Fleuve, instance de coopération transfrontalière créée en 2009, la direction de l'environnement, de l'aménagement et du logement (DEAL) de Guyane a informé la partie surinamaise de son projet d'aménagement des sauts sur le fleuve Maroni. S'en est suivie, en septembre 2012, à la demande des Surinamais, une réunion de présentation de l'ensemble du projet. La DEAL a ensuite transmis fin 2013 à l'Institut national pour l'environnement et le développement (NIMOS) du Suriname un dossier complet sur le projet et répondu aux demandes d'informations complémentaires formulées par le NIMOS. Le projet a depuis été discuté avec nos partenaires surinamais au cours de la quasi-totalité des réunions du Conseil du Fleuve. Il a été décidé, à la demande de la France, de créer un groupe de travail technique composé d'experts de la DEAL et du NIMOS. Notre ambassade à Paramaribo a proposé en 2014 et en 2015 à plusieurs reprises la réunion de ce groupe de travail. Les échéances électorales au Suriname en 2015, avec les élections générales de mai, n'ont pas facilité l'organisation d'une première réunion. Notre ambassade a saisi à nouveau, notamment en juin 2016 par note verbale les autorités surinamaises pour proposer une réunion du groupe de travail sur l'aménagement des sauts dans le courant de l'année 2016. Le directeur de l'environnement, de l'aménagement et du logement a par ailleurs adressé en mars 2016 un courrier au directeur du NIMOS à ce sujet. L'ambassade de France suit de près ce dossier, qui revêt une importance particulière au regard de la sécurité des usagers et du développement économique de nos territoires.
