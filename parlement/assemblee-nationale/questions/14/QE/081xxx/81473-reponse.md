@@ -1,0 +1,9 @@
+# Réponse à la question n° 81473
+
+- Question : [81473](81473.md) — Question n° 81473 — infractions; preuves; recueil; difficultés
+
+## Réponse
+
+*JO du 2016-09-06*
+
+Le cyberespace pose des difficultés pratiques et juridiques uniques dont le gouvernement a pleinement conscience. Ainsi et conformément aux préconisations du rapport ROBERT sur la cybercriminalité du 30 juin 2014, la loi du 13 novembre 2014 est venue renforcer les moyens procéduraux en ce domaine, en modifiant le régime des perquisitions informatiques dans le but de faciliter leur mise en œuvre, en élargissant le cadre d'utilisation de la cyber infiltration, en élargissant aux enquêteurs et non plus uniquement aux magistrats la possibilité de requérir les personnes qualifiées en matière de déchiffrement de données cryptées, et en étendant le dispositif permettant de procéder à des captations de données. Ces efforts se poursuivent dans le cadre de la loi du 3 Juin 2016 renforçant la lutte contre le crime organisé, le terrorisme et leur financement, et améliorant l'efficacité et les garanties de la procédure pénale, notamment par l'instauration d'un nouveau critère de compétence, tiré du domicile de la victime d'une cyber-infraction, et en améliorant à nouveau la technique de la captation de données (extension aux données stockées). Cette dernière technique est à même de résoudre une partie des difficultés rencontrées lorsque les données sont stockées à l'étranger (« cloud computing »), en complément de l'optimisation de la coopération internationale. Sur ce point, la direction des affaires criminelles et des grâces a élaboré un guide méthodologique à destination des praticiens pour faciliter la rédaction des demandes d'entraides en matière pénale, et mène une réflexion sur l'amélioration de la Convention du Conseil de l'Europ dite de Budapest dédiée à la lutte contre la cybercriminalité.
