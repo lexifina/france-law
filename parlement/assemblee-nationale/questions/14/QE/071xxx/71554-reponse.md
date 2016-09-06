@@ -1,0 +1,9 @@
+# Réponse à la question n° 71554
+
+- Question : [71554](71554.md) — Question n° 71554 — aide juridictionnelle; notification
+
+## Réponse
+
+*JO du 2016-09-06*
+
+L'article 38 du décret du 19 décembre 1991 instaure le principe de l'effet interruptif d'une demande d'aide juridictionnelle sur les délais prévus pour former une action en justice : lorsque la demande d'aide juridictionnelle est adressée au bureau d'aide juridictionnelle avant le délai imparti pour intenter cette action en justice, ce délai est interrompu et un nouveau délai de même durée commencera à courir à l'issue de la procédure de demande d'aide juridictionnelle. Ainsi, dans le cadre d'un recours contre une autorisation d'urbanisme, le demandeur à l'aide juridictionnelle pourra se prévaloir d'un nouveau délai de deux mois à compter de la fin de la procédure de demande d'aide juridictionnelle. Les articles 50 à 52 du décret du 19 décembre 1991 définissent de manière limitative les personnes à qui les décisions des bureaux d'aide juridictionnelle doivent être notifiées ou peuvent être communiquées. Le bénéficiaire d'une autorisation d'urbanisme susceptible de faire l'objet d'une action en justice n'y figure pas. S'il n'est pas prévu d'intégrer dans le décret une obligation de notification, par le requérant, de sa demande d'aide juridictionnelle à l'endroit du bénéficiaire du permis de construire qu'il envisage de contester, le ministère de la justice veille à ce que le délai de traitement des demandes d'aide juridictionnelle ne dépasse pas la valeur cible de soixante jours, et ce, afin notamment d'encadrer les délais réels dans lesquels un recours contentieux peut être exercer. La proportion de bureaux d'aide juridictionnelle dont le délai moyen de traitement des demandes d'aide juridictionnelle est supérieur à deux mois constitue en effet un indicateur de performance. Pour l'année 2015, le délai moyen de traitement des demandes d'aide juridictionnelle était de 42 jours.
