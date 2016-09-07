@@ -1,0 +1,11 @@
+# Article 1er
+
+Les partenaires sociaux de l'hôtellerie de plein air entendent favoriser la participation des salariés de la branche ainsi que, conformément au référentiel du (des) CQP de la branche, des membres de la CPNEFP, aux jurys d'examen ou de validation des acquis de l'expérience, en particulier pour le(s) CQP de la branche.
+
+Pour cela, ils souhaitent mobiliser leur contribution conventionnelle pour prendre en charge les frais afférents lorsque le jury intervient pour délivrer une certification inscrite au RNCP ;
+
+Ces frais couvrent les frais de transport, d'hébergement et de restauration ainsi que la rémunération du jury salarié et les cotisations sociales obligatoires qui s'y rattachent.
+
+Les partenaires sociaux prévoient une prise en charge de ces frais par l'OPCA, selon les modalités et les critères qui seront proposés par la section professionnelle paritaire au CA de l'OPCA.
+
+Ces frais seront financés sur la base de justificatifs comprenant la convocation au jury d'examen, les justificatifs des frais demandés en remboursement et l'attestation de présence signée par les membres du jury.
