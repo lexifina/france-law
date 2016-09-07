@@ -1,6 +1,6 @@
 # Article Annexe
 
-a) Les modèles de registre d'armurerie introduits par l'arrêté du 14 août 1995 conservent leur validité pour une durée de trois ans à compter du 6 septembre 2013 à la condition que l'utilisateur inscrive la nouvelle catégorie de classement de l'arme face aux armes déjà enregistrées ou qu'il enregistrera ;
+a) Les modèles de registre d'armurerie introduits par l'arrêté du 14 août 1995 conservent leur validité pour une durée de six ans à compter du 6 septembre 2013 à la condition que l'utilisateur inscrive la nouvelle catégorie de classement de l'arme face aux armes déjà enregistrées ou qu'il enregistrera ;
 
 b) Les modèles de demande et de titre d'acquisition et de détention entrant en vigueur à compter du 6 septembre 2013 sont les suivants :
 
