@@ -2,7 +2,7 @@
 
 INFORMATIONS REQUISES POUR L'INSCRIPTION AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
 
-Intitulé : agent(e) de restauration.
+Intitulé : agent (e) de restauration.
 
 Niveau : V.
 
@@ -10,57 +10,51 @@ Code NSF : 334 t.
 
 Résumé du référentiel d'emploi
 
-L'agent(e) de restauration effectue une prestation de service concourant à la satisfaction des clients notamment aux différents postes de travail en cuisine, au self-service, à la caisse et à la plonge.
+Afin de contribuer à la qualité du service et à l'accueil du client au sein de l'entreprise, l'agent (e) de restauration effectue la réception des matières premières et réalise les premiers traitements des produits alimentaires.
 
-Les missions qui lui sont confiées sont :
+Il (elle) assemble et accommode diverses gammes de produits. Il (elle) dresse, en les valorisant, des hors-d'œuvre, des desserts et des préparations de type snacking. L'agent (e) de restauration assure l'agencement de la salle à manger, l'approvisionnement des différents comptoirs et le service des plats chauds.
 
--il (elle) prépare des mets simples froids et chauds (hors-d'œuvre, entrées chaudes, salades, desserts, glaces) et réalise des cuissons simples en se conformant à des normes de réalisation précises (doses, composition, cuisson, présentation) ;
+Dans le respect des consignes de l'entreprise et en appliquant les règles d'hygiène et de sécurité alimentaires conformément aux principes de la démarche HACCP, il (elle) prépare des mets simples froids et chauds (hors-d'œuvre, entrées chaudes, desserts, préparations de type snacking) et réalise des cuissons en se conformant à des normes de réalisation (quantité, composition, présentation).
 
--il (elle) assure la distribution des productions culinaires aux différents linéaires et comptoirs froids et chauds du self-service en contact avec la clientèle (entrées, plats chauds, desserts, grillades simples et fritures) et peut encaisser les commandes ;
+L'agent (e) de restauration assure la distribution des productions culinaires aux différents linéaires et comptoirs froids et chauds du self-service. Il (elle) remet en température des préparations culinaires élaborées à l'avance (PCEA) et effectue des cuissons au gril et à la friteuse.
 
--il (elle) effectue la plonge vaisselle et la plonge batterie de cuisine et réalise le nettoyage des différents locaux et postes de travail en cuisine et self-service ;
+Il (elle) enregistre le contenu des plateaux et des préparations de type snacking et procède à l'encaissement. Il (elle) effectue le lavage de la batterie de cuisine et de la vaisselle et le nettoyage des différents postes.
 
--il (elle) applique les règles d'hygiène de sécurité alimentaires du plan de maîtrise sanitaire (PMS), les consignes de santé et de sécurité au travail et les recommandations en matière de développement durable et de responsabilité sociétale en entreprise (RSE).
+L'agent (e) de restauration travaille en équipe sous la responsabilité d'un chef de production ou d'un chef de cuisine. Il (elle) est également en contact direct avec la clientèle lors du service.
 
-Cet emploi s'exerce, aussi bien en restauration commerciale que sociale, au sein d'établissements en cafétéria, restaurant d'entreprise, collectivité (scolaire et hospitalier), restauration rapide, restaurants à thèmes, chaînes hôtelières, petite restauration traditionnelle, brasserie.
+Cet emploi s'exerce aussi bien en restauration commerciale que sociale : en cafétéria, en restaurant d'entreprise, en collectivité, en restauration rapide, en restaurant à thème, dans des chaînes hôtelières, en petite restauration traditionnelle et en brasserie.
 
-Il est en relation avec différents intervenants, responsable hiérarchique et équipes de travail, et en contact direct avec les clients. Il peut s'effectuer en environnement bruyant, en zone à température basse et/ ou élevée. Il peut être soumis à des périodes d'activité soutenue (coup de feu) et de saisonnalité ; l'amplitude horaire peut être importante.
+Le niveau sonore de l'environnement de travail peut être élevé. L'agent (e) de restauration est confronté (e) à des températures basses ou élevées. Il (elle) peut être soumis (e) à des périodes d'activité soutenue et de saisonnalité. L'amplitude horaire peut être importante.
 
-La nature, la fréquence et la durée des tâches peuvent varier d'un établissement à l'autre et sont déterminées à l'avance par la hiérarchie. Dans une même journée, un salarié peut occuper successivement plusieurs postes ; il peut aussi être régulièrement affecté aux mêmes tâches.
+La nature, la fréquence et la durée des tâches de l'agent (e) de restauration sont déterminées à l'avance par la hiérarchie et peuvent varier d'un établissement à l'autre. Un (e) agent (e) de restauration peut occuper successivement plusieurs postes dans une même journée ou être affecté (e) aux mêmes tâches.
 
-L'emploi implique la station debout prolongée, de fréquentes allées et venues ainsi que la manutention de charges. Il peut s'exercer en horaires décalés, fractionnés, les fins de semaine et jours fériés, de nuit (tôt le matin/ tard le soir).
+L'emploi implique la station debout prolongée, de fréquentes allées et venues ainsi que la manutention de charges. Il peut s'exercer en horaires décalés, fractionnés, les week-ends et jours fériés, en soirée et parfois de nuit.
 
-Capacités attestées et descriptif
+L'agent (e) de restauration respecte les consignes de santé et de sécurité au travail ainsi que les préconisations en matière de responsabilité sociétale en entreprise (RSE). Il (elle) porte une tenue professionnelle représentative de la profession ou de l'établissement et conforme aux règles d'hygiène et de sécurité.
 
-des composantes de la certification
+Capacités attestées et descriptif des composantes de la certification
 
-1. Préparer en assemblage des hors-d'œuvre et des desserts
+1. Préparer en assemblage des hors-d'œuvre, des desserts et des préparations de type snacking
 
 Préparer les matières premières alimentaires destinées à la transformation et à l'assemblage.
 
-Réaliser l'assemblage et le dressage des hors-d'œuvre et des desserts.
+Réaliser l'assemblage et le dressage des hors-d'œuvre, des desserts et des préparations de type snacking.
 
-2. Réaliser des grillades et des sautés minute devant le client et remettre en température des préparations culinaires élaborées à l'avance (PCEA)
+2. Réaliser des grillades et remettre en température des préparations culinaires élaborées à l'avance (PCEA)
 
-Effectuer la remise en température de préparations culinaires élaborées à l'avance (PCEA).
+Effectuer la remise en température des préparations culinaires élaborées à l'avance (PCEA).
 
-Assurer pendant le service une production simplifiée au poste grillade et des sautés minute devant le client.
+Assurer une production culinaire au poste grillade.
 
-3. Accueillir les clients, approvisionner
-
-et distribuer les plats en restauration self-service
+3. Accueillir les clients et distribuer les plats en restauration self-service
 
 Effectuer la mise en place de la salle à manger du self-service.
 
 Réaliser la mise en place de la distribution et assurer le service aux postes froids et chauds.
 
-Enregistrer (typer) le contenu des plateaux repas commandés et effectuer l'encaissement.
+Enregistrer le contenu des plateaux et des préparations de type snacking et effectuer l'encaissement.
 
-4. Réaliser le lavage de la batterie de cuisine
-
-et le lavage en machine de la vaisselle
-
-Effectuer le débarrassage des plateaux repas en salle de self-service en respectant l'intimité des clients.
+4. Réaliser le nettoyage de la batterie de cuisine et le lavage en machine de la vaisselle
 
 Assurer le nettoyage de la batterie de cuisine.
 
@@ -68,13 +62,11 @@ Assurer la conduite du lavage en machine de la vaisselle.
 
 Compétences transversales de l'emploi
 
-Appliquer les consignes du plan de maîtrise sanitaire (PMS).
-
 Travailler en équipe afin d'optimiser les prestations de service et satisfaire les clients.
 
-Secteurs d'activités ou types d'emploi
+Appliquer les consignes du plan de maîtrise sanitaire (PMS).
 
-accessibles par le détenteur du titre
+Secteurs d'activités et types d'emplois accessibles par le détenteur du titre
 
 Les différents secteurs d'activités concernés sont principalement :
 
@@ -84,21 +76,21 @@ Les différents secteurs d'activités concernés sont principalement :
 
 Les types d'emplois accessibles sont les suivants :
 
--agent(e) de restauration ;
+-agent (e) de restauration ;
 
--employé (e) de restauration collective/ employé (e) de cantine/ commis (e) de self ;
+-employé (e) de restauration collective ;
 
--employé (e) de cafétéria/ employé (e) de snack-bar ;
+-employé (e) de cafétéria ;
 
--employé (e) polyvalent (e) de restaurant/ employé (e) polyvalent (e) de restauration ;
+-employé (e) polyvalent (e) de restaurant ;
 
--équipier (e) polyvalent (e) de restauration rapide/ agent (e) de restauration rapide ;
+-équipier (e) polyvalent (e) de restauration rapide ;
 
--préparateur (rice)-vendeur (se) en point chaud/ de plats à emporter/ de sandwichs.
+-préparateur (trice)-vendeur (se) en point chaud.
 
 Code ROME :
 
-G1603-Personnel polyvalent en restauration.
+G 1603-Personnel polyvalent en restauration.
 
 Réglementation de l'activité :
 
