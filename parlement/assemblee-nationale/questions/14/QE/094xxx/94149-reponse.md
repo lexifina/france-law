@@ -1,0 +1,9 @@
+# Réponse à la question n° 94149
+
+- Question : [94149](94149.md) — Question n° 94149 — agendas d'accessibilité programmée; mise en oeuvre
+
+## Réponse
+
+*JO du 2016-09-13*
+
+Le dispositif des agendas d'accessibilité programmée (Ad'AP) a été conçu pour les propriétaires ou exploitants d'établissements recevant du public (ERP) qui ne pouvaient pas respecter l'échéance du 1er janvier 2015, définie dix ans plus tôt par la loi du 11 février 2005 pour l'égalité des droits et des chances, la participation et la citoyenneté des personnes handicapées, pour la mise en accessibilté des ERP. Conscient de la délicate équation à résoudre entre le volume des travaux et aménagements à réaliser pour atteindre l'accessibilité réglementaire, un temps limité, et le coût à absorber pour des gestionnaires ou exploitants, parfois en difficulté financière, le Gouvernement a souhaité un dispositif suffisamment souple et adaptable aux différents profils d'ERP et de gestionnaires. C'est pourquoi, un Ad'AP permet de combiner les travaux et aménagements budgétés à réaliser avec la capacité financière du gestionnaire. Ces deux éléments permettent d'ajuster la durée afin d'aboutir à un équilibre. Toute demande de durée allongée pour des raisons financières et budgétaires est acceptable si elle est justifiée et avérée. Par ailleurs, le dispositif a également prévu un principe de prorogation du délai d'exécution. En cours d'Ad'AP, si le gestionnaire a, pour des raisons justifiées, besoin d'un délai supplémentaire pour achever son Ad'AP, le préfet peut le lui accorder. Ainsi, tout en limitant à trois ans la durée d'un Ad'AP pour la mise en accessibilité des établissements, celle-ci, selon la situation patrimoniale ou financière du pétitionnaire, peut être allongée dans le temps, jusqu'à neuf ans, afin d'obtenir le maximum d'accessibilité au final.
