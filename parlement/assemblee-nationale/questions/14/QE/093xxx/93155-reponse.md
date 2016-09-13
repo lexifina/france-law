@@ -1,0 +1,9 @@
+# Réponse à la question n° 93155
+
+- Question : [93155](93155.md) — Question n° 93155 — réglementation
+
+## Réponse
+
+*JO du 2016-09-13*
+
+Le gouvernement français veille particulièrement à ce que la France puisse procéder, dans le strict respect de ses engagements internationaux, à l'exécution des arrêts de la Cour européenne des droits de l'homme. Ces décisions européennes marquent la recherche d'un équilibre entre le principe d'ordre public de prohibition des conventions de gestation pour le compte d'autrui qui demeure, et auquel le gouvernement français est particulièrement attaché, et la nécessaire protection qu'il convient de garantir à l'enfant au nom de son intérêt supérieur au sens de l'article 3, paragraphe 1, de la Convention de New York du 26 janvier 1990, relative aux droits de l'enfant, et du droit au respect de sa vie privée au sens de l'article 8 de la Convention européenne de sauvegarde des droits de l'homme et des libertés fondamentales. Ces décisions confirment donc la nécessité impérieuse de distinguer le sort des parents ayant eu recours à un contrat illicite de celui des enfants et ainsi de garantir à ces derniers, sur le territoire national, le droit au respect de leur identité, dont la filiation et la nationalité française constituent un aspect essentiel. A cet égard, lorsqu'il est probant au sens de l'article 47 du code civil français et traduit l'existence d'un lien de filiation avec une personne française, l'acte de naissance étranger suffit à l'obtention de documents d'identité français, carte d'identité ou passeport, que l'enfant soit ou non issu d'une convention de gestation pour autrui et qu'un certificat de nationalité française ait été ou non délivré aux intéressés. Ces règles ont été rappelées par le ministère de la justice, à l'occasion de contacts avec le ministère de l'intérieur, afin que la situation juridique de ces enfants soit clarifiée et que le traitement des demandes puisse être accéléré.
