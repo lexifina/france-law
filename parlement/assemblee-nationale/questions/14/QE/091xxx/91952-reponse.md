@@ -1,0 +1,9 @@
+# Réponse à la question n° 91952
+
+- Question : [91952](91952.md) — Question n° 91952 — installation; réglementation
+
+## Réponse
+
+*JO du 2016-09-13*
+
+La loi no 2010-788 du 12 juillet 2010 portant engagement national pour l'environnement a en effet révisé le statut des préenseignes dérogatoires et leur a accordé un délai de cinq ans, soit depuis le 13 juillet 2015, pour se conformer à la nouvelle réglementation. Ainsi, depuis le 13 juillet 2015, sont autorisées à se signaler par des préenseignes dérogatoires les activités en relation avec la fabrication ou la vente de produits du terroir, les activités culturelles ainsi que les monuments classés ou inscrits au titre des monuments historiques ouverts à la visite, ainsi que, à titre temporaire, les opérations et manifestations exceptionnelles mentionnées à l'article L. 581-20 du code de l'environnement. Par contre, les préenseignes dérogatoires signalant des activités particulièrement utiles pour les personnes en déplacement ou liées à des services publics ou d'urgence, ou s'exerçant en retrait de la voie publique non conformes à la réglementation ont dû être déposées. Dans le cadre de cette évolution spécifique de la réglementation relative aux préenseignes dérogatoires, l'article L. 581-19 du code de l'environnement précise que les activités qui ne peuvent plus ou pas être signalées par le biais de préenseignes dérogatoires peuvent désormais l'être dans des conditions définies par les règlements relatifs à la circulation routière. En effet, l'arrêté du 6 décembre 2011 modifiant l'arrêté du 24 novembre 1967 relatif à la signalisation des routes et des autoroutes a créé un type de signalisation directionnelle, plus couramment dénommée SIL (signalisation d'information locale) et relevant des gestionnaires de voirie qui permet effectivement d'orienter les voyageurs. Il n'est pour le moment pas prévu d'adopter de nouvelles dispositions pour la signalisation de ces activités.
