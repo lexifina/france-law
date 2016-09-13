@@ -1,0 +1,9 @@
+# Réponse à la question n° 98425
+
+- Question : [98425](98425.md) — Question n° 98425 — Royaume-Uni; perspectives
+
+## Réponse
+
+*JO du 2016-09-13*
+
+Le 23 juin 2016, le peuple britannique s'est majoritairement exprimé en faveur d'une sortie de l'Union européenne (« Brexit »). Cette décision va engager un processus historique de retrait d'un pays de l'Union européenne et la tenue de négociations entre le Royaume-Uni et l'Union européenne pour définir les conditions de ce retrait et les relations futures entre les deux parties. Le Royaume-Uni est le troisième client de la France pour le secteur agricole et agroalimentaire dont il représente environ 10 % des exportations agroalimentaires en valeur (5,6 milliards d'euros). Les exportations de vins et spiritueux représentent le premier poste de ces exportations et totalisent 1,2 milliard d'euros, faisant du Royaume-Uni le deuxième client le plus important à l'exportation pour les vins et spiritueux français en volume (deuxième client également en valeur pour les vins). Plus précisément, le Royaume-Uni constitue la première destination en volume pour les vins de Champagne, de Bourgogne, de Loire et des Côtes du Rhône. C'est également un marché de premier plan pour les vins du Languedoc-Roussillon, de Bordeaux et de Provence. A la négociation du retrait du Royaume-Uni de l'Union européenne qui s'ouvrira après activation par le Royaume-Uni de l'article 50 du traité sur l'Union européenne s'ajoutera la négociation d'un accord encadrant les futures relations entre l'Union européenne et le Royaume-Uni dont l'accès au marché unique constituera un point majeur. Le Gouvernement français sera attentif à préserver lors des négociations, la fluidité des échanges commerciaux avec ce pays, tout en préservant les acquis du droit européen s'agissant notamment de la définition du vin, des règles d'étiquetage et de la protection des indications géographiques.
