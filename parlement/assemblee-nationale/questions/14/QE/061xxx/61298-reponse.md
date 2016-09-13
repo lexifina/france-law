@@ -1,0 +1,9 @@
+# Réponse à la question n° 61298
+
+- Question : [61298](61298.md) — Question n° 61298 — Livre blanc; archéologie préventive; proposition
+
+## Réponse
+
+*JO du 2016-09-13*
+
+Le patrimoine archéologique permet de retracer l'histoire du développement de l'humanité et d'enrichir la mémoire nationale. Il importe donc de pouvoir l'étudier, le conserver et le transmettre aux générations futures dans le seul souci de l'intérêt général et en dehors de toute logique commerciale. Dans la majorité des cas (fouilles préventives, fouilles exécutées d'office et découvertes fortuites), la loi prévoit un partage de propriété. Or, la réalisation des partages entraîne la dispersion d'éléments du patrimoine archéologique qui présentent pourtant une cohérence et une unité scientifiques parce qu'issus d'un même site archéologique et dont l'étude, à court comme à long terme, nécessite d'avoir accès à l'ensemble. Une appropriation publique des mobiliers s'avère nécessaire pour remplir les missions d'intérêt général assignées au service public de l'archéologie : - garantir l'unité et la cohérence scientifique des collections archéologiques ; - garantir la conservation du patrimoine dans des conditions permettant non seulement de les rendre accessibles à la communauté scientifique et au public actuels mais également de les transmettre aux générations futures ; - cantonner le marché des biens archéologiques et réduire ainsi les risques de pillages et de fouilles clandestines. Le ministère de la culture et de la communication a donc soutenu une importante réforme tendant à consacrer une présomption de propriété publique sur les biens archéologiques mobiliers. Cette réforme est inscrite dans la loi du 7 juillet 2016 relative à la liberté de la création, à l'architecture et au patrimoine. Elle a reçu l'assentiment des deux assemblées.
