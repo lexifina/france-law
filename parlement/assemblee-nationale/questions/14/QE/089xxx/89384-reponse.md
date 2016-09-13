@@ -1,0 +1,9 @@
+# Réponse à la question n° 89384
+
+- Question : [89384](89384.md) — Question n° 89384 — exonération; champ d'application
+
+## Réponse
+
+*JO du 2016-09-13*
+
+La taxe d'aménagement (TA) s'applique aux opérations d'aménagement, de construction, de reconstruction et d'agrandissement des bâtiments, installations ou aménagements soumises à un régime d'autorisation d'urbanisme. Le dispositif prévoit certaines exonérations, définies aux articles L. 331-7 et L. 331-9 du code de l'urbanisme, qui s'appliquent de plein droit ou qui peuvent être votées par les collectivités bénéficiaires des taxes d'urbanisme. Au titre du 1° de l'article R* 331-4 du code de l'urbanisme, des constructions destinées à être affectées à un service public ou d'utilité publique, comme des maisons de santé pluriprofessionnelles, peuvent être exonérées de plein droit lorsqu'elles sont édifiées par l'État, les collectivités territoriales et leurs groupements et sous réserve du respect des autres conditions précisées par l'article, et notamment, qu'elles soient exemptées de taxe foncière sur les propriétés bâties en application du 1° de l'article 1382 du code général des impôts. Par ailleurs, s'agissant du cas des maisons de santé et lorsque la commune est maître d'ouvrage de l'opération, l'article 104 de la loi de finances pour 2016 a ajouté une nouvelle exonération facultative à la TA. Le 9° de l'article L. 331-9 prévoit que, par délibération, les organes délibérants des communes ou des établissements publics de coopération intercommunale, le conseil de la métropole de Lyon, les conseils départementaux et le conseil régional de la région d'Île-de-France peuvent exonérer de la TA, en tout ou partie, les maisons de santé mentionnées à l'article L. 6323-3 du code de la santé publique, pour les communes maîtres d'ouvrage. Les collectivités pourront délibérer avant le 30 novembre 2016 pour que l'exonération soit applicable aux autorisations délivrées à compter du 1er janvier 2017.
