@@ -1,0 +1,9 @@
+# Réponse à la question n° 82985
+
+- Question : [82985](82985.md) — Question n° 82985 — vente; documents obligatoires
+
+## Réponse
+
+*JO du 2016-09-13*
+
+Les diagnostics obligatoires sont de diverses natures. Il s'agit de constats ou d'états relatifs à l'amiante, au plomb, aux termites, aux mérules, aux risques naturels et technologiques, à la performance énergétique, aux installations intérieures de gaz et d'électricité et aux installations d'assainissement non collectif. Dans certains bâtiments, ils ont été rendus obligatoires, notamment lors de la vente, par l'ordonnance du 8 juin 2005 relative au logement, à la construction et à la location par la loi no 89-462 du 6 juillet 1989 tendant à améliorer les rapports locatifs, ou bien ils sont le résultat de la transposition de directives européennes comme le diagnostic de performance environnementale (DPE) qui résulte de la directive 2010/31/UE. Ces obligations sont nécessaires du fait de leur nature : - les états relatifs à l'amiante, au plomb sont nécessaires en termes de prévention des risques sanitaires ; - les états relatifs aux installations de gaz et d'électricités et aux risques naturels et technologiques sont liés à la sécurité des personnes ; - le DPE, le constat de la présence de termites, de mérule et l'état de l'installation d'assainissement non collectif sont des données nécessaires à l'acquéreur ou au locataire pour la connaissance de la solidité et de l'efficacité (notamment énergétique) du logement et de ses équipements. Ces diagnostics peuvent en effet représenter des facteurs de coûts et de complexité supplémentaires lors d'une vente ou d'une location mais il a été jugé à plusieurs reprises, par le législateur, que les enjeux de santé et de sécurité mais aussi de performance énergétique et de connaissance du bien ne peuvent être négligés.
