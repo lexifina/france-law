@@ -1,0 +1,9 @@
+# Réponse à la question n° 92364
+
+- Question : [92364](92364.md) — Question n° 92364 — psychiatrie; syndrome de Münchhausen par procuration; perspectives
+
+## Réponse
+
+*JO du 2016-09-13*
+
+Il n'appartient au ministère de la justice de porter un jugement sur la réalité psychiatrique du « syndrome de Münchausen par procuration ». La description médicale d'un diagnostic de maltraitance d'enfant par ses parents est souvent complexe, et il l'est d'autant plus lorsque le recours aux soins constituerait l'instrument de la maltraitance. Le diagnostic relève donc bien sûr, d'une expertise médicale pointue. Concernant le volet judiciaire, en raison des principes constitutionnels de séparation des pouvoirs et d'indépendance de l'autorité judiciaire, il n'appartient pas au ministre de la justice de formuler des appréciations sur les décisions de justice, d'intervenir dans les procédures judiciaires en cours ni de remettre en cause ce qui a été jugé. Dans le cadre d'une procédure d'assistance éducative, le juge des enfants est seul habilité à prendre les mesures qu'il estime les plus conformes à la protection d'enfants dont il estime que la santé, la sécurité, la moralité ou les conditions d'éducation ou de développement physique, affectif, intellectuel et social sont gravement compromises, sur le fondement de l'article 375 du code civil. Il peut ainsi ordonner toute expertise médicale dont il apprécie seul les conclusions, les parties ayant toujours la possibilité de solliciter une contre-expertise. En effet, les parents peuvent consulter le dossier de la procédure, avant les audiences judiciaires, dans les conditions et limites prévues par l'article 1187 du code de procédure civile et durant les audiences judiciaires, ils sont en mesure d'exposer leurs arguments, de présenter des pièces au juge des enfants, ou de solliciter le prononcé de mesures d'investigation éducative ou d'expertise médicale prévues par l'article 1183 du code de procédure civile.
