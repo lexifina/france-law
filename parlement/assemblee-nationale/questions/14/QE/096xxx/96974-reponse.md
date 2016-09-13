@@ -1,0 +1,9 @@
+# Réponse à la question n° 96974
+
+- Question : [96974](96974.md) — Question n° 96974 — énergie nucléaire militaire; Areva TA
+
+## Réponse
+
+*JO du 2016-09-13*
+
+Acteur clé dans le domaine de la propulsion navale nucléaire, qui constitue un élément incontournable de notre posture de dissuasion, la société Areva-TA porte des enjeux majeurs au regard de la souveraineté et de l'indépendance de la France. Les évolutions de la filière nucléaire, qui doivent aboutir à un partenariat stratégique global entre Areva et EDF concernant les réacteurs de puissance et les services aux bases installées, ont rendu nécessaire de repenser l'organisation du groupe Areva et, par conséquent, de réfléchir au devenir de sa filiale Areva-TA. Dès le printemps 2015, le ministère de la défense et le ministère de l'économie, de l'industrie et du numérique ont donc engagé une étude associant les principales parties intéressées, en vue d'assurer la pérennité d'Areva-TA. Un schéma de prise de contrôle majoritaire par l'Etat, via l'Agence des participations de l'Etat (APE), a été identifié et retenu comme étant le plus adapté afin d'atteindre cet objectif. Aux côtés de l'APE, des participations, à parts égales, du CEA et de DCNS, ainsi que le maintien de la participation historique d'EDF, sont envisagés. Cette composition de l'actionnariat, qui exclut toute participation étrangère, permettra à l'Etat de s'assurer de la capacité d'Areva-TA à répondre à ses besoins, tout en associant étroitement l'entreprise à ses partenaires scientifiques et industriels du secteur de la propulsion nucléaire. De plus, la gouvernance d'Areva-TA sera adaptée pour en faciliter le pilotage stratégique. Cette évolution devrait intervenir dans un calendrier resserré traduisant auprès des salariés d'Areva-TA, détenteurs de compétences exceptionnelles, la volonté de l'Etat d'offrir un cadre pérenne à la poursuite des activités de l'entreprise dans le domaine de la propulsion navale nucléaire.
