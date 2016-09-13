@@ -1,0 +1,9 @@
+# Réponse à la question n° 96961
+
+- Question : [96961](96961.md) — Question n° 96961 — bombardier Marauder; prêt à un musée étranger; réglementation
+
+## Réponse
+
+*JO du 2016-09-13*
+
+Le bombardier Martin B-26G Marauder portant le numéro de série 44-68216 a été remis à l'armée de l'air française au début du mois de mai 1945 par les Etats-Unis dans le cadre du plan général de réarmement. Il a été utilisé par le centre d'expertise aérienne militaire de Mont-de-Marsan avant d'être acquis par la compagnie aérienne Air France à des fins de formation et d'instruction de ses personnels. Acquis par le musée de l'Air et de l'Espace en 1967, il a été restauré et partiellement reconstruit par les ateliers du musée entre 1993 et 1998. Lors des travaux réalisés, une Croix de Lorraine peinte de chaque côté de la partie avant du fuselage, des éléments d'armement et divers équipements ont été rajoutés. Ces éléments dataient donc d'une vingtaine d'années, et non de la Seconde Guerre mondiale ni même de l'affectation de l'aéronef dans les armées françaises. Au titre d'un partenariat entre le musée de l'Air et de l'Espace et le musée du débarquement d'Utah Beach, cet avion a été à nouveau restauré et paré des symboles initiaux de l'armée américaine, en 2011, afin de le mettre en conformité avec la thématique du débarquement de Normandie et la scénographie retenue par le musée d'Utah Beach, préalablement à son transfert et à son exposition dans l'une des salles de ce lieu de mémoire. La convention de dépôt a été signée en 2012 par le maire de Sainte-Marie-du-Mont (Manche), commune où est implanté ce musée. Dès lors, il apparaît qu'à ce jour le bombardier Martin B-26G Marauder a bien été conservé par le bénéficiaire du prêt dans l'état dans lequel cet aéronef lui a été confié par le musée de l'Air et de l'Espace.
