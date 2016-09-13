@@ -1,0 +1,9 @@
+# Réponse à la question n° 61283
+
+- Question : [61283](61283.md) — Question n° 61283 — Livre blanc; archéologie préventive; proposition
+
+## Réponse
+
+*JO du 2016-09-13*
+
+Le ministère de la culture et de la communication est conscient de la nécessité d'améliorer les conditions du contrôle des opérateurs intervenant en archéologie préventive et de renforcer les exigences de qualité scientifique de la part des candidats à l'obtention d'un agrément. Ce point a également été mis en avant par Madame Martine Faure dans son rapport consacré, en 2015, à l'archéologie préventive. Plusieurs actions en ce sens ont été conduites depuis 2014. En premier lieu, le Conseil national de la recherche archéologique a formalisé les exigences en la matière à l'égard des candidats à l'obtention ou au renouvellement de l'agrément. Un document établi en juin 2015 et mis en ligne sur le site du ministère de la culture et de la communication présente ainsi la « Réflexion sur la notion de « projet scientifique » souhaitée pour les dossiers de demande d'agrément d'opérateur d'archéologie préventive ». En second lieu, le projet de loi relatif à la liberté de la création, à l'architecture et au patrimoine contient une série de dispositions en faveur des exigences scientifiques pesant sur les opérateurs d'archéologie préventive. L'ensemble des opérateurs devront pouvoir démontrer a priori leur capacité scientifique et présenter a posteriori des bilans réguliers de leur activité et de leurs résultats scientifiques. Les collectivités locales seront en outre désormais soumises à un dispositif d'habilitation au lieu de l'agrément, suivant une procédure plus orientée sur les aspects scientifiques que sur les aspects économiques. Elles seront notamment invitées à préparer avec l'État une convention relative aux modalités de leur participation à l'exploitation scientifique des opérations d'archéologie préventive.
