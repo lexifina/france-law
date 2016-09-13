@@ -1,0 +1,9 @@
+# Réponse à la question n° 55052
+
+- Question : [55052](55052.md) — Question n° 55052 — droit de partage; réduction
+
+## Réponse
+
+*JO du 2016-09-13*
+
+L'article 7 de la première loi de finances rectificative no 2011-900 du 29 juillet 2011 a relevé de 1,1 % à 2,5 % le taux du droit de partage et cela à compter du 1er janvier 2012 afin de ne pas modifier la fiscalité applicable aux partages déjà engagés. Cette augmentation du taux du droit de partage, décidée par la précédente majorité, est une mesure générale qui concerne les partages de communauté mais également les partages de succession ou les rapports de libéralités dans les donations-partages. Elle vise donc toutes les personnes procédant à un partage lorsque les quatre conditions suivantes sont réunies : existence d'un acte, existence d'une indivision entre les copartageants, justification de cette indivision et existence d'une véritable opération de partage. Le délai dans lequel le partage est effectué est sans incidence sur le tarif appliqué ; prévoir un tarif allégé pour les partages réalisés dans un délai d'un an paraît contestable au regard du principe d'égalité devant l'impôt dès lors que les délais nécessaires aux partages peuvent être largement indépendants de la volonté des parties. Par ailleurs, les données statistiques sur le nombre de partages recensés démontrent que le nombre de partages enregistrés à la suite de l'augmentation du taux de 1,1 % à 2,5 % n'a pas diminué. La mesure n'a donc pas eu pour effet d'inciter les contribuables à maintenir les situations d'indivision. Enfin, l'augmentation du taux du droit de partage a permis d'accroître les recettes fiscales : le droit de partage procure désormais un rendement annuel de 500 millions d'euros. Il n'est pas envisagé de diminuer cette recette. Ainsi, pour l'ensemble des raisons évoquées, il ne peut être envisagé de répondre favorablement à la proposition formulée par l'intervenant.
