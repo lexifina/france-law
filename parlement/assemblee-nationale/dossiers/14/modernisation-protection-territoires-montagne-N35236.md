@@ -1,0 +1,81 @@
+# Aménagement du territoire : développement et protection des territoires de montagne
+
+- Procédure : Projet de loi ordinaire
+- Législature : 14
+- Identifiant : DLR5L14N35236
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/modernisation_protection_territoires_montagne
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl16-047.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2016-09-14 : 1er dépôt d'une initiative. (PRJLANR5L14B4034)
+  - 2016-09-14 : Etude d'impact (ETDIANR5L14B4034)
+  - 2016-09-14 : Avis du Conseil d'Etat (AVCEANR5L14B4034)
+  - 2016-09-14 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2016-09-14 : Renvoi en commission au fond
+      - 2016-09-20 : Nomination de rapporteur
+      - 2016-09-21 : Réunion de commission
+      - 2016-09-27 : Réunion de commission
+      - 2016-09-28 : Réunion de commission
+      - 2016-09-28 : Réunion de commission
+      - 2016-10-10 : Réunion de commission
+      - 2016-09-29 : Dépôt de rapport (RAPPANR5L14B4067, PRJLANR5L14BTC4067)
+    - Travaux d'une commission saisie pour avis
+      - 2016-09-15 : Saisine pour avis d'une commission
+      - 2016-09-20 : Nomination de rapporteur
+      - 2016-09-26 : Réunion de commission
+      - 2016-09-27 : Dépôt de rapport (AVISANR5L14B4056)
+  - Discussion en séance publique
+    - 2016-10-10 : Discussion en séance publique
+    - 2016-10-10 : Discussion en séance publique
+    - 2016-10-11 : Discussion en séance publique
+    - 2016-10-11 : Discussion en séance publique
+    - 2016-10-12 : Discussion en séance publique
+    - 2016-10-12 : Discussion en séance publique
+    - 2016-10-18 : Discussion en séance publique
+    - 2016-10-18 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2016-10-19 : Dépôt d'une initiative en navette (PRJLSNR5S279B0047)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2016-10-19 : Renvoi en commission au fond
+      - 2016-10-26 : Nomination de rapporteur
+      - 2016-12-07 : Dépôt de rapport (RAPPSNR5S279B0191)
+    - Travaux d'une commission saisie pour avis
+      - 2016-10-26 : Saisine pour avis d'une commission
+      - 2016-10-26 : Nomination de rapporteur
+      - 2016-12-06 : Dépôt de rapport (AVISSNR5S279B0186)
+    - Travaux d'une commission saisie pour avis
+      - 2016-10-26 : Saisine pour avis d'une commission
+      - 2016-10-26 : Nomination de rapporteur
+      - 2016-12-06 : Dépôt de rapport (AVISSNR5S279B0185)
+    - Travaux d'une commission saisie pour avis
+      - 2016-11-02 : Saisine pour avis d'une commission
+      - 2016-11-02 : Nomination de rapporteur
+      - 2016-12-06 : Dépôt de rapport (AVISSNR5S279B0182)
+  - Discussion en séance publique
+    - 2016-12-12 : Discussion en séance publique
+    - 2016-12-13 : Discussion en séance publique
+    - 2016-12-14 : Discussion en séance publique
+    - 2016-12-14 : Décision
+- Commission Mixte Paritaire
+  - 2016-12-15 : Dépôt d'un projet de loi (PRJLANR5L14B4318)
+  - 2016-12-15 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2016-12-19 : Nomination de rapporteur
+    - 2016-12-19 : Dépôt du rapport d'une CMP (RAPPSNR5S279B0244)
+    - 2016-12-20 : Dépôt du rapport d'une CMP (RAPPANR5L14B4323)
+  - Discussion en séance publique
+    - 2016-12-21 : Discussion en séance publique
+    - 2016-12-21 : Décision
+  - Discussion en séance publique
+    - 2016-12-21 : Discussion en séance publique
+    - 2016-12-21 : Décision
+  - 2016-12-20 : Décision de la CMP
+- Promulgation de la loi
+  - 2016-12-28 : Promulgation d'une loi
+- Mise en application de la loi
+  - 2017-12-21 : Rapport sur l'application des lois (RINFANR5L15B0538)
