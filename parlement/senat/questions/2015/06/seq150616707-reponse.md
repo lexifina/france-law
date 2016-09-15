@@ -1,0 +1,9 @@
+# Réponse à la question SEQ150616707
+
+- Question : [SEQ150616707](seq150616707.md) — Opérations funéraires
+
+## Réponse
+
+*Intérieur, JO du 2016-09-15, page 3942*
+
+L'article 15 de la loi n° 2015-177 du 16 février 2015 relative à la modernisation et à la simplification du droit et des procédures dans les domaines de la justice et des affaires intérieures a introduit des modifications sur la surveillance dans le secteur funéraire. Lorsque le corps est transporté hors de la commune de décès ou de dépôt, les opérations de fermeture et de scellement du cercueil s'effectuent dorénavant sous la seule responsabilité de l'opérateur funéraire, dès lors qu'est présent un membre de la famille. Le code civil ne contient pas de définition de « membre de la famille ». Stricto sensu, la famille renvoie au lien de parenté. Toutefois, son périmètre peut varier selon l'intention du législateur et l'objet de la disposition concernée. Ainsi par exemple, la notion de famille peut être entendu strictement (civ. 3ème 14 novembre 2007 : conception restrictive de la famille en matière de droit d'habitation [art. 632 C.civ], exclusion de la sœur du titulaire du droit d'habitation). En l'espèce, la notion de « membre de la famille » au sens du nouvel article L. 2213-14 du code général des collectivités territoriales implique un lien de parenté ou un lien d'alliance. Les dispositions de cet article ne limitent pas le degré de la parenté que ce soit dans la ligne collatérale ou dans la ligne directe (comme l'article 370 du code civil par exemple). En revanche, les concubins ne sont pas au sens strict de la loi inclus dans l'expression « membre de la famille », il est nécessaire que la loi le précise expressément. Par conséquent, sous réserve de l'appréciation souveraine des tribunaux compétents, le membre de la famille, dans le cadre de l'article L. 2213-14 du code général des collectivités territoriales, s'entend uniquement comme étant un parent ou un allié du défunt.
