@@ -2,27 +2,27 @@
 
 THON ROUGE
 
-NOM DU PORT
+Nom du port
 
 |
 
-CODE postal
+Code postal
 
 |
 
-JOURS ET HEURES obligatoires pour le débarquement/ transbordement (heure locale)
+Jours et heures obligatoires pour le débarquement/ transbordement (heure locale)
 
 |
 
-LIEU (X) OBLIGATOIRE (S) pour le débarquement/ transbordement
+Lieu (x) obligatoire (s) pour le débarquement/ transbordement
 
 |
 
-DÉLAI de notification préalable de débarquement (si supérieur à 4 heures)
+Délai de notification préalable de débarquement (si supérieur à 4 heures)
 
 |
 
-RESTRICTIONS supplémentaires au débarquement
+Restrictions supplémentaires au débarquement
 
 |
 
@@ -34,11 +34,11 @@ LE GUILVINEC
 
 |
 
-Lundi au vendredi (hors jours fériés)-de 8 h 30 à 17 heures
+Lundi au vendredi (hors jours fériés)-de 8 h 30 à 17 heure
 
 |
 
-Quai de la criée
+Quai de la Criée
 
 |
 
@@ -56,11 +56,11 @@ DOUARNENEZ
 
 |
 
-Lundi au vendredi (hors jours fériés)-de 8 h 30 à 17 heures
+Lundi au vendredi (hors jours fériés)-de 8 h 30 à 17 heure
 
 |
 
-Quai de la criée
+Quai de la Criée
 
 Quai Ouest
 
@@ -80,11 +80,11 @@ CONCARNEAU
 
 |
 
-Lundi au vendredi (hors jours fériés)-de 8 h 30 à 17 heures
+Lundi au vendredi (hors jours fériés)-de 8 h 30 à 17 heure
 
 |
 
-Quai de la criée
+Quai de la Criée
 
 |
 
@@ -102,9 +102,7 @@ LORIENT
 
 |
 
-Du lundi au samedi, hors jours fériés : de 9 heures à 11 heures.
-
-Lundi, mardi, jeudi, vendredi, dimanche et les jours fériés : de 16 heures à 21 heures.
+Du lundi au samedi, hors jours fériés : de 9 heures à 11 heures. Lundi, mardi, jeudi, vendredi, dimanche et les jours fériés : de 16 heures à 21 heures.
 
 |
 
@@ -112,9 +110,7 @@ Quais du port de Keroman
 
 |
 
-Jusqu'au 8 août inclus : 24 heures
-
-A partir du 9 août : 12 heures
+Jusqu'au 8 août inclus : 24 heures à partir du 9 août : 12 heures
 
 |
 
@@ -134,11 +130,15 @@ Du lundi au vendredi de 9 heures à 17 heures
 
 |
 
-Quais du port de La Turballe
+Quais du port de la Turballe
 
 |
 
 10 heures
+
+|
+
+|
 
 |
 
@@ -148,7 +148,7 @@ Pour les navires titulaires d'une AEP thon rouge : du lundi au vendredi de 7 heu
 
 |
 
-Quais du port de La Turballe
+Quais du port de la Turballe
 
 |
 
@@ -158,11 +158,15 @@ Quais du port de La Turballe
 
 |
 
+|
+
+|
+
 Pour les navires titulaires d'une AEP thon rouge : samedi et dimanche de 14 heures à 22 heures
 
 |
 
-Quais du port de La Turballe
+Quais du port de la Turballe
 
 |
 
@@ -192,6 +196,28 @@ Quais du port des Sables-d'Olonne
 
 |
 
+LA COTINIERE
+
+|
+
+17310
+
+|
+
+Du mardi au vendredi-de 10 heures à 18 heures
+
+|
+
+Quai de la Criée
+
+|
+
+8 heures
+
+|
+
+|
+
 ARCACHON
 
 |
@@ -204,7 +230,9 @@ Du lundi au vendredi-de 8 heures à 17 heures
 
 |
 
-Port de pêche quai de la criée
+Port de pêche
+
+Quai de la Criée
 
 |
 
@@ -224,7 +252,11 @@ Pour les navires non titulaires d'AEP du 15 juin au 16 octobre 2016 du dimanche 
 
 |
 
-Quai de la criée
+Quai de la Criée
+
+|
+
+|
 
 |
 
@@ -236,7 +268,7 @@ Pour les navires titulaires d'une AEP thon rouge : tous les jours de 4 heures à
 
 |
 
-Quai de la criée
+Quai de la Criée
 
 |
 
@@ -260,7 +292,7 @@ Quai de la République (enceinte portuaire)
 
 Quai de la Presqu'île (enceinte portuaire)
 
-Débarcadère de la criée
+Débarcadère de la Criée
 
 Quai François-Joly
 
@@ -306,7 +338,7 @@ De 9 heures à 12 heures et 13 h 30 à 17 h 30
 
 |
 
-Quai des pêcheurs
+Quai des Pêcheurs
 
 |
 
@@ -326,7 +358,7 @@ De 8 h 30 à 12 heures et 13 h 30 à 17 h 30
 
 |
 
-Quai des pêcheurs à la criée
+Quai des Pêcheurs-à-la-Criée
 
 |
 
@@ -368,7 +400,9 @@ De 8 h 30 à 10 h 30 et de 16 h 30 à 21 heures
 
 |
 
-Quai de la Halle-à-Marée Quai d'Alger
+Quai de la Halle-à-Marée
+
+Quai d'Alger
 
 Quai de Frontignan
 
@@ -510,7 +544,7 @@ De 8 h 30 à 11 h 30 et de 14 heures à 16 heures
 
 |
 
-Quai des pêcheurs
+Quai des Pêcheurs
 
 |
 
@@ -544,9 +578,7 @@ NICE
 
 |
 
-Du 15 avril au 31 juillet : de 8 heures à 11 heures et de 18 heures à 22 heures
-
-Du 1er août au 14 avril : de 8 heures à 11 heures et de 17 heures à 20 heures
+Du 15 avril au 31 juillet : de 8 heures à 11 heures et de 18 heures à 22 heures du 1er août au 14 avril : de 8 heures à 11 heures et de 17 heures à 20 heures
 
 |
 
@@ -566,9 +598,7 @@ CANNES
 
 |
 
-Du 15 avril au 31 juillet : de 8 heures à 11 heures et de 18 heures à 22 heures
-
-Du 1er août au 14 avril : de 8 heures à 11 heures et de 17 heures à 20 heures
+Du 15 avril au 31 juillet : de 8 heures à 11 heures et de 18 heures à 22 heures Du 1er août au 14 avril : de 8 heures à 11 heures et de 17 heures à 20 heures
 
 |
 
