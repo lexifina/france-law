@@ -1,0 +1,9 @@
+# Réponse à la question SEQ160219895
+
+- Question : [SEQ160219895](seq160219895.md) — Possibilité pour un couple franco-suisse uni par un partenariat enregistré en Suisse de se marier en France
+
+## Réponse
+
+*Justice, JO du 2016-09-15, page 3952*
+
+L'article 202-1 du code civil prévoit que les qualités et conditions requises pour pouvoir contracter mariage sont régies, pour chacun des époux, par sa loi personnelle. Le deuxième alinéa de cet article pose toutefois une dérogation s'agissant de deux personnes de même sexe, celles-ci pouvant contracter mariage lorsque, pour au moins l'une d'elles, soit sa loi personnelle, soit la loi de l'État sur le territoire duquel elle a son domicile ou sa résidence le permet. Ces dispositions permettent donc la célébration du mariage d'un couple de même sexe franco-suisse et ce alors même que la loi suisse ne prévoit pas le mariage entre personnes de même sexe. Par ailleurs, s'il est exact que l'article 26 de la loi fédérale suisse du 18 juin 2004, sur le partenariat enregistré entre personnes du même sexe, interdit le mariage d'une personne déjà engagée dans le cadre d'un partenariat, ce texte n'est pas interprété en Suisse comme prohibant le mariage des deux partenaires ensemble dans un État autorisant le mariage entre personnes du même sexe. Les autorités suisses délivrent d'ailleurs sur demande, pour résoudre cette difficulté dans le cas des mariages français, un certificat de coutume qui indique expressément que « la loi suisse n'a pas pour objectif d'empêcher que deux personnes de même sexe liées en Suisse par un partenariat enregistré ne contractent le cas échéant une autre union dans un autre État ». Il est dès lors tout à fait possible aux mairies françaises de célébrer le mariage entre les deux personnes engagées dans les liens d'un partenariat en Suisse.
