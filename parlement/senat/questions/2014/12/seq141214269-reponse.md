@@ -1,0 +1,9 @@
+# Réponse à la question SEQ141214269
+
+- Question : [SEQ141214269](seq141214269.md) — Contribution de l'État au financement de la maison de l'emploi et de la formation
+
+## Réponse
+
+*Travail, emploi, formation professionnelle et dialogue social, JO du 2016-09-15, page 3964*
+
+L'arrêté du 18 décembre 2013 portant avenant au cahier des charges des maisons de l'emploi a recentré le financement par l'État des maisons de l'emploi sur des actions ciblées, en veillant à leur qualité et à l'absence de concurrence avec d'autres acteurs sur le territoire. Ces actions sont des actions de coordination dans les champs suivants : participer à l'anticipation et à l'accompagnement des mutations économiques ; contribuer au développement de l'emploi local. Cet arrêté prévoit que les maisons de l'emploi peuvent, pour le compte d'un autre financeur, continuer à mener des actions d'accompagnement, d'information et d'accueil des demandeurs d'emploi, dans le cadre d'une convention avec Pôle emploi. Les cyberbases relèvent de ce type d'actions et ne sont donc pas financées par l'État. Concernant plus précisément la maison de l'emploi et de la formation de Saint Louis, des Trois-Frontières et du Sundgau, l'arrêt de cette activité, dont le coût en 2013 s'est élevé à 29 265 € pour un budget total de 432 597 €, a été décidé par le conseil d'administration de la maison de l'emploi, décision à laquelle l'État n'a pas pris part. Il convient également de souligner que l'État a financé plus de la moitié du budget de la maison de l'emploi en 2014, et que, si le financement de l'État a baissé, en cohérence avec le recentrage du financement de l'Etat, le financement des collectivités territoriales a également diminué. Enfin, les agences concernées de Pôle Emploi devraient se réorganiser pour absorber le flux des demandeurs d'emploi qui faisaient appel à cette maison de l'emploi.
