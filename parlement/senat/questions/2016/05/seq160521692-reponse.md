@@ -1,0 +1,9 @@
+# Réponse à la question SEQ160521692
+
+- Question : [SEQ160521692](seq160521692.md) — Coupes de bois et chemins de débardage
+
+## Réponse
+
+*Agriculture, agroalimentaire et forêt, JO du 2016-09-15, page 3925*
+
+L'exploitation normale du patrimoine forestier implique la circulation d'engins de débardage et de camions-grumiers sur les pistes et routes forestières non ouvertes à la circulation publique. Le règlement national d'exploitation forestière adopté par le conseil d'administration de l'office national des forêts (ONF), et mis en œuvre par ses agents, s'impose à toute personne intervenant en forêt publique à quelque titre que ce soit pour exploiter des bois. Sans préjudice des dispositions du code de la voirie routière relatives aux dégradations anormales des voies publiques ou rurales résultant de l'évacuation des produits forestiers, l'intervenant est responsable de toutes les dégradations anormales résultat d'un usage abusif des routes et chemins forestiers privés utilisés pour la vidange et le transport des produits. Les règles de bon comportement s'appuient sur les bonnes pratiques et les usages professionnels reconnus et partagés par l'ensemble de la profession. L'ensemble des routes et pistes est conçu pour permettre l'exploitation normale du patrimoine forestier des communes. Leur entretien courant est financé par l'ONF avec le revenu des ventes de bois. Toutefois, en cas d'intempéries de durée prolongée, susceptible d'affecter gravement l'état des voies et chemins utilisés, comme cela a été le cas en début de cette année, une restriction temporaire de circuler peut être décidée par l'autorité gestionnaire de la voirie concernée. En forêt communale, la mise en œuvre des dispositions contenues dans le règlement national d'exploitation, fait l'objet d'une concertation étroite entre la commune propriétaire de la forêt, et les services de l'ONF.
