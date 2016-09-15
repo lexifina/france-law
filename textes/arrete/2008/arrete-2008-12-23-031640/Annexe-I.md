@@ -282,7 +282,23 @@ A l'extérieur de la chaufferie sont installés :
 
 Le chauffage de l'entrepôt et de ses annexes ne peut être réalisé que par eau chaude, vapeur produite par un générateur thermique ou autre système présentant un degré de sécurité équivalent.
 
-Les systèmes de chauffage par aérothermes à gaz ne sont pas autorisés dans les cellules de stockage.
+Les systèmes de chauffage par aérothermes à gaz sont autorisés lorsque l'ensemble des conditions suivantes est respecté :
+
+- les aérothermes sont de type C au sens de la norme FD CEN/TR 1749 (version de novembre 2015) ;
+
+- la tuyauterie alimentant en gaz un aérotherme est située à l'extérieur de l'entrepôt et pénètre la paroi extérieure ou la toiture de l'entrepôt au droit de l'aérotherme afin de limiter au maximum la longueur de la tuyauterie présente à l'intérieur des cellules. La partie résiduelle de la tuyauterie interne à la cellule est située dans une gaine réalisée en matériau de classe A2 s1 d0 permettant d'évacuer toute fuite de gaz à l'extérieur de l'entrepôt ;
+
+- les tuyauteries d'alimentation en gaz sont en acier et sont assemblées par soudure. Les soudures font l'objet d'un contrôle initial par un organisme compétent, avant mise en service de l'aérotherme ;
+
+- les aérothermes et leurs tuyauteries d'alimentation en gaz sont protégés des chocs mécaniques, notamment de ceux pouvant provenir de tout engin de manutention ;
+
+- toutes les parties des aérothermes sont à une distance minimale de deux mètres de toute matière combustible ;
+
+- une mesure de maîtrise des risques est mise en place pour, en cas de détection de fuite de gaz ou détection d'absence de flamme au niveau de l'aérotherme, entraîner la fermeture de deux vannes d'isolement situées sur la tuyauterie d'alimentation en gaz, de part et d'autre de la paroi extérieure ou de la toiture de l'entrepôt ;
+
+- toute partie de l'aérotherme en contact avec l'air ambiant présente une température inférieure à 120 °C. En cas de d'atteinte de cette température, une mesure de maîtrise des risques entraîne la mise en sécurité de l'aérotherme et la fermeture des deux vannes citées à l'alinéa précédent ;
+
+- les aérothermes, les tuyauteries d'alimentation en gaz et leurs gaines ainsi que les mesures de maîtrise des risques associés font l'objet d'une vérification initiale et de vérifications périodiques au minimum annuelles par un organisme compétent.
 
 Dans le cas d'un chauffage par air chaud pulsé de type indirect produit par un générateur thermique, toutes les gaines d'air chaud sont entièrement réalisées en matériaux A2 s1 d0. En particulier, les canalisations métalliques, lorsqu'elles sont calorifugées, ne sont garnies que de calorifuges en matériaux A2 s1 d0. Des clapets coupe-feu sont installés si les canalisations traversent un mur entre deux cellules.
 
