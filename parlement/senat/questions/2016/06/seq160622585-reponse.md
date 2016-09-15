@@ -1,0 +1,9 @@
+# Réponse à la question SEQ160622585
+
+- Question : [SEQ160622585](seq160622585.md) — Présence consulaire française pleine et entière en Écosse
+
+## Réponse
+
+*Affaires étrangères, JO du 2016-09-15, page 3908*
+
+Le passage du consulat général de France à Edimbourg au format de poste à gestion simplifiée (PGS) s'inscrit dans la constante évolution de notre réseau diplomatique et consulaire, visant à l'adapter aux évolutions du monde, tout en apportant la contribution attendue du ministère des affaires étrangères et du développement international à l'assainissement des finances publiques. La diminution du nombre de consulats de plein exercice dans les pays de l'Union européenne est, en outre, une recommandation de la Cour des comptes, visant à dégager des marges pour mieux accompagner nos communautés hors d'Europe. Préparé de longue date, l'allègement des compétences consulaires du consulat d'Edimbourg a été rendu effectif par un arrêté publié au Journal officiel du 24 juin 2016, prenant effet au 1er juillet 2016. Une campagne d'information a été menée depuis plusieurs mois, tant à destination de la communauté française d'Ecosse que des autorités locales. Depuis l'été 2015, l'essentiel des suppressions de postes permises par cette évolution a déjà eu lieu. Des mesures d'accompagnement (externalisation des demande de visas à Edimbourg, dématérialisation de démarches, tournées consulaires de l'ambassade de France à Londres) ont été ou seront mises en place. Le nouveau format de notre consulat général à Edimbourg ne constitue en aucun cas un renoncement aux liens privilégiés et forts qui nous unissent à l'Ecosse. Le consul général continuera à exercer notre influence dans les milieux politiques, économiques et culturels, ainsi qu'à développer nos relations avec les différentes composantes de l'Ecosse. Des mesures d'adaptation au contexte nouveau créé par le Brexit et ses suites pourront être prises le moment venu.
