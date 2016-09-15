@@ -1,0 +1,9 @@
+# Réponse à la question SEQ150717450
+
+- Question : [SEQ150717450](seq150717450.md) — Charges locatives récupérables
+
+## Réponse
+
+*Logement et habitat durable, JO du 2016-09-15, page 3953*
+
+Le décret n° 82-955 du 9 novembre 1982 modifié relatif au parc locatif social et le décret n° 87-713 du 26 août 1987 modifié relatif au parc locatif privé fixent la liste des charges récupérables exigibles en contrepartie des services rendus liés à l'usage des différents éléments de la chose louée, des dépenses d'entretien courant et des menues réparations sur les éléments d'usage commun de la chose louée. Ainsi, ces deux décrets prévoient que lorsque le gardien assure, conformément à son contrat de travail, l'entretien des parties communes et l'élimination des rejets, les dépenses correspondant à sa rémunération et aux charges sociales et fiscales y afférentes sont exigibles au titre des charges récupérables à concurrence de 75 % de leur montant, y compris notamment en cas d'arrêt de travail. Ce taux est de 40 % lorsque le gardien n'assure, conformément à son contrat de travail, que l'une ou l'autre des deux tâches. Aucune durée maximale d'arrêt de travail n'est cependant fixée par les textes en vigueur, ni au demeurant par la jurisprudence. Les indemnités journalières perçues par le gardien en arrêt de travail sont versées par les organismes sociaux et ne peuvent être assimilées à des dépenses engagées par le bailleur. Par ailleurs, en application de l'article L. 323-11 du code de la sécurité sociale, ces indemnités peuvent être versées cumulativement de tout ou partie du salaire ou des avantages en nature du gardien, soit en vertu d'un contrat individuel ou collectif de travail, soit en vertu des usages, soit de la propre initiative de l'employeur. Dès lors, ces indemnités journalières n'ont pas vocation à être intégrées dans les charges récupérables.
