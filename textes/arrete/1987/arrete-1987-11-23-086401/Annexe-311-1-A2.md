@@ -4,41 +4,29 @@
 
 1. Engins de sauvetage
 
-Colonne 4 : la circulaire MSC/ Circ. 980 de l'OMI s'applique sauf en cas de remplacement par les instruments spécifiques mentionnés dans la colonne 4.
+Colonne 4 : la circulaire MSC/Circ. 980 de l'OMI s'applique sauf en cas de remplacement par les instruments spécifiques mentionnés dans la colonne 4.
 
-N°
-
-|
-
-NOM
-
-de l'article
+N°.
 
 |
 
-RÈGLE SOLAS 74
-
-modifiée, qui requiert une "approbation de type"
+Nom de l'article
 
 |
 
-RÈGLES SOLAS 74, TELLES QUE MODIFIÉES,
-
-applicables et résolutions et circulaires applicables
-
-de l'OMI
+Règle SOLAS 74 modifiée, qui requiert une "approbation de type"
 
 |
 
-NORMES
-
-d'essai
+Règles SOLAS 74, telles que modifiées, applicables et résolutions et circulaires applicables de l'OMI
 
 |
 
-MODULES
+Normes d'essai
 
-d'évaluation de la conformité
+|
+
+Modules d'évaluation de la conformité
 
 |
 
@@ -66,7 +54,7 @@ d'évaluation de la conformité
 
 |
 
-A. 2/1.1
+A.2/1.1
 
 |
 
@@ -82,7 +70,7 @@ Réflecteur radar pour radeaux de sauvetage
 
 |
 
--Rés. MSC 48 (66) de l'OMI-(Recueil LSA).
+-Rés. MSC 48(66) de l'OMI - (Recueil LSA).
 
 |
 
@@ -90,7 +78,7 @@ Réflecteur radar pour radeaux de sauvetage
 
 |
 
-A. 2/1.2
+A.2/1.2
 
 |
 
@@ -102,7 +90,7 @@ Intentionnellement blanc
 
 |
 
-A. 2/1.3
+A.2/1.3
 
 |
 
@@ -114,25 +102,25 @@ Intentionnellement blanc
 
 |
 
-A. 2/1.4
+A.2/1.4
 
 |
 
-Echelles d'embarquement
+Échelles d'embarquement
 
 |
 
-Transféré à l'annexe A. 1/4.29
+Transféré à l'annexe A.1/4.29
 
 |
 
-A. 2/1.5
+A.2/1.5
 
 |
 
 Système d'alarme générale et dispositif de communication avec le public
 
-(en cas d'utilisation comme dispositif d'avertissement d'incendie, l'article applicable est A. 1/3.53)
+(en cas d'utilisation comme dispositif d'avertissement d'incendie, l'article applicable est A.1/3.53)
 
 |
 
@@ -140,15 +128,15 @@ Système d'alarme générale et dispositif de communication avec le public
 
 |
 
--Rés. A. 1021 (26) de l'OMI,
+-Rés. A.1021(26) de l'OMI,
 
--Rés. MSC 36 (63) de l'OMI-(Recueil HSC de 1994),
+-Rés. MSC 36(63) de l'OMI - (Recueil HSC de 1994),
 
--Rés. MSC 48 (66) de l'OMI-(Recueil LSA),
+-Rés. MSC 48(66) de l'OMI - (Recueil LSA),
 
--Rés. MSC. 97 (73) de l'OMI-(Recueil HSC de 2000),
+-Rés. MSC.97(73) de l'OMI - (Recueil HSC de 2000),
 
--Circulaire MSC/ Circ. 808 de l'OMI.
+-Circulaire MSC/Circ.808 de l'OMI.
 
 |
 
@@ -158,37 +146,27 @@ Système d'alarme générale et dispositif de communication avec le public
 
 2. Prévention de la pollution marine
 
-N°
+N°.
 
 |
 
-NOM
-
-de l'article
+Nom de l'article
 
 |
 
-RÈGLE MARPOL
-
-73/78 modifiée, qui requiert une "approbation de type"
+Règle MARPOL 73/78 modifiée, qui requiert une "approbation de type"
 
 |
 
-RÈGLES MARPOL 73/78, TELLES QUE MODIFIÉES,
-
-applicables et résolutions et circulaires applicables
-
-de l'OMI
+Règles MARPOL 73/78, telles que modifiées, applicables et résolutions et circulaires applicables de l'OMI
 
 |
 
-NORMES D'ESSAI
+Normes d'essai
 
 |
 
-MODULES
-
-d'évaluation de la conformité
+Modules d'évaluation de la conformité
 
 |
 
@@ -216,19 +194,19 @@ d'évaluation de la conformité
 
 |
 
-A. 2/2.1
+A.2/2.1
 
 |
 
-Analyseurs de NOx de type détecteur à chimiluminescence (CLD) ou détecteur à chimiluminescence chauffé (HCLD) à utiliser dans la mesure directe à bord
+Analyseurs de Nox de type détecteur à chimiluminescence (CLD) ou détecteur à chimiluminescence chauffé (HCLD) à utiliser dans la mesure directe à bord
 
 |
 
-Transféré à l'annexe A. 1/2.8
+Transféré à l'annexe A.1/2.8
 
 |
 
-A. 2/2.2
+A.2/2.2
 
 |
 
@@ -236,19 +214,15 @@ Systèmes de nettoyage embarqués des gaz d'échappement
 
 |
 
-Transféré à l'annexe A. 1/2.10
+Transféré à l'annexe A.1/2.10
 
 |
 
-A. 2/2.3
+A.2/2.3
 
 |
 
-Equipement utilisant d'autres méthodes équivalentes pour réduire les émissions à bord de NOx
-
-|
-
--Annexe VI, Règ. 4.
+Équipement utilisant d'autres méthodes équivalentes pour réduire les émissions à bord de NOx
 
 |
 
@@ -256,25 +230,7 @@ Equipement utilisant d'autres méthodes équivalentes pour réduire les émissio
 
 |
 
-|
-
-|
-
-A. 2/2.4
-
-|
-
-Equipement utilisant d'autres méthodes technologiques pour limiter les émissions de SOx
-
-|
-
--Rés. MEPC. 176 (58) de l'OMI-(annexe VI révisée de la convention MARPOL, Règ. 4),
-
--Rés. MEPC. 184 (59) de l'OMI.
-
-|
-
--Rés. MEPC. 176 (58) de l'OMI-(annexe VI révisée de la convention MARPOL, Règ. 4).
+-Annexe VI, Règ. 4.
 
 |
 
@@ -282,55 +238,65 @@ Equipement utilisant d'autres méthodes technologiques pour limiter les émissio
 
 |
 
-A. 2/2.5
+A.2/2.4
 
 |
 
-Analyseurs de NOx à bord
-
-utilisant une méthode de mesure autre que la méthode de mesure directe et de contrôle du Code technique NOx, 2008 (NOx Technical Code)
+Équipement utilisant d'autres méthodes technologiques pour limiter les émissions de SOx
 
 |
 
-Intentionnellement blanc puisque ce type d'équipement est inclus dans l'annexe A. 1/2.8
+-Rés. MEPC.176(58) de l'OMI - (annexe VI révisée de la convention MARPOL, Règ. 4),
+
+-Rés. MEPC.184(59) de l'OMI.
 
 |
 
-3. Equipements de protection contre les incendies
-
-N°
+-Rés. MEPC.176(58) de l'OMI - (annexe VI révisée de la convention MARPOL, Règ. 4).
 
 |
 
-NOM
-
-de l'article
+|
 
 |
 
-RÈGLE SOLAS 74
-
-modifiée, qui requiert une "approbation de type"
+A.2/2.5
 
 |
 
-RÈGLES SOLAS 74, TELLES QUE MODIFIÉES,
+Analyseurs de Nox à bord
 
-applicables et résolutions et circulaires applicables
-
-de l'OMI
+utilisant une méthode de mesure autre que la méthode de mesure directe et de contrôle du Code technique NOx, 2008 (NOx Technical Code),
 
 |
 
-NORMES
-
-d'essai
+Intentionnellement blanc puisque ce type d'équipement est inclus dans l'annexe A.1/2.8
 
 |
 
-MODULES
+3. Équipements de protection contre les incendies
 
-d'évaluation de la conformité
+N°.
+
+|
+
+Nom de l'article
+
+|
+
+Règle SOLAS 74 modifiée, qui requiert une "approbation de type"
+
+|
+
+Règles SOLAS 74, telles que modifiées, applicables et résolutions et circulaires applicables de l'OMI
+
+|
+
+Normes d'essai
+
+|
+
+Modules d'évaluation de la conformité
 
 |
 
@@ -358,7 +324,7 @@ d'évaluation de la conformité
 
 |
 
-A. 2/3.1
+A.2/3.1
 
 |
 
@@ -366,11 +332,11 @@ Extincteurs non portatifs et transportables
 
 |
 
-Transféré à l'annexe A. 1/3.52
+Transféré à l'annexe A.1/3.52
 
 |
 
-A. 2/3.2
+A.2/3.2
 
 |
 
@@ -378,11 +344,11 @@ Diffuseurs pour dispositifs fixes d'extinction d'incendie par projection d'eau s
 
 |
 
-Transféré à l'annexe A. 1/3.49
+Transféré à l'annexe A.1/3.49
 
 |
 
-A. 2/3.3
+A.2/3.3
 
 |
 
@@ -390,25 +356,25 @@ Démarreur par temps froid de groupes électrogènes (dispositifs de démarrage)
 
 |
 
-Transféré à l'annexe A. 2/8.1
+Transféré à l'annexe A.2/8.1
 
 |
 
-A. 2/3.4
+A.2/3.4
 
 |
 
 Ajutages de type combiné
 
-(diffusion/ jet)
+(diffusion/jet)
 
 |
 
-Transféré à l'annexe A. 1/3.55
+Transféré à l'annexe A.1/3.55
 
 |
 
-A. 2/3.5
+A.2/3.5
 
 |
 
@@ -416,11 +382,11 @@ Composants de dispositifs fixes de détection et d'avertissement d'incendie pour
 
 |
 
-Transféré à l'annexe A. 1/3.51
+Transféré à l'annexe A.1/3.51
 
 |
 
-A. 2/3.6
+A.2/3.6
 
 |
 
@@ -428,11 +394,11 @@ Détecteurs de fumée
 
 |
 
-Transféré à l'annexe A. 1/3.51
+Transféré à l'annexe A.1/3.51
 
 |
 
-A. 2/3.7
+A.2/3.7
 
 |
 
@@ -440,11 +406,11 @@ Détecteurs de chaleur
 
 |
 
-Transféré à l'annexe A. 1/3.51
+Transféré à l'annexe A.1/3.51
 
 |
 
-A. 2/3.8
+A.2/3.8
 
 |
 
@@ -456,17 +422,17 @@ Fanal de sécurité électrique
 
 -Règ. X/3,
 
--Rés. MSC 98 (73) de l'OMI-(Recueil FSS) 3.
+-Rés. MSC 98(73) de l'OMI - (Recueil FSS) 3.
 
 |
 
 -Règ. II-2/10,
 
--Rés. MSC 36 (63) de l'OMI-(Recueil HSC de 1994) 7,
+-Rés. MSC 36(63) de l'OMI - (Recueil HSC de 1994) 7,
 
--Rés. MSC 97 (73) de l'OMI-(Recueil HSC de 2000) 7,
+-Rés. MSC 97(73) de l'OMI - (Recueil HSC de 2000) 7,
 
--Rés. MSC 98 (73) de l'OMI-(Recueil FSS), 3.
+- Rés. MSC 98(73) de l'OMI - (Recueil FSS), 3.
 
 |
 
@@ -476,7 +442,7 @@ Fanal de sécurité électrique
 
 |
 
-A. 2/3.9
+A.2/3.9
 
 |
 
@@ -490,9 +456,9 @@ Vêtement protecteur résistant aux attaques chimiques
 
 -Règ. II-2/19,
 
--Rés. MSC 36 (63) de l'OMI-(Recueil HSC de 1994) 7,
+-Rés. MSC 36(63) de l'OMI - (Recueil HSC de 1994) 7,
 
--Rés. MSC 97 (73) de l'OMI-(Recueil HSC de 2000) 7.
+-Rés. MSC 97(73) de l'OMI - (Recueil HSC de 2000) 7.
 
 |
 
@@ -506,13 +472,13 @@ Vêtement protecteur résistant aux attaques chimiques
 
 -EN 14605 (2005), y compris A1 (2009),
 
--Circulaire MSC/ Circ. 1120 de l'OMI.
+-Circulaire MSC/Circ.1120 de l'OMI.
 
 |
 
 |
 
-A. 2/3.10
+A.2/3.10
 
 |
 
@@ -520,11 +486,11 @@ Systèmes d'éclairage à faible hauteur
 
 |
 
-Transféré à l'annexe A. 1/3.40
+Transféré à l'annexe A.1/3.40
 
 |
 
-A. 2/3.11
+A.2/3.11
 
 |
 
@@ -532,11 +498,11 @@ Diffuseurs pour dispositifs fixes d'extinction d'incendie par projection d'eau s
 
 |
 
-Transféré à l'annexe A. 1/3.10
+Transféré à l'annexe A.1/3.10
 
 |
 
-A. 2/3.12
+A.2/3.12
 
 |
 
@@ -544,11 +510,11 @@ Dispositifs fixes d'extinction d'incendie au gaz équivalents pour locaux de mac
 
 |
 
-Transféré à l'annexe A. 1/3.45
+Transféré à l'annexe A.1/3.45
 
 |
 
-A. 2/3.13
+A.2/3.13
 
 |
 
@@ -562,7 +528,7 @@ Article supprimé
 
 |
 
-A. 2/3.14
+A.2/3.14
 
 |
 
@@ -570,11 +536,11 @@ Manches d'incendie (à enrouler)
 
 |
 
-Transféré à l'annexe A. 1/3.56
+Transféré à l'annexe A.1/3.56
 
 |
 
-A. 2/3.15
+A.2/3.15
 
 |
 
@@ -582,11 +548,11 @@ Composants de dispositifs de détection de la fumée par prélèvement d'échant
 
 |
 
-Transféré à l'annexe A. 1/3.63
+Transféré à l'annexe A.1/3.63
 
 |
 
-A. 2/3.16
+A.2/3.16
 
 |
 
@@ -594,11 +560,11 @@ Détecteurs de flammes
 
 |
 
-Transféré à l'annexe A. 1/3.51
+Transféré à l'annexe A.1/3.51
 
 |
 
-A. 2/3.17
+A.2/3.17
 
 |
 
@@ -606,11 +572,11 @@ Avertisseurs d'incendie à commande manuelle
 
 |
 
-Transféré à l'annexe A. 1/3.51
+Transféré à l'annexe A.1/3.51
 
 |
 
-A. 2/3.18
+A.2/3.18
 
 |
 
@@ -618,11 +584,11 @@ Dispositifs d'alarme
 
 |
 
-Transféré à l'annexe A. 1/3.53
+Transféré à l'annexe A.1/3.53
 
 |
 
-A. 2/3.19
+A.2/3.19
 
 |
 
@@ -630,11 +596,11 @@ Composants de dispositifs fixes d'extinction d'incendie par eau à action direct
 
 |
 
-Transféré à l'annexe A. 1/3.48
+Transféré à l'annexe A.1/3.48
 
 |
 
-A. 2/3.20
+A.2/3.20
 
 |
 
@@ -642,11 +608,11 @@ Mobilier rembourré
 
 |
 
-Transféré à l'annexe A. 1/3.20
+Transféré à l'annexe A.1/3.20
 
 |
 
-A. 2/3.21
+A.2/3.21
 
 |
 
@@ -660,7 +626,7 @@ Composants de dispositifs d'extinction de l'incendie pour les magasins à peintu
 
 -Règ. II-2/10,
 
--Circulaire MSC. 1/ Circ. 1239 de l'OMI.
+-Circulaire MSC.1/Circ.1239 de l'OMI.
 
 |
 
@@ -668,7 +634,7 @@ Composants de dispositifs d'extinction de l'incendie pour les magasins à peintu
 
 |
 
-A. 2/3.22
+A.2/3.22
 
 |
 
@@ -676,11 +642,11 @@ Composants de dispositifs fixes d'extinction d'incendie pour les conduits d'éva
 
 |
 
-Transféré à l'annexe A. 1/3.68
+Transféré à l'annexe A.1/3.68
 
 |
 
-A. 2/3.23
+A.2/3.23
 
 |
 
@@ -688,11 +654,11 @@ Composants de dispositifs d'extinction de l'incendie pour héliplateformes
 
 |
 
-Transféré à l'annexe A. 1/3.67
+Transféré à l'annexe A.1/3.67
 
 |
 
-A. 2/3.24
+A.2/3.24
 
 |
 
@@ -712,23 +678,23 @@ Diffuseurs à mousse portatifs
 
 -Règ. II-2/20,
 
--Rés. MSC 36 (63) de l'OMI-(Recueil HSC de 1994) 7,
+-Rés. MSC 36(63) de l'OMI - (Recueil HSC de 1994) 7,
 
--Rés. MSC 97 (73) de l'OMI-(Recueil HSC de 2000) 7,
+-Rés. MSC 97(73) de l'OMI - (Recueil HSC de 2000) 7,
 
--Rés. MSC 98 (73) de l'OMI-(Recueil FSS) 4,
+- Rés. MSC 98(73) de l'OMI - (Recueil FSS) 4,
 
--Circulaire MSC. 1/ Circ. 1239 de l'OMI,
+-Circulaire MSC.1/Circ.1239 de l'OMI,
 
--Circulaire MSC. 1/ Circ. 1313 de l'OMI.
-
-|
+-Circulaire MSC.1/Circ.1313 de l'OMI.
 
 |
 
 |
 
-A. 2/3.25
+|
+
+A.2/3.25
 
 |
 
@@ -736,11 +702,11 @@ Cloisonnements de type "C"
 
 |
 
-Transféré à l'annexe A. 1/3.64
+Transféré à l'annexe A.1/3.64
 
 |
 
-A. 2/3.26
+A.2/3.26
 
 |
 
@@ -754,7 +720,7 @@ Systèmes de combustible gazeux utilisés à des fins domestiques (composants)
 
 -Règ. II-2/4,
 
--Circulaire MSC. 1/ Circ. 1276 de l'OMI.
+-Circulaire MSC.1/Circ.1276 de l'OMI.
 
 |
 
@@ -762,7 +728,7 @@ Systèmes de combustible gazeux utilisés à des fins domestiques (composants)
 
 |
 
-A. 2/3.27
+A.2/3.27
 
 |
 
@@ -780,17 +746,17 @@ Composants de dispositifs fixes d'extinction de l'incendie par le gaz CO2
 
 -Règ. II-2/20,
 
--Rés. MSC 36 (63) de l'OMI-(Recueil HSC de 1994) 7,
+-Rés. MSC 36(63) de l'OMI - (Recueil HSC de 1994) 7,
 
--Rés. MSC 97 (73) de l'OMI-(Recueil HSC de 2000) 7,
+-Rés. MSC 97(73) de l'OMI - (Recueil HSC de 2000) 7,
 
--Rés. MSC 98 (73) de l'OMI-(Recueil FSS) 5,
+- Rés. MSC 98(73) de l'OMI - (Recueil FSS) 5,
 
--Circulaire MSC. 1/ Circ. 1313 de l'OMI,
+-Circulaire MSC.1/Circ.1313 de l'OMI,
 
--Circulaire MSC. 1/ Circ. 1318 de l'OMI,
+-Circulaire MSC.1/Circ.1318 de l'OMI,
 
--Circulaire MSC. 1/ Circ. 1456 de l'OMI.
+-Circulaire MSC.1/Circ.1456 de l'OMI.
 
 |
 
@@ -808,13 +774,9 @@ Dispositifs non électriques automatiques de commande et de temporisation
 
 |
 
-|
-
 Dispositifs manuels de déclenchement et d'arrêt d'urgence
 
 -EN 12094-3 (2003).
-
-|
 
 |
 
@@ -824,13 +786,9 @@ Vannes de réservoir haute pression et leurs déclencheurs
 
 |
 
-|
-
 Vannes directionnelles haute et basse pression et leurs déclencheurs
 
 -EN 12094-5 (2006).
-
-|
 
 |
 
@@ -840,13 +798,9 @@ Dispositifs non électriques de mise hors service
 
 |
 
-|
-
 Diffuseurs pour systèmes à CO2
 
--EN 12094-7 (2000) y compris A1 (2005).
-
-|
+-EN 12094-7 (2000) y compris A1(2005).
 
 |
 
@@ -856,13 +810,9 @@ Connecteurs
 
 |
 
-|
-
 Manomètres et contacts à pression
 
 -EN 12094-10 (2003).
-
-|
 
 |
 
@@ -872,13 +822,9 @@ Dispositifs de pesée mécaniques :
 
 |
 
-|
-
 Clapet anti-retour :
 
 -EN 12094-13 (2001), y compris AC (2002).
-
-|
 
 |
 
@@ -888,21 +834,19 @@ Dispositifs odorisants pour installations à CO2 basse pression
 
 |
 
-|
-
-A. 2/3.28
+A.2/3.28
 
 |
 
-Composants de dispositifs d'extinction de l'incendie à mousse à foisonnement moyen-diffuseurs à mousse fixes pour pétroliers
+Composants de dispositifs d'extinction de l'incendie à mousse à foisonnement moyen - diffuseurs à mousse fixes pour pétroliers
 
 |
 
-Transféré à l'annexe A. 1/3.57
+Transféré à l'annexe A.1/3.57
 
 |
 
-A. 2/3.29
+A.2/3.29
 
 |
 
@@ -910,11 +854,11 @@ Composants de dispositifs fixes d'extinction de l'incendie à mousse à bas fois
 
 |
 
-Transféré à l'annexe A. 1/3.58
+Transféré à l'annexe A.1/3.58
 
 |
 
-A. 2/3.30
+A.2/3.30
 
 |
 
@@ -922,11 +866,11 @@ Mousse à foisonnement pour dispositifs fixes d'extinction d'incendie pour les c
 
 |
 
-Transféré à l'annexe A. 1/3.59
+Transféré à l'annexe A.1/3.59
 
 |
 
-A. 2/3.31
+A.2/3.31
 
 |
 
@@ -950,7 +894,7 @@ Dispositif de projection d'eau à commande manuelle
 
 |
 
-A. 2/3.32
+A.2/3.32
 
 |
 
@@ -958,11 +902,11 @@ Dispositifs d'extinction à poudre chimique sèche
 
 |
 
-Transféré à l'annexe A. 1/3.62
+Transféré à l'annexe A.1/3.62
 
 |
 
-A. 2/3.33
+A.2/3.33
 
 Nouvel article
 
@@ -974,97 +918,85 @@ Manches d'incendie d'un diamètre > 52 mm
 
 -Règ. II-2/10,
 
--Règ. X/3.
+-Règ.X/3.
 
 |
 
 -Règ. II-2/10,
 
--Rés. MSC 36 (63) de l'OMI-(Recueil HSC de 1994) 7,
+-Rés. MSC 36(63) de l'OMI - (Recueil HSC de 1994) 7,
 
--Rés. MSC 97 (73) de l'OMI-(Recueil HSC de 2000) 7.
-
-|
+-Rés. MSC 97(73) de l'OMI - (Recueil HSC de 2000) 7.
 
 |
 
 |
 
-4. Equipements de navigation
+|
 
-Notes concernant le point 4 : Equipements de navigation
+4. Équipements de navigation
+
+Notes concernant le point 4 : Équipements de navigation
 
 Colonnes 3 et 4 : la référence au chapitre V de la convention SOLAS doit s'entendre comme une référence à SOLAS 1974 dans sa version modifiée par la résolution MSC 73, qui est entrée en vigueur le 1er juillet 2002.
 
-Colonne 4 : les équipements de navigation sont conformes aux points pertinents de la résolution A. 1021 (26) de l'OMI "Recueil de règles relatives aux alertes et aux indicateurs, 2009" et de la résolution MSC. 302 (87) de l'OMI "Recommandation sur les normes de performance pour la gestion des alertes à la passerelle", le cas échéant.
+Colonne 4 : les équipements de navigation sont conformes aux points pertinents de la résolution A.1021(26) de l'OMI "Recueil de règles relatives aux alertes et aux indicateurs, 2009" et de la résolution MSC.302(87) de l'OMI "Recommandation sur les normes de performance pour la gestion des alertes à la passerelle", le cas échéant.
 
 Colonne 5 :
 
-La série CEI 61162 porte sur les normes de référence suivantes pour les Matériels et systèmes de navigation et de radiocommunication maritimes-Interfaces numériques :
+La série CEI 61162 porte sur les normes de référence suivantes pour les Matériels et systèmes de navigation et de radiocommunication maritimes - Interfaces numériques :
 
--CEI 61162-1 éd4. 0 (2010-11)-Partie 1 : Emetteur unique et récepteurs multiples
+CEI 61162-1 éd4.0 (2010-11) - Partie 1 : Émetteur unique et récepteurs multiples
 
--CEI 61162-2 éd1. 0 (1998-09)-Partie 2 : Emetteur unique et récepteurs multiples, transfert rapide de données
+CEI 61162-2 éd1.0 (1998-09) - Partie 2 : Émetteur unique et récepteurs multiples, transfert rapide de données
 
--CEI 61162-3 éd1. 2 compilation avec amendement 1 éd. 1.0 (2010-11) et amendement 2 éd. 1.0 (2014-07)
+CEI 61162-3 éd1.2 compilation avec amendement 1 éd.1.0 (2010-11) et amendement 2 éd. 1.0 (2014-07)
 
--Partie 3 : Réseau par liaison de données série d'instruments
+Partie 3 : Réseau par liaison de données série d'instruments
 
--CEI 61162-3 éd1. 0 (2008-05)-Partie 3 : Réseau par liaison de données série d'instruments
+CEI 61162-3 éd1.0 (2008-05) - Partie 3 : Réseau par liaison de données série d'instruments
 
--CEI 61162-3 am1 éd1. 0 (2010-06)-Amendement 1-Partie 3 : Réseau par liaison de données série d'instruments
+CEI 61162-3 am1 éd1.0 (2010-06) - Amendement 1 - Partie 3 : Réseau par liaison de données série d'instruments
 
--CEI 61162-3 am2 éd1. 0 (2014-07)-Amendement 2-Partie 3 : Réseau par liaison de données série d'instruments
+CEI 61162-3 am2 éd1.0 (2014-07) - Amendement 2 - Partie 3 : Réseau par liaison de données série d'instruments
 
--CEI 61162-450 éd1. 0 (2011-06)-Partie 450 : Emetteurs multiples et récepteurs multiples-Interconnexion Ethernet
+CEI 61162-450 éd1.0 (2011-06) - Partie 450 : Émetteurs multiples et récepteurs multiples - Interconnexion Ethernet
 
-La série EN 61162 porte sur les normes de référence suivantes pour les Matériels et systèmes de navigation et de radiocommunication maritimes-Interfaces numériques :
+La série EN 61162 porte sur les normes de référence suivantes pour les Matériels et systèmes de navigation et de radiocommunication maritimes - Interfaces numériques :
 
--EN 61162-1 (2011)-Partie 1 : Emetteur unique et récepteurs multiples
+EN 61162-1 (2011) - Partie 1 : Émetteur unique et récepteurs multiples
 
--EN 61162-2 (1998)-Partie 2 : Emetteur unique et récepteurs multiples, transfert rapide de données
+EN 61162-2 (1998) - Partie 2 : Émetteur unique et récepteurs multiples, transfert rapide de données
 
--EN 61162-3 (2008)-Partie 3 : Réseau par liaison de données série d'instruments
+EN 61162-3 (2008) - Partie 3 : Réseau par liaison de données série d'instruments
 
--EN 61162-3 am1 (2010)-Amendement 1-Partie 3 : Réseau par liaison de données série d'instruments
+EN 61162-3 am1 (2010) - Amendement 1 - Partie 3 : Réseau par liaison de données série d'instruments
 
--CEI 61162-3 am2 éd1. 0 (2014-07)-Amendement 2-Partie 3 : Réseau par liaison de données série d'instrument
+CEI 61162-3 am2 éd1.0 (2014-07) - Amendement 2 - Partie 3 : Réseau par liaison de données série d'instrument
 
--EN 61162-450 (2011)-Partie 450 : Emetteurs multiples et récepteurs multiples-Interconnexion Ethernet
+EN 61162-450 (2011) - Partie 450 : Émetteurs multiples et récepteurs multiples - Interconnexion Ethernet
 
-N°
-
-|
-
-NOM
-
-de l'article
+N°.
 
 |
 
-RÈGLE SOLAS 74
-
-modifiée, qui requiert une "approbation de type"
+Nom de l'article
 
 |
 
-RÈGLES SOLAS 74, TELLES QUE MODIFIÉES,
-
-applicables et résolutions et circulaires applicables de l'OMI
-
-et recommandations de l'UIT, le cas échéant
+Règle SOLAS 74 modifiée, qui requiert une "approbation de type"
 
 |
 
-NORMES
-
-d'essai
+Règles SOLAS 74, telles que modifiées, applicables et résolutions et circulaires applicables de l'OMI et recommandations de l'UIT, le cas échéant
 
 |
 
-MODULES
+Normes d'essai
 
-d'évaluation de la conformité
+|
+
+Modules d'évaluation de la conformité
 
 |
 
@@ -1092,7 +1024,7 @@ d'évaluation de la conformité
 
 |
 
-A. 2/4.1
+A.2/4.1
 
 |
 
@@ -1100,11 +1032,11 @@ Gyrocompas pour engins à grande vitesse
 
 |
 
-Transféré à l'annexe A. 1/4.31
+Transféré à l'annexe A.1/4.31
 
 |
 
-A. 2/4.2
+A.2/4.2
 
 |
 
@@ -1112,11 +1044,11 @@ Système de contrôle de route pour engins à grande vitesse (précédemment pil
 
 |
 
-Transféré à l'annexe A. 1/4.40
+Transféré à l'annexe A.1/4.40
 
 |
 
-A. 2/4.3
+A.2/4.3
 
 |
 
@@ -1124,11 +1056,11 @@ Dispositif de contrôle de route à transmission (THD), de type GNSS
 
 |
 
-Transféré à l'annexe A. 1/4.41
+Transféré à l'annexe A.1/4.41
 
 |
 
-A. 2/4.4
+A.2/4.4
 
 |
 
@@ -1136,11 +1068,11 @@ Fanal de signalisation diurne
 
 |
 
-Transféré à l'annexe A. 1/4.52
+Transféré à l'annexe A.1/4.52
 
 |
 
-A. 2/4.5
+A.2/4.5
 
 |
 
@@ -1148,23 +1080,23 @@ Projecteur pour engins à grande vitesse
 
 |
 
-Transféré à l'annexe A. 1/4.42
+Transféré à l'annexe A.1/4.42
 
 |
 
-A. 2/4.6
+A.2/4.6
 
 |
 
-Equipement de vision nocturne pour engins à grande vitesse
+Équipement de vision nocturne pour engins à grande vitesse
 
 |
 
-Transféré à l'annexe A. 1/4.43
+Transféré à l'annexe A.1/4.43
 
 |
 
-A. 2/4.7
+A.2/4.7
 
 |
 
@@ -1172,11 +1104,11 @@ Système de contrôle de poursuite
 
 |
 
-Transféré à l'annexe A. 1/4.33
+Transféré à l'annexe A.1/4.33
 
 |
 
-A. 2/4.8
+A.2/4.8
 
 |
 
@@ -1184,11 +1116,11 @@ Système électronique de visualisation des cartes marines (ECDIS)
 
 |
 
-Transféré à l'annexe A. 1/4.30
+Transféré à l'annexe A.1/4.30
 
 |
 
-A. 2/4.9
+A.2/4.9
 
 |
 
@@ -1196,11 +1128,11 @@ Sauvegarde de système électronique de visualisation des cartes marines (ECDIS)
 
 |
 
-Transféré à l'annexe A. 1/4.30
+Transféré à l'annexe A.1/4.30
 
 |
 
-A. 2/4.10
+A.2/4.10
 
 |
 
@@ -1208,15 +1140,15 @@ Système de visualisation de cartes tramées (RCDS)
 
 |
 
-Transféré à l'annexe A. 1/4.30
+Transféré à l'annexe A.1/4.30
 
 |
 
-A. 2/4.11
+A.2/4.11
 
 |
 
-Equipement combiné GPS/ GLONASS
+Équipement combiné GPS/GLONASS
 
 |
 
@@ -1224,23 +1156,23 @@ Equipement combiné GPS/ GLONASS
 
 -Règ. X/3,
 
--Rés. MSC 36 (63) de l'OMI-(Recueil HSC de 1994),
+-Rés. MSC 36(63) de l'OMI - (Recueil HSC de 1994),
 
--Rés. MSC 97 (73) de l'OMI-(Recueil HSC de 2000).
+-Rés. MSC 97(73) de l'OMI - (Recueil HSC de 2000).
 
 |
 
 -Règ. V/19,
 
--Rés. A. 694 (17) de l'OMI,
+-Rés. A.694(17) de l'OMI,
 
--Rés. MSC 36 (63) de l'OMI-(Recueil HSC de 1994),
+-Rés. MSC 36(63) de l'OMI - (Recueil HSC de 1994),
 
--Rés. MSC. 97 (73) de l'OMI-(Recueil HSC de 2000),
+-Rés. MSC.97(73) de l'OMI - (Recueil HSC de 2000),
 
--Rés. MSC 115 (73) de l'OMI,
+-Rés. MSC 115(73) de l'OMI,
 
--Rés. MSC 191 (79) de l'OMI.
+-Rés. MSC 191(79) de l'OMI.
 
 |
 
@@ -1264,25 +1196,25 @@ Ou,
 
 -série CEI 61162,
 
--CEI 62288 Ed. 2.0 (2014-07).
+-CEI 62288 Ed.2.0 (2014-07).
 
 |
 
 |
 
-A. 2/4.12
+A.2/4.12
 
 |
 
-Equipement DGPS, DGLONASS
+Équipement DGPS, DGLONASS
 
 |
 
-Transféré aux annexes A. 1/4.44, A. 1/4.50 et A. 1/4.51
+Transféré aux annexes A.1/4.44, A.1/4.50 et A.1/4.51
 
 |
 
-A. 2/4.13
+A.2/4.13
 
 |
 
@@ -1290,11 +1222,11 @@ Gyrocompas pour engins à grande vitesse
 
 |
 
-Transféré à l'annexe A. 1/4.31
+Transféré à l'annexe A.1/4.31
 
 |
 
-A. 2/4.14
+A.2/4.14
 
 |
 
@@ -1302,11 +1234,11 @@ Enregistreur des données du voyage (VDR)
 
 |
 
-Transféré à l'annexe A. 1/4.29
+Transféré à l'annexe A.1/4.29
 
 |
 
-A. 2/4.15
+A.2/4.15
 
 |
 
@@ -1314,11 +1246,11 @@ Système intégré de navigation
 
 |
 
-Transféré à l'annexe A. 1/4.59
+Transféré à l'annexe A.1/4.59
 
 |
 
-A. 2/4.16
+A.2/4.16
 
 |
 
@@ -1330,7 +1262,7 @@ Intentionnellement blanc
 
 |
 
-A. 2/4.17
+A.2/4.17
 
 |
 
@@ -1338,11 +1270,11 @@ Système de renforcement de cibles radar
 
 |
 
-Transféré à l'annexe A. 1/4.53
+Transféré à l'annexe A.1/4.53
 
 |
 
-A. 2/4.18
+A.2/4.18
 
 |
 
@@ -1350,11 +1282,11 @@ Dispositif de réception sonore
 
 |
 
-Transféré à l'annexe A. 1/4.58
+Transféré à l'annexe A.1/4.58
 
 |
 
-A. 2/4.19
+A.2/4.19
 
 |
 
@@ -1364,19 +1296,19 @@ Compas magnétique pour engins à grande vitesse
 
 -Règ. X/3,
 
--Rés. MSC 36 (63) de l'OMI-(Recueil HSC de 1994),
+-Rés. MSC 36(63) de l'OMI - (Recueil HSC de 1994),
 
--Rés. MSC 97 (73) de l'OMI-(Recueil HSC de 2000).
+-Rés. MSC 97(73) de l'OMI - (Recueil HSC de 2000).
 
 |
 
--Rés. A. 382 (X) de l'OMI,
+-Rés. A.382(X) de l'OMI,
 
--Rés. A. 694 (17) de l'OMI,
+-Rés. A.694 (17) de l'OMI,
 
--Rés. MSC 36 (63) de l'OMI-(Recueil HSC de 1994),
+-Rés. MSC 36(63) de l'OMI - (Recueil HSC de 1994),
 
--Rés. MSC 97 (73) de l'OMI-(Recueil HSC de 2000).
+-Rés. MSC 97(73) de l'OMI - (Recueil HSC de 2000).
 
 |
 
@@ -1398,31 +1330,31 @@ Ou,
 
 |
 
-A. 2/4.20
+A.2/4.20
 
 |
 
 Système de contrôle de poursuite pour
 
--engins à grande vitesse
+- engins à grande vitesse
 
 |
 
 -Règ. X/3,
 
--Rés. MSC 36 (63) de l'OMI-(Recueil HSC de 1994),
+-Rés. MSC 36(63) de l'OMI - (Recueil HSC de 1994),
 
--Rés. MSC 97 (73) de l'OMI-(Recueil HSC de 2000).
+-Rés. MSC 97(73) de l'OMI - (Recueil HSC de 2000).
 
 |
 
--Rés. A. 694 (17) de l'OMI,
+-Rés. A.694 (17) de l'OMI,
 
--Rés. MSC 36 (63) de l'OMI-(Recueil HSC de 1994),
+-Rés. MSC 36(63) de l'OMI - (Recueil HSC de 1994),
 
--Rés. MSC. 97 (73) de l'OMI-(Recueil HSC de 2000),
+-Rés. MSC.97(73) de l'OMI - (Recueil HSC de 2000),
 
--Rés. MSC 191 (79) de l'OMI.
+-Rés. MSC 191(79) de l'OMI.
 
 |
 
@@ -1438,13 +1370,13 @@ Ou,
 
 -série CEI 61162,
 
--CEI 62288 Ed. 2.0 (2014-07).
+-CEI 62288 Ed.2.0(2014-07).
 
 |
 
 |
 
-A. 2/4.21
+A.2/4.21
 
 |
 
@@ -1452,11 +1384,11 @@ Matériel cartographique pour radar de bord
 
 |
 
-Transféré à l'annexe A. 1/4.45
+Transféré à l'annexe A.1/4.45
 
 |
 
-A. 2/4.22
+A.2/4.22
 
 |
 
@@ -1464,11 +1396,11 @@ Dispositif de contrôle de route à transmission (THD), de type gyroscopique
 
 |
 
-Transféré à l'annexe A. 1/4.46
+Transféré à l'annexe A.1/4.46
 
 |
 
-A. 2/4.23
+A.2/4.23
 
 |
 
@@ -1476,11 +1408,11 @@ Dispositif de contrôle de route à transmission (THD), de type magnétique
 
 |
 
-Transféré à l'annexe A. 1/4.2
+Transféré à l'annexe A.1/4.2
 
 |
 
-A. 2/4.24
+A.2/4.24
 
 |
 
@@ -1492,21 +1424,21 @@ Indicateur de poussée
 
 -Règ. X/3,
 
--Rés. MSC 36 (63) de l'OMI-(Recueil HSC de 1994),
+-Rés. MSC 36(63) de l'OMI - (Recueil HSC de 1994),
 
--Rés. MSC 97 (73) de l'OMI-(Recueil HSC de 2000).
+-Rés. MSC 97(73) de l'OMI - (Recueil HSC de 2000).
 
 |
 
 -Règ. V/19,
 
--Rés. A. 694 (17) de l'OMI,
+-Rés. A.694 (17) de l'OMI,
 
--Rés. MSC 36 (63) de l'OMI-(Recueil HSC de 1994),
+-Rés. MSC 36(63) de l'OMI - (Recueil HSC de 1994),
 
--Rés. MSC. 97 (73) de l'OMI-(Recueil HSC de 2000),
+-Rés. MSC.97(73) de l'OMI - (Recueil HSC de 2000),
 
--Rés. MSC 191 (79) de l'OMI.
+-Rés. MSC 191(79) de l'OMI.
 
 |
 
@@ -1522,13 +1454,13 @@ Ou,
 
 -série CEI 61162,
 
--CEI 62288 Ed. 2.0 (2014-07).
+-CEI 62288 Ed.2.0 (2014-07).
 
 |
 
 |
 
-A. 2/4.25
+A.2/4.25
 
 |
 
@@ -1540,21 +1472,21 @@ Indicateurs de poussée latérale, de pas et de mode de fonctionnement des héli
 
 -Règ. X/3,
 
--Rés. MSC 36 (63) de l'OMI-(Recueil HSC de 1994),
+-Rés. MSC 36(63) de l'OMI - (Recueil HSC de 1994),
 
--Rés. MSC 97 (73) de l'OMI-(Recueil HSC de 2000).
+-Rés. MSC 97(73) de l'OMI - (Recueil HSC de 2000).
 
 |
 
 -Règ. V/19,
 
--Rés. A. 694 (17) de l'OMI,
+-Rés. A.694 (17) de l'OMI,
 
--Rés. MSC 36 (63) de l'OMI-(Recueil HSC de 1994),
+-Rés. MSC 36(63) de l'OMI - (Recueil HSC de 1994),
 
--Rés. MSC. 97 (73) de l'OMI-(Recueil HSC de 2000),
+-Rés. MSC.97(73) de l'OMI - (Recueil HSC de 2000),
 
--Rés. MSC 191 (79) de l'OMI.
+-Rés. MSC 191(79) de l'OMI.
 
 |
 
@@ -1576,7 +1508,7 @@ Ou,
 
 |
 
-A. 2/4.26
+A.2/4.26
 
 |
 
@@ -1584,11 +1516,11 @@ Indicateur de taux de giration
 
 |
 
-Transféré à l'annexe A. 1/4.9
+Transféré à l'annexe A.1/4.9
 
 |
 
-A. 2/4.27
+A.2/4.27
 
 |
 
@@ -1596,11 +1528,11 @@ Indicateur d'angle de barre
 
 |
 
-Transféré à l'annexe A. 1/4.20
+Transféré à l'annexe A.1/4.20
 
 |
 
-A. 2/4.28
+A.2/4.28
 
 |
 
@@ -1608,11 +1540,11 @@ Indicateur de vitesse de rotation
 
 |
 
-Transféré à l'annexe A. 1/4.21
+Transféré à l'annexe A.1/4.21
 
 |
 
-A. 2/4.29
+A.2/4.29
 
 |
 
@@ -1620,11 +1552,11 @@ Indicateur de pas d'hélice
 
 |
 
-Transféré à l'annexe A. 1/4.22
+Transféré à l'annexe A.1/4.22
 
 |
 
-A. 2/4.30
+A.2/4.30
 
 |
 
@@ -1636,7 +1568,7 @@ Intentionnellement blanc
 
 |
 
-A. 2/4.31
+A.2/4.31
 
 |
 
@@ -1644,11 +1576,11 @@ Taximètre
 
 |
 
-Transféré à l'annexe A. 1/4.54
+Transféré à l'annexe A.1/4.54
 
 |
 
-A. 2/4.32
+A.2/4.32
 
 |
 
@@ -1656,11 +1588,11 @@ Système d'alarme de quart à la passerelle de navigation (BNWAS)
 
 |
 
-Transféré à l'annexe A. 1/4.57
+Transféré à l'annexe A.1/4.57
 
 |
 
-A. 2/4.33
+A.2/4.33
 
 |
 
@@ -1674,11 +1606,11 @@ Intentionnellement blanc
 
 |
 
-A. 2/4.34
+A.2/4.34
 
 |
 
-Equipements dotés de fonctions d'identification et de suivi à grande distance des navires (LRIT)
+Équipements dotés de fonctions d'identification et de suivi à grande distance des navires (LRIT)
 
 |
 
@@ -1686,7 +1618,7 @@ Intentionnellement blanc
 
 |
 
-A. 2/4.35
+A.2/4.35
 
 |
 
@@ -1694,23 +1626,23 @@ Récepteur Galileo
 
 |
 
-Transféré à l'annexe A. 1/4.56
+Transféré à l'annexe A.1/4.56
 
 |
 
-A. 2/4.36
+A.2/4.36
 
 |
 
-Equipement AIS-SART
+Équipement AIS-SART
 
 |
 
-Transféré à l'annexe A. 1/4.55
+Transféré à l'annexe A.1/4.55
 
 |
 
-A. 2/4.37
+A.2/4.37
 
 Nouvel article
 
@@ -1724,15 +1656,15 @@ Inclinomètre électronique
 
 |
 
--Rés. A. 694 (17) de l'OMI,
+-Rés. A.694(17) de l'OMI,
 
--Rés. MSC. 191 (79) de l'OMI,
+-Rés. MSC.191(79) de l'OMI,
 
--Rés. MSC. 363 (92) de l'OMI,
+-Rés. MSC.363(92) de l'OMI,
 
--Circulaire MSC. 1/ Circ. 982 de l'OMI,
+-Circulaire MSC.1/Circ.982 de l'OMI,
 
--Circulaire MSC. 1/ Circ. 1228.
+-Circulaire MSC.1/Circ.1228.
 
 |
 
@@ -1750,13 +1682,13 @@ Ou,
 
 |
 
-A. 2/4.38
+A.2/4.38
 
-Ex. A. 1/4.11
+Ex. A.1/4.11
 
 |
 
-Equipement Loran-C
+Équipement Loran-C
 
 |
 
@@ -1764,23 +1696,23 @@ Equipement Loran-C
 
 -Règ. X/3,
 
--Rés. MSC 36 (63) de l'OMI-(Recueil HSC de 1994) 13,
+-Rés. MSC 36(63) de l'OMI - (Recueil HSC de 1994) 13,
 
--Rés. MSC 97 (73) de l'OMI-(Recueil HSC de 2000) 13.
+-Rés. MSC 97(73) de l'OMI - (Recueil HSC de 2000) 13.
 
 |
 
 -Règ. V/19,
 
--Rés. A. 694 (17) de l'OMI,
+-Rés. A.694(17) de l'OMI,
 
--Rés. A. 818 (19) de l'OMI,
+-Rés. A.818(19) de l'OMI,
 
--Rés. MSC 36 (63) de l'OMI-(Recueil HSC de 1994) 13,
+-Rés. MSC 36(63) de l'OMI - (Recueil HSC de 1994) 13,
 
--Rés. MSC 97 (73) de l'OMI-(Recueil HSC de 2000) 13,
+-Rés. MSC 97(73) de l'OMI - (Recueil HSC de 2000) 13,
 
--Rés. MSC 191 (79) de l'OMI.
+-Rés. MSC 191(79) de l'OMI.
 
 |
 
@@ -1802,13 +1734,13 @@ Ou,
 
 |
 
-A. 2/4.39
+A.2/4.39
 
-Ex. A. 1/4.12
+Ex. A.1/4.12
 
 |
 
-Equipement Chayka
+Équipement Chayka
 
 |
 
@@ -1816,23 +1748,23 @@ Equipement Chayka
 
 -Règ. X/3,
 
--Rés. MSC 36 (63) de l'OMI-(Recueil HSC de 1994) 13,
+-Rés. MSC 36(63) de l'OMI - (Recueil HSC de 1994) 13,
 
--Rés. MSC 97 (73) de l'OMI-(Recueil HSC de 2000) 13.
+-Rés. MSC 97(73) de l'OMI - (Recueil HSC de 2000) 13.
 
 |
 
 -Règ. V/19,
 
--Rés. A. 694 (17) de l'OMI,
+-Rés. A.694(17) de l'OMI,
 
--Rés. A. 818 (19) de l'OMI,
+-Rés. A.818(19) de l'OMI,
 
--Rés. MSC 36 (63) de l'OMI-(Recueil HSC de 1994) 13,
+-Rés. MSC 36(63) de l'OMI - (Recueil HSC de 1994) 13,
 
--Rés. MSC 97 (73) de l'OMI-(Recueil HSC de 2000) 13,
+-Rés. MSC 97(73) de l'OMI - (Recueil HSC de 2000) 13,
 
--Rés. MSC 191 (79) de l'OMI.
+-Rés. MSC 191(79) de l'OMI.
 
 |
 
@@ -1854,75 +1786,63 @@ Ou,
 
 |
 
-5. Equipements de radiocommunications
+5. Équipements de radiocommunications
 
-Notes concernant le point 5 : Equipements de radiocommunications
+Notes concernant le point 5 : Équipements de radiocommunications
 
 Colonne 5 :
 
-La série CEI 61162 porte sur les normes de référence suivantes pour les Matériels et systèmes de navigation et de radiocommunication maritimes-Interfaces numériques :
+La série CEI 61162 porte sur les normes de référence suivantes pour les Matériels et systèmes de navigation et de radiocommunication maritimes - Interfaces numériques :
 
--CEI 61162-1 éd4. 0 (2010-11)-Partie 1 : Emetteur unique et récepteurs multiples
+CEI 61162-1 éd4.0 (2010-11) - Partie 1 : Émetteur unique et récepteurs multiples
 
--CEI 61162-2 éd1. 0 (1998-09)-Partie 2 : Emetteur unique et récepteurs multiples, transfert rapide de données
+CEI 61162-2 éd1.0 (1998-09) - Partie 2 : Émetteur unique et récepteurs multiples, transfert rapide de données
 
--CEI 61162-3 éd1. 2 compilation avec amendement 1 éd. 1.0 (2010-11) et amendement 2 éd. 1.0 (2014-07)-Partie 3 : Réseau par liaison de données série d'instruments
+CEI 61162-3 éd1.2 compilation avec amendement 1 éd.1.0 (2010-11) et amendement 2 éd. 1.0 (2014-07) - Partie 3 : Réseau par liaison de données série d'instruments
 
--CEI 61162-3 éd1. 0 (2008-05)-Partie 3 : Réseau par liaison de données série d'instruments
+CEI 61162-3 éd1.0 (2008-05) - Partie 3 : Réseau par liaison de données série d'instruments
 
--CEI 61162-3 am1 éd1. 0 (2010-06)-Amendement 1-Partie 3 : Réseau par liaison de données série d'instruments
+CEI 61162-3 am1 éd1.0 (2010-06) - Amendement 1 - Partie 3 : Réseau par liaison de données série d'instruments
 
--CEI 61162-3 am2 éd1. 0 (2014-07)-Amendement 2-Partie 3 : Réseau par liaison de données série d'instruments
+CEI 61162-3 am2 éd1.0 (2014-07) - Amendement 2 - Partie 3 : Réseau par liaison de données série d'instruments
 
--CEI 61162-450 éd1. 0 (2011-06)-Partie 450 : Emetteurs multiples et récepteurs multiples-Interconnexion Ethernet
+CEI 61162-450 éd1.0 (2011-06) - Partie 450 : Émetteurs multiples et récepteurs multiples - Interconnexion Ethernet
 
-La série EN 61162 porte sur les normes de référence suivantes pour les Matériels et systèmes de navigation et de radiocommunication maritimes-Interfaces numériques :
+La série EN 61162 porte sur les normes de référence suivantes pour les Matériels et systèmes de navigation et de radiocommunication maritimes - Interfaces numériques :
 
--EN 61162-1 (2011)-Partie 1 : Emetteur unique et récepteurs multiples
+EN 61162-1 (2011) - Partie 1 : Émetteur unique et récepteurs multiples
 
--EN 61162-2 (1998)-Partie 2 : Emetteur unique et récepteurs multiples, transfert rapide de données
+EN 61162-2 (1998) - Partie 2 : Émetteur unique et récepteurs multiples, transfert rapide de données
 
--EN 61162-3 (2008)-Partie 3 : Réseau par liaison de données série d'instruments
+EN 61162-3 (2008) - Partie 3 : Réseau par liaison de données série d'instruments
 
--EN 61162-3 am1 (2010)-Amendement 1-Partie 3 : Réseau par liaison de données série d'instruments
+EN 61162-3 am1 (2010) - Amendement 1 - Partie 3 : Réseau par liaison de données série d'instruments
 
--CEI 61162-3 am2 éd1. 0 (2014-07)-Amendement 2-Partie 3 : Réseau par liaison de données série d'instrument
+CEI 61162-3 am2 éd1.0 (2014-07) - Amendement 2 - Partie 3 : Réseau par liaison de données série d'instrument
 
--EN 61162-450 (2011)-Partie 450 : Emetteurs multiples et récepteurs multiples-Interconnexion Ethernet
+EN 61162-450 (2011) - Partie 450 : Émetteurs multiples et récepteurs multiples - Interconnexion Ethernet
 
-N°
-
-|
-
-NOM
-
-de l'article
+N°.
 
 |
 
-RÈGLE SOLAS 74
-
-modifiée, qui requiert une "approbation de type"
+Nom de l'article
 
 |
 
-RÈGLES SOLAS 74, TELLES QUE MODIFIÉES,
-
-applicables et résolutions et circulaires applicables de l'OMI
-
-et recommandations de l'UIT le cas échéant
+Règle SOLAS 74 modifiée, qui requiert une "approbation de type"
 
 |
 
-NORMES
-
-d'essai
+Règles SOLAS 74, telles que modifiées, applicables et résolutions et circulaires applicables de l'OMI et recommandations de l'UIT le cas échéant
 
 |
 
-MODULES
+Normes d'essai
 
-d'évaluation de la conformité
+|
+
+Modules d'évaluation de la conformité
 
 |
 
@@ -1950,7 +1870,7 @@ d'évaluation de la conformité
 
 |
 
-A. 2/5.1
+A.2/5.1
 
 |
 
@@ -1962,27 +1882,27 @@ RLS à ondes métriques (VHF)
 
 -Règ. X/3,
 
--Rés. MSC 36 (63) de l'OMI-(Recueil HSC de 1994),
+-Rés. MSC 36(63) de l'OMI - (Recueil HSC de 1994),
 
--Rés. MSC 97 (73) de l'OMI-(Recueil HSC de 2000).
+-Rés. MSC 97(73) de l'OMI - (Recueil HSC de 2000).
 
 |
 
--Règ. IV/8,
+-Règ.IV/8,
 
--Rés. A. 662 (16) de l'OMI,
+-Rés. A.662(16) de l'OMI,
 
--Rés. A. 694 (17) de l'OMI,
+-Rés. A.694(17) de l'OMI,
 
--Rés. A. 805 (19) de l'OMI,
+-Rés. A.805(19) de l'OMI,
 
--Rés. MSC 36 (63) de l'OMI-(Recueil HSC de 1994),
+-Rés. MSC 36(63) de l'OMI - (Recueil HSC de 1994),
 
--Rés. MSC 97 (73) de l'OMI-(Recueil HSC de 2000),
+-Rés. MSC 97(73) de l'OMI - (Recueil HSC de 2000),
 
--UIT-R M. 489-2 (10/95),
+-UIT-R M.489-2 (10/95),
 
--UIT-R M. 693-1 (03/12).
+-UIT-R M.693-1 (03/12).
 
 |
 
@@ -1996,7 +1916,7 @@ Ou,
 
 |
 
-A. 2/5.2
+A.2/5.2
 
 |
 
@@ -2008,25 +1928,25 @@ Réserve d'alimentation radio
 
 -Règ. X/3,
 
--Rés. MSC 36 (63) de l'OMI-(Recueil HSC de 1994),
+-Rés. MSC 36(63) de l'OMI - (Recueil HSC de 1994),
 
--Rés. MSC 97 (73) de l'OMI-(Recueil HSC de 2000).
+-Rés. MSC 97(73) de l'OMI - (Recueil HSC de 2000).
 
 |
 
 -Règ. IV/13,
 
--Rés. A. 694 (17) de l'OMI,
+-Rés. A.694(17) de l'OMI,
 
--Rés. A. 702 (17) de l'OMI,
+-Rés. A.702(17) de l'OMI,
 
--Rés. MSC 36 (63) de l'OMI-(Recueil HSC de 1994),
+-Rés. MSC 36(63) de l'OMI - (Recueil HSC de 1994),
 
--Rés. MSC 97 (73) de l'OMI-(Recueil HSC de 2000),
+-Rés. MSC 97(73) de l'OMI - (Recueil HSC de 2000),
 
--Circulaire COMSAR/ Circ. 16 de l'OMI,
+-Circulaire COMSAR/Circ.16 de l'OMI,
 
--Circulaire COMSAR/ Circ. 32 de l'OMI.
+-Circulaire COMSAR/Circ.32 de l'OMI.
 
 |
 
@@ -2040,7 +1960,7 @@ Ou,
 
 |
 
-A. 2/5.3
+A.2/5.3
 
 |
 
@@ -2048,11 +1968,11 @@ Station terrienne de navire (STN) Inmarsat-F
 
 |
 
-Transféré à l'annexe A. 1/5.19
+Transféré à l'annexe A.1/5.19
 
 |
 
-A. 2/5.4
+A.2/5.4
 
 |
 
@@ -2064,23 +1984,23 @@ Panneau de détresse
 
 -Règ. X/3,
 
--Rés. MSC 36 (63) de l'OMI-(Recueil HSC de 1994),
+-Rés. MSC 36(63) de l'OMI - (Recueil HSC de 1994),
 
--Rés. MSC 97 (73) de l'OMI-(Recueil HSC de 2000).
+-Rés. MSC 97(73) de l'OMI - (Recueil HSC de 2000).
 
 |
 
 -Règ. IV/6,
 
--Rés. A. 694 (17) de l'OMI,
+-Rés. A.694(17) de l'OMI,
 
--Rés. MSC 36 (63) de l'OMI-(Recueil HSC de 1994),
+-Rés. MSC 36(63) de l'OMI - (Recueil HSC de 1994),
 
--Rés. MSC. 97 (73) de l'OMI-(Recueil HSC de 2000),
+-Rés. MSC.97(73) de l'OMI - (Recueil HSC de 2000),
 
--Circulaire MSC/ Circ. 862 de l'OMI,
+-Circulaire MSC/Circ.862 de l'OMI,
 
--Circulaire COMSAR/ Circ. 32 de l'OMI.
+-Circulaire COMSAR/Circ.32 de l'OMI.
 
 |
 
@@ -2094,7 +2014,7 @@ Ou,
 
 |
 
-A. 2/5.5
+A.2/5.5
 
 |
 
@@ -2106,23 +2026,23 @@ Panneau d'alarme de détresse
 
 -Règ. X/3,
 
--Rés. MSC 36 (63) de l'OMI-(Recueil HSC de 1994),
+-Rés. MSC 36(63) de l'OMI - (Recueil HSC de 1994),
 
--Rés. MSC 97 (73) de l'OMI-(Recueil HSC de 2000).
+-Rés. MSC 97(73) de l'OMI - (Recueil HSC de 2000).
 
 |
 
 -Règ. IV/6,
 
--Rés. A. 694 (17) de l'OMI,
+-Rés. A.694(17) de l'OMI,
 
--Rés. MSC 36 (63) de l'OMI-(Recueil HSC de 1994),
+-Rés. MSC 36(63) de l'OMI - (Recueil HSC de 1994),
 
--Rés. MSC 97 (73) de l'OMI-(Recueil HSC de 2000),
+-Rés. MSC 97(73) de l'OMI - (Recueil HSC de 2000),
 
--Circulaire MSC/ Circ. 862 de l'OMI,
+-Circulaire MSC/Circ.862 de l'OMI,
 
--Circulaire COMSAR/ Circ. 32 de l'OMI.
+-Circulaire COMSAR/Circ.32 de l'OMI.
 
 |
 
@@ -2136,7 +2056,7 @@ Ou,
 
 |
 
-A. 2/5.6
+A.2/5.6
 
 |
 
@@ -2148,7 +2068,7 @@ Intentionnellement blanc
 
 |
 
-A. 2/5.7
+A.2/5.7
 
 |
 
@@ -2160,13 +2080,13 @@ Système d'alerte de sûreté du navire
 
 -Règ. XI-2/6,
 
--Rés. A. 694 (17) de l'OMI,
+-Rés. A.694(17) de l'OMI,
 
--Rés. MSC 147 (77) de l'OMI,
+-Rés. MSC 147(77) de l'OMI,
 
--Circulaire MSC/ Circ. 1072 de l'OMI,
+-Circulaire MSC/Circ.1072 de l'OMI ,
 
--Division 351 du règlement annexé.
+-Division 351 du règlement annexé
 
 |
 
@@ -2184,9 +2104,9 @@ Ou,
 
 |
 
-A. 2/5.8
+A.2/5.8
 
-Ex A. 1/5.16
+Ex A.1/5.16
 
 |
 
@@ -2198,23 +2118,23 @@ Appareil aéronautique émetteur-récepteur radiotéléphonique à ondes métriq
 
 -Règ. X/3,
 
--Rés. MSC 36 (63) de l'OMI-(Recueil HSC de 1994) 14,
+-Rés. MSC 36(63) de l'OMI - (Recueil HSC de 1994) 14,
 
--Rés. MSC 97 (73) de l'OMI-(Recueil HSC de 2000) 14.
+-Rés. MSC 97(73) de l'OMI - (Recueil HSC de 2000) 14.
 
 |
 
 -Règ. IV/7,
 
--Rés. A. 694 (17) de l'OMI,
+-Rés. A.694(17) de l'OMI,
 
--Rés. MSC 36 (63) de l'OMI-(Recueil HSC de 1994) 14,
+-Rés. MSC 36(63) de l'OMI - (Recueil HSC de 1994) 14,
 
--Rés. MSC 97 (73) de l'OMI-(Recueil HSC de 2000) 14,
+-Rés. MSC 97(73) de l'OMI - (Recueil HSC de 2000) 14,
 
--Rés. MSC. 80 (70) de l'OMI,
+-Rés. MSC.80(70) de l'OMI,
 
--Circulaire COMSAR/ Circ. 32 de l'OMI,
+-Circulaire COMSAR/Circ.32 de l'OMI,
 
 -Convention de l'OACI, annexe 10, Règles radio.
 
@@ -2222,55 +2142,41 @@ Appareil aéronautique émetteur-récepteur radiotéléphonique à ondes métriq
 
 -EN 60945 (2002), y compris CEI 60945 corrigendum 1 (2008),
 
--ETSI EN 301 688 V1. 1.1 (2000-07).
+-ETSI EN 301 688 V1.1.1 (2000-07).
 
 Ou,
 
 -EN 60945 (2002), y compris CEI 60945 corrigendum 1 (2008),
 
--ETSI EN 301 688 V1. 1.1 (2000-07).
+-ETSI EN 301 688 V1.1.1 (2000-07).
 
 |
 
 |
 
-6. Equipements exigés par la convention COLREG 72
+6. Équipements exigés par la convention COLREG 72
 
-N°
-
-|
-
-NOM
-
-de l'article
+N°.
 
 |
 
-RÈGLE COLREG 72,
-
-qui requiert
-
-une "approbation
-
-de type"
+Nom de l'article
 
 |
 
-RÈGLES COLREG APPLICABLES ET RÉSOLUTIONS
-
-et circulaires applicables de l'OMI
+Règle COLREG 72, qui requiert une "approbation de type"
 
 |
 
-NORMES
-
-d'essai
+Règles COLREG applicables et résolutions et circulaires applicables de l'OMI
 
 |
 
-MODULES
+Normes d'essai
 
-d'évaluation de la conformité
+|
+
+Modules d'évaluation de la conformité
 
 |
 
@@ -2298,7 +2204,7 @@ d'évaluation de la conformité
 
 |
 
-A. 2/6.1
+A.2/6.1
 
 |
 
@@ -2306,17 +2212,11 @@ Feux de signalisation
 
 |
 
-Transféré à l'annexe A. 1/6.1.
+Transféré à l'annexe A.1/6.1.
 
 |
 
-|
-
-|
-
-|
-
-A. 2/6.2
+A.2/6.2
 
 |
 
@@ -2330,65 +2230,65 @@ Appareils de signalisation sonore
 
 -COLREG 72, annexe III/3,
 
--Rés. A. 694 (17) de l'OMI.
+-Rés. A.694(17) de l'OMI.
 
 |
 
 -EN 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945,
 
--Sifflets-COLREG 72 annexe III/1 (fonctionnement),
+-Sifflets - COLREG 72 annexe III/1 (fonctionnement),
 
--Cloches ou gongs-COLREG 72 annexe III/2 (fonctionnement).
+-Cloches ou gongs - COLREG 72 annexe III/2 (fonctionnement).
 
 Ou,
 
 -CEI 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945,
 
--Sifflets-COLREG 72 annexe III/1 (fonctionnement),
+-Sifflets - COLREG 72 annexe III/1 (fonctionnement),
 
--Cloches ou gongs-COLREG 72 annexe III/2 (fonctionnement).
+-Cloches ou gongs - COLREG 72 annexe III/2 (fonctionnement).
+
+|
 
 |
 
 |
 
-7. Equipements de sécurité des vraquiers
-
-N°
+|
 
 |
 
-NOM
-
-de l'article
+|
 
 |
 
-RÈGLE SOLAS 74
-
-modifiée, qui requiert
-
-une "approbation
-
-de type"
+|
 
 |
 
-RÈGLES SOLAS 74, TELLES QUE MODIFIÉES,
+7. Équipements de sécurité des vraquiers
 
-applicables et résolutions et circulaires applicables de l'OMI
-
-|
-
-NORMES
-
-d'essai
+N°.
 
 |
 
-MODULES
+Nom de l'article
 
-d'évaluation de la conformité
+|
+
+Règle SOLAS 74 modifiée, qui requiert une "approbation de type"
+
+|
+
+Règles SOLAS 74, telles que modifiées, applicables et résolutions et circulaires applicables de l'OMI
+
+|
+
+Normes d'essai
+
+|
+
+Modules d'évaluation de la conformité
 
 |
 
@@ -2416,7 +2316,7 @@ d'évaluation de la conformité
 
 |
 
-A. 2/7.1
+A.2/7.1
 
 |
 
@@ -2432,21 +2332,21 @@ Calculateur de chargement
 
 -Règ. XII/11,
 
--Résolution 5 de la conférence SOLAS-1997.
+-Résolution 5 de la conférence SOLAS - 1997.
 
 |
 
--Circulaire MSC. 1/ Circ 1229 de l'OMI.
+-Circulaire MSC.1/Circ 1229 de l'OMI.
 
 |
 
 |
 
-A. 2/7.2
+A.2/7.2
 
 |
 
-Détecteurs (alarme) de niveau d'eau à bord des vraquiers
+Détecteurs (alarme) de niveau d'eau à bord des vraquiers.
 
 |
 
@@ -2454,43 +2354,29 @@ Article supprimé
 
 |
 
-8. Equipements relevant de la convention SOLAS, chapitre II-1
+8. Équipements relevant de la convention SOLAS, chapitre II-1
 
-N°
-
-|
-
-NOM
-
-de l'article
+N°.
 
 |
 
-RÈGLE SOLAS 74
-
-modifiée, qui requiert
-
-une "approbation
-
-de type"
+Nom de l'article
 
 |
 
-RÈGLES SOLAS 74, TELLES QUE MODIFIÉES,
-
-applicables et résolutions et circulaires applicables de l'OMI
+Règle SOLAS 74 modifiée, qui requiert une "approbation de type"
 
 |
 
-NORMES
-
-d'essai
+Règles SOLAS 74, telles que modifiées, applicables et résolutions et circulaires applicables de l'OMI
 
 |
 
-MODULES
+Normes d'essai
 
-d'évaluation de la conformité
+|
+
+Modules d'évaluation de la conformité
 
 |
 
@@ -2518,7 +2404,7 @@ d'évaluation de la conformité
 
 |
 
-A. 2/8.1
+A.2/8.1
 
 |
 
@@ -2534,8 +2420,14 @@ Démarreur par temps froid de groupes électrogènes (dispositifs de démarrage)
 
 -Règ. II-1/44,
 
--Rés. MSC 36 (63) de l'OMI-(Recueil HSC de 1994) 12,
+-Rés. MSC 36(63) de l'OMI - (Recueil HSC de 1994) 12,
 
--Rés. MSC 97 (73) de l'OMI-(Recueil HSC de 2000) 12,
+-Rés. MSC 97(73) de l'OMI - (Recueil HSC de 2000) 12,
 
--Circulaire MSC. 1/ Circ. 1464 Rév. 1 de l'OMI. |
+-Circulaire MSC.1/Circ.1464 Rév.1 de l'OMI.
+
+|
+
+|
+
+|
