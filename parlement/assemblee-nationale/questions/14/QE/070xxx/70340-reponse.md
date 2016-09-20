@@ -1,0 +1,9 @@
+# Réponse à la question n° 70340
+
+- Question : [70340](70340.md) — Question n° 70340 — frais réels; enseignants; dispositif M@gistère; achat d'équipement informatique
+
+## Réponse
+
+*JO du 2016-09-20*
+
+Les frais professionnels peuvent faire l'objet d'une déduction forfaitaire fixée à 10 % du montant du revenu brut ou, sur option du salarié, être déduits pour leur montant réel. A ce titre, les dépenses de mobilier, de matériel, notamment informatique et d'outillage en rapport direct avec la profession peuvent être déduites du revenu imposable. Ainsi que le précise la doctrine administrative publiée au Bulletin officiel des finances publiques – impôts (BOFIP) sous la référence BOI-RSA-BASE-30-50-30-40 § 50 à 80, le montant de la dépense déductible se limite à celui de la dépréciation constatée au cours de l'année, c'est-à-dire à la différence entre la valeur réelle du bien au premier et dernier jour de l'année concernée. Etant donné que l'évaluation de la dépréciation effective peut être source de complexité tant pour les contribuables que pour l'administration, les salariés sont autorisés, par mesure de simplification, à déduire le prix d'acquisition des matériels dont la valeur n'excède pas 500 € hors taxes. Lorsque cette valeur est supérieure, il est admis de déduire une somme égale à une annuité d'amortissement calculée selon le mode linéaire. Ces dispositions ont vocation à s'appliquer au matériel informatique, dont les enseignants ont fait personnellement l'acquisition, qui est effectivement utilisé dans le cadre et pour les besoins de leur activité professionnelle. La durée d'amortissement du matériel informatique est de trois ans. A cet égard, il est précisé qu'en cas d'utilisation professionnelle et personnelle, la déduction est réduite à proportion de l'utilisation privée laquelle est déterminée en fonction des circonstances de l'espèce. Aucune évaluation forfaitaire de cette proportion ne saurait valablement être admise.
