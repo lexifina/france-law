@@ -1,0 +1,9 @@
+# Réponse à la question n° 21870
+
+- Question : [21870](21870.md) — Question n° 21870 — soutien de l'État; Cour des comptes; rapport; propositions
+
+## Réponse
+
+*JO du 2016-09-20*
+
+La mise en place de l'Agence France Entrepreneur est l'opportunité de rendre plus cohérente et lisible la politique nationale de soutien à l'entrepreneuriat et de la réorienter vers les deux priorités fixées par le Président de la République le 20 octobre 2015 : lutter contre les inégalités territoriales en matière de développement économique et renforcer l'accompagnement des entreprises créées pour qu'elles s'inscrivent dans une trajectoire de croissance et de création d'emplois. L'intervention de l'agence favorisera la création et le développement d'activités économiques dans les territoires fragiles, en particulier à travers le renforcement de l'offre d'accompagnement. L'objectif est de garantir la présence, sur chaque territoire, d'une offre d'accompagnement et de financement cohérente, adaptée et accessible à ses habitants et pour tous les projets, que ceux-ci visent à créer le propre emploi du porteur ou qu'ils soient plus ambitieux. L'agence doit également permettre de renforcer l'accompagnement des entrepreneurs dans les premières années suivant la création : il s'agit, à travers l'accompagnement post-création, d'inciter les petites entreprises à utiliser tous les leviers leur permettant de grandir. Le Gouvernement a également mis en place ou conforté des dispositifs spécifiques de soutien aux entreprises à fort potentiel. Il s'agit en particulier de dispositifs fiscaux (statut des jeunes entreprises innovantes), de l'action de Bpifrance en subventions (1,1 milliard d'euros au soutien à l'innovation en 2014) et en soutien au développement de l'industrie du capital-risque ou encore du lancement de la dynamique de la French Tech.
