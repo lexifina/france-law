@@ -1,0 +1,9 @@
+# Réponse à la question n° 79442
+
+- Question : [79442](79442.md) — Question n° 79442 — Internet
+
+## Réponse
+
+*JO du 2016-09-20*
+
+L'amélioration de la qualité du service rendu aux usagers est un axe majeur de la Convention d'objectifs et de gestion 2014-2017 (COG) contractualisée entre l'Etat et la Caisse nationale d'assurance vieillesse (CNAV). La poursuite de l'enrichissement de l'offre de service en ligne constitue un fort enjeu afin que les retraités puissent bénéficier d'un service sur mesure et d'informations personnalisées. Le développement de ces services accompagne la mutation des usages des assurés, y compris retraités. Une étude du CREDOC publiée en novembre 2013 souligne la plus grande appétence des retraités pour le numérique : entre 2006 et 2013 le taux de retraités internautes a augmenté de 38 points s'élevant à 50 % en 2013. Dans une démarche de simplification, la CNAV fournit à l'administration fiscale le montant imposable des retraites du régime général afin qu'il figure dans la déclaration de revenus pré-remplie. Conformément à sa stratégie de développement de son canal numérique, l'assurance vieillesse met donc à disposition des retraités, pour vérification, leur attestation fiscale dans l'espace personnel des usagers sur le site www.lassuranceretraite.fr. Au regard de cette nouvelle offre de service et dans un souci de maîtrise de ses ressources, la CNAV ne fournit plus d'attestation par voie postale. Cette mesure a été accompagnée d'un plan de communication à destination des usagers via notamment des spots radio, des annonces sur les sites internet des CARSAT, des affiches au sein des agences et des prospectus diffusés lors d'envoi de courriers aux assurés. Afin de ne pas pénaliser les retraités ne maîtrisant pas l'outil informatique, les informations relatives à leur relevé fiscal sont accessibles par téléphone en contactant le 3960.
