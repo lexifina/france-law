@@ -1,0 +1,9 @@
+# Réponse à la question n° 78443
+
+- Question : [78443](78443.md) — Question n° 78443 — financement
+
+## Réponse
+
+*JO du 2016-09-20*
+
+Le plan de soutien à l'investissement présenté par le Premier ministre le 8 avril 2015 contribuera à la reprise de l'activité économique et aura ainsi indirectement des effets d'entraînement positifs sur les finances publiques. Il repose notamment sur : - une mesure fiscale destinée à soutenir l'investissement industriel productif, consistant en un amortissement exceptionnel de 40 % des investissements permettant de réduire immédiatement l'impôt sur les bénéfices, - un abondement du budget de l'agence nationale de l'habitat (ANAH) pour accroître le financement des travaux de rénovation énergétique, - la possibilité pour les collectivités locales de solliciter des prêts à taux zéro auprès de la caisse des dépôts et consignations afin d'obtenir un versement anticipé du fonds de compensation de la TVA, - un soutien à l'investissement des régions en s'appuyant sur les contrats de plan Etat-région. En parallèle, l'épargne des Français sera réorientée vers les entreprises qui investissent, qu'il s'agisse des nouveaux contrats d'assurance-vie, du déploiement des PEA-PME, des placements des caisses de retraites ou du cadre règlementaire de l'assurance. L'ensemble de ces mesures, qui traduisent un effort de l'Etat en faveur de l'investissement de 500 M€ en 2015 et de 2,5 Mds€ sur la période 2015-2017, ont été intégrées à la trajectoire des finances publiques. Ainsi, le plan d'investissement permettra d'accélérer la reprise de l'activité sans se traduire, en contrepartie, par un moindre redressement des finances publiques. A ce titre, le Gouvernement maintient son engagement d'un déficit public inférieur à 3 % de produit intérieur brut (PIB) en 2017.
