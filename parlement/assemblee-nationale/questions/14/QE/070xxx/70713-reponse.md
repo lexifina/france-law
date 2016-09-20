@@ -1,0 +1,9 @@
+# Réponse à la question n° 70713
+
+- Question : [70713](70713.md) — Question n° 70713 — barrage de Sivens; mise en oeuvre; perspectives
+
+## Réponse
+
+*JO du 2016-09-20*
+
+Fin 2014, un dramatique événement se produisait sur le site du chantier du barrage de Sivens dans le Tarn. Une mission d'inspection a été dépêchée pour rétablir un climat serein en associant l'ensemble des acteurs du territoire. Les inspecteurs ont confirmé l'existence du besoin en eau sur ce bassin versant pour répondre aux nécessités d'irrigation et de soutien d'étiage. Ils ont toutefois recommandé un certain nombre d'adaptations du projet initial sur le plan technique. Suite à ces événements, le conseil départemental a abandonné le projet initial. L'État s'est engagé à accompagner financièrement le conseil départemental pour le solde des travaux initiés. En juin 2015, un nouveau cadre de réflexions préalables à la construction de ce type d'infrastructures a été imposé en contrepartie de la participation financière des agences de l'eau. Ces réflexions seront le fruit d'une concertation associant tous les acteurs du territoire, autour des commissions locales de l'eau (CLE), si elles existent, étendues à toutes les parties intéressées dans le cadre de projets de territoire. De plus, il a été demandé aux préfets que les services de l'État apportent tout leur soutien à l'émergence de ces projets. La prise en compte en amont des intérêts de chacun participera à l'appropriation collective du projet, ce qui devra permettre sa bonne mise en œuvre dans un temps raisonnable et avec des budgets maîtrisés. En ce qui concerne les suites au projet abandonné de Sivens, le projet de territoire sur la rivière Tescou est prêt à être lancé. Un audit préalable des attentes des différents acteurs a été réalisé par l'administration en amont des débats. Afin de s'assurer des bonnes conditions du débat, un garant a été nommé par la commission nationale du débat public (CNDP).
