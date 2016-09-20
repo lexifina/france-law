@@ -1,0 +1,9 @@
+# Réponse à la question n° 94588
+
+- Question : [94588](94588.md) — Question n° 94588 — mises à disposition; organismes à but non lucratif; réglementation
+
+## Réponse
+
+*JO du 2016-09-20*
+
+L'article 256 B du code général des impôts (CGI), qui transpose l'article 13 de la directive no 2006/112/CE relative au système commun de taxe sur la valeur ajoutée (TVA), prévoit que les personnes morales de droit public ne sont pas assujetties à la TVA pour l'activité de leurs services administratifs, sociaux, éducatifs culturels et sportifs, lorsque leur non-assujettissement n'entraîne pas de distorsions dans les conditions de la concurrence. Conformément à cette disposition, les mises à disposition de personnels consenties entre personnes morales de droit public peuvent ne pas être soumises à la TVA, à la condition toutefois que ces prestations soient fournies par ces organismes en tant qu'autorités publiques et que leur non-assujettissement n'entraîne pas de distorsions dans les conditions de la concurrence. Il en va ainsi des mises à disposition de personnels consenties par les Chambres de commerce et d'industrie régionales (CCIR), personnes morales de droit public, au profit des Chambres de commerce et d'industrie territoriales (CCIT), dans la mesure où le recrutement des personnels de droit public ainsi que leurs mises à disposition par les CCIR au profit des CCIT sont effectués en vertu de l'obligation légale prévue au 5° de l'article L. 711-8 du code de commerce. À cet égard, le non assujettissement des CCIR au titre de ces mises à disposition n'est pas, en raison de la nature des personnels concernés et du contexte juridique de leur réalisation, susceptible d'emporter de distorsions dans les conditions de la concurrence. En conséquence, les prestations de mises à disposition de personnels consenties par les CCIR aux CCIT relèvent de plein droit des dispositions de l'article 256 B du CGI et ne sont pas soumises à la TVA.
