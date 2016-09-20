@@ -1,0 +1,9 @@
+# Réponse à la question n° 93398
+
+- Question : [93398](93398.md) — Question n° 93398 — cartographie des cours d'eau; élaboration; modalités
+
+## Réponse
+
+*JO du 2016-09-20*
+
+Par instruction du 3 juin 2015, les services du ministère chargé de l'environnement ont été engagés dans un travail d'identification des cours d'eau dans un but de clarification du droit applicable et d'exercice apaisé de la police de l'eau, répondant à une demande exprimée fortement sur le terrain. Cette instruction a été signée à l'issue d'une concertation avec l'ensemble des parties prenantes, au rang desquels figuraient les représentants du monde agricole. Les trois critères utilisés pour la définition d'un cours d'eau sont issus de la jurisprudence du Conseil d'État (notamment son arrêt du 21 octobre 2011) et sont inscrits à l'article 118 de la loi pour la reconquête de la biodiversité, de la nature et des paysages. Tout en prenant en compte les particularités locales, cette démarche homogène sur l'ensemble du territoire permettra ainsi à chaque usager de visualiser facilement les cours d'eau sur une carte publiée sur internet. Les services sont invités à élaborer les cartes en associant localement l'ensemble des intéressés : les organisations professionnelles agricoles, les représentants des forestiers et des propriétaires ruraux, les associations de protection de la nature, les représentants d'élus locaux, etc. Cette instruction technique n'est pas créatrice de droit et la cartographie constitue un inventaire non opposable. Elle vise simplement à mieux faire connaître les parties du réseau hydrographique qui doivent être considérées comme cours d'eau. Cette démarche consiste, à partir des informations disponibles, à procéder à des vérifications là où les doutes subsistent. Les erreurs éventuelles pourront être rectifiées par les préfets. Cette instruction prévoit bien les mesures de mise à jour utiles pour la clarification de la définition des cours d'eau.
