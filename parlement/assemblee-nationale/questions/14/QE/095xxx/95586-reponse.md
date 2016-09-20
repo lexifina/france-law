@@ -1,0 +1,9 @@
+# Réponse à la question n° 95586
+
+- Question : [95586](95586.md) — Question n° 95586 — département du Nord; dysfonctionnements
+
+## Réponse
+
+*JO du 2016-09-20*
+
+Les régions sont, depuis 2002, autorités organisatrices des services ferroviaires régionaux de voyageurs. À ce titre, elles contractualisent avec SNCF Mobilités les services TER qu'elles souhaitent voir mis en œuvre, c'est-à-dire notamment les liaisons à assurer, leur fréquence, les gares desservies et le service apporté aux usagers, mais aussi les obligations de régularité et de qualité de service qui s'imposent à l'exploitant. Les dysfonctionnements pointés dans la question relèvent dès lors de la compétence de la région Hauts-de-France et c'est à elle qu'il appartient de prendre les mesures nécessaires en relation avec SNCF Mobilités. L'État, en application du principe de libre administration des collectivités territoriales, n'a pas vocation à intervenir. Toutefois, le Gouvernement reste soucieux que les autorités organisatrices des trains du quotidien que sont les régions disposent des moyens d'intervention adaptés pour inciter efficacement l'exploitant ferroviaire à œuvrer en faveur d'une amélioration de la qualité de service. Ce souci s'est en particulier matérialisé, dans le cadre de la mise en œuvre de la réforme ferroviaire, par le renforcement des prérogatives des régions en tant qu'autorités organisatrices, en leur permettant notamment une meilleure maîtrise de l'exécution du service qu'elles organisent via le décret no 2016-327 du 17 mars 2016 relatif à l'organisation du transport ferroviaire de voyageurs. Il appartient donc à la région Hauts-de-France, en tant qu'autorité organisatrice des transports ferroviaires régionaux, de suivre l'exécution par SNCF Mobilités de la convention TER et de prendre les décisions qui permettent de répondre au mieux aux besoins des habitants de cette région et, en particulier, des usagers de la liaison ferroviaire entre Comines et Lille.
