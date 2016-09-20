@@ -1,0 +1,9 @@
+# Réponse à la question n° 81064
+
+- Question : [81064](81064.md) — Question n° 81064 — Cour des comptes; rapport
+
+## Réponse
+
+*JO du 2016-09-20*
+
+En 2014, le niveau de la norme de dépense était particulièrement ambitieux puisqu'il a été fixé à un niveau significativement inférieur à la norme de 2013 en budgétisation (-1 675 M€), puis abaissé de 1,6 Md€ par la première loi de finances rectificative (LFR) en cours de gestion. À périmètre constant, l'exécution 2014 sur le périmètre de la norme de dépenses apparaît ainsi en diminution de 3,3 Mds€ par rapport à l'exécution 2013 au même format : il s'agit donc de la baisse en valeur la plus forte d'exécution à exécution, des dépenses pilotables de l'État depuis que celles-ci sont pilotées par une norme de dépenses. Ces résultats ont été accompagnés d'une stabilité globale des restes à payer sur engagements (87,3 Mds€ en 2014 contre 87,0 Mds€ en 2013) et des reports de charge sur la mission « Défense » (autour de 2,8 Mds€). Par ailleurs, les dettes de l'État à l'égard de ses fournisseurs ou d'autres organismes publics retracées dans la comptabilité générale de l'État (dettes de fonctionnement, d'intervention, et envers les fournisseurs d'immobilisations), après retraitement des éléments exceptionnels, ne se sont pas alourdies en 2014. Enfin, la comptabilisation des dépenses d'investissement d'avenir en dehors de la norme de dépenses a été retenue depuis 2010 par tous les Gouvernements successifs. Ces dépenses sont en effet engagées sur le budget des opérateurs qui mettent en oeuvre les investissements d'avenir, et non sur le budget de l'Etat. Elles n'ont donc pas à être rattachées à la norme de dépense de l'Etat. C'est d'ailleurs sur la base du périmètre ainsi défini de la norme de dépense, qui exclut les décaissements réalisés par les opérateurs au titre des investissements d'avenir, que le Parlement s'est prononcé lors du vote du projet de loi de finances pour 2014.
