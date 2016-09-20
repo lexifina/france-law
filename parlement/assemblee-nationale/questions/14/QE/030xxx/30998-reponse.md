@@ -1,0 +1,9 @@
+# Réponse à la question n° 30998
+
+- Question : [30998](30998.md) — Question n° 30998 — résidents à l'étranger; réglementation
+
+## Réponse
+
+*JO du 2016-09-20*
+
+Le Gouvernement est extrêmement attentif à la situation des Français qui ont fait le choix de résider à l'étranger. Dans cet esprit, le secrétaire d'Etat au budget a réuni en 2014 un groupe de travail sur la fiscalité des non-résidents associant les parlementaires représentant les Français de l'étranger et notamment l'auteur de la présente question. Comme le souligne celui-ci, les Français bénéficiant du statut de résident permanent des États-Unis peuvent faire l'objet de la taxe d'expatriation prévue par la loi américaine dite « Heart Act » du 17 juin 2008 dans l'hypothèse où ils décident de renoncer à leur statut de résident permanent des États-Unis en quittant le territoire américain pour revenir s'installer en France. Tel est également le cas des personnes abandonnant leur nationalité américaine. Cette mesure relève du droit interne américain, et la convention fiscale franco-américaine du 31 août 1994 n'y fait pas obstacle et ne prévoit pas la prise en compte des impositions ainsi acquittées. De même, ces contribuables, de retour en France, sont soumis en tant que résidents à notre cadre juridique national tel qu'il résulte de la législation et leurs revenus sont imposés en conséquence. Il est toutefois précisé que l'application de la taxe d'expatriation américaine est limitée, notamment, aux personnes ayant perçu des revenus nets moyens annuels proches de 150 000 dollars au cours des cinq dernières années précédant l'expatriation (157 000 dollars en 2014) ou à celles disposant d'un patrimoine supérieur ou égal à 2 millions de dollars à cette date. Dans ces conditions, la France n'envisage pas d'admettre le remboursement ou l'imputation fiscale des impôts acquittés aux Etats-Unis par des fonctionnaires internationaux français qui se sont établis dans ce pays et en reviennent.
