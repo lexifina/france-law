@@ -1,0 +1,9 @@
+# Réponse à la question n° 94379
+
+- Question : [94379](94379.md) — Question n° 94379 — plateforme téléphonique commune; mise en place
+
+## Réponse
+
+*JO du 2016-09-20*
+
+Afin de répondre à la pression constante que vous décrivez, le ministère de l'intérieur a souhaité unifier les centres de réception des appels d'urgence en vue d'améliorer le service aux usagers et d'assurer une meilleure coordination (notamment une meilleure circulation de l'information) entre les services d'urgence. Ce plan de modernisation de la sécurité intérieure comporte un volet spécifique à l'agglomération de Paris, avec l'instauration d'un premier niveau de filtrage/débruitage commun aux sapeurs-pompiers et aux policiers visant à mieux discriminer les appels relevant de l'urgence et renforçant ainsi la capacité à faire face à un volume d'appels anormalement important. Une expérimentation a par ailleurs été lancée en région Centre-Val de Loire pour évaluer la pertinence d'une mutualisation des appels 17-18-112. Elle sera menée en 2017-2018. Enfin, plusieurs départements sont déjà dotés de plateformes communes 15-18-112 qui permettent des gains d'efficacité et une meilleure circulation de l'information. Il convient de souligner que, dans des événements exceptionnels tels que les attentats terroristes ou des catastrophes naturelles de grande ampleur, les services reçoivent de nombreux appels ne présentant aucun caractère d'urgence. Le ministère de l'intérieur rappelle régulièrement qu'il est important de ne pas saturer les réseaux de secours et développe des outils d'information en ligne ou par application smartphone pour éviter ce phénomène. La création d'une cellule interministérielle d'aide aux victimes activée en cas d'événement majeur a également permis d'absorber sur une plateforme téléphonique distincte les appels des proches des victimes, permettant ainsi aux services de secours de se concentrer sur le traitement des appels d'urgence.
