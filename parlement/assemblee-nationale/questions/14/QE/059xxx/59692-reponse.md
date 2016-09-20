@@ -1,0 +1,9 @@
+# Réponse à la question n° 59692
+
+- Question : [59692](59692.md) — Question n° 59692 — bilan
+
+## Réponse
+
+*JO du 2016-09-20*
+
+L'augmentation du nombre de bénéficiaires du revenu de solidarité active (RSA) constatée ces dernières années, est due en grande part à la conjoncture économique. Le RSA constituant le dernier filet de sécurité pour les personnes sans ressources ou avec des ressources très faibles, il constitue le recours naturel pour les personnes qui ont perdu leur emploi et/ou qui n'arrivent pas à (re) trouver un emploi, et n'ont pas droit ou ont épuisé leurs droits à indemnisation du chômage. La durée de cette conjoncture économique difficile induit un effet d'autant plus net sur le nombre de bénéficiaires du RSA que ce public fragile constitue, même en période de reprise économique, les demandeurs d'emploi les plus tardivement recrutés. Face à cette situation, le Gouvernement agit dans plusieurs directions complémentaires : - d'une part, il veille à soutenir les revenus des plus défavorisés de nos concitoyens : c'est en ce sens qu'il a été décidé, dans le cadre du plan de lutte contre la pauvreté lancé en janvier 2013, de revaloriser le RSA de 10 % sur 5 ans, en plus de l'inflation. - d'autre part, il encourage la création d'emplois par diverses mesures prises dans le cadre du pacte de responsabilité et de solidarité pour l'emploi et le pouvoir d'achat annoncé par le Président de la République le 31 décembre 2013, et destiné à redresser la compétitivité des entreprises et à faire reculer le chômage ; - enfin, il a mis en place, depuis le 1er janvier 2016, une forte incitation à la reprise ou à l'accroissement de l'activité professionnelle, par la création de la prime d'activité, nouvelle prestation qui soutient l'activité professionnelle des travailleurs modestes et se substitue au RSA activité. Elle connait un succès réel en s'adressant à un public plus large constitué de ménages en emploi mais disposant de ressources modestes.
