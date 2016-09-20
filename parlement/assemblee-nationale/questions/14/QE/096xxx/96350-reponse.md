@@ -1,0 +1,9 @@
+# Réponse à la question n° 96350
+
+- Question : [96350](96350.md) — Question n° 96350 — conditions d'attribution
+
+## Réponse
+
+*JO du 2016-09-20*
+
+L'allocation aux adultes handicapés (AAH) est une prestation sociale qui a pour but de garantir un minimum de ressources aux personnes handicapées. Ce minimum social assuré par la solidarité nationale tient logiquement compte des autres ressources des personnes qui le perçoivent, notamment au revenu du conjoint, du concubin ou du partenaire de pacte civil de solidarité, ce qui est cohérent, s'agissant d'un minimum social compensant l'absence ou la faiblesse des ressources du foyer. A cet égard, les règles applicables à l'AAH sont d'ailleurs plus favorables que celles qui sont retenues pour d'autres minima comme le revenu de solidarité active (RSA) ou le minimum vieillesse. En effet, le plafond de ressources pour un couple est le double de celui qui s'applique pour un célibataire, alors que le plafond pour les couples représente 1,5 à 1,55 fois celui des célibataires pour le RSA et le minimum vieillesse. En outre, les ressources prises en considération sont constituées par les revenus nets catégoriels retenus pour l'établissement de l'impôt sur le revenu, après abattements fiscaux, auxquels s'ajoutent, le cas échéant, les abattements spécifiques aux personnes invalides. Par ailleurs, les revenus du conjoint sont pris en compte après application d'un abattement de 20 %. La situation des personnes bénéficiaires de l'AAH en couple s'avère donc nettement plus favorable que celle des autres bénéficiaires de minima sociaux. C'est ainsi que, pour un couple sans enfant dont le bénéficiaire de l'AAH ne travaille pas, mais dont le conjoint exerce une activité professionnelle, le versement de l'allocation n'est suspendu que si le conjoint perçoit une rémunération nette mensuelle supérieure à un peu plus de 2 240 euros.
