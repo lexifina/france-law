@@ -1,0 +1,9 @@
+# Réponse à la question n° 64635
+
+- Question : [64635](64635.md) — Question n° 64635 — reconduction des marchés; réglementation
+
+## Réponse
+
+*JO du 2016-09-20*
+
+Conformément à l'article 16 du code des marchés publics, la reconduction d'un marché ne peut avoir pour effet de remettre en cause les conditions initiales de mise en concurrence. En principe, la reconduction doit être identique au marché initial (guide de bonnes pratiques en matière de marchés publics, point 7.4). L'objet du marché, sa durée, le montant ou la nature des prestations doivent donc rester en principe inchangés. Toutefois, le pouvoir adjudicateur peut prévoir, dès la procédure de passation du marché initial, une diminution du montant annuel du marché lors de sa reconduction. Cette diminution doit être prise en compte lors de l'évaluation de son besoin, qui tiendra ainsi compte des caractéristiques du marché initial et de celles des périodes de reconduction (CE, 23 février 2005, Association pour la moralité et la transparence dans les marchés publics, no 264712). Les documents de la consultation doivent alors comporter l'indication du montant estimatif des besoins pour chaque période de reconduction. Par ailleurs, le pouvoir adjudicateur peut conclure, notamment en cours de période de reconduction, un avenant modifiant les conditions d'exécution du marché dès lors que cet avenant ne bouleverse pas l'économie du marché ou ne modifie pas substantiellement les conditions initiales de mise en concurrence (CJCE, 19 juin 2008, Pressetext Nachrichtenagentur GmbH, aff. C-454/06). Enfin, afin de tenir compte de la variabilité de ses besoins sur une période donnée, le pouvoir adjudicateur peut passer un marché à bons de commande ou un accord-cadre sans minimum ni maximum et l'assortir d'une clause de reconduction.
