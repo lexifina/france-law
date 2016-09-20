@@ -1,0 +1,9 @@
+# Réponse à la question n° 83420
+
+- Question : [83420](83420.md) — Question n° 83420 — instances consultatives; coût de fonctionnement
+
+## Réponse
+
+*JO du 2016-09-20*
+
+Le règlement eco-management and audit scheme (EMAS), ou système de management environnemental et d'audit (SMEA), est une certification européenne pour une meilleure qualité environnementale. Il est défini par un règlement européen d'application volontaire, qui permet à tout type d'organisation d'évaluer, de publier et d'améliorer sa performance environnementale. Les obligations communautaires relatives au processus d'enregistrement des organisations sont définies au premier alinéa de l'article 12 dudit règlement qui stipule que « les organismes compétents définissent des procédures pour l'enregistrement des organisations. Ils prévoient en particulier des règles concernant l'examen des observations formulées par les parties intéressées… ». La mise en œuvre de ces procédures d'enregistrement et d'examen est ainsi laissée à l'appréciation de ces derniers. La forme choisie par la France pour cette mise en œuvre, à savoir la création par arrêté du 20 juin 2002 d'un comité de suivi de l'application du règlement EMAS, n'était aucunement obligatoire. En outre, il n'existe pas de décret d'application du règlement européen indiquant que cette forme serait la plus adéquate pour appliquer l'article 12 - alinéa 1 précité. Aussi, il est apparu opportun de reconsidérer les modes de gouvernance du suivi d'EMAS. Le comité de suivi, qui avait été renouvelé pour une durée d'un an par le décret no 2014-589 du 6 juin 2014, n'a pas été prolongé par le décret no 2015-622 du 5 juin 2015 relatif à certaines commissions administratives à caractère consultatif relevant du ministère de l'écologie, du développement durable et de l'énergie.
