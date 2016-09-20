@@ -1,0 +1,9 @@
+# Réponse à la question n° 59423
+
+- Question : [59423](59423.md) — Question n° 59423 — résidence secondaire; exonérations
+
+## Réponse
+
+*JO du 2016-09-20*
+
+Par principe et en application des articles 150 U et suivants du code général des impôts (CGI), les plus-values réalisées par les personnes physiques lors de la cession à titre onéreux de biens immobiliers, sont passibles de l'impôt sur le revenu. Les plus-values résultant de la cession d'une résidence secondaire peuvent d'ores et déjà ouvrir droit, sous conditions, à une exonération d'impôt sur le revenu, prévue au 1° bis du II de l'article 150 U du CGI, issu de l'article 5 la loi de finances pour 2012 (n° 2011-1977 du 28 décembre 2011). Cette exonération s'applique aux plus-values portant sur la première cession d'un logement, autre que la résidence principale, sous condition de remploi par le cédant de tout ou partie du prix de cession, dans un délai de vingt-quatre mois à compter de la cession, à l'acquisition ou la construction d'un logement affecté à son habitation principale. Cette exonération est subordonnée à la condition que le cédant ne soit pas, au jour de la cession, directement ou par personne interposée, propriétaire de sa résidence principale et qu'il ne l'ait pas été non plus au cours des quatre années qui précèdent. Ces conditions d'application sont la contrepartie d'une exonération totale de l'impôt sur la plus-value et permettent d'éviter les effets d'aubaine, tout en contenant le coût de la dépense fiscale correspondante. A défaut de pouvoir prétendre à cette exonération, la plus-value résultant de la cession d'une résidence secondaire est imposable dans les conditions de droit commun. Il n'est pas envisagé de modifier le dispositif actuel qui remplit les objectifs de justice fiscale et d'efficacité économique mentionnés par l'auteur de la question.
