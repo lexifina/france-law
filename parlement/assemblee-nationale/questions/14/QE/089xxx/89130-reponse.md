@@ -1,0 +1,9 @@
+# Réponse à la question n° 89130
+
+- Question : [89130](89130.md) — Question n° 89130 — services marchands
+
+## Réponse
+
+*JO du 2016-09-20*
+
+En 2014, la consommation des ménages en services marchands non financiers commentée dans l'étude Insee évoquée dans la question, progresse de + 0,7 % après + 0,9 % en 2013. Ce champ regroupe la consommation des ménages en hébergement-restauration, en autres services aux ménages, en activités scientifiques et services administratifs, en information-communication et en services immobiliers (i.e. hors dépenses en services de commerce, de transports et en services financiers). Ce léger ralentissement en 2014 est ainsi lié à celui des dépenses des ménages en information-communication, qui se stabilisent sous l'effet d'une moindre baisse des prix, tandis que les dépenses dans les quatre autres secteurs se redressent, même si elles restent encore dégradées notamment en hébergement-restauration. Cependant, au-delà des seuls services, un regard sur la consommation totale des ménages en 2014 montre que ce ralentissement de la demande en services traduit une réallocation de leurs dépenses. En effet, au global, la consommation totale des ménages a légèrement accéléré (+ 0,6 % après + 0,4 % en 2013), car leurs dépenses en produits manufacturés ont nettement accéléré (avec + 0,6 % contre - 0,6 % en 2013). Après de nombreuses mesures prises entre 2012 et 2014 sur le commerce de détail, les taxis, les prix du gaz et de l'électricité, certaines professions réglementées, la loi pour la croissance, l'activité et l'égalité des chances économiques, promulguée le 6 août 2015, comporte aussi différentes mesures sectorielles visant à améliorer l'efficacité de l'économie, développer l'activité et lutter contre les coûts supplémentaires qui réduisent le pouvoir d'achat des ménages.
