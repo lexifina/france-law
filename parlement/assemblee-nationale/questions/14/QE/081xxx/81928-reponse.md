@@ -1,0 +1,9 @@
+# Réponse à la question n° 81928
+
+- Question : [81928](81928.md) — Question n° 81928 — Cour des comptes; rapport
+
+## Réponse
+
+*JO du 2016-09-20*
+
+La Cour des comptes a renouvelé sa recommandation d'une mise en œuvre d'un système de pénalités incitant les employeurs de fonctionnaires à verser en temps voulu leurs contributions au compte d'affectation spéciale (CAS) pensions. Ce dispositif, dont l'élaboration s'est avérée techniquement complexe, s'appuiera sur deux décrets, dont l'un pris après avis du Conseil d'État. Ces décrets sont, comme la Cour l'indique, en cours d'élaboration. On peut d'ores et déjà observer que contrairement à l'année 2011, aucun retard de paiement des contributions dues au titre des personnels militaires n'a été constaté en 2012, 2013, ou 2014, grâce à des contacts bilatéraux avec le ministère de la défense et à l'attention particulière portée par celui-ci sur le respect des échéances de ses versements. De même, les retards de paiement des établissements publics se sont progressivement réduits. Cette amélioration significative des résultats a rendu moins impérative la publication de ces décrets et n'a donc pas été propice à un aboutissement rapide des discussions interministérielles. Leur publication, de même que la reconduction des dispositifs permettant en gestion d'optimiser le respect des délais de versement des cotisations au CAS pensions, demeure un objectif du ministre des finances et des comptes publics. De manière générale, les services chargés du suivi des recettes du CAS pensions continueront à exercer les contrôles visant à assurer le recouvrement des recettes du CAS pensions. En 2015, l'action de la direction générale des finances publiques portera en particulier sur un renforcement de l'information des acteurs (comptables publics et employeurs) en amont des paiements, sur les règles de calcul et de versement des cotisations au CAS pensions.
