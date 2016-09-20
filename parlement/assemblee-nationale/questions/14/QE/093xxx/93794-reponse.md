@@ -1,0 +1,9 @@
+# Réponse à la question n° 93794
+
+- Question : [93794](93794.md) — Question n° 93794 — distance d'implantation minimale; perspectives
+
+## Réponse
+
+*JO du 2016-09-20*
+
+La distance d'éloignement entre les éoliennes et les habitations a été largement évoquée dans le cadre des débats parlementaires de la loi relative à la transition énergétique pour la croissance verte puisque plus de 200 amendements concernant les éoliennes ont été débattus. L'ensemble des parlementaires intéressés par cette question a pu avoir l'occasion de s'exprimer et d'entendre les positions du Gouvernement. Le vote final de la loi apporte une réponse satisfaisante et proportionnée à ces questions en confirmant qu'une distance d'éloignement minimale de 500 m entre les éoliennes et les habitations doit être respectée. Cette distance est toutefois appréciée pour chaque projet au regard de l'étude d'impact et de l'étude de dangers transmise dans le dossier de demande d'autorisation et peut ainsi être supérieure si cela est nécessaire. En effet, la procédure d'instruction d'une demande d'autorisation unique pour un parc éolien prévoit la réalisation d'une étude d'impacts (incluant les impacts cumulés) et d'une étude de dangers qui évaluent les effets du projet sur l'environnement, en incluant des critères tels que le patrimoine naturel et culturel, l'impact paysager, le bruit et les risques pour les riverains. Ces études doivent prendre en compte la configuration du parc éolien en projet ainsi que les différentes caractéristiques des éoliennes, dont leur hauteur. Après examen de ces études et enquête publique, le préfet rend sa décision par voie d'arrêté préfectoral. En cas d'autorisation, il peut fixer dans cet arrêté préfectoral des prescriptions complémentaires et compensatoires (éloignement, niveau de bruit, contrôles réguliers, mesures de sécurité spécifiques, …).
