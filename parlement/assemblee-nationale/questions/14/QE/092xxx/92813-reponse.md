@@ -1,0 +1,9 @@
+# Réponse à la question n° 92813
+
+- Question : [92813](92813.md) — Question n° 92813 — missions; statut
+
+## Réponse
+
+*JO du 2016-09-20*
+
+Les conseillers conjugaux et familiaux interviennent en effet dans diverses structures - établissements d'information, de consultation et de conseil familial (EICCF), centres de planification ou d'éducation familiale (CPEF), centres hospitaliers, cabinets libéraux, …- pour y réaliser des missions variées relevant soit de l'éducation à la sexualité, la fécondité, la contraception, l'IVG et de l'accompagnement des couples, soit davantage du soutien à la parentalité en intervenant en amont des séparations et de la possible intervention de la médiation familiale, soit encore de la lutte contre les violences intra-familiales. Conscient des difficultés rencontrées par les conseillers conjugaux et familiaux, le Gouvernement recherche actuellement des pistes d'évolution afin d'accompagner cette profession vers une meilleure reconnaissance de ses spécificités. Une concertation avec les acteurs du secteur est donc engagée afin de clarifier les missions et le statut des conseillers conjugaux et familiaux. Une première étude menée en 2014, puis les résultats de cette concertation, permettront de préciser les différents scénarios retenus. Ce travail viendra en prolongement des décisions du Comité interministériel aux droits des femmes et à l'égalité de 2012, dont une des actions retenues dans la feuille de route du ministère des affaires sociales et de la santé porte sur la rénovation de la formation en conseil conjugal et familial des personnels intervenant dans les EICCF et les CPEF. Les associations chargées de la formation des conseillers conjugaux et familiaux ont engagé des démarches pour donner une visibilité et un statut à cette profession, qui n'ont pas encore abouti. Le ministère travaille avec elles pour trouver des solutions rapidement, permettant à minima de sanctionner leur maîtrise professionnelle.
