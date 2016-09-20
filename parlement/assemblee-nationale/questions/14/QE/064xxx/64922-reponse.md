@@ -1,0 +1,9 @@
+# Réponse à la question n° 64922
+
+- Question : [64922](64922.md) — Question n° 64922 — rapport; recommandations; perspectives
+
+## Réponse
+
+*JO du 2016-09-20*
+
+Sur proposition du comité d'évaluation et de contrôle des politiques publiques, le président de l'Assemblée nationale a saisi le premier président de la Cour des comptes d'une demande d'évaluation portant sur le développement des services à la personne. La Cour des comptes a publié son rapport. Dans l'ensemble des recommandations qu'elle formule, quatre revêtent une importance particulière : elles concernent l'articulation des objectifs visés, le renforcement de la lutte contre le travail dissimulé, l'évaluation globale des dépenses fiscales et des niches sociales accordées au regard de politiques d'allègements généraux de cotisations sociales ou d'aides directes à la personne et, enfin, la simplification du régime fiscal et social aujourd'hui appliqué aux services à la personne. Elle recommande également de mettre en œuvre les recommandations du conseil national de l'information statistique, en veillant à disposer de données fiables, partagées et utiles pour le développement des études et le pilotage des actions publiques. Après la fermeture de l'agence nationale des services à la personne en charge de la fonction d'observatoire statistique du secteur et la réintégration de ces missions au sein des services de l'Etat, ces recommandations vont faire l'objet d'un examen attentif du gouvernement au regard de l'importance particulière de ce secteur et des contraintes budgétaires actuelles. En effet dans un contexte de faible croissance, les perspectives de créations d'emplois dans le secteur des services à la personne sont importantes. Le récent rapport de France Stratégie sur les prospectives sur les métiers et les qualifications évalue à 320 000 le nombre de postes à pourvoir d'ici 2022 dans les métiers d'aide à domicile.
