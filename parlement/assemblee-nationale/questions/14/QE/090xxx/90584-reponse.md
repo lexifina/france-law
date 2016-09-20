@@ -1,0 +1,9 @@
+# Réponse à la question n° 90584
+
+- Question : [90584](90584.md) — Question n° 90584 — procédures; réglementation
+
+## Réponse
+
+*JO du 2016-09-20*
+
+Selon le Conseil d'État, le contribuable qui fait l'objet d'une vérification de comptabilité doit disposer, entre la réception ou la remise de l'avis de vérification et le début de l'examen au fond de ses documents comptables, d'un délai suffisant pour pouvoir se faire assister d'un conseil (CE 14 mars 1990 no 65110, 7e et 8e s.-s., Kaufmann). Ce délai est fixé à deux jours francs. Ainsi, pour le calcul de ce délai, il n'est pas tenu compte du jour de réception de l'avis de vérification, du jour du début du contrôle, des samedis, dimanches et jours fériés. Ce délai de deux jours francs est ainsi jugé comme matériellement indispensable pour se faire utilement assister d'un conseil avant le début des opérations de contrôle. Ce délai permet en outre d'assurer un juste équilibre entre le respect des droits de la défense et la réactivité nécessaire de l'action publique dans le cas des fraudes les plus graves. Aussi, dans un contexte de renforcement de la lutte contre la fraude, il n'apparaît pas envisageable d'établir un délai minimum d'une semaine entre la remise de l'avis de vérification de comptabilité et la première intervention sur place du vérificateur. Au demeurant, il est d'usage d'envoyer l'avis plusieurs jours avant la date prévue pour la première intervention, offrant ainsi dans les faits un délai supérieur au délai minimum d'une semaine proposé. Enfin, dans le cadre des dix engagements pour un contrôle fiscal des entreprises efficace et serein, l'administration a rappelé que la première intervention sur place est précédée, dans la mesure du possible, d'un entretien téléphonique pour échanger sur le contrôle et préparer cette première intervention.
