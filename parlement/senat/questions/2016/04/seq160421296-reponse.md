@@ -1,0 +1,9 @@
+# Réponse à la question SEQ160421296
+
+- Question : [SEQ160421296](seq160421296.md) — Indemnité des maires et adjoints des communes de moins de 500 habitants
+
+## Réponse
+
+*Budget et comptes publics, JO du 2016-09-22, page 4035*
+
+En application du I de l'article 204-0 bis du code général des impôts (CGI), les indemnités de fonction des élus locaux sont soumises de plein droit à une retenue à la source libératoire de l'impôt sur le revenu. Les élus locaux ont toutefois toujours la possibilité d'opter pour l'imposition de leurs indemnités de fonction selon les règles de droit commun des traitements et salaires. Depuis l'article 5 de la loi de finances pour 2002, les indemnités de fonction soumises à la retenue à la source sont, sous déduction d'une fraction représentative de frais d'emploi dont le montant forfaitaire est égal au montant des indemnités versées aux maires des communes de moins de 500 habitants, prises en compte dans le revenu fiscal de référence (RFR) défini au IV de l'article 1417 du code précité qui est utilisé pour l'attribution de divers avantages fiscaux et sociaux sous condition de revenus. Dès lors, lorsque l'indemnité de fonction de l'élu local, titulaire d'un mandat unique, a été soumise à la retenue à la source et que son montant est inférieur ou égal à celui de l'indemnité des maires des communes de moins de 500 habitants, le RFR n'est pas majoré du montant desdites indemnités. Enfin, il est précisé que, sur le plan social, l'article 5 de la loi n° 2015-366 du 31 mars 2015 visant à faciliter l'exercice, par les élus locaux, de leur mandat a complété l'article L. 1621-1 du code général des collectivités territoriales afin de prévoir que, nonobstant toutes dispositions contraires, la fraction de l'indemnité des élus locaux représentative des frais d'emploi, telle que définie à l'article 204-0 bis du CGI, n'est pas prise en considération pour le calcul des ressources ouvrant droit à une prestation sociale.
