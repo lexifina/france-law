@@ -1,0 +1,9 @@
+# Réponse à la question SEQ160320585
+
+- Question : [SEQ160320585](seq160320585.md) — Sécurité et devenir de la centrale nucléaire de Fessenheim
+
+## Réponse
+
+*Environnement, énergie et mer, JO du 2016-09-22, page 4090*
+
+La loi de transition énergétique instaure un plafonnement à 63,2 gigawatts de la puissance nucléaire installée. Ce plafonnement permet d'engager une diversification de notre production d'électricité et de faire en sorte que nos énergéticiens se développent aussi dans les énergies renouvelables, technologies qui connaissent un fort développement dans le monde et qui sont donc des opportunités à l'export. Le plafond de 63,2 gigawatts correspondant à la capacité de production d'électricité d'origine nucléaire actuelle, il résulte de ces dispositions qu'électricité de France (EDF) devra demander le déclassement de capacités existantes pour mettre en service la nouvelle centrale de Flamanville 3. EDF a confirmé au Gouvernement étudier l'unique hypothèse de la fermeture des deux réacteurs 900 MW de la centrale de Fessenheim. Comme le Président de la république s'y était engagé, le décret d'abrogation de l'autorisation d'exploiter la centrale de Fessenheim sera pris avant la fin de l'année 2016, avec une date d'entrée en vigueur à la mise en service de la centrale de Flamanville 3. La reconversion du site et la revitalisation du territoire font partie des priorités du Gouvernement. Le préfet de la région Alsace-Champagne-Ardenne-Lorraine s'est vu confier la mission d'identifier les mesures nécessaires à cette fin, en lien avec le délégué interministériel à la fermeture de Fessenheim, en approfondissant plus particulièrement les options de reconversion sur le thème de la transition énergétique. Suite aux contacts pris auprès du ministre allemand chargé de l'économie, les autorités allemandes sont particulièrement impliquées dans ces travaux.
