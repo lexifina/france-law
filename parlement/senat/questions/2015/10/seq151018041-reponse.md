@@ -1,0 +1,9 @@
+# Réponse à la question SEQ151018041
+
+- Question : [SEQ151018041](seq151018041.md) — Garantie des produits et obsolescence programmée
+
+## Réponse
+
+*Environnement, énergie et mer, JO du 2016-09-22, page 4081*
+
+L'allongement de la durée de vie des produits, et la lutte contre l'obsolescence programmée, sont des actions prioritaires dans le cadre de la transition vers l'économie circulaire. Le rapport sur l'obsolescence programmée, sa définition juridique et ses enjeux économiques a fait l'objet d'un important travail associant les parties prenantes et les pouvoirs publics, et il est en cours de finalisation. Ce travail a dû prendre en compte les avancées très significatives de la loi relative à la transition énergétique pour la croissance verte publiée le 18 août 2015 sur la question de la durée de vie des produits, parmi lesquelles on peut citer la définition et la pénalisation de l'obsolescence programmée, la mise en place d'une expérimentation sur l'affichage de la durée de vie des produits, et la mise en place d'une réflexion sur l'allongement de la durée de garantie des produits.
