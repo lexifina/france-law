@@ -1,0 +1,9 @@
+# Réponse à la question SEQ140511829
+
+- Question : [SEQ140511829](seq140511829.md) — Paiement de l'impôt par les Français de l'étranger
+
+## Réponse
+
+*Économie et finances, JO du 2016-09-22, page 4048*
+
+Les rôles d'impôt sur le revenu font l'objet de quatre homologations annuelles. Pour 2016, les deux premières homologations de rôle et leur mise en recouvrement ont lieu en juillet, la troisième en septembre et la dernière en décembre. L'envoi des avis d'impôt intervient dès le début du mois suivant, exception faite pour les usagers qui ont opté pour la dématérialisation de leur avis. En ce cas, la mise à disposition de l'avis d'impôt sur le revenu dans le compte fiscal est également effectuée en début de mois suivant celui de la mise en recouvrement. Enfin, la date limite de paiement intervient 45 jours après la date de mise en recouvrement (article 1730 du code général des impôts). L'avis d'impôt n'est pas suivi d'un avis de mise en recouvrement. En matière de paiement de l'impôt, les contribuables français résidant à l'étranger ne sont pas soumis à une réglementation spécifique. En revanche, ces derniers disposent d'un délai supplémentaire pour procéder à la déclaration de leurs revenus soit en 2016 au 15 juin et au 30 juin (selon le pays de résidence), ce qui peut expliquer que nombre d'entre eux figurent à la 3ème émission. L'utilisation des services en ligne le plus tôt possible, et dès leur ouverture mi-avril, est pour eux le meilleur moyen de figurer à la 1ère ou 2ème émission et ainsi recevoir leur avis fin juillet début août pour une date limite de paiement au 15 septembre. Enfin, il n'existe pas de trêve estivale dans les services fiscaux. Les homologations et mises en recouvrement des rôles généraux d'impôts sur le revenu, d'impôts locaux sont assurées chaque mois à compter du mois de juillet de chaque année et ce jusqu'au 31 décembre.
