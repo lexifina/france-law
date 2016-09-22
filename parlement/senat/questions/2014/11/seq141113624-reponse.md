@@ -1,0 +1,9 @@
+# Réponse à la question SEQ141113624
+
+- Question : [SEQ141113624](seq141113624.md) — Conventions fiscales et Français de l'étranger
+
+## Réponse
+
+*Économie et finances, JO du 2016-09-22, page 4050*
+
+La disposition de la convention fiscale franco-andorrane, signée le 2 avril 2013 et entrée en vigueur le 1er juillet 2015, permettant à la France d'imposer ses ressortissants nonobstant les autres stipulations de l'accord revêt un caractère spécifique et répond à l'absence de fiscalité directe en Andorre lors de sa négociation. En outre, ainsi que le Gouvernement l'a indiqué au Parlement à l'occasion de la procédure de ratification, une telle clause ne peut trouver à s'appliquer que si le législateur national prend des mesures en ce sens. Ceci supposerait donc de s'écarter du principe actuel selon lequel l'imposition des revenus sur une base mondiale est liée de manière générale à la domiciliation fiscale en France des contribuables pour prendre en compte un critère de nationalité. À cet égard, il n'existe pas de convention en projet comportant une stipulation analogue. Enfin, il est souligné que l'entrée en application de la convention entre la France et Andorre est une avancée importante car elle permet de clarifier le traitement fiscal des situations transfrontalières et d'éviter les doubles impositions, au bénéfice de nos concitoyens qui vivent et conduisent leurs activités entre les deux États. De manière plus générale, en réponse aux inquiétudes de l'auteure de la question, le Gouvernement attache une grande attention à la situation de nos concitoyens qui ont fait le choix de vivre à l'étranger. Ainsi, le secrétaire d'État chargé du budget a réuni en 2014 un groupe de travail sur la fiscalité des non-résidents qui a associé les parlementaires représentant les Français de l'étranger afin d'assurer l'information de ceux-ci et de résoudre les difficultés qu'ils rencontrent.
