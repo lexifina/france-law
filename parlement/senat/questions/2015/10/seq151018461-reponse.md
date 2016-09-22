@@ -1,0 +1,9 @@
+# Réponse à la question SEQ151018461
+
+- Question : [SEQ151018461](seq151018461.md) — Soutien psychologique aux salariés des sociétés privées d'autoroute témoins d'accidents graves
+
+## Réponse
+
+*Transports, mer et pêche, JO du 2016-09-22, page 4106*
+
+Le secrétaire d'État chargé des transports, de la mer et de la pêche, est très attentif à la situation des agents qui interviennent sur les réseaux routiers, qui sont effectivement souvent les premiers à arriver sur les lieux d'un accident et qui sont encore aujourd'hui eux-mêmes soumis au danger lors de leurs interventions. S'agissant des personnels de l'État intervenant sur les réseaux routiers nationaux, une instruction relative à la sécurité des agents de l'État vis-à-vis des risques liés à la circulation routière lors de leurs interventions a été co-signée le 11 octobre 2013 par le directeur général des infrastructures, des transports et de la mer ainsi que par le secrétaire général du ministère de l'écologie, du développement durable et de l'énergie (MEDDE) et le ministère de l'égalité des territoires et du logement (METL). Cette instruction demande aux services, en cas d'accident lié à la circulation routière, de mettre en œuvre des mesures d'accompagnement pour les agents concernés et leurs collègues. Les moyens mis en œuvre sont différents s'agissant des personnels des sociétés concessionnaires, qui n'ont pas de lien hiérarchique avec l'administration. Un accord de branche a été signé le 6 novembre 2012 entre les sociétés d'autoroutes et cinq organisations syndicales sur les problématiques de sécurité et de santé du personnel autoroutier. Cet accord est décliné en actions de communication internes régulières à destination des personnels. Il inclut également des actions de sensibilisation du grand public aux thématiques de sécurité alors qu'en 2015 on déplorait encore 121 accidents impliquant des agents sur les réseaux concédés ayant fait 15 blessés et endommagé 65 véhicules.
