@@ -1,0 +1,9 @@
+# Réponse à la question SEQ141013371
+
+- Question : [SEQ141013371](seq141013371.md) — Modalités de restitution des retenues de garantie
+
+## Réponse
+
+*Économie et finances, JO du 2016-09-22, page 4049*
+
+Aux termes de l'article 101 du code des marchés publics (CMP) : « Le marché peut prévoir, à la charge du titulaire, une retenue de garantie (…). La retenue a pour seul objet de couvrir les réserves à la réception des travaux, fournitures ou services ainsi que celles formulées, le cas échéant, pendant le délai de garantie ». Conformément à l'article 3 du décret n° 2013-269 du 29 mars 2013 relatif à la lutte contre les retards de paiement dans les contrats de la commande publique, qui a modifié l'article 103 du CMP, le pouvoir adjudicateur dispose d'un délai maximum de trente jours à compter de l'expiration du délai de garantie ou de la levée des réserves pour rembourser la retenue de garantie. Chaque commande d'un marché à bons de commande peut donner lieu à une réception des prestations dès leur réalisation (CE, 3 octobre 2012, Société Eiffage travaux publics Méditerranée, n° 348476). Dans cette hypothèse, le délai de garantie court au fur et à mesure de la réception des prestations commandées et la retenue de garantie est restituée au titre de chaque bon de commande. À l'inverse, lorsque le contrat prévoit une réception globale des prestations commandées, le remboursement de la retenue de garantie intervient pour l'ensemble du marché à l'issue du délai de garantie commun à tous les bons de commande ou de la levée de l'ensemble des réserves. En toute hypothèse, en cas de retard de remboursement de la retenue de garantie, des intérêts moratoires sont versés de plein droit au titulaire selon les modalités définies par le décret du 29 mars 2013. Une fiche technique relative aux garanties financières prévues par le code des marchés publics sera prochainement publiée par la direction des affaires juridiques des ministères économiques et financiers.
