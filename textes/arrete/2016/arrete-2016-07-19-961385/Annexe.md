@@ -244,7 +244,7 @@ Armée de terre
 
 |
 
-4e régiment du matériel MURET (31)
+3e régiment du matériel MURET (31)
 
 |
 
@@ -333,6 +333,34 @@ Armée de terre
 |
 
 Technicien exploit système informatique
+
+|
+
+Niveau III
+
+|
+
+1
+
+|
+
+3 ans
+
+|
+
+10 000 €
+
+|
+
+Armée de terre
+
+|
+
+7e régiment du matériel Varces Allières (38)
+
+|
+
+Conducteur de traitement des matériaux peinture industrielle
 
 |
 
@@ -1138,11 +1166,17 @@ Niveau III
 
 Comptable Budgétaire et comptable Ministériel de la Défense /
 
-Agence Comptable des Services Industriels de l'Armement (CBCM - ACSIA) |
+Agence Comptable des Services Industriels de l'Armement (CBCM - ACSIA)
 
-Départements comptables ministériels de défense - Agence comptable des services industriels de l'armement NOISY-LE-GRAND (93) |
+|
 
-Chargé bilan défense |
+Départements comptables ministériels de défense - Agence comptable des services industriels de l'armement NOISY-LE-GRAND (93)
+
+|
+
+Chargé bilan défense
+
+|
 
 Niveau I
 
@@ -1536,11 +1570,17 @@ Niveau I
 
 |
 
-Direction Interarmées des réseaux Infrastructures et des systèmes d'information (DIRISI) |
+Direction Interarmées des réseaux Infrastructures et des systèmes d'information (DIRISI)
 
-Direction centrale Fort de Bicêtre LE KREMLIN-BICÊTRE (94) |
+|
 
-Chef de section achats prestations intellectuelles |
+Direction centrale Fort de Bicêtre LE KREMLIN-BICÊTRE (94)
+
+|
+
+Chef de section achats prestations intellectuelles
+
+|
 
 Niveau I
 
@@ -1642,7 +1682,9 @@ Niveau II
 
 |
 
-Direction de la Protections et de la Sécurité de la Défense (DPSD) |
+Direction de la Protections et de la Sécurité de la Défense (DPSD)
+
+|
 
 Direction zonale METZ (57)
 
@@ -1672,7 +1714,7 @@ DPSD
 
 |
 
-Direction centrale MALAKOFF (94)
+Direction centrale MALAKOFF (92)
 
 |
 
@@ -1700,7 +1742,7 @@ DPSD
 
 |
 
-Direction centrale MALAKOFF (94)
+Direction centrale MALAKOFF (92)
 
 |
 
@@ -1728,7 +1770,7 @@ DPSD
 
 |
 
-Direction centrale MALAKOFF (94)
+Direction centrale MALAKOFF (92)
 
 |
 
@@ -1756,7 +1798,7 @@ DPSD
 
 |
 
-Direction centrale MALAKOFF (94)
+Direction centrale MALAKOFF (92)
 
 |
 
@@ -1784,7 +1826,7 @@ DPSD
 
 |
 
-Direction centrale MALAKOFF (94)
+Direction centrale MALAKOFF (92)
 
 |
 
@@ -1812,7 +1854,7 @@ DPSD
 
 |
 
-Direction centrale MALAKOFF (94)
+Direction centrale MALAKOFF (92)
 
 |
 
@@ -1840,7 +1882,7 @@ DPSD
 
 |
 
-Direction centrale MALAKOFF (94)
+Direction centrale MALAKOFF (92)
 
 |
 
@@ -1868,7 +1910,7 @@ DPSD
 
 |
 
-Direction centrale MALAKOFF (94)
+Direction centrale MALAKOFF (92)
 
 |
 
@@ -2960,34 +3002,6 @@ Marine
 
 |
 
-Service logistique de la Marine BREST (29)
-
-|
-
-Agent d'approvisionnement de matériels SIMMT
-
-|
-
-Niveau III
-
-|
-
-1
-
-|
-
-3 ans
-
-|
-
-5 000 €
-
-|
-
-Marine
-
-|
-
 Commandement d'arrondissement et de zone maritime Manche CHERBOURG (50)
 
 |
@@ -3212,9 +3226,7 @@ SCA
 
 |
 
-Groupement de soutien de la base de défense de GAP / service soutien vie / Quartier Général Guillaume GAP (05)
-
-|
+Groupement de soutien de la base de défense de Gap/ service soutien vie/ Quartier Général Guillaume GAP (05) |
 
 Cuisinier
 
@@ -3240,7 +3252,7 @@ SCA
 
 |
 
-Groupement de soutien de la base de défense de GAP / service soutien vie / Quartier Général Guillaume GAP (05)
+Groupement de soutien de la base de défense de Gap/ service soutien communs/ Quartier Général Guillaume GAP (05)
 
 |
 
@@ -3441,34 +3453,6 @@ Groupement de soutien de la base de défense de MOURMELON-MAILLY / Antenne CHÂT
 |
 
 Cuisinier
-
-|
-
-Niveau III
-
-|
-
-1
-
-|
-
-3 ans
-
-|
-
-10 000 €
-
-|
-
-SCA
-
-|
-
-Etablissement logistique du commissariat des armées de MARSEILLE (13)
-
-|
-
-Mécanicien
 
 |
 
@@ -4192,6 +4176,34 @@ SCA
 
 |
 
+Groupement de soutien de la base de défense de VALENCE (26)
+
+|
+
+Contrôleur prestation RHL
+
+|
+
+Niveau II
+
+|
+
+1
+
+|
+
+3 ans
+
+|
+
+10 000 €
+
+|
+
+SCA
+
+|
+
 Groupement de soutien de la base de défense BREST-LORIENT / Antenne LANDIVISIAU (29)
 
 |
@@ -4309,34 +4321,6 @@ Groupement de soutien de la base de défense BREST-LORIENT / Antenne PRESQU'ILE 
 |
 
 Mécanicien de maintenance
-
-|
-
-Niveau III
-
-|
-
-1
-
-|
-
-3 ans
-
-|
-
-10 000 €
-
-|
-
-SCA
-
-|
-
-Groupement de soutien de la base de défense BREST-LORIENT / Antenne PRESQU'ILE DE CROZON (29)
-
-|
-
-Réceptionniste hébergement Lanvéoc
 
 |
 
@@ -7444,6 +7428,8 @@ Etablissement logistique du commissariat des armées de BRETIGNY-SUR-ORGE (91)
 
 |
 
+Agent d'entreposage magasinage 33
+
 |
 
 Niveau III
@@ -8382,34 +8368,6 @@ Niveau II
 
 |
 
-10 000 €
-
-|
-
-SGA/DMPA
-
-|
-
-Direction de la mémoire, du patrimoine et des archives PARIS (75)
-
-|
-
-Chargé d'études "budgets opérationnels de programme" crédits de la politique immobilière
-
-|
-
-Niveau II
-
-|
-
-1
-
-|
-
-3 ans
-
-|
-
 8 000 €
 
 |
@@ -8430,7 +8388,7 @@ Niveau II
 
 |
 
-1
+2
 
 |
 
@@ -10022,7 +9980,7 @@ Responsable de la gestion des ressources humaines
 
 |
 
-Niveau III
+Niveau II
 
 |
 
@@ -11155,34 +11113,6 @@ Niveau II
 |
 
 8 000 €
-
-|
-
-SGA/SID
-
-|
-
-Etablissement du service d'infrastructure de la défense LYON / USID ISTRES (13)
-
-|
-
-Chef de projets commandement en SIM
-
-|
-
-Niveau I
-
-|
-
-1
-
-|
-
-3 ans
-
-|
-
-10 000 €
 
 |
 
@@ -12462,7 +12392,7 @@ Niveau II
 
 |
 
-2
+1
 
 |
 
@@ -13206,6 +13136,34 @@ SGA/SID
 
 |
 
+Etablissement du service d'infrastructure de la défense d'Ile-de-France SAINT-GERMAIN-EN-LAYE/ PMO VERSAILLES (78)
+
+|
+
+Chargé projet technique infra (Maîtrise d'œuvre)
+
+|
+
+Niveau II
+
+|
+
+1
+
+|
+
+3 ans
+
+|
+
+8 000 €
+
+|
+
+SGA/SID
+
+|
+
 Etablissement du service d'infrastructure de la défense BORDEAUX / USID SAINT-MAIXENT-L'ÉCOLE (79)
 
 |
@@ -13398,6 +13356,56 @@ Niveau I
 
 |
 
+SGA/SID |
+
+Etablissement du service d'infrastructure de la défense d'Ile-de-France SAINT-GERMAIN-EN-LAYE/ USID MONTLHERY (91) |
+
+Chef de projets "commandement" en SIM |
+
+Niveau I
+
+|
+
+1
+
+|
+
+3 ans
+
+|
+
+10 000 €
+
+|
+
+SGA/SID
+
+|
+
+Etablissement du service d'infrastructure de la défense d'Ile-de-France SAINT-GERMAIN-EN-LAYE/ USID MONTLHERY (91)
+
+|
+
+Chargé de projet "conduite" en SIM
+
+|
+
+Niveau II
+
+|
+
+1
+
+|
+
+3 ans
+
+|
+
+8 000 €
+
+|
+
 SGA/Service parisien de soutien de l'administration centrale (SPAC)
 
 |
@@ -13514,15 +13522,13 @@ SGA/SPAC
 
 |
 
-Sous-direction de la gestion budgétaire et financière / bureau de la coordination budgétaire BALARD PARIS (75)
+Sous-direction de la gestion budgétaire et financière/ bureau de la coordination budgétaire BALARD PARIS (75)
 
 |
 
-Chargé de mission de la modernisation de chaîne financière
+Chargé de mission de la modernisation de chaîne financière |
 
-|
-
-Niveau Ii
+Niveau I
 
 |
 
