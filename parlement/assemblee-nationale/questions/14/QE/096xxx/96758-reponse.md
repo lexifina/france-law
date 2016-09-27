@@ -1,0 +1,9 @@
+# Réponse à la question n° 96758
+
+- Question : [96758](96758.md) — Question n° 96758 — accueil; politique européenne
+
+## Réponse
+
+*JO du 2016-09-27*
+
+La France est engagée, avec ses partenaires européens, dans la recherche d'une résolution globale à une crise migratoire sans précédent qui nécessite que toutes les parties prenantes prennent leurs responsabilités. C'est dans ce contexte que des engagements importants ont été pris le 18 mars dernier avec la Turquie. Ces engagements doivent non seulement permettre de soutenir la Turquie dans l'effort incontestable qu'elle déploie pour l'accueil de plus de 3 millions de réfugiés sur son territoire, mais aussi empêcher, par une lutte conjointe contre les réseaux de passeurs, que les migrants et réfugiés ne risquent leur vie en traversant la mer Egée. La France a appelé au strict respect du droit international et européen dans la mise en œuvre de cet accord et elle y veille constamment. La Turquie a déjà modifié sa législation de sorte que les réfugiés syriens puissent accéder au marché légal du travail, que leurs enfants puissent être scolarisés, et que, plus globalement, une protection internationale leur soit automatiquement accordée. D'autres évolutions législatives sont attendues afin que tous les migrants qui sont aujourd'hui en Turquie bénéficient d'une protection suffisante, conforme aux normes internationales, et notamment au principe de non-refoulement. Cela vaut aussi pour les non-Syriens. La France déploie tous les moyens dont elle dispose pour veiller au respect de ces normes. La France est par ailleurs très engagée pour trouver une solution durable et pacifique aux conflits qui sont à l'origine de ces flux migratoires, et dont la résolution pourrait permettre à de nombreux réfugiés de retourner chez eux. Cela concerne le conflit syrien mais aussi la situation en Irak, en Afghanistan et dans les autres zones de crises.
