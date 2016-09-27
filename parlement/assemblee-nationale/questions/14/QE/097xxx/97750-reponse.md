@@ -1,0 +1,9 @@
+# Réponse à la question n° 97750
+
+- Question : [97750](97750.md) — Question n° 97750 — écotaxe; suppression; coût
+
+## Réponse
+
+*JO du 2016-09-27*
+
+Les services du ministère de l'écologie, du développement durable et de l'énergie ont lancé en février 2015 un appel d'offre pour un marché de dépose, de transport et de stockage du dispositif conçu pour l'écotaxe. Au cours de la procédure de passation du marché, les réorganisations de l'administration centrale consécutives à l'abandon de l'écotaxe et les perspectives de réutilisation par d'autres services de l'État d'une partie des équipements concernés par la consultation ont conduit à redéfinir le dispositif de pilotage ainsi que les besoins relatifs à la dépose des équipements et à la remise en état des sites. De ce fait, une partie significative des prestations prévues à la consultation initiale ne répondait plus aux besoins du pouvoir adjudicateur et le marché a été annulé par décision du 20 janvier 2016. Concernant les pistes de réutilisation, plusieurs services de l'État nous ont fait part de leur intérêt potentiel à des fins de sécurité intérieure et de lutte contre la fraude. Des discussions ont été engagées entre les services concernés et le projet est actuellement à l'étude au sein des ministères intéressés. En parallèle de ces réflexions, les élus de certains départements ou régions se sont exprimés pour défendre un mode de financement de leurs infrastructures basé sur la création d'une écotaxe régionale. Le Gouvernement reste prêt à apporter l'appui des services de l'État aux collectivités qui souhaiteraient concevoir un nouveau projet de tarification. Néanmoins un projet d'écotaxe local constitue un projet nouveau qui nécessite une mobilisation importante de moyens d'étude et de réflexion ainsi qu'une concertation approfondie avec tous les acteurs. Sur le plan technique, le dispositif conçu pour un déploiement à grande échelle est de plus inadapté à une utilisation locale.
