@@ -1,0 +1,9 @@
+# Réponse à la question n° 85430
+
+- Question : [85430](85430.md) — Question n° 85430 — stockage; CESE; rapport; propositions
+
+## Réponse
+
+*JO du 2016-09-27*
+
+Le Gouvernement est particulièrement attaché au développement d'une filière industrielle du stockage d'énergie et, en particulier, d'électricité. La France possède plusieurs industriels de premier plan dans le domaine, tant dans le domaine du stockage stationnaire que pour la mobilité électrique. La montée en puissance des acteurs industriels mondiaux, notamment asiatiques, renforce le besoin d'adopter une stratégie communautaire pour préserver et développer les industries européennes alors que les relais de croissance sont majeurs dans les années à venir. Des usines de très grandes tailles "gigafactory"sont en cours de réalisation en Asie et en Amérique du Nord et les surcapacités risquent d'engendrer une guerre des prix entre les acteurs, pouvant conduire à des situations de dumping étouffant la concurrence, notamment européenne. La priorité pour l'industrie européenne des batteries est de poursuivre l'innovation afin de toujours disposer d'une longueur d'avance dans la performance et la technologie de ses batteries. Le Gouvernement a mis en place un plan de la nouvelle France industrielle (PNFI) consacré au stockage d'énergie. Rassemblant les industriels et acteurs institutionnels, le plan s'est doté d'une feuille de route dont l'un des volets concerne la coopération franco-allemande pour la mise en place d'une chaîne de production européenne de batteries. Cet objectif est également soutenu par l'une des actions appelée" devenir compétitif dans le domaine des batteries pour accélérer le développement de la mobilité électrique " découlant du plan stratégique pour les technologies énergétiques (SET Plan) établi au niveau communautaire.
