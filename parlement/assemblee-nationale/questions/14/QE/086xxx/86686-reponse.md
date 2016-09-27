@@ -1,0 +1,9 @@
+# Réponse à la question n° 86686
+
+- Question : [86686](86686.md) — Question n° 86686 — lutte et prévention
+
+## Réponse
+
+*JO du 2016-09-27*
+
+Des aides à la mise en place de mesures de protection des troupeaux domestiques contre la prédation sont proposées dans le cadre du plan d'action national loup pour la période 2013-2017. Ces aides (constituées de 50 % de crédits nationaux, portés par le ministère chargé de l'agriculture et de 50 % de cofinancements européens du fonds européen agricole pour le développement rural (FEADER) ), visent l'embauche de bergers ou la rémunération à l'éleveur du surcoût engendré par le gardiennage renforcé de son troupeau (74 % des montants), l'achat et l'entretien de chiens de protection (18 %), l'achat de clôtures (7 %) et la réalisation d'analyses de vulnérabilité de l'exploitation agricole au risque de prédation (1 %). L'évolution sur les dix dernières années est la suivante, en millions d'euros : 2004 : 1,32 2005 : 2,2 2006 : 3,3 2007 : 4 2008 : 4,9 2009 : 5 2010 : 6,2 2011 : 7,6 2012 : 8,59 2013 : 10,4 2014 : 12,2. Le ministère de l'environnement, de l'énergie et de la mer, chargé des relations internationales sur le climat, pilote quant à lui le dispositif d'indemnisation des dommages, qui permet d'indemniser l'éleveur dont le troupeau a été attaqué au titre des animaux tués ou blessés, des pertes dites « indirectes » (stress subi par les animaux, pertes de production ou avortements consécutifs aux attaques…) et des animaux disparus du fait de l'attaque. L'évolution sur les dix dernières années est la suivante, en millions d'euros : 2004 : 0,494 2005 : 0,983 2006 : 0,685 2007 : 0,741 2008 : 0,794 2009 : 1,039 2010 : 1,157 2011 : 1,546 2012 : 1,936 2013 : 1,991 2014 : 2,621. La combinaison de ces outils constitue un levier essentiel pour concilier protection du loup, soutien et accompagnement des activités humaines et valorisation des milieux pastoraux.
