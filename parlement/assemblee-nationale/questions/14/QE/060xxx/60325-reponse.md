@@ -1,0 +1,9 @@
+# Réponse à la question n° 60325
+
+- Question : [60325](60325.md) — Question n° 60325 — biomasse; critères; éligibilité
+
+## Réponse
+
+*JO du 2016-09-27*
+
+Les pneumatiques usagés sont considérés en France comme des déchets, et la filière de valorisation des pneus usagés est donc encadrée par le code de l'environnement à ce titre. Celui-ci instaure à son article L541-1 le respect d'une hiérarchie du mode de traitement des déchets, qui prévoit notamment que la réutilisation et le recyclage des déchets doivent être privilégiés par rapport à leur valorisation énergétique. Afin de répondre à ces enjeux, le code de l'environnement instaure la « responsabilité élargie du producteur » (REP), qui confie à tous ceux qui introduisent des pneus neufs sur le marché français la responsabilité technique et financière de leur collecte et leur recyclage en amont. Ce dispositif a fait ses preuves et a permis de résorber les plus importants stocks historiques. La filière REP actuelle pour les pneus permet ainsi d'atteindre les objectifs de valorisation qui lui sont fixés par l'État. Le ministère chargé de l'environnement considère ainsi qu'il est préférable d'encourager le recyclage et la valorisation « matière » des pneus usagés, plutôt que d'inciter leur incinération à des fins de production d'énergie, dans le respect de la hiérarchie des modes de traitement des déchets prévue par le code de l'environnement. Pour ces raisons, la loi no 2015-992 du 17 août 2015 relative à la transition énergétique pour la croissance verte et son décret d'application no 2016-691 du 28 mai 2016 clarifient le champ d'application des dispositifs de soutien à la production d'électricité à partir de sources renouvelables et ne rendent pas éligible à l'obligation d'achat et au complément de rémunération l'incinération de pneus usagés.
