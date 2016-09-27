@@ -1,0 +1,9 @@
+# Réponse à la question n° 89682
+
+- Question : [89682](89682.md) — Question n° 89682 — autorisation de rejet; Méditerranée; perspectives
+
+## Réponse
+
+*JO du 2016-09-27*
+
+Les espaces marins et côtiers abritent de nombreuses activités humaines comme, par exemple, le transport maritime, la production d'énergies renouvelables, la pêche et l'aquaculture, le nautisme ou encore le tourisme. L'amélioration de la qualité de la mer et la restauration écologique de milieu marin de la méditerranée nécessitent de réduire les pressions humaines exercées sur le milieu. Les actions globales engagées tant sur les zones côtières que dans les terres visant à réduire les apports de polluants dans la Méditerranée (Rhône, cours d'eau côtiers, rejets industriel et d'eaux usées) doivent se poursuivre. Aussi, concernant les rejets en mer de la société ALTEO, la ministre a sollicité les établissements publics ayant pour missions la surveillance des milieux marins et l'évaluation des risques dans le domaine de l'alimentation, de l'environnement et du travail (l'institut français de recherche pour l'exploitation de la mer et l'Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail) de mener en toute transparence des campagnes de mesures de pêche exhaustives pour établir l'impact sur la santé et sur l'environnement de cette activité industrielle, sur le milieu marin et l'air. Les résultats attendus prochainement apporteront des éléments dans la décision qui sera rendue pour autoriser ou pas la poursuite de l'activité industrielle. Cette campagne permettra en outre d'affiner les recommandations actuelles de consommation de poisson et produits de la pêche en termes de fréquence et de types de poissons à consommer afin de bénéficier des qualités nutritionnelles de ces produits sans s'exposer à un risque particulier. Ces recommandations s'adressent à la population générale et à une population sensible (enfants, femmes enceintes, …).
