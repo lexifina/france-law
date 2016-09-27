@@ -1,0 +1,9 @@
+# Réponse à la question n° 69509
+
+- Question : [69509](69509.md) — Question n° 69509 — ICPE; autorisations; simplification
+
+## Réponse
+
+*JO du 2016-09-27*
+
+Dans le cadre de la loi relative à la transition énergétique pour la croissance verte (LTECV), des objectifs ambitieux en matière de développement des énergies renouvelables (EnR) ont été fixés. La filière des bioénergies doit contribuer pleinement à l'atteinte de ces objectifs ; LTECV a instauré le dispositif du complément de rémunération. Ce complément se présente sous la forme générale d'une prime versée à un producteur EnR en complément de la vente sur le marché de l'électricité qu'il a produite. Cette prime doit ainsi permettre de donner à ce producteur un niveau de rémunération totale permettant de couvrir les coûts de son installation tout en assurant une rentabilité normale des capitaux investis. Ce nouveau dispositif complètera le dispositif de l'obligation d'achat, qui reste en vigueur pour les petites installations. L'ensemble du corpus réglementaire relatif à la mise en œuvre du complément de rémunération a été notifié à l'automne 2015 à la Commission européenne. Afin de ne pas geler le développement des projets durant cette période, je vous informe que les décrets d'application de la loi ont été publiés dès fin mai 2016, sans attendre le retour de la Commission. Ils définissent notamment les dispositifs de soutien dont peuvent bénéficier les différentes installations. En ce qui concerne les installations de cogénération, celles-ci sont éligibles à l'appel d'offres lancé en février 2016 et auquel peuvent candidater toutes les installations de puissance supérieure à 300 kW. Aucune restriction technologique n'est prévue par cet appel d'offres de telle sorte que les procédés de gazéification de biomasse peuvent y concourir.
