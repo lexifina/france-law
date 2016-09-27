@@ -1,0 +1,9 @@
+# Réponse à la question n° 89667
+
+- Question : [89667](89667.md) — Question n° 89667 — syndicats intercommunaux; indemnités de fonction
+
+## Réponse
+
+*JO du 2016-09-27*
+
+L'article 42 de la loi no 2015-991 du 7 août 2015 portant nouvelle organisation territoriale de la République, dite NOTRe a supprimé les indemnités de fonction des présidents et vice-présidents des syndicats de communes et syndicats mixtes fermés dont le périmètre est inférieur à celui d'un EPCI à fiscalité propre, ainsi que celles des présidents et vice-présidents de l'ensemble des syndicats mixtes ouverts dits « restreints » (composés exclusivement de communes d'EPCI, de départements et de régions). Il a paru souhaitable de prévoir un délai pour l'entrée en vigueur de ces dispositions afin que les syndicats concernés puissent s'organiser. C'est pourquoi la loi no 2016-341 du 23 mars 2016 visant à permettre l'application aux élus locaux des dispositions relatives au droit individuel à la formation et relative aux conditions d'exercice des mandats des membres des syndicats de communes et des syndicats mixtes reporte au 1er janvier 2020, date prévue pour la majorité des transferts de compétences prévus par la loi NOTRe, l'entrée en vigueur de ces dispositions. À cette occasion, le Gouvernement a proposé également d'aligner le régime des syndicats mixtes ouverts restreints sur celui des syndicats de communes et des syndicats mixtes fermés. Ainsi, l'état du droit issu des articles L. 5211-12 et L. 5721-8 du code général des collectivités territoriales, dans leur rédaction antérieure à l'article 42 de la loi NOTRe, est rétabli et applicable du 9 août 2015 au 31 décembre 2019, n'entraînant aucune perte pour les élus concernés.
