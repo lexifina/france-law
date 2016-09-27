@@ -1,0 +1,9 @@
+# Réponse à la question n° 58048
+
+- Question : [58048](58048.md) — Question n° 58048 — accès; modalités
+
+## Réponse
+
+*JO du 2016-09-27*
+
+Si l'aide juridictionnelle de droit commun est effectivement soumise à des conditions de ressources, ces dernières ne sont nullement une exigence pour les victimes de crimes dits « les plus graves » ni pour les bénéficiaires exceptionnels de l'aide au titre d'une situation « particulièrement digne d'intérêt ». En effet, l'article 9-2 de la loi no 91-647 du 10 juillet 1991 dispose déjà d'une exemption de la condition de ressources pour les victimes d'atteintes volontaires à la vie ou à l'intégrité de la personne. Ainsi, ces dernières n'ont besoin que de formaliser une demande auprès du bureau d'aide juridictionnelle pour pouvoir bénéficier de l'aide. En outre, l'article 6 de cette même loi prévoit que l'aide peut être accordée à tout demandeur ne remplissant pas les conditions de ressources si sa situation apparaît « particulièrement digne d'intérêt » au regard de l'objet du litige ou des charges prévisibles du procès. Il appartient au bureau d'aide juridictionnelle, réuni en commission, d'apprécier souverainement le caractère digne d'intérêt de la situation d'un demandeur. Il peut le relever d'office ou sur demande. Cette disposition permet d'encadrer les situations ne pouvant raisonnablement être prévues par la loi ou le décret mais méritant manifestement l'octroi de l'aide juridictionnelle. Dès lors, donner une définition à la situation « digne d'intérêt » pourrait aboutir à réduire le champ d'application de l'aide juridictionnelle et son nombre de bénéficiaires potentiels. Enfin, en pratique, les bureaux d'aide juridictionnelle joignent les demandes émanant des mêmes justiciables et ayant le même objet. Il n'est donc pas envisagé de modifier les dispositions précitées.
