@@ -1,0 +1,9 @@
+# Réponse à la question n° 82023
+
+- Question : [82023](82023.md) — Question n° 82023 — rapport parlementaire; propositions; perspectives
+
+## Réponse
+
+*JO du 2016-09-27*
+
+À travers le système des aides personnelles au logement (APL), le Gouvernement poursuit l'objectif de favoriser l'accès au logement des ménages à revenus modestes, notamment les étudiants, et leur maintien dans le logement. Aujourd'hui, 6,5 millions de ménages, dont environ 769 000 étudiants, bénéficient d'une aide au logement pour un montant total de prestations de 18 milliards d'euros en 2015 (contre 16,7 milliards d'euros en 2012). Dans le cadre de la maîtrise des finances publiques, un groupe de travail parlementaire s'est saisi du sujet des aides personnelles au logement début 2015 afin de déterminer comment légiférer au mieux sur les pistes d'économie possibles dans le domaine des APL en conciliant maîtrise des dépenses publiques et préservation des publics fragiles bénéficiaires des APL. Les conclusions de ce groupe de travail ont été rendues le 26 mai 2015 et ont fait l'objet d'un examen attentif par le Gouvernement, notamment celles concernant les étudiants. À l'occasion de l'examen du projet de loi de finances pour 2016 au Parlement, le Gouvernement a indiqué qu'il n'envisageait pas de supprimer les APL versées aux étudiants. Néanmoins, à l'occasion des travaux parlementaires, a été examinée l'opportunité de ne plus distribuer des aides aux logements aux particuliers, dont les étudiants, issus de familles aisées, qui n'en ont pas un besoin réel. Dans ce cadre, l'article 143 de la loi no 2015-1785 du 29 décembre 2015 de finances pour 2016 prévoit qu'à compter du 1er octobre 2016, les particuliers rattachés au foyer fiscal de leurs parents ne sont plus éligibles aux aides personnelles au logement dès lors que leurs parents sont redevables de l'impôt de solidarité sur la fortune.
