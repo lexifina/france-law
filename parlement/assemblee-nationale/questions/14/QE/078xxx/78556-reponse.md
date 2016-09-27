@@ -1,0 +1,9 @@
+# Réponse à la question n° 78556
+
+- Question : [78556](78556.md) — Question n° 78556 — gares; défibrillateurs; équipement
+
+## Réponse
+
+*JO du 2016-09-27*
+
+En 2011, le groupe public ferroviaire a amorcé l'implantation de défibrillateurs automatisés externes (DAE) dans les lieux de passage de flux importants de voyageurs. Plusieurs critères ont été retenus pour déterminer les lieux d'implantation des défibrillateurs, en particulier le nombre de personnes présentes sur le site de façon simultanée ainsi que les conditions climatiques susceptibles de contribuer au déclenchement d'un malaise. La localisation des DAE est déterminée en fonction des itinéraires piétonniers habituels des voyageurs entre leur arrivée dans la gare et leur montée dans le train, incluant les zones d'attente. Le nombre et le positionnement des DAE dépendent ainsi de la fréquentation et de la configuration des gares. Dans les grandes gares parisiennes, l'emplacement des DAE a en outre été défini pour assurer une mise en œuvre des défibrillateurs en moins de quatre minutes, ce qui permet de réduire le temps qui s'écoule entre la perte de conscience et la défibrillation. Ainsi, les vingt-huit DAE dans les sept grandes gares parisiennes se répartissent comme suit : quatre à la gare de Paris Lyon, un à la gare de Paris Bercy, cinq à la gare de Paris Montparnasse, quatre à la gare de Paris Saint-Lazare, quatre à la gare de Paris Austerlitz, six à la gare de Paris Nord et quatre à la gare de Paris Est. De plus, l'entreprise a installé quatre-vingt sept DAE sur le réseau transilien et environ cent cinquante dans les gares de province ces dernières années. Le groupe public ferroviaire réfléchit désormais à l'installation de DAE supplémentaires dans des gares qui en sont actuellement dépourvues, tout particulièrement celles qui sont des points d'arrivée et de départ des services Ouigo, qui accroissent significativement le trafic de la gare.
