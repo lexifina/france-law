@@ -1,0 +1,9 @@
+# Réponse à la question n° 97975
+
+- Question : [97975](97975.md) — Question n° 97975 — réforme; droits à paiement de base; mise en oeuvre
+
+## Réponse
+
+*JO du 2016-09-27*
+
+Une des conditions à remplir par un agriculteur pour bénéficier des aides découplées de la PAC à partir de 2015 est de détenir le "ticket d'entrée". Les conditions d'accès au ticket d'entrée sont régies par l'article 24 du règlement (UE) no 1307/2013. Les trois conditions rappelées dans la question, qui relèvent de l'article 24 §1 du règlement européen, sont trois voies permettant d'obtenir un ticket d'entrée. Mais il en existe également une quatrième : le même règlement permet en effet à un exploitant qui ne détient pas le ticket d'entrée de le récupérer d'un agriculteur actif en 2015, effectuant une déclaration politique agricole commune (PAC) 2015 et possédant le ticket d'entrée, à l'occasion d'un transfert de foncier concomitant [article 24 §8 du règlement (UE) no 1307/2013]. Ces quatre voies d'accès au ticket d'entrée sont les seules indiquées dans la réglementation européenne, sans dérogation permise par cette dernière. Il appartient au Gouvernement d'assurer le respect de la réglementation européenne, tant au titre des obligations de la France que parce que c'est le meilleur moyen d'offrir un cadre sécurisé sur la durée pour les bénéficiaires de la PAC. Dans le cas soulevé, l'association a ainsi pu, à l'occasion d'un transfert de foncier avec un agriculteur actif déclarant en 2015, récupérer le ticket d'entrée. Si elle est, par ailleurs, agriculteur actif en 2015 et a déposé un dossier PAC avant le 15 juin 2015, elle peut alors se voir attribuer en 2015 des droits à paiement de base (DPB). Enfin, elle peut, si elle en respecte les conditions et en a fait la demande, se voir attribuer des DPB par la réserve, même si elle ne dispose pas du ticket d'entrée.
