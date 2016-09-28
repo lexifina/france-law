@@ -1,0 +1,5 @@
+# Article 1er
+
+Les partenaires sociaux ont la volonté de contribuer plus efficacement au maintien et au développement de l'emploi, d'accompagner autant que de besoin les reconversions ou le développement d'activités accessoires ou connexes rendues nécessaires par l'évolution du marché, de la concurrence, des technologies et de l'organisation du travail, de sécuriser les parcours professionnels des salariés. Ils considèrent qu'il est primordial pour la profession de promouvoir la formation professionnelle tant au niveau du plan de formation défini par le chef d'entreprise que des périodes de professionnalisation et du compte personnel de formation qui relève de la seule initiative du salarié. Ils préconisent de favoriser les emplois de qualité en priorisant le CDI et les contrats à temps plein.
+
+Afin de répondre à ces enjeux, la CPNEFP de la branche est mandatée par les partenaires sociaux pour définir et actualiser des formations prioritaires en s'appuyant notamment sur les études et travaux d'observation conduits par l'observatoire prospectif des métiers et des qualifications ainsi que par les éléments apportés par le rapport de branche.
