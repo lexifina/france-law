@@ -68,13 +68,13 @@ Les emplois listés dans les niveaux « hors niveau » (HN), I, II, et III A ont
 
 Les emplois sont organisés en filières, qui correspondent à une spécialisation professionnelle.
 
-Les filières sont regroupées en 3 catégories :
+Les filières sont regroupées en trois catégories :
 
-― catégorie A : elle regroupe les filières O (administration) et P (commercial et édition), qui sont liées à la direction et à l'organisation des entreprises ;
+Catégorie A : elle regroupe les filières O (administration) et P (commercial et éditions), qui sont liées à la direction et à l'organisation des entreprises ;
 
-― catégorie B : elle regroupe les filières A à N, liées à la conception, la production et la réalisation des programmes ;
+Catégorie B : elle regroupe les filières A à I, liées à la conception, la production et la réalisation des productions ;
 
-― catégorie C : elle est constituée de la filière Q, qui regroupe les emplois, autres que les artistes-interprètes, visibles (ou audibles) par le public.
+Catégorie C : elle est constituée de la filière Q, qui regroupe les emplois, autres que les artistes interprètes, visibles (ou audibles) par le public.
 
 On trouvera ci-après les tableaux présentant les emplois dans les 3 catégories contractuelles A, B et C.
 
@@ -83,458 +83,6 @@ Les emplois de catégorie A sont pourvus sous forme de contrat à durée indéte
 Pour les emplois de catégorie B et C, il est d'usage constant au sein de la branche de recourir à des contrats à durée déterminée (CDDU). Le titre V ci-après précise les circonstances dans lesquelles, sans remettre en cause cet usage, ces emplois seront pourvus par des contrats de droit commun. Les employeurs s'interdisent, pour ces emplois, de recourir au travail temporaire.
 
 L'emploi de réalisateur (HN), dans la filière M de la catégorie B, fait l'objet d'une annexe particulière à la présente convention collective.
-
-EMPLOIS DE CATÉGORIE B |
-
-|
-
-Hors niveau |
-
-Niveau I |
-
-Niveau II |
-
-Niveau III A |
-
-Niveau III B |
-
-Niveau IV |
-
-Niveau V |
-
-Niveau VI |
-
-A-Conception |
-
-|
-
-|
-
-Coordinateur d'écriture (1)
-
-Responsable d'enquête / de recherches
-
-Documentaliste |
-
-Animatronicien
-
-Illustrateur sonore |
-
-Enquêteur / recherchiste |
-
-Collaborateur artistique |
-
-|
-
-|
-
-B-Costumes |
-
-|
-
-|
-
-Créateur de costumes spécialisé
-
-Créateur de costumes (14) |
-
-|
-
-Chef costumier spécialisé
-
-Chef costumier (14)
-
-Styliste |
-
-Costumier spécialisé
-
-Costumier (14) |
-
-Habilleur spécialisé
-
-Habilleur (14) |
-
-|
-
-C-Décoration |
-
-|
-
-|
-
-Chef décorateur spécialisé
-
-Chef décorateur (14)
-
-Décorateur spécialisé (2)
-
-Décorateur (2) (14) |
-
-Chef constructeur
-
-Ensemblier-décorateurspécialisé
-
-Ensemblier-décorateur (14)
-
-1er assistantdécorateurspécialisé
-
-1er ass. décorateur (14) |
-
-Décorateur peintre spécialisé
-
-Décorateur peintre (14)
-
-Dessinateur en décors spécialisé
-
-Dessinateur en décors (14)
-
-Décorateur tapissier spécialisé
-
-Décorateur tapissier (14)
-
-2e ass. décorateur spécialisé
-
-2e ass. décorateur (14)
-
-Régisseur d'extérieurs spécialisés
-
-Régisseur d'extérieurs (14)
-
-Accessoiriste spécialisé
-
-Accessoiriste (14) |
-
-Chef d'équipe |
-
-Menuisier-traceur, staffeur
-
-Peintre en lettres / en faux bois
-
-Maçon / peintre / métallier / serrurier
-
-Mécanicien
-
-Tapisserie / toupilleur
-
-Electricien / machinistedécorateur
-
-Rippeur |
-
-|
-
-E-Techniques du direct |
-
-|
-
-|
-
-Ing. de la vision |
-
-|
-
-Etalonneurt / Op. de voies
-
-Ing. de la vision adjoint
-
-Monteur (6) |
-
-Technicien vidéo
-
-Technicien truquiste |
-
-Op. régie vidéo (3)
-
-Op. magnéto ralenti / Op. magnétoscope
-
-Op. synthétiseur |
-
-|
-
-F-Image
-
-(OPV = opérateur de prise de vues) |
-
-|
-
-Dir. photo spécialisé
-
-Dir. photo (14) |
-
-Chef OPV (4) |
-
-Superviseur effets spéciaux
-
-Opérateur spécial (steadicamer) spécialisé
-
-Op. spécial (steadicamer) (14)
-
-Cadreur (14) / OPV (5)
-
-Cadreur spécialisé
-
-1er ass. OPV / pointeur spécialisé
-
-1er ass. OPV / pointeur (14) |
-
-Op. effets temps réel
-
-Photographe deplateau spécialisé
-
-Photographe deplateau (14) |
-
-Assistant lumière spécialisé
-
-Ass. lumière (14) |
-
-2e ass. OPV spécialisé
-
-2e ass. OPV (14) |
-
-Ass. OPV adjoint (*) |
-
-H-Machinistes et électriciens |
-
-|
-
-|
-
-|
-
-|
-
-Chef électricien
-
-Chef éclairagiste
-
-Chef machiniste |
-
-Conducteur de groupe |
-
-Electricien / éclairagiste
-
-Machiniste |
-
-|
-
-I-Maquillage et coiffure |
-
-|
-
-|
-
-|
-
-Chef maquilleur spécialisé
-
-Chef maquilleur (14) |
-
-Maquillage et coiffure spéciaux
-
-Prothésiste |
-
-Coiffeur perruquier spécialisé
-
-Coiffeur perruquier (14) |
-
-Coiffeur spécialisé
-
-Coiffeur (14)
-
-Maquilleur spécialisé
-
-Maquilleur (14) |
-
-|
-
-J-Montage |
-
-|
-
-|
-
-|
-
-Chef monteur spécialisé
-
-Chef monteur (14) |
-
-|
-
-Ass. monteur spécialisé
-
-Ass. monteur (14) |
-
-|
-
-Assistant monteur adjoint (*) |
-
-K-Post-production |
-
-|
-
-|
-
-Dir. de post-production
-
-Mixeur |
-
-Chargé de post-production
-
-Superviseur effets spéciaux
-
-Vidéographiste
-
-Truquiste |
-
-Etalonneur
-
-Conformateur
-
-Op. effets temps réel |
-
-Ass. de post-production |
-
-|
-
-|
-
-L-Production et régie |
-
-Producteur exécutif |
-
-Dir. de production spécialisé
-
-Dir. de production (14) |
-
-Dir. artistique
-
-Dresseur
-
-Dir. de collection
-
-Dir. de programmation
-
-Producteur artistique (7)
-
-Chargé deproduction (8) |
-
-Régisseur général spécialisé
-
-Régisseur général (14)
-
-Administrateur de production spécialisé
-
-Administrateur de production (14)
-
-Dir. de la distribution spécialisé
-
-Dir. de la distribution (14) |
-
-Régisseur / resp. repérages spécialisé
-
-Régisseur / resp. repérages (14)
-
-Dir. des dialogues
-
-Programmateur artistique d'émission
-
-Répétiteur
-
-Resp. des enfants |
-
-Comptable de production spécialisé
-
-Comptable de production (14)
-
-Ass. de production spécialisé
-
-Ass. de production (14)
-
-Régisseur adjoint spécialisé
-
-Régisseur adjoint (14)
-
-Régisseur de plateau
-
-Chef de plateau |
-
-Secrétaire de production spécialisé
-
-Secrétaire de production (14) |
-
-Aide de plateau
-
-Chauffeur
-
-Ass. de production adjoint (*)
-
-Ass. régisseur adjoint (*)
-
-Ass. d'émission (12)
-
-Régulateur de stationnement |
-
-M-Réalisation |
-
-Réalisateur |
-
-|
-
-Conseiller technique réalisation
-
-1er ass. réalisateur spécialisé
-
-1er ass. réalisateur (14) |
-
-Scripte spécialisée
-
-Scripte (14) |
-
-Ass. réalisateur (9)
-
-Storyboarder |
-
-2e ass. réalisateur spécialisé
-
-2e ass. réalisateur (14) |
-
-|
-
-Ass. réalisateur adjoint (*)
-
-Ass. scripte adjointe (*) |
-
-N-Son
-
-(OPS = opérateur de prise de son) |
-
-|
-
-|
-
-|
-
-Chef OPS / ing. du son spécialisé
-
-Chef OPS / ing. du son (14)
-
-Mixeur (directs) (10)
-
-Bruiteur
-
-Perchiste / 1er ass. son spécialisé
-
-Perchiste / 1er ass. son (14) |
-
-OPS (11) |
-
-Ass. son
-
-Op. playback |
-
-|
-
-Ass. son adjoint (*) |
 
 FILIÈRE |
 
@@ -698,6 +246,2050 @@ Ass. commercial |
 
 |
 
+EMPLOIS DE CATÉGORIE B
+
+|
+
+Filière
+
+|
+
+Fonctions
+
+|
+
+Niv.
+
+|
+
+Définition
+
+|
+
+A. Contenu du programme et collaboration artistique
+
+|
+
+Directeur de jeux
+
+|
+
+I
+
+|
+
+Supervise la réalisation et la mise en œuvre d'un jeu télévisuel
+
+|
+
+|
+
+Directeur artistique
+
+|
+
+II
+
+|
+
+Assure la cohérence artistique d'un programme ou d'une série, notamment dans les éléments visuels et sonores (décors, costumes, musiques...)
+
+|
+
+|
+
+Directeur de collection/directeur de programmation
+
+|
+
+II
+
+|
+
+Assure la cohérence d'écriture, par les auteurs, d'une série d'épisodes ou d'un programme
+
+|
+
+|
+
+Directeur des dialogues
+
+|
+
+IIIB
+
+|
+
+Assure, auprès du producteur, le développement et le suivi du projet dans sa phase d'écriture
+
+|
+
+|
+
+Producteur artistique (1)
+
+|
+
+II
+
+|
+
+Supervise et garantit la qualité visuelle et artistique d'un programme, dans le respect d'un cahier des charges et d'un budget
+
+|
+
+|
+
+Directeur de sélection
+
+|
+
+I
+
+|
+
+Assure le choix des intervenants à l'image d'un programme
+
+|
+
+|
+
+Chargé de sélection
+
+|
+
+IIIA
+
+|
+
+Assure le choix des figurants ou la sélection de participants à des programmes
+
+|
+
+|
+
+Collaborateur de sélection
+
+|
+
+IV
+
+|
+
+Recherche et propose des candidats d'une émission ou d'un jeu
+
+|
+
+|
+
+Directeur de la distribution
+
+|
+
+IIIA
+
+|
+
+Recherche et propose des artistes correspondant aux rôles
+
+|
+
+|
+
+Programmateur artistique d'émission
+
+|
+
+IIIB
+
+|
+
+Assure le choix et la programmation des invités d'une émission
+
+|
+
+|
+
+Coordinateur d'écriture (ex-script éditeur)
+
+|
+
+II
+
+|
+
+Assure, pour le compte du producteur, la coordination du travail des différents auteurs collaborant à un programme, le plus souvent une série
+
+|
+
+|
+
+Responsable d'enquête/de recherche
+
+|
+
+II
+
+|
+
+Supervise et assure des travaux d'enquête, d'illustration et de recherche en vue de la réalisation d'un programme audiovisuel
+
+|
+
+|
+
+Documentaliste
+
+|
+
+II
+
+|
+
+Assure la documentation nécessaire à un programme
+
+|
+
+|
+
+Conseiller artistique d'émission (2)
+
+|
+
+IIIA
+
+|
+
+Participe à la définition et suit les particularités artistiques d'un programme soutenant le propos éditorial
+
+|
+
+|
+
+Chargé d'enquête/de recherche
+
+|
+
+IIIA
+
+|
+
+Assure des travaux d'enquête, d'illustration et de recherche en vue de la réalisation d'un programme audiovisuel
+
+|
+
+|
+
+Animatronicien
+
+|
+
+IIIA
+
+|
+
+Est chargé de réaliser et d'animer des automates électromécaniques
+
+|
+
+|
+
+Illustrateur sonore
+
+|
+
+IIIA
+
+|
+
+Propose l'identité sonore d'un programme (musique et son)
+
+|
+
+|
+
+Responsable de questions
+
+|
+
+IIIA
+
+|
+
+Supervise et assure la préparation des questions d'un jeu audiovisuel
+
+|
+
+|
+
+Enquêteur/recherchiste
+
+|
+
+IIIB
+
+|
+
+Assure des missions d'enquête, d'illustration et de recherche en vue de la réalisation d'un programme audiovisuel
+
+|
+
+|
+
+Préparateur de questions
+
+|
+
+IV
+
+|
+
+Définit et élabore les questions d'un jeu audiovisuel
+
+|
+
+|
+
+Collaborateur artistique
+
+|
+
+IV
+
+|
+
+Contribue à l'élaboration du contenu du programme
+
+|
+
+B. Costumes-décor
+
+|
+
+Créateur de costumes
+
+|
+
+II
+
+|
+
+Assure, en ayant la responsabilité artistique de l'identité visuelle des personnages, la coordination et le suivi de la conception et de la réalisation des costumes et des accessoires. Le cas échéant, il coordonne le travail artistique des coiffures, perruques et maquillage
+
+|
+
+|
+
+Chef costumier
+
+|
+
+IIIB
+
+|
+
+A pour charge de rechercher, en référence au scénario, les costumes et accessoires vestimentaires nécessaires à l'identité visuelle des personnages
+
+|
+
+|
+
+Styliste
+
+|
+
+IIIB
+
+|
+
+Propose les vêtements d'un programme audiovisuel. Il assure la logistique, la gestion des stocks, et/ou le prêt et/ou l'achat des vêtements
+
+|
+
+|
+
+Costumier
+
+|
+
+IV
+
+|
+
+Met en service les costumes d'un programme audiovisuel. Il assure la logistique, la gestion des stocks, et/ou le prêt et/ou l'achat de costumes
+
+|
+
+|
+
+Habilleur
+
+|
+
+V
+
+|
+
+Assure l'entretien, la distribution et la répartition des costumes ou tenues. Il aide à l'habillage complet des artistes ou des intervenants à un programme
+
+|
+
+|
+
+Chef décorateur
+
+|
+
+II
+
+|
+
+Conçoit et réalise le décor d'un programme audiovisuel. Il peut participer au choix des lieux de tournage
+
+|
+
+|
+
+Décorateur (3)
+
+|
+
+II
+
+|
+
+Participe à la réalisation et à la conception du décor d'un programme audiovisuel. Il peut être spécialisé en peinture ou tapisserie
+
+|
+
+|
+
+Chef constructeur
+
+|
+
+IIIA
+
+|
+
+Assure la mise en œuvre de la construction et de l'exécution technique de décors en encadrant une équipe de construction d'un décor
+
+|
+
+|
+
+Ensemblier décorateur
+
+|
+
+IIIA
+
+|
+
+Réalise la sélection et l'agencement des meubles, objets et éléments constituant un décor
+
+|
+
+|
+
+1er assistant décorateur
+
+|
+
+IIIA
+
+|
+
+Assure la supervision de la réalisation technique du décor (plan et exécution des travaux) et le suivi des devis
+
+|
+
+|
+
+Dessinateur en décor
+
+|
+
+IIIB
+
+|
+
+Réalise les plans du décor et participe à sa conception
+
+|
+
+|
+
+2e assistant décorateur
+
+|
+
+IIIB
+
+|
+
+Réalise une ou des missions de décoration (exécution des plans ou de maquettes, gestion d'une partie des opérations de décors)
+
+|
+
+|
+
+Régisseur d'extérieurs
+
+|
+
+IIIB
+
+|
+
+Est en charge de la gestion des différents aspects d'un tournage en extérieur (repérage, mise à disposition des lieux, gestion des éléments et accessoires non décoratifs) et de la logistique liée aux décors
+
+|
+
+|
+
+Accessoiriste
+
+|
+
+IIIB
+
+|
+
+Prépare, assure l'entretien et met en place l'ensemble des accessoires et mobiliers nécessaires au tournage
+
+|
+
+|
+
+Chef d'équipe de décor
+
+|
+
+IV
+
+|
+
+Assure la coordination et l'encadrement d'une équipe de décoration
+
+|
+
+|
+
+Constructeur de décor
+
+|
+
+IV
+
+|
+
+Assure l'exécution technique et la construction d'un décor
+
+|
+
+|
+
+Menuisier-traceur-toupilleur de décor
+
+|
+
+V
+
+|
+
+Exécute la menuiserie d'éléments du décor
+
+|
+
+|
+
+Staffeur de décor
+
+|
+
+V
+
+|
+
+Exécute les travaux de moulage et de staff sur un décor
+
+|
+
+|
+
+Peintre en lettres/en faux bois de décor
+
+|
+
+V
+
+|
+
+Exécute des travaux de peinture spécialisé en graphisme et en imitation de matière
+
+|
+
+|
+
+Maçon de décor
+
+|
+
+V
+
+|
+
+Exécute des travaux simples de maçonnerie sur un décor
+
+|
+
+|
+
+Peintre de décor
+
+|
+
+V
+
+|
+
+Exécute des travaux de peinture sur un décor
+
+|
+
+|
+
+Métallier/serrurier/mécanicien de décor
+
+|
+
+V
+
+|
+
+Exécute les travaux sur les ouvrages métalliques du décor
+
+|
+
+|
+
+Tapissier de décor
+
+|
+
+V
+
+|
+
+Exécute les travaux de tapisserie et de décoration textile
+
+|
+
+|
+
+Electricien déco/machiniste déco
+
+|
+
+V
+
+|
+
+Exécute le montage et le démontage des installations électrique et de machinerie d'un décor
+
+|
+
+|
+
+Rippeur
+
+|
+
+V
+
+|
+
+Exécute la manutention et le déplacement du matériel nécessaire au tournage du programme
+
+|
+
+|
+
+Assistant décorateur adjoint (4)
+
+|
+
+VI
+
+|
+
+Exécute des tâches simples d'assistanat de décoration, en relais des assistants décorateurs
+
+|
+
+C. Image
+
+|
+
+Ingénieur de la vision
+
+|
+
+II
+
+|
+
+Assure la mise en place, le réglage et l'exploitation des caméras et des équipements associés
+
+|
+
+|
+
+Ingénieur de la vision adjoint
+
+|
+
+IIIB
+
+|
+
+Assiste l'ingénieur de la vision dans ses travaux
+
+|
+
+|
+
+Monteur (5)
+
+|
+
+IIIB
+
+|
+
+Assure le montage des images et/ou des sons
+
+|
+
+|
+
+Pupitreur lumière
+
+|
+
+IIIB
+
+|
+
+Met en œuvre et assure le fonctionnement du pupitre lumière
+
+|
+
+|
+
+Technicien vidéo
+
+|
+
+IV
+
+|
+
+Assure la mise en œuvre et le fonctionnement de tout matériel servant à l'exploitation et à la postproduction audiovisuelle
+
+|
+
+|
+
+Technicien truquiste
+
+|
+
+IV
+
+|
+
+Assure les effets d'habillage, de mélange et de trucage, au cours d'un programme
+
+|
+
+|
+
+Opérateur régie-vidéo (6)
+
+|
+
+V
+
+|
+
+Assure l'exploitation d'une régie vidéo
+
+|
+
+|
+
+Opérateur magnéto ralenti/opérateur magnéto (7)
+
+|
+
+V
+
+|
+
+Assure l'exploitation et la fonction ralentie des matériels d'enregistrement et de lecture d'image et de son
+
+|
+
+|
+
+Opérateur synthétiseur (8)
+
+|
+
+V
+
+|
+
+Prépare, compose et incruste dans une image des textes et/ou des signes
+
+|
+
+|
+
+Directeur photo
+
+|
+
+I
+
+|
+
+Assure la qualité technique et artistique de la photographie et des prises de vues du programme. Il définit les ambiances lumineuses du programme et conseille dans les phases de postproduction sur la qualité de l'image
+
+|
+
+|
+
+Chef OPV (9)
+
+|
+
+II
+
+|
+
+Assure l'ensemble des opérations de prise de vue. Il participe à la gestion de la lumière et supervise la qualité de l'image et des enregistrements
+
+|
+
+|
+
+Superviseur d'effets spéciaux
+
+|
+
+IIIA
+
+|
+
+Est en charge de la gestion des effets spéciaux en tournage et en postproduction
+
+|
+
+|
+
+Opérateur spécial (Steadicamer)
+
+|
+
+IIIA
+
+|
+
+Assure le mouvement et le cadrage de l'appareil de prise de vues fixé à un bras mécanique
+
+|
+
+|
+
+Cadreur/OPV (10)
+
+|
+
+IIIA
+
+|
+
+Assure le cadrage de l'image et le mouvement de la camera prédéfinis par le réalisateur, seul ou en équipe
+
+|
+
+|
+
+1er assistant OPV/pointeur
+
+|
+
+IIIA
+
+|
+
+Effectue la mise au point de l'objectif de la camera et supervise l'installation et la mise en service de l'équipement de prise de vues
+
+|
+
+|
+
+Photographe de plateau
+
+|
+
+IIIB
+
+|
+
+Réalise les photos du tournage en vue de la promotion ou de l'exploitation du programme
+
+|
+
+|
+
+Assistant lumière
+
+|
+
+IV
+
+|
+
+Collabore à la mise en place des lumières sur un plateau
+
+|
+
+|
+
+Opérateur de transfert et de traitement numérique
+
+|
+
+V
+
+|
+
+Sécurise les données numériques issues de la caméra (ou de tout système utilisé par le tournage qui génère des images) et de l'enregistreur son sur au moins deux supports numériques. Prépare les disques navettes pour le laboratoire et gérer les envois de rushes au laboratoire avec la régie
+
+|
+
+|
+
+2e assistant OPV
+
+|
+
+V
+
+|
+
+Assiste le premier assistant et gère les supports d'enregistrement de la caméra
+
+|
+
+|
+
+Assistant OPV adjoint (11)
+
+|
+
+VI
+
+|
+
+Assiste le premier et/ou le second assistant dans l'exécution de taches périphériques à l'exploitation de la caméra (raccordement, câblage, gestion des combos)
+
+|
+
+D. Plateaux et tournage
+
+|
+
+Chef électricien
+
+|
+
+IIIB
+
+|
+
+Coordonne et encadre l'équipe électrique et supervise les travaux d'installation et de mise en service des équipements lumières
+
+|
+
+|
+
+Chef machiniste
+
+|
+
+IIIB
+
+|
+
+Coordonne et encadre l'équipe machinerie dans l'installation et la mise en service des équipements techniques et de prises de vues
+
+|
+
+|
+
+Conducteur de groupe
+
+|
+
+IV
+
+|
+
+Assure le fonctionnement du groupe électrogène et gère les sources d'énergie nécessaires au tournage
+
+|
+
+|
+
+Blocker/rigger (12)
+
+|
+
+IV
+
+|
+
+Assure l'installation et l'accroche en hauteur des équipements
+
+|
+
+|
+
+Electricien/éclairagiste
+
+|
+
+V
+
+|
+
+Assure le branchement et les réglages des éclairages et de leurs accessoires
+
+|
+
+|
+
+Machiniste
+
+|
+
+V
+
+|
+
+Assure le montage et le démontage des équipements techniques du tournage
+
+|
+
+|
+
+Chef maquilleur
+
+|
+
+IIIA
+
+|
+
+Assure la création du maquillage des artistes et supervise l'équipe maquillage
+
+|
+
+|
+
+Maquilleur et coiffeur effets spéciaux
+
+|
+
+IIIB
+
+|
+
+Assure la création d'effets spéciaux sur la chevelure et la peau
+
+|
+
+|
+
+Prothésiste
+
+|
+
+IIIB
+
+|
+
+Conçoit et réalise des prothèses destinées aux visages ou à une partie du corps des artistes, effectue la pose des prothèses
+
+|
+
+|
+
+Coiffeur perruquier
+
+|
+
+IV
+
+|
+
+Assure la coiffure des artistes ou intervenants à des programmes et le cas échéant installe des postiches
+
+|
+
+|
+
+Coiffeur
+
+|
+
+V
+
+|
+
+Assure la coiffure des artistes ou intervenants à des programmes, peut assister le coiffeur perruquier lors de la pose des postiches
+
+|
+
+|
+
+Maquilleur
+
+|
+
+V
+
+|
+
+Assure le maquillage des artistes ou intervenants à des programmes
+
+|
+
+E. Postproduction
+
+|
+
+Chef monteur
+
+|
+
+IIIA
+
+|
+
+Donne au programme sa construction et son rythme par l'assemblage de la totalité des éléments artistiques, notamment des images et du son, en respectant le scénario ou la ligne éditoriale
+
+|
+
+|
+
+Assistant monteur
+
+|
+
+IV
+
+|
+
+Assure des travaux d'assistance et de suivi de différentes étapes de montage (préparation du travail, gestion des images et du son, relation avec le laboratoire)
+
+|
+
+|
+
+Assistant monteur adjoint (13)
+
+|
+
+VI
+
+|
+
+Est chargé de tâches simples liées au montage en collaboration avec l'assistant monteur
+
+|
+
+|
+
+Directeur de postproduction
+
+|
+
+II
+
+|
+
+Assure la coordination, le suivi et la mise en œuvre de moyens de postproduction
+
+|
+
+|
+
+Mixeur
+
+|
+
+II
+
+|
+
+Est chargé de l'enregistrement des postsynchronisations et/ou des effets sonores, réalise le mélange et la spatialisation des éléments sonores
+
+|
+
+|
+
+Chargé de postproduction
+
+|
+
+IIIA
+
+|
+
+Est chargé de superviser des tâches de postproduction, en conformité avec les budgets et les calendriers définis
+
+|
+
+|
+
+Superviseur d'effets spéciaux
+
+|
+
+IIIA
+
+|
+
+Est chargé de la gestion des différents aspects des effets spéciaux sur le tournage et/ou en postproduction
+
+|
+
+|
+
+Infographiste
+
+|
+
+IIIA
+
+|
+
+Assure la création d'effets visuels et d'images numériques fixes ou animées en vue de leur intégration dans un programme audiovisuel
+
+|
+
+|
+
+Truquiste
+
+|
+
+IIIA
+
+|
+
+Assure des trucages sonores et/ou visuels
+
+|
+
+|
+
+Etalonneur
+
+|
+
+IIIB
+
+|
+
+Assure le contrôle et la qualité de l'image sur tout support, selon des spécificités techniques et artistiques
+
+|
+
+|
+
+Conformateur
+
+|
+
+IIIB
+
+|
+
+Assure la finition du montage avec les images sources et monte les sons directs avant la mise en place des dialogues
+
+|
+
+|
+
+Assistant de postproduction
+
+|
+
+IV
+
+|
+
+Réalise le suivi des tâches de postproduction
+
+|
+
+F. Production
+
+|
+
+Producteur exécutif
+
+|
+
+HN
+
+|
+
+Est responsable du bon déroulement des étapes d'une production, pour le compte d'un producteur délégué
+
+|
+
+|
+
+Directeur de production
+
+|
+
+I
+
+|
+
+Est responsable de l'organisation générale, du plan de travail de production et du suivi des étapes de production, dans le respect du calendrier et du budget défini
+
+|
+
+|
+
+Dresseur
+
+|
+
+II
+
+|
+
+Gère les animaux sur une production
+
+|
+
+|
+
+Chargé de production (14)
+
+|
+
+II
+
+|
+
+Assure le suivi des phases de la production, dans le respect du budget et du calendrier défini
+
+|
+
+|
+
+Régisseur général
+
+|
+
+IIIA
+
+|
+
+Est responsable de la bonne marche de la régie et supervise la logistique du tournage. En préparation, il peut assurer des repérages et participer à la définition du plan de travail
+
+|
+
+|
+
+Administrateur de production
+
+|
+
+IIIA
+
+|
+
+Assure la gestion administrative, comptable et sociale de la production
+
+|
+
+|
+
+Chauffeur de salle
+
+|
+
+IIIB
+
+|
+
+Assure l'ambiance et l'interaction avec le public sur un programme
+
+|
+
+|
+
+Régisseur/responsable des repérages
+
+|
+
+IIIB
+
+|
+
+Assure des tâches de régie. En préparation, il participe aux repérages
+
+|
+
+|
+
+Coordinateur d'émission
+
+|
+
+IIIB
+
+|
+
+Crée le lien entre les différents corps de métiers d'un programme (artistique, éditorial et production)
+
+|
+
+|
+
+Responsable des enfants
+
+|
+
+IIIB
+
+|
+
+Surveille, prépare à leur rôle et encadre les enfants. Il peut assurer leur suivi scolaire
+
+|
+
+|
+
+Comptable de production
+
+|
+
+IV
+
+|
+
+Exécute des travaux d'administration et de comptabilité de production
+
+|
+
+|
+
+Assistant de production
+
+|
+
+IV
+
+|
+
+Assure des tâches de production et/ou d'administration d'un programme
+
+|
+
+|
+
+Régisseur adjoint
+
+|
+
+IV
+
+|
+
+Participe à l'organisation et à l'exécution des tâches de régie
+
+|
+
+|
+
+Régisseur de plateau/chef de plateau
+
+|
+
+IV
+
+|
+
+Coordonne pour la production toutes les interventions et les prestataires nécessaires à l'installation et au fonctionnement du plateau
+
+|
+
+|
+
+Secrétaire de production
+
+|
+
+V
+
+|
+
+Gère des tâches administratives pour la production
+
+|
+
+|
+
+Aide de plateau
+
+|
+
+VI
+
+|
+
+Exécute des tâches sur un plateau (par exemple : mise en place des micros, déplacement d'éléments)
+
+|
+
+|
+
+Chauffeur
+
+|
+
+VI
+
+|
+
+Assure la conduite et le convoyage de véhicule
+
+|
+
+|
+
+Assistant de production adjoint (15)
+
+|
+
+VI
+
+|
+
+Est chargé des tâches simples liées aux activités de production
+
+|
+
+|
+
+Assistant régisseur adjoint (16)
+
+|
+
+VI
+
+|
+
+Est chargé des tâches simples liées aux activités de régie
+
+|
+
+|
+
+Assistant d'émission (17)
+
+|
+
+VI
+
+|
+
+Assiste et participe aux activités courantes de production
+
+|
+
+|
+
+Régulateur de stationnement
+
+|
+
+VI
+
+|
+
+Assure la disponibilité des emplacements de stationnement nécessaires à la production
+
+|
+
+G. Réalisation
+
+|
+
+Réalisateur
+
+|
+
+HN
+
+|
+
+|
+
+|
+
+Conseiller technique à la réalisation
+
+|
+
+II
+
+|
+
+Conseille le réalisateur sur les aspects techniques de la réalisation et de la mise en scène
+
+|
+
+|
+
+1er assistant réalisateur
+
+|
+
+II
+
+|
+
+Etablit et met en œuvre le plan de travail, pour le bon déroulement du tournage des séquences du programme
+
+|
+
+|
+
+Scripte
+
+|
+
+IIIA
+
+|
+
+Assure la continuité des séquences du programme, en relation avec le réalisateur
+
+|
+
+|
+
+Assistant réalisateur (18)
+
+|
+
+IIIB
+
+|
+
+Assiste le réalisateur dans des missions techniques
+
+|
+
+|
+
+Répétiteur
+
+|
+
+IIIB
+
+|
+
+Assiste les artistes dans la répétition et l'appropriation des textes
+
+|
+
+|
+
+Storyboarder
+
+|
+
+IIIB
+
+|
+
+Réalise un storyboard, tiré du scénario, notamment dans les projets les plus complexes
+
+|
+
+|
+
+2e assistant réalisateur
+
+|
+
+IV
+
+|
+
+Assiste le 1er assistant réalisateur dans le bon déroulement du tournage des séquences
+
+|
+
+|
+
+Assistant(e) réalisateur adjoint (19)
+
+|
+
+VI
+
+|
+
+Exécute des tâches simples d'assistanat de réalisation
+
+|
+
+|
+
+Assistant(e) scripte adjoint (20)
+
+|
+
+VI
+
+|
+
+Assiste le scripte dans ses tâches
+
+|
+
+H. Son
+
+|
+
+Chef OPS/ingénieur du son
+
+|
+
+IIIA
+
+|
+
+Est responsable des enregistrements sonores et de la réalisation sonore du programme, dans le cadre d'une équipe lourde
+
+|
+
+|
+
+Mixeur (pour les directs ou les conditions du direct) (21)
+
+|
+
+IIIA
+
+|
+
+Assure le mixage et l'exploitation des moyens techniques d'enregistrement audio
+
+|
+
+|
+
+Bruiteur
+
+|
+
+IIIA
+
+|
+
+Assure l'habillage sonore du programme
+
+|
+
+|
+
+Perchiste/1er assistant son
+
+|
+
+IIIA
+
+|
+
+Installe les micros et assure la captation du son
+
+|
+
+|
+
+Technicien instruments (backliner)
+
+|
+
+IIIB
+
+|
+
+Met en service les instruments et assure leur positionnement pour un bon rendu sonore
+
+|
+
+|
+
+OPS (22)
+
+|
+
+IIIB
+
+|
+
+Réalise seul ou en équipe des opérations de prise de son dans le cadre d'une équipe légère
+
+|
+
+|
+
+Assistant son
+
+|
+
+IV
+
+|
+
+Exécute des taches d'enregistrement sonore ou de mixage. Assure le montage des dialogues
+
+|
+
+|
+
+Assistant son adjoint (23)
+
+|
+
+VI
+
+|
+
+Prépare et aide à la mise en œuvre et à l'exploitation des moyens techniques du son. Peut également effectuer divers travaux de transfert sur tout support
+
+|
+
+I. Web
+
+|
+
+Concepteur de programme web
+
+|
+
+I
+
+|
+
+Définit la conception et l'élaboration du programme web. Est chargé de la mise en forme du contenus pour les adapter à une plateforme en ligne et de la recherche d'éléments complémentaires (illustrations, documents sonores ou vidéo)
+
+|
+
+|
+
+Coordinateur de production web
+
+|
+
+II
+
+|
+
+Gère et coordonne l'ensemble des métiers concourant à la réalisation d'une production à destination du web
+
+|
+
+|
+
+Designer web
+
+|
+
+IIIA
+
+|
+
+Est chargé de concevoir et d'exécuter le design d'une interface web
+
+|
+
+|
+
+Opérateur web/opérateur multicam web
+
+|
+
+IIIA
+
+|
+
+Assure la captation et l'assemblage avec un ou plusieurs moyens techniques du programme à destination du web
+
+|
+
+|
+
+Technicien vidéo web
+
+|
+
+V
+
+|
+
+Participe à la production du programme sur le web en apportant sa compétence technique notamment sur les nouveaux types de supports et les nouvelles technologies
+
+|
+
+|
+
+Coordinateur de diffusion web
+
+|
+
+IIIB
+
+|
+
+Définit et assure la diffusion de programme web
+
+|
+
+|
+
+Editeur artistique web
+
+|
+
+IV
+
+|
+
+Participe à la production artistique de contenus pour une plateforme de diffusion ou d'animation
+
+|
+
+|
+
+Gestionnaire de diffusion internet (traffic manager)
+
+|
+
+V
+
+|
+
+Est chargé de la programmation, de la publication et de la diffusion des programmes web
+
+|
+
+|
+
+Assistant technique web
+
+|
+
+VI
+
+|
+
+Réalise des tâches permettant l'assemblage de différents éléments nécessaires à la fabrication du programme destiné au web
+
+|
+
+|
+
+Technicien de développement web
+
+|
+
+IIIB
+
+|
+
+Est chargé de rendre opérationnelles des fonctionnalités (plug in) qui permettent la production et l'acquisition d'images grâce à un langage informatique
+
+|
+
+(1) Emissions musicales.
+
+(2) Le conseiller artistique d'émission contribue à faire évoluer le contenant de l'émission. Le salaire ci-dessus est un minimum. Le salaire doit tenir compte de la contribution du salarié.
+
+(3) Ne s'applique pas à la création complète de décor.
+
+(4) Suppose que l'emploi de titulaire soit occupé.
+
+(5) Hors œuvres audiovisuelles.
+
+(6) Le producteur ne peut recourir au CDDU pour cet emploi que s'il n'est pas propriétaire du matériel.
+
+(7) Le producteur ne peut recourir au CDDU pour cet emploi que s'il n'est pas propriétaire du matériel.
+
+(8) Le producteur ne peut recourir au CDDU pour cet emploi que s'il n'est pas propriétaire du matériel.
+
+(9) Il n'y a pas de chef OPV en fiction.
+
+(10) Le terme OPV est exclu pour les œuvres audiovisuelles.
+
+(11) Suppose que l'emploi de titulaire soit occupé.
+
+(12) Il s'agit de fonctions exercées par des électriciens ou machinistes spécialistes.
+
+(13) Suppose que l'emploi de titulaire soit occupé.
+
+(14) Exclut la responsabilité globale de la production.
+
+(15) Suppose que l'emploi de titulaire soit occupé.
+
+(16) Suppose que l'emploi de titulaire soit occupé.
+
+(17) Chargé sous l'autorité, d'un responsable, de la préparation artistique ou éditoriale.
+
+(18) Exclu pour la fiction.
+
+(19) Suppose que l'emploi de titulaire soit occupé.
+
+(20) Suppose que l'emploi de titulaire soit occupé.
+
+(21) Exclut la responsabilité globale du son.
+
+(22) Equipe restreinte seulement, hors fiction.
+
+(23) Suppose que l'emploi de titulaire soit occupé.
+
+|
+
 FILIÈRE |
 
 EMPLOIS DE CATÉGORIE C |
@@ -777,5 +2369,3 @@ Dir. = directeur, resp. = responsable, ass. = assistant, ing. = ingénieur, op. 
 (14) Recours interdit pour la fiction lourde, caractérisée par un niveau de dépenses éligibles supérieur à un seuil fixé annuellement.
 
 (*) Suppose que les emplois de titulaires sont occupés. |
-
-(1) L'arrêté du 21 mai 2008 (JORF du 28 mai 2008) portant extension de l'accord du 15 novembre 2007 a été annulé par décision du Conseil d'Etat en tant qu'il étend les stipulations relatives à la grille des salaires minimaux des emplois de catégorie B des techniciens de la production audiovisuelle (n°316588).
