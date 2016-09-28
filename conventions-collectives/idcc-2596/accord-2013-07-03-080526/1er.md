@@ -1,5 +1,0 @@
-# Article 1er
-
-Afin de contribuer plus efficacement au maintien et au développement de l'emploi, d'accompagner en tant que de besoin les conversions ou le développement d'activités accessoires ou connexes rendues nécessaires par l'évolution du marché, de la concurrence, des technologies et de l'organisation du travail, de favoriser l'employabilité et la mobilité des salariés, les partenaires sociaux considèrent qu'il est primordial pour la profession de promouvoir la formation tant au niveau du plan de formation défini par le chef d'entreprise que des périodes de professionnalisation et du droit individuel à la formation qui relève de l'initiative du salarié.
-
-La définition de ces formations prioritaires fait l'objet d'un examen régulier par la CPNEFP de la branche, qui peut formuler à cette occasion toute proposition susceptible de la compléter ou de l'actualiser, notamment en fonction des études et travaux d'observation conduits par l'observatoire prospectif des métiers et des qualifications ainsi que par les éléments apportés par le rapport de branche.
