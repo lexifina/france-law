@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Présentation du rapport annuel d’activité du Syndicat Intercommunal pour le Gaz et l’Electricité en Ile-de-France. Exercice 2015
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2016-09-29
+- Matière : ESPACES PUBLICS
+- Objet : Présentation du rapport annuel d’activité du Syndicat Intercommunal pour le Gaz et l’Electricité en Ile-de-France. Exercice 2015
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQ1NzMsInB1ciI6ImJsb2JfaWQifX0=--10ddc5fd8e0527c3149c054f5a68d409b4e0ad4c/290916_18.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
