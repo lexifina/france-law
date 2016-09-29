@@ -1,0 +1,9 @@
+# Réponse à la question SEQ141013323
+
+- Question : [SEQ141013323](seq141013323.md) — Accueil des délégations lors de la conférence Paris climat 2015
+
+## Réponse
+
+*Affaires étrangères, JO du 2016-09-29, page 4162*
+
+La prise en compte des exigences de développement durable dans l'organisation de la conférence a été pleinement intégrée par les autorités françaises, qui entendaient que la forme reflète le fond. C'est dans cet esprit d'exemplarité qu'a été conçu le dispositif retenu en matière de transport des délégations. Afin de réduire l'empreinte carbone, le schéma mis en œuvre s'appuyait sur les réseaux de transports en commun existants (ligne 7 du métro et ligne B du RER) qui ont été renforcés (cadence des trains) et aménagés : - deux services de navettes de bus à haute fréquence ont été mis en place pour desservir le centre de conférence du Bourget à partir des stations Fort d'Aubervilliers (métro ligne 7) et Le Bourget (RER B), avec une large amplitude horaire ; - près de 200 lycéens en bac professionnel de Seine-Saint-Denis ont été formés et mobilisés afin d'accueillir, orienter et informer les voyageurs et les participants à la conférence dans les gares, les aéroports et le métro ; - comme il est de tradition dans les conférences des parties, les délégués accrédités se sont vus remettre un pass Navigo, financé sur le programme dédié 341, leur permettant de voyager gratuitement pendant la durée de l'évènement ; - ce dispositif a été complété par une offre de transport par autocars, réservée aux accrédités, reliant jour et nuit le bassin hôtelier de Roissy et le site de la conférence ; - enfin, dans le cadre d'un mécénat d'entreprise avec le groupe Renault-Nissan, une flotte de véhicules électriques avec chauffeurs permettait d'assurer les liaisons entre les hôtels et le centre de conférence, tandis que la mobilité sur le site lui-même, très vaste, était facilité par un service de minibus électriques mis en place par le groupe Bolloré.
