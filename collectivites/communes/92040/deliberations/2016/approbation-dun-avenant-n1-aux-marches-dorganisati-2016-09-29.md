@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Approbation d’un avenant n°1 aux marchés d’organisation d’activités périscolaires. Lots n°7 - Danse Relaxation et n°8 - Autres activités innovantes
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2016-09-29
+- Matière : EDUCATION
+- Objet : Approbation d’un avenant n°1 aux marchés d’organisation d’activités périscolaires. Lots n°7 - Danse Relaxation et n°8 - Autres activités innovantes
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTU0ODksInB1ciI6ImJsb2JfaWQifX0=--63bbd560f1256411e7511f9673feb89bfc8b58fa/290916_7.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
