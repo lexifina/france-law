@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Renouvellement de l’adhésion au service ergonomie et ingénierie de la prévention des risques professionnels du CIG pour l'inspection et le conseil en prévention des risques professionnels
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2016-09-29
+- Matière : HYGIENE ET SECURITE
+- Objet : Renouvellement de l’adhésion au service ergonomie et ingénierie de la prévention des risques professionnels du CIG pour l'inspection et le conseil en prévention des risques professionnels
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQ1NzIsInB1ciI6ImJsb2JfaWQifX0=--82eb8d0e3b4dfcbcb43fdc05d0be108051927514/290916_17.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
