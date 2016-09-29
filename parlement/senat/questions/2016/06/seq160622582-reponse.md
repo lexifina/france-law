@@ -1,0 +1,9 @@
+# Réponse à la question SEQ160622582
+
+- Question : [SEQ160622582](seq160622582.md) — Ouverture à la circulation des routes dites forestières
+
+## Réponse
+
+*Agriculture, agroalimentaire et forêt, JO du 2016-09-29, page 4176*
+
+En forêt domaniale, les routes forestières sont généralement des voies privées du domaine privé de l'État, gérées par l'office national des forêts (ONF) pour le compte de l'État. Certaines voies sont fermées de plein droit, c'est le cas des voies non carrossables et des pistes de défense de la forêt contre les incendies. D'autres peuvent être fermées ou ouvertes à la circulation du public en fonction de la décision de l'ONF ou d'une décision de l'autorité de police. La fermeture d'une voie appartenant au domaine public routier ou d'un chemin rural n'est possible que de manière limitée et pour des motifs de sécurité ou environnementaux, même si elle se situe exclusivement dans un massif forestier sans desservir d'autres points et qu'elle n'est utilisée que par les forestiers. La fermeture ou l'ouverture d'une voie privée forestière appartenant au domaine privé de l'État, généralement en forêt domaniale, est laissée à la seule liberté de décision de l'ONF, dans le respect des droits éventuels des tiers (autres fonds éventuellement desservis par ces voies et n'ayant pas d'autres accès par exemple), sans qu'il ne soit besoin de faire prendre au maire ou au préfet un arrêté. La décision de fermer une voie privée forestière est une décision de droit privé prise par l'ONF dans le cadre du droit de propriété (article 544 du code civil) qu'il exerce, par la loi, pour le compte de l'État (article L. 221-2 et R. 221-2 du code forestier). L'ONF n'a aucune obligation de motiver sa décision. L'ONF doit toutefois informer le plus en amont possible le public et les collectivités territoriales intéressées de sa décision de fermeture de voie forestière.
