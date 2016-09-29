@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Budget communal. Admission en non-valeur de créances irrécouvrables. Années 2008 à 2016
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2016-09-29
+- Matière : FINANCES
+- Objet : Budget communal. Admission en non-valeur de créances irrécouvrables. Années 2008 à 2016
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTU3NzcsInB1ciI6ImJsb2JfaWQifX0=--623bcb3d40967d63d7121b740ba8e4911050dc9d/290916_9.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
