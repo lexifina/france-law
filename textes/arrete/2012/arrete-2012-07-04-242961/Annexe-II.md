@@ -2,7 +2,7 @@
 
 APPAREILS ET DISPOSITIFS TECHNIQUES SOUMIS À AUTORISATION EN APPLICATION DE L'ARTICLE R. 226-7 DU CODE PÉNAL
 
-1. Appareils, à savoir tous dispositifs matériels et logiciels, conçus pour réaliser l'interception, l'écoute, l'analyse, la retransmission, l'enregistrement ou le traitement de correspondances émises, transmises ou reçues sur des réseaux de communications électroniques, opérations pouvant constituer l'infraction prévue par le deuxième alinéa de l'article 226-15 du code pénal.
+1. Appareils, à savoir tous dispositifs matériels et logiciels, de nature à permettre l'interception, l'écoute, l'analyse, la retransmission, l'enregistrement ou le traitement de correspondances émises, transmises ou reçues sur des réseaux de communications électroniques, opérations pouvant constituer l'infraction prévue par le deuxième alinéa de l'article 226-15 du code pénal.
 
 Entrent notamment dans cette catégorie :
 
