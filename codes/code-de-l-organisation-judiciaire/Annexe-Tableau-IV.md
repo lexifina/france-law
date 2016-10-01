@@ -662,7 +662,7 @@ Angers
 
 |
 
-Cantons d'Angers-Centre, Angers-Est, Angers-Nord, Angers-Nord Est, Angers-Nord-Ouest, Angers-Ouest, Angers-Sud, Angers-Trélazé, Candé, Chalonnes-sur-Loire, Châteauneuf-sur-Sarthe, Durtal, Le Lion-d'Angers, Le Louroux-Béconnais, Les Ponts-de-Cé, Pouancé, Saint-Georges-sur-Loire, Segré, Seiches-sur-le-Loir, Thouarcé et Tiercé.
+Cantons d'Angers-Centre, Angers-Est, Angers-Nord, Angers-Nord-Est, Angers-Nord-Ouest, Angers-Ouest, Angers-Sud, Angers-Trélazé, Candé, Chalonnes-sur-Loire, Châteauneuf-sur-Sarthe, Durtal, Le Lion-d'Angers, Le Louroux-Béconnais, Les Ponts-de-Cé, Pouancé, Saint-Georges-sur-Loire, Segré, Seiches-sur-le-Loir (à l'exception de la fraction de commune de Mazé-Milon), Thouarcé (à l'exception de la fraction de commune de Chemillé-en-Anjou) et Tiercé et communes d'Ingrandes-Le Fresne-sur-Loire et Loire-Authion.
 
 |
 
@@ -670,7 +670,7 @@ Cholet
 
 |
 
-Cantons de Beaupréau, Champtoceaux, Chemillé, Cholet 1er canton, Cholet 2e canton, Cholet 3e canton, Montfaucon-Montigné, Montrevault et Saint-Florent-le-Vieil.
+Cantons de Beaupréau, Champtoceaux, Chemillé, Cholet 1er Canton, Cholet 2e Canton, Cholet 3e Canton, Montfaucon-Montigné, Montrevault et Saint-Florent-le-Vieil et commune de Chemillé-en-Anjou.
 
 |
 
@@ -682,7 +682,7 @@ Saumur
 
 |
 
-Cantons d'Allonnes, Baugé, Beaufort-en-Vallée, Doué-la-Fontaine, Gennes, Longué-Jumelles, Montreuil-Bellay, Noyant, Saumur-Nord, Saumur-Sud et Vihiers.
+Cantons d'Allonnes, Baugé, Beaufort-en-Vallée (à l'exception de la fraction de commune de Loire-Authion), Doué-la-Fontaine, Gennes, Longué-Jumelles, Montreuil-Bellay, Noyant, Saumur-Nord, Saumur-Sud et Vihiers (à l'exception de la fraction de commune de Chemillé-en-Anjou) et commune de Mazé-Milon.
 
 |
 
@@ -1548,59 +1548,15 @@ Manche
 
 |
 
-[Avranches (5)]
+Cherbourg-en-Cotentin
 
 |
 
-[Avranches
+Cherbourg-en-Cotentin
 
 |
 
-Cantons d'Avranches, Brécey, Ducey, Granville, La Haye-Pesnel, Pontorson, Saint-James, Sartilly et Villedieu-les-Poêles. (3)]
-
-|
-
-[Avranches
-
-|
-
-Cantons d'Avranches, Barenton, Brécey, Ducey, Granville, Isigny-le Buat, Juvigny-le-Tertre, La Haye-Pesnel, Le Teilleul, Mortain, Pontorson, Saint-Hilaire-du-Harcouët, Saint-James, Saint-Pois, Sartilly, Sourdeval et Villedieu-les-Poêles. (4)]
-
-|
-
-[Mortain
-
-|
-
-Cantons de Barenton, Isigny-le-Buat, Juvigny-le-Tertre, Le Teilleul, Mortain, Saint-Hilaire-du-Harcouët, Saint-Pois et Sourdeval. (3)]
-
-|
-
-Cherbourg Octeville
-
-|
-
-[Cherbourg-Octeville
-
-|
-
-Cantons de Beaumont-Hague, Cherbourg-Octeville-Nord-Ouest, Cherbourg-Octeville-Sud-Est, Cherbourg-Octeville-Sud-Ouest, Équeurdreville-Hainneville, Les Pieux, Saint-Pierre-Église et Tourlaville. (3)]
-
-|
-
-[Cherbourg-Octeville
-
-|
-
-Cantons de Barneville-Carteret, Beaumont-Hague, Bricquebec, Cherbourg-Octeville-Nord-Ouest, Cherbourg-Octeville-Sud-Est, Cherbourg-Octeville-Sud-Ouest, Équeurdreville-Hainneville, Les Pieux, Montebourg, Quettehou, Sainte-Mère-Église, Saint-Pierre Église, Saint-Sauveur-le-Vicomte, Tourlaville et Valognes. (4)]
-
-|
-
-[Valognes
-
-|
-
-Cantons de Barneville-Carteret, Bricquebec, Montebourg, Quettehou, Sainte-Mère-Église, Saint-Sauveur-le-Vicomte et Valognes. (3)]
+Cantons de Barneville-Carteret, Beaumont-Hague, Bricquebec, Cherbourg-Octeville-Nord-Ouest, Cherbourg-Octeville-Sud-Est, Cherbourg-Octeville-Sud-Ouest, Équeurdreville-Hainneville, Les Pieux, Montebourg, Quettehou, Sainte-Mère-Eglise (à l'exception de la fraction de commune de Carentan les Marais), Saint-Pierre-Eglise, Saint-Sauveur-le-Vicomte, Tourlaville et Valognes et commune de Picauville.
 
 |
 
@@ -1608,7 +1564,7 @@ Coutances
 
 |
 
-[Avranches (6)]
+Avranches
 
 |
 
@@ -1616,27 +1572,11 @@ Cantons d'Avranches, Barenton, Bréccy, Ducey, Granville, Isigny-le-Buat, Juvign
 
 |
 
-[Coutances
+Coutances
 
 |
 
-Cantons de Bréhal, Cerisy-la-Salle, Coutances, Gavray, La Haye-du Puits, Lessay, Montmartin-sur-Mer, Périers, Saint-Malo-de-la-Lande et Saint-Sauveur-Lendelin. (3)]
-
-|
-
-[Coutances
-
-|
-
-Cantons de Bréhal, Canisy, Carentan, Cerisy-la-Salle, Coutances, Gavray, La Haye-du-Puits, Lessay, Marigny, Montmartin-sur-Mer, Percy, Périers, Saint-Clair-sur-l'Elle, Saint-Jean-de-Daye, Saint-Lô-Est, Saint-Lô-Ouest, Saint-Malo-de-la-Lande, Saint-Sauveur-Lendelin, Tessy-sur-Vire et Torigni-sur-Vire. (4)]
-
-|
-
-[Saint-Lô
-
-|
-
-Cantons de Canisy, Carentan, Marigny, Percy, Saint-Clair-sur-l'Elle, Saint-Jean-de-Daye, Saint-Lô-Est, Saint-Lô-Ouest, Tessy-sur-Vire et Torigni-sur-Vire. (3)]
+Cantons de Bréhal, Canisy, Carentan, Cerisy-la-Salle, Coutances, Gavray, La Haye-du-Puits (à l'exception de la fraction de commune de Picauville), Lessay, Marigny, Montmartin-sur-Mer, Percy, Périers, Saint-Clair-sur-l'Elle, Saint-Jean-de-Daye, Saint-Lô-Est, Saint-Lô-Ouest, Saint-Malo-de-la-Lande, Saint-Sauveur-Lendelin, Tessy-sur-Vire et Torigni-sur-Vire et commune de Carentan les Marais.
 
 |
 
@@ -1648,27 +1588,11 @@ Alençon
 
 |
 
-[Alençon
+Alençon
 
 |
 
-Cantons d'Alençon 1er canton, Alençon 2e canton, Alençon 3e canton, Carrouges, Courtomer, Le Mêle-sur-Sarthe et Sées. (3)]
-
-|
-
-[Alençon
-
-|
-
-Cantons d'Alençon 1er canton, Alençon 2e canton, Alençon 3e canton, Bazoches-sur-Hoëne, Bellême, Carrouges, Courtomer, L'Aigle-Est, L'Aigle-Ouest, Le Theil, Le Mêle-sur-Sarthe, Longny-au-Perche, Mortagne-au-Perche, Moulins-la-Marche, Nocé, Pervenchères, Rémalard, Sées et Tourouvre. (4)]
-
-|
-
-[Mortagne-au-Perche
-
-|
-
-Cantons de Bazoches-sur-Hoëne, Bellême, L'Aigle-Est, L'Aigle Ouest, Le Theil, Longny-au-Perche, Mortagne-au-Perche, Moulins-la-Marche, Nocé, Pervenchères, Rémalard et Tourouvre. (3)]
+Cantons d'Alençon 1er Canton, Alençon 2e Canton, Alençon 3e Canton, Bazoches-sur-Hoëne, Bellême, Carrouges, Courtomer, L'Aigle-Est, L'Aigle-Ouest, Le Theil, Le Mêle-sur-Sarthe, Longny-au-Perche, Mortagne-au-Perche, Moulins-la-Marche, Nocé, Pervenchères, Rémalard, Sées et Tourouvre et commune de Chailloué.
 
 |
 
@@ -1680,23 +1604,15 @@ Argentan
 
 |
 
-Cantons d'Argentan-Est, Argentan-Ouest, Briouze, Écouché, Exmes, Gacé, La Ferté-Frênel, Le Merlerault, Mortrée, Putanges-Pont-Écrepin, Trun et Vimoutiers.
+Cantons d'Argentan-Est, Argentan-Ouest, Briouze, Écouché, Exmes, Gacé, La Ferté-Frênel, Le Merlerault, Mortrée (à l'exception de la fraction de commune de Chailloué), Putanges-Pont-Écrepin, Trun et Vimoutiers.
 
 |
 
-[Domfront
+Flers
 
 |
 
-Cantons d'Athis-de-l'Orne, Domfront, Flers-Nord, Fiers-Sud, Juvigny sous-Andaine, La Ferté-Macé, Messei, Passais et Tinchebray. (3)]
-
-|
-
-[Flers
-
-|
-
-Cantons d'Athis-de-l'Ome, Domfront, Flers-Nord, Fiers-Sud, Juvigny sous-Andaine, La Ferté-Macé, Messei, Passais et Tinchebray. (4)]
+Cantons d'Athis-de-l'Orne, Domfront, Flers-Nord, Flers-Sud, Juvigny-sous-Andaine, La Ferté-Macé, Messei, Passais et Tinchebray.
 
 |
 
@@ -1882,31 +1798,15 @@ Strasbourg
 
 |
 
-[Brumath
+Haguenau
 
 |
 
-Cantons de Brumath, Hochfelden et Truchtersheim. (3)]
+Cantons de Bischwiller, Brumath, Haguenau, Hochfelden, Lauterbourg, Niederbronn-les-Bains, Seltz, Soultz-sous-Forêts, Truchtersheim, Wissembourg et Woerth et commune de Val de Moder.
 
 |
 
-[Haguenau
-
-|
-
-Cantons de Bischwiller, Haguenau et Niederbronn-Ies-Bains. (3)]
-
-|
-
-[Haguenau
-
-|
-
-Cantons de Bischwiller, Brumath, Haguenau, Hochfelden, Lauterbourg, Niederbronn-les-Bains, Seltz, Soultz-sous-Forêts, Truchtersheim, Wissembourg et Woerth. (4)]
-
-|
-
-Illkirch Graffcnstadcn
+Illkirch-Graffenstaden
 
 |
 
@@ -1926,15 +1826,7 @@ Strasbourg
 
 |
 
-Cantons de Strasbourg 1er canton, Strasbourg 2e canton, Strasbourg 3e canton, Strasbourg 4e canton, Strasbourg 5e canton, Strasbourg 6e canton, Strasbourg 7e canton, Strasbourg 8e canton, Strasbourg 9e canton et Strasbourg 10e canton.
-
-|
-
-[Wissembourg
-
-|
-
-Cantons de Lauterbourg, Seltz, Soultz-sous-Forêts, Wissembourg et Woerth. (3)]
+Cantons de Strasbourg 1er Canton, Strasbourg 2e Canton, Strasbourg 3e Canton, Strasbourg 4e Canton, Strasbourg 5e Canton, Strasbourg 6e Canton, Strasbourg 7e Canton, Strasbourg 8e Canton, Strasbourg 9e Canton et Strasbourg 10e Canton.
 
 |
 
@@ -1954,7 +1846,7 @@ Saverne
 
 |
 
-Cantons de Bouxwiller, Drulingen, La Petite-Pierre, Marmoutier, Sarre-Union et Saverne.
+Cantons de Bouxwiller (à l'exception de la fraction de commune de Val de Moder), Drulingen, La Petite-Pierre, Marmoutier, Sarre-Union et Saverne.
 
 |
 
@@ -1966,19 +1858,11 @@ Colmar
 
 |
 
-[Sélestat
+Sélestat
 
 |
 
-Cantons de Barr, Marckolsheim, Sélestat et Villé. (3)]
-
-|
-
-[Sélestat
-
-|
-
-Cantons de Barr, Marckolsheim, Sainte-Marie-aux-Mines, Sélestat, Villé et Ribeauvillé. (4)]
+Cantons de Barr, Marckolsheim, Sainte-Marie-aux-Mines, Sélestat, Villé et Ribeauvillé.
 
 |
 
@@ -1990,19 +1874,11 @@ Colmar
 
 |
 
-[Colmar
+Colmar
 
 |
 
-Cantons d'Andolsheim, Colmar-Nord, Colmar-Sud, Munster, Neuf Brisach et Wintzenheim. (3)]
-
-|
-
-[Colmar
-
-|
-
-Cantons d'Andolsheim, Colmar-Nord, Colmar-Sud, Kaysersberg, Lapoutroie, Munster, Neuf-Brisach et Wintzenheim. (4)]
+Cantons d'Andolsheim, Colmar-Nord, Colmar-Sud, Kaysersberg, Lapoutroie, Munster, Neuf-Brisach et Wintzenheim.
 
 |
 
@@ -2014,11 +1890,7 @@ Cantons d'Ensisheim, Guebwiller, Rouffach et Soultz-Haut-Rhin.
 
 |
 
-[Ribeauvillé
-
-|
-
-Cantons de Kaysersberg, Lapoutroie, Ribeauvillé et Sainte-Marie-aux-Mines. (3)]
+Mulhouse
 
 |
 
@@ -2026,35 +1898,7 @@ Mulhouse
 
 |
 
-[Altkirch
-
-|
-
-Cantons d'Altkirch, Dannemarie, Ferrette et Hirsingue. (3)]
-
-|
-
-[Huningue
-
-|
-
-Canton de Huningue. (3)]
-
-|
-
-[Mulhouse
-
-|
-
-Cantons de Habsheim, Illzach, Mulhouse-Est, Mulhouse-Nord, Mulhouse-Ouest, Mulhouse-Sud, Sierentz et Wittenheim. (3)]
-
-|
-
-[Mulhouse
-
-|
-
-Cantons d'Altkirch, Dannemarie, Ferrette, Habsheim, Hirsingue, Huningue, Illzach, Mulhouse-Est, Mulhouse-Nord, Mulhouse-Ouest, Mulhouse-Sud, Sierentz et Wittenheim. (4)]
+Cantons d'Altkirch, Dannemarie, Ferrette, Habsheim, Hirsingue, Huningue, Illzach, Mulhouse-Est, Mulhouse-Nord, Mulhouse-Ouest, Mulhouse-Sud, Sierentz et Wittenheim et commune de Bernwiller.
 
 |
 
@@ -2062,7 +1906,7 @@ Thann
 
 |
 
-Cantons de Cernay, Masevaux, Saint-Amarin et Thann.
+Cantons de Cernay (à l'exception de la fraction de commune de Bernwiller), Masevaux, Saint-Amarin et Thann.
 
 |
 
@@ -2190,7 +2034,7 @@ Cantons de Beaurepaire-en-Bresse, Buxy, Chagny, Chalon-sur-Saône Centre, Chalon
 
 |
 
-[Le Creusot
+[le Creusot
 
 |
 
@@ -2650,15 +2494,11 @@ Isère
 
 |
 
-Bourgoin-Jallieu
+Bourgoin-Jallieu |
 
-|
+Bourgoin-Jallieu |
 
-Bourgoin-Jallieu
-
-|
-
-Cantons de Bourgoin-Jallieu-Nord, Bourgoin-Jallieu-Sud (comprenant la commune d'Eclose-Badinières), Crémieu, La Tour-du-Pin, Le Grand-Lemps, Le Pont-de-Beauvoisin, Morestel, Saint-Geoire-en-Valdaine et Virieu.
+Cantons de Bourgoin-Jallieu-Nord, Bourgoin-Jallieu-Sud, Crémieu, La Tour-du-Pin, Le Grand-Lemps, Le Pont-de-Beauvoisin, Morestel, Saint-Geoire-en-Valdaine et Virieu et commune d'Eclose-Badinières.
 
 |
 
@@ -2670,7 +2510,7 @@ Grenoble
 
 |
 
-Cantons d'Allevard, Clelles, Corps, Domène, Echirolles-Est, Echirolles-Ouest, Eybens, Fontaine-Sassenage, Fontaine-Seyssinet, Goncelin, Grenoble 1er canton, Grenoble 2e canton, Grenoble 3e canton, Grenoble 4e canton, Grenoble 5e canton, Grenoble 6e canton, La Mure, Le Bourg-d'Oisans, Le Touvet, Mens, Meylan, Monestier-de-Clermont, Pont-en-Royans, Rives, Roybon, Saint-Egrève, Saint-Etienne-de-Saint-Geoirs, Saint-Ismier, Saint-Laurent-du-Pont, Saint-Marcellin, Saint-Martin-d'Hères-Nord, Saint-Martin-d'Hères-Sud, Tullins, Valbonnais, Vif, Villard-de-Lans, Vinay, Vizille et Voiron.
+Cantons d'Allevard, Clelles, Corps, Domène, Échirolles-Est, Échirolles-Ouest, Eybens, Fontaine-Sassenage, Fontaine-Seyssinet, Goncelin, Grenoble 1er Canton, Grenoble 2e Canton, Grenoble 3e Canton, Grenoble 4e Canton, Grenoble 5e Canton, Grenoble 6e Canton, La Mure, Le Bourg-d'Oisans, Le Touvet, Mens, Meylan, Monestier-de-Clermont, Pont-en-Royans, Rives, Roybon, Saint-Égrève, Saint-Etienne-de-Saint-Geoirs, Saint-Ismier, Saint-Laurent-du-Pont, Saint-Marcellin, Saint-Martin-d'Hères-Nord, Saint-Martin-d'Hères-Sud, Tullins, Valbonnais, Vif, Villard-de-Lans, Vinay, Vizille et Voiron.
 
 |
 
@@ -2818,7 +2658,15 @@ Ain
 
 |
 
-[Belley (9)]
+Bourg-en-Bresse
+
+|
+
+Bourg-en-Bresse
+
+|
+
+Cantons de Bâgé-le-Châtel, Bourg-en-Bresse-Est, Bourg-en-Bresse-Nord-Centre, Bourg-en-Bresse-Sud, Ceyzériat, Coligny, Montrevel-en-Bresse, Péronnas, Pont-d'Ain, Pont-de-Vaux, Pont-de-Veyle, Saint-Trivier-de-Courtes, Treffort-Cuisiat et Viriat.
 
 |
 
@@ -2826,27 +2674,7 @@ Belley
 
 |
 
-Cantons d'Ambérieu-en-Bugey, Belley, Champagne-en-Valromey, Hauteville-Lompnes, Lagnieu, Lhuis, Saint-Rambert-en-Bugey, Seyssel et Virieu-le-Grand.
-
-|
-
-Bourg-en-Bresse
-
-|
-
-Bourg-en-Bresse
-
-|
-
-Cantons de Bâgé-le-Châtel, Bourg-en-Bresse-Est, Bourg-en-Bresse Nord-Centre, Bourg-en-Bresse-Sud, Ceyzériat, Coligny, Montrevel en-Bresse, Péronnas, Pont-d'Ain, Pont-de-Vaux, Pont-de-Veyle, Saint-Trivier-de-Courtes, Treffort-Cuisiat et Viriat.
-
-|
-
-[Belley (10)]
-
-|
-
-Cantons d'Ambérieu-en-Bugey, Belley, Champagne-en-Valromey, Hauteville-Lompnes, Lagnieu, Lhuis, Saint-Rambert-en-Bugey, Seyssel et Virieu-le-Grand.
+Cantons d'Ambérieu-en-Bugey, Belley, Champagne-en-Valromey, Hauteville-Lompnes, Lagnieu, Lhuis, Saint-Rambert-en-Bugey, Seyssel et Virieu-le-Grand et commune de Haut Valromey.
 
 |
 
@@ -2854,7 +2682,7 @@ Nantua
 
 |
 
-Cantons de Bellegarde-sur-Valserine, Brénod, Collonges, Ferney-Voltaire, Gex, Izernore, Nantua, Oyonnax-Nord, Oyonnax-Sud et Poncin.
+Cantons de Bellegarde-sur-Valserine, Brénod (à l'exception de la fraction de commune de Haut Valromey), Collonges, Ferney-Voltaire, Gex, Izernore, Nantua, Oyonnax-Nord, Oyonnax-Sud et Poncin.
 
 |
 
@@ -4910,14 +4738,6 @@ Cantons de Marcilly-le-Hayer, Nogent-sur-Seine, Romilly-sur-Seine 1er canton, Ro
 
 |
 
-Cantons d'Aix-en-Othe, Arcis-sur-Aube, Bar-sur-Aube, Bar-sur-Seine, Bouilly, Brienne-le-Château, Chaource, Chavanges, Ervy-le-Châtel, Essoyes, Estissac, La Chapelle-Saint-Luc, Les Riceys, Lusigny-sur-Barse, Marcilly-le-Hayer, Méry-sur-Seine, Mussy-sur-Seine, Nogent-sur-Seine, Piney, Ramerupt, Romilly-sur-Seine 1er canton, Romilly-sur-Seine 2e canton, Sainte-Savine, Soulaines-Dhuys, Troyes 1er canton, Troyes 2e canton, Troyes 3e canton, Troyes 4e canton, Troyes 5e canton, Troyes 6e canton, Troyes 7e canton, Vendeuvre-sur-Barse et Villenauxe-la-Grande. (4)]
-
-|
-
-[Troyes
-
-|
-
 Cantons d'Aix-en-Othe, Arcis-sur-Aube, Bouilly, Chavanges, Ervy-le-Châtel, Estissac, La Chapelle-Saint-Luc, Lusigny-sur-Barse, Méry-sur-Seine, Piney, Ramerupt, Sainte-Savine, Troyes 1er canton, Troyes 2e canton, Troyes 3e canton, Troyes 4e canton, Troyes 5e canton, Troyes 6e canton et Troyes 7e canton. (13)]
 
 |
@@ -5198,27 +5018,11 @@ Nantes
 
 |
 
-[Châteaubriant
+Nantes
 
 |
 
-Cantons de Châteaubriant, Derval, Moisdon-la-Rivière, Nozay, Rougé et Saint-Julien-de-Vouvantes. (3)]
-
-|
-
-[Nantes
-
-|
-
-Cantons d'Aigrefeuille-sur-Maine, Ancenis, Bouaye, Carquefou, Clisson, La Chapelle-sur-Erdre, Le Loroux-Bottereau, Le Pellerin, Legé, Ligné, Machecoul, Nantes 1er canton, Nantes 2e canton, Nantes 3e canton, Nantes 4e canton, Nantes 5e canton, Nantes 6e canton, Nantes 7e canton, Nantes 8e canton, Nantes 9e canton, Nantes 10e canton, Nantes 11e canton, Nort-sur-Erdre, Orvault, Rezé, Riaillé, Saint-Étienne-de-Montluc, Saint-Herblain-Est, Saint-Herblain-Ouest Indre, Saint-Mars-la-Jaille, Saint-Philbert-de-Grand-Lieu, Vallet, Varades, Vertou et Vertou-Vignoble. (3)]
-
-|
-
-[Nantes
-
-|
-
-Cantons d'Aigrefeuille-sur-Maine, Ancenis, Bouaye, Carquefou, Châteaubriant, Clisson, Derval, La Chapelle-sur-Erdre, Le Loroux-Bottereau, Le Pellerin, Legé, Ligné, Machecoul, Moisdon-la-Rivière, Nantes 1er canton, Nantes 2e canton, Nantes 3e canton, Nantes 4e canton, Nantes 5e canton, Nantes 6e canton, Nantes 7e canton, Nantes 8e canton, Nantes 9e canton, Nantes 10e canton, Nantes 11e canton, Nort-sur-Erdre, Nozay, Orvault, Rezé, Riaillé, Rougé, Saint-Étienne-de-Montluc, Saint-Herblain-Est, Saint-Herblain-Ouest-Indre, Saint-Julien-de-Vouvantes, Saint-Mars-la-Jaille, Saint-Philbert-de-Grand-Lieu, Vallet, Varades, Vertou et Vertou-Vignoble. (4)]
+Cantons d'Aigrefeuille-sur-Maine, Ancenis, Bouaye, Carquefou, Châteaubriant, Clisson, Derval, La Chapelle-sur-Erdre, Le Loroux-Bottereau, Le Pellerin, Legé, Ligné, Machecoul, Moisdon-la-Rivière, Nantes 1er Canton, Nantes 2e Canton, Nantes 3e Canton, Nantes 4e Canton, Nantes 5e Canton, Nantes 6e Canton, Nantes 7e Canton, Nantes 8e Canton, Nantes 9e Canton, Nantes 10e Canton, Nantes 11e Canton, Nort-sur-Erdre, Nozay, Orvault, Rezé, Riaillé, Rougé, Saint-Etienne-de-Montluc, Saint-Herblain-Est, Saint-Herblain-Ouest-Indre, Saint-Julien-de-Vouvantes, Saint-Mars-la-Jaille, Saint-Philbert-de-Grand-Lieu, Vallet, Varades (à l'exception de la fraction de commune d'Ingrandes-Le Fresne sur Loire), Vertou et Vertou-Vignoble.
 
 |
 
@@ -5638,27 +5442,11 @@ Dieppe
 
 |
 
-[Dieppe
+Dieppe
 
 |
 
-Cantons de Bacqueville-en-Caux, Bellencombre, Dieppe-Est, Dieppe Ouest, Envermeu, Eu, Longueville-sur-Scie, Offranville et Tôtes. (3)]
-
-|
-
-[Dieppe
-
-|
-
-Cantons d'Argueil, Aumale, Bacqueville-en-Caux, Bellencombre, Blangy-sur-Bresle, Dieppe-Est, Dieppe-Ouest, Envermeu, Eu, Forges les-Eaux, Gournay-en-Bray, Londinières, Longueville-sur-Scie, Neufchâtel-en-Bray, Offranville, Saint-Saëns et Tôtes. (4)]
-
-|
-
-[Neufchâtel-en-Bray
-
-|
-
-Cantons d'Argueil, Aumale, Blangy-sur-Bresle, Forges-les-Eaux, Gournay-en-Bray, Londinières, Neufchâtel-en-Bray et Saint-Saëns. (3)]
+Cantons d'Argueil, Aumale, Bacqueville-en-Caux, Bellencombre, Blangy-sur-Bresle, Dieppe-Est, Dieppe-Ouest, Envermeu, Eu, Forges-les-Eaux, Gournay-en-Bray, Londinières, Longueville-sur-Scie, Neufchâtel-en-Bray, Offranville, Saint-Saëns et Tôtes.
 
 |
 
@@ -5670,7 +5458,7 @@ Le Havre
 
 |
 
-Cantons de Bolbec, Criquetot-l'Esneval, Fauville-en-Caux, Fécamp, Goderville, Gonfreville-l'Orcher, Le Havre 1er canton, Le Havre 2e canton, Le Havre 3e canton, Le Havre 4e canton, Le Havre 5e canton, Le Havre 6e canton, Le Havre 7e canton, Le Havre 8e canton, Le Havre 9e canton, Lillebonne, Montivilliers, Saint-Romain-de-Colbosc et Valmont.
+Cantons de Bolbec, Criquetot-l'Esneval, Fauville-en-Caux, Fécamp, Goderville, Gonfreville-l'Orcher, Le Havre 1er Canton, Le Havre 2e Canton, Le Havre 3e Canton, Le Havre 4e Canton, Le Havre 5e Canton, Le Havre 6e Canton, Le Havre 7e Canton, Le Havre 8e Canton, Le Havre 9e Canton, Lillebonne, Montivilliers, Saint-Romain-de-Colbosc et Valmont et commune de Port-Jérôme-sur-Seine.
 
 |
 
@@ -5678,35 +5466,11 @@ Rouen
 
 |
 
-[Elbeuf
+Rouen
 
 |
 
-Cantons de Caudebec-lès-Elbeuf et Elbeuf. (3)]
-
-|
-
-[Rouen
-
-|
-
-Cantons de Bois-Guillaume, Boos, Buchy, Clères, Darnétal, Duclair, Grand-Couronne, Le Grand-Quevilly, Le Petit-Quevilly, Maromme, Mont-Saint-Aignan, Notre-Dame-de-Bondeville, Pavilly, Rouen 1er canton, Rouen 2e canton, Rouen 3e canton, Rouen 4e canton, Rouen 5e canton, Rouen 6e canton, Rouen 7e canton, Saint-Étienne-du-Rouvray, Sotteville-lès-Rouen-Est et Sotteville-lès-Rouen-Ouest. (3)]
-
-|
-
-[Rouen
-
-|
-
-Cantons de Bois-Guillaume, Boos, Buchy, Cany-Barville, Caudebec en-Caux, Caudebec-lès-Elbeuf, Clères, Darnétal, Doudeville, Duclair, Elbeuf, Fontaine-le-Dun, Grand-Couronne, Le Grand-Quevilly, Le Petit-Quevilly, Maromme, Mont-Saint-Aignan, Notre-Dame-de-Bondeville, Ourville-en-Caux, Pavilly, Rouen 1er canton, Rouen 2e canton, Rouen 3e canton, Rouen 4e canton, Rouen 5e canton, Rouen 6e canton, Rouen 7e canton, Saint-Étienne-du-Rouvray, Saint-Valery-en-Caux, Sotteville-lès-Rouen-Est, Sotteville-lès-Rouen-Ouest, Yerville et Yvetot. (4)]
-
-|
-
-[Yvetot
-
-|
-
-Cantons de Cany-Barville, Caudebec-en-Caux, Doudeville, Fontaine le-Dun, Ourville-en-Caux, Saint-Valery-en-Caux, Yerville et Yvetot. (3)]
+Cantons de Bois-Guillaume, Boos, Buchy, Cany-Barville, Caudebec-en-Caux (à l'exception de la fraction de commune de Port-Jérôme-sur-Seine), Caudebec-lès-Elbeuf, Clères, Darnétal, Doudeville, Duclair, Elbeuf, Fontaine-le-Dun, Grand-Couronne, Le Grand-Quevilly, Le Petit-Quevilly, Maromme, Mont-Saint-Aignan, Notre-Dame-de-Bondeville, Ourville-en-Caux, Pavilly, Rouen 1er Canton, Rouen 2e Canton, Rouen 3e Canton, Rouen 4e Canton, Rouen 5e Canton, Rouen 6e Canton, Rouen 7e Canton, Saint-Etienne-du-Rouvray, Saint-Valery-en-Caux, Sotteville-lès-Rouen-Est, Sotteville-lès-Rouen-Ouest, Yerville et Yvetot.
 
 |
 
