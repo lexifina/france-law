@@ -38,7 +38,7 @@ Décret n° 95-869 du 2 août 1995 fixant le statut particulier des personnels d
 
 Décret n° 95-888 du 7 août 1995 fixant les dispositions statutaires communes applicables aux attachés d'administration centrale.
 
-Décret n° 2007-710 du 3 mai 2007 portant dispositions statutaires relatives au corps des attachés statisticiens de l'Institut national de la statistique et des études économiques.
+Décret n° 2016-1195 du 2 septembre 2016 portant statut particulier du corps des attachés statisticiens de l'Institut national de la statistique et des études économiques .
 
 VII.-Ministère de la défense
 
