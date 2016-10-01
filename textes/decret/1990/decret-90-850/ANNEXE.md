@@ -1148,7 +1148,9 @@ Cadre supérieur de santé de sapeurs-pompiers professionnels
 
 |
 
-16 |
+16
+
+|
 
 |
 
@@ -1230,7 +1232,45 @@ Chefferie |
 
 |
 
-Médecin de 2e classe et pharmacien de 2e classe
+Médecin et pharmacien de classe normale
+
+|
+
+- |
+
+24 |
+
+|
+
+Groupement
+
+|
+
+31
+
+|
+
+|
+
+Médecin-chef adjoint
+
+|
+
+33
+
+|
+
+|
+
+Pharmacien gérant PUI
+
+|
+
+34
+
+|
+
+Médecin et pharmacien hors classe et médecin et pharmacien de classe exceptionnelle
 
 |
 
@@ -1248,7 +1288,7 @@ Groupement
 
 |
 
-27 à 31 (*)
+31
 
 |
 
@@ -1258,7 +1298,7 @@ Médecin-chef adjoint
 
 |
 
-31 à 33 (*)
+33
 
 |
 
@@ -1268,59 +1308,7 @@ Pharmacien gérant PUI
 
 |
 
-31 à 34 (*)
-
-|
-
-|
-
-Pharmacien-chef
-
-|
-
-31 à 34 (*)
-
-|
-
-Médecin de 1re classe et pharmacien de 1re classe
-
-|
-
--
-
-|
-
-24
-
-|
-
-|
-
-Groupement
-
-|
-
-27 à 31 (*)
-
-|
-
-|
-
-Médecin-chef adjoint
-
-|
-
-31 à 33 (*)
-
-|
-
-|
-
-Pharmacien gérant PUI
-
-|
-
-31 à 34 (*)
+34
 
 |
 
@@ -1330,123 +1318,15 @@ Médecin-chef et pharmacien-chef
 
 |
 
-31 à 34 (*)
+34
 
 |
 
-Médecin hors classe et pharmacien hors classe
+CTA : centre de traitement de l'alerte
 
-|
+CODIS : centre opérationnel départemental d'incendie et de secours
 
--
-
-|
-
-24
-
-|
-
-|
-
-Groupement
-
-|
-
-27 à 31 (*)
-
-|
-
-|
-
-Médecin-chef adjoint
-
-|
-
-31 à 33 (*)
-
-|
-
-|
-
-Pharmacien gérant PUI
-
-|
-
-31 à 34 (*)
-
-|
-
-|
-
-Médecin-chef et pharmacien-chef
-
-|
-
-31 à 34 (*)
-
-|
-
-Médecin de classe exceptionnelle
-
-et pharmacien de classe exceptionnelle
-
-|
-
--
-
-|
-
-24
-
-|
-
-|
-
-Groupement
-
-|
-
-27 à 31 (*)
-
-|
-
-|
-
-Médecin-chef adjoint
-
-|
-
-31 à 33 (*)
-
-|
-
-|
-
-Pharmacien gérant PUI
-
-|
-
-31 à 34 (*)
-
-|
-
-|
-
-Médecin-chef et pharmacien-chef
-
-|
-
-31 à 34 (*)
-
-|
-
-CTA : centre de traitement de l'alerte.
-
-CODIS : centre opérationnel départemental d'incendie et de secours.
-
-PUI : pharmacie à usage intérieur.
-
-(*) Selon l'importance du département.
+PUI : pharmacie à usage intérieur
 
 |
 
