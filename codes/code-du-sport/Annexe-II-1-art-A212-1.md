@@ -2338,6 +2338,18 @@ Encadrement en autonomie des activités d'escalade sur structure artificielle d'
 
 |
 
+CQP " moniteur de vol à plat en soufflerie ". |
+
+Encadrement en autonomie des activités de vol à plat en soufflerie pour tout public, dans les conditions techniques et de sécurité définies aux articles A. 322-165 et suivants du code du sport et le respect des capacités d'accueil des installations. |
+
+Dans la limite d'un pratiquant, dans le cas où les pratiquants ne sont pas autonomes. |
+
+CQP " moniteur de vol à plat en soufflerie assorti de la qualification complémentaire vol 3 D en soufflerie ". |
+
+Encadrement en autonomie des activités de vol à plat en soufflerie et des activités de vol 3 D en soufflerie pour tout public, dans les conditions techniques et de sécurité définies aux articles A. 322-165 et suivants du code du sport et le respect des capacités d'accueil des installations. |
+
+Dans la limite d'un pratiquant, dans le cas où les pratiquants ne sont pas autonomes. |
+
 F. - Diplômes délivrés par le ministère chargé de la santé
 
 INTITULÉ DU CERTIFICAT
