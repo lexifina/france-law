@@ -1,6 +1,6 @@
 # Article Annexe 4-9
 
-I.-Sont notamment réalisées par les professions concernées dans les conditions prévues au troisième alinéa de l'article L. 444-1, les prestations dont la liste suit :
+I. - Sont notamment réalisées par les professions concernées dans les conditions prévues au troisième alinéa de l'article L. 444-1, les prestations dont la liste suit :
 
 1° S'agissant des administrateurs judiciaires et des mandataires judiciaires :
 
@@ -16,7 +16,7 @@ ii. Les missions d'assistance ou de représentation devant les juridictions où 
 
 iii. Le recouvrement amiable des créances pour le compte d'autrui ;
 
-iv. Les sommations de payer non-interpellatives, prévues aux articles 1139 et 1153 du code civil ;
+iv. Les sommations de payer non-interpellatives, prévues aux articles 1344 et 1231-6 du code civil ;
 
 b) Les activités de ventes volontaires de meubles aux enchères publiques ;
 
@@ -24,13 +24,13 @@ c) Les sommations interpellatives, notamment de payer ;
 
 d) Les congés et les offres de renouvellement de bail d'habitation, prévus :
 
--à l'article 1736 du code civil ;
+- à l'article 1736 du code civil ;
 
--dans la loi n° 48-1360 du 1er septembre 1948 portant modification et codification de la législation relative aux rapports des bailleurs et locataires ou occupants de locaux d'habitation ou à usage professionnel et instituant des allocations de logement ;
+- dans la loi n° 48-1360 du 1er septembre 1948 portant modification et codification de la législation relative aux rapports des bailleurs et locataires ou occupants de locaux d'habitation ou à usage professionnel et instituant des allocations de logement ;
 
--à l'article 15 de la loi n° 89-462 du 6 juillet 1989 tendant à améliorer les rapports locatifs et portant modification de la loi n° 86-1290 du 23 décembre 1986 ;
+- à l'article 15 de la loi n° 89-462 du 6 juillet 1989 tendant à améliorer les rapports locatifs et portant modification de la loi n° 86-1290 du 23 décembre 1986 ;
 
--à l'article 57A de la loi n° 86-1290 du 23 décembre 1986 tendant à favoriser l'investissement locatif, l'accession à la propriété de logements sociaux et le développement de l'offre foncière ;
+- à l'article 57 A de la loi n° 86-1290 du 23 décembre 1986 tendant à favoriser l'investissement locatif, l'accession à la propriété de logements sociaux et le développement de l'offre foncière ;
 
 e) Les congés et demandes de renouvellement de bail commercial, prévus à l'article L. 145-4 du présent code ;
 
@@ -62,10 +62,10 @@ h) Les ventes de fonds de commerce, d'éléments de fonds de commerce, d'unités
 
 j) Les ventes par adjudication volontaire de meubles et objets mobiliers, d'arbres en détail et de bateaux.
 
-II.-Sauf stipulation contraire, l'honoraire de la négociation mentionnée au b du 4° du I est à la charge de celle des parties qui supporte les frais de l'acte.
+II. - Sauf stipulation contraire, l'honoraire de la négociation mentionnée au b du 4° du I est à la charge de celle des parties qui supporte les frais de l'acte.
 
 Les frais de publicité nécessaires à la recherche d'un co-contractant sont à la charge du notaire. Cependant, le mandant peut s'obliger à les lui rembourser sur justification dans la limite d'une somme précisée dans le mandat.
 
-III.-Les honoraires de la négociation et de la transaction, respectivement mentionnées aux b et c du 4° du I, sont exclusifs l'un de l'autre.
+III. - Les honoraires de la négociation et de la transaction, respectivement mentionnées aux b et c du 4° du I, sont exclusifs l'un de l'autre.
 
 L'honoraire de transaction ne peut être perçu par le notaire qu'à la réception de l'acte et seulement si ce dernier mentionne les points sur lesquels portait le désaccord.

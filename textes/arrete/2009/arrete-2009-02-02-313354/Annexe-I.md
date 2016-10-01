@@ -10,9 +10,9 @@ La présente convention est conclue en application des textes suivants :
 
 ― code rural, livre VII ;
 
-― directive européenne n° 94 / 33 du 22 juin 1994 relative à la protection des jeunes au travail (notamment article 1er sur l'âge d'admission, article 7. 3 sur les interdictions de travail et articles 8, 9 et 10 sur les temps de travail et de repos) ;
+― directive européenne n° 94/33 du 22 juin 1994 relative à la protection des jeunes au travail (notamment article 1er sur l'âge d'admission, article 7.3 sur les interdictions de travail et articles 8,9 et 10 sur les temps de travail et de repos) ;
 
-― règlement (CEE) n° 1408 / 71 relatif à l'application des régimes de sécurité sociale aux travailleurs salariés, aux travailleurs non salariés et aux membres de leur famille qui se déplacent à l'intérieur de la Communauté.
+― règlement (CEE) n° 1408/71 relatif à l'application des régimes de sécurité sociale aux travailleurs salariés, aux travailleurs non salariés et aux membres de leur famille qui se déplacent à l'intérieur de la Communauté.
 
 Remarques :
 
@@ -22,7 +22,7 @@ Le terme : " entreprise d'accueil " est entendu au sens d'unité économique ou 
 
 Protection sociale :
 
-Les apprentis qui effectuent une partie de leur formation dans un autre Etat membre bénéficient du maintien du régime de protection sociale de leur pays d'origine en vertu des dispositions du règlement (CEE) n° 1408 / 71. Le formulaire E101 atteste de l'affiliation de l'employeur à un régime de sécurité sociale.
+Les apprentis qui effectuent une partie de leur formation dans un autre Etat membre bénéficient du maintien du régime de protection sociale de leur pays d'origine en vertu des dispositions du règlement (CEE) n° 1408/71. Le formulaire E101 atteste de l'affiliation de l'employeur à un régime de sécurité sociale.
 
 La présente convention ne permet pas de déroger aux règles nationales d'entrée, de séjour et d'accès au marché du travail de ressortissants d'Etats tiers.
 
@@ -40,45 +40,45 @@ L'employeur :...................................................................
 
 Adresse :..................................................................................
 
-Téléphone, télécopie, mél : ........................................................
+Téléphone, télécopie, mél :........................................................
 
-N° SIRET : ................................................................................
+N° SIRET :................................................................................
 
 Activités :..................................................................................
 
-Représenté par : .......................................................................
+Représenté par :.......................................................................
 
-L'entreprise d'accueil .......................: Pays d'accueil.....................
+L'entreprise d'accueil....................... : Pays d'accueil.....................
 
 Adresse :...................................................................................
 
 Téléphone, télécopie, mél :..........................................................
 
-N° d'identification : .....................................................................
+N° d'identification :.....................................................................
 
-Activités : ..................................................................................
+Activités :..................................................................................
 
-Représentée par : ......................................................................
+Représentée par :......................................................................
 
 L'apprenti (e) :...........................................................................
 
 Date de naissance :....................................................................
 
-Sexe : Nationalité : ....................................................................
+Sexe : Nationalité :....................................................................
 
 Son représentant légal si mineur :................................................
 
 Adresse :...................................................................................
 
-Téléphone, mél : .......................................................................
+Téléphone, mél :.......................................................................
 
-N° du contrat d'apprentissage : ....................................................
+N° du contrat d'apprentissage :....................................................
 
-Date de début de contrat : ..........................................................
+Date de début de contrat :..........................................................
 
-Date de fin de contrat : ...............................................................
+Date de fin de contrat :...............................................................
 
-Diplôme ou titre préparé : ............................................................
+Diplôme ou titre préparé :............................................................
 
 Niveau du diplôme selon la nomenclature nationale :.......................
 
@@ -118,21 +118,21 @@ congés, santé, sécurité
 
 1. Pendant la durée de cette convention, l'apprenti (e) travaillera dans les lieux suivants :
 
-― .........................................................................................
+―.........................................................................................
 
-― .........................................................................................
+―.........................................................................................
 
 Le cas échéant, il effectuera des formations dans le centre de formation d'accueil suivant :
 
-― .........................................................................................
+―.........................................................................................
 
 2. La durée du travail (formation comprise) et les horaires applicables sont ceux en vigueur dans l'entreprise d'accueil pour cette catégorie de salarié, dans la limite de 35 heures par semaine, sans qu'il soit permis d'effectuer d'heures supplémentaires.
 
 Hormis le cas des heures supplémentaires, les apprentis âgés de plus de 18 ans se voient appliquer les règles de droit commun, rappelées dans l'annexe administrative, en matière de durée du travail (amplitude horaire, temps de repos, etc.). Les dispositions protectrices des apprentis mineurs relatives à la durée du travail sont précisées dans la même annexe.
 
-3. Les parties s'accordent sur les congés de l'apprenti.L'employeur doit s'assurer que les droits à congé de l'apprenti sont respectés sur l'ensemble de l'année.
+3. Les parties s'accordent sur les congés de l'apprenti. L'employeur doit s'assurer que les droits à congé de l'apprenti sont respectés sur l'ensemble de l'année.
 
-4.L'entreprise d'accueil s'engage à former l'apprenti à la sécurité, à l'informer des risques spécifiques qu'il rencontrera dans l'entreprise au cours de sa période de mobilité, et devra lui fournir les équipements de protection individuelle nécessaires.
+4. L'entreprise d'accueil s'engage à former l'apprenti à la sécurité, à l'informer des risques spécifiques qu'il rencontrera dans l'entreprise au cours de sa période de mobilité, et devra lui fournir les équipements de protection individuelle nécessaires.
 
 Article 5
 
@@ -152,11 +152,11 @@ Article 7
 
 Couverture maladie et accident
 
-du travail / maladie professionnelle
+du travail/ maladie professionnelle
 
-L'apprenti (e) bénéficie d'une couverture sociale maladie et accident du travail / maladie professionnelle au titre de son contrat d'apprentissage et pour la durée d'application de la présente convention.
+L'apprenti (e) bénéficie d'une couverture sociale maladie et accident du travail/ maladie professionnelle au titre de son contrat d'apprentissage et pour la durée d'application de la présente convention.
 
-Durant la période de mobilité effectuée dans un autre Etat membre de l'Union européenne, l'apprenti conserve sa qualité d'assujetti au régime de sécurité sociale dont il relève, dans les conditions fixées par la législation européenne (notamment le règlement [CEE] n° 1408 / 71) et française (notamment art.L. 761-1 du code de la sécurité sociale pour les apprentis relevant du régime général et art.L. 764-1 du code rural pour les apprentis relevant du régime des salariés agricoles).
+Durant la période de mobilité effectuée dans un autre Etat membre de l'Union européenne, l'apprenti conserve sa qualité d'assujetti au régime de sécurité sociale dont il relève, dans les conditions fixées par la législation européenne (notamment le règlement [CEE] n° 1408/71) et française (notamment art. L. 761-1 du code de la sécurité sociale pour les apprentis relevant du régime général et art. L. 764-1 du code rural pour les apprentis relevant du régime des salariés agricoles).
 
 Article 8
 
@@ -164,41 +164,41 @@ Assurances-responsabilité civile
 
 et professionnelle
 
-1.L'employeur atteste être garanti en matière de responsabilité civile (compagnie et n° de police) concernant les
+1. L'employeur atteste être garanti en matière de responsabilité civile (compagnie et n° de police) concernant les
 
 dommages subis ou causés par l'apprenti dans l'entreprise d'accueil en dehors de tout apprentissage.
 
-2.L'entreprise d'accueil atteste être garantie en matière de responsabilité civile (compagnie .............. et n° de police ...............) concernant les
+2. L'entreprise d'accueil atteste être garantie en matière de responsabilité civile (compagnie.............. et n° de police...............) concernant les
 
 dommages subis ou causés par l'apprenti lors des travaux ou prestations effectués à l'occasion de l'apprentissage.
 
-3.L'apprenti (e) atteste être garanti (e) en matière de responsabilité civile (compagnie et n° de police) pour les dommages subis ou causés par lui y compris à l'étranger en dehors de l'entreprise d'accueil dans le cadre des actes de la vie quotidienne (art. 1382 et 1384 du code civil). Cette assurance peut être souscrite par le CFA pour le compte de l'apprenti.
+3. L'apprenti (e) atteste être garanti (e) en matière de responsabilité civile (compagnie et n° de police) pour les dommages subis ou causés par lui y compris à l'étranger en dehors de l'entreprise d'accueil dans le cadre des actes de la vie quotidienne (art. 1240 et 1242 du code civil). Cette assurance peut être souscrite par le CFA pour le compte de l'apprenti.
 
-4. Les dispositions permettant à l'apprenti de bénéficier d'une assurance rapatriement (compagnie .............. et n° de police ............... ) ont été
+4. Les dispositions permettant à l'apprenti de bénéficier d'une assurance rapatriement (compagnie.............. et n° de police...............) ont été
 
-prises par ................................................
+prises par................................................
 
 Article 9
 
 Suivi dans le pays d'accueil
 
-Le suivi de l'apprenti est assuré dans le pays d'accueil par .................
+Le suivi de l'apprenti est assuré dans le pays d'accueil par.................
 
 (préciser le nom, la fonction et l'organisme).
 
 Les modalités de suivi sont précisées dans l'annexe pédagogique.
 
-Le contrôle de la réglementation en matière de santé et sécurité au travail sera assuré dans le pays d'accueil par : ......................
+Le contrôle de la réglementation en matière de santé et sécurité au travail sera assuré dans le pays d'accueil par :......................
 
 (préciser l'institution).
 
 Durant la totalité de la durée d'application de la convention, une liaison (téléphone, télécopie, courriel) est assurée entre le pays d'origine et l'apprenti (e) par (cochez la case) :
 
-□ Le maître d'apprentissage (nom, fonction et organisme) : ..........................................................
+□ Le maître d'apprentissage (nom, fonction et organisme) :..........................................................
 
-□ Un des formateurs du centre de formation (nom, fonction et organisme) : ....................................
+□ Un des formateurs du centre de formation (nom, fonction et organisme) :....................................
 
-□ Autres : ................................................................................................................................
+□ Autres :................................................................................................................................
 
 En cas de difficulté, l'apprenti l'en informe immédiatement, afin que soient prises les mesures appropriées.
 
@@ -220,7 +220,7 @@ La présente convention est transmise pour avis au directeur du CFA ou, dans le 
 
 La convention est applicable dès réception par l'employeur de l'accord du recteur d'académie, du directeur régional de l'agriculture et de la forêt ou du directeur régional de la jeunesse, des sports et de la vie associative. L'absence de réponse à l'employeur un mois après réception de la convention par l'autorité compétente vaut accord.
 
-Fait à ............................le ....................................
+Fait à............................ le....................................
 
 Signataires :
 
@@ -234,4 +234,4 @@ n° 48 du 26/02/2009 texte numéro 8
 
 Vous pouvez consulter le tableau dans le JO (fac-similé)
 
-n° 48 du 26 / 02 / 2009 texte numéro 8
+n° 48 du 26/02/2009 texte numéro 8

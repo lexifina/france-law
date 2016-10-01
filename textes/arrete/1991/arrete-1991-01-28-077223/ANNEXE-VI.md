@@ -2,7 +2,7 @@
 
 DROIT CIVIL
 
-I. - Les sources du droit :
+I.-Les sources du droit :
 
 Le renouvellement des sources (constitutionnelle, européenne).
 
@@ -10,13 +10,13 @@ L'interprétation en droit civil.
 
 L'évolution du droit civil depuis 1804.
 
-II. - Les personnes :
+II.-Les personnes :
 
 Les personnes physiques, la personnalité juridique (conditions, durée, absence, disparition) ; droits de l'homme ; droits de la personnalité (secret, respect de la vie privée) ; nom, domicile, état civil.
 
 Les personnes morales : personnalité morale, classification (société, société unipersonnelle, associations, fondations, fiducie) ; condition juridique.
 
-III. - Droit de la famille :
+III.-Droit de la famille :
 
 Le mariage et les régimes matrimoniaux, le divorce, la séparation de corps, le concubinage.
 
@@ -24,7 +24,7 @@ La filiation légitime, la filiation naturelle, la filiation par adoption.
 
 L'autorité parentale.
 
-IV. - Propriété et possession :
+IV.-Propriété et possession :
 
 L'usufruit ; les servitudes.
 
@@ -36,7 +36,7 @@ La règle : En fait de meubles...
 
 Le patrimoine.
 
-V. - Les obligations :
+V.-Les obligations :
 
 Les obligations contractuelles.
 
@@ -60,10 +60,10 @@ La responsabilité délictuelle et quasi délictuelle (art. 1382 à 1386 du code
 
 Quasi-contrats, gestion d'affaires, enrichissement sans cause.
 
-VI. - Consommation :
+VI.-Consommation :
 
 Protection du consommateur dans le domaine de la vente et du crédit ; les clauses abusives, les produits dangereux ; droit français et droit communautaire.
 
-VII. - La vente immobilière :
+VII.-La vente immobilière :
 
 Les principes généraux de la publicité foncière.

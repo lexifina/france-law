@@ -2774,7 +2774,7 @@ Recouvrement des petites créances
 
 |
 
-Délivrance du titre exécutoire par l'huissier dans le cadre de la procédure prévue à l'article 1244-4 du code civil
+Délivrance du titre exécutoire par l'huissier dans le cadre de la procédure prévue à l'article L. 125-1 du code des procédures civiles d'exécution
 
 |
 
@@ -5500,7 +5500,7 @@ Règlement d'indemnité en cas d'expropriation pour cause d'utilité publique, a
 
 |
 
-Quittance pure et simple ou dans les cas prévus par les articles 1250, paragraphe 2, et 1251 du code civil
+Quittance pure et simple ou dans les cas prévus par les articles 1346-2, et 1346 du code civil
 
 |
 
@@ -5516,7 +5516,7 @@ Quittance d'ordre judiciaire
 
 |
 
-Subrogation, prévue à l'article 1250, paragraphe 1, du code civil
+Subrogation, prévue à l'article 1346-1 du code civil
 
 |
 

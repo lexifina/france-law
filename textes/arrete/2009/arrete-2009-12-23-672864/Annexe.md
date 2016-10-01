@@ -90,7 +90,7 @@ Il doit rendre compte annuellement de sa mission à la ou aux personnes que vous
 
 Votre mandataire peut confier un ou plusieurs actes déterminés de gestion du patrimoine à un tiers ; en ce cas il doit vous en informer et il sera responsable des actes effectués par ce tiers.
 
-La responsabilité de votre mandataire peut être mise en cause en cas de mauvaise exécution, d'insuffisance ou de faute dans l'exercice de sa mission (art. 1991 et 1992 du code civil).S'il est reconnu responsable d'un préjudice à votre égard, il peut être condamné à vous indemniser.
+La responsabilité de votre mandataire peut être mise en cause en cas de mauvaise exécution, d'insuffisance ou de faute dans l'exercice de sa mission (art. 1991 et 1992 du code civil). S'il est reconnu responsable d'un préjudice à votre égard, il peut être condamné à vous indemniser.
 
 Lorsque le mandat prendra fin, pour quelque cause que ce soit, le mandataire remettra l'inventaire actualisé de votre patrimoine, l'ensemble des cinq derniers comptes de gestion et les pièces justificatives, selon les cas : à vous-même si vous avez retrouvé vos facultés, à la nouvelle personne qui assurera votre protection ou à vos héritiers. Cela, afin de vous permettre de reprendre en main la gestion de vos biens et de votre vie personnelle ou, après votre décès, de faciliter le règlement de votre succession.
 
@@ -486,7 +486,7 @@ Sous-section 2
 
 Du mandat notarié
 
-Art. 489.-Lorsque le mandat est établi par acte authentique, il est reçu par un notaire choisi par le mandant.L'acceptation du mandataire est faite dans les mêmes formes.
+Art. 489.-Lorsque le mandat est établi par acte authentique, il est reçu par un notaire choisi par le mandant. L'acceptation du mandataire est faite dans les mêmes formes.
 
 Tant que le mandat n'a pas pris effet, le mandant peut le modifier dans les mêmes formes ou le révoquer en notifiant sa révocation au mandataire et au notaire et le mandataire peut y renoncer en notifiant sa renonciation au mandant et au notaire.
 
