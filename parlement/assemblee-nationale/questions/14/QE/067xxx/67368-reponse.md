@@ -1,0 +1,9 @@
+# Réponse à la question n° 67368
+
+- Question : [67368](67368.md) — Question n° 67368 — tarification sociale; chèque énergie; montant; revalorisation
+
+## Réponse
+
+*JO du 2016-10-04*
+
+Les dépenses énergétiques de gaz et d'électricité, notamment pour le chauffage, pèsent sur le pouvoir d'achat des ménages et plus particulièrement sur celui des ménages les plus vulnérables. Aussi, le Gouvernement a mené une politique volontariste pour renforcer le dispositif des tarifs sociaux de l'électricité et du gaz, permettant un quadruplement du nombre de bénéficiaires en l'espace de 3 ans. Aujourd'hui, ce sont plus de 2,6 millions de ménages qui bénéficient de cette aide, laquelle peut aller jusqu'à 140 € pour le tarif de première nécessité (électricité) et 185 € pour le tarif spécial de solidarité (gaz naturel). Néanmoins, conscient des limites des tarifs sociaux actuels, qui en particulier ne couvrent pas toutes les énergies de chauffage, le Gouvernement a proposé, dans le cadre du projet de loi relatif à la transition énergétique pour la croissance verte, la mise en place d'un chèque énergie dédié au paiement des factures d'énergie du logement. Ce chèque pourra, en outre, contribuer au paiement de travaux d'amélioration énergétique du logement. Le chèque énergie couvrira les 4 millions de foyers en situation de précarité, conformément à l'engagement du Président de la République. Le chèque sera financé par des contributions sur les factures d'électricité et de gaz CSPE (contribution au service public de l'électricité) et CTSSG (contribution au tarif spécial de solidarité du gaz), qui tiendront compte de la part de ces deux énergies dans la consommation résidentielle, ainsi que par un complément du budget de l'État. Il est actuellement expérimenté dans quatre départements : l'Aveyron, l'Ardèche, les Côtes d'Armor et le Pas-de-Calais, avant sa généralisation à l'ensemble du territoire.
