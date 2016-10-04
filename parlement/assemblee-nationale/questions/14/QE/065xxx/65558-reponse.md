@@ -1,0 +1,9 @@
+# Réponse à la question n° 65558
+
+- Question : [65558](65558.md) — Question n° 65558 — hydrocarbures; procédures d'attribution; élus locaux; information
+
+## Réponse
+
+*JO du 2016-10-04*
+
+Dans le cadre de la charte de l'environnement, et notamment de l'article L 120-1-1, l'instruction d'une demande de permis exclusif de recherches, comporte une information du public. Ce complément de procédure est en application depuis juillet 2014. Dés qu'une demande de permis est déclarée recevable par le préfet du département concerné, les informations relatives au dépôt de la demande de permis (date de la demande, zone concernée par les objectifs de recherches, et dénomination du demandeur) sont rendues publique via le Journal officiel de l'Union européenne et Journal officiel de la République Française, en vue notamment de susciter d'éventuelles demandes concurrentes. En application de l'article précité, après la clôture de cette période de concurrence, il est donc prévu une information du public. Durant cette phase, les citoyens auront accès à l'ensemble des informations non confidentielles concernant les demandes. Par ailleurs, le détenteur d'un titre minier doit, pour effectuer les travaux nécessaires à l'exploration ou à l'exploitation de la ressource recherchée, déposer une déclaration afin d'obtenir l'autorisation auprès du préfet concerné. Dans le cas des forages, cette déclaration inclut une enquête publique, en application des décrets du 29 décembre 2011 (décret no 2011-2018 relatif aux opérations susceptibles d'affecter l'environnement). Enfin, suite à la loi no 2011-835 du 13 juillet 2011, l'utilisation de la fracturation hydraulique pour l'exploration/production du gaz ou de l'huile de schiste est interdite en France, le Gouvernement reste opposé à l'exploration/production de cette ressource fossile dans notre pays et la police des mines est vigilante dans les contrôles des opérations qui sont menées.
