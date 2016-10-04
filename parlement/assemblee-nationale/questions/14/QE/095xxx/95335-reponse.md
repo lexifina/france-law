@@ -1,0 +1,9 @@
+# Réponse à la question n° 95335
+
+- Question : [95335](95335.md) — Question n° 95335 — détenus palestiniens; attitude de la France
+
+## Réponse
+
+*JO du 2016-10-04*
+
+La France est préoccupée par la situation des mineurs palestiniens emprisonnés par Israël. Elle suit avec une attention particulière ceux qui sont en détention administrative et dont le nombre n'a cessé d'augmenter ces derniers mois. Tant à titre national qu'avec ses partenaires européens, elle continue de rappeler à Israël que les conditions de détention des détenus palestiniens, surtout lorsqu'ils sont mineurs, doivent être conformes aux obligations prévues par les conventions internationales. La détention administrative doit rester une mesure d'exception, d'une durée limitée, et s'effectuer dans le respect des droits du détenu et du droit à un procès équitable dans un délai raisonnable. La France appelle les autorités israéliennes à garantir aux mineurs emprisonnés des conditions de détention décentes, respectueuses de leur dignité et de leur intégrité. Pour appuyer ces appels répétés, la France a voté le 25 mars 2015 en faveur de la résolution du Conseil des droits de l'Homme qui exigeait un plus grand respect des droits fondamentaux dans les Territoires palestiniens. Plus généralement, consciente du caractère intenable de l'impasse politique actuelle, la France reste déterminée à relancer une dynamique de paix crédible. C'est le sens de l'initiative qu'elle porte aujourd'hui. Elle a organisé le 3 juin une réunion ministérielle visant à mobiliser la communauté internationale autour de la création d'un Etat palestinien indépendant, viable et souverain, vivant en paix et en sécurité aux côtés d'Israël. Elle poursuit sans relâche ses efforts pour organiser d'ici la fin de l'année 2016 une conférence internationale rassemblant autour des parties leurs principaux partenaires, notamment américains, européens et arabes, avec l'objectif de faire aboutir la solution à deux Etats.
