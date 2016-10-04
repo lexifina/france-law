@@ -1,0 +1,9 @@
+# Réponse à la question n° 61093
+
+- Question : [61093](61093.md) — Question n° 61093 — développement; rapport; recommandations
+
+## Réponse
+
+*JO du 2016-10-04*
+
+Ouvert aux jeunes de 16 à 25 ans révolus sortis du système scolaire sans qualification ni diplôme ou sans avoir obtenu le baccalauréat, le parcours d'accès aux carrières de la fonction publique territoriale, hospitalière et de l'Etat (PACTE) permet un recrutement dans les corps et cadres d'emplois de la catégorie C de la fonction publique, via un contrat de droit public donnant vocation à être titularisé. Destiné à des jeunes qui se sont éloignés du système éducatif, il vise à limiter le phénomène des surdiplômés et à réaliser la meilleure adéquation possible entre le profil des jeunes bénéficiaires et les emplois proposés. Depuis sa mise en œuvre (début 2006), cette nouvelle voie a permis un peu plus de 3 000 recrutements et représentait, suivant les années, de 8 à 16 % des offres de recrutement externes en catégorie C (corps administratifs et techniques) au sein de la fonction publique de l'Etat. Les ministères les plus impliqués dans ce dispositif sont ceux chargés respectivement de la défense, de l'éducation nationale et des finances. Le taux de titularisation des agents est de 70 à 75 % en moyenne. Si les premières années du PACTE ont permis d'envisager une pérennisation de ce dispositif, il connaît aujourd'hui une certaine érosion (584 offres de recrutement en 2009, 323 en 2015). Aussi, pour redonner du dynamisme au PACTE, dans un objectif d'insertion des publics les plus éloignés de la fonction publique et conformément aux orientations définies dans le cadre des comités interministériels égalité et citoyenneté, le projet de loi « égalité et citoyenneté » prévoit de l'ouvrir plus largement à des jeunes gens âgés de 28 ans au plus, dans les trois versants de la fonction publique de l'Etat, territoriale et hospitalière.
