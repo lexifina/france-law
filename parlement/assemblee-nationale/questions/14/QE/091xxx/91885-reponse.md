@@ -1,0 +1,9 @@
+# Réponse à la question n° 91885
+
+- Question : [91885](91885.md) — Question n° 91885 — cotisations salariales; baisse; coût
+
+## Réponse
+
+*JO du 2016-10-04*
+
+A l'instar de ce qui était envisagé pour les salariés du secteur privé, l'objectif du Gouvernement était d'introduire un dispositif dégressif de diminution des cotisations salariales dans la fonction publique afin de redonner du pouvoir d'achat aux agents les moins bien rémunérés. Le Conseil constitutionnel a invalidé le dispositif envisagé dans sa décision du 6 août 2014 au motif d'une rupture du principe d'égalité. Le Gouvernement a pris acte de cette décision. Pour soutenir le pouvoir d'achat des agents publics, et notamment des bas salaires, le Gouvernement a conduit plusieurs réformes dans le respect des engagements pris à l'issue de la grande conférence sociale des 9 et 10 juillet 2012. Le chantier « Parcours professionnels, mobilité et carrières, rémunérations » a été inscrit à l'Agenda social de la fonction publique, afin de définir un accord-cadre sur les rémunérations et la politique salariale dans la fonction publique pour les années 2015 à 2017. Le protocole qui en résulte prévoit notamment une revalorisation des grilles des agents de catégorie C, B et A entre le 1er janvier 2017 et le 1er janvier 2020, ainsi que la transformation d'une partie des primes en points d'indice entre 2016 et 2018. Dans la continuité, lors du rendez-vous salarial qui a réuni, le 17 mars 2016, les organisations syndicales et les employeurs de la fonction publique, le Gouvernement a annoncé une revalorisation du point d'indice de la fonction publique de + 0,6 % à compter du 1er juillet 2016 et de + 0,6 % à compter du 1er février 2017. Enfin, le Gouvernement a également décidé de prolonger en 2016 le dispositif de la garantie individuelle du pouvoir d'achat, qui est reconduit chaque année depuis 2008.
