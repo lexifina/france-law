@@ -1,0 +1,9 @@
+# Réponse à la question n° 46331
+
+- Question : [46331](46331.md) — Question n° 46331 — instances consultatives; multiplicité
+
+## Réponse
+
+*JO du 2016-10-04*
+
+Le Gouvernement a engagé un important effort de rationalisation des commissions consultatives de l'État. Engagé par la circulaire du 30 novembre 2012 relative à la réduction du nombre des commissions consultatives et par le CIMAP du 18 décembre 2012, qui s'est traduit d'abord par les suppressions et regroupements décidés lors des comités interministériels de la modernisation de l'action publique (CIMAP) intervenus les 2 avril 2013 et 17 juillet 2013. En outre, présenté en Conseil des ministres le 13 novembre 2015, le décret portant suppression de commissions administratives à caractère consultatif procède à la suppression de 28 commissions administratives à caractère consultatif et abroge les textes relatifs à 7 commissions qui n'ont pas été prolongées au-delà de 2015. Avec l'entrée en vigueur de l'ensemble des dispositions du décret, le nombre des commissions et instances consultatives ou délibératives placées directement auprès du Premier ministre ou des ministres ou de la Banque de France s'élève désormais à 480, contre 670 commissions à la mi-2012. Ces décisions visent, au total, la disparition, par suppression ou par fusion, de près de 200 instances consultatives, soit une diminution de plus de 25 % de leur nombre. Cet effort a permis que la plupart des commissions maintenues soient celles qui constituent, pour les ministères, des enceintes utiles au débat sur des projets de textes avec les représentants des différents intérêts en présence. Il se poursuivra d'un point de vue quantitatif, dans le cadre du réexamen périodique de l'utilité des commissions, mais aussi dans sa dimension qualitative, en veillant à enrichir et diversifier les modes de consultation et en recourant à des procédés plus innovants de consultation.
