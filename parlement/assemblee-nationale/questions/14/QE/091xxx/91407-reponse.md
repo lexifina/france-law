@@ -1,0 +1,9 @@
+# Réponse à la question n° 91407
+
+- Question : [91407](91407.md) — Question n° 91407 — tarifs; fournisseur; choix; copropriété; réglementation
+
+## Réponse
+
+*JO du 2016-10-04*
+
+Le choix d'un nouveau contrat d'énergie, pour les copropriétés, nécessite un vote en assemblée générale. Il s'agit d'un acte d'administration qui relève de la majorité de l'article 24 de la loi du 10 juillet 1965 (vote à la majorité des présents et représentés sans prendre en compte les abstentionnistes). Pour accompagner la suppression des tarifs réglementés de vente d'électricité et de gaz, le Gouvernement a mis en place, dès 2014, en collaboration avec la commission de régulation de l'énergie et le médiateur national de l'énergie, différents outils d'information disponibles en particulier sur le site energie-info.fr, qui traitent notamment des contraintes spécifiques aux copropriétés. Il est conseillé aux copropriétés de demander des offres à plusieurs fournisseurs. Cependant, les prix proposés dans les offres peuvent avoir une durée de validité courte, qui n'est pas compatible avec les délais de convocation des assemblées générales. Dans ce cas, il est conseillé de soumettre à l'assemblée générale une présélection de quelques fournisseurs sur le fondement de critères techniques tels que la fréquence d'évolution des prix, la durée d'engagement, les services associés… puis que l'assemblée générale accorde une délégation de pouvoir au conseil syndical (ou éventuellement au syndic) pour finaliser la mise en concurrence afin de retenir celui qui présentera le meilleur prix. Ce mandat doit être voté à la majorité absolue de tous les copropriétaires présents, représentés ou absents (article 25 de la loi du 10 juillet 1965). Pour être valable, il doit être l'objet d'un projet de résolution dans l'ordre du jour qui accompagne la convocation à l'assemblée générale et un montant maximum de dépense doit être fixé.
