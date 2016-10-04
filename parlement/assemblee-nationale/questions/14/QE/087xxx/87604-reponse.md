@@ -1,0 +1,9 @@
+# Réponse à la question n° 87604
+
+- Question : [87604](87604.md) — Question n° 87604 — rapport; proposition
+
+## Réponse
+
+*JO du 2016-10-04*
+
+Afin d'évaluer de façon approfondie le temps de travail dans les trois versants de la fonction publique, le gouvernement a demandé à M. Philippe Laurent, président du conseil supérieur de la fonction publique territoriale, un rapport relatif au temps de travail dans la fonction publique. M. Laurent a remis son rapport le jeudi 26 mai 2016 à la ministre de la fonction publique. Le rapport dresse une évaluation complète du temps de travail dans la fonction publique. Il apparaît en premier lieu que les fonctionnaires respectent très largement la durée légale de travail à 35 heures par semaine ou 1 607 heures par an. Il précise que des régimes dérogatoires à la règle des 35 heures existent et se justifient par la nature des missions, avec une propension significativement plus forte des agents publics à travailler de nuit ou le dimanche, en comparaison avec le secteur privé. Le rapport montre également certains dysfonctionnements. Le contenu du rapport ainsi que les 34 préconisations qu'il comporte, ont été présentées et débattues avec les organisations syndicales et les employeurs publics en conseil commun de la fonction publique lors de la séance du 27 juin 2016. La première proposition du rapport est d'assurer systématiquement l'exploitation des principales enquêtes de la statistique publique puis la diffusion de leurs résultats concernant le temps de travail dans la fonction publique. La seconde prévoit une production annuelle d'une analyse du temps de travail par emploi type public/privé sur la base de l'enquête emploi de l'Insee. La ministre va rencontrer les représentants des employeurs publics et des organisations syndicales dès septembre 2016 pour débattre du rapport et aboutir à des mesures concrètes d'ici la fin de l'année 2016.
