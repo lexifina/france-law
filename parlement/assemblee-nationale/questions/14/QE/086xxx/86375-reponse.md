@@ -1,0 +1,9 @@
+# Réponse à la question n° 86375
+
+- Question : [86375](86375.md) — Question n° 86375 — pertinence
+
+## Réponse
+
+*JO du 2016-10-04*
+
+Le Gouvernement n'a pas l'intention de modifier le fonctionnement du supplément familial de traitement (SFT) à ce stade. Une réforme du SFT nécessite une concertation approfondie et un travail collectif avec les partenaires sociaux. L'agenda social actuel ne permet pas, pour le moment, de lancer une réforme importante du SFT.
