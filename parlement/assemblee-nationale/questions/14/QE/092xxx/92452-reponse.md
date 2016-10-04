@@ -1,0 +1,9 @@
+# Réponse à la question n° 92452
+
+- Question : [92452](92452.md) — Question n° 92452 — Corse; collecte et traitement
+
+## Réponse
+
+*JO du 2016-10-04*
+
+La Corse rencontre actuellement des problèmes majeurs de gestion de ses déchets ménagers, qui vont prochainement conduire à une situation de crise plus importante que celle rencontrée l'an passé. La saturation des décharges de l'île pourrait ainsi aboutir, dès la période estivale, à des risques sanitaires importants, avec une prolifération de dépôts sauvages de déchets. Cette crise environnementale aura par ailleurs des conséquences fortes d'un point de vue touristique et économique. La ministre de l'environnement, de l'énergie et de la mer, chargée des relations internationales sur le climat, a voulu que la loi relative à la transition énergétique pour la croissance verte contienne un volet sur l'économie circulaire et a lancé différentes actions pour réduire la production de déchets et favoriser leur recyclage. Quatre territoires, en Corse, sont engagés dans la démarche zéro gaspillage zéro déchet et la première réponse à la situation décrite passe bien par le renforcement de telles actions. Il est important que les acteurs compétents proposent des actions concrètes et fortes à destination des particuliers, comme la distribution de composteurs, pour avancer rapidement sur cette voie. La Corse aujourd'hui a une marge de progrès importante. Cependant, une solution est à trouver pour le traitement en Corse des déchets résiduels qui y sont produits. Ce point relève de la compétence des communes et de leurs groupements qui ont à choisir le mode de traitement le plus adapté au contexte territorial. Le rapport du conseil général de l'environnement et du développement durable (CGEDD) mentionné constitue une contribution utile. L'État est mobilisé sur le sujet afin de contribuer à faire émerger le plus rapidement possible une solution partagée.
