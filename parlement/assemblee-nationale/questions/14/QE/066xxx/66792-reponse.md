@@ -1,0 +1,9 @@
+# Réponse à la question n° 66792
+
+- Question : [66792](66792.md) — Question n° 66792 — sédiments pollués; responsabilités
+
+## Réponse
+
+*JO du 2016-10-04*
+
+La question de la gestion des sédiments pollués extraits lors de curages de certaines installations ou ouvrages privés est une question à laquelle le Gouvernement est très attentif. Toutefois, la responsabilité du pollueur est en général difficile à établir s'agissant d'ailleurs souvent de pollutions diffuses. L'ouvrage ou l'installation engendre cependant souvent une accumulation de sédiments susceptible d'aggraver les effets de cette pollution et obligeant à sortir ces sédiments. Selon la jurisprudence du Conseil d'État, sont responsables des déchets les producteurs ou autres détenteurs connus des déchets. En leur absence, le propriétaire du terrain sur lequel ils ont été déposés peut être regardé comme leur détenteur au sens de l'article L. 541-2 du code de l'environnement. À ce titre, il peut être contraint de les éliminer, notamment s'il a fait preuve de négligences. Aucune réglementation ne traite vraiment de la problématique du partage de la charge d'analyse et de gestion des sédiments extraits entre les différents responsables potentiels de la pollution ni de la prise en charge publique de cette gestion. La solution demeure amiable et des solutions et collaborations peuvent être trouvées au niveau local. Notamment, cette question pourrait être abordée par les collectivités dans le cadre de la mise en œuvre de la compétence de la gestion des milieux aquatiques et prévention des inondations (GEMAPI) dès lors qu'il s'agit d'entretien de cours d'eau. La réduction à la source des pollutions demeure cependant la meilleure réponse à moyen terme ainsi que des mesures permettant d'éviter le blocage et l'accumulation des sédiments en assurant une plus grande transparence des ouvrages artificiels vis-à-vis du transport solide.
