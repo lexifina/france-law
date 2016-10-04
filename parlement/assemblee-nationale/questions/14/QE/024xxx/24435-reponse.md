@@ -1,0 +1,9 @@
+# Réponse à la question n° 24435
+
+- Question : [24435](24435.md) — Question n° 24435 — développement
+
+## Réponse
+
+*JO du 2016-10-04*
+
+L'article 133 de la loi no 2012-347 du 12 mars 2012 relative à l'accès à l'emploi titulaire et à l'amélioration des conditions d'emploi des agents contractuels dans la fonction publique, à la lutte contre les discriminations et portant diverses dispositions relatives à la fonction publique a instauré la possibilité, pour les agents publics civils et les magistrats, d'exercer leurs fonctions dans le cadre du télétravail dans des conditions fixées par décret en Conseil d'Etat, pris après concertation avec les organisations syndicales représentatives de la fonction publique. Dans ce cadre, le décret no 2016-151 du 11 février 2016 relatif aux conditions et modalités de mise en œuvre du télétravail dans la fonction publique et la magistrature, pris après concertation avec les employeurs et les représentants des personnels, publié au Journal officiel de la République française le 12 février 2016, vise à unifier les règles encadrant le télétravail. Dans le respect des principes édictés par ce décret, chaque employeur définit les modalités de mise en œuvre du télétravail au sein de ses services. Pour accompagner les employeurs et informer les agents, un guide a été élaboré par la Direction générale de l'administration et de la fonction publique, en association avec les représentants des employeurs des trois versants de la fonction publique et après concertation avec les organisations syndicales. S'appuyant sur les retours d'expériences des administrations et du secteur privé qui ont expérimenté ce mode d'organisation du travail, ce guide rappelle et explicite la réglementation applicable, formule un certain nombre de recommandations et propose des fiches pratiques sur certains aspects techniques.
