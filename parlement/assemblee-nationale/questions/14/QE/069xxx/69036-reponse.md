@@ -1,0 +1,9 @@
+# Réponse à la question n° 69036
+
+- Question : [69036](69036.md) — Question n° 69036 — agents publics; départs volontaires
+
+## Réponse
+
+*JO du 2016-10-04*
+
+Le décret no 2009-1594 du 18 décembre 2009 instituant une indemnité de départ volontaire dans la fonction publique territoriale précise les conditions selon lesquelles un agent démissionnaire de la fonction publique territoriale peut, sous certaines conditions, percevoir une indemnité de départ volontaire, si une délibération le prévoit. Il institue une indemnité de départ volontaire qui peut être attribuée aux fonctionnaires et agents non titulaires recrutés à durée indéterminée quittant la fonction publique territoriale à la suite d'une démission régulièrement acceptée. En application du principe de libre administration des collectivités territoriales, la collectivité employeur ne peut être tenue de verser à un agent cette indemnité dès lors qu'elle n'a pas délibéré sur la mise en œuvre de ce dispositif. Le principe est celui d'un dispositif incitatif et volontaire, qui doit résulter d'un accord entre l'agent et son administration. Le versement de l'indemnité de départ volontaire est soumis à certaines conditions concernant le statut de l'agent, le motif de son départ et l'accord de la collectivité territoriale. Le versement d'une indemnité de départ est donc une possibilité et non une obligation pour la collectivité. L'indemnité de départ peut être attribuée si l'agent démissionne pour l'un des motifs suivants : réaliser un projet personnel (reconversion professionnelle, projet familial…), créer ou reprendre une entreprise, à la suite de la restructuration de son service. Le montant de l'indemnité est déterminé au cas par cas, et peut varier selon l'ancienneté de l'agent dans l'administration. Il ne peut dépasser un montant maximum fixé à 2 fois la rémunération brute annuelle perçue pendant l'année civile précédant la démission.
