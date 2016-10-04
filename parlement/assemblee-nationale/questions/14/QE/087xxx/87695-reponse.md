@@ -1,0 +1,9 @@
+# Réponse à la question n° 87695
+
+- Question : [87695](87695.md) — Question n° 87695 — exonération; compensation
+
+## Réponse
+
+*JO du 2016-10-04*
+
+Conformément aux engagements pris par le Gouvernement en faveur de l'emploi dans les très petites entreprises (TPE) et dans les petites et moyennes entreprises (PME) le 9 juin 2015, le seuil d'assujettissement au versement destiné au financement des transports en commun des entreprises passe de plus de 9 salariés à au moins 11 salariés. Cette mesure conduisant néanmoins à une perte de recettes pour l'ensemble des autorités organisatrices de la mobilité, le syndicat des transports d'Ile-de-France, la métropole de Lyon ou l'autorité organisatrice de transports urbains qui s'est substituée à la métropole de Lyon et les syndicats mixtes de transport, l'article 15 de la loi de finances pour 2016 introduit une compensation intégrale de la perte de recettes prenant la forme d'un prélèvement sur les recettes de l'Etat. Les autorités organisatrices de la mobilité et la collectivité subissant une perte de recette résultant de la réduction du champ des employeurs assujettis au versement transport bénéficieront ainsi d'une compensation égale à la différence entre le produit de versement transport recouvré chaque année et celui qui aurait été perçu en application des dispositions applicables jusqu'au 31 décembre 2015. Une mission d'accompagnement a été confiée par le Gouvernement au Conseil général de l'environnement et du développement durable (CGEDD) et à l'Inspection générale des affaires sociales (IGAS) afin de définir les modalités de mise en œuvre opérationnelle de la compensation compte tenu des données sociales disponibles et en l'attente de la généralisation de la déclaration sociale nominative. Sur la base de ses préconisations, des ajustements pourront être apportés en loi de finances afin de fiabiliser les modalités de la compensation liée à la modification du seuil d'exonération.
