@@ -1,0 +1,9 @@
+# Réponse à la question n° 80097
+
+- Question : [80097](80097.md) — Question n° 80097 — barrage de Sivens; abandon du projet; perspectives
+
+## Réponse
+
+*JO du 2016-10-04*
+
+Fin 2014, un dramatique événement se produisait sur le site du chantier du barrage de Sivens dans le Tarn. Suite à cet événement, le conseil départemental a abandonné le projet initial. L'État s'est engagé à accompagner financièrement le département pour solder financièrement les opérations déjà mises en œuvre au titre du projet initial et qui ne pourront pas être redéployées pour réaliser le nouveau projet. Il a ainsi proposé l'élaboration d'un protocole transactionnel en contrepartie de l'abandon définitif et irrévocable des travaux et de tout recours indemnitaire contre l'État. Aucune subvention n'avait été versée au porteur de projet ou son concessionnaire. En ce qui concerne les suites, les inspecteurs ont esquissé des solutions possibles dont une retenue de taille plus faible placée à proximité du projet initial. Depuis juin 2015, seules les retenues de stockages d'eau établies dans le cadre de projet de territoire pourront être subventionnées par les agences de l'eau. Ces projets de territoire doivent avoir pour objectif une gestion équilibrée de la ressource en eau, être le fruit d'une concertation associant tous les acteurs du territoire, comprendre un volet de diminution des prélèvements totaux et étudier les alternatives à la création de nouvelles retenues. Les agences de l'eau n'interviendront que sur la substitution de prélèvements estivaux par des prélèvements hivernaux, et non sur de la création de volumes supplémentaires. Sur le Tescou, de nouvelles réflexions sont lancées dans le cadre d'un projet de territoire. S'ils respectent les conditions de l'instruction de juin 2015, les nouveaux travaux pourront être subventionnés par l'agence de l'eau Adour Garonne.
