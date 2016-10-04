@@ -1,0 +1,9 @@
+# Réponse à la question n° 80465
+
+- Question : [80465](80465.md) — Question n° 80465 — urbanistes; modalités; perspectives
+
+## Réponse
+
+*JO du 2016-10-04*
+
+Le décret no 87-1099 du 30 décembre 1987 modifié portant statut particulier du cadre d'emplois des attachés territoriaux permet aux titulaires de diplômes universitaires en urbanisme de présenter le concours d'attaché territorial dans la spécialité « urbanisme et développement des territoires ». De façon générale, les titulaires de diplômes de niveau I (master) sont nombreux à se présenter au concours externe d'attaché territorial. Le rapport du président du jury des concours externe, interne et du 3ème concours d'attaché territorial organisés en 2014 par le centre interdépartemental de gestion de la petite couronne d'Ile-de-France, souligne que 47 % des candidats et 53 % des lauréats - toutes spécialités confondues - détiennent ce niveau de diplôme. Aussi, dans un souci d'équité notamment entre les spécialités du concours, il ne peut être envisagé de créer une voie de recrutement spécifique réservée aux titulaires d'un master déterminé, qu'ils aient la mention « urbanisme et aménagement en sciences humaines et sociales » ou une autre mention, même si une certification professionnelle lui était reconnue. Quant au recours à des contractuels par les collectivités territoriales, le nombre de postes à pourvoir aux concours est déterminé en application de l'article 43 de la loi no 84-53 du 26 janvier 1984 portant dispositions statuaires de la fonction publique territoriale qui dispose que le nombre des postes ouverts à un concours tient compte notamment des besoins prévisionnels recensés par les collectivités territoriales et leurs établissements. Ainsi, afin d'augmenter les recrutements de titulaires dans le domaine de l'urbanisme et du développement des territoires, il appartient aux employeurs locaux de faire état de leurs besoins auprès des centres de gestion.
