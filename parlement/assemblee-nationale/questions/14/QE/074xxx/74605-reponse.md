@@ -1,0 +1,9 @@
+# Réponse à la question n° 74605
+
+- Question : [74605](74605.md) — Question n° 74605 — gardes-champêtres; police territoriale; intégration; perspectives
+
+## Réponse
+
+*JO du 2016-10-04*
+
+Les gardes-champêtres ont bénéficié des mêmes revalorisations indiciaires que les autres agents de la catégorie C de la fonction publique au 1er février 2014, puis au 1er janvier 2015, dans le cadre de l'application du décretn° 2014-80 du 29 janvier 2014 modifiant les dispositions indiciaires applicables aux agents de la catégorie C et de la catégorie B de la fonction publique territoriale. Le décret no 2016-604 du 12 mai 2016 fixant les différentes échelles de rémunération pour les fonctionnaires de catégorie C de la fonction publique territoriale, publié au Journal Officiel du 14 mai 2016, prévoit également des mesures de revalorisations dans le cadre du protocole parcours professionnels, carrière et rémunération (PPCR) au 1er janvier 2017, au 1er janvier 2018, au 1er janvier 2019 et au 1er janvier 2020. La proposition de loi des sénateurs Pillet et Vandierendonck visant, notamment, à rapprocher le cadre d'emplois des agents de police municipale et le cadre d'emplois des gardes-champêtres, a été adoptée par le Sénat en première lecture puis renvoyée à la commission des lois constitutionnelles, de la législation et de l'administration générale conformément à l'article 36, alinéa 18 du règlement de l'Assemblée nationale. S'agissant d'une proposition de loi déposée sur le bureau de l'Assemblée nationale, la date de sa discussion en commission, puis en séance publique, doit être fixée par la conférence des présidents de cette assemblée dans le cadre fixé par la Constitution. Or, le rapprochement des cadres d'emplois des gardes-champêtres et des agents de police municipaux et une éventuelle évolution de leurs missions ne pourront s'effectuer que dans ce cadre puisque ces modifications nécessitent des mesures d'ordre législatif.
