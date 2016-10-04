@@ -1,0 +1,9 @@
+# Réponse à la question n° 98662
+
+- Question : [98662](98662.md) — Question n° 98662 — collecte et traitement; financement
+
+## Réponse
+
+*JO du 2016-10-04*
+
+Les travaux de ré-agrément des filières à responsabilité élargie du producteur des emballages ménagers, et des papiers graphiques, lancés depuis septembre 2015, ont pris la forme d'une large concertation avec les différentes parties prenantes, en particulier avec les représentants des collectivités. Les nouvelles orientations issues de la loi de transition énergétique pour la croissance verte (en particulier l'extension du tri des plastiques à l'ensemble du territoire et les objectifs ambitieux de recyclage), de la loi portant nouvelle organisation territoriale de la République (NOTRe) (en particulier sur les nouvelles compétences des conseils régionaux en matière de planification) et des travaux européens basés sur le projet proposé par la Commission européenne en décembre 2015 sont prises en compte dans ces travaux de ré-agrément. Ce renouvellement d'agrément doit, en effet, être l'occasion de donner une impulsion complémentaire pour la mise en œuvre de la loi de transition énergétique pour une croissance verte qui a fixé un cap important pour la transition de la France vers une économie circulaire. Le tri et recyclage des déchets doit devenir la règle, l'élimination doit devenir l'exception. Plusieurs mesures fortes sont prévues dans la loi pour créer les conditions de cette transition (extension du tri à tous les plastiques d'ici 2022, mise en place du tri des biodéchets d'ici 2025, etc.). La ministre de l'environnement, de l'énergie et de la mer, chargée des relations internationales sur le climat, veillera au bon équilibre entre moyens financiers des collectivités et maîtrise des charges pour les entreprises dans les décisions qui seront rendues au mois de septembre.
