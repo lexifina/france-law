@@ -422,7 +422,7 @@ Les parties s'accordent à fixer la rémunération comme suit (rayer les mention
 
 9. Frais et honoraires imputables aux seuls copropriétaires
 
-Le coût des prestations suivantes est imputable au seul copropriétaire concerné et non au syndicat des copropriétaires qui ne peut être tenu d'aucune somme à ce titre.
+Le coût des prestations suivantes est imputable au seul copropriétaire concerné.
 
 PRESTATIONS |
 
@@ -462,9 +462,7 @@ Etablissement de l'état daté ;
 
 (Nota.-Le montant maximum applicable aux honoraires d'établissement de l'état daté, fixé en application du décret prévu à l'article 10-1 b de la loi du 10 juillet 1965 s'élève à la somme de).
 
-Opposition sur mutation (article 20 I de la loi du 10 juillet 1965) ;
-
-Délivrance du certificat prévu à l'article 20 II de la loi du 10 juillet 1965.
+Opposition sur mutation (article 20 I de la loi du 10 juillet 1965).
 
 |
 
@@ -712,4 +710,4 @@ VI-28° contrôle d'activité du personnel du syndicat.
 
 NOTA :
 
-Conformément à l'article 3 du décret n° 2015-342 du 26 mars 2015, les dispositions du présent décret sont applicables aux contrats de syndic conclus ou renouvelés après le 1er juillet 2015.
+Conformément à l'article 1er de la décision du Conseil d'Etat nos 390465-390491 du 5 octobre 2016 : Au point 9.2 du contrat type, les mots : " Délivrance du certificat prévu à l'article 20 II de la loi du 10 juillet 1965 " sont annulés en tant qu'ils figurent à l'article du contrat type relatif aux frais et honoraires imputables aux seuls copropriétaires concernés. Le même contrat type est annulé en tant qu'il omet de comporter la mention des frais afférents à la tenue d'un compte bancaire séparé.
