@@ -1,0 +1,9 @@
+# Réponse à la question SEQ160622543
+
+- Question : [SEQ160622543](seq160622543.md) — Particuliers en difficulté auprès d'Électricité de France
+
+## Réponse
+
+*Environnement, énergie et mer, JO du 2016-10-06, page 4313*
+
+La lutte contre la précarité énergétique est l'une des priorités du Gouvernement. Ainsi, l'article 201 de la loi relative à la transition énergétique pour la croissance verte (TECV) a créé le chèque énergie. Ce nouveau dispositif vise à améliorer les dispositifs de tarifs sociaux de l'énergie. Le chèque énergie sera attribué sur la base d'un critère fiscal unique et mieux ciblé sur les ménages les plus précaires. Il permettra aux bénéficiaires de régler leur facture d'énergie, quel que soit leur moyen de chauffage (électricité, gaz, fioul, bois…). En outre, s'ils le souhaitent, les bénéficiaires pourront utiliser le chèque pour financer une partie des travaux d'économies d'énergie qu'ils engagent dans leur logement. Le chèque énergie est mis en place progressivement sur quatre départements expérimentaux (Ardèche, Aveyron, Côtes-d'Armor et Pas-de-Calais), en remplacement des tarifs sociaux, avant d'être généralisé. D'autre part, l'article 202 de cette même loi limite désormais à 14 mois le délai pendant lequel un fournisseur d'énergie peut demander un rattrapage de facturation. Jusqu'alors, cette limite n'existait pas, ce qui, pouvait entraîner des rattrapages très importants de nature à déséquilibrer le budget des ménages, notamment les plus modestes. Concernant les demandes de rééchelonnement de dettes, EDF reçoit chaque année environ un million de demandes, auquel l'opérateur répond favorablement dans plus de 70 % des cas. La protection des consommateurs vulnérables sera un point clé du futur contrat de service public en cours de négociation avec l'entreprise.
