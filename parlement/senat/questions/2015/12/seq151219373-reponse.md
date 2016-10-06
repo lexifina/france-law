@@ -1,0 +1,9 @@
+# Réponse à la question SEQ151219373
+
+- Question : [SEQ151219373](seq151219373.md) — Conflit social à la clinique du Pont de Chaume dans le Tarn-et-Garonne
+
+## Réponse
+
+*Travail, emploi, formation professionnelle et dialogue social, JO du 2016-10-06, page 4332*
+
+Il existe dans le code du travail des procédures de règlement des conflits collectifs qui peuvent permettre aux parties de sortir du conflit par la négociation, telles que la conciliation (articles L. 2522-1 et suivants et R. 2522-1 et suivants du code du travail) ou la médiation (articles L. 2523-1 et suivants et R. 2523-1 et suivants du code du travail). D'autres procédures plus informelles font intervenir un tiers (souvent l'inspecteur du travail) choisi par les parties ou imposé par l'administration. Dans de nombreux cas, l'intervention de ce « tiers conciliateur/médiateur » permet aux parties de trouver une solution opportune à ces conflits. Ainsi, le recours à une médiation a eu lieu dans ce conflit. L'agent de contrôle de l'inspection du travail chargé du suivi de l'entreprise et le responsable de l'unité départementale ont organisé de nombreuses réunions de conciliation pour accompagner la négociation d'un accord de fin de conflit. Ces interventions ont été effectuées sous l'autorité du préfet de département. À la suite de cette première procédure amiable, le préfet de département a désigné un deuxième médiateur qui a assuré sa mission du 19 au 27 novembre 2015. Compte tenu de l'échec de cette deuxième procédure, le préfet de département a proposé une intervention commune des deux médiateurs qui a été acceptée par les parties et qui a abouti à un accord de fin de conflit le 11 décembre 2015 après 51 jours de grève. Ainsi, cette situation atteste d'un nombre d'outils important à la disposition des partenaires sociaux et de l'efficacité de ceux-ci dans la résolution d'un conflit collectif.
