@@ -1,0 +1,9 @@
+# Réponse à la question SEQ150717089
+
+- Question : [SEQ150717089](seq150717089.md) — Fraude à l'assurance chômage
+
+## Réponse
+
+*Travail, emploi, formation professionnelle et dialogue social, JO du 2016-10-06, page 4331*
+
+La fraude aux prestations d'assurance chômage détectée annuellement a atteint environ 169 millions d'euros en 2015. Or, pour détecter ces fraudes et rassembler les éléments de preuve, Pôle emploi, contrairement aux organismes de sécurité sociale notamment, ne bénéficie pas d'un droit de communication qui lui permettrait d'avoir accès aux données d'organismes privés extérieurs. Par ailleurs, l'instauration d'un tel droit au profit des agents de Pôle emploi est une recommandation de la Cour des comptes (rapport public annuel du 11 février 2014). La demande de Pôle emploi d'accéder à ce nouvel outil juridique paraît par conséquent pleinement justifiée. Ce droit permettra l'accès sur demande à des informations auprès d'établissements bancaires, de fournisseurs d'énergie ou de télévision. Il pourra servir à contrôler qu'un montant précis a été versé sur un compte déterminé, élément de nature à prouver une activité professionnelle non déclarée ou, a contrario, à s'assurer de la réalité d'une activité déclarée. Il pourra également être utilisé pour vérifier une domiciliation. Enfin, ce droit pourra subsidiairement être exercé vis-à-vis de personnes physiques ou morales qui versent des revenus ou rémunérations. Pôle emploi pourrait ainsi obtenir la preuve du versement de sommes permettant de caractériser des cumuls de rémunérations à des allocations. Un article du projet de loi relatif à la transparence et à la modernisation de la vie économique visait à octroyer ce droit de communication auprès des tiers aux agents de Pôle emploi agréés et assermentés. Cet article a cependant été supprimé lors de son examen par la Commission des lois.
