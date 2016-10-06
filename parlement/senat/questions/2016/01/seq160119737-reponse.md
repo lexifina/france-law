@@ -1,0 +1,9 @@
+# Réponse à la question SEQ160119737
+
+- Question : [SEQ160119737](seq160119737.md) — Veilles des appareils électriques
+
+## Réponse
+
+*Environnement, énergie et mer, JO du 2016-10-06, page 4305*
+
+Les économies d'énergie sont l'un des axes prioritaires de la transition énergétique : elles apportent en même temps pouvoir d'achat pour les ménages, compétitivité pour les entreprises, innovation et création d'activité économique. Les appareils en veille représentent une consommation d'électricité conséquente à l'échelle du pays. Pour informer et orienter les particuliers sur les moyens de réduire leurs consommations, en particulier sur les dépenses inutiles, l'agence de l'environnement et de la maîtrise de l'énergie (Ademe) élabore des guides thématiques et mène régulièrement des campagnes d'information. Des dispositifs de suivi des consommations peuvent également contribuer à la prise de conscience des consommateurs, et orienter, à travers une meilleure information vers des comportements plus vertueux. Leur installation est notamment soutenue par le dispositif des certificats d'économies d'énergie. Les travaux dans le cadre de la directive 2009/125/CE relative à l'écoconception des produits ont déjà permis de limiter à travers des règlements adoptés en 2008 puis en 2013 les consommations des produits en mode veille, ainsi que les consommations des dispositifs d'alimentation. Ce sont ainsi plus de 4,6 milliards d'appareils dans les foyers et au bureau (téléviseurs, ordinateurs, radios réveils, etc.) qui ont été impactés par ces dispositions. Ces travaux permettent d'améliorer continûment l'efficacité énergétique des appareils mis sur le marché. Enfin la mobilisation des acteurs locaux, en particulier dans les territoires à énergie positive pour la croissance verte doit également permettre d'informer et d'orienter les citoyens vers des actions d'économies d'énergie.
