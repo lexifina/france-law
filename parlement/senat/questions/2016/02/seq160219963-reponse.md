@@ -1,0 +1,9 @@
+# Réponse à la question SEQ160219963
+
+- Question : [SEQ160219963](seq160219963.md) — Application du protocole « parcours carrières et rémunération »
+
+## Réponse
+
+*Fonction publique, JO du 2016-10-06, page 4323*
+
+Le protocole parcours professionnels, carrières et rémunérations vise à reconnaitre l'engagement quotidien des fonctionnaires au service de leurs concitoyens. La priorité du Gouvernement a d'abord concerné les plus bas salaires. Les grilles de la catégorie C ont été revalorisées en février 2014 et en janvier 2015. À l'issue de ces deux revalorisations, les agents de catégorie C ont bénéficié en moyenne d'une augmentation annuelle de 612 euros bruts. Le protocole appelé « PPCR » (Parcours professionnels, carrières et rémunérations), préparé dans un dialogue constant avec les employeurs publics et les partenaires sociaux durant plus d'un an, est un plan structurant et cohérent de refonte des grilles de salaires. Il va se traduire dans les quatre prochaines années par de nouvelles grilles indiciaires adaptées à l'évolution des métiers et des qualifications et à la durée des carrières. Il restaure les écarts entre les catégories statutaires et au sein de chaque catégorie, offrant aux agents de nouvelles perspectives de déroulement de carrières. Les 45 premiers décrets relatifs au PPCR ont été publiés fin mai 2016. Ils concernent près de 750 000 agents des trois versants de la fonction publique (catégorie B, catégorie A des secteurs paramédicaux et sociaux). Ces textes réglementaires d'application du protocole font l'objet d‘un examen en conseil national d'évaluation des normes ; les projets soumis à cette instance sont tous accompagnés de fiches d'impact en mesurant les conséquences financières. Les employeurs publics, tout en ne méconnaissant par le coût traduit par cette revalorisation des carrières, ont reconnu la légitimité de cette démarche.
