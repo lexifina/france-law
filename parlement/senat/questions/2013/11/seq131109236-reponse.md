@@ -1,0 +1,9 @@
+# Réponse à la question SEQ131109236
+
+- Question : [SEQ131109236](seq131109236.md) — Allaitement et législation du travail
+
+## Réponse
+
+*Fonction publique, JO du 2016-10-06, page 4316*
+
+En matière d'allaitement, la circulaire FP/4 n° 1864 du 9 août 1995 relative au congé de maternité ou d'adoption et autorisations d'absence liées à la naissance pour les fonctionnaires et agents de l'État, précise que restent applicables en ce domaine les dispositions de l'instruction n° 7 du 23 mars 1950 pour l'application des dispositions du statut général des fonctionnaires relatives aux congés annuels et autorisations exceptionnelles d'absence. Ces dispositions prévoient « [qu'] il n'est pas possible, en l'absence de dispositions particulières, d'accorder d'autorisations spéciales aux mères allaitant leur enfant, tant en raison de la durée de la période d'allaitement que de la fréquence des absences nécessaires. Toutefois, les administrations possédant une organisation matérielle appropriée à la garde des enfants devront accorder aux mères la possibilité d'allaiter leur enfant. À l'instar de la pratique suivie dans certaines entreprises, les intéressées bénéficieront d'autorisations d'absence, dans la limite d'une heure par jour à prendre en deux fois ». Par ailleurs, la circulaire du 9 août 1995 précise également que des facilités de service peuvent être accordées aux mères en raison de la proximité du lieu où se trouve l'enfant (crèche ou domicile voisin, etc.). Ces dispositions sont effectivement en décalage avec les règles inscrites dans le code du travail. Une évolution des autorisations d'absence liées à l'allaitement pourra être envisagée dans le cadre d'une réflexion d'ensemble relative aux conditions de travail et à l'amélioration de la conciliation entre la vie professionnelle et la vie familiale lors de la naissance ou de l'accueil d'un enfant.
