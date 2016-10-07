@@ -20,13 +20,7 @@ Catégorie
 
 FONCTIONS IMPLIQUANT UNE TECHNICITE PARTICULIERE
 
-|
-
-|
-
 AU TITRE DE LA MODERNISATION
-
-|
 
 |
 
@@ -38,7 +32,7 @@ A
 
 |
 
-Administrateur des systèmes d'information et de communication
+Administrateur des systèmes d’information et de communication
 
 |
 
@@ -62,13 +56,7 @@ A
 
 |
 
-|
-
-|
-
 AU TITRE DES ATTRIBUTIONS FINANCIERES COMPTABLES ET JURIDIQUES
-
-|
 
 |
 
@@ -104,17 +92,11 @@ B
 
 |
 
-|
+FONCTIONS ASSORTIES DE CONTRAINTES PARTICULIERES
 
 |
 
-FONCTION ASSORTIE DE CONTRAINTES PARTICULIERES
-
-|
-
-|
-
-Adjoint au chef de bureau
+Adjoint au chef de bureau chargé des ressources humaines
 
 |
 
@@ -130,7 +112,7 @@ A
 
 |
 
-Chef de la section des ressources humaines
+Chef du service de la correspondance
 
 |
 
@@ -186,9 +168,7 @@ B
 
 |
 
-FONCTION D'ACCUEIL
-
-|
+FONCTIONS D’ACCUEIL
 
 |
 
@@ -218,7 +198,7 @@ C
 
 .
 
-INSPECTION GENERALE DE L'ADMINISTRATION
+INSPECTION GENERALE DE L’ADMINISTRATION
 
 |
 
@@ -246,7 +226,7 @@ AU TITRE DES ATTRIBUTIONS FINANCIERES, COMPTABLES ET JURIDIQUES
 
 |
 
-Gestionnaire en charge de la carrière et de la rémunération des membres du corps de l'IGA
+Gestionnaire en charge de la carrière et de la rémunération des membres du corps de l’IGA
 
 |
 
@@ -254,7 +234,7 @@ B
 
 |
 
-FONCTIONS NOTAMMENT D'ENCADREMENT ASSORTIES DE CONTRAINTES ET DE RESPONSABILITES PARTICULIERES
+FONCTIONS NOTAMMENT D’ENCADREMENT ASSORTIES DE CONTRAINTES ET DE RESPONSABILITES PARTICULIERES
 
 |
 
@@ -286,7 +266,7 @@ Catégorie
 
 |
 
-FONCTION ASSORTIE DE CONTRAINTES PARTICULIERES
+FONCTIONS ASSORTIES DE CONTRAINTES PARTICULIERES
 
 |
 
@@ -326,7 +306,7 @@ Secrétaire du secrétaire général
 
 |
 
-C
+B
 
 |
 
@@ -342,11 +322,11 @@ AU TITRE DES COMPETENCES TECHNIQUES
 
 |
 
-Chargé de mission "archives et ressources documentaires" chargé de l'accompagnement et de la sécurité des systèmes d'information
+Adjointe au chef de cabinet en charge de la politique de sécurité des systèmes informatiques
 
 |
 
-B
+A
 
 |
 
@@ -378,13 +358,21 @@ FONCTIONS IMPLIQUANT UNE TECHNICITE PARTICULIERE
 
 |
 
-AU TITRE DES COMPETENCES TECHNIQUES
+AU TITRE DES ATTRIBUTIONS FINANCIERES, COMPTABLES ET JURIDIQUES
 
 |
 
 |
 
-FONCTION ASSORTIE DE CONTRAINTES PARTICULIERES
+Coordinateur d’administration générale
+
+|
+
+B
+
+|
+
+FONCTIONS ASSORTIES DE CONTRAINTES PARTICULIERES
 
 |
 
@@ -412,21 +400,13 @@ C
 
 |
 
-Secrétaire du directeur
-
-|
-
-C
-
-|
-
 .
 
 SECRETARIAT GENERAL
 
 |
 
-DIRECTION DE LA MODERNISATION ET DE L'ADMINISTRATION TERRITORIALE
+DIRECTION DE LA MODERNISATION ET DE L’ADMINISTRATION TERRITORIALE
 
 |
 
@@ -462,7 +442,7 @@ A
 
 |
 
-Chargé de la qualité et des procédures de l'administration territoriale
+Chargé de la qualité et des procédures de l’administration territoriale
 
 |
 
@@ -532,7 +512,7 @@ B
 
 |
 
-Chargé des statistiques, de la cartographie et de l'analyse démographique et électorale
+Chargé des statistiques, de la cartographie et de l’analyse démographique et électorale
 
 |
 
@@ -540,7 +520,7 @@ A
 
 |
 
-Adjoint technico-fonctionnel au chef de département "projet et développement des applications"
+Adjoint technico-fonctionnel au chef de département projet et développement des applications
 
 |
 
@@ -548,7 +528,7 @@ A
 
 |
 
-FONCTION ASSORTIE DE CONTRAINTES PARTICULIERES
+FONCTIONS ASSORTIES DE CONTRAINTES PARTICULIERES
 
 |
 
@@ -572,7 +552,7 @@ Secrétaire du directeur
 
 |
 
-C
+B
 
 |
 
@@ -604,13 +584,7 @@ FONCTIONS IMPLIQUANT UNE TECHNICITE PARTICULIERE
 
 |
 
-AU TITRE DE LA MODERNISATION
-
-|
-
-|
-
-Assistante "GRH" du chef de cabinet (DIR)
+Assistant GRH du chef de cabinet (DIR)
 
 |
 
@@ -618,7 +592,7 @@ A
 
 |
 
-Chef du pôle concours (BRPP/SDRF)
+Chef de la section des concours (BRPP)
 
 |
 
@@ -626,15 +600,7 @@ A
 
 |
 
-Chef de la section formation continue (BF/SDRF)
-
-|
-
-A
-
-|
-
-Chef de la section des ressources documentaires, du multimédia et de la logistique du CNF (BRIA/SDRF)
+Chef de la section production et animations pédagogiques (BCNF/SDRF)
 
 |
 
@@ -648,23 +614,7 @@ AU TITRE DES ATTRIBUTIONS FINANCIERES COMPTABLES ET JURIDIQUES
 
 |
 
-Encadrement et instructions dossiers pensions, adjoint chef de secteur (BPAI) (SDASAP)
-
-|
-
-B
-
-|
-
-Chef de la section des achats et de la gestion financière (BRIA/SDRF)
-
-|
-
-B
-
-|
-
-Adjoint au chef du bureau des formations (BF/SDRF)
+Chef de la section pilotage des ressources et suivi de l’activité (BPPF/SDRF)
 
 |
 
@@ -672,7 +622,31 @@ A
 
 |
 
-Chef de la section prise de poste du bureau des formations (BF/SDRF)
+Encadrement et instructions dossiers pensions, adjoint chef de secteur (BPAI/SDASAP)
+
+|
+
+B
+
+|
+
+Chef de la section pilotage du réseau (BPPF/SDRF)
+
+|
+
+A
+
+|
+
+Adjoint au chef du bureau du pilotage et de la politique de formation (BPPF/SDRF)
+
+|
+
+A
+
+|
+
+Chef de la section organisation des stages ( BCNF/SDRF)
 
 |
 
@@ -688,7 +662,7 @@ A
 
 |
 
-Adjoint au chef du bureau des ressources, de l'information et de l'accueil (BRIA/SDRF)
+Adjoint au chef du bureau du centre national de la formation (BCNF/SDRF)
 
 |
 
@@ -724,7 +698,7 @@ Chef de la section paie des personnels techniques, contractuels, spécialisés, 
 
 |
 
-B
+A
 
 |
 
@@ -737,14 +711,6 @@ A
 |
 
 Chef de la section paie des actifs de la police nationale (BPRI)
-
-|
-
-B
-
-|
-
-Chef de la section "pilotage des programmes" (BPRI)
 
 |
 
@@ -864,7 +830,7 @@ A
 
 |
 
-Adjoint au chef de la section des personnels techniques chargé des personnels techniques A et B et des ouvriers d'Etat (BPTS)
+Adjoint au chef de la section des personnels techniques chargé des personnels techniques A et B et des ouvriers d’Etat (BPTS)
 
 |
 
@@ -952,6 +918,14 @@ A
 
 |
 
+Chef de la section délégués du Préfet et pilotage stratégique (BPA)
+
+|
+
+A
+
+|
+
 Adjoint au chef de la mission du pilotage de la fonction RH ministérielle (MGMRH)
 
 |
@@ -960,7 +934,7 @@ A
 
 |
 
-Adjoint au chef du BGPRH
+Chef de mission (GPEEC/MGMRH)
 
 |
 
@@ -984,7 +958,21 @@ A
 
 |
 
-Chef de la section promotion professionnelle (BRPP/SDRF)
+AU TITRE DES COMPETENCES TECHNIQUES
+
+|
+
+|
+
+Chef de la section de la préparation aux concours (BRPP/SDRF)
+
+|
+
+B
+
+|
+
+Chargé de projet sur les questions transversales auprès de la SDRF(SDRF)
 
 |
 
@@ -992,21 +980,13 @@ A
 
 |
 
-Chef de la section pilotage des ressources (BF/SDRF)
-
-|
-
-A
-
-|
-
-FONCTION D'ACCUEIL
+FONCTIONS D’ACCUEIL
 
 |
 
 |
 
-Correspondant handicap national (BPSH) (SDASAP)
+Correspondant handicap national (BCVTPH/SDASAP)
 
 |
 
@@ -1022,13 +1002,13 @@ A
 
 |
 
-FONCTION ASSORTIE DE CONTRAINTES PARTICULIERES
+FONCTIONS ASSORTIES DE CONTRAINTES PARTICULIERES
 
 |
 
 |
 
-Adjoint au chef de bureau (BPSH) (SDASAP)
+Adjoint au chef de bureau (BCVTPH/SDASAP)
 
 |
 
@@ -1052,7 +1032,7 @@ A
 
 |
 
-Chef de secteur (BPSH) (SDASAP)
+Adjoint au chef de bureau (BPPS/SDASAP)
 
 |
 
@@ -1060,7 +1040,15 @@ A
 
 |
 
-Chef de secteur (BPSH) (SDASAP)
+Chef de section (BCVTPH/SDASAP)
+
+|
+
+A
+
+|
+
+Chef de section (BPPS/SDASAP)
 
 |
 
@@ -1068,7 +1056,7 @@ B
 
 |
 
-Chef de secteur (BPSH) (SDASAP)
+Chef de section (BAFED) (SDASAP)
 
 |
 
@@ -1076,9 +1064,11 @@ B
 
 |
 
-Chef de secteur (BAFED) (SDASAP)
+Chef de cabinet
 
 |
+
+A
 
 |
 
@@ -1100,15 +1090,7 @@ Secrétariat du sous-directeur (DIR)
 
 |
 
-B
-
-|
-
-Adjoint au chef de cabinet
-
-|
-
-A
+C
 
 |
 
@@ -1126,7 +1108,7 @@ SECRETARIAT GENERAL
 
 |
 
-DIRECTION DE L'EVALUATION DE LA PERFORMANCE, DES AFFAIRES FINANCIERES ET IMMOBILIERES
+DIRECTION DE L’ EVALUATION DE LA PERFORMANCE, DES AFFAIRES FINANCIERES ET IMMOBILIERES
 
 |
 
@@ -1176,7 +1158,7 @@ AU TITRE DES ATTRIBUTIONS FINANCIERES, COMPTABLES ET JURIDIQUES
 
 |
 
-Adjoint au chef du bureau de la gestion des sites de l'administration centrale (BGSAC)
+Adjoint au chef du bureau de la gestion des sites de l’administration centrale (BGSAC)
 
 |
 
@@ -1200,7 +1182,7 @@ A
 
 |
 
-Chef du pôle "Demandes de Paiements" au centre des prestations financières (CPFI)
+Chef du pôle Demandes de Paiements au centre des prestations financières (CPFI)
 
 |
 
@@ -1208,7 +1190,7 @@ A
 
 |
 
-Adjoint au chef du bureau du fonctionnement et de l'investissement des programmes (BFIP)
+Adjoint au chef du bureau du fonctionnement et de l’investissement des programmes (BFIP)
 
 |
 
@@ -1224,7 +1206,7 @@ A
 
 |
 
-Chef du pôle "marché" au centre des prestations financières (CPFI)
+Chef du pôle marché au centre des prestations financières (CPFI)
 
 |
 
@@ -1232,7 +1214,7 @@ A
 
 |
 
-Chef du pôle "hors marché" au centre des prestations financières (CPFI)
+Chef du pôle hors marché au centre des prestations financières (CPFI)
 
 |
 
@@ -1240,7 +1222,7 @@ A
 
 |
 
-Chef du pôle "Recettes au centre des prestations financières (CPFI)
+Chef du pôle Recettes au centre des prestations financières (CPFI)
 
 |
 
@@ -1264,7 +1246,7 @@ A
 
 |
 
-Adjoint au Chef du bureau du système d'information financière (BSIF)
+Adjoint au Chef du bureau du système d’information financière (BSIF)
 
 |
 
@@ -1286,7 +1268,15 @@ A
 
 |
 
-FONCTION ASSORTIE DE CONTRAINTES PARTICULIERES
+Adjoint au chef du bureau de la performance et de la gestion des programmes (BPGP)
+
+|
+
+A
+
+|
+
+FONCTIONS ASSORTIES DE CONTRAINTES PARTICULIERES
 
 |
 
@@ -1306,21 +1296,11 @@ B
 
 |
 
-Assistante de direction
-
-|
-
-C
-
-|
-
-.
-
 SECRETARIAT GENERAL
 
 |
 
-DIRECTION DES SYSTEMES D'INFORMATION ET DE COMMUNICATION
+DIRECTION DES SYSTEMES D’INFORMATION ET DE COMMUNICATION
 
 |
 
@@ -1364,7 +1344,7 @@ A
 
 |
 
-chargé du suivi des effectifs et des compétences, et de l'accueil des stagiaires
+chargé du suivi des effectifs et des compétences, et de l’accueil des stagiaires
 
 |
 
@@ -1380,15 +1360,15 @@ A
 
 |
 
+Chef de la section Programmation financière
+
+|
+
+A
+
+|
+
 Chargé de la mise en œuvre des nouvelles procédures budgétaires et financières
-
-|
-
-B
-
-|
-
-Chargé de la mise en œuvre des nouvelles procédures bugétaires et financières
 
 |
 
@@ -1420,7 +1400,7 @@ B
 
 |
 
-FONCTIOS NOTAMMENT D'ENCADREMENT ASSORTIE DE CONTRAINTES ET DE RESPONSABILITES PARTICULIERES
+FONCTIONS NOTAMMENT D’ENCADREMENT ASSORTIES DE CONTRAINTES ET DE RESPONSABILITES PARTICULIERES
 
 |
 
@@ -1474,7 +1454,7 @@ A
 
 |
 
-Responsable de l'équipe d'intervention du site Beauvau
+Responsable de l’équipe d’intervention du site Beauvau
 
 |
 
@@ -1482,7 +1462,7 @@ B
 
 |
 
-Responsable de l'équipe d'intervention du site Lumière
+Responsable de l’équipe d’intervention du site Lumière
 
 |
 
@@ -1490,7 +1470,7 @@ B
 
 |
 
-Chef du bureau du pilotage et de la coordination (sous-direction des infrastructures)
+Chef de la section exécution financière
 
 |
 
@@ -1498,7 +1478,7 @@ A
 
 |
 
-Chef du bureau de l'achat, du contrôle de gestion et de l'optimisation des moyens
+Chef du bureau de l’achat, du contrôle de gestion et de l’optimisation des moyens
 
 |
 
@@ -1534,7 +1514,7 @@ SECRETARIAT GENERAL
 
 |
 
-DELEGATION A L'INFORMATION ET A LA COMMUNICATION
+DELEGATION A L’INFORMATION ET A LA COMMUNICATION
 
 |
 
@@ -1550,7 +1530,7 @@ Catégorie
 
 |
 
-FONCTION ASSORTIE DE CONTRAINTES PARTICULIERES
+FONCTIONS ASSORTIES DE CONTRAINTES PARTICULIERES
 
 |
 
@@ -1582,7 +1562,7 @@ AU TITRE DES COMPETENCES TECHNIQUES
 
 |
 
-Assistant soutien et conception de stand à l'unité de l'atelier évènementiel de la DICOM
+Adjoint au chef de la division des ateliers événementiels
 
 |
 
@@ -1609,10 +1589,6 @@ Catégorie
 |
 
 FONCTIONS IMPLIQUANT UNE TECHNICITE PARTICULIERE
-
-|
-
-|
 
 AU TITRE DE LA MODERNISATION
 
@@ -1644,7 +1620,7 @@ B
 
 |
 
-Responsable du bureau d'ordre de la direction
+Responsable du bureau d’ordre de la direction
 
 |
 
@@ -1658,7 +1634,7 @@ AU TITRE DES COMPETENCES TECHNIQUES
 
 |
 
-Responsable de l'élaboration informatisée des passeports de service
+Responsable de l’élaboration informatisée des passeports de service
 
 |
 
@@ -1666,7 +1642,7 @@ C
 
 |
 
-Responsable de l'élaboration informatisée des passeports de service
+Responsable de l’élaboration informatisée des passeports de service
 
 |
 
@@ -1674,7 +1650,7 @@ C
 
 |
 
-Responsable de l'élaboration informatisée des passeports de service
+Responsable de l’élaboration informatisée des passeports de service
 
 |
 
@@ -1704,7 +1680,7 @@ A
 
 |
 
-Chef de la section comptabilité au bureau du contentieux indemnitaire et des affaires financières
+Chef de la section comptabilité à la mission du pilotage et de l’appui juridique aux territoires
 
 |
 
@@ -1720,7 +1696,7 @@ B
 
 |
 
-Référent juridique pour les mesures individuelles d'expulsion des étrangers et les interdictions du territoire
+Référent juridique pour les mesures individuelles d’expulsion des étrangers et les interdictions du territoire
 
 |
 
@@ -1728,23 +1704,15 @@ A
 
 |
 
-FONCTION ASSORTIE DE CONTRAINTES PARTICULIERES
+FONCTIONS ASSORTIES DE CONTRAINTES PARTICULIERES
 
 |
 
 |
 
-EMPLOI DE SECRETARIAT
+EMPLOIS DE SECRETARIAT
 
 |
-
-|
-
-Secrétaire du directeur des libertés publiques et des affaires juridiques
-
-|
-
-C
 
 |
 
@@ -1756,7 +1724,15 @@ B
 
 |
 
-Secrétaire à la sous-diretion du conseil juridique et du contentieux
+Secrétaire du directeur des libertés publiques et des affaires juridiques
+
+|
+
+B
+
+|
+
+Secrétaire à la sous-direction du conseil juridique et du contentieux
 
 |
 
@@ -1788,17 +1764,13 @@ Catégorie
 
 FONCTIONS IMPLIQUANT UNE TECHNICITE PARTICULIERE
 
-|
-
-|
-
 AU TITRE DE LA MODERNISATION
 
 |
 
 |
 
-Directeur d'application Dialogue de la DRCPN
+Directeur d’application Dialogue de la DRCPN
 
 |
 
@@ -1806,7 +1778,7 @@ A
 
 |
 
-Adjoint au chef du bureau des gradés et gardiens de la paix de la sous-direction de l'administration des ressources humaines
+Adjoint au chef du bureau des gradés et gardiens de la paix de la sous-direction de l’administration des ressources humaines
 
 |
 
@@ -1890,15 +1862,15 @@ A
 
 |
 
-Référent revenu de solidarité active - interventions des collectivités dans le secteur social
+Responsable des ressources humaines
 
 |
 
-A
+B
 
 |
 
-Correspondant "Chorus"gestion des concours financiers de l'Etat
+Correspondant Chorus gestion des concours financiers de l’Etat
 
 |
 
@@ -1914,7 +1886,7 @@ C
 
 |
 
-Responsable de la gouvernance des systèmes d'information et de communication
+Responsable de la gouvernance des systèmes d’information et de communication
 
 |
 
@@ -1922,7 +1894,7 @@ A
 
 |
 
-Assistant local sécurité des systèmes d'information
+Assistant local sécurité des systèmes d’information
 
 |
 
@@ -1952,7 +1924,7 @@ A
 
 |
 
-Secrétariat de la commission nationale d'évaluation des normes
+Secrétariat de la commission nationale d’évaluation des normes
 
 |
 
@@ -1960,7 +1932,7 @@ C
 
 |
 
-Référent mise en œuvre du droit relatif au transfert, à la création et à l'extension des compétences des collectivités territoriales
+Référent mise en œuvre du droit relatif au transfert, à la création et à l’extension des compétences des collectivités territoriales
 
 |
 
@@ -1976,7 +1948,7 @@ A
 
 |
 
-Responsable du pôle financier et logistique
+Adjoint au chef de la section financière et logistique au cabinet du DGCL
 
 |
 
@@ -2034,13 +2006,13 @@ B
 
 |
 
-FONCTION D'ACCUEIL
+FONCTIONS D’ACCUEIL
 
 |
 
 |
 
-Responsable de la coordination du logiciel "Elise" de gestion et de suivi du courrier
+Responsable de la coordination du logiciel Elise de gestion et de suivi du courrier
 
 |
 
@@ -2090,11 +2062,11 @@ Chargé du suivi des dossiers de personnels de la DGSCGC
 
 |
 
-A
+B
 
 |
 
-Chef de la section "gestion des personnels administratifs, techniques STM et SIC, contractuels et ouvriers d'Etat"
+Chef de la section gestion des personnels administratifs, techniques STM et SIC, contractuels et ouvriers d’Etat
 
 |
 
@@ -2116,7 +2088,7 @@ A
 
 |
 
-Suivi du cadre d'emploi des services de santé et du secours médical
+Suivi du cadre d’emploi des services de santé et du secours médical
 
 |
 
@@ -2124,7 +2096,7 @@ C
 
 |
 
-Mise en oeuvre de la procédure de déclaration de l'état de catastrophe naturelle
+Mise en œuvre de la procédure de déclaration de l’état de catastrophe naturelle
 
 |
 
@@ -2132,7 +2104,7 @@ B
 
 |
 
-Mise en oeuvre de la procédure de déclaration de l'état de catastrophe naturelle
+Mise en œuvre de la procédure de déclaration de l’état de catastrophe naturelle
 
 |
 
@@ -2146,7 +2118,7 @@ AU TITRE DES ATTRIBUTIONS FINANCIERES, COMPTABLES ET JURIDIQUES
 
 |
 
-Responsable de la division administrative et financière du Groupement d'hélicoptères
+Responsable de la division administrative et financière du Groupement d’hélicoptères
 
 |
 
@@ -2154,11 +2126,11 @@ B
 
 |
 
-Chargé du suivi des crédits d'étude et des affaires financières
+Chargé du suivi des crédits d’étude et des affaires financières
 
 |
 
-C
+B
 
 |
 
@@ -2178,7 +2150,7 @@ A
 
 |
 
-Adjoint au chef du bureau des statuts et du management, chargé de la définition et mise en œuvre des cadres d'emploi des sapeurs- pompiers territoriaux
+Adjoint au chef du bureau des statuts et du management, chargé de la définition et mise en œuvre des cadres d’emploi des sapeurs- pompiers territoriaux
 
 |
 
@@ -2210,7 +2182,7 @@ B
 
 |
 
-Adjoint du chef du bureau des ressources humaines et financières pour les finances, responsable de l'exécution budgétaire
+Adjoint du chef du bureau des ressources humaines et financières pour les finances, responsable de l’exécution budgétaire
 
 |
 
@@ -2218,21 +2190,13 @@ A
 
 |
 
-FONCTION NOTAMMENT D'ENCADREMENT ASSORTIE DE CONTRAINTES ET DE RESPONSABILITES PARTICULIERES
+FONCTIONS NOTAMMENT D’ENCADREMENT ASSORTIES DE CONTRAINTES ET DE RESPONSABILITES PARTICULIERES
 
 |
 
 |
 
-Directrice adjointe de cabinet (1)
-
-|
-
-A
-
-|
-
-Adjoint du chef du bureau du déminage
+Directrice adjointe de cabinet
 
 |
 
@@ -2248,7 +2212,7 @@ A
 
 |
 
-Emploi de secrétaire du directeur général comportant des obligations spéciales d'horaires atypiques (2)
+Emploi de secrétaire du directeur général comportant des obligations spéciales d’horaires atypiques
 
 |
 
@@ -2256,7 +2220,15 @@ B
 
 |
 
-Emploi de secrétaire du directeur général adjoint comportant des obligations spéciales d'horaires atypiques
+Emploi de secrétaire du directeur général adjoint comportant des obligations spéciales d’horaires atypiques
+
+|
+
+B
+
+|
+
+Emploi de secrétaire du directeur général comportant des obligations spéciales d’horaires atypiques
 
 |
 
@@ -2264,7 +2236,7 @@ C
 
 |
 
-Emploi de secrétaire du directeur général comportant des obligations spéciales d'horaires atypiques
+Emploi de secrétaire du directeur général comportant des obligations spéciales d’horaires atypiques
 
 |
 
@@ -2302,7 +2274,7 @@ AU TITRE DES COMPETENCES TECHNIQUES
 
 |
 
-Emploi nécessitant l'utilisation de compétences techniques très particulières - utilisation du prompteur - graphisme - logistique
+Emploi nécessitant l’utilisation de compétences techniques très particulières - utilisation du prompteur - graphisme - logistique
 
 |
 
@@ -2318,13 +2290,13 @@ A
 
 |
 
-FONCTION ASSORTIE DE CONTRAINTES PARTICULIERES
+FONCTIONS ASSORTIES DE CONTRAINTES PARTICULIERES
 
 |
 
 |
 
-Emploi d'adjoint au chef de service
+Emploi d’adjoint au chef de service
 
 |
 
@@ -2488,7 +2460,7 @@ AU TITRE DES COMPETENCES TECHNIQUES
 
 |
 
-Chargé du suivi de l'application informatique système national des permis de conduire
+Chargé du suivi de l’application informatique système national des permis de conduire
 
 |
 
@@ -2512,6 +2484,8 @@ C
 
 |
 
+.
+
 Annexe II
 
 PREFECTURE DE PARIS
@@ -2531,10 +2505,6 @@ Catégorie
 |
 
 FONCTIONS IMPLIQUANT UNE TECHNICITE PARTICULIERE
-
-|
-
-|
 
 AU TITRE DE LA MODERNISATION
 
@@ -2574,7 +2544,7 @@ B
 
 |
 
-Gestionnaire courrier - responsable de la section courrier
+Gestionnaire courrier – responsable de la section courrier
 
 |
 
@@ -2582,7 +2552,7 @@ C
 
 |
 
-Gestionnaire courrier - adjoint au responsable de la section courrier
+Gestionnaire courrier – adjoint au responsable de la section courrier
 
 |
 
@@ -2700,7 +2670,7 @@ B
 
 |
 
-Adjointe à la mission régionale achat - SGAR Île-de-France
+Adjointe à la mission régionale achat – SGAR Île-de-France
 
 |
 
@@ -2972,7 +2942,7 @@ A
 
 |
 
-Adjoint au chef de département de l'administration et de la qualité, chef du bureau des affaires juridiques
+Adjoint au chef de département de l’administration et de la qualité, chef du bureau des affaires juridiques
 
 |
 
@@ -2986,7 +2956,7 @@ AU TITRE DES COMPETENCES TECHNIQUES
 
 |
 
-Adjoint au chef du département de l'exploitation des bâtiments
+Adjoint au chef du département de l’exploitation des bâtiments
 
 |
 
