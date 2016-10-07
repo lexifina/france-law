@@ -306,9 +306,7 @@ Un officier du grade de colonel de la branche considérée, à défaut, désign�
 
 Cinq officiers supérieurs désignés par le commandant du soutien opérationnel de la gendarmerie nationale.
 
-Un officier supérieur de la direction de la coopération internationale.
-
-Un officier supérieur du commandement de la gendarmerie prévôtale.
+Un officier supérieur de chaque service comptant au moins un sous-officier de gendarmerie remplissant les conditions statutaires pour être promu au grade supérieur (direction de la coopération internationale, commandement de la gendarmerie prévôtale, commandement spécialisé pour la sécurité nucléaire).
 
 Ces membres sont désignés par le directeur des personnels militaires de la gendarmerie nationale.
 
@@ -350,7 +348,7 @@ L'officier de gendarmerie adjoint au sous-directeur de la gestion du personnel.
 
 Le chef du bureau du personnel sous-officier de gendarmerie et volontaire.
 
-Un officier supérieur de la gendarmerie nationale par formation concernée désigné par le directeur des personnels militaires de la gendarmerie nationale.
+Un officier supérieur de la gendarmerie nationale par formation concernée comptant au moins un sous-officier de gendarmerie remplissant les conditions statutaires pour être promu au grade supérieur. Ces membres sont désignés par le directeur des personnels militaires de la gendarmerie nationale.
 
 |
 
