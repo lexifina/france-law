@@ -8,17 +8,17 @@ Bas-Rhin, Haut-Rhin, Meurthe-et-Moselle, Meuse, Moselle, Vosges.
 
 Le préfet du bassin viticole est le préfet de la région Alsace.
 
-B. ― Le conseil de bassin viticole Aquitaine
+B.-Le conseil de bassin viticole Aquitaine.
 
 Il comprend :
 
-― les départements suivants :
+-les départements suivants :
 
-― Dordogne, à l'exclusion du canton de Saint-Aulaye, Gironde ;
+-Corrèze, Dordogne, à l'exclusion du canton de Saint-Aulaye, Gironde ;
 
-― les cantons et les parties de cantons du département de Lot-et-Garonne suivants :
+-les communes du département de Lot-et-Garonne suivantes :
 
-― les cantons de Bouglon, Casteljaloux, Damazan (uniquement les communes de Puch-d'Agenais, Ambrus, Damazan, Saint-Pierre-de-Buzet, Buzet-sur-Baïse, Razimet, Saint-Léon, Caubeyres, Fargues-sur-Ourbise), Duras, Houeilles, Lavardac, Laplume (uniquement les communes de Sérignac-sur-Garonne, Sainte-Colombe-en-Bruilhois), Lauzun (uniquement la commune de Peyriere), Marmande (uniquement les communes de Sainte-Bazeille, Saint-Martin-Petit, Virazeil, Marmande, Mauvezin-sur-Gupie, Beaupuy), Mas-d'Agenais (uniquement la commune de Samazan), Meilhan, Nérac (uniquement les communes de Nérac, Espiens, Moncaut, Montagnac-sur-Auvignon, Calignac), Seyches (uniquement les communes de Escassefort, Lachapelle, Lagupie, Cambes, Saint-Avit, Saint-Géraud, Saint-Pierre-sur-Dropt, Lévignac-de-Guyenne, Seyches, Castelnau-sur-Gupie, Caubon-Saint-Sauveur, Monteton).
+-Antagnac, Allons, Argenton, Auriac-sur-Dropt, Baleyssagues, Beauziac, Boussès, Casteljaloux, Couthures-sur-Garonne, Durance, Duras, Esclottes, Gaujac, Jusix, Fargues-sur-Ourbise, Grézet-Cavagnan, Houeillès, La Réunion, La Sauvetat-du-Dropt, Labastide-Castel-Amouroux, Loubès-Bernac, Moustier, Pardaillan, Pindères, Pompogne, Poussignac, Ruffiac, Saint-Astier, Saint-Jean-de-Duras, Saint-Laurent, Saint-Martin-Curton, Saint-Pierre-sur-Dropt. Saint-Sernin, Sainte-Colombe-de-Duras, Saint-Gemme-Martaillac, Sauméjan, Savignac-de-Duras, Soumensac, Thouars-sur-Garonne, Villeneuve-de-Duras.
 
 Le préfet du bassin viticole est le préfet de la région Aquitaine.
 
@@ -96,17 +96,15 @@ Il comprend les départements suivants :
 
 Le préfet du bassin viticole est le préfet de la région Languedoc-Roussillon.
 
-H. ― Le conseil de bassin viticole Sud-Ouest
+H.-Le conseil de bassin viticole Sud-Ouest.
 
 Il comprend :
 
-― les départements suivants :
+-les départements suivants :
 
-― Ariège, Aveyron, Cantal, Gers, Haute-Garonne, Landes, Lot, Hautes-Pyrénées, Pyrénées-Atlantiques, Tarn, Tarn-et-Garonne ;
+-Ariège, Aveyron, Cantal, Gers, Haute-Garonne, Landes, Lot, Hautes-Pyrénées, Pyrénées-Atlantiques, Tarn, Tarn-et-Garonne ;
 
-― les cantons ou les parties de cantons du département de Lot-et-Garonne suivants :
-
-― Agen (5 cantons), Astaffort, Beauville, Cancon, Castelmoron-sur-Lot, Castillonnes, Damazan (uniquement les communes de Monheurt et Saint-Léger), Francescas, Fumel, Laroque-Timbaut, Laplume (uniquement les communes de Moirax, Roquefort, Marmont-Pachas, Estillac, Aubiac, Brax, Laplume), Lauzun (uniquement les communes de Montignac-de-Lauzun, Ségalas, Saint-Pardoux-Isaac, Saint-Colomb-de-Lauzun, Allemans-du-Dropt, Roumagne, Puysserampion, Lavergne, Lauzun, Laperche, Armillac, Agnac, Bourgougnague, Miramont-de-Guyenne), Marmande (uniquement les communes de Gontaud-de-Nogaret, Taillebourg, Saint-Pardoux-du-Breuil, Hautesvignes, Fauguerolles, Birac-sur-Trec, Agmé, Longueville), Mas-d'Agenais (uniquement les communes de Sénestis, Calonges, Caumont-sur-Garonne, Fourques-sur-Garonne, Lagruère, Mas-d'Agenais, Villeton, Sainte-Marthe), Mézin, Monclar, Monflanquin, Nérac (uniquement les communes de Fréchou, Saumont, Andiran), Penne-d'Agenais, Port-Sainte-Marie, Prayssas, Puymirol, Sainte-Livrade-sur-Lot, Seyches (uniquement les communes de Montignac-Tourpinerie, Saint-Barthélemy-d'Agenais, Puymiclan), Tonneins, Tournon-d'Agenais, Villeneuve-sur-Lot Nord, Villeneuve-sur-Lot Sud, Villeréal.
+-le département de Lot-et-Garonne, à l'exception des communes mentionnées au sixième alinéa du B.
 
 Le préfet du bassin viticole est le préfet de la région Midi-Pyrénées.
 
