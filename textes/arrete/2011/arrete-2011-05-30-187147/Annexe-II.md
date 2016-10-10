@@ -114,7 +114,7 @@ Agents en fonctions dans les organismes implantés dans les départements et col
 
 Agents affectés à l'étranger sauf ceux en fonctions en Allemagne
 
-Agents en fonctions au sein de la direction de la protection et de la sécurité de la défense
+Agents en fonctions au sein de la direction du renseignement et de la sécurité de la défense
 
 Agents en fonctions au sein des établissements publics suivants :
 
@@ -436,7 +436,7 @@ Agents en fonctions dans les organismes extérieurs de la direction générale d
 
 -centre technique des systèmes d'information
 
-- service des achats d'armement
+-service des achats d'armement
 
 -service de l'exécution budgétaire et des comptabilités des opérations d'armement
 
@@ -640,7 +640,7 @@ Agents en fonctions dans les organismes implantés dans les départements et col
 
 Agents affectés à l'étranger sauf ceux en fonctions en Allemagne
 
-Agents en fonctions au sein de la direction de la protection et de la sécurité de la défense
+Agents en fonctions au sein de la direction du renseignement et de la sécurité de la défense
 
 Agents en fonctions au sein des établissements publics suivants :
 
@@ -952,7 +952,7 @@ Agents en fonctions dans les organismes extérieurs de la direction générale d
 
 -centre technique des systèmes d'information
 
-- service des achats d'armement
+-service des achats d'armement
 
 -service de l'exécution budgétaire et des comptabilités des opérations d'armement
 
@@ -1192,7 +1192,7 @@ Agents en fonctions dans les organismes implantés dans les départements et col
 
 Agents affectés à l'étranger sauf ceux en fonctions en Allemagne
 
-Agents en fonctions au sein de la direction de la protection et de la sécurité de la défense
+Agents en fonctions au sein de la direction du renseignement et de la sécurité de la défense
 
 Agents en fonctions au sein des établissements publics suivants :
 
@@ -1474,7 +1474,7 @@ Agents en fonctions dans les organismes extérieurs de la direction générale d
 
 -centre technique des systèmes d'information
 
-- service des achats d'armement
+-service des achats d'armement
 
 -service de l'exécution budgétaire et des comptabilités des opérations d'armement
 
@@ -1618,7 +1618,7 @@ Agents en fonctions dans les organismes implantés dans les départements et col
 
 Agents affectés à l'étranger sauf ceux en fonctions en Allemagne
 
-Agents en fonctions au sein de la direction de la protection et de la sécurité de la défense
+Agents en fonctions au sein de la direction du renseignement et de la sécurité de la défense
 
 Agents en fonctions au sein des établissements publics suivants :
 
@@ -1900,7 +1900,7 @@ Agents en fonctions dans les organismes extérieurs de la direction générale d
 
 -centre technique des systèmes d'information
 
-- service des achats d'armement
+-service des achats d'armement
 
 -service de l'exécution budgétaire et des comptabilités des opérations d'armement
 
@@ -2057,7 +2057,3 @@ Technicien paramédical civil
 4 représentants titulaires et 4 représentants suppléants
 
 |
-
-NOTA :
-
-Arrêté du 4 août 2014 article 3 : les modifications des périmètres de compétence prévues dans l'annexe II induites par la mise en œuvre de l'article 2, alinéas 1 et 4 du présent arrêté seront effectives, pour chaque instance, à la date d'entrée en vigueur de l'acte portant nomination des nouveaux membres représentants du personnel élus lors des prochaines élections professionnelles et, au plus tard, le 31 décembre 2014.

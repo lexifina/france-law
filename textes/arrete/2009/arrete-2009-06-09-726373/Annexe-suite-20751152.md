@@ -30,7 +30,7 @@ Directeur central adjoint à la direction centrale du service d'infrastructure d
 
 |
 
-Sous-directeur, adjoint au directeur de la protection et de la sécurité de la défense
+Sous-directeur, adjoint au directeur du renseignement et de la sécurité de la défense
 
 |
 

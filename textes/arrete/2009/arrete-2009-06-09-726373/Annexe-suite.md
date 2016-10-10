@@ -138,7 +138,7 @@ Directeur général des systèmes d'information et de communication de la défen
 
 |
 
-Directeur de la protection et de la sécurité de la défense
+Directeur du renseignement et de la sécurité de la défense
 
 |
 

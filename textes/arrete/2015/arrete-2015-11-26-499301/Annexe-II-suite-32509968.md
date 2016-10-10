@@ -2,11 +2,11 @@
 
 .
 
-DIRECTION DE LA PROTECTION ET DE LA SECURITE DE LA DEFENSE
+DIRECTION U RENSEIGNEMENT ET DE LA SECURITE DE LA DEFENSE
 
 |
 
-DPSD
+DRSD
 
 |
 
@@ -34,7 +34,7 @@ R
 
 |
 
-DPSD
+DRSD
 
 |
 
@@ -62,7 +62,7 @@ T
 
 |
 
-DPSD
+DRSD
 
 |
 
@@ -90,7 +90,7 @@ T
 
 |
 
-DPSD
+DRSD
 
 |
 
@@ -118,7 +118,7 @@ R
 
 |
 
-DPSD
+DRSD
 
 |
 
@@ -146,7 +146,7 @@ R
 
 |
 
-DPSD
+DRSD
 
 |
 
@@ -174,11 +174,11 @@ T
 
 |
 
-DPSD
+DRSD
 
 |
 
-DIRECTION ZONALE DE PROTECTION ET DE SECURITE DE LA DEFENSE SUD ET SUD-EST
+DIRECTION ZONALE DE LA PROTECTION ET DE LA SECURITE DE LA DEFENSE SUD ET SUD-EST
 
 |
 
@@ -685,3 +685,7 @@ R
 2016
 
 |
+
+NOTA :
+
+Conformément à l'article 2 du décret n° 2016-1337 du 7 octobre 2016, les références à la direction de la protection et de la sécurité de la défense sont remplacées par les références à la direction du renseignement et de la sécurité de la défense.

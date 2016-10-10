@@ -54,7 +54,7 @@ Délégué aux systèmes d'information, d'administration et de gestion (SGA)
 
 |
 
-Sous-directeur de la stratégie et des ressources (DPSD)
+Sous-directeur de la stratégie et des ressources (DRSD)
 
 |
 
@@ -450,7 +450,7 @@ Sous-directeur projets (DCSID)
 
 |
 
-Sous-directeur ressources "métier" (DSN)
+Sous-directeur ressources " métier " (DSN)
 
 |
 
@@ -534,7 +534,7 @@ Sous-directeur du budget, des finances et de la comptabilité (SIMMT)
 
 |
 
-Adjoint "offre de soins et expertise" au directeur central du service de santé des armées (DCSSA)
+Adjoint " offre de soins et expertise " au directeur central du service de santé des armées (DCSSA)
 
 |
 
@@ -546,7 +546,7 @@ Adjoint "offre de soins et expertise" au directeur central du service de santé 
 
 |
 
-Adjoint "emploi" au directeur central du service de santé des armées (DCSSA)
+Adjoint " emploi " au directeur central du service de santé des armées (DCSSA)
 
 |
 
@@ -558,7 +558,7 @@ Adjoint "emploi" au directeur central du service de santé des armées (DCSSA)
 
 |
 
-Adjoint "ressources spécialisées" au directeur central du service de santé des armées (DCSSA)
+Adjoint " ressources spécialisées " au directeur central du service de santé des armées (DCSSA)
 
 |
 
@@ -570,7 +570,7 @@ Adjoint "ressources spécialisées" au directeur central du service de santé de
 
 |
 
-Adjoint "personnel et écoles" au directeur central du service de santé des armées (DCSSA)
+Adjoint " personnel et écoles " au directeur central du service de santé des armées (DCSSA)
 
 |
 
@@ -582,7 +582,7 @@ Adjoint "personnel et écoles" au directeur central du service de santé des arm
 
 |
 
-Sous-directeur "appui à l'activité" (DCSSA)
+Sous-directeur " appui à l'activité " (DCSSA)
 
 |
 

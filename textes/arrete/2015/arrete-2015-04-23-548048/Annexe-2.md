@@ -16,9 +16,7 @@ P. 144, P. 146, P. 178, P. 212
 
 |
 
-Direction de la protection et de la sécurité de la défense
-
-|
+Direction du renseignement et de la sécurité de la défense |
 
 P. 144, P. 178, P. 212
 

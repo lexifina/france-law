@@ -1682,7 +1682,7 @@ Niveau II
 
 |
 
-Direction de la Protections et de la Sécurité de la Défense (DPSD)
+Direction du Renseignement et de la Sécurité de la Défense (DRSD)
 
 |
 
@@ -1710,7 +1710,7 @@ Niveau I
 
 |
 
-DPSD
+DRSD
 
 |
 
@@ -1738,7 +1738,7 @@ Niveau I
 
 |
 
-DPSD
+DRSD
 
 |
 
@@ -1766,7 +1766,7 @@ Niveau I
 
 |
 
-DPSD
+DRSD
 
 |
 
@@ -1794,7 +1794,7 @@ Niveau I
 
 |
 
-DPSD
+DRSD
 
 |
 
@@ -1822,7 +1822,7 @@ Niveau I
 
 |
 
-DPSD
+DRSD
 
 |
 
@@ -1850,7 +1850,7 @@ Niveau I
 
 |
 
-DPSD
+DRSD
 
 |
 
@@ -1878,7 +1878,7 @@ Niveau III
 
 |
 
-DPSD
+DRSD
 
 |
 
@@ -1906,7 +1906,7 @@ Niveau II
 
 |
 
-DPSD
+DRSD
 
 |
 
