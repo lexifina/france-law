@@ -1,6 +1,6 @@
 # Article Annexe
 
-I. - Liste des vins rouges tranquilles bénéficiant d'une appellation d'origine protégée pour lesquels un volume complémentaire individuel peut être constitué
+I. - Liste des vins rouges tranquilles bénéficiant d'une appellation d'origine protégée pour lesquels un volume complémentaire individuel peut être constitué :
 
 APPELLATION D'ORIGINE PROTÉGÉE
 
@@ -10,7 +10,7 @@ VOLUME COMPLÉMENTAIRE INDIVIDUEL
 
 maximum de l'appellation pouvant être fixé
 
-pour une récolte donnée (hl/ha)
+pour une récolte donnée (HL/HA)
 
 |
 
@@ -18,7 +18,7 @@ VOLUME COMPLÉMENTAIRE INDIVIDUEL
 
 total maximum de vins pouvant être stockés
 
-par un producteur donné (hl/ha)
+par un producteur donné (HL/HA)
 
 |
 
@@ -142,55 +142,7 @@ Bordeaux supérieur
 
 |
 
-Côtes de Bordeaux
-
-|
-
-5
-
-|
-
-18
-
-|
-
-Blaye Côtes de Bordeaux
-
-|
-
-5
-
-|
-
-18
-
-|
-
-Cadillac Côtes de Bordeaux
-
-|
-
-5
-
-|
-
-18
-
-|
-
-Castillon Côtes de Bordeaux
-
-|
-
-5
-
-|
-
-18
-
-|
-
-Francs Côtes de Bordeaux
+Côtes de Bordeaux suivi ou non d'une dénomination géographique complémentaire
 
 |
 
@@ -346,13 +298,159 @@ Montagne Saint-Emilion
 
 |
 
-Saint-Georges Saint-Emilion |
+Saint-Georges Saint-Emilion
+
+|
 
 5
 
 |
 
 18
+
+|
+
+Bugey suivi de la mention Gamay
+
+|
+
+5
+
+|
+
+15
+
+|
+
+Bugey suivi de la mention Mondeuse
+
+|
+
+5
+
+|
+
+15
+
+|
+
+Bugey suivi de la dénomination complémentaire Montagnieu
+
+|
+
+4
+
+|
+
+14
+
+|
+
+Gaillac
+
+|
+
+5
+
+|
+
+15
+
+|
+
+Lalande de Pomerol
+
+|
+
+5
+
+|
+
+18
+
+|
+
+Pomerol
+
+|
+
+5
+
+|
+
+18
+
+|
+
+Fronsac
+
+|
+
+5
+
+|
+
+18
+
+|
+
+Saint-Emilion grand cru
+
+|
+
+4
+
+|
+
+18
+
+|
+
+Pécharmant
+
+|
+
+4
+
+|
+
+15
+
+|
+
+Rasteau
+
+|
+
+3,5
+
+|
+
+10
+
+|
+
+Beaumes de Venise
+
+|
+
+3,5
+
+|
+
+10
+
+|
+
+Vacqueyras
+
+|
+
+3,5
+
+|
+
+10
 
 |
 
@@ -1239,5 +1337,17 @@ Graves
 |
 
 15
+
+|
+
+Vacqueyras
+
+|
+
+3,5
+
+|
+
+10
 
 |
