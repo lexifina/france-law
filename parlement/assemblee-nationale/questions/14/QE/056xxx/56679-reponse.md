@@ -1,0 +1,9 @@
+# Réponse à la question n° 56679
+
+- Question : [56679](56679.md) — Question n° 56679 — ouverture des droits; obligation alimentaire; harmonisation
+
+## Réponse
+
+*JO du 2016-10-11*
+
+L'allocation de soutien familial (ASF) peut être attribuée aux parents isolés en tant qu'avance sur pension alimentaire impayée, suite à une séparation ou un divorce. Dans ce cas, l'ASF a une nature recouvrable. Sous réserve de respecter les conditions d'ouverture de droit relatives à cette prestation, le versement de l'allocation de soutien familial est assuré jusqu'au mois précédant le vingtième anniversaire de l'enfant. Dès lors qu'un jugement prévoit que la pension alimentaire sera due au-delà de la majorité de l'enfant, l'allocation de soutien familial sera versée sur la base d'un tel jugement jusqu'au vingtième anniversaire de l'enfant. En revanche, lorsque le jugement prévoit la fixation de la contribution jusqu'à la majorité de l'enfant, l'ASF n'est versée que si l'enfant âgé de dix-huit ans engage les démarches en fixation de pension alimentaire à titre personnel. Lorsqu'un jugement conditionne la fin de versement de la pension alimentaire à l'autonomie financière de l'enfant, l'ASF est due jusqu'aux vingt ans de l'enfant. En revanche, en cas de désaccord entre le créancier et le débiteur sur la notion d'autonomie financière, il appartient à la créancière de saisir le juge aux affaires familiales pour mettre fin à ce litige. Le parent créancier pourra toutefois être exonéré de l'obligation de faire fixer une pension alimentaire s'il apporte la preuve que son débiteur d'aliments est hors d'état de faire face à son obligation d'entretien. Depuis la loi de financement de la sécurité sociale pour 2016 qui a généralisé l'expérimentation de la garantie contre les impayés de pensions alimentaires, les conditions dans lesquelles un débiteur peut être qualifié de "hors d'état" sont désormais définies par le décret N°2016-842 du 24 juin 2016.
