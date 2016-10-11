@@ -1,0 +1,9 @@
+# Réponse à la question n° 96339
+
+- Question : [96339](96339.md) — Question n° 96339 — pensions alimentaires; travailleur frontalier en Suisse; saisie sur salaire
+
+## Réponse
+
+*JO du 2016-10-11*
+
+Le recouvrement des créances alimentaires présentant une dimension internationale est règlementé par trois instruments internationaux : - le règlement (CE) no 4/2009 du Conseil du 18 décembre 2008 relatif à la compétence, la loi applicable, la reconnaissance et l'exécution des décisions et la coopération en matière d'obligations alimentaires, - la convention de La Haye du 23 novembre 2007 sur le recouvrement international des aliments destinés aux enfants et à d'autres membres de la famille, - la convention de New York du 20 juin 1956 sur le recouvrement des aliments à l'étranger. La coopération entre les autorités centrales françaises et suisses en la matière est organisée par la convention de New York de 1956, entrée en vigueur en France le 24 juillet 1960 et applicable aux demandes présentées après son entrée en vigueur entre l'Etat d'origine et l'Etat requis quelle que soit la date à laquelle la décision a été rendue. L'Office fédéral de la justice, autorité centrale en matière de recouvrement d'aliments internationaux en Suisse, a été interrogé sur la situation des personnes divorcées dont le conjoint est travailleur frontalier en Suisse. L'autorité centrale française par l'intermédiaire de l'autorité centrale suisse (Office fédéral de la justice) peut requérir la juridiction du lieu du siège social de l'employeur du débiteur d'aliments aux fins de saisie sur salaire. Saisir la juridiction du siège de l'institution de prévoyance est aussi envisageable sous certaines conditions. Avant toute démarche, il est toutefois impératif de s'assurer, auprès de l'Office fédéral de la justice, que le débiteur d'aliments travaille effectivement en Suisse.
