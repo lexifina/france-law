@@ -1,0 +1,9 @@
+# Réponse à la question n° 94390
+
+- Question : [94390](94390.md) — Question n° 94390 — portables; obsolescence programmée
+
+## Réponse
+
+*JO du 2016-10-11*
+
+De façon générale, les consommateurs doivent être informés, avant l'acquisition d'un produit, des éventuelles limitations d'usage ou protections techniques dont il peut être assorti. A cet égard le vendeur est tenu à l'obligation générale d'information précontractuelle prévue par l'article L. 111-1 du code de la consommation. Le non-respect de ces dispositions est passible d'une amende administrative dont le montant peut aller jusqu'à 3 000 € pour une personne physique et 15 000 € pour une personne morale. Les pratiques qui tendraient à tromper le consommateur sur l'aptitude à l'emploi d'un produit pourraient quant à elles relever du délit de tromperie prévu par l'article L. 213-1 du code de la consommation et passible de 2 ans d'emprisonnement au plus et d'une amende de 300 000 € au plus. Dans tous les cas, des dispositions contractuelles qui auraient pour objet ou pour effet de rendre possible la désactivation d'un appareil du seul fait d'une réparation par un tiers, comme rapporté dans le cas d'espèce, sont susceptibles d'être considérées comme des clauses abusives au titre de l'article L. 132-1 du code de la consommation. Les consommateurs qui s'estimeraient victimes de pratiques de ce type peuvent s'adresser aux directions départementales de la protection (de la cohésion sociale) et des populations (DD (CS) PP). Il ressort d'informations recueillies de manière informelle par la DGCCRF que la société Apple a récemment donné des indications sur son site sur la procédure à suivre afin de restaurer le fonctionnement des appareils et délivré une information tendant au dédommagement des utilisateurs qui ont été victimes de la panne considérée (en cas de rachat d'un nouvel appareil suite à cette panne).
