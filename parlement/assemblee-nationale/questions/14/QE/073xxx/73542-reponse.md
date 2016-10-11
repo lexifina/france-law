@@ -1,0 +1,9 @@
+# Réponse à la question n° 73542
+
+- Question : [73542](73542.md) — Question n° 73542 — Pôle emploi; différé d'indemnisation
+
+## Réponse
+
+*JO du 2016-10-11*
+
+Dans sa décision, du 5 octobre 2015, le Conseil d'Etat a annulé l'arrêté d'agrément du 25 juin 2015 en tant qu'il agrée certaines dispositions de la convention du 14 mai 2014 relative à l'indemnisation du chômage jugées illégales. Le Conseil a notamment jugé illégales certaines modalités de calcul du différé spécifique d'indemnisation prévues au paragraphe 2 de l'article 21 du règlement général annexé à la convention du 14 mai 2014 relative à l'indemnisation du chômage. Le Conseil d'Etat n'a pas remis en cause l'instauration du différé mais a annulé cette disposition au motif qu'elle portait atteinte au principe d'égalité et au principe de réparation intégrale du préjudice, pour les salariés des entreprises de moins de 11 salariés ou ayant une ancienneté inférieure à 2 ans dans l'entreprise. Aussi, les partenaires sociaux, qui sont en charge de la détermination des règles d'assurance chômage, ont décidé de négocier un avenant à la convention d'assurance chômage du 14 mai 2014 afin de tirer les conséquences de la décision du Conseil d'Etat. L'avenant du 18 décembre 2015 modifie les stipulations de la convention d'assurance chômage et de ses textes associés jugées illégales. Concernant le différé spécifique d'indemnisation, les partenaires sociaux ont décidé, dans un souci de simplification, d'exclure de l'assiette du différé les indemnités allouées par le juge dans le cadre d'une rupture d'un contrat de travail. Ainsi, la convention d'assurance chômage ne comporte aucune stipulation susceptible de porter atteinte aux droits des salariés à contester leur licenciement devant la juridiction prud'homale. L'avenant du 18 décembre 2015 a été agréé par arrêté du ministre en charge de l'emploi le 29 février 2016.
