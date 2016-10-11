@@ -1,0 +1,9 @@
+# Réponse à la question n° 90782
+
+- Question : [90782](90782.md) — Question n° 90782 — radicalisation; associations; dissolution; bilan
+
+## Réponse
+
+*JO du 2016-10-11*
+
+Les associations qui prônent un islam radical, incitent au jihadisme ou constituent un vecteur d'endoctrinement, font l'objet d'une attention constante. La dissolution d'une association constituant une atteinte aux libertés d'association, d'expression et de réunion, constitutionnellement et conventionnellement protégées, celle-ci doit s'inscrire dans des cas limitativement énumérés par la loi et être strictement proportionnée à la menace pour l'ordre public que représente l'association ou le groupement en cause. Dans ces conditions, le Président de la République peut procéder, par décret en conseil des ministres, à la dissolution administrative d'une association sur le fondement de l'article L. 212-1 du code de la sécurité intérieure. Il peut également procéder, par décret en conseil des ministres, à la dissolution des associations ou groupements de fait qui participent à la commission d'actes portant une atteinte grave à l'ordre public ou dont les activités facilitent cette commission ou y incitent sur le fondement de l'article 6-1 de la loi no 55-385 du 3 avril 1955 relative à l'état d'urgence, dans sa rédaction issue de la loi no 2015-1501 du 20 novembre 2015 prorogeant l'application de cette loi et renforçant l'efficacité de ses dispositions. Aucune association en lien avec l'islam radical n'a été dissoute entre 2007 et 2012. En revanche, depuis 2012, trois associations liées à l'islam radical ont d'ores et déjà été dissoutes. Les associations « Retour aux sources », « Le retour aux sources musulmanes » et l'« Association des musulmans de Lagny-sur-Marne » ont fait l'objet d'une dissolution administrative par décrets du Président de la République des 14 janvier et 6 mai 2016, sur le fondement des 6° et 7° de l'article L. 212-1 du code de la sécurité intérieure.
