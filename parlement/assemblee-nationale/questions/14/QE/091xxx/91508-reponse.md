@@ -1,0 +1,9 @@
+# Réponse à la question n° 91508
+
+- Question : [91508](91508.md) — Question n° 91508 — loi n° 2014-40 garantissant l'avenir et la justice du système de retraites; décrets; publication
+
+## Réponse
+
+*JO du 2016-10-11*
+
+La mise en œuvre de la loi du 20 janvier 2014 garantissant l'avenir et la justice du système de retraites a constitué une priorité de premier ordre pour le ministère en charge des affaires sociales. A ce jour, le taux de publication des textes est de 98%. Seuls des textes devant être publiés en tant que de besoin demeurent à paraître : ils ont vocation à accompagner des changements en cours d'achèvement par les services et opérateurs. La parution rapide des textes a permis à la réforme de produire ses pleins effets. Cette réforme permet d'assurer la pérennité de notre système par répartition : pour la première fois depuis une décennie, la branche retraite du régime général est excédentaire en 2016 et ce redressement s'inscrit dans la durée. Elle a permis en outre de rendre notre système plus jute : la meilleure prise en compte des personnes ayant commencé à travailler tôt a permis, en 2015, à près de 230 000 personnes de partir plus tôt à la retraite ; 300 000 personnes en bénéficieront en 2016. L'engagement des jeunes actifs est désormais mieux reconnu pour redonner confiance aux jeunes générations dans notre système de retraite : ils bénéficient de droits à retraite pour l'ensemble des années d'apprentissage, de la possibilité de racheter à tarif préférentiel des périodes d'études supérieures ou encore de valider, moyennant une faible cotisation, jusqu'à deux trimestres de retraite au titre de leurs périodes de stages. La politique des retraites conduite par le Gouvernement est juste et équilibrée. Elle assure la pérennité du système. La mobilisation du Gouvernement est illustrée par l'application dans les meilleurs délais des mesures votées afin qu'elles produisent l'ensemble de leurs effets.
