@@ -1,0 +1,9 @@
+# Réponse à la question n° 97972
+
+- Question : [97972](97972.md) — Question n° 97972 — fonds de mutualisation sanitaire et environnementale; équidés; intégration
+
+## Réponse
+
+*JO du 2016-10-11*
+
+Le fonds national agricole de mutualisation du risque sanitaire et environnemental (FMSE) a été créé par arrêté du ministre de l'agriculture, de l'agroalimentaire et de la forêt du 24 septembre 2013, dans le cadre de la réforme de la gestion des risques en agriculture. Il est fondé et géré par les agriculteurs pour mutualiser les risques de pertes économiques liées à des incidents sanitaires ou environnementaux. L'affiliation au FMSE est obligatoire pour l'ensemble des agriculteurs actifs. La cotisation est adossée au prélèvement de la mutualité sociale agricole. Outre la section commune gouvernée par un conseil d'administration, il existe dix sections spécialisées parmi lesquelles le secteur équin ne figure pas à ce jour. La mise en place d'une section équine pour les agriculteurs actifs de la filière relève de l'engagement des professionnels qui doivent définir de façon collégiale des règles de fonctionnement et de cotisation, au-delà de la cotisation de base. La création d'une section spécialisée est soumise à l'accord du conseil d'administration du FMSE. Pour être agréée, toute section spécialisée doit : - définir ses modalités effectives de collecte ; - être en mesure de collecter les cotisations de ses adhérents et de suivre ses ressources financières ; - présenter un programme technique de prévention des maladies propres à la filière. Le ministre chargé de l'agriculture serait tout à fait favorable à la création d'une section équine qui respecterait ces conditions réglementaires, et les services du ministère sont disponibles pour appuyer les professionnels de la filière dans cette démarche si ces derniers souhaitent s'engager dans cette voie.
