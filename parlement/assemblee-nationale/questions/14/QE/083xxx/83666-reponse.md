@@ -1,0 +1,9 @@
+# Réponse à la question n° 83666
+
+- Question : [83666](83666.md) — Question n° 83666 — instances consultatives; fusion
+
+## Réponse
+
+*JO du 2016-10-11*
+
+Le Gouvernement a engagé un important effort de rationalisation des commissions consultatives de l'État, qui se traduit par des suppressions et regroupements. Le comité interministériel pour la modernisation de l'action publique (CIMAP) du 17 juillet 2013 a effectivement décidé la fusion de la commission professionnelle consultative du travail social (CPCS) et de l'intervention sociale avec la commission professionnelle consultative des métiers du sport et de l'animation. Néanmoins, les missions de ces deux instances ont été prorogées jusqu'en décembre 2016 pour la CPC du travail social et juillet 2018 s'agissant de la CPC des métiers du sport et de l'animation. Au mois de janvier 2015, une réflexion sur les commissions a été engagée avec les ministères certificateurs pour mettre en exergue les similitudes et les spécificités de chaque commission. En juillet 2015, le Premier ministre a sollicité le ministère de l'éducation nationale, de l'enseignement supérieur et de la recherche et le ministère du travail, de l'emploi, de la formation professionnelle et du dialogue social pour engager une évaluation des politiques publiques sur la certification professionnelle. Cette évaluation portera essentiellement sur les commissions professionnelles consultatives et s'attachera à établir un diagnostic sur le programme de travail comparé de ces commissions, faire des propositions d'évolution du paysage des offres ministérielles de certification dans l'objectif d'une meilleure coordination, évaluer l'opportunité d'un regroupement et proposer le cas échéant, des évolutions de leur composition. La décision du CIMAP du 17 juillet 2013 est donc suspendue dans l'attente des conclusions de cette évaluation.
