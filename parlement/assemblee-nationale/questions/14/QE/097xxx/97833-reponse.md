@@ -1,0 +1,9 @@
+# Réponse à la question n° 97833
+
+- Question : [97833](97833.md) — Question n° 97833 — implantation d'éoliennes; réglementation
+
+## Réponse
+
+*JO du 2016-10-11*
+
+La diversification du mix énergétique est un des piliers de la transition énergétique. La loi de transition énergétique pour la croissance verte (LTECV) fixe un objectif de 40 % d'énergies renouvelables électriques à l'horizon 2030. Les énergies renouvelables en mer, dont l'éolien en mer flottant, doivent y contribuer de manière importante. Simplifier et accélérer les procédures d'autorisation pourra permettre d'exploiter pleinement le potentiel français en matière d'énergies marines renouvelables. Dans cette perspective, diverses mesures visant à réduire les délais d'autorisation ont d'ores et déjà été prises. En particulier, le décret 2016-9 du 8 janvier 2016 concernant les ouvrages de production et de transport d'électricité vise à réduire les délais de recours relatifs aux installations de production d'énergie renouvelable en mer en attribuant à la cour administrative d'appel de Nantes la compétence pour connaître en premier et dernier ressort des recours dirigés à leur encontre. Si des mesures peuvent être prises pour réduire les délais de recours, le droit au recours est un droit constitutionnellement garanti. Il est donc nécessaire de concilier les objectifs en matière de développement des énergies renouvelables avec la protection des libertés individuelles. Par ailleurs, une nouvelle procédure de mise en concurrence prévue par le décret no 2016-1129 du 17 août 2016 relatif à la procédure de dialogue concurrentiel pour les installations de production d'électricité a été mise en place. Elle prévoit une réalisation des études de qualification des sites en amont de la désignation du candidat afin d'accélérer la mise en œuvre des projets.
