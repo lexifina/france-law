@@ -1,0 +1,9 @@
+# Réponse à la question n° 96598
+
+- Question : [96598](96598.md) — Question n° 96598 — organismes de coopération; fusion; calendrier
+
+## Réponse
+
+*JO du 2016-10-11*
+
+Les réseaux régionaux multi-acteurs doivent fusionner à terme pour être représentatifs de l'ensemble du nouveau territoire régional tandis que d'autres doivent s'étendre à l'ensemble du territoire des nouvelles régions. Ces changements organisationnels importants mobilisent les réseaux régionaux multi-acteurs afin d'avoir rapidement un seul et unique réseau régional par territoire, pour plus de cohérence dans leur action. Cette restructuration est aussi l'occasion de renouer ou de développer de fortes collaborations avec les nouveaux exécutifs régionaux afin de parachever cette logique tripartite entre l'Etat, la Région et le réseau qui est au fondement de cette approche. Cette nécessité d'adaptation rapide des réseaux à la réforme de la carte des régions a été rappelée à plusieurs reprises depuis mars 2015 par le ministère des affaires étrangères et du développement international dans le cadre d'un dialogue ouvert, transparent et constructif avec l'ensemble des réseaux. Conscients de la difficulté de l'exercice pour certains acteurs et notamment pour RESACOOP et CERAPCOOP en région Rhône Alpes-Auvergne, le MAEDI a décidé de soutenir fortement ces deux réseaux. A cet égard, ils bénéficient respectivement d'une subvention de 60 000 euros et 50 000 euros, ce qui en fait la région la mieux dotée de France dans le cadre de ce dispositif. Fort de cet engagement de l'Etat en faveur de ces réseaux, le MAEDI soutiendra, un seul et unique réseau régional multi-acteurs dans chaque nouvelle région après le 31 décembre 2017. A l'issue de ce processus, une convention d'objectifs triennale tenant compte des particularités de chaque réseau sera établie avec chacun en fonction de leurs objectifs et leurs besoins de restructuration pour trois ans.
