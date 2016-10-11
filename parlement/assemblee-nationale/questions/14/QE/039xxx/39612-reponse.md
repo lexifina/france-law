@@ -1,0 +1,9 @@
+# Réponse à la question n° 39612
+
+- Question : [39612](39612.md) — Question n° 39612 — conditions et modalités d'attribution
+
+## Réponse
+
+*JO du 2016-10-11*
+
+Le bénéfice du revenu de solidarité active (RSA) aux étrangers (hors Union Européenne) est conditionné à une antériorité de résidence sur le territoire : le demandeur étranger et non ressortissant de l'Union Européenne doit en effet justifier d'un titre de séjour depuis cinq ans autorisant à travailler. Cette condition n'est pas applicable aux réfugiés, aux bénéficiaires de la protection subsidiaire, aux apatrides, aux étrangers titulaires de la carte de séjour ou d'un titre de séjour conférant des droits équivalents. Elle n'est pas applicable non plus aux personnes isolées ayant un ou des enfant (s) à charge. Cette condition s'explique notamment par la nécessité, pour bénéficier du RSA, de s'engager dans une démarche d'insertion. Celle-ci implique une stabilité de séjour sur le territoire, que le législateur a entendu vérifier par la justification d'un ou de plusieurs titre (s) de séjour autorisant à travailler depuis cinq ans. Par ailleurs, le RSA étant un dispositif familialisé, l'ensemble des ressources du foyer est pris en compte pour calculer le montant de la prestation. Ainsi, si le conjoint n'est pas inclus dans le foyer RSA parce qu'il ne respecte pas la condition posée par l'article L. 262-4 du code de l'action sociale et des familles (CASF), ses ressources sont prises en compte afin de ne pas verser des prestations à des personnes dont le conjoint aurait des ressources importantes. Cela ressort de la logique même de subsidiarité et de différentialité propre à l'ensemble des minima sociaux. Compte tenu de ces éléments, il n'est pas envisagé, à ce stade, de faire évoluer les conditions d'éligibilité au RSA.
