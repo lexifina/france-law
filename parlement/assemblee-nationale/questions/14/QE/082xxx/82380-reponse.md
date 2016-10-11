@@ -1,0 +1,9 @@
+# Réponse à la question n° 82380
+
+- Question : [82380](82380.md) — Question n° 82380 — OMC; conférence de Bali; perspectives
+
+## Réponse
+
+*JO du 2016-10-11*
+
+L'accord sur la facilitation des échanges (AFE) prévoit un large éventail de mesures en vue d'assurer une coopération effective entre les douanes et d'autres autorités chargées de procédures douanières. L'AFE promeut en particulier l'assistance technique, la transparence des procédures, la disponibilité de renseignements publics sur Internet, le renforcement de l'impartialité et de la non-discrimination dans la réalisation des contrôles, l'échange de bonnes pratiques en lien avec l'organisation mondiale des douanes (OMD), ou encore le renforcement des capacités douanières. Il s'agit également de garantir le droit à des procédures de recours ou de réexamen de décisions administratives. Pour la première fois dans l'histoire de l'OMC, l'obligation de mettre en œuvre un accord dépend directement de la capacité des pays de le faire. De plus, l'accord prévoit qu'une assistance et un soutien seront fournis aux pays qui en expriment le besoin pour les aider à acquérir cette capacité. L'UE soutient cette initiative. Le rapport sur le commerce mondial de l'OMC précise que la mise en œuvre de l'AFE pourrait se traduire par une progression des exportations mondiales de marchandises jusqu'à 1 000 Md de dollars par an. A ce jour, 92 membres ont ratifié l'AFE, sur les 108 ratifications nécessaires pour l'entrée en vigueur de l'accord, attendue fin 2016. L'Union européenne a achevé son processus de ratification de l'AFE : le 1er octobre 2015, le Conseil de l'UE a adopté une décision approuvant, au nom de l'UE et de ses Etats membres, la conclusion du Protocole instituant l'AFE. La France ne devrait être que faiblement touchée par l'entrée en vigueur de l'AFE, dès lors que les mesures de cet accord sont déjà mises en œuvre totalement ou partiellement dans le cadre de l'UE ou sous l'égide de l'OMD.
