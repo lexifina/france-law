@@ -1,0 +1,9 @@
+# Réponse à la question n° 19502
+
+- Question : [19502](19502.md) — Question n° 19502 — centres d'accueil thérapeutiques; moyens
+
+## Réponse
+
+*JO du 2016-10-11*
+
+En 2015, 7 208 places en établissements et services médico-sociaux (hors PASA et plateformes d'accompagnement et de répit non comptabilisées en places) ont été installées pour un montant de 90,2 millions d euros. Fin 2015, on dénombrait plus de 720 400 places pour personnes âgées en France dont 13 969 places d'accueils de jour. Depuis 2007, la caisse nationale de solidarité pour l'autonomie (CNSA) a notifié 846,5 millions d'euros pour la création de 85 622 places en faveur des personnes âgées pour la mise en œuvre du plan Solidarité grand âge (PSGA). Ainsi, au 31 décembre 2015, le plan a permis l'autorisation de 79 128 places. 791,8 millions d'euros ont été engagés par les agences régionales de santé (ARS). Sur les 69 068 places qui ont été installées, on comptabilisait 6 653 places d'accueil de jour et 4 027 places en hébergement temporaire. En outre, l'article 58 de la loi d'adaptation de la société au vieillissement permet de parachever la réforme de la tarification initiée en 2009. Il prévoit que les dotations soins et dépendance soient attribuées forfaitairement au regard du niveau de dépendance et/ou de soins requis des résidents. De plus, la réforme s'accompagnera d'une généralisation des contrats pluriannuel d'objectifs et de moyens (CPOM) signés par le gestionnaire avec le conseil départemental et l'ARS pour l'ensemble de ses établissements à l'échelle du département et d'un nouveau cadre budgétaire et comptable afin de faciliter la gestion et promouvoir la responsabilité des gestionnaires qui pourront conserver leurs excédents et les affecter librement mais ne bénéficieront plus de la reprise de leurs déficits.
