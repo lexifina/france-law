@@ -1,0 +1,9 @@
+# Réponse à la question n° 96824
+
+- Question : [96824](96824.md) — Question n° 96824 — dépôt de garantie; réglementation
+
+## Réponse
+
+*JO du 2016-10-11*
+
+Les dépôts de garantie relèvent à titre principal de la loi no 89-462 du 6 juillet 1989 modifiée par la loi no 2014-366 du 24 mars 2014 pour l'accès au logement et un urbanisme rénové. En établissement d'hébergement pour personnes âgées dépendantes (EHPAD), le dépôt d'une caution est encadré par l'article R. 314-149 du code de l'action sociale et des familles. Ainsi, le montant de la caution, lorsqu'elle est exigée, est fixé en référence au « tarif mensuel d'hébergement qui reste effectivement à la charge de la personne hébergée ». Cette disposition permet donc déjà de ne prendre en compte que la partie du tarif hébergement restant à la charge du résident qui bénéficie par ailleurs de l'aide sociale. En complément, il faut souligner que le reste à charge des résidents d'EHPAD est une préoccupation du Gouvernement. Ainsi, la loi 2015-1776 du 28 décembre 2015 relative à l'adaptation de la société au vieillissement a créé un portail d'information, www.pour-les-personnes-agees.gouv.fr, à destination des personnes âgées et de leurs familles afin de faciliter le choix d'un établissement. La loi vise également à faciliter la comparaison des tarifs pratiqués en EHPAD, à travers la définition d'un socle commun de prestations couvert par ces tarifs. Le calcul du reste-à-charge en EHPAD, déjà possible grâce au simulateur proposé sur le portail, sera également simplifié. Les internautes auront un accès direct à une information claire sur les tarifs appliqués et les aides financières possibles. Afin de renforcer les droits des résidents en EHPAD, la loi définit par ailleurs les sanctions encourues par les établissements qui ne respecteraient pas certaines obligations, alors même qu'ils opèrent dans un secteur où par essence, le bénéficiaire est généralement vulnérable.
