@@ -1,0 +1,9 @@
+# Réponse à la question n° 96686
+
+- Question : [96686](96686.md) — Question n° 96686 — chaîne d'abattage; réglementation; contrôle
+
+## Réponse
+
+*JO du 2016-10-11*
+
+A la demande du ministre de l'agriculture de l'agroalimentaire et de la forêt, une inspection spécifique sur la thématique de la protection animale a été réalisée durant le mois d'avril 2016 dans l'ensemble des abattoirs de boucherie de France. Ces inspections conduites par le vétérinaire officiel de l'abattoir accompagné d'un agent coordinateur de la direction départementale en charge de la protection des populations (directeur, chef de service, coordinateur abattoir par exemple…) ont porté en premier lieu sur le système de gestion de la protection animale mis en place par les exploitants d'abattoirs de boucherie. Le plan de contrôle visait ainsi à évaluer le niveau de gestion de la protection animale et, le cas échéant, à améliorer sa maîtrise. Les points suivants ont notamment fait l'objet d'une vigilance particulière : - la pertinence de l'organisation des professionnels (formation du personnel, procédures…), - l'efficacité en fonctionnement (notamment vérification de l'efficacité de l'étourdissement), - les preuves de maîtrise apportées par le professionnel. Au total, 259 établissements ont ainsi été contrôlés. Les non-conformités relatives à l'étourdissement des animaux qui ont pu être relevées à cette occasion ont donné lieu à des mesures correctives immédiates et le cas échéant, à des arrêts d'activités ont été ordonnés. Les rapports d'inspection sont consultables sur le site internet du ministère à l'adresse suivante : http://agriculture.gouv.fr/abattoirs-la-publication-des-rapports-dinspection Le suivi étroit des mesures correctives demandées aux professionnels est assuré par les services de contrôles locaux dans le cadre de la mise en œuvre harmonisée, proportionnée et pertinente de la politique des suites du ministère chargé de l'agriculture.
