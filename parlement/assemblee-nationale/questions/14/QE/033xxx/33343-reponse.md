@@ -1,0 +1,9 @@
+# Réponse à la question n° 33343
+
+- Question : [33343](33343.md) — Question n° 33343 — maisons de santé; statistiques
+
+## Réponse
+
+*JO du 2016-10-11*
+
+Améliorer l'accès aux soins, réduire les inégalités entre les territoires sont des objectifs prioritaires du Gouvernement : le pacte territoire-santé est là pour en attester. Une dynamique nouvelle est bien en marche dans les territoires en difficulté. Contrairement à ce qui a été fait auparavant, le pacte est un véritable plan d'action, complet et pragmatique, avec des mesures qui interagissent les unes avec les autres : différents leviers sont mobilisés, de la formation des professionnels aux conditions d'exercice, pour attirer en particulier les jeunes médecins dans des territoires manquant de professionnels. Parmi les mesures fortes du pacte territoire santé, il faut souligner le soutien au développement des maisons de santé. Les projets d'exercice coordonné, qui répondent aux attentes des professionnels, notamment des jeunes, de travailler en équipe, se multiplient : près de 800 maisons de santé pluri-professionnelles fonctionnent aujourd'hui. Elles contribuent à l'attractivité d'un territoire, notamment en territoires ruraux et périurbains. Le Gouvernement a fixé en mai 2016 de nouveaux objectifs plus ambitieux : fin 2017, 1.200 maisons de santé pluri-professionnelles seront réparties sur tout le territoire, notamment dans les zones fragiles et 1.400 en 2018. En Provence-Alpes-Côte-D'azur, alors qu'il n'y avait qu'une maison de santé à la fin de l'année 2011, elles sont désormais au nombre de 17 : 3 dans les Alpes de Haute-Provence, 2 dans les Alpes-Maritimes, 1 dans les Bouches-du-Rhône, 4 dans les Hautes-Alpes, 4 dans le Var et 3 dans le Vaucluse. Par ailleurs, 25 projets de maisons et pôles de santé sont en cours de développement dans la région.
