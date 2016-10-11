@@ -1,0 +1,9 @@
+# Réponse à la question n° 56557
+
+- Question : [56557](56557.md) — Question n° 56557 — internes en médecine; femmes enceintes
+
+## Réponse
+
+*JO du 2016-10-11*
+
+La réglementation relative au troisième cycle des études de médecine a évolué en 2010 afin de prendre en compte la spécificité de la grossesse, tout en respectant un principe d'égalité de traitement de tous les internes grâce à un dispositif de stage en surnombre, avec un caractère validant sous certaines conditions : présence minimale de quatre mois et choix du stage en fonction de l'ancienneté de fonctions validées et du rang de classement. Le stage en surnombre validant permet aux internes enceintes de pouvoir bénéficier en pratique d'aménagements de leurs conditions de travail (réduction ou décharge des gardes, temps de travail moins pénible car le service compte ainsi plus d'internes). La règle commune du choix de stage pour tous les internes demeure celle du nombre de semestres validés. Le rang de classement intervient ensuite pour permettre le choix au sein d'un groupe d'internes disposant d'une même ancienneté. Cette règle est la même quels que soient les motifs ne permettant pas la validation des stages. Soucieuse d'apporter une réponse satisfaisante aux difficultés que rencontrent les internes en raison de leur état de grossesse durant leurs études, la ministre des affaires sociales et de la santé a décidé de faire évoluer la réglementation sur ce point. La solution retenue – qui devrait consister à considérer que les stages non validés en raison d'un état de grossesse ou d'un congé de maternité sont pris en compte dans le calcul de l'ancienneté pour le choix des stages semestriels mais ne le sont pas au titre des obligations de formation pratique – doit faire l'objet de concertations élargies dans les prochains mois.
