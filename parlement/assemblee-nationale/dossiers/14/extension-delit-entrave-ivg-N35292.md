@@ -1,0 +1,85 @@
+# Justice : extension du délit d'entrave à l'interruption volontaire de grossesse
+
+- Procédure : Proposition de loi ordinaire
+- Législature : 14
+- Identifiant : DLR5L14N35292
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/extension_delit_entrave_ivg
+- Sénat : http://www.senat.fr/dossier-legislatif/ppl16-174.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2016-10-12 : 1er dépôt d'une initiative. (PIONANR5L14B4118)
+  - 2016-11-07 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2016-10-12 : Renvoi en commission au fond
+      - 2016-11-16 : Nomination de rapporteur
+      - 2016-11-16 : Réunion de commission
+      - 2016-11-23 : Réunion de commission
+      - 2016-12-01 : Réunion de commission
+      - 2016-11-23 : Dépôt de rapport (RAPPANR5L14B4245, PIONANR5L14BTC4245)
+  - Discussion en séance publique
+    - 2016-12-01 : Discussion en séance publique
+    - 2016-12-01 : Discussion en séance publique
+    - 2016-12-01 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2016-12-01 : Dépôt d'une initiative en navette (PIONSNR5S279B0174)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2016-12-01 : Renvoi en commission au fond
+      - 2016-11-16 : Nomination de rapporteur
+      - 2016-12-06 : Dépôt de rapport (RAPPSNR5S279B0183)
+    - Travaux d'une commission saisie pour avis
+      - 2016-11-16 : Saisine pour avis d'une commission
+      - 2016-11-23 : Nomination de rapporteur
+      - 2016-12-07 : Dépôt de rapport (AVISSNR5S279B0195)
+    - Travaux d'une délégation saisie pour avis
+      - 2016-12-01 : Saisine d'une délégation ou d'un office
+      - 2016-12-01 : Nomination de rapporteur
+      - 2016-12-01 : Dépôt de rapport (RINFSNR5S279B0172)
+  - Discussion en séance publique
+    - 2016-12-07 : Discussion en séance publique
+    - 2016-12-07 : Décision
+- Commission Mixte Paritaire
+  - 2016-12-08 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2017-01-24 : Nomination de rapporteur
+    - 2017-01-24 : Dépôt du rapport d'une CMP (RAPPANR5L14B4396)
+    - 2017-01-24 : Dépôt du rapport d'une CMP (RAPPSNR5S279B0321)
+  - 2017-01-24 : Décision de la CMP
+- Nouvelle Lecture
+  - 2016-12-07 : Dépôt d'une initiative en navette (PIONANR5L14B4290)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2016-12-07 : Renvoi en commission au fond
+      - 2017-01-25 : Réunion de commission
+      - 2017-01-26 : Réunion de commission
+      - 2017-01-25 : Dépôt de rapport (RAPPANR5L14B4400, PIONANR5L14BTC4400)
+  - Discussion en séance publique
+    - 2017-01-26 : Discussion en séance publique
+    - 2017-01-26 : Décision
+- Nouvelle Lecture
+  - 2017-01-26 : Dépôt d'une initiative en navette (PIONSNR5S279B0340)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2017-01-26 : Renvoi en commission au fond
+      - 2017-02-08 : Dépôt de rapport (RAPPSNR5S279B0374)
+  - Discussion en séance publique
+    - 2017-02-14 : Discussion en séance publique
+    - 2017-02-14 : Décision
+- Lecture définitive
+  - 2017-02-14 : Dépôt d'une initiative en navette (PIONANR5L14B4476)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2017-02-14 : Renvoi en commission au fond
+      - 2017-02-15 : Dépôt de rapport (RAPPANR5L14B4479)
+  - Discussion en séance publique
+    - 2017-02-16 : Discussion en séance publique
+    - 2017-02-16 : Décision
+- Conseil constitutionnel
+  - 2017-02-20 : Saisine du conseil constitutionnel
+  - 2017-02-21 : Saisine du conseil constitutionnel
+  - 2017-03-16 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2017-03-20 : Promulgation d'une loi
