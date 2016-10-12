@@ -1,0 +1,51 @@
+# Energie : autoconsommation d’électricité et énergies renouvelables
+
+- Procédure : Projet de loi ordinaire
+- Législature : 14
+- Identifiant : DLR5L14N35304
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/ratification_ordonnances_2016-1019_2016-1059
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl16-269.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2016-10-12 : 1er dépôt d'une initiative. (PRJLANR5L14B4122)
+  - 2016-10-12 : Etude d'impact (ETDIANR5L14B4122)
+  - 2016-10-12 : Avis du Conseil d'Etat (AVCEANR5L14B4122)
+  - 2016-10-12 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2016-10-12 : Renvoi en commission au fond
+      - 2016-10-26 : Nomination de rapporteur
+      - 2016-11-09 : Réunion de commission
+      - 2016-12-21 : Réunion de commission
+      - 2016-11-09 : Dépôt de rapport (RAPPANR5L14B4192, PRJLANR5L14BTC4192)
+  - Discussion en séance publique
+    - 2016-12-21 : Discussion en séance publique
+    - 2016-12-21 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2016-12-22 : Dépôt d'une initiative en navette (PRJLSNR5S279B0269)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2016-12-22 : Renvoi en commission au fond
+      - 2016-10-26 : Nomination de rapporteur
+      - 2017-01-11 : Dépôt de rapport (RAPPSNR5S279B0285)
+  - Discussion en séance publique
+    - 2017-01-24 : Discussion en séance publique
+    - 2017-01-24 : Décision
+- Commission Mixte Paritaire
+  - 2017-01-25 : Dépôt d'un projet de loi (PRJLANR5L14B4419)
+  - 2017-01-25 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2017-02-01 : Nomination de rapporteur
+    - 2017-02-01 : Dépôt du rapport d'une CMP (RAPPANR5L14B4443)
+    - 2017-02-01 : Dépôt du rapport d'une CMP (RAPPSNR5S279B0360)
+  - Discussion en séance publique
+    - 2017-02-09 : Discussion en séance publique
+    - 2017-02-09 : Décision
+  - Discussion en séance publique
+    - 2017-02-15 : Discussion en séance publique
+    - 2017-02-15 : Décision
+  - 2017-02-02 : Décision de la CMP
+- Promulgation de la loi
+  - 2017-02-24 : Promulgation d'une loi
