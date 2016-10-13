@@ -1,0 +1,9 @@
+# Réponse à la question SEQ151219293
+
+- Question : [SEQ151219293](seq151219293.md) — Remboursement du fonds de compensation pour la taxe sur la valeur ajoutée
+
+## Réponse
+
+*Intérieur, JO du 2016-10-13, page 4500*
+
+L'article L. 1615-6 du code général des collectivités territoriales (CGCT) pose le principe selon lequel les dépenses prises en considération pour l'attribution du FCTVA au titre d'une année déterminée sont celles afférentes à la pénultième année. Il résulte de ces dispositions que les attributions du FCTVA sont versées au cours de la deuxième année suivant l'année de réalisation des dépenses éligibles. Ce principe connaît toutefois deux importantes dérogations qui permettent de réduire sensiblement les délais de versement de la dotation. En effet, les communautés d'agglomération, les communautés de communes, les communes nouvelles, les établissements publics territoriaux ainsi que les métropoles et les communautés urbaines qui se substituent à des communautés d'agglomération bénéficient des attributions du FCTVA au cours de l'année de réalisation de leurs dépenses éligibles. En outre, les bénéficiaires du fonds qui, dans le cadre du plan de relance de l'économie, ont accru leur effort d'investissement, perçoivent, à titre pérenne, la dotation au cours de l'année suivant la réalisation de leurs dépenses éligibles. Il s'ensuit que les attributions du FCTVA sont désormais très majoritairement versées soit au cours de l'année de réalisation des dépenses éligibles (11 % du montant de la dotation en 2015), soit au cours de l'année suivant la réalisation des dépenses éligibles (65 % du montant de la dotation en 2015). La réduction, voire la suppression du décalage de deux ans pour toutes les collectivités entraînerait une hausse brutale du coût budgétaire la première année d'application de la réforme du fait du versement des attributions du FCTVA au titre de deux (pour une réduction à un an) ou de trois années (en cas de suppression).
