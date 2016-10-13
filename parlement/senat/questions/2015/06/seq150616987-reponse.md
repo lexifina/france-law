@@ -1,0 +1,9 @@
+# Réponse à la question SEQ150616987
+
+- Question : [SEQ150616987](seq150616987.md) — Accueil des mineurs en refuge de montagne
+
+## Réponse
+
+*Intérieur, JO du 2016-10-13, page 4502*
+
+La modification de l'article REF 7, objet de l'arrêté du 20 octobre 2014, répondait à une demande expresse du ministère en charge de la jeunesse et des sports visant à combler un vide réglementaire. Il souhaitait notamment disposer d'un cadre plus précis, appliqué de manière homogène sur l'ensemble du territoire, permettant l'accès des mineurs en refuge dans de bonnes conditions de sécurité. Une large concertation de l'ensemble des acteurs publics et privés a permis d'aboutir à un projet de modification de l'article REF 7 relatif à l'accueil des mineurs non accompagnés de leur famille en refuge, qui a été soumis à l'approbation de la commission centrale de sécurité (CCS) du 7 février 2013. Bien loin d'établir de nouvelles restrictions, ce texte permet au contraire à l'ensemble des acteurs publics et privés d'organiser des séjours de mineurs dans plus de 140 refuges du parc national existant, jusqu'alors exclus par la réglementation en vigueur, dans des conditions satisfaisantes en matière de sécurité contre l'incendie. Il demeure en effet indispensable que l'accueil des mineurs en refuge fasse l'objet d'une attention toute particulière, au regard de l'incendie du centre équestre de Lescheraines en moyenne montagne savoyarde, qui le 5 août 2004, coûta la vie à huit mineurs dans un établissement qui n'était pas autorisé à les héberger au titre de la réglementation incendie. Enfin, un guide explicatif relatif à l'accueil des mineurs en refuge a été réalisé, en concertation avec les acteurs des métiers de la montagne. Il a pour vocation d'harmoniser la mise en œuvre du règlement de sécurité contre l'incendie, tout en garantissant un niveau de sécurité de l'hébergement des mineurs satisfaisant.
