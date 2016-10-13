@@ -1,0 +1,9 @@
+# Réponse à la question SEQ160320812
+
+- Question : [SEQ160320812](seq160320812.md) — Pénalité pour occupation du domaine public sans autorisation préalable
+
+## Réponse
+
+*Intérieur, JO du 2016-10-13, page 4506*
+
+Comme l'indique l'article L. 3111-1 du code général de la propriété des personnes publiques, les biens des personnes publiques, qui relèvent du domaine public, sont inaliénables et imprescriptibles. L'occupation ou l'utilisation du domaine public ne peut donc qu'être temporaire (article L. 2122-2 du même code). Conformément à l'article L. 2122-1 du code général de la propriété des personnes publiques, nul ne peut occuper une dépendance du domaine public sans disposer d'un titre l'y habilitant. Ainsi que le précise l'article L. 2122-3 du même code, cette autorisation présente un caractère précaire et révocable. Par ailleurs, en application de l'article L. 2125-1 du même code, l'occupation du domaine public donne lieu au paiement d'une redevance. En cas d'occupation sans titre, la collectivité concernée est fondée à réclamer à l'occupant sans titre une indemnité correspondant à la période d'occupation et compensant les revenus qu'elle aurait pu percevoir d'un occupant régulier. Cette indemnité est calculée soit par référence à un tarif existant, lequel doit tenir compte des avantages de toute nature procurés par l'occupation du domaine public, soit, à défaut de tarif applicable, par référence au revenu, en tenant compte des mêmes avantages, qu'aurait pu produire l'occupation régulière de la partie concernée du domaine public (CE, 16 mai 2011, n° 317675). Néanmoins, si la commune peut mettre fin à tout moment à une occupation irrégulière du domaine public, elle ne peut créer une pénalité dépourvue de base légale ou appliquer une redevance hors de proportion avec le service rendu (CAA Nancy, 28 novembre 1991, n° 91NC00230).
