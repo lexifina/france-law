@@ -1,0 +1,9 @@
+# Réponse à la question SEQ140812891
+
+- Question : [SEQ140812891](seq140812891.md) — Sort des biens mobiliers d'un immeuble faisant l'objet d'une procédure d'abandon manifeste
+
+## Réponse
+
+*Intérieur, JO du 2016-10-13, page 4494*
+
+La procédure de déclaration de parcelle en état d'abandon manifeste, prévue aux articles L. 2243-1 et suivants du code général des collectivités territoriales, permet à une commune, à son issue, d'acquérir par voie d'expropriation les immeubles ayant fait l'objet d'une déclaration d'état d'abandon manifeste. Elle est par conséquent seulement applicable aux immeubles et non aux biens mobiliers qui se trouveraient à l'intérieur. Il en est de même de la procédure de dévolution des biens sans maître prévue par les articles L. 1123-1 et suivants du code général de la propriété des personnes publiques et 713 du code civil (JOAN, 20 mars 2008, QE n° 02161). Le sort des biens mobiliers demeurant à l'intérieur d'un immeuble ayant fait l'objet d'une déclaration en état d'abandon est par conséquent régi, selon leur nature, par les textes législatifs spéciaux qui leur sont applicables. À titre d'exemple, les sommes et valeurs prescrites sont acquises dans les conditions prévues par les articles L. 1126-1 et suivants du code général de la propriété des personnes publiques ou les véhicules dans celles fixées par les articles L. 325-7 et L. 325-8 du code de la route. En l'absence de mise en œuvre des dispositions précitées, l'application de l'article 2276 du code civil, lequel prévoit qu'« en fait de meubles, la possession vaut titre », semble en tout état de cause possible. Le cas échéant, de tels biens pourront être considérés comme des déchets au sens de l'article L. 541-1-1 du code de l'environnement, la commune étant alors tenue d'en assurer ou d'en faire assurer la gestion, conformément à l'article L. 541-2 de ce même code.
