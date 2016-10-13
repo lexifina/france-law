@@ -1,0 +1,9 @@
+# Réponse à la question SEQ151018039
+
+- Question : [SEQ151018039](seq151018039.md) — Faiblesses en cascade de l'institution judiciaire
+
+## Réponse
+
+*Justice, JO du 2016-10-13, page 4511*
+
+La détention provisoire est encadrée en droit français par des délais particulièrement rigoureux lors de la phase de l'instruction, et, quel que soit le stade de la procédure, par la notion de « délai raisonnable » imposée par l'article 6 de la Convention européenne de sauvegarde des droits de l'Homme et des libertés fondamentales, rappelée à l'article 144-1 du code de procédure pénale. La chambre de l'instruction apprécie souverainement au regard des éléments propres à chaque affaire, si la détention provisoire excède ou non ce délai raisonnable. Les deux exemples cités mettent en évidence les difficultés liées aux délais d'audiencement des affaires devant les cours d'assises, particulièrement en cas d'appel. Afin d'envisager les solutions qui doivent permettre de résoudre ces difficultés, une mission de réflexion a été confiée à la direction des affaires criminelles et des grâces et à la direction des services judiciaires. Un groupe de travail s'est ainsi réuni à plusieurs reprises pour analyser la charge d'activité des cours d'assises et les moyens susceptibles d'être mis en œuvre pour permettre une réduction des délais d'audiencement. Ce groupe de travail a procédé à de nombreuses auditions de professionnels et dressé un état des lieux précis de la situation des cours d'assises, en recensant les pratiques existantes, notamment s'agissant de la correctionnalisation de certains crimes, et les difficultés rencontrées en envisageant de nouveaux outils au soutien des professionnels ou des modifications de pratiques ou des textes. Sur la base des préconisations de ce groupe de travail, une circulaire va être adressée à l'ensemble des juridictions afin de développer des pratiques destinées à mieux maîtriser les délais d'audiencement des affaires criminelles.
