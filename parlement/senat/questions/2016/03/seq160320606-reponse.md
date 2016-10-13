@@ -1,0 +1,9 @@
+# Réponse à la question SEQ160320606
+
+- Question : [SEQ160320606](seq160320606.md) — Procédure de recouvrement des petites créances
+
+## Réponse
+
+*Justice, JO du 2016-10-13, page 4512*
+
+La procédure simplifiée de recouvrement des petites créances, instituée par l'article 208 de la loi n° 2015-990 du 6 août 2015pour la croissance, l'activité et l'égalité des chances économiques, est une procédure qui a pour objet principal la délivrance d'un titre exécutoire, lorsque l'huissier a reçu l'accord du créancier et du débiteur sur le montant et les modalités du paiement. Le décret n° 2016-285 du 9 mars 2016, entré en vigueur le 1er juin 2016, a créé un article R.125-7 dans le code des procédures civiles d'exécution, qui interdit tout paiement tant que l'issue de la procédure n'est pas connue. Dès lors, l'activité de l'huissier de justice dans le cadre de cette nouvelle procédure ne s'apparente pas à une activité de recouvrement amiable. L'objectif de cette procédure est uniquement de faciliter pour le créancier l'obtention d'un titre exécutoire pour les créances d'un montant modeste (jusqu'à 4 000 euros), en évitant le recours à la justice. En ce sens, l'article R.125-8 du code des procédures civiles d'exécution, issu du même décret, dispose que l'huissier ayant établi le titre exécutoire ne peut être chargé de la mise à exécution forcée du recouvrement de la créance qui en fait l'objet. L'activité de recouvrement amiable peut se mettre en place avant l'établissement de tout type de titre exécutoire, qu'il s'agisse d'une décision judiciaire ou du titre qui peut désormais être délivré par les huissiers de justice dans le cadre de la procédure simplifiée de recouvrement des petites créances. En l'état actuel des textes, rien n'interdit donc au créancier de faire appel à une société de recouvrement amiable, avant d'envisager de recourir à cette nouvelle procédure simplifiée
