@@ -1,0 +1,9 @@
+# Réponse à la question SEQ151219156
+
+- Question : [SEQ151219156](seq151219156.md) — Nouveau dispositif d'assurance chômage des établissements publics de santé
+
+## Réponse
+
+*Affaires sociales et santé, JO du 2016-10-13, page 4445*
+
+Les évolutions du statut des établissements publics de santé (EPS), qui découlent de la loi du 21 juillet 2009 portant réforme de l'hôpital et relative aux patients, à la santé et aux territoires (dite loi HPST), ont consacré une évolution qui les assimile à des établissements publics de l'État. L'Union nationale pour l'emploi dans l'industrie et le commerce (UNEDIC) a sollicité, à plusieurs reprises depuis 2013, la mise en conformité de la pratique avec les règles de droit qui découlent du nouveau statut des établissements. Les EPS sont donc désormais soumis au régime de l'auto-assurance. La gestion administrative et l'indemnisation des agents involontairement privés d'emploi peut être assurée par les établissements, soit en interne, soit en passant une convention de gestion avec Pôle emploi. Dans les deux cas, la charge financière des allocations relève de l'ancien établissement-employeur. Les adhésions des EPS au régime d'assurance chômage de l'UNEDIC ont pris fin le 1er octobre 2015. 64 % des établissements qui adhéraient à l'UNEDIC et 50 % de l'ensemble des EPS ont choisi de passer une convention de gestion avec Pôle emploi. Enfin, il convient de préciser que les employeurs publics en auto-assurance qui recrutent des apprentis bénéficient d'un régime dérogatoire leur permettant de les affilier au régime d'assurance chômage de l'UNEDIC et d'être totalement exonérés de cotisations chômage pour ces personnels. Ce changement de dispositif devrait avoir un effet de responsabilisation des établissements publics de santé en matière de gestion des ressources humaines et de recrutement.
