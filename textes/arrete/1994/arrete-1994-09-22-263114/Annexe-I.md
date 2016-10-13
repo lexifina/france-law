@@ -1,12 +1,8 @@
 # Article Annexe I
 
-Terre non polluée :
+Déchets d'extraction inertes :
 
-Une terre est considérée comme non polluée dès lors que ses caractéristiques sont cohérentes avec le fond géochimique naturel local.
-
-Déchets inertes :
-
-1. Sont considérés comme déchets inertes, au sens de cet arrêté, les déchets répondant, à court terme comme à long terme, à l'ensemble des critères suivants :
+1. Sont considérés comme déchets d'extraction inertes, au sens de cet arrêté, les déchets répondant, à court terme comme à long terme, à l'ensemble des critères suivants :
 
 - les déchets ne sont susceptibles de subir aucune désintégration ou dissolution significative, ni aucune autre modification significative, de nature à produire des effets néfastes sur l'environnement ou la santé humaine ;
 
