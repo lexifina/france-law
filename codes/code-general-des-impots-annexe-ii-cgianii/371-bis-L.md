@@ -12,6 +12,8 @@ c) En cas de désignation d'un administrateur provisoire ne satisfaisant pas aux
 
 d) En cas de changement de professionnel de l'expertise comptable ou d'adhésion à un organisme agréé à l'initiative du client ou de l'adhérent pour d'autres motifs que ceux mentionnés aux b et c, à condition que la signature de la lettre de mission avec le nouveau professionnel de l'expertise comptable ou l'adhésion à l'organisme agréé soit intervenue dans le délai maximum de trente jours suivant la date de la résiliation de la lettre de mission avec l'ancien professionnel de l'expertise comptable ;
 
-e) En cas de démission d'un centre de gestion agréé ou d'une association agréée suivie, dans le délai maximum de trente jours, de la conclusion d'une lettre de mission avec un professionnel de l'expertise comptable.
+e) En cas de démission d'un centre de gestion agréé ou d'une association agréée suivie, dans le délai maximum de trente jours, de la conclusion d'une lettre de mission avec un professionnel de l'expertise comptable ;
+
+f) En cas de signature d'une première lettre de mission avec un professionnel de l'expertise comptable avant la clôture de l'exercice comptable pour les contribuables franchissant les limites de chiffre d'affaires des régimes définis aux articles 50-0,64 bis et 102 ter du code général des impôts.
 
 Les déclarations de résultats des clients ou adhérents mentionnés au premier alinéa sont accompagnées d'une attestation fournie par le professionnel de l'expertise comptable indiquant la date de signature de la lettre de mission spécifique et le montant de leur résultat imposable. Le professionnel de l'expertise comptable et le contribuable sont identifiés sur cette attestation. Cette attestation est dématérialisée et télétransmise aux services fiscaux selon la procédure prévue par le système de transfert des données fiscales et comptables.

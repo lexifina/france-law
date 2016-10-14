@@ -10,7 +10,11 @@ c) En cas de condamnation définitive du professionnel de l'expertise comptable 
 
 d) Dans le cas où le professionnel de l'expertise comptable s'abstient de résilier la lettre de mission relative à l'application des dispositions du b du 1° du 7 de l'article 158 du code général des impôts, alors même qu'il constate des manquements graves et répétés aux obligations comptables, fiscales et sociales de son client ou adhérent ;
 
-e) En cas d'inobservation par le professionnel de l'expertise comptable de ses obligations stipulées dans la convention prévue à l'article 371 bis B.
+e) En cas d'inobservation par le professionnel de l'expertise comptable de ses obligations stipulées dans la convention prévue à l'article 371 bis B ;
+
+f) Au cas où le nombre des clients ou adhérents du professionnel, tel qu'il est défini à l'article 371 bis C bis, est inférieur pendant plus d'un an au seuil fixé à cet article ;
+
+g) En cas de maintien d'un établissement secondaire ne respectant pas les conditions prévues à l'article 371 bis C bis pendant plus d'un an.
 
 Le commissaire du Gouvernement met préalablement le professionnel de l'expertise comptable en mesure de présenter ses observations sur les faits qui lui sont reprochés.
 
