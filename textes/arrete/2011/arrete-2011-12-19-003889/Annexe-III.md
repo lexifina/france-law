@@ -358,6 +358,8 @@ Côte basque
 
 |
 
+C
+
 |
 
 Coteaux du Pays basque
@@ -367,6 +369,8 @@ Coteaux du Pays basque
 64139
 
 |
+
+C
 
 |
 
@@ -378,6 +382,8 @@ Montagne basque
 
 |
 
+D
+
 |
 
 Coteaux entre les Gaves
@@ -387,6 +393,8 @@ Coteaux entre les Gaves
 64141
 
 |
+
+C
 
 |
 
@@ -398,6 +406,8 @@ Montagnes du Béarn
 
 |
 
+D
+
 |
 
 Vallée de l'Adour
@@ -407,6 +417,8 @@ Vallée de l'Adour
 64143
 
 |
+
+C
 
 |
 
@@ -418,6 +430,8 @@ Vallée du gave d'Oloron
 
 |
 
+C
+
 |
 
 Vallée du gave de Pau
@@ -427,6 +441,8 @@ Vallée du gave de Pau
 64380
 
 |
+
+B
 
 |
 
@@ -438,6 +454,8 @@ Coteaux du Béarn
 
 |
 
+B
+
 |
 
 Chalosse
@@ -448,6 +466,8 @@ Chalosse
 
 |
 
+B
+
 |
 
 Vic-Bilh
@@ -457,6 +477,8 @@ Vic-Bilh
 64386
 
 |
+
+B
 
 |
 
@@ -5052,7 +5074,7 @@ Haut bocage
 
 |
 
-B
+A
 
 |
 

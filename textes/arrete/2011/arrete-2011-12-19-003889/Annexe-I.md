@@ -16,13 +16,13 @@ c) Effluents peu chargés : les effluents issus d'un traitement d'effluents brut
 
 d) C/N : le rapport entre les quantités de carbone et d'azote contenues dans un fertilisant azoté donné ;
 
-e) Fertilisants azotés de type I : les fertilisants azotés à C/N élevé, contenant de l'azote organique et faible proportion d'azote minéral, en particulier les déjections animales avec litière, à l'exception des fumiers de volaille (exemples : fumiers de ruminants, fumiers porcins et fumiers équins) et certains produits homologués ou normés d'origine organique. La valeur limite de C/N supérieur à 8, éventuellement corrigée selon la forme du carbone, est retenue comme valeur guide, notamment pour le classement des boues, des composts et des autres produits organiques non cités dans les définitions e et f ;
+e) Fertilisants azotés de type I : les fertilisants azotés à C/N élevé, contenant de l'azote organique et une faible proportion d'azote minéral, en particulier les déjections animales avec litière, à l'exception des fumiers de volaille (exemples : fumiers de ruminants, fumiers porcins et fumiers équins) et certains produits homologués ou normés d'origine organique. La valeur limite de C/N supérieur à 8, éventuellement corrigée selon la forme du carbone, est retenue comme valeur guide, notamment pour le classement des boues, des composts et des autres produits organiques non cités dans les définitions e et f ;
 
 f) Fertilisants azotés de type II : les fertilisants azotés à C/N bas, contenant de l'azote organique et une proportion d'azote minéral variable, en particulier les fumiers de volaille, les déjections animales sans litière (exemples : lisiers bovin et porcin, lisiers de volaille, fientes de volaille), les eaux résiduaires et les effluents peu chargés, les digestats bruts de méthanisation et certains produits homologués ou normés d'origine organique. La valeur limite de C/N inférieur ou égal à 8, éventuellement corrigée selon la forme du carbone, est retenue comme valeur guide, notamment pour le classement des boues, des composts et des autres produits organiques non cités dans les définitions e et f. Certains mélanges de produits organiques associés à des matières carbonées difficilement dégradables (type sciure ou copeaux de bois), malgré un C/N élevé, sont à rattacher au type II ;
 
 g) Fertilisants azotés de type III : les fertilisants azotés minéraux et uréiques de synthèse y compris en fertirrigation ;
 
-h) Fumier compact pailleux : fumier ayant subi un préstockage d'au moins deux mois en bâtiment ou sous les animaux eux-mêmes et non susceptible d'écoulement.
+h) Fumier compact non susceptible d'écoulement : fumier contenant les déjections d'herbivores ou de lapins ou de porcins, un matériau absorbant (paille, sciure ...), ayant subi un stockage d'au moins deux mois sous les animaux ou sur une fumière et ne présentant pas de risque d'écoulement.
 
 i) Campagne culturale : la période allant du 1er septembre au 31 août de l'année suivante ou une période de douze mois choisie par l'exploitant. Cette période vaut pour toute l'exploitation et est identique pour le plan de fumure et le cahier d'enregistrement définis au IV de la présente annexe ;
 
@@ -58,6 +58,8 @@ r) Interculture longue : interculture comprise entre une culture principale réc
 
 s) Interculture courte : interculture comprise entre une culture principale récoltée en été ou en automne et une culture semée à l'été ou à l'automne.
 
+t) couvert végétal en interculture : culture composée d'un mélange d'espèces implantée entre deux cultures principales ou qui est implantée avant, pendant ou après une culture principale et qui a pour vocation d'assurer une couverture continue du sol. Sa fonction est de rendre un certain nombre de services éco-systémiques (agronomiques et écologiques) par des fonctions agro-écologiques qui peuvent être principalement de réduire la lixiviation, fournir de l'azote à la culture suivante, réduire l'érosion, empêcher le développement de mauvaises herbes, améliorer l'esthétique du paysage, et accroître la biodiversité.
+
 I. ― Périodes minimales d'interdiction d'épandage des fertilisants azotés
 
 Le tableau ci-dessous fixe les périodes minimales pendant lesquelles l'épandage des divers types de fertilisants azotés est interdit. Ces périodes diffèrent selon l'occupation du sol pendant ou suivant l'épandage.
@@ -88,7 +90,7 @@ Type III
 
 |
 
-Fumiers compacts pailleux
+Fumiers compacts non susceptibles d'écoulement
 
 et composts d'effluents
 
@@ -156,7 +158,7 @@ au 31 janvier (2)
 
 |
 
-Cultures implantées au printemps non précédées par une CIPAN ou une culture dérobée (8)
+Cultures implantées au printemps non précédées par une CIPAN ou une culture dérobée ou un couvert végétal en interculture (8)
 
 |
 
@@ -180,21 +182,21 @@ au 15 février
 
 |
 
-Cultures implantées au printemps précédées par une CIPAN ou une culture dérobée
+Cultures implantées au printemps précédées par une CIPAN ou une culture dérobée ou un couvert végétal en interculture
 
 |
 
-De 20 jours avant la destruction de la CIPAN ou la récolte de la dérobée et jusqu'au 15 janvier
+De 20 jours avant la destruction de la CIPAN du couvert végétal en interculture ou la récolte de la dérobée et jusqu'au 15 janvier
 
 |
 
 Du 1er juillet à
 
-15 jours avant l'implantation de la CIPAN ou de la dérobée et de 20 jours avant la destruction de la CIPAN ou la récolte de la dérobée et jusqu'au 15 janvier
+15 jours avant l'implantation de la CIPAN ou de la dérobée et de 20 jours avant la destruction de la CIPAN du couvert végétal en interculture ou la récolte de la dérobée et jusqu'au 15 janvier
 
 |
 
-Du 1er juillet (3) à 15 jours avant l'implantation de la CIPAN ou de la dérobée et de 20 jours avant la destruction de la CIPAN ou la récolte de la dérobée et jusqu'au 31 janvier
+Du 1er juillet (3) à 15 jours avant l'implantation de la CIPAN ou de la dérobée et de 20 jours avant la destruction de la CIPAN du couvert végétal en interculture ou la récolte de la dérobée et jusqu'au 31 janvier
 
 |
 
@@ -204,7 +206,7 @@ au 15 février
 
 |
 
-Le total des apports avant et sur la CIPAN ou la dérobée est limité à 70 kg d'azote efficace/ha (6)
+Le total des apports avant et sur la CIPAN ou la dérobée ou le couvert végétal en interculture est limité à 70 kg d'azote efficace/ha (6)
 
 |
 
@@ -226,7 +228,7 @@ au 15 janvier (7)
 
 Du 1er octobre
 
-au 31 janvier
+au 31 janvier (9)
 
 |
 
@@ -252,7 +254,7 @@ au 15 janvier
 
 (1) Peuvent également être considérés comme relevant de cette colonne certains effluents relevant d'un plan d'épandage sous réserve que l'effluent brut à épandre ait un C/N ≥25 et que le comportement dudit effluent vis-à-vis de la libération d'azote ammoniacal issu de sa minéralisation et vis-à-vis de l'azote du sol soit tel que l'épandage n'entraîne pas de risque de lixiviation de nitrates.
 
-(2) Dans les régions Provence-Alpes-Côte d'Azur, Languedoc-Roussillon, Midi-Pyrénées et Aquitaine l'épandage est autorisé à partir du 15 janvier.
+(2) Dans les régions Provence-Alpes-Côte d'Azur et Languedoc-Roussillon-Midi-Pyrénées et dans les départements de Dordogne, de Gironde, des Landes, du Lot et Garonne et des Pyrénées-Atlantiques, l'épandage est autorisé à partir du 15 janvier.
 
 (3) En présence d'une culture, l'épandage d'effluents peu chargés en fertirrigation est autorisé jusqu'au 31 août dans la limite de 50 kg d'azote efficace/ha. L'azote efficace est défini comme la somme de l'azote présent dans l'effluent peu chargé sous forme minérale et sous forme organique minéralisable entre le 1er juillet et le 31 août.
 
@@ -265,6 +267,8 @@ au 15 janvier
 (7) L'épandage des effluents peu chargés est autorisé dans cette période dans la limite de 20 kg d'azote efficace/ha. L'azote efficace est défini comme la somme de l'azote présent dans l'effluent peu chargé sous forme minérale et sous forme organique minéralisable entre le 15 novembre et le 15 janvier.
 
 (8) L'épandage, dans le cadre d'un plan d'épandage, de boues de papeteries ayant un C/N supérieur à 30 est autorisé dans ces périodes, sans implantation d'une CIPAN ou d'une culture dérobée, sous réserve que la valeur du rapport C/N n'ait pas été obtenue à la suite de mélange de boues issues de différentes unités de production.
+
+(9) Dans les zones de montagne définies au titre de l'article D. 113-14 du code rural et de la pêche maritime, l'épandage est interdit jusqu'au 28 février sauf dans les zones de montagne des régions Provence-Alpes-Côte d'Azur, Languedoc-Roussillon-Midi-Pyrénées et du département des Pyrénées-Atlantiques où il est interdit jusqu'au 15 février.
 
 |
 
@@ -298,19 +302,19 @@ La capacité de stockage des effluents d'élevage doit couvrir au moins, compte 
 
 b) Capacités de stockage minimales requises.
 
-La capacité de stockage requise pour chaque exploitation et pour chaque atelier est exprimée en nombre de mois de production d'effluents pour chaque espèce animale. Quand la durée de présence effective des animaux dans les bâtiments est inférieure à la capacité de stockage minimale requise indiquée ci-dessous, la capacité de stockage requise est égale au temps de présence effective des animaux dans les bâtiments.
+La capacité de stockage minimale requise pour chaque exploitation et pour chaque atelier est exprimée en nombre de mois de production d'effluents pour chaque espèce animale. Quand la durée de présence effective des animaux dans les bâtiments est inférieure à la capacité de stockage minimale requise indiquée ci-dessous, la capacité de stockage requise est égale au temps de présence effective des animaux dans les bâtiments.
 
 Pour les bovins, les ovins, les caprins, les porcins et les volailles, les tableaux a, b, c et d fixent les capacités de stockage minimales requises pour les effluents d'élevage définis comme fertilisant azoté de type I, d'une part, et de type II, d'autre part.
 
-Pour les bovins, les ovins et les caprins, la capacité de stockage varie également selon le temps passé à l'extérieur des bâtiments et selon la localisation géographique du bâtiment d'élevage dans l'une des quatre zones A, B, C et D. Ces zones sont définies en annexe III.
+Pour les bovins, les ovins et les caprins, la capacité de stockage minimale requise varie également selon le temps passé à l'extérieur des bâtiments et selon la localisation géographique du bâtiment d'élevage dans l'une des quatre zones A, B, C et D. Ces zones sont définies en annexe III.
 
 Pour les autres espèces animales, la capacité de stockage minimale requise est de cinq mois dans les zones vulnérables situées dans les régions Aquitaine, Languedoc-Roussillon, Midi-Pyrénées ou Provence-Alpes-Côte d'Azur, et de six mois dans les autres régions.
 
-Les valeurs de capacités de stockage s'appliquent aux effluents d'élevage épandus sur les terres de l'exploitation ou, en dehors de l'exploitation, sur des terres mises à disposition par des tiers.
+Les valeurs de capacités de stockage minimales requises s'appliquent aux effluents d'élevage épandus sur les terres de l'exploitation ou, en dehors de l'exploitation, sur des terres mises à disposition par des tiers.
 
 Elles ne s'appliquent pas :
 
-- aux fumiers compacts pailleux non susceptibles d'écoulement stockés au champ conformément aux prescriptions du 2° ;
+- aux effluents d'élevage stockés au champ conformément aux prescriptions du 2° ;
 
 - aux effluents d'élevage faisant l'objet d'un traitement, y compris les effluents bovins peu chargés ;
 
@@ -320,7 +324,7 @@ Les quantités d'effluents d'élevage faisant l'objet des alinéas précédents 
 
 Lorsque les effluents d'élevage font l'objet d'un traitement, les produits issus du traitement qui ne sont pas transférés doivent être stockés. Les ouvrages de stockage en question, et en particulier la capacité de stockage, doivent respecter les dispositions du a.
 
-Tableau a. - Capacités de stockage (en mois) pour les bovins lait (vaches laitières
+Tableau a. - Capacités de stockage minimales requises (en mois) pour les bovins lait (vaches laitières
 
 et troupeau de renouvellement) et les caprins et ovins lait
 
@@ -410,7 +414,7 @@ Fertilisant azoté de type II
 
 Le troupeau de renouvellement comprend l'ensemble des animaux destiné à intégrer le troupeau de reproducteurs (exemple : animaux destinés à devenir vache laitière dans le cas d'un troupeau bovin laitier).
 
-Tableau b. - Capacités de stockage (en mois) pour les bovins allaitants (vaches allaitantes
+Tableau b. - Capacités de stockage minimales requises (en mois) pour les bovins allaitants (vaches allaitantes
 
 et troupeau de renouvellement) et les caprins et ovins autres que lait
 
@@ -488,7 +492,7 @@ Fertilisant azoté de type II
 
 Le troupeau de renouvellement comprend l'ensemble des animaux destiné à intégrer le troupeau de reproducteurs (exemple : animaux destinés à devenir vache allaitante dans le cas d'un troupeau bovin allaitant).
 
-Tableau c. - Capacités de stockage (en mois)
+Tableau c. - Capacités de stockage minimales requises (en mois)
 
 pour les bovins à l'engraissement
 
@@ -638,7 +642,7 @@ de 3 à 7 mois
 
 |
 
-Tableau d. - Capacités de stockage (en mois)
+Tableau d. - Capacités de stockage minimales requises (en mois)
 
 pour les porcins et les volailles
 
@@ -682,27 +686,55 @@ de type II
 
 |
 
+La conversion des capacités de stockage minimales requises exprimées en mois de production d'effluents d'élevage en volume ou en surface de stockage est réalisée à l'aide du Pré-Dexel (téléchargeable depuis la page : http :// idele. fr/ services/ outils/ pre-dexel. html) ou du DeXeL. Les volumes et surfaces obtenus après conversion sont appelés : " capacités forfaitaires ". Les éléments de justification des dimensionnements en résultant doivent être tenus à disposition de l'administration.
+
 c) Recours à un calcul individuel des capacités de stockage.
 
 Tout exploitant ayant des capacités de stockage inférieures aux valeurs prévues au b devra les justifier en tenant à la disposition de l'administration :
 
 - le calcul effectué sur la base des dispositions du a ;
 
-- toutes les preuves justifiant de l'exactitude du calcul effectué et de son adéquation avec le fonctionnement de l'exploitation. Il devra, en particulier, justifier les épandages précoces en fin d'hiver et/ou les épandages tardifs à la fin de l'été ou à l'automne pris en compte dans le calcul des capacités de stockage en se référant aux surfaces réellement utilisées pour l'épandage (surfaces de l'exploitation et, le cas échéant, surfaces des prêteurs de terres) de la campagne en cours et des deux campagnes précédentes.
+- toutes les preuves justifiant de l'exactitude du calcul effectué et de son adéquation avec le fonctionnement de l'exploitation. Il devra, en particulier, justifier les épandages précoces en fin d'hiver et/ou les épandages tardifs à la fin de l'été ou à l'automne pris en compte dans le calcul des capacités de stockage en se référant aux surfaces réellement utilisées pour l'épandage (surfaces de l'exploitation et, le cas échéant, surfaces des prêteurs de terres) de la campagne en cours et des deux campagnes précédentes. La justification devra s'appuyer sur les états de sortie relatifs au calcul des capacités agronomiques du DeXeL obtenus avec des paramètres en entrée en adéquation avec le fonctionnement de l'exploitation.
 
-2° Stockage de certains effluents d'élevage au champ.
+2° Stockage de certains effluents d'élevage au champ
 
 Ces prescriptions s'appliquent à tout stockage d'effluents d'élevage en zone vulnérable.
 
-Les fumiers compacts pailleux non susceptibles d'écoulement peuvent être stockés ou compostés au champ à l'issue d'un stockage de deux mois sous les animaux ou sur une fumière dans les conditions précisées ci-après.
+En zone vulnérable, le stockage ou le compostage au champ est autorisé uniquement pour :
 
-Lors de la constitution du dépôt au champ, le fumier compact pailleux doit tenir naturellement en tas, sans produire d'écoulement latéral de jus. Les mélanges avec des produits différents n'ayant pas ces caractéristiques sont interdits. Le volume du dépôt est adapté à la fertilisation des parcelles réceptrices dans les conditions du III de la présente annexe. Le tas doit être constitué de façon continue pour disposer d'un produit homogène et limiter les infiltrations d'eau.
+- les fumiers compacts non susceptibles d'écoulement ;
 
-Le stockage ne peut être réalisé sur les zones où l'épandage est interdit ainsi que dans les zones inondables et dans les zones d'infiltration préférentielles telles que failles ou bétoires.
+- les fumiers de volailles non susceptibles d'écoulement ;
 
-La durée de stockage ne dépasse pas dix mois et le retour du stockage sur un même emplacement ne peut intervenir avant un délai de trois ans.
+- les fientes de volailles issues d'un séchage permettant d'obtenir de façon fiable et régulière plus de 65 % de matière sèche.
 
-Les fientes de volailles issues d'un séchage permettant d'obtenir de façon fiable et régulière plus de 65 % de matière sèche peuvent être stockées au champ dans les mêmes conditions que pour les fumiers compacts pailleux non susceptibles d'écoulement, à condition que le tas de fientes soit couvert par une bâche, imperméable à l'eau mais perméable aux gaz.
+Sous réserve de respecter les conditions suivantes, communes à ces trois types d'effluents d'élevage :
+
+- lors de la constitution du dépôt au champ, le fumier doit tenir naturellement en tas, sans produire d'écoulement latéral de jus ; les mélanges avec des produits différents n'ayant pas ces caractéristiques sont interdits ;
+
+- le volume du dépôt est adapté à la fertilisation des îlots culturaux récepteurs dans les conditions du III de la présente annexe (1) ;
+
+- le tas doit être constitué de façon continue pour disposer d'un produit homogène et limiter les infiltrations d'eau ;
+
+- le tas ne peut être mis en place sur les zones où l'épandage est interdit ainsi que dans les zones inondables et dans les zones d'infiltration préférentielles telles que failles ou bétoires ;
+
+- la durée de stockage ne dépasse pas neuf mois ;
+
+- le tas ne doit pas être présent au champ du 15 novembre au 15 janvier, sauf en cas de dépôt sur prairie ou sur un lit d'environ 10 centimètres d'épaisseur de matériau absorbant dont le rapport C/ N est supérieur à 25 (comme la paille) ou en cas de couverture du tas ;
+
+- le retour du stockage sur un même emplacement ne peut intervenir avant un délai de trois ans ;
+
+- l'îlot cultural sur lequel le stockage est réalisé, la date de dépôt du tas et la date de reprise pour épandage sont indiqués dans le cahier d'enregistrement des pratiques.
+
+Les conditions particulières ci-dessous doivent également être respectées, sauf pour les dépôts de courtes durées inférieurs à dix jours précédant les chantiers d'épandage :
+
+- pour les fumiers compacts non susceptibles d'écoulement, le tas doit être mis en place sur une parcelle en prairie ou sur une parcelle portant une culture implantée depuis plus de deux mois ou une CIPAN bien développée ou un lit d'environ 10 centimètres d'épaisseur de matériau absorbant dont le rapport C/ N est supérieur à 25 (comme la paille) ; il doit être constitué en cordon, en bennant les remorques les unes à la suite des autres et ne doit pas dépasser 2,5 mètres de hauteur ;
+
+- pour les fumiers de volailles non susceptibles d'écoulement, le tas doit être conique et ne doit pas dépasser 3 mètres de hauteur ; la couverture du tas de manière à protéger le tas des intempéries et à empêcher tout écoulement latéral de jus est également exigée dans un délai d'un an suivant l'adoption du programme d'actions national modifié ;
+
+- pour les fientes de volailles issues d'un séchage permettant d'obtenir de façon fiable et régulière plus de 65 % de matière sèche, le tas doit être couvert par une bâche imperméable à l'eau mais perméable aux gaz.
+
+(1) Il s'agit des conditions relatives au respect de l'équilibre de la fertilisation azotée.
 
 III. ― Limitation de l'épandage des fertilisants azotés afin de garantir l'équilibre de la fertilisation azotée
 
@@ -938,19 +970,21 @@ En outre, chaque fois que des effluents d'élevage produits par l'exploitation s
 
 Dans le cas de transfert de fertilisant azoté issu des animaux d'élevage, un bordereau de transfert cosigné par le producteur des effluents et le destinataire est établi. Il comporte les volumes par nature d'effluents, les quantités d'azote transférées et la date du transfert.
 
-V. - Modalités de calcul de la quantité maximale d'azote contenue dans les effluents d'élevage
+Pour les exploitations qui stockent ou compostent certains effluents d'élevage au champ en zone vulnérable, l'îlot cultural sur lequel le stockage est réalisé, la date de dépôt du tas et la date de reprise pour épandage doivent être inscrits dans le cahier d'enregistrement des pratiques.
 
-pouvant être épandue annuellement par chaque exploitation
+V.- Limitation de la quantité d'azote contenue dans les effluents d'élevage pouvant être épandue annuellement par chaque exploitation
 
-Ces prescriptions s'appliquent à toute exploitation utilisant des effluents d'élevage dont un îlot cultural au moins est situé en zone vulnérable. Tous les animaux et toutes les terres de l'exploitation, qu'ils soient situés ou non en zone vulnérable, sont pris en compte..
+Ces prescriptions s'appliquent à toute exploitation utilisant des effluents d'élevage dont un îlot cultural au moins est situé en zone vulnérable. Tous les animaux et toutes les terres de l'exploitation, qu'ils soient situés ou non en zone vulnérable, sont pris en compte.
 
-La quantité maximale d'azote contenue dans les effluents d'élevage pouvant être épandue annuellement par hectare de surface agricole utile est inférieure ou égale à 170 kg d'azote. Cette quantité maximale s'applique sans préjudice du respect de l'équilibre de la fertilisation à l'échelle de l'îlot cultural et des limitations d'azote définies au III de la présente annexe et sans préjudice du respect des surfaces interdites à l'épandage.
+La quantité d'azote contenue dans les effluents d'élevage pouvant être épandue annuellement par hectare de surface agricole utile est inférieure ou égale à 170 kg d'azote. Cette limitation s'applique sans préjudice du respect de l'équilibre de la fertilisation à l'échelle de l'îlot cultural et des limitations d'azote définies au III de la présente annexe et sans préjudice du respect des surfaces interdites à l'épandage.
 
-La méthode de calcul de la quantité d'azote contenue dans les effluents d'élevage disponible sur l'exploitation est la suivante.
+La quantité d'azote contenue dans les effluents d'élevage pouvant être épandue annuellement par hectare de surface agricole utile est égale à la quantité d'azote contenue dans les effluents d'élevage disponible sur l'exploitation divisée par la surface agricole utile.
 
-Il s'agit de la production d'azote des animaux, obtenue en multipliant les effectifs par les valeurs de production d'azote épandable par animal, corrigée, le cas échéant, par les quantités d'azote issues d'effluents d'élevage épandues chez les tiers ou transférées et les quantités d'azote issues d'effluents d'élevage venant des tiers, ainsi que par l'azote abattu par traitement. Tous les fertilisants azotés d'origine animale sont considérés, qu'ils aient subi ou non un traitement ou une transformation, y compris lorsqu'ils sont homologués ou normés.
+La quantité d'azote contenue dans les effluents d'élevage disponible sur l'exploitation est égale à la production d'azote des animaux de l'exploitation corrigée, le cas échéant, par les quantités d'azote issues d'effluents d'élevage épandues chez les tiers ou transférées et les quantités d'azote issues d'effluents d'élevage venant des tiers, ainsi que par l'azote abattu par traitement. Tous les fertilisants azotés d'origine animale sont considérés, qu'ils aient subi ou non un traitement ou une transformation, y compris lorsqu'ils sont homologués ou normés.
 
-Les effectifs animaux sont ventilés selon les catégories d'animaux correspondant aux normes réglementaires de production d'azote épandable précisées à l'annexe II du présent arrêté. L'annexe II précise, selon les cas, si les animaux sont comptabilisés au regard du nombre d'animaux produits sur l'exploitation ou au regard du nombre moyen d'animaux présents sur l'exploitation pendant une année.
+Dans le cas général, la production d'azote des animaux de l'exploitation est obtenue en multipliant les effectifs animaux de l'exploitation par les valeurs de production d'azote épandable par animal fixées en annexe II du présent arrêté : les effectifs animaux sont ventilés selon les catégories d'animaux correspondant aux valeurs de production d'azote épandable de l'annexe II. Cette annexe précise, selon les cas, si les animaux sont comptabilisés au regard du nombre d'animaux produits sur l'exploitation ou au regard du nombre moyen d'animaux présents sur l'exploitation pendant une année.
+
+Toutefois un éleveur de porc peut estimer la production d'azote des porcins de son exploitation en réalisant un bilan réel simplifié à l'aide de l'un des outils de calcul cité dans la brochure du réseau mixte technologique élevages et environnement relative aux rejets d'azote des porcs la plus récente. Dans ce cas, l'éleveur tient à disposition de l'administration les états de sortie de l'outil de calcul du bilan réel simplifié, ainsi que tout document justifiant la pertinence des données saisies dans l'outil de calcul (en particulier la gestion technico-économique ou les pièces comptables et bordereaux d'enlèvement des animaux et les factures d'aliments).
 
 Les quantités d'azote épandues chez les tiers ou provenant de tiers figurent sur les bordereaux d'échanges d'effluents prévus au IV de la présente annexe.
 
@@ -962,21 +996,9 @@ L'épandage des fertilisants azotés de type III est interdit en zone vulnérabl
 
 L'épandage des fertilisants azotés de types I et II est interdit en zone vulnérable à moins de 35 mètres des berges des cours d'eau ; cette limite est réduite à 10 mètres lorsqu'une couverture végétale permanente de 10 mètres et ne recevant aucun intrant est implantée en bordure du cours d'eau.
 
-2. Par rapport aux sols en forte pente.
+2. Par rapport aux sols en forte pente
 
-L'épandage de fertilisants azotés sur les sols à forte pente, dans des conditions de nature à entraîner leur ruissellement, est interdit en zone vulnérable.
-
-Cas général :
-
-- l'épandage de fertilisants azotés de type II sur un sol dont la pente est supérieure à 10 % est interdit. Ce pourcentage est porté à 15 % si un dispositif continu, perpendiculaire à la pente et permettant d'éviter tout ruissellement ou écoulement en dehors des îlots culturaux de l'exploitation (bande enherbée ou boisée pérenne d'au moins cinq mètres de large, talus) est présent le long de la bordure aval de ces îlots ou, le cas échéant, en bas de pente à l'intérieur de ces îlots ;
-
-- l'épandage de fertilisants azotés de type I et III sur un sol dont la pente est supérieure à 15 % est interdit. Ce pourcentage est porté à 20 % si un dispositif continu, perpendiculaire à la pente et permettant d'éviter tout ruissellement ou écoulement en dehors des îlots culturaux de l'exploitation (bande enherbée ou boisée pérenne d'au moins cinq mètres de large, talus) est présent le long de la bordure aval de ces îlots ou, le cas échéant, en bas de pente à l'intérieur de ces îlots.
-
-Toutefois :
-
-- sur culture pérenne, l'épandage de fumier compact pailleux, de compost d'effluents d'élevage et d'autres produits organiques solides dont l'apport vise à prévenir l'érosion des sols est autorisé sur un sol dont la pente est supérieure à 15 %. L'épandage de fertilisants azotés de type III est autorisé sur un sol dont la pente est supérieure à 15 % dès lors que l'îlot cultural concerné est enherbé ou qu'un dispositif continu, perpendiculaire à la pente et permettant d'éviter tout ruissellement ou écoulement en dehors de l'îlot cultural (bande enherbée ou boisée pérenne d'au moins cinq mètres de large, talus) est présent le long de la bordure aval de l'îlot cultural. Dans ce cas, le total des apports est au plus égal à 50 kg d'azote efficace par hectare et par an. L'azote efficace est défini comme la somme de l'azote présent dans les fertilisants azotés sous forme minérale et sous forme organique minéralisable pendant le cycle végétatif ;
-
-- sur prairie implantée depuis plus de six mois, l'épandage de fertilisants azotés de type II sur un sol dont la pente est supérieure à 15 % est autorisé dès lors qu'un talus continu et perpendiculaire à la pente est présent le long de la bordure aval de l'îlot cultural concerné ou, le cas échéant, en bas de pente à l'intérieur de l'îlot. L'épandage de fertilisants azotés de type I sur un sol dont la pente est supérieure à 20 % est soumis aux mêmes prescriptions. L'épandage de fertilisants azotés de type III sur un sol dont la pente est supérieure à 20 % est interdit.
+L'épandage est interdit en zone vulnérable dans les 100 premiers mètres à proximité des cours d'eau pour des pentes supérieures à 10 % pour les fertilisants azotés liquides et à 15 % pour les autres fertilisants. Sans préjudice des dispositions prévues au 1° par rapport aux cours d'eau, il est toutefois autorisé dès lors qu'une bande enherbée ou boisée, pérenne, continue et non fertilisée d'au moins 5 mètres de large est présente en bordure de cours d'eau.
 
 3. Par rapport aux sols détrempés et inondés.
 
@@ -984,13 +1006,13 @@ Un sol est détrempé dès lors qu'il est inaccessible du fait de l'humidité ; 
 
 L'épandage de tous les fertilisants azotés est interdit en zone vulnérable sur les sols détrempés et inondés.
 
-4. Par rapport aux sols enneigés et gelés.
+4. Par rapport aux sols enneigés et gelés
 
-Un sol est enneigé dès qu'il est entièrement couvert de neige ; un sol est gelé dès lors qu'il est pris en masse par le gel.
+Un sol est enneigé dès qu'il est entièrement couvert de neige ; un sol est gelé dès lors qu'il est pris en masse par le gel ou gelé en surface.
 
 L'épandage de tous les fertilisants azotés est interdit en zone vulnérable sur les sols enneigés.
 
-L'épandage de tous les fertilisants azotés autres que les fumiers compacts pailleux, les composts d'effluents d'élevage et les autres produits organiques solides dont l'apport vise à prévenir l'érosion est interdit en zone vulnérable sur les sols pris en masse par le gel.
+L'épandage de tous les fertilisants azotés autres que les fumiers compacts non susceptibles d'écoulement, les composts d'effluents d'élevage et les autres produits organiques solides dont l'apport vise à prévenir l'érosion est interdit en zone vulnérable sur les sols gelés.
 
 VII. - Couverture végétale pour limiter
 
@@ -1016,9 +1038,9 @@ La couverture des sols est également obligatoire dans les intercultures courtes
 
 Toutefois, sur les îlots culturaux infestés par le nématode Heterodera schachtii et recevant des betteraves dans la rotation, les repousses de colza peuvent être détruites toutes les trois semaines. L'exploitant devra tenir à disposition de l'administration les justificatifs démontrant l'infestation de l'îlot cultural et la présence de betterave dans la rotation.
 
-4° Destruction des cultures intermédiaires pièges à nitrates et des repousses.
+4° Destruction des cultures intermédiaires pièges à nitrates, des couverts végétaux en interculture et des repousses.
 
-La destruction chimique des cultures intermédiaires pièges à nitrates et des repousses est interdite, sauf sur les îlots culturaux en techniques culturales simplifiées et sur les îlots culturaux destinés à des légumes, à des cultures maraîchères ou à des cultures porte-graines. La destruction chimique est également autorisée sur les îlots culturaux infestés sur l'ensemble de l'îlot par des adventives vivaces sous réserve d'une déclaration à l'administration.
+La destruction chimique des cultures intermédiaires pièges à nitrates, des couverts végétaux en interculture et des repousses est interdite, sauf sur les îlots culturaux en techniques culturales simplifiées, en semis direct sous couvert et sur les îlots culturaux destinés à des légumes, à des cultures maraîchères ou à des cultures porte-graines. La destruction chimique est également autorisée sur les îlots culturaux infestés sur l'ensemble de l'îlot par des adventives vivaces sous réserve d'une déclaration à l'administration.
 
 5° Adaptations régionales.
 

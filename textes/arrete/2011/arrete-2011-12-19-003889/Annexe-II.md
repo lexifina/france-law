@@ -8,15 +8,13 @@ Rappel :
 
 L'azote épandable est défini comme étant l'azote excrété par un animal d'élevage en bâtiment et à la pâture duquel est soustrait l'azote volatilisé lors de la présence de l'animal en bâtiment et lors du stockage des effluents. L'azote volatilisé à la pâture n'est pas soustrait de l'azote excrété (jurisprudence de la Cour de justice de l'Union européenne concernant la mise en œuvre de la directive 91/676/CEE dite directive nitrates ).
 
-A. - Production d'azote épandable par les herbivores,
+A. - Production d'azote épandable par les herbivores, hors vaches laitières
 
-hors vaches laitières
-
-ANIMAUX
+Animaux
 
 |
 
-PRODUCTION N UNITAIRE
+Production N unitaire
 
 |
 
@@ -24,7 +22,7 @@ Herbivores
 
 |
 
-(Kg d'azote/animal présent/an)
+(kg d'azote/animal présent/an)
 
 |
 
@@ -52,7 +50,7 @@ Mâle > 2 ans
 
 |
 
-Femelle 1 - 2 ans, croissance
+Femelle 1-2 ans, croissance
 
 |
 
@@ -60,7 +58,7 @@ Femelle 1 - 2 ans, croissance
 
 |
 
-Mâle 1 - 2 ans, croissance
+Mâle 1-2 ans, croissance
 
 |
 
@@ -68,7 +66,7 @@ Mâle 1 - 2 ans, croissance
 
 |
 
-Bovin 1 - 2 ans, engraissement
+Bovin 1-2 ans, engraissement
 
 |
 
@@ -92,7 +90,7 @@ Femelle < 1 an
 
 |
 
-Mâle 0 - 1 an, croissance
+Mâle 0-1 an, croissance
 
 |
 
@@ -100,7 +98,7 @@ Mâle 0 - 1 an, croissance
 
 |
 
-Mâle 0 - 1 an, engraissement
+Mâle 0-1 an, engraissement
 
 |
 
@@ -116,11 +114,11 @@ Broutard < 1 an, engraissement
 
 |
 
-Brebis
+Brebis viande et bélier
 
 |
 
-10
+11
 
 |
 
@@ -128,15 +126,7 @@ Brebis laitière
 
 |
 
-10
-
-|
-
-Bélier
-
-|
-
-10
+12
 
 |
 
@@ -144,23 +134,15 @@ Agnelle
 
 |
 
-5
+6
 
 |
 
-Chèvre
+Chèvre et bouc
 
 |
 
-10
-
-|
-
-Bouc
-
-|
-
-10
+11
 
 |
 
@@ -172,89 +154,57 @@ Chevrette
 
 |
 
-Cheval
+Jument de trait suitée
 
 |
 
-44
+66,5
 
 |
 
-Cheval (lourd)
+Poulain de trait
 
 |
 
-51
+50
 
 |
 
-Jument seule
+Jument Sport et Loisir suitée
 
 |
 
-37
+45
 
 |
 
-Jument seule (lourd)
+Cheval Sport et Loisir au travail
 
 |
 
-44
+39
 
 |
 
-Jument suitée
+Poney AB (200 kg)
 
 |
 
-44
+23
 
 |
 
-Jument suitée (lourd)
+Poney CD (400 kg)
 
 |
 
-51
-
-|
-
-Poulain 6 mois - 1 an
-
-|
-
-18
-
-|
-
-Poulain 6 mois - 1 an (lourd)
-
-|
-
-22
-
-|
-
-Poulain 1 - 2 ans
-
-|
-
-37
-
-|
-
-Poulain 1 - 2 ans (lourd)
-
-|
-
-44
+35
 
 |
 
 |
 
-(Kg d'azote/place)
+(kg d'azote/place)
 
 |
 
@@ -268,7 +218,7 @@ Place veau de boucherie
 
 |
 
-(Kg d'azote/animal produit)
+(kg d'azote / animal produit)
 
 |
 
@@ -276,7 +226,7 @@ Agneau engraissé produit
 
 |
 
-1,5
+0,8
 
 |
 
@@ -284,7 +234,7 @@ Chevreau engraissé produit
 
 |
 
-1,5
+0,07
 
 |
 
@@ -330,15 +280,15 @@ PRODUCTION LAITIÈRE
 
 |
 
-75 (*)
+75
 
 |
 
-83 (*)
+83
 
 |
 
-91 (*)
+91
 
 |
 
@@ -346,15 +296,15 @@ PRODUCTION LAITIÈRE
 
 |
 
-92 (*)
+92
 
 |
 
-101 (*)
+101
 
 |
 
-111 (*)
+111
 
 |
 
@@ -362,19 +312,15 @@ PRODUCTION LAITIÈRE
 
 |
 
-104 (*)
+104
 
 |
 
-115 (*)
+115
 
 |
 
-126 (*)
-
-|
-
-(*) Pour la période du 1er septembre 2013 au 31 août 2014, une valeur de 95 kgN d'azote/ an/ vache s'applique aux élevages ayant plus de 75 % de surface en herbe dans la surface fourragère principale.
+126
 
 |
 
@@ -384,19 +330,11 @@ ANIMAUX
 
 |
 
-PRODUCTION N
-
-unitaire
+Production d'azote
 
 |
 
-Volailles
-
-|
-
-(g d'azote/animal
-
-produit)
+(gN/ animal produit ou gN/animal élevé)
 
 |
 
@@ -408,7 +346,7 @@ Future reproductrice (œufs et chair)
 
 |
 
-9
+12
 
 |
 
@@ -416,71 +354,19 @@ Label
 
 |
 
-12
+10
 
 |
 
-Pondeuse (œuf et reproduction)
+Pondeuse œuf (2)
 
 |
 
-46
+70
 
 |
 
-Standard
-
-|
-
-15
-
-|
-
-Canard
-
-|
-
-Colvert (pour lâchage)
-
-|
-
-49
-
-|
-
-Colvert (pour tir)
-
-|
-
-104
-
-|
-
-Colvert reproducteur
-
-|
-
-470
-
-|
-
-Barbarie (mixte)
-
-|
-
-72
-
-|
-
-Barbarie mâle
-
-|
-
-85
-
-|
-
-Mulard gras
+Pondeuse reproduction (2)
 
 |
 
@@ -488,11 +374,71 @@ Mulard gras
 
 |
 
+Standard
+
+|
+
+8
+
+|
+
+Canard
+
+|
+
+Barbarie mixte
+
+|
+
+94
+
+|
+
+Barbarie mâle
+
+|
+
+132
+
+|
+
+Colvert (pour lâchage)
+
+|
+
+52
+
+|
+
+Colvert (pour tir)
+
+|
+
+110
+
+|
+
+Colvert reproducteur (2)
+
+|
+
+470
+
+|
+
+Mulard gras
+
+|
+
+61
+
+|
+
 Mulard prêt à gaver (extérieur)
 
 |
 
-112
+113
 
 |
 
@@ -500,7 +446,7 @@ Mulard prêt à gaver (intérieur)
 
 |
 
-122
+129
 
 |
 
@@ -508,7 +454,7 @@ Pékin
 
 |
 
-70
+60
 
 |
 
@@ -520,15 +466,23 @@ Barbarie future reproductrice
 
 |
 
-186
+174
 
 |
 
-Barbarie reproductrice
+Barbarie reproductrice (1)
 
 |
 
-794
+564
+
+|
+
+Pékin (ponte) (1)
+
+|
+
+561
 
 |
 
@@ -536,31 +490,15 @@ Pékin future reproductrice
 
 |
 
-227
+207
 
 |
 
-Pékin (chair)
+Reproductrice (gras) (1)
 
 |
 
-586
-
-|
-
-Pékin (ponte)
-
-|
-
-489
-
-|
-
-Reproductrice (gras)
-
-|
-
-702
+533
 
 |
 
@@ -572,7 +510,7 @@ Barbarie label
 
 |
 
-62
+61
 
 |
 
@@ -580,7 +518,7 @@ Barbarie standard
 
 |
 
-46
+53
 
 |
 
@@ -588,7 +526,7 @@ Mulard à rôtir
 
 |
 
-88
+108
 
 |
 
@@ -596,7 +534,7 @@ Pékin
 
 |
 
-52
+47
 
 |
 
@@ -604,19 +542,27 @@ Chapon
 
 |
 
-Pintade label
-
-|
-
-125
-
-|
-
 Label
 
 |
 
-144
+193
+
+|
+
+Mini chapon label
+
+|
+
+148
+
+|
+
+Chapon de pintade label
+
+|
+
+123
 
 |
 
@@ -624,15 +570,7 @@ Standard
 
 |
 
-142
-
-|
-
-Mini label
-
-|
-
-134
+203
 
 |
 
@@ -640,9 +578,11 @@ Coquelet
 
 |
 
+Standard
+
 |
 
-13
+12
 
 |
 
@@ -654,7 +594,7 @@ A rôtir biologique
 
 |
 
-82
+91
 
 |
 
@@ -662,7 +602,7 @@ A rôtir label
 
 |
 
-80
+239
 
 |
 
@@ -670,23 +610,23 @@ A rôtir standard
 
 |
 
-85
+103
 
 |
 
-Découpe (mixte, bio et label)
+Découpe femelle label
 
 |
 
-208
+193
 
 |
 
-Future reproductrice
+Découpe mâle label
 
 |
 
-588
+339
 
 |
 
@@ -694,7 +634,7 @@ Lourde
 
 |
 
-341
+285
 
 |
 
@@ -702,15 +642,23 @@ Médium
 
 |
 
-227
+237
 
 |
 
-Reproductrice
+Future reproductrice
 
 |
 
-603
+472
+
+|
+
+Reproductrice (1)
+
+|
+
+584
 
 |
 
@@ -722,23 +670,23 @@ Faisan
 
 |
 
-85
+62
 
 |
 
-62 semaines
+Futur reproducteur (32 semaines)
 
 |
 
-299
+88
 
 |
 
-Reproducteur
+Reproducteur (2)
 
 |
 
-285
+137
 
 |
 
@@ -750,7 +698,7 @@ A rôtir
 
 |
 
-305
+455
 
 |
 
@@ -758,7 +706,7 @@ Grasse
 
 |
 
-71
+112
 
 |
 
@@ -766,23 +714,39 @@ Prête à gaver
 
 |
 
-168
+155
 
 |
 
-Reproductrice (chair), par cycle de ponte
+Future reproductrice (chair)
 
 |
 
-655
+567
 
 |
 
-Reproductrice (grasse)
+Future reproductrice (gras)
 
 |
 
-806
+1032
+
+|
+
+Reproductrice (chair), par cycle de ponte (2)
+
+|
+
+625
+
+|
+
+Reproductrice (grasse) (2)
+
+|
+
+772
 
 |
 
@@ -794,23 +758,23 @@ Perdrix
 
 |
 
-34
+29
 
 |
 
-60 semaines
+Future reproductrice (23 semaines)
 
 |
 
-186
+36
 
 |
 
-Reproductrice
+Reproductrice (2)
 
 |
 
-181
+111
 
 |
 
@@ -822,7 +786,7 @@ Par couple
 
 |
 
-331
+312
 
 |
 
@@ -834,23 +798,15 @@ Biologique (bâtiments fixes)
 
 |
 
-58
+68
 
 |
 
-Biologique (cabanes mobiles)
+Biologique (cabane mobile)
 
 |
 
 56
-
-|
-
-Future reproductrice
-
-|
-
-90
 
 |
 
@@ -858,15 +814,7 @@ Label
 
 |
 
-69
-
-|
-
-Reproductrice
-
-|
-
-220
+68
 
 |
 
@@ -874,171 +822,23 @@ Standard
 
 |
 
-52
+42
 
 |
 
-Poule
+Future reproductrice
 
 |
 
-Pondeuse (reproductrice chair)
+51
 
 |
 
-449
+Reproductrice (1)
 
 |
 
-Pondeuse (reproductrice ponte)
-
-|
-
-313
-
-|
-
-Pondeuse biologique (œufs)
-
-|
-
-346
-
-|
-
-Pondeuse label (œufs)
-
-|
-
-375
-
-|
-
-Pondeuse plein air (œufs)
-
-|
-
-354
-
-|
-
-Pondeuse sol (œufs)
-
-|
-
-359
-
-|
-
-Pondeuse standard (œufs) - cage standard
-
-|
-
-349
-
-|
-
-Pondeuse standard (œufs) - cage, fosse profonde
-
-|
-
-242
-
-|
-
-Pondeuse standard (œufs) - cage, séchoir
-
-|
-
-401
-
-|
-
-Poulet
-
-|
-
-Biologique (bâtiments fixes)
-
-|
-
-62
-
-|
-
-Biologique (cabanes mobiles)
-
-|
-
-55
-
-|
-
-Label (bâtiments fixes)
-
-|
-
-57
-
-|
-
-Label (cabanes mobiles)
-
-|
-
-56
-
-|
-
-Standard
-
-|
-
-30
-
-|
-
-Standard léger (export)
-
-|
-
-22
-
-|
-
-Standard lourd
-
-|
-
-41
-
-|
-
-Poulette
-
-|
-
-Œufs - standard cage, label, bio et plein air
-
-|
-
-81
-
-|
-
-Œufs - standard sol
-
-|
-
-83
-
-|
-
-Future reproductrice (ponte)
-
-|
-
-85
+208
 
 |
 
@@ -1050,63 +850,179 @@ Label
 
 |
 
-86
+150
 
 |
 
-D. ― Production d'azote épandable pour les élevages cunicoles
+Poule
+
+|
+
+Pondeuse (reproductrice chair) standard (1)
+
+|
+
+362
+
+|
+
+Pondeuse (reproductrice chair) label (1)
+
+|
+
+507
+
+|
+
+Pondeuse (reproductrice ponte) (1)
+
+|
+
+324
+
+|
+
+Pondeuse biologique (œufs)
+
+|
+
+365
+
+|
+
+Pondeuse label (œufs)
+
+|
+
+373
+
+|
+
+Pondeuse plein air (œufs)
+
+|
+
+365
+
+|
+
+Pondeuse sol (œufs)
+
+|
+
+413
+
+|
+
+Pondeuse standard (œufs) - cage, pré-séchage, hangar
+
+|
+
+436
+
+|
+
+Pondeuse standard (œufs) - cage, séchoir
+
+|
+
+467
+
+|
+
+Poulet
+
+|
+
+Biologique (bâtiments fixes)
+
+|
+
+82
+
+|
+
+Biologique (cabane mobile)
+
+|
+
+82
+
+|
+
+Label (bâtiments fixes)
+
+|
+
+66
+
+|
+
+Label (cabane mobile)
+
+|
+
+74
+
+|
+
+Standard
+
+|
+
+28
+
+|
+
+Standard certifié
+
+|
+
+45
+
+|
+
+(1) Les résultats sont exprimés par femelle présente (la part de l'excrétion du mâle est compris dans le résultat et donc à multiplier par le nombre de femelles).
+
+(2) Les résultats sont exprimés par animal présent (donc à multiplier par le nombre total d'animaux (mâles + femelles).
+
+|
+
+D. ― Production d'azote épandable par les lapins
 
 LAPINS
 
 |
 
-kG D'AZOTE
+PRODUCTION D'AZOTE
 
 |
 
-LAPINS
+|
 
-produits/
-
-an/femelle
+(kg d'azote/animal présent/an)
 
 |
 
-ALIMENTATION
-
-% protéines
+Lapine et sa suite, élevage naisseur engraisseur
 
 |
 
-Lapine, élevage naisseur-engraisseur
+3,46
 
 |
 
-3,24
+Lapine et sa suite, élevage naisseur
 
 |
 
-46
+1,04
 
 |
 
-16,5
-
 |
 
-Lapine, élevage naisseur
-
-|
-
-1,34
-
-|
-
-54,7
-
-|
-
-17,0
+(kg d'azote/animal produit)
 
 |
 
@@ -1114,119 +1030,41 @@ Lapin produit, élevage engraisseur
 
 |
 
-0,044
-
-|
-
-|
-
-16,5
-
-|
-
-E. ― Production d'azote épandable
-
-pour les porcins (kg d'azote/animal produit)
-
-|
-
-SANS COMPOSTAGE
-
-|
-
-AVEC COMPOSTAGE
-
-|
-
-Standard
-
-|
-
-Biphase
-
-|
-
-Standard
-
-|
-
-Biphase
-
-|
-
-Caillebotis seul
-
-|
-
-Truie présente (1)
-
-|
-
-17,5
-
-|
-
-14,5
-
-|
-
-|
-
-|
-
-Post-sevrage (2)
-
-|
-
-0,44
-
-|
-
-0,40
-
-|
-
-|
-
-|
-
-Engraissement (3)
-
-|
-
-3,25
-
-|
-
-2,70
-
-|
-
-|
-
-|
-
-Engraissement (4)
-
-|
-
 0,048
 
 |
 
-0,043
+E. - Production d'azote épandable pour les porcins
+
+La production d'azote épandable par les porcins varie significativement selon le type d'alimentation et selon le type de logement et de système de gestion des déjections.
+
+Production d'azote épandable par les porcins (kg d'azote/animal)
+
+Animaux, par type de logement et de système de gestion des déjections
 
 |
 
-|
+Production d'azote
 
 |
 
-Litière de paille accumulée (6)
+Alimentation Standard
 
 |
 
-Truie présente (1) (5)
+Alimentation Biphase (1)
+
+|
+
+Caillebotis seul (lisier standard)
+
+|
+
+Truie reproductrice (kgN/animal présent/an)
+
+|
+
+17,4
 
 |
 
@@ -1234,19 +1072,221 @@ Truie présente (1) (5)
 
 |
 
-11,8
+Truie non productive (kgN/animal présent/an)
 
 |
 
-11,8
+9,5
 
 |
 
-9,8
+7,8
 
 |
 
-Post-sevrage (2)
+Porcelet post-sevrage (8 à 31 kg) (kgN/ animal produit)
+
+|
+
+0,44
+
+|
+
+0,39
+
+|
+
+Porc à l'engraissement produit (31 à 118 kg)
+
+(kgN/ animal produit)
+
+|
+
+3,17
+
+|
+
+2,60
+
+|
+
+Correction par kg de différence de poids d'abattage (2)
+
+|
+
+0,036
+
+|
+
+0,030
+
+|
+
+Caillebotis et raclage en V
+
+|
+
+(3) Sans compostage
+
+|
+
+(3) Avec compostage
+
+|
+
+(3) Sans compostage
+
+|
+
+(3) Avec
+
+compostage
+
+|
+
+Porc à l'engraissement produit (31 à 118 kg)
+
+(kgN/ animal produit)
+
+|
+
+3,38
+
+|
+
+2,90
+
+|
+
+2,76
+
+|
+
+2,37
+
+|
+
+dont phase solide
+
+|
+
+1,92
+
+|
+
+1,44
+
+|
+
+1,57
+
+|
+
+1,18
+
+|
+
+dont phase liquide
+
+|
+
+1,46
+
+|
+
+1,46
+
+|
+
+1,19
+
+|
+
+1,19
+
+|
+
+Correction par kg de différence de poids d'abattage (2)
+
+|
+
+0,039
+
+|
+
+0,033
+
+|
+
+0,032
+
+|
+
+0,027
+
+|
+
+Litière de paille accumulée
+
+|
+
+Sans compostage
+
+|
+
+Aveccompostage
+
+|
+
+Sanscompostage
+
+|
+
+Aveccompostage
+
+|
+
+Truie reproductrice (kgN/animal présent/an)
+
+|
+
+14,4
+
+|
+
+12,1
+
+|
+
+12,6
+
+|
+
+10,7
+
+|
+
+Truie non productive (kgN/animal présent/an)
+
+|
+
+6,7
+
+|
+
+4,9
+
+|
+
+5,6
+
+|
+
+4,0
+
+|
+
+Porcelet post-sevrage (8 à 31 kg) (kgN/ animal produit)
 
 |
 
@@ -1254,11 +1294,11 @@ Post-sevrage (2)
 
 |
 
-0,29
+0,22
 
 |
 
-0,22
+0,29
 
 |
 
@@ -1266,39 +1306,37 @@ Post-sevrage (2)
 
 |
 
-Engraissement (3)
+Porc à l'engraissement produit (31 à 118 kg)
+
+(kgN/ animal produit)
 
 |
 
-2,33
+2,23
 
 |
 
-1,93
+1,62
 
 |
 
-1,63
+1,88
 
 |
 
-1,35
+1,33
 
 |
 
-Engraissement (4)
+Correction par kg de différence de poids d'abattage (2)
 
 |
 
-0,034
+0,026
 
 |
 
-0,031
-
-|
-
-0,024
+0,019
 
 |
 
@@ -1306,15 +1344,35 @@ Engraissement (4)
 
 |
 
-Litière de sciure accumulée (6)
+0,015
 
 |
 
-Post-sevrage (2)
+Litière de sciure accumulée
 
 |
 
-0,19
+Sans compostage
+
+|
+
+Avec compostage
+
+|
+
+Sans compostage
+
+|
+
+Avec compostage
+
+|
+
+Porcelet post-sevrage (8 à 31 kg) (kgN/ animal produit)
+
+|
+
+0,18
 
 |
 
@@ -1330,56 +1388,68 @@ Post-sevrage (2)
 
 |
 
-Engraissement (3)
+Porc à l'engraissement produit (31 à 118 kg)
+
+(kgN/ animal produit)
 
 |
 
-1,37
+1,35
 
 |
 
-1,14
+1,21
 
 |
 
-1,23
+1,11
 
 |
 
-1,02
+0,99
 
 |
 
-Engraissement (4)
+Correction par kg de différence de poids d'abattage (2)
 
 |
 
-0,020
+0,015
 
 |
 
-0,018
+0,014
 
 |
 
-0,018
+0,013
 
 |
 
-0,016
+0,01
 
 |
 
-(1) Les rejets sont calculés par truie présente et par an (pour 1 200 kg d'aliment par truie et par an).
-
-(2) Les rejets sont calculés par porcelet produit entre 8 et 30 kg de poids vif pour un indice de consommation de 1,74 kg par kg.
-
-(3) Les rejets sont calculés par porc produit entre 30 et 112 kg de poids vif pour un indice de consommation en engraissement de 2,86 kg par kg.
-
-(4) Correction à apporter au rejet lorsque le poids d'abattage est supérieur à 112 kg (kg d'azote par kg poids supplémentaire à l'abattage).
-
-(5) On considère que les truies sont élevées sur caillebotis pendant la lactation et sur litière accumulée aux autres stades (gestation, quarantaine, attente saillie).
-
-(6) Valeurs obtenues pour des litières fonctionnant correctement c'est-à-dire maintenues sèches par une bonne gestion du bâtiment et des apports de paille ou de sciure. Il s'agit d'un compostage post-élevage.
+(1) Teneurs maximales en protéines des aliments à respecter pour utiliser les références relatives à l'alimentation biphase :
 
 |
+
+Biphase : teneurs maximales en protéines des aliments
+
+|
+
+Truies : Gestation : 14,0 % - Lactation : 16,5 %
+
+Post-sevrage : 1er âge : 20,0 % - 2e âge : 18,0 %
+
+Engraissement : Croissance : 16,0 % - Finition : 15,0 % (60 % d'aliment de finition)
+
+|
+
+(2) Correction à apporter à la production d'azote épandable lorsque le poids d'abattage est supérieur à 118 kg, en kg d'azote épandable par kg poids supplémentaire à l'abattage.
+
+(3) Avec ou sans compostage de la phase solide.
+
+|
+
+Nota. - Comme indiqué au V de l'annexe I du présent arrêté, afin d'estimer la production d'azote des porcins de son exploitation, un éleveur de porc peut utiliser, en lieu et place des valeurs du tableau ci-dessus, le résultat d'un bilan réel simplifié. Le calcul du bilan réel simplifié doit être réalisé à l'aide de l'un des outils de calcul cité dans la brochure du réseau mixte technologique élevages et environnement relative aux rejets d'azote des porcs la plus récente, et l'éleveur doit tenir à disposition de l'administration les états de sortie de l'outil de calcul du bilan réel simplifié, ainsi que tout élément justifiant la pertinence des données saisies dans l'outil de calcul (en particulier la gestion technico-économique ou les pièces comptables et bordereaux d'enlèvement des animaux et les factures d'aliments).
