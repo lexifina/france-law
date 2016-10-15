@@ -1,0 +1,1225 @@
+# Article ANNEXE II
+
+ANNEXE 2
+
+INSTALLATIONS HYDRAULIQUES DE SÉCURITÉ, RELEVANT DE L'ARTICLE L.163-11 DU CODE MINIER, GÉRÉES PAR LE DPSM (BRGM) AU 1ER JANVIER 2016
+
+BASSIN
+
+minier |
+
+NATURE
+
+de l'installation |
+
+CONCESSION |
+
+COMMUNE |
+
+SITE |
+
+NOM DE L'INSTALLATION |
+
+Centre Ouest |
+
+Canalisations |
+
+Barbecot |
+
+Bromont Lamothe |
+
+(vide) |
+
+puits Ste Barbe |
+
+La Vernade |
+
+Saint Eloy les Mines |
+
+Saint Eloy |
+
+Emergences minières |
+
+La Vernade |
+
+Saint Eloy |
+
+Le Périmètre de l'Aumance |
+
+Buxières les Mines |
+
+Les Gauthrins |
+
+Messeix |
+
+Messeix |
+
+Les Mouillères |
+
+Barbery |
+
+Saint Germain le Vasson |
+
+Descenderie du Livet (flanc Sud) |
+
+Soummont |
+
+Soumont Saint Quentin |
+
+Galerie de Saint Quentin (flanc Sud) |
+
+Jurques |
+
+Jurques |
+
+TB 256 |
+
+Mont-Pinçon |
+
+Le Plessis-Grimoult |
+
+TB Anguet |
+
+Blanzy Montceau |
+
+Perrecy les Forges |
+
+Ramus |
+
+Piézomètres |
+
+Le Périmètre de l'Aumance |
+
+Saint Hilaire |
+
+Saint Charles |
+
+Sainte Marie |
+
+Saint Hilaire |
+
+Blanzy Montceau |
+
+Perrecy les Forges |
+
+Ramus |
+
+Stations de traitement des eaux |
+
+Le Périmètre de l'Aumance |
+
+Buxières les Mines |
+
+Les Gauthrins |
+
+Messeix |
+
+Messeix |
+
+Les Mouillères |
+
+Blanzy Montceau |
+
+Perrecy les Forges |
+
+Ramus |
+
+Surverses de lacs miniers |
+
+Montceau les Mines |
+
+Barrat Lucy/ Ruisseau des Marais |
+
+Saint Louis/La Bourbince |
+
+Sanvignes les Mines |
+
+Les Fouthiaux/Ruisseau du Moulin Neuf |
+
+Forages de décharge |
+
+La Vernade |
+
+Saint Eloy les Mines |
+
+forage de décharge de St Eloy |
+
+Est |
+
+Canalisations |
+
+De Wendel H |
+
+Petite Rosselle |
+
+Bassin Saint Charles |
+
+Ouvrage de gestion des eaux |
+
+Digues |
+
+(vide) |
+
+Bassin St Charles |
+
+Rosbruck |
+
+Rosbruck |
+
+Emergences minières |
+
+Bassompierre 1 |
+
+Fontoy |
+
+Galerie de Knutange |
+
+Bois d'Avril |
+
+Avril |
+
+Galerie du Bois d'Avril |
+
+Rombas |
+
+Moyeuvre Grande |
+
+Ancienne galerie de Moyeuvre |
+
+Galerie de Moyeuvre Grande |
+
+Saint Pierremont |
+
+Mancieulles |
+
+Galerie du Woigot |
+
+Forages de rabattement |
+
+Amodiation du Warndt -Allemagne |
+
+Nassweiler |
+
+F10 |
+
+F11 |
+
+De Wendel H |
+
+Forbach |
+
+Forbach 1 |
+
+Forbach 2 |
+
+Rosbruck |
+
+F12 |
+
+F13 |
+
+Sarre et Moselle |
+
+Betting les Saint Avold |
+
+F4 |
+
+F5 |
+
+F6 |
+
+Creutzwald |
+
+Croix |
+
+CREU-Rabat1 |
+
+Poste |
+
+CREU-Rabat2 |
+
+Est |
+
+Forages de rabattement |
+
+Sarre et Moselle |
+
+Freyming Merlebach |
+
+(vide) |
+
+F1 |
+
+F2 |
+
+F3 |
+
+Hombourg Haut |
+
+F7 |
+
+F8 |
+
+F9 |
+
+Varsberg |
+
+Varsberg |
+
+Piézomètres |
+
+De Wendel H |
+
+Forbach |
+
+FORB ALL 1 |
+
+FORB ALL 2 |
+
+FORB GTI 1 |
+
+Puits Marienau |
+
+Puits Simon 5 |
+
+PZ SDEC E2 |
+
+SP 2003 06 |
+
+Morsbach |
+
+IPA 3 |
+
+Petite Rosselle |
+
+SP 2003 04 |
+
+Puits St Charles 3 |
+
+Rosbruck |
+
+ROS ALL1 |
+
+ROS ALL2 |
+
+ROS GTI 1 |
+
+Schœneck |
+
+P50 |
+
+PZ SDEC E5 |
+
+SP 2007 01 |
+
+Stiring Wendel |
+
+PZ SDEC E10 |
+
+La Houve |
+
+Creutzwald |
+
+LH 2003 01 |
+
+LH 2003 02 |
+
+LH 2003 03 |
+
+LH 2003 04 |
+
+LH 2003 05 |
+
+LH 2003 06 |
+
+Puits 1 |
+
+Puits 2 |
+
+Puits 4 |
+
+PZ SDEC 02 |
+
+Sarre et Moselle |
+
+Betting les Saint Avold |
+
+BET ALL 1 |
+
+BET ALL 2 |
+
+BET ALL 3 |
+
+BET GTI 1 |
+
+IPA 2 |
+
+Cocheren |
+
+COCH ALL 1 |
+
+COCH ALL 2 |
+
+COCH GTI 1 |
+
+Creutzwald |
+
+IPA 1 |
+
+Puits Barrois |
+
+PZ Gti Barrois |
+
+PZ GTi Lac Creutzwald |
+
+PZ SDEC 04 |
+
+PZ SDEC 05 |
+
+CREU-GTi 2 |
+
+CREU-All 1 |
+
+Est |
+
+Piézomètres |
+
+Sarre et Moselle |
+
+Creutzwald |
+
+(vide) |
+
+CREU-All 2 |
+
+CREU-GTi 1 |
+
+CREU-All 9 |
+
+CREU-All 10 |
+
+CREU-All 3 |
+
+CREU-GTi 3 |
+
+CREU-GTi 4 |
+
+CREU-GTi 5 |
+
+CREU-GTi 6 |
+
+CREU-All 5 |
+
+CREU-All 6 |
+
+CREU-All 7 |
+
+CREU-All 8 |
+
+CREU-All 11 |
+
+CREU-All 12 |
+
+CREU-All 13 |
+
+CREU-All 14 |
+
+CREU-All 15 |
+
+CREU-All 16 |
+
+Freyming Merlebach |
+
+MERL ALL 1 |
+
+MERL ALL 2 |
+
+MERL GTI 1 |
+
+Puits Vouters |
+
+Pz GTi Vouters |
+
+Pz lagune Vouters |
+
+Ham sous Varsberg |
+
+HAM GTI |
+
+HAM ALL |
+
+Hombourg Haut |
+
+HOM ALL 1 |
+
+HOM ALL 2 |
+
+HOM ALL 3 |
+
+HOM GTI 1 |
+
+L'Hôpital |
+
+Puits 2 |
+
+Saint Avold |
+
+STAV ALL 2 |
+
+STAV GTI 1 |
+
+Varsberg |
+
+PZ Varsberg |
+
+Stations de pompage |
+
+De Wendel H |
+
+Forbach |
+
+Puits Simon 5 |
+
+La Houve |
+
+Creutzwald |
+
+Forage F28 |
+
+Puits 1 |
+
+Sarre et Moselle |
+
+Freyming Merlebach |
+
+Puits Vouters |
+
+Stations de relevage des eaux |
+
+Amodiation du Warndt -Allemagne |
+
+Grossrosseln |
+
+Grande Rosselle |
+
+De Wendel H |
+
+Forbach |
+
+Cadario |
+
+Morsbach |
+
+Sortie autoroute |
+
+Rosbruck |
+
+Poste anticrues |
+
+Weihergraben |
+
+Sarre et Moselle |
+
+Ham sous Varsberg |
+
+dispositif de drainage |
+
+Stations de traitement des eaux |
+
+De Wendel H |
+
+Forbach |
+
+Simon |
+
+La Houve |
+
+Creutzwald |
+
+Creutzwald |
+
+Sarre et Moselle |
+
+Freyming Merlebach |
+
+Vouters |
+
+Nord |
+
+Digues |
+
+Bruay |
+
+Bruay la Buissière |
+
+(vide) |
+
+Bruay |
+
+Piézomètres |
+
+Auchy au Bois |
+
+Ligny lès Aire |
+
+Puits 2 - 2 bis |
+
+PZC L bis |
+
+Bruille |
+
+Bruille les Saint Amand |
+
+PZC B |
+
+PZH B |
+
+Crespin |
+
+Quiévrechain |
+
+PZC Q |
+
+PZH Q |
+
+Meurchin |
+
+Provin |
+
+PZC P |
+
+PZH P |
+
+Vimy Fresnoy |
+
+Vimy |
+
+Puits 1 - 1 bis |
+
+PZC V |
+
+Stations de relevage des eaux |
+
+Aniche |
+
+Dechy |
+
+République |
+
+Douai |
+
+Frais Marais |
+
+Solitude |
+
+Pecquencourt |
+
+Ecaillon |
+
+Lemay Sainte Marie |
+
+Nouvelle cité de Pecquencourt |
+
+Vred |
+
+Rieulay |
+
+Larentis |
+
+Sin le Noble |
+
+Berg ob Zoom |
+
+Bois des Retz |
+
+Godion |
+
+Viviers de Sin |
+
+Somain |
+
+Boquet |
+
+Waziers |
+
+Cité Dincq |
+
+GC 35 |
+
+Anzin |
+
+Fenain |
+
+Ramette |
+
+Wallers |
+
+Route d'Hélesmes |
+
+Bruay |
+
+Bruay la Buissière |
+
+Marmottan |
+
+Rue d'Amont |
+
+Courrières |
+
+Loison sous Lens |
+
+Loison Canal |
+
+Noyelles sous Lens |
+
+Cimetière |
+
+Nord Africains |
+
+Noyelles Pont |
+
+Escautpont |
+
+Fresnes sur Escaut |
+
+Putemont rive droite |
+
+Putemont rive gauche |
+
+Flines les Raches |
+
+Anhiers |
+
+Belle Inutile |
+
+Fresnes |
+
+Fresnes sur Escaut |
+
+Fort Masys |
+
+L'Escarpelle |
+
+Auby |
+
+Eglise |
+
+Pasteur |
+
+Flers en Escrebieux |
+
+Marais de Flers |
+
+Raimbeaucourt |
+
+Boussinières |
+
+Charlieu |
+
+Cornet |
+
+Roost Warendin |
+
+Bernicourt |
+
+Chapeau |
+
+Paturelles |
+
+Vallée de Scarpe |
+
+Marles |
+
+Marles les Mines |
+
+Pont de Divion |
+
+Rue des Ecoles |
+
+Nord |
+
+Stations de relevage des eaux |
+
+Meurchin |
+
+Wingles |
+
+(vide) |
+
+Chemin du Clair |
+
+Marais des Iles |
+
+Odomez |
+
+Odomez |
+
+Odomez |
+
+Raismes |
+
+Escautpont |
+
+Mare Ansart |
+
+Saint Aybert |
+
+Thivencelle |
+
+Saint Pierre bis |
+
+Saint Saulve |
+
+Onnaing |
+
+Alouettes |
+
+Petit Diable |
+
+Pré le Comte |
+
+Vicq |
+
+Gros Charles |
+
+Landimoret |
+
+Vieux Condé |
+
+Condé sur l'Escaut |
+
+Canarderie |
+
+Moulineaux |
+
+Vieux Condé |
+
+Amaury rive gauche |
+
+Sud |
+
+Canalisations |
+
+La Grand'Combe Ouest |
+
+Laval Pradel |
+
+Galerie du ruisseau de Lascous |
+
+Plan incliné des Oules |
+
+fossé des Oules |
+
+C3 |
+
+Fuveau - Gréasque |
+
+Madame d'André |
+
+Emergences minières |
+
+Boussagues |
+
+La Tour sur Orb |
+
+TB Frangouille |
+
+Cessous Trebiau |
+
+La Vernarède |
+
+Galerie de Cornas |
+
+La Grand'Combe Ouest |
+
+La Grand'Combe |
+
+Galerie Corniche |
+
+Galerie Mas Blanc |
+
+Galerie Mine Roux |
+
+Galerie Sainte Barbe |
+
+Galerie Thérond |
+
+Galerie Verrerie |
+
+Le Devois de Graissessac |
+
+Graissessac |
+
+TB de Grand Champ |
+
+Portes &amp; Senechas |
+
+La Vernarède |
+
+Galerie Burat |
+
+Robiac
+
+&amp; Meyrannes |
+
+Bessèges |
+
+Galerie Saint François |
+
+Galerie Sainte Illyde |
+
+Molières sur Cèze |
+
+Galerie Chalmeton |
+
+Galerie Silhol |
+
+Rochebelle |
+
+Alès |
+
+Galerie la Royale |
+
+Galerie la Royale 2 |
+
+Galerie Saint Pierre |
+
+Saint Martin
+
+de Valgalgues |
+
+Galerie nationale |
+
+Ruffas |
+
+Le Bousquet d'Orb |
+
+TB 250 |
+
+Trelys
+
+&amp; Palmesalade |
+
+Martinet |
+
+Galerie des Esteyraings |
+
+Galerie Piqueur |
+
+Galerie Plan |
+
+Rochessadoule |
+
+Galerie Saint Hyppolite |
+
+Combes |
+
+Aubin |
+
+Ecoulement Destresse |
+
+Emergence Combes Feuillantines |
+
+Emergence de la Bouyssonie 2 |
+
+Cransac |
+
+Cransac |
+
+Emergence Augustin |
+
+Emergence du Fraysse |
+
+Decazeville Firmi |
+
+Aubin |
+
+Emergence du Moulin |
+
+Decazeville |
+
+Emergence de Fontvernhes |
+
+Sud |
+
+Emergences minières |
+
+Lavernhe |
+
+Aubin |
+
+(vide) |
+
+Emergence du Gua |
+
+Emergence du Crol Bas/Fournol |
+
+Cransac |
+
+Emergence de Campagnac |
+
+Emergence du Mas de Mouly |
+
+C11 |
+
+Trets |
+
+Galerie Desfarges |
+
+C12 |
+
+La Bouilladisse |
+
+Galerie de Pinchinier |
+
+C3 |
+
+Fuveau |
+
+Galerie de Fuveau |
+
+C8 |
+
+Peypin |
+
+Galerie la Doria |
+
+Hors concession - C4 - C5 |
+
+Marseille - Mimet - Simiane |
+
+Galerie de la Mer |
+
+Cluzel |
+
+Saint Genest Lerpt |
+
+Bas Cluzel |
+
+Cluzel Haut |
+
+Côte en Velin |
+
+Fourneaux |
+
+Côte en Velin |
+
+La Jonche |
+
+Saint Arey |
+
+Galerie de Combe Neveuse |
+
+Galerie de la Beaume |
+
+La Motte
+
+d'Aveillans |
+
+La Motte d'Aveillans |
+
+Forage de décharge |
+
+Galerie N10 bis |
+
+Galerie N14 |
+
+Galerie N4 bis |
+
+Galerie N6 Comberamis |
+
+La Motte Saint Martin |
+
+Galerie de la Faurie |
+
+Galerie N3 sous la Molière |
+
+Montrambert |
+
+La Ricamarie |
+
+Fendue Lyon |
+
+Peychagnard
+
+Nouvelle |
+
+Prunières |
+
+Galerie Badier 1 |
+
+Galerie Merle |
+
+Susville |
+
+Galerie du Peychagnard N10 |
+
+Galerie Fontveille 1 |
+
+Roche la Molière &amp; Firminy |
+
+Firminy |
+
+Bas Mas |
+
+Roche la Molière |
+
+Rieux |
+
+Roare |
+
+Villars |
+
+Villars |
+
+Terrenoire |
+
+Saint Etienne |
+
+La Massardière |
+
+Charmes et Soyons |
+
+Soyons |
+
+Galerie G7, G8, G9, G10 |
+
+Forages de rabattement |
+
+Decazeville Firmi |
+
+Decazeville |
+
+Vialarels 2/170 |
+
+Piézomètres |
+
+Rochebelle |
+
+Alès |
+
+Rochebelle |
+
+Salsigne |
+
+Salsigne |
+
+MCO |
+
+Cheminée Panneau Sud |
+
+Bouquiès |
+
+Decazeville |
+
+(vide) |
+
+Crucifix |
+
+Cransac |
+
+Cransac |
+
+Puits 1 nouveau |
+
+Treille haute 1 |
+
+C2 |
+
+Gardanne |
+
+Puits Z |
+
+C4 |
+
+Puits Y |
+
+Mimet |
+
+Puits Gérard |
+
+Fontsante |
+
+Tanneron/Callian |
+
+bassin Lenté |
+
+PZ1 |
+
+PZ2 |
+
+PZ3 |
+
+PZ4 |
+
+Prélèvements d'eaux
+
+de surface |
+
+confluent fossé
+
+ruisseau
+
+des Charretiers |
+
+P1 |
+
+Sud |
+
+Stations de pompage |
+
+Rochebelle |
+
+Saint Martin
+
+de Valgalgues |
+
+(vide) |
+
+Puits Fontanes |
+
+Decazeville Firmi |
+
+Decazeville |
+
+Lac de Lassalle |
+
+C4 |
+
+Mimet |
+
+Puits Gérard |
+
+Stations
+
+de relevage
+
+des eaux |
+
+C3 |
+
+Gardanne |
+
+Les Sauvaires |
+
+Stations de traitement des eaux |
+
+Rochebelle |
+
+Saint Martin
+
+de Valgalgues |
+
+Destival |
+
+Hors concession - C4 - C5 |
+
+Marseille - Mimet - Simiane |
+
+Galerie de la Mer complétée par 3 sondages en mer |
+
+Montrambert |
+
+Le Chambon Feugerolles |
+
+Montrambert |
