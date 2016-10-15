@@ -1,553 +1,79 @@
 # Article Annexe 3
 
-DÉCLARATION D'INTÉRÊTS
+CONTENU DE LA DÉCLARATION D'INTÉRÊTS
 
-En qualité de : ..................................
+1° L'identification du déclarant :
 
-Nom : Prénom : ..................................
+-le nom, le prénom et la date de naissance du déclarant ;
 
-☐ Date de nomination ou d'entrée en fonctions :.../.../...
+-l'adresse postale, l'adresse électronique et les coordonnées téléphoniques du déclarant ;
 
-☐ Date de renouvellement ou de fin de fonctions :.../.../...
+-le mandat ou les fonctions au titre desquels le déclarant effectue la déclaration ainsi que la date d'élection ou de nomination dans ce mandat ou ces fonctions ;
 
-Indications générales
+-pour les dirigeants d'organismes publics, le nom de l'organisme dirigé ;
 
-1. En vertu de l'article 2 de la loi n° 2013-907 du 11 octobre 2013 susvisée, constitue un conflit d'intérêts toute situation d'interférence entre un intérêt public et des intérêts publics ou privés qui est de nature à influencer ou à paraître influencer l'exercice indépendant, impartial et objectif d'une fonction.
+-pour les dirigeants d'entreprises publiques, le chiffre d'affaires de l'entreprise l'année précédant la nomination et, le cas échéant, le nom du groupe auquel appartient l'entreprise ;
 
-2. En vertu du I de l'article 4 et du I de l'article 11 de la même loi, la déclaration d'intérêts qui vise à prévenir la survenance des conflits d'intérêts porte sur les intérêts détenus à la date d'élection et dans les cinq années précédant cette date. La déclaration précise le montant des rémunérations, indemnités ou gratifications perçues au titre des éléments mentionnés aux 1° à 5° et 8° de la présente déclaration.
+-pour les dirigeants d'organismes publics de l'habitat, le nombre de logements gérés par l'organisme l'année précédant la nomination ;
 
-3. La mention néant doit être portée dans les rubriques non remplies.
+2° Les activités professionnelles donnant lieu à rémunération ou gratification exercées à la date de l'élection ou de la nomination ou au cours des cinq dernières années précédant la déclaration :
 
-4. La déclaration doit être signée personnellement et chaque page paraphée.
+-l'identification de l'employeur ;
 
-Renseignements personnels :
+-la description de l'activité professionnelle exercée ;
 
-Année de naissance : ..................................
+-la période d'exercice de l'activité professionnelle ;
 
-Profession : ..................................
+-la rémunération ou la gratification perçue annuellement pour chaque activité ;
 
-Adresse à utiliser pour le courrier : ..................................
+3° Les activités de consultant exercées à la date de l'élection ou de la nomination ou au cours des cinq années précédant la date de la déclaration :
 
-Coordonnées : ..................................
+-l'identification de l'employeur ;
 
-1° Les activités professionnelles donnant lieu à rémunération ou gratification exercées à la date de l'élection ou de la nomination :
+-la description de l'activité professionnelle exercée ;
 
-DESCRIPTION DE L'ACTIVITÉ PROFESSIONNELLE
+-la période d'exercice de l'activité professionnelle ;
 
-|
+-la rémunération ou la gratification perçue annuellement pour chaque activité ;
 
-RÉMUNÉRATION OU GRATIFICATION PERÇUE
+4° La participation aux organes dirigeants d'un organisme public ou privé ou d'une société à la date de l'élection ou de la nomination et au cours des cinq années précédant la date de la déclaration :
 
-|
+-la dénomination de l'organisme ou la société ;
 
-|
+-la description de l'activité exercée au sein des organes dirigeants ;
 
-|
+-la période pendant laquelle le déclarant a participé à des organes dirigeants ;
 
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-2° Les activités professionnelles ayant donné lieu à rémunération ou gratification exercées au cours des cinq dernières années :
-
-DESCRIPTION DE L'ACTIVITÉ PROFESSIONNELLE
-
-|
-
-RÉMUNÉRATION OU GRATIFICATION PERÇUE
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-3° Les activités de consultant exercées à la date de l'élection ou de la nomination et au cours des cinq dernières années :
-
-IDENTIFICATION DE L'EMPLOYEUR
-
-ou de la structure sociale d'emploi
-
-|
-
-DESCRIPTION DE L'ACTIVITÉ
-
-professionnelle
-
-|
-
-RÉMUNÉRATION OU
-
-gratification perçue
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-4° Les participations aux organes dirigeants d'un organisme public ou privé ou d'une société à la date de l'élection ou de la nomination ou lors des cinq dernières années :
-
-IDENTIFICATION DE L'ORGANISME public ou privé ou de la société
-
-|
-
-DESCRIPTION DE L'ACTIVITÉ
-
-|
-
-RÉMUNÉRATION OU
-
-gratification perçue
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
+-la rémunération ou la gratification perçue annuellement pour chaque participation ;
 
 5° Les participations financières directes dans le capital d'une société à la date de l'élection ou de la nomination :
 
-IDENTIFICATION DE LA SOCIÉTÉ
+-la dénomination de la société ;
 
-|
+-le nombre de part détenues dans la société et, lorsqu'il est connu, le pourcentage du capital social détenu ;
 
-ÉVALUATION DE
+-l'évaluation de la participation financière ;
 
-la participation financière
-
-|
-
-RÉMUNÉRATION OU
-
-gratification perçue
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
+-la rémunération ou la gratification perçue pendant l'année précédant l'élection ou la nomination ;
 
 6° Les activités professionnelles exercées à la date de l'élection ou de la nomination par le conjoint, le partenaire lié par un pacte civil de solidarité ou le concubin :
 
-IDENTIFICATION DU CONJOINT, DU PARTENAIRE
+-les nom et prénom du conjoint, du partenaire lié par un pacte civil de solidarité ou du concubin ;
 
-lié par un pacte civil de solidarité ou du concubin
+-l'identification de l'employeur ;
 
-|
-
-DESCRIPTION DE L'ACTIVITÉ PROFESSIONNELLE
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
+-la description de l'activité professionnelle exercée ;
 
 7° Les fonctions bénévoles susceptibles de faire naître un conflit d'intérêts :
 
-IDENTIFICATION DE LA STRUCTURE
+-le nom et l'objet social de la structure ou de la personne morale dans laquelle les fonctions sont exercées ;
 
-ou de la personne morale
-
-|
-
-DESCRIPTION DES ACTIVITÉS
-
-et responsabilités exercées
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
+-la description des activités et des responsabilités exercées ;
 
 8° Les fonctions et mandats électifs exercés à la date de l'élection ou de la nomination :
 
-IDENTIFICATION DES FONCTIONS
+-la nature des fonctions et des mandats exercés ;
 
-et mandats électifs
+-la date de début et de fin de fonction ou de mandat ;
 
-|
-
-DATE DE DÉBUT ET DE FIN
-
-de fonctions et mandats électifs
-
-|
-
-RÉMUNÉRATIONS, INDEMNITÉS
-
-ou gratifications perçues
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-9° Observations :
-
-Il est enfin rappelé que le code pénal punit d'une peine de trois ans d'emprisonnement et de 45 000 € d'amende le fait d'omettre de déclarer une partie substantielle de son patrimoine ou de fournir une évaluation mensongère de son patrimoine, et d'une peine d'un an d'emprisonnement et de 15 000 € d'amende le fait de ne pas communiquer les informations et pièces utiles à l'exercice de la mission de la Haute Autorité pour la transparence de la vie publique.
-
-Peuvent être prononcées à titre complémentaire de la première de ces peines l'interdiction des droits civiques selon les modalités prévues aux articles 131-26 et 131-26-1 du code pénal ainsi que l'interdiction d'exercer une fonction publique selon les modalités prévues à l'article 131-27 du même code.
-
-Je soussigné : ........................................................
-
-certifie sur l'honneur l'exactitude des renseignements indiqués dans la présente déclaration.
-
-Fait le..............................................................
-
-Signature
+-les rémunérations, indemnités ou gratifications perçues annuellement pour chaque fonction ou mandat.

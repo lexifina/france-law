@@ -1,1271 +1,147 @@
 # Article Annexe 1
 
-DÉCLARATION DE SITUATION PATRIMONIALE
+CONTENU DE LA DÉCLARATION INITIALE DE SITUATION PATRIMONIALE
 
-En qualité de : ...................................
+1° L'identification du déclarant :
 
-Nom : ................................... Prénom : ...................................
+-le nom, le prénom et la date de naissance du déclarant ;
 
-☐ Déclaration de début de mandat
+-pour les personnes mariées, le régime matrimonial ;
 
-☐ Date de nomination ou d'entrée en fonctions : .../.../...
+-l'adresse postale, l'adresse électronique et les coordonnées téléphoniques du déclarant ;
 
-☐ Déclaration de fin de mandat
+-le mandat ou les fonctions au titre desquels le déclarant effectue la déclaration ainsi que la date d'élection ou de nomination dans ce mandat ou ces fonctions ;
 
-☐ Date de renouvellement ou de fin de fonctions : .../.../...
+2° Les immeubles bâtis et non bâtis :
 
-Indications générales
+-l'adresse, la nature et la superficie du bien ;
 
-1. L'ensemble des biens doit être déclaré, y compris ceux détenus à l'étranger et ceux n'entrant pas dans l'assiette de l'impôt de solidarité sur la fortune. Pour ce motif, la production d'une déclaration faite au titre de l'impôt de solidarité sur la fortune ne dispense pas de remplir la présente déclaration de patrimoine. Cette déclaration peut être accompagnée des pièces et justificatifs utiles. Les biens sont évalués à la date du fait générateur de la déclaration comme en matière de droits de mutation à titre gratuit.
+-le mode d'acquisition du bien ;
 
-2. En vertu du II de l'article LO 135-1 du code électoral et du II de l'article 4 de la loi n° 2013-907 du 11 octobre 2013 susvisée, la déclaration de situation patrimoniale doit faire apparaître s'il s'agit de biens propres, de biens indivis ou de biens de la communauté. S'il s'agit de biens indivis, le déclarant précise la part des droits indivis.
+-la nature juridique du bien, à savoir s'il s'agit d'un bien propre, d'un bien commun ou d'un bien indivis ;
 
-3. En vertu des mêmes dispositions, la Haute Autorité devant apprécier la variation de votre patrimoine, la déclaration doit comporter la présentation des événements majeurs ayant affecté la composition du patrimoine depuis la précédente déclaration (achats, ventes de biens immobiliers, d'entreprises, de fonds de commerce, de clientèles, de charges ou d'offices, emprunts contractés, successions reçues, libéralités reçues ou faites, partages suite à divorce...) ainsi que les variations de la valeur du patrimoine qui en ont résulté.
+-la quote-part du bien détenue par le déclarant ou, le cas échéant, par la communauté ;
 
-4. La mention "néant" doit être portée dans les rubriques non remplies.
+-le droit réel exercé sur le bien par le déclarant ou, le cas échéant, par la communauté, à savoir la pleine propriété, l'usufruit ou la nue-propriété ;
 
-5. La déclaration doit être signée personnellement et chaque page paraphée.
+-la date d'acquisition du bien ;
 
-Pour les dirigeants d'organismes publics :
+-le prix d'acquisition du bien et le montant des travaux effectués depuis cette acquisition ;
 
-Nom de la société :
+-la valeur vénale, à la date du fait générateur de la déclaration, de la quote-part du bien détenue par le déclarant ou, le cas échéant, par la communauté ;
 
-Nom de la société mère ou du groupe :
+3° Les parts de sociétés civiles immobilières :
 
-Chiffre d'affaires (pour les SEM) :
+-la dénomination de la société ;
 
-Nombre de logements (pour les OPH et OPHLM) :
+-l'actif de la société à la date du fait générateur de la déclaration et, pour chaque bien immobilier détenu, les informations mentionnées au 2° ;
 
-Renseignements personnels :
+-le passif de la société à la date du fait générateur de la déclaration ;
 
-Année de naissance :
+-le pourcentage du capital de la société détenu par le déclarant ou, le cas échéant, par la communauté ;
 
-Profession :
+-le droit réel exercé sur les parts de la société par le déclarant ou, le cas échéant, par la communauté, à savoir la pleine propriété, l'usufruit ou la nue-propriété ;
 
-Régime matrimonial :
+-la valeur vénale totale, à la date du fait générateur de la déclaration, des parts détenues par le déclarant ou, le cas échéant, par la communauté ;
 
-Autres mandats ou fonctions :
+4° Les autres valeurs mobilières non cotées en Bourse :
 
-Adresse à utiliser pour le courrier :
+-la dénomination de la société ;
 
-I. ― Immeubles bâtis et non bâtis
+-le pourcentage du capital de la société détenu par le déclarant ou, le cas échéant, par la communauté ;
 
-ADRESSE,
+-le droit réel exercé sur les parts de la société par le déclarant ou, le cas échéant, par la communauté, à savoir la pleine propriété, l'usufruit ou la nue-propriété ;
 
-nature du bien (1),
+-la valeur vénale totale, à la date du fait générateur de la déclaration, des parts détenues par le déclarant ou, le cas échéant, par la communauté ;
 
-superficie
+5° Les instruments financiers :
 
-|
+-le nom du titulaire du compte sur lequel les instruments sont détenus ;
 
-ORIGINE
+-l'établissement teneur du compte ;
 
-de propriété
+-la nature et le numéro du compte ;
 
-(acquisition, succession,
+-le solde du compte à la date du fait générateur de la déclaration ;
 
-donation...)
+6° Les assurances vie :
 
-Nom du précédent
+-le nom du souscripteur du contrat d'assurance-vie ;
 
-propriétaire
+-l'établissement teneur du contrat ;
 
-|
+-la référence du contrat ;
 
-RÉGIME
+-la date de souscription du contrat ;
 
-juridique du bien (2)
+-la valeur de rachat du contrat à la date du fait générateur de la déclaration ;
 
-|
+7° Les comptes bancaires courants et les produits d'épargne :
 
-DATE
+-le nom du titulaire du compte ;
 
-d'acquisition
+-l'établissement teneur du compte ;
 
-|
+-la nature et le numéro de compte ;
 
-PRIX
+-le solde du compte à la date du fait générateur de la déclaration ;
 
-d'acquisition et montant des travaux effectués depuis
+8° Les biens mobiliers divers, lorsque leur valeur unitaire est égale ou supérieure à 10 000 € :
 
-|
+-la description du bien ;
 
-VALEUR
+-la valeur du bien à la date du fait générateur de la déclaration ;
 
-vénale (3) (4)
+-la méthode employée par le déclarant pour apprécier la valeur du bien ;
 
-à la date
+9° Les véhicules à moteur :
 
-de la déclaration
+-le type de véhicule ;
 
-|
+-la marque du véhicule ;
 
-|
+-l'année d'achat ;
 
-|
+-la valeur d'acquisition ;
 
-|
+-la valeur à la date du fait générateur de la déclaration ;
 
-|
+10° Les fonds de commerce, les clientèles, les charges et les offices :
 
-|
+-la nature du bien ;
 
-|
+-l'actif à la date du fait générateur de la déclaration ;
 
-|
+-le passif à la date du fait générateur de la déclaration ;
 
-|
+-le résultat fiscal de l'année précédant le fait générateur de la déclaration ;
 
-|
+-le cas échéant, la valeur du fonds de commerce à la date du fait générateur de la déclaration ;
 
-|
+11° Les autres biens, dont les comptes courants de société ou les stock-options, d'une valeur unitaire supérieure ou égale à 10 000 € :
 
-|
+-la nature du bien ;
 
-|
+-pour les comptes courants de société ou les stock-options, la dénomination de la société ;
 
-|
+-la valeur vénale à la date du fait générateur de la déclaration ;
 
-|
+12° Le montant des espèces détenues, à la date du fait générateur de la déclaration, lorsqu'il est supérieur à 10 000 € ;
 
-|
+13° Les biens mobiliers, immobiliers et les comptes détenus à l'étranger :
 
-|
+-la nature du bien et sa localisation ;
 
-|
+-la valeur vénale du bien à la date du fait générateur de la déclaration ;
 
-|
+14° Les éléments du passif, y compris les dettes de nature fiscale :
 
-|
+-l'identification et l'adresse du créancier ;
 
-|
+-la nature, la date et l'objet de la dette ;
 
-|
+-le montant total et la durée de l'emprunt ;
 
-|
+-la somme restant à rembourser à la date du fait générateur de la déclaration ;
 
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-(1) Appartement ― maison individuelle ― local commercial ― terrain, terres agricoles et autres ― garage.
-
-(2) Bien propre ― bien commun ― bien indivis ― propriété directe ― SCI.
-
-(3) Ne donner la valeur vénale que des parts que vous détenez et non la valeur globale du bien.
-
-(4) Ne pas appliquer d'abattement sur la résidence principale.
-
-|
-
-II. ― Valeurs mobilières
-
-1. Valeurs non cotées en Bourse
-
-DÉNOMINATION
-
-et objet de l'entreprise
-
-|
-
-PRIX D'ACQUISITION
-
-|
-
-VALEUR ACTUELLE
-
-|
-
-POURCENTAGE
-
-de participation
-
-dans le capital social
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-.
-
-Pour les déclarations de fin de mandat, de renouvellement ou de cessation d'une fonction, il y a lieu de préciser,
-
-en cas de variation de la valeur des parts, ce qui relève des résultats de l'entreprise et ce qui relève
-
-des versements que vous avez pu effectuer.
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-2. Valeurs cotées en Bourse et placements divers (5)
-
-Il convient d'identifier l'établissement teneur du compte et le numéro de compte.
-
-PORTEFEUILLE, NATURE DU PLACEMENT
-
-|
-
-VALEUR À LA DATE DE LA DÉCLARATION
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-.
-
-Pour les déclarations de fin de mandat, de renouvellement ou de cessation d'une fonction, il y a lieu de préciser la variation de ces valeurs, en indiquant la part qui relève de l'évolution des cours boursiers et de la capitalisation des revenus de ces placements, d'une part, et celle qui relève des versements directs ou des prélèvements que vous avez effectués, d'une part.
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-(5) SICAV, fonds communs de placements, SCPI, PEA, etc.
-
-III. - Assurances vie
-
-Il convient d'identifier l'établissement teneur du contrat et les références de chaque contrat.
-
-NATURE ET DATE DE SOUSCRIPTION DU CONTRAT
-
-|
-
-VALEUR DE RACHAT
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-.
-
-Pour les déclarations de fin de mandat, de renouvellement ou de cessation d'une fonction, il y a lieu de préciser la variation de ces valeurs, en indiquant la part qui relève du taux minimum garanti du capital lors de la souscription de votre contrat d'assurance vie, d'une part, et celle qui relève des versements périodiques ou libres ou des retraits que vous avez effectués, d'autre part.
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-IV. - Comptes bancaires courants ou d'épargne, livrets, LDD, PEL, CEL, espèces ou autres
-
-Il convient d'identifier l'établissement teneur du compte et le numéro de compte.
-
-NATURE DU COMPTE
-
-|
-
-VALEUR À LA DATE DE LA DÉCLARATION
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-V. - Les biens mobiliers divers (notamment : les meubles meublants, les collections, objets d'art,
-
-bijoux, or, pierres précieuses) d'une valeur égale ou supérieure à 10 000 euros
-
-Valeur d'assurance ou évaluation personnelle à la date de la déclaration ou, à défaut, valeur d'acquisition
-
-BIEN
-
-|
-
-VALEUR À LA DATE DE LA DÉCLARATION
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-VI. - Véhicules terrestres à moteur, bateaux, avions, etc.
-
-NATURE
-
-|
-
-MARQUE
-
-|
-
-ANNÉE
-
-d'achat
-
-|
-
-VALEUR
-
-d'acquisition
-
-|
-
-VALEUR ACTUELLE
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-VII. - Fonds de commerce ou clientèles, charges et offices
-
-NATURE
-
-|
-
-ACTIF
-
-|
-
-ENDETTEMENT
-
-|
-
-RÉSULTAT FISCAL
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-VIII - Autres biens, dont les comptes courants de société
-
-d'une valeur égale ou stock-options d'une valeur supérieure à 10 000 euros
-
-NATURE
-
-|
-
-VALEUR À LA DATE DE LA DÉCLARATION
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-IX. - Biens mobiliers, immobiliers et comptes détenus à l'étranger
-
-NATURE
-
-|
-
-VALEUR À LA DATE DE LA DÉCLARATION
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-X. - Passif
-
-ORGANISME PRÊTEUR
-
-ou nom et adresse
-
-du créancier
-
-|
-
-NATURE,
-
-date et objet
-
-de la dette
-
-|
-
-MONTANT TOTAL
-
-et durée de l'emprunt
-
-|
-
-SOMME RESTANT
-
-à rembourser
-
-à la date de la déclaration
-
-|
-
-MONTANT
-
-des mensualités
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-XI. - Revenus perçus depuis le début du mandat ou des fonctions au titre desquels la déclaration est déposée
-
-ANNÉE : 20XX
-
-|
-
-DÉCLARANT
-
-|
-
-CONJOINT-COMMUNAUTÉ
-
-|
-
-Indemnités d'élu
-
-|
-
-|
-
-|
-
-Traitements, salaires
-
-|
-
-|
-
-|
-
-Pensions, retraites, rentes
-
-|
-
-|
-
-|
-
-Revenus professionnels (BNC, BIC)
-
-|
-
-|
-
-|
-
-Revenus de capitaux mobiliers
-
-|
-
-|
-
-|
-
-Revenus fonciers
-
-|
-
-|
-
-|
-
-Revenus exceptionnels
-
-|
-
-|
-
-|
-
-Somme des revenus perçus sur l'année
-
-|
-
-|
-
-|
-
-XII. - Evénements majeurs ayant affecté la composition de votre patrimoine
-
-Les événements majeurs ayant affecté la composition du patrimoine depuis la précédente déclaration doivent être déclarés (achats, ventes de biens immobiliers, d'entreprises, de fonds de commerce, de clientèles, de charges ou d'offices, emprunts contractés, successions reçues, donations reçues ou faites, partages suite à divorce) ainsi que les variations de la valeur du patrimoine qui en ont résulté.
-
-NATURE ET DATE
-
-des événements
-
-|
-
-ENTRÉE
-
-dans votre patrimoine
-
-(montant)
-
-|
-
-SORTIE
-
-de votre patrimoine
-
-(montant)
-
-|
-
-RÉEMPLOI
-
-des sommes perçues
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-XIII. - Observations diverses
-
-Il est enfin rappelé que le code pénal punit d'une peine de trois ans d'emprisonnement et de 45 000 € d'amende le fait d'omettre de déclarer une partie substantielle de son patrimoine ou de fournir une évaluation mensongère de son patrimoine, et d'une peine d'un an d'emprisonnement et de 15 000 € d'amende le fait de ne pas communiquer les informations et pièces utiles à l'exercice de la mission de la Haute Autorité pour la transparence de la vie publique.
-
-Peuvent être prononcées à titre complémentaire de la première de ces peines l'interdiction des droits civiques selon les modalités prévues aux articles 131-26 et 131-26-1 du code pénal ainsi que l'interdiction d'exercer une fonction publique selon les modalités prévues à l'article 131-27 du même code.
-
-Je soussigné :
-
-certifie sur l'honneur l'exactitude des renseignements indiqués dans la présente déclaration.
-
-Fait le
-
-Signature
+-le montant des mensualités.

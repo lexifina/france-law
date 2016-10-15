@@ -1,73 +1,29 @@
 # Article Annexe 2
 
-DÉCLARATION DE MODIFICATION SUBSTANTIELLE DE LA DÉCLARATION DE SITUATION PATRIMONIALE
+CONTENU DE LA DÉCLARATION DE SITUATION PATRIMONIALE DE FIN DE MANDAT OU DE FONCTIONS
 
-En qualité de : ..................................
+1° La date de fin de mandat ou de fonctions ;
 
-Nom : .................................. Prénom : ..................................
+2° Les revenus perçus chaque année depuis le début du mandat ou des fonctions au titre desquels la déclaration est effectuée et, si le déclarant est marié sous le régime de la communauté, les revenus perçus par son conjoint :
 
-☐
+-les indemnités d'élus ;
 
-Date de la dernière déclaration :.../.../...
+-les traitements et salaires ;
 
-Indications générales
+-les pensions, retraites ou rentes ;
 
-1. En vertu du II de l'article LO 135-1 du code électoral et du II de l'article 4 de la loi n° 2013-907 du 11 octobre 2013 susvisée la Haute Autorité devant apprécier l'évolution de votre patrimoine, la déclaration doit comporter la présentation des événements majeurs ayant affecté la composition du patrimoine depuis la précédente déclaration (achats, ventes de biens immobiliers, d'entreprises, de fonds de commerce, de clientèles, de charges ou d'offices, emprunts contractés, successions reçues, donations reçues ou faites, partages suite à divorce) ainsi que les variations de la valeur du patrimoine qui en ont résulté.
+-les revenus professionnels commerciaux, non commerciaux ou agricoles ;
 
-2. La mention " néant " doit être portée dans les rubriques n'ayant pas connu de modifications substantielles.
+-les revenus de capitaux mobiliers ;
 
-3. La déclaration doit être signée personnellement et chaque page paraphée.
+-les revenus fonciers ;
 
-Renseignements personnels :
+-les plus-values mobilières et immobilières ;
 
-Année de naissance : ..................................
+-les autres revenus ;
 
-Profession : ..................................
+3° Les évènements majeurs ayant affecté la composition du patrimoine du déclarant depuis le début du mandat ou des fonctions au titre desquels la déclaration est effectuée :
 
-Adresse à utiliser pour le courrier : ..................................
+-la nature et la date de l'évènement ;
 
-Coordonnées : ..................................
-
-I. ― Immeubles bâtis et non bâtis : ..................................
-
-II. ― Valeurs mobilières : ..................................
-
-III. ― Assurances vie : ..................................
-
-IV. ― Comptes bancaires courants ou d'épargne, livrets, LDD, PEL, CEL, espèces ou autres : ..................................
-
-V. ― Les biens mobiliers divers (notamment : les meubles meublants, les collections, objets d'art, bijoux, or, pierres précieuses) d'une valeur égale ou supérieure à 10 000 euros : ..................................
-
-VI. ― Véhicules terrestres à moteur, bateaux, avions, etc. :
-
-VII. ― Fonds de commerce ou clientèles, charges et offices : ..................................
-
-VIII. ― Autres biens, dont les comptes courants de société d'une valeur égale ou stock-options d'une valeur supérieure à 10 000 euros : ..................................
-
-IX. ― Biens mobiliers, immobiliers et comptes détenus à l'étranger : ..................................
-
-X. ― Passif : ..................................
-
-XI. ― Revenus perçus depuis le début du mandat ou des fonctions au titre desquels la déclaration est déposée : ..................................
-
-Observations :
-
-1. Nature et date des événements : ..................................
-
-2. Entrée dans votre patrimoine (montant) : ..................................
-
-3. Sortie de votre patrimoine : ..................................
-
-4. Réemploi des sommes perçues (montant) : ..................................
-
-Il est enfin rappelé que le code pénal punit d'une peine de trois ans d'emprisonnement et de 45 000 € d'amende le fait d'omettre de déclarer une partie substantielle de son patrimoine ou de fournir une évaluation mensongère de son patrimoine, et d'une peine d'un an d'emprisonnement et de 15 000 € d'amende le fait de ne pas communiquer les informations et pièces utiles à l'exercice de la mission de la Haute Autorité pour la transparence de la vie publique.
-
-Peuvent être prononcées à titre complémentaire de la première de ces peines l'interdiction des droits civiques selon les modalités prévues aux articles 131-26 et 131-26-1 du code pénal ainsi que l'interdiction d'exercer une fonction publique selon les modalités prévues à l'article 131-27 du même code.
-
-Je soussigné ..................................
-
-certifie sur l'honneur l'exactitude des renseignements indiqués dans la présente déclaration.
-
-Fait le ..................................
-
-Signature
+-les conséquences de l'évènement sur la composition du patrimoine du déclarant.
