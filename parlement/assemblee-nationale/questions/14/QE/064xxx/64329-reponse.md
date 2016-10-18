@@ -1,0 +1,9 @@
+# Réponse à la question n° 64329
+
+- Question : [64329](64329.md) — Question n° 64329 — silos; permis de construire; réglementation; perspectives
+
+## Réponse
+
+*JO du 2016-10-18*
+
+La législation actuelle autorise la construction des silos en zone agricole ou en zone urbaine sous certaines conditions, comme l'a précisé la circulaire interministérielle du 19 mars 2013 relative à l'instruction des dossiers administratifs relatifs au « plan silos » (DGPAAT/SDPM/C2013-3031). En application du 1° de l'article R151-23 du code de l'urbanisme, la construction de silos est autorisée en zone agricole d'un plan local d'urbanisme (PLU) dès lors qu'elle est nécessaire à l'exploitation agricole à laquelle le silo est rattaché. En revanche, les silos conçus pour les besoins de collecteurs de grains, de transformateurs ou d'autres acteurs industriels de la filière ne rentrent pas dans cette catégorie et ne peuvent donc être autorisés en zone agricole. C'est le cas par exemple des silos construits par des entreprises exerçant uniquement une activité de commerce de céréales, mais qui ne sont pas nécessaires au fonctionnement d'une exploitation donnée, comme a pu le rappeler le Conseil d'État (CE 22 novembre 2002, commune de la Roche-Clermault, req. no 232910 ; CE 10 juin 1992, commune d'Audruicq, req. no 91476). L'implantation de ces silos peut toutefois être autorisée en zone urbaine ou à urbaniser par les PLU, dans le respect des conditions d'implantation susceptibles de garantir la sécurité de la population, notamment au titre des distances d'isolement prévues par la législation sur les installations classées dont relèvent ces silos. Dans tous les cas, comme le préconise la circulaire susvisée, une concertation amont avec l'ensemble des partenaires concernés est de nature à faciliter la recherche d'un site approprié et l'implantation du silo.
