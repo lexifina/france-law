@@ -1,0 +1,9 @@
+# Réponse à la question n° 97726
+
+- Question : [97726](97726.md) — Question n° 97726 — système d'alerte et d'information des populations; statistiques
+
+## Réponse
+
+*JO du 2016-10-18*
+
+La direction générale de la sécurité civile et de la gestion des crises (DGSCGC) du ministère de l'Intérieur et le service d'information du gouvernement (SIG) ont travaillé de concert au développement de l'application mobile d'alerte des populations lancée le 8 juin dernier. Les travaux se poursuivent également pour faire évoluer l'application, en intégrant notamment les autres risques de sécurité civile. La mission Etalab de la direction interministérielle du numérique et du système d'information et de communication de l'Etat (DINSIC) au sein du Secrétariat général pour la modernisation de l'action publique n'a pas participé au pilotage et au développement de cette application. Le coût de l'application s'est élevé à 408 960 € TTC pour le développement et la mise à disposition de l'application. Pour porter ce message d'alerte des pouvoirs publics, il n'a pas été possible de s'appuyer sur une application existante. Ces dernières ne pouvaient en effet garantir aux utilisateurs l'absence de remontées de données personnelles. Ce point crucial du respect absolu de l'anonymat des utilisateurs est une des spécificités technologiques brevetées sur laquelle s'appuie le système pour faciliter ainsi son appropriation par le grand public. Le développement d'une application spécifique, dédiée au besoin propre du ministère de l'intérieur et répondant à l'ensemble des critères de confidentialité et de sécurité en matière de sauvegarde de l'intégrité du dispositif s'est donc révélé nécessaire. Plus de 608 000 téléchargements ont été réalisés entre le lancement de l'application et la mi-juillet dont 58 % sur Apple Store et 42 % sur Google Play.
