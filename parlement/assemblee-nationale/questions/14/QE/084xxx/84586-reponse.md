@@ -1,0 +1,9 @@
+# Réponse à la question n° 84586
+
+- Question : [84586](84586.md) — Question n° 84586 — insécurité; lutte et prévention; rapport parlementaire; propositions
+
+## Réponse
+
+*JO du 2016-10-18*
+
+Le Fonds Interministériel de Prévention de la Délinquance (FIPD), alimenté par le produit des amendes forfaitaires de la police de la circulation (45 M€ en 2015) et les concours budgétaires ministériels (7,9 M€ en 2015) a vu ses moyens augmentés dans le cadre du plan de renforcement des moyens de lutte contre le terrorisme. 60 M€ sont fléchés sur l'ensemble du budget triennal 2015-2017, soit 20 M€ par an. Ces crédits supplémentaires traduisent une augmentation de près de 40 % des crédits dédiés au FIPD chaque année par rapport à 2014. Ainsi, pour 2016, ces 20M€ sont dédiés au financement des projets suivants : - vidéo-protection accrue des sites sensibles notamment à caractère religieux (3 M€) ; - sécurisation (hors vidéo-protection) des sites sensibles notamment à caractère religieux (2 M€) ; - extension de la couverture du projet de vidéo-protection pour la ville de Paris (2,3 M€) ; - prévention de la radicalisation (10,3 M€) au travers de l'ouverture d'un centre de réinsertion et de citoyenneté, de la mobilisation d'une équipe mobile d'intervention, d'actions de prévention menées par les cellules de suivi des préfectures et du financement d'actions de contre-discours ; - contribution à l'équipement des polices municipales, gilets pare-balles et terminaux portatifs de radiocommunication (2,4 M€). Le Premier ministre a annoncé le 9 mai 2016 lors du comité interministériel pour la prévention de la délinquance et de la radicalisation (CIPDR) que l'effrt supplémentaire de 60 M€ au bénéfice du FIPD serait porté à 100 M€ dans le cadre du plan d'action contre la radicalisation et le terrorisme.
