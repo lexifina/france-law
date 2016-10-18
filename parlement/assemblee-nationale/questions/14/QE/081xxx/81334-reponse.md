@@ -1,0 +1,9 @@
+# Réponse à la question n° 81334
+
+- Question : [81334](81334.md) — Question n° 81334 — Lyon; police et gendarmerie; compétences; modifications
+
+## Réponse
+
+*JO du 2016-10-18*
+
+Depuis le 1er janvier 2015, la métropole de Lyon, précédemment communauté urbaine de Lyon, cumule les compétences du département et de la communauté urbaine. Elle compte 59 communes pour 1 324 637 habitants, réparties entre 20 communes situées en zone de compétence de la police nationale (1 105 871 habitants) et 39 communes situées en zone de compétence de la gendarmerie nationale (218 766 habitants). Si une logique d'équilibre entre police d'agglomération et police des territoires doit être recherchée, dans un souci de cohérence des territoires, à ce stade la métropole de Lyon ne fait pas apparaître, en matière de sécurité publique, de difficultés nouvelles par rapport à l'ancienne intercommunalité. En effet, la coopération et les échanges opérationnels entre les deux forces de sécurité intérieure de l'Etat ont toujours existé et continuent à fonctionner au quotidien, certains dispositifs tels que la "coordination opérationnelle renforcée dans les agglomérations et les territoires" (CORAT) pouvant être mis en place si nécessaire. Il n'est donc pas envisagé en l'état actuel des choses de modifier la répartition des zones de compétence de la police et la gendarmerie. Il convient de préciser qu'en cas de changement de zone de compétence des 39 communes actuellement situées en zone de gendarmerie, les deux critères cumulatifs permettant la création du régime de la police d'Etat, tels que prévus par l'article R. 2214-2 du code général des collectivités territoriales, devraient être remplis. Au vu de la rédaction actuelle du code général des collectivités territoriales, à défaut d'avis favorable d'un conseil municipal concerné, un décret en Conseil d'Etat doit être pris.
