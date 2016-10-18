@@ -1,0 +1,9 @@
+# Réponse à la question n° 98158
+
+- Question : [98158](98158.md) — Question n° 98158 — amiante; cessation anticipée d'activité; réglementation
+
+## Réponse
+
+*JO du 2016-10-18*
+
+Les salariés du secteur privé attributaires de l'allocation de cessation anticipée d'activité des travailleurs de l'amiante (ACAATA) cessent de percevoir cette prestation à partir de 60 ans, dès lors qu'ils justifient de la totalité de leurs trimestres d'assurance tous régimes de retraite confondus. Ils bénéficient alors de la liquidation immédiate de la pension ou des pensions de vieillesse auxquelles ils peuvent prétendre, par dérogation à l'article L. 161-17-2 du code de la sécurité sociale qui fixe au-delà de 60 ans l'âge légal du départ à la retraite. L'article 87 de la loi no 2012-1404 du 17 décembre 2012 de financement de la sécurité sociale pour 2013 a étendu le champ d'application de cette mesure dérogatoire aux agents publics percevant une allocation au titre de l'amiante équivalente à l'ACAATA servie dans le secteur privé. Ainsi, lorsque l'allocation liée à l'amiante cesse d'être versée aux intéressés avant l'âge légal du départ à la retraite, ces derniers peuvent obtenir la liquidation immédiate de la pension ou des pensions de retraite auxquelles ils ont droit. Les ouvriers de l'État du ministère de la défense attributaires de l'allocation spécifique de cessation anticipée d'activité au titre de l'amiante (ASCAA) bénéficient de ce dispositif depuis le 1er janvier 2013, date d'entrée en vigueur de la loi précitée. Aussi, la pension de retraite doit être versée, dans ce cas, dès la cessation du versement de l'ASCAA ou de l'ACAATA et donc même en cours de mois. Des instructions sur les modalités d'application de cette mesure ont été adressées aux opérateurs concernés, et les dysfonctionnements qui avaient pu se manifester semblent devenus sans objet.
