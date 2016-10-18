@@ -1,0 +1,9 @@
+# Réponse à la question n° 95397
+
+- Question : [95397](95397.md) — Question n° 95397 — revendications
+
+## Réponse
+
+*JO du 2016-10-18*
+
+Conformément à l'article L. 253 quinquies du code des pensions militaires d'invalidité et des victimes de la guerre (CPMIVG), le titre de reconnaissance de la Nation (TRN) est attribué aux militaires et aux personnes civiles ayant servi au sein des forces armées françaises. Les Alsaciens-Mosellans incorporés de force dans l'armée allemande ne répondant pas à ces exigences de services accomplis au sein de formations françaises, ils ne peuvent prétendre au TRN. Leur situation n'a cependant pas pour autant été ignorée. En effet, les Alsaciens-Mosellans qui ont été contraints de servir dans les rangs de la Wehrmacht bénéficient, sous réserve de remplir les conditions définies aux articles A. 123-2 à A. 123-5 du code précité, de la carte du combattant et de certains avantages attachés à la possession de ce titre, au nombre desquels figurent la retraite du combattant ainsi que la possibilité de souscrire une rente mutualiste avec participation de l'Etat. En outre, leur droit à pension au titre du CPMIVG ainsi qu'à validation, pour la retraite professionnelle, de leur période de mobilisation, sont identiques à ceux reconnus aux militaires de l'armée française. Enfin, ressortissants de l'Office national des anciens combattants et victimes de guerre, ils peuvent prétendre à l'assistance administrative et, le cas échéant, financière de cet établissement public. S'agissant de l'inscription dans les programmes scolaires de l'histoire des incorporés de force dans l'armée allemande, il convient de préciser qu'une telle décision relève de la compétence du ministère de l'éducation nationale, de l'enseignement supérieur et de la recherche. Le principe de la liberté éditoriale est par ailleurs appliqué en ce qui concerne la rédaction et le contenu des manuels scolaires.
