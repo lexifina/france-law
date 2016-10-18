@@ -1,0 +1,9 @@
+# Réponse à la question n° 61250
+
+- Question : [61250](61250.md) — Question n° 61250 — Cour européenne des droits de l'Homme; décision; conséquences
+
+## Réponse
+
+*JO du 2016-10-18*
+
+L'arrêt Grande Stevens c. Italie du 7 juillet 2014 a constaté une violation de l'article 4 du Protocole additionnel no 7 à la Convention européenne de sauvegarde des droits de l'homme et des libertés fondamentales, dès lors que les requérants ont fait l'objet de poursuites et de condamnations qui constituaient selon la Cour une "seconde infraction" ayant pour origine des faits identiques à ceux qui avaient fait l'objet d'une première condamnation définitive. L'enjeu principal, dans cet affaire, était la qualification du caractère pénal ou non, au sens de l'article 4 du protocole additionnel no 7 à la convention européenne de sauvegarde des droits de l'homme et des libertés fondamentales, des poursuites engagées et des sanctions infligées par la Commission nationale pour les sociétés et la Bourse italienne. Cette question, généralisée aux poursuites et sanctions qualifiées d'administratives, continue de faire débat et devrait prochainement faire l'objet d'un arrêt de Grande Chambre dans deux affaires engagées contre la Norvège, dans lesquelles la France a produit des observations en tierce intervention. L'existence de ces régimes législatifs prévoyant plusieurs dispositifs de poursuites n'est pas contraire en tant que telle au principe non bis in idem : ce dernier prohibe seulement que leur mise en œuvre donne lieu à une répétition de poursuites et à une double condamnation. S'agissant de la répression des abus de marché, la loi no 2016-819 du 21 juin 2016 a modifié les dispositions du code monétaire et financier afin de les rendre conformes à la décision de la CEDH ainsi qu'à la décision rendue par le Conseil constitutionnel sur le même sujet le 18 mars 2015.
