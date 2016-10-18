@@ -1,0 +1,9 @@
+# Réponse à la question n° 83482
+
+- Question : [83482](83482.md) — Question n° 83482 — instances consultatives; coût de fonctionnement
+
+## Réponse
+
+*JO du 2016-10-18*
+
+La commission centrale de sécurité n'a pas été prorogée par le décret N° 2014-597 du 6 juin 2014 relatif à certaines commissions administratives à caractère consultatif relevant du ministère de l'intérieur. Elle a donc cessé d'exister à cette date. Le bilan ne peut en conséquence être établi que pour les 5 premiers mois de l'année 2014. Elle rassemblait, lors de ses séances de travail, une quarantaine d'experts issus des différents ministères, de la préfecture de police de Paris (architectes de sécurité, laboratoire central), les acteurs du secours (fédération nationale des sapeurs-pompiers de France, Brigade de sapeurs-pompiers de Paris, Bataillon des marins pompiers de Marseille), les autres membres relevant d'organismes de la société privée. Pour ce qui concernait le ministère de l'intérieur, qui présidait et préparait les réunions, la charge était de 1/10e de l'équivalent temps plein (ETP) d'un administrateur civil hors classe et de 1/3 de l'ETP d'un attaché principal d'administration centrale. Aucune rémunération n'était prévue pour les participants, ni prise en charge de frais quelconques. La commission centrale de sécurité ne disposait pas de budget spécifique. Les coûts de fonctionnement de la commission centrale de sécurité étaient donc infimes. En 2014, la commission centrale de sécurité s'est réunie 3 fois. Elle s'est notamment prononcée sur des interprétations de certains articles de la réglementation de sécurité incendie des établissements de soins, sur des dérogations et des articles relatifs aux immeubles de grande hauteur et sur des agréments d'organismes pour effectuer les vérifications techniques dans les établissements recevant du public.
