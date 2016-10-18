@@ -1,0 +1,9 @@
+# Réponse à la question n° 80062
+
+- Question : [80062](80062.md) — Question n° 80062 — collaborateurs; contrats; réglementation
+
+## Réponse
+
+*JO du 2016-10-18*
+
+En cas de fin de contrat ou de licenciement d'un collaborateur de groupe d'élus, le dernier alinéa de l'article 110-1 de la loi du 26 janvier 1984 portant dispositions statutaires relatives à la fonction publique territoriale dispose que les indemnités dues au titre de l'assurance chômage ainsi que les indemnités de licenciement sont prises en charge par le budget général de la collectivité, alors que la rémunération du collaborateur de groupe d'élus, lorsqu'il est en fonction, fait l'objet d'un chapitre spécialement créé au budget de la collectivité territoriale, ainsi qu'en dispose le code général des collectivités territoriales. Le contrat de l'agent peut prendre fin, même s'il a été transformé en contrat à durée indéterminée, notamment en cas de renouvellement de l'assemblée délibérante. La rédaction de l'article 110-1 de la loi du 26 janvier 1984 précitée fait apparaître que la collectivité territoriale n'a pas l'obligation de conserver l'agent dans ses effectifs et de lui proposer un autre emploi, notamment un emploi permanent. Concernant l'indemnisation de l'agent licencié, et en l'absence de dispositions spécifiques sur ce point, le décret no 88-145 du 15 février 1988 pris pour l'application de l'article 136 de la loi du 26 janvier 1984 relatif aux agents non titulaires de la fonction publique territoriale trouve à s'appliquer, en particulier ses articles 43 à 49 qui prévoient, sous certaines conditions, le versement d'une indemnité de licenciement. Ainsi que la loi en dispose, le budget général de la collectivité prend en charge l'indemnité de licenciement éventuelle et les indemnités dues au titre de l'assurance chômage, et non un chapitre budgétaire spécial.
