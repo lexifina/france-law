@@ -1,0 +1,9 @@
+# Réponse à la question n° 92709
+
+- Question : [92709](92709.md) — Question n° 92709 — SDIS; recrutement; perspectives
+
+## Réponse
+
+*JO du 2016-10-18*
+
+Un recrutement sans concours au grade de sapeur de 2ème classe a été instauré par le décret no 2012-520 du 20 avril 2012, portant statut particulier des sapeurs et caporaux de sapeurs-pompiers professionnels, en complément du recrutement par concours permettant l'accès au grade de sapeur de 1ère classe. L'article 25 de ce décret fixe au 1er mai 2013 l'entrée en vigueur de ces dispositions. Ce mode de recrutement, facultatif, ouvert aux seuls sapeurs-pompiers volontaires justifiant de trois ans au moins d'activité en cette qualité ou en qualité de jeune sapeur-pompier, de volontaire civil de sécurité civile, de sapeur-pompier auxiliaire ou de militaire de la brigade de sapeurs-pompiers de Paris, du bataillon de marins-pompiers de Marseille ou des unités d'instruction et d'intervention de la sécurité civile et ayant validé la totalité des unités de valeur de la formation initiale, est contingenté et conditionné par les recrutements issus des concours : au titre d'une année civile, les recrutements de sapeurs de 2e classe ne peuvent intervenir qu'à raison d'un pour deux recrutements de sapeurs de 1re classe figurant sur la liste d'aptitude prévue à l'article 5 du décretn° 2012-520 du 20 avril 2012, portant statut particulier du cadre d'emplois des sapeurs et caporaux de sapeurs-pompiers professionnels. Ce mode de recrutement est d'ores et déjà effectif dans les services départementaux d'incendie et de secours (SDIS). Toutefois, en application du principe constitutionnel de libre administration des collectivités territoriales et de leurs établissements publics, il appartient à ces seuls SDIS de décider, en fonction de leurs besoins, de recourir ou non à ce type de recrutement contingenté.
