@@ -1,0 +1,9 @@
+# Réponse à la question n° 97132
+
+- Question : [97132](97132.md) — Question n° 97132 — écotaxe; mise en place; modalités
+
+## Réponse
+
+*JO du 2016-10-18*
+
+Le Gouvernement reste attaché au principe de l'utilisateur-payeur pour le financement des infrastructures de transport, et a pour cela mis en place en janvier 2015 l'augmentation de deux centimes de la taxe intérieure de consommation sur les produits énergétiques (TICPE), qui constitue la principale ressource de l'agence de financement des infrastructures de transport de France (ATFIF). Le Gouvernement reste, de plus, prêt à apporter l'appui des services de l'État, tant au plan technique qu'en termes d'évolutions législatives et réglementaires, aux collectivités qui souhaiteraient concevoir un nouveau projet de tarification. Néanmoins un projet d'écotaxe local nécessite une mobilisation importante de moyens d'étude et de réflexion ainsi qu'une concertation approfondie avec tous les acteurs. Il apparaît utile que les collectivités qui l'envisagent définissent de façon précise leurs intentions et conduisent une réflexion permettant de définir les objectifs recherchés et les équilibres à respecter. Il importera en particulier que les initiatives locales ne conduisent pas à une situation morcelée et complexe pour les transporteurs routiers. Ce travail d'élaboration des projets locaux et de partage d'une vision commune apparaît comme nécessaire préalablement à l'examen des conditions juridiques de leur mise en œuvre. Sur le plan technique, le dispositif conçu pour un déploiement à grande échelle présente des coûts fixes importants inadaptés à une utilisation locale. En revanche, plusieurs services de l'État étudient actuellement des pistes de réutilisation partielle du dispositif à des fins de sécurité intérieure au niveau national. Les projets à l'étude pourraient conduire à réutiliser la technologie initialement conçue pour l'écotaxe.
