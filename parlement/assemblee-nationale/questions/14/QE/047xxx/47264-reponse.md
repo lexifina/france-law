@@ -1,0 +1,9 @@
+# Réponse à la question n° 47264
+
+- Question : [47264](47264.md) — Question n° 47264 — parité; réglementation
+
+## Réponse
+
+*JO du 2016-10-18*
+
+En application des articles L. 2122-1 et L. 2122-2 du code général des collectivités territoriales (CGCT), le nombre d'adjoints au maire est au minimum de un et ne peut excéder 30 % de l'effectif légal du conseil municipal. L'élection des adjoints a lieu, comme l'élection du maire, lors de la première réunion du conseil municipal qui se tient de droit à l'issue du renouvellement général des conseils municipaux. Dans les communes de 1 000 habitants et plus, l'article L. 2122-7-2 du CGCT précise que les adjoints sont élus au scrutin de liste à la majorité absolue, sans panachage ni vote préférentiel. Il impose la présentation de listes paritaires, avec un écart entre le nombre total de candidats de chaque sexe ne pouvant être supérieur à un. Cet article prévoit également, dans son dernier alinéa, qu'en cas d'élection d'un seul adjoint, celui-ci est élu selon les règles prévues à l'article L. 2122-7 du CGCT pour l'élection du maire, soit au scrutin secret et à la majorité absolue. Lorsqu'un conseil municipal ne se prononce pas sur le maintien dans ses fonctions d'un adjoint auquel le maire a retiré ses délégations dans les conditions fixées à l'article L. 2122-18 du CGCT, et s'il doit être procédé à l'élection d'un seul nouvel adjoint, qui ne serait pas ainsi élu au scrutin de liste, cette élection ne doit pas pour autant être envisagée comme un moyen de contourner les règles de parité prévues par la loi. Dans l'hypothèse où le poste d'adjoint supprimé était occupé par une femme dans un effectif initial de cinq adjoints, dont trois hommes et deux femmes, respectant ainsi les règles de parité prévues à l'article L. 2122-7-2 du CGCT, le conseil municipal devrait, s'il était décidé d'élire un nouvel adjoint, désigner une femme pour respecter ce même principe de parité afin de respecter l'esprit de la loi.
