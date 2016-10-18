@@ -1,0 +1,9 @@
+# Réponse à la question n° 77482
+
+- Question : [77482](77482.md) — Question n° 77482 — partenariats public-privé; statistiques
+
+## Réponse
+
+*JO du 2016-10-18*
+
+Les différentes administrations du ministère de l'Intérieur financent prioritairement leurs opérations de construction et de maintenance immobilières, en pleins crédits budgétaires, à partir de leurs budgets généraux (marchés publics de travaux de type loi MOP 1985).A titre alternatif, elles peuvent s'appuyer sur des montages innovants privilégiant un pré-financement par le secteur privé. C'est ainsi que la gendarmerie nationale a notamment mis en œuvre des montages issus de la loi n°2002-1094 du 29 août 2002 d'orientation et de programmation pour la sécurité intérieure (LOPSI - art 3-II-2) qui combinent une autorisation d'occupation temporaire et une location avec option d'achat (AOT/LOA). A ce stade, le ministère de l'Intérieur n'a jamais conclu de contrat relevant des dispositions de l'ordonnance n° 2004-559 du 17 juin 2004 modifiée sur les contrats de partenariats. Deux études avaient été réalisées en 2007 qui visaient l'externalisation de la maintenance de casernes de gendarmerie et de commissariats de police en régions Auvergne et Limousin. Elles n'ont toutefois pas été finalisées, faute de soutenabilité budgétaire.Pour autant, dans un contexte marqué par la mise sous forte tension des crédits budgétaires, le ministère demeure conscient que les contrats de type partenariat public-privé peuvent offrir de réels leviers en termes de performance et de maîtrise des risques, tant pour la personne publique que pour l'opérateur privé partenaire. A cet égard, il ne s'interdit pas à l'avenir de recourir aux « marchés de partenariat » prévus par le projet d'ordonnance relative aux marchés publics – actuellement en cours d'examen au Conseil d'Etat – qui abroge notamment l'ordonnance 2004-559 du 17 juin 2004.
