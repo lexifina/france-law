@@ -1,0 +1,9 @@
+# Réponse à la question n° 95271
+
+- Question : [95271](95271.md) — Question n° 95271 — intercommunalités; modalités
+
+## Réponse
+
+*JO du 2016-10-18*
+
+Pour favoriser le renforcement des établissements publics de coopération intercommunale (EPCI) à fiscalité propre et leur permettre de répondre efficacement aux attentes de nos concitoyens, le législateur a prévu, dans la loi no 2015-991 du 7 août 2015 portant nouvelle organisation territoriale de la République (NOTRe), un relèvement de leur seuil minimal de population de 5 000 à 15 000 habitants. Le représentant de l'Etat dans le département est cependant libre de dépasser ce seuil minimal de population lors de l'élaboration du schéma départemental de coopération intercommunale (SDCI), s'il estime que la constitution d'EPCI à fiscalité propre plus peuplés permet d'améliorer la rationalisation de la carte intercommunale. En tout état de cause, l'élaboration et la mise en œuvre du SDCI s'effectue en lien avec les élus. Ainsi, lors de l'examen du projet de SDCI, les membres de la commission départementale de la coopération intercommunale, éclairés par les avis des communes, EPCI et syndicats mixtes concernés, peuvent modifier la proposition du préfet par amendement adopté à la majorité des deux tiers des membres, à condition que ces amendements soient conformes aux obligations, objectifs et orientations mentionnés à l'article L. 5210-1-1 du code général des collectivités territoriales. In fine, les SDCI arrêtés au mois de mars prévoient la création de deux EPCI à fiscalité propre de plus de cent cinquante communes, quatorze de plus de cent communes (contre déjà cinq aujourd'hui) et cent soixante de plus de cinquante communes (contre quarante-sept aujourd'hui). Les projets de périmètre sont soumis pour avis aux conseils municipaux et communautaires. Ce n'est qu'à l'issu de ces concertations sur le préfet prend ou non un arrêté définitif après, le cas échéant, être repassé devant la CDCI.
