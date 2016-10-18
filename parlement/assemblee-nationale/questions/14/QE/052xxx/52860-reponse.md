@@ -1,0 +1,9 @@
+# Réponse à la question n° 52860
+
+- Question : [52860](52860.md) — Question n° 52860 — conduite de véhicules agricoles; réglementation
+
+## Réponse
+
+*JO du 2016-10-18*
+
+L'article L. 221-2 du code de la route dispose que « les conducteurs des véhicules et appareils agricoles ou forestiers attachés à une exploitation agricole ou forestière, à une entreprise de travaux agricoles ou à une coopérative d'utilisation de matériel agricole sont autorisés à conduire ces véhicules ou appareils pendant la durée de leur activité agricole ou forestière sans être titulaires du permis de conduire correspondant à la catégorie du véhicule considéré dès lors qu'ils sont âgés d'au moins seize ans. » La dérogation à l'obligation de permis de conduire impose le respect de trois conditions, tout d'abord le rattachement de ces véhicules à une exploitation agricole ou forestière, à une entreprise de travaux agricoles ou à une coopérative d'utilisation de matériel agricole, ensuite l'usage qui est fait de ces véhicules : agricole ou forestier, et enfin être âgé de plus de seize ans. Ainsi, la notion d'activité agricole n'est pas considérée au sens de la MSA mais selon l'usage fait de ces véhicules qui doit impérativement avoir un lien avec une activité agricole ou forestière pour que toute personne âgée de plus de seize ans puisse bénéficier de la dérogation. Par ailleurs, l'article 27 de la loi no 2015-990 du 6 août 2015 pour la croissance, l'activité et l'égalité des chances économiques, dite « loi MACRON », facilite l'accès à la conduite de tous les véhicules et appareils agricoles ou forestiers dont la vitesse n'excède pas 40 kilomètres par heure, en supprimant les notions de rattachement et d'activité agricole ou forestière, en imposant comme seule condition pour la conduite de ces véhicules l'obligation d'être titulaire de la catégorie B du permis de conduire.
