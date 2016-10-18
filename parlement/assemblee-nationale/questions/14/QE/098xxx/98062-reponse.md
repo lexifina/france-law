@@ -1,0 +1,9 @@
+# Réponse à la question n° 98062
+
+- Question : [98062](98062.md) — Question n° 98062 — perspectives
+
+## Réponse
+
+*JO du 2016-10-18*
+
+Le gouvernement suit avec attention les décisions récemment prises par les Etats-Unis d'Amérique et le Luxembourg en matière d'exploitation des ressources extra-atmosphériques. Cette question figurera à l'ordre du jour de la prochaine réunion du comité des utilisations pacifiques de l'espace extra-atmosphérique des Nations unies, notamment de son sous-comité juridique. Ces initiatives mettent en jeu des questions juridiques complexes, liées à la question de l'appropriation des corps célestes et de leurs ressources naturelles. Il n'existe pas, à ce jour, de consensus au niveau international sur cette question, certains Etats considérant le principe de non appropriation des corps célestes comme non applicable aux minerais qui pourraient en être extraits. A l'occasion des débats précédant l'adoption de l'accord du 5 décembre 1979 régissant les activités des Etats sur la lune et les autres corps célestes, la France, qui ne dispose pas de réglementation spécifique encadrant l'exploitation des ressources extra-atmosphériques, avait soutenu l'idée qu'un régime international des ressources naturelles de la lune et des autres corps célestes soit établi par une conférence diplomatique. Alors que certaines nations sont susceptibles d'entrer dans une phase d'exploitation industrielle de ces ressources, l'opportunité d'engager des négociations à cette fin pourrait être posée au sein du comité des utilisations pacifiques de l'espace extra-atmosphérique des Nations unies. Un tel régime permettrait d'assurer un cadre juridique international d'exploitation et de répartition de ces ressources. Le gouvernement mène actuellement une analyse approfondie de cette question (juridique, économique, politique), en gardant à l'esprit les intérêts potentiels de l'industrie spatiale nationale dans une telle exploitation.
