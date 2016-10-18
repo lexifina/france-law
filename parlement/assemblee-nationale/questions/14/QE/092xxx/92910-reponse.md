@@ -1,0 +1,9 @@
+# Réponse à la question n° 92910
+
+- Question : [92910](92910.md) — Question n° 92910 — effectifs; perspectives
+
+## Réponse
+
+*JO du 2016-10-18*
+
+En complémentarité avec les 40 800 sapeurs-pompiers professionnels, les 12 300 militaires investis à titre permanent de missions de sécurité civile et les personnels administratifs des services départementaux d'incendie et de secours (SDIS), les 193 756 sapeurs-pompiers volontaires forment une composante essentielle du modèle français de sécurité civile. Pour la première fois depuis 2004, le nombre de sapeurs-pompiers volontaires est reparti à la hausse en 2014, avec 1 442 volontaires de plus que celui de l'année 2013. L'engagement citoyen remarquable que constitue le volontariat des sapeurs-pompiers a fait l'objet d'une signature d'un engagement national, le 11 octobre 2013, par le ministre de l'intérieur, les présidents de l'Assemblée des départements de France (ADF), de l'Association des maires de France (AMF), de la Conférence nationale des services d'incendie et de secours (CNSIS), du Conseil national des sapeurs-pompiers volontaires (CNSPV) et de la Fédération nationale des sapeurs-pompiers de France (FNSPF). Ce véritable plan d'action de promotion du volontariat chez les sapeurs-pompiers comprend cinq volets déclinés en 25 mesures. Plusieurs mesures visent particulièrement à inverser la tendance à la baisse des effectifs des SPV, notamment en ciblant de nouveaux viviers de recrutement, en diminuant la sollicitation individuelle ou en garantissant la ressource mobilisable en cas de crise. De la même manière, le Gouvernement a lancé une campagne nationale de communication, réactualisée chaque année. La plupart de ces mesures ont été mises en œuvre ou sont en cours. Il appartient dorénavant, en complémentarité des actions impulsées par l'Etat, à chaque service départemental d'incendie et de secours d'assurer la déclinaison territoriale de ce plan d'actions.
