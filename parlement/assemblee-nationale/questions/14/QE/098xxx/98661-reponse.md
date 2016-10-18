@@ -1,0 +1,9 @@
+# Réponse à la question n° 98661
+
+- Question : [98661](98661.md) — Question n° 98661 — perspectives
+
+## Réponse
+
+*JO du 2016-10-18*
+
+Le décret no 2003-925 du 26 septembre 2003 a institué une journée nationale d'hommage aux « morts pour la France » pendant la guerre d'Algérie et les combats du Maroc et de la Tunisie, le 5 décembre. L'article 2 de la loi no 2005-158 du 23 février 2005 portant reconnaissance de la Nation et contribution nationale en faveur des Français rapatriés permet d'associer à la même date à cet hommage toutes les victimes des événements survenus à cette époque sur ces territoires. La loi no 2012-1361 du 6 décembre 2012 a fait du 19 mars, date anniversaire de la proclamation du cessez-le-feu en Algérie, la journée nationale du souvenir et de recueillement à la mémoire des victimes civiles et militaires de la guerre d'Algérie et des combats en Tunisie et au Maroc. Comme l'a rappelé le Président de la République, le Parlement a de la sorte souhaité que soient évoquées toutes les mémoires et que soient honorés toutes les victimes ainsi que tous ceux qui ont survécu et qui portent encore douloureusement le souvenir de cette guerre et de ces combats. Il convient d'observer que la loi du 6 décembre 2012 ne procède pas à l'abrogation de l'article 2 de la loi du 23 février 2005. Rien n'empêche en effet qu'un même événement ou une même population fasse l'objet de deux commémorations au cours d'une année. Le Gouvernement n'envisage pas de modifier le calendrier commémoratif se rapportant à la guerre d'Algérie et aux combats du Maroc et de la Tunisie. Il souhaite en outre que l'ensemble des membres de la communauté nationale, et en particulier les témoins et les acteurs de la guerre d'Algérie, se placent désormais dans une perspective de respect, de solidarité et de rassemblement dans la recherche d'une mémoire apaisée.
