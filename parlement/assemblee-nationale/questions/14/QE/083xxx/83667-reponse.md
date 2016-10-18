@@ -1,0 +1,9 @@
+# Réponse à la question n° 83667
+
+- Question : [83667](83667.md) — Question n° 83667 — instances consultatives; fusion
+
+## Réponse
+
+*JO du 2016-10-18*
+
+Le 17 juillet 2013, le Comité Interministériel pour la Modernisation de l'Action Publique (CIMAP) a posé le principe de la fusion des commissions d'attribution de la qualité d'officier de police judiciaire de la police et de la gendarmerie nationales. La direction de la modernisation et de l'action territoriale a coordonné, pour le ministère de l'intérieur, l'ensemble des travaux, qui ont abouti à la prise en compte de cette exigence dans la loi no 2015-177 du 16 février 2015 relative à la modernisation et à la simplification du droit et des procédures dans les domaines de la justice et des affaires intérieures. L'article 21.II de la loi précitée a autorisé le Gouvernement à prendre par voie d'ordonnance, les mesures nécessaires pour fusionner les commissions compétentes pour l'attribution de la qualité d'officier de police judiciaire (OPJ) aux militaires de la gendarmerie nationale et aux fonctionnaires du corps d'encadrement et d'application de la police nationale, respectivement prévues aux 2° et 4° de l'article 16 du code de procédure pénale. Les deux directions ont élaboré en commun l'ordonnance no 2015-952 du 31 juillet 2015 portant sur la fusion des deux commissions OPJ, qui est actuellement en cours de ratification devant le Parlement. Le décret no 2016-390 du 30 mars 2016 modifie la partie réglementaire du code de procédure pénale et plus particulièrement au sein du chapitre I du titre I du livre I, la section 2 relative aux officiers de police judiciaire. Ce texte définit la composition ainsi que les missions de la commission pour l'attribution de la qualité d'OPJ commune aux deux forces, à compter du 1er octobre 2016. Il précise également la composition et le rôle des jurys de l'examen technique d'OPJ de la police et de la gendarmerie nationales.
