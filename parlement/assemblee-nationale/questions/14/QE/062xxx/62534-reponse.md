@@ -1,0 +1,9 @@
+# Réponse à la question n° 62534
+
+- Question : [62534](62534.md) — Question n° 62534 — rapport; propositions
+
+## Réponse
+
+*JO du 2016-10-18*
+
+Dans son rapport « Refonder le ministère public » remis en novembre 2013, la Commission de modernisation de l'action publique, mise en place à la demande de la précédente garde des sceaux, ministre de la justice, a formulé une série de propositions visant à renforcer l'autorité du ministère public sur la police judiciaire. Il est en effet régulièrement relevé que les outils de la direction de la police judiciaire dévolue au ministère public demeurent imparfaits. Parmi ces propositions, la Commission de modernisation de l'action publique a recommandé, s'inspirant du dispositif mis en place au parquet de Paris, d'expérimenter au sein de certaines juridictions le détachement d'officiers de liaison de la police et la gendarmerie nationales. Cette proposition a retenu toute l'attention du ministre de la justice, dans la mesure où elle aurait vocation à faciliter le dialogue entre l'autorité judiciaire et les services d'enquête et à renforcer le contrôle institutionnel de la police judiciaire par les parquets. Le détachement d'officiers de liaison de la police et de la gendarmerie nationales au sein des juridictions favoriserait l'échange d'informations de part et d'autre, et permettrait aux juridictions de disposer d'éléments de contexte ou de données techniques, dans le cadre d'événements sensibles, d'affaires signalées ou de procédures plus habituelles. Il serait néanmoins nécessaire de définir avec précision les missions susceptibles d'être confiées à ces officiers de liaison afin de s'assurer de leur apport véritable tant pour l'institution judiciaire que pour leur corps d'origine. La mise en œuvre de cette proposition nécessiterait en tout état de cause l'accord du ministère de l'intérieur.
