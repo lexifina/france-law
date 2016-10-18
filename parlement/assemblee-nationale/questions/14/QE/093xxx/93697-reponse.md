@@ -1,0 +1,9 @@
+# Réponse à la question n° 93697
+
+- Question : [93697](93697.md) — Question n° 93697 — revendications
+
+## Réponse
+
+*JO du 2016-10-18*
+
+Les fonctionnaires (sapeurs-pompiers professionnels) et les militaires ainsi que les sapeurs-pompiers volontaires décédés en service commandé bénéficient de droit pour leur conjoint survivant ou ayants droits d'une pension de réversion majorée et d'une pension pour orphelin. Les dispositions de l'article L. 50 du code des pensions civiles et militaires de retraite précisent les conditions et modalités d'attribution de cette prestation. L'article 13 de la loi du 31 décembre 1991, relative à la protection sociale des sapeurs-pompiers volontaires, prévoit l'application de ces mêmes dispositions pour les sapeurs-pompiers volontaires décédés en service commandé et cités à titre posthume à l'ordre de la Nation. Par ailleurs, les prestations versées par le réseau social associatif, telles que les amicales de sapeurs-pompiers, qui disposent de fonds pour aider les familles afin de faire face aux situations difficiles de leurs adhérents, constituent un complément à l'aide institutionnelle. De même, l'Œuvre des pupilles orphelins et fonds d'entraide (ODP) des sapeurs-pompiers met en œuvre ses moyens pour apporter toute l'aide possible aux familles grâce à des versements de pécules ou d'autres aides non quantifiables qui sont des compléments à l'action de l'État. A ce jour, il ne semble pas utile d'institutionnaliser davantage ce dispositif efficace. L'État appuie cette démarche au travers du versement d'une subvention annuelle au réseau associatif. La prise en charge par l'État et les collectivités territoriales, complétée par ce réseau associatif, permet ainsi un maillage territorial au plus près des besoins des familles en difficulté par le deuil de leur proche.
