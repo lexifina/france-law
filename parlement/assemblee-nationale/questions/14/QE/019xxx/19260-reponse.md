@@ -1,0 +1,9 @@
+# Réponse à la question n° 19260
+
+- Question : [19260](19260.md) — Question n° 19260 — adhérents; perspectives
+
+## Réponse
+
+*JO du 2016-10-18*
+
+Le dispositif visant à favoriser la disponibilité des réservistes opérationnels évoqué par l'honorable parlementaire est défini à l'article L. 4221-4 du code de la défense. Aux termes des dispositions de cet article, le réserviste qui accomplit son engagement à servir dans la réserve opérationnelle pendant son temps de travail doit prévenir son employeur de son absence un mois au moins avant le début de celle-ci, et doit, en outre, obtenir son accord lorsque les activités de réserve accomplies pendant le temps de travail dépassent cinq jours par année civile. Ces dispositions qui permettent au réserviste d'accomplir des activités dans la réserve opérationnelle pendant son temps de travail sans obtenir l'accord de son employeur, à concurrence de cinq jours par année civile, constituent une dérogation au droit commun du travail qui exige que les autorisations d'absence du poste de travail recueillent l'accord de l'employeur. Le code de la défense prévoit ce régime, qui réduit partiellement les prérogatives de l'employeur, pour des raisons intrinsèquement liées à la condition de militaire des intéressés et aux besoins des forces armées. En effet, la réserve opérationnelle constitue l'une des composantes de l'armée professionnelle, ce qui rend notamment indispensable d'assurer un niveau suffisant de disponibilité de ses personnels. Si le secrétaire d'Etat ne peut que reconnaître le bienfait qu'il y aurait à un renforcement des associations patriotiques, il ne lui appartient cependant pas de se prononcer sur la création d'un dispositif général qui concernerait tant les salariés du secteur privé que les agents de l'État et permettrait à des associations, quelles qu'elles soient, de recruter des adhérents bénévoles exerçant une activité professionnelle.
