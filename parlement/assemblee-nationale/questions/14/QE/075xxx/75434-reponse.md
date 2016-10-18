@@ -1,0 +1,9 @@
+# Réponse à la question n° 75434
+
+- Question : [75434](75434.md) — Question n° 75434 — contribution au service public de l'électricité
+
+## Réponse
+
+*JO du 2016-10-18*
+
+Les effacements de consommation contribuent à la sécurité d'approvisionnement, tout en limitant le besoin d'investissement dans de nouveaux moyens de production coûteux et polluants. Au regard des besoins de flexibilité croissants du système électrique, le développement des effacements de consommation est particulièrement utile, en complément des nécessaires investissements dans les réseaux électriques. En particulier, les effacements réalisés sur les petits sites de consommation (effacements dits « diffus ») constituent un gisement important et représentent pour les consommateurs une opportunité pour réduire leur facture énergétique, en réalisant des économies d'énergie. Un récent rapport de l'entreprise Réseau de transport d'électricité (RTE) (clients.rte-france.com/htm/fr/mediatheque/telecharge/20160301_Rapport_report_synthese.pdf) a montré que, si une partie de l'énergie effacée est reportée, l'économie d'énergie demeure substantielle. Aussi, afin d'accélérer le développement des effacements, la loi relative à la transition énergétique pour la croissance verte a introduit un dispositif d'appel d'offres financé par la contribution au service public de l'électricité (CSPE), qui se substituera aux appels d'offres actuels organisés par RTE, et permettra d'atteindre au moindre coût les objectifs d'effacement fixés dans le cadre de la programmation pluriannuelle de l'énergie. La loi a également introduit un cadre de valorisation spécifique afin d'encourager le développement des effacements qui produisent des économies d'énergie. Le Gouvernement est particulièrement vigilant à l'équilibre d'ensemble du dispositif et, conformément à la loi, veillera à ce qu'il apporte un bénéfice réel pour la collectivité.
