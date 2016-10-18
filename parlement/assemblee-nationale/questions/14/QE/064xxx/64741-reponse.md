@@ -1,0 +1,9 @@
+# Réponse à la question n° 64741
+
+- Question : [64741](64741.md) — Question n° 64741 — IGAS; rapport; recommandations
+
+## Réponse
+
+*JO du 2016-10-18*
+
+Le rapport remis en juin 2014 par la mission conjointe des inspections générales des affaires sociales et de l'administration, présenté au comité de suivi et d'évaluation de l'application du référentiel d'organisation du secours à personne et de l'aide médicale urgente, préconise dans sa recommandation no 5 d'autoriser les services d'incendie et de secours à ne pas intervenir systématiquement sur la voie publique et dans les lieux publics pour les cas de traumatologie bénigne. A l'issue de la parution du rapport précité, des travaux ont été menés par les professionnels de santé et les services concernés des ministères de la santé et de l'intérieur. Ils ont abouti à la signature, le 5 juin 2015, de la circulaire interministérielle relative à l'application de l'arrêté du 24 avril 2009 relatif à la mise en oeuvre du référentiel portant sur l'organisation du secours à personne et de l'aide médicale urgente. Le point 1-3 de cette circulaire prévoit une adaptation de la liste des situations de départs réflexes des sapeurs-pompiers. A cet effet, un arrêté du 5 juin 2015 des ministres chargés de la santé et de l'intérieur a modifié l'annexe I du référentiel d'organisation du secours à personne et de l'aide médicale urgente. Désormais, seul le secours à personne sur la voie publique justifie un départ réflexe des sapeurs-pompiers. La survenue d'une détresse dans un lieu public ou dans un établissement recevant du public, en lien notamment avec des cas de traumatologie bénigne, ne constitue plus un motif de départ systématique, sauf si un tel critère fait l'objet d'un consensus au plan local. Un ou plusieurs arbres décisionnels, outils d'aide à la mise en oeuvre de la procédure de déclenchement du départ réflexe, seront prochainement diffusés.
