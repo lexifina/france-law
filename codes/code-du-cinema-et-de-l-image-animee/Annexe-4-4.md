@@ -1,81 +1,237 @@
 # Article Annexe 4-4
 
-Aides aux programmes de production avant réalisation Festivals français de catégorie 1 (article 411-40)
+Aides aux programmes de production avant réalisation Festivals français et étrangers de catégorie 1 (article 411-40)
 
-1° Aix-en-Provence : Festival Tout Courts ;
+Aides après réalisation Liste de festivals (article 411-52)
 
-2° Alès : Festival Itinérances ;
+1° France :
 
-3° Angers : Festival Premiers Plans ;
+Festival Tout Courts (Aix-en-Provence) ;
 
-4° Annecy : Festival du Film d'animation ;
+Festival Itinérances (Alès) ;
 
-5° Arcueil : Festival Ecrans documentaires ;
+Festival international du film de comédie (Alpe d'Huez) ;
 
-6° Aubagne : Festival International du Film ;
+Festival Premiers Plans (Angers) ;
 
-7° Belfort : Festival Entrevues ;
+Festival international du film d'animation (Annecy) ;
 
-8° Brest : Festival Européen du Film Court ;
+Festival international du film (Aubagne) ;
 
-9° Brive : Festival du moyen métrage de Brive ;
+Festival Entrevues (Belfort) ;
 
-10° Cannes :
+Festival européen du film court (Brest) ;
 
--Festival International du Film ;
+Festival du moyen métrage de Brive (Brive) ;
 
--Quinzaine des Réalisateurs ;
+Festival international du film (Cannes) ;
 
--Semaine Internationale de la Critique ;
+Quinzaine des réalisateurs (Cannes) ;
 
-11° Cinéssonne : Festival du cinéma européen en Essonne ;
+Semaine internationale de la critique (Cannes) ;
 
-12° Clermont-Ferrand : Festival International du Court Métrage ;
+Festival international du court métrage (Clermont-Ferrand) ;
 
-13° Cognac : Festival du film policier de Cognac ;
+Festival international de films de femmes (Créteil) ;
 
-14° Créteil : Festival International de Films de Femmes ;
+Festival international du film fantastique (Gérardmer) ;
 
-15° Douarnenez : Festival de cinéma ;
+Rencontres cinématographiques (Gindou) ;
 
-16° Gardanne : Festival Cinématographique d'Automne ;
+Festival du court métrage en plein air (Grenoble) ;
 
-17° Gérardmer : Festival international du film fantastique ;
+Plein la Bobine (La Bourboule) ;
 
-18° Gindou : Rencontres Cinéma ;
+Rencontres audiovisuelles (Lille) ;
 
-19° Grenoble : Festival du Court Métrage en plein air ;
+Etats généraux du documentaire (Lussas) ;
 
-20° Lille : Rencontres audiovisuelles ;
+Festival international du documentaire (Marseille) ;
 
-21° Lussas : Etats généraux du documentaire ;
+Festival du court métrage d'humour (Meudon) ;
 
-22° Marseille : Festival International du Documentaire ;
+Festival international du film méditerranéen (Montpellier) ;
 
-23° Meudon : Festival du Court Métrage d'Humour ;
+Un festival c'est trop court (Nice) ;
 
-24° Montpellier : Festival International du Film Méditerranéen ;
+Festival international du film court (Pantin) ;
 
-25° Moulins sur Allier : Festival Jean Carmet ;
+Festival de films documentaires - Cinéma du réel (Paris) ;
 
-26° Nice : Un festival c'est trop court ;
+Festival Paris cour(t) devant (Paris) ;
 
-27° Pantin : Festival international du Film Court ;
+Festival Silhouette (Paris) ;
 
-28° Paris :
+Festival Hors Pistes (Paris) ;
 
--Festival de films documentaires-Cinéma du Réel ;
+Festival européen du film fantastique (Strasbourg) ;
 
--Silhouette ;
+Court Métrange (Rennes) ;
 
--Courts Devant ;
+Festival Off-courts (Trouville) ;
 
-29° Strasbourg : Festival européen du film fantastique ;
+Festival du film court (Villeurbanne) ;
 
-30° Trouville : Festival Off-Courts de Trouville ;
+2° Allemagne :
 
-31° Vendôme : Festival Images en Région ;
+Festival international de Berlin (Berlinale) ;
 
-32° Villeurbanne : Festival du Film Court ;
+Festival international de court-métrage d'Oberhausen ;
 
-33° MyFrenchFilmFestival. com.
+Festival international du film d'animation de Stuttgart (Trickfilm) ;
+
+Festival interfilm de Berlin ;
+
+3° Angleterre :
+
+Festival international du film de Leeds ;
+
+4° Australie :
+
+Festival international du film de Melbourne ;
+
+Festival du court-métrage de Sydney (Flickerfest) ;
+
+5° Autriche :
+
+Festival de Vienne (Viennale) ;
+
+6° Belgique :
+
+Festival du court-métrage de Bruxelles (Oh ce court !) ;
+
+Festival du film francophone de Namur ;
+
+Festival d'animation de Bruxelles (Anima) ;
+
+Festival international du film fantastique de Bruxelles ;
+
+7° Brésil :
+
+Festival international du court-métrage de Rio de Janeiro (Curta Cinema) ;
+
+Anima Mundi. - Festival international du film d'animation ;
+
+8° Burkina Faso :
+
+Fespaco ;
+
+9° Canada :
+
+Festival du cinéma de Montréal (Nouveau Cinéma) ;
+
+Festival international de film fantasia de Montréal ;
+
+Festival international du film d'animation d'Ottawa ;
+
+Festival international du film de Toronto ;
+
+10° Corée du Sud :
+
+Festival international du film de Busan ;
+
+11° Croatie :
+
+Festival du film d'animation de Zagreb (Animafest) ;
+
+12° Danemark :
+
+Festival international du film d'Odense ;
+
+Festival international du film de Copenhague (CPH : DOX) ;
+
+13° Ecosse :
+
+Festival international d'Edimbourg ;
+
+14° Emirats arabes unis :
+
+Festival de Dubaï ;
+
+15° Espagne :
+
+Festival du film fantastique de Stiges ;
+
+Festival international de films documentaires et de courts-métrages de Bilbao ;
+
+Festival international de cinéma de Valence (La Cabina) ;
+
+16° Etats-Unis :
+
+Festival du film indépendant d'Aspen ;
+
+Festival international du film de Palm Springs ;
+
+Festival du film de Sundance ;
+
+Festival de Cleveland ;
+
+Festival international de Rhode Island ;
+
+Festival Tribeca de New York ;
+
+17° Finlande :
+
+Festival du film de Tampere ;
+
+18° Irlande :
+
+Festival du film de Cork (Corona) ;
+
+19° Italie :
+
+Festival international du cinéma de Venise ;
+
+20° Japon :
+
+Festival international du film d'animation de Hiroshima ;
+
+Festival international du film de Tokyo (Short Shorts) ;
+
+Festival de Sapporo ;
+
+21° Pays-Bas :
+
+Festival international du film de Rotterdam ;
+
+Festival Go Short de Nimègue ;
+
+Festival du film documentaire d'Amsterdam (IDFA) ;
+
+22° Pologne :
+
+Festival international du court métrage et du documentaire de Cracovie ;
+
+23° Portugal :
+
+Festival international du film d'animation d'Espinho (Cinanima) ;
+
+Festival IndieLisboa de Lisbonne ;
+
+Festival Vila do Conde ;
+
+Festival international du film documentaire de Lisbonne (Doclisboa) ;
+
+24° République tchèque :
+
+Festival d'animation Anifest de Teplice ;
+
+Festival international du film documentaire de Jihlava ;
+
+25° Russie :
+
+Festival international du documentaire, du court-métrage et du film d'animation de Saint-Pétersbourg (Message to Man) ;
+
+26° Suède :
+
+Festival international du court-métrage d'Uppsala ;
+
+27° Suisse :
+
+Festival de Nyon - Visions du réel ;
+
+Festival international du film de Locarno (Léopards de Demain) ;
+
+Festival de Wintherthur ;
+
+Festival du film fantastique de Neuchâtel (NIFFF).
