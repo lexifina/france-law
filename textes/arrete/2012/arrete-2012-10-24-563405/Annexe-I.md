@@ -64,6 +64,10 @@ Angola :
 
 Paris-Luanda ;
 
+Antigua-et-Barbuda :
+
+Paris-Saint-John's ;
+
 Arabie saoudite :
 
 Paris-Abha ;
@@ -428,15 +432,19 @@ Dominique :
 
 Paris-Marigot.
 
+Paris-Roseau ;
+
 Egypte :
 
 Paris-Le Caire ;
 
-Emirats arabes unis :
+Emirats Arabes Unis :
 
 Paris-Abou Dabi ;
 
 Paris-Dubaï ;
+
+Paris-Sharjah ;
 
 Equateur :
 
@@ -611,6 +619,8 @@ Paris-Bassora ;
 Paris-Erbil ;
 
 Iran :
+
+Paris-Meshed ;
 
 Paris-Téhéran ;
 
@@ -928,6 +938,12 @@ Paris-Saint-Domingue ;
 
 Paris-Punta Cana ;
 
+Royaume-Uni :
+
+Paris-Anguilla ;
+
+Paris-Tortola ;
+
 Russie :
 
 Marseille-Moscou ;
@@ -1090,6 +1106,8 @@ Toulouse-Tunis ;
 
 Turquie :
 
+Paris-Adana ;
+
 Paris-Antalya ;
 
 Paris-Ankara ;
@@ -1105,6 +1123,12 @@ Toulouse-Istanbul ;
 Nice-Istanbul ;
 
 Paris-Izmir ;
+
+Paris-Kayseri ;
+
+Paris-Konya ;
+
+Paris-Trabzon ;
 
 Ukraine :
 
@@ -1191,12 +1215,6 @@ Cayenne ― Saint-Domingue ;
 Fort-de-France - Saint-Domingue ;
 
 Pointe-à-Pitre - Saint-Domingue ;
-
-Royaume-Uni :
-
-Paris-Anguilla ;
-
-Paris-Tortola ;
 
 Saint-Martin :
 
