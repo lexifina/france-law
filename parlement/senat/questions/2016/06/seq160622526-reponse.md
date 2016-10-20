@@ -1,0 +1,9 @@
+# Réponse à la question SEQ160622526
+
+- Question : [SEQ160622526](seq160622526.md) — Réforme de l'organisation des associations foncières de remembrement
+
+## Réponse
+
+*Agriculture, agroalimentaire et forêt, JO du 2016-10-20, page 4585*
+
+Les associations foncières de remembrement (AFR) sont des associations syndicales autorisées régies par l'ordonnance 2004-632 du 1er juillet 2004 relative aux associations syndicales de propriétaires et par les dispositions législatives et réglementaires spécifiques du code rural et de la pêche maritime. L'article 7 (10°) du décret n° 2006-504 du 3 mai 2006 précise pour sa part que les assemblées générales doivent se tenir au moins tous les 2 ans. En effet, au regard des prérogatives détenues par les associations syndicales sur les propriétés incluses dans leurs périmètres, il est important d'en garantir le fonctionnement démocratique, notamment par des réunions régulières des propriétaires. Pour subvenir à ses dépenses, et plus particulièrement à ses frais de fonctionnement, l'AFR dispose de recettes qui comprennent, outre les redevances dues par ses membres, d'autres recettes ainsi que toutes les ressources prévues à l'article 31 de l'ordonnance du 1er juillet 2004. De plus, les dépenses sont réparties entre les propriétaires selon les critères préétablis, qui sont fixés dans les statuts de l'association. Afin d'éviter des assemblées pléthoriques, l'article 19 de l'ordonnance du 1er juillet 2004 autorise les statuts à prévoir un seuil d'intérêt minimum permettant d'y siéger. Il est ainsi possible de conditionner la qualité de membre de cette assemblée à une superficie détenue obligatoirement ou à un minimum de contribution financière. Les propriétaires n'atteignant pas individuellement le seuil prévu par les statuts peuvent se regrouper pour l'atteindre et ainsi être représentés. Les petites communes rurales doivent pouvoir ainsi moduler le coût de la tenue desdites assemblées générales.
