@@ -1,0 +1,9 @@
+# Réponse à la question SEQ160220264
+
+- Question : [SEQ160220264](seq160220264.md) — Intercommunalités et plans d'urbanisme
+
+## Réponse
+
+*Aménagement du territoire, ruralité et collectivités territoriales, JO du 2016-10-20, page 4609*
+
+Le bénéfice des reports des délais, prévus par l'article 13 de la loi de simplification de la vie des entreprises, pour permettre aux communautés engagées dans l'élaboration d'un plan local d'urbanisme intercommunal (PLUi) de bénéficier d'un report jusqu'au 31 décembre 2019 de différentes échéances, dont la mise en conformité avec la loi dite Grenelle 2, impose que le débat sur le projet d'aménagement et de développement durable (PADD) ait lieu avant le 27 mars 2017. Le mouvement de recomposition de la carte intercommunale peut, de fait, avoir des effets sur les conditions d'exercice des compétences des établissements publics de coopération intercommunale qui ne pouvaient être pleinement anticipés lors de l'adoption en 2013 et 2014 de différentes dispositions législatives en matière de droit de l'urbanisme, et compromettre le respect de cette échéance. Aussi, le projet de loi « égalité et citoyenneté », adopté en première lecture à l'Assemblée nationale le 6 juillet 2016, prévoit dans son article 33 bis E de reporter au 31 décembre 2017 l'échéance relative au débat sur les orientations du PADD pour les EPCI à fiscalité propre ayant engagé une procédure d'élaboration d'un Plan local d'urbanisme intercommunal entre le 24 mars 2014 et le 31 décembre 2015 et qui seront concernés par une modification de leur périmètre au 1er janvier 2017. Plus globalement, le Gouvernement travaille à l'inscription dans le même projet de loi de l'ensemble des dispositions utiles qui serait de nature à faciliter l'exercice de la compétence en matière de plan local d'urbanisme dans les nouveaux EPCI à fiscalité propre à compter du 1er janvier 2017.
