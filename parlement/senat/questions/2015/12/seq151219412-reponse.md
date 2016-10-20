@@ -1,0 +1,9 @@
+# Réponse à la question SEQ151219412
+
+- Question : [SEQ151219412](seq151219412.md) — Coût d'une fermeture de la centrale de Fessenheim
+
+## Réponse
+
+*Environnement, énergie et mer, JO du 2016-10-20, page 4616*
+
+La loi du 17 août 2015 sur la transition énergétique pour la croissance verte (LTECV) porte l'objectif de diversifier les sources de production et d'approvisionnement en électricité. Cette diversification appellera en premier lieu la montée en puissance des énergies renouvelables (EnR), conformément aux engagements européens de la France à l'horizon 2020, ce qui implique une diminution de la part du nucléaire pour atteindre un objectif de 50 % de production nucléaire à l'horizon 2025. La loi prévoit à ce titre le plafonnement de la capacité de production nucléaire installée en France. L'autorisation de mise en service du réacteur pressurisé européen (EPR) de Flamanville sera conditionnée à la fermeture d'une capacité nucléaire permettant de respecter le plafond de 62,3 GW de puissance nucléaire totale installée. Il appartient à Électricité de France (EDF) de proposer le choix des réacteurs à fermer, mais la fermeture de Fessenheim est la seule hypothèse mise sur la table par EDF. En ce qui concerne le coût de la fermeture de Fessenheim, le rapport des députés Mariton et Goua a chiffré une indemnité pour l'entreprise EDF comprise entre 650 millions d'euros et 6,7 milliards d'euros. Cette estimation est tout à fait excessive. En effet, les montants avancés par ce rapport sont totalement déconnectés des règles juridiques applicables et de l'ancienneté des réacteurs d'EDF susceptibles d'être fermés. Le Gouvernement et EDF ont convenu à l'été 2016 d'un protocole d'indemnisation correspondant au préjudice commercial et tenant compte des risques juridiques et techniques pesant sur l'exploitant ayant une incidence sur la valeur de la centrale.
