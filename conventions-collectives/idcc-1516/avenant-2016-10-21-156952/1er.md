@@ -1,0 +1,25 @@
+# Article 1er
+
+L'article 9 de l'accord du 19 novembre 2015 est remplacé par la stipulation suivante :
+
+« 9. Dans le cadre de l'article L. 912-1 du code de la sécurité sociale, les signataires de l'accord du 19 novembre 2015 ont instauré des garanties présentant un degré élevé de solidarité.
+
+Conformément à l'article R. 912-1 du code de la sécurité sociale, la part de la cotisation qui est affectée au financement des garanties présentant un degré élevé de solidarité est égale à 2 % de la cotisation globale hors taxes versée par l'entreprise à titre obligatoire. Cette part de cotisation est affectée :
+
+– soit, au financement de garanties servies dans le cadre de l'action sociale des organismes assureurs non recommandés, pour les entreprises non couvertes par un organisme assureur recommandé ;
+
+– soit, au « fonds de solidarité » des organismes assureurs recommandés, pour les entreprises couvertes par un organisme assureur recommandé.
+
+Le fonds de solidarité des organismes assureurs recommandés bénéficie exclusivement aux salariés couverts par les organismes assureurs recommandés.
+
+Dans le cadre du degré élevé de solidarité, les signataires de l'accord du 19 novembre 2015 décident de mettre en œuvre des mesures de solidarité qui viennent, le cas échéant, s'ajouter à celles de l'organisme assureur qu'il soit recommandé ou non.
+
+Les partenaires sociaux décident le financement intégral, par la solidarité, de la part salariale de la cotisation des apprentis bénéficiaires d'un CDD d'une durée inférieure à 12 mois ou dont la cotisation représente au moins 10 % de leurs revenus bruts, pour le niveau de couverture obligatoire retenu par l'entreprise.
+
+La commission paritaire de prévoyance et de santé (CPPS) peut décider chaque année, par voie d'avenant, la modification des mesures retenues et les modalités d'attribution.
+
+La CPPS procède aux ajustements nécessaires à tout moment au cours de la vie du régime.
+
+La CPPS contrôle la mise en œuvre de ces orientations par les organismes auprès desquels les entreprises organisent la couverture de leurs salariés.
+
+Les entreprises non adhérentes à l'un des organismes assureurs recommandés sont tenues de mettre en œuvre les mesures de solidarités définies au présent article. »
