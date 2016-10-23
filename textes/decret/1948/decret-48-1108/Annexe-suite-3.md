@@ -30,36 +30,6 @@ HEC - HED
 
 |
 
-Secrétaire général d'académie
-
-|
-
-841 - HEB
-
-|
-
-|
-
-Directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie
-
-|
-
-852 - HEB
-
-|
-
-|
-
-Inspecteur d'académie adjoint
-
-|
-
-852 - HEA
-
-|
-
-|
-
 Directeur du service inter académique des épreuves et concours des académies de Créteil, Paris et Versailles
 
 |
