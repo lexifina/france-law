@@ -4,7 +4,7 @@ Décret n° 70-912 du 5 octobre 1970 modifié relatif aux conditions de nominati
 
 Décret n° 70-1094 du 30 novembre 1970 modifié fixant les conditions de nomination et d'avancement dans les emplois de secrétaire général d'université.
 
-Décret n° 76-818 du 24 août 1976 modifié relatif aux conditions de désignation des directeurs régionaux de l'environnement, de l'aménagement et du logement .
+Décret n° 76-818 du 24 août 1976 modifié relatif aux conditions de désignation des directeurs régionaux de l'environnement, de l'aménagement et du logement.
 
 Décret n° 76-1133 du 9 décembre 1976 modifié relatif aux emplois de directeur départemental et de directeur régional de la jeunesse, des sports et des loisirs.
 
@@ -13,10 +13,6 @@ Décret n° 79-102 du 31 janvier 1979 modifié relatif à l'emploi de directeur 
 Décret n° 79-108 du 31 janvier 1979 modifié relatif à l'emploi de directeur interrégional des douanes et droits indirects.
 
 Décret n° 85-1065 du 3 octobre 1985 relatif aux emplois de directeur régional du commerce extérieur et d'attaché régional du commerce extérieur.
-
-Décret n° 86-970 du 19 août 1986 modifié relatif aux dispositions statutaires applicables à l'emploi de secrétaire général d'académie.
-
-Décret n° 90-676 du 18 juillet 1990 relatif au statut d'emploi des inspecteurs d'académie, directeurs des services départementaux de l'éducation nationale et des inspecteurs d'académie adjoints.
 
 Décret n° 91-1140 du 4 novembre 1991 relatif aux conditions de nomination et d'avancement dans l'emploi de directeur régional de l'environnement.
 
@@ -35,9 +31,3 @@ Décret n° 2002-725 du 30 avril 2002 relatif aux statuts d'emploi de directeur 
 Décret n° 2003-598 du 1er juillet 2003. fixant les conditions de nomination et d'avancement dans l'emploi de directeur régional des affaires culturelles.
 
 Décret n° 2006-1303 du 25 octobre 2006 relatif aux conditions de nomination et d'avancement dans les emplois de chef de service technique principal, chef de service technique, chef d'unité technique et cadre supérieur technique de l'aviation civile.
-
-NOTA :
-
-Décret n° 2009-235 du 27 février 2009 art 7 : Les présentes dispositions prennent effet dans chaque région à la date de nomination du directeur régional de l'environnement, de l'aménagement et du logement et au plus tard le 1er janvier 2011.
-
-Conformément à son article 10, le présent décret ne s'applique ni à la région Ile-de-France, ni aux régions d'outre-mer.
