@@ -1064,11 +1064,11 @@ FR000000000000755
 
 |
 
-E. P. S VILLE EVRARD
+EPS VILLE-EVRARD
 
 |
 
-Chaufferie EPS VILLE EVRARD
+Chaufferie EPS VILLE-EVRARD
 
 |
 
@@ -1076,10 +1076,6 @@ Chaufferie EPS VILLE EVRARD
 
 |
 
-3 383
-
-|
-
 0
 
 |
@@ -1104,7 +1100,11 @@ Chaufferie EPS VILLE EVRARD
 
 |
 
-7 163
+0
+
+|
+
+3 780
 
 |
 
@@ -1592,11 +1592,11 @@ FR000000000000766
 
 |
 
-COMPAGNIE PARISIENNE DE CHAUFFAGE URBAIN
+CPCU
 
 |
 
-CPCU-Yvry
+CPCU - Ivry
 
 |
 
@@ -1608,31 +1608,31 @@ CPCU-Yvry
 
 |
 
-6 552
+6 778
 
 |
 
-5 535
+11 069
 
 |
 
-4 768
+9 536
 
 |
 
-4 026
+8 052
 
 |
 
-3 308
+6 616
 
 |
 
-2 617
+5 234
 
 |
 
-60 990
+81 469
 
 |
 
@@ -3032,11 +3032,11 @@ FR000000000000814
 
 |
 
-Rohm and Haas France usine de Lauterbourg
+Dow France SAS
 
 |
 
-Rohm and Haas France - usine de Lauterbourg
+Dow France SAS-usine de Lauterbourg
 
 |
 
@@ -3080,11 +3080,11 @@ FR000000000000815
 
 |
 
-SONOCO
+CENPA SAS
 
 |
 
-SONOCO Paper France
+CENPA SAS
 
 |
 
@@ -5300,10 +5300,6 @@ IMERYS TC BLAJAN
 
 |
 
-3 037
-
-|
-
 0
 
 |
@@ -5328,7 +5324,11 @@ IMERYS TC BLAJAN
 
 |
 
-9 217
+0
+
+|
+
+6 180
 
 |
 
@@ -5672,11 +5672,11 @@ FR000000000000895
 
 |
 
-Holcim France Dannes
+EQIOM
 
 |
 
-HOLCIM France DANNES
+EQIOM Dannes
 
 |
 
@@ -5684,10 +5684,6 @@ HOLCIM France DANNES
 
 |
 
-262 675
-
-|
-
 0
 
 |
@@ -5712,7 +5708,11 @@ HOLCIM France DANNES
 
 |
 
-529 993
+0
+
+|
+
+267 318
 
 |
 
@@ -7788,7 +7788,7 @@ DALKIA
 
 |
 
-Chaufferie de la Blanchisserie du CHRU LILLE
+Chaufferie de la blanchisserie du CHRU LILLE
 
 |
 
@@ -7804,27 +7804,27 @@ Chaufferie de la Blanchisserie du CHRU LILLE
 
 |
 
-1 170
+0
 
 |
 
-1 008
+0
 
 |
 
-851
+0
 
 |
 
-699
+0
 
 |
 
-553
+0
 
 |
 
-8 815
+4 534
 
 |
 
@@ -8812,27 +8812,27 @@ ARJO WIGGINS usine de l'Aa
 
 |
 
-47 654
+0
 
 |
 
-46 751
+0
 
 |
 
-45 839
+0
 
 |
 
-44 916
+0
 
 |
 
-43 990
+0
 
 |
 
-377 433
+148 283
 
 |
 
@@ -9468,7 +9468,7 @@ Vallourec Tubes France
 
 |
 
-Vallourec Tubes France-Acierie de Saint Saulve
+Vallourec Tubes France-Aciérie de Saint-Saulve
 
 |
 
@@ -9484,27 +9484,27 @@ Vallourec Tubes France-Acierie de Saint Saulve
 
 |
 
-65 487
+40 644
 
 |
 
-64 246
+39 874
 
 |
 
-62 993
+39 096
 
 |
 
-61 725
+38 309
 
 |
 
-60 452
+37 519
 
 |
 
-518 676
+399 215
 
 |
 
@@ -9512,11 +9512,11 @@ FR000000000001006
 
 |
 
-VERRERIES DE MASNIERES SAS
+STOELZLE MASNIERES PARFUMERIE
 
 |
 
-VERRERIES DE MASNIERES
+STOELZLE MASNIERES PARFUMERIE
 
 |
 
@@ -11502,27 +11502,27 @@ SCA HYGIENE PRODUCTS OPERATIONS
 
 |
 
-20 192
+0
 
 |
 
-19 809
+0
 
 |
 
-19 423
+0
 
 |
 
-19 032
+0
 
 |
 
-18 639
+0
 
 |
 
-159 925
+62 830
 
 |
 
@@ -12406,35 +12406,35 @@ ISERGIE SA
 
 |
 
-17 834
+0
 
 |
 
-15 799
+0
 
 |
 
-13 828
+0
 
 |
 
-11 920
+0
 
 |
 
-10 073
+0
 
 |
 
-8 286
+0
 
 |
 
-6 563
+0
 
 |
 
-104 232
+19 929
 
 |
 

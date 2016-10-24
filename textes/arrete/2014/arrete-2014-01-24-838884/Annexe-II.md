@@ -2028,7 +2028,7 @@ NESTLE GRAND FROID SA
 
 |
 
-NGF - usine de Beauvais
+NGF-Usine de Beauvais
 
 |
 
@@ -2044,27 +2044,27 @@ NGF - usine de Beauvais
 
 |
 
-5 215
+0
 
 |
 
-4 493
+0
 
 |
 
-3 793
+0
 
 |
 
-3 117
+0
 
 |
 
-2 465
+0
 
 |
 
-39 293
+20 210
 
 |
 
@@ -2696,11 +2696,11 @@ FR000000000000083
 
 |
 
-HERAKLES SA
+AIRBUS SAFRAN LAUNCHERS
 
 |
 
-HERAKLES Saint-Médard
+AIRBUS SAFRAN LAUNCHERS
 
 |
 
@@ -3656,11 +3656,11 @@ FR000000000000110
 
 |
 
-DALKIA
+POLYREY SAS
 
 |
 
-DALKIA-usine POLYREY
+POLYREY SAS
 
 |
 
@@ -4280,11 +4280,11 @@ FR000000000000125
 
 |
 
-LESAFFRE INGREDIENTS SERVICES
+LIS France
 
 |
 
-LESAFFRE INGREDIENTS SERVICES
+LIS France
 
 |
 
@@ -5000,11 +5000,11 @@ FR000000000000144
 
 |
 
-VERALLIA SAINT-GOBAIN EMBALLAGE
+VERALLIA FRANCE
 
 |
 
-VERALLIA - SAINT-GOBAIN EMBALLAGE
+VERALLIA France-Usine de Chalon-sur-Saône
 
 |
 
@@ -5432,11 +5432,11 @@ FR000000000000158
 
 |
 
-TOKAI RUBBER INDUSTRIE
+Anvis France Decize SAS
 
 |
 
-TOKAI RUBBER INDUSTRIE
+Anvis France Decize SAS
 
 |
 
@@ -5624,11 +5624,11 @@ FR000000000000162
 
 |
 
-DALKIA
+DIJON ENERGIES
 
 |
 
-Chaufferie Urbaine de la ZUP de Quetigny
+CHAUFFERIE URBAINE QUETIGNY
 
 |
 
@@ -7020,7 +7020,7 @@ GOODYEAR DUNLOP TIRES France
 
 |
 
-GOODYEAR DUNLOP TIRES FRANCE MONTLUÇON
+GOODYEAR DUNLOP TIRES FRANCE MONTLUCON
 
 |
 
@@ -7036,27 +7036,27 @@ GOODYEAR DUNLOP TIRES FRANCE MONTLUÇON
 
 |
 
-14 281
+0
 
 |
 
-14 010
+0
 
 |
 
-13 737
+0
 
 |
 
-13 460
+0
 
 |
 
-13 183
+0
 
 |
 
-113 107
+44 436
 
 |
 
@@ -7120,14 +7120,6 @@ BILTUBE EUROPE LIMITED
 
 |
 
-6 398
-
-|
-
-6 278
-
-|
-
 0
 
 |
@@ -7152,7 +7144,15 @@ BILTUBE EUROPE LIMITED
 
 |
 
-12 676
+0
+
+|
+
+0
+
+|
+
+0
 
 |
 
@@ -8312,11 +8312,11 @@ FR000000000000233
 
 |
 
-VERALLIA SAINT-GOBAIN EMBALLAGE
+VERALLIA FRANCE
 
 |
 
-VERALLIA - SAINT-GOBAIN EMBALLAGE - OIRY
+VERALLIA France-Usine de Oiry
 
 |
 
@@ -8648,11 +8648,11 @@ FR000000000000242
 
 |
 
-GRAND TROYES
+SEM ENERGIE
 
 |
 
-Chaufferie Centrale des Chartreux
+SEM ENERGIE Chaufferie Centrale des Chartreux
 
 |
 
@@ -9568,14 +9568,6 @@ PETROPLUS RAFFINAGE PETIT-COURONNE
 
 |
 
-436 017
-
-|
-
-428 444
-
-|
-
 0
 
 |
@@ -9600,7 +9592,15 @@ PETROPLUS RAFFINAGE PETIT-COURONNE
 
 |
 
-864 461
+0
+
+|
+
+0
+
+|
+
+0
 
 |
 
@@ -9752,11 +9752,11 @@ FR000000000000272
 
 |
 
-SVI Sucrerie de Fontaine-le-Dun
+CRISTAL UNION
 
 |
 
-SVI Sucrerie de Fontaine-le-Dun
+Sucrerie de Fontaine-le-Dun
 
 |
 
@@ -11628,7 +11628,7 @@ DALKIA
 
 |
 
-Chaufferie Urbaine Dalkia de Montbéliard
+Chaufferie urbaine Dalkia de Montbéliard
 
 |
 
@@ -11644,27 +11644,27 @@ Chaufferie Urbaine Dalkia de Montbéliard
 
 |
 
-3 739
+1 870
 
 |
 
-3 221
+1 611
 
 |
 
-2 720
+1 360
 
 |
 
-2 235
+1 118
 
 |
 
-1 767
+884
 
 |
 
-28 169
+21 330
 
 |
 
@@ -12920,11 +12920,11 @@ FR000000000000351
 
 |
 
-VERALLIA SAINT-GOBAIN EMBALLAGE LAGNIEU
+VERALLIA France
 
 |
 
-VERALLIA - SAINT-GOBAIN EMBALLAGE LAGNIEU
+VERALLIA France-Usine de LAGNIEU
 
 |
 

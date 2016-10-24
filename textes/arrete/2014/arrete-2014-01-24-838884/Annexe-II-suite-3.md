@@ -12,21 +12,37 @@ NOM DE L'INSTALLATION
 
 |
 
-2013 |
+2013
 
-2014 |
+|
 
-2015 |
+2014
 
-2016 |
+|
 
-2017 |
+2015
 
-2018 |
+|
 
-2019 |
+2016
 
-2020 |
+|
+
+2017
+
+|
+
+2018
+
+|
+
+2019
+
+|
+
+2020
+
+|
 
 TOTAL
 
@@ -4668,27 +4684,27 @@ ARMSTRONG BUILDING PRODUCTS SAS
 
 |
 
-34 631
+26 884
 
 |
 
-32 053
+25 379
 
 |
 
-29 541
+23 907
 
 |
 
-27 096
+22 466
 
 |
 
-24 727
+21 065
 
 |
 
-268 087
+239 740
 
 |
 
@@ -7048,11 +7064,11 @@ FR-new-06201358
 
 |
 
-Tata Steel France Rail SA
+British Steel Rail France SAS
 
 |
 
-Tata Steel France Rail SA
+British Steel Rail France SAS
 
 |
 
@@ -8016,39 +8032,39 @@ KEM ONE
 
 |
 
-69 189
+0
 
 |
 
-67 988
+0
 
 |
 
-66 771
+0
 
 |
 
-65 543
+0
 
 |
 
-64 301
+0
 
 |
 
-63 047
+0
 
 |
 
-61 777
+0
 
 |
 
-60 504
+0
 
 |
 
-519 120
+0
 
 |
 
@@ -8972,7 +8988,7 @@ CENTRE HOSPITALIER VICTOR-DUPOUY
 
 |
 
-chaufferie du CENTRE HOSPITALIER VICTOR-DUPOUY
+Chaufferie du CENTRE HOSPITALIER VICTOR DUPOUY
 
 |
 
@@ -8988,27 +9004,27 @@ chaufferie du CENTRE HOSPITALIER VICTOR-DUPOUY
 
 |
 
-1 530
+0
 
 |
 
-1 318
+0
 
 |
 
-1 112
+0
 
 |
 
-914
+0
 
 |
 
-724
+0
 
 |
 
-11 557
+0 (1)
 
 |
 
@@ -9596,43 +9612,43 @@ COMPTOIR AGRICOLE
 
 |
 
-COMPTOIR AGRICOLE Erstein
+Comptoir agricole Hochfelden
 
 |
 
-798
+1 322
 
 |
 
-713
+1 183
 
 |
 
-632
+1 048
 
 |
 
-553
+917
 
 |
 
-477
+790
 
 |
 
-402
+667
 
 |
 
-331
+548
 
 |
 
-261
+434
 
 |
 
-4 167
+6 909
 
 |
 
@@ -9692,43 +9708,43 @@ COMPTOIR AGRICOLE
 
 |
 
-Comptoir Agricole Hochfelden
+COMPTOIR AGRICOLE Erstein
 
 |
 
-1 322
+798
 
 |
 
-1 183
+713
 
 |
 
-1 048
+632
 
 |
 
-917
+553
 
 |
 
-790
+477
 
 |
 
-667
+402
 
 |
 
-548
+331
 
 |
 
-434
+261
 
 |
 
-6 909
+4 167
 
 |
 
@@ -10324,10 +10340,6 @@ VIVADOUR BARCELONNE-DU-GERS
 
 |
 
-1 885
-
-|
-
 0
 
 |
@@ -10352,7 +10364,11 @@ VIVADOUR BARCELONNE-DU-GERS
 
 |
 
-3991
+0
+
+|
+
+2 106
 
 |
 
@@ -13368,22 +13384,26 @@ CODEMA
 
 |
 
-6 147
+0
 
 |
 
-5 195
+0
 
 |
 
-4 273
+0
 
 |
 
-3 385
+0
 
 |
 
-53 755
+34 755
 
 |
+
+NOTA :
+
+(1) Au lieu de " 0 ", il convient de lire " 5 969 ".

@@ -426,7 +426,7 @@ ALBIOMA CARAÏBES
 
 |
 
-FR-new-6900563
+FR-new-06900563
 
 |
 
@@ -459,6 +459,18 @@ Compagnie IBM France
 |
 
 Centre Informatique IBM de Seclin
+
+|
+
+FR-new-07005525
+
+|
+
+Electricité de France
+
+|
+
+EDF Cycle Combiné Gaz de BOUCHAIN
 
 |
 

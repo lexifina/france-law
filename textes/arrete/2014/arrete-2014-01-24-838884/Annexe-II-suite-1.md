@@ -1108,11 +1108,11 @@ FR000000000000406
 
 |
 
-Saint-Gobain emballage, usine de Saint-Romain-le-Puy
+VERALLIA France
 
 |
 
-Saint-Gobain emballage, usine de Saint-Romain-le-Puy
+VERALLIA France-Usine de Saint-Romain-le-Puy
 
 |
 
@@ -5746,31 +5746,31 @@ Terminal méthanier de Montoir de Bretagne
 
 |
 
-24 018
+7 647
 
 |
 
-21 015
+6 691
 
 |
 
-18 103
+5 764
 
 |
 
-15 286
+4 867
 
 |
 
-12 560
+3 999
 
 |
 
-9 936
+3 164
 
 |
 
-137 682
+68 896
 
 |
 
@@ -5838,23 +5838,33 @@ Herbignac Cheese Ingredients
 
 |
 
-17 054 |
+17 054
 
-16 510 |
+|
+
+16 510
+
+|
 
 15 972
 
 |
 
-15 439 |
+15 439
+
+|
 
 14 913
 
 |
 
-14 391 |
+14 391
 
-13 878 |
+|
+
+13 878
+
+|
 
 123 601
 
@@ -5884,19 +5894,29 @@ SOCIETE LAITIERE DE MAYENNE
 
 |
 
-31 394 |
+31 394
 
-30 799 |
+|
 
-30 199 |
+30 799
 
-29 591 |
+|
+
+30 199
+
+|
+
+29 591
+
+|
 
 28 981
 
 |
 
-243 548 |
+243 548
+
+|
 
 FR000000000000544
 
@@ -6138,7 +6158,9 @@ DALKIA France
 
 |
 
-DALKIA ZUP d' ALLONES
+DALKIA ZUP
+
+d'ALLONES
 
 |
 
@@ -6366,9 +6388,13 @@ FR000000000000557
 
 |
 
-SOCCRAM |
+ROSEO
 
-SOCCRAM Chaufferie de la Roseraie (Angers) |
+|
+
+Chaufferie de la Roseraie (Angers)
+
+|
 
 3 906
 
@@ -7394,11 +7420,11 @@ FR000000000000592
 
 |
 
-COMPAGNIE PARISIENNE DE CHAUFFAGE URBAIN
+CPU
 
 |
 
-CPCU III à St-Ouen 93
+CPCU-Saint-Ouen III à St-Ouen 93
 
 |
 
@@ -7414,27 +7440,27 @@ CPCU III à St-Ouen 93
 
 |
 
-22 152
+88 608
 
 |
 
-19 095
+76 378
 
 |
 
-16 136
+64 545
 
 |
 
-13 273
+53 093
 
 |
 
-10 513
+42 053
 
 |
 
-348 446
+591 954
 
 |
 
@@ -8384,43 +8410,43 @@ KEM ONE
 
 |
 
-KEM ONE FOS-SUR-MER
+KEM ONE FOS SUR MER
 
 |
 
-85 635
+154 824
 
 |
 
-84 147
+152 135
 
 |
 
-82 643
+149 414
 
 |
 
-81 122
+146 665
 
 |
 
-79 585
+143 886
 
 |
 
-78 033
+141 080
 
 |
 
-76 461
+138 238
 
 |
 
-74 885
+135 389
 
 |
 
-642 511
+1 161 631
 
 |
 
@@ -8628,11 +8654,7 @@ Raffinerie de Berre
 
 |
 
-570 164
-
-|
-
-560 260
+0
 
 |
 
@@ -8640,21 +8662,31 @@ Raffinerie de Berre
 
 |
 
-0 |
+0
+
+|
 
 0
 
 |
 
-0 |
+0
 
-0 |
+|
 
-0 |
+0
 
-1 130
+|
 
-424
+0
+
+|
+
+0
+
+|
+
+0
 
 |
 
@@ -9566,11 +9598,17 @@ CEP (Centrale de Production d'Energie : chaufferie des parcs à thèmes) |
 
 47 903 |
 
-FR000000000000662 |
+FR000000000000662
 
-SOCCRAM |
+|
 
-SOCCRAM Chaufferie de la plaine du Lys (DAMMARIE) |
+GEODALYS
+
+|
+
+GEODALYS Chaufferie de la plaine du Lys (DAMMARIE)
+
+|
 
 9 604 |
 
@@ -9920,14 +9958,6 @@ Chaufferie Urbaine STHAL
 
 |
 
-11 203
-
-|
-
-10 025
-
-|
-
 0
 
 |
@@ -9952,7 +9982,15 @@ Chaufferie Urbaine STHAL
 
 |
 
-21 228
+0
+
+|
+
+0
+
+|
+
+0
 
 |
 
