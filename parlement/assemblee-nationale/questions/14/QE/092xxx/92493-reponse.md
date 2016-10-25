@@ -1,0 +1,9 @@
+# Réponse à la question n° 92493
+
+- Question : [92493](92493.md) — Question n° 92493 — données personnelles; protection
+
+## Réponse
+
+*JO du 2016-10-25*
+
+Le gouvernement œuvre pour le développement des usages numériques de la sphère publique, comme de la sphère privée. Ainsi, le projet de loi pour une République numérique dont la promulgation est prévue à l'automne comporte-t-il des dispositions de nature : - à favoriser le développement de l'identité numérique afin de permettre l'émergence de nouveaux usages et de garantir une confiance accrue dans les services numériques ; - à encadrer les offres de coffre-fort numérique de manière à permettre aux citoyens de pouvoir disposer d'offres adaptées à leurs besoins en matière de stockage de documents et respectueuses de leur données ; - à permettre le développement de la lettre recommandée électronique. S'agissant de la question de la sécurisation des messageries grand public, l'approche retenue par la France est une approche fondée sur le partenariat entre les acteurs. Ainsi, le 8 octobre 2015, 5 fournisseurs de messagerie électronique se sont engagés à favoriser le chiffrement des échanges entre leurs serveurs de messagerie au travers de la signature d'une charte élaborée par l'agence nationale de la sécurité des systèmes d'information (http://www.ssi.gouv.fr/actualite/signature-de-la-charte-pour-la-securite-des-services-de-courriers-electroniques/). En outre, le gouvernement est toujours prudent lorsqu'il s'agit de créer de toutes pièces un nouveau service rassemblant divers outils fonctionnels existant déjà dans la sphère publique ou privée, en particulier, lorsque ces outils sont d'ores est déjà bien identifiés par les utilisateurs et donnent satisfaction. Ainsi, tout utilisateur peut facilement déposer une plainte sur le site de la CNIL, en vue de la rectification de ses données personnelles : http://www.cnil.fr/fr/plaintes
