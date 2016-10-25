@@ -1,0 +1,9 @@
+# Réponse à la question n° 96150
+
+- Question : [96150](96150.md) — Question n° 96150 — harcèlement moral; lutte et prévention; mesures
+
+## Réponse
+
+*JO du 2016-10-25*
+
+Au préalable, il convient de souligner que l'administration ne peut se saisir d'une situation que lorsque les faits lui sont dénoncés. En pratique, dès lors que des faits pouvant relever du harcèlement sont signalés aux recteurs, l'agent, victime, est immédiatement entendu par le directeur académique et/ou le directeur des ressources humaines de l'académie. Une enquête administrative est alors diligentée par le recteur afin d'établir la matérialité des faits sur la base de témoignages précis et concordants. Selon la gravité, l'inspection générale peut être saisie par la ministre de l'éducation nationale, de l'enseignement supérieur et de la recherche. Parallèlement, la présumée victime est prise en charge par les services académiques. Dès que les premiers éléments de l'enquête le justifient, des mesures de protection sont prises (aménagement du service par exemple afin de la soustraire au harceleur potentiel). La protection fonctionnelle lui est accordée sur sa demande. En ce qui concerne les mesures prises à l'encontre du coupable lorsque les faits sont dûment établis, une mesure de suspension des fonctions peut être prise à titre conservatoire, selon les dispositions de l'article 23 du décret no 2001-1174 du 11 décembre 2001 modifié portant statut particulier des personnels de direction s'il s'agit d'un agent relevant de ce corps de fonctionnaires ou, de l'article 30 de la loi no 83-634 du 13 juillet 1983 pour tout autre agent. Plusieurs exemples démontrent très clairement que ces mesures sont effectivement prises et que des procédures disciplinaires sont engagées indépendamment d'éventuelles poursuites pénales.
