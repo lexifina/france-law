@@ -1,0 +1,9 @@
+# Réponse à la question n° 97603
+
+- Question : [97603](97603.md) — Question n° 97603 — logements de fonction; Cour des comptes; rapport; recommandations
+
+## Réponse
+
+*JO du 2016-10-25*
+
+Le décret no 2012-752 du 9 mai 2012 procède à une refonte des conditions dans lesquelles les concessions de logement peuvent être accordées aux agents de l'État et de ses établissements publics, en établissant un lien direct entre l'existence d'astreintes et l'attribution de concessions de logement. Ces règles, qui s'appliquent à l'ensemble des agents, ont vocation à rationaliser et uniformiser l'octroi de logements de fonction dans un souci d'optimisation de l'usage des ressources publiques mais également d'exemplarité de l'État. Ainsi, seuls les personnels ayant une obligation de disponibilité totale et qui occupent les fonctions énumérées dans des arrêtés pris par ministère et publiés au Journal officiel de la république française ont désormais vocation à bénéficier d'un logement par nécessité absolue de service (NAS). Les concessions de logement par utilité de service sont remplacées par un régime de convention d'occupation précaire au bénéfice des catégories de personnels qui occupent des fonctions énumérées dans les arrêtés précédemment cités et qui sont tenues d'accomplir un service d'astreinte. Aussi, cette réforme a permis de rétablir l'égalité de traitement entre les fonctionnaires des différentes administrations à travers la mise en place de critères clairs et communs à l'ensemble des ministères. Une circulaire du ministre délégué au budget du 6 février 2013 transmise à chaque ministère est venue préciser les nouvelles règles introduites par le décret du 9 mai 2012 notamment en ce qui concerne l'obligation de proximité entre le lieu de résidence et le lieu d'exercice des fonctions (15 minutes pour les NAS et 30 minutes pour les COP/A) ainsi qu'en matière de limitation des surfaces.
