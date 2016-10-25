@@ -1,0 +1,9 @@
+# Réponse à la question n° 96894
+
+- Question : [96894](96894.md) — Question n° 96894 — agences de voyage; relations avec les compagnies aériennes; perspectives
+
+## Réponse
+
+*JO du 2016-10-25*
+
+L'association du transport aérien international (IATA) a annoncé une série de mesures visant à limiter pour ses membres les risques liés à l'émission de billets par les agences de voyages : il s'agit notamment de réduire le délai de paiement des billets émis par les agences accréditées IATA, qui, de mensuel, deviendra bimensuel, ou encore d'instaurer au profit de IATA des garanties financières en cas de modification de l'actionnariat ou de ratio d'exploitation jugés déficients. Les conséquences pour les agences de voyage peuvent être dans certains cas considérables, en alourdissant leurs charges de fonctionnement ou en créant des tensions sur leur trésorerie. Elles n'ont sans doute pas été suffisamment évaluées avant leur adoption par les différents acteurs. Il semble donc important que les agences de voyage et tour opérateurs, à travers leurs représentations syndicales, poursuivent le dialogue avec IATA afin de parvenir à un accord équilibré qui préserve les intérêts de chacun. Les agences de voyage constituent toujours un canal important de la vente de billets d'avion, que les compagnies aériennes ne peuvent ignorer. Des assouplissements sont d'ores et déjà annoncés, concernant les ratios d'exploitation et la nécessité de souscrire une garantie en cas de modification importante de l'actionnariat ou de transmission de l'entreprise. Ces avancées devraient être officialisées lors d'une prochaine réunion organisée par IATA en septembre prochain à Singapour. Le gouvernement reste vigilant sur ce dossier, afin de s'assurer que l'équilibre des relations économiques entre IATA et les agences de voyages soit respecté, et qu'aucun éventuel abus de position dominante de la part d'IATA ne soit commis.
