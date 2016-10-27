@@ -1,0 +1,9 @@
+# Réponse à la question SEQ160622303
+
+- Question : [SEQ160622303](seq160622303.md) — Route entre Saint-Georges et Ibigny en Moselle
+
+## Réponse
+
+*Transports, mer et pêche, JO du 2016-10-27, page 4765*
+
+La section Gogney-Saint-Georges-Héming reste à ce jour la seule section de la RN4 non aménagée en Lorraine. Les contraintes budgétaires n'avaient jusqu'à présent permis d'inscrire à l'actuel contrat de plan État-région (CPER) que la seule section Saint-Georges-Héming. C'est par une volonté affirmée de l'ensemble des acteurs concernés, collectivités locales et État, que les études de la section Gogney-Saint-Georges sont désormais relancées. À ce titre, par lettre du 9 novembre 2015, le directeur chargé des infrastructures de transport a passé commande de nouvelles études d'opportunité sur cette dernière section, et les services déconcentrés de l'État ont par la suite relancé les procédures d'avancement de ce projet au niveau local. Pour réduire le montant élevé du projet initial, qui constitue un frein majeur à sa réalisation dans un contexte budgétaire très contraint, ainsi que pour mieux maîtriser les impacts environnementaux, l'État étudie les possibilités d'optimisation du projet en collant au mieux au tracé de la RN4 actuelle. L'ensemble des études actualisées se conclura par une prochaine phase de concertation avec les parties prenantes qui permettra in fine de tendre vers un consensus sur les aménagements proposés. Ainsi, l'ensemble de ces démarches menées par les services déconcentrés de l'État permettra d'aboutir à des aménagements respectant les exigences locales, notamment les conditions d'accès aux secteurs d'Ibigny, de Richeval et de Bataville, la limitation des zones enclavées et le recalibrage des voies étroites utilisées. De même, les dernières acquisitions foncières seront réalisées consensuellement par des procédures amiables ne nécessitant pas de prendre une nouvelle déclaration d'utilité publique (DUP).
