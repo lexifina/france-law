@@ -132,6 +132,8 @@ Bahamas :
 
 Paris-Nassau ;
 
+Paris-George Town ;
+
 Bahreïn :
 
 Paris-Bahreïn ;
@@ -143,6 +145,10 @@ Paris-Dacca ;
 Bénin :
 
 Paris-Cotonou ;
+
+Bermudes :
+
+Paris-Hamilton ;
 
 Biélorussie :
 
@@ -944,6 +950,14 @@ Paris-Anguilla ;
 
 Paris-Tortola ;
 
+Nice-Jersey ;
+
+Paris-Guernesey ;
+
+Paris-île de Man ;
+
+Paris-Jersey ;
+
 Russie :
 
 Marseille-Moscou ;
@@ -1192,13 +1206,25 @@ Fort-de-France-Curaçao ;
 
 Pointe-à-Pitre-Curaçao ;
 
+Dominique :
+
+Pointe-à-Pitre-Marigot ;
+
+Saint-Martin-Marigot ;
+
 Etats-Unis :
 
 Cayenne ― Miami ;
 
 Fort-de-France-Miami ;
 
+Fort-de-France-San Juan ;
+
 Pointe-à-Pitre-Miami ;
+
+Pointe-à-Pitre-San Juan ;
+
+Saint-Martin-San Juan ;
 
 Haïti :
 
@@ -1226,7 +1252,9 @@ Pointe-à-Pitre - Phillipsburg ;
 
 Sainte-Lucie :
 
-Fort-de-France ― Castries.
+Fort-de-France ― Castries ;
+
+Pointe-à-Pitre-Castries.
 
 3.3. De/vers La Réunion
 
