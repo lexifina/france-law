@@ -1,0 +1,9 @@
+# Réponse à la question SEQ150114582
+
+- Question : [SEQ150114582](seq150114582.md) — Lutte contre l'obsolescence programmée des produits issus des métiers d'arts
+
+## Réponse
+
+*Environnement, énergie et mer, JO du 2016-10-27, page 4749*
+
+La loi n° 2015-992 du 17 août 2015 relative à la transition énergétique pour la croissance verte n'impose pas d'obligation d'affichage de la durée de vie des produits, mais préconise une approche volontaire. En effet, son article 70 fixe comme objectif de lutter contre l'obsolescence programmée des produits manufacturés grâce à l'information des consommateurs et prévoit que « des expérimentations peuvent être lancées, sur la base du volontariat, sur l'affichage de la durée de vie des produits afin de favoriser l'allongement de la durée d'usage des produits manufacturés grâce à l'information des consommateurs. Elles contribuent à la mise en place de normes partagées par les acteurs économiques des filières concernées sur la notion de durée de vie. La liste des catégories de produits concernés ainsi que le délai de mise en œuvre sont fixés en tenant compte des temps de transition technique et économique des entreprises de production. » En application de cet article, le ministère de l'environnement, de l'énergie et de la mer, chargé des relations internationales sur le climat, a confié à la fin de l'année 2015 une étude au laboratoire national de métrologie et d'essais (LNE), visant à élaborer le socle technique nécessaire à une expérimentation de l'affichage volontaire de la durée de vie des produits. Ce socle technique consistera en un référentiel transversal, applicable à toutes les catégories de produits, complété par un premier référentiel sectoriel (dans un secteur encore à définir). Il est prévu de lancer l'expérimentation proprement dite, impliquant une communication des entreprises intéressées envers les consommateurs, à partir de décembre 2016.
