@@ -93,3 +93,9 @@ Marseille-Dakar (Sénégal) ;
 Nantes-Dakar (Sénégal) ;
 
 Toulouse-Dakar (Sénégal).
+
+Jusqu'au 31 octobre 2021 :
+
+Dans la limite de deux fréquences hebdomadaires au total, puis sans limitation de fréquences à compter du 25 mars 2018 sur la liaison suivante :
+
+Paris-Tel-Aviv (Israël).
