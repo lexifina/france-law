@@ -1,6 +1,8 @@
 # Article Annexe XV
 
-GROUPE XV : MÉTIERS LIÉS À LA MUSIQUE
+GROUPE XV : MÉTIERS LIÉS A LA MUSIQUE
+
+|
 
 CLASSES
 
@@ -33,6 +35,18 @@ OPTIONS
 |
 
 3 : Instruments traditionnels
+
+|
+
+|
+
+4 : Accordeur-accordeuse de piano
+
+|
+
+|
+
+5 : Facteur-factrice d'orgues
 
 |
 

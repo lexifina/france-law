@@ -1,8 +1,8 @@
 # Article Annexe XVI
 
-GROUPE XVI : MÉTIERS DE L'AGRICULTURE
+GROUPE XVI : MÉTIERS DE L'AGRICULTURE ET DE L'AMÉNAGEMENT DU PAYSAGE
 
-ET DE L'AMÉNAGEMENT DU PAYSAGE
+|
 
 CLASSES
 
@@ -18,7 +18,7 @@ OPTIONS
 
 |
 
-2 : Maréchal-ferrant
+2 : Maréchal-ferrant - maréchale-ferrant
 
 |
 

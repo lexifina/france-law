@@ -1,8 +1,8 @@
 # Article Annexe III
 
-GROUPE III : MÉTIERS DU BÂTIMENT
+GROUPE III : MÉTIERS DU BÂTIMENT, DES TRAVAUX PUBLICS, DU PATRIMOINE ARCHITECTURAL
 
-ET DU PATRIMOINE ARCHITECTURAL
+|
 
 CLASSES
 
@@ -58,7 +58,15 @@ OPTIONS
 
 |
 
-4 : Plomberie installation sanitaire, plomberie fontainerie
+3 : Couverture-ornemaniste métallique
+
+|
+
+3 : graveur, graveuse
+
+|
+
+4 : Plomberie installation sanitaire, plomberie-fontainerie
 
 |
 
@@ -92,63 +100,63 @@ OPTIONS
 
 |
 
-8 : Métiers du plâtre, sculpture décorative
+8 : Métiers du plâtre Sculpture décorative
 
 |
 
-1 : staffeur poseur
+1 : staffeur poseur-staffeuse poseuse
 
 |
 
-8 : Métiers du plâtre, sculpture décorative
+8 : Métiers du plâtre Sculpture décorative
 
 |
 
-2 : staffeur-ornemaniste
+2 : staffeur staffeuse-ornemaniste
 
 |
 
-8 : Métiers du plâtre, sculpture décorative
+8 : Métiers du plâtre Sculpture décorative
 
 |
 
-3 : stucateur
+3 : stucateur-stucateure
 
 |
 
-8 : Métiers du plâtre, sculpture décorative
+8 : Métiers du plâtre Sculpture décorative
 
 |
 
-4 : mouleur-statuaire
+4 : mouleur-statuaire, mouleuse-statuaire
 
 |
 
-8 : Métiers du plâtre, sculpture décorative
+8 : Métiers du plâtre Sculpture décorative
 
 |
 
-5 : sculpteur-praticien
+5 : sculpteur-praticien, sculptrice-praticienne
 
 |
 
-8 : Métiers du plâtre, sculpture décorative
+8 : Métiers du plâtre Sculpture décorative
 
 |
 
-6 : sculpteur réducteur agrandisseur
+6 : sculpteur réducteur agrandisseur-sculptrice réducteur agrandisseur
 
 |
 
-8 : Métiers du plâtre, sculpture décorative
+8 : Métiers du plâtre Sculpture décorative
 
 |
 
-7 : sculpteur restaurateur
+7 : sculpteur restaurateur-sculptrice restauratrice
 
 |
 
-8 : Métiers du plâtre, sculpture décorative
+8 : Métiers du plâtre Sculpture décorative
 
 |
 
@@ -156,7 +164,7 @@ OPTIONS
 
 |
 
-8 : Métiers du plâtre, sculpture décorative
+8 : Métiers du plâtre Sculpture décorative
 
 |
 
@@ -242,25 +250,19 @@ OPTIONS
 
 |
 
-17 : Graveur ornemaniste
+17 : Maquettes d'architecture
 
 |
 
 |
 
-18 : Maquettes d'architecture
+18 : Solier-solière
 
 |
 
 |
 
-19 : Solier
-
-|
-
-|
-
-20 : Métiers de la piscine
+19 : Métiers de la piscine
 
 |
 
@@ -268,10 +270,18 @@ OPTIONS
 
 |
 
-20 : Métiers de la piscine
+19 : Métiers de la piscine
 
 |
 
 2 : application de membrane armée
+
+|
+
+19 : Métiers de la piscine
+
+|
+
+3 : maintenance et service
 
 |

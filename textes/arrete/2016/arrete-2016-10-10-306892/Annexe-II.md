@@ -2,6 +2,8 @@
 
 GROUPE II : MÉTIERS DE L'ALIMENTATION
 
+|
+
 CLASSES
 
 |
@@ -22,7 +24,7 @@ OPTIONS
 
 |
 
-3 : Charcutier-traiteur, traiteur
+3 : Charcutier-traiteur, traiteur, charcutière-traiteure, traiteure
 
 |
 
@@ -40,25 +42,31 @@ OPTIONS
 
 |
 
-6 : Chocolaterie confiserie
+6 : Chocolaterie, confiserie
 
 |
 
 |
 
-7 : Fromager
+7 : Fromager-fromagère
 
 |
 
 |
 
-8 : Poissonnier, écailler
+8 : Poissonnier, écailler-poissonnière, écaillère
 
 |
 
 |
 
-9 : Primeur
+9 : Primeurs
+
+|
+
+|
+
+10 : Torréfacteur-torréfactrice
 
 |
 

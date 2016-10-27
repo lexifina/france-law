@@ -2,6 +2,8 @@
 
 GROUPE IX : MÉTIERS DU VÊTEMENT
 
+|
+
 CLASSES
 
 |
@@ -16,7 +18,7 @@ OPTIONS
 
 |
 
-2 : Tailleur homme
+2 : Tailleur homme- ailleuse homme
 
 |
 
@@ -28,7 +30,7 @@ OPTIONS
 
 |
 
-4 : Lingerie, corseterie, soutien-gorge
+4 : Lingerie, corsetterie, soutiens-gorge
 
 |
 
@@ -36,11 +38,11 @@ OPTIONS
 
 |
 
-4 : Lingerie, corseterie, soutien-gorge
+4 : Lingerie, corsetterie, soutiens-gorge
 
 |
 
-2 : corseterie, soutien-gorge
+2 : corsetterie, soutiens-gorge
 
 |
 
@@ -50,7 +52,13 @@ OPTIONS
 
 |
 
-6 : Prêt à porter flou robe du soir
+6 : Prêt -à-porter flou robe du soir
+
+|
+
+|
+
+7 : Teinturerie
 
 |
 

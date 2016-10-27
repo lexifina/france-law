@@ -1,8 +1,8 @@
 # Article Annexe XIV
 
-GROUPE XIV : MÉTIERS DE LA COMMUNICATION,
+GROUPE XIV : MÉTIERS DE LA COMMUNICATION, DU MULTIMÉDIA, DE L'AUDIOVISUEL
 
-DU MULTIMÉDIA, DE L'AUDIOVISUEL
+|
 
 CLASSES
 
@@ -16,7 +16,7 @@ OPTIONS
 
 |
 
-1 : technicien de plateforme prépresse
+1 : technicien-technicienne de plate-forme prépresse
 
 |
 
@@ -24,7 +24,7 @@ OPTIONS
 
 |
 
-2 : technicien en conduite de systèmes d'impression
+2 : technicien-technicienne en conduite de systèmes d'impression
 
 |
 
@@ -32,7 +32,7 @@ OPTIONS
 
 |
 
-3 : technicien en conduite de matériels complémentaires
+3 : technicien-technicienne en conduite de matériels complémentaires
 
 |
 
@@ -48,7 +48,7 @@ OPTIONS
 
 |
 
-5 : concepteur graphique de site internet développement
+5 : concepteur-conceptrice graphique de site internet développement
 
 |
 
@@ -58,19 +58,13 @@ OPTIONS
 
 |
 
-3 : Dorure sur tranche
+3 : Dorure
 
 |
 
 |
 
-4 : Dorure
-
-|
-
-|
-
-5 : Graphisme
+4 : Graphisme
 
 |
 
@@ -80,7 +74,7 @@ OPTIONS
 
 |
 
-1 : photo d'art : portrait/mariage/reportage/mode
+1 : photographie d'art
 
 |
 
@@ -88,7 +82,7 @@ OPTIONS
 
 |
 
-2 : photo industrielle : industrie/publicité/sport</architecture
+2 : photographie industrielle
 
 |
 
@@ -130,7 +124,7 @@ OPTIONS
 
 |
 
-3 : métiers du montage et de la post-production
+3 : métiers du montage et de la postproduction
 
 |
 
@@ -147,5 +141,11 @@ OPTIONS
 |
 
 5 : métiers de la gestion de production audiovisuelle
+
+|
+
+11 : Sérigraphie
+
+|
 
 |

@@ -2,6 +2,8 @@
 
 GROUPE VII : MÉTIERS DE L'INDUSTRIE
 
+|
+
 CLASSES
 
 |
@@ -22,7 +24,7 @@ OPTIONS
 
 |
 
-3 : Réparateur carrosserie auto
+3 Réparateur-réparatrice carrosserie auto
 
 |
 
@@ -93,6 +95,18 @@ OPTIONS
 |
 
 13 : Métiers du service à l'énergie
+
+|
+
+|
+
+14 : Peinture automobile
+
+|
+
+|
+
+15 : Frigoriste
 
 |
 

@@ -2,6 +2,8 @@
 
 GROUPE VIII : MÉTIERS DE LA TERRE ET DU VERRE
 
+|
+
 CLASSES
 
 |
@@ -10,7 +12,7 @@ OPTIONS
 
 |
 
-1 : Modeleur sur porcelaine
+1 : Modeleur-modeleuse sur porcelaine
 
 |
 
@@ -32,7 +34,7 @@ OPTIONS
 
 |
 
-1 : verre à chaud : gobeleterie, art de la table
+1 : verre à chaud, gobeleterie
 
 |
 
@@ -40,7 +42,7 @@ OPTIONS
 
 |
 
-2 : verre à chaud : assortiment
+2 : verre à chaud, assortiment
 
 |
 
@@ -48,7 +50,7 @@ OPTIONS
 
 |
 
-3 : verre à chaud : presse papier
+3 : verre à chaud, presse-papier
 
 |
 
@@ -56,7 +58,7 @@ OPTIONS
 
 |
 
-4 : verre à froid : gravure traditionnelle
+4 : verre à froid, gravure traditionnelle
 
 |
 
@@ -64,7 +66,7 @@ OPTIONS
 
 |
 
-5 : verre à froid : taille traditionnelle
+5 : verre à froid, taille traditionnelle
 
 |
 
@@ -72,7 +74,7 @@ OPTIONS
 
 |
 
-6 : verre à froid : gravure-sculpture
+6 : verre à froid, gravure-sculpture
 
 |
 
@@ -80,7 +82,7 @@ OPTIONS
 
 |
 
-1 : maquettiste, cartonnier
+1 : maquettiste, cartonnier-cartonnière
 
 |
 
@@ -88,7 +90,7 @@ OPTIONS
 
 |
 
-2 : peintre sur verre, restaurateur
+2 : peintre sur verre, restaurateur-restauratrice
 
 |
 
@@ -96,7 +98,7 @@ OPTIONS
 
 |
 
-3 : coupeur, sertisseur, traceur
+3 : coupeur, sertisseur, traceur, coupeuse sertisseuse traceuse
 
 |
 
@@ -164,6 +166,6 @@ OPTIONS
 
 |
 
-5 : perlerie d'art
+5 : perlerie
 
 |

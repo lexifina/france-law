@@ -2,6 +2,8 @@
 
 GROUPE XII : MÉTIERS DES TECHNIQUES DE PRÉCISION
 
+|
+
 CLASSES
 
 |
@@ -14,7 +16,7 @@ OPTIONS
 
 |
 
-1 : ciselier
+1 : ciselier-ciselière
 
 |
 
@@ -68,40 +70,40 @@ OPTIONS
 
 |
 
-5 : Horloger restaurateur
+5 : Horloger restaurateur-horlogère restauratrice
 
 |
 
 |
 
-6 : Armurier
+6 : Armurier-armurière
 
 |
 
-1 : armurier basculeur
+1 : armurier basculeur-armurière basculeur
 
 |
 
-6 : Armurier
+6 : Armurier-armurière
 
 |
 
-2 : armurier monteur à bois
+2 : armurier monteur à bois-armurière monteur à bois
 
 |
 
-6 : Armurier
+6 : Armurier-armurière
 
 |
 
-3 : armurier équipeur
+3 : armurier équipeur-armurière équipeur
 
 |
 
-6 : Armurier
+6 : Armurier-armurière
 
 |
 
-4 : armurier graveur décorateur
+4 : armurier graveur décorateur-armurière graveuse décoratrice
 
 |

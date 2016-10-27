@@ -1,8 +1,8 @@
 # Article Annexe X
 
-GROUPE X : MÉTIERS DES ACCESSOIRES DE LA MODE
+GROUPE X : MÉTIERS DES ACCESSOIRES DU VÊTEMENT ET DE LA BEAUTÉ
 
-ET DE LA BEAUTÉ
+|
 
 CLASSES
 
@@ -16,7 +16,7 @@ OPTIONS
 
 |
 
-1 : dentelles aux fuseaux (Cluny, craponne, Bayeux, duchesse, torchon)
+1 : dentelles aux fuseaux (Cluny, Craponne, Bayeux, duchesse, torchon)
 
 |
 

@@ -2,6 +2,8 @@
 
 GROUPE XIII : MÉTIERS DE LA GRAVURE
 
+|
+
 CLASSES
 
 |
@@ -16,7 +18,7 @@ OPTIONS
 
 |
 
-2 : Gravure ornementale taille douce
+2 : Gravure ornementale taille-douce
 
 |
 
@@ -39,6 +41,12 @@ OPTIONS
 |
 
 4 : Glyptique
+
+|
+
+|
+
+5 : Emaillage
 
 |
 

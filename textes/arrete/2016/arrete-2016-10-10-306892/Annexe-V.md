@@ -1,6 +1,8 @@
 # Article Annexe V
 
-GROUPE V : MÉTIERS DU BOIS ET DE L'AMEUBLEMENT
+GROUPE V : MÉTIERS DE L'HABITATION-BOIS, AMEUBLEMENT
+
+|
 
 CLASSES
 
@@ -22,7 +24,7 @@ OPTIONS
 
 |
 
-3 : Tourneur et torseur sur bois
+3 : Tourneur-tourneuse et torseur-torseuse sur bois
 
 |
 
@@ -52,35 +54,27 @@ OPTIONS
 
 |
 
-8 : Encadreur, doreur sur bois, restaurateur de tableaux, rentoileur
+8 : Encadreur-encadreuse, doreur-doreuse sur bois, restaurateur-restauratrice de tableaux, rentoileur-rentoileuse
 
 |
 
-1 : encadreur
+1 : encadreur-encadreuse
 
 |
 
-8 : Encadreur, doreur sur bois, restaurateur de tableaux, rentoileur
+8 : Encadreur-encadreuse, doreur-doreuse sur bois, restaurateur-restauratrice de tableaux, rentoileur-rentoileuse
 
 |
 
-2 : doreur sur bois
+2 : doreur-doreuse sur bois
 
 |
 
-8 : Encadreur, doreur sur bois, restaurateur de tableaux, rentoileur
+8 : Encadreur-encadreuse, doreur-doreuse sur bois, restaurateur-restauratrice de tableaux, rentoileur-rentoileuse
 
 |
 
-3 : restaurateur de tableaux
-
-|
-
-8 : Encadreur, doreur sur bois, restaurateur de tableaux, rentoileur
-
-|
-
-4 : rentoileur
+3 : rentoileur-rentoileuse, restaurateur-restauratrice de tableaux
 
 |
 
@@ -132,7 +126,7 @@ OPTIONS
 
 |
 
-12 : Pipier
+12 : Pipier-pipière
 
 |
 
@@ -140,7 +134,7 @@ OPTIONS
 
 |
 
-12 : Pipier
+12 : Pipier-pipière
 
 |
 
