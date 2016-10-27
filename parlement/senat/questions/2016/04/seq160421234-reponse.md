@@ -1,0 +1,9 @@
+# Réponse à la question SEQ160421234
+
+- Question : [SEQ160421234](seq160421234.md) — Disparition de la mission foncière de Saint-Laurent-du-Maroni
+
+## Réponse
+
+*Économie et finances, JO du 2016-10-27, page 4738*
+
+La création de la cellule foncière départementale rattachée au service des impôts des particuliers (SIP) de Cayenne est rendue nécessaire par la situation déficitaire des effectifs en raison des mouvements de départ importants d'agents du SIP de Saint-Laurent-du-Maroni qui ne trouvent pas de successeurs faute de candidats. La création d'une cellule foncière sur le site de Saint-Laurent-du-Maroni dans ces conditions comporterait donc un risque avéré pour la mission foncière de ne pas disposer des effectifs spécialisés nécessaires à son bon fonctionnement. Au demeurant, l'auteur de la question est informé que le SIP de Saint-Laurent-du-Maroni continuera d'exercer sa mission d'accueil de premier niveau, c'est-à-dire qu'il traitera les demandes les plus simples et prendra en charge les autres demandes qu'il transmettra à la cellule foncière départementale. Les usagers du SIP de Saint-Laurent-du-Maroni disposeront donc toujours d'un véritable service de proximité en matière de foncier. Par ailleurs, la prise en charge des demandes complexes par les agents spécialisés de la cellule foncière départementale garantira un traitement efficace et homogène des dossiers fonciers sur l'ensemble du territoire guyanais. Enfin, afin d'accompagner la croissance démographique de l'ouest guyanais, l'administration a augmenté les effectifs du SIP de Saint-Laurent-du-Maroni de près de 20 % en 2015. En 2016, aucune suppression d'emploi n'est envisagée dans ce service. Ainsi cette restructuration ne pénalise aucunement les usagers du SIP de Saint-Laurent-du-Maroni, tout en assurant une homogénéité de traitement de la mission foncière par des agents spécialisés sur l'ensemble du territoire départemental.
