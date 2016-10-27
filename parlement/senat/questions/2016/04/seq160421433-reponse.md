@@ -1,0 +1,9 @@
+# Réponse à la question SEQ160421433
+
+- Question : [SEQ160421433](seq160421433.md) — Risque de fermeture de trésoreries dans le Calvados
+
+## Réponse
+
+*Économie et finances, JO du 2016-10-27, page 4739*
+
+L'amélioration du service à l'usager et l'efficacité de l'action publique constituent des priorités pour la direction générale des finances publiques (DGFiP). Cette administration régalienne se doit à la fois d'être présente localement et d'assurer des prestations de qualité à chacun de ses publics. Par ailleurs, la situation budgétaire et la contribution de l'administration fiscale au rétablissement de nos comptes amènent la DGFiP à réfléchir à la meilleure organisation possible de chacune de ses missions. Elle s'emploie pour cela à s'adapter au mieux aux évolutions démographiques, aux attentes des usagers, au paysage institutionnel local et aux changements d'usage des services publics induits par les nouvelles technologies. S'il apparaît que l'implantation d'un service ne répond plus aux attentes des différents publics, que sa taille ne lui permet pas d'offrir une qualité de service suffisante, son regroupement avec une unité voisine peut être mis à l'étude. Dans cette démarche, la DGFiP s'attache à maintenir l'accessibilité du service public autant que sa qualité, au bénéfice des élus, des contribuables et de ses partenaires du secteur local. Pour apprécier l'opportunité de chaque projet, la méthode appliquée est fondée sur le dialogue et sur l'appréciation des besoins au plus proche du terrain. Il est demandé aux responsables territoriaux concernés, en accord avec le préfet, de se rapprocher des élus, des personnels et des organisations syndicales afin de discuter des propositions de réorganisation. S'agissant plus précisément du département du Calvados, les arbitrages ont été rendus et seules deux trésoreries feront l'objet d'un regroupement avec un ou plusieurs services de proximité.
