@@ -1,0 +1,9 @@
+# Réponse à la question SEQ160421464
+
+- Question : [SEQ160421464](seq160421464.md) — Absence de représentant de l'administration fiscale aux réunions des commissions communales des impôts directs
+
+## Réponse
+
+*Économie et finances, JO du 2016-10-27, page 4739*
+
+Dans le cadre de l'offre de services proposés aux collectivités locales par la direction générale des finances publiques (DGFiP), un renforcement et une plus large participation de l'administration aux commissions communales des impôts directs (CCID) sont systématiquement recherchés. Cet engagement se traduit par une participation systématique de l'administration aux commissions des communes de plus de 10 000 habitants, et une participation en fonction des enjeux pour les communes de moins de 10 000 habitants. Pour les plus petites communes, une participation par mandature est assurée. Lorsqu'elle n'est pas présente, les services locaux de la DGFiP s'efforcent d'apporter un maximum d'informations et de soutien aux collectivités avant la tenue de la commission. Une documentation, incluant notamment la liste des évaluations à examiner dénommée « liste 41 », est transmise aux présidents des commissions afin de porter à la connaissance des commissaires toutes les informations nécessaires au bon déroulement des réunions qui se tiennent sans la présence de l'administration. Les services locaux de la DGFiP se tiennent également à la disposition des communes pour fournir tout complément d'information qui semblerait nécessaire à une meilleure appropriation du rôle des commissions et des missions qui leur incombent. Le renouvellement général des conseils municipaux en 2014, qui a entraîné une nouvelle désignation des commissaires des CCID, a ainsi donné lieu à des actions d'information visant à aider les commissaires à remplir leur fonction.
