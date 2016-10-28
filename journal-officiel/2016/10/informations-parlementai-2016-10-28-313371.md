@@ -1,0 +1,22 @@
+# Informations diverses
+
+- Nature : Informations Parlementaires
+- Publication : 2016-10-28
+- JO n° : 0252
+- NOR : INPX1602732X
+- Origine : JORF n°0252 du 28 octobre 2016
+- Légifrance : https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000033313371
+
+## Article
+
+Sénat
+
+Session ordinaire de 2016-2017
+
+Décision de renvoi au conseil constitutionnel d'une question prioritaire de constitutionnalité
+
+M. le président du Sénat a été informé par le Conseil constitutionnel, le 27 octobre 2016, que le Conseil d'Etat a adressé au Conseil constitutionnel une décision de renvoi d'une question prioritaire de constitutionnalité (2016-609 QPC) (), en application de l'article 61-1 de la Constitution.
+
+Engagement de la procédure accélérée
+
+Par courriers en date du 27 octobre 2016, M. le Premier ministre a informé M. le Président du Sénat de la décision du Gouvernement d'engager, en application de l'article 45, alinéa 2, de la Constitution, la procédure accélérée pour l'examen du projet de loi autorisant l'approbation de l'accord entre le Gouvernement de la République française et le Gouvernement de la République du Tadjikistan relatif à la construction d'une tour de contrôle sur l'aéroport de Douchanbé, déposé sur le Bureau de l'Assemblée nationale le 13 juillet 2016 et du projet de loi autorisant l'approbation de l'avenant portant première modification à l'entente en matière de sécurité sociale du 17 décembre 2003 entre le Gouvernement de la République française et le Gouvernement du Québec et de l'avenant portant seconde modification au protocole d'entente du 19 décembre 1998 entre le Gouvernement de la République française et le Gouvernement du Québec relatif à la protection sociale des élèves et étudiants et des participants à la coopération, déposé sur le Bureau de l'Assemblée nationale le 12 octobre 2016.
