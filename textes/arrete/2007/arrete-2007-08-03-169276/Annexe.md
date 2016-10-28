@@ -2,10 +2,6 @@
 
 LIAISONS RÉGULIÈRES DE PASSAGERS, DE COURRIER ET DE FRET
 
-Jusqu'au 15 octobre 2016 :
-
-Paris-Salvador de Bahia (Brésil).
-
 Jusqu'au 27 avril 2017 :
 
 Paris-Cancun (Mexique).
@@ -99,3 +95,7 @@ Jusqu'au 31 octobre 2021 :
 Dans la limite de deux fréquences hebdomadaires au total, puis sans limitation de fréquences à compter du 25 mars 2018 sur la liaison suivante :
 
 Paris-Tel-Aviv (Israël).
+
+Jusqu'au 31 octobre 2021 :
+
+Paris-Philipsburg (Etat de Saint-Martin).
