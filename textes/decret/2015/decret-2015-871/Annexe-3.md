@@ -794,7 +794,7 @@ Terres arables/ Prairies et pâturages permanents hors jachère
 
 |
 
-Autres mesures agri-environnementales et climatiques mentionnes au e
+Autres mesures agri-environnementales et climatiques mentionnées au e
 
 Type de surface éligible
 
@@ -836,7 +836,7 @@ Surfaces pastorales
 
 |
 
-300 €/ ha
+750 €/ ha
 
 |
 
@@ -856,11 +856,11 @@ Autres surfaces éligibles
 
 |
 
-300 €/ ha
+750 €/ ha
 
 |
 
-Plafonnement des montants correspondant aux d) et e)
+Plafonnement des montants correspondant aux d et e
 
 |
 
@@ -902,4 +902,4 @@ Plafond
 
 |
 
-9 500 € |
+30 000 € |
