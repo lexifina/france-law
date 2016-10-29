@@ -20,12 +20,6 @@ Cas particulier
 
 Lorsque le numéro d'immatriculation CMD, CD, C ou K sera complété par l'apposition à droite du dernier groupe de chiffres de la lettre Z ou de la lettre X, le numéro d'immatriculation est reproduit sur chaque plaque d'immatriculation en caractères blancs sur fond vert jaspe.
 
-3. Immatriculation des véhicules des forces françaises
-
-et de l'élément civil stationnés en Allemagne (FFECSA)
-
-Le numéro d'immatriculation est reproduit sur chaque plaque d'immatriculation en caractères blancs en relief sur fond bleu clair.
-
-4. Véhicules de collection
+3. Véhicules de collection
 
 Le numéro d'immatriculation peut être reproduit sur chaque plaque d'immatriculation en caractères blancs sur fond noir.
