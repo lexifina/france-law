@@ -106,6 +106,14 @@ Directeur d'administration centrale du ministère de l'intérieur
 
 |
 
+Directeur, adjoint au directeur général des collectivités locales
+
+|
+
+1 |
+
+140 |
+
 Délégué à la sécurité et à la circulation routières (à compter du 2 octobre 2013)
 
 |
@@ -204,18 +212,6 @@ Haut fonctionnaire de défense adjoint
 
 |
 
-Chef de service, adjoint au directeur général des collectivités locales
-
-|
-
-1
-
-|
-
-120
-
-|
-
 Chef de service, adjoint au directeur de la modernisation et de l'action territoriale, chef du service de la modernisation de l'action publique
 
 |
@@ -227,6 +223,30 @@ Chef de service, adjoint au directeur de la modernisation et de l'action territo
 120
 
 |
+
+Chef de service, adjoint au directeur des ressources humaines, chargé de la mission de la gouvernance ministérielle des ressources humaines
+
+|
+
+1 |
+
+120 |
+
+Chef de service, adjoint au directeur des systèmes d'information et de communication, chef de la mission ministérielle de gouvernance des systèmes d'information et de communication
+
+|
+
+1 |
+
+120 |
+
+Chef de service, adjoint au directeur des libertés publiques et des affaires juridiques
+
+|
+
+1 |
+
+120 |
 
 Chef du service de l'achat, de l'équipement et de la logistique de la sécurité intérieure
 
@@ -240,7 +260,7 @@ Chef du service de l'achat, de l'équipement et de la logistique de la sécurit�
 
 |
 
-Chef du service des affaires financières ministériel
+Chef de service, adjoint au directeur et chef du service des affaires financières ministériel
 
 |
 
@@ -320,7 +340,7 @@ Directeur d'administration centrale à la direction générale des étrangers en
 
 |
 
-2
+3
 
 |
 
@@ -352,19 +372,7 @@ Chef de service, adjoint au directeur de l'accueil de l'accompagnement et de la 
 
 |
 
-directeur de l'asile
-
-|
-
-1
-
-|
-
-120
-
-|
-
-Chef du service de la stratégie et des affaires internationales
+Chef du service des affaires internationales et européennes
 
 |
 
@@ -584,7 +592,7 @@ Sous-directeur de la synthèse et du pilotage budgétaires
 
 |
 
-Sous-directeur de la qualité et de l'information financières et comptables
+Sous-directeur de la performance financière
 
 |
 
@@ -809,18 +817,6 @@ Sous-directeur de l'action sociale et de l'accompagnement du personnel
 |
 
 En charge d'une sous-direction relevant de la direction des libertés publiques et des affaires juridiques
-
-|
-
-Sous-directeur du conseil juridique et du contentieux
-
-|
-
-1
-
-|
-
-100
 
 |
 
@@ -1154,7 +1150,7 @@ Préfet de région
 
 |
 
-22
+13
 
 |
 
@@ -1222,6 +1218,14 @@ Préfet du Finistère
 
 |
 
+Préfet de l'Hérault
+
+|
+
+1 |
+
+180 |
+
 Préfet de l'Isère
 
 |
@@ -1233,6 +1237,14 @@ Préfet de l'Isère
 180
 
 |
+
+Préfet de la Moselle
+
+|
+
+1 |
+
+180 |
 
 Préfet de l'Oise
 
@@ -1366,11 +1378,19 @@ Préfet du Val-d'Oise
 
 |
 
+Préfet de la Réunion
+
+|
+
+1 |
+
+180 |
+
 Préfet d'un département de métropole ou d'outre-mer autre que ceux précités
 
 |
 
-63
+69
 
 |
 
@@ -1610,7 +1630,7 @@ Poste de la classe fonctionnelle I
 
 |
 
-5
+13
 
 |
 
@@ -1622,7 +1642,7 @@ Poste de la classe fonctionnelle II
 
 |
 
-56
+57
 
 |
 
@@ -1634,7 +1654,7 @@ Poste de la classe fonctionnelle III
 
 |
 
-85
+76
 
 |
 
