@@ -1,10 +1,14 @@
 # Article Annexe IId
 
-TABLEAU DE CORRESPONDANCE
+Tableau de correspondance
+
+Brevet d'Études professionnelles Métiers du cuir
+
+Options : maroquinerie - chaussures - sellerie garnissage
 
 Brevet d’Études Professionnelles
 
-Métiers de la mode et industrie connexe
+Métiers de la mode et des industries connexes
 
 |
 
@@ -12,9 +16,7 @@ Brevet d’Études Professionnelles
 
 Métiers du cuir, option chaussure, option
 
-maroquinerie
-
-(présent arrêté)
+maroquinerie, option sellerie garnissage
 
 |
 

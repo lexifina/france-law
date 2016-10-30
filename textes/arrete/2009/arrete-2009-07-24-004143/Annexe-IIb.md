@@ -1,8 +1,10 @@
 # Article Annexe IIb
 
-LES MODALITÉS DE CERTIFICATION
+Règlement d'examen
 
-1. RÉGLEMENT D’EXAMEN
+Brevet d'Études professionnelles Métiers du cuir
+
+Options : maroquinerie - chaussures - sellerie garnissage
 
 BREVET D’ÉTUDES PROFESSIONNELLES MÉTIERS DU CUIR
 
@@ -16,7 +18,7 @@ Unité
 
 |
 
-Coef
+Coefficient
 
 |
 
@@ -36,7 +38,7 @@ CFA ou sections
 
 d’apprentissage
 
-habilités
+habilitées
 
 |
 
@@ -96,7 +98,7 @@ ponctuelle
 
 |
 
-EP1 : Développement de produit : esthétique, fonctionnel et technique.
+EP1 - Développement esthétique, fonctionnel et technique d'un produit de maroquinerie, de sellerie ou de chaussure.
 
 |
 
@@ -116,7 +118,7 @@ C.C.F
 
 |
 
-Ponctuel écrit
+Ponctuelle écrite
 
 |
 
@@ -124,7 +126,7 @@ Ponctuel écrit
 
 |
 
-EP2 : préparation et réalisation du produit.
+EP2 - Préparation et réalisation d'un produit de maroquinerie, de sellerie ou de chaussure.
 
 |
 
@@ -146,7 +148,7 @@ C.C.F
 
 |
 
-Ponctuel pratique
+Ponctuelle pratique
 
 |
 
@@ -156,7 +158,7 @@ Ponctuel pratique
 
 |
 
-EG1 - Français - Histoire - Géographie - éducation civique
+EG1 - Français - Histoire - Géographie - Enseignement moral et civique
 
 |
 
@@ -178,9 +180,9 @@ C.C.F
 
 |
 
-Ponctuel
+Ponctuelle
 
-écrit
+écrite
 
 |
 
@@ -188,7 +190,7 @@ Ponctuel
 
 |
 
-EG2 - Mathématiques - Sciences
+EG2 - Mathématiques - Sciences physiques et chimiques
 
 |
 
@@ -208,9 +210,9 @@ C.C.F
 
 |
 
-Ponctuel
+Ponctuelle
 
-écrit
+écrite
 
 |
 
@@ -238,7 +240,7 @@ C.C.F
 
 |
 
-Ponctuel
+Ponctuelle
 
 |
 

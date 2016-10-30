@@ -1,6 +1,24 @@
 # Article Annexe IIe
 
-TABLEAU DE DISPENSE DES ENSEIGNEMENTS GÉNÉRAUX
+Tableau de dispense des enseignements généraux
+
+Brevet d'Études professionnelles Métiers du cuir
+
+Options : maroquinerie - chaussures - sellerie garnissage
+
+Brevet d’études professionnelles
+
+préparé antérieurement
+
+|
+
+Brevet d’Études Professionnelles
+
+Métiers du cuir, option chaussure, option
+
+maroquinerie, option sellerie garnissage
+
+|
 
 EG1 : Français
 
@@ -10,7 +28,7 @@ U3
 
 |
 
-EG1 : Français - Histoire - Géographie - Education civique
+EG1 : Français - Histoire - Géographie – Enseignement moral et civique
 
 |
 
@@ -34,7 +52,7 @@ U4
 
 |
 
-EG2 : Mathématiques - sciences
+EG2 : Mathématiques – Sciences Physiques et Chimiques
 
 |
 

@@ -2,6 +2,10 @@
 
 Référentiel de certification
 
+Brevet d'Études professionnelles Métiers du cuir
+
+Options : maroquinerie - chaussures - sellerie garnissage
+
 Activités et tâches principales
 
 |
@@ -26,11 +30,11 @@ Capacités
 
 |
 
-A1
+A3
 
-Exploiter les
+Réaliser la fabrication
 
-données de la conception
+du produit.
 
 |
 
@@ -44,19 +48,29 @@ Réaliser et/ou exploiter des gabarits.
 
 C1
 
-Exploiter les données de la conception
-
 |
 
 C1.1
 
-Rechercher,
+|
 
-s'informer
+Rechercher, s'informer
 
 |
 
-1.11
+|
+
+T1.2
+
+|
+
+Participer à la réalisation d'un prototype.
+
+|
+
+|
+
+11
 
 |
 
@@ -68,15 +82,17 @@ S'informer
 
 |
 
-T1.2
+T1.3
 
 |
 
-Participer à la réalisation d’un prototype.
+Vérifier la conformité esthétique, fonctionnelle et technique du prototype.
 
 |
 
-1.12
+|
+
+12
 
 |
 
@@ -88,27 +104,47 @@ Traiter
 
 |
 
-T1.3
+T1.4
 
 |
 
-Vérifier la conformité esthétique, fonctionnelle et technique d'un prototype réalisé.
+Contribuer à la recherche de solutions techniques d'amélioration.
 
 |
 
 C1.2
 
-Réaliser et/ou
+|
 
-exploiter des gabarits
+Réaliser et/ou exploiter des gabarits
 
 |
 
-1.21
+|
+
+A2
+
+Industrialisation,
+
+coupe et préparation
 
 |
 
-Réaliser l’ensemble des gabarits utiles à la réalisation du produit, manuellement ou en CAO
+T2.1
+
+|
+
+S'assurer de la conformité des matériaux.
+
+|
+
+|
+
+21
+
+|
+
+Réaliser l'ensemble des gabarits utiles à la réalisation du produit, manuellement ou en CAO
 
 |
 
@@ -116,21 +152,35 @@ Réaliser
 
 |
 
-T1.4
+T2.2
 
 |
 
-Contribuer à la recherche de solutions techniques d’amélioration.
+Réaliser le placement optimal des éléments.
 
 |
 
 C1.3
 
+|
+
 Réaliser un produit
 
 |
 
-1.31
+|
+
+T2.3
+
+|
+
+Mettre en œuvre le processus de coupe.
+
+|
+
+|
+
+31
 
 |
 
@@ -142,27 +192,19 @@ Réaliser
 
 |
 
-A2
-
-Participer à l'industrialisation,
-
-à la coupe et à la préparation du produit
+T2.4
 
 |
 
-T2.1
+Préparer les éléments du produit.
 
 |
 
-S’assurer de la qualité des matériaux.
+32
 
 |
 
-1.32
-
-|
-
-Préparer l’ensemble des éléments du produit
+Préparer l'ensemble des éléments du produit
 
 |
 
@@ -170,15 +212,9 @@ Traiter
 
 |
 
-T2.2
-
 |
 
-Réaliser le placement optimal des éléments suivant la T2.2 définition du cahier des charges à l’aide d’un système conventionnel (ou informatisé).
-
-|
-
-1.33
+33
 
 |
 
@@ -190,33 +226,27 @@ Réaliser
 
 |
 
-T2.3
-
-|
-
-Mettre en œuvre le processus de coupe et de préparation du produit.
-
-|
-
 C2
-
-Industrialisation, préparer
-
-et couper
 
 |
 
 C2.1
 
+|
+
 S'assurer de la qualité des matériaux
 
 |
 
-2.11
+|
 
 |
 
-Vérifier la conformité des matériaux par rapport au cahier des charges
+11
+
+|
+
+Vérifier la conformité des matériaux par rapport au dossier d'industrialisation
 
 |
 
@@ -224,11 +254,11 @@ Traiter
 
 |
 
-A3
+A1
 
-Participer à la réalisation et au contrôle qualité
+Exploiter les
 
-du produit.
+données de la conception
 
 |
 
@@ -242,11 +272,25 @@ Réaliser les opérations de préparation, de piquage, de montage et de finition
 
 C2.2
 
-Concevoir et valider le placement optimal des éléments
+|
+
+Concevoir et valider le placement optimal des éléments suivant la définition du cahier des charges, à l'aide d'un système informatisé
 
 |
 
-2.21
+|
+
+T3.2
+
+|
+
+Contrôler la qualité des produits e cours et en fin de réalisation.
+
+|
+
+|
+
+21
 
 |
 
@@ -260,73 +304,77 @@ Décider
 
 |
 
-T3.2
+T3.3
 
 |
 
-Contrôler la qualité des produits finis au regard du cahier des charges.
+Participer à l'élaboration du dossier d'industrialisation.
 
 |
 
-2.22
+|
+
+22
 
 |
 
-Réaliser le placement et la coupe du modèle
+Réaliser le placement et la coupe des éléments du produit
 
 |
 
 Réaliser
 
 |
-
-T3.3
-
-|
-
-Participer à l’élaboration du dossier d’industrialisation en collaboration avec le technicien méthode.
 
 |
 
 C2.3
 
+|
+
 Participer à l'élaboration du dossier d'industrialisation du produit
 
 |
 
-2.31
+|
 
 |
 
-Réaliser des documents numériques du dossier technique
+|
+
+31
+
+|
+
+Participer à l'élaboration des documents du dossier d'industrialisation du produit
 
 |
 
 Réaliser
-
-|
 
 |
 
 C3
 
-Réaliser tout
-
-ou partie du processus de fabrication
-
 |
 
 C3.1
 
-Réaliser la fabrication en petite série d'un produit
+|
+
+Procéder à la fabrication en série
 
 |
 
-3.11
+|
 
 |
 
-Exécuter toutes les opérations du processus industriel de la chaîne de fabrication de produits
+11
+
+|
+
+Exécuter toutes les opérations du processus industriel préparation, montage, finition, en appliquant le mode opératoire défini
 
 |
 
@@ -334,19 +382,9 @@ Réaliser
 
 |
 
-3.12
-
 |
 
-Contrôler la qualité en production
-
-|
-
-Traiter
-
-|
-
-3.13
+12
 
 |
 
@@ -358,7 +396,9 @@ Réaliser
 
 |
 
-3.14
+|
+
+13
 
 |
 
@@ -372,15 +412,35 @@ Réaliser
 
 C3.2
 
-Contrôler la qualité des produits finis
+|
+
+Contrôler la qualité du produit au regard du dossier d'industrialisation
 
 |
 
-3.21
+|
 
 |
 
-Participer au contrôle final du produit
+21
+
+|
+
+Contrôler la qualité en cours de production
+
+|
+
+Traiter
+
+|
+
+|
+
+22
+
+|
+
+Contrôler la qualité en fin de production
 
 |
 
@@ -390,19 +450,21 @@ Traiter
 
 C4
 
-Communiquer
-
-pour saisir à restituer l'information
-
 |
 
 C4.1
 
-Communiquer techniquement
+|
+
+Communiquer en situation professionnelle
 
 |
 
-4.11
+|
+
+|
+
+11
 
 |
 
@@ -414,7 +476,7 @@ Communiquer
 
 |
 
-4.12
+12
 
 |
 
@@ -426,11 +488,11 @@ Communiquer
 
 |
 
-C1 EXPLOITER LES DONNÉES DE LA CONCEPTION
+C1 EXPLOITER LES DONNEES DE LA CONCEPTION
 
-COMPÉTENCE TERMINALE : C1.1 Rechercher, s’informer
+COMPÉTENCE TERMINALE : C1.1 Rechercher, s'informer
 
-RÉP
+Repère
 
 |
 
@@ -442,7 +504,7 @@ Ressources
 
 |
 
-Critères d’évaluation
+Critères d'évaluation
 
 |
 
@@ -450,11 +512,15 @@ Savoirs associés
 
 |
 
+Champ
+
+|
+
 C1.11
 
 |
 
-Situer l’objet d’étude
+Situer l'objet d'étude
 
 |
 
@@ -466,7 +532,9 @@ Situer l’objet d’étude
 
 |
 
-- Collecter, trier, hiérarchiser et organiser, pour créer une banque de données relative à la thématique, au produit ou à l’objet d’étude proposé.
+|
+
+- Collecter, trier, hiérarchiser et organiser, pour créer une banque de données relative à la thématique, au produit ou à l'objet d'étude proposé.
 
 - Délimiter les recherches conférences, menées.
 
@@ -474,19 +542,15 @@ Situer l’objet d’étude
 
 - Documentation visuelle, écrite, graphique, sensorielle.
 
-- Émissions TV, émissions radio, cinéma, presse, expositions, manifestations culturelles, visites d'entreprises.
+- Expositions, conférences, manifestations culturelles, visites d'entreprises.
 
-- Supports : DVD, CD-ROM, Internet.
+- Supports multimédia.
 
 - Catalogues, revues, encyclopédies, livres, journaux, documents iconographiques, textes.
 
-- CDI, médiathèque, ressources culturelles, matériauthèque.
-
-- TICE (technique d’information et de communication).
-
 |
 
-Pertinence de la documentation choisie au regard de la thématique ou de l’objet d’étude.
+Pertinence de la documentation choisie au regard de la thématique ou de l'objet d'étude.
 
 Justesse de la mise en relation des différentes informations.
 
@@ -496,13 +560,19 @@ Utilisation des moyens TICE dans le respect des règles déontologiques.
 
 |
 
-S1.1
+S1
 
 S2.1
 
+S2.2
+
 S9
 
-S10
+|
+
+C, M
+
+et SG
 
 |
 
@@ -522,17 +592,19 @@ Contextualiser
 
 |
 
-- Identifier les caractéristiques stylistiques d’une époque, d’une tendance de mode.
+|
 
-- Situer historiquement, sociologiquement, économiquement, esthétiquement, l’objet d’étude.
+- Identifier les caractéristiques stylistiques d'une époque, d'une tendance.
 
-- Observer, analyser les qualités esthétiques et fonctionnelles d’un produit pour en comprendre le sens et les signes dans le contexte esthétique d’une époque.
+- Situer historiquement, sociologiquement, économiquement, esthétiquement, l'objet d'étude.
+
+- Observer, analyser les qualités esthétiques et fonctionnelles d'un produit pour en comprendre le sens et les signes dans le contexte esthétique d'une époque.
 
 |
 
 - Cahier des charges esthétique et fonctionnel.
 
-- Iconographie et iconologie artistique des domaines des beaux arts, du design et des arts appliqués et métiers d’art.
+- Iconographie et iconologie artistique des domaines des beaux-arts, du design et des arts appliqués et métiers d'art.
 
 - Visite de collections de musées.
 
@@ -540,15 +612,13 @@ Contextualiser
 
 |
 
-- Justesse de l’identification des styles, des tendances, socio-style.
+- Justesse de l'identification des styles, des tendances, socio-style.
 
 - Exactitude du classement historique.
 
-- Justification des comparaisons effectuées entre différents objets d’étude et leurs contextes repérés.
+- Justification des comparaisons effectuées entre différents objets d'étude et leurs contextes repérés.
 
 |
-
-S1
 
 S2.1
 
@@ -560,9 +630,15 @@ S9
 
 |
 
+C, M
+
+et SG
+
+|
+
 COMPÉTENCE TERMINALE 1.2 : Réaliser et/ou exploiter des gabarits
 
-1.2.1 Réaliser l’ensemble des gabarits utiles à la réalisation du produit, manuellement ou en CAO
+1.2.1 Réaliser l'ensemble des gabarits utiles à la réalisation du produit, manuellement ou en CAO
 
 Repère
 
@@ -576,7 +652,7 @@ Ressources
 
 |
 
-Critères d’évaluation
+Critères d'évaluation
 
 |
 
@@ -592,19 +668,17 @@ Champ
 
 |
 
-Réaliser le patron plan ou base (manuellement ou en CAO).
+Réaliser le patron plan (manuellement ou en CAO).
 
 |
-
-Schéma ; dessins.
 
 Relevé de forme.
 
 Copie de forme.
 
-Fournitures.
+Dossier d'industrialisation.
 
-Logiciel de CAO.
+Ressources numériques.
 
 |
 
@@ -622,7 +696,7 @@ S2.4
 
 S2.5
 
-S3
+S 3
 
 S4.2
 
@@ -630,7 +704,9 @@ S.7
 
 |
 
-C&M
+C, M
+
+et SG
 
 |
 
@@ -644,9 +720,9 @@ Extraire les gabarits (manuellement ou en CAO).
 
 Patron plan.
 
-Logiciel de CAO.
+Dossier d'industrialisation.
 
-Imprimante adaptée.
+Ressources numériques.
 
 |
 
@@ -664,7 +740,7 @@ S7
 
 |
 
-C
+C et M
 
 |
 
@@ -676,17 +752,17 @@ Réaliser les gabarits (manuellement ou en CAO).
 
 |
 
-Cahier des charges,
+Dossier d'industrialisation.
 
-schéma ou croquis
+Produit.
 
-coté ou non, photo.
+Patron plan.
 
-Logiciel de CAO.
+Ressources numériques.
 
 |
 
-Fournitures du produit.S7 Gabarits utilisables comportant toutes les indications d’usage (pointages, tracés, inscriptions).
+Gabarits utilisables comportant toutes les indications d'usage (pointages, tracés, inscriptions).
 
 |
 
@@ -698,9 +774,11 @@ S3
 
 S4.2
 
+S7
+
 |
 
-M
+M et SG
 
 |
 
@@ -708,21 +786,19 @@ M
 
 |
 
-Vérifier et adapter les gabarits.
+Vérifier les gabarits.
 
 |
 
-A partir de gabarits fournis et du cahier des charges.
+A partir de gabarits fournis.
 
-Matières d’usage.
+Matières d'usage.
 
 |
 
-Validation ou
+Validation ou correction/adaptation des gabarits conformes à la bonne exécution du produit.
 
-correction/adaptation des gabarits conformes à la bonne exécution du produit.
-
-Les gabarits sont conformes aux critères d’usages (précision ; indications ; pointages ; tracés..) et à la norme en vigueur.
+Les gabarits sont conformes aux critères d'usages (précision, indications, pointages, tracés, repérages...) et sont conformes à la norme.
 
 |
 
@@ -734,13 +810,15 @@ S5.1
 
 |
 
-C&M
+C, M
+
+et SG
 
 |
 
 COMPÉTENCE TERMINALE 1.3 : Réaliser le produit
 
-1.3.1 Réaliser les essais techniques utiles à la préparation du Produit
+1.3.1 Réaliser les essais techniques utiles à la préparation du produit
 
 Repère
 
@@ -754,7 +832,7 @@ Ressources
 
 |
 
-Critères d’évaluation
+Critères d'évaluation
 
 |
 
@@ -790,11 +868,13 @@ S3.2
 
 |
 
-C&M
+C, M
+
+et SG
 
 |
 
-1.3.2 Préparer l’ensemble des éléments du produit
+1.3.2 Préparer l'ensemble des éléments du produit
 
 Repère
 
@@ -808,7 +888,7 @@ Ressources
 
 |
 
-Critères d’évaluation
+Critères d'évaluation
 
 |
 
@@ -828,9 +908,9 @@ Couper les éléments du produit (manuellement ou en CFAO).
 
 |
 
-A partir des matières de tous types ; des gabarits ; de la maquette ; de la fiche de préparation.
+A partir des matières de tous types, des gabarits, de la maquette, de la fiche de préparation.
 
-Découpeur numérique.
+Fichier numérique.
 
 |
 
@@ -844,7 +924,9 @@ S8
 
 |
 
-C&M
+C, M
+
+et SG
 
 |
 
@@ -852,19 +934,17 @@ C&M
 
 |
 
-Calculer la surface de matière nécessaire pour la découpe du produit.
+Déterminer la quantité de matière nécessaire pour la coupe des éléments du produit.
 
 |
-
-Matière.
 
 Gabarits.
 
-Logiciel spécifique.
+Fichier numérique.
 
 |
 
-Le métrage (surface) calculé est juste et respecte les règles de placement.
+Les valeurs de surface ou de volume correspondent aux prévisions du dossier d'industrialisation.
 
 |
 
@@ -874,7 +954,9 @@ S4.4
 
 |
 
-C&M
+C, M
+
+et SG
 
 |
 
@@ -882,13 +964,15 @@ C&M
 
 |
 
-Exécuter la préparation des éléments du produit.
+Préparer les éléments et sous éléments du produit.
 
 |
 
-Machine à refendre, machine à parer et autres machines conventionnelles.
+Parc machine.
 
 Fiche de préparation.
+
+Gamme opératoire.
 
 |
 
@@ -902,7 +986,9 @@ S4.3
 
 |
 
-C&M
+C, M
+
+et SG
 
 |
 
@@ -914,9 +1000,9 @@ Préparer les accessoires et les fournitures.
 
 |
 
-A partir de la Nomenclature.
+La nomenclature.
 
-Maquette.
+Le prototype.
 
 |
 
@@ -928,7 +1014,9 @@ S4.4
 
 |
 
-C&M
+C, M
+
+et SG
 
 |
 
@@ -946,7 +1034,7 @@ Ressources
 
 |
 
-Critères d’évaluation
+Critères d'évaluation
 
 |
 
@@ -962,21 +1050,23 @@ Champ
 
 |
 
-Réaliser le montage du produit (maroquinerie).
+Réaliser le montage du produit.
 
 |
 
-A partir du cahier des charges ; de la préparation du produit ; de la maquette ; avec les matériels conventionnels.
+Dossier d'industrialisation.
 
-Les gabarits corrigés.
+Les éléments du produit.
 
-Fiche de suivi du produit.
+Le prototype.
+
+Le parc machine.
 
 |
 
-Le produit est conforme au cahier des charges.
+Le produit est conforme au dossier d'industrialisation.
 
-Respect des consignes de sécurité.
+Respect des consignes d'hygiène et de sécurité.
 
 |
 
@@ -990,27 +1080,29 @@ S8
 
 M
 
+et SG
+
 |
 
 1.33b
 
 |
 
-Réaliser la préparation et l’assemblage des éléments de la tige et du semelage.
+Réaliser la préparation et l'assemblage des éléments de la tige et du semelage.
 
 |
 
 Éléments de la tige et du semelage.
 
-Éléments du dossier technique du produit.
+Éléments du dossier d'industrialisation du produit.
 
 Matériels disponibles.
 
 |
 
-Les éléments de la tige et du semelage sont conformes au cahier des charges.
+Les éléments de la tige et du semelage sont conformes au dossier d'industrialisation.
 
-Respect des consignes de sécurité.
+Respect des consignes d'hygiène et de sécurité.
 
 |
 
@@ -1034,7 +1126,7 @@ Réaliser la fabrication du produit (montage, assemblage, finissage).
 
 |
 
-Fiche d’instruction.
+Fiche d'instruction.
 
 Gamme opératoire.
 
@@ -1042,13 +1134,15 @@ Gamme opératoire.
 
 Forme.
 
-Matériels. Disponibles. Cahier des charges du produit.
+Matériels disponibles.
+
+Dossier d'industrialisation du produit.
 
 |
 
-Le produit est conforme au cahier des charges.
+Le produit est conforme au dossier d'industrialisation.
 
-Respect des consignes de sécurité.
+Respect des consignes d'hygiène et de sécurité.
 
 |
 
@@ -1066,9 +1160,9 @@ C
 
 C2 INDUSTRIALISER, COUPER et PRÉPARER LE PRODUIT
 
-COMPÉTENCE TERMINALE 2.1 : S’assurer de la qualité des matériaux
+COMPÉTENCE TERMINALE 2.1 : S'assurer de la qualité des matériaux
 
-2.1.1 Vérifier la conformité des matériaux par rapport au cahier des charges
+2.1.1 Vérifier la conformité des matériaux par rapport au dossier d'industrialisation
 
 Repère
 
@@ -1082,7 +1176,7 @@ Ressources
 
 |
 
-Critères d’évaluation
+Critères d'évaluation
 
 |
 
@@ -1098,29 +1192,27 @@ Champ
 
 |
 
-Identifier les types de matériaux.
-
-Contrôler la conformité des matériaux du point de vue des spécifications usuelles (dimension, force, aspect, couleur, choix...) pour valider la réception.
+Contrôler la conformité des matériaux du point de vue des spécifications usuelles (dimension, résistance, aspect, couleur, choix...) pour valider la réception.
 
 |
 
-Cahier des charges.
-
-Matières.
-
 Échantillon témoin.
 
-Cabine d’exposition (illuminant standardisé).
+Fiche technique du produit.
 
 Matériels de mesure des épaisseurs et surfaces.
 
 |
 
-Contrôle correctement
+Vérifications correctement
 
-réalisé.
+réalisées.
 
 |
+
+S1.2
+
+S2.2
 
 S3.1
 
@@ -1130,7 +1222,9 @@ S5.1
 
 |
 
-C&M
+C, M
+
+et SG
 
 |
 
@@ -1138,17 +1232,19 @@ C&M
 
 |
 
-Identifier et repérer les défauts du cuir et de tous types de matériaux (tissé et non tissés élastomères ...).
+Repérer les défauts du cuir et de tous types de matériaux.
 
 |
 
-Poste d’observation correctement éclairé. Matières.
+Poste d'observation correctement agencé.
 
-Témoins.
+Echantillon témoin.
+
+Repères fournisseurs.
 
 |
 
-Les défauts sont correctement identifiés et repérés sur le matériau (craie, adhésif...).
+Les défauts sont correctement identifiés et repérés sur le matériau (craie, adhésif, repères...).
 
 |
 
@@ -1160,11 +1256,13 @@ S5.1
 
 |
 
-C&M
+C, M
+
+et SG
 
 |
 
-COMPÉTENCE TERMINALE 2.2 : Concevoir et valider le placement optimal des éléments suivant la définition du cahier des charges, à l’aide d’un système informatisé.
+COMPÉTENCE TERMINALE 2.2 : Concevoir et valider le placement optimal des éléments suivant la définition du cahier des charges, à l'aide d'un système informatisé.
 
 2.2.1 Définir les paramètres de coupe
 
@@ -1180,7 +1278,7 @@ Ressources
 
 |
 
-Critères d’évaluation
+Critères d'évaluation
 
 |
 
@@ -1196,7 +1294,7 @@ Champ
 
 |
 
-Établir une hiérarchie qualitative entre les pièces d’un modèle selon leurs caractéristiques et celles de la matière utilisée.
+Établir une hiérarchie qualitative entre les pièces d'un modèle selon leurs caractéristiques et celles de la matière utilisée.
 
 |
 
@@ -1208,7 +1306,7 @@ Matière
 
 |
 
-Hiérarchisation conforme aux contraintes de la matière et du produit.
+Hiérarchisation conforme aux contraintes du matériau et du produit.
 
 |
 
@@ -1220,7 +1318,9 @@ S4.3
 
 |
 
-C&M
+C, M
+
+et SG
 
 |
 
@@ -1232,13 +1332,13 @@ Déterminer la surface nécessaire à la découpe.
 
 |
 
-Gabarits du modèle.
+Gabarits du produit.
 
 Base de données.
 
 |
 
-Calculs corrects et conformes au modèle et à la matière.
+Résultats corrects et conformes au produit et au matériau.
 
 |
 
@@ -1248,11 +1348,13 @@ S7
 
 |
 
-C&M
+C, M
+
+et SG
 
 |
 
-2.2.2 Réaliser le placement et la coupe du modèle
+2.2.2 Réaliser le placement et la coupe des éléments du produit
 
 Repère
 
@@ -1266,7 +1368,7 @@ Ressources
 
 |
 
-Critères d’évaluation
+Critères d'évaluation
 
 |
 
@@ -1282,7 +1384,7 @@ Champ
 
 |
 
-Définir la zone d’utilisation de la matière appropriée à chaque pièce pour obtenir le placement optimal.
+Définir la zone d'utilisation du matériau appropriée à chaque élément pour obtenir le placement optimal.
 
 |
 
@@ -1296,7 +1398,7 @@ Surface théorique ou métrage alloué.
 
 |
 
-L’emplacement des pièces est en adéquation avec la qualité des différentes parties de la peau. Le placement des pièces sur la matière est optimisé.
+L'emplacement des pièces est en adéquation avec la qualité des différentes parties de la peau. Le placement des pièces sur la matière est optimisé.
 
 |
 
@@ -1308,7 +1410,9 @@ S4.4
 
 |
 
-C&M
+C, M
+
+et SG
 
 |
 
@@ -1316,25 +1420,57 @@ C&M
 
 |
 
-Réaliser la coupe des éléments en respectant les contraintes et les caractéristiques des matières.
+Mémoriser les données spécifiques au placement.
+
+|
+
+Logiciel de placement.
+
+Photo numérique (placement manuel).
+
+Fichier CFAO ou multimédia.
+
+|
+
+Données mémorisées et exploitables.
+
+|
+
+S4.3
+
+S4.4
+
+S7
+
+|
+
+C, M
+
+et SG
+
+|
+
+2.22c
+
+|
+
+Couper les éléments en respectant les contraintes et les caractéristiques des matériaux.
 
 |
 
 Gabarit.
 
-Matière.
+Matériaux.
 
-Système de découpe manuel ou automatisé. Placement.
+Matériel de découpe conventionnel ou automatisé.
+
+Placement.
 
 Ordre de coupe.
 
 |
 
-Pièces découpées
-
-conformément aux
-
-contraintes.
+Pièces découpées conformément aux attentes.
 
 |
 
@@ -1348,13 +1484,15 @@ S8
 
 |
 
-C&M
+C, M
+
+et SG
 
 |
 
-COMPÉTENCE TERMINALE 2.3 : Participer à l’élaboration du dossier d’industrialisation du produit
+COMPÉTENCE TERMINALE 2.3 : Participer à l'élaboration du dossier d'industrialisation du produit
 
-2.3.1 Réaliser des documents numériques du dossier technique
+2.3.1 Participer à l'élaboration des documents du dossier d'industrialisation du produit
 
 Repère
 
@@ -1368,7 +1506,7 @@ Ressources
 
 |
 
-Critères d’évaluation
+Critères d'évaluation
 
 |
 
@@ -1384,39 +1522,21 @@ Champ
 
 |
 
-Réaliser des documents du dossier technique nécessaires à l’industrialisation du produit.
-
-Exemple :
-
-(gammes ; nomenclature ; fiches d’apprêtage ; fiches d’instructions diverses ; coût matières).
+Adapter les documents nécessaires à l'industrialisation du produit.
 
 |
 
-Dossier d’étude (plan ; gabarits ; gamme ; descriptif).
+Dossier d'industrialisation.
 
-Produit, maquette.
+Prototype.
 
-Fichier CAO.
-
-Cadre et plan de collection.
-
-Listing des matières.
-
-Tableur.
-
-Logiciels de CAO ou DAO ou PAO.
+Matériaux et matériels.
 
 |
 
-Les informations importantes pour l’industrialisation sont clairement identifiées.
+Les modifications nécessaires à l'industrialisation sont clairement identifiées et pertinentes.
 
-Rigueur et précision des documents.
-
-Bonne lisibilité des schémas et croquis.
-
-Clarté des documents.
-
-Respect des normes.
+Respect des normes et de la charte graphique en vigueur.
 
 |
 
@@ -1426,43 +1546,21 @@ S4.1
 
 S7
 
-|
-
-C&M
+S9
 
 |
 
-2.31b
+C, M
 
-|
-
-Adopter les conventions de dessin appropriées à la profession en empruntant les normes de dessin industriel.
-
-|
-
-Exemple de fiches issues des entreprises.
-
-Dessins de définition.
-
-|
-
-Conventions respectées.
-
-|
-
-S7
-
-|
-
-C&M
+et SG
 
 |
 
 C3 Réaliser tout ou partie du processus de fabrication
 
-COMPÉTENCE TERMINALE 3.1 : Réaliser la fabrication en petite série d’un produit
+COMPÉTENCE TERMINALE 3.1 : Procéder à la fabrication d'un produit en série
 
-3.1.1 Exécuter toutes les opérations du processus industriel de la chaîne de fabrication de produits : préparation, montage, finition, en appliquant un mode opératoire déterminé, quel que soit le système de travail mis en œuvre
+3.1.1 Exécuter toutes les opérations du processus industriel : préparation, montage, finition, en appliquant le mode opératoire défini
 
 Repère
 
@@ -1476,7 +1574,7 @@ Ressources
 
 |
 
-Critères d’évaluation
+Critères d'évaluation
 
 |
 
@@ -1492,25 +1590,27 @@ Champ
 
 |
 
-Effectuer la préparation des éléments du produit : refente, parage, négatif, thermocollage, collage, teinture ; rempliage ; rembordage ...
+Préparer les éléments du produit : refente, parage, biseautage, négatif, thermocollage, collage, teinture, rempliage, rembordage...
 
 |
 
-A partir de matériaux de tous types.
+Les éléments coupés constitutifs du produit.
 
-A partir des matériels et des outillages ; des instructions.
-
-Temps imposé.
+Les matériels et les outillages.
 
 Gamme opératoire.
 
-|
+Gabarit de fabrication.
 
-Réglage des matériels conforme aux instructions.
+|
 
 Préparation des éléments conforme à la définition du produit.
 
+Réglage des matériels conforme aux instructions.
+
 Respect chronologique de la gamme opératoire.
+
+Les règles de sécurité sont respectées.
 
 |
 
@@ -1528,7 +1628,9 @@ S8
 
 |
 
-C&M
+C, M
+
+et SG
 
 |
 
@@ -1536,29 +1638,27 @@ C&M
 
 |
 
-Effectuer les opérations d’assemblage et/ou montage de tous types :
-
-par piqûre, couture, collage, clouage, usinage.
+Effectuer les opérations d'assemblage et/ou montage de tous types par piqûre, couture, collage, clouage, agrafage, clipsage...
 
 Réaliser la pose des accessoires.
 
 |
 
-Dossier technique.
+Les éléments coupés constitutifs du produit.
 
-Composants.
+Les accessoires.
 
-Matériaux.
+Les matériels et les outillages.
 
-Matériels.
+Gamme opératoire.
 
-Outillages adaptés.
-
-Processus opératoire.
+Gabarit de fabrication.
 
 |
 
 Les opérations sont réalisées conformément aux critères de qualité et aux spécifications du produit.
+
+Les règles de sécurité sont respectées.
 
 |
 
@@ -1576,7 +1676,9 @@ S8
 
 |
 
-C&M
+C, M
+
+et SG
 
 |
 
@@ -1584,27 +1686,23 @@ C&M
 
 |
 
-Effectuer les opérations de finition :
-
-Astiquage, bichonnage, teinture, nettoyage.
+Effectuer les opérations de finition : astiquage, bichonnage, teinture, nettoyage...
 
 |
 
-Dossier technique.
+Gamme opératoire.
 
-Composants.
+Produit assemblé.
 
-Matériaux.
+Les matériels et les outillages adaptés.
 
-Matériels.
-
-Outillages adaptés.
-
-Processus opératoire.
+Processus opérationnel.
 
 |
 
 Les opérations sont réalisées conformément aux critères de qualité et aux spécifications du produit.
+
+Les règles de sécurité sont respectées.
 
 |
 
@@ -1622,11 +1720,13 @@ S8
 
 |
 
-C&M
+C, M
+
+et SG
 
 |
 
-3.1.2 Contrôler la qualité en production
+3.1.2 Effectuer les réglages de premier niveau
 
 Repère
 
@@ -1640,7 +1740,7 @@ Ressources
 
 |
 
-Critères d’évaluation
+Critères d'évaluation
 
 |
 
@@ -1656,35 +1756,83 @@ Champ
 
 |
 
-Vérifier la qualité de la fabrication au poste de travail.
+Régler les matériels.
 
 |
 
-Cahier des charges.
+Matériels.
 
-Fiches techniques.
+Outils adaptés.
+
+Manuel du constructeur.
+
+Fiche de sécurité.
+
+Dossier d'industrialisation.
 
 |
 
-Justesse du diagnostic concernant la qualité de fabrication d’un produit.
+Les réglages sont conformes aux besoins.
 
-Utilisation correcte des critères de qualité.
+Les règles de sécurité sont respectées.
 
 |
 
 S1
 
-S2.2
+S6.2
 
-S5.1
-
-|
-
-C&M
+S8
 
 |
 
-3.1.3 Effectuer les réglages de premier niveau
+C, M
+
+et SG
+
+|
+
+3.12b
+
+|
+
+Installer et régler les outillages spécifiques.
+
+|
+
+Manuel du constructeur.
+
+Matériels.
+
+Dossier d'industrialisation.
+
+Fiche de sécurité.
+
+Outils adaptés.
+
+|
+
+Les outillages sont installés et correctement réglés.
+
+Les règles de sécurité sont respectées.
+
+|
+
+S6.1
+
+S6.2
+
+S8
+
+|
+
+C, M
+
+et SG
+
+|
+
+3.1.3 Entretenir le parc matériel
 
 Repère
 
@@ -1698,7 +1846,7 @@ Ressources
 
 |
 
-Critères d’évaluation
+Critères d'évaluation
 
 |
 
@@ -1714,23 +1862,19 @@ Champ
 
 |
 
-Effectuer les réglages d’une machine au regard des consignes données.
+Réaliser les opérations de maintenance de premier niveau sur les matériels usuels.
 
 |
 
 Manuel du constructeur.
 
-Machine.
+Fiche d'instructions.
 
-Fiche d’instructions.
-
-Dossier technique du produit.
-
-Outillages disponibles.
+Outils.
 
 |
 
-Les réglages sont effectués selon les consignes.
+La maintenance est correctement réalisée.
 
 |
 
@@ -1742,7 +1886,9 @@ S8
 
 |
 
-C&M
+C, M
+
+et SG
 
 |
 
@@ -1750,117 +1896,17 @@ C&M
 
 |
 
-Installer et régler les outillages spécifiques à la fabrication.
-
-|
-
-Manuel du constructeur.
-
-Machine.
-
-Fiche d’instruction. Dossier technique du produit.
-
-Outillages disponibles.
-
-|
-
-Les outillages sont installés et correctement réglés.
-
-|
-
-S6.1
-
-S6.2
-
-S8
-
-|
-
-C&M
-
-|
-
-3.1.4 Entretenir le parc matériels
-
-Repère
-
-|
-
-Être capable de
-
-|
-
-Ressources
-
-|
-
-Critères d’évaluation
-
-|
-
-Savoirs
-
-|
-
-Champ
-
-|
-
-3.14a
-
-|
-
-Réaliser les opérations de maintenance de premier niveau sur les matériels les plus courants (machine à coudre ; machines de préparation, machines à monter machines à fraiser...).
-
-|
-
-Manuel du constructeur.
-
-Fiche
-
-d’instructions.
-
-Outillages.
-
-Matières d’œuvre.
-
-|
-
-Maintenance réalisée correctement.
-
-|
-
-S6.1
-
-S6.2
-
-S8
-
-|
-
-C&M
-
-|
-
-3.14c
-
-|
-
 Contrôler le bon fonctionnement des matériels.
 
 |
 
-Fiche
+Fiche d'intervention.
 
-d’intervention.
-
-Instructions du manuel
-
-constructeur.
+Instructions du manuel constructeur.
 
 |
 
-Contrôle correctement réalisé.
+Le contrôle est correctement réalisé.
 
 |
 
@@ -1872,13 +1918,15 @@ S8
 
 |
 
-C&M
+C, M
+
+et SG
 
 |
 
-COMPETENCE TERMINALE 3.2 : Contrôler la qualité des produits finis au regard du cahier des charges
+COMPETENCE TERMINALE 3.2 : Contrôler la qualité des produits au regard du dossier d'industrialisation
 
-3.2.1 Participer au contrôle final du produit
+3.2.1 Contrôler la qualité en cours de production
 
 Repère
 
@@ -1892,7 +1940,7 @@ Ressources
 
 |
 
-Critères d’évaluation
+Critères d'évaluation
 
 |
 
@@ -1908,41 +1956,123 @@ Champ
 
 |
 
-Compléter des fiches de contrôle de la qualité.
+Vérifier la qualité de la fabrication au poste de travail.
 
 |
 
-Fiche de contrôle.
+Gamme opératoire.
 
-Feuille de relevés.
-
-Fiche de mesures.
-
-Feuille de concentration des défauts.
-
-Fiche de suivi de fabrication.
+Fiches d'analyse.
 
 |
 
-Fiches correctement renseignées (défauts identifiés, quantifiés et localisés).
+Les critères de qualité sont respectés.
 
 |
 
 S2.2
 
-S2.5
-
-S5.1
+S5
 
 |
 
-C&M
+C, M
+
+et SG
 
 |
 
-C4 : COMMUNIQUER pour saisir et restituer l’information
+3.2.2 Contrôler la qualité en fin de production
 
-COMPÉTENCE TERMINALE 4.1 : Communiquer techniquement
+Repère
+
+|
+
+Être capable de
+
+|
+
+Ressources
+
+|
+
+Critères d'évaluation
+
+|
+
+Savoirs
+
+|
+
+Champ
+
+|
+
+3.22a
+
+|
+
+Vérifier la qualité du produit fini.
+
+|
+
+Gamme opératoire.
+
+Fiches d'analyse.
+
+Fiches de contrôle qualité.
+
+|
+
+Les critères de qualité sont respectés.
+
+|
+
+S2.2
+
+S5
+
+|
+
+C, M
+
+et SG
+
+|
+
+3.22b
+
+|
+
+Compléter les fiches de contrôle qualité.
+
+|
+
+Gamme opératoire.
+
+Fiches d'analyse.
+
+Fiches de contrôle qualité
+
+|
+
+La fiche de contrôle qualité est correctement renseignée (défauts identifiés, quantifiés et localisés.
+
+|
+
+S5
+
+|
+
+C, M
+
+et SG
+
+|
+
+C4 : COMMUNIQUER pour saisir et restituer l'information
+
+COMPETENCE TERMINALE 4.1 : Communiquer en situation professionnelle
 
 4.1.1 : Identifier et choisir les moyens de communications adaptés
 
@@ -1958,7 +2088,7 @@ Ressources
 
 |
 
-Critères d’évaluation
+Critères d'évaluation
 
 |
 
@@ -1970,37 +2100,37 @@ Champ
 
 |
 
+4.11
+
 |
 
 Exprimer plastiquement et par écrit une idée ou un projet.
+
+Identifier et mettre en œuvre des codes de représentation.
 
 Annoter un modèle numérique.
 
 Rédiger un courrier électronique concis.
 
-Réceptionner un, courrier électronique.
+Diffuser ou réceptionner un courriel.
 
-Modifier la taille des images pour alléger leur poids.
+Alléger la taille des fichiers.
 
-Transformer des documents en PDF (Portable Document Format).
-
-|
-
-Outils graphiques traditionnels et infographiques logiciels de CAO, CFAO de retouche d’image, de dessin vectoriel, traitement de texte, tableur, PDF
-
-présentation.
-
-Logiciel de messagerie pour réseau local ou à distance.
+Enregistrer un fichier sous un autre format que son format natif.
 
 |
 
-Concision, précision et lisibilité du message.
+Moyens informatiques adaptés.
 
-Maîtrise des moyens de communication.
+|
 
-Pertinence du choix du moyen de communication.
+Les messages sont précis et lisibles.
 
-Respect des protocoles et usages.
+Les moyens de communication sont maîtrisés.
+
+Le choix des moyens de communication est pertinent.
+
+Les protocoles et usages sont respectés.
 
 |
 
@@ -2024,21 +2154,27 @@ S9
 
 |
 
-C&M
+C, M
+
+et SG
 
 |
 
 C4.1.2 Transmettre oralement
 
+4.12
+
 |
 
-Comparer, argumenter des choix issus de la démarche de recherche.
+Comparer les solutions issues de la démarche de recherche.
 
-Reformuler la demande ou une idée.
+Argumenter le choix.
 
-Rendre compte à son supérieur hiérarchique.
+Reformuler une demande ou une idée.
 
-Maîtriser le vocabulaire professionnel.
+Rendre compte à sa hiérarchie.
+
+Utiliser le vocabulaire professionnel.
 
 |
 
@@ -2048,17 +2184,13 @@ Support de communication : produit, projet de réalisation, tout ou partie du do
 
 |
 
-Précision du vocabulaire professionnel employé.
+Le vocabulaire professionnel employé est précis.
 
-Compréhension et
+La demande est comprise et confirmée.
 
-confirmation de la
+L'argumentation est juste et pertinente.
 
-demande.
-
-Justesse et pertinence de l’argumentation.
-
-Compréhension du message par l’interlocuteur.
+Le message est compris par l'interlocuteur.
 
 |
 
@@ -2082,97 +2214,91 @@ S9
 
 |
 
-C&M
+C, M
+
+et SG
 
 |
 
 LES SAVOIRS TECHNOLOGIQUES ASSOCIÉS
 
-Le plan de la page ci-dessous présente les contenus organisés autour de dix thèmes distincts (S1 à S9)
+Le sommaire de la page ci-dessous présente les contenus organisés autour de dix thèmes distincts (S1 à S9)
 
-Le schéma de la page suivante spécifie les niveaux d’acquisition et de maîtrise des contenus
-
-Les pages suivantes définissent, pour chaque thème :
-
-Les connaissances associées (partie de gauche).
-
-Les niveaux d’acquisition et de maîtrise de ces connaissances.
-
-S 1 – Les entreprises de la filière mode
+S 1 - Les entreprises de la filière mode
 
 1. La typologie des entreprises.
 
 2. Les intervenants.
 
-S 2 – Définition technique des produits
+S 2 - La définition technique des produits
 
 1. Les concepts de mode, les types de produits.
 
-2. L’analyse fonctionnelle et technique.
+2. L'analyse fonctionnelle et technique.
 
 3. Conception des modèles.
 
-4. Étude des solutions constructives.
+4. L'étude des solutions constructives.
 
-5. Spécification des produits.
+5. La spécification des produits.
 
-S 3 – Matières et matériaux
+S 3 - Les matières et matériaux
 
-1. Typologie et techniques d’élaboration.
+1. La typologie et techniques d'élaboration.
 
-2. Caractéristiques chimiques, physiques et mécaniques.
+2. Les caractéristiques chimiques, physiques et mécaniques.
 
-S 4 – Industrialisation des produits
+S 4 - L'industrialisation des produits
 
-1. Organisation des procédures et modes opératoires.
+1. L'organisation des procédures et modes opératoires.
 
 2. La relation conception, industrialisation.
 
-3. Les procédés d’obtention des produits (fabrication) :
+3. Les procédés d'obtention des produits (fabrication) :
 
-- Découpe des matériaux.
+- les moyens et techniques de coupe ;
 
-- Les moyens et techniques d’assemblage et de montage.
+- les moyens et techniques d'assemblage et de montage ;
 
-- Les moyens et techniques de traitement et de finition.
+- les moyens et techniques de traitement et de finition ;
 
-- Les moyens et techniques de contrôle.
+- les moyens et techniques de contrôle.
 
-4. Détermination des besoins en matières et composants.
+4. La détermination des besoins en matières et composants.
 
-S 5 – Qualité et contrôle
+S 5 - La qualité et contrôle
 
 1. La conformité du produit au regard des spécifications.
 
-S 6 – Système de production et maintenance.
+S 6 - Le système de production et maintenance.
 
-1. Architecture des équipements de production.
+1. L'architecture des équipements de production.
 
-2. Maintenance préventive de premier niveau.
+2. La maintenance préventive de premier niveau.
 
-3. Protection, environnement et risques industriels.
+3. La protection, environnement et risques industriels.
 
-S 7 – Représentation technique du produit
+S 7 - La représentation technique du produit
 
-1. Outils à développer en phase recherche de solutions.
+1. Les outils à développer en phase recherche de solutions.
 
-2. Représentation technique 2D de définition des produits.
+2. La représentation technique 2D de définition des produits.
 
-3. Utilisation des logiciels de représentation technique et bases de données.
+3. L'utilisation des logiciels de représentation technique et bases de données.
 
-S 8 – Sécurité et ergonomie
+S 8 - La sécurité et ergonomie
 
 1. Les principes généraux.
 
-2. La conduite à tenir en cas d’accident.
+2. La conduite à tenir en cas d'accident.
 
-3. L’organisation du poste de travail.
+3. L'organisation du poste de travail.
 
-S 9 – Arts appliqués
+S 9 - Les arts appliqués
 
-1. Culture artistique.
+1. La culture artistique.
 
-2. Moyens de traduction et d’expression.
+2. Les moyens de traduction et d'expression.
 
 MISE EN RELATION DES COMPÉTENCES ET DES SAVOIRS TECHNOLOGIQUES ASSOCIÉS
 
@@ -2232,7 +2358,7 @@ C1.1
 
 |
 
-Situer l’objet de l’étude et contextualiser
+Rechercher, s'informer.
 
 |
 
@@ -2264,7 +2390,7 @@ C1.2
 
 |
 
-Réaliser et/ou exploiter des gabarits (mettre au point un modèle)
+Réaliser et/ou exploiter des gabarits.
 
 |
 
@@ -2282,9 +2408,13 @@ X
 
 |
 
+X
+
 |
 
 |
+
+X
 
 |
 
@@ -2296,7 +2426,7 @@ C1.3
 
 |
 
-Réaliser le produit d’un modèle
+Réaliser le produit.
 
 |
 
@@ -2330,13 +2460,15 @@ C2.1
 
 |
 
-S’assurer de la qualité des matériaux
+S'assurer de la qualité des matériaux.
 
 |
 
 X
 
 |
+
+X
 
 |
 
@@ -2362,7 +2494,7 @@ C2.2
 
 |
 
-Concevoir et valider le placement optimal des éléments suivant la définition du CDC à l’aide d’un système informatisé
+Concevoir et valider le placement optimal des éléments suivant la définition du CDC à l'aide d'un système informatisé
 
 |
 
@@ -2381,6 +2513,8 @@ X
 |
 
 |
+
+X
 
 |
 
@@ -2398,7 +2532,7 @@ C2.3
 
 |
 
-Participer à l’élaboration du dossier industriel du produit
+Participer à l'élaboration du dossier d'industrialisation du produit.
 
 |
 
@@ -2432,15 +2566,11 @@ C3.1
 
 |
 
-Préparer et suivre l’exécution d’une petite série
+Procéder à la fabrication d'un produit en série
 
 |
 
-X
-
 |
-
-X
 
 |
 
@@ -2458,8 +2588,6 @@ X
 
 |
 
-X
-
 |
 
 X
@@ -2468,19 +2596,11 @@ X
 
 |
 
-C3.3
+C3.2
 
 |
 
-Contrôler la qualité des produits finis au regard du cahier des charges
-
-|
-
-X
-
-|
-
-X
+Contrôler la qualité des produits au regard du dossier d'industrialisation.
 
 |
 
@@ -2490,13 +2610,15 @@ X
 
 |
 
-X
-
 |
 
 |
 
 X
+
+|
+
+|
 
 |
 
@@ -2508,17 +2630,7 @@ C4.1
 
 |
 
-Communiquer techniquement
-
-|
-
-|
-
-X
-
-|
-
-|
+Communiquer pour saisir et restituer l'information.
 
 |
 
@@ -2526,27 +2638,47 @@ X
 
 |
 
+X
+
 |
 
 X
 
 |
 
+X
+
 |
 
 X
 
 |
 
-Spécification des niveaux d’acquisition et de maîtrise des savoirs
+X
 
 |
 
-Indicateur de niveau d’acquisition et de maîtrise des savoirs
+X
 
 |
 
-NIVEAU
+X
+
+|
+
+X
+
+|
+
+Spécification des niveaux d'acquisition et de maîtrise des savoirs
+
+|
+
+Indicateur de niveau d'acquisition et de maîtrise des savoirs
+
+|
+
+Niveau
 
 |
 
@@ -2570,21 +2702,17 @@ NIVEAU
 
 |
 
-Le candidat a reçu une information minimale sur le concept abordé et il sait, d’une manière globale, de quoi il s’agit. Il peut donc par exemple identifier, reconnaître, citer, éventuellement désigner un élément, un composant au sein d’un système, citer une méthode de travail ou d’organisation, citer globalement le rôle et la fonction du concept appréhendé.
+Le candidat a reçu une information minimale sur le concept abordé et il sait, d'une manière globale, de quoi il s'agit. Il peut donc par exemple identifier, reconnaître, citer, éventuellement désigner un élément, un composant au sein d'un système, citer une méthode de travail ou d'organisation, citer globalement le rôle et la fonction du concept appréhendé.
 
 |
 
 Niveau de
 
-l’INFORMATION
+l'information
 
 |
 
-x
-
-|
-
-|
+X
 
 |
 
@@ -2602,25 +2730,23 @@ x
 
 |
 
-Ce niveau est relatif à l’acquisition de moyens d’expression et de communication en utilisant le registre langagier de la discipline. Il s’agit à ce niveau de maîtriser un savoir relatif à l’expression orale (discours, réponses orales, explications) et écrite (textes, croquis, schémas, représentations graphiques et symboliques en vigueur). Le candidat doit être capable de justifier l’objet de l’étude en expliquant par exemple un fonctionnement, une structure, une méthodologie, etc.
+|
+
+|
+
+Ce niveau est relatif à l'acquisition de moyens d'expression et de communication en utilisant le registre langagier de la discipline. Il s'agit à ce niveau de maîtriser un savoir relatif à l'expression orale (discours, réponses orales, explications) et écrite (textes, croquis, schémas, représentations graphiques et symboliques en vigueur). Le candidat doit être capable de justifier l'objet de l'étude en expliquant par exemple un fonctionnement, une structure, une méthodologie, etc.
 
 |
 
 Niveau de
 
-l’EXPRESSION
+l'expression
 
 |
 
 |
 
-x
-
-|
-
-|
-
-|
+X
 
 |
 
@@ -2634,7 +2760,13 @@ x
 
 |
 
-Cette maîtrise porte sur la mise en œuvre de techniques, d’outils, de règles et de principes en vue d’un résultat à atteindre. C’est le niveau d’acquisition de savoir-faire cognitifs (méthode, stratégie...). Ce niveau permet donc de simuler, de mettre en œuvre un équipement, de réaliser des représentations, de faire un choix argumenté, etc.
+|
+
+|
+
+|
+
+Cette maîtrise porte sur la mise en œuvre de techniques, d'outils, de règles et de principes en vue d'un résultat à atteindre. C'est le niveau d'acquisition de savoir-faire cognitifs (méthode, stratégie...). Ce niveau permet donc de simuler, de mettre en œuvre un équipement, de réaliser des représentations, de faire un choix argumenté, etc.
 
 |
 
@@ -2642,7 +2774,7 @@ Niveau
 
 de la
 
-MAÎTRISE D’OUTILS
+maîtrise d'outils
 
 |
 
@@ -2650,15 +2782,7 @@ MAÎTRISE D’OUTILS
 
 |
 
-x
-
-|
-
-|
-
-|
-
-|
+X
 
 |
 
@@ -2668,7 +2792,15 @@ x
 
 |
 
-Il vise à poser puis à résoudre les problèmes dans un contexte global industriel. Il correspond à une maîtrise totale de la mise en œuvre d’une démarche en vue d’un but à atteindre. Il intègre des compétences élargies, une autonomie minimale et le respect des règles de fonctionnement de type industriel (respect de normes, de procédures garantissant la qualité des produits et des services).
+|
+
+|
+
+|
+
+|
+
+Il vise à poser puis à résoudre les problèmes dans un contexte global industriel. Il correspond à une maîtrise totale de la mise en œuvre d'une démarche en vue d'un but à atteindre. Il intègre des compétences élargies, une autonomie minimale et le respect des règles de fonctionnement de type industriel (respect de normes, de procédures garantissant la qualité des produits et des services).
 
 |
 
@@ -2676,11 +2808,9 @@ Niveau
 
 de la
 
-MAÎTRISE
+maîtrise
 
-MÉTHODOLOGIQUE
-
-|
+méthodologique
 
 |
 
@@ -2688,7 +2818,9 @@ MÉTHODOLOGIQUE
 
 |
 
-x
+|
+
+X
 
 |
 
@@ -2706,7 +2838,7 @@ Niveaux
 
 |
 
-S 1 – Les entreprises de la filière mode
+S 1 - Les entreprises de la filière "cuir"
 
 |
 
@@ -2730,7 +2862,21 @@ S1.1
 
 |
 
-La typologie des entreprises.
+La typologie des entreprises
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+L'insertion de l'entreprise dans le secteur économique (branche, secteur, filière).
 
 |
 
@@ -2746,7 +2892,7 @@ x
 
 |
 
-L’insertion de l’entreprise dans le tissu économique (branche, secteur, filière).
+Le positionnement de l'entreprise sur les marchés et le choix du produit.
 
 |
 
@@ -2762,7 +2908,7 @@ x
 
 |
 
-Le positionnement de l’entreprise sur les marchés et le choix du produit.
+Les fonctions des services de l'entreprise.
 
 |
 
@@ -2778,23 +2924,7 @@ x
 
 |
 
-Fonction des services de l’entreprise.
-
-|
-
-x
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Les relations de l’entreprise avec son environnement (rapports avec les clients, les fournisseurs, sous-traitant, co-traitant).
+Les relations de l'entreprise avec son environnement (rapports avec les clients, les fournisseurs, sous-traitant, co-traitant).
 
 |
 
@@ -2826,7 +2956,7 @@ Les intervenants
 
 |
 
-S1.21 Les intervenants donneurs d’ordres.
+S1.21 Les intervenants donneurs d'ordres.
 
 |
 
@@ -2842,7 +2972,7 @@ x
 
 |
 
-S1.22 Les relations entre les intervenants : contrat client / fournisseur
+S1.22 Les relations entre les intervenants : contrat client / fournisseur.
 
 |
 
@@ -2858,7 +2988,7 @@ x
 
 |
 
-- La démarche qualité ;
+- La démarche qualité.
 
 |
 
@@ -2874,7 +3004,7 @@ x
 
 |
 
-- la sous-traitance et la co-traitance.
+- La sous-traitance et la co-traitance.
 
 |
 
@@ -2888,7 +3018,7 @@ x
 
 |
 
-S 2 – Définition technique du produit
+S 2 - La définition technique du produit
 
 |
 
@@ -2918,7 +3048,7 @@ Les concepts de mode, les types de produits
 
 |
 
-S2.1.1 Les concepts de mode :
+S2.1.1 Les concepts de mode
 
 |
 
@@ -2932,39 +3062,7 @@ S2.1.1 Les concepts de mode :
 
 |
 
-Signification de la mode.
-
-|
-
-|
-
-x
-
-|
-
-|
-
-|
-
-|
-
-Expression d’une tendance de mode, d’un milieu.
-
-Image et identification du produit, (sociale, culturelle et esthétique).
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-S2.1.2 Les types de produits :
+La signification de la mode.
 
 |
 
@@ -2980,7 +3078,9 @@ x
 
 |
 
-Identification technique des produits :
+L'expression d'une tendance de mode, d'un milieu.
+
+L'image et l'identification du produit, (sociale, culturelle et esthétique).
 
 |
 
@@ -2996,13 +3096,7 @@ x
 
 |
 
-- Les familles de produits dans les domaines de la chaussure ;
-
-|
-
-|
-
-x
+S2.1.2 Les types de produits
 
 |
 
@@ -3012,7 +3106,11 @@ x
 
 |
 
-- les familles de produits dans les domaines de la maroquinerie.
+|
+
+|
+
+L'identification technique des produits.
 
 |
 
@@ -3030,7 +3128,7 @@ S2.2
 
 |
 
-L’analyse fonctionnelle et technique
+L'analyse fonctionnelle et technique
 
 |
 
@@ -3044,23 +3142,7 @@ L’analyse fonctionnelle et technique
 
 |
 
-S2.2.1 L’analyse fonctionnelle
-
-|
-
-x
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Notions de fonction (service, d’estime,...)
+S2.2.1 L'analyse fonctionnelle
 
 |
 
@@ -3076,7 +3158,7 @@ x
 
 |
 
-Besoin à satisfaire (expression des fonctions).
+Les notions de fonction (service, d'estime...)
 
 |
 
@@ -3092,7 +3174,7 @@ x
 
 |
 
-Cycle de vie du produit.
+Le besoin à satisfaire (expression des fonctions).
 
 |
 
@@ -3108,7 +3190,7 @@ x
 
 |
 
-Développement durable.
+Le cycle de vie du produit.
 
 |
 
@@ -3124,7 +3206,23 @@ x
 
 |
 
-S2.2.2 L’analyse technique
+Les règles de développement durable.
+
+|
+
+x
+
+|
+
+|
+
+|
+
+|
+
+|
+
+S2.2.2 L'analyse technique
 
 |
 
@@ -3138,9 +3236,7 @@ S2.2.2 L’analyse technique
 
 |
 
-Analyse morphologique du pied : forme, proportions, (chaussure...)
-
-Analyse des formes, proportions et tailles.
+L'analyse morphologique : forme, proportions, (chaussure, siège automobile...).
 
 |
 
@@ -3156,7 +3252,7 @@ x
 
 |
 
-Elements constitutifs du produit : arborescence par niveau.
+L'analyse des formes, proportions et tailles.
 
 |
 
@@ -3172,7 +3268,23 @@ x
 
 |
 
-Identification des composants du produit.
+Les éléments constitutifs du produit : arborescence par niveau.
+
+|
+
+|
+
+x
+
+|
+
+|
+
+|
+
+|
+
+L'identification des composants du produit.
 
 |
 
@@ -3190,7 +3302,7 @@ S2.3
 
 |
 
-Conception des modèles
+La conception des modèles
 
 |
 
@@ -3204,7 +3316,7 @@ Conception des modèles
 
 |
 
-S2.3.1a Obtention des formes (chaussure)
+S2.3.1a L'obtention des formes (chaussure)
 
 |
 
@@ -3218,23 +3330,7 @@ S2.3.1a Obtention des formes (chaussure)
 
 |
 
-Représentation des lignes d’un modèle sur une forme.
-
-|
-
-|
-
-x
-
-|
-
-|
-
-|
-
-|
-
-Réalisation du relevé de forme.
+La représentation des lignes d'un modèle sur une forme.
 
 |
 
@@ -3250,7 +3346,7 @@ x
 
 |
 
-Mise au point de la copie de forme.
+La réalisation du relevé de forme.
 
 |
 
@@ -3266,7 +3362,7 @@ x
 
 |
 
-Mise en place des lignes du modèle en 2D.
+La mise au point de la copie de forme.
 
 |
 
@@ -3282,7 +3378,7 @@ x
 
 |
 
-Réalisation du patron plan.
+La mise en place des lignes du modèle en 2D.
 
 |
 
@@ -3298,7 +3394,7 @@ x
 
 |
 
-Modification et transformation des plans en CAO.
+La réalisation du patron plan.
 
 |
 
@@ -3314,37 +3410,7 @@ x
 
 |
 
-S2.3.1b Obtention des formes (Maroquinerie)
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Réalisation d’un moule pour relever les lignes du gabarit.
-
-|
-
-|
-
-x
-
-|
-
-|
-
-|
-
-|
-
-Mesure des dimensions
+La numérisation des plans en CAO.
 
 |
 
@@ -3360,7 +3426,7 @@ x
 
 |
 
-Obtention des lignes manuellement et en CAO
+S2.3.1b L'obtention des formes (Maroquinerie)
 
 |
 
@@ -3374,7 +3440,13 @@ Obtention des lignes manuellement et en CAO
 
 |
 
-S2.3.2 Obtention des gabarits
+La réalisation d'un moule pour relever les lignes du gabarit.
+
+|
+
+|
+
+x
 
 |
 
@@ -3384,11 +3456,7 @@ S2.3.2 Obtention des gabarits
 
 |
 
-|
-
-|
-
-Obtention des gabarits par différents procédés (manuellement et CAO)
+La mesure des caractéristiques géométrales.
 
 |
 
@@ -3404,7 +3472,149 @@ x
 
 |
 
-Conversion des fichiers CAO adaptée à un découpeur numérique (CFAO)
+L'obtention des lignes manuellement ou en CAO
+
+|
+
+|
+
+|
+
+x
+
+|
+
+|
+
+|
+
+S2.3.1c L'obtention des formes (sellerie garnissage).
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+L'obtention des lignes d'un produit.
+
+|
+
+|
+
+|
+
+x
+
+|
+
+|
+
+|
+
+La réalisation du relevé.
+
+|
+
+|
+
+|
+
+x
+
+|
+
+|
+
+|
+
+La mise en place des lignes.
+
+|
+
+|
+
+|
+
+x
+
+|
+
+|
+
+|
+
+La réalisation du patron plan.
+
+|
+
+|
+
+|
+
+x
+
+|
+
+|
+
+|
+
+L'obtention des plans en CAO par transformation numérique ou manuelle.
+
+|
+
+|
+
+|
+
+x
+
+|
+
+|
+
+|
+
+S2.3.2 L'obtention des gabarits
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+L'obtention des gabarits par différents procédés (manuels et CAO).
+
+|
+
+|
+
+|
+
+x
+
+|
+
+|
+
+|
+
+La conversion des fichiers adaptée à un système numérique de production (CFAO).
+
+|
 
 |
 
@@ -3418,15 +3628,13 @@ x
 
 |
 
-|
+La gestion des bases de données de modèles.
 
-Gestion des bases de données de modèles.
+|
 
 |
 
 x
-
-|
 
 |
 
@@ -3442,8 +3650,6 @@ S2.3.3 Graduation des modèles en CAO (chaussure)
 
 |
 
-x
-
 |
 
 |
@@ -3452,23 +3658,7 @@ x
 
 |
 
-Prise de mesure des formes.
-
-|
-
-|
-
-x
-
-|
-
-|
-
-|
-
-|
-
-Principes d’évolution des systèmes de pointures.
+La prise de mesure des formes.
 
 |
 
@@ -3484,23 +3674,9 @@ x
 
 |
 
-Fonctionnalités de graduations numériques ; gestion des centres de graduation, regroupement et blocage.
+Les principes d'évolution des systèmes de pointures.
 
 |
-
-x
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Mise en mémoire des données numériques : fichier modèles, pointures.
 
 |
 
@@ -3514,15 +3690,13 @@ x
 
 |
 
-|
-
-S2.3.4 Homothétie et similitude des modèles en CAO maroquinerie Règles d’homothétie et de similitude.
+Les fonctionnalités de graduations numériques ; gestion des centres de graduation, regroupement et blocage.
 
 |
 
 |
 
-|
+x
 
 |
 
@@ -3530,7 +3704,39 @@ S2.3.4 Homothétie et similitude des modèles en CAO maroquinerie Règles d’ho
 
 |
 
-Remarques : les connaissances à développer en CAO seront abordées sur système informatique professionnel.
+|
+
+La mise en mémoire des données numériques : fichier modèles, pointures.
+
+|
+
+|
+
+x
+
+|
+
+|
+
+|
+
+|
+
+S2.3.4 Homothétie et similitude des modèles en CAO maroquinerie et sellerie garnissage
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Les règles d'homothétie et de similitude.
 
 |
 
@@ -3576,7 +3782,21 @@ S2.4.1 Solutions constructives tenant compte de la relation produit, procédé, 
 
 |
 
-Les différents bords (bord franc, rembordé, remplié, retourné, bordé etc…).
+S2.4.1a Solutions constructives communes
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Les différents bords (bord franc, rembordé, remplié, retourné, bordé etc...).
 
 |
 
@@ -3592,7 +3812,7 @@ x
 
 |
 
-Les différentes techniques d’assemblage (par couture, par soudage, rivetage, collage, etc...)
+Les différentes techniques d'assemblage (par couture, par soudage, rivetage, collage, etc...).
 
 |
 
@@ -3608,7 +3828,7 @@ x
 
 |
 
-Les arrêts de piqûre (point d’arrêt, brûlage, nouage, etc...)
+Les arrêts de piqûre (point d'arrêt, brûlage, nouage, etc...).
 
 |
 
@@ -3624,7 +3844,7 @@ x
 
 |
 
-Les renforts (non tissé, thermocollant, solvant, métallique, etc...)
+Les renforts (non tissé, thermocollant, solvant, métallique, etc...).
 
 |
 
@@ -3640,7 +3860,7 @@ x
 
 |
 
-Les différents moyens de fermeture (lacets, fermeture à glissière, pression, fermoir, bande auto agrippante, etc...)
+Les différents moyens de fermeture (lacets, fermeture à glissière, pression, fermoir, bande auto agrippante, etc...).
 
 |
 
@@ -3656,13 +3876,7 @@ x
 
 |
 
-Les différentes méthodes de fabrication de la chaussure (soudé et cousu...)
-
-|
-
-|
-
-x
+S2.4.1b Solutions constructives pour la chaussure
 
 |
 
@@ -3672,23 +3886,11 @@ x
 
 |
 
-Les différentes techniques utilisées pour la réalisation des semelages (avec et sans trépointe, louis XV, cubain, etc...)
-
 |
 
 |
 
-x
-
-|
-
-|
-
-|
-
-|
-
-Les différents types de construction de chaussures (derby, richelieu, escarpin ...)
+Les différentes méthodes de fabrication de la chaussure (soudé et cousu etc...).
 
 |
 
@@ -3704,7 +3906,23 @@ x
 
 |
 
-Les différents types de poche (plate, zippée, sous blanchet, à soufflet, ....)
+Les différentes techniques utilisées pour la réalisation des semelages (avec et sans trépointe, louis XV, cubain, etc...).
+
+|
+
+|
+
+x
+
+|
+
+|
+
+|
+
+|
+
+Les différents types de construction de chaussures (derby, richelieu, escarpin...).
 
 |
 
@@ -3720,15 +3938,13 @@ x
 
 |
 
-Les différents types de montage en maroquinerie (cavour, à l’allemande, à gousset, retourné...)
+S2.4.1c Solutions constructives pour la maroquinerie
 
 |
 
 |
 
 |
-
-x
 
 |
 
@@ -3752,7 +3968,101 @@ x
 
 |
 
-Les types de doublure en maroquinerie (volante (flottante), collé en plein, en filet).
+Les différents types de poches.
+
+|
+
+|
+
+|
+
+x
+
+|
+
+|
+
+|
+
+Les types de doublure en maroquinerie.
+
+|
+
+|
+
+|
+
+x
+
+|
+
+|
+
+|
+
+Les différents types de montage en maroquinerie (cavour, à l'allemande, à gousset, retourné...).
+
+|
+
+|
+
+|
+
+x
+
+|
+
+|
+
+|
+
+S2.4.1d Solutions constructives pour la sellerie garnissage
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Les différents types de poignées et bandoulières.
+
+|
+
+|
+
+|
+
+x
+
+|
+
+|
+
+|
+
+Les différents types de poches.
+
+|
+
+|
+
+|
+
+x
+
+|
+
+|
+
+|
+
+Les différentes techniques d'assemblage des mousses, ouates, gel de silicone (collage, matelassage, soudage...).
 
 |
 
@@ -3774,8 +4084,6 @@ S2.4.2 Utilisation des bases de données
 
 |
 
-x
-
 |
 
 |
@@ -3784,7 +4092,7 @@ x
 
 |
 
-- Utilisation, enrichissement et création des bases de données (accessoires, fournitures, matériels, matériaux, produits et procédés, catalogue).
+L'utilisation, enrichissement et création des bases de données (accessoires, fournitures, matériels, matériaux, produits et procédés, catalogue).
 
 |
 
@@ -3822,8 +4130,6 @@ S2.5.1 Cotation et tolérancement normalisés
 
 |
 
-x
-
 |
 
 |
@@ -3832,23 +4138,7 @@ x
 
 |
 
-Définition du terme "spécification".
-
-|
-
-|
-
-x
-
-|
-
-|
-
-|
-
-|
-
-Spécification géométrique du produit : ensemble et sous-ensembles.
+L'interprétation des normes en vigueur.
 
 |
 
@@ -3864,23 +4154,7 @@ x
 
 |
 
-Normes.
-
-|
-
-|
-
-x
-
-|
-
-|
-
-|
-
-|
-
-Spécifications dimensionnelles, de forme, de position relative, d’orientation, éléments de référence.
+Les spécifications dimensionnelles, de forme, de position relative, d'orientation, éléments de référence.
 
 |
 
@@ -3910,23 +4184,7 @@ S2.5.2 Démarche de spécification
 
 |
 
-Formalisation des spécifications (caractéristiques) des produits, matériaux et composants.
-
-|
-
-x
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Identifier et formaliser les grades de qualité d’un sous-ensemble ou d’un produit.
+La désignation des produits, matériaux et composants.
 
 |
 
@@ -3940,9 +4198,25 @@ x
 
 |
 
-.
+|
 
-S3 – Matières et matériaux
+L'identification et formalisation des grades de qualité d'un sous-ensemble ou d'un produit.
+
+|
+
+|
+
+x
+
+|
+
+|
+
+|
+
+..
+
+S3 - Matières et matériaux
 
 |
 
@@ -3966,7 +4240,7 @@ S3.1
 
 |
 
-Typologie et techniques d’élaboration
+Typologie et techniques d'élaboration
 
 |
 
@@ -3980,23 +4254,7 @@ Typologie et techniques d’élaboration
 
 |
 
-Terminologie des matériaux.
-
-|
-
-|
-
-x
-
-|
-
-|
-
-|
-
-|
-
-Procédés d’élaboration (des fibres, des fils, des étoffes, des mailles, des non tissés, des renforts, des élastomères).
+La terminologie des matériaux.
 
 |
 
@@ -4012,7 +4270,7 @@ x
 
 |
 
-Procédés d’élaboration des cuirs (travail de rivière au finissage).
+Les procédés de transformation des matières (des fibres, des fils, des polymères, des peaux, ...).
 
 |
 
@@ -4028,7 +4286,23 @@ x
 
 |
 
-Étiquetage des produits, normalisation.
+Les procédés d'élaboration des matériaux (des mousses, des étoffes, des cuirs, des non-tissés, ...).
+
+|
+
+|
+
+x
+
+|
+
+|
+
+|
+
+|
+
+L'étiquetage des produits, normalisation.
 
 |
 
@@ -4060,7 +4334,7 @@ Caractéristiques, chimiques, physiques et mécaniques
 
 |
 
-Titrage des fils.
+Le titrage des fils (les deniers...).
 
 |
 
@@ -4076,7 +4350,7 @@ x
 
 |
 
-Texture des étoffes (chaîne et trame, non-tissé, maille).
+La texture des étoffes (chaîne et trame, non-tissé, maille).
 
 |
 
@@ -4092,7 +4366,7 @@ x
 
 |
 
-Les matériaux utilisés pour les renforts.
+Les propriétés physiques, chimiques et mécaniques des matériaux : confort, santé, protection, résistance, élasticité, etc...
 
 |
 
@@ -4108,7 +4382,7 @@ x
 
 |
 
-Terminologie descriptive des cuirs (partie creuse, cœur de peau, rondeur, prêtant...)
+Les propriétés mécaniques des parties de la "peau" (partie creuse, cœur de peau, rondeur, prêtant...).
 
 |
 
@@ -4124,25 +4398,7 @@ x
 
 |
 
-Qualité des parties de la peau.
-
-|
-
-|
-
-|
-
-x
-
-|
-
-|
-
-|
-
-Les unités de dimensionnement des matériaux (système métriques et système anglo saxon).
-
-|
+La densité et résilience de la mousse.
 
 |
 
@@ -4156,59 +4412,7 @@ x
 
 |
 
-Propriétés des cuirs, physiques et chimiques :
-
-Aspect, couleur, confort, santé, protection, etc...
-
-|
-
-x
-
-x
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Propriétés mécaniques :
-
-Notion de prêtant et de sens prêtant (comportement rhéologique).
-
-|
-
-|
-
-x
-
-|
-
-|
-
-|
-
-|
-
-Masse, masse volumique, densité.
-
-|
-
-|
-
-x
-
-|
-
-|
-
-|
-
-S4 – Industrialisation du produit
+S4 - Industrialisation du produit
 
 |
 
@@ -4238,7 +4442,7 @@ Organisation des procédures et des modes opératoires
 
 |
 
-Définition et principe d’élaboration d’une nomenclature.
+L'interprétation et le principe d'élaboration d'une nomenclature.
 
 |
 
@@ -4254,7 +4458,7 @@ x
 
 |
 
-Définitions des éléments d’une gamme.
+L'interprétation des éléments d'une gamme.
 
 |
 
@@ -4270,15 +4474,15 @@ x
 
 |
 
-Arborescence du produit (sous ensemble et composants). Utilisation de logiciels spécifiques (carte heuristique).
-
-|
+L'arborescence du produit (sous-ensemble et composants).
 
 |
 
 |
 
 x
+
+|
 
 |
 
@@ -4302,7 +4506,7 @@ x
 
 |
 
-Définition des conditions matérielles des postes.
+La définition des conditions d'utilisation des postes.
 
 |
 
@@ -4318,7 +4522,7 @@ x
 
 |
 
-Principe d’utilisation d’un logiciel adapté à la conception de fiches techniques et à l’exploitation de banques de données (tableur et/ou autre).
+Le principe d'utilisation de logiciels adaptés à la conception de fiches techniques et à l'exploitation de banques de données (tableur et/ou autres).
 
 |
 
@@ -4350,35 +4554,75 @@ La relation conception, industrialisation
 
 |
 
-S4.2.1 – Les procédés d’obtention des produits
+Les procédés d'obtention des éléments du produit en fonction :
 
-- Principes du procédé.
+- du procédé : matériau, géométrie, précision ;
 
-- Capabilité du procédé : matériau, géométrie, précision.
+- influence des propriétés du matériau ;
 
-- Influence des propriétés du matériau.
+- outillages associés ;
 
-- Outillages associés.
+- coût estimatif.
 
-- Coût estimatif.
+|
 
-Sur les procédés suivants :
+|
 
-- Assemblage par piquage et couture (tout type de point).
+|
 
-- Assemblage par collage.
+|
 
-- Assemblage par soudage.
+|
 
-- Assemblage par rivetage.
+|
 
-- Matelassage (CFAO et manuel).
+S4.2.1 - Sur les procédés amenant
 
-- Découpe (CFAO et manuel).
+|
 
-- Assemblage virtuel pour contrôle.
+|
 
-- Usinage.
+|
+
+|
+
+|
+
+|
+
+- de la découpe (CFAO et manuel).
+
+|
+
+|
+
+x
+
+|
+
+|
+
+|
+
+|
+
+- de l'assemblage.
+
+|
+
+|
+
+x
+
+|
+
+|
+
+|
+
+|
+
+- de l'usinage.
 
 |
 
@@ -4396,7 +4640,7 @@ S4.3
 
 |
 
-Procédés d’obtention des produits (fabrication)
+Procédés d'obtention des produits (fabrication)
 
 |
 
@@ -4410,7 +4654,21 @@ Procédés d’obtention des produits (fabrication)
 
 |
 
-S4.3.1 - Découpe des matériaux
+S4.3.1 - Les moyens et les techniques de coupe
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Les procédés de découpe (emporte-pièce, découpeur à lame, jet d'eau, tranchet).
 
 |
 
@@ -4419,22 +4677,6 @@ S4.3.1 - Découpe des matériaux
 |
 
 x
-
-|
-
-|
-
-|
-
-Ordre de coupe.
-
-|
-
-|
-
-x
-
-|
 
 |
 
@@ -4458,7 +4700,7 @@ x
 
 |
 
-Repérage et identification des défauts.
+Le repérage et identification des défauts.
 
 |
 
@@ -4474,7 +4716,7 @@ x
 
 |
 
-Classement (hiérarchisation) des pièces pour la découpe.
+Le classement (hiérarchisation) des pièces pour la découpe.
 
 |
 
@@ -4490,23 +4732,7 @@ x
 
 |
 
-Les procédés de découpe (emporte-pièce, découpeur à lame, jet d’eau, tranchet).
-
-|
-
-|
-
-x
-
-|
-
-|
-
-|
-
-|
-
-Techniques de placement et de coupe.
+Les techniques de placement et de coupe.
 
 |
 
@@ -4522,7 +4748,7 @@ x
 
 |
 
-Placement et découpe des matières homogènes.
+Les techniques d'optimisation de l'emploi matière - efficience.
 
 |
 
@@ -4538,7 +4764,21 @@ x
 
 |
 
-Placement et découpe des cuirs.
+S4.3.2 - Les moyens et techniques d'assemblage et de montage
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Procédés de liaisons par collage, soudage, piquage...
 
 |
 
@@ -4554,71 +4794,7 @@ x
 
 |
 
-Techniques d’optimisation de l’emploi matière – efficience.
-
-|
-
-|
-
-|
-
-x
-
-|
-
-|
-
-|
-
-Techniques de placement en CFAO.
-
-|
-
-|
-
-|
-
-x
-
-|
-
-|
-
-|
-
-S4.3.2 - Les moyens et techniques d’assemblage et de montage
-
-|
-
-|
-
-|
-
-x
-
-|
-
-|
-
-|
-
-Procédés techniques de liaisons par thermocollage, laminage, soudage, piquage.
-
-|
-
-|
-
-|
-
-x
-
-|
-
-|
-
-|
-
-Procédés techniques de mise en forme par préformage, pressage, mémoire de formes.
+Procédés de mise en forme par préformage, pressage, mémoire de formes.
 
 |
 
@@ -4642,6 +4818,52 @@ S4.3.3 - Les moyens et techniques de traitement et de finition
 
 |
 
+|
+
+|
+
+|
+
+Les techniques de préparation des éléments : refente, laminage, parage, biseautage, marquage, ponçage.
+
+|
+
+|
+
+|
+
+x
+
+|
+
+|
+
+|
+
+L'ajout d'éléments esthétiques et d'assemblages (bijouterie, accessoires...).
+
+|
+
+|
+
+|
+
+x
+
+|
+
+|
+
+|
+
+Les techniques de finition : teinture de tranche et de bichonnage...
+
+|
+
+|
+
+|
+
 x
 
 |
@@ -4658,6 +4880,20 @@ S4.3.4 - Les moyens et techniques de contrôle
 
 |
 
+|
+
+|
+
+|
+
+La fiche de consignes au poste.
+
+|
+
+|
+
+|
+
 x
 
 |
@@ -4666,31 +4902,15 @@ x
 
 |
 
-Fiche de consignes au poste.
+Les méthodes de mesurage et de contrôle.
+
+|
 
 |
 
 |
 
 x
-
-|
-
-|
-
-|
-
-|
-
-Typologie des méthodes de mesurage et de contrôle.
-
-|
-
-|
-
-x
-
-|
 
 |
 
@@ -4716,7 +4936,7 @@ Détermination des besoins en matières et composants
 
 Les unités utilisées pour quantifier les matières et les composants.
 
-Système métrique et anglo-saxon.
+La correspondance entre le système métrique et anglo-saxon.
 
 |
 
@@ -4732,7 +4952,7 @@ x
 
 |
 
-Les techniques de mesure des surfaces (centiplan, CAO, pesée, planimètre, centimétrique...).
+Les techniques de mesure des surfaces (centiplan, pesée, planimètre, ...) ou numériques.
 
 |
 
@@ -4748,7 +4968,7 @@ x
 
 |
 
-Détermination d’une surface pratique (utile) à partir d’une surface théorique (méthode des coefficients).
+La détermination d'une surface pratique (utile) à partir d'une surface théorique (méthode des coefficients).
 
 |
 
@@ -4764,7 +4984,7 @@ x
 
 |
 
-Estimation d’une surface pratique (utile) à partir d’un placement.
+L'estimation d'une surface pratique (utile) à partir d'un placement.
 
 |
 
@@ -4778,7 +4998,7 @@ x
 
 |
 
-S5 – Qualité et contrôle
+S5 - Qualité et contrôle
 
 |
 
@@ -4808,7 +5028,7 @@ La conformité du produit au regard des spécifications
 
 |
 
-Critère de qualité, tolérances.
+Le critère de qualité, les tolérances.
 
 |
 
@@ -4824,7 +5044,7 @@ x
 
 |
 
-Critère d’acceptation ou de refus.
+Le critère d'acceptation ou de refus.
 
 |
 
@@ -4840,7 +5060,7 @@ x
 
 |
 
-Méthodologie du contrôle.
+La méthodologie du contrôle.
 
 |
 
@@ -4854,7 +5074,7 @@ x
 
 |
 
-S6 – Système de production et maintenance.
+S6 - Système de production et maintenance.
 
 |
 
@@ -4870,7 +5090,7 @@ S6.1
 
 |
 
-Architecture des équipements de production
+Caractéristiques des équipements de production
 
 |
 
@@ -4884,7 +5104,39 @@ Architecture des équipements de production
 
 |
 
-Principes de fonctionnement des matériels et des systèmes de production.
+Les principes de fonctionnement des matériels et des systèmes de production.
+
+|
+
+x
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Les caractéristiques cinématiques des chaînes d'énergie (pneumatique, hydraulique, électrique).
+
+|
+
+x
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Les réglages des actionneurs.
 
 |
 
@@ -4900,25 +5152,7 @@ x
 
 |
 
-Caractéristiques cinématiques des chaînes d’énergie (pneumatique, hydraulique, électrique).
-
-|
-
-|
-
-x
-
-|
-
-|
-
-|
-
-|
-
-Réglages des actionneurs.
-
-|
+Les caractéristiques des chaînes d'information et de commande (programmation des systèmes de piquage).
 
 |
 
@@ -4932,29 +5166,15 @@ x
 
 |
 
-Caractéristiques des chaînes d’information et de commande (programmation des systèmes de piquage).
-
 |
 
-|
-
-x
-
-|
-
-|
-
-|
-
-|
-
-Technologie des systèmes de CFAO de coupe et de matelassage.
-
-|
+La technologie des systèmes de CFAO de coupe et de matelassage.
 
 |
 
 x
+
+|
 
 |
 
@@ -4980,7 +5200,7 @@ Maintenance préventive de premier niveau
 
 |
 
-Technique de maintenance de lier niveau.
+La technique de maintenance de 1er niveau.
 
 |
 
@@ -4996,7 +5216,7 @@ x
 
 |
 
-Méthode d’intervention préventive et corrective.
+La méthode d'intervention préventive et corrective.
 
 |
 
@@ -5014,7 +5234,7 @@ S6.3
 
 |
 
-Protection de l’environnement et risques industriels
+Protection de l'environnement et risques industriels
 
 |
 
@@ -5028,23 +5248,7 @@ Protection de l’environnement et risques industriels
 
 |
 
-Le développement durable.
-
-|
-
-x
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Concept, enjeux et valeurs fondamentales associées.
+Les règles de développement durable.
 
 |
 
@@ -5060,7 +5264,7 @@ x
 
 |
 
-Principes : précaution, prévention, responsabilisation.
+Les concepts, enjeux et valeurs fondamentales associées.
 
 |
 
@@ -5076,7 +5280,23 @@ x
 
 |
 
-Réglementations européenne et française.
+Les principes : précaution, prévention, responsabilisation.
+
+|
+
+x
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Les réglementations européenne et française.
 
 |
 
@@ -5120,23 +5340,7 @@ Outils à développer en phase de recherche de solutions
 
 |
 
-Figurine de mode en PAO.
-
-|
-
-|
-
-x
-
-|
-
-|
-
-|
-
-|
-
-Figurine technique en DAO et/ou PAO ; schémas, croquis en DAO.
+Le dessin d'un produit en PAO en DAO et/ou PAO ; schémas, croquis en DAO.
 
 |
 
@@ -5154,7 +5358,7 @@ S7.2
 
 |
 
-La représentation technique 2D de définition des produits
+La représentation des documents d'industrialisation du produit
 
 |
 
@@ -5168,7 +5372,7 @@ La représentation technique 2D de définition des produits
 
 |
 
-Les dessins techniques spécifiés de définition du produit en DAO.
+Les dessins d'ensemble du produit.
 
 |
 
@@ -5184,7 +5388,39 @@ x
 
 |
 
-Les documents techniques de définition des modes opératoires.
+Les dessins de définition des éléments du produit.
+
+|
+
+|
+
+x
+
+|
+
+|
+
+|
+
+|
+
+La nomenclature.
+
+|
+
+|
+
+x
+
+|
+
+|
+
+|
+
+|
+
+Les fiches d'optimisation de la production (modes opératoires, placement...).
 
 |
 
@@ -5202,7 +5438,7 @@ S7.3
 
 |
 
-L’utilisation des logiciels de représentation technique et des bases de données
+L'utilisation des logiciels de représentation technique et des bases de données
 
 |
 
@@ -5216,7 +5452,23 @@ L’utilisation des logiciels de représentation technique et des bases de donn�
 
 |
 
-Les logiciels professionnels de PAO et CAO-DAO tableur.
+Les logiciels professionnels de PAO et CAO-DAO équipé de :
+
+|
+
+|
+
+x
+
+|
+
+|
+
+|
+
+|
+
+Les bases de données morphologiques ou non.
 
 |
 
@@ -5294,7 +5546,7 @@ x
 
 |
 
-S8 – Sécurité et ergonomie
+S8 - Sécurité et ergonomie
 
 |
 
@@ -5324,7 +5576,7 @@ Les principes généraux
 
 |
 
-Facteurs de risques.
+Les facteurs de risques.
 
 |
 
@@ -5340,7 +5592,7 @@ x
 
 |
 
-Hiérarchie des mesures de protection.
+La hiérarchie des mesures de protection.
 
 |
 
@@ -5356,7 +5608,7 @@ x
 
 |
 
-Sécurité intégrée.
+La sécurité intégrée.
 
 |
 
@@ -5372,7 +5624,7 @@ x
 
 |
 
-Protections collective et individuelle.
+Les protections collective et individuelle.
 
 |
 
@@ -5404,13 +5656,13 @@ La conduite à tenir en cas d'accident
 
 |
 
-Les mesures d’urgence par rapport aux personnes et aux moyens.
+Les mesures d'urgence par rapport aux personnes et aux moyens.
+
+|
 
 |
 
 x
-
-|
 
 |
 
@@ -5422,7 +5674,7 @@ S8.3
 
 |
 
-L’organisation du poste de travail
+L'organisation du poste de travail
 
 |
 
@@ -5436,23 +5688,7 @@ L’organisation du poste de travail
 
 |
 
-Facteurs d’influence (causes de fatigue, dépenses énergétiques).
-
-|
-
-x
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Normes concernant la conception du poste de travail, des sièges et des équipements.
+Les facteurs d'influence (causes de fatigue, dépenses énergétiques).
 
 |
 
@@ -5468,7 +5704,7 @@ x
 
 |
 
-Mesures d’amélioration et de restructuration des conditions de travail.
+Les normes concernant la conception du poste de travail, des sièges et des équipements.
 
 |
 
@@ -5482,7 +5718,23 @@ x
 
 |
 
-S9 – Arts appliqués
+|
+
+Les mesures d'amélioration et de restructuration des conditions de travail.
+
+|
+
+x
+
+|
+
+|
+
+|
+
+|
+
+S9 - Arts appliqués
 
 |
 
@@ -5514,67 +5766,71 @@ Culture artistique
 
 S9.11 Culture artistique, histoire des accessoires de la mode et de leur environnement
 
-Les objets d’étude seront traités au travers de thématiques à choisir dans la liste ci-dessous.
+Les objets d'étude seront traités au travers de thématiques à choisir dans la liste ci-dessous.
 
-Les thématiques balaient l’ensemble des périodes historiques et s’élargissent à l’international.
+Les thématiques balaient l'ensemble des périodes historiques et s'élargissent à l'international.
 
 Mode et culture :
 
-- Mode en miroir : les résurgences historiques, les métissages géographiques.
+- la mode en miroir - les résurgences historiques, les métissages géographiques ;
 
-- Art et mode : les avant gardes, le patrimoine.
+- l'art et mode - les avant gardes, le patrimoine ;
 
-- Insignes du luxe.
+- les insignes du luxe ;
 
-- Mode en spectacle : théâtre, cinéma, défilés...
+- la mode en spectacle - théâtre, cinéma, défilés...
 
 Mode au féminin, au masculin, au masculin/féminin :
 
-- Oscillations entre liberté et contraintes, modelage du corps.
+- les oscillations entre liberté et contraintes, modelage du corps ;
 
--Extravagances et excentricités.
+-les extravagances et excentricités ;
 
-- Mode et séduction : analogies et différences selon l’origine historique ou géographique.
+- la mode et séduction - analogies et différences selon l'origine historique ou géographique ;
 
-- Emprunts, échanges, brouillage des genres : l’évolution des vestiaires (vêtements et accessoires).
+- les emprunts, échanges, brouillage des genres : l'évolution des vestiaires (vêtements et accessoires).
 
 Mode et société :
 
-- Rayonnement de la culture de la Renaissance.
+- le rayonnement de la culture de la Renaissance ;
 
-- Influence de la philosophie des Lumières.
+- l'influence de la philosophie des Lumières ;
 
-- Ruptures révolutionnaires.
+- les ruptures révolutionnaires ;
 
-- Société des loisirs : sport, voyages, cérémonies, soirées, fêtes.
+- la société des loisirs - sport, voyages, cérémonies, soirées, fêtes ;
+
+- les moyens de transport et de locomotion.
 
 Focalisations :
 
-- Nouveaux matériaux, matières traditionnelles.
+- les nouveaux matériaux, matières traditionnelles ;
 
-- Artisanat d’art : broderie, bijouterie-joaillerie, sellerie, maroquinerie...
+- l'artisanat d'art - broderie, bijouterie-joaillerie, sellerie, maroquinerie ;
 
-- Ornement, motif, imprimé.
+- les ornements, motifs, imprimés ;
 
-- Accessoires : chaussures, sacs, ceintures...
+- les accessoires : chaussures, sacs, ceintures.
 
-S9.12 L’influence des contextes culturels, stylistiques et sociaux économiques
+S9.12 L'influence des contextes culturels, stylistiques et sociaux économiques
 
 Les concepts de mode :
 
-- Expression d’une tendance de mode, d’un milieu, groupes de référence groupes d’appartenance.
+- l'expression d'une tendance de mode, d'un milieu, groupes de référence groupes d'appartenance ;
 
-- Signes relatifs à l’image et à l’identification du produit (sociale, culturelle et esthétique).
+- les signes relatifs à l'image et à l'identification du produit (sociale, culturelle et esthétique) ;
 
-- Innovation, R&D, éco-conception.
+- l'innovation, R&D, éco-conception.
 
 Les types de produits :
 
-- Gammes : Luxe, bottier, créateurs, grande distribution, griffes mondialisées, etc...
+- les gammes : Luxe, bottier, créateurs, concepteurs, grande distribution, griffes mondialisées, etc... ;
 
-- Lignes : Homme, Femme, Enfant, Animal.
+- les lignes : Homme, Femme, Enfant, Animal ;
 
-- Genres : sportswear, streetwear, soirée, spectacle, personnalisation, vêtement de protection, etc.
+- les genres : sportswear, streetwear, soirée, spectacle, personnalisation, vêtement de protection, etc... ;
+
+- les secteurs : luxe, restauration, automobile, nautisme, aéronautique, loisirs.
 
 |
 
@@ -5592,7 +5848,7 @@ S9.2
 
 |
 
-Moyens de traduction et d’expression liés aux modifications du produit et à la réalisation
+Moyens de traduction et d'expression liés aux modifications du prototype et à la réalisation du produit
 
 |
 
@@ -5606,33 +5862,13 @@ Moyens de traduction et d’expression liés aux modifications du produit et à 
 
 |
 
-S9.21 Les moyens graphiques, chromatiques et volumiques
+S9.21 Les moyens graphiques, chromatiques et volumiques :
 
-- Constituants plastiques : ligne, forme, valeur, volume, couleur, matière et matériaux.
+- les constituants plastiques : ligne, forme, valeur, volume, couleur, matière et matériaux ;
 
-- Composition, organisation spatiale des éléments plastiques.
+- la composition, organisation spatiale des éléments plastiques ;
 
-- Le corps humain : proportions, directions, caractère, mouvement, notions de morphologie.
-
-|
-
-|
-
-|
-
-x
-
-|
-
-|
-
-|
-
-S9.22 Les moyens de représentation
-
-- Outils, supports, formats et leur interdépendance.
-
-- Croquis, dessin, maquette, prototypage, photographie, photomontage. infographie (logiciels de retouche d’image, de dessin vectoriel).
+- le corps humain : proportions, directions, caractère, mouvement, notions de morphologie.
 
 |
 
@@ -5648,15 +5884,35 @@ x
 
 |
 
-S9.23 Les modes de représentation
+S9.22 Les moyens de représentation :
 
-- Prise de notes écrites, graphiques et chromatiques.
+- les outils, supports, formats et leur interdépendance ;
 
-- Traduction graphique, colorée et volumique d’un modèle ou d’une proposition.
+- les croquis, dessin, maquette, prototypage, photographie, photomontage, infographie (logiciels de retouche d'image, de dessin vectoriel).
 
-- Expression des formes, des matières et des textures, relation du corps au produit.
+|
 
-- Traduction descriptive, sensible ou expressive d’une intention.
+|
+
+x
+
+|
+
+|
+
+|
+
+|
+
+S9.23 Les modes de représentation :
+
+- la prise de notes écrites, graphiques et chromatiques ;
+
+- la traduction graphique, colorée et volumique d'un modèle ou d'une proposition ;
+
+- l'expression des formes, des matières et des textures, relation du corps au produit ;
+
+- la traduction descriptive, sensible ou expressive d'une intention.
 
 |
 
