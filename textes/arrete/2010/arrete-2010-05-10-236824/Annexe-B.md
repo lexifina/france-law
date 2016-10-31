@@ -1,6 +1,6 @@
 # Article Annexe B
 
-EXCEPTIONS À L'OBLIGATION DE VISA VISÉES À L'ARTICLE 3 POUR LES RESSORTISSANTS DES PAYS OU ENTITÉS INSCRITS À L'ANNEXE II AU RÈGLEMENT (CE) N° 539/2001
+EXCEPTIONS À L'OBLIGATION DE VISA VISÉES À L'ARTICLE 3 POUR LES RESSORTISSANTS DES PAYS OU ENTITÉS INSCRITS À L'ANNEXE I AU RÈGLEMENT (CE) N° 539/2001
 
 1. Liste des pays ou des entités territoriales dont les titulaires de passeport diplomatique, d'un passeport de service ou autre passeport officiel sont dispensés de visa pour entrer sur le territoire européen de la France afin d'y effectuer un séjour dont la durée n'excède pas trois mois au titre de l'exception prévue au a du premier paragraphe de l'article 4 du règlement (CE) n° 539/2001 :
 
@@ -24,7 +24,15 @@ Algérie
 
 |
 
-Dispense s'appliquant seulement aux titulaires d'un passeport diplomatique.
+Dispense s'appliquant seulement aux titulaires d'un passeport diplomatique ou de service.
+
+|
+
+Angola
+
+|
+
+Dispense de visa s'appliquant seulement aux titulaires d'un passeport diplomatique ou de service.
 
 |
 
@@ -32,7 +40,7 @@ Arabie saoudite
 
 |
 
-Dispense s'appliquant seulement aux titulaires d'un passeport diplomatique.
+Dispense s'appliquant seulement aux titulaires d'un passeport diplomatique ou spécial.
 
 |
 
@@ -40,7 +48,15 @@ Arménie
 
 |
 
-Dispense s'appliquant seulement aux titulaires d'un passeport diplomatique
+Dispense s'appliquant seulement aux titulaires d'un passeport diplomatique.
+
+|
+
+Azerbaïdjan
+
+|
+
+Dispense s'appliquant seulement aux titulaires d'un passeport diplomatique.
 
 |
 
@@ -52,33 +68,23 @@ Dispense s'appliquant seulement aux titulaires d'un passeport diplomatique ou sp
 
 |
 
+Bénin
+
+|
+
+Dispense s'appliquant seulement aux titulaires d'un passeport diplomatique sécurisé.
+
+|
+
 Bolivie
 
 |
 
-Dispense s'appliquant seulement aux titulaires d'un passeport diplomatique ou officiel.
+Dispense s'appliquant seulement aux titulaires d'un passeport diplomatique, officiel ou de service.
 
 |
 
-Colombie
-
-|
-
-Dispense de visa s'appliquant seulement aux titulaires d'un passeport diplomatique ou de service.
-
-|
-
-Congo (Brazzaville)
-
-|
-
-Dispense de visa s'appliquant jusqu'au 31 juillet 2011 seulement aux titulaires d'un passeport diplomatique sécurisé.
-
-|
-
-République
-
-dominicaine
+Cap-Vert
 
 |
 
@@ -86,11 +92,27 @@ Dispense de visa s'appliquant seulement aux titulaires d'un passeport diplomatiq
 
 |
 
-Emirats arabes unis
+Chine
 
 |
 
-Dispense de visa s'appliquant seulement aux titulaires d'un passeport diplomatique ou spécial.
+Dispense de visa s'appliquant seulement aux titulaires d'un passeport diplomatique.
+
+|
+
+Congo (République du) (Brazzaville)
+
+|
+
+Dispense de visa s'appliquant jusqu'au 30 octobre 2016 seulement aux titulaires d'un passeport diplomatique sécurisé.
+
+|
+
+Dominicaine (République)
+
+|
+
+Dispense de visa s'appliquant seulement aux titulaires d'un passeport diplomatique ou de service.
 
 |
 
@@ -103,6 +125,38 @@ Dispense de visa s'appliquant seulement aux titulaires d'un passeport diplomatiq
 |
 
 Gabon
+
+|
+
+Dispense de visa s'appliquant seulement aux titulaires d'un passeport diplomatique ou de service.
+
+|
+
+Géorgie
+
+|
+
+Dispense de visa s'appliquant seulement aux titulaires d'un passeport diplomatique.
+
+|
+
+Inde
+
+|
+
+Dispense de visa s'appliquant seulement aux titulaires d'un passeport diplomatique.
+
+|
+
+Indonésie
+
+|
+
+Dispense de visa s'appliquant seulement aux titulaires d'un passeport diplomatique ou de service.
+
+|
+
+Jordanie
 
 |
 
@@ -130,11 +184,11 @@ Maroc
 
 |
 
-Dispense de visa s'appliquant seulement aux titulaires d'un passeport diplomatique.
+Dispense de visa s'appliquant seulement aux titulaires d'un passeport diplomatique ou de service.
 
 |
 
-Moldavie
+Mongolie
 
 |
 
@@ -154,15 +208,7 @@ Oman
 
 |
 
-Dispense de visa s'appliquant seulement aux titulaires d'un passeport diplomatique ou spécial.
-
-|
-
-Pérou
-
-|
-
-Dispense de visa s'appliquant seulement aux titulaires d'un passeport diplomatique ou spécial.
+Dispense de visa s'appliquant seulement aux titulaires d'un passeport diplomatique, spécial ou de service.
 
 |
 
@@ -190,6 +236,14 @@ Dispense de visa s'appliquant seulement aux titulaires d'un passeport diplomatiq
 
 |
 
+Thaïlande
+
+|
+
+Dispense de visa s'appliquant seulement aux titulaires d'un passeport diplomatique.
+
+|
+
 Tunisie
 
 |
@@ -210,7 +264,7 @@ Ukraine
 
 |
 
-Dispense de visa s'appliquant seulement aux titulaires d'un passeport diplomatique.
+Dispense de visa s'appliquant seulement aux titulaires d'un passeport diplomatique ou de service biométrique.
 
 |
 
@@ -218,9 +272,7 @@ Vietnam
 
 |
 
-Dispense de visa s'appliquant seulement aux titulaires d'un passeport diplomatique.
-
-|
+Dispense de visa s'appliquant seulement aux titulaires d'un passeport diplomatique. |
 
 2. Liste des étrangers membres d'équipage civil des avions et navires dispensés de visa pour entrer sur le territoire européen de la France afin d'y effectuer un séjour dont la durée n'excède par 3 mois au titre de l'exception prévue au b du premier paragraphe de l'article 4 du règlement (CE) n° 539/2001.
 

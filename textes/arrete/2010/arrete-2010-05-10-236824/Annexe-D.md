@@ -16,7 +16,7 @@ PAYS OU ENTITÉ
 
 |
 
-Angola
+Cameroun
 
 |
 
@@ -24,7 +24,7 @@ L'obligation de visa s'applique seulement aux titulaires d'un passeport ordinair
 
 |
 
-Cameroun
+Centrafrique
 
 |
 
@@ -104,6 +104,14 @@ L'obligation de visa s'applique seulement aux titulaires d'un passeport ordinair
 
 |
 
+Philippines
+
+|
+
+L'obligation de visa s'applique seulement aux titulaires d'un passeport ordinaire.
+
+|
+
 Russie
 
 |
@@ -113,6 +121,14 @@ Disposition s'appliquant seulement aux ressortissants russes titulaires d'un pas
 |
 
 Sénégal
+
+|
+
+L'obligation de visa s'applique seulement aux titulaires d'un passeport ordinaire.
+
+|
+
+Sierra Leone
 
 |
 
@@ -145,14 +161,6 @@ L'obligation de visa s'applique seulement aux titulaires d'un passeport ordinair
 |
 
 Tchad
-
-|
-
-L'obligation de visa s'applique seulement aux titulaires d'un passeport ordinaire.
-
-|
-
-Togo
 
 |
 
