@@ -1,0 +1,9 @@
+# Réponse à la question n° 87122
+
+- Question : [87122](87122.md) — Question n° 87122 — décrets; bilan
+
+## Réponse
+
+*JO du 2016-11-01*
+
+Les modalités d'application de l'audit énergétique des grandes entreprises prévoyaient l'établissement du premier audit ou de la certification de système de management de l'énergie au plus tard le 5 décembre 2015, conformément à l'échéance fixée au niveau européen par la directive 2012/27/UE relative à l'efficacité énergétique. Cette nouvelle obligation a entraîné une forte demande vis-à-vis des auditeurs qualifiés et certificateurs accrédités, dont les plans de charge ont été saturés. Afin de garantir la qualité des audits énergétiques réalisés et des systèmes de management de l'énergie mis en place, un délai supplémentaire a été octroyé pour transmettre les justificatifs de réalisation de l'audit ou de certification du système de management de l'énergie, dès lors que ces démarches avaient été effectivement engagées avant le 5 décembre 2015. Depuis mars 2016 la transmission des justificatifs s'effectue grâce à la plateforme informatique hébergée à l'adresse internet suivante : audit-energie.ademe.fr. Actuellement, 4 000 entreprises sont déclarées sur cette plateforme et plus de 2 300 ont achevé le dépôt de leur dossier. Après un pic de dépôt de justificatifs très important constaté en juin (400 à 500 entreprises enregistrées par semaine), en raison de l'approche de l'échéance butoir et d'une première relance réalisée par les directions régionales de l'environnement, de l'aménagement et du logement en lien avec la direction générale de l'énergie et du climat, le flux est actuellement de 100 entreprises enregistrées par semaine. Un bilan complet sera établi à partir de novembre 2016, et sera repris dans le plan national d'actions en matière d'efficacité énergétique à transmettre à la Commission européenne avant le 30 avril 2017.
