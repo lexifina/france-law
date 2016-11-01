@@ -1,0 +1,9 @@
+# Réponse à la question n° 76429
+
+- Question : [76429](76429.md) — Question n° 76429 — partenariats publics-privés; Cour des comptes; rapport; recommandations
+
+## Réponse
+
+*JO du 2016-11-01*
+
+Dans son rapport, Les partenariats public-privé des collectivités territoriales : des risques à maîtriser, du 11 février 2015, la Cour des comptes formule plusieurs recommandations à destination des collectivités locales et de l'Etat. Elle propose notamment de « modifier les normes comptables en vue de rendre obligatoire, lorsqu'une collectivité a confié à un tiers (SEM, EPCC, etc.) le portage ou l'exécution d'un contrat de partenariat qu'elle a préalablement conclu, de faire figurer hors bilan les engagements financiers qui en résultent pour elle ». En application de l'article L. 1414-1 du code général des collectivités territoriales (CGCT), seules les collectivités territoriales ou leurs établissements publics peuvent porter un contrat de partenariat. Les sociétés d'économie mixte locales, qui ne sont pas des établissements publics, ne peuvent donc pas porter de tels contrats. Au demeurant la recommandation de la Cour qui ne vise que les collectivités territoriales et leurs établissements publics, participe de la transparence financière et va dans le sens de la réflexion et des travaux engagés pour la fiabilité et la certification des comptes des collectivités territoriales. La loi de modernisation de l'action publique territoriale et d'affirmation des métropoles du 27 janvier 2014 a introduit une disposition propre à intégrer les contrats publics-privés. Désormais, le débat d'orientation budgétaire des collectivités locales portera notamment sur l'évolution et les caractéristiques de leur endettement. L'endettement implicite des partenariats publics-privés entre dans les champs d'application de ces dispositions codifiées aux articles L. 2312-1, L. 3312-1 et L.4312-1 du CGCT.
