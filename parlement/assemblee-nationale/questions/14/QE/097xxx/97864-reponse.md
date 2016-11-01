@@ -1,0 +1,9 @@
+# Réponse à la question n° 97864
+
+- Question : [97864](97864.md) — Question n° 97864 — rémunérations; revendications
+
+## Réponse
+
+*JO du 2016-11-01*
+
+La ministre des affaires sociales et de la santé a lancé début 2016 un plan pour renforcer l'attractivité de l'exercice hospitalier pour l'ensemble de la filière rééducation. Ce plan concernera les orthophonistes, bien sûr, mais également les masseurs-kinésithérapeutes, les psychomotriciens, les ergothérapeutes ou les pédicures-podologues. Il vise à favoriser l'engagement hospitalier des professionnels, en ciblant les services où leur intervention est indispensable pour garantir la qualité des prises en charge. Au regard des caractéristiques de la profession d'orthophoniste, la ministre a décidé de rendre possible l'exercice à temps partiel en établissement de santé, afin de permettre à ceux qui le souhaitent de pratiquer une activité mixte associant le libéral et le salariat. S'agissant, enfin, de la rémunération des orthophonistes en établissement de santé, la rémunération de tous les fonctionnaires est fondée sur des grilles indiciaires qui ne sont pas construites par métier, mais par niveau de responsabilité et d'autonomie. La ministre rappelle en outre que, pour la première fois depuis 2010, le point d'indice a été augmenté en 2016 et le sera encore une fois au début de l'année 2017. Le protocole « parcours professionnel, carrières et rémunération », engagé en septembre 2015 par le Gouvernement, va permettre une évolution indiciaire de tous les corps de la fonction publique échelonnée de 2016 à 2022. Enfin, la ministre a également décidé de compléter ces mesures générales pour la filière rééducation de la fonction publique hospitalière. Très prochainement, un calendrier ainsi que des modalités d'évolution de leur grille indiciaire seront annoncés.
