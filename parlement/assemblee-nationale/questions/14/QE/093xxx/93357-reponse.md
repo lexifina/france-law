@@ -1,0 +1,9 @@
+# Réponse à la question n° 93357
+
+- Question : [93357](93357.md) — Question n° 93357 — sacs et emballages plastiques; suppression; réglementation
+
+## Réponse
+
+*JO du 2016-11-01*
+
+17 milliards de sacs plastiques à usage unique ont été consommés en France en 2014. Dans leur grande majorité, ces sacs sont importés d'Asie, seule une fraction est produite dans des filières industrielles françaises. Les enjeux environnementaux en matière d'impacts sur les milieux et la biodiversité, notamment pour le milieu marin, justifient que des actions soient mises en œuvre rapidement visant à une réduction significative de la consommation des sacs plastique. Ces impacts sont directs par l'abandon des sacs ou indirects par les conséquences de leur production (consommation des ressources et d'énergie) et le transport lié à l'importation d'une part importante des sacs utilisés en Europe. C'est pourquoi la loi sur la transition énergétique pour la croissance verte a prévu l'interdiction des sacs de caisse plastiques à usage unique et le remplacement des sacs en polyéthylène utilisés pour emballer les denrées alimentaires par des sacs composés de matières végétales compostables. Cette disposition s'applique, selon les termes de la loi et du décret, aux sacs fournis aux consommateurs dans les points de vente de marchandises ou de produits. L'interdiction d'emballer les marchandises par des sacs en matière plastique à usage unique ne s'applique donc pas formellement dans le cas des ventes à distance. Toutefois, dans un objectif de protection de l'environnement, il est fortement conseillé de limiter l'utilisation de sacs aux cas absolument indispensables, et d'utiliser des sacs réutilisables (c'est à dire d'une épaisseur de plus de 50 µm), ou à défaut des sacs à usage unique mais biosourcés et compostables en compostage domestique.
