@@ -1,0 +1,9 @@
+# Réponse à la question n° 97416
+
+- Question : [97416](97416.md) — Question n° 97416 — maladies vectorielles; lutte et prévention
+
+## Réponse
+
+*JO du 2016-11-01*
+
+Le virus Zika représente une sérieuse menace pour les femmes enceintes car il peut provoquer des anomalies congénitales graves. Chez les adultes, il peut, rarement, provoquer le syndrome de Guillain-Barré, ou d'autres atteintes neurologiques. Mais dans la plupart des cas, les symptômes d'une infection à virus Zika sont bénins et passent inaperçus. Au 1er octobre 2016, près de 80 000 cas cliniquement confirmés ont été dénombrés dans les Antilles-Guyane. Parmi ceux–ci, 60 patients ont été atteints de syndrome de Guillain Barré et 22 de formes neurologiques sévères. Ils ont été pris en charge dans les structures sanitaires. A ce jour, on ne déplore que 2 décès imputables au virus Zika. L'INSERM, l'Institut Pasteur, AVIESAN et d'autres centres de recherche français se sont rapidement mobilisés pour déterminer quelles pourraient être les pistes de recherche autour de ce virus, de la maladie et de son vecteur, et quelles actions pourraient être entreprises par les équipes françaises. Des programmes de recherche clinique ont ainsi été lancés très tôt sur des cohortes de femmes enceintes et d'enfants nés pendant l'épidémie, en lien avec les établissements de santé locaux et sous l'impulsion du ministère de la santé, afin d'améliorer les connaissances sur le virus. Les instituts de recherche français pilotent également un projet de recherche européen, déployé en plusieurs travaux à l'international. Par ailleurs plusieurs équipes internationales font des recherches pour développer un candidat vaccin contre le virus Zika. Ainsi, la branche vaccins du groupe Sanofi Pasteur a annoncé récemment un partenariat avec un institut de l'armée américaine après des essais précliniques encourageants d'un produit de cet institut.
