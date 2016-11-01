@@ -1,0 +1,9 @@
+# Réponse à la question n° 82231
+
+- Question : [82231](82231.md) — Question n° 82231 — résolution; ONU; droit des femmes; application
+
+## Réponse
+
+*JO du 2016-11-01*
+
+La France est très engagée dans la mise en œuvre des résolutions 1325-2000 et suivantes sur l'agenda "Femmes, paix et sécurité". Les Etats ont la responsabilité d'assurer une participation plus active des femmes dans les processus politiques, les négociations de paix et les mécanismes de résolution et de prévention des conflits. L'association des organisations de défense des droits des femmes aux discussions politiques doit leur permettre non seulement de faire entendre leur voix, mais aussi de contribuer aux décisions. Les Etats et les Nations unies doivent également nommer davantage de femmes à des postes clés, y compris relatifs à la prévention ou à la résolution de conflits. La France est mobilisée pour promouvoir l'agenda "Femmes, paix et sécurité"à titre national et international. Au niveau national, elle a pour objectif d'accroître la visibilité du plan national d'action (2015-2018), adopté le 4 mars 2015. Au plan international, la France poursuit ses efforts au Conseil de sécurité pour que les dispositions des résolutions"Femmes, Paix et Sécurité" soient bien présentes dans les mandats des opérations de maintien de la paix comme pour la MONUSCO, la MINUSMA et la MINUSCA. La France attache la plus grande importance au respect du droit international humanitaire et sa position à ce sujet est constante : le droit international humanitaire doit être respecté en tout lieu, en toute circonstance et par toutes les parties au différend israélo-palestinien. La stabilité sur le long-terme et la sécurité ne peuvent donc être assurés que si les droits des femmes sont pleinement respectés et si les femmes jouent un rôle à part entière dans le processus de règlement du conflit.
