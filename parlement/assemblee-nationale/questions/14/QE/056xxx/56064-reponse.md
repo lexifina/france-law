@@ -1,0 +1,9 @@
+# Réponse à la question n° 56064
+
+- Question : [56064](56064.md) — Question n° 56064 — utilisation des LED; impact écologique; bilan
+
+## Réponse
+
+*JO du 2016-11-01*
+
+La loi relative à la transition énergétique pour la croissance verte du 17 août 2015 prévoit une division par deux des consommations d'énergie à l'horizon 2050. Les technologies matures d'économie d'énergie telles que les LEDS, pour l'éclairage y contribuent. Les lampes à base de LED, de même que les lampes dites « basse consommation », prennent effectivement une place croissante sur le marché de l'éclairage, aux dépens des lampes à incandescence, qui sont beaucoup plus énergivores. Cette évolution résulte pour une large part de la décision prise par l'Union européenne en 2008 de favoriser le développement de solutions d'éclairage plus économes en énergie, en imposant un retrait progressif entre 2009 et 2012 des lampes à incandescence traditionnelles. Les lampes à LED rendent possibles des gains d'efficacité énergétiques élevés tout en faisant moins appel à des métaux rares que les autres lampes, à incandescence ou « basse consommation ». Par ailleurs, alors que les LED concentrent dans une direction donnée l'énergie lumineuse qu'elles émettent (contrairement aux lampes à incandescence qui la diffusent dans toutes les directions), les conditions réelles d'utilisation, pour l'éclairage domestique notamment, font que le risque d'éblouissement est en pratique très faible. En effet, les lampes LED sont soit intégrées dans des luminaires empêchant la vision directe, soit mises en oeuvre en interposant un dispositif optique limitant la luminance aux valeurs habituelles des éclairages traditionnels. Les pouvoirs publics, par l'intermédiaire de leurs services et agences spécialisés, surveillent en permanence le marché afin de s'assurer que les produits à usage domestique, comme les équipements d'éclairage à base de LED, soient sans danger.
