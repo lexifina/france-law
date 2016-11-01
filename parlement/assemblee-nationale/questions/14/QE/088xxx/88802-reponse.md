@@ -1,0 +1,9 @@
+# Réponse à la question n° 88802
+
+- Question : [88802](88802.md) — Question n° 88802 — Cour des comptes; rapport; recommandations
+
+## Réponse
+
+*JO du 2016-11-01*
+
+Les recommandations de la Cour des comptes dont il est fait état dans la question sont reprises, pour partie, dans le rapport de M. Philippe Laurent sur le temps de travail des agents publics. Le rapport a été remis à la ministre de la fonction publique le 26 mai 2016. Il s'applique à objectiver la notion complexe de temps de travail, partager en toute transparence un état des lieux pour chaque versant de la fonction publique et procéder à une première évaluation du temps de travail depuis la mise en place des 35 heures dans la fonction publique. Le rapport de M. Laurent comporte 34 préconisations concernant les outils statistiques à développer afin d'objectiver et mesurer les données relatives au temps de travail, les mesures liées à la pratique managériale des employeurs et la nécessité d'une stricte observance de la réglementation, enfin, les mesures impactant directement les règles de gestion actuelles. Parmi celles-ci figurent les régimes de temps de travail dérogatoires aux 1 607 heures annuelles et la question de la sur-rémunération des temps partiels. La ministre a décidé la mise en place de groupes de travail, l'un avec les employeurs, l'autre avec les organisations syndicales afin d'étudier chacune de ces 34 préconisations. Les décisions seront arrêtées à l‘issue de cette phase, essentielle, de concertation. Concernant la modification des pratiques d'avancement individuel, il est à noter que la loi de finances pour 2016 a mis fin aux dispositifs d'avancement accéléré d'échelon, notamment à celui de la carrière minimale dans la fonction publique territoriale, comme l'avait prévu le protocole sur les parcours professionnels, les carrières et les rémunérations (protocole dit PPCR).
