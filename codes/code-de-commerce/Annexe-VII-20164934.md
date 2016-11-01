@@ -34,9 +34,7 @@ Copie de la carte nationale d'identité ou du passeport en cours de validité.
 
 1.2.1.2.1.3.2. Personne résidant en France :
 
-― copie d'un titre de séjour en cours de validité ;
-
-― ou copie de la carte de résident.
+― Pièces prescrites par la rubrique 1.1.3.2 de l'annexe I.
 
 1.2.2. Personnes morales.
 
@@ -66,15 +64,11 @@ Copie de la carte nationale d'identité ou du passeport en cours de validité.
 
 1.3.2.1.3.1. Personnes ne résidant pas en France.
 
-― copie de la carte nationale d'identité ou du passeport en cours de validité ;
+Copie de la carte nationale d'identité ou du passeport en cours de validité.
 
-― récépissé du dépôt de déclaration préalable délivré par la préfecture du lieu d'exercice de l'activité.
+1.3.2.1.3.2. Personne résidant en France :
 
-1.3.2.1.3.2. Personnes résidant en France.
-
-― copie du titre ou récépissé du titre de séjour portant mention de l'activité commerciale, industrielle ou artisanale autorisée, du titre de séjour vie privée et familiale ou de la carte de séjour portant la mention compétences et talents ;
-
-― ou copie de la carte de résident.
+Pièces prescrites par la rubrique 1.1.3.2 de l'annexe I.
 
 1.3.2.2. Personnes morales :
 

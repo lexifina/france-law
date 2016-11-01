@@ -48,15 +48,11 @@ Le cas échéant, copie du récépissé de dépôt des actes constitutifs de la 
 
 ― copie de la carte nationale d'identité ou du passeport en cours de validité ;
 
-― récépissé du dépôt de déclaration préalable délivré par la préfecture du lieu d'exercice de l'activité (uniquement pour les sociétés commerciales et/ ou artisanales) ;
-
-― attestation sur l'honneur, sur papier libre, relative à l'absence de condamnation ou de sanction civile ou administrative de nature à interdire l'exercice d'une activité commerciale, faisant apparaître la filiation.
+― récépissé du dépôt de déclaration préalable délivré par la préfecture du lieu d'exercice de l'activité (uniquement pour les sociétés commerciales et/ ou artisanales).
 
 1.2.1.3.3.2. Personne résidant en France :
 
-― copie du titre ou récépissé du titre de séjour portant mention de l'activité commerciale, industrielle ou artisanale autorisée, du titre de séjour vie privée et familiale ou de la carte de séjour portant la mention compétences et talents ;
-
-― ou copie de la carte de résident ; pour une société civile, tout document justifiant de l'identité du déclarant ;
+― pièces prescrites par la rubrique 1.1.3.2 de l'annexe I ; pour une société civile, tout document justifiant de l'identité du déclarant ;
 
 ― attestation sur l'honneur, sur papier libre, relative à l'absence de condamnation ou de sanction civile ou administrative de nature à interdire l'exercice d'une activité commerciale, faisant apparaître la filiation.
 
@@ -94,15 +90,11 @@ Pour les personnes relevant de la législation d'un Etat non membre de la Commun
 
 ― copie de la carte nationale d'identité ou du passeport en cours de validité ;
 
-― récépissé du dépôt de déclaration préalable délivré par la préfecture du lieu d'exercice de l'activité (uniquement pour les activités commerciales, industrielles ou artisanales) ;
-
-― attestation sur l'honneur, sur papier libre, relative à l'absence de condamnation ou de sanction civile ou administrative de nature à interdire l'exercice d'une activité commerciale, faisant apparaître la filiation.
+― récépissé du dépôt de déclaration préalable délivré par la préfecture du lieu d'exercice de l'activité (uniquement pour les activités commerciales, industrielles ou artisanales).
 
 1.2.4.3.2. Personne résidant en France :
 
-― copie du titre ou récépissé du titre de séjour portant mention de l'activité commerciale, industrielle ou artisanale autorisée, du titre de séjour vie privée et familiale ou de la carte de séjour portant la mention compétences et talents ;
-
-― ou copie de la carte de résident ; pour une société civile dont les associés sont indéfiniment et solidairement responsables, tout document justifiant de l'identité du déclarant ;
+― pièces prescrites par la rubrique 1.1.3.2 de l'annexe I ; pour une société civile dont les associés sont indéfiniment et solidairement responsables, tout document justifiant de l'identité du déclarant ;
 
 ― attestation sur l'honneur, sur papier libre, relative à l'absence de condamnation ou de sanction civile ou administrative de nature à interdire l'exercice d'une activité commerciale, faisant apparaître la filiation.
 
@@ -120,7 +112,7 @@ Pour les personnes relevant de la législation d'un Etat non membre de la Commun
 
 ― copie de la carte nationale d'identité ou du passeport en cours de validité ;
 
-― le cas échéant, pour un étranger, le titre de séjour en cours de validité ;
+― le cas échéant, pour un étranger, les pièces prescrites par la rubrique 1.1.3.2. de l'annexe I ;
 
 ― attestation sur l'honneur, sur papier libre, relative à l'absence de condamnation ou de sanction civile ou administrative de nature à interdire l'exercice d'une activité commerciale, faisant apparaître la filiation.
 
