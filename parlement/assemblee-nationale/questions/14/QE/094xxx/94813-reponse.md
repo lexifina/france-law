@@ -1,0 +1,9 @@
+# Réponse à la question n° 94813
+
+- Question : [94813](94813.md) — Question n° 94813 — complémentaire santé; mise en application
+
+## Réponse
+
+*JO du 2016-11-01*
+
+La loi du 14 juin 2013, relative à la sécurisation de l'emploi, garantit dans son 1er article l'adaptation du dispositif de généralisation de la complémentaire santé à la couverture des salariés relevant du régime local d'assurance maladie complémentaire d'Alsace-Moselle (RLAM). Afin de déterminer ces adaptations, un rapport du Gouvernement, remis au Parlement en mars 2014, a étudié l'hypothèse d'une évolution du RLAM. En juillet 2015, une mission a été confiée à Madame Patricia Schillinger et à Messieurs Philippe Bies, Denis Jacquat et André Reichardt, qui consistait à recueillir les positions des partenaires sociaux sur les scénarii présentés dans le rapport ainsi qu'à formuler une proposition susceptible d'articuler le RLAM et la généralisation de la complémentaire santé, sans fragiliser celui-ci. La mission parlementaire a envisagé une modification des régimes locaux (général et agricole) en introduisant (ou renforçant) un financement par l'employeur et en élargissant les prestations servies au niveau du panier de soins défini par le décret du 8 septembre 2014, mais a conclu que la solution la plus sûre d'un point de vue constitutionnel était de ne pas modifier les régimes locaux et de prévoir que les prestations versées au titre de la couverture complémentaire d'entreprise devront être déterminées après déduction de celles déjà garanties par les régimes. De même, les cotisations à la charge de l'employeur et du salarié devront être réduites à hauteur du différentiel de prestations correspondant. Le décret no 2016-609 du 13 mai 2016 relatif à la couverture complémentaire santé des salariés relevant des régimes locaux d'assurance maladie complémentaire des départements du Haut-Rhin, du Bas-Rhin et de la Moselle précise ces éléments et est applicable depuis le 1er juillet 2016.
