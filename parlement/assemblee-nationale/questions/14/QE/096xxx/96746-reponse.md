@@ -1,0 +1,9 @@
+# Réponse à la question n° 96746
+
+- Question : [96746](96746.md) — Question n° 96746 — carte scolaire; inscription; réglementation
+
+## Réponse
+
+*JO du 2016-11-01*
+
+La sectorisation des écoles publiques est déterminée par délibération du conseil municipal selon l'article L. 212-7 du code de l'éducation. Pour inscrire leur enfant à l'école, les familles doivent donc se conformer à cette délibération en application de l'article L.131-5 du code de l'éducation. Ce même article précise que le certificat d'inscription est délivré par le maire, « qui y indique l'école que l'enfant doit fréquenter ». Le ressort territorial des écoles publiques est en effet déterminé par le conseil municipal depuis la modification de l'article L. 212-7 du code de l'éducation par l'article 80-II de la loi no 2004-809 du 13 août 2004. Antérieurement à cette loi, il était déterminé par arrêté du maire. En revanche, l'octroi ou le refus d'éventuelles dérogations relève toujours des pouvoirs du maire qui agit alors en qualité de représentant de l'Etat dans le cadre de la procédure d'inscription scolaire (CAA Bordeaux, 19 décembre 2006, Commune de Rilhac-Rancon c/ M. et Mme Jacques G-L, req no 05BX01967). La cour administrative d'appel de Bordeaux a ainsi implicitement jugé que la modification apportée à l'article L. 212-7 du code de l'éducation par la loi no 2004-809 du 13 août 2004 confiant au conseil municipal la compétence pour fixer le ressort de chacune des écoles publiques de la commune n'a pas modifié la compétence que le maire exerce en qualité de représentant de l'État pour accorder des dérogations à la carte scolaire. C'est donc bien le maire qui est compétent pour l'octroi des dérogations à la carte scolaire mais il exerce cette compétence en tant qu'agent de l'Etat participant à la procédure d'inscription scolaire et non comme exécutif de la commune.
