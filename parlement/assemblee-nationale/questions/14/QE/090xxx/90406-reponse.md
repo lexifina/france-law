@@ -1,0 +1,9 @@
+# Réponse à la question n° 90406
+
+- Question : [90406](90406.md) — Question n° 90406 — établissements hospitaliers; contrats
+
+## Réponse
+
+*JO du 2016-11-01*
+
+L'indispensable continuité de service des établissements publics de santé implique de recourir à des agents contractuels, y compris sur des emplois permanents, notamment pour permettre le remplacement d'un fonctionnaire titulaire indisponible en raison de congés (maladie, maternité ou parental) ou pour faire face à la vacance temporaire d'un emploi (cf. article 9 de la loi no 86-33 du 9 janvier 1986). C'est pour répondre à la situation des agents contractuels employés depuis plusieurs années par la fonction publique que six organisations syndicales représentatives de la fonction publique (CGT, CFDT, FO, UNSA, CFTC, CFE-CGC) et le Gouvernement ont conclu un protocole d'accord le 31 mars 2011. Celui-ci s'est notamment traduit par la loi no 2012-347 du 12 mars 2012 relative à l'accès à l'emploi titulaire et à l'amélioration des conditions d'emploi des agents contractuels dans la fonction publique. Dans ce cadre, un accès à la titularisation des agents non titulaires, par la voie de concours réservés, a été ouvert jusqu'en mars 2016. L'article 41 de la loi no 2016-483 du 20 avril 2016 relative à la déontologie et aux droits et obligations des fonctionnaires prolonge ce dispositif jusqu'en mars 2018. Par ailleurs, l'article 9 de la loi no 86-33 du 9 janvier 1986 portant dispositions statutaires relatives à la fonction publique hospitalière prévoit que « tout contrat conclu ou renouvelé en application du présent article avec un agent qui justifie d'une durée de services publics effectifs de six ans sur des fonctions relevant de la même catégorie hiérarchique est conclu, par décision expresse, pour une durée indéterminée ».
