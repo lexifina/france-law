@@ -18,6 +18,8 @@ A. - Données générales
 
 6° Etat civil de l'enfant étranger mineur dont les parents font l'objet d'une mesure d'éloignement ;
 
+6° bis Etat civil et filiation de l'enfant français mineur dont les parents sollicitent un titre de séjour en qualité de parent d'enfant français.
+
 7° Etat civil et adresse du garant ;
 
 8° Etat civil et adresse du responsable du mineur étranger ;
@@ -88,6 +90,8 @@ a) Données relatives à la mesure d'éloignement :
 
 11° Pour les interdictions de retour, date de la décision, dates de début et de fin de la période d'interdiction, date de demande d'abrogation, date d'abrogation, date d'annulation contentieuse.
 
+12° Pour les interdictions de circulation sur le territoire français, date de la décision, dates de début et de fin de la période d'interdiction, date de demande d'abrogation, date d'abrogation, date d'annulation contentieuse.
+
 b) Données relatives aux procédures juridictionnelles mises en œuvre dans le cadre de l'éloignement :
 
 1° Soustraction à l'exécution d'une mesure d'éloignement (lieu, date et heure du procès-verbal constatant la volonté de soustraction, service de police en charge de la procédure, procédure d'information du parquet, mesure prise par les autorités judiciaires) ;
@@ -146,7 +150,7 @@ e) Données relatives à la gestion administrative et opérationnelle de l'éloi
 
 2° Arrêté préfectoral ou ministériel d'assignation à résidence (date et heure de notification de l'arrêté, lieu de l'assignation à résidence [chez, adresse, ville, département]), fréquence et lieu des contrôles ; référence, motif, durée ; en cas de non-respect : date et heure du procès-verbal de carence, date du dernier contrôle, date de saisine du parquet ;
 
-3° Demande d'asile (date et heure de l'enregistrement de la demande, éventuellement convocation par l'OFPRA, décision de l'office et date de notification de la décision) ;
+3° Demande d'asile (date et heure de l'enregistrement de la demande, date et heure de la décision de maintien en rétention, éventuellement convocation par l'OFPRA, décision de l'office et date de notification de la décision) ;
 
 4° Hospitalisation (date et heure d'admission, coordonnées de l'établissement hospitalier, date et heure de sortie) ;
 
