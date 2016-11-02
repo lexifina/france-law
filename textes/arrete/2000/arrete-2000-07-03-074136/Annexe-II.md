@@ -248,8 +248,6 @@ Carel Fouche Industries, 22, place de Seine, tour Neptune, 92086 Paris-La Défen
 
 CEM Alsthom, 55, avenue Jean-Jaurès, 93350 Le Bourget, de sa création à 1984 ;
 
-Compagnie internationale de chauffage, devenue BAXI France, 157, avenue Charles-Floquet, 93158 Le Blanc-Mesnil : De1983 à 2005 ;
-
 Comptoir des matériaux acoustiques (CMA), rue d'Aguesseau, 92100 Boulogne-sur-Seine : de 1958 à 1982 ;
 
 Copris isolation, rue du Val-de-Richebourg, 95360 Montmagny : de 1964 à 1977 ;
@@ -698,6 +696,8 @@ Alpha Isolation, ZI Les Estroublans, 1, rue No-5,13127 Vitrolles : depuis 1976 ;
 
 ATELIER LE CANET DE MARSEILLE puis CAMOM SA puis SOCIETE NOUVELLE CAMOM puis UIE (Union Industrielle et d'Entreprise) puis SOCIETE NOUVELLE CAMOM puis CAMOM SNC, ZA des Blâches Gombert, 04160 Château-Arnoux-Saint-Auban : de 1962 à 1996 ;
 
+ATOCHEM AGRI SA-CEREXAGRI SA-CEREXAGRI SAS, 3 et/ ou 8, boulevard de la Louisiane, 13014 Marseille : de 1989 à 1997 ;
+
 Atofina, site de Fos, Carrefour du Caban, RN 568, BP 111,13773 Fos-sur-Mer : de 1975 à 2001 ;
 
 ATOFINA, établissement de Port-de-Bouc, carrefour du Caban, RN 268, BP 111,13773 Fos-sur-Mer : de 1940 à 1995 ;
@@ -724,6 +724,8 @@ L'Electro-réfractaire, puis Société européenne des produits réfractaires (S
 
 ELF Atochem, BP 3,13117 Lavera, de 1970 à 2001 ;
 
+L'Européenne Soufres Industriels, 23, boulevard de la Station, Le Petit Canet, 13014 Marseille : de 1987 à 1993 ;
+
 France Joints, zone industrielle, 1re avenue, 11e rue, îlot M, 06510 Carros : de 1992 à 1993 ;
 
 FRIEDLANDER, boulevard du Progrès, 13014 Marseille, de 1960 à 1966 ", puis " 39-41, boulevard Sainte-Lucie, 13007 Marseille, de 1966 à 1988 ", puis " 550, rue Pierre-Berthier, parc de Pichaury, BP 348000,13799 Aix-en-Provence : de 1988 à 1996 ;
@@ -738,7 +740,7 @@ Kuhlmann puis Société Ugine Kuhlmann puis Pechiney Ugine Kuhlmann-PUK puis Pro
 
 L'Aeraulique, le logis du Bonneau, quartier des Mourettes, 06270 Villeneuve-Loubet : de 1975 à 1989 ;
 
-Le Vulcain Zone industrielle de la Delorme 5, avenue de la Bauxite 13015 Marseille De 1981 à 1986
+Le Vulcain Zone industrielle de la Delorme 5, avenue de la Bauxite 13015 Marseille De 1981 à 1996
 
 ORGANICO PECHINEY, puis AQUITAINE ORGANICO, puis AQUITAINE TOTAL ORGANICO, puis ATO CHIMIE, puis ATOCHEM, puis ELF ATOCHEM, Usine de Saint-Menet, 123, boulevard de la Millière, 13011 Marseille : de 1956 à 1996 ;
 
@@ -749,6 +751,10 @@ Pillard Frères/ Pillard et compagnie/ EGCI Pillard/ entreprise Pillard, 15, rue
 Poudrerie nationale de Sorgues puis Société nationale des poudres et explosifs (SNPE) ? 1928, route d'Avignon, BP 311,84706 Sorgues Cedex : 1972 à 1996 ;
 
 Regularc, 2, place Albert-Blanc, 13600 Ceyrette : de 1973 à 1996 ;
+
+RSR (Les Raffineries de Soufre Réunies-Le Canet), 1, place du Général-de-Gaulle, 13001 Marseille : de 1960 à 1987 ;
+
+RSR ETIM-PENWALT-RSR CANET, boulevard de la Louisiane, 13014 Marseille : de 1987 à 1989 ;
 
 SA Maison Faure/ Faure SA, route de Marseille, 04100 Manosque, de 1965 à 1996 ;
 
@@ -821,6 +827,8 @@ Electrolux professionnel, ZI, 9, avenue Marc-Seguin, 26240 Saint-Vallier, de 197
 Entreprise lyonnaise isolation thermique (ELIT), 6, rue des Aqueducs, 69290 Craponne : de sa création à 1992 ;
 
 Etablissements Joly/ groupe DSMEPP France/ Cestidur industrie/ Quadrant EPP France, 34, rue Louis-Saillant, 69120 Vaulx-en-Velin, puis 60, rue René-Desgrand, 69100 Villeurbanne, puis Pusignan, 69881 Meyzieu : de 1977 à 1991 ;
+
+Etablissement de Vénissieux de la société Berliet devenu Renault véhicules industriels puis Renault Trucks 1, rue des Combats-du-24-août-1944,69200 Vénissieux : de 1964 à 1996 ; Boulevard Charles-de-Gaulle, 69200 Vénissieux : de 1964 à 1996 ; Avenue Pierre-Cot, 69200 Vénissieux : de 1964 à 1996 ;
 
 Etablissements Vital Fargere Aîné/ Cefilac, rue Denis-Epitalon, 90, rue de la Roche-du-Geai, 42029 Saint-Etienne : de 1879 à 1997 ;
 
