@@ -42,6 +42,8 @@ GAME STEMA 110, rue Achard, 33000 Bordeaux : De 1960 à 1985
 
 MORGERE SAS Réparation navale. 10, avenue Louis-Martin, BP 170, 35408 Saint-Malo Cedex. De 1970 à 1996.
 
+SAMEG (SA des Etablissements Mounerat et Gaussens), 99-107, rue Bourbon, 33000 Bordeaux : de 1970 à 1986.
+
 Service technique de l'outillage, des ateliers et centre d'activité de la réparation navale et du dragage du Port autonome de Bordeaux, palais de la Bourse, 3, place Gabriel, 33075 Bordeaux : de 1947 à 1997.
 
 SARL FLORIDE Marine, Zone technique, port de pêche, cale de Floride, 64700 Hendaye, De 1981 à 1985 puis Coopérative maritime Bidassoa, département mécanique, Zone technique, port de pêche, quai de Floride, 64700 Hendaye, De 1985 à 1998.
@@ -305,6 +307,8 @@ SARL Bastide :
 - 4, rue Kerbernard, 29200 Brest : depuis 1959
 
 Bastide SMNB, 14, rue Pont-Carré, 56100 Lorient : de 1959 à juin 2002 ; 8, rue Henri-Estier, 56100 Lorient : depuis juillet 2002.
+
+BATEAUX G. BALOIN, BATEAUX BALOIN, ZI de Pouldavid, 29100 Douarnenez : de 1971 à 2014.
 
 Bernard Ateliers mécaniques navals industriels :
 
@@ -922,7 +926,7 @@ Société lorientaise de pose :
 
 Société mécanique et de chaudronnerie, 16, rue Victor-Hugo, puis 14, rue Pierre-Maël, puis 16, rue Poissonnerie, puis 4, rue Jules-Guesde, 56100 Lorient, puis ZI du Ty-Mor, 56700 Hennebont, de 1958 à 1983.
 
-Société Merlin Gerin/société Schneider Electric service marine, bâtiment La Caravelle, 2, quai de la Douane, 29604 Brest Cedex : depuis 1970.
+Société Merlin Gerin/société Schneider Electric service marine, bâtiment La Caravelle, 2, quai de la Douane, 29604 Brest Cedex : de 1970 à 2014.
 
 Société montage chaudronnerie tuyauterie Lorient :
 
@@ -1078,7 +1082,7 @@ Atelier Duchêne Bossiere et Augustin Normand :
 
 Ateliers et chantiers de Normandie AFO/ARNO Normandie, boulevard de Stalingrad, 76120 Le Grand-Quevilly, puis hangar 106, quai Jean-de-Béthencourt, 76100 Rouen : depuis 1955.
 
-Ateliers et chantiers du Havre Duchêne Boissière et Augustin Normand/Ateliers et chantiers du Havre/Société nouvelle des ateliers et chantiers du Havre/ACH Construction navale, 76000 Le Havre : depuis 1966.
+Ateliers et chantiers du Havre Duchêne Boissière et Augustin Normand/Ateliers et chantiers du Havre/Société nouvelle des ateliers et chantiers du Havre/ACH Construction navale, 76000 Le Havre : de 1966 à 1996.
 
 Bichet :
 
