@@ -1,0 +1,21 @@
+# Article unique
+
+Les dispositions de l'article 6 de l'annexe II de la convention collective relative à l'allocation de fin de carrière sont renouvelées sans limitation de durée :
+
+« Annexe II
+
+Allocation de fin de carrière
+
+Article 6
+
+Cotisation
+
+La cotisation est calculée sur la rémunération brute servant de base à la déclaration des traitements et salaires fournis chaque trimestre par l'employeur à la CARCO en y ajoutant éventuellement la partie de salaire déclarée à une caisse de retraite des cadres.
+
+Le montant de la cotisation, à la charge de l'employeur, est fixé à effet du 1er juillet 2016 à 1,50 % du salaire défini à l'alinéa précédent.
+
+Le taux de cette cotisation peut être modifié sur décision des signataires représentant les employeurs après réunion des parties à la convention collective sans que cette modification puisse entraîner une diminution de l'allocation telle que définie à l'article 2 ci-dessus. Lorsqu'ils modifient le taux de cotisation, lesdits signataires prendront notamment en considération le rapport actuariel mentionné à l'article 7 ci-après.
+
+Les parties réexamineront, chaque année, la situation financière du régime de l'allocation de fin de carrière au regard notamment des résultats des exercices passés, des perspectives de résultats pour les années suivantes et du montant du fonds collectif AFC, ce pour en tirer les conséquences sur l'évolution du régime.
+
+Fait le 13 septembre 2016.
