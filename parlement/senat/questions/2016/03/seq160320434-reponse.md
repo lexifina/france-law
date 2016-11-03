@@ -1,0 +1,9 @@
+# Réponse à la question SEQ160320434
+
+- Question : [SEQ160320434](seq160320434.md) — Bail emphytéotique
+
+## Réponse
+
+*Intérieur, JO du 2016-11-03, page 4854*
+
+Les dispositions financières applicables à l'occupation du domaine public sont inscrites au sein du chapitre V du titre II dédié à « l'utilisation du domaine public » du livre premier de la deuxième partie du code général de la propriété des personnes publiques. À ce titre et sauf dispositions contraires expresses, ces dispositions doivent être regardées comme ayant une portée générale s'appliquant à l'ensemble des occupations privatives du domaine public, au nombre desquelles se trouve le bail emphytéotique. Ainsi, l'article L. 2122-20 du code général de la propriété des personnes publiques – compris dans le titre II précité - rappelle que les collectivités territoriales, leurs groupements et leurs établissements publics peuvent autoriser l'occupation de leur domaine public. Cette autorisation peut notamment revêtir la forme d'un bail emphytéotique. Il ressort ensuite des dispositions de l'article L. 2125-1 du code général de la propriété des personnes publiques que l'occupation du domaine public, en principe, n'est pas gratuite et donne lieu au paiement d'une redevance. L'article L. 2125-4 du code général de la propriété des personnes publiques fixe, quant à lui, les modalités de versement de la redevance laquelle est payable d'avance et annuellement. Le même article prévoit toutefois que le bénéficiaire peut, à raison du montant et du mode de détermination de la redevance, être admis à se libérer par le versement d'acomptes ou être tenu de se libérer par le versement de la redevance due soit pour toute la durée de l'autorisation si cette durée n'excède pas cinq ans, soit pour une période quinquennale dans le cas contraire.
