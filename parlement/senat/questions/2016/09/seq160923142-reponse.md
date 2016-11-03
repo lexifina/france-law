@@ -1,0 +1,9 @@
+# Réponse à la question SEQ160923142
+
+- Question : [SEQ160923142](seq160923142.md) — Internement abusif de personnes victimes de maladies physiologiques
+
+## Réponse
+
+*Affaires sociales et santé, JO du 2016-11-03, page 4831*
+
+Les mesures concernant les soins sans consentement ont vocation à répondre aux situations dans lesquelles l'état mental du patient ne lui permet pas de prendre conscience de ses troubles et de formuler une demande de prise en charge psychiatrique devenue indispensable. Dans ce cas, le préjudice réel subi par la personne en souffrance serait l'absence de soins. C'est pourquoi la loi a aménagé un dispositif spécifique qui permet de dispenser des soins, sans leur consentement, aux personnes connaissant de telles situations. Le dispositif des soins sans consentement prévoit que systématiquement dans les vingt-quatre heures suivant l'admission d'un patient qu'un médecin procède à un examen médical somatique complet, à la fois pour évaluer l'état de santé général du patient et les soins dont il pourrait avoir besoin et pour vérifier que les troubles manifestés par la personne et l'ayant conduite en soins psychiatriques ne sont pas dus à une pathologie somatique. Si cela s'avère être le cas, la mesure, dont le patient fait l'objet est levée. L'ensemble des dispositions du code de la santé publique, qui concernent les soins sans consentement répond à un cadre juridique précis, qui garantit que les restrictions à l'exercice des libertés individuelles sont adaptées, nécessaires et proportionnées à l'état mental du patient et que sa dignité et ses droits sont respectés. À cet égard, l'examen complet somatique d'un médecin permet de limiter considérablement le risque d'une erreur de diagnostic et de rediriger dans les plus brefs délais le patient, qui ne serait pas atteint de troubles psychiatriques vers le service compétent pour dispenser des soins adaptés à son état.
