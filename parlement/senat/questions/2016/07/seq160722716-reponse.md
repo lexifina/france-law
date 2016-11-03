@@ -1,0 +1,9 @@
+# Réponse à la question SEQ160722716
+
+- Question : [SEQ160722716](seq160722716.md) — Fermeture de la gendarmerie de Lasseube
+
+## Réponse
+
+*Intérieur, JO du 2016-11-03, page 4857*
+
+La gendarmerie doit parfaire son maillage territorial et adapter son dispositif territorial dans le but d'améliorer l'efficacité opérationnelle des unités. Dans les zones rurales faiblement impactées par la délinquance, cette restructuration se traduit par la fermeture d'unités à faible effectif et le regroupement des moyens humains et matériels pour en optimiser l'emploi. Le projet de dissolution de la brigade territoriale de Lasseube (six militaires de la gendarmerie) s'inscrit pleinement dans cette démarche. Les personnels de la communauté de brigades de Gan, dont dépendait la brigade de Lasseube, sont ainsi regroupés au sein d'une unité autonome à Gan à vingt militaires (quatorze + six). Le ministre de l'intérieur a agréé cette opération de restructuration qui a été mise en œuvre le 1er juillet 2016. Cette rationalisation des effectifs permet d'améliorer sensiblement la capacité opérationnelle de cette unité, en lui accordant les moyens d'accroître la présence des militaires sur les principaux bassins de délinquance, de lutter plus efficacement contre l'insécurité et d'augmenter le nombre de patrouilles réalisées au profit de la population locale. Par conséquent, cette réorganisation ne constitue nullement un délaissement de ce secteur par les forces de gendarmerie mais bien une optimisation du dispositif de sécurité publique au profit de la population. Le nouveau projet de construction d'une caserne à GAN a été validée par le ministre de l'intérieur le 3 août 2016. Jusqu'à l'occupation de la caserne en 2020-2021, les militaires conserveront leur logement à Lasseube. Durant cette phase transitoire, la commune ne sera donc pas lésée sur le plan économique en continuant à percevoir le loyer pour cette caserne prise à bail par la gendarmerie début 1976.
