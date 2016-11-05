@@ -2,6 +2,14 @@
 
 LIAISONS RÉGULIÈRES DE PASSAGERS, DE COURRIER ET DE FRET
 
+Jusqu'au 25 mars 2017 :
+
+Paris-Varadero (Cuba) ;
+
+Paris-Cayo Coco (Cuba) ;
+
+Paris-Santa-Clara (Cuba).
+
 Jusqu'au 27 avril 2017 :
 
 Paris-Cancun (Mexique).
