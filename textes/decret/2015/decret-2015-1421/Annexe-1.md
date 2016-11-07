@@ -121,3 +121,11 @@ Procédure d'autorisation pour l'utilisation d'une autre eau que celle du résea
 Article D. 1332-4 du code de la santé publique
 
 |
+
+Procédure de contrôle de la déclaration et du paiement des cotisations et contributions sociales par les employeurs et les travailleurs indépendants
+
+|
+
+Application de la dernière phrase du I de l'article R. 243-59-9 du code de la sécurité sociale aux formalités incombant aux personnes contrôlées au titre des articles R. 142-1 et R. 243-59-8 du même code
+
+|
