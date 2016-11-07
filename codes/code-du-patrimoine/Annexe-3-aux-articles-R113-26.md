@@ -1,14 +1,12 @@
-# Article Annexe 3 aux articles R. 113-26
+# Article Annexe 3 aux articles R. 113-1
 
-Annexe 3
-
-aux articles R. 113-26, D. 132-23, D. 421-5 et R. 423-3
+Annexe 3 aux articles R. 113-1, D. 132-23, D. 421-5 et R. 423-3
 
 Textes statutaires relatifs aux établissements publics relevant du ministère chargé de la culture mentionnés aux articles ci-dessus
 
 Loi n° 75-1 du 3 janvier 1975 portant création du Centre national d'art et de culture Georges Pompidou et décret n° 92-1351 du 24 décembre 1992 portant statut et organisation du Centre national d'art et de culture Georges Pompidou.
 
-Décret n° 82-883 du 15 octobre 1982 portant création du Centre national des arts plastiques.
+décret n° 2015-463 du 23 avril 2015 relatif au Centre national des arts plastiques
 
 Décret n° 92-1338 du 22 décembre 1992 portant création de l'Etablissement public du musée du Louvre.
 
@@ -20,7 +18,7 @@ Décret n° 2003-1300 du 26 décembre 2003 portant création de l'Etablissement 
 
 Décret n° 2003-1301 du 26 décembre 2003 portant création de l'Etablissement public du musée des arts asiatiques Guimet.
 
-Décret n° 2004-1350 du 9 décembre 2004 relatif au statut de l' Etablissement public du musée du quai Branly - Jacques Chirac.
+Décret n° 2004-1350 du 9 décembre 2004 relatif au statut de l'Etablissement public du musée du quai Branly-Jacques Chirac.
 
 Décret n° 2005-538 du 23 mai 2005 relatif à l'Etablissement public du musée national Jean-Jacques Henner.
 
