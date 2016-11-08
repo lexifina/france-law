@@ -1,0 +1,9 @@
+# Réponse à la question n° 79729
+
+- Question : [79729](79729.md) — Question n° 79729 — fichier d'empreintes digitales; perspectives
+
+## Réponse
+
+*JO du 2016-11-08*
+
+Le décret no 2015-1580 du 2 décembre 2015 a modifié le décret no 87-249 du 8 avril 1987 relatif au fichier automatisé des empreintes digitales géré par le ministère de l'intérieur, afin notamment de tenir compte de l'arrêt de la Cour européenne des droits de l'homme du 18 avril 2013 (M. K. contre France). Ce décret précise les finalités pour lesquelles le traitement automatisé de traces et empreintes digitales et palmaires est autorisé. Il limite aux seuls crimes et délits le champ infractionnel dans le cadre duquel il est possible de recourir au traitement. Il dresse la liste des données pouvant être enregistrées suivant le cadre juridique du recueil ainsi que les conditions d'accès des différents services aux données. Il garantit un droit effectif à l'effacement des données personnelles des personnes ayant bénéficié d'un acquittement, d'une relaxe, d'un classement sans suite ou d'un non-lieu avant la fin des vingt-cinq ans correspondant à la durée de conservation maximale des données. Il module les durées de conservation des traces et empreintes au regard de la gravité de l'infraction et de la qualité de la personne, selon notamment qu'elle est majeure ou mineure. Il permet enfin, en application des articles 6 et 9 de la loi du 14 mars 2011 d'orientation et de programmation pour la performance de la sécurité intérieure, le recueil et l'exploitation des empreintes digitales aux fins d'identification de personnes décédées ou en cas de découverte de personnes disparues en dehors de toute procédure pénale. Ce décret est applicable depuis le lendemain de sa publication, à l'exclusion de l'article 5 relatif à la durée de conservation des traces et empreintes, qui entrera en vigueur le 1er mars 2017.
