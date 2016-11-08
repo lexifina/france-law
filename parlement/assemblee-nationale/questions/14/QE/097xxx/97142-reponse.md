@@ -1,0 +1,9 @@
+# Réponse à la question n° 97142
+
+- Question : [97142](97142.md) — Question n° 97142 — assurances; perspectives
+
+## Réponse
+
+*JO du 2016-11-08*
+
+Le dossier de demande de reconnaissance au titre des calamités agricoles pour les pertes de récolte sur fourrages portant sur l'ensemble du département transmis par le préfet de l'Eure-et-Loir a fait l'objet d'un avis défavorable lors de la séance du comité national de gestion des risques en agriculture (CNGRA) du 9 décembre 2015. Conformément aux engagements du ministre en charge de l'agriculture, une mission technique sur sécheresse sur prairies a eu lieu en février 2016 afin d'examiner les différentes étapes et les outils de la procédure. A l'issue de cette mission, l'ensemble des demandes de reconnaissance ont fait l'objet d'une confrontation entre les éléments techniques transmis par les préfets et les recommandations. Ces recommandations portaient sur la corrélation entre le nombre d'exploitations visitées et le zonage proposé, l'utilisation de l'outil ISOP et ses limites, les données satellitaires et les données du service des statistiques et de la prospective du ministère (SSP). La demande du département d'Eure-et-Loir portait sur l'ensemble du département. Seules deux visites d'exploitation ont eu lieu en août au moment de la canicule ce qui constituait un échantillonnage insuffisant. Par ailleurs, le modèle ISOP conçu par l'institut national de la recherche agronomique, le SSP et Météo France est pertinent pour les zones fourragères situées en plaine. Les données du maïs du SSP pour le département indiquent un taux de perte de 20 % alors que la demande du département portait sur 50 %. La mise en œuvre des recommandations émises par la mission et les éléments techniques transmis par le préfet ne permettent donc pas de réviser l'avis du CNGRA pour le département de l'Eure-et-Loir.
