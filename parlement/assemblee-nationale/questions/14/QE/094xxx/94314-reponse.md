@@ -1,0 +1,9 @@
+# Réponse à la question n° 94314
+
+- Question : [94314](94314.md) — Question n° 94314 — crématoriums; implantation; réglementation
+
+## Réponse
+
+*JO du 2016-11-08*
+
+Lors des débats parlementaires qui ont conduit à l'adoption de la loi no 2015-991 du 7 août 2015 portant nouvelle organisation territoriale de la République, l'Assemblée nationale a supprimé les dispositions relatives à la création d'un schéma régional des crématoriums qui avaient été introduites par amendement parlementaire. En effet, une proposition de loi des sénateurs Jean-Pierre Sueur et Jean-René Lecerf ayant le même objet avait été adoptée le 27 mai 2014 en première lecture au Sénat. Les députés ont donc renvoyé le débat à l'examen de cette proposition de loi Celle-ci tend à rationaliser l'implantation des crématoriums au niveau régional, partant d'un constat que l'implantation des crématoriums ne correspondrait pas aux besoins de la population dans un contexte de forte augmentation du recours à la crémation depuis 40 ans. Ce schéma vise à organiser la répartition des crématoriums sur le territoire afin de répondre aux besoins de la population et, le cas échéant, des populations immédiatement limitrophes sur le territoire national ou à l'étranger, dans le respect des exigences environnementales. Il préciserait ainsi le nombre et la dimension des crématoriums nécessaires par zone géographique en tenant compte des équipements funéraires existants. Saisis d'une demande d'autorisation de créer ou d'étendre un crématorium, les préfets s'appuieraient sur ce schéma pour s'opposer, le cas échéant, au projet d'une collectivité. La proposition de loi des sénateurs a été transmise à l'Assemblée nationale. S'agissant d'une initiative parlementaire, il revient à l'Assemblée de décider de l'opportunité d'inscrire cette proposition de loi à l'ordre du jour d'une semaine réservée aux initiatives parlementaires.
