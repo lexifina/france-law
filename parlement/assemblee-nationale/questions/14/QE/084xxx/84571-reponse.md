@@ -1,0 +1,9 @@
+# Réponse à la question n° 84571
+
+- Question : [84571](84571.md) — Question n° 84571 — insécurité; lutte et prévention; rapport parlementaire; propositions
+
+## Réponse
+
+*JO du 2016-11-08*
+
+Dans la proposition no 34 du rapport d'information sur la lutte contre l'insécurité sur tout le territoire, il est proposé d'organiser régulièrement, sur l'ensemble du territoire, des enquêtes locales de satisfaction de la population portant sur son appréciation de l'action de la police et de la gendarmerie nationales. Ce type d'enquête est d'ores et déjà réalisé par un organisme indépendant, l'observatoire national de la délinquance et des réponses pénales (ONDRP) placé sous l'égide de l'institut national des hautes études de la sécurité et de la justice. Dans le cadre de l'enquête annuelle de victimation « Cadre de vie et sécurité », l'ONDRP mesure la satisfaction des personnes de 14 ans et plus à propos de l'action de la police et de la gendarmerie nationales. En 2015, sur les 15 484 personnes interrogées au sujet des atteintes les ayant visées personnellement au cours des deux années civiles précédentes (2013 et 2014) ainsi que sur leur ressenti et leurs opinions en matière de sécurité, 59 % d'entre elles se disait "satisfaite"ou"très satisfaite" à propos de l'action en général de la police ou de la gendarmerie dans la société française actuelle. Cette part s'est élevée de plus de 10 points en un an (48,2 % en 2014) affichant à l'époque une grande stabilité par rapport aux années 2012 et 2013 (48,1 %). Par ailleurs, la gendarmerie nationale a reçu en 2016 le 1er prix de la relation client dans la catégorie secteur service public, organisé par bearing Point/TNS Sofres avec pour thème "le choc de simplification". Cette enquête a permis à près de 4 000 usagers de se prononcer sur des notions telles que la qualité et la simplicité du contact, la capacité à dialoguer et identifier les attentes, la clarté et la rapidité de la réponse."
