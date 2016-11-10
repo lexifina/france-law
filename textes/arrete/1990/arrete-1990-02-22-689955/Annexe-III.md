@@ -14,6 +14,10 @@ Cette annexe comprend :
 
 4-MTA ou ∀-méthyl-4-méthylthiophénéthylamine
 
+4,4'-DMAR ou 4,4'-diméthylaminorex ou para-méthyl-4-méthylaminorex, 4,5-dihydro-4-méthyl-5-(4-méthylphényl)-2-oxazolamine
+
+α-PVP ou alpha-pyrrolidinovalérophénone ou 1-phényl-2-(1-pyrrolidinyl)-1-pentanone , méthoxétamine
+
 Amphétamine, à l'exception de la préparation présentée en comprimés et renfermant par comprimé : sulfate d'amphétamine
 
 0,005 g, phénobarbital 0,100 g
@@ -89,6 +93,8 @@ Phenmétrazine
 Phentermine ou α, α-diméthylphénétylamine
 
 *PMA ou p-méthoxy -méthylphényléthylamine
+
+PMMA ou para-méthoxyméthamphétamine ou para-méthoxyméthylamphétamine
 
 *Psilocine
 

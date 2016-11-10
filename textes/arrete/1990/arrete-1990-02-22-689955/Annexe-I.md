@@ -20,6 +20,8 @@ Acétorphine
 
 Acétylalphaméthylfentanyl
 
+acétylfentanyl et MT-45 ou 1-cyclohexyl-4-(1,2-diphényléthyl) pipérazine
+
 Acétylméthadol
 
 "AH-7921" ou "3,4-dichloro-N-[[1-(diméthylamino) cyclohéxyl] méthyl] benzamide"
