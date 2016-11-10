@@ -26,6 +26,8 @@ Conformément à l’article 5 de l’arrêté du 8 février 2016 (NOR : DEVR160
 
 Conformément à l’article 5 de l’arrêté du 8 février 2016 (NOR : DEVR1603528A), l’annexe 2 de la présente fiche d'opération standardisée d'économies d'énergie est remplacée par la version figurant à l'annexe 4 dudit arrêté portant la même référence.
 
+Conformément à l’article 5 de l’arrêté du 20 octobre 2016 (NOR : DEVR1627593A), la présente fiche d'opération standardisée d'économies d'énergie est remplacée par la fiche d’opérations standardisées portant les mêmes références figurant à l'annexe 4 dudit arrêté.
+
 - Barge fluviale / Fiche d’opération n° TRA-EQ-109
 
 Conformément à l’article 5 de l’arrêté du 8 février 2016 (NOR : DEVR1603528A), l’annexe 2 de la présente fiche d'opération standardisée d'économies d'énergie est remplacée par la version figurant à l'annexe 4 dudit arrêté portant la même référence.
@@ -112,6 +114,10 @@ Conformément à l’article 5 de l’arrêté du 8 février 2016 (NOR : DEVR160
 
 Liens :
 
+Vous pouvez consulter l’intégralité du texte avec ses images à partir de l’extrait du Journal officiel électronique authentifié n° 261 du 09/11/2016, texte nº 4, accessible à l’adresse suivante :
+
+https://www.legifrance.gouv.fr/download/pdf?id=knbQtrSz_f90M6D1wPlbP2gPlRv7gOmIegJaPV6kUU0=
+
 Vous pouvez consulter l’intégralité du texte avec ses images à partir de l’extrait du Journal officiel électronique authentifié n° 61 du 12/03/2016, texte nº 5, accessible à l’adresse suivante :
 
 https://www.legifrance.gouv.fr/download/pdf?id=MBOjYK1aF6nQu8_MetCbfkOKybiynhwl4zWmqSZPghk=
@@ -135,3 +141,7 @@ https://www.legifrance.gouv.fr/download/pdf?id=xhmSfzOnsCkjNrGahHphZrmpoFhR61mGJ
 Vous pouvez consulter l’intégralité du texte avec ses images à partir de l’extrait du Journal officiel électronique authentifié n° 297 du 24/12/2014, texte nº 18, accessible à l’adresse suivante :
 
 https://www.legifrance.gouv.fr/download/pdf?id=FGBMw6bzzOGU6LHfYz6-OOYiF3mTkUVDd1KHOMS6u0s=
+
+NOTA :
+
+Se reporter aux modalités d’application prévues par l’article 6 de l’arrêté du 20 octobre 2016 (NOR : DEVR1627593A).
