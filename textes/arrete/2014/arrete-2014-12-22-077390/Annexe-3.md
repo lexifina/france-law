@@ -78,6 +78,8 @@ Déstratificateur ou brasseur d’air / Fiche d’opération standardisée n° B
 
 Ventilo-convecteurs haute performance / Fiche d’opération standardisée n° BAT-TH-143
 
+Système de régulation sur un groupe de production de froid permettant d’avoir une basse pression flottante ‘France métropolitaine) / Fiche d’opération standardisée n° BAT-TH-145
+
 Luminaires à modules LED pour surfaces commerciales / Fiche d’opération standardisée n° BAT-EQ-111
 
 Lampe à LED de classe A+ (France d’outre-mer) / Fiche d’opération standardisée n° BAT-EQ-116
@@ -104,6 +106,8 @@ Systèmes hydro-économes (France métropolitaine) / Fiche d’opération standa
 
 Liens :
 
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0261 du 09/11/2016, texte n° 4, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=knbQtrSz_f90M6D1wPlbP2gPlRv7gOmIegJaPV6kUU0=
+
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0134 du 10/06/2016, texte n° 7, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=J82GITl53mD3eTDbAnwWy2LCXpWGQoisGfxBVdPuq_E=
 
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0061 du 12/03/2016, texte n° 5, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=MBOjYK1aF6nQu8_MetCbfkOKybiynhwl4zWmqSZPghk=
@@ -120,4 +124,4 @@ Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'ex
 
 NOTA :
 
-Se reporter aux conditions d’application prévues à l’article 5 de l’arrêté du 2 juin 2016 (NOR : DEVR1611811A).
+Se reporter aux conditions d’application prévues à l’article 6 de l’arrêté du 20 octobre 2016 (NOR : DEVR1627593A).

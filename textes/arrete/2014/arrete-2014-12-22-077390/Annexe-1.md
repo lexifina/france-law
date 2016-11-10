@@ -36,6 +36,8 @@ Conformément à l'article 2 de l'arrêté du 2 juin 2016 (NOR : DEVR1611811A), 
 
 - Système de régulation sur un groupe de production de froid permettant d'avoir une basse pression flottante / Fiche d'opération n° AGRI-UT-103
 
+-Système de régulation sur un groupe de production de froid permettant d'avoir une haute pression flottante / Fiche d'opération n° AGRI-UT-104
+
 - Pré-refroidisseur de lait / Fiche d'opération n° AGRI-TH-103
 
 - Pompe à chaleur de type air/eau ou eau/eau / Fiche d'opération n° AGRI-TH-108
@@ -45,6 +47,10 @@ Conformément à l'article 2 de l'arrêté du 2 juin 2016 (NOR : DEVR1611811A), 
 Conformément à l'article 4 de l'arrêté du 8 février 2016 (NOR : DEVR1603528A), l’annexe 2 de la fiche d’opération standardisée portant la référence AGRI-SE-101 figurant à l’annexe 1 de l’arrêté du 22 décembre 2014 définissant les opérations standardisées d’économies d’énergie est remplacée par la version figurant à l’annexe 4 du présent arrêté portant la même référence.
 
 Liens
+
+Vous pouvez consulter les fiches dans le fac-similé du JO nº 0261 du 09/11/2016, texte nº 4
+
+https://www.legifrance.gouv.fr/download/pdf?id=knbQtrSz_f90M6D1wPlbP2gPlRv7gOmIegJaPV6kUU0=
 
 Vous pouvez consulter les fiches dans le fac-similé du JO nº 0134 du 10/06/2016, texte nº 7
 
@@ -73,3 +79,7 @@ https://www.legifrance.gouv.fr/download/pdf?id=xhmSfzOnsCkjNrGahHphZrmpoFhR61mGJ
 Vous pouvez consulter les fiches dans le fac-similé du JO nº 0294 du 24/12/2014, texte nº 18
 
 https://www.legifrance.gouv.fr/download/pdf?id=FGBMw6bzzOGU6LHfYz6-OOYiF3mTkUVDd1KHOMS6u0s=
+
+NOTA :
+
+Conformément à l'article 6 de l'arrêté du 20 octobre 2016, les fiches d'opérations standardisées d'économies d'énergie figurant en annexes 1, 2 et 3 dudit arrêté sont applicables aux opérations standardisées d'économies d'énergie faisant l'objet d'une demande de certificats d'économies d'énergie, auprès de l'autorité compétente, à compter de l'entrée en vigueur dudit arrêté.
