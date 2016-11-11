@@ -12,6 +12,4 @@ A ce titre, il est chargé :
 
 - d'évaluer les mesures de sécurité routière prises ou envisagées.
 
-Le Conseil national de la sécurité routière émet un avis sur le programme de travail de l'observatoire.
-
-Le comité d'experts du Conseil national de la sécurité routière oriente la méthodologie des recueils et analyses statistiques ainsi que des études de l'observatoire. Il peut également être consulté sur la qualité scientifique des publications mises à la disposition du public en matière de sécurité routière.
+L'observatoire est assisté d'un conseil d'orientation qui valide la méthodologie des recueils et analyses statistiques ainsi que les études de l'observatoire.
