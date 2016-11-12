@@ -4,6 +4,22 @@ ZONES DE RESTRUCTURATION DE LA DÉFENSE MENTIONNÉES À L'ARTICLE 42 MODIFIÉ DE
 
 Liste des communes et année de référence
 
+Alsace
+
+Bas-Rhin
+
+Commune de Drachenbronn-Birlenbach (n° 67104).
+
+Année au titre de laquelle la commune est reconnue en application du 2° du 3 ter de l'article 42 de la loi n° 95-115 du 4 février 1995 précitée : 2019.
+
+Auvergne
+
+Allier
+
+Communes de Varennes-sur-Allier (n° 03298).
+
+Année au titre de laquelle la commune est reconnue en application du 2° du 3 ter de l'article 42 de la loi n° 95-115 du 4 février 1995 précitée : 2016.
+
 Bourgogne
 
 Côte-d'Or
@@ -30,7 +46,11 @@ Centre
 
 Eure-et-Loir
 
-Commune de Châteaudun (n° 28200)
+Communes de Jallans (n° 28198) et Lutz-en-Dunois (n° 28224).
+
+Année au titre de laquelle les communes sont reconnues en application du 2° du 3 ter de l'article 42 de la loi n° 95-115 du 4 février 1995 précitée : 2017.
+
+Commune de Châteaudun (n° 28088).
 
 Année au titre de laquelle la commune est reconnue en application du 2° du 3 ter de l'article 42 de la loi n° 95-115 du 4 février 1995 précitée : 2016.
 
