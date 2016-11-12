@@ -300,6 +300,12 @@ Président du conseil d'administration
 
 |
 
+Etablissement public chargé de la formation professionnelle des adultes
+
+|
+
+Directeur général |
+
 Etablissement public du musée du Louvre
 
 |
