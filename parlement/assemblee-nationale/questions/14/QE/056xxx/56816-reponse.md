@@ -1,0 +1,9 @@
+# Réponse à la question n° 56816
+
+- Question : [56816](56816.md) — Question n° 56816 — rescrit; réforme; préconisations
+
+## Réponse
+
+*JO du 2016-11-15*
+
+Le Gouvernement a l'intention d'adapter les règles de publicité en fonction du domaine dans lequel intervient le rescrit. Ainsi, dès l'instant que la publicité faite à un rescrit a pour conséquence de préjudicier à un opérateur économique et de porter notamment atteinte au secret des affaires, l'administration pourra envisager de ne pas publier le rescrit ou bien de ne faire qu'un avis afin de le porter à la connaissance du public. Il convient de souligner que la publicité n'est pas consubstantielle au mécanisme de rescrit et que, si elle se justifie pour certains rescrits à portée générale, elle doit être exclue dans les domaines où une certaine confidentialité est requise. Une fois le cadre législatif et réglementaire posé, le Gouvernement a l'intention de diffuser auprès des services concernés des lignes directrices afin de les guider dans la mise en œuvre de ces nouvelles garanties et d'attirer notamment leur attention sur la nécessité, le cas échant, de préserver le secret des affaires. Annoncée lors du conseil des ministres du 9 décembre dernier, l'ordonnance relative au renforcement des garanties applicables aux porteurs de projet et à l'assurance d'un environnement plus sécurisé du point de vue des normes applicables est entrée en vigueur le 1er janvier 2016. Afin de développer l'utilisation du rescrit social il est prévu que celui-ci pourra être demandé par les avocats et experts comptables pour le compte du cotisant ou futur cotisant. De plus, afin de sécuriser les entreprises dans l'application des stipulations conventionnelles le rescrit sera ouvert aux organisations professionnelles représentatives au niveau de la branche professionnelle.
