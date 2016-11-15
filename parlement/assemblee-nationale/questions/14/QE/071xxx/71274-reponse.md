@@ -1,0 +1,9 @@
+# Réponse à la question n° 71274
+
+- Question : [71274](71274.md) — Question n° 71274 — loto associatif; réglementation
+
+## Réponse
+
+*JO du 2016-11-15*
+
+La législation en matière de jeux d'argent encadre strictement l'organisation des loteries. En effet, l'article 1er de la loi du 21 mai 1836, codifié à l'article L. 322-1 du code de la sécurité intérieure depuis le 1er mai 2012, dispose que « les loteries de toutes espèces sont prohibées ». Toutefois, les lotos traditionnels font exception à cette règle dans les conditions édictées par l'article L. 322-4 du code de sécurité intérieure : cette interdiction ne vaut pas pour les « lotos traditionnels […], lorsqu'ils sont organisés dans un cercle restreint et uniquement dans un but social, culturel, scientifique, éducatif, sportif ou d'animation sociale et se caractérisent par des mises de faible valeur, inférieures à 20 euros. Ces lots ne peuvent, en aucun cas, consister en sommes d'argent ni être remboursés. » Tout objectif mercantile ou financier de l'organisation d'une loterie est donc strictement interdit. L'activité de prestataire de service comme animateur de lotos présume de l'objectif financier de cette activité : ce dernier perçoit un salaire pour cette activité, ce qui est contraire à la loi. Les animateurs sont assimilés à des organisateurs et s'exposent donc à des sanctions pénales et fiscales si leur activité représente une partie importante de leur revenu et s'ils animent des loteries de façon régulière. Les critères non exhaustifs précités ne sont pas explicitement définis par la loi, comme c'est le cas des cercles restreints. Il est donc laissé aux services de contrôles le soin d'apprécier la légalité des loteries et l'opportunité de relever une infraction. Une réflexion sur une réforme de la réglementation des loteries prohibées est actuellement en cours afin de prendre en compte l'évolution des pratiques dans le secteur des lotos.
