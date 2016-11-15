@@ -1,0 +1,9 @@
+# Réponse à la question n° 84387
+
+- Question : [84387](84387.md) — Question n° 84387 — filières djihadistes; surveillance; commission d'enquête; rapport
+
+## Réponse
+
+*JO du 2016-11-15*
+
+La vérification de concordance des passagers à l'embarquement est une mesure de sûreté mise en œuvre par les entreprises de transport aérien. Elle consiste à s'assurer que le nom figurant sur la carte d'embarquement est identique à celui figurant sur le document d'identité présenté par le passager. Elle ne doit pas être confondue avec le contrôle documentaire réalisé par la police aux frontières dans le cadre du contrôle transfrontière de sortie de l'espace Schengen. Lors de la présentation d'un passager à l'embarquement, l'entreprise de transport aérien procède ainsi à la vérification de concordance entre l'identité mentionnée sur la carte d'embarquement valable et un des documents suivants attestant l'identité du passager : la carte nationale d'identité, le passeport, le titre de séjour ou le permis de conduire. Les mineurs de moins de treize ans accompagnés d'une personne majeure sont dispensés de l'obligation de vérification de concordance. La vérification de concordance, qui était limitée depuis 2012 (en application d'un règlement européen 185/2010) aux seuls passagers remettant à l'enregistrement des bagages en soute, a été réintroduite le 20 novembre 2015 pour l'ensemble des passagers au départ d'un aéroport français, que leur destination soit dans l'espace Schengen ou hors de l'espace Schengen. Cette mesure a été introduite par un arrêté du 20 novembre 2015 portant modification de l'arrêté du 11 septembre 2013 relatif aux mesures de sûreté de l'aviation civile, qui prévoit diverses mesures d'urgence, dont celle relative à la vérification de concordance documentaire à l'embarquement. Cette mesure a été prolongée pour la durée de l'état d'urgence par arrêté du 26 février 2016.
