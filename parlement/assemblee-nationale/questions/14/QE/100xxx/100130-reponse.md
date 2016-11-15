@@ -1,0 +1,9 @@
+# Réponse à la question n° 100130
+
+- Question : [100130](100130.md) — Question n° 100130 — groupements de défense sanitaire; financement
+
+## Réponse
+
+*JO du 2016-11-15*
+
+La loi no 2015-991 du 7 août 2015 portant sur la nouvelle organisation territoriale de la République, dite loi NOTRe, a en effet substantiellement modifié le partage des compétences en matière de développement économique entre les différentes collectivités territoriales. Le rôle de la région est réaffirmé alors que la compétence des départements en la matière est limitée à certains cas. La loi a en effet supprimé la clause « de compétence générale » dont disposaient les départements. Ainsi, les interventions du département dont le fondement légal était la clause de compétence générale ne sont plus possibles. L'analyse juridique conduite par les services du ministère de l'agriculture, de l'agroalimentaire et de la forêt (MAAF) confirme que la compétence des départements dans le domaine sanitaire se traduit exclusivement par le financement des laboratoires d'analyse. Il ne leur est dès lors plus possible de participer au financement des groupements de défense sanitaire (GDS) qui sont des associations départementales d'éleveurs ayant pour objet de participer à la surveillance sanitaire des animaux et à la prévention des maladies. Le MAAF reste particulièrement attaché au modèle sanitaire français et soucieux de la pérennisation du soutien financier apporté par les collectivités territoriales aux programmes sanitaires locaux. Ainsi, les services du MAAF soutiennent les initiatives des GDS, auprès des régions, qui sont les interlocuteurs désignés pour mettre en oeuvre des solutions adaptées aux problématiques de santé animale dans ce contexte territorial rénové, afin que des relais régionaux puissent être clairement identifiés.
