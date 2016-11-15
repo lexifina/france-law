@@ -1,0 +1,9 @@
+# Réponse à la question n° 98090
+
+- Question : [98090](98090.md) — Question n° 98090 — procédures
+
+## Réponse
+
+*JO du 2016-11-15*
+
+La prévention des expulsions locatives est un objectif pleinement partagé par le ministère de la justice. Ses services ont ainsi contribué aux travaux de la mission d'évaluation de la prévention des expulsions locatives confiée conjointement à l'inspection générale des affaires sociales, l'inspection générale de l'administration, l'inspection générale des services judiciaires et au conseil général de l'environnement du développement durable. Le rapport de cette mission, publié au mois d'août 2014, formule plusieurs propositions de modification législative. L'idée consistant à permettre au juge, lorsqu'il est appelé à statuer sur une demande de résiliation d'un bail, d'ordonner, sur demande du président du conseil général, le versement des prestations sociales directement au bailleur, ne fait pas partie des pistes d'évolution envisagées par la mission d'évaluation précitée. Un tel dispositif se heurterait à plusieurs objections. En effet, il porterait atteinte à la liberté de gestion patrimoniale des locataires, atteinte que la seule existence d'une créance locative ne paraît pas pouvoir justifier. Par ailleurs, il impliquerait de complexifier la procédure applicable à l'expulsion, puisqu'il faudrait concevoir un dispositif permettant d'informer le conseil départemental de toutes les demandes en expulsion formulées devant les juridictions pour que ce dernier puisse ensuite intervenir à l'instance dans des délais contraints. Il ne paraît donc pas pouvoir être mis en œuvre à ce stade. Afin de concourir à la prévention des expulsions locatives, les services du ministère de la justice apportent actuellement leur concours à la conception de mesures inspirées des propositions formulées dans le rapport précité. Elles devraient se traduire prochainement dans le droit positif.
