@@ -1,0 +1,9 @@
+# Réponse à la question n° 98575
+
+- Question : [98575](98575.md) — Question n° 98575 — emplois d'été; prise en compte
+
+## Réponse
+
+*JO du 2016-11-15*
+
+Jusqu'en 1979, les personnes non bénévoles recrutées à titre temporaire pour assurer l'encadrement des enfants pendant leur séjour dans des camps, colonies de vacances ou centres aérés étaient soumises à un dispositif de cotisations forfaitaires, d'un niveau peu élevé, fixées par arrêté. Depuis 1979 les cotisations sont calculées, au taux de droit commun, sur des bases forfaitaires déterminées par référence à la valeur horaire du salaire minimum de croissance (SMIC) en vigueur au 1er janvier de l'année considérée. Les périodes ainsi cotisées étaient validées pour la retraite dans les conditions de droit commun ; c'est-à-dire à la hauteur d'un trimestre, par report au compte de l'assuré, de cotisations correspondant à une assiette égale à 200 fois le salaire minimum interprofessionnel de croissance (SMIC) horaire jusqu'en 2013 inclus. Afin de faciliter la validation de trimestres pour des salariés à temps partiels courts et à faibles rémunérations ou cotisant sur une base forfaitaire, la loi du 20 janvier 2014 garantissant l'avenir et la justice du système de retraites a réduit ce seuil, à compter du 1er janvier 2014, de 200 H SMIC à 150 H SMIC. Par ailleurs, depuis la loi du 21 août 2003, il existe un dispositif de rachat, pour la retraite au titre des années incomplètes ou des années d'étude. Ce rachat de trimestres effectué dans un régime vaut pour la liquidation de la pension dans les autres régimes dont a pu relever l'assuré et, en particulier, pour les salariés, pour l'atténuation, voire la suppression, des coefficients d'anticipation applicables dans les régimes de retraites complémentaires en cas de carrière incomplète.
