@@ -1,0 +1,9 @@
+# Réponse à la question n° 83327
+
+- Question : [83327](83327.md) — Question n° 83327 — instances consultatives; coût de fonctionnement
+
+## Réponse
+
+*JO du 2016-11-15*
+
+A la suite d'une instruction du Premier ministre encourageant la réduction du nombre de commissions placées auprès de l'Etat, il a été décidé la transformation des commissions nationales relatives aux professions des orthoprothésistes, podo-orthésistes, ocularistes, épithésistes et orthopédistes-orthésistes en une seule commission nationale. Le décret no 2011-139 et l'arrêté du 1er février 2011 ont créé une commission nationale unique composée de deux sections, l'une regroupe les professions d'orthoprothésiste, podo-orthésiste et orthopédiste-orthésiste et l'autre les professions d'épithésiste et d'oculariste. Cette commission nationale est compétente pour statuer à la fois sur la reconnaissance des compétences des professionnels ne satisfaisant pas à la condition de diplôme ou d'agrément et sur les demandes d'autorisation d'exercice formulées par des ressortissants de l'Union européenne et de l'Espace Economique Européen en application de la directive 2005/36/CE du Parlement Européen et du Conseil du 7 septembre 2005 relative à la reconnaissance des qualifications professionnelles. Cette commission nationale est placée auprès du ministre chargé de la santé. Elle est présidée par un représentant de la direction générale de l'offre de soins. Cette direction assure également le secrétariat, l'appui technique et la logistique de la commission nationale, notamment la fourniture d'une salle de réunion, l'envoi des convocations, l'instruction des dossiers, la notification des décisions. Aucun budget particulier n'est donc alloué à cette instance : en 2014, cinq commissions ont été organisées pour un coût de fonctionnement de 800 €. Les ressources internes de la direction générale de l'offre de soins sont mobilisées sans nécessité de recrutement supplémentaire.
