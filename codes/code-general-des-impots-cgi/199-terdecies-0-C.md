@@ -1,10 +1,10 @@
 # Article 199 terdecies-0 C
 
-1. Les contribuables domiciliés fiscalement en France, au sens de l'article 4 B, bénéficient d'une réduction d'impôt sur le revenu égale à 30 % des versements effectués jusqu'au 31 décembre 2018 au titre de souscriptions en numéraire réalisées au capital de sociétés soumises à l'impôt sur les sociétés dans les conditions de droit commun et définies au 1 de l'article 39 bis A.
+1. Les contribuables domiciliés fiscalement en France, au sens de l'article 4 B, bénéficient d'une réduction d'impôt sur le revenu égale à 30 % des versements effectués jusqu'au 31 décembre 2018 au titre de souscriptions en numéraire réalisées au capital de sociétés soumises à l'impôt sur les sociétés dans les conditions de droit commun éditant une ou plusieurs publications de presse ou services de presse en ligne d'information politique et générale, ou une ou plusieurs publications de presse ou services de presse en ligne consacrés pour une large part à l'information politique et générale. La même réduction d'impôt est accordée lorsque les versements sont effectués au bénéfice d'une société dont l'objet statutaire exclusif est de prendre une participation au capital d'une société éditrice définie à la première phrase et regroupant exclusivement des actionnaires individuels.
 
 Le taux mentionné au premier alinéa du présent 1 est porté à 50 % lorsque la société bénéficiaire de la souscription a le statut d'entreprise solidaire de presse d'information, au sens de l'article 2-1 de la loi n° 86-897 du 1er août 1986 portant réforme du régime juridique de la presse.
 
-2. Les versements ouvrant droit à la réduction d'impôt mentionnée au 1 sont retenus dans la limite annuelle de 1 000 € pour les contribuables célibataires, veufs ou divorcés, et de 2 000 € pour les contribuables soumis à imposition commune.
+2. Les versements ouvrant droit à la réduction d'impôt mentionnée au 1 sont retenus dans la limite annuelle de 5 000 € pour les contribuables célibataires, veufs ou divorcés, et de 10 000 € pour les contribuables soumis à imposition commune.
 
 3. Lorsque tout ou partie des titres ayant donné lieu à réduction d'impôt est cédé avant le 31 décembre de la cinquième année suivant celle de la souscription, la réduction d'impôt obtenue est ajoutée à l'impôt dû au titre de l'année de la cession.
 
