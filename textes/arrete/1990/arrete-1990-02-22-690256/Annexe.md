@@ -64,22 +64,6 @@ Ethchlorvynol.
 
 Ethinamate.
 
-Nordazépam.
-
-Oxazépam.
-
-Oxazolam.
-
-Pémoline.
-
-Phénobarbital.
-
-Pinazépam.
-
-Pipradrol.
-
-Prazépam.
-
 Fencamfamine.
 
 Fenproporex.
@@ -121,6 +105,24 @@ Midazolam.
 Nimétazépam.
 
 Nitrazépam.
+
+Nordazépam.
+
+Oxazépam.
+
+Oxazolam.
+
+Pémoline.
+
+Phénazépam.
+
+Phénobarbital.
+
+Pinazépam.
+
+Pipradrol.
+
+Prazépam.
 
 Secbutabarbital.
 
