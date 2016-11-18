@@ -2,7 +2,7 @@
 
 EXIGENCES APPLICABLES AUX COMPTEURS DE CLASSE D
 
-En application de l'article II du présent arrêté, les exigences à respecter par les compteurs de classe D sont les exigences essentielles de l'annexe I de l'arrêté du 28 avril 2006 susvisé, à l'exception de ses exigences 1.1 à 1.3, 3, 7.4, 9.1, 9.2, 9.6, 10.1 à 10.4, 11 et 12, complétées par les exigences spécifiques mentionnées ci-après. Sauf mention particulière, les examens et essais nécessaires à la vérification du respect de ces exigences sont menés dans les conditions définies à l'annexe 2.
+En application de l'article II du présent arrêté, les exigences à respecter par les compteurs de classe D sont les exigences prévues à l'annexe I de l'arrêté du 9 juin 2016 mentionné ci-dessus, à l'exception de ses exigences 1.1 à 1.3, 3, 7.4, 9.1, 9.2, 9.6, 10.1 à 10.4, 11 et 12, complétées par les exigences spécifiques mentionnées ci-après. Sauf mention particulière, les examens et essais nécessaires à la vérification du respect de ces exigences sont menés dans les conditions définies à l'annexe 2.
 
 Est présumé répondre à ces exigences tout compteur qui satisfait aux examens et essais pertinents prévus pour les compteurs de classe 0,2 S, dans les deux normes suivantes :
 
@@ -28,7 +28,7 @@ De 0,98 × fn à 1,02 × fn pour la fréquence ;
 
 De 0,5 (inductif) à 0,8 (capacitif), en passant par 1, pour le facteur de puissance FP.
 
-Le compteur fonctionne correctement lorsqu'il est utilisé dans l'environnement mécanique M2 et dans l'environnement électrique E2, décrits à l'annexe I de l'arrêté du 28 avril 2006 susvisé et lorsqu'il est exposé à une humidité relative de 75 % en valeur moyenne annuelle et une humidité de 95 %, trente jours par an répartis sur l'année.
+Le compteur fonctionne correctement lorsqu'il est utilisé dans l'environnement mécanique M2 et dans l'environnement électrique E2, décrits à l'annexe I de l'arrêté du 9 juin 2016 mentionné ci-dessus et lorsqu'il est exposé à une humidité relative de 75 % en valeur moyenne annuelle et une humidité de 95 %, trente jours par an répartis sur l'année.
 
 2. Prescriptions mécaniques et électriques
 

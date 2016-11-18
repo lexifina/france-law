@@ -2,7 +2,7 @@
 
 ESSAIS POUR LA VÉRIFICATION PRIMITIVE
 
-En application de l'article 12 du présent arrêté, la vérification primitive de l'instrument comporte les essais mentionnés à la présente annexe. Les termes q, qi, qp, Θmin, Θmax, ΔΘ, ΔΘmin et ΔΘmax utilisés ci-après constituent les symboles des grandeurs définies à l'annexe MI-04 de l'arrêté du 28 avril 2006 susvisé, avec les adaptations prévues à l'article 4 du présent arrêté.
+En application de l'article 12 du présent arrêté, la vérification primitive de l'instrument comporte les essais mentionnés à la présente annexe. Les termes q, qi, qp, Θmin, Θmax, ΔΘ, ΔΘmin et ΔΘmax utilisés ci-après constituent les symboles des grandeurs définies à l'annexe VI de l'arrêté du 9 juin 2016 mentionné ci-dessus, avec les adaptations prévues à l'article 4 du présent arrêté.
 
 I. ― Vérification primitive d'un sous-ensemble :
 
@@ -12,11 +12,13 @@ La vérification du capteur hydraulique s'effectue à l'intérieur de chacun des
 
 ― intervalle 1 : qi ≤q ≤1,1 × qi ;
 
-― intervalle 2 : 0,1 × qp ≤ q ≤ 0,11 × qi ;
+― intervalle 2 : 0,1 × qp ≤ q ≤ 0,11 × qp
+
+;
 
 ― intervalle 3 : 0,9 × qp ≤ q ≤ 1,0 x qp.
 
-Si le certificat d'examen de type, le certificat d'examen CE de type ou le certificat d'examen CE de la conception le prévoit, la vérification primitive peut s'effectuer avec de l'eau froide, conformément à la procédure précisée dans le certificat. Le signal de sortie du capteur de débit utilisé par le calculateur est vérifié dans au moins un des essais.
+Si le certificat d'examen de type, le certificat d'examen CE ou UE de type ou le certificat d'examen CE ou UE de la conception le prévoit, la vérification primitive peut s'effectuer avec de l'eau froide, conformément à la procédure précisée dans le certificat. Le signal de sortie du capteur de débit utilisé par le calculateur est vérifié dans au moins un des essais.
 
 b) Paire de sondes de température
 
@@ -88,7 +90,7 @@ Toute valeur de Θmin
 
 Les sondes soumises à essai sont immergées à au moins 90 % de leur longueur totale.
 
-Si le certificat d'examen de type, le certificat d'examen CE de type ou le certificat d'examen CE de la conception le prévoit, il est permis de modifier les étendues de température et le nombre de températures d'essai.
+Si le certificat d'examen de type, le certificat d'examen CE ou UE de type ou le certificat d'examen CE ou UE de la conception le prévoit, il est permis de modifier les étendues de température et le nombre de températures d'essai.
 
 La courbe caractéristique de chaque sonde, exprimant la résistance en fonction de la température, est tracée à partir des trois points d'essai. Cette courbe est soustraite à la courbe idéale établie à partir des constantes normalisées, afin de déterminer la courbe d'erreur de chaque sonde en fonction de la température. Pour la paire de sondes, l'erreur à comparer à l'erreur maximale tolérée correspond au cas le plus défavorable, déterminé sur l'étendue de température et sur l'étendue de différence de température spécifiées pour les sondes.
 
@@ -128,7 +130,7 @@ APPLICATION FRIGORIFIQUE
 
 |
 
-Le signal de débit simulé ne dépasse pas le maximum admis par le calculateur. La température de sortie se situe dans l'étendue de température entre 40 °C et 70 °C pour les applications calorifiques et à (20 5) °C pour les applications frigorifiques, sauf stipulations différentes dans le certificat d'examen de type, le certificat d'examen CE de type ou le certificat d'examen CE de la conception. Le fonctionnement du dispositif indicateur de l'instrument est vérifié dans au moins un des essais.
+Le signal de débit simulé ne dépasse pas le maximum admis par le calculateur. La température de sortie se situe dans l'étendue de température entre 40 °C et 70 °C pour les applications calorifiques et à (20 5) °C pour les applications frigorifiques, sauf stipulations différentes dans le certificat d'examen de type, le certificat d'examen CE ou UE de type ou le certificat d'examen CE ou UE de la conception. Le fonctionnement du dispositif indicateur de l'instrument est vérifié dans au moins un des essais.
 
 d) Calculateur et paires de sondes de température
 
@@ -180,4 +182,4 @@ et qi ≤ q ≤ 1,1 × qi
 
 |
 
-La température de sortie se situe dans l'étendue de température entre 40 °C et 70 °C pour les applications calorifiques et à (20 ± 5) °C pour les applications frigorifiques, sauf stipulations différentes dans le certificat d'examen de type, le certificat d'examen CE de type ou le certificat d'examen CE de la conception. Le fonctionnement du dispositif indicateur de l'instrument est vérifié dans au moins un des essais.
+La température de sortie se situe dans l'étendue de température entre 40 °C et 70 °C pour les applications calorifiques et à (20 ± 5) °C pour les applications frigorifiques, sauf stipulations différentes dans le certificat d'examen de type, le certificat d'examen CE ou UE de type ou le certificat d'examen CE ou UE de la conception. Le fonctionnement du dispositif indicateur de l'instrument est vérifié dans au moins un des essais.
