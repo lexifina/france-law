@@ -348,11 +348,9 @@ Ateliers provençaux, 2, boulevard de Radoub, cap Pinède, 13002 Marseille : de 
 
 Azur Montage, ZI Les Bartavelles-les Négadoux, 83140 Six-Fours-les-Plages : de 1989 à 2004.
 
-Balazuc chaudronnerie constructions métalligues méridionales (BALZUC CCMM) Enceinte portuaire, bassin de radoub, bâtiment est, Marseille. De 1987 à 1992.
+Balazuc chaudronnerie constructions métalligues méridionales (BALZUC CCMM) Enceinte portuaire, bassin de radoub, bâtiment est, Marseille : De 1987 à 1992.
 
 Boulogne et Huard, Boulogne et Huard - Diesel hydrau ZI La Feuillane Lot 841/62-63 13270 FOS-SUR-MER ZI Marseille Nord 13480 CABRIES Le Collet rouge Plan de campagne 13170 LES PENNES-MIRABEAU De 1975 à 1996
-
-Bouygues Offshore, 167, plage de l'Estaque, 13016 Marseille : en 1980.
 
 Burg Industrie Lotissement industriel du Capitaine-Geze, 13014 Marseille, De 1977 à 1983.
 
@@ -885,6 +883,8 @@ Société des anciens établissements Henri-Satre 51, route de Barriol, Arles et
 Société Etude et maintenance hydraulique (EHM), 8, boulevard Mirabeau, 13002 Marseille : depuis 1988.
 
 Société Fovelev marine, ZI de Brégaillon, 83500 La Seyne-sur-Mer : Depuis 1996.
+
+Société française d'entreprises de dragages et de travaux publics (SFEDTP), Dragages et travaux publics (DTP), Dragages travaux publics fluviaux et maritimes (DTPFM), Bouygues Offshore, 10, place de la Joliette, 13002 MARSEILLE, 167, plage de l'Estaque, 13016 MARSEILLE, 167, plage de l'Estaque, BP3, 13321 MARSEILLE CEDEX : De 1972 à 2000
 
 Société générale de travaux, 1, avenue Kennedy, 13600 La Ciotat : de 1967 à 1974
 
