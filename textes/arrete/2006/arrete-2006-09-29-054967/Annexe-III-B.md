@@ -1662,101 +1662,95 @@ Une fiche du bilan de diagnostic différé (format A 4) à utiliser lorsque le b
 
 ANNEXE 3 BIS
 
-ANNEXE RELATIVE À L'UTILISATION DES SYSTÈMES DE MAMMOGRAPHIE NUMÉRIQUE DANS LE DÉPISTAGE ORGANISÉ DES CANCERS DU SEIN
+L'UTILISATION DES SYSTÈMES DE MAMMOGRAPHIE NUMÉRIQUE DANS LE DÉPISTAGE ORGANISÉ DES CANCERS DU SEIN
 
 I. - Définition
 
-Les techniques de mammographie numérique sont : les mammographes plein champ, les plaques ERLM (écran radio-luminescent à mémoire) et les systèmes à balayage. L'utilisation ou la lecture sur console de films numérisés secondairement n'est pas autorisée.
+Les techniques de mammographie numérique sont les mammographes plein champ, les plaques ERLM (écran radio-luminescent à mémoire) et les systèmes à balayage. L'utilisation ou la lecture sur console de films numérisés secondairement n'est pas autorisée.
 
-II. - Formation préalable des radiologues premiers et seconds lecteurs
+II. - Formation préalable des radiologues et manipulateurs en électro-radiologie médicale
 
 1. La formation dans le cadre du dépistage organisé comprend deux modalités
 
-a) Radiologue premier lecteur :
+a) Radiologue :
 
-Conformément au cahier des charges, les radiologues devront avoir effectué au préalable la formation spécifique de premier lecteur. Cette formation des premiers lecteurs comprend un module relatif au dépistage organisé (tronc commun) ainsi qu'un module de lecture sur film (module analogique) ou sur console (module numérique).
+Conformément au cahier des charges, les radiologues devront avoir effectué au préalable la formation spécifique. Cette formation comprend un module relatif au dépistage organisé (tronc commun) et un module de lecture sur films et sur console d'interprétation (module numérique).
 
-Les radiologues déjà formés pratiquant la mammographie numérique s'engagent à effectuer le module numérique complémentaire de la formation sous deux ans (sans refaire l'intégralité du cursus). Faute de quoi, ils ne seront plus habilités à la première lecture d'images numériques dans le cadre du programme de dépistage organisé.
-
-b) Radiologue second lecteur :
-
-Tout second lecteur devra effectuer au préalable la formation à la seconde lecture comme précisée dans le cahier des charges. Cette formation des seconds lecteurs associera la pratique de la lecture de films issus de mammographes analogiques et de mammographes numériques. Cette formation intégrera l'enseignement des spécificités techniques liées à l'utilisation du numérique.
+Les radiologues pratiquant la mammographie numérique et n'ayant pas effectué le module numérique complémentaire de la formation ne seront pas habilités à la lecture d'images numériques.
 
 Le seuil du nombre de lectures annuelles à effectuer reste inchangé.
 
+b) Manipulateur en électro-radiologie médicale :
+
+Tout manipulateur diplômé d'état ou assimilé, amené à réaliser des mammographies dans le cadre du programme national de dépistage organisé du cancer du sein, devra effectuer au préalable une formation spécifique pour les manipulateurs en électro-radiologie médicale.
+
+A titre transitoire, les manipulateurs en électro-radiologie médicale disposent d'un délai d'un an à compter de l'entrée en vigueur du présent arrêté pour effectuer cette formation.
+
 2. Suivi de l'obligation de formation
 
-Les radiologues s'engagent à transmettre aux structures de gestion les détails concernant les formations effectuées. Dans le cadre de leur mission d'assurance qualité, les structures de gestion sont responsables du suivi de ces formations et de la vérification des pré-requis ci-dessus.
+Les radiologues s'engagent à transmettre aux structures de gestion les détails concernant les formations qu'ils ont suivies. Dans le cadre de leur mission d'assurance qualité, les structures de gestion sont responsables de la vérification des prérequis ci-dessus. Le suivi des formations des manipulateurs en électro-radiologie est sous la responsabilité de l'exploitant.
 
 III. - Matériel
+
+L'installation de mammographie numérique comprend : le mammographe, les films, le reprographe laser, la console d'acquisition et la console d'interprétation, les négatoscopes et, le cas échéant, le lecteur de plaques, les cassettes et les écrans ERLM.
 
 Il est de la responsabilité de l'exploitant :
 
 - de s'assurer que l'ensemble de son matériel a été mis sur le marché pour la réalisation de mammographies numériques ;
 
-- d'en informer la structure de gestion.
-
-L'installation de mammographie numérique comprend : le mammographe (analogique ou numérique), les films, le reprographe laser, la console, les négatoscopes et, le cas échéant, le lecteur de plaques, les cassettes et les écrans ERLM.
+- d'en informer la structure de gestion en remplissant, signant et transmettant la fiche de renseignement (modèle joint) au démarrage de l'activité et après chaque changement dans l'installation du centre de radiologie.
 
 1. Type de matériel
 
 1.1. Taille du détecteur
 
-Les centres de radiologie doivent pouvoir réaliser des mammographies grand format (détecteur de dimensions supérieures ou égales à 21 × 26 centimètres).
-
-Les centres de radiologie possédant un mammographe numérique dont la taille du détecteur est inférieure ne sont autorisés à participer au dépistage organisé qu'à partir du moment où, sur le même site, ils ont la possibilité d'effectuer une mammographie grand format sur un autre appareil (analogique ou numérique).
+Les centres de radiologie doivent pouvoir réaliser des mammographies grand format (détecteur de dimensions supérieures ou égales à 21 × 26 centimètres). Les centres de radiologie possédant un mammographe numérique dont la taille du détecteur est inférieure ne sont autorisés à participer au dépistage organisé qu'à partir du moment où, sur le même site, ils ont la possibilité d'effectuer une mammographie grand format sur un autre appareil numérique.
 
 1.2. Agrandissement
 
-Le bilan diagnostique immédiat effectué par le radiologue premier lecteur suite à une mammographie de dépistage positive comprend un agrandissement pour les microcalcifications.
+Deux techniques sont possibles :
 
-Cet agrandissement doit garantir une qualité d'image minimale.
+- agrandissement (s) géométrique (s) réel (s) utilisant un système d'agrandissement positionné directement sur le mammographe ;
 
-Trois techniques sont possibles :
+- zoom numérique sur l'image native, dont le détecteur direct (uniquement : plein champ ou balayage) a une taille de pixels inférieure ou égale à 50 microns.
 
-- agrandissement géométrique direct en utilisant un système d'agrandissement avec porte-cassette sur le mammographe ;
-
-- zoom numérique sur console utilisant l'image native ;
-
-- détecteur dont la taille des pixels est inférieure ou égale à 50 microns.
-
-La seule utilisation du zoom numérique sur la console pour les appareils ayant une taille de pixel supérieure à 50 microns n'est pas autorisée au titre d'agrandissement.
-
-Les systèmes de mammographie numérique ne possédant pas de système d'agrandissement adéquat seront autorisés à participer au dépistage organisé si, sur le même site, il est possible d'effectuer un agrandissement sur un autre appareil (analogique ou numérique).
+Les systèmes de mammographie numérique ne possédant pas de système d'agrandissement adéquat ne seront pas autorisés à participer au dépistage organisé un an après la publication du présent arrêté. Le système d'agrandissement est obligatoire pour garantir une qualité image optimale.
 
 1.3. Films et reprographe laser
 
-Le reprographe doit avoir été conçu et validé pour la mammographie numérique. La taille du pixel d'impression doit être inférieure ou égale à la taille du pixel d'acquisition.
-
-Les films laser doivent avoir été mis sur le marché pour la mammographie numérique.
+Le reprographe doit avoir été conçu et validé pour la mammographie numérique. La taille du pixel d'impression doit être inférieure ou égale à la taille du pixel d'acquisition. Les films laser doivent avoir été mis sur le marché pour la mammographie numérique.
 
 2. Contrôle de qualité
 
-Les modalités du contrôle de qualité interne et externe sont fixées par la décision de l'AFSSAPS du 30 janvier 2006 et le référentiel en annexe publiée au JO du 11 mars 2006. Cette décision est entrée en vigueur depuis le 11 septembre 2006. Le contrôle initial des installations de mammographie nouvellement mises en service doit être effectué avant la première utilisation clinique.
+Les modalités du contrôle de qualité interne et externe sont fixées par les décisions de l'ANSM en vigueur. Le contrôle initial des installations de mammographie doit être effectué avant la première utilisation clinique.
 
-Le contrôle de qualité externe est effectué tous les six mois par un organisme agréé par l'AFSSAPS.
+Le contrôle de qualité externe est effectué tous les six mois par un organisme agréé par l'ANSM.
 
-Avant d'autoriser un système de mammographie numérique dans le cadre du dépistage organisé, la structure de gestion vérifiera que le système a bien satisfait au contrôle de qualité (envoi par le centre de radiologie du certificat de passage semestriel de l'équipe de contrôle qualité externe agréée par l'AFSSAPS) et que les caractéristiques du matériel répondent aux recommandations du cahier des charges.
+Avant d'autoriser tout système de mammographie numérique dans le cadre du dépistage organisé, la structure de gestion vérifiera que le système a bien satisfait au contrôle de qualité (envoi par le centre de radiologie du certificat de passage semestriel de l'équipe de contrôle qualité externe agréée par l'ANSM) et que les caractéristiques du matériel répondent aux recommandations du cahier des charges.
 
-Les modalités d'information des structures de gestion du dépistage en cas de non-conformité des installations définies par la circulaire DGS/SD5A n° 2004-456 du 16 septembre 2004 s'appliquent à l'utilisation de systèmes de mammographie numérique.
+Ce certificat de passage devra être fourni à la structure de gestion tous les six mois par le centre de radiologie.
+
+En cas de changement de matériel, le centre de radiologie devra en avertir la structure de gestion.
+
+Les modalités d'information des structures de gestion du dépistage en cas de non-conformité des installations définies par la circulaire DGS/ MC3/2013 du 17 juin 2013 relative à l'information concernant le contrôle qualité des installations de mammographies numériques ou toute autre instruction en vigueur s'appliquent à l'utilisation de systèmes de mammographie numérique.
 
 IV. - Première lecture dans le centre de radiologie
 
 1. Technologies utilisées
 
-Les modalités utilisées (type d'appareil, console) seront renseignées dans la fiche d'interprétation annexée. Ces informations seront également consignées dans le compte-rendu de l'examen radiologique.
+Les modalités utilisées (type et marque d'appareil, console d'interprétation) seront obligatoirement recueillies via les différents items définis dans la fiche d'interprétation. Ces informations seront également consignées dans le compte rendu de l'examen radiologique.
 
 2. Lecture des clichés sur console ou sur films laser
 
-Durant la phase transitoire, le premier lecteur a la possibilité d'interpréter les clichés soit :
+Le premier lecteur a la possibilité d'interpréter les clichés soit :
 
-- sur console de lecture :
+- sur console d'interprétation :
 
-La console de lecture devra permettre un affichage des images suivant la règle : 1 pixel affiché = 1 pixel acquis. Durant la procédure de lecture d'un examen de mammographie, le radiologue devra pouvoir visualiser une seule image par écran en mode 1:1 et ce pour l'ensemble des images.
+La console d'interprétation devra permettre un affichage des images suivant la règle : 1 pixel affiché = 1 pixel acquis. Durant la procédure de lecture d'un examen de mammographie, le radiologue devra pouvoir visualiser une seule image par écran en mode 1 : 1, et ce pour l'ensemble des images.
 
-Seuls des moniteurs 5 mégapixels permettent une lecture adaptée à la mammographie ;
+Seules les consoles équipées de deux moniteurs d'un minimum de 5 mégapixels chacun ou d'un moniteur d'un minimum de 10 mégapixels (permettant d'afficher côte à côte 2 images en pleine résolution) permettant une lecture adaptée à la mammographie sont autorisées ;
 
-- sur film laser, les modalités sont les mêmes que pour la lecture des mammographies analogiques.
+- sur film laser, les modalités sont les mêmes que pour la lecture des mammographies analogiques. La lecture sur films laser ne sera autorisée que pour les clichés antérieurs.
 
 Le centre de radiologie veillera à respecter un ratio de 1 entre le format d'acquisition et le format d'impression : 1 pixel acquis = 1 pixel imprimé.
 
@@ -1764,94 +1758,38 @@ Comme en analogique, une seule image sera imprimée par film.
 
 L'impression de deux images (ou plus) sur un seul film n'est pas autorisée.
 
-Le format du film d'impression devra correspondre au plus près au format d'acquisition. A savoir 20 × 25 (8 × 10 inches) pour le petit format et 25 × 30 (10 × 12 inches) pour le grand format.
+Le format du film d'impression devra correspondre à (20 × 25 centimètres) (8 × 10 inches) pour le petit format et à (25 × 30 centimètres) (10 × 12 inches) pour le grand format.
 
-Le marquage de l'incidence et du côté devra être présent sur chaque film, ainsi que le nom de la patiente et la date d'examen.
+Le marquage de l'incidence et du côté devra être présent sur chaque film, ainsi que le nom, prénom, date de naissance de la patiente et la date d'examen.
 
 3. Eléments transmis au médecin coordonnateur de la structure de gestion
 
-Les clichés numériques transmis sont issus d'une impression laser directe (sans modification préalable des images par le radiologue sur la console) sur films dédiés à la mammographie.
+Les clichés numériques transmis sont issus d'une impression laser directe (sans modification préalable des images par le radiologue sur la console d'interprétation) sur films dédiés à la mammographie.
 
 Le radiologue vérifie la qualité des clichés issus de l'impression laser.
 
-Si la manipulation de certaines images sur la console (zoom, fenêtrage, contraste, luminosité) a fourni des informations déterminantes pour faciliter le diagnostic, les clichés qui en sont issus devront être également transmis au médecin coordonnateur de la structure de gestion pour la seconde lecture.
+Si la manipulation de certaines images sur la console d'interprétation (zoom, fenêtrage, contraste, luminosité ...) a fourni des informations déterminantes pour faciliter le diagnostic, les clichés qui en sont issus devront être également transmis au médecin coordonnateur de la structure de gestion pour la seconde lecture.
 
 V. - Seconde lecture au sein de la structure de gestion
 
-Les négatoscopes déroulants doivent être adaptables aux films laser et doivent satisfaire au contrôle de qualité tel que défini par la décision de l'AFSSAPS du 7 octobre 2005.
+Les négatoscopes déroulants doivent être adaptables aux films laser et doivent satisfaire au contrôle de qualité tel que défini par la décision de l'ANSM en vigueur.
 
 1. Support
 
-La seconde lecture sera réalisée au sein de la structure de gestion sur les clichés laser selon les mêmes modalités que pour la mammographie analogique. L'information concernant le type de mammographie (numérique ou analogique) sera indiquée en seconde lecture dans le champ réservé à cet effet (type de deuxième lecture) de la fiche de recueil de données.
+La seconde lecture est réalisée au sein de la structure de gestion sur les clichés laser selon les mêmes modalités que pour la mammographie analogique.
 
 2. CTI
 
-Dans le cadre des clichés dits techniquement insuffisants (CTI), le second lecteur indiquera clairement le motif de ce CTI et la conduite à tenir :
+Dans le cadre des clichés dits techniquement insuffisants (CTI) , le second lecteur indiquera clairement le motif de ce CTI et la conduite à tenir :
 
-- défaut de positionnement : cliché à refaire ;
+- défaut de positionnement et qualité image : cliché à refaire ;
 
-- ou mauvaise qualité de l'impression : réimpression du cliché (si l'image a été archivée, sinon le refaire).
+- mauvaise qualité de l'impression : réimpression du cliché si l'image a été archivée, sinon le refaire.
 
 VI. - Evaluation des dépistages réalisés en mammographie numérique
 
-La fiche technique d'interprétation doit comprendre les variables suivantes : le type de matériel utilisé en première lecture (mammographe analogique, mammographe numérique DR, système numérique CR, système à balayage), le type de première lecture (films analogiques, films numériques imprimés).
+La fiche technique d'interprétation doit comprendre les variables suivantes : le type et la marque de matériel utilisé en première lecture (mammographe analogique, mammographe numérique DR, système numérique CR, système à balayage ...), le type de première lecture (films analogiques, films numériques imprimés, lecture sur console d'interprétation).
 
-Les structures de gestion s'engagent à communiquer les données figurant dans le tableau ci-dessous à l'Institut de veille sanitaire :
+Annexes
 
-MAMMOGRAPHIE
-
-analogique
-
-|
-
-MAMMOGRAPHIE
-
-numérique
-
-|
-
-Nombre de mammographies effectuées.
-
-|
-
-Nombre de mammographies effectuées.
-
-|
-
-Nombre de mammographies positives (ACR 3-4-5-0) en première lecture avant bilan.
-
-|
-
-Nombre de mammographies positives (ACR 3-4-5-0) en première lecture avant bilan.
-
-|
-
-Nombre de mammographies reçues en seconde lecture.
-
-|
-
-Nombre de mammographies reçues en seconde lecture.
-
-|
-
-Nombre de CTI.
-
-|
-
-Nombre de CTI.
-
-|
-
-Nombre de clichés ACR 3-4-5-0 en seconde lecture.
-
-|
-
-Nombre de clichés ACR 3-4-5-0 en seconde lecture.
-
-|
-
-Ces informations seront analysées afin de connaître les résultats des deux technologies par département. Cette première évaluation doit permettre d'analyser l'impact de l'introduction de la technologie numérique dans le programme. Par la suite, cette analyse sera complétée par les indicateurs de qualité concernant les résultats des bilans de diagnostic et les cancers détectés.
-
-Vous pouvez consulter les fiches d'interprétation dans le JO n° 30 du 05/02/2008 texte numéro 25 à l'adresse suivante :
-
-http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20061221&numTexte=00166&pageDebut=00166&pageFin=
+Vous pouvez consulter le modèle de fiche de renseignement sur le matériel et la fiche d'interprétation nationale dans le JO n° 268 du 18 novembre 2016, texte n° 19, à l'adresse suivante : https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000033415740
