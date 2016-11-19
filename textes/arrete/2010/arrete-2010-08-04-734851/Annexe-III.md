@@ -18,7 +18,9 @@ de la commission titulaire
 
 PRÉSIDENCE
 
-de la commission suppléante |
+de la commission suppléante
+
+|
 
 MEMBRES
 
@@ -226,15 +228,15 @@ BRANCHES
 
 |
 
-PRÉSIDENCE
+PRÉSIDENCE DE LA COMMISSION
 
-de la commission titulaire
+titulaire
 
 |
 
-PRÉSIDENCE
+PRÉSIDENCE DE LA COMMISSION
 
-de la commission suppléante
+suppléant
 
 |
 
@@ -306,7 +308,7 @@ Un officier du grade de colonel de la branche considérée, à défaut, désign�
 
 Cinq officiers supérieurs désignés par le commandant du soutien opérationnel de la gendarmerie nationale.
 
-Un officier supérieur de chaque service comptant au moins un sous-officier de gendarmerie remplissant les conditions statutaires pour être promu au grade supérieur (direction de la coopération internationale, commandement de la gendarmerie prévôtale, commandement spécialisé pour la sécurité nucléaire).
+Un officier supérieur de chaque service comptant au moins un sous-officier de gendarmerie remplissant les conditions statutaires pour être promu au grade supérieur (direction de la coopération internationale, commandement de la gendarmerie prévôtale, commandement spécialisé pour la sécurité nucléaire, commandement des réserves de la gendarmerie).
 
 Ces membres sont désignés par le directeur des personnels militaires de la gendarmerie nationale.
 
@@ -326,7 +328,7 @@ L'officier de gendarmerie adjoint au sous-directeur de la gestion du personnel.
 
 Trois officiers supérieurs appartenant respectivement à la direction des opérations et de l'emploi, à la direction des personnels militaires de la gendarmerie nationale et à la direction des soutiens et des finances.
 
-Un officier supérieur de chaque service comptant au moins un sous-officier de gendarmerie remplissant les conditions statutaires pour être promu au grade supérieur (cabinet du directeur général de la gendarmerie nationale, service des technologies et des systèmes d'information de la sécurité intérieure, service d'information et de relations publiques des armées-gendarmerie, mission du pilotage et de la performance, service de l'achat, des équipements et de la logistique de la sécurité intérieure, délégation aux réserves de la gendarmerie).
+Un officier supérieur de chaque service comptant au moins un sous-officier de gendarmerie remplissant les conditions statutaires pour être promu au grade supérieur (cabinet du directeur général de la gendarmerie nationale, service des technologies et des systèmes d'information de la sécurité intérieure, service d'information et de relations publiques des armées-gendarmerie, mission du pilotage et de la performance, service de l'achat, des équipements et de la logistique de la sécurité intérieure).
 
 Le chef du bureau du personnel sous-officier de gendarmerie et volontaire.
 
@@ -364,7 +366,7 @@ Le commandant en second du groupe d'intervention de la gendarmerie nationale.
 
 |
 
-Les chefs d'états-majors, les chefs des forces et le chef de détachement
+Les chefs d'état-major, les chefs des forces et le chef de détachement.
 
 |
 
@@ -372,7 +374,7 @@ Personnel servant au sein du pôle judiciaire de la gendarmerie nationale.
 
 |
 
-L'adjoint au commandant du pôle judiciaire de la gendarmerie nationale
+L'adjoint au commandant du pôle judiciaire de la gendarmerie nationale.
 
 |
 
