@@ -1,0 +1,9 @@
+# Réponse à la question n° 64115
+
+- Question : [64115](64115.md) — Question n° 64115 — réforme; perspectives
+
+## Réponse
+
+*JO du 2016-11-22*
+
+Le projet de loi constitutionnelle adopté par le Sénat le 4 juillet 2013 et de manière conforme par l'Assemblée nationale le 26 avril 2016 renforce les attributions confiées au Conseil supérieur de la magistrature (CSM). Il prévoit d'inscrire à l'article 64 de la Constitution que le Conseil supérieur concourt à la garantie de l'indépendance de l'autorité judiciaire par le président de la République. Les compétences du Conseil supérieur fixées à l'article 65 de la Constitution seront en outre élargies : l'ensemble des nominations des magistrats du parquet, y compris celles des procureurs généraux, seront soumises à son avis conforme et le pouvoir de sanction disciplinaire à l'égard des magistrats du parquet relèvera de sa compétence, et non plus de celle du garde des sceaux. En revanche, il n'a pas été envisagé de confier au CSM la gestion de la carrière des magistrats, une telle réforme n'apparaissant pas opportune, dès lors que le ministre de la justice, responsable devant le Parlement du bon fonctionnement du service public de la justice, doit demeurer en charge de son organisation, ainsi que du recrutement, de l'emploi et de la gestion des magistrats. A ce jour, le projet de loi constitutionnelle n'a pas pu être soumis par le président de la République au Parlement, réuni en Congrès. En effet, la majorité sénatoriale ayant fait savoir qu'elle ne s'estimait pas liée par son vote du 4 juillet 2013, une majorité renforcée des 3/5ème, nécéssaire à l'adoption du texte, ne semble pas pouvoir être réunie. Enfin, s'agissant du secret de la défense, aucun projet normatif concernant la procédure de déclassification n'a été déposé à ce jour. Au demeurant, l'initiative d'une telle réforme ne relève pas de la compétence du ministère de la justice.
