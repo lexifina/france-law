@@ -1,0 +1,9 @@
+# Réponse à la question n° 99082
+
+- Question : [99082](99082.md) — Question n° 99082 — armement nucléaire; réduction; attitude de la France
+
+## Réponse
+
+*JO du 2016-11-22*
+
+La France ne soutient pas la recommandation du groupe de travail à composition non limitée de l'ONU (OEWG) sur la négociation d'un traité d'interdiction des armes nucléaires car celle-ci ne prend pas en considération les enjeux de sécurité internationale, dans un contexte de tensions accrues, en particulier dans l'espace euro-atlantique et la péninsule coréenne. Un traité d'interdiction risquerait de déstabiliser les architectures régionales de sécurité en Europe, Asie et Moyen-Orient. La politique de sécurité et de défense de nos alliés, ainsi que d'autres partenaires proches, repose directement ou indirectement sur une politique de dissuasion nucléaire. Celle-ci concourt à la stabilité internationale depuis soixante-dix ans. D'autre part, la France considère qu'un tel traité n'apporterait aucun progrès concret en matière de désarmement nucléaire puisqu'aucun Etat doté ou Etat possesseur d'armes nucléaires n'y participera. Un traité d'interdiction des armes nucléaires risque de fragiliser le traité sur la non-prolifération des armes nucléaires en divisant durablement les Etats parties. Sans mécanisme de vérification, il risque également de fragiliser le régime de non-prolifération qui s'appuie sur l'Agence internationale de l'énergie atomique (AIEA). La France reste engagée en faveur d'un processus de désarmement pragmatique et graduel, conforme à l'article VI du traité sur la non-prolifération des armes nucléaires, et dont les prochaines étapes logiques sont la poursuite de la réduction des arsenaux russes et américains, l'entrée en vigueur du TICE et le lancement des négociations sur un traité d'interdiction de la production de matières fissiles pour les armes nucléaires.
