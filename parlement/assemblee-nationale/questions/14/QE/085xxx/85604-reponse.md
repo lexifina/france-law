@@ -1,0 +1,9 @@
+# Réponse à la question n° 85604
+
+- Question : [85604](85604.md) — Question n° 85604 — cigarettes non combustibles; utilisation; réglementation
+
+## Réponse
+
+*JO du 2016-11-22*
+
+Le nombre d'utilisateurs de cigarettes électroniques a fortement augmenté au cours des dernières années. Selon leurs présentations ou leurs concentrations en nicotine, ces produits peuvent être considérés comme des médicaments ou des produits connexes du tabac. Ainsi, la cigarette électronique est considérée comme médicament si elle est présentée comme supprimant l'envie de fumer ou réduisant l'accoutumance au tabac et lorsqu'elle contient plus de 20 mg/ml de nicotine. Dans ce cas, elle relève de la réglementation relative aux médicaments et doit, pour être commercialisée en France, obtenir de la part de l'agence nationale de sécurité du médicament et des produits de santé (ANSM) une autorisation de mise sur le marché (AMM). Cependant, à ce jour, aucun modèle de cigarette électronique ne dispose d'une AMM. L'article 20 de la directive 2014/40/UE relatif aux cigarettes électroniques tient compte de ces spécifications en précisant dans l'alinéa 3 que le liquide contenant de la nicotine ne peut être commercialisé que dans des flacons de recharge dédiés, d'un volume maximal de 10 millilitres, dans des cigarettes électroniques jetables ou dans des cartouches à usage unique, les cartouches ou les réservoirs ne pouvant excéder 2 millilitres. Il précise également que le liquide contenant de la nicotine ne doit pas contenir une quantité de nicotine supérieure à 20 mg/ml. Ces dispositions s'appliquent à tous les fabricants et les importateurs de dispositifs de vapotage et de flacons de recharge. Ces dispositions sont transposées à l'article L.3513-8 du code de la santé publique et précisées dans l'arrêté du 19 mai 2016 relatif aux produits du vapotage contenant de la nicotine.
