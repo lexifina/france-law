@@ -1,0 +1,9 @@
+# Réponse à la question n° 93223
+
+- Question : [93223](93223.md) — Question n° 93223 — cessions; défense; perspectives
+
+## Réponse
+
+*JO du 2016-11-22*
+
+L'article 3 de la loi no 2013-1168 du 18 décembre 2013, dans sa rédaction issue de l'article 2 de la loi no 2015-917 du 28 juillet 2015 actualisant la programmation militaire pour les années 2015 à 2019 et portant diverses dispositions concernant la défense, prévoit l'attribution au profit de la mission « Défense » de ressources d'un montant de 930 M€ découlant de cessions immobilières et de matériels. Ces ressources proviendront, d'une part, du produit des cessions d'emprises immobilières à percevoir sur le compte d'affectation spéciale « Gestion du patrimoine immobilier de l'Etat » (à hauteur de 730 M€) et, d'autre part, du produit attendu des cessions de matériels majeurs (à hauteur de 200 M€). A ce jour, le produit estimé des cessions immobilières sur la période 2015-2019 s'élève à 814 M€ et se décompose de la manière suivante : - 189 M€ de recettes provenant des cessions antérieures à 2015 ; - 625 M€ de recettes provenant des cessions des emprises situées en région parisienne et en province (respectivement 407 et 218 M€). Cette évaluation, supérieure au montant des 730 M€ de recettes inscrit dans la loi de programmation militaire, sera amenée à évoluer en raison des négociations en cours concernant plusieurs emprises significatives du ministère. Par exemple, l'Îlot Saint-Germain fait actuellement l'objet d'études de valorisation, l'aliénation de cet ensemble immobilier étant attendue en 2017. Par ailleurs, le produit attendu des cessions de matériels majeurs s'élève à 50 M€ de recettes non fiscales au titre de chacune des années 2016 à 2019. L'année 2017 verra l'encaissement de la fraction annuelle de la vente au Brésil du transport de chalands de débarquement (TCD) « Siroco », pour un montant de 24 M€, qui sera complété par les recettes issues de cessions d'autres matériels.
