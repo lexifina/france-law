@@ -1,0 +1,9 @@
+# Réponse à la question n° 94291
+
+- Question : [94291](94291.md) — Question n° 94291 — établissements français; laïcité
+
+## Réponse
+
+*JO du 2016-11-22*
+
+En vertu du code de l'éducation, les établissements d'enseignement français « dispensent dans le respect des principes définis à l'article L.111-1, un enseignement conforme aux programmes, aux objectifs pédagogiques et aux règles d'organisation applicables, en France, aux établissements de l'enseignement public ». Ces établissements sont homologués par le ministère en charge de l'éducation, en accord avec le ministère des affaires étrangères et du développement international. Ils s'engagent ainsi à respecter les principes fondamentaux de liberté, d'égalité et de laïcité ainsi que d'organisation pédagogique et éducative et de fonctionnement. Ces principes sont appréciés en tenant compte du contexte et des spécificités locales. Comme illustration de cet engagement, la charte de la laïcité rappelant les principes fondamentaux de la laïcité et précisant sa mise en œuvre dans les établissements a été adressée à l'ensemble des établissements. Plus particulièrement, les établissements en gestion directe ont procédé à son affichage public. Les autres établissements conventionnés ou partenaires de l'AEFE, de droit privé, sont libres de procéder ou non à l'affichage de ce document. Par ailleurs, l'ensemble des établissements a été invité à afficher la Déclaration des droits de l'Homme et du citoyen. Il convient de préciser qu'environ deux-tiers des élèves scolarisés dans ce réseau sont étrangers, soit autant de langues et de formes d'appartenance culturelle et confessionnelle. Les valeurs républicaines transmises à l'ensemble des élèves doivent être respectées par tous. Ces établissements sont le symbole d'une richesse qu'il convient de préserver.
