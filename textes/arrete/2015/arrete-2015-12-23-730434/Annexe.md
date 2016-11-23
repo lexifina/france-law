@@ -209,3 +209,25 @@ Commissariat général à l'égalité des territoires
 Commissariat à l'aménagement du massif des Vosges
 
 |
+
+Directions territoriales de l'Institut français du cheval et de l'équitation
+
+|
+
+Directions territoriales :
+
+- Normandie, site de Saint-Lô ;
+
+- Nord-Pas-de-Calais-Picardie, site de Compiègne ;
+
+- Poitou-Charentes-Aquitaine Nord, sites de Saintes et Villeneuve-sur-Lot ;
+
+- Massif Pyrénéen Aquitaine, sites de Gelos-Tarbes ;
+
+- Champagne-Ardenne Alsace-Lorraine, site de Montier-en-Der ;
+
+- Auvergne Rhône-Alpes, site d'Aurillac ;
+
+- Arc méditerranéen, site de Rodez.
+
+|
