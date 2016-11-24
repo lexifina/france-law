@@ -1,0 +1,9 @@
+# Réponse à la question SEQ150114486
+
+- Question : [SEQ150114486](seq150114486.md) — Moyens et compétences donnés à l'autorité de régulation des activités ferroviaires
+
+## Réponse
+
+*Transports, mer et pêche, JO du 2016-11-24, page 5101*
+
+La loi n° 2015-990 du 6 août 2015 pour la croissance, l'activité et l'égalité des chances économiques a étendu le champ d'intervention de l'autorité de régulation des activités ferroviaires (Araf) aux secteurs des autocars et des autoroutes concédées à compter du 1er février 2016. L'Araf a été renommée autorité de régulation des activités ferroviaires (Arafer) et son activité s'articule autour de trois domaines d'intervention : - la régulation des tarifs de péage : l'Arafer assure un contrôle économique et financier des concessions (transparence, reporting). Elle formule un avis préalable sur les projets d'avenants aux contrats de concession existants et un avis postérieur à l'appel d'offres sur les projets de nouveaux contrats de concession ; - le contrôle des procédures de passation et d'exécution des marchés de travaux, fournitures et services des concessionnaires : l'Arafer a le pouvoir de saisir le juge en cas de manquement aux obligations de publicité et mise en concurrence ; - le contrôle des procédures de passation des contrats d'exploitation des installations annexes sur les aires de service (restauration, distribution de carburant). Pour exercer pleinement ses compétences, l'Arafer dispose de pouvoirs étendus afin d'accéder aux informations détenues par les concessionnaires d'autoroutes, leurs actionnaires et leurs filiales, ainsi que leurs cocontractants et leurs financeurs. Elle dispose également de pouvoirs d'enquête et de sanction en cas de manquements de ces acteurs à leurs obligations de communication d'information. Les particuliers peuvent à tout moment adresser leurs requêtes et remarques à l'Arafer, qui pourra utiliser ses moyens d'investigation dans le cas où elle le jugera nécessaire.
