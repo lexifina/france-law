@@ -53,3 +53,7 @@ Saint-Denis de La Réunion-Tananarive (Madagascar).
 Jusqu'au 31 mai 2021 :
 
 Saint-Denis de La Réunion-Chennai (Inde) ainsi que les liaisons au-delà de Chennai et en partage de codes avec une compagnie indienne, entre Saint-Denis de La Réunion et Dehli, Kochi et Bombay (Inde).
+
+Jusqu'au 31 octobre 2021 :
+
+Saint-Denis de La Réunion-Guangzhou (Chine).
