@@ -44,7 +44,7 @@ Délivrance des certificats individuels prévus aux articles L. 254-3 et L. 254-
 
 Article R. 254-11 du code rural et de la pêche maritime |
 
-Habilitation des organismes de formation prévue à l'article L. 254-3, dont les formations et tests sont réalisés sur un territoire ne dépassant pas celui de la région
+Habilitation des organismes de formation prévue à l'article L. 254-3
 
 |
 
