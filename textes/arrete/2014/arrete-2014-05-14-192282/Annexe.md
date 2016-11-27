@@ -4,9 +4,7 @@ INTITULÉS DES POSTES DE LA DIRECTION GÉNÉRALE DES ÉTRANGERS EN FRANCE
 
 |
 
-NIVEAU
-
-de responsabilité
+GRADE
 
 |
 
@@ -24,27 +22,7 @@ par emploi
 
 |
 
-Fonctions d'accueil
-
-|
-
-Agent d'accueil, standardiste à la sous-direction de l'accès à la nationalité française
-
-|
-
-C
-
-|
-
-2
-
-|
-
-20
-
-|
-
-Emplois de secrétariat auprès des directeurs et cadres dirigeants asujettis à des obligations spéciales d'horaires
+Emplois de secrétariat auprès des directeurs et cadres dirigeants assujettis à des obligations spéciales d'horaires
 
 |
 
@@ -52,7 +30,7 @@ Secrétaire du chef du service du pilotage et des systèmes d'information
 
 |
 
-C
+B ou C
 
 |
 
@@ -68,7 +46,7 @@ Secrétaire du directeur de l'asile
 
 |
 
-C
+B ou C
 
 |
 
@@ -84,7 +62,7 @@ Secrétaire du directeur de l'immigration
 
 |
 
-C
+B ou C
 
 |
 
@@ -100,7 +78,23 @@ Secrétaire du directeur de l'accueil, de l'accompagnement des étrangers et de 
 
 |
 
-C
+B ou C
+
+|
+
+2
+
+|
+
+20
+
+|
+
+Secrétaire du sous-directeur à la sous-direction des visas
+
+|
+
+B ou C
 
 |
 
@@ -112,43 +106,11 @@ C
 
 |
 
-Secrétaire du sous-directeur à la sous-direction des visas
-
-|
-
-C
-
-|
-
-2
-
-|
-
-15
-
-|
-
-Secrétaire du sous-directeur de l'accueil et de la prévention des discriminations
-
-|
-
-C
-
-|
-
-2
-
-|
-
-15
-
-|
-
 Secrétaire du sous-directeur de l'accès à la nationalité française
 
 |
 
-C
+B ou C
 
 |
 
@@ -164,7 +126,39 @@ Secrétaire du sous-directeur du séjour et du travail
 
 |
 
-C
+B ou C
+
+|
+
+1
+
+|
+
+15
+
+|
+
+Secrétaire du sous-directeur de la lutte contre l'immigration irrégulière
+
+|
+
+B ou C
+
+|
+
+1
+
+|
+
+15
+
+|
+
+Secrétaire du chef du département du pilotage et de la gestion des systèmes d'information
+
+|
+
+B ou C
 
 |
 
@@ -180,7 +174,7 @@ Fonctions impliquant une technicité particulière (informatique)
 
 |
 
-Directeur de l'application AGDREF 1, chef du pôle métier AGDREF 2
+Directeur (trice) de l'application AGDREF 1, chef du pôle métier AGDREF 2
 
 |
 
@@ -196,11 +190,31 @@ A
 
 |
 
-Coordonnateur au département des statistiques, des études et de la documentation
+Agents spécialisés à la cellule France-Visas
 
 |
 
-A ou B
+C
+
+|
+
+3
+
+|
+
+15
+
+|
+
+Emploi de responsable de l'établissement des documents budgétaires
+
+|
+
+Régisseur (euse) d'avances au service du pilotage et des systèmes d'information
+
+|
+
+B ou C
 
 |
 
@@ -212,11 +226,7 @@ A ou B
 
 |
 
-Emploi de responsable de l'établissement des documents budgétaires
-
-|
-
-Régisseur d'avances au service du pilotage et des systèmes d'information
+Régisseur (euse) d'avances à la sous-direction de l'accès à la nationalité française
 
 |
 
@@ -236,11 +246,11 @@ Emplois spécialisés impliquant l'utilisation de matériels ou de documentation
 
 |
 
-Coordonnateur, chargé de fonctions d'encadrement à la sous-direction des visas
+Coordonnateur (trice), chargé (e) de fonctions d'encadrement à la sous-direction des visas
 
 |
 
-B ou C
+C
 
 |
 
@@ -248,11 +258,11 @@ B ou C
 
 |
 
-20
+15
 
 |
 
-Agent chargé des dossiers techniques à la sous-direction des visas
+Agents affectés à la cellule ORG du bureau de l'organisation, du pilotage et du système d'information visas de la sous-direction des visas
 
 |
 
@@ -268,7 +278,7 @@ C
 
 |
 
-Rédacteurs juridiques à la sous-direction des visas
+Agents mettant en œuvre des compétences particulières au greffe de la commission de recours contre les décisions de refus de visa d'entrées en France (CRRV)
 
 |
 
@@ -276,7 +286,23 @@ C
 
 |
 
-3
+2
+
+|
+
+15
+
+|
+
+Adjoint (e) au chef du secteur 2 du bureau de l'instruction des demandes et du courrier réservé (BIDCR) de la sous-direction des visas
+
+|
+
+C
+
+|
+
+1
 
 |
 
@@ -300,7 +326,7 @@ C
 
 |
 
-Agent chargé de fonctions documentaires à la sous-direction des visas
+Agent chargé de fonctions documentaire à la sous-direction des visas
 
 |
 
@@ -329,6 +355,38 @@ C
 |
 
 10
+
+|
+
+Archiviste à la sous-direction de l'accès à la nationalité française
+
+|
+
+C
+
+|
+
+1
+
+|
+
+15
+
+|
+
+Adjoint (e) au chef de la section archives à la sous-direction de l'accès à la nationalité française
+
+|
+
+C
+
+|
+
+1
+
+|
+
+15
 
 |
 
