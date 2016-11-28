@@ -1,6 +1,6 @@
 # Article Annexe VI
 
-DÉTERMINATION DU NIVEAU DE POLLUTION ÉVITÉE
+DÉTERMINATION DU NIVEAU DE POLLUTION ANNUELLE ÉVITÉE
 
 1. Cas d'un épandage d'effluents sur des terres agricoles
 
@@ -62,7 +62,7 @@ Suivi périodique des points de rejet au milieu naturel.
 
 TABLEAU N° 4
 
-Détermination du coefficient d'élimination de la pollution
+Détermination du coefficient d'élimination de la pollution annuelle
 
 DONNÉES RELATIVES
 
@@ -212,7 +212,7 @@ NIVEAU MOYEN :
 
 - existence d'un plan d'épandage et tenue d'un cahier d'épandage ;
 
-- stockage d'effluents avant épandage suffisants et adaptés au vu du plan d'épandage.
+- stockage d'effluents avant épandage suffisants, adaptés au vu du plan d'épandage et en tenant compte des conditions climatiques de l'année.
 
 |
 
@@ -260,7 +260,7 @@ NIVEAU BON :
 
 - respect des contraintes identifiées et adéquation du matériel d'épandage à ces contraintes ;
 
-- les sols sont constamment en équilibre hydrique, les volumes apportés ne dépassant jamais les possibilités d'évapotranspiration et d'absorption des sols sans saturation de leur couche superficielle.
+- les sols sont constamment en équilibre hydrique, les volumes apportés ne dépassant jamais les possibilités d'évapotranspiration et d'absorption des sols sans saturation de leur couche superficielle. La pluviométrie et les volumes d'effluents épandus ne dépassent jamais la réserve utile des sols après déduction de l'évapotranspiration, et les lames d'eau par passage prescrites dans l'étude de périmètre sont respectées ou à défaut d'étude ne dépassent pas 20 et 60 mm/ mois respectivement sur les périodes d'excédents et de déficits hydriques.
 
 - en cas de stockage des effluents, un bilan hydrique met en évidence des pertes au plus égales à 5 %, ce taux pouvant être porté à 10 % si l'analyse de prélèvements sur piézomètre ne met pas en évidence d'impact significatif du stockage sur la qualité de la nappe
 
@@ -804,7 +804,9 @@ Pour l'élément constitutif de pollution SDE, s'il est démontré,
 
 - à l'appui de résultats de mesures représentatives de l'activité polluante du redevable, que les concentrations analytiques d'une ou plusieurs substances composant le paramètre sont inférieure (s) au (x) seuil (s) de quantification défini (s) dans l'avis en vigueur pris en application de l'arrêté du 27 octobre 2011 portant les modalités d'agrément des laboratoires effectuant des analyses dans le domaine de l'eau ;
 
-- ou à l'appui d'études représentatives de l'activité de l'établissement, que la substance n'est pas caractéristique des rejets de l'établissement, cette ou ces substances, en accord avec l'agence de l'eau, seront exclues du suivi analytique durant cinq années. A l'issue de cette période, une détermination de l'ensemble des substances composant l'élément constitutif de pollution SDE devra être réalisée pour ajuster, si nécessaire, le programme de mesure.
+- ou à l'appui d'études représentatives de l'activité de l'établissement, que la substance n'est pas caractéristique des rejets de l'établissement,
+
+cette ou ces substances, en accord avec l'agence de l'eau, seront exclues du suivi analytique durant cinq années. A l'issue de cette période, une détermination de l'ensemble des substances composant l'élément constitutif de pollution SDE devra être réalisée pour ajuster, si nécessaire, le programme de mesure.
 
 En cas de changement notable d'activité ou de l'autorisation d'exploiter au titre de la réglementation relative aux installations classées pour la protection de l'environnement visées à l'article L 511-1 du code de l'environnement, une détermination de l'ensemble des substances composant l'élément constitutif de pollution SDE devra être réalisée dans l'année qui suit le changement.
 
@@ -1654,8 +1656,10 @@ La pollution éliminée par le dispositif de dépollution est déterminée comme
 
 Pour les établissements raccordés à un dispositif collectif de dépollution, et dans l'impossibilité de mesurer les matières inhibitrices, les AOX et les SDE en amont et en aval du dispositif collectif de dépollution en raison des caractéristiques de l'effluent, les coefficients d'élimination des matières inhibitrices, des AOX et des SDE sont fixés par l'agence en application du tableau n° 6 ci-dessus et, s'il y a lieu, en tenant compte des résultats d'études de l'abattement de la pollution rejetée par l'établissement ou d'établissements réalisant la même activité.
 
-La valeur du coefficient d'élimination des boues issues du dispositif d'épuration est déterminée en application des dispositions du point c du 2 ci-dessus.
+La valeur du coefficient d'élimination des boues issues du dispositif d'épuration est déterminée en application des dispositions du point c du 2 ci-dessus (1).
 
 NOTA :
 
 Arrêté du 16 mars 2011 article 6 : Les dispositions du présent arrêté s'appliquent à la redevance déclarée au titre de l'année 2011 et des années suivantes, sauf les articles 1er, 3 et 4 qui s'appliquent également à la redevance déclarée au titre de l'année 2010.
+
+(1) Au lieu de " du point c du 2 ci-dessus" il convient de lire " du point b du 2 ci-dessus".
