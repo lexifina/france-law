@@ -76,6 +76,14 @@ Ressort du TGI
 
 |
 
+TGI de Moulins
+
+|
+
+Ressort du TGI
+
+|
+
 Alpes-de-Haute-Provence
 
 |
@@ -312,7 +320,15 @@ TGI de Brive-la-Gaillarde
 
 |
 
-Le département
+Ressort du TGI
+
+|
+
+TGI de Tulle
+
+|
+
+Ressort du TGI
 
 |
 
@@ -512,7 +528,15 @@ TGI de Toulouse
 
 |
 
-Le département
+Ressort du TGI
+
+|
+
+TGI de Saint-Gaudens
+
+|
+
+Ressort du TGI
 
 |
 
@@ -613,6 +637,14 @@ Le département
 |
 
 Isère
+
+|
+
+TGI de Bourgoin-Jallieu
+
+|
+
+Ressort du TGI
 
 |
 
@@ -792,7 +824,15 @@ TGI d'Angers
 
 |
 
-Le département
+Ressort du TGI
+
+|
+
+TGI de Saumur
+
+|
+
+Ressort du TGI
 
 |
 
@@ -1617,3 +1657,7 @@ TGI de Versailles
 Le département
 
 |
+
+NOTA :
+
+Les modifications des compétences des tribunaux de Saint-Gaudens (Haute-Garonne), Saumur (Maine-et-Loire) et Tulle (Corrèze) résultant du décret n° 2016-1608 du 25 novembre 2016 entrent en vigueur le 27 décembre 2016.
