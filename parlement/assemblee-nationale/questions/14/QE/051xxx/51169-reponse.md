@@ -1,0 +1,9 @@
+# Réponse à la question n° 51169
+
+- Question : [51169](51169.md) — Question n° 51169 — rapport annuel 2014; conclusions
+
+## Réponse
+
+*JO du 2016-11-29*
+
+Les droits de port se décomposent en sept taxes, dont le produit global s'est élevé à 513M€ en 2015. Ils sont perçus par la douane pour le compte des ports, après déduction des frais de perception et de procédure, et constituent pour certains une part majeure de leur chiffre d'affaires (66 % du CA du port du Havre, 60 % du CA du port de Marseille, à titre indicatif). A la suite du rapport annuel de la Cour des comptes de 2014, ayant souligné le faible rendement de la plupart d'entre elles, une mission d'audit de la direction générale des douanes et droits indirects (DGDDI) a été chargée de conduire une étude sur la perception des droits de port par la douane. Cette étude s'est attachée, en particulier, à analyser les circuits de perception et de reversement de ces redevances, auprès d'un panel représentatif de cinq grands ports maritimes et de ports de pêche régionaux. Les conclusions de cet audit devront permettre d'éclairer les choix de la DGDDI en matière de modernisation et de réingénierie des droits de port. Cette modernisation sera effectuée en étroite concertation avec la DGITM, l'union des ports français (UPF) et les redevables (notamment les armateurs). Cette réflexion s'intègre, par ailleurs, dans une perspective plus large de soutien et d'accompagnement par la DGDDI des ports français, dans le développement de leur offre logistique et l'amélioration de leur attractivité face à leurs principaux concurrents européens du "range nord" (Allemagne, Hollande, Belgique et Grande-Bretagne). La Banque mondiale a de ce point de vue salué les mesures ambitieuses lancées ces dernières années par la douane dans son dernier rapport annuel « Doing Business », qui classe la France première parmi 189 pays, en matière de commerce transfrontalier.
