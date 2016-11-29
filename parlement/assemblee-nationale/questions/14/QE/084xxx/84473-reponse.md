@@ -1,0 +1,9 @@
+# Réponse à la question n° 84473
+
+- Question : [84473](84473.md) — Question n° 84473 — rapport d'information; proposition
+
+## Réponse
+
+*JO du 2016-11-29*
+
+Le Gouvernement a suivi les préconisations du rapport d'information sur les professions juridiques réglementées présenté par Mme Cécile Untermaier et M. Philippe Houillon sur les deux points soulevés par M. le député Morel-A-L'Huissier. Ont ainsi été votées par le Parlement, au sein de la loi no 2015-990 du 6 août 2015, pour la croissance, l'activité et l'égalité des chances économiques, deux habilitations autorisant le gouvernement, d'une part, à « créer une profession de commissaire de justice regroupant les professions d'huissier de justice et de commissaire-priseur judiciaire » et, d'autre part, à faciliter la création de sociétés ayant pour objet l'exercice en commun de plusieurs professions du droit et du chiffre, dont les professions d'huissier de justice et de commissaire-priseur judiciaire. La profession de mandataire judiciaire a été écartée de la nouvelle profession de commissaire de justice dès l'examen en commission spéciale en première lecture à l'Assemblée nationale en raison des risques importants de conflit d'intérêts. Deux ordonnances ont été publiées en application des habilitations votées : d'une part l'ordonnance no 2016-394 du 31 mars 2016 relative aux sociétés constituées pour l'exercice en commun de plusieurs professions libérales soumises à un statut législatif ou réglementaire ou dont le titre est protégé, et d'autre part l'ordonnance no 2016-728 du 2 juin 2016 relative au statut de commissaire de justice. La première entrera en vigueur au plus tard le 1er juillet 2017, tandis que la seconde entrera en vigueur le 1er juillet 2022, de sorte que la chronologie proposée par les rapporteurs a elle aussi été respectée.
