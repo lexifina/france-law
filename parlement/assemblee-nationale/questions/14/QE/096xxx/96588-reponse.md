@@ -1,0 +1,9 @@
+# Réponse à la question n° 96588
+
+- Question : [96588](96588.md) — Question n° 96588 — collecte; médicaments non utilisés; réglementation
+
+## Réponse
+
+*JO du 2016-11-29*
+
+Les dispositions des articles R.4211-23 et suivants du code de la santé publique fixent les conditions dans lesquelles les médicaments non utilisés (MNU) par les particuliers et les établissements de santé doivent être éliminés. Cette filière passe par les officines de pharmacie, mais aussi par les pharmacies à usage intérieur des établissements de santé et médico-sociaux, en vue d'une destruction par incinération. Les MNU exportés constituent un danger potentiel, principalement en raison de leur inadaptation fréquente aux besoins, du risque de détournement qu'ils présentent, et de l'obstacle qu'ils peuvent constituer à la mise en place des politiques nationales de santé. L'Organisation Mondiale de la Santé a dénoncé ces situations et a demandé aux pays exportant des médicaments non utilisés de cesser ces pratiques. C'est ainsi qu'ont été prises en droit français, par le décret no 2009-718 du 17 juin 2009, les mesures rappelées ci-dessus imposant, en particulier, la destruction des médicaments non utilisés par incinération. Néanmoins, l'accès aux soins et aux médicaments des populations en situation de précarité reste une préoccupation majeure des autorités sanitaires. Aussi, les services du ministère de la santé se sont assurés auprès des organismes à but non lucratif et à vocation humanitaire, disposant d'un établissement pharmaceutique autorisé à distribuer ou exporter des médicaments, qu'ils étaient en capacité de répondre aux demandes des associations qui sollicitent leurs interventions, en vue de dispenser aux personnes en situation de précarité en France ou à l'étranger, des médicaments achetés auprès des industries pharmaceutiques.
