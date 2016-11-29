@@ -1,0 +1,9 @@
+# Réponse à la question n° 52608
+
+- Question : [52608](52608.md) — Question n° 52608 — centrales nucléaires; fermeture Fessenheim; transition énergétique; perspectives
+
+## Réponse
+
+*JO du 2016-11-29*
+
+Conformément aux articles L. 594-1 et suivants du code de l'environnement, le Commissariat à l'énergie atomique et aux énergies alternatives (CEA), doit disposer d'actifs dédiés à la couverture de ses charges de long terme, destinés à financer le démantèlement de ses installations nucléaires, y compris les installations nucléaires militaires. Il a donc été créé un « fonds défense » couvrant ces charges. À l'origine, ce fonds avait notamment été abondé par des soultes libératoires versées par les exploitants EDF et Areva au titre de leur quote-part dans certaines installations exploitées par le CEA. Depuis, les besoins de financement ont été couverts d'une part par une subvention annuelle inscrite à l'action 15 du programme 190 « recherche dans les domaines de l'énergie, du développement et de la mobilité durable » de la mission recherche et enseignement supérieur, et complétées d'autre part par la vente par le CEA à l'État de titres Areva. Le CEA a signé avec l'État une convention cadre relative au financement de ses charges de long terme en 2010. Cette convention matérialise l'engagement de l'État d'abonder les fonds dédiés du CEA, de façon à leur permettre d'inscrire cette créance à l'actif des fonds, et ainsi de respecter les articles L. 594-1 et suivants du code de l'environnement, en disposant des liquidités nécessaires aux travaux de démantèlement ainsi que des actifs nécessaires pour gager ses passifs de démantèlement. Cette convention cadre prévoit la signature de conventions triennales glissantes entre l'État et le CEA, précisant les montants des liquidités apportées par l'État aux fonds dédiés du CEA pour les trois exercices suivant l'année de signature de la convention triennale.
