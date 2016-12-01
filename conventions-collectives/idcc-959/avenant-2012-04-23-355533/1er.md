@@ -84,7 +84,9 @@ Sont bénéficiaires tous ces salariés, quelle que soit la nature de leur contr
 
 C. – Garanties de prévoyance complémentaire
 
-Les salariés tels que définis au B ci-dessus bénéficient des garanties de prévoyance complémentaire figurant au tableau synthétique ci-après, dans les conditions définies au contrat d'assurance collective du régime de branche souscrit par l'entreprise auprès de l'organisme assureur désigné (3), c'est-à-dire, par exemple, sous réserve des clauses d'exclusions et des modalités y figurant.
+Les salariés tels que définis au B ci-dessus bénéficient des garanties de prévoyance complémentaire figurant au tableau synthétique ci-après, dans les conditions définies au contrat d'assurance collective du régime de branche souscrit par l'entreprise auprès de l'organisme assureur désigné
+
+(3), c'est-à-dire, par exemple, sous réserve des clauses d'exclusions et des modalités y figurant.
 
 Garantie |
 
@@ -180,29 +182,21 @@ par la sécurité sociale |
 
 D. – Cotisations du régime de prévoyance et répartition
 
-Les cotisations du risque décès ou IAD (invalidité absolue et définitive) sur la tranche A sont à la charge exclusive de l'entreprise.
+Les cotisations du risque incapacité, invalidité sur la tranche A sont à la charge exclusive de l'entreprise.
 
-Les autres cotisations sont réparties à raison de 60 % à la charge de l'employeur et de 40 % à la charge du salarié.
+Les autres cotisations sont réparties entre l'employeur et le salarié.
 
 Les taux de cotisations calculées sur le salaire brut au sens du droit de la sécurité sociale sont fixés comme suit :
 
-– tranche A : 2,14 % pour la part employeur et 0,36 % pour la part salarié ;
-
-– tranche B : 2,26 % pour la part employeur et 1,34 % pour la part salarié.
-
 (En pourcentage.)
 
-Garantie |
+Garanties |
 
 Total |
 
-Part
+Part employeur |
 
-employeur |
-
-Part
-
-salariale |
+Part salariale |
 
 |
 
@@ -218,121 +212,43 @@ TA |
 
 TB |
 
-Décès |
+Décès
 
-|
+– décès de base
 
-|
+– invalidité absolue et définitive
 
-|
-
-|
-
-|
-
-|
-
-Décès de base |
+– décès accidentel |
 
 1,50 |
 
 1,30 |
 
-1,50 |
+1,14 |
 
-0,78 |
+1,14 |
+
+0,36 |
+
+0,16 |
+
+Incapacité (*)/ Invalidité |
+
+1 |
+
+2,30 |
+
+1 |
+
+1,12 |
 
 – |
 
-0,52 |
-
-Invalidité absolue et définitive |
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Décès accidentel |
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Incapacité de travail
-
-(y compris maintien de salaire en application des dispositions de l'article L. 1226-1 du code du travail à hauteur de 0,09 % pour la TA et 0,26 % pour la TB à la charge de l'entreprise) |
-
-0,66
-
-|
-
-1,25
-
-|
-
-0,43
-
-|
-
-0,85
-
-|
-
-0,23
-
-|
-
-0,40
-
-|
-
-Invalidité |
-
-0,28 |
-
-0,62 |
-
-0,17 |
-
-0,37 |
-
-0,11 |
-
-0,25 |
-
-Maternité |
-
-0,06 |
-
-0,43 |
-
-0,04 |
-
-0,26 |
-
-0,02 |
-
-0,17 |
+1,18 |
 
 Total |
 
-2,50 |
+2,5 |
 
 3,60 |
 
@@ -344,11 +260,13 @@ Total |
 
 1,34 |
 
-Les taux de cotisations sont maintenus pendant 3 ans à compter de la date d'effet du présent avenant, à législation et réglementation constantes.
+(*) Y compris maintien de salaire en application des dispositions de l'article L 1226-1 du code du travail à hauteur de 0,09 % pour la TA et 0,26 % pour la TB à la charge de l'entreprise. |
 
 E. – Mutualisation du régime
 
-1. Désignation de l'assureur (1)
+1. Désignation de l'assureur
+
+(1)
 
 Conformément à l'article L. 912-1 du code de la sécurité sociale et au regard des objectifs visés en préambule (A), les parties au présent avenant ont désigné, en qualité d'organisme assureur de l'ensemble des garanties du régime de prévoyance, l'institution de prévoyance de groupe Mornay (IPGM), institution de prévoyance agréée régie par le code de la sécurité sociale, dont le siège social est situé au 5 à 9, rue Van-Gogh, 75012 Paris.
 
@@ -356,7 +274,9 @@ Les partenaires sociaux signataires devront, dans un délai qui ne pourra excéd
 
 Il est convenu qu'un ou plusieurs organismes gestionnaires pourront être sollicités pour la gestion de tout ou partie du régime conventionnel dans le cadre du protocole de délégation de gestion à intervenir avec l'organisme assureur désigné.
 
-2. Adhésion des entreprises : clause de migration obligatoire (2)
+2. Adhésion des entreprises : clause de migration obligatoire
+
+(2)
 
 A compter de la date d'entrée en vigueur du présent avenant :
 
@@ -380,27 +300,41 @@ Dans le cas où un assureur couvre déjà les sinistres intervenus, selon les di
 
 – le changement d'assureur est par principe sans effet sur la prise en charge par l'assureur résilié des prestations à naître, par exemple au titre du maintien de la garantie décès, lorsque le salarié perçoit ou ouvre droit à des prestations liées à une incapacité de travail ou une invalidité indemnisée par ce précédent organisme d'assurance.
 
-Parallèlement, afin de permettre aux entreprises de se conformer aux dispositions de l'article L. 912-3 du code de la sécurité sociale et de la loi n° 94-678 du 8 août 1994, l'organisme d'assurance désigné (4) à l'article E. 1 prend en charge, dans la mesure où la poursuite de la revalorisation n'est pas garantie par le précédent organisme assureur :
+Parallèlement, afin de permettre aux entreprises de se conformer aux dispositions de l'article L. 912-3 du code de la sécurité sociale et de la loi n° 94-678 du 8 août 1994, l'organisme d'assurance désigné
+
+(4) à l'article E. 1 prend en charge, dans la mesure où la poursuite de la revalorisation n'est pas garantie par le précédent organisme assureur :
 
 – la poursuite de la revalorisation des prestations en cours de service ;
 
 – la revalorisation des bases de calculs des prestations relatives à la couverture du risque décès.
 
-Cette prise en charge intervient à la prise d'effet de l'adhésion de l'entreprise au contrat de l'assureur désigné (5) à l'article E. 1 ci-dessus, sous réserve de lui présenter la liste détaillée des assurés concernés.
+Cette prise en charge intervient à la prise d'effet de l'adhésion de l'entreprise au contrat de l'assureur désigné
 
-Par ailleurs, l'organisme assureur désigné (8) à l'article E. 1 prendra en charge également l'intégralité des prestations en cours de service, au jour de l'adhésion de l'entreprise au contrat, à condition :
+(5) à l'article E. 1 ci-dessus, sous réserve de lui présenter la liste détaillée des assurés concernés.
 
-– que l'entreprise lui communique un état détaillé des bénéficiaires (7) ;
+Par ailleurs, l'organisme assureur désigné
+
+(8) à l'article E. 1 prendra en charge également l'intégralité des prestations en cours de service, au jour de l'adhésion de l'entreprise au contrat, à condition :
+
+– que l'entreprise lui communique un état détaillé des bénéficiaires
+
+(7) ;
 
 – que le précédent organisme assureur lui transfère le montant des provisions correspondantes effectivement constituées à la date de résiliation du contrat de l'entreprise, en application de l'article 30-III et 31 de la loi n° 89-1009 du 31 décembre 1989 ;
 
 – et sous réserve que ledit montant soit conforme aux règles de provisionnement et donc accepté par l'organisme assureur désigné à l'article E. 1 ci-dessus.
 
-Dans tous les cas, pour les entreprises qui vont rejoindre l'organisme assureur désigné (9) à l'article E. 1, l'indemnité de résiliation réclamée le cas échéant à l'entreprise par son ancien assureur, en application de l'article 31 de la loi n° 89-1009 du 31 décembre 1989 dite “ loi Evin ” et des éventuelles évolutions qui seraient intervenues d'ici la date de principe d'adhésion obligatoire, sera financée par le régime, c'est-à-dire immédiatement supportée par l'organisme assureur désigné (10) à l'article E. 1.
+Dans tous les cas, pour les entreprises qui vont rejoindre l'organisme assureur désigné
+
+(9) à l'article E. 1, l'indemnité de résiliation réclamée le cas échéant à l'entreprise par son ancien assureur, en application de l'article 31 de la loi n° 89-1009 du 31 décembre 1989 dite “ loi Evin ” et des éventuelles évolutions qui seraient intervenues d'ici la date de principe d'adhésion obligatoire, sera financée par le régime, c'est-à-dire immédiatement supportée par l'organisme assureur désigné
+
+(10) à l'article E. 1.
 
 4. Changement d'organisme assureur désigné
 
-En cas de changement d'organisme assureur désigné (11), décidé par les partenaires sociaux, les rentes en cours de service à la date de changement d'organisme assureur seront prises en charge par l'organisme résilié au niveau atteint à cette même date.
+En cas de changement d'organisme assureur désigné
+
+(11), décidé par les partenaires sociaux, les rentes en cours de service à la date de changement d'organisme assureur seront prises en charge par l'organisme résilié au niveau atteint à cette même date.
 
 Le nouvel assureur désigné aura à sa charge la revalorisation de ces rentes prévues contractuellement à compter de la date de reprise du risque.
 
@@ -447,3 +381,9 @@ Par ailleurs, les anciens salariés bénéficiaires du dispositif de portabilit�
 (7) Termes exclus de l'extension comme étant contraires aux dispositions de l'article L. 2221-1 du code du travail aux termes desquelles l'objet des conventions et accords collectifs est la détermination des relations collectives entre employeurs et salariés, notamment en ce qui concerne les garanties sociales des salariés.
 
 (ARRÊTÉ du 5 mai 2015 - art. 1)
+
+(8) A
+
+rticle I étendu sous réserve de l'application des dispositions du décret n° 90-769 du 30 août 1990 pris pour l'application des articles 4, 9 et 15 de la loi n° 89-1009 du 31 décembre 1989 renforçant les garanties offertes aux personnes assurées contre certains risques.
+
+(ARRÊTÉ du 28 avril 2017 - art. 1)

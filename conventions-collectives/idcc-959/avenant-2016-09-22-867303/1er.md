@@ -1,0 +1,85 @@
+# Article 1er
+
+Le C de l'article 6 du régime de prévoyance des cadres et assimilés au 1er janvier 2013 issu de l'avenant du 23 avril 2012 est ainsi modifié :
+
+« C. Cotisations du régime de prévoyance et répartition
+
+Les cotisations du risque incapacité, invalidité sur la tranche A sont à la charge exclusive de l'entreprise.
+
+Les autres cotisations sont réparties entre l'employeur et le salarié.
+
+Les taux de cotisations calculées sur le salaire brut au sens du droit de la sécurité sociale sont fixés comme suit :
+
+(En pourcentage.)
+
+Garanties |
+
+Total |
+
+Part employeur |
+
+Part salariale |
+
+|
+
+TA |
+
+TB |
+
+TA |
+
+TB |
+
+TA |
+
+TB |
+
+Décès
+
+– décès de base
+
+– invalidité absolue et définitive
+
+– décès accidentel |
+
+1,50 |
+
+1,30 |
+
+1,14 |
+
+1,14 |
+
+0,36 |
+
+0,16 |
+
+Incapacité (*)/ Invalidité |
+
+1 |
+
+2,30 |
+
+1 |
+
+1,12 |
+
+– |
+
+1,18 |
+
+Total |
+
+2,5 |
+
+3,60 |
+
+2,14 |
+
+2,26 |
+
+0,36 |
+
+1,34 |
+
+(*) Y compris maintien de salaire en application des dispositions de l'article L 1226-1 du code du travail à hauteur de 0,09 % pour la TA et 0,26 % pour la TB à la charge de l'entreprise. |
