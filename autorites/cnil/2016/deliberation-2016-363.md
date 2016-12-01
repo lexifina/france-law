@@ -1,0 +1,72 @@
+# Délibération n° 2016-363 du 1er décembre 2016 portant avis sur un projet de décret modifiant le décret n° 2010-282 du 16 mars 2010 autorisant la mise en œuvre, par la Caisse nationale militaire de sécurité sociale, d'un traitement automatisé de données à caractère personnel dénommé « soins médicaux gratuits » (demande d'avis n° 1401591.v2)
+
+- Nature : Deliberation
+- Type : Avis
+- Numéro : 2016-363
+- Date : 2016-12-01
+- Publication : 2017-04-01
+- NOR : CNIX1709125X
+- État : VIGUEUR
+- Légifrance : https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000034324542
+
+La Commission nationale de l'informatique et des libertés,
+
+Saisie par le ministre de la défense d'une demande d'avis concernant un projet de décret modifiant le décret n° 2010-282 du 16 mars 2010 autorisant la mise en œuvre, par la Caisse nationale militaire de sécurité sociale, d'un traitement automatisé de données à caractère personnel dénommé soins médicaux gratuits ;
+
+Vu la convention n° 108 du Conseil de l'Europe pour la protection des personnes à l'égard du traitement automatisé des données à caractère personnel ;
+
+Vu la directive 95/46/CE du Parlement européen et du Conseil du 24 octobre 1995 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données ;
+
+Vu le code des pensions militaires d'invalidité et des victimes de la guerre, notamment ses articles L. 115, L. 128 et R. 102-1 ;
+
+Vu le code de la défense, notamment ses articles L. 3225-1 et R. 3232-6 ;
+
+Vu le code de la sécurité intérieure, notamment son article L. 421-2 ;
+
+Vu le livre des procédures fiscales, notamment son article L. 97 ;
+
+Vu le code de sécurité sociale, notamment ses articles L. 713-19 à L. 713-21 et D. 713-7 ;
+
+Vu la loi n° 49-489 du 12 avril 1949 portant extension aux militaires du bénéfice de la sécurité sociale ;
+
+Vu la loi n° 68-1250 du 31 décembre 1968 relative à la prescription des créances sur l'Etat, les départements, les communes et les établissements publics ;
+
+Vu la loi n° 78-17 du 6 janvier 1978 modifiée relative à l'informatique, aux fichiers et aux libertés, notamment ses articles 8 et 27-1 ;
+
+Vu le décret n° 2005-1309 du 20 octobre 2005 modifié pris pour l'application de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés ;
+
+Vu les décrets n° 59-328 du 20 février 1959 relatif aux soins gratuits prévus à l' article L. 115 du code des pensions militaires d'invalidité et des victimes de la guerre, n° 2009-1755 du 30 décembre 2009 modifiant la partie réglementaire du code des pensions militaires d'invalidité et des victimes de la guerre, n° 2010-282 du 16 mars 2010 autorisant la mise en œuvre, par la Caisse nationale militaire de sécurité sociale, d'un traitement automatisé de données à caractère personnel dénommé soins médicaux gratuits ;
+
+Vu les délibérations de la CNIL n° 2009-689 du 10 décembre 2009 autorisant la mise en œuvre par la Caisse nationale militaire de sécurité sociale d'un traitement de données à caractère personnel ayant pour finalité la gestion des militaires pensionnés bénéficiaires de soins médicaux et d'appareillage gratuits, n° 2009-690 du 10 décembre 2009 autorisant la mise en œuvre par la Caisse nationale militaire de sécurité sociale d'un traitement de données à caractère personnel ayant pour finalité la liquidation des soins médicaux et d'appareillage gratuits pour les militaires pensionnés, n° 2010-009 du 28 janvier 2010 portant avis sur le projet de décret autorisant la mise en œuvre par la Caisse nationale militaire de sécurité sociale d'un traitement de données à caractère personnel dénommé soins médicaux gratuits ;
+
+Vu le dossier et ses compléments ;
+
+Sur la proposition de M. Alexandre LINDEN, commissaire, et après avoir entendu les observations de Mme Nacima BELKACEM, commissaire du Gouvernement,
+
+Emet l'avis suivant :
+
+La Commission a été saisie le 25 octobre 2016 pour avis par le ministre de la défense d'un projet de décret modifiant le décret n° 2010-282 du 16 mars 2010 autorisant la mise en œuvre, par la Caisse nationale militaire de sécurité sociale, d'un traitement automatisé de données à caractère personnel dénommé soins médicaux gratuits .
+
+La Caisse nationale militaire de sécurité sociale (CNMSS) exerce, depuis le 1er janvier 2010, au nom et pour le compte de l'Etat (ministère de la défense), la gestion des prestations dues aux titulaires d'une pension d'invalidité accordée au titre du code des pensions militaires d'invalidité et des victimes de la guerre (CPMIVG), en application des dispositions de l'article D. 713-7 du code de la sécurité sociale.
+
+Depuis le 1er janvier 2016, la délégation de gestion pour le soutien de la gendarmerie, exercée par les services du ministère de la défense, a pris fin, ce qui a entraîné le transfert des dossiers de dommages, de protection juridique et de contentieux aux différents services compétents du ministère de l'intérieur, que sont la direction des libertés publiques et des affaires juridiques, la direction générale de la gendarmerie nationale, les secrétariats généraux de l'administration du ministère de l'intérieur (SGAMI) et, pour l'outre-mer, les services administratifs et techniques de la police (SATP).
+
+Dans le cadre des procédures de recours contre les tiers responsables d'accidents, occasionnant le versement ou la prise en charge de prestations médicales en faveur des militaires de la gendarmerie nationale reconnus comme victimes, les SGAMI et les SATP sont amenés à saisir la CNMSS, afin d'obtenir des états relatifs aux dépenses de soins qu'elle a pu engager consécutivement à ces accidents ou qu'elle pourrait engager, au titre des soins médicaux gratuits visés par l'article L. 115 et L. 128 du CPMIVG, dès lors que ces mêmes militaires ont obtenu une pension militaire d'invalidité.
+
+L' article 3 du décret n° 2010-282 du 16 mars 2010 liste les destinataires des informations et des données à caractère personnel enregistrées, en fonction de leurs attributions respectives et du besoin d'en connaître.
+
+Or cet article ne prévoit pas les services du ministère de l'intérieur, pour les besoins du traitement des contentieux impliquant des personnels militaires de la gendarmerie nationale, parmi les destinataires de certaines informations ou données à caractère personnel enregistrées, essentiellement les soins liquidés par la CNMSS, aux fins de récupération des sommes versées auprès des tiers responsables.
+
+Ainsi, le ministre de la défense a saisi la Commission d'une demande d'élargissement du champ des destinataires de ce traitement afin d'ajouter dans la liste des destinataires des informations et des données à caractère personnel enregistrées dans Je traitement automatisé soins médicaux gratuits , les secrétariats généraux de l'administration du ministère de l'intérieur et les services administratifs et techniques de la police.
+
+La Commission prend note du fait que la demande d'élargissement du champ des destinataires concerne les seuls agents habilités à cet effet dans chacune de ces deux structures, pour les seules données mentionnées au 2° de l'article 2 du décret n° 2010-282 du 16 mars 2010, à l'exception du g et du k.
+
+La Commission relève que le cadre juridique applicable à ce traitement sera inchangé par rapport à sa précédente délibération n° 2010-009 du 28 janvier 2010.
+
+En conséquence, elle estime que ces deux nouveaux destinataires n'appellent pas d'observation particulière.
+
+Pour la présidente :
+
+Le vice-président délégué,
+
+M.-F. Mazars
