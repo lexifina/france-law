@@ -1,5 +1,3 @@
 # Article Annexe III
 
-Les annexes seront consultables en ligne au Bulletin officiel du ministère de l'éducation nationale sur le site http://www.education.gouv.fr.
-
-L'intégralité du diplôme est diffusée en ligne à l'adresse suivante : http://www.cndp.fr/outils-doc.
+Vous pouvez consulter l'intégralité du texte avec ses images dans le Journal officiel électronique authentifié n° 0278 du 30 novembre 2016, texte n° 25 à l'adresse suivante : https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000033501007
