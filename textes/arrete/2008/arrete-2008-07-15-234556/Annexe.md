@@ -35,3 +35,5 @@ Les détachements civils de coordination (DCC).
 La délégation de Mayotte.
 
 L'organisme de contrôle de Perpignan-Rivesaltes au sein du service de la navigation aérienne Sud - Sud-Est.
+
+Le siège de la direction de la sécurité de l'aviation civile Antilles Guyane (DSAC-AG) à Fort-de-France.
