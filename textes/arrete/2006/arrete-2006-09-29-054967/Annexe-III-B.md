@@ -16,49 +16,49 @@ INTRODUCTION
 
 CAHIER DES CHARGES
 
-I. - PRÉ-REQUIS ET ENGAGEMENTS DES RADIOLOGUES POUR PARTICIPER AU PROGRAMME DE DÉPISTAGE ORGANISÉ DU CANCER DU SEIN
+I.-PRÉ-REQUIS ET ENGAGEMENTS DES RADIOLOGUES POUR PARTICIPER AU PROGRAMME DE DÉPISTAGE ORGANISÉ DU CANCER DU SEIN
 
-II. - POPULATION CIBLE
+II.-POPULATION CIBLE
 
-A. - Critères d'inclusion des femmes dans le programme
+A.-Critères d'inclusion des femmes dans le programme
 
-B. - Critères d'exclusion provisoires ou définitifs
+B.-Critères d'exclusion provisoires ou définitifs
 
-III. - RÉALISATION PRATIQUE DES EXAMENS
+III.-RÉALISATION PRATIQUE DES EXAMENS
 
-A. - Conditions de réalisation des mammographies sans avance de frais dans le cadre du tiers payant
+A.-Conditions de réalisation des mammographies sans avance de frais dans le cadre du tiers payant
 
-B. - Réalisation pratique du dépistage
+B.-Réalisation pratique du dépistage
 
-C. - Définition de la mammographie de dépistage
+C.-Définition de la mammographie de dépistage
 
-D. - Définition des examens complémentaires
+D.-Définition des examens complémentaires
 
-IV. - LA PREMIÈRE LECTURE
+IV.-LA PREMIÈRE LECTURE
 
-A. - La classification BI-RADS de l'American College of Radiology
+A.-La classification BI-RADS de l'American College of Radiology
 
-B. - Les résultats de la première lecture
+B.-Les résultats de la première lecture
 
-C. - Le compte-rendu du premier lecteur
+C.-Le compte-rendu du premier lecteur
 
-V. - LA DEUXIÈME LECTURE
+V.-LA DEUXIÈME LECTURE
 
-A. - L'organisation de la seconde lecture
+A.-L'organisation de la seconde lecture
 
-B. - Cas particulier : les mammographies réalisées dans les mammobiles
+B.-Cas particulier : les mammographies réalisées dans les mammobiles
 
-C. - Les résultats de la seconde lecture
+C.-Les résultats de la seconde lecture
 
-D. - Les clichés techniquement insuffisants
+D.-Les clichés techniquement insuffisants
 
-VI. - LES PROCÉDURES DE SUIVI DES CAS POSITIFS : RÔLE DES RADIOLOGUES
+VI.-LES PROCÉDURES DE SUIVI DES CAS POSITIFS : RÔLE DES RADIOLOGUES
 
-VII. - CONTRÔLE DE QUALITÉ DES INSTALLATIONS DE MAMMOGRAPHIE
+VII.-CONTRÔLE DE QUALITÉ DES INSTALLATIONS DE MAMMOGRAPHIE
 
-VIII. - INDICATEURS D'ÉVALUATION ET DE PILOTAGE DU PROGRAMME NATIONAL
+VIII.-INDICATEURS D'ÉVALUATION ET DE PILOTAGE DU PROGRAMME NATIONAL
 
-A. - Le retour d'information vers les radiologues
+A.-Le retour d'information vers les radiologues
 
 1. Retour d'information pour les radiologues L 1 (au total et par radiologue)
 
@@ -82,7 +82,7 @@ b) Concernant les résultats des bilans de diagnostic différés
 
 c) Concernant le suivi des positifs du second lecteur
 
-B. - Les indicateurs d'évaluation et de pilotage nationaux
+B.-Les indicateurs d'évaluation et de pilotage nationaux
 
 1. Taux de participation
 
@@ -136,7 +136,7 @@ a) Indicateurs se rapportant aux cancers dépistés
 
 b) Indicateurs se rapportant aux cancers de l'intervalle
 
-C. - Les indicateurs d'évaluation et de pilotage à produire par les structures de gestion
+C.-Les indicateurs d'évaluation et de pilotage à produire par les structures de gestion
 
 1. Taux de participation
 
@@ -332,7 +332,7 @@ L 1
 
 |
 
-Première lecture/premier lecteur
+Première lecture/ premier lecteur
 
 |
 
@@ -340,7 +340,7 @@ L 2
 
 |
 
-Deuxième lecture/deuxième lecteur
+Deuxième lecture/ deuxième lecteur
 
 |
 
@@ -372,7 +372,7 @@ PSPH
 
 |
 
-Etablissement privé participant au service public hospitalier
+Etablissement de santé privé habilité à assurer le service public hospitalier
 
 |
 
@@ -434,9 +434,9 @@ Dans l'état actuel des connaissances scientifiques, seuls les mammographes anal
 
 Cahier des charges
 
-I. - PRÉ-REQUIS ET ENGAGEMENTS DES RADIOLOGUES POUR PARTICIPER AU PROGRAMME DE DÉPISTAGE ORGANISÉ DU CANCER DU SEIN
+I.-PRÉ-REQUIS ET ENGAGEMENTS DES RADIOLOGUES POUR PARTICIPER AU PROGRAMME DE DÉPISTAGE ORGANISÉ DU CANCER DU SEIN
 
-Peut participer au programme national de dépistage du cancer du sein tout radiologue (praticien titulaire de la spécialité de radiologie option imagerie médicale) exerçant dans un cabinet privé et/ou dans un service de radiologie d'un établissement privé, public ou assimilé au service public, quel que soit son statut (PU-PH, PH, médecin attaché ou exerçant en PSPH ou CLCC, remplaçant).
+Peut participer au programme national de dépistage du cancer du sein tout radiologue (praticien titulaire de la spécialité de radiologie option imagerie médicale) exerçant dans un cabinet privé et/ ou dans un service de radiologie d'un établissement privé, public ou assimilé au service public, quel que soit son statut (PU-PH, PH, médecin attaché ou exerçant en PSPH ou CLCC, remplaçant).
 
 Le radiologue doit justifier d'une formation spécifique (préalable et continue) au dépistage ainsi que de celle de ses manipulateurs. La formation initiale au dépistage, d'une durée minimum de 3 jours, porte sur les principes, l'organisation et l'évaluation du dépistage, sur la lecture des mammographies de dépistage et sur le contrôle de qualité de la chaîne technologique. Cet enseignement est assuré par des organismes ad hoc répondant aux cahiers des charges spécifiques à ces formations.
 
@@ -444,17 +444,17 @@ Il doit se soumettre à la réglementation en vigueur en matière de contrôle d
 
 Pour toute nouvelle installation, avant la première utilisation clinique, l'exploitant doit avoir fait réaliser un contrôle de qualité externe par un organisme de contrôle de qualité externe agréé par l'AFSSAPS.
 
-Le radiologue s'engage à réaliser annuellement au minimum 500 mammographies (de dépistage et/ou de diagnostic). L'obligation de réalisation d'au moins 500 mammographies par an s'applique à tout radiologue à titre nominal, quel que soit son mode d'exercice.
+Le radiologue s'engage à réaliser annuellement au minimum 500 mammographies (de dépistage et/ ou de diagnostic). L'obligation de réalisation d'au moins 500 mammographies par an s'applique à tout radiologue à titre nominal, quel que soit son mode d'exercice.
 
 Des situations particulières peuvent cependant être examinées par la structure de gestion (installations récentes, situations géo-démographiques particulières etc.), sous réserve que toutes les conditions de qualité et de formation requises soient respectées et qu'au moins 300 mammographies soient réalisées ; le radiologue s'engageant à assister aux deuxièmes lectures pour atteindre le seuil de 500 mammographies lues annuellement. Les chefs de clinique et les remplaçants entrent également dans ce cas particulier.
 
 Le radiologue s'engage :
 
-- à faire effectuer une deuxième lecture des clichés considérés comme négatifs (classement BI-RADS ACR 1 et 2 de la mammographie), en respectant les modalités définies dans le présent cahier des charges ;
+-à faire effectuer une deuxième lecture des clichés considérés comme négatifs (classement BI-RADS ACR 1 et 2 de la mammographie), en respectant les modalités définies dans le présent cahier des charges ;
 
-- à refaire gratuitement les clichés jugés techniquement insuffisants en seconde lecture ;
+-à refaire gratuitement les clichés jugés techniquement insuffisants en seconde lecture ;
 
-- à transmettre à la structure de gestion dans des délais brefs les données nécessaires au suivi des personnes dépistées et à l'évaluation du programme, définies dans le présent cahier des charges (fiche d'interprétation, clichés pour deuxième lecture, bilan de diagnostic immédiat, bilan de diagnostic différé).
+-à transmettre à la structure de gestion dans des délais brefs les données nécessaires au suivi des personnes dépistées et à l'évaluation du programme, définies dans le présent cahier des charges (fiche d'interprétation, clichés pour deuxième lecture, bilan de diagnostic immédiat, bilan de diagnostic différé).
 
 Il est souhaitable que le radiologue participe à l'information des femmes de la tranche d'âge sur le programme de dépistage et l'existence de la double lecture.
 
@@ -464,9 +464,9 @@ Après la signature de cette convention nationale, la structure de gestion ayant
 
 En cas de non-respect du cahier des charges, une exclusion momentanée ou définitive de la liste peut être prononcée, en particulier pour les radiologues qui ne se soumettraient pas aux contrôles de qualité externes semestriels ou qui tomberaient sous le coup d'une décision de police sanitaire de l'AFSSAPS.
 
-II. - POPULATION CIBLE
+II.-POPULATION CIBLE
 
-A. - Critères d'inclusion des femmes dans le programme
+A.-Critères d'inclusion des femmes dans le programme
 
 Le dépistage du cancer du sein par la mammographie est proposé à toutes les femmes de 50 à 74 ans révolus ; l'intervalle entre deux examens est de 2 ans.
 
@@ -480,7 +480,7 @@ Les difficultés d'analyse (densité, calcifications diffuses) ou la densificati
 
 Les femmes ayant eu une mammographie normale il y a moins d'un an et qui ne signalent aucune symptomatologie mammaire seront incitées à communiquer la date de leur précédente mammographie à la structure de gestion pour être invitées à revenir à une date ultérieure. Il est recommandé de ne pas exclure systématiquement les femmes qui auraient eu leur examen précédent effectué en dehors du cadre du programme de dépistage organisé entre 12 et 24 mois auparavant, ou sans en connaître la date précise.
 
-B. - Critères d'exclusion provisoires ou définitifs
+B.-Critères d'exclusion provisoires ou définitifs
 
 Les femmes adressées par leur médecin dans un cabinet de radiologie pour un symptôme (masse, inflammation, écoulement anormal, signe cutané ou mamelonnaire, adénopathie axillaire) en dehors de signes non spécifiques (mastodynies ou galactorrhée banale) bénéficieront d'emblée d'une mammographie de diagnostic. Si le résultat du bilan de diagnostic s'avère négatif, ces femmes pourront ensuite être intégrées dans le programme pour leur prochaine mammographie.
 
@@ -490,9 +490,9 @@ Les femmes en traitement pour un cancer du sein ou bénéficiant d'une surveilla
 
 Les femmes présentant des facteurs de risque importants doivent bénéficier d'une surveillance personnalisée auprès d'équipes spécialisées disposant de tous les moyens de diagnostic et de traitement des lésions mammaires. Il s'agit en particulier :
 
-- des femmes pour lesquelles une biopsie chirurgicale a montré l'existence d'un facteur de risque histologique (néoplasie lobulaire in situ, hyperplasie canalaire atypique) ;
+-des femmes pour lesquelles une biopsie chirurgicale a montré l'existence d'un facteur de risque histologique (néoplasie lobulaire in situ, hyperplasie canalaire atypique) ;
 
-- des femmes ayant une mutation constitutionnelle délétère prédisposant au cancer du sein ou très fortement suspectes de l'avoir, ce risque ayant été confirmé en consultation spécialisée d'oncogénétique.
+-des femmes ayant une mutation constitutionnelle délétère prédisposant au cancer du sein ou très fortement suspectes de l'avoir, ce risque ayant été confirmé en consultation spécialisée d'oncogénétique.
 
 Cependant si des femmes appartenant à ces groupes à risque répondent à l'invitation et qu'il apparaît qu'elles n'ont aucun suivi, le dépistage peut être l'occasion pour le radiologue de leur conseiller un suivi adapté, et d'en avertir leur médecin traitant. S'il apparaît qu'elles ne s'y soumettront pas, leur exclusion ne doit pas être systématique. Ces cas devront être dénombrés. Il est alors recommandé de tenir compte de l'élévation du risque lors de la prise en charge des anomalies détectées.
 
@@ -500,13 +500,13 @@ Le radiologue s'engage à fournir à la structure de gestion les données concer
 
 En dehors des causes d'exclusion précitées, il est rappelé que le fait de réaliser des mammographies de dépistage en dehors du programme prive les femmes concernées de la double lecture.
 
-III. - RÉALISATION PRATIQUE DES EXAMENS
+III.-RÉALISATION PRATIQUE DES EXAMENS
 
 L'organisation est basée sur les structures existantes de radiologie : cabinets privés, services de radiologie des établissements privés, publics ou PSPH.
 
 Les femmes prennent rendez-vous chez le radiologue de leur choix parmi ceux qui figurent sur la liste des radiologues habilités et ayant signé une convention ad hoc (cf. supra).
 
-A. - Conditions de réalisation des mammographies
+A.-Conditions de réalisation des mammographies
 
 sans avance de frais dans le cadre du tiers payant
 
@@ -520,25 +520,25 @@ Si une mammographie de dépistage est prescrite dans le programme par le médeci
 
 Des accords départementaux, en concertation avec les professionnels de santé, peuvent prévoir l'inclusion par les radiologues des femmes de la tranche d'âge concernée qui en font la demande, toujours après vérification de l'éligibilité de la femme et obtention d'un numéro de prise en charge auprès de la structure de gestion. La non-éligibilité de la femme expose le radiologue à ne pas être remboursé du montant du ticket modérateur.
 
-Pour les invitations suivantes, les femmes ayant déjà participé ou ayant signalé la date de leur dernière mammographie seront invitées 20 à 22 mois après celle-ci pour respecter un rythme de 24 mois entre 2 mammographies; chaque invitation comportant une prise en charge. Les femmes n'ayant pas participé et n'ayant pas répondu à la relance sont également réinvitées 20 à 22 mois après leur précédente invitation.
+Pour les invitations suivantes, les femmes ayant déjà participé ou ayant signalé la date de leur dernière mammographie seront invitées 20 à 22 mois après celle-ci pour respecter un rythme de 24 mois entre 2 mammographies ; chaque invitation comportant une prise en charge. Les femmes n'ayant pas participé et n'ayant pas répondu à la relance sont également réinvitées 20 à 22 mois après leur précédente invitation.
 
 Les femmes peuvent se rendre chez un radiologue d'un autre département s'il a signé la convention type avec les organismes d'assurance maladie pour le dépistage organisé. Toutefois, le dossier de la femme (fiche d'interprétation, deuxième lecture, rendu des résultats) est traité par la structure de gestion du département où elle réside. Ces situations demandent une vigilance particulière car elles compliquent les formalités administratives et la circulation des dossiers, avec risque de perte des clichés et d'allongement des délais de remise des résultats et de diagnostic.
 
-B. - Réalisation pratique du dépistage
+B.-Réalisation pratique du dépistage
 
 La femme est accueillie et informée (éventuellement avec l'aide de documents d'information conformes aux messages nationaux) des modalités et des conséquences possibles du dépistage. Elle est prévenue de la nécessité de faire une deuxième lecture des clichés jugés normaux ou avec anomalie bénigne (BI-RADS ACR 1 et 2) et sera informée de l'intérêt de cette double lecture. Si elle n'a pas reçu les documents d'information adressés avec l'invitation, elle peut prendre connaissance de ces documents au cabinet de radiologie.
 
-Le radiologue ou le (la) manipulateur/trice ou la secrétaire vérifie les coordonnées de la femme et recueille celles du médecin généraliste et/ou spécialiste que la femme a désigné pour assurer le suivi du dépistage. Il est recommandé d'insister pour que la femme désigne un médecin. Les femmes qui ne peuvent donner le nom d'aucun médecin ou qui ne souhaitent pas en désigner un au moment du dépistage reçoivent leurs résultats directement de la structure de gestion. Celle-ci est prévenue par le biais de la fiche d'interprétation de l'absence de médecin traitant. En cas de résultat anormal en première ou en deuxième lecture, c'est le radiologue premier lecteur qui lui remet les résultats et qui devra veiller à l'orientation de la patiente.
+Le radiologue ou le (la) manipulateur/ trice ou la secrétaire vérifie les coordonnées de la femme et recueille celles du médecin généraliste et/ ou spécialiste que la femme a désigné pour assurer le suivi du dépistage. Il est recommandé d'insister pour que la femme désigne un médecin. Les femmes qui ne peuvent donner le nom d'aucun médecin ou qui ne souhaitent pas en désigner un au moment du dépistage reçoivent leurs résultats directement de la structure de gestion. Celle-ci est prévenue par le biais de la fiche d'interprétation de l'absence de médecin traitant. En cas de résultat anormal en première ou en deuxième lecture, c'est le radiologue premier lecteur qui lui remet les résultats et qui devra veiller à l'orientation de la patiente.
 
-Le radiologue, ou le (la) manipulateur/trice, interroge la femme sur ses antécédents personnels et familiaux, l'existence et la date de la mammographie antérieure et la prise éventuelle d'un THS, et remplit la partie correspondante de la fiche d'interprétation type (cf. annexe 3).
+Le radiologue, ou le (la) manipulateur/ trice, interroge la femme sur ses antécédents personnels et familiaux, l'existence et la date de la mammographie antérieure et la prise éventuelle d'un THS, et remplit la partie correspondante de la fiche d'interprétation type (cf. annexe 3).
 
 Le radiologue réalise un examen clinique. Si un symptôme clinique suspect est découvert lors de l'examen de dépistage, un bilan de diagnostic immédiat est réalisé et la femme est prise en charge selon les recommandations habituelles. Ces cas restent inclus dans le programme de dépistage. Le résultat de l'examen clinique doit être renseigné sur la fiche d'interprétation. Un examen clinique n'est noté anormal que s'il est suspect et a justifié un bilan de diagnostic.
 
 A noter : les données concernant l'examen clinique doivent figurer dans tous les cas sur la fiche d'interprétation, même s'il est négatif, afin que l'on ait la notion qu'il a bien été réalisé.
 
-C. - Définition de la mammographie de dépistage
+C.-Définition de la mammographie de dépistage
 
-La mammographie de dépistage comprend non seulement les clichés mammographiques de base - deux incidences de face et en oblique externe (habituellement à 45 degrés) quel que soit le nombre de dépistages déjà effectués par la femme dans le programme - mais également:
+La mammographie de dépistage comprend non seulement les clichés mammographiques de base-deux incidences de face et en oblique externe (habituellement à 45 degrés) quel que soit le nombre de dépistages déjà effectués par la femme dans le programme-mais également :
 
 Tout cliché à refaire (cliché techniquement insuffisant, CTI) que ce soit par décision du premier lecteur (les films sont alors refaits extemporanément) ou par retour après deuxième lecture.
 
@@ -546,33 +546,33 @@ A noter : en cas de CTI il est logique de faire en sorte que les films soient re
 
 Toute incidence complémentaire (en dehors de l'agrandissement) destinée à éviter certains faux positifs par sommation ou défaut de compression, ou encore pour éviter un CTI lié à des zones non ou mal exposées en fonction de la morphologie de la femme :
 
-- incidence de profil : sédimentation de micro-calcifications, dissociation d'une image construite, difficultés de positionnement (par exemple pectus excavatum) ;
+-incidence de profil : sédimentation de micro-calcifications, dissociation d'une image construite, difficultés de positionnement (par exemple pectus excavatum) ;
 
-- incidence en face tournée externe pour dégager un prolongement glandulaire externe ;
+-incidence en face tournée externe pour dégager un prolongement glandulaire externe ;
 
-- cliché non agrandi avec compression localisée destiné à explorer une zone focalement dense ou à lever des superpositions.
+-cliché non agrandi avec compression localisée destiné à explorer une zone focalement dense ou à lever des superpositions.
 
 Ces incidences complémentaires réalisées lors du dépistage ne devraient concerner que peu de femmes (à titre indicatif, moins de 10 % des mammographies) pour éviter une irradiation supplémentaire.
 
 Un potter de format 24 x 30 cm doit être utilisé en cas de volume mammaire important afin de ne pas multiplier le nombre de clichés. Cet équipement est donc obligatoire pour participer au programme.
 
-D. - Définition des examens complémentaires
+D.-Définition des examens complémentaires
 
 Ce sont les examens réalisés dans le cadre du bilan de diagnostic lorsqu'une anomalie radiologique ou clinique a été dépistée. Ce bilan doit impérativement être réalisé lorsqu'une anomalie est détectée sur la mammographie ou à l'examen clinique (en dehors d'une anomalie manifestement bénigne).
 
 Le bilan de diagnostic peut comporter les examens suivants :
 
-- des examens compris dans l'acte "mammographie de dépistage", c'est-à-dire les clichés en agrandissement s'ils sont nécessaires à une meilleure analyse d'une image anormale (analyse d'un foyer de micro-calcifications, analyse des contours d'une masse). Ces clichés agrandis doivent être effectués dans un même temps afin qu'ils ne soient pas facturés à la femme. Le dispositif d'agrandissement est donc obligatoire pour participer au programme ;
+-des examens compris dans l'acte " mammographie de dépistage ", c'est-à-dire les clichés en agrandissement s'ils sont nécessaires à une meilleure analyse d'une image anormale (analyse d'un foyer de micro-calcifications, analyse des contours d'une masse). Ces clichés agrandis doivent être effectués dans un même temps afin qu'ils ne soient pas facturés à la femme. Le dispositif d'agrandissement est donc obligatoire pour participer au programme ;
 
-- des examens donnant lieu à une tarification, dans les conditions de remboursement habituelles pour la femme :
+-des examens donnant lieu à une tarification, dans les conditions de remboursement habituelles pour la femme :
 
-- une échographie pour mieux définir la nature et bien situer une image anormale détectée (essentiellement masse, distorsion de l'architecture, hyperdensité focalisée). Les images dont la bénignité est évidente et/ou les images connues sur des bilans d'imagerie anciens ne rentrent pas dans ce cadre ;
+-une échographie pour mieux définir la nature et bien situer une image anormale détectée (essentiellement masse, distorsion de l'architecture, hyperdensité focalisée). Les images dont la bénignité est évidente et/ ou les images connues sur des bilans d'imagerie anciens ne rentrent pas dans ce cadre ;
 
-- une cytoponction guidée pour préciser la nature d'une masse, ou d'autres gestes interventionnels le plus souvent réalisés en différé.
+-une cytoponction guidée pour préciser la nature d'une masse, ou d'autres gestes interventionnels le plus souvent réalisés en différé.
 
 La femme doit avoir été avertie, au moment de l'invitation programmée ou non programmée, qu'il est possible qu'un examen donnant lieu à tarification lui soit proposé au décours du dépistage.
 
-La cotation de l'acte "mammographie de dépistage" comprend donc toutes les incidences comprises dans la mammographie de dépistage et les clichés complémentaires agrandis compris dans les examens complémentaires. Les autres actes donnent lieu à un remboursement dans les conditions habituelles.
+La cotation de l'acte " mammographie de dépistage " comprend donc toutes les incidences comprises dans la mammographie de dépistage et les clichés complémentaires agrandis compris dans les examens complémentaires. Les autres actes donnent lieu à un remboursement dans les conditions habituelles.
 
 Le bilan de diagnostic complémentaire sera réalisé immédiatement par le radiologue premier lecteur, s'il détecte des anomalies sur la mammographie qu'il vient de réaliser ou lorsque l'examen clinique qu'il effectue découvre une anomalie suspecte. Il est déconseillé de repousser ce bilan à une date ultérieure, cette façon de pratiquer étant génératrice d'angoisse et de coûts supplémentaires (facturation de clichés complémentaires normalement inclus dans la mammographie de dépistage).
 
@@ -584,7 +584,7 @@ A noter : certains examens recommandés dans la conduite à tenir sont parfois r
 
 Les cas où le radiologue premier lecteur effectue un bilan de diagnostic pour une anomalie clinique sans traduction radiologique doivent être signalés dans la fiche d'interprétation du premier lecteur avec une description précise telle que le permettent les items de la fiche (examen clinique anormal et mammographie normale BI-RADS ACR 1) et le schéma. Si le bilan de diagnostic confirme l'anomalie suspecte et qu'une conduite à tenir est décidée, il s'agit bien d'un positif du dépistage, l'examen clinique fait partie intégrante de l'examen de dépistage. Ces cas ne passent pas en seconde lecture. Ces cas doivent être enregistrés distinctement dans le système d'information de la structure de gestion. Ceci permettra d'évaluer l'impact de l'examen clinique dans le nouveau programme.
 
-IV. - LA PREMIÈRE LECTURE
+IV.-LA PREMIÈRE LECTURE
 
 La lecture des clichés est effectuée extemporanément sur un négatoscope dédié à la mammographie. Le poste de lecture doit être aux normes en vigueur et contrôlé semestriellement. La lecture sur écran des films analogiques numérisés secondairement n'est pas autorisée.
 
@@ -592,7 +592,7 @@ Un compte rendu en clair doit être rédigé. Il doit comprendre pour chaque sei
 
 La fiche d'interprétation standardisée destinée à la structure de gestion doit être renseignée. Une fiche d'interprétation type a été élaborée au niveau national (cf. annexe 3).
 
-A. - La classification BI-RADS
+A.-La classification BI-RADS
 
 de l'American College of Radiology
 
@@ -608,7 +608,7 @@ L'utilisation de la classification BI-RADS nécessite une formation préalable e
 
 A noter : les modifications introduites par la nouvelle édition du BI-RADS (subdivision facultative de la classe 4 en 4 a, 4 b et 4 c, introduction de la classe 6 pour les lésions malignes dont la malignité a été prouvée par un prélèvement percutané) sont sans objet dans le cadre du programme de dépistage et n'entraînent aucune modification pour le classement des images, la conduite à tenir et l'utilisation de la fiche d'interprétation.
 
-B. - Les résultats de la première lecture
+B.-Les résultats de la première lecture
 
 BI-RADS ACR 0 : bilan à compléter.
 
@@ -660,11 +660,11 @@ Le radiologue veillera dans ce cas à ce que ces dossiers soient vus rapidement 
 
 Ce passage en seconde lecture, comme pour toutes les autres mammographies négatives, est indispensable pour que l'on puisse évaluer l'échographie systématique des seins denses normaux dans le cadre de ce programme.
 
-Ces cas seront enregistrés distinctement par la structure de gestion pour ne pas être assimilés à des mammographies "anormales" ou "positives". Ceci permettra d'évaluer les indications et les résultats de l'échographie systématique des seins denses normaux dans cette population, en termes de cancers détectés et de faux positifs (mises en surveillances et biopsies inutiles).
+Ces cas seront enregistrés distinctement par la structure de gestion pour ne pas être assimilés à des mammographies " anormales " ou " positives ". Ceci permettra d'évaluer les indications et les résultats de l'échographie systématique des seins denses normaux dans cette population, en termes de cancers détectés et de faux positifs (mises en surveillances et biopsies inutiles).
 
 Un classement autre que BI-RADS ACR 1 ou 2 reviendrait à positiver la mammographie de dépistage et ne permettrait pas cette évaluation.
 
-Les examens de dépistage anormaux (mammographie classée BI-RADS ACR 3, 4 ou 5 et/ou examen clinique anormal par le radiologue premier lecteur après bilan de diagnostic immédiat) ne doivent pas faire l'objet d'une deuxième lecture.
+Les examens de dépistage anormaux (mammographie classée BI-RADS ACR 3,4 ou 5 et/ ou examen clinique anormal par le radiologue premier lecteur après bilan de diagnostic immédiat) ne doivent pas faire l'objet d'une deuxième lecture.
 
 On rappelle que pour pouvoir classer correctement BI-RADS ACR 3 (image probablement bénigne, VPP < 2 %) ou 4 (image suspecte), un bilan de diagnostic immédiat est indispensable, au moins des clichés agrandis de face et de profil en cas de calcifications et une échographie pour les autres types d'anomalie. Même en cas d'anomalie à l'évidence maligne, il faut au moins réaliser un profil pour situer l'anomalie, des agrandissements de face et de profil pour les calcifications et une échographie pour les masses, ce bilan étant nécessaire avant la prise en charge thérapeutique.
 
@@ -678,19 +678,19 @@ Rappel : la décision de classer BI-RADS ACR 3 et de mettre la femme en surveill
 
 Le classement BI-RADS ACR 3 (très probablement bénin) et la mise en surveillance qui en découle ne s'appliquent pas :
 
-- aux seins denses ;
+-aux seins denses ;
 
-- à une image manifestement bénigne ;
+-à une image manifestement bénigne ;
 
-- à une image visible sur une seule incidence peut-être construite par des superpositions ;
+-à une image visible sur une seule incidence peut-être construite par des superpositions ;
 
-- à une image d'apparition récente par rapport à un examen précédent ;
+-à une image d'apparition récente par rapport à un examen précédent ;
 
-- à une image qui s'est majorée par rapport à un examen précédent ;
+-à une image qui s'est majorée par rapport à un examen précédent ;
 
-- à une image suspecte même stable par rapport à un examen précédent ;
+-à une image suspecte même stable par rapport à un examen précédent ;
 
-- à une anomalie clinique ou échographique isolée, si la mammographie est normale.
+-à une anomalie clinique ou échographique isolée, si la mammographie est normale.
 
 On rappelle que les images classées BI-RADS ACR 3 sont définies comme très probablement bénignes avec une VPP de cancer inférieure à 2 %. Elles peuvent faire l'objet d'une surveillance rapprochée. Surclasser une image très probablement bénigne pour faire un geste à visée diagnostique (prélèvement percutané par exemple) serait délétère (biopsies inutiles, surdiagnostic) et empêcherait toute évaluation de la VPP des BI-RADS ACR 3 dans le cadre du programme. Exceptionnellement, et dans des cas particuliers (facteurs de risque, impossibilité psychologique ou matérielle d'organiser une surveillance) on peut entamer une discussion pluridisciplinaire sur l'opportunité de réaliser des prélèvements pour une image classée BI-RADS ACR 3.
 
@@ -702,7 +702,7 @@ Dans les cas où le radiologue découvre une anomalie suspecte à l'examen clini
 
 A noter : dans les cas où l'examen clinique fait au moment du dépistage est anormal, la mammographie peut être classée selon le BI-RADS de l'ACR pour rester dans la logique de l'évaluation du programme, même si en principe la classification BI-RADS est réservée aux images radiologiques infracliniques.
 
-C. - Le compte-rendu du premier lecteur
+C.-Le compte-rendu du premier lecteur
 
 Le radiologue premier lecteur rédige son compte-rendu et remplit la fiche d'interprétation.
 
@@ -710,15 +710,15 @@ Dans les cas classés BI-RADS ACR 1 et 2, il donne à la femme le résultat prov
 
 Il est obligatoire qu'il existe un véritable compte-rendu, y compris pour les cas négatifs. La remise d'une copie de la fiche d'interprétation, qui ne serait d'aucune utilité pour la femme, ne peut en tenir lieu. Ceci serait également contraire au principe de la loi du 4 mars 2002 sur les droits des malades. La fiche d'interprétation est uniquement destinée à la structure de gestion où elle sera archivée après usage.
 
-Dans les cas classés BI-RADS ACR 3 à 5, le radiologue adresse à la structure de gestion la copie de son compte-rendu avec la fiche d'interprétation et si possible un film mettant en évidence l'anomalie. Il remet à la patiente et/ou à son médecin les mammographies, le compte-rendu et éventuellement un courrier précisant la conduite à tenir. Dans ces cas, le radiologue oriente la patiente, en concertation avec ses médecins, pour une prise en charge selon les recommandations en vigueur. Le radiologue premier lecteur est coresponsable du choix concerté de la conduite à tenir (bilan de diagnostic et décision).
+Dans les cas classés BI-RADS ACR 3 à 5, le radiologue adresse à la structure de gestion la copie de son compte-rendu avec la fiche d'interprétation et si possible un film mettant en évidence l'anomalie. Il remet à la patiente et/ ou à son médecin les mammographies, le compte-rendu et éventuellement un courrier précisant la conduite à tenir. Dans ces cas, le radiologue oriente la patiente, en concertation avec ses médecins, pour une prise en charge selon les recommandations en vigueur. Le radiologue premier lecteur est coresponsable du choix concerté de la conduite à tenir (bilan de diagnostic et décision).
 
 A noter : la conduite à tenir préconisée dans le compte-rendu doit être cohérente avec le classement de l'image dans la classification BI-RADS ACR : par exemple on ne peut pas préconiser une surveillance, fût-elle rapprochée, pour image classée BI-RADS ACR 4.
 
 Dans tous les cas, il importe que les conclusions du compte-rendu soient conformes à celles de la fiche d'interprétation qui est le seul document utilisé pour le suivi du programme.
 
-V. - LA DEUXIÈME LECTURE
+V.-LA DEUXIÈME LECTURE
 
-A. - L'organisation de la seconde lecture
+A.-L'organisation de la seconde lecture
 
 L'objectif de la deuxième lecture est la détection de cancers non repérés en première lecture, sans pour autant générer trop de faux positifs.
 
@@ -726,13 +726,13 @@ La femme a été avertie par la structure de gestion, dans les courriers qu'elle
 
 La deuxième lecture concerne les clichés jugés normaux ou bénins :
 
-- mammographies classées BI-RADS ACR 1 ou 2 d'emblée ;
+-mammographies classées BI-RADS ACR 1 ou 2 d'emblée ;
 
-- mammographies classées BI-RADS ACR 1 ou 2 après un bilan de diagnostic immédiat ;
+-mammographies classées BI-RADS ACR 1 ou 2 après un bilan de diagnostic immédiat ;
 
-- mammographies classées BI-RADS ACR 1 ou 2 pour lesquelles une échographie a été réalisée, quel que soit le résultat de cette échographie.
+-mammographies classées BI-RADS ACR 1 ou 2 pour lesquelles une échographie a été réalisée, quel que soit le résultat de cette échographie.
 
-Les mammographies classées BI-RADS ACR 3, 4 ou 5 en première lecture ne passent pas en deuxième lecture.
+Les mammographies classées BI-RADS ACR 3,4 ou 5 en première lecture ne passent pas en deuxième lecture.
 
 On rappelle que pour les femmes ayant fait leur mammographie en dehors de leur département de résidence principale, la deuxième lecture doit être faite dans le département où la femme réside et qui a délivré le bon de prise en charge.
 
@@ -764,13 +764,13 @@ La structure de gestion met à disposition du second lecteur la mammographie et 
 
 Rappel : l'exercice de la seconde lecture consiste à relire les mammographies, avec pour unique objectif la détection d'images susceptibles d'être des cancers et que le premier lecteur n'aurait pas détectées. Il n'appartient pas au second lecteur de demander une échographie pour des seins denses normaux si le premier lecteur ne l'a pas jugé utile. De même il ne lui est pas demandé de donner un avis sur les échographies réalisées par le premier lecteur, auquel il devra faire confiance pour les résultats de cet examen, une échographie ne pouvant pas être relue lorsque l'on n'a pas fait l'examen soi-même.
 
-B. - Cas particulier : les mammographies
+B.-Cas particulier : les mammographies
 
 réalisées dans les mammobiles
 
 Quelques départements sont équipés d'un mammobile, dont la justification repose notamment sur l'éloignement de certaines zones du département de tout cabinet de radiologie. Il permet de favoriser pour toutes les femmes l'accès à la mammographie de dépistage.
 
-Le présent cahier des charges s'applique aux mammobiles en ce qui concerne le contrôle de qualité des matériels et la formation des manipulateurs(trices), ainsi que l'organisation de la double lecture.
+Le présent cahier des charges s'applique aux mammobiles en ce qui concerne le contrôle de qualité des matériels et la formation des manipulateurs (trices), ainsi que l'organisation de la double lecture.
 
 Cependant, ce dispositif doit rester exceptionnel du fait de l'impossibilité d'interpréter les clichés, de réaliser des incidences complémentaires si besoin, et de réaliser des examens de diagnostic immédiat en cas de mammographie positive. Toutefois, sous réserve de la justification géographique locale, à condition qu'un médecin, nécessairement formé à la radioprotection, soit présent pour interroger la femme et l'examiner, que le mammobile soit soumis aux mêmes exigences de contrôle de qualité que les autres mammographes et qu'il ne soit pas le seul appareil existant dans le programme, ce dispositif peut être accepté dans certaines régions.
 
@@ -778,7 +778,7 @@ La première lecture des clichés est réalisée en différé au centre de lectu
 
 Si cette mammographie est négative (BI-RADS ACR 1 et 2), elle doit bénéficier d'une seconde lecture auprès d'un second lecteur différent du premier, exactement dans les mêmes conditions qu'une mammographie réalisée sur un site fixe.
 
-Si la mammographie est positive (BI-RADS ACR 0, 3, 4 et 5), la femme et son (ses) médecin(s) seront avertis, la mammographie remise à la femme et le bilan de diagnostic sera fait en différé auprès d'un radiologue selon le choix de la femme.
+Si la mammographie est positive (BI-RADS ACR 0,3,4 et 5), la femme et son (ses) médecin (s) seront avertis, la mammographie remise à la femme et le bilan de diagnostic sera fait en différé auprès d'un radiologue selon le choix de la femme.
 
 Si le bilan de diagnostic confirme l'anomalie, le résultat doit être transmis à la structure de gestion avec la fiche d'interprétation du bilan de diagnostic différé et un cliché montrant l'anomalie.
 
@@ -788,11 +788,11 @@ La deuxième lecture doit donc être organisée dans les mêmes conditions que c
 
 Les mammographies faites dans le mammobile doivent être identifiables dans la base de données de la structure de gestion en vue de l'évaluation, puisque les premières lectures ne sont pas faites extemporanément en présence de la femme.
 
-C. - Les résultats de la seconde lecture
+C.-Les résultats de la seconde lecture
 
 Lorsque le second lecteur confirme que la mammographie est normale ou bénigne, la mammographie et le compte rendu du premier lecteur seront rendus à la femme par la structure de gestion dans un délai n'excédant pas 15 jours après la réalisation de la mammographie. Une lettre lui sera adressée, lui précisant qu'elle sera invitée à nouveau dans deux ans et qu'elle devra rapporter ces mammographies et lui recommandant de consulter sans délai si elle découvre une anomalie entre-temps.
 
-A noter : Si une échographie faite à titre systématique (seins denses normaux) a montré une anomalie pour laquelle le premier lecteur a orienté la patiente, en concertation avec ses médecins vers une prise en charge, et que le second lecteur ne voit pas non plus d'anomalie mammographique, la mammographie reste classée BI-RADS ACR 1 ou 2 et la structure de gestion engage une procédure de suivi. On rappelle que l'échographie systématique ne fait pas partie du bilan de diagnostic et que ces cas restent des "dépistages négatifs avec échographie systématique positive", qui doivent être évalués.
+A noter : Si une échographie faite à titre systématique (seins denses normaux) a montré une anomalie pour laquelle le premier lecteur a orienté la patiente, en concertation avec ses médecins vers une prise en charge, et que le second lecteur ne voit pas non plus d'anomalie mammographique, la mammographie reste classée BI-RADS ACR 1 ou 2 et la structure de gestion engage une procédure de suivi. On rappelle que l'échographie systématique ne fait pas partie du bilan de diagnostic et que ces cas restent des " dépistages négatifs avec échographie systématique positive ", qui doivent être évalués.
 
 Le retour des clichés et du compte-rendu du premier lecteur aux femmes se fait préférentiellement par envoi postal direct à la femme. Il peut se faire (essentiellement en zone urbaine) par l'intermédiaire du cabinet de radiologie où a été réalisée la mammographie. Dans ce cas, si la femme n'est pas venue récupérer ses films, une relance postale peut lui être adressée par le radiologue. Sinon, la structure de gestion devra se charger de leur acheminement postal.
 
@@ -806,7 +806,7 @@ Le second lecteur ne fait pas de compte-rendu, mais il doit renseigner avec pré
 
 La structure de gestion envoie au radiologue premier lecteur la mammographie avec son propre compte-rendu, qu'il pourra compléter en fonction des résultats de son bilan de diagnostic, et une copie de la fiche d'interprétation complétée.
 
-La structure de gestion envoie dans les plus brefs délais au(x) médecin(s) généraliste ou gynécologue une lettre l'informant qu'une anomalie a été vue en seconde lecture, qui nécessite des examens complémentaires, et que le radiologue premier lecteur va recevoir les mammographies et la fiche explicative. Elle adresse également à la femme, 24 ou 48 heures après le médecin, une lettre l'invitant à revenir chez le radiologue premier lecteur pour réaliser des examens complémentaires, en n'oubliant pas de rapporter les mammographies précédentes si elle en possède. Le radiologue lui donnera un rendez-vous dans les meilleurs délais. Il lui est recommandé d'appeler la femme pour lui proposer ce rendez-vous à sa convenance. Au cas où la femme déciderait de se rendre chez un autre radiologue, elle récupérera auprès du premier lecteur la mammographie, le compte-rendu éventuellement complété et la fiche d'interprétation.
+La structure de gestion envoie dans les plus brefs délais au (x) médecin (s) généraliste ou gynécologue une lettre l'informant qu'une anomalie a été vue en seconde lecture, qui nécessite des examens complémentaires, et que le radiologue premier lecteur va recevoir les mammographies et la fiche explicative. Elle adresse également à la femme, 24 ou 48 heures après le médecin, une lettre l'invitant à revenir chez le radiologue premier lecteur pour réaliser des examens complémentaires, en n'oubliant pas de rapporter les mammographies précédentes si elle en possède. Le radiologue lui donnera un rendez-vous dans les meilleurs délais. Il lui est recommandé d'appeler la femme pour lui proposer ce rendez-vous à sa convenance. Au cas où la femme déciderait de se rendre chez un autre radiologue, elle récupérera auprès du premier lecteur la mammographie, le compte-rendu éventuellement complété et la fiche d'interprétation.
 
 Le radiologue fera les examens complémentaires nécessaires, qui seront facturés selon les modalités habituelles de prise en charge des actes médicaux. Il remplira une fiche de bilan de diagnostic différé (cf. annexe 3), précisant les données des examens complémentaires avec leur conclusion, le classement définitif (BI-RADS ACR 1 à 5) et la conduite à tenir préconisée. La fiche d'interprétation ainsi complétée devra être transmise à la structure de gestion, avec si possible un film mettant en évidence l'anomalie si celle-ci est confirmée. Dans ce cas la structure de gestion engage une procédure de suivi et recueille auprès du médecin traitant le résultat de la biopsie le cas échéant et le diagnostic final.
 
@@ -814,7 +814,7 @@ Le radiologue est responsable des résultats du bilan qu'il a réalisé. Il fait
 
 Si la femme n'a pas désigné de médecin, la structure de gestion est responsable de la notification du résultat et doit vérifier que la femme reçoit bien les résultats et qu'elle a contacté le radiologue premier lecteur si une anomalie a été détectée en seconde lecture. Exceptionnellement, en cas de refus de la femme de désigner un médecin, c'est le radiologue premier lecteur qui donnera à la femme les informations nécessaires et devra veiller à sa prise en charge et à son suivi. Le radiologue premier lecteur et la femme elle-même recevront les courriers édités dans le cadre de la procédure de suivi.
 
-D. - Les clichés techniquement insuffisants
+D.-Les clichés techniquement insuffisants
 
 Si le second lecteur estime qu'un ou plusieurs clichés sont techniquement insuffisants (CTI) au point de gêner la détection d'une anomalie (clichés flous, densité optique inadéquate, glande mammaire insuffisamment dégagée), il doit demander qu'un ou des clichés soient refaits afin d'interpréter les mammographies dans de meilleures conditions techniques. Avant de prendre cette décision, il mettra en balance une possible perte de chance pour la femme liée à la qualité insuffisante des clichés avec les effets délétères d'une nouvelle convocation.
 
@@ -828,7 +828,7 @@ Si la femme ne fait pas réaliser les clichés demandés, en l'absence de nouvel
 
 Si le premier lecteur se refuse à réaliser les clichés demandés, estimant que ce n'est pas nécessaire, il doit en informer la structure de gestion par écrit. Il en prend l'entière responsabilité en cas de faux négatif.
 
-VI. - LES PROCÉDURES DE SUIVI DES CAS POSITIFS :
+VI.-LES PROCÉDURES DE SUIVI DES CAS POSITIFS :
 
 RÔLE DES RADIOLOGUES
 
@@ -838,17 +838,17 @@ Il pourra être sollicité par la structure de gestion dans le cadre des procéd
 
 A noter : si le résultat du bilan de diagnostic (immédiat ou différé) est BI-RADS ACR 3, la structure de gestion organise le retour d'information, si possible directement par les radiologues. Il est conseillé aux radiologues, pour transmettre les résultats de chaque contrôle effectué dans le cadre de la surveillance rapprochée semestrielle à la structure de gestion, d'utiliser la fiche du bilan de diagnostic différé (cf. annexe 3). Il est important que la structure de gestion puisse obtenir des radiologues la remontée des données des examens effectués dans le cadre de ce suivi.
 
-A échéance d'un délai de 1 an, en l'absence de retour de la fiche de bilan différé ou de tout autre document permettant le recueil complet du suivi, le radiologue premier lecteur recevra de la structure de gestion un courrier de demande d'information. En l'absence de retour, un courrier sera adressé à la femme et à son (ses) médecin(s).
+A échéance d'un délai de 1 an, en l'absence de retour de la fiche de bilan différé ou de tout autre document permettant le recueil complet du suivi, le radiologue premier lecteur recevra de la structure de gestion un courrier de demande d'information. En l'absence de retour, un courrier sera adressé à la femme et à son (ses) médecin (s).
 
 Une mammographie complète et bilatérale de dépistage doit être faite 24 mois après la précédente mammographie complète :
 
-- soit au terme de la surveillance de l'image BI-RADS ACR 3 ;
+-soit au terme de la surveillance de l'image BI-RADS ACR 3 ;
 
-- soit de manière systématique si la surveillance conseillée n'a pas été réalisée.
+-soit de manière systématique si la surveillance conseillée n'a pas été réalisée.
 
 La structure de gestion veillera donc à maintenir dans le dépistage organisé et à inviter 24 mois après toutes les femmes dont la mammographie a été classée BI-RADS ACR 3, en dehors des cancers diagnostiqués.
 
-VII. - CONTRÔLE DE QUALITÉ DES INSTALLATIONS
+VII.-CONTRÔLE DE QUALITÉ DES INSTALLATIONS
 
 DE MAMMOGRAPHIE
 
@@ -862,7 +862,7 @@ Dans le cas où l'installation ne présente pas de non-conformité grave, l'atte
 
 Dans le cas où l'installation présente au moins une non-conformité grave, le radiologue doit cesser l'exploitation de l'équipement mis en cause. L'organisme de contrôle signale sans délai cette non-conformité à l'AFSSAPS qui en avertit la structure de gestion dès réception du signalement. Après remise en conformité, l'organisme de contrôle de qualité externe délivre au radiologue une nouvelle attestation mentionnant la levée des non-conformités. Il appartient au radiologue de communiquer à la structure de gestion cette attestation. Il appartient à l'AFSSAPS d'informer les structures de gestion des décisions de police sanitaire prises à l'encontre des installations qui ne peuvent être remises en conformité.
 
-VIII. - INDICATEURS D'ÉVALUATION
+VIII.-INDICATEURS D'ÉVALUATION
 
 ET DE PILOTAGE DU PROGRAMME NATIONAL
 
@@ -872,9 +872,9 @@ Sur les plans départemental et régional, la structure de gestion a en charge l
 
 Sur le plan national, le programme fait l'objet d'une évaluation annuelle par l'Institut de veille sanitaire (InVS) qui valide les données départementales. Les indicateurs nationaux sont considérés comme définitifs une fois la validation effectuée par l'InVS. Les indicateurs sont alors utilisés par les instances nationales (direction générale de la santé, assurance maladie, Institut national du cancer) pour le pilotage du programme de dépistage du cancer du sein.
 
-En pratique, l'InVS demande aux structures de gestion au tout début de l'année (année N) les éléments permettant le calcul des taux de participation de l'année précédente (soit l'année N - 1) qui seront publiés à la fin du premier trimestre de l'année N.
+En pratique, l'InVS demande aux structures de gestion au tout début de l'année (année N) les éléments permettant le calcul des taux de participation de l'année précédente (soit l'année N-1) qui seront publiés à la fin du premier trimestre de l'année N.
 
-Les données nécessaires pour l'évaluation nationale des résultats de l'année précédente (année N - 1) sont demandées par l'InVS en juin de l'année N, à l'ensemble des départements. Une mise à jour exhaustive du suivi des cas positifs des années N - 2 à N - 5 est également demandée. Les résultats de cette évaluation font l'objet d'un rapport publié au premier semestre de l'année suivante (années N + 1).
+Les données nécessaires pour l'évaluation nationale des résultats de l'année précédente (année N-1) sont demandées par l'InVS en juin de l'année N, à l'ensemble des départements. Une mise à jour exhaustive du suivi des cas positifs des années N-2 à N-5 est également demandée. Les résultats de cette évaluation font l'objet d'un rapport publié au premier semestre de l'année suivante (années N + 1).
 
 Pour cette évaluation départementale, régionale et nationale, la structure de gestion recueille les données nécessaires au calcul des indicateurs à partir des fiches d'interprétation remplies par les radiologues, des résultats des examens complémentaires et des procédures de suivi.
 
@@ -882,11 +882,11 @@ L'évaluation dépend en grande partie de la qualité et de l'adéquation du rem
 
 Compte tenu de l'importance de ce recueil, un retour d'information vers les radiologues doit être réalisé au moins une fois par an par la structure de gestion. Il porte sur un certain nombre d'indicateurs spécifiques de l'activité radiologique dans le cadre du programme.
 
-A. - Le retour d'information vers les radiologues
+A.-Le retour d'information vers les radiologues
 
 La structure de gestion adressera au moins une fois par an à chaque radiologue, sous pli confidentiel cacheté, les résultats de son activité personnelle pour l'année précédente dans le cadre du dépistage organisé. Ces résultats devant pouvoir être comparés aux résultats globaux des radiologues du département, chaque radiologue recevra également les statistiques globales. Il pourra ainsi s'évaluer par rapport aux résultats d'ensemble du département.
 
-Des écarts importants, soit entres radiologues d'un même département, soit pour l'ensemble du département et par rapport aux valeurs seuil données à titre indicatif, devront faire l'objet d'une réflexion au cours des réunions des radiologues du département. Ces réunions sont organisées par la structure de gestion au moins une fois par an dans le cadre des comités ou conseils scientifiques des structures de gestion; les radiologues se doivent d'y participer.
+Des écarts importants, soit entres radiologues d'un même département, soit pour l'ensemble du département et par rapport aux valeurs seuil données à titre indicatif, devront faire l'objet d'une réflexion au cours des réunions des radiologues du département. Ces réunions sont organisées par la structure de gestion au moins une fois par an dans le cadre des comités ou conseils scientifiques des structures de gestion ; les radiologues se doivent d'y participer.
 
 Dans tous les cas, la remise des résultats individuels doit se faire dans le plus grand respect des règles de déontologie professionnelle et de confidentialité.
 
@@ -914,11 +914,11 @@ b) Concernant le diagnostic
 
 Nombre de bilans immédiats dont :
 
-- pour motif radiologique ;
+-pour motif radiologique ;
 
-- pour motif clinique ;
+-pour motif clinique ;
 
-- pour motif radiologique et clinique.
+-pour motif radiologique et clinique.
 
 Taux de bilans immédiats réalisés rapporté au nombre de femmes dépistées (au total et par radiologue).
 
@@ -962,21 +962,21 @@ sans anomalie clinique ni mammographique
 
 Nombre d'échographies réalisées alors que la mammographie est classée BI-RADS ACR 1-2 et que l'ECS est normal, dont :
 
-- nombre d'échographies réalisées en raison d'une densité mammaire élevée;
+-nombre d'échographies réalisées en raison d'une densité mammaire élevée ;
 
-- nombre d'échographies anormales;
+-nombre d'échographies anormales ;
 
-- nombre d'échographies anormales pour lesquelles la mammographie classée BI-RADS ACR 1-2 n'est pas passée en seconde lecture.
+-nombre d'échographies anormales pour lesquelles la mammographie classée BI-RADS ACR 1-2 n'est pas passée en seconde lecture.
 
 f) Concernant les femmes mises en surveillance
 
 Nombre de femmes mises en surveillance dont :
 
-- mises en surveillance suite à un bilan (BI-RADS ACR 3) ;
+-mises en surveillance suite à un bilan (BI-RADS ACR 3) ;
 
-- mises en surveillance sans bilan de diagnostic ;
+-mises en surveillance sans bilan de diagnostic ;
 
-- mises en surveillance suite à une échographie anormale isolée.
+-mises en surveillance suite à une échographie anormale isolée.
 
 2. Retour d'information pour les radiologues L 2
 
@@ -990,9 +990,9 @@ Nombre de mammographies classées BI-RADS ACR 1-2.
 
 Nombre de mammographies classées BI-RADS ACR 0-3-4-5 dont :
 
-- nombre de deuxièmes lectures positives alors que bilan de diagnostic immédiat du premier lecteur est négatif ;
+-nombre de deuxièmes lectures positives alors que bilan de diagnostic immédiat du premier lecteur est négatif ;
 
-- taux de mammographies positives avant bilan de diagnostic différé rapporté au nombre de femmes dépistées (au total et par radiologue second lecteur).
+-taux de mammographies positives avant bilan de diagnostic différé rapporté au nombre de femmes dépistées (au total et par radiologue second lecteur).
 
 Nombre CTI.
 
@@ -1018,35 +1018,35 @@ Nombre d'examens autres (préciser : cytologies, IRM...).
 
 Nombre de cancers détectés dont :
 
-- nombre de cancers détectés après BI-RADS ACR 1-2 du L 1 ;
+-nombre de cancers détectés après BI-RADS ACR 1-2 du L 1 ;
 
-- nombre de cancers détectés après bilan de diagnostic immédiat négatif du L 1.
+-nombre de cancers détectés après bilan de diagnostic immédiat négatif du L 1.
 
-B. - Les indicateurs d'évaluation et de pilotage nationaux
+B.-Les indicateurs d'évaluation et de pilotage nationaux
 
 Les indicateurs suivants sont calculés par l'InVS pour l'évaluation et le pilotage national et par les structures de gestion pour l'évaluation et le pilotage au niveau départemental et régional.
 
-Les données nécessaires à l'évaluation du programme demandées par l'InVS l'année N correspondent aux données de l'année N - 1. Elles sont publiées au premier semestre de l'année N + 1 sous forme d'un rapport (données nationales, régionales et départementales).
+Les données nécessaires à l'évaluation du programme demandées par l'InVS l'année N correspondent aux données de l'année N-1. Elles sont publiées au premier semestre de l'année N + 1 sous forme d'un rapport (données nationales, régionales et départementales).
 
-L'évaluation du taux de participation de l'année N - 1 est publiée au premier trimestre de l'année N. Ces données sont communiquées à la DGS, à la CNAMTS, à l'INCa, aux DRASS par la DGS et aux organismes d'assurance maladie par la CNAMTS.
+L'évaluation du taux de participation de l'année N-1 est publiée au premier trimestre de l'année N. Ces données sont communiquées à la DGS, à la CNAMTS, à l'INCa, aux DRASS par la DGS et aux organismes d'assurance maladie par la CNAMTS.
 
 1. Taux de participation
 
 La participation est mesurée à partir du nombre de femmes dépistées par rapport :
 
-- à la population INSEE de référence (taux de participation INSEE) :
+-à la population INSEE de référence (taux de participation INSEE) :
 
 Le taux de participation annuel INSEE est calculé par tranche d'âge et par régime d'assurance maladie. Ce taux de participation annuel ainsi que le taux moyen sur 2 ans représentent les taux de participation de référence. Ils permettent seuls une comparaison entre départements ;
 
-- au fichier de femmes à inviter constitué par la structure de gestion à partir des fichiers transmis par l'assurance maladie (taux de participation "Fichiers caisses") :
+-au fichier de femmes à inviter constitué par la structure de gestion à partir des fichiers transmis par l'assurance maladie (taux de participation " Fichiers caisses ") :
 
 Ce fichier comprend toutes les femmes présentes dans les fichiers fournis par les différents régimes d'assurance maladie et dont la domiciliation principale se situe dans le département. Ce taux de participation est calculé annuellement et sur deux ans tout comme le taux de participation INSEE. Il est calculé par tranche d'âge et par régime d'assurance maladie.
 
 Deux autres indicateurs sont recueillis pour mieux apprécier l'impact du programme :
 
-- pourcentage de femmes déclarant n'avoir jamais eu de mammographie rapporté au nombre de femmes venant pour la première fois dans le dépistage organisé ;
+-pourcentage de femmes déclarant n'avoir jamais eu de mammographie rapporté au nombre de femmes venant pour la première fois dans le dépistage organisé ;
 
-- pourcentage de femmes dont la dernière mammographie remonte à plus de 3 ans rapporté au nombre de femmes venant pour la première fois dans le dépistage organisé.
+-pourcentage de femmes dont la dernière mammographie remonte à plus de 3 ans rapporté au nombre de femmes venant pour la première fois dans le dépistage organisé.
 
 2. Indicateurs d'organisation
 
@@ -1110,15 +1110,15 @@ Pourcentage d'ECS anormaux (nécessitant un bilan de diagnostic) avec mammograph
 
 Le taux global d'examens de dépistage positifs avant bilan de diagnostic peut être calculé à partir des indicateurs relatifs à la lecture des mammographies et des indicateurs relatifs à l'ECS. Il s'agit de la somme :
 
-- du nombre de femmes ayant eu une mammographie jugée positive en 1re ou en 2e lecture avant bilan ;
+-du nombre de femmes ayant eu une mammographie jugée positive en 1re ou en 2e lecture avant bilan ;
 
-- du nombre de femmes ayant eu une mammographie jugée normale ou bénigne en 1re lecture mais avec un ECS anormal avant bilan,
+-du nombre de femmes ayant eu une mammographie jugée normale ou bénigne en 1re lecture mais avec un ECS anormal avant bilan,
 
 cette somme étant rapportée au nombre de femmes dépistées.
 
 b) Indicateurs de dépistage après bilan de diagnostic
 
-Taux de bilans de diagnostic immédiats effectués en présence d'une mammographie positive et/ou d'un ECS anormal, rapporté au nombre de femmes dépistées.
+Taux de bilans de diagnostic immédiats effectués en présence d'une mammographie positive et/ ou d'un ECS anormal, rapporté au nombre de femmes dépistées.
 
 Taux de mammographies confirmées positives par le bilan de diagnostic immédiat rapporté au nombre de femmes dépistées.
 
@@ -1170,7 +1170,7 @@ Taux de femmes chez lesquelles une microbiopsie seule a été effectuée, rappor
 
 Taux de femmes chez lesquelles une macrobiopsie seule a été effectuée, rapporté au nombre de femmes dépistées.
 
-Pourcentage de femmes chez lesquelles un diagnostic cytologique et/ou histologique préopératoire a été effectué avant la biopsie chirurgicale, rapporté au nombre de biopsies chirurgicales effectuées.
+Pourcentage de femmes chez lesquelles un diagnostic cytologique et/ ou histologique préopératoire a été effectué avant la biopsie chirurgicale, rapporté au nombre de biopsies chirurgicales effectuées.
 
 Valeur prédictive positive (VPP) de l'indication de la biopsie chirurgicale : nombre de femmes ayant un cancer détecté, rapporté au nombre de femmes ayant eu une biopsie chirurgicale effectuée.
 
@@ -1178,7 +1178,7 @@ Valeur prédictive positive (VPP) de l'indication de la biopsie chirurgicale : n
 
 de diagnostic pour ECS anormal
 
-Pourcentage de femmes ayant eu au moins un prélèvement cytologique et/ou histologique effectué pour ECS anormal seul, rapporté au nombre de femmes ayant une mammographie classée normale ou bénigne et un ECS anormal (mammographie classée normale ou bénigne).
+Pourcentage de femmes ayant eu au moins un prélèvement cytologique et/ ou histologique effectué pour ECS anormal seul, rapporté au nombre de femmes ayant une mammographie classée normale ou bénigne et un ECS anormal (mammographie classée normale ou bénigne).
 
 VPP (cancers détectés) de l'indication de la biopsie chirurgicale réalisée pour ECS anormal seul : nombre de femmes ayant un cancer détecté rapporté au nombre de biopsies chirurgicales réalisées chez des femmes ayant une mammographie classée normale ou bénigne et un ECS anormal.
 
@@ -1186,7 +1186,7 @@ VPP (cancers détectés) de l'indication de la biopsie chirurgicale réalisée p
 
 avant bilan de diagnostic
 
-VPP des examens de dépistage positifs avant bilan de diagnostic : nombre de femmes ayant un cancer détecté, rapporté au nombre de femmes ayant une mammographie positive en premières ou deuxième lecture avant bilan de diagnostic et/ou un ECS anormal.
+VPP des examens de dépistage positifs avant bilan de diagnostic : nombre de femmes ayant un cancer détecté, rapporté au nombre de femmes ayant une mammographie positive en premières ou deuxième lecture avant bilan de diagnostic et/ ou un ECS anormal.
 
 Ces indicateurs seront calculés par classe d'âge et par vague (rang de la mammographie : vague prévalente et vagues incidentes).
 
@@ -1208,7 +1208,7 @@ A noter : l'objectif de cet indicateur est d'évaluer l'apport réel de l'échog
 
 Taux d'échographies avec mammographie classée BI-RADS ACR 1-2 et un ECS normal ou bénin ayant un résultat d'échographie anormal suivi d'une mise sous surveillance, rapporté au nombre de femmes dépistées.
 
-Taux d'échographies avec mammographie classée BI-RADS ACR 1-2 et un ECS normal ou bénin ayant un résultat de l'échographie anormal suivi d'un prélèvement cytologique et/ou histologique, rapporté au nombre de femmes dépistées.
+Taux d'échographies avec mammographie classée BI-RADS ACR 1-2 et un ECS normal ou bénin ayant un résultat de l'échographie anormal suivi d'un prélèvement cytologique et/ ou histologique, rapporté au nombre de femmes dépistées.
 
 (2) Indicateurs relatifs aux bilans de diagnostic
 
@@ -1236,19 +1236,19 @@ Taux de cancers détectés par le radiologue premier lecteur, rapporté au nombr
 
 Taux de cancers détectés par le radiologue deuxième lecteur, rapporté au nombre de femmes dépistées, qui se décompose lui-même en :
 
-- taux de cancers détectés par le deuxième lecteur suite à des faux négatifs de la mammographie de dépistage lue par le premier lecteur ;
+-taux de cancers détectés par le deuxième lecteur suite à des faux négatifs de la mammographie de dépistage lue par le premier lecteur ;
 
-- taux de cancers détectés par le deuxième lecteur suite à des faux négatifs du bilan de diagnostic effectué par le premier lecteur après une mammographie jugée positive.
+-taux de cancers détectés par le deuxième lecteur suite à des faux négatifs du bilan de diagnostic effectué par le premier lecteur après une mammographie jugée positive.
 
-Taux de cancers détectés après un examen de surveillance (mammographies et/ou tout autre examen estimé nécessaire - échographie, agrandissements - réalisés dans le cadre de la surveillance d'une image mammographique anormale ou d'un ECS des seins anormal), rapporté au nombre de femmes dépistées.
+Taux de cancers détectés après un examen de surveillance (mammographies et/ ou tout autre examen estimé nécessaire-échographie, agrandissements-réalisés dans le cadre de la surveillance d'une image mammographique anormale ou d'un ECS des seins anormal), rapporté au nombre de femmes dépistées.
 
 Taux de détection de cancers de bon pronostic :
 
-- pourcentage de cancers intra-canalaires stricts (CICS), rapporté au nombre de femmes ayant un cancer ;
+-pourcentage de cancers intra-canalaires stricts (CICS), rapporté au nombre de femmes ayant un cancer ;
 
-- pourcentage de cancers invasifs de taille inférieure ou égale à 10 mm pT1ab ou micro-invasifs, rapporté au nombre de femmes ayant un cancer invasif de taille connue ;
+-pourcentage de cancers invasifs de taille inférieure ou égale à 10 mm pT1ab ou micro-invasifs, rapporté au nombre de femmes ayant un cancer invasif de taille connue ;
 
-- pourcentage de cancers micro-invasifs et invasifs sans envahissement ganglionnaire rapporté au nombre de femmes ayant un cancer micro-invasif ou invasif ayant une exploration ganglionnaire connue.
+-pourcentage de cancers micro-invasifs et invasifs sans envahissement ganglionnaire rapporté au nombre de femmes ayant un cancer micro-invasif ou invasif ayant une exploration ganglionnaire connue.
 
 Pourcentage de cancers détectés pour lesquels un diagnostic histologique préopératoire a été effectué avant la biopsie chirurgicale, rapporté au nombre de biopsies chirurgicales effectuées pour cancer.
 
@@ -1266,9 +1266,9 @@ b) Indicateurs se rapportant aux cancers de l'intervalle
 
 Un cancer de l'intervalle est un cancer primitif diagnostiqué, chez une femme qui a eu une mammographie de dépistage organisé, avec ou sans bilan de diagnostic, classée normale ou bénigne :
 
-- soit avant l'invitation à effectuer une mammographie de dépistage suivante,
+-soit avant l'invitation à effectuer une mammographie de dépistage suivante,
 
-- soit, pour une femme qui a atteint la limite d'âge supérieure, dans une période de temps égale à un intervalle de dépistage.
+-soit, pour une femme qui a atteint la limite d'âge supérieure, dans une période de temps égale à un intervalle de dépistage.
 
 A noter : les cancers détectés par des mammographies de surveillance entre le 12e et le 24e mois suivant une mammographie de dépistage (réalisation tardive d'un bilan de diagnostic après première ou seconde lecture, cancers détectés au cours du suivi d'images mises en surveillance) sont des cancers détectés par le dépistage, mais dont la prise en charge a été différée. Ils ne sont pas comptabilisés avec les cancers d'intervalle et font l'objet d'une analyse séparée.
 
@@ -1276,7 +1276,7 @@ Taux de cancers de l'intervalle : nombre de femmes ayant un cancer diagnostiqué
 
 En l'absence de registre ou de recueil systématique de données des cancers, le recueil ne peut être exhaustif et le taux de cancers d'intervalle ne peut être validé.
 
-C. - Les indicateurs d'évaluation et de pilotage
+C.-Les indicateurs d'évaluation et de pilotage
 
 à produire par les structures de gestion
 
@@ -1288,13 +1288,13 @@ Ces indicateurs doivent permettre d'analyser les résultats globaux de la struct
 
 En plus du calcul du taux de participation INSEE et du taux de participation FICHIERS CAISSES, les structures de gestion doivent calculer des taux de participation différents qui permettent de mieux prendre en compte les stratégies d'invitation de chaque département.
 
-Taux de participation INVITÉES ou taux d'activité du dépistage : c'est le nombre de femmes ayant réalisé une mammographie durant l'année écoulée (année n - 1) rapporté au nombre de femmes invitées la même année n - 1 par les structures de gestion (femmes ayant obtenu un bon de prise en charge).
+Taux de participation INVITÉES ou taux d'activité du dépistage : c'est le nombre de femmes ayant réalisé une mammographie durant l'année écoulée (année n-1) rapporté au nombre de femmes invitées la même année n-1 par les structures de gestion (femmes ayant obtenu un bon de prise en charge).
 
 Ce taux ne tient pas compte des délais pouvant survenir entre la date d'invitation et la date de réalisation de la mammographie, mais permet de mesurer l'activité réelle de la structure de gestion concernant les invitations de la population cible.
 
 Ce taux est calculé par tranche d'âge et par régime d'Assurance maladie.
 
-Taux de participation par cohorte de femmes invitées, ou taux de rendement de l'invitation, ou taux de réponses positives à l'invitation : c'est le nombre de femmes ayant réalisé une mammographie dans les 12 mois suivant la 1re invitation et/ou la relance (jusqu'à utilisation complète des bons de prise en charge, obtenus systématiquement ou sur demande), rapporté au nombre de femmes réellement invitées par la structure de gestion.
+Taux de participation par cohorte de femmes invitées, ou taux de rendement de l'invitation, ou taux de réponses positives à l'invitation : c'est le nombre de femmes ayant réalisé une mammographie dans les 12 mois suivant la 1re invitation et/ ou la relance (jusqu'à utilisation complète des bons de prise en charge, obtenus systématiquement ou sur demande), rapporté au nombre de femmes réellement invitées par la structure de gestion.
 
 Les structures de gestion doivent calculer les taux de participation avant ou après relance en fonction du mode d'invitation (invitation programmée ou demande non programmée) et en fonction du type d'adressage dans le dépistage (généraliste, gynécologue, radiologue etc.).
 
@@ -1322,7 +1322,7 @@ b) Contexte départemental
 
 Délais entre la date d'envoi de l'invitation et la date de réalisation de la mammographie.
 
-Délais entre la date de mammographie et la date du diagnostic confirmé de cancer (c'est-à-dire la date du premier prélèvement histologique : microbiopsie, macrobiopsie et/ou biopsie chirurgicale).
+Délais entre la date de mammographie et la date du diagnostic confirmé de cancer (c'est-à-dire la date du premier prélèvement histologique : microbiopsie, macrobiopsie et/ ou biopsie chirurgicale).
 
 3. Indicateurs de pilotage du programme départemental
 
@@ -1412,49 +1412,49 @@ La décision du 27 mars 2003, et à compter du 31 décembre 2005 celle du 7 octo
 
 1. Le mammographe doit posséder au minimum :
 
-- un générateur de rayons X indépendant et dédié au mammographe disposant d'une gamme de tension couvrant la plage 25 kV à 35 kV ;
+-un générateur de rayons X indépendant et dédié au mammographe disposant d'une gamme de tension couvrant la plage 25 kV à 35 kV ;
 
-- un foyer de tube à rayons X de taille nominale inférieure ou égale à 0,4 pour le foyer fin (tolérances de la norme IEC/NEMA) ;
+-un foyer de tube à rayons X de taille nominale inférieure ou égale à 0,4 pour le foyer fin (tolérances de la norme IEC/ NEMA) ;
 
-- un foyer de tube à rayons X de taille nominale inférieure ou égale à 0,15 pour le micro-foyer (tolérances de la norme IEC/NEMA) ;
+-un foyer de tube à rayons X de taille nominale inférieure ou égale à 0,15 pour le micro-foyer (tolérances de la norme IEC/ NEMA) ;
 
-- une anode en molybdène et une filtration en molybdène ;
+-une anode en molybdène et une filtration en molybdène ;
 
-- une distance foyer-film supérieur ou égale à 600 mm ;
+-une distance foyer-film supérieur ou égale à 600 mm ;
 
-- un système de compression du sein motorisé, avec commande au pied et un système de sécurité permettant une limitation de la pression maximale exercée ;
+-un système de compression du sein motorisé, avec commande au pied et un système de sécurité permettant une limitation de la pression maximale exercée ;
 
-- un exposeur automatique ;
+-un exposeur automatique ;
 
-- un affichage des mAs utilisés pour chaque cliché, en fin d'exposition ;
+-un affichage des mAs utilisés pour chaque cliché, en fin d'exposition ;
 
-- un système atténuant le rayonnement diffusé et ne créant pas d'artefacts sur les clichés ;
+-un système atténuant le rayonnement diffusé et ne créant pas d'artefacts sur les clichés ;
 
-- un système permettant la correction du noircissement par réglage de l'exposeur automatique ;
+-un système permettant la correction du noircissement par réglage de l'exposeur automatique ;
 
-- un système porte-cassettes pour film de taille 18 x 24 cm et un système porte-cassettes pour film de taille 24 x 30 cm.
+-un système porte-cassettes pour film de taille 18 x 24 cm et un système porte-cassettes pour film de taille 24 x 30 cm.
 
 2. Le négatoscope doit posséder au minimum :
 
-- une surface lumineuse de dimension minimum permettant la lecture simultanée de 2 clichés 24 x 30 cm ;
+-une surface lumineuse de dimension minimum permettant la lecture simultanée de 2 clichés 24 x 30 cm ;
 
-- la possibilité d'obscurcir les zones lumineuses autour du cliché, quelle que soit sa dimension ;
+-la possibilité d'obscurcir les zones lumineuses autour du cliché, quelle que soit sa dimension ;
 
-- une alimentation électrique haute fréquence ;
+-une alimentation électrique haute fréquence ;
 
-- un variateur permettant de régler le niveau de luminance ;
+-un variateur permettant de régler le niveau de luminance ;
 
-- une luminance au centre du négatoscope d'au moins 2 000 Cd/m2 et une luminance dans les 4 coins du négatoscope, à 10 cm des bords, ne s'écartant pas de plus de 15 % par rapport à la valeur mesurée au centre ;
+-une luminance au centre du négatoscope d'au moins 2 000 Cd/ m2 et une luminance dans les 4 coins du négatoscope, à 10 cm des bords, ne s'écartant pas de plus de 15 % par rapport à la valeur mesurée au centre ;
 
-- une couleur de lumière doit être comprise entre 5 500 et 6 500 K.
+-une couleur de lumière doit être comprise entre 5 500 et 6 500 K.
 
 La décision du 27 mars 2003 fixe les critères d'acceptabilité des caractéristiques et performances qui font l'objet d'un contrôle de qualité. Pour la réalisation des contrôles internes prévus par cette décision, l'exploitant doit disposer :
 
-- d'un fantôme de type MTM 100 ;
+-d'un fantôme de type MTM 100 ;
 
-- d'un sensitomètre ;
+-d'un sensitomètre ;
 
-- d'un densitomètre.
+-d'un densitomètre.
 
 De plus, l'examen de dépistage comprenant des incidences complémentaires devant être réalisées le même jour que l'acte de dépistage, le mammographe doit être équipé d'un système d'agrandissement opérationnel.
 
@@ -1468,17 +1468,17 @@ Introduction
 
 Cette classification nord américaine est basée sur l'estimation de la valeur prédictive positive de cancer (VPP) des images infracliniques détectées sur des mammographies. Elle confère au dépistage une bonne sensibilité : la décision de ne pas opérer mais d'exercer une surveillance rapprochée ne concerne que des images très probablement bénignes, dont la VPP est estimée inférieure à 2 %.
 
-La qualité et l'efficacité du programme reposent sur la capacité des radiologues à bien classer les images, en ne "manquant" pas trop de cancers, sans pour autant générer trop de faux positifs. Les faux positifs, qui touchent beaucoup plus de femmes que les faux négatifs, ainsi que le surdiagnostic et le surtraitement de lésions qui ne seraient jamais devenues des cancers patents du vivant de la femme sont des conséquences défavorables du dépistage. Les consignes de surveillance des images très probablement bénignes doivent être respectées autant que faire se peut, et les radiologues ne doivent pas surclasser des images pour obtenir une indication de prélèvement dans un désir de protection médico-légale, alors que le système BI-RADS est déjà très sensible.
+La qualité et l'efficacité du programme reposent sur la capacité des radiologues à bien classer les images, en ne " manquant " pas trop de cancers, sans pour autant générer trop de faux positifs. Les faux positifs, qui touchent beaucoup plus de femmes que les faux négatifs, ainsi que le surdiagnostic et le surtraitement de lésions qui ne seraient jamais devenues des cancers patents du vivant de la femme sont des conséquences défavorables du dépistage. Les consignes de surveillance des images très probablement bénignes doivent être respectées autant que faire se peut, et les radiologues ne doivent pas surclasser des images pour obtenir une indication de prélèvement dans un désir de protection médico-légale, alors que le système BI-RADS est déjà très sensible.
 
 Une formation est nécessaire pour bien utiliser la classification, la performance et la reproductibilité augmentent avec l'expérience et le volume de lecture.
 
-La classification BI-RADS/ACR
+La classification BI-RADS/ ACR
 
 La sensibilité et la spécificité du dépistage, la VPP des images, et le rapport de vraisemblance [1] (probabilité pour que devant une anomalie donnée, en tenant compte d'autres facteurs tels que l'âge ou la prévalence, la personne soit réellement porteuse de la maladie) ont pu être étudiés à partir de séries de corrélations historadiologiques d'images infracliniques issues de dépistage. Elles ont permis une évaluation fiable du degré de suspicion, qui dépend cependant de l'expérience du lecteur, la référence étant donnée par des radiologues très spécialisés. La classification BI-RADS des images mammographiques est basée sur l'estimation de la VPP des images détectées.
 
 La quatrième édition du BI-RADS mammographie de l'ACR a été publiée en 2003 [2], accompagnée d'un BI-RADS échographie et IRM. La traduction française a été publiée sous l'égide de la Société française de radiologie en 2004 [4] (deuxième édition française pour la mammographie).
 
-La classification BI-RADS/ACR mammographie
+La classification BI-RADS/ ACR mammographie
 
 (deuxième édition française)
 
@@ -1490,63 +1490,63 @@ Mammographie normale (classée 1).
 
 Sont considérées comme bénignes (classées 2, VPP de cancer = 0 %) :
 
-- masses rondes avec calcifications grossières (adénofibrome ou kyste) ;
+-masses rondes avec calcifications grossières (adénofibrome ou kyste) ;
 
-- ganglion intra-mammaire ;
+-ganglion intra-mammaire ;
 
-- masse(s) ronde(s) correspondant à un/des kystes typique(s) en échographie ;
+-masse (s) ronde (s) correspondant à un/ des kystes typique (s) en échographie ;
 
-- masse(s) de densité mixte (lipome, hamartome, galactocèle, kyste huileux) ;
+-masse (s) de densité mixte (lipome, hamartome, galactocèle, kyste huileux) ;
 
-- cicatrice(s) connue(s) ;
+-cicatrice (s) connue (s) ;
 
-- calcifications cutanées, vasculaires ;
+-calcifications cutanées, vasculaires ;
 
-- grandes calcifications en bâtonnets, à centre clair, pariétales, à type de lait calcique, dystrophiques, fils de suture calcifiés ;
+-grandes calcifications en bâtonnets, à centre clair, pariétales, à type de lait calcique, dystrophiques, fils de suture calcifiés ;
 
-- calcifications rondes régulières diffuses.
+-calcifications rondes régulières diffuses.
 
 Sont considérées comme probablement bénignes (classées 3, VPP de cancer < 2 %) :
 
-- calcifications rondes ou amorphes, peu nombreuses, en petits amas ronds isolés ;
+-calcifications rondes ou amorphes, peu nombreuses, en petits amas ronds isolés ;
 
-- petit(s) amas rond(s) ou ovale(s) de calcifications polymorphes, peu nombreuses, évoquant un début de calcification d'adénofibrome ;
+-petit (s) amas rond (s) ou ovale (s) de calcifications polymorphes, peu nombreuses, évoquant un début de calcification d'adénofibrome ;
 
-- masse(s) bien circonscrite(s), ronde(s), ovale(s) ou discrètement polycyclique(s) sans microlobulation, non calcifiée(s), non liquidienne(s) en échographie ;
+-masse (s) bien circonscrite (s), ronde (s), ovale (s) ou discrètement polycyclique (s) sans microlobulation, non calcifiée (s), non liquidienne (s) en échographie ;
 
-- asymétrie focale de densité à limites concaves et/ou mélangée à de la graisse.
+-asymétrie focale de densité à limites concaves et/ ou mélangée à de la graisse.
 
 Sont considérées comme suspectes (classées 4, VPP > 2 % et < 95 %) :
 
-- calcifications rondes nombreuses et/ou groupées en amas aux contours ni ronds, ni ovales ;
+-calcifications rondes nombreuses et/ ou groupées en amas aux contours ni ronds, ni ovales ;
 
-- calcifications amorphes ou poussiéreuses, groupées et nombreuses ;
+-calcifications amorphes ou poussiéreuses, groupées et nombreuses ;
 
-- calcifications grossières hétérogènes ou fines calcifications polymorphes peu nombreuses ;
+-calcifications grossières hétérogènes ou fines calcifications polymorphes peu nombreuses ;
 
-- distorsion(s) architecturale(s) en dehors d'une cicatrice connue et stable ;
+-distorsion (s) architecturale (s) en dehors d'une cicatrice connue et stable ;
 
-- masse(s) non liquidienne(s) ronde(s) ou ovale(s) aux contours microlobulés, ou masqués par du tissu fibro-glandulaire normal, ou ayant augmenté de volume ;
+-masse (s) non liquidienne (s) ronde (s) ou ovale (s) aux contours microlobulés, ou masqués par du tissu fibro-glandulaire normal, ou ayant augmenté de volume ;
 
-- asymétrie(s) focale(s) de densité à limites convexes ou évolutive(s).
+-asymétrie (s) focale (s) de densité à limites convexes ou évolutive (s).
 
 Sont considérées comme malignes (classées 5, VPP > 95 %) :
 
-- calcifications fines linéaires, ou fines linéaires ramifiées ;
+-calcifications fines linéaires, ou fines linéaires ramifiées ;
 
-- calcifications grossières hétérogènes ou fines calcifications polymorphes nombreuses et groupées en amas ;
+-calcifications grossières hétérogènes ou fines calcifications polymorphes nombreuses et groupées en amas ;
 
-- calcifications groupées quelle que soit leur morphologie, dont la distribution est linéaire ou segmentaire (topographie intragalactophorique) ;
+-calcifications groupées quelle que soit leur morphologie, dont la distribution est linéaire ou segmentaire (topographie intragalactophorique) ;
 
-- calcifications associées à une distorsion architecturale ou à une masse ;
+-calcifications associées à une distorsion architecturale ou à une masse ;
 
-- calcifications groupées ayant augmenté en nombre ou calcifications dont la morphologie et la distribution sont devenues plus suspectes ;
+-calcifications groupées ayant augmenté en nombre ou calcifications dont la morphologie et la distribution sont devenues plus suspectes ;
 
-- masse de contour flou ou irrégulier ;
+-masse de contour flou ou irrégulier ;
 
-- masse de contour spiculé.
+-masse de contour spiculé.
 
-A noter : cette édition introduit une septième classe, BI-RADS/ACR 6 pour les images dont l'histologie maligne est déjà connue par prélèvement percutané, qui ne concerne donc pas les mammographies de dépistage. Elle propose également une subdivision facultative de la classe 4, qui recouvre un large éventail de VPP, en trois sous-catégories a, b et c, dont l'utilisation ne modifie pas la conduite à tenir. Ces modifications sont donc sans objet pour le programme français et ne modifient ni le classement des images ni l'utilisation de la fiche d'interprétation selon le modèle national.
+A noter : cette édition introduit une septième classe, BI-RADS/ ACR 6 pour les images dont l'histologie maligne est déjà connue par prélèvement percutané, qui ne concerne donc pas les mammographies de dépistage. Elle propose également une subdivision facultative de la classe 4, qui recouvre un large éventail de VPP, en trois sous-catégories a, b et c, dont l'utilisation ne modifie pas la conduite à tenir. Ces modifications sont donc sans objet pour le programme français et ne modifient ni le classement des images ni l'utilisation de la fiche d'interprétation selon le modèle national.
 
 La classification de l'ACR de la densité mammaire
 
@@ -1562,41 +1562,41 @@ Type 4 : seins extrêmement denses de façon homogène, l'analyse mammographique
 
 CONDUITE À TENIR EN FONCTION DU CLASSEMENT D'UNE IMAGE INFRACLINIQUE [2,5]
 
-Le classement BI-RADS/ACR et la conduite à tenir qui en découlent portent sur la ou les images les plus suspectes. Le classement concerne chaque sein.
+Le classement BI-RADS/ ACR et la conduite à tenir qui en découlent portent sur la ou les images les plus suspectes. Le classement concerne chaque sein.
 
-BI-RADS/ACR 0 : MAMMOGRAPHIE EN ATTENTE
+BI-RADS/ ACR 0 : MAMMOGRAPHIE EN ATTENTE
 
 D'UN BILAN DE DIAGNOSTIC COMPLÉMENTAIRE
 
 Les examens de dépistage nécessitant un bilan de diagnostic peuvent être classés en attente BI-RADS ACR 0. Ce classement est provisoire.
 
-En première lecture, il est utilisé sur la fiche d'interprétation pour toute mammographie positive avant le bilan de diagnostic immédiat, au moins une échographie pour les masses et des agrandissements pour les calcifications. Une mammographie BI-RADS/ACR 0 ne peut pas être adressée telle quelle en seconde lecture ; à la fin du bilan de diagnostic immédiat, le premier lecteur doit avoir donné un classement définitif de 1 à 5 en fonction duquel il adresse les films en seconde lecture (bilan de diagnostic immédiat négatif) ou propose une procédure de surveillance ou de prise en charge pour un diagnostic histologique (bilan de diagnostic immédiat positif). Dans tous les cas, il renseigne sur la fiche d'interprétation les résultats du bilan de diagnostic immédiat.
+En première lecture, il est utilisé sur la fiche d'interprétation pour toute mammographie positive avant le bilan de diagnostic immédiat, au moins une échographie pour les masses et des agrandissements pour les calcifications. Une mammographie BI-RADS/ ACR 0 ne peut pas être adressée telle quelle en seconde lecture ; à la fin du bilan de diagnostic immédiat, le premier lecteur doit avoir donné un classement définitif de 1 à 5 en fonction duquel il adresse les films en seconde lecture (bilan de diagnostic immédiat négatif) ou propose une procédure de surveillance ou de prise en charge pour un diagnostic histologique (bilan de diagnostic immédiat positif). Dans tous les cas, il renseigne sur la fiche d'interprétation les résultats du bilan de diagnostic immédiat.
 
 Le classement 0 est en principe suivi extemporanément d'un classement définitif. Exceptionnellement, le bilan est fait en différé (nécessité de récupérer les documents de référence, patiente repartie avant que l'image ne soit vue, souhait de la femme de ne pas faire le bilan extemporanément, refus de l'échographie).
 
-En deuxième lecture, le classement BI-RADS/ACR 0 est utilisé à chaque fois que le second lecteur détecte une image anormale qui n'a pas été signalée par le premier lecteur. En effet, un classement définitif ne peut pas être donné en l'absence de bilan de diagnostic immédiat, à l'exception des cas de cancers évidents. Il est en particulier impossible de classer définitivement 3 ou 4 sans bilan. Ce n'est que si un bilan de diagnostic immédiat a déjà été réalisé et a négativé l'anomalie pour le premier lecteur, que le second lecteur peut donner un classement en cas de divergence d'interprétation.
+En deuxième lecture, le classement BI-RADS/ ACR 0 est utilisé à chaque fois que le second lecteur détecte une image anormale qui n'a pas été signalée par le premier lecteur. En effet, un classement définitif ne peut pas être donné en l'absence de bilan de diagnostic immédiat, à l'exception des cas de cancers évidents. Il est en particulier impossible de classer définitivement 3 ou 4 sans bilan. Ce n'est que si un bilan de diagnostic immédiat a déjà été réalisé et a négativé l'anomalie pour le premier lecteur, que le second lecteur peut donner un classement en cas de divergence d'interprétation.
 
 Lorsque le second lecteur classe BI-RADS ACR 0, il précisera sur la fiche d'interprétation la localisation exacte et le descriptif de ce qu'il voit, ainsi que les examens complémentaires qu'il propose, afin d'orienter le bilan de diagnostic différé du premier lecteur. Le retour des résultats de ce bilan de diagnostic différé vers la structure de gestion se fait par l'intermédiaire de la fiche de bilan de diagnostic différé et du compte-rendu.
 
 A noter : les seins denses en mammographie sans anomalie décelable ne doivent pas être classés BI-ACR 0, mais 1, y compris quand une anomalie échographique sans traduction mammographique est décelée.
 
-BI-RADS/ACR 1 : MAMMOGRAPHIE NORMALE
+BI-RADS/ ACR 1 : MAMMOGRAPHIE NORMALE
 
 La mammographie est adressée en seconde lecture et si ce classement est confirmé par le second lecteur, la femme sera invitée deux ans plus tard pour une nouvelle mammographie de dépistage. Elle est cependant informée qu'une consultation médicale dans les meilleurs délais est nécessaire en cas de découverte d'un symptôme clinique dans l'intervalle entre deux mammographies.
 
-BI-RADS/ACR 2 : IMAGES SÛREMENT BÉNIGNES
+BI-RADS/ ACR 2 : IMAGES SÛREMENT BÉNIGNES
 
 Ce classement n'entraîne aucune surveillance particulière, aucun examen complémentaire.
 
-Les mammographies classées 2 par le premier lecteur sont adressées en deuxième lecture. Lorsqu'une image est reclassée BI-RADS/ACR 2 après bilan de diagnostic immédiat, le résultat de ce bilan est renseigné dans la fiche de lecture, des documents sont joints dans la mesure du possible.
+Les mammographies classées 2 par le premier lecteur sont adressées en deuxième lecture. Lorsqu'une image est reclassée BI-RADS/ ACR 2 après bilan de diagnostic immédiat, le résultat de ce bilan est renseigné dans la fiche de lecture, des documents sont joints dans la mesure du possible.
 
 Si ce classement est confirmé par le second lecteur, la femme sera invitée deux ans plus tard pour une nouvelle mammographie de dépistage. Elle est informée qu'une consultation médicale dans les meilleurs délais est nécessaire en cas de découverte d'un symptôme clinique dans l'intervalle entre deux mammographies.
 
-A noter : lorsqu'une image probablement bénigne (BI-RADS/ACR 3) est stable au terme de la surveillance de deux ans, elle est reclassée 2 et il n'est pas indiqué de surveiller, ni par des mammographies, ni par des échographies rapprochées.
+A noter : lorsqu'une image probablement bénigne (BI-RADS/ ACR 3) est stable au terme de la surveillance de deux ans, elle est reclassée 2 et il n'est pas indiqué de surveiller, ni par des mammographies, ni par des échographies rapprochées.
 
-A noter : le classement BI-RADS/ACR 2 n'est pas utilisé pour les seins denses sans anomalie décelable.
+A noter : le classement BI-RADS/ ACR 2 n'est pas utilisé pour les seins denses sans anomalie décelable.
 
-BI-RADS/ACR 3 : IMAGE PROBABLEMENT BÉNIGNE, UNE SURVEILLANCE À COURT TERME EST CONSEILLÉE
+BI-RADS/ ACR 3 : IMAGE PROBABLEMENT BÉNIGNE, UNE SURVEILLANCE À COURT TERME EST CONSEILLÉE
 
 Ce classement n'est utilisé qu'après réalisation d'un bilan de diagnostic immédiat ou d'un bilan de diagnostic différé, au minimum une échographie pour les masses et des agrandissements de face et de profil pour les calcifications.
 
@@ -1608,27 +1608,27 @@ Les indications de biopsie chirurgicale ou de prélèvement percutané pour une 
 
 La décision de classer 3 implique une mise en surveillance de la femme, avec ce que cela implique sur le plan de l'anxiété. La décision peut être difficile à prendre pour le radiologue, qui risque de surveiller à tort des cancers, surveiller abusivement des images bénignes ou poser l'indication de prélèvements inutiles. Un deuxième avis (avis d'expert, avis pluridisciplinaire) peut être demandé.
 
-A noter : le classement BI-RADS/ACR 3 ne s'applique pas à une image d'apparition récente, à une image plus suspecte que sur un examen précédent, à une image suspecte même stable par rapport à un examen précédent.
+A noter : le classement BI-RADS/ ACR 3 ne s'applique pas à une image d'apparition récente, à une image plus suspecte que sur un examen précédent, à une image suspecte même stable par rapport à un examen précédent.
 
-Il ne s'applique pas aux seins denses sans anomalie mammographique y compris si une anomalie échographique est détectée (classement BI-RADS/ACR 1).
+Il ne s'applique pas aux seins denses sans anomalie mammographique y compris si une anomalie échographique est détectée (classement BI-RADS/ ACR 1).
 
-BI-RADS/ACR 4 (IMAGE SUSPECTE) OU IMAGE ÉVOCATRICE D'UN CANCER
+BI-RADS/ ACR 4 (IMAGE SUSPECTE) OU IMAGE ÉVOCATRICE D'UN CANCER
 
 Dans tous les cas, un examen histologique est indiqué.
 
-La mammographie n'est pas adressée en seconde lecture. La mammographie est rendue à la femme avec son compte-rendu, le(s) médecin(s) de la femme reçoit le compte-rendu et, en général, un courrier proposant une conduite à tenir.
+La mammographie n'est pas adressée en seconde lecture. La mammographie est rendue à la femme avec son compte-rendu, le (s) médecin (s) de la femme reçoit le compte-rendu et, en général, un courrier proposant une conduite à tenir.
 
 Les modalités de prise en charge (indications diagnostiques ou stratégiques des prélèvements percutanés, choix de la technique chirurgicale...) relèvent d'une réunion de concertation pluridisciplinaire (RCP).
 
 Pour les images classées 4, le diagnostic histologique doit se faire par prélèvement percutané à chaque fois qu'il est possible de le faire [1]. Cela permet d'éviter une intervention chirurgicale inutile lorsque le prélèvement est contributif et bénin ou de mieux programmer et annoncer le plan de traitement lorsque le résultat est en faveur de la malignité. Pour les images classées 5, les indications des prélèvements percutanés sont essentiellement stratégiques (éviter un temps opératoire de diagnostic lorsque l'analyse histologique extemporanée n'est pas possible, indications des explorations axillaires...).
 
-Dans tous les cas, le radiologue veillera à la concordance entre son compte-rendu descriptif et le classement BI-RADS/ACR, entre son compte-rendu et la fiche d'interprétation et entre le classement BI-RADS/ACR définitif et la conduite à tenir recommandée.
+Dans tous les cas, le radiologue veillera à la concordance entre son compte-rendu descriptif et le classement BI-RADS/ ACR, entre son compte-rendu et la fiche d'interprétation et entre le classement BI-RADS/ ACR définitif et la conduite à tenir recommandée.
 
 1. Agence nationale d'accréditation et d'évaluation de la santé (1998). Recommandations pour la pratique clinique. Conduite à tenir diagnostique devant une image mammographique infraclinique anormale. ANAES Paris, 1998.
 
 2. American College of Radiology. Breast Imaging Reporting and Data System (BI-RADS), 4 th Ed, Reston, VA, American College of Radiology, 2004.
 
-3. BI-RADS (Breast Imaging Reporting and Data System). Atlas d'imagerie du sein - Mammographie, deuxième édition française basée sur la 4e édition américaine, Société française de radiologie, Paris, 2004.
+3. BI-RADS (Breast Imaging Reporting and Data System). Atlas d'imagerie du sein-Mammographie, deuxième édition française basée sur la 4e édition américaine, Société française de radiologie, Paris, 2004.
 
 ANNEXE 3
 
@@ -1636,39 +1636,39 @@ LA FICHE D'INTERPRÉTATION
 
 Cette fiche type contient les items minima indispensables à l'enregistrement des données pour l'évaluation du programme et le suivi des femmes dépistées, ainsi que des renseignements nécessaires à la transmission des informations entre premier et second lecteur.
 
-Les renseignements qui figurent sur la fiche d'interprétation doivent être complets et précis. Le recueil des données pour l'évaluation épidémiologique du programme en dépend. La rigueur dans la classification BI-RADS/ACR est fondamentale pour cette évaluation.
+Les renseignements qui figurent sur la fiche d'interprétation doivent être complets et précis. Le recueil des données pour l'évaluation épidémiologique du programme en dépend. La rigueur dans la classification BI-RADS/ ACR est fondamentale pour cette évaluation.
 
 Elle comporte :
 
 La fiche d'interprétation proprement dite (double A 4) permettant le recueil :
 
-- de l'identification du premier lecteur et des données administratives et épidémiologiques concernant la femme ;
+-de l'identification du premier lecteur et des données administratives et épidémiologiques concernant la femme ;
 
-- des données de l'examen clinique, qu'il convient de renseigner (faute de quoi il serait considéré comme non fait) pour pouvoir évaluer son apport dans le dépistage. Seules les anomalies indéterminées ou suspectes, nécessitant un bilan de diagnostic, seront notées. Elles doivent être situées avec précision sur le schéma ;
+-des données de l'examen clinique, qu'il convient de renseigner (faute de quoi il serait considéré comme non fait) pour pouvoir évaluer son apport dans le dépistage. Seules les anomalies indéterminées ou suspectes, nécessitant un bilan de diagnostic, seront notées. Elles doivent être situées avec précision sur le schéma ;
 
-- des données techniques sur la réalisation de la mammographie, la densité mammaire et éventuellement de l'échographie systématique en l'absence d'anomalie mammographique ;
+-des données techniques sur la réalisation de la mammographie, la densité mammaire et éventuellement de l'échographie systématique en l'absence d'anomalie mammographique ;
 
-- de l'interprétation du premier lecteur ;
+-de l'interprétation du premier lecteur ;
 
-- des résultats du bilan de diagnostic immédiat ;
+-des résultats du bilan de diagnostic immédiat ;
 
-- de l'interprétation du second lecteur.
+-de l'interprétation du second lecteur.
 
 La fiche d'interprétation est également un outil de communication entre le premier et le second lecteur. Elle doit être renseignée avec précision en cas de problème technique. En cas de découverte d'une anomalie par le second lecteur, elle doit être située avec précision sur le schéma.
 
 Au dos de chaque fiche, il est utile de faire figurer un rappel de la classification BI-RADS synthétique et de la classification des densités mammaires proposée par l'ACR, selon la deuxième édition du BI-RADS mammographique de la SFR.
 
-Une fiche du bilan de diagnostic différé (format A 4) à utiliser lorsque le bilan de diagnostic est réalisé en différé, ou éventuellement pour renseigner la structure de gestion lors du suivi des mammographies classées BI-RADS/ACR 3. Cette fiche, éditée en quantité réduite par rapport à la fiche d'interprétation double A 4, doit cependant être disponible dans les cabinets de radiologie.
+Une fiche du bilan de diagnostic différé (format A 4) à utiliser lorsque le bilan de diagnostic est réalisé en différé, ou éventuellement pour renseigner la structure de gestion lors du suivi des mammographies classées BI-RADS/ ACR 3. Cette fiche, éditée en quantité réduite par rapport à la fiche d'interprétation double A 4, doit cependant être disponible dans les cabinets de radiologie.
 
 ANNEXE 3 BIS
 
 L'UTILISATION DES SYSTÈMES DE MAMMOGRAPHIE NUMÉRIQUE DANS LE DÉPISTAGE ORGANISÉ DES CANCERS DU SEIN
 
-I. - Définition
+I.-Définition
 
 Les techniques de mammographie numérique sont les mammographes plein champ, les plaques ERLM (écran radio-luminescent à mémoire) et les systèmes à balayage. L'utilisation ou la lecture sur console de films numérisés secondairement n'est pas autorisée.
 
-II. - Formation préalable des radiologues et manipulateurs en électro-radiologie médicale
+II.-Formation préalable des radiologues et manipulateurs en électro-radiologie médicale
 
 1. La formation dans le cadre du dépistage organisé comprend deux modalités
 
@@ -1690,15 +1690,15 @@ A titre transitoire, les manipulateurs en électro-radiologie médicale disposen
 
 Les radiologues s'engagent à transmettre aux structures de gestion les détails concernant les formations qu'ils ont suivies. Dans le cadre de leur mission d'assurance qualité, les structures de gestion sont responsables de la vérification des prérequis ci-dessus. Le suivi des formations des manipulateurs en électro-radiologie est sous la responsabilité de l'exploitant.
 
-III. - Matériel
+III.-Matériel
 
 L'installation de mammographie numérique comprend : le mammographe, les films, le reprographe laser, la console d'acquisition et la console d'interprétation, les négatoscopes et, le cas échéant, le lecteur de plaques, les cassettes et les écrans ERLM.
 
 Il est de la responsabilité de l'exploitant :
 
-- de s'assurer que l'ensemble de son matériel a été mis sur le marché pour la réalisation de mammographies numériques ;
+-de s'assurer que l'ensemble de son matériel a été mis sur le marché pour la réalisation de mammographies numériques ;
 
-- d'en informer la structure de gestion en remplissant, signant et transmettant la fiche de renseignement (modèle joint) au démarrage de l'activité et après chaque changement dans l'installation du centre de radiologie.
+-d'en informer la structure de gestion en remplissant, signant et transmettant la fiche de renseignement (modèle joint) au démarrage de l'activité et après chaque changement dans l'installation du centre de radiologie.
 
 1. Type de matériel
 
@@ -1710,9 +1710,9 @@ Les centres de radiologie doivent pouvoir réaliser des mammographies grand form
 
 Deux techniques sont possibles :
 
-- agrandissement (s) géométrique (s) réel (s) utilisant un système d'agrandissement positionné directement sur le mammographe ;
+-agrandissement (s) géométrique (s) réel (s) utilisant un système d'agrandissement positionné directement sur le mammographe ;
 
-- zoom numérique sur l'image native, dont le détecteur direct (uniquement : plein champ ou balayage) a une taille de pixels inférieure ou égale à 50 microns.
+-zoom numérique sur l'image native, dont le détecteur direct (uniquement : plein champ ou balayage) a une taille de pixels inférieure ou égale à 50 microns.
 
 Les systèmes de mammographie numérique ne possédant pas de système d'agrandissement adéquat ne seront pas autorisés à participer au dépistage organisé un an après la publication du présent arrêté. Le système d'agrandissement est obligatoire pour garantir une qualité image optimale.
 
@@ -1734,7 +1734,7 @@ En cas de changement de matériel, le centre de radiologie devra en avertir la s
 
 Les modalités d'information des structures de gestion du dépistage en cas de non-conformité des installations définies par la circulaire DGS/ MC3/2013 du 17 juin 2013 relative à l'information concernant le contrôle qualité des installations de mammographies numériques ou toute autre instruction en vigueur s'appliquent à l'utilisation de systèmes de mammographie numérique.
 
-IV. - Première lecture dans le centre de radiologie
+IV.-Première lecture dans le centre de radiologie
 
 1. Technologies utilisées
 
@@ -1744,13 +1744,13 @@ Les modalités utilisées (type et marque d'appareil, console d'interprétation)
 
 Le premier lecteur a la possibilité d'interpréter les clichés soit :
 
-- sur console d'interprétation :
+-sur console d'interprétation :
 
 La console d'interprétation devra permettre un affichage des images suivant la règle : 1 pixel affiché = 1 pixel acquis. Durant la procédure de lecture d'un examen de mammographie, le radiologue devra pouvoir visualiser une seule image par écran en mode 1 : 1, et ce pour l'ensemble des images.
 
 Seules les consoles équipées de deux moniteurs d'un minimum de 5 mégapixels chacun ou d'un moniteur d'un minimum de 10 mégapixels (permettant d'afficher côte à côte 2 images en pleine résolution) permettant une lecture adaptée à la mammographie sont autorisées ;
 
-- sur film laser, les modalités sont les mêmes que pour la lecture des mammographies analogiques. La lecture sur films laser ne sera autorisée que pour les clichés antérieurs.
+-sur film laser, les modalités sont les mêmes que pour la lecture des mammographies analogiques. La lecture sur films laser ne sera autorisée que pour les clichés antérieurs.
 
 Le centre de radiologie veillera à respecter un ratio de 1 entre le format d'acquisition et le format d'impression : 1 pixel acquis = 1 pixel imprimé.
 
@@ -1768,9 +1768,9 @@ Les clichés numériques transmis sont issus d'une impression laser directe (san
 
 Le radiologue vérifie la qualité des clichés issus de l'impression laser.
 
-Si la manipulation de certaines images sur la console d'interprétation (zoom, fenêtrage, contraste, luminosité ...) a fourni des informations déterminantes pour faciliter le diagnostic, les clichés qui en sont issus devront être également transmis au médecin coordonnateur de la structure de gestion pour la seconde lecture.
+Si la manipulation de certaines images sur la console d'interprétation (zoom, fenêtrage, contraste, luminosité...) a fourni des informations déterminantes pour faciliter le diagnostic, les clichés qui en sont issus devront être également transmis au médecin coordonnateur de la structure de gestion pour la seconde lecture.
 
-V. - Seconde lecture au sein de la structure de gestion
+V.-Seconde lecture au sein de la structure de gestion
 
 Les négatoscopes déroulants doivent être adaptables aux films laser et doivent satisfaire au contrôle de qualité tel que défini par la décision de l'ANSM en vigueur.
 
@@ -1780,16 +1780,16 @@ La seconde lecture est réalisée au sein de la structure de gestion sur les cli
 
 2. CTI
 
-Dans le cadre des clichés dits techniquement insuffisants (CTI) , le second lecteur indiquera clairement le motif de ce CTI et la conduite à tenir :
+Dans le cadre des clichés dits techniquement insuffisants (CTI), le second lecteur indiquera clairement le motif de ce CTI et la conduite à tenir :
 
-- défaut de positionnement et qualité image : cliché à refaire ;
+-défaut de positionnement et qualité image : cliché à refaire ;
 
-- mauvaise qualité de l'impression : réimpression du cliché si l'image a été archivée, sinon le refaire.
+-mauvaise qualité de l'impression : réimpression du cliché si l'image a été archivée, sinon le refaire.
 
-VI. - Evaluation des dépistages réalisés en mammographie numérique
+VI.-Evaluation des dépistages réalisés en mammographie numérique
 
-La fiche technique d'interprétation doit comprendre les variables suivantes : le type et la marque de matériel utilisé en première lecture (mammographe analogique, mammographe numérique DR, système numérique CR, système à balayage ...), le type de première lecture (films analogiques, films numériques imprimés, lecture sur console d'interprétation).
+La fiche technique d'interprétation doit comprendre les variables suivantes : le type et la marque de matériel utilisé en première lecture (mammographe analogique, mammographe numérique DR, système numérique CR, système à balayage...), le type de première lecture (films analogiques, films numériques imprimés, lecture sur console d'interprétation).
 
 Annexes
 
-Vous pouvez consulter le modèle de fiche de renseignement sur le matériel et la fiche d'interprétation nationale dans le JO n° 268 du 18 novembre 2016, texte n° 19, à l'adresse suivante : https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000033415740
+Vous pouvez consulter le modèle de fiche de renseignement sur le matériel et la fiche d'interprétation nationale dans le JO n° 268 du 18 novembre 2016, texte n° 19, à l'adresse suivante : https :// www. legifrance. gouv. fr/ jo _ pdf. do ? id = JORFTEXT000033415740
