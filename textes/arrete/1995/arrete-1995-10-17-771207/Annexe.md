@@ -190,21 +190,23 @@ TOTAL
 
 II. - Corps d'encadrement et d'application de la police nationale
 
-POSTES À RESPONSABILITÉ DÉVOLUS
+POSTES À RESPONSABILITÉ
 
-à un major à l'échelon fonctionnel
+dévolus à un major
+
+à l'échelon exceptionnel
 
 |
 
 RAPPEL
 
-nombre d'emplois 2015
+nombre d'emplois 2016
 
 |
 
 NOMBRE
 
-d'emplois 2016
+d'emplois 2017
 
 |
 
@@ -216,19 +218,19 @@ de points par emploi
 
 TOTAL
 
-des points 2016
+des points 2017
 
 |
 
-Major à l'échelon fonctionnel
-
-|
-
-2 000
+Major à l'échelon exceptionnel
 
 |
 
 2 000
+
+|
+
+2 090
 
 |
 
@@ -236,7 +238,7 @@ Major à l'échelon fonctionnel
 
 |
 
-20 000
+20 900
 
 |
 
@@ -248,13 +250,13 @@ TOTAL
 
 |
 
-2 000
+2 090
 
 |
 
 |
 
-20 000
+20 900
 
 |
 
@@ -266,13 +268,11 @@ CATÉGORIES D'EMPLOIS
 
 RAPPEL
 
-nombre d'emplois 2015
+nombre d'emplois 2016
 
 |
 
-NOMBRE
-
-d'emplois 2016
+NOMBRE D'EMPLOIS 2017
 
 |
 
@@ -284,7 +284,7 @@ de points par emploi
 
 TOTAL
 
-des points 2016
+des points 2017
 
 |
 
@@ -292,11 +292,11 @@ Responsable d'unité locale de police
 
 |
 
-840
+920
 
 |
 
-920
+1 053
 
 |
 
@@ -304,7 +304,7 @@ Responsable d'unité locale de police
 
 |
 
-18 400
+21 060
 
 |
 
@@ -312,16 +312,16 @@ TOTAL
 
 |
 
-840
-
-|
-
 920
 
 |
 
+1 053
+
 |
 
-18 400
+|
+
+21 060
 
 |
