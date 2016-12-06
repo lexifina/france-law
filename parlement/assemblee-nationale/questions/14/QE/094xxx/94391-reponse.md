@@ -1,0 +1,9 @@
+# Réponse à la question n° 94391
+
+- Question : [94391](94391.md) — Question n° 94391 — billets aériens; vente en ligne; pratiques commerciales
+
+## Réponse
+
+*JO du 2016-12-06*
+
+Il a effectivement été constaté une situation préoccupante en matière d'information sur les prix dans le secteur de la distribution en ligne de billets de transport aérien, certains acteurs procédant à l'ajout de divers « frais » en fin de processus de réservation (frais de dossier, frais de traitement, frais liés aux modes de paiement). Préjudiciables aux consommateurs, de telles pratiques altèrent le fonctionnement de la concurrence par les prix. Aussi ce secteur fait-il depuis 2014 l'objet d'investigations de la direction générale de la concurrence, de la consommation, et de la répression des fraudes (DGCCRF), en lien notamment avec des contrôles coordonnés au niveau européen (opérations dites « sweep days »). Les constats effectués ont conduit la DGCCRF à mettre en œuvre, début 2015, une dizaine de suites visant au prononcé de sanctions contre des acteurs proposant des comparateurs de vols et des plateformes de réservation en ligne de billets d'avion. Plusieurs millions d'euros ont été payés par les contrevenants dans le cadre de procédures de transactions. Parallèlement, le 13 février 2015, le ministre de l'économie, de l'industrie et du numérique, ainsi que les secrétaires d'Etat chargées respectivement de la consommation et du numérique, ont publiquement appelé les consommateurs à la vigilance et demandé à la DGCCRF de maintenir une pression de contrôle. La situation de ce secteur, en dépit d'un recul des infractions, demeure préoccupante, et de nouvelles actions ont été engagées. Enfin, à la demande de la secrétaire d'Etat chargée de la consommation, des travaux ont été lancés en vue d'améliorer les règles applicables à l'information des consommateurs dans la distribution de billets de transport, dans une optique de protection renforcée.
