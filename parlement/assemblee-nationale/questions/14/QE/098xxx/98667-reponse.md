@@ -1,0 +1,9 @@
+# Réponse à la question n° 98667
+
+- Question : [98667](98667.md) — Question n° 98667 — fournisseurs; démarchages abusifs
+
+## Réponse
+
+*JO du 2016-12-06*
+
+Les fournisseurs d'électricité ou de gaz naturel sont soumis aux dispositions de l'article L. 121­­-16 du code de la consommation qui impose à tout professionnel de mettre à disposition des consommateurs un numéro de téléphone non surtaxé pour recueillir les appels destinés à la bonne exécution du contrat conclu avec lui ou pour traiter une réclamation. Ce numéro peut être utilisé par le consommateur pour joindre son fournisseur lorsqu'il déménage. Une démarche commerciale du fournisseur à cette occasion n'est pas illicite en soi, mais elle doit respecter les règles de protection économique des consommateurs. Les pratiques commerciales trompeuses ou agressives et l'abus de faiblesse sont interdits et sanctionnés par les dispositions des articles L. 121-1 et suivants du code de la consommation. Par ailleurs, le consommateur qui souscrit un contrat à distance bénéficie du délai de rétractation de quatorze jours prévu à l'article L. 221-18 du code de la consommation. Enfin, le consommateur d'électricité ou de gaz naturel peut changer de fournisseur à tout moment sans frais de la part du fournisseur aux termes des articles L. 224-14 et L. 224-15 du code de la consommation. Ces dispositions font régulièrement l'objet de contrôles de la part des corps d'enquête de la direction générale de la concurrence, de la consommation et de la répression des fraudes. Il va de soi que dans l'hypothèse où des abus seraient détectés, y compris liés à des démarches commerciales auprès des consommateurs appelant leur fournisseur d'énergie dans le contexte d'un changement de domicile, des mesures appropriées ne manqueraient pas d'être prises.
