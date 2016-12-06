@@ -1,0 +1,9 @@
+# Réponse à la question n° 92628
+
+- Question : [92628](92628.md) — Question n° 92628 — résiliation de contrats; réglementation; perspectives
+
+## Réponse
+
+*JO du 2016-12-06*
+
+Depuis la loi relative à la consommation du 17 mars 2014, l'article L. 121-108 du code de la consommation limite à 5 ans les durées d'engagement des contrats de fourniture en GPL. Cette mesure contribue à faciliter les sorties de contrat, tout en prenant en considération les justifications économiques des durées d'engagement. Ces justifications tiennent à la nécessité pour les fournisseurs de couvrir les coûts qu'ils supportent (mise à disposition d'une citerne, logistique, maintenance, sécurité) au titre de l'approvisionnement des consommateurs. Plusieurs évolutions du marché tendent à indiquer que la faculté pour les consommateurs de faire jouer la concurrence entre les fournisseurs s'est améliorée : - il existe plusieurs offres d'une durée d'engagement sensiblement inférieure au maximum légal de 5 ans ; - cinq propaniers proposent des offres dans le cadre desquelles le client peut, s'il le souhaite, devenir propriétaire de la citerne : ceci le rend plus apte à changer de fournisseur car le financement de la mise à disposition de cet équipement est l'un des principaux coûts nécessitant une durée d'engagement longue ; - un propanier propose désormais un approvisionnement sans durée d'engagement aux consommateurs propriétaires de leur citerne. Outre les contrôles de terrain qui sont diligentés périodiquement par les corps d'enquête, les relations entre fournisseurs de GPL et consommateurs donnent lieu, au plan national, à une concertation sous l'égide de la direction générale de la concurrence, de la consommation, et de la répression des fraudes. L'un des principaux axes de travail de cette concertation est actuellement l'amélioration de la lisibilité des prix, indispensable au bon fonctionnement de la concurrence.
