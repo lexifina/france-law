@@ -1,0 +1,9 @@
+# Réponse à la question n° 83259
+
+- Question : [83259](83259.md) — Question n° 83259 — instances consultatives; coût de fonctionnement
+
+## Réponse
+
+*JO du 2016-12-06*
+
+Le décret no 63-1104 du 30 octobre 1963 modifié institue un régime d'allocations viagères obligatoire par répartition et par points au profit des gérants de débits de tabac. L'arrêté du 13 novembre 1963, pris pour l'application du décret susvisé, prévoit notamment les modalités de fonctionnement de ce régime en disposant que « le régime d'allocation viagère est géré par le ministre chargé du budget avec le concours de la commission consultative… ». Composée des représentants des débitants de tabac, de l'administration des douanes et droits indirects, de la Caisse des dépôts et consignations, la commission consultative est une instance ad hoc essentielle pour le pilotage du régime. Les avis au demeurant obligatoires de cette commission constituent une aide à la décision indispensable pour le ministre chargé du budget et la direction générale des douanes et droits indirects, administration de tutelle des buralistes. Cette commission, réunie une fois par semestre depuis 2010, est chargée d'émettre tout avis utile sur des questions intéressant le fonctionnement du régime et veille, au titre de la gestion des réserves, à valider l'allocation d'actifs, la politique de risques et d'investissement proposées par la Caisse des dépôts et consignations, conformément à la convention d'objectifs et de gestion signée avec l'État. Enfin, comme le mentionnent les jaunes budgétaires annexés au projet de loi de finances pour 2015 dans son annexe relative à la « liste des commissions et instances consultatives ou délibératives placées directement auprès du Premier ministre ou des ministres », son coût de fonctionnement est nul.
