@@ -1,0 +1,9 @@
+# Réponse à la question n° 98793
+
+- Question : [98793](98793.md) — Question n° 98793 — entreprises du bâtiment; revendications
+
+## Réponse
+
+*JO du 2016-12-06*
+
+Dans un contexte économique davantage porteur depuis quelques mois, les pouvoirs publics restent très attentifs à la situation des entreprises et prennent les mesures nécessaires pour soutenir leur activité, notamment dans les secteurs de l'artisanat et du bâtiment et des travaux publics. La loi de finances pour 2016 et la loi de financement de la sécurité sociale pour 2016 illustrent cette volonté et s'inscrivent dans la continuité des mesures de soutien aux entreprises, découlant du crédit d'impôt pour la compétitivité et l'emploi, du pacte de responsabilité et de solidarité et des mesures favorables aux entreprises adoptées en 2015 (suramortissement, mesures très petites entreprises et petites et moyennes entreprises) qui représenteront 33 Mds€ en 2016. La baisse des impôts sur les entreprises et des cotisations patronales se poursuit avec la suppression de la contribution exceptionnelle à l'impôt sur les sociétés. La baisse supplémentaire de 1,8 point sur les cotisations familiales employeurs est quant à elle étendue aux salaires compris entre 1,6 et 3,5 SMIC et concerne désormais 90 % des salariés. S'agissant du crédit d'impôt transition énergétique (CITE), le projet de loi de finances pour 2017, tel que déposé à l'Assemblée nationale, prévoit sa reconduction pour un an et supprime la condition de ressources permettant de bénéficier du cumul du CITE et de l'éco-prêt à taux zéro, pour les offres d'avances émises à compter du 1er mars 2016, afin de favoriser l'accès de tous les ménages au dispositif. L'ensemble de ces mesures traduit l'engagement du Gouvernement à soutenir l'activité des entreprises qui constitue un levier important de croissance économique de notre pays.
