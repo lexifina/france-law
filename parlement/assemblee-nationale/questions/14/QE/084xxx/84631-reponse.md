@@ -1,0 +1,9 @@
+# Réponse à la question n° 84631
+
+- Question : [84631](84631.md) — Question n° 84631 — rapport parlementaire; recommandations; perspectives
+
+## Réponse
+
+*JO du 2016-12-06*
+
+Il convient de préciser qu'un plan d'action interministériel en faveur du travail social et du développement social, a été présenté en conseil des ministres le 21 octobre 2015. Il est l'aboutissement des Etats généraux du travail social (EGTS) initiés dans le cadre des travaux d'élaboration du plan pluriannuel contre la pauvreté et pour l'inclusion sociale. Ce plan prévoit des mesures autour des thématiques suivantes : la participation et l'accompagnement des personnes, la promotion du développement social pour simplifier les politiques publiques, la reconnaissance du travail social, la modernisation de l'appareil de formation, la réingénierie de l'ensemble des diplômes de travail social, afin d'améliorer la formation initiale des professionnels, et de leur ouvrir de nouvelles perspectives de professionnalisation et de parcours professionnel. Ce plan a notamment identifié la nécessité de développer les formations en apprentissage et les contrats de professionnalisation, objet de la mesure 20, ceci pour l'ensemble des diplômes d'état en travail social, quel que soit leur niveau. La formule des contrats d'apprentissage et de professionnalisation présente le double avantage de permettre la sécurisation du parcours de formation des élèves en travail social et pour les employeurs de recruter de futurs professionnels qualifiés sur des métiers en tension, quel que soit le niveau de diplômes. Une formation en apprentissage au métier de technicien d'intervention sociale et familiale serait donc à ce titre particulièrement utile pour les salariés non diplômés de la branche à domicile. Des travaux seront engagés pour faire évoluer les maquettes de formation de l'ensemble des diplômes du travail social afin de les adapter à la formation en alternance sous statut salarié.
