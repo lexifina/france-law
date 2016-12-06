@@ -1,0 +1,9 @@
+# Réponse à la question n° 95899
+
+- Question : [95899](95899.md) — Question n° 95899 — politique vaccinale; mise en oeuvre
+
+## Réponse
+
+*JO du 2016-12-06*
+
+De nombreux vaccins comportent dans leur composition des substances dénommées adjuvants dont l'ajout permet d'augmenter de façon spécifique la réponse immunitaire pour une même dose d'antigène vaccinal. Ce sont les sels d'aluminium qui sont apparus les meilleurs candidats pour leur pouvoir adjuvant et leur meilleure tolérance. Les vaccins adjuvantés par les sels d'aluminium sont utilisés avec un recul d'utilisation de plus de 40 ans dans l'ensemble du monde, constituant ainsi une large population de référence. Le groupe d'étude sur la vaccination de l'Assemblée nationale a recommandé dans son rapport du 13 mars 2012 un moratoire sur les adjuvants aluminiques, en application du principe de précaution. En Juin 2012, l'Académie de médecine a rendu public un rapport sur les adjuvants vaccinaux soulignant l'absence de preuve de leur nocivité et s'opposant au principe d'un moratoire. L'Organisation mondiale de la santé a également confirmé cette position sur le sujet. Dans son avis du 11 juillet 2013, le Haut conseil de la santé publique (HCSP) estime que les données scientifiques disponibles à ce jour ne remettent pas en cause la sécurité des vaccins contenant de l'aluminium au regard de leur balance bénéfices-risques. Concernant les adjuvants aluminiques, aucune étude scientifique sérieuse n'a ainsi, en quarante ans, permis de démontrer leur nocivité. La ministre des affaires sociales et de la santé a cependant conscience qu'il s'agit d'un sujet de préoccupation important des Français. Aussi l'Agence nationale de sécurité du médicament et des produits de santé a reçu une dotation spécifique pour une étude sur les effets de l'utilisation de l'aluminium dans les vaccins. Les résultats de cette étude sont attendus pour l'été 2017.
