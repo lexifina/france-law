@@ -1,0 +1,9 @@
+# Réponse à la question n° 98712
+
+- Question : [98712](98712.md) — Question n° 98712 — cession immobilière; lotisseur; revente
+
+## Réponse
+
+*JO du 2016-12-06*
+
+L'article 268 du code général des impôts (CGI) dispose que la cession d'un terrain à bâtir est soumise à la taxe sur la valeur ajoutée (TVA) sur la marge lorsqu'il n'a pas ouvert droit à déduction lors de son acquisition initiale. La mise en œuvre de ce régime dérogatoire au principe selon lequel la TVA est calculée sur le prix total suppose nécessairement que le bien revendu soit identique au bien acquis quant à ses caractéristiques physiques et sa qualification juridique. Ainsi, dans le cas d'un lot revendu comme terrain à bâtir ayant été acquis comme terrain d'assiette d'un immeuble bâti et comme tel assimilé à ce dernier, l'identité entre le bien acquis et le bien revendu n'est pas vérifiée. Il en résulte que la revente doit être soumise à la TVA sur le prix de vente total. Il en est de même en cas de division parcellaire intervenue entre l'acquisition initiale et la cession ayant entraîné un changement de qualification ou un changement physique telle une modification des superficies vendues par rapport à celles mentionnées dans l'acte d'acquisition, la taxation doit alors se faire sur le prix de vente total en application des articles 266 et 267 du CGI. En revanche, lorsque la division parcellaire est antérieure à l'acte d'acquisition initial, qu'un document d'arpentage a été établi pour les besoins de la cession permettant d'identifier les différentes parcelles dans l'acte ou qu'un permis d'aménager faisant apparaître de manière précise les divisions envisagées a été obtenu préalablement à la cession, la taxation sur la marge s'applique dès lors qu'aucun changement physique ou de qualification juridique des parcelles cédées n'est intervenu avant la revente.
