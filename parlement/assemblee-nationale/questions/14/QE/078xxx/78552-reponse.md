@@ -1,0 +1,9 @@
+# Réponse à la question n° 78552
+
+- Question : [78552](78552.md) — Question n° 78552 — États des États-unis; convention; reconnaissance
+
+## Réponse
+
+*JO du 2016-12-06*
+
+Adoptée en 2010, la disposition législative américaine dite « FATCA » (Foreign Account Tax Compliance Act) oblige les banques et autres établissements financiers étrangers à transmettre à l'administration fiscale américaine des informations sur les comptes financiers détenus par des citoyens américains ou des résidents permanents des Etats-Unis. Toutefois, la France et les Etats-Unis ont signé un accord international le 14 novembre 2013 permettant de substituer à ce dispositif unilatéral et extra-territorial un mécanisme d'échange automatique d'informations fondé sur un principe de réciprocité et permettant d'assurer la protection des données personnelles des contribuables et la sécurité juridique des institutions financières françaises. Le nouveau standard international d'échange automatique d'informations financières établi par l'organisation de coopération et de développement économiques (OCDE) en 2014 et que désormais plus de 90 Etats se sont engagés à appliquer en 2017 ou 2018 s'en inspire très largement. Cet accord n'a pas d'incidence sur les dispositions de la convention fiscale signée entre la France et les Etats-Unis le 31 août 1994, notamment en matière de répartition des droits d'imposer et d'élimination des doubles impositions. L'article 29 de cette convention permet aux Etats-Unis d'imposer les personnes ayant la nationalité américaine conformément à leur propre législation comme si la convention n'existait pas, avec un mécanisme d'élimination des doubles impositions. Enfin, la convention fiscale de 1994 a été conclue avec le gouvernement fédéral des Etats-Unis et ne concerne en vertu de son article 2 que les impôts fédéraux prévus par l'Internal Revenue Code.
