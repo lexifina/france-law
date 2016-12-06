@@ -1,0 +1,9 @@
+# Réponse à la question n° 99201
+
+- Question : [99201](99201.md) — Question n° 99201 — déchets dangereux; réglementation
+
+## Réponse
+
+*JO du 2016-12-06*
+
+Les fibres d'amiante sont des substances cancérogènes dont le risque est tel qu'aucun produit contenant de l'amiante ne peut plus être mis sur le marché. L'amiante se retrouve encore dans certains bâtiments, des équipements ou des produits construits ou fabriqués avant cette interdiction. La gestion des déchets amiantés est un enjeu majeur pour l'environnement et la santé humaine en raison de leur dangerosité. C'est pourquoi le ministère de l'environnement, de l'énergie et de la mer chargé des relations internationales sur le climat (MEEM) a commandité une étude au bureau de recherches géologiques minières (BRGM) pour fait un état des lieux des quantités concernées et des exutoires disponibles tant en termes de collecte que d'élimination. L'étude devrait prochainement être rendue publique. Elle constituera un élément important lors de la discussion qui sera menée avec les parties prenantes concernées sur les possibilités d'amélioration de la gestion des déchets contenant de l'amiante. La réflexion portera tant sur la collecte que sur l'élimination pour que les déchets contenant de l'amiante soient gérés avec la technicité nécessaire. L'arrêté ministériel concernant les installations de stockage des déchets non dangereux a été révisé en février 2016. Désormais, les déchets du bâtiment et des travaux publics contenant de l'amiante, déposés en conformité avec le code du travail et collectés suivant des modalités et une traçabilité déjà établis, pourront être acceptés dans ces installations. En multipliant le nombre d'exutoires possibles les coûts d'élimination seront réduits, ce qui contribuera à ce que ces déchets soient orientés dans des filières adaptées à leur gestion.
