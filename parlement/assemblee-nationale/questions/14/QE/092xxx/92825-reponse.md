@@ -1,0 +1,9 @@
+# Réponse à la question n° 92825
+
+- Question : [92825](92825.md) — Question n° 92825 — réglementation
+
+## Réponse
+
+*JO du 2016-12-06*
+
+La retenue à la source prévue par l'article 182 A du code général des impôts est prélevée par le débiteur des revenus, avant leur versement au bénéficiaire. Le débiteur (l'employeur qui verse les salaires ou l'organisme qui verse les pensions) verse la retenue à la source à l'administration fiscale en souscrivant la déclaration no 2494. Le montant des salaires ou des pensions perçus par le bénéficiaire est net de la retenue à la source. En 2016, le taux de la retenue à la source est de 0 % pour la fraction de salaire annuelle inférieure à 14 446 €. Il est de 12 % pour la fraction de salaire annuelle comprise entre 14 446 € et 41 909 €. Il est de 20 % au-delà de 41 909 €. La retenue à la source au taux de 12 % est libératoire de l'impôt sur le revenu. Le contribuable non résident n'a donc pas à déclarer ses salaires s'ils ont été soumis à la retenue à la source au taux de 12 % ou s'ils ont été exonérés de retenue à la source (taux de 0 %). La retenue à la source au taux de 20 % n'est pas libératoire de l'impôt sur le revenu. Lorsque ce taux de retenue à la source a été appliqué, le montant total des salaires ainsi que le montant de la retenue à la source prélevée doivent être déclarés sur la déclaration de revenus, accompagnée du tableau de la notice no 2041-E rempli par le contribuable. Le V de l'article 182 A du code précité prévoit que la retenue à la source s'impute sur le montant de l'impôt sur le revenu établi dans les conditions prévues à l'article 197 A du même code. Après calcul de l'impôt sur le revenu dû par le contribuable établi hors de France, le service procède éventuellement à une restitution de retenue à la source en cas d'excédent de versement ou appelle un complément d'impôt si la retenue à la source versée se révèle insuffisante.
