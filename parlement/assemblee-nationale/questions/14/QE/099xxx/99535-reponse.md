@@ -1,0 +1,9 @@
+# Réponse à la question n° 99535
+
+- Question : [99535](99535.md) — Question n° 99535 — consultation numérique participative
+
+## Réponse
+
+*JO du 2016-12-06*
+
+Le dispositif national de représentation des expatriés est constitué, outre les représentants élus au Sénat et à l'Assemblée nationale, par 95 conseillers à l'AFE et 442 conseillers consulaires, élus de terrain. Cette représentation, particulièrement complète depuis les réformes ayant permis en 2011 la création des députés des FAE, et en 2013, la création des conseillers consulaires, permet d'assurer une écoute et une analyse des préoccupations de nos ressortissants expatriés au plus près du terrain, et de relayer ces éléments jusqu'aux plus hautes instances nationales. La réforme des conseillers consulaires, en particulier, permet d'associer très étroitement ces représentants, issus de la société civile, au travail de nos consulats, autant dans l'analyse des sujets que dans la participation aux conseils consulaires opérationnels. L'Assemblée des Français de l'étranger, en outre, est composée de six commissions qui travaillent sur diverses thématiques (affaires sociales et anciens combattants ; lois, règlements et affaires sociales ; sécurité et protection des personnes et des biens ; commerce extérieur, développement durable, emploi et formation ; budget et fiscalité ; enseignement, affaires culturelles de l'audiovisuel extérieur et de la francophonie). L'AFE se réunit deux fois par an à Paris, et les travaux de ses commissions permettent de relayer les préoccupations des FAE au travers des résolutions et des motions qui sont adoptées, et transmises au gouvernement et au Parlement. Le gouvernement estime que la recommandation de politiques publiques incluant la proposition de bonnes pratiques constatées dans les pays de résidence, entre pleinement dans les missions de cette architecture institutionnelle de représentation des FAE.
