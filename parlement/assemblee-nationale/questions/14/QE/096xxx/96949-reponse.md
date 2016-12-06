@@ -1,0 +1,9 @@
+# Réponse à la question n° 96949
+
+- Question : [96949](96949.md) — Question n° 96949 — application; bilan
+
+## Réponse
+
+*JO du 2016-12-06*
+
+Les articles 241 à 257 de la loi no 2015-990 du 6 août 2015 pour la croissance, l'activité et l'égalité des chances économiques ont modifié les règles applicables en matière de dérogations au principe du repos dominical dans les commerces de détail. L'objectif de la réforme est d'assouplir et de rendre plus cohérent le régime du travail dominical, afin de tenir compte des nouveaux modes de consommation, notamment en ligne, et de rendre possible l'ouverture des commerces dans les zones où il existe un potentiel économique. Le respect du volontariat, la nécessité d'un accord et la définition de garanties et compensations (salaire, temps de repos) sont les contreparties à l'ouverture dominicale. Un bilan des ouvertures dominicales des commerces serait prématuré. Néanmoins, l'étude d'impact qui accompagnait le projet de loi avait estimé les impacts nationaux à 5 000 créations d'emplois et prévu une augmentation des ventes entre 1 % et 10 %, selon les zones. En tout état de cause, l'article L. 3132-24 du code du travail prévoit une évaluation économique et sociale des pratiques d'ouverture des commerces trois ans après la délimitation des zones touristiques internationales (ZTI). En outre, un observatoire du commerce dans les ZTI a été créé par arrêté du 20 juin 2016 et installé le mardi 21 juin 2016. L'observatoire comporte plusieurs collèges et a pour mission d'évaluer la réforme de l'ouverture dominicale des commerces, de suivre la promotion internationale des zones, de mesurer les effets sur le commerce et notamment les commerces de proximité, l'activité économique et l'emploi. Les zones touristiques internationales, délimitées à ce jour ou qui seront délimitées, constituent le champ de compétence de l'observatoire.
