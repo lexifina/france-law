@@ -3688,7 +3688,7 @@ Quantité seuil haut au sens de l'article R. 511-10 : 10 t.
 
 |
 
-Alcools de bouche d'origine agricole et leurs constituants (distillats, infusions, alcool d'origine agricole extraneutre rectifié, extraits et arômes) présentant des propriétés équivalentes aux substances classées dans les catégories 2 ou 3 des liquides inflammables.
+Alcools de bouche d'origine agricole et leurs constituants (distillats, infusions, alcool éthylique d'origine agricole, extraits et arômes) présentant des propriétés équivalentes aux substances classées dans les catégories 2 ou 3 des liquides inflammables.
 
 |
 
@@ -3716,7 +3716,7 @@ A
 
 |
 
-2. Dans les autres cas et lorsque le titre alcoométrique volumique est supérieur à 40 % : la quantité susceptible d'être présente étant :
+2. Dans les autres cas et lorsque le titre alcoométrique volumique est supérieur 40 % : la quantité susceptible d'être présente étant :
 
 |
 
@@ -3728,7 +3728,7 @@ A
 
 |
 
-a) Supérieure ou égale à 500 m³
+a) Supérieure ou égale à 500 m3
 
 |
 
@@ -3758,9 +3758,17 @@ DC |
 
 Quantité seuil bas au sens de l'article R. 511-10 : 5 000 t.
 
-Quantité seuil haut au sens de l'article R. 511-10 : 50 000 t.
+|
 
 |
+
+|
+
+|
+
+|
+
+Quantité seuil haut au sens de l'article R. 511-10 : 50 000 t. |
 
 |
 

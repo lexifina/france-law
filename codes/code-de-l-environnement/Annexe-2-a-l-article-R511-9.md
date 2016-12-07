@@ -264,7 +264,7 @@ A
 
 |
 
-Liquides inflammables, liquides combustibles de point éclair compris entre 60 °C et 93 °C, fiouls lourds, pétroles bruts (installation de remplissage ou de distribution, à l'exception des stations-service visées à la rubrique 1435).
+Liquides inflammables, liquides de point éclair compris entre 60° C et 93° C (1), fiouls lourds et pétroles bruts, à l'exception des liquides mentionnés à la rubrique 4755 et des autres boissons alcoolisées (installation de remplissage ou de distribution, à l'exception des stations-service visées à la rubrique 1435).
 
 |
 
@@ -323,6 +323,18 @@ A
 |
 
 1
+
+|
+
+|
+
+|
+
+(1) A l'exception de ceux ayant donné des résultats négatifs à une épreuve de combustion entretenue reconnue par le ministre chargé des installations classées.
+
+|
+
+|
 
 |
 
@@ -396,11 +408,19 @@ Essence : tout dérivé du pétrole, avec ou sans additif d'une pression de vape
 
 |
 
+|
+
+|
+
+|
+
+|
+
 1436
 
 |
 
-Liquides combustibles de point éclair compris entre 60 °C et 93 °C (stockage ou emploi de).
+Liquides de point éclair compris entre 60 °C et 93 °C (1), à l'exception des boissons alcoolisées (stockage ou emploi de).
 
 |
 
@@ -445,6 +465,18 @@ A
 |
 
 DC
+
+|
+
+|
+
+|
+
+|
+
+(1) A l'exception de ceux ayant donné des résultats négatifs à une épreuve de combustion entretenue reconnue par le ministre chargé des installations classées.
+
+|
 
 |
 

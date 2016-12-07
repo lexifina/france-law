@@ -114,7 +114,7 @@ D
 
 |
 
-Substances radioactives sous forme non scellée (activités nucléaires mettant en oeuvre des) mises en oeuvre dans un établissement industriel ou commercial hors accélérateurs de particules et secteur médical.
+Substances radioactives sous forme non scellée (activités nucléaires mettant en oeuvre des) mises en œuvre dans un établissement industriel ou commercial hors accélérateurs de particules et secteur médical.
 
 Définitions :
 
@@ -204,7 +204,7 @@ La quantité étant supérieure ou égale à 1 tonne
 
 |
 
-Bovins (activité d'élevage, transit, vente, etc., de)
+Bovins (activité d'élevage, transit, vente, etc. de).
 
 |
 
@@ -228,7 +228,7 @@ Bovins (activité d'élevage, transit, vente, etc., de)
 
 |
 
-a) Plus de 400 animaux
+a) Plus de 800 animaux
 
 |
 
@@ -244,21 +244,21 @@ A
 
 |
 
-b) De 201 à 400 animaux
+b) De 401 à 800 animaux
 
 |
 
-DC
-
-|
-
-|
+E
 
 |
 
 |
 
-c) De 50 à 200 animaux
+|
+
+|
+
+c) De 50 à 400 animaux
 
 |
 
@@ -284,7 +284,7 @@ D
 
 |
 
-a) Plus de 200 vaches
+a) Plus de 400 vaches
 
 |
 
@@ -300,7 +300,7 @@ A
 
 |
 
-b) De 151 à 200 vaches
+b) De 151 à 400 vaches
 
 |
 
@@ -314,21 +314,7 @@ E
 
 |
 
-c) De 101 à 150 vaches
-
-|
-
-DC
-
-|
-
-|
-
-|
-
-|
-
-d) De 50 à 100 vaches
+c) De 50 à 150 vaches
 
 |
 
@@ -354,13 +340,11 @@ D
 
 |
 
-- à partir de 100 vaches
+A partir de 100 vaches
 
 |
 
-D
-
-|
+D |
 
 |
 
@@ -380,13 +364,11 @@ D
 
 |
 
-- capacité égale ou supérieure à 50 places
+Capacité égale ou supérieure à 50 places
 
 |
 
-D
-
-|
+D |
 
 |
 
@@ -532,7 +514,7 @@ D
 
 |
 
-Volailles, gibier à plumes (activité d'élevage, vente, etc., de), à l'exclusion d'activités spécifiques visées à d'autres rubriques.
+Volailles, gibier à plumes (activité d'élevage, vente, etc. de), à l'exclusion d'activités spécifiques visées à d'autres rubriques.
 
 |
 
@@ -574,33 +556,7 @@ E
 
 |
 
-3. Autres installations que celles visées au 1 et au 2 et détenant un nombre d'animaux équivalents :
-
-|
-
-|
-
-|
-
-|
-
-|
-
-a. Supérieur à 20 000
-
-|
-
-DC
-
-|
-
-|
-
-|
-
-|
-
-b. Supérieur à 5 000 mais inférieur ou égal à 20 000
+3. Autres installations que celles visées au 1 et au 2 et détenant un nombre d'animaux-équivalents supérieur à 5 000
 
 |
 
@@ -614,141 +570,7 @@ D
 
 |
 
-Nota. - Pour le "1" et le "2", les volailles et gibier à plumes sont comptés en emplacements : 1 animal = 1 emplacement
-
-Pour le "3", les volailles et gibier à plumes sont comptés en utilisant les valeurs suivantes exprimées en animaux-équivalents :
-
-|
-
-|
-
-|
-
-|
-
-|
-
-1. Caille = 0,125.
-
-|
-
-|
-
-|
-
-|
-
-|
-
-2. Pigeon, perdrix = 0,25.
-
-|
-
-|
-
-|
-
-|
-
-|
-
-3. Coquelet = 0,75.
-
-|
-
-|
-
-|
-
-|
-
-|
-
-4. Poulet léger = 0,85.
-
-|
-
-|
-
-|
-
-|
-
-|
-
-5. Poule, poulet standard, poulet label, poulet biologique, poulette, poule pondeuse, poule reproductrice, faisan, pintade, canard colvert = 1.
-
-|
-
-|
-
-|
-
-|
-
-|
-
-6. Poulet lourd = 1,15.
-
-|
-
-|
-
-|
-
-|
-
-|
-
-7. Canard à rôtir, canard prêt à gaver, canard reproducteur = 2.
-
-|
-
-|
-
-|
-
-|
-
-|
-
-8. Dinde légère = 2,20.
-
-|
-
-|
-
-|
-
-|
-
-|
-
-9. Dinde médium, dinde reproductrice, oie = 3.
-
-|
-
-|
-
-|
-
-|
-
-|
-
-10. Dinde lourde = 3,50.
-
-|
-
-|
-
-|
-
-|
-
-|
-
-11. Palmipèdes gras en gavage = 7.
+Nota. - Pour le "1." et le "2.", les volailles et gibier à plumes sont comptés en emplacements : 1 animal = 1 emplacement. Pour le "3.", les volailles et gibier à plumes sont comptés en utilisant les valeurs suivantes exprimées en animaux-équivalents : caille = 0,125 ; pigeon, perdrix = 0,25 ; coquelet = 0,75 ; poulet léger = 0,85 ; poule, poulet standard, poulet label, poulet biologique, poulette, poule pondeuse, poule reproductrice, faisan, pintade, canard colvert = 1 ; poulet lourd = 1,15 ; canard à rôtir, canard prêt à gaver, canard reproducteur = 2 ; dinde légère = 2,20 ; dinde médium, dinde reproductrice, oie = 3 ; dinde lourde = 3,50 ; palmipèdes gras en gavage = 7.
 
 |
 
