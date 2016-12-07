@@ -134,6 +134,10 @@ Paris-Nassau ;
 
 Paris-George Town ;
 
+Barbade :
+
+Paris-Bridgetown ;
+
 Bahreïn :
 
 Paris-Bahreïn ;
@@ -972,6 +976,8 @@ Paris-Khabarovsk ;
 
 Paris-Krasnoïarsk ;
 
+Paris-Mineralnye Vody ;
+
 Paris-Moscou ;
 
 Paris-Nijnevartovsk ;
@@ -1197,6 +1203,10 @@ Zimbabwe :
 Paris-Hararé.
 
 3.2. De/vers les Antilles et la Guyane
+
+Barbade :
+
+Fort-de-France-Bridgetown ;
 
 Curaçao :
 
