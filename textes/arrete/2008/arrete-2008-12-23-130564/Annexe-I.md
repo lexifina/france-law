@@ -106,9 +106,7 @@ Préfecture d'Indre-et-Loire
 
 |
 
-Responsable de l'atelier reprographie
-
-|
+Intendant de la résidence du préfet |
 
 1
 
@@ -554,7 +552,7 @@ Direction de la sécurité civile/ ESOL Sud
 
 |
 
-Adjoint au chef du service auto
+Gestionnaire logistique
 
 |
 
