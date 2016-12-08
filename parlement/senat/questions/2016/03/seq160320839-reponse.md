@@ -1,0 +1,9 @@
+# Réponse à la question SEQ160320839
+
+- Question : [SEQ160320839](seq160320839.md) — Codes d'accès à l'ordinateur professionnel d'un fonctionnaire territorial absent pour cause de maladie
+
+## Réponse
+
+*Intérieur, JO du 2016-12-08, page 5384*
+
+Selon une jurisprudence judiciaire constante, les dossiers et fichiers créés par le salarié grâce à l'outil informatique mis à sa disposition pour l'exécution de ses fonctions, sont présumés, sauf si le salarié les identifie comme personnels, avoir un caractère professionnel, de sorte que l'employeur est libre de les consulter, même en l'absence de l'intéressé (Cass, social, 18 octobre 2006, n°04-48.025). Si l'on applique cette jurisprudence aux employeurs publics, ces derniers sont ainsi en droit d'accéder aux informations contenues dans l'ordinateur et le matériel informatique mis à disposition d'un agent, lorsque celui-ci est absent. En particulier, l'employeur peut exiger de l'agent en congés de maladie qu'il lui communique les codes d'accès à son ordinateur (Cass.soc, 18 mars 2003, n°01-41.343). Ce droit d'accès s'exerce sous réserve des restrictions résultant du respect dû à la vie privée et à la protection des données personnelles. La Commission nationale informatique et libertés (CNIL) précise que l'employeur peut avoir connaissance du mot de passe d'un salarié absent, à la condition que ce dernier détienne sur son poste informatique des informations nécessaires à la poursuite de l'activité de l'entreprise et que l'employeur ne puisse accéder à ces informations par d'autres moyens. En outre, l'employeur ne peut en principe accéder, hors de la présence de l'intéressé, aux fichiers « personnels » expressément identifiés comme tels. Il n'a pas non plus le droit de prendre connaissance des messages personnels émis et reçus par l'agent grâce à l'outil informatique mis à sa disposition pour son travail (Cass.soc, 2 octobre 2011, n°99-42.942).
