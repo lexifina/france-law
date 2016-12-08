@@ -1,0 +1,9 @@
+# Réponse à la question SEQ151018274
+
+- Question : [SEQ151018274](seq151018274.md) — Financement des aires de grand passage pour les gens du voyages
+
+## Réponse
+
+*Intérieur, JO du 2016-12-08, page 5381*
+
+La réalisation d'aires d'accueil de grand passage ne bénéficie d'aucune aide financière du ministère du logement et de l'habitat durable. Les aides financières de ce ministère sont réservées à la création de terrains familiaux et d'aires d'accueil classiques. Toutefois, les aires d'accueil de grand passage peuvent bénéficier pour leur réalisation de subventions de l'État dans le cadre de la « dotation d'équipement des territoires ruraux » (DETR). Par ailleurs, la loi de finances 2016 (article 159) a créé un fonds de soutien à l'investissement public local, doté de 800 M€, dont ces communes rurales pourraient bénéficier. Ce fonds est composé de deux enveloppes, dont la première, dotée de 500 M€ permettra, entre autres, le développement d'infrastructures en faveur de la mobilité ou de l'accueil de populations nouvelles. Toutes les communes et les EPCI de métropole sont éligibles à cette première enveloppe. La deuxième enveloppe dotée de 300 M€ est destinée à accompagner les projets d'investissement des communes de moins de 50 000 habitants ou l'EPCI dont elles sont membres lorsque l'opération concerne une compétence qui lui a été transférée. Les modalités de financement par ce fonds sont quasiment identiques aux modalités concernant les subventions attribuées au titre de la DETR et relèvent des dispositions du décret n° 99-1060 du 16 décembre 1999 relatif aux subventions de l'État pour des projets d'investissement. Le Président de la République a annoncé la reconduction de ce fonds de soutien pour l'année 2017. La DETR sera par ailleurs portée à un montant d'un milliard d'euros.
