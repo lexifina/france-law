@@ -1,0 +1,120 @@
+# Délibération n° 2016-375 du 8 décembre 2016 portant avis sur un projet de décret relatif aux conditions d'identification et de cession des animaux d'espèces non domestiques détenus en captivité (demande d'avis n° 16022592)
+
+- Nature : Deliberation
+- Type : Avis
+- Numéro : 2016-375
+- Date : 2016-12-08
+- Publication : 2017-03-01
+- NOR : CNIX1704098X
+- État : VIGUEUR
+- Légifrance : https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000034100183
+
+La Commission nationale de l'informatique et des libertés,
+
+Saisie par la ministre de l'environnement, de l'énergie et de la mer d'une demande d'avis sur un projet de décret relatif aux conditions d'identification et de cession des animaux d'espèces non-domestiques détenus en captivité ;
+
+Vu la convention n° 108 du Conseil de l'Europe pour la protection des personnes à l'égard du traitement automatisé des données à caractère personnel ;
+
+Vu la directive 95/46/CE du Parlement européen et du Conseil du 24 octobre 1995 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données ;
+
+Vu la loi n° 78-17 du 6 janvier 1978 modifiée relative à l'informatique, aux fichiers et aux libertés, notamment ses articles 11-2°-d et 27-ll-4° ;
+
+Vu la loi n° 2016-1087 du 8 août 2016 pour la reconquête de la biodiversité, de la nature et des paysages ;
+
+Vu l' ordonnance n° 2005-1516 du 8 décembre 2005 relative aux échanges électroniques entre les usagers et les autorités administratives et entre autorités administratives ;
+
+Vu le décret n° 2005-1309 du 20 octobre 2005 modifié pris pour l'application de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés ;
+
+Vu le décret n° 2010-112 du 2 février 2010 pris pour l'application des articles 9, 10, et 12 de l'ordonnance n° 2005-1516 du 8 décembre 2005 relative aux échanges électroniques entre les usagers et les autorités administratives et entre les autorités administratives ;
+
+Après avoir entendu Mme Laurence DUMONT, commissaire, en son rapport, et Mme Nacima BELKACEM, commissaire du Gouvernement, en ses observations,
+
+Emet l'avis suivant :
+
+La loi n° 2016-1087 du 8 août 2016 pour la reconquête de la biodiversité, de la nature et des paysages prévoit de nouvelles mesures concernant les animaux d'espèces non domestiques détenus en captivité, dont la création d'un fichier national de ces espèces qui, dès lors qu'elles figurent sur les listes établies en application des articles L. 411- 1, L. 411-2 et L. 412-1 du code de l'environnement, doivent être identifiées individuellement.
+
+La gestion de ce traitement qui constitue un téléservice sera confiée à une personne morale agréée par les ministres chargés de l'environnement et de l'agriculture. Il sera renseigné par les personnes chargées de procéder au marquage des animaux, à savoir les vétérinaires et les éleveurs, ainsi que le cas échéant, par les propriétaires des animaux, conformément à la loi n° 2016-1087 du 8 août 2016 précitée.
+
+Dans la mesure où ce fichier comporte des informations relatives aux personnes chargées du marquage ainsi que, le cas échéant, des informations relatives aux détenteurs des animaux, il est soumis aux dispositions de la loi du 6 janvier 1978 modifiée.
+
+La Commission a ainsi été saisie d'une demande d'avis sur un projet de décret autorisant la création de ce fichier.
+
+Sur les finalités du traitement :
+
+Le traitement projeté a pour finalités le suivi administratif et statistique des animaux d'espèces non domestiques détenus en captivité ainsi que l'identification de leurs propriétaires de manière dématérialisée.
+
+Il permet en effet de faciliter la procédure d'identification des animaux qui s'effectue actuellement sous format papier.
+
+La Commission estime que ces finalités sont déterminées, explicites et légitimes conformément à l'article 6-2° de la loi du 6 janvier 1978 modifiée.
+
+Sur la nature des données traitées :
+
+Les données collectées concernent les propriétaires des animaux au moment du marquage et les personnes ayant procédé au marquage (vétérinaire ou éleveur).
+
+Concernant les propriétaires, les données traitées sont :
+
+- le nom et le prénom ;
+
+- l'adresse postale ;
+
+- les mentions de l'exécution des obligations administratives auxquelles le propriétaire est astreint.
+
+S'agissant des personnes ayant procédé au marquage (vétérinaire ou éleveur), les données collectées sont :
+
+- les nom et prénom ;
+
+- l'adresse postale.
+
+Dans la mesure où le traitement sera accessible à l'aide d'un identifiant et d'un mot de passe, la Commission recommande que la collecte des identifiants soit mentionné dans le projet de décret.
+
+Sous cette réserve, la.Commission estime que les données sont adéquates, pertinentes et non-excessive au regard des finalités poursuivies par le traitement en application de l'article 6-3° de la loi du 6 janvier 1978 modifiée.
+
+Sur la durée de conservation des données :
+
+Le projet de décret prévoit que les données sont conservées pendant une durée maximale de cinq ans suivant la déclaration de décès de l'animal.
+
+En l'absence de déclaration de la mort de l'animal, les données sont conservées un an au plus après l'âge maximal des animaux qui varie selon l'espèce concernée.
+
+A l'expiration de ces durées de conservation, les données sont définitivement supprimées.
+
+La Commission estime que ces durées n'excèdent pas celles nécessaires à l'exercice des finalités pour lesquelles les données sont collectées et traitées, en application de l'article 6-5° de la loi du 6 janvier 1978 modifiée.
+
+Sur les destinataires des données :
+
+Le projet de décret prévoit que peuvent être destinataires des données contenues dans le fichier national d'identification des animaux d'espèces non-domestiques détenus en captivité :
+
+- les préfets dans le cadre de leur mission de délivrance des autorisations d'ouverture des établissements détenant des animaux d'espèces non domestiques et des autorisations de détention d'espèces non domestiques par les particuliers ;
+
+- les agents des services de secours et d'incendie afin de retrouver les propriétaires d'animaux d'espèces non domestiques dans le cas où ces derniers seraient retrouvés en divagation sur la voie publique ou dans le milieu naturel ; les maires pour leur mission de capture et de mise en fourrière des animaux d'espèces non domestiques en divagation ;
+
+- les agents mentionnés à l' article L. 415-1 du code de l'environnement ayant pour mission de constater les infractions définies dans le présent projet de décret ;
+
+- le directeur chargé de la législation relative aux animaux d'espèces non domestiques détenus en captivité ou ses délégués pour la réalisation des statiques sur les espèces détenues en captivité, le nombre de spécimens de chacune de ces espèces, les différents lieux de captivité.
+
+La Commission estime que ces personnes ont un intérêt légitime à connaître des données contenues dans le traitement projeté.
+
+Sur les droits d'accès, de rectification et d'opposition des personnes :
+
+Les personnes concernées par le traitement sont informées de sa mise en œuvre par une mention figurant sur le formulaire de déclaration de marquage d'un animal non domestique. Un message électronique leur est également adressé dès lors qu'ils procèdent à une modification d'informations dans le fichier.
+
+La Commission rappelle que cette mention d'information doit contenir l'ensemble des dispositions de l'article 32 de la loi du 6 janvier 1978 modifiée.
+
+Les droits d'accès, de rectification et d'opposition s'exercent auprès du gestionnaire du fichier national des animaux d'espèces non domestiques détenus en captivité.
+
+Sur les mesures de sécurité :
+
+Le traitement comportant un téléservice de l'administration électronique, il appartient au ministère d'attester de sa conformité au décret n° 2010-112 du 2 février 2010 susvisé relatif aux échanges électroniques entre les usagers et les autorités administratives (référentiel général de sécurité) et de le mentionner sur le site.
+
+L'authentification des utilisateurs du traitement est assurée par l'utilisation de mots de passe. La Commission rappelle que ces derniers doivent être régulièrement renouvelés et être composés d'au moins huit caractères contenant des lettres minuscules et majuscules, des chiffres et des caractères spéciaux.
+
+Les habilitations d'accès au système d'information doivent être définies en fonction des attributions des utilisateurs.
+
+La Commission recommande que les accès à l'application fassent l'objet d'une journalisation. Elle rappelle que la conservation des traces ne peut excéder une durée de six mois, au-delà de laquelle celles-ci doivent être supprimées.
+
+Elle rappelle les mesures de sécurité doivent être régulièrement mises à jour au regard de la réévaluation régulière des risques.
+
+Pour la présidente :
+
+Le vice-président délégué,
+
+M.-F. Mazars
