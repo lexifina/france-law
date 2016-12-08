@@ -1,0 +1,9 @@
+# Réponse à la question SEQ151018175
+
+- Question : [SEQ151018175](seq151018175.md) — Concours interne d'accès au cadre d'emplois des agents de police municipale
+
+## Réponse
+
+*Intérieur, JO du 2016-12-08, page 5380*
+
+Les articles L. 411-5 et L.411-6 du code de la sécurité intérieure permettent à la police nationale de recruter des adjoints de sécurité (ADS) en qualité d'agents contractuels de droit public pour une période de trois ans renouvelable une fois par reconduction expresse. Parmi les ADS ayant quitté leurs fonctions, plus de 70 % trouvent un emploi. Certains intègrent le cadre d'emplois des agents de la police municipale après avoir passé le concours externe prévu par l'article 4 du décret n° 2009-1391 du 17 novembre 2006 portant statut particulier du cadre d'emplois des agents de police municipale. Toutefois, ce mode de recrutement n'est pas adapté à la situation d'adjoints de sécurité faiblement ou non diplômés, alors même que les emplois offerts au sein des polices municipales constituent l'un de leurs principaux débouchés au regard des compétences professionnelles acquises au cours de leur engagement au sein de la police nationale. La réflexion à ce sujet se poursuit. L'objectif est de créer de nouvelles règles de recrutement permettant de valoriser davantage l'expérience professionnelle des candidats sans atténuer le niveau de qualification et le degré d'exigence qui sont attendus de la part des agents affectés aux missions de police municipale. Dans ce but, les services de la direction générale des collectivités locales, en liaison avec ceux de la direction générale de la police nationale, ont étudié la possibilité de créer un concours interne d'accès au cadre d'emplois des agents de police municipale. S'agissant des modalités d'organisation, les épreuves proposées aux candidats devraient présenter un caractère pratique et professionnel. Les projets de textes devraient pouvoir être présentés prochainement.
