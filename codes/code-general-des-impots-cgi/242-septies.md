@@ -14,7 +14,7 @@ Ne peuvent être inscrites sur ce registre que les entreprises qui satisfont aux
 
 5° Justifier d'une certification annuelle de leurs comptes par un commissaire aux comptes ;
 
-6° Avoir signé une charte de déontologie.
+6° Avoir signé une charte de déontologie et respecter ses dispositions.
 
 Les opérations réalisées par ces entreprises en application des dispositions mentionnées au premier alinéa sont déclarées annuellement à l'administration fiscale, quel que soit le montant de l'investissement ouvrant droit aux avantages fiscaux mentionnés au premier alinéa. Pour chaque opération sont précisés la nature et le montant de l'investissement, son lieu de situation, les conditions de son exploitation, l'identité de l'exploitant, les noms et adresses des investisseurs, le montant de la base éligible à l'avantage en impôt, la part de l'avantage en impôt rétrocédée, le cas échéant, à l'exploitant ainsi que le montant de la commission d'acquisition et de tout honoraire demandés aux clients.
 

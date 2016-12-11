@@ -42,7 +42,7 @@ Le président de la commission peut rendre, au nom de celle-ci, un avis de compa
 
 Il peut également rendre, au nom de celle-ci, un avis d'incompétence, d'irrecevabilité ou constatant qu'il n'y a pas lieu à statuer.
 
-VI.-Les avis rendus au titre des 2° et 3° du V lient l'administration et s'imposent à l'agent.
+VI.-Les avis rendus au titre des 2° et 3° du V lient l'administration et s'imposent à l'agent. Lorsque l'un de ces avis est rendu en application du III, la commission peut, lorsqu'elle rend un avis d'incompatibilité ou un avis de compatibilité assorti de réserves, et après avoir recueilli les observations de l'agent concerné, le rendre public. L'avis ainsi rendu public ne contient aucune information de nature à porter atteinte à la vie privée de la personne concernée, au secret médical, au secret en matière commerciale et industrielle ou à l'un des secrets mentionnés au 2° de l'article L. 311-5 du code des relations entre le public et l'administration.
 
 L'autorité dont le fonctionnaire relève dans son corps ou dans son cadre d'emplois d'origine peut solliciter une seconde délibération de la commission, dans un délai d'un mois à compter de la notification de son avis. Dans ce cas, la commission rend un nouvel avis dans un délai d'un mois à compter de la réception de cette sollicitation.
 
