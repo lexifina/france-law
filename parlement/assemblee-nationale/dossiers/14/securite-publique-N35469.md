@@ -1,0 +1,59 @@
+# Police et sécurité : sécurité publique
+
+- Procédure : Projet de loi ordinaire
+- Législature : 14
+- Identifiant : DLR5L14N35469
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/securite_publique
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl16-263.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2016-12-21 : 1er dépôt d'une initiative. (PRJLSNR5S279B0263)
+  - 2016-12-21 : Etude d'impact (ETDISNR5S279B0263)
+  - 2016-12-21 : Avis du Conseil d'Etat (AVCESNR5S279B0263)
+  - 2016-12-21 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2016-12-21 : Renvoi en commission au fond
+      - 2016-12-21 : Nomination de rapporteur
+      - 2017-01-18 : Dépôt de rapport (RAPPSNR5S279B0309)
+    - Travaux d'une commission saisie pour avis
+      - 2017-01-11 : Saisine pour avis d'une commission
+      - 2017-01-11 : Nomination de rapporteur
+      - 2017-01-17 : Dépôt de rapport (AVISSNR5S279B0299)
+  - Discussion en séance publique
+    - 2017-01-24 : Discussion en séance publique
+    - 2017-01-24 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2017-01-25 : Dépôt d'une initiative en navette (PRJLANR5L14B4420)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2017-01-25 : Renvoi en commission au fond
+      - 2016-12-12 : Nomination de rapporteur
+      - 2016-12-12 : Réunion de commission
+      - 2017-01-31 : Réunion de commission
+      - 2017-02-07 : Réunion de commission
+      - 2017-02-14 : Réunion de commission
+      - 2017-02-01 : Dépôt de rapport (RAPPANR5L14B4431, PRJLANR5L14BTC4431)
+  - Discussion en séance publique
+    - 2017-02-07 : Discussion en séance publique
+    - 2017-02-07 : Discussion en séance publique
+    - 2017-02-08 : Discussion en séance publique
+    - 2017-02-08 : Décision
+- Commission Mixte Paritaire
+  - 2017-02-09 : Dépôt d'un projet de loi (PRJLSNR5S279B0391)
+  - 2017-02-09 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2017-02-13 : Nomination de rapporteur
+    - 2017-02-13 : Dépôt du rapport d'une CMP (RAPPANR5L14B4466)
+    - 2017-02-13 : Dépôt du rapport d'une CMP (RAPPSNR5S279B0399)
+  - Discussion en séance publique
+    - 2017-02-15 : Discussion en séance publique
+    - 2017-02-15 : Décision
+  - Discussion en séance publique
+    - 2017-02-16 : Discussion en séance publique
+    - 2017-02-16 : Décision
+  - 2017-02-14 : Décision de la CMP
+- Promulgation de la loi
+  - 2017-02-28 : Promulgation d'une loi
