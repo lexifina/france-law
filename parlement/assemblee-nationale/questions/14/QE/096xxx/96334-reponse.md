@@ -1,0 +1,9 @@
+# Réponse à la question n° 96334
+
+- Question : [96334](96334.md) — Question n° 96334 — conditions d'accueil; prise en charge
+
+## Réponse
+
+*JO du 2016-12-13*
+
+Les demandeurs d'asile hébergés en centre d'accueil pour demandeurs d'asile (CADA) bénéficient de la part de l'État, en complément de leur hébergement proprement dit, d'une allocation pour demandeur d'asile. Cette allocation versée en application de l'article L. 744-9 du code de l'entrée et du séjour des étrangers et du droit d'asile, dans sa version issue de la loi no 2015-925 du 29 juillet 2015 relative à la réforme du droit d'asile, est octroyée pour satisfaire aux conditions matérielles d'accueil des demandeurs d'asile et en vue de leur assurer un niveau de vie adéquat. La nouvelle allocation pour demandeur d'asile, qui a été substituée à l'ancienne allocation temporaire d'attente (ATA) et à l'allocation mensuelle de subsistance (AMS), et qui a été « familialisée » pour tenir compte de la composition de la famille, permet de couvrir l'ensemble des dépenses des demandeurs d'asile au nombre desquelles figurent les frais de transport générés durant la période d'instruction de leur demande d'asile. Par ailleurs, certains organismes de transport ou collectivités font déjà bénéficier une partie de leurs usagers de gratuité ou de réductions de tarifs à des titres divers. Les demandeurs d'asile peuvent sous certaines conditions y prétendre. Il relève enfin des missions des CADA de faciliter l'accès des personnes hébergées aux services publics de proximité. Enfin, l'Office français de protection des réfugiés et apatrides est engagé dans un développement des missions foraines qui peuvent réduire certaines dépenses de transport pour les demandeurs, en rapprochant le lieu d'hébergement du lieu d'examen de la demande d'asile.
