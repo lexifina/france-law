@@ -1,0 +1,9 @@
+# Réponse à la question n° 99531
+
+- Question : [99531](99531.md) — Question n° 99531 — consultation numérique participative
+
+## Réponse
+
+*JO du 2016-12-13*
+
+Les Français de l'étranger bénéficient d'une offre substantielle de programmes publics français portés par France Médias Monde et sa chaîne d'information France 24, ainsi que par la chaîne généraliste TV5Monde, qui diffuse majoritairement des programmes français venant principalement de France Télévisions. Nos médias internationaux disposent des droits de diffusion à l'étranger de ces programmes, mais le principe de territorialité de l'achat de programmes ne permet pas de proposer aux Français de l'étranger une offre de programmes du service public audiovisuel identique à celle proposée en France. Cette limitation est particulièrement appliquée dans les territoires de marché pour nos programmes comme l'Amérique du Nord. Les offres numériques des chaînes françaises permettent cependant d'élargir cette diffusion de programmes français à l'étranger mais, là encore, les contraintes contractuelles de libération des droits (auteurs et producteurs) peuvent conduire à des offres géo-bloquées. France Télévisions met en accès libre de nombreux programmes libres de droits sur sa plateforme de rattrapage "Pluzz", qui sont directement identifiables par un onglet spécifique aux Français de l'étranger. 25 % de l'offre en ligne Arte + 7 est disponible dans le monde entier soit environ 500 heures de programmes. TV5Monde propose en ligne, partout dans le monde, une offre vidéo combinant contenus payants et gratuits permettant à ses publics de visionner plus de 3 000 documentaires. Le gouvernement est soucieux de la constante amélioration de l'accès de nos compatriotes vivant à l'étranger à une offre publique de télévision tant en volume qu'en qualité.
