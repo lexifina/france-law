@@ -1,0 +1,9 @@
+# Réponse à la question n° 78010
+
+- Question : [78010](78010.md) — Question n° 78010 — blocages; sites internet; modalités
+
+## Réponse
+
+*JO du 2016-12-13*
+
+Le blocage des sites incitant à la commission d'actes de terrorisme ou en faisant l'apologie prévu par l'article 6-1 de la loi pour la confiance dans l'économie numérique a pour objectif de lutter contre le développement massif de la propagande djihadiste sur internet et de diminuer son impact. Ce dispositif est une mesure de police administrative à but préventif et non une mesure de police judiciaire. C'est ainsi que le Conseil d'Etat a jugé qu'il appartenait « à l'autorité administrative de prendre les mesures de nature à éviter que des infractions pénales soient commises » (ordonnance CE, 9 janvier 2014, ministre de l'intérieur c/ Société Les Productions de la Plume et M. Dieudonné M'Bala M'Bala, no 374508). Dans le cadre de la procédure mise en place, les dossiers des sites susceptibles de provoquer à des actes de terrorisme ou d'en faire l'apologie sont étudiés par les services opérationnels, consultés avant tout blocage aux fins de concilier les impératifs de prévention aux nécessités de l'enquête. En effet, comme cela se pratique pour les enquêtes sous pseudonyme, les différents services concernés se concertent sur les cibles. C'est ainsi qu'il n'est procédé au blocage qu'après que les services se soient assurés que le site visé ne fait pas l'objet d'investigations. En fonction des impératifs de prévention mais également d'enquête, il est donc procédé ou non au blocage des sites signalés. Les sites ayant fait l'objet d'investigations judiciaires peuvent être poursuivis par l'autorité compétente sur le fondement de l'article 421-2-5 al 2 du code pénal, qui punit de sept ans d'emprisonnement et de 100 000 € d'amende le fait de provoquer directement à des actes de terrorisme ou de faire l'apologie de ces actes en utilisant un service de communication au public en ligne.
