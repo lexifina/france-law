@@ -1,0 +1,9 @@
+# Réponse à la question n° 87148
+
+- Question : [87148](87148.md) — Question n° 87148 — taxe sur les ventes directes; laboratoires homéopathiques; exonération
+
+## Réponse
+
+*JO du 2016-12-13*
+
+Il convient de rappeler le principe de cette contribution dite « vente en gros », dont la troisième part a été introduite par la loi de financement de la Sécurité sociale pour 2014. Cette contribution n'est en aucun cas une taxe portant sur la vente directe par les laboratoires pharmaceutiques aux officines : tous les fournisseurs de spécialités pharmaceutiques remboursables, grossistes-répartiteurs ou laboratoires pharmaceutiques, sont assujettis aux mêmes règles de calcul de la contribution. L'objet de la réforme de 2014 a été de lier le niveau de prélèvement au montant des marges rétrocédées par les fournisseurs des officines. Ainsi, la contribution est plus importante pour les produits pour lesquels les marges commerciales sont les plus élevées. Grâce à cette modification, la contribution dite « vente en gros » est devenue plus progressive, puisque les fournisseurs doivent contribuer davantage s'ils octroient des marges commerciales plus importantes aux officines. Pour autant, l'introduction de cette nouvelle règle de calcul a été réalisée sans que le rendement total de cette contribution n'en soit augmenté. La modification de 2014 a donc pu rendre cette contribution économiquement plus juste, et cela était bien l'objectif recherché. Enfin, exonérer les médicaments homéopathiques de la troisième part ne pourrait se justifier sur le plan juridique car cela occasionnerait une rupture d'égalité devant les charges publiques. En effet, l'exonération bénéficierait de fait pratiquement exclusivement à un acteur particulier. Pour toutes ces raisons, une exemption de la contribution sur la vente en gros pour les produits homéopathiques n'apparaît pas justifiée.
