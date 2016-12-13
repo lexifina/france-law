@@ -1,0 +1,9 @@
+# Réponse à la question n° 31676
+
+- Question : [31676](31676.md) — Question n° 31676 — responsabilité sociale et environnementale; rapport; préconisations
+
+## Réponse
+
+*JO du 2016-12-13*
+
+La conférence onusienne de Rio+20 en 2012 sur le développement durable, a permis de renforcer le programme des Nations unies pour l'environnement (PNUE), reconnu comme « autorité environnementale mondiale ». La déclaration finale prévoit l'universalisation de son Conseil d'administration, une augmentation de ses ressources, une consolidation progressive de ses fonctions au siège de Nairobi et un renforcement de sa présence régionale. Cependant, aucun accord n'a été trouvé pour le lancement d'une Agence spécialisée des Nations unies sur l'environnement. L'Assemblée générale du PNUE du 18-22 février 2013 a acté la transformation de son Conseil d'administration en Assemblée des Nations unies pour l'environnement du PNUE. Cette modification n'est pas que symbolique dans la mesure où elle donne au PNUE une autorité élargie et un rôle de guide des politiques environnementales dans l'ensemble de la sphère Nations unies. La conférence onusienne de Rio+20 en 2012 sur le développement durable, a également adopté les objectifs de développement durable, auxquels la France participe activement, ainsi qu'un programme décennal d'actions pour la consommation et la production durables (CPD). Cet ensemble d'initiatives va dans le sens d'un développement plus éco-responsable, prenant en compte plusieurs dimensions de l'éco-responsabilité (consommation, achats, éducation,.). Le 6 juin 2016, la ministre de l'environnement, de l'énergie et de la mer, chargée des relations internationales sur le climats, a lancé le plan d'action national des objectifs de développement durable. Il a été présenté aux Nations unies le 20 juillet 2016.
