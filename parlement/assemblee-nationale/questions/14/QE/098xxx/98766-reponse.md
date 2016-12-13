@@ -1,0 +1,9 @@
+# Réponse à la question n° 98766
+
+- Question : [98766](98766.md) — Question n° 98766 — urgences vétérinaires; réglementation
+
+## Réponse
+
+*JO du 2016-12-13*
+
+Les véhicules d'intérêt général bénéficiant de facilités de passage pouvant être équipés, par autorisation préfectorale, de dispositifs spéciaux lumineux (feux à éclats), en application de l'article R. 313-27 du code de la route, sont limitativement énumérés à l'article R. 311-1 du même code. La liste ainsi définie de ces véhicules a récemment pu être enrichie par le décret no 2016-697 du 26 mai 2016 relatif aux véhicules d'intérêt général et au parc des autocars de la police et de la gendarmerie donnant notamment aux véhicules du service de la surveillance de la Régie autonome des transports parisiens le statut de véhicules d'intérêt général bénéficiant de facilités de passage et ce en raison des menaces et risques criminels et terroristes pesant actuellement sur le territoire. Même s'ils interviennent dans des conditions difficiles, les médecins vétérinaires urgentistes ne peuvent se prévaloir du même degré d'urgence. La qualité de véhicules d'intérêt général bénéficiant de facilités de passage doit répondre à des nécessités absolues dans le cadre d'interventions urgentes et nécessaires afin d'éviter les abus de nature à diminuer l'efficacité des dispositions prises par le code de la route. En effet, une multiplication des véhicules bénéficiant de ces dispositions serait de nature à accroître les risques pour les usagers de la route, compte tenu des dérogations attachées à cette catégorie de véhicules en matière de dépassement des vitesses maximales autorisées. Aussi, il n'est pas envisagé de modifier le code de la route dans le but de permettre aux médecins vétérinaires urgentistes de figurer dans la catégorie des véhicules d'intérêt général bénéficiant de facilités de passage.
