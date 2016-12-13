@@ -1,0 +1,9 @@
+# Réponse à la question n° 98098
+
+- Question : [98098](98098.md) — Question n° 98098 — réglementation
+
+## Réponse
+
+*JO du 2016-12-13*
+
+L'article R. 2213-40 du code général des collectivités territoriales prévoit que les demandes d'exhumations doivent être faites par le plus proche parent du défunt. Il revient à l'autorité administrative saisie d'une demande d'exhumation de s'assurer, au vu des pièces fournies par le pétitionnaire, de la réalité du lien familial dont il se prévaut et de l'absence de parent plus proche du défunt que lui. En outre, il appartient au pétitionnaire d'attester sur l'honneur qu'il n'existe aucun autre parent venant au même degré de parenté que lui, ou, si c'est le cas, qu'aucun d'eux n'est susceptible de s'opposer à l'exhumation sollicitée. Néanmoins, lorsque l'administration a connaissance d'un désaccord sur cette exhumation exprimé par un ou plusieurs autres parents venant au même degré de parenté que le pétitionnaire, elle doit refuser l'exhumation, en attendant le cas échéant que l'autorité judiciaire se prononce (CE, 9 mai 2005, Rabau no 262977). Par ailleurs, l'ensemble des titulaires de la sépulture doivent donner leur accord pour que celle-ci soit ouverte et que l'exhumation y soit pratiquée, ceux-ci n'ayant pas nécessairement la qualité de plus proche parent. En effet, si le titulaire de la concession demeure le régulateur du droit à l'inhumation dans la concession (Cass. 1ère civ., 17 décembre 2008) et qu'il peut seul déterminer librement les personnes pouvant être inhumées, il conserve également le droit d'autoriser l'ouverture ou non de la concession. En cas d'indivision, ce droit est partagé à égale hauteur entre les co-indivisaires. La législation en vigueur permet ainsi de préserver les droits des concessionnaires mais aussi de garantir le principe d'immutabilité des sépultures assurant le respect des volontés des défunts.
