@@ -1,0 +1,10 @@
+# Aix-en-Provence : délibération — REALISATION D'UNE ETUDE SUR LA MISE EN VALEUR DU QUARTIER MAZARIN - CONVENTION TRIPARTITE DE PARTENARIAT AVEC L'INSTITUT D'URBANISME ET D'AMENAGEMENT REGIONAL ET LE CIQ MAZARIN- AUTORISATION DE SIGNATURE
+
+- Collectivité : Aix-en-Provence
+- SIREN : 211300017
+- Code INSEE : 13001
+- Date : 2016-12-13
+- Séance : Conseil Municipal 1CA
+- Objet : REALISATION D'UNE ETUDE SUR LA MISE EN VALEUR DU QUARTIER MAZARIN - CONVENTION TRIPARTITE DE PARTENARIAT AVEC L'INSTITUT D'URBANISME ET D'AMENAGEMENT REGIONAL ET LE CIQ MAZARIN- AUTORISATION DE SIGNATURE
+- Acte publié : http://eadm.mairie-aixenprovence.fr/delibinternet/delib-8245-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/liste-des-deliberations-aix-en-provence@aix-en-provence
