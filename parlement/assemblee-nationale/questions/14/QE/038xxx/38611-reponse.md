@@ -1,0 +1,9 @@
+# Réponse à la question n° 38611
+
+- Question : [38611](38611.md) — Question n° 38611 — loi n° 2013-428 du 27 mai 2013; mise en oeuvre
+
+## Réponse
+
+*JO du 2016-12-13*
+
+La loi no 2013-428 du 27 mai 2013 modernisant le régime des sections de commune a nécessité deux textes d'application, qui ont tous deux été pris. Le premier texte d'application concerne l'hypothèse dans laquelle les intérêts de la commune se trouvent en opposition avec ceux d'une section dont la commission syndicale n'a pas été constituée. La loi prévoit alors la création d'une commission syndicale spéciale désignée par le représentant de l'État dans le département uniquement pour exercer l'action en justice contre la commune, cette commission étant dissoute lorsque le jugement est définitif (article L. 2411-8 du code général des collectivités territoriales, CGCT). Le décret no 2014-1356 du 12 novembre 2014 a défini les conditions de désignation ainsi que les modalités de fonctionnement de cette commission syndicale spéciale, en insérant les articles R. 2411-11 à R. 2411-13 dans le code. Le second texte constitue une conséquence de la modification des conditions de constitution de la commission syndicale d'une section de commune. La commission syndicale peut en effet se constituer sur la demande des électeurs de la section, dans les six mois à compter du renouvellement des conseillers municipaux (article L. 2411-3 du CGCT). Toutefois, la commission syndicale n'est pas constituée notamment lorsque « les revenus ou produits annuels des biens de la section sont inférieurs à 2 000 € de revenu cadastral, à l'exclusion de tout revenu réel » (article L. 2411-5 du CGCT), c'est-à-dire lorsque la section ne présente pas d'activité suffisante. Aussi, depuis la modification apportée par la loi précitée à l'article L. 2411-5, il convient de ne plus tenir compte de l'article D. 2411-1 du CGCT, qui a été abrogé par le décret no 2015-1589 du 4 décembre 2015.
