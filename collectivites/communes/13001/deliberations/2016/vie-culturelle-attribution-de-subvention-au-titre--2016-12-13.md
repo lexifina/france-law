@@ -1,0 +1,10 @@
+# Aix-en-Provence : délibération — VIE CULTURELLE - ATTRIBUTION DE SUBVENTION AU TITRE DE 2016 - MODIFICATION D'AVENANTS SUITE ERREUR MATÉRIELLE - EXERCICE 2017 : ATTRIBUTION DU PREMIER ACOMPTE DE SUBVENTION AU BÉNÉFICE DES ASSOCIATIONS CONVENTIONNÉES - CCN, TJP ET C.I.A.M.
+
+- Collectivité : Aix-en-Provence
+- SIREN : 211300017
+- Code INSEE : 13001
+- Date : 2016-12-13
+- Séance : Conseil Municipal 1CA
+- Objet : VIE CULTURELLE - ATTRIBUTION DE SUBVENTION AU TITRE DE 2016 - MODIFICATION D'AVENANTS SUITE ERREUR MATÉRIELLE - EXERCICE 2017 : ATTRIBUTION DU PREMIER ACOMPTE DE SUBVENTION AU BÉNÉFICE DES ASSOCIATIONS CONVENTIONNÉES - CCN, TJP ET C.I.A.M.
+- Acte publié : http://eadm.mairie-aixenprovence.fr/delibinternet/delib-8238-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/liste-des-deliberations-aix-en-provence@aix-en-provence
