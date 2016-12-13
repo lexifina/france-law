@@ -1,0 +1,9 @@
+# Réponse à la question n° 52670
+
+- Question : [52670](52670.md) — Question n° 52670 — Comité national de suivi de la stratégie nationale relative à l'érosion littorale
+
+## Réponse
+
+*JO du 2016-12-13*
+
+Pour assurer une meilleure visibilité de la stratégie nationale de gestion intégrée du trait de côte et renforcer sa mise en œuvre, la ministre chargée de l'environnement, de l'énergie et de la mer, chargée des relations internationales sur le climat, conjointement avec le secrétaire d'état chargé de la mer ont décidé d'installer en 2014 un organe de concertation et de suivi des actions. Un comité national de suivi a ainsi été institué. Il est coprésidé par deux parlementaires, Chantal Berthelot, députée de Guyane, et Pascale Got, députée de Gironde et se compose de 25 membres répartis dans 5 collèges, représentatifs des différentes parties prenantes concernées et compétentes en matière de gestion du trait de côte : Élus, État, experts, syndicats et associations. Le nombre de membres est volontairement restreint pour permettre une grande réactivité du comité. Le comité a pour mission de : - proposer des actions pour la mise en œuvre d'une politique de gestion intégrée du trait de côte, cohérente avec les autres politiques publiques qui s'appliquent sur le littoral tant en métropole qu'en outre-mer ; - suivre la réalisation de ces actions ; - coordonner les différents groupes de travail mis en place pour le comité ; - valider et/ou arbitrer les mesures proposées dans ces groupes de travail ; Il se réunit deux à trois fois par an. L'organisation des réunions et le secrétariat sont assurés par les services du ministère chargé de l'environnement en lien étroit avec les coprésidentes du comité. Aucun moyen spécifique n'est mobilisé pour le fonctionnement du comité. Les membres sont conviés sur la base du volontariat sans donner lieu à un défraiement.
