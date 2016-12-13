@@ -1,0 +1,9 @@
+# Réponse à la question n° 97295
+
+- Question : [97295](97295.md) — Question n° 97295 — logements de fonction; Cour des comptes; rapport; recommandations
+
+## Réponse
+
+*JO du 2016-12-13*
+
+Dans son référé du 14 avril 2016, la Cour a formulé une recommandation visant à charger les inspections générales compétentes d'examiner objectivement les contraintes attachées aux fonctions pour déterminer la nécessité d'une concession de logement par nécessité absolue de service en application des critères règlementaires. Le nombre de logements de fonction du ministère de l'intérieur a été réduit de 30% lors de la réforme du régime de concessions de logement intervenue en 2012. La mise en œuvre de cette réforme s'est traduite par la publication du décret no 2012-752 du 9 mai 2012 portant réforme du régime des concessions de logement et de l'arrêté interministériel du 12 décembre 2012 fixant la liste des fonctions éligibles à un logement de fonction au sein du ministère de l'intérieur. Dans le cadre des travaux préalables à la rédaction des arrêtés du 15 décembre 2015, les concessions de logement par nécessité absolue de service ont fait l'objet d'une analyse préalable et approfondie, qui a été validée par le ministre en charge du domaine. En effet, les responsables territoriaux bénéficiaires de ces logements ont une obligation de disponibilité permanente, de réactivité et de mobilisation au regard des responsabilités exercées en matière d'ordre public et de lutte contre la délinquance ou le terrorisme, exigences encore confortées dernièrement. Les arrêtés du 15 décembre 2015 cesseront de produire leurs effets le 31 décembre 2020. Dans cette perspective, les inspections générales relevant du ministère de l'intérieur seront sollicitées pour valider les contraintes et exigences opérationnelles attachées aux fonctions susceptibles d'ouvrir droit à une concession de logement par nécessité absolue de service, dans un contexte par nature évolutif.
