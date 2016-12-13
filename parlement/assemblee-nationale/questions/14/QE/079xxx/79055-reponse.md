@@ -1,0 +1,9 @@
+# Réponse à la question n° 79055
+
+- Question : [79055](79055.md) — Question n° 79055 — réforme; perspectives
+
+## Réponse
+
+*JO du 2016-12-13*
+
+Les personnes déboutées du droit d'asile ont vocation, si elles n'ont pas droit au séjour à un autre titre, à quitter le territoire national. Ainsi les instructions adressées par le Gouvernement aux préfets prévoient-elles l'intervention d'une obligation de quitter le territoire français (OQTF) dès le rejet définitif de la demande d'asile. L'action du Gouvernement vise, en outre, à renforcer l'efficacité de la politique d'éloignement des déboutés du droit d'asile. La réduction des délais d'examen des demandes d'asile, qui constitue l'un des objectifs de la loi du 29 juillet 2015 relative à la réforme du droit d'asile, la réduction des délais de jugement des recours contre les OQTF faisant suite au rejet d'une demande d'asile, la consolidation du régime juridique de l'assignation à résidence en France, y concourent. Selon la jurisprudence administrative, l'étranger ayant vu sa demande d'asile définitivement rejetée n'a pas vocation à bénéficier d'un hébergement d'urgence, s'il n'est pas par ailleurs en situation de détresse. Ainsi, selon la décision du Conseil d'État no 369750 du 4 juillet 2013 le bénéfice des dispositions de l'article L. 345-2-2 du code de l'action sociale et des familles prévoyant que toute personne sans abri en situation de détresse médicale, psychique ou sociale a accès, à tout moment, à un dispositif d'hébergement d'urgence, ne peut être revendiqué par l'étranger dont la demande d'asile a été définitivement rejetée et qui a fait l'objet d'une mesure d'éloignement contre laquelle les voies de recours ont été épuisées sauf « en cas de circonstances particulières faisant apparaître, pendant le temps strictement nécessaire à son départ, une situation de détresse suffisamment grave pour faire obstacle à ce départ ».
