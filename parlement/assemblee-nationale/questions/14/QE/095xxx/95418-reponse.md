@@ -1,0 +1,9 @@
+# Réponse à la question n° 95418
+
+- Question : [95418](95418.md) — Question n° 95418 — réglementation; perspectives
+
+## Réponse
+
+*JO du 2016-12-13*
+
+Les dates des soldes en vigueur ont fait l'objet d'une réforme dans le cadre la loi no 2008-776 du 4 août 2008 de modernisation de l'économie (LME), afin d'assurer une plus grande stabilité et une meilleure visibilité du dispositif. La loi no 2014-626 du 18 juin 2014 relative à l'artisanat, au commerce et aux TPE (ACTPE), après concertation avec les acteurs du commerce, a supprimé les soldes flottants, également afin de renforcer la lisibilité de ce dispositif et à son succès commercial, utile tout à la fois par ses volumes de vente et par la possibilité d'y écouler les stocks constitués par les commerçants. Il y a donc aujourd'hui deux périodes de soldes nationaux en hiver et en été. Il n'est pas, à ce stade, envisagé de modifier le dispositif, ni les dates annuelles, qui traduisent les concertations menées avec l'ensemble des acteurs du commerce. En dehors des périodes légales de soldes, les commerçants peuvent proposer, tout au long de l'année, des opérations promotionnelles avec une réduction de prix : promotions, déstockages ou ventes privées, sur les marchandises pour lesquelles ils ne reconstituent pas de stocks, dès lors que le terme de soldes n'est pas utilisé et qu'ils ne pratiquent pas de vente à perte. De telles périodes promotionnelles coordonnées entre les acteurs, peuvent contribuer à la redynamisation du commerce de centre-ville. Concernant les ventes aux déballages, qui concernent une grande variété d'acteurs, le Gouvernement mobilise d'une part les services de contrôles (DGCCRF) pour sanctionner les pratiques illégales. En effet, qu'il s'agisse du non-respect de la législation commerciale, ou de l'éventuelle absence d'une autorisation administrative, les pratiques commerciales éphémères et illégales nécessitent avant tout une action de contrôle efficace et dissuasive.
