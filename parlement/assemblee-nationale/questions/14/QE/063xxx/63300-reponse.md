@@ -1,0 +1,9 @@
+# Réponse à la question n° 63300
+
+- Question : [63300](63300.md) — Question n° 63300 — travaux d'isolation; occupation temporaire du domaine public
+
+## Réponse
+
+*JO du 2016-12-13*
+
+L'article 7 de la loi no 2015-992 du 17 août 2015 relative à la transition énergétique pour la croissance verte (LTECV) et son décret d'application no 2016-802 du 15 juin 2016 facilitant la délivrance d'une autorisation d'urbanisme pour la mise en œuvre d'une isolation thermique ou d'une protection contre le rayonnement solaire lèvent les freins que pouvaient poser certaines règles prévues par les plans locaux d'urbanisme pour la mise en œuvre de projets d'isolation thermique extérieure. Ces dispositions prévoient ainsi que, dans le cas d'une demande relative à la mise en œuvre d'une isolation thermique extérieure, l'autorité compétente pour délivrer l'autorisation du droit des sols (bien souvent le maire) pourra écarter certaines règles du plan local d'urbanisme comme les distances d'implantation, les règles de hauteur maximales ou encore les règles relatives à l'aspect extérieur. Respectueuse des droits attachés à la propriété privée, la loi ne prévoit pas de dispositions permettant de s'en affranchir. Mais un projet d'isolation thermique extérieure empiétant sur une parcelle voisine n'appartenant pas au porteur de projet pourra aboutir en obtenant l'accord du propriétaire de la parcelle concernée, soit en concluant un contrat de vente, soit en établissant une servitude privée sur la lanière de terrain concerné. La loi ne prévoit pas non plus la possibilité de s'affranchir des règles relatives à l'occupation du domaine public. Il est donc nécessaire d'obtenir de la collectivité compétente une autorisation d'occupation du domaine public permettant de s'assurer que le projet ne compromet pas la sécurité et la circulabilité de la rue ou de l'espace espaces public concernés.
