@@ -550,7 +550,7 @@ B
 
 |
 
-Direction départementale de l'équipement et de l'agriculture (2) du Jura
+Direction départementale des territoires du Jura
 
 FONCTIONS EXERCEES
 
@@ -574,7 +574,7 @@ par emploi
 
 |
 
-Chef du service aménagement habitat environnement et construction |
+Chef du service connaissance prospective habitat |
 
 A
 
@@ -584,11 +584,11 @@ A
 
 |
 
-35 points
+35
 
 |
 
-Chef du bureau habitat accessibilité bâtiment durable |
+Chef du pôle habitat - Service connaissance prospective habitat |
 
 A
 
@@ -598,11 +598,11 @@ A
 
 |
 
-35 points
+35
 
 |
 
-Chargé de suivi du PDALPD et financement ANRU |
+Chargé des fonctions sociales du logement, gens du voyage-Pôle habitat-Service connaissance prospective habitat |
 
 B
 
@@ -612,11 +612,11 @@ B
 
 |
 
-25 points
+25
 
 |
 
-Instructeur ANAH |
+Chargé de mission logement locatif programmation, délégation de compétences, tutelle HLM, renouvellement urbain-Pôle habitat-Service connaissance prospective habitat |
 
 B
 
@@ -626,11 +626,11 @@ B
 
 |
 
-25 points
+25
 
 |
 
-Instructeur ANAH et gens du voyage/ habitat indigne |
+Chargé de mission aides du parc privé-Pôle habitat-Service connaissance prospective habitat |
 
 B
 
@@ -640,11 +640,11 @@ B
 
 |
 
-25 points
+25
 
 |
 
-Chargé du suivi de la commission de conciliation et conventionnement public |
+Chargé de la commission de conciliation, conventionnement Etat-Pôle habitat-Service connaissance prospective habitat |
 
 C
 
@@ -654,11 +654,11 @@ C
 
 |
 
-15 points
+15
 
 |
 
-Secrétaire du bureau habitat accessibilité bâtiment durable |
+Secrétaire du pôle habitat-Pôle habitat-Service connaissance prospective habitat |
 
 C
 
@@ -668,7 +668,7 @@ C
 
 |
 
-15 points
+15
 
 |
 
