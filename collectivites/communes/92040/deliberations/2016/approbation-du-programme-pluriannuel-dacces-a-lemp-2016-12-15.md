@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Approbation du programme pluriannuel d’accès à l’emploi titulaire
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2016-12-15
+- Matière : RESSOURCES HUMAINES
+- Objet : Approbation du programme pluriannuel d’accès à l’emploi titulaire
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTUyMDIsInB1ciI6ImJsb2JfaWQifX0=--c27012c2432e458f45848c815412b25bff9c5a8e/151216_10.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
