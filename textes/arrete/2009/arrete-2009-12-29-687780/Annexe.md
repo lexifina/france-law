@@ -32,7 +32,7 @@ Microbiologie des coquillages
 
 |
 
-Institut français de recherche pour l'exploitation de la mer (IFREMER)-Nantes
+Institut français de recherche pour l'exploitation de la mer (IFREMER)-Laboratoire santé, environnement et microbiologie-Nantes
 
 |
 
@@ -44,15 +44,15 @@ ANSES-Laboratoire de la rage et de la faune sauvage de Nancy
 
 |
 
-Escherichia coli, y compris E. coli vérotoxinogènes (VTEC)
+Escherichia coli,
+
+y compris E. coli vérotoxinogènes (VTEC)
 
 |
 
-VET AGRO SUP-Campus vétérinaire de Lyon
+VETAGRO SUP-Campus vétérinaire de Lyon
 
-Laboratoire d'études des microorganismes alimentaires pathogènes (LMAP)
-
--Marcy L'Etoile
+Laboratoire d'études des microorganismes alimentaires pathogènes (LMAP)-Marcy L'Etoile
 
 |
 
@@ -64,7 +64,9 @@ ANSES-Laboratoire de sécurité des aliments-site de Boulogne-sur-Mer
 
 |
 
-Lait et produits laitiers (en particulier la qualité sanitaire du lait cru)
+Lait et produits laitiers
+
+(en particulier la qualité sanitaire du lait cru)
 
 |
 
@@ -88,11 +90,11 @@ Service commun des laboratoires-Laboratoire de Rennes
 
 |
 
-Parasites transmis par les aliments, hormis Echinococcus sp.
+Parasites transmis par les aliments hormis Echinococcus sp.
 
 |
 
-ANSES-Laboratoire de santé animale de Maisons-Alfort Unité mixte de recherche "Biologie moléculaire et immunologie parasitaires et fongiques" (UMR BIPAR)
+ANSES-Laboratoire de santé animale de Maisons-Alfort-Unité mixte de recherche Biologie moléculaire et immunologie parasitaires et fongiques (UMR BIPAR)
 
 |
 
@@ -112,7 +114,9 @@ ANSES-Laboratoire de Ploufragan/ Plouzané
 
 |
 
-Staphylocoques à coagulase positive, y compris Staphylococcus aureus et entérotoxines staphylococciques
+Staphylocoques à coagulase positive,
+
+y compris Staphylococcus aureus et entérotoxines staphylococciques
 
 |
 
@@ -158,7 +162,7 @@ Dioxines et PCB dans l'alimentation humaine et animale
 
 |
 
-Laboratoire d'étude des résidus et contaminants dans les aliments (LABERCA ONIRIS)-Nantes
+Ecole nationale vétérinaire, agroalimentaire et de l'alimentation de Nantes-Atlantique (ONIRIS)-Laboratoire d'étude des résidus et contaminants dans les aliments (LABERCA)-Nantes
 
 |
 
@@ -166,7 +170,7 @@ Hydrocarbures aromatiques polycycliques
 
 |
 
-LABERCA ONIRIS-Nantes
+ONIRIS-LABERCA-Nantes
 
 |
 
@@ -186,11 +190,19 @@ ANSES-Laboratoire de sécurité des aliments-site de Maisons-Alfort
 
 |
 
-Eléments traces métalliques dans les denrées alimentaires d'origine végétale et les aliments pour animaux
+Eléments traces métalliques dans les denrées alimentaires d'origine végétale
 
 |
 
-Service commun des laboratoires-Laboratoire de Bordeaux-Pessac
+Service commun des laboratoires-Laboratoire de Bordeaux Pessac
+
+|
+
+Eléments traces métalliques dans les aliments pour animaux
+
+|
+
+Service commun des laboratoires-Laboratoire de Rennes
 
 |
 
@@ -246,7 +258,7 @@ Substances ayant un effet anabolisant et substances non autorisées chez les ani
 
 |
 
-LABERCA ONIRIS-Nantes
+ONIRIS-LABERCA-Nantes
 
 |
 
@@ -284,7 +296,9 @@ ANSES-Laboratoire de Ploufragan/ Plouzané
 
 |
 
-Brucelloses animales (y compris pour le contrôle officiel des brucellines)
+Brucelloses animales
+
+(y compris pour le contrôle officiel des brucellines)
 
 |
 
@@ -308,7 +322,7 @@ ANSES-Laboratoire de pathologie équine de Dozulé
 
 |
 
-Encéphalites virales des équidés : encéphalite West Nile
+Encéphalites virales des équidés : encéphalite West-Nile
 
 |
 
@@ -376,7 +390,7 @@ Fièvre Q
 
 |
 
-ANSES-Laboratoire de Sophia Antipolis
+ANSES-Laboratoire de Sophia-Antipolis
 
 |
 
@@ -440,7 +454,7 @@ Maladies des mollusques bivalves
 
 |
 
-Institut français de recherche pour l'exploitation de la mer (IFREMER)-La Tremblade
+IFREMER-Laboratoire de génétique et pathologie des mollusques marins-La Tremblade
 
 |
 
@@ -532,7 +546,9 @@ ANSES-Laboratoire de Ploufragan/ Plouzané
 
 |
 
-Poxvirus des ruminants, dont clavelée et variole caprine
+Poxvirus des ruminants,
+
+dont dermatose nodulaire contagieuse, clavelée et variole caprine
 
 |
 
@@ -540,7 +556,9 @@ CIRAD-Montpellier
 
 |
 
-Rage (y compris pour le contrôle de l'efficacité des vaccins antirabiques)
+Rage
+
+(y compris pour le contrôle de l'efficacité des vaccins antirabiques)
 
 |
 
@@ -580,7 +598,9 @@ ANSES-Laboratoire de santé animale de Maisons-Alfort
 
 |
 
-Tuberculose (y compris pour le contrôle officiel des réactifs destinés aux analyses notamment des tuberculines)
+Tuberculose
+
+(y compris pour le contrôle officiel des réactifs destinés aux analyses notamment des tuberculines)
 
 |
 
@@ -610,9 +630,7 @@ OGM dans le maïs (parties végétatives) et pommes de terre, betteraves, riz, c
 
 |
 
-ANSES-Laboratoire de la santé des végétaux
-
-Unité bactériologie, virologie, OGM-Station d'Angers
+ANSES-Laboratoire de la santé des végétaux-Unité bactériologie, virologie, OGM-Station d'Angers
 
 |
 
@@ -628,9 +646,9 @@ OGM dans les semences (toutes espèces) et dans les denrées alimentaires d'orig
 
 |
 
-Service commun des laboratoires-Laboratoire de
+Service commun des laboratoires
 
-Illkirch Graffenstaden
+Laboratoire de Illkirch-Graffenstaden
 
 |
 
@@ -650,11 +668,7 @@ Bactéries sur bananier, agrumes et plantes tropicales
 
 |
 
-ANSES-Laboratoire de la santé des végétaux
-
-Unité pathogènes des plantes tropicales
-
-Station de Saint-Pierre-île de La Réunion
+ANSES-Laboratoire de la santé des végétaux-Unité pathogènes des plantes tropicales-Station de Saint-Pierre-La Réunion
 
 |
 
@@ -662,9 +676,7 @@ Bactéries sur autres matrices
 
 |
 
-ANSES-Laboratoire de la santé des végétaux
-
-Unité bactériologie, virologie, OGM-Station d'Angers
+ANSES-Laboratoire de la santé des végétaux-Unité bactériologie, virologie, OGM-Station d'Angers
 
 |
 
@@ -682,9 +694,7 @@ Phytoplasmes sur toutes matrices
 
 |
 
-ANSES-Laboratoire de la santé des végétaux
-
-Unité bactériologie, virologie, OGM-Station d'Angers
+ANSES-Laboratoire de la santé des végétaux-Unité bactériologie, virologie, OGM-Station d'Angers
 
 |
 
@@ -702,11 +712,7 @@ Virus sur bananier et plantes tropicales
 
 |
 
-ANSES-Laboratoire de la santé des végétaux
-
-Unité pathogènes des plantes tropicales
-
-Station de Saint-Pierre-île de La Réunion
+ANSES-Laboratoire de la santé des végétaux-Unité pathogènes des plantes tropicales-Station de Saint-Pierre-La Réunion
 
 |
 
@@ -722,9 +728,7 @@ Autres virus
 
 |
 
-ANSES-Laboratoire de la santé des végétaux
-
-Unité bactériologie, virologie, OGM-Station d'Angers
+ANSES-Laboratoire de la santé des végétaux-Unité bactériologie, virologie, OGM-Station d'Angers
 
 |
 
@@ -742,9 +746,7 @@ Viroïdes sur toutes matrices
 
 |
 
-ANSES-Laboratoire de la santé des végétaux
-
-Unité bactériologie, virologie, OGM-Station d'Angers
+ANSES-Laboratoire de la santé des végétaux-Unité bactériologie, virologie, OGM-Station d'Angers
 
 |
 
@@ -768,9 +770,7 @@ Unité mycologie-Station de Malzéville (près de Nancy)
 
 |
 
-Champignons sensu stricto ainsi que les organismes généralement assimilés
-
-(i. e. Oomycètes, Plasmodiophoromycètes)
+Champignons sensu stricto ainsi que les organismes généralement assimilés (i. e. Oomycètes, Plasmodiophoromycètes)
 
 Nématodes phytopathogènes
 
@@ -828,6 +828,4 @@ Plantes invasives
 
 ANSES-Laboratoire de la santé des végétaux
 
-Unité entomologie, plantes invasives-Station de Montferrier-sur-Lèz (près de Montpellier)
-
-|
+Unité entomologie, plantes invasives-Station de Montferrier-sur-Lèz (près de Montpellier) |
