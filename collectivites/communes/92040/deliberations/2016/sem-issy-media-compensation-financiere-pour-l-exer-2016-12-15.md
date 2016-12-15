@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — SEM ISSY MEDIA. Compensation financière pour l'exercice 2017
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2016-12-15
+- Matière : FINANCES
+- Objet : SEM ISSY MEDIA. Compensation financière pour l'exercice 2017
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQ1NzcsInB1ciI6ImJsb2JfaWQifX0=--cc841c9c9dcc1682640c788804513f4b76b3dd9a/151216_30.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
