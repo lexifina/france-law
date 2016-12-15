@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Modification du siège de la Métropole du Grand Paris
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2016-12-15
+- Matière : ADMINISTRATION GENERALE
+- Objet : Modification du siège de la Métropole du Grand Paris
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTU3ODEsInB1ciI6ImJsb2JfaWQifX0=--a61972eb626973d0af23b9bd3ccd68a196919ab3/151216_1.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
