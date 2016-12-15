@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Lancement d’un appel d’offres ouvert relatif aux prestations de vérifications périodiques règlementaires des bâtiments communaux et de leurs équipements techniques
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2016-12-15
+- Matière : ARCHITECTURE ET BATIMENTS
+- Objet : Lancement d’un appel d’offres ouvert relatif aux prestations de vérifications périodiques règlementaires des bâtiments communaux et de leurs équipements techniques
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQ1NzgsInB1ciI6ImJsb2JfaWQifX0=--ebe1dc8b51e1401f544f8b4f8c3ea50857440a10/151216_43.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
