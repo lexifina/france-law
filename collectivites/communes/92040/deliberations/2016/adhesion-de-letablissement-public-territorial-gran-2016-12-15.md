@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Adhésion de l’Etablissement Public Territorial Grand Paris Seine Ouest au Syndicat Intercommunal pour le Gaz et l’Electricité en Ile-de-France
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2016-12-15
+- Matière : ESPACES PUBLICS
+- Objet : Adhésion de l’Etablissement Public Territorial Grand Paris Seine Ouest au Syndicat Intercommunal pour le Gaz et l’Electricité en Ile-de-France
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQ4NzIsInB1ciI6ImJsb2JfaWQifX0=--384e78de3ec59a8d9ceb76cc3b094aa64fd0ad7a/151216_48.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
