@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Désignation d’un représentant au sein de la commission consultative de l’énergie de la Métropole du Grand Paris
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2016-12-15
+- Matière : ADMINISTRATION GENERALE
+- Objet : Désignation d’un représentant au sein de la commission consultative de l’énergie de la Métropole du Grand Paris
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQ1NzQsInB1ciI6ImJsb2JfaWQifX0=--dc174bedf53c7f33a2de4a94d874962e51b97621/151216_2.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
