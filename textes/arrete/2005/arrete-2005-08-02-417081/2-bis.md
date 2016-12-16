@@ -2,10 +2,16 @@
 
 L'échelonnement indiciaire applicable aux emplois fonctionnels répertoriés dans le groupe III mentionné à l'article 1er du décret du 2 août 2005 susvisé des établissements mentionnés à l'article 2 (1° et 7°) de la loi du 9 janvier 1986 susvisée est fixé ainsi qu'il suit :
 
-4e échelon : groupe hors échelle B ;
+7e échelon : groupe hors échelle B bis ;
 
-3e échelon : groupe hors échelle A ;
+6e échelon : groupe hors échelle B ;
 
-2e échelon : indice brut 1015 ;
+5e échelon : groupe hors échelle A ;
 
-1er échelon : indice brut 901.
+4e échelon : indice brut 1015 ;
+
+3e échelon : indice brut 966 ;
+
+2e échelon : indice brut 901 ;
+
+1er échelon : indice brut 852.
