@@ -908,7 +908,7 @@ A
 
 |
 
-Direction départementale de l'équipement et de l'agriculture (2) du Doubs
+Direction départementale des territoires du Doubs (8)
 
 FONCTIONS EXERCÉES
 
@@ -934,7 +934,7 @@ par emploi
 
 |
 
-Chef du service habitat, construction ville
+Responsable de l'unité gestion des aides à la pierre
 
 |
 
@@ -946,7 +946,7 @@ A
 
 |
 
-50 points
+50
 
 |
 
@@ -960,7 +960,7 @@ A
 
 |
 
-50 points
+50
 
 |
 
@@ -976,7 +976,7 @@ B
 
 |
 
-30 points
+30
 
 |
 
@@ -992,7 +992,7 @@ B
 
 |
 
-20 points
+20
 
 |
 
@@ -1008,7 +1008,7 @@ B
 
 |
 
-20 points
+20
 
 |
 
@@ -1024,7 +1024,7 @@ B
 
 |
 
-20 points
+20
 
 |
 
@@ -1040,7 +1040,7 @@ B
 
 |
 
-30 points
+30
 
 |
 
@@ -1389,3 +1389,5 @@ NOTA :
 (6) En application de l'article 1 de l'arrêté du 17 septembre 2012, entre en vigueur à compter du 1er juillet 2011.
 
 (7) En application de l'article 1 de l'arrêté du 25 juillet 2016, entre en vigueur à compter du 1er janvier 2015, pour ce qui concerne la répartition de l'enveloppe de la direction départementale des territoires et de la mer du Calvados, et au 1er décembre 2015 pour ce qui concerne la répartition de l'enveloppe de la direction départementale de la cohésion sociale du Calvados.
+
+(8) En application de l'article 1 de l'arrêté du 5 décembre 2016, entre en vigueur à compter du 1er janvier 2016, pour ce qui concerne la répartition de l'enveloppe de la direction départementale des territoires du Doubs.
