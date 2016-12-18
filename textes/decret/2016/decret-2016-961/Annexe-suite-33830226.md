@@ -270,7 +270,7 @@ Art. 12 - L'article 12 est remplacé par le texte suivant :
 
 • justifier soit :
 
-• de 9 000 heures de travail exercées au titre de la présente annexe ou de l'annexe X, dont les jours de congés payés et dûment attestés par la Caisse des Congés Spectacles, à raison de 8 heures par jour de congé payé. Pour les réalisateurs visés dans la liste jointe en annexe, les jours de congés payés et dûment attestés par la Caisse des Congés Spectacles sont retenus à raison de 12 heures par jour de congé payé ;
+• de 9 000 heures de travail exercées au titre de la présente annexe ou de l'annexe X, dont les jours de congés payés et dûment attestés par la Caisse des Congés Spectacles, à raison de 8 heures par jour de congé payé. En cas d'activités dans des emplois relevant de l'annexe X, les jours de congés payés et dûment attestés par la Caisse des Congés Spectacles sont retenus à raison de 12 heures par jour de congé payé ;
 
 • à défaut, si l'intéressé justifie d'au moins 6000 heures exercées au titre de la présente annexe ou de l'annexe X, ce seuil de 9 000 heures peut être rempli en assimilant 365 jours d'affiliation, consécutifs ou non, au régime d'Assurance chômage, à 507 heures de travail au titre des annexes VIII et X ;
 
@@ -298,7 +298,7 @@ Art. 21 - L'article 21 est remplacé par le texte suivant :
 
 Salaire annuel de référence =
 
-[salaire de référence / (jours de la période de référence - nombre de jours correspondant à la période de congé maternité, d'adoption ou d'arrêt maladie au titre d'une affection de longue durée)] x jours de la période de référence
+[salaire de référence / (jours calendaires de la période de référence - nombre de jours correspondant à la période de congé maternité, d'adoption ou d'arrêt maladie au titre d'une affection de longue durée)] x jours calendaires de la période de référence
 
 § 3 - Le salaire de référence ainsi déterminé ne peut dépasser la somme des salaires mensuels plafonnés conformément à l'article 59 et compris dans la période de référence, les mois incomplets étant comptés au prorata.
 
@@ -588,7 +588,7 @@ Lorsque la somme des rémunérations issues de la ou des activité(s) profession
 
 En cas d'application de ce plafond, le nombre de jours indemnisables, arrondi à l'entier supérieur, correspond au quotient de la différence visée à l'alinéa ci-dessus par le montant de l'allocation journalière défini en application des articles 23 à 26.
 
-En cas d'exercice d'une activité au moins égale à 26 jours de travail par mois calendaire, déterminés en application du premier alinéa, aucune indemnisation n'est servie.
+En cas d'exercice d'une activité au moins égale à 26 jours de travail par mois calendaire, déterminés en fonction du nombre d'heures de travail effectuées à raison de huit heures par jour, aucune indemnisation n'est servie.
 
 Art. 42 à 45 : Ces articles sont supprimés.
 

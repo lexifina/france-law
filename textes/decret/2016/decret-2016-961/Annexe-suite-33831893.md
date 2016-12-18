@@ -438,7 +438,7 @@ Lorsque l'activité des artistes est déclarée sous la forme de cachets, chaque
 
 Lorsque la période de référence définie à l'alinéa 1er du présent article ne couvre qu'une partie d'un mois civil, le nombre de cachets est pris en compte dans la limite mensuelle proratisée selon la formule suivante :
 
-(28 / 20,8) x nombre de jours dans la période de référence au titre du mois considéré
+(28 / 20,8) x nombre de jours calendaires dans la période de référence au titre du mois considéré
 
 Pour la justification des 507 heures, seul le temps de travail effectif exercé dans le champ d'application de la présente annexe ou de l'annexe VIII au règlement général annexé est retenu, sous réserve de l'article 7.
 
@@ -684,7 +684,7 @@ Art. 21 - L'article 21 est remplacé par le texte suivant :
 
 Salaire annuel de référence =
 
-[salaire de référence / (jours de la période de référence - nombre de jours correspondant à la période de congé maternité, d'adoption ou d'arrêt maladie au titre d'une affection de longue durée)] x jours de la période de référence
+[salaire de référence / (jours calendaires de la période de référence - nombre de jours correspondant à la période de congé maternité, d'adoption ou d'arrêt maladie au titre d'une affection de longue durée)] x jours calendaires de la période de référence
 
 § 3 - Le salaire de référence ainsi déterminé ne peut dépasser la somme des salaires mensuels plafonnés, conformément à l'article 59 et compris dans la période de référence, les mois incomplets étant comptés au prorata.
 
@@ -970,7 +970,7 @@ Lorsque la somme des rémunérations issues de la ou des activité(s) profession
 
 En cas d'application de ce plafond, le nombre de jours indemnisables, arrondi à l'entier supérieur, correspond au quotient de la différence visée à l'alinéa ci-dessus par le montant de l'allocation journalière défini en application des articles 23 à 26.
 
-En cas d'exercice d'une activité au moins égale à 27 jours de travail par mois calendaire, déterminés en application du premier alinéa, aucune indemnisation n'est servie.
+En cas d'exercice d'une activité au moins égale à 27 jours de travail par mois calendaire, déterminés en fonction du nombre d'heures de travail effectuées à raison de dix heures par jour, aucune indemnisation n'est servie.
 
 Art. 42 à 45 - Ces articles sont supprimés.
 
