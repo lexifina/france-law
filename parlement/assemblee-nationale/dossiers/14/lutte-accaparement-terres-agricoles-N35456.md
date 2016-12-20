@@ -1,0 +1,52 @@
+# Agriculture : lutte contre l’accaparement des terres agricoles
+
+- Procédure : Proposition de loi ordinaire
+- Législature : 14
+- Identifiant : DLR5L14N35456
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/lutte_accaparement_terres_agricoles
+- Sénat : http://www.senat.fr/dossier-legislatif/ppl16-316.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2016-12-21 : 1er dépôt d'une initiative. (PIONANR5L14B4344)
+  - 2016-12-22 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2016-12-21 : Renvoi en commission au fond
+      - 2016-12-20 : Nomination de rapporteur
+      - 2017-01-11 : Réunion de commission
+      - 2017-01-18 : Réunion de commission
+      - 2017-01-11 : Dépôt de rapport (RAPPANR5L14B4363, PIONANR5L14BTC4363)
+  - Discussion en séance publique
+    - 2017-01-18 : Discussion en séance publique
+    - 2017-01-18 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2017-01-19 : Dépôt d'une initiative en navette (PIONSNR5S279B0316)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2017-01-19 : Renvoi en commission au fond
+      - 2017-01-11 : Nomination de rapporteur
+      - 2017-02-01 : Dépôt de rapport (RAPPSNR5S279B0344)
+  - Discussion en séance publique
+    - 2017-02-07 : Discussion en séance publique
+    - 2017-02-07 : Décision
+- Commission Mixte Paritaire
+  - 2017-02-07 : Dépôt d'un projet de loi (PIONANR5L14B4450)
+  - 2017-02-08 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2017-02-09 : Nomination de rapporteur
+    - 2017-02-09 : Dépôt du rapport d'une CMP (RAPPANR5L14B4462)
+    - 2017-02-09 : Dépôt du rapport d'une CMP (RAPPSNR5S279B0385)
+  - Discussion en séance publique
+    - 2017-02-14 : Discussion en séance publique
+    - 2017-02-14 : Décision
+  - Discussion en séance publique
+    - 2017-02-15 : Discussion en séance publique
+    - 2017-02-15 : Décision
+  - 2017-02-09 : Décision de la CMP
+- Conseil constitutionnel
+  - 2017-02-20 : Saisine du conseil constitutionnel
+  - 2017-03-16 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2017-03-20 : Promulgation d'une loi
