@@ -94,7 +94,7 @@ Finess géographiques
 
 |
 
-210987665 210987673 210987681
+210987665 210987673 210987681 210987608
 
 |
 
@@ -144,7 +144,7 @@ Périmètre de facturation
 
 La facturation individuelle concerne les prestations de soins hospitaliers suivantes :
 
-- les actes et consultations externes visés à l' article L. 162-26 du code de la sécurité sociale , y compris les forfaits techniques d'imagerie ;
+- les actes et consultations externes visés à l'article L. 162-26 du code de la sécurité sociale, y compris les forfaits techniques d'imagerie ;
 
 - la rétrocession de médicaments ;
 
@@ -224,7 +224,7 @@ Périmètre de facturation
 
 La facturation individuelle concerne les prestations de soins hospitaliers suivantes :
 
-- les actes et consultations externes visés à l' article L. 162-26 du code de la sécurité sociale , y compris les forfaits techniques d'imagerie ;
+- les actes et consultations externes visés à l'article L. 162-26 du code de la sécurité sociale, y compris les forfaits techniques d'imagerie ;
 
 - la rétrocession de médicaments ;
 
@@ -304,7 +304,7 @@ Périmètre de facturation
 
 La facturation individuelle concerne les prestations de soins hospitaliers suivantes :
 
-- les actes et consultations externes visés à l' article L. 162-26 du code de la sécurité sociale , y compris les forfaits techniques d'imagerie ;
+- les actes et consultations externes visés à l'article L. 162-26 du code de la sécurité sociale, y compris les forfaits techniques d'imagerie ;
 
 - la rétrocession de médicaments ;
 
