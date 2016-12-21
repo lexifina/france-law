@@ -62,7 +62,7 @@ Paris-Johannesburg (Afrique du Sud).
 
 Jusqu'au 30 octobre 2020 :
 
-Paris-Saint-Martin Juliana (Antilles néerlandaises) ;
+Paris-Philipsburg (Saint-Martin).
 
 Jusqu'au 30 novembre 2020 :
 
@@ -109,3 +109,13 @@ Fort-de-France-San Juan (Porto Rico) ;
 Fort-de-France-Melville (La Dominique) ;
 
 Fort-de-France-Bridgetown (La Barbade).
+
+Jusqu'au 31 décembre 2021 :
+
+Paris-Sainte-Lucie ;
+
+Pointe-à-Pitre-Philipsburg (Saint-Martin) ;
+
+Pointe-à-Pitre-Sainte-Lucie ;
+
+Fort-de-France-Philipsburg (Saint-Martin).
