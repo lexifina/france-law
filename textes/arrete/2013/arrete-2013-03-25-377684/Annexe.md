@@ -541,3 +541,7 @@ Objectifs
 Programme
 
 Une question définie par arrêté ministériel, renouvelée chaque année, et portant une année sur deux sur la France.
+
+NOTA :
+
+Arrêté du 25 novembre 2016, article 1er : Les objectifs de formation et le programme de mathématiques de première et seconde années des classes préparatoires littéraires Lettres et sciences sociales seront consultables au Bulletin officiel du ministère de l'enseignement supérieur et de la recherche et au Bulletin officiel du ministère de l'éducation nationale du 5 janvier 2017 mis en ligne sur les sites http://www.enseignementsup-recherche.gouv.fr/ et http://www.education.gouv.fr/. Le programme de première année du présent arrêté entre en vigueur à compter de la rentrée universitaire 2017, et celui relatif à la seconde année à compter de la rentrée universitaire 2018.
