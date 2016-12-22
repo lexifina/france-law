@@ -6,7 +6,7 @@ Numéro d'agrément du fournisseur : ...........................................
 
 Déclaration des quantités de tabacs manufacturés livrés aux débitants de France continentale
 
-I.-Détail des opérations relatives aux livraisons de tabac
+I. - Détail des opérations relatives aux livraisons de tabac
 
 1
 
@@ -36,7 +36,7 @@ Livraisons des autres produits du tabac (1)
 
 |
 
-Remise brute due aux débitants au titre des cigares et cigarillos (9 %)
+Remise brute due aux débitants au titre des cigares et cigarillos (9,44 %)
 
 |
 
@@ -48,7 +48,7 @@ Remise brute due aux débitants au titre des cigares et cigarillos (9 %)
 
 |
 
-Remise brute due aux débitants au titre des autres produits du tabac (8,84 %)
+Remise brute due aux débitants au titre des autres produits du tabac (9,44 %)
 
 |
 
@@ -60,7 +60,7 @@ Remise brute due aux débitants au titre des autres produits du tabac (8,84 %)
 
 |
 
-Remise nette due aux débitants au titre des cigares et cigarillos (7 %)
+Remise nette due aux débitants au titre des cigares et cigarillos (7,5 %)
 
 |
 
@@ -72,7 +72,7 @@ Remise nette due aux débitants au titre des cigares et cigarillos (7 %)
 
 |
 
-Remise nette due aux débitants au titre des autres produits du tabac (6,90 %)
+Remise nette due aux débitants au titre des autres produits du tabac (7,5 %)
 
 |
 
@@ -84,7 +84,7 @@ Remise nette due aux débitants au titre des autres produits du tabac (6,90 %)
 
 |
 
-Précompte dû au titre des cigares et des cigarillos (2 %)
+Précompte dû au titre des cigares et des cigarillos (1,94 %)
 
 |
 
@@ -96,7 +96,7 @@ Précompte dû au titre des cigares et des cigarillos (2 %)
 
 |
 
-dont droit de licence (1,84 %)
+dont droit de licence (1,78 %)
 
 |
 
@@ -108,7 +108,7 @@ dont droit de licence (1,84 %)
 
 |
 
-dont cotisation au R. A. V. G. D. T (0,16 %)
+dont cotisation au R.A.V.G.D.T (0,16 %)
 
 |
 
@@ -144,7 +144,7 @@ dont droit de licence (1,78 %)
 
 |
 
-dont cotisation au R. A. V. G. D. T (0,16 %)
+dont cotisation au R.A.V.G.D.T (0,16 %)
 
 |
 
@@ -152,7 +152,7 @@ dont cotisation au R. A. V. G. D. T (0,16 %)
 
 |
 
-(1) Il s'agit des livraisons brutes après corrections des livraisons mais non diminuées des reprises.
+(1) Il s'agit des livraisons " brutes " après corrections des livraisons mais non diminuées des reprises.
 
 Exemple : livraisons initiales d'une valeur TTC (prix homologué) de 100 €
 
@@ -182,7 +182,7 @@ Total du droit de licence (ligne 7.1 + ligne 8.1) (2)
 
 |
 
-Total de la cotisation au R. A. V. G. D. T (ligne 7.2 + ligne 8.2) (2)
+Total de la cotisation au R.A.V.G.D.T (ligne 7.2 + ligne 8.2) (2)
 
 |
 
@@ -210,8 +210,8 @@ Exemple : 1 824,52 est arrondi à 1 825
 
 La présente déclaration est certifiée conforme au contenu de la déclaration mensuelle des livraisons transmise au centre informatique douanier.
 
-Fait à........................................, le.................................../........................................./2016
+Fait à........................................, le.................................../........................................./2017
 
 Signature (nom et qualité du signataire)
 
-Cette déclaration doit être adressée, accompagnée du moyen de paiement, pour le 25 du mois suivant celui au titre duquel elle a été établie à la recette régionale des douanes de Paris-Ile-de-France, 14, rue Yves-Toudic, 75010 Paris.
+Cette déclaration doit être adressée, accompagnée du moyen de paiement, pour le 25 du mois suivant celui au titre duquel elle a été établie à la Trésorerie Générale des Douanes, 30, rue Raoul Wallenberg, TSA 70031,75927 Paris Cedex 19.

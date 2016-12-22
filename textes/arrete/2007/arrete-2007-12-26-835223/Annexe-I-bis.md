@@ -6,7 +6,7 @@ Numéro d'agrément du fournisseur : ...........................................
 
 Déclaration des quantités de tabacs manufacturés livrés aux débitants de Corse
 
-I.-Détail des opérations relatives aux livraisons de tabac
+I. - Détail des opérations relatives aux livraisons de tabac
 
 1
 
@@ -36,7 +36,7 @@ Livraisons des autres produits du tabac (1)
 
 |
 
-Remise brute due aux débitants au titre des cigares et cigarillos (10,588 %)
+Remise brute due aux débitants au titre des cigares et cigarillos (12,59 %)
 
 |
 
@@ -48,7 +48,7 @@ Remise brute due aux débitants au titre des cigares et cigarillos (10,588 %)
 
 |
 
-Remise brute due aux débitants au titre des autres produits du tabac (11,79 %)
+Remise brute due aux débitants au titre des autres produits du tabac (12,59 %)
 
 |
 
@@ -60,7 +60,7 @@ Remise brute due aux débitants au titre des autres produits du tabac (11,79 %)
 
 |
 
-Remise nette due aux débitants au titre des cigares et cigarillos (8,236 %)
+Remise nette due aux débitants au titre des cigares et cigarillos (10 %)
 
 |
 
@@ -72,7 +72,7 @@ Remise nette due aux débitants au titre des cigares et cigarillos (8,236 %)
 
 |
 
-Remise nette due aux débitants au titre des autres produits du tabac (9,20 %)
+Remise nette due aux débitants au titre des autres produits du tabac (10 %)
 
 |
 
@@ -84,7 +84,7 @@ Remise nette due aux débitants au titre des autres produits du tabac (9,20 %)
 
 |
 
-Précompte dû au titre des cigares et des cigarillos (2,352 %)
+Précompte dû au titre des cigares et des cigarillos (2,59 %)
 
 |
 
@@ -96,7 +96,7 @@ Précompte dû au titre des cigares et des cigarillos (2,352 %)
 
 |
 
-dont droit de licence (2,164 %)
+dont droit de licence (2,373 %)
 
 |
 
@@ -108,7 +108,7 @@ dont droit de licence (2,164 %)
 
 |
 
-dont cotisation au R. A. V. G. D. T (0,188 %)
+dont cotisation au R.A.V.G.D.T (0,213 %)
 
 |
 
@@ -144,7 +144,7 @@ dont droit de licence (2,373 %)
 
 |
 
-dont cotisation au R. A. V. G. D. T (0,213 %)
+dont cotisation au R.A.V.G.D.T (0,213 %)
 
 |
 
@@ -154,17 +154,19 @@ dont cotisation au R. A. V. G. D. T (0,213 %)
 
 (1) Il s'agit des livraisons " brutes " après corrections des livraisons mais non diminuées des reprises.
 
-Exemple : livraisons initiales d'une valeur TTC (prix homologué) de 100 €.
+Exemple :
 
-corrections des livraisons d'une valeur de 20 €.
+- livraisons initiales d'une valeur TTC (prix homologué) de 100 €.
 
-reprise de produits d'une valeur de 50 €.
+- corrections des livraisons d'une valeur de 20 €.
 
-La valeur qui devra être reportée est de 80 € (valeur livraisons initiales-corrections des livraisons).
+- reprise de produits d'une valeur de 50 €.
+
+La valeur qui devra être reportée est de 80 € (valeur livraisons initiales - corrections des livraisons).
 
 |
 
-II.-Détail du montant à payer
+II. - Détail du montant à payer
 
 9
 
@@ -180,9 +182,7 @@ Total du droit de licence (ligne 7.1 + ligne 8.1) (2)
 
 10 |
 
-Total de la cotisation au R. A. V. G. D. T (ligne 7.2 + ligne 8.2) (2)
-
-|
+Total de la cotisation au R.A.V.G.D.T (ligne 7.2 + ligne 8.2) (2) |
 
 €
 
@@ -202,7 +202,9 @@ Total du précompte à payer (ligne 9 + ligne 10)
 
 (2) Le montant des lignes 9 et 10 doit être arrondi à l'euro le plus proche. La fraction d'euro égale à 0,50 est comptée pour 1 (art 1724 du code général des impôts).
 
-Exemple : 1 824,52 est arrondi à 1 825.
+Exemple :
+
+1 824,52 est arrondi à 1 825 ;
 
 1 824,42 est arrondi à 1 824.
 
@@ -210,8 +212,8 @@ Exemple : 1 824,52 est arrondi à 1 825.
 
 La présente déclaration est certifiée conforme au contenu de la déclaration mensuelle des livraisons transmise au centre informatique douanier.
 
-Fait à...................................., le............................................../..................................../2016
+Fait à...................................., le............................................../..................................../2017
 
-Signature (nom et qualité du signataire)
+Signature (nom et qualité du signataire) :
 
-Cette déclaration doit être adressée, accompagnée du moyen de paiement, pour le 25 du mois suivant celui au titre duquel elle a été établie, à la recette régionale des douanes de Paris-Ile-de-France, 14, rue Yves-Toudic, 75010 Paris.
+Cette déclaration doit être adressée, accompagnée du moyen de paiement, pour le 25 du mois suivant celui au titre duquel elle a été établie à la Trésorerie Générale des Douanes, 30, rue Raoul Wallenberg, TSA 70031,75927 Paris Cedex 19.
