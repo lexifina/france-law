@@ -16,6 +16,8 @@ Isolation des toitures-terrasses / Fiche d’opération standardisée n° BAT-EN
 
 Isolation des murs (France d’outre-mer) / Fiche d’opération standardisée n° BAT-EN-108
 
+Réduction des apports solaires par la toiture (France d’outre-mer) / Fiche d’opération standardisée n° BAT-EN-109
+
 Réglage des organes d’équilibrage d’une installation de chauffage à eau chaude / Fiche d’opération standardisée n° BAT-SE-103
 
 Chaudière collective haute performance énergétique / Fiche d’opération standardisée n° BAT-TH-102
@@ -82,7 +84,11 @@ Système de régulation sur un groupe de production de froid permettant d’avoi
 
 Luminaires à modules LED pour surfaces commerciales / Fiche d’opération standardisée n° BAT-EQ-111
 
+Eclairage LED pour meubles frigorifiques verticaux / Fiche d’opération standardisée n° BAT-EQ-114
+
 Lampe à LED de classe A+ (France d’outre-mer) / Fiche d’opération standardisée n° BAT-EQ-116
+
+Installation frigorifique utilisant du CO2 subcritique ou transcritique / Fiche d’opération standardisée n° BAT-EQ-117
 
 Moto-variateur synchrone à aimants permanents / Fiche d’opération standardisée n° BAT-EQ-123
 
@@ -106,6 +112,8 @@ Systèmes hydro-économes (France métropolitaine) / Fiche d’opération standa
 
 Liens :
 
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0297 du 22/12/2016, texte n° 8, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=IFDoQg-qK6IdNEW2cTEt_bmCxJ-mC_f1ilDVx1TFCBg=
+
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0261 du 09/11/2016, texte n° 4, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=knbQtrSz_f90M6D1wPlbP2gPlRv7gOmIegJaPV6kUU0=
 
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0134 du 10/06/2016, texte n° 7, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=J82GITl53mD3eTDbAnwWy2LCXpWGQoisGfxBVdPuq_E=
@@ -124,4 +132,4 @@ Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'ex
 
 NOTA :
 
-Se reporter aux conditions d’application prévues à l’article 6 de l’arrêté du 20 octobre 2016 (NOR : DEVR1627593A).
+Se reporter aux conditions d’application prévues à l’article 8 de l’arrêté du 14 décembre 2016 (NOR : DEVR1634449A).

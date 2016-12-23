@@ -36,6 +36,8 @@ Conformément à l’article 5 de l’arrêté du 8 février 2016 (NOR : DEVR160
 
 Conformément à l’article 5 de l’arrêté du 8 février 2016 (NOR : DEVR1603528A), l’annexe 2 de la présente fiche d'opération standardisée d'économies d'énergie est remplacée par la version figurant à l'annexe 4 dudit arrêté portant la même référence.
 
+- Groupe frigorifique autonome à haute efficacité énergétique pour camions, semi-remorques, remorques et caisse mobiles frigorifiques / Fiche d’opération n° TRA-EQ-111
+
 - Lubrifiant économiseur d’énergie pour des véhicules de transport de personnes ou de marchandises / Fiche d’opération n° TRA-EQ-113
 
 Conformément à l’article 5 de l’arrêté du 8 février 2016 (NOR : DEVR1603528A), l’annexe 2 de la présente fiche d'opération standardisée d'économies d'énergie est remplacée par la version figurant à l'annexe 4 dudit arrêté portant la même référence.
@@ -114,6 +116,10 @@ Conformément à l’article 5 de l’arrêté du 8 février 2016 (NOR : DEVR160
 
 Liens :
 
+Vous pouvez consulter l’intégralité du texte avec ses images à partir de l’extrait du Journal officiel électronique authentifié n° 297 du 22 décembre 2016, texte nº 8, accessible à l’adresse suivante :
+
+https://www.legifrance.gouv.fr/download/pdf?id=IFDoQg-qK6IdNEW2cTEt_bmCxJ-mC_f1ilDVx1TFCBg=
+
 Vous pouvez consulter l’intégralité du texte avec ses images à partir de l’extrait du Journal officiel électronique authentifié n° 261 du 09/11/2016, texte nº 4, accessible à l’adresse suivante :
 
 https://www.legifrance.gouv.fr/download/pdf?id=knbQtrSz_f90M6D1wPlbP2gPlRv7gOmIegJaPV6kUU0=
@@ -144,4 +150,4 @@ https://www.legifrance.gouv.fr/download/pdf?id=FGBMw6bzzOGU6LHfYz6-OOYiF3mTkUVDd
 
 NOTA :
 
-Se reporter aux modalités d’application prévues par l’article 6 de l’arrêté du 20 octobre 2016 (NOR : DEVR1627593A).
+Se reporter aux modalités d’application prévues par l’article 8 de l’arrêté du 14 décembre 2016 (NOR : DEVR1634449A).

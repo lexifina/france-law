@@ -36,7 +36,7 @@ Conformément à l’article 9 de l’arrêté du 31 juillet 2015 (NOR : DEVR151
 
 - Système de condensation frigorifique à haute efficacité / Fiche d’opération standardisée n° IND-UT-113
 
-- Moto-variateur synchrone à aimants permanents / Fiche d’opération standardisée n° IND-UT-114
+- Moto-variateur synchrone à aimants permanents ou à reluctance/ Fiche d’opération standardisée n° IND-UT-114
 
 - Système de régulation sur un groupe de production de froid permettant d’avoir une basse pression flottante / Fiche d’opération standardisée n° IND-UT-115
 
@@ -66,7 +66,11 @@ Conformément à l’article 9 de l’arrêté du 31 juillet 2015 (NOR : DEVR151
 
 - Condenseur sur les effluents gazeux d’une chaudière de production de vapeur / Fiche d’opération standardisée n° IND-UT-130
 
+- Isolation thermique des parois planes ou cylindriques sur des installations industrielles (France métropolitaine) / Fiche d’opération standardisée n° IND-UT-131
+
 Liens :
+
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0297 du 22/12/2016, texte n° 8, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=IFDoQg-qK6IdNEW2cTEt_bmCxJ-mC_f1ilDVx1TFCBg=
 
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0261 du 09/11/2016, texte n° 4, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=knbQtrSz_f90M6D1wPlbP2gPlRv7gOmIegJaPV6kUU0=
 
@@ -84,4 +88,4 @@ Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'ex
 
 NOTA :
 
-Se reporter aux conditions d’application prévues à l’article 6 de l’arrêté du 20 octobre 2016 (NOR : DEVR1627593A).
+Se reporter aux conditions d’application prévues à l’article 8 de l’arrêté du 14 décembre 2016 (NOR : DEVR1634449A).
