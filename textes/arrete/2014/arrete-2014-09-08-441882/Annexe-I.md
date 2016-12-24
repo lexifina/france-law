@@ -6,7 +6,7 @@ Article 1er
 
 Champs d'application
 
-1. La pêche professionnelle au chalut (codes engin FAO : OTB, TBS, OTM, OTT) en mer Méditerranée est soumise à la détention d'une autorisation européenne de pêche, ci-après dénommée AEP chalut .
+1. La pêche professionnelle au chalut (codes engin FAO : OTB, TBS, OTM, OTT) en mer Méditerranée est soumise à la détention d'une autorisation européenne de pêche, ci-après dénommée AEP chalut.
 
 2. L'AEP chalut autorise l'exercice de la pêche ciblée des poissons démersaux et des poissons pélagiques au chalut.
 
@@ -32,4 +32,4 @@ Liste des navires éligibles à l'AEP chalut et contingent d'AEP
 
 4. Le nombre maximal d'AEP chalut qui peut être attribué est de 73.
 
-Dans ce contingent, le nombre d'AEP chalut en Corse est de 9. Le transfert d'un chalutier exploité en Corse vers un port de Méditerranée continentale est autorisé, dans les conditions définies au deuxième alinéa. Dans ce cas, le nombre d‘AEP chalut affectées à la Corse est réduit d'autant. Le transfert d'un chalutier exploité depuis un port de Méditerranée continentale vers la Corse est interdit.
+Au sein de ce contingent, le nombre maximal d'AEP qui peuvent attribuées aux chalutiers armés en Méditerranée continentale est de 64 et le nombre maximal d'AEP qui peuvent être attribuées aux chalutiers armés en Corse est de 9. Aucun transfert d'AEP chalut ne peut être effectué depuis un navire armé en Méditerranée continentale vers un navire armé en Corse, et depuis un navire armé en Corse vers un navire armé en Méditerranée continentale.
