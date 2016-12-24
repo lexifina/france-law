@@ -145,3 +145,19 @@ Certificat de cuisinier de navire
 Cuisiniers à bord des navires dont la liste d'équipage comprend au moins de dix personnes
 
 |
+
+Certificat de formation de base pour les navires exploités dans les eaux polaires
+
+|
+
+Se reporter à l'article 3 de l'arrêté du 19 décembre 2016 relatif à la délivrance des titres requis pour le service à bord des navires exploités dans les eaux polaires
+
+|
+
+Certificat de formation avancée pour les navires exploités dans les eaux polaires
+
+|
+
+Se reporter à l'article 3 de l'arrêté du 19 décembre 2016 relatif à la délivrance des titres requis pour le service à bord des navires exploités dans les eaux polaires
+
+|
