@@ -2,111 +2,251 @@
 
 MENTIONS ADDITIONNELLES CODIFIÉES
 
-Conducteur (raisons médicales)
+CONDUCTEURS (RAISONS MÉDICALES)
 
-01. Dispositif de correction et/ou de protection de la vision.
+01. Correction et/ ou protection de la vision
 
-02. Prothèse auditive/ aide à la communication.
+01.01. Lunettes
 
-03. Prothèse (s)/orthèse (s) des membres.
+01.02. Lentille (s) de contact
 
-05. Usage restreint (indication du sous-code obligatoire, conduite soumise à restrictions pour raisons médicales).
+01.05. Couvre-œil
 
-05.01. Restreint aux trajets de jour (par exemple : une heure après le lever du soleil et une heure avant le coucher).
+01.06. Lunettes ou lentilles de contact
 
-05.02. Restreint aux trajets dans un rayon de km du lieu de résidence du titulaire, ou uniquement à l'intérieur d'une ville/d'une région.
+01.07. Aide optique spécifique
 
-05.03. Conduite sans passagers.
+02. Prothèse auditive/ aide à la communication
 
-05.04. Restreint aux trajets à vitesse inférieure ou égale à... km/h.
+03. Prothèse/ orthèse des membres
 
-05.05. Conduite uniquement autorisée accompagnée d'un titulaire de permis de conduire.
+03.01. Prothèse/ orthèse d'un/ des membre (s) supérieur (s)
 
-05.06. Sans remorque.
+03.02. Prothèse/ orthèse d'un/ des membre (s) inférieur (s)
 
-05.07. Pas de conduite sur autoroute.
+ADAPTATIONS DU VÉHICULE
 
-05.08. Pas d'alcool.
+10. Boîte de vitesse adaptée
 
-Adaptations du véhicule
+10.02. Choix du rapport de transmission automatique
 
-10. Changement de vitesses adapté.
+10.04. Dispositif adapté de contrôle de la transmission
 
-15. Embrayage adapté.
+15. Embrayage adapté
 
-20. Mécanismes de freinage adaptés.
+15.01. Pédale d'embrayage adaptée
 
-25. Mécanismes d'accélération adaptés.
+15.02. Embrayage manuel
 
-30. Mécanismes de freinage et d'accélération combinés adaptés.
+15.03. Embrayage automatique
 
-35. Dispositifs de commande adaptés (commutateurs de feux, essuie-glaces, indicateurs de changement de direction, etc.).
+15.04. Mesure visant à empêcher le blocage ou l'actionnement de la pédale d'embrayage
 
-40. Direction adaptée.
+20. Mécanismes de freinage adaptés
 
-42. Rétroviseurs adaptés.
+20.01. Pédale de frein adaptée
 
-43. Siège du conducteur adapté.
+20.03. Pédale de frein adaptée pour le pied gauche
 
-44. Adaptations du motocycle.
+20.04. Pédale de frein à glissière
 
-44.01. Frein à commande unique.
+20.05. Pédale de frein à bascule
 
-44.02. Frein à main adapté (roue avant).
+20.06. Frein actionné par la main
 
-44.03. Frein à pied adapté (roue arrière).
+20.07. Actionnement du frein avec une force maximale de ... N (*) [par exemple, " 20.07 (300 N) "]
 
-44.04. Poignée d'accélérateur adaptée.
+20.09. Frein de stationnement adapté
 
-44.05. Changement de vitesses et embrayage adaptés.
+20.12. Mesure visant à empêcher le blocage ou l'actionnement de la pédale de frein
 
-44.06. Rétroviseurs adaptés.
+20.13. Frein à commande au genou
 
-44.07. Commandes d'accessoires adaptés (indicateurs de changement de direction ...).
+20.14. Actionnement du système de freinage avec assistance par une force extérieure
 
-44.08. Siège adapté.
+25. Mécanisme d'accélération adapté
 
-45. Motocycle avec side-car.
+25.01. Pédale d'accélérateur adaptée
 
-46. Tricycles seulement.
+25.03. Pédale d'accélérateur à bascule
 
-Questions administratives
+25.04. Accélérateur actionné par la main
 
-70. Echange du permis n°... délivré par... (signe distinctif UE/ONU dans le cas d'un pays tiers, par exemple : 70.0123456789. NL).
+25.05. Accélérateur actionné par le genou
 
-71. Duplicata du permis n°... (signe distinctif UE/ONU dans le cas d'un pays tiers, par exemple : 71.987654321. HR).
+25.06. Actionnement de l'accélérateur avec assistance par une force extérieure
 
-78. Limité aux véhicules à changement de vitesse automatique.
+25.08. Pédale d'accélérateur placée à gauche
 
-79. (...) Limité aux véhicules qui satisfont aux spécifications indiquées entre parenthèses, dans le contexte de l'application de l'article 13 de la directive 2006/126/CE.
+25.09. Mesure visant à empêcher le blocage ou l'actionnement de la pédale d'accélérateur
 
-79 (L5e ≤ 15 kw).
+31. Adaptations et protections des pédales
 
-79 (12 500 kg) : peut concerner la catégorie CE.
+31.01. Jeu supplémentaire de pédales parallèles
 
-79 (motorhome/ autocaravane dont le PTAC > 3 500 kg). Concerne la catégorie B.
+31.02. Pédales dans (ou quasi dans) le même plan
 
-79.01. Limité aux deux-roues avec ou sans side-car.
+31.03. Mesure visant à empêcher le blocage ou l'actionnement des pédales d'accélérateur et de frein lorsque les pédales ne sont pas actionnées par le pied
 
-79.02. Limité aux véhicules de la catégorie AM de type trois roues ou quadricycle léger.
+31.04. Plancher surélevé
 
-79.03. Limité aux tricycles.
+32. Mécanismes de freinage et d'accélération combinés
 
-79.04. Limité aux tricycles auxquels est attelée une remorque dont la masse maximale autorisée n'excède pas 750 kg.
+32.01. Accélérateur et frein de service sous forme de système combiné, actionné par une seule main
 
-79.05. Motocycle de catégorie A1 avec un rapport puissance/ poids supérieur à 0,1 kw/kg.
+32.02. Accélérateur et frein de service sous forme de système combiné, actionné par une force extérieure
 
-79.06. Catégorie BE avec une remorque dont la masse maximale autorisée est supérieure à 3 500 kg.
+33. Frein de service, accélérateur et direction sous forme de système combiné
 
-80. Limité aux véhicules de type tricycle à moteur pour les titulaires de la catégorie A qui n'ont pas atteint l'âge de 24 ans.
+33.01. Frein de service, accélérateur et direction sous forme de système combiné, actionné par une force extérieure avec une seule main
 
-81. Limité aux véhicules de type motocycle à deux roues pour les titulaires de la catégorie A qui n'ont pas atteint l'âge de 21 ans.
+33.02. Frein de service, accélérateur et direction sous forme de système combiné, actionné par une force extérieure avec les deux mains
 
-95. Conducteur titulaire du CAP répondant à l'obligation d'aptitude professionnelle prévue par la directive 2003/59/CE jusqu'au (par exemple : 95.01.01.2012).
+35. Dispositifs de commande adaptés (feux, essuie et lave-glace, avertisseur, clignotants, etc.)
 
-96. Véhicules de la catégorie B attelés d'une remorque dont la masse maximale autorisée excède 750 kg et dont la masse maximale autorisée de l'ensemble ainsi constitué est supérieure à 3 500 kg mais ne dépasse pas 4 250 kg.
+35.02. Dispositifs de commande pouvant être actionnés sans lâcher le dispositif de direction
 
-97. Non habilité à conduire un véhicule de la catégorie C1 qui relève du champ d'application du règlement (CEE) n° 3821/85.
+35.03. Dispositifs de commande pouvant être actionnés sans lâcher le dispositif de direction avec la main gauche
+
+35.04. Dispositifs de commande pouvant être actionnés sans lâcher le dispositif de direction avec la main droite
+
+35.05. Dispositifs de commande pouvant être actionnés sans lâcher le dispositif de direction ni les mécanismes d'accélération et de freinage
+
+40. Direction adaptée
+
+40.01. Direction avec une force maximale d'actionnement de ... N [par exemple, " 40.01 (140 N) "]
+
+40.05. Volant adapté (volant de section plus large/ épaissi, de diamètre réduit, etc.)
+
+40.06. Position du volant adaptée
+
+40.09. Direction aux pieds
+
+40.11. Dispositif d'assistance sur le volant
+
+40.14. Système alternatif de direction adaptée actionné par une seule main/ un seul bras
+
+40.15. Système alternatif de direction adaptée actionné par les deux mains/ bras
+
+42. Dispositifs de vision arrière et latérale modifiés
+
+42.01. Dispositif de vision arrière adapté
+
+42.03. Dispositif intérieur supplémentaire permettant une vision latérale
+
+42.05. Dispositif de vision d'angle mort
+
+43. Position du siège du conducteur
+
+43.01. Siège du conducteur à bonne hauteur de vision et à distance normale du volant et des pédales
+
+43.02. Siège du conducteur adapté à la forme du corps
+
+43.03. Siège du conducteur avec soutien latéral pour une bonne stabilité
+
+43.04. Siège du conducteur avec accoudoir
+
+43.06. Ceinture de sécurité adaptée
+
+43.07. Ceinture de sécurité avec soutien pour une bonne stabilité
+
+44. Modifications des motocycles (sous-code obligatoire)
+
+44.01. Frein à commande unique
+
+44.02. Frein de la roue avant adapté
+
+44.03. Frein de la roue arrière adapté
+
+44.04. Accélérateur adapté
+
+44.08. Hauteur du siège permettant au conducteur assis de poser les deux pieds au sol en même temps et d'équilibrer le motocycle en cours d'arrêt et en position arrêtée
+
+44.09. Force maximale d'actionnement du frein de la roue avant de ... N (*) [par exemple, " 44.09 (140 N) "]
+
+44.10. Force maximale d'actionnement du frein de la roue arrière de ... N (*) [par exemple, " 44.10 (240 N) "]
+
+44.11. Repose-pieds adapté
+
+44.12. Poignée adaptée
+
+45. Motocycle avec side-car uniquement
+
+46. Tricycles uniquement
+
+47. Limité aux véhicules de plus de deux roues ne nécessitant pas d'être équilibrés par le conducteur lorsqu'il démarre, en cours d'arrêt et en position arrêtée
+
+50. Limité à un véhicule/ numéro de châssis particulier (numéro d'identification du véhicule, NIV)
+
+Lettres utilisées en combinaison avec les codes 01 à 44 pour plus de précisions :
+
+a gauche
+
+b droit
+
+c main
+
+d pied
+
+e milieu
+
+f bras
+
+g pouce
+
+CODES POUR USAGE RESTREINT
+
+61. Restreint aux trajets de jour (par exemple, une heure après le lever du soleil et une heure avant le coucher)
+
+62. Restreint aux trajets dans un rayon de ... km du lieu de résidence du titulaire, ou uniquement à l'intérieur d'une ville/ d'une région
+
+63. Conduite sans passagers
+
+64. Restreint aux trajets à vitesse inférieure ou égale à ... km/ h
+
+65. Conduite uniquement autorisée accompagnée d'un titulaire de permis de conduire de catégorie au moins équivalente
+
+66. Sans remorque
+
+67. Pas de conduite sur autoroute
+
+68. Pas d'alcool
+
+69. Limité aux véhicules équipés d'un éthylotest antidémarrage conforme à la norme EN 50436. L'indication d'une date d'expiration est facultative [par exemple, " 69 " ou " 69 (01.01.2016) "]
+
+QUESTIONS ADMINISTRATIVES
+
+70. Echange du permis no ... délivré par ... (signe distinctif UE/ ONU dans le cas d'un pays tiers, par exemple : " 70.0123456789. NL ")
+
+71. Double du permis no ... délivré par ... (signe distinctif UE/ ONU dans le cas d'un pays tiers, par exemple : " 71.987654321. HR ")
+
+73. Limité aux véhicules de la catégorie B de type quadricycle à moteur (B1)
+
+78. Limité aux véhicules à changement de vitesse automatique
+
+79. [...] Limité aux véhicules qui satisfont aux spécifications indiquées entre parenthèses, dans le contexte de l'application de l'article 13 de la présente directive.
+
+79.01 Limité aux véhicules à deux roues avec ou sans side-car
+
+79.02 Limité aux véhicules de la catégorie AM à trois roues ou de type quadricycle léger
+
+79.03 Limité aux tricycles
+
+79.04 Limité aux tricycles auxquels est attelée une remorque dont la masse maximale autorisée n'excède pas 750 kg
+
+79.05 Motocycle de catégorie A1 avec un rapport puissance/ poids supérieur à 0,1 kW/ kg
+
+79.06 Véhicule de catégorie BE où la masse maximale autorisée de la remorque dépasse 3 500 kg
+
+80. Limité aux titulaires d'un permis pour un véhicule de la catégorie A de type tricycle à moteur qui n'ont pas atteint l'âge de 24 ans
+
+81. Limité aux titulaires d'un permis pour un véhicule de la catégorie A de type motocycle à deux roues qui n'ont pas atteint l'âge de 21 ans
+
+95. Conducteur titulaire du CAP répondant à l'obligation d'aptitude professionnelle prévue par la directive 2003/59/ CE jusqu'au ... [par exemple, " 95 (01.01.12) "]
+
+96. Véhicules de la catégorie B auxquels est attelée une remorque dont la masse maximale autorisée dépasse 750 kg et où la masse maximale autorisée de l'ensemble est supérieure à 3 500 kg mais inférieure à 4 250 kg
+
+97. Non habilité à conduire un véhicule de la catégorie C1 qui relève du champ d'application du règlement (CEE) no 3821/85
 
 101. Catégorie C limitée à 7 500 kg jusqu'à vingt et un ans.
 
@@ -118,12 +258,6 @@ Questions administratives
 
 106. Soumis à l'application du I de l'article R. 413-5 du .../ .../ ... au .../ .../ ...
 
-107. Obligation de disposer d'un éthylotest antidémarrage.
-
 108. Limité aux véhicules de type cyclomoteur à deux ou trois roues pour les titulaires de la catégorie AM qui n'ont pas atteint l'âge de 16 ans.
 
 109. Limité aux véhicules de type quadricycle léger pour les titulaires de la catégorie AM.
-
-110. Non habilité à conduire un véhicule de la catégorie D qui relève du champ d'application de la directive 2003/59/CE.
-
-111. Catégorie A limitée aux motocycles d'une puissance inférieure ou égale à 35 kW et dont le rapport puissance/poids est inférieure à 0,2 kW/kg.
