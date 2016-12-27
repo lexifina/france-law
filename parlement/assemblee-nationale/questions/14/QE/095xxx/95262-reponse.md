@@ -1,0 +1,9 @@
+# Réponse à la question n° 95262
+
+- Question : [95262](95262.md) — Question n° 95262 — participation des citoyens; perspectives
+
+## Réponse
+
+*JO du 2016-12-27*
+
+L'article 88 de la loi no 2015-991 du 7 août 2015 portant nouvelle organisation territoriale de la République (NOTRe) a étendu l'obligation de créer des conseils de développement à l'ensemble des établissements publics de coopération intercommunale (EPCI) à fiscalité propre de plus de 20 000 habitants. Jusqu'alors, leur mise en place intéressait seulement les aires urbaines comptant plus de 50 000 habitants et dont une ou plusieurs communes centre comptaient plus de 15 000 habitants, en application de l'article 23 de la loi no 95-115 du 4 février 1995 d'orientation pour l'aménagement et le développement du territoire. Du fait du mouvement de refonte de la carte intercommunale au 1er janvier 2017, l'abaissement du seuil de création des conseils de développement aux EPCI à fiscalité propre qui comptent plus de 20 000 habitants permettra que plus de la moitié de ces EPCI à fiscalité propre disposent d'un conseil de développement. Le conseil de développement a pour objectif de structurer le dialogue entre les représentants de la société civile et ceux des communes qui siègent au sein des EPCI à fiscalité propre. À cet égard, la composition du conseil de développement a été diversifiée, puisqu'il comprend, en plus des représentants des milieux économiques, sociaux, culturels et associatifs, des représentants des milieux éducatifs, scientifiques et environnementaux. Il appartient à chaque EPCI à fiscalité propre d'engager une réflexion sur la manière dont il entend développer le rôle de son conseil de développement et l'associer à la mise en œuvre des politiques dont il a la charge. La souplesse d'organisation des conseils constitue en effet l'une de leurs forces, et permet de s'adapter aux spécificités de chaque territoire.
