@@ -2,11 +2,11 @@
 
 DOSSIER DE DEMANDE D'ALLOCATION PERSONNALISÉE D'AUTONOMIE ET LISTE DE PIÈCES JUSTIFICATIVES
 
-I Contenu du dossier de demande d'allocation personnalisée d'autonomie à domicile ou en établissement
+I. - Contenu du dossier de demande d'allocation personnalisée d'autonomie à domicile ou en établissement
 
 Date de la demande :..........
 
-A-Renseignements concernant le demandeur
+A. - Renseignements concernant le demandeur
 
 Demandeur :
 
@@ -16,9 +16,9 @@ Prénom :..........
 
 Date et lieu de naissance :..........
 
-N o de sécurité sociale :..........
+N° de sécurité sociale :..........
 
-Nationalité (française / ressortissant de l'Union européenne / autre) :..........
+Nationalité (française/ ressortissant de l'Union européenne/ autre) :..........
 
 Situation de famille (marié, divorcé, veuf, concubin, pacs, célibataire) :..........
 
@@ -32,7 +32,7 @@ Prénom :..........
 
 Date et lieu de naissance :..........
 
-N o de sécurité sociale :..........
+N° de sécurité sociale :..........
 
 Est-il en activité ?..........
 
@@ -44,9 +44,9 @@ Lieu de résidence actuelle de son conjoint si différente de la précédente :.
 
 Cocher l'une de ces cases suivantes, si le lieu de résidence du demandeur est :
 
--Un établissement d'hébergement pour personnes âgées (date d'entrée :..........)
+- Un établissement d'hébergement pour personnes âgées (date d'entrée :..........)
 
--Le domicile d'un particulier accueillant à titre onéreux dans le cadre de la loi du 10 juillet 1989 (date de début d'accueil :..........)
+- Le domicile d'un particulier accueillant à titre onéreux dans le cadre de la loi du 10 juillet 1989 (date de début d'accueil :..........)
 
 Adresse du domicile habituel (si adresse différente du lieu de résidence actuelle) :..........
 
@@ -54,11 +54,11 @@ Adresse du domicile habituel (si adresse différente du lieu de résidence actue
 
 Mentionner le cas échéant l'existence d'une mesure de protection juridique :
 
--sauvegarde de justice
+- sauvegarde de justice
 
--curatelle
+- curatelle
 
--tutelle
+- tutelle
 
 Nom et adresse du tuteur ou de l'association chargée de la mesure :
 
@@ -70,7 +70,7 @@ B. - Renseignements concernant les revenus et le patrimoine du demandeur
 
 Montant à préciser pour le demandeur :
 
-Montant à préciser pour son conjoint, son concubin ou la personne avec laquelle il a conclu un pacte civil de solidarité : ...
+Montant à préciser pour son conjoint, son concubin ou la personne avec laquelle il a conclu un pacte civil de solidarité :...
 
 2. Allocations :
 
@@ -136,15 +136,25 @@ Déclaration sur l'honneur ;
 
 Autorisation de transmission par le conseil départemental du dossier aux caisses de retraite (en cas de rejet d'allocation personnalisée d'autonomie).
 
-C. - Demande simplifiée d'une carte d'invalidité et d'une carte de stationnement
+C. - Demande simplifiée d'une carte mobilité inclusion (CMI) :
 
-Souhaitez-vous bénéficier de la carte d'invalidité prévue à l'article L. 241-3 : oui/non
+Si l'APA vous est accordée au titre du GIR 1 ou 2, vous pouvez bénéficier sans autre condition et à titre définitif de la CMI comportant les mentions “ invalidité ” et “ stationnement pour personnes handicapées ”.
 
-Souhaitez-vous bénéficier de la carte de stationnement prévue à l'article L. 241-3-2 : oui/non.
+Souhaitez-vous bénéficier de la carte mobilité inclusion comportant la mention “ invalidité ” prévue à l'article L. 241-3 : oui/ non ?
+
+Souhaitez-vous bénéficier de la carte mobilité inclusion comportant la mention “ stationnement pour personnes handicapées ” prévue à l'article L. 241-3 : oui/non ?
+
+Dans les départements où la CMI “ priorité ” et “ stationnement ” peut être délivrée sur appréciation de l'équipe médico-sociale APA, en application du III de l'article L. 241-3 :
+
+L'équipe médico-sociale peut apprécier si votre situation justifie l'attribution de la mention “ priorité ” et/ou de la mention “ stationnement pour personnes handicapées ” de la CMI.
+
+Souhaitez-vous bénéficier de la carte mobilité inclusion comportant la mention “ priorité ” prévue à l'article L. 241-3 : oui/non ?
+
+Souhaitez-vous bénéficier de la carte mobilité inclusion comportant la mention “ stationnement pour personnes handicapées ” prévue à l'article L. 241-3 : oui/non ?
 
 D. - Renseignements concernant les proches aidants du demandeur (facultatif)
 
-Ce volet du dossier de demande vise à apporter des premières informations sur les personnes de votre famille ou de votre entourage amical ou de voisinage qui vous apportent une aide dans la vie quotidienne, qu'on dénommera "aidants" dans ce qui suit. Son remplissage est facultatif.
+Ce volet du dossier de demande vise à apporter des premières informations sur les personnes de votre famille ou de votre entourage amical ou de voisinage qui vous apportent une aide dans la vie quotidienne, qu'on dénommera " aidants " dans ce qui suit. Son remplissage est facultatif.
 
 Nom et prénom de votre ou de vos aidants :
 
@@ -158,7 +168,7 @@ Nature de l'aide apportée (par exemple : accompagnement dans les déplacements 
 
 Durée et périodicité approximatives de cette aide pour une journée, une semaine ou un mois (selon ce qui vous paraît le plus pertinent) :
 
-II Liste des pièces justificatives à joindre impérativement au dossier de demande
+II. - Liste des pièces justificatives à joindre impérativement au dossier de demande
 
 La photocopie du livret de famille ou de la carte nationale d'identité ou d'un passeport de la Communauté européenne ou un extrait d'acte de naissance ; ou, s'il s'agit d'un demandeur de nationalité étrangère, la photocopie de la carte de résidence ou du titre de séjour ;
 
@@ -170,4 +180,6 @@ Un relevé d'identité bancaire ou postal.
 
 NOTA :
 
-(1) Ne pas déclarer la résidence principale si celle-ci est occupée par le demandeur, son conjoint, son concubin ou la personne avec qui il a conclu un pacte civil de solidarité, ses enfants ou petits-enfants. (2) Ne pas déclarer les capitaux placés, y compris ceux exonérés d'impôts (livret A, livret de développement durable, plan d'épargne logement, plan d'épargne en actions...), qui ne constituent pas du patrimoine dormant. En revanche la valeur des contrats d'assurance-vie, qui relèvent du patrimoine dormant, doit être déclarée.
+(1) Ne pas déclarer la résidence principale si celle-ci est occupée par le demandeur, son conjoint, son concubin ou la personne avec qui il a conclu un pacte civil de solidarité, ses enfants ou petits-enfants.
+
+(2) Ne pas déclarer les capitaux placés, y compris ceux exonérés d'impôts (livret A, livret de développement durable, plan d'épargne logement, plan d'épargne en actions...), qui ne constituent pas du patrimoine dormant. En revanche la valeur des contrats d'assurance-vie, qui relèvent du patrimoine dormant, doit être déclarée.
