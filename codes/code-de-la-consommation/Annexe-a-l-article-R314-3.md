@@ -1,4 +1,4 @@
-# Article Annexe à  l'article R314-3
+# Article Annexe à l'article R314-3
 
 PARTIE I : Equation de base traduisant l'équivalence des prêts, d'une part, et des remboursements et charges, d'autre part.
 
@@ -16,9 +16,9 @@ https :// www. legifrance. gouv. fr/ jo _ pdf. do ? id = JORFTEXT000032797752
 
 -m désigne le numéro d'ordre de la dernière utilisation effectuée sur le crédit ;
 
--k désigne le numéro d'ordre de la dernière utilisation effectuée sur le crédit, donc 1 ≤ k ≤ m ;
+-k désigne le numéro d'ordre d'une utilisation effectuée sur le crédit, donc 1 ≤ k ≤ m ;
 
--Ck est le montant de la dernière utilisation effectuée sur le crédit numéro k ;
+-Ck est le montant de l'utilisation effectuée sur le crédit numéro k ;
 
 -tk désigne l'intervalle de temps, exprimé en années et fractions d'année, entre la date de la première utilisation effectuée sur le crédit et la date de chacune des utilisations suivantes effectuées, donc t 1 = 0 ;
 
