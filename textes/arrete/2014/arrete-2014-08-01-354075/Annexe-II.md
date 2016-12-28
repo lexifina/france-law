@@ -10,15 +10,13 @@ PÉRIODE CONSIDÉRÉE
 
 |
 
+|
+
 Date de début
 
 |
 
 Date de fin
-
-(l'absence de date dans cette zone
-
-signifie que l'amiante est susceptible d'être encore présent)
 
 |
 
@@ -38,7 +36,179 @@ Ateliers de Bonneuil
 
 |
 
-DDTM Haute-Corse (ex-direction départementale de l'équipement de la Haute-Corse (2B)
+Corse-du-Sud (2A)
+
+|
+
+Ateliers, magasins d'Ajaccio
+
+|
+
+1968
+
+|
+
+2012
+
+|
+
+Phare de Pertusato
+
+|
+
+1955
+
+|
+
+2002
+
+|
+
+Phare des îles Lavezzi
+
+|
+
+1950
+
+|
+
+2015
+
+|
+
+Phare de la Chiappa
+
+|
+
+1950
+
+|
+
+2015
+
+|
+
+Phare de Senetosa
+
+|
+
+1950
+
+|
+
+2011
+
+|
+
+Phare des îles Sanguinaires
+
+|
+
+1950
+
+|
+
+1998
+
+|
+
+Feu de la citadelle à Ajaccio
+
+|
+
+1950
+
+|
+
+1995
+
+|
+
+Feu de Capo du Muro
+
+|
+
+1950
+
+|
+
+1995
+
+|
+
+Feu Scoglio Longo
+
+|
+
+1950
+
+|
+
+1995
+
+|
+
+Feu de Cap Feno
+
+|
+
+1950
+
+|
+
+1995
+
+|
+
+Phare de San Ciprianu
+
+|
+
+1950
+
+|
+
+1995
+
+|
+
+Vedette de travail Iles Lavezzi
+
+|
+
+1960
+
+|
+
+1998
+
+|
+
+Baliseur Iles Sanguinaires
+
+|
+
+1991
+
+|
+
+1998
+
+|
+
+Centre d'exploitation de Bonifacio
+
+|
+
+1955
+
+|
+
+1998
+
+|
+
+Haute-Corse (2B)
 
 |
 
@@ -50,7 +220,7 @@ Feux du Dragon et du Génois (vieux port de Bastia)
 
 |
 
-1998
+2002
 
 |
 
@@ -78,7 +248,195 @@ Vedette de travail Ile de la Giraglia
 
 |
 
-Service maritime des Bouches-du-Rhône (13)
+Phare d'Alistro
+
+|
+
+1950
+
+|
+
+2000
+
+|
+
+CEI annexe de Calvi-dépôt de Mozzelo
+
+|
+
+1960
+
+|
+
+1998
+
+|
+
+Phare de la Revellata
+
+|
+
+1950
+
+|
+
+1998
+
+|
+
+Alpes-Maritimes (06)
+
+|
+
+Ateliers et CEI de Cannes
+
+|
+
+1950
+
+|
+
+1997
+
+|
+
+Ateliers et CEI de Villefranche
+
+|
+
+1980
+
+|
+
+1997
+
+|
+
+Phare de la Garoupe
+
+|
+
+1950
+
+|
+
+1996
+
+|
+
+Phare de Saint-Jean-Cap-Ferrat
+
+|
+
+1950
+
+|
+
+1997
+
+|
+
+Phare de Vallauris
+
+|
+
+1950
+
+|
+
+1997
+
+|
+
+Phare de l'Islette
+
+|
+
+1950
+
+|
+
+1997
+
+|
+
+Phare de Nice
+
+|
+
+1950
+
+|
+
+1997
+
+|
+
+Aude (11)
+
+|
+
+Atelier du centre d'exploitation de Port-la-Nouvelle
+
+|
+
+1971
+
+|
+
+1998
+
+|
+
+Vedette Espérance
+
+|
+
+1971
+
+|
+
+1998
+
+|
+
+Drague à godets Pas-de-Calais
+
+|
+
+1971
+
+|
+
+1972
+
+|
+
+Remorqueur Canna
+
+|
+
+1971
+
+|
+
+1972
+
+|
+
+Porteur Marie-Salope
+
+|
+
+1971
+
+|
+
+1972
+
+|
+
+Bouches-du-Rhône (13)
 
 |
 
@@ -86,7 +444,7 @@ Phare du Planier
 
 |
 
-1984
+1957
 
 |
 
@@ -106,7 +464,7 @@ Baliseur A. Fresnel
 
 |
 
-Vedette Lagarde
+Vedette Largade
 
 |
 
@@ -118,7 +476,7 @@ Vedette Lagarde
 
 |
 
-Ateliers de la subdivision des phares et balises
+Ateliers de Marseille (poste 123 digue du large)
 
 |
 
@@ -126,11 +484,11 @@ Ateliers de la subdivision des phares et balises
 
 |
 
-1990
+1998
 
 |
 
-Centre de stockage et d'intervention POLMAR
+Centre de stockage POLMAR de Port-de-Bouc
 
 |
 
@@ -142,11 +500,223 @@ Centre de stockage et d'intervention POLMAR
 
 |
 
-DDTM Calvados (ex-direction départementale de l'équipement du Calvados (14)et DIRM MEN
+Phare de la Couronne
 
 |
 
-Subdivision maritime d'Ouistreham
+1960
+
+|
+
+2001
+
+|
+
+Phare de Faraman
+
+|
+
+1960
+
+|
+
+2004
+
+|
+
+Feu ouest de la passe Léon Gourret (GPMM)
+
+|
+
+1970
+
+|
+
+2009
+
+|
+
+Feu ouest et feu est de la passe de la Madrague (GPMM)
+
+|
+
+1970
+
+|
+
+2009
+
+|
+
+Feu nord, feu sud et feu ouest de la passe de Mourepiane (GPMM)
+
+|
+
+1970
+
+|
+
+2009
+
+|
+
+Feu ouest entrée et feu de la digue du port de Saumaty (GPMM)
+
+|
+
+1970
+
+|
+
+2009
+
+|
+
+Feu est de la passe du cap Janet (GPMM)
+
+|
+
+1970
+
+|
+
+2009
+
+|
+
+Feu est de la passe des chalutiers (GPMM)
+
+|
+
+1970
+
+|
+
+2009
+
+|
+
+Feu ouest et feu est du port Abri (GPMM)
+
+|
+
+1970
+
+|
+
+2009
+
+|
+
+Feu du fort Saint-Nicolas
+
+|
+
+1970
+
+|
+
+2009
+
+|
+
+Feu de la pointe de l'Esquallidou
+
+|
+
+1970
+
+|
+
+2009
+
+|
+
+Feu de la digue du bassin Bérouard (La Ciotat)
+
+|
+
+1970
+
+|
+
+2009
+
+|
+
+Feu des Capucins (La Ciotat)
+
+|
+
+1970
+
+|
+
+2009
+
+|
+
+Feu de la pointe Saint-Antoine (Port-de-Bouc)
+
+|
+
+1970
+
+|
+
+2009
+
+|
+
+Feu des trois frères (port de la Mède)
+
+|
+
+1970
+
+|
+
+2009
+
+|
+
+Balise de la digue (port de la Mède)
+
+|
+
+1970
+
+|
+
+2009
+
+|
+
+Calvados (14)
+
+|
+
+Ateliers de la subdivision des Phares et balises de Ouistreham
+
+|
+
+1982
+
+|
+
+2005
+
+|
+
+Bâtiment-usine de la subdivision de Ouistreham
+
+|
+
+1982
+
+|
+
+2000
 
 |
 
@@ -186,39 +756,7 @@ Vedette de balisage Les Essarts
 
 |
 
-Ateliers de Ouistreham
-
-|
-
-1982
-
-|
-
-2005
-
-|
-
-Bâtiment usine
-
-|
-
-1982
-
-|
-
-2000
-
-|
-
-Subdivision de Caen maritime
-
-|
-
-|
-
-|
-
-Ateliers
+Ateliers de la subdivision maritime de Caen
 
 |
 
@@ -230,15 +768,11 @@ Ateliers
 
 |
 
-DDTM Charente-Maritime(ex-direction départementale de l'équipement de la Charente-Maritime (17)
+Charente-Maritime (17)
 
 |
 
-Subdivision ports hydrographie et dragages
-
-|
-
-Atelier
+Atelier de la subdivision Ports hydrographie et dragages
 
 |
 
@@ -262,11 +796,7 @@ Drague Cap d'Aunis
 
 |
 
-Subdivision de La Rochelle ville
-
-|
-
-Atelier
+Atelier de la subdivision de La Rochelle ville
 
 |
 
@@ -290,11 +820,7 @@ Drague TD6
 
 |
 
-Subdivision parc de balisage et ateliers maritimes
-
-|
-
-Atelier
+Atelier CEI de La Rochelle
 
 |
 
@@ -330,7 +856,7 @@ Phare des Baleines
 
 |
 
-Phares : de l'île d'Aix, de Chassiron
+Phares de l'île d'Aix et phare de Chassiron
 
 |
 
@@ -378,11 +904,7 @@ Feux du pont d'Oléron
 
 |
 
-Direction de la mer et de la coopération
-
-|
-
-Ateliers
+Ateliers de la direction de la mer et de la coopération
 
 |
 
@@ -454,15 +976,11 @@ Train de dragage n° 2
 
 |
 
-DDTM Côtes-d'Armor (ex-direction départementale des Côtes-d'Armor (22)
+Côtes-d'Armor (22)
 
 |
 
-Subdivision des phares et balises
-
-|
-
-Phares
+Phares des Côtes-d'Armor
 
 |
 
@@ -474,7 +992,31 @@ Phares
 
 |
 
-Parcs, ateliers et magasin de la subdivision
+Phare des Sept Iles
+
+|
+
+1950
+
+|
+
+2014
+
+|
+
+Phare des Roches Douvres
+
+|
+
+1950
+
+|
+
+2015
+
+|
+
+Parcs, ateliers et magasin de la subdivision à Lézardrieux
 
 |
 
@@ -510,21 +1052,11 @@ Vedette Le Trahillion
 
 |
 
-|
+Finistère (29)
 
 |
 
-|
-
-DDTM Finistère (ex-direction départementale de l'équipement du Finistère (29)
-
-|
-
-Subdivision des phares et balises de Brest
-
-|
-
-Atelier maritime
+Atelier et CEI maritime du quai Malbert à Brest
 
 |
 
@@ -533,6 +1065,58 @@ Atelier maritime
 |
 
 1998
+
+|
+
+Atelier peinture-sablage de Brest
+
+|
+
+1995
+
+|
+
+1995
+
+|
+
+Ancien CEI
+
+|
+
+2003
+
+|
+
+2004
+
+|
+
+Bureaux du quai Malbert à Brest
+
+|
+
+2012
+
+|
+
+2012
+
+|
+
+limité aux fonctions de technicien du génie civil
+
+|
+
+Centre Polmar de Brest
+
+|
+
+1972
+
+|
+
+2003
 
 |
 
@@ -596,7 +1180,19 @@ Bouées-phares de Brest et du rail d'Ouessant
 
 |
 
-Phare du Créach
+Atelier maritime Brest port
+
+|
+
+1972
+
+|
+
+1998
+
+|
+
+Phare du Créac'h
 
 |
 
@@ -608,6 +1204,18 @@ Phare du Créach
 
 |
 
+Antenne Phares et balises du Créac'h
+
+|
+
+2008
+
+|
+
+2010
+
+|
+
 Phare de l'île Vierge
 
 |
@@ -616,7 +1224,7 @@ Phare de l'île Vierge
 
 |
 
-1993
+1998
 
 |
 
@@ -632,23 +1240,7 @@ Phare de Saint-Mathieu
 
 |
 
-Autres phares rattachés à la subdivision
-
-|
-
-1950
-
-|
-
-1999
-
-|
-
-Subdivision de Concarneau
-
-|
-
-Ateliers maritimes
+Ateliers maritimes de l'antenne de Concarneau (quai est)
 
 |
 
@@ -660,7 +1252,7 @@ Ateliers maritimes
 
 |
 
-Phares rattachés à la subdivision
+Phares rattachés à l'antenne de Concarneau
 
 |
 
@@ -672,207 +1264,67 @@ Phares rattachés à la subdivision
 
 |
 
-Service maritime et de navigation de la Gironde (SMNG) (33)
+Autres phares rattachés à la subdivision de Brest
 
 |
 
-Subdivision du Verdon
+1950
 
 |
 
-Phare de Cordouan
+1999
 
 |
 
-1973
+Phare de la Vieille
 
 |
 
-1998
+1950
 
 |
 
-Atelier du Verdon
+2013
 
 |
 
-1976
+Phare des Pierres Noires
 
 |
 
-1996
+1950
 
 |
 
-Baliseur André Blondel
+2015
 
 |
 
-1975
+Phare d'Armen
 
 |
 
-1998
+1950
 
 |
 
-Service maritime et de navigation de Languedoc-Roussillon (SMNLR) (34)
+2013
 
 |
 
-Service de l'entretien et de la logistique (subdivision parc et logistique, subdivision dragage, et subdivision des phares et balises et de l'entretien)
+Maison-feu de Lanildut
 
 |
 
-Ateliers et magasins (docks Richelieu et quai d'Alger)
+1950
 
 |
 
-1966
+2009
 
 |
 
--
-
-|
-
-Matériel naval du service réformé :
-
-porteurs, dragues, remorqueurs, chaloupes, pilonneuse
-
-- ponton bigue Le Porthos
-
-|
-
-1966
-
-1966
-
-|
-
-2000
-
-2004
-
-|
-
-Matériel naval en activité :
-
-Cap Croisette
-
-Camargue
-
-- Languedoc VII
-
-Ponts mobiles de Sète :
-
-- Pont de Tivoli (centrale de maintenance)
-
-- Pont de la Victoire
-
-Pont de la Gare
-
-Pont Sadi-Carnot (appartient à la région LR)
-
-|
-
-1982
-
-1986
-
-1986
-
-1966
-
-1966
-
-1966
-
-1966
-
-|
-
-2000
-
-2000
-
-2000
-
-2007
-
-1998
-
-1998
-
--
-
-|
-
-Phares : de l'Espiguette (Le Grau-du-Roi), du Mont-Saint-Clair (Sète), de Brescou (Agde), du cap Leucate (Leucate), du cap Béar (Port-Vendres).
-
-|
-
-1966
-
-|
-
-1998
-
-|
-
-Subdivision maritime et de navigation Hérault Est
-
-|
-
-Atelier du centre d'exploitation de Palavas
-
-|
-
-1966
-
-|
-
-1998
-
-|
-
-Drague Bergeron
-
-|
-
-1976
-
-|
-
-1998
-
-|
-
-Remorqueur Mistral
-
-|
-
-1974
-
-|
-
-1998
-
-|
-
-Porteur Lagarde
-
-|
-
-1982
-
-|
-
-1998
-
-|
-
-Subdivision maritime et de navigation du Gard
+Gard (30)
 
 |
 
@@ -936,79 +1388,27 @@ Atelier du centre d'exploitation de Beaucaire
 
 |
 
-Subdivision maritime de l'Aude
+Gironde (33)
 
 |
 
-Atelier du centre d'exploitation de Port-la-Nouvelle
+Atelier CEI du Verdon-sur-Mer
 
 |
 
-1971
+1976
 
 |
 
-1998
+1996
 
 |
 
-Vedette Espérance
+Phare de Cordouan
 
 |
 
-1971
-
-|
-
-1998
-
-|
-
-Drague à godets Pas de Calais
-
-|
-
-1971
-
-|
-
-1972
-
-|
-
-Remorqueur Canna
-
-|
-
-1971
-
-|
-
-1972
-
-|
-
-Porteur Marie-Salope
-
-|
-
-1971
-
-|
-
-1972
-
-|
-
-Subdivision maritime des Pyrénées-Orientales
-
-|
-
-Atelier du centre d'exploitation de Port-Vendres
-
-|
-
-1971
+1973
 
 |
 
@@ -1016,15 +1416,411 @@ Atelier du centre d'exploitation de Port-Vendres
 
 |
 
-DDTM Ille-et-Vilaine (ex-direction départementale de l'équipement d'Ille-et-Vilaine (35)
+Phare de la pointe de Grave
 
 |
 
-Subdivision des équipements portuaires et maritimes
+1973
 
 |
 
-Ateliers
+1998
+
+|
+
+Phare d'Hourtin
+
+|
+
+1973
+
+|
+
+1998
+
+|
+
+Phare de Lège-Cap-Ferret
+
+|
+
+1973
+
+|
+
+1998
+
+|
+
+Baliseur André Blondel
+
+|
+
+1975
+
+|
+
+1999
+
+|
+
+Languedoc-Roussillon (34)
+
+|
+
+Ateliers et magasins de la subdivision de Sète (docks Richelieu et quai d'Alger)
+
+|
+
+1966
+
+|
+
+2002
+
+|
+
+Matériel naval du service réformé :
+
+|
+
+|
+
+|
+
+-porteurs, dragues, remorqueurs, chaloupes, pilonneuse
+
+|
+
+1966
+
+|
+
+2000
+
+|
+
+-ponton bigue Le Porthos
+
+|
+
+1966
+
+|
+
+2004
+
+|
+
+Matériel naval en activité :
+
+|
+
+|
+
+|
+
+-Cap Croisette
+
+|
+
+1982
+
+|
+
+2000
+
+|
+
+-Camargue
+
+|
+
+1986
+
+|
+
+2000
+
+|
+
+-Languedoc VII
+
+|
+
+1986
+
+|
+
+2000
+
+|
+
+Ponts mobiles de Sète :
+
+|
+
+|
+
+|
+
+-pont de Tivoli (centrale de maintenance)
+
+|
+
+1966
+
+|
+
+2007
+
+|
+
+-pont de la Victoire
+
+|
+
+1966
+
+|
+
+1998
+
+|
+
+-pont de la Gare
+
+|
+
+1966
+
+|
+
+1998
+
+|
+
+-pont Sadi-Carnot (appartient à la région LR)
+
+|
+
+1966
+
+|
+
+Date de transfert à la région
+
+|
+
+Phares : de l'Espiguette (Le Grau-du-Roi), du mont Saint-Clair (Sète), de Brescou (Agde), du cap Leucate (Leucate), du cap Béar (Port-Vendres)
+
+|
+
+1966
+
+|
+
+1998
+
+|
+
+Atelier du centre d'exploitation de Palavas
+
+|
+
+1966
+
+|
+
+1998
+
+|
+
+Drague Bergeron
+
+|
+
+1976
+
+|
+
+1998
+
+|
+
+Remorqueur Mistral
+
+|
+
+1974
+
+|
+
+1998
+
+|
+
+Porteur Lagarde
+
+|
+
+1982
+
+|
+
+1998
+
+|
+
+Centre de stockage POLMAR de Sète
+
+|
+
+1980
+
+|
+
+2001
+
+|
+
+Feu est de la pointe rouge (étang de Thau)
+
+|
+
+1966
+
+|
+
+2009
+
+|
+
+Feu ouest plagette (bassin de Thau)
+
+|
+
+1966
+
+|
+
+2009
+
+|
+
+Feu de la digue est (port de Marseillan)
+
+|
+
+1966
+
+|
+
+2009
+
+|
+
+Feux de la digue est et de la digue ouest (Cap-d'Agde)
+
+|
+
+1966
+
+|
+
+2009
+
+|
+
+Feu de la jetée sud (port du Canet)
+
+|
+
+1966
+
+|
+
+2009
+
+|
+
+Feu de la jetée sud (port du Barcarès)
+
+|
+
+1966
+
+|
+
+2009
+
+|
+
+Feu de la digue ouest (Port-Camargue)
+
+|
+
+1966
+
+|
+
+2009
+
+|
+
+Feux de la jetée est et de la jetée ouest (port du Grau-du-Roi)
+
+|
+
+1966
+
+|
+
+2009
+
+|
+
+Feux de la jetée est et de la jetée ouest (port de Carnon)
+
+|
+
+1966
+
+|
+
+2009
+
+|
+
+Feu rive gauche (port de Palavas)
+
+|
+
+1966
+
+|
+
+2009
+
+|
+
+Feu de fort Fanal (Port-Vendres)
+
+|
+
+1950
+
+|
+
+1998
+
+|
+
+Ille-et-Vilaine (35)
+
+|
+
+Ateliers de l'antenne de Saint-Malo
 
 |
 
@@ -1072,15 +1868,11 @@ Phare du Herpin
 
 |
 
-Service maritime et de navigation de Nantes (44) - (SMN)
+Loire-Atlantique (44)
 
 |
 
-Subdivision des phares et balises de Saint-Nazaire
-
-|
-
-Ateliers
+Ateliers et CEI de la subdivision de Saint-Nazaire
 
 |
 
@@ -1104,7 +1896,7 @@ Phares en mer (phares de la Banche, du Grand Charpentier, du Pilier, du Four)
 
 |
 
-Baliseur Charles-BABIN
+Baliseur Charles Babin
 
 |
 
@@ -1128,11 +1920,23 @@ Vedette Avel Mad
 
 |
 
-DDT Manche (ex-direction départementale de l'équipement de la Manche (50) et DIRM MEN
+Phare de la Noëveillard
 
 |
 
-Centre de liants
+1845
+
+|
+
+1983
+
+|
+
+Manche (50)
+
+|
+
+Centre de liants de Granville
 
 |
 
@@ -1144,19 +1948,7 @@ Centre de liants
 
 |
 
-Centre de liants Granville
-
-|
-
-1950
-
-|
-
-1991
-
-|
-
-Parc de balisage Granville
+Parc de balisage de Granville
 
 |
 
@@ -1180,11 +1972,11 @@ Vedette Les Epiettes
 
 |
 
-Phare et balise pôle Granville
+Pôle des Phares et balises de Granville
 
 |
 
--
+1961
 
 |
 
@@ -1204,7 +1996,7 @@ Bureaux de Cherbourg
 
 |
 
-Parcs, ateliers et magasin de Cherbourg
+Parcs, ateliers et magasins de la subdivision de Cherbourg
 
 |
 
@@ -1216,7 +2008,7 @@ Parcs, ateliers et magasin de Cherbourg
 
 |
 
-Ancien CEI
+Ancien CEI de la subdivision de Cherbourg
 
 |
 
@@ -1228,7 +2020,7 @@ Ancien CEI
 
 |
 
-Ateliers et hangar en bois
+Ateliers et hangar en bois de la subdivision de Cherbourg
 
 |
 
@@ -1248,7 +2040,7 @@ Phare de Carteret
 
 |
 
-1984
+1998
 
 |
 
@@ -1264,7 +2056,7 @@ Phare de Gatteville
 
 |
 
-Phare de Cap Levi
+Phare de cap Levi
 
 |
 
@@ -1276,7 +2068,7 @@ Phare de Cap Levi
 
 |
 
-Phare de fort de l'Ouest
+Phare du fort de l'Ouest
 
 |
 
@@ -1288,7 +2080,7 @@ Phare de fort de l'Ouest
 
 |
 
-Phare de La Hague
+Phare de la Hague
 
 |
 
@@ -1324,7 +2116,7 @@ Ex-antenne RANA à Vauville
 
 |
 
-Bateau relève Phare de La Hague
+Bateau relève Phare de la Hague
 
 |
 
@@ -1348,15 +2140,11 @@ Bateau relève Phare du Port de l'Ouest
 
 |
 
-DDTM Morbihan(ex-direction départementale de l'équipement du Morbihan (56)
+Morbihan (56)
 
 |
 
-Subdivision des phares et balises de Lorient
-
-|
-
-Magasin et ateliers
+Magasin et ateliers de la subdivision de Lorient
 
 |
 
@@ -1364,7 +2152,7 @@ Magasin et ateliers
 
 |
 
-2004
+2008
 
 |
 
@@ -1380,7 +2168,7 @@ Baliseur Roi Gradlon
 
 |
 
-Station de contrôle de Kerdonis à Locmaria (Belle Ile en Mer)
+Station de contrôle de Kerdonis à Locmaria (Belle-Ile en mer)
 
 |
 
@@ -1416,7 +2204,7 @@ Station d'émission (Toran) de Saint-Philbert
 
 |
 
-Chaloupe de travaux et vedette de servitude
+Chaloupe de travaux et vedette de servitude Locmaria-Logoden
 
 |
 
@@ -1428,11 +2216,11 @@ Chaloupe de travaux et vedette de servitude
 
 |
 
-Phare de Goulphar
+Phare de Goulphar (Belle-Ile)
 
 |
 
-1992
+1951
 
 |
 
@@ -1440,7 +2228,7 @@ Phare de Goulphar
 
 |
 
-Phare de Pen Men
+Phare de Pen Men (Groix)
 
 |
 
@@ -1452,15 +2240,35 @@ Phare de Pen Men
 
 |
 
-Service maritime du Nord (59)
+Phare de la Teignouse
 
 |
 
-Subdivision des phares et balises de Dunkerque
+1978
 
 |
 
-Ateliers travaux
+1998
+
+|
+
+Phare des Cardinaux
+
+|
+
+1973
+
+|
+
+1998
+
+|
+
+Nord (59)
+
+|
+
+Ateliers travaux de la subdivision de Dunkerque
 
 |
 
@@ -1468,11 +2276,11 @@ Ateliers travaux
 
 |
 
--
+2015
 
 |
 
-Ateliers peinture/sablage/menuiserie
+Ateliers peinture-sablage-menuiserie
 
 |
 
@@ -1480,7 +2288,7 @@ Ateliers peinture/sablage/menuiserie
 
 |
 
--
+2015
 
 |
 
@@ -1520,7 +2328,7 @@ Vedette d'intervention rapide Ruytingen
 
 |
 
-Bateaux feux locaux et bouées phares
+Bateaux feux locaux et bouées phares de la subdivision de Dunkerque
 
 |
 
@@ -1532,7 +2340,7 @@ Bateaux feux locaux et bouées phares
 
 |
 
-Locaux sociaux
+Locaux sociaux de Dunkerque
 
 |
 
@@ -1540,11 +2348,11 @@ Locaux sociaux
 
 |
 
--
+2015
 
 |
 
-Bâtiment centre de Polmar
+Bâtiment centre POLMAR de Dunkerque
 
 |
 
@@ -1552,15 +2360,15 @@ Bâtiment centre de Polmar
 
 |
 
--
+2015
 
 |
 
-Service maritime des ports de Boulogne et de Calais (62)
+Pas-de-Calais (62)
 
 |
 
-Ateliers dragages, magasin général : réparations industrie navale
+Ateliers dragages et magasin général (réparations industrie navale) du service maritime des ports de Boulogne et de Calais
 
 |
 
@@ -1568,7 +2376,7 @@ Ateliers dragages, magasin général : réparations industrie navale
 
 |
 
--
+2015 ou date de transfert en cas de transfert à une collectivité
 
 |
 
@@ -1580,11 +2388,11 @@ Ateliers Loubet
 
 |
 
--
+2015 ou date de transfert en cas de transfert à une collectivité
 
 |
 
-Dragues La liane et Maxime Outrey
+Dragues La Liane et Maxime Outrey
 
 |
 
@@ -1608,7 +2416,7 @@ Drague Opale
 
 |
 
-Porteurs Huron, Iroquois et Saint- Laurent
+Porteurs Huron, Iroquois et Saint-Laurent
 
 |
 
@@ -1632,7 +2440,7 @@ Canot SNSM
 
 |
 
-Vedettes rattachées à Boulogne : Mc Kenzy, Margaret I et II, et Tigre I et II
+Vedettes rattachées à Boulogne : McKenzy, Margaret I, Margaret II, Tigre I, Tigre II
 
 |
 
@@ -1676,7 +2484,7 @@ Ecluse Sanson
 
 |
 
--
+2015 ou date de transfert en cas de transfert à une collectivité
 
 |
 
@@ -1712,7 +2520,7 @@ Ateliers et magasins du service maritime basé à Calais
 
 |
 
--
+2015 ou date de transfert en cas de transfert à une collectivité
 
 |
 
@@ -1728,7 +2536,7 @@ Dragues, porteurs, canot SNSM, vedettes rattachés à Calais
 
 |
 
-Ecluse : Carnot, Ouest, de la Batellerie
+Ecluse : Carnot, ouest, de la Batellerie
 
 |
 
@@ -1736,7 +2544,7 @@ Ecluse : Carnot, Ouest, de la Batellerie
 
 |
 
--
+2015 ou date de transfert en cas de transfert à une collectivité
 
 |
 
@@ -1812,7 +2620,7 @@ Groupes électrogènes de la capitainerie du port de Calais
 
 |
 
-Forme de radoub et bateau porte
+Forme de radoub et bateau-porte
 
 |
 
@@ -1868,11 +2676,11 @@ Phare de Berck
 
 |
 
--
+2015
 
 |
 
-Ateliers de la subdivision maritime d'Etaples et Vedette La Canche
+Ateliers de la subdivision maritime d'Etaples et vedette La Canche
 
 |
 
@@ -1884,7 +2692,7 @@ Ateliers de la subdivision maritime d'Etaples et Vedette La Canche
 
 |
 
-Phare du cap Gris Nez
+Phare du cap Gris-Nez
 
 |
 
@@ -1892,11 +2700,11 @@ Phare du cap Gris Nez
 
 |
 
--
+2015
 
 |
 
-Batiment phares et balises Le Portel
+Bâtiment Phares et balises Le Portel
 
 |
 
@@ -1908,15 +2716,11 @@ Batiment phares et balises Le Portel
 
 |
 
-DDTM Pyrénées-Atlantiques(ex-direction départementale de l'équipement des Pyrénées-Atlantiques (64)
+Pyrénées-Atlantiques (64)
 
 |
 
-Subdivision travaux maritimes d'Anglet
-
-|
-
-Ateliers de la subdivision
+Ateliers de la subdivision du 8, avenue de l'Adour à Anglet
 
 |
 
@@ -1925,6 +2729,18 @@ Ateliers de la subdivision
 |
 
 1999
+
+|
+
+Ateliers de la subdivision du 19, avenue l'Adour à Anglet
+
+|
+
+2014
+
+|
+
+2014
 
 |
 
@@ -1976,7 +2792,7 @@ Phare de Biarritz
 
 |
 
-Bureau d'études et de sondages (10, allée marines - Bayonne)
+Bureau d'études et de sondages 10, allée Marines, Bayonne
 
 |
 
@@ -1996,7 +2812,7 @@ Feux de Ciboure
 
 |
 
--
+2015
 
 |
 
@@ -2008,7 +2824,7 @@ Feux de Socoa
 
 |
 
--
+2015
 
 |
 
@@ -2020,15 +2836,27 @@ Feux de Sainte-Barbe à Saint-Jean-de-Luz
 
 |
 
-2008 (sauf partie logement)
+2008
 
 |
 
-DDTM Seine-Maritime(ex-direction départementale de l'équipement de la Seine-Maritime (76)
+Pyrénées-Orientales (66)
 
 |
 
-Service maritime (2e section)
+Atelier du centre d'exploitation de Port-Vendres
+
+|
+
+1971
+
+|
+
+1998
+
+|
+
+Seine-Maritime (76)
 
 |
 
@@ -2040,7 +2868,7 @@ Ouvrages mobiles du port de Dieppe (écluse, ponts)
 
 |
 
--
+2015 ou date de transfert en cas de transfert à une collectivité
 
 |
 
@@ -2056,7 +2884,7 @@ Engins de dragage du port de Dieppe et armés par la DDE 76
 
 |
 
-Ateliers
+Ateliers du service maritime (2e section) de la DDE 76
 
 |
 
@@ -2068,23 +2896,7 @@ Ateliers
 
 |
 
-DDTM Seine-Maritime (ex-direction départementale de l'équipement de la Seine-Maritime (76) - suite et DIRM MEN
-
-|
-
-Service maritime (3e section)
-
-|
-
-Subdivision des phares et balises
-
-|
-
-|
-
-|
-
-Ateliers
+Ateliers du service maritime (3e section) de la DDE 76
 
 |
 
@@ -2096,7 +2908,7 @@ Ateliers
 
 |
 
-Centres d'exploitations : Seine, Gironde, Dieppe
+Centres d'exploitation : Seine, Gironde, Dieppe
 
 |
 
@@ -2116,7 +2928,7 @@ Phares et feux (de Dieppe, du Tréport, de l'Ailly, de La Hève, d'Antifer, de P
 
 |
 
--
+2015
 
 |
 
@@ -2128,23 +2940,15 @@ Navire baliseur Quinette de Rochemont II
 
 |
 
-2003
+2004
 
 |
 
-DDT Deux-Sèvres (ex-direction départementale de l'équipement des Deux-Sèvres (79)
+Deux-Sèvres (79)
 
 |
 
-Bureau de Marans
-
-|
-
-|
-
-|
-
-Ateliers
+Ateliers de Marans
 
 |
 
@@ -2153,14 +2957,6 @@ Ateliers
 |
 
 2000
-
-|
-
-Bureau de Niort
-
-|
-
-|
 
 |
 
@@ -2176,19 +2972,167 @@ Ateliers de Niort
 
 |
 
-DDTM Vendée (ex-direction départementale de l'équipement de la Vendée (85)
+Somme (80)
 
 |
 
-Subdivision des phares et balises
+Ateliers de Saint-Valery-sur-Somme
 
 |
 
-Vedettes de servitude La Grande Barge et La Clère
+1951
 
 |
 
-1979
+2003
+
+|
+
+Phare de Cayeux
+
+|
+
+1951
+
+|
+
+1999
+
+|
+
+Phare d'Ault
+
+|
+
+1951
+
+|
+
+2001
+
+|
+
+Phare du Hourdel
+
+|
+
+1951
+
+|
+
+2001
+
+|
+
+Var (83)
+
+|
+
+Ateliers CEI de Toulon
+
+|
+
+1981
+
+|
+
+1997
+
+|
+
+Phare du Grand Ribaud
+
+|
+
+1950
+
+|
+
+1997
+
+|
+
+Phare du Grand Rouveau
+
+|
+
+1950
+
+|
+
+1997
+
+|
+
+Phare de Cépet
+
+|
+
+1950
+
+|
+
+1997
+
+|
+
+Phare de Porquerolles
+
+|
+
+1950
+
+|
+
+1997
+
+|
+
+Phare de Camarat
+
+|
+
+1950
+
+|
+
+1997
+
+|
+
+Phare de Bénat
+
+|
+
+1950
+
+|
+
+1997
+
+|
+
+Vedette Galy Merlin
+
+|
+
+1950
+
+|
+
+1997
+
+|
+
+Vendée (85)
+
+|
+
+Vedettes de servitude La Grande Barge
+
+|
+
+1975
 
 |
 
@@ -2196,7 +3140,19 @@ Vedettes de servitude La Grande Barge et La Clère
 
 |
 
-Phares : La Potence, Le Grouin du Cou, l'Armandèche
+Vedettes de servitude La Clère
+
+|
+
+1975
+
+|
+
+1999
+
+|
+
+Phare de la Potence
 
 |
 
@@ -2204,7 +3160,31 @@ Phares : La Potence, Le Grouin du Cou, l'Armandèche
 
 |
 
+2000
+
+|
+
+Phare du Grouin du Cou
+
+|
+
 1970
+
+|
+
+2006
+
+|
+
+Phare de l'Armandèche
+
+|
+
+1970
+
+|
+
+2004
 
 |
 
@@ -2216,7 +3196,7 @@ Phare des Barges
 
 |
 
-1985
+2000
 
 |
 
@@ -2240,19 +3220,63 @@ Station DGPS l'Aurière
 
 |
 
-1982
+2000
 
 |
 
-DM Guadeloupe (ex-direction départementale de l'équipement de la Guadeloupe (971)
+Phare des Corbeaux
 
 |
 
-Subdivision des phares et balises
+1950
 
 |
 
-Ateliers de Fouillole
+2003
+
+|
+
+Grand phare de l'île d'Yeu
+
+|
+
+1953
+
+|
+
+2003
+
+|
+
+Vedette Esilab
+
+|
+
+1992
+
+|
+
+2000
+
+|
+
+Baliseur Martroger
+
+|
+
+1970
+
+|
+
+1992
+
+|
+
+Guadeloupe (971)
+
+|
+
+Ateliers de la subdivision de Fouillole
 
 |
 
@@ -2276,15 +3300,11 @@ Navire baliseur Marius Moutet
 
 |
 
-DM Martinique (ex-direction départementale de l'équipement Martinique (972)
+Martinique (972)
 
 |
 
-Subdivision des phares et balises
-
-|
-
-Ateliers
+Ateliers de la subdivision des Phares et balises
 
 |
 
@@ -2296,11 +3316,7 @@ Ateliers
 
 |
 
-DDM Guyane (ex-direction départementale de l'équipement de la Guyane (973)
-
-|
-
-Subdivision des phares et balises
+Guyane (973)
 
 |
 
@@ -2316,15 +3332,11 @@ Remorqueurs Mahury et Oyapock
 
 |
 
-DDM Réunion (ex-direction départementale de l'équipement de La Réunion (974)
+La Réunion (974)
 
 |
 
-Subdivision entretien et dragages
-
-|
-
-Anciens ateliers
+Anciens ateliers de la subdivision Entretien et dragages
 
 |
 
@@ -2336,7 +3348,7 @@ Anciens ateliers
 
 |
 
-Nouveaux ateliers
+Nouveaux ateliers de la subdivision Entretien et dragages
 
 |
 
@@ -2360,6 +3372,46 @@ Darse à matériel
 
 |
 
+Phare de Bel Air (Sainte-Suzanne)
+
+|
+
+1950
+
+|
+
+2012
+
+|
+
+Saint-Pierre-et-Miquelon (975)
+
+|
+
+Ateliers Phares et balises de Saint-Pierre-et-Miquelon
+
+|
+
+1950
+
+|
+
+2016
+
+|
+
+Baliseur Paul Veillon
+
+|
+
+1955
+
+|
+
+2012
+
+|
+
 Tous centres de sécurité des navires
 
 |
@@ -2372,19 +3424,11 @@ Agents ayant effectués des visites de sécurité à bord des navires ou dans de
 
 |
 
-Avant 1996
+avant 1996
 
 |
 
 Unités navigantes du dispositif de contrôle et de surveillance
-
-|
-
-Agents embarqués sur les moyens nautiques suivants :
-
-|
-
-|
 
 |
 
@@ -2412,7 +3456,7 @@ PM 24 AEC Thomas
 
 |
 
-PM 28 Tourne-pierre
+PM 28 Tourne-Pierre
 
 |
 
@@ -2464,11 +3508,11 @@ PM 26 Patron Louis Renet
 
 |
 
-Indéterminé
+1975
 
 |
 
-Indéterminé
+1995
 
 |
 
@@ -2476,11 +3520,11 @@ PM 11 Garance
 
 |
 
-Indéterminé
+1982
 
 |
 
-Indéterminé
+1990
 
 |
 
@@ -2512,10 +3556,176 @@ PM 23 Matelot Henri Nogues
 
 |
 
-Indéterminé
+1978
 
 |
 
-Indéterminé
+1984
 
 |
+
+Vedette Armoise
+
+|
+
+1968
+
+|
+
+1994
+
+|
+
+Vedette Courlis
+
+|
+
+1982
+
+|
+
+1995
+
+|
+
+Vedette Pluvier
+
+|
+
+1981
+
+|
+
+1992
+
+|
+
+Vedette Carouge
+
+|
+
+1981
+
+|
+
+1992
+
+|
+
+Vedette Avocette
+
+|
+
+1981
+
+|
+
+1992
+
+|
+
+Vedette Eder II
+
+|
+
+1981
+
+|
+
+1992
+
+|
+
+Vedette Océane
+
+|
+
+1984
+
+|
+
+1992
+
+|
+
+Vedette Romarin
+
+|
+
+1974
+
+|
+
+1999
+
+|
+
+Vedette Tadorne
+
+|
+
+1986
+
+|
+
+1996
+
+|
+
+PM 63 Eider II
+
+|
+
+1986
+
+|
+
+2002
+
+|
+
+PM 61 Petrel
+
+|
+
+1985
+
+|
+
+2011
+
+|
+
+PM 269 Cauchoise
+
+|
+
+1982
+
+|
+
+1996
+
+|
+
+PM 279 Sarriette
+
+|
+
+1988
+
+|
+
+2000
+
+|
+
+PM 50 Sorbier
+
+|
+
+1977
+
+|
+
+1996 |
