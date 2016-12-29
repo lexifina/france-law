@@ -1,0 +1,9 @@
+# Réponse à la question SEQ161224138
+
+- Question : [SEQ161224138](seq161224138.md) — Réalisation de l'autoroute Toulouse-Castres
+
+## Réponse
+
+*Environnement, énergie et mer, JO du 2016-12-29, page 5632*
+
+Le projet de liaison autoroutière Castres-Toulouse (LACT) consiste à aménager une autoroute concédée entre l'A68 et la rocade de Castres, permettant ainsi d'assurer une liaison continue à 2x2 voies entre Toulouse et l'agglomération de Castres-Mazamet. Il comprend le doublement de la bretelle autoroutière A680 déjà concédée aux ASF et la réalisation d'une infrastructure nouvelle concédée entre cette bretelle et Castres, pour 60 km au total. Ce projet a été retenu par le Gouvernement parmi les opérations prioritaires à réaliser à la suite des conclusions de la commission « mobilité 21 » sur les grands projets d'infrastructures. Par décision ministérielle du 22 avril 2014 le Gouvernement a donc confirmé le choix d'un aménagement par concession autoroutière, pour lequel l'État apporterait 50% de la subvention d'équilibre. Sur ces bases, les études techniques se sont achevées cette année en poursuivant la concertation notamment avec les acteurs socio-professionnels du monde économique et agricole. Le dossier d'enquête publique a alors été constitué et présenté au printemps 2016 aux acteurs du territoire et aux instances de concertation du projet. La saisine de l'Autorité environnementale et du Commissariat général aux investissements (CGI) est intervenue en juin 2016. Les recommandations formulées dans ces avis ont fait l'objet de compléments d'étude et de précisions qui sont apportés au dossier d'enquête publique. Celle-ci a pu débuter le 5 décembre 2016, conformément aux annonces faites en début d'année. Les services de l'État sont pleinement mobilisés pour tenir l'objectif d'une fin de chantier en 2022, dans l'intérêt de la région de Castres et de tout le territoire tarnais.
