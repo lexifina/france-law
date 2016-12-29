@@ -1,0 +1,9 @@
+# Réponse à la question SEQ161123826
+
+- Question : [SEQ161123826](seq161123826.md) — Préoccupations des ingénieurs TPE réunionnais
+
+## Réponse
+
+*Fonction publique, JO du 2016-12-29, page 5634*
+
+Les projets de décrets relatifs aux ingénieurs de l'État mettent en œuvre l'engagement pris par le Gouvernement d'appliquer le protocole « parcours professionnels, carrières et rémunérations » (PPCR) à l'ensemble des corps et cadres d'emplois des trois versants de la fonction publique. Ces projets de décrets ont pour objet de transposer les mesures de ce protocole aux corps d'ingénieurs de l'État dits « à type technique » et de reconnaître ainsi l'importance des ces corps techniques, sans remettre en cause, d'aucune façon, les missions spécifiques impactées à chacun d'entre eux. La rémunération des six corps d'ingénieurs concernés repose actuellement sur la même grille indiciaire. Elle sera revalorisée chaque année à partir du 1er janvier 2017, jusqu'au 1er janvier 2020, avec dans un premier temps la transformation de primes en points d'indice qui se traduira par une assiette du calcul des droits à pension plus importante. La revalorisation des grilles des corps d'ingénieurs maintient, par ailleurs, le dynamisme indiciaire dont ces corps bénéficient actuellement en début de carrière. Ainsi, l'attractivité de ces corps est conservée. Enfin, leur rémunération est également améliorée par la création, à compter de 2020, d'un échelon atteignant l'indice brut 1015 dans le deuxième grade ainsi que par la création, dès 2017, d'un grade à accès fonctionnel culminant en hors échelle lettre A. Les parcours de carrière et la mobilité des agents seront facilités grâce à l'harmonisation des dispositions statutaires régissant ces corps, et au-delà, de l'ensemble des corps et cadre d'emplois d'ingénieurs des trois versants de la fonction publique.
