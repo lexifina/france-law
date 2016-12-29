@@ -1,0 +1,9 @@
+# Réponse à la question SEQ150616562
+
+- Question : [SEQ150616562](seq150616562.md) — Développement de la prédiction criminelle
+
+## Réponse
+
+*Intérieur, JO du 2016-12-29, page 5637*
+
+Implanté à Pontoise, le service central de renseignement criminel (SCRC) comprend 250 militaires. Cette unité est composée du centre de lutte contre les criminalités numériques et de trois divisions dont la division d'analyse et d'investigations criminelles au sein de laquelle 5 militaires conduisent les travaux en cours sur l'analyse prédictive. Actuellement, une étude exploratoire portant sur plusieurs infractions et espaces territoriaux est menée afin de déterminer le modèle scientifique prédictif le plus adapté. L'objectif recherché est la constitution d'une aide à la décision (« analyse décisionnelle »), au profit du commandant d'unité territoriale, notamment à des fins de prévention de la délinquance. Cette exploration s'appuie sur des méthodes scientifiques d'analyse de données issues des statistiques d'infractions constatées par les forces de l'ordre, de données institutionnelles et de données publiques décrivant le territoire dans lequel ces infractions ont été constatées. Le modèle devra être en mesure d'apporter des réponses correspondant à différents critères de temps (année, mois, semaine, jour) et d'espace (département, arrondissement, commune, îlots regroupés pour l'information statistique), afin de permettre la révélation du ou des modèles le (s) plus pertinent (s) pour le territoire. Deux expérimentations de ce nouvel outil sont à ce jour conduites : une dans le département de l'Oise et la seconde en région Aquitaine. Dans le même temps, le service des technologies et des systèmes d'information de la sécurité intérieure (ST (SI) 2) développe un outil informatique associé et intégré à l'environnement existant. Un premier bilan d'étape des expérimentations en cours sera prochainement établi.
