@@ -1,0 +1,9 @@
+# Réponse à la question SEQ160421416
+
+- Question : [SEQ160421416](seq160421416.md) — Utilisation d'une arme par un piégeur non chasseur pour achever un animal classé nuisible victime d'un piège
+
+## Réponse
+
+*Environnement, énergie et mer, JO du 2016-12-29, page 5624*
+
+Les opérations de piégeage des animaux d'espèces sauvages classées « nuisibles » ne sont pas des actes de chasse, de même que la mise à mort par arme à feu des spécimens capturés vivants dans ces pièges. Le piégeage est encadré par l'arrêté ministériel du 29 janvier 2007 en application du code de l'environnement. Les piégeurs agréés n'ont pas obligation, contrairement aux chasseurs, d'être détenteurs du permis de chasser pour exercer leur activité. Pour autant, s'ils mettent à mort par arme à feu les animaux capturés, ils doivent être néanmoins titulaires de l'autorisation nécessaire pour la détention, le port, l'utilisation, le transport voire l'achat de l'arme employée et de ses munitions. Les conditions d'emploi d'une arme à feu pour la chasse ou pour la destruction d'animaux d'espèces classées « nuisibles » sont définies dans l'arrêté ministériel du 1er août 1986 modifié. Si les piégeurs veulent utiliser des armes et des munitions relevant de la catégorie B, ils doivent être titulaires à titre individuel des autorisations pour ce faire, conformément aux dispositions applicables en matière de détention et d'utilisation des armes à feu définies non pas dans le code de l'environnement mais dans le code de la sécurité intérieure. Les piégeurs n'ont pas obligation de mettre à mort les animaux classés « nuisibles » et capturés vivants dans des pièges de catégorie 1, 3 ou 4 (cages-pièges, pièges à lacets) par arme à feu. Ils ont la possibilité de mettre à mort ces animaux à l'aide de tout moyen ou méthode qui ne serait pas susceptible d'être considéré comme un acte de cruauté ou un mauvais traitement aux animaux au sens des articles 521-1 et R. 654-1 du code pénal.
