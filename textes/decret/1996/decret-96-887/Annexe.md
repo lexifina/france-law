@@ -22,9 +22,9 @@ Conformément aux dispositions des articles 27, 64, 64-1, 64-1-2, 64-2 et 64-3 d
 
 6° Les missions d'assistance aux détenus au cours de procédures disciplinaires en relation avec leur détention, de mesures d'isolement d'office, de prolongation de ces mesures, ou de levée, sans leur accord, de placements à l'isolement à leur demande.
 
-Conformément aux dispositions du deuxième alinéa de l'article 21-1 de la loi n° 71-1130 du 31 décembre 1971, la Carpa reçoit également le produit des recettes prévues aux articles 302 bis Y, 1001 et 1018 A du code général des impôts. Cette dotation, qui est arrêtée par le Conseil national des barreaux et versée par l'Union nationale des caisses de règlements pécuniaires des avocats dans le cadre de la convention de gestion prévue au deuxième alinéa de l'article 21-1 de la loi n° 71-1130 du 31 décembre 1971, est intégralement affectée à la rétribution des avocats pour les missions d'aide juridictionnelle.
+Conformément aux dispositions du deuxième alinéa de l'article 21-1 de la loi n° 71-1130 du 31 décembre 1971, la Carpa reçoit également le produit des recettes prévues à l'article 1001 du code général des impôts et au V de l'article 42 de la loi n° 2015-1785 du 29 décembre 2015 de finances pour 2016. Cette dotation, qui est arrêtée par le Conseil national des barreaux et versée par l'Union nationale des caisses de règlements pécuniaires des avocats dans le cadre de la convention de gestion prévue au deuxième alinéa de l'article 21-1 de la loi n° 71-1130 du 31 décembre 1971, est intégralement affectée à la rétribution des avocats pour les missions d'aide juridique. (1)
 
-Ces fonds sont versés sur le compte spécial prévu à l'article 29 de la loi du 10 juillet 1991 précitée où ils font l'objet d'enregistrements distincts en ce qui concerne leur affectation définie ci-dessus à l'aide juridictionnelle et aux différentes aides à l'intervention de l'avocat. Les enregistrements distinguent également l'origine des fonds affectés à l'aide juridictionnelle (dotation de l'Etat, produit des recettes prévues aux articles 302 bis Y, 1001 et 1018 A du code général des impôts).
+Ces fonds sont versés sur le compte spécial prévu à l'article 29 de la loi du 10 juillet 1991 précitée où ils font l'objet d'enregistrements distincts en ce qui concerne leur affectation définie ci-dessus à l'aide juridictionnelle et aux différentes aides à l'intervention de l'avocat. Les enregistrements distinguent également l'origine des fonds affectés à l'aide juridique (dotation de l'Etat, produit des recettes prévues à l'article 1001 du code général des impôts et au V de l'article 42 de la loi n° 2015-1785 du 29 décembre 2015 de finances pour 2016). (1)
 
 Une dotation complémentaire peut être versée conformément aux articles 91 et 132-6 du décret susmentionné, dans l'hypothèse où le barreau a conclu avec le tribunal de grande instance près duquel il est établi un protocole relatif à l'organisation de la défense, homologué par un arrêté du garde des sceaux, ministre de la justice. Dans ce cas il convient de se référer aux dispositions contenues dans ledit protocole (cf. chapitre IV).
 
@@ -54,7 +54,7 @@ Article 3
 
 Les fonds sont versés par l'Etat sur le compte Carpa-aide juridictionnelle dont les références ont été communiquées à l'ordonnateur compétent ou son délégataire. Ils sont ensuite, en fonction de leur destination fixée par l'arrêté attributif des dotations, répartis à l'initiative de la Carpa sur les comptes mentionnés à l'article 2, à l'exception du compte Emploi des produits financiers.
 
-Les fonds sont versés par l'Union nationale des caisses de règlements pécuniaires des avocats sur le compte "Carpa-aide juridictionnelle", dont les références lui ont été communiquées.
+Les fonds sont versés par l'Union nationale des caisses de règlements pécuniaires des avocats sur le compte " Carpa-aide juridictionnelle ", dont les références lui ont été communiquées.
 
 Lorsque les fonds sont placés, ils le sont selon les dispositions prévues par le chapitre II.
 
@@ -86,7 +86,7 @@ Les placements de fonds correspondant aux dotations reçues au titre de l'aide j
 
 Les fonds versés par l'Etat, à l'exception de la dotation complémentaire au titre du protocole conclu en application des articles 91 et 132-6 du décret du 19 décembre 1991 susvisé, ne peuvent avoir d'autre destination finale que la rétribution des avocats au titre des missions d'aide juridictionnelle et d'aide à l'intervention de l'avocat.
 
-Les fonds versés en application du deuxième alinéa de l'article 21-1 de la loi n° 71-1130 du 31 décembre 1971 ne peuvent avoir d'autre destination finale que la rétribution des avocats au titre des missions d'aide juridictionnelle.
+Les fonds versés en application du deuxième alinéa de l'article 21-1 de la loi n° 71-1130 du 31 décembre 1971 ne peuvent avoir d'autre destination finale que la rétribution des avocats au titre des missions d'aide juridique. (1)
 
 Article 9
 
@@ -126,11 +126,11 @@ La rétribution finale due à l'avocat ayant accompli une mission d'aide juridic
 
 2° Et, selon le cas :
 
--d'une attestation de mission délivrée par le greffe ;
+-d'une attestation de mission délivrée par le greffe ou d'une attestation de mission adressée au mandataire par le moyen de l'application informatique mentionnée à l'article R. 414-1 du code de justice administrative accompagnée de l'accusé de réception délivré par l'application informatique lors de la consultation de cette pièce ; (2)
 
 -d'une ordonnance du président de la juridiction saisie ;
 
--d'une attestation de mission délivrée dans le cadre de pourparlers transactionnels ou d'une procédure participative par le président du bureau d'aide juridictionnelle.
+-d'une attestation de mission délivrée dans le cadre d'un divorce par consentement mutuel prévu à l'article 229-1 du code civil, de pourparlers transactionnels ou d'une procédure participative par le président du bureau d'aide juridictionnelle.
 
 Article 14
 
@@ -138,13 +138,13 @@ Toutefois, lorsqu'un mineur demande, conformément aux dispositions de l'article
 
 Article 15
 
-La copie de la décision d'admission est directement transmise par le bureau d'aide juridictionnelle à la Carpa. L'attestation de mission et l'attestation de fin de mission délivrée dans le cadre de pourparlers transactionnels ou d'une procédure participative sont remises à l'avocat.
+La copie de la décision d'admission est directement transmise par le bureau d'aide juridictionnelle à la Carpa. L'attestation de mission et l'attestation de fin de mission délivrée dans le cadre d'un divorce par consentement mutuel prévu à l'article 229-1 du code civil, de pourparlers transactionnels ou d'une procédure participative sont remises à l'avocat.
 
 Article 16
 
 Le montant de la rétribution due à l'avocat pour les missions d'aide juridictionnelle totale est fixé sur la base de l'une ou plusieurs des options suivantes :
 
-1° Rétribution égale à la contribution de l'Etat (renvoi aux dispositions législatives et réglementaires applicables : la rétribution est alors égale au produit du nombre d'unités de valeur de base porté sur l'attestation de mission, sur l'ordonnance du président de la juridiction saisie ou sur l'attestation de fin de mission délivrée dans le cadre de pourparlers transactionnels ou d'une procédure participative et du montant de l'unité de valeur en vigueur à la date de l'achèvement de la mission) ;
+1° Rétribution égale à la contribution de l'Etat (renvoi aux dispositions législatives et réglementaires applicables : la rétribution est alors égale au produit du nombre d'unités de valeur de base porté sur l'attestation de mission, sur l'ordonnance du président de la juridiction saisie ou sur l'attestation de fin de mission délivrée dans le cadre d'un divorce par consentement mutuel prévu à l'article 229-1 du code civil, de pourparlers transactionnels ou d'une procédure participative et du montant de l'unité de valeur en vigueur soit à la date de l'achèvement de la mission pour les procédures dont la date d'admission à l'aide juridictionnelle est antérieure au 1er janvier 2016, soit à la date d'admission à l'aide juridictionnelle pour les procédures dont la date d'admission à l'aide juridictionnelle est postérieure au 31 décembre 2015) ; (1)
 
 2° Rétribution due par procédure, calculée selon des modalités particulières, pour les missions d'aide juridictionnelle totale (à déterminer) ;
 
@@ -224,7 +224,7 @@ Il fournit les références du compte ouvert dans les livres d'un établissement
 
 Article 22
 
-L'avocat doit remettre sans délai à la Carpa les attestations de mission, ordonnances et attestations de fin de mission délivrée dans le cadre de pourparlers transactionnels ou d'une procédure participative qui lui ont été délivrées ainsi que les imprimés prévus pour les interventions au cours des procédures non juridictionnelles.
+L'avocat doit remettre sans délai à la Carpa les attestations de mission, ordonnances et attestations de fin de mission délivrée dans le cadre d'un divorce par consentement mutuel prévu à l'article 229-1 du code civil, de pourparlers transactionnels ou d'une procédure participative qui lui ont été délivrées ainsi que les imprimés prévus pour les interventions au cours des procédures non juridictionnelles.
 
 Article 23
 
@@ -330,13 +330,13 @@ Article 37
 
 I.-La Carpa transmet à l'ordonnateur compétent un état de trésorerie mensuel dont le modèle est fixé par arrêté du garde des sceaux, ministre de la justice. Cet état récapitule mensuellement au regard des dotations versées ventilées selon leur origine :
 
-1° Les montants des rétributions finales et des provisions versées aux avocats pour les missions d'aide juridictionnelle en matière civile et administrative, d'une part, et en matière pénale, d'autre part ;
+1° Le nombre d'interventions et les montants des rétributions finales et des provisions versées aux avocats pour les missions d'aide juridictionnelle en matière civile et administrative, d'une part, et en matière pénale, d'autre part ; (1)
 
-2° Le nombre d'interventions et les montants des rétributions versées par nature d'intervention pour les interventions des avocats au cours de l'audition libre, de la garde à vue, de la retenue ou de la rétention dans les conditions prévues par le code de procédure pénale, de la retenue douanière ou de la retenue d'un étranger aux fins de vérification de son droit de circulation ou de séjour ;
+2° Le nombre d'interventions et les montants des rétributions versées par nature d'intervention pour les interventions des avocats au cours de l'audition libre, de la garde à vue, de la retenue ou de la rétention dans les conditions prévues par le code de procédure pénale, de la retenue douanière ou de la retenue d'un étranger aux fins de vérification de son droit de circulation ou de séjour ; (1)
 
-2° bis Les montants des rétributions versées aux avocats pour les missions d'assistance aux personnes déférées devant le procureur de la République en application de l'article 393 du code de procédure pénale ;
+2° bis Le nombre d'interventions et les montants des rétributions versées aux avocats pour les missions d'assistance aux personnes déférées devant le procureur de la République en application de l'article 393 du code de procédure pénale ; (1)
 
-3° Les montants des rétributions versées aux avocats pour l'aide à l'intervention en matière de médiation et de composition pénales ainsi qu'au titre de la mesure prévue à l'article 12-1 de l'ordonnance du 2 février 1945 précitée.
+3° Le nombre d'interventions et les montants des rétributions versées aux avocats pour l'aide à l'intervention en matière de médiation et de composition pénales ainsi qu'au titre de la mesure prévue à l'article 12-1 de l'ordonnance du 2 février 1945 précitée. (1)
 
 4° Les montants des rétributions versées aux avocats pour l'assistance aux détenus au cours de procédures disciplinaires, de mesures d'isolement d'office, de prolongation de ces mesures, ou de levée, sans leur accord, de placements à l'isolement à leur demande.
 
@@ -369,3 +369,9 @@ En vue de l'indemnisation des frais de déplacement qu'ils ont exposés, les avo
 Article 42
 
 Pour les missions d'aide juridictionnelle et d'aides à l'intervention de l'avocat, le montant de la rétribution n'est dû qu'à l'avocat exerçant sa profession dans les conditions prévues par l'article 7 de la loi du 31 décembre 1971 susvisée.
+
+NOTA :
+
+(1) Décret n° 2016-1876 du 27 décembre 2016, art. 49 : Les modifications sont applicables à compter du 1er janvier 2016, conformément au VII de l'article 42 de la loi du 29 décembre 2015 de finances pour 2016.
+
+(2) Décret n° 2016-1876 du 27 décembre 2016, art. 51 : Ces dispositions sont applicables à compter du 1er janvier 2017.
