@@ -1,6 +1,6 @@
 # Article Annexe 41-2
 
-AIDES ACCORDÉES AUX ÉTUDIANTS ET ÉLÈVES SOUS FORME DE BOURSES D'ÉTUDES MENTIONNÉES AUX ARTICLES D. 4151-18 ET D. 4383-1
+AIDES ACCORDÉES AUX ÉTUDIANTS ET ÉLÈVES SOUS FORME DE BOURSES D'ÉTUDES MENTIONNÉES AU DERNIER ALINEA DE L'ARTICLE D. 4383-1
 
 1. Taux minimaux des bourses d'études
 
@@ -18,7 +18,7 @@ TAUX MINIMAUX ANNUELS
 
 |
 
-1er échelon
+1 er échelon
 
 |
 
@@ -26,7 +26,7 @@ TAUX MINIMAUX ANNUELS
 
 |
 
-2e échelon
+2 e échelon
 
 |
 
@@ -34,7 +34,7 @@ TAUX MINIMAUX ANNUELS
 
 |
 
-3e échelon
+3 e échelon
 
 |
 
@@ -42,7 +42,7 @@ TAUX MINIMAUX ANNUELS
 
 |
 
-4e échelon
+4 e échelon
 
 |
 
@@ -50,7 +50,7 @@ TAUX MINIMAUX ANNUELS
 
 |
 
-5e échelon
+5 e échelon
 
 |
 
@@ -68,23 +68,23 @@ PLAFONDS DE RESSOURCES MINIMAUX ANNUELS EN EUROS
 
 |
 
-1er échelon
+1 er échelon
 
 |
 
-2e échelon
+2 e échelon
 
 |
 
-3e échelon
+3 e échelon
 
 |
 
-4e échelon
+4 e échelon
 
 |
 
-5e échelon
+5 e échelon
 
 |
 
@@ -610,7 +610,7 @@ Les parents ont d'autres enfants à charge fiscalement (excepté l'élève ou l'
 
 |
 
-Le père ou la mère élève seul(e) son ou ses enfants
+Le père ou la mère élève seul (e) son ou ses enfants
 
 |
 
@@ -620,7 +620,7 @@ Le père ou la mère élève seul(e) son ou ses enfants
 
 4.-Conditions d'indépendance de logement et de revenu
 
-Les conditions d'indépendance de logement et de revenu mentionnées aux articles D. 4151-18 et D. 4383-1 sont :
+Les conditions d'indépendance de logement et de revenu mentionnées au dernier alinéa de l'article D. 4383-1 sont :
 
 -justifier d'une déclaration fiscale différente de celle de ses parents ;
 
