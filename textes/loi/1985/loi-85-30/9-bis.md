@@ -2,18 +2,10 @@
 
 Les massifs de montagne s'étendant sur plusieurs régions font l'objet de politiques interrégionales. Ces politiques sont retracées dans un schéma interrégional d'aménagement et de développement de massif qui constitue le document d'orientation stratégique du massif.
 
-Ce schéma est préparé par le comité de massif et approuvé par les conseils régionaux concernés, après avis des conseils départementaux concernés. Le schéma interrégional d'aménagement et de développement de massif peut donner lieu à des déclinaisons thématiques. Notamment, il peut être élaboré, à l'initiative des professionnels de la forêt et du bois, un schéma stratégique de massif forestier ayant principalement pour objet de préciser, dans une perspective à moyen terme, les objectifs et les actions concourant à :
+Ce schéma est préparé par le comité de massif et approuvé par les conseils régionaux concernés, après avis des conseils départementaux concernés. Il prend en compte les chartes de parc national ou de parc naturel régional.
 
--la mobilisation de la ressource forestière ;
+Il comprend des volets transversaux relatifs, d'une part, aux mobilités, à l'eau, au climat, à l'air et à l'énergie, à la prévention et la gestion des déchets, à l'usage durable des ressources et aux continuités écologiques et, d'autre part, au développement économique, à l'innovation, à l'internationalisation et au développement de l'aménagement numérique. Ces volets transversaux peuvent être complétés par des chapitres sectoriels consacrés à des questions relatives à l'agriculture, notamment pastorale, à la forêt, à l'industrie, à l'artisanat, au tourisme ou aux services.
 
--la cohérence entre les différentes démarches de développement territorial et entre tous les aspects qui concourent à la valorisation de la forêt, à la compétitivité de la filière de production forestière, de récolte et de valorisation du bois et au développement des usages du bois ;
+Le schéma interrégional d'aménagement et de développement de massif prend en compte les orientations nationales pour la préservation et la remise en bon état des continuités écologiques mentionnées à l'article L. 371-2 du code de l'environnement et les schémas directeurs d'aménagement et de gestion des eaux mentionnés à l'article L. 212-1 du même code, tout en veillant à ce qu'ils soient adaptés aux spécificités des zones de montagne. Les schémas d'aménagement et de gestion des eaux mentionnés à l'article L. 212-3 dudit code peuvent être adaptés aux spécificités des zones de montagne.
 
--la déclinaison des orientations régionales forestières en identifiant les priorités d'action selon l'importance des différentes fonctions de la forêt.
-
-Le schéma interrégional d'aménagement et de développement de massif peut donner lieu à des déclinaisons thématiques. Les politiques interrégionales de massif s'inscrivent dans les orientations définies par la présente loi ainsi que par les schémas de services collectifs prévus à l'article 2 de la loi n° 95-115 du 4 février 1995 d'orientation pour l'aménagement et le développement du territoire.
-
-Deux massifs peuvent faire l'objet d'un schéma interrégional de massifs dans les conditions définies à l'alinéa précédent.
-
-NOTA :
-
-Aux termes du VII de l'article 10 de la loi n° 2015-991 du 7 août 2015, ces dispositions entrent en vigueur à la date de publication de l'ordonnance prévue au III de l'article 13 de ladite loi.
+Les politiques interrégionales de massif s'inscrivent dans les orientations définies par la présente loi ainsi que par les schémas de services collectifs prévus à l'article 2 de la loi n° 95-115 du 4 février 1995 d'orientation pour l'aménagement et le développement du territoire. Les schémas régionaux d'aménagement, de développement durable et d'égalité des territoires mentionnés à l'article L. 4251-1 du code général des collectivités territoriales prennent en compte les schémas interrégionaux d'aménagement et de développement de massif.

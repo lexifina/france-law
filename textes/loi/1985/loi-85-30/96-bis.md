@@ -1,0 +1,3 @@
+# Article 96 bis
+
+Dans le cadre de ses pouvoirs de police administrative définis aux articles L. 2212-1 et L. 2212-2 du code général des collectivités territoriales, le maire peut confier à un opérateur public ou privé, exploitant de remontées mécaniques ou de pistes de ski ou gestionnaire de site nordique, des missions de sécurité sur les pistes de ski, sous réserve que cet opérateur dispose des moyens matériels adaptés et des personnels qualifiés. Il peut lui confier, dans les mêmes conditions, la distribution de secours aux personnes sur les pistes de ski, le cas échéant étendue aux secteurs hors-pistes accessibles par remontées mécaniques et revenant gravitairement sur le domaine skiable.
