@@ -1,6 +1,8 @@
 # Article Annexe I
 
-Liste des départements et collectivités d'outre-mer dans lesquels le tarif des annonces légales en 2016 est égal au tarif de base, soit 4,12 € hors taxe la ligne
+Liste des départements et collectivités d'outre-mer dans lesquels le tarif des annonces légales en 2017 est égal au tarif de base, soit 4,15 € hors taxe la ligne
+
+01 Ain.
 
 03 Allier.
 
@@ -8,7 +10,11 @@ Liste des départements et collectivités d'outre-mer dans lesquels le tarif des
 
 05 Hautes-Alpes.
 
+06 Alpes-Maritimes.
+
 09 Ariège.
+
+10 Aube.
 
 11 Aude.
 
@@ -23,6 +29,8 @@ Liste des départements et collectivités d'outre-mer dans lesquels le tarif des
 16 Charente.
 
 17 Charente-Maritime.
+
+18 Cher.
 
 19 Corrèze.
 
@@ -42,6 +50,8 @@ Liste des départements et collectivités d'outre-mer dans lesquels le tarif des
 
 29 Finistère.
 
+28 Eure-et-Loir.
+
 30 Gard.
 
 31 Haute-Garonne.
@@ -54,13 +64,23 @@ Liste des départements et collectivités d'outre-mer dans lesquels le tarif des
 
 35 Ille-et-Vilaine.
 
+36 Indre.
+
+37 Indre-et-Loire.
+
 39 Jura.
 
 40 Landes.
 
+41 Loir-et-Cher.
+
+42 Loire.
+
 43 Haute-Loire.
 
 44 Loire-Atlantique.
+
+45 Loiret.
 
 46 Lot.
 
@@ -71,6 +91,10 @@ Liste des départements et collectivités d'outre-mer dans lesquels le tarif des
 49 Maine-et-Loire.
 
 50 Manche.
+
+51 Marne.
+
+52 Haute-Marne.
 
 53 Mayenne.
 

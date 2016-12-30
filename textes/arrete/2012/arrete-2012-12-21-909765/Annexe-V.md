@@ -1,9 +1,15 @@
 # Article Annexe V
 
-Liste des départements dans lesquels le tarif des annonces légales en 2016 est égal au tarif de base majoré de 0,59 €, soit 4,71 € hors taxe la ligne
+Liste des départements dans lesquels le tarif des annonces légales en 2017 est égal au tarif de base majoré de 1,10 €, soit 5,25 € hors taxe la ligne
 
-27 Eure.
+59 Nord.
 
-76 Seine-Maritime.
+62 Pas-de-Calais.
 
-974 La Réunion.
+77 Seine-et-Marne.
+
+78 Yvelines.
+
+91 Essonne.
+
+95 Val-d'Oise.
