@@ -1,0 +1,9 @@
+# Décision DF-2016-1600 autorisant la société AVIVA ASSURANCES à transférer des données à caractère personnel vers la Tunisie aux fins de gestion, de contrôle et de réalisation de prestations informatiques liés au traitement des rémunérations et de la paie (demande d’autorisation n° 1949392)
+
+- Nature : Decision
+- Type : Autorisation de transfert
+- Numéro : DF-2016-1600
+- Date : 2016-12-31
+- Publication : 2017-02-09
+- État : VIGUEUR
+- Légifrance : https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000034010385
