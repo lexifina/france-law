@@ -1,6 +1,6 @@
 # Article 6 bis
 
-I. - L'indemnisation de la valeur marchande objective des animaux est versée à l'éleveur sur présentation des justificatifs de l'abattage de l'ensemble des animaux visés par la décision et, le cas échéant, de leur valorisation bouchère. Les animaux qui auraient péri postérieurement à l'expertise ne sont pas indemnisés.
+I. - L'indemnisation de la valeur marchande objective des animaux est versée à l'éleveur sur présentation des justificatifs de l'abattage ou de la destruction de l'ensemble des animaux visés par la décision et, le cas échéant, de leur valorisation bouchère. Les animaux qui auraient péri postérieurement à l'expertise ne sont pas indemnisés.
 
 L'indemnisation des frais directement liés au renouvellement du cheptel est versée sur la base des justificatifs suivants :
 
