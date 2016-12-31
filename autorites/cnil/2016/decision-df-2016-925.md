@@ -1,0 +1,9 @@
+# Décision DF-2016-925 autorisant la société INTERNATIONAL MANAGEMENT GROUP SAS à transférer des données à caractère personnel vers les Etats-Unis aux fins d’entretien d’une documentation et de suivi des contrats relatifs aux clients et prestataires (demande d’autorisation n°1915119)
+
+- Nature : Decision
+- Type : Autorisation de transfert
+- Numéro : DF-2016-925
+- Date : 2016-12-31
+- Publication : 2016-12-02
+- État : VIGUEUR
+- Légifrance : https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000033101557
