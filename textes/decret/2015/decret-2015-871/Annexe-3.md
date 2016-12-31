@@ -824,7 +824,7 @@ Surfaces pastorales
 
 |
 
-80 €/ ha
+120 €/ ha
 
 |
 
@@ -844,7 +844,7 @@ Autres surfaces éligibles
 
 |
 
-100 €/ ha
+150 €/ ha
 
 |
 
@@ -890,7 +890,7 @@ Plafond
 
 |
 
-10 000 €
+13 889 €
 
 |
 
