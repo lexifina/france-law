@@ -1,0 +1,9 @@
+# Décision DF-2016-487 autorisant la société HVM PIZZA à transférer des données à caractère personnel vers l’Australie aux fins d’analyse statistique de l’activité des magasins Domino’s Pizza en France (demande d’autorisation n°1912299)
+
+- Nature : Decision
+- Type : Autorisation de transfert
+- Numéro : DF-2016-487
+- Date : 2016-12-31
+- Publication : 2016-06-03
+- État : VIGUEUR
+- Légifrance : https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000032618683
