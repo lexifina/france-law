@@ -2,6 +2,14 @@
 
 FONCTIONS EXERCÉES POUVANT OUVRIR DROIT AU VERSEMENT DE LA NOUVELLE BONIFICATION INDICIAIRE
 
-I. ― Fonction comportant l'exercice d'une responsabilité ou une technicité particulière dans le domaine de la gestion du personnel, dans le domaine des ressources humaines.
+Fonctions comportant l'exercice d'une responsabilité ou d'une technicité particulière dans les domaines suivants :
 
-II. ― Fonction comportant l'exercice d'une responsabilité ou une technicité particulière dans le domaine scientifique, dans le domaine technique.
+I.-Gestion du personnel ou des ressources humaines.
+
+II.-Budgétaire, financier et logistique.
+
+III.-Scientifique et technique.
+
+IV.-Informatique.
+
+V.-Immobilier.
