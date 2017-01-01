@@ -2,7 +2,7 @@
 
 LISTE DES DOCUMENTS ADMIS EN ÉQUIVALENCE DE L'ATTESTATION DE FORMATION DE BASE À L'HYGIÈNE
 
-Certificat d'aptitude professionnelle (CAP) délivré par les services de l'enseignement technique, ou titre professionnel délivré par l'Association nationale pour la formation professionnelle pour adultes (AFPA) pour l'une des spécialités de cuisinier ou de cuisinier pâtissier reconnu de niveau V ou de niveau IV.
+Certificat d'aptitude professionnelle (CAP) délivré par les services de l'enseignement technique, ou titre professionnel délivré par l'établissement mentionné à l'article L. 5315-1 du code du travail pour l'une des spécialités de cuisinier ou de cuisinier pâtissier reconnu de niveau V ou de niveau IV.
 
 Brevet de la spécialité de cuisinier de la marine nationale (brevet élémentaire au moins).
 

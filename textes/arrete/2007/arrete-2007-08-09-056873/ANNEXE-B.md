@@ -1,10 +1,10 @@
 # Article ANNEXE B
 
-I. - Droit civil
+I.-Droit civil
 
 1. Les personnes
 
-A. - Les personnes physiques :
+A.-Les personnes physiques :
 
 Droits civils, conditions de jouissance et de privation des droits civils ;
 
@@ -12,7 +12,7 @@ Nom ;
 
 Domicile.
 
-B. - Les personnes morales :
+B.-Les personnes morales :
 
 Nature de la personnalité morale ;
 
@@ -24,7 +24,7 @@ Conséquences de la personnalité morale.
 
 2. La famille
 
-A. - Le mariage :
+A.-Le mariage :
 
 Conditions ;
 
@@ -32,13 +32,13 @@ Les effets et les conséquences juridiques de l'état d'époux ;
 
 Dissolution.
 
-B. - Les unions hors mariage :
+B.-Les unions hors mariage :
 
 Le pacte civil de solidarité (PACS), conditions, effets, rupture ;
 
 Le concubinage.
 
-C. - La filiation :
+C.-La filiation :
 
 Filiation légitime, filiation naturelle, conditions et effets.
 
@@ -48,25 +48,25 @@ Adoption plénière, adoption simple, conditions et effets.
 
 3. Les incapacités
 
-A. - Règles de capacité et d'incapacité.
+A.-Règles de capacité et d'incapacité.
 
-B. - Les mineurs :
+B.-Les mineurs :
 
 L'autorité parentale ;
 
 Administration légale et tutelle.
 
-C. - Les régimes de protection des incapables majeurs.
+C.-Les régimes de protection des incapables majeurs.
 
 4. Les obligations
 
-A. - Les sources des obligations :
+A.-Les sources des obligations :
 
 Les catégories d'actes juridiques ;
 
 L'autonomie de la volonté.
 
-B. - Le contrat :
+B.-Le contrat :
 
 Conditions de formation ;
 
@@ -76,13 +76,13 @@ Effet du contrat ;
 
 L'inexécution du contrat.
 
-C. - Le fait juridique :
+C.-Le fait juridique :
 
 La responsabilité extra-contractuelle.
 
 5. Les biens
 
-A. - Le droit de propriété :
+A.-Le droit de propriété :
 
 Etendue, propriété collective ;
 
@@ -90,7 +90,7 @@ Mode d'acquisition de la propriété des meubles et immeubles ;
 
 Sanctions et preuves du droit de propriété.
 
-B. - Les droits réels principaux :
+B.-Les droits réels principaux :
 
 L'usufruit ;
 
@@ -98,7 +98,7 @@ Bail à construction et bail emphytéotique.
 
 6. Procédure civile
 
-A. - L'organisation judiciaire :
+A.-L'organisation judiciaire :
 
 1. Les auxiliaires de justice.
 
@@ -108,23 +108,23 @@ Les juridictions de l'ordre pénal ;
 
 Les juridictions de l'ordre civil.
 
-B. - Les voies de recours :
+B.-Les voies de recours :
 
 Les voies de recours ordinaires ;
 
 Les voies de recours extraordinaires.
 
-II. - Droit du travail
+II.-Droit du travail
 
 1. Les sources du droit du travail
 
-A. - Les sources internationales :
+A.-Les sources internationales :
 
 L'Organisation internationale du travail : historique et organisation ; les conventions et recommandations de l'OIT sur les inspections du travail en matière de réglementation du travail, en matière d'emploi ;
 
 Le droit social communautaire : fondements et instruments de ce droit, ses effets en droit interne sur la réglementation du travail, le dialogue social.
 
-B. - Les sources internes :
+B.-Les sources internes :
 
 Origine et développement du droit du travail ; les sources de ce droit : la loi, le règlement, les accords collectifs, les usages.
 
@@ -184,7 +184,7 @@ Les services de santé au travail. La sécurité sociale et son rôle de préven
 
 7. Emploi et formation professionnelle
 
-A. - L'accès à l'emploi :
+A.-L'accès à l'emploi :
 
 Les aides au développement et au maintien de l'emploi ;
 
@@ -194,19 +194,19 @@ L'accès à l'emploi des travailleurs handicapés ;
 
 L'emploi des travailleurs étrangers.
 
-B. - Le marché du travail :
+B.-Le marché du travail :
 
 Organisation et fonctionnement :
 
-Le service public de l'emploi : les services du ministère chargé du travail, de l'emploi et de la formation professionnelle ; l'institution mentionnée à l'article L. 5312-1 du code du travail ; l'Association nationale pour la formation professionnelle des adultes ; les organismes de l'assurance chômage.
+Le service public de l'emploi : les services du ministère chargé du travail, de l'emploi et de la formation professionnelle ; l'institution mentionnée à l'article L. 5312-1 du code du travail ; l'établissement mentionné à l'article L. 5315-1 du code du travail ; les organismes de l'assurance chômage.
 
-C. - Les travailleurs privés d'emploi :
+C.-Les travailleurs privés d'emploi :
 
 L'indemnisation du chômage ;
 
 L'aide au retour à l'emploi.
 
-D. - Les entreprises en difficulté :
+D.-Les entreprises en difficulté :
 
 La prévention et l'accompagnement des licenciements économiques ;
 
@@ -214,7 +214,7 @@ Les interventions du Fonds national de l'emploi ;
 
 Les dispositifs de cession et de reprise d'entreprises en difficulté.
 
-E. - La formation professionnelle tout au long de la vie :
+E.-La formation professionnelle tout au long de la vie :
 
 Les obligations des entreprises ;
 
@@ -222,7 +222,7 @@ Les droits des salariés ;
 
 Le système de formation professionnelle, organisation et financement.
 
-III. - Gestion des ressources humaines
+III.-Gestion des ressources humaines
 
 1. Notions générales
 
@@ -270,7 +270,7 @@ Les instances paritaires.
 
 Démarches qualité, projets de service.
 
-IV. - Gestion comptable et financière des entreprises
+IV.-Gestion comptable et financière des entreprises
 
 1. Notions fondamentales de comptabilité générale
 
@@ -280,13 +280,13 @@ La classification des comptes : les plans comptables, le nouveau plan comptable 
 
 Opérations d'inventaire et établissement des documents de synthèse :
 
-- le compte de résultat ;
+-le compte de résultat ;
 
-- le bilan ;
+-le bilan ;
 
-- le tableau de financement et étude de l'annexe ;
+-le tableau de financement et étude de l'annexe ;
 
-- principes de consolidation des comptes : les états comptables consolidés.
+-principes de consolidation des comptes : les états comptables consolidés.
 
 2. Notions fondamentales de comptabilité analytique
 
@@ -298,7 +298,7 @@ Analyse de la rentabilité de l'entreprise.
 
 3. Eléments de gestion financière
 
-A. - L'analyse financière, diagnostics financiers et instruments d'analyse :
+A.-L'analyse financière, diagnostics financiers et instruments d'analyse :
 
 Le bilan fonctionnel, fonds de roulement et fonds de roulement fonctionnel ;
 
@@ -312,7 +312,7 @@ Méthodes de construction du tableau de financement ;
 
 Analyse de résultat (valeur ajoutée, excédent d'exploitation brut).
 
-B. - Gestion financière :
+B.-Gestion financière :
 
 Gestion de la trésorerie, conditions bancaires ;
 
@@ -320,7 +320,7 @@ L'endettement, la politique de distribution ;
 
 Stratégie de la croissance : l'investissement et son financement, stratégie de la croissance équilibrée.
 
-C. - La décision financière :
+C.-La décision financière :
 
 Théorie de la décision ;
 
@@ -334,17 +334,17 @@ Choix de la structure financière et coût du capital.
 
 4. Eléments de contrôle de la gestion
 
-A. - Contrôle budgétaire :
+A.-Contrôle budgétaire :
 
 Budgets et plans à moyen terme, les tableaux de bord ;
 
 Les analyses différentielles, surplus, écarts.
 
-B. - Contrôle de gestion :
+B.-Contrôle de gestion :
 
 Contrôle de la fabrication, des services, des ventes, des stocks.
 
-V. - Géographie humaine, économique et régionale en France et en Europe
+V.-Géographie humaine, économique et régionale en France et en Europe
 
 1. La répartition de la population
 
@@ -356,7 +356,7 @@ b) Peuplement, migrations, populations rurales et urbaines, répartition de la c
 
 a) Villes et agglomérations urbaines, activités sectorielles et territoire, les conséquences sociales et humaines de la croissance récente des villes, métropoles et mégalopoles.
 
-b) Notions de région, identité, territoire, centre/périphérie, réseaux et systèmes urbains.
+b) Notions de région, identité, territoire, centre/ périphérie, réseaux et systèmes urbains.
 
 c) Problèmes spatiaux et aménagement du territoire régional.
 

@@ -3976,7 +3976,7 @@ Pôle emploi et ses cotraitants (Cap emploi)
 
 |
 
-Association nationale pour la formation professionnelle des adultes (AFPA)
+établissement mentionné à l'article L. 5315-1 du code du travail
 
 |
 
