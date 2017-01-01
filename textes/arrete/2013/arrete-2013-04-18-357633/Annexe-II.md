@@ -2,15 +2,15 @@
 
 ASSIGNATIONS COMPTABLES PARTICULIÈRES DES DÉPENSES DE RÉMUNÉRATION DES PERSONNELS DE L'ÉTAT (MINISTÈRES CIVILS)
 
-A. - Ministère des affaires étrangères et du développement international
+A.-Ministère des affaires étrangères et du développement international :
 
 CATÉGORIE DE PERSONNEL
 
 |
 
-DIRECTION DES FINANCES PUBLIQUES CHARGÉE DE LA PAYE
+DIRECTION DES FINANCES PUBLIQUES
 
-sans ordonnancement préalable
+chargée de la paye sans ordonnancement préalable
 
 |
 
@@ -22,15 +22,15 @@ Etranger
 
 |
 
-B. - Ministère de la culture et de la communication
+B.-Ministère de la culture et de la communication :
 
 CATÉGORIE DE PERSONNEL
 
 |
 
-DIRECTION DES FINANCES PUBLIQUES CHARGÉE DE LA PAYE
+DIRECTION DES FINANCES PUBLIQUES CHARGÉE
 
-sans ordonnancement préalable
+de la paye sans ordonnancement préalable
 
 |
 
@@ -50,15 +50,15 @@ Paris
 
 |
 
-C. - Ministère de l'agriculture, de l'agroalimentaire et de la forêt
+C.-Ministère de l'agriculture, de l'agroalimentaire et de la forêt :
 
 CATÉGORIE DE PERSONNELS
 
 |
 
-DIRECTION DES FINANCES PUBLIQUES CHARGÉE DE LA PAYE
+DIRECTION DES FINANCES PUBLIQUES CHARGÉE
 
-sans ordonnancement préalable
+de la paye sans ordonnancement préalable
 
 |
 
@@ -94,15 +94,15 @@ Hauts-de-Seine
 
 |
 
-D. - Services déconcentrés du ministère de l'éducation nationale, de l'enseignement supérieur et de la recherche
+D.-Services déconcentrés du ministère de l'éducation nationale, de l'enseignement supérieur et de la recherche :
 
 ACADÉMIE
 
 |
 
-DIRECTION DES FINANCES PUBLIQUES CHARGÉE DE LA PAYE
+DIRECTION DES FINANCES PUBLIQUES CHARGÉE
 
-sans ordonnancement préalable
+de la paye sans ordonnancement préalable
 
 |
 
@@ -118,7 +118,7 @@ Paris (enseignement du 1er et du 2nd degré)
 
 |
 
-E. - Ministère des finances et des comptes publics et ministère de l'économie, de l'industrie et du numérique
+E.-Ministère des finances et des comptes publics et ministère de l'économie, de l'industrie et du numérique :
 
 DIRECTION GÉNÉRALE DES DOUANES ET DROITS INDIRECTS
 
@@ -128,9 +128,9 @@ Service
 
 |
 
-Direction des finances publiques chargée de la paye
+Direction des finances publiques
 
-sans ordonnancement préalable
+chargée de la paye sans ordonnancement préalable
 
 |
 
@@ -262,7 +262,17 @@ Gironde
 
 |
 
-Services spécialisés de la direction générale des finances publiques
+SERVICES SPÉCIALISÉS DE LA DIRECTION GÉNÉRALE DES FINANCES PUBLIQUES
+
+|
+
+Service
+
+|
+
+Direction des finances publiques
+
+chargée de la paye sans ordonnancement préalable
 
 |
 
@@ -370,23 +380,15 @@ Hauts-de-Seine
 
 |
 
-F. - Ministère de l'intérieur
+F.-Ministère de l'intérieur :
 
 SERVICE OU CATÉGORIE DE PERSONNEL
 
 |
 
-DIRECTION DES FINANCES PUBLIQUES CHARGÉE DE LA PAYE
+DIRECTION DES FINANCES PUBLIQUES
 
-sans ordonnancement préalable
-
-|
-
-Bureau des cultes du Bas-Rhin et du Haut-Rhin
-
-|
-
-Moselle
+chargée de la paye sans ordonnancement préalable
 
 |
 
@@ -434,7 +436,7 @@ Préfecture de l'Ariège
 
 |
 
-Gironde
+Bouches-du-Rhône à compter du 1er mars 2017
 
 |
 
@@ -458,7 +460,7 @@ Préfecture de l'Aveyron
 
 |
 
-Gironde
+Bouches-du-Rhône à compter du 1er juillet 2017
 
 |
 
@@ -478,7 +480,7 @@ Isère
 
 |
 
-Préfecture de la Charente
+Préfecture de Charente
 
 |
 
@@ -486,7 +488,7 @@ Gironde
 
 |
 
-Préfecture de la Charente-Maritime
+Préfecture de Charente-Maritime
 
 |
 
@@ -526,7 +528,7 @@ Bouches-du-Rhône
 
 |
 
-Préfecture de la Côte-d'Or
+Préfecture de la Côte d'Or
 
 |
 
@@ -586,7 +588,7 @@ Préfecture de la Haute-Garonne
 
 |
 
-Gironde
+Bouches-du-Rhône à compter du 1er mai 2017
 
 |
 
@@ -594,7 +596,7 @@ Préfecture du Gers
 
 |
 
-Gironde
+Bouches-du-Rhône à compter du 1er juillet 2017
 
 |
 
@@ -606,7 +608,7 @@ Bouches-du-Rhône
 
 |
 
-Préfecture de l'Indre
+Préfecture d'Indre
 
 |
 
@@ -622,7 +624,7 @@ Ille-et-Vilaine
 
 |
 
-Préfecture de Loir-et-Cher
+Préfecture du Loir-et-Cher
 
 |
 
@@ -646,7 +648,7 @@ Isère
 
 |
 
-Préfecture de la Loire-Atlantique
+Préfecture de Loire-Atlantique
 
 |
 
@@ -666,11 +668,11 @@ Préfecture du Lot
 
 |
 
-Gironde
+Bouches-du-Rhône à compter du 1er juillet 2017
 
 |
 
-Préfecture de la Lozère
+Préfecture de Lozère
 
 |
 
@@ -754,7 +756,7 @@ Préfecture des Hautes-Pyrénées
 
 |
 
-Gironde
+Bouches-du-Rhône à compter du 1er juillet 2017
 
 |
 
@@ -790,7 +792,7 @@ Isère
 
 |
 
-Préfecture de la Haute-Saône
+Préfecture de Haute-Saône
 
 |
 
@@ -818,11 +820,11 @@ Préfecture de Paris
 
 |
 
-Yvelines à compter du 1er janvier 2016
+Yvelines
 
 |
 
-Préfecture de la Seine-Maritime
+Préfecture de Seine-Maritime
 
 |
 
@@ -834,7 +836,7 @@ Préfecture de Seine-et-Marne
 
 |
 
-Yvelines à compter du 1er mars 2016
+Yvelines
 
 |
 
@@ -858,15 +860,15 @@ Préfecture du Tarn
 
 |
 
-Gironde
+Bouches-du-Rhône à compter du 1er juillet 2017
 
 |
 
-Préfecture de Tarn-et-Garonne
+Préfecture du Tarn-et-Garonne
 
 |
 
-Gironde
+Bouches-du-Rhône à compter du 1er juillet 2017
 
 |
 
@@ -878,7 +880,7 @@ Bouches-du-Rhône
 
 |
 
-Préfecture de la Vendée
+Préfecture de Vendée
 
 |
 
@@ -910,7 +912,7 @@ Moselle
 
 |
 
-Préfecture du Territoire de Belfort
+Préfecture du Territoire-de-Belfort
 
 |
 
@@ -922,15 +924,15 @@ Préfecture des Hauts-de-Seine
 
 |
 
-Yvelines à compter du 1er avril 2016
+Yvelines
 
 |
 
-Préfecture de la Seine-Saint-Denis
+Préfecture de Seine-Saint-Denis
 
 |
 
-Yvelines à compter du 1er février 2016
+Yvelines
 
 |
 
@@ -938,15 +940,15 @@ Préfecture du Val-de-Marne
 
 |
 
-Yvelines à compter du 1er mars 2016
+Yvelines
 
 |
 
-Préfecture du Val-d'Oise
+Préfecture du Val d'Oise
 
 |
 
-Yvelines à compter du 1er avril 2016
+Yvelines
 
 |
 
@@ -955,6 +957,34 @@ Secrétariat général pour l'administration du ministère de l'intérieur de Ly
 |
 
 Isère
+
+|
+
+Secrétariat général pour l'administration du ministère de l'intérieur de Marseille
+
+|
+
+Personnels de la police nationale en poste dans le département de l'Ariège
+
+|
+
+Bouches-du-Rhône à compter du 1er mars 2017
+
+|
+
+Personnels de la police nationale en poste dans le département de la Haute-Garonne
+
+|
+
+Bouches-du-Rhône à compter du 1er mai 2017
+
+|
+
+Personnels de la police nationale en poste dans les départements de l'Aveyron, du Gers, du Lot, du Tarn et du Tarn-et-Garonne
+
+|
+
+Bouches-du-Rhône à compter du 1er juillet 2017
 
 |
 
@@ -986,7 +1016,7 @@ Paris
 
 |
 
-Personnels du corps d'encadrement et d'application de la police nationale en poste à Paris, dans les Hauts-de-Seine, en Seine-Saint-Denis et dans le Val-de-Marne
+Personnels du corps d'encadrement et d'application de la police nationale
 
 |
 
@@ -994,39 +1024,7 @@ Paris
 
 |
 
-Personnels du corps d'encadrement et d'application de la police nationale en poste en Seine-et-Marne
-
-|
-
-Paris à compter du 1er janvier 2016
-
-|
-
-Personnels du corps d'encadrement et d'application de la police nationale en poste dans les Yvelines
-
-|
-
-Paris à compter du 1er mars 2016
-
-|
-
-Personnels du corps d'encadrement et d'application de la police nationale en poste en Essonne
-
-|
-
-Paris à compter du 1er février 2016
-
-|
-
-Personnels du corps d'encadrement et d'application de la police nationale en poste dans le Val-d'Oise
-
-|
-
-Paris à compter du 1er avril 2016
-
-|
-
-Personnels administratifs de la police nationale en poste en Seine-et-Marne, dans les Yvelines, en Essonne et dans le Val-d'Oise
+Personnels administratifs de la police nationale
 
 |
 
@@ -1034,15 +1032,19 @@ Yvelines
 
 |
 
-Personnels administratifs de la police nationale en poste à Paris, dans les Hauts-de-Seine, en Seine-Saint-Denis et dans le Val-de-Marne
+Autres services ou catégories de personnels
 
 |
 
-Yvelines à compter du 1er mai 2016
+Bureau des cultes du Bas-Rhin et du Haut-Rhin
 
 |
 
-Chefs de district en poste dans les Terres Australes et Antarctiques Françaises (Archipel de Crozet, Archipel des Kerguelen, Iles Saint-Paul et Amsterdam, Terre-Adélie, Iles Eparses)
+Moselle
+
+|
+
+Chefs de district en poste dans les Terres Australes et Antarctiques françaises (Archipel de Crozet, Archipel des Kerguelen, Iles Saint-Paul et Amsterdam, Terre-Adélie, Iles Eparses)
 
 |
 
@@ -1058,15 +1060,15 @@ Paris
 
 |
 
-G. - Services du Premier ministre-Juridictions administratives et financières
+G.-Services du Premier ministre-Juridictions administratives et financières :
 
 SERVICE OU CATÉGORIE DE PERSONNEL
 
 |
 
-DIRECTION DES FINANCES PUBLIQUES CHARGÉE DE LA PAYE
+DIRECTION DES FINANCES PUBLIQUES
 
-sans ordonnancement préalable
+chargée de la paye sans ordonnancement préalable
 
 |
 
@@ -1094,23 +1096,25 @@ Paris
 
 |
 
-H. - Ministère de l'environnement, de l'énergie et de la mer et ministère du logement et de l'habitat durable
+H.-Ministère de l'environnement, de l'énergie et de la mer et ministère du logement et de l'habitat durable :
 
 SERVICE OU CATÉGORIE DE PERSONNEL
 
 |
 
-DIRECTION DES FINANCES PUBLIQUES CHARGÉE DE LA PAYE
+DIRECTION DES FINANCES PUBLIQUES
 
-sans ordonnancement préalable
-
-|
-
-Directions régionales et interdépartementales de l'équipement et de l'aménagement, de l'environnement et de l'énergie, de l'hébergement et du logement d'Ile-de-France
+chargée de la paye sans ordonnancement préalable
 
 |
 
-Personnel des en poste à Paris et dans les départements des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne
+Directions régionales et interdépartementales de l'équipement et de l'aménagement, de l'environnement et de l'énergie,
+
+de l'hébergement et du logement d'Ile-de-France
+
+|
+
+Personnel en poste à Paris et dans les départements des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne
 
 |
 
@@ -1134,7 +1138,7 @@ Yvelines
 
 |
 
-Personnel en poste dans le département du Val-d'Oise
+Personnel en poste dans le département du Val d'Oise
 
 |
 
@@ -1143,14 +1147,6 @@ Hauts-de-Seine
 |
 
 Autres services ou catégories de personnel
-
-|
-
-Service technique des remontées mécaniques et des ransports guidés de Grenoble
-
-|
-
-Rhône
 
 |
 
@@ -1166,7 +1162,7 @@ Corps des attachés d'administration hors réseau scientifique
 
 |
 
-Paris à compter du 1er juillet 2016
+Paris
 
 |
 
@@ -1174,11 +1170,11 @@ Corps des ingénieurs des travaux publics de l'Etat hors réseau scientifique
 
 |
 
-Val-de-Marne à compter du 1er juillet 2016
+Val-de-Marne
 
 |
 
-Autres personnels de catégorie A en fonctions dans les services déconcentrés de métropole hors réseau scientifique-Assistants de service social, infirmiers d'Etat, lieutenants de port, adjoints techniques des administrations de l'Etat, experts techniques de l'équipement, syndics des gens de mer, agents des services techniques et personnels non titulaires (hors contractuels Berkani )
+Autres personnels de catégorie A en fonctions dans les services déconcentrés de métropole hors réseau scientifique-Assistants de service social, infirmiers d'Etat, lieutenants de port, adjoints techniques des administrations de l'Etat, experts techniques de l'équipement, syndics des gens de mer, agents des services techniques et personnels non titulaires (hors contractuels "Berkani")
 
 |
 
@@ -1186,11 +1182,155 @@ Val-de-Marne
 
 |
 
-Personnels de catégorie B et C ou à statut ouvrier affectés à la direction régionale de l'environnement, de l'aménagement et du logement de Nord-Pas-de-Calais-Picardie
+Personnels de catégorie B et C ou à statut ouvrier affectés à la direction interrégionale de la mer Manche Est Mer du Nord
 
 |
 
-Somme à partir du 1er mai 2016
+Calvados à partir du 1er juin 2017 à l'exception des prises en charge pour lesquelles la date est fixée au 1er janvier 2017
+
+|
+
+Personnels de catégorie B et C ou à statut ouvrier affectés à la direction régionale de l'environnement, de l'aménagement et du logement d'Auvergne-Rhône-Alpes en poste dans les départements de l'Ain, de la Loire et du Rhône
+
+|
+
+Puy-de-Dôme à partir du 1er mai 2017 à l'exception des prises en charge pour lesquelles la date est fixée au 1er janvier 2017
+
+|
+
+Personnels de catégorie B et C ou à statut ouvrier affectés à la direction régionale de l'environnement, de l'aménagement et du logement de Bourgogne-Franche-Comté en poste dans les départements du Doubs, du Jura, de la Haute-Saône et du territoire-de-Belfort
+
+|
+
+Côte d'Or à partir du 1er février 2017 à l'exception des prises en charge pour lesquelles la date est fixée au 1er janvier 2017
+
+|
+
+Personnels de catégorie B et C ou à statut ouvrier affectés à la direction régionale de l'environnement, de l'aménagement et du logement du Grand Est en poste dans les départements des Ardennes, de l'Aube, de la Marne, de la Haute-Marne, du Bas-Rhin et du Haut-Rhin
+
+|
+
+Moselle à partir du 1er juin 2017 à l'exception des prises en charge pour lesquelles la date est fixée au 1er janvier 2017
+
+|
+
+Personnels de catégorie B et C ou à statut ouvrier affectés à la direction régionale de l'environnement, de l'aménagement et du logement des Hauts-de-France en poste dans les départements du Nord et du Pas-de-Calais
+
+|
+
+Somme
+
+|
+
+Personnels de catégorie B et C ou à statut ouvrier affectés à la direction régionale de l'environnement, de l'aménagement et du logement de Normandie en poste dans les départements du Calvados, de la Manche et de l'Orne
+
+|
+
+Seine-Maritime à partir du 1er juin 2017 à l'exception des prises en charge pour lesquelles la date est fixée au 1er janvier 2017
+
+|
+
+Personnels de catégorie B et C ou à statut ouvrier affectés à la direction régionale de l'environnement, de l'aménagement et du logement de Nouvelle-Aquitaine en poste dans les départements de la Charente, de la Charente-Martime, des Deux-Sèvres et de la Vienne
+
+|
+
+Gironde à partir du 1er février 2017 à l'exception des prises en charge pour lesquelles la date est fixée au 1er janvier 2017
+
+|
+
+Personnels de catégorie B et C ou à statut ouvrier affectés à la direction régionale de l'environnement, de l'aménagement et du logement d'Occitanie en poste dans les départements de l'Aude, du Gard, de l'Hérault, de la Lozère et des Pyrénées-Orientales
+
+|
+
+Haute-Garonne à partir du 1er mars 2017 à l'exception des prises en charge pour lesquelles la date est fixée au 1er janvier 2017
+
+|
+
+Personnels de catégorie B et C affectés à la préfecture et dans les directions départementales interministérielles de l'Allier
+
+|
+
+Rhône à partir du 1er mai 2017 à l'exception des prises en charge pour lesquelles la date est fixée au 1er janvier 2017
+
+|
+
+Personnels de catégorie B et C affectés à la préfecture et dans les directions départementales interministérielles de l'Aude
+
+|
+
+Haute-Garonne à partir du 1er mars 2017 à l'exception des prises en charge pour lesquelles la date est fixée au 1er janvier 2017
+
+|
+
+Personnels de catégorie B et C affectés à la préfecture et dans les directions départementales interministérielles du Cantal
+
+|
+
+Rhône à partir du 1er mai 2017 à l'exception des prises en charge pour lesquelles la date est fixée au 1er janvier 2017
+
+|
+
+Personnels de catégorie B et C affectés à la préfecture et dans les directions départementales interministérielles de la Charente
+
+|
+
+Haute-Vienne
+
+|
+
+Personnels de catégorie B et C affectés à la préfecture et dans les directions départementales interministérielles de la Charente-Maritime
+
+|
+
+Haute-Vienne
+
+|
+
+Personnels de catégorie B et C affectés à la préfecture et dans les directions départementales interministérielles du Doubs
+
+|
+
+Côte d'Or à partir du 1er février 2017 à l'exception des prises en charge pour lesquelles la date est fixée au 1er janvier 2017
+
+|
+
+Personnels de catégorie B et C affectés à la préfecture et dans les directions départementales interministérielles du Gard
+
+|
+
+Haute-Garonne à partir du 1er mars 2017 à l'exception des prises en charge pour lesquelles la date est fixée au 1er janvier 2017
+
+|
+
+Personnels de catégorie B et C affectés à la préfecture et dans les directions départementales interministérielles de l'Hérault
+
+|
+
+Haute-Garonne à partir du 1er mars 2017 à l'exception des prises en charge pour lesquelles la date est fixée au 1er janvier 2017
+
+|
+
+Personnels de catégorie B et C affectés à la préfecture et dans les directions départementales interministérielles du Jura
+
+|
+
+Côte d'Or à partir du 1er février 2017 à l'exception des prises en charge pour lesquelles la date est fixée au 1er janvier 2017
+
+|
+
+Personnels de catégorie B et C affectés à la préfecture et dans les directions départementales interministérielles de la Haute-Loire
+
+|
+
+Rhône à partir du 1er mai 2017 à l'exception des prises en charge pour lesquelles la date est fixée au 1er janvier 2017
+
+|
+
+Personnels de catégorie B et C affectés à la préfecture et dans les directions départementales interministérielles de la Lozère
+
+|
+
+Haute-Garonne à partir du 1er mars 2017 à l'exception des prises en charge pour lesquelles la date est fixée au 1er janvier 2017
 
 |
 
@@ -1198,7 +1338,7 @@ Personnels de catégorie B et C affectés à la préfecture et dans les directio
 
 |
 
-Somme à partir du 1er mai 2016
+Somme
 
 |
 
@@ -1206,7 +1346,55 @@ Personnels de catégorie B et C affectés à la préfecture et dans les directio
 
 |
 
-Somme à partir du 1er juin 2016
+Somme
+
+|
+
+Personnels de catégorie B et C affectés à la préfecture et dans les directions départementales interministérielles du Puy-de-Dôme
+
+|
+
+Rhône à partir du 1er mai 2017 à l'exception des prises en charge pour lesquelles la date est fixée au 1er janvier 2017
+
+|
+
+Personnels de catégorie B et C affectés à la préfecture et dans les directions départementales interministérielles des Pyrénées-Orientales
+
+|
+
+Haute-Garonne à partir du 1er mars 2017 à l'exception des prises en charge pour lesquelles la date est fixée au 1er janvier 2017
+
+|
+
+Personnels de catégorie B et C affectés à la préfecture et dans les directions départementales interministérielles de la Haute-Saône
+
+|
+
+Côte d'Or à partir du 1er février 2017 à l'exception des prises en charge pour lesquelles la date est fixée au 1er janvier 2017
+
+|
+
+Personnels de catégorie B et C affectés à la préfecture et dans les directions départementales interministérielles des Deux-Sèvres
+
+|
+
+Haute-Vienne
+
+|
+
+Personnels de catégorie B et C affectés à la préfecture et dans les directions départementales interministérielles de la Vienne
+
+|
+
+Haute-Vienne
+
+|
+
+Personnels de catégorie B et C affectés à la préfecture et dans les directions départementales interministérielles du Territoire-de-Belfort
+
+|
+
+Côte d'Or à partir du 1er février 2017 à l'exception des prises en charge pour lesquelles la date est fixée au 1er janvier 2017
 
 |
 
@@ -1222,7 +1410,15 @@ Centre de valorisation des ressources humaines d'Arras
 
 |
 
-Somme à partir du 1er juin 2016
+Somme
+
+|
+
+Centre de valorisation des ressources humaines de Clermont-Ferrand
+
+|
+
+Rhône à partir du 1er mai 2017 à l'exception des prises en charge pour lesquelles la date est fixée au 1er janvier 2017
 
 |
 
@@ -1230,7 +1426,7 @@ Direction interdépartementale des routes Nord
 
 |
 
-Somme à partir du 1er juin 2016
+Somme
 
 |
 
@@ -1242,15 +1438,23 @@ Val-de-Marne
 
 |
 
-I. - Ministère des affaires sociales et de la santé
+Service technique des remontées mécaniques et des transports guidés de Grenoble
+
+|
+
+Rhône
+
+|
+
+I.-Ministère des affaires sociales et de la santé :
 
 SERVICE
 
 |
 
-DIRECTION DES FINANCES PUBLIQUES CHARGÉE DE LA PAYE
+DIRECTION DES FINANCES PUBLIQUES
 
-sans ordonnancement préalable
+chargée de la paye sans ordonnancement préalable
 
 |
 
@@ -1270,15 +1474,15 @@ Paris
 
 |
 
-J. - Ministère du travail, de l'emploi, de la formation professionnelle et du dialogue social
+J.-Ministère du travail, de l'emploi, de la formation professionnelle et du dialogue social :
 
 SERVICE
 
 |
 
-DIRECTION DES FINANCES PUBLIQUES CHARGÉE DE LA PAYE
+DIRECTION DES FINANCES PUBLIQUES
 
-sans ordonnancement préalable
+chargée de la paye sans ordonnancement préalable
 
 |
 
@@ -1294,6 +1498,4 @@ Direction régionale des entreprises, de la concurrence, de la consommation, du 
 
 |
 
-Paris
-
-|
+Paris |

@@ -8,77 +8,13 @@ ou du responsable d'unité opérationnelle de programme
 
 |
 
-DIRECTION DES FINANCES PUBLIQUES CHARGÉE DE LA PAIE
+DIRECTION DES FINANCES PUBLIQUES
 
-sans ordonnancement préalable
-
-|
-
-Alsace, Champagne-Ardenne et Lorraine
+chargée de la paie sans ordonnancement préalable
 
 |
 
-Bas-Rhin, Haut-Rhin
-
-|
-
-Bas-Rhin
-
-|
-
-Ardennes, Aube, Marne, Haute-Marne
-
-|
-
-Marne
-
-|
-
-Meurthe-et-Moselle, Meuse, Moselle, Vosges
-
-|
-
-Moselle
-
-|
-
-Aquitaine, Limousin et Poitou-Charentes
-
-|
-
-Dordogne, Gironde, Landes, Lot-et-Garonne, Pyrénées-Atlantiques
-
-|
-
-Gironde
-
-|
-
-Corrèze, Creuse, Haute-Vienne
-
-|
-
-Haute-Vienne
-
-|
-
-Charente, Charente-Maritime, Deux-Sèvres, Vienne
-
-|
-
-Haute-Vienne
-
-|
-
-Auvergne et Rhône-Alpes
-
-|
-
-Allier, Cantal, Puy-de-Dôme, Haute-Loire
-
-|
-
-Puy-de-Dôme
+Auvergne-Rhône-Alpes
 
 |
 
@@ -90,6 +26,14 @@ Rhône
 
 |
 
+Allier, Cantal, Puy-de-Dôme, Haute-Loire
+
+|
+
+Puy-de-Dôme
+
+|
+
 Ardèche, Drôme, Isère, Savoie, Haute-Savoie
 
 |
@@ -98,7 +42,7 @@ Isère
 
 |
 
-Bourgogne et Franche-Comté
+Bourgogne-Franche-Comté
 
 |
 
@@ -110,7 +54,7 @@ Côte-d'Or
 
 |
 
-Doubs, Jura, Haute-Saône, Territoire de Belfort
+Doubs, Jura, Haute-Saône, Territoire-de-Belfort
 
 |
 
@@ -134,7 +78,7 @@ Centre-Val de Loire
 
 |
 
-Cher, Eure-et-Loir, Indre, Indre-et-Loire, Loire-et-Cher, Loiret
+Cher, Eure-et-Loir, Indre, Indre-et-Loire, Loir-et-Cher, Loiret
 
 |
 
@@ -142,15 +86,51 @@ Indre-et-Loire
 
 |
 
-Corse
+Grand Est
 
 |
 
-Corse-du-Sud, Haute-Corse
+Ardennes, Aube, Marne, Haute-Marne
 
 |
 
-Corse-du-Sud
+Marne
+
+|
+
+Meurthe-et-Moselle, Meuse, Moselle, Vosges
+
+|
+
+Moselle
+
+|
+
+Bas-Rhin, Haut-Rhin
+
+|
+
+Bas-Rhin
+
+|
+
+Hauts-de-France
+
+|
+
+Aisne, Oise, Somme
+
+|
+
+Somme
+
+|
+
+Nord, Pas-de-Calais
+
+|
+
+Nord
 
 |
 
@@ -198,46 +178,6 @@ Seine-Saint-Denis
 
 |
 
-Languedoc-Roussillon et Midi-Pyrénées
-
-|
-
-Aude, Gard, Hérault, Lozère, Pyrénées-Orientales
-
-|
-
-Hérault
-
-|
-
-Ariège, Aveyron, Haute-Garonne, Gers, Lot, Hautes-Pyrénées, Tarn, Tarn-et-Garonne
-
-|
-
-Haute-Garonne
-
-|
-
-Nord-Pas-de-Calais et Picardie
-
-|
-
-Nord, Pas-de-Calais
-
-|
-
-Nord
-
-|
-
-Aisne, Oise, Somme
-
-|
-
-Somme
-
-|
-
 Normandie
 
 |
@@ -255,6 +195,56 @@ Eure, Seine-Maritime
 |
 
 Seine-Maritime
+
+|
+
+Nouvelle-Aquitaine
+
+|
+
+Charente, Charente-Maritime, Deux-Sèvres, Vienne
+
+|
+
+Haute-Vienne
+
+|
+
+Corrèze, Creuse, Haute-Vienne
+
+|
+
+Haute-Vienne
+
+|
+
+Dordogne, Gironde, Landes, Lot-et-Garonne, Pyrénées-Atlantiques
+
+|
+
+Gironde
+
+|
+
+Occitanie
+
+|
+
+Ariège, Aveyron, Haute-Garonne, Gers, Lot, Hautes-Pyrénées,
+
+Tarn, Tarn-et-Garonne
+
+|
+
+Haute-Garonne
+
+|
+
+Aude, Gard, Hérault, Lozère, Pyrénées-Orientales
+
+|
+
+Hérault
 
 |
 
@@ -287,6 +277,18 @@ Alpes-Maritimes, Var
 |
 
 Alpes-Maritimes
+
+|
+
+Collectivité de Corse
+
+|
+
+Corse-du-Sud, Haute-Corse
+
+|
+
+Corse-du-Sud
 
 |
 
@@ -330,7 +332,7 @@ Collectivités d'outre-mer régies par l'article 74 de la Constitution
 
 |
 
-Saint-Barthélemy
+Saint-Barthélémy
 
 |
 
@@ -342,6 +344,4 @@ Saint-Martin
 
 |
 
-Martinique
-
-|
+Martinique |
