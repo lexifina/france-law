@@ -2,14 +2,14 @@
 
 Compte tenu de leur volonté :
 
-– de favoriser l'accès à la formation des salariés des entreprises bétail et viande ;
+– de favoriser l'accès à la formation des salariés des entreprises bétail et viande   ;
 
-– de développer la mise en œuvre des dispositifs conventionnels et d'entreprise en matière de prévention des risques professionnels ;
+– de développer la mise en œuvre des dispositifs conventionnels et d'entreprise en matière de prévention des risques professionnels   ;
 
-– de favoriser les actions de formations spécifiques à la branche ;
+– de favoriser les actions de formations spécifiques à la branche   ;
 
-– d'accompagner tout projet collectif ou toute action de formation proposée dans le cadre de la commission paritaire nationale de l'emploi et de la formation professionnelle (CPNEFP) de la branche,
+– d'accompagner tout projet collectif ou toute action de formation proposée dans le cadre de la commission paritaire nationale de l'emploi et de la formation professionnelle (CPNEFP) de la branche.
 
-les partenaires sociaux conviennent d'instituer à cet effet, pour les entreprises coopératives bétail et viande d'au moins 10 salariés, une contribution additionnelle mutualisée.
+Les partenaires sociaux conviennent d'instituer, à cet effet, pour les entreprises coopératives bétail et viande d'au moins 11 salariés, une contribution additionnelle mutualisée.
 
-Cette contribution annuelle de 0,08 % sera appelée au plus tard au 1er mars 2016 sur la masse salariale de l'année précédente.
+Cette contribution annuelle de 0,08 % sera appelée au plus tard au 1er mars 2017 sur la masse salariale de l'année précédente.
