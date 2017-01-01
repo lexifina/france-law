@@ -2,7 +2,7 @@
 
 RÉFÉRENTIEL DES CONNAISSANCES POUR LA FORMATION CONTINUE DE CONDUCTEUR DE VOITURE DE TRANSPORT AVEC CHAUFFEUR
 
-A. - Droit des transports publics particuliers et des transports collectifs assurés sous la forme de services occasionnels
+A. - Droit du transport public particulier de personnes
 
 Actualisation des connaissances listées au A de l'annexe I.
 

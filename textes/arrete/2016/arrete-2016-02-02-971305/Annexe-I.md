@@ -1,91 +1,129 @@
 # Article Annexe I
 
-RÉFÉRENTIEL DES CONNAISSANCES POUR LA RÉUSSITE DE L'EXAMEN DE CONDUCTEUR DE VTC
+RÉFÉRENTIEL DE CONNAISSANCES DES ÉPREUVES THÉORIQUES DE L'EXAMEN DE CONDUCTEUR DE VTC
 
-A. - Droit des transports publics particuliers et des transports collectifs assurés sous la forme de services occasionnels
+A. - RÉGLEMENTATION DU TRANSPORT PUBLIC PARTICULIER DE PERSONNES
 
-Le candidat doit connaître :
+Connaître la réglementation s'appliquant aux différents modes de transports publics particuliers : taxis, VTC, véhicules motorisés à deux ou trois roues.
 
-- les textes législatifs et réglementaires s'appliquant au transport de moins de neuf personnes (transport par VTC, taxis, transports collectifs assurés sous la forme de services occasionnels) en distinguant ceux qui s'appliquent aux voitures de transport avec chauffeur ;
+Connaître la réglementation relative à l'utilisation de la voie publique pour la prise en charge de la clientèle pour les différents modes de transports publics particuliers.
 
-- les divers organismes administratifs, consultatifs et professionnels en transport de personnes et leur rôle ;
+Connaître les obligations générales relatives aux véhicules.
 
-- les conditions d'accès à la profession ;
+Connaître les obligations relatives au conducteur : conditions d'accès et d'exercice de la profession, obligations de formation continue.
 
-- les règles relatives à la capacité financière de l'exploitant et les démarches à effectuer auprès du ministère chargé des transports pour la justifier ;
+Connaître la composition et le rôle des divers organismes administratifs, consultatifs et professionnels.
 
-- les documents relatifs à l'exécution de la prestation de transport, au conducteur, au véhicule qui doivent être présentés en cas de contrôle ;
+Connaître les autorités administratives et juridictions compétentes dans le cadre de l'activité de transport public particulier de personnes.
 
-- les agents susceptibles de procéder à des contrôles en entreprise ou sur route et leurs prérogatives respectives ;
+Connaître les obligations du conducteur en matière d'assurance, l'identification des assurances obligatoires et les conséquences à ne pas être assuré.
 
-- les sanctions administratives et/ou pénales encourues en cas d'infraction à la réglementation ;
+Connaître les agents susceptibles de procéder à des contrôles en entreprise ou sur route et leurs prérogatives respectives ; savoir présenter les documents relatifs au conducteur et au véhicule.
 
-- les obligations du conducteur en matière d'assurance, l'identification des assurances obligatoires et les conséquences à ne pas être assuré.
+Connaître les sanctions administratives et/ou pénales encourues en cas d'infraction à la réglementation ainsi que les voies et délais de recours.
 
-B. - Sécurité
+Connaître les règles relatives à la prise en charge des personnes à mobilité réduite.
 
-Le candidat doit connaître :
+Avoir des notions sur la réglementation s'appliquant aux transports collectifs assurés sous la forme de services occasionnels ainsi que sur le transport à la demande.
 
-- les obligations en matière d'entretien et de visite technique des véhicules ;
+Avoir des notions sur les règles s'appliquant aux pratiques de covoiturage entre particuliers et aux offres de transport privé.
 
-- le mécanisme du permis à points ;
+Connaître les dispositions relatives aux intermédiaires, en ce qui concerne la relation avec le conducteur.
 
-- les règles du code de la route : restrictions de circulation, les limitations de vitesse, utilisation de la ceinture de sécurité ;
+Connaître les dispositions relatives aux exploitants : les modalités d'inscription au registre des VTC, les règles relatives à la capacité financière...
 
-- les règles d'une conduite rationnelle pour économiser le carburant, réduire le bruit et préserver le matériel et l'environnement ;
+Connaître les obligations spécifiques relatives aux véhicules d'exploitation (dimensions, puissance, âge...) et connaître leur signalétique.
 
-- les règles de conduite à tenir en cas d'accident ;
+Savoir établir les documents relatifs à l'exécution de la prestation de transport qui doivent être présentés en cas de contrôle.
 
-- les risques liés à l'alcoolémie, l'usage de stupéfiants, la prise de médicaments, le stress, la fatigue ;
+B. - SÉCURITÉ ROUTIÈRE
 
-- les règles de prudence pour préserver la sécurité ;
+Savoir appliquer les règles du code de la route (signalisation, règles de circulation, comportement du conducteur, usage de la ceinture de sécurité, utilisation des voies dédiées...).
 
-- les règles de sécurité concernant l'utilisation du téléphone.
+Connaître et éviter les risques liés à l'alcoolémie, l'usage de stupéfiants, la prise de médicaments, le stress, la fatigue.
 
-C. - Gestion
+Connaître les principes de conduite rationnelle pour économiser le carburant, réduire le bruit et préserver le matériel et l'environnement.
 
-Le candidat doit :
+Savoir appliquer les règles de sécurité concernant l'utilisation des téléphones et ordiphones dans les véhicules.
 
-- savoir identifier les charges entrant dans le calcul du coût de revient et les classer en charges fixes et charges variables ;
+Savoir respecter les obligations en matière d'entretien et de visite technique des véhicules.
 
-- savoir calculer le coût de revient en formule simple (formule monôme et binôme) ;
+Savoir appliquer les règles de conduite à tenir en cas d'accident (protection des victimes, alerte des secours, premiers secours à porter...).
 
-- savoir définir la notion de marge et l'utiliser pour calculer un prix de vente ;
+Savoir rédiger un constat amiable d'accident matériel.
 
-- connaître les différents régimes d'imposition et déclarations fiscales ;
+Connaître les sanctions des infractions au code de la route.
 
-- connaître les différentes formes juridiques d'exploitation (EI, EIRL, EURL, SARL, SASU…) ;
+Connaître la réglementation du permis de conduire (permis à points, permis probatoire, annulation, invalidation et suspension de permis).
 
-- connaître les différentes formalités déclaratives.
+Savoir prendre en charge des passagers et leurs bagages en assurant la sécurité des personnes et des biens.
 
-D. - Relation client
+C. - GESTION
 
-Le candidat doit :
+1. Connaître et savoir appliquer les principes de base de gestion et de comptabilité :
 
-- préparer la mission : définir le besoin du client, établir un devis ;
+- connaître les obligations et documents comptables ;
 
-- savoir accueillir le client ;
+- connaître les charges entrant dans le calcul du coût de revient et les classer en charges fixes et charges variables ;
 
-- connaître l'attitude et la présentation du chauffeur ;
+- connaître les principes de base pour déterminer le produit d'exploitation, le bénéfice, le résultat, les charges, le seuil de rentabilité ;
 
-- savoir être discret, courtois et respectueux du client ;
+- connaître les principes de l'amortissement.
 
-- savoir ouvrir une porte dans les règles de l'art ;
+2. Connaître les différentes formes juridiques d'exploitation (EI, EIRL, EURL, SARL, SASU, SCOP...) et leurs modes d'exploitation (exploitation directe, location-gérance...).
 
-- savoir utiliser un GPS.
+3. Connaître les différents régimes d'imposition et déclarations fiscales.
 
-E. - Langue française
+4. Connaître les différentes formalités déclaratives.
 
-Le candidat doit être en mesure de comprendre un texte de quinze à vingt lignes rédigé en langue française.
+5. Connaître la composition et le rôle des chambres des métiers et de l'artisanat.
 
-F. - Langue anglaise
+6. Savoir définir les différents régimes sociaux (régime général, régime social des indépendants) ; comprendre les principes de cotisations et prestations par branche (maladie, vieillesse, chômage...).
 
-Le candidat doit savoir en anglais :
+7. Savoir établir un devis pour la réalisation d'une prestation et établir la facturation.
+
+8. Savoir calculer le coût de revient en formule simple (formule monôme et binôme).
+
+9. Savoir définir la notion de marge et l'utiliser pour calculer un prix de vente.
+
+D. - DÉVELOPPEMENT COMMERCIAL
+
+Connaître et comprendre les principes généraux du marketing (analyse de marché, ciblage de l'offre, compétitivité, détermination du prix...).
+
+Savoir valoriser les qualités de la prestation commerciale VTC.
+
+Savoir fidéliser ses clients et prospecter pour en obtenir d'autres.
+
+Savoir mener des actions de communication pour faire connaître son entreprise, notamment par internet et les moyens numériques.
+
+Savoir comment développer un réseau de partenaires favorisant l'accès à la clientèle (hôtels, entreprises...).
+
+E. - FRANÇAIS
+
+1. Comprendre un texte simple ou des documents en lien avec l'activité des transports.
+
+2. Comprendre et s'exprimer en français pour :
 
 - accueillir la clientèle ;
 
 - comprendre les demandes des clients ;
 
-- demander des renseignements concernant le confort de la clientèle ;
+- interroger les clients sur leur confort ;
 
-- mener une conversation très simple.
+- tenir une conversation neutre et courtoise avec les clients durant le transport ;
+
+- prendre congé des clients.
+
+F. - ANGLAIS
+
+Comprendre et s'exprimer en anglais, au niveau A2 du Cadre européen commun de référence pour les langues, pour :
+
+- accueillir la clientèle ;
+
+- comprendre les demandes simples des clients ;
+
+- demander des renseignements simples concernant le confort de la clientèle ;
+
+- tenir une conversation très simple durant le transport ;
+
+- prendre congé des clients.
