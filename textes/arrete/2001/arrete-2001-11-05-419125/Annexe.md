@@ -256,7 +256,7 @@ Secrétaire général adjoint
 
 |
 
-9. Rapporteur général de la section du rapport et des études :
+9. Président adjoint de section administrative :
 
 DÉSIGNATION DE L'EMPLOI
 
@@ -276,11 +276,11 @@ par emploi
 
 |
 
-Rapporteur général de la section du rapport et des études
+Président adjoint de section administrative
 
 |
 
-1
+18
 
 |
 
