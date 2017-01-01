@@ -28,7 +28,7 @@ Centre de services des ressources humaines (CSRH)
 
 |
 
-DI Aquitaine-Limousin-Poitou-Charentes
+DI Nouvelle-Aquitaine
 
 |
 
@@ -44,7 +44,7 @@ Centre interrégional de saisie de données de Lille
 
 |
 
-DI Nord-Pas-de-Calais-Picardie
+DI Hauts-de-France
 
 |
 
@@ -70,7 +70,7 @@ Renseignement des usagers de la douane
 
 |
 
-Centre de services partagés (CSP) CHORUS de Lyon
+Centre de services partagés (CSP) CHORUS de la DGDDI
 
 |
 
@@ -78,11 +78,11 @@ DI Auvergne-Rhône-Alpes
 
 |
 
-France métropolitaine, Guadeloupe, Guyane, Martinique, La Réunion et Mayotte, à l'exclusion de la région Ile-de-France et des actes émis par les services et direction relevant du CSP de Paris
+France métropolitaine, Guadeloupe, Guyane, Martinique, La Réunion et Mayotte
 
 |
 
-Traitement dans l'outil comptable CHORUS des actes de dépense
+Transcription et traitement dans l'outil CHORUS de l'ensemble des actes de gestion, hors ceux pris en charge par le service facturier (SFACT) : activités d'exécution de la dépense et d'exécution des recettes non fiscales, travaux de fin de gestion, de pilotage transversal et de gestion des actifs.
 
 |
 
@@ -104,15 +104,15 @@ Collecte, traitement et enregistrement des documents administratifs uniques (DAU
 
 |
 
-Centre de services partagés (CSP) CHORUS de Paris
+Service facturier (SFACT)
 
 |
 
-Essonne, Hauts-de-Seine, Paris, Seine-Saint-Denis, Seine-et-Marne, Val-d'Oise, Val-de-Marne, Yvelines, ainsi que les actes de dépenses de la direction nationale du renseignement et des enquêtes douanières (DNRED), du centre informatique douanier (CID), de la direction nationale des statistiques et du commerce extérieur (DNSCE), de la direction nationale du recrutement et de la formation professionnelle (DNRFP) et du service national de douane judiciaire (SNDJ)
+France métropolitaine, Guadeloupe, Guyane, Martinique, La Réunion et Mayotte
 
 |
 
-Traitement dans l'outil comptable CHORUS des actes de dépense
+Centralisation et mise en règlement, via l'outil CHORUS, des dépenses présentées par le CSP de la DGDDI et de celles présentées, par exception, par les services prescripteurs : création des demandes de paiement et activité de contrôle des actes (de la liquidation au paiement).
 
 |
 
@@ -120,7 +120,7 @@ Service national douanier de la fiscalité routière (SNDFR)
 
 |
 
-DI Alsace-Champagne-Ardenne-Lorraine
+DI Grand Est
 
 |
 
@@ -128,7 +128,7 @@ Bourgogne-Franche-Comté
 
 Centre-Val de Loire
 
-Nord-Pas-de-Calais-Picardie
+Hauts-de-France
 
 Normandie
 
@@ -136,9 +136,11 @@ Provence-Alpes-Côte d'Azur
 
 Corse
 
-Alsace-Champagne-Ardenne-Lorraine
+Grand Est
 
-Gard, Hérault, Lozère, Aude, Pyrénées-Orientales
+Occitanie
+
+Auvergne-Rhône-Alpes
 
 |
 
