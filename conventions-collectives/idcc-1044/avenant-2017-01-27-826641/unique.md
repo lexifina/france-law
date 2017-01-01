@@ -1,0 +1,107 @@
+# Article unique
+
+Le point 3.2 du chapitre II de l'accord national du 30 mars 2004 sur la réduction du temps de travail est modifié comme suit :
+
+« 3.2. Cadres bénéficiant d'une convention de forfait annuel en jours
+
+3.2.1. Conditions de mise en place
+
+La conclusion d'une convention individuelle de forfait annuel en jours fait impérativement l'objet d'un écrit signé par le salarié et l'employeur ou son représentant dans le cadre du contrat de travail ou d'un avenant à celui-ci.
+
+La convention individuelle de forfait en jours doit faire référence au présent accord de branche ou à l'accord d'entreprise le mettant en place dans l'entreprise et énumérer :
+
+– la nature des missions justifiant le recours au forfait en jours ;
+
+– le nombre de jours travaillés sur l'année ;
+
+– la rémunération correspondante ;
+
+– le nombre d'entretiens.
+
+Le refus de signer une convention individuelle de forfait en jours sur l'année ne remet pas en cause le contrat du salarié et n'est en aucun cas constitutif d'une faute.
+
+3.2.2. Décompte du temps de travail en jours sur une base annuelle
+
+La comptabilisation du temps de travail du salarié se fait en jours sur une période de référence annuelle.
+
+Le contrat de travail détermine le nombre de jours sur la base duquel le forfait est défini.
+
+Le forfait ne pourra dépasser 215 journées entières journée de solidarité incluse, pour 1 année complète de présence à temps plein et pour un droit et une prise intégrale des congés, légaux ou conventionnels.
+
+Il est entendu que la notion de demi-journée doit s'apprécier en référence à la “ coupure déjeuner ”.
+
+En cas d'année incomplète, le nombre de jours à effectuer est calculé en fonction de la durée en semaine restant à courir jusqu'à la fin de l'année.
+
+Par exemple pour un forfait de 215 jours et une base annuelle de 47 semaines (52 semaines – 5 semaines de congés payés).
+
+Nombre de jours à travailler = (215 × nombre de semaines travaillés)/47
+
+À défaut de disposition contraire, l'année complète s'entend du 1er janvier au 31 décembre.
+
+La convention de forfait annuel en jours peut prévoir un nombre de jours travaillés en deçà du nombre de jours annuels prévu par le présent avenant, ou le cas échéant par l'accord d'entreprise.
+
+Dans cette hypothèse, le salarié sera rémunéré a minima au prorata du nombre de jours fixés par sa convention de forfait et la charge de travail devra tenir compte de la réduction convenue.
+
+3.2.3. Jours de repos
+
+Afin de ne pas dépasser le plafond de 215 jours, les salariés titulaires d'une convention de forfait jours bénéficient de jours de repos dont le nombre peut varier d'une année à l'autre en fonction notamment du nombre de jours chômés. Il sera tenu compte des dispositions légales, réglementaires et conventionnelles se rapportant aux autres types d'absence.
+
+Les jours de repos supplémentaires ainsi dégagés pourront être pris par journée entière ou demi-journée, dans le cadre de l'aménagement personnel du temps de travail du salarié, dans la mesure où cela n'entraîne pas de dysfonctionnement dans le service ou l'entreprise ou dans la mission confiée au salarié.
+
+Les jours de repos ainsi accordés devront être pris par le salarié dans la période de 1 an. Cette période est identique à celle de l'année civile.
+
+Le salarié qui a conclu une convention de forfait en jours sur l'année peut, s'il le souhaite et en accord avec son employeur, renoncer à une partie de ses jours de repos en contrepartie d'une majoration de son salaire.
+
+L'accord entre le salarié et l'employeur doit être établi par écrit, sous forme d'un avenant à la convention de forfait qui sera en adéquation avec la grille de salaire minimum garanti conventionnel “ cadre ”. Cet avenant détermine le taux de la majoration applicable à la rémunération de ce temps de travail supplémentaire, sans qu'il puisse être inférieur à 25 %. Aucune sanction ne peut être prise à l'encontre d'un salarié qui refuserait de travailler au-delà du nombre de jours prévus par le présent avenant. Le nombre maximal de jours travaillés dans l'année au-delà des 215 jours est fixé par accord collectif d'entreprise ou d'établissement à défaut le salarié ne pourra renoncer qu'à 10 jours de repos par période de 1 an (ou au prorata en cas d'année incomplète).
+
+À défaut d'accord sur un rachat de jour et en cas de dépassement du forfait annuel de 215 jours, les jours excédentaires seront, à la demande du salarié, déduits à concurrence du forfait annuel de l'année n + 1 et devront être récupérés dans les 3 premiers mois. Un avenant au contrat devra être signé.
+
+3.2.4. Contrôle du décompte des jours travaillés et non travaillés
+
+L'employeur est tenu d'établir un document de contrôle fiable qui fera apparaître le nombre et la date des journées ou demi-journées travaillées ainsi que la qualification des journées ou demi-journées non travaillées (repos hebdomadaire, congés payés, congés conventionnels, jours de repos au titre du respect du plafond de 215 jours).
+
+Le suivi est établi par le salarié sous le contrôle de l'employeur et vise à préserver la santé du salarié.
+
+Ces documents de contrôle du décompte du forfait seront soumis aux délégués syndicaux et aux représentants du personnel. Ils seront tenus à la disposition des cadres signataires d'une convention de forfait en jours, en cas de contrôle, à l'inspecteur du travail.
+
+Un récapitulatif sera remis annuellement au salarié.
+
+3.2.5. Temps de repos et obligation de déconnexion
+
+Les salariés titulaires d'une convention de forfait en jours ne sont pas soumis aux durées légales maximales quotidiennes et hebdomadaires.
+
+Ils bénéficient d'un repos quotidien minimum de 12 heures consécutives et d'un repos hebdomadaire de 36 heures (24 heures + 12 heures) minimum consécutives.
+
+Ces limites n'ont pas pour objet ou pour effet de définir une journée habituelle de travail de 13 heures par jour mais une amplitude exceptionnelle maximale de la journée de travail.
+
+Le respect par les salariés concernés de ces durées minimales de repos implique pour ces derniers une obligation de déconnexion des outils de communication à distance.
+
+L'employeur veillera à mettre en place un outil de suivi pour assurer le respect des temps de repos quotidiens et le respect des temps de repos hebdomadaires des salariés concernés.
+
+3.2.6. Suivi de la charge de travail
+
+Il est rappelé que les salariés titulaires d'une convention de forfait en jours, en concertation avec leur employeur, gèrent librement le temps à consacrer à l'accomplissement de leur mission.
+
+Afin de garantir le droit à la santé, à la sécurité, au repos et à l'articulation vie professionnelle et vie privée, l'employeur assure le suivi régulier de l'organisation du travail de l'intéressé, de sa charge de travail et de l'amplitude de ses journées de travail.
+
+Le salarié tiendra informé son responsable hiérarchique des événements ou éléments qui accroissent de façon inhabituelle ou anormale sa charge de travail.
+
+En cas de difficulté inhabituelle portant sur des aspects d'organisation, de charge de travail, d'isolement professionnel, le salarié à la possibilité d'émettre, par écrit, une alerte auprès de son employeur ou de son représentant.
+
+Dans les 8 jours, un rendez-vous entre le salarié et l'employeur ou son représentant est prévu afin de discuter de la surcharge de travail du salarié, des causes – structurelles ou conjoncturelles – ­ pouvant expliquer celle-ci et de pouvoir convenir d'un commun accord à une organisation de la charge de travail et de l'emploi du temps du salarié qui permette une durée raisonnable du travail.
+
+Ce rendez-vous fera l'objet d'un compte rendu écrit signé par les deux parties, reprenant le cas échéant les mesures mises en place et fera l'objet d'un suivi.
+
+Il est précisé que l'employeur ou son représentant peut à son initiative organiser un rendez-vous avec le salarié lorsque celui-ci constate que l'organisation du travail adoptée par le salarié ou que sa charge de travail aboutissent à des situations anormales.
+
+L'employeur transmet une fois par an au CHSCT ou à défaut aux délégués du personnel dans le cadre des dispositions légales et réglementaires, le nombre d'alertes émises par les salariés ainsi que les mesures prises pour pallier ces difficultés.
+
+3.2.7. Entretiens individuels
+
+Au moins un entretien individuel annuel formalisé entre le responsable hiérarchique et le salarié titulaire d'une convention de forfait en jours sera organisé à l'initiative du responsable hiérarchique ou de l'employeur.
+
+Cet entretien spécifique porte sur la charge de travail du salarié, l'organisation du travail dans l'entreprise, la durée des temps de trajets, l'amplitude des journées de travail, l'état des jours non travaillés pris et non pris à la date de l'entretien et l'articulation entre l'activité professionnelle et la vie personnelle et familiale.
+
+3.2.8. Consultation des IRP
+
+Conformément aux dispositions légales et réglementaires, et dans le respect de la santé et de la sécurité des salariés, le comité d'entreprise est informé et consulté chaque année sur le recours aux conventions de forfait en jours dans l'entreprise, ainsi que sur les modalités de suivi de la charge de travail des salariés. Ces informations sont également transmises au CHSCT et seront consolidées dans la base de données économiques et sociales unique. »
