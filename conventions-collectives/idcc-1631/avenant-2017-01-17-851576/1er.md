@@ -1,0 +1,417 @@
+# Article 1er
+
+L' article 11 « Financement du régime » de l'accord du 9 mars 2004 est rédigé comme suit :
+
+« Les cotisations relatives au régime de prévoyance, prévue à l'article 11 de l'accord du 9 mars 2004 sont portées comme suit :
+
+I. – À effet du 1er janvier 2017
+
+Salariés non cadres ne relevant pas des articles 4 et 4 bis de la CCN de 1947 (y compris saisonniers)
+
+|
+
+Part patronale
+
+Tranche A et B |
+
+Part salariale
+
+Tranche A et B |
+
+TOTAL |
+
+Maintien de salaire |
+
+0,25 % |
+
+0 % |
+
+0,25 % |
+
+Incapacité et Invalidité |
+
+0 % |
+
+0,17 % |
+
+0,17 % |
+
+Décès – IAD, Accidentel, double effet et rente éducation ou rente de conjoint * |
+
+0,03 % |
+
+0,10 % |
+
+0,13 % |
+
+TOTAL |
+
+0,28 % |
+
+0,27 % |
+
+0,55 % |
+
+* La part correspondant à la garantie rente éducation assurée par l'OCIRP
+
+(1) est de 0,08 % TA/ TB. |
+
+Salariés cadres relevant des articles 4 et 4 bis de la CCN de 1947
+
+|
+
+Part patronale |
+
+Part salariale |
+
+TOTAL |
+
+|
+
+Tranche A |
+
+Tranche B |
+
+Tranche A |
+
+Tranche B |
+
+TA |
+
+TB |
+
+Maintien de salaire |
+
+0 % |
+
+0,39 % |
+
+0 % |
+
+0 % |
+
+0 % |
+
+0,39 % |
+
+Incapacité et Invalidité |
+
+0,35 % |
+
+0 % |
+
+0 % |
+
+0,32 % |
+
+0,35 % |
+
+0,32 % |
+
+Décès – IAD, Accidentel, double effet et rente éducation ou rente de conjoint* |
+
+1,15 % |
+
+0,19 % |
+
+0 % |
+
+0,26 % |
+
+1,15 % |
+
+0,45 % |
+
+TOTAL |
+
+1,50 % |
+
+0,58 % |
+
+0 % |
+
+0,58 % |
+
+1,50 % |
+
+1,16 % |
+
+* La part correspondant à la garantie rente éducation assurée par l'OCIRP
+
+(1) est de 0,08 % TA/ TB. |
+
+II. – À effet du 1er janvier 2018
+
+Salariés non cadres ne relevant pas des articles 4 et 4 bis de la CCN de 1947 (y compris saisonniers)
+
+|
+
+Part patronale
+
+Tranche A et B |
+
+Part salariale
+
+Tranche A et B |
+
+TOTAL |
+
+Maintien de salaire |
+
+0,29 % |
+
+0 % |
+
+0,29 % |
+
+Incapacité et Invalidité |
+
+0 % |
+
+0,20 % |
+
+0,20 % |
+
+Décès – IAD, Accidentel, double effet et rente éducation ou rente de conjoint |
+
+0,04 % |
+
+0,12 % |
+
+0,16 % |
+
+TOTAL |
+
+0,33 % |
+
+0,32 % |
+
+0,65 % |
+
+* La part correspondant à la garantie rente éducation assurée par l'OCIRP
+
+(1) est de 0,08 % TA/ TB. |
+
+Salariés cadres relevant des articles 4 et 4 bis de la CCN de 1947
+
+|
+
+Part patronale |
+
+Part salariale |
+
+TOTAL |
+
+|
+
+Tranche A |
+
+Tranche B |
+
+Tranche A |
+
+Tranche B |
+
+TA |
+
+TB |
+
+Maintien de salaire |
+
+0 % |
+
+0,46 % |
+
+0 % |
+
+0 % |
+
+0 % |
+
+0,46 % |
+
+Incapacité et Invalidité |
+
+0,35 % |
+
+0 % |
+
+0 % |
+
+0,34 % |
+
+0,35 % |
+
+0,34 % |
+
+Décès – IAD, Accidentel, double effet et rente éducation ou rente de conjoint |
+
+1,15 % |
+
+0,225 % |
+
+0 % |
+
+0,345 % |
+
+1,15 % |
+
+0,57 % |
+
+TOTAL |
+
+1,50 % |
+
+0,685 % |
+
+0 % |
+
+0,685 % |
+
+1,50 % |
+
+1,37 % |
+
+* La part correspondant à la garantie rente éducation assurée par l'OCIRP
+
+(1) est de 0,08 % TA/ TB. |
+
+III. – À effet du 1er janvier 2019
+
+Salariés non cadres ne relevant pas des articles 4 et 4 bis de la CCN de 1947 (y compris saisonniers)
+
+|
+
+Part patronale
+
+Tranche A et B |
+
+Part salariale
+
+Tranche A et B |
+
+Total |
+
+Maintien de salaire |
+
+0,34 % |
+
+0 % |
+
+0,34 % |
+
+Incapacité et Invalidité |
+
+0 % |
+
+0,23 % |
+
+0,23 % |
+
+Décès – IAD, Accidentel, double effet et rente éducation ou rente de conjoint |
+
+0,04 % |
+
+0,14 % |
+
+0,18 % |
+
+TOTAL |
+
+0,38 % |
+
+0,37 % |
+
+0,75 % |
+
+* La part correspondant à la garantie rente éducation assurée par l'OCIRP
+
+(1) est de 0,08 % TA/ TB. |
+
+Salariés cadres relevant des articles 4 et 4 bis de la CCN de 1947
+
+|
+
+Part patronale |
+
+Part salariale |
+
+Total |
+
+|
+
+Tranche A |
+
+Tranche B |
+
+Tranche A |
+
+Tranche B |
+
+TA |
+
+TB |
+
+Maintien de salaire |
+
+0 % |
+
+0,53 % |
+
+0 % |
+
+0 % |
+
+0 % |
+
+0,53 % |
+
+Incapacité et Invalidité |
+
+0,35 % |
+
+0 % |
+
+0 % |
+
+0,41 % |
+
+0,35 % |
+
+0,41 % |
+
+Décès – IAD, Accidentel, double effet et rente éducation ou rente de conjoint |
+
+1,15 % |
+
+0,26 % |
+
+0 % |
+
+0,38 % |
+
+1,15 % |
+
+0,64 % |
+
+TOTAL |
+
+1,50 % |
+
+0,79 % |
+
+0 % |
+
+0,79 % |
+
+1,50 % |
+
+1,58 % |
+
+* La part correspondant à la garantie rente éducation assurée par l'OCIRP
+
+(1) est de 0,08 % TA/ TB. |
+
+(1) Mots exclus de l'extension en tant qu'ils contreviennent à la liberté contractuelle et à la liberté d'entreprendre telles qu'interprétées par le conseil constitutionnel dans sa décision n° 2013-672 du 13 juin 2013.
+
+(Arrêté du 17 octobre 2017-art. 1)
