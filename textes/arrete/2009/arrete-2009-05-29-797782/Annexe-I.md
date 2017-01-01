@@ -6,7 +6,7 @@ DISPOSITIONS SPÉCIFIQUES RELATIVES AU TRANSPORT PAR ROUTE DE MARCHANDISES DANGE
 
 1.1. La présente annexe est composée :
 
-- des annexes A et B de l'ADR. Cet accord, y compris les amendements en vigueur au 1er janvier 2015, est publié en français par les Nations unies, section des ventes, bureau E-4, palais des Nations, 1211 Genève 10, Suisse. Il est disponible sur le site internet de la division des transports de la CEE-ONU à l'adresse suivante :
+- des annexes A et B de l'ADR. Cet accord, y compris les amendements en vigueur au 1er janvier 2017, est publié en français par les Nations unies, section des ventes, bureau E-4, palais des Nations, 1211 Genève 10, Suisse. Il est disponible sur le site internet de la division des transports de la CEE-ONU à l'adresse suivante :
 
 http://www.unece.org/trans/danger/danger.htm;
 
@@ -44,7 +44,11 @@ Ces dispositions précisent les dispositions particulières applicables concerna
 
 - dispositions spéciales relatives aux réservoirs fixes de stockage de GPL (paragraphe 3.5) ;
 
-- certificats d'agrément des véhicules admis à circuler en France en dérogation à certaines dispositions de l'annexe B de l'ADR (paragraphe 3.6).
+- certificats d'agrément des véhicules admis à circuler en France en dérogation à certaines dispositions de l'annexe B de l'ADR (paragraphe 3.6) ;
+
+-dispositions spéciales relatives à la livraison de produits de traitement de l'eau en GRV (paragraphe 3.7) ;
+
+-dispositions spéciales relatives à la classe 7 (paragraphe 3.8).
 
 Dispositions particulières relatives à la formation de l'équipage du véhicule (paragraphe 4).
 
@@ -66,7 +70,7 @@ Outre les dispositions prévues au 1.4, les dispositions suivantes s'appliquent.
 
 Il appartient au responsable de tout établissement où s'effectue le chargement ou le remplissage de s'assurer que les dispositions suivantes sont respectées, pour autant qu'elles sont applicables au transport envisagé :
 
-- le document de transport et les consignes écrites du 5. 4. 3 pour le conducteur figurent dans les documents à bord du véhicule ;
+-le document de transport figure à bord du véhicule ;
 
 - le conducteur est titulaire d'une attestation de formation en cours de validité et adaptée au transport à entreprendre ;
 
@@ -88,41 +92,41 @@ En cas de rupture de charge, les exigences ci-dessus s'appliquent au responsable
 
 2.1.3. Dispositions applicables aux transports en citernes.
 
-Pour les déchargements, les dispositions ci-dessous ne s'appliquent qu'aux établissements soumis :
+Pour les vidanges, les dispositions ci-dessous ne s'appliquent qu'aux établissements soumis :
 
-- à autorisation dans le cadre de la législation des installations classées pour la protection de l'environnement ;
+-à autorisation dans le cadre de la législation des installations classées pour la protection de l'environnement ;
 
-- à la législation sur les installations nucléaires de base.
+-à la législation sur les installations nucléaires de base.
 
-L'opérateur du remplissage ou du déchargement (employé de l'établissement ou conducteur, selon le cas) doit veiller à ce que :
+L'opérateur du remplissage ou de la vidange (employé de l'établissement ou conducteur, selon le cas) doit veiller à ce que :
 
-- les consignes de remplissage (ou de déchargement) soient respectées ;
+-les consignes de remplissage (ou de vidange) soient respectées ;
 
-- après le remplissage (ou le déchargement) les dispositifs de fermeture soient en position fermée et étanches.
+-après le remplissage (ou la vidange) les dispositifs de fermeture soient en position fermée et étanches.
 
-Le responsable de l'établissement où s'effectue le remplissage (ou le déchargement) doit veiller que les consignes relatives à ces opérations soient affichées aux postes où elles sont effectuées.
+Le responsable de l'établissement où s'effectue le remplissage (ou la vidange) doit veiller que les consignes relatives à ces opérations soient affichées aux postes où elles sont effectuées.
 
-2.1.3.1. Remplissage ou déchargement effectué par un employé de l'établissement.
+2.1.3.1. Remplissage ou vidange effectué par un employé de l'établissement.
 
 Il appartient au responsable de l'établissement où s'effectue le remplissage de veiller au respect des dispositions du 2.1.1 de la présente annexe I, et notamment à ce que :
 
-- la citerne soit autorisée pour le transport de la matière à charger ;
+-la citerne soit autorisée pour le transport de la matière à charger ;
 
-- la citerne ait été, si besoin est, convenablement nettoyée ou dégazée.
+-la citerne ait été, si besoin est, convenablement nettoyée ou dégazée.
 
-Il appartient en outre au responsable de l'établissement où s'effectue le remplissage (ou le déchargement) de veiller que le personnel préposé au remplissage (ou au déchargement) ait reçu la formation prévue au 1.3.
+Il appartient en outre au responsable de l'établissement où s'effectue le remplissage (ou la vidange) de veiller que le personnel préposé au remplissage (ou à la vidange) ait reçu la formation prévue au 1.3.
 
-2.1.3.2. Remplissage ou déchargement de véhicules-citernes effectués par le conducteur dans des établissements disposant d'installations prévues à cet effet, lorsque ce conducteur n'est pas un employé de l'établissement.
+2.1.3.2. Remplissage ou vidange de véhicules-citernes effectués par le conducteur dans des établissements disposant d'installations prévues à cet effet, lorsque ce conducteur n'est pas un employé de l'établissement.
 
 Les dispositions du 2.1.1 de la présente annexe I ne s'appliquent pas.
 
-Il appartient en outre au responsable de l'établissement où s'effectue le remplissage (ou le déchargement) de veiller au préalable à ce qu'une formation spécifique du conducteur à l'usage de ce type d'installation ait été assurée. A défaut, l'établissement doit assurer cette formation. Une description détaillée de la formation reçue doit être conservée par le conducteur et par le responsable de l'établissement où s'effectue le remplissage ou le déchargement.
+Il appartient en outre au responsable de l'établissement où s'effectue le remplissage (ou la vidange) de veiller au préalable à ce qu'une formation spécifique du conducteur à l'usage de ce type d'installation ait été assurée. A défaut, l'établissement doit assurer cette formation. Une description détaillée de la formation reçue doit être conservée par le conducteur et par le responsable de l'établissement où s'effectue le remplissage ou la vidange.
 
 2.2. Chargement, déchargement.
 
 2.2.1. Lieux de chargement et de déchargement.
 
-Les prescriptions suivantes complètent ou modifient les dispositions du 7. 5 et s'appliquent, sauf cas de force majeure, dès lors que les transports visés dépassent les quantités définies au 1.1.3.6.
+Les prescriptions suivantes complètent ou modifient les dispositions du 7. 5 et du 8.5, et s'appliquent, sauf cas de force majeure, dès lors que les transports visés dépassent les quantités définies au 1.1.3.6.
 
 2.2.1.1. Classe 1.
 
@@ -134,7 +138,7 @@ Toutefois, sont autorisés :
 
 - à l'occasion d'un tir public effectué selon les dispositions de l'arrêté du 31 mai 2010 pris en application des articles 3, 4 et 6 du décret n° 2010-580 du 31 mai 2010 relatif à l'acquisition, la détention et l'utilisation des artifices de divertissement et des articles pyrotechniques destinés au théâtre, le déchargement sur la voie publique des artifices de divertissement de toutes catégories ;
 
-- le déchargement sur la voie publique d'explosifs industriels et accessoires de tir des n° s ONU 0081,0082,0083,0084,0241,0033,0060,0065,0289,0029,0030,0267,0455,0360,0361,0500,0042,0283,0105,0131,0454,0255 et 0456, dédiés aux déclenchements d'avalanche, pour la livraison d'un stockage situé en station de sports d'hiver relevant du régime de l'enregistrement ou de la déclaration sous la rubrique 1131 de la nomenclature des installations classées pour la protection de l'environnement, inaccessible aux véhicules routiers. Cette autorisation s'applique toute l'année pour les stockages ayant été enregistrés avant le 30 juillet 2010 ou déclarés avant le 15 mai 2011 et du 1er novembre au 31 mai pour les stockages ayant été enregistrés ou déclarés après ces dates respectives. Quel que soit le régime, il est satisfait aux conditions de sécurité spécifiques de l'arrêté du 29 juillet 2010 relatif aux prescriptions générales applicables aux installations relevant du régime de l'enregistrement au titre de la rubrique n° 1311 de la nomenclature des installations classées pour la protection de l'environnement. Un arrêté préfectoral fixe, le cas échéant, des conditions supplémentaires, destinées notamment à compléter les plans de sûreté établis par les opérateurs dans le cadre du chapitre 1.10 de l'ADR.
+- le déchargement sur la voie publique d'explosifs industriels et accessoires de tir des n°s ONU 0081,0082,0083,0084,0241,0033,0060,0065,0289,0029,0030,0267,0455,0360,0361,0500,0042,0283,0105,0131,0454,0255 et 0456, dédiés aux déclenchements d'avalanche, pour la livraison d'un stockage situé en station de sports d'hiver relevant du régime de l'enregistrement ou de la déclaration de la rubrique 4220 de la nomenclature des installations classées pour la protection de l'environnement, inaccessible aux véhicules routiers. Cette autorisation s'applique toute l'année pour les stockages ayant été enregistrés avant le 30 juillet 2010 ou déclarés avant le 15 mai 2011 et du 1er novembre au 31 mai pour les stockages ayant été enregistrés ou déclarés après ces dates respectives. Quel que soit le régime, il est satisfait aux conditions de sécurité spécifiques de l'arrêté du 29 juillet 2010 relatif aux prescriptions générales applicables aux installations relevant du régime de l'enregistrement au titre de la rubrique 4220 de la nomenclature des installations classées pour la protection de l'environnement. Un arrêté préfectoral fixe, le cas échéant, des conditions supplémentaires, destinées notamment à compléter les plans de sûreté établis par les opérateurs dans le cadre du chapitre 1.10 de l'ADR.
 
 Dans les deux situations ci-dessus, la prise en charge de la responsabilité de la marchandise incombe à la personne ou à l'entreprise chargée de l'entreposage. Il est alors satisfait à toutes les précautions d'usage dans la profession.
 
@@ -152,31 +156,35 @@ Toutefois, sont autorisés :
 
 - le chargement des colis d'huiles usagées du n° ONU 3082 ;
 
-- le chargement des colis contenant des matières et objets affectés au n° ONU 3291, lorsque les établissements de soins et assimilés ne disposent pas d'emplacement dédié au stationnement des véhicules d'enlèvement.
+- le chargement des colis contenant des matières et objets affectés au n° ONU 3291, lorsque les établissements de soins et assimilés ne disposent pas d'emplacement dédié au stationnement des véhicules d'enlèvement ;
+
+-les livraisons de produits de traitement de l'eau en GRV prévues au paragraphe 3.7 de la présente annexe I.
 
 2.2.1.3. Citernes.
 
-Sont interdits sur la voie publique le chargement ou le déchargement de citernes ainsi que la prise d'échantillon dans ces citernes.
+Sont interdits sur la voie publique le chargement ou la vidange de citernes ainsi que la prise d'échantillon dans ces citernes.
 
-Toutefois, s'il n'est pas possible d'opérer autrement, il est autorisé de procéder au chargement et au déchargement :
+Toutefois, s'il n'est pas possible d'opérer autrement, il est autorisé de procéder au chargement et à la vidange :
 
-- de boissons alcoolisées du n° ONU 3065 ;
+-de boissons alcoolisées du n° ONU 3065 ;
 
-- de gaz naturels comprimés du n° ONU 1971, en cas d'indisponibilité des réseaux de canalisations de gaz, uniquement pour maintenir l'alimentation du réseau sous réserve de l'établissement, par l'opérateur, d'un mode opératoire normalisé garantissant le respect de consignes de sécurité validées par décision du ministre chargé des transports terrestres de matières dangereuses ;
+-de gaz naturels comprimés du n° ONU 1971, en cas d'indisponibilité des réseaux de canalisations de gaz, uniquement pour maintenir l'alimentation du réseau sous réserve de l'établissement, par l'opérateur, d'un mode opératoire normalisé garantissant le respect de consignes de sécurité validées par décision du ministre chargé des transports terrestres de matières dangereuses ;
 
-- d'huiles usagées du n° ONU 3082.
+-d'huiles usagées du n° ONU 3082.
 
-Enfin, s'il n'est pas possible d'opérer autrement, il est autorisé de procéder au déchargement :
+Enfin, s'il n'est pas possible d'opérer autrement, il est autorisé de procéder à la vidange :
 
-- des gaz affectés au groupe A ;
+-des gaz affectés au groupe A ;
 
-- d'hydrocarbures gazeux en mélange liquéfié nsa du n° ONU 1965 ;
+-d'hydrocarbures gazeux en mélange liquéfié n. s. a. du n° ONU 1965 ;
 
-- d'hydrocarbures liquides (n° ONU 1202, n° ONU 1203, n° ONU 3256 [uniquement huile de chauffe lourde] et n° ONU 3475) ;
+-d'hydrocarbures liquides (n° ONU 1202, n° ONU 1203, n° ONU 3256 [uniquement huile de chauffe lourde] et n° ONU 3475) ;
 
-- et, dans la limite de capacité de 8 m³ par unité de transport, des matières de la classe 6.1 des n os ONU 1593, 1710, 1897 et 2831.
+-des matières du groupe d'emballage II ou III, des nos ONU 1789,1791,1824,1908,2582,2693 et 2796, ainsi que des produits floculants à base de sels d'aluminium du n° ONU 3264 ;
 
-Pour les réservoirs fixes de stockage de GPL non couverts par les dispositions du 3. 5 de la présente annexe I, s'il n'est pas possible d'opérer autrement, il est autorisé de procéder au transfert des hydrocarbures gazeux en mélange liquéfié n. s. a du numéro ONU 1965 du réservoir fixe dans une citerne afin de permettre la reprise du réservoir en centre de maintenance et/ou atelier de réparation.
+-et, dans la limite de capacité de 8 m3 par unité de transport, des matières de la classe 6.1 des nos ONU 1593,1710,1897 et 2831.
+
+Pour les réservoirs fixes de stockage de GPL non couverts par les dispositions du 3.5 de la présente annexe I, s'il n'est pas possible d'opérer autrement, il est autorisé de procéder au transfert des hydrocarbures gazeux en mélange liquéfié n. s. a. du n° ONU 1965 du réservoir fixe dans une citerne afin de permettre la reprise du réservoir en centre de maintenance et/ ou atelier de réparation.
 
 2.2.1.4. Des dérogations aux dispositions du 2.2.1 de la présente annexe I peuvent être accordées par décision du préfet. Par ailleurs, les interdictions prévues aux 2.2.1.2 et 2.2.1.3 ci-dessus ne s'appliquent pas aux dessertes de chantier sur la voie publique.
 
@@ -318,6 +326,26 @@ e) En dehors du personnel de bord, il est interdit de transporter des voyageurs 
 
 2.6.2. Une consigne doit préciser au conducteur les numéros de téléphone des services ou entreprises visés au 2.6.1 de la présente annexe I.
 
+2.6.3. Limitation de durée du stationnement et de l'entreposage en transit des matières radioactives.
+
+Sans préjudice des prescriptions des 8.4 et 8.5, les dispositions suivantes s'appliquent au stationnement en cours de transport des véhicules transportant des matières radioactives et à l'entreposage en transit des matières radioactives, en dehors des établissements expéditeur et destinataire si ceux-ci relèvent de l'un des régimes mentionnés à l'article L. 1333-4 du code de la santé publique.
+
+La durée d'un stationnement en cours de transport ou d'un entreposage en transit est limitée à 72 heures consécutives. Cette durée peut être prolongée de 24 heures dans le cas où un jour férié est accolé à un week-end ou de 48 heures dans le cas où le jour férié est séparé d'un week-end par un seul jour ouvrable.
+
+Si le stationnement ou l'entreposage en transit a lieu dans un centre de transbordement, sa durée peut être prolongée dans le cas de contraintes liées au retard d'un navire, ou à l'impossibilité d'embarquer dans un aéronef, ou à la formation, l'éclatement ou le contrôle d'un convoi ferroviaire.
+
+Si le stationnement ou l'entreposage en transit à lieu à l'intérieur d'une installation nucléaire de base définie à l'article L. 593-2 du code de l'environnement ou d'une installation nucléaire intéressant la défense définie à l'article L. 1333-15 du code de la défense, sa durée peut être portée à une semaine.
+
+Dans le cas d'un événement obligeant à prolonger un stationnement en cours de transport ou un entreposage en transit au-delà des durées ci-dessus, le transporteur en informe dès que possible l'expéditeur et le destinataire, en vue de définir les dispositions à prendre. Les limitations de durée définies ci-dessus ne commencent à courir que lorsqu'il est à nouveau possible de cesser le stationnement ou l'entreposage en transit.
+
+Si la durée d'un stationnement en cours de transport ou d'un entreposage en transit excède 72 heures, les vérifications prévues au 1.4.2.2.1 c) sont réalisées toutes les 24 heures, après un délai de 72 heures. Ces opérations sont enregistrées afin d'en assurer la traçabilité.
+
+Le présent paragraphe ne s'applique pas :
+
+-aux colis, exceptés relevant du n° ONU 2908 ;
+
+-aux citernes vides non nettoyées relevant des nos ONU 2912,3321 ou 3322.
+
 3. Dispositions particulières applicables aux seuls transports nationaux par route de marchandises dangereuses
 
 3.1. Transport de marchandises dangereuses dans les véhicules de transport en commun de personnes.
@@ -453,6 +481,14 @@ La mention suivante doit figurer sur le document de transport : Transport effect
 Les véhicules immatriculés en France qui, en application soit du 3.5 de la présente annexe I, soit des articles 22, 23 ou 25, sont admis pour l'exécution de transports intérieurs à la France en dérogation à certaines dispositions des annexes A et B mais qui sont néanmoins soumis à un agrément se voient délivrer un certificat d'agrément national barré d'une diagonale de couleur jaune.
 
 Toutes les règles définies par le présent arrêté et applicables aux certificats d'agrément ADR sont également applicables aux documents nationaux mentionnés ci-dessus, notamment en ce qui concerne les conditions dans lesquelles ils sont délivrés ou renouvelés et leur présence parmi les documents de bord.
+
+3.7. Dispositions spéciales relatives à la livraison de produits de traitement de l'eau en GRV.
+
+Lorsque la livraison de ces produits par véhicule-citerne n'est pas possible ou lorsque leur déchargement dans les réservoirs destinés à les accueillir ne peut s'effectuer autrement sans risque excessif pour la sécurité des personnes ou pour l'environnement, le déchargement des produits de traitement de l'eau par vidange de GRV peut être autorisé. La liste des matières autorisées ainsi que les prescriptions complémentaires applicables à ces livraisons figurent à l'appendice IV. 9 du présent arrêté.
+
+3.8. Dispositions spéciales relatives à la classe 7 concernant la signalisation orange.
+
+Pour les unités de transport qui transportent des marchandises dangereuses correspondant à un seul numéro ONU, il est permis d'indiquer sur les panneaux oranges prescrits au 5.3.2.1.1 le numéro d'identification de danger et le numéro ONU prescrits respectivement dans les colonnes (20) et (1) du tableau A du chapitre 3.2 pour ces marchandises (ou seulement le numéro ONU lorsque des panneaux oranges de dimensions réduites sont utilisés conformément au 5.3.2.2.1), sous réserve de respecter les spécifications du 5.3.2.2.
 
 4. Dispositions particulières relatives à la formation de l'équipage du véhicule.
 
@@ -620,7 +656,7 @@ Relèvent de cette catégorie les faits suivants :
 
 1) Le transport de marchandises dangereuses interdites au transport ;
 
-2) Toute fuite de substances dangereuses ;
+2) Toute fuite de matières dangereuses ;
 
 3) L'utilisation d'un mode de transport interdit ou d'un moyen de transport inapproprié ;
 
@@ -648,7 +684,7 @@ Relèvent de cette catégorie les faits suivants :
 
 15) Le transport sans aucun placardage ou marquage sur le véhicule ;
 
-16) L'absence d'informations relatives à la substance transportée permettant de déterminer l'existence d'un risque de la catégorie I (n° ONU, dénomination, groupe d'emballage, etc.) ;
+16) L'absence d'informations relatives à la marchandise transportée permettant de déterminer l'existence d'un risque de la catégorie I (n° ONU, dénomination, groupe d'emballage, etc.) ;
 
 17) Le fait que le conducteur ne détienne pas un certificat de formation professionnelle valide ;
 
@@ -656,11 +692,11 @@ Relèvent de cette catégorie les faits suivants :
 
 19) Le non-respect de l'interdiction de fumer.
 
-Catégorie de risque II : risque de dommages corporels ou de dommages environnementaux et devant normalement amener à prendre des mesures correctives appropriées, comme l'obligation de se mettre en ordre sur les lieux mêmes du contrôle dans la mesure du possible ou au plus tard à l'issue de l'opération de transport en cours ;
-
 20) L'absence à bord d'un agent agréé de convoyage ;
 
 21) La présence de voyageur dans un véhicule transportant des marchandises dangereuses.
+
+Catégorie de risque II : risque de dommages corporels ou de dommages environnementaux et devant normalement amener à prendre des mesures correctives appropriées, comme l'obligation de se mettre en ordre sur les lieux mêmes du contrôle dans la mesure du possible ou au plus tard à l'issue de l'opération de transport en cours ;
 
 Relèvent de cette catégorie les faits suivants :
 
@@ -678,7 +714,7 @@ Relèvent de cette catégorie les faits suivants :
 
 7) Le transport de marchandises en colis dans un conteneur qui n'est pas structurellement en bon état ;
 
-8) Le fait que des citernes ou des véhicules-citernes (y compris vides et non nettoyés) n'aient pas été fermés convenablement ;
+8) Le fait que des citernes ou des véhicules-citernes (y compris vides et non nettoyés) n'aient pas été fermés convenablement, sans fuite de matière dangereuse constatée ;
 
 9) Le transport d'un emballage combiné avec un emballage extérieur non convenablement fermé ;
 
@@ -720,6 +756,6 @@ Pour chaque année calendaire et au plus tard douze mois après l'écoulement de
 
 NOTA :
 
-Conformément à l'article 18 de l'arrêté du 2 décembre 2014, les présentes dispositions entrent en vigueur le 1er janvier 2015.
+Conformément à l'article 22 de l'arrêté du 28 novembre 2016, les présentes dispositions entrent en vigueur le 1er janvier 2017.
 
-Toutefois, les dispositions de l'arrêté du 29 mai 2009 modifié relatif aux transports de marchandises dangereuses par voies terrestres applicables avant cette date, peuvent continuer d'être appliquées jusqu'au 30 juin 2015.
+Toutefois, les dispositions de l'arrêté du 29 mai 2009 modifié relatif aux transports de marchandises dangereuses par voies terrestres applicables avant cette date, peuvent continuer d'être appliquées jusqu'au 30 juin 2017.

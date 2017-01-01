@@ -8,9 +8,7 @@ DANGEREUSES PAR VOIES DE NAVIGATION INTÉRIEURES (ADN)
 
 1.1. La présente annexe est composée :
 
-- de l'accord européen relatif au transport international des marchandises dangereuses par voies de navigation intérieures (ADN) fait à Genève le 26 mai 2000 et son règlement annexé en vigueur au 1er janvier 2015. Ces documents sont publiés en français par les Nations unies, section des ventes, bureau E-4, palais des Nations, 1211 Genève 10, Suisse. Ils sont aussi disponibles sur le site internet de la division des transports de la CEE-ONU à l'adresse suivante :
-
-http://www.unece.org/trans/danger/danger.htm ;
+-de l'ADN fait à Genève le 26 mai 2000 et son règlement annexé en vigueur au 1er janvier 2017. Ces documents sont publiés en français par les Nations unies, section des ventes, bureau E-4, palais des Nations, 1211 Genève 10, Suisse. Ils sont aussi disponibles sur le site internet de la division des transports de la CEE-ONU à l'adresse suivante : http://www.unece.org/trans/danger/danger.html ;
 
 - des dispositions particulières qui complètent notamment le règlement annexé à l'ADN et en précisent les modalités d'application aux transports nationaux ou internationaux de marchandises dangereuses par voies de navigation intérieures effectués en France.
 
@@ -232,6 +230,6 @@ Jusqu'au 31 décembre 2018, l'expert sur le transport des gaz (visé au 8.2.1.5)
 
 NOTA :
 
-Conformément à l'article 18 de l'arrêté du 2 décembre 2014, les présentes dispositions entrent en vigueur le 1er janvier 2015.
+Conformément à l'article 22 de l'arrêté du 28 novembre 2016, les présentes dispositions entrent en vigueur le 1er janvier 2017.
 
-Toutefois, les dispositions de l'arrêté du 29 mai 2009 modifié relatif aux transports de marchandises dangereuses par voies terrestres applicables avant cette date, peuvent continuer d'être appliquées jusqu'au 30 juin 2015.
+Toutefois, les dispositions de l'arrêté du 29 mai 2009 modifié relatif aux transports de marchandises dangereuses par voies terrestres applicables avant cette date, peuvent continuer d'être appliquées jusqu'au 30 juin 2017.

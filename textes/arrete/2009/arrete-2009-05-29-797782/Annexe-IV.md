@@ -18,15 +18,17 @@ Cette annexe comporte les appendices suivants :
 
 8. Appendice IV.8. - Prescriptions applicables à la mise sous pression de gaz des citernes équipées de couvercles amovibles (voir article 9.3).
 
+9. Appendice IV. 9.-Prescriptions complémentaires applicables à la livraison en GRV de produits de traitement de l'eau (voir 3.7 de l'annexe I du présent arrêté).
+
 APPENDICE IV.1 : DISPOSITIONS RELATIVES AUX FLEXIBLES
 
 (Voir article 9.2)
 
-1. Généralités, domaine d'application, définitions
+1. Généralités, domaine d'application, définitions.
 
 1.1. Domaine d'application.
 
-Les flexibles utilisés pour le remplissage ou la vidange des véhicules de transport de marchandises dangereuses à l'état liquide doivent satisfaire aux prescriptions du présent appendice.
+Les flexibles utilisés pour le remplissage ou la vidange des citernes de transport de matières dangereuses à l'état liquide satisfont aux prescriptions du présent appendice.
 
 Ne sont pas visés les flexibles construits à double paroi sous vide et les manchettes anti-vibrations.
 
@@ -36,123 +38,189 @@ Dans les prescriptions qui suivent, on entend par :
 
 (1) Tuyau : conduit de structure hétérogène et de section droite généralement constante et circulaire. Il est généralement constitué d'un tube (couche intérieure) et d'un revêtement (couche extérieure) ;
 
-(2) Raccord : pièce fixée sur le tuyau qui permet d'assurer la liaison du flexible avec un autre tuyau, un autre flexible ou un appareil fixe ; ainsi deux tuyaux peuvent comporter un raccord commun ;
+(2) Raccord : pièce fixée sur le tuyau qui permet d'assurer la liaison du flexible avec un autre tuyau, un autre flexible ou un appareil fixe ; ainsi deux tuyaux peuvent comporter un raccord commun ; le raccord n'empêche en aucun cas le passage de liquide ou de gaz ;
 
-(3) Flexible : ensemble constitué par un tuyau équipé de deux raccords d'extrémité, le tuyau doit présenter une souplesse suffisante pour que ces raccords puissent être couplés à des pièces de raccordement, non nécessairement alignées, sans subir pour autant des contraintes anormales ;
+(3) Flexible : ensemble constitué par un tuyau équipé de deux raccords d'extrémité et de toute autre garniture prête à l'emploi. Le tuyau doit présenter une souplesse suffisante pour que ces raccords puissent être couplés à des pièces de raccordement, non nécessairement alignées, sans subir pour autant des contraintes anormales ;
 
-(3.1) Type : famille de flexibles ayant la même conception, les mêmes matériaux (en particulier les matières en contact direct avec le fluide véhiculé), un usage spécifique identique, le même mode d'assemblage des raccords quelle que soit la nature des matériaux des composants du raccord, la même pression maximale de service et des températures de service (minimale et maximale) identiques ;
+(3-1) Type : famille de flexibles ayant la même conception, les mêmes matériaux (en particulier les matières en contact direct avec le fluide véhiculé), un usage spécifique identique, le même mode d'assemblage des raccords quelle que soit la nature des matériaux des composants du raccord, la même pression maximale de service, la même pression d'épreuve et des températures de service (minimale et maximale) identiques ;
 
-(3.2) Variantes du type : diamètre, épaisseur et longueur du tuyau, type et matières des raccords ;
+(3-2) Variantes du type : diamètre, épaisseur et longueur du tuyau, type et matières des raccords, matières des tuyaux s'ils sont entièrement métalliques ;
 
 (4) Constructeur : personne physique ou morale qui a la responsabilité de la conception et de la réalisation du flexible ;
 
 (5) Fabricant : personne physique ou morale qui a confectionné le tuyau ;
 
-(6) Pression maximale de service : valeur maximale de la pression effective qui pourra être atteinte sans être dépassée lors de l'utilisation ;
+(6) Pms (pression maximale de service) : valeur maximale de la pression effective qui peut être atteinte sans être dépassée lors de l'utilisation ;
 
 (7) Pression d'épreuve : pression effective la plus élevée qui s'exerce au cours de l'épreuve de pression hydraulique du flexible ;
 
-(8) Epreuve d'étanchéité : épreuve consistant à soumettre le flexible à une pression effective égale à la pression maximale de service mais au moins égale à 400 kPa (4 bar).
+(8) Epreuve d'étanchéité : épreuve consistant à soumettre le flexible à une pression effective égale à la pression maximale de service mais au moins égale à 400 kPa (4 bar) ;
 
-2. Construction
+(9) Etat descriptif : document établi par le constructeur et validé par l'organisme agréé, comportant pour chaque flexible ou type de flexible au minimum les renseignements suivants :
+
+-éléments d'identité ;
+
+-caractéristiques ;
+
+-description ;
+
+-marques d'identité et de service ;
+
+-variantes éventuelles ;
+
+(10) Xa : organisme agréé selon la procédure visée à l'article 19 du présent arrêté ;
+
+(11) IS : service interne d'inspection du constructeur intervenant sous la surveillance d'un organisme agréé Xa.
+
+2. Construction.
 
 2.1. Les flexibles satisfont aux conditions minimales suivantes :
 
-(1) Les flexibles doivent être construits en matériaux appropriés qui doivent être exempts de fragilité dans les conditions normales de leur utilisation.
+(1) Les flexibles sont construits en matériaux appropriés exempts de fragilité dans les conditions normales de leur utilisation.
 
 (2) Le choix des matériaux constitutifs du flexible est laissé à l'appréciation du constructeur sous sa responsabilité. Le constructeur établit la liste des matières dangereuses compatibles avec ces matériaux dans les conditions normales de leur utilisation.
 
-(3) La pression d'éclatement doit être garantie par le constructeur du flexible comme au moins égale à 3 fois la pression maximale de service.
+(3) La pression d'éclatement est garantie par le constructeur du flexible comme au moins égale à 3 fois la pression maximale de service.
 
-(4) A l'exception des flexibles équipés de raccords en polypropylène utilisés pour le transfert des matières des classes 6.1 et 8 d'un point d'éclair supérieur à 60° C, les flexibles ont par leur constitution une résistance électrique par mètre de longueur inférieure ou égale à 106
+(4) A l'exception des flexibles équipés de raccords en polypropylène utilisés pour le transfert des matières des classes 6.1 et 8 d'un point d'éclair supérieur à 60° C, les flexibles ont par leur constitution une résistance électrique par mètre de longueur inférieure ou égale à 106 ohms.
 
-Ω.
-
-(5) La pression maximale de service du flexible est identique à celle du tuyau. La pression maximale de service des flexibles est d'au moins 1 MPa (10 bars), à l'exception des flexibles pour liquides alimentaires de la classe 3 qui peuvent avoir une pression maximale de service comprise entre 0,4 et 1 MPa (4 et 10 bars).
+(5) La Pms du flexible est identique à celle du tuyau. La Pms des flexibles est d'au moins 1 MPa (10 bars), à l'exception des flexibles pour liquides alimentaires de la classe 3 qui peuvent avoir une Pms comprise entre 0,4 et 1 MPa (4 et 10 bars).
 
 Lorsqu'une norme est citée aux 2.2 à 2.6 du présent appendice, elle est appliquée dans sa totalité, sauf lorsque les prescriptions du présent appendice sont plus contraignantes.
 
 2.2. Flexibles pour l'ammoniac du n° ONU 1005 de la classe 2.
 
-Les flexibles doivent être d'un type prévu pour ce fluide, leur diamètre intérieur nominal ne doit pas dépasser 51 mm.
+Les flexibles sont d'un type prévu pour ce fluide, leur diamètre intérieur nominal ne dépasse pas 51 mm.
 
-Les flexibles réalisés à partir de tuyaux en caoutchouc doivent être conformes à la norme NF EN ISO 5771 de novembre 2008.
+Les flexibles réalisés à partir de tuyaux en caoutchouc sont conformes à la norme NF EN ISO 5771 : 2008.
 
-Les flexibles réalisés à partir de tuyaux qui ne sont pas en caoutchouc doivent répondre aux exigences de la norme visée ci-dessus en ce qui concerne les points suivants :
+Les flexibles réalisés à partir de tuyaux qui ne sont pas en caoutchouc répondent aux exigences de la norme visée ci-dessus en ce qui concerne les points suivants :
 
-Chapitre 4 : Pression nominale.
+-chapitre 4 : Pression nominale ;
 
-Chapitre 10 : Marquage.
+-chapitre 10 : Marquage.
 
-2.3. Flexibles pour les matières de la classe 2 des n°s ONU 1011, 1075, 1965, 1969 et 1978.
+2.3. Flexibles pour les matières de la classe 2 des nos ONU 1011,1075,1965,1969 et 1978.
 
-Les flexibles sont d'un seul tenant. Les flexibles réalisés à partir de tuyaux en caoutchouc sont conformes à la norme NF EN 1762 de mai 2004.
+Les flexibles sont d'un seul tenant. Les flexibles réalisés à partir de tuyaux en caoutchouc sont conformes à la norme NF EN 1762 : 2004.
 
 2.4. Flexibles pour les gaz liquéfiés réfrigérés de la classe 2.
 
-Les flexibles sont conformes à la norme NF EN 12434 de février 2001.
+Les flexibles sont conformes à la norme NF EN 12434 : 2001.
 
 2.5. Flexibles pour les carburants de la classe 3.
 
-Les flexibles réalisés à partir de tuyaux en caoutchouc ou en matériaux thermoplastiques sont conformes à la norme NF EN 1360 d'août 2013, ou à la norme NF EN 1761 de juillet 1999, ou à la norme NF EN 1765 de mars 2005, ou à la norme NF EN 13765 de juin 2010, ou à la norme NF EN ISO 1825 de juillet 2011.
+Les flexibles réalisés à partir de tuyaux en caoutchouc ou en matériaux thermoplastiques sont conformes à la norme NF EN 1360 : 2013, ou à la norme NF EN 1761 : 1999, ou à la norme NF EN 1765 : 2005, ou à la norme NF EN 13765 + A1 : 2015, ou à la norme NF EN ISO 1825 : 2011.
 
-2.6. Flexibles pour les matières chimiques liquides ou gazeuses.
+2.6. Flexibles pour les matières chimiques liquides.
 
-Les flexibles réalisés à partir de tuyaux en caoutchouc ou en matériaux thermoplastiques sont conformes à la norme NF EN 12115 d'avril 2011, ou à la norme NF EN 13765 de juin 2010.
+Les flexibles réalisés à partir de tuyaux en caoutchouc ou en matériaux thermoplastiques sont conformes à la norme NF EN 12115 : 2011, ou à la norme NF EN 13765 + A1 : 2015.
 
-3. Agrément des flexibles
+3. Procédure d'évaluation de la conformité des flexibles.
 
-3.1. Procédure d'agrément.
+Les procédures pour l'évaluation de la conformité visées au 1.8.7 sont effectuées par l'organisme compétent conformément aux dispositions ci-après :
 
-(1) (supprimé)
+-les essais de type sont répétés et leurs résultats enregistrés au moins une fois tous les cinq ans ou chaque fois qu'une modification est apportée aux matériaux (sauf variante couverte par l'essai de type) et/ ou à la méthode de fabrication ;
 
-(2) Le type de flexibles défini par le constructeur est homologué par les directions régionales chargées des contrôles de sécurité des véhicules sur la base de la documentation technique en ce qui concerne la conformité avec les dispositions du présent appendice et après qu'au moins trois flexibles ont été soumis en présence d'un organisme agréé à :
+-nonobstant les dispositions du 1.8.7.2, l'agrément de type a une durée de cinq ans au maximum ;
 
-- une épreuve hydraulique effectuée à une pression au moins égale à 1,5 fois la pression maximale de service, sans être inférieure à 600 kPa (6 bar) ;
+-les contrôles des 1.8.7.3 et 1.8.7.4 incluent la vérification de la conformité des flexibles par rapport aux dispositions du présent appendice. Cette vérification s'applique aux constructeurs de flexibles et aux fabricants de tuyaux ;
 
-- une mesure de la résistance électrique. Pour les flexibles en caoutchouc et en plastique, cette mesure est effectuée selon la norme NF EN ISO 8031 ;
+-un constructeur de flexible peut bénéficier des essais de type réalisés par un autre constructeur ;
 
-- un essai de tenue à la pression d'éclatement au cours duquel il sera vérifié que le flexible supporte une pression au moins égale à 3 fois la pression maximale de service.
+-chaque flexible est accompagné de son état descriptif, de son certificat de conformité délivrés par le constructeur, et de son attestation de contrôle initial délivré par les organismes compétents ;
 
-(3) Tout flexible visé par une homologation de type selon le présent appendice est construit et éprouvé suivant un plan d'assurance de la qualité pour la production, l'examen final et la mise à l'épreuve. Ce système d'assurance de la qualité est certifié selon la norme ISO 9001 par un organisme certificateur reconnu.
+-en cas de refus, l'organisme agréé informe l'autorité compétente.
 
-(4) Lorsqu'ils ne sont pas construits suivant un programme d'assurance de la qualité, les flexibles sont individuellement examinés, éprouvés et agréés par un organisme agréé sur la base de la documentation technique et du certificat délivré par le constructeur, attestant la conformité du flexible aux dispositions applicables du présent appendice.
+3.1. Lorsque les flexibles sont conçus, fabriqués et testés suivant les normes citées aux 2.2 à 2.6 du présent appendice, les dispositions suivantes s'appliquent :
 
-(5) Si un constructeur a recours aux services d'un sous-traitant, il s'assure et est à même de démontrer que son sous-traitant possède les compétences voulues pour effectuer l'opération en question, et assume l'entière responsabilité de cette sous-traitance. Dans tous les cas, l'épreuve hydraulique initiale, la mesure de la résistance électrique et la délivrance des certificats d'épreuves sont effectuées par le constructeur lui-même.
+Procédure
 
-3.2. Etat descriptif.
+|
 
-Pour chaque flexible ou type, il doit être établi par le constructeur un état descriptif comportant au minimum les renseignements suivants :
+Organisme compétent
 
-- éléments d'identité ;
+|
 
-- caractéristiques ;
+Agrément de type (1.8.7.2)
 
-- description ;
+|
 
-- marques d'identité et de service.
+Xa
 
-Ce document doit être fourni lors de l'homologation ou d'une épreuve.
+|
 
-4. Epreuves et contrôles périodiques
+Supervision de la fabrication (1.8.7.3)
 
-4.1. Epreuve initiale.
+|
 
-Avant leur mise en service, les flexibles doivent être soumis à une épreuve de pression hydraulique à une pression au moins égale à 1,5 fois la pression maximale de service, sans être inférieure à 600 kPa (6 bar).
+Xa ou IS
 
-4.2. Contrôles périodiques.
+|
 
-(1) Les flexibles sont soumis à un contrôle visuel annuel. Ce contrôle donne lieu à l'établissement d'une fiche de suivi qui est présentée, lorsque le flexible est monté sur un véhicule, lors de la visite technique selon le 9.1.2.3 de l'ADR. Ce contrôle visuel est effectué, sous la responsabilité du propriétaire, par une personne compétente choisie en dehors des personnes qui utilisent les flexibles ou participent à leur entretien. Lorsqu'au cours de l'un de ces contrôles le flexible présente des traces manifestes de détériorations (fissures, crevasses ou usures anormales), il est réformé immédiatement.
+Contrôles et épreuves initiaux (1.8.7.4)
 
-(2) Les flexibles pour l'ammoniac du n° ONU 1005 de la classe 2 sont soumis à une épreuve d'étanchéité au plus tard dix-huit mois après la date d'épreuve initiale, sous le contrôle d'un organisme agréé.
+|
 
-(3) Les flexibles pour les hydrocarbures de la classe 2 sont soumis à une épreuve d'étanchéité sous le contrôle d'un organisme agréé au plus tard trois ans après la date de l'épreuve initiale.
+Xa ou IS
+
+|
+
+Un constructeur peut mettre en place un service interne d'inspection IS conformément au 1.8.7.6 sous réserve :
+
+-d'avoir une activité hebdomadaire continue de fabrication et de contrôle ;
+
+-que l'IS soit indépendant du processus de conception, des opérations de fabrication, de la réparation et de la maintenance ;
+
+-qu'en cas de sous-traitance il s'assure et est à même de démontrer que son sous-traitant possède les compétences voulues pour effectuer l'opération en question, assume l'entière responsabilité de cette sous-traitance, et que les essais prévus aux 1.8.7.3 et 1.8.7.4 sont réalisés par l'IS.
+
+L'organisme Xa doit en plus du cadre de la surveillance des activités d'un IS défini au 1.8.7.6 :
+
+-procéder à un nombre suffisant de visites de surveillance permettant de garantir que les flexibles fabriqués sont conformes aux dispositions du présent appendice ;
+
+-convenir et enregistrer la marque apposée sur les flexibles à l'issue des contrôles initiaux ;
+
+-conserver une copie des justificatifs démontrant la conformité des flexibles.
+
+Dans le cadre du 1.8.7.4, les flexibles sont soumis à une épreuve de pression hydraulique à une pression au moins égale à 1,5 fois la Pms.
+
+3.2. Lorsque les flexibles ne sont pas conçus, fabriqués et testés suivant les normes citées aux 2.2 à 2.6 du présent appendice, les procédures visées aux 1.8.7.2,1.8.7.3 et 1.8.7.4 sont réalisées par un organisme Xa.
+
+Dans le cadre du 1.8.7.2, les essais de type suivants doivent être réalisés sur trois exemplaires de flexibles identiques couvrant un type de flexibles et ses variantes :
+
+-une épreuve hydraulique effectuée à une pression au moins égale à 1,5 fois la pression maximale de service, sans être inférieure à 600 kPa (6 bar) ;
+
+-une mesure de variation de longueur pendant et après l'épreuve hydraulique. La longueur hors-tout ne doit pas augmenter de plus de 4 % ;
+
+-une mesure de la résistance électrique. Pour les flexibles en caoutchouc et en plastique, cette mesure est effectuée selon la norme NF EN ISO 8031 ;
+
+-pour les flexibles métalliques, sur l'un des trois flexibles, un essai de fatigue cyclique suivant la norme NF EN ISO 10380 ;
+
+-un essai de tenue à la pression d'éclatement au cours duquel il est vérifié que le flexible supporte une pression au moins égale à 3 fois la pression maximale de service.
+
+Dans le cadre du 1.8.7.3, le constructeur met à disposition tous les documents pertinents selon le type de flexible et le mode de fabrication du flexible. En cas de sous-traitance, il s'assure et est à même de démontrer que son sous-traitant possède les compétences voulues pour effectuer l'opération en question, assume l'entière responsabilité de cette sous-traitance. L'organisme vérifie chez le sous-traitant au moins une fois par an que les dispositions garanties par le constructeur sont respectées.
+
+Dans le cadre du 1.8.7.4, les flexibles sont soumis à une épreuve de pression hydraulique à une pression au moins égale à 1,5 fois la Pms.
+
+4. Epreuves et contrôles périodiques.
+
+4.1. Contrôle en service.
+
+Les flexibles sont soumis à un contrôle visuel annuel. Ce contrôle donne lieu à l'établissement d'une fiche de suivi qui est présentée, lorsque le flexible est monté sur un véhicule, lors de la visite technique selon le 9.1.2.3 de l'ADR. Ce contrôle visuel est effectué, sous la responsabilité du propriétaire, par une personne compétente choisie en dehors des personnes qui utilisent les flexibles ou participent à leur entretien. Lorsqu'au cours de l'un de ces contrôles, le flexible présente des traces manifestes de détériorations (fissures, crevasses ou usures anormales), il est réformé immédiatement.
+
+4.2. Contrôle périodique.
+
+Les dispositions du 1.8.7.5 s'appliquent aux cas suivants sous le contrôle d'un organisme Xa :
+
+(1) Les flexibles pour l'ammoniac du n° ONU 1005 de la classe 2 sont soumis à une épreuve d'étanchéité au plus tard dix-huit mois après la date d'épreuve initiale.
+
+(2) Les flexibles pour les hydrocarbures de la classe 2 sont soumis à une épreuve d'étanchéité au plus tard trois ans après la date de l'épreuve initiale.
 
 4.3. Réparations et transformations.
 
-Un flexible ne peut donner lieu qu'à une seule réparation ou transformation. Celle-ci doit être réalisée par le constructeur ou un réparateur habilité par lui.
+Un flexible ne peut donner lieu qu'à une seule réparation ou transformation. Celle-ci doit être réalisée par le constructeur ou un réparateur habilité par lui. Les dispositions du 1.8.7.5 s'appliquent sous le contrôle d'un organisme Xa.
 
-Après réparation ou transformation, l'épreuve de pression hydraulique initiale est renouvelée à une pression égale à la pression d'épreuve initiale. Mention en sera portée sur la fiche de suivi.
+Après réparation ou transformation, l'épreuve de pression hydraulique initiale est renouvelée à une pression égale à la pression d'épreuve initiale. Mention en est portée sur la fiche de suivi.
 
 4.4. Réforme.
 
@@ -160,7 +228,7 @@ Les flexibles sont réformés au plus tard six ans après la date d'épreuve ini
 
 4.5. Certificats d'épreuves.
 
-Les épreuves donnent lieu, quel qu'en soit le résultat, à l'établissement d'un procès-verbal.
+Les épreuves donnent lieu, quel qu'en soit le résultat, à l'établissement d'une attestation de contrôle.
 
 5. Marquage
 
@@ -444,7 +512,7 @@ Et/ou géographique
 
 |
 
-Visite(s) effectuée(s) sur site(s) (voir détail au point 4.1 du présent appendice)
+Visite(s) effectuée(s) sur site(s) (voir détail au point 4.1 du présent appendice) (1)
 
 Identité du ou des conseillers ayant effectué la ou les visites :
 
@@ -471,6 +539,8 @@ Signature du conseiller à la sécurité
 Le conseiller à la sécurité s’assure de la réception du présent rapport annuel par l'entreprise et en conserve une trace par tout moyen approprié
 
 |
+
+(1) Cette information n'est pas requise pour les conseillers à la sécurité internes aux entreprises.
 
 1. Organisation de l'entreprise pour les activités liées au transport de marchandises dangereuses
 
@@ -502,7 +572,7 @@ Afin de quantifier les activités de l'entreprise liées aux marchandises danger
 
 Le relevé des activités de transport de marchandises dangereuses des classes 1 et 7 s'appuie, le cas échéant, sur les données transmises par ailleurs, de façon plus détaillée, à l'autorité compétente.
 
-Selon les activités de l'entreprise, les tableaux correspondants sont complétés en fonction des obligations et des spécificités reprises aux points 2.1.1,2.1.2,2.1.3,2.1.4 et 2.1.5 du présent appendice. Les quantités reportées dans les tableaux portent sur les marchandises concernées par les activités du conseiller à la sécurité ; elles peuvent faire l'objet d'une estimation sous réserve que celle-ci permette au conseiller à la sécurité de remplir les missions listées au 1.8.3.3.
+Selon les activités de l'entreprise, les tableaux correspondants sont complétés en fonction des obligations et des spécificités reprises aux points 2.1.1,2.1.2,2.1.3,2.1.4 et 2.1.5 du présent appendice. Les quantités reportées dans les tableaux portent sur les marchandises concernées par les activités du conseiller à la sécurité ; elles peuvent faire l'objet d'une estimation sous réserve que celle-ci permette au conseiller à la sécurité de remplir les missions listées au 1.8.3.3. Dans le cas d'opérations de transport successives au sein d'une même entreprise, la quantification des marchandises dangereuses chargées, transportées et déchargées pourra être limitée à la première opération de transport réalisée.
 
 Les informations relatives aux marchandises susvisées comprennent la mention des numéros ONU, complétée des désignations officielles de transport et des groupes d'emballage et figurent :
 
@@ -2430,7 +2500,7 @@ Mise en action. Examen visuel
 
 |
 
-9.2.2.3
+9.2.2.8
 
 |
 
@@ -2450,7 +2520,7 @@ Mise en action. Examen visuel
 
 |
 
-9.2.2.3.2
+9.2.2.8.2
 
 si présence
 
@@ -2460,7 +2530,7 @@ si présence
 
 |
 
-6.1. Cabine
+6.1. Supprimé
 
 |
 
@@ -2758,8 +2828,136 @@ Des consignes affichées soit aux postes de chargement et de déchargement, soit
 
 L'exploitant de la citerne doit prendre les dispositions appropriées en vue d'empêcher l'obstruction des orifices témoins prévus au 2.5 du présent appendice par les produits transportés et de maintenir en bon état le robinet dont ces orifices sont équipés.
 
+APPENDICE IV. 9
+
+PRESCRIPTIONS COMPLÉMENTAIRES APPLICABLES À LA LIVRAISON EN GRV DE PRODUITS DE TRAITEMENT DE L'EAU
+
+(Voir 3.7 de l'annexe I du présent arrêté)
+
+Les dispositions du présent appendice sont applicables aux livraisons en GRV de produits de traitement de l'eau pour lesquelles le déchargement s'effectue par vidange du GRV. Les autres dispositions du présent arrêté auxquelles les prescriptions complémentaires suivantes ne dérogent pas restent applicables à ces opérations.
+
+1. Matières autorisées.
+
+Sont autorisées dans le cadre du présent appendice les livraisons de matières suivantes, du groupe d'emballage II ou III :
+
+-acide chlorhydrique du n° ONU 1789 ;
+
+-hypochlorite en solution du n° ONU 1791 ;
+
+-hydroxyde de sodium en solution du n° ONU 1824 ;
+
+-chlorite en solution du n° ONU 1908 ;
+
+-chlorure de fer III en solution du n° ONU 2582 ;
+
+-hydrogénosulfites en solution aqueuse, n. s. a. du n° ONU 2693 ;
+
+-acide sulfurique du n° ONU 2796 ;
+
+-produit floculant à base de sels d'aluminium du n° ONU 3264.
+
+2. Prescriptions concernant les GRV.
+
+2.1. L'utilisation des GRV est autorisée exclusivement pour les types d'emballages suivants :
+
+-GRV métalliques 31A ;
+
+-GRV plastiques 31H2 ;
+
+-GRV composites 31HH1,
+
+sous réserve de satisfaire aux dispositions générales des 4.1.1,4.1.2 et 4.1.3, des dispositions applicables du 6.5 ainsi qu'aux dispositions complémentaires suivantes.
+
+2.2. Les GRV sont équipés de vannes de vidange dont la compatibilité chimique avec la matière transportée est assurée, ayant une pression nominale de conception supérieure ou égale à 10 bar (PN 10 minimum).
+
+2.3. Les flexibles utilisés pour les vidanges sont conformes aux dispositions de l'appendice IV. 1 du présent arrêté.
+
+2.4. Les GRV sont utilisés en toute circonstance dans les conditions de leur agrément de type.
+
+3. Identification des GRV et dossiers de suivi individuels
+
+3.1. Chaque GRV utilisé pour les livraisons effectuées dans le cadre du présent appendice est muni d'un numéro d'identification unique non réattribué après son retrait du service, inscrit sur le GRV de façon visible et durable. Pour les GRV composites, les récipients intérieurs sont également munis d'un numéro d'identification unique, différent du précédent et inscrit de façon durable sur les récipients intérieurs.
+
+3.2. Un dossier individuel de suivi est ouvert pour chaque GRV sous son numéro d'identification unique, comprenant :
+
+-une copie du certificat d'homologation du type du GRV, indiquant en détail la configuration pour laquelle l'homologation a été accordée ;
+
+-le cas échéant, le procès-verbal du contrôle périodique du GRV visé au 6.5.4.4.2 ;
+
+-pour les GRV composites, une fiche de suivi recensant les récipients intérieurs ayant été montés dans le GRV (avec mention des numéros individuels de suivi des récipients intérieurs, copie des marques visées au 6.5.2.2.4, mention en clair de la date de fabrication de chaque récipient intérieur) ;
+
+-les rapports individuels concernant les réparations subies par le GRV.
+
+Les dossiers individuels de suivi des GRV sont tenus à disposition des agents de l'administration par l'emballeur, conformément à l'article 6-1 du présent arrêté.
+
+4. Vérification des GRV avant remplissage.
+
+Avant leur remplissage, l'emballeur procède à une vérification des GRV afin de s'assurer de leur aptitude au transport conformément au 1.4.2.1.1. Les points de vérification, la méthode de vérification et, le cas échéant, la traçabilité de la vérification sont formalisés dans une procédure écrite tenue à disposition des agents de l'administration, conformément à l'article 6-1 du présent arrêté.
+
+5. Conduite des opérations de vidange.
+
+5.1. Ne sont autorisés à effectuer les opérations de vidange visées par le présent appendice que des conducteurs :
+
+-qui sont détenteurs d'une autorisation nominative à effectuer ces opérations, délivrée par le chef de l'entreprise de transport ;
+
+-qui ont reçu, outre les formations obligatoires prévues par l'ADR, une formation spécifique conformément au point 6 ci-après.
+
+5.2. L'opération de vidange s'effectue obligatoirement en présence, pendant toute la durée, d'une personne techniquement compétente représentant le destinataire exploitant de l'installation réceptionnaire dont dépendent les réservoirs destinés à recueillir les produits déchargés (nommée ci-après exploitant ).
+
+5.3. Préalablement à l'opération de vidange, le conducteur et l'exploitant vérifient l'adéquation de la nature des produits à décharger (n° ONU, groupe d'emballage) et des quantités à livrer avec les données du bon de commande.
+
+5.4. L'exploitant délimite et balise la zone d'intervention afin d'éloigner et d'interdire la présence dans cette zone de toute personne étrangère à l'opération.
+
+Il désigne au conducteur la ou les bouches de livraison, en lien avec le ou les réservoirs destinés à recevoir le ou les produits à décharger, après avoir préalablement vérifié la ou les capacités disponibles. Si ces capacités s'avèrent insuffisantes au regard des quantités à livrer, les opérations de vidange ne sont pas effectuées.
+
+5.5. Afin d'éviter tout risque d'erreur de déchargement (vidange d'un produit dans un mauvais réservoir), toutes les bouches de livraison ainsi que les réservoirs de stockage associés sont clairement identifiés. Un schéma clairement lisible de l'ensemble des réservoirs, des bouches de livraisons associées et de leur identification est affiché de façon permanente dans l'installation réceptionnaire.
+
+5.6. La vidange est effectuée conformément aux dispositions du présent arrêté applicables pour un transport en citerne. La vidange par mise sous pression du GRV est interdite. Le conducteur vérifie notamment que la cale de roue visée au 8.1.5.2 ainsi que le réservoir collecteur visé au 8.1.5.3 sont correctement mis en place préalablement au déchargement.
+
+5.7. A l'issue de chaque vidange, les flexibles sont rincés. Il est strictement interdit de rejeter ces eaux de rinçage dans l'environnement ou dans les réseaux d'assainissement publics. L'eau nécessaire pour ces rinçages est disponible à chaque opération dans l'installation réceptionnaire. Le traitement des eaux de rinçage relève exclusivement de l'installation réceptionnaire.
+
+6. Formation spécifique des conducteurs.
+
+6.1. Le transporteur, l'emballeur ou le chargeur s'assurent que, dans le cadre du 1.3, les conducteurs effectuant les vidanges visées par le présent appendice reçoivent une formation spécifique adaptée à ces opérations. Les conducteurs titulaires d'un certificat de spécialisation citerne mentionnée au paragraphe 4.2 de l'annexe I du présent arrêté sont dispensés de cette formation.
+
+6.2. La formation spécifique comprend une partie théorique et une partie pratique.
+
+La partie théorique, d'une durée d'une journée, aborde notamment les sujets suivants :
+
+-connaissance et respect des procédures de vidange et de rinçage des flexibles ;
+
+-connaissance et utilisation des équipements de protection ;
+
+-lutte contre les épandages accidentels et la pollution ;
+
+-marche à suivre en cas d'erreur de déchargement.
+
+La formation théorique est renouvelée tous les cinq ans, selon un plan de formation spécifique aux personnes concernées.
+
+La partie pratique vise à familiariser les personnes concernées aux consignes à respecter et aux gestes à effectuer lors des déchargements. Elle peut être dispensée sous forme de travaux pratiques de mise en situation, ou sur la base d'un tutorat du conducteur novice par un conducteur expérimenté. La durée de cette formation pratique est suffisante pour permettre d'assimiler les consignes et gestes techniques enseignés.
+
+6.3. A l'issue de la formation théorique et pratique, une attestation de formation est remise au conducteur concerné qui la présente à la demande des agents de l'administration chargés du contrôle des transports de marchandises dangereuses.
+
+7. Document de transport et documents de bord.
+
+7.1. Le document de transport prévu au 5.4.1 comporte la mention suivante : Livraison selon le 3.7 de l'annexe I de l'arrêté TMD .
+
+7.2. Outre les documents prévus au 8.1.2, l'attestation de formation du conducteur visée au 6.3 ci-dessus et l'autorisation visée au 5.1 ci-dessus sont présentes à bord de toute unité de transport effectuant des livraisons dans le cadre du présent appendice.
+
+8. Consignes écrites relatives aux opérations de vidange.
+
+Un document spécifique décrit les mesures à prendre au cours des opérations de vidange, et notamment en cas d'accident. Ces mesures concernent notamment :
+
+-une procédure de rinçage des flexibles après vidange ;
+
+-la lutte contre les épandages accidentels et la pollution lors des opérations de vidange ;
+
+-la marche à suivre en cas d'erreur de déchargement.
+
+Ce document est présent en permanence à bord de l'unité de transport effectuant les livraisons visées par le présent appendice. Il ne se substitue pas aux consignes écrites prévues au 5.4.3.
+
 NOTA :
 
-Conformément à l'article 18 de l'arrêté du 2 décembre 2014, les présentes dispositions entrent en vigueur le 1er janvier 2015.
+Conformément à l'article 22 de l'arrêté du 28 novembre 2016, les présentes dispositions entrent en vigueur le 1er janvier 2017.
 
-Toutefois, les dispositions de l'arrêté du 29 mai 2009 modifié relatif aux transports de marchandises dangereuses par voies terrestres applicables avant cette date, peuvent continuer d'être appliquées jusqu'au 30 juin 2015.
+Toutefois, les dispositions de l'arrêté du 29 mai 2009 modifié relatif aux transports de marchandises dangereuses par voies terrestres applicables avant cette date, peuvent continuer d'être appliquées jusqu'au 30 juin 2017.

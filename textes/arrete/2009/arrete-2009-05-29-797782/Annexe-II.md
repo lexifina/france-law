@@ -6,7 +6,7 @@ DISPOSITIONS SPÉCIFIQUES RELATIVES AU TRANSPORT FERROVIAIRE DE MARCHANDISES DAN
 
 1.1. La présente annexe est composée :
 
--de l'appendice C de la Convention relative aux transports internationaux ferroviaires (COTIF), qui est le Règlement concernant le transport international ferroviaire des marchandises dangereuses (RID). Ce règlement, y compris les amendements en vigueur au 1er janvier 2015, est publié en français par l'Organisation intergouvernementale pour les transports internationaux ferroviaires (OTIF), Gryphenhübeliweg 30,3006 Berne, Suisse ;
+-de l'appendice C de la Convention relative aux transports internationaux ferroviaires (COTIF), qui est le RID. Ce règlement, y compris les amendements en vigueur au 1er janvier 2017, est publié en français par l'Organisation intergouvernementale pour les transports internationaux ferroviaires (OTIF), Gryphenhübeliweg 30,3006 Berne, Suisse. Il est disponible sur le site internet de l'OTIF à l'adresse suivante : http://www.otif.org/.
 
 -des dispositions particulières qui complètent notamment l'annexe du RID et en précisent les modalités d'application aux transports nationaux ou internationaux ferroviaires de marchandises dangereuses effectués en France.
 
@@ -298,7 +298,7 @@ Acceptation de colis express et de bagages enregistrés dans les trains de voyag
 
 3.2.1.1. Dispositions générales.
 
-L'obligation figurant au 5.4.1.1.1, consistant à porter une croix dans la case prévue à cet effet du document de transport, ne s'applique pas si l'on utilise un contrat de transport ou un bordereau de suivi pour un transport de déchets.
+L'obligation figurant au 5.4.1.4.1, consistant à porter une croix dans la case prévue à cet effet du document de transport, ne s'applique pas si l'on utilise une lettre de voiture selon un contrat de transport ou un bordereau de suivi pour un transport de déchets.
 
 3.2.1.2. Transports pour compte propre.
 
@@ -316,6 +316,6 @@ Nonobstant le 5.3.1.5, seuls les wagons de messagerie chargés de plus de trois 
 
 NOTA :
 
-Conformément à l'article 18 de l'arrêté du 2 décembre 2014, les présentes dispositions entrent en vigueur le 1er janvier 2015.
+Conformément à l'article 22 de l'arrêté du 28 novembre 2016, les présentes dispositions entrent en vigueur le 1er janvier 2017.
 
-Toutefois, les dispositions de l'arrêté du 29 mai 2009 modifié relatif aux transports de marchandises dangereuses par voies terrestres applicables avant cette date, peuvent continuer d'être appliquées jusqu'au 30 juin 2015.
+Toutefois, les dispositions de l'arrêté du 29 mai 2009 modifié relatif aux transports de marchandises dangereuses par voies terrestres applicables avant cette date, peuvent continuer d'être appliquées jusqu'au 30 juin 2017.
