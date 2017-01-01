@@ -1214,7 +1214,7 @@ Meurthe-et-Moselle
 
 |
 
-Briey
+Val de Briey
 
 |
 
@@ -2197,3 +2197,7 @@ Versailles
 8
 
 |
+
+NOTA :
+
+Conformément à l'article 5 du décret n° 2016-1996 du 30 décembre 2016, les présentes dispositions sont applicables aux instances introduites après le 1er janvier 2017.

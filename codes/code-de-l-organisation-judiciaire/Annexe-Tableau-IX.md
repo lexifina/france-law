@@ -98,7 +98,7 @@ Ressort des tribunaux d'instance de Barcelonnette, Digne-les-Bains et Manosque. 
 
 |
 
-Alpes-Maritimes
+fAlpes-Maritimes
 
 |
 
@@ -1486,19 +1486,19 @@ Meurthe-et-Moselle
 
 |
 
-[Briey
+[Val de Briey
 
 |
 
-Ressort des tribunaux d'instance de Briey et Longwy. (3)]
+Ressort des tribunaux d'instance de Val de Briey et Longwy. (3)]
 
 |
 
-[Briey
+[Val de Briey
 
 |
 
-Ressort du tribunal d'instance de Briey. (4)]
+Ressort du tribunal d'instance de Val de Briey. (4)]
 
 |
 
@@ -3117,3 +3117,7 @@ Ressort du tribunal de Première instance de Saint-Pierre.
 (14) applicable à compter du 1er juillet 2009.
 
 |
+
+NOTA :
+
+Conformément à l'article 5 du décret n° 2016-1996 du 30 décembre 2016, les présentes dispositions sont applicables aux instances introduites après le 1er janvier 2017.

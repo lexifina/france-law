@@ -982,11 +982,11 @@ Meurthe-et-Moselle
 
 |
 
-Briey
+Val de Briey
 
 |
 
-Ressort du tribunal de grande instance de Briey.
+Ressort du tribunal de grande instance de Val de Briey.
 
 |
 
@@ -1765,3 +1765,7 @@ Ressort du tribunal de grande instance de Saint-Pierre
 (12) Applicable à compter du 1er juillet 2014.
 
 |
+
+NOTA :
+
+Conformément à l'article 5 du décret n° 2016-1996 du 30 décembre 2016, les présentes dispositions sont applicables aux instances introduites après le 1er janvier 2017.

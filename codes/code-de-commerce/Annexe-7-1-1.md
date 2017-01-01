@@ -30,7 +30,7 @@ Dijon
 
 |
 
-Tribunaux de commerce de Bar-le-Duc, de Belfort, de Besançon, de Briey, de Chalon-sur-Saône, de Chaumont, de Dijon, d'Epinal, de Lons-le-Saunier, de Mâcon, de Nancy, de Vesoul
+Tribunaux de commerce de Bar-le-Duc, de Belfort, de Besançon, de Val de Briey, de Chalon-sur-Saône, de Chaumont, de Dijon, d'Epinal, de Lons-le-Saunier, de Mâcon, de Nancy, de Vesoul
 
 |
 
@@ -153,3 +153,7 @@ Tourcoing
 Tribunaux de commerce d'Amiens, d'Arras, de Beauvais, de Boulogne-sur-Mer, de Compiègne, de Douai, de Dunkerque, de Saint-Quentin, de Soissons, de Lille Métropole, de Valenciennes
 
 |
+
+NOTA :
+
+Conformément à l'article 5 du décret n° 2016-1996 du 30 décembre 2016, les présentes dispositions sont applicables aux instances introduites après le 1er janvier 2017.
