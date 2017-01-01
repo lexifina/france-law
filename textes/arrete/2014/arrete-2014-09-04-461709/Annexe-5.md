@@ -190,11 +190,11 @@ Tous les contrats permettant de faire le lien entre le demandeur et le bénéfic
 
 3.4. Engagement écrit du partenaire du demandeur
 
-L'engagement écrit d'un partenaire du demandeur à avoir apporté directement la contribution du demandeur au bénéficiaire au titre du dispositif des certificats d'économies d'énergie comporte :
+L'engagement écrit d'un partenaire du demandeur à avoir incité directement le bénéficiaire à la réalisation de l'opération d'économies d'énergie au moyen d'une contribution du demandeur au titre du dispositif des certificats d'économies d'énergie comporte :
 
 - l'identification des opérations d'économies d'énergie pour laquelle la contribution est apportée, et notamment le lieu de réalisation et la nature de l'opération ;
 
-- la mention de la nature de cette contribution, et le fait qu'elle a été apportée par le partenaire au nom du demandeur lors d'une rencontre avec le bénéficiaire ;
+- la mention de la nature de cette contribution, et le fait que le partenaire a incité le bénéficiaire à la réalisation de l'opération d'économies d'énergie au moyen de cette contribution apportée au nom du demandeur et au titre du dispositif des certificats d'économies d'énergie ;
 
 - l'identification du demandeur à l'origine de la contribution, via sa raison sociale ;
 
@@ -202,7 +202,9 @@ L'engagement écrit d'un partenaire du demandeur à avoir apporté directement l
 
 - l'identité du bénéficiaire de l'opération d'économies d'énergie.
 
-L'engagement est daté et signé par le partenaire. Dans le cas d'un envoi par courrier au demandeur de l'engagement écrit du partenaire, la date de cet engagement est justifiée par la preuve de dépôt du courrier prévue par l'arrêté du 7 février 2007 susvisé ou tout autre arrêté pris en application de l'article R. 2-1 du code des postes et des communications électroniques et fixant les modalités relatives au dépôt et à la distribution des envois postaux. Dans tous les autres cas, la date de cet engagement est justifiée par un horodatage électronique fiable de l'engagement au sens du décret n° 2011-434 du 20 avril 2011 susvisé.
+L'engagement est daté et signé par le partenaire au plus tard à la date d'engagement de l'opération.
+
+Dans le cas d'un envoi par courrier au demandeur de l'engagement écrit du partenaire, la date de cet engagement est justifiée par la preuve de dépôt du courrier prévue par l'arrêté du 7 février 2007 susvisé ou tout autre arrêté pris en application de l'article R. 2-1 du code des postes et des communications électroniques et fixant les modalités relatives au dépôt et à la distribution des envois postaux. Dans tous les autres cas, la date de cet engagement est justifiée par un horodatage électronique fiable de l'engagement au sens du décret n° 2011-434 du 20 avril 2011 susvisé.
 
 Par dérogation, un engagement horodaté électroniquement mais dont l'horodatage électronique n'est pas fiable au sens de ce même décret peut être utilisé afin de justifier le rôle actif, incitatif et antérieur à l'engagement d'une opération à la condition que cette opération soit engagée au plus tard le 31 mars 2015.
 
@@ -222,7 +224,7 @@ Le contrat de partenariat décrit :
 
 - la durée du contrat.
 
-Le contrat de partenariat est daté et signé par les parties avant la contractualisation de l'opération entre le bénéficiaire et le partenaire.
+Le contrat de partenariat est daté et signé par les parties avant la date de l'engagement écrit du partenaire du demandeur.
 
 L'engagement écrit du partenaire, la justification de la date de cet engagement et les contrats permettant de faire le lien entre le demandeur et le partenaire (contrats de partenariat et de mandat) sont archivés par le demandeur.
 
@@ -383,3 +385,7 @@ Pour les logements remplissant les conditions du V de l'article 3-1 de l'arrêt�
 Pour les opérations n'entrant pas dans le cadre des points 8-1, 8-2 et 8-3 ci-dessus, le demandeur de l'opération justifie la situation de précarité énergétique du ménage selon l'article 3-1 de l'arrêté du 29 décembre 2014 modifié relatif aux modalités d'application de la troisième période du dispositif des certificats d'économies d'énergie par l'un des documents énoncés au point 8-1.
 
 Le bénéficiaire de l'opération établit la liste des ménages en situation de précarité énergétique bénéficiant de l'opération. Cette liste est intégrée à l'attestation sur l'honneur définie à l'annexe 7.
+
+NOTA :
+
+Conformément à l'article 2 de l'arrêté du 20 octobre 2016, ces dispositions sont applicables aux opérations d'économie d'énergie engagées à compter du 1er janvier 2017.
