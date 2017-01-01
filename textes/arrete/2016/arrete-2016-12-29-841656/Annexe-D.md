@@ -1,8 +1,8 @@
-# Article LEGIARTI000031855964
+# Article Annexe D
 
 ASSIGNATION DES ORDONNATEURS SECONDAIRES DU MINISTÈRE DE L'ÉDUCATION NATIONALE, DE L'ENSEIGNEMENT SUPÉRIEUR ET DE LA RECHERCHE
 
-DÉPARTEMENT DE RÉSIDENCE
+DÉPARTEMENT OU COLLECTIVITE DE RÉSIDENCE
 
 du centre de services partagés
 
@@ -64,7 +64,7 @@ HAUTE-GARONNE
 
 |
 
-Direction régionale des finances publiques de Languedoc-Roussillon-Midi-Pyrénées et du département de la Haute-Garonne
+Direction régionale des finances publiques d'Occitanie et du département de la Haute-Garonne
 
 |
 
@@ -72,7 +72,7 @@ GIRONDE
 
 |
 
-Direction régionale des finances publiques d'Aquitaine-Limousin-Poitou-Charentes et du département de la Gironde
+Direction régionale des finances publiques de Nouvelle-Aquitaine et du département de la Gironde
 
 |
 
@@ -136,7 +136,7 @@ NORD
 
 |
 
-Direction régionale des finances publiques de Nord-Pas-de-Calais-Picardie et du département du Nord
+Direction régionale des finances publiques des Hauts-de-France et du département du Nord
 
 |
 
@@ -152,7 +152,7 @@ BAS-RHIN
 
 |
 
-Direction régionale des finances publiques d'Alsace-Champagne-Ardenne-Lorraine et du département du Bas-Rhin
+Direction régionale des finances publiques du Grand Est et du département du Bas-Rhin
 
 |
 
@@ -173,8 +173,6 @@ Direction régionale des finances publiques d'Île-de-France et du département 
 |
 
 VAL-DE-MARNE (service interacadémique des examens et concours)
-
-|
 
 |
 

@@ -1,14 +1,12 @@
-# Article LEGIARTI000031855972
+# Article Annexe H
 
 ASSIGNATION DES PENSIONS ET ÉMOLUMENTS ASSOCIÉS
 
 1. Assignation des dépenses de pensions et émoluments associés
 
-DÉPARTEMENT OU COLLECTIVITÉ DE RÉSIDENCE
+DÉPARTEMENT OU COLLECTIVITÉ DE RÉSIDENCE DU CENTRE DE GESTION
 
-du centre de gestion des retraites
-
-ou du centre régional des pensions
+des retraites ou du centre régional des pensions
 
 |
 
@@ -36,7 +34,7 @@ HAUTE-GARONNE
 
 |
 
-Direction régionale des finances publiques de Languedoc-Roussillon-Midi-Pyrénées et du département de la Haute-Garonne
+Direction régionale des finances publiques d'Occitanie et du département de la Haute-Garonne
 
 |
 
@@ -44,7 +42,7 @@ GIRONDE
 
 |
 
-Direction régionale des finances publiques d'Aquitaine-Limousin-Poitou-Charentes et du département de la Gironde
+Direction régionale des finances publiques de Nouvelle-Aquitaine et du département de la Gironde
 
 |
 
@@ -84,7 +82,7 @@ NORD
 
 |
 
-Direction régionale des finances publiques de Nord-Pas-de-Calais-Picardie et du département du Nord
+Direction régionale des finances publiques des Hauts-de-France et du département du Nord
 
 |
 
@@ -176,7 +174,7 @@ HAUTE-GARONNE
 
 |
 
-Direction régionale des finances publiques de Languedoc-Roussillon-Midi-Pyrénées et du département de la Haute-Garonne
+Direction régionale des finances publiques d'Occitanie et du département de la Haute-Garonne
 
 |
 
@@ -184,7 +182,7 @@ GIRONDE
 
 |
 
-Direction régionale des finances publiques d'Aquitaine-Limousin-Poitou-Charentes et du département de la Gironde
+Direction régionale des finances publiques de Nouvelle-Aquitaine et du département de la Gironde
 
 |
 
@@ -224,7 +222,7 @@ NORD
 
 |
 
-Direction régionale des finances publiques de Nord-Pas-de-Calais-Picardie et du département du Nord
+Direction régionale des finances publiques des Hauts-de-France et du département du Nord
 
 |
 

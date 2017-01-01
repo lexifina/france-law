@@ -1,4 +1,4 @@
-# Article LEGIARTI000031855958
+# Article Annexe A
 
 ASSIGNATION DES ORDONNATEURS SECONDAIRES DU MINISTÈRE DE L'INTÉRIEUR ET DU MINISTÈRE DES OUTRE-MER
 
@@ -26,7 +26,11 @@ CALVADOS
 
 |
 
-Direction départementale des finances publiques du Calvados
+Direction régionale des finances publiques de Normandie et du département de la Seine-Maritime
+
+|
+
+SEINE-MARITIME
 
 |
 
@@ -50,15 +54,11 @@ DOUBS
 
 |
 
-Direction départementale des finances publiques du Doubs
-
-|
-
 HAUTE-GARONNE
 
 |
 
-Direction régionale des finances publiques de Languedoc-Roussillon-Midi-Pyrénées et du département de la Haute-Garonne
+Direction régionale des finances publiques d'Occitanie et du département de la Haute-Garonne
 
 |
 
@@ -66,7 +66,11 @@ GIRONDE
 
 |
 
-Direction régionale des finances publiques d'Aquitaine-Limousin-Poitou-Charentes et du département de la Gironde
+Direction régionale des finances publiques de Nouvelle-Aquitaine et du département de la Gironde
+
+|
+
+HAUTE-VIENNE
 
 |
 
@@ -106,7 +110,11 @@ MARNE
 
 |
 
-Direction départementale des finances publiques de la Marne
+Direction régionale des finances publiques du Grand Est et du département du Bas-Rhin
+
+|
+
+BAS-RHIN
 
 |
 
@@ -122,7 +130,7 @@ NORD
 
 |
 
-Direction régionale des finances publiques du Nord-Pas-de-Calais-Picardie et du département du Nord
+Direction régionale des finances publiques des Hauts-de-France et du département du Nord
 
 |
 
@@ -130,23 +138,11 @@ PUY-DE-DÔME
 
 |
 
-Direction départementale des finances publiques du Puy-de-Dôme
-
-|
-
-BAS-RHIN
-
-|
-
-Direction régionale des finances publiques d' Alsace-Champagne-Ardenne-Lorraine et du département du Bas-Rhin
+Direction régionale des finances publiques d'Auvergne-Rhône-Alpes et du département du Rhône
 
 |
 
 RHÔNE
-
-|
-
-Direction régionale des finances publiques d'Auvergne-Rhône-Alpes et du département du Rhône
 
 |
 
@@ -155,14 +151,6 @@ PARIS
 |
 
 Direction régionale des finances publiques d'Île-de-France et du département de Paris
-
-|
-
-SEINE-MARITIME
-
-|
-
-Direction régionale des finances publiques de Normandie et du département de la Seine-Maritime
 
 |
 
@@ -179,14 +167,6 @@ VIENNE
 |
 
 Direction départementale des finances publiques de la Vienne
-
-|
-
-HAUTE-VIENNE
-
-|
-
-Direction départementale des finances publiques de la Haute-Vienne
 
 |
 
@@ -214,7 +194,7 @@ GIRONDE
 
 |
 
-Direction régionale des finances publiques d'Aquitaine-Limousin-Poitou-Charentes et du département de la Gironde
+Direction régionale des finances publiques de Nouvelle-Aquitaine et du département de la Gironde
 
 |
 
@@ -238,7 +218,7 @@ NORD
 
 |
 
-Direction régionale des finances publiques du Nord-Pas-de-Calais-Picardie et du département du Nord
+Direction régionale des finances publiques des Hauts-de-France et du département du Nord
 
 |
 

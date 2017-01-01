@@ -1,10 +1,10 @@
-# Article LEGIARTI000032405935
+# Article Annexe C
 
-ASSIGNATION DES ORDONNATEURS SECONDAIRES DU MINISTÈRE DU LOGEMENT, DE L'EGALITE DES TERRITOIRES ET DE LA RURALITE, DU MINISTÈRE DE L'ÉCOLOGIE, DU DÉVELOPPEMENT DURABLE ET DE L'ÉNERGIE ET DU MINISTÈRE DE L'AGRICULTURE, DE L'AGROALIMENTAIRE ET DE LA FORÊT
+ASSIGNATION DES ORDONNATEURS SECONDAIRES DU MINISTÈRE DE L'ENVIRONNEMENT, DE L'ÉNERGIE ET DE LA MER, DU MINISTÈRE DU LOGEMENT ET DE L'HABITAT DURABLE ET DU MINISTÈRE DE L'AGRICULTURE, DE L'AGROALIMENTAIRE ET DE LA FORÊT
 
-DÉPARTEMENT DE RÉSIDENCE
+DÉPARTEMENT DE RÉSIDENCE DU CENTRE DE PRESTATIONS
 
-DU CENTRE DE PRESTATIONS COMPTABLES MUTUALISÉES
+comptables mutualisées (siège ou antenne)
 
 |
 
@@ -32,7 +32,7 @@ CÔTE-D'OR
 
 |
 
-Direction départementale des finances publiques de Saône-et-Loire
+Direction départementale des finances publiques du Doubs
 
 |
 
@@ -56,7 +56,7 @@ FINISTERE
 
 |
 
-Direction départementale des finances publiques du Morbihan
+Direction régionale des finances publiques de Bretagne et du département d'Ille-et-Vilaine
 
 |
 
@@ -80,7 +80,7 @@ ILLE-ET-VILAINE
 
 |
 
-Direction départementale des finances publiques du Morbihan
+Direction régionale des finances publiques de Bretagne et du département d'Ille-et-Vilaine
 
 |
 
@@ -120,7 +120,7 @@ NORD sauf pour les opérations mentionnées à la ligne suivante
 
 |
 
-Direction régionale des finances publiques de Nord-Pas-de-Calais-Picardie et du département du Nord
+Direction régionale des finances publiques des Hauts-de-France et du département du Nord
 
 |
 
@@ -156,7 +156,7 @@ Direction départementale des finances publiques des Vosges
 
 |
 
-RHÔNE pour les départements suivants : Ain, Ardèche, Drôme, Loire, Rhône
+RHÔNE pour les départements suivants : Ain, Drôme, Rhône
 
 |
 

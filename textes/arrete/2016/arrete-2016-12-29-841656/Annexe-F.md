@@ -1,14 +1,8 @@
-# Article LEGIARTI000031855968
+# Article Annexe F
 
 ASSIGNATION DES DÉPENSES SANS ORDONNANCEMENT AVANT RÈGLEMENT LIQUIDÉES À L'INITIATIVE D'UN COMPTABLE PRINCIPAL DES SERVICES DÉCONCENTRÉS DE LA DIRECTION GÉNÉRALE DES FINANCES PUBLIQUES
 
-DÉPARTEMENT OU COLLECTIVITÉ DE RÉSIDENCE
-
-du comptable principal des services déconcentrés
-
-de la direction générale des finances publiques
-
-à l'initiative de la liquidation
+RÉGION, DÉPARTEMENT OU COLLECTIVITÉ DE RÉSIDENCE DU COMPTABLE PRINCIPAL DES SERVICES DÉCONCENTRÉS DE LA DIRECTION GÉNÉRALE DES FINANCES PUBLIQUES À L'INITIATIVE DE LA LIQUIDATION
 
 |
 
@@ -16,111 +10,7 @@ COMPTABLE PRINCIPAL ASSIGNATAIRE
 
 |
 
-BAS-RHIN
-
-HAUT-RHIN
-
-|
-
-Direction régionale des finances publiques d'Alsace-Champagne-Ardenne-Lorraine et du département du Bas-Rhin
-
-|
-
-DORDOGNE
-
-GIRONDE
-
-LANDES
-
-LOT-ET-GARONNE
-
-PYRENEES-ATLANTIQUES
-
-|
-
-Direction régionale des finances publiques d'Aquitaine-Limousin-Poitou-Charentes et du département de la Gironde
-
-|
-
-ALLIER
-
-CANTAL
-
-HAUTE-LOIRE
-
-PUY-DE-DÔME
-
-|
-
-Direction départementale des finances publiques du Puy-de-Dôme
-
-|
-
-CALVADOS
-
-MANCHE
-
-ORNE
-
-|
-
-Direction départementale des finances publiques du Calvados
-
-|
-
-CÔTE-D'OR
-
-NIEVRE
-
-SAÔNE-ET-LOIRE
-
-YONNE
-
-|
-
-Direction régionale des finances publiques de Bourgogne-Franche-Comté et du département de la Côte-d'Or
-
-|
-
-CÔTES- D'ARMOR
-
-FINISTERE
-
-ILLE-ET-VILAINE
-
-MORBIHAN
-
-|
-
-Direction régionale des finances publiques de Bretagne et du département d'Ille-et-Vilaine
-
-|
-
-CHER
-
-EURE-ET-LOIRE
-
-INDRE
-
-INDRE-ET-LOIRE
-
-LOIR-ET-CHER
-
-LOIRET
-
-|
-
-Direction régionale des finances publiques du Centre-Val de Loire et du département du Loiret
-
-|
-
-ARDENNES
-
-AUBE
-
-MARNE
-
-HAUTE MARNE
+Départements : BAS-RHIN, HAUT-RHIN
 
 |
 
@@ -128,9 +18,47 @@ Direction départementale des finances publiques de la Marne
 
 |
 
-CORSE-DU-SUD
+Départements : DORDOGNE, GIRONDE, LANDES, LOT-ET-GARONNE, PYRENEES-ATLANTIQUES
 
-HAUTE-CORSE
+|
+
+Direction régionale des finances publiques de Nouvelle-Aquitaine et du département de la Gironde
+
+|
+
+Région : NORMANDIE
+
+|
+
+Direction départementale des finances publiques du Calvados
+
+|
+
+Région : BRETAGNE
+
+|
+
+Direction régionale des finances publiques de Bretagne et du département d'Ille-et-Vilaine
+
+|
+
+Région : CENTRE-VAL DE LOIRE
+
+|
+
+Direction régionale des finances publiques du Centre-Val de Loire et du département du Loiret
+
+|
+
+Départements : ARDENNES, AUBE, MARNE, HAUTE-MARNE
+
+|
+
+Direction départementale des finances publiques de la Marne
+
+|
+
+Région : CORSE
 
 |
 
@@ -138,11 +66,7 @@ Direction régionale des finances publiques de Corse et du département de la Co
 
 |
 
-DOUBS
-
-JURA
-
-HAUTE-SAÔNE TERRITOIRE-DE-BELFORT
+Région : BOURGOGNE-FRANCHE-COMTE
 
 |
 
@@ -150,31 +74,7 @@ Direction départementale des finances publiques du Doubs
 
 |
 
-EURE
-
-SEINE-MARITIME
-
-|
-
-Direction régionale des finances publiques de Normandie et du département de la Seine-Maritime
-
-|
-
-PARIS
-
-SEINE-ET-MARNE
-
-YVELINES
-
-ESSONNE
-
-HAUTS-DE-SEINE
-
-SEINE-SAINT-DENIS
-
-VAL-DE-MARNE
-
-VAL-D'OISE
+Région : ILE-DE-FRANCE
 
 |
 
@@ -182,15 +82,7 @@ Direction régionale des finances publiques d'Île-de-France et du département 
 
 |
 
-AUDE
-
-GARD
-
-HERAULT
-
-LOZERE
-
-PYRENEES-ORIENTALES
+Départements : AUDE, GARD, HERAULT, LOZERE, PYRENEES-ORIENTALES
 
 |
 
@@ -198,11 +90,7 @@ Direction départementale des finances publiques de l'Hérault
 
 |
 
-CORREZE
-
-CREUSE
-
-HAUTE-VIENNE
+Départements : CORREZE, CREUSE, HAUTE-VIENNE
 
 |
 
@@ -210,13 +98,7 @@ Direction départementale des finances publiques de la Haute-Vienne
 
 |
 
-MEURTHE-ET-MOSELLE
-
-MEUSE
-
-MOSELLE
-
-VOSGES
+Départements : MEURTHE-ET-MOSELLE, MEUSE, MOSELLE, VOSGES
 
 |
 
@@ -224,47 +106,23 @@ Direction départementale des finances publiques de la Moselle
 
 |
 
-ARIEGE
-
-AVEYRON
-
-HAUTE-GARONNE
-
-GERS
-
-LOT
-
-HAUTES-PYRENEES
-
-TARN
-
-TAR-ET-GARONNE
+Départements : ARIEGE, AVEYRON, HAUTE-GARONNE, GERS, LOT, HAUTES-PYRENEES, TARN, TARN-ET-GARONNE
 
 |
 
-Direction régionale des finances publiques de Languedoc-Roussillon-Midi-Pyrénées et du département de la Haute-Garonne
+Direction régionale des finances publiques d'Occitanie et du département de la Haute-Garonne
 
 |
 
-NORD
-
-PAS-DE-CALAIS
+Départements : NORD, PAS-DE-CALAIS
 
 |
 
-Direction régionale des finances publiques de Nord-Pas-de-Calais-Picardie et du département du Nord
+Direction régionale des finances publiques des Hauts-de-France et du département du Nord
 
 |
 
-LOIRE-ATLANTIQUE
-
-MAINE-ET-LOIRE
-
-MAYENNE
-
-SARTHE
-
-VENDEE
+Région : PAYS DE LA LOIRE
 
 |
 
@@ -272,11 +130,7 @@ Direction régionale des finances publiques des Pays de la Loire et du départem
 
 |
 
-AISNE
-
-OISE
-
-SOMME
+Départements : AISNE, OISE, SOMME
 
 |
 
@@ -284,13 +138,7 @@ Direction départementale des finances publiques de la Somme
 
 |
 
-CHARENTE
-
-CHARENTE-MARITIME
-
-DEUX-SEVRES
-
-VIENNE
+Départements : CHARENTE, CHARENTE-MARITIME, DEUX-SEVRES, VIENNE
 
 |
 
@@ -298,17 +146,7 @@ Direction départementale des finances publiques de la Vienne
 
 |
 
-ALPES-DE-HAUTE-PROVENCE
-
-HAUTES-ALPES
-
-ALPES-MARITIMES
-
-BOUCHES-DU-RHÔNE
-
-VAR
-
-VAUCLUSE
+Région : PROVENCE-ALPES-CÔTE D'AZUR
 
 |
 
@@ -316,21 +154,7 @@ Direction régionale des finances publiques de Provence-Alpes-Côte d'Azur et du
 
 |
 
-AIN
-
-ARDECHE
-
-DRÔME
-
-ISERE
-
-LOIRE
-
-RHÔNE
-
-SAVOIE
-
-HAUTE-SAVOIE
+Région : AUVERGNE-RHÔNE-ALPES
 
 |
 

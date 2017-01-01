@@ -1,10 +1,8 @@
-# Article LEGIARTI000031855960
+# Article Annexe B
 
 ASSIGNATION DES ORDONNATEURS SECONDAIRES DU MINISTÈRE DE LA JUSTICE
 
-DÉPARTEMENT DE RÉSIDENCE
-
-du centre de services partagés
+SERVICES
 
 |
 
@@ -44,7 +42,7 @@ Les premier président et procureur général de la cour d'appel de Toulouse
 
 |
 
-Direction régionale des finances publiques de Languedoc-Roussillon-Midi-Pyrénées et du département de la Haute-Garonne
+Direction régionale des finances publiques d'Occitanie et du département de la Haute-Garonne
 
 |
 
@@ -112,7 +110,7 @@ Les premier président et procureur général de la cour d'appel de Douai
 
 |
 
-Direction régionale des finances publiques de Nord-Pas-de-Calais-Picardie et du département du Nord
+Direction régionale des finances publiques des Hauts-de-France et du département du Nord
 
 |
 
@@ -161,14 +159,6 @@ Le responsable de la plate-forme interrégionale d'Ile-de-France (Savigny-sur-Or
 |
 
 Direction départementale des finances publiques de l'Essonne
-
-|
-
-Le directeur interrégional des services pénitentiaires situé à Paris
-
-|
-
-Le directeur interrégional de la protection judiciaire de la jeunesse situé à Paris
 
 |
 

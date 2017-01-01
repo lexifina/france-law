@@ -1,10 +1,10 @@
-# Article LEGIARTI000031855966
+# Article Annexe E
 
 ASSIGNATION DES CENTRES DE SERVICES PARTAGÉS INTERMINISTÉRIELS SITUÉS EN MÉTROPOLE (HORS CORSE)
 
 DÉPARTEMENT DE RÉSIDENCE
 
-DU CENTRE DE SERVICES PARTAGÉS
+du centre de services partagés
 
 |
 
@@ -28,14 +28,6 @@ Direction départementale des finances publiques du Calvados
 
 |
 
-CÔTE-D'OR
-
-|
-
-Direction régionale des finances publiques de Bourgogne-Franche-Comté et du département de la Côte-d'Or
-
-|
-
 DOUBS
 
 |
@@ -48,7 +40,7 @@ HAUTE-GARONNE
 
 |
 
-Direction régionale des finances publiques de Languedoc-Roussillon-Midi-Pyrénées et du département de la Haute-Garonne
+Direction régionale des finances publiques d'Occitanie et du département de la Haute-Garonne
 
 |
 
@@ -56,7 +48,7 @@ GIRONDE
 
 |
 
-Direction régionale des finances publiques d'Aquitaine-Limousin-Poitou-Charentes et du département de la Gironde
+Direction régionale des finances publiques de Nouvelle-Aquitaine et du département de la Gironde
 
 |
 
@@ -112,15 +104,7 @@ NORD
 
 |
 
-Direction régionale des finances publiques de Nord-Pas-de-Calais-Picardie et du département du Nord
-
-|
-
-PUY-DE-DÔME
-
-|
-
-Direction départementale des finances publiques du Puy-de-Dôme
+Direction régionale des finances publiques des Hauts-de-France et du département du Nord
 
 |
 
@@ -128,7 +112,7 @@ BAS-RHIN
 
 |
 
-Direction régionale des finances publiques d'Alsace-Champagne-Ardenne-Lorraine et du département du Bas-Rhin
+Direction départementale des finances publiques de la Marne
 
 |
 
@@ -140,19 +124,11 @@ Direction régionale des finances publiques d'Auvergne-Rhône-Alpes et du dépar
 
 |
 
-PARIS (culture/DGFiP) PARIS (autres ministères/DGFiP)
+PARIS
 
 |
 
 Direction régionale des finances publiques d'Île-de-France et du département de Paris
-
-|
-
-SEINE-MARITIME
-
-|
-
-Direction régionale des finances publiques de Normandie et du département de la Seine-Maritime
 
 |
 
