@@ -18,6 +18,6 @@ Fonctions exercées pouvant ouvrir droit au versement d'une nouvelle bonificatio
 
 8. Secrétaire général adjoint ;
 
-9. Rapporteur général de la section du rapport et des études ;
+9. Présidents adjoints de section administrative ;
 
 10. Chef de service chargé de la direction des ressources humaines.
