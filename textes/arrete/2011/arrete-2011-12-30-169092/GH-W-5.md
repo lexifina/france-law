@@ -2,17 +2,15 @@
 
 Service de sécurité incendie et d'assistance à personnes
 
-§ 1. En application des dispositions de l'article GH 62, le service de sécurité incendie et d'assistance à personnes des immeubles de classe GH W1 ou GH W2 comprend, sous la direction du chef de sécurité incendie de l'immeuble :
+§ 1. Le service de sécurité incendie et d'assistance à personnes des immeubles de classe GH W1 ou GH W2 comprend, sous la direction du chef de sécurité incendie de l'immeuble :
 
 a) Un service central de sécurité incendie dont la composition est fixée comme suit en fonction de la classe de l'immeuble :
 
-- GH W1 inférieur ou égal à 750 m² : deux agents de sécurité en permanence, dont un chef d'équipe ;
+- GH W 1 :
 
-- GH W1 de plus de 750 m² :
+- en période d'occupation de l'immeuble : un chef d'équipe ;
 
-- en période d'occupation de l'immeuble : trois agents de sécurité en permanence dont un chef d'équipe ;
-
-- en période de non-occupation : deux agents de sécurité en permanence dont un chef d'équipe ;
+- en période de non-occupation et en dérogation aux dispositions de l'article GH 62 : une personne connaissant parfaitement les consignes et leur application.
 
 - GH W2 : trois agents de sécurité en permanence dont un chef d'équipe. Toutefois, après avis de la commission de sécurité, cet effectif peut être ramené à deux agents de sécurité en période de non-occupation ;
 
