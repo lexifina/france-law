@@ -106,7 +106,7 @@ L'approbation d'un programme peut être retirée par le ministre chargé des tra
 
 9.1. Qualification des formateurs délivrant les formations pour le contrôle technique des véhicules équipés d'un réservoir de gaz carburant.
 
-Les formations spécifiques gaz (GPL/GNC) prévues aux paragraphes 3 et 4.3 de la présente annexe sont délivrées par des formateurs disposant d'une attestation de capacité délivrée par un organisme agréé par la Confédération française pour les essais non destructifs (COFREND), à l'issue d'une formation de trente-cinq heures ayant donné lieu à une évaluation satisfaisante. Le maintien de capacité du formateur est assujetti à la réalisation d'une formation d'au minimum quatre heures par année civile. Le formateur est en mesure de présenter son attestation de capacité et ses justificatifs de formation à toute demande des services de l'Etat.
+Les formations spécifiques gaz (GPL/ GNC) prévues aux paragraphes 3 et 4.3 de la présente annexe sont délivrées par des formateurs disposant d'une attestation de capacité délivrée par un organisme agréé par la Confédération française pour les essais non destructifs (COFREND), à l'issue d'une formation de trente-cinq heures ayant donné lieu à une évaluation satisfaisante.
 
 9.2. Qualification des formateurs délivrant des formations pour le contrôle technique des véhicules électriques ou hybrides.
 

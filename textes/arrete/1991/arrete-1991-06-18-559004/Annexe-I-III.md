@@ -564,11 +564,11 @@ visite
 
 |
 
-3.1.2.1.1. Visibilité insuffisante (AVD. AVG. AR. ARD. ARG.)
+3.1.2.1.1. Visibilité insuffisante (AVD. AVG. ).
 
 |
 
-N
+O
 
 |
 

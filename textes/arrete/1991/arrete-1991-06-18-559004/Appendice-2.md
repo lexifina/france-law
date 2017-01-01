@@ -170,6 +170,12 @@ Tout véhicule pour lequel une contre-visite a été prescrite au titre de "l'op
 
 - pour, le ou les points de la fonction 8 ayant rendu le contrôle impossible (le cas échéant).
 
+Tout véhicule pour lequel une contre-visite a été prescrite au titre du dispositif de diagnostic embarqué (OBD) fait l'objet, lors de la contre-visite, de l'ensemble des contrôles prévus :
+
+- pour le dispositif de diagnostic embarqué ;
+
+- selon l'énergie présente sur le véhicule, pour la teneur en CO et valeur du lambda des gaz d'échappement ou pour l'opacité des fumées d'échappement.
+
 Installation de gaz carburant sur véhicule
 
 Tout véhicule, pour lequel une contre-visite a été prescrite au titre d'un des points de la fonction "Contrôle de l'installation de gaz carburant sur véhicule", fait l'objet lors de la contre-visite de l'ensemble des contrôles prescrits pour ladite fonction. La contre-visite est réalisée par un contrôleur disposant de la qualification spécifique prévue à l'article 12-1 du présent arrêté.
