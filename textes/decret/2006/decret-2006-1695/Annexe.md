@@ -21,3 +21,5 @@ Cadre d'emplois des conseillers territoriaux des activités physiques et sportiv
 Cadre d'emplois des psychologues territoriaux.
 
 Cadre d'emplois des directeurs de police municipale.
+
+Cadre d'emplois de conception et de direction des sapeurs-pompiers professionnels.

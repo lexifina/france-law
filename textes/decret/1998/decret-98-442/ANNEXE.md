@@ -282,7 +282,11 @@ Directeur |
 
 33 à 39 (*) |
 
-Colonel.
+Officiers de sapeurs-pompiers professionnels
+
+relevant du cadre d'emploi de conception et de direction
+
+des sapeurs-pompiers professionnels.
 
 |
 

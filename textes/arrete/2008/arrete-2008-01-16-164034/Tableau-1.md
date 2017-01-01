@@ -452,7 +452,7 @@ au 1er novembre 2006
 
 |
 
-Grade de colonel
+Grade d'officiers de sapeurs-pompiers professionnels relevant du cadre d'emploi de conception et de direction des sapeurs-pompiers professionnels
 
 ÉCHELONS
 

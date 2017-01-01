@@ -96,4 +96,4 @@ Grade d'infirmier de classe normale du cadre d'emplois des infirmiers de sapeurs
 
 Grade de cadre de santé de 2e classe du cadre d'emplois des cadres de santé de sapeurs-pompiers professionnels.
 
-Grade de capitaine du cadre d'emplois de capitaine, commandant, lieutenant-colonel et colonel de sapeurs-pompiers.
+Grade de capitaine du cadre d'emplois de capitaine, commandant, lieutenant-colonel et officiers de sapeurs-pompiers professionnels relevant du cadre d'emploi de conception et de direction des sapeurs-pompiers professionnels de sapeurs-pompiers.
