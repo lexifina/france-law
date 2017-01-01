@@ -2,33 +2,21 @@
 
 LISTE DES SUBSTANCES FIGURANT DANS CHAQUE CATÉGORIE MENTIONNÉE AU I DE L'ARTICLE R. 213-48-13 DU CODE DE L'ENVIRONNEMENT ET CONCERNÉES PAR LA REDEVANCE POUR POLLUTIONS DIFFUSES VISÉE À L'ARTICLE L. 213-10-8 DU MÊME CODE
 
-Substances classées en raison de leur cancérogénicité, ou de leur mutagénicité sur les cellules germinales ou de leur toxicité pour la reproduction de catégorie 1A ou 1B :
+-Substances classées en raison de leur cancérogénicité, ou de leur mutagénicité sur les cellules germinales ou de leur toxicité pour la reproduction de catégorie 1A ou 1B :
 
-DÉNOMINATION
-
-de la substance
+Dénomination de la substance
 
 |
 
-LE CAS ÉCHÉANT,
-
-dans le cadre du règlement
-
-d'exécution (UE) ou
-
-de la décision communautaire
+Le cas échéant, dans le cadre du règlement d'exécution UE ou de la décision communautaire
 
 |
 
-CORRESPONDANT
-
-notamment au CAS
+Correspondant notamment au CAS
 
 |
 
-À L'EXCEPTION
-
-de la forme structurale
+A l'exception de la forme structurale
 
 |
 
@@ -88,33 +76,21 @@ Linuron
 
 |
 
-Substances classées en raison de leur cancérogénicité, ou de leur mutagénicité sur les cellules germinales ou de leur toxicité pour la reproduction de catégorie 2 :
+-Substances classées en raison de leur cancérogénicité, ou de leur mutagénicité sur les cellules germinales ou de leur toxicité pour la reproduction de catégorie 2 :
 
-DÉNOMINATION
-
-de la substance
+Dénomination de la substance
 
 |
 
-LE CAS ÉCHÉANT,
-
-dans le cadre du règlement
-
-d'exécution (UE) ou
-
-de la décision communautaire
+Le cas échéant, dans le cadre du règlement d'exécution UE ou de la décision communautaire
 
 |
 
-Correspondant
-
-notamment au CAS
+Correspondant notamment au CAS
 
 |
 
-À L'EXCEPTION
-
-de la forme structurale
+A l'exception de la forme structurale
 
 |
 
@@ -224,7 +200,13 @@ Bromoxynil
 
 |
 
-1689-99-2 ; 1689-84-5 ; 3861-41-4 ; 56634-95-8
+1689-99-2,
+
+1689-84-5,
+
+3861-41-4,
+
+56634-95-8
 
 |
 
@@ -440,20 +422,6 @@ Fluazinam
 
 |
 
-Fluopyram
-
-|
-
-802/2013
-
-|
-
-658066-35-4
-
-|
-
-|
-
 Fluoxastrobine
 
 |
@@ -538,6 +506,20 @@ Fuberidazole
 
 |
 
+Imazalil (enilconazole)
+
+|
+
+705/2011
+
+|
+
+35554-44-0
+
+|
+
+|
+
 Iprodione
 
 |
@@ -560,7 +542,9 @@ Ioxynil
 
 |
 
-3861-47-0,1689-83-4
+3861-47-0,
+
+1689-83-4
 
 |
 
@@ -701,6 +685,20 @@ Metconazole
 |
 
 125116-23-6
+
+|
+
+|
+
+Métobromuron
+
+|
+
+890/2014
+
+|
+
+3060-89-7
 
 |
 
@@ -1084,33 +1082,35 @@ Triflusulfuron
 
 |
 
-Substances classées en raison de leurs effets sur ou via l'allaitement :
-
-DÉNOMINATION
-
-de la substance
+Valifenalate
 
 |
 
-LE CAS ÉCHÉANT,
-
-dans le cadre du règlement
-
-d'exécution (UE) ou
-
-de la décision communautaire
+2013/205
 
 |
 
-CORRESPONDANT
-
-notamment au CAS
+283159-90-0
 
 |
 
-À L'EXCEPTION
+|
 
-de la forme structurale
+-Substances classées en raison de leurs effets sur ou via l'allaitement :
+
+Dénomination de la substance
+
+|
+
+Le cas échéant, dans le cadre du règlement d'exécution UE ou de la décision communautaire
+
+|
+
+Correspondant notamment au CAS
+
+|
+
+A l'exception de la forme structurale
 
 |
 
@@ -1128,33 +1128,21 @@ Etofenprox
 
 |
 
-Substances classées en raison de leur toxicité aiguë de catégorie 1,2 ou 3 ou en raison de leur toxicité spécifique pour certains organes cibles, de catégorie 1, à la suite d'une exposition unique ou après une exposition répétée :
+-Substances classées en raison de leur toxicité aiguë de catégorie 1,2 ou 3 ou en raison de leur toxicité spécifique pour certains organes cibles, de catégorie 1, à la suite d'une exposition unique ou après une exposition répétée :
 
-DÉNOMINATION
-
-de la substance
+Dénomination de la substance
 
 |
 
-LE CAS ÉCHÉANT,
-
-dans le cadre du règlement
-
-d'exécution UE ou
-
-de la décision communautaire
+Le cas échéant, dans le cadre du règlement d'exécution UE ou de la décision communautaire
 
 |
 
-CORRESPONDANT
-
-notamment au CAS
+Correspondant notamment au CAS
 
 |
 
-À L'EXCEPTION
-
-de la forme structurale
+A l'exception de la forme structurale
 
 |
 
@@ -1186,7 +1174,7 @@ Acéquinocyl
 
 |
 
-Acide benzoïque
+Acide benzoique
 
 |
 
@@ -1306,11 +1294,19 @@ Cuivre et composés
 
 |
 
-12069-69-1,71789-22-8,20427-59-2,1332-65-6,1332-40-7
+12069-69-1,
+
+71789-22-8,
+
+20427-59-2,
+
+1332-65-6,
+
+1332-40-7
 
 |
 
-Cuivre du sulfate de cuivre ; cuivre de l'oxyde cuivreux, cuivre du sulfate tribasique, cuivre du sulfate tétracuivrique et tricalcique
+Cuivre du sulfate de cuivre ; Cuivre de l'oxyde cuivreux, Cuivre du sulfate tribasique, Cuivre du sulfate tétracuivrique et tricalcique
 
 |
 
@@ -1449,6 +1445,20 @@ Ethéphon
 |
 
 16672-87-0
+
+|
+
+|
+
+Ethoprophos
+
+|
+
+1178/2013
+
+|
+
+13194-48-4
 
 |
 
@@ -1650,20 +1660,6 @@ Phosphure de calcium
 
 |
 
-Phosphure d'hydrogène
-
-|
-
-0
-
-|
-
-7803-51-2
-
-|
-
-|
-
 Phosphure de magnésium
 
 |
@@ -1776,33 +1772,21 @@ Zirame
 
 |
 
-Substances classées en raison de leur danger pour l'environnement :
+-Substances classées en raison de leur danger pour l'environnement :
 
-DÉNOMINATION
-
-de la substance
+Dénomination de la substance
 
 |
 
-LE CAS ÉCHÉANT,
-
-dans le cadre du règlement
-
-d'exécution (UE) ou
-
-de la décision communautaire
+Le cas échéant, dans le cadre du règlement d'exécution (UE) ou de la décision communautaire
 
 |
 
-CORRESPONDANT
-
-notamment au CAS
+Correspondant notamment au CAS
 
 |
 
-À L'EXCEPTION
-
-de la forme structurale
+A l'exception de la forme structurale
 
 |
 
@@ -1842,7 +1826,9 @@ de la forme structurale
 
 |
 
-94-75-7 ; 1928-43-4
+94-75-7
+
+1928-43-4
 
 |
 
@@ -1876,9 +1862,7 @@ Acétamipride
 
 |
 
-Acibenzolar-S-methyl
-
-(ou benzothiadiazole)
+Acibenzolar-S-methyl (ou benzothiadiazole)
 
 |
 
@@ -1892,7 +1876,7 @@ Acibenzolar-S-methyl
 
 |
 
-acide 1-naphthylacétique (ANA)
+Acide 1-naphthylacétique (ANA)
 
 |
 
@@ -2620,6 +2604,20 @@ Fenpropidine
 
 |
 
+Fenpyrazamine
+
+|
+
+595/2012
+
+|
+
+473798-59-3
+
+|
+
+|
+
 Flazasulfuron
 
 |
@@ -2690,6 +2688,20 @@ Fluopicolide
 
 |
 
+Fluopyram
+
+|
+
+802/2013
+
+|
+
+658066-35-4
+
+|
+
+|
+
 Flupyrsulfuron méthyle
 
 |
@@ -2712,7 +2724,9 @@ Fluroxypyr
 
 |
 
-69377-81-7 ; 81406-37-3
+69377-81-7,
+
+81406-37-3
 
 |
 
@@ -2782,7 +2796,9 @@ Glyphosate
 
 |
 
-81591-81-3,1071-83-6
+81591-81-3,
+
+1071-83-6
 
 |
 
@@ -2853,20 +2869,6 @@ Hymexazol
 |
 
 10004-44-1
-
-|
-
-|
-
-Imazalil (enilconazole)
-
-|
-
-705/2011
-
-|
-
-35554-44-0
 
 |
 
@@ -3398,15 +3400,15 @@ Phényl-2 phénol
 
 |
 
-90-43-7,132-27-4,
+90-43-7,
+
+132-27-4,
 
 |
 
 |
 
-Phéromones de lépidoptères
-
-à chaîne linéaire
+Phéromones de lépidoptères à chaîne linéaire
 
 |
 
@@ -3414,7 +3416,11 @@ Phéromones de lépidoptères
 
 |
 
-33956-49-9,16974-11-1,54364-62-4
+33956-49-9,
+
+16974-11-1,
+
+54364-62-4,
 
 40642-40-8,
 
@@ -3524,7 +3530,9 @@ Prochloraze
 
 |
 
-75747-77-2,67747-09-5
+75747-77-2,
+
+67747-09-5
 
 |
 
@@ -4056,7 +4064,9 @@ Trinexapac (ou cimetacarb ethyl)
 
 |
 
-104273-73-6,95266-40-3
+104273-73-6,
+
+95266-40-3
 
 |
 
@@ -4090,20 +4100,6 @@ Tritosulfuron
 
 |
 
-Valifenalate
-
-|
-
-2013/205
-
-|
-
-283159-90-0
-
-|
-
-|
-
 Zoxamide
 
 |
@@ -4118,33 +4114,21 @@ Zoxamide
 
 |
 
-Dont substances minérales classées en raison de leur danger pour l'environnement :
+-Dont substances minérales classées en raison de leur danger pour l'environnement :
 
-DÉNOMINATION
-
-de la substance
+Dénomination de la substance
 
 |
 
-LE CAS ÉCHÉANT,
-
-dans le cadre du règlement
-
-d'exécution (UE) ou
-
-de la décision communautaire
+Le cas échéant, dans le cadre du règlement d'exécution UE ou de la décision communautaire
 
 |
 
-CORRESPONDANT
-
-notamment au CAS
+Correspondant notamment au CAS
 
 |
 
-À L'EXCEPTION
-
-de la forme structurale
+A l'exception de la forme structurale
 
 |
 
@@ -4156,11 +4140,17 @@ Cuivre et composés
 
 |
 
-8011-63-0,12527-76-3,7758-98-7,1317-39-1
+8011-63-0,
+
+12527-76-3,
+
+7758-98-7,
+
+1317-39-1
 
 |
 
-Cuivre de l'hydroxyde de cuivre, cuivre de l'oxychlorure de cuivre
+Cuivre de l'hydroxyde de cuivre, Cuivre de l'oxychlorure de cuivre
 
 |
 
@@ -4182,6 +4172,8 @@ Thiocyanate d'ammonium
 
 |
 
+-
+
 |
 
 1762-95-4
@@ -4198,8 +4190,4 @@ Zinc (incl. sulfate de zinc)
 
 |
 
-7446-19-7
-
-|
-
-|
+7446-19-7 |
