@@ -538,7 +538,7 @@ Décret n° 2005-276 du 24 mars 2005 relatif à l'interopérabilité des systèm
 
 |
 
-Habilitation des organismes mettant en œuvre la procédure d'évaluation de la conformité ou de l'aptitude à l'emploi des constituants d'interopérabilité et la procédure de vérification "CE" des sous-systèmes.
+Habilitation des organismes mettant en œuvre la procédure d'évaluation de la conformité ou de l'aptitude à l'emploi des constituants d'interopérabilité et la procédure de vérification " CE " des sous-systèmes.
 
 |
 
@@ -1156,7 +1156,7 @@ Article 6.
 
 |
 
-Décret n° 79-222 du 6 mars 1979 modifié fixant le régime applicable aux transports routiers internationaux de voyageurs
+Code des transports
 
 1
 
@@ -1166,7 +1166,7 @@ Délivrance des autorisations pour l'exécution de services internationaux de tr
 
 |
 
-Article 3.
+Article R. 3111-57
 
 |
 
@@ -1184,7 +1184,7 @@ Article 2.
 
 |
 
-Décret n° 83-40 du 26 janvier 1983 relatif aux modalités d'application des dispositions du code du travail concernant la durée du travail dans les entreprises du transport routier
+Code des transports
 
 1
 
@@ -1194,9 +1194,7 @@ Autorisation ministérielle au calcul de la durée hebdomadaire de travail sur d
 
 |
 
-Article 4,
-
-paragraphe 3.
+Article D. 3312-41
 
 |
 

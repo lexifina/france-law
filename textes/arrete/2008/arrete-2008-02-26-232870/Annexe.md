@@ -1,8 +1,6 @@
 # Article Annexe
 
-INFORMATIONS REQUISES POUR L'INSCRIPTION AU RÉPERTOIRE
-
-NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
+INFORMATIONS REQUISES POUR L'INSCRIPTION AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
 
 Intitulé : conducteur (trice) du transport routier de marchandises sur porteur.
 
@@ -84,9 +82,9 @@ N 4101-Conduite de transport de marchandises sur longues distances
 
 Réglementation de l'activité :
 
-L'obtention du titre permet la délivrance du permis de conduire de la catégorie C et de la carte de qualification de conducteur, conditions réglementaires d'exercice de l'emploi (décret n° 2007-1340 du 11 septembre 2007, modifié par le décret n° 2010-931 du 24 août 2010 ; article 2 de l'arrêté du 27 décembre 2005 ; arrêté du 31 décembre 2010 fixant les conditions de délivrance de la carte de qualification de conducteur).
+L'obtention du titre permet la délivrance du permis de conduire de la catégorie C et de la carte de qualification de conducteur, conditions réglementaires d'exercice de l'emploi (articles R. 3314-1 à R. 3314-28 du code des transports ; article 2 de l'arrêté du 27 décembre 2005 ; arrêté du 31 décembre 2010 fixant les conditions de délivrance de la carte de qualification de conducteur).
 
-La détention du titre permet d'abaisser la limite d'âge pour l'exercice de la profession à 18 ans (article 3 du décret n° 2007-1340 du 11 septembre 2007 modifié).
+La détention du titre permet d'abaisser la limite d'âge pour l'exercice de la profession à 18 ans (article R. 3314-4 du code des transports).
 
 Le candidat se présentant par la voie de la validation des acquis de l'expérience (VAE) à une session de validation conduisant au titre professionnel de conducteur de transport routier de marchandises sur porteur doit, lors de son inscription, satisfaire aux conditions énoncées ci-dessous :
 

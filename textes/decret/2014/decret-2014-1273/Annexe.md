@@ -1082,6 +1082,32 @@ Articles R. 155-3 et R. 155-6 du code des ports maritimes
 
 |
 
+Délivrance des autorisations de transport international de personnes par route |
+
+Règlement (CE) n° 1073/2009 du 21 octobre 2009, chapitre III.
+
+Article R. 3111-62 |
+
+4 mois (cf. article 8 du règlement [CE] n° 1073/2009) |
+
+Délivrance de l'autorisation d'exercer la profession de transporteur routier, de déménageur et de loueur de véhicules industriels avec conducteur destinés au transport de marchandises |
+
+1. Articles R. 3113-2 et R. 3113-3
+
+2. Article R. 3211-7 |
+
+Délai d'instruction de 3 mois. Prorogation d'un mois possible. |
+
+Délivrance de l'attestation de capacité professionnelle en vue d'exercer la profession de transporteur routier |
+
+1. Articles R. 3113-35 à R. 3113-42
+
+2. Articles R. 3211-36 à R. 3211-42 |
+
+1. Examen : pas de délai en raison de la condition suspensive consistant en la réussite à l'examen-1 session par an en France
+
+2. Diplômes et expérience professionnelle : 2 mois |
+
 Validation de l'expérience professionnelle (jours de navigations portés au livret de service)
 
 |
@@ -1743,56 +1769,6 @@ Article 62
 |
 
 1 an
-
-|
-
-Divers décrets dans le domaine des transports
-
-|
-
-Délivrance de l'autorisation d'exercer la profession de transporteur routier, de déménageur et de loueur de véhicules industriels avec conducteur destinés au transport de marchandises
-
-|
-
-1. Article 2 du décret n° 85-891 du 16 août 1985 modifié relatif aux transports urbains de personnes et aux transports non urbains de personnes
-
-2. Article 2 du décret n° 99-752 du 30 août 1999 modifié relatif aux transports routiers de marchandises
-
-|
-
-Pour les deux décrets : délai d'instruction de 3 mois. Prorogation d'un mois possible
-
-|
-
-Délivrance de l'attestation de capacité professionnelle en vue d'exercer la profession de transporteur routier
-
-|
-
-1. Article 7 du décret n° 85-891 du 16 août 1985 relatif aux transports urbains de personnes et aux transports non urbains de personnes
-
-2. Article 9 du décret n° 99-752 du 30 août 1999 relatif aux transports routiers de marchandises
-
-|
-
-Pour les deux décrets :
-
-1. Examen : pas de délai en raison de la condition suspensive consistant en la réussite à l'examen-1 session par an en France
-
-2. Diplômes et expérience professionnelle : 2 mois
-
-|
-
-Délivrance des autorisations de transport international de personnes par route
-
-|
-
-Règlement (CE) n° 1073/2009 du 21 octobre 2009, chapitre III.
-
-Article 8 du décret n° 79-222 du 6 mars 1979 fixant le régime applicable aux transports routiers internationaux de voyageurs.
-
-|
-
-4 mois (cf. article 8 du règlement [CE] n° 1073/2009)
 
 |
 
