@@ -106,11 +106,11 @@ Lecture et interprétation d'œuvres et d'objets culturels :
 
 Identifier et comprendre la notion d'œuvres et d'objets culturels à travers la construction de grilles de lecture adaptées.
 
-IV. ― Langue vivante étrangère
+IV. ― Langue vivante autre que le français
 
-Le niveau requis est le niveau C1 du cadre européen commun de référence.
+Le niveau requis est le niveau C1 du cadre européen commun de référence pour les langues.
 
-Une langue vivante étrangère obligatoire minimum.
+Une langue vivante autre que le français obligatoire minimum.
 
 L'établissement pourra valider des langues complémentaires.
 

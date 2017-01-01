@@ -1,6 +1,6 @@
 # Article Annexe II
 
-COMPÉTENCES DE GUIDE-CONFÉRENCIER À ACQUÉRIR DANS LE CADRE D'UN DIPLÔME NATIONAL DE MASTER
+COMPÉTENCES DE GUIDE-CONFÉRENCIER À ACQUÉRIR AU NIVEAU MASTER
 
 A. - Unité d'enseignement de compétences des guides-conférenciers
 
@@ -116,11 +116,11 @@ Le stagiaire doit pouvoir être en situation de pratiquer le métier.
 
 Ce stage donne lieu à un rapport où doivent clairement apparaître les objectifs initiaux, les compétences mises en œuvre et acquises à cette occasion, le travail personnel effectivement réalisé. Il est le moyen pour l'étudiant d'analyser ses lacunes au contact des réalités de la profession et de les combler grâce au suivi de son tuteur et de l'équipe pédagogique.
 
-C. - Unité d'enseignement " langue vivante étrangère "
+C. - Unité d'enseignement " langue vivante autre que le français "
 
-Le niveau requis est le niveau C1 du cadre européen commun de référence.
+Le niveau requis est le niveau C1 du cadre européen commun de référence pour les langues.
 
-Une langue vivante étrangère obligatoire minimum.
+Une langue vivante autre que le français obligatoire minimum.
 
 L'établissement pourra valider des langues complémentaires.
 
