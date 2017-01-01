@@ -1,537 +1,565 @@
 # Article Annexe I
 
-DÉNOMINATIONS ET CIRCONSCRIPTIONS
+DÉNOMINATION
+
+des directions
+
+interrégionales (DI)
+
+|
+
+DÉNOMINATION
 
 des directions régionales (DR) et des services
 
 |
 
-RÉGIONS
+RESSORT TERRITORIAL DES DIRECTIONS RÉGIONALES ET SERVICES
 
-ou collectivités
-
 |
+
+Régions ou collectivités
 
-CIRCONSCRIPTIONS DES DIRECTIONS
+|
 
-interregionales (DI)
+Départements ou zones maritimes
 
 |
 
-DÉNOMINATION des directions interrégionales
+DI Nouvelle-Aquitaine
 
-de rattachement
+(Siège : Bordeaux)
 
 |
 
-DR Lille : Nord (arrondissements de Lille, Valenciennes, Cambrai, Avesnes-sur-Helpe et Douai).
+DR Bordeaux
 
 |
+
+Nouvelle-Aquitaine |
 
-Nord - Pas-de-Calais.
+Dordogne, Gironde, Lot-et-Garonne
 
 |
 
-Nord, Pas-de-Calais, Aisne, Oise, Somme.
+DR Bayonne
 
 |
 
-DI Lille.
+Landes, Pyrénées-Atlantiques
 
 |
 
-DR Dunkerque : Nord (arrondissement de Dunkerque) et Pas-de-Calais.
+DR Poitiers
 
 |
 
-DR Picardie : Aisne, Oise, Somme.
+Charente, Charente-Maritime, Deux-Sèvres, Vienne, Corrèze, Creuse, Haute-Vienne
 
 |
 
-Picardie.
+DI Bourgogne-Franche-Comté, Centre-Val de Loire
 
+(Siège : Dijon)
+
 |
 
-DR Paris : Paris.
+DR Dijon
 
 |
 
-Ile-de-France.
+Bourgogne-Franche-Comté
 
 |
-
-Paris.
 
-Seine-Saint-Denis (sauf les aéroports de Roissy et du Bourget), Seine-et-Marne (sauf l'aéroport de Roissy), Hauts-de-Seine, Val-d'Oise (sauf l'aéroport de Roissy), Essonne, Yvelines, Val-de-Marne.
+Côte-d'Or, Nièvre, Saône-et-Loire, Yonne
 
 |
 
-DI Paris.
+DR Besançon
 
 |
 
-DR Paris-Est : Seine-Saint-Denis (sauf les aéroports de Roissy et du Bourget), Seine-et-Marne (sauf l'aéroport de Roissy) et Val-de-Marne (sauf l'aéroport d'Orly).
+Doubs, Jura, Haute-Saône, Territoire de Belfort
 
 |
 
-DR Paris-Ouest : Hauts-de-Seine, Yvelines, Essonne et Val-d'Oise (sauf l'aéroport de Roissy).
+DR Centre-Val de Loire
 
 |
 
-DR Orly : Val-de-Marne (uniquement l'aéroport d'Orly).
+Centre-Val de Loire
 
 |
 
-DR Roissy fret : Seine-Saint-Denis (uniquement les aéroports de Roissy et du Bourget), Seine-et-Marne (uniquement l'aéroport de Roissy), Val-d'Oise (uniquement l'aéroport de Roissy).
+Cher, Eure-et-Loir, Indre, Indre-et-Loire, Loir-et-Cher, Loiret
 
 |
 
-Seine-Saint-Denis (uniquement les aéroports de Roissy et du Bourget), Seine-et-Marne
+DI Hauts-de-France
 
-(uniquement l'aéroport de Roissy), Val-d'Oise (uniquement l'aéroport de Roissy).
+(Siège : Lille)
 
 |
 
-DI Roissy.
+DR Dunkerque
 
 |
 
-DR Roissy voyageurs : Seine-Saint-Denis (uniquement les aéroports de Roissy et du Bourget), Seine-et-Marne
+Hauts-de-France |
 
-(uniquement l'aéroport de Roissy), Val-d'Oise
+Nord (arrondissement de Dunkerque), Pas-de-Calais
 
-(uniquement l'aéroport de Roissy).
-
 |
 
-DR Rouen : Eure et Seine-Maritime (arrondissements de Rouen et de Dieppe).
+DR Lille
 
 |
 
-Haute-Normandie.
+Nord (arrondissements de Lille, de Valenciennes, de Cambrai, d'Avesnes-sur-Helpe et de Douai)
 
 |
 
-Eure, Seine-Maritime, Calvados, Manche, Orne.
+DR Amiens
 
 |
 
-DI Rouen.
+Aisne, Oise, Somme
 
 |
+
+DI Auvergne-Rhône-Alpes
 
-DR Le Havre : Seine-Maritime (arrondissement du Havre).
+(Siège : Lyon)
 
 |
 
-DR Rouen garde-côtes (1).
+DR Clermont-Ferrand
 
 |
 
-DR Basse-Normandie: Calvados, Manche, Orne.
+Auvergne-Rhône-Alpes
 
 |
 
-Basse-Normandie.
+Allier, Cantal, Haute-Loire, Puy-de-Dôme
 
 |
 
-DR Pays de la Loire : Loire-Atlantique, Maine-et-Loire, Mayenne, Sarthe, Vendée.
+DR Chambéry
 
 |
 
-Pays de la Loire.
+Savoie, Isère (arrondissement de Grenoble), Haute-Savoie (arrondissement de Bonneville)
 
 |
 
-Loire-Atlantique, Maine-et-Loire, Mayenne, Sarthe, Vendée.
+DR Annecy
 
 |
 
-DI Nantes.
+Ain, Haute-Savoie (arrondissements de Saint-Julien-en-Genevois, de Thonon-les-Bains et d'Annecy)
 
 |
 
-DR Nantes garde-côtes (2).
+DR Lyon
 
 |
 
-DR Bretagne : Côtes-d'Armor, Finistère, Ille-et-Vilaine, Morbihan.
+Ardèche, Drôme, Loire, Isère (arrondissements de Vienne et de La Tour-du-Pin), Rhône
 
 |
 
-Bretagne.
+DI Provence-Alpes-Côte d'Azur, Corse
 
+(Siège : Marseille)
+
 |
 
-Côtes-d'Armor, Finistère, Ille-et-Vilaine, Morbihan.
+DR Marseille
 
 |
-
-DR Poitiers : Charente, Charente-Maritime, Deux-Sèvres, Vienne.
 
-Corrèze, Creuse, Haute-Vienne.
+Provence-Alpes-Côte d'Azur
 
 |
 
-Poitou-Charentes. Limousin.
+Bouches-du-Rhône (cantons d'Allauch, d'Arles, d'Aubagne, de Berre-l'Etang, de Gardanne, d'Istres, de La Ciotat, de Marignane, de Marseille 1 à 12, de Martigues, de Salon-de-Provence 2, de Vitrolles)
 
 |
 
-Charente, Charente-Maritime, Deux-Sèvres, Vienne.
+DR Aix-en-Provence
 
-Corrèze, Creuse, Haute-Vienne.
-
 |
 
-DR Bordeaux : Dordogne, Gironde, Lot-et-Garonne.
+Bouches-du Rhône (cantons d'Aix-en-Provence 1 et 2, de Châteaurenard, de Pélissanne, de Salon-de-Provence 1, de Trets), Var, Vaucluse, Alpes-de-Haute-Provence, Hautes-Alpes
 
 |
 
-Aquitaine.
+DR Nice
 
 |
 
-Dordogne, Gironde, Lot-et-Garonne.
+Alpes-Maritimes
 
 |
 
-DI Bordeaux.
+DR Marseille garde-côtes
 
 |
 
-DR Bayonne : Landes, Pyrénées-Atlantiques.
+Rayon maritime des douanes et zone contiguë des façades maritimes des régions Occitanie, Provence-Alpes-Côte d'Azur et Corse
 
 |
 
-Landes, Pyrénées-Atlantiques.
+DR Corse
 
 |
 
-DR Midi-Pyrénées : Ariège, Aveyron, Haute-Garonne, Gers, Lot, Hautes-Pyrénées, Tarn, Tarn-et-Garonne.
+Corse
 
 |
 
-Midi-Pyrénées.
+Corse-du-Sud, Haute-Corse
 
 |
+
+DI Grand Est
 
-Ariège, Aveyron, Haute-Garonne, Gers, Lot, Hautes-Pyrénées, Tarn, Tarn-et-Garonne.
+(Siège : Metz)
 
 |
 
-DR Lorraine : Meurthe-et-Moselle, Meuse, Vosges, Moselle.
+DR Reims
 
 |
 
-Lorraine.
+Grand Est
 
 |
 
-Meurthe-et-Moselle, Meuse, Vosges, Moselle.
+Ardennes, Aube, Marne, Haute-Marne
 
 |
 
-DI Metz.
+DR Nancy
 
 |
 
-DR Mulhouse : Haut-Rhin.
+Meurthe-et-Moselle, Meuse, Moselle, Vosges
 
 |
 
-Alsace.
+DR Mulhouse
 
 |
 
-Haut-Rhin.
+Haut-Rhin
 
 |
 
-DR Strasbourg : Bas-Rhin.
+DR Strasbourg
 
 |
 
-Bas-Rhin.
+Bas-Rhin
 
 |
 
-DR Champagne-Ardenne : Ardennes, Aube, Marne, Haute-Marne.
+DI Occitanie
 
+(Siège : Montpellier)
+
 |
 
-Champagne-Ardenne.
+DR Montpellier
 
 |
+
+Occitanie |
 
-Ardennes, Aube, Marne, Haute-Marne.
+Gard, Hérault, Lozère
 
 |
 
-DR Bourgogne : Côte-d'Or, Nièvre, Saône-et-Loire, Yonne.
+DR Perpignan
 
 |
 
-Bourgogne.
+Aude, Pyrénées-Orientales
 
 |
 
-Côte-d'Or, Nièvre, Saône-et-Loire, Yonne.
+DR Toulouse
 
 |
 
-DI Dijon.
+Ariège, Aveyron, Haute-Garonne, Gers, Lot, Hautes-Pyrénées, Tarn, Tarn-et-Garonne
 
 |
 
-DR Centre : Cher, Eure-et-Loir, Indre, Indre-et-Loire, Loir- et-Cher, Loiret.
+DI Bretagne, Pays de la Loire
 
+(Siège : Nantes)
+
 |
 
-Centre.
+DR Bretagne
 
 |
 
-Cher, Eure-et-Loir, Indre, Indre-et-Loire, Loir-et-Cher, Loiret.
+Bretagne
 
 |
 
-DR Franche-Comté : Doubs, Jura, Haute-Saône, Territoire de Belfort.
+Côtes-d'Armor, Finistère, Ille-et-Vilaine, Morbihan
 
 |
 
-Franche-Comté.
+DR Pays de la Loire
 
 |
 
-Doubs, Jura, Haute-Saône, Territoire de Belfort.
+Pays de la Loire
 
 |
 
-DR Auvergne : Allier, Cantal, Haute-Loire, Puy-de-Dôme.
+Loire-Atlantique, Maine-et-Loire, Mayenne, Sarthe, Vendée
 
 |
 
-Auvergne.
+DR Nantes garde-côtes
 
 |
 
-Allier, Cantal, Haute-Loire, Puy-de-Dôme.
+Rayon maritime des douanes et zone contiguë des façades maritimes des régions Pays de la Loire, Bretagne et Nouvelle-Aquitaine
 
 |
 
-DI Lyon.
+DI Ile-de-France
 
+(Siège : Paris)
+
 |
 
-DR Lyon : Rhône, Drôme, Ardèche, Loire et Isère (arrondissements de Vienne et de La Tour-du-Pin).
+DR Orly
 
 |
 
-Rhône-Alpes.
+Ile-de-France
 
 |
 
-Ain, Ardèche, Drôme, Isère, Loire, Rhône, Savoie, Haute-Savoie.
+Val-de-Marne (uniquement l'aéroport d'Orly)
 
 |
 
-DR Chambéry : Savoie, Isère (arrondissement de Grenoble) et Haute-Savoie (arrondissement de Bonneville).
+DR Paris
 
 |
+
+Paris
 
 |
 
-DR Léman : Ain et Haute-Savoie (arrondissements de Saint-Julien-en Genevois, de Thonon et d'Annecy).
+DR Paris-Est
 
 |
 
+Seine-Saint-Denis (sauf les aéroports de Roissy et du Bourget), Seine-et-Marne (sauf l'aéroport de Roissy), Val-de-Marne (sauf l'aéroport d'Orly)
+
 |
 
-DR Montpellier : Gard, Hérault, Lozère.
+DR Paris-Ouest
 
 |
 
-Languedoc-Roussillon.
+Hauts-de-Seine, Yvelines, Essonne, Val-d'Oise (sauf l'aéroport de Roissy)
 
 |
+
+DI Roissy
 
-Gard, Hérault, Lozère.
+(Roissy)
 
 |
 
-DI Montpellier.
+DR Roissy-fret
 
 |
 
-DR Perpignan : Aude, Pyrénées-Orientales.
-
 |
 
-Aude, Pyrénées-Orientales.
+Seine-Saint-Denis (uniquement les aéroports de Roissy et du Bourget), Seine-et-Marne (uniquement l'aéroport de Roissy), Val-d'Oise (uniquement l'aéroport de Roissy)
 
 |
 
-DR Marseille : Bouches-du-Rhône (arrondissement de Marseille ; arrondissement d'Arles : uniquement les cantons d'Arles, Port-Saint-Louis-du-Rhône et Saintes-Maries-de-la-Mer; arrondissement d'Aix-en-Provence : uniquement les cantons de Gardanne, des Pennes-Mirabeau, de Salon-de-Provence et de Pélissanne ; arrondissement d'Istres).
+DR Roissy-voyageurs
 
 |
 
-Provence-Alpes-Côte d'Azur.
+Seine-Saint-Denis (uniquement les aéroports de Roissy et du Bourget), Seine-et-Marne (uniquement l'aéroport de Roissy), Val-d'Oise (uniquement l'aéroport de Roissy)
 
 |
+
+DI Normandie
 
-Alpes-de-Haute-Provence, Hautes-Alpes, Bouches-du-Rhône, Var, Vaucluse, Alpes-Maritimes, Corse-du-Sud, Haute-Corse.
+(Siège : Rouen)
 
 |
 
-DI Marseille.
+DR Caen
 
 |
 
-DR Marseille garde-côtes (3).
+Normandie
 
 |
 
-DR Nice : Alpes-Maritimes.
+Calvados, Manche, Orne
 
 |
 
-DR Provence : Var, Vaucluse, Alpes-de-Haute-Provence, Hautes-Alpes et Bouches-du-Rhône (arrondissement d'Aix-en-Provence : uniquement les cantons d'Aix-en-Provence, Lambesc, Peyrolles et
+DR Le Havre
 
-Trets ; arrondissement d'Arles : uniquement les cantons de Châteaurenard, Tarascon, Saint-Rémy-de-Provence, Eyguières et Orgon).
-
 |
 
-DR Corse : Corse-du-Sud, Haute-Corse.
+Seine-Maritime (arrondissement du Havre)
 
 |
 
-Corse.
+DR Rouen
 
 |
 
-DR Martinique : Martinique.
+Eure, Seine-Maritime (arrondissements de Rouen et de Dieppe)
 
 |
 
-Martinique.
+DR Rouen garde-côtes
 
 |
 
-Martinique.
+Rayon maritime des douanes et zone contiguë des façades maritimes des régions Hauts-de-France et Normandie
 
 |
+
+DI Antilles-Guyane
 
-DI Antilles-Guyane.
+(Siège : Fort-de-France)
 
 |
 
-DR Antilles garde-côtes (4).
+DR Guadeloupe
 
 |
 
-DR Guadeloupe : Guadeloupe.
+Guadeloupe
 
 |
 
-Guadeloupe, Saint-Barthélemy et Saint-Martin.
+Guadeloupe
 
 |
 
-Guadeloupe.
+Saint-Barthélemy et Saint-Martin
 
 |
 
-DR Guyane : Guyane.
-
 |
 
-Guyane.
+DR Guyane
 
 |
 
-Guyane.
+Guyane
 
 |
 
-DR Réunion : Réunion.
+Guyane
 
 |
 
-Réunion.
+DR Martinique
 
 |
 
-|
+Martinique
 
 |
 
-DR Nouvelle-Calédonie : Nouvelle-Calédonie.
+Martinique
 
 |
 
-Nouvelle-Calédonie.
+DR Antilles garde-côtes
 
 |
 
-|
+Rayon maritime des douanes et zone contiguë des façades maritimes de la Martinique, de la Guadeloupe, de la Guyane, de Saint-Barthélemy et de Saint-Martin
 
 |
 
-DR Polynésie française : Polynésie française.
-
 |
 
-Polynésie française.
+DR La Réunion
 
 |
 
-|
+La Réunion
 
 |
 
-DR Mayotte: Mayotte.
+La Réunion
 
 |
 
-Mayotte.
+DR Mayotte
 
 |
 
+Mayotte
+
 |
 
 |
 
-Service de Wallis-et-Futuna : îles de Wallis-et-Futuna.
+DR Nouvelle-Calédonie
 
 |
 
-Wallis-et-Futuna.
+Nouvelle-Calédonie
 
 |
 
 |
+
+DR Polynésie française
 
 |
 
-Service de Saint-Pierre-et-Miquelon : Saint-Pierre-et-Miquelon.
+Polynésie française
 
 |
 
-Saint-Pierre-et-Miquelon.
+|
+
+Service de Wallis-et-Futuna
 
 |
 
+Iles Wallis et Futuna
+
 |
 
 |
 
-(1) Rayon maritime des douanes et zone contiguë des façades maritimes des régions Nord - Pas-de-Calais, Picardie, Haute-Normandie et Basse-Normandie.
+Service de Saint-Pierre-et-Miquelon
 
-(2) Rayon maritime des douanes et zone contiguë des façades maritimes des régions Pays de la Loire, Bretagne, Poitou-Charentes et Aquitaine.
+|
 
-(3) Rayon maritime des douanes et zone contiguë des façades maritimes des régions Languedoc-Roussillon, Provence-Alpes-Côte d'Azur et Corse.
+Saint-Pierre-et-Miquelon
 
-(4)Rayon maritime des douanes et zone contiguë des façades maritimes de la Martinique, de la Guadeloupe, de Saint-Barthélemy et de Saint-Martin.
+|
 
 |
