@@ -8,37 +8,29 @@ L'établissement (nom de l'établissement public de santé) représenté par son
 
 et
 
-M. .................... (nom, prénom du praticien),
+M. (nom, prénom du praticien),
 
-demeurant à....................
+demeurant à
 
 (adresse du praticien),
 
-nommé praticien hospitalier à titre permanent ou intégré dans
-
-le corps des praticiens hospitaliers par arrêté ministériel en
-
-date du .................... ,
+nommé praticien hospitalier à titre permanent ou intégré dans le corps des praticiens hospitaliers par arrêté ministériel en date du,
 
 il est convenu ce qui suit :
 
-M. .................... s'engage à exercer l'intégralité de
+M...... s'engage à exercer l'intégralité de ses fonctions hospitalières dans son établissement d'affectation et dans les établissements ou organismes ayant passé convention avec celui-ci.
 
-ses fonctions hospitalières dans son établissement d'affectation et dans les établissements ou organismes ayant passé convention avec celui-ci.
+M. s'engage à ne pas exercer d'activité libérale telle que prévue à l'article L. 6154-1 du code de la santé publiquepour une durée de trois ans à compter du premier jour du mois suivant la signature du présent contrat.
 
-M. .................... s'engage à ne pas exercer d'activité
+En contrepartie de cet engagement, M...... percevra, conformément aux dispositions du 6° de l'article D. 6152-23-1 du code de la santé publiqueet dans les conditions prévues à l'article 1er de l'arrêté du 8 juin 2000 modifié relatif à l'indemnité d'engagement de service public exclusif, une indemnité mensuelle d'engagement de service public exclusif d'un montant :
 
-libérale telle que prévue aux articles L. 714-30 à L. 714-35 du code de la santé publique pour une durée de trois ans à compter du premier jour du mois suivant la signature du présent contrat.
+□ correspondant au 1° de l'article 1er dudit arrêté
 
-En contrepartie de cet engagement, M. ....................
-
-percevra, conformément aux dispositions du 6o de l' article D. 6152-23-1 du code de la santé publique, une indemnité mensuelle d'engagement de service public exclusif dans les conditions prévues par l'arrêté du 2 juin 2000.
+□ correspondant au 2° de l'article 1er dudit arrêté
 
 En cas de dénonciation du présent contrat avant son terme par le praticien pour exercer une activité libérale, il est procédé au recouvrement du montant de l'indemnité déjà versé au titre du présent contrat.
 
-Le présent contrat prend fin de plein droit si M. ....................
-
-cesse d'exercer ses fonctions hospitalières.
+Le présent contrat prend fin de plein droit si M. cesse d'exercer ses fonctions hospitalières.
 
 En cas d'exercice des fonctions à temps réduit, le montant de l'indemnité sera calculé proportionnellement au temps effectivement travaillé.
 
