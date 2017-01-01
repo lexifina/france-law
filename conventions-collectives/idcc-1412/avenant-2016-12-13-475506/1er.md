@@ -1,0 +1,143 @@
+# Article 1er
+
+L'article 6 « Cotisations » est désormais rédigé comme suit :
+
+(Annule et remplace l'article 6 de l'accord du 27 mars 2006 modifié par l'avenant n° 2 du 26 janvier 2012.)
+
+« Les cotisations sont assises sur les salaires bruts de référence, tels que définis au premier alinéa de l'article 4, des salariés cadres et non cadres, dans la limite des tranches A et B.
+
+Elles sont réparties entre l'employeur et le salarié selon les modalités suivantes :
+
+(En pourcentage.)
+
+|
+
+Tranche A |
+
+tranche B |
+
+|
+
+Part
+
+patronale |
+
+Part
+
+salariale |
+
+Total |
+
+Part
+
+patronale |
+
+Part
+
+salariale |
+
+Total |
+
+Capital décès |
+
+0,17 |
+
+0 |
+
+0,17 |
+
+0,17 |
+
+0 |
+
+0,17 |
+
+Rente éducation |
+
+0,0875 |
+
+0,0425 |
+
+0,13 |
+
+0,13 |
+
+0 |
+
+0,13 |
+
+Incapacité temporaire de travail |
+
+0 |
+
+0,35 |
+
+0,35 |
+
+0 |
+
+0,78 |
+
+0,78 |
+
+Invalidité et incapacité permanente |
+
+0,14 |
+
+0,23 |
+
+0,37 |
+
+0,40 |
+
+0,41 |
+
+0,81 |
+
+Total ensemble du personnel ayant moins de 1 an d'ancienneté |
+
+0,3975 |
+
+0,6225 |
+
+1,02 |
+
+0,70 |
+
+1,19 |
+
+1,89 |
+
+Maintien de salaire |
+
+0,14 |
+
+0 |
+
+0,14 |
+
+0,33 |
+
+0 |
+
+0,33 |
+
+Total ensemble du personnel ayant de plus de 1 an d'ancienneté |
+
+0,5375 |
+
+0,6225 |
+
+1,16 |
+
+1,03 |
+
+1,19 |
+
+2,22 |
+
+La cotisation maintien de salaire permet d'assurer le remboursement à l'employeur par l'organisme de prévoyance d'une partie de son obligation de maintien de salaire, tel qu'il est prévu à l'article VI. 2 “ Maintien de salaire ” de la convention collective. »
+
+(1) L'article 1er est étendu sous réserve de l'application de l'article 7 de la convention collective nationale de retraite et de prévoyance des cadres du 14 mars 1947 étendue.
+
+(Arrêté du 25 juillet 2017 - art. 1)
