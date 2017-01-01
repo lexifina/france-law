@@ -2,11 +2,11 @@
 
 LISTE DES ÉTABLISSEMENTS ET ORGANISMES PUBLICS AYANT UNE ACTIVITÉ D'EXPERTISE OU DE RECHERCHE DANS LE DOMAINE DE LA SANTÉ OU DE L'ENVIRONNEMENT
 
-Agence des aires marines protégées (AAMP).
-
 Agence de la biomédecine (ABM).
 
 Agence de l'environnement et de la maîtrise de l'énergie (ADEME).
+
+Agence française pour la biodiversité (AFB).
 
 Agence nationale pour la gestion des déchets radioactifs (ANDRA).
 
@@ -72,10 +72,4 @@ Muséum national d'histoire naturelle (MNHN).
 
 Office national de la chasse et de la faune sauvage (ONCFS).
 
-Office national de l'eau et des milieux aquatiques (ONEMA).
-
 VetAgro Sup - Institut d'enseignement supérieur et de recherche en alimentation, santé animale, sciences agronomiques et de l'environnement.
-
-NOTA :
-
-Ces dispositions entrent en vigueur dans un délai de six mois à compter de la publication par la Commission nationale de la déontologie et des alertes en matière de santé publique et d'environnement des critères qui fondent la recevabilité des alertes, ainsi que des éléments qui doivent figurer dans les registres des alertes.
