@@ -40,7 +40,7 @@ B. - Données relatives au droit au séjour, au droit au travail et au titre de 
 
 1° Titre de séjour : références juridiques et de gestion (dates, lieux) de la demande, de la délivrance, du refus et du retrait ; date et condition d'entrée en France ; historique des titres détenus ;
 
-2° Avis du médecin de l'agence régionale de la santé sur la satisfaction par l'étranger sollicitant un droit de séjour des critères relatifs à son état de santé (sens de l'avis, nombre de jours de séjour autorisés, caractère curable de la maladie dans le pays d'origine, caractère d'exceptionnelle gravité du défaut de soins, maintien sur le territoire autorisé, sursis à l'éloignement autorisé, capacité à voyager) ;
+2° Avis du collège de médecins du service médical de l'office français de l'immigration et de l'intégration sur la satisfaction par l'étranger sollicitant un droit de séjour des critères relatifs à son état de santé (sens de l'avis, conséquences d'une exceptionnelle gravité résultant du défaut d'une prise en charge médicale, possibilité de bénéficier effectivement d'un traitement approprié eu égard à l'offre de soins et aux caractéristiques du système de santé dans le pays d'origine ou de renvoi ; maintien sur le territoire autorisé, sursis à l'éloignement autorisé, capacité à voyager) ;
 
 3° Regroupement familial : avis du maire ou de l'Office français de l'immigration et de l'intégration sur l'adéquation des ressources au nombre de personnes à charge et sur la salubrité et l'adéquation de la surface du logement à la taille de la famille ;
 
