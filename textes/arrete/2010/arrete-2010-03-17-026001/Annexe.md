@@ -12,29 +12,25 @@ CIRCONSCRIPTIONS RÉGIONALES
 
 |
 
-GRAND CENTRE
-
-(siège à Dijon)
-
-|
-
-Centre
-
-Bourgogne
-
-Champagne-Ardenne
-
-|
-
 CENTRE EST
 
 (siège à Lyon)
 
 |
 
-Auvergne
+Auvergne-Rhône-Alpes
 
-Rhône-Alpes
+|
+
+GRAND CENTRE
+
+(siège à Dijon)
+
+|
+
+Centre Val de Loire
+
+Bourgogne-Franche-Comté
 
 |
 
@@ -44,11 +40,17 @@ GRAND EST
 
 |
 
-Alsace
+Grand Est (Alsace-Champagne-Ardenne-Lorraine)
 
-Lorraine
+|
 
-Franche-Comté
+GRAND NORD
+
+(siège à Lille)
+
+|
+
+Hauts-de-France (Nord-Pas-de-Calais-Picardie)
 
 |
 
@@ -62,11 +64,11 @@ Bretagne
 
 Pays de la Loire
 
-Basse-Normandie
+Normandie (Haute et Basse Normandie)
 
 |
 
-ILE-DE-FRANCE-OUTRE-MER
+ÎLE-DE-FRANCE-OUTRE-MER
 
 (siège à Paris)
 
@@ -78,33 +80,17 @@ Outre-mer
 
 |
 
-GRAND NORD
-
-(siège à Lille)
-
-|
-
-Haute-Normandie
-
-Nord-Pas-de-Calais
-
-Picardie
-
-|
-
 SUD
 
 (siège à Toulouse)
 
 |
 
-Midi-Pyrénées
-
-Languedoc-Roussillon
+Occitanie (Midi-Pyrénées et Languedoc-Roussillon)
 
 |
 
-SUD-EST
+SUD EST
 
 (siège à Marseille)
 
@@ -116,16 +102,14 @@ Corse
 
 |
 
-SUD-OUEST
+SUD OUEST
 
 (siège à Bordeaux)
 
 |
 
-Aquitaine
+Nouvelle Aquitaine (Aquitaine-Limousin
 
-Limousin
-
-Poitou-Charentes
+Poitou-Charentes)
 
 |
