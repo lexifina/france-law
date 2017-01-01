@@ -1,0 +1,25 @@
+# Article 1er
+
+L'article 17.1 est modifié comme suit :
+
+« La période de professionnalisation a pour objet, en accord avec l'entreprise, de favoriser le maintien dans l'emploi de salariés titulaires d'un contrat de travail à durée déterminée d'insertion ou indéterminée. Elle doit permettre d'acquérir une qualification, de suivre un parcours ou de suivre une action de formation nécessaire à l'adaptation de son poste ou à l'évolution de son emploi.
+
+Pour être éligibles à un financement sur les fonds de professionnalisation, les périodes de professionnalisation doivent permettre à un salarié de finaliser un objectif de qualification ou de certification en complément ou non de la mobilisation de son CPF aux objectifs généraux du dispositif. Elles peuvent également être utilisées pour une action de formation ou pour une pluralité d'actions contribuant à l'objectif visé.
+
+17.1. Nature des actions de formation
+
+Les dispositions de cet article sont supprimées et remplacées par les dispositions suivantes :
+
+Sont éligibles aux périodes de professionnalisation l'ensemble des formations réglementairement accessibles et notamment :
+
+– les formations qualifiantes inscrites au RNCP ;
+
+– les CQP de branche ou interbranches ;
+
+– les actions permettant l'accès au socle de connaissances et compétences ;
+
+– les actions permettant l'accès à une certification correspondant à des compétences transversales telles que définies par la commission nationale de certification professionnelle.
+
+Les priorités, les critères et l'échéancier au regard desquels l'OPCA de la branche examine les demandes de financement des actions de formation présentées par les entreprises au titre de la période de professionnalisation sont définis par la CPNE ».
+
+L'article 17.2 reste inchangé.
