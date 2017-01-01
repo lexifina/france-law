@@ -12,13 +12,15 @@ Code risque |
 
 Taux net de cotisation AT |
 
-Fabrication de fonte, d'acier, d'articles ou tubes en fonte. Fabrication de radiateurs, de chaudières pour le chauffage central, la cuisine.
+Fonderie de fonte, d'acier moulé ou de fonte malléable. Fabrication de fonte, d'acier, d'articles ou tubes en fonte. Fabrication de radiateurs, de chaudières pour le chauffage central, la cuisine.
 
 |
 
 27.1ZF
 
 |
+
+6,5
 
 |
 
@@ -30,6 +32,8 @@ Métallurgie de métaux non ferreux et précieux. Laminage à chaud ou relaminag
 
 |
 
+4,4
+
 |
 
 Fonderie des métaux légers ou non ferreux.
@@ -40,9 +44,7 @@ Fonderie des métaux légers ou non ferreux.
 
 |
 
-4,80
-
-|
+5,9 |
 
 Construction métallique, fabrication de charpentes ; fournitures et armatures métalliques préparées pour le béton armé (préparation des armatures en ateliers hors chantiers). Travail à froid des métaux (étirage, laminage, profilage, pliage, tréfilage) et métallurgie des ferro-alliages.
 
@@ -51,6 +53,8 @@ Construction métallique, fabrication de charpentes ; fournitures et armatures m
 28.1AD
 
 |
+
+4,7
 
 |
 
@@ -62,6 +66,8 @@ Fabrication d'articles, de meubles et menuiseries, de fûts et emballages métal
 
 |
 
+3,1
+
 |
 
 Chaudronnerie et soudure.
@@ -71,6 +77,8 @@ Chaudronnerie et soudure.
 28.3CG
 
 |
+
+4,7
 
 |
 
@@ -82,19 +90,17 @@ Fabrication de tubes en acier ou de tubes isolateurs (sauf tubes en fonte). Fabr
 
 |
 
-|
-
-Forge, estampage, matriçage.
+3,5
 
 |
 
-28.4AC
+Forge, estampage, matriçage. Métallurgie des poudres et frittage. |
+
+28.4AD
 
 |
 
-3,60
-
-|
+3,6 |
 
 Découpage, emboutissage. Sciage des métaux, graveurs estampeurs. Décolletage.
 
@@ -104,17 +110,7 @@ Découpage, emboutissage. Sciage des métaux, graveurs estampeurs. Décolletage.
 
 |
 
-|
-
-Métallurgie des poudres et frittage.
-
-|
-
-28.4CA
-
-|
-
-2,90
+3,3
 
 |
 
@@ -126,7 +122,7 @@ Traitement et revêtement des métaux.
 
 |
 
-4,10
+3,7
 
 |
 
@@ -138,7 +134,7 @@ Mécanique industrielle.
 
 |
 
-3,60
+3,6
 
 |
 
@@ -150,7 +146,7 @@ Usinage de précision ou réparation d'articles métalliques divers.
 
 |
 
-2,70
+2,3
 
 |
 
@@ -162,17 +158,21 @@ Travaux d'intervention, de montage, démontage et entretien de matériels divers
 
 |
 
-4,40
+4,0
 
 |
 
-Fabrication, montage, entretien, réparation de machines, équipements, outillages : machine-outil, machine pour les industries de process (1), du textile, du cuir, de la chaussure ; matériel fixe et roulant pour le transport guidé ; matériel incendie ; ascenseur, monte-charges, porte-automatique et escalier mécanique ; équipements de levage et de manutention.
+Fabrication, montage, installation, entretien, réparation de machines, équipements, outillages : machine-outil, machine pour les industries de process (1), du textile, du cuir, de la chaussure ; matériel fixe et roulant pour le transport guidé ; matériel incendie ; ascenseur, monte-charge, porte automatique et escalier mécanique ; équipements de levage et de manutention.
+
+(1) Process : procédés de fabrication pour chimie, pharmacie, agroalimentaire, plasturgie, caoutchouc, métallurgie, fonderie, soudage, etc.
 
 |
 
 28.6DF
 
 |
+
+2,5
 
 |
 
@@ -184,6 +184,8 @@ Fabrication de boulonnerie, ressorts, visseries et quincaillerie. Fabrication et
 
 |
 
+2,6
+
 |
 
 Fabrication de composants mécaniques : transmissions hydrauliques et pneumatiques, turbines, compresseurs, roulements, matrices, poinçons, moules et modèles, organes mécaniques de transmission. Fabrication de moteurs autres que pour aéronefs, automobiles et motocycles. Reconstruction de moteurs sauf pour l'aéronautique.
@@ -194,13 +196,15 @@ Fabrication de composants mécaniques : transmissions hydrauliques et pneumatiqu
 
 |
 
-|
+2,3 |
 
 Fabrication de pompes et d'articles de robinetterie. |
 
 29.1FB
 
 |
+
+2,2
 
 |
 
@@ -212,6 +216,8 @@ Fabrication, installation, entretien, réparation de matériels aérauliques et 
 
 |
 
+3,1
+
 |
 
 Fabrication et/ou réparation d'engins mobiles et systèmes pour : la construction, les mines, le forage, la préparation des minerais et matériaux, le matériel agricole.
@@ -221,6 +227,8 @@ Fabrication et/ou réparation d'engins mobiles et systèmes pour : la constructi
 29.3DC
 
 |
+
+2,9
 
 |
 
@@ -232,6 +240,8 @@ Fabrication, réparation, entretien de : matériels électriques, électromagné
 
 |
 
+2,3
+
 |
 
 Fabrication, installation, entretien, réparation de : matériels et appareils électroniques de réception, de téléphonie, d'enregistrement, d'imagerie médicale, de composants, d'éléments chauffants. Fabrication, installation, entretien, réparation de matériel bureautique, informatique et activités connexes.
@@ -241,6 +251,8 @@ Fabrication, installation, entretien, réparation de : matériels et appareils �
 32.1BC
 
 |
+
+1,3
 
 |
 
@@ -252,7 +264,7 @@ Fabrication, réparation de matériel médico-chirurgical, de prothèses y compr
 
 |
 
-|
+1,7 |
 
 Fabrication, installation d'appareils de mesure, de comptage, de signalisation, de contrôle, de sécurité, de régulation. Conception et installation de systèmes de contrôle et de production automatisée.
 
@@ -262,19 +274,19 @@ Fabrication, installation d'appareils de mesure, de comptage, de signalisation, 
 
 |
 
-|
-
-Construction de voitures particulières, de véhicules utilitaires ou blindés.
+1,6
 
 |
 
-34.1ZD
+Construction de véhicules automobiles. Succursales et filiales des constructeurs.
 
 |
 
-2,40
+34.1ZE
 
 |
+
+2,4 |
 
 Construction de carrosseries, bennes, remorques autres que de tourisme. Fabrication de caravanes et véhicules de loisirs.
 
@@ -283,6 +295,8 @@ Construction de carrosseries, bennes, remorques autres que de tourisme. Fabricat
 34.2AB
 
 |
+
+4,6
 
 |
 
@@ -294,7 +308,7 @@ Fabrication d'équipements, de parties, d'accessoires et de pièces détachées 
 
 |
 
-2,40
+2,4
 
 |
 
@@ -306,7 +320,7 @@ Construction, réparation ou peinture de navires en acier (y compris équipement
 
 |
 
-6,00
+6,5
 
 |
 
@@ -318,17 +332,7 @@ Recherche, fabrication, entretien, maintenance, réparation, reconditionnement p
 
 |
 
-|
-
-Fabrication ou réparation de motocycles ou de cycles. Fabrication de pièces et équipement pour cycles ou motocycles.
-
-|
-
-35.4AD
-
-|
-
-2,40
+1,3
 
 |
 
@@ -344,55 +348,19 @@ Entreprises spécialisées dans l'installation de machines électriques dans les
 
 |
 
-Commerce de véhicules automobiles avec atelier de réparation (sauf mécaniciens et réparateurs automobiles).
+Importation, commerce, entretien, réparation de véhicules automobiles de marque (importateurs, concessionnaires, agents, réparateurs agréés), commerce et réparation indépendante (à l'exception du 50. 2ZH et du 34. 1ZE). Fabrication, réparation, commerce de motocycles, cycles et véhicules divers (y compris pièces et équipements). Electricité automobile.
 
 |
 
-50.1ZA
+50.1ZF
 
 |
 
-3,10
+2,6
 
 |
 
-Importation d'automobiles neuves, concessionnaires, agents de marque(s), réparateurs agréés des sociétés françaises et étrangères de construction de véhicules automobiles.
-
-|
-
-50.1ZB
-
-|
-
-2,50
-
-|
-
-Succursales et filiales de vente et réparation des sociétés de construction de véhicules automobiles.
-
-|
-
-50.1ZC
-
-|
-
-2,40
-
-|
-
-Réparation, montage d'appareillage électrique : électricité automobile.
-
-|
-
-50.2ZC
-
-|
-
-2,50
-
-|
-
-Dépannage, remorquage de véhicules automobiles (sans atelier de réparation et non annexé à un garage). Réparation de véhicules automobiles (mécaniciens, réparateurs automobiles n'appartenant pas à un réseau de marque de constructeurs ou d'importateurs automobiles) et garages avec atelier de réparation.
+Dépannage, remorquage de véhicules automobiles (sans atelier de réparation et non annexé à un garage). Mécaniciens, réparateurs automobiles n'appartenant pas à un réseau de marque automobile. Fabrication ou fabrication associée à la réparation de menuiserie, tôlerie, sellerie, peintures spécialisées de voitures. Récupération de matières métalliques recyclables.
 
 |
 
@@ -400,17 +368,7 @@ Dépannage, remorquage de véhicules automobiles (sans atelier de réparation et
 
 |
 
-|
-
-Commerce de détail et réparation de motocycles, cycles et véhicules divers.
-
-|
-
-50.4ZC
-
-|
-
-2,60
+3,6
 
 |
 
@@ -440,23 +398,11 @@ Personnel des sièges sociaux et bureaux du BTP.
 
 |
 
-1,10
+1,0
 
 |
 
-Entretien et réparation des matériels du bâtiment et des travaux publics (dépendant d'une entreprise de bâtiment ou de travaux publics).
-
-|
-
-29.5CD
-
-|
-
-7,00
-
-|
-
-Terrassement (y compris travaux paysagers, sauf horticulture).
+Terrassement courants et travaux préparatoires spécialisés (y compris travaux paysagers sauf horticulture).
 
 |
 
@@ -464,95 +410,37 @@ Terrassement (y compris travaux paysagers, sauf horticulture).
 
 |
 
-5,10
+4,8
 
 |
 
-Forages et sondages, fondations spéciales. Travaux souterrains, de voies ferrées, maritimes et fluviaux.
+Autres travaux de gros œuvre. Entreprise générale du bâtiment. Construction métallique : montage, levage. Fumisterie industrielle
 
 |
 
-45.1DB
+45.2BE
 
 |
 
-6,10
+8,3 |
+
+Ouvrages d'art, autres travaux d'infrastructures spécialisés (forages et sondages, fondations spéciales, travaux souterrains, de voies ferrées, maritimes et fluviaux) |
+
+45.2CD
 
 |
 
-Travaux de gros-œuvre et organisation de chantiers.
+5,9 |
+
+Construction et entretien de réseaux (électricité, eaux, gaz, télécommunications, etc.) et autres réseaux non classés par ailleurs |
+
+45.2ED
 
 |
 
-45.2BD
+6,0 |
 
-|
-
-8,00
-
-|
-
-Construction et entretien d'ouvrages d'art hors structures métalliques.
-
-|
-
-45.2CB
-
-|
-
-6,00
-
-|
-
-Construction métallique : montage et levage.
-
-|
-
-45.2CC
-
-|
-
-8,00
-
-|
-
-Travaux urbains et travaux d'hygiène publique. Pose de canalisations à grande distance.
-
-|
-
-45.2EC
-
-|
-
-5,90
-
-|
-
-Construction et entretien de lignes électriques et de télécommunications.
-
-|
-
-45.2FA
-
-|
-
-5,40
-
-|
-
-Couverture. - plomberie, sanitaires. - Installation d'eau et de gaz. - Installation d'équipements thermiques et de climatisation.
-
-|
-
-45.2JC
-
-|
-
-7,00
-
-|
-
-Couverture, travaux de charpente en bois, travaux d'étanchéité.
+Travaux de couverture, de charpente en bois, d'étanchéité.
 
 |
 
@@ -560,9 +448,7 @@ Couverture, travaux de charpente en bois, travaux d'étanchéité.
 
 |
 
-9,70
-
-|
+10,2 |
 
 Construction et entretien de chaussées (y compris sols sportifs et pavage). - Fabrication de produits asphaltés ou enrobés (avec transport et mise en œuvre).
 
@@ -572,83 +458,21 @@ Construction et entretien de chaussées (y compris sols sportifs et pavage). - F
 
 |
 
-4,00
+4,2
 
 |
 
-Construction et entretien de fours et de cheminées. Fumisterie industrielle et de bâtiment. Ramonage.
+Travaux de plomberie, de génie climatique, d'électricité, autres travaux d'installation technique non classés par ailleurs.
 
 |
 
-45.2UD
+45.3AF
 
 |
 
-7,00
+4,4 |
 
-|
-
-Pose de paratonnerres et d'antennes de télévision (à l'exclusion de la fabrication).
-
-|
-
-45.3AB
-
-|
-
-9,70
-
-|
-
-Pose d'antennes extérieures associée au commerce d'appareils de radio, de télévision.
-
-|
-
-45.3AD
-
-|
-
-3,30
-
-|
-
-Travaux d'installation électrique, pose d'enseignes et de stores, fermetures (fabrication et pose de jalousies, volets, persiennes...).
-
-|
-
-45.3AE
-
-|
-
-3,90
-
-|
-
-Plomberie, installations sanitaires seules ou associées avec le chauffage ou l'électricité.
-
-|
-
-45.3EA
-
-|
-
-5,00
-
-|
-
-Installation d'équipements aérauliques, thermiques, frigorifiques et de climatisation.
-
-|
-
-45.3 FB
-
-|
-
-3,70
-
-|
-
-Menuiserie de bâtiment associée ou non à la charpente. Menuiserie métallique.
+Travaux de menuiserie extérieure.
 
 |
 
@@ -656,81 +480,39 @@ Menuiserie de bâtiment associée ou non à la charpente. Menuiserie métallique
 
 |
 
-6,80
+6,8
 
 |
 
-Travaux d'isolation, traitement de l'amiante en place, métallerie (hors petite serrurerie).
+Travaux d'isolation, travaux de finitions (travaux d'aménagements intérieurs)
 
 |
 
-45.4DD
+45.4LE
 
 |
 
-6,80
+6,4 |
+
+Entretien, réparation, location et montage de matériel pour le bâtiment et les travaux publics
 
 |
 
-Travaux en peinture d'intérieur et travaux annexes, notamment travaux d'assèchement des murs, travaux d'ignifugation. Peintures de lettres et attributs. - Ravalement en peinture. - Peinture industrielle. - Publicité sur les bâtiments et affiches peintes (pose).
+45.5ZB
 
 |
 
-45.4JB
+5,5 |
+
+Conception de projets architecturaux y compris décoration, ingénierie du BTP (y compris topographie, métrés, hygiène et sécurité, etc.)
 
 |
 
-6,50
+74.2CE
 
 |
 
-Travaux d'aménagement intérieur. Métallerie : petite serrurerie.
-
-|
-
-45.4LD
-
-|
-
-6,10
-
-|
-
-Location de matériel pour le bâtiment et les travaux publics avec montage et/ou opérateurs de matériel de construction.
-
-|
-
-45.5ZA
-
-|
-
-6,10
-
-|
-
-Activité de conseil et d'assistance : ingénierie, architecture, hygiène et sécurité, topographie, métrés. Décorateur d'ameublement (sans commerce d'ameublement).
-
-|
-
-74.2CD
-
-|
-
-1,30
-
-|
-
-Décorateurs d'intérieur. - Tapissiers-décorateurs. - Fabrication maquettes et plans en relief.
-
-|
-
-74.8KD
-
-|
-
-3,30
-
-|
+1,1 |
 
 Allocations complémentaires aux indemnités journalières de sécurité sociale versées soit par des organismes de prévoyance, soit par des employeurs : activités de bâtiment (gros œuvre) et travaux publics (1).
 
@@ -740,7 +522,7 @@ Allocations complémentaires aux indemnités journalières de sécurité sociale
 
 |
 
-6,80 TC
+6,9 TC
 
 |
 
@@ -752,7 +534,7 @@ Allocations complémentaires aux indemnités journalières de sécurité sociale
 
 |
 
-4,40 TC
+4,2 TC
 
 |
 
@@ -764,7 +546,7 @@ Caisses de congés payés du bâtiment et des travaux publics (en ce qui concern
 
 |
 
-0,50 TC
+0,5 TC
 
 |
 
@@ -786,65 +568,23 @@ Code risque |
 
 Taux net de cotisation AT |
 
-Edition seule de journaux d'information. Agence de presse, y compris journalistes et photographes indépendants.
+Edition, imprimerie. Reprographie et activités connexes (reliure, dorure main, affiches, composition, photocomposition, gravure et photogravure). Routage.
 
 |
 
-22.1CC
+22.2CD
 
 |
 
-2,50
+2,0 |
+
+Traitement des déchets, des activités industrielles, économiques et des ménages, récupération, tri, recyclage, valorisation matière y compris démantèlement, désamorçage, démolition de munitions. |
+
+37.1ZF
 
 |
 
-Edition, à l'exception des journaux d'information. Fabrication et édition de supports d'enregistrements sonores. Studios et autres activités photographiques, laboratoires de développement (sauf photographie de presse 22.1CC). Reliure, dorure main, affiches.
-
-|
-
-22.1EB
-
-|
-
-1,40
-
-|
-
-Imprimerie. Sérigraphie. Reliure, brochure industrielle, brochage, pliage de revue. Edition et impression de journaux d'information.
-
-|
-
-22.2CC
-
-|
-
-2,50
-
-|
-
-Composition, photocomposition, gravure et photogravure. Reprographie.
-
-|
-
-22.2GB
-
-|
-
-1,40
-
-|
-
-Récupération, tri, recyclage, mise en valeur de tous types de déchets hors ordures ménagères,
-
-y compris désamorçage, démolition de munitions.
-
-|
-
-37.1ZE
-
-|
-
-5,30
+4,8
 
 |
 
@@ -856,7 +596,7 @@ Agents statutaires des industries électriques et gazières (1)
 
 |
 
-0,30 TC
+0,2 TC
 
 |
 
@@ -868,21 +608,17 @@ Salariés non statutaires des industries électriques et gazières (1).
 
 |
 
-2,40 TC
+2,2 TC
 
 |
 
-Chauffage urbain et climatisation urbaine, chauffage d'immeuble à forfait (exploitant de chauffage) quel que soit le combustible utilisé.
+Production et distribution de chauffage urbain, exploitants de chauffage d'immeubles, opérateurs d'efficacité énergétique, valorisation énergétique des déchets, usine d'incinération de résidus urbains. |
+
+40.3ZE
 
 |
 
-40.3ZD
-
-|
-
-2,40
-
-|
+2,2 |
 
 Captage, traitement et distribution de l'eau.
 
@@ -892,9 +628,7 @@ Captage, traitement et distribution de l'eau.
 
 |
 
-1,80
-
-|
+1,9 |
 
 Transport ferroviaire : personnel contractuel SNCF.
 
@@ -904,33 +638,17 @@ Transport ferroviaire : personnel contractuel SNCF.
 
 |
 
-1,80 TC
+1,6 TC
 
 |
 
-Transports urbains de voyageurs.
+Transports terrestres de voyageurs, y compris par taxi. |
+
+60.2BD
 
 |
 
-60.2AA
-
-|
-
-3,10
-
-|
-
-Transport routier de voyageurs. Transport ferroviaire : chemin de fer d'intérêt général et local. Exploitation d'embranchements particuliers.
-
-|
-
-60.2BC
-
-|
-
-3,20
-
-|
+3,2 |
 
 Téléphériques, remontées mécaniques.
 
@@ -940,55 +658,15 @@ Téléphériques, remontées mécaniques.
 
 |
 
-3,20
+3,2
 
 |
 
-Transport de voyageurs par taxi.
+Transports routiers de marchandises. Location de véhicules avec chauffeurs. |
 
-|
+60.2MG |
 
-60.2EA
-
-|
-
-2,50
-
-|
-
-Transports routiers de marchandises.
-
-|
-
-60.2MD
-
-|
-
-5,50
-
-|
-
-Transports routiers de marchandises par véhicules isothermes, frigorifiques ou réfrigérants.
-
-|
-
-60.2ME
-
-|
-
-5,20
-
-|
-
-Transports routiers associés (marchandises et voyageurs).
-
-|
-
-60.2MF
-
-|
-
-4,60
+5,7
 
 |
 
@@ -1000,93 +678,19 @@ Déménagement et garde-meubles.
 
 |
 
-7,30
+7,6
 
 |
 
-Location de véhicules utilitaires et industriels.
+Transports aériens réguliers et non réguliers : personnel navigant et non navigant. Services aéroportuaires.
 
 |
 
-60.2PC
+62.1ZC
 
 |
 
-6,40
-
-|
-
-Transports fluviaux de marchandises.
-
-|
-
-61.2ZB
-
-|
-
-5,10
-
-|
-
-Transports aériens réguliers et non réguliers : personnel non navigant.
-
-|
-
-62.1ZA
-
-|
-
-2,00
-
-|
-
-Transports aériens réguliers et non réguliers : personnel navigant.
-
-|
-
-62.1ZB
-
-|
-
-1,80
-
-|
-
-Chargement, déchargement ou manutention de marchandises dans les ports maritimes (personnel mensualisé ou occasionnel).
-
-|
-
-63.1AA
-
-|
-
-11,10
-
-|
-
-Ouvriers poissonniers soumis au régime de la vignette.
-
-|
-
-63.1AB
-
-|
-
-5,10
-
-|
-
-Chargement et déchargement de marchandises dans les ports maritimes (activités dans les départements d'outre-mer).
-
-|
-
-63.1AY
-
-|
-
-1,90
-
-|
+1,9 |
 
 Ouvriers dockers maritimes intermittents, soumis au régime de la vignette, et effectuant, quel que soit le classement de l'entreprise qui les emploie, des opérations de chargement, de déchargement ou de manutention de marchandises, à l'exclusion des ouvriers dockers poissonniers visés sous le numéro 63.1AB.
 
@@ -1096,103 +700,47 @@ Ouvriers dockers maritimes intermittents, soumis au régime de la vignette, et e
 
 |
 
-35,00
+35,0
 
 |
 
-Manutention, entreposage dans les ports fluviaux. Entreprises de manutention (non visées au numéro de risque 74.7ZE).
+Manutention, chargement, déchargement, entreposage de marchandises ou fret dans les ports maritimes et fluviaux, et les aéroports.
 
 |
 
-63.1BD
+63.1BE
 
 |
 
-5,10
+6,1 |
+
+Entreposage et stockage non frigorifique non reliés à une voie d'eau. Entreposage de liquides en vrac. |
+
+63.1EE
 
 |
 
-Entrepôts, docks, magasins généraux (non frigorifiques) non reliés à une voie d'eau.
+3,4 |
+
+Transports par eau de marchandises et de passagers, et services auxiliaires.
 
 |
 
-63.1EB
+63.2CF
 
 |
 
-3,50
+2,1 |
+
+Agences de voyage. Offices de tourisme.
 
 |
 
-Entrepôts de liquides en vrac avec installations de pompage.
+63.3ZC
 
 |
 
-63.1EC
-
-|
-
-2,40
-
-|
-
-Gares routières et exploitation d'ouvrages routiers à péages.
-
-|
-
-63.2AD
-
-|
-
-2,00
-
-|
-
-Entreprises d'armement pour la pêche en mer. Transports maritimes et côtiers de personnes et de marchandises, y compris la location de bateaux avec équipage. Transports fluviaux de personnes. Services portuaires, maritimes et fluviaux non désignés ailleurs.
-
-|
-
-63.2CE
-
-|
-
-2,20
-
-|
-
-Services aéroportuaires.
-
-|
-
-63.2EA
-
-|
-
-2,00
-
-|
-
-Agences de voyage.
-
-|
-
-63.3ZA
-
-|
-
-1,30
-
-|
-
-Office de tourisme.
-
-|
-
-63.3ZB
-
-|
-
-1,30
+1,1
 
 |
 
@@ -1204,33 +752,19 @@ Entreprises de groupage effectuant directement ou non l'enlèvement ou la livrai
 
 |
 
-4,00
+4,3
 
 |
 
-Affrètement et organisation des transports maritimes.
+Affrètement et organisation des transports maritimes, routiers ou aériens. Gares routières et exploitations d'ouvrages routiers à péage.
 
 |
 
-63.4CE
+63.4CI
 
 |
 
-2,20
-
-|
-
-Affrètement et organisation de transports routiers ou aériens.
-
-|
-
-63.4CH
-
-|
-
-2,00
-
-|
+1,8 |
 
 Services postaux et financiers.
 
@@ -1240,7 +774,7 @@ Services postaux et financiers.
 
 |
 
-2,70 TC
+2,6 TC
 
 |
 
@@ -1252,7 +786,7 @@ Autres activités de courrier : activités autres que celles exercées par La Po
 
 |
 
-4,10
+4,0
 
 |
 
@@ -1264,7 +798,7 @@ Télécommunications nationales.
 
 |
 
-1,20 TC
+1,0 TC
 
 |
 
@@ -1276,35 +810,21 @@ Activités de télécommunications hors télécommunications nationales, y compr
 
 |
 
-1,20
+1,0
 
 |
 
-Créateurs et intermédiaires de publicité (2) : régies publicitaires avec affichage.
+Créateurs et intermédiaires de publicité : régies publicitaires. Agences de presse, y compris journalistes et photographes indépendants.
 
 |
 
-74.4AA
+74.4BB
 
 |
 
-2,80
+1,4 |
 
-|
-
-Créateurs et intermédiaires de publicité (2) : régies publicitaires sans affichage (entreprise de timbres réclame).
-
-|
-
-74.4BA
-
-|
-
-1,30
-
-|
-
-Transports de fonds, surveillance et transports de fonds.
+Transports de fonds et services sécurisés.
 
 |
 
@@ -1312,7 +832,7 @@ Transports de fonds, surveillance et transports de fonds.
 
 |
 
-3,80
+4,1
 
 |
 
@@ -1324,19 +844,7 @@ Entreprises de travaux connexes aux sociétés de transports ferroviaires, y com
 
 |
 
-4,20
-
-|
-
-Routage.
-
-|
-
-74.8GA
-
-|
-
-2,50
+4,2
 
 |
 
@@ -1348,7 +856,7 @@ Acheminement et distribution de presse gratuite ou payante.
 
 |
 
-2,50
+2,0
 
 |
 
@@ -1360,7 +868,7 @@ Caisses de congés payés dans les ports et dans certaines entreprises de manute
 
 |
 
-0,50 TC
+0,5 TC
 
 |
 
@@ -1372,11 +880,11 @@ Ambulances.
 
 |
 
-3,80
+3,8
 
 |
 
-Autres services d'assainissement (sauf ceux visés sous le numéro 74.7ZF).
+Services d'assainissement (sauf ceux visés sous le numéro 74. 7ZF). Collecte et traitement des eaux usées.
 
 |
 
@@ -1384,43 +892,19 @@ Autres services d'assainissement (sauf ceux visés sous le numéro 74.7ZF).
 
 |
 
-3,70
+3,6
 
 |
 
-Entreprises de nettoiement, d'arrosage, de balayage. Entreprises d'enlèvement d'ordures ménagères sans personnel de chargement.
+Collecte des déchets ménagers ou d'activités, dangereux ou non dangereux. Nettoiement de voirie-balayage, lavage.
 
 |
 
-90.0BB
+90.0BF
 
 |
 
-4,20
-
-|
-
-Usine d'incinération des gadoues, des ordures ménagères.
-
-|
-
-90.0BD
-
-|
-
-2,40
-
-|
-
-Enlèvement des ordures ménagères avec personnel de collecte et des déchets industriels et commerciaux banals. Entreprises de traitement des ordures ménagères et des déchets industriels et commerciaux banals.
-
-|
-
-90.0BE
-
-|
-
-4,20
+4,3
 
 |
 
@@ -1432,7 +916,7 @@ Caisse des congés payés des spectacles (en ce qui concerne les indemnités ver
 
 |
 
-0,50 TC
+0,5 TC
 
 |
 
@@ -1444,129 +928,29 @@ Associations culturelles et socio-éducatives ne gérant pas d'équipements.
 
 |
 
-1,50 TC
+1,4 TC
 
 |
 
-Production de films, studios de cinéma (sauf les artistes). Production de programmes de télévision.
+Production de films et de programmes pour le cinéma, la télévision, la radiodiffusion, etc. Enregistrement sonore et édition musicale. Distribution et projection de films. Activités photographiques (hors agences de presse). Gestion d'activités de spectacles (sauf les artistes) et gestion d'activités culturelles et socio-éducatives.
 
 |
 
-92.1CB
+92.1CC
 
 |
 
-1,20
+1,4 |
+
+Artistes, pour toutes leurs activités. Création et interprétation littéraires et artistiques. Services annexes des spectacles (tout intermittent du spectacle).
 
 |
 
-Exploitation de studios d'enregistrement sonore (sauf les artistes). Travaux à façon de cinéma : développement, tirage de films. Distribution de films.
+92.3AD
 
 |
 
-92.1DD
-
-|
-
-1,40
-
-|
-
-Projection de films cinématographiques.
-
-|
-
-92.1JA
-
-|
-
-1,80
-
-|
-
-Entreprise de radiodiffusion et de télévision (tout le personnel sauf les artistes).
-
-|
-
-92.2AA
-
-|
-
-1,80
-
-|
-
-Création et interprétation littéraires et artistiques (3).
-
-|
-
-92.3AB
-
-|
-
-1,60 TC
-
-|
-
-Artistes, pour toutes leurs activités.
-
-|
-
-92.3AC
-
-|
-
-1,90 TC
-
-|
-
-Services annexes des spectacles.
-
-|
-
-92.3BA
-
-|
-
-2,00 TC
-
-|
-
-Attractions foraines (sauf les artistes) avec montage de manèges ou de chapiteaux (4).
-
-|
-
-92.3FB
-
-|
-
-6,80
-
-|
-
-Entreprise de concert public, salle de concert, salle d'audition phonographique. Gestion d'équipements culturels socio-éducatifs et de salles de spectacles (sauf les artistes).
-
-|
-
-92.3 FD
-
-|
-
-1,80
-
-|
-
-Gestion de bibliothèques et conservation du patrimoine culturel (monument privé, musée privé).
-
-|
-
-92.5AA
-
-|
-
-1,80
-
-|
+1,8 TC |
 
 Gestion d'équipements et centres sportifs (personnel non visé par ailleurs et notamment aux risques 92.6CH et 92.6CI).
 
@@ -1576,19 +960,7 @@ Gestion d'équipements et centres sportifs (personnel non visé par ailleurs et 
 
 |
 
-1,80
-
-|
-
-Courses de chevaux, courses de taureaux.
-
-|
-
-92.6CA
-
-|
-
-1,90
+1,7
 
 |
 
@@ -1600,7 +972,7 @@ Associations ou sociétés sportives ne gérant pas d'équipements.
 
 |
 
-1,50 TC
+1,4 TC
 
 |
 
@@ -1612,7 +984,7 @@ Sportifs professionnels, y compris entraîneurs joueurs, quel que soit le classe
 
 |
 
-6,80
+6,8
 
 |
 
@@ -1624,41 +996,35 @@ Sportifs professionnels, pour les sports non visés par ailleurs, incluant égal
 
 |
 
-2,10
+2,2
 
 |
 
-Jeux de hasard et d'argent.
+Organisation de jeux de hasard et d'argent (dont courses de chevaux et de taureaux).
 
 |
 
-92.7AA
+92.7AB
 
 |
 
-1,90
+1,6 |
+
+Attractions foraines (sauf les artistes) avec et sans montage de manèges ou de chapiteaux, et autres spectacles et services récréatifs. (6) |
+
+92.7CC
 
 |
 
-Attractions foraines (sauf les artistes) sans montage de manège. Autres spectacles et services récréatifs (6).
-
-|
-
-92.7CB
-
-|
-
-1,80
-
-|
+2,6 |
 
 (1) Ce tarif vise l'ensemble du personnel des industries électriques et gazières, y compris le personnel de la Compagnie parisienne de chauffage urbain.
 
-(2) La fabrication d'affiches peintes et d'enseignes (pose exclue) relève des industries du livre (risque 22.1EB) : la pose desdites affiches et enseignes ainsi que la publicité par affiches peintes directement sur les murs relèvent des industries du bâtiment (n° 45.4JB).
+(2) (Supprimé)
 
-(3) Y compris la décoration sur émail, sur faïence et sur porcelaine (non annexée à une fabrique).
+(3) (Supprimé)
 
-(4) Sous cette rubrique sont également compris les cirques ambulants, les ménageries et toutes attractions mues par la force motrice, mécanique ou électrique.
+(4) (Supprimé)
 
 (5) Le sportif qui pratique professionnellement plus d'une discipline sportive est classé avec celui des sports exercés qui présente le taux de risque le plus élevé.
 
@@ -1690,9 +1056,7 @@ Cultures et élevage dans les départements d'outre-mer.
 
 |
 
-4,10
-
-|
+3,6 |
 
 Abattage du bétail, découpe et commerce de gros de viandes de boucherie. Production de viandes de volailles.
 
@@ -1701,6 +1065,8 @@ Abattage du bétail, découpe et commerce de gros de viandes de boucherie. Produ
 15.1AE
 
 |
+
+6,2
 
 |
 
@@ -1712,6 +1078,8 @@ Transformation et conservation de la viande et préparation de produits à base 
 
 |
 
+4,9
+
 |
 
 Autres industries alimentaires non classées par ailleurs et transformation du tabac.
@@ -1722,6 +1090,8 @@ Autres industries alimentaires non classées par ailleurs et transformation du t
 
 |
 
+2,7
+
 |
 
 Transformation et conservation de légumes et de fruits. Fabrication industrielle de produits de boulangerie, pâtisserie et pizza. |
@@ -1729,6 +1099,8 @@ Transformation et conservation de légumes et de fruits. Fabrication industriell
 15.8AC
 
 |
+
+4,0
 
 |
 
@@ -1740,7 +1112,7 @@ Commerce de détail (avec ou sans fabrication) de pain, pâtisserie, confiserie 
 
 |
 
-2,40
+2,3
 
 |
 
@@ -1752,15 +1124,7 @@ Fabrication et transformation de café et épices. Fabrication de boissons sauf 
 
 |
 
-|
-
-Transformation du tabac. Fabrication d'allumettes.
-
-|
-
-16.0ZA
-
-|
+2,0
 
 |
 
@@ -1772,7 +1136,7 @@ Intermédiaires de commerce en produits agricoles et alimentaires et vente par c
 
 |
 
-1,20
+1,1
 
 |
 
@@ -1784,6 +1148,8 @@ Commerce de gros (commerce interentreprises) alimentaire non spécialisé.
 
 |
 
+2,8
+
 |
 
 Commerce de détail de produits laitiers, de produits surgelés, de fruits et légumes, de boissons et d'alimentation générale.
@@ -1794,7 +1160,7 @@ Commerce de détail de produits laitiers, de produits surgelés, de fruits et l�
 
 |
 
-2,70
+2,6
 
 |
 
@@ -1806,6 +1172,8 @@ Grande et moyenne distribution et Drive-vente par automate.
 
 |
 
+3,3
+
 |
 
 Commerce de détail de viandes, poissons, charcuterie artisanale, y compris traiteurs, organisateurs de réception.
@@ -1816,7 +1184,7 @@ Commerce de détail de viandes, poissons, charcuterie artisanale, y compris trai
 
 |
 
-3,30
+3,3
 
 |
 
@@ -1828,7 +1196,7 @@ Installations d'hébergement à équipements légers ou développés.
 
 |
 
-2,60
+2,5
 
 |
 
@@ -1840,7 +1208,7 @@ Restaurants, café-tabac, hôtels avec ou sans restaurant et foyers.
 
 |
 
-|
+2,3 |
 
 Restauration type rapide y compris wagons-lits et wagons-restaurants.
 
@@ -1850,7 +1218,7 @@ Restauration type rapide y compris wagons-lits et wagons-restaurants.
 
 |
 
-2,20
+2,2
 
 |
 
@@ -1862,7 +1230,7 @@ Restauration collective.
 
 |
 
-3,50
+3,5
 
 |
 
@@ -1874,7 +1242,7 @@ Entreposage frigorifique.
 
 |
 
-4,10
+4,1
 
 |
 
@@ -1900,6 +1268,8 @@ Production, transport par conduite et raffinage de pétrole et de gaz. Fabricati
 
 |
 
+2,1
+
 |
 
 Production et transformation de matières nucléaires.
@@ -1910,7 +1280,7 @@ Production et transformation de matières nucléaires.
 
 |
 
-1,70
+1,4
 
 |
 
@@ -1922,6 +1292,8 @@ Fabrication de produits chimiques minéraux et inorganiques, organiques de synth
 
 |
 
+3,0
+
 |
 
 Fabrication de peintures, vernis, colles, encres, mastics. Fabrication de gélatines et de leurs dérivés. Fabrication de produits d'entretien. Fabrication d'explosifs, d'articles de pyrotechnie, de poudres propulsives.
@@ -1931,6 +1303,8 @@ Fabrication de peintures, vernis, colles, encres, mastics. Fabrication de gélat
 24.3ZC
 
 |
+
+2,8
 
 |
 
@@ -1942,6 +1316,8 @@ Fabrication de préparations pharmaceutiques, de cosmétiques et de parfums. Fab
 
 |
 
+1,7
+
 |
 
 Fabrication d'articles en caoutchouc naturel ou synthétique à partir d'élastomères secs ou sous forme latex ou en solution.
@@ -1952,6 +1328,8 @@ Fabrication d'articles en caoutchouc naturel ou synthétique à partir d'élasto
 
 |
 
+3,1
+
 |
 
 Fabrication, assemblage d'articles et pièces en matières plastiques, y compris composites. |
@@ -1960,19 +1338,7 @@ Fabrication, assemblage d'articles et pièces en matières plastiques, y compris
 
 |
 
-3,20
-
-|
-
-Electrométallurgie et électrochimie associées. Métallurgie de l'aluminium et des autres métaux légers. Fabrication d'électrodes pour l'électrométallurgie et l'électrochimie en graphite, carbone amorphe, de charbon artificiel à usage électrique, d'abrasifs appliqués, de carbure de calcium et silicium, de siliciure de calcium et de corindon artificiel.
-
-|
-
-27.4CG
-
-|
-
-2,80
+3,2
 
 |
 
@@ -1982,15 +1348,15 @@ Chimie expert. Laboratoires de recherches chimiques. |
 
 |
 
-1,70
+1,4
 
 |
 
 .
 
-TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES INDUSTRIES DU BOIS,
+TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES
 
-de l'ameublement, du papier-carton, du textile, du vêtement, des cuirs et des peaux et des pierres et terres à feu
+des industries du bois, de l'ameublement, du papier-carton, du textile, du vêtement, des cuirs et des peaux et des pierres et terres à feu
 
 |
 
@@ -2000,7 +1366,7 @@ Code risque |
 
 Taux net de cotisation AT |
 
-Extraction et préparation de matériaux issus des carrières de roches massives ou meubles
+Extraction et préparation de matériaux issus des carrières de roches meubles ou massives.
 
 |
 
@@ -2008,7 +1374,7 @@ Extraction et préparation de matériaux issus des carrières de roches massives
 
 |
 
-4,50
+4,3
 
 |
 
@@ -2018,7 +1384,7 @@ Extraction, broyage et préparation de produits minéraux divers.
 
 14.5ZM |
 
-3,00
+3,2
 
 |
 
@@ -2030,47 +1396,21 @@ Travail des fibres textiles naturelles (filature, moulinage et retordage, prépa
 
 |
 
-6,00
+3,9
 
 |
 
-Tissage. Fabrication de textiles non tissés, tapis, moquettes, feutres, élastiques...
+Fabrication de tissu et articles textiles.
 
 |
 
-17.2AB
+17.2AC
 
 |
 
-4,20
+4,0 |
 
-|
-
-Ennoblissement textile.
-
-|
-
-17.3ZA
-
-|
-
-3,60
-
-|
-
-Fabrication d'articles en toile forte.
-
-|
-
-17.4CC
-
-|
-
-4,10
-
-|
-
-Fabrication de mailles, dentelles, rubans, produits élastiques et fabrication diverse d'articles textiles.
+Fabrication de mailles, dentelles, rubans, produits élastiques et d'articles divers
 
 |
 
@@ -2078,7 +1418,7 @@ Fabrication de mailles, dentelles, rubans, produits élastiques et fabrication d
 
 |
 
-2,90
+2,5
 
 |
 
@@ -2090,19 +1430,7 @@ Confection. Fabrication d'accessoires de l'habillement et d'articles en toile.
 
 |
 
-2,90
-
-|
-
-Cuirs et peaux.
-
-|
-
-19.1ZE
-
-|
-
-4,40
+2,5
 
 |
 
@@ -2114,21 +1442,19 @@ Maroquinerie.
 
 |
 
-2,90
+2,5
 
 |
 
-Chaussure.
+Chaussure. Cuirs et peaux.
 
 |
 
-19.3ZK
+19.3ZL
 
 |
 
-4,50
-
-|
+5,0 |
 
 Scieries, y compris prestations de services abattage et coupe de bois dans les DOM, fabrication de charbon de bois à usage domestique.
 
@@ -2138,93 +1464,37 @@ Scieries, y compris prestations de services abattage et coupe de bois dans les D
 
 |
 
-5,90
+6,3
 
 |
 
-Traitement du bois.
+Travail mécanique du bois, traitement et fabrication d'objets en bois.
 
 |
 
-20.1BA
+20.1BB
 
 |
 
-5,40
+4,4 |
+
+Menuiserie, charpentes et panneaux à base de bois et commerce menuiserie et panneaux. |
+
+20.3ZF
 
 |
 
-Tranchage et déroulage de bois, fabrication de contre-plaqués, de panneaux lattés, de bois tranché et de bois de placage, bois améliorés.
-
-|
-
-20.2ZA
-
-|
-
-3,90
-
-|
-
-Fabrication en série de menuiserie de bâtiment (sans pose). Fabrication de panneaux de particules.
-
-|
-
-20.3ZD
-
-|
-
-4,10
-
-|
-
-Fabrication de parquets, moulures, baguettes à partir du bois. Fabrication de bâtiments préfabriqués légers, d'éléments de charpentes, ébauchage et façonnage divers (y compris bois de brosse).
-
-|
-
-20.3ZE
-
-|
-
-5,00
-
-|
-
-Fabrication de caisses en fardeaux, caisses montées, de palettes.
-
-|
-
-20.4ZF
-
-|
-
-5,40
-
-|
+4,2 |
 
 Fabrication d'emballages issus du bois et d'articles de tonnellerie.
 
 |
 
-20.4ZH
+20.4ZI
 
 |
 
-5,90
-
-|
-
-Fabrication d'objets divers en bois, de sabots, d'articles en bois pour chaussure, de tabletterie.
-
-|
-
-20.5AE
-
-|
-
-3,90
-
-|
+5,5 |
 
 Production et transformation des pâtes à papier et carton.
 
@@ -2234,19 +1504,7 @@ Production et transformation des pâtes à papier et carton.
 
 |
 
-4,20
-
-|
-
-Fabrication de fils, de fibres artificielles ou synthétiques.
-
-|
-
-24.7ZB
-
-|
-
-3,40
+3,0
 
 |
 
@@ -2258,7 +1516,7 @@ Fabrication, façonnage et travail technique du verre.
 
 |
 
-|
+4,0 |
 
 Fabrication de vaisselle et d'objets en porcelaine ou en faïence.
 
@@ -2268,7 +1526,7 @@ Fabrication de vaisselle et d'objets en porcelaine ou en faïence.
 
 |
 
-4,90
+5,1
 
 |
 
@@ -2280,7 +1538,7 @@ Fabrication de tuiles et briques et de produits céramiques non désignés par a
 
 |
 
-3,60
+3,4
 
 |
 
@@ -2292,7 +1550,7 @@ Fabrication d'appareils sanitaires en céramique.
 
 |
 
-7,80
+5,5
 
 |
 
@@ -2304,7 +1562,7 @@ Fabrication de ciment, chaux, plâtre, produits en plâtre, agrégats légers, m
 
 |
 
-3,00
+3,3
 
 |
 
@@ -2316,7 +1574,7 @@ Fabrication de produits en béton.
 
 |
 
-5,30
+6,0
 
 |
 
@@ -2328,7 +1586,7 @@ Préparation et livraison de béton prêt à l'emploi (sans mise en œuvre) (1).
 
 |
 
-3,90
+2,9
 
 |
 
@@ -2340,7 +1598,7 @@ Fabrication de produits en fibre-ciment.
 
 |
 
-59,00
+95,0
 
 |
 
@@ -2352,7 +1610,7 @@ Fabrication et pose de produits de marbrerie.
 
 |
 
-6,30
+6,2
 
 |
 
@@ -2364,151 +1622,39 @@ Fabrication et réparation de navires en bois et en polyester stratifié.
 
 |
 
-4,10
+5,0
 
 |
 
-Fabrication de sièges, de billards, de meubles en bois non classée ailleurs et industries connexes à l'ameublement.
+Fabrication et réparation de meubles et de cercueils en bois ou en matière similaire et d'instruments de musique.
 
 |
 
-36.1AF
+36.1GC
 
 |
 
-3,80
+4,2 |
+
+Fabrication et réparation de sièges, de matelas et sommiers et d'articles de literie et pour voiliers.
 
 |
 
-Fabrication de meubles en bois pour agencement de magasins, de bureaux. Réparateurs de meubles anciens.
+36.1MD
 
 |
 
-36.1CF
+4,0 |
+
+Commerce du bois.
 
 |
 
-3,90
+51.5EG
 
 |
 
-Fabrication de meubles en bois pour cuisines et jardins. Tapissiers en siège.
-
-|
-
-36.1EF
-
-|
-
-3,60
-
-|
-
-Fabrication de meubles meublants en bois. Fabrication de cercueils.
-
-|
-
-36.1GB
-
-|
-
-5,00
-
-|
-
-Fabrication d'articles de literie et d'articles pour voiliers.
-
-|
-
-36.1MC
-
-|
-
-3,80
-
-|
-
-Fabrication, réparation et accordage d'instruments de musique. Industrie de la brosserie. Fabrication d'articles en bois pour écriture.
-
-|
-
-36.3ZC
-
-|
-
-3,70
-
-|
-
-Fabrication d'articles de pêche et d'articles de sport dont la matière dominante est le bois.
-
-|
-
-36.4ZE
-
-|
-
-3,80
-
-|
-
-Activités manufacturières en bois ou matières similaires, articles de Paris, articles pour fumeurs, articles en liège, en vannerie, en paille. Empailleurs, réparateurs de sièges, canneurs, rempailleurs.
-
-|
-
-36.6EU
-
-|
-
-3,60
-
-|
-
-Commerce de gros sans manutention. Centrales d'achat et intermédiaires du commerce non alimentaires.
-
-|
-
-51.1RB
-
-|
-
-|
-
-Importation et commerce de gros des produits forestiers (bois en grume et bois ronds).
-
-|
-
-51.5EA
-
-|
-
-5,40
-
-|
-
-Commerce de gros et demi-gros de futailles, d'articles semi-finis en bois sciés et de menuiseries de bâtiments, de placage et contreplaqués, de panneaux de particules et lattés.
-
-|
-
-51.5EF
-
-|
-
-3,90
-
-|
-
-Commerce de détail des bois de menuiserie de placage et contre-plaqués, de panneaux de particules et lattés.
-
-|
-
-52.4PA
-
-|
-
-3,60
-
-|
+3,9 |
 
 Autres industries du cuir.
 
@@ -2518,7 +1664,7 @@ Autres industries du cuir.
 
 |
 
-2,10
+1,8
 
 |
 
@@ -2530,7 +1676,7 @@ Blanchisserie et teinturerie de gros, y compris la location de linge et vêtemen
 
 |
 
-4,10
+4,2
 
 |
 
@@ -2542,7 +1688,7 @@ Blanchisserie et teinturerie de détail, y compris laverie automatique.
 
 |
 
-2,90
+2,5
 
 |
 
@@ -2554,7 +1700,9 @@ Blanchisserie et teinturerie de détail, y compris laverie automatique.
 
 .
 
-TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES COMMERCES NON ALIMENTAIRES
+TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES
+
+des commerces non alimentaires
 
 |
 
@@ -2574,6 +1722,8 @@ Commerce et location de véhicules automobiles et d'équipements associés, de m
 
 |
 
+2,1
+
 |
 
 Commerce de combustibles, charbons, carburants et lavages automatiques.
@@ -2584,7 +1734,17 @@ Commerce de combustibles, charbons, carburants et lavages automatiques.
 
 |
 
-3,00
+2,7
+
+|
+
+Commerce de gros sans manutention. Centrales d'achats et intermédiaires du commerce non alimentaire |
+
+51.IRB
+
+|
+
+1,1
 
 |
 
@@ -2596,7 +1756,7 @@ Commerce de métaux, de biens d'occasion et commerce non alimentaire sur éventa
 
 |
 
-2,80
+2,7
 
 |
 
@@ -2608,7 +1768,7 @@ Commerce de gros de matériaux de construction.
 
 |
 
-2,50
+2,4
 
 |
 
@@ -2620,17 +1780,7 @@ Commerce de gros et location de matériel de bureau, électroménager, multiméd
 
 |
 
-|
-
-Commerce de gros de quincaillerie, de produits pour l'aménagement de l'habitat, de fournitures et d'équipements industriels.
-
-|
-
-51.6KB
-
-|
-
-1,90
+1,3
 
 |
 
@@ -2642,6 +1792,8 @@ Commerce de gros d'équipement industriel et de la maison, d'équipement de la p
 
 |
 
+1,7
+
 |
 
 Intermédiaires du commerce avec manutention. Commerce de gros de produits chimiques et autres. |
@@ -2650,7 +1802,7 @@ Intermédiaires du commerce avec manutention. Commerce de gros de produits chimi
 
 |
 
-1,90
+1,7
 
 |
 
@@ -2662,6 +1814,8 @@ Commerce de gros ou location de matériel de construction (bâtiment et travaux 
 
 |
 
+2,6
+
 |
 
 Commerce de détail de produits pharmaceutiques, d'articles médicaux et orthopédiques, d'optique et photographiques, de parfumerie et de produits de beauté.
@@ -2671,6 +1825,8 @@ Commerce de détail de produits pharmaceutiques, d'articles médicaux et orthop�
 52.3AC
 
 |
+
+1,3
 
 |
 
@@ -2682,6 +1838,8 @@ Commerce de détail de l'habillement, textiles, chaussures, maroquinerie. Vente 
 
 |
 
+1,8
+
 |
 
 Grands magasins, magasins multi-commerces ou magasins populaires, commerces de meubles et de décoration de la maison.
@@ -2692,15 +1850,17 @@ Grands magasins, magasins multi-commerces ou magasins populaires, commerces de m
 
 |
 
+2,4
+
 |
 
-Commerce de détail de matériel électrique, radioélectrique et électroménager, y compris la location de disques et de cassettes. |
+Commerce de détail et location de matériel électroménager, multimédia, informatique. |
 
 52.4LA
 
 |
 
-2,10
+1,9
 
 |
 
@@ -2710,19 +1870,27 @@ Commerce de détail de bricolage (surface de vente supérieure ou égale à 400 
 
 |
 
-3,00
+2,9
 
 |
 
-Commerce de matériels optiques et photographiques.
+Commerce de détail et location associée d'articles de sport et de loisirs, y compris cycles |
+
+52.4WA
 
 |
 
-52.4TB
+1,6
 
 |
 
-1,20
+Commerce de fleurs et d'animaux d'agrément. |
+
+52.4XB
+
+|
+
+2,4
 
 |
 
@@ -2734,29 +1902,7 @@ Commerce de détail de quincaillerie et de droguerie (surface de vente inférieu
 
 |
 
-|
-
-Commerce de détail et location associée d'articles de sport et de loisirs, y compris cycles.
-
-|
-
-52.4WA
-
-|
-
-1,70
-
-|
-
-Commerce de fleurs et d'animaux d'agrément.
-
-|
-
-52.4XB
-
-|
-
-2,40
+1,8
 
 |
 
@@ -2768,6 +1914,8 @@ Promotion, vente, location ou administration de biens immobiliers.
 
 |
 
+1,5
+
 |
 
 Concierges et employés d'immeubles.
@@ -2778,11 +1926,11 @@ Concierges et employés d'immeubles.
 
 |
 
-3,10 TC
+2,9 TC
 
 |
 
-Location de biens de consommation (mobiliers, linges, bâches, sacs, etc.) et d'autres biens d'équipements (6).
+Location de biens de consommation (mobiliers, linges, bâches, sacs, etc.) et d'autres biens d'équipements (1).
 
 |
 
@@ -2790,25 +1938,19 @@ Location de biens de consommation (mobiliers, linges, bâches, sacs, etc.) et d'
 
 |
 
-2,70
+2,4
 
 |
 
-(2) A l'exclusion de la pose qui relève des industries du bâtiment.
-
-(3) Y compris le commerce de détail d'articles de vannerie et d'objets divers en bois.
-
-Nota. - La vente d'appareils de télévision, associée à la pose d'antennes, relève des industries du bâtiment.
-
-(5) La location de matériel de travaux publics et de bâtiment (avec personnel) relève des industries du bâtiment (risque n° 45.5ZA).
-
-(6) L'activité de location de linge et de vêtements professionnels associée à l'activité de blanchisserie relève des industries du bois, de l'ameublement, du papier-carton, du textile, du vêtement, des cuirs et peaux et des pierres et terres à feu (risque n° 71.4AC).
+(1) L'activité de location de linge et de vêtements professionnels associée à l'activité de blanchisserie relève des industries du bois, de l'ameublement, du papier-carton, du textile, du vêtement, des cuirs et peaux et des pierres et terres à feu (risque n° 71.4AC).
 
 |
 
 .
 
-TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES POUR LES ACTIVITÉS DE SERVICES I
+TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES
+
+pour les activités de services I
 
 |
 
@@ -2828,7 +1970,7 @@ Organismes et auxiliaires financiers. - Bourse de commerce.
 
 |
 
-1,10 TC
+1,0 TC
 
 |
 
@@ -2840,7 +1982,7 @@ Assurances et auxiliaires d'assurances.
 
 |
 
-1,20 TC
+1,1 TC
 
 |
 
@@ -2852,33 +1994,19 @@ Travaux informatiques à façon.
 
 |
 
-1,30
+1,1
 
 |
 
-Recherche scientifique et technique.
+Etablissements de recherche scientifique et technique.
 
 |
 
-73.1ZC
+73.1ZE
 
 |
 
-1,30
-
-|
-
-Etablissements de recherche scientifique et technique relevant du secteur public.
-
-|
-
-73.1ZD
-
-|
-
-1,70
-
-|
+1,2 |
 
 Groupements d'employeurs. Coopératives d'activité et d'emploi. Services divers rendus principalement aux entreprises non désignés par ailleurs.
 
@@ -2888,7 +2016,7 @@ Groupements d'employeurs. Coopératives d'activité et d'emploi. Services divers
 
 |
 
-1,10
+1,0
 
 |
 
@@ -2900,7 +2028,7 @@ Crédit-bail mobilier et immobilier, location de brevets. Cabinets juridiques et
 
 |
 
-1,10 TC
+1,0 TC
 
 |
 
@@ -2912,7 +2040,7 @@ Holdings. Cabinets de conseils en information et documentation. Cabinets d'étud
 
 |
 
-1,10
+1,0
 
 |
 
@@ -2924,7 +2052,7 @@ Cabinets d'études techniques : agences de brevets, expertises, expertises en œ
 
 |
 
-1,30 TC
+1,1 TC
 
 |
 
@@ -2936,7 +2064,7 @@ Bureaux d'essais, bancs d'essais.
 
 |
 
-1,50
+1,4
 
 |
 
@@ -2948,21 +2076,19 @@ Administration hospitalière, y compris ses établissements publics.
 
 |
 
-1,70
+1,7
 
 |
 
-Administration centrale et services extérieurs des administrations (y compris leurs établissements publics).
+Administration centrale et services extérieurs des administrations (y compris leurs établissements publics). Représentation diplomatique étrangère en France.-Organismes internationaux.-Service des armées alliées.
 
 |
 
-75.1AF
+75.1AG
 
 |
 
-1,70 TC
-
-|
+1,2 TC |
 
 Collectivités territoriales (communales, départementales, régionales...), y compris leurs établissements publics hors secteur médico-social.
 
@@ -2972,7 +2098,7 @@ Collectivités territoriales (communales, départementales, régionales...), y c
 
 |
 
-1,70
+1,7
 
 |
 
@@ -2984,7 +2110,7 @@ Etablissements publics médico-sociaux des collectivités territoriales.
 
 |
 
-1,70
+1,7
 
 |
 
@@ -2994,7 +2120,7 @@ Accueil à domicile, à titre onéreux, d'enfants, de personnes âgées ou d'adu
 
 |
 
-1,40
+1,2
 
 |
 
@@ -3006,6 +2132,8 @@ Personnes détenues, quelle que soit l'activité exercée.
 
 |
 
+1,5 TC
+
 |
 
 Activités générales de sécurité sociale.
@@ -3016,7 +2144,7 @@ Activités générales de sécurité sociale.
 
 |
 
-1,40 TC
+1,3 TC
 
 |
 
@@ -3028,7 +2156,7 @@ Couverture du risque chômage et autres garanties du maintien de revenu, y compr
 
 |
 
-1,20 TC
+1,1TC
 
 |
 
@@ -3040,7 +2168,7 @@ Personnel enseignant et administratif des établissements d'enseignement privés
 
 |
 
-1,50 TC
+1,5 TC
 
 |
 
@@ -3052,7 +2180,7 @@ Elèves et étudiants des établissements publics ou privés d'enseignement seco
 
 |
 
-0,0038TC
+0,0026 TC
 
 |
 
@@ -3064,25 +2192,15 @@ Elèves et étudiants des établissements publics et privés d'enseignement tech
 
 |
 
-0,0171TC
-
-|
-
-Représentation diplomatique étrangère en France. - Organismes internationaux. - Service des armées alliées.
-
-|
-
-99.0ZA
-
-|
-
-1,30 TC
+0,0143 TC
 
 |
 
 .
 
-TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES POUR LES ACTIVITÉS DE SERVICES II
+TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES
+
+pour les activités de services II
 
 |
 
@@ -3104,7 +2222,7 @@ Personnel permanent des entreprises de travail temporaire (1).
 
 |
 
-1,30
+1,1
 
 |
 
@@ -3116,7 +2234,7 @@ Toutes catégories de personnel de travail temporaire (1).
 
 |
 
-3,30
+3,1
 
 |
 
@@ -3128,7 +2246,7 @@ Travail temporaire : personnel de bureau et personnel médical (1).
 
 |
 
-1,30
+1,1
 
 |
 
@@ -3140,7 +2258,7 @@ Agences privées de recherches, entreprises de surveillance (sans transports de 
 
 |
 
-2,90
+2,8
 
 |
 
@@ -3152,6 +2270,8 @@ Services de nettoyage de locaux et d'objets divers. Activités de désinfection,
 
 |
 
+4,1
+
 |
 
 Entreprises de conditionnement non spécialisées.
@@ -3162,7 +2282,7 @@ Entreprises de conditionnement non spécialisées.
 
 |
 
-3,60
+3,7
 
 |
 
@@ -3174,7 +2294,7 @@ Travaux à façon divers sauf la location de brevets, entreposage d'archives d'e
 
 |
 
-1,40
+1,4
 
 |
 
@@ -3186,7 +2306,7 @@ Services de soins privés, médicaux exclusivement à domicile.
 
 |
 
-2,50
+2,4
 
 |
 
@@ -3198,7 +2318,7 @@ Etablissements de soins privés, y compris les centres de réadaptation fonction
 
 |
 
-2,50
+2,4
 
 |
 
@@ -3210,7 +2330,7 @@ Médecine systématique et de dépistage (y compris les centres interentreprises
 
 |
 
-1,30
+1,4
 
 |
 
@@ -3222,7 +2342,7 @@ Cabinets de soins : médicaux et dentaires.
 
 |
 
-1,40
+1,4
 
 |
 
@@ -3234,7 +2354,7 @@ Cabinets d'auxiliaires médicaux.
 
 |
 
-2,50
+2,4
 
 |
 
@@ -3246,7 +2366,7 @@ Laboratoires d'analyses médicales extrahospitaliers.
 
 |
 
-1,40
+1,4
 
 |
 
@@ -3258,7 +2378,7 @@ Centres de transfusion sanguine et banques d'organes. Vétérinaires. Cliniques 
 
 |
 
-2,50
+2,4
 
 |
 
@@ -3270,7 +2390,7 @@ Services d'aide sociale à domicile (auxiliaires de vie, aides ménagères...).
 
 |
 
-3,10 TC
+3,3 TC
 
 |
 
@@ -3282,7 +2402,7 @@ Accueil, hébergement en établissement pour personnes âgées (maisons de retra
 
 |
 
-3,10 TC
+3,3 TC
 
 |
 
@@ -3294,7 +2414,7 @@ Accueil, hébergement en établissement pour personnes handicapées (enfants et 
 
 |
 
-3,10 TC
+3,3 TC
 
 |
 
@@ -3306,7 +2426,7 @@ Accueil, hébergement, prévention pour petite enfance, l'enfance, l'adolescence
 
 |
 
-3,10 TC
+3,3 TC
 
 |
 
@@ -3318,7 +2438,7 @@ Action sociale sous toutes ses formes hors risques 853AB/853AC/853AD/853AE.
 
 |
 
-3,10 TC
+3,3 TC
 
 |
 
@@ -3330,7 +2450,7 @@ Stagiaires des centres de formation professionnelle, de réadaptation fonctionne
 
 |
 
-2,20 TC
+2,32 TC
 
 |
 
@@ -3342,7 +2462,7 @@ Travailleurs handicapés des établissements ou services d'aide par le travail.
 
 |
 
-2,10 TC
+2,0 TC
 
 |
 
@@ -3354,7 +2474,7 @@ Association intermédiaire (personnes dépourvues d'emploi et mises à dispositi
 
 |
 
-3,30 TC
+3,5 TC
 
 |
 
@@ -3366,7 +2486,7 @@ Caisses de congés payés (en ce qui concerne le personnel qu'elles emploient).
 
 |
 
-1,20 TC
+1,4 TC
 
 |
 
@@ -3378,6 +2498,8 @@ Ordres. Syndicats et organisations professionnelles, économiques, religieuses, 
 
 |
 
+1,4 TC
+
 |
 
 Coiffure. Fabrication de postiches. Esthétique corporelle.
@@ -3388,7 +2510,7 @@ Coiffure. Fabrication de postiches. Esthétique corporelle.
 
 |
 
-2,10
+2,0
 
 |
 
@@ -3400,6 +2522,8 @@ Pompes funèbres et services annexes, y compris le commerce d'articles funérair
 
 |
 
+3,0
+
 |
 
 Services personnels divers (y compris cabinets de graphologie, agences matrimoniales).
@@ -3409,6 +2533,8 @@ Services personnels divers (y compris cabinets de graphologie, agences matrimoni
 93.0NC
 
 |
+
+3,8
 
 |
 
@@ -3444,7 +2570,7 @@ Voyageurs de commerce, représentants, placier non exclusif (au service de plusi
 
 |
 
-1,70 TC
+1,3 TC
 
 |
 
@@ -3456,7 +2582,7 @@ Salariés d'un employeur ne comportant pas d'établissement en France, visé à 
 
 |
 
-1,30 TC
+1,1 TC
 
 |
 
@@ -3468,7 +2594,7 @@ Vendeurs colporteurs de presse, porteurs de presse visés à l'article L. 311-3 
 
 |
 
-1,90 TC
+1,9 TC
 
 |
 
@@ -3480,7 +2606,7 @@ Vendeurs à domicile visés à l'article L. 311-3 (20°) du code de la sécurit�
 
 |
 
-2,00 TC
+1,6 TC
 
 |
 
@@ -3492,7 +2618,7 @@ Salarié bénéficiant du titre de travail simplifié dans les départements d'o
 
 |
 
-2,40 TC
+2,32 TC
 
 |
 
@@ -3504,7 +2630,7 @@ Accueil à domicile, à titre onéreux, d'enfants pour le compte de particuliers
 
 |
 
-1,10 TC
+1,0 TC
 
 |
 
@@ -3516,7 +2642,7 @@ Toute personne occupée exclusivement au service de particuliers : employés de 
 
 |
 
-2,10 TC
+2,1 TC
 
 |
 
@@ -3528,7 +2654,7 @@ Toute personne effectuant des travaux de courte durée pour le compte de particu
 
 |
 
-1,10 TC
+1,0 TC
 
 |
 
@@ -3540,7 +2666,7 @@ Toute personne effectuant des travaux de courte durée pour le compte de particu
 
 |
 
-8,00 TC
+8,3 TC
 
 |
 
@@ -3564,26 +2690,6 @@ Personnels des sièges sociaux et bureaux des entreprises relevant de branches p
 
 |
 
-1,10
+1,0
 
 |
-
-NOTA :
-
-Arrêté du 9 août 1996 art. 1 : le présent arrêté modifie la nomenclature des risques visée à l'article 1er de l'arrêté du 17 octobre 1995 et annexée audit arrêté.
-
-Arrêté du 16 mars 1998 annexe : le présent arrêté modifie la nomenclature des risques visée à l'article 1er de l'arrêté du 17 octobre 1995 et annexée audit arrêté.
-
-Arrêté du 31 octobre 2003 art. 1 : le présent arrêté modifie la nomenclature des risques visée à l'article 1er de l'arrêté du 17 octobre 1995 et annexée audit arrêté.
-
-Arrêté du 23 décembre 2003 art. 1 : le présent arrêté modifie la nomenclature des risques visée à l'article 1er de l'arrêté du 17 octobre 1995 et annexée audit arrêté.
-
-Arrêté du 15 décembre 2004 art. 1 : le présent arrêté modifie la nomenclature des risques annexée à l'arrêté du 17 octobre 1995.
-
-Arrêté du 26 décembre 2005 art. 1 : le présent arrêté modifie la nomenclature des risques annexée à l'arrêté du 17 octobre 1995 et annexée audit arrêté.
-
-Arrêté du 21 octobre 2010 art. 1 : le présent arrêté modifie la nomenclature des risques annexée à l'arrêté du 17 octobre 1995 et annexée audit arrêté (en ce qui concerne le comité technique national des services, commerces et industries de l'alimentation.
-
-Arrêté du 27 décembre 2010 art. 1 : le présent arrêté modifie la nomenclature des risques visée à l'article 1er de l'arrêté du 17 octobre 1995 et annexée audit arrêté (Industries de la métallurgie, industries du bâtiment et des travaux publics, industries des transports, de l'eau, du gaz, de l'électricité, du livre et de la communication, services, commerces et industries de l'alimentation, industries de la chimie, du caoutchouc et de la plasturgie, boisameublement, papier-carton, textile, vêtement, cuirs et peaux et pierresà feu, commerces non alimentaires, services I et services II).
-
-Arrêté du 12 avril 2012 art. 1 : le présent arrêté modifie la nomenclature des risques visée à l'article 1er de l'arrêté du 17 octobre 1995 et annexée audit arrêté.
