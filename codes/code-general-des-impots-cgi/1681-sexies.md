@@ -1,8 +1,8 @@
 # Article 1681 sexies
 
-1. Sous réserve des 2, 3 et 4, lorsque leur montant excède 50 000 €, les impôts exigibles dans les conditions fixées à l'article 1663 sont acquittés, au choix du contribuable, par virement directement opéré sur le compte du Trésor ouvert dans les écritures de la Banque de France ou par prélèvements opérés à l'initiative de l'administration fiscale sur un compte visé à l'article 1681 D.
+1. Sous réserve des 2,3 et 4, lorsque leur montant excède 50 000 €, les impôts exigibles dans les conditions fixées à l'article 1663 sont acquittés, au choix du contribuable, par virement directement opéré sur le compte du Trésor ouvert dans les écritures de la Banque de France ou par prélèvements opérés à l'initiative de l'administration fiscale sur un compte visé à l'article 1681 D.
 
-2. Lorsque leur montant excède 10 000 € (1), les acomptes mentionnés à l'article 1664, l'impôt sur le revenu, la taxe d'habitation et la contribution à l'audiovisuel public, les taxes foncières ainsi que les impositions recouvrées selon les mêmes règles que ces impositions sont acquittés par prélèvements opérés à l'initiative du Trésor public sur un compte visé aux 1° ou 2° de l'article 1681 D.
+2. Lorsque leur montant excède 2 000 € (1), les acomptes mentionnés à l'article 1664, l'impôt sur le revenu, la taxe d'habitation et la contribution à l'audiovisuel public, les taxes foncières ainsi que les impositions recouvrées selon les mêmes règles que ces impositions sont acquittés par prélèvements opérés à l'initiative du Trésor public sur un compte visé aux 1° ou 2° de l'article 1681 D.
 
 Par exception au premier alinéa du présent 2, l'impôt de solidarité sur la fortune peut être acquitté par dation dans les conditions prévues à l'article 1716 bis.
 
@@ -12,4 +12,4 @@ Par exception au premier alinéa du présent 2, l'impôt de solidarité sur la f
 
 NOTA :
 
-(1) Ces dispositions s'appliquent aux paiements effectués à compter du 1er janvier 2016.
+(1) Ces dispositions s'appliquent aux paiements effectués à compter du 1er janvier 2017.
