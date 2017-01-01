@@ -8,10 +8,14 @@ Elles seront ci-après désignées « le(s) entreprise(s) ».
 
 2. Les salariés couverts
 
-Sont couverts par le présent accord tous les salariés des entreprises visées au 1 du présent article, à l'exclusion des cadres et personnels ressortissant à la convention collective du 2 avril 1952 et relevant de la caisse de retraite complémentaire des cadres en application des décisions de l'AGIRC et bénéficiant du régime de prévoyance défini dans la convention précitée.
+Les dispositions du présent accord s'appliquent :
 
-(1)
+– à tout salarié relevant de la convention collective nationale de retraite du 24 mars 1971 (non affiliés à l'AGIRC) et répondant à la condition d'ancienneté spécifiée, le cas échéant, aux articles définissant chaque garantie ;
 
-(1) Alinéa étendu sous réserve de l'article 3 de l'accord national du 10 juin 2008 susvisé pour ce qui concerne les voyageurs, représentants et placiers et bûcherons-tâcherons.
+– et relevant du champ d'application du présent accord,
 
-(Arrêté du 7 juillet 2015 - art. 1)
+à l'exclusion :
+
+– des cadres et personnels ressortissants de la convention collective du 2 avril 1952 et relevant de la caisse de retraite complémentaire cadre en application des décisions de l'AGIRC et bénéficiant à ce titre du régime de prévoyance défini dans la convention précitée.
+
+– des VRP et bûcherons-tâcherons ressortissants d'autres dispositions conventionnelles.
