@@ -10,12 +10,14 @@ L'article 885-0 V bis s'applique, dans les mêmes conditions et sous les mêmes 
 
 a) Soit l'étude, la réalisation ou la gestion de construction de logements à destination de personnes défavorisées ou en situation de rupture d'autonomie et sélectionnées par une commission de personnes qualifiées, la société bénéficiant d'un agrément de maîtrise d'ouvrage en application des articles L. 365-1 et suivants du code de la construction et de l'habitation ;
 
-b) Soit l'acquisition, la construction, la réhabilitation, la gestion et l'exploitation par bail de tous biens et droits immobiliers en vue de favoriser l'amélioration des conditions de logement ou d'accueil et la réinsertion de personnes défavorisées ou en situation de rupture d'autonomie, la société bénéficiant d'un agrément d'intérêt collectif.
+b) Soit l'acquisition, la construction, la réhabilitation, la gestion et l'exploitation par bail de tous biens et droits immobiliers en vue de favoriser l'amélioration des conditions de logement ou d'accueil et la réinsertion de personnes défavorisées ou en situation de rupture d'autonomie ;
+
+c) Soit l'acquisition, la gestion et l'exploitation par bail rural de tous biens ruraux bâtis et non bâtis en vue de favoriser l'installation ou l'agrandissement d'exploitations agricoles.
 
 Le bénéfice de la dérogation mentionnée au présent 3° est subordonné au respect des conditions suivantes :
 
--la société ne procède pas à la distribution de dividendes ;
+– la société ne procède pas à la distribution de dividendes ;
 
--la société réalise son objet social sur l'ensemble du territoire national ;
+– la société réalise son objet social sur le territoire national ;
 
 4° Par dérogation au j du 1 bis du I de l'article 885-0 V bis, la limite des versements est fixée à 2,5 millions d'euros par an pour les entreprises solidaires d'utilité sociale qui ont exclusivement pour objet l'exercice d'une activité financière.

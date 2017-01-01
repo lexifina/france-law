@@ -1,16 +1,16 @@
 # Article 223 sexies
 
-I.-1. Il est institué à la charge des contribuables passibles de l'impôt sur le revenu une contribution sur le revenu fiscal de référence du foyer fiscal, tel que défini au 1° du IV de l'article 1417 sans qu'il soit fait application des règles de quotient définies à l'article 163-0 A. La contribution est calculée en appliquant un taux de :
+I. – 1. Il est institué à la charge des contribuables passibles de l'impôt sur le revenu une contribution sur le revenu fiscal de référence du foyer fiscal, tel que défini au 1° du IV de l'article 1417, sans qu'il soit tenu compte des plus-values mentionnées au I de l'article 150-0 B ter, retenues pour leur montant avant application de l'abattement mentionné au 1 de l'article 150-0 D, pour lesquelles le report d'imposition expire et sans qu'il soit fait application des règles de quotient définies à l'article 163-0 A. La contribution est calculée en appliquant un taux de :
 
--3 % à la fraction de revenu fiscal de référence supérieure à 250 000 € et inférieure ou égale à 500 000 € pour les contribuables célibataires, veufs, séparés ou divorcés et à la fraction de revenu fiscal de référence supérieure à 500 000 € et inférieure ou égale à 1 000 000 € pour les contribuables soumis à imposition commune ;
+– 3 % à la fraction de revenu fiscal de référence supérieure à 250 000 € et inférieure ou égale à 500 000 € pour les contribuables célibataires, veufs, séparés ou divorcés et à la fraction de revenu fiscal de référence supérieure à 500 000 € et inférieure ou égale à 1 000 000 € pour les contribuables soumis à imposition commune ;
 
--4 % à la fraction de revenu fiscal de référence supérieure à 500 000 € pour les contribuables célibataires, veufs, séparés ou divorcés et à la fraction de revenu fiscal de référence supérieure à 1 000 000 € pour les contribuables soumis à imposition commune.
+– 4 % à la fraction de revenu fiscal de référence supérieure à 500 000 € pour les contribuables célibataires, veufs, séparés ou divorcés et à la fraction de revenu fiscal de référence supérieure à 1 000 000 € pour les contribuables soumis à imposition commune.
 
 2. La contribution est déclarée, contrôlée et recouvrée selon les mêmes règles et sous les mêmes garanties et sanctions qu'en matière d'impôt sur le revenu.
 
-II.-1. Toutefois si, au titre de l'année d'imposition à la contribution mentionnée au 1 du I, le revenu fiscal de référence du contribuable est supérieur ou égal à une fois et demie la moyenne des revenus fiscaux de référence des deux années précédentes, la fraction du revenu fiscal de l'année d'imposition supérieure à cette moyenne est divisée par deux, puis le montant ainsi obtenu est ajouté à cette même moyenne. La cotisation supplémentaire ainsi obtenue est alors multipliée par deux.
+II. – 1. Toutefois si, au titre de l'année d'imposition à la contribution mentionnée au 1 du I, le revenu fiscal de référence du contribuable est supérieur ou égal à une fois et demie la moyenne des revenus fiscaux de référence des deux années précédentes, la fraction du revenu fiscal de l'année d'imposition supérieure à cette moyenne est divisée par deux, puis le montant ainsi obtenu est ajouté à cette même moyenne. La cotisation supplémentaire ainsi obtenue est alors multipliée par deux.
 
-Le premier alinéa est applicable aux contribuables dont le revenu fiscal de référence au titre de chacune des deux années précédant celle de l'imposition n'a pas excédé 250 000 € pour les contribuables célibataires, veufs, séparés ou divorcés et 500 000 € pour les contribuables soumis à imposition commune .
+Le premier alinéa est applicable aux contribuables dont le revenu fiscal de référence au titre de chacune des deux années précédant celle de l'imposition n'a pas excédé 250 000 € pour les contribuables célibataires, veufs, séparés ou divorcés et 500 000 € pour les contribuables soumis à imposition commune.
 
 Cette disposition est applicable aux contribuables qui ont été passibles de l'impôt sur le revenu au titre des deux années précédant celle de l'imposition pour plus de la moitié de leurs revenus de source française ou étrangère de même nature que ceux entrant dans la composition du revenu fiscal de référence.
 

@@ -16,11 +16,11 @@ En cas de rattachement d'une commune à un établissement public de coopération
 
 3. Lorsque, du fait de l'application du 2 du présent article, le produit des impositions mentionnées au I de l'article 1379 et de la taxe sur les surfaces commerciales prévue à l'article 3 de la loi n° 72-657 du 13 juillet 1972 précitée perçu par une commune diminue de plus de 5 %, l'établissement public de coopération intercommunale dont elle est membre lui verse une compensation égale à :
 
--la première année, 90 % de la fraction de sa perte de produit supérieure à 5 % ;
+– la première année, 90 % de la fraction de sa perte de produit supérieure à 5 % ;
 
--la deuxième année, 75 % de l'attribution reçue l'année précédente ;
+– la deuxième année, 75 % de l'attribution reçue l'année précédente ;
 
--la troisième année, 50 % de l'attribution reçue la première année.
+– la troisième année, 50 % de l'attribution reçue la première année.
 
 Cette durée de trois ans peut être réduite par délibérations concordantes de l'organe délibérant de l'établissement et du conseil municipal de la commune bénéficiaire.
 
@@ -31,3 +31,5 @@ Cette compensation constitue une dépense obligatoire de l'établissement public
 Ces établissements publics peuvent, sur délibérations concordantes de l'établissement public et des communes membres, se substituer à ces dernières pour la perception de la dotation de compensation de la réforme de la taxe professionnelle calculée selon les modalités prévues aux II et III du 1.1 du même article 78, à l'exclusion de la part calculée selon les modalités prévues aux a et b du D du IV du même 1.1.
 
 Le cas échéant, sur délibérations concordantes de l'établissement public de coopération intercommunale et des communes membres, le prélèvement sur les ressources calculé selon les modalités prévues aux II et III du 2.1 dudit article 78 peut être mis à la charge de cet établissement public, à l'exclusion de la fraction calculée selon les modalités prévues aux 1° et 2° du a du D du IV du même 2.1.
+
+Par exception au I de l'article 1639 A bis, l'établissement public de coopération intercommunale soumis au présent article et issu d'une fusion ou ayant connu une modification de périmètre et ses communes membres ont jusqu'au 15 janvier pour prendre les délibérations prévues au présent 4.

@@ -2,13 +2,13 @@
 
 Par dérogation aux dispositions des articles 266 undecies et 266 duodecies, les services chargés de l'inspection des installations classées contrôlent, liquident et recouvrent la part de la taxe générale sur les activités polluantes assise sur la délivrance de l'autorisation prévue par les articles L. 512-1 et L. 512-8 du code de l'environnement et sur l'exploitation au cours d'une année civile d'un établissement mentionné au b du 8 du I de l'article 266 sexies selon les modalités suivantes :
 
-I.-Au vu des renseignements transmis par le préfet, les services chargés de l'inspection des installations classées dressent la liste des redevables, fixent le montant de la taxe et, le cas échéant, des pénalités dues par chacun de ceux-ci et prescrivent l'exécution de la recette correspondante.
+I. - Au vu des renseignements transmis par le préfet, les services chargés de l'inspection des installations classées dressent la liste des redevables, fixent le montant de la taxe et, le cas échéant, des pénalités dues par chacun de ceux-ci et prescrivent l'exécution de la recette correspondante.
 
 Ils notifient à l'assujetti le montant de la taxe et, le cas échéant, des pénalités à acquitter par un avis qui indique les dates de mise en recouvrement, d'exigibilité et d'application de l'intérêt de retard en cas de non-paiement.
 
 La date d'exigibilité est fixée au dernier jour du deuxième mois suivant celui de la mise en recouvrement.
 
-Le montant de la taxe non acquittée le 15 du mois qui suit celui au cours duquel la taxe est exigible est majoré d'un intérêt de retard dont le taux mensuel est fixé à 0,75 % du montant des sommes restant dues.
+Le montant de la taxe non acquittée le 15 du mois qui suit celui au cours duquel la taxe est exigible est majoré.
 
 L'encaissement de la taxe ainsi que, le cas échéant, des pénalités, est effectué par l'intermédiaire d'une régie de recettes fonctionnant dans les conditions prévues par la réglementation applicable aux régies de recettes et aux régies d'avance des organismes publics.
 

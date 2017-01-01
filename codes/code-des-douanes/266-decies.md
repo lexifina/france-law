@@ -6,7 +6,7 @@
 
 3. Les préparations pour lessives, y compris les préparations auxiliaires de lavage, les produits adoucissants ou assouplissants pour le linge, les matériaux d'extraction, mentionnés respectivement aux 5 et 6 du I de l'article 266 sexies donnent lieu, sur demande du redevable de la taxe générale sur les activités polluantes ou de celui qui l'a supportée, à remboursement de la taxe acquittée, dans les conditions prévues à l'article 352, lorsqu'ils sont expédiés à destination d'un Etat membre de l'Union européenne ou exportés.
 
-4. Les personnes mentionnées au 1 du I de l'article 266 sexies peuvent répercuter la taxe afférente dans les contrats conclus avec les personnes physiques ou morales dont ils réceptionnent les déchets. Elles adressent chaque année auxdites personnes physiques ou morales une copie des éléments d'assiette et de tarifs déclarés à l'administration des douanes.
+4. Les personnes mentionnées au 1 du I de l'article 266 sexies répercutent la taxe afférente dans les contrats conclus avec les personnes physiques ou morales dont ils réceptionnent les déchets. Elles adressent chaque année auxdites personnes physiques ou morales une copie des éléments d'assiette et de tarifs déclarés à l'administration des douanes.
 
 5. Les personnes mentionnées au 5 du I de l'article 266 sexies peuvent répercuter la taxe afférente dans les contrats conclus avec les personnes physiques ou morales auxquelles elles vendent les produits correspondants.
 

@@ -1,10 +1,10 @@
 # Article 1586 octies
 
-I. - 1. La cotisation sur la valeur ajoutée des entreprises est due par le redevable qui exerce l'activité au 1er janvier de l'année d'imposition.
+I. – 1. La cotisation sur la valeur ajoutée des entreprises est due par le redevable qui exerce l'activité au 1er janvier de l'année d'imposition.
 
 2. Toutefois, en cas d'apport, de cession d'activité, de scission d'entreprise ou de transmission universelle du patrimoine mentionnée à l'article 1844-5 du code civil, la cotisation sur la valeur ajoutée des entreprises est due également par le redevable qui n'exerce aucune activité imposable au 1er janvier de l'année et auquel l'activité est transmise lorsque l'opération intervient au cours de l'année d'imposition.
 
-II. - 1. Le montant de la valeur ajoutée fait l'objet, au plus tard le deuxième jour ouvré suivant le 1er mai de l'année suivant celle au titre de laquelle la cotisation sur la valeur ajoutée des entreprises est due, d'une déclaration par les entreprises mentionnées au I de l'article 1586 ter auprès du service des impôts dont relève leur principal établissement.
+II. – 1. Le montant de la valeur ajoutée fait l'objet, au plus tard le deuxième jour ouvré suivant le 1er mai de l'année suivant celle au titre de laquelle la cotisation sur la valeur ajoutée des entreprises est due, d'une déclaration par les entreprises mentionnées au I de l'article 1586 ter auprès du service des impôts dont relève leur principal établissement.
 
 Cette déclaration mentionne, par établissement ou par lieu d'emploi, le nombre de salariés employés au cours de la période pour laquelle la déclaration est établie. Les salariés exerçant leur activité dans plusieurs établissements ou lieux d'emploi sont déclarés dans celui où la durée d'activité est la plus élevée, y compris si l'entreprise ne dispose pas de locaux dans ce lieu d'emploi dès lors que le salarié y exerce son activité plus de trois mois.
 
@@ -18,7 +18,7 @@ Un décret précise les conditions d'application du présent 1.
 
 Par exception, en cas d'ouverture d'une procédure de sauvegarde, de redressement judiciaire ou de liquidation judiciaire lorsqu'il n'est pas mis fin à la poursuite de l'activité, à défaut de pouvoir procéder à la liquidation définitive de la cotisation sur la valeur ajoutée des entreprises due au titre de l'année du jugement d'ouverture de la procédure collective, seule la déclaration mentionnée au dernier alinéa de l'article 1679 septies doit être souscrite dans un délai de soixante jours décompté au jour de ce jugement. Cette déclaration doit mentionner une estimation du montant de la cotisation sur la valeur ajoutée des entreprises due au titre de l'année au cours de laquelle la procédure collective a été ouverte, déterminée en fonction du chiffre d'affaires et de la valeur ajoutée mentionnés dans la dernière déclaration de résultat exigée. Cette obligation déclarative anticipée ne se substitue pas aux obligations déclaratives mentionnées au 1 du II du présent article et au dernier alinéa de l'article 1679 septies.
 
-III. - La valeur ajoutée est imposée dans la commune où le contribuable la produisant dispose de locaux ou emploie des salariés exerçant leur activité plus de trois mois.
+III. – La valeur ajoutée est imposée dans la commune où le contribuable la produisant dispose de locaux ou emploie des salariés exerçant leur activité plus de trois mois.
 
 Lorsqu'un contribuable dispose de locaux ou emploie des salariés exerçant leur activité plus de trois mois dans plusieurs communes, la valeur ajoutée qu'il produit est imposée dans chacune de ces communes et répartie entre elles au prorata, pour le tiers, des valeurs locatives des immobilisations imposées à la cotisation foncière des entreprises et, pour les deux tiers, de l'effectif qui y est employé, réparti selon les modalités définies au II.
 
@@ -39,3 +39,11 @@ Pour les contribuables qui n'emploient aucun salarié en France et ne disposent 
 3° Les déclarations mentionnées au 1 du II du présent article et au dernier alinéa de l'article 1679 septies doivent être déposées au lieu de dépôt de la déclaration de résultat.
 
 Pour l'application du présent III, la valeur locative des immobilisations imposables à la cotisation foncière des entreprises s'entend avant application éventuelle de l'abattement prévu à l'avant-dernier alinéa de l'article 1467.
+
+Pour le versement par l'Etat du produit de la cotisation sur la valeur ajoutée des entreprises aux collectivités territoriales et aux établissements publics de coopération intercommunale, la valeur ajoutée produite par les entreprises membres d'un groupe au sens de l'article 223 A est répartie entre chacune des communes où les entreprises membres du groupe disposent de locaux ou emploient des salariés exerçant leur activité plus de trois mois, dans les conditions prévues au présent III.
+
+NOTA :
+
+Conformément au II de l'article 51 de la loi n° 2016-1918 du 29 décembre 2016, les présentes dispositions s'appliquent à la cotisation sur la valeur ajoutée des entreprises due par les redevables au titre de 2017 et des années suivantes et versée par l'Etat aux collectivités territoriales et aux établissements publics de coopération intercommunale à compter de 2018.
+
+III.-Chaque année, le Gouvernement remet au Parlement avant le 30 septembre un rapport ayant pour objet l'analyse de la variation tant du produit de cotisation sur la valeur ajoutée des entreprises que de sa répartition entre régions et départements.

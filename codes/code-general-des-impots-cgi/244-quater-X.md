@@ -2,17 +2,21 @@
 
 I. ― 1. Sur option, les organismes d'habitations à loyer modéré mentionnés à l'article L. 411-2 du code de la construction et de l'habitation, à l'exception des sociétés anonymes coopératives d'intérêt collectif pour l'accession à la propriété, les sociétés d'économie mixte exerçant une activité immobilière outre-mer et les organismes mentionnés à l'article L. 365-1 du même code peuvent bénéficier d'un crédit d'impôt à raison de l'acquisition ou de la construction de logements neufs dans les départements d'outre-mer, lorsqu'ils respectent les conditions suivantes :
 
-a) Les logements sont donnés en location nue ou meublée par l'organisme mentionné au premier alinéa, dans les six mois de leur achèvement ou de leur acquisition, si elle est postérieure, et pour une durée au moins égale à cinq ans, à des personnes physiques qui en font leur résidence principale.
+a) Les logements sont donnés en location nue ou meublée par l'organisme mentionné au premier alinéa, dans les six mois de leur achèvement ou de leur acquisition, si elle est postérieure, et pour une durée au moins égale à cinq ans, à des personnes physiques qui en font leur résidence principale ou confiés en gestion à un centre régional des œuvres universitaires et scolaires pour le logement d'étudiants bénéficiaires de la bourse d'enseignement supérieur sur critères sociaux.
 
-Les logements peuvent être spécialement adaptés à l'hébergement de personnes âgées de plus de soixante-cinq ans ou de personnes handicapées auxquelles des prestations de services de nature hôtelière peuvent être proposées ;
+Les logements peuvent être spécialement adaptés à l'hébergement de personnes âgées de plus de soixante-cinq ans ou de personnes handicapées auxquelles des prestations de services de nature hôtelière peuvent être proposées.
+
+Les logements peuvent être adaptés pour recevoir des logements foyers conformément à l'article L. 633-1 du code de la construction et de l'habitation.
+
+Pour ces logements, les obligations de location mentionnées au premier alinéa du présent article peuvent être remplies par un gestionnaire avec lequel l'organisme ou la société bénéficiaire du crédit d'impôt a signé une convention.
 
 b) Les bénéficiaires de la location sont des personnes physiques dont les ressources n'excèdent pas des plafonds fixés par décret en fonction du nombre de personnes destinées à occuper à titre principal le logement et de la localisation de celui-ci ;
 
 c) Le montant des loyers à la charge des personnes physiques mentionnées au premier alinéa du a ne peut excéder des limites fixées par décret et déterminées en fonction notamment de la localisation du logement ;
 
-d) Une part minimale, définie par décret, de la surface habitable des logements compris dans un ensemble d'investissements portés simultanément à la connaissance du ministre chargé du budget dans les conditions prévues au V est louée, dans les conditions définies au a, à des personnes physiques dont les ressources sont inférieures aux plafonds mentionnés au b, pour des loyers inférieurs aux limites mentionnées au c ;
+d) Une part minimale, définie par décret, de la surface habitable des logements compris dans un programme d'investissement d'un montant supérieur à deux millions d'euros est louée, dans les conditions définies au a, à des personnes physiques dont les ressources sont inférieures aux plafonds mentionnés au b, pour des loyers inférieurs aux limites mentionnées au c ;
 
-e) Une fraction, définie par décret, du prix de revient d'un ensemble d'investissements portés simultanément à la connaissance du ministre chargé du budget correspond à des dépenses supportées au titre de l'acquisition d'équipements de production d'énergie renouvelable, d'appareils utilisant une source d'énergie renouvelable ou de matériaux d'isolation. Un arrêté des ministres chargés du budget, de l'écologie, de l'énergie, du développement durable et de l'outre-mer fixe la nature des dépenses d'équipement concernées ;
+e) Une fraction, définie par décret, du prix de revient d'un programme d'investissement d'un montant supérieur à deux millions d'euros correspond à des dépenses supportées au titre de l'acquisition d'équipements de production d'énergie renouvelable, d'appareils utilisant une source d'énergie renouvelable ou de matériaux d'isolation. Un arrêté des ministres chargés du budget, de l'écologie, de l'énergie, du développement durable et de l'outre-mer fixe la nature des dépenses d'équipement concernées ;
 
 f) Les logements sont financés par subvention publique à hauteur d'une fraction minimale de 5 %. Cette condition ne s'applique pas aux logements bénéficiant des prêts conventionnés définis à l'article R. 372-21 du code de la construction et de l'habitation. Toutefois, pour ouvrir droit au crédit d'impôt, la construction ou l'acquisition de logements bénéficiant des prêts conventionnés précités doit avoir reçu l'agrément préalable du représentant de l'Etat dans le département de situation des logements. Le nombre de logements agréés par le représentant de l'Etat au titre d'une année ne peut excéder 15 % du nombre de logements qui satisfont aux conditions prévues aux b et c du présent 1 livrés l'année précédente dans le département.
 
@@ -24,7 +28,7 @@ b) L'organisme mentionné au premier alinéa du 1 aurait pu bénéficier du cré
 
 3. Ouvre également droit au bénéfice du crédit d'impôt l'acquisition de logements, qui satisfont aux conditions fixées au 1, achevés depuis plus de vingt ans faisant l'objet de travaux de réhabilitation, définis par décret, permettant aux logements d'acquérir des performances techniques voisines de celles des logements neufs.
 
-4. Ouvrent également droit au bénéfice du crédit d'impôt les travaux de rénovation ou de réhabilitation des logements satisfaisant aux conditions fixées au 1, achevés depuis plus de vingt ans et situés dans les quartiers mentionnés au II de l'article 9-1 de la loi n° 2003-710 du 1er août 2003 d'orientation et de programmation pour la ville et la rénovation urbaine, permettant aux logements d'acquérir des performances techniques voisines de celles des logements neufs ou permettant leur confortation contre le risque sismique (1).
+4. Ouvrent également droit au bénéfice du crédit d'impôt les travaux de rénovation ou de réhabilitation des logements satisfaisant aux conditions fixées au 1, achevés depuis plus de vingt ans et situés dans les quartiers mentionnés au II de l'article 9-1 de la loi n° 2003-710 du 1er août 2003 d'orientation et de programmation pour la ville et la rénovation urbaine, permettant aux logements d'acquérir des performances techniques voisines de celles des logements neufs ou permettant leur confortation contre le risque sismique.
 
 II. ― 1. Le crédit d'impôt est assis sur le prix de revient des logements, minoré, d'une part, des taxes et des commissions d'acquisition versées et, d'autre part, des subventions publiques reçues. Ce montant est retenu dans la limite mentionnée au 5 de l'article 199 undecies A, appréciée par mètre carré de surface habitable et, dans le cas des logements mentionnés au second alinéa du a du 1 du I, par mètre carré de surface des parties communes dans lesquelles des prestations de services sont proposées.
 
@@ -32,9 +36,9 @@ Un décret précise, en tant que de besoin, la nature des sommes retenues pour l
 
 2. Dans le cas mentionné au 3 du I, le crédit d'impôt est assis sur le prix de revient des logements, majoré du coût des travaux de réhabilitation et minoré, d'une part, des taxes et des commissions d'acquisition versées et, d'autre part, des subventions publiques reçues. La limite mentionnée au 1 est applicable.
 
-3. Dans le cas mentionné au 4 du I, le crédit d'impôt est assis sur le prix de revient des travaux de réhabilitation minoré, d'une part, des taxes versées et, d'autre part, des subventions publiques reçues. Ce montant est retenu dans la limite d'un plafond de 20 000 € par logement (1).
+3. Dans le cas mentionné au 4 du I, le crédit d'impôt est assis sur le prix de revient des travaux de réhabilitation minoré, d'une part, des taxes versées et, d'autre part, des subventions publiques reçues. Ce montant est retenu dans la limite d'un plafond de 20 000 € par logement.
 
-III. ― Le taux du crédit d'impôt est fixé à 40 %. Toutefois, ce taux est fixé à 20 % pour les travaux mentionnés au 4 du I (1).
+III. ― Le taux du crédit d'impôt est fixé à 40 %. Toutefois, ce taux est fixé à 20 % pour les travaux mentionnés au 4 du I.
 
 IV. ― 1. Le crédit d'impôt prévu au I est accordé au titre de l'année d'acquisition de l'immeuble.
 
@@ -54,7 +58,7 @@ Dans la situation mentionnée au 2 du I, l'option est portée à la connaissance
 
 2. L'option mentionnée au 1 emporte renonciation au bénéfice des dispositifs définis aux articles 199 undecies C et 217 undecies.
 
-VI. ― Lorsque le montant par programme des investissements est supérieur à deux millions d'euros, le bénéfice du crédit d'impôt est conditionné à l'obtention d'un agrément préalable délivré par le ministre chargé du budget dans les conditions prévues au III de l'article 217 undecies.
+VI. (Abrogé)
 
 VII. ― 1. Le crédit d'impôt fait l'objet d'une reprise au titre de l'année au cours de laquelle :
 
@@ -74,6 +78,4 @@ IX.-Le bénéfice du crédit d'impôt prévu au I est subordonné au respect de 
 
 NOTA :
 
-Conformément à l'article 109 III de la loi n° 2015-1785 du 29 décembre 2015, les présentes dispositions s'appliquent aux opérations ayant obtenu un agrément du représentant de l'Etat octroyé à compter du 1er janvier 2016.
-
-(1) Conformément à l'article 110 III B de la loi n° 2015-1785 du 29 décembre 2015, les présentes dispositions s'appliquent aux travaux achevés à compter du 1er janvier 2016 qui ont fait l'objet d'une commande à compter du 30 septembre 2015 et n'ont pas fait l'objet de versement d'acomptes avant cette date.
+Conformément au II de l'article 106 de la loi n° 2016-1918 du 29 décembre 2016, les dispositions du d et du e du 1 du I du présent article, dans leur rédaction issue du I du même article de la même loi, s'appliquent aux opérations d'acquisition et de construction dont le fait générateur, pour l'application du crédit d'impôt mentionné au même I, intervient à compter du 31 mai 2016 et qui, à cette date, n'ont pas obtenu l'agrément prévu au VI de l'article 244 quater X du code général des impôts.

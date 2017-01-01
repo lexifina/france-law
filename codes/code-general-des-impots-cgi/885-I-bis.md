@@ -30,6 +30,8 @@ d. L'exonération partielle est acquise au terme d'un délai global de conservat
 
 e. L'un des associés mentionnés au a exerce effectivement dans la société dont les parts ou actions font l'objet de l'engagement collectif de conservation pendant les cinq années qui suivent la date de conclusion de cet engagement, son activité professionnelle principale si celle-ci est une société de personnes visée aux articles 8 et 8 ter, ou l'une des fonctions énumérées au 1° de l'article 885 O bis lorsque celle-ci est soumise à l'impôt sur les sociétés, de plein droit ou sur option ;
 
+e bis. Les parts ou actions ne sont pas inscrites sur un compte PME innovation mentionné à l'article L. 221-32-4 du code monétaire et financier. Le non-respect de cette condition par l'un des signataires pendant le délai global de conservation de six ans mentionné au d entraîne la remise en cause de l'exonération partielle dont il a bénéficié au titre de l'année en cours et de celles précédant l'inscription des parts ou actions sur le compte PME innovation ;
+
 f. La déclaration visée au 1 du I de l'article 885 W doit être appuyée d'une attestation de la société dont les parts ou actions font l'objet de l'engagement collectif de conservation certifiant que les conditions prévues aux a et b ont été remplies l'année précédant celle au titre de laquelle la déclaration est souscrite ;
 
 A compter de l'expiration de l'engagement collectif de conservation, la déclaration visée au 1 du I de l'article 885 W est accompagnée d'une attestation du redevable certifiant que la condition prévue au c a été satisfaite l'année précédant celle au titre de laquelle la déclaration est souscrite ;
