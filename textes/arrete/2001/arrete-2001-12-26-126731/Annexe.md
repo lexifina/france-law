@@ -1282,6 +1282,8 @@ CLASSE 7. - COMPTES DE PRODUITS
 
 74. Dotations, subventions et participations.
 
+744. FCTVA.
+
 745. Dotation spéciale au titre des instituteurs
 
 Compte réservé au budget annexe de l'IRL..
