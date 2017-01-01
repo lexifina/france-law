@@ -1,21 +1,39 @@
-# Article ANNEXE II bis
+# Article ANNEXE II-1
 
-(I) : Durée maximale
+ÉCHELONS |
 
-(II) : Durée minimale
+DURÉE |
 
-8e échelon : (I) : - ; (II) : -
+8e échelon |
 
-7e échelon : (I) : 3 ans ; (II) : 3 ans
+- |
 
-6e échelon : (I) : 3 ans ; (II) : 3 ans
+7e échelon |
 
-5e échelon : (I) : 2 ans 6 mois ; (II) : 2 ans
+3 ans |
 
-4e échelon : (I) : 2 ans 6 mois ; (II) : 2 ans
+6e échelon |
 
-3e échelon : (I) : 2 ans ; (II) : 1 an 6 mois
+3 ans |
 
-2e échelon : (I) : 2 ans ; (II : 1 an 6 mois
+5e échelon |
 
-1er échelon : (I) : 1 an 6 mois ; (II) : 1 an
+2 ans |
+
+4e échelon |
+
+2 ans |
+
+3e échelon |
+
+1 an 6 mois |
+
+2e échelon |
+
+1 an 6 mois |
+
+1er échelon |
+
+1 an |
+
+.

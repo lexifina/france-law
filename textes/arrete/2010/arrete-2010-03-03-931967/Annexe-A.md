@@ -12,8 +12,6 @@ TAUX DE LA PRIME FORFAITAIRE
 
 |
 
-Chef de cour d'appel, de tribunal supérieur d'appel, de tribunal de grande instance et de première instance.
-
 Membre de l'inspection générale des services judiciaires.
 
 Directeur de l'Ecole nationale des greffes.

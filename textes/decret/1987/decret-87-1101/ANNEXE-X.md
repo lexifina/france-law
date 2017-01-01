@@ -2,80 +2,28 @@
 
 Directeur général adjoint des services de la région Ile de France
 
-|
+ÉCHELONS |
 
-DURéES
+DURÉE |
 
-|
+5e échelon |
 
-ECHELONS
+- |
 
-|
+4e échelon |
 
-Maximale
+3 ans |
 
-|
+3e échelon |
 
-Minimale
+3 ans |
 
-|
+2e échelon |
 
-5e échelon
+3 ans |
 
-|
+1er échelon |
 
--
+1 an 6 mois |
 
-|
-
--
-
-|
-
-4e échelon
-
-|
-
-3 ans
-
-|
-
-3 ans
-
-|
-
-3e échelon
-
-|
-
-3 ans
-
-|
-
-3 ans
-
-|
-
-2e échelon
-
-|
-
-3 ans
-
-|
-
-3 ans
-
-|
-
-1er échelon
-
-|
-
-2 ans
-
-|
-
-1 an 6 mois
-
-|
+.

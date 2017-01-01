@@ -10,9 +10,7 @@ EMPLOIS OPÉRATIONNELS ET D'ENCADREMENT OU ASSIMILÉS
 
 |
 
-Sapeur de 2e ou 1re classe
-
-|
+Sapeur |
 
 Equipier
 
@@ -22,7 +20,27 @@ Opérateur de salle opérationnelle
 
 |
 
-Caporal et caporal-chef
+Caporal
+
+|
+
+Equipier
+
+|
+
+Chef d'équipe
+
+|
+
+Opérateur de salle opérationnelle
+
+|
+
+Chef opérateur de salle opérationnelle
+
+|
+
+Caporal-chef
 
 |
 
@@ -218,6 +236,10 @@ Chef de service (effectif d'agents supérieur à 15)
 
 |
 
+Chef de groupement (départements de catégorie C dont l'effectif de référence, tel que défini par l'article R. 1424-23-1 du code général des collectivités territoriales, est inférieur à 400 SP)
+
+|
+
 Commandant
 
 |
@@ -268,12 +290,6 @@ Chef de service (effectif d'agents supérieur à 30)
 
 |
 
-|
-
-Directeur départemental adjoint
-
-|
-
 Lieutenant-colonel
 
 |
@@ -296,19 +312,7 @@ Chef de service (effectif d'agents supérieur à 50)
 
 |
 
-|
-
-Directeur départemental adjoint
-
-|
-
-|
-
-Directeur départemental
-
-|
-
-Colonel
+Colonel, colonel hors classe, contrôleur général
 
 |
 
@@ -350,9 +354,7 @@ TRAITEMENT IB MOYEN
 
 |
 
-Sapeur de 2e ou 1re classe
-
-|
+Sapeur |
 
 Equipier
 
@@ -372,9 +374,7 @@ Opérateur de salle opérationnelle
 
 |
 
-Caporal et caporal-chef
-
-|
+Caporal |
 
 Equipier
 
@@ -390,11 +390,31 @@ Opérateur de salle opérationnelle
 
 |
 
-7,5
+7.5
 
 |
 
 |
+
+Chef d'équipe
+
+|
+
+8.5
+
+|
+
+|
+
+Chef opérateur de salle opérationnelle
+
+|
+
+10
+
+|
+
+Caporal-chef |
 
 Chef d'équipe
 
@@ -808,7 +828,7 @@ Capitaine
 
 |
 
-Officier de garde
+Chef de colonne
 
 |
 
@@ -828,7 +848,7 @@ Chef de bureau en centre d'incendie et de secours
 
 |
 
-Chef de colonne
+Officier de garde
 
 |
 
@@ -893,6 +913,16 @@ Chef de service
 |
 
 23
+
+|
+
+|
+
+Chef de groupement
+
+|
+
+33
 
 |
 
@@ -978,16 +1008,6 @@ Chef de service
 
 |
 
-|
-
-Directeur départemental adjoint
-
-|
-
-36
-
-|
-
 Lieutenant-colonel
 
 |
@@ -1030,27 +1050,7 @@ Chef de service
 
 |
 
-|
-
-Directeur départemental adjoint
-
-|
-
-35
-
-|
-
-|
-
-Directeur départemental
-
-|
-
-39
-
-|
-
-Colonel
+Colonel, colonel hors classe, contrôleur général
 
 |
 

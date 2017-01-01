@@ -1,321 +1,167 @@
 # Article Annexe
 
-ÉCHELONS
-
-|
+GRADES ET ÉCHELONS |
 
 INDICES BRUTS
 
-|
+à compter du 1er janvier 2017 |
 
-Ingénieur hospitalier en chef de classe exceptionnelle
+Ingénieur hospitalier en chef de classe exceptionnelle |
 
-|
+7e échelon |
 
-|
+HEB |
 
-7e échelon
+6e échelon |
 
-|
+HEA |
 
-HEB
+5e échelon |
 
-|
+1 021 |
 
-6e échelon
+4e échelon |
 
-|
+971 |
 
-HEA
+3e échelon |
 
-|
+906 |
 
-5e échelon
+2e échelon |
 
-|
+835 |
 
-1015
+1er échelon |
 
-|
+755 |
 
-4e échelon
+Ingénieur hospitalier en chef de classe normale |
 
-|
+10e échelon |
 
-966
+971 |
 
-|
+9e échelon |
 
-3e échelon
+906 |
 
-|
+8e échelon |
 
-901
+857 |
 
-|
+7e échelon |
 
-2e échelon
+777 |
 
-|
+6e échelon |
 
-830
+706 |
 
-|
+5e échelon |
 
-1er échelon
+659 |
 
-|
+4e échelon |
 
-750
+617 |
 
-|
+3e échelon |
 
-Ingénieur hospitalier en chef de classe normale
+567 |
 
-|
+2e échelon |
 
-|
+518 |
 
-10e échelon
+1er échelon |
 
-|
+456 |
 
-966
+Ingénieur hospitalier principal |
 
-|
+9e échelon |
 
-9e échelon
+- |
 
-|
+8e échelon |
 
-901
+979 |
 
-|
+7e échelon |
 
-8e échelon
+929 |
 
-|
+6e échelon |
 
-852
+879 |
 
-|
+5e échelon |
 
-7e échelon
+826 |
 
-|
+4e échelon |
 
-772
+778 |
 
-|
+3e échelon |
 
-6e échelon
+713 |
 
-|
+2e échelon |
 
-701
+653 |
 
-|
+1er échelon |
 
-5e échelon
+603 |
 
-|
+Ingénieur hospitalier |
 
-655
+10e échelon |
 
-|
+810 |
 
-4e échelon
+9e échelon |
 
-|
+758 |
 
-612
+8eéchelon |
 
-|
+724 |
 
-3e échelon
+7e échelon |
 
-|
+679 |
 
-562
+6e échelon |
 
-|
+633 |
 
-2e échelon
+5e échelon |
 
-|
+597 |
 
-513
+4e échelon |
 
-|
+551 |
 
-1er échelon
+3e échelon |
 
-|
+505 |
 
-450
+2e échelon |
 
-|
+464 |
 
-Ingénieur hospitalier principal
+1er échelon |
 
-|
+434 |
 
-|
+NOTA :
 
-9e échelon
+Conformément aux dispositions de l'article 5 de l’arrêté du 16 novembre 2018 :
 
-|
+L’arrêté du 3 février 1993 relatif à l'échelonnement indiciaire du corps des ingénieurs hospitaliers de l'Assistance publique-hôpitaux de Paris est abrogé.
 
-966
-
-|
-
-8e échelon
-
-|
-
-916
-
-|
-
-7e échelon
-
-|
-
-864
-
-|
-
-6e échelon
-
-|
-
-811
-
-|
-
-5e échelon
-
-|
-
-759
-
-|
-
-4e échelon
-
-|
-
-701
-
-|
-
-3e échelon
-
-|
-
-641
-
-|
-
-2e échelon
-
-|
-
-593
-
-|
-
-1er échelon
-
-|
-
-541
-
-|
-
-Ingénieur hospitalier
-
-|
-
-|
-
-10e échelon
-
-|
-
-750
-
-|
-
-9e échelon
-
-|
-
-710
-
-|
-
-8e échelon
-
-|
-
-668
-
-|
-
-7e échelon
-
-|
-
-621
-
-|
-
-6e échelon
-
-|
-
-588
-
-|
-
-5e échelon
-
-|
-
-540
-
-|
-
-4e échelon
-
-|
-
-492
-
-|
-
-3e échelon
-
-|
-
-458
-
-|
-
-2e échelon
-
-|
-
-430
-
-|
-
-1er échelon
-
-|
-
-379
-
-|
+Ses dispositions restent en vigueur à seule fin de mettre en œuvre l'article 1er du présent arrêté.

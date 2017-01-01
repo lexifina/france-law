@@ -14,28 +14,28 @@ Catégorie I |
 
 Catégorie II |
 
-80 |
+113 |
 
 Catégorie III |
 
-117 |
+168 |
 
 Catégorie IV |
 
-121 |
+184 |
 
 Catégorie V |
 
-244 |
+289 |
 
 Catégorie VI |
 
-403 |
+418 |
 
 Catégorie VII |
 
-202 |
+380 |
 
 Catégorie VIII |
 
-3047 |
+4120 |

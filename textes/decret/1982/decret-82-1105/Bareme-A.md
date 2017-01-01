@@ -1,16 +1,12 @@
 # Article Barème A
 
-CORRESPONDANCE ENTRE INDICES BRUTS ET MAJORÉS
+Correspondance entre indices bruts et majorés au 1er janvier 2017
 
-AU 1er JANVIER 2013
-
-BRUTS
+INDICES BRUTS
 
 |
 
-MAJORÉS
-
-du 1er janvier 2013
+INDICES MAJORÉS
 
 |
 
@@ -7214,7 +7210,7 @@ du 1er janvier 2013
 
 |
 
-1 000
+1000
 
 |
 
@@ -7222,7 +7218,7 @@ du 1er janvier 2013
 
 |
 
-1 001
+1001
 
 |
 
@@ -7230,7 +7226,7 @@ du 1er janvier 2013
 
 |
 
-1 002
+1002
 
 |
 
@@ -7238,7 +7234,7 @@ du 1er janvier 2013
 
 |
 
-1 003
+1003
 
 |
 
@@ -7246,7 +7242,7 @@ du 1er janvier 2013
 
 |
 
-1 004
+1004
 
 |
 
@@ -7254,7 +7250,7 @@ du 1er janvier 2013
 
 |
 
-1 005
+1005
 
 |
 
@@ -7262,7 +7258,7 @@ du 1er janvier 2013
 
 |
 
-1 006
+1006
 
 |
 
@@ -7270,7 +7266,7 @@ du 1er janvier 2013
 
 |
 
-1 007
+1007
 
 |
 
@@ -7278,7 +7274,7 @@ du 1er janvier 2013
 
 |
 
-1 008
+1008
 
 |
 
@@ -7286,7 +7282,7 @@ du 1er janvier 2013
 
 |
 
-1 009
+1009
 
 |
 
@@ -7294,7 +7290,7 @@ du 1er janvier 2013
 
 |
 
-1 010
+1010
 
 |
 
@@ -7302,7 +7298,7 @@ du 1er janvier 2013
 
 |
 
-1 011
+1011
 
 |
 
@@ -7310,7 +7306,7 @@ du 1er janvier 2013
 
 |
 
-1 012
+1012
 
 |
 
@@ -7318,7 +7314,7 @@ du 1er janvier 2013
 
 |
 
-1 013
+1013
 
 |
 
@@ -7326,7 +7322,7 @@ du 1er janvier 2013
 
 |
 
-1 014
+1014
 
 |
 
@@ -7334,7 +7330,7 @@ du 1er janvier 2013
 
 |
 
-1 015
+1015
 
 |
 
@@ -7342,4 +7338,58 @@ du 1er janvier 2013
 
 |
 
-.
+1016
+
+|
+
+821
+
+|
+
+1017
+
+|
+
+822
+
+|
+
+1018
+
+|
+
+823
+
+|
+
+1019
+
+|
+
+823
+
+|
+
+1020
+
+|
+
+824
+
+|
+
+1021
+
+|
+
+825
+
+|
+
+1022
+
+|
+
+826
+
+|

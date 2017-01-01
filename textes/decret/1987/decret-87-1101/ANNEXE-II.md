@@ -1,115 +1,39 @@
 # Article ANNEXE II
 
-|
+ÉCHELONS |
 
-DUREES
+DURÉE |
 
-|
+8e échelon |
 
-ECHELONS
+- |
 
-|
+7e échelon |
 
-Maximale
+3 ans |
 
-|
+6e échelon |
 
-Minimale
+3 ans |
 
-|
+5e échelon |
 
-8e échelon
+2 ans |
 
-|
+4e échelon |
 
--
+2 ans |
 
-|
+3e échelon |
 
--
+1 an 6 mois |
 
-|
+2e échelon |
 
-7e échelon
+1 an 6 mois |
 
-|
+1er échelon |
 
-3 ans
+1 an |
 
-|
-
-3 ans
-
-|
-
-6e échelon
-
-|
-
-3 ans
-
-|
-
-3 ans
-
-|
-
-5e échelon
-
-|
-
-2 ans 6 mois
-
-|
-
-2 ans
-
-|
-
-4e échelon
-
-|
-
-2 ans 6 mois
-
-|
-
-2 ans
-
-|
-
-3e échelon
-
-|
-
-2 ans
-
-|
-
-1 an 6 mois
-
-|
-
-2e échelon
-
-|
-
-2 ans
-
-|
-
-1 an 6 mois
-
-|
-
-1er échelon
-
-|
-
-1 an 6 mois
-
-|
-
-1 an
-
-|
+.

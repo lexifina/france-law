@@ -28,7 +28,7 @@ LISTE DES DOCUMENTS CONSTITUTIFS DES COMPTES ANNUELS
 
 2. Documents relatifs à la comptabilité budgétaire :
 
-― à compter de l'exercice 2016, les documents mentionnés au 1° et 2° de l'article 175 du décret n° 2012-1246 du 7 novembre 2012 susvisé.
+― les documents mentionnés au 1° et 2° de l'article 175 du décret n° 2012-1246 du 7 novembre 2012 susvisé.
 
 3. Documents relatifs au budget de l'organisme :
 
@@ -42,13 +42,15 @@ LISTE DES DOCUMENTS CONSTITUTIFS DES COMPTES ANNUELS
 
 7. Documents relatifs à la nomination de l'agent comptable lorsque sa nomination intervient entre deux transmissions du compte financier au juge des comptes :
 
-― acte de nomination ;
+-acte de nomination ;
 
-― acte de prestation de serment ;
+-acte de prestation de serment ;
 
-― procès-verbal d'installation et pièces annexes ;
+-procès-verbal d'installation et pièces annexes ;
 
-― le cas échéant, les réserves formulées sur la gestion de son prédécesseur.
+-extrait de cautionnement ;
+
+-le cas échéant, les réserves formulées sur la gestion de son prédécesseur.
 
 8. Documents relatifs à la cessation de fonctions de l'agent comptable au cours de l'exercice écoulé :
 
@@ -56,6 +58,8 @@ LISTE DES DOCUMENTS CONSTITUTIFS DES COMPTES ANNUELS
 
 ― certificat constatant la libération du cautionnement ;
 
-― procuration de l'agent comptable précédent à l'agent comptable arrivant autorisant celui-ci à signer le compte financier ainsi qu'à répondre aux éventuelles injonctions du juge des comptes.
+― procuration de l'agent comptable précédent à l'agent comptable arrivant autorisant celui-ci à signer le compte financier ainsi qu'à répondre aux éventuelles demandes d'explication ou de production de pièces formulées par le juge des comptes.
 
 9. Copie des rapports d'audit financiers et comptables notifiés au cours de l'exercice.
+
+10. Extrait de cautionnement lorsque le montant de celui-ci a évolué depuis la nomination de l'agent comptable.

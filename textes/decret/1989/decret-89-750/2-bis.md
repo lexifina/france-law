@@ -9,5 +9,3 @@ Ils peuvent être affectés dans les établissements publics administratifs plac
 II.-Les dispositions de l'article 1er de la loi du 30 mars 1928 relative au statut du personnel navigant de l'aéronautique sont applicables aux ingénieurs d'études et de fabrications classés dans le personnel navigant des corps techniques de l'aéronautique et de l'aéronautique navale.
 
 III.-Les ingénieurs d'études et de fabrications peuvent exercer les fonctions de contrôleur civil de la circulation aérienne " essais-réception " sous réserve de satisfaire à des conditions médicales particulières définies, ainsi que leurs modalités de contrôle, par arrêté conjoint du ministre de la défense et du ministre chargé de la fonction publique.
-
-Ils sont soumis par ailleurs aux dispositions du décret n° 86-442 du 14 mars 1986 relatif à la désignation des médecins agréés, à l'organisation des comités médicaux et des commissions de réforme, aux conditions d'aptitude physique pour l'admission aux emplois publics et au régime de congés de maladie des fonctionnaires.

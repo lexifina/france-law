@@ -2,573 +2,315 @@
 
 Direction régionale et interdépartementale de l'équipement
 
-et de l'aménagement d'Ile-de-France
+et de l'aménagement d'Ile-de-France (4)
 
-FONCTIONS EXERCÉES
-
-|
+FONCTIONS EXERCÉES |
 
 NIVEAU
 
 de qualification
 
-de l'emploi
-
-|
+de l'emploi |
 
 NOMBRE
 
-d'emplois
-
-|
+d'emplois |
 
 NOMBRE
 
-de points (IM)
+de points (IM) par emploi |
 
-par emploi
+Chef du pôle planification urbaine et aménagement durable-Unité départementale de Paris |
 
-|
+A |
 
-Chef du pôle planification urbaine et aménagement durable - unité territoriale de Paris
+1 |
 
-|
+50 |
 
-A
+Chargé de mission Plaine commune-Unité départementale de Seine-Saint-Denis |
 
-|
+A |
 
-1
+1 |
 
-|
+23 |
 
-50
+Chargé de mission secteur centre et référent foncier-Unité départementale de Seine-Saint-Denis |
 
-|
+A |
 
-Chef de projet politique locale de l'habitat - unité territoriale des Hauts-de-Seine
+1 |
 
-|
+23 |
 
-A
+Chef du pôle planification urbaine et aménagement-Unité départementale de Seine-Saint-Denis |
 
-|
+A |
 
-1
+1 |
 
-|
+20 |
 
-23
+Chargé de mission secteur Est et référent de projet rénovation urbaine-Unité départementale de Seine-Saint-Denis |
 
-|
+A |
 
-Chargé de mission secteur Ouest - unité territoriale de la Seine-Saint-Denis
+1 |
 
-|
+23 |
 
-A
+Chargé de mission secteur Roissy-le Bourget, référent quartier gare-Unité départementale de Seine-Saint-Denis |
 
-|
+A |
 
-1
+1 |
 
-|
+23 |
 
-23
+Chef du pôle innovation écologique et territoire-Unité départementale de la Seine Saint-Denis |
 
-|
+A |
 
-Chargé de mission secteur Est - unité territoriale de la Seine-Saint-Denis
+1 |
 
-|
+23 |
 
-A
+Chef de pôle ville durable et rénovation urbaine-Unité départementale du Val-de-Marne |
 
-|
+A |
 
-1
+1 |
 
-|
-
-23
-
-|
-
-Chargé de mission secteur Roissy-Le Bourget - unité territoriale de la Seine-Saint-Denis
-
-|
-
-A
-
-|
-
-1
-
-|
-
-23
-
-|
-
-Chargé de mission secteur centre et référent foncier - unité territoriale de la Seine-Saint-Denis
-
-|
-
-A
-
-|
-
-1
-
-|
-
-23
-
-|
-
-Chef du pôle planification urbaine et aménagement - unité territoriale de la Seine-Saint-Denis
-
-|
-
-A
-
-|
-
-1
-
-|
-
-20
-
-|
-
-Chargé de mission ville durable et rénovation urbaine - unité territoriale du Val-de-Marne
-
-|
-
-A
-
-|
-
-1
-
-|
-
-23
-
-|
+23 |
 
 Direction régionale et interdépartementale de l'hébergement
 
-et du logement en Ile-de-France
+et du logement en Ile-de-France (5)
 
-DIRECTION RÉGIONALE ET INTERDÉPARTEMENTALE DE L'HÉBERGEMENT ET DU LOGEMENT EN ÎLE-DE-FRANCE
+FONCTIONS EXERCÉES |
 
-|
+NIVEAU
 
-Fonctions exercées
+de qualification
 
-|
+de l'emploi |
 
-Niveau de qualification de l'emploi
+NOMBRE
 
-|
+d'emplois |
 
-Nombre
+NOMBRE
 
-d'emplois
+de points (IM) par emploi |
 
-|
+Adjoint au chef du service habitat et rénovation urbaine-Unité départementale de Paris |
 
-Nombre de points (IM)
+A |
 
-par emploi
+1 |
 
-|
+50 |
 
-Adjoint (e) chef du service habitat et rénovation urbaine-unité territoriale de Paris
+Responsable de la mission droit au logement opposable-Unité départementale de Paris |
 
-|
+A |
 
-A
+1 |
 
-|
+23 |
 
-1
+Chef du bureau des relations avec les bailleurs sociaux-Unité départementale de Paris |
 
-|
+A |
 
-50
+1 |
 
-|
+23 |
 
-Responsable de la mission droit au logement opposable-unité territoriale de Paris
+Chef du bureau intervention dans le parc privé-Unité départementale des Hauts-de-Seine |
 
-|
+A |
 
-A
+1 |
 
-|
+23 |
 
-1
+Chef du bureau rénovation urbaine-Unité départementale des Hauts-de-Seine |
 
-|
+A |
 
-23
+1 |
 
-|
+23 |
 
-Chef du bureau lutte contre le saturnisme-unité territoriale de Paris
+Adjoint au chef du bureau rénovation urbaine-Unité départementale des Hauts-de-Seine |
 
-|
+A |
 
-B
+1 |
 
-|
+23 |
 
-1
+Chef du bureau Interventions dans l'habitat privé-Unité départementale de la Seine-Saint-Denis |
 
-|
+A |
 
-30
+1 |
 
-|
+23 |
 
-Chargé (e) de projet rénovation urbaine-unité territoriale de Paris
+Chef du bureau du logement social-Unité départementale de la Seine-Saint-Denis |
 
-|
+A |
 
-B
+1 |
 
-|
+23 |
 
-2
+Chef du bureau rénovation urbaine-Unité départementale de la Seine-Saint-Denis |
 
-|
+A |
 
-20
+1 |
 
-|
+50 |
 
-Instructeur habitat privé-unité territoriale de Paris
+Chargé de mission rénovation urbaine-Unité départementale de la Seine-Saint-Denis |
 
-|
+A |
 
-B
+3 |
 
-|
+23 |
 
-1
+Adjoint au chef du bureau Interventions dans l'habitat privé-Unité départementale de la Seine-Saint-Denis |
 
-|
+A |
 
-30
+1 |
 
-|
+23 |
 
-Chef du bureau intervention dans le parc privé-unité territoriale des Hauts-de-Seine
+Adjoint au chef du bureau du logement social-Unité départementale de la Seine-Saint-Denis |
 
-|
+A |
 
-A
+1 |
 
-|
+23 |
 
-1
+Chef du bureau du financement du parc social et de son renouvellement-Unité départementale du Val-de-Marne |
 
-|
+A |
 
-23
+1 |
 
-|
+23 |
 
-Chef du bureau rénovation urbaine-unité territoriale des Hauts-de-Seine
+Responsable de projet rénovation urbaine-Unité départementale du Val-de-Marne |
 
-|
+A |
 
-A
+3 |
 
-|
+23 |
 
-1
+Chef du bureau lutte contre le saturnisme-Unité départementale de Paris |
 
-|
+B |
 
-23
+1 |
 
-|
+30 |
 
-Adjoint (e) au chef de bureau rénovation urbaine-unité territoriale des Hauts-de-Seine
+Adjoint au chef du bureau lutte contre le saturnisme-Unité départementale de Paris |
 
-|
+B |
 
-A
+1 |
 
-|
+20 |
 
-1
+Chargé de projet rénovation urbaine-Unité départementale de Paris |
 
-|
+B |
 
-23
+1 |
 
-|
+20 |
 
-Chargé (e) d'opération habitat indigne-unité territoriale des Hauts-de-Seine
+Instructeur ANAH-Unité départementale de Paris |
 
-|
+B |
 
-B
+1 |
 
-|
+30 |
 
-1
+Chargé d'opération habitat indigne-Unité départementale des Hauts-de-Seine |
 
-|
+B |
 
-20
+1 |
 
-|
+20 |
 
-Chargé (e) de projet rénovation urbaine-unité territoriale des Hauts-de-Seine
+Chargé de projet rénovation urbaine-Unité départementale des Hauts-de-Seine |
 
-|
+B |
 
-B
+3 |
 
-|
+20 |
 
-3
+Instructeur du financement du logement social-Unité départementale de la Seine-Saint-Denis |
 
-|
+B |
 
-20
+1 |
 
-|
+30 |
 
-Chargé (e) de mission Plan départemental d'action pour le logement des personnes défavorisées (PDALPD)-unité territoriale de la Seine-Saint-Denis
+Instructeur du financement rénovation urbaine-Unité départementale de la Seine-Saint-Denis |
 
-|
+B |
 
-A
+5 |
 
-|
+20 |
 
-1
+Instructeur chargé d'opérations habitat indigne-Unité départementale de la Seine-Saint-Denis |
 
-|
+B |
 
-23
+3 |
 
-|
+20 |
 
-Chargé (e) de la cellule éradication de l'habitat indigne-unité territoriale de la Seine-Saint-Denis
+Adjoint au chef du bureau financement du parc social et de son renouvellement-Unité départementale du Val-de-Marne |
 
-|
+B |
 
-A
+1 |
 
-|
+20 |
 
-1
+Chargé d'opérations lutte contre l'habitat indigne-Unité départementale du Val-de-Marne |
 
-|
+B |
 
-23
+1 |
 
-|
+20 |
 
-Chef du bureau Interventions dans l'habitat privé-unité territoriale de la Seine-Saint-Denis
+Instructeur habitat indigne-Unité départementale de la Seine-Saint-Denis |
 
-|
+C |
 
-A
+1 |
 
-|
-
-1
-
-|
-
-23
-
-|
-
-Chef du bureau du logement social-unité territoriale de la Seine-Saint-Denis
-
-|
-
-A
-
-|
-
-1
-
-|
-
-23
-
-|
-
-Chef du bureau rénovation urbaine-unité territoriale de la Seine-Saint-Denis
-
-|
-
-A
-
-|
-
-1
-
-|
-
-50
-
-|
-
-Chargé (e) de projet rénovation urbaine-unité territoriale de la Seine-Saint-Denis
-
-|
-
-A
-
-|
-
-5
-
-|
-
-23
-
-|
-
-Chargé (e) d'opérations habitat indigne-unité territoriale de la Seine-Saint-Denis
-
-|
-
-B
-
-|
-
-3
-
-|
-
-20
-
-|
-
-Instructeur du financement du logement social-unité territoriale de la Seine-Saint-Denis
-
-|
-
-B
-
-|
-
-2
-
-|
-
-30
-
-|
-
-Instructeur du financement rénovation urbaine-unité territoriale de la Seine-Saint-Denis
-
-|
-
-B
-
-|
-
-4
-
-|
-
-20
-
-|
-
-Instructeur habitat indigne-unité territoriale de la Seine-Saint-Denis
-
-|
-
-C
-
-|
-
-1
-
-|
-
-20
-
-|
-
-Chef du bureau financement du parc social et de son renouvellement-unité territoriale du Val-de-Marne
-
-|
-
-A
-
-|
-
-1
-
-|
-
-23
-
-|
-
-Chargé (e) de projet rénovation urbaine-unité territoriale du Val-de-Marne
-
-|
-
-A
-
-|
-
-2
-
-|
-
-23
-
-|
-
-Adjoint (e) au chef du bureau financement du parc social et de son renouvellement-unité territoriale du Val-de-Marne
-
-|
-
-B
-
-|
-
-1
-
-|
-
-20
-
-|
-
-Chargé (e) d'opérations habitat indigne-unité territoriale du Val-de-Marne
-
-|
-
-B
-
-|
-
-1
-
-|
-
-20
-
-|
+20 |
 
 Direction départementale de l'équipement et de l'agriculture (1) de la Seine-Maritime
 
@@ -906,31 +648,19 @@ par emploi
 
 Chef du service habitat et construction |
 
-A
+A |
 
-|
+1 |
 
-1
-
-|
-
-50
-
-|
+50 |
 
 Chef du bureau de la rénovation urbaine-service habitat et construction |
 
-A
+A |
 
-|
+1 |
 
-1
-
-|
-
-30
-
-|
+30 |
 
 Chef du bureau du financement du logement social-service habitat et construction
 
@@ -990,33 +720,21 @@ Chef du bureau logement social public
 
 |
 
-A
+A |
 
-|
+1 |
 
-1
-
-|
-
-15 points
-
-|
+15 points |
 
 Chargé des observatoires des territoires, dont l'observatoire du logement
 
 |
 
-A
+A |
 
-|
+1 |
 
-1
-
-|
-
-15 points
-
-|
+15 points |
 
 Direction départementale de la cohésion sociale et de la protection des populations du Tarn
 
@@ -1044,33 +762,21 @@ Chargé des accords collectifs et du droit au logement opposable
 
 |
 
-B
+B |
 
-|
+1 |
 
-1
-
-|
-
-10 points
-
-|
+10 points |
 
 Chargé du secrétariat de la commission de coordination des actions de prévention des expulsions
 
 |
 
-C
+C |
 
-|
+1 |
 
-1
-
-|
-
-15 points
-
-|
+15 points |
 
 Direction départementale de l'équipement et de l'agriculture (1) du Var
 
@@ -1166,79 +872,51 @@ FONCTIONS EXERCÉES |
 
 NIVEAU
 
-de qualification de
+de qualification
 
-l'emploi |
-
-NOMBRE d'emplois |
+de l'emploi |
 
 NOMBRE
 
-de points (IM) par emploi |
+d'emplois |
 
-Chef de service ville, logement, habitat
+NOMBRE
 
-|
+de points (IM)
 
-A
+par emploi |
 
-|
+Chef de l'unité habitat observatoire, rénovation urbaine, délégation territoriale ANRU - service ville logement habitat |
 
-1
+A |
 
-|
+1 |
 
-20
+23 |
 
-|
+Chef de l'unité logement social - service ville logement habitat |
 
-Chef d'unité logement social, adjoint au chef de service ville, logement, habitat
+A |
 
-|
+1 |
 
-A
+17 |
 
-|
+Chargé d'études et d'opérations, référent rénovation urbaine - unité habitat observatoire, rénovation urbaine - service ville logement habitat |
 
-1
+B |
 
-|
+1 |
 
-20
+15 |
 
-|
+Gestionnaire au pôle connaissance - unité logement social - service ville logement habitat |
 
-Adjoint unité habitat observatoire rénovation urbaine
+C |
 
-|
+1 |
 
-B
-
-|
-
-1
-
-|
-
-15
-
-|
-
-Gestionnaire du logement social auprès du chef de service ville, logement, habitat
-
-|
-
-C
-
-|
-
-1
-
-|
-
-5
-
-|
+5 |
 
 NOTA :
 
@@ -1247,3 +925,7 @@ NOTA :
 (2) Arrêté du 12 mars 2014 art. 1 : les modifications insérées par le présent arrêté sont à effet du 1er juillet 2010 pour les directions départementales de l'équipement des Hauts-de-Seine et de la Seine-Saint-Denis.
 
 (3) Arrêté du 17 mai 2016, art 1 : les modifications insérées par le présent arrêté sont à effet du 1er janvier 2015 pour ce qui concerne la répartition de l'enveloppe de la direction départementale de l'équipement de la Somme.
+
+(4) Arrêté du 10 avril 2017, art. 1 : les modifications insérées par le présent arrêté sont à effet du 1er septembre 2016 pour ce qui concerne la répartition de l'enveloppe de la direction régionale et interdépartementale de l'équipement et de l'aménagement d'Ile-de-France.
+
+(5) Arrêté du 10 avril 2017, art. 2 : les modifications insérées par le présent arrêté sont à effet du 1er janvier 2017 pour ce qui concerne la répartition de l'enveloppe de la direction régionale et interdépartementale de l'hébergement et du logement en Ile-de-France.

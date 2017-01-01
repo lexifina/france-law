@@ -2,104 +2,36 @@
 
 Directeur général adjoint des services des départements jusqu'à 900.000 habitants et des régions jusqu'à 2.000.000 d'habitants.
 
-|
+ÉCHELONS |
 
-DUREES
+DURÉE |
 
-|
+7e échelon |
 
-ECHELONS
+- |
 
-|
+6e échelon |
 
-Maximale
+2 ans 6 mois |
 
-|
+5e échelon |
 
-Minimale
+2 ans 6 mois |
 
-|
+4e échelon |
 
-7e échelon
+2 ans 6 mois |
 
-|
+3e échelon |
 
--
+2 ans |
 
-|
+2e échelon |
 
--
+1 an 6 mois |
 
-|
+1er échelon |
 
-6e échelon
+1 an |
 
-|
-
-3 ans
-
-|
-
-2 ans 6 mois
-
-|
-
-5e échelon
-
-|
-
-3 ans
-
-|
-
-2 ans 6 mois
-
-|
-
-4e échelon
-
-|
-
-3 ans
-
-|
-
-2 ans 6 mois
-
-|
-
-3e échelon
-
-|
-
-2 ans 6 mois
-
-|
-
-2 ans
-
-|
-
-2e échelon
-
-|
-
-2 ans
-
-|
-
-1 an 6 mois
-
-|
-
-1er échelon
-
-|
-
-1 an 6 mois
-
-|
-
-1 an
-
-|
+.

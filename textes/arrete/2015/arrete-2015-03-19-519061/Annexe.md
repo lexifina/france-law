@@ -10,4 +10,6 @@ Corps de l'inspection générale de l'agriculture.
 
 Corps des inspecteurs généraux des affaires culturelles.
 
+Corps de l'inspection générale de la jeunesse et des sports.
+
 Emploi de chef du service de l'inspection générale des affaires culturelles.

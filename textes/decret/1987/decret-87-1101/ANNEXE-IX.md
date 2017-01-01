@@ -1,81 +1,29 @@
 # Article ANNEXE IX
 
-Directeur général de la région Ile de France
+Directeur général des services de la région Ile de France
 
-|
+ÉCHELONS |
 
-DURéES
+DURÉE |
 
-|
+5e échelon |
 
-ECHELONS
+- |
 
-|
+4e échelon |
 
-Maximale
+3 ans |
 
-|
+3e échelon |
 
-Minimale
+3 ans |
 
-|
+2e échelon |
 
-5e échelon
+3 ans |
 
-|
+1er échelon |
 
--
+3 ans |
 
-|
-
--
-
-|
-
-4e échelon
-
-|
-
-3 ans
-
-|
-
-3 ans
-
-|
-
-3e échelon
-
-|
-
-3 ans
-
-|
-
-3 ans
-
-|
-
-2e échelon
-
-|
-
-3 ans
-
-|
-
-3 ans
-
-|
-
-1er échelon
-
-|
-
-3 ans
-
-|
-
-3 ans
-
-|
+.
