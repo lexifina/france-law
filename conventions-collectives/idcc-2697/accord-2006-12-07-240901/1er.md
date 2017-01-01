@@ -18,7 +18,9 @@ Cependant, les personnes suivantes auront la faculté de refuser l'adhésion au 
 
 - dans le cadre d'un dispositif de prévoyance complémentaire remplissant les conditions mentionnées au 6e alinéa de l'article L. 242-1 du code de la sécurité sociale.
 
-Ce cas concerne également les couples de salariés dans l'entreprise. Le régime couvrant à titre obligatoire les ayants droit du salarié tels que définis par le contrat d'assurance, il est possible de n'y faire adhérer qu'un seul des deux membres du couple, l'autre étant couvert en qualité d'ayant droit de son conjoint. Afin qu'une telle dérogation soit mise en œuvre, ils devront en formuler la demande expresse et par écrit auprès de la structure dont ils relèvent et indiquer à cette occasion quel membre du couple se verra précompter la cotisation au financement du régime ;
+S'agissant des couples de salariés au sein de la même structure associative, dans la mesure où les conjoints tels que définis par le contrat d'assurance collective peuvent bénéficier à titre optionnel de la couverture collective des salariés, les deux membres du couple ont le choix de s'affilier ensemble ou séparément.
+
+Afin qu'une telle dérogation soit mise en œuvre, les salariés en couple devront en formuler la demande expresse et par écrit auprès de la structure dont ils relèvent, et indiquer à cette occasion quel membre du couple se verra précompter la cotisation au financement du régime obligatoire.
 
 - par le régime local d'assurance maladie du Haut-Rhin, du Bas-Rhin et de la Moselle, en application des articles D. 325-6 et D. 325-7 du code de la sécurité sociale ;
 

@@ -1,0 +1,5 @@
+# Article 1er
+
+Dans le tableau intitulé « Régime frais de santé ensemble du personnel » de l'article 3 de l'accord collectif professionnel sur le régime complémentaire santé des salariés relevant de la convention collective nationale des personnels des structures associatives cynégétiques, le taux de cotisation au régime obligatoire est fixé, à compter du 1er janvier 2017, à 2,51 % du plafond mensuel de la sécurité sociale.
+
+Par ailleurs, il est précisé que la cotisation supplémentaire servant au financement de la couverture optionnelle des conjoints est fixée à 1,71 % du plafond mensuel de la sécurité sociale. A titre exceptionnel, cette cotisation sera appelée par l'organisme assureur, au titre de l'année 2017, à un montant forfaitaire de 44 euros par mois et par conjoint. Le financement de cette cotisation optionnelle ainsi que ses évolutions ultérieures sont à la charge exclusive du conjoint qui procédera directement au paiement de ses cotisations auprès de l'organisme gestionnaire dans les conditions et selon les modalités fixées par le contrat d'assurance.
