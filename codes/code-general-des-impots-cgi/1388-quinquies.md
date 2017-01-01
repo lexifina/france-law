@@ -8,7 +8,7 @@ Cet abattement s'applique aux impositions établies à compter du 1er janvier 20
 
 Cet abattement cesse de s'appliquer à compter du 1er janvier de l'année suivant celle où les immeubles ou parties d'immeubles ne sont plus rattachés à un établissement réunissant les conditions requises pour bénéficier de l'abattement prévu à l'article 1466 F et au plus tard à compter des impositions établies au titre de 2019.
 
-II.-Le taux de l'abattement est fixé à 50 % de la base d'imposition à la taxe foncière sur les propriétés bâties due au titre de chacune des années 2009 à 2015 et respectivement à 40 %, 35 % et 30 % de la base d'imposition à la taxe foncière sur les propriétés bâties pour les impositions établies au titre de 2016,2017 et 2018.
+II.-Le taux de l'abattement est fixé à 50 % de la base d'imposition à la taxe foncière sur les propriétés bâties due au titre de chacune des années 2009 à 2015, à 40 % de la base d'imposition à la taxe foncière sur les propriétés bâties pour les impositions établies au titre des années 2016 et 2017, et à 30 % de la base d'imposition à la taxe foncière sur les propriétés bâties pour les impositions établies au titre de l'année 2018.
 
 III.-Le montant de l'abattement mentionné au II est majoré :
 
@@ -26,7 +26,7 @@ c) Leur population, au sens de l'article L. 2334-2 du code général des collect
 
 4° Pour les immeubles situés en Guadeloupe, en Martinique ou à La Réunion et rattachés à un établissement d'une entreprise mentionnée au 4° du III de l'article 44 quaterdecies.
 
-Le taux de cet abattement est fixé à 80 % de la base d'imposition à la taxe foncière sur les propriétés bâties pour les impositions dues au titre de chacune des années 2009 à 2015 et respectivement à 70 %, 60 % et 50 % de la base d'imposition à la taxe foncière sur les propriétés bâties pour les impositions dues au titre de 2016,2017 et 2018.
+Le taux de cet abattement est fixé à 80 % de la base d'imposition à la taxe foncière sur les propriétés bâties pour les impositions dues au titre de chacune des années 2009 à 2015, à 70 % de la base d'imposition à la taxe foncière sur les propriétés bâties pour les impositions dues au titre des années 2016 et 2017, et à 50 % de la base d'imposition à la taxe foncière sur les propriétés bâties pour les impositions dues au titre de l'année 2018.
 
 IV.-Par dérogation au III, pour les immeubles situés dans les îles des Saintes, à Marie-Galante et à La Désirade, le taux de l'abattement mentionné au dernier alinéa du III est porté à 100 % pour les années 2009 à 2011.
 
@@ -40,4 +40,4 @@ L'option pour le présent régime doit être exercée avant le 1er janvier de l'
 
 Lorsqu'un contribuable bénéficie au 1er janvier 2009 de l'une des exonérations prévues aux articles 1383 A, 1383 B, 1383 C, 1383 C bis, 1383 D, 1383 E bis ou 1383 I et réunit à cette date les conditions pour bénéficier de l'abattement prévu au présent article, le contribuable peut opter pour ce dernier régime au plus tard dans le délai de deux mois à compter de la promulgation de la loi n° 2009-594 du 27 mai 2009 pour le développement économique des outre-mer. A défaut d'option, le contribuable bénéficie, au terme de l'application de celui de ces régimes dont il bénéficie au 1er janvier 2009, de l'abattement prévu par le présent article, pour la période restant à courir et dans les conditions prévues au II ou au III pour les années concernées.
 
-VIII. - Le bénéfice de l'abattement mentionné au I est subordonné au respect du règlement (UE) n° 651/2014 de la Commission, du 17 juin 2014, déclarant certaines catégories d'aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité.
+VIII.-Le bénéfice de l'abattement mentionné au I est subordonné au respect du règlement (UE) n° 651/2014 de la Commission, du 17 juin 2014, déclarant certaines catégories d'aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité.

@@ -1,6 +1,6 @@
 # Article 44 terdecies
 
-I. ― Dans le périmètre des zones de restructuration de la défense mentionnées au 1° du 3 ter de l'article 42 de la loi n° 95-115 du 4 février 1995 d'orientation pour l'aménagement et le développement du territoire et dans les emprises foncières libérées par la réorganisation des unités militaires et des établissements du ministère de la défense et situées dans les communes définies au seul 2° du même 3 ter, les contribuables qui créent des activités pendant une période de trois ans débutant à la date de publication de l'arrêté prévu au dernier alinéa du même 3 ter ou, si cette seconde date est postérieure, au 1er janvier de l'année précédant celle au titre de laquelle le territoire ou la commune est reconnu comme zone de restructuration de la défense par cet arrêté sont exonérés d'impôt sur le revenu ou d'impôt sur les sociétés à raison des bénéfices provenant des activités implantées dans la zone de restructuration de la défense et réalisés jusqu'au terme du cinquante-neuvième mois suivant le début d'activité dans cette zone.
+I. – Dans le périmètre des zones de restructuration de la défense mentionnées au 1° du 3 ter de l'article 42 de la loi n° 95-115 du 4 février 1995 d'orientation pour l'aménagement et le développement du territoire et dans les emprises foncières libérées par la réorganisation des unités militaires et des établissements du ministère de la défense et situées dans les communes définies au seul 2° du même 3 ter, les contribuables qui créent des activités pendant une période de six ans débutant à la date de publication de l'arrêté prévu au dernier alinéa du même 3 ter ou, si cette seconde date est postérieure, au 1er janvier de l'année précédant celle au titre de laquelle le territoire ou la commune est reconnu comme zone de restructuration de la défense par cet arrêté sont exonérés d'impôt sur le revenu ou d'impôt sur les sociétés à raison des bénéfices provenant des activités implantées dans la zone de restructuration de la défense et réalisés jusqu'au terme du cinquante-neuvième mois suivant le début d'activité dans cette zone. (1)
 
 Le bénéfice de l'exonération est réservé aux contribuables exerçant une activité industrielle, commerciale ou artisanale au sens de l'article 34 et du 5° du I de l'article 35, à l'exception des activités de crédit-bail mobilier et de location d'immeubles à usage d'habitation, ou agricole au sens de l'article 63, dans les conditions et limites fixées par le présent article. L'exonération s'applique dans les mêmes conditions et limites aux sociétés soumises à l'impôt sur les sociétés exerçant une activité professionnelle non commerciale au sens du 1 de l'article 92.
 
@@ -12,7 +12,7 @@ Lorsqu'un contribuable dont l'activité non sédentaire est implantée dans une 
 
 Les bénéfices visés au premier alinéa sont soumis à l'impôt sur le revenu ou à l'impôt sur les sociétés à concurrence d'un tiers de leur montant au cours de la première période de douze mois suivant la période d'exonération et de deux tiers pour la période de douze mois suivante.
 
-II. ― Le bénéfice exonéré au titre d'un exercice ou d'une année d'imposition est celui déclaré selon les modalités prévues aux articles 50-0,53 A, 96 à 100,102 ter et 103, diminué des produits bruts ci-après qui restent imposables dans les conditions de droit commun :
+II. – Le bénéfice exonéré au titre d'un exercice ou d'une année d'imposition est celui déclaré selon les modalités prévues aux articles 50-0, 53 A, 96 à 100, 102 ter et 103, diminué des produits bruts ci-après qui restent imposables dans les conditions de droit commun :
 
 a) Produits des actions ou parts de sociétés, résultats de sociétés ou organismes soumis au régime prévu à l'article 8, lorsqu'ils ne proviennent pas d'une activité exercée dans une zone de restructuration de la défense, et résultats de cession de titres de sociétés ;
 
@@ -30,12 +30,14 @@ Le bénéfice de l'exonération est subordonné au respect du règlement (UE) n�
 
 L'option mentionnée au huitième alinéa est irrévocable pour la durée de l'exonération. Elle doit être exercée dans les six mois suivant les opérations mentionnées au I.
 
-III. ― Lorsque le contribuable mentionné au I est une société membre d'un groupe fiscal visé à l'article 223 A ou à l'article 223 A bis, le bénéfice exonéré est celui de cette société déterminé dans les conditions prévues au II, dans la limite du résultat d'ensemble du groupe.
+III. – Lorsque le contribuable mentionné au I est une société membre d'un groupe fiscal visé à l'article 223 A ou à l'article 223 A bis, le bénéfice exonéré est celui de cette société déterminé dans les conditions prévues au II, dans la limite du résultat d'ensemble du groupe.
 
 Lorsqu'il répond aux conditions requises pour bénéficier des dispositions de l'un des régimes prévus aux articles 44 sexies, 44 sexies A, 44 septies, 44 octies A, 44 duodecies ou 44 quindecies et du régime prévu au présent article, le contribuable peut opter pour ce dernier régime dans les six mois suivant celui du début d'activité. L'option est irrévocable.
 
-IV. ― Les obligations déclaratives des personnes et organismes concernés par l'exonération prévue au présent article sont fixées par décret.
+IV. – Les obligations déclaratives des personnes et organismes concernés par l'exonération prévue au présent article sont fixées par décret.
 
 NOTA :
 
 Au troisième alinéa du I, les références : , 44 decies, 44 undecies sont périmées.
+
+(1) Loi n° 2016-1917 du 29 décembre 2016, art. 76 : ces dispositions s'appliquent dans les zones de restructuration de la défense mentionnées au 3 ter de l'article 42 de la loi n° 95-115 du 4 février 1995 d'orientation pour l'aménagement et le développement du territoire et reconnues à compter du 1er janvier 2015.

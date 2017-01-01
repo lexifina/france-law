@@ -6,10 +6,22 @@ Les prélèvements mentionnés à la première phrase du premier alinéa du pré
 
 Les modalités et conditions d'application de ces prélèvements sont fixées par décret.
 
-II. – 1. Le prélèvement prévu au I de l'article 125 A dû par les établissements payeurs, au titre du mois de décembre, sur les intérêts des plans d'épargne-logement mentionnés au troisième alinéa du 1° du III bis du même article fait l'objet d'un versement déterminé d'après les intérêts des mêmes placements soumis au prélèvement précité au titre du mois de décembre de l'année précédente et retenus à hauteur de 90 % de leur montant.
+II. – 1. La retenue à la source prévue au 1 de l'article 119 bis appliquée sur les produits mentionnés à l'article 1678 bis ainsi que les prélèvements ou retenues à la source prévus au 2 du même article 119 bis, au II de l'article 125-0 A et aux articles 125 A et 990 A font l'objet d'un acompte égal à 90 % du montant de ces prélèvements ou retenues à la source dus au titre du mois de décembre de l'année précédente.
 
-Ce versement est égal au produit de l'assiette de référence ainsi déterminée par le taux du prélèvement prévu au 1° du III bis de l'article 125 A pour les intérêts des plans d'épargne-logement. Son paiement doit intervenir au plus tard le 15 octobre.
+Sont exclus de ce versement :
 
-2. Lors du dépôt de la déclaration en janvier, l'établissement payeur procède à la liquidation du prélèvement.
+a) Les prélèvements sur les intérêts des comptes courants et des comptes bloqués d'associés ;
 
-Lorsque le versement effectué en application du 1 est supérieur au prélèvement réellement dû, le surplus est imputé sur le prélèvement dû à raison des autres produits de placement et, le cas échéant, sur les autres prélèvements ; l'excédent éventuel est restitué.
+b) Les prélèvements sur les intérêts dus par les offices notariaux au titre des produits de compte de consignation, de dépôt spécifique et de titres consignés.
+
+Son paiement intervient au plus tard le 15 octobre.
+
+2. Lors du dépôt de la déclaration en janvier, l'établissement payeur procède à la liquidation des prélèvements ou retenues.
+
+Lorsque le montant du versement effectué en application du 1 du présent II est supérieur aux montants des prélèvements ou retenues réellement dus, le surplus est imputé sur le prélèvement ou la retenue dû à raison des autres produits de placement et, le cas échéant, sur les autres prélèvements ou retenues. L'excédent est restitué.
+
+3. Si l'établissement payeur estime que le montant du versement dû en application du 1 du présent II est supérieur au montant du prélèvement ou de la retenue dont il sera redevable au titre du mois de décembre, il peut en réduire le montant à concurrence de l'excédent présumé.
+
+Lorsque le montant du prélèvement ou de la retenue réellement dû au titre du mois de décembre est supérieur au montant du versement réduit par l'établissement payeur en application du premier alinéa du présent 3, la majoration prévue au 1 de l'article 1731 s'applique à cette différence. L'assiette de cette majoration est toutefois limitée à la différence entre le montant du versement dû en application du 1 du présent II et celui du versement réduit par l'établissement payeur.
+
+4. Le versement effectué en application du 1 du présent II est contrôlé et recouvré selon les mêmes règles et sous les mêmes garanties, sûretés, privilèges et sanctions que le prélèvement prévu à l'article 125 A. Les réclamations sont présentées, instruites et jugées selon les règles applicables à ce prélèvement.

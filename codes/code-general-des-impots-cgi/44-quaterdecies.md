@@ -14,7 +14,7 @@ Les conditions prévues aux 1° et 2° s'apprécient à la clôture de chaque ex
 
 II.-Les bénéfices mentionnés au I, réalisés et déclarés selon les modalités prévues aux articles 50-0,53 A, 72,74 à 74 B, 96 à 100,102 ter et 103 par les entreprises répondant aux conditions prévues au I, à l'exception des plus-values constatées lors de la réévaluation des éléments d'actifs, font l'objet, dans la limite de 150 000 €, d'un abattement au titre de chaque exercice ouvert à compter du 1er janvier 2008.
 
-Le taux de l'abattement est fixé à 50 % au titre des exercices ouverts entre le 1er janvier 2008 et le 31 décembre 2014 et respectivement à 40 %, 35 % et 30 % pour les exercices ouverts en 2015,2016 et 2017.
+Le taux de l'abattement est fixé à 50 % au titre des exercices ouverts entre le 1er janvier 2008 et le 31 décembre 2014, à 40 % pour les exercices ouverts en 2015 et à 35 % pour les exercices ouverts en 2016 et 2017.
 
 III.-La limite et le taux de l'abattement mentionné au II sont majorés dans les cas suivants :
 
@@ -48,7 +48,7 @@ a) Signent avec un organisme public de recherche ou une université, y compris �
 
 b) Ou bénéficient du régime de transformation sous douane défini aux articles 130 à 136 du règlement (CEE) n° 2913/92 du Conseil du 12 octobre 1992 établissant le code des douanes communautaire, à la condition qu'au moins un tiers du chiffre d'affaires de l'exploitation, au titre de l'exercice au cours duquel l'abattement est pratiqué, résulte d'opérations mettant en œuvre des marchandises ayant bénéficié de ce régime.
 
-La limite de l'abattement est fixée à 300 000 €. Le taux de l'abattement est fixé à 80 % au titre des exercices ouverts entre le 1er janvier 2008 et le 31 décembre 2014 et respectivement à 70 %, 60 % et 50 % au titre des exercices ouverts en 2015,2016 et 2017.
+La limite de l'abattement est fixée à 300 000 €. Le taux de l'abattement est fixé à 80 % au titre des exercices ouverts entre le 1er janvier 2008 et le 31 décembre 2014, à 70 % pour les exercices ouverts en 2015 et à 60 % pour les exercices ouverts en 2016 et 2017.
 
 IV.-Par dérogation au III, pour les bénéfices provenant des exploitations situées dans les îles des Saintes, à Marie-Galante et à La Désirade, le taux de l'abattement mentionné au dernier alinéa du III est porté à 100 % pour les exercices ouverts entre le 31 décembre 2008 et le 31 décembre 2011.
 
@@ -62,7 +62,7 @@ Pour l'ensemble des sociétés d'un même groupe, le montant cumulé des abattem
 
 V.-Le bénéfice des abattements mentionnés aux II et III est subordonné :
 
-1° A la réalisation de dépenses de formation professionnelle en faveur du personnel de l'exploitation au titre de l'exercice qui suit celui au cours duquel les bénéfices ont fait l'objet d'un abattement. Elles doivent être exposées en faveur des salariés ou des dirigeants en activité à la date de clôture de l'exercice de leur engagement. Pour les entreprises soumises aux obligations prévues aux articles 235 ter D et 235 ter KA, les dépenses retenues sont celles exposées en sus de ces obligations. Les entreprises peuvent s'acquitter de la présente obligation en réalisant les dépenses prévues à l'article L. 6331-19 du code du travail (1) ;
+1° A la réalisation de dépenses de formation professionnelle en faveur du personnel de l'exploitation au titre de l'exercice qui suit celui au cours duquel les bénéfices ont fait l'objet d'un abattement. Elles doivent être exposées en faveur des salariés ou des dirigeants en activité à la date de clôture de l'exercice de leur engagement. Pour les entreprises soumises aux obligations prévues aux articles 235 ter D et 235 ter KA, les dépenses retenues sont celles exposées en sus de ces obligations ;
 
 2° Au versement d'une contribution au fonds d'appui aux expérimentations en faveur des jeunes créé par la loi n° 2008-1249 du 1er décembre 2008 généralisant le revenu de solidarité active et réformant les politiques d'insertion, au titre de l'exercice qui suit celui au cours duquel les bénéfices ont fait l'objet d'un abattement. Ce versement ne peut être inférieur à 20 % de l'ensemble constitué par les dépenses de formation professionnelle et la contribution au fonds d'appui aux expérimentations en faveur des jeunes.
 
@@ -82,8 +82,4 @@ VII.-Lorsqu'elle répond aux conditions requises pour bénéficier du régime pr
 
 VIII.-Les obligations déclaratives des entreprises sont fixées par décret.
 
-IX. - Le bénéfice de l'abattement mentionné au I est subordonné au respect du règlement (UE) n° 651/2014 de la Commission, du 17 juin 2014, précité.
-
-NOTA :
-
-(1) Au 1° du V, la quatrième phrase est disjointe. Modification effectuée en conséquence de l'article 10-I-13°, b et III de la loi n° 2014-288 du 5 mars 2014.
+IX.-Le bénéfice de l'abattement mentionné au I est subordonné au respect du règlement (UE) n° 651/2014 de la Commission, du 17 juin 2014, précité.
