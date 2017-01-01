@@ -1,6 +1,6 @@
 # Article Annexe 7-5
 
-Aides à la promotion à l'étranger d'une œuvre audiovisuelle déterminée (article 722-11)
+Aides financières à la promotion à l'étranger d'œuvres audiovisuelles déterminées (article 722-21)
 
 Liste des documents justificatifs :
 
@@ -14,4 +14,6 @@ Liste des documents justificatifs :
 
 5° Les factures détaillées établies pour chaque œuvre émanant du prestataire technique ;
 
-6° Un exemplaire de chaque support de promotion réalisé.
+6° Un exemplaire de chaque support de promotion réalisé ;
+
+7° En cas de coûts internes, un relevé détaillé de ces coûts certifié par un expert-comptable ou un commissaire aux comptes précisant la méthode de valorisation retenue.

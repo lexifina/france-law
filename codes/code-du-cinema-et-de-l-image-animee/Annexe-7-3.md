@@ -1,21 +1,41 @@
 # Article Annexe 7-3
 
-Aides à la promotion à l'étranger d'une œuvre cinématographique déterminée (article 721-17)
+Autorisation d'investissement (article 721-21)
 
 Liste des documents justificatifs :
 
-1° Une note détaillant la stratégie de prospection mise en place pour l'œuvre cinématographique ;
+1° Pour la promotion à l'étranger d'œuvres cinématographiques déterminées :
 
-2° Le cas échéant, une note détaillant la nature de l'opération exceptionnelle mise en place, les modalités de sa réalisation et les résultats obtenus ;
+a) Une note détaillant la stratégie de prospection mise en place pour l'œuvre cinématographique ;
 
-3° La liste des supports de promotion qui ont été réalisés et des actions de promotion qui ont été engagées mentionnant leurs coûts respectifs ;
+b) Lorsque l'investissement est effectué au titre de l'article 721-19, une copie du contrat d'acquisition des droits d'exploitation à l'étranger si celui-ci n'est pas encore inscrit au registre du cinéma et de l'audiovisuel, mentionnant le montant des sommes dues en contrepartie de l'acquisition ;
 
-4° La liste des marchés et manifestations au cours desquels l'œuvre a été présentée ;
+c) Le cas échéant, lorsque l'investissement est effectué au titre de l'article 721-19, tout document justificatif du versement des sommes dues en contrepartie de l'acquisition des droits d'exploitation à l'étranger ;
 
-5° Une copie de la lettre d'attribution de l'aide du CNC à la numérisation des œuvres du patrimoine ;
+d) La liste des territoires pour lesquels les droits ont été acquis ainsi que les montants correspondants ;
 
-6° Les factures détaillées correspondant à l'ensemble des frais éligibles ;
+e) Le cas échéant, une note détaillant la nature de l'opération spéciale mise en place, les modalités de sa réalisation et les résultats obtenus ;
 
-7° La liste des territoires où les droits de l'œuvre ont été cédés ainsi que les montants correspondants ;
+f) La liste des supports de promotion qui ont été réalisés et des actions de promotion qui ont été engagées mentionnant leurs coûts respectifs ;
 
-8° Un exemplaire de chaque support de promotion réalisé.
+g) La liste des marchés et manifestations au cours desquels l'œuvre a été présentée ;
+
+h) Une copie de la lettre d'attribution de l'aide du CNC à la numérisation des œuvres du patrimoine ;
+
+i) Les factures détaillées correspondant à l'ensemble des frais éligibles ;
+
+j) En cas de coûts internes, un relevé détaillé de ces coûts certifié par un expert-comptable ou un commissaire aux comptes précisant la méthode de valorisation retenue.
+
+k) Un exemplaire de chaque support de promotion réalisé ;
+
+2° Pour la promotion à l'étranger d'un catalogue :
+
+a) Une note détaillant la stratégie de prospection mise en place au cours de l'année de référence et la place réservée aux œuvres cinématographiques françaises ;
+
+b) Une note décrivant les autres supports et actions de promotion réalisés ;
+
+c) Les factures détaillées correspondant à l'ensemble des frais engagés ;
+
+d) Un exemplaire de chaque support de promotion réalisé ;
+
+e) En cas de coûts internes, un relevé détaillé de ces coûts certifié par un expert-comptable ou un commissaire aux comptes précisant la méthode de valorisation retenue.
