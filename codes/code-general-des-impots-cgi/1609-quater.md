@@ -6,7 +6,7 @@ Ces dispositions sont applicables aux syndicats mixtes constitués exclusivement
 
 Les syndicats de communes et les syndicats mixtes sont substitués aux communes pour l'institution de la taxe d'enlèvement des ordures ménagères ou des redevances prévues à l'article 1520, lorsqu'ils bénéficient du transfert de la compétence prévue à l'article L. 2224-13 du code général des collectivités territoriales et assurent au moins la collecte des déchets des ménages. Ils votent le taux de cette taxe dans les conditions fixées par l'article 1636 B undecies du présent code.
 
-Sous réserve du 2 du VI de l'article 1379-0 bis, les syndicats mixtes sont, dans les mêmes conditions, substitués aux établissements publics de coopération intercommunale à fiscalité propre et aux communautés et syndicats d'agglomération nouvelle qui y adhèrent pour l'ensemble de cette compétence.
+Sous réserve du 2 du VI de l'article 1379-0 bis, les syndicats mixtes sont, dans les mêmes conditions, substitués aux établissements publics de coopération intercommunale à fiscalité propre qui y adhèrent pour l'ensemble de cette compétence.
 
 Lorsqu'ils assurent au moins la collecte des déchets des ménages, les syndicats mixtes sont substitués, dans les conditions du troisième alinéa, aux établissements publics territoriaux prévus à l'article L. 5219-2 du code général des collectivités territoriales. Ils votent le taux de la taxe d'enlèvement des ordures ménagères dans les conditions fixées par l'article 1636 B undecies du présent code.
 
