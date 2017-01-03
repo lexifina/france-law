@@ -1,0 +1,9 @@
+# Réponse à la question n° 75405
+
+- Question : [75405](75405.md) — Question n° 75405 — sanctions
+
+## Réponse
+
+*JO du 2017-01-03*
+
+Toute forme d'expression publique, tenue sur internet et sur les réseaux sociaux est soumise aux règles de la loi du 29 juillet 1881 sur la liberté de la presse. L'article 29, alinéa 1 et 2, de cette loi dispose que « toute allégation ou imputation d'un fait qui porte atteinte à l'honneur ou à la considération de la personne ou du corps auquel le fait est imputé est une diffamation » et que « toute expression outrageante, terme de mépris ou invective qui ne renferme l'imputation d'aucun fait est une injure ». L'article 32, alinéa 1er, de cette loi réprime la diffamation publique commise envers les particuliers, l'article 33 alinéa 2 de la même loi prévoit la répression de l'injure publique commise envers les particuliers et l'article 34, prévoit celle de l'injure publique ou de la diffamation publique dirigée contre la mémoire des morts. Ces infractions sont chacune punies d'une peine d'amende de 12 000 euros. Par conséquent, le droit français comporte un arsenal législatif complet en la matière. Il doit être précisé que les dispositions de l'article 48 de la loi du 29 juillet 1881 prévoient que les infractions d'injure et de diffamation publique envers les particuliers ne peuvent faire l'objet de poursuites pénales sans qu'une plainte préalable ait été déposée par la victime ou un tiers. En outre, pour les faits d'injure ou de diffamation publique dirigés contre la mémoire des morts, si en vertu de l'article 47 de la loi du 29 juillet 1881 le ministère public conserve la maîtrise de l'action publique en matière de presse, il est néanmoins d'usage de laisser aux ayants droits de la victime le soin de mettre en mouvement l'action publique s'agissant d'atteintes au droit de la personnalité.
