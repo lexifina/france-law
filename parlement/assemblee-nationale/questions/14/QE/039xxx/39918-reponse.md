@@ -1,0 +1,9 @@
+# Réponse à la question n° 39918
+
+- Question : [39918](39918.md) — Question n° 39918 — pouvoir de police
+
+## Réponse
+
+*JO du 2017-01-03*
+
+Les réunions des conseils municipaux sont publiques en application de l'article L. 2121-18 du code général des collectivités territoriales (CGCT). Toute personne peut donc assister aux débats et ceux-ci peuvent être enregistrés, retransmis ou publiés. A défaut de texte de nature législative ou règlementaire, le règlement intérieur d'un conseil municipal ne peut soumettre à une autorisation préalable l'utilisation, par ses membres, d'appareil d'enregistrement audiovisuel durant les séances publiques du conseil. Aux termes de l'article L. 2121-16 du CGCT, le maire assure seul la police de l'assemblée. C'est à lui qu'il appartient de prendre les mesures destinées à empêcher que soit troublé le déroulement des séances du conseil municipal. Les pouvoirs de police de l'assemblée permettent au maire de prendre toute mesure pour assurer le bon déroulement matériel des débats et le bon ordre dans la salle. Enfin, il convient de préciser que la jurisprudence administrative établit que la révocation d'un maire ne peut intervenir que si de graves négligences ont été commises durant plusieurs années, notamment dans l'établissement des documents budgétaires et la gestion des biens communaux (CE, 22 mars 1978, no 05721 ; CE, 7 novembre 2012, no 348771 ; CE, 26 février 2014, no 372015). Des manquements à des obligations incombant au maire en tant qu'agent de l'Etat peuvent également justifier une suspension et/ou une révocation (CE, 27 février 1981, no 12112 et 14361, Wahnapo). Ainsi, au vu de la jurisprudence, l'attitude d'un maire face aux troubles intervenus au cours d'une séance du conseil municipal ne saurait justifier à elle seule la mise en œuvre des sanctions prévues à l'article L. 2122-16 du CGCT.
