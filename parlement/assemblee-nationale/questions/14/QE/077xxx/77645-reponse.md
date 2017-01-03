@@ -1,0 +1,9 @@
+# Réponse à la question n° 77645
+
+- Question : [77645](77645.md) — Question n° 77645 — contamination mercurielle; oiseaux; lutte et prévention
+
+## Réponse
+
+*JO du 2017-01-03*
+
+Une étude a été réalisée en 2013 sur la réserve naturelle nationale du Grand Connétable, par le Centre d'études biologiques de Chizé. Cette étude a porté sur les niveaux de contamination des espèces d'oiseaux aux métaux lourds et en polluants persistants organiques. Les premiers résultats de cette étude concernent la contamination par le mercure. Il a été mis en évidence des taux de contamination importants chez les six espèces d'oiseaux nichant au Connétable et notamment des taux très élevés chez la frégate superbe. Les informations obtenues par cette étude sont précieuses pour surveiller l'état de santé global du milieu marin guyanais. La contamination révélée par l'étude pose désormais la question de l'origine de ce contaminant. La Guyane est caractérisée notamment par des sols dont les concentrations en mercure sont en moyenne cinq fois plus élevées que celles des sols tempérés. Elle est également caractérisée par l'exercice de l'activité d'orpaillage qui utilise le mercure pour l'extraction de l'or. Cette activité a rejeté plusieurs centaines de tonnes de ce métal dans l'environnement depuis le début du vingtième siècle. Cette contamination pose également la question des conséquences du mercure sur la santé des espèces. Les suivis écologiques annuels effectués par la réserve naturelle montrent que les populations d'oiseaux sont, selon les espèces, soit en augmentation soit stables. Une des priorités du nouveau plan de gestion de la réserve à compter de 2018, sera de poursuivre les investigations sur les origines et les conséquences de cette contamination au mercure, en s'intéressant notamment à la quantification des taux de mercure chez les proies des oiseaux marins. Les résultats permettront d'identifier les mesures de gestion adaptées.
