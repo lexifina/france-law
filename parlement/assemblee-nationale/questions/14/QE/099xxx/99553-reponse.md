@@ -1,0 +1,9 @@
+# Réponse à la question n° 99553
+
+- Question : [99553](99553.md) — Question n° 99553 — mode de calcul
+
+## Réponse
+
+*JO du 2017-01-03*
+
+Conformément à l'article 1521 du code général des impôts (CGI), la taxe d'enlèvement des ordures ménagères (TEOM) porte sur toutes les propriétés bâties assujetties à la taxe foncière sur les propriétés bâties ou qui en sont temporairement exonérées. Cette taxe revêt donc, non le caractère d'une redevance pour service rendu, mais celui d'une imposition à laquelle est normalement assujetti tout redevable de la taxe foncière sur les propriétés bâties à raison d'un bien situé dans une commune où fonctionne le service d'enlèvement des ordures ménagères alors même que ce service ne serait pas utilisé par le contribuable. Par conséquent, elle est due pour les locaux à usage de garages imposés à la taxe foncière sur les propriétés bâties, étant observé que les locaux situés dans une partie de la commune où ne fonctionne pas le service d'enlèvement des ordures ménagères sont exonérés de la taxe, sauf délibération contraire de la commune ou de l'organe délibérant de l'établissement public de coopération intercommunale (EPCI). Dès lors, une exonération systématique des garages, dont certains peuvent être en outre source de déchets, irait à l'encontre de ces principes, réduirait les ressources des collectivités territoriales et de leurs EPCI et transférerait l'allègement ainsi accordé sur les autres redevables de la taxe. En tout état de cause, les communes et les EPCI qui souhaitent que leurs habitants rémunèrent précisément le service assuré peuvent toujours instituer la redevance d'enlèvement des ordures ménagères (REOM), qui permet de demander aux seuls utilisateurs une cotisation correspondant à l'importance et à la valeur du service effectivement rendu à l'usager par la collectivité.
