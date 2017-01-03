@@ -1,0 +1,9 @@
+# Réponse à la question n° 96567
+
+- Question : [96567](96567.md) — Question n° 96567 — valeur cadastrale; Maison de la radio; travaux; riverains
+
+## Réponse
+
+*JO du 2017-01-03*
+
+La valeur locative cadastrale d'une habitation est déterminée en fonction de la consistance du logement, de ses caractéristiques physiques, de son état et de sa situation. Son environnement n'influe pas sur la classification. Pour autant, il est pris en compte par l'application de coefficients de situation générale et de situation particulière, destinés à traduire, pour le premier, la situation générale de la propriété dans la commune, pour le second l'emplacement particulier de l'immeuble. L'appréciation de la situation s'effectue à l'aide d'un barème figurant à l'article 324 R de l'annexe III au code général des impôts. Ce barème comporte cinq valeurs : + 0,10 (situation excellente), + 0,05 (situation bonne), 0 (situation ordinaire), - 0,05 (situation médiocre), - 0,10 (situation mauvaise). Pour la détermination du coefficient de situation, générale ou particulière, les avantages et les inconvénients doivent être appréciés globalement et les compensations nécessaires opérées pour dégager un jugement d'ensemble. L'auteur de la question indique que les travaux de réhabilitation et de réaménagement de la Maison de la Radio engendreraient des nuisances nouvelles qui affecteraient l'environnement des habitations situées à proximité immédiate du chantier et qui pourraient, le cas échéant, justifier une diminution du coefficient de situation particulière. Si des riverains estiment que les nuisances sont telles qu'elles obèrent les avantages liés à leur situation, ils ont la possibilité, en application des dispositions de l'article 1507 du code général des impôts, de réclamer contre l'évaluation attribuée au logement dont ils sont propriétaires ou dont ils ont la disposition.
