@@ -1,0 +1,9 @@
+# Réponse à la question n° 95703
+
+- Question : [95703](95703.md) — Question n° 95703 — fonctions exécutives locales; cumul; réglementation
+
+## Réponse
+
+*JO du 2017-01-03*
+
+Le droit actuellement en vigueur prévoit, à l'article L.O. 141 du code électoral, que le mandat de député ou de sénateur est incompatible avec l'exercice de plus d'un des mandats énumérés ci-après : conseiller régional, conseiller à l'Assemblée de Corse, conseiller départemental, conseiller de Paris, conseiller à l'Assemblée de Martinique et conseiller municipal d'une commune de 1000 habitants et plus. Il résulte de l'application de cette règle qu'un parlementaire qui se retrouverait par exemple titulaire d'un mandat de conseiller régional et de conseiller municipal d'une commune visée plus haut, devrait démissionner de l'un de ses trois mandats conformément à l'article L.O. 151 du code électoral. Par ailleurs, les dispositions générales relatives au mandat de conseiller communautaire sont fixées par les articles L.273-3 à L. 273-5 du code électoral. Nul ne pouvant être conseiller communautaire s'il n'est conseiller municipal, ce mandat n'est pas considéré comme un mandat autonome soumis à la règle sur les incompatibilités. Ainsi, un parlementaire titulaire d'un mandat de conseiller municipal et de conseiller communautaire ne se trouve pas en situation de cumul au regard de l'article L.O. 141 du code électoral. Si la loi organique no 2014-125 du 14 février 2014, qui entrera en vigueur à compter du prochain renouvellement de l'assemblée à laquelle appartient le parlementaire suivant le 31 mars 2017, ajoute des dispositions nouvelles au régime des incompatibilités des parlementaires, un parlementaire titulaire d'un mandat de conseiller municipal et de conseiller communautaire ne se trouvera toujours pas en situation de cumul.
