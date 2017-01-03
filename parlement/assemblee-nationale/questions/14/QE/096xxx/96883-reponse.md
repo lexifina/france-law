@@ -1,0 +1,9 @@
+# Réponse à la question n° 96883
+
+- Question : [96883](96883.md) — Question n° 96883 — nuisances; conséquences
+
+## Réponse
+
+*JO du 2017-01-03*
+
+La valeur locative cadastrale d'une habitation est déterminée en fonction de la consistance du logement, de ses caractéristiques physiques, de son état et de sa situation. Son environnement est pris en compte par l'application de coefficients de situation générale et de situation particulière, destinés à traduire, pour le premier, la situation générale de la propriété dans la commune, pour le second l'emplacement particulier de l'immeuble. L'appréciation de la situation s'effectue à l'aide d'un barème figurant à l'article 324 R de l'annexe III au code général des impôts. Ce barème comporte cinq valeurs : + 0,10 (situation excellente), + 0,05 (situation bonne), 0 (situation ordinaire), - 0,05 (situation médiocre), - 0,10 (situation mauvaise). Pour la détermination du coefficient de situation, générale ou particulière, les avantages et les inconvénients doivent être appréciés globalement et les compensations nécessaires opérées pour dégager un jugement d'ensemble. L'auteur de la question indique que les manifestations sportives au Parc des Princes et les travaux de construction d'un nouveau stade à proximité du stade Jean Bouin engendreraient des nuisances nouvelles qui affecteraient l'environnement des habitations situées à proximité immédiate et seraient susceptibles, le cas échéant, de justifier une diminution de leur valeur locative. Si des riverains estiment que les nuisances sont telles qu'elles obèrent les avantages liés à leur situation, ils ont la possibilité, en application des dispositions de l'article 1507 du code général des impôts, de réclamer contre l'évaluation attribuée au logement dont ils sont propriétaires ou dont ils ont la disposition.
