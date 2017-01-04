@@ -1,3 +1,0 @@
-# Article 1er
-
-Le présent accord vise les sociétés et les salariés couverts par la convention collective nationale des sociétés coopératives d'HLM du 15 mai 1990 réactualisée par l'avenant n° 6 du 26 mars 2003. Il s'applique au territoire métropolitain et départements d'outre-mer.
