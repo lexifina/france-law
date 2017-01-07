@@ -12,7 +12,7 @@ ORGANISMES HABILITÉS |
 
 |
 
-Bureau Veritas
+Bureau Veritas Marine & Offshore SAS
 
 |
 
@@ -28,7 +28,9 @@ Bureau Veritas
 
 -A. 1/8 Equipements relevant la convention SOLAS
 
-Chapitre II-1 |
+Chapitre II-1
+
+|
 
 3. Organismes habilités pour la délivrance, le renouvellement, la suspension ou le retrait de certificats d'approbation relatifs à l'évaluation de la conformité des équipements marins au nom de l'Etat, visés par la division 311, annexe A.2, ou toute autre division du présent règlement :
 
@@ -40,7 +42,7 @@ ORGANISMES HABILITÉS
 
 |
 
-Bureau Veritas
+Bureau Veritas Marine & Offshore SAS
 
 |
 
@@ -102,7 +104,7 @@ Division 361 : dispositifs de détection et d'alarme d'envahissement
 
 4. Organismes habilités pour contrôler ou agréer les conteneurs et les ACEP :
 
-- le Bureau Veritas ;
+- le Bureau Veritas Marine & Offshore SAS ;
 
 - le Lloyd's Register of Shipping ;
 
@@ -110,31 +112,37 @@ Division 361 : dispositifs de détection et d'alarme d'envahissement
 
 - le groupement des associations de propriétaires d'appareils à vapeur et électriques ;
 
+- L'Association des Contrôleurs Indépendants ;
+
 - le Lloyd's Register EMEA.
 
 5. Organismes habilités pour délivrer les approbations de structure prévues à l'article 42-6 du décret susmentionné :
 
-- le Bureau Veritas ;
+- le Bureau Veritas Marine & Offshore SAS ;
 
 - le DNV-GL AS ;
 
 - le RINA Services ;
 
-- le Lloyd's Register EMEA.
+- le Lloyd's Register EMEA ;
+
+- Korean Register of Shipping.
 
 6. Organismes habilités pour procéder au mesurage de l'exposition aux vibrations mécaniques des personnes employées à bord des navires en application du décret n° 2005-748 du 4 juillet 2005 relatif aux prescriptions de sécurité et de santé applicables en cas d'exposition aux risques dus aux vibrations mécaniques des personnels employés à bord des navires :
 
-- le Bureau Veritas ;
+- le Bureau Veritas Marine & Offshore SAS ;
 
 - le DNV-GL AS ;
 
 - le RINA Services s.p.a. ;
 
-- le Lloyd's Register EMEA.
+- le Lloyd's Register EMEA ;
+
+- Korean Register of Shipping.
 
 7. Organismes habilités pour procéder au mesurage du bruit en application du décret n° 2006-1044 du 23 août 2006 relatif aux prescriptions de sécurité et de santé applicables en cas d'exposition aux risques dus au bruit des personnels employés à bord des navires, sauf en ce qui concerne les mesures prescrites dans le cadre des mises en demeure mentionnées à son article 5 :
 
-- le Bureau Veritas ;
+- le Bureau Veritas Marine & Offshore SAS ;
 
 - le DNV-GL AS ;
 

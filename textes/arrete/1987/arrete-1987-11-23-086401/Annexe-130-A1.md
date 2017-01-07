@@ -246,11 +246,11 @@ Plans et documents :
 
 Renseignements :
 
-- justification point par point que les exigences de l'article 212-1.02 sont remplies ;
+- justification point par point que les exigences de la division 212 sont remplies ;
 
 - le cas échéant, le questionnaire de l'annexe 221-II-1/A.1, partie B, rempli à la diligence de l'exploitant du navire ;
 
-- le cas échéant, le dossier justifiant la conformité du navire aux dispositions énumérées à l'article 212-1.03.
+- le cas échéant, le dossier justifiant la conformité du navire aux dispositions de la division 212.
 
 Art. 1.11. - Cargaisons.
 

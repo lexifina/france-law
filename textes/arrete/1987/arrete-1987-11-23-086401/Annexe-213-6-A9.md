@@ -26,7 +26,7 @@ Systèmes d'épuration des gaz d'échappement
 
 |
 
-Résolution MEPC. 184 (59), adoptée le 17 juillet 2009
+Résolution MEPC 259 (68), adoptée le 17 juillet 2009
 
 "L'eau de lavage issue des systèmes d'épuration des gaz d'échappement qui utilisent des produits chimiques, des additifs, des préparations et des produits chimiques créés sur place", visée au point 10.1.6.1 de la résolution MEPC.184(59), n'est pas rejetée en mer, y compris dans des ports et estuaires clos, s'il n'est pas démontré par l'exploitant du navire que ce rejet d'eau de lavage n'a aucune incidence négative notable et ne pose pas de risques pour la santé humaine et l'environnement. Si le produit chimique utilisé est de la soude caustique, il est suffisant que l'eau de lavage satisfasse aux critères énoncés dans la résolution MEPC.184(59) et que son pH ne soit pas supérieur à 8,0.
 

@@ -926,17 +926,21 @@ NOTA :
 
 (1) Se reporter aux recommandations de la Commission électrotechnique internationale, en particulier la publication 60079 de la CEI - Matériel électrique pour atmosphères explosives gazeuses.
 
-(2) Se reporter aux directives améliorées applicables aux extincteurs portatifs à usage maritime, que l'Organisation maritime internationale a adoptées par la résolution A.951(23).
+(2) Se reporter aux Directives relatives aux critères d'efficacité et d'essai et à l'inspection des liquides émulseurs à haut foisonnement utilisés dans les dispositifs fixes d'extinction de l'incendie (MSC/Circ.670).
 
 (*) Se reporter aux Directives relatives aux critères d'efficacité et d'essai et à l'inspection des liquides émulseurs à bas foisonnement utilisés dans les dispositifs fixes d'extinction de l'incendie (MSC/Circ.582 et Corr.1).
 
-(3) Se reporter aux directives révisées pour l'approbation de dispositifs fixes d'extinction de l'incendie par le gaz équivalents, visés par la Convention SOLAS de 1974, qui sont destinés aux locaux de machines et aux chambres des pompes à cargaison (MSC/Circ.848).
+(3) Se reporter aux Directives pour l'approbation de dispositifs fixes d'extinction à mousse à haut cloisonnement (MSC.1/Circ.1384).
 
-(4) Se reporter aux directives relatives aux critères d'efficacité et d'essai et à l'inspection des liquides émulseurs à haut foisonnement utilisés dans les dispositifs fixes d'extinction de l'incendie (MSC/Circ.670).
+(4) Si l'on utilise la méthode Hazen-Williams, il faudrait retenir les valeurs ci-après pour le coefficient de frottement "C" applicable aux différents types de tuyaux susceptibles d'être utilisés : Type de tuyaux C
+
+Acier doux, noir ou galvanisé 100
+
+Cuivre et alliages de cuivre 150 Acier inoxydable 150.
 
 (5) Se reporter aux directives relatives aux critères d'efficacité et d'essai et à l'inspection des liquides émulseurs à bas foisonnement utilisés dans les dispositifs fixes d'extinction de l'incendie (MSC/Circ.582 et Corr.1).
 
-(6) Se reporter aux Directives révisées pour l'approbation de dispositifs d'extinction de l'incendie à base d'eau équivalents pour les locaux de machines et les chambres des pompes à cargaison (circulaire MSC/Circ.1165).
+(6) Se reporter aux Directives révisées pour l'approbation des dispositifs fixes de lutte contre l'incendie à base d'eau destinés aux espaces rouliers et aux locaux de catégorie spéciale (MSC.1/Circ.1430).
 
 (7) Se reporter aux Directives pour l'approbation des dispositifs fixes d'extinction de l'incendie par projection d'eau diffusée sous pression et à base d'eau destinés aux balcons de cabine (circulaire MSC.1/Circ.1268).
 

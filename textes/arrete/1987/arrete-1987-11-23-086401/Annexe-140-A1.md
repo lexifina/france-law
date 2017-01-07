@@ -18,7 +18,7 @@ CERTIFICATS/VISITE
 
 |
 
-BUREAU VERITAS
+BUREAU VERITAS MARINE & OFFSHORE SAS
 
 |
 
@@ -39,6 +39,8 @@ REGISTER
 EMEA
 
 |
+
+KOREAN REGISTER OF SHIPPING |
 
 1
 
@@ -64,6 +66,8 @@ Permis de navigation
 
 |
 
+- |
+
 2
 
 |
@@ -88,6 +92,8 @@ H
 
 |
 
+H |
+
 3
 
 |
@@ -109,6 +115,8 @@ D
 D
 
 |
+
+D |
 
 4
 
@@ -134,6 +142,8 @@ H
 
 |
 
+H |
+
 5
 
 |
@@ -157,6 +167,8 @@ D
 D
 
 |
+
+D |
 
 6
 
@@ -184,11 +196,17 @@ H
 
 |
 
+H |
+
 7
 
 |
 
 Visites relatives à la sécurité du matériel d'armement/Certificat de sécurité pour navire de charge et fiche d'équipement modèle C
+
+|
+
+H
 
 |
 
@@ -232,6 +250,8 @@ H
 
 |
 
+H |
+
 9
 
 |
@@ -258,6 +278,8 @@ H
 
 |
 
+H |
+
 10
 
 |
@@ -281,6 +303,8 @@ H
 H
 
 |
+
+H |
 
 11
 
@@ -306,6 +330,8 @@ H
 
 |
 
+H |
+
 12
 
 |
@@ -330,11 +356,17 @@ H
 
 |
 
+H |
+
 13
 
 |
 
 Visites relatives au registre des ordures/Approbation plan et registre des ordures
+
+|
+
+H
 
 |
 
@@ -378,11 +410,17 @@ H
 
 |
 
+H |
+
 15
 
 |
 
 Visites relatives au contrôle des systèmes antisalissure nuisibles sur les navires/Certificat international du système antisalissure
+
+|
+
+H
 
 |
 
@@ -426,6 +464,8 @@ H
 
 |
 
+H |
+
 17
 
 |
@@ -449,6 +489,8 @@ H
 H
 
 |
+
+H |
 
 18
 
@@ -474,6 +516,8 @@ H
 
 |
 
+H |
+
 19
 
 |
@@ -498,11 +542,17 @@ H
 
 |
 
+H |
+
 20
 
 |
 
 Visite relative à la conformité au transport de marchandises dangereuses (circulaire MSC 1266)/Document de conformité prescriptions spéciales applicables aux navires transportant des marchandises dangereuses
+
+|
+
+H
 
 |
 
@@ -546,6 +596,8 @@ H
 
 |
 
+H |
+
 2. Titres et certificats délivrés au nom de l'Etat pour tous les types de navires :
 
 H : Habilitation comprenant l'étude, l'approbation des plans et documents, la réalisation des visites à bord, la délivrance, le visa et le renouvellement, le retrait et la suspension des titres et certificats en application des dispositions du décret n° 84-810 du 30 août 1984 modifié.
@@ -558,7 +610,7 @@ CERTIFICATS/VISITE
 
 |
 
-BUREAU VERITAS
+BUREAU VERITAS MARINE & OFFSHORE SAS
 
 |
 
@@ -580,11 +632,17 @@ EMEA
 
 |
 
+KOREAN REGISTER OF SHIPPING |
+
 1
 
 |
 
 Visites relatives au Certificat international ou national de franc-bord/Certificat de franc-bord
+
+|
+
+H
 
 |
 
@@ -628,6 +686,10 @@ D
 
 |
 
+D
+
+|
+
 3
 
 |
@@ -651,6 +713,8 @@ H
 H
 
 |
+
+H |
 
 4
 
@@ -676,6 +740,8 @@ H
 
 |
 
+H |
+
 5
 
 |
@@ -700,6 +766,8 @@ H
 
 |
 
+H |
+
 3. Certificats de jaugeage des navires délivrés au nom de l'Etat pour tous les navires d'une longueur hors tout supérieure ou égale à 15 mètres :
 
 H : Habilitation comprenant l'étude, la réalisation des visites à bord et la délivrance, le retrait et la suspension des certificats de jaugeage des navires, en application des dispositions du décret n° 84-810 du 30 août 1984 modifié.
@@ -710,7 +778,7 @@ CERTIFICATS/VISITE
 
 |
 
-BUREAU VERITAS
+BUREAU VERITAS MARINE & OFFSHORE SAS
 
 |
 
@@ -732,11 +800,17 @@ EMEA
 
 |
 
+KOREAN REGISTER OF SHIPPING |
+
 1
 
 |
 
 Visites relatives au certificat international de jaugeage des navires/Certificat international de jaugeage des navires
+
+|
+
+H
 
 |
 
@@ -780,6 +854,8 @@ H
 
 |
 
+H |
+
 4. Certificats délivrés au nom de l'Etat pour les navires situés à l'étranger dans une zone formellement déconseillée par le ministère des affaires étrangères.
 
 Conformément au paragraphe III de l'article 3-1 du décret n° 84-810 modifié du 30 août 1984, la délivrance du certificat de gestion de la sécurité du navire et du certificat de travail maritime peut être déléguée par le ministre chargé de la mer à une société de classification habilitée uniquement lorsque la visite du navire est réalisée dans une zone formellement déconseillée par le ministère des affaires étrangères.
@@ -798,7 +874,7 @@ CERTIFICATS/VISITE
 
 |
 
-BUREAU VERITAS
+BUREAU VERITAS MARINE & OFFSHORE SAS
 
 |
 
@@ -819,6 +895,8 @@ REGISTER
 EMEA
 
 |
+
+KOREAN REGISTER OF SHIPPING |
 
 1
 
@@ -844,6 +922,10 @@ H
 
 |
 
+-
+
+|
+
 2
 
 |
@@ -853,6 +935,10 @@ Visites relatives au certificat international de sûreté du navire/Certificat i
 |
 
 H
+
+|
+
+-
 
 |
 
@@ -885,6 +971,10 @@ H
 |
 
 H
+
+|
+
+-
 
 |
 

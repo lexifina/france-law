@@ -55,3 +55,7 @@ Le soussigné, expert d'une société de classification habilitée, atteste que 
 Délivré à le
 
 Valable jusqu'au
+
+NOTA :
+
+(1) Décret N° 2014-330 du 13 Mars 2014 portant publication de la résolution A.765 (18) relative aux directives sur la sécurité des navires et autres objets flottants remorqués, y compris les installations, ouvrages et plate-formes en mer (ensemble une annexe) adoptée à Londres le 4 Novembre 1993.

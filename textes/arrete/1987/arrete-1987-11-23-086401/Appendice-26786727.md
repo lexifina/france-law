@@ -72,7 +72,7 @@ I : apparaux de pêche (2).
 
 .5 signature de l'officier responsable de l'opération.
 
-4.1.3. Rejet d'ordures dans la mer effectué conformément aux règles 4, 5 ou 6 de l'annexe V de MARPOL :
+4.1.3. Rejet d'ordures dans la mer effectué conformément aux règles 4, 5 ou 6 de l'annexe V de MARPOL ou au chapitre 5 de la partie II-A du Recueil sur la navigation polaire :
 
 .1 date et heure du rejet ;
 

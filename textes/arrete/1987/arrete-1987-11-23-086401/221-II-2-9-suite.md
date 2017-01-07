@@ -1148,7 +1148,7 @@ Les fenêtres situées dans le bordé du navire au-dessous de la zone d'embarque
 
 7.1 Généralités.
 
-7.1.1 Les conduits de ventilation, y compris les conduits à simple et à double paroi, doivent être en acier ou autre matériau équivalent, à l'exception des soufflets flexibles d'une faible longueur ne dépassant pas 600 mm utilisés pour raccorder les ventilateurs aux conduits dans le local contenant les installations de conditionnement d'air. Sauf mention expresse contraire au paragraphe 7.1.6, tout autre matériau de construction utilisé pour les conduits, y compris pour leur isolation, doit également être incombustible. Toutefois, il n'est pas nécessaire que les conduits courts d'une longueur ne dépassant généralement pas 2 m et d'une section libre (5) ne dépassant 0,02 m2 soient en acier ou un matériau équivalent, sous réserve que les conditions suivantes soient remplies :
+7.1.1 Les conduits de ventilation, y compris les conduits à simple et à double paroi, doivent être en acier ou autre matériau équivalent, à l'exception des soufflets flexibles d'une faible longueur ne dépassant pas 600 mm utilisés pour raccorder les ventilateurs aux conduits dans le local contenant les installations de conditionnement d'air. Sauf mention expresse contraire au paragraphe 7.1.6, tout autre matériau de construction utilisé pour les conduits, y compris pour leur isolation, doit également être incombustible. Toutefois, il n'est pas nécessaire que les conduits courts d'une longueur ne dépassant généralement pas 2 m et d'une section libre (1) ne dépassant 0,02 m2 soient en acier ou un matériau équivalent, sous réserve que les conditions suivantes soient remplies :
 
 . 1 les conduits sont en un matériau incombustible dont les faces intérieure et extérieure peuvent être recouvertes d'une membrane ayant un faible pouvoir propagateur de flamme et ayant un pouvoir calorifique (6) ne dépassant pas 45 MJ/ m2 de leur surface pour l'épaisseur utilisée ;
 
@@ -1198,7 +1198,7 @@ Soit
 
 2.2 Isolés conformément à la norme A-60 dans tous les locaux ou espaces qu'ils traversent, sauf s'ils traversent des locaux et espaces de la catégorie 9) ou 10) tels que définis au paragraphe 2.2.3.2.2.
 
-7.2.5 Aux fins des paragraphes 7.2.4.1.4 et 7.2.4.2.2, les conduits doivent être isolés sur toute la surface extérieure de leur section. Les conduits qui sont situés à l'extérieur du local ou espace spécifié mais lui sont contigus et qui ont une ou plusieurs surfaces en commun avec lui doivent être considérés comme le traversant et doivent être isolés sur toute la surface qu'ils partagent avec ce local ou espace sur une distance de 450 mm au-delà du conduit (7).
+7.2.5 Aux fins des paragraphes 7.2.4.1.4 et 7.2.4.2.2, les conduits doivent être isolés sur toute la surface extérieure de leur section. Les conduits qui sont situés à l'extérieur du local ou espace spécifié mais lui sont contigus et qui ont une ou plusieurs surfaces en commun avec lui doivent être considérés comme le traversant et doivent être isolés sur toute la surface qu'ils partagent avec ce local ou espace sur une distance de 450 mm au-delà du conduit (2).
 
 7.2.6 Lorsqu'il est nécessaire qu'un conduit de ventilation traverse un cloisonnement de tranche verticale principale, un volet d'incendie automatique doit être installé à côté du cloisonnement. Ce volet doit également pouvoir être fermé manuellement de chaque côté du cloisonnement. La commande doit être située dans un endroit facile d'accès et être signalée de façon claire et bien visible. La longueur de conduit située entre le cloisonnement et le volet doit être construite en acier conformément aux dispositions des paragraphes 7.2.4.1.1 et 7.2.4.1.2 et être isolée de manière à avoir au moins la même intégrité au feu que le cloisonnement qu'elle traverse. Le volet doit être muni, sur un côté au moins du cloisonnement, d'un indicateur bien en vue montrant la position du volet.
 
@@ -1228,7 +1228,7 @@ Un conduit dont la section es supérieure à 0,075 m2 ne doit pas se subdiviser 
 
 7.4.3 Les entourages d'escalier doivent être desservis par un ventilateur et un système de conduits (évacuation d'air vicié et arrivée d'air frais) indépendants qui ne desservent aucun autre local relié au système de ventilation.
 
-7.4.4 Quelle que soit sa section, un conduit desservant plus d'un entrepont, local d'habitation, local de service ou poste de sécurité doit être pourvu, à proximité de l'endroit où il traverse chacun des ponts de ces locaux, d'un volet coupe-fumée automatique qui puisse également être fermé manuellement depuis le pont protégé situé au-dessus de lui. Si, à l'intérieur d'une tranche verticale principale, un ventilateur dessert plus d'un entrepont au moyen de conduits distincts, destinés chacun à un seul entrepont, chaque conduit doit être pourvu, à proximité du ventilateur, d'un volet coupe-fumée à commande manuelle.
+7.4.4 Quelle que soit sa section, un conduit desservant plus d'un local d'habitation, local de service ou poste de sécurité d'entrepont doit être pourvu, à proximité de l'endroit où il traverse chacun des ponts de ces locaux, d'un volet coupe-fumée automatique qui puisse également être fermé manuellement depuis le pont protégé situé au-dessus de lui. Si, à l'intérieur d'une tranche verticale principale, un ventilateur dessert plus d'un local d'entrepont au moyen de conduits distincts, destinés chacun à un seul entrepont, chaque conduit doit être pourvu, à proximité du ventilateur, d'un volet coupe-fumée à commande manuelle.
 
 7.4.5 L'isolation des conduits verticaux doit satisfaire, si nécessaire, aux normes prescrites dans les tableaux 9.1 et 9.2. L'isolation des conduits doit être celle qui est requise pour les ponts entre le local qu'ils desservent et le local considéré.
 
@@ -1244,7 +1244,7 @@ Ils doivent également être pourvus :
 
 . 2 d'un volet d'incendie à télécommande automatique situé à l'extrémité inférieure du conduit, au raccordement du conduit à la hotte du fourneau des cuisines, et, en outre, d'un volet d'incendie télécommandé situé à l'extrémité supérieure du conduit, à proximité de sa sortie ;
 
-. 3 d'un dispositif fixe permettant d'éteindre un incendie à l'intérieur du conduit (8) ;
+. 3 d'un dispositif fixe permettant d'éteindre un incendie à l'intérieur du conduit (3) ;
 
 . 4 de commandes à distance qui permettent d'arrêter les ventilateurs aspirants et les ventilateurs refoulants et de faire fonctionner les volets d'incendie mentionnés au paragraphe 7.5.1.1.2, ainsi que le dispositif d'extinction de l'incendie, et qui soient placées à l'extérieur de la cuisine mais à proximité de son entrée. Lorsqu'un circuit à conduits multiples est installé, un dispositif télécommandé situé au même endroit que les commandes susmentionnées doit être prévu pour fermer tous les conduits débouchant sur le même conduit principal avant d'introduire un agent d'extinction dans le circuit ; et
 
@@ -1284,4 +1284,8 @@ Les conduits d'évacuation des buanderies et des séchoirs des locaux de la cat�
 
 NOTA :
 
-(1) On entend par "section libre", la section calculée à partir du diamètre intérieur du conduit, même dans le cas d'un conduit préalablement isolé.
+(1) Par "section libre", on entend, même dans le cas d'un conduit préalablement isolé, la section calculée à partir des dimensions intérieures du conduit, abstraction faite de l'isolant.
+
+(2) Des schémas de ces dispositions figurent dans les Interprétations uniformes du chapitre II-2 de la Convention SOLAS (MSC.1/Circ.1276).
+
+(3) Se reporter aux recommandations publiées par l'Organisation internationale de normalisation, en particulier à la publication ISO 15371 : 2009, Navires et technologie maritime - Systèmes d'extinction d'incendie des équipements de cuisine.
