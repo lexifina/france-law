@@ -1,0 +1,9 @@
+# Réponse à la question n° 101181
+
+- Question : [101181](101181.md) — Question n° 101181 — sociétés civiles d'exploitation agricole; cotisation; perspectives
+
+## Réponse
+
+*JO du 2017-01-10*
+
+En cas d'exploitation sous forme sociétaire, lorsque la société atteint l'activité minimale d'assujettissement, les associés participant à l'activité agricole sont affiliés au régime de protection sociale des non-salariés agricoles en application du 5° de l'article L. 722-10 du code rural et de la pêche maritime. Par ailleurs, compte tenu d'une jurisprudence constante, l'associé gérant d'une société civile d'exploitation agricole (SCEA) est réputé participer à l'activité agricole du fait même de ses fonctions. Ainsi, même en l'absence de rémunération, il est affilié au régime de protection sociale agricole en tant que non-salarié, qu'il soit associé majoritaire ou minoritaire au sein de cette société. A l'instar de nombreuses autres situations, cette affiliation peut effectivement conduire à être pluriactif. Ce sont alors les règles de droit commun qui s'appliquent en fonction de la nature des activités exercées et des régimes de protection sociale dont elles relèvent. Ainsi, les personnes qui exercent simultanément une activité professionnelle non-salariée agricole et une activité salariée, sont affiliées et cotisent simultanément aux régimes dont relèvent leurs activités. Le droit aux prestations d'assurance maladie leur est ouvert au régime de leur activité principale. En tout état de cause, les conséquences liées à l'application des règles de pluriactivité, qui ont par ailleurs été récemment simplifiées, n'autorisent pas à remettre en cause le principe même d'un assujettissement basé sur l'exercice d'activités professionnelles relevant de régimes de protection sociale différents.
