@@ -1,0 +1,9 @@
+# Réponse à la question n° 98778
+
+- Question : [98778](98778.md) — Question n° 98778 — pratiques amateurs; encadrement
+
+## Réponse
+
+*JO du 2017-01-10*
+
+Le ministère de la culture et de la communication a entrepris un travail de concertation sur la pratique en amateur dans le secteur artistique, avec pour objectif de créer un environnement juridique favorable à la pratique artistique pour les artistes amateurs bénévoles sans fragiliser bien évidemment pour autant le statut des professionnels. Ce travail a contribué à l'adoption, par le Parlement, de l'article 32 de la loi no 2016-925 du 7 juillet 2016 relative à la liberté de la création, à l'architecture et au patrimoine. La concertation, menée depuis l'automne 2013, a associé des représentants d'associations d'amateurs et de fédérations d'amateurs, de syndicats d'employeurs du spectacle et de syndicats de salariés du spectacle. Depuis la promulgation de la loi, les travaux se poursuivent dans le cadre du bureau du conseil national des professions du spectacle pour établir le corpus réglementaire d'application de la loi, dans le double objectif, partagé par tous, de préserver les droits sociaux des professionnels tout en valorisant la pratique amateur. La coordination de fédérations et associations de culture et de communication, qui représente plus de vingt fédérations et quarante mille associations, est associée à ces travaux. L'objectif du Gouvernement est de respecter les délais impartis par la loi, à savoir une publication du décret d'application en janvier 2017. S'agissant des critères et plafonds, la discussion a fait apparaître la nécessité de trouver des critères au plus proche des différents types de pratique, en évitant toute concurrence déloyale ou le risque de détournement des droits sociaux. En outre, des dérogations pourront être accordées pour autoriser des situations exceptionnelles où le recours aux amateurs fait partie intégrante du projet artistique et culturel.
