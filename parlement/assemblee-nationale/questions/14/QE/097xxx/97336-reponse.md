@@ -1,0 +1,9 @@
+# Réponse à la question n° 97336
+
+- Question : [97336](97336.md) — Question n° 97336 — mise aux normes
+
+## Réponse
+
+*JO du 2017-01-10*
+
+Les travaux du schéma directeur ont pour objet de restaurer et d'aménager le Grand Palais, afin de le rendre conforme aux normes applicables, notamment en matière de sécurité, de sûreté et d'accessibilité et de moderniser ses espaces d'accueil du public de manière à le rendre plus fonctionnel. Le coût total du projet est de 436 M€ (dont 137 M€ pour la restauration du monument historique, 255 M€ pour l'aménagement du Grand Palais, et 44 M€ pour la réalisation d'une nouvelle muséographie pour le Palais de la Découverte). À ce coût, s'ajoutent 30 M€ liés d'une part aux frais financiers de l'emprunt que la Réunion des musées nationaux - Grand Palais (RMN-GP) va contracter et d'autre part au financement des pertes d'exploitation de l'établissement pendant sa fermeture totale de deux ans du fait des travaux. Le ministère de la culture et de la communication et l'établissement prêtent une attention toute particulière à la soutenabilité financière du schéma directeur. L'établissement financera le schéma directeur à hauteur de 150 M€ sous forme d'emprunt, qui sera remboursé grâce aux revenus complémentaires tirés de l'exploitation du Grand Palais rénové (augmentation de la jauge et des activités événementielles, nouvelle offre culturelle). Le ministère de la culture et de la communication participera au financement de l'opération à hauteur de 116 M€, dans le respect de la loi de programmation des finances publiques et du vote annuel des crédits en loi de finances initiale. Véritable investissement d'avenir pour l'État, ce projet d'envergure bénéficiera enfin de l'ouverture de crédits exceptionnels (200 M€), via le programme d'investissement d'avenir 3.
