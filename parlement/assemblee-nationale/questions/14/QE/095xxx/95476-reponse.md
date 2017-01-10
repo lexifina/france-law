@@ -1,0 +1,9 @@
+# Réponse à la question n° 95476
+
+- Question : [95476](95476.md) — Question n° 95476 — Euro 2016; sites de location entre particuliers; concurrence déloyale
+
+## Réponse
+
+*JO du 2017-01-10*
+
+La réforme de la taxe de séjour et de la taxe de séjour forfaitaire permet de faire participer les professionnels qui assurent, par voie électronique, un service de réservation ou de location ou de mise en relation en vue de la location d'hébergements, à la collecte de la taxe de séjour. Depuis le 1er janvier 2015, les plateformes de réservation en ligne peuvent donc collecter la taxe de séjour pour le compte des logeurs qui les mandatent en vertu du II de l'article L. 2333-34 du code général des collectivités territoriales (CGCT). Le logeur qui propose un bien immobilier par le biais d'une plateforme doit autoriser cette dernière à collecter la taxe de séjour. À défaut d'avoir mandaté une plateforme pour se substituer à lui dans tous les droits et obligations liés à la collecte de la taxe, le logeur reste responsable de la collecte de la taxe au même titre qu'un autre logeur n'ayant pas recours aux services des plateformes de réservation en ligne. Enfin, la mise en ligne des données liées au contenu des délibérations adoptées par les collectivités prévue par l'article R. 2333-43 du CGCT, sera effective dès 2017. Cet outil facilitera l'exercice de la collecte par les plateformes grâce à la mise à disposition de données téléchargeables. Toutefois, tenant compte du souhait des collectivités locales de faciliter le recouvrement de la taxe par les sites de réservation en ligne dès l'UEFA Euro 2016, le Gouvernement a, par anticipation, ouvert un moteur de recherche à destination des acteurs du tourisme fin avril 2016. Le mini-site dédié à la taxe de séjour accessible à l'adresse http://taxesejour.impots.gouv.fr/ permet la consultation d'une partie des délibérations adoptées par les collectivités. Il sera exhaustif à compter de 2017.
