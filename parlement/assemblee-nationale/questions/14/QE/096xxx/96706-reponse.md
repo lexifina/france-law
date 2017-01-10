@@ -1,0 +1,9 @@
+# Réponse à la question n° 96706
+
+- Question : [96706](96706.md) — Question n° 96706 — gestion
+
+## Réponse
+
+*JO du 2017-01-10*
+
+Le fonds de compensation pour la taxe sur la valeur ajoutée (FCTVA) est une dotation permettant de compenser la TVA acquittée par les collectivités locales et leurs groupements sur les dépenses qui remplissent les conditions fixées par les articles L. 1615-1 à L. 1615-12 et R. 1615-1 à D. 1615-7 du code général des collectivités territoriales. Ainsi, sont éligibles au FCTVA les dépenses grevées de TVA que réalisent les collectivités territoriales bénéficiaires, dans le but de conserver ou d'accroître leur patrimoine et pour les besoins d'une activité non assujettie à la TVA. Lorsque l'acquisition d'un véhicule par une collectivité locale est assortie de la reprise de l'ancien véhicule, la TVA facturée à la collectivité locale est calculée sur le prix de vente du véhicule avant reprise. Si l'acquisition du véhicule répond à l'ensemble des conditions d'éligibilité, le FCTVA peut être versé à la collectivité locale sur la base du montant toute taxe comprise avant reprise. Toutefois, la reprise par le professionnel du véhicule de la collectivité locale constitue une cession pour la collectivité, et, dans la mesure où des attributions de FCTVA ont été versées lors de son acquisition, la collectivité locale est tenue de reverser, le cas échéant, une partie des attributions. Les conditions de ce reversement sont déterminées aux articles L. 1615-9 et R. 1615-5 du code général des collectivités territoriales. Ainsi, pour les biens meubles cédés avant le commencement de la quatrième année suivant l'acquisition du bien ou son achèvement, une fraction de l'attribution initiale du FCTVA doit être reversée. Elle s'élève au montant de l'attribution initiale diminuée d'un cinquième par année civile ou fraction d'année civile écoulée depuis la date à laquelle le bien a été acquis ou achevé.
