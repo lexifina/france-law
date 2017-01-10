@@ -1,0 +1,9 @@
+# Réponse à la question n° 100609
+
+- Question : [100609](100609.md) — Question n° 100609 — énergie nucléaire; réduction; perspectives
+
+## Réponse
+
+*JO du 2017-01-10*
+
+La programmation pluriannuelle de l'énergie (PPE) a été publiée le 28 octobre 2016, après une concertation approfondie avec l'ensemble des parties prenantes et une consultation publique d'un mois. La PPE engage une forte accélération du développement des énergies renouvelables et une intensification des efforts de maîtrise de la demande d'énergie, ainsi que la réduction de la part du nucléaire. Elle n'oppose pas les énergies renouvelables et le nucléaire, qui est une énergie compétitive et décarbonée et restera le socle de notre mix électrique. La réduction du nucléaire sera progressive, pour garantir la sécurité d'approvisionnement et ne pas augmenter les émissions de gaz à effet de serre : au moment où tous les pays du monde s'unissent pour faire de l'Accord de Paris une réussite, le Gouvernement veille à ne pas remplacer le nucléaire par des centrales thermiques fortement émettrices de gaz à effet de serre. La nécessité de garantir notre sécurité d'approvisionnement tout en tenant compte de l'impératif climatique justifie l'approche en plusieurs étapes de la PPE : - engager le développement massif et irrémédiable des énergies renouvelables, tout en accentuant les efforts de maîtrise de la demande d'énergie ; - éclairer les conditions, techniques et économiques, associées à la prolongation de l'exploitation des réacteurs au-delà de 40 ans, qui sera nécessaire pour une partie du parc. Ainsi la prochaine PPE fixera-t-elle le cadre pour décider, en fonction de l'évolution de la consommation d'électricité et des exportations, du développement des énergies renouvelables, des décisions de l'Autorité de sûreté nucléaire (ASN) et de la nécessité d'assurer la sécurité d'approvisionnement, des fermetures et des prolongations de l'exploitation au-delà de 40 ans de certains réacteurs.
