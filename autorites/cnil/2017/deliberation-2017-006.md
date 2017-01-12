@@ -1,0 +1,63 @@
+# Délibération n° 2017-006 du 12 janvier 2017 portant labellisation de la formation intitulée « La loi Informatique et Libertés dans le domaine de la santé » présentée par la société AGERIS GROUP (Saisine n° 16022423)
+
+- Nature : Deliberation
+- Type : Certification/Label
+- Numéro : 2017-006
+- Date : 2017-01-12
+- Publication : 2017-03-04
+- État : PERIME
+- Légifrance : https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000034131647
+
+La Commission nationale de l'informatique et des libertés,
+
+Saisie par la société AGERIS GROUP, le 19 septembre 2016, d'une demande de délivrance de label concernant sa formation intitulée La loi Informatique et Libertés dans le domaine de la santé ;
+
+Vu la Convention n° 108 du Conseil de l'Europe pour la protection des personnes à l'égard du traitement automatisé des données à caractère personnel ;
+
+Vu la directive 95/46/CE du Parlement européen et du Conseil du 24 octobre 1995 relative à la protection des personnes physiques à l'égard du traitement de données à caractère personnel et à la libre circulation de ces données ;
+
+Vu la loi n° 78-17 du 6 janvier 1978 modifiée relative à l'informatique, aux fichiers et aux libertés, notamment son article 11-3° c) ;
+
+Vu le décret n° 2005-1309 du 20 octobre 2005 modifié pris pour l'application de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés ;
+
+Vu la délibération n° 2013-175 du 4 juillet 2013 portant adoption du règlement intérieur de la CNIL, notamment ses articles 32 et suivants ;
+
+Vu la délibération n° 2011-315 du 6 octobre 2011 portant adoption d'un référentiel pour la délivrance de labels en matière de formation tendant à la protection des personnes à l'égard du traitement des données à caractère personnel ;
+
+Vu le dossier et ses compléments ;
+
+Sur la proposition de M. Alexandre LINDEN, commissaire, membre du Comité de labellisation et après avoir entendu les observations de Mme Nacima BELKACEM, commissaire du Gouvernement,
+
+Formule les observations suivantes :
+
+L'article 11-3° c) de la loi du 6 janvier 1978 modifiée dispose que la CNIL délivre un label à des produits ou à des procédures tendant à la protection des personnes à l'égard du traitement des données à caractère personnel .
+
+La formation, objet de la demande, se compose comme suit :
+
+- Définitions et champ d'application ;
+
+- Les principes fondamentaux relatifs aux traitements de données à caractère personnel ;
+
+- L'encadrement des traitements dans le domaine de la santé.
+
+La demande de label présentée par la société AGERIS GROUP inclut les modules complémentaires suivants :
+
+- présentation de l'encadrement des traitements dans le domaine de la santé.
+
+La Commission reconnaît que la formation présentée est conforme au référentiel auquel elle se rapporte, conformément à l'article 37 de son règlement intérieur.
+
+Décide
+
+De la délivrance du label CNIL formation pour la formation intitulée La loi Informatique et Libertés dans le domaine de la santé de la société AGERIS GROUP.
+
+Ce label est délivré pour une durée de trois ans conformément à l'article 39 du règlement intérieur de la Commission.
+
+L'utilisation de la marque LABEL CNIL est soumise au respect du règlement d'usage de la marque collective.
+
+L'organisme s'engage à fournir à la CNIL un bilan d'activité au terme de la première année.
+
+Pour la Présidente
+
+Le Vice-Président Délégué
+
+Marie-France MAZARS
