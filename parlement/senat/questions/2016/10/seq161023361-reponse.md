@@ -1,0 +1,9 @@
+# Réponse à la question SEQ161023361
+
+- Question : [SEQ161023361](seq161023361.md) — Débroussaillement et prévention des incendies de forêt
+
+## Réponse
+
+*Agriculture, agroalimentaire et forêt, JO du 2017-01-12, page 84*
+
+Les Bouches-du-Rhône font partie des territoires réputés particulièrement exposés aux risques visés à l'article L. 133-1 du code forestier. Ce département relève ainsi des obligations légales de débroussaillement codifiées aux articles L. 134-5 à L. 134-18 de ce même code. Le contrôle de l'exécution des obligations légales de débroussaillement incombe au maire, ainsi que le prescrit l'article L. 134-7 du code forestier. Les élus locaux doivent s'approprier cette thématique pour permettre une amélioration significative des débroussaillements et réduire d'autant le risque incendie. Un courrier en ce sens a été adressé aux préfets de départements en date du 16 novembre 2016, afin qu'ils rappellent aux élus locaux, mais aussi aux gestionnaires de réseaux, leurs responsabilités en matière de débroussaillement dans les secteurs les plus à risques. Par ailleurs, les services du ministère en charge de l'agriculture, en lien avec le ministère de l'intérieur, procèdent actuellement à la révision de l'instruction technique relative aux obligations légales de débroussaillement, telle que préconisée par le rapport interministériel sur la défense des forêts contre l'incendie, remis en avril 2016. La publication de l'instruction technique rénovée sera l'occasion de communiquer, auprès des services en charge de la prévention et de la lutte contre les incendies mais aussi des procureurs, sur l'importance du respect des obligations légales de débroussaillement, facteur clef dans la prévention des incendies de forêt. La bonne application de cette réglementation revêt en effet un caractère prioritaire dans un contexte de changement climatique où l'occurrence de grands incendies est accrue.
