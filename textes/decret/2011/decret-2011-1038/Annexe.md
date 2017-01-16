@@ -7,3 +7,5 @@ Ministère de l'écologie, du développement durable et de l'énergie-Etablissem
 Ministère de l'écologie, du développement durable et de l'énergie-Etablissement public Météo-France.
 
 Ministère de la justice-Agence publique pour l'immobilier de la justice (APIJ).
+
+Ministère de la justice-Agence de gestion et de recouvrement des avoirs saisis et confisqués (AGRASC).
