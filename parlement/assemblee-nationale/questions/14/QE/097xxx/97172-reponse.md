@@ -1,0 +1,9 @@
+# Réponse à la question n° 97172
+
+- Question : [97172](97172.md) — Question n° 97172 — moyens
+
+## Réponse
+
+*JO du 2017-01-17*
+
+Le Gouvernement reste très attaché à la singularité du réseau France Bleu, qui en fait un symbole de service public. Les missions du réseau France Bleu, radio de proximité de référence, fédérant un public populaire et divers, viennent d'être réaffirmées avec force par la signature, en avril 2016, du contrat d'objectifs et de moyens (COM) de Radio France pour la période 2015-2019. La trajectoire financière de ce COM assure au réseau régional les moyens nécessaires à l'accomplissement de ses missions de service public. Ainsi, les moyens alloués au réseau France Bleu, qui représentent plus de 20 M€, sont stables entre 2015 et 2016. Au même titre que l'ensemble des directions de Radio France, le réseau France Bleu participe à la mise en œuvre des objectifs du COM, parmi lesquels la maîtrise de la masse salariale, mais aussi la réduction de la précarité. Si le nombre de contrats à durée déterminée a certes diminué entre 2015 et 2016 au sein du réseau, dix journalistes ont été intégrés en contrat à durée indéterminée sur la même période. La direction de Radio France a indiqué qu'elle veillait à ce que les efforts demandés au réseau France Bleu demeurent supportables par les stations et n'aient pas pour effet de dégrader l'offre proposée. La principale mesure mise en œuvre en 2016 est, conformément aux dispositions du COM, une revue du mode de gestion des congés devant permettre de diminuer la part des emplois occasionnels. La baisse des budgets de remplacement a ainsi pour objet d'inciter les stations locales à une meilleure planification des congés. La direction de Radio France a par ailleurs choisi de donner, à la rentrée 2016, une nouvelle impulsion à la grille de programmes de France Bleu. Ainsi, la tranche de diffusion locale sera prolongée entre midi et 13 heures, pour mieux répondre aux attentes des auditeurs.
