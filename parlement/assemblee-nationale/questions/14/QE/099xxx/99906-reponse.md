@@ -1,0 +1,9 @@
+# Réponse à la question n° 99906
+
+- Question : [99906](99906.md) — Question n° 99906 — tests de pollution; falsification; conséquences
+
+## Réponse
+
+*JO du 2017-01-17*
+
+Suite aux révélations de l'affaire Volkswagen, le Gouvernement a mis en place des actions immédiates visant à s'assurer que les véhicules mis sur le marché respectent la réglementation en vigueur et à prendre, le cas échéant, les mesures nécessaires. Sur décision de la ministre de l'environnement, de l'énergie et de la mer, chargée des relations internationales sur le climat, a été créée une commission indépendante composée de parlementaires, de représentants d'association de protection de l'environnement et de protection des consommateurs et d'experts techniques. Cette commission s'est réunie à plusieurs reprises pour examiner les résultats des tests effectués par l'Union technique de l'automobile, du motocycle et du cycle (UTAC) sur un panel de 86 véhicules. Elle a par ailleurs auditionné plusieurs constructeurs (Mercedes, Ford, Opel, Renault, PSA, Nissan, VW et Fiat-Chrysler) pour lesquels des résultats anormaux ont été constatés. Les résultats de cette enquête ont été rendus publics le 29 juillet 2016. Après avoir réuni la commission indépendante en septembre, la ministre a pris la décision de poursuivre les investigations complémentaires confiées à l'IFPEN. Ces investigations permettront de comprendre plus finement les mécanismes mis en oeuvre. La commission indépendante analysera les résultats obtenus et remettra ses recommandations à la ministre qui en tirera tous les enseignements nécessaires. Par ailleurs, la Commission européenne a engagé les travaux de révision de la directive 2007/46 fixant le cadre de l'homologation des véhicules en Europe. La France soutient dans le cadre de cette révision des positions ambitieuses. La France s'est déclarée favorable à la mise en place d'une agence indépendante européenne de supervision du marché automobile.
