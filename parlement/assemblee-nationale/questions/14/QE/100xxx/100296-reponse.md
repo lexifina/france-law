@@ -1,0 +1,9 @@
+# Réponse à la question n° 100296
+
+- Question : [100296](100296.md) — Question n° 100296 — diabétiques; lecteur de glycémie
+
+## Réponse
+
+*JO du 2017-01-17*
+
+La prise en charge du système de lecture de la glycémie « FreeStyle Libre » est revendiquée par son fabricant pour la mesure du glucose interstitiel dans le traitement des patients atteints d'un diabète de type 1 et de type 2 (adultes et enfants âgés d'au moins 4 ans) traités par insulinothérapie intensifiée (par pompe externe ou multi-injections : supérieure à 3 injections d'insuline par jour). Conformément à la procédure réglementaire en vigueur relative à l'inscription d'un nouveau dispositif médical sur la liste des produits et prestations (LPP) remboursables prévue à l'article L. 165-1 du code de la sécurité sociale, la commission nationale d'évaluation des dispositifs médicaux et technologies de santé (CNEDIMTS) de la Haute autorité de santé (HAS) s'est prononcée pour un service attendu suffisant de ce dispositif et lui a reconnu une amélioration du service attendu de niveau III (modéré) par rapport à l'autosurveillance glycémique par lecteur de glycémie capillaire seul. Des négociations sont actuellement en cours avec l'entreprise pour permettre au Comité économique des produits de santé (CEPS) de fixer un tarif, et le cas échéant un prix limite de vente pour ce dispositif, avant que ne soit publié au Journal officiel l'arrêté d'inscription du produit, permettant sa prise en charge. Au-delà de la seule question des dispositifs médicaux, l'amélioration du suivi et de l'accompagnement des patients diabétiques constitue un enjeu majeur des politiques de santé publique. L'accompagnement des patients est notamment renforcé par la mise en œuvre de programmes tels que sophia, mis en place par l'assurance maladie ou ASALEE, déployé dans le cadre des expérimentations sur les nouveaux modes de rémunération des professionnels de santé.
