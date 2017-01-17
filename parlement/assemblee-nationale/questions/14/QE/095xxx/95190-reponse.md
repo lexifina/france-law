@@ -1,0 +1,9 @@
+# Réponse à la question n° 95190
+
+- Question : [95190](95190.md) — Question n° 95190 — masseurs-kinésithérapeutes; adhésion obligatoire; pertinence
+
+## Réponse
+
+*JO du 2017-01-17*
+
+L'inscription au tableau de l'ordre des masseurs-kinésithérapeutes est une condition nécessaire à l'exercice de la profession. Il s'agit d'une obligation légale qui concerne tous les masseurs-kinésithérapeutes, à l'exception de ceux qui relèvent du service de santé des armées, qu'ils aient opté pour un exercice libéral, salarié ou mixte. Le caractère obligatoire de l'inscription au tableau de l'ordre a été largement débattu à l'occasion de l'examen par l'Assemblée Nationale et le Sénat du projet de loi de modernisation de notre système de santé. Les amendements déposés sur la question d'une adhésion facultative aux ordres paramédicaux n'ont pas été adoptés et la loi a été promulguée le 26 janvier 2016. L'inscription au tableau s'accompagne d'une cotisation dont chaque personne physique ou morale est tenue de s'acquitter. Le montant de cette cotisation est fixé par le Conseil national de l'ordre de manière différenciée selon le mode d'exercice du professionnel. L'ordre a ainsi pour mission générale de veiller au maintien des principes éthiques de la profession ainsi qu'au respect des conditions nécessaires de moralité, d'indépendance et de compétence. A l'heure du virage ambulatoire et des exigences liées à la coordination entre professionnels, il est plus que jamais nécessaire qu'une instance, reconnue par tous, participe à la construction d'une identité professionnelle au service de la qualité des soins. Les ordres professionnels ont été chargés par le législateur de missions de service public. Ils disposent d'un champ d'action large, qui recouvre tous les modes d'exercice, libéral, salarié, mixte, public, privé, avec une mission administrative de contrôle de l'accès à la profession et une mission déontologique et éthique.
