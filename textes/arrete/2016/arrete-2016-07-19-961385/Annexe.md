@@ -212,6 +212,30 @@ Niveau III
 
 |
 
+Armée de l'air
+
+|
+
+Atelier industriel de l'aéronautique de Cuers-Pierrefeu CUERS (83) |
+
+Adjoint au chef du département comptabilité finances |
+
+Niveau I
+
+|
+
+1
+
+|
+
+6 ans
+
+|
+
+10 000 €
+
+|
+
 Armée de terre
 
 |
@@ -1149,6 +1173,206 @@ Plieur-réparateur de parachutes
 |
 
 Niveau III
+
+|
+
+1
+
+|
+
+3 ans
+
+|
+
+10 000 €
+
+|
+
+Armée de terre
+
+|
+
+Direction des ressources humaines de l'armée de terre/sous-direction études politiques PARIS (75) |
+
+Responsable de la cellule expertise fonctionnelle SIRH PC |
+
+Niveau II
+
+|
+
+1
+
+|
+
+6 ans
+
+|
+
+10 000 €
+
+|
+
+Armée de terre
+
+|
+
+13e demi-brigade de légion étrangère LA CAVALERIE (12)
+
+|
+
+Chargé d'environnement 23
+
+|
+
+Niveau II
+
+|
+
+1
+
+|
+
+3 ans
+
+|
+
+10 000 €
+
+|
+
+Armée de terre
+
+|
+
+13e demi-brigade de légion étrangère LA CAVALERIE 12) |
+
+Chargé de prévention des risques professionnels |
+
+Niveau II
+
+|
+
+1
+
+|
+
+3 ans
+
+|
+
+10 000 €
+
+|
+
+Armée de terre
+
+|
+
+13e demi-brigade de légion étrangère LA CAVALERIE (12) |
+
+Opérateur régulation MVT TPT confirmé |
+
+Niveau III
+
+|
+
+1
+
+|
+
+3 ans
+
+|
+
+10 000 €
+
+|
+
+Armée de terre
+
+|
+
+13e demi-brigade de légion étrangère LA CAVALERIE (12) |
+
+Mécanicien monteur confirmé
+
+|
+
+Niveau III
+
+|
+
+3
+
+|
+
+3 ans
+
+|
+
+10 000 €
+
+|
+
+Armée de terre
+
+|
+
+13e demi-brigade de légion étrangère LA CAVALERIE (12)
+
+|
+
+Mécanicien monteur supérieur |
+
+Niveau III
+
+|
+
+2
+
+|
+
+3 ans
+
+|
+
+10 000 €
+
+|
+
+Armée de terre
+
+|
+
+13e demi-brigade de légion étrangère LA CAVALERIE (12) |
+
+Agent de gestion des matériels supérieur |
+
+Niveau III
+
+|
+
+1
+
+|
+
+3 ans
+
+|
+
+10 000 €
+
+|
+
+Armée de terre
+
+|
+
+Centre d'entraînement au combat - 5e régiment de dragons MAILLY-LE-CAMP (10) |
+
+Chargé de prévention des risques professionnels 23 |
+
+Niveau II
 
 |
 
@@ -10584,6 +10808,96 @@ Niveau I
 
 |
 
+SGA/DRH-MD |
+
+Direction des ressources humaines du ministère de la défense/sous-direction du pilotage des RH militaires et civiles PARIS (75) |
+
+Adjoint finances au chef du bureau des budgets opérationnels de programme et performance de la fonction RH |
+
+Niveau I
+
+|
+
+1
+
+|
+
+3 ans
+
+|
+
+10 000 €
+
+|
+
+SGA/DRH-MD |
+
+Sous-direction de la gestion du personnel civil/département des carrières et des compétences ARCUEIL (94) |
+
+Adjoint au chef du bureau en charge du projet rénovation du processus mobilité
+
+|
+
+Niveau I
+
+|
+
+1
+
+|
+
+4 ans
+
+|
+
+8 000 €
+
+|
+
+SGA/DRH-MD |
+
+Sous-direction de la gestion du personnel civil/mission d'accompagnement des réorganisations ARCUEIL (94) |
+
+Responsable de l'animation du réseau OMSAR |
+
+Niveau II
+
+|
+
+1
+
+|
+
+4 ans
+
+|
+
+10 000 €
+
+|
+
+SGA/DRH-MD |
+
+DRH-MD/mission en charge de projets de la transformation RH ARCUEIL (94) |
+
+Coordonnateur d'opérations du projet Alliance NG |
+
+Niveau I
+
+|
+
+1
+
+|
+
+4 ans
+
+|
+
+10 000 €
+
+|
+
 SGA/Direction du service national (DSN)
 
 |
@@ -13784,9 +14098,7 @@ Niveau III
 
 |
 
-2
-
-|
+1 |
 
 3 ans
 
@@ -13868,7 +14180,7 @@ Niveau II
 
 |
 
-1
+2
 
 |
 
@@ -14140,7 +14452,7 @@ Sous-direction de la gestion des personnels relevant de l'administration central
 
 |
 
-Gestionnaire polyvalent GA paie
+Chef de section GA paie
 
 |
 
@@ -14157,6 +14469,60 @@ Niveau II
 |
 
 8 000 €
+
+|
+
+SGA/SPAC |
+
+Sous-direction de la gestion des personnels relevant de l'administration centrale/
+
+bureau de la gestion et de la rémunération des personnels contractuels et des ouvriers de l'Etat ARCUEIL (94)
+
+|
+
+Gestionnaire polyvalent GA paie
+
+|
+
+Niveau III
+
+|
+
+1
+
+|
+
+3 ans
+
+|
+
+6 000 €
+
+|
+
+SGA/SPAC |
+
+Sous-direction de la gestion des personnels relevant de l'administration centrale/
+
+bureau de la gestion des ressources humaines ARCUEIL (94)
+
+|
+
+Gestionnaire mobilité |
+
+Niveau III
+
+|
+
+1
+
+|
+
+3 ans
+
+|
+
+6 000 €
 
 |
 
