@@ -1,0 +1,9 @@
+# Réponse à la question SEQ160421525
+
+- Question : [SEQ160421525](seq160421525.md) — Classement des établissements publics culturels communaux
+
+## Réponse
+
+*Culture et communication, JO du 2017-01-19, page 198*
+
+Le décret n° 2006-1248 du 12 octobre 2006 et l'arrêté MCCB0600807A du 12 décembre 2006 ont modifié les catégories définies précédemment (écoles agréées, écoles nationales de musique, danse et art dramatique et conservatoires nationaux de région). Ainsi, en 2006, les conservatoires ont été classés de façon que l'on peut qualifier « d'automatique » en conservatoires à rayonnement communal ou intercommunal (CRC-I), de conservatoires à rayonnement départemental (CRD) et de conservatoires à rayonnement régional (CRR). Le bénéfice de ce classement de 2006 a été initialement fixé à sept années, au terme desquelles les collectivités étaient invitées à formuler une demande de renouvellement. Toutefois, devant le constat d'un nombre faible de collectivités en mesure de redemander le classement de leur établissement dans les délais impartis, le décret modificatif n° 2013-748 du 14 août 2013 a permis de prolonger la durée du classement jusqu'au 12 octobre 2015. Il ne s'agit donc pas à proprement parler de retard, mais bien d'un délai de deux ans accordé aux collectivités. Par conséquent, ces dernières avaient la possibilité d'adresser leur demande de renouvellement de classement jusqu'à l'automne dernier. C'est d'ailleurs ce que la plupart d'entre elles ont fait, provoquant un afflux important de dossiers auprès des services du ministère. C'est grâce à leur mobilisation exceptionnelle qu'à cette date tous les CRR et CRD ont été informés du renouvellement ou non de leur classement. L'instruction des dossiers des CRC-I est quant à elle en cours de finalisation. Toutes les demandes parvenues à l'inspection de la création artistique avant le 31 août 2016 ont été traitées avant fin décembre 2016.
