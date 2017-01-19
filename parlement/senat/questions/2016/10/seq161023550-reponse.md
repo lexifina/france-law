@@ -1,0 +1,9 @@
+# Réponse à la question SEQ161023550
+
+- Question : [SEQ161023550](seq161023550.md) — Fuites d'une canalisation publique d'évacuation
+
+## Réponse
+
+*Intérieur, JO du 2017-01-19, page 210*
+
+Conformément aux dispositions de l'article L. 152-1 du code rural et de la pêche maritime, il est institué au profit des collectivités publiques, des établissements publics ou des concessionnaires de services publics qui entreprennent des travaux d'établissement de canalisations d'eau potable ou d'évacuation d'eaux usées ou pluviales, une servitude leur conférant le droit d'établir à demeure des canalisations souterraines dans les terrains privés non bâtis, excepté les cours et jardins attenant aux habitations. Toutefois, l'appartenance de l'ouvrage au réseau public d'eau et d'assainissement doit être appréciée au regard des éléments suivants. Lorsque l'ouvrage a pour seul objet de desservir la propriété qu'il traverse, il constitue un équipement propre, exclusivement placé sous la responsabilité du propriétaire du terrain qu'il dessert. Ce dernier doit, par conséquent, en assurer l'entretien et procéder aux réparations nécessaires à son bon fonctionnement. En revanche, lorsque l'ouvrage a pour effet d'alimenter plusieurs propriétés privées et excède par ses caractéristiques les seuls besoins de la propriété qu'il dessert, la jurisprudence administrative le considère comme partie intégrante du réseau public d'eau et d'assainissement. Ce dernier se trouve alors placé sous la responsabilité du gestionnaire du service public d'eau potable et d'assainissement qui doit en assurer l'entretien (CAA Bordeaux, 29 juillet 1993, commune de Manduel, n° 92BX00964). Par conséquent, les travaux réalisés sur une canalisation publique d'évacuation traversant une propriété privée ne peuvent être mis à la charge du propriétaire, uniquement si elle ne dessert que la propriété qu'elle traverse.
