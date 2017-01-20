@@ -922,7 +922,7 @@ INSEE : établissement de Toulouse de la direction régionale
 
 DGFiP : comités techniques de service déconcentré de la direction régionale des finances publiques de Haute-Garonne, de la direction interrégionale du contrôle fiscal Sud-Pyrénées, de service central de réseau, comités techniques de service à compétence nationale direction nationale d'enquêtes fiscales, direction des vérifications nationales et internationales, Ecole nationale des finances publiques, direction nationale d'interventions domaniales ;
 
-DGDDI : comités techniques de service déconcentré de la direction interrégionale de Bordeaux et du service à compétence nationale direction nationale des statistiques du commerce extérieur ;
+DGDDI : comité technique de service déconcentré de la direction interrégionale de Montpellier et du service à compétence nationale direction nationale des statistiques du commerce extérieur ;
 
 INSEE : comité technique de service déconcentré de la direction régionale de Languedoc-Roussillon-Midi-Pyrénées, situé à Toulouse
 
@@ -2502,7 +2502,7 @@ INSEE : établissement de Poitiers de la direction régionale
 
 DGFiP : comités techniques de service déconcentré de la direction départementale des finances publiques de la Vienne, de la direction des créances spéciales du Trésor et de la direction interrégionale du contrôle fiscal Sud-Ouest, comités techniques de service à compétence nationale Ecole nationale des finances publiques, direction nationale d'interventions domaniales ;
 
-DGDDI : comité technique de service déconcentré de la direction interrégionale de Nantes ;
+DGDDI : comité technique de service déconcentré de la direction interrégionale de Bordeaux ;
 
 INSEE : comité technique de service déconcentré de la direction régionale Aquitaine-Limousin-Poitou-Charentes, situé à Poitiers
 
