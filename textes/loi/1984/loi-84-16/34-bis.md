@@ -1,8 +1,10 @@
 # Article 34 bis
 
-Après six mois consécutifs de congé de maladie pour une même affection, après un congé de longue maladie ou un congé de longue durée, les fonctionnaires peuvent être autorisés, après avis du comité médical compétent, à accomplir un service à temps partiel pour raison thérapeutique, accordé pour une période de trois mois renouvelable dans la limite d'un an pour une même affection.
+Après un congé de maladie, un congé de longue maladie ou un congé de longue durée, les fonctionnaires peuvent être autorisés à accomplir un service à temps partiel pour raison thérapeutique, accordé pour une période de trois mois renouvelable dans la limite d'un an pour une même affection.
 
-Après un congé pour accident de service ou maladie contractée dans l'exercice des fonctions, le travail à temps partiel thérapeutique peut être accordé, après avis favorable de la commission de réforme compétente, pour une période d'une durée maximale de six mois renouvelable une fois.
+Après un congé pour accident de service ou maladie contractée dans l'exercice des fonctions, le travail à temps partiel thérapeutique peut être accordé pour une période d'une durée maximale de six mois renouvelable une fois.
+
+La demande d'autorisation de travailler à temps partiel pour raison thérapeutique est présentée par le fonctionnaire accompagnée d'un certificat médical favorable établi par son médecin traitant. Elle est accordée après avis concordant du médecin agréé par l'administration. Lorsque les avis du médecin traitant et du médecin agréé ne sont pas concordants, le comité médical compétent ou la commission de réforme compétente est saisi.
 
 Le temps partiel thérapeutique peut être accordé :
 
