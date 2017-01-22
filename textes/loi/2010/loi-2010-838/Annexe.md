@@ -18,14 +18,6 @@ Commission compétente en matière de transports
 
 |
 
-Présidence du conseil de l'Agence d'évaluation de la recherche et de l'enseignement supérieur
-
-|
-
-Commission compétente en matière d'enseignement et de recherche
-
-|
-
 Présidence du conseil d'administration de l'Agence de financement des infrastructures de transport de France
 
 |
@@ -122,6 +114,10 @@ Commission compétente en matière de postes et de communications électroniques
 
 |
 
+Présidence de l'Autorité de régulation des jeux en ligne |
+
+Commission compétente en matière de finances publiques |
+
 Présidence de l'Autorité de sûreté nucléaire
 
 |
@@ -170,7 +166,7 @@ Commission compétente en matière de santé publique
 
 |
 
-Administration générale du Commissariat à l'énergie atomique
+Administration générale du Commissariat à l'énergie atomique et aux énergies alternatives
 
 |
 
@@ -186,19 +182,23 @@ Commission compétente en matière d'énergie
 
 |
 
-Présidence de la commission de la sécurité des consommateurs
+Présidence de la Commission du secret de la défense nationale |
 
-|
-
-Commission compétente en matière de consommation
-
-|
+Commission compétente en matière de défense |
 
 Présidence de la Commission nationale de contrôle des techniques de renseignement
 
 |
 
 Commission permanente compétente en matière de libertés publiques |
+
+Présidence de la commission nationale des comptes de campagne et des financements politiques |
+
+Commission compétente en matière de lois électorales |
+
+Présidence de la Commission nationale de l'informatique et des libertés |
+
+Commission compétente en matière de libertés publiques |
 
 Présidence de la Commission nationale du débat public
 
@@ -264,6 +264,16 @@ Commission compétente en matière d'environnement
 
 |
 
+Présidence du haut conseil du commissariat aux comptes |
+
+Commission compétente en matière de finances publiques |
+
+Présidence du collège du Haut Conseil de l'évaluation de la recherche et de l'enseignement supérieur |
+
+Commission compétente en matière d'enseignement et de recherche
+
+|
+
 Présidence du collège de la Haute Autorité de santé
 
 |
@@ -279,12 +289,6 @@ Présidence de la Haute Autorité pour la transparence de la vie publique
 Commission permanente compétente en matière de lois constitutionnelles
 
 |
-
-Présidence de l'Institut national de l'audiovisuel
-
-|
-
-Commission compétente en matière d'activités culturelles |
 
 Présidence de l'Institut national de la recherche agronomique
 
@@ -397,7 +401,3 @@ Présidence du conseil d'administration de Voies navigables de France
 Commission compétente en matière de transports
 
 |
-
-NOTA :
-
-Les modifications apportées à cette annexe par la loi n° 2013-1028 du 15 novembre 2013 relative à l’indépendance de l’audiovisuel public sont inapplicables du fait de la décision n° 2013-677 DC du 14 novembre 2013 par laquelle le Conseil constitutionnel a déclaré contraire à la Constitution la disposition de la loi organique relative à l'indépendance de l'audiovisuel public qui ajoutait la présidence de l'Institut national de l'audiovisuel à la liste des emplois pour lesquels le pouvoir de nomination par le Président de la République est soumis à la procédure prévue au cinquième alinéa de l'article 13 de la Constitution.
