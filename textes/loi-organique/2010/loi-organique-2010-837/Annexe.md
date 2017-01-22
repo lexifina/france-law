@@ -18,14 +18,6 @@ Présidence-direction générale
 
 |
 
-Agence d'évaluation de la recherche et de l'enseignement supérieur
-
-|
-
-Présidence du conseil
-
-|
-
 Agence de financement des infrastructures de transport de France
 
 |
@@ -106,7 +98,7 @@ Présidence
 
 |
 
-Autorité de régulation des activités ferroviaires
+Autorité de régulation des activités ferroviaires et routières
 
 |
 
@@ -115,6 +107,14 @@ Présidence
 |
 
 Autorité de régulation des communications électroniques et des postes
+
+|
+
+Présidence
+
+|
+
+Autorité de régulation des jeux en ligne
 
 |
 
@@ -168,7 +168,7 @@ Présidence
 
 |
 
-Commissariat à l'énergie atomique
+Commissariat à l'énergie atomique et aux énergies alternatives
 
 |
 
@@ -182,7 +182,7 @@ Présidence du collège
 
 |
 
-Commission de la sécurité des consommateurs
+Commission du secret de la défense nationale
 
 |
 
@@ -191,6 +191,22 @@ Présidence
 |
 
 Commission nationale de contrôle des techniques de renseignement
+
+|
+
+Présidence
+
+|
+
+Commission nationale des comptes de campagne et des financements politiques
+
+|
+
+Présidence
+
+|
+
+Commission nationale de l'informatique et des libertés
 
 |
 
@@ -255,6 +271,22 @@ Présidence-direction générale
 |
 
 Haut conseil des biotechnologies
+
+|
+
+Présidence
+
+|
+
+Haut Conseil du commissariat aux comptes
+
+|
+
+Présidence
+
+|
+
+Collège du Haut Conseil de l'évaluation de la recherche et de l'enseignement supérieur
 
 |
 
