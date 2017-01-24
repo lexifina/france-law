@@ -1,0 +1,9 @@
+# Réponse à la question n° 81946
+
+- Question : [81946](81946.md) — Question n° 81946 — procédure pénale; informations; transmission; circulaires
+
+## Réponse
+
+*JO du 2017-01-24*
+
+La transmission des informations relatives aux poursuites et condamnations prononcées à l'encontre d'une personne exerçant une activité impliquant un contact habituel avec des mineurs avait été introduite dans le code de procédure pénale par la loi portant adaptation de la procédure pénale au droit de l'Union européenne mais cette disposition a été censurée par le Conseil constitutionnel au motif qu'elle ne présentait pas de lien suffisant avec l'objet du texte de loi. Cette décision du Conseil constitutionnel n'a néanmoins pas pour conséquence de rendre impossible la transmission d'informations à des autorités administratives publiques et des organismes exerçant une prérogative de puissance publique concernant des procédures pénales diligentées contre des fonctionnaires et agents publics, sur le fondement de la circulaire du 11 mars 2015. La loi du 14 avril 2016 a depuis lors instauré un nouveau cadre légal clair et efficace pour définir de manière précise les conditions dans lesquelles les parquets sont tenus ou ont la faculté, selon les cas, de transmettre des informations sur des personnes condamnées ou mises en cause. Cette transmission d'informations ne concerne pas uniquement les personnels de l'éducation nationale mais bien l'ensemble des personnes exerçant une activité impliquant un contact habituel avec des mineurs, dès lors que cette activité est soumise au contrôle d'une autorité administrative. La mise en oeuvre de cette loi s'est accompagnée de la désignation de référents au sein de l'éducation nationale et de la justice et de la mise en place de procédures sécurisées d'échanges d'informations. Il n'est pas actuellement envisagé d'extension de ce dispositif aux populations vulnérables de toute catégorie d'âge.
