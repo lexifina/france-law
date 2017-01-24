@@ -1,0 +1,9 @@
+# Réponse à la question n° 98400
+
+- Question : [98400](98400.md) — Question n° 98400 — maladies vectorielles; lutte et prévention
+
+## Réponse
+
+*JO du 2017-01-24*
+
+La surveillance humaine des arboviroses et la lutte anti vectorielle, communément appelée « LAV », s'appuient sur le dispositif législatif mis en place en 2004 par la loi no 2004-809 relative aux libertés et responsabilités locales, notamment à travers une modification de la loi no 64-1246 du 16 décembre 1964 relative à la lutte contre les moustiques. Cette loi de 1964, initialement destinée à la lutte contre les nuisances liées aux proliférations de moustiques dans des zones à intérêt touristique, a vu, en 2004, son champ élargi à la lutte contre les moustiques en lien avec le développement ou le risque de développement de maladies humaines. Pour les 66 départements de métropole encore indemnes de la présence du moustique vecteur Aedes albopictus début 2016, la direction générale de la santé a mis en place une surveillance réalisée par des opérateurs publics de démoustication ainsi qu'un système de veille citoyenne permettant aux particuliers de signaler la présence possible du moustique vecteur sur un portail Internet (signalement-moustique.fr). La détection précoce et l'intervention rapide des opérateurs publics de démoustication est à ce jour le seul moyen permettant de retarder la progression du secteur colonisé par Aedes albopictus. Le système de surveillance et la veille citoyenne ont aujourd'hui fait leurs preuves, permettant en 2016 par des interventions ciblées d'empêcher l'installation du moustique tigre dans dix nouveaux départements. Malheureusement pour trois autres départements, malgré ces interventions, le moustique vecteur s'est installé de manière irréversible et l'inscription de ces départements par arrêté interministériel sur la liste des départements où les moustiques constituent une menace pour la santé de la population est en cours.
