@@ -1,0 +1,9 @@
+# Réponse à la question n° 73757
+
+- Question : [73757](73757.md) — Question n° 73757 — arrêt maladie longue durée; perspectives
+
+## Réponse
+
+*JO du 2017-01-24*
+
+La législation relative à l'assurance vieillesse prévoit que l'interruption d'activité pour cause de maladie est assimilée à une période d'assurance pour la retraite de base du régime général : un trimestre est alors attribué pour chaque période de 60 jours durant laquelle l'assuré a perçu les indemnités journalières (non soumises à cotisations vieillesse de la part de l'assuré). Ces trimestres s'ajoutent, le cas échéant, aux trimestres déjà validés au titre de cette année, toujours dans la limite de quatre trimestres par année. Dans le cadre d'une retraite anticipée longue carrière, les périodes d'indemnisation au titre de la maladie sont réputés cotisées, à raison d'un trimestre par périodes de 60 jours indemnisés. Le nombre de maximum de trimestres à retenir au titre de la maladie et des accidents du travail est de quatre trimestres sur l'ensemble de la carrière. En effet, le Gouvernement a souhaité réserver le dispositif de retraite anticipée aux personnes qui ont commencé à travailler jeunes et dont l'importance des droits acquis par les cotisations qu'elles ont versées témoigne à la fois d'une longue activité professionnelle et d'un effort contributif conséquent. C'est la raison pour laquelle la loi impose que tout ou partie des trimestres validés par l'assuré l'ait été en contrepartie de cotisations à sa charge. Enfin, la caisse primaire d'assurance maladie dont dépend l'assuré communique à la caisse d'assurance retraite et de la santé au travail (CARSAT) les périodes durant lesquelles elle a servi des indemnités journalières à l'assuré qui lui-même reçoit également les décomptes de l'assurance maladie. En tout état de cause, les CARSAT restent les interlocuteurs des assurés sur le dispositif d'une retraite anticipée longue carrière.
