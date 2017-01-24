@@ -1,0 +1,9 @@
+# Réponse à la question n° 85203
+
+- Question : [85203](85203.md) — Question n° 85203 — protection civile; bénévoles; statut
+
+## Réponse
+
+*JO du 2017-01-24*
+
+L'association départementale de protection civile de l'Hérault (ADPC 34) appartient à la Fédération nationale de protection civile, qui bénéficie d'un agrément de sécurité civile de nouveau renouvelé par arrêté ministériel du 21 juillet 2015. Depuis la date de la question écrite, l'ADPC de l'Hérault a bénéficié d'une reconnaissance explicite par le service départemental d'incendie et de secours qui a invité, sur le dispositif prévisionnel de secours de grande envergure mis en place à l'occasion de la féria de Béziers, le président de la Fédération nationale de protection civile. Les ressources budgétaires des associations agréées de sécurité civile dépendent en partie des dispositifs prévisionnels de secours organisés à l'occasion de rassemblements de personnes, tels que des fêtes comme la feria de Béziers. Pour ces dispositifs et conformément au référentiel fixé par arrêté ministériel du 7 novembre 2006, une convention doit être conclue entre l'association et l'organisateur de la manifestation, prévoyant les prestations fournies par l'association et la participation qui lui est versée en contrepartie. Des moyens humains et matériels complémentaires tels que ceux du service départemental d'incendie et de secours (SDIS), destinés à augmenter le niveau de sécurité de la manifestation, peuvent être employés conformément à ce même référentiel. Le ministre de l'intérieur n'a pas à intervenir dans le choix de l'association par les organisateurs dans le cadre ainsi retracé. En ce qui concerne la situation à Béziers, des contacts ont été rétablis au plus haut niveau entre le directeur du SDIS et le président de la Fédération nationale de protection civile au mois d'août 2015.
