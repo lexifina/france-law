@@ -1,0 +1,9 @@
+# Réponse à la question n° 96174
+
+- Question : [96174](96174.md) — Question n° 96174 — garde alternée; pension alimentaire; avantage fiscal
+
+## Réponse
+
+*JO du 2017-01-24*
+
+Depuis l'entrée en vigueur de la loi no 2002-305 du 4 mars 2002 sur l'autorité parentale, la résidence alternée des enfants au domicile respectif de chacun des parents divorcés peut constituer un mode d'exercice de l'autorité parentale, la charge d'entretien des enfants étant alors présumée également partagée entre les parents. Sa prise en compte s'effectue donc normalement en répartissant par moitié entre les ex-conjoints les avantages fiscaux auxquels les enfants ouvrent droit (majorations du quotient, réductions et crédits d'impôt, abattements en matière d'impôts locaux). Conformément aux dispositions du deuxième alinéa du 2° du II de l'article 156 du code général des impôts (CGI), les contribuables ne peuvent alors opérer aucune déduction au titre des pensions alimentaires versées pour leurs enfants mineurs dès lors que ceux-ci sont pris en compte pour la détermination de leur quotient familial. Corrélativement et aux termes de l'article 80 septies du code précité, les pensions alimentaires ainsi versées ne sont pas imposables au nom du bénéficiaire. Toutefois, s'il apparaît que l'un des deux parents assume à titre principal la charge des enfants, celle-ci s'appréciant sans tenir compte des pensions alimentaires servies par ailleurs, les parents peuvent prévoir d'un commun accord que l'intégralité des avantages fiscaux, cités ci-dessus, sera attribuée à l'un d'eux. Dans cette situation, l'autre parent peut alors déduire la pension alimentaire qu'il verse éventuellement, cette pension étant alors imposable chez celui qui la reçoit. Ces principes sont commentés dans le Bulletin Officiel des Finances Publiques-Impôts sous la référence BOI-IR-LIQ-10-10-10, disponible sur le portail fiscal à l'adresse impots.gouv.fr.
