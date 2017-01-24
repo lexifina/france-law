@@ -1,0 +1,9 @@
+# Réponse à la question n° 60590
+
+- Question : [60590](60590.md) — Question n° 60590 — conditions d'attribution
+
+## Réponse
+
+*JO du 2017-01-24*
+
+La pension de réversion du régime général est égale à 54 % de la pension de l'assuré décédé et elle est attribuée notamment sous conditions d'âge et de ressources. Cette condition de ressources s'applique avec les souplesses nécessaires. En effet, certains revenus ne sont pas pris en compte : il s'agit notamment des pensions de réversion servies par les régimes de retraite complémentaire obligatoires des salariés et travailleurs indépendants et des revenus tirés des biens mobiliers ou immobiliers acquis par suite du décès du conjoint. Ces revenus peuvent se cumuler en totalité avec la pension de réversion, même si cela entraîne un dépassement du plafond annuel de ressources (actuellement, 20 113,60 € pour une personne seule et 32 191,76 € pour un couple). En outre, les revenus d'activité éventuellement perçus par le conjoint survivant âgé d'au moins 55 ans sont, pour leur part, retenus après un abattement de 30 %. Plus globalement, si, à l'instar de toute réglementation, les conditions d'attribution des pensions de réversion peuvent légitimement être régulièrement réinterrogées, une éventuelle évolution doit s'inscrire dans une réflexion d'ensemble et soucieuse des droits des intéressés. Ainsi, au printemps 2013, la Commission pour l'avenir des retraites présidée par Yannick MOREAU a estimé que le sujet de la réversion était complexe et sensible et n'a pas souhaité l'examiner dans son rapport. La réflexion doit néanmoins se poursuivre et elle pourra notamment porter, comme l'y invite le rapport précité, sur les différences de règles entre les régimes, l'intégration de l'ensemble des revenus du couple dans une approche qui allie à la fois maintien du niveau de vie et solidarité, la prise en compte de la variété des unions et des séparations et la question de l'assurance veuvage ou orphelin.
