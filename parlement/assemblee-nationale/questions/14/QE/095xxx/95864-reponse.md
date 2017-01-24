@@ -1,0 +1,9 @@
+# Réponse à la question n° 95864
+
+- Question : [95864](95864.md) — Question n° 95864 — minima sociaux; revalorisation
+
+## Réponse
+
+*JO du 2017-01-24*
+
+Jusqu'à cette année, la méthode la plus souvent appliquée pour la revalorisation des prestations retenait une évolution prévisionnelle de l'inflation pour l'année en cours, ce qui conduisait le plus souvent à un écart avec la réalité de l'inflation au moment de la revalorisation. Les règles hétérogènes applicables à chaque prestation rendaient par ailleurs le système peu lisible. Afin de mieux répondre à l'objectif de simplicité et de lisibilité pour les administrés, l'article 67 de la loi de finances initiale pour 2016 a procédé à l'harmonisation des modalités de revalorisation des allocations du régime de solidarité du chômage et des minima sociaux. Le montant journalier de la majorité des prestations est désormais revalorisé le 1er avril de chaque année par application du coefficient mentionné à l'article L. 161-25 du code de la sécurité sociale. Ce coefficient est égal à l'évolution de la moyenne annuelle des prix à la consommation, hors tabac, calculée sur les douze derniers indices mensuels de ces prix publiés par l'Institut national de la statistique et des études économiques l'avant-dernier mois qui précède la date de revalorisation. Cette réforme s'est accompagnée d'une règle dite de « bouclier » qui permet de neutraliser une éventuelle inflation négative, en garantissant le maintien des prestations à leur niveau antérieur. Le décret no 2016-540du 3 mai 2016 a ainsi revalorisé de 0,1 % le montant de l'allocation temporaire d'attente (ATA), de l'allocation de solidarité spécifique (ASS) et de l'allocation équivalent retraite (AER), au titre des allocations du mois d'avril. L'ASS majorée ne présente plus de bénéficiaires en 2016.
