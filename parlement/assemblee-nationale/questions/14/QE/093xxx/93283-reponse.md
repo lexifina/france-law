@@ -1,0 +1,9 @@
+# Réponse à la question n° 93283
+
+- Question : [93283](93283.md) — Question n° 93283 — prime d'activité; mise en oeuvre
+
+## Réponse
+
+*JO du 2017-01-24*
+
+Pour ce dispositif, les dépenses cumulées depuis le début de l'année s'élèvent à 2 114 M€ sur la base des données comptables couvrant la période de janvier à juin 2016 (CAF-France entière). Depuis le 1er juillet 2016, le dispositif est également étendu au territoire de Mayotte. Par ailleurs, afin de soutenir le revenu des personnes handicapées, notamment lorsqu'elles sont engagées dans un parcours professionnel, l'accès à la prime d'activité des travailleurs handicapés ou invalides a été facilité par l'adoption de mesures spécifiques. Les allocations qu'ils perçoivent (allocation aux adultes handicapés (AAH), pensions d'invalidité, rentes d'accident du travail et de maladie professionnelle) sont assimilées, de façon dérogatoire, à des revenus d'activité, dès que le salaire du travailleur atteint 0,25 SMIC net. Cette mesure est applicable depuis le 1er juillet 2016 et de manière rétroactive pour les travailleurs bénéficiant de l'AAH, et à compter du 1er octobre 2016 pour les pensionnés d'invalidité et bénéficiaires de rentes d'accident du travail et de maladie professionnelle. Dès lors, et compte tenu du caractère très récent de la mise en œuvre ce dispositif, il n'est pas encore possible de fournir une prévision d'exécution stabilisée de ce dispositif. Toutefois, la dotation en loi de finances initiale devra certainement être abondée, compte tenu de la dynamique de la prime et dans le cadre de la fin de l'exercice budgétaire 2016, une demande d'abondement en loi de finances rectificative sera portée pour permettre le remboursement à la caisse centrale de la mutualité sociale agricole et à la caisse nationale des allocations familiales des prestations servies pour le compte de l'Etat.
