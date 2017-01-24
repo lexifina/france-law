@@ -1,0 +1,9 @@
+# Réponse à la question n° 101469
+
+- Question : [101469](101469.md) — Question n° 101469 — minorité religieuse; attitude de la France
+
+## Réponse
+
+*JO du 2017-01-24*
+
+La situation de la communauté rohingya fait l'objet d'un suivi particulièrement attentif de la part de la France. Celle-ci a exprimé, publiquement et lors d'entretiens avec les autorités birmanes, sa préoccupation sur le sort des personnes appartenant à cette communauté et continue de le faire. Ainsi, face à l'escalade des violences dans l'Arakan, le ministère des affaires étrangères et du développement international a exprimé le 17 novembre dernier, puis le 5 janvier, la grande préoccupation de la France sur la situation des personnes appartenant à la minorité rohingya. Il a également appelé à l'arrêt immédiat de ces violences, à la protection des populations civiles et au respect de l'État de droit, en demandant que toute la lumière soit faite sur les événements récents et que l'accès humanitaire soit assuré dans cette zone. L'ambassadeur en Birmanie a réitéré la préoccupation de la France auprès des autorités civiles et militaires. La France intervient par ailleurs activement en matière d'aide humanitaire en Birmanie. Cette assistance bénéficie directement aux populations, sous forme d'aide alimentaire, de formations médicales, d'aide d'urgence apportée par des ONG françaises et le financement de projets d'organisations de la société civile birmane. Dans ce cadre, 200 000 € supplémentaires ont été attribués fin 2016 au bénéfice des populations de l'Arakan. En 2015, 1,15 M€ ont été attribués à la Birmanie au titre de l'aide alimentaire programmée à travers le CIAA (Comité interministériel de l'aide alimentaire). A la faveur de l'accession au pouvoir civil du parti d'Aung San Suu Kyi et de la visite du Ministre en 2016, ce montant a été porté à 1,4 M€.
