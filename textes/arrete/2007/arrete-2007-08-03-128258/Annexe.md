@@ -119,3 +119,13 @@ Pointe-à-Pitre-Philipsburg (Saint-Martin) ;
 Pointe-à-Pitre-Sainte-Lucie ;
 
 Fort-de-France-Philipsburg (Saint-Martin).
+
+Jusqu'au 31 janvier 2022 :
+
+- Saint-Denis de La Réunion-Antananarivo (Madagascar) ;
+
+A compter du 26 mars 2017 et jusqu'au 31 mars 2022 :
+
+- Paris-La Havane (Cuba), dans la limite de deux fréquences hebdomadaires ;
+
+- Dans la limite de cinq fréquences hebdomadaires au total sur les liaisons Paris-Santiago de Cuba (Cuba), Paris-Santa Clara (Cuba) et Paris-Varadero (Cuba).
