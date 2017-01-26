@@ -1,0 +1,9 @@
+# Réponse à la question SEQ151018279
+
+- Question : [SEQ151018279](seq151018279.md) — Sites internet dédiés à la lutte contre les discriminations
+
+## Réponse
+
+*Justice, JO du 2017-01-26, page 304*
+
+Le 31 décembre 2014, lors de ses vœux aux Français, le président de la République a fait de la lutte contre le racisme, l'antisémitisme et plus largement, en faveur de toutes les victimes de discriminations à raison de leur couleur de peau, de leurs origines ou de leurs croyances, une grande cause nationale pour l'année 2015. Dans ce contexte, la chancellerie a été saisie pour mettre en place une plateforme publique en ligne dédiée à l'information, la prévention et l'orientation des victimes de discrimination vers les lieux de justice agréés et conventionnés (MJD, BAV, INAVEM), à l'instar de www.stop-harcelement-sexuel.gouv.fr/ (sur la loi du 6 août 2012) ou stop-djihadisme (contre la radicalisation). La plateforme a été ouverte le 9 septembre 2015, avec pour objectif d'informer le grand public sur la lutte contre la discrimination. En vertu de la séparation des pouvoirs et de l'indépendance de la justice, le site ne diffuse aucune information sur l'activité judiciaire des tribunaux. Une récompense a été attribuée le 6 juillet 2016 : prix de bronze pour la campagne citoyenne 2016 « catégorie Organismes gouvernementaux et assimilés ». Ce site, réalisé indépendamment de celui du Défenseur des droits, autorité constitutionnelle indépendante, a pour but d'informer le justiciable sur les différentes formes de discriminations et sur les actions ouvertes aux personnes qui en sont victimes. Il présente également les actions mises en œuvre par le ministère de la justice dans le cadre de la lutte contre la discrimination et oriente les victimes vers les nombreuses structures d'écoute et d'accompagnement mises à leur disposition.
