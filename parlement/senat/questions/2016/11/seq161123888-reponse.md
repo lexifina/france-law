@@ -1,0 +1,9 @@
+# Réponse à la question SEQ161123888
+
+- Question : [SEQ161123888](seq161123888.md) — Modalités d'échange d'un permis de conduire non européen
+
+## Réponse
+
+*Affaires étrangères, JO du 2017-01-26, page 266*
+
+Le ministère des affaires étrangères et du développement international, en liaison avec la délégation à la sécurité et à la circulation routières du ministère de l'intérieur, poursuit l'objectif de développer et de conclure des accords de reconnaissance et d'échange des permis de conduire avec des autorités qui partagent nos exigences en matière de sécurité routière, de formation des conducteurs et de sécurisation des titres, en particulier les États fédérés américains et les provinces canadiennes. La négociation d'un accord d'échange des permis de conduire entre la France et une autorité étrangère est subordonnée à l'existence d'un intérêt réciproque de la part de cette autorité. Or, malgré des démarches réitérées de nos services consulaires, plusieurs États américains ont déjà indiqué au cours des dernières années qu'ils n'estimaient pas opportun de conclure avec la France un accord d'échange des permis de conduire. En outre, dans le cadre de la directive 2006/126/CE et de la mise en place du permis de conduire européen sécurisé au format unique, la nécessaire harmonisation des conditions d'obtention du permis de conduire à l'échelle européenne appelle un examen vigilant des modalités de délivrance et de sécurisation des titres étrangers qui seraient susceptibles d'être échangés contre des permis français. Par ailleurs, afin de faciliter davantage les déplacements de nos ressortissants hors de France, une nouvelle règlementation est entrée en vigueur au 1er juillet 2016 sur la reconnaissance et l'échange du permis de conduire français à l'étranger qui répond à certaines difficultés rencontrées en cas de perte ou de vol du permis et qui assouplit la procédure de rétablissement des droits à conduire lors de la réinstallation en France.
