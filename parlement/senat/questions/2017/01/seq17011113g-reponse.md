@@ -1,0 +1,23 @@
+# Réponse à la question SEQ17011113G
+
+- Question : [SEQ17011113G](seq17011113g.md) — Relations entre la France et  les États-Unis
+
+## Réponse
+
+*Premier ministre, JO du 2017-01-27, page 979*
+
+M. Bernard Cazeneuve, Premier ministre. Monsieur le sénateur, vous m'interrogez sur un sujet qui suscite une grande inquiétude au sein de la communauté internationale, et plus particulièrement de l'Union européenne.Le président Trump, pendant sa campagne et depuis qu'il est entré en fonction, a multiplié les déclarations qui surprennent, inquiètent et appellent ceux qui sont attachés à un ordre du monde articulé autour des valeurs de liberté, de tolérance et de respect à porter haut ces valeurs dans le dialogue permanent qu'entretiennent les grandes nations. C'est la volonté de la France de le faire.
+
+Tout d'abord, les Européens doivent prendre en main leur destin. C'est la politique constante de la France et, avec elle, de l'Allemagne.
+
+Cela signifie que nous devons impérativement faire en sorte que l'Europe soit en situation de protéger son territoire. Face à la menace terroriste, nous devons être capables d'assurer le contrôle des frontières extérieures de l'Union européenne. FRONTEX, qui est désormais dotée d'un budget de 250 millions d'euros et de 1 700 gardes-côtes et gardes-frontières, doit monter en puissance. C'est la raison pour laquelle, lorsque j'étais ministre de l'intérieur, j'avais demandé, avec mon homologue allemand Thomas de Maizière, que nous menions des exercices grandeur nature, afin d'éprouver la fiabilité de ce dispositif de contrôle.
+
+Nous devons non seulement contrôler les frontières extérieures de l'Union européenne, mais également mettre en œuvre la modification de l'article 7-2 du code frontières Schengen. Nous devons organiser aux frontières extérieures de l'Union européenne le contrôle de toutes les entrées, y compris – j'insiste sur ce point – celles de ressortissants de l'Union européenne qui reviennent de théâtres d'opérations djihadistes avec la volonté de nous frapper.
+
+L'interconnexion des fichiers, la mise en œuvre du PNR, la directive sur les armes à feu sont autant de sujets essentiels sur lesquels nous devons agir vite. En effet, le temps de la décision des institutions de l'Union européenne n'est pas toujours le temps des urgences auxquelles nous sommes confrontées, du fait des menaces que l'on sait.
+
+Nous devons ensuite défendre le modèle de société auquel nous sommes attachés. Vous évoquiez la défense de nos intérêts économiques. Ainsi, lorsque des traités sont soumis à la délibération de l'Union européenne, comme cela a été le cas pour le TAFTA, nous devons impérativement nous battre pour que nos intérêts économiques et industriels soient préservés. Si les États-Unis adoptent une approche consistant à se replier sur eux-mêmes pour défendre les intérêts de leurs filières – celles-ci ne manqueront d'ailleurs pas, je pense, de rappeler au président Trump tous les dangers du protectionnisme –, nous devrons apporter une réponse adéquate en sortant d'une forme de naïveté et d'angélisme et en étant capables de promouvoir nos filières d'excellence avec toute la force de l'Union européenne. De ce point de vue, la mise en place du plan Juncker de 300 milliards d'euros, destiné à conforter ces filières, sera un élément déterminant de notre politique.
+
+En ce qui concerne le climat, les propos tenus par le président Trump au sujet de la COP 21 ne peuvent être acceptés. Compte tenu du rôle déterminant joué par la France au moment de la conclusion de l'accord de la COP 21, nous agirons, au sein de l'Union européenne, pour que l'ensemble des décisions prises à cette occasion soient rigoureusement appliquées.
+
+Enfin, la défense européenne ne doit plus être un simple concept, mais une réalité. Ainsi, des pays ne doivent pas être conduits, parce qu'ils disposent d'une capacité de projection de leurs forces, à en assumer seuls la responsabilité pour la totalité du continent européen. Si les choses ont beaucoup progressé de ce point de vue sous l'impulsion du président français, nous devons aller plus loin et être capables, avec le Fonds européen de la défense, de faire des investissements et de réaliser des unions entre les industries de défense, pour être à la hauteur des défis auxquels nous sommes confrontés. Le Président de la République est déterminé à continuer à agir selon cet agenda extrêmement précis, avec la Chancelière et l'ensemble des chefs d'État concernés de l'Union européenne, comme il le fait déjà depuis quatre ans et demi. L'actualité à laquelle nous sommes confrontés doit nous amener à atteindre ces objectifs plus rapidement encore. (Applaudissements sur les travées du groupe socialiste et républicain.)
