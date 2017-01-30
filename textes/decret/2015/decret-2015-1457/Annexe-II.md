@@ -98,38 +98,4 @@ Article R. 4321-129
 
 |
 
-3 mois
-
-|
-
-2° Ordres des géomètres-experts
-
-OBJET DE LA DEMANDE
-
-|
-
-DISPOSITIONS APPLICABLES
-
-|
-
-DÉLAI À L'EXPIRATION
-
-duquel la décision d'acceptation est acquise
-
-|
-
-Code de l'urbanisme
-
-|
-
-Inscription au tableau de l'ordre des géomètres-experts
-
-|
-
-Articles 3,15,19 et 20 de la loi n° 46-942 du 7 mai 1946 instituant l'ordre des géomètres-experts
-
-|
-
-4 mois
-
-|
+3 mois |
