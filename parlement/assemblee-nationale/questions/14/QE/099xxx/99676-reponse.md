@@ -1,0 +1,9 @@
+# Réponse à la question n° 99676
+
+- Question : [99676](99676.md) — Question n° 99676 — certificats médicaux; perspectives
+
+## Réponse
+
+*JO du 2017-01-31*
+
+Les dernières dispositions législatives et règlementaires relatives au certificat médical de non contre-indication à la pratique sportive dans une logique de simplification, ont fait évoluer la fréquence de renouvellement des certificats médicaux de non contre indication à la pratique sportive. Pour autant, lorsqu'il est exigé, le certificat médical présenté à l'appui d'une demande doit dans tous les cas, dater de moins d'un an. Tel est le cas pour l'obtention d'une première licence, pour le renouvellement triennal de cette même licence (lorsqu'un questionnaire de santé n'est pas rempli) ou pour la participation à une compétition autorisée par une fédération délégataire ou organisée par une fédération agréée à défaut de présentation d'une licence sportive dans la discipline concernée. En ce qui concerne la différence de traitement entre les licenciés et les non licenciés, celle-ci est ancienne. En effet, les sportifs non licenciés ne pratiquant pas en compétition ne sont pas soumis aux différentes dispositions législatives et réglementaires relatives au certificat médical de non contre- indication à la pratique sportive. Cependant, rien n'interdit aux clubs sportifs, affiliés ou non à une fédération sportive, d'appliquer à ses adhérents non licenciés et non compétiteurs les dispositions du code du sport relatives au certificat médical, en vigueur. C'est d'ailleurs le cas pour de très nombreux clubs qui adoptent cette mesure dans leur règlement intérieur par mimétisme ou parce que leur assureur l'exige. De plus, il est à rappeler que tout établissement d'activités physiques et sportives doit informer les pratiquants des capacités requises pour la pratique des activités qu'ils organisent (article A. 322-3 du code du sport).
