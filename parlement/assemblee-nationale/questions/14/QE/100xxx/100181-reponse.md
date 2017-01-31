@@ -1,0 +1,9 @@
+# Réponse à la question n° 100181
+
+- Question : [100181](100181.md) — Question n° 100181 — véhicules écologiques; perspectives
+
+## Réponse
+
+*JO du 2017-01-31*
+
+La ministre de l'environnement, de l'énergie et de la mer, chargée des relations sur le climat, encourage le développement des véhicules à faibles émissions, c'est-à-dire les véhicules émettant moins de 60 gC02/km. Toutes ses décisions sont cohérentes et vont dans ce sens. Le décret relatif aux véhicules de moins de 3,5 tonnes pris en application de l'article 37 de la loi relative à la transition énergétique pour la croissance verte définit un véhicule à faibles émissions comme un véhicule émettant moins de 60 g de CO2/km. À travers le système du bonus / malus automobile, et dans le cadre plus général de sa politique en faveur de la transition écologique, le Gouvernement souhaite favoriser, via une aide à l'acquisition et à la location de véhicules peu polluants, le choix d'un véhicule neuf peu émetteur de CO2 et désinciter, via un malus, l'achat de modèles plus polluants. Le dispositif d'aide à l'acquisition et à la location de véhicules peu polluants vise à stimuler l'innovation technologique des constructeurs et encourage les efforts des constructeurs visant à la mise sur le marché de véhicules toujours moins émetteurs de CO2. En 2017, les véhicules émettant plus de 60 gCO2/km ne percevront plus d'aide. Les charges relatives à l'exploitation d'un parc automobile sont déductibles des bénéfices imposables. La déductibilité fiscale des amortissements sur les voitures particulières est plafonnée. Le plafonnement est fixé par l'article 39 du code général des impôts. En 2017, deux plafonds de déduction sont introduits :- amortissement à hauteur d'un prix d'acquisition plafonné à 30 000 € pour les véhicules émettant au maximum 20 gCO2/km, - amortissement à hauteur d'un prix d'acquisition plafonné à 20 600 € pour les véhicules émettant moins de 60 gCO2/km.
