@@ -1,0 +1,9 @@
+# Réponse à la question n° 97618
+
+- Question : [97618](97618.md) — Question n° 97618 — droits de mutation; taxe additionnelle; fonds départemental; répartition
+
+## Réponse
+
+*JO du 2017-01-31*
+
+L'article 1595 bis du code général des impôts prévoit, pour les communes de moins de 5 000 habitants, la perception du produit de la taxe additionnelle aux droits d'enregistrement ou à la taxe de publicité foncière au profit d'un fonds départemental de péréquation. Les ressources de ce fonds sont par la suite réparties entre ces communes par délibération du conseil départemental en fonction de critères tenant compte notamment de la population, du montant des dépenses d'équipement brut et de l'effort fiscal fourni par la collectivité bénéficiaire. Ces dispositions ne sont pas applicables aux communes classées station de tourisme qui perçoivent directement le produit de cette taxe additionnelle à l'instar des communes ayant plus de 5 000 habitants. Les critères de répartition du fonds départemental de péréquation sont définis librement par le conseil départemental dans le respect des critères légaux ci-avant définis. Les attributions versées aux communes de moins de 5 000 habitants peuvent varier en fonction des critères retenus par le conseil départemental. Surtout, elles ne sont pas nécessairement égales au produit de la taxe additionnelle aux droits d'enregistrement ou à la taxe de publicité foncière perçu sur le territoire communal. En changeant de strate démographique, la commune perçoit le produit de la taxe additionnelle réellement perçu sur son territoire et ne peut donc se prévaloir d'une quelconque perte. En conséquence, le Gouvernement ne souhaite pas modifier le droit existant en faveur des communes changeant de strate démographique, dès lors que le passage à une perception directe du produit de la taxe ne peut être considéré comme leur portant nécessairement préjudice.
