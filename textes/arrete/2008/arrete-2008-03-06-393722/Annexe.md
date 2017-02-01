@@ -832,6 +832,12 @@ Les modalités de réception, stockage et prise en charge de ces prélèvements 
 
 L'établissement de préparation des autovaccins à usage vétérinaire assure, préalablement à toute mise en culture, la caractérisation de la souche pathogène isolée selon des procédures adaptées.
 
+4.44-1. Pour les souches bactériennes isolées à partir de prélèvements d'origine bovine, caprine ou ovine, l'ensemencement des milieux de fabrication de la biomasse et/ ou toute congélation de la masse bactérienne (en vue de constituer une souchothèque) sont réalisés après 8 passages au minimum, en milieux solides ou liquides, en minimisant autant que possible la prise d'essai à chaque opération.
+
+4.44-2. Le matériel utilisé pendant la mise en œuvre des 8 premiers passages est exclusivement à usage unique.
+
+4.44-3. Les matières premières provenant de ruminants utilisées lors de la préparation des autovaccins destinés à des ruminants, sont certifiées conformes avec la monographie relative aux risques d'encéphalopathie spongiforme animale transmissible de la Pharmacopée Européenne (certificat CEP TSE) (à l'exception de la bactérie issue du prélèvement d'origine bovine, caprine ou ovine constituant le principe actif).
+
 4.45. Les matières premières et articles de conditionnement ne sont achetés qu'auprès de fournisseurs agréés, cités dans les spécifications correspondantes. Lors du choix d'une matière première, le système d'assurance de la qualité du fournisseur fait l'objet d'une attention particulière. La performance du système d'assurance de la qualité détermine la nature et l'importance des contrôles documentaires (certificats d'analyses notamment) et des analyses requises pour le contrôle de la qualité.
 
 Il est également utile que tous les aspects de la production et du contrôle, y compris la manutention, l'étiquetage, les exigences de conditionnement ainsi que les procédures de réclamation et de refus, soient définis avec le producteur ou le fournisseur.
