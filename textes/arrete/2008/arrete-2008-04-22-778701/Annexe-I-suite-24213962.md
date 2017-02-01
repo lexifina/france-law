@@ -986,8 +986,6 @@ LIMITES DE CONNAISSANCES
 
 |
 
-.
-
 S6 - connaissance du milieu professionnel
 
 CONNAISSANCES
@@ -998,387 +996,491 @@ LIMITES DE CONNAISSANCES
 
 |
 
-1 Connaissance de l'entreprise
+1.
 
 |
 
-1.1 Formes juridique et commerciale
-
-- Entreprises individuelles
-
-- Entreprises sociétaires
-
-- Formes de commerce (indépendant, associé, intégré)
+CONNAISSANCE DE L'ENTREPRISE
 
 |
 
-- Définir les différentes formes.
+|
 
-- Énumérer les caractéristiques de chacune.
+1.1.
 
 |
 
-1.2 Régimes d'imposition
+Formes juridique et commerciale :
+
+-entreprises individuelles
+
+-entreprises sociétaires
+
+-formes de commerce (indépendant, associé, intégré)
 
 |
 
-- Nommer les différents régimes d'imposition.
+Définir les différentes formes.
 
-- Indiquer leurs caractéristiques.
-
-|
-
-1.3 Démarches administratives d'installation
-
-- Artisanat
-
-- Commerce
+Enumérer les caractéristiques de chacune.
 
 |
 
-- Citer pour chaque catégorie les organismes d'immatriculation.
+1.2.
 
 |
 
-1.4 Organigramme de l'entreprise
+Régimes d'imposition
 
 |
 
-- Interpréter un organigramme.
+Nommer les différents régimes d'imposition.
 
-- Se situer dans une entreprise.
-
-|
-
-1.5 Organismes de contrôle
-
-- Union de recouvrement (URSSAF)
-
-- Centre des impôts
-
-- Inspection du travail
-
-- DGCCRF, DDCCRF
-
-- AFSSAPS
+Indiquer leurs caractéristiques.
 
 |
 
-- Énumérer les différents organismes de contrôle.
-
-- Préciser les obligations de l'entreprise par rapport à ces organismes.
+1.3.
 
 |
 
-1.6 Obligations du chef d'entreprise
+Démarches administratives d'installation :
 
-1.6.1 Assurances
+-artisanat
 
-- Responsabilité civile
-
-- Responsabilité des biens
-
-- Responsabilité des locaux
-
-1.6.2 Documents à disposition des organismes de contrôle et/ou du personnel
-
-- Registre du personnel
-
-- Registre de sécurité
-
-- Plan d'évacuation des locaux
-
-- Registre d'évaluation des risques
-
-- Déclaration unique d'embauche
-
-- Attestation de visite d'embauche et de visites médicales
-
-- Tableau d'affichage
-
-- Convention collective
-
-- Registre du délégué du personnel
-
-- Attestation UV
-
-- Répartition des congés
-
-- Planning d'activités
-
-- Règlement intérieur
-
-- Affichage des prix
+-commerce
 
 |
 
-- Indiquer le rôle de chaque type d'assurances.
-
-- Repérer sur un extrait de contrat les risques couverts, les garanties.
-
-- Indiquer l'organisme de contrôle référent pour chaque document.
-
-- Justifier le caractère obligatoire de la mise à disposition de ces documents.
+Citer pour chaque catégorie les organismes d'immatriculation.
 
 |
 
-1.7 Contrats de travail
+1.4.
 
 |
 
-Cf. Vie sociale et professionnelle.
+Organigramme de l'entreprise
 
 |
 
-.
+Interpréter un organigramme.
 
-CONNAISSANCES
-
-|
-
-LIMITES DE CONNAISSANCES
+Se situer dans une entreprise.
 
 |
 
-2 Outils de gestion
+1.5.
 
 |
 
-2.1 Pour les fournisseurs
+Organismes de contrôle :
 
-- Bon de commande
+-Union de recouvrement (URSSAF)
 
-- Bon de livraison
+-Centre des impôts
 
-- Factures
+-Inspection du travail
 
-- Bon de retour
+-DGCCRF, DDCCRF
 
-|
-
-- Exploiter les différentes informations des documents de gestion.
-
-- Définir la finalité de chacun des outils.
-
-- Indiquer le mode de renseignement de chacun.
+-ANSM
 
 |
 
-2.2 En interne
+Enumérer les différents organismes de contrôle.
 
-- Fiches d'inventaire
-
-- Logiciels (financier, personnel de l'entreprise, produits, clientèle...)
-
-- Planning
+Préciser les obligations de l'entreprise par rapport à ces organismes.
 
 |
 
-- Indiquer la fonction de chacun de ces outils.
-
-- Interpréter des données, des informations.
+1.6.
 
 |
 
-.
-
-CONNAISSANCES
+Obligations du chef d'entreprise :
 
 |
 
-LIMITES DE CONNAISSANCES
+|
+
+1.6.1.
 
 |
 
-3 Agencement des espaces professionnels (esthétique et parfumerie)
+Assurances :
+
+-responsabilité civile
+
+-responsabilité des biens
+
+-responsabilité des locaux
 
 |
 
-3.1 Différents espaces professionnels
+Indiquer le rôle de chaque type d'assurances.
 
-- Accueil
-
-- Espace détente
-
-- Espace de vente
-
-- Cabines de soins esthétiques
-
-- Zones de stockage
-
-- Sanitaires
-
-- Local à destination du personnel
+Repérer sur un extrait de contrat les risques couverts, les garanties.
 
 |
 
-- Énumérer les différents espaces.
-
-- À partir d'exemple(s), commenter l'agencement.
+1.6.2.
 
 |
 
-3.2 Équipement des différents espaces professionnels
+Documents à disposition des organismes de contrôle et/ ou du personnel :
 
-- Mobilier
+-registre du personnel
 
-- Matériel
+-registre de sécurité
 
-|
+-plan d'évacuation des locaux
 
-- Énumérer l'équipement nécessaire à l'aménagement fonctionnel d'un espace professionnel donné.
+-registre d'évaluation des risques
 
-|
+-déclaration unique d'embauche
 
-3.3 Facteurs d'ambiance
+-attestation de visite d'embauche et de visites médicales
 
-- Ambiances visuelle, olfactive, sonore
+-tableau d'affichage
 
-- Facteurs de confort (matériau, linge, boissons chaudes et rafraîchissements...)
+-convention collective
 
-|
+-registre du délégué du personnel
 
-- Indiquer le rôle des facteurs d'ambiance.
+-diplômes exigés pour l'exercice du métier d'esthéticien, attestation de reconnaissance de qualification
 
-- À partir de situations données, argumenter le choix ou proposer et justifier les facteurs d'ambiance.
+-répartition des congés
 
-|
+-planning d'activités
 
-.
+-règlement intérieur
 
-CONNAISSANCES
-
-|
-
-LIMITES DE CONNAISSANCES
+-affichage des prix
 
 |
 
-4 Hygiène en milieu professionnel
+Indiquer l'organisme de contrôle référent pour chaque document.
+
+Justifier le caractère obligatoire de la mise à disposition de ces documents.
 
 |
 
-4.1 Risques de contamination dans l'exercice professionnel
-
-- dispositions réglementaires relatives à l'hygiène générale par référence au règlement sanitaire en vigueur
+1.7.
 
 |
 
-- Énoncer les risques de contamination pouvant survenir (pour le client et le professionnel).
-
-- Énoncer les principes d'hygiène générale relatifs à la profession.
+Contrats de travail
 
 |
 
-4.2 Traitement des contaminations
-
-- La stérilisation à froid
+Cf. Prévention Santé Environnement
 
 |
 
-- Énoncer le but recherché.
-
-- Décrire le protocole de la stérilisation à froid.
+2.
 
 |
 
-4.3 Hygiène du matériel
-
-- Appareils
-
-- Instruments
-
-- Accessoires
+OUTILS DE GESTION
 
 |
 
-- Décrire et justifier les opérations de décontamination, de désinfection liées à l'usage des matériels (protocoles).
+|
+
+2.1.
 
 |
 
-4.4 Hygiène du linge
+Pour les fournisseurs :
+
+-bon de commande
+
+-bon de livraison
+
+-factures
+
+-bon de retour
 
 |
 
-- Énoncer et justifier le protocole d'entretien du linge utilisé lors de la pratique professionnelle.
+Exploiter les différentes informations des documents de gestion.
+
+Définir la finalité de chacun des outils.
+
+Indiquer le mode de renseignement de chacun.
 
 |
 
-4.5 Hygiène des locaux et des équipements
+2.2.
 
 |
 
-- Énoncer et justifier le protocole d'entretien des locaux et des équipements (volume de rangement, mobilier).
+En interne :
+
+-fiches d'inventaire
+
+-logiciels (financier, personnel de l'entreprise, produits, clientèle ...)
+
+-planning
 
 |
 
-.
+Indiquer la fonction de chacun de ces outils.
 
-CONNAISSANCES
-
-|
-
-LIMITES DE CONNAISSANCES
+Interpréter des données, des informations.
 
 |
 
-5 Législation professionnelle en vigueur et son actualisation pour l'exercice de la profession
+3.
 
 |
 
-- Loi du 5 juillet 1996 relative au développement et à la promotion du commerce et de l'artisanat et décret d'application du 2 avril 1998 relatif à la qualification professionnelle exigée pour l'exercice des activités prévues par l'article 16 de la loi du 5 juillet 1996
-
-- Loi du 5 août 2005 qui modifie la loi de 1996 et définit les actes de l'esthéticienne
-
-- Arrêté du 6 janvier 1962 modifié par l'arrêté du 22 février 2000 fixant la liste des actes médicaux ne pouvant être pratiqués que par des médecins ou pouvant être pratiqués également par des auxiliaires médicaux ou par des directeurs de laboratoires d'analyses médicales non médecins
-
-- Décret du 30 mai 1997 relatif à la vente et à la disposition du public de certains appareils de bronzage utilisant des rayonnements UV et arrêté du 10 septembre 1997 relatif à la formation du personnel utilisant des appareils de bronzage UV mis à la disposition du public
-
-- Décret du 5 novembre 2001 portant création d'un document relatif à l'évaluation des risques pour la santé et la sécurité des travailleurs prévu par l'article L. 230-2 du Code du travail et décret du 23 décembre 2003 relatif à la prévention du risque chimique et modifiant le Code du travail
-
-- Tout autre texte en vigueur et actualisé
+AGENCEMENT DES ESPACES PROFESSIONNELS (ESTHÉTIQUE ET PARFUMERIE)
 
 |
 
-- Citer, pour chacun des textes en vigueur, la ou les disposition(s) réglementaire(s) relative(s) à l'exercice de la profession.
+|
+
+3.1.
 
 |
 
-.
+Différents espaces professionnels :
 
-CONNAISSANCES
+-accueil
 
-|
+-espace détente
 
-LIMITES DE CONNAISSANCES
+-espace de vente
 
-|
+-cabines de soins esthétiques
 
-6 Culture professionnelle
+-zones de stockage
 
-|
+-sanitaires
 
-- Fournisseurs, délégués commerciaux et technico-commerciaux
-
-- Animateurs, formateurs
-
-- Distributeurs
-
-- Presse professionnelle
-
-- Évènements professionnels
+-local à destination du personnel
 
 |
 
-- Citer le rôle de chacun dans le milieu professionnel.
+Enumérer les différents espaces.
 
-- Nommer les grands groupes industriels et les principales entreprises qui les composent.
+A partir d'exemple (s), commenter l'agencement.
 
-- Différencier les marques de parfumeries sélectives et les marques de la cabine.
+|
 
-- Nommer les principaux distributeurs de la parfumerie et de l'esthétique sur le marché.
+3.2.
 
-- Nommer les principaux magazines et évènements professionnels.
+|
+
+Equipement des différents espaces professionnels
+
+-mobilier
+
+-matériel
+
+|
+
+Enumérer l'équipement nécessaire à l'aménagement fonctionnel d'un espace professionnel donné.
+
+|
+
+3.3.
+
+|
+
+Facteurs d'ambiance
+
+-ambiances visuelle, olfactive, sonore
+
+-facteurs de confort (matériau, linge, boissons chaudes et rafraîchissements ...)
+
+|
+
+Indiquer le rôle des facteurs d'ambiance.
+
+A partir de situations données, argumenter le choix ou proposer et justifier les facteurs d'ambiance.
+
+|
+
+4.
+
+|
+
+HYGIÈNE EN MILIEU PROFESSIONNEL
+
+|
+
+|
+
+4.1.
+
+|
+
+Risques de contamination dans l'exercice professionnel :
+
+-dispositions réglementaires relatives à l'hygiène générale par référence au règlement sanitaire en vigueur
+
+|
+
+Enoncer les risques de contamination pouvant survenir (pour le client et le professionnel).
+
+Enoncer les principes généraux d'hygiène générale relatifs à la profession.
+
+|
+
+4.2.
+
+|
+
+Traitement des contaminations :
+
+-la stérilisation à froid
+
+|
+
+Enoncer le but recherché.
+
+Décrire le protocole de la stérilisation à froid.
+
+|
+
+4.3.
+
+|
+
+Hygiène du matériel :
+
+-appareils
+
+-instruments
+
+-accessoires
+
+|
+
+Décrire et justifier les opérations de décontamination, de désinfection liées à l'usage des matériels (protocoles).
+
+|
+
+4.4.
+
+|
+
+Hygiène du linge
+
+|
+
+Enoncer et justifier le protocole d'entretien du linge utilisé lors de la pratique professionnelle.
+
+|
+
+4.5.
+
+|
+
+Hygiène des locaux et des équipements
+
+|
+
+Enoncer et justifier le protocole d'entretien des locaux et des équipements (volume de rangement, mobilier).
+
+|
+
+5.
+
+|
+
+RÉGLEMENTATION DE LA PROFESSION D'ESTHÉTICIEN (NE)
+
+|
+
+|
+
+5.1.
+
+|
+
+Tout texte réglementaire en vigueur
+
+|
+
+Préciser les conditions requises pour exercer l'activité d'esthéticien (ne)
+
+Préciser les champs d'intervention professionnelle des esthéticiens (nes) en les différenciant de ceux des professions médicales ou paramédicales
+
+|
+
+5.2.
+
+|
+
+Réglementation des produits cosmétiques
+
+|
+
+|
+
+|
+
+Le règlement (CE n° 1223/2009) du Parlement européen et du Conseil du 30.11.2009 relatif aux produits cosmétiques, entrée en vigueur du 11.07.2013
+
+|
+
+Présenter la réglementation européenne
+
+Identifier les obligations qui relèvent de la responsabilité de l'esthéticien (ne) dans son exercice professionnel
+
+Mettre en relation l'objectif de santé publique et l'existence d'une réglementation sur les produits cosmétiques
+
+Mettre en œuvre la démarche de cosmétovigilance
+
+|
+
+|
+
+Définition du produit cosmétique, du médicament
+
+|
+
+Comparer la définition du produit cosmétique et celle du médicament
+
+|
+
+6.
+
+|
+
+CULTURE PROFESSIONNELLE
+
+|
+
+|
+
+|
+
+Fournisseurs, délégués commerciaux et technico-commerciaux :
+
+-animateurs, formateurs
+
+-distributeurs
+
+-presse professionnelle
+
+-événements professionnels
+
+|
+
+Citer le rôle de chacun dans le milieu professionnel.
+
+Nommer les grands groupes industriels et les principales entreprises qui les composent.
+
+Différencier les marques de parfumeries sélectives et les marques de la cabine.
+
+Nommer les principaux distributeurs de la parfumerie et de l'esthétique sur le marché.
+
+Nommer les principaux magazines et événements professionnels.
 
 |
 
