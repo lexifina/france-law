@@ -132,9 +132,19 @@ II - Indemnité d'engagement de service public exclusif correspondant à un serv
 
 |
 
-296,01
+|
+
+Indemnité mentionnée au 1° de l'article 1er de l'arrêté du 14 février 2013 relatif à l'indemnité d'engagement de service public exclusif mentionnée à l'article D. 6152-220-1 du code de la santé publique
 
 |
+
+296,01 |
+
+Indemnité mentionnée au 2° de l'article 1er de l'arrêté du 14 février 2013 relatif à l'indemnité d'engagement de service public exclusif mentionnée à l'article D. 6152-220-1 du code de la santé publique
+
+|
+
+422,52 |
 
 III - Indemnité pour activité exercée sur plusieurs établissements (montant brut mensuel)
 
