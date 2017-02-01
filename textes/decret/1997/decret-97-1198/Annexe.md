@@ -978,6 +978,20 @@ Refus d'inscription ou de renouvellement d'inscription des voitures de transport
 
 Article R. 3122-2 |
 
+2
+
+|
+
+Décision d'interdiction ou de limitation des services librement organisés assurant une liaison de 100 kilomètres ou moins et portant atteinte à l'équilibre économique de services publics réguliers de transport de personnes organisés par l'Etat. |
+
+Article R. 3111-37 (10°) |
+
+3 |
+
+Délivrance des autorisations pour l'exécution de services internationaux de transport routier de voyageurs lorsque la demande d'autorisation est effectuée en France. |
+
+Article R. 3111-57 |
+
 Décret n° 98-1190 du 23 décembre 1998 relatif à l'utilisation pour certains transports internationaux de l'infrastructure du réseau ferré national et portant transposition des directives du Conseil des Communautés européennes 91-440 du 29 juillet 1991,95-18 et 95-19 du 19 juin 1995.
 
 1
@@ -1044,24 +1058,6 @@ Art. 12,13 et 26
 
 |
 
-Règlement (CEE) n° 684-92 du Conseil du 16 mars 1992 établissant des règles communes pour les transports internationaux de voyageurs effectués par autocars et autobus
-
-1
-
-|
-
-Délivrance des autorisations pour l'exécution de services internationaux
-
-(CEE) de transport routier de voyageurs lorsque le service n'est pas
-
-limité à un département frontalier et à l'Etat membre limitrophe.
-
-|
-
-Article 4-4.
-
-|
-
 Code de la route
 
 1
@@ -1097,6 +1093,14 @@ R. 109-5, 2e alinéa ;
 R. 184, 1er et 2e alinéa ; R. 200.
 
 |
+
+3
+
+|
+
+Agrément d'un réseau national de contrôle technique des véhicules. |
+
+Article R. 323-8 |
 
 Décret n° 55-1297 du 3 octobre 1955 modifié fixant les conditions de fonctionnement du régime complémentaire de retraite du transport
 
@@ -1156,20 +1160,6 @@ Article 6.
 
 |
 
-Code des transports
-
-1
-
-|
-
-Délivrance des autorisations pour l'exécution de services internationaux de transport routier de voyageurs à destination ou en provenance des pays tiers à l'Espace économique européen.
-
-|
-
-Article R. 3111-57
-
-|
-
 Décret n° 81-208 du 3 mars 1981 portant application des dispositions du titre III, chapitre Ier, du livre II du code du travail dans les entreprises de transport public par route
 
 1
@@ -1195,20 +1185,6 @@ Autorisation ministérielle au calcul de la durée hebdomadaire de travail sur d
 |
 
 Article D. 3312-41
-
-|
-
-Décret n° 91-370 du 15 avril 1991 pris en application de l'article 23 de la loi n° 89-469 du 10 juillet 1989
-
-1
-
-|
-
-Agrément d'un réseau national de contrôle technique des véhicules.
-
-|
-
-Article 7, 1er alinéa.
 
 |
 
