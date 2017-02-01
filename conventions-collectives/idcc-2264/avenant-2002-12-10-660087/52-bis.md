@@ -8,12 +8,18 @@ Il devra être donné prioritairement le dimanche, à l'exception des salariés 
 
 - soit par roulement, 50 % des repos hebdomadaires devant être donnés un dimanche au cours du cycle.
 
-L'organisation du travail mise en place permettra l'octroi de :
+L'organisation du travail mise en place permettra l'octroi de : (1)
 
 - 4 jours de repos sur 2 semaines, dont 2 consécutifs ;
 
-- et un dimanche garanti toutes les 3 semaines,
+- 1 dimanche garanti toutes les 2 semaines.
 
-cette dernière disposition ne remettant pas en cause les modalités d'organisations existantes concernant les dispositions pour les jours de repos et les dimanches, qui seraient plus favorables aux salariés (1).
+Cette dernière disposition ne remet pas en cause les modalités d'organisation existantes concernant les dispositions pour les jours de repos et les dimanches qui seraient plus favorables aux salariés.
 
-(1) Paragraphe étendu sous réserve de l'application des dispositions de l'article L. 221-2 du code du travail (arrêté du 29 octobre 2003, art. 1er).
+En raison d'organisations spécifiques motivées par les besoins du service, par dérogation l'organisation du travail garantira un dimanche de repos toutes les 3 semaines. (1)
+
+Cet article ne s'applique pas aux salariés volontaires qui sont exclusivement recrutés pour travailler le week-end.
+
+(1) Alinéas étendus sous réserve de l' application des dispositions de l'article L. 3132-1 du code du travail.
+
+(Arrêté du 27 décembre 2016 article 1 JORF 3 janvier 2017).
