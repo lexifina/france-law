@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Approbation d’un avenant n°2 au marché relatif à la maîtrise d’œuvre pour le programme de travaux du PMS
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2017-02-02
+- Matière : SPORTS
+- Objet : Approbation d’un avenant n°2 au marché relatif à la maîtrise d’œuvre pour le programme de travaux du PMS
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTU3OTIsInB1ciI6ImJsb2JfaWQifX0=--a52b6f77491f9596417ffd28fa68236c4ae0b993/020217_7.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
