@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Approbation d’un avenant n° 3 à la convention pour l’exploitation du restaurant du Parc Municipal des Sports
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2017-02-02
+- Matière : ACHATS,COMMANDE PUBLIQUE,PATRIMOINE
+- Objet : Approbation d’un avenant n° 3 à la convention pour l’exploitation du restaurant du Parc Municipal des Sports
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTUyMTQsInB1ciI6ImJsb2JfaWQifX0=--cff50e8bc0beaf89d7d9a0f21e2cb7f2bc89546d/020217_19.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
