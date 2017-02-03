@@ -80,7 +80,7 @@ Concours réservé
 
 |
 
-Conseillers d'orientation-psychologues
+Psychologues de l'éducation nationale
 
 |
 
