@@ -2,13 +2,11 @@
 
 (Reproduction de l'article III de l'accord interbranches du 24 juin 2008)
 
-Les conditions d'emploi dans les entreprises du secteur du spectacle vivant et les règles d'emploi de certaines catégories de salariés du spectacle peuvent aboutir à la signature de contrats à durée déterminée (art.L. 1242-2, alinéas 1, 2 et 3, du code du travail).
+Les conditions d'emploi dans les entreprises du secteur du spectacle vivant et les règles d'emploi de certaines catégories de salariés du spectacle peuvent aboutir à la signature de contrats à durée déterminée (art. L. 1242-2, alinéas 1,2 et 3, du code du travail).
 
-V. 14. 1. Conclusion du contrat à durée déterminée
+V. 14.1. Conclusion du contrat à durée déterminée
 
-(Reproduction de l'article III. 1
-
-de l'accord interbranches du 24 juin 2008)
+(Reproduction de l'article III. 1de l'accord interbranches du 24 juin 2008)
 
 Le recours au contrat à durée déterminée est possible, notamment dans les cas suivants :
 
@@ -16,11 +14,11 @@ Le recours au contrat à durée déterminée est possible, notamment dans les ca
 
 ― l'accroissement temporaire de l'activité de l'entreprise ;
 
-― pour les emplois pour lesquels il est d'usage constant, dans les secteurs d'activité définis par décret dont celui des spectacles ou par voie de convention ou d'accord collectif étendu, et selon les conditions rappelées à l'article V. 14. 4 de la présente convention, de ne pas recourir au contrat à durée indéterminée en raison de la nature de l'activité exercée et du caractère par nature temporaire de ces emplois.
+― pour les emplois pour lesquels il est d'usage constant, dans les secteurs d'activité définis par décret dont celui des spectacles ou par voie de convention ou d'accord collectif étendu, et selon les conditions rappelées à l'article V. 14.4 de la présente convention, de ne pas recourir au contrat à durée indéterminée en raison de la nature de l'activité exercée et du caractère par nature temporaire de ces emplois.
 
 Le CDD doit obligatoirement indiquer l'alinéa applicable de l'article L. 1242-2 du code du travail en fonction du cas de recours au CDD.
 
-Les organisations d'employeurs signataires et les syndicats de salariés représentatifs dans la totalité du champ d'application de l'accord interbranches du 24 juin 2008 entendent réserver le recours au CDD dit d'usage (art.L. 1242-2, alinéa 3, du code du travail), aux seuls cas où les particularités de l'activité de l'entreprise le justifient.
+Les organisations d'employeurs signataires et les syndicats de salariés représentatifs dans la totalité du champ d'application de l'accord interbranches du 24 juin 2008 entendent réserver le recours au CDD dit d'usage (art. L. 1242-2, alinéa 3, du code du travail), aux seuls cas où les particularités de l'activité de l'entreprise le justifient.
 
 En l'absence de mention du motif de recours au CDD ou en l'absence de contrat écrit, le contrat est réputé avoir été conclu à durée indéterminée.
 
@@ -28,23 +26,23 @@ Lorsque le contrat de travail est un contrat à durée déterminée, il doit êt
 
 Lorsque l'engagement est d'une durée inférieure à 48 heures, le contrat est signé des 2 parties et remis au plus tard le premier jour de l'engagement.
 
-V. 14. 2. Le contrat à durée déterminée de droit commun
+V. 14.2. Le contrat à durée déterminée de droit commun
 
 (Reproduction de l'article III. 2 de l'accord interbranches du 24 juin 2008)
 
 Les dispositions de cet article ne s'appliquent que pour le contrat à durée déterminée visé à l'article L. 1242-2, alinéas 1 et 2, du code du travail.
 
-V. 14. 3. Conclusion du contrat à durée déterminée de droit commun
+V. 14.3. Conclusion du contrat à durée déterminée de droit commun
 
-(Reproduction de l'article III. 2. 1 de l'accord interbranches du 24 juin 2008)
+(Reproduction de l'article III. 2.1 de l'accord interbranches du 24 juin 2008)
 
 Le contrat à durée déterminée de droit commun ne peut avoir pour objet, ni pour effet, de pourvoir durablement un emploi lié à l'activité normale et permanente de l'entreprise et doit préciser les dates de début et de fin de contrat de façon très nette ou, quand le contrat ne peut comporter un terme précis, la durée minimale conformément à l'article L. 1242-7 du code du travail, ainsi que l'un des motifs ci-dessus ayant entraîné le choix de ce type de contrat.
 
 Conformément aux dispositions contenues à l'article L. 1243-8 du code du travail et sous les réserves de l'article L. 1243-10 du code du travail, l'employeur verse au salarié en fin de contrat à durée déterminée, l'indemnité de fin de contrat correspondant à 10 % de la rémunération totale brute qui lui est due pendant la durée de son contrat, primes comprises. Cette indemnité est versée avec le dernier salaire et figure sur le bulletin de paie.
 
-V. 14. 4. Période d'essai
+V. 14.4. Période d'essai
 
-(Reproduction de l'article III. 2. 2 de l'accord interbranches du 24 juin 2008)
+(Reproduction de l'article III. 2.2 de l'accord interbranches du 24 juin 2008)
 
 La durée de la période d'essai pour ces contrats est de :
 
@@ -56,17 +54,17 @@ Lorsque le contrat ne comporte pas de terme précis, la période d'essai doit ê
 
 Les dispositions sur les délais de prévenance figurant à l'article V. 4 s'appliquent.
 
-V. 14. 5. Le contrat à durée déterminée dit d'usage (CDD d'usage)
+V. 14.5. Le contrat à durée déterminée dit d'usage (CDD d'usage)
 
 (Reproduction de l'article III. 3 de l'accord interbranches du 24 juin 2008)
 
-Les dispositions de cet article ne s'appliquent que pour les contrats conclus dans le cadre de l' article L. 1242-2-3° du code du travail .
+Les dispositions de cet article ne s'appliquent que pour les contrats conclus dans le cadre de l'article L. 1242-2-3° du code du travail.
 
-V. 14. 5. 1. Conclusion du CDD dit d'usage (Reproduction de l'article III. 3. 1 de l'accord interbranches du 24 juin 2008)
+V. 14.5.1. Conclusion du CDD dit d'usage (Reproduction de l'article III. 3.1 de l'accord interbranches du 24 juin 2008)
 
 L'activité principale de l'entreprise qui recourt à un CDD dit d'usage doit relever de l'un des secteurs cités à l'article D. 1242-1 du code du travail.
 
-Dans le cadre de l'activité principale de l'entreprise, les conditions d'un recours légitime et maîtrisé au contrat à durée déterminée dit d'usage s'inscrivent dans le cadre de l'article D. 1242-1 du code du travail, les circulaires DRI 18 / 90 du 30 octobre 1990, 92 / 14 du 29 août 1992 et l'accord sectoriel interbranches du 12 octobre 1998 relatif au recours au CDD d'usage dans le secteur du spectacle vivant, du cinéma et de l'audiovisuel, et dans le respect des articles L. 1242-1 et suivants du code du travail.
+Dans le cadre de l'activité principale de l'entreprise, les conditions d'un recours légitime et maîtrisé au contrat à durée déterminée dit d'usage s'inscrivent dans le cadre de l'article D. 1242-1 du code du travail, les circulaires DRI 18/90 du 30 octobre 1990,92/14 du 29 août 1992 et l'accord sectoriel interbranches du 12 octobre 1998 relatif au recours au CDD d'usage dans le secteur du spectacle vivant, du cinéma et de l'audiovisuel, et dans le respect des articles L. 1242-1 et suivants du code du travail.
 
 Il est rappelé que " l'usage constant ” s'analyse en un usage " régulier ”, mais non obligatoirement permanent ou exclusif de tout autre. En conséquence, il est admis qu'au sein d'une même branche ou d'une même entreprise certains emplois pourvus en contrat à durée indéterminée de droit commun (CDI) ou en contrat à durée indéterminée intermittent (CDII) puissent également l'être en CDD dit d'usage, sous réserve de figurer sur la liste objet de l'annexe A figurant ci-après.
 
@@ -108,13 +106,13 @@ Le CDD dit d'usage conclu dans le respect des dispositions légales et réglemen
 
 Toute modification du contrat de travail fait obligatoirement l'objet d'un avenant notifié par écrit et contresigné par les parties.
 
-V. 14. 5. 2. Période d'essai
+V. 14.5.2. Période d'essai
 
 La durée de la période d'essai pour ces contrats est de :
 
-- 1 jour par semaine dans la limite de 2 semaines lorsque la durée initialement prévue du contrat est au plus égale à 6 mois ;
+-1 jour par semaine dans la limite de 2 semaines lorsque la durée initialement prévue du contrat est au plus égale à 6 mois ;
 
-- 1 mois dans les autres cas.
+-1 mois dans les autres cas.
 
 Lorsque le contrat ne comporte pas de terme précis, la période d'essai doit être calculée par rapport à la durée minimale du contrat, conformément à l'article L. 1242-10 du code du travail.
 
@@ -124,9 +122,11 @@ ANNEXE A
 
 (Reproduction de l'annexe C de l'accord interbranches du 24 juin 2008)
 
-Le recours au contrat à durée déterminée dit d'usage est exclusivement réservé aux emplois suivants.
+Le recours au contrat à durée déterminée dit d'usage est exclusivement réservé aux emplois suivants, exercés dans le cadre spécifique du spectacle vivant (ces emplois pouvant être déclinées au féminin) :
 
-Les artistes du spectacle tels que définis à l'article L. 7121-2 du code du travail, et les fonctions suivantes (la fonction de chef, d'assistant ou d'adjoint peut être appliquée à l'ensemble des emplois de base désignés ci-dessous, qui peuvent également être déclinés au féminin) :
+Les artistes du spectacle tels que définis à l'article L. 7121-2 du code du travail,
+
+Les fonctions suivantes (la fonction de chef, d'assistant ou d'adjoint peut être appliquée à l'ensemble des emplois de base désignés ci-dessous) :
 
 Accessoiriste.
 
@@ -138,25 +138,27 @@ Architecte décorateur.
 
 Armurier.
 
-Artificier, technicien de pyrotechnie.
+Artificier/ technicien de pyrotechnie.
 
-Attaché de production, chargé de production.
+Attaché de production/ chargé de production.
 
 Bottier.
 
-Chapelier, modiste de spectacles.
+Chapelier/ modiste.
 
 Cintrier.
 
-Coiffeur, posticheur.
+Coiffeur/ posticheur.
 
-Collaborateur artistique du metteur en scène, du chorégraphe, du directeur musical.
+Collaborateur artistique du metteur en scène/ du chorégraphe/ du directeur musical.
 
-Concepteur des éclairages, éclairagiste.
+Concepteur des éclairages/ éclairagiste.
 
-Concepteur du son, ingénieur du son.
+Concepteur des coiffures/ des maquillages et des perruques.
 
-Conseiller technique.
+Concepteur du son/ ingénieur du son.
+
+Conseiller (ère) technique.
 
 Costumier.
 
@@ -168,39 +170,33 @@ Directeur technique.
 
 Dramaturge.
 
-Electricien.
+Électricien.
 
-Ensemblier de spectacle.
+Ensemblier.
 
 Habilleur.
 
-Lingère, repasseuse, retoucheuse.
+Lingère/ repasseuse/ retoucheuse.
 
-Machiniste, constructeur de décors et structures.
+Machiniste/ constructeur de décors et structures.
 
 Maquilleur.
 
 Menuisier de décors.
 
-Metteur en piste (cirques).
+Monteur de structures.
 
 Monteur son.
 
-Opérateur lumière, pupitreur, technicien CAO-PAO.
+Opérateur lumière/ pupitreur/ technicien CAO-PAO.
 
-Opérateur son, preneur de son.
+Opérateur son/ preneur de son.
 
 Peintre de décors.
 
 Peintre décorateur.
 
 Perruquier.
-
-Plumassier de spectacles.
-
-Poursuiteur.
-
-Prompteur.
 
 Réalisateur coiffures, perruques.
 
@@ -212,13 +208,13 @@ Réalisateur maquillages, masque.
 
 Réalisateur son.
 
-Régisseur, régisseur de production.
+Régisseurs/ régisseur de production.
 
 Régisseur d'orchestre.
 
 Régisseur de salle et de site (dans le cadre d'un festival exclusivement).
 
-Régisseur de scène, régisseur d'équipement scénique.
+Régisseur de scène/ régisseur d'équipement scénique.
 
 Régisseur général.
 
@@ -228,21 +224,23 @@ Régisseur plateau son (retours).
 
 Régisseur son.
 
-Répétiteur, souffleur.
+Répétiteur/ souffleur.
 
 Rigger (accrocheur).
 
 Scénographe.
 
-Sculpteur de théâtre.
+Sculpteur.
 
-Serrurier, serrurier métallier de théâtre.
+Serrurier/ serrurier métallier de théâtre.
 
 Staffeur.
 
-Tailleur, couturier.
+Sur/ sous-titreur.
 
-Tapissier de théâtre.
+Tailleur/ couturier.
+
+Tapissier.
 
 Technicien console.
 
@@ -252,21 +250,19 @@ Technicien de plateau.
 
 Technicien effets spéciaux.
 
-Technicien instruments de musique (backline).
+Techniciens instruments de musique (backline).
 
-Technicien lumière.
+Technicien lumières.
 
-Technicien son, technicien HF.
+Technicien son technicien H/ F.
 
 Technicien de sécurité (cirques).
 
 Technicien groupe électrogène (groupman).
 
-Teinturier coloriste de spectacles.
+Teinturier coloriste.
 
-Audiovisuel dans les spectacles mixtes
-
-et/ou captations à but non commercial
+Utilisation artistique de l'audiovisuel dans la scénographie, la mise en scène ou chorégraphique durant les représentations de spectacles vivants :
 
 Cadreur.
 
@@ -274,12 +270,14 @@ Chef opérateur.
 
 Monteur.
 
-Opérateur image, pupitreur.
+Opérateur image/ pupitreur.
 
 Opérateur vidéo.
 
 Projectionniste.
 
-Régisseur audiovisuel.
+Régisseur audiovisuel/ vidéo.
 
 Technicien vidéo.
+
+N. B. : Ceci exclut tout archivage, enregistrement, captation, en vue de la mise à disposition du public.
