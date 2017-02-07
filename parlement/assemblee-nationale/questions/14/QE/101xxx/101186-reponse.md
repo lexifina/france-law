@@ -1,0 +1,9 @@
+# Réponse à la question n° 101186
+
+- Question : [101186](101186.md) — Question n° 101186 — revendications
+
+## Réponse
+
+*JO du 2017-02-07*
+
+La retraite du combattant, malgré sa dénomination, n'est pas une pension de retraite mais une récompense militaire attachée à la personne du combattant et versée au titre de la reconnaissance nationale. Elle est accordée aux titulaires de la carte du combattant âgés de 65 ans. Cet avantage peut être servi, à titre exceptionnel, à partir de 60 ans, si l'ancien combattant est soit domicilié dans un département ou territoire d'Outre-mer, soit bénéficiaire de l'allocation du Fonds de solidarité vieillesse, soit bénéficiaire d'une prestation à caractère social attribuée sous conditions de ressources tout en étant pensionné au taux minimum de 50 % au titre du code des pensions militaires d'invalidité et des victimes de guerre, soit encore bénéficiaire d'une pension militaire d'invalidité (PMI) indemnisant une ou plusieurs infirmités imputables à des services accomplis au cours d'opérations déclarées campagne de guerre ou d'opérations de maintien de l'ordre hors métropole. Le montant annuel de la retraite du combattant s'élève à 702 euros depuis le 1er janvier 2017 compte tenu de la valeur du point de PMI fixé à 14,04 euros conformément à l'arrêté du 25 août 2016 publié au Journal officiel de la République française du 6 septembre 2016 et de son relèvement de 48 à 50 points au 1er janvier 2017. Enfin, il convient de souligner qu'au titre de la politique sociale développée par l'Office national des anciens combattants et victimes de guerre, les veuves d'anciens combattants, et en particulier les plus démunies d'entre elles, peuvent bénéficier, de la part de cet établissement, d'un soutien moral, administratif et financier adapté à leur situation.
