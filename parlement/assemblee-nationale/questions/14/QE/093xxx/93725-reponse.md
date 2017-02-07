@@ -1,0 +1,9 @@
+# Réponse à la question n° 93725
+
+- Question : [93725](93725.md) — Question n° 93725 — régime fiscal; revendications
+
+## Réponse
+
+*JO du 2017-02-07*
+
+L'ancien article 69 A du code général des impôts (CGI) prévoyait que le forfait agricole pouvait être dénoncé par le service des impôts, en vue d'y substituer le régime du bénéfice réel pour l'ensemble des exploitations agricoles du contribuable, notamment dans le cas où le contribuable était imposable selon le régime du bénéfice réel pour des bénéfices ne provenant pas de son exploitation agricole. La doctrine (BOI-BA-REG-20-10 § 80) prévoyait cependant des mesures de tempérament en permettant le maintien du bénéfice du forfait agricole pour les exploitants individuels qui disposent par ailleurs de revenus imposés selon un régime réel (bénéfices industriels et commerciaux -BIC- ou bénéfices non commerciaux -BNC-) lorsque ces revenus n'excèdent pas, au niveau du foyer fiscal, 27 000 €, remboursements de frais inclus mais taxes non comprises et pour les sociétés civiles agricoles soumises au régime forfaitaire bénéfices agricoles (BA), lorsqu'au titre des trois années civiles précédant la date d'ouverture de l'exercice, la moyenne annuelle des recettes accessoires commerciales et non commerciales de ces trois années n'excède ni 30 % de la moyenne annuelle des recettes tirées de l'activité agricole au titre desdites années, ni 50 000 €. Le régime des micro-exploitations agricoles (régime « micro-BA »), issu de l'article 33 de la loi de finances rectificative pour 2015, reprend la teneur de la règle existant sous le régime forfaitaire en prévoyant au II de l'article 64 bis du CGI que sont exclus du régime micro-BA les contribuables imposables selon le régime du bénéfice réel pour des bénéfices ne provenant pas de leur exploitation agricole. Il est néanmoins envisagé de maintenir la tolérance administrative précitée, en faveur des activités non agricoles dont les revenus sont faibles.
