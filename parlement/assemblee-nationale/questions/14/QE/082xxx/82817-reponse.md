@@ -1,0 +1,9 @@
+# Réponse à la question n° 82817
+
+- Question : [82817](82817.md) — Question n° 82817 — Cour des comptes; rapport; recommandations
+
+## Réponse
+
+*JO du 2017-02-07*
+
+Le ministère de l'économie et des finances a pris connaissance avec intérêt du rapport public de la Cour des comptes sur la gestion de l'Institut de France et des cinq académies. Il partage l'essentiel de ses conclusions, notamment sur la nécessité d'améliorer l'efficience du fonctionnement des institutions du quai de Conti en formalisant et harmonisant davantage leurs règles de gestion et prévoyant une plus grande mutualisation des fonctions support au niveau de l'Institut. L'effort consenti par les finances publiques en faveur de ces institutions est important, du fait notamment des moyens budgétaires mobilisés et du régime fiscal applicable aux fondations abritées. À cet égard, le ministère de l'économie et des finances exprime le souhait de mieux évaluer l'effort consenti par les finances publiques en faveur de l'Institut et des académies. En ce qui concerne le régime budgétaire et comptable applicable à l'Institut et aux cinq académies, la Cour des comptes relève que leur exclusion du régime de la comptabilité publique soulève des difficultés juridiques et ne permet pas à la Cour d'exercer pleinement la mission de contrôle des comptes de ces institutions que lui a confiée la loi de programme pour la recherche du 18 avril 2006. Du fait de leur grande indépendance et du montant des subventions qui leur sont allouées, il n''apparaît pas prioritaire de placer ces organismes dans le champ du décret relatif à la gestion budgétaire et comptable publique. En revanche, leurs règlements financiers pourraient utilement évoluer pour intégrer certains des principes généraux de la gestion budgétaire et comptable publique et clarifier ainsi le cadre de gestion applicable par le comptable public des établissements.
