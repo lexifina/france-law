@@ -1,0 +1,9 @@
+# Réponse à la question n° 100893
+
+- Question : [100893](100893.md) — Question n° 100893 — procédure de passation; fusion des intercommunalités; perspectives
+
+## Réponse
+
+*JO du 2017-02-07*
+
+Les textes applicables aux marchés publics n'envisagent pas l'hypothèse du changement de pouvoir adjudicateur intervenant lors d'une procédure de marché en cours de passation. Toutefois, par analogie avec les principes posés par les modifications des marchés en cours d'exécution, tels qu'ils résultent notamment de l'article 139 du décret no 2016-360 du 25 mars 2016 relatif aux marchés publics, il peut être considéré que dans une telle hypothèse, le changement de pouvoir adjudicateur n'a pas par lui-même d'incidence sur les conditions de mise en œuvre de la concurrence. Toutefois, ce changement ne doit pas avoir pour conséquence que les caractéristiques du marché connaissent des modifications substantielles au sens du texte précité. De même, dans la mesure où le pouvoir adjudicateur qui a entamé la consultation avait la compétence pour passer le marché au moment où elle a été engagée, la validité de la procédure n'est pas affectée. Cependant, la perte de la compétence de l'acheteur initial fait obstacle à la poursuite de la procédure, et a fortiori de la signature du marché par celui-ci. En revanche, ladite procédure pourra être valablement poursuivie par celui qui récupère la compétence, pour autant que le marché ait vocation à satisfaire ses besoins, à la date du transfert de celle-ci. Il lui reviendra de prévoir une mise au point pour adapter les stipulations au changement de pouvoir adjudicateur dès lors qu'elle ne s'accompagne d'aucune modification substantielle du marché public qui aurait pour effet de remettre en cause les conditions de la mise en concurrence. Dans le cas contraire, la procédure de passation du marché public devra être déclarée sans suite et une nouvelle procédure de mise en concurrence mise en œuvre.
