@@ -1,0 +1,9 @@
+# Réponse à la question n° 97512
+
+- Question : [97512](97512.md) — Question n° 97512 — Euro 2016; diffusion
+
+## Réponse
+
+*JO du 2017-02-07*
+
+La question de la diffusion des chaînes de télévision allemandes en France pendant l'Euro de football 2016 pose celle de la détention par ces chaînes des droits sur les programmes qu'elles diffusent. Les chaînes de télévision sont tenues d'acquérir les droits de diffusion sur les différents territoires dans lesquels elles sont reçues. Elles ne peuvent cependant pas toujours acquérir ces droits lorsque, sur certains territoires, ceux-ci ont déjà été cédés à titre exclusif à d'autres radiodiffuseurs. Telle est au cas d'espèce la situation à laquelle les radiodiffuseurs publics allemands ont été confrontés lors de l'Euro de football 2016. L'Union des associations européennes de football (UEFA), titulaire des droits de la compétition, a vendu les droits en France à TF1, M6 et BeIn Sports et en Allemagne à l'ARD et la ZDF, selon le principe de territorialité. Il appartenait donc aux chaînes concernées de s'assurer que la diffusion de leurs programmes ne violât pas les contrats de retransmission dont ils étaient titulaires pendant l'Euro de football. D'après les informations recueillies par le Conseil supérieur de l'audiovisuel auprès des distributeurs concernés, il semblerait que l'interruption des programmes soit intervenue, selon les cas, soit à l'initiative du distributeur français, soit à la demande des chaînes allemandes. Le choix d'occulter le programme des chaînes en cause dans son ensemble sur l'ensemble de la durée de cette compétition plutôt que chacun des matches de football peut cependant apparaître regrettable. Il semble qu'il ait été dicté par la complexité technique d'une occultation ciblée. Il appartient le cas échéant à l'abonné de se rapprocher de son distributeur dans le cadre des garanties contractuelles relatives à la continuité de service.
