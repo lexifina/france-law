@@ -1,0 +1,9 @@
+# Réponse à la question n° 43749
+
+- Question : [43749](43749.md) — Question n° 43749 — innovation technologique; rapport; propositions
+
+## Réponse
+
+*JO du 2017-02-07*
+
+Appliquée au bâti, la notion d'énergie positive fait référence à un bâtiment qui produirait en moyenne plus d'énergie qu'il n'en consomme. Cette approche s'avère pour autant contraignante dès lors que les contextes locaux (potentiel d'énergie renouvelable notamment) sont très différents, y compris d'un bâtiment à un autre. Initialement pensées à l'échelle d'un bâtiment, les réflexions prospectives engagées par le ministère de l'environnement, de l'énergie et de la mer, chargé des relations internationales sur le climat (MEEM), et ouvrent la possibilité d'élargir l'échelle spatiale du concept d'énergie positive au-delà du bâtiment, et notamment à l'échelle de l'îlot par la mutualisation des besoins et des équipements de production/consommation d'énergie, la notion de smart grids et de stockage. De nombreux Écoquartiers labellisés constituent des sites d'expérimentation en termes d'économies d'énergie, d'usage d'énergies nouvelles. En particulier, certaines Écocités accompagnées par l'État ont travaillé à l'émergence d'îlots à énergie positive. Enfin, l'appel à projets « territoires à énergie positive pour la croissance verte » lancé par la ministre de l'environnement, de l'énergie et de la mer en charge des relations internationales sur le climat, vise à promouvoir ces approches territoriales afin d'orienter la conception des projets pour s'assurer que ceux-ci minimisent les besoins et les impacts énergétiques (relation entre transports et énergie, entre forme urbaine, densité et énergie, approche bioclimatique etc.), et de mobiliser les ressources énergétiques locales (récupération d'énergie fatale, identification des gisements et du mix énergie renouvelable le plus pertinent, accompagnement de filières locales…).
