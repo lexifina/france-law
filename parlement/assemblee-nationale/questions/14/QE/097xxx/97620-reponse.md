@@ -1,0 +1,9 @@
+# Réponse à la question n° 97620
+
+- Question : [97620](97620.md) — Question n° 97620 — indemnité; perspectives
+
+## Réponse
+
+*JO du 2017-02-07*
+
+L'article D. 1423-59 du code du travail édicte effectivement le principe du maintien du salaire du conseiller salarié pour l'exercice de ses fonctions prud'homales pendant le temps de travail. Les remboursements à l'employeur des salaires maintenus ne concernent chaque fois que les sommes effectivement versées pendant le mois considéré et figurant sur le bulletin de salaire. L'article D. 1423-56 du code du travail précise quant à lui qu'une allocation d'un montant horaire de 7,10 € est versée notamment au conseiller prud'hommes salarié qui est demandeur d'emploi ou qui a cessé son activité professionnelle (même montant pour le conseiller prud'homme employeur ayant cessé son activité professionnelle conformément à l'article D. 1423-57). Sur la base du principe du maintien du salaire, ne perçoivent une allocation pour leurs vacations dont le taux horaire est égal au double de celle fixée par l'article D. 1423-56 que les conseillers prud'homme employeurs en activité qui exerceraient leurs fonctions prud'homales entre 8 heures et 18 heures (art. D. 1423-57, al. 2). Pour l'heure, la revalorisation des indemnités versées pour les conseillers sans emploi ou retraité n'est pas prévue, malgré l'indemnisation à un taux horaire inférieur au SMIC. Le versement d'indemnités de vacation n'est en effet pas exclusif de la perception du droit au chômage puisque l'exercice de mandats électifs, notamment auprès des conseils de prud'hommes, n'est pas considéré comme une activité professionnelle toutes les fois que l'accomplissement de ceux-ci ne donne pas lieu à la perception de sommes autres que des vacations ou indemnités. Il en va de même pour une pension de retraite.
