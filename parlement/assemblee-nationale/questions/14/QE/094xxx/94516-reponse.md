@@ -1,0 +1,9 @@
+# Réponse à la question n° 94516
+
+- Question : [94516](94516.md) — Question n° 94516 — exonération; zones urbaines sensibles
+
+## Réponse
+
+*JO du 2017-02-07*
+
+L'abattement de 30 % de taxe foncière sur les propriétés bâties (TFPB) dans les zones urbaines sensibles (ZUS), puis dans les quartiers « politique de la ville » (QPV) est compensé pour les collectivités concernées par l'ancien dispositif ZUS comme pour les nouveaux entrants. La compensation de cette exonération fait cependant partie de la catégorie dite des « variables d'ajustement », ce qui signifie que les compensations qui la composent sont soumises à minoration. Ce mécanisme permet de respecter la trajectoire des concours financiers de l'État aux collectivités locales et l'engagement du Président de la République d'une baisse des dépenses publiques de 50 Mds€ sur trois ans, dont 11 Mds€ sur les dotations versées aux collectivités territoriales, conformément à la loi de programmation des finances publiques 2014-2019. Néanmoins, le Gouvernement a souhaité, dans le cadre de l'examen de la loi de finances pour 2016, répondre de manière favorable aux demandes d'évolutions de ces modalités de compensation, formulées par les parlementaires. L'article 33 de la loi de finances pour 2016 matérialise cet engagement. Ainsi, à partir de 2016, le taux de minoration ne s'appliquera plus à cette compensation d'exonération et le taux de compensation sera figé à son niveau de 2014. Par conséquent, le taux de compensation de cet abattement sera d'environ 40 % et ce dès 2016. Ce montant désormais figé, en hausse de près de 14 points par rapport au taux de compensation de 2015, qui était fixé à 26,4 %, traduit la volonté du Gouvernement d'offrir une sécurité et une visibilité renforcée aux signataires des nouveaux contrats de ville.
