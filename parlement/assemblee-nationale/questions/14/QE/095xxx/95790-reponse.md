@@ -1,0 +1,9 @@
+# Réponse à la question n° 95790
+
+- Question : [95790](95790.md) — Question n° 95790 — dotations; diminution; conséquences
+
+## Réponse
+
+*JO du 2017-02-07*
+
+La loi de programmation des finances publiques pour 2014-2019 prévoit la réalisation de 50 milliards d'euros d'économies sur le triennal 2015-2017. Les collectivités territoriales ont été appelées à y concourir à hauteur de 11 milliards d'euros, ce montant étant proportionnel au poids des collectivités dans la dépense publique. En 2015 et 2016, le bloc communal a contribué au redressement des finances publiques à hauteur de 2 071 millions d'euros. Prenant acte des efforts réalisés par les communes et les groupements de communes pour modérer leurs dépenses de fonctionnement des collectivités, le Président de la République a annoncé au 99e congrès des maires de France la réduction de moitié de la contribution demandée au bloc communal en 2017. Le projet de loi de finances pour 2017 soumis au Parlement prévoit ainsi un effort de 1 035,5 millions d'euros. Par ailleurs, afin de soutenir les projets des collectivités une dotation exceptionnelle de soutien à l'investissement local a été créée en 2016 et dotée de 800 M€. Sa gestion a été largement déconcentrée pour permettre un engagement rapide des crédits et un fléchage des subventions adapté aux besoins des territoires. Le projet de loi de finances pour 2017 prévoit la reconduction de cet effort à hauteur de 816 M€. Au sein de cette dotation, un soutien spécifique de 216 M€ sera mobilisé pour cofinancer la première génération de contrats de ruralité et ainsi donner des moyens supplémentaires aux intercommunalités rurales. De son côté, la dotation d'équipement des territoires ruraux sera portée à un milliard d'euros en 2017, soit une progression de 384 M€ par rapport au montant voté en 2014. Ce sont ainsi 1,2 milliard d'euros de crédits qui sont mobilisés par l'Etat pour le soutien à l'investissement des collectivités locales en 2017.
