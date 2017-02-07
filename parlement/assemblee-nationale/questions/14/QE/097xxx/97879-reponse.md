@@ -1,0 +1,9 @@
+# Réponse à la question n° 97879
+
+- Question : [97879](97879.md) — Question n° 97879 — France; attractivité; perspectives
+
+## Réponse
+
+*JO du 2017-02-07*
+
+Il est impératif que la France conserve son attractivité à l'égard des personnes de talent, françaises ou étrangères, qui souhaitent y développer de nouvelles activités. C'est pourquoi le Gouvernement a décidé de prendre des mesures très ambitieuses et tout d'abord de faire de notre régime des impatriés le plus favorable d'Europe. Ainsi, conformément à l'annonce faite par le Premier ministre dans son discours aux rencontres de Paris Europlace, le 6 juillet 2016, le régime des impatriés a été aménagé par l'article 71 de la loi de finances pour 2017 : les salariés venus de l'étranger peuvent ainsi bénéficier d'une exonération d'impôt sur le revenu pendant 8 ans, contre 5 actuellement, et la prime d'impatriation versée à compter du 1er janvier 2017 est exonérée de taxe sur les salaires. Il s'agit d'un effort considérable. Cette mesure ne doit toutefois pas occulter l'ampleur des mesures que le Gouvernement a prises depuis 2014 afin de réduire progressivement le niveau d'imposition des personnes physiques : réduction d'impôt exceptionnelle en 2014, suppression de la première tranche du barême en 2015, renforcement de la décote en 2016 et enfin, conformément à l'article 2 de la loi de finances pour 2017, réduction d'impôt de 20 % pour les contribuables aux revenus moyens, dont les premiers effets seront perçus dès le début de l'année 2017. Au total, ce sont donc plus de 12 millions de foyers, soit les deux tiers des foyers imposables, qui auront vu leur impôt sur le revenu diminuer depuis 2014. Ces allègements représentent un effort sans précédent de près de 6 milliards d'euros au total et sont d'ores et déjà de nature à répondre très précisément aux préoccupations de l'auteur de la question.
