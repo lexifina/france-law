@@ -1,0 +1,9 @@
+# Réponse à la question n° 101002
+
+- Question : [101002](101002.md) — Question n° 101002 — armement nucléaire; réduction; attitude de la France
+
+## Réponse
+
+*JO du 2017-02-07*
+
+La France considère qu'un traité d'interdiction des armes nucléaires affecterait la stabilité et la sécurité internationale pour les raisons suivantes : - le désarmement, notamment le désarmement nucléaire, ne peut progresser qu'en tenant compte, de manière réaliste, du contexte stratégique. Or, l'initiative adoptée par la 71ème assemblée générale des Nations unies ouvrant les négociations sur un traité d'interdiction des armes nucléaires ne prend pas en considération le contexte international caractérisé par des tensions régionales accrues et des crises de prolifération. Comme souligné dans le livre blanc sur la défense et la sécurité nationale, les menaces de la force restent bien présentes ; - dans ce contexte, les politiques de sécurité et de défense de la France, tout comme celles de ses alliés et d'autres partenaires proches situés dans des environnements régionaux sensibles, notamment en Asie, reposent en partie sur la dissuasion nucléaire qui ne saurait donc être considérée comme dépassée ; - tant que les conditions pour atteindre un monde sans armes nucléaires d'une manière qui promeuve la stabilité internationale ne seront pas réunies, un traité d'interdiction des armes nucléaires risquerait donc de déstabiliser des architectures régionales de sécurité qui concourent à la stabilité internationale depuis soixante-dix ans ; - les Etats-Unis et la Russie possèdent encore près de 90 % du stock mondial d'armes nucléaires. Comme l'a dit le Président de la République dans son discours d'Istres du 19 février 2015, "si les niveaux des autres arsenaux, notamment russes et américains, devaient un jour descendre à quelques centaines, la France en tirerait des conséquences, comme elle l'a toujours fait".
