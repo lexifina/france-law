@@ -1,0 +1,9 @@
+# Réponse à la question n° 86967
+
+- Question : [86967](86967.md) — Question n° 86967 — rapport; propositions
+
+## Réponse
+
+*JO du 2017-02-07*
+
+Les communes et les établissements publics de coopération intercommunale à fiscalité propre votent chaque année les taux d'imposition applicables sur leurs territoires respectifs en matière de taxe d'habitation, de taxe foncière sur les propriétés bâties, de taxe foncière sur les propriétés non bâties et de cotisation foncière des entreprises (CFE). Les départements votent uniquement un taux de taxe foncière sur les propriétés bâties. De manière à assurer un équilibre entre la charge pesant sur les différents contribuables, le vote de ces taux est soumis, d'une part, à un plafonnement et, d'autre part, à des règles de lien. Ainsi, les dispositions de l'article 1636 B septies du code général des impôts (CGI) prévoient que les taux des taxes foncières et de taxe d'habitation votés par une commune ne peuvent excéder deux fois et demie le taux moyen constaté l'année précédente pour la même taxe dans l'ensemble des communes du département ou deux fois et demie le taux moyen constaté au niveau national s'il est plus élevé. De même, le taux de la CFE voté par une commune ne peut excéder deux fois le taux moyen de cette taxe constaté l'année précédente au niveau national pour l'ensemble des communes. Une commune peut faire varier ses taux soit de manière proportionnelle pour les quatre taxes soit de manière différenciée. Dans ce cas, le taux de la CFE ne peut augmenter plus ou doit diminuer autant que le taux moyen de la taxe d'habitation et des taxes foncières pondéré par les bases d'imposition (article 1636 B sexies du CGI). Ces règles de plafonnement et de lien entre les taux permettent d'ores et déjà de limiter les augmentations de la fiscalité directe locale. Il n'est pas envisagé d'aller au-delà pour respecter le principe de libre administration des collectivités locales.
