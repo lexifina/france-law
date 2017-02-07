@@ -1,0 +1,9 @@
+# Réponse à la question n° 95239
+
+- Question : [95239](95239.md) — Question n° 95239 — résidences de tourisme; autogestion; réglementation
+
+## Réponse
+
+*JO du 2017-02-07*
+
+Le recours à « l'autogestion » des propriétaires nécessite une forte implication de ces derniers dans l'exploitation d'une résidence de tourisme. Ces expériences de gestion réussies sont des exemples à suivre, au cas où de nouvelles défaillances surviendraient dans ce secteur. A cette fin, le décret no 2015-298 du 16 mars 2015 modifiant les conditions de classement des résidences de tourisme, a assoupli les critères de classement pour les résidences par une modification de l'article D. 321-2 du code du tourisme. En effet, le seuil de 70 % de locaux d'habitation meublés confiés en location, a pu constituer un obstacle au maintien du classement de certains établissements qui ne parvenaient plus à atteindre ce taux après plusieurs années de fonctionnement. Dans le même esprit, le décret du 16 mars 2015 a abaissé ce seuil à 55 % pour les résidences de tourisme exploitées depuis plus de neuf ans non classées ou dont le classement est arrivé à échéance. Depuis le début de l'année 2016, le Gouvernement a engagé une réflexion sur le bilan du crédit d'impôt prévu au titre de l'article 199 sexvicies du code général des impôts. Dans le cadre de cet exercice, l'extension des dispositions dérogatoires de l'article D. 321-2-1 du code du tourisme aux résidences de tourisme acquises entre 1999 et 2016 au titre du régime de défiscalisation de l'article 199 sexvicies du code général des impôts est à l'étude, afin de prévoir la possibilité, le cas échéant, d'une gestion directe des résidences concernées. Le Gouvernement est en effet très attentif à la situation des propriétaires-investisseurs et s'attache aussi à étudier toutes les solutions permettant de mieux sécuriser leur investissement et rééquilibrer, autant que faire se peut, les relations contractuelles avec les gestionnaires.
