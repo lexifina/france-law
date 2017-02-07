@@ -1,0 +1,9 @@
+# Réponse à la question n° 99744
+
+- Question : [99744](99744.md) — Question n° 99744 — composition; réglementation
+
+## Réponse
+
+*JO du 2017-02-07*
+
+L'admission des propriétaires non-chasseurs dont les terrains sont incorporés dans les associations communales de chasse agréées (ACCA) est en effet de droit. Cette catégorie de membre n'est pas soumise au paiement d'une cotisation et n'est pas tenue à l'éventuelle couverture d'un déficit de l'association. Ces dispositions législatives ont précisément été prévues pour permettre à ces propriétaires de participer à la vie d'une association qui s'est implantée chez eux et de pouvoir infléchir ses décisions sans pour autant intervenir dans les actions de chasse et donc sans en assumer les conséquences financières. Il est en effet légitime que ces personnes puissent prendre part aux décisions de l'association dont ils sont membres et dont une partie du terrain de son action leur appartient. Par ailleurs, depuis l'entrée en vigueur de la loi no 2000-698 du 26 juillet 2000 relative à la chasse, les propriétaires non-chasseurs peuvent faire valoir un droit d'opposition à l'apport de leur droit de chasse à une ACCA ou procéder au retrait de ce droit de chasse. Substituer un avis consultatif au droit de vote des propriétaires non-chasseurs conduirait ceux d'entre eux qui ne souhaitent pas subir les décisions de l'ACCA sans y prendre part, à s'y soustraire en mettant en œuvre cette prérogative. Dès lors, les ACCA se verraient amputées d'une partie de leurs territoires, ce qui n'est pas favorable à une bonne organisation technique de la pratique de la chasse. En outre, cela nuirait à une bonne gestion cynégétique dans la mesure où le morcellement des territoires de chasse des ACCA compliquera la nécessaire régulation des populations de gibier. .
