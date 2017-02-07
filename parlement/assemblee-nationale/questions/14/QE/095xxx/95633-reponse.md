@@ -1,0 +1,9 @@
+# Réponse à la question n° 95633
+
+- Question : [95633](95633.md) — Question n° 95633 — ICPE; déclaration; réglementation
+
+## Réponse
+
+*JO du 2017-02-07*
+
+La ministre de l'environnement, de l'énergie et de la mer, chargée des relations internationales sur le climat (MEEM) est vigilante à ne pas maintenir des contraintes inutilement lourdes sur les acteurs économiques. La nomenclature des installations classées pour la protection de l'environnement soumet les activités à un régime d'autorisation, d'enregistrement ou de déclaration en fonction de critères tels que le volume de substances stockées ou utilisées, le volume de l'activité ou encore la capacité de stockage de l'installation. Elle a donc vocation à prendre en compte la taille des installations concernées (et non des entreprises), de façon proportionnée aux risques et aux impacts. Ainsi, les activités de plus faibles volumes, dont le risque est connu et peut être encadré par des prescriptions standardisées, sont classées en enregistrement, régime dont la procédure est simplifiée et dont les délais sont raccourcis. Les activités de plus faible volume encore ne sont soumises qu'à une simple déclaration, désormais possible par internet depuis la plateforme service-public.fr. Certaines activités ne sont effectivement soumises à aucun seuil. Cela s'explique par le fait que ces activités sont soumises à la nomenclature en raison des substances qu'elles utilisent et qui présentent des risques en fonction de leurs conditions d'emploi ou de leurs dangers intrinsèques. Ainsi une très faible quantité de substance très toxique peut avoir de très graves conséquences. À ce titre, dans le cadre des actions de simplifications portées par le programme stratégique de l'inspection 2014-2017, les services du MEEM examinent les conditions de la suppression des rubriques sans seuil, dans les limites fixées par le droit européen lorsqu'il s'y applique.
