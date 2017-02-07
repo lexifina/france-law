@@ -1,0 +1,9 @@
+# Réponse à la question n° 101583
+
+- Question : [101583](101583.md) — Question n° 101583 — vélo; perspectives
+
+## Réponse
+
+*JO du 2017-02-07*
+
+L'attention de la ministre de l'environnement, de l'énergie et de la mer, chargée des relations internationales sur le climat (MEEM), a été appelée sur la question du financement des associations de promotion du vélo, et, plus largement, sur la place que la ministre entend donner au développement des mobilités douces dans la politique que la ministre conduit. La ministre partage pleinement votre diagnostic quant au rôle que doit tenir le vélo et s'est attachée à en faciliter l'usage. Depuis deux ans, la ministre a mis en œuvre des réformes structurantes pour promouvoir l'usage du vélo (indemnité kilométrique, stationnement sécurisé, pistes cyclables et voies vertes dans les territoires à énergie positive…). Les associations de promotion du vélo bénéficient d'un soutien régulier du MEEM. Cette année, au titre de 2016 et au vu des dossiers présentés, la ministre a décidé d'apporter le concours du ministère à trois associations : la Fédération française des usagers de la bicyclette (FUB), le Club des villes et territoires cyclables et l'Heureux cyclage. De plus, l'Agence de l'environnement et de la maitrise de l'énergie (ADEME), sous tutelle du MEEM, apporte également un financement à plusieurs d'entre elles, notamment pour la mise en place d'un observatoire de l'indemnité kilométrique vélo. La ministre a engagé avec les parties prenantes du Conseil national de la transition écologique (CNTE) l'élaboration d'un nouveau plan d'action pour les mobilités actives. C'est donc dans ce cadre que la ministre invite toutes les associations de promotion du vélo à présenter de nouvelles propositions d'actions pour qu'elles y soient examinées, au regard des recommandations qui lui seront faites sur ce nouveau plan d'action.
