@@ -1,8 +1,6 @@
 # Article Annexe
 
-ÉVÉNEMENTS DE SÉCURITÉ
-
-RELEVANT DE LA TYPOLOGIE DE L'ARTICLE 7
+ÉVÉNEMENTS DE SÉCURITÉ RELEVANT DE LA TYPOLOGIE DE L'ARTICLE 7
 
 DÉSIGNATION DE L'ÉVÉNEMENT
 
@@ -16,7 +14,7 @@ TYPE 2
 
 |
 
-1. Accidents de personnes, collectifs ou individuels : voyageurs, personnel, tiers, suicide, mort naturelle, y/c aux passages à niveau.
+1. Accidents de personnes, collectifs ou individuels : voyageurs, personnel, tiers, suicide, mort naturelle, y/ c aux passages à niveau.
 
 |
 
@@ -74,6 +72,18 @@ x
 
 |
 
+2.3 Evénement important susceptible d'apporter une perturbation dans la circulation des trains ou d'avoir un certain retentissement tel que manifestation ou arrêt de travail (selon importance).
+
+|
+
+x
+
+|
+
+x
+
+|
+
 3. Incendie dans un train.
 
 |
@@ -92,7 +102,7 @@ x
 
 |
 
-3.2. Incendie non maîtrisable ou avec facteurs aggravants et notamment dans le cas d'un engin moteur avec pyralène, de présence de marchandises dangereuses ou radioactives, ou incendie dans un tunnel.
+3.2. Incendie non maîtrisable ou avec facteurs aggravants et notamment dans le cas d'un engin moteur avec pyralène, ou incendie dans un tunnel.
 
 |
 
@@ -102,7 +112,7 @@ x
 
 |
 
-4. Accident ferroviaire (déraillement, collision ou dérive sur voie principale).
+4. Accident ferroviaire (déraillement, collision ou dérive).
 
 |
 
@@ -110,7 +120,7 @@ x
 
 |
 
-4.1. Sans conséquence humaine, conséquences matérielles limitées, sans marchandises dangereuses ou radioactives.
+4.1. Sans conséquence humaine, conséquences matérielles limitées.
 
 |
 
@@ -124,23 +134,13 @@ x
 
 |
 
-|
-
 x
 
 |
 
-4.3. Avec conséquences humaines graves ou avec marchandises dangereuses ou radioactives ou accident dans un ouvrage d'art à accès difficile (tunnel, tranchée couverte, viaduc...).
-
 |
 
-|
-
-x
-
-|
-
-5. Attentats et explosions dans l'enceinte du chemin de fer, actes de malveillance ayant eu des conséquences graves pour la sécurité des circulations ou des personnes.
+4.3. Avec conséquences humaines graves ou accident dans un ouvrage d'art à accès difficile (tunnel, tranchée couverte, viaduc...).
 
 |
 
@@ -150,7 +150,9 @@ x
 
 |
 
-6. Evénement important susceptible d'apporter une perturbation dans la circulation des trains ou d'avoir un certain retentissement tel que manifestation ou arrêt de travail (selon importance).
+5. Attentats et explosions, actes de malveillance ayant eu des conséquences graves pour la sécurité des circulations ou des personnes.
+
+|
 
 |
 
@@ -158,11 +160,7 @@ x
 
 |
 
-x
-
-|
-
-7. Incident affectant un chargement militaire (selon gravité).
+6. Incident affectant un chargement militaire (selon gravité).
 
 |
 
@@ -174,7 +172,7 @@ x
 
 |
 
-8. Evénement ayant une conséquence sur l'environnement (selon gravité).
+7. Evénement ayant une conséquence sur l'environnement (selon gravité).
 
 |
 
@@ -183,5 +181,13 @@ x
 |
 
 x
+
+|
+
+8. Evénement impliquant des marchandises dangereuses
+
+|
+
+Arrêté du 29 mai 2009 modifié relatif aux transports de marchandises dangereuses par voies terrestres
 
 |
