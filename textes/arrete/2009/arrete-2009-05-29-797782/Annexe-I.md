@@ -6,9 +6,7 @@ DISPOSITIONS SPÉCIFIQUES RELATIVES AU TRANSPORT PAR ROUTE DE MARCHANDISES DANGE
 
 1.1. La présente annexe est composée :
 
-- des annexes A et B de l'ADR. Cet accord, y compris les amendements en vigueur au 1er janvier 2017, est publié en français par les Nations unies, section des ventes, bureau E-4, palais des Nations, 1211 Genève 10, Suisse. Il est disponible sur le site internet de la division des transports de la CEE-ONU à l'adresse suivante :
-
-http://www.unece.org/trans/danger/danger.htm;
+- des annexes A et B de l'ADR, telles que visées à la section I. 1 de l'annexe I de la directive 2008/68/ CE du Parlement européen et du Conseil modifiée par la directive (UE) 2016/2309 susvisées. Cet accord, y compris les amendements en vigueur au 1er janvier 2017, est publié en français par les Nations unies, section des ventes, bureau E-4, palais des Nations, 1211 Genève 10, Suisse. Il est disponible sur le site internet de la division des transports de la CEE-ONU à l'adresse suivante : http://www.unece.org/trans/danger/danger.htm;
 
 - des dispositions particulières qui complètent notamment les annexes A et B de l'ADR et en précisent les modalités d'application aux transports nationaux ou internationaux par route de marchandises dangereuses effectués sur le territoire national.
 
@@ -46,9 +44,9 @@ Ces dispositions précisent les dispositions particulières applicables concerna
 
 - certificats d'agrément des véhicules admis à circuler en France en dérogation à certaines dispositions de l'annexe B de l'ADR (paragraphe 3.6) ;
 
--dispositions spéciales relatives à la livraison de produits de traitement de l'eau en GRV (paragraphe 3.7) ;
+- dispositions spéciales relatives à la livraison de produits de traitement de l'eau en GRV (paragraphe 3.7) ;
 
--dispositions spéciales relatives à la classe 7 (paragraphe 3.8).
+- dispositions spéciales relatives à la classe 7 (paragraphe 3.8).
 
 Dispositions particulières relatives à la formation de l'équipage du véhicule (paragraphe 4).
 
@@ -70,7 +68,7 @@ Outre les dispositions prévues au 1.4, les dispositions suivantes s'appliquent.
 
 Il appartient au responsable de tout établissement où s'effectue le chargement ou le remplissage de s'assurer que les dispositions suivantes sont respectées, pour autant qu'elles sont applicables au transport envisagé :
 
--le document de transport figure à bord du véhicule ;
+- le document de transport figure à bord du véhicule ;
 
 - le conducteur est titulaire d'une attestation de formation en cours de validité et adaptée au transport à entreprendre ;
 
@@ -94,15 +92,15 @@ En cas de rupture de charge, les exigences ci-dessus s'appliquent au responsable
 
 Pour les vidanges, les dispositions ci-dessous ne s'appliquent qu'aux établissements soumis :
 
--à autorisation dans le cadre de la législation des installations classées pour la protection de l'environnement ;
+- à autorisation dans le cadre de la législation des installations classées pour la protection de l'environnement ;
 
--à la législation sur les installations nucléaires de base.
+- à la législation sur les installations nucléaires de base.
 
 L'opérateur du remplissage ou de la vidange (employé de l'établissement ou conducteur, selon le cas) doit veiller à ce que :
 
--les consignes de remplissage (ou de vidange) soient respectées ;
+- les consignes de remplissage (ou de vidange) soient respectées ;
 
--après le remplissage (ou la vidange) les dispositifs de fermeture soient en position fermée et étanches.
+- après le remplissage (ou la vidange) les dispositifs de fermeture soient en position fermée et étanches.
 
 Le responsable de l'établissement où s'effectue le remplissage (ou la vidange) doit veiller que les consignes relatives à ces opérations soient affichées aux postes où elles sont effectuées.
 
@@ -110,9 +108,9 @@ Le responsable de l'établissement où s'effectue le remplissage (ou la vidange)
 
 Il appartient au responsable de l'établissement où s'effectue le remplissage de veiller au respect des dispositions du 2.1.1 de la présente annexe I, et notamment à ce que :
 
--la citerne soit autorisée pour le transport de la matière à charger ;
+- la citerne soit autorisée pour le transport de la matière à charger ;
 
--la citerne ait été, si besoin est, convenablement nettoyée ou dégazée.
+- la citerne ait été, si besoin est, convenablement nettoyée ou dégazée.
 
 Il appartient en outre au responsable de l'établissement où s'effectue le remplissage (ou la vidange) de veiller que le personnel préposé au remplissage (ou à la vidange) ait reçu la formation prévue au 1.3.
 
@@ -158,7 +156,7 @@ Toutefois, sont autorisés :
 
 - le chargement des colis contenant des matières et objets affectés au n° ONU 3291, lorsque les établissements de soins et assimilés ne disposent pas d'emplacement dédié au stationnement des véhicules d'enlèvement ;
 
--les livraisons de produits de traitement de l'eau en GRV prévues au paragraphe 3.7 de la présente annexe I.
+- les livraisons de produits de traitement de l'eau en GRV prévues au paragraphe 3.7 de la présente annexe I.
 
 2.2.1.3. Citernes.
 
@@ -166,23 +164,23 @@ Sont interdits sur la voie publique le chargement ou la vidange de citernes ains
 
 Toutefois, s'il n'est pas possible d'opérer autrement, il est autorisé de procéder au chargement et à la vidange :
 
--de boissons alcoolisées du n° ONU 3065 ;
+- de boissons alcoolisées du n° ONU 3065 ;
 
--de gaz naturels comprimés du n° ONU 1971, en cas d'indisponibilité des réseaux de canalisations de gaz, uniquement pour maintenir l'alimentation du réseau sous réserve de l'établissement, par l'opérateur, d'un mode opératoire normalisé garantissant le respect de consignes de sécurité validées par décision du ministre chargé des transports terrestres de matières dangereuses ;
+- de gaz naturels comprimés du n° ONU 1971, en cas d'indisponibilité des réseaux de canalisations de gaz, uniquement pour maintenir l'alimentation du réseau sous réserve de l'établissement, par l'opérateur, d'un mode opératoire normalisé garantissant le respect de consignes de sécurité validées par décision du ministre chargé des transports terrestres de matières dangereuses ;
 
--d'huiles usagées du n° ONU 3082.
+- d'huiles usagées du n° ONU 3082.
 
 Enfin, s'il n'est pas possible d'opérer autrement, il est autorisé de procéder à la vidange :
 
--des gaz affectés au groupe A ;
+- des gaz affectés au groupe A ;
 
--d'hydrocarbures gazeux en mélange liquéfié n. s. a. du n° ONU 1965 ;
+- d'hydrocarbures gazeux en mélange liquéfié n. s. a. du n° ONU 1965 ;
 
--d'hydrocarbures liquides (n° ONU 1202, n° ONU 1203, n° ONU 3256 [uniquement huile de chauffe lourde] et n° ONU 3475) ;
+- d'hydrocarbures liquides (n° ONU 1202, n° ONU 1203, n° ONU 3256 [uniquement huile de chauffe lourde] et n° ONU 3475) ;
 
--des matières du groupe d'emballage II ou III, des nos ONU 1789,1791,1824,1908,2582,2693 et 2796, ainsi que des produits floculants à base de sels d'aluminium du n° ONU 3264 ;
+- des matières du groupe d'emballage II ou III, des nos ONU 1789,1791,1824,1908,2582,2693 et 2796, ainsi que des produits floculants à base de sels d'aluminium du n° ONU 3264 ;
 
--et, dans la limite de capacité de 8 m3 par unité de transport, des matières de la classe 6.1 des nos ONU 1593,1710,1897 et 2831.
+- et, dans la limite de capacité de 8 m3 par unité de transport, des matières de la classe 6.1 des nos ONU 1593,1710,1897 et 2831.
 
 Pour les réservoirs fixes de stockage de GPL non couverts par les dispositions du 3.5 de la présente annexe I, s'il n'est pas possible d'opérer autrement, il est autorisé de procéder au transfert des hydrocarbures gazeux en mélange liquéfié n. s. a. du n° ONU 1965 du réservoir fixe dans une citerne afin de permettre la reprise du réservoir en centre de maintenance et/ ou atelier de réparation.
 
@@ -342,9 +340,9 @@ Si la durée d'un stationnement en cours de transport ou d'un entreposage en tra
 
 Le présent paragraphe ne s'applique pas :
 
--aux colis, exceptés relevant du n° ONU 2908 ;
+- aux colis, exceptés relevant du n° ONU 2908 ;
 
--aux citernes vides non nettoyées relevant des nos ONU 2912,3321 ou 3322.
+- aux citernes vides non nettoyées relevant des nos ONU 2912,3321 ou 3322.
 
 3. Dispositions particulières applicables aux seuls transports nationaux par route de marchandises dangereuses
 
@@ -488,7 +486,7 @@ Lorsque la livraison de ces produits par véhicule-citerne n'est pas possible ou
 
 3.8. Dispositions spéciales relatives à la classe 7 concernant la signalisation orange.
 
-Pour les unités de transport qui transportent des marchandises dangereuses correspondant à un seul numéro ONU, il est permis d'indiquer sur les panneaux oranges prescrits au 5.3.2.1.1 le numéro d'identification de danger et le numéro ONU prescrits respectivement dans les colonnes (20) et (1) du tableau A du chapitre 3.2 pour ces marchandises (ou seulement le numéro ONU lorsque des panneaux oranges de dimensions réduites sont utilisés conformément au 5.3.2.2.1), sous réserve de respecter les spécifications du 5.3.2.2.
+Pour les unités de transport qui transportent des marchandises dangereuses correspondant à un seul numéro ONU, il est permis d'indiquer sur les panneaux de couleur orange prescrits au 5.3.2.1.1 le numéro d'identification de danger et le numéro ONU prescrits respectivement dans les colonnes (20) et (1) du tableau A du chapitre 3.2 pour ces marchandises (ou seulement le numéro ONU lorsque des panneaux de couleur orange de dimensions réduites sont utilisés conformément au 5.3.2.2.1), sous réserve de respecter les spécifications du 5.3.2.2.
 
 4. Dispositions particulières relatives à la formation de l'équipage du véhicule.
 
@@ -582,8 +580,6 @@ Spécialisation classe 7
 
 |
 
-.
-
 4.4.2. Formations restreintes de spécialisation citernes.
 
 |
@@ -628,9 +624,9 @@ Spécialisation produits pétroliers
 
 4.5.2. (supprimé)
 
-4.5.3. Les conducteurs titulaires d'un certificat correspondant à une seule des spécialisations "citernes" ou "citernes gaz" en vigueur au 31 décembre 2010, qui souhaitent obtenir un certificat correspondant à la spécialisation "citernes" étendue à toutes les classes, mentionnée au 4.2 de la présente annexe I, suivent une formation de recyclage adaptée dont les modalités sont précisées par le cahier des charges mentionné à l'article 20.
+4.5.3. Les conducteurs titulaires d'un certificat correspondant à une seule des spécialisations " citernes " ou " citernes gaz " en vigueur au 31 décembre 2010, qui souhaitent obtenir un certificat correspondant à la spécialisation " citernes " étendue à toutes les classes, mentionnée au 4.2 de la présente annexe I, suivent une formation de recyclage adaptée dont les modalités sont précisées par le cahier des charges mentionné à l'article 20.
 
-4.5.4. Les conducteurs titulaires de certificats correspondant aux deux spécialisations "citernes" et "citernes gaz" en vigueur au 31 décembre 2010 peuvent obtenir un certificat de formation correspondant à la spécialisation "citernes" étendue à toutes les classes, mentionnée au 4.2 de la présente annexe I, en suivant une formation de recyclage comme précisé au 4.4.1 ci-dessus.
+4.5.4. Les conducteurs titulaires de certificats correspondant aux deux spécialisations " citernes " et " citernes gaz " en vigueur au 31 décembre 2010 peuvent obtenir un certificat de formation correspondant à la spécialisation " citernes " étendue à toutes les classes, mentionnée au 4.2 de la présente annexe I, en suivant une formation de recyclage comme précisé au 4.4.1 ci-dessus.
 
 5. Dispositions relatives aux contrôles des transports par route des marchandises dangereuses
 

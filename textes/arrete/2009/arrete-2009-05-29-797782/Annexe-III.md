@@ -8,7 +8,7 @@ DANGEREUSES PAR VOIES DE NAVIGATION INTÉRIEURES (ADN)
 
 1.1. La présente annexe est composée :
 
--de l'ADN fait à Genève le 26 mai 2000 et son règlement annexé en vigueur au 1er janvier 2017. Ces documents sont publiés en français par les Nations unies, section des ventes, bureau E-4, palais des Nations, 1211 Genève 10, Suisse. Ils sont aussi disponibles sur le site internet de la division des transports de la CEE-ONU à l'adresse suivante : http://www.unece.org/trans/danger/danger.html ;
+- de l'ADN fait à Genève le 26 mai 2000 et son règlement annexé en vigueur au 1er janvier 2017, tels que visés à la section III. 1 de l'annexe III de la directive 2008/68/CE du Parlement européen et du Conseil modifiée par la directive (UE) 2016/2309 susvisées. Ces documents sont publiés en français par les Nations unies, section des ventes, bureau E-4, palais des Nations, 1211 Genève 10, Suisse. Ils sont aussi disponibles sur le site internet de la division des transports de la CEE-ONU à l'adresse suivante : http://www.unece.org/trans/danger/danger.html ;
 
 - des dispositions particulières qui complètent notamment le règlement annexé à l'ADN et en précisent les modalités d'application aux transports nationaux ou internationaux de marchandises dangereuses par voies de navigation intérieures effectués en France.
 
@@ -116,21 +116,21 @@ a) Les cours de base sont les cours visés aux 8.2.2.3.1 et 8.2.2.3.2 ; ils comp
 
 - transport par bateaux-citernes ;
 
-- combinaison "Transport par bateaux à marchandises sèches" et "Transport par bateaux-citernes".
+- combinaison " Transport par bateaux à marchandises sèches " et " Transport par bateaux-citernes ".
 
 b) Les cours de spécialisation sont les cours visés aux 8.2.2.3.3 et 8.2.2.3.4 ; ils comportent deux variantes :
 
-- spécialisation "gaz" ;
+- spécialisation " gaz " ;
 
-- spécialisation "chimie".
+- spécialisation " chimie ".
 
-Les cours de spécialisation initiaux, qui font l'objet du 8.2.2.3.3, sont accessibles aux candidats préalablement titulaires d'une attestation d'expert "bateaux-citernes" ou combinée "bateaux à marchandises sèches/bateaux-citernes".
+Les cours de spécialisation initiaux, qui font l'objet du 8.2.2.3.3, sont accessibles aux candidats préalablement titulaires d'une attestation d'expert " bateaux-citernes " ou combinée " bateaux à marchandises sèches/bateaux-citernes ".
 
 Les cours de recyclage et de perfectionnement, qui font l'objet du 8.2.2.3.4, sont accessibles aux candidats préalablement titulaires :
 
-- pour le recyclage et le perfectionnement "gaz" d'une attestation d'expert "gaz" et "bateaux-citernes" ou "gaz" et combinée "bateaux à marchandises sèches/bateaux-citernes" ;
+- pour le recyclage et le perfectionnement " gaz " d'une attestation d'expert " gaz " et " bateaux-citernes " ou " gaz " et combinée " bateaux à marchandises sèches/bateaux-citernes " ;
 
-- pour le recyclage et le perfectionnement "chimie" d'une attestation d'expert "chimie" et "bateaux-citernes"ou "chimie" et combinée "bateaux à marchandises sèches/bateaux-citernes".
+- pour le recyclage et le perfectionnement " chimie " d'une attestation d'expert " chimie " et " bateaux-citernes "ou " chimie " et combinée " bateaux à marchandises sèches/bateaux-citernes ".
 
 3.3. Durées minimales des formations.
 
@@ -148,7 +148,7 @@ FORMATION DE RECYCLAGE
 
 Cours de base
 
-"marchandises sèches"
+" marchandises sèches "
 
 |
 
@@ -162,7 +162,7 @@ Seize leçons, dont au minimum deux leçons en matière de stabilité et dont 30
 
 Cours de base
 
-"bateaux-citernes"
+" bateaux-citernes "
 
 |
 
@@ -176,7 +176,7 @@ Seize leçons, dont au minimum deux leçons en matière de stabilité et dont 30
 
 Cours de base
 
-"combiné"
+" combiné "
 
 |
 
@@ -190,7 +190,7 @@ Seize leçons, dont au minimum deux leçons en matière de stabilité et dont 30
 
 Cours de spécialisation
 
-"gaz"
+" gaz "
 
 |
 
@@ -204,7 +204,7 @@ Huit leçons
 
 Cours de spécialisation
 
-"chimie"
+" chimie "
 
 |
 
@@ -226,7 +226,7 @@ Aux fins de se conformer aux dispositions du 1.6.8 du Règlement annexé à l'AD
 
 - soit à un cours de recyclage de base, qui, par exception aux dispositions du 8.2.2.5 et du 3.3 de la présente annexe III, comprend vingt-quatre leçons de quarante-cinq minutes, dont huit leçons consacrées à la stabilité.
 
-Jusqu'au 31 décembre 2018, l'expert sur le transport des gaz (visé au 8.2.1.5) ne doit pas obligatoirement être le conducteur responsable (visé au 7.2.3.15) mais peut être n'importe quel membre de l'équipage lorsqu'un bateau-citerne du type G ne transporte que le numéro ONU 1972. Dans ce cas, le conducteur responsable doit avoir participé à un cours de spécialisation "gaz" et il doit avoir suivi une formation supplémentaire sur le transport de GNL selon le 1.3.2.2.
+Jusqu'au 31 décembre 2018, l'expert sur le transport des gaz (visé au 8.2.1.5) ne doit pas obligatoirement être le conducteur responsable (visé au 7.2.3.15) mais peut être n'importe quel membre de l'équipage lorsqu'un bateau-citerne du type G ne transporte que le numéro ONU 1972. Dans ce cas, le conducteur responsable doit avoir participé à un cours de spécialisation " gaz " et il doit avoir suivi une formation supplémentaire sur le transport de GNL selon le 1.3.2.2.
 
 NOTA :
 

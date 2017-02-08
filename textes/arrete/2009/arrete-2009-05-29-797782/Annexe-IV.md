@@ -58,15 +58,15 @@ Dans les prescriptions qui suivent, on entend par :
 
 (9) Etat descriptif : document établi par le constructeur et validé par l'organisme agréé, comportant pour chaque flexible ou type de flexible au minimum les renseignements suivants :
 
--éléments d'identité ;
+- éléments d'identité ;
 
--caractéristiques ;
+- caractéristiques ;
 
--description ;
+- description ;
 
--marques d'identité et de service ;
+- marques d'identité et de service ;
 
--variantes éventuelles ;
+- variantes éventuelles ;
 
 (10) Xa : organisme agréé selon la procédure visée à l'article 19 du présent arrêté ;
 
@@ -96,9 +96,9 @@ Les flexibles réalisés à partir de tuyaux en caoutchouc sont conformes à la 
 
 Les flexibles réalisés à partir de tuyaux qui ne sont pas en caoutchouc répondent aux exigences de la norme visée ci-dessus en ce qui concerne les points suivants :
 
--chapitre 4 : Pression nominale ;
+- chapitre 4 : Pression nominale ;
 
--chapitre 10 : Marquage.
+- chapitre 10 : Marquage.
 
 2.3. Flexibles pour les matières de la classe 2 des nos ONU 1011,1075,1965,1969 et 1978.
 
@@ -2542,7 +2542,7 @@ Examen visuel
 
 |
 
-9.2.4.2
+Supprimé
 
 |
 
