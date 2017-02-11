@@ -1,97 +1,31 @@
 # Article Annexe 6 à l'article R. 545-16
 
-Ressort territorial et siège des commissions interrégionales de la recherche archéologique
+Ressort territorial des commissions territoriales de la recherche archéologique
 
-COMMISSION INTERRÉGIONALE
+COMMISSION TERRITORIALE |
 
-|
+RESSORT |
 
-RESSORT
+Commission Centre-Nord |
 
-|
+Centre-Val de Loire, Ile-de-France, Hauts-de-France |
 
-SIÈGE
+Commission Ouest |
 
-|
+Bretagne, Normandie, Pays de la Loire |
 
-Commission Centre-Est
+Commission Est |
 
-|
+Grand Est, Bourgogne-Franche-Comté |
 
-Auvergne, Rhône-Alpes
+Commission Sud-Est |
 
-|
+Auvergne-Rhône-Alpes, Provence-Alpes-Côte d'Azur, Corse |
 
-Lyon
+Commission Sud-Ouest |
 
-|
+Nouvelle-Aquitaine, Occitanie |
 
-Commission Centre-Nord
+Commission de l'outre-mer |
 
-|
-
-Centre, Ile-de-France, Nord-Pas-de-Calais, Picardie
-
-|
-
-Orléans
-
-|
-
-Commission Ouest
-
-|
-
-Bretagne, Basse-Normandie, Haute-Normandie, Pays de la Loire
-
-|
-
-Rennes
-
-|
-
-Commission Est
-
-|
-
-Alsace, Bourgogne, Champagne-Ardenne, Franche-Comté, Lorraine
-
-|
-
-Dijon
-
-|
-
-Commission Sud-Est
-
-|
-
-Corse, Languedoc-Roussillon, Provence-Alpes-Côte d'Azur
-
-|
-
-Marseille
-
-|
-
-Commission Sud-Ouest
-
-|
-
-Aquitaine, Limousin, Midi-Pyrénées, Poitou-Charentes
-
-|
-
-Bordeaux
-
-|
-
-Commission de l'outre-mer
-
-|
-
-Guadeloupe, Guyane, Martinique, La Réunion, Mayotte, Saint-Pierre-et-Miquelon, Saint-Barthélemy, Saint-Martin
-
-|
-
-Fort-de-France |
+Guadeloupe, Guyane, Martinique, La Réunion, Mayotte, Saint-Pierre-et-Miquelon, Saint-Barthélemy, Saint-Martin |

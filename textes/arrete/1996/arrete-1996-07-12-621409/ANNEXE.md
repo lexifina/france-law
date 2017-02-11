@@ -6,7 +6,7 @@ Commission nationale de l'inventaire général, des monuments et richesses artis
 
 Commissions régionales du patrimoine historique, archéologique et ethnologique, instituées par le décret n° 84-1006 du 15 novembre 1984 relatif au classement parmi les monuments historiques et à l'inscription sur l'inventaire supplémentaire des monuments historiques et le décret n° 84-1007 du 15 novembre 1984 modifié instituant auprès des préfets de région une commission régionale du patrimoine historique, archéologique et ethnologique.
 
-Conseil national de la recherche archéologique et les commissions interrégionales de la recherche archéologique, institués par le décret n° 94-423 du 27 mai 1994 portant création des organismes consultatifs en matière d'archéologie nationale.
+Conseil national de la recherche archéologique et les commissions territoriales de la recherche archéologique, institués par le décret n° 94-423 du 27 mai 1994 portant création des organismes consultatifs en matière d'archéologie nationale.
 
 Conseil supérieur de la danse, institué par le décret n° 88-469 du 29 avril 1988 portant création du Conseil supérieur de la danse.
 
