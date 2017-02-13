@@ -8,7 +8,7 @@ Les associations agréées au titre de l'environnement.
 
 Bois Bocage Energie.
 
-Structures spécialisées en agroforesterie : AFAC Agroforesteries (et les structures membres de cette fédération), AFAF, AGROOF.
+Structures spécialisées en agroforesterie : AFAC Agroforesteries (et les structures membres de cette fédération qui sont agréées par elle), AFAF, AGROOF.
 
 Fédérations départementales et régionales des chasseurs.
 

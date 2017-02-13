@@ -405,7 +405,3 @@ Solidage glabre
 Asteraceae
 
 |
-
-Source : MULLER S. (coord) : 2004 Plantes invasives en France, Muséum national d'histoire naturelle, Paris, 168 p. (Patrimoines naturels, 62).
-
-|
