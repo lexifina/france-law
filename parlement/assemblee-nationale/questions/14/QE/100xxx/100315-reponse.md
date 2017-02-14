@@ -1,0 +1,9 @@
+# Réponse à la question n° 100315
+
+- Question : [100315](100315.md) — Question n° 100315 — bruits de chantier; lutte et prévention
+
+## Réponse
+
+*JO du 2017-02-14*
+
+Afin d'éviter que la réalisation de chantiers soit à l'origine de nuisances excessives, la réglementation applicable concerne tant les engins utilisés (et notamment leurs émissions sonores) que la conduite du chantier proprement dit. Sur le premier point, la directive européenne 2000-14 du 8 mai 2000, transposée en droit interne par arrêté du 18 mars 2002, est destinée à assurer une limitation des nuisances « à la source ». Elle prévoit en effet que pour pouvoir être mis sur le marché, mis en service ou utilisés, les engins destinés à fonctionner à l'extérieur sont soumis, en fonction des nuisances qu'ils génèrent, soit à une limitation de leur niveau sonore et à un étiquetage de ces niveaux de bruit (matériels les plus bruyants), soit à un seul étiquetage apparent des niveaux de puissance acoustique garantis (matériels moins bruyants). S'agissant enfin de l'exécution du chantier, le non-respect des conditions d'utilisation des matériels, l'absence de précautions appropriées pour limiter le bruit, le comportement anormalement bruyant ou le non-respect de prescriptions particulières (jours, horaires…) constituent une infraction. En outre, que l'infraction soit constituée ou non, il est rappelé que le riverain d'un chantier estimant subir un préjudice peut saisir les juridictions compétentes en vue d'en demander la réparation. Les principales dispositions concernant la prévention des nuisances sonores font l'objet du livre cinquième, titre VII de la partie législative du code de l'environnement, de la partie réglementaire correspondante du même code et des articles R. 1334-30 à R. 1334-37 du code de la santé publique.
