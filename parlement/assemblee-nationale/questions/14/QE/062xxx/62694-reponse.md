@@ -1,0 +1,9 @@
+# Réponse à la question n° 62694
+
+- Question : [62694](62694.md) — Question n° 62694 — illettrisme; lutte et prévention; financement
+
+## Réponse
+
+*JO du 2017-02-14*
+
+La loi du 5 mars 2014 relative à la formation professionnelle, à l'emploi et à la démocratie sociale confie aux Régions, dans le cadre du service public régional de la formation professionnelle, une compétence en matière de lutte contre l'illettrisme sur le territoire régional à compter du 1er janvier 2015. Le transfert de compétences entre l'Etat et les régions s'accompagne du transfert des ressources, conformément à l'article 72-2 de la Constitution. Plus précisément, les crédits que les directions régionales des entreprises, de la concurrence, de la consommation, du travail et de l'emploi (DIRECCTE) consacrent à la lutte contre l'illettrisme ont été transférés aux régions dans le cadre de la loi de finances pour l'année 2015. Il appartient ainsi aux régions, à compter de 2015, de décider de la poursuite du financement des actions financées par l'Etat ou de l'orientation de ces moyens vers de nouvelles actions, au regard notamment des exigences du service public régional de formation et des orientations arrêtées dans le contrat de plan régional de développement des formations et de l'orientation professionnelles. Ce transfert de compétences a pour but de renforcer l'efficacité de l'intervention publique en donnant une plus grande cohérence à l'action en la matière. En contribuant à la politique publique de lutte contre l'illettrisme, la Région est ainsi en mesure, de part une plus grande proximité, de mieux identifier les besoins et de coordonner les différents acteurs qui agissent contre l'illettrisme afin d'apporter assurément des réponses efficaces au plus près des personnes en situation d'illettrisme.
