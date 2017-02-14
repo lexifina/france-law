@@ -1,0 +1,9 @@
+# Réponse à la question n° 99128
+
+- Question : [99128](99128.md) — Question n° 99128 — forestiers-sapeurs; statut; revendications
+
+## Réponse
+
+*JO du 2017-02-14*
+
+Les cadres d'emplois de la fonction publique territoriale ont été conçus de manière à regrouper un grand nombre de métiers afin de répondre au mieux aux besoins des collectivités territoriales. Ces cadres d'emplois à vocation généraliste favorisent ainsi la mobilité et assurent la fluidité des carrières des fonctionnaires territoriaux. Le cadre d'emplois des adjoints techniques territoriaux, cadre d'emplois techniques de catégorie C, couvre ainsi différents secteurs d'activité, tels que : le bâtiment, les travaux publics, la restauration, les espaces naturels et les espaces verts. Le métier de forestier-sapeur n'est pas référencé par le répertoire des métiers territoriaux élaboré par le centre national de la fonction publique territoriale (CNFPT). Les forestiers-sapeurs étant principalement chargés de réaliser des travaux d'entretien au profit d'ouvrages classés « défense des forêts contre les incendies », la nature de leurs missions correspond aux fonctions exercées par les agents appartenant au cadre d'emplois des adjoints techniques. A l'instar des grimpeurs-élagueurs, spécialité reconnue par le CNFPT, les forestiers-sapeurs, par leur domaine d'activité et la nature de leurs missions, appartiennent bien à la filière technique. Les risques de pénibilité et de dangerosité au travail sont liés aux conditions de travail. En accord avec les partenaires sociaux, le ministère de la fonction publique a conduit, avec les employeurs publics et les partenaires sociaux, une concertation au sein d'un groupe de travail sur la politique de santé et de sécurité au travail dans la fonction publique, afin d'améliorer la prévention des risques professionnels. Une feuille de route sur la santé au travail issue de cette concertation sera prochainement diffusée.
