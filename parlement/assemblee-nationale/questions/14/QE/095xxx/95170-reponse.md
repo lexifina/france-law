@@ -1,0 +1,9 @@
+# Réponse à la question n° 95170
+
+- Question : [95170](95170.md) — Question n° 95170 — insertion par l'activité économique; associations intermédiaires; réglementation
+
+## Réponse
+
+*JO du 2017-02-14*
+
+Le seuil actuel de 480 heures préserve du risque de distorsion de concurrence avec les autres acteurs économiques, en particulier les entreprises de travail temporaire. En effet les associations intermédiaires (AI) mettent à disposition des salariés à titre lucratif dans des conditions dérogatoires aux règles régissant le travail temporaire, et bénéficient d'exonérations spécifiques de certaines taxes et cotisations sociales. Il est par ailleurs précisé que le seuil d'heures ne s'applique pas en cas de mise à disposition auprès d'organismes à but non lucratif ou auprès de particuliers. Les AI ont d'ailleurs pu développer leur activité dans le cadre de ce seuil d'heures depuis 1998. Le ministère du travail, de l'emploi, de la formation professionnelle et du dialogue social travaille à promouvoir la complémentarité des dispositifs d'insertion, entre les AI et les entreprises de travail temporaires d'insertion (ETTI). Pour assurer la continuité des parcours pour les salariés en insertion dans les AI, ayant atteint la limite réglementaire des 480 heures, les ETTI peuvent prendre le relais. Le Gouvernement prévoit de missionner l'inspection générale des affaires sociales et l'inspection générale des finances sur le sujet du modèle économique des AI. Il sera attentif aux propositions qui en découleront en vue d'éventuels aménagements du cadre juridique existant. Dans le cadre de la loi de finances pour 2017, un budget supplémentaire de 20 millions d'euros a été voté pour accompagner le développement du secteur de l'IAE. Cet effort budgétaire permettra donc de soutenir notamment la croissance des associations intermédiaires, en particulier dans les territoires où le secteur de l'IAE est peu présent, comme dans les territoires d'outre-mer.
