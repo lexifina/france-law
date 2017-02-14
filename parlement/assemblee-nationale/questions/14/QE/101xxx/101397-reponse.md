@@ -1,0 +1,9 @@
+# Réponse à la question n° 101397
+
+- Question : [101397](101397.md) — Question n° 101397 — radar aérien; Vouziers Séchault; perspectives
+
+## Réponse
+
+*JO du 2017-02-14*
+
+Depuis son origine, le projet de parc éolien du Mont des Quatre Faux fait l'objet d'une attention particulière de la part du ministère de la défense. Consulté dans le cadre de la délivrance des autorisations administratives nécessaires à sa construction et à son exploitation, le ministère a relevé que les perturbations générées par les éoliennes de ce parc seraient de nature à dégrader la qualité de la détection et l'intégrité des informations transmises par les moyens radars de la défense actuellement en service dans cette région. Afin de pallier cette difficulté, le ministre de la défense a retenu la solution consistant à installer un radar relais sur le site de Vouziers-Séchault. Conformément aux dispositions de l'article L. 332-8 du code de l'urbanisme, dans sa rédaction issue de la loi no 2015-992 du 17 août 2015 relative à la transition énergétique pour la croissance verte, le ministère de la défense et la société EDF Energies Nouvelles ont donc décidé de négocier une convention, afin de définir notamment les conditions selon lesquelles le groupe EDF participerait à l'acquisition et au maintien en condition opérationnelle de ce radar relais, ainsi que les modalités d'une cohabitation des équipements radars du ministère et du parc éolien. Cette convention devrait être signée d'ici à la fin du premier trimestre 2017, pour une mise en service, dès 2019, du parc éolien, conformément au vœu exprimé par le groupe EDF, sous réserve de la remise des fonds requis pour l'acquisition du radar relais. Attaché à la promotion des énergies renouvelables, le ministre de la défense souhaite que ce projet aboutisse favorablement.
