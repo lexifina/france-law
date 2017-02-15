@@ -1,0 +1,33 @@
+# Réponse à la question n° 1650
+
+- Question : [1650](1650.md) — Question n° 1650 — parts; cession; réglementation
+
+## Réponse
+
+*JO du 2017-02-15*
+
+RETRAIT DU CAPITAL D'UNE SOCIÉTÉ D'ÉCONOMIE MIXTE
+
+M. le président. La parole est à M. Alfred Marie-Jeanne, pour exposer sa question, n° 1650, relative au retrait du capital d'une société d'économie mixte.
+
+M. Alfred Marie-Jeanne. Monsieur le ministre de l'aménagement du territoire, de la ruralité et des collectivités territoriales, s'il est une réforme urgente à opérer, c'est bien celle de la sortie d'une collectivité territoriale d'une société d'économie mixte locale. La gestion de ces sociétés a souvent été mise à l'index dans le cadre d'affaires relevant des juridictions administratives comme des tribunaux judiciaires. Des manipulations opérées en interne ont été à maintes reprises dénoncées par qui de droit.
+
+Il est temps de régler ce problème, qui lèse les intérêts vitaux de toutes les collectivités. C'est ainsi que les déficits constatés sont ipso facto répercutés sur ces dernières. Le principe de libre administration des collectivités territoriales, reconnu par l'article 72 alinéa 3 de la Constitution, est ainsi mis à mal, car la liberté d'entrer et de sortir d'une société d'économie mixte et celle de céder des actions, se trouvent bloquées. La perpétuation de cette situation perdure reviendrait à octroyer une prime à la mauvaise gestion.
+
+Monsieur le ministre, vous qui connaissez bien ce problème, une nouvelle réforme s'impose donc pour que les collectivités territoriales ne soient plus ligotées par des pratiques inavouables.
+
+M. le président. La parole est à M. le ministre de l’aménagement du territoire, de la ruralité et des collectivités territoriales.
+
+M. Jean-Michel Baylet, ministre de l’aménagement du territoire, de la ruralité et des collectivités territoriales. Monsieur le député, la loi du 7 juillet 1983 relative aux sociétés d'économie mixte locales – SEML – et la circulaire du 16 juillet 1985 fixent les grands principes applicables à ces sociétés. Ce sont des sociétés anonymes régies par le livre II du code de commerce, sous réserve de l'application des dispositions du code général des collectivités territoriales. Celles-ci prévoient que les collectivités locales et leurs groupements détiennent séparément, ou à plusieurs, plus de la moitié du capital des SEML et des voix dans les organes délibérants, afin de ne pas tirer profit de ces structures au détriment de leurs finalités d'intérêt général. La part de capital détenue par les actionnaires autres que les collectivités territoriales ne peut, quant à elle, être inférieure à 15 %.
+
+La sortie d'une collectivité territoriale du capital d'une SEML ne doit pas avoir pour effet de remettre en cause la répartition du capital imposée par le code général des collectivités territoriales. À défaut, la SEML ne saurait se maintenir. La sortie d'une collectivité territoriale du capital d'une société d'économie mixte se traduit matériellement, monsieur le député, par une cession des actions, qui constitue un acte de transmission à une autre personne morale de droit public ou privé, sous la forme d'une vente. Tout comme pour l'acquisition des participations, la cession des actions s'opère selon les techniques du droit des sociétés. Un ordre de mouvement des actions cédées ou données est établi, et une inscription est faite en compte de celles-ci au nom de l'acquéreur. La cession d'actions constitue un processus de désaffiliation de la collectivité. À l'instar de la souscription d'actions, la cession de parts doit faire l'objet d'une délibération de l'assemblée délibérante de la collectivité territoriale transmise au représentant de l'État dans le département. Cette délibération fixe le nombre d'actions à céder, le montant de la transaction, la désignation de l'acquéreur et autorise le chef de l'exécutif de la collectivité à conclure la convention de cession des actions. Dans le silence des textes, la cession des titres est réputée être à titre onéreux et le prix de cession résulte d'un accord entre cédant et cessionnaire. Le prix de la cession n'est pas fixé librement par les personnes publiques actionnaires.
+
+La loi NOTRe a récemment réorganisé les évolutions de l'actionnariat des entreprises publiques locales résultant des transferts de compétences. En application de ce texte, le département, actionnaire d'une SEML dont l'objet social s'inscrit dans le cadre d'une compétence que la loi attribue à un autre niveau de collectivité territoriale ou groupement, devait céder, avant le 31 décembre 2016, plus des deux tiers des parts qu'il détenait antérieurement à la collectivité ou au groupement désormais bénéficiaire de la compétence. Cette disposition permet au département de continuer à participer au capital des SEML dont l'objet social porte, notamment, sur le développement économique. La mise en œuvre de la cession des parts de capital détenues par les départements nécessitait d'instaurer un dialogue entre les collectivités territoriales et les groupements de collectivités concernés. En vertu du principe constitutionnel de libre administration des collectivités territoriales, auquel vous venez de faire allusion, ces dispositions ne sauraient édicter une obligation de rachat d'actionnariat entre collectivités ou traiter des conséquences du refus d'acquisition des actions par les collectivités territoriales et groupements de collectivités territoriales concernés.
+
+En dernier ressort, dans l'hypothèse où aucune collectivité territoriale ou groupement de collectivités territoriales ne se porterait acquéreur, dans le délai imparti, des actions du département au sein de la SEML, toutes les délibérations du conseil départemental relatives à cette SEML se trouveraient juridiquement fragilisées et pourraient donner lieu à un contentieux.
+
+Voilà, monsieur le député, les éléments de réponse détaillés que je souhaitais porter à votre connaissance. L'état du droit est l'application directe de la loi NOTRe. Dans un contexte marqué par la survenue de premiers contentieux, je souhaitais vous répondre très précisément et de manière très technique.
+
+M. le président. La parole est à M. Alfred Marie-Jeanne.
+
+M. Alfred Marie-Jeanne. Il faut bien comprendre que nous ne remettons pas en cause l'existence même des sociétés d'économie mixte. Le problème réside dans le fait que, lorsqu'une collectivité territoriale veut quitter le capital d'une telle société, elle est bloquée, ce qui est source de contentieux. Un travail considérable est à engager pour trouver une solution. J'appelle donc votre attention sur la nécessité d'engager une réforme.
