@@ -1,0 +1,9 @@
+# Réponse à la question SEQ161123853
+
+- Question : [SEQ161123853](seq161123853.md) — Reconnaissance de l'état de catastrophe naturelle pour les mouvements de terrains
+
+## Réponse
+
+*Environnement, énergie et mer, JO du 2017-02-16, page 665*
+
+Le phénomène de retrait et gonflement des argiles, provoqué par les variations de teneur en eau dans les sols, peut induire des dommages importants sur les constructions, en particulier à la suite d'importants épisodes de sécheresse. La reconnaissance de l'état de catastrophe naturelle est fixée par des critères météorologiques précis combinés à la présence d'argile sur la commune. Les critères utilisés actuellement par la Commission interministérielle sont en vigueur depuis 2011. Le ministère de l'environnement, de l'énergie et de la mer, chargé des relations internationales sur le climat, mène régulièrement des actions visant à améliorer la prévention du risque lié à la présence d'argile dans les sols. Parmi elles, le projet ARGIC2 (analyse du retrait-gonflement et de ses indices sur les constructions), a permis, durant la période de 2011 à 2014, d'améliorer la connaissance sur des points fondamentaux tels que le comportement des maisons individuelles soumises à ce phénomène, la compréhension du comportement des sols soumis à des variations de teneur en eau, la cartographie des sols sensibles au retrait gonflement des argiles. Le rapport final de ce projet a été publié en octobre 2015. Le projet ARGIC2 a également abouti à la rédaction de trois guides techniques, à paraître prochainement. Ces guides, à destination des acquéreurs et des constructeurs, sont consacrés aux problématiques de retrait gonflement des sols argileux et aux dispositions à prendre en cas de construction de maison ou de réparation à entreprendre, suite à des désordres imputables au phénomène de retrait gonflement.
