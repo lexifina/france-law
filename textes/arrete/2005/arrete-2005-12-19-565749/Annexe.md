@@ -4,27 +4,29 @@ ATTRIBUTION ET MONTANTS DE L'INDEMNITÉ COMPLÉMENTAIRE
 
 ANNEXE A
 
-DESIGNATION DE LA JURIDICTION
+DÉSIGNATION DE LA JURIDICTION
 
 |
 
 MONTANT MENSUEL MAXIMAL
 
-de l'indemnité complémentaire (en euros)
+de l'indemnité complémentaire
+
+(en euros)
 
 |
 
-Tribunal de grande instance de Paris
+Tribunal judiciaire de Paris
 
 |
 
-90
+150
 
 |
 
 ANNEXE B
 
-CONDITIONS DE DESIGNATION
+CONDITIONS DE DÉSIGNATION
 
 du greffier assurant l'intérim
 
@@ -32,7 +34,9 @@ du greffier assurant l'intérim
 
 MONTANT MENSUEL MAXIMAL
 
-de l'indemnité complémentaire (en euros)
+de l'indemnité complémentaire
+
+(en euros)
 
 |
 
