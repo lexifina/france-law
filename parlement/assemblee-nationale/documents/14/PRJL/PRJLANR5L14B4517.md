@@ -1,0 +1,13 @@
+# projet de loi autorisant l'approbation de l'accord entre le Gouvernement de la République française et le Gouvernement de la République algérienne démocratique et populaire relatif aux échanges de jeunes actifs
+
+- Type : Projet de loi
+- Sous-type : autorisant la ratification d'une convention
+- Dénomination : Projet de loi
+- Provenance : Texte Déposé
+- Titre court : Accord avec l'Algérie relatif aux échanges de jeunes actifs
+- Déposé le : 2017-02-16
+- Publié le : 2017-08-02
+- Dossier : DLR5L14N35343
+- Auteurs : Assemblée nationale de la 14ème législature
+- Identifiant : PRJLANR5L14B4517
+- Législature : 14
