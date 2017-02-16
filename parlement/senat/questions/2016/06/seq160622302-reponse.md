@@ -1,0 +1,9 @@
+# Réponse à la question SEQ160622302
+
+- Question : [SEQ160622302](seq160622302.md) — Fusion d'établissements publics de coopération intercommunale et plan d'urbanisme
+
+## Réponse
+
+*Aménagement du territoire, ruralité et collectivités territoriales, JO du 2017-02-16, page 645*
+
+Conscient des difficultés relatives à l'exercice de la compétence d'élaboration du plan local d'urbanisme (PLU) dans le cadre des fusions d'intercommunalités, le Gouvernement a décidé d'inscrire les dispositions utiles directement dans la loi relative à l'égalité et à la citoyenneté, promulguée le 27 janvier 2017. Au terme des débats parlementaires, l'article 117 de la loi permet à une communauté de communes ou d'agglomération issue d'une fusion entre un ou plusieurs établissements publics de coopération intercommunale (EPCI) compétents en matière de PLU et un ou plusieurs EPCI ne détenant pas cette compétence, pendant une période de cinq ans à compter de sa date de création, de prescrire la révision d'un PLU existant sans être obligée d'engager l'élaboration d'un PLU couvrant l'ensemble de son périmètre. Autrement dit, c'est l'intercommunalité qui sera responsable des documents d'urbanisme communaux mais le lancement de l'élaboration d'un PLU intercommunal pourra être retardé de cinq ans. Cette disposition a vocation à s'appliquer à toutes procédures de fusions « mixtes », qu'elles aient abouti au 1er janvier 2017 ou qu'elles deviennent effectives ultérieurement. De la même manière, les dispositions adaptées aux intercommunalités à fiscalité propre de très grande taille, qui leur permettront d'élaborer des PLU intercommunaux partiels couvrant l'intégralité du périmètre de l'EPCI, de matière pérenne, pourront être utilisées par tous les EPCI remplissant les critères, même après le 1er janvier 2017.
