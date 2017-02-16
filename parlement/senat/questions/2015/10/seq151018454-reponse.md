@@ -1,0 +1,9 @@
+# Réponse à la question SEQ151018454
+
+- Question : [SEQ151018454](seq151018454.md) — Statut du tronçon de canalisation situé en aval du compteur d'eau
+
+## Réponse
+
+*Environnement, énergie et mer, JO du 2017-02-16, page 663*
+
+Les ouvrages d'adduction publique en eau potable constituent des ouvrages publics, y compris les branchements qui amènent l'eau aux immeubles des particuliers, c'est-à-dire jusqu'au compteur. Qu'ils soient établis sous la voie publique ou implantés dans un immeuble privé, ils sont en effet considérés comme une dépendance de la conduite principale à laquelle ils sont reliés. Ils font ainsi partie de l'ensemble des ouvrages publics que comporte un service public de distribution d'eau, indépendamment du fait qu'ils aient été exécutés dans le cadre d'une concession, d'une régie ou par les propriétaires eux-mêmes pour le compte d'une collectivité. Le règlement de service prévu à l'article L. 2224-12 du code général des collectivités territoriales (CGCT) précise aux abonnés les prestations assurées par le service ainsi que les obligations respectives de l'exploitant, des abonnés, des usagers et des propriétaires, notamment pour ce qui concerne les branchements. Le descriptif détaillé des ouvrages de transport et de distribution d'eau potable prévu à l'article L. 2224-7-1 peut être l'occasion pour la collectivité d'identifier clairement les branchements situés en propriété privée. Cette connaissance lui permettra, si elle en fait le choix, d'identifier les zones où il apparaît pertinent, à l'occasion d'un programme de renouvellement des branchements, de déplacer les compteurs d'eau aux limites extérieures des propriétés privées desservies. Les nouvelles canalisations après compteurs seront alors transférées au propriétaire privé. Compte tenu de ces éléments, il n'apparaît pas nécessaire de légiférer sur le sujet.
