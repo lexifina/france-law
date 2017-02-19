@@ -12,7 +12,9 @@ NOMBRE D'EMPLOIS
 
 |
 
-NOMBRE DE POINTS PAR EMPLOI
+NOMBRE DE POINTS
+
+par emploi
 
 |
 
@@ -88,18 +90,6 @@ Commandant en second des forces aériennes stratégiques
 
 |
 
-Commandant en second du soutien des forces aériennes
-
-|
-
-1
-
-|
-
-100
-
-|
-
 Commandant du centre d'expériences aériennes militaires
 
 |
@@ -112,7 +102,7 @@ Commandant du centre d'expériences aériennes militaires
 
 |
 
-Chef d'état-major et adjoint renseignement du commandant de la défense aérienne et des opérations aériennes
+Chef d'état-major du commandant de la défense aérienne et des opérations aériennes
 
 |
 
@@ -125,18 +115,6 @@ Chef d'état-major et adjoint renseignement du commandant de la défense aérien
 |
 
 Chef d'état-major du commandement des forces aériennes
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Chef d'état-major du commandement du soutien des forces aériennes
 
 |
 
@@ -245,18 +223,6 @@ Commandant les écoles d'officiers de l'armée de l'air
 |
 
 Commandant les écoles des sous-officiers et militaires du rang de l'armée de l'air
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Commandant du centre multimodal des transports
 
 |
 

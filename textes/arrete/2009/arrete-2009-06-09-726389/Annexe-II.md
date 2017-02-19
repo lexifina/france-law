@@ -12,7 +12,9 @@ NOMBRE D'EMPLOIS
 
 |
 
-NOMBRE DE POINTS PAR EMPLOI
+NOMBRE DE POINTS
+
+par emploi
 
 |
 
@@ -44,7 +46,7 @@ Commandant de brigade interarmes
 
 |
 
-8
+7
 
 |
 
@@ -52,7 +54,7 @@ Commandant de brigade interarmes
 
 |
 
-Commandant de la Légion étrangère
+Commandant de la légion étrangère
 
 |
 
@@ -172,23 +174,11 @@ Commandant en second des forces terrestres
 
 |
 
-Général adjoint préparation opérationnelle au commandant des forces terrestres
+Général-adjoint au commandant des forces terrestres
 
 |
 
-1
-
-|
-
-100
-
-|
-
-Général adjoint soutien au commandant des forces terrestres
-
-|
-
-1
+2
 
 |
 
@@ -200,7 +190,7 @@ Commandant de division au commandement des forces terrestres
 
 |
 
-8
+7
 
 |
 
@@ -208,7 +198,7 @@ Commandant de division au commandement des forces terrestres
 
 |
 
-Officier général chargé des relations internationales et du soutien aux exportations
+Officier général chargé du pôle relations internationales
 
 |
 
@@ -220,7 +210,7 @@ Officier général chargé des relations internationales et du soutien aux expor
 
 |
 
-Commandant de l'école d'infanterie
+Commandant des écoles militaires de Draguignan
 
 |
 
@@ -232,7 +222,7 @@ Commandant de l'école d'infanterie
 
 |
 
-Commandant des écoles militaires de Bourges et de l'école du train
+Commandant des écoles militaires de Bourges
 
 |
 
@@ -244,7 +234,7 @@ Commandant des écoles militaires de Bourges et de l'école du train
 
 |
 
-Commandant des écoles militaires de Saumur et de l'école de cavalerie
+Commandant des écoles militaires de Saumur
 
 |
 
@@ -256,7 +246,7 @@ Commandant des écoles militaires de Saumur et de l'école de cavalerie
 
 |
 
-Chef d'état-major du corps européen
+Adjoint au commandant du corps de réaction rapide européen
 
 |
 
@@ -316,7 +306,7 @@ Commandant des écoles de Coëtquidan
 
 |
 
-Commandant de l'Ecole nationale des sous-officiers d'active
+Commandant de l'école nationale des sous-officiers d'active
 
 |
 
@@ -333,6 +323,42 @@ Directeur de la doctrine d'emploi des forces
 |
 
 1
+
+|
+
+80
+
+|
+
+Adjoint à un commandant d'état-major de forces
+
+|
+
+2
+
+|
+
+80
+
+|
+
+Général adjoint synthèse de l'état-major de l'armée de terre
+
+|
+
+1
+
+|
+
+80
+
+|
+
+Adjoint au sous-chef d'état-major plans et programmes de l'état-major de l'armée de terre
+
+|
+
+2
 
 |
 

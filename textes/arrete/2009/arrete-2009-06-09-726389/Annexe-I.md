@@ -12,7 +12,9 @@ NOMBRE D'EMPLOIS
 
 |
 
-NOMBRE DE POINTS PAR EMPLOI
+NOMBRE DE POINTS
+
+par emploi
 
 |
 
@@ -40,7 +42,7 @@ Directeur de l'enseignement militaire supérieur
 
 |
 
-Officier général de zone de défense et de sécurité et officier général de zone de soutien de Paris
+Officier général de zone de défense et de sécurité de Paris-Gouverneur militaire de Paris
 
 |
 
@@ -52,7 +54,7 @@ Officier général de zone de défense et de sécurité et officier général de
 
 |
 
-Officier général de zone de défense et de sécurité Est, Sud-Est, Ouest ou Sud-Ouest et officier général de zone de soutien de Metz, Lyon, Bordeaux ou Rennes
+Officier général de zone de défense et de sécurité Est, Sud-Est, Ouest ou sud-ouest
 
 |
 
@@ -76,23 +78,11 @@ Général inspecteur adjoint à l'inspecteur des armées
 
 |
 
-Général adjoint engagements à l'officier général de la zone de défense et de sécurité de Paris, Est, Sud-Est, Sud-Ouest ou Ouest
+Général adjoint engagements à l'officier général de la zone de défense et de sécurité de Paris, Est, Nord, Sud, Sud-Est, Sud-Ouest ou Ouest
 
 |
 
-5
-
-|
-
-80
-
-|
-
-Général adjoint soutien à l'officier général de zone de soutien de Paris, Metz, Lyon, Bordeaux ou Rennes
-
-|
-
-5
+7
 
 |
 
@@ -172,6 +162,18 @@ Inspecteur des armements nucléaires
 
 |
 
+Conseiller du Gouvernement pour la défense
+
+|
+
+2
+
+|
+
+110
+
+|
+
 Chef de cabinet militaire au cabinet du Premier ministre
 
 |
@@ -196,7 +198,7 @@ Chef de cabinet militaire au cabinet du ministre de la défense
 
 |
 
-Chef de cabinet du chef d'état-major des armées-chef de la division affaires générales de l'état-major des armées
+Chef de cabinet du chef d'état-major des armées-Chef de la division affaires générales de l'état-major des armées
 
 |
 
@@ -220,7 +222,7 @@ Chef de l'état-major interarmées de force et d'entraînement
 
 |
 
-Directeur de l'école de guerre
+Directeur de l'Ecole de guerre
 
 |
 
@@ -304,7 +306,7 @@ Directeur du centre interarmées de concepts, de doctrines et d'expérimentation
 
 |
 
-Directeur du Centre des hautes études militaires (DEMS)
+Directeur du centre des hautes études militaires (DEMS)
 
 |
 
@@ -328,30 +330,6 @@ Directeur de l'école des commissaires des armées
 
 |
 
-Officier général chargé de la stratégie militaire et de la prospective
-
-|
-
-1
-
-|
-
-100
-
-|
-
-Général commandant interarmées des hélicoptères
-
-|
-
-1
-
-|
-
-80
-
-|
-
 Commandant interarmées de l'espace
 
 |
@@ -364,7 +342,7 @@ Commandant interarmées de l'espace
 
 |
 
-Commandant le Centre national des sports de la défense
+Commandant le centre national des sports de la défense
 
 |
 
@@ -429,6 +407,54 @@ Secrétaire général du Conseil supérieur de la réserve militaire
 |
 
 1
+
+|
+
+80
+
+|
+
+Adjoint au commandant des opérations spéciales
+
+|
+
+1
+
+|
+
+80
+
+|
+
+Commandant du centre du soutien des opérations et des acheminements
+
+|
+
+1
+
+|
+
+80
+
+|
+
+Directeur local de la DIRISI Ile-de-France/ 8e RT
+
+|
+
+1
+
+|
+
+80
+
+|
+
+Directeur d'établissement du service d'infrastructure de la défense
+
+|
+
+8
 
 |
 

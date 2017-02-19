@@ -12,7 +12,9 @@ NOMBRE D'EMPLOIS
 
 |
 
-NOMBRE DE POINTS PAR EMPLOI
+NOMBRE DE POINTS
+
+par emploi
 
 |
 
@@ -64,7 +66,7 @@ Secrétaire général du contrôle général des armées
 
 |
 
-Chef du groupe de contrôle des forces et organismes de soutien
+Chef du groupe de contrôle des forces, du soutien et des systèmes d'information
 
 |
 
@@ -88,7 +90,7 @@ Chef du groupe de contrôle du personnel, de la réglementation et du budget
 
 |
 
-Chef du groupe de contrôle des services et industries d'armement
+Chef du groupe de contrôle de l'armement, du maintien en condition opérationnelle et des exportations
 
 |
 
@@ -96,6 +98,4 @@ Chef du groupe de contrôle des services et industries d'armement
 
 |
 
-100
-
-|
+100 |

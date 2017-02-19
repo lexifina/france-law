@@ -12,7 +12,9 @@ NOMBRE D'EMPLOIS
 
 |
 
-NOMBRE DE POINTS PAR EMPLOI
+NOMBRE DE POINTS
+
+par emploi
 
 |
 
@@ -24,6 +26,4 @@ Directeur de l'exploitation et de la logistique pétrolière interarmées
 
 |
 
-100
-
-|
+100 |

@@ -12,7 +12,9 @@ NOMBRE D'EMPLOIS
 
 |
 
-NOMBRE DE POINTS PAR EMPLOI
+NOMBRE DE POINTS
+
+par emploi
 
 |
 
@@ -88,7 +90,7 @@ Autorité de coordination pour les affaires nucléaires, la prévention et la pr
 
 |
 
-Autorité de coordination de la fonction garde-côtes et des questions internationales
+Autorité de coordination pour les relations internationales
 
 |
 
@@ -149,6 +151,30 @@ Chef d'état-major du commandant de la force d'action navale
 |
 
 Adjoint organique à Brest au commandant de la force d'action navale
+
+|
+
+1
+
+|
+
+80
+
+|
+
+Adjoint au commandant des forces sous-marines et de la force océanique stratégique
+
+|
+
+1
+
+|
+
+80
+
+|
+
+Commandant du centre d'études stratégiques de la marine, délégué au rayonnement de la marine et commandant de la marine à Paris
 
 |
 
