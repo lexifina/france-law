@@ -44,6 +44,10 @@ Inspecteur des armements nucléaires
 
 |
 
+Conseiller du Gouvernement pour la défense
+
+|
+
 Chef de cabinet militaire au cabinet du Premier ministre
 
 |
@@ -52,7 +56,7 @@ Chef de cabinet militaire au cabinet du ministre de la défense
 
 |
 
-Chef de cabinet du chef d'état-major des armées-chef de la division affaires générales de l'état-major des armées
+Chef de cabinet du chef d'état-major des armées-Chef de la division affaires générales de l'état-major des armées
 
 |
 
@@ -88,15 +92,7 @@ Directeur du centre interarmées de concepts, de doctrines et d'expérimentation
 
 |
 
-Directeur du Centre des hautes études militaires (DEMS)
-
-|
-
-Officier général chargé de la stratégie militaire et de la prospective
-
-|
-
-Général commandant interarmées des hélicoptères
+Directeur du centre des hautes études militaires (DEMS)
 
 |
 
@@ -104,7 +100,7 @@ Commandant interarmées de l'espace
 
 |
 
-Commandant le Centre national des sports de la défense
+Commandant le centre national des sports de la défense
 
 |
 
@@ -120,9 +116,7 @@ Officier général chargé du retour à la vie civile des officiers généraux
 
 |
 
-Directeur de l'école des commissaires des armées
-
-|
+Directeur de l'école des commissaires des armées |
 
 TABLEAU II
 
@@ -137,10 +131,6 @@ Commandant des forces terrestres
 |
 
 Commandant de brigade spécialisée
-
-|
-
-Commandant de brigade interarmes
 
 |
 
@@ -188,10 +178,6 @@ Général adjoint au commandant des forces terrestres
 
 |
 
-Commandant de division au commandement des forces terrestres
-
-|
-
 Officier général chargé des relations internationales et du soutien aux exportations
 
 |
@@ -204,7 +190,7 @@ Commandant d'écoles militaires de l'armée de terre
 
 |
 
-Chef d'état-major du corps européen
+Adjoint au commandant du corps de réaction rapide européen
 
 |
 
@@ -213,10 +199,6 @@ Chef d'état-major du quartier général du corps de réaction rapide-France
 |
 
 Général adjoint engagements à l'officier général de la zone de défense et de sécurité de Paris, Est, Sud-Est, Sud-Ouest ou Ouest
-
-|
-
-Général adjoint soutien à l'officier général de zone de soutien de Paris, Metz, Lyon, Bordeaux ou Rennes
 
 |
 
@@ -236,13 +218,11 @@ Commandant des écoles de Coëtquidan
 
 |
 
-Commandant de l'Ecole nationale des sous-officiers d'active
+Commandant de l'école nationale des sous-officiers d'active
 
 |
 
-Directeur de la doctrine d'emploi des forces
-
-|
+Directeur de la doctrine d'emploi des forces |
 
 TABLEAU III
 
@@ -304,9 +284,7 @@ Directeur local du service de soutien de la flotte
 
 |
 
-Commandant de l'école navale et du groupe des écoles du Poulmic
-
-|
+Commandant de l'école navale et du groupe des écoles du Poulmic |
 
 TABLEAU IV
 
@@ -340,10 +318,6 @@ Commandant en second des forces aériennes stratégiques
 
 |
 
-Commandant en second du soutien des forces aériennes
-
-|
-
 Commandant du centre d'expériences aériennes militaires
 
 |
@@ -353,10 +327,6 @@ Chef d'état-major et adjoint renseignement du commandant de la défense aérien
 |
 
 Chef d'état-major du commandement des forces aériennes
-
-|
-
-Chef d'état-major du commandement du soutien de l'armée de l'air
 
 |
 
@@ -376,10 +346,6 @@ Commandant les écoles des sous-officiers et militaires du rang de l'armée de l
 
 |
 
-Commandant du centre multimodal des transports
-
-|
-
 Directeur du bureau enquêtes accident air
 
 |
@@ -396,15 +362,15 @@ DÉSIGNATION DE LA FONCTION
 
 |
 
-Directeur de DGA maîtrise de l'information à la direction technique
+Directeur de DGA Maîtrise de l'information à la direction technique
 
 |
 
-Directeur de DGA essais en vol à la direction technique
+Directeur de DGA Essais en vol à la direction technique
 
 |
 
-Directeur de DGA essais de missiles à la direction technique
+Directeur de DGA Essais de missiles à la direction technique
 
 |
 
@@ -424,7 +390,7 @@ Inspecteur général du service de santé des armées
 
 |
 
-Médecin-chef d'un hôpital d'instruction des armées
+Médecin chef d'un hôpital d'instruction des armées
 
 |
 
@@ -436,13 +402,11 @@ Directeur de l'école du Val de Grâce
 
 |
 
-Directeur de l'Institut de recherche biomédicale du service de santé des armées
+Directeur de l'institut de recherche biomédicale du service de santé des armées
 
 |
 
-Inspecteur du service de santé des armées
-
-|
+Inspecteur du service de santé des armées |
 
 TABLEAU VII
 
@@ -452,9 +416,7 @@ DÉSIGNATION DE LA FONCTION
 
 |
 
-Directeur de l'exploitation et de la logistique pétrolière interarmées
-
-|
+Directeur de l'exploitation et de la logistique pétrolière interarmées |
 
 TABLEAU VIII
 
@@ -480,7 +442,7 @@ Secrétaire général du contrôle général des armées
 
 |
 
-Chef du groupe de contrôle des forces et organismes de soutien
+Chef du groupe de contrôle des forces, du soutien et des systèmes d'information
 
 |
 
@@ -488,6 +450,6 @@ Chef du groupe de contrôle du personnel, de la réglementation et du budget
 
 |
 
-Chef du groupe de contrôle des services et industries d'armement
+Chef du groupe de contrôle de l'armement, du maintien en condition opérationnelle et des exportations
 
 |
