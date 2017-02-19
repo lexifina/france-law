@@ -2,11 +2,11 @@
 
 TABLEAU III
 
-Emplois de chef de service et assimilé
+EMPLOIS DE CHEF DE SERVICE ET ASSIMILÉ
 
 A.-Emplois de chef de service
 
-DÉSIGNATION DE L'EMPLOI
+DESIGNATION DE L'EMPLOI
 
 |
 
@@ -19,18 +19,6 @@ NOMBRE DE POINTS PAR EMPLOI
 |
 
 Chef du service parisien de soutien de l'administration centrale
-
-|
-
-1
-
-|
-
-120
-
-|
-
-Chef de service, adjoint au directeur des ressources humaines du ministère de la défense
 
 |
 
@@ -146,7 +134,7 @@ Chef de service, adjoint au directeur des affaires juridiques
 
 |
 
-110
+120
 
 |
 
@@ -186,7 +174,7 @@ Chef du service historique de la défense
 
 |
 
-Chef du service des achats d'armement de la direction des opérations (DGA)
+Chef du service centralisé des achats de la direction des opérations (DGA)
 
 |
 
@@ -198,7 +186,7 @@ Chef du service des achats d'armement de la direction des opérations (DGA)
 
 |
 
-Chef du service d'architecture des systèmes de forces de la direction de la stratégie (DGA)
+Chef du service de préparation des systèmes futurs et d'architecture de la direction de la stratégie (DGA/ DS) et directeur adjoint de la DS
 
 |
 
@@ -206,7 +194,7 @@ Chef du service d'architecture des systèmes de forces de la direction de la str
 
 |
 
-100
+110
 
 |
 
@@ -230,7 +218,7 @@ Chef du service des recherches et technologies de défense et de sécurité de l
 
 |
 
-80
+90
 
 |
 
@@ -282,7 +270,7 @@ Chef du service de maintien en condition opérationnelle de la direction des op�
 
 |
 
-Adjoint au sous-chef d'état-major plans (EMA)
+Adjoint au sous-chef d'états-majors plans (EMA)
 
 |
 
@@ -306,7 +294,7 @@ Adjoint au sous-chef d'état-major opérations (EMA)
 
 |
 
-Adjoint au sous-chef d'état-major relations internationales (EMA)
+Officier général relations internationales militaires (EMA)
 
 |
 
@@ -318,7 +306,7 @@ Adjoint au sous-chef d'état-major relations internationales (EMA)
 
 |
 
-Adjoint au sous-chef d'état-major soutien (EMA)
+Adjoint au sous-chef d'état-major performance et délégué interarmées des réserves (EMA)
 
 |
 
@@ -354,7 +342,7 @@ Chef du service des réalisations de la direction centrale du service d'infrastr
 
 |
 
-Directeur de la navigabilité (DSAE)
+Directeur de la navigabilité (DSAÉ)
 
 |
 
@@ -366,7 +354,7 @@ Directeur de la navigabilité (DSAE)
 
 |
 
-Directeur de la circulation aérienne militaire (DSAE)
+Directeur de la circulation aérienne militaire (DSAÉ)
 
 |
 
@@ -378,21 +366,7 @@ Directeur de la circulation aérienne militaire (DSAE)
 
 |
 
-B.-Emplois de chef de division de l'état-major des armées et assimilé
-
-DÉSIGNATION DE L'EMPLOI
-
-|
-
-NOMBRE D'EMPLOIS
-
-|
-
-NOMBRE DE POINTS PAR EMPLOI
-
-|
-
-Officier général adjoint au major général des armées, chef de la division études, synthèse, management général
+Chef du service Europe, Amérique du Nord et action multilatérale (DGRIS)
 
 |
 
@@ -404,7 +378,57 @@ Officier général adjoint au major général des armées, chef de la division �
 
 |
 
-Officier général adjoint, chef du centre de pilotage et de conduite du soutien
+Chef du service des questions régionales (DGRIS)
+
+|
+
+1
+
+|
+
+110
+
+|
+
+Chef du service pilotage des ressources et de l'influence internationale (DGRIS)
+
+|
+
+1
+
+|
+
+110
+
+|
+
+B.-Emploi de chef de division de l'état-major des armées et assimilé
+
+DESIGNATION DE L'EMPLOI
+
+|
+
+NOMBRE D'EMPLOIS
+
+|
+
+NOMBRE DE POINTS PAR EMPLOI
+
+|
+
+Officier général adjoint au major général des armées-Chef de la division études, synthèse, management général
+
+|
+
+1
+
+|
+
+120
+
+|
+
+Chef du centre interarmées de coordination du soutien
 
 |
 
@@ -416,7 +440,7 @@ Officier général adjoint, chef du centre de pilotage et de conduite du soutien
 
 |
 
-Chef de la division emploi
+Chef de la division emploi des forces
 
 |
 
@@ -440,7 +464,7 @@ Chef de la division forces nucléaires
 
 |
 
-Chef de la division organisations internationales
+Chef de la division Euratlantique
 
 |
 
@@ -452,7 +476,7 @@ Chef de la division organisations internationales
 
 |
 
-Chef de la division régions
+Chef de la division coopération bilatérale sud
 
 |
 
@@ -488,7 +512,7 @@ Chef de la division plans, programmes et évaluation
 
 |
 
-Chef de la division espace programmes interarmées
+Chef de la division cohérence programmes interarmées
 
 |
 
@@ -512,7 +536,7 @@ Chef de la division cohérence capacitaire
 
 |
 
-Officier général chargé de mission équipements
+Chef de la division pilotage
 
 |
 
@@ -521,48 +545,12 @@ Officier général chargé de mission équipements
 |
 
 100
-
-|
-
-Chef de la division politique et performance des soutiens
-
-|
-
-1
-
-|
-
-100
-
-|
-
-Officier général chargé de la transformation et du pilotage des armées
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Délégué interarmées aux réserves
-
-|
-
-1
-
-|
-
-80
 
 |
 
 C.-Emplois de sous-chef d'état-major d'armée et assimilé
 
-DÉSIGNATION DE L'EMPLOI
+DESIGNATION DE L'EMPLOI
 
 |
 
@@ -586,7 +574,7 @@ Sous-chef d'état-major plans et programmes de l'état-major de l'armée de terr
 
 |
 
-Sous-chef d'état-major emploi et soutien de l'état-major de l'armée de terre
+Sous-chef d'état-major opérations aéroterrestres de l'état-major de l'armée de terre
 
 |
 
@@ -622,7 +610,7 @@ Sous-chef d'état-major opérations aéronavales de l'état-major de la marine
 
 |
 
-Sous-chef d'état-major plans et programmes de l'état-major de la marine
+Sous-chef d'état-major préparation de l'avenir de l'état-major de la marine
 
 |
 
@@ -646,7 +634,7 @@ Sous-chef d'état-major soutien finances de l'état-major de la marine
 
 |
 
-Sous-chef d'état-major performance synthèse de l'état-major de l'armée de l'air
+Officier général synthèse de l'état-major de l'armée de l'air
 
 |
 
@@ -670,7 +658,7 @@ Sous-chef d'état-major plans programmes de l'état-major de l'armée de l'air
 
 |
 
-Sous-chef d'état-major emploi soutien de l'état-major de l'armée de l'air
+Sous-chef d'état-major activité de l'état-major de l'armée de l'air
 
 |
 
@@ -682,7 +670,19 @@ Sous-chef d'état-major emploi soutien de l'état-major de l'armée de l'air
 
 |
 
-Délégué aux relations extérieures de l'état-major de l'armée de l'air
+Officier général délégué aux relations extérieures de l'état-major de l'armée de l'air
+
+|
+
+1
+
+|
+
+100
+
+|
+
+Officier général "performance et synthèse" de l'état-major de la marine
 
 |
 

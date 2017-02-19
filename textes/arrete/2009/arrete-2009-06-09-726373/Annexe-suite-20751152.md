@@ -2,11 +2,11 @@
 
 TABLEAU IV
 
-Emplois de directeur adjoint, adjoint à un directeur et assimilé
+EMPLOIS DE DIRECTEUR ADJOINT, ADJOINT À UN DIRECTEUR ET ASSIMILÉ
 
-A.-Emplois de directeur adjoint
+A.-Emplois de directeur-adjoint
 
-DÉSIGNATION DE L'EMPLOI
+DESIGNATION DE L'EMPLOI
 
 |
 
@@ -42,7 +42,7 @@ Sous-directeur, adjoint au directeur du renseignement et de la sécurité de la 
 
 |
 
-Directeur adjoint à la délégation aux affaires stratégiques
+Directeur général adjoint des relations internationales et de la stratégie (DGRIS)
 
 |
 
@@ -50,7 +50,19 @@ Directeur adjoint à la délégation aux affaires stratégiques
 
 |
 
-100
+160
+
+|
+
+Directeur stratégie de défense, prospective et contre prolifération (DGRIS)
+
+|
+
+1
+
+|
+
+140
 
 |
 
@@ -170,11 +182,11 @@ Directeur central adjoint du service du commissariat des armées
 
 |
 
-100
+110
 
 |
 
-Directeur adjoint à la structure intégrée du maintien en condition opérationnelle des matériels terrestres
+Directeur-adjoint à la structure intégrée du maintien en condition opérationnelle des matériels terrestres
 
 |
 
@@ -222,7 +234,7 @@ Directeur adjoint à la direction des ressources humaines de l'armée de l'air
 
 |
 
-Directeur adjoint à la direction centrale du service des essences des armées
+Directeur central adjoint du service des essences des armées
 
 |
 
@@ -230,13 +242,13 @@ Directeur adjoint à la direction centrale du service des essences des armées
 
 |
 
-100
+110
 
 |
 
 B.-Emplois d'adjoint à un directeur et assimilé
 
-DÉSIGNATION DE L'EMPLOI
+DESIGNATION DE L'EMPLOI
 
 |
 
@@ -341,17 +353,5 @@ Adjoint capacités à la direction interarmées des réseaux d'infrastructure et
 |
 
 100
-
-|
-
-Adjoint au directeur chargé des affaires stratégiques
-
-|
-
-4
-
-|
-
-80
 
 |

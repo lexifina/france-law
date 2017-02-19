@@ -2,9 +2,9 @@
 
 TABLEAU V
 
-Emplois d'inspecteur
+EMPLOIS D'INSPECTEUR
 
-DÉSIGNATION DE L'EMPLOI
+DESIGNATION DE L'EMPLOI
 
 |
 
@@ -89,6 +89,30 @@ Inspecteur technique de l'infrastructure de la défense
 |
 
 Officier général inspecteur à l'inspection de l'armée de terre
+
+|
+
+1
+
+|
+
+80
+
+|
+
+Officier général chargé des affaires nucléaires, de la sécurité aérienne et de la navigabilité de l'état-major de l'armée de l'air
+
+|
+
+1
+
+|
+
+80
+
+|
+
+Inspecteur adjoint à l'inspecteur de l'armée de l'air
 
 |
 

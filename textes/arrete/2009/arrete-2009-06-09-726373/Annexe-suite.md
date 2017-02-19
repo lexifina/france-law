@@ -2,11 +2,11 @@
 
 TABLEAU II
 
-Emplois de directeur et assimilé
+EMPLOIS DE DIRECTEUR ET ASSIMILÉ
 
 A.-Emplois de directeur
 
-DÉSIGNATION DE L'EMPLOI
+DESIGNATION DE L'EMPLOI
 
 |
 
@@ -114,7 +114,7 @@ Directeur central du service d'infrastructure de la défense
 
 |
 
-Directeur chargé des affaires stratégiques
+Directeur général des relations internationales et de la stratégie
 
 |
 
@@ -122,7 +122,7 @@ Directeur chargé des affaires stratégiques
 
 |
 
-140
+180
 
 |
 
@@ -186,7 +186,7 @@ Directeur des ressources humaines de l'armée de terre
 
 |
 
-Directeur central de la structure intégrée du maintien en condition opérationnelle des matériels terrestres et directeur central du matériel
+Directeur central de la structure intégrée du maintien en condition opérationnelle des matériels terrestres
 
 |
 
@@ -306,7 +306,19 @@ Directeur des plans, des programmes et du budget de la direction générale de l
 
 |
 
-Adjoint au délégué général de l'armement, directeur
+Adjoint au délégué général pour l'armement, directeur
+
+|
+
+1
+
+|
+
+140
+
+|
+
+Directeur, adjoint au directeur des ressources humaines du ministère de la défense
 
 |
 
@@ -392,7 +404,7 @@ Directeur de la sécurité aéronautique d'Etat
 
 B.-Emplois de délégué
 
-DÉSIGNATION DE L'EMPLOI
+DESIGNATION DE L'EMPLOI
 
 |
 
@@ -430,7 +442,7 @@ Délégué à l'accompagnement des restructurations
 
 C.-Emplois de sous-chef d'état-major à l'état-major des armées
 
-DÉSIGNATION DE L'EMPLOI
+DESIGNATION DE L'EMPLOI
 
 |
 
@@ -478,7 +490,7 @@ Sous-chef d'état-major relations internationales
 
 |
 
-Sous-chef d'état-major soutien
+Sous-chef d'état-major performance
 
 |
 

@@ -2,11 +2,11 @@
 
 TABLEAU VI
 
-Emplois de sous-directeur et assimilé
+EMPLOIS DE SOUS-DIRECTEUR ET ASSIMILÉ
 
 A.-Emplois de sous-directeur
 
-DÉSIGNATION DE L'EMPLOI
+DESIGNATION DE L'EMPLOI
 
 |
 
@@ -30,7 +30,7 @@ Sous-directeur des bureaux des cabinets
 
 |
 
-Sous-directeur du pilotage des programmes budgétaires (SGA)
+Sous-directeur du pilotage des ressources humaines et financières
 
 |
 
@@ -150,7 +150,7 @@ Sous-directeur de la politique générale, des études et de la prospective (DRH
 
 |
 
-Sous-directeur des relations sociales, des statuts et des filières du personnel civil (DRH-MD)
+Sous-directeur des statuts civils, des relations sociales et de la prévention des risques (DRH-MD)
 
 |
 
@@ -450,7 +450,7 @@ Sous-directeur projets (DCSID)
 
 |
 
-Sous-directeur ressources " métier " (DSN)
+Sous-directeur ressources "métier" (DSN)
 
 |
 
@@ -534,7 +534,7 @@ Sous-directeur du budget, des finances et de la comptabilité (SIMMT)
 
 |
 
-Adjoint " offre de soins et expertise " au directeur central du service de santé des armées (DCSSA)
+Adjoint "offre de soins et expertise" au directeur central du service de santé des armées (DCSSA)
 
 |
 
@@ -546,7 +546,7 @@ Adjoint " offre de soins et expertise " au directeur central du service de sant�
 
 |
 
-Adjoint " emploi " au directeur central du service de santé des armées (DCSSA)
+Adjoint "emploi" au directeur central du service de santé des armées (DCSSA)
 
 |
 
@@ -558,7 +558,7 @@ Adjoint " emploi " au directeur central du service de santé des armées (DCSSA)
 
 |
 
-Adjoint " ressources spécialisées " au directeur central du service de santé des armées (DCSSA)
+Adjoint "ressources spécialisées" au directeur central du service de santé des armées (DCSSA)
 
 |
 
@@ -570,7 +570,7 @@ Adjoint " ressources spécialisées " au directeur central du service de santé 
 
 |
 
-Adjoint " personnel et écoles " au directeur central du service de santé des armées (DCSSA)
+Adjoint "personnel et écoles" au directeur central du service de santé des armées (DCSSA)
 
 |
 
@@ -582,7 +582,7 @@ Adjoint " personnel et écoles " au directeur central du service de santé des a
 
 |
 
-Sous-directeur " appui à l'activité " (DCSSA)
+Sous-directeur "appui à l'activité" (DCSSA)
 
 |
 
@@ -594,7 +594,19 @@ Sous-directeur " appui à l'activité " (DCSSA)
 
 |
 
-Sous-directeur synthèses (SCA)
+Chef de la division "performance synthèse" (DCSSA)
+
+|
+
+1
+
+|
+
+100
+
+|
+
+Sous-directeur "performance synthèses" (SCA)
 
 |
 
@@ -606,7 +618,7 @@ Sous-directeur synthèses (SCA)
 
 |
 
-Sous-directeur budget-finances comptabilité (SCA)
+Sous-directeur "métiers" (SCA)
 
 |
 
@@ -618,7 +630,7 @@ Sous-directeur budget-finances comptabilité (SCA)
 
 |
 
-Sous-directeur réglementation-études juridiques (SCA)
+Sous-directeur "réglementation-études juridiques" (SCA)
 
 |
 
@@ -630,7 +642,7 @@ Sous-directeur réglementation-études juridiques (SCA)
 
 |
 
-Sous-directeur achats-soutiens communs (SCA)
+Sous-directeur "filières" (SCA)
 
 |
 
@@ -642,7 +654,7 @@ Sous-directeur achats-soutiens communs (SCA)
 
 |
 
-Sous-directeur production (SIAE)
+Sous-directeur "organique" (SCA)
 
 |
 
@@ -654,7 +666,19 @@ Sous-directeur production (SIAE)
 
 |
 
-Sous-directeur administratif (SIAE)
+Sous-directeur production (SIAé)
+
+|
+
+1
+
+|
+
+80
+
+|
+
+Sous-directeur administratif (SIAé)
 
 |
 
@@ -702,7 +726,7 @@ Sous-directeur de la gestion et de la qualité du service de la gestion des proc
 
 |
 
-Sous-directeur de la coopération et du développement européen (DGA/ DS)
+Chef adjoint du service central de la modernisation et de la qualité (DGA/ SMQ)
 
 |
 
@@ -750,7 +774,7 @@ Sous-directeur de la gestion statutaire et de la réglementation (DGA/ DRH)
 
 |
 
-Sous-directeur exploitation (DRM)
+Sous-directeur de l'exploitation (DRM)
 
 |
 
@@ -762,7 +786,7 @@ Sous-directeur exploitation (DRM)
 
 |
 
-Sous-directeur opérations (DRM)
+Sous-directeur des opérations (DRM)
 
 |
 
@@ -775,30 +799,6 @@ Sous-directeur opérations (DRM)
 |
 
 Sous-directeur personnel-finances-capacités (DRM)
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Sous-directeur compétences (DPMM)
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Sous-directeur gestion du personnel à la direction du personnel militaire de la marine (DPMM)
 
 |
 
@@ -858,7 +858,7 @@ Sous-directeur études, politique des ressources humaines et gestion des hauts p
 
 |
 
-Sous-directeur des questions euro-atlantiques (DAS)
+Adjoint du chef du service du pilotage des ressources et de l'influence internationale (DGRIS)
 
 |
 
@@ -870,7 +870,7 @@ Sous-directeur des questions euro-atlantiques (DAS)
 
 |
 
-Sous-directeur des questions régionales (DAS)
+Adjoint du chef du service Europe, Amérique du Nord et action multilatérale (DGRIS)
 
 |
 
@@ -882,7 +882,7 @@ Sous-directeur des questions régionales (DAS)
 
 |
 
-Sous-directeur de la prolifération et du contrôle (DAS)
+Adjoint du chef du service des questions régionales (DGRIS)
 
 |
 
@@ -894,7 +894,31 @@ Sous-directeur de la prolifération et du contrôle (DAS)
 
 |
 
-Sous-directeur de la politique et de la prospective de défense (DAS)
+Sous-directeur action multilatérale (DGRIS)
+
+|
+
+1
+
+|
+
+80
+
+|
+
+Chef du département lutte contre la prolifération et contrôle (DGRIS)
+
+|
+
+1
+
+|
+
+80
+
+|
+
+Conseiller auprès du directeur stratégie de défense, prospective et contre-prolifération (DGRIS)
 
 |
 
@@ -908,7 +932,7 @@ Sous-directeur de la politique et de la prospective de défense (DAS)
 
 B.-Emplois assimilés à sous-directeur
 
-DÉSIGNATION DE L'EMPLOI
+DESIGNATION DE L'EMPLOI
 
 |
 
@@ -920,7 +944,7 @@ NOMBRE DE POINTS PAR EMPLOI
 
 |
 
-Secrétaire général des architectes de systèmes de forces du service d'architecture des systèmes de forces (DGA/ DS)
+Adjoint au chef du service de préparation des systèmes futurs et d'architecture de la direction de la stratégie (DGA/ DS)
 
 |
 
@@ -1016,7 +1040,7 @@ Directeur du service ministériel opérateur des droits individuels (SCA)
 
 |
 
-Directeur du centre d'analyse et de contrôle interne comptable (SCA)
+Directeur du centre d'analyse et de contrôle interne (SCA)
 
 |
 
@@ -1064,7 +1088,7 @@ Directeur du centre de soutien général des armées (SCA)
 
 |
 
-Directeur de l'institut de recherches stratégiques de l'Ecole militaire à la direction de l'enseignement militaire supérieur (DEMS)
+Directeur de l'institut de recherches stratégiques de l'Ecole Militaire à la direction de l'enseignement militaire supérieur (DEMS)
 
 |
 
@@ -1076,7 +1100,7 @@ Directeur de l'institut de recherches stratégiques de l'Ecole militaire à la d
 
 |
 
-Directeur du centre de documentation de l'Ecole militaire à la direction de l'enseignement militaire supérieur (DEMS)
+Directeur du centre de documentation de l'Ecole Militaire à la direction de l'enseignement militaire supérieur (DEMS)
 
 |
 
@@ -1113,6 +1137,30 @@ Chef de la division des affaires pénales militaires
 |
 
 Chef de la mission d'aide au pilotage
+
+|
+
+1
+
+|
+
+80
+
+|
+
+Directeur du centre interarmées d'administration des opérations
+
+|
+
+1
+
+|
+
+80
+
+|
+
+Directeur du centre expert de la restauration de l'hébergement interarmées
 
 |
 
