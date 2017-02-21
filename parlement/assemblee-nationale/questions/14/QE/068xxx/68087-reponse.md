@@ -1,0 +1,9 @@
+# Réponse à la question n° 68087
+
+- Question : [68087](68087.md) — Question n° 68087 — finances publiques locales; Cour des comptes; rapport; recommandations
+
+## Réponse
+
+*JO du 2017-02-21*
+
+Dans son rapport d'octobre 2014 sur les finances publiques locales, la Cour des comptes préconise de stabiliser les dépenses de personnel des régions. En vertu du principe de libre administration, le choix de rechercher des économies dans la gestion de leurs ressources humaines, tant s'agissant des recrutements que de la gestion des carrières et des régimes indemnitaires, relève de la responsabilité des conseils régionaux. Les contraintes pesant sur les finances publiques nécessitent toutefois que les règles relatives aux décisions prises en matière d'orientation budgétaire par les collectivités territoriales soient renforcées. La loi no 2015-991 du 7 août 2015 portant nouvelle organisation territoriale de la République précise ainsi, en son article 107, le contenu du rapport qui doit être présenté en introduction au débat d'orientation budgétaire, pour les collectivités les plus importantes. En application de ces dispositions, codifiées pour les régions à l'article L. 4312-1 du code général des collectivités territoriales, « le président du conseil régional présente au conseil régional un rapport sur les orientations budgétaires de l'exercice, les engagements pluriannuels envisagés, la structure et l'évolution des dépenses et des effectifs ainsi que sur la structure et la gestion de la dette. Ce rapport précise notamment l'évolution prévisionnelle et l'exécution des dépenses de personnel, des rémunérations, des avantages en nature et du temps de travail ». Ces nouvelles mesures seront de nature à améliorer l'analyse et le suivi de leur masse salariale par les régions et à contribuer au développement d'une vision prospective en la matière.
