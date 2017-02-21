@@ -1,0 +1,9 @@
+# Réponse à la question n° 90449
+
+- Question : [90449](90449.md) — Question n° 90449 — citoyens américains; réglementation
+
+## Réponse
+
+*JO du 2017-02-21*
+
+L'enjeu de l'accord dit FATCA (Foreign account tax compliance act) est le développement de l'échange automatique d'informations pour lutter contre la fraude fiscale internationale. Cet accord datant de 2013 fixe dès lors un cadre pour la mise en œuvre de l'échange automatique entre la France et les Etats-Unis et précise à cette fin l'ensemble des définitions et procédures en vue de mettre en œuvre le dispositif de manière homogène. Il décrit les informations qui doivent être obtenues et échangées d'une part par la France, d'autre part par les Etats-Unis, ainsi que le calendrier et les modalités pratiques. S'agissant d'un compte bancaire en France, un établissement de crédit est libre d'accepter ou de refuser l'ouverture d'un compte de dépôt. Les conditions légales à remplir pour l'ouverture d'un compte de dépôt auprès d'une banque sont identiques pour un résident et pour un non-résident. Elles sont fixées dans les dispositions législatives et réglementaires du code monétaire et financier, notamment celles relatives à la lutte contre le blanchiment de capitaux et le financement des activités terroristes. En cas de difficultés pour ouvrir un compte de dépôt en France et conformément à l'article L. 312-1 du code monétaire et financier, toute personne physique de nationalité française résidant hors de France, dépourvue d'un compte de dépôt, a le droit de bénéficier de la procédure du droit au compte, si elle s'est vu opposer un refus d'ouverture. En vue de renforcer le droit au compte, la loi de séparation et de régulation des activités bancaires, votée en juillet 2013, a fixé un délai de trois jours ouvrés, après réception des pièces requises, pour l'ouverture d'un compte par l'établissement de crédit désigné par la Banque de France.
