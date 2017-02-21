@@ -1,0 +1,9 @@
+# Réponse à la question n° 88614
+
+- Question : [88614](88614.md) — Question n° 88614 — aménagement; financement
+
+## Réponse
+
+*JO du 2017-02-21*
+
+Dans un contexte budgétaire contraint, le Gouvernement a fait le choix de pérenniser son soutien aux communes afin qu'elles développent des activités périscolaires de qualité. La loi de finances initiale pour 2015 a ainsi converti le fonds d'amorçage pour la réforme des rythmes scolaires dans le 1er degré en un fonds de soutien pour le développement des activités périscolaires, dont les aides sont désormais pérennes et conditionnées à la mise en place d'un projet éducatif territorial. L'article L. 212-4 du code de l'éducation définit les compétences obligatoires des communes et l'article L. 212-5 du même code précise les dépenses obligatoires afférentes à ces compétences, dont font partie les dépenses relatives au fonctionnement des écoles publiques. L'article L. 212-8 du code de l'éducation prévoit que la répartition des dépenses de fonctionnement entre la commune de résidence d'un élève et celle dans laquelle il est scolarisé se fait par accord entre ces deux communes. A défaut d'un tel accord, la contribution de chacune d'entre elles est fixée par le préfet après avis du conseil départemental de l'éducation nationale. En revanche, contrairement au fonctionnement des écoles, les activités périscolaires constituent un service public facultatif que les communes ne sont pas obligées d'organiser dès lors que ces activités ne figurent pas parmi les dépenses obligatoires mises à leur charge par l'article L. 212-5 du code de l'éducation et par l'article L. 2321-2 du code général des collectivités territoriales. C'est pourquoi, conformément au principe de libre administration des collectivités territoriales, les modalités de répartition des dépenses relatives aux activités périscolaires entre les communes d'accueil et de résidence sont librement déterminées par les communes concernées.
