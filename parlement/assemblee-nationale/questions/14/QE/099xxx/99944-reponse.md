@@ -1,0 +1,9 @@
+# Réponse à la question n° 99944
+
+- Question : [99944](99944.md) — Question n° 99944 — adoption internationale; perspectives
+
+## Réponse
+
+*JO du 2017-02-21*
+
+Le projet de regroupement entre le groupement d'intérêt public (GIP) « Enfance en Danger » (GIPED) et l'agence française de l'adoption (GIP - AFA) a été retenu à la suite du rapport de la Cour des comptes de 2014 sur l'AFA et annoncé dans le projet annuel de performance du projet de loi de finances 2015. Ces deux GIP ont un même objet : la recherche du meilleur intérêt de l'enfant. La loi du 14 mars 2016 a également rappelé que l'adoption était une mesure de protection de l'enfance. L'objectif de créer un opérateur unique pour la protection de l'enfance, au service des départements et de l'Etat, est essentiel dans le cadre de la réforme de la protection de l'enfance, matérialisée par la loi relative à la protection de l'enfant du 14 mars 2016 et la feuille de route pour la protection de l'enfance 2015-2017. Recommandé par les inspections générales des affaires sociales et des affaires étrangères, ce regroupement doit être l'occasion de créer un outil à la bonne dimension qui assure la continuité de l'action actuellement menée par les deux structures et favorise la coordination des interventions, vis-à-vis et avec les départements. Il doit permettre également une rationalisation des moyens. Les missions actuelles de l'AFA n'ont à aucun moment été remises en cause. La ministre des familles, de l'enfance et des droits des femmes a précisé qu'il ne sera rien fait qui puisse inquiéter les familles et mettre en cause les procédures d'adoption en cours à l'international. Dans l'attente d'un vecteur législatif permettant un regroupement effectif des deux GIP, le Gouvernement travaille à l'élaboration de modalités de rapprochement conventionnelles.
