@@ -1,6 +1,6 @@
-# Article Annexe III
+# Article Annexes III et IV
 
-PLAN DE GESTION POUR LA PÊCHE PROFESSIONNELLE À LA SENNE DE PLAGE EN MER MÉDITERRANÉE PAR LES NAVIRES BATTANT PAVILLON FRANÇAIS
+ANNEXE III : PLAN DE GESTION POUR LA PÊCHE PROFESSIONNELLE À LA SENNE DE PLAGE EN MER MÉDITERRANÉE PAR LES NAVIRES BATTANT PAVILLON FRANÇAIS
 
 Mise en œuvre du règlement (CE) n° 1967/2006 du Conseil du 21 décembre 2006 concernant des mesures de gestion pour l'exploitation durable des ressources halieutiques en Méditerranée
 
@@ -46,9 +46,11 @@ Chapitre 4. ― La mise en œuvre du contrôle, du système de pilotage, du suiv
 
 4. Intégration du plan de gestion pour la senne de plage en Méditerranée dans la réglementation nationale
 
-1. Présentation du plan de gestion pour la pêche professionnelle
+* *
 
-à la senne de plage en Méditerranée
+*
+
+1. Présentation du plan de gestion pour la pêche professionnelle à la senne de plage en Méditerranée
 
 L'article 19 du règlement (CE) n° 1967/2006 du Conseil du 21 décembre 2006 concernant des mesures de gestion pour l'exploitation durable des ressources halieutiques en Méditerranée prévoit que les Etats membres de l'Union européenne, riverains de la Méditerranée, adoptent des plans de gestion pour les activités de pêche maritime professionnelle pratiquées au moyen de chaluts, de sennes de bateau, de sennes de plage, de sennes tournantes coulissantes et de dragues dans leurs eaux territoriales.
 
@@ -58,9 +60,7 @@ Les pêcheries françaises concernées par ces plans de gestion s'étendent au-d
 
 Chapitre 1er
 
-Présentation du plan de gestion
-
-pour la pêche professionnelle à la senne de plage
+Présentation du plan de gestion pour la pêche professionnelle à la senne de plage
 
 1. Principes et contenu du plan de gestion
 
@@ -90,7 +90,7 @@ Les éléments scientifiques qui ont permis l'élaboration des plans de gestion 
 
 ― indicateurs et diagnostics économiques des flottilles concernées par le plan de gestion (rapport de l'IFREMER d'avril 2011 produit en réponse à la saisine 10 ― 2493 de la DPMA concernant le plan de gestion Méditerranée, conformément aux dispositions de l'article 19 du règlement [CE] n° 1967/2006) ;
 
-― le rapport de la quinzième session du comité scientifique consultatif de la Commission générale des pêches pour la Méditerranée ― Rome, 8-11 avril 2013 ― annexe E, évaluations des stocks ― voir les évaluations pour les stocks du golfe du Lion (GSA 07) : sardine (Sardina pilchardus), anchois (Engraulis encrasicolus), rouget de vase ou barbet (Mullus barbatus) et merlu (Merluccius merluccius) ;
+― le rapport de la fquinzième session du comité scientifique consultatif de la Commission générale des pêches pour la Méditerranée ― Rome, 8-11 avril 2013 ― annexe E, évaluations des stocks ― voir les évaluations pour les stocks du golfe du Lion (GSA 07) : sardine (Sardina pilchardus), anchois (Engraulis encrasicolus), rouget de vase ou barbet (Mullus barbatus) et merlu (Merluccius merluccius) ;
 
 ― le rapport du Comité scientifique, technique et économique des pêches sur l'évaluation des stocks de Méditerranée (CSTEP 12-19) de novembre 2012 ;
 
@@ -124,9 +124,7 @@ Chapitre 2
 
 Présentation synthétique des activités de pêche professionnelles en Méditerranée française et de la pêche professionnelle à la senne de plage
 
-1. Présentation des activités
-
-de pêche professionnelle en Méditerranée
+1. Présentation des activités de pêche professionnelle en Méditerranée
 
 Les pêcheries françaises de Méditerranée sont réparties entre deux zones : la première regroupe les zones de pêche du golfe du Lion et celles des côtes continentales françaises à l'ouest du golfe de Gênes (GSA 07) et la GSA 08 couvrant les zones de pêche de Corse. A ces pêches maritimes, littorales et du large, s'ajoutent d'une part une activité de pêche lagunaire intéressant plus d'une vingtaine de lagunes dont la majeure partie borde le littoral du golfe du Lion et d'autre part, une activité hauturière couvrant l'ensemble de la Méditerranée, la pêche du thon rouge à la senne tournante. A l'exception de cette dernière, le golfe du Lion, grâce à son large plateau continental (15 000 km²) et à l'importance de ses lagunes (49 734 ha) sur le littoral, regroupe la majeure partie de l'activité halieutique française en Méditerranée et de sa production. A l'inverse, à l'est de Martigues et en Corse, les profondeurs de plus de 200 mètres sont très proches du littoral et les surfaces exploitables par la pêche se localisent dans la bande côtière. Les différents métiers peuvent se définir en 3 grands groupes : le chalutage, la pêche des poissons pélagiques à la senne tournante et un ensemble de métiers divers pratiqués d'une façon polyvalente et à petite échelle, principalement à la côte et dans les lagunes.
 
@@ -134,9 +132,7 @@ La flottille de pêche de Méditerranée continentale (golfe du Lion et côtes p
 
 L'activité de pêche en Corse est répartie sur l'ensemble de son littoral (1 043 km) avec 50 % des unités de pêche regroupées dans le golfe d'Ajaccio. La flottille est composée de 205 unités artisanales. 10 % de ces navires sont concernés par un plan de gestion pris en application de l'article 19 du règlement (CE) n° 1967/2006.
 
-2. Présentation de l'activité de pêche professionnelle
-
-à la senne de plage en mer Méditerranée
+2. Présentation de l'activité de pêche professionnelle à la senne de plage en mer Méditerranée
 
 a) Description de la pêche à la senne de plage.
 
@@ -144,9 +140,7 @@ Figure 1. ― Schéma type de l'engin senne de plage
 
 (catalogue des engins de pêche FAO)
 
-Vous pouvez consulter le tableau dans le JO
-
-n° 122 du 27/05/2014 texte numéro 6
+Vous pouvez consulter le tableau dans le JO n° 122 du 27/05/2014 texte numéro 6
 
 Les sennes de plage sont des engins mis en pêche par une embarcation légère, puis halés manuellement du rivage par des funes. La portée de ces engins de pêche est limitée à la zone proche du rivage. Cette activité est pratiquée en Languedoc-Roussillon et en région Provence-Alpes-Côte d'Azur. Dans cette dernière région, on peut distinguer une sous-catégorie de la pêche à la senne de plage qui ne concerne qu'une dizaine de navires dans le département des Alpes-Maritimes : la senne de plage à poutine, qui permet de cibler les petits poissons pélagiques et les alevins de sardine, dans un cadre strictement réglementé.
 
@@ -158,75 +152,47 @@ Les données obtenues sur un échantillon de navires dans le cadre du programme 
 
 Figure 2. ― A gauche, compilation des marées réalisées en 2011-2012 par un navire pratiquant la senne de plage en Languedoc-Roussillon : rayon d'action de 10 km vers le nord, de 5 km vers le sud, trajet route à une distance de 200-800 m de la côte, mise en pêche de la senne à une distance de 150-250 m de la côte. A droite, en superposition bleue sur le trait de côte, la localisation de cette zone de pêche sur un extrait de la cartographie des posidonies
 
-Vous pouvez consulter le tableau dans le JO
+Vous pouvez consulter le tableau dans le JO n° 122 du 27/05/2014 texte numéro 6
 
-n° 122 du 27/05/2014 texte numéro 6
+Figure 3. ― A gauche, cartographie des biocénoses des zones Natura 2000 de la " baie et cap d'Antibes ― îles de Lérins " et " Cap Ferat " (région Provence-Alpes-Côte d'Azur). En superposition verte au trait de côte, les zones de pêche pratiquées par les sennes de plage, d'après les informations de la prud'homie d'Antibes. A droite, zoom sur la bande de 300 à 350 mètres entre le trait de côte et le périmètre de la zone Natura 2000. Ci-dessous, légende des biocénoses présentées sur les deux cartes
 
-Figure 3. ― A gauche, cartographie des biocénoses des zones Natura 2000 de la "baie et cap d'Antibes ― îles de Lérins " et "Cap Ferat" (région Provence-Alpes-Côte d'Azur). En superposition verte au trait de côte, les zones de pêche pratiquées par les sennes de plage, d'après les informations de la prud'homie d'Antibes. A droite, zoom sur la bande de 300 à 350 mètres entre le trait de côte et le périmètre de la zone Natura 2000. Ci-dessous, légende des biocénoses présentées sur les deux cartes
+Vous pouvez consulter le tableau dans le JO n° 122 du 27/05/2014 texte numéro 6
 
-Vous pouvez consulter le tableau dans le JO
+La pêche à la senne de plage " hors poutine " se pratique principalement sur une période allant de mars à décembre, avec une activité maximale de juin à septembre. La pêche à la senne de plage " hors poutine " est répartie sur l'ensemble du littoral. Deux secteurs sont les plus actifs pour ce métier : le territoire des prud'homies de Gruissan et de Cros de Cagnes. Pour la période d'observation 2004-2008, l'examen de la flottille pêchant à la senne de plage "hors poutine" permet de dénombrer 26 navires pratiquants cette activité. Le turn-over assez important pour cette flottille, entre 20 et 55 %, doit être interprété avec mesure ; il s'agit d'embarcations de petite taille, souvent motorisées avec un hors-bord et dont le changement est simple. De plus, s'agissant d'une activité collective, une partie du turn-over peut être imputé au choix de l'embarcation en opération parmi les embarcations disponibles des différents participants.
 
-n° 122 du 27/05/2014 texte numéro 6
-
-Vous pouvez consulter le tableau dans le JO
-
-n° 122 du 27/05/2014 texte numéro 6
-
-La pêche à la senne de plage "hors poutine" se pratique principalement sur une période allant de mars à décembre, avec une activité maximale de juin à septembre. La pêche à la senne de plage "hors poutine" est répartie sur l'ensemble du littoral. Deux secteurs sont les plus actifs pour ce métier : le territoire des prud'homies de Gruissan et de Cros de Cagnes. Pour la période d'observation 2004-2008, l'examen de la flottille pêchant à la senne de plage "hors poutine" permet de dénombrer 26 navires pratiquants cette activité. Le turn-over assez important pour cette flottille, entre 20 et 55 %, doit être interprété avec mesure ; il s'agit d'embarcations de petite taille, souvent motorisées avec un hors-bord et dont le changement est simple. De plus, s'agissant d'une activité collective, une partie du turn-over peut être imputé au choix de l'embarcation en opération parmi les embarcations disponibles des différents participants.
-
-Tableau 1. ― Effectif navires de la flottille senne de plage
-
-"hors poutine" (Languedoc-Roussillon, PACA, 2004-2008)
+Tableau 1. ― Effectif navires de la flottille senne de plage " hors poutine " (Languedoc-Roussillon, PACA, 2004-2008)
 
 |
 
-ACTIVITÉ : SENNE DE PLAGE
+ACTIVITÉ : SENNE DE PLAGE |
 
-|
+Nombre de navires |
 
-Nombre de navires
+26 |
 
-|
-
-26
-
-|
-
-Figure 4. ― Diagramme des flux entrants et sortants de la flottille "senne de plage hors poutine"
+Figure 4. ― Diagramme des flux entrants et sortants de la flottille " senne de plage hors poutine "
 
 le turn-over annuel (noir) est calculé sur les années 2005, 2006 et 2007 (Languedoc-Roussillon, PACA, 2004-2008)
 
-Vous pouvez consulter le tableau dans le JO
+Vous pouvez consulter le tableau dans le JO n° 122 du 27/05/2014 texte numéro 6
 
-n° 122 du 27/05/2014 texte numéro 6
+La pêche à la senne de plage " à poutine " se pratique de février à mai. La pratique de la senne de plage " à poutine " ne concerne que le département des Alpes-Maritimes. Pour la période d'observation 2004-2008 l'examen de la flottille pêchant à la senne de plage à poutine permet de dénombrer 11 navires pratiquant cette activité. Comme pour la flottille senne de plage " hors poutine ", le turn-over important pour cette flottille (avec un maximum en 2007 avec 90 %), doit être interprété avec mesure, d'autant plus que l'effectif annuel de la flottille est encore plus réduit ; il s'agit d'embarcations de petite taille, souvent motorisées avec un hors-bord et dont il est facile de changer. De plus, s'agissant d'une activité collective, une partie du turn-over peut être imputé au choix de l'embarcation en opération, parmi les embarcations disponibles de chaque participant.
 
-La pêche à la senne de plage "à poutine" se pratique de février à mai. La pratique de la senne de plage "à poutine" ne concerne que le département des Alpes-Maritimes. Pour la période d'observation 2004-2008 l'examen de la flottille pêchant à la senne de plage à poutine permet de dénombrer 11 navires pratiquant cette activité. Comme pour la flottille senne de plage "hors poutine", le turn-over important pour cette flottille (avec un maximum en 2007 avec 90 %), doit être interprété avec mesure, d'autant plus que l'effectif annuel de la flottille est encore plus réduit ; il s'agit d'embarcations de petite taille, souvent motorisées avec un hors-bord et dont il est facile de changer. De plus, s'agissant d'une activité collective, une partie du turn-over peut être imputé au choix de l'embarcation en opération, parmi les embarcations disponibles de chaque participant.
-
-Tableau 2. ― Effectif navires de la flottille
-
-senne à poutine (PACA, 2004-2008)
+Tableau 2. ― Effectif navires de la flottille senne à poutine (PACA, 2004-2008)
 
 |
 
-ACTIVITÉ : SENNE À POUTINE
+ACTIVITÉ : SENNE À POUTINE |
 
-|
+Nombre de navires |
 
-Nombre de navires
-
-|
-
-11
-
-|
+11 |
 
 Figure 5. ― Diagramme des flux entrants et sortants de la flottille senne à poutine.
 
 Le turn-over annuel (noir) est calculé sur les années 2005, 2006 et 2007 (Languedoc-Roussillon, PACA, 2004-2008)
 
-Vous pouvez consulter le tableau dans le JO
-
-n° 122 du 27/05/2014 texte numéro 6
+Vous pouvez consulter le tableau dans le JO n° 122 du 27/05/2014 texte numéro 6
 
 b) Etat des principaux stocks exploités par la senne de plage.
 
@@ -240,7 +206,7 @@ Une espèce cible est définie comme :
 
 La composition des captures réalisées à la senne de plage montre que les espèces cibles sont les suivantes : poissons divers dont saupe, athérines et sérioles couronnées. Ces espèces représentent 75 % des captures réalisées (en poids moyens capturés par marée). La sériole couronnée n'est cependant ciblée que par quelques unités de la flottille et, par conséquent, n'est pas retenue ― à ce stade ― parmi les espèces cibles auxquelles s'appliquent des objectifs de gestion.
 
-La composition des captures réalisées à la senne de plage "à poutine" montre que la sardine (Sardina pilchardus) est l'espèce cible de cette technique de pêche.
+La composition des captures réalisées à la senne de plage " à poutine " montre que la sardine (Sardina pilchardus) est l'espèce cible de cette technique de pêche.
 
 La saupe (Sarpa salpa) est un poisson de l'ordre des perciformes et de la famille des sparidés. La réglementation européenne et nationale ne prévoit pas de taille minimale de capture pour cette espèce. La saupe vit en banc et évolue depuis la surface jusqu'à 20 mètres de profondeur au-dessus des fonds rocheux ou sableux couverts d'algues, souvent en bord de plage, près des enrochements qui protègent les jetées. Ces espèces ne font pas l'objet d'une évaluation de stock et ne font pas partie de la liste de stocks qui sont considérés comme partiellement évaluables par le rapport du Comité scientifique technique et économique des pêches (CSTEP) de novembre 2012 relatif à l'évaluation des stocks méditerranéens.
 
@@ -248,13 +214,11 @@ La sériole couronnée (Seriola dumerili) est un poisson pélagique de l'ordre d
 
 Les athérines (Atherina presbyter et atherina spp) sont des poissons pélagiques de l'ordre des athériniformes et de la famille des athérinidés. La réglementation européenne et nationale ne prévoit pas de taille minimale de capture. Ces espèces se retrouvent en Méditerranée, dans les zones côtières et estuariennes où elles se nourrissent de larves de poissons et de petits crustacés. Ces espèces ne font pas l'objet d'une évaluation de stock et ne font pas partie de la liste de stocks qui sont considérés comme partiellement évaluables par le rapport du Comité scientifique technique et économique des pêches (CSTEP) de novembre 2012 relatif à l'évaluation des stocks méditerranéens.
 
-La sardine (Sardina pilchardus) est un poisson pélagique qui appartient à l'ordre des clupéiformes et à la famille des clupéidés. Sa taille minimale de capture est fixée à 11 centimètres par le règlement (CE) n° 1967/2006. Ce poisson atteint sa maturité sexuelle à l'âge de deux ans et se retrouve dans toute la Méditerranée, à des profondeurs allant de 10 à 100 mètres mais surtout entre 25 et 100 mètres. Son alimentation se compose principalement de plancton. Cette espèce est ciblée par la pêche à la senne de plage en région Provence-Alpes-Côte d'Azur. Cette pêcherie se concentre exclusivement dans le département des Alpes-Maritimes, à la frontière avec l'Italie (GSA 09) et exploite le stock de sardine de la zone "golfe de Gênes-Ligure nord thyrrhénienne". Une première évaluation du stock de sardine de la GSA 09 a été réalisée et présentée lors du groupe de travail du SG MED du CSTEP en juillet 2012. Cette évaluation repose sur les données de débarquement récoltées de 2006 à 2011 et sur une année de données de la campagne MEDITS italienne. Cette première évaluation n'a pas été présentée au groupe de travail "petits pélagiques" de la CGPM de novembre 2012. Cette évaluation repose sur l'hypothèse que le stock de sardine de la zone "golfe de Gênes-Ligure nord thyrrhénienne" est indépendant du stock de sardine du golfe du Lion. Le taux d'exploitation étant en moyenne légèrement supérieur à 0,4 ― point de référence choisi ― sur la période considérée, le stock est considéré comme étant légèrement surexploité et il est donc conseillé de diminuer la mortalité par pêche. Néanmoins, le taux d'exploitation évalué pour l'année 2011 était légèrement inférieur au taux de référence.
+La sardine (Sardina pilchardus) est un poisson pélagique qui appartient à l'ordre des clupéiformes et à la famille des clupéidés. Sa taille minimale de capture est fixée à 11 centimètres par le règlement (CE) n° 1967/2006. Ce poisson atteint sa maturité sexuelle à l'âge de deux ans et se retrouve dans toute la Méditerranée, à des profondeurs allant de 10 à 100 mètres mais surtout entre 25 et 100 mètres. Son alimentation se compose principalement de plancton. Cette espèce est ciblée par la pêche à la senne de plage en région Provence-Alpes-Côte d'Azur. Cette pêcherie se concentre exclusivement dans le département des Alpes-Maritimes, à la frontière avec l'Italie (GSA 09) et exploite le stock de sardine de la zone "golfe de Gênes-Ligure nord thyrrhénienne ". Une première évaluation du stock de sardine de la GSA 09 a été réalisée et présentée lors du groupe de travail du SG MED du CSTEP en juillet 2012. Cette évaluation repose sur les données de débarquement récoltées de 2006 à 2011 et sur une année de données de la campagne MEDITS italienne. Cette première évaluation n'a pas été présentée au groupe de travail "petits pélagiques" de la CGPM de novembre 2012. Cette évaluation repose sur l'hypothèse que le stock de sardine de la zone "golfe de Gênes-Ligure nord thyrrhénienne" est indépendant du stock de sardine du golfe du Lion. Le taux d'exploitation étant en moyenne légèrement supérieur à 0,4 ― point de référence choisi ― sur la période considérée, le stock est considéré comme étant légèrement surexploité et il est donc conseillé de diminuer la mortalité par pêche. Néanmoins, le taux d'exploitation évalué pour l'année 2011 était légèrement inférieur au taux de référence.
 
 Les captures de sardine de la zone "golfe de Gênes-Ligure nord thyrrhénienne" sont réalisées à 99 % par des navires italiens pêchant à la senne tournante coulissante. Les 1 % restant sont réalisés principalement par des navires italiens pêchant au chalut de fond et secondairement par les navires français pêchant à la senne de plage. La pêche réalisée par les navires français concerne une dizaine de navires sur une période de trois mois au maximum.
 
-2. Objectifs de gestion pour les principales espèces cibles
-
-exploitées par la senne de plage en Méditerranée
+2. Objectifs de gestion pour les principales espèces cibles exploitées par la senne de plage en Méditerranée
 
 La pêche à la senne de plage est une pêcherie plurispécifique qui capture un ensemble d'espèces.
 
@@ -270,9 +234,7 @@ Les points de référence permettant d'estimer l'abondance de ces stocks ont ét
 
 Figure 6. ― Données relatives aux captures de saupe (Sarpa salpa) obtenues à partir des campagnes d'échantillonnages des débarquements (OBSDEB) sur un échantillon de navires pratiquant la senne de plage au cours de la période 2007-2012
 
-SAUPE (Sarpa salpa)
-
-|
+SAUPE (Sarpa salpa) |
 
 DONNÉES SUR LA PÉRIODE
 
@@ -280,69 +242,41 @@ DONNÉES SUR LA PÉRIODE
 
 |
 
-Nombre de marées observées
+Nombre de marées observées |
 
-|
+51 |
 
-51
+Nombre de navires observés |
 
-|
+3 |
 
-Nombre de navires observés
+Capture totale (kg) |
 
-|
+751 |
 
-3
+Capture moyenne (kg) |
 
-|
+14,73 |
 
-Capture totale (kg)
+CPUE (kg/marée) |
 
-|
+14,73 |
 
-751
+Capture minimum/navire (kg/marée) |
 
-|
+1 |
 
-Capture moyenne (kg)
+Capture maximum/navire (kg/marée) |
 
-|
-
-14,73
-
-|
-
-CPUE (kg/marée)
-
-|
-
-14,73
-
-|
-
-Capture minimum/navire (kg/marée)
-
-|
-
-1
-
-|
-
-Capture maximum/navire (kg/marée)
-
-|
-
-90
-
-|
+90 |
 
 Ces points de référence restent à déterminer pour ce qui concerne les athérines. La sériole couronnée n'est ciblée que par quelques unités de la flottille et, par conséquent, n'est pas retenue à ce stade parmi les espèces cibles auxquelles s'appliquent des objectifs de gestion.
 
-Un objectif de gestion spécifique est défini pour la sardine pêchée par la senne de plage à poutine. L'évaluation du stock de sardine de la zone "golfe de Gênes-Ligure nord thyrrhénienne" (GSA 09), réalisé pour la première fois en juillet 2012 (1) a évalué le taux d'exploitation maximal (E) de référence à 0,4. Ce taux correspond à la part maximale de la mortalité totale (Z) du stock de sardine de la GSA 09 provoquée par la pêche (F) qui est compatible avec un bon renouvellement du stock.
+Un objectif de gestion spécifique est défini pour la sardine pêchée par la senne de plage à poutine. L'évaluation du stock de sardine de la zone " golfe de Gênes-Ligure nord thyrrhénienne " (GSA 09), réalisé pour la première fois en juillet 2012 (1) a évalué le taux d'exploitation maximal (E) de référence à 0,4. Ce taux correspond à la part maximale de la mortalité totale (Z) du stock de sardine de la GSA 09 provoquée par la pêche (F) qui est compatible avec un bon renouvellement du stock.
 
 (E) s'exprime à travers le ratio (F/Z).
 
-Les captures de sardine de la zone "golfe de Gênes-Ligure nord thyrrhénienne" sont réalisées à 99 % par des navires italiens pêchant à la senne tournante coulissante. Les 1 % restant sont réalisés principalement par des navires italiens pêchant au chalut de fond et secondairement par les navires français pêchant à la senne de plage. L'impact de la pêche réalisée par les navires français, en nombre limité et qui pêchent sur une période limitée à quelques semaines par la réglementation nationale, apparaît comme étant marginal. Par conséquent, l'objectif de gestion retenu pour la pêcherie de sardine à la senne de plage consiste à contribuer à l'objectif de taux d'exploitation maximal [(E) = 0,4] en n'augmentant pas l'effort de pêche sur ce stock. L'effort de pêche se mesure à travers le nombre de navires autorisés et la durée de la période de pêche autorisée.
+Les captures de sardine de la zone " golfe de Gênes-Ligure nord thyrrhénienne " sont réalisées à 99 % par des navires italiens pêchant à la senne tournante coulissante. Les 1 % restant sont réalisés principalement par des navires italiens pêchant au chalut de fond et secondairement par les navires français pêchant à la senne de plage. L'impact de la pêche réalisée par les navires français, en nombre limité et qui pêchent sur une période limitée à quelques semaines par la réglementation nationale, apparaît comme étant marginal. Par conséquent, l'objectif de gestion retenu pour la pêcherie de sardine à la senne de plage consiste à contribuer à l'objectif de taux d'exploitation maximal [(E) = 0,4] en n'augmentant pas l'effort de pêche sur ce stock. L'effort de pêche se mesure à travers le nombre de navires autorisés et la durée de la période de pêche autorisée.
 
 En l'état des connaissances disponibles, les objectifs de gestion pour les principales espèces ciblées par la senne de plage sont les suivants :
 
@@ -352,9 +286,7 @@ senne de plage
 
 |
 
-POINTS DE RÉFÉRENCE
-
-|
+POINTS DE RÉFÉRENCE |
 
 Espèce : nom commun
 
@@ -368,29 +300,17 @@ Capture par unité d'effort
 
 |
 
-Saupe (sarpa salpa)
+Saupe (sarpa salpa) |
 
-|
+14,73 |
 
-14,73
+Sardine (Sardina pilchardus) - stock de la zone "golfe de Gênes-Ligure nord thyrrhénienne" (GSA 09) |
 
-|
+Contribuer à l'objectif de gestion (E) = 0,4 en n'augmentant pas l'effort de pêche |
 
-Sardine (Sardina pilchardus) - stock de la zone "golfe de Gênes-Ligure nord thyrrhénienne" (GSA 09)
+Athérines (Atherina presbyter et/ou Atherina spp.) |
 
-|
-
-Contribuer à l'objectif de gestion (E) = 0,4 en n'augmentant pas l'effort de pêche
-
-|
-
-Athérines (Atherina presbyter et/ou Atherina spp.)
-
-|
-
-A déterminer
-
-|
+A déterminer |
 
 Le plan de gestion pour la pêche à la senne de plage vise à maintenir les captures par unités d'effort moyennes annuelles, exprimées en kilogrammes de capture par espèce et par marée, au-dessus des points de référence.
 
@@ -406,9 +326,7 @@ Le suivi des captures par unités d'effort qui servent de points de référence 
 
 (1) Report of the Scientific, technical and economic commitee for fisheries Assessment of Mediterranean Sea stocks ― part 1 (STECF 12-19) ― reviewed by the STECF during its 41st plenary meeting held from 5 to 9 November, 2012 in Brussels, Belgium.
 
-3. Mise en œuvre du plan de gestion
-
-pour la senne de plage
+3. Mise en œuvre du plan de gestion pour la senne de plage
 
 Chapitre 1er
 
@@ -416,9 +334,7 @@ Objectifs de gestion
 
 Article 1er
 
-Objectifs de gestion pour les espèces exploitées
-
-par la senne de plage
+Objectifs de gestion pour les espèces exploitées par la senne de plage
 
 1. Objectifs de gestion pour la senne de plage
 
@@ -428,9 +344,7 @@ senne de plage "hors poutine"
 
 |
 
-POINT DE RÉFÉRENCE LIMITE
-
-|
+POINT DE RÉFÉRENCE LIMITE |
 
 Espèce : nom commun
 
@@ -444,19 +358,13 @@ Capture par unité d'effort
 
 |
 
-Saupe (Sarpa salpa)
+Saupe (Sarpa salpa) |
 
-|
-
-14,73
-
-|
+14,73 |
 
 Le plan de gestion pour la pêche à la senne de plage vise à maintenir les captures par unités d'effort moyennes annuelles, exprimées en kilogrammes de capture par espèce et par marée, au-dessus des points de référence limite.
 
-2. Objectifs de gestion spécifique pour les espèces exploitées
-
-par la senne de plage "à poutine"
+2. Objectifs de gestion spécifique pour les espèces exploitées par la senne de plage " à poutine "
 
 PLAN DE GESTION
 
@@ -464,9 +372,7 @@ senne de plage "à poutine "
 
 |
 
-POINT DE RÉFÉRENCE LIMITE
-
-|
+POINT DE RÉFÉRENCE LIMITE |
 
 Espèce : nom commun
 
@@ -480,17 +386,11 @@ maximal (E) (*)
 
 |
 
-Sardine (Sardina Pilchardus)
+Sardine (Sardina Pilchardus) |
 
-|
+Contribuer à l'objectif de gestion (E) = 0,4 en n'augmentant pas l'effort de pêche |
 
-Contribuer à l'objectif de gestion (E) = 0,4 en n'augmentant pas l'effort de pêche
-
-|
-
-(*) Le taux d'exploitation maximal (E) correspond à la part maximale de la mortalité totale (Z) provoquée par la pêche (F) qui est compatible avec un bon renouvellement du stock. (E) s'exprime à travers le ratio (F/Z).
-
-|
+(*) Le taux d'exploitation maximal (E) correspond à la part maximale de la mortalité totale (Z) provoquée par la pêche (F) qui est compatible avec un bon renouvellement du stock. (E) s'exprime à travers le ratio (F/Z). |
 
 Le plan de gestion pour la pêche à la senne de plage vise à maintenir le taux d'exploitation à un niveau inférieur ou égal à 0,4.
 
@@ -500,9 +400,7 @@ Mesures d'encadrement de la pêche à la senne de plage
 
 Article 2
 
-Caractéristiques autorisées de l'engin
-
-et conditions autorisées d'utilisation
+Caractéristiques autorisées de l'engin et conditions autorisées d'utilisation
 
 Le filet a une longueur maximale de 450 mètres tout compris.
 
@@ -534,7 +432,7 @@ Création d'un régime d'autorisation européenne de pêche
 
 L'activité de pêche professionnelle à la senne de plage est encadrée par une autorisation européenne de pêche (AEP), anciennement appelée permis de pêche spécial (PPS). Le nombre maximal d'AEP qui peut être attribué pour la pêche à la senne de plage en Méditerranée est de 33.
 
-Dans ce contingent, le nombre maximal d'AEP qui peut être attribué pour la pêche à la senne de plage "à poutine" est de 10.
+Dans ce contingent, le nombre maximal d'AEP qui peut être attribué pour la pêche à la senne de plage " à poutine " est de 10.
 
 La mention de la pratique de la senne de plage dans les fiches de déclaration de capture est une condition nécessaire pour que l'AEP soit attribuée.
 
@@ -542,9 +440,7 @@ Les AEP sont délivrées dans le cadre de la commission d'attribution prévue pa
 
 Article 5
 
-Mesures de gestion en cas de non-atteinte
-
-des objectifs de gestion des ressources halieutiques
+Mesures de gestion en cas de non-atteinte des objectifs de gestion des ressources halieutiques
 
 Si les objectifs de gestion ne sont pas atteints fin 2014, le contingent d'autorisations européennes de pêche à la senne de plage est réduit de 10 % en 2015.
 
@@ -556,9 +452,7 @@ Si les objectifs de gestion sont à nouveau atteints fin 2015, l'effort de pêch
 
 Chapitre 3
 
-Mise en œuvre de dérogations prévues
-
-par le règlement (CE) n° 1967/2006
+Mise en œuvre de dérogations prévues par le règlement (CE) n° 1967/2006
 
 Article 6
 
@@ -616,13 +510,11 @@ b) La capture de ces alevins est réalisée au moyen de navires pêchant à la s
 
 c) Le stock de sardine concerné se situe dans ses limites biologiques de sécurité. Une première évaluation du stock de sardine de la zone "golfe de Gênes-Ligure nord thyrrhénienne" (GSA 09) a été réalisé et présentée lors du groupe de travail du SG MED du CSTEP en juillet 2012. Le taux d'exploitation de référence est évalué à 0,4. Le taux d'exploitation étant en moyenne légèrement supérieur à 0,4 ― point de référence choisi ― sur la période considérée, le stock est considéré comme étant légèrement surexploité et il est conseillé de diminuer la mortalité par pêche. Néanmoins, le taux d'exploitation évalué pour l'année 2011 était légèrement inférieur au taux de référence.
 
-Les captures de sardine de la zone "golfe de Gênes-Ligure nord thyrrhénienne" sont réalisées à plus de 99 % par des navires italiens pêchant à la senne tournante coulissante. Les 1 % restant sont réalisés principalement par des navires italiens pêchant au chalut de fond et secondairement par les navires français pêchant à la senne de plage. L'impact de la pêche réalisée par les navires français, en nombre limité et qui pêchent sur une période limitée à quelques semaines par la réglementation nationale apparaît comme étant marginal.
+Les captures de sardine de la zone " golfe de Gênes-Ligure nord thyrrhénienne " sont réalisées à plus de 99 % par des navires italiens pêchant à la senne tournante coulissante. Les 1 % restant sont réalisés principalement par des navires italiens pêchant au chalut de fond et secondairement par les navires français pêchant à la senne de plage. L'impact de la pêche réalisée par les navires français, en nombre limité et qui pêchent sur une période limitée à quelques semaines par la réglementation nationale apparaît comme étant marginal.
 
 Chapitre 4
 
-Mise en œuvre du contrôle, du système de pilotage,
-
-du suivi et de l'évaluation scientifique
+Mise en œuvre du contrôle, du système de pilotage, du suivi et de l'évaluation scientifique
 
 Article 9
 
@@ -664,9 +556,7 @@ Il est mis en place un suivi scientifique qui repose sur les points suivants :
 
 ― l'évaluation de l'impact socio-économique de l'application du plan de gestion et des dispositions du règlement (CE) n° 1967/2006 à travers l'exploitation des données collectées dans le cadre du règlement (CE) n° 199/2008.
 
-4. Intégration du plan de gestion pour la senne de plage
-
-en Méditerranée dans la réglementation nationale
+4. Intégration du plan de gestion pour la senne de plage en Méditerranée dans la réglementation nationale
 
 La réglementation générale sur l'exercice et l'encadrement de la pêche maritime s'applique en Méditerranée, et notamment le décret n° 90-94 du 25 janvier 1990 pris pour l'application du titre II et du titre IV du livre IX du code rural et de la pêche maritime.
 
@@ -686,7 +576,7 @@ La mise en œuvre du plan de gestion Méditerranée pour la senne de plage repos
 
 Les orientations de contrôle prévues par le présent plan de gestion sont reprises dans le plan national bisannuel 2012-2013 de contrôle des pêches maritimes et des produits de la pêche et de l'aquaculture et seront détaillées dans le plan interrégional de contrôle Méditerranée.
 
-PLAN DE GESTION POUR LA PÊCHE PROFESSIONNELLE À LA SENNE TOURNANTE COULISSANTE EN MER MÉDITERRANÉE PAR LES NAVIRES BATTANT PAVILLON FRANÇAIS
+ANNEXE IV : PLAN DE GESTION POUR LA PÊCHE PROFESSIONNELLE À LA SENNE TOURNANTE COULISSANTE EN MER MÉDITERRANÉE PAR LES NAVIRES BATTANT PAVILLON FRANÇAIS
 
 Mise en œuvre du règlement (CE) n° 1967/2006 du Conseil du 21 décembre 2006 concernant des mesures de gestion pour l'exploitation durable des ressources halieutiques en Méditerranée
 
@@ -728,9 +618,11 @@ Chapitre 3. ― Mise en œuvre du contrôle, du système de pilotage, du suivi e
 
 4. Intégration du plan de gestion pour la senne tournante coulissante en Méditerranée dans la réglementation nationale
 
-1. Présentation du plan de gestion pour la pêche professionnelle
+* *
 
-à la senne tournante coulissante en Méditerranée
+*
+
+1. Présentation du plan de gestion pour la pêche professionnelle à la senne tournante coulissante en Méditerranée
 
 L'article 19 du règlement (CE) n° 1967/2006 du Conseil du 21 décembre 2006 concernant des mesures de gestion pour l'exploitation durable des ressources halieutiques en Méditerranée prévoit que les Etats membres de l'Union européenne riverains de la Méditerranée adoptent des plans de gestion pour les activités de pêche maritime professionnelle pratiquées au moyen de chaluts, de sennes de bateau, de sennes de plage, de sennes tournantes coulissantes et de dragues dans leurs eaux territoriales.
 
@@ -740,9 +632,7 @@ Les pêcheries françaises concernées par ces plans de gestion s'étendent au-d
 
 Chapitre 1er
 
-Présentation du plan de gestion pour la pêche
-
-professionnelle à la senne tournante coulissante
+Présentation du plan de gestion pour la pêche professionnelle à la senne tournante coulissante
 
 1. Principes et contenu du plan de gestion
 
@@ -762,9 +652,9 @@ f) Le préfet de région compétent et les organisations professionnelles des p�
 
 Les éléments scientifiques qui ont permis l'élaboration des plans de gestion sont les suivants :
 
-― rapport de l'IFREMER d'avril 2011 sur le "Choix et mise en œuvre d'une solution de géolocalisation des navires de pêche de moins de 12 mètres" ;
+― rapport de l'IFREMER d'avril 2011 sur le " Choix et mise en œuvre d'une solution de géolocalisation des navires de pêche de moins de 12 mètres " ;
 
-― cartographie des herbiers de posidonies et des aires marines protégées", rapport de l'Agence des aires marines protégées, mars 2013 ;
+― cartographie des herbiers de posidonies et des aires marines protégées ", rapport de l'Agence des aires marines protégées, mars 2013 ;
 
 ― indicateurs et diagnostics des activités de pêche concernées : chalutage, sennes tournantes, dragues, ganguis et sennes de plage (extrait du rapport de l'IFREMER d'avril 2010 en réponse à la saisine 09-2829 de la DPMA concernant le plan de gestion Méditerranée, conformément aux dispositions de l'article 19 du règlement [CE] n° 1967/2006) ;
 
@@ -806,9 +696,7 @@ Chapitre 2
 
 Présentation synthétique des activités de pêche professionnelles en Méditerranée française et des activités de pêche professionnelle à la senne tournante coulissante
 
-1. Présentation des activités
-
-de pêche professionnelle en Méditerranée
+1. Présentation des activités de pêche professionnelle en Méditerranée
 
 Les pêcheries françaises de Méditerranée sont réparties entre deux zones : la première regroupe les zones de pêche du golfe du Lion et celles des côtes continentales françaises à l'ouest du golfe de Gênes (GSA 07) et la GSA 08 couvrant les zones de pêche de Corse. A ces pêches maritimes, littorales, et du large, s'ajoutent, d'une part, une activité de pêche lagunaire intéressant plus d'une vingtaine de lagunes dont la majeure partie borde le littoral du golfe du Lion et, d'autre part, une activité hauturière couvrant l'ensemble de la Méditerranée, la pêche du thon rouge à la senne tournante. A l'exception de cette dernière, le golfe du Lion, grâce à son large plateau continental (15 000 km²) et l'importance de ses lagunes (49 734 ha) sur le littoral, regroupe la majeure partie de l'activité halieutique française en Méditerranée et de sa production. Al'inverse, à l'est de Martigues et en Corse, les profondeurs de plus de 200 mètres sont très proches du littoral et les surfaces exploitables par la pêche se localisent dans la bande côtière. Les différents métiers peuvent se définir en 3 grands groupes : le chalutage, la pêche des poissons pélagiques à la senne tournante, et un ensemble de métiers divers pratiqués d'une façon polyvalente et à petite échelle, principalement à la côte et dans les lagunes.
 
@@ -816,21 +704,19 @@ La flottille de pêche de Méditerranée continentale (golfe du Lion et côtes p
 
 L'activité de pêche en Corse est répartie sur l'ensemble de son littoral (1 043 km) avec 50 % des unités de pêche regroupées dans le golfe d'Ajaccio. La flottille est composée de 205 unités artisanales. 10 % de ces navires sont concernés par un plan de gestion pris en application de l'article 19 du règlement (CE) n° 1967/2006.
 
-2. Présentation des activités de pêche professionnelle
-
-à la senne tournante coulissante en Méditerranée
+2. Présentation des activités de pêche professionnelle à la senne tournante coulissante en Méditerranée
 
 a) Description de la pêche à la senne tournante coulissante et de la flottille pratiquant cette activité.
 
-Les sennes utilisées en Méditerranée font partie de la famille des filets tournants et sont également dénommées "sennes tournantes coulissantes". D'après la définition de l'Organisation des Nations unies pour l'alimentation et l'agriculture (FAO), ces engins capturent le poisson en l'encerclant à la fois sur les côtés et par en dessous, ce qui l'empêche, en eaux profondes, de s'échapper en plongeant vers le bas. Les filets tournants avec coulisse (famille des sennes coulissantes) sont des sennes tournantes caractérisées par l'emploi d'une coulisse à la partie inférieure du filet. La coulisse assure le boursage du filet permettant de retenir la totalité du poisson.
+Les sennes utilisées en Méditerranée font partie de la famille des filets tournants et sont également dénommées " sennes tournantes coulissantes ". D'après la définition de l'Organisation des Nations unies pour l'alimentation et l'agriculture (FAO), ces engins capturent le poisson en l'encerclant à la fois sur les côtés et par en dessous, ce qui l'empêche, en eaux profondes, de s'échapper en plongeant vers le bas. Les filets tournants avec coulisse (famille des sennes coulissantes) sont des sennes tournantes caractérisées par l'emploi d'une coulisse à la partie inférieure du filet. La coulisse assure le boursage du filet permettant de retenir la totalité du poisson.
 
 Les senneurs de plus de 24 mètres ciblant le thon rouge font l'objet d'une réglementation spécifique car ils relèvent des recommandations de la Commission internationale pour la conservation des thonidés de l'Atlantique. Par conséquent, ils ne sont pas intégrés dans le présent plan de gestion.
 
-Une subdivision de la flottille selon la taille des navires peut être envisagée. Certains navires ont recours à l'usage du dispositif lumineux ("lamparo") pour la pêche des petits pélagiques à certaines périodes de l'année. La senne tournante coulissante se divise ainsi en deux segments :
+Une subdivision de la flottille selon la taille des navires peut être envisagée. Certains navires ont recours à l'usage du dispositif lumineux (" lamparo ") pour la pêche des petits pélagiques à certaines périodes de l'année. La senne tournante coulissante se divise ainsi en deux segments :
 
-― la senne tournante coulissante pour les navires de plus de 12 mètres et de moins de 24 mètres utilisant ou non un dispositif lumineux ("lamparos") ;
+― la senne tournante coulissante pour les navires de plus de 12 mètres et de moins de 24 mètres utilisant ou non un dispositif lumineux (" lamparos ") ;
 
-― la senne tournante coulissante dite "allatchare" pour les navires de moins de 12 mètres.
+― la senne tournante coulissante dite " allatchare " pour les navires de moins de 12 mètres.
 
 Chacun de ces segments peut cibler les poissons pélagiques et démersaux, en utilisant des maillages différents.
 
@@ -842,9 +728,7 @@ La pêche des poissons démersaux à la senne tournante coulissante se pratique 
 
 L'examen des variations interannuelles de la composition de la flottille pêchant à la senne tournante coulissante réalisé pendant la période d'observation 2004-2008 fait apparaître des flux entrants et sortants importants et montre une flottille dynamique. La polyvalence d'activité s'exprime à l'échelle annuelle, puisqu'une grande partie de la flottille exerce d'autres activités de pêche au cours de la même année, mais aussi à l'échelle pluriannuelle car il est fréquent que les navires changent certaines de leurs activités d'une année sur l'autre. L'examen de la flottille réalisé au moyen des tableaux ci-dessous permet de dénombrer 67 navires pratiquant la pêche à la senne tournante coulissante en Méditerranée continentale (région Provence-Alpes-Côte d'Azur et région Languedoc-Roussillon). Par ailleurs, onze navires pratiquent la pêche à la senne tournante coulissante en Corse, notamment dans le cadre de la licence senne tournante coulissante délivrée par le comité régional des pêches maritimes et des élevages marins de Corse depuis 2011. La flottille totale pratiquant la senne tournante coulissante en Méditerranée est ainsi évaluée à 78 navires.
 
-Tableau 1. ― Effectifs navires et cumul global des mois d'activités de la flottille
-
-senne tournante coulissante (Languedoc-Roussillon, PACA, 2004-2008)
+Tableau 1. ― Effectifs navires et cumul global des mois d'activités de la flottille senne tournante coulissante (Languedoc-Roussillon, PACA, 2004-2008)
 
 |
 
@@ -868,53 +752,33 @@ et poissons demerseaux)
 
 |
 
-Nombre de navires
+Nombre de navires |
 
-|
+35 |
 
-35
+32 |
 
-|
+20 |
 
-32
+Nombre de mois |
 
-|
+543 |
 
-20
+644 |
 
-|
-
-Nombre de mois
-
-|
-
-543
-
-|
-
-644
-
-|
-
-213
-
-|
+213 |
 
 Figure 1. ― Diagramme des flux entrants et sortants de la flottille senne poissons démersaux (blancs)
 
 Le turn-over annuel (noir) est calculé sur les années 2005, 2006 et 2007 (Languedoc-Roussillon, PACA, 2004-2008)
 
-Vous pouvez consulter le tableau dans le JO
-
-n° 122 du 27/05/2014 texte numéro 6
+Vous pouvez consulter le tableau dans le JO n° 122 du 27/05/2014 texte numéro 6
 
 Figure 2. ― Diagramme des flux entrants et sortants de la flottille senne petits péLagiques
 
 Le turn-over annuel (noir) est calculé sur les années 2005, 2006 et 2007 (Languedoc-Roussillon, PACA, 2004-2008)
 
-Vous pouvez consulter le tableau dans le JO
-
-n° 122 du 27/05/2014 texte numéro 6
+Vous pouvez consulter le tableau dans le JO n° 122 du 27/05/2014 texte numéro 6
 
 Les engins de type senne tournante coulissante ont la particularité de pouvoir être mis en œuvre par des navires de tailles très variées et qui adoptent des engins dimensionnés en proportion.
 
@@ -926,15 +790,11 @@ Figure 3. ― Plan type de filets tournants et coulissants
 
 1. Senne allatchare pour la capture de dorades, muges et bars...
 
-Vous pouvez consulter le tableau dans le JO
-
-n° 122 du 27/05/2014 texte numéro 6
+Vous pouvez consulter le tableau dans le JO n° 122 du 27/05/2014 texte numéro 6
 
 2. Senne pour la capture de sardines
 
-Vous pouvez consulter le tableau dans le JO
-
-n° 122 du 27/05/2014 texte numéro 6
+Vous pouvez consulter le tableau dans le JO n° 122 du 27/05/2014 texte numéro 6
 
 Quand les opérations de pêche se déroulent sur de faibles profondeurs, pour la pêche de petits pélagiques et dans le cas de la senne à poissons démersaux, la coulisse peut être en contact avec le fond et peut entraîner des impacts physiques. Aucune étude ne quantifie ces impacts qui semblent néanmoins faibles.
 
@@ -954,21 +814,13 @@ La composition des captures réalisées à la senne tournante coulissante montre
 
 ― poissons démersaux : la dorade royale, le marbré. Ces deux espèces représentent 60 % des captures de poissons démersaux réalisées à la senne tournante en poids moyens capturés par marée (cf. graphiques ci-dessous).
 
-Figure 4. ― Bilan des observations au débarquement des marées réalisées par les navires dont les captures ont été réalisées par un engin
+Figure 4. ― Bilan des observations au débarquement des marées réalisées par les navires dont les captures ont été réalisées par un engin de type senne tournante coulissante pour petits pélagiques (Languedoc-Roussillon, PACA, 2008-2009)
 
-de type senne tournante coulissante pour petits pélagiques (Languedoc-Roussillon, PACA, 2008-2009)
+Vous pouvez consulter le tableau dans le JO n° 122 du 27/05/2014 texte numéro 6
 
-Vous pouvez consulter le tableau dans le JO
+Figure 5. ― Bilan des observations au débarquement des marées réalisées par les navires dont les captures ont été réalisées par un engin de type senne tournante coulissante pour poissons démersaux (Languedoc-Roussillon, PACA, 2008-2009)
 
-n° 122 du 27/05/2014 texte numéro 6
-
-Figure 5. ― Bilan des observations au débarquement des marées réalisées par les navires dont les captures ont été réalisées
-
-par un engin de type senne tournante coulissante pour poissons démersaux (Languedoc-Roussillon, PACA, 2008-2009)
-
-Vous pouvez consulter le tableau dans le JO
-
-n° 122 du 27/05/2014 texte numéro 6
+Vous pouvez consulter le tableau dans le JO n° 122 du 27/05/2014 texte numéro 6
 
 La sardine (Sardina Pilchardus) et l'anchois (Engraulis encrasicolus). La sardine est un poisson pélagique qui appartient à l'ordre des clupéiformes et à la famille des clupéidés. Sa taille minimale de capture est fixée à 11 centimètres par le règlement (CE) n° 1967/2006. Ce poisson atteint sa maturité sexuelle à l'âge de deux ans et se retrouve dans toute la Méditerranée, à des profondeurs allant de 10 à 100 mètres mais surtout entre 25 et 100 mètres. Son alimentation se compose principalement de plancton. L'anchois est un poisson pélagique qui appartient à l'ordre des clupéiformes et à la famille des engraulidés. Sa taille minimale de capture est fixée à 9 centimètres par le règlement (CE) n° 1967/2006. Ce poisson atteint sa maturité sexuelle à l'âge de un an et se retrouve dans toute la Méditerranée, à des profondeurs allant de 0 à 400 mètres. Son alimentation se compose principalement de plancton.
 
@@ -986,15 +838,13 @@ La situation de ces deux stocks peut se synthétiser comme suit :
 
 ― cette situation a conduit à un ajustement de l'effort de pêche sur les fractions commerciales : l'effort de pêche a connu une diminution rapide jusqu'à des niveaux actuels de très faible activité. Les stocks d'anchois et de sardines du golfe du Lion sont aujourd'hui considérés comme pleinement exploités par le Comité scientifique consultatif de la commission générale des pêches pour la Méditerranée qui recommande de ne pas augmenter l'effort de pêche sur ces deux stocks (1).
 
-La dorade royale (Sparus aurata) est un poisson démersal qui appartient à l'ordre des perciformes et à la famille des sparidés. Sa taille minimale de capture est fixée à 20 centimètres par le règlement (CE) n° 1967/2006. Ce poisson atteint sa maturité sexuelle à l'âge de deux ans (hermaphrodisme protandre) et se retrouve dans toute la Méditerranée, à des profondeurs allant de 0 à 150 mètres mais surtout entre 0 et 30 mètres. La dorade fréquente les zones de ressac, les fonds sableux et les prairies sous-marines ainsi que les estuaires et les lagunes en été. Son alimentation se compose principalement de coquillages. Cette espèce ne fait pas l'objet d'une évaluation de stock. L'état initial de référence du stock est, à ce stade, établi à partir d'un point de référence limite établi à partir de la capture par unité d'effort détaillée dans la partie 2 "Objectifs de gestion des ressources halieutiques" du présent plan. L'évolution de l'état de ce stock sera évaluée à partir du respect de ce point de référence. Toutefois le rapport du Comité scientifique technique et économique des pêches (CSTEP) de novembre 2012 relatif à l'évaluation des stocks méditerranéens considère que ce stock est partiellement évaluable. Les évaluations et diagnostics de l'état de ces stocks qui pourront être prochainement conduites sur ce stock seront intégrées dans le présent plan de gestion.
+La dorade royale (Sparus aurata) est un poisson démersal qui appartient à l'ordre des perciformes et à la famille des sparidés. Sa taille minimale de capture est fixée à 20 centimètres par le règlement (CE) n° 1967/2006. Ce poisson atteint sa maturité sexuelle à l'âge de deux ans (hermaphrodisme protandre) et se retrouve dans toute la Méditerranée, à des profondeurs allant de 0 à 150 mètres mais surtout entre 0 et 30 mètres. La dorade fréquente les zones de ressac, les fonds sableux et les prairies sous-marines ainsi que les estuaires et les lagunes en été. Son alimentation se compose principalement de coquillages. Cette espèce ne fait pas l'objet d'une évaluation de stock. L'état initial de référence du stock est, à ce stade, établi à partir d'un point de référence limite établi à partir de la capture par unité d'effort détaillée dans la partie 2 " Objectifs de gestion des ressources halieutiques " du présent plan. L'évolution de l'état de ce stock sera évaluée à partir du respect de ce point de référence. Toutefois le rapport du Comité scientifique technique et économique des pêches (CSTEP) de novembre 2012 relatif à l'évaluation des stocks méditerranéens considère que ce stock est partiellement évaluable. Les évaluations et diagnostics de l'état de ces stocks qui pourront être prochainement conduites sur ce stock seront intégrées dans le présent plan de gestion.
 
-Le marbré commun (Lithognathus mormyrus) est un poisson démersal qui appartient à l'ordre des perciformes et à la famille des sparidés. Sa taille minimale de capture est fixée à 20 centimètres par le règlement (CE) n° 1967/2006. Ce poisson atteint sa maturité sexuelle à l'âge de deux ans (hermaphrodisme protandre) et se retrouve dans toute la Méditerranée, à des profondeurs allant de 0 à 150 mètres mais surtout entre 10 et 20 mètres de profondeur, sur des fonds sableux, vaseux ou de prairies sous-marines. Il se nourrit de vers, de mollusques et de petits crustacés. Cette espèce ne fait pas l'objet d'une évaluation de stock et ne fait pas partie de la liste des stocks qui sont considérés comme partiellement évaluables par le rapport du Comité scientifique technique et économique des pêches (CSTEP) de novembre 2012 relatif à l'évaluation des stocks méditerranéens. L'état initial de référence du stock est, à ce stade, établi à partir d'un point de référence limite établi à partir de la capture par unité d'effort détaillée dans la partie 2 "Objectifs de gestion des ressources halieutiques" du présent plan. L'évolution de l'état de ce stock sera évaluée à partir du respect de ce point de référence.
+Le marbré commun (Lithognathus mormyrus) est un poisson démersal qui appartient à l'ordre des perciformes et à la famille des sparidés. Sa taille minimale de capture est fixée à 20 centimètres par le règlement (CE) n° 1967/2006. Ce poisson atteint sa maturité sexuelle à l'âge de deux ans (hermaphrodisme protandre) et se retrouve dans toute la Méditerranée, à des profondeurs allant de 0 à 150 mètres mais surtout entre 10 et 20 mètres de profondeur, sur des fonds sableux, vaseux ou de prairies sous-marines. Il se nourrit de vers, de mollusques et de petits crustacés. Cette espèce ne fait pas l'objet d'une évaluation de stock et ne fait pas partie de la liste des stocks qui sont considérés comme partiellement évaluables par le rapport du Comité scientifique technique et économique des pêches (CSTEP) de novembre 2012 relatif à l'évaluation des stocks méditerranéens. L'état initial de référence du stock est, à ce stade, établi à partir d'un point de référence limite établi à partir de la capture par unité d'effort détaillée dans la partie 2 " Objectifs de gestion des ressources halieutiques " du présent plan. L'évolution de l'état de ce stock sera évaluée à partir du respect de ce point de référence.
 
-(1) Rapport de la quinzième session du comité scientifique consultatif de la Commission générale des pêches pour la Méditerranée ― Rome, 8-11 avril 2013, annexe E, table 2, pages 70 et 71 : évaluation des stocks réalisés pour la sardine (Sardina pilchardus) et l'anchois (Engraulis encrasicolus) de la GSA 07 golfe du Lion).
+(1) Rapport de la quinzième session du comité scientifique consultatif de la Commission générale des pêches pour la Méditerranée ― Rome, 8-11 avril 2013, annexe E, table 2, pages 70 et 71 : évaluation des stocks réalisés pour la sardine (Sardina pilchardus) et l'anchois (Engraulis encrasicolus) de la GSA 07 golfe du Lion.
 
-2. Objectifs de gestion pour les principales espèces cibles
-
-exploitées par la senne tournante coulissante en Méditerranée
+2. Objectifs de gestion pour les principales espèces cibles exploitées par la senne tournante coulissante en Méditerranée
 
 Les principales espèces cibles exploitées par la senne tournante coulissante ont été identifiées dans le second chapitre de la première partie (partie 2 b).
 
@@ -1038,9 +888,7 @@ Les points de référence ont été définis en utilisant les résultats de camp
 
 Figure 6. ― Données relatives aux captures de dorade royale (Sparus aurata) obtenues à partir des campagnes d'échantillonnages des débarquements (OBSDEB) sur un échantillon de navires pratiquant la senne tournante coulissante au cours de la période 2007-2012
 
-DORADE ROYALE
-
-|
+DORADE ROYALE |
 
 DONNÉES SUR LA PÉRIODE
 
@@ -1048,83 +896,45 @@ DONNÉES SUR LA PÉRIODE
 
 |
 
-Nombre de marées observées
+Nombre de marées observées |
 
-|
+111 |
 
-111
+Nombre de navires observés |
 
-|
+19 |
 
-Nombre de navires observés
+Rang espèce/métier |
 
-|
+1 |
 
-19
+Occurrence |
 
-|
+59 % |
 
-Rang espèce/métier
+Capture totale (kg) |
 
-|
+10 677 |
 
-1
+Capture moyenne (kg/marée) |
 
-|
+162 |
 
-Occurrence
+CPUE annuelle (kg/marée) |
 
-|
+96 |
 
-59 %
+Capture mini/navire (kg/marée) |
 
-|
+2 |
 
-Capture totale (kg)
+Capture max/navire (kg/marée) |
 
-|
-
-10 677
-
-|
-
-Capture moyenne (kg/marée)
-
-|
-
-162
-
-|
-
-CPUE annuelle (kg/marée)
-
-|
-
-96
-
-|
-
-Capture mini/navire (kg/marée)
-
-|
-
-2
-
-|
-
-Capture max/navire (kg/marée)
-
-|
-
-3 000
-
-|
+3 000 |
 
 Figure 7. ― Données relatives aux captures de marbré (Lithognathus mormyrus) obtenues à partir des campagnes d'échantillonnages des débarquements (OBSDEB) sur un échantillon de navires pratiquant la senne tournante coulissante au cours de la période 2007-2012
 
-MARBRÉ
-
-|
+MARBRÉ |
 
 DONNÉES SUR LA PÉRIODE
 
@@ -1132,77 +942,41 @@ DONNÉES SUR LA PÉRIODE
 
 |
 
-Nombre de marées observées
+Nombre de marées observées |
 
-|
+111 |
 
-111
+Nombre de navires observés |
 
-|
+19 |
 
-Nombre de navires observés
+Rang espèce/métier |
 
-|
+2 |
 
-19
+Occurrence |
 
-|
+55 % |
 
-Rang espèce/métier
+Capture totale (kg) |
 
-|
+3 011 |
 
-2
+Capture moyenne (kg/marée) |
 
-|
+49 |
 
-Occurrence
+CPUE annuelle (kg/marée) |
 
-|
+27 |
 
-55 %
+Capture mini/navire (kg/marée) |
 
-|
+0 |
 
-Capture totale (kg)
+Capture max/navire (kg/marée) |
 
-|
-
-3 011
-
-|
-
-Capture moyenne (kg/marée)
-
-|
-
-49
-
-|
-
-CPUE annuelle (kg/marée)
-
-|
-
-27
-
-|
-
-Capture mini/navire (kg/marée)
-
-|
-
-0
-
-|
-
-Capture max/navire (kg/marée)
-
-|
-
-800
-
-|
+800 |
 
 En l'état des connaissances disponibles, les points de référence ― exprimés en capture par unité d'effort estimée ― pour les principales espèces démersales ciblées par la senne tournante coulissante sont les suivants :
 
@@ -1212,9 +986,7 @@ senne tournante coulissante
 
 |
 
-POINT DE RÉFÉRENCE LIMITE
-
-|
+POINT DE RÉFÉRENCE LIMITE |
 
 Espèce : nom commun
 
@@ -1222,25 +994,15 @@ Espèce : nom commun
 
 |
 
-CPUE (kg/marée)
+CPUE (kg/marée) |
 
-|
+Dorade royale (Sparus aurata) |
 
-Dorade royale (Sparus aurata)
+96 |
 
-|
+Marbré commun (Lithognathus mormyrus) |
 
-96
-
-|
-
-Marbré commun (Lithognathus mormyrus)
-
-|
-
-27
-
-|
+27 |
 
 Le plan de gestion pour la pêche à la senne tournante coulissante vise à maintenir les captures par unités d'effort moyennes annuelles, exprimées en kilogrammes de capture par espèce et par marée, au-dessus des points de référence.
 
@@ -1254,9 +1016,7 @@ Ces mesures sont détaillées dans le chapitre 2 de la partie relative à la mis
 
 Le suivi des captures par unité d'effort qui servent de points de référence sera régulièrement actualisé et consolidé à partir d'une amélioration de la connaissance des captures, voire étendu à d'autres espèces.
 
-3. Mise en œuvre du plan de gestion
-
-pour la senne tournante coulissante
+3. Mise en œuvre du plan de gestion pour la senne tournante coulissante
 
 Chapitre 1er
 
@@ -1264,9 +1024,7 @@ Objectifs de gestion
 
 Article 1er
 
-Objectifs de gestion pour les espèces pélagiques
-
-exploitées par la senne tournante coulissante
+Objectifs de gestion pour les espèces pélagiques exploitées par la senne tournante coulissante
 
 PLAN DE GESTION
 
@@ -1276,9 +1034,7 @@ petits poissons pélagiques
 
 |
 
-POINT DE RÉFÉRENCE LIMITE
-
-|
+POINT DE RÉFÉRENCE LIMITE |
 
 Espèce : nom commun
 
@@ -1286,29 +1042,19 @@ Espèce : nom commun
 
 |
 
-Taux d'exploitation maximal de la biomasse des individus de plus d'un an (*)
+Taux d'exploitation maximal de la biomasse des individus de plus d'un an (*) |
 
-|
+Sardine (Sardina Pilchardus) et anchois (Engraulis encrasicolus) |
 
-Sardine (Sardina Pilchardus) et anchois (Engraulis encrasicolus)
+40 % |
 
-|
-
-40 %
-
-|
-
-(*) Les individus de plus d'un an sont les individus dont la longueur est supérieure ou égale à la longueur moyenne des poissons d'âge 1 an, soit 12 centimètres pour les anchois et 13 centimètres pour les sardines.
-
-|
+(*) Les individus de plus d'un an sont les individus dont la longueur est supérieure ou égale à la longueur moyenne des poissons d'âge 1 an, soit 12 centimètres pour les anchois et 13 centimètres pour les sardines. |
 
 Le plan de gestion vise à maintenir le taux d'exploitation de la biomasse des individus de plus d'un an à un niveau inférieur à 40 %.
 
 Article 2
 
-Objectifs de gestion pour les espèces démersales
-
-exploitées par la senne tournante coulissante
+Objectifs de gestion pour les espèces démersales exploitées par la senne tournante coulissante
 
 PLAN DE GESTION
 
@@ -1318,9 +1064,7 @@ petits poissions démersaux
 
 |
 
-POINT DE RÉFÉRENCE
-
-|
+POINT DE RÉFÉRENCE |
 
 Espèce : nom commun
 
@@ -1328,53 +1072,39 @@ Espèce : nom commun
 
 |
 
-CPUE (kg/marée)
+CPUE (kg/marée) |
 
-|
+Dorade royale (Sparus aurata) |
 
-Dorade royale (Sparus aurata)
+96 |
 
-|
+Marbré commun (Lithognathus mormyrus) |
 
-96
-
-|
-
-Marbré commun (Lithognathus mormyrus)
-
-|
-
-27
-
-|
+27 |
 
 Le plan de gestion pour la pêche à la senne tournante coulissante vise à maintenir les captures par unités d'effort moyennes annuelles, exprimées en kilogrammes de capture par espèce et par marée, au-dessus des points de référence.
 
 Chapitre 2
 
-Mesures d'encadrement de la pêche
-
-à la senne tournante coulissante
+Mesures d'encadrement de la pêche à la senne tournante coulissante
 
 Article 3
 
 Création d'un régime d'autorisations européennes de pêche
 
-La pratique de la pêche professionnelle à la senne tournante coulissante en mer Méditerranée par les navires battant pavillon français est soumise à l'obtention d'une autorisation européenne de pêche (AEP), anciennement appelée permis de pêche spécial (PPS). L'AEP permet la pratique des activités de pêche dirigées vers les petits pélagiques et/ou vers les poissons démersaux. Le pêcheur peut ainsi choisir de capturer du poisson de fond au cours d'une même marée, dans le respect des règles de maillage.
+1. La pratique de la pêche professionnelle à la senne tournante coulissante en mer Méditerranée par les navires battant pavillon français est soumise à l'obtention de l'une ou des deux autorisations européennes de pêche (AEP) senne tournante coulissante.
 
-La senne tournante coulissante ne peut être pratiquée que par des navires d'une longueur hors tout inférieure à 24 mètres. La senne tournante coulissante ciblant les petits pélagiques est pratiquée avec ou sans dispositif lumineux.
+Les navires qui pêchent à la senne tournante coulissante les poissons pélagiques sont soumis à l'obtention de l'AEP senne tournante coulissante pour la pêche des poissons pélagiques.
 
-Le plafond maximum d'autorisations européennes de pêche pouvant être délivrées est de 70 AEP, avec trois options possibles pour un navire, dans l'objectif de conserver la polyvalence :
+Les navires qui pêchent à la senne tournante coulissante les poissons autres que les poissons pélagiques sont soumis à l'obtention de l'AEP senne tournante coulissante pour la pêche des poissons autres que pélagiques.
 
-― poisson démersal ;
+Les navires qui ciblent éventuellement les espéces pélagiques et autres que pélagiques à la senne tournante coulissante doivent détenir les deux AEP senne tournante coulissante.
 
-― poisson pélagique ;
+La senne tournante coulissante ne peut être pratiquée que par des navires d'une longueur hors tout inférieure à 24 mètres. La senne tournante ciblant les petits pélagiques est pratiquée avec ou sans dispositif lumineux.
 
-― poisson démersal et pélagique.
+2. Le plafond de navires qui disposent de l'une ou des deux AEP senne tournante coulissante en Méditerranée est de 70 navires.
 
-Le régime d'AEP, une fois mis en place, remplace l'encadrement de ce métier par les licences régionales pré-existantes au plan de gestion. Les AEP sont délivrées dans le cadre de la commission d'attribution prévue par l'arrêté du 18 décembre 2006 établissant les modalités de gestion des différents régimes d'autorisations définis par la réglementation communautaire et applicables aux navires français de pêche professionnelle immatriculés dans la Communauté européenne et dans le cadre de la procédure prévue par l'arrêté du 22 avril 2011 établissant les modalités de gestion des permis de pêche spéciaux relatifs à certains engins ou techniques de pêche applicables aux navires français de pêche professionnelle immatriculés en Méditerranée.
-
-La mention de la pratique de la senne tournante coulissante dans les fiches de déclaration de capture est une condition nécessaire pour que l'AEP soit attribuée.
+3. Ces deux AEP sont délivrées dans le cadre du groupe de travail de la commission consultative de la gestion des ressources halieutiques pour l'attribution des AEP pour la Méditerranée prévu par l'article 5 de l'arrêté du 8 septembre 2014 susvisé.
 
 Article 4
 
@@ -1414,9 +1144,7 @@ Tout navire titulaire de l'AEP senne tournante coulissante s'engage à embarquer
 
 Article 7
 
-Mesures de gestion en cas d'atteinte ou de non-atteinte
-
-des objectifs de gestion des ressources halieutiques
+Mesures de gestion en cas d'atteinte ou de non-atteinte des objectifs de gestion des ressources halieutiques
 
 Si les objectifs de gestion ne sont pas atteints fin 2014, le contingent d'autorisations européennes de pêche à la senne tournante coulissante est réduit de 10 % en 2015.
 
@@ -1428,9 +1156,7 @@ Si les objectifs de gestion sont à nouveau atteints fin 2015, l'effort de pêch
 
 Chapitre 3
 
-Mise en œuvre du contrôle, du système de pilotage,
-
-du suivi et de l'évaluation scientifique
+Mise en œuvre du contrôle, du système de pilotage, du suivi et de l'évaluation scientifique
 
 Article 8
 
@@ -1478,9 +1204,7 @@ Il est mis en place un suivi scientifique sur les points suivants :
 
 ― l'évaluation de l'impact socio-économique de l'application du plan de gestion et des dispositions du réglement (CE) n° 1967/2006 à travers l'exploitation des données collectées dans le cadre du règlement (CE) n° 199/2008.
 
-4. Intégration du plan de gestion pour la senne tournante
-
-coulissante en Méditerranée dans la réglementation nationale
+4. Intégration du plan de gestion pour la senne tournante coulissante en Méditerranée dans la réglementation nationale
 
 La réglementation générale sur l'exercice et l'encadrement de la pêche maritime s'applique en méditerranée et notamment le décret n° 90-94 du 25 janvier 1990 pris pour l'application du titre II et du titre IV du livre IX du code rural et de la pêche maritime.
 
