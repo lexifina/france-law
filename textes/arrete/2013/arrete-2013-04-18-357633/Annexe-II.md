@@ -386,9 +386,9 @@ SERVICE OU CATÉGORIE DE PERSONNEL
 
 |
 
-DIRECTION DES FINANCES PUBLIQUES
+DIRECTION DES FINANCES PUBLIQUES CHARGÉE DE LA PAYE
 
-chargée de la paye sans ordonnancement préalable
+sans ordonnancement préalable
 
 |
 
@@ -528,7 +528,7 @@ Bouches-du-Rhône
 
 |
 
-Préfecture de la Côte d'Or
+Préfecture de la Côte-d'Or
 
 |
 
@@ -912,7 +912,7 @@ Moselle
 
 |
 
-Préfecture du Territoire-de-Belfort
+Préfecture du Territoire de Belfort
 
 |
 
@@ -944,7 +944,7 @@ Yvelines
 
 |
 
-Préfecture du Val d'Oise
+Préfecture du Val-d'Oise
 
 |
 
@@ -972,7 +972,9 @@ Bouches-du-Rhône à compter du 1er mars 2017
 
 |
 
-Personnels de la police nationale en poste dans le département de la Haute-Garonne
+Personnels de la police nationale en poste dans le département
+
+de la Haute-Garonne
 
 |
 
@@ -980,11 +982,19 @@ Bouches-du-Rhône à compter du 1er mai 2017
 
 |
 
-Personnels de la police nationale en poste dans les départements de l'Aveyron, du Gers, du Lot, du Tarn et du Tarn-et-Garonne
+Personnels de la police nationale en poste dans les départements de l'Aveyron, du Gers, du Lot, des Hautes-Pyrénées, du Tarn et du Tarn-et-Garonne
 
 |
 
 Bouches-du-Rhône à compter du 1er juillet 2017
+
+|
+
+Réservistes de la police nationale en poste dans les départements de l'Ariège, de l'Aveyron, de la Haute-Garonne, du Gers, du Lot, des Hautes-Pyrénées, du Tarn et du Tarn-et-Garonne
+
+|
+
+Bouches-du-Rhône à compter du 1er mars 2017
 
 |
 
@@ -1044,7 +1054,7 @@ Moselle
 
 |
 
-Chefs de district en poste dans les Terres Australes et Antarctiques françaises (Archipel de Crozet, Archipel des Kerguelen, Iles Saint-Paul et Amsterdam, Terre-Adélie, Iles Eparses)
+Chefs de district en poste dans les Terres australes et antarctiques françaises (archipel de Crozet, archipel des Kerguelen, îles Saint-Paul et Amsterdam, terre Adélie, îles Eparses)
 
 |
 
@@ -1102,9 +1112,9 @@ SERVICE OU CATÉGORIE DE PERSONNEL
 
 |
 
-DIRECTION DES FINANCES PUBLIQUES
+DIRECTION DES FINANCES PUBLIQUES CHARGÉE DE LA PAYE
 
-chargée de la paye sans ordonnancement préalable
+sans ordonnancement préalable
 
 |
 
@@ -1138,7 +1148,7 @@ Yvelines
 
 |
 
-Personnel en poste dans le département du Val d'Oise
+Personnel en poste dans le département du Val-d'Oise
 
 |
 
@@ -1174,7 +1184,7 @@ Val-de-Marne
 
 |
 
-Autres personnels de catégorie A en fonctions dans les services déconcentrés de métropole hors réseau scientifique-Assistants de service social, infirmiers d'Etat, lieutenants de port, adjoints techniques des administrations de l'Etat, experts techniques de l'équipement, syndics des gens de mer, agents des services techniques et personnels non titulaires (hors contractuels "Berkani")
+Autres personnels de catégorie A en fonctions dans les services déconcentrés de métropole hors réseau scientifique-Assistants de service social, infirmiers d'Etat, lieutenants de port, adjoints techniques des administrations de l'Etat, experts techniques de l'équipement, syndics des gens de mer, agents des services techniques et personnels non titulaires (hors contractuels Berkani )
 
 |
 
@@ -1182,7 +1192,7 @@ Val-de-Marne
 
 |
 
-Personnels de catégorie B et C ou à statut ouvrier affectés à la direction interrégionale de la mer Manche Est Mer du Nord
+Personnels de catégorie B et C ou à statut ouvrier et contractuels Berkani affectés à la direction interrégionale de la mer Manche Est mer du Nord
 
 |
 
@@ -1190,7 +1200,7 @@ Calvados à partir du 1er juin 2017 à l'exception des prises en charge pour les
 
 |
 
-Personnels de catégorie B et C ou à statut ouvrier affectés à la direction régionale de l'environnement, de l'aménagement et du logement d'Auvergne-Rhône-Alpes en poste dans les départements de l'Ain, de la Loire et du Rhône
+Personnels de catégorie B et C ou à statut ouvrier et contractuels Berkani affectés à la direction régionale de l'environnement, de l'aménagement et du logement d'Auvergne-Rhône-Alpes en poste dans les départements de l'Ain, de l'Ardèche, de la Drôme, de l'Isère de la Loire, du Rhône, de la Savoie et de la Haute-Savoie
 
 |
 
@@ -1198,15 +1208,15 @@ Puy-de-Dôme à partir du 1er mai 2017 à l'exception des prises en charge pour 
 
 |
 
-Personnels de catégorie B et C ou à statut ouvrier affectés à la direction régionale de l'environnement, de l'aménagement et du logement de Bourgogne-Franche-Comté en poste dans les départements du Doubs, du Jura, de la Haute-Saône et du territoire-de-Belfort
+Personnels de catégorie B et C ou à statut ouvrier et contractuels Berkani affectés à la direction régionale de l'environnement, de l'aménagement et du logement de Bourgogne-Franche-Comté en poste dans les départements du Doubs, du Jura, de la Haute-Saône et du Territoire de Belfort
 
 |
 
-Côte d'Or à partir du 1er février 2017 à l'exception des prises en charge pour lesquelles la date est fixée au 1er janvier 2017
+Côte-d'Or à partir du 1er février 2017 à l'exception des prises en charge pour lesquelles la date est fixée au 1er janvier 2017
 
 |
 
-Personnels de catégorie B et C ou à statut ouvrier affectés à la direction régionale de l'environnement, de l'aménagement et du logement du Grand Est en poste dans les départements des Ardennes, de l'Aube, de la Marne, de la Haute-Marne, du Bas-Rhin et du Haut-Rhin
+Personnels de catégorie B et C ou à statut ouvrier et contractuels Berkani affectés à la direction régionale de l'environnement, de l'aménagement et du logement du Grand Est en poste dans les départements des Ardennes, de l'Aube, de la Marne, de la Haute-Marne, du Bas-Rhin et du Haut-Rhin
 
 |
 
@@ -1214,7 +1224,7 @@ Moselle à partir du 1er juin 2017 à l'exception des prises en charge pour lesq
 
 |
 
-Personnels de catégorie B et C ou à statut ouvrier affectés à la direction régionale de l'environnement, de l'aménagement et du logement des Hauts-de-France en poste dans les départements du Nord et du Pas-de-Calais
+Personnels de catégorie B et C ou à statut ouvrier et contractuels Berkani affectés à la direction régionale de l'environnement, de l'aménagement et du logement des Hauts-de-France en poste dans les départements du Nord et du Pas-de-Calais
 
 |
 
@@ -1222,7 +1232,7 @@ Somme
 
 |
 
-Personnels de catégorie B et C ou à statut ouvrier affectés à la direction régionale de l'environnement, de l'aménagement et du logement de Normandie en poste dans les départements du Calvados, de la Manche et de l'Orne
+Personnels de catégorie B et C ou à statut ouvrier et contractuels Berkani affectés à la direction régionale de l'environnement, de l'aménagement et du logement de Normandie en poste dans les départements du Calvados, de la Manche et de l'Orne
 
 |
 
@@ -1230,7 +1240,7 @@ Seine-Maritime à partir du 1er juin 2017 à l'exception des prises en charge po
 
 |
 
-Personnels de catégorie B et C ou à statut ouvrier affectés à la direction régionale de l'environnement, de l'aménagement et du logement de Nouvelle-Aquitaine en poste dans les départements de la Charente, de la Charente-Martime, des Deux-Sèvres et de la Vienne
+Personnels de catégorie B et C ou à statut ouvrier et contractuels Berkani affectés à la direction régionale de l'environnement, de l'aménagement et du logement de Nouvelle-Aquitaine en poste dans les départements de la Charente, de la Charente-Maritime, de la Corrèze, de la Creuse, des Deux-Sèvres, de la Vienne et de la Haute-Vienne
 
 |
 
@@ -1238,7 +1248,7 @@ Gironde à partir du 1er février 2017 à l'exception des prises en charge pour 
 
 |
 
-Personnels de catégorie B et C ou à statut ouvrier affectés à la direction régionale de l'environnement, de l'aménagement et du logement d'Occitanie en poste dans les départements de l'Aude, du Gard, de l'Hérault, de la Lozère et des Pyrénées-Orientales
+Personnels de catégorie B et C ou à statut ouvrier et contractuels Berkani affectés à la direction régionale de l'environnement, de l'aménagement et du logement d'Occitanie en poste dans les départements de l'Aude, du Gard, de l'Hérault, de la Lozère et des Pyrénées-Orientales
 
 |
 
@@ -1246,7 +1256,7 @@ Haute-Garonne à partir du 1er mars 2017 à l'exception des prises en charge pou
 
 |
 
-Personnels de catégorie B et C affectés à la préfecture et dans les directions départementales interministérielles de l'Allier
+Personnels de catégorie B et C ou à statut ouvrier et contractuels Berkani affectés à la préfecture et dans les directions départementales interministérielles de l'Allier
 
 |
 
@@ -1254,7 +1264,7 @@ Rhône à partir du 1er mai 2017 à l'exception des prises en charge pour lesque
 
 |
 
-Personnels de catégorie B et C affectés à la préfecture et dans les directions départementales interministérielles de l'Aude
+Personnels de catégorie B et C ou à statut ouvrier et contractuels Berkani affectés à la préfecture et dans les directions départementales interministérielles de l'Aude
 
 |
 
@@ -1262,15 +1272,7 @@ Haute-Garonne à partir du 1er mars 2017 à l'exception des prises en charge pou
 
 |
 
-Personnels de catégorie B et C affectés à la préfecture et dans les directions départementales interministérielles du Cantal
-
-|
-
-Rhône à partir du 1er mai 2017 à l'exception des prises en charge pour lesquelles la date est fixée au 1er janvier 2017
-
-|
-
-Personnels de catégorie B et C affectés à la préfecture et dans les directions départementales interministérielles de la Charente
+Personnels de catégorie B et C ou à statut ouvrier et contractuels Berkani affectés à la préfecture et dans les directions départementales interministérielles de la Charente
 
 |
 
@@ -1278,7 +1280,7 @@ Haute-Vienne
 
 |
 
-Personnels de catégorie B et C affectés à la préfecture et dans les directions départementales interministérielles de la Charente-Maritime
+Personnels de catégorie B et C ou à statut ouvrier et contractuels Berkani affectés à la préfecture et dans les directions départementales interministérielles de la Charente-Maritime
 
 |
 
@@ -1286,23 +1288,15 @@ Haute-Vienne
 
 |
 
-Personnels de catégorie B et C affectés à la préfecture et dans les directions départementales interministérielles du Doubs
+Personnels de catégorie B et C ou à statut ouvrier et contractuels Berkani affectés à la préfecture et dans les directions départementales interministérielles du Doubs
 
 |
 
-Côte d'Or à partir du 1er février 2017 à l'exception des prises en charge pour lesquelles la date est fixée au 1er janvier 2017
+Côte-d'Or à partir du 1er février 2017 à l'exception des prises en charge pour lesquelles la date est fixée au 1er janvier 2017
 
 |
 
-Personnels de catégorie B et C affectés à la préfecture et dans les directions départementales interministérielles du Gard
-
-|
-
-Haute-Garonne à partir du 1er mars 2017 à l'exception des prises en charge pour lesquelles la date est fixée au 1er janvier 2017
-
-|
-
-Personnels de catégorie B et C affectés à la préfecture et dans les directions départementales interministérielles de l'Hérault
+Personnels de catégorie B et C ou à statut ouvrier et contractuels Berkani affectés à la préfecture et dans les directions départementales interministérielles du Gard
 
 |
 
@@ -1310,15 +1304,23 @@ Haute-Garonne à partir du 1er mars 2017 à l'exception des prises en charge pou
 
 |
 
-Personnels de catégorie B et C affectés à la préfecture et dans les directions départementales interministérielles du Jura
+Personnels de catégorie B et C ou à statut ouvrier et contractuels Berkani affectés à la préfecture et dans les directions départementales interministérielles de l'Hérault
 
 |
 
-Côte d'Or à partir du 1er février 2017 à l'exception des prises en charge pour lesquelles la date est fixée au 1er janvier 2017
+Haute-Garonne à partir du 1er mars 2017 à l'exception des prises en charge pour lesquelles la date est fixée au 1er janvier 2017
 
 |
 
-Personnels de catégorie B et C affectés à la préfecture et dans les directions départementales interministérielles de la Haute-Loire
+Personnels de catégorie B et C ou à statut ouvrier et contractuels Berkani affectés à la préfecture et dans les directions départementales interministérielles du Jura
+
+|
+
+Côte-d'Or à partir du 1er février 2017 à l'exception des prises en charge pour lesquelles la date est fixée au 1er janvier 2017
+
+|
+
+Personnels de catégorie B et C ou à statut ouvrier et contractuels Berkani affectés à la préfecture et dans les directions départementales interministérielles de la Haute-Loire
 
 |
 
@@ -1326,7 +1328,7 @@ Rhône à partir du 1er mai 2017 à l'exception des prises en charge pour lesque
 
 |
 
-Personnels de catégorie B et C affectés à la préfecture et dans les directions départementales interministérielles de la Lozère
+Personnels de catégorie B et C ou à statut ouvrier et contractuels Berkani affectés à la préfecture et dans les directions départementales interministérielles de la Lozère
 
 |
 
@@ -1334,7 +1336,7 @@ Haute-Garonne à partir du 1er mars 2017 à l'exception des prises en charge pou
 
 |
 
-Personnels de catégorie B et C affectés à la préfecture et dans les directions départementales interministérielles du Nord
+Personnels de catégorie B et C ou à statut ouvrier et contractuels Berkani affectés à la préfecture et dans les directions départementales interministérielles du Nord
 
 |
 
@@ -1342,7 +1344,7 @@ Somme
 
 |
 
-Personnels de catégorie B et C affectés à la préfecture et dans les directions départementales interministérielles du Pas-de-Calais
+Personnels de catégorie B et C ou à statut ouvrier et contractuels Berkani affectés à la préfecture et dans les directions départementales interministérielles du Pas-de-Calais
 
 |
 
@@ -1350,15 +1352,7 @@ Somme
 
 |
 
-Personnels de catégorie B et C affectés à la préfecture et dans les directions départementales interministérielles du Puy-de-Dôme
-
-|
-
-Rhône à partir du 1er mai 2017 à l'exception des prises en charge pour lesquelles la date est fixée au 1er janvier 2017
-
-|
-
-Personnels de catégorie B et C affectés à la préfecture et dans les directions départementales interministérielles des Pyrénées-Orientales
+Personnels de catégorie B et C ou à statut ouvrier et contractuels Berkani affectés à la préfecture et dans les directions départementales interministérielles des Pyrénées-Orientales
 
 |
 
@@ -1366,23 +1360,15 @@ Haute-Garonne à partir du 1er mars 2017 à l'exception des prises en charge pou
 
 |
 
-Personnels de catégorie B et C affectés à la préfecture et dans les directions départementales interministérielles de la Haute-Saône
+Personnels de catégorie B et C ou à statut ouvrier et contractuels Berkani affectés à la préfecture et dans les directions départementales interministérielles de la Haute-Saône
 
 |
 
-Côte d'Or à partir du 1er février 2017 à l'exception des prises en charge pour lesquelles la date est fixée au 1er janvier 2017
+Côte-d'Or à partir du 1er février 2017 à l'exception des prises en charge pour lesquelles la date est fixée au 1er janvier 2017
 
 |
 
-Personnels de catégorie B et C affectés à la préfecture et dans les directions départementales interministérielles des Deux-Sèvres
-
-|
-
-Haute-Vienne
-
-|
-
-Personnels de catégorie B et C affectés à la préfecture et dans les directions départementales interministérielles de la Vienne
+Personnels de catégorie B et C ou à statut ouvrier et contractuels Berkani affectés à la préfecture et dans les directions départementales interministérielles des Deux-Sèvres
 
 |
 
@@ -1390,15 +1376,23 @@ Haute-Vienne
 
 |
 
-Personnels de catégorie B et C affectés à la préfecture et dans les directions départementales interministérielles du Territoire-de-Belfort
+Personnels de catégorie B et C ou à statut ouvrier et contractuels Berkani affectés à la préfecture et dans les directions départementales interministérielles de la Vienne
 
 |
 
-Côte d'Or à partir du 1er février 2017 à l'exception des prises en charge pour lesquelles la date est fixée au 1er janvier 2017
+Haute-Vienne
 
 |
 
-Personnels de catégorie B et C ou à statut ouvrier en poste dans les départements d'outre-mer collectivités d'outre-mer régies par l'article 73 de la Constitution
+Personnels de catégorie B et C ou à statut ouvrier et contractuels Berkani affectés à la préfecture et dans les directions départementales interministérielles du Territoire de Belfort
+
+|
+
+Côte-d'Or à partir du 1er février 2017 à l'exception des prises en charge pour lesquelles la date est fixée au 1er janvier 2017
+
+|
+
+Personnels de catégorie B et C ou à statut ouvrier et contractuels Berkani en poste dans les départements d'outre-mer collectivités d'outre-mer régies par l'article 73 de la Constitution
 
 |
 
