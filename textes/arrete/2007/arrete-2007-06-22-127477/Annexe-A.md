@@ -426,18 +426,6 @@ Secrétariat général pour l'administration
 
 |
 
-Direction du service national
-
-|
-
-Directeurs d'établissements et adjoints de ces directeurs
-
-|
-
-MAPA × 10
-
-|
-
 Service d'infrastructure de la défense
 
 |
