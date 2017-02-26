@@ -1,8 +1,6 @@
 # Article Annexe II
 
-PROGRAMME DE DROIT PÉNAL ET DE PROCÉDURE PÉNALE
-
-LIÉ À L'ACTIVITÉ DE LA POLICE TECHNIQUE ET SCIENTIFIQUE
+PROGRAMME DE DROIT PÉNAL ET DE PROCÉDURE PÉNALE LIÉ À L'ACTIVITÉ DE LA POLICE TECHNIQUE ET SCIENTIFIQUE
 
 LE PROCÈS PÉNAL
 
@@ -10,7 +8,7 @@ I. - Introduction : organisation du système juridictionnel français.
 
 Les principes généraux.
 
-L'organisation institutionnelle (juridictions de droit commun et spécialisées, juridiction de premier et second degrés...).
+L'organisation institutionnelle (juridictions de droit commun et spécialisées, juridiction de premier et second degrés…).
 
 II. - Le fondement du procès pénal.
 
@@ -22,7 +20,7 @@ A. - La constitution de l'infraction :
 
 B. - La preuve de l'infraction :
 
-- les modes de preuve : principe de liberté de la preuve ; force probante des différents modes de preuves (aveu, témoignage présomptions...) ;
+- les modes de preuve : principe de liberté de la preuve ; force probante des différents modes de preuves (aveu, témoignage, présomptions…) ;
 
 - la preuve scientifique : l'intervention sur la scène d'infraction ; les saisies scellés ; la signalisation et les prélèvements externes ; expertises et réquisitions ; examens techniques et scientifiques.
 
@@ -42,4 +40,4 @@ Le domaine de l'instruction ; les pouvoirs propres du juge d'instruction ; la d�
 
 D. - Le jugement et les voies de recours :
 
-Déroulement du jugement ; exécution des voies de recours (appel, cassation...).
+Déroulement du jugement ; exécution des voies de recours (appel, cassation…).

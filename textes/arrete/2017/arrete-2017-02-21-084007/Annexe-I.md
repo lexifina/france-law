@@ -1,22 +1,20 @@
 # Article Annexe I
 
-PROGRAMMES DES SPÉCIALITÉS DES CONCOURS EXTERNE ET INTERNE
-
-DE TECHNICIEN DE POLICE TECHNIQUE ET SCIENTIFIQUE DE LA POLICE NATIONALE
+PROGRAMMES DES SPÉCIALITÉS DES CONCOURS DE TECHNICIEN PRINCIPAL DE POLICE TECHNIQUE ET SCIENTIFIQUE DE LA POLICE NATIONALE
 
 Les programmes des épreuves des spécialités biologie, chimie analytique, hygiène et sécurité, mesures physiques, physique et qualité correspondent à ceux des formations universitaires de niveau baccalauréat + 2, reconnues par les ministères de l'éducation nationale de l'enseignement supérieur et de la recherche.
 
 Les programmes pris comme référence seront ceux en vigueur l'année de l'ouverture d'un concours.
 
-Biologie
+PROGRAMME DE LA SPÉCIALITÉ BIOLOGIE
 
-Programme pédagogique national relatif aux études conduisant au diplôme universitaire de technologie (DUT) de la spécialité génie biologique , option analyses biologiques et biochimiques .
+Programme pédagogique national relatif aux études conduisant au diplôme universitaire de technologie (DUT) de la spécialité génie biologique, option analyses biologiques et biochimiques.
 
-Référentiel du brevet de technicien supérieur (BTS) bioanalyses et contrôles .
+Référentiel du brevet de technicien supérieur (BTS) bioanalyses et contrôles.
 
 Programme de l'enseignement de la biologie dans les classes préparatoires aux grandes écoles (CPGE), option BCPST (1re et 2e année).
 
-Chimie analytique
+PROGRAMME DE LA SPÉCIALITÉ CHIMIE ANALYTIQUE
 
 Programme de chimie de la première année des classes préparatoires scientifiques de la voie PCSI, option PC.
 
@@ -24,49 +22,49 @@ Programme de chimie de seconde année des classes préparatoires scientifique fi
 
 Programme pédagogique national relatif aux études conduisant au diplôme universitaire de technologie de la spécialité chimie.
 
-Hygiène et sécurité
+PROGRAMME DE LA SPÉCIALITÉ HYGIÈNE ET SÉCURITÉ
 
 Programme pédagogique national relatif aux études conduisant au diplôme universitaire de technologie de la spécialité hygiène, sécurité, environnement.
 
-Mesures physiques
+PROGRAMME DE LA SPÉCIALITÉ MESURES PHYSIQUES
 
 Programme pédagogique national relatif aux études conduisant au diplôme universitaire de technologie de la spécialité mesures physiques.
 
-Physique
+PROGRAMME DE LA SPÉCIALITÉ PHYSIQUE
 
 Programme de physique de la première année des classes préparatoires scientifiques de la voie PCSI, option PC.
 
 Programme de physique (2e année) des classes préparatoires scientifiques, filière PC.
 
-Qualité
+PROGRAMME DE LA SPÉCIALITÉ QUALITÉ
 
-Programme pédagogique national relatif aux études conduisant au diplôme universitaire de technologie de la spécialité qualité, logistique industrielle et organisation .
+Programme pédagogique national relatif aux études conduisant au diplôme universitaire de technologie de la spécialité qualité, logistique industrielle et organisation.
 
 PROGRAMME DE LA SPÉCIALITÉ BALISTIQUE
 
-I. ― Balistique : lois fondamentales.
+I. - Balistique : lois fondamentales.
 
 Mécanique du point :
 
-― mouvement (vitesse, accélération...) ;
+- mouvement (vitesse, accélération…) ;
 
-― lois fondamentales du mouvement ;
+- lois fondamentales du mouvement ;
 
-― lois fondamentales de la dynamique ;
+- lois fondamentales de la dynamique ;
 
-― quantité de mouvement ;
+- quantité de mouvement ;
 
-― travail, énergie.
+- travail, énergie.
 
 Applications à la balistique :
 
-― balistique intérieure ;
+- balistique intérieure ;
 
-― balistique intermédiaire ;
+- balistique intermédiaire ;
 
-― balistique terminale ;
+- balistique terminale ;
 
-― balistique de bouche (résidus de tir, détonation).
+- balistique de bouche (résidus de tir, détonation).
 
 Les comparaisons.
 
@@ -74,7 +72,7 @@ Les écrans.
 
 Les protections balistiques.
 
-II. ― Les armes et leurs caractéristiques.
+II. - Les armes et leurs caractéristiques.
 
 Historique des munitions et des armes.
 
@@ -90,43 +88,43 @@ Sécurité et sûretés.
 
 Les munitions, les projectiles, les poudres.
 
-III. ― La législation.
+III. - La législation.
 
-PROGRAMME DE LA SPÉCIALITÉ DOCUMENTS ― ÉCRITURES MANUSCRITES
+PROGRAMME DE LA SPÉCIALITÉ DOCUMENTS - ÉCRITURES MANUSCRITES
 
-I. ― Généralités.
+I. - Généralités.
 
 Connaissances et précautions préalables :
 
-― recherches de traces papillaires, d'ADN, de foulages (ESDA)... ;
+- recherches de traces papillaires, d'ADN, de foulages (ESDA)… ;
 
-― traitement des images numériques : amélioration, modification, textes en vigueur.
+- traitement des images numériques : amélioration, modification, textes en vigueur.
 
-II. ― Types d'affaires rencontrées (exemples : contrefaçons, altérations).
+II. - Types d'affaires rencontrées (exemples : contrefaçons, altérations).
 
 III. - Les éléments constitutifs d'un document.
 
 A. - Le support :
 
-― le papier ;
+- le papier ;
 
-― le papier de sécurité ;
+- le papier de sécurité ;
 
-― les nouveaux supports.
+- les nouveaux supports.
 
 B. - L'impression :
 
-― techniques et procédés ;
+- techniques et procédés ;
 
-― les formes en relief ;
+- les formes en relief ;
 
-― les formes plates ;
+- les formes plates ;
 
-― les formes en creux ;
+- les formes en creux ;
 
-― les formes à l'écran ;
+- les formes à l'écran ;
 
-― techniques de bureautique.
+- techniques de bureautique.
 
 C. - Les encres.
 
@@ -158,31 +156,31 @@ XI. - La chromatographie sur couche mince.
 
 XII. - Etude des écritures manuscrites.
 
-A. ― Historique.
+A. - Historique.
 
-B. ― Les bases de l'écriture.
+B. - Les bases de l'écriture.
 
-C. ― L'étude :
+C. - L'étude :
 
-― appréciation du milieu graphique ;
+- appréciation du milieu graphique ;
 
-― les paramètres graphiques ;
+- les paramètres graphiques ;
 
-― le geste graphique ;
+- le geste graphique ;
 
-― les inductions formelles et conceptuelles.
+- les inductions formelles et conceptuelles.
 
-D. ― Les altérations de l'écriture.
+D. - Les altérations de l'écriture.
 
-E. ― Les contrefaçons de l'écriture.
+E. - Les contrefaçons de l'écriture.
 
-F. ― Les supports et instruments scripturants.
+F. - Les supports et instruments scripturants.
 
-G. ― Examens sous différents rayonnements.
+G. - Examens sous différents rayonnements.
 
-H. ― Problèmes des croisements de traits :
+H. - Problèmes des croisements de traits :
 
-― preuve de l'antériorité du tracé.
+- preuve de l'antériorité du tracé.
 
 PROGRAMME DE LA SPÉCIALITÉ ÉLECTRONIQUE
 
@@ -262,9 +260,9 @@ Systèmes séquentiels synchrones et asynchrones.
 
 Méthodes de description et de formalisation des automatismes industriels.
 
-Mise en œuvre des automatismes industriels : calculateurs, API...
+Mise en œuvre des automatismes industriels : calculateurs, API…
 
-Constituants des automatismes : capteurs, actionneurs...
+Constituants des automatismes : capteurs, actionneurs…
 
 VII. - Informatique industrielle/systèmes à processeurs.
 
@@ -358,11 +356,11 @@ La démonstration d'identité.
 
 Les traces papillaires :
 
-― généralités ;
+- généralités ;
 
-― recherche et révélation des traces papillaires ;
+- recherche et révélation des traces papillaires ;
 
-― le prélèvement d'objets porteurs de traces papillaires.
+- le prélèvement d'objets porteurs de traces papillaires.
 
 V. - Signalisation.
 
@@ -396,29 +394,29 @@ I. - Informatique générale.
 
 A. - Architecture des systèmes :
 
-― codage de l'information ;
+- codage de l'information ;
 
-― microprocesseur ;
+- microprocesseur ;
 
-― bus et mémoire ;
+- bus et mémoire ;
 
-― périphériques.
+- périphériques.
 
 B. - Architecture physique et logique des réseaux :
 
-― topologie des réseaux ;
+- topologie des réseaux ;
 
-― réseau TCP/IP - Ethernet ;
+- réseau TCP/IP - Ethernet ;
 
-― services réseaux (DHCP, DNS...) ;
+- services réseaux (DHCP, DNS…) ;
 
-― commutateurs, routeurs, VLAN.
+- commutateurs, routeurs, VLAN.
 
 C. - Bases de données :
 
-― administration des bases de données relationnelles ;
+- administration des bases de données relationnelles ;
 
-― langage SQL.
+- langage SQL.
 
 D. - Droit de l'informatique.
 
@@ -428,43 +426,43 @@ II. - Développement.
 
 A. - Algorithmie et structures de données :
 
-― types de données élémentaires et abstraits ;
+- types de données élémentaires et abstraits ;
 
-― structure de contrôle et structure données ;
+- structure de contrôle et structure données ;
 
-― algorithme itératif et récursif ;
+- algorithme itératif et récursif ;
 
-― complexité.
+- complexité.
 
 B. - Production logiciel :
 
-― processus de compilation et de génération d'un programme exécutable ;
+- processus de compilation et de génération d'un programme exécutable ;
 
-― librairies statiques et dynamiques ;
+- librairies statiques et dynamiques ;
 
-― environnement de développement (éditeur, compilateur, debugger, versioning) ;
+- environnement de développement (éditeur, compilateur, debugger, versioning) ;
 
-― test unitaire et d'intégration.
+- test unitaire et d'intégration.
 
 C. - Programmation procédurale, objet et événementielle :
 
-― fonctions et procédures ;
+- fonctions et procédures ;
 
-― classes, héritage, polymorphisme et surcharge ;
+- classes, héritage, polymorphisme et surcharge ;
 
-― réutilisation, patterns ;
+- réutilisation, patterns ;
 
-― interception et gestion d'événements ;
+- interception et gestion d'événements ;
 
-― programmation web.
+- programmation web.
 
 D. - Analyse et conception :
 
-― méthodes ;
+- méthodes ;
 
-― langage de modélisation ;
+- langage de modélisation ;
 
-― modélisation objets.
+- modélisation objets.
 
 E. - Sécurité des applications.
 
@@ -474,29 +472,29 @@ I. - Informatique générale.
 
 A. - Architecture des systèmes :
 
-― codage de l'information ;
+- codage de l'information ;
 
-― microprocesseur ;
+- microprocesseur ;
 
-― bus et mémoire ;
+- bus et mémoire ;
 
-― périphériques.
+- périphériques.
 
 B. - Architecture physique et logiques des réseaux :
 
-― topologie des réseaux ;
+- topologie des réseaux ;
 
-― réseau TCP/IP - Ethernet ;
+- réseau TCP/IP - Ethernet ;
 
-― services réseaux (DHCP, DNS) ;
+- services réseaux (DHCP, DNS) ;
 
-― commutateurs, routeurs, VLAN.
+- commutateurs, routeurs, VLAN.
 
 C. - Bases de données :
 
-― administration des bases de données relationnelles ;
+- administration des bases de données relationnelles ;
 
-― langage SQL.
+- langage SQL.
 
 D. - Droit de l'informatique.
 
@@ -506,51 +504,51 @@ II. - Systèmes et réseaux.
 
 A. - Administration et supervision des réseaux locaux :
 
-― adressage IP et masque de sous-réseau ;
+- adressage IP et masque de sous-réseau ;
 
-― routage ;
+- routage ;
 
-― surveillance des éléments actifs et des ressources ;
+- surveillance des éléments actifs et des ressources ;
 
-― gestion des utilisateurs réseaux et des ressources sous Active Directory et Linux ;
+- gestion des utilisateurs réseaux et des ressources sous Active Directory et Linux ;
 
-― administration des systèmes de messagerie ;
+- administration des systèmes de messagerie ;
 
-― gestion d'annuaires.
+- gestion d'annuaires.
 
 B. - Sécurité des systèmes et des réseaux :
 
-― antivirus ;
+- antivirus ;
 
-― mise à jour système.
+- mise à jour système.
 
 C. - Installation et maintenance des serveurs et des systèmes d'exploitation :
 
-― environnement Microsoft Active Directory ;
+- environnement Microsoft Active Directory ;
 
-― environnement Linux.
+- environnement Linux.
 
 D. - Exploitation des bases de données :
 
-― administration et maintenance d'un SGBDR ;
+- administration et maintenance d'un SGBDR ;
 
-― organisation des données dans un SGBDR.
+- organisation des données dans un SGBDR.
 
 E. - Programmation en langage scripté :
 
-― environnement MS-DOS ;
+- environnement MS-DOS ;
 
-― environnement Shell sous Linux.
+- environnement Shell sous Linux.
 
 F. - Installation et maintenance d'un poste de travail.
 
 G. - Architecture des systèmes d'information :
 
-― stockage (DAS, NAS, SAN) ;
+- stockage (DAS, NAS, SAN) ;
 
-― virtualisation des systèmes ;
+- virtualisation des systèmes ;
 
-― sauvegarde et restauration.
+- sauvegarde et restauration.
 
 PROGRAMME DE LA SPÉCIALITÉ TRAITEMENT DU SIGNAL
 
@@ -560,12 +558,12 @@ A. - Métrologie.
 
 B. - Techniques de traitement de signal :
 
-― outils mathématiques pour la représentation des signaux et systèmes ;
+- outils mathématiques pour la représentation des signaux et systèmes ;
 
-― convolution, transformation de Fourier ;
+- convolution, transformation de Fourier ;
 
-― numérisation des signaux.
+- numérisation des signaux.
 
-C. - Utilisation d'un logiciel de traitement de signal (Matlab...).
+C. - Utilisation d'un logiciel de traitement de signal (Matlab…).
 
 D. - Analyse statistique.
