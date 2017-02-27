@@ -704,6 +704,34 @@ Solvay Electrolyse France
 
 |
 
+FR-new-06104438
+
+|
+
+FERROPEM |
+
+Société FERROPEM Usine de CHÂTEAU-FEUILLET |
+
+196 253 |
+
+192 843 |
+
+189 401 |
+
+185 931 |
+
+182 429 |
+
+178 902 |
+
+175 338 |
+
+171 764 |
+
+1 472 861
+
+|
+
 FR-new-06203291
 
 |

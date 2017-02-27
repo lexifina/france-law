@@ -2432,23 +2432,23 @@ ORION ENGINEERED CARBONS
 
 |
 
-81 308
+0
 
 |
 
-79 723
+0
 
 |
 
-78 118
+0
 
 |
 
-76 507
+0
 
 |
 
-656 426
+340 770
 
 |
 
@@ -4104,31 +4104,31 @@ ELVIR
 
 |
 
-10 061
+10 855
 
 |
 
-9 072
+10 014
 
 |
 
-8 113
+9 196
 
 |
 
-7 183
+8 401
 
 |
 
-6 281
+7 627
 
 |
 
-5 411
+6 879
 
 |
 
-69 319
+76 170
 
 |
 
@@ -4976,23 +4976,23 @@ Chaufferie des Aubépins (CHALON)
 
 |
 
-3 182
+1 591
 
 |
 
-2 687
+1 343
 
 |
 
-2 207
+1 104
 
 |
 
-1 746
+873
 
 |
 
-40 106
+35 195
 
 |
 
@@ -5744,23 +5744,23 @@ MONCIA LUCY II Montceau-les-Mines
 
 |
 
-11 966
+5 983
 
 |
 
-10 111
+5 056
 
 |
 
-8 317
+4 159
 
 |
 
-6 588
+3 294
 
 |
 
-104 629
+86 139
 
 |
 
@@ -9464,11 +9464,11 @@ FR000000000000262
 
 |
 
-TOTAL PETROCHEMICALS France
+TOTAL RAFFINAGE FRANCE
 
 |
 
-TOTAL PETROCHEMICALS FRANCE UNITE STYRENE
+TOTAL PETROCHEMICALS FRANCE unité styrène
 
 |
 
@@ -9512,11 +9512,11 @@ FR000000000000263
 
 |
 
-TOTAL PETROCHEMICALS France
+TOTAL RAFFINAGE FRANCE
 
 |
 
-TOTAL PETROCHEMICALS FRANCE USINE DE GONFREVILLE
+TOTAL PETROCHEMICALS FRANCE usine de Gonfreville
 
 |
 
@@ -10044,7 +10044,7 @@ Lafarge Ciments
 
 |
 
-Lafarge Ciments - usine du Havre
+Lafarge Ciments - Usine du Havre
 
 |
 
@@ -10064,23 +10064,23 @@ Lafarge Ciments - usine du Havre
 
 |
 
-618 583
+0
 
 |
 
-606 521
+0
 
 |
 
-594 307
+0
 
 |
 
-582 052
+0
 
 |
 
-4 993 990
+2 592 527
 
 |
 
@@ -10156,27 +10156,27 @@ Chaufferie urbaine d'Evreux
 
 |
 
-19 984
+10 737
 
 |
 
-18 142
+10 171
 
 |
 
-16 354
+9 618
 
 |
 
-14 621
+9 080
 
 |
 
-12 943
+8 555
 
 |
 
-154 448
+120 565
 
 |
 
@@ -13088,23 +13088,23 @@ ATEMAX France
 
 |
 
-5 739
+2 870
 
 |
 
-4 846
+2 423
 
 |
 
-3 982
+1 991
 
 |
 
-3 150
+1 575
 
 |
 
-50 196
+41 338
 
 |
 

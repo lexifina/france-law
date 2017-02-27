@@ -116,35 +116,35 @@ Chaufferie urbaine SARCELLES ENERGIES
 
 |
 
-27 577
+13 789
 
 |
 
-24 426
+6 107
 
 |
 
-21 371
+5 343
 
 |
 
-18 411
+4 603
 
 |
 
-15 545
+3 886
 
 |
 
-12 773
+3 193
 
 |
 
-10 105
+2 526
 
 |
 
-161 023
+70 262
 
 |
 
@@ -2720,23 +2720,23 @@ SAIPOL SETE
 
 |
 
-52 118
+27 179
 
 |
 
-50 838
+26 385
 
 |
 
-49 556
+25 596
 
 |
 
-48 281
+24 814
 
 |
 
-422 071
+325 252
 
 |
 
@@ -2744,11 +2744,11 @@ FR000000000000804
 
 |
 
-ARJOWIGGINS HEALTHCARE SAS
+STERIMED Infection Control
 
 |
 
-ARJOWIGGINS HEALTHCARE SAS
+STERIMED Infection Control Palalda, route de Céret, Amélie-les-Bains (66110)
 
 |
 
@@ -3416,11 +3416,11 @@ FR000000000000826
 
 |
 
-LANXESS Emulsion Rubber
+ARLANXEO Performance Elastomers
 
 |
 
-LANXESS Emulsion Ruber usine de La Wantzenau
+ARLANXEO Performance Elastomers
 
 |
 
@@ -4232,7 +4232,7 @@ FR000000000000849
 
 |
 
-Hautepierre Energie
+Chaleur Hautepierre
 
 |
 
@@ -7448,11 +7448,11 @@ FR000000000000954
 
 |
 
-STORAENSO CORBEHEM SAS
+STORA ENSO CORBEHEM SAS
 
 |
 
-STORAENSO CORBEHEM
+STORA ENSO CORBEHEM
 
 |
 
@@ -7900,27 +7900,27 @@ Chaufferie de la ZUP de Lens
 
 |
 
-6 156
+1 539
 
 |
 
-5 306
+1 327
 
 |
 
-4 484
+1 121
 
 |
 
-3 688
+922
 
 |
 
-2 922
+731
 
 |
 
-46 423
+29 507
 
 |
 
@@ -10256,23 +10256,23 @@ Lafarge Ciments - usine de La Couronne
 
 |
 
-537 636
+0
 
 |
 
-527 152
+0
 
 |
 
-516 538
+0
 
 |
 
-505 886
+0
 
 |
 
-4 340 486
+2 253 274
 
 |
 
@@ -11048,11 +11048,11 @@ FR000000000001062
 
 |
 
-SEYFERT PAPER
+Papeteries Palm SAS
 
 |
 
-SEYFERT PAPER SAS
+Papeteries Palm SAS
 
 |
 
@@ -11168,23 +11168,23 @@ STORENGY Stockage souterrain de Céré-la-Ronde
 
 |
 
-1 629
+187
 
 |
 
-1 376
+158
 
 |
 
-1 131
+130
 
 |
 
-895
+103
 
 |
 
-16 668
+12 215
 
 |
 
@@ -12058,11 +12058,11 @@ FR000000000001089
 
 |
 
-CURDEM
+Chartres Métropole Energie
 
 |
 
-CHAUFFAGE URBAIN DE LA MADELEINE (CURDEM)
+Chauffage urbain de La Madeleine (Chartres Métropole Energie)
 
 |
 
@@ -13882,7 +13882,7 @@ FR000000000001145
 
 |
 
-ELVYA
+ELM Opérations
 
 |
 

@@ -40,11 +40,11 @@ FR000000000000367
 
 |
 
-OMNIUM THERMIQUE DES GRANDS ENSEMBLES (OMNITHERM)
+ENERGIE VERTE DE VALENCE
 
 |
 
-OMNITHERM-ZUP DE VALENCE
+Chaufferie urbaine de Valence
 
 |
 
@@ -1186,7 +1186,7 @@ FR000000000000408
 
 |
 
-ELVYA
+ELM Opérations
 
 |
 
@@ -1856,7 +1856,7 @@ FR000000000000425
 
 |
 
-Société thermique de La Doua
+ELM Opérations
 
 |
 
@@ -2094,7 +2094,7 @@ Hôpital Edouard-Herriot
 
 FR000000000000431 |
 
-ELVYA
+ELM Opérations
 
 |
 
@@ -2886,11 +2886,11 @@ FR000000000000455
 
 |
 
-SOLVAY CARBONATE France
+SOLVAY OPERATIONS FRANCE
 
 |
 
-SOLVAY CARBONATE France
+SOLVAY OPERATIONS FRANCE
 
 |
 
@@ -2934,11 +2934,11 @@ FR000000000000456
 
 |
 
-DELIPAPIER SAS
+SOFIDEL France
 
 |
 
-DELIPAPIER SAS
+SOFIDEL France
 
 |
 
@@ -3126,11 +3126,11 @@ FR000000000000462
 
 |
 
-NANCY ENERGIE
+ESTIA Réseau de chaleur
 
 |
 
-Chaufferie Urbaine Nancy Energie
+ESTIA Réseau de chaleur
 
 |
 
@@ -4186,23 +4186,21 @@ AKERS France
 
 |
 
-26 694
+0
 
 |
 
-26 172
+0
 
 |
 
-25 646
+0
 
 |
 
-25 117
+0 |
 
-|
-
-215 503
+111 874
 
 |
 
@@ -4876,7 +4874,7 @@ GRTgaz station de compression de Morelmaison
 
 |
 
-72 671
+36 336
 
 |
 
@@ -4892,23 +4890,23 @@ GRTgaz station de compression de Morelmaison
 
 |
 
-43 418
+21 709
 
 |
 
-36 661
+18 331
 
 |
 
-30 123
+15 062
 
 |
 
-23 830
+11 915
 
 |
 
-379 744
+276 394
 
 |
 
@@ -5302,11 +5300,11 @@ TOTAL PETROCHEMICALS France
 
 |
 
-TOTAL PETROCHEMICALS France-Plateforme de Carling-Saint-Avold
+TOTAL PETROCHEMICALS France-usine de Carling-Saint-Avold
 
 |
 
-450 334
+450 335
 
 |
 
@@ -5322,23 +5320,23 @@ TOTAL PETROCHEMICALS France-Plateforme de Carling-Saint-Avold
 
 |
 
-398 452
+40 037
 
 |
 
-390 682
+39 257
 
 |
 
-382 816
+38 467
 
 |
 
-374 921
+37 673
 
 |
 
-3 259 622
+1 868 186
 
 |
 
@@ -6342,11 +6340,13 @@ FR000000000000556
 
 |
 
-SOCCRAM
+SAS SYNER'GIE
 
 |
 
-SOCCRAM chaufferie des Sablons (LE MANS) |
+SAS SYNER'GIE chaufferie des Sablons (Le Mans)
+
+|
 
 15 111
 
@@ -9378,9 +9378,9 @@ Tuilerie Monier Marseille |
 
 FR000000000000649 |
 
-SDCC |
+CLICHY ENERGIE VERTE-CEVE |
 
-SDC Clichy |
+CEVE Clichy |
 
 19 798 |
 

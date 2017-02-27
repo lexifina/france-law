@@ -128,16 +128,6 @@ EDF - CETAC Site Gennevilliers
 
 |
 
-FR000000000000791 |
-
-Electricité de France
-
-|
-
-EDF Centrale d'ARAMON
-
-|
-
 FR000000000000868
 
 |

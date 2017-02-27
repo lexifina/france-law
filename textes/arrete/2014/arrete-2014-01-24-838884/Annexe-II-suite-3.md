@@ -292,6 +292,32 @@ EJ PICARDIE
 
 |
 
+FR-new-05101795 |
+
+CHU AMIENS PICARDIE |
+
+CHU AMIENS POLE ENERGIE
+
+|
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
 FR-new-05102147
 
 |
@@ -2260,6 +2286,30 @@ Coopérative agricole Terre d'alliances
 
 |
 
+FR-new-05403160 |
+
+Dijon Energies |
+
+DIJON ENERGIES-Chaufferie des Pejoces |
+
+0 |
+
+0 |
+
+19796 |
+
+17327 |
+
+14935 |
+
+12621 |
+
+10382 |
+
+8223 |
+
+83284 |
+
 FR-new-05500263
 
 |
@@ -3028,6 +3078,48 @@ Centrale mobile d'enrobage MI707
 
 |
 
+FR-new-05603274 |
+
+SIORAT NGE |
+
+SIORAT GTX NGE centrale d'enrobage temporaire ASTEC 11-110 |
+
+/
+
+|
+
+/
+
+|
+
+/
+
+|
+
+/
+
+|
+
+/
+
+|
+
+/
+
+|
+
+/
+
+|
+
+/
+
+|
+
+/
+
+|
+
 FR-new-05701177
 
 |
@@ -3272,11 +3364,11 @@ FR-new-05701507
 
 |
 
-APM DESHY
+TEREOS NUTRITION ANIMALE
 
 |
 
-APM DESHY site d'Allemanche
+TEREOS NUTRITION ANIMALE Site d'Allemanche
 
 |
 
@@ -3320,11 +3412,11 @@ FR-new-05701539
 
 |
 
-APM DESHY
+TEREOS NUTRITION ANIMALE Site d'Allemanche
 
 |
 
-APM DESHY site de Montépreux
+TEREOS NUTRITION ANIMALE Site de Montépreux
 
 |
 
@@ -3416,11 +3508,11 @@ FR-new-05701544
 
 |
 
-APM DESHY
+TEREOS NUTRITION ANIMALE
 
 |
 
-APM DESHY site de PLEURS
+TEREOS NUTRITION ANIMALE Site de Pleurs
 
 |
 
@@ -3464,11 +3556,11 @@ FR-new-05701671
 
 |
 
-APM DESHY
+TEREOS NUTRITION ANIMALE
 
 |
 
-APM DESHY site d'Aulnay-aux-Planches
+TEREOS NUTRITION ANIMALE Site d'Aulnay-aux-Planches
 
 |
 
@@ -4544,23 +4636,23 @@ Atelier d'acide nitrique N7
 
 |
 
-83 111
+41 556
 
 |
 
-81 490
+40 745
 
 |
 
-79 849
+39 925
 
 |
 
-78 203
+39 102
 
 |
 
-583 887
+422 562
 
 |
 
@@ -6448,39 +6540,39 @@ ADISSEO (Amont méthionine)
 
 |
 
-49 221
+96 244
 
 |
 
-48 366
+94 374
 
 |
 
-47 500
+92 487
 
 |
 
-46 627
+90 593
 
 |
 
-45 743
+88 687
 
 |
 
-44 851
+86 772
 
 |
 
-43 948
+84 844
 
 |
 
-43 042
+82 915
 
 |
 
-369 298
+716 916
 
 |
 
@@ -6496,39 +6588,39 @@ ADISSEO
 
 |
 
-47 023
+0
 
 |
 
-46 008
+0
 
 |
 
-44 987
+0
 
 |
 
-43 966
+0
 
 |
 
-42 944
+0
 
 |
 
-41 921
+0
 
 |
 
-40 896
+0
 
 |
 
-39 873
+0
 
 |
 
-347 618
+0
 
 |
 
@@ -6628,6 +6720,32 @@ RHODIA OPERATIONS ROUSSILLON
 
 |
 
+FR-new-06110073
+
+|
+
+MP Hygiène |
+
+MP Hygiène |
+
+8397 |
+
+8033 |
+
+7891 |
+
+7748 |
+
+7606 |
+
+7464 |
+
+7322 |
+
+7179 |
+
+61640 |
+
 FR-new-06110901
 
 |
@@ -6704,23 +6822,23 @@ Entreprise Malet-Grands Chantiers-PE 15
 
 |
 
-360
+637
 
 |
 
-304
+539
 
 |
 
-250
+442
 
 |
 
-197
+350
 
 |
 
-6 891
+7 748
 
 |
 
@@ -6867,6 +6985,30 @@ FERA69
 13 056
 
 |
+
+FR-new-06112773 |
+
+ANNECY BIO-CHALEUR |
+
+ANNECY BIO-CHALEUR |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
 
 FR-new-06200196
 
@@ -7016,7 +7158,9 @@ FR-new-06201019
 
 |
 
-GROUPE France CERAM
+GROUPE France
+
+CERAM
 
 |
 
@@ -7040,23 +7184,23 @@ FORBACH CERAMICS
 
 |
 
-8 965
+7 859
 
 |
 
-8 790
+7 706
 
 |
 
-8 614
+7 551
 
 |
 
-8 436
+7 395
 
 |
 
-72 379
+68 085
 
 |
 
@@ -7064,11 +7208,11 @@ FR-new-06201358
 
 |
 
-British Steel Rail France SAS
+British Steel France Rail SAS
 
 |
 
-British Steel Rail France SAS
+British Steel France Rail SAS
 
 |
 
@@ -7448,11 +7592,11 @@ FR-new-06208919
 
 |
 
-COLAS EST
+COLAS NORD-EST
 
 |
 
-COLAS EST - Poste mobile TSM25XLM-R n° 2
+COLAS NORD EST-poste mobile TSM25XLM-R n° 2
 
 |
 
@@ -7496,11 +7640,11 @@ FR-new-06209168
 
 |
 
-COLAS EST
+COLAS NORD-EST
 
 |
 
-COLAS EST - poste mobile TSM25XLM-R n° 1
+COLAS NORD EST-poste mobile TSM25XLM-R n° 1
 
 |
 
@@ -7777,6 +7921,50 @@ KERVALIS
 |
 
 60 558
+
+|
+
+FR-new-06308843 |
+
+ERENA
+
+|
+
+Centrale Californie |
+
+/
+
+|
+
+/
+
+|
+
+/
+
+|
+
+/
+
+|
+
+/
+
+|
+
+/
+
+|
+
+/
+
+|
+
+/
+
+|
+
+/
 
 |
 
@@ -9024,9 +9212,33 @@ Chaufferie du CENTRE HOSPITALIER VICTOR DUPOUY
 
 |
 
-0 (1)
+5 959
 
 |
+
+FR-new-06513220 |
+
+Compagnie de Chauffage Urbain de Cergy Pontoise (CYEL) |
+
+CYEL (chaufferie des Linandes) |
+
+6928 |
+
+6200 |
+
+5492 |
+
+4807 |
+
+4144 |
+
+3502 |
+
+2881 |
+
+2282 |
+
+36236 |
 
 FR-new-06600079
 
@@ -9267,6 +9479,32 @@ Usine Axens
 199 683
 
 |
+
+FR-new-06604131
+
+|
+
+Centre Hospitalier Universitaire de Nîmes |
+
+Centre Hospitalier Universitaire de Nîmes |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
 
 FR-new-06700361
 
@@ -10060,7 +10298,7 @@ SITEK Insulation
 
 |
 
-12 842
+7 854
 
 |
 
@@ -10080,7 +10318,7 @@ SITEK Insulation
 
 |
 
-97 455
+92 467
 
 |
 
@@ -10273,6 +10511,48 @@ CAH Marckolsheim
 |
 
 9 103
+
+|
+
+FR-new-06704343 |
+
+GUSTAVE MULLER SA |
+
+GUSTAVE MULLER SA |
+
+/
+
+|
+
+/
+
+|
+
+/
+
+|
+
+/
+
+|
+
+/
+
+|
+
+/
+
+|
+
+/
+
+|
+
+/
+
+|
+
+/
 
 |
 
@@ -11752,23 +12032,23 @@ AKERS France
 
 |
 
-5 656
+0
 
 |
 
-5 545
+0
 
 |
 
-5 434
+0
 
 |
 
-5 321
+0
 
 |
 
-45 659
+23 703
 
 |
 
@@ -12712,23 +12992,23 @@ FAURECIA AUTOMOTIVE COMPOSITES
 
 |
 
-2 477
+0
 
 |
 
-2 091
+0
 
 |
 
-1 718
+0
 
 |
 
-1 359
+0
 
 |
 
-21 659
+14 014
 
 |
 
@@ -13044,27 +13324,27 @@ AREVA NP
 
 |
 
-17 859
+8 930
 
 |
 
-15 385
+7 693
 
 |
 
-12 990
+6 495
 
 |
 
-10 674
+5 337
 
 |
 
-8 444
+4 222
 
 |
 
-134 557
+101 882
 
 |
 
