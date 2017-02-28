@@ -1,0 +1,9 @@
+# Réponse à la question n° 56791
+
+- Question : [56791](56791.md) — Question n° 56791 — déclassification; réglementation
+
+## Réponse
+
+*JO du 2017-02-28*
+
+Conformément à l'article L. 161-1 du code rural et de la pêche maritime, les chemins ruraux sont définis comme les « chemins appartenant aux communes, affectés à l'usage du public, qui n'ont pas été classés comme voies communales. Ils font partie du domaine privé de la commune ». Pour pouvoir être aliéné, un chemin rural doit cesser d'être affecté au public, cette désaffectation résultant d'un état de fait et non d'un acte de déclassement, puisque ces chemins appartiennent au domaine privé de la commune (CAA Marseille, 6 octobre 2016, no 15MA00503). Comme le précise l'article L. 161-10-1 du code précité, « Lorsqu'un chemin rural appartient à plusieurs communes, il est statué sur la vente après enquête unique par délibérations concordantes des conseils municipaux. Il en est de même quand des chemins appartenant à plusieurs communes constituent un même itinéraire entre deux intersections de voies ou de chemins. L'enquête préalable à l'aliénation d'un chemin rural prévue à l'article L. 161-10 et au présent article est réalisée conformément au code des relations entre le public et l'administration, et selon des modalités fixées par décret en Conseil d'Etat ». La décision d'aliénation doit donc respecter ces dispositions et recueillir l'accord des communes concernées. Par ailleurs, conformément à l'article R. 161-27 du code précité, dans le cas où le chemin rural est inscrit sur le plan départemental des itinéraires de promenade et de randonnée, le conseil municipal doit, préalablement à toute délibération décidant de l'aliénation du chemin rural, avoir proposé au conseil départemental un itinéraire de substitution approprié à la pratique de la promenade et de la randonnée.
