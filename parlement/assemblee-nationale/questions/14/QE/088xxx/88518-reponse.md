@@ -1,0 +1,9 @@
+# Réponse à la question n° 88518
+
+- Question : [88518](88518.md) — Question n° 88518 — loi montagne; acte II; rapport parlementaire; propositions
+
+## Réponse
+
+*JO du 2017-02-28*
+
+Dans le cadre des récents débats parlementaires, plusieurs propositions ont été formulées visant à mieux prendre en compte les particularités des territoires montagnards dans les textes relatifs à la gestion de la ressource en eau. Le Gouvernement a, à ce titre, confié une mission au député des Hautes-Alpes Joël GIRAUD, président de la commission permanente du Conseil national de la montagne (CNM). Ce rapport est dans l'esprit de tous les textes sur l'eau, c'est-à-dire inciter à économiser la ressource, et recommande quelques ajustements, notamment en matière de débit réservés ou de redevances pour prélèvements. De manière générale, la France dispose, en année moyenne, de ressources en eau suffisantes pour l'ensemble des usages, sauf dans certaines régions où presque tous les ans, les besoins (en particulier pour l'irrigation agricole) peuvent dépasser les ressources disponibles, notamment en période d'étiage. Le code de l'environnement comporte une série de dispositions dans le but d'assurer la compatibilité des prélèvements en eau avec l'objectif de gestion équilibrée de la ressource en eau (article L. 211-1). Ceci nécessite de mettre en œuvre une gestion quantitative de la ressource en eau reposant sur une approche globale de la ressource disponible par bassin versant, au regard des différents usages, afin de mieux y adapter les prélèvements. Les documents de planification tels que les schémas directeurs d'aménagement et de gestion des eaux (SDAGE) ou les schémas d'aménagement et de gestion des eaux (SAGE) ou les démarches telles que les plans de gestion de la ressource en eau (PGRE) sur le bassin Rhône-Méditerranée sont des outils pour la mise en œuvre d'une réelle gestion intégrée de la ressource en eau.
