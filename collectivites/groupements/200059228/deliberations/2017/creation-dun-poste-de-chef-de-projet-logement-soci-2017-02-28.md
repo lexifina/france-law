@@ -1,0 +1,9 @@
+# Grand Paris Sud : délibération — Création d’un poste de Chef de projet logement social
+
+- Collectivité : Grand Paris Sud
+- SIREN : 200059228
+- Date : 2017-02-28
+- Nature : Délibération
+- Objet : Création d’un poste de Chef de projet logement social
+- Acte publié : https://numerique.grandparissud.fr/actes/DEL_2017_062.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/6a5188e1ed24ef0b8b7fa59a
