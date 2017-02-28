@@ -1,0 +1,9 @@
+# Grand Paris Sud : délibération — Participation au MIPIM 2017 – Prise en charge des frais
+
+- Collectivité : Grand Paris Sud
+- SIREN : 200059228
+- Date : 2017-02-28
+- Nature : Délibération
+- Objet : Participation au MIPIM 2017 – Prise en charge des frais
+- Acte publié : https://numerique.grandparissud.fr/actes/DEL_2017_054.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/6a5188e1ed24ef0b8b7fa59a
