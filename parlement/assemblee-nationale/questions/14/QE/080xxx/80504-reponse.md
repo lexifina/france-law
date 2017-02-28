@@ -1,0 +1,9 @@
+# Réponse à la question n° 80504
+
+- Question : [80504](80504.md) — Question n° 80504 — mal logement; lutte et prévention
+
+## Réponse
+
+*JO du 2017-02-28*
+
+Dans le cadre de la réforme du système d'asile en France, le Gouvernement a prévu une extension sans précédent du parc existant de centres d'accueil pour demandeurs d'asile (CADA). Ainsi, plus de 18 600 places supplémentaires en CADA seront ouvertes sur la période 2012-2017, ce qui constitue un quasi-doublement de ce parc. Une campagne visant à ouvrir 8 630 places est actuellement en cours. Parmi celles-ci, 5 130 places seront dévolues au programme européen de relocalisation des demandeurs d'asile. Par ailleurs, face à l'afflux de migrants vers le continent européen depuis le début de l'année 2014, le Gouvernement a élaboré un plan spécifique pour que la France soit en mesure de mobiliser rapidement et efficacement des solutions d'hébergement adaptées. Dans cet objectif, le plan présenté en Conseil des ministres le 17 juin 2015 appelle à une mobilisation des services de l'État afin de créer des capacités suffisantes pour l'accueil d'urgence des personnes qui demandent l'asile en France. Le plan présenté se traduit par la création de 11 000 places d'hébergement, et notamment de 4 000 places pour l'hébergement d'urgence des demandeurs d'asile en structures de type AT-SA (accueil temporaire-service de l'asile), qui s'ajoutent aux créations de CADA déjà mentionnées. Le plan prévoit également la création de 5 000 places de logement pour les réfugiés ou bénéficiaires d'une protection internationale, la création de 500 places en centres provisoires d'hébergement (CPH) pour les réfugiés les plus vulnérables et la création de 1 500 places d'hébergement d'urgence. L'essentiel de ces places a d'ores et déjà été créé, ce qui a permis d'accroître sensiblement l'offre d'hébergement et de logement à destination des demandeurs d'asile et de bénéficiaires d'une protection.
