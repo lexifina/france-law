@@ -1,0 +1,9 @@
+# Réponse à la question n° 98391
+
+- Question : [98391](98391.md) — Question n° 98391 — armes; contrôle
+
+## Réponse
+
+*JO du 2017-02-28*
+
+Le 18 novembre 2015, la Commission européenne a présenté une proposition de directive modifiant la directive 91/477/CEE du Conseil relative au contrôle de l'acquisition et de la détention d'armes. Cette révision de la directive de 1991 constitue une priorité pour le Gouvernement, depuis plusieurs mois, pour renforcer la protection des citoyens européens face à la menace terroriste et face au crime organisé. La France a ainsi été à l'initiative de plusieurs des avancées du texte qui a fait l'objet d'un accord politique au Conseil de l'Union européenne le 10 juin dernier, en particulier pour ce qui concerne l'encadrement renforcé des transactions d'armes sur Internet, l'harmonisation du marquage des armes à feu, l'élargissement du champ de la directive aux collectionneurs, l'interdiction des armes semi-automatiques les plus dangereuses, ou encore la possibilité de créer une plateforme européenne automatisée d'échanges d'informations sur les transferts intra-communautaires. De plus, le règlement mettant en place des normes européennes strictes sur la neutralisation des armes à feu, adopté en décembre dernier, est désormais en vigueur. Bien évidemment, au cours des discussions, le Gouvernement français a mis en valeur l'exemplarité de la réglementation française qui concilie de manière équilibrée les impératifs de sécurité publique et les pratiques légales d'utilisation des armes à feu, en particulier la chasse et le tir sportif. La recherche de cet équilibre continuera d'animer l'action du Gouvernement en matière de contrôle des armes. L'accord politique du 10 juin constitue une première étape pour l'adoption du texte, qui devra ensuite être examiné et voté par le Parlement européen.
