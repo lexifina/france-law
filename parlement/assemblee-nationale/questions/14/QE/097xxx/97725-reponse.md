@@ -1,0 +1,9 @@
+# Réponse à la question n° 97725
+
+- Question : [97725](97725.md) — Question n° 97725 — bouches d'incendie; réglementation; zones rurales
+
+## Réponse
+
+*JO du 2017-02-28*
+
+Les circulaires interministérielles du 10 décembre 1951 et du 9 août 1967 ont été abrogées par arrêté interministériel du 15 décembre 2015. La défense extérieure contre l'incendie (DECI) repose désormais sur de nouvelles bases législatives et réglementaires. Ce domaine est précisément régi par les dispositions des articles L. 2213-32, L. 2225-1 à 4, L. 5211-9 et R. 2225-1 à 10 du code général des collectivités territoriales. Cette réforme est effective depuis 2015 et se déploie actuellement dans les territoires. Elle prône l'approche d'une DECI mieux proportionnée : il ne s'agit plus de prescrire des capacités en eau devant être mobilisées de façon homogène sur l'ensemble du territoire. Elle propose une fourchette de débit ou de volume en eau devant être disponibles, ajustée par les acteurs concernés (SDIS et élus) en fonction des circonstances locales. Elle repose ainsi sur une analyse des risques. Elle adapte les moyens de défense aux contingences du terrain dans une politique globale, à l'échelle départementale et à l'échelle communale. La DECI prend dorénavant en compte l'ensemble des moyens mobilisables, c'est-à-dire les réseaux d'eau sous pression, les réserves d'eau fixes et les autres ressources naturelles. Sur le plan de son organisation, la DECI est une compétence communale placée sous l'autorité des maires, mais elle est aussi transférable aux établissements de coopération intercommunale (EPCI). Désormais, dans chaque département, un règlement départemental de la DECI adapté aux risques et aux caractéristiques des communes fixe les règles. Il est élaboré par le service départemental d'incendie et de secours en concertation avec les maires et les présidents d'EPCI.
