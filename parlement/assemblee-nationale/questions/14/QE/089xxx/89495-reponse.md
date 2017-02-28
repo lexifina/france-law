@@ -1,0 +1,9 @@
+# Réponse à la question n° 89495
+
+- Question : [89495](89495.md) — Question n° 89495 — protection sociale; réglementation
+
+## Réponse
+
+*JO du 2017-02-28*
+
+La loi de financement de la sécurité sociale pour 2016 a clarifié le dispositif de prélèvement social afférant aux correspondants locaux de presse. Lorsque les revenus des correspondants locaux de presse excèdent 15 % du plafond annuel de la sécurité sociale, leur activité est considérée comme professionnelle ce qui implique une obligation d'affiliation de ces personnes au régime de sécurité sociale dont relèvent les travailleurs indépendants. Lorsque le revenu tiré de cette activité n'excède pas 15 %, les correspondants locaux de presse ne sont assujettis aux cotisations et contributions de sécurité sociale et affiliés au régime de sécurité sociale dont relèvent les travailleurs indépendants que s'ils le demandent. Le législateur a ainsi souhaité tenir compte des spécificités de l'activité de CLP dont les revenus sont le plus souvent faibles et visent à couvrir des frais engagés pour la réalisation d'une activité la plupart du temps conçue comme non professionnelle. De plus, les CLP dont les revenus n'excèdent pas 25 % du PASS bénéficient d'un abattement de 50 % des cotisations d'assurance maladie-maternité et d'assurance vieillesse. La mise en œuvre de l'ensemble de ces dispositions aboutit donc à un traitement adapté aux correspondants locaux de presse tout en répondant à un impératif d'équité entre cotisants : l'absence d'affiliation, dès lors que le revenu n'excède pas 15 % du PASS, permet de ne pas assujettir des activités de complément et non professionnelles aux cotisations et contributions de sécurité sociale tandis que la possibilité d'opter pour une affiliation et l'abattement de 50 % des cotisations d'assurance-maladie et vieillesse pour les revenus inférieurs à 25 % du PASS favorisent le bénéfice d'une couverture sociale.
