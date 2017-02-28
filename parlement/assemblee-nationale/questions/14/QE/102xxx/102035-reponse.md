@@ -1,0 +1,9 @@
+# Réponse à la question n° 102035
+
+- Question : [102035](102035.md) — Question n° 102035 — centres d'action médico-sociale précoce; prescriptions; remboursement
+
+## Réponse
+
+*JO du 2017-02-28*
+
+Le budget des centres d'action médico-sociale précoce (CAMSP) est déterminé de façon à couvrir l'ensemble de leurs dépenses de fonctionnement, y compris les consultations et interventions des professionnels de santé qui concourent à la réalisation de leurs missions. Selon la réglementation en vigueur, les frais liés aux soins complémentaires délivrés par des professionnels de santé libéraux en sus du budget des CAMSP après accord préalable du service du contrôle médical ne sont remboursés en sus du budget de ces structures que dans certaines conditions : - lorsque ces soins ne relèvent pas des missions de l'établissement ; - lorsque le service ne peut les assurer de façon suffisamment complète ou régulière en raison de leur intensité ou de leur technicité. Les prises en charge complémentaires répondant à ces critères sont bien remboursées par l'assurance maladie obligatoire dans les conditions de droit commun. En-dehors de ces cas, les interventions des professionnels libéraux doivent être assurées par le CAMSP sur son budget dans le cadre d'une convention qu'il doit signer avec le professionnel. Cette réglementation, qui s'applique à l'ensemble des établissements médico-sociaux pour personnes handicapées y compris les CAMSP, permet d'éviter toute double prise en charge par l'assurance maladie. La ministre des affaires sociales et de la santé a demandé à ses services d'engager une analyse en lien avec l'assurance-maladie afin de vérifier que l'interprétation de cette réglementation est identique sur l'ensemble du territoire et le cas échéant d'apporter les compléments d'instruction nécessaires.
