@@ -1,0 +1,9 @@
+# Réponse à la question n° 99138
+
+- Question : [99138](99138.md) — Question n° 99138 — drones privés; emploi; réglementation
+
+## Réponse
+
+*JO du 2017-02-28*
+
+Le ministère de l'intérieur suit avec une grande attention les aspects sécuritaires liés au développement de la filière des drones en France. C'est pourquoi il a activement participé aux travaux préparatoires à la loi relative au renforcement de la sécurité de l'usage des drones civils définitivement adoptée en 2ème lecture au Sénat le 13 octobre dernier, aux côtés du ministère de l'environnement, de l'énergie et de la mer (secrétariat d'état aux transports) et du ministère de la défense, sous l'égide du secrétariat général de la défense et de la sécurité nationale. La loi no 2016-1428 du 24 octobre 2016 relative au renforcement de la sécurité de l'usage des drones civils, modifie le code des transports, le code de la consommation et le code des postes et des communications électroniques, en vue de responsabiliser les télépilotes de drones civils et de prévenir les usages indésirables de ces appareils. A cet effet, elle impose une obligation d'information de l'utilisateur, à la charge des fabricants de drones, et, au-delà d'une certaine masse à définir par décret, un enregistrement, un dispositif de signalement lumineux, un dispositif de signalement électronique, un dispositif de limitation de capacité et un dispositif de signalement sonore de l'aéronef. La loi prévoit aussi des sanctions. Ainsi, le survol d'une zone interdite par maladresse ou négligence est passible de six mois d'emprisonnement et de 15.000 € d'amende et leur survol délibéré est punissable d'un an d'emprisonnement et de 45 000 € d'amende. Dans les mois qui viennent, le ministère de l'intérieur contribuera à la rédaction des décrets d'application de la loi et concourra in fine à sa mise en application pour les aspects qui entrent dans ses attributions.
