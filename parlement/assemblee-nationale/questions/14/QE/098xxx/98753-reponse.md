@@ -1,0 +1,9 @@
+# Réponse à la question n° 98753
+
+- Question : [98753](98753.md) — Question n° 98753 — système d'alerte et d'information des populations; fonctionnement
+
+## Réponse
+
+*JO du 2017-02-28*
+
+La direction générale de la sécurité civile et de la gestion des crises (DGSCGC) du ministère de l'intérieur et le service d'information du Gouvernement (SIG) ont travaillé de concert au développement de l'application mobile d'alerte des populations lancée le 8 juin dernier. Les technologies envisageables pour compléter le spectre de moyens d'alerte du système d'alerte et d'information des populations (SAIP) par le biais des téléphones mobiles étant nombreuses, les services de l'Etat se sont appuyés sur les conclusions d'un rapport inter inspections pour éclairer leur choix quant aux solutions à mettre en œuvre. En l'occurrence, après étude des avantages et inconvénients des différentes hypothèses, la recommandation de ce rapport, rendu au mois de février 2016, a conduit à privilégier la solution d'une application pour téléphones intelligents à télécharger par les usagers. Sur cette base, les études complémentaires quant à l'expression de besoins tant fonctionnels que techniques ainsi que l'examen des conditions juridiques de recours à une prestation de développement de cette application ont conduit aux délais très courts évoqués par l'honorable parlementaire. S'agissant du dysfonctionnement constaté le 14 juillet 2016, un audit externe commandé par l'administration a conduit à écarter l'absence de redondance de serveurs comme la cause de ce dysfonctionnement qui trouve sa principale cause dans une anomalie d'un composant logiciel de l'application. Depuis lors, des travaux et mesures de fiabilisation et de sécurisation ont été menés à bien par le prestataire de l'application, travaux et mesures validés par l'audit précité.
