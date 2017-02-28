@@ -1,0 +1,9 @@
+# Réponse à la question n° 102124
+
+- Question : [102124](102124.md) — Question n° 102124 — cour constitutionnelle; décision; pertinence
+
+## Réponse
+
+*JO du 2017-02-28*
+
+La cour constitutionnelle fédérale de Karlsruhe a été saisie en 2013 par le Bundesrat (chambre représentant les seize Länder allemands) d'une demande d'interdiction du NPD (Nationaldemokratische Partei Deutschlands). Pour la deuxième fois, après un premier recours en vue d'une interdiction en 2003, la cour a rejeté la demande. Les juges ont mis en évidence l'inconstitutionnalité des objectifs poursuivis par ce parti. Cependant, le président de la cour a jugé qu' "il n'y a actuellement pas d'éléments concrets de poids laissant penser que son action puisse être couronnée de succès". Le juge constitutionnel a donc fondé sa décision sur le moyen tiré de la faiblesse et l'érosion du parti constatées ces derniers temps : représenté au Landtag (parlement régional) de Mecklembourg-Poméranie occidentale jusqu'aux élections régionales de septembre 2016, le parti n'est pas parvenu à franchir le seuil des 5 % qui lui aurait permis de reconduire ses députés. Il n'est pas représenté dans d'autres Länder. Ses bases militantes sont en diminution très nette et ses sources de financement limitées. Le ministre fédéral de l'intérieur a déclaré voir dans la faiblesse du NPD "le signe que le NPD avait été combattu avec succès dans les dernières années". Le juge a ouvert la voie à d'autres "possibilités de réactions", comme "par exemple un retrait des financements étatiques". Cette mesure nécessiterait une révision constitutionnelle à la majorité des deux tiers dans les deux chambres parlementaires. Il n'appartient pas à la France de commenter cette décision de la cour constitutionnelle fédérale ou de communiquer des observations au gouvernement fédéral.
