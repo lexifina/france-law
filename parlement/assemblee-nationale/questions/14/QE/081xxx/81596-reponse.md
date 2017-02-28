@@ -1,0 +1,9 @@
+# Réponse à la question n° 81596
+
+- Question : [81596](81596.md) — Question n° 81596 — sapeurs-pompiers volontaires; revalorisation
+
+## Réponse
+
+*JO du 2017-02-28*
+
+L'article L. 723-9 du code de la sécurité intérieure prévoit que l'activité de sapeur-pompier volontaire ouvre droit à des prestations de fin de service. La loi no 2004-811 du 13 août 2004 de modernisation de la sécurité civile, modifiant la loi no 96-370 relative au volontariat dans les corps de sapeurs-pompiers a instauré la prestation de fidélisation et de reconnaissance (PFR), pour encourager et remercier les sapeurs-pompiers volontaires de leur fidélité et de leur dévouement à la collectivité. Il s'agit d'une rente viagère constituée par capitalisation sous la forme de points acquis par les cotisations versées par le service départemental d'incendie et de secours ainsi que par des cotisations personnelles du sapeur-pompier volontaire. Elle vient ainsi récompenser le nombre d'années pendant lesquelles le sapeur-pompier volontaire s'est mis à la disposition de la communauté. Cette prestation de fidélisation et de reconnaissance est un dispositif financé pour moitié par l'État et pour l'autre moitié par les collectivités territoriales, via une cotisation des services départementaux d'incendie et de secours. La gestion de la prestation de fidélisation et de reconnaissance est soumise aux règles du code des assurances sous le mandat d'une personne morale habilitée, la Caisse Nationale de Prévoyance (CNP) Assurance. Cet organisme a assuré cette mission du 1er janvier 2005 au 31 décembre 2015. Suite à un examen approfondi du dossier, un nouveau dispositif va être mis en œuvre qui prend appui sur la récente loi no 2016-1867 du 27 décembre 2016 relative aux sapeurs-pompiers professionnels et aux sapeurs-pompiers volontaires. Il permettra de financer en flux budgétaire annuel cette prestation.
