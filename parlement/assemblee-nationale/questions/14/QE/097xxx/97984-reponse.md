@@ -1,0 +1,9 @@
+# Réponse à la question n° 97984
+
+- Question : [97984](97984.md) — Question n° 97984 — Paris; statut; perspectives
+
+## Réponse
+
+*JO du 2017-02-28*
+
+Le 27 juin 2016, le Gouvernement a saisi le Conseil d'Etat d'un projet de loi relatif au statut de Paris et à l'aménagement métropolitain avant de le déposer sur le bureau du Sénat le 3 août 2016. Ce projet de loi vise, notamment, à créer une collectivité territoriale à statut particulier issue de la fusion de la commune et du département de Paris. Pour autant, comme le précise son article 1er, cette collectivité demeurera soumise aux dispositions propres aux communes, définies notamment dans la deuxième partie du code général des collectivités territoriales. Les dispositions particulières propres à Paris, Marseille et Lyon prévues par la loi du 31 décembre 1982 relative à l'organisation administrative de Paris, Marseille et Lyon et des établissements publics de coopération intercommunale demeureront donc applicables à Paris. Conformément aux dispositions des articles 8 à 12 de la loi organique du 15 avril 2009 pris pour l'application du troisième alinéa de l'article 39 de la Constitution, ce projet de loi a été accompagné d'une étude d'impact détaillée, s'attachant à fournir une évaluation préalable de la réforme envisagée, aussi complète, objective et factuelle que possible. Elle a été élaborée afin d'éclairer le Parlement en lui apportant des éléments d'appréciation pertinents sur la nature des difficultés à résoudre, sur les avantages et inconvénients des options possibles en fonction de l'objectif poursuivi, ou encore en fournissant une évaluation détaillée des conséquences qui peuvent raisonnablement être attendues de la réforme pour les Parisiens, pour les personnels des administrations parisiennes et pour les administrations elles-mêmes. Ce projet de loi a d'ailleurs été voté par le Parlement en lecture définitive le 16 février 2017.
