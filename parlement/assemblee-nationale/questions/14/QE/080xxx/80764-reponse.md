@@ -1,0 +1,9 @@
+# Réponse à la question n° 80764
+
+- Question : [80764](80764.md) — Question n° 80764 — réglementation; perspectives
+
+## Réponse
+
+*JO du 2017-02-28*
+
+L'obligation, prévue à l'article 60 de l'ordonnance du 1er juillet 2004, de mise en conformité des statuts, dans un délai de deux ans suivant la publication du décret d'application de l'ordonnance précitée (publication effectuée le 5 mai 2006), concerne l'ensemble des associations syndicales de propriétaires, y compris les associations syndicales libres (ASL). La mise en conformité s'effectue selon les modalités définies dans leurs statuts. Ce n'est que dans le cas où aucune règle n'est prévue pour la modification des statuts que la mise en conformité doit être approuvée à l'unanimité de leurs membres par parallélisme des formes avec la règle de création de ces structures. La jurisprudence civile (arrêt no 778 du 5 juillet 2011 de la troisième chambre civile de la Cour de cassation) a considéré que la mise en conformité des statuts des ASL existantes aux dispositions de l'ordonnance du 1er juillet 2004 et du décret du 3 mai 2006 fait partie des mesures de publicité prévues à l'article 8 de l'ordonnance de 2004. L'absence de mise en conformité emporte donc les mêmes conséquences que celles de l'omission des mesures de publicité, c'est-à-dire la privation des droits prévus à l'article 5 de l'ordonnance : impossibilité d'ester en justice, d'acquérir, de vendre, échanger, transiger, emprunter et hypothéquer. En revanche, l'existence juridique des associations syndicales libres qui résulte de l'accord unanime des propriétaires n'est pas remise en cause (voir, par exemple, arrêt no 12-22351 du 11 septembre 2013 de la 3e chambre civile de la Cour de cassation). L'ensemble des copropriétaires a donc intérêt à l'adoption de statuts modifiés. Le Gouvernement n'entend donc pas engager de révision de ces textes.
