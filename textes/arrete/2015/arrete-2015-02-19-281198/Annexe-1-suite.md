@@ -1,1329 +1,5 @@
 # Article Annexe 1 (suite)
 
-1479
-
-|
-
-05C141
-
-|
-
-Poses d'un stimulateur cardiaque permanent avec infarctus aigu du myocarde ou insuffisance cardiaque congestive ou état de choc, niveau 1
-
-|
-
-1480
-
-|
-
-05C142
-
-|
-
-Poses d'un stimulateur cardiaque permanent avec infarctus aigu du myocarde ou insuffisance cardiaque congestive ou état de choc, niveau 2
-
-|
-
-1481
-
-|
-
-05C143
-
-|
-
-Poses d'un stimulateur cardiaque permanent avec infarctus aigu du myocarde ou insuffisance cardiaque congestive ou état de choc, niveau 3
-
-|
-
-1482
-
-|
-
-05C144
-
-|
-
-Poses d'un stimulateur cardiaque permanent avec infarctus aigu du myocarde ou insuffisance cardiaque congestive ou état de choc, niveau 4
-
-|
-
-1484
-
-|
-
-05C151
-
-|
-
-Poses d'un stimulateur cardiaque permanent sans infarctus aigu du myocarde, ni insuffisance cardiaque congestive, ni état de choc, niveau 1
-
-|
-
-1485
-
-|
-
-05C152
-
-|
-
-Poses d'un stimulateur cardiaque permanent sans infarctus aigu du myocarde, ni insuffisance cardiaque congestive, ni état de choc, niveau 2
-
-|
-
-1486
-
-|
-
-05C153
-
-|
-
-Poses d'un stimulateur cardiaque permanent sans infarctus aigu du myocarde, ni insuffisance cardiaque congestive, ni état de choc, niveau 3
-
-|
-
-1487
-
-|
-
-05C154
-
-|
-
-Poses d'un stimulateur cardiaque permanent sans infarctus aigu du myocarde, ni insuffisance cardiaque congestive, ni état de choc, niveau 4
-
-|
-
-1488
-
-|
-
-05C15T
-
-|
-
-Poses d'un stimulateur cardiaque permanent sans infarctus aigu du myocarde, ni insuffisance cardiaque congestive, ni état de choc, très courte durée
-
-|
-
-1489
-
-|
-
-05C171
-
-|
-
-Ligatures de veines et éveinages, niveau 1
-
-|
-
-1490
-
-|
-
-05C172
-
-|
-
-Ligatures de veines et éveinages, niveau 2
-
-|
-
-1491
-
-|
-
-05C173
-
-|
-
-Ligatures de veines et éveinages, niveau 3
-
-|
-
-1492
-
-|
-
-05C174
-
-|
-
-Ligatures de veines et éveinages, niveau 4
-
-|
-
-1493
-
-|
-
-05C17J
-
-|
-
-Ligatures de veines et éveinages, en ambulatoire
-
-|
-
-1494
-
-|
-
-05C181
-
-|
-
-Autres interventions sur le système circulatoire, niveau 1
-
-|
-
-1495
-
-|
-
-05C182
-
-|
-
-Autres interventions sur le système circulatoire, niveau 2
-
-|
-
-1496
-
-|
-
-05C183
-
-|
-
-Autres interventions sur le système circulatoire, niveau 3
-
-|
-
-1497
-
-|
-
-05C184
-
-|
-
-Autres interventions sur le système circulatoire, niveau 4
-
-|
-
-1498
-
-|
-
-05C18J
-
-|
-
-Autres interventions sur le système circulatoire, en ambulatoire
-
-|
-
-1499
-
-|
-
-05C191
-
-|
-
-Poses d'un défibrillateur cardiaque, niveau 1
-
-|
-
-1500
-
-|
-
-05C192
-
-|
-
-Poses d'un défibrillateur cardiaque, niveau 2
-
-|
-
-1501
-
-|
-
-05C193
-
-|
-
-Poses d'un défibrillateur cardiaque, niveau 3
-
-|
-
-1502
-
-|
-
-05C194
-
-|
-
-Poses d'un défibrillateur cardiaque, niveau 4
-
-|
-
-1503
-
-|
-
-05C19T
-
-|
-
-Poses d'un défibrillateur cardiaque, très courte durée
-
-|
-
-1504
-
-|
-
-05C201
-
-|
-
-Remplacements ou ablations chirurgicale d'électrodes ou repositionnements de boîtier de stimulation cardiaque permanente, niveau 1
-
-|
-
-1505
-
-|
-
-05C202
-
-|
-
-Remplacements ou ablations chirurgicale d'électrodes ou repositionnements de boîtier de stimulation cardiaque permanente, niveau 2
-
-|
-
-1506
-
-|
-
-05C203
-
-|
-
-Remplacements ou ablations chirurgicale d'électrodes ou repositionnements de boîtier de stimulation cardiaque permanente, niveau 3
-
-|
-
-1507
-
-|
-
-05C204
-
-|
-
-Remplacements ou ablations chirurgicale d'électrodes ou repositionnements de boîtier de stimulation cardiaque permanente, niveau 4
-
-|
-
-1508
-
-|
-
-05C211
-
-|
-
-Créations et réfections de fistules artérioveineuses pour affections de la CMD 05, niveau 1
-
-|
-
-1509
-
-|
-
-05C212
-
-|
-
-Créations et réfections de fistules artérioveineuses pour affections de la CMD 05, niveau 2
-
-|
-
-1510
-
-|
-
-05C213
-
-|
-
-Créations et réfections de fistules artérioveineuses pour affections de la CMD 05, niveau 3
-
-|
-
-1511
-
-|
-
-05C214
-
-|
-
-Créations et réfections de fistules artérioveineuses pour affections de la CMD 05, niveau 4
-
-|
-
-1512
-
-|
-
-05C21J
-
-|
-
-Créations et réfections de fistules artérioveineuses pour affections de la CMD 05, en ambulatoire
-
-|
-
-1513
-
-|
-
-05C221
-
-|
-
-Remplacements de stimulateurs cardiaques permanents, niveau 1
-
-|
-
-1514
-
-|
-
-05C222
-
-|
-
-Remplacements de stimulateurs cardiaques permanents, niveau 2
-
-|
-
-1515
-
-|
-
-05C223
-
-|
-
-Remplacements de stimulateurs cardiaques permanents, niveau 3
-
-|
-
-1516
-
-|
-
-05C224
-
-|
-
-Remplacements de stimulateurs cardiaques permanents, niveau 4
-
-|
-
-1517
-
-|
-
-05C22T
-
-|
-
-Remplacements de stimulateurs cardiaques permanents, très courte durée
-
-|
-
-1693
-
-|
-
-05K051
-
-|
-
-Endoprothèses vasculaires avec infarctus du myocarde, niveau 1
-
-|
-
-1694
-
-|
-
-05K052
-
-|
-
-Endoprothèses vasculaires avec infarctus du myocarde, niveau 2
-
-|
-
-1695
-
-|
-
-05K053
-
-|
-
-Endoprothèses vasculaires avec infarctus du myocarde, niveau 3
-
-|
-
-1696
-
-|
-
-05K054
-
-|
-
-Endoprothèses vasculaires avec infarctus du myocarde, niveau 4
-
-|
-
-1697
-
-|
-
-05K061
-
-|
-
-Endoprothèses vasculaires sans infarctus du myocarde, niveau 1
-
-|
-
-1854
-
-|
-
-1698
-
-|
-
-05K062
-
-|
-
-Endoprothèses vasculaires sans infarctus du myocarde, niveau 2
-
-|
-
-1855
-
-|
-
-1699
-
-|
-
-05K063
-
-|
-
-Endoprothèses vasculaires sans infarctus du myocarde, niveau 3
-
-|
-
-1856
-
-|
-
-1700
-
-|
-
-05K064
-
-|
-
-Endoprothèses vasculaires sans infarctus du myocarde, niveau 4
-
-|
-
-1857
-
-|
-
-1701
-
-|
-
-05K06T
-
-|
-
-Endoprothèses vasculaires sans infarctus du myocarde, très courte durée
-
-|
-
-1858
-
-|
-
-1702
-
-|
-
-05K101
-
-|
-
-Actes diagnostiques par voie vasculaire, niveau 1
-
-|
-
-1859
-
-|
-
-1703
-
-|
-
-05K102
-
-|
-
-Actes diagnostiques par voie vasculaire, niveau 2
-
-|
-
-1860
-
-|
-
-1704
-
-|
-
-05K103
-
-|
-
-Actes diagnostiques par voie vasculaire, niveau 3
-
-|
-
-1861
-
-|
-
-1705
-
-|
-
-05K104
-
-|
-
-Actes diagnostiques par voie vasculaire, niveau 4
-
-|
-
-1862
-
-|
-
-1706
-
-|
-
-05K10J
-
-|
-
-Actes diagnostiques par voie vasculaire, en ambulatoire
-
-|
-
-1863
-
-|
-
-1712
-
-|
-
-05K121
-
-|
-
-Actes thérapeutiques par voie vasculaire sauf endoprothèses, âge inférieur à 18 ans, niveau 1
-
-|
-
-1713
-
-|
-
-05K122
-
-|
-
-Actes thérapeutiques par voie vasculaire sauf endoprothèses, âge inférieur à 18 ans, niveau 2
-
-|
-
-1714
-
-|
-
-05K123
-
-|
-
-Actes thérapeutiques par voie vasculaire sauf endoprothèses, âge inférieur à 18 ans, niveau 3
-
-|
-
-1715
-
-|
-
-05K124
-
-|
-
-Actes thérapeutiques par voie vasculaire sauf endoprothèses, âge inférieur à 18 ans, niveau 4
-
-|
-
-1721
-
-|
-
-05K14Z
-
-|
-
-Mise en place de certains accès vasculaires pour des affections de la CMD 05, séjours de moins de 2 jours
-
-|
-
-1722
-
-|
-
-05K151
-
-|
-
-Surveillances de greffes de cœur avec acte diagnostique par voie vasculaire, niveau 1
-
-|
-
-1723
-
-|
-
-05K152
-
-|
-
-Surveillances de greffes de cœur avec acte diagnostique par voie vasculaire, niveau 2
-
-|
-
-1724
-
-|
-
-05K153
-
-|
-
-Surveillances de greffes de cœur avec acte diagnostique par voie vasculaire, niveau 3
-
-|
-
-1725
-
-|
-
-05K154
-
-|
-
-Surveillances de greffes de cœur avec acte diagnostique par voie vasculaire, niveau 4
-
-|
-
-1726
-
-|
-
-05K15J
-
-|
-
-Surveillances de greffes de cœur avec acte diagnostique par voie vasculaire, en ambulatoire
-
-|
-
-1727
-
-|
-
-05K17J
-
-|
-
-Affections cardiovasculaires sans acte opératoire de la CMD 05, avec anesthésie, en ambulatoire
-
-|
-
-1817
-
-|
-
-05K191
-
-|
-
-Traitements majeurs de troubles du rythme par voie vasculaire, niveau 1
-
-|
-
-1818
-
-|
-
-05K192
-
-|
-
-Traitements majeurs de troubles du rythme par voie vasculaire, niveau 2
-
-|
-
-1819
-
-|
-
-05K193
-
-|
-
-Traitements majeurs de troubles du rythme par voie vasculaire, niveau 3
-
-|
-
-1820
-
-|
-
-05K194
-
-|
-
-Traitements majeurs de troubles du rythme par voie vasculaire, niveau 4
-
-|
-
-1821
-
-|
-
-05K201
-
-|
-
-Autres traitements de troubles du rythme par voie vasculaire, niveau 1
-
-|
-
-1822
-
-|
-
-05K202
-
-|
-
-Autres traitements de troubles du rythme par voie vasculaire, niveau 2
-
-|
-
-1823
-
-|
-
-05K203
-
-|
-
-Autres traitements de troubles du rythme par voie vasculaire, niveau 3
-
-|
-
-1824
-
-|
-
-05K204
-
-|
-
-Autres traitements de troubles du rythme par voie vasculaire, niveau 4
-
-|
-
-1825
-
-|
-
-05K20T
-
-|
-
-Autres traitements de troubles du rythme par voie vasculaire, très courte durée
-
-|
-
-1826
-
-|
-
-05K211
-
-|
-
-Poses de bioprothèses de valves cardiaques par voie vasculaire, niveau 1
-
-|
-
-1827
-
-|
-
-05K212
-
-|
-
-Poses de bioprothèses de valves cardiaques par voie vasculaire, niveau 2
-
-|
-
-1828
-
-|
-
-05K213
-
-|
-
-Poses de bioprothèses de valves cardiaques par voie vasculaire, niveau 3
-
-|
-
-1829
-
-|
-
-05K214
-
-|
-
-Poses de bioprothèses de valves cardiaques par voie vasculaire, niveau 4
-
-|
-
-1830
-
-|
-
-05K221
-
-|
-
-Actes thérapeutiques par voie vasculaire sur les orifices du cœur, âge supérieur à 17 ans, niveau 1
-
-|
-
-1831
-
-|
-
-05K222
-
-|
-
-Actes thérapeutiques par voie vasculaire sur les orifices du cœur, âge supérieur à 17 ans, niveau 2
-
-|
-
-1832
-
-|
-
-05K223
-
-|
-
-Actes thérapeutiques par voie vasculaire sur les orifices du cœur, âge supérieur à 17 ans, niveau 3
-
-|
-
-1833
-
-|
-
-05K224
-
-|
-
-Actes thérapeutiques par voie vasculaire sur les orifices du cœur, âge supérieur à 17 ans, niveau 4
-
-|
-
-1834
-
-|
-
-05K231
-
-|
-
-Ablations, repositionnements et poses de sondes cardiaques supplémentaires par voie vasculaire, âge supérieur à 17 ans, niveau 1
-
-|
-
-1835
-
-|
-
-05K232
-
-|
-
-Ablations, repositionnements et poses de sondes cardiaques supplémentaires par voie vasculaire, âge supérieur à 17 ans, niveau 2
-
-|
-
-1836
-
-|
-
-05K233
-
-|
-
-Ablations, repositionnements et poses de sondes cardiaques supplémentaires par voie vasculaire, âge supérieur à 17 ans, niveau 3
-
-|
-
-1837
-
-|
-
-05K234
-
-|
-
-Ablations, repositionnements et poses de sondes cardiaques supplémentaires par voie vasculaire, âge supérieur à 17 ans, niveau 4
-
-|
-
-1838
-
-|
-
-05K23J
-
-|
-
-Ablations, repositionnements et poses de sondes cardiaques supplémentaires par voie vasculaire, âge supérieur à 17 ans, en ambulatoire
-
-|
-
-1839
-
-|
-
-05K241
-
-|
-
-Dilatations coronaires et autres actes thérapeutiques sur le cœur par voie vasculaire, âge supérieur à 17 ans, niveau 1
-
-|
-
-1840
-
-|
-
-05K242
-
-|
-
-Dilatations coronaires et autres actes thérapeutiques sur le cœur par voie vasculaire, âge supérieur à 17 ans, niveau 2
-
-|
-
-1841
-
-|
-
-05K243
-
-|
-
-Dilatations coronaires et autres actes thérapeutiques sur le cœur par voie vasculaire, âge supérieur à 17 ans, niveau 3
-
-|
-
-1842
-
-|
-
-05K244
-
-|
-
-Dilatations coronaires et autres actes thérapeutiques sur le cœur par voie vasculaire, âge supérieur à 17 ans, niveau 4
-
-|
-
-1843
-
-|
-
-05K24J
-
-|
-
-Dilatations coronaires et autres actes thérapeutiques sur le cœur par voie vasculaire, âge supérieur à 17 ans, en ambulatoire
-
-|
-
-1844
-
-|
-
-05K251
-
-|
-
-Actes thérapeutiques sur les artères par voie vasculaire, âge supérieur à 17 ans, niveau 1
-
-|
-
-1845
-
-|
-
-05K252
-
-|
-
-Actes thérapeutiques sur les artères par voie vasculaire, âge supérieur à 17 ans, niveau 2
-
-|
-
-1846
-
-|
-
-05K253
-
-|
-
-Actes thérapeutiques sur les artères par voie vasculaire, âge supérieur à 17 ans, niveau 3
-
-|
-
-1847
-
-|
-
-05K254
-
-|
-
-Actes thérapeutiques sur les artères par voie vasculaire, âge supérieur à 17 ans, niveau 4
-
-|
-
-1848
-
-|
-
-05K25J
-
-|
-
-Actes thérapeutiques sur les artères par voie vasculaire, âge supérieur à 17 ans, en ambulatoire
-
-|
-
-1849
-
-|
-
-05K261
-
-|
-
-Actes thérapeutiques sur les accès vasculaires ou les veines par voie vasculaire, âge supérieur à 17 ans, niveau 1
-
-|
-
-1850
-
-|
-
-05K262
-
-|
-
-Actes thérapeutiques sur les accès vasculaires ou les veines par voie vasculaire, âge supérieur à 17 ans, niveau 2
-
-|
-
-1851
-
-|
-
-05K263
-
-|
-
-Actes thérapeutiques sur les accès vasculaires ou les veines par voie vasculaire, âge supérieur à 17 ans, niveau 3
-
-|
-
-1852
-
-|
-
-05K264
-
-|
-
-Actes thérapeutiques sur les accès vasculaires ou les veines par voie vasculaire, âge supérieur à 17 ans, niveau 4
-
-|
-
-1853
-
-|
-
-05K26J
-
-|
-
-Actes thérapeutiques sur les accès vasculaires ou les veines par voie vasculaire, âge supérieur à 17 ans, en ambulatoire
-
-|
-
-1729
-
-|
-
-05M041
-
-|
-
-Infarctus aigu du myocarde, niveau 1
-
-|
-
-1730
-
-|
-
-05M042
-
-|
-
-Infarctus aigu du myocarde, niveau 2
-
-|
-
-1731
-
-|
-
-05M043
-
-|
-
-Infarctus aigu du myocarde, niveau 3
-
-|
-
-1732
-
-|
-
-05M044
-
-|
-
-Infarctus aigu du myocarde, niveau 4
-
-|
-
-1733
-
-|
-
-05M04T
-
-|
-
-Infarctus aigu du myocarde, très courte durée
-
-|
-
-1734
-
-|
-
-05M051
-
-|
-
-Syncopes et lipothymies, niveau 1
-
-|
-
-1735
-
-|
-
-05M052
-
-|
-
-Syncopes et lipothymies, niveau 2
-
-|
-
 1736
 
 |
@@ -2136,7 +812,7 @@ Transferts et autres séjours courts pour endocardites aiguës et subaiguës
 
 |
 
-Surveillances de greffes de cœur sans acte diagnostique par voie vasculaire, niveau 1
+Surveillances de greffes de coeur sans acte diagnostique par voie vasculaire, niveau 1
 
 |
 
@@ -2148,7 +824,7 @@ Surveillances de greffes de cœur sans acte diagnostique par voie vasculaire, ni
 
 |
 
-Surveillances de greffes de cœur sans acte diagnostique par voie vasculaire, niveau 2
+Surveillances de greffes de coeur sans acte diagnostique par voie vasculaire, niveau 2
 
 |
 
@@ -2160,7 +836,7 @@ Surveillances de greffes de cœur sans acte diagnostique par voie vasculaire, ni
 
 |
 
-Surveillances de greffes de cœur sans acte diagnostique par voie vasculaire, niveau 3
+Surveillances de greffes de coeur sans acte diagnostique par voie vasculaire, niveau 3
 
 |
 
@@ -2172,7 +848,7 @@ Surveillances de greffes de cœur sans acte diagnostique par voie vasculaire, ni
 
 |
 
-Surveillances de greffes de cœur sans acte diagnostique par voie vasculaire, niveau 4
+Surveillances de greffes de coeur sans acte diagnostique par voie vasculaire, niveau 4
 
 |
 
@@ -2340,7 +1016,7 @@ Interventions majeures sur l'intestin grêle et le côlon, niveau 4
 
 |
 
-Interventions sur l'œsophage, l'estomac et le duodénum, âge inférieur à 18 ans, niveau 1
+Interventions sur l'oesophage, l'estomac et le duodénum, âge inférieur à 18 ans, niveau 1
 
 |
 
@@ -2352,7 +1028,7 @@ Interventions sur l'œsophage, l'estomac et le duodénum, âge inférieur à 18 
 
 |
 
-Interventions sur l'œsophage, l'estomac et le duodénum, âge inférieur à 18 ans, niveau 2
+Interventions sur l'oesophage, l'estomac et le duodénum, âge inférieur à 18 ans, niveau 2
 
 |
 
@@ -2364,7 +1040,7 @@ Interventions sur l'œsophage, l'estomac et le duodénum, âge inférieur à 18 
 
 |
 
-Interventions sur l'œsophage, l'estomac et le duodénum, âge inférieur à 18 ans, niveau 3
+Interventions sur l'oesophage, l'estomac et le duodénum, âge inférieur à 18 ans, niveau 3
 
 |
 
@@ -2376,7 +1052,7 @@ Interventions sur l'œsophage, l'estomac et le duodénum, âge inférieur à 18 
 
 |
 
-Interventions sur l'œsophage, l'estomac et le duodénum, âge inférieur à 18 ans, niveau 4
+Interventions sur l'oesophage, l'estomac et le duodénum, âge inférieur à 18 ans, niveau 4
 
 |
 
@@ -2808,7 +1484,7 @@ Autres interventions sur le tube digestif en dehors des laparotomies, niveau 4
 
 |
 
-Interventions sur l'œsophage, l'estomac et le duodénum pour tumeurs malignes, âge supérieur à 17 ans, niveau 1
+Interventions sur l'oesophage, l'estomac et le duodénum pour tumeurs malignes, âge supérieur à 17 ans, niveau 1
 
 |
 
@@ -2820,7 +1496,7 @@ Interventions sur l'œsophage, l'estomac et le duodénum pour tumeurs malignes, 
 
 |
 
-Interventions sur l'œsophage, l'estomac et le duodénum pour tumeurs malignes, âge supérieur à 17 ans, niveau 2
+Interventions sur l'oesophage, l'estomac et le duodénum pour tumeurs malignes, âge supérieur à 17 ans, niveau 2
 
 |
 
@@ -2832,7 +1508,7 @@ Interventions sur l'œsophage, l'estomac et le duodénum pour tumeurs malignes, 
 
 |
 
-Interventions sur l'œsophage, l'estomac et le duodénum pour tumeurs malignes, âge supérieur à 17 ans, niveau 3
+Interventions sur l'oesophage, l'estomac et le duodénum pour tumeurs malignes, âge supérieur à 17 ans, niveau 3
 
 |
 
@@ -2844,7 +1520,7 @@ Interventions sur l'œsophage, l'estomac et le duodénum pour tumeurs malignes, 
 
 |
 
-Interventions sur l'œsophage, l'estomac et le duodénum pour tumeurs malignes, âge supérieur à 17 ans, niveau 4
+Interventions sur l'oesophage, l'estomac et le duodénum pour tumeurs malignes, âge supérieur à 17 ans, niveau 4
 
 |
 
@@ -2861,6 +1537,14 @@ Hémorroïdectomies, niveau 1
 |
 
 2014
+
+|
+
+06C191
+
+|
+
+Hémorroïdectomies, niveau 1
 
 |
 
@@ -2916,6 +1600,14 @@ Hémorroïdectomies, en ambulatoire
 
 |
 
+06C19J
+
+|
+
+Hémorroïdectomies, en ambulatoire
+
+|
+
 1996
 
 |
@@ -2924,7 +1616,7 @@ Hémorroïdectomies, en ambulatoire
 
 |
 
-Interventions sur l'œsophage, l'estomac et le duodénum pour ulcères, âge supérieur à 17 ans, niveau 1
+Interventions sur l'oesophage, l'estomac et le duodénum pour ulcères, âge supérieur à 17 ans, niveau 1
 
 |
 
@@ -2936,7 +1628,7 @@ Interventions sur l'œsophage, l'estomac et le duodénum pour ulcères, âge sup
 
 |
 
-Interventions sur l'œsophage, l'estomac et le duodénum pour ulcères, âge supérieur à 17 ans, niveau 2
+Interventions sur l'oesophage, l'estomac et le duodénum pour ulcères, âge supérieur à 17 ans, niveau 2
 
 |
 
@@ -2948,7 +1640,7 @@ Interventions sur l'œsophage, l'estomac et le duodénum pour ulcères, âge sup
 
 |
 
-Interventions sur l'œsophage, l'estomac et le duodénum pour ulcères, âge supérieur à 17 ans, niveau 3
+Interventions sur l'oesophage, l'estomac et le duodénum pour ulcères, âge supérieur à 17 ans, niveau 3
 
 |
 
@@ -2960,7 +1652,7 @@ Interventions sur l'œsophage, l'estomac et le duodénum pour ulcères, âge sup
 
 |
 
-Interventions sur l'œsophage, l'estomac et le duodénum pour ulcères, âge supérieur à 17 ans, niveau 4
+Interventions sur l'oesophage, l'estomac et le duodénum pour ulcères, âge supérieur à 17 ans, niveau 4
 
 |
 
@@ -3020,7 +1712,7 @@ Autres interventions sur le tube digestif par laparotomie, niveau 4
 
 |
 
-Interventions sur l'œsophage, l'estomac et le duodénum pour affections autres que malignes ou ulcères, âge supérieur à 17 ans, niveau 1
+Interventions sur l'oesophage, l'estomac et le duodénum pour affections autres que malignes ou ulcères, âge supérieur à 17 ans, niveau 1
 
 |
 
@@ -3032,7 +1724,7 @@ Interventions sur l'œsophage, l'estomac et le duodénum pour affections autres 
 
 |
 
-Interventions sur l'œsophage, l'estomac et le duodénum pour affections autres que malignes ou ulcères, âge supérieur à 17 ans, niveau 2
+Interventions sur l'oesophage, l'estomac et le duodénum pour affections autres que malignes ou ulcères, âge supérieur à 17 ans, niveau 2
 
 |
 
@@ -3044,7 +1736,7 @@ Interventions sur l'œsophage, l'estomac et le duodénum pour affections autres 
 
 |
 
-Interventions sur l'œsophage, l'estomac et le duodénum pour affections autres que malignes ou ulcères, âge supérieur à 17 ans, niveau 3
+Interventions sur l'oesophage, l'estomac et le duodénum pour affections autres que malignes ou ulcères, âge supérieur à 17 ans, niveau 3
 
 |
 
@@ -3056,7 +1748,7 @@ Interventions sur l'œsophage, l'estomac et le duodénum pour affections autres 
 
 |
 
-Interventions sur l'œsophage, l'estomac et le duodénum pour affections autres que malignes ou ulcères, âge supérieur à 17 ans, niveau 4
+Interventions sur l'oesophage, l'estomac et le duodénum pour affections autres que malignes ou ulcères, âge supérieur à 17 ans, niveau 4
 
 |
 
@@ -3956,7 +2648,7 @@ Douleurs abdominales, très courte durée
 
 |
 
-Tumeurs malignes de l'œsophage et de l'estomac, niveau 1
+Tumeurs malignes de l'oesophage et de l'estomac, niveau 1
 
 |
 
@@ -3968,7 +2660,7 @@ Tumeurs malignes de l'œsophage et de l'estomac, niveau 1
 
 |
 
-Tumeurs malignes de l'œsophage et de l'estomac, niveau 2
+Tumeurs malignes de l'oesophage et de l'estomac, niveau 2
 
 |
 
@@ -3980,7 +2672,7 @@ Tumeurs malignes de l'œsophage et de l'estomac, niveau 2
 
 |
 
-Tumeurs malignes de l'œsophage et de l'estomac, niveau 3
+Tumeurs malignes de l'oesophage et de l'estomac, niveau 3
 
 |
 
@@ -3992,7 +2684,7 @@ Tumeurs malignes de l'œsophage et de l'estomac, niveau 3
 
 |
 
-Tumeurs malignes de l'œsophage et de l'estomac, niveau 4
+Tumeurs malignes de l'oesophage et de l'estomac, niveau 4
 
 |
 
@@ -4004,7 +2696,7 @@ Tumeurs malignes de l'œsophage et de l'estomac, niveau 4
 
 |
 
-Tumeurs malignes de l'œsophage et de l'estomac, très courte durée
+Tumeurs malignes de l'oesophage et de l'estomac, très courte durée
 
 |
 
@@ -6444,6 +5136,18 @@ Interventions sur les ligaments croisés sous arthroscopie, niveau 4
 
 |
 
+2966
+
+|
+
+08C34J
+
+|
+
+Interventions sur les ligaments croisés sous arthroscopie, en ambulatoire
+
+|
+
 2821
 
 |
@@ -7804,6 +6508,14 @@ Interventions majeures pour infections ostéoarticulaires, niveau 1
 
 |
 
+08C611
+
+|
+
+Interventions majeures pour infections ostéoarticulaires, niveau 1
+
+|
+
 2949
 
 |
@@ -7817,6 +6529,14 @@ Interventions majeures pour infections ostéoarticulaires, niveau 2
 |
 
 2958
+
+|
+
+08C612
+
+|
+
+Interventions majeures pour infections ostéoarticulaires, niveau 2
 
 |
 
@@ -7836,6 +6556,14 @@ Interventions majeures pour infections ostéoarticulaires, niveau 3
 
 |
 
+08C613
+
+|
+
+Interventions majeures pour infections ostéoarticulaires, niveau 3
+
+|
+
 2951
 
 |
@@ -7849,6 +6577,14 @@ Interventions majeures pour infections ostéoarticulaires, niveau 4
 |
 
 2960
+
+|
+
+08C614
+
+|
+
+Interventions majeures pour infections ostéoarticulaires, niveau 4
 
 |
 
@@ -7868,6 +6604,14 @@ Autres interventions pour infections ostéoarticulaires, niveau 1
 
 |
 
+08C621
+
+|
+
+Autres interventions pour infections ostéoarticulaires, niveau 1
+
+|
+
 2953
 
 |
@@ -7881,6 +6625,14 @@ Autres interventions pour infections ostéoarticulaires, niveau 2
 |
 
 2962
+
+|
+
+08C622
+
+|
+
+Autres interventions pour infections ostéoarticulaires, niveau 2
 
 |
 
@@ -7900,6 +6652,14 @@ Autres interventions pour infections ostéoarticulaires, niveau 3
 
 |
 
+08C623
+
+|
+
+Autres interventions pour infections ostéoarticulaires, niveau 3
+
+|
+
 2955
 
 |
@@ -7916,6 +6676,14 @@ Autres interventions pour infections ostéoarticulaires, niveau 4
 
 |
 
+08C624
+
+|
+
+Autres interventions pour infections ostéoarticulaires, niveau 4
+
+|
+
 2956
 
 |
@@ -7929,6 +6697,14 @@ Autres interventions pour infections ostéoarticulaires, en ambulatoire
 |
 
 2965
+
+|
+
+08C62J
+
+|
+
+Autres interventions pour infections ostéoarticulaires, en ambulatoire
 
 |
 
@@ -8457,5 +7233,3113 @@ Maladies osseuses et arthropathies spécifiques, niveau 4
 |
 
 Maladies osseuses et arthropathies spécifiques, très courte durée
+
+|
+
+3068
+
+|
+
+08M141
+
+|
+
+Affections du tissu conjonctif, niveau 1
+
+|
+
+3069
+
+|
+
+08M142
+
+|
+
+Affections du tissu conjonctif, niveau 2
+
+|
+
+3070
+
+|
+
+08M143
+
+|
+
+Affections du tissu conjonctif, niveau 3
+
+|
+
+3071
+
+|
+
+08M144
+
+|
+
+Affections du tissu conjonctif, niveau 4
+
+|
+
+3072
+
+|
+
+08M14T
+
+|
+
+Affections du tissu conjonctif, très courte durée
+
+|
+
+3073
+
+|
+
+08M151
+
+|
+
+Tendinites, myosites et bursites, niveau 1
+
+|
+
+3074
+
+|
+
+08M152
+
+|
+
+Tendinites, myosites et bursites, niveau 2
+
+|
+
+3075
+
+|
+
+08M153
+
+|
+
+Tendinites, myosites et bursites, niveau 3
+
+|
+
+3076
+
+|
+
+08M154
+
+|
+
+Tendinites, myosites et bursites, niveau 4
+
+|
+
+3167
+
+|
+
+08M15T
+
+|
+
+Tendinites, myosites et bursites, très courte durée
+
+|
+
+3077
+
+|
+
+08M181
+
+|
+
+Suites de traitement après une affection de l'appareil musculosquelettique ou du tissu conjonctif, niveau 1
+
+|
+
+3078
+
+|
+
+08M182
+
+|
+
+Suites de traitement après une affection de l'appareil musculosquelettique ou du tissu conjonctif, niveau 2
+
+|
+
+3079
+
+|
+
+08M183
+
+|
+
+Suites de traitement après une affection de l'appareil musculosquelettique ou du tissu conjonctif, niveau 3
+
+|
+
+3080
+
+|
+
+08M184
+
+|
+
+Suites de traitement après une affection de l'appareil musculosquelettique ou du tissu conjonctif, niveau 4
+
+|
+
+3168
+
+|
+
+08M18T
+
+|
+
+Suites de traitement après une affection de l'appareil musculosquelettique ou du tissu conjonctif, très courte durée
+
+|
+
+3081
+
+|
+
+08M191
+
+|
+
+Autres pathologies de l'appareil musculosquelettique et du tissu conjonctif, niveau 1
+
+|
+
+3082
+
+|
+
+08M192
+
+|
+
+Autres pathologies de l'appareil musculosquelettique et du tissu conjonctif, niveau 2
+
+|
+
+3083
+
+|
+
+08M193
+
+|
+
+Autres pathologies de l'appareil musculosquelettique et du tissu conjonctif, niveau 3
+
+|
+
+3084
+
+|
+
+08M194
+
+|
+
+Autres pathologies de l'appareil musculosquelettique et du tissu conjonctif, niveau 4
+
+|
+
+3169
+
+|
+
+08M19T
+
+|
+
+Autres pathologies de l'appareil musculosquelettique et du tissu conjonctif, très courte durée
+
+|
+
+3085
+
+|
+
+08M201
+
+|
+
+Fractures, entorses, luxations et dislocations du bras et de l'avant-bras, âge inférieur à 18 ans, niveau 1
+
+|
+
+3086
+
+|
+
+08M202
+
+|
+
+Fractures, entorses, luxations et dislocations du bras et de l'avant-bras, âge inférieur à 18 ans, niveau 2
+
+|
+
+3087
+
+|
+
+08M203
+
+|
+
+Fractures, entorses, luxations et dislocations du bras et de l'avant-bras, âge inférieur à 18 ans, niveau 3
+
+|
+
+3088
+
+|
+
+08M204
+
+|
+
+Fractures, entorses, luxations et dislocations du bras et de l'avant-bras, âge inférieur à 18 ans, niveau 4
+
+|
+
+3089
+
+|
+
+08M211
+
+|
+
+Entorses, luxations et dislocations du bras et de l'avant-bras, âge supérieur à 17 ans, niveau 1
+
+|
+
+3090
+
+|
+
+08M212
+
+|
+
+Entorses, luxations et dislocations du bras et de l'avant-bras, âge supérieur à 17 ans, niveau 2
+
+|
+
+3091
+
+|
+
+08M213
+
+|
+
+Entorses, luxations et dislocations du bras et de l'avant-bras, âge supérieur à 17 ans, niveau 3
+
+|
+
+3092
+
+|
+
+08M214
+
+|
+
+Entorses, luxations et dislocations du bras et de l'avant-bras, âge supérieur à 17 ans, niveau 4
+
+|
+
+3093
+
+|
+
+08M221
+
+|
+
+Fractures, entorses, luxations et dislocations de la main, niveau 1
+
+|
+
+3094
+
+|
+
+08M222
+
+|
+
+Fractures, entorses, luxations et dislocations de la main, niveau 2
+
+|
+
+3095
+
+|
+
+08M223
+
+|
+
+Fractures, entorses, luxations et dislocations de la main, niveau 3
+
+|
+
+3096
+
+|
+
+08M224
+
+|
+
+Fractures, entorses, luxations et dislocations de la main, niveau 4
+
+|
+
+3097
+
+|
+
+08M231
+
+|
+
+Fractures, entorses, luxations et dislocations du pied, niveau 1
+
+|
+
+3098
+
+|
+
+08M232
+
+|
+
+Fractures, entorses, luxations et dislocations du pied, niveau 2
+
+|
+
+3099
+
+|
+
+08M233
+
+|
+
+Fractures, entorses, luxations et dislocations du pied, niveau 3
+
+|
+
+3100
+
+|
+
+08M234
+
+|
+
+Fractures, entorses, luxations et dislocations du pied, niveau 4
+
+|
+
+3101
+
+|
+
+08M241
+
+|
+
+Tumeurs primitives malignes des os, du cartilage ou des tissus mous, niveau 1
+
+|
+
+3102
+
+|
+
+08M242
+
+|
+
+Tumeurs primitives malignes des os, du cartilage ou des tissus mous, niveau 2
+
+|
+
+3103
+
+|
+
+08M243
+
+|
+
+Tumeurs primitives malignes des os, du cartilage ou des tissus mous, niveau 3
+
+|
+
+3104
+
+|
+
+08M244
+
+|
+
+Tumeurs primitives malignes des os, du cartilage ou des tissus mous, niveau 4
+
+|
+
+3105
+
+|
+
+08M24T
+
+|
+
+Tumeurs primitives malignes des os, du cartilage ou des tissus mous, très courte durée
+
+|
+
+3106
+
+|
+
+08M251
+
+|
+
+Fractures pathologiques et autres tumeurs malignes de l'appareil musculosquelettique et du tissu conjonctif, niveau 1
+
+|
+
+3107
+
+|
+
+08M252
+
+|
+
+Fractures pathologiques et autres tumeurs malignes de l'appareil musculosquelettique et du tissu conjonctif, niveau 2
+
+|
+
+3108
+
+|
+
+08M253
+
+|
+
+Fractures pathologiques et autres tumeurs malignes de l'appareil musculosquelettique et du tissu conjonctif, niveau 3
+
+|
+
+3109
+
+|
+
+08M254
+
+|
+
+Fractures pathologiques et autres tumeurs malignes de l'appareil musculosquelettique et du tissu conjonctif, niveau 4
+
+|
+
+3110
+
+|
+
+08M25T
+
+|
+
+Fractures pathologiques et autres tumeurs malignes de l'appareil musculosquelettique et du tissu conjonctif, très courte durée
+
+|
+
+3111
+
+|
+
+08M261
+
+|
+
+Fractures du rachis, niveau 1
+
+|
+
+3112
+
+|
+
+08M262
+
+|
+
+Fractures du rachis, niveau 2
+
+|
+
+3113
+
+|
+
+08M263
+
+|
+
+Fractures du rachis, niveau 3
+
+|
+
+3114
+
+|
+
+08M264
+
+|
+
+Fractures du rachis, niveau 4
+
+|
+
+3115
+
+|
+
+08M271
+
+|
+
+Sciatiques et autres radiculopathies, niveau 1
+
+|
+
+3116
+
+|
+
+08M272
+
+|
+
+Sciatiques et autres radiculopathies, niveau 2
+
+|
+
+3117
+
+|
+
+08M273
+
+|
+
+Sciatiques et autres radiculopathies, niveau 3
+
+|
+
+3118
+
+|
+
+08M274
+
+|
+
+Sciatiques et autres radiculopathies, niveau 4
+
+|
+
+3119
+
+|
+
+08M27T
+
+|
+
+Sciatiques et autres radiculopathies, très courte durée
+
+|
+
+3120
+
+|
+
+08M281
+
+|
+
+Autres rachialgies, niveau 1
+
+|
+
+3121
+
+|
+
+08M282
+
+|
+
+Autres rachialgies, niveau 2
+
+|
+
+3122
+
+|
+
+08M283
+
+|
+
+Autres rachialgies, niveau 3
+
+|
+
+3123
+
+|
+
+08M284
+
+|
+
+Autres rachialgies, niveau 4
+
+|
+
+3124
+
+|
+
+08M28T
+
+|
+
+Autres rachialgies, très courte durée
+
+|
+
+3125
+
+|
+
+08M291
+
+|
+
+Autres pathologies rachidiennes relevant d'un traitement médical, niveau 1
+
+|
+
+3126
+
+|
+
+08M292
+
+|
+
+Autres pathologies rachidiennes relevant d'un traitement médical, niveau 2
+
+|
+
+3127
+
+|
+
+08M293
+
+|
+
+Autres pathologies rachidiennes relevant d'un traitement médical, niveau 3
+
+|
+
+3128
+
+|
+
+08M294
+
+|
+
+Autres pathologies rachidiennes relevant d'un traitement médical, niveau 4
+
+|
+
+3170
+
+|
+
+08M29T
+
+|
+
+Autres pathologies rachidiennes relevant d'un traitement médical, très courte durée
+
+|
+
+3129
+
+|
+
+08M301
+
+|
+
+Rhumatismes et raideurs articulaires, niveau 1
+
+|
+
+3130
+
+|
+
+08M302
+
+|
+
+Rhumatismes et raideurs articulaires, niveau 2
+
+|
+
+3131
+
+|
+
+08M303
+
+|
+
+Rhumatismes et raideurs articulaires, niveau 3
+
+|
+
+3132
+
+|
+
+08M304
+
+|
+
+Rhumatismes et raideurs articulaires, niveau 4
+
+|
+
+3133
+
+|
+
+08M30T
+
+|
+
+Rhumatismes et raideurs articulaires, très courte durée
+
+|
+
+3134
+
+|
+
+08M311
+
+|
+
+Ostéomyélites aigües (y compris vertébrales) et arthrites septiques, niveau 1
+
+|
+
+3135
+
+|
+
+08M312
+
+|
+
+Ostéomyélites aigües (y compris vertébrales) et arthrites septiques, niveau 2
+
+|
+
+3136
+
+|
+
+08M313
+
+|
+
+Ostéomyélites aigües (y compris vertébrales) et arthrites septiques, niveau 3
+
+|
+
+3137
+
+|
+
+08M314
+
+|
+
+Ostéomyélites aigües (y compris vertébrales) et arthrites septiques, niveau 4
+
+|
+
+3138
+
+|
+
+08M31T
+
+|
+
+Ostéomyélites aigües (y compris vertébrales) et arthrites septiques, très courte durée
+
+|
+
+3139
+
+|
+
+08M321
+
+|
+
+Ostéomyélites chroniques, niveau 1
+
+|
+
+3140
+
+|
+
+08M322
+
+|
+
+Ostéomyélites chroniques, niveau 2
+
+|
+
+3141
+
+|
+
+08M323
+
+|
+
+Ostéomyélites chroniques, niveau 3
+
+|
+
+3142
+
+|
+
+08M324
+
+|
+
+Ostéomyélites chroniques, niveau 4
+
+|
+
+3143
+
+|
+
+08M32T
+
+|
+
+Ostéomyélites chroniques, très courte durée
+
+|
+
+3144
+
+|
+
+08M331
+
+|
+
+Ablation de matériel sans acte classant, niveau 1
+
+|
+
+3145
+
+|
+
+08M332
+
+|
+
+Ablation de matériel sans acte classant, niveau 2
+
+|
+
+3146
+
+|
+
+08M333
+
+|
+
+Ablation de matériel sans acte classant, niveau 3
+
+|
+
+3147
+
+|
+
+08M334
+
+|
+
+Ablation de matériel sans acte classant, niveau 4
+
+|
+
+3171
+
+|
+
+08M33T
+
+|
+
+Ablation de matériel sans acte classant, très courte durée
+
+|
+
+3148
+
+|
+
+08M341
+
+|
+
+Algoneurodystrophie, niveau 1
+
+|
+
+3149
+
+|
+
+08M342
+
+|
+
+Algoneurodystrophie, niveau 2
+
+|
+
+3150
+
+|
+
+08M343
+
+|
+
+Algoneurodystrophie, niveau 3
+
+|
+
+3151
+
+|
+
+08M344
+
+|
+
+Algoneurodystrophie, niveau 4
+
+|
+
+3172
+
+|
+
+08M34T
+
+|
+
+Algoneurodystrophie, très courte durée
+
+|
+
+3152
+
+|
+
+08M35Z
+
+|
+
+Explorations et surveillance de l'appareil musculosquelettique et du tissu conjonctif
+
+|
+
+3153
+
+|
+
+08M36T
+
+|
+
+Symptômes et autres recours aux soins de la CMD 08, très courte durée
+
+|
+
+3154
+
+|
+
+08M36Z
+
+|
+
+Symptômes et autres recours aux soins de la CMD 08
+
+|
+
+3155
+
+|
+
+08M371
+
+|
+
+Fractures du bras et de l'avant-bras, âge supérieur à 17 ans, niveau 1
+
+|
+
+3156
+
+|
+
+08M372
+
+|
+
+Fractures du bras et de l'avant-bras, âge supérieur à 17 ans, niveau 2
+
+|
+
+3157
+
+|
+
+08M373
+
+|
+
+Fractures du bras et de l'avant-bras, âge supérieur à 17 ans, niveau 3
+
+|
+
+3158
+
+|
+
+08M374
+
+|
+
+Fractures du bras et de l'avant-bras, âge supérieur à 17 ans, niveau 4
+
+|
+
+3173
+
+|
+
+08M37T
+
+|
+
+Fractures du bras et de l'avant-bras, âge supérieur à 17 ans, très courte durée
+
+|
+
+3159
+
+|
+
+08M381
+
+|
+
+Entorses et luxations du rachis, niveau 1
+
+|
+
+3160
+
+|
+
+08M382
+
+|
+
+Entorses et luxations du rachis, niveau 2
+
+|
+
+3161
+
+|
+
+08M383
+
+|
+
+Entorses et luxations du rachis, niveau 3
+
+|
+
+3162
+
+|
+
+08M384
+
+|
+
+Entorses et luxations du rachis, niveau 4
+
+|
+
+3174
+
+|
+
+08M38T
+
+|
+
+Entorses et luxations du rachis, très courte durée
+
+|
+
+3314
+
+|
+
+09C021
+
+|
+
+Greffes de peau et/ou parages de plaie pour ulcère cutané ou cellulite, niveau 1
+
+|
+
+3315
+
+|
+
+09C022
+
+|
+
+Greffes de peau et/ou parages de plaie pour ulcère cutané ou cellulite, niveau 2
+
+|
+
+3316
+
+|
+
+09C023
+
+|
+
+Greffes de peau et/ou parages de plaie pour ulcère cutané ou cellulite, niveau 3
+
+|
+
+3317
+
+|
+
+09C024
+
+|
+
+Greffes de peau et/ou parages de plaie pour ulcère cutané ou cellulite, niveau 4
+
+|
+
+3318
+
+|
+
+09C02J
+
+|
+
+Greffes de peau et/ou parages de plaie pour ulcère cutané ou cellulite, en ambulatoire
+
+|
+
+3319
+
+|
+
+09C031
+
+|
+
+Greffes de peau et/ou parages de plaie à l'exception des ulcères cutanés et cellulites, niveau 1
+
+|
+
+3320
+
+|
+
+09C032
+
+|
+
+Greffes de peau et/ou parages de plaie à l'exception des ulcères cutanés et cellulites, niveau 2
+
+|
+
+3321
+
+|
+
+09C033
+
+|
+
+Greffes de peau et/ou parages de plaie à l'exception des ulcères cutanés et cellulites, niveau 3
+
+|
+
+3322
+
+|
+
+09C034
+
+|
+
+Greffes de peau et/ou parages de plaie à l'exception des ulcères cutanés et cellulites, niveau 4
+
+|
+
+3323
+
+|
+
+09C03J
+
+|
+
+Greffes de peau et/ou parages de plaie à l'exception des ulcères cutanés et cellulites, en ambulatoire
+
+|
+
+3324
+
+|
+
+09C041
+
+|
+
+Mastectomies totales pour tumeur maligne, niveau 1
+
+|
+
+3386
+
+|
+
+09C041
+
+|
+
+Mastectomies totales pour tumeur maligne, niveau 1
+
+|
+
+3325
+
+|
+
+09C042
+
+|
+
+Mastectomies totales pour tumeur maligne, niveau 2
+
+|
+
+3387
+
+|
+
+09C042
+
+|
+
+Mastectomies totales pour tumeur maligne, niveau 2
+
+|
+
+3326
+
+|
+
+09C043
+
+|
+
+Mastectomies totales pour tumeur maligne, niveau 3
+
+|
+
+3388
+
+|
+
+09C043
+
+|
+
+Mastectomies totales pour tumeur maligne, niveau 3
+
+|
+
+3327
+
+|
+
+09C044
+
+|
+
+Mastectomies totales pour tumeur maligne, niveau 4
+
+|
+
+3389
+
+|
+
+09C044
+
+|
+
+Mastectomies totales pour tumeur maligne, niveau 4
+
+|
+
+3328
+
+|
+
+09C051
+
+|
+
+Mastectomies subtotales pour tumeur maligne, niveau 1
+
+|
+
+3390
+
+|
+
+09C051
+
+|
+
+Mastectomies subtotales pour tumeur maligne, niveau 1
+
+|
+
+3329
+
+|
+
+09C052
+
+|
+
+Mastectomies subtotales pour tumeur maligne, niveau 2
+
+|
+
+3391
+
+|
+
+09C052
+
+|
+
+Mastectomies subtotales pour tumeur maligne, niveau 2
+
+|
+
+3330
+
+|
+
+09C053
+
+|
+
+Mastectomies subtotales pour tumeur maligne, niveau 3
+
+|
+
+3392
+
+|
+
+09C053
+
+|
+
+Mastectomies subtotales pour tumeur maligne, niveau 3
+
+|
+
+3331
+
+|
+
+09C054
+
+|
+
+Mastectomies subtotales pour tumeur maligne, niveau 4
+
+|
+
+3393
+
+|
+
+09C054
+
+|
+
+Mastectomies subtotales pour tumeur maligne, niveau 4
+
+|
+
+3332
+
+|
+
+09C05J
+
+|
+
+Mastectomies subtotales pour tumeur maligne, en ambulatoire
+
+|
+
+3394
+
+|
+
+09C05J
+
+|
+
+Mastectomies subtotales pour tumeur maligne, en ambulatoire
+
+|
+
+89
+
+|
+
+09C061
+
+|
+
+Interventions sur le sein pour des affections non malignes autres que les actes de biopsie et d'excision locale, niveau 1
+
+|
+
+3334
+
+|
+
+09C062
+
+|
+
+Interventions sur le sein pour des affections non malignes autres que les actes de biopsie et d'excision locale, niveau 2
+
+|
+
+3335
+
+|
+
+09C063
+
+|
+
+Interventions sur le sein pour des affections non malignes autres que les actes de biopsie et d'excision locale, niveau 3
+
+|
+
+3336
+
+|
+
+09C064
+
+|
+
+Interventions sur le sein pour des affections non malignes autres que les actes de biopsie et d'excision locale, niveau 4
+
+|
+
+89
+
+|
+
+09C06T
+
+|
+
+Interventions sur le sein pour des affections non malignes autres que les actes de biopsie et d'excision locale, très courte durée
+
+|
+
+3338
+
+|
+
+09C071
+
+|
+
+Biopsies et excisions locales pour des affections non malignes du sein, niveau 1
+
+|
+
+3339
+
+|
+
+09C072
+
+|
+
+Biopsies et excisions locales pour des affections non malignes du sein, niveau 2
+
+|
+
+3340
+
+|
+
+09C073
+
+|
+
+Biopsies et excisions locales pour des affections non malignes du sein, niveau 3
+
+|
+
+3341
+
+|
+
+09C074
+
+|
+
+Biopsies et excisions locales pour des affections non malignes du sein, niveau 4
+
+|
+
+3342
+
+|
+
+09C07J
+
+|
+
+Biopsies et excisions locales pour des affections non malignes du sein, en ambulatoire
+
+|
+
+3343
+
+|
+
+09C081
+
+|
+
+Interventions sur la région anale et périanale, niveau 1
+
+|
+
+3344
+
+|
+
+09C082
+
+|
+
+Interventions sur la région anale et périanale, niveau 2
+
+|
+
+3345
+
+|
+
+09C083
+
+|
+
+Interventions sur la région anale et périanale, niveau 3
+
+|
+
+3346
+
+|
+
+09C084
+
+|
+
+Interventions sur la région anale et périanale, niveau 4
+
+|
+
+3347
+
+|
+
+09C08J
+
+|
+
+Interventions sur la région anale et périanale, en ambulatoire
+
+|
+
+3348
+
+|
+
+09C091
+
+|
+
+Interventions plastiques en dehors de la chirurgie esthétique, niveau 1
+
+|
+
+3349
+
+|
+
+09C092
+
+|
+
+Interventions plastiques en dehors de la chirurgie esthétique, niveau 2
+
+|
+
+3350
+
+|
+
+09C093
+
+|
+
+Interventions plastiques en dehors de la chirurgie esthétique, niveau 3
+
+|
+
+3351
+
+|
+
+09C094
+
+|
+
+Interventions plastiques en dehors de la chirurgie esthétique, niveau 4
+
+|
+
+3352
+
+|
+
+09C09J
+
+|
+
+Interventions plastiques en dehors de la chirurgie esthétique, en ambulatoire
+
+|
+
+3353
+
+|
+
+09C101
+
+|
+
+Autres interventions sur la peau, les tissus sous-cutanés ou les seins, niveau 1
+
+|
+
+3354
+
+|
+
+09C102
+
+|
+
+Autres interventions sur la peau, les tissus sous-cutanés ou les seins, niveau 2
+
+|
+
+3355
+
+|
+
+09C103
+
+|
+
+Autres interventions sur la peau, les tissus sous-cutanés ou les seins, niveau 3
+
+|
+
+3356
+
+|
+
+09C104
+
+|
+
+Autres interventions sur la peau, les tissus sous-cutanés ou les seins, niveau 4
+
+|
+
+3357
+
+|
+
+09C10J
+
+|
+
+Autres interventions sur la peau, les tissus sous-cutanés ou les seins, en ambulatoire
+
+|
+
+3358
+
+|
+
+09C111
+
+|
+
+Reconstructions des seins, niveau 1
+
+|
+
+3362
+
+|
+
+09C111
+
+|
+
+Reconstructions des seins, niveau 1
+
+|
+
+3395
+
+|
+
+09C111
+
+|
+
+Reconstructions des seins, niveau 1
+
+|
+
+3359
+
+|
+
+09C112
+
+|
+
+Reconstructions des seins, niveau 2
+
+|
+
+3363
+
+|
+
+09C112
+
+|
+
+Reconstructions des seins, niveau 2
+
+|
+
+3396
+
+|
+
+09C112
+
+|
+
+Reconstructions des seins, niveau 2
+
+|
+
+3360
+
+|
+
+09C113
+
+|
+
+Reconstructions des seins, niveau 3
+
+|
+
+3364
+
+|
+
+09C113
+
+|
+
+Reconstructions des seins, niveau 3
+
+|
+
+3397
+
+|
+
+09C113
+
+|
+
+Reconstructions des seins, niveau 3
+
+|
+
+3361
+
+|
+
+09C114
+
+|
+
+Reconstructions des seins, niveau 4
+
+|
+
+3365
+
+|
+
+09C114
+
+|
+
+Reconstructions des seins, niveau 4
+
+|
+
+3398
+
+|
+
+09C114
+
+|
+
+Reconstructions des seins, niveau 4
+
+|
+
+3366
+
+|
+
+09C121
+
+|
+
+Interventions pour kystes, granulomes et interventions sur les ongles, niveau 1
+
+|
+
+3367
+
+|
+
+09C122
+
+|
+
+Interventions pour kystes, granulomes et interventions sur les ongles, niveau 2
+
+|
+
+3368
+
+|
+
+09C123
+
+|
+
+Interventions pour kystes, granulomes et interventions sur les ongles, niveau 3
+
+|
+
+3369
+
+|
+
+09C124
+
+|
+
+Interventions pour kystes, granulomes et interventions sur les ongles, niveau 4
+
+|
+
+3370
+
+|
+
+09C12J
+
+|
+
+Interventions pour kystes, granulomes et interventions sur les ongles, en ambulatoire
+
+|
+
+3371
+
+|
+
+09C131
+
+|
+
+Interventions pour condylomes anogénitaux, niveau 1
+
+|
+
+3372
+
+|
+
+09C132
+
+|
+
+Interventions pour condylomes anogénitaux, niveau 2
+
+|
+
+3373
+
+|
+
+09C133
+
+|
+
+Interventions pour condylomes anogénitaux, niveau 3
+
+|
+
+3374
+
+|
+
+09C134
+
+|
+
+Interventions pour condylomes anogénitaux, niveau 4
+
+|
+
+3375
+
+|
+
+09C13J
+
+|
+
+Interventions pour condylomes anogénitaux, en ambulatoire
+
+|
+
+3376
+
+|
+
+09C141
+
+|
+
+Certains curages lymphonodaux pour des affections de la peau, des tissus sous-cutanés ou des seins, niveau 1
+
+|
+
+3377
+
+|
+
+09C142
+
+|
+
+Certains curages lymphonodaux pour des affections de la peau, des tissus sous-cutanés ou des seins, niveau 2
+
+|
+
+3378
+
+|
+
+09C143
+
+|
+
+Certains curages lymphonodaux pour des affections de la peau, des tissus sous-cutanés ou des seins, niveau 3
+
+|
+
+3379
+
+|
+
+09C144
+
+|
+
+Certains curages lymphonodaux pour des affections de la peau, des tissus sous-cutanés ou des seins, niveau 4
+
+|
+
+3380
+
+|
+
+09C14J
+
+|
+
+Certains curages lymphonodaux pour des affections de la peau, des tissus sous-cutanés ou des seins, en ambulatoire
+
+|
+
+3381
+
+|
+
+09C151
+
+|
+
+Interventions sur la peau, les tissus sous-cutanés ou les seins pour lésions traumatiques, niveau 1
+
+|
+
+3382
+
+|
+
+09C152
+
+|
+
+Interventions sur la peau, les tissus sous-cutanés ou les seins pour lésions traumatiques, niveau 2
+
+|
+
+3383
+
+|
+
+09C153
+
+|
+
+Interventions sur la peau, les tissus sous-cutanés ou les seins pour lésions traumatiques, niveau 3
+
+|
+
+3384
+
+|
+
+09C154
+
+|
+
+Interventions sur la peau, les tissus sous-cutanés ou les seins pour lésions traumatiques, niveau 4
+
+|
+
+3385
+
+|
+
+09C15J
+
+|
+
+Interventions sur la peau, les tissus sous-cutanés ou les seins pour lésions traumatiques, en ambulatoire
+
+|
+
+3514
+
+|
+
+09K02J
+
+|
+
+Affections de la peau, des tissus sous-cutanés et des seins sans acte opératoire de la CMD 09, avec anesthésie, en ambulatoire
+
+|
+
+3515
+
+|
+
+09M021
+
+|
+
+Traumatismes de la peau et des tissus sous-cutanés, âge inférieur à 18 ans, niveau 1
+
+|
+
+3516
+
+|
+
+09M022
+
+|
+
+Traumatismes de la peau et des tissus sous-cutanés, âge inférieur à 18 ans, niveau 2
+
+|
+
+3517
+
+|
+
+09M023
+
+|
+
+Traumatismes de la peau et des tissus sous-cutanés, âge inférieur à 18 ans, niveau 3
+
+|
+
+3518
+
+|
+
+09M024
+
+|
+
+Traumatismes de la peau et des tissus sous-cutanés, âge inférieur à 18 ans, niveau 4
+
+|
+
+3519
+
+|
+
+09M02T
+
+|
+
+Traumatismes de la peau et des tissus sous-cutanés, âge inférieur à 18 ans, très courte durée
+
+|
+
+3520
+
+|
+
+09M031
+
+|
+
+Traumatismes de la peau et des tissus sous-cutanés, âge supérieur à 17 ans, niveau 1
+
+|
+
+3521
+
+|
+
+09M032
+
+|
+
+Traumatismes de la peau et des tissus sous-cutanés, âge supérieur à 17 ans, niveau 2
+
+|
+
+3522
+
+|
+
+09M033
+
+|
+
+Traumatismes de la peau et des tissus sous-cutanés, âge supérieur à 17 ans, niveau 3
+
+|
+
+3523
+
+|
+
+09M034
+
+|
+
+Traumatismes de la peau et des tissus sous-cutanés, âge supérieur à 17 ans, niveau 4
+
+|
+
+3524
+
+|
+
+09M03T
+
+|
+
+Traumatismes de la peau et des tissus sous-cutanés, âge supérieur à 17 ans, très courte durée
+
+|
+
+3525
+
+|
+
+09M041
+
+|
+
+Lésions, infections et inflammations de la peau et des tissus sous-cutanés, âge inférieur à 18 ans, niveau 1
+
+|
+
+3526
+
+|
+
+09M042
+
+|
+
+Lésions, infections et inflammations de la peau et des tissus sous-cutanés, âge inférieur à 18 ans, niveau 2
+
+|
+
+3527
+
+|
+
+09M043
+
+|
+
+Lésions, infections et inflammations de la peau et des tissus sous-cutanés, âge inférieur à 18 ans, niveau 3
+
+|
+
+3528
+
+|
+
+09M044
+
+|
+
+Lésions, infections et inflammations de la peau et des tissus sous-cutanés, âge inférieur à 18 ans, niveau 4
+
+|
+
+3529
+
+|
+
+09M04T
+
+|
+
+Lésions, infections et inflammations de la peau et des tissus sous-cutanés, âge inférieur à 18 ans, très courte durée
+
+|
+
+3530
+
+|
+
+09M051
+
+|
+
+Lésions, infections et inflammations de la peau et des tissus sous-cutanés, âge supérieur à 17 ans, niveau 1
+
+|
+
+3531
+
+|
+
+09M052
+
+|
+
+Lésions, infections et inflammations de la peau et des tissus sous-cutanés, âge supérieur à 17 ans, niveau 2
+
+|
+
+3532
+
+|
+
+09M053
+
+|
+
+Lésions, infections et inflammations de la peau et des tissus sous-cutanés, âge supérieur à 17 ans, niveau 3
+
+|
+
+3533
+
+|
+
+09M054
+
+|
+
+Lésions, infections et inflammations de la peau et des tissus sous-cutanés, âge supérieur à 17 ans, niveau 4
+
+|
+
+3534
+
+|
+
+09M05T
+
+|
+
+Lésions, infections et inflammations de la peau et des tissus sous-cutanés, âge supérieur à 17 ans, très courte durée
+
+|
+
+3535
+
+|
+
+09M061
+
+|
+
+Ulcères cutanés, niveau 1
+
+|
+
+3536
+
+|
+
+09M062
+
+|
+
+Ulcères cutanés, niveau 2
+
+|
+
+3537
+
+|
+
+09M063
+
+|
+
+Ulcères cutanés, niveau 3
+
+|
+
+3538
+
+|
+
+09M064
+
+|
+
+Ulcères cutanés, niveau 4
+
+|
+
+3539
+
+|
+
+09M06T
+
+|
+
+Ulcères cutanés, très courte durée
+
+|
+
+3540
+
+|
+
+09M071
+
+|
+
+Autres affections dermatologiques, niveau 1
+
+|
+
+3541
+
+|
+
+09M072
+
+|
+
+Autres affections dermatologiques, niveau 2
+
+|
+
+3542
+
+|
+
+09M073
+
+|
+
+Autres affections dermatologiques, niveau 3
+
+|
+
+3543
+
+|
+
+09M074
+
+|
+
+Autres affections dermatologiques, niveau 4
+
+|
+
+3544
+
+|
+
+09M07T
+
+|
+
+Autres affections dermatologiques, très courte durée
+
+|
+
+3545
+
+|
+
+09M081
+
+|
+
+Affections dermatologiques sévères, niveau 1
+
+|
+
+3546
+
+|
+
+09M082
+
+|
+
+Affections dermatologiques sévères, niveau 2
+
+|
+
+3547
+
+|
+
+09M083
+
+|
+
+Affections dermatologiques sévères, niveau 3
+
+|
+
+3548
+
+|
+
+09M084
+
+|
+
+Affections dermatologiques sévères, niveau 4
+
+|
+
+3549
+
+|
+
+09M08T
+
+|
+
+Affections dermatologiques sévères, très courte durée
+
+|
+
+3550
+
+|
+
+09M091
+
+|
+
+Affections non malignes des seins, niveau 1
+
+|
+
+3551
+
+|
+
+09M092
+
+|
+
+Affections non malignes des seins, niveau 2
+
+|
+
+3552
+
+|
+
+09M093
+
+|
+
+Affections non malignes des seins, niveau 3
+
+|
+
+3553
+
+|
+
+09M094
+
+|
+
+Affections non malignes des seins, niveau 4
+
+|
+
+3554
+
+|
+
+09M09T
+
+|
+
+Affections non malignes des seins, très courte durée
+
+|
+
+3555
+
+|
+
+09M101
+
+|
+
+Tumeurs malignes des seins, niveau 1
+
+|
+
+3556
+
+|
+
+09M102
+
+|
+
+Tumeurs malignes des seins, niveau 2
+
+|
+
+3557
+
+|
+
+09M103
+
+|
+
+Tumeurs malignes des seins, niveau 3
+
+|
+
+3558
+
+|
+
+09M104
+
+|
+
+Tumeurs malignes des seins, niveau 4
+
+|
+
+3567
+
+|
+
+09M10T
+
+|
+
+Tumeurs malignes des seins, très courte durée
+
+|
+
+3559
+
+|
+
+09M111
+
+|
+
+Tumeurs de la peau, niveau 1
+
+|
+
+3560
+
+|
+
+09M112
+
+|
+
+Tumeurs de la peau, niveau 2
+
+|
+
+3561
+
+|
+
+09M113
+
+|
+
+Tumeurs de la peau, niveau 3
+
+|
+
+3562
+
+|
+
+09M114
+
+|
+
+Tumeurs de la peau, niveau 4
+
+|
+
+3568
+
+|
+
+09M11T
+
+|
+
+Tumeurs de la peau, très courte durée
+
+|
+
+3563
+
+|
+
+09M12Z
+
+|
+
+Explorations et surveillance des affections de la peau
+
+|
+
+3564
+
+|
+
+09M13Z
+
+|
+
+Explorations et surveillance des affections des seins
+
+|
+
+3569
+
+|
+
+09M14T
+
+|
+
+Symptômes et autres recours aux soins concernant les affections de la peau, très courte durée
+
+|
+
+3565
+
+|
+
+09M14Z
+
+|
+
+Symptômes et autres recours aux soins concernant les affections de la peau
+
+|
+
+3566
+
+|
+
+09M15Z
+
+|
+
+Symptômes et autres recours aux soins concernant les affections des seins
+
+|
+
+3570
+
+|
+
+09Z02B
+
+|
+
+Chirurgie esthétique, avec complication significative
+
+|
+
+3717
+
+|
+
+10C021
+
+|
+
+Interventions sur l'hypophyse, niveau 1
+
+|
+
+3718
+
+|
+
+10C022
+
+|
+
+Interventions sur l'hypophyse, niveau 2
+
+|
+
+3719
+
+|
+
+10C023
+
+|
+
+Interventions sur l'hypophyse, niveau 3
+
+|
+
+3720
+
+|
+
+10C024
+
+|
+
+Interventions sur l'hypophyse, niveau 4
+
+|
+
+3721
+
+|
+
+10C031
+
+|
+
+Interventions sur les glandes surrénales, niveau 1
+
+|
+
+3722
+
+|
+
+10C032
+
+|
+
+Interventions sur les glandes surrénales, niveau 2
+
+|
+
+3723
+
+|
+
+10C033
+
+|
+
+Interventions sur les glandes surrénales, niveau 3
+
+|
+
+3724
+
+|
+
+10C034
+
+|
+
+Interventions sur les glandes surrénales, niveau 4
+
+|
+
+3725
+
+|
+
+10C051
+
+|
+
+Interventions sur les parathyroïdes, niveau 1
+
+|
+
+3726
+
+|
+
+10C052
+
+|
+
+Interventions sur les parathyroïdes, niveau 2
+
+|
+
+3727
+
+|
+
+10C053
+
+|
+
+Interventions sur les parathyroïdes, niveau 3
+
+|
+
+3728
+
+|
+
+10C054
+
+|
+
+Interventions sur les parathyroïdes, niveau 4
+
+|
+
+3729
+
+|
+
+10C071
+
+|
+
+Interventions sur le tractus thyréoglosse, niveau 1
+
+|
+
+3730
+
+|
+
+10C072
+
+|
+
+Interventions sur le tractus thyréoglosse, niveau 2
 
 |

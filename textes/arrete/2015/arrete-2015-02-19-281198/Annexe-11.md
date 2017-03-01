@@ -4,7 +4,7 @@ Listes des actes donnant lieu à rémunération des forfaits SE
 
 Liste 1 : liste des actes donnant lieu à rémunération sur la base d'un SE1
 
-CODE
+Code
 
 |
 
@@ -12,7 +12,7 @@ EXT PMSI
 
 |
 
-LIBELLÉ DE L'ACTE CCAM
+Libellé de l'acte CCAM
 
 |
 
@@ -22,7 +22,7 @@ DZQJ001
 
 |
 
-Echographie-doppler du cœur et des vaisseaux intrathoraciques, par voie œsophagienne [Echocardiographie-doppler transœsophagienne]
+Échographie-doppler du cœur et des vaisseaux intrathoraciques, par voie œsophagienne [Échocardiographie-doppler transœsophagienne]
 
 |
 
@@ -32,7 +32,7 @@ DZQJ008
 
 |
 
-Echographie-doppler transthoracique et échographie-doppler par voie œsophagienne du cœur et des vaisseaux intrathoraciques
+Échographie-doppler transthoracique et échographie-doppler par voie œsophagienne du cœur et des vaisseaux intrathoraciques
 
 |
 
@@ -42,7 +42,7 @@ DZQJ010
 
 |
 
-Echographie-doppler transthoracique et échographie-doppler par voie œsophagienne du cœur et des vaisseaux intrathoraciques, avec injection intraveineuse de produit de contraste ultrasonore ne franchissant pas le poumon
+Échographie-doppler transthoracique et échographie-doppler par voie œsophagienne du cœur et des vaisseaux intrathoraciques, avec injection intraveineuse de produit de contraste ultrasonore ne franchissant pas le poumon
 
 |
 
@@ -52,17 +52,7 @@ DZQJ011
 
 |
 
-Echographie-doppler du cœur et des vaisseaux intrathoraciques par voie œsophagienne, avec injection intraveineuse de produit de contraste ultrasonore ne franchissant pas le poumon
-
-|
-
-GBQA002
-
-|
-
-|
-
-Sinusoscopie maxillaire, par voie méatale inférieure et/ ou par abord de la fosse canine [abord vestibulaire]
+Échographie-doppler du cœur et des vaisseaux intrathoraciques par voie œsophagienne, avec injection intraveineuse de produit de contraste ultrasonore ne franchissant pas le poumon
 
 |
 
@@ -142,7 +132,7 @@ HEGE002
 
 |
 
-Ablation de corps étranger de l'œsophage, de l'estomac et/ ou du duodénum, par œso-gastro-duodénoscopie
+Ablation de corps étranger de l'œsophage, de l'estomac et/ou du duodénum, par œso-gastro-duodénoscopie
 
 |
 
@@ -268,7 +258,7 @@ Biopsie de l'urètre à la pince, par endoscopie
 
 Liste 2 : liste des actes donnant lieu à rémunération sur la base d'un SE2
 
-CODE
+Code
 
 |
 
@@ -276,7 +266,7 @@ EXT PMSI
 
 |
 
-LIBELLÉ DE L'ACTE CCAM
+Libellé de l'acte CCAM
 
 |
 
@@ -346,7 +336,7 @@ BEJB001
 
 |
 
-Evacuation de collection de la chambre antérieure de l'œil, par voie transsclérale ou par voie transcornéenne avec irrigation-aspiration automatisée
+Évacuation de collection de la chambre antérieure de l'œil, par voie transsclérale ou par voie transcornéenne avec irrigation-aspiration automatisée
 
 |
 
@@ -356,7 +346,7 @@ BEJB002
 
 |
 
-Evacuation de collection de la chambre antérieure de l'œil, par voie transsclérale ou par voie transcornéenne sans irrigation-aspiration automatisée
+Évacuation de collection de la chambre antérieure de l'œil, par voie transsclérale ou par voie transcornéenne sans irrigation-aspiration automatisée
 
 |
 
@@ -366,7 +356,7 @@ BEPA001
 
 |
 
-Libération de synéchies et/ ou de brides du segment antérieur de l'œil, par kératotomie
+Libération de synéchies et/ou de brides du segment antérieur de l'œil, par kératotomie
 
 |
 
@@ -376,7 +366,7 @@ BGJB001
 
 |
 
-Evacuation de collection de la choroïde, par voie transsclérale
+Évacuation de collection de la choroïde, par voie transsclérale
 
 |
 
@@ -470,16 +460,6 @@ Coagulation unilatérale de l'artère sphénopalatine, par endoscopie nasale
 
 |
 
-EGFA007
-
-|
-
-|
-
-Excision d'une thrombose hémorroïdaire
-
-|
-
 FCFA012
 
 |
@@ -500,13 +480,23 @@ Exérèse de nœud [ganglion] lymphatique du cou à visée thérapeutique, par c
 
 |
 
+FDHB002
+
+|
+
+|
+
+Biopsie ostéomédullaire, par voie transcutanée
+
+|
+
 GBJD002
 
 |
 
 |
 
-Evacuation de collection du sinus maxillaire, par voie méatale inférieure
+Évacuation de collection du sinus maxillaire, par voie méatale inférieure
 
 |
 
@@ -636,7 +626,7 @@ PDFA001
 
 |
 
-Exérèse de lésion fasciale et/ ou sousfasciale des tissus mous, sans dissection d'un gros tronc vasculaire ou nerveux
+Exérèse de lésion fasciale et/ou sousfasciale des tissus mous, sans dissection d'un gros tronc vasculaire ou nerveux
 
 |
 
@@ -672,7 +662,7 @@ Ablation de plusieurs corps étrangers profonds de la peau et des tissus mous, e
 
 Liste 3 : liste des actes donnant lieu à rémunération sur la base d'un SE3
 
-CODE
+Code
 
 |
 
@@ -680,7 +670,7 @@ EXT PMSI
 
 |
 
-LIBELLÉ DE L'ACTE CCAM
+Libellé de l'acte CCAM
 
 |
 
@@ -724,6 +714,16 @@ Infiltration thérapeutique du plexus brachial
 
 |
 
+FGRD003
+
+|
+
+|
+
+Test de provocation par ingestion d'un allergène administré à concentration croissante
+
+|
+
 GGHB002
 
 |
@@ -750,7 +750,7 @@ GGJB002
 
 |
 
-Evacuation d'un épanchement de la cavité pleurale, par voie transcutanée sans guidage
+Évacuation d'un épanchement de la cavité pleurale, par voie transcutanée sans guidage
 
 |
 
@@ -760,7 +760,7 @@ HPJB001
 
 |
 
-Evacuation d'un épanchement intrapéritonéal, par voie transcutanée
+Évacuation d'un épanchement intrapéritonéal, par voie transcutanée
 
 |
 
@@ -834,9 +834,19 @@ Amniocentèse sur un sac amniotique unique, avec guidage échographique
 
 |
 
+JQEP001
+
+|
+
+|
+
+Version du foetus par manoeuvres obstétricales externes au cours de la grossesse, avec contrôle échographique et surveillance du rythme cardiaque du foetus
+
+|
+
 Liste 4 : liste des actes donnant lieu à rémunération sur la base d'un SE4
 
-CODE
+Code
 
 |
 
@@ -844,7 +854,7 @@ EXT PMSI
 
 |
 
-LIBELLÉ DE L'ACTE CCAM
+Libellé de l'acte CCAM
 
 |
 
@@ -854,4 +864,50 @@ FEJF003
 
 |
 
-Saignée thérapeutique |
+Saignée thérapeutique
+
+|
+
+Liste 5 : liste des actes donnant lieu à rémunération sur la base d'un SE5
+
+Code
+
+|
+
+EXT PMSI
+
+|
+
+Libellé de l'acte CCAM
+
+|
+
+BALB001
+
+|
+
+|
+
+Séance d'injection unilatérale ou bilatérale de toxine botulique au niveau des paupières
+
+|
+
+PCLB002
+
+|
+
+|
+
+Séance d'injection de toxine botulique dans les muscles striés par voie transcutanée, sans examen électromyographique de détection
+
+|
+
+PCLB003
+
+|
+
+|
+
+Séance d'injection de toxine botulique dans les muscles striés par voie transcutanée, avec examen électromyographique de détection
+
+|

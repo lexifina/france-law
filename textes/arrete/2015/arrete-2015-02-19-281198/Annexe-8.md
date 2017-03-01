@@ -2,7 +2,9 @@
 
 Liste 1 : diagnostics et actes associés autorisant la facturation d'un supplément de surveillance continue
 
-CODES CIM-10
+CODES
+
+CIM-10
 
 |
 
@@ -10,17 +12,13 @@ LIBELLÉS CIM-10
 
 |
 
-CODES
-
-ACTES
+CODES ACTES
 
 CCAM
 
 |
 
-EXT.
-
-PMSI
+EXT. PMSI
 
 |
 
