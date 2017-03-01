@@ -566,17 +566,15 @@ Articles R. 555-2 et R. 555-24
 
 |
 
-Demandes d'autorisation d'exploiter une installation classée pour la protection de l'environnement (ICPE) et toutes modifications des conditions d'exploitation
-
-|
+Demandes d'autorisations environnementales de construction, de réalisation, d'exploitation, de modification et de transfert d'activités, installations, ouvrages et travaux et de projets relevant de l'article L. 122-1-1 du code de l'environnement |
 
 Code de l'environnement :
 
--articles L. 512-1 et suivants ;
+-articles L. 122-1-1, L. 181-1 et suivants, L. 214-1 et suivants, L. 512-1 et suivants
 
--articles R. 512-2 à R. 512-45 ;
+-articles R. 214-6 et suivants, R. 181-1 et suivants, R. 512-2 à R. 512-45
 
--articles R. 512-68 et R. 512-69 ;
+-articles R. 512-68 et R. 512-69
 
 -articles R. 513-1 et R. 513-2.
 
@@ -601,3 +599,7 @@ Demande de permis de mise en exploitation d'un navire de pêche professionnelle-
 Code rural et de la pêche maritime-Article L. 921-7 et R. 921-7 à R. 921-14
 
 |
+
+NOTA :
+
+Se reporter aux dispositions du 1° de l'article 17 du décret n° 2017-81 du 26 janvier 2017 qui précisent les réserves d'entrée en vigueur.

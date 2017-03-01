@@ -238,71 +238,11 @@ Arrêté du 27 octobre 2011 portant modalités d'agrément des laboratoires effe
 
 |
 
-Autorisation des installations, ouvrages, travaux et activités susceptibles de présenter des dangers pour la santé et la sécurité publique, de nuire au libre écoulement des eaux, de réduire la ressource en eau, d'accroître notablement le risque d'inondation, de porter gravement atteinte à la qualité ou à la diversité du milieu aquatique, notamment aux peuplements piscicoles
-
-|
-
-Articles L. 214-3, R. 214-9 et R. 214-12
-
-|
-
-6 mois en l'absence d'avis d'ouverture de l'enquête publique
-
-3 mois, prolongeable de 2 mois, à compter de la remise du rapport et des conclusions du commissaire enquêteur ou de la commission d'enquête
-
-|
-
-Autorisation unique pour l'expérimentation d'installations, ouvrages, travaux et activités soumis à autorisation au titre de l'article L. 214-3 du code de l'environnement
-
-|
-
-Articles L. 214-3 et suivants
-
-Article 2 de l'ordonnance n° 2014-619 du 12 juin 2014 relative à l'expérimentation d'une autorisation unique pour les installations, ouvrages, travaux et activités soumis à autorisation au titre de l'article L. 214-3 du code de l'environnement
-
-Décret n° 2014-751 du 1er juillet 2014 d'application de l'ordonnance n° 2014-619
-
-Article 7 du décret n° 2014-751 du 1er juillet 2014 d'application de l'ordonnance n° 2014-619
-
-|
-
-Délai prévu par les textes visés
-
-|
-
-Demande de modification de l'autorisation unique pour les installations, ouvrages travaux et activités soumis à autorisation au titre de l'article L. 214-3 du code de l'environnement
-
-|
-
-Articles L. 214-3 et suivants
-
-Article 2 de l'ordonnance n° 2014-619 du 12 juin 2014 relative à l'expérimentation d'une autorisation unique pour les installations, ouvrages, travaux et activités soumis à autorisation au titre de l'article L. 214-3 du code de l'environnement
-
-Article 19 du décret n° 2014-751 du 1er juillet 2014 d'application de l'ordonnance n° 2014-619
-
-|
-
-3 mois à compter de la réception de la demande
-
-|
-
 Reconnaissance, modification ou abrogation d'un droit fondé en titre
 
 |
 
 Article R. 214-18-1
-
-|
-
-3 mois
-
-|
-
-Renouvellement d'une autorisation au titre de la loi sur l'eau
-
-|
-
-Article R. 214-20
 
 |
 
@@ -376,7 +316,7 @@ Article L. 331-4-1
 
 |
 
-5 mois
+4 mois
 
 |
 
@@ -388,7 +328,7 @@ Article L. 331-5
 
 |
 
-5 mois
+4 mois
 
 |
 
@@ -400,7 +340,7 @@ Articles L. 332-3, L. 332-6 et R. 332-24
 
 |
 
-5 mois
+4 mois
 
 |
 
@@ -424,7 +364,7 @@ Articles R. 332-23 à R. 332-27 (décret de création de la réserve naturelle n
 
 |
 
-5 mois
+4 mois
 
 |
 
@@ -2679,3 +2619,7 @@ Article 3.1 de l'annexe
 |
 
 |
+
+NOTA :
+
+Se reporter aux dispositions de l'article 17 du décret n° 2017-81 du 26 janvier 2017 qui précisent les réserves d'entrée en vigueur.
