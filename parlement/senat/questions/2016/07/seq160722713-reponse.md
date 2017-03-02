@@ -1,0 +1,9 @@
+# Réponse à la question SEQ160722713
+
+- Question : [SEQ160722713](seq160722713.md) — Statistiques relatives aux accidents liés aux deux-roues
+
+## Réponse
+
+*Intérieur, JO du 2017-03-02, page 900*
+
+Les statistiques relatives aux accidents impliquant les cyclistes sont inclues dans le fichier national qui regroupe les bulletins d'analyse des accidents de la circulation (BAAC), conformément à l'arrêté du 27 mars 2007 portant sur les conditions d'élaboration des statistiques relatives aux accidents corporels. Les BAAC sont rédigés par les forces de l'ordre lorsqu'elles sont sollicitées pour intervenir sur un accident corporel. Il convient de préciser que pour les accidents de cyclistes les moins graves, et notamment sans tiers, le recours aux forces de l'ordre reste peu répandu. En 2015, 149 cyclistes ont été tués dans un accident de la route. La mortalité des cyclistes a diminué de 6,3 % par rapport à 2014. Les cyclistes représentent 4 % de la mortalité routière en 2015. Entre 2000 et 2010, le nombre de cyclistes tués a diminué de 46 % (soit - 6 % par an en moyenne) pour un usage relativement stable (augmentation dans les villes, baisse en périphérie et stabilisation hors agglomération). Depuis 2010, le nombre de cyclistes tués sur la route demeure autour de 150 personnes tuées par an alors que le nombre de tués des autres modes de transport a baissé de 14 %. En 2015, pour un cycliste tué, dix cyclistes ont été hospitalisés. Pleinement mobilisé pour lutter contre cette accidentalité spécifique, le Gouvernement a souhaité, dans le cadre du Comité interministériel de la sécurité routière (CISR) d'octobre 2015, rendre obligatoire le port du casque pour les cyclistes de moins de douze ans, mais aussi moderniser les dispositions traitant de la visibilité des cyclistes, notamment celles relatives à leur éclairage. Les textes nécessaires pour y parvenir sont en cours d'élaboration.
