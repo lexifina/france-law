@@ -1,0 +1,9 @@
+# Réponse à la question SEQ160220046
+
+- Question : [SEQ160220046](seq160220046.md) — Conseil municipal : indemnités et parité
+
+## Réponse
+
+*Intérieur, JO du 2017-03-02, page 875*
+
+Bien que les fonctions électives soient par principe gratuites, les élus municipaux peuvent bénéficier d'indemnités de fonction qui viennent compenser les dépenses et les sujétions qui résultent de l'exercice de leur charge publique. L'article L. 2123-24-1 III du code général des collectivités territoriales (CGCT) prévoit que les conseillers municipaux qui exercent une délégation de fonctions de la part du maire peuvent recevoir une indemnité de fonction dans les limites prévues par l'article L. 2123-24 II, c'est-à-dire à la condition que les indemnités maximales susceptibles d'être allouées au maire et aux adjoints ne soient pas dépassées. Les adjoints pris en compte pour le calcul de cette enveloppe sont ceux exerçant effectivement leurs fonctions. Dans le cas où tous les postes d'adjoints ne seraient pas pourvus, ce calcul doit être obtenu sur la base du nombre réel d'adjoints, ceux-ci devant en outre détenir une délégation de fonctions. Si l'enveloppe indemnitaire globale n'est pas dépassée, l'organe délibérant a la faculté d'attribuer ce reliquat indemnitaire à des conseillers municipaux délégués ou non. Le conseil municipal a ainsi la possibilité d'accorder des indemnités de fonction de niveau différent à des élus remplissant les mêmes fonctions. Toutefois, cette possibilité est très encadrée. En effet, le juge administratif a précisé que la décision de moduler les indemnités de fonction ne peut s'inspirer de motifs étrangers à l'importance quantitative des fonctions effectivement exercées ou à l'intérêt de la commune. De même, il a considéré que la délibération qui fixe le montant des indemnités de fonction doit reposer sur des critères objectifs et non être prise en considération de la personne ou de son comportement.
