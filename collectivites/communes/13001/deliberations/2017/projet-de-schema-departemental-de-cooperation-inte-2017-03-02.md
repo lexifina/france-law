@@ -1,0 +1,10 @@
+# Aix-en-Provence : délibération — PROJET DE SCHEMA DEPARTEMENTAL DE COOPERATION INTERCOMMUNALE (SDCI) - DISSOLUTION DU SYNDICAT INTERCOMMUNAL D'AMENAGEMENT DE LA TOULOUBRE ET DU SYNDICAT D'AMENAGEMENT DU BASSIN DE L'ARC - AVIS DE LA COMMUNE
+
+- Collectivité : Aix-en-Provence
+- SIREN : 211300017
+- Code INSEE : 13001
+- Date : 2017-03-02
+- Séance : Conseil Municipal 1CA
+- Objet : PROJET DE SCHEMA DEPARTEMENTAL DE COOPERATION INTERCOMMUNALE (SDCI) - DISSOLUTION DU SYNDICAT INTERCOMMUNAL D'AMENAGEMENT DE LA TOULOUBRE ET DU SYNDICAT D'AMENAGEMENT DU BASSIN DE L'ARC - AVIS DE LA COMMUNE
+- Acte publié : http://eadm.mairie-aixenprovence.fr/delibinternet/delib-8294-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/liste-des-deliberations-aix-en-provence@aix-en-provence
