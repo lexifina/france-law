@@ -1,6 +1,6 @@
 # Article 244 quater W
 
-I. ― 1. Les entreprises imposées d'après leur bénéfice réel ou exonérées en application des articles 44 sexies, 44 sexies A, 44 septies, 44 octies, 44 octies A et 44 duodecies à 44 quindecies, exerçant une activité agricole ou une activité industrielle, commerciale ou artisanale relevant de l'article 34, peuvent bénéficier d'un crédit d'impôt à raison des investissements productifs neufs qu'elles réalisent dans un département d'outre-mer pour l'exercice d'une activité ne relevant pas de l'un des secteurs énumérés aux a à l du I de l'article 199 undecies B. L'investissement doit être un investissement initial, au sens de l'article 2 du règlement (UE) n° 651/2014 de la Commission, du 17 juin 2014, déclarant certaines catégories d'aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité.
+I. – 1. Les entreprises imposées d'après leur bénéfice réel ou exonérées en application des articles 44 sexies, 44 sexies A, 44 septies, 44 octies, 44 octies A et 44 duodecies à 44 quindecies, exerçant une activité agricole ou une activité industrielle, commerciale ou artisanale relevant de l'article 34, peuvent bénéficier d'un crédit d'impôt à raison des investissements productifs neufs qu'elles réalisent dans un département d'outre-mer pour l'exercice d'une activité ne relevant pas de l'un des secteurs énumérés aux a à l du I de l'article 199 undecies B.
 
 Le crédit d'impôt prévu au premier alinéa s'applique également aux travaux de rénovation et de réhabilitation d'hôtel, de résidence de tourisme et de village de vacances classés lorsque ces travaux constituent des éléments de l'actif immobilisé.
 
@@ -20,7 +20,7 @@ b) Le contrat de location ou de crédit-bail revêt un caractère commercial ;
 
 c) L'entreprise locataire ou crédit-preneuse aurait pu bénéficier du crédit d'impôt prévu au 1 si elle avait acquis directement le bien.
 
-4. Pour les entreprises soumises à l'impôt sur les sociétés dont l'activité principale relève de l'un des secteurs d'activité éligibles à la réduction d'impôt prévue à l'article 199 undecies B ou pour les organismes mentionnés au 1 du I de l'article 244 quater X, le crédit d'impôt s'applique également :
+4. Pour les entreprises soumises à l'impôt sur les sociétés ou pour les organismes mentionnés au 1 du I de l'article 244 quater X, le crédit d'impôt s'applique également :
 
 1° Aux acquisitions ou constructions de logements neufs à usage locatif situés dans les départements d'outre-mer, à l'exception des logements neufs répondant aux critères mentionnés aux b et c du 1 du I de l'article 244 quater X, si les conditions suivantes sont réunies :
 
@@ -42,7 +42,7 @@ b) L'acquisition ou la construction de l'immeuble a été financée au moyen d'u
 
 c) Les trois quarts de l'avantage en impôt procuré par le crédit d'impôt pratiqué au titre de l'acquisition ou la construction de l'immeuble sont rétrocédés à la personne physique signataire du contrat mentionné au 1° du présent 4 sous forme de diminution de la redevance prévue à l'article 5 de la loi n° 84-595 du 12 juillet 1984 précitée et du prix de cession de l'immeuble.
 
-II. ― 1. Le crédit d'impôt est assis sur le montant, hors taxes et hors frais de toute nature, notamment les commissions d'acquisition, à l'exception des frais de transport, d'installation et de mise en service amortissables, des investissements productifs, diminué de la fraction de leur prix de revient financée par une aide publique.
+II. – 1. Le crédit d'impôt est assis sur le montant, hors taxes et hors frais de toute nature, notamment les commissions d'acquisition, à l'exception des frais de transport, d'installation et de mise en service amortissables, des investissements productifs, diminué de la fraction de leur prix de revient financée par une aide publique.
 
 Pour les projets d'investissement comportant l'acquisition, l'installation ou l'exploitation d'équipements de production d'énergie renouvelable, ce montant est pris en compte dans la limite d'un montant par watt installé, fixé par arrêté conjoint des ministres chargés du budget, de l'énergie, de l'outre-mer et de l'industrie pour chaque type d'équipement. Ce montant prend en compte les coûts d'acquisition et d'installation directement liés à ces équipements.
 
@@ -54,7 +54,7 @@ Pour les projets d'investissement comportant l'acquisition, l'installation ou l'
 
 5. Lorsque l'entreprise qui réalise l'investissement bénéficie d'une souscription au capital mentionnée au II ou II ter de l'article 217 undecies et à l'article 199 undecies A ou de financements, apports en capital et prêts participatifs, apportés par les sociétés de financement définies au g du 2 du même article 199 undecies A, l'assiette du crédit d'impôt est minorée du montant de ces apports et financements.
 
-III. ― Le taux du crédit d'impôt est fixé à :
+III. – Le taux du crédit d'impôt est fixé à :
 
 1° 38,25 % pour les entreprises soumises à l'impôt sur le revenu ;
 
@@ -62,7 +62,7 @@ III. ― Le taux du crédit d'impôt est fixé à :
 
 Le taux mentionné au 1° est porté à 45,9 % pour les investissements réalisés en Guyane et à Mayotte, dans les limites définies par les règles européennes relatives aux aides d'Etat.
 
-IV. ― 1. Le bénéfice du crédit d'impôt prévu au 1 du I est accordé au titre de l'année au cours de laquelle l'investissement est mis en service.
+IV. – 1. Le bénéfice du crédit d'impôt prévu au 1 du I est accordé au titre de l'année au cours de laquelle l'investissement est mis en service.
 
 2. Toutefois :
 
@@ -72,17 +72,17 @@ b) En cas de rénovation ou de réhabilitation d'immeuble, le crédit d'impôt e
 
 3. Lorsque l'investissement est réalisé dans les conditions prévues au 3 ou au 2° du 4 du I, le crédit d'impôt est accordé au titre de l'année au cours de laquelle l'investissement est mis à la disposition de l'entreprise locataire ou crédit-preneuse ou de l'organisme crédit-preneur.
 
-V. ― 1. Lorsque l'entreprise ou l'organisme qui exploite l'investissement réalise un chiffre d'affaires, apprécié selon les règles définies au premier alinéa du I de l'article 199 undecies B, inférieur, selon le cas, aux limites prévues à ce même alinéa ou à la limite fixée à la première phrase du premier alinéa du I de l'article 217 undecies, le bénéfice du crédit d'impôt est subordonné à l'exercice d'une option.
+V. – 1. Lorsque l'entreprise ou l'organisme qui exploite l'investissement réalise un chiffre d'affaires, apprécié selon les règles définies au premier alinéa du I de l'article 199 undecies B, inférieur, selon le cas, aux limites prévues à ce même alinéa ou à la limite fixée à la première phrase du premier alinéa du I de l'article 217 undecies, le bénéfice du crédit d'impôt est subordonné à l'exercice d'une option.
 
 Cette option est exercée par investissement et s'applique à l'ensemble des autres investissements d'un même programme. L'option est exercée par l'entreprise ou l'organisme qui exploite l'investissement, au plus tard à la date à laquelle celui-ci est mis en service ou est mis à sa disposition dans les cas mentionnés au 3 et au 2° du 4 du I ; l'option est alors portée à la connaissance du loueur ou du crédit-bailleur. Elle est formalisée dans la déclaration de résultat de l'exercice au cours duquel l'investissement a été mis en service ou mis à disposition et est jointe à la déclaration de résultat du loueur ou du crédit-bailleur de ce même exercice.
 
 2. L'exercice de l'option mentionnée au 1 emporte renonciation au bénéfice des dispositifs définis aux articles 199 undecies B et 217 undecies.
 
-VI. ― Le crédit d'impôt calculé par les sociétés de personnes mentionnées aux articles 8,238 bis L, 239 ter et 239 quater A ou les groupements mentionnés aux articles 238 ter, 239 quater, 239 quater B, 239 quater C et 239 quinquies qui ne sont pas soumis à l'impôt sur les sociétés peut être utilisé par leurs associés proportionnellement à leurs droits dans ces sociétés ou groupements, à condition qu'il s'agisse de redevables de l'impôt sur les sociétés ou de personnes physiques participant à l'exploitation au sens du 1° bis du I de l'article 156 ou, pour les investissements mentionnés au 4 du I du présent article, d'entreprises ou d'organismes mentionnés au premier alinéa du même 4.
+VI. – Le crédit d'impôt calculé par les sociétés de personnes mentionnées aux articles 8,238 bis L, 239 ter et 239 quater A ou les groupements mentionnés aux articles 238 ter, 239 quater, 239 quater B, 239 quater C et 239 quinquies qui ne sont pas soumis à l'impôt sur les sociétés peut être utilisé par leurs associés proportionnellement à leurs droits dans ces sociétés ou groupements, à condition qu'il s'agisse de redevables de l'impôt sur les sociétés ou de personnes physiques participant à l'exploitation au sens du 1° bis du I de l'article 156 ou, pour les investissements mentionnés au 4 du I du présent article, d'entreprises ou d'organismes mentionnés au premier alinéa du même 4.
 
-VII. ― Lorsque le montant total par programme d'investissements est supérieur aux seuils mentionnés au II quater et au III de l'article 217 undecies, le bénéfice du crédit d'impôt est conditionné à l'obtention d'un agrément préalable délivré par le ministre chargé du budget dans les conditions prévues au III du même article.
+VII. – Lorsque le montant total par programme d'investissements est supérieur aux seuils mentionnés au II quater et au III de l'article 217 undecies, le bénéfice du crédit d'impôt est conditionné à l'obtention d'un agrément préalable délivré par le ministre chargé du budget dans les conditions prévues au III du même article, sauf dans le cas où il s'agit d'un programme d'investissements mentionné au 3° du 4 du I du présent article réalisé par un organisme mentionné au 1 du I de l'article 244 quater X.
 
-VIII. ― 1. L'investissement ayant ouvert droit au crédit d'impôt doit être affecté, par l'entreprise qui en bénéficie, à sa propre exploitation pendant un délai de cinq ans, décompté à partir de la date de l'acquisition ou de la création du bien. Ce délai est réduit à la durée normale d'utilisation de l'investissement si cette durée est inférieure à cinq ans.
+VIII. – 1. L'investissement ayant ouvert droit au crédit d'impôt doit être affecté, par l'entreprise qui en bénéficie, à sa propre exploitation pendant un délai de cinq ans, décompté à partir de la date de l'acquisition ou de la création du bien. Ce délai est réduit à la durée normale d'utilisation de l'investissement si cette durée est inférieure à cinq ans.
 
 Si, dans le délai ainsi défini, l'investissement ayant ouvert droit au crédit d'impôt est cédé ou cesse d'être affecté à l'exploitation de l'entreprise utilisatrice ou si l'acquéreur cesse son activité, le crédit d'impôt fait l'objet d'une reprise au titre de l'exercice ou de l'année au cours duquel interviennent les événements précités.
 
@@ -106,13 +106,13 @@ En outre, lorsque l'investissement porte sur la construction ou l'acquisition d'
 
 Sont considérés comme à jour de leurs obligations fiscales et sociales les employeurs qui, d'une part, ont souscrit et respectent un plan d'apurement des cotisations restant dues et, d'autre part, acquittent les cotisations en cours à leur date normale d'exigibilité.
 
-IX. ― 1. Le présent article est applicable aux investissements mis en service à compter du 1er janvier 2015, et jusqu'au 31 décembre 2020, aux travaux de réhabilitation hôtelière achevés au plus tard à cette date et aux acquisitions d'immeubles à construire et constructions d'immeubles dont les fondations sont achevées au plus tard à cette date.
+IX. – 1. Le présent article est applicable aux investissements mis en service à compter du 1er janvier 2015, et jusqu'au 31 décembre 2020, aux travaux de réhabilitation hôtelière achevés au plus tard à cette date et aux acquisitions d'immeubles à construire et constructions d'immeubles dont les fondations sont achevées au plus tard à cette date.
 
 L'extinction du crédit d'impôt aux dates prévues au présent IX n'intervient, conformément aux derniers alinéas du VI de l'article 199 undecies B et du V de l'article 217 undecies, que dans le cas où un dispositif pérenne permettant aux entreprises ultramarines d'échelonner sur cinq ans le paiement de leurs investissements productifs mentionnés au présent article, sans recourir à un emprunt bancaire et à un prix de revient diminué d'un taux d'abattement équivalent aux taux prévus au III, a été créé à la date de ces échéances.
 
 2. Un décret fixe les conditions d'application du présent article, notamment les obligations déclaratives incombant aux entreprises et organismes mentionnés au 4 du I.
 
-X. - Le bénéfice du crédit d'impôt prévu au I est subordonné au respect du règlement (UE) n° 651/2014 de la Commission, du 17 juin 2014, précité et le crédit d'impôt ne s'applique pas aux investissements exploités par des entreprises en difficulté, au sens du même règlement.
+X. – Le bénéfice du crédit d'impôt prévu au I est subordonné au respect du règlement (UE) n° 651/2014 de la Commission, du 17 juin 2014, déclarant certaines catégories d'aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité et le crédit d'impôt ne s'applique pas aux investissements exploités par des entreprises en difficulté, au sens du même règlement.
 
 NOTA :
 

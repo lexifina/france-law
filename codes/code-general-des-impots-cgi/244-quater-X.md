@@ -1,6 +1,6 @@
 # Article 244 quater X
 
-I. ― 1. Sur option, les organismes d'habitations à loyer modéré mentionnés à l'article L. 411-2 du code de la construction et de l'habitation, à l'exception des sociétés anonymes coopératives d'intérêt collectif pour l'accession à la propriété, les sociétés d'économie mixte exerçant une activité immobilière outre-mer et les organismes mentionnés à l'article L. 365-1 du même code peuvent bénéficier d'un crédit d'impôt à raison de l'acquisition ou de la construction de logements neufs dans les départements d'outre-mer, lorsqu'ils respectent les conditions suivantes :
+I. – 1. Sur option, les organismes d'habitations à loyer modéré mentionnés à l'article L. 411-2 du code de la construction et de l'habitation, à l'exception des sociétés anonymes coopératives d'intérêt collectif pour l'accession à la propriété, les sociétés d'économie mixte exerçant une activité immobilière outre-mer et les organismes mentionnés à l'article L. 365-1 du même code peuvent bénéficier d'un crédit d'impôt à raison de l'acquisition ou de la construction de logements neufs dans les départements d'outre-mer, lorsqu'ils respectent les conditions suivantes :
 
 a) Les logements sont donnés en location nue ou meublée par l'organisme mentionné au premier alinéa, dans les six mois de leur achèvement ou de leur acquisition, si elle est postérieure, et pour une durée au moins égale à cinq ans, à des personnes physiques qui en font leur résidence principale ou confiés en gestion à un centre régional des œuvres universitaires et scolaires pour le logement d'étudiants bénéficiaires de la bourse d'enseignement supérieur sur critères sociaux.
 
@@ -30,17 +30,17 @@ b) L'organisme mentionné au premier alinéa du 1 aurait pu bénéficier du cré
 
 4. Ouvrent également droit au bénéfice du crédit d'impôt les travaux de rénovation ou de réhabilitation des logements satisfaisant aux conditions fixées au 1, achevés depuis plus de vingt ans et situés dans les quartiers mentionnés au II de l'article 9-1 de la loi n° 2003-710 du 1er août 2003 d'orientation et de programmation pour la ville et la rénovation urbaine, permettant aux logements d'acquérir des performances techniques voisines de celles des logements neufs ou permettant leur confortation contre le risque sismique.
 
-II. ― 1. Le crédit d'impôt est assis sur le prix de revient des logements, minoré, d'une part, des taxes et des commissions d'acquisition versées et, d'autre part, des subventions publiques reçues. Ce montant est retenu dans la limite mentionnée au 5 de l'article 199 undecies A, appréciée par mètre carré de surface habitable et, dans le cas des logements mentionnés au second alinéa du a du 1 du I, par mètre carré de surface des parties communes dans lesquelles des prestations de services sont proposées.
+II. – 1. Le crédit d'impôt est assis sur le prix de revient des logements, minoré, d'une part, des taxes et des commissions d'acquisition versées et, d'autre part, des subventions publiques reçues. Ce montant est retenu dans la limite mentionnée au 5 de l'article 199 undecies A, appréciée par mètre carré de surface habitable et, dans le cas des logements mentionnés au second alinéa du a du 1 du I, par mètre carré de surface des parties communes dans lesquelles des prestations de services sont proposées.
 
 Un décret précise, en tant que de besoin, la nature des sommes retenues pour l'appréciation du prix de revient mentionné au premier alinéa.
 
 2. Dans le cas mentionné au 3 du I, le crédit d'impôt est assis sur le prix de revient des logements, majoré du coût des travaux de réhabilitation et minoré, d'une part, des taxes et des commissions d'acquisition versées et, d'autre part, des subventions publiques reçues. La limite mentionnée au 1 est applicable.
 
-3. Dans le cas mentionné au 4 du I, le crédit d'impôt est assis sur le prix de revient des travaux de réhabilitation minoré, d'une part, des taxes versées et, d'autre part, des subventions publiques reçues. Ce montant est retenu dans la limite d'un plafond de 20 000 € par logement.
+3. Dans le cas mentionné au 4 du I, le crédit d'impôt est assis sur le prix de revient des travaux de réhabilitation minoré, d'une part, des taxes versées et, d'autre part, des subventions publiques reçues. Ce montant est retenu dans la limite d'un plafond de 50 000 € par logement.
 
-III. ― Le taux du crédit d'impôt est fixé à 40 %. Toutefois, ce taux est fixé à 20 % pour les travaux mentionnés au 4 du I.
+III. – Le taux du crédit d'impôt est fixé à 40 %.
 
-IV. ― 1. Le crédit d'impôt prévu au I est accordé au titre de l'année d'acquisition de l'immeuble.
+IV. – 1. Le crédit d'impôt prévu au I est accordé au titre de l'année d'acquisition de l'immeuble.
 
 2. Toutefois :
 
@@ -50,7 +50,7 @@ b) En cas de réhabilitation d'immeuble, le crédit d'impôt est accordé au tit
 
 3. Lorsque l'investissement est réalisé dans les conditions prévues au 2 du I, le crédit d'impôt est accordé au titre de l'année au cours de laquelle le bien est mis à la disposition du crédit-preneur.
 
-V. ― 1. L'option mentionnée au 1 du I est exercée par investissement et s'applique à l'ensemble des autres investissements d'un même programme. L'option est exercée par l'organisme qui exploite l'investissement au plus tard l'année précédant l'achèvement des fondations.
+V. – 1. L'option mentionnée au 1 du I est exercée par investissement et s'applique à l'ensemble des autres investissements d'un même programme. L'option est exercée par l'organisme qui exploite l'investissement au plus tard l'année précédant l'achèvement des fondations.
 
 Cette option doit être exercée auprès de l'administration avant la date limite de dépôt de la déclaration de résultats de l'exercice précédant l'achèvement des fondations.
 
@@ -60,7 +60,7 @@ Dans la situation mentionnée au 2 du I, l'option est portée à la connaissance
 
 VI. (Abrogé)
 
-VII. ― 1. Le crédit d'impôt fait l'objet d'une reprise au titre de l'année au cours de laquelle :
+VII. – 1. Le crédit d'impôt fait l'objet d'une reprise au titre de l'année au cours de laquelle :
 
 a) L'une des conditions mentionnées au I n'est pas respectée ;
 
@@ -70,11 +70,11 @@ b) Les logements mentionnés au I sont cédés, si cette cession intervient avan
 
 A défaut, le crédit d'impôt acquis au titre de cet investissement fait l'objet d'une reprise au titre de l'année au cours de laquelle intervient le terme de ce délai de deux ans.
 
-VIII. ― 1. Le présent article est applicable aux acquisitions, constructions ou réhabilitations d'immeubles effectuées à compter du 1er juillet 2014, et jusqu'au 31 décembre 2020. Pour l'application du présent VIII, les constructions s'entendent des immeubles ayant fait l'objet d'une déclaration d'ouverture de chantier. L'extinction du dispositif de crédit d'impôt aux dates prévues au présent VIII n'intervient, conformément au dernier alinéa du IX de l'article 199 undecies C, que dans le cas où un dispositif pérenne permettant aux entreprises ultramarines d'échelonner sur huit ans le paiement de leurs investissements productifs mentionnés au présent article, sans recourir à un emprunt bancaire et à un prix de revient diminué d'un taux d'abattement équivalent au taux prévu au III, a été créé à la date de ces échéances.
+VIII. – 1. Le présent article est applicable aux acquisitions, constructions ou réhabilitations d'immeubles effectuées à compter du 1er juillet 2014, et jusqu'au 31 décembre 2020. Pour l'application du présent VIII, les constructions s'entendent des immeubles ayant fait l'objet d'une déclaration d'ouverture de chantier. L'extinction du dispositif de crédit d'impôt aux dates prévues au présent VIII n'intervient, conformément au dernier alinéa du IX de l'article 199 undecies C, que dans le cas où un dispositif pérenne permettant aux entreprises ultramarines d'échelonner sur huit ans le paiement de leurs investissements productifs mentionnés au présent article, sans recourir à un emprunt bancaire et à un prix de revient diminué d'un taux d'abattement équivalent au taux prévu au III, a été créé à la date de ces échéances.
 
 2. Un décret fixe les conditions d'application du présent article, notamment les obligations déclaratives incombant aux organismes mentionnés au premier alinéa du 1 du I.
 
-IX.-Le bénéfice du crédit d'impôt prévu au I est subordonné au respect de la décision 2012/21/ UE de la Commission, du 20 décembre 2011, relative à l'application de l'article 106, paragraphe 2, du traité sur le fonctionnement de l'Union européenne aux aides d'Etat sous forme de compensations de service public octroyées à certaines entreprises chargées de la gestion de services d'intérêt économique général.
+IX. – Le bénéfice du crédit d'impôt prévu au I est subordonné au respect de la décision 2012/21/UE de la Commission, du 20 décembre 2011, relative à l'application de l'article 106, paragraphe 2, du traité sur le fonctionnement de l'Union européenne aux aides d'Etat sous forme de compensations de service public octroyées à certaines entreprises chargées de la gestion de services d'intérêt économique général.
 
 NOTA :
 

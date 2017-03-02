@@ -118,6 +118,8 @@ Pour l'application du a, un décret précise les aéroports faisant partie d'un 
 
 4. La taxe de solidarité sur les billets d'avion est recouvrée dans les conditions fixées au V. Elle est reversée mensuellement à l'Agence française de développement.
 
+5. La taxe de solidarité sur les billets d'avion n'est pas perçue au départ des collectivités d'outre-mer de Saint-Barthélemy et de Saint-Martin.
+
 NOTA :
 
 Modifications effectuées en conséquence de l'article 110 de la loi n° 2009-1673 du 30 décembre 2009
