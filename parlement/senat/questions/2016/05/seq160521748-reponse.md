@@ -1,0 +1,9 @@
+# Réponse à la question SEQ160521748
+
+- Question : [SEQ160521748](seq160521748.md) — Difficultés de mise en œuvre de la réforme de l'asile concernant l'enregistrement des demandes
+
+## Réponse
+
+*Intérieur, JO du 2017-03-02, page 894*
+
+La loi n° 2015-925 du 29 juillet 2015 relative à la réforme du droit d'asile a prévu que l'enregistrement de la demande d'asile a lieu au plus tard trois jours ouvrés après la présentation de celle-ci à l'autorité administrative compétente, sans condition préalable de domiciliation (article L. 741-1 du code de l'entrée et du séjour des étrangers et du droit d'asile). En 2016, le délai moyen d'enregistrement au plan national, bien que supérieur au délai légal de trois jours, est resté maîtrisé. Ce délai moyen masque toutefois des disparités entre les différents territoires. La très forte concentration des flux sur certains guichets uniques, en particulier au sein de la région Île-de-France, est en effet de nature à allonger ce délai d'enregistrement. En 2016, les huit guichets uniques franciliens ont enregistré 29 733 demandes d'asile, soit 38,44 %du flux national. Afin de répondre à cette situation et garantir aux demandeurs d'asile un accès plus rapide à la procédure, les effectifs des guichets uniques franciliens ont été significativement renforcés. En outre, une expérimentation est engagée depuis le 5 juillet 2016, qui vise à mutualiser les prises de rendez-vous au sein de l'ensemble des guichets uniques de la région. Cette démarche, qui a par ailleurs donné lieu à une uniformisation des modalités de fonctionnement des structures de pré-accueil franciliennes, a produit des résultats positifs. Les efforts en vue de raccourcir les délais d'accès à la procédure seront poursuivis tout au long de l'année 2017, en particulier en Île-de-France.
