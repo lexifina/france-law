@@ -1,0 +1,9 @@
+# Réponse à la question SEQ170224908
+
+- Question : [SEQ170224908](seq170224908.md) — Problèmes engendré par le prolongement de la durée de validité des cartes nationales d'identité
+
+## Réponse
+
+*Affaires étrangères, JO du 2017-03-02, page 822*
+
+À la suite de la décision du ministère de l'intérieur d'allonger la durée de validité de la CNI, les autorités étrangères acceptant ce document à l'entrée sur leur sol ont été dûment informées des nouvelles dispositions relatives à la durée de validité des CNIS dès l'entrée en vigueur de la mesure, au 1er janvier 2014. Certains États ont officiellement accepté de reconnaître les titres concernés, d'autres n'ont pas fait connaître leur décision. Ultérieurement, la Belgique et la Norvège ont fait part de leur non-reconnaissance des CNIS dont la validité faciale était dépassée. Suite à cette décision, et conscient des difficultés rencontrées par les usagers détenteurs de cartes nationales d'identité concernées, le ministère des affaires étrangères et du développement international a décidé, en octobre 2016, de procéder au renouvellement des documents dont la validité faciale est dépassée pour les ressortissants français résidant dans l'Union européenne, non détenteurs d'un passeport. Le ministère de l'intérieur, informé de cette décision, a de son côté donné instruction aux préfectures de procéder au renouvellement des titres concernés pour les usagers qui ne possèdent pas de passeport en cours de validité et qui justifient d'un voyage dans un pays qui ne reconnaît pas l'extension de validité des CNIS.
