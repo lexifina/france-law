@@ -1,0 +1,9 @@
+# Réponse à la question SEQ151219076
+
+- Question : [SEQ151219076](seq151219076.md) — Locaux modulaires et notion d'ouvrage public
+
+## Réponse
+
+*Intérieur, JO du 2017-03-02, page 877*
+
+Aux termes de l'article 5 de l'ordonnance n° 2015-899 du 23 juillet 2015 relative aux marchés publics, les biens achetés en crédit-bail ou en location-vente ont la nature de marchés de fournitures, et obéissent aux procédures et aux seuils afférents à ces marchés. Ces dispositions s'appliquent par conséquent à des locaux modulaires s'ils ont été acquis sous forme de location avec option d'achat. En revanche, la procédure de marché ne préjuge pas de la nature immobilière ou non de tels locaux, et notamment de leur nature d'ouvrage public. De fait, conformément aux dispositions des articles L. 2111-1 et suivants du code général de la propriété des personnes publiques (CG3P), ces locaux seront susceptibles de relever du domaine public dès lors qu'ils appartiendront à la personne publique et seront affectés à un service public, à condition toutefois qu'ils « fassent l'objet d'un aménagement indispensable à l'exécution des missions de ce service public ». Cette condition suppose donc que le transfert de propriété ait eu lieu. Cependant, les locaux considérés sont affectés à l'usage de bureaux. Dans ce cas particulier, l'article L. 2211-1 du CG3P fait relever ces immeubles du domaine privé, sauf s'ils forment « un ensemble indivisible avec des biens immobiliers appartenant au domaine public », le fait qu'ils se situent sur un terrain appartenant à une personne publique ne les faisant pas nécessairement relever du domaine public. De tels locaux relèveront donc du domaine privé, sauf à supposer, ce qui est en l'espèce peu probable, qu'ils forment un ensemble indivisible avec un immeuble faisant partie du domaine public (exemple : CAA Paris, 31 juillet 2012, Chambre arbitrale internationale de Paris, n° 12PA00616).
