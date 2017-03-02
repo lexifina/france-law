@@ -88,9 +88,7 @@ Adjoint au chef du service de gestion des personnels de la police nationale.
 
 |
 
-Adjoint au chef du service de gestion des personnels administratifs, techniques et scientifiques, chef du bureau du dialogue social, des affaires statutaires et indemnitaires.
-
-|
+Chef du service de gestion des personnels administratifs, techniques et scientifiques. |
 
 50
 
@@ -264,7 +262,7 @@ Direction de l'ordre public et de la circulation.
 
 |
 
-Chef de la mission rationalisation des missions support.
+Chef de cabinet.
 
 |
 
