@@ -1,0 +1,9 @@
+# Réponse à la question SEQ160923135
+
+- Question : [SEQ160923135](seq160923135.md) — Lutte numérique contre le terrorisme
+
+## Réponse
+
+*Intérieur, JO du 2017-03-02, page 904*
+
+La question de la dimension numérique du terrorisme, aujourd'hui primordiale, mérite d'être définie précisément : au coeur de l'actualité, le cyberjihadisme consiste en l'utilisation de l'outil cyber par un individu ou en soutien à l'action d'un groupe à idéologie terroriste, à des fins de propagande, recrutement, organisation. Il convient de distinguer cette menace, la plus fréquente, du cyberterrorisme, qui désigne plus restrictivement l'utilisation, par un individu ou un groupe terroriste, du vecteur cyber à des fins violentes et destructrices (sabotage informatique aux conséquences physiques, pouvant entraîner des pertes humaines et/ou matérielles), inusité à ce jour. Couverte dans ses détails opérationnels par le secret de la défense nationale, l'action antiterroriste de la DGSI est déployée sur la totalité de ces spectres : En matière de renseignement, la DGSI lutte contre le terrorisme avec tous les moyens que lui confère le code de la sécurité intérieure. Ainsi, la loi n° 2015-912 du 24 juillet 2015 autorise la mise en oeuvre de techniques de renseignement dans le cyberespace et le recueil des données numériques. La recherche, la collecte, l'exploitation et l'analyse des renseignements issus des espaces numériques sont aujourd'hui, en renseignement, des composantes essentielles de l'action de la DGSI. Plusieurs de ses structures spécialisées y concourent, réunissant des expertises en matière de lutte contre le terrorisme et en technologies numériques. Parallèlement, sur le plan judiciaire, les unités d'enquête de la DGSI, sous l'autorité du parquet antiterroriste et des magistrats instructeurs, recourent à toute la gamme des techniques d'enquête informatique qui lui sont offertes par le code de procédure pénale.
