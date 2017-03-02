@@ -1,0 +1,9 @@
+# Réponse à la question SEQ161124045
+
+- Question : [SEQ161124045](seq161124045.md) — Notion de domiciliation dans la commune
+
+## Réponse
+
+*Intérieur, JO du 2017-03-02, page 918*
+
+La fixation de tarifs différents à diverses catégories d'usagers pour un même service rendu constitue une rupture d'égalité. Cependant, selon la jurisprudence du Conseil constitutionnel, le principe d'égalité ne s'oppose ni à ce que l'administration règle de façon distincte des situations différentes ni à ce qu'il déroge à l'égalité pour des raisons d'intérêt général, pourvu que, dans l'un et l'autre cas, la différence de traitement qui en résulte soit en rapport direct avec l'objet de l'acte qui l'établit. Dès lors, la fixation de tarifs différenciés pour la location d'une salle communale doit être justifiée au regard des critères précités et une différence tarifaire fondée sur le seul lieu de résidence ou de domicile (c'est-à-dire le lieu du principal établissement au sens de l'article 102 du code civil, qui peut notamment se manifester par l'inscription sur les listes électorales dans la commune), ne saurait justifier à elle seule une différence de traitement. Des différences tarifaires sont néanmoins possibles en fonction du lieu de résidence, dès lors que le service est financé par l'impôt et qu'à ce titre, le critère de résidence recouvre la qualité de contribuable local. Les résidents peuvent en effet bénéficier d'un tarif réduit dans la mesure où celui-ci constitue la contrepartie de la prise en charge du service par le budget de la collectivité (CE, 5 octobre 1984, req. n° 47875). Dans ces conditions, la qualité de résident peut justifier un tarif réduit pour la location d'une salle communale en raison de la prise en charge de son entretien par le budget communal. En revanche, une distinction entre les contribuables locaux, selon qu'ils sont domiciliés ou simplement résidents dans la commune, n'apparaît pas justifiée par un motif d'intérêt général.
