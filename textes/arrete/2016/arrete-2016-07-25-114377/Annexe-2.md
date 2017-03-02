@@ -1,7 +1,5 @@
 # Article Annexe 2
 
-COMPÉTENCES DES PERSONNES PHYSIQUES
-
 I. - Qualifications professionnelles pré-requises pour la certification avec mention
 
 Les candidats à la certification avec mention doivent posséder un diplôme sanctionnant une formation du niveau de l'enseignement post-secondaire d'une durée minimale de deux ans à temps plein ou d'une durée équivalente à temps partiel dans le domaine des techniques du bâtiment, dispensée dans une université ou un établissement d'enseignement supérieur ou dans un autre établissement de niveau équivalent, ou un titre professionnel équivalent. Ce diplôme ou titre doit être complété par la preuve par tous moyens d'une expérience professionnelle dans le domaine des techniques du bâtiment. Les durées minimales d'expérience professionnelle pour les personnes titulaires d'un diplôme ou titre sanctionnant une formation d'une durée de cinq, trois et deux ans dont respectivement de un, deux et trois ans.
@@ -59,3 +57,11 @@ La personne certifiée titulaire de la mention définie à l'article 2 du prése
 - connaît les normes et les méthodes de repérages devant satisfaire à la mise en œuvre des obligations visées à l'article R. 1334-22 du code de la santé publique ainsi que des examens visuels visés à l'article R. 1334-29-3 du même code ;
 
 - connaît les caractéristiques des réglementations techniques des immeubles de grande hauteur, des établissements recevant du public de catégorie 1 à 4, des immeubles de travail hébergeant plus de 300 salariés et des bâtiments industriels qui impactent la réalisation des missions relevant de la portée de la certification avec mention.
+
+NOTA :
+
+Par décision n° 402345, 410094 du 24 juillet 2019 du Conseil d’Etat statuant au contentieux,(ECLI:FR:CECHS:2019:402345.20190724), l'arrêté ci-dessus, daté du 24 février 2017, modifiant l'arrêté du 25 juillet 2016 définissant les critères de certification des compétences des personnes physiques opérateurs de repérages, d'évaluation périodique de l'état de conservation des matériaux et produits contenant de l'amiante, et d'examen visuel après travaux dans les immeubles bâtis et les critères d'accréditation des organismes de certification, est annulé.
+
+La décision d'annulation susmentionnée est consultable à la page suivante:
+
+https://www.legifrance.gouv.fr/affichJuriAdmin.do?idTexte=CETATEXT000038815750

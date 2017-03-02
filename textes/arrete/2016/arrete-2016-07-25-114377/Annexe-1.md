@@ -1,7 +1,5 @@
 # Article Annexe 1
 
-EXIGENCES COMPLÉMENTAIRES À LA NORME NF EN ISO/CEI 17024 À SATISFAIRE PAR L'ORGANISME DE CERTIFICATION
-
 1. Dispositif particulier de certification
 
 1.1. Fonctionnement de la structure appropriée
@@ -175,3 +173,11 @@ Nul ne peut se présenter à un examen théorique ou pratique s'il a échoué mo
 Cette évaluation tient aussi compte de l'état de suivi des réclamations et plaintes concernant la personne certifiée dans l'usage de sa certification, ainsi que de l'état des suites données aux résultats de la surveillance.
 
 La décision en matière de renouvellement de la certification est traitée comme au paragraphe 3.3.
+
+NOTA :
+
+Par décision n° 402345, 410094 du 24 juillet 2019 du Conseil d’Etat statuant au contentieux,(ECLI:FR:CECHS:2019:402345.20190724), l'arrêté ci-dessus, daté du 24 février 2017, modifiant l'arrêté du 25 juillet 2016 définissant les critères de certification des compétences des personnes physiques opérateurs de repérages, d'évaluation périodique de l'état de conservation des matériaux et produits contenant de l'amiante, et d'examen visuel après travaux dans les immeubles bâtis et les critères d'accréditation des organismes de certification, est annulé.
+
+La décision d'annulation susmentionnée est consultable à la page suivante:
+
+https://www.legifrance.gouv.fr/affichJuriAdmin.do?idTexte=CETATEXT000038815750
