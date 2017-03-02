@@ -1,0 +1,9 @@
+# Réponse à la question SEQ161023696
+
+- Question : [SEQ161023696](seq161023696.md) — Locaux commerciaux commercialisés sous le régime de la vente en l'état futur d'achèvement
+
+## Réponse
+
+*Intérieur, JO du 2017-03-02, page 912*
+
+Pour satisfaire leurs besoins, les collectivités territoriales et leurs groupements se portent fréquemment acquéreurs de biens immobiliers au moyen de la vente en l'état futur d'achèvement (VEFA), définie à l'article L. 1601-3 du code civil. La jurisprudence permet, sous certaines conditions, l'emploi de ce régime juridique. En ce sens, l'arrêt CE 8 février 1991 Région Midi-Pyrénées - n° 57679 précise ainsi qu'« aucune disposition législative n'interdit aux collectivités publiques de procéder à l'acquisition de biens immobiliers en utilisant le contrat de vente en l'état futur d'achèvement prévu à l'article 1601-3 du code civil ». La vente par une commune ou par un établissement public de coopération intercommunale à fiscalité propre d'un bien sous le régime de la VEFA est régie par les articles L. 1511-3 et R. 1511-4 et suivants du code général des collectivités territoriales (CGCT) relatifs aux aides à l'immobilier d'entreprise. Ces articles attribuent au bloc communal la compétence de définition des aides et régimes d'aides à l'immobilier d'entreprise et la décision d'octroi des subventions afférentes. Le recours à la VEFA, ses conditions ainsi que ses principales caractéristiques doivent être approuvés par une délibération de l'organe délibérant de la commune vendeuse (articles L. 2241-1 et suivants CGCT) ou de l'EPCI vendeur (article L. 5211-37 CGCT). Cette délibération est prise après avis obligatoire de France Domaine qui se prononce sur les conditions financières de la vente. La personne publique vendeuse n'est cependant pas tenue de se conformer à l'avis émis par France Domaine quant au prix de cession.
