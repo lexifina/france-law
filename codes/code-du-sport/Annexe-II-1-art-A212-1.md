@@ -1202,6 +1202,54 @@ Conduite de cycles de découverte, d'initiation et d'apprentissage en roller. |
 
 |
 
+C.3.1. Brevet professionnel de la jeunesse, de l'éducation populaire et du sport, spécialité “éducateur sportif”
+
+INTITULÉ DU DIPLÔME |
+
+CONDITIONS D'EXERCICE |
+
+LIMITES DES CONDITIONS D'EXERCICE |
+
+BP JEPS, spécialité "éducateur sportif", mention "activités physiques pour tous". |
+
+Animation à destination de différents publics à travers notamment la découverte des activités physiques. |
+
+|
+
+BP JEPS, spécialité "éducateur sportif", mention "activités gymniques", option "activités gymniques acrobatiques". |
+
+Encadrement en sécurité des activités de découverte et d'animation des activités gymniques.
+
+Conduite de cycles d'apprentissage des activités gymniques.
+
+Entraînement des activités gymniques acrobatiques, jusqu'au premier niveau de compétition fédéral. |
+
+|
+
+BP JEPS, spécialité "éducateur sportif", mention "activités gymniques", option "gymnastique rythmique". |
+
+Encadrement en sécurité des activités de découverte et d'animation des activités gymniques.
+
+Conduite de cycles d'apprentissage des activités gymniques.
+
+Entraînement de la gymnastique rythmique, jusqu'au premier niveau de compétition fédéral. |
+
+|
+
+BP JEPS, spécialité "éducateur sportif", mention "activités de la forme", option "cours collectifs". |
+
+Découverte d'activités de loisir et d'animation des activités de la forme.
+
+Encadrement, initiation et conduite de cycles d'apprentissage des activités de la forme en cours collectif. |
+
+|
+
+BP JEPS, spécialité "éducateur sportif", mention "activités de la forme", option "haltérophilie, musculation". |
+
+Découverte d'activités de loisir et d'animation des activités de la forme.
+
+Encadrement, initiation et conduite de cycles d'apprentissage en musculation, en cardio-training et en haltérophilie, jusqu'au premier niveau de compétition fédéral. |
+
 C.4. - Diplôme d'Etat de la jeunesse, de l'éducation populaire et du sport et diplôme d'Etat
 
 supérieur de la jeunesse, de l'éducation populaire et du sport (DE JEPS ET DES JEPS)
@@ -1542,6 +1590,22 @@ Encadrement et entraînement de joueurs de haut niveau en football dans un club 
 
 |
 
+D-4. Titre à finalité professionnelle délivré par la Fédération française de natation
+
+INTITULÉ DU TITRE |
+
+CONDITIONS D'EXERCICE |
+
+LIMITES DES CONDITIONS D'EXERCICE |
+
+Moniteur sportif de natation. |
+
+Encadrement en autonomie de séances d'apprentissage de la natation et de séances d'entraînement en natation jusqu'au niveau régional. |
+
+A l'exclusion du temps scolaire contraint.
+
+A l'exclusion de la surveillance des lieux de pratique. |
+
 E. - Certificats de qualification délivrés par les branches professionnelles
 
 E-1. Certificats de qualification délivrés par la Commission paritaire nationale de l'emploi des entreprises équestres (CPNE-EE)
@@ -1835,6 +1899,28 @@ A l'exclusion des équipes évoluant :
 Dans la limite de 2 équipes ;
 
 A l'exclusion du temps scolaire contraint.
+
+|
+
+CQP "technicien sportif de basket-ball". |
+
+Entraînement et encadrement en compétition d'équipes évoluant majoritairement aux niveaux régional et départemental. |
+
+Activité exercée à titre secondaire.
+
+A l'exclusion des équipes évoluant :
+
+- en pro A et en pro B ;
+
+- en nationale masculine 1 et nationale masculine 2 ;
+
+- en ligue féminine ;
+
+- en nationale féminine 1 et nationale féminine 2.
+
+Dans la limite de 2 équipes.
+
+- à l'exclusion du temps scolaire contraint.
 
 |
 
@@ -2350,9 +2436,15 @@ Encadrement en autonomie des activités de vol à plat en soufflerie et des acti
 
 Dans la limite d'un pratiquant, dans le cas où les pratiquants ne sont pas autonomes. |
 
+CQP "moniteur en sport adapté". |
+
+Encadrement en autonomie des activités en sport adapté aux personnes en situation de handicap mental ou psychique, de l'initiation jusqu'au premier niveau de compétition fédéral. |
+
+|
+
 F. - Diplômes délivrés par le ministère chargé de la santé
 
-INTITULÉ DU CERTIFICAT
+INTITULÉ DU DIPLÔME
 
 |
 
