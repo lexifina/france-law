@@ -81,39 +81,3 @@ D'autres populations de nématodes à kystes de la pomme de terre d'intérêt lo
 18. Lorsque les résultats des tests effectués au cours de la première année indiquent qu'une variété est totalement sensible à un pathotype, il n'est pas nécessaire de répéter ces tests pendant une seconde année.
 
 19. Les résultats des tests sont confirmés par au moins un autre test réalisé au cours d'une autre année. La moyenne arithmétique de la sensibilité relative pour les deux années est utilisée pour établir le degré de résistance selon la notation standard.
-
-Section III
-
-Tableau des variétés de pommes de terre résistantes
-
-VARIÉTÉS DE POMMES DE TERRE
-
-|
-
-ESPÈCES, PATHOTYPES,
-
-groupes de virulence,
-
-populations auxquels
-
-les variétés sont résistantes
-
-|
-
-DEGRÉ DE RÉSISTANCE
-
-|
-
-ANNÉE DE LA DÉTERMINATION
-
-de ce degré de résistance
-
-|
-
-|
-
-|
-
-|
-
-|
