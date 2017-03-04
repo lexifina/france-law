@@ -118,7 +118,7 @@ Communes de Tart-le-Haut, Urcy.
 
 Mouvements de terrain différentiels consécutifs à la sécheresse et à la réhydratation des sols du 1er avril 2015 au 30 septembre 2015
 
-Communes d'Aiserey, Arceau, Auxey-Duresses, Auxonne, Belleneuve, Boux-sous-Salmaise, Brognon, Broin, Chatellenot, Cirey-les-Pontaillers, Clénay, Collonges-les-Premières, Commarin, Corcelles-les-Arts, Crépand, Ebaty, Fauverney, Fontaine-lès-Dijon, Frolois, Gerland, Labergement-Foigney, Laignes, Longecourt, Magny-lès-Villers, Marcilly-sur-Tille, Marsannay-la-Côte, Merceuil, Montagny-lès-Beaune, Motte-Ternant (La), Neuilly-lès-Dijon, Noiron-sur-Bèze, Nuits-Saint-Georges, Oisilly, Orgeux, Painblanc, Pont, Pontailer-sur-Saône, Pothières, Pouilly-sur-Saône, Quétigny, Remilly-sur-Tille, Renève, Rouvres-en-Plaine, Saint-Apollinaire, Saint-Bernard, Saint-Philibert, Savouges, Semur-en-Auxois, Sennecey-lès-Dijon, Ladoix-Serrigny, Soissons-sur-Nacey, Sussey, Talant, Talmay, Tart-le-Bas, Trochères, Trouhans, Varois-et-Chaignot, Villebichot, Villers-la-Faye, Villers-les-Pots, Vonges.
+Communes d'Aiserey, Arceau, Auxey-Duresses, Auxonne, Belleneuve, Boux-sous-Salmaise, Brognon, Broin, Chatellenot, Cirey-les-Pontaillers, Clénay, Collonges-les-Premières, Commarin, Corcelles-les-Arts, Crépand, Ebaty, Fauverney, Fontaine-lès-Dijon, Frolois, Gerland, Labergement-Foigney, Laignes, Longecourt-en-Plaine, Magny-lès-Villers, Marcilly-sur-Tille, Marsannay-la-Côte, Merceuil, Montagny-lès-Beaune, Motte-Ternant (La), Neuilly-lès-Dijon, Noiron-sur-Bèze, Nuits-Saint-Georges, Oisilly, Orgeux, Painblanc, Pont, Pontailler-sur-Saône, Pothières, Pouilly-sur-Saône, Quétigny, Remilly-sur-Tille, Renève, Rouvres-en-Plaine, Saint-Apollinaire, Saint-Bernard, Saint-Philibert, Savouges, Semur-en-Auxois, Sennecey-lès-Dijon, Ladoix-Serrigny, Soissons-sur-Nacey, Sussey, Talant, Talmay, Tart-le-Bas, Trochères, Trouhans, Varois-et-Chaignot, Villebichot, Villers-la-Faye, Villers-les-Pots, Vonges.
 
 Mouvements de terrain différentiels consécutifs à la sécheresse et à la réhydratation des sols du 1er avril 2015 au 31 décembre 2015
 
@@ -126,7 +126,7 @@ Communes d'Athée, Darcey.
 
 Mouvements de terrain différentiels consécutifs à la sécheresse et à la réhydratation des sols du 1er juillet 2015 au 30 septembre 2015
 
-Communes de Barges, Beire-le-Fort, Bézouotte, Boncourt-le-Bois, Bouze-lès-Beaune, Brazay-en-Plaine, Bretenière, Cessey-sur-Tille, Champdôtre, Chevigny-Saint-Sauveur, Corcelles-lès-Cîteaux, Corgengoux, Couternon, Crimolois, Dijon, Fenay, Genlis, Gilly-lès-Cîteaux, Gissey-sous-Flavigny, Lanthes, Magny-sur-Tille, Marsannay-le-Bois, Maxilly-sur-Saône, Mirebeau-sur-Bèze, Montbard, Montmançon, Ouges, Périgny-lès Dijon, Pluvet, Thorey-en-Plaine, Thorey-sous-Charny, Venarey-les-Laumes, Villars-et-Villenotte, Vitteaux.
+Communes de Barges, Beire-le-Fort, Bézouotte, Boncourt-le-Bois, Bouze-les-Beaune, Brazey-en-Plaine, Bretenière, Cessey-sur-Tille, Champdôtre, Chevigny-Saint-Sauveur, Corcelles-lès-Cîteaux, Corgengoux, Couternon, Crimolois, Dijon, Fenay, Genlis, Gilly-lès-Cîteaux, Gissey-sous-Flavigny, Lanthes, Magny-sur-Tille, Marsannay-le-Bois, Maxilly-sur-Saône, Mirebeau-sur-Bèze, Montbard, Montmançon, Ouges, Perrigny-les-Dijon, Pluvet, Thorey-en-Plaine, Thorey-sous-Charny, Venarey-les-Laumes, Villars-et-Villenotte, Vitteaux.
 
 DÉPARTEMENT DE LA DRÔME
 
@@ -486,7 +486,7 @@ Communes de Ciry-le-Noble, Couches.
 
 Mouvements de terrain différentiels consécutifs à la sécheresse et à la réhydratation des sols du 1er juillet 2015 au 30 septembre 2015
 
-Communes de Blanzy, Charbonnières, Charnay-lès-Mâcon, Châtenoy-en-Bresse, Demigny, Dracy-Saint-Loup, Fleury-la-Montagne, Frangy-en-Bresse, Gergy-Hurigny, Igé, Mésey-sur-Grosnes, Paray-le-Monial, Prissé, Ratte, Roche-Vineuse (La), Rully, Saint-Boil, Saint-Martin-en-Bresse, Toulon-sur-Arroux, Tournus, Varennes-Saint-Sauveur.
+Communes de Blanzy, Charbonnières, Charnay-lès-Mâcon, Châtenoy-en-Bresse, Demigny, Dracy-Saint-Loup, Fleury-la-Montagne, Frangy-en-Bresse, Gergy-Hurigny, Igé, Messey-sur-Grosne, Paray-le-Monial, Prissé, Ratte, Roche-Vineuse (La), Rully, Saint-Boil, Saint-Martin-en-Bresse, Toulon-sur-Arroux, Tournus, Varennes-Saint-Sauveur.
 
 DÉPARTEMENT DE LA SARTHE
 
