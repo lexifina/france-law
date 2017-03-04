@@ -808,6 +808,26 @@ L'activité des avions et des planeurs est autorisée sur l'aérodrome pour les 
 
 L'activité des aérodynes ultralégers motorisés et des hélicoptères est autorisée sur l'aérodrome. |
 
+Salon
+
+|
+
+Bouches-du-Rhône
+
+|
+
+Cet aérodrome est réservé :
+
+1) prioritairement à l’accueil du trafic aérien militaire et d’État ;
+
+2) aux activités particulières qui y sont autorisées ;
+
+3) aux aéronefs basés sur l’aérodrome.
+
+Les aéronefs ne relevant pas des points 2 et 3 ci-dessus pourront exceptionnellement être autorisés par le directeur de l’aérodrome, sous réserve notamment de la compatibilité des caractéristiques de l’aéronef considéré et des caractéristiques physiques de l’aérodrome.
+
+|
+
 Sarre-Union |
 
 Bas-Rhin |
