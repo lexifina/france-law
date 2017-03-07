@@ -1,0 +1,9 @@
+# Réponse à la question n° 41100
+
+- Question : [41100](41100.md) — Question n° 41100 — données personnelles; protection
+
+## Réponse
+
+*JO du 2017-03-07*
+
+Le service de vérification en ligne d'un avis d'impôt sur le revenu est un service qui permet à des organismes tiers de vérifier l'authenticité de l'avis ou du justificatif d'impôt sur le revenu par la comparaison entre les données présentes sur le document papier et celles affichées à l'écran. L'accès à ce service est assuré via la saisie des deux identifiants (le numéro fiscal et la référence de l'avis) présents sur l'avis ou le justificatif d'impôt sur le revenu fourni à l'organisme par l'usager. Ce service ne donne pas d'autres informations que celles déjà présentes sur le document. L'usager peut le cas échéant communiquer directement ses deux identifiants. Dans ce cas, l'organisme peut prendre connaissance à l'écran des données fiscales de l'usager ce dernier lui ayant donné les moyens de procéder à cette consultation. Les identifiants saisis ne donnent accès qu'aux éléments du justificatif d'impôt qui correspondent aux seules données strictement nécessaires pour un organisme tiers. Ils ne permettent pas de consulter un autre avis ou justificatif et ne donnent pas accès à l'espace personnel en ligne de l'usager. De plus, des mesures de sécurité permettent de bloquer les attaques qui seraient effectuées par des « robots » ou les saisies d'identifiants erronées à répétition. Enfin, en cas de perte par l'usager de ses identifiants de connexion, ceux-ci ne sont pas délivrés par téléphone. La référence de l'avis peut être délivrée en ligne par courriel après vérification de l'identité de l'usager et de son adresse électronique. Le numéro fiscal ne peut être délivré que par envoi par courrier ou courriel à une adresse déjà connue de l'administration, après vérification de l'état civil, ou au guichet sur présentation d'une pièce d'identité.
