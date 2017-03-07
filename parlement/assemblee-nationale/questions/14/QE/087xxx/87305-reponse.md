@@ -1,0 +1,9 @@
+# Réponse à la question n° 87305
+
+- Question : [87305](87305.md) — Question n° 87305 — rapport; propositions
+
+## Réponse
+
+*JO du 2017-03-07*
+
+Le soutien de l'innovation et des entreprises innovantes constitue l'un des axes majeurs de la stratégie numérique du gouvernement présentée par le Premier ministre le 18 juin 2015. Les actions menées dans le cadre de la French Tech ou de l'Alliance pour l'innovation ouverte pour renforcer les liens entre entreprises traditionnelles et start-ups concourent à cet objectif. L'Etat se doit également de donner l'exemple en la matière : l'action volontariste du gouvernement depuis 2012 afin de faciliter l'accès des entreprises innovantes à la commande publique est en cohérence avec la recommandation du rapport de l'Institut Montaigne. Un objectif a été fixé pour répondre à cette ambition. D'ici 2020, 2 % de la commande publique (hors armement) doivent être consacrés à l'achat innovant. Des premières actions ont déjà été engagées pour faciliter l'accès des startups à la commande publique et portent principalement sur la sensibilisation des acheteurs publics aux enjeux de l'innovation et sur la simplification de la relation entre acheteurs publics et entreprises innovantes : mise en place de la plateforme des achats d'innovation de l'État, transposition en droit français du partenariat d'innovation, mise en œuvre dans chaque direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi (DIRECCTE) d'un référent achat innovant, création d'une formation du ministère de l'économie à l'achat d'innovation à destination des acheteurs publics… Enfin, l'UGAP (Union des groupements d'achats publics) a intégré l'innovation au sein de sa stratégie d'achat depuis 2014 et a inscrit notamment les objets connectés comme l'une de ses neufs thématiques d'achats d'innovation. A titre d'illustration, l'UGAP a réalisé pour 2015, 52 M€ d'achat d'innovation.
