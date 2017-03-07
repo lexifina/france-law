@@ -1,0 +1,9 @@
+# Réponse à la question n° 100894
+
+- Question : [100894](100894.md) — Question n° 100894 — réforme; perspectives
+
+## Réponse
+
+*JO du 2017-03-07*
+
+A l'issue des débats parlementaires, l'article 33 de la loi de finances pour 2017 élargit le périmètre des "variables d'ajustement" aux fonds départementaux de péréquation de la taxe professionnelle (FDPTP), ce qui devrait représenter une minoration de 8 %. Cet élargissement est justifié, d'une part, par le fait que les attributions par départements au titre des FDPTP sont très inégales : elles vont de 0 à 24,5 M€. Ainsi, 15 départements ont perçu plus de 10 M€ en 2014 (pour un total de 240 M€), contre 74 départements ayant reçu moins d'1 M€ (pour un total de 120 M€). A titre d'exemple, le département de la Seine-Saint-Denis a perçu 3 700 € en 2014. Cette inégale répartition entre départements s'accompagne par ailleurs d'une hétérogénéité des critères utilisés par les conseils départementaux pour attribuer cette enveloppe entre les communes bénéficiaires in fine. D'autre part, l'intégration des FDPTP permet d'élargir le champ des "variables d'ajustement" afin de gager les progressions de certains concours aux collectivités (et notamment les compensations d'exonérations de fiscalité directe locale) et ainsi diminuer le taux de minoration des variables. Son exclusion du mécanisme des variables aurait eu pour conséquence d'augmenter le taux de minoration des autres variables. S'agissant de la dotation de compensation de la réforme de la taxe professionnelle (DCRTP) perçue par les communes et établissements publics de coopération intercommunale (EPCI), elle, n'est pas intégrée dans les variables. Par conséquent, elle ne fait pas l'objet d'une minoration au titre de l'année 2017. En revanche, l'article 33 de la loi de finances pour 2017 élargit le périmètre des "variables d'ajustement" à la DCRTP perçue par les départements et les régions.
