@@ -1,0 +1,9 @@
+# Réponse à la question n° 87403
+
+- Question : [87403](87403.md) — Question n° 87403 — réforme; perspectives
+
+## Réponse
+
+*JO du 2017-03-07*
+
+Conformément à l'article L. 2334-7-3 du code général des collectivités territoriales, la contribution des communes au redressement des finances publiques est répartie entre au prorata des recettes réelles de fonctionnement de leur budget principal, minorées des atténuations de produits, des recettes exceptionnelles et du produit des mises à disposition de personnel facturées dans le cadre de mutualisation de services entre l'établissement public de coopération intercommunale à fiscalité propre et ses communes membres. Ces modalités de calcul ont été débattues et décidées par le comité des finances locales pour la baisse de la dotation générale de fonctionnement en 2014, et reconduites pour 2015, 2016 et 2017. Ainsi, les recettes forestières sont-elles prises en compte pour le calcul des recettes réelles de fonctionnement au même titre que toutes les autres recettes de production, dès lors qu'elles sont versées au budget principal. Une solution technique simple pour éviter que l'augmentation de l'activité d'exploitation forestière, encouragée par le Gouvernement dans le cadre du développement de la filière bois, ne conduise à une contribution accrue des communes forestières du simple fait des modalités de répartition de l'effort de redressement des finances publiques entre les communes, consiste pour une commune à créer un budget annexe « forêt », au sein duquel serait géré l'ensemble des flux comptables et financiers afférents à l'exploitation forestière. Cette solution constitue une vraie incitation à l'investissement et à une gestion durable de la ressource forestière, sans perdre la logique de justice qui a présidé à la répartition de la contribution au redressement des finances publiques entre les communes, ni mettre en cause les politiques publiques visant à la mobilisation du bois.
