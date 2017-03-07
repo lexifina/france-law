@@ -1,0 +1,9 @@
+# Réponse à la question n° 61906
+
+- Question : [61906](61906.md) — Question n° 61906 — rétroactivité; quotient familial; conséquences
+
+## Réponse
+
+*JO du 2017-03-07*
+
+Afin d'assurer la pérennité du financement de la politique familiale tout en préservant l'universalité des allocations familiales, l'article 3 de la loi de finances pour 2014, abaisse de 2 000 € à 1 500 € pour chaque demi-part supplémentaire l'avantage maximum en impôt résultant de l'application du quotient familial attribué au titre des enfants à charge principale ou exclusive. Cette réforme permet de rendre la politique familiale plus juste par une meilleure redistribution entre les foyers disposant de hauts revenus et les foyers disposant de bas revenus. Elle n'a une incidence que sur les foyers disposant de revenus élevés ayant des enfants mineurs ou majeurs rattachés. En cas de rachat sur un contrat d'assurance-vie, le contribuable peut opter pour un prélèvement libératoire de l'impôt sur le revenu en lieu et place de l'imposition au barème progressif. L'option est irrévocable. Le montant final de l'impôt au barème n'étant définitivement connu qu'au 31 décembre, lorsque le contribuable a perçu l'ensemble de ses revenus et que les lois de finances ont été adoptées, il existe toujours une part d'aléa pour savoir si un contribuable a intérêt ou non à opter pour un prélèvement libératoire. Ainsi, la situation invoquée n'est pas propre à la baisse du plafond de l'avantage du quotient familial. En faisant le choix d'opter pour le prélèvement libératoire, le contribuable est soumis à un régime dont les paramètres ne sont plus susceptibles d'évoluer. Cette sécurité juridique a pour corollaire et contrepartie l'impossibilité de revenir sur ce choix. Pour cette raison, il n'est pas envisagé de remettre en cause le caractère définitif du prélèvement forfaitaire libératoire.
