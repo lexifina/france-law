@@ -1,0 +1,9 @@
+# Réponse à la question n° 95477
+
+- Question : [95477](95477.md) — Question n° 95477 — victimes d'attentats; héritiers; réglementation
+
+## Réponse
+
+*JO du 2017-03-07*
+
+Afin de marquer la solidarité de la Nation à l'égard des ayants droit des victimes d'actes de terrorisme, le Gouvernement a annoncé, par communiqué de presse du 11 mai 2016, une dispense de paiement d'impôt sur le revenu dû au titre des revenus perçus par les personnes décédées. Postérieurement, un dégrèvement de taxe d'habitation a été annoncé aux associations d'aide aux victimes. L'article 5 de la loi de finances pour 2017 inscrit ces décisions de façon pérenne dans la loi sous la forme d'un effacement définitif des dettes afférentes à l'impôt sur le revenu du défunt et d'un dégrèvement de taxe d'habitation ainsi que de contribution à l'audiovisuel public. Par ailleurs, afin de marquer la reconnaissance de la Nation envers leur dévouement, sont également concernées les familles des militaires décédés pendant ou à la suite d'une opération extérieure ou de sécurité intérieure, les sapeurs-pompiers, policiers, gendarmes et agents des douanes décédés dans l'accomplissement de leur mission ou des suites de leurs blessures et qui sont cités à l'ordre de la Nation ainsi que les militaires décédés dans l'accomplissement de leur mission ou des blessures reçues dans les mêmes circonstances, attributaires de la mention "Mort pour la France"prévue à l'article L. 511-1 du code des pensions militaires d'invalidité et des victimes de guerre ou de la mention"Mort pour le service de la Nation" prévue à l'article L. 513-1 du même code ;". Cette dispense s'applique à compter du 1er janvier 2015. Ces mesures permettent donc de compléter les dispositions de l'article 796 du code général des impôts qui exonère de droits de mutation les successions des personnes décédées du fait d'actes de terrorisme.
