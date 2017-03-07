@@ -1,0 +1,9 @@
+# Réponse à la question n° 81460
+
+- Question : [81460](81460.md) — Question n° 81460 — dons déductibles; réglementation
+
+## Réponse
+
+*JO du 2017-03-07*
+
+Le bénéfice de l'avantage fiscal prévu en matière d'impôt de solidarité sur la fortune (ISF) au titre des dons en numéraire effectués par un redevable de cet impôt doit être apprécié au regard des conditions prévues à l'article 885-0 V bis A du code général des impôts (CGI). Plus précisément, et en application de cet article, les redevables de l'ISF peuvent imputer sur la cotisation mise à leur charge, sous certaines conditions, 75 % du montant des dons effectués à certains organismes parmi lesquels figurent notamment les fondations reconnues d'utilité publique répondant aux conditions fixées au a du 1 de l'article 200 du CGI, dans la limite annuelle de 50 000 euros ou de 45 000 euros en cas de cumul avec la réduction d'ISF au titre des investissements au capital de PME (réduction « ISF-PME »). Sans préjuger du respect, par cet organisme, des conditions prévues au a du 1 de l'article 200 précité, lequel prévoit une réduction d'impôt sur le revenu pour les dons versés à des oeuvres ou organismes d'intérêt général ayant un caractère philanthropique, éducatif, scientifique, social, humanitaire, sportif, familial, culturel ou concourant à la mise en oeuvre du patrimoine artistique, à la défense de l'environnement naturel ou à la diffusion de la culture, de la langue et des connaissances scientifiques françaises, l'association pour le développement et l'embellissement de la commune de Chaignes (ADECC) ne fait pas partie des organismes limitativement énumérés susceptibles de bénéficier des dispositions de l'article 855-0 V bis A du CGI, notamment les fondations reconnues d'utilité publique. Par suite, les dons effectués à son profit ne peuvent pas ouvrir droit, pour ses donateurs, à l'avantage fiscal prévu à l'article précité du CGI.
