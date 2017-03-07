@@ -1,0 +1,9 @@
+# Réponse à la question n° 98477
+
+- Question : [98477](98477.md) — Question n° 98477 — loi 2015-1268 du 14 octobre 2015; état d'application; perspectives
+
+## Réponse
+
+*JO du 2017-03-07*
+
+Le délai de l'habilitation prévu par l'article 79 de la loi no 2015-1268 du 14 octobre 2015 d'actualisation du droit des outre-mer, qui était de six mois, n'a pas permis de faire aboutir le projet d'ordonnance destiné à étendre et à adapter en Nouvelle-Calédonie les dispositions permettant aux agents publics de rechercher et de constater par procès verbal certaines infractions aux réglementations édictées localement. Cependant, le projet de loi de programmation relatif à l'égalité réelle outre-mer et portant autres dispositions en matière sociale et économique, en cours d'examen au Sénat, comporte des dispositions habilitant les agents publics à rechercher et à constater les infractions à la réglementation locale en matière de chasse, de pêche, de santé publique, de santé publique vétérinaire, et en matière forestière, ainsi qu'une disposition habilitant les agents de police municipale à rechercher et à constater les infractions en matière de protection du patrimoine naturel, de pêche et de gestion des ressources halieutiques, de prévention et de gestion des déchets, et de prévention des nuisances visuelles. Par ailleurs, ce même projet de loi comporte également une disposition législative concernant les gardes particuliers, qui permettra d'étendre, en Nouvelle-Calédonie, des dispositions réglementaires attendues telles que l'arrêté du 30 août 2006 relatif à la formation des gardes particuliers et à la carte d'agrément. Les agents publics locaux pourront ainsi utiliser, à terme, l'ensemble des prérogatives leur permettant de sanctionner les infractions aux réglementations qu'ils sont chargés de mettre en œuvre.
