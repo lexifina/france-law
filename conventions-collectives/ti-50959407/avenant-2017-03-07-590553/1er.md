@@ -1,0 +1,5 @@
+# Article 1er
+
+En précision des dispositions de l'article 6 de l'accord collectif du 20 avril 2016, portant modification du décret n° 55-1297 du 3 octobre 1955 en son article 37.1 relatif au champ d'application de l'accord, les partenaires sociaux confirment que, s'agissant de la convention collective nationale des transports routiers et activités auxiliaires du transport (CCNTR), les entreprises relevant du code NAF 52.29B « Affrètement et organisation des transports » (répertoriées sous les codes 63.4B et 63.4C dans la NAF rév. 1) disposent d'une faculté, non contraignante, d'adhérer au régime conventionnel de prévoyance invalidité/ décès en application des dispositions de l'article 5 de l'annexe V de la convention collective.
+
+Il convient de préciser qu'il ressort d'une étude réalisée sur ce périmètre que la moitié des salariés sont actuellement couverts et que l'accord national interprofessionnel du 11 janvier 2013 a prévu l'ouverture prochaine d'une négociation pour une généralisation de la prévoyance. L'attention des entreprises concernées est donc appelée sur ce point.
