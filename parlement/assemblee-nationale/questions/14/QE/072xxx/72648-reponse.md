@@ -1,0 +1,9 @@
+# Réponse à la question n° 72648
+
+- Question : [72648](72648.md) — Question n° 72648 — G5; lutte et prévention
+
+## Réponse
+
+*JO du 2017-03-07*
+
+Le Gouvernement fait de la lutte contre l'évasion et la fraude fiscales une priorité. Dans cet esprit, il est déterminé en particulier à lutter contre les pratiques d'optimisation et les montages internationaux dans le domaine des prix de transfert. C'est pourquoi la France participe activement aux travaux conduits sur ce sujet par l'organisation de coopération et de développement économiques (OCDE). Une étape majeure a été franchie en ce sens avec la publication des rapports finaux du projet BEPS (Base Erosion and Profit Shifting) adoptés par l'OCDE le 1er octobre 2015 puis endossés par les chefs d'Etat et de gouvernement du G20 au sommet d'Antalya les 15 et 16 novembre suivants. Ces travaux concrétisent en effet la volonté partagée par de nombreux Etats d'adapter les règles de la fiscalité internationale afin d'assurer, dans l'ensemble des secteurs de l'économie, la prise en compte de la réalité économique et juridique des entreprises et, en définitive, l'adéquation entre la répartition du bénéfice imposable entre les différents pays où une multinationale est présente et la création de valeur par chacune de ses entités conformément au principe de pleine concurrence. Ainsi, les résultats du projet BEPS permettent une répartition internationale des bénéfices imposables qui soit conforme à la réalité du rôle des actifs incorporels et des fonctions et des risques assumés par chaque entité dans la création de valeur. Dans ce contexte, les possibilités pour les administrations fiscales, dans certaines situations injustifiées économiquement, d'écarter l'organisation présentée par une entreprise (« re-caractériser ») ont été renforcées et clarifiées, ce qui répond notamment à la demande de la France.
