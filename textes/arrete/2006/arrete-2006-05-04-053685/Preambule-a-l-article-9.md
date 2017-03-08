@@ -1,8 +1,8 @@
 # Article Préambule à l'article 9
 
-Les règles de circulation et dispositions concernant les véhicules, applicables aux transports exceptionnels, qu'ils soient effectués sous couvert d'autorisation individuelle ou d'autorisation de portée locale, sont précisées dans les articles 10 à 16 du présent arrêté.
+Les règles de circulation et dispositions concernant les véhicules, applicables aux transports exceptionnels, qu'ils soient effectués sous couvert de déclaration préalable, d'autorisation individuelle ou d'autorisation de portée locale, sont précisées dans les articles 10 à 16 du présent arrêté.
 
-Le transporteur doit en outre respecter l'ensemble des dispositions précisées par l'autorisation lui permettant d'effectuer le transport (autorisation individuelle ou autorisation de portée locale) et suivre strictement l'itinéraire mentionné dans celle-ci (itinéraire précis, réseau routier d'un département, réseau routier défini sur les cartes nationales des itinéraires pour transports exceptionnels).
+Le transporteur doit en outre respecter l'ensemble des dispositions précisées par la déclaration préalable ou par l'autorisation lui permettant d'effectuer le transport (autorisation individuelle ou autorisation de portée locale) et suivre strictement l'itinéraire mentionné dans celle-ci (itinéraire précis, réseau routier d'un département, réseau routier défini sur les cartes nationales des itinéraires pour transports exceptionnels).
 
 Le transporteur doit :
 
