@@ -266,7 +266,7 @@ Pas-de-Calais |
 
 |
 
-Bergerac-Roumanière |
+Bergerac-Dordogne-Périgord |
 
 Dordogne |
 
