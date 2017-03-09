@@ -126,9 +126,7 @@ Néant
 
 |
 
-Articles L. 231-1 à L. 231-3 et R. 231-1 à R. 231-6 du code du tourisme
-
-Arrêté préfectoral
+Articles L. 3122-1 et suivants et articles R. 3122-1 à R. 3122-15 du code des transports
 
 |
 
