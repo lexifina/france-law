@@ -1,0 +1,9 @@
+# Réponse à la question SEQ141013448
+
+- Question : [SEQ141013448](seq141013448.md) — Répercussions fiscales de l'accord de libre échange FATCA
+
+## Réponse
+
+*Économie et finances, JO du 2017-03-09, page 999*
+
+À la suite de l'adoption de la loi américaine dite « FATCA » le 18 mars 2010, l'accord intergouvernemental signé par la France avec les États-Unis le 14 novembre 2013 à Paris a fixé un cadre bilatéral permettant l'échange automatique d'informations financières sur une base réciproque et dans le respect de la confidentialité et de la protection des données personnelles. Le dispositif américain a en outre été le déclencheur d'un mouvement en faveur de l'échange automatique d'informations financières au niveau mondial et européen, qui s'est traduit notamment par la signature le 29 octobre 2014 à Berlin d'un accord multilatéral comptant aujourd'hui plus de 60 adhérents. L'objectif de l'accord « FATCA » est de renforcer la lutte contre la fraude et l'évasion fiscales internationales en prévoyant que les établissements financiers français et américains doivent transmettre à leur administration fiscale respective des informations sur les revenus et les actifs détenus par des contribuables de l'autre État. Les éléments sont ensuite échangés entre les administrations fiscales des deux États, les premières transmissions ayant lieu dès 2016. Des commentaires administratifs ont été publiés au Bulletin officiel des finances publiques sous la référence n° BOI-INT-AEA-10-20150805 afin d'apporter toutes les précisions utiles sur ce sujet aux établissements et sociétés déclarants comme à leurs clients. De plus, les Français résidant aux États-Unis peuvent s'adresser à l'attaché fiscal auprès de l'ambassade de France, outre les éléments éventuels communiqués par les institutions financières.
