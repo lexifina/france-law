@@ -1,0 +1,9 @@
+# Réponse à la question SEQ161124082
+
+- Question : [SEQ161124082](seq161124082.md) — Adaptation de la taxe spéciale sur les véhicules routiers
+
+## Réponse
+
+*Budget et comptes publics, JO du 2017-03-09, page 996*
+
+La modification du régime de paiement de la taxe spéciale sur certains véhicules routiers (TSVR) résulte des dispositions issues de la loi de finances rectificative pour 2015, lesquelles ont substitué aux régimes de paiement trimestriel et journalier, un régime unique de paiement semestriel. La fin du régime journalier et le basculement des véhicules concernés au régime de droit commun semestriel ne signifient pas, toutefois, une taxation permanente des véhicules, dont la circulation varie de façon saisonnière. En effet, la réglementation prévoit la possibilité de suspendre la taxation si un véhicule ne circule pas pendant la totalité du semestre : la taxation peut alors être effectuée au prorata de chacun des mois où le véhicule circule, tout mois commencé étant dû. Par ailleurs, il convient de préciser que, depuis 2009, les taux de la taxe spéciale sur les véhicules, applicables en France, sont fixés aux minima prévus par la directive communautaire n° 1999/62/CE du Parlement européen et du Conseil du 17 juin 1999 relative à la taxation des poids lourds pour l'utilisation de certaines infrastructures, dite directive « eurovignette ». Toutefois, lors de la discussion du projet de loi de finances rectificative pour 2016, le Sénat a adopté un amendement instituant un tarif forfaitaire égal à 50 % du tarif semestriel pour certains véhicules, s'ils ne circulent pas plus de 25 jours par semestre. Il s'agit des véhicules utilisés par les cirques ou affectés exclusivement au transport des manèges et autres matériels d'attraction, de ceux utilisés par les centres équestres, et des véhicules de collection. Cette disposition est de nature à répondre aux préoccupations exprimées.
