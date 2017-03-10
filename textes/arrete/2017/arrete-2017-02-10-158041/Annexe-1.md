@@ -1,12 +1,10 @@
-# Article LEGIARTI000032546116
-
-ANNEXE 1
+# Article Annexe 1
 
 LISTE DES INDICATEURS OBLIGATOIRES POUR L'AMÉLIORATION DE LA QUALITÉ ET DE LA SÉCURITÉ DES SOINS
 
 Les indicateurs obligatoires sont listés dans le tableau ci-dessous (la définition des acronymes est précisée en annexe 2 et en annexe 3). Il précise pour chaque indicateur et par secteur d'activité si les résultats sont mis à la disposition du public. Il précise également si les résultats des indicateurs sont pris en compte pour le calcul du montant de la dotation complémentaire prévue à l'article L. 162-22-20 du code de la sécurité sociale.
 
-La fiche descriptive de chacun des indicateurs obligatoires dont les résultats sont mis à la disposition du public est disponible sur le site internet de la Haute Autorité de santé ( www.has-sante.fr). Chacune de ces fiches précise la construction et les modalités de calcul de l'indicateur en fonction du secteur d'activité concerné (MCO, HAD, SSR, PSY, SLD).
+La fiche descriptive de chacun des indicateurs obligatoires dont les résultats sont mis à la disposition du public est disponible sur le site internet de la Haute Autorité de santé ( www.has-sante.fr). Chacune de ces fiches précise la construction et les modalités de calcul de l'indicateur en fonction du secteur d'activité concerné : médecine chirurgie obstétrique (MCO), hospitalisation à domicile (HAD), soins de suite et de réadaptation (SSR), santé mentale (PSY), soins de longue durée (SLD).
 
 THÈME
 
@@ -44,67 +42,61 @@ SLD
 
 |
 
-Pour
-
-diffusion
+Pour diffusion
 
 publique
 
 |
 
-Pour le
+Pour le calcul
 
-calcul de
-
-la dotation
+de la dotation
 
 complémentaire
 
 |
 
-Pour
-
-diffusion
+Pour diffusion
 
 publique
 
 |
 
-Pour le
+Pour le calcul
 
-calcul de
-
-la dotation
+de la dotation
 
 complémentaire
 
 |
 
-Pour
-
-diffusion
+Pour diffusion
 
 publique
 
 |
 
-Pour
+Pour le calcul
 
-diffusion
+de la dotation
+
+complémentaire
+
+|
+
+Pour diffusion
 
 publique
 
 |
 
-Pour
-
-diffusion
+Pour diffusion
 
 publique
 
 |
 
-IAS (TBIN)
+IAS
 
 |
 
@@ -112,7 +104,7 @@ ICSHA.2
 
 |
 
-2016
+2017
 
 |
 
@@ -141,6 +133,78 @@ X
 |
 
 X
+
+|
+
+X
+
+|
+
+ICALIN.2
+
+|
+
+2017
+
+|
+
+X
+
+|
+
+X
+
+|
+
+X
+
+|
+
+X
+
+|
+
+X
+
+|
+
+X
+
+|
+
+X
+
+|
+
+X
+
+|
+
+ICA-LISO
+
+|
+
+2017
+
+|
+
+X
+
+|
+
+X
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
 
 |
 
@@ -168,6 +232,10 @@ X
 
 |
 
+X
+
+|
+
 |
 
 X
@@ -179,6 +247,10 @@ ICA-BMR
 |
 
 2016
+
+|
+
+X
 
 |
 
@@ -236,66 +308,6 @@ X
 
 |
 
-ICALIN.2
-
-|
-
-2015
-
-|
-
-X
-
-|
-
-X
-
-|
-
-X
-
-|
-
-X
-
-|
-
-X
-
-|
-
-X
-
-|
-
-X
-
-|
-
-ICA-LISO
-
-|
-
-2015
-
-|
-
-X
-
-|
-
-X
-
-|
-
-|
-
-|
-
-|
-
-|
-
 |
 
 e-Satis
@@ -306,7 +318,7 @@ e-Satis +48h MCO
 
 |
 
-2016
+2017
 
 |
 
@@ -315,6 +327,328 @@ X
 |
 
 X
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+AVC
+
+|
+
+ENV
+
+|
+
+2017
+
+|
+
+X
+
+|
+
+X
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+EPR 1
+
+|
+
+2017
+
+|
+
+X
+
+|
+
+X
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+DTD
+
+|
+
+2017
+
+|
+
+X
+
+|
+
+X
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+PCA
+
+|
+
+2017
+
+|
+
+X
+
+|
+
+X
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+DIA
+
+|
+
+ASE
+
+|
+
+2017
+
+|
+
+X
+
+|
+
+X
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+NUT
+
+|
+
+2017
+
+|
+
+X
+
+|
+
+X
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+PSH
+
+|
+
+2017
+
+|
+
+X
+
+|
+
+X
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+AAT
+
+|
+
+2017
+
+|
+
+X
+
+|
+
+X
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+PP-HPP
+
+|
+
+DEL
+
+|
+
+2017
+
+|
+
+X
+
+|
+
+X
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+SURMIN
+
+|
+
+2017
+
+|
+
+X
+
+|
+
+X
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+PECI HPPI
+
+|
+
+2017
+
+|
+
+X
+
+|
+
+X
+
+|
 
 |
 
@@ -337,6 +671,10 @@ TDP
 |
 
 2016
+
+|
+
+X
 
 |
 
@@ -396,6 +734,10 @@ X
 
 |
 
+X
+
+|
+
 |
 
 DOC
@@ -422,11 +764,17 @@ X
 
 |
 
+|
+
 TRD
 
 |
 
 2016
+
+|
+
+X
 
 |
 
@@ -480,6 +828,8 @@ X
 
 |
 
+|
+
 X
 
 |
@@ -506,6 +856,10 @@ X
 
 |
 
+X
+
+|
+
 |
 
 |
@@ -527,6 +881,8 @@ X
 |
 
 X
+
+|
 
 |
 
@@ -566,6 +922,8 @@ X
 
 |
 
+|
+
 DAN-TRD
 
 |
@@ -579,6 +937,8 @@ X
 |
 
 X
+
+|
 
 |
 
@@ -622,450 +982,6 @@ X
 
 |
 
-IDM
-
-|
-
-BASI 2
-
-|
-
-2015
-
-|
-
-X
-
-|
-
-X
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-HYG
-
-|
-
-2015
-
-|
-
-X
-
-|
-
-X
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-AVC
-
-|
-
-DHS
-
-|
-
-2015
-
-|
-
-X
-
-|
-
-X
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-EPR 1
-
-|
-
-2015
-
-|
-
-X
-
-|
-
-X
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-AVC-TDP
-
-|
-
-2015
-
-|
-
-X
-
-|
-
-X
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-PP-HPP
-
-|
-
-DEL
-
-|
-
-2015
-
-|
-
-X
-
-|
-
-X
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-SURMIN
-
-|
-
-2015
-
-|
-
-X
-
-|
-
-X
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-PECI HPPI
-
-|
-
-2015
-
-|
-
-X
-
-|
-
-X
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-DIA
-
-|
-
-EAT
-
-|
-
-2015
-
-|
-
-X
-
-|
-
-X
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-SPH (agrégation des 4 suivants)
-
-|
-
-2015
-
-|
-
-X
-
-|
-
-X
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-ASE
-
-|
-
-2015
-
-|
-
-X
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-PHO
-
-|
-
-2015
-
-|
-
-X
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-SER
-
-|
-
-2015
-
-|
-
-X
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-NUT
-
-|
-
-2015
-
-|
-
-X
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-AQD (agrégation des 2 suivants)
-
-|
-
-2015
-
-|
-
-X
-
-|
-
-X
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-PSH
-
-|
-
-2015
-
-|
-
-X
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-MDD
-
-|
-
-2015
-
-|
-
-X
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
 |
 
 HN
@@ -1076,7 +992,7 @@ P1.1
 
 |
 
-2016
+2017
 
 |
 
@@ -1091,6 +1007,10 @@ X
 X
 
 |
+
+|
+
+X
 
 |
 
@@ -1102,7 +1022,7 @@ P1.2
 
 |
 
-2016
+2017
 
 |
 
@@ -1117,6 +1037,10 @@ X
 X
 
 |
+
+|
+
+X
 
 |
 
@@ -1128,7 +1052,7 @@ P1.3
 
 |
 
-2016
+2017
 
 |
 
@@ -1143,6 +1067,10 @@ X
 X
 
 |
+
+|
+
+X
 
 |
 
@@ -1154,7 +1082,7 @@ P1.4
 
 |
 
-2016
+2017
 
 |
 
@@ -1169,6 +1097,10 @@ X
 X
 
 |
+
+|
+
+X
 
 |
 
@@ -1180,7 +1112,7 @@ P2.1
 
 |
 
-2016
+2017
 
 |
 
@@ -1195,6 +1127,10 @@ X
 X
 
 |
+
+|
+
+X
 
 |
 
@@ -1206,7 +1142,7 @@ P2.2
 
 |
 
-2016
+2017
 
 |
 
@@ -1221,6 +1157,10 @@ X
 X
 
 |
+
+|
+
+X
 
 |
 
@@ -1232,7 +1172,7 @@ P2.3
 
 |
 
-2016
+2017
 
 |
 
@@ -1247,6 +1187,10 @@ X
 X
 
 |
+
+|
+
+X
 
 |
 
@@ -1258,7 +1202,7 @@ P3.1
 
 |
 
-2016
+2017
 
 |
 
@@ -1273,6 +1217,10 @@ X
 X
 
 |
+
+|
+
+X
 
 |
 
@@ -1284,7 +1232,7 @@ P3.2
 
 |
 
-2016
+2017
 
 |
 
@@ -1299,6 +1247,10 @@ X
 X
 
 |
+
+|
+
+X
 
 |
 
@@ -1310,7 +1262,7 @@ P3.3
 
 |
 
-2016
+2017
 
 |
 
@@ -1325,6 +1277,10 @@ X
 X
 
 |
+
+|
+
+X
 
 |
 
@@ -1336,7 +1292,7 @@ P3.4
 
 |
 
-2016
+2017
 
 |
 
@@ -1351,6 +1307,10 @@ X
 X
 
 |
+
+|
+
+X
 
 |
 
@@ -1362,7 +1322,7 @@ P3.5
 
 |
 
-2016
+2017
 
 |
 
@@ -1377,6 +1337,10 @@ X
 X
 
 |
+
+|
+
+X
 
 |
 
@@ -1388,7 +1352,7 @@ D2.1
 
 |
 
-2016
+2017
 
 |
 
@@ -1403,6 +1367,10 @@ X
 X
 
 |
+
+|
+
+X
 
 |
 
@@ -1414,7 +1382,7 @@ D2.2
 
 |
 
-2016
+2017
 
 |
 
@@ -1429,6 +1397,10 @@ X
 X
 
 |
+
+|
+
+X
 
 |
 
@@ -1440,7 +1412,7 @@ D2.3
 
 |
 
-2016
+2017
 
 |
 
@@ -1455,6 +1427,10 @@ X
 X
 
 |
+
+|
+
+X
 
 |
 
@@ -1466,7 +1442,7 @@ D2.4
 
 |
 
-2016
+2017
 
 |
 
@@ -1481,6 +1457,10 @@ X
 X
 
 |
+
+|
+
+X
 
 |
 
@@ -1492,7 +1472,7 @@ D2.5
 
 |
 
-2016
+2017
 
 |
 
@@ -1507,6 +1487,10 @@ X
 X
 
 |
+
+|
+
+X
 
 |
 
@@ -1518,7 +1502,7 @@ D3.1
 
 |
 
-2016
+2017
 
 |
 
@@ -1533,6 +1517,10 @@ X
 X
 
 |
+
+|
+
+X
 
 |
 
@@ -1544,7 +1532,7 @@ D3.2
 
 |
 
-2016
+2017
 
 |
 
@@ -1559,6 +1547,10 @@ X
 X
 
 |
+
+|
+
+X
 
 |
 
@@ -1570,7 +1562,7 @@ D3.3
 
 |
 
-2016
+2017
 
 |
 
@@ -1585,6 +1577,10 @@ X
 X
 
 |
+
+|
+
+X
 
 |
 
@@ -1596,7 +1592,7 @@ D3.4
 
 |
 
-2016
+2017
 
 |
 
@@ -1611,6 +1607,10 @@ X
 X
 
 |
+
+|
+
+X
 
 |
 
@@ -1622,7 +1622,7 @@ D3.5
 
 |
 
-2016
+2017
 
 |
 
@@ -1637,6 +1637,10 @@ X
 X
 
 |
+
+|
+
+X
 
 |
 

@@ -1,24 +1,22 @@
-# Article LEGIARTI000032546120
+# Article Annexe 3
 
-ANNEXE 3
-
-INDICATEURS OBLIGATOIRES NON SOUMIS à DIFFUSION PUBLIQUE ET PRIS EN COMPTE POUR LE CALCUL DE LA DOTATION COMPLÉMENTAIRE
+INDICATEURS OBLIGATOIRES NON SOUMIS À DIFFUSION PUBLIQUE ET PRIS EN COMPTE POUR LE CALCUL DE LA DOTATION COMPLÉMENTAIRE
 
 Pour le calcul de la dotation complémentaire, comme indiqué en annexe 1, les acronymes des indicateurs non soumis à diffusion publique et pris en compte pour le calcul de la dotation complémentaire sont précisés ci après :
 
-Thème - Dossier du patient (DPA)
+Thème. - Dossier patient (DPA)
 
-Dépistage des troubles nutritionnels, niveau 3 (DTN3) en MCO ;
+Dépistage des troubles nutritionnels, niveau 3 (DTN3) en MCO et SSR ;
 
 Délai d'envoi du courrier de fin d'hospitalisation (DEC) en MCO ;
 
-Thème - Programme hôpital numérique (HN)
+Thème. - Programme hôpital numérique (HN)
 
-Le guide des indicateurs des prérequis et des domaines fonctionnels du programme hôpital numérique, est disponible sur le site internet du ministère chargé de la santé ( http://www.sante.gouv.fr/).
+Le guide des indicateurs des pré-requis et des domaines fonctionnels du programme hôpital numérique, est disponible sur le site internet du ministère chargé de la santé ( http://www.sante.gouv.fr/).
 
 Les indicateurs des prérequis (PR)
 
-P1 / Identités, mouvements
+P1/Identités, mouvements
 
 Taux d'applications au cœur du processus de soins, de la gestion administrative du patient et du PMSI connectées à un référentiel unique d'identités des patients (P1.1) ;
 
@@ -28,15 +26,15 @@ Taux d'applications au cœur du processus de soins, de la gestion administrative
 
 Existence d'un référentiel unique de structure de l'établissement (juridique, géographique, fonctionnel) piloté et mis à jour régulièrement dans les applicatifs, en temps utile (P1.4).
 
-P2 / Fiabilité, disponibilité
+P2/Fiabilité, disponibilité
 
-Existence d'un Plan de Reprise d'Activité (PRA) du système d'information formalisé (P2.1) ;
+Existence d'un Plan de reprise d'activité (PRA) du système d'information formalisé (P2.1) ;
 
 Définition d'un taux de disponibilité cible des applicatifs et mise en œuvre d'une évaluation de ce taux (P2.2) ;
 
 Existence de procédures assurant d'une part un fonctionnement dégradé du système d'information au cœur du processus de soins en cas de panne et d'autre part un retour à la normale (P2.3).
 
-P3 / Confidentialité
+P3/Confidentialité
 
 Existence d'une politique de sécurité formalisée pour les applications au cœur du processus de soins et fondée sur une analyse des risques au sein de l'établissement ; existence d'une fonction de référent sécurité (P3.1) ;
 
@@ -50,7 +48,7 @@ Taux d'applications permettant une traçabilité des connexions au SIH (P3.5).
 
 Les indicateurs des domaines fonctionnels suivants
 
-D2 / DPII (Dossier patient informatisé et interopérable) et communication extérieure
+D2/DPII (Dossier patient informatisé et interopérable) et communication extérieure
 
 Dossier patient DMP compatible en propre ou via un dispositif permettant la DMP compatibilité (D2.1) ;
 
@@ -62,7 +60,7 @@ Taux de séjours pour lesquels le dossier patient informatisé a été mis à jo
 
 Taux de consultations externes réalisées par des professionnels médicaux pour lesquelles le dossier patient informatisé a été mis à jour (D2.5).
 
-D3 / Prescription électronique alimentant le plan de soins
+D3/Prescription électronique alimentant le plan de soins
 
 Taux de séjours disposant de prescriptions de médicaments informatisées (D3.1) ;
 
