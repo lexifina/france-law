@@ -10,6 +10,6 @@ Ce certificat de compétences est délivré aux personnes qui ont :
 
 - participé à toutes les phases de la formation ;
 
-- réalisé tous les gestes de premiers secours au cours des phases d'apprentissage pratique ;
+- fait réaliser ou réalisé tous les gestes de premiers secours au cours des phases d'apprentissage pratique ;
 
 - participé une fois au moins, comme sauveteur, à une activité d'application (cas concret, exercice de simulation).
