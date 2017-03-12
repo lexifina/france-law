@@ -62,6 +62,8 @@ Conformément à l’article 9 de l’arrêté du 31 juillet 2015 (NOR : DEVR151
 
 - Système de transmission performant / Fiche d’opération standardisée n° IND-UT-127
 
+Conformément à l’article 8 de l’arrêté du 2 mars 2017 (NOR : DEVR1703311A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 3 dudit arrêté.
+
 - Presse à injecter toute électrique ou hybride / Fiche d’opération standardisée n° IND-UT-129
 
 - Condenseur sur les effluents gazeux d’une chaudière de production de vapeur / Fiche d’opération standardisée n° IND-UT-130
@@ -69,6 +71,8 @@ Conformément à l’article 9 de l’arrêté du 31 juillet 2015 (NOR : DEVR151
 - Isolation thermique des parois planes ou cylindriques sur des installations industrielles (France métropolitaine) / Fiche d’opération standardisée n° IND-UT-131
 
 Liens :
+
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0060 du 11/03/2017, texte n° 5, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=Are8M2WeOI9J78d3VbKHHfCwQ8RhV7Mt8a-smbCOZxc=
 
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0297 du 22/12/2016, texte n° 8, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=IFDoQg-qK6IdNEW2cTEt_bmCxJ-mC_f1ilDVx1TFCBg=
 
@@ -88,4 +92,4 @@ Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'ex
 
 NOTA :
 
-Se reporter aux conditions d’application prévues à l’article 8 de l’arrêté du 14 décembre 2016 (NOR : DEVR1634449A).
+Se reporter aux conditions d’application prévues à l’article 10 de l’arrêté du 2 mars 2017 (NOR : DEVR1703311A).

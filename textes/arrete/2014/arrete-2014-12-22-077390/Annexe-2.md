@@ -88,6 +88,8 @@ Conformément à l’article 5 de du 20 octobre 2016 (NOR : DEVR1627593A), la fi
 
 - Climatiseur performant (France d’outre-mer) / Fiche d’opération standardisée n°BAR-TH-141
 
+- Système solaire combiné (France métropolitaine) / Fiche d’opération standardisée n°BAR-TH-143
+
 - Rénovation globale d’un bâtiment résidentiel (France métropolitaine) / Fiche d’opération standardisée n°BAR-TH-145
 
 - Chauffe-eau thermodynamique à accumulation / Fiche d’opération standardisée n°BAR-TH-148
@@ -124,6 +126,8 @@ Conformément au 1° de l’article 5 de l’arrêté du 20 mars 2015 (NOR : DEV
 
 Liens :
 
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0060 du 11/03/2017, texte n° 5, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=Are8M2WeOI9J78d3VbKHHfCwQ8RhV7Mt8a-smbCOZxc=
+
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0297 du 22/12/2016, texte n° 8, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=IFDoQg-qK6IdNEW2cTEt_bmCxJ-mC_f1ilDVx1TFCBg=
 
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0261 du 09/11/2016, texte n° 4, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=knbQtrSz_f90M6D1wPlbP2gPlRv7gOmIegJaPV6kUU0=
@@ -143,7 +147,3 @@ Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'ex
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0075 du 29/03/2015, texte n° 6, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=xhmSfzOnsCkjNrGahHphZrmpoFhR61mGJ7APKjTA6As=
 
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0297 du 24/12/2014, texte n° 18, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=FGBMw6bzzOGU6LHfYz6-OOYiF3mTkUVDd1KHOMS6u0s=
-
-NOTA :
-
-Se reporter aux conditions d’application prévues à l’article 8 de l’arrêté du 14 décembre 2016 (NOR : DEVR1634449A).

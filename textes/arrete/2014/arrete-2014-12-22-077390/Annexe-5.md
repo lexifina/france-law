@@ -10,6 +10,8 @@ Secteur réseaux
 
 - Passage d’un réseau de chaleur en basse température / Fiche d’opération n° RES-CH-105
 
+- Mise en place d’un calorifugeage des canalisations d’un réseau de chaleur / Fiche d’opération n° RES-CH-106
+
 - Isolation de points singuliers sur un réseau de chaleur / Fiche d’opération n° RES-CH-107
 
 - Système de régulation de tension en éclairage extérieur / Fiche d’opération n° RES-EC-101
@@ -23,6 +25,10 @@ Secteur réseaux
 - Horloge astronomique pour l’éclairage extérieur / Fiche d’opération n° RES-EC-107
 
 Liens :
+
+Vous pouvez consulter l’intégralité du texte avec ses images à partir de l’extrait du Journal officiel électronique authentifié n° 60 du 11/03/2017, texte nº 5, accessible à l’adresse suivante :
+
+https://www.legifrance.gouv.fr/download/pdf?id=Are8M2WeOI9J78d3VbKHHfCwQ8RhV7Mt8a-smbCOZxc=
 
 Vous pouvez consulter l’intégralité du texte avec ses images à partir de l’extrait du Journal officiel électronique authentifié n° 297 du 22/12/2016, texte nº 8, accessible à l’adresse suivante :
 
@@ -38,4 +44,4 @@ https://www.legifrance.gouv.fr/download/pdf?id=FGBMw6bzzOGU6LHfYz6-OOYiF3mTkUVDd
 
 NOTA :
 
-Conformément à l’article 8 de l’arrêté du 14 décembre 2016 (NOR : DEVR1634449A), ces dispositions sont applicables aux opérations standardisées d'économies d'énergie faisant l'objet d'une demande de certificats d'économies d'énergie, auprès de l'autorité compétente, à compter de l'entrée en vigueur du présent arrêté.
+Conformément à l’article 9 de l’arrêté du 2 mars 2017 (NOR : DEVR1703311A), ces dispositions sont applicables aux opérations standardisées d'économies d'énergie faisant l'objet d'une demande de certificats d'économies d'énergie, auprès de l'autorité compétente, à compter de l'entrée en vigueur du présent arrêté.

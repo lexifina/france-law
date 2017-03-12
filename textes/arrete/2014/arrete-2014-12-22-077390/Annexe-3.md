@@ -18,6 +18,8 @@ Isolation des murs (France d’outre-mer) / Fiche d’opération standardisée n
 
 Réduction des apports solaires par la toiture (France d’outre-mer) / Fiche d’opération standardisée n° BAT-EN-109
 
+Protections des baies contre le rayonnement solaire (France d’outre-mer) / Fiche d’opération standardisée n° BAT-EN-110
+
 Réglage des organes d’équilibrage d’une installation de chauffage à eau chaude / Fiche d’opération standardisée n° BAT-SE-103
 
 Chaudière collective haute performance énergétique / Fiche d’opération standardisée n° BAT-TH-102
@@ -112,6 +114,8 @@ Systèmes hydro-économes (France métropolitaine) / Fiche d’opération standa
 
 Liens :
 
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0060 du 11/03/2017, texte n° 5, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=Are8M2WeOI9J78d3VbKHHfCwQ8RhV7Mt8a-smbCOZxc=
+
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0297 du 22/12/2016, texte n° 8, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=IFDoQg-qK6IdNEW2cTEt_bmCxJ-mC_f1ilDVx1TFCBg=
 
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0261 du 09/11/2016, texte n° 4, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=knbQtrSz_f90M6D1wPlbP2gPlRv7gOmIegJaPV6kUU0=
@@ -132,4 +136,4 @@ Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'ex
 
 NOTA :
 
-Se reporter aux conditions d’application prévues à l’article 8 de l’arrêté du 14 décembre 2016 (NOR : DEVR1634449A).
+Se reporter aux conditions d’application prévues à l’article 10 de l’arrêté du 2 mars 2017 (NOR : DEVR1703311A).
