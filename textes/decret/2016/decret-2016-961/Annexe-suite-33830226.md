@@ -3994,17 +3994,17 @@ Employeurs
 
 L'activité de l'employeur doit être répertoriée par les codes NAF suivants :
 
-• 59.11 C - Production de films pour le cinéma (uniquement studios de cinéma) et détention de la certification sociale des entreprises techniques au service de la création et de l'évènement du secteur de l'audiovisuel ;
+• 59.11 C-Production de films pour le cinéma (uniquement studios de cinéma) et détention de la certification sociale des entreprises techniques au service de la création et de l'événement du secteur de l'audiovisuel ;
 
-• 59.12 Z - Postproduction de films cinématographiques, de vidéo et de programmes de télévision - sauf studios d'animation et détention de la certification sociale des entreprises techniques au service de la création et de l'évènement du secteur de l'audiovisuel ;
+• 59.12 Z-Postproduction de films cinématographiques, de vidéo et de programmes de télévision-sauf studios d'animation et détention de la certification sociale des entreprises techniques au service de la création et de l'événement du secteur de l'audiovisuel ;
 
-• 59.20 Z - Enregistrement sonore et édition musicale (uniquement studios d'enregistrement sonore) et détention de la certification sociale des entreprises techniques au service de la création et de l'évènement du secteur de l'audiovisuel ;
+• 59.20 Z-Enregistrement sonore et édition musicale (uniquement studios d'enregistrement sonore) et détention de la certification sociale des entreprises techniques au service de la création et de l'événement du secteur de l'audiovisuel ;
 
-• 90.02 Z - Activités de soutien au spectacle vivant et détention du label prestataire de services du spectacle vivant.
+• 90.02 Z-Activités de soutien au spectacle vivant et détention du label prestataire de services du spectacle vivant.
 
 Salariés
 
-Liste A : audiovisuelle - cinéma
+Liste A : audiovisuelle-cinéma
 
 Dans le domaine d'activité répertorié par les codes NAF 59.11 C, 59.12 Z et 59.20 Z, l'activité du salarié doit correspondre à une des fonctions suivantes (les fonctions ci-dessous peuvent être déclinées au féminin) :
 
@@ -4014,7 +4014,7 @@ Image
 
 |
 
-Technicien de reportage
+Assistant de tournage
 
 |
 
@@ -4022,7 +4022,7 @@ Technicien de reportage
 
 |
 
-Pointeur AV
+Cadreur AV
 
 |
 
@@ -4030,7 +4030,7 @@ Pointeur AV
 
 |
 
-Cadreur AV
+Opérateur de prises de vues
 
 |
 
@@ -4038,15 +4038,7 @@ Cadreur AV
 
 |
 
-Opérateur de prises de vue
-
-|
-
-5
-
-|
-
-Chef opérateur de prises de vue AV
+Chef opérateur prises de vues AV
 
 |
 
@@ -4072,7 +4064,7 @@ Opérateur du son
 
 |
 
-Opérateur supérieur du son
+Chef opérateur du son
 
 |
 
@@ -4080,7 +4072,7 @@ Opérateur supérieur du son
 
 |
 
-Chef opérateur du son
+Ingénieur du son
 
 |
 
@@ -4088,59 +4080,11 @@ Chef opérateur du son
 
 |
 
-Ingénieur du son
+Créateur d'effets sonores
 
 |
 
 6
-
-|
-
-Technicien transfert son
-
-|
-
-7
-
-|
-
-Opérateur repiquage
-
-|
-
-8
-
-|
-
-Opérateur report optique
-
-|
-
-9
-
-|
-
-Technicien repiquage
-
-|
-
-10
-
-|
-
-Technicien report optique
-
-|
-
-11
-
-|
-
-Créateurs d'effets sonores
-
-|
-
-12
 
 |
 
@@ -4162,7 +4106,7 @@ Assistant de plateau AV
 
 |
 
-Riggers
+Accrocheur-rigger
 
 |
 
@@ -4170,7 +4114,7 @@ Riggers
 
 |
 
-Machinistes AV
+Machiniste AV
 
 |
 
@@ -4186,7 +4130,7 @@ Chef machiniste AV
 
 |
 
-Electricien prise de vue
+Electricien AV
 
 |
 
@@ -4210,7 +4154,7 @@ Poursuiteur
 
 |
 
-Chef poursuiteur AV
+Groupiste flux AV
 
 |
 
@@ -4218,7 +4162,7 @@ Chef poursuiteur AV
 
 |
 
-Blocker
+Chef électricien AV
 
 |
 
@@ -4226,7 +4170,7 @@ Blocker
 
 |
 
-Groupiste flux AV
+Chef d'atelier lumière
 
 |
 
@@ -4234,7 +4178,7 @@ Groupiste flux AV
 
 |
 
-Chef électricien prise de vue
+Chef de plateau AV
 
 |
 
@@ -4242,7 +4186,7 @@ Chef électricien prise de vue
 
 |
 
-Chef d'atelier lumière
+Coiffeur
 
 |
 
@@ -4250,7 +4194,7 @@ Chef d'atelier lumière
 
 |
 
-Chef de plateau AV
+Maquilleur
 
 |
 
@@ -4258,7 +4202,7 @@ Chef de plateau AV
 
 |
 
-Coiffeur
+Chef maquilleur
 
 |
 
@@ -4266,39 +4210,7 @@ Coiffeur
 
 |
 
-Maquilleur
-
-|
-
-16
-
-|
-
-Chef maquilleur
-
-|
-
-17
-
-|
-
 Habilleur
-
-|
-
-18
-
-|
-
-Costumier
-
-|
-
-19
-
-|
-
-Chef costumier
 
 |
 
@@ -4316,19 +4228,11 @@ Directeur casting
 
 |
 
-2e assistant de réalisation AV
-
-|
-
-3
-
-|
-
 1er assistant de réalisation AV
 
 |
 
-4
+3
 
 |
 
@@ -4336,23 +4240,13 @@ Scripte AV
 
 |
 
-5
-
-|
-
-Réalisateur AV*
-
-|
-
-* Fonction intégrée à l'annexe 10 en vertu de l'article 46 de la loi relative à la liberté de la création, à l'architecture et au patrimoine
-
 Exploitation, régie et maintenance
 
 1
 
 |
 
-Technicien de maintenance N1
+Agent de maintenance
 
 |
 
@@ -4360,7 +4254,7 @@ Technicien de maintenance N1
 
 |
 
-Technicien de maintenance N2
+Technicien de maintenance
 
 |
 
@@ -4368,7 +4262,7 @@ Technicien de maintenance N2
 
 |
 
-Ingénieur de maintenance
+Chef de maintenance
 
 |
 
@@ -4376,7 +4270,7 @@ Ingénieur de maintenance
 
 |
 
-Opérateur synthétiseur
+Responsable de maintenance
 
 |
 
@@ -4384,7 +4278,7 @@ Opérateur synthétiseur
 
 |
 
-Infographiste AV
+Opérateur synthétiseur
 
 |
 
@@ -4392,7 +4286,7 @@ Infographiste AV
 
 |
 
-Chef graphiste AV
+Infographiste AV
 
 |
 
@@ -4400,7 +4294,7 @@ Chef graphiste AV
 
 |
 
-Truquiste AV
+Infographiste supérieur AV
 
 |
 
@@ -4408,7 +4302,7 @@ Truquiste AV
 
 |
 
-Opérateur magnétoscope
+Chef graphiste AV
 
 |
 
@@ -4416,7 +4310,7 @@ Opérateur magnétoscope
 
 |
 
-Opérateur ralenti
+Truquiste AV
 
 |
 
@@ -4424,7 +4318,7 @@ Opérateur ralenti
 
 |
 
-Opérateur serveur vidéo
+Opérateur ralenti
 
 |
 
@@ -4432,7 +4326,7 @@ Opérateur serveur vidéo
 
 |
 
-Assistant d'exploitation AV
+Technicien supérieur serveur vidéo
 
 |
 
@@ -4440,7 +4334,7 @@ Assistant d'exploitation AV
 
 |
 
-Technicien d'exploitation AV
+Assistant d'exploitation AV et/ ou numérique
 
 |
 
@@ -4448,7 +4342,7 @@ Technicien d'exploitation AV
 
 |
 
-Technicien supérieur d'exploitation AV
+Technicien d'exploitation AV et/ ou numérique
 
 |
 
@@ -4456,7 +4350,7 @@ Technicien supérieur d'exploitation AV
 
 |
 
-Ingénieur de la vision
+Technicien supérieur d'exploitation AV et/ ou numérique
 
 |
 
@@ -4464,7 +4358,7 @@ Ingénieur de la vision
 
 |
 
-Chef d'équipement AV
+Chargé d'exploitation AV et/ ou numérique
 
 |
 
@@ -4472,7 +4366,7 @@ Chef d'équipement AV
 
 |
 
-Conducteur de moyens mobiles
+Ingénieur de la vision
 
 |
 
@@ -4480,7 +4374,7 @@ Conducteur de moyens mobiles
 
 |
 
-Coordinateur d'antenne
+Chef d'équipement AV
 
 |
 
@@ -4488,7 +4382,63 @@ Coordinateur d'antenne
 
 |
 
+Conducteur de moyens mobiles
+
+|
+
+19
+
+|
+
+Coordinateur d'antenne
+
+|
+
+20
+
+|
+
+Technicien de régie finale
+
+|
+
+21
+
+|
+
+Technicien supérieur de régie finale
+
+|
+
+22
+
+|
+
 Chef d'antenne
+
+|
+
+23
+
+|
+
+Technicien image numérique (DIT)
+
+|
+
+24
+
+|
+
+Opérateur de sauvegarde de données (data wrangler)
+
+|
+
+25
+
+|
+
+Data manager
 
 |
 
@@ -4506,7 +4456,7 @@ Assistant de production AV
 
 |
 
-Assistant d'exploitation en production
+Chargé de production AV
 
 |
 
@@ -4514,7 +4464,7 @@ Assistant d'exploitation en production
 
 |
 
-Chargé de production AV
+Directeur de production AV
 
 |
 
@@ -4522,27 +4472,11 @@ Chargé de production AV
 
 |
 
-Directeur de production AV
-
-|
-
-5
-
-|
-
-Coordinateur de production
-
-|
-
-6
-
-|
-
 Administrateur de production
 
 |
 
-7
+5
 
 |
 
@@ -4556,7 +4490,7 @@ Décoration et accessoires
 
 |
 
-Régisseur décors
+Aide décors
 
 |
 
@@ -4564,7 +4498,7 @@ Régisseur décors
 
 |
 
-Aide décors
+Machiniste décors
 
 |
 
@@ -4572,7 +4506,7 @@ Aide décors
 
 |
 
-Machiniste décors
+Serrurier métallier
 
 |
 
@@ -4580,7 +4514,7 @@ Machiniste décors
 
 |
 
-Sculpteur décors
+Peintre
 
 |
 
@@ -4588,7 +4522,7 @@ Sculpteur décors
 
 |
 
-Serrurier métallier
+Menuisier décors
 
 |
 
@@ -4596,7 +4530,7 @@ Serrurier métallier
 
 |
 
-Tapissier décors
+Chef constructeur décors
 
 |
 
@@ -4604,7 +4538,7 @@ Tapissier décors
 
 |
 
-Peintre
+1er assistant décors
 
 |
 
@@ -4612,7 +4546,7 @@ Peintre
 
 |
 
-Peintre décors
+Chef décorateur
 
 |
 
@@ -4620,7 +4554,7 @@ Peintre décors
 
 |
 
-Chef peintre
+Chef d'atelier décors
 
 |
 
@@ -4628,67 +4562,11 @@ Chef peintre
 
 |
 
-Menuisier décors
-
-|
-
-11
-
-|
-
-Chef constructeur décors
-
-|
-
-12
-
-|
-
-2nd assistant décors
-
-|
-
-13
-
-|
-
-1er assistant décors
-
-|
-
-14
-
-|
-
-Chef décorateur
-
-|
-
-15
-
-|
-
-Chef d'atelier décors
-
-|
-
-16
-
-|
-
 Accessoiriste
 
 |
 
-17
-
-|
-
-Ensemblier
-
-|
-
-Postproduction, doublage et sous- titrage
+Filière postproduction, doublage et sous-titrage
 
 1
 
@@ -4702,7 +4580,7 @@ Technicien authoring
 
 |
 
-Opérateur de PAD/bandes antenne
+Opérateur de PAD/ bandes antenne
 
 |
 
@@ -4710,7 +4588,7 @@ Opérateur de PAD/bandes antenne
 
 |
 
-Agent de duplication AV
+Opérateur imageur
 
 |
 
@@ -4718,7 +4596,7 @@ Agent de duplication AV
 
 |
 
-Opérateur de duplication AV
+Opérateur en restauration numérique
 
 |
 
@@ -4726,7 +4604,7 @@ Opérateur de duplication AV
 
 |
 
-Opérateur scanner imageur
+Technicien restauration numérique
 
 |
 
@@ -4734,7 +4612,7 @@ Opérateur scanner imageur
 
 |
 
-Opérateur en restauration numérique
+Releveur de dialogue
 
 |
 
@@ -4742,7 +4620,7 @@ Opérateur en restauration numérique
 
 |
 
-Technicien restauration numérique
+Repéreur
 
 |
 
@@ -4750,7 +4628,7 @@ Technicien restauration numérique
 
 |
 
-Projectionniste AV
+Détecteur
 
 |
 
@@ -4758,7 +4636,7 @@ Projectionniste AV
 
 |
 
-Releveur de dialogue
+Traducteur-adaptateur
 
 |
 
@@ -4766,7 +4644,7 @@ Releveur de dialogue
 
 |
 
-Repéreur
+Traducteur
 
 |
 
@@ -4774,7 +4652,7 @@ Repéreur
 
 |
 
-Détecteur
+Adaptateur
 
 |
 
@@ -4782,7 +4660,7 @@ Détecteur
 
 |
 
-Calligraphe
+Sous-titreur SME
 
 |
 
@@ -4790,7 +4668,7 @@ Calligraphe
 
 |
 
-Traducteur-adaptateur
+Opérateur de repérage/ simulation
 
 |
 
@@ -4798,7 +4676,7 @@ Traducteur-adaptateur
 
 |
 
-Traducteur
+Audio-descripteur
 
 |
 
@@ -4806,7 +4684,7 @@ Traducteur
 
 |
 
-Adaptateur
+Directeur artistique
 
 |
 
@@ -4814,7 +4692,7 @@ Adaptateur
 
 |
 
-Dactylographe de bande - opérateur de saisie
+Monteur synchro
 
 |
 
@@ -4822,7 +4700,7 @@ Dactylographe de bande - opérateur de saisie
 
 |
 
-Opérateur de repérage/simulation
+Responsable artistique
 
 |
 
@@ -4830,7 +4708,7 @@ Opérateur de repérage/simulation
 
 |
 
-Audio descripteur
+Chargé artistique
 
 |
 
@@ -4838,7 +4716,7 @@ Audio descripteur
 
 |
 
-Directeur artistique
+Assistant artistique
 
 |
 
@@ -4846,7 +4724,7 @@ Directeur artistique
 
 |
 
-Monteur sous-titres
+Coordinateur linguistique
 
 |
 
@@ -4854,7 +4732,7 @@ Monteur sous-titres
 
 |
 
-Monteur synchro
+Chargé de coordination linguistique
 
 |
 
@@ -4862,43 +4740,13 @@ Monteur synchro
 
 |
 
-Opérateur graveur
-
-|
-
-23
-
-|
-
-Responsable artistique
-
-|
-
-24
-
-|
-
-Assistant artistique
-
-|
-
-25
-
-|
-
-Coordinateur linguistique
-
-|
-
-26
-
-|
-
 Assistant coordinateur linguistique
 
 |
 
-27
+Montage
+
+1
 
 |
 
@@ -4906,23 +4754,23 @@ Assistant monteur AV
 
 |
 
-28
+2
 
 |
 
-Monteur flux
+Monteur AV
 
 |
 
-29
+3
 
 |
 
-Chef monteur flux
+Chef monteur AV
 
 |
 
-30
+4
 
 |
 
@@ -4930,15 +4778,23 @@ Monteur truquiste AV
 
 |
 
-31
+5
 
 |
 
-Opérateur télécinéma
+Opérateur scanneur
 
 |
 
-32
+6
+
+|
+
+Assistant étalonneur
+
+|
+
+7
 
 |
 
@@ -4946,7 +4802,7 @@ Etalonneur
 
 |
 
-33
+8
 
 |
 
@@ -4954,15 +4810,7 @@ Chef opérateur-étalonneur
 
 |
 
-34
-
-|
-
-Bruiteur
-
-|
-
-35
+9
 
 |
 
@@ -4970,7 +4818,7 @@ Bruiteur de complément
 
 |
 
-36
+10
 
 |
 
@@ -4978,7 +4826,7 @@ Assistant de postproduction
 
 |
 
-37
+11
 
 |
 
@@ -4986,13 +4834,21 @@ Chargé de postproduction
 
 |
 
-Animation et effets visuels numériques
+12
+
+|
+
+Directeur de postproduction
+
+|
+
+Filière animation et effets visuels numériques
 
 1
 
 |
 
-Chef de projet multimédia
+Gestionnaire des calculs des rendus d'images de synthèse
 
 |
 
@@ -5000,11 +4856,9 @@ Chef de projet multimédia
 
 |
 
-Responsable technique multimédia
+Superviseur des effets spéciaux
 
 |
-
-L'ensemble des fonctions de cette filière relève des listes du secteur de la production de films d'animation (cf. paragraphe 9 ci-dessous).
 
 Liste B : spectacle vivant
 
@@ -5016,7 +4870,7 @@ Régie générale
 
 |
 
-Régisseur général
+Directeur technique
 
 |
 
@@ -5024,7 +4878,7 @@ Régisseur général
 
 |
 
-Directeur technique
+Régisseur général
 
 |
 
@@ -5048,7 +4902,7 @@ Logisticien
 
 |
 
-Assistant directeur technique
+Technicien réseaux
 
 |
 
@@ -5056,7 +4910,7 @@ Assistant directeur technique
 
 |
 
-Assistant logisticien
+Logisticien adjoint
 
 |
 
@@ -5064,7 +4918,7 @@ Assistant logisticien
 
 |
 
-Technicien de scène/plateau
+Technicien de scène/ plateau
 
 |
 
@@ -5072,7 +4926,7 @@ Technicien de scène/plateau
 
 |
 
-Assistant technicien de scène/plateau
+Assistant technicien de scène/ plateau
 
 |
 
@@ -5082,7 +4936,7 @@ Plateau
 
 |
 
-Régisseur/régisseur de scène/de salle
+Superviseur de chantier
 
 |
 
@@ -5090,7 +4944,7 @@ Régisseur/régisseur de scène/de salle
 
 |
 
-Responsable de chantier
+Superviseur de chantier adjoint
 
 |
 
@@ -5098,7 +4952,7 @@ Responsable de chantier
 
 |
 
-Chef backliner
+Régisseur/ régisseur de scène/ de salle
 
 |
 
@@ -5106,7 +4960,7 @@ Chef backliner
 
 |
 
-Technicien instrument de musique/backliner
+Chef instrument de musique/ backliner
 
 |
 
@@ -5114,7 +4968,7 @@ Technicien instrument de musique/backliner
 
 |
 
-Aide de scène/plateau
+Technicien instrument de musique/ backliner
 
 |
 
@@ -5122,7 +4976,7 @@ Aide de scène/plateau
 
 |
 
-Road
+Road/ aide de scène
 
 |
 
@@ -5132,7 +4986,7 @@ Son
 
 |
 
-Concepteur son
+Designer son
 
 |
 
@@ -5148,7 +5002,7 @@ Régisseur son
 
 |
 
-Ingénieur de sonorisation
+Chef sonorisateur
 
 |
 
@@ -5172,35 +5026,11 @@ Technicien son
 
 |
 
-Sonorisateur
-
-|
-
-7
-
-|
-
 Assistant sonorisateur
 
 |
 
-8
-
-|
-
-Pupitreur son SV
-
-|
-
-9
-
-|
-
-Opérateur son SV
-
-|
-
-10
+7
 
 |
 
@@ -5214,11 +5044,19 @@ Lumière
 
 |
 
-Concepteur lumière/éclairagiste
+Designer lumière
 
 |
 
 2
+
+|
+
+Eclairagiste
+
+|
+
+3
 
 |
 
@@ -5226,7 +5064,23 @@ Régisseur lumière
 
 |
 
-3
+4
+
+|
+
+Chef poursuiteur
+
+|
+
+5
+
+|
+
+Pupitreur lumière
+
+|
+
+6
 
 |
 
@@ -5234,15 +5088,15 @@ Technicien lumière
 
 |
 
-4
+7
 
 |
 
-Pupitreur lumière SV
+Programmeur/ encodeur lumière
 
 |
 
-5
+8
 
 |
 
@@ -5250,7 +5104,7 @@ Assistant lumière
 
 |
 
-6
+9
 
 |
 
@@ -5258,7 +5112,7 @@ Poursuiteur
 
 |
 
-7
+10
 
 |
 
@@ -5266,13 +5120,13 @@ Aide lumière
 
 |
 
-Structure-machinerie
+Structure-Accrochage/Levage-Echafaudage
 
 1
 
 |
 
-Ingénieur structure
+Directeur de structure
 
 |
 
@@ -5280,11 +5134,19 @@ Ingénieur structure
 
 |
 
-Assistant ingénieur structure
+Superviseur rigger/ accrocheur
 
 |
 
 3
+
+|
+
+Concepteur motorisation asservie
+
+|
+
+4
 
 |
 
@@ -5292,19 +5154,11 @@ Régisseur structure
 
 |
 
-4
-
-|
-
-Chef rigger
-
-|
-
 5
 
 |
 
-Chef machiniste de scène
+Chef/ régisseur motorisation asservie
 
 |
 
@@ -5312,7 +5166,7 @@ Chef machiniste de scène
 
 |
 
-Chef monteur de structure
+Pupitreur motorisation asservie
 
 |
 
@@ -5320,7 +5174,7 @@ Chef monteur de structure
 
 |
 
-Chef technicien de maintenance en tournée/festival
+Technicien scaffholder/ échafaudeur
 
 |
 
@@ -5328,7 +5182,7 @@ Chef technicien de maintenance en tournée/festival
 
 |
 
-Technicien de structure/constructeur
+Rigger/ accrocheur
 
 |
 
@@ -5336,35 +5190,11 @@ Technicien de structure/constructeur
 
 |
 
-Rigger/accrocheur
+Technicien motorisation asservie
 
 |
 
 10
-
-|
-
-Machiniste de scène
-
-|
-
-11
-
-|
-
-Technicien de maintenance en tournée/festival
-
-|
-
-12
-
-|
-
-Assistant machiniste scène/assistant rigger
-
-|
-
-13
 
 |
 
@@ -5372,109 +5202,11 @@ Technicien de structure
 
 |
 
-14
-
-|
-
-Echafaudagiste/scaffoldeur
-
-|
-
-15
-
-|
-
-Monteur de structures
-
-|
-
-Vidéo-image
-
-1
-
-|
-
-Réalisateur de SV*
-
-|
-
-2
-
-|
-
-Chargé de production SV
-
-|
-
-3
-
-|
-
-Infographiste audiovisuel
-
-|
-
-4
-
-|
-
-Programmeur/encodeur multimédia
-
-|
-
-5
-
-|
-
-Technicien écran plein jour
-
-|
-
-6
-
-|
-
-Pupitreur images monumentales
-
-|
-
-7
-
-|
-
-Technicien vidéoprojection
-
-|
-
-8
-
-|
-
-Technicien de la vision SV
-
-|
-
-9
-
-|
-
-Scripte de SV
-
-|
-
-10
-
-|
-
-Assistant écran plein jour
-
-|
-
 11
 
 |
 
-Technicien images monumentales
+Assistant rigger/ accrocheur
 
 |
 
@@ -5482,7 +5214,7 @@ Technicien images monumentales
 
 |
 
-Opérateur de caméra
+Assistant pupitreur motorisation asservie
 
 |
 
@@ -5490,19 +5222,115 @@ Opérateur de caméra
 
 |
 
-Assistant vidéo SV
+Monteur de structures
 
 |
 
-14
+Vidéo-Image
+
+1
 
 |
 
-Opérateur magnéto SV
+Directeur de production SV
 
 |
 
-* Fonction intégrée à l'annexe 10 en vertu de l'article 46 de la loi relative à la liberté de la création, à l'architecture et au patrimoine
+2
+
+|
+
+Infographiste audiovisuel
+
+|
+
+3
+
+|
+
+Programmeur/ encodeur multimédia
+
+|
+
+4
+
+|
+
+Technicien diffusion d'images
+
+|
+
+5
+
+|
+
+Technicien de la vision SV
+
+|
+
+6
+
+|
+
+Technicien média serveur
+
+|
+
+7
+
+|
+
+Technicien vidéo SV
+
+|
+
+8
+
+|
+
+Cadreur SV
+
+|
+
+9
+
+|
+
+Toppeur
+
+|
+
+10
+
+|
+
+Opérateur d'enregistrement SV
+
+|
+
+11
+
+|
+
+Assistant média serveur
+
+|
+
+12
+
+|
+
+Aide vidéo
+
+|
+
+13
+
+|
+
+Assistant vidéo
+
+|
 
 Pyrotechnie
 
@@ -5510,7 +5338,7 @@ Pyrotechnie
 
 |
 
-Concepteur de pyrotechnie
+Pyrotechnicien
 
 |
 
@@ -5526,7 +5354,7 @@ Chef de tir
 
 |
 
-Technicien de pyrotechnie K4
+Technicien de pyrotechnie
 
 |
 
@@ -5552,7 +5380,7 @@ Chef électricien
 
 |
 
-Electricien
+Mécanicien groupman
 
 |
 
@@ -5560,19 +5388,11 @@ Electricien
 
 |
 
-Blockeur
+Electricien
 
 |
 
 4
-
-|
-
-Mécanicien groupman
-
-|
-
-5
 
 |
 
@@ -5580,13 +5400,13 @@ Assistant électricien
 
 |
 
-Décors-accessoires
+Décors
 
 1
 
 |
 
-Chef décorateur
+Directeur décorateur
 
 |
 
@@ -5594,7 +5414,7 @@ Chef décorateur
 
 |
 
-Concepteur technique machinerie/décor
+Superviseur constructeur de décors/ machinerie
 
 |
 
@@ -5602,7 +5422,7 @@ Concepteur technique machinerie/décor
 
 |
 
-Assistant chef décorateur
+Concepteur technique décors/ machinerie
 
 |
 
@@ -5610,7 +5430,7 @@ Assistant chef décorateur
 
 |
 
-Chef constructeur de décor/machinerie
+Assistant directeur décorateur
 
 |
 
@@ -5634,7 +5454,7 @@ Chef peintre décorateur
 
 |
 
-Chef serrurier/serrurier métallier de théâtre
+Chef serrurier/ serrurier métallier
 
 |
 
@@ -5642,7 +5462,7 @@ Chef serrurier/serrurier métallier de théâtre
 
 |
 
-Chef sculpteur de théâtre
+Chef sculpteur
 
 |
 
@@ -5650,7 +5470,7 @@ Chef sculpteur de théâtre
 
 |
 
-Chef tapissier de théâtre
+Chef tapissier
 
 |
 
@@ -5658,7 +5478,7 @@ Chef tapissier de théâtre
 
 |
 
-Chef staffeur de théâtre (mouleur/matériaux de synthèse)
+Chef staffeur
 
 |
 
@@ -5666,7 +5486,7 @@ Chef staffeur de théâtre (mouleur/matériaux de synthèse)
 
 |
 
-Constructeur de machinerie/de décors
+Constructeur de décors/ de machinerie
 
 |
 
@@ -5698,7 +5518,7 @@ Peintre patineur
 
 |
 
-Serrurier/serrurier métallier de théâtre
+Serrurier/ serrurier métallier
 
 |
 
@@ -5706,7 +5526,7 @@ Serrurier/serrurier métallier de théâtre
 
 |
 
-Sculpteur de théâtre
+Sculpteur
 
 |
 
@@ -5714,7 +5534,7 @@ Sculpteur de théâtre
 
 |
 
-Tapissier de théâtre
+Tapissier
 
 |
 
@@ -5722,7 +5542,7 @@ Tapissier de théâtre
 
 |
 
-Staffeur de théâtre
+Staffeur
 
 |
 
@@ -5730,7 +5550,7 @@ Staffeur de théâtre
 
 |
 
-Assistant constructeur de machinerie/décors
+Assistant constructeur de décors/ machinerie
 
 |
 
@@ -5754,7 +5574,7 @@ Assistant peintre décorateur
 
 |
 
-Assistant serrurier/métallier de théâtre
+Assistant serrurier/ métallier
 
 |
 
@@ -5762,7 +5582,7 @@ Assistant serrurier/métallier de théâtre
 
 |
 
-Assistant tapissier de théâtre
+Assistant sculpteur
 
 |
 
@@ -5770,11 +5590,19 @@ Assistant tapissier de théâtre
 
 |
 
-Assistant staffeur de théâtre
+Assistant tapissier
 
 |
 
 25
+
+|
+
+Assistant staffeur
+
+|
+
+26
 
 |
 
@@ -5782,13 +5610,13 @@ Aide décors
 
 |
 
-Costume-accessoire-maquillage-coiffure
+Costume-Accessoire-Maquillage-Coiffure
 
 1
 
 |
 
-Concepteur de costume/costumier
+Directeur costumier
 
 |
 
@@ -5796,7 +5624,7 @@ Concepteur de costume/costumier
 
 |
 
-Réalisateur de costume
+Directeur coiffeur/ maquilleur
 
 |
 
@@ -5804,7 +5632,7 @@ Réalisateur de costume
 
 |
 
-Chef tailleur couturier
+Chef costumier/ chapelier modiste
 
 |
 
@@ -5812,7 +5640,7 @@ Chef tailleur couturier
 
 |
 
-Chef teinturier
+Chef coiffeur/ maquilleur
 
 |
 
@@ -5820,7 +5648,7 @@ Chef teinturier
 
 |
 
-Chef coloriste
+Chef accessoiriste
 
 |
 
@@ -5828,7 +5656,7 @@ Chef coloriste
 
 |
 
-Chef chapelier
+Costumier/ chapelier modiste
 
 |
 
@@ -5836,7 +5664,7 @@ Chef chapelier
 
 |
 
-Chef réalisateur masques
+Coiffeur/ maquilleur
 
 |
 
@@ -5844,7 +5672,7 @@ Chef réalisateur masques
 
 |
 
-Chef maquilleur
+Accessoiriste
 
 |
 
@@ -5852,7 +5680,7 @@ Chef maquilleur
 
 |
 
-Chef accessoiriste
+Assistant costumier/ chapelier modiste
 
 |
 
@@ -5860,7 +5688,7 @@ Chef accessoiriste
 
 |
 
-Chef modiste
+Assistant coiffeur/ maquilleur
 
 |
 
@@ -5868,7 +5696,7 @@ Chef modiste
 
 |
 
-Couturier/tailleur couturier
+Assistant accessoiriste
 
 |
 
@@ -5876,115 +5704,9 @@ Couturier/tailleur couturier
 
 |
 
-Coiffeur/posticheur
+Aide costumier
 
 |
-
-13
-
-|
-
-Maquilleur/maquilleur effets spéciaux
-
-|
-
-14
-
-|
-
-Accessoiriste
-
-|
-
-15
-
-|
-
-Modiste
-
-|
-
-16
-
-|
-
-Assistant réalisateur de costume
-
-|
-
-17
-
-|
-
-Assistant couturier/assistant couturier tailleur
-
-|
-
-18
-
-|
-
-Assistant teinturier
-
-|
-
-19
-
-|
-
-Assistant coloriste
-
-|
-
-20
-
-|
-
-Assistant chapelier
-
-|
-
-21
-
-|
-
-Assistant coiffeur
-
-|
-
-22
-
-|
-
-Assistant maquilleur
-
-|
-
-23
-
-|
-
-Assistant accessoiriste
-
-|
-
-24
-
-|
-
-Assistant modiste
-
-|
-
-25
-
-|
-
-Aide costumière
-
-|
-
-* Fonction intégrée à l'annexe 10 en vertu de l'article 46 de la loi relative à la liberté de la création, à l'architecture et au patrimoine
 
 5. Radiodiffusion (dont IDCC 1922)
 
@@ -7378,7 +7100,7 @@ Salariés
 
 L'activité du salarié doit correspondre à l'une des fonctions mentionnées dans l'une des listes correspondant au spectacle vivant privé (6) ou au spectacle vivant subventionné (7) selon la qualification de son employeur en application de l'article 1 de l'accord interbranche du 22 mars 2005 relatif à l'harmonisation des plafonds applicables à l'indemnité journalière de congé payé dans les branches d'activité du spectacle vivant.
 
-Si l'employeur est une entreprise du secteur privé tel que défini à l'article 1 de l'accord interbranche du 22 mars 2005, alors l'activité du salarié doit correspondre à l'une des fonctions mentionnées dans la liste correspondant au spectacle vivant privé (6) :
+Si l'employeur est une entreprise du secteur privé tel que défini à l'article 1 de l'accord interbranche du 22 mars 2005, alors l'activité du salarié doit correspondre à l'une des fonctions mentionnées dans la liste correspondant au spectacle vivant privé (la fonction de chef, d'assistant ou d'adjoint peut être appliquée à l'ensemble des emplois de base désignés ci-dessous, qui peuvent également être déclinés au féminin) :
 
 1
 
@@ -7424,7 +7146,7 @@ Armurier
 
 |
 
-Artificier/technicien de pyrotechnie
+Artificier/ technicien de pyrotechnie
 
 |
 
@@ -7432,7 +7154,7 @@ Artificier/technicien de pyrotechnie
 
 |
 
-Attaché de production/chargé de production
+Attaché de production/ chargé de production
 
 |
 
@@ -7448,7 +7170,7 @@ Bottier
 
 |
 
-Chapelier/modiste de spectacles
+Chapelier/ modiste de spectacles
 
 |
 
@@ -7464,7 +7186,7 @@ Cintrier
 
 |
 
-Coiffeur/posticheur
+Coiffeur/ posticheur
 
 |
 
@@ -7472,7 +7194,7 @@ Coiffeur/posticheur
 
 |
 
-Collaborateur artistique du metteur en scène/du chorégraphe/du directeur musical
+Collaborateur artistique du metteur en scène/ du chorégraphe/ du directeur musical
 
 |
 
@@ -7488,7 +7210,7 @@ Concepteur artificier
 
 |
 
-Concepteur des éclairages/éclairagiste/concepteur lumière
+Concepteur des éclairages/ éclairagiste/ concepteur lumière
 
 |
 
@@ -7496,7 +7218,7 @@ Concepteur des éclairages/éclairagiste/concepteur lumière
 
 |
 
-Concepteur du son/ingénieur du son
+Concepteur du son/ ingénieur du son
 
 |
 
@@ -7504,7 +7226,7 @@ Concepteur du son/ingénieur du son
 
 |
 
-Conseiller technique/conseiller technique aux effets spéciaux
+Conseiller technique/ conseiller technique aux effets spéciaux
 
 |
 
@@ -7576,7 +7298,7 @@ Habilleur
 
 |
 
-Lingère/repasseuse/retoucheuse
+Lingère/ repasseuse/ retoucheuse
 
 |
 
@@ -7584,7 +7306,7 @@ Lingère/repasseuse/retoucheuse
 
 |
 
-Machiniste/constructeur de décors et structures
+Machiniste/ constructeur de décors et structures
 
 |
 
@@ -7600,7 +7322,7 @@ Maquilleur
 
 |
 
-Menuisier de décors/menuisier de spectacles
+Menuisier de décors/ menuisier de spectacles
 
 |
 
@@ -7616,7 +7338,7 @@ Monteur son
 
 |
 
-Opérateur lumière/pupitreur/technicien CAO-PAO
+Opérateur lumière/ pupitreur/ technicien CAO-PAO
 
 |
 
@@ -7624,7 +7346,7 @@ Opérateur lumière/pupitreur/technicien CAO-PAO
 
 |
 
-Opérateur son/preneur de son
+Opérateur son/ preneur de son
 
 |
 
@@ -7712,7 +7434,7 @@ Réalisateur maquillages, masque
 
 |
 
-Réalisateur son/sonorisateur
+Réalisateur son/ sonorisateur
 
 |
 
@@ -7720,7 +7442,7 @@ Réalisateur son/sonorisateur
 
 |
 
-Régisseur/régisseur de production
+Régisseur/ régisseur de production
 
 |
 
@@ -7728,7 +7450,7 @@ Régisseur/régisseur de production
 
 |
 
-Régisseur d'orchestre/régisseur de chœur
+Régisseur d'orchestre/ régisseur de chœur
 
 |
 
@@ -7744,7 +7466,7 @@ Régisseur de salle et de site (dans le cadre d'un festival exclusivement)
 
 |
 
-Régisseur de scène/régisseur d'équipement scénique
+Régisseur de scène/ régisseur d'équipement scénique
 
 |
 
@@ -7784,7 +7506,7 @@ Régisseur son
 
 |
 
-Répétiteur/souffleur
+Répétiteur/ souffleur
 
 |
 
@@ -7808,7 +7530,7 @@ Scénographe
 
 |
 
-Sculpteur de théâtre/sculpteur de spectacles
+Sculpteur de théâtre/ sculpteur de spectacles
 
 |
 
@@ -7816,7 +7538,7 @@ Sculpteur de théâtre/sculpteur de spectacles
 
 |
 
-Serrurier/serrurier métallier de théâtre/serrurier de spectacles
+Serrurier/ serrurier métallier de théâtre/ serrurier de spectacles
 
 |
 
@@ -7832,7 +7554,7 @@ Staffeur
 
 |
 
-Tailleur/couturier
+Tailleur/ couturier
 
 |
 
@@ -7840,7 +7562,7 @@ Tailleur/couturier
 
 |
 
-Tapissier de théâtre/tapissier de spectacles
+Tapissier de théâtre/ tapissier de spectacles
 
 |
 
@@ -7864,7 +7586,7 @@ Technicien de maintenance (dans le cadre d'une tournée et d'un festival exclusi
 
 |
 
-Technicien de plateau/technicien hydraulique/cariste de spectacles
+Technicien de plateau/ technicien hydraulique/ cariste de spectacles
 
 |
 
@@ -7896,7 +7618,7 @@ Technicien lumière
 
 |
 
-Technicien son/technicien HF
+Technicien son/ technicien HF
 
 |
 
@@ -7924,7 +7646,7 @@ Teinturier coloriste de spectacles
 
 |
 
-Audiovisuel dans les spectacles mixtes et/ou captations à but non commercial
+Audiovisuel dans les spectacles mixtes et/ ou captations à but non commercial
 
 69
 
@@ -7954,7 +7676,7 @@ Monteur
 
 |
 
-Opérateur image/pupitreur
+Opérateur image/ pupitreur
 
 |
 
@@ -7990,7 +7712,7 @@ Technicien vidéo
 
 |
 
-Si l'employeur est une entreprise du secteur public tel que défini à l'article 1 de l'accord interbranche du 22 mars 2005, alors l'activité du salarié doit correspondre à l'une des fonctions mentionnées dans la liste correspondant au spectacle vivant subventionné (7) :
+Si l'employeur est une entreprise du secteur public tel que défini à l'article 1 de l'accord interbranche du 22 mars 2005, alors l'activité du salarié doit correspondre à l'une des fonctions mentionnées dans la liste correspondant au spectacle vivant subventionné (la fonction de chef, d'assistant ou d'adjoint peut être appliquée à l'ensemble des emplois de base désignés ci-dessous, qui peuvent également être déclinés au féminin) :
 
 1
 
@@ -8036,7 +7758,7 @@ Armurier
 
 |
 
-Artificier/technicien de pyrotechnie
+Artificier/ technicien de pyrotechnie
 
 |
 
@@ -8044,7 +7766,7 @@ Artificier/technicien de pyrotechnie
 
 |
 
-Attaché de production/chargé de production
+Attaché de production/ chargé de production
 
 |
 
@@ -8060,7 +7782,7 @@ Bottier
 
 |
 
-Chapelier/modiste de spectacles
+Chapelier/ modiste de spectacles
 
 |
 
@@ -8076,7 +7798,7 @@ Cintrier
 
 |
 
-Coiffeur/posticheur
+Coiffeur/ posticheur
 
 |
 
@@ -8084,7 +7806,7 @@ Coiffeur/posticheur
 
 |
 
-Collaborateur artistique du metteur en scène/du chorégraphe/du directeur musical
+Collaborateur artistique du metteur en scène/ du chorégraphe/ du directeur musical
 
 |
 
@@ -8092,7 +7814,7 @@ Collaborateur artistique du metteur en scène/du chorégraphe/du directeur music
 
 |
 
-Concepteur des éclairages/éclairagiste
+Concepteur des éclairages/ éclairagiste
 
 |
 
@@ -8100,7 +7822,7 @@ Concepteur des éclairages/éclairagiste
 
 |
 
-Concepteur du son/ingénieur du son
+Concepteur du son/ ingénieur du son
 
 |
 
@@ -8180,7 +7902,7 @@ Habilleur
 
 |
 
-Lingère/repasseuse/retoucheuse
+Lingère/ repasseuse/ retoucheuse
 
 |
 
@@ -8188,7 +7910,7 @@ Lingère/repasseuse/retoucheuse
 
 |
 
-Machiniste/constructeur de décors et structures
+Machiniste/ constructeur de décors et structures
 
 |
 
@@ -8228,7 +7950,7 @@ Monteur son
 
 |
 
-Opérateur lumière/pupitreur/technicien CAO-PAO
+Opérateur lumière/ pupitreur/ technicien CAO-PAO
 
 |
 
@@ -8236,7 +7958,7 @@ Opérateur lumière/pupitreur/technicien CAO-PAO
 
 |
 
-Opérateur son/preneur de son
+Opérateur son/ preneur de son
 
 |
 
@@ -8332,7 +8054,7 @@ Réalisateur son
 
 |
 
-Régisseur/régisseur de production
+Régisseur/ régisseur de production
 
 |
 
@@ -8356,7 +8078,7 @@ Régisseur de salle et de site (dans le cadre d'un festival exclusivement)
 
 |
 
-Régisseur de scène/régisseur d'équipement scénique
+Régisseur de scène/ régisseur d'équipement scénique
 
 |
 
@@ -8396,7 +8118,7 @@ Régisseur son
 
 |
 
-Répétiteur/souffleur
+Répétiteur/ souffleur
 
 |
 
@@ -8428,7 +8150,7 @@ Sculpteur de théâtre
 
 |
 
-Serrurier/serrurier métallier de théâtre
+Serrurier/ serrurier métallier de théâtre
 
 |
 
@@ -8444,7 +8166,7 @@ Staffeur
 
 |
 
-Tailleur/couturier
+Tailleur/ couturier
 
 |
 
@@ -8508,7 +8230,7 @@ Technicien lumière
 
 |
 
-Technicien son/technicien HF
+Technicien son/ technicien HF
 
 |
 
@@ -8533,5 +8255,71 @@ Technicien groupe électrogène (groupman)
 |
 
 Teinturier coloriste de spectacles
+
+|
+
+Audiovisuel dans les spectacles mixtes et/ ou captations à but non commercial
+
+69
+
+|
+
+Cadreur
+
+|
+
+70
+
+|
+
+Chef opérateur
+
+|
+
+71
+
+|
+
+Monteur
+
+|
+
+72
+
+|
+
+Opérateur image/ pupitreur
+
+|
+
+73
+
+|
+
+Opérateur vidéo
+
+|
+
+74
+
+|
+
+Projectionniste
+
+|
+
+75
+
+|
+
+Régisseur audiovisuel
+
+|
+
+76
+
+|
+
+Technicien vidéo
 
 |

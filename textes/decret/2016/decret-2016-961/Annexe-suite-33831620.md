@@ -846,7 +846,7 @@ L'activité de l'employeur doit être répertoriée par les codes NAF suivants :
 
 Salariés
 
-L'activité du salarié doit correspondre à une des fonctions suivantes (les fonctions ci-dessous ont, en italique, une version féminisée) :
+L'activité du salarié doit correspondre à une des fonctions suivantes :
 
 Filière réalisation
 
@@ -854,7 +854,7 @@ Filière réalisation
 
 |
 
-Réalisateur/réalisatrice*
+Directeur artistique/directrice artistique
 
 |
 
@@ -862,7 +862,7 @@ Réalisateur/réalisatrice*
 
 |
 
-Directeur artistique/directrice artistique
+Directeur d'écriture/directrice d'écriture
 
 |
 
@@ -870,7 +870,7 @@ Directeur artistique/directrice artistique
 
 |
 
-Directeur d'écriture/directrice d'écriture
+Chef storyboarder/chef storyboardeuse
 
 |
 
@@ -878,7 +878,7 @@ Directeur d'écriture/directrice d'écriture
 
 |
 
-Chef storyboarder/chef storyboardeuse
+Storyboarder/storyboardeuse
 
 |
 
@@ -886,7 +886,7 @@ Chef storyboarder/chef storyboardeuse
 
 |
 
-Storyboarder/storyboardeuse
+1er assistant réalisateur/1re assistante réalisatrice
 
 |
 
@@ -894,7 +894,7 @@ Storyboarder/storyboardeuse
 
 |
 
-1er assistant réalisateur/1re assistante réalisatrice
+Scripte/scripte
 
 |
 
@@ -902,7 +902,7 @@ Storyboarder/storyboardeuse
 
 |
 
-Scripte/scripte
+2e assistant réalisateur/2e assistante réalisatrice
 
 |
 
@@ -910,7 +910,7 @@ Scripte/scripte
 
 |
 
-2e assistant réalisateur/2e assistante réalisatrice
+Coordinateur d'écriture/coordinatrice d'écriture
 
 |
 
@@ -918,7 +918,7 @@ Scripte/scripte
 
 |
 
-Coordinateur d'écriture/coordinatrice d'écriture
+Assistant directeur artistique/assistante directrice artistique
 
 |
 
@@ -926,31 +926,21 @@ Coordinateur d'écriture/coordinatrice d'écriture
 
 |
 
-Assistant directeur artistique/assistante directrice artistique
+Assistant storyboarder/assistante storyboardeuse
 
 |
+
+Filière conception
 
 11
 
 |
 
-Assistant storyboarder/assistante storyboardeuse
+Directeur de modélisation/ directrice de modélisation
 
 |
-
-* Fonction intégrée à l'annexe 10 en vertu de l'article 46 de la loi relative à la liberté de la création, à l'architecture et au patrimoine
-
-Filière conception
 
 12
-
-|
-
-Directeur de modélisation/directrice de modélisation
-
-|
-
-13
 
 |
 
@@ -958,7 +948,7 @@ Chef dessinateur d'animation/chef dessinatrice d'animation
 
 |
 
-14
+13
 
 |
 
@@ -966,15 +956,15 @@ Superviseur de modélisation/superviseuse de modélisation
 
 |
 
+14
+
+|
+
+Chef modèles couleur chef modèles couleur
+
+|
+
 15
-
-|
-
-Chef modèles couleur/chef modèles couleur
-
-|
-
-16
 
 |
 
@@ -982,7 +972,7 @@ Dessinateur d'animation/dessinatrice d'animation
 
 |
 
-17
+16
 
 |
 
@@ -990,7 +980,7 @@ Infographiste de modélisation/infographiste de modélisation
 
 |
 
-18
+17
 
 |
 
@@ -998,7 +988,7 @@ Coloriste modèle/coloriste modèle
 
 |
 
-19
+18
 
 |
 
@@ -1006,7 +996,7 @@ Assistant dessinateur d'animation/assistante dessinatrice d'animation
 
 |
 
-20
+19
 
 |
 
@@ -1014,7 +1004,7 @@ Assistant infographiste de modélisation/assistante infographiste de modélisati
 
 |
 
-21
+20
 
 |
 
@@ -1024,7 +1014,7 @@ Opérateur digitalisation/opératrice digitalisation
 
 Filière lay-out
 
-22
+21
 
 |
 
@@ -1032,7 +1022,7 @@ Directeur lay-out/directrice lay-out
 
 |
 
-23
+22
 
 |
 
@@ -1040,7 +1030,7 @@ Chef feuille d'exposition/chef feuille d'exposition
 
 |
 
-24
+23
 
 |
 
@@ -1048,7 +1038,7 @@ Chef cadreur d'animation/chef cadreuse d'animation
 
 |
 
-25
+24
 
 |
 
@@ -1056,7 +1046,7 @@ Chef lay-out/chef lay-out
 
 |
 
-26
+25
 
 |
 
@@ -1064,7 +1054,7 @@ Cadreur d'animation/cadreuse d'animation
 
 |
 
-27
+26
 
 |
 
@@ -1072,7 +1062,7 @@ Animateur feuille d'exposition/animatrice feuille d'exposition
 
 |
 
-28
+27
 
 |
 
@@ -1080,7 +1070,7 @@ Dessinateur lay-out/dessinatrice lay-out
 
 |
 
-29
+28
 
 |
 
@@ -1088,7 +1078,7 @@ Infographiste lay-out/infographiste lay-out
 
 |
 
-30
+29
 
 |
 
@@ -1096,7 +1086,7 @@ Détecteur d'animation/détectrice d'animation
 
 |
 
-31
+30
 
 |
 
@@ -1104,7 +1094,7 @@ Assistant dessinateur lay-out/assistante dessinatrice lay-out
 
 |
 
-32
+31
 
 |
 
@@ -1114,7 +1104,7 @@ Assistant infographiste lay-out/assistante infographiste lay-out
 
 Filière animation
 
-33
+32
 
 |
 
@@ -1122,7 +1112,7 @@ Directeur animation/directrice animation
 
 |
 
-34
+33
 
 |
 
@@ -1130,7 +1120,7 @@ Chef animateur/chef animatrice
 
 |
 
-35
+34
 
 |
 
@@ -1138,7 +1128,7 @@ Chef infographiste 2 D/chef infographiste 2 D
 
 |
 
-36
+35
 
 |
 
@@ -1146,7 +1136,7 @@ Chef assistant/chef assistante
 
 |
 
-37
+36
 
 |
 
@@ -1154,7 +1144,7 @@ Animateur/animatrice
 
 |
 
-38
+37
 
 |
 
@@ -1162,7 +1152,7 @@ Figurant mocap/figurante mocap
 
 |
 
-39
+38
 
 |
 
@@ -1170,7 +1160,7 @@ Infographiste 2 D/infographiste 2 D
 
 |
 
-40
+39
 
 |
 
@@ -1178,7 +1168,7 @@ Assistant animateur/assistante animatrice
 
 |
 
-41
+40
 
 |
 
@@ -1186,7 +1176,7 @@ Opérateur capture de mouvement/opératrice capture de mouvement
 
 |
 
-42
+41
 
 |
 
@@ -1194,7 +1184,7 @@ Opérateur retouche temps réel/opératrice retouche temps réel
 
 |
 
-43
+42
 
 |
 
@@ -1202,7 +1192,7 @@ Intervalliste/intervalliste
 
 |
 
-44
+43
 
 |
 
@@ -1212,7 +1202,7 @@ Assistant infographiste 2 D/assistante infographiste 2 D
 
 Filière décors, rendu et éclairage
 
-45
+44
 
 |
 
@@ -1220,7 +1210,7 @@ Directeur décor/directrice décor
 
 |
 
-46
+45
 
 |
 
@@ -1228,7 +1218,7 @@ Directeur rendu et éclairage/directrice rendu et éclairage
 
 |
 
-47
+46
 
 |
 
@@ -1236,7 +1226,7 @@ Chef décorateur/chef décoratrice
 
 |
 
-48
+47
 
 |
 
@@ -1244,7 +1234,7 @@ Superviseur rendu et éclairage/superviseuse rendu et éclairage
 
 |
 
-49
+48
 
 |
 
@@ -1252,7 +1242,7 @@ Décorateur/décoratrice
 
 |
 
-50
+49
 
 |
 
@@ -1260,15 +1250,15 @@ Infographiste rendu et éclairage/infographiste rendu et éclairage
 
 |
 
+50
+
+|
+
+Matt painter/matt painter
+
+|
+
 51
-
-|
-
-Matt painter//matt painter
-
-|
-
-52
 
 |
 
@@ -1276,7 +1266,7 @@ Assistant décorateur/assistante décoratrice
 
 |
 
-53
+52
 
 |
 
@@ -1286,7 +1276,7 @@ Assistant infographiste rendu et éclairage/assistante infographiste rendu et é
 
 Filière traçage, scan et colorisation
 
-54
+53
 
 |
 
@@ -1294,7 +1284,7 @@ Chef vérificateur d'animation/chef vérificatrice d'animation
 
 |
 
-55
+54
 
 |
 
@@ -1302,7 +1292,7 @@ Chef trace-colorisation/chef trace-colorisation
 
 |
 
-56
+55
 
 |
 
@@ -1310,7 +1300,7 @@ Vérificateur d'animation/vérificatrice d'animation
 
 |
 
-57
+56
 
 |
 
@@ -1318,7 +1308,7 @@ Vérificateur trace-colorisation/vérificatrice trace-colorisation
 
 |
 
-58
+57
 
 |
 
@@ -1326,7 +1316,7 @@ Responsable scan/responsable scan
 
 |
 
-59
+58
 
 |
 
@@ -1334,7 +1324,7 @@ Traceur/traceuse
 
 |
 
-60
+59
 
 |
 
@@ -1342,7 +1332,7 @@ Gouacheur/gouacheuse
 
 |
 
-61
+60
 
 |
 
@@ -1352,7 +1342,7 @@ Opérateur scan/opératrice scan
 
 Filière compositing
 
-62
+61
 
 |
 
@@ -1360,7 +1350,7 @@ Directeur compositing/directrice compositing
 
 |
 
-63
+62
 
 |
 
@@ -1368,7 +1358,7 @@ Chef compositing/chef compositing
 
 |
 
-64
+63
 
 |
 
@@ -1376,7 +1366,7 @@ Opérateur compositing/opératrice compositing
 
 |
 
-65
+64
 
 |
 
@@ -1386,7 +1376,7 @@ Assistant opérateur compositing/assistante opératrice compositing
 
 Filière volume
 
-66
+65
 
 |
 
@@ -1394,7 +1384,7 @@ Chef animateur volume/chef animatrice volume
 
 |
 
-67
+66
 
 |
 
@@ -1402,7 +1392,7 @@ Chef décorateur volume/chef décoratrice volume
 
 |
 
-68
+67
 
 |
 
@@ -1410,7 +1400,7 @@ Chef opérateur volume/chef opératrice volume
 
 |
 
-69
+68
 
 |
 
@@ -1418,7 +1408,7 @@ Chef plasticien volume/chef plasticienne volume
 
 |
 
-70
+69
 
 |
 
@@ -1426,7 +1416,7 @@ Chef accessoiriste volume/chef accessoiriste volume
 
 |
 
-71
+70
 
 |
 
@@ -1434,7 +1424,7 @@ Chef moulage/chef moulage
 
 |
 
-72
+71
 
 |
 
@@ -1442,7 +1432,7 @@ Animateur volume/animatrice volume
 
 |
 
-73
+72
 
 |
 
@@ -1450,7 +1440,7 @@ Décorateur volume/décoratrice volume
 
 |
 
-74
+73
 
 |
 
@@ -1458,7 +1448,7 @@ Opérateur volume/opératrice volume
 
 |
 
-75
+74
 
 |
 
@@ -1466,7 +1456,7 @@ Plasticien volume/plasticienne volume
 
 |
 
-76
+75
 
 |
 
@@ -1474,7 +1464,7 @@ Accessoiriste volume/accessoiriste volume
 
 |
 
-77
+76
 
 |
 
@@ -1482,7 +1472,7 @@ Technicien effets spéciaux volume/technicienne effets spéciaux volume
 
 |
 
-78
+77
 
 |
 
@@ -1490,7 +1480,7 @@ Mouleur volume/mouleuse volume
 
 |
 
-79
+78
 
 |
 
@@ -1498,7 +1488,7 @@ Assistant animateur volume/assistante animatrice volume
 
 |
 
-80
+79
 
 |
 
@@ -1506,7 +1496,7 @@ Assistant décorateur volume/assistante décoratrice volume
 
 |
 
-81
+80
 
 |
 
@@ -1514,7 +1504,7 @@ Assistant opérateur volume/assistante opératrice volume
 
 |
 
-82
+81
 
 |
 
@@ -1522,7 +1512,7 @@ Assistant plasticien volume/assistante plasticienne volume
 
 |
 
-83
+82
 
 |
 
@@ -1530,7 +1520,7 @@ Assistant accessoiriste volume/assistante accessoiriste volume
 
 |
 
-84
+83
 
 |
 
@@ -1538,7 +1528,7 @@ Assistant moulage/assistante moulage
 
 |
 
-85
+84
 
 |
 
@@ -1548,7 +1538,7 @@ Mécanicien volume/mécanicienne volume
 
 Filière effets visuels numériques
 
-86
+85
 
 |
 
@@ -1556,7 +1546,7 @@ Directeur des effets visuels numériques/directrice des effets visuels numériqu
 
 |
 
-87
+86
 
 |
 
@@ -1564,7 +1554,7 @@ Superviseur des effets visuels numériques/superviseuse des effets visuels numé
 
 |
 
-88
+87
 
 |
 
@@ -1572,17 +1562,17 @@ Infographiste des effets visuels numériques/infographiste des effets visuels nu
 
 |
 
-89
+88
 
 |
 
-Assistant infographiste des effets visuels numériques/assistante infographiste des effets visuels numériques
+Assistant infographiste des effets visuels numériques/ assistante infographiste des effets visuels numériques
 
 |
 
 Filière postproduction
 
-90
+89
 
 |
 
@@ -1590,7 +1580,7 @@ Directeur technique de postproduction/directrice technique de postproduction
 
 |
 
-91
+90
 
 |
 
@@ -1598,7 +1588,7 @@ Chef monteur/chef monteuse
 
 |
 
-92
+91
 
 |
 
@@ -1606,7 +1596,7 @@ Chef étalonneur numérique/chef étalonneuse numérique
 
 |
 
-93
+92
 
 |
 
@@ -1614,7 +1604,7 @@ Responsable technique de postproduction/responsable technique de postproduction
 
 |
 
-94
+93
 
 |
 
@@ -1622,7 +1612,7 @@ Bruiteur/bruiteuse
 
 |
 
-95
+94
 
 |
 
@@ -1630,7 +1620,7 @@ Monteur/monteuse
 
 |
 
-96
+95
 
 |
 
@@ -1638,7 +1628,7 @@ Etalonneur numérique/étalonneuse numérique
 
 |
 
-97
+96
 
 |
 
@@ -1646,7 +1636,7 @@ Assistant monteur/assistante monteuse
 
 |
 
-98
+97
 
 |
 
@@ -1654,13 +1644,19 @@ Assistant étalonneur numérique/assistante étalonneuse numérique
 
 |
 
-Filière exploitation, maintenance et transfert de données
+98
+
+|
+
+Ingénieur du son/ingénieur du son
+
+|
 
 99
 
 |
 
-Responsable d'exploitation/responsable d'exploitation
+Chef opérateur du son/chef opératrice du son
 
 |
 
@@ -1668,15 +1664,17 @@ Responsable d'exploitation/responsable d'exploitation
 
 |
 
-Administrateur système et réseau/administratrice système et réseau
+Assistant son/assistante son
 
 |
+
+Filière exploitation, maintenance et transfert de données
 
 101
 
 |
 
-Superviseur transfert de données/superviseuse transfert de données
+Responsable d'exploitation/responsable d'exploitation
 
 |
 
@@ -1684,7 +1682,7 @@ Superviseur transfert de données/superviseuse transfert de données
 
 |
 
-Superviseur de calcul/superviseuse de calcul
+Administrateur système et réseau/administratrice système et réseau
 
 |
 
@@ -1692,7 +1690,7 @@ Superviseur de calcul/superviseuse de calcul
 
 |
 
-Technicien système et réseau/technicienne système et réseau
+Superviseur transfert de données/superviseuse transfert de données
 
 |
 
@@ -1700,7 +1698,7 @@ Technicien système et réseau/technicienne système et réseau
 
 |
 
-Infographiste scripteur/infographiste scripteuse
+Superviseur de calcul/superviseuse de calcul
 
 |
 
@@ -1708,7 +1706,7 @@ Infographiste scripteur/infographiste scripteuse
 
 |
 
-Technicien de maintenance/technicienne de maintenance
+Technicien système et réseau/technicienne système et réseau
 
 |
 
@@ -1716,7 +1714,7 @@ Technicien de maintenance/technicienne de maintenance
 
 |
 
-Opérateur transferts de données/opératrice transferts de données
+Infographiste développeur/infographiste développeuse
 
 |
 
@@ -1724,11 +1722,27 @@ Opérateur transferts de données/opératrice transferts de données
 
 |
 
-Gestionnaire de calculs/gestionnaire de calculs
+Technicien de maintenance/technicienne de maintenance
 
 |
 
 108
+
+|
+
+Opérateur transferts de données/opératrice transferts de données
+
+|
+
+109
+
+|
+
+Gestionnaire de calculs/gestionnaire de calculs
+
+|
+
+110
 
 |
 
@@ -1738,7 +1752,7 @@ Assistant opérateur transferts de données/assistante opératrice transferts de
 
 Filière production
 
-109
+111
 
 |
 
@@ -1746,7 +1760,7 @@ Directeur de production/directrice de production
 
 |
 
-110
+112
 
 |
 
@@ -1754,7 +1768,7 @@ Directeur technique de production/directrice technique de production
 
 |
 
-111
+113
 
 |
 
@@ -1762,7 +1776,7 @@ Superviseur/superviseuse
 
 |
 
-112
+114
 
 |
 
@@ -1770,7 +1784,7 @@ Administrateur de production/administratrice de production
 
 |
 
-113
+115
 
 |
 
@@ -1778,7 +1792,7 @@ Chargé de production/chargée de production
 
 |
 
-114
+116
 
 |
 
@@ -1786,7 +1800,7 @@ Comptable de production/comptable de production
 
 |
 
-115
+117
 
 |
 
@@ -1794,7 +1808,7 @@ Coordinateur de production/coordinatrice de production
 
 |
 
-116
+118
 
 |
 
