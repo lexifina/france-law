@@ -1,0 +1,9 @@
+# Réponse à la question n° 93552
+
+- Question : [93552](93552.md) — Question n° 93552 — voitures de tourisme avec chauffeur
+
+## Réponse
+
+*JO du 2017-03-14*
+
+Le Gouvernement agit depuis le début de ce mandat pour la structuration de ce secteur bouleversé par l'émergence de nouveaux acteurs et de nouvelles pratiques. La proposition de loi relative à la régulation, à la responsabilisation et à la simplification dans le secteur du transport public particulier de personnes, adoptée définitivement le 21 décembre dernier au Sénat, vient poursuivre la démarche entreprise par la loi du 1er octobre 2014 relative aux taxis et voitures de transport avec chauffeur afin de parvenir à une plus grande cohérence entre les différents régimes et à une meilleure régulation des centrales. Ce texte est le fruit de la médiation conduite par le député Laurent Grandguillaume au sein de ce secteur depuis janvier 2016 et d'une concertation avec l'ensemble des acteurs, qui se sont largement inscrits dans cette démarche. Ce texte de loi va marquer de réelles évolutions pour le secteur du transport public particulier de personnes, afin de permettre à toutes les professions de se développer dans des conditions justes et équitables. Parmi les principales avancées que porte ce texte, l'interdiction des clauses d'exclusivité favorisant la mise en concurrence des centrales de réservation, ou encore l'organisation, désormais confiée aux chambres des métiers, d'un examen sur des bases communes pour l'accès aux métiers de taxi et de chauffeur VTC, vont permettre de clarifier et de professionnaliser les règles de fonctionnement du secteur. Le Gouvernement met tout en œuvre depuis le début du mandat pour avancer sur le chemin de la régulation dans un contexte qui reste très impacté par l'arrivée de nouveaux entrants.
