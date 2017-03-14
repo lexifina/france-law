@@ -1,0 +1,9 @@
+# Réponse à la question n° 98512
+
+- Question : [98512](98512.md) — Question n° 98512 — réglementation
+
+## Réponse
+
+*JO du 2017-03-14*
+
+En application des articles L. 111-3 et L. 111-4 du code de l'urbanisme, le règlement national d'urbanisme (RNU) ne permet de construire que dans les parties déjà urbanisées d'une commune non dotée d'un document d'urbanisme, sous réserve de certaines exceptions. Ces exceptions sont : - l'adaptation, le changement de destination, la réfection, l'extension des constructions existantes ou la construction de bâtiments nouveaux à usage d'habitation à l'intérieur du périmètre regroupant les bâtiments d'une ancienne exploitation agricole, dans le respect des traditions architecturales locales ; - les constructions et installations nécessaires à l'exploitation agricole, à des équipements collectifs dès lors qu'elles ne sont pas incompatibles avec l'exercice d'une activité agricole, pastorale ou forestière sur le terrain sur lequel elles sont implantées, à la réalisation d'aires d'accueil ou de terrains de passage des gens du voyage, à la mise en valeur des ressources naturelles et à la réalisation d'opérations d'intérêt national ; - les constructions et installations incompatibles avec le voisinage des zones habitées et l'extension mesurée des constructions et installations existantes ; - les constructions ou installations, sur délibération motivée du Conseil municipal, si celui-ci considère que l'intérêt de la commune, en particulier pour éviter une diminution de la population communale, le justifie et dans les conditions prévues par l'article L. 111-4. Si le projet ne répond pas à ces conditions ou à ces exceptions, l'autorisation de construire doit être refusée, même si le terrain est desservi par tous les réseaux, se trouve le long d'une route départementale et à l'intérieur des panneaux de limite d'agglomération.
