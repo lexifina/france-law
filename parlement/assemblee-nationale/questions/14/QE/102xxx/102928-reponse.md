@@ -1,0 +1,9 @@
+# Réponse à la question n° 102928
+
+- Question : [102928](102928.md) — Question n° 102928 — activité physique adaptée; décret; publication
+
+## Réponse
+
+*JO du 2017-03-14*
+
+La loi du 26 janvier 2016 de modernisation de notre système de santé prévoit, dans son article 144, la prescription, par le médecin traitant, de l'activité physique adaptée à la pathologie, aux capacités physiques et au risque médical du patient, dans le cadre du parcours de soins des patients atteints d'une affection de longue durée. Les activités physiques adaptées sont dispensées dans des conditions prévues par décret. La direction générale de la santé a engagé une importante concertation, à laquelle ont participé les représentants de tous les professionnels concernés afin d'aboutir à un texte équilibré permettant à chacun de participer à la mise en œuvre de cette disposition innovante en fonction de ses compétences. La concertation a, en particulier, intégré les masseurs-kinésithérapeutes, les enseignants en activité physique adaptée (APA) dans le cadre de la formation en sciences et techniques des activités physiques et sportives (STAPS) et les éducateurs sportifs. Le décret, publié le 31 décembre 2016, définit l'activité physique adaptée, qui a pour but d'accompagner la personne à adopter un mode de vie physiquement actif sur une base régulière afin de réduire les facteurs de risque et les limitations fonctionnelles liés à l'affection de longue durée dont elle est atteinte. Il précise les conditions de sa dispensation, définit les différentes catégories de professionnels et personnes qualifiées habilitées à la dispenser et prévoit les modalités d'intervention et de restitution des informations au médecin traitant. Il sera, dans les semaines à venir, complété d'une instruction aux agences régionales de santé et direction régionales de la jeunesse, des sports et de la cohésion sociale pour faciliter la mise en œuvre du dispositif dans les territoires.
