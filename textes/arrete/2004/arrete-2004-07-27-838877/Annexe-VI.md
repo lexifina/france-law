@@ -8,6 +8,8 @@ ORGANISATION DES RÉSEAUX DE CONTRÔLE
 
 1.2. Le réseau est responsable au regard du ministre chargé des transports des activités de contrôle effectuées par l'ensemble des installations de contrôle qu'il exploite et par l'ensemble du personnel du réseau, y compris les contrôleurs qui ne sont pas rattachés à une installation exploitée par le réseau.
 
+Dans le cas où la qualité des contrôles réalisés dans une de ses installations de contrôle est insuffisante, le réseau met en œuvre la procédure mentionnée au point 6 du paragraphe I du chapitre V de l'annexe VII du présent arrêté.
+
 1.3. A cet effet, le réseau s'engage à transmettre régulièrement au ministre chargé des transports les informations que celui-ci lui demandera pour la surveillance des opérations de contrôle et à faciliter toute action de surveillance exercée conformément à l'article R. 323-9 du code de la route susvisé.
 
 1.4. Le réseau dispose d'un logiciel de contrôle technique ayant fait l'objet d'un contrôle de conformité par l'organisme technique central, tel que prévu au point j de l'article 29 du présent arrêté et des moyens informatiques (moyens de communications, logiciels...) permettant les échanges de données informatiques avec les installations de contrôle et l'organisme technique central, dans le respect des dispositions du point 2 de l'annexe III et du protocole en vigueur, prévu au point b de l'article 38 du présent arrêté.
@@ -23,8 +25,6 @@ ORGANISATION DES RÉSEAUX DE CONTRÔLE
 Ce rapport expose notamment :
 
 1. Le nombre de centres spécialisés.
-
-2. Le nombre d'installations auxiliaires.
 
 3. Le volume d'activité par catégorie de véhicules (nombre de visites techniques périodiques et nombre de contre-visites, taux de refus).
 
@@ -58,7 +58,7 @@ Par ailleurs, le réseau transmet au ministre chargé des transports, tous les a
 
 2.2.5. Intégrité, sécurité et maintenance du système informatique.
 
-2.2.6. Entretien et maintenance du matériel mécanique de contrôle.
+2.2.6. Gestion, entretien et maintenance du matériel de contrôle.
 
 2.2.7. Transmission des données relatives aux contrôles techniques effectués.
 
@@ -69,10 +69,6 @@ Par ailleurs, le réseau transmet au ministre chargé des transports, tous les a
 2.2.10. Gestion et archivage des procès-verbaux de contrôle technique.
 
 2.2.11. Organisation et déroulement des visites techniques.
-
-2.2.12. Suivi des installations auxiliaires.
-
-2.2.13. Suivi de l'activité des contrôleurs intervenant en installation auxiliaire.
 
 2.2.14. Gestion de la base documentaire des textes réglementaires et de leurs évolutions.
 
@@ -96,7 +92,7 @@ Par ailleurs, le réseau transmet au ministre chargé des transports, tous les a
 
 3.2.2. Le réseau traite et dresse tous états relatifs, notamment :
 
-- au nombre de contrôles effectués par type d'installations de contrôle (installations auxiliaires et centre de contrôle), par contrôleur, etc., en distinguant les visites et les contre-visites ainsi que le nom des propriétaires des véhicules contrôlés ;
+- au nombre de contrôles effectués par contrôleur, en distinguant les visites et les contre-visites ainsi que le nom des propriétaires des véhicules contrôlés ;
 
 - à la nature et à la gravité des défauts relevés, par type de véhicule, et / ou par contrôleur, et / ou par centre de contrôle, etc.
 

@@ -4,9 +4,9 @@ VÉHICULES SOUMIS À CONTRÔLE TECHNIQUE
 
 A. liste des véhicules visés à l'article 1er
 
-Sont concernés par les dispositions du présent arrêté les véhicules immatriculés dans les genres suivants :
+Sont concernés par les dispositions du présent arrêté les véhicules suivants :
 
-les tracteurs routiers (TRR) quel que soit le PTAC
+les tracteurs routiers (TRR) quel que soit le PTAC,
 
 les camions (CAM),
 
@@ -24,15 +24,15 @@ les véhicules automoteurs spécialisés (VASP),
 
 les semi-remorques spécialisées (SRSP),
 
-les remorques spécialisées (RESP)
+les remorques spécialisées (RESP),
 
-les véhicules de transport en commun de personnes (TCP)
+les véhicules de transport en commun de personnes (TCP),
 
-les véhicules utilisés dans le transport de marchandises dangereuses et disposant d'un certificat d'agrément (tout genre) ;
+les véhicules utilisés dans le transport de marchandises dangereuses et disposant d'un certificat d'agrément (tout genre et quel que soit le PTAC),
 
-les camionnettes (CTTE) utilisées dans le transport en commun de personnes.
+les camionnettes (CTTE) utilisées dans le transport en commun de personnes,
 
-Les véhicules de genre TRR dont le poids total en charge n'excède pas 3 500 kg mis en circulation à compter du 1er mai 2009 et ne justifiant pas d'un contrôle technique périodique en cours de validité, font l'objet d'un contrôle technique réalisé conformément aux dispositions du présent arrêté, au plus tard dans le délai d'un an à compter de la date de leur première mise en circulation.
+les véhicules de catégorie M1 dont le PTAC est supérieur à 3,5 tonnes.
 
 B. catégories de véhicules soumis à réglementation spécifique
 
@@ -100,119 +100,91 @@ Un an après la date :
 
 |
 
-Visite technique périodique des véhicules de collection.
+Visite technique périodique des véhicules de catégorie M1.
 
 |
 
-Cinq ans à compter du contrôle technique favorable.
+Quatre ans après la date de la première mise en circulation puis tous les deux ans.
 
 |
 
 ..
 
-RESULTAT DE LA VISITE
+RESULTAT DE LA VISITE |
 
-|
+TYPE DE VISITE |
 
-TYPE DE VISITE
+VALIDITE DU VISA |
 
-|
+Véhicule accepté |
 
-VALIDITE DU VISA
+Visite technique périodique
 
-|
+Véhicules TCP |
 
-Véhicule accepté.
+Six mois après la date de la visite technique périodique |
 
-|
+Visite technique périodique
 
-Visite technique périodique.
+Véhicules lourds autres que TCP et M1 |
 
-Véhicules TCP.
+Un an après la date de la visite technique périodique |
 
-|
+Visite technique périodique
 
-Six mois après la date de la visite technique périodique.
+Véhicules M1 |
 
-|
+Deux ans après la date de la visite technique périodique |
 
-Visite technique périodique.
+Contre-visite sous un mois après la date de la visite technique ayant prescrit la première contre-visite
 
-Véhicules de collection.
+Véhicules TCP |
 
-|
+Six mois après la date de la visite technique périodique ayant prescrit la première contre-visite |
 
-Cinq ans après la date de la visite technique périodique. |
+Contre-visite sous un mois après la date de la visite technique ayant prescrit la première contre-visite
 
-Visite technique périodique.
+Véhicules lourds autres que TCP et M1 |
 
-Véhicules lourds autres que TCP.
+Un an après la date de la visite technique périodique ayant prescrit la première contre-visite |
 
-|
+Contre-visite sous deux mois après la date de la visite technique ayant prescrit la première contre-visite
 
-Un an après la date de la visite technique périodique. |
+Véhicules M1 |
 
-Contre-visite sous un mois après la date de la visite technique ayant prescrit la première contre-visite.
+Deux ans après la date de la visite technique périodique ayant prescrit la première contre-visite |
 
-Véhicules TCP.
+Véhicule refusé “ sans interdiction de circuler ” |
 
-|
+Visite technique périodique
 
-Six mois après la date de la visite technique périodique ayant prescrit la première contre-visite.
+Véhicules autres que M1 |
 
-|
+Un mois après la date de la visite technique périodique |
 
-Contre-visite sous un mois après la date de la visite technique ayant prescrit la première contre-visite.
+Visite technique périodique
 
-Véhicules lourds autres que TCP et véhicules de collection.
+Véhicules M1 |
 
-|
+Deux mois après la date de la visite technique périodique |
 
-Un an après la date de la visite technique périodique ayant prescrit la première contre-visite.
+Contre-visite sous un mois après la date de la visite technique périodique ayant prescrit la première contre-visite
 
-|
+Véhicules autres que M1 |
 
-Contre-visite sous un mois après la date de la visite technique ayant prescrit la première contre-visite.
+Un mois après la date de la dernière visite technique périodique ayant prescrit la première contre-visite |
 
-Véhicules de collection.
+Contre-visite sous deux mois après la date de la visite technique ayant prescrit la première contre-visite
 
-|
+Véhicules M1 |
 
-Cinq ans après la date de la visite technique périodique ayant prescrit la première contre-visite.
+Deux mois après la date de la dernière visite technique périodique ayant prescrit la première contre-visite |
 
-|
+Véhicule refusé “ avec interdiction de circuler ” |
 
-Véhicule refusé "sans interdiction de circuler"
+Tout type de visite technique périodique ou contre-visite |
 
-|
-
-Visite technique périodique suite à un véhicule présenté en contre-visite au-delà d'un mois après la date de la visite technique périodique ayant prescrit la première contre-visite.
-
-|
-
-Un mois après la date de la nouvelle visite technique périodique.
-
-|
-
-Contre-visite sous un mois après la date de la visite technique périodique ayant prescrit la première contre-visite.
-
-|
-
-Un mois après la date de la dernière visite technique périodique ayant prescrit la première contre-visite.
-
-|
-
-Véhicule refusé "avec interdiction de circuler"
-
-|
-
-Tout type de visite technique périodique ou contre-visite.
-
-|
-
-Date de la visite technique périodique ou de la contre-visite.
-
-|
+Date de la visite technique périodique ou de la contre-visite |
 
 NOTA :
 

@@ -10,17 +10,7 @@ I. - Composition du dossier
 
 1. Une demande d'agrément en tant que contrôleur, indiquant le centre de contrôle de véhicules lourds auquel il est rattaché.
 
-2. La copie d'une des pièces suivantes, en cours de validité, permettant de justifier de l'identité du contrôleur :
-
-- carte nationale d'identité française ou étrangère ;
-
-- passeport français ou étranger ;
-
-- permis de conduire français ou étranger ;
-
-- carte de combattant délivrée par les autorités françaises ;
-
-- carte de séjour temporaire, carte de résident, certificat de résidence de ressortissant algérien, carte de ressortissant d'un Etat membre de l'Union européenne ou de l'Espace économique européen.
+2. La copie d'un document, en cours de validité, permettant de justifier de l'identité du contrôleur.
 
 3. Une fiche récapitulative de l'expérience et de la qualification du contrôleur conforme au modèle de l'appendice 1 de la présente annexe ou la copie de la notification d'agrément contrôleur véhicules lourds annulée depuis moins d'un an pour un motif ne relevant pas d'un retrait d'agrément.
 
@@ -52,6 +42,8 @@ Ces modifications entraînent l'annulation de l'agrément, qu'elles aient été 
 
 La décision d'annulation d'agrément est notifiée simultanément au contrôleur, au centre de contrôle auquel il est rattaché, à la direction du réseau auquel il est rattaché le cas échéant et, pour les contrôleurs non rattachés, à l'organisme technique central.
 
+Dans le cas où un nouvel agrément est sollicité suite à l'annulation d'un agrément précédent, l'ensemble des conditions d'agrément et de maintien d'agrément sont remplies.
+
 4.1.3. Le non-respect des prescriptions relatives au maintien de qualification pour les véhicules de transport de marchandises prévues à l'annexe IV.
 
 Dans ces cas, l'annulation de l'agrément est prononcée sur demande du bénéficiaire de l'agrément, du centre de rattachement ou du réseau de rattachement.
@@ -65,6 +57,8 @@ Dans ces cas, l'annulation de l'agrément est prononcée sur demande du bénéfi
 - des prescriptions relatives aux maintiens de qualification.
 
 Dans les cas de non-respect précités, l'agrément du contrôleur peut être suspendu ou retiré dans les conditions fixées aux articles 25 et 25-1, que le non-respect ait été ou non signalé par le contrôleur, son centre de rattachement ou son réseau éventuel.
+
+L'agrément ne peut être réattribué qu'après correction des anomalies ayant entraîné la suspension ou le retrait d'agrément.
 
 4.3. Le contrôleur et son centre de rattachement signalent à la préfecture les modifications suivantes :
 
@@ -124,23 +118,31 @@ La décision relative à l'agrément de l'installation de contrôle est notifié
 
 IV. - Modifications du dossier d'agrément
 
-4.1. L'exploitant du centre de contrôle signale à la préfecture les modifications suivantes :
+4.1. Le titulaire de l'agrément du centre de contrôle signale à la préfecture les modifications suivantes :
 
 4.1.1. La cessation d'activité ;
 
-4.1.2. Le changement d'exploitant du centre ;
+4.1.2. Le changement du titulaire de l'agrément du centre ;
 
 Dans les cas visés ci-dessus, le préfet prononce l'annulation de l'agrément du centre. Celle-ci est également prononcée sur demande du bénéficiaire de l'agrément ou lorsque le préfet constate que l'un des cas visés ci-dessus est manifestement rempli et que le bénéficiaire de l'agrément ne l'en a pas informé.
 
-La décision d'annulation d'agrément est notifiée simultanément à l'exploitant et à l'organisme technique central.
+La décision d'annulation d'agrément est notifiée simultanément au titulaire de l'agrément et à l'organisme technique central.
 
-4.2. L'exploitant du centre de contrôle signale au préfet toute modification entraînant un non-respect des conditions de bon fonctionnement des installations ou des prescriptions qui leur sont imposées.
+4.2. Le titulaire de l'agrément du centre de contrôle signale au préfet toute modification entraînant un non-respect des conditions de bon fonctionnement des installations ou des prescriptions qui leur sont imposées.
 
 Dans ce cas, l'agrément du centre peut être suspendu ou retiré dans les conditions fixées aux articles 25 et 25-1.
 
-4.3. L'exploitant du centre de contrôle signale à la préfecture toute modification des installations par rapport au descriptif figurant dans le dossier d'agrément.
+4.3. Le titulaire de l'agrément du centre de contrôle signale à la préfecture les modifications suivantes :
 
-La modification ci-dessus nécessite la transmission de l'attestation d'audit du réseau favorable suite aux travaux effectués.
+4.3.1. Modification du plan des installations par rapport au descriptif figurant dans le dossier d'agrément, dans un délai maximal de deux mois après les modifications. Dans ce cas, le titulaire de l'agrément du centre transmet également le rapport d'audit favorable établi par un organisme agréé suite aux travaux effectués. Si le préfet considère que les modifications apportées ne permettent plus de respecter les dispositions du présent arrêté, l'agrément du centre peut être suspendu ou retiré conformément aux dispositions des articles 25 et 25-1 du présent arrêté.
+
+4.3.2. Pour une personne morale, changement de la dénomination sociale ou de sa forme juridique, sans changement du numéro de registre du commerce et des sociétés. Dans ce cas, le titulaire de l'agrément du centre transmet un justificatif d'existence légal à jour. Le préfet notifie au titulaire de l'agrément la prise en compte de la modification d'agrément.
+
+4.3.3. Pour une personne morale, changement du représentant légal. Dans ce cas, le titulaire de l'agrément du centre transmet un justificatif d'existence légal à jour.
+
+4.3.4. Changement du système qualité ou du logiciel informatique. Dans ce cas, le titulaire de l'agrément du centre transmet également le rapport d'audit favorable établi par un organisme agréé suite aux changements effectués.
+
+4.4. La description de l'organisation et des moyens matériels ainsi que la liste des contrôleurs rattachés prévues au a du 3 du I du présent chapitre sont tenues à jour et mises à disposition des services de l'Etat.
 
 Chapitre III
 
@@ -168,23 +170,21 @@ S'il s'agit d'une personne physique, la copie d'une des pièces suivantes, en co
 
 4. Le cahier des charges visé au I de l'article R. 323-14 du code de la route comprenant notamment :
 
-a) Une description de l'organisation et des moyens matériels, y compris la liste des contrôleurs demandant le rattachement à ce centre, suivant le modèle de l'appendice 7 de la présente annexe, ainsi qu'un plan de situation du centre et un plan de masse à l'échelle 1/100 faisant apparaître l'ensemble des surfaces couvertes et marquant l'emplacement de matériels de contrôle ;
+a) Une description de l'organisation et des moyens matériels, suivant le modèle de l'appendice 7 de la présente annexe ainsi que la liste des contrôleurs rattachés ;
 
-b) L'engagement du demandeur, suivant le modèle de l'appendice 6 de la présente annexe :
+b) Un plan de situation permettant d'identifier l'emprise immobilière et la zone de contrôle par rapport à l'environnement ;
 
-- d'établir tous les documents se rapportant à son activité prescrits par le ministre chargé des transports ;
+c) Un plan de masse à l'échelle 1/100 faisant apparaître l'ensemble des surfaces couvertes et indiquant l'emplacement des matériels de contrôle ;
 
-- de faciliter la mission des agents désignés par celui-ci pour effectuer la surveillance du bon fonctionnement des centres de contrôle ;
+d) L'engagement du demandeur, suivant le modèle de l'appendice 6 de la présente annexe ;
 
-- de signer la convention d'assistance technique prévue au point d de l'article 37 du présent arrêté ;
-
-c) Les procédures prévues au paragraphe 1.2 de l'annexe V du présent arrêté.
+e) Les procédures prévues au paragraphe 1.2 de l'annexe V du présent arrêté.
 
 5. Les références techniques permettant d'apprécier l'expérience du demandeur dans le domaine du contrôle technique.
 
 6. Le rapport d'audit initial favorable établi par un organisme agréé par le ministre chargé des transports.
 
-7. L'avis de l'organisme technique central suivant le modèle de l'appendice 8 de la présente annexe.
+7. L'avis de l'organisme technique central suivant le modèle de l'appendice 8 de la présente annexe (avis directement demandé par le préfet à l'Organisme technique central à réception du dossier de demande d'agrément).
 
 8. L'attestation de conformité de l'outil informatique délivrée par l'OTC en application des dispositions de l'article 37 du présent arrêté.
 
@@ -218,33 +218,7 @@ Dans ce cas, l'agrément du centre peut être suspendu ou retiré dans les condi
 
 La modification ci-dessus affectant le plan de situation ou le plan de masse nécessite, en outre, la transmission du rapport d'audit favorable établi par un organisme agréé suite aux travaux effectués.
 
-Chapitre IV
-
-Installation auxiliaire
-
-IV. - Modifications du dossier d'agrément
-
-4.1.1. Le réseau signale au préfet la cessation de l'exploitation de l'installation ; dans ce cas, le préfet prononce l'annulation de l'agrément de l'installation auxiliaire. La décision d'annulation d'agrément est notifiée simultanément à l'exploitant de l'établissement abritant l'installation auxiliaire, au réseau et à l'organisme technique central.
-
-4.1.2. Dans le cas d'un changement d'exploitant de l'établissement abritant l'installation auxiliaire ou de toute autre modification du dossier d'agrément, le réseau en informe le préfet et démontre que les circonstances locales justifient le maintien de cet agrément car l'installation permet d'assurer une meilleure couverture géographique et répond aux besoins des usagers.
-
-Il fournit, en outre, un dossier comprenant les éléments suivants :
-
-- une justification de l'existence légale, de moins de trois mois, de la personne qui exploite l'établissement qui abrite l'installation auxiliaire s'il s'agit d'une personne morale ;
-
-- une copie de la convention passée entre le réseau de contrôle et l'exploitant de l'établissement qui abrite l'installation auxiliaire ;
-
-- une copie d'un rapport d'audit datant de moins de six mois ;
-
-- la description de l'organisation et des moyens matériels.
-
-La décision préfectorale de maintien ou non de l'agrément est notifiée, après avis de l'organisme technique central, simultanément au réseau demandeur, à l'exploitant de l'établissement abritant l'installation auxiliaire et à l'organisme technique central.
-
-4.2. Le réseau signale au préfet toute modification entraînant un non-respect des conditions de bon fonctionnement de l'installation ou des prescriptions qui leur sont imposées.
-
-Dans ce cas, l'agrément de l'installation auxiliaire peut être suspendu ou retiré dans les conditions fixées aux articles 30 et 30-1.
-
-.
+Chapitre IV (Abrogé)
 
 Chapitre V
 
@@ -288,13 +262,13 @@ i) L'attestation de conformité de l'outil informatique délivrée par l'Organis
 
 5. La copie du certificat d'accréditation de la personne physique ou morale exploitante ou un récépissé délivré par l'organisme accréditeur tel que prévu à l'article 32 attestant que le réseau a déposé, en vue de son accréditation, son système qualité complet établi en référence à la norme NF EN ISO/CEI 17020 : 2012.
 
-6. La procédure du réseau définissant, pour les installations de contrôle rattachées ou exploitées par le réseau, les sanctions prévues au point 3. 1 de l'annexe VI du présent arrêté et les modalités de mise en œuvre.
+6. La procédure du réseau définissant, pour les installations de contrôle du réseau, les sanctions prévues au point 3.1 de l'annexe VI du présent arrêté et les modalités de mise en œuvre.
 
 II. - Demande initiale d'agrément
 
 L'ensemble du dossier est transmis en trois exemplaires au ministre chargé des transports.
 
-La demande initiale comporte la liste des centres de contrôle et installations auxiliaires qui feront l'objet d'une demande d'agrément dans les douze mois qui suivent la date de demande d'agrément réseau.
+La demande initiale comporte la liste des centres de contrôle qui feront l'objet d'une demande d'agrément dans les douze mois qui suivent la date de demande d'agrément réseau.
 
 La liste des installations de contrôle agréées est complétée, pendant la durée de cet agrément provisoire, au fur et à mesure de la délivrance des agréments et de leur notification au réseau de contrôle.
 
@@ -318,9 +292,7 @@ Le dossier de demande de renouvellement est transmis au moins six mois avant la 
 
 - les points prévus au I du présent chapitre ;
 
-- un bilan de l'activité du réseau sur la période écoulée d'agrément ;
-
-- un bilan détaillé des activités en installations auxiliaires.
+- un bilan de l'activité du réseau sur la période écoulée d'agrément.
 
 Chapitre VI
 
@@ -526,7 +498,7 @@ ATTESTATION D'AUDIT FAVORABLE
 
 Je soussigné, (Nom, Prénom et Qualité), représentant le réseau de contrôle (dénomination du réseau) ou (Nom, Prénom et Qualité), certifie que :
 
-- le centre de contrôle ou l'installation auxiliaire (dénomination et adresse) ci-dessus désigné(e), sera exploité par le réseau ;
+- le centre de contrôle (dénomination et adresse) ci-dessus désigné, sera exploité par le réseau ;
 
 - les installations et l'organisation de l'installation répondent aux dispositions du chapitre II du titre II de l'arrêté relatif au contrôle technique des véhicules lourds et qu'il a fait l'objet d'un audit favorable (date et référence du rapport d'audit) ;
 
@@ -552,11 +524,11 @@ exploitant les installations de contrôle (adresse du centre) ..................
 
 Je m'engage :
 
-- (pour les installations exploitées par : un réseau) à informer dans les plus brefs délais, le préfet de toute modification significative des renseignements concernant les points visés au paragraphe 4 du chapitre II ou Chapitre IV pour les installations auxiliaires de l'annexe VII de l'arrêté relatif au contrôle technique des véhicules lourds
+- (pour les installations exploitées par : un réseau) à informer dans les plus brefs délais, le préfet de toute modification significative des renseignements concernant les points visés au paragraphe 4 du chapitre II de l'annexe VII de l'arrêté relatif au contrôle technique des véhicules lourds
 
 - (pour les centres non rattachés à un réseau) à me conformer, en ce qui concerne les modifications apportées au dossier d'agrément, aux prescriptions définies au paragraphe 4 du chapitre III de l'annexe VII de l'arrêté relatif au contrôle technique des véhicules lourds ;
 
-- (pour les centres non rattachés à un réseau), à signer avec l'Organisme Technique Central, la convention d'assistance technique prévue au point d de l'article 37 de l'arrêté l'arrêté relatif au contrôle technique des véhicules lourds ;
+- (pour les centres non rattachés à un réseau), à signer avec l'Organisme technique central, la convention d'assistance technique prévue au point d de l'article 37 de l'arrêté relatif au contrôle technique des véhicules lourds ;
 
 - à établir tous les documents se rapportant à mon activité prescrits par le ministre chargé des transports et à faciliter la mission des agents désignés par : celui-ci pour effectuer la surveillance du bon fonctionnement des centres de contrôle.
 
@@ -969,387 +941,5 @@ Emet un avis :
 ♦ Défavorable pour les motifs suivants
 
 A ........................................, le ........................
-
-Signature et cachet
-
-APPENDICE 9
-
-AGREMENT D'UNE INSTALLATION AUXILIAIRE POUR LE CONTROLE DES
-
-VEHICULES LOURDS
-
-DESCRIPTION DE L'ORGANISATION ET DES MOYENS MATERIELS
-
-Renseignements généraux
-
-Nom du réseau demandeur de l'agrément : .............................................
-
-Nom de l'exploitant de l'établissement mettant les locaux à disposition du réseau : ..........................................................................................................
-
-Adresse : ..........................................................................................
-
-...............................................................................................................
-
-Localisation de l'installation de contrôle : ...............................................
-
-...............................................................................................................
-
-Numéro de téléphone : .........................................................................
-
-...............................................................................................................
-
-Bâtiments
-
-Surface totale de l'emprise immobilière : ........................................
-
-Accès à l'installation de contrôle :
-
-- Hauteur :
-
-- Longueur :
-
-- Largeur :
-
-Surface des zones de contrôle : .......................................................................
-
-Nombre de places pour le stationnement des véhicules légers :
-
-Nombre de places pour le stationnement des véhicules lourds
-
-Nombre de lignes
-
-|
-
-Nombre de places à l'entrée
-
-|
-
-Nombre de places à la sortie
-
-|
-
-..
-
-|
-
-|
-
-|
-
-Matériels
-
-|
-
-Ligne 1 |
-
-Ligne 2 |
-
-Ligne X |
-
-- fosse |
-
-|
-
-|
-
-|
-
-ou |
-
-|
-
-|
-
-|
-
-- appareil de levage (marque, type, date de mise en service) |
-
-|
-
-|
-
-|
-
-Freinomètre à rouleaux |
-
-|
-
-|
-
-|
-
-- marque |
-
-|
-
-|
-
-|
-
-- type |
-
-|
-
-|
-
-|
-
-- numéro de série |
-
-|
-
-|
-
-|
-
-- conformité (*) |
-
-|
-
-|
-
-|
-
-- date de mise en service |
-
-|
-
-|
-
-|
-
-Plaques à jeux |
-
-|
-
-|
-
-|
-
-- marque |
-
-|
-
-|
-
-|
-
-- type |
-
-|
-
-|
-
-|
-
-- numéro de série |
-
-|
-
-|
-
-|
-
-- date de mise en service |
-
-|
-
-|
-
-|
-
-Opacimètre |
-
-|
-
-|
-
-|
-
-- marque |
-
-|
-
-|
-
-|
-
-- type |
-
-|
-
-|
-
-|
-
-- numéro de série |
-
-|
-
-|
-
-|
-
-- conformité (*) |
-
-|
-
-|
-
-|
-
-- date de mise en service |
-
-|
-
-|
-
-|
-
-Contrôle du réglage des phares |
-
-|
-
-|
-
-|
-
-- marque |
-
-|
-
-|
-
-|
-
-- type |
-
-|
-
-|
-
-|
-
-- numéro de série |
-
-|
-
-|
-
-|
-
-- conformité (*) |
-
-- date de mise en service |
-
-|
-
-|
-
-|
-
-Dispositif de diagnostic des systèmes embarqués de contrôle des émissions polluantes |
-
-|
-
-|
-
-|
-
-- marque |
-
-|
-
-|
-
-|
-
-- type |
-
-|
-
-|
-
-|
-
-- numéro de série |
-
-|
-
-|
-
-|
-
-- conformité (*) |
-
-|
-
-|
-
-|
-
-- date de mise en service |
-
-|
-
-|
-
-|
-
-(*) S'agissant de la conformité, il est indiqué à quel cahier des charges/norme le matériel est conforme (y compris sa date ou version) et le nom de l'organisme qui a délivré le certificat de conformité. |
-
-Préciser pour chaque équipement mécanique, la marque, le modèle et/ou le type ..................................................................................................................................
-
-Informatique - moyens de communication
-
-Logiciel de contrôle :
-
-Marque :
-
-Version : ................................................................................................
-
-Activité antérieure
-
-Si l'installation est déjà agréée pour le contrôle des véhicules légers, indiquer :
-
-- la date d'agrément :
-
-- le numéro d'agrément obtenu :
-
-Si l'installation était déjà en activité pour le contrôle des véhicules lourds, indiquer :
-
-- la date d'agrément :
-
-- le numéro d'agrément obtenu :
-
-Date, signature et cachet
-
-APPENDICE 10
-
-AGREMENT D'UNE INSTALLATION AUXILIAIRE POUR LE CONTROLE DES
-
-VEHICULES LOURDS
-
-AVIS DE L'ORGANISME TECHNIQUE CENTRAL
-
-Après examen du dossier de demande d'agrément (date et référence du dossier) :
-
-déposé par :
-
-représentant le Réseau :
-
-Dénomination sociale de l'exploitant de l'établissement abritant l'installation (ou nom et prénom dans le cas d'une personne physique) :
-
-Enseigne commerciale
-
-Adresse
-
-Emet un avis
-
-♦ Favorable :
-
-♦ Défavorable pour les motifs suivants :
-
-A ..............................., le .........................
 
 Signature et cachet

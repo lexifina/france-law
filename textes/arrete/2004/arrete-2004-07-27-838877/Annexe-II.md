@@ -6,11 +6,11 @@ La présente annexe a pour objet de définir les caractéristiques techniques du
 
 1. Procès-verbal de contrôle
 
-1. 1. Généralités
+1.1. Généralités
 
 Le procès-verbal se présente sous la forme d'un document de format utile A4.
 
-Son grammage est au minimum de 80 g / m ².
+Son grammage est au minimum de 80 g/m².
 
 Les informations figurant sur le procès-verbal sont de deux types : les inscriptions fixes communes à tous les procès-verbaux et les informations variables relatives à chaque contrôle effectué.
 
@@ -22,9 +22,9 @@ Pour les véhicules immatriculés en double genre, les informations variables po
 
 Les informations fixes à l'exception du numéro de liasse et du sigle du réseau, le cas échéant, peuvent être inscrites à l'impression.
 
-1. 2. Recto
+1.2. Recto
 
-1. 2. 1. Informations variables
+1.2.1. Informations variables
 
 1. Informations relatives au contrôle :
 
@@ -136,11 +136,7 @@ Catégorie du véhicule :
 
 - véhicule-école de transport de marchandises ;
 
-- véhicule-école TCP ;
-
-- véhicule de collection à moteur ;
-
-- véhicule de collection remorqué.
+- véhicule-école TCP.
 
 Véhicule associé :
 
@@ -172,7 +168,7 @@ Le numéro de la vignette pare-brise en cas de visite technique périodique favo
 
 - la référence du logiciel utilisé.
 
-1. 2. 2. Inscriptions fixes
+1.2.2. Inscriptions fixes
 
 "Procès-verbal de contrôle technique d'un véhicule lourd".
 
@@ -182,7 +178,7 @@ Le numéro de la vignette pare-brise en cas de visite technique périodique favo
 
 La désignation de chacune des rubriques mentionnées dans les informations variables.
 
-1. 3. Verso
+1.3. Verso
 
 Les mentions suivantes figurent au verso du procès-verbal :
 
@@ -204,7 +200,7 @@ Les voies de recours amiables adoptées par le centre non exploité par un rése
 
 "Selon la loi informatique et liberté du 6 janvier 1978, vous disposez d'un droit d'accès et de rectification des informations nominatives vous concernant. Vous pouvez exercer ce droit en vous adressant au centre ayant édité le présent procès-verbal."
 
-1. 4. Couleurs d'impression
+1.4. Couleurs d'impression
 
 Elles sont les suivantes :
 
@@ -212,11 +208,11 @@ Elles sont les suivantes :
 
 - verso : bleu process (centre non exploité par un réseau) et / ou couleurs spécifiques du réseau.
 
-1. 5. Numérotation de liasse
+1.5. Numérotation de liasse
 
 Une numérotation dans une série continue à 9 caractères figure en haut du procès-verbal. Cette numérotation dite "de liasse" est obligatoirement précédée de la lettre d'identification du réseau ou de la lettre Z dans le cas d'un centre de contrôle non rattaché et réalisée à la fabrication du document. Obligatoirement définie par chaque réseau ou centre non exploité par un réseau, elle peut comporter des lettres d'identification.
 
-1. 6. Cas de l'édition du procès-verbal sur plusieurs pages
+1.6. Cas de l'édition du procès-verbal sur plusieurs pages
 
 Le procès-verbal tel que précédemment décrit peut ne pas offrir suffisamment de place à l'édition dans le cas d'un trop grand nombre d'observations constatées.
 
@@ -290,11 +286,11 @@ Le numéro d'imprimé (imprimé à la fabrication du document).
 
 La hauteur et la grosseur des caractères utilisés pour cette information variable propre à chaque vignette permettent une lecture facile de la vignette et correspondent à une utilisation optimale de la surface disponible. Leur dimension en hauteur n'est pas inférieure à 2 millimètres, l'épaisseur et la graisse de ces caractères sont comparables à celles des indications fixes afin d'obtenir une bonne lisibilité de cette information. L'encre utilisée résiste à la lumière pendant une durée d'au moins deux ans.
 
-3. 3. Verso
+3.3. Verso
 
 Cette face reste vierge.
 
-3. 4. Couleurs d'impression
+3.4. Couleurs d'impression
 
 Elles sont les suivantes :
 
