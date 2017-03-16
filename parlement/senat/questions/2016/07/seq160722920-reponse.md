@@ -1,0 +1,9 @@
+# Réponse à la question SEQ160722920
+
+- Question : [SEQ160722920](seq160722920.md) — Prise en charge financière de la validation des acquis de l'expérience des élus locaux
+
+## Réponse
+
+*Collectivités territoriales, JO du 2017-03-16, page 1088*
+
+L'article 14 de la loi n° 2015-366 du 31 mars 2015 visant à faciliter l'exercice, par les élus locaux, de leur mandat élargit la possibilité d'engager une démarche de validation des acquis de l'expérience professionnelle à toutes les personnes ayant occupé un mandat local ou une fonction élective locale. La prise en charge financière de cette démarche ne peut être réalisée par la collectivité. En effet, l'article L. 2123-16 du code général des collectivités territoriales (CGCT) limite le champ des formations remboursables à celles qui sont dispensées par un organisme détenteur de l'agrément délivré par le ministère de l'intérieur. Or, les bilans de compétences et la validation des acquis de l'expérience ne peuvent être assimilés à des activités de formation ayant un lien direct avec des fonctions électives. Cependant, la loi du 31 mars 2015 crée un droit individuel à la formation (DIF) des élus locaux. Ce droit individuel peut être utilisé tant pour des formations utiles dans le cadre de l'exercice du mandat que pour des formations visant à la réinsertion professionnelle. Quel que soit le nombre des mandats exercés, les élus acquièrent vingt heures par année complète de mandat au titre du DIF. Les formations contribuant à la réinsertion professionnelle sont définies dans le décret n° 2016-870 du 29 juin 2016 relatif aux modalités d'application du droit individuel à la formation des titulaires de mandats locaux. Il s'agit des formations éligibles au titre du compte personnel de formation, mentionnées à l'article L. 6323-6 du code du travail. Parmi elles figure l'accompagnement à la validation des acquis de l'expérience.
