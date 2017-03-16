@@ -1,0 +1,9 @@
+# Réponse à la question SEQ160622562
+
+- Question : [SEQ160622562](seq160622562.md) — Garantie individuelle du pouvoir d'achat et emplois fonctionnels
+
+## Réponse
+
+*Collectivités territoriales, JO du 2017-03-16, page 1086*
+
+L'indemnité dite de garantie individuelle du pouvoir d'achat (GIPA) instaurée par le décret n° 2008-539 du 6 juin 2008 est un dispositif commun aux trois fonctions publiques. L'article 10 de ce décret prévoit que cette indemnité ne peut pas être versée aux fonctionnaires, autres que ceux de catégorie B ou C, rémunérés sur la base d'un ou des indices détenus au titre d'un emploi fonctionnel sur une des années bornes de la période de référence de quatre années. Pour la fonction publique territoriale, les emplois fonctionnels répondent aux dispositions du décret n° 87-1101 du 30 décembre 1987 portant dispositions statutaires particulières à certains emplois administratifs de direction des collectivités territoriales et des établissements publics locaux assimilés. L'article 8 de ce décret permet aux fonctionnaires détachés sur un des emplois fonctionnels mentionnés à l'article 1er de ce même décret de percevoir le traitement afférent à leur grade lorsque celui-ci est ou devient supérieur à celui afférent à l'indice brut terminal de l'emploi occupé dans la limite de la rémunération servie à la hors-échelle D. Les emplois supérieurs des collectivités territoriales inclus dans cette liste permettent à leurs détenteurs qui sont à l'échelon terminal de l'emploi fonctionnel qu'ils occupent, d'évoluer à nouveau dans leur grade et d'être rémunérés sur la base indiciaire de celui-ci. Ainsi, les fonctionnaires qui occupent un emploi fonctionnel, dès lors qu'ils sont rémunérés sur la base d'un indice de grade depuis plus de quatre années et qu'ils détiennent l'indice sommital de ce grade depuis cette même période, peuvent bénéficier de la GIPA.
