@@ -1,0 +1,9 @@
+# Réponse à la question SEQ170124587
+
+- Question : [SEQ170124587](seq170124587.md) — Démission d'un maire conseiller communautaire
+
+## Réponse
+
+*Intérieur, JO du 2017-03-16, page 1116*
+
+En application de l'article L. 273-11 du code électoral, dans les communes de moins de 1 000 habitants, les conseillers communautaires sont désignés dans l'ordre du tableau du conseil municipal. Cet ordre étant susceptible d'évoluer en cours de mandat, le classement à prendre en compte est celui en vigueur à la date de la recomposition du conseil communautaire. Ainsi, il y a lieu de considérer que le maire d'une commune de moins de 1 000 habitants devient automatiquement conseiller communautaire dans le cas où la commune ne disposerait que d'un seul siège. Lorsqu'un maire d'une commune de moins de 1 000 habitants, conseiller communautaire au sein de l'établissement public de coopération intercommunale à fiscalité propre auquel appartient sa commune, renonce en cours de mandat à sa fonction de maire tout en restant conseiller municipal, il conserve son mandat de conseiller communautaire. En effet, selon le I de l'article L. 273-5 du code électoral « nul ne peut être conseiller communautaire s'il n'est conseiller municipal ou conseiller d'arrondissement ». Dès lors, c'est uniquement dans le cas où le maire démissionnerait également de son mandat de conseiller municipal qu'il perdrait son mandat de conseiller communautaire. Ce point a été rappelé dans une circulaire du 13 mars 2014 portant sur l'élection et le mandat des assemblées et des exécutifs municipaux et communautaires, qui précise que « le fait pour un conseiller municipal de démissionner de ses seules fonctions de maire ou d'adjoint, gardant la qualité de conseiller municipal, n'a aucune incidence sur le mandat de conseiller communautaire ».
