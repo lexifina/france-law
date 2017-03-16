@@ -1,0 +1,9 @@
+# Réponse à la question SEQ160119813
+
+- Question : [SEQ160119813](seq160119813.md) — Poteaux creux
+
+## Réponse
+
+*Environnement, énergie et mer, JO du 2017-03-16, page 1095*
+
+La société Orange a pleinement pris la mesure du caractère dangereux des poteaux métalliques creux pour un nombre important d'espèces cavernicoles et de petits mammifères qui cherchent à nicher ou à s'abriter. À cet effet, elle s'est engagée depuis plusieurs années à travers un plan « poteaux » et dans le cadre de ses renouvellements dans une démarche de neutralisation de ce risque. Ce plan de contrôle et de maintenance des poteaux vise à équiper les poteaux métalliques creux déjà en place d'obturateurs de diamètre et de modèles adéquats ainsi qu'à la destruction systématique des poteaux déposés. Par ailleurs, Orange s'est rapprochée localement des délégations de la Ligue de protection des oiseaux (LPO) en signant avec certaines d'entre elles des conventions relatives à la neutralisation du danger exercé sur la faune par le parc de poteaux téléphoniques creux. Aux termes de ces conventions, Orange s'est engagée à mettre en place l'obturation des poteaux téléphoniques métalliques, le recyclage contrôlé des poteaux déposés et leur remplacement par des poteaux ne présentant pas de danger pour la faune. Orange fournit également aux délégations de la LPO un bilan des obturations ainsi réalisées. Les délégations de la Ligue de protection des oiseaux, quant à elles, peuvent attirer l'attention de Orange à l'égard de zones prioritaires sensibles pour les espèces concernées. Enfin, la loi n° 2016-1087 du 8 août 2016 pour la reconquête de la biodiversité, de la nature et des paysages prévoit dans son article 149 que la pose de poteaux creux et non bouchés est interdite afin de garantir notamment la conservation d'espèces animales non domestiques et de leurs habitats.
