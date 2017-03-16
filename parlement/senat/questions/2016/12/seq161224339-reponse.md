@@ -1,0 +1,9 @@
+# Réponse à la question SEQ161224339
+
+- Question : [SEQ161224339](seq161224339.md) — Obligation d'informer les candidats à l'installation à proximité d'un aéroport
+
+## Réponse
+
+*Environnement, énergie et mer, JO du 2017-03-16, page 1101*
+
+À l'heure actuelle, l'article L. 112-11 du code de l'urbanisme impose expressément, dans le cadre de la location d'un bien immobilier situé dans une zone du plan d'exposition au bruit (PEB) d'un aérodrome, une obligation d'information concernant la localisation de ce bien. Si une telle mention n'est pas prévue dans le code de l'urbanisme en ce qui concerne les ventes immobilières, il existe néanmoins une obligation générale d'information de l'acheteur sur l'ensemble des servitudes d'urbanisme affectant le bien immobilier, servitudes au nombre desquelles se trouvent celles découlant de la localisation dans un PEB. Pour autant, il pourrait effectivement être envisagé de modifier le dispositif juridique actuel. Par ailleurs, des actions auprès de la chambre des notaires ainsi que des professionnels de l'immobilier pourraient également être réalisées pour les sensibiliser à la nécessité d'informer correctement, et le plus en amont possible, les futurs acquéreurs ou locataires d'un bien immobilier situé dans une zone de bruit d'un PEB. Des études sont en cours sur la faisabilité et les modalités pratiques de mise en œuvre de ces mesures. C'est ainsi que le Conseil général de l'environnement et du développement durable (CGEDD) s'est vu confier à la fin de l'année 2016 par les ministres chargées de l'environnement et du logement et le secrétaire d'État chargé des transports une mission destinée, d'une part, à identifier les difficultés que ce sujet soulève et les réponses à y apporter et d'autre part, à formuler des propositions concrètes de mise en œuvre opérationnelle, y compris législatives le cas échéant.
