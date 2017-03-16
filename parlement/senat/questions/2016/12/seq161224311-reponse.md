@@ -1,0 +1,9 @@
+# Réponse à la question SEQ161224311
+
+- Question : [SEQ161224311](seq161224311.md) — Procédure de passation des contrats publics en cours au moment des fusions d'EPCI
+
+## Réponse
+
+*Aménagement du territoire, ruralité et collectivités territoriales, JO du 2017-03-16, page 1084*
+
+Les fusions opérées dans le cadre de la mise en œuvre des schémas départementaux de coopération intercommunale (SDCI), ont été menées sur le fondement des dispositions du III de l'article 35 de la loi n° 2015-991 du 7 août 2015 portant nouvelle organisation territoriale de la République (NOTRe). Ces dispositions renvoient à celles prévues au III de l'article L. 5211-41-3 du code général des collectivités territoriales (CGCT), relatives aux fusions opérées dans le cadre de procédures de droit commun, prévoyant notamment que « les contrats sont exécutés dans les conditions antérieures jusqu'à leur échéance, sauf accord contraire des parties. Les cocontractants sont informés de la substitution de personne morale par l'établissement public issu de la fusion. La substitution de personne morale aux contrats conclus par les établissements publics de coopération intercommunale et les communes n'entraîne aucun droit à résiliation ou à indemnisation pour le cocontractant.» Elles permettent ainsi la continuité des contrats conclus par les établissements publics de coopération intercommunale (EPCI) fusionnés et ce, dans les conditions antérieures à celles existantes avant la fusion de plusieurs EPCI à fiscalité propre. En ce qui concerne les procédures de marchés publics engagées par les EPCI avant la fusion mais n'ayant pas abouti à une signature avant celle-ci, l'EPCI issu de la fusion dispose de la faculté (et non l'obligation) de reprendre la procédure engagée. Il disposera également de la faculté de déclarer sans suite, pour motif d'intérêt général, les procédures de marchés en cours, avant la signature des marchés.
