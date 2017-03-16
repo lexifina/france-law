@@ -1,0 +1,9 @@
+# Réponse à la question SEQ160220231
+
+- Question : [SEQ160220231](seq160220231.md) — Application de la loi portant nouvelle organisation territoriale de la République et pérennité juridique des schémas de cohérence territoriale
+
+## Réponse
+
+*Aménagement du territoire, ruralité et collectivités territoriales, JO du 2017-03-16, page 1083*
+
+La loi n° 2017-86 du 27 janvier 2017 relative à l'égalité et à la citoyenneté a clarifié les dispositions relatives au schéma de cohérence territoriale (SCOT) notamment pour tenir compte des évolutions des intercommunalités induites par la mise en œuvre d'un schéma départemental de coopération intercommunale (SDCI). L'article 117 de la loi a, par conséquent, complété les dispositions relatives au périmètre et aux procédures en matière de SCOT et notamment l'article L. 143-10 du code de l'urbanisme relatif à l'extension du périmètre de l'établissement public porteur de SCOT. Ainsi, l'établissement public prévu à l'article L. 143-16 du code précité pourra désormais achever les procédures d'élaboration et d'évolution en cours sur le ou les périmètres antérieurs à l'extension, lorsque le débat prévu à l'article L. 143-18 dudit code, s'il est requis, a eu lieu avant l'extension du périmètre. L'établissement public porteur de SCOT pourra également engager des procédures de modification ou de mise en compatibilité des schémas approuvés, dont il assure le suivi. Conformément au XVII de l'article 117 précité, les nouvelles dispositions de l'article L. 143¬10 dans leur rédaction résultant de la même loi, sont aussi applicables aux établissements publics de coopération intercommunale à fiscalité propre créés à compter du 1er janvier 2017, en application des I et III de l'article 35 de la loi n° 2015-991 du 7 août 2015 portant nouvelle organisation territoriale de la République, ou dont le périmètre a évolué à compter de cette même date en application du II du même article 35.
