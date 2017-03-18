@@ -4,29 +4,31 @@ Dans le cadre du présent accord, les CPNE conjointes du bâtiment et des travau
 
 Emploi, qualification et priorités de formation :
 
-- définir, à partir des décisions prises par accords collectifs, la politique de formation professionnelle initiale et continue du BTP en prenant en compte les évolutions des emplois et des qualifications ;
+- définir, à partir des décisions prises par accords collectifs, la politique de formation professionnelle initiale et continue du bâtiment et des travaux publics en prenant en compte les évolutions des emplois et des qualifications ;
 
-- préparer pour ce faire les négociations de l'accord triennal et celles de tout autre accord définissant cette politique. En préciser les modalités générales de leur mise en oeuvre par les CPREF et les organismes paritaires des branches du BTP ;
+- préparer pour ce faire les négociations relatives aux priorités des branches du bâtiment et des travaux publics conformément aux dispositions légales, réglementaires et conventionnelles en vigueur et celles de tout autre accord définissant cette politique. En préciser les modalités générales de leur mise en oeuvre par les CPREF et les organismes paritaires des branches du bâtiment et des travaux publics ;
 
-- examiner la situation de l'emploi au niveau national en termes de bilan et de perspectives et observer l'évolution des qualifications pour en dégager des orientations et des priorités en matière de gestion prévisionnelle des emplois et des compétences. L'observatoire prospectif des métiers et des qualifications et les dispositifs qu'il comprend tels que tableau de bord sur l'emploi et la qualification des jeunes dans le BTP, les observatoires régionaux du bâtiment et des travaux publics, les travaux des organismes des branches du BTP, etc., seront notamment utilisés à ces fins ;
+- examiner notamment à partir des travaux de l'observatoire des métiers du bâtiment et des travaux publics la situation de l'emploi au niveau national en termes de bilan et de perspectives et observer l'évolution des qualifications pour en dégager des orientations et des priorités en matière de gestion prévisionnelle des emplois et des compétences et en assurer, conformément aux dispositions de l'accord collectif national de méthode pour un dialogue économique et de l'emploi dans le bâtiment du 14 janvier 2016, la communication auprès des entreprises du bâtiment ;
 
 - accorder une attention toute particulière aux données relatives au recrutement, suivre plus spécifiquement les fluctuations de l'évolution professionnelle et de l'insertion des jeunes pour préconiser toutes mesures utiles ;
 
 - rechercher, avec les organismes de la profession et les pouvoirs publics, les mesures propres à assurer la pleine utilisation et l'efficacité des moyens de formation, proposer ces mesures et évaluer les résultats de leur mise en application ;
 
-- informer les organismes paritaires professionnels et interprofessionnels, les pouvoirs publics et toutes autres institutions compétentes, de leurs priorités de branches du BTP en matière d'emploi, de formation professionnelle et de qualification ;
+- informer les organismes paritaires professionnels et interprofessionnels, les pouvoirs publics et toutes autres institutions compétentes, de leurs priorités de branches du bâtiment et des travaux publics en matière d'emploi, de formation professionnelle et de qualification ;
 
-- mettre à la disposition des chefs d'entreprise, des instances représentatives du personnel et des organismes compétents du BTP, les résultats de l'examen des travaux de l'observatoire ainsi que les conclusions et recommandations en matière de priorité de formation professionnelle.
+- mettre à la disposition des chefs d'entreprise, des instances représentatives du personnel et des organismes compétents du bâtiment et des travaux publics , les résultats des travaux de l'observatoire ainsi que les conclusions et recommandations en matière de priorité de formation professionnelle.
 
-Relations avec les organismes paritaires de la branche :
+Relations avec les organismes paritaires des branches du bâtiment et des travaux publics :
 
 - veiller à la cohérence d'ensemble des programmes d'action des organismes paritaires au regard des besoins d'emploi, de qualification, de formation initiale et continue de la profession ;
 
-- s'assurer de la mise en application effective de cette politique dans chaque organisme paritaire des deux branches, en suivre et en contrôler la mise en oeuvre. Pour ce faire, informer précisément les organismes paritaires du BTP des décisions, orientations prises et des modalités de suivi et de contrôle envisagées ; et présenter annuellement aux CPNE conjointes du bâtiment et des travaux publics, par les représentants des organismes paritaires nationaux, un bilan de leurs activités et des axes principaux du programme d'activités de l'année suivante.
+- s'assurer de la mise en application effective de cette politique dans chaque organisme paritaire des deux branches, en suivre et en contrôler la mise en oeuvre. Pour ce faire, informer précisément les organismes paritaires du bâtiment et des travaux publics des décisions, orientations prises et des modalités de suivi et de contrôle envisagées ;
+
+- inviter les représentants des organismes paritaires nationaux (CCCA-BTP, OPCA de la construction/ OCTA …) à présenter un bilan de leurs activités et des axes principaux du programme d'activités de l'année suivante.
 
 Suivi et contrôle de la mise en oeuvre des accords relatifs à l'emploi, à la formation et à la qualification :
 
-- suivre l'application des accords conclus par les partenaires sociaux du BTP et veiller à la mise en oeuvre des priorités de formation ;
+- suivre l'application des accords conclus par les partenaires sociaux du bâtiment et des travaux publics et veiller à la mise en oeuvre des priorités de formation ;
 
 - évaluer les résultats et formuler des observations, propositions et préconisations aux organismes paritaires de la profession ainsi qu'aux pouvoirs publics.
 
@@ -36,14 +38,16 @@ Concertation et contractualisation :
 
 - participer à la préparation, au suivi, à l'évaluation des conventions établies dans le cadre de la politique contractuelle de l'Etat, en particulier les contrats d'études prospectives et les engagements de développement de la formation.
 
-Certifications :
+Formations et certifications :
 
 - déterminer les qualifications pouvant être préparées par voie de contrat de professionnalisation et les objectifs des formations assurées dans le cadre de périodes de professionnalisation ;
 
-- veiller à la cohérence entre les différentes certifications du BTP inscrites au répertoire national des certifications professionnelles (RNCP) que sont les diplômes, les titres à finalité professionnelle et éventuellement les CQP ;
+- veiller à la cohérence entre les différentes certifications du bâtiment et des travaux publics inscrites au répertoire national des certifications professionnelles (RNCP) que sont les diplômes, les titres à finalité professionnelle et éventuellement les CQP ;
 
 - adopter des positions professionnelles communes sur des projets ministériels relatifs à l'évolution des diplômes et des titres ;
 
 - créer les certificats de qualification professionnelle (CQP) et autres certifications professionnelles, en diffuser la liste, les délivrer, les supprimer, entreprendre, en tant que de besoin, toutes démarches pour leur inscription au répertoire national des certifications professionnelles ou leur radiation ;
 
-- mettre en oeuvre le dispositif de validation des acquis de l'expérience pour favoriser le développement de carrière des salariés.
+- mettre en oeuvre le dispositif de validation des acquis de l'expérience pour favoriser le développement de carrière des salariés ;
+
+- établir les listes de formations conduisant à des certifications de branche éligibles au CPF à caractère national et les transmettre au comité national de l'emploi, de la formation et de l'orientation professionnelle (CNEFOP) et au comité paritaire interprofessionnel national pour l'emploi et la formation (COPANEF).
