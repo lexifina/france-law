@@ -1,6 +1,6 @@
 # Article Annexe VIII
 
-VÉHICULES SOUMIS À CONTRÔLE TECHNIQUE
+VEHICULES SOUMIS A CONTROLE TECHNIQUE
 
 A. liste des véhicules visés à l'article 1er
 
@@ -62,129 +62,113 @@ TOUT VÉHICULE ÉLECTRIQUE OU HYBRIDE |
 
 D. Périodicité et validité des visas
 
-TYPE DE CONTRÔLE
+TYPE DE CONTRÔLE |
 
-|
+PÉRIODICITÉS DES VISITES TECHNIQUES PÉRIODIQUES |
 
-PERIODICITES DES VISITES
+Visite technique périodique des véhicules TCP |
 
-techniques périodiques
+Six mois après la date de première mise en circulation puis six mois après chaque visite technique périodique |
 
-|
+Visite technique périodique des véhicules de catégorie M1 autres que sanitaires (*) |
 
-Visite technique périodique des véhicules TCP.
+Quatre ans après la date de la première mise en circulation puis deux ans après chaque visite technique périodique |
 
-|
+Autre visite technique périodique |
 
-Six mois après la date de première mise en circulation ou de la dernière visite technique périodique.
+Un an après la date de la première mise en circulation puis un an après chaque visite technique périodique |
 
-|
-
-Première visite technique périodique des autres véhicules lourds "prêts à l'emploi".
-
-|
-
-Un an après la date de la première mise en circulation.
-
-|
-
-Autre visite technique périodique.
-
-|
-
-Un an après la date :
-
-- de la première mise en circulation dans le cas de la première visite technique périodique suivant l'immatriculation du véhicule ;
-
-- de la dernière visite technique périodique.
-
-|
-
-Visite technique périodique des véhicules de catégorie M1.
-
-|
-
-Quatre ans après la date de la première mise en circulation puis tous les deux ans.
-
-|
+(*) Sont considérés comme véhicules sanitaires, les véhicules affectés aux transports sanitaires au sens de l'arrêté du 25 juin 2001 relatif aux visites techniques des véhicules effectuant des transports sanitaires. |
 
 ..
 
-RESULTAT DE LA VISITE |
+RÉSULTAT DE LA VISITE |
 
 TYPE DE VISITE |
 
-VALIDITE DU VISA |
+VALIDITÉ DU VISA |
 
 Véhicule accepté |
 
-Visite technique périodique
+Véhicules TCP :
 
-Véhicules TCP |
+Visite technique périodique |
 
 Six mois après la date de la visite technique périodique |
 
-Visite technique périodique
+Véhicules M1 autres que sanitaires (*) :
 
-Véhicules lourds autres que TCP et M1 |
-
-Un an après la date de la visite technique périodique |
-
-Visite technique périodique
-
-Véhicules M1 |
+Visite technique périodique |
 
 Deux ans après la date de la visite technique périodique |
 
-Contre-visite sous un mois après la date de la visite technique ayant prescrit la première contre-visite
+Autres véhicules lourds :
 
-Véhicules TCP |
+Visite technique périodique |
+
+Un an après la date de la visite technique périodique |
+
+Véhicules TCP :
+
+Contre-visite sous un mois après la date de la visite technique ayant prescrit la première contre-visite |
 
 Six mois après la date de la visite technique périodique ayant prescrit la première contre-visite |
 
-Contre-visite sous un mois après la date de la visite technique ayant prescrit la première contre-visite
+Véhicules lourds autres que TCP et M1 :
 
-Véhicules lourds autres que TCP et M1 |
+Contre-visite sous un mois après la date de la visite technique ayant prescrit la première contre-visite |
 
 Un an après la date de la visite technique périodique ayant prescrit la première contre-visite |
 
-Contre-visite sous deux mois après la date de la visite technique ayant prescrit la première contre-visite
+Véhicules M1 sanitaires (*) :
 
-Véhicules M1 |
+Contre-visite sous deux mois après la date de la visite technique ayant prescrit la première contre-visite |
+
+Un an après la date de la visite technique périodique ayant prescrit la première contre-visite |
+
+Véhicules M1 autres que sanitaires (*) :
+
+Contre-visite sous deux mois après la date de la visite technique ayant prescrit la première contre-visite |
 
 Deux ans après la date de la visite technique périodique ayant prescrit la première contre-visite |
 
-Véhicule refusé “ sans interdiction de circuler ” |
+Véhicule refusé
 
-Visite technique périodique
+sans interdiction de circuler |
 
-Véhicules autres que M1 |
+Véhicules autres que M1 :
+
+Visite technique périodique |
 
 Un mois après la date de la visite technique périodique |
 
-Visite technique périodique
+Véhicules M1 :
 
-Véhicules M1 |
+Visite technique périodique |
 
 Deux mois après la date de la visite technique périodique |
 
-Contre-visite sous un mois après la date de la visite technique périodique ayant prescrit la première contre-visite
+Véhicules autres que M1 :
 
-Véhicules autres que M1 |
+Contre-visite sous un mois après la date de la visite technique périodique ayant prescrit la première contre-visite |
 
 Un mois après la date de la dernière visite technique périodique ayant prescrit la première contre-visite |
 
-Contre-visite sous deux mois après la date de la visite technique ayant prescrit la première contre-visite
+Véhicules M1 :
 
-Véhicules M1 |
+Contre-visite sous deux mois après la date de la visite technique ayant prescrit la première contre-visite |
 
 Deux mois après la date de la dernière visite technique périodique ayant prescrit la première contre-visite |
 
-Véhicule refusé “ avec interdiction de circuler ” |
+Véhicule refusé
+
+avec interdiction de circuler |
 
 Tout type de visite technique périodique ou contre-visite |
 
 Date de la visite technique périodique ou de la contre-visite |
+
+(*) Sont considérés comme véhicules sanitaires, les véhicules affectés aux transports sanitaires au sens de l'arrêté du 25 juin 2001 relatif aux visites techniques des véhicules effectuant des transports sanitaires. |
 
 NOTA :
 
