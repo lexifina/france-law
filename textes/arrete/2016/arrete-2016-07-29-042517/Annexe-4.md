@@ -1,65 +1,39 @@
 # Article Annexe 4
 
-QUOTA D'EFFORT DE PÊCHE ATTRIBUÉ AUX NAVIRES PÊCHE BATTANT PAVILLON FRANÇAIS POUR LA PÊCHE PROFESSIONNELLE À LA SENNE DE PLAGE EN MER MÉDITERRANÉE
+QUOTA D'EFFORT DE PÊCHE ATTRIBUÉ AUX NAVIRES DE PÊCHE BATTANT PAVILLON FRANÇAIS
+
+POUR LA PÊCHE PROFESSIONNELLE À LA SENNE DE PLAGE EN MER MÉDITERRANÉE
 
 Quota : 1 386 jours.
 
 |
 
-NOMBRE DE JOURS DE PÊCHE PAR ANNÉE DE GESTION
+NOMBRE DE JOURS DE PÊCHE
 
-|
+par année de gestion |
 
-Navires adhérents à l'organisation de producteurs Organisation de Producteurs du Sud (OP DU SUD).
+Navires adhérents à l'organisation de producteurs Organisation de producteurs du Sud (OP DU SUD). |
 
-|
+0 |
 
-66
+Navires adhérents à l'organisation de producteurs SA Coopérative maritime des pêcheurs de Sète-Mole (SATHOAN). |
 
-|
+63 |
 
-Navires adhérents à l'organisation de producteurs SA Coopérative Maritime des pêcheurs de Sète-Mole (SATHOAN).
+Navires non adhérents à une organisation de producteurs dans le respect des limitations ci-dessous : |
 
-|
+-pour les navires immatriculés dans le ressort de la région Provence-Alpes-Côte d'Azur ; |
 
-0
+693 |
 
-|
+-pour les navires immatriculés dans le ressort de la région Occitanie ; |
 
-Navires non adhérents à une organisation de producteurs dans le respect des limitations ci-dessous :
+630 |
 
-|
+-pour les navires immatriculés dans le ressort de la collectivité territoriale de Corse. |
 
-|
+0 |
 
-- pour les navires immatriculés dans le ressort de la région Provence-Alpes-Côte d'Azur ;
+Total |
 
-|
-
-660
-
-|
-
-- pour les navires immatriculés dans le ressort de la région Languedoc-Roussillon - Midi-Pyrénées ;
-
-|
-
-660
-
-|
-
-- pour les navires immatriculés dans le ressort de la collectivité territoriale de Corse.
-
-|
-
-0
-
-|
-
-Total
-
-|
-
-1 386
-
-|
+1 386 |
