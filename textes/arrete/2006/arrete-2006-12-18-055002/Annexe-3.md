@@ -1,105 +1,303 @@
 # Article Annexe 3
 
-Liste des espèces d'eau profonde concernées par le PPS
+LISTE DES ESPÈCES VISÉES À L'ARTICLE 1ER
 
-(Référence : règlement [CE] n° 2347/2002 - art. 1er)
+NOM SCIENTIFIQUE |
 
-NOM SCIENTIFIQUE : Aphanopus carbo.
+NOM FRANÇAIS |
 
-NOM COMMUN : Sabre noir.
+CODE FAO |
 
-NOM SCIENTIFIQUE : Apristuris spp.
+Alepocephalidae |
 
-NOM COMMUN : Holbiches.
+Poissons des abysses |
 
-NOM SCIENTIFIQUE : Argentina silus.
+PZC |
 
-NOM COMMUN : Grande argentine.
+Alepocephalus bairdii |
 
-NOM SCIENTIFIQUE : Beryx spp.
+Alépocéphale de Baird |
 
-NOM COMMUN : Béryx.
+ALC |
 
-NOM SCIENTIFIQUE : Centrophorus granulosus.
+Alepocephalus rostratus |
 
-NOM COMMUN : Squale chagrin commun.
+Caussinie |
 
-NOM SCIENTIFIQUE : Centrophorus squamosus.
+PHO |
 
-NOM COMMUN : Squale chagrin de l'Atlantique.
+Antimora rostrata |
 
-NOM SCIENTIFIQUE : Centroscyllium fabricii.
+Antimora bleu |
 
-NOM COMMUN : Aiguillat noir.
+ANT |
 
-NOM SCIENTIFIQUE : Centroscymnus coelolepis.
+Aphanopus carbo |
 
-NOM COMMUN : Requin portugais.
+Sabre noir |
 
-NOM SCIENTIFIQUE : Coryphaenoides rupestris.
+BSF |
 
-NOM COMMUN : Grenadier de roche.
+Apristuris spp |
 
-NOM SCIENTIFIQUE : Dalatias licha.
+Holbiches |
 
-NOM COMMUN : Squale liche.
+API |
 
-NOM SCIENTIFIQUE : Deania calceus.
+Argentina silus |
 
-NOM COMMUN : Squale savate.
+Grande argentine |
 
-NOM SCIENTIFIQUE : Etmopterus princeps.
+ARU |
 
-NOM COMMUN : Sagre rude.
+Beryx spp |
 
-NOM SCIENTIFIQUE : Etmopterus spinax.
+Béryx nca |
 
-NOM COMMUN : Sagre commun.
+ALF |
 
-NOM SCIENTIFIQUE : Galeus melastomus.
+Cataetyx laticeps |
 
-NOM COMMUN : Chien espagnol.
+Cataetyx laticeps |
 
-NOM SCIENTIFIQUE : Galeus murinus.
+TVY |
 
-NOM COMMUN : Chien islandais.
+Centrophorus spp |
 
-NOM SCIENTIFIQUE : Hoplostethus atlanticus.
+Squales-chagrins nca |
 
-NOM COMMUN : Hoplostète orange.
+CWO |
 
-NOM SCIENTIFIQUE : Molva dypterigia.
+Centroscyllium fabricii |
 
-NOM COMMUN : Lingue bleue.
+Aiguillat noir |
 
-NOM SCIENTIFIQUE : Physis blennoide.
+CFB |
 
-NOM COMMUN : Mostelle de fond.
+Centroscymnus coelolepis |
 
-NOM SCIENTIFIQUE : Centroscymnus crepidater.
+Pailona commun |
 
-NOM COMMUN : Pailona à long nez.
+CYO |
 
-NOM SCIENTIFIQUE : Scymnodon ringens.
+Centroscymnus crepidater |
 
-NOM COMMUN : Requin grogneur commun.
+Pailona à long nez |
 
-NOM SCIENTIFIQUE : Hexanchus griseus.
+CYP |
 
-NOM COMMUN : Requin griset.
+Chaceon affinis |
 
-NOM SCIENTIFIQUE : Chlamydoselachus anguineus.
+Crabe rouge de profondeur (géryon européen) |
 
-NOM COMMUN : Requin lézard.
+KEF |
 
-NOM SCIENTIFIQUE : Oxynotus paradoxus.
+Chimaera monstrosa |
 
-NOM COMMUN : Humantin.
+Chimère commune |
 
-NOM SCIENTIFIQUE : Somniosus microcephalus.
+CMO |
 
-NOM COMMUN : Requin de Groenland.
+Chlamydoselachus anguineus |
 
-NOM SCIENTIFIQUE : Reinhardtius hippoglossoides.
+Requin lézard |
 
-NOM COMMUN : Flétan noir.
+HXC |
+
+Coryphaenoides rupestris |
+
+Grenadier de roche |
+
+RNG |
+
+Dalatias licha |
+
+Squale liche |
+
+SCK |
+
+Deania calcea |
+
+Squale savate |
+
+DCA |
+
+Epigonus telescopus |
+
+Poisson cardinal |
+
+EPI |
+
+Etmopterus princeps |
+
+Sagre rude |
+
+ETR |
+
+Etmopterus spinax |
+
+Sagre commun |
+
+ETX |
+
+Galeus melastomus |
+
+Chien espagnol |
+
+SHO |
+
+Galeus murinus |
+
+Chien islandais |
+
+GAM |
+
+Helicolenus dactylopterus |
+
+Sébaste chèvre |
+
+BRF |
+
+Hexanchus griseus |
+
+Requin griset |
+
+SBL |
+
+Hoplostethus atlanticus |
+
+Hoplostète orange |
+
+ORY |
+
+Hoplostethus mediterraneus |
+
+Hoplostète argenté |
+
+HPR |
+
+Hydrolagus mirabilis |
+
+Chimère à gros yeux |
+
+CYH |
+
+Lepidopus caudatus |
+
+Sabre argenté |
+
+SFS |
+
+Lycodes esmarkii (Grande lycode) |
+
+Bouquet mississippi |
+
+LKK |
+
+Macrouridae |
+
+Grenadiers poissons rat |
+
+RTX |
+
+Macrourus berglax |
+
+Grenadier berglax |
+
+RHG |
+
+Molva dypterygia |
+
+Lingue bleue |
+
+BLI |
+
+Mora moro |
+
+Moro commun |
+
+RIB |
+
+Notacanthus chemnitzii |
+
+Notacanthus chemnitzii |
+
+NNN |
+
+Oxynotus paradoxus |
+
+Humantin |
+
+OXN |
+
+Pagellus bogaraveo |
+
+Dorade rose |
+
+SBR |
+
+Polyprion americanus |
+
+Cernier commun |
+
+WRF |
+
+Raja fyllae |
+
+Raie ronde |
+
+RJY |
+
+Raja hyperborea |
+
+Raie arctique |
+
+RJG |
+
+Raja nidarosiensis |
+
+Pocheteau de Norvège |
+
+JAD |
+
+Reinhardtius hippoglossoides |
+
+Flétan noir |
+
+GHL |
+
+Rhinochimaera atlantica |
+
+Chimère à nez mou |
+
+RCT |
+
+Scymnodon ringens |
+
+Squale-grogneur commun |
+
+SYR |
+
+Sebastes viviparus |
+
+Petit sébaste |
+
+SFV |
+
+Somniosus microcephalus |
+
+Laimargue du Groenland |
+
+GSK |
+
+Nesiarchus nasutus |
+
+Escolier long nez |
+
+NEN |
+
+Trachyscorpia cristulata |
+
+Rascasse épineuse |
+
+TJX |
