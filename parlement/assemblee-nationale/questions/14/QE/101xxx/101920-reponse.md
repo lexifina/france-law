@@ -1,0 +1,9 @@
+# Réponse à la question n° 101920
+
+- Question : [101920](101920.md) — Question n° 101920 — agriculture biologique; contrôle; perspectives
+
+## Réponse
+
+*JO du 2017-03-21*
+
+Les aides en faveur de l'agriculture biologique correspondent à des paiements pluriannuels versés en contrepartie du respect d'un certain nombre d'obligations par les agriculteurs qui en bénéficient, parmi lesquelles figure en premier lieu le respect des exigences du cahier des charges de l'agriculture biologique. Pour l'ensemble des demandeurs, le respect de ces obligations est tout d'abord vérifié en contrôle administratif par les directions départementales des territoires, qui assurent l'instruction des demandes d'aides pour ce dispositif, sur la base des documents édités par les organismes accrédités pour la certification des productions biologiques. Chaque année et conformément à la Réglementation européenne, un échantillon de dossiers est ensuite sélectionné pour faire l'objet de contrôles sur place complémentaires. S'il est constaté un non-respect de certaines obligations par l'agriculteur, un régime de sanctions spécifique est appliqué, qui tient compte de la gravité des anomalies décelées. Les sanctions se traduisent par le non-versement, ou la demande de remboursement, de tout ou partie des aides, et peuvent également engendrer l'application de pénalités supplémentaires le cas échéant. Dans le cas général, les anomalies constatées impliquent l'application du régime de sanctions uniquement pour les aides versées au titre de l'année considérée et l'agriculteur a la possibilité de se remettre en conformité les années suivantes. En revanche pour certaines obligations du cahier des charges de la mesure, le constat d'une anomalie peut conduire à interrompre l'engagement avant son terme et exiger le remboursement de l'intégralité des aides perçues au titre des années précédentes par l'agriculteur.
