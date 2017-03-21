@@ -1,0 +1,9 @@
+# Réponse à la question n° 91131
+
+- Question : [91131](91131.md) — Question n° 91131 — chauffage; températures; réglementation
+
+## Réponse
+
+*JO du 2017-03-21*
+
+Les articles R. 131-22 et R. 131-23 du code de la construction et de l'habitation précisent que des arrêtés signés conjointement par le ministre chargé de l'industrie, du ministre chargé de la construction et de l'habitation et du ministre chargé de la santé devront fixer des limites supérieures de température de chauffage pour les bâtiments visés par les articles R. 131-22 et R. 131-23. Il s'agit par exemple des établissements où sont donnés des soins médicaux ou de bâtiments à caractère industriel, agricole ou sportif. Ce dispositif prévu par le décret du 8 juin 1978 n'a jamais été traduit par des arrêtés dans la mesure où la pertinence de fixer au niveau national des températures limites de chauffage n'est pas avérée. En particulier, pour assurer le confort thermique des usagers dans ces bâtiments, il peut être utile de faire varier cette température au-delà de ce maximum, en fonction de l'hygrométrie, de l'occupation et des habitants concernés. L'absence des arrêtés d'application permet un meilleur ajustement des conditions de confort thermique dans ces bâtiments en fonction, notamment, des conditions météorologiques et des spécificités des activités tenues dans le bâtiment. En l'absence de ces arrêtés, il n'existe pas de températures limites de chauffage à respecter. Néanmoins, comme dans tout bâtiment où s'exerce une activité, le code du travail doit être appliqué afin d'assurer que le « chauffage fonctionne de manière à maintenir une température convenable » (article R. 4223-13 du code du travail). Il est donc nécessaire pour le propriétaire du bâtiment d'ajuster la température de chauffage pour répondre au code du travail.
