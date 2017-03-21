@@ -1,0 +1,9 @@
+# Réponse à la question n° 73358
+
+- Question : [73358](73358.md) — Question n° 73358 — supplément de loyer de solidarité; calcul; réglementation
+
+## Réponse
+
+*JO du 2017-03-21*
+
+Le supplément de loyer de solidarité (SLS) est une contrepartie du droit au maintien dans les lieux pour les locataires qui dépassent de façon significative les plafonds de ressources. Ce surloyer est réclamé au locataire sur la base des ressources annuelles N-2 à compter du 1er janvier de l'année qui suit l'enquête ressources faisant apparaître un dépassement de 20 % du plafond applicable. L'article R. 441-23 du code de la construction et de l'habitation prévoit toutefois que « la modification de la composition du ménage ou de ses ressources telle que prévue à l'article L. 441 3 est prise en compte pour le calcul du dépassement du plafond de ressources à partir du mois qui suit la survenance de l'événement (…) ». Cette rédaction permet ainsi un ajustement du SLS lorsqu'une situation aboutissant à une baisse de revenus pour le ménage est définitive ou se poursuit sur une période suffisamment représentative en termes de ressources pour justifier d'un nouveau calcul du SLS. Lorsque, par exemple, les justificatifs produits par le locataire attestent d'une baisse mensuelle de revenus correspondant au moins à 10 % des ressources de l'année N-2, le bailleur doit, dès que cette baisse est constatée, en tenir compte dans le règlement du SLS. En outre, les collectivités peuvent moduler le SLS en fonction des quartiers concernés au sein des programmes locaux de l'habitat (PLH) par exemple. Dans le cadre de la loi "Égalité et Citoyenneté", le Gouvernement a renforcé les dispositions relatives au SLS notamment à travers une majoration du taux d'effort maximum (30 % des ressources des locataires), mais en le rendant plus équitable en particulier en ne le déclenchant qu'à partir de 150 % du plafond du PLS (et non du plafond du logement du locataire concerné).
