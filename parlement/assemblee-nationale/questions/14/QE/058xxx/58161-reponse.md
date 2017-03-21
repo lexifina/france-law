@@ -1,0 +1,9 @@
+# Réponse à la question n° 58161
+
+- Question : [58161](58161.md) — Question n° 58161 — exercice de la profession
+
+## Réponse
+
+*JO du 2017-03-21*
+
+Selon les dispositions de loi no 46-942 du 7 mai 1946 instituant l'ordre des géomètres-experts, seuls les géomètres-experts inscrits au tableau de l'ordre sont habilités à réaliser les études et les travaux topographiques qui fixent les limites des biens fonciers et à lever et dresser, à toutes échelles et sous quelque forme que ce soit, les plans et documents topographiques concernant la définition des droits attachés à la propriété foncière, tels que les plans de division, de partage, de vente et d'échange des biens fonciers, les plans de bornage ou de délimitation de la propriété foncière. Les géomètres-experts sont également compétents pour exercer des activités relevant du champ concurrentiel telles que la réalisation d'études, de documents topographiques, techniques et d'information géographique dans le cadre des missions publiques ou privées d'aménagement du territoire, d'opérations techniques ou études sur l'évaluation, la gestion ou l'aménagement des biens fonciers, l'entremise immobilière et la gestion immobilière. Le Gouvernement n'entend pas modifier ces dispositions, en particulier, il souhaite maintenir la profession de géomètre-expert dans le champ des professions réglementées et veiller au niveau de qualification des personnes accédant à la profession. Ainsi, le décret no 2015-649 du 10 juin 2015 modifiant les décrets no 96-478 du 31 mai 1996 portant règlement de la profession de géomètre-expert et code des devoirs professionnels et no 2010-1406 du 12 novembre 2010 relatif au diplôme de géomètre-expert foncier délivré par le Gouvernement, publié en juin 2015, concernant l'accès des géomètres topographes à la profession prévoit que les personnes concernées puissent accéder à la profession dans le cadre déjà bien établi de ce diplôme de géomètre-expert foncier.
