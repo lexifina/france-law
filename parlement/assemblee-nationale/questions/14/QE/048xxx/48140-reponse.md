@@ -1,0 +1,9 @@
+# Réponse à la question n° 48140
+
+- Question : [48140](48140.md) — Question n° 48140 — résiliation; préavis; clauses contractuelles
+
+## Réponse
+
+*JO du 2017-03-21*
+
+La loi no 89-462 du 6 juillet 1989 tendant à améliorer les rapports locatifs détermine les règles applicables aux relations entre bailleur et locataire dans le parc privé. L'article 40 de la loi du 6 juillet 1989 précitée précise les articles de cette loi qui sont également applicables au parc locatif social. L'article 15-I, applicable au parc locatif social, prévoit que le délai de préavis applicable au congé donné par le locataire d'un logement social est en principe de trois mois même si celui-ci peut être réduit à un mois sous certaines conditions. Le locataire est ainsi redevable du loyer et des charges concernant tout le délai de préavis et celui-ci ne commence à courir qu'à compter du jour de la réception de la lettre recommandée ou de la remise en main propre par laquelle le locataire notifie son congé. La Cour de cassation a plusieurs fois rappelé que le délai de préavis se décompte de date à date et non par mois entiers, quelle que soit la durée du préavis (Cass. 3e civ, 28 octobre 2003, no 02-14271) et a précisé notamment que « le montant des loyers et charges dus devait être arrêté à la date d'effet de ce congé » (Cass. 3e civ, 7 juillet 2004, no 03-14439). Dès lors, toute clause figurant dans le contrat de bail d'un logement - social ou non - et prévoyant que « tout mois commencé est considéré comme entier » apparait illégale aux regards des dispositions de la loi du 6 juillet 1989 précitée. Par conséquent, le locataire relevant du RSA qui en application de l'article 15-I de la loi du 6 juillet 1989 précitée bénéficie d'un préavis d'un mois ne devra s'acquitter que du paiement du loyer et des charges dus pour un mois, de date à date, et ce, même si le délai de préavis ne commence pas à courir le 1er du mois.
