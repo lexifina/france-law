@@ -1,0 +1,9 @@
+# Réponse à la question n° 82001
+
+- Question : [82001](82001.md) — Question n° 82001 — réglementation
+
+## Réponse
+
+*JO du 2017-03-21*
+
+La loi no 2007-290 du 5 mars 2007, instituant le droit au logement opposable (DALO) et portant diverses mesures en faveur de la cohésion sociale, a renforcé les droits des propriétaires, ainsi que ceux des locataires, en cas d'occupation illicite de leur domicile. C'est ainsi que l'article 38 de cette loi a créé une procédure administrative d'expulsion en cas d'introduction et de maintien dans le domicile d'autrui à l'aide de manœuvres, menaces, voies de fait ou de contrainte. Dans un tel cas, le propriétaire ou le locataire du logement occupé peut demander au préfet de mettre en demeure l'occupant de quitter les lieux, après avoir déposé plainte, fait la preuve que le logement constitue son domicile et fait constater l'occupation illicite par un officier de police judiciaire. Lorsque la mise en demeure de quitter les lieux n'a pas été suivie d'effet dans le délai fixé par le préfet, ce dernier doit procéder à l'évacuation forcée du logement, sauf opposition du propriétaire ou du locataire. La loi no 2015-714 du 24 juin 2015, tendant à préciser l'infraction de violation de domicile, est de nature à faciliter le constat, par un officier de police judiciaire, de l'occupation illicite. Cette loi a en effet modifié l'article 226-4 du code pénal pour consacrer le caractère continu de ce délit. Ainsi, en cas d'introduction dans le domicile d'autrui à l'aide de manœuvres, menaces, voies de fait ou contrainte, une enquête de flagrance pourra être ouverte aussi longtemps que les occupants se maintiennent dans les lieux. Dès lors, la protection des propriétaires et locataires de logements contre les occupations illicites s'en trouve ainsi accrue.
