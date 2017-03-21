@@ -1,0 +1,9 @@
+# Réponse à la question n° 87927
+
+- Question : [87927](87927.md) — Question n° 87927 — rapport; propositions
+
+## Réponse
+
+*JO du 2017-03-21*
+
+Sur l'initiative du ministère du logement, une grande concertation a été conduite entre novembre 2013 et février 2014, rassemblant tous les professionnels de la construction concernés – entreprises, maître d'ouvrage, maîtres d'œuvre, personnalités qualifiées, etc. – sur quatre thématiques majeures : la simplification des normes, la mobilisation du foncier, l'adaptation de l'offre de logement et l'innovation dans le secteur du bâtiment. Les conclusions et les propositions formulées à l'issue de la concertation ont alimenté la feuille de route du Gouvernement pour la relance de la construction. 50 mesures de simplification ont ainsi été identifiées à partir des propositions des professionnels, parmi lesquelles la mise en place du conseil supérieur de la construction et de l'efficacité énergétique. Le rapport « politique du logement : faire sauter les verrous » publié par l'Institut Montaigne propose de réduire les coûts de construction par une simplification normative. Le conseil supérieur de la construction et de l'efficacité énergétique (CSCEE) devrait participer à la réalisation de cet objectif. Ainsi, le CSCEE, institué par décret en novembre 2015, se mobilise pour accompagner le mouvement de simplification des règlementations impulsées par le ministère du logement afin de construire davantage, mieux et moins cher et dans le respect de la qualité d'usage pour tous les logements. Dans cette perspective, le CSCEE a lancé trois missions de réflexion sur les coûts dans la construction, la charge des formations obligatoires et le poids de la normalisation dans la construction. Ces missions proposent des mesures opérationnelles pour définir un cadre normatif lisible, proportionné et à coût maitrisé.
