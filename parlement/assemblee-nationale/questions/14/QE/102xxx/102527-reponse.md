@@ -1,0 +1,9 @@
+# Réponse à la question n° 102527
+
+- Question : [102527](102527.md) — Question n° 102527 — FDSEA de Moselle; propositions; perspectives
+
+## Réponse
+
+*JO du 2017-03-21*
+
+Le registre des actifs agricoles prévu à l'article L. 311-2 du code rural et de la pêche maritime a vocation à répertorier les chefs d'exploitations agricoles, exerçant des activités agricoles, au sens de l'article L. 311-1 du code rural et de la pêche maritime, à l'exception des activités marines et forestières, à condition qu'ils cotisent au régime de la protection sociale agricole ou qu'ils soient dirigeants de société, la personne répertoriée étant alors l'actionnaire majoritaire. Les exploitants pourront ainsi se prévaloir d'une inscription au registre, qui sera automatique. Une attestation gratuite pourra être délivrée sur demande. L'élaboration du décret nécessaire à la mise en place du registre est en cours de finalisation, l'examen de la nature des informations à recenser et des modalités pratiques d'échanges d'informations étant désormais achevé. Ce décret doit, par ailleurs, être examiné pour avis par la commission nationale de l'informatique et des libertés avant publication. Par ailleurs, dans le cadre du comité de rénovation des normes en agriculture (CORENA), présidé par M. Pierre-Étienne Bisch, ancien préfet et conseiller d'État en service extraordinaire, composé de membres de l'administration et de représentants de la profession agricole, un groupe de travail a été mis en place début 2017 pour travailler sur le thème du « statut de l'agriculteur ». L'objectif de ce groupe de travail est d'établir un état des lieux des définitions de l'activité agricole. Au vu du résultat des travaux qui seront réalisés dans le cadre du CORENA, des propositions de simplification de la réglementation pourront être envisagées.
