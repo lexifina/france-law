@@ -1,0 +1,9 @@
+# Réponse à la question n° 96902
+
+- Question : [96902](96902.md) — Question n° 96902 — accès à la voie publique; réglementation
+
+## Réponse
+
+*JO du 2017-03-21*
+
+Dans le cas où la demande concerne un projet situé sur le territoire d'une commune dotée d'un plan local d'urbanisme (PLU) ou d'un document en tenant lieu, l'article R. 151-47 du code de l'urbanisme précise « Afin de répondre aux besoins en matière de mobilité, de sécurité et de salubrité, le règlement peut fixer : 1° Les conditions de desserte des terrains mentionnés à l'article L. 151-39 par les voies publiques ou privées et d'accès aux voies ouvertes au public ; ». Le contrôle réalisé lors de l'instruction d'une demande de permis de construire consistera donc à vérifier que les accès prévus pour le projet respectent bien le règlement du PLU. L'article R. 111-5 du même code, applicable sur le territoire des communes non dotées d'un PLU ou document d'urbanisme en tenant lieu, indique que « le projet peut être refusé sur des terrains qui ne seraient pas desservis par des voies publiques ou privées dans des conditions répondant à son importance ou à la destination des constructions ou des aménagements envisagés, et notamment si les caractéristiques de ces voies rendent difficile la circulation ou l'utilisation des engins de lutte contre l'incendie. Il peut également être refusé ou n'être accepté que sous réserve de prescriptions spéciales si les accès présentent un risque pour la sécurité des usagers des voies publiques ou pour celle des personnes utilisant ces accès. Cette sécurité doit être appréciée compte tenu, notamment, de la position des accès, de leur configuration ainsi que de la nature et de l'intensité du trafic. » Cette disposition a un objet limité à la sécurité. En conséquence, le maire ne peut donc pas imposer au pétitionnaire un accès à un endroit déterminé de la parcelle à bâtir, sauf pour des raisons de sécurité ou de conformité au règlement du PLU.
