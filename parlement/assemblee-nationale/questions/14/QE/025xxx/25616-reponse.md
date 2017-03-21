@@ -1,0 +1,9 @@
+# Réponse à la question n° 25616
+
+- Question : [25616](25616.md) — Question n° 25616 — logements vacants; fiscalité
+
+## Réponse
+
+*JO du 2017-03-21*
+
+L'article 16 de la loi de finances initiale pour 2013 a renforcé de manière substantielle la taxe sur les logements vacants (TLV). Le périmètre d'application de la TLV est désormais étendu à vingt-huit unités urbaines (1 151 communes), contre huit auparavant (811 communes). De plus, la taxe s'applique désormais aux logements vacants depuis plus d'un an (au lieu de deux ans auparavant) au 1er janvier de l'année d'imposition, c'est-à-dire aux logements qui ne sont pas soumis à la taxe d'habitation depuis deux années consécutives. Les taux de la TLV s'élèvent à 12,5 % la première année d'imposition et à 25 % à compter de la deuxième (au lieu de 12,5 % la première année, 15 % la deuxième et 20 % à compter de la troisième). Par ailleurs, le code général des impôts prévoit que les communes ou les établissements publics de coopération intercommunale (EPCI) à fiscalité propre peuvent décider d'assujettir à la taxe d'habitation les logements vacants (THLV), à la condition que la TLV ne soit pas applicable sur leur territoire. La loi de finances initiale pour 2013 prévoit que les logements concernés sont désormais les logements vacants depuis deux ans au moins, au lieu de cinq auparavant. Au titre de 2014, 230 000 logements vacants ont été assujettis à la TLV pour un montant mis en recouvrement de 149,2 M€. Toutefois, compte tenu du taux important de contentieux, les contribuables pouvant justifier a posteriori de la non-vacance de leurs logements, la moitié des articles de TLV ont fait l'objet d'un dégrèvement à hauteur de 69 M€. S'agissant de la THLV, en 2014, 3458 communes et 26 EPCI avaient institué cette taxe. Environ 160 000 logements ont été soumis à la taxe pour un montant de 65,4 M€ ; Comme pour la TLV, le contentieux sur la THLV a entraîné des dégrèvements pour un montant de 29,5 M€.
