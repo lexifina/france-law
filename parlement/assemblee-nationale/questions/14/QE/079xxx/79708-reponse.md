@@ -1,0 +1,9 @@
+# Réponse à la question n° 79708
+
+- Question : [79708](79708.md) — Question n° 79708 — frais de gestion; facturation
+
+## Réponse
+
+*JO du 2017-03-21*
+
+En application de la loi no 65-557 du 10 juillet 1965 fixant le statut de la copropriété des immeubles bâtis, la cession de clientèle entre deux syndics de copropriété est inopposable au syndicat de copropriétaires. En effet, d'une part, l'article 18 de la loi précitée interdit au syndic en exercice de se faire substituer, et, d'autre part, l'article 25 de la même loi énonce que seule une assemblée générale de copropriété est habilitée à désigner le syndic de la copropriété. En conséquence, le syndic cédant ne peut en aucun cas imposer le syndic cessionnaire comme remplaçant. Par ailleurs les dispositions législatives récentes et notamment celles de la loi no 2014-366 du 24 mars 2014 pour l'accès au logement et un urbanisme rénové (ALUR) ont modifié la loi précitée et ont doté les copropriétés de nouveaux outils de nature à leur permettre de se prémunir des comportements décrits. Le principe d'une mise en concurrence des syndics a ainsi été institué et doit intervenir obligatoirement tous les trois ans, sauf dérogation adoptée en assemblée générale. Un contrat type de syndic a également été créé, défini par le décret no 2015-342 du 26 mars 2015. Ce texte permet de déterminer la mission que doit remplir un syndic de copropriété en définissant une première liste, non exhaustive, des prestations qu'un syndic doit au minimum proposer, et qui sont rémunérées par un forfait de base d'une part, et d'autre part, une seconde liste, strictement limitative, des prestations spécifiques pouvant donner lieu au versement d'une rémunération complémentaire. Les contrats aisément comparables grâce au contrat-type faciliteront la mise en concurrence des syndics, ce qui devrait permettre d'éviter certaines pratiques excessives.
