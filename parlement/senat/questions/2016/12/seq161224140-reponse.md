@@ -1,0 +1,9 @@
+# Réponse à la question SEQ161224140
+
+- Question : [SEQ161224140](seq161224140.md) — Défrichement en vue de l'implantation d'une station d'épuration
+
+## Réponse
+
+*Agriculture, agroalimentaire et forêt, JO du 2017-03-23, page 1188*
+
+La réglementation sur le défrichement définit les opérations de destruction d'une végétation ligneuse qui ne sont pas considérées comme du défrichement (article L. 341-2 du code forestier) ou qui sont exonérées d'une demande d'autorisation de défrichement (article L. 342-1). La diversité des situations sur le terrain laisse une part d'appréciation au service instructeur, et nécessite des compétences techniques spécifiques. Par ailleurs, l'article L. 341-7 prévoit que « lorsque la réalisation d'une opération ou de travaux soumis à une autorisation administrative, à l'exception de celles prévues au titre 1er et au chapitre V du titre V du livre V du code de l'environnement (installations classées et canalisations), nécessite également l'obtention d'une autorisation de défrichement, celle-ci doit être obtenue préalablement à la délivrance de cette autorisation administrative. » Aussi, dans la plupart des cas mettant en cause une végétation ligneuse, les services forestiers placés sous l'autorité du préfet sont consultés par les porteurs de projet en amont de leur demande, afin de déterminer leur situation vis-à-vis de la réglementation sur le défrichement. À partir du 1er mars 2017, la procédure d'autorisation de défrichement sera intégrée aux procédures IOTA (installations, ouvrages, travaux et aménagements soumis à la loi sur l'eau) et ICPE (installations classées pour la protection de l'environnement), constituant ainsi un guichet unique. Dans ce cadre, un avis formel des services forestiers sera sollicité, le cas échéant, par le service en charge de la procédure unique.
