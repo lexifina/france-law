@@ -88,6 +88,8 @@ I. ― Une télévision citoyenne
 
 Article 35. ― L'honnêteté et le pluralisme de l'information
 
+Article 35-1. - Le comité relatif à l'honnêteté, à l'indépendance et au pluralisme de l'information et des programmes
+
 Article 36. ― La dignité de la personne humaine et la protection des mineurs
 
 Article 37. ― La lutte contre les discriminations et la représentation de la diversité à l'antenne
@@ -724,6 +726,44 @@ Lorsqu'une procédure judiciaire en cours est évoquée à l'antenne, la sociét
 
 La société conserve en toutes circonstances la maîtrise de son antenne conformément à son dispositif de contrôle interne.
 
+Article 35-1
+
+Le comité relatif à l'honnêteté, à l'indépendance et au pluralisme de l'information et des programmes.
+
+I.-Par application de l'article 30-8 de la loi du 30 septembre 1986 précitée, il est institué auprès de la société un comité relatif à l'honnêteté, à l'indépendance et au pluralisme de l'information et des programmes. Le conseil d'administration de la société fixe le nombre de membres du comité qui est compris entre cinq et sept et procède à leur nomination. Les représentants de l'Etat ne prennent part ni à ce vote ni à celui prévu au deuxième alinéa du II.
+
+Le mandat des membres est de trois ans. Il peut être renouvelé. En dehors des cas prévus au II, il n'est pas révocable.
+
+Le comité élit parmi ses membres un président.
+
+II.-Les membres sont tenus de s'abstenir de toute prise de position publique sur les questions en cours d'examen et respectent le secret des délibérations.
+
+Le conseil d'administration de la société met fin au mandat du membre qui n'a pas respecté les prescriptions du deuxième alinéa de l'article 30-8 de la même loi ou, sur proposition du comité, s'il n'a pas respecté les dispositions de l'alinéa précédent, en cas d'absences répétées ou pour tout motif grave et dûment justifié.
+
+En cas de vacance pour quelque cause que ce soit, il est pourvu à la nomination d'un nouveau membre dans un délai de quatre mois.
+
+III.-Les moyens administratifs et techniques nécessaires à l'exercice de la mission du comité sont mis à sa disposition par la société. Les personnels éventuellement mis à la disposition du comité respectent la confidentialité de ses travaux.
+
+Le conseil d'administration de la société peut rembourser les frais de déplacement et de séjour supportés par les membres dans le cadre de leurs fonctions.
+
+IV.-Le comité délibère à la majorité des membres présents. Il ne peut délibérer que si trois au moins de ses membres sont présents lorsque le nombre de membres du comité est fixé à cinq ou six, ou si quatre au moins de ses membres sont présents lorsque le nombre de membres du comité est fixé à sept. Le président a voix prépondérante en cas de partage égal des voix.
+
+V.-Le comité se réunit une fois au moins par semestre civil. Il peut également se réunir à la demande de son président ou à la demande de la majorité de ses membres.
+
+En cas d'empêchement ou de vacance du président, la réunion est présidée par le membre présent le plus âgé.
+
+Le comité se réunit dans les locaux de la société sur convocation de son président qui fixe la date, l'heure et l'ordre du jour. Cette convocation peut être envoyée par tous moyens. Il en est de même des pièces ou documents nécessaires à la préparation de la réunion ou établis à l'issue de celle-ci.
+
+Tout membre du comité peut demander l'inscription d'un point à l'ordre du jour.
+
+Sauf si l'adoption du bilan annuel est inscrite à l'ordre du jour, les membres du comité peuvent, avec l'accord du président, participer à la réunion par des moyens de communications électroniques permettant leur identification et garantissant leur participation effective.
+
+VI.-Le comité peut entendre toute personne dont l'audition lui paraît utile et, dans le respect des secrets protégés par la loi, se faire communiquer tout document susceptible de l'éclairer.
+
+Il garantit l'anonymat de toute personne qui le consulte si celle-ci le demande.
+
+Il rend public son bilan annuel au plus tard le 31 mars de l'année suivante. Ce bilan mentionne notamment le nombre de demandes traitées au cours de l'année et le nombre de dossiers transmis au Conseil supérieur de l'audiovisuel et au conseil d'administration de la société. Il rend compte des résultats des délibérations du comité. Il dresse un état des moyens mis à la disposition du comité et expose les difficultés de toute nature auxquelles ce dernier estime être confronté dans l'exercice de ses missions.
+
 Article 36
 
 La dignité de la personne humaine et la protection des mineurs
@@ -1082,89 +1122,49 @@ Annexe : étendue des droits cédés par genre d'œuvre
 
 1. Œuvres de fiction :
 
-Part de l'investissement de l'éditeur dans le coût total de production
+Part de l'investissement de l'éditeur dans le coût total de production |
+
+Inférieure à 50 % |
+
+Supérieure ou égale à 50 % |
+
+Durée des droits (1) |
+
+36 mois |
+
+Nombre de multidiffusions télévisuelles |
+
+Négociation de gré à gré |
+
+Définition de la multidiffusion |
+
+4 passages pendant une période de 30 jours pouvant être effectués sur l'un ou l'autre des services nationaux de télévision de la société |
+
+Terminaison automatique des droits de diffusion télévisuelle |
+
+30 jours après l'exploitation de la dernière multidiffusion prévue au contrat |
 
 |
 
-Inférieure à 50 %
+Durée de la télévision de rattrapage |
+
+7 jours à compter de chaque passage de chaque multidiffusion |
+
+Droits d'exploitation sur un service de média audiovisuel à la demande (SMAD) |
+
+Délai de prédiffusion |
+
+7 jours avant la première diffusion télévisuelle |
 
 |
 
-Supérieure ou égale à 50 %
+Exploitation en VàD payante ou gratuite |
 
-|
+Modalités définies par accord professionnel en vigueur |
 
-Durée des droits (1)
+Droit à recettes (2) |
 
-|
-
-36 mois
-
-|
-
-Nombre de multidiffusions télévisuelles
-
-|
-
-Négociation de gré à gré
-
-|
-
-Définition de la multidiffusion
-
-|
-
-4 passages pendant une période de 30 jours pouvant être effectués sur l'un ou l'autre des services nationaux de télévision de la société
-
-|
-
-Terminaison automatique des droits de diffusion télévisuelle
-
-|
-
-30 jours après l'exploitation de la dernière multidiffusion prévue au contrat
-
-|
-
-|
-
-Durée de la télévision de rattrapage
-
-|
-
-7 jours à compter de chaque passage de chaque multidiffusion
-
-|
-
-Droits d'exploitation sur un service de média audiovisuel à la demande (SMAD)
-
-|
-
-Délai de prédiffusion
-
-|
-
-7 jours avant la première diffusion télévisuelle
-
-|
-
-|
-
-Exploitation en VàD payante ou gratuite
-
-|
-
-Modalités définies par accord professionnel en vigueur
-
-|
-
-Droit à recettes (2)
-
-|
-
-Non
-
-|
+Non |
 
 Préachat : 1 % de droit à recettes par pourcentage apporté par l'éditeur au-delà de 40 %
 
@@ -1172,13 +1172,9 @@ Coproduction : pourcentage correspondant à l'apport en parts producteur rapport
 
 |
 
-Mandats en préachat
+Mandats en préachat |
 
-|
-
-Pas de mandats de commercialisation relatifs à la diffusion télévisuelle en France. Autres mandats négociés aux conditions du marché avec droits d'option prioritaire pour la filiale de distribution lorsque l'apport de France Télévisions est supérieur à 30 %
-
-|
+Pas de mandats de commercialisation relatifs à la diffusion télévisuelle en France. Autres mandats négociés aux conditions du marché avec droits d'option prioritaire pour la filiale de distribution lorsque l'apport de France Télévisions est supérieur à 30 % |
 
 (1) Pour chaque épisode, date de début des droits à la date d'acceptation du matériel de diffusion (PAD).
 
@@ -1188,29 +1184,17 @@ Pas de mandats de commercialisation relatifs à la diffusion télévisuelle en F
 
 2. Œuvres d'animation :
 
-Part de l'investissement de l'éditeur dans le coût total de production
+Part de l'investissement de l'éditeur dans le coût total de production |
 
-|
+Inférieure à 30 % |
 
-Inférieure à 30 %
+Egale ou supérieure à 30 % ou égale ou supérieure à 2 millions d'euros (1,65 million d'euros pour les œuvres préscolaires) (3) |
 
-|
+Egale ou supérieure à 35 % ou égale ou supérieure à 2,3 millions d'euros (1,85 million d'euros pour les œuvres préscolaires) (3) |
 
-Egale ou supérieure à 30 % ou égale ou supérieure à 2 millions d'euros (1,65 million d'euros pour les œuvres préscolaires) (3)
+Durée des droits (4) |
 
-|
-
-Egale ou supérieure à 35 % ou égale ou supérieure à 2,3 millions d'euros (1,85 million d'euros pour les œuvres préscolaires) (3)
-
-|
-
-Durée des droits (4)
-
-|
-
-30 mois
-
-|
+30 mois |
 
 48 mois
 
@@ -1218,85 +1202,45 @@ Durée des droits (4)
 
 |
 
-48 mois ou jusqu'à 60 mois (6)
+48 mois ou jusqu'à 60 mois (6) |
 
-|
+Période d'exclusivité (7) |
 
-Période d'exclusivité (7)
+6 mois |
 
-|
+12 mois +/-3 mois (5) |
 
-6 mois
+Exclusivité totale ou avec fenêtre de codiffusion au bénéfice d'un diffuseur tiers démarrant à partir du 13e mois des droits de France Télévisions (6) |
 
-|
+Nombre de multidiffusions télévisuelles |
 
-12 mois +/-3 mois (5)
+Négociation de gré à gré |
 
-|
+Définition de la multidiffusion |
 
-Exclusivité totale ou avec fenêtre de codiffusion au bénéfice d'un diffuseur tiers démarrant à partir du 13e mois des droits de France Télévisions (6)
+4 passages pendant une période de 30 jours pouvant être effectués sur l'un ou l'autre des services nationaux de télévision de la société |
 
-|
+Terminaison automatique des droits de diffusion télévisuelle |
 
-Nombre de multidiffusions télévisuelles
+30 jours après l'exploitation de la dernière multidiffusion prévue au contrat |
 
-|
+Droits d'exploitation sur un service de média audiovisuel à la demande (SMAD) |
 
-Négociation de gré à gré
+Durée de la télévision de rattrapage |
 
-|
+7 jours après la diffusion télévisuelle/ en cas d'exploitation payante ou de requête d'un second diffuseur figurant au plan de financement, 48 heures en programmation quotidienne ou 7 jours en programmation hebdomadaire, après la diffusion télévisuelle. |
 
-Définition de la multidiffusion
+Délai de prédiffusion |
 
-|
+Jusqu'à 90 jours avant la 1re diffusion pour les séries/ Jusqu'à 7 jours avant la 1re diffusion pour les unitaires |
 
-4 passages pendant une période de 30 jours pouvant être effectués sur l'un ou l'autre des services nationaux de télévision de la société
+Exploitation en VàD payante ou gratuite |
 
-|
+Modalités définies par accords professionnels en vigueur |
 
-Terminaison automatique des droits de diffusion télévisuelle
+Droit à recettes (8) |
 
-|
-
-30 jours après l'exploitation de la dernière multidiffusion prévue au contrat
-
-|
-
-Droits d'exploitation sur un service de média audiovisuel à la demande (SMAD)
-
-|
-
-Durée de la télévision de rattrapage
-
-|
-
-7 jours après la diffusion télévisuelle/ en cas d'exploitation payante ou de requête d'un second diffuseur figurant au plan de financement, 48 heures en programmation quotidienne ou 7 jours en programmation hebdomadaire, après la diffusion télévisuelle.
-
-|
-
-Délai de prédiffusion
-
-|
-
-Jusqu'à 90 jours avant la 1re diffusion pour les séries/ Jusqu'à 7 jours avant la 1re diffusion pour les unitaires
-
-|
-
-Exploitation en VàD payante ou gratuite
-
-|
-
-Modalités définies par accords professionnels en vigueur
-
-|
-
-Droit à recettes (8)
-
-|
-
-Non
-
-|
+Non |
 
 Préachat : 1 % de droit à recettes par pourcentage apporté par l'éditeur au-delà de 30 %
 
@@ -1304,13 +1248,9 @@ Coproduction : pourcentage correspondant à l'apport en parts producteur rapport
 
 |
 
-Mandats en préachat
+Mandats en préachat |
 
-|
-
-Pas de mandats de commercialisation relatifs à la diffusion télévisuelle en France. Autres mandats négociés aux conditions du marché avec droits d'option prioritaire pour la filiale de distribution lorsque l'apport de France Télévisions est supérieur à 30 %
-
-|
+Pas de mandats de commercialisation relatifs à la diffusion télévisuelle en France. Autres mandats négociés aux conditions du marché avec droits d'option prioritaire pour la filiale de distribution lorsque l'apport de France Télévisions est supérieur à 30 % |
 
 (3) Ces seuils exprimés en valeur absolue s'entendent pour la commande de 26 demi-heures commerciales. Ils sont calculés au prorata pour les autres formats.
 
@@ -1328,65 +1268,35 @@ Pas de mandats de commercialisation relatifs à la diffusion télévisuelle en F
 
 3. Documentaire-captation ou recréation de spectacles vivants :
 
-Part de l'investissement de l'éditeur dans le coût total de production
+Part de l'investissement de l'éditeur dans le coût total de production |
 
-|
+Inférieure à 50 % |
 
-Inférieure à 50 %
+Supérieure ou égale à 50 % |
 
-|
+Durée des droits (9) |
 
-Supérieure ou égale à 50 %
+36 mois |
 
-|
+Nombre de multidiffusions télévisuelles |
 
-Durée des droits (9)
+Négociation de gré à gré |
 
-|
+Définition de la multidiffusion |
 
-36 mois
+4 passages pendant une période de 30 jours pouvant être effectués sur l'un ou l'autre des services nationaux de télévision de la société |
 
-|
+Terminaison automatique des droits de diffusion télévisuelle |
 
-Nombre de multidiffusions télévisuelles
+30 jours après l'exploitation de la dernière multidiffusion prévue au contrat |
 
-|
+Droits d'exploitation sur un service de média audiovisuel à la demande (SMAD) |
 
-Négociation de gré à gré
+Durée de la télévision de rattrapage |
 
-|
+7 jours à compter de chaque passage de chaque multidiffusion |
 
-Définition de la multidiffusion
-
-|
-
-4 passages pendant une période de 30 jours pouvant être effectués sur l'un ou l'autre des services nationaux de télévision de la société
-
-|
-
-Terminaison automatique des droits de diffusion télévisuelle
-
-|
-
-30 jours après l'exploitation de la dernière multidiffusion prévue au contrat
-
-|
-
-Droits d'exploitation sur un service de média audiovisuel à la demande (SMAD)
-
-|
-
-Durée de la télévision de rattrapage
-
-|
-
-7 jours à compter de chaque passage de chaque multidiffusion
-
-|
-
-Délai de prédiffusion
-
-|
+Délai de prédiffusion |
 
 Série ou collection : 30 jours avant la première diffusion télévisuelle
 
@@ -1394,21 +1304,13 @@ Unitaire : 7 jours avant la première diffusion télévisuelle
 
 |
 
-Exploitation en VàD payante ou gratuite
+Exploitation en VàD payante ou gratuite |
 
-|
+Modalités définies par accord professionnel en vigueur |
 
-Modalités définies par accord professionnel en vigueur
+Droit à recettes (10) |
 
-|
-
-Droit à recettes (10)
-
-|
-
-Non
-
-|
+Non |
 
 Préachat : 1 % de droit à recettes par pourcentage apporté par l'éditeur au-delà de 45 %
 
@@ -1416,13 +1318,9 @@ Coproduction : pourcentage correspondant à l'apport en parts producteur rapport
 
 |
 
-Mandats en préachat
+Mandats en préachat |
 
-|
-
-Pas de mandats de commercialisation relatifs à la diffusion télévisuelle en France. Autres mandats négociés aux conditions du marché avec droits d'option prioritaire pour la filiale de distribution lorsque l'apport de France Télévisions est supérieur à 30 %
-
-|
+Pas de mandats de commercialisation relatifs à la diffusion télévisuelle en France. Autres mandats négociés aux conditions du marché avec droits d'option prioritaire pour la filiale de distribution lorsque l'apport de France Télévisions est supérieur à 30 % |
 
 (9) Pour chaque épisode, date de début des droits à la date d'acceptation du matériel de diffusion (PAD).
 
