@@ -1,0 +1,8815 @@
+# Article sous-annexe 2
+
+Sous-annexe 2
+
+(2)
+
+Barème salarial (1)
+
+(Arrêté du 20 mars 2009 portant extension de la convention collective nationale de l'édition phonographique : étendue sous réserve que la différence entre salariés ayant la même qualification et accomplissant les mêmes tâches se fonde sur des critères objectifs et vérifiables en relation directe avec la valeur du travail effectué, et ne contrevienne pas au principe « à travail égal, salaire égal » prévu aux articles L. 2261-22 et L. 2271-1 du code du travail et reconnu par la jurisprudence de la Cour de cassation [Cass. soc. 29/10/1996, société Delzongle c/ Ponsolle ; Cass. soc. 15/05/07, n° 05-42894].)
+
+(Modifiée par l'accord NAO du 30 janvier 2015.)
+
+Salaires journaliers minimaux pour les techniciens intermittents employés en CDD d'usage
+
+Préambule
+
+Sans préjudice des dispositions législatives ou réglementaires relatives au principe d'égalité de traitement entre les salariés, les parties signataires de la présente convention constatent que les techniciens du spectacle de l'édition phonographique, lorsqu'ils accomplissent leurs fonctions dans les activités liées au phonogramme ou au vidéogramme ou dans celles liées au spectacle vivant promotionnel, sont soumis à des exigences particulières spécifiques aux activités concernées.
+
+Notamment, les contraintes techniques et les obligations mentionnées dans les cahiers des charges des productions ne sont pas les mêmes selon que l'on se situe dans le cadre des activités liées au phonogramme ou au vidéogramme ou dans le cadre de celles liées au spectacle vivant promotionnel. Ces réalités se distinguent par la nature des travaux accomplis par les salariés concernés mais aussi par les qualifications requises pour ces derniers, en particulier le niveau de technicité, le degré de spécialisation ainsi que l'importance de l'expérience professionnelle.
+
+Par ailleurs, il est également constaté que la durée des contrats est plus courte dans les activités liées au vidéogramme que dans celles liées au phonogramme ou au spectacle vivant promotionnel.
+
+En conséquence, les parties signataires de la présente convention conviennent de prendre en compte les éléments ci-dessus en fixant une grille de salaires en valeur absolue par type d'activité et qui intègre, au bénéfice des salariés embauchés dans le cadre d'activités liées au phonogramme et au spectacle vivant promotionnel, des salaires journaliers minimaux différenciés en fonction de la durée du contrat, tenant compte de la réalité du travail effectué et visant en outre, d'une part, à instaurer une compensation en cas de contrat de très courte durée et, d'autre part, à encourager la conclusion de contrats d'une durée de 5 jours et au-delà, dans le respect d'une cohérence des salaires entre les différentes activités de l'édition phonographique pour une même fonction et pour une même durée d'engagement.
+
+Filière son
+
+Niveau |
+
+Filière son |
+
+Phonogramme |
+
+Vidéogramme |
+
+Spectacle vivant
+
+promotionnel |
+
+|
+
+|
+
+|
+
+Studio
+
+et captation |
+
+Captation |
+
+Tournage
+
+et captation |
+
+Captation |
+
+|
+
+|
+
+Niveau I |
+
+2e assistant son |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Compléments de salaires des personnels employés par les organisateurs de spectacles ou les tourneurs qui participent à la captation des concerts.
+
+Chaque technicien déjà employé par l'organisateur du spectacle recevra de la part du producteur de phonogramme ou de vidéogramme, pour chaque jour de mise en place d'une captation, un complément de rémunération égal à 50 % du salaire minimum conventionnel de la convention collective du spectacle vivant applicable, cette rémunération minimale complémentaire étant limitée, pour une même tournée ou un même spectacle, à deux fois le salaire minimum applicable.
+
+Les minima salariaux de la convention collective du spectacle vivant applicable sont annexés. |
+
+|
+
+1 |
+
+|
+
+|
+
+130,98 |
+
+|
+
+|
+
+|
+
+|
+
+2 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+3 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+4 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Technicien des instruments/ backliner |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1 |
+
+157,18 |
+
+|
+
+157,18 |
+
+|
+
+136,21 |
+
+|
+
+|
+
+2 |
+
+134,12 |
+
+|
+
+|
+
+|
+
+116,31 |
+
+|
+
+|
+
+3 |
+
+120,50 |
+
+|
+
+|
+
+|
+
+103,73 |
+
+|
+
+|
+
+4 |
+
+114,21 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Assistant son |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1 |
+
+161,37 |
+
+|
+
+161,37 |
+
+|
+
+136,21 |
+
+|
+
+|
+
+2 |
+
+137,26 |
+
+|
+
+|
+
+|
+
+116,31 |
+
+|
+
+|
+
+3 |
+
+123,64 |
+
+|
+
+|
+
+|
+
+103,73 |
+
+|
+
+|
+
+4 |
+
+117,35 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Niveau II. A |
+
+Programmeur musical |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1 |
+
+161,37 |
+
+|
+
+161,37 |
+
+|
+
+141,45 |
+
+|
+
+|
+
+2 |
+
+137,26 |
+
+|
+
+|
+
+|
+
+120,50 |
+
+|
+
+|
+
+3 |
+
+123,64 |
+
+|
+
+|
+
+|
+
+108,21 |
+
+|
+
+|
+
+4 |
+
+117,35 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Niveau II. A |
+
+Régisseur son/ technicien son |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1 |
+
+172,90 |
+
+|
+
+161,37 |
+
+|
+
+151,93 |
+
+|
+
+|
+
+2 |
+
+146,69 |
+
+|
+
+|
+
+|
+
+128,88 |
+
+|
+
+|
+
+3 |
+
+132,02 |
+
+|
+
+|
+
+|
+
+116,31 |
+
+|
+
+|
+
+4 |
+
+125,74 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Monteur son |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1 |
+
+|
+
+|
+
+161,37 |
+
+|
+
+|
+
+|
+
+|
+
+2 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+3 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+4 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Sonorisateur |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1 |
+
+|
+
+148,79 |
+
+|
+
+148,79 |
+
+151,93 |
+
+|
+
+|
+
+2 |
+
+|
+
+126,78 |
+
+|
+
+|
+
+128,88 |
+
+|
+
+|
+
+3 |
+
+|
+
+114,21 |
+
+|
+
+|
+
+116,31 |
+
+|
+
+|
+
+4 |
+
+|
+
+107,92 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Preneur de son/ OPS |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1 |
+
+202,23 |
+
+|
+
+202,23 |
+
+|
+
+157,18 |
+
+|
+
+|
+
+2 |
+
+171,85 |
+
+|
+
+|
+
+|
+
+134,12 |
+
+|
+
+|
+
+3 |
+
+155,07 |
+
+|
+
+|
+
+|
+
+120,50 |
+
+|
+
+|
+
+4 |
+
+146,69 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Niveau II. B |
+
+Illustrateur sonore |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1 |
+
+180,23 |
+
+|
+
+180,23 |
+
+|
+
+|
+
+|
+
+|
+
+2 |
+
+152,98 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+3 |
+
+138,31 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+4 |
+
+130,98 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Perchman-perchiste |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1 |
+
+|
+
+|
+
+201,18 |
+
+|
+
+|
+
+|
+
+|
+
+2 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+3 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+4 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1er assistant son |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1 |
+
+|
+
+|
+
+201,18 |
+
+|
+
+|
+
+|
+
+|
+
+2 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+3 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+4 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Bruiteur |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1 |
+
+|
+
+|
+
+239,95 |
+
+|
+
+|
+
+|
+
+|
+
+2 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+3 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+4 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Mixeur |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1 |
+
+239,95 |
+
+|
+
+239,95 |
+
+|
+
+228,43 |
+
+|
+
+|
+
+2 |
+
+204,33 |
+
+|
+
+|
+
+|
+
+193,84 |
+
+|
+
+|
+
+3 |
+
+183,37 |
+
+|
+
+|
+
+|
+
+174,99 |
+
+|
+
+|
+
+4 |
+
+178,13 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Niveau III |
+
+Ingénieur du son |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1 |
+
+287,10 |
+
+|
+
+287,10 |
+
+|
+
+238,90 |
+
+|
+
+|
+
+2 |
+
+244,14 |
+
+|
+
+|
+
+|
+
+203,27 |
+
+|
+
+|
+
+3 |
+
+220,04 |
+
+|
+
+|
+
+|
+
+182,32 |
+
+|
+
+|
+
+4 |
+
+208,52 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1 : salaire journalier pour un contrat inférieur à 5 jours dans le cadre des activités « phonogramme » ou « spectacle vivant promotionnel »   ; salaire journalier pour les activités « vidéogramme ».
+
+2 : salaire journalier pour un contrat de 5 jours dans le cadre des activités « phonogramme » ou « spectacle vivant promotionnel ».
+
+3 : salaire journalier pour un contrat de 10 jours par période de 21 jours dans le cadre des activités « phonogramme » ou « spectacle vivant promotionnel ».
+
+4 : salaire journalier pour un contrat de 15 jours par période de 30 jours dans le cadre des activités « phonogramme » ou « spectacle vivant promotionnel ». |
+
+Filière image graphisme
+
+Niveau |
+
+Filière image graphisme |
+
+Phonogramme |
+
+Vidéogramme |
+
+Spectacle vivant promotionnel |
+
+|
+
+|
+
+|
+
+Studio
+
+et captation |
+
+Captation |
+
+Tournage
+
+et captation |
+
+Captation |
+
+|
+
+|
+
+Niveau I |
+
+Assistant : cadreur/ cameraman/ OPV (*) |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Compléments de salaires des personnels employés par les organisateurs de spectacles ou les tourneurs qui participent à la captation des concerts.
+
+Chaque technicien déjà employé par l'organisateur du spectacle recevra de la part du producteur de phonogramme ou de vidéogramme, pour chaque jour de mise en place d'une captation, un complément de rémunération égal à 50 % du salaire minimum conventionnel de la convention collective du spectacle vivant applicable, cette rémunération minimale complémentaire étant limitée, pour une même tournée ou un même spectacle, à deux fois le salaire minimum applicable.
+
+Les minima salariaux de la convention collective du spectacle vivant applicable sont annexés. |
+
+|
+
+1 |
+
+|
+
+|
+
+161,37 |
+
+|
+
+|
+
+|
+
+|
+
+2 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+3 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+4 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Chauffeur de salle |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1 |
+
+|
+
+|
+
+125,74 |
+
+|
+
+|
+
+|
+
+|
+
+2 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+3 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+4 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Rédacteur |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1 |
+
+125,74 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+2 |
+
+106,88 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+3 |
+
+96,40 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+4 |
+
+91,17 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Niveau I |
+
+2e assistant OPV |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1 |
+
+|
+
+|
+
+161,37 |
+
+|
+
+|
+
+|
+
+|
+
+2 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+3 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+4 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Opérateur magnétoscope |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1 |
+
+|
+
+|
+
+152,98 |
+
+|
+
+|
+
+|
+
+|
+
+2 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+3 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+4 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Opérateur magnétoscope ralenti |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1 |
+
+|
+
+|
+
+152,98 |
+
+|
+
+|
+
+|
+
+|
+
+2 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+3 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+4 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Opérateur projectionniste |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1 |
+
+|
+
+|
+
+|
+
+|
+
+145,64 |
+
+|
+
+|
+
+2 |
+
+|
+
+|
+
+|
+
+|
+
+123,64 |
+
+|
+
+|
+
+3 |
+
+|
+
+|
+
+|
+
+|
+
+111,07 |
+
+|
+
+|
+
+4 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Niveau I |
+
+Opérateur prompteur |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1 |
+
+|
+
+|
+
+152,98 |
+
+|
+
+145,64 |
+
+|
+
+|
+
+2 |
+
+|
+
+|
+
+|
+
+|
+
+123,64 |
+
+|
+
+|
+
+3 |
+
+|
+
+|
+
+|
+
+|
+
+111,07 |
+
+|
+
+|
+
+4 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Opérateur régie vidéo |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1 |
+
+|
+
+|
+
+152,98 |
+
+|
+
+|
+
+|
+
+|
+
+2 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+3 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+4 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Opérateur synthétiseur |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1 |
+
+|
+
+|
+
+152,98 |
+
+|
+
+|
+
+|
+
+|
+
+2 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+3 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+4 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Animateur (vidéogramme d'animation) |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1 |
+
+|
+
+|
+
+130,98 |
+
+|
+
+|
+
+|
+
+|
+
+2 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+3 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+4 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Niveau II. A |
+
+Photographe |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1 |
+
+160,32 |
+
+|
+
+160,32 |
+
+|
+
+160,32 |
+
+|
+
+|
+
+2 |
+
+136,21 |
+
+|
+
+|
+
+|
+
+136,21 |
+
+|
+
+|
+
+3 |
+
+122,59 |
+
+|
+
+|
+
+|
+
+122,59 |
+
+|
+
+|
+
+4 |
+
+116,31 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Présentateur |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1 |
+
+|
+
+182,32 |
+
+|
+
+182,32 |
+
+172,90 |
+
+|
+
+|
+
+2 |
+
+|
+
+155,07 |
+
+|
+
+|
+
+146,69 |
+
+|
+
+|
+
+3 |
+
+|
+
+139,36 |
+
+|
+
+|
+
+132,02 |
+
+|
+
+|
+
+4 |
+
+|
+
+132,02 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Illustrateur |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1 |
+
+160,32 |
+
+|
+
+160,32 |
+
+|
+
+|
+
+|
+
+|
+
+2 |
+
+136,21 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+3 |
+
+122,59 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+4 |
+
+116,31 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Niveau II. B |
+
+Technicien vidéo |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1 |
+
+|
+
+|
+
+208,52 |
+
+|
+
+|
+
+|
+
+|
+
+2 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+3 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+4 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Niveau II. B |
+
+1er assistant OPV |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1 |
+
+|
+
+|
+
+221,09 |
+
+|
+
+|
+
+|
+
+|
+
+2 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+3 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+4 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Cadreur/ cameraman/ OPV |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1 |
+
+|
+
+258,80 |
+
+258,80 |
+
+|
+
+|
+
+|
+
+|
+
+2 |
+
+|
+
+220,04 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+3 |
+
+|
+
+198,04 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+4 |
+
+|
+
+188,61 |
+
+|
+
+|
+
+|
+
+|
+
+Niveau III |
+
+Chef OPV |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1 |
+
+|
+
+299,68 |
+
+299,68 |
+
+|
+
+|
+
+|
+
+|
+
+2 |
+
+|
+
+254,61 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+3 |
+
+|
+
+229,47 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+4 |
+
+|
+
+217,95 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Ingénieur de la vision |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1 |
+
+|
+
+|
+
+299,68 |
+
+|
+
+|
+
+|
+
+|
+
+2 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+3 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+4 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Niveau III |
+
+Directeur de la photo |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1 |
+
+|
+
+418,08 |
+
+418,08 |
+
+|
+
+|
+
+|
+
+|
+
+2 |
+
+|
+
+355,21 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+3 |
+
+|
+
+319,58 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+4 |
+
+|
+
+303,87 |
+
+|
+
+|
+
+|
+
+|
+
+(*) L'assistant cadreur/ caméraman/ OPV ne peut être employé pour le vidéoclip.
+
+1 : salaire journalier pour un contrat inférieur à 5 jours dans le cadre des activités « phonogramme » ou « spectacle vivant promotionnel »   ; salaire journalier pour les activités « vidéogramme ».
+
+2 : salaire journalier pour un contrat de 5 jours dans le cadre des activités « phonogramme » ou « spectacle vivant promotionnel ».
+
+3 : salaire journalier pour un contrat de 10 jours par période de 21 jours dans le cadre des activités « phonogramme » ou « spectacle vivant promotionnel ».
+
+4 : salaire journalier pour un contrat de 15 jours par période de 30 jours dans le cadre des activités « phonogramme » ou « spectacle vivant promotionnel ». |
+
+Filière réalisation
+
+Niveau |
+
+Filière réalisation |
+
+Phonogramme |
+
+Vidéogramme |
+
+Spectacle vivant
+
+promotionnel |
+
+|
+
+|
+
+|
+
+Studio
+
+et captation |
+
+Captation |
+
+Tournage
+
+et captation |
+
+Captation |
+
+|
+
+|
+
+Niveau I |
+
+Conseiller technique à la réalisation |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Compléments de salaires des personnels employés par les organisateurs de spectacles ou les tourneurs qui participent à la captation des concerts.
+
+Chaque technicien déjà employé par l'organisateur du spectacle recevra de la part du producteur de phonogramme ou de vidéogramme, pour chaque jour de mise en place d'une captation, un complément de rémunération égal à 50 % du salaire minimum conventionnel de la convention collective du spectacle vivant applicable, cette rémunération minimale complémentaire étant limitée, pour une même tournée ou un même spectacle, à deux fois le salaire minimum applicable.
+
+Les minima salariaux de la convention collective du spectacle vivant applicable sont annexés. |
+
+|
+
+1 |
+
+|
+
+|
+
+239,95 |
+
+|
+
+139,36 |
+
+|
+
+|
+
+2 |
+
+|
+
+|
+
+|
+
+|
+
+118,40 |
+
+|
+
+|
+
+3 |
+
+|
+
+|
+
+|
+
+|
+
+106,88 |
+
+|
+
+|
+
+4 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Niveau II. A |
+
+2e assistant réalisateur |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1 |
+
+|
+
+|
+
+181,28 |
+
+|
+
+|
+
+|
+
+|
+
+2 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+3 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+4 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Assistant réalisateur |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1 |
+
+202,23 |
+
+|
+
+202,23 |
+
+|
+
+|
+
+|
+
+|
+
+2 |
+
+171,85 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+3 |
+
+155,07 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+4 |
+
+146,69 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Niveau II. B |
+
+Script |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1 |
+
+|
+
+|
+
+219,00 |
+
+|
+
+|
+
+|
+
+|
+
+2 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+3 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+4 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1er assistant réalisateur |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1 |
+
+|
+
+|
+
+219,00 |
+
+|
+
+|
+
+|
+
+|
+
+2 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+3 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+4 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Niveau II. B |
+
+Réalisateur artistique |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1 |
+
+188,61 |
+
+|
+
+|
+
+|
+
+188,61 |
+
+|
+
+|
+
+2 |
+
+160,32 |
+
+|
+
+|
+
+|
+
+160,32 |
+
+|
+
+|
+
+3 |
+
+144,60 |
+
+|
+
+|
+
+|
+
+144,60 |
+
+|
+
+|
+
+4 |
+
+137,26 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Niveau III |
+
+Réalisateur |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1 |
+
+|
+
+|
+
+241,00 |
+
+|
+
+|
+
+|
+
+|
+
+2 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+3 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+4 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1 : salaire journalier pour un contrat inférieur à 5 jours dans le cadre des activités « phonogramme » ou « spectacle vivant promotionnel »   ; salaire journalier pour les activités « vidéogramme ».
+
+2 : salaire journalier pour un contrat de 5 jours dans le cadre des activités « phonogramme » ou « spectacle vivant promotionnel ».
+
+3 : salaire journalier pour un contrat de 10 jours par période de 21 jours dans le cadre des activités « phonogramme » ou « spectacle vivant promotionnel ».
+
+4 : salaire journalier pour un contrat de 15 jours par période de 30 jours dans le cadre des activités « phonogramme » ou « spectacle vivant promotionnel ». |
+
+Filière régie
+
+Niveau |
+
+Filière régie |
+
+Phonogramme |
+
+Vidéogramme |
+
+Spectacle vivant
+
+promotionnel |
+
+|
+
+|
+
+|
+
+Studio
+
+et captation |
+
+Captation |
+
+Tournage
+
+et captation |
+
+Captation |
+
+|
+
+|
+
+Niveau I |
+
+Aide de plateau/ assistant de plateau |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Compléments de salaires des personnels employés par les organisateurs de spectacles ou les tourneurs qui participent à la captation des concerts.
+
+Chaque technicien déjà employé par l'organisateur du spectacle recevra de la part du producteur de phonogramme ou de vidéogramme, pour chaque jour de mise en place d'une captation, un complément de rémunération égal à 50 % du salaire minimum conventionnel de la convention collective du spectacle vivant applicable, cette rémunération minimale complémentaire étant limitée, pour une même tournée ou un même spectacle, à deux fois le salaire minimum applicable.
+
+Les minima salariaux de la convention collective du spectacle vivant applicable sont annexés. |
+
+|
+
+1 |
+
+|
+
+|
+
+125,74 |
+
+|
+
+120,50 |
+
+|
+
+|
+
+2 |
+
+|
+
+|
+
+|
+
+|
+
+102,69 |
+
+|
+
+|
+
+3 |
+
+|
+
+|
+
+|
+
+|
+
+92,21 |
+
+|
+
+|
+
+4 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Niveau II. A |
+
+Régisseur adjoint |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1 |
+
+161,37 |
+
+|
+
+161,37 |
+
+|
+
+141,45 |
+
+|
+
+|
+
+2 |
+
+137,26 |
+
+|
+
+|
+
+|
+
+120,50 |
+
+|
+
+|
+
+3 |
+
+123,64 |
+
+|
+
+|
+
+|
+
+107,92 |
+
+|
+
+|
+
+4 |
+
+117,35 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Régisseur |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1 |
+
+187,56 |
+
+|
+
+187,56 |
+
+|
+
+157,18 |
+
+|
+
+|
+
+2 |
+
+159,27 |
+
+|
+
+|
+
+|
+
+134,12 |
+
+|
+
+|
+
+3 |
+
+143,55 |
+
+|
+
+|
+
+|
+
+120,50 |
+
+|
+
+|
+
+4 |
+
+136,21 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Niveau II. A |
+
+Régisseur de plateau/ chef de plateau |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1 |
+
+|
+
+161,37 |
+
+161,37 |
+
+|
+
+151,93 |
+
+|
+
+|
+
+2 |
+
+|
+
+137,26 |
+
+|
+
+|
+
+128,88 |
+
+|
+
+|
+
+3 |
+
+|
+
+123,64 |
+
+|
+
+|
+
+116,31 |
+
+|
+
+|
+
+4 |
+
+|
+
+117,35 |
+
+|
+
+|
+
+|
+
+|
+
+Niveau II. B |
+
+Régisseur général |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1 |
+
+219,00 |
+
+|
+
+219,00 |
+
+|
+
+209,57 |
+
+|
+
+|
+
+2 |
+
+186,52 |
+
+|
+
+|
+
+|
+
+178,13 |
+
+|
+
+|
+
+3 |
+
+167,66 |
+
+|
+
+|
+
+|
+
+160,32 |
+
+|
+
+|
+
+4 |
+
+159,27 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1 : salaire journalier pour un contrat inférieur à 5 jours dans le cadre des activités « phonogramme » ou « spectacle vivant promotionnel »   ; salaire journalier pour les activités « vidéogramme ».
+
+2 : salaire journalier pour un contrat de 5 jours dans le cadre des activités « phonogramme » ou « spectacle vivant promotionnel ».
+
+3 : salaire journalier pour un contrat de 10 jours par période de 21 jours dans le cadre des activités « phonogramme » ou « spectacle vivant promotionnel ».
+
+4 : salaire journalier pour un contrat de 15 jours par période de 30 jours dans le cadre des activités « phonogramme » ou « spectacle vivant promotionnel ». |
+
+Filière production-postproduction
+
+Niveau |
+
+Filière
+
+production-postproduction |
+
+Phonogramme |
+
+Vidéogramme |
+
+Spectacle vivant
+
+promotionnel |
+
+|
+
+|
+
+|
+
+Studio
+
+et captation |
+
+Captation |
+
+Tournage
+
+et captation |
+
+Captation |
+
+|
+
+|
+
+Niveau I |
+
+Secrétaire de production |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Compléments de salaires des personnels employés par les organisateurs de spectacles ou les tourneurs qui participent à la captation des concerts.
+
+Chaque technicien déjà employé par l'organisateur du spectacle recevra de la part du producteur de phonogramme ou de vidéogramme, pour chaque jour de mise en place d'une captation, un complément de rémunération égal à 50 % du salaire minimum conventionnel de la convention collective du spectacle vivant applicable, cette rémunération minimale complémentaire étant limitée, pour une même tournée ou un même spectacle, à deux fois le salaire minimum applicable.
+
+Les minima salariaux de la convention collective du spectacle vivant applicable sont annexés. |
+
+|
+
+1 |
+
+|
+
+|
+
+141,45 |
+
+|
+
+|
+
+|
+
+|
+
+2 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+3 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+4 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Conseiller artistique de production |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1 |
+
+141,45 |
+
+|
+
+141,45 |
+
+|
+
+129,93 |
+
+|
+
+|
+
+2 |
+
+120,50 |
+
+|
+
+|
+
+|
+
+110,03 |
+
+|
+
+|
+
+3 |
+
+107,92 |
+
+|
+
+|
+
+|
+
+99,54 |
+
+|
+
+|
+
+4 |
+
+102,69 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Assistant du directeur de la distribution artistique |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1 |
+
+|
+
+|
+
+125,74 |
+
+|
+
+|
+
+|
+
+|
+
+2 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+3 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+4 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Niveau I |
+
+Assistant de production |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1 |
+
+|
+
+|
+
+161,37 |
+
+|
+
+|
+
+|
+
+|
+
+2 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+3 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+4 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Assistant monteur/ monteur adjoint |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1 |
+
+|
+
+|
+
+161,37 |
+
+|
+
+|
+
+|
+
+|
+
+2 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+3 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+4 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Assistant de postproduction |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1 |
+
+|
+
+|
+
+141,45 |
+
+|
+
+|
+
+|
+
+|
+
+2 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+3 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+4 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Niveau II. A |
+
+Répétiteur |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1 |
+
+146,69 |
+
+|
+
+146,69 |
+
+|
+
+125,74 |
+
+|
+
+|
+
+2 |
+
+124,69 |
+
+|
+
+|
+
+|
+
+106,88 |
+
+|
+
+|
+
+3 |
+
+112,12 |
+
+|
+
+|
+
+|
+
+96,40 |
+
+|
+
+|
+
+4 |
+
+106,88 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Niveau II. A |
+
+Traducteur/ interprète |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1 |
+
+148,79 |
+
+|
+
+148,79 |
+
+|
+
+135,17 |
+
+|
+
+|
+
+2 |
+
+126,78 |
+
+|
+
+|
+
+|
+
+115,26 |
+
+|
+
+|
+
+3 |
+
+114,21 |
+
+|
+
+|
+
+|
+
+103,73 |
+
+|
+
+|
+
+4 |
+
+107,92 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Copiste |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1 |
+
+148,79 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+2 |
+
+126,78 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+3 |
+
+114,21 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+4 |
+
+107,92 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Monteur (*) |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1 |
+
+|
+
+|
+
+212,70 |
+
+|
+
+|
+
+|
+
+|
+
+2 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+3 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+4 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Niveau II. B |
+
+Coordinateur d'écriture (script editor) |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1 |
+
+|
+
+|
+
+200,14 |
+
+|
+
+|
+
+|
+
+|
+
+2 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+3 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+4 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Niveau II. B |
+
+Documentaliste/ iconographe |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1 |
+
+190,71 |
+
+|
+
+190,71 |
+
+|
+
+|
+
+|
+
+|
+
+2 |
+
+162,42 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+3 |
+
+145,64 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+4 |
+
+138,31 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Directeur de la distribution artistique |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1 |
+
+|
+
+|
+
+174,99 |
+
+|
+
+|
+
+|
+
+|
+
+2 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+3 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+4 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Chargé de production |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1 |
+
+219,00 |
+
+|
+
+|
+
+|
+
+146,69 |
+
+|
+
+|
+
+2 |
+
+186,52 |
+
+|
+
+|
+
+|
+
+124,69 |
+
+|
+
+|
+
+3 |
+
+167,66 |
+
+|
+
+|
+
+|
+
+112,12 |
+
+|
+
+|
+
+4 |
+
+159,27 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Chef monteur |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1 |
+
+|
+
+|
+
+259,86 |
+
+|
+
+|
+
+|
+
+|
+
+2 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+3 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+4 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Niveau II. B |
+
+Monteur truquiste/ truquiste |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1 |
+
+|
+
+|
+
+223,19 |
+
+|
+
+|
+
+|
+
+|
+
+2 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+3 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+4 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Directeur artistique de production |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1 |
+
+259,86 |
+
+|
+
+259,86 |
+
+|
+
+167,66 |
+
+|
+
+|
+
+2 |
+
+221,09 |
+
+|
+
+|
+
+|
+
+142,50 |
+
+|
+
+|
+
+3 |
+
+199,09 |
+
+|
+
+|
+
+|
+
+127,83 |
+
+|
+
+|
+
+4 |
+
+188,61 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Coordinateur/ directeur musical |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1 |
+
+259,86 |
+
+|
+
+259,86 |
+
+|
+
+167,66 |
+
+|
+
+|
+
+2 |
+
+221,09 |
+
+|
+
+|
+
+|
+
+142,50 |
+
+|
+
+|
+
+3 |
+
+199,09 |
+
+|
+
+|
+
+|
+
+127,83 |
+
+|
+
+|
+
+4 |
+
+188,61 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Administrateur de production |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1 |
+
+|
+
+|
+
+200,14 |
+
+|
+
+|
+
+|
+
+|
+
+2 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+3 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+4 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Niveau III |
+
+Directeur de production |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1 |
+
+|
+
+|
+
+363,59 |
+
+|
+
+|
+
+|
+
+|
+
+2 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+3 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+4 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Directeur de postproduction/ chargé de postproduction |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1 |
+
+|
+
+|
+
+299,68 |
+
+|
+
+|
+
+|
+
+|
+
+2 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+3 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+4 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+(*) Pour les vidéoclips, peut être employé si l'emploi de chef monteur est pourvu.
+
+1 : salaire journalier pour un contrat inférieur à 5 jours dans le cadre des activités « phonogramme » ou « spectacle vivant promotionnel »   ; salaire journalier pour les activités « vidéogramme ».
+
+2 : salaire journalier pour un contrat de 5 jours dans le cadre des activités « phonogramme » ou « spectacle vivant promotionnel ».
+
+3 : salaire journalier pour un contrat de 10 jours par période de 21 jours dans le cadre des activités « phonogramme » ou « spectacle vivant promotionnel ».
+
+4 : salaire journalier pour un contrat de 15 jours par période de 30 jours dans le cadre des activités « phonogramme » ou « spectacle vivant promotionnel ». |
+
+Filière maquillage coiffure
+
+Niveau |
+
+Filière
+
+maquillage coiffure |
+
+Phonogramme |
+
+Vidéogramme |
+
+Spectacle vivant
+
+promotionnel |
+
+|
+
+|
+
+|
+
+Studio
+
+et captation |
+
+Captation |
+
+Tournage
+
+et captation |
+
+Captation |
+
+|
+
+|
+
+Niveau I |
+
+Assistant du styliste |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Compléments de salaires des personnels employés par les organisateurs de spectacles ou les tourneurs qui participent à la captation des concerts.
+
+Chaque technicien déjà employé par l'organisateur du spectacle recevra de la part du producteur de phonogramme ou de vidéogramme, pour chaque jour de mise en place d'une captation, un complément de rémunération égal à 50 % du salaire minimum conventionnel de la convention collective du spectacle vivant applicable, cette rémunération minimale complémentaire étant limitée, pour une même tournée ou un même spectacle, à deux fois le salaire minimum applicable.
+
+Les minima salariaux de la convention collective du spectacle vivant applicable sont annexés. |
+
+|
+
+1 |
+
+137,26 |
+
+|
+
+137,26 |
+
+|
+
+124,69 |
+
+|
+
+|
+
+2 |
+
+116,31 |
+
+|
+
+|
+
+|
+
+105,83 |
+
+|
+
+|
+
+3 |
+
+104,78 |
+
+|
+
+|
+
+|
+
+95,35 |
+
+|
+
+|
+
+4 |
+
+99,54 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Maquilleur |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1 |
+
+161,37 |
+
+|
+
+161,37 |
+
+|
+
+154,03 |
+
+|
+
+|
+
+2 |
+
+137,26 |
+
+|
+
+|
+
+|
+
+130,98 |
+
+|
+
+|
+
+3 |
+
+123,64 |
+
+|
+
+|
+
+|
+
+117,35 |
+
+|
+
+|
+
+4 |
+
+117,35 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Coiffeur |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1 |
+
+161,37 |
+
+|
+
+161,37 |
+
+|
+
+154,03 |
+
+|
+
+|
+
+2 |
+
+137,26 |
+
+|
+
+|
+
+|
+
+130,98 |
+
+|
+
+|
+
+3 |
+
+123,64 |
+
+|
+
+|
+
+|
+
+117,35 |
+
+|
+
+|
+
+4 |
+
+117,35 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Niveau I |
+
+Habilleur |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1 |
+
+|
+
+|
+
+144,60 |
+
+|
+
+134,12 |
+
+|
+
+|
+
+2 |
+
+|
+
+|
+
+|
+
+|
+
+114,21 |
+
+|
+
+|
+
+3 |
+
+|
+
+|
+
+|
+
+|
+
+102,69 |
+
+|
+
+|
+
+4 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Costumier |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1 |
+
+161,37 |
+
+|
+
+161,37 |
+
+|
+
+209,57 |
+
+|
+
+|
+
+2 |
+
+145,64 |
+
+|
+
+|
+
+|
+
+178,13 |
+
+|
+
+|
+
+3 |
+
+130,98 |
+
+|
+
+|
+
+|
+
+160,32 |
+
+|
+
+|
+
+4 |
+
+124,69 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Niveau II. A |
+
+Coiffeur perruquier |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1 |
+
+|
+
+|
+
+201,18 |
+
+|
+
+|
+
+|
+
+|
+
+2 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+3 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+4 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Chef costumier |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1 |
+
+|
+
+|
+
+202,23 |
+
+|
+
+|
+
+|
+
+|
+
+2 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+3 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+4 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Niveau II. A |
+
+Styliste |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1 |
+
+181,28 |
+
+|
+
+181,28 |
+
+|
+
+156,12 |
+
+|
+
+|
+
+2 |
+
+154,03 |
+
+|
+
+|
+
+|
+
+133,07 |
+
+|
+
+|
+
+3 |
+
+138,31 |
+
+|
+
+|
+
+|
+
+119,46 |
+
+|
+
+|
+
+4 |
+
+132,02 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Chef coiffeur/ chef coiffeur perruquier |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1 |
+
+|
+
+|
+
+201,18 |
+
+|
+
+|
+
+|
+
+|
+
+2 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+3 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+4 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Chef maquilleur/ chef maquilleur posticheur |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1 |
+
+|
+
+|
+
+201,18 |
+
+|
+
+|
+
+|
+
+|
+
+2 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+3 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+4 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Concepteur maquillage |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1 |
+
+|
+
+|
+
+201,18 |
+
+|
+
+|
+
+|
+
+|
+
+2 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+3 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+4 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Niveau II. A |
+
+Concepteur coiffure |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1 |
+
+|
+
+|
+
+201,18 |
+
+|
+
+|
+
+|
+
+|
+
+2 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+3 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+4 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1 : salaire journalier pour un contrat inférieur à 5 jours dans le cadre des activités « phonogramme » ou « spectacle vivant promotionnel »   ; salaire journalier pour les activités « vidéogramme ».
+
+2 : salaire journalier pour un contrat de 5 jours dans le cadre des activités « phonogramme » ou « spectacle vivant promotionnel ».
+
+3 : salaire journalier pour un contrat de 10 jours par période de 21 jours dans le cadre des activités « phonogramme » ou « spectacle vivant promotionnel ».
+
+4 : salaire journalier pour un contrat de 15 jours par période de 30 jours dans le cadre des activités « phonogramme » ou « spectacle vivant promotionnel ». |
+
+Filière lumière
+
+Niveau |
+
+Filière lumière |
+
+Phonogramme |
+
+Vidéogramme |
+
+Spectacle vivant
+
+promotionnel |
+
+|
+
+|
+
+|
+
+Studio
+
+et captation |
+
+Captation |
+
+Tournage
+
+et captation |
+
+captation |
+
+|
+
+|
+
+Niveau II. A |
+
+Technicien lumière |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Compléments de salaires des personnels employés par les organisateurs de spectacles ou les tourneurs qui participent à la captation des concerts.
+
+Chaque technicien déjà employé par l'organisateur du spectacle recevra de la part du producteur de phonogramme ou de vidéogramme, pour chaque jour de mise en place d'une captation, un complément de rémunération égal à 50 % du salaire minimum conventionnel de la convention collective du spectacle vivant applicable, cette rémunération minimale complémentaire étant limitée, pour une même tournée ou un même spectacle, à deux fois le salaire minimum applicable.
+
+Les minima salariaux de la convention collective du spectacle vivant applicable sont annexés. |
+
+|
+
+1 |
+
+|
+
+|
+
+|
+
+156,12 |
+
+146,69 |
+
+|
+
+|
+
+2 |
+
+|
+
+|
+
+|
+
+|
+
+124,69 |
+
+|
+
+|
+
+3 |
+
+|
+
+|
+
+|
+
+|
+
+112,12 |
+
+|
+
+|
+
+4 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Niveau II. A |
+
+Électricien |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1 |
+
+|
+
+|
+
+183,37 |
+
+|
+
+157,18 |
+
+|
+
+|
+
+2 |
+
+|
+
+|
+
+|
+
+|
+
+134,12 |
+
+|
+
+|
+
+3 |
+
+|
+
+|
+
+|
+
+|
+
+120,50 |
+
+|
+
+|
+
+4 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Chef électricien |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1 |
+
+|
+
+|
+
+223,19 |
+
+|
+
+188,61 |
+
+|
+
+|
+
+2 |
+
+|
+
+|
+
+|
+
+|
+
+160,32 |
+
+|
+
+|
+
+3 |
+
+|
+
+|
+
+|
+
+|
+
+144,60 |
+
+|
+
+|
+
+4 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Éclairagiste |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1 |
+
+|
+
+|
+
+|
+
+209,57 |
+
+241,00 |
+
+|
+
+|
+
+2 |
+
+|
+
+|
+
+|
+
+|
+
+205,38 |
+
+|
+
+|
+
+3 |
+
+|
+
+|
+
+|
+
+|
+
+184,42 |
+
+|
+
+|
+
+4 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1 : salaire journalier pour un contrat inférieur à 5 jours dans le cadre des activités « phonogramme » ou « spectacle vivant promotionnel »   ; salaire journalier pour les activités « vidéogramme ».
+
+2 : salaire journalier pour un contrat de 5 jours dans le cadre des activités « phonogramme » ou « spectacle vivant promotionnel ».
+
+3 : salaire journalier pour un contrat de 10 jours par période de 21 jours dans le cadre des activités « phonogramme » ou « spectacle vivant promotionnel ».
+
+4 : salaire journalier pour un contrat de 15 jours par période de 30 jours dans le cadre des activités « phonogramme » ou « spectacle vivant promotionnel ». |
+
+Filière décoration machiniste
+
+Niveau |
+
+Filière
+
+décoration machiniste |
+
+Phonogramme |
+
+Vidéogramme |
+
+Spectacle vivant
+
+promotionnel |
+
+|
+
+|
+
+|
+
+Studio
+
+et captation |
+
+Captation |
+
+Tournage
+
+et captation |
+
+Captation |
+
+|
+
+|
+
+Niveau I |
+
+Assistant décorateur |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Compléments de salaires des personnels employés par les organisateurs de spectacles ou les tourneurs qui participent à la captation des concerts.
+
+Chaque technicien déjà employé par l'organisateur du spectacle recevra de la part du producteur de phonogramme ou de vidéogramme, pour chaque jour de mise en place d'une captation, un complément de rémunération égal à 50 % du salaire minimum conventionnel de la convention collective du spectacle vivant applicable, cette rémunération minimale complémentaire étant limitée, pour une même tournée ou un même spectacle, à deux fois le salaire minimum applicable.
+
+Les minima salariaux de la convention collective du spectacle vivant applicable sont annexés. |
+
+|
+
+1 |
+
+|
+
+|
+
+125,74 |
+
+|
+
+|
+
+|
+
+|
+
+2 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+3 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+4 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Assistant ensemblier |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1 |
+
+|
+
+|
+
+125,74 |
+
+|
+
+|
+
+|
+
+|
+
+2 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+3 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+4 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Technicien de plateau |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1 |
+
+|
+
+125,74 |
+
+125,74 |
+
+|
+
+128,88 |
+
+|
+
+|
+
+2 |
+
+|
+
+106,88 |
+
+|
+
+|
+
+110,03 |
+
+|
+
+|
+
+3 |
+
+|
+
+96,40 |
+
+|
+
+|
+
+98,50 |
+
+|
+
+|
+
+4 |
+
+|
+
+91,17 |
+
+|
+
+|
+
+|
+
+|
+
+Niveau I |
+
+Constructeur |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1 |
+
+|
+
+|
+
+137,26 |
+
+|
+
+|
+
+|
+
+|
+
+2 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+3 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+4 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Accrocheur rigger |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1 |
+
+|
+
+137,26 |
+
+137,26 |
+
+|
+
+128,88 |
+
+|
+
+|
+
+2 |
+
+|
+
+116,31 |
+
+|
+
+|
+
+110,03 |
+
+|
+
+|
+
+3 |
+
+|
+
+104,78 |
+
+|
+
+|
+
+98,50 |
+
+|
+
+|
+
+4 |
+
+|
+
+99,54 |
+
+|
+
+|
+
+|
+
+|
+
+Niveau II. A |
+
+Sculpteur décorateur |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1 |
+
+|
+
+|
+
+160,32 |
+
+|
+
+|
+
+|
+
+|
+
+2 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+3 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+4 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Machiniste |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1 |
+
+|
+
+|
+
+183,37 |
+
+|
+
+146,69 |
+
+|
+
+|
+
+2 |
+
+|
+
+|
+
+|
+
+|
+
+124,69 |
+
+|
+
+|
+
+3 |
+
+|
+
+|
+
+|
+
+|
+
+112,12 |
+
+|
+
+|
+
+4 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Niveau II. A |
+
+Maquettiste staffeur |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1 |
+
+|
+
+|
+
+213,76 |
+
+|
+
+|
+
+|
+
+|
+
+2 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+3 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+4 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Staffeur |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1 |
+
+|
+
+|
+
+213,76 |
+
+|
+
+|
+
+|
+
+|
+
+2 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+3 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+4 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Menuisier |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1 |
+
+|
+
+|
+
+213,76 |
+
+|
+
+|
+
+|
+
+|
+
+2 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+3 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+4 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Tapissier |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1 |
+
+|
+
+|
+
+207,47 |
+
+|
+
+|
+
+|
+
+|
+
+2 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+3 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+4 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Niveau II. A |
+
+Accessoiriste |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1 |
+
+|
+
+|
+
+182,32 |
+
+|
+
+|
+
+|
+
+|
+
+2 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+3 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+4 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Conducteur de groupe/ groupman |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1 |
+
+|
+
+|
+
+199,09 |
+
+|
+
+199,09 |
+
+|
+
+|
+
+2 |
+
+|
+
+|
+
+|
+
+|
+
+169,75 |
+
+|
+
+|
+
+3 |
+
+|
+
+|
+
+|
+
+|
+
+151,93 |
+
+|
+
+|
+
+4 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Chef menuisier |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1 |
+
+|
+
+|
+
+253,57 |
+
+|
+
+|
+
+|
+
+|
+
+2 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+3 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+4 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Chef peintre |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1 |
+
+|
+
+|
+
+253,57 |
+
+|
+
+|
+
+|
+
+|
+
+2 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+3 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+4 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Niveau II. A |
+
+Chef staffeur |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1 |
+
+|
+
+|
+
+253,57 |
+
+|
+
+|
+
+|
+
+|
+
+2 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+3 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+4 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Peintre décorateur |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1 |
+
+|
+
+|
+
+189,66 |
+
+|
+
+165,56 |
+
+|
+
+|
+
+2 |
+
+|
+
+|
+
+|
+
+|
+
+140,40 |
+
+|
+
+|
+
+3 |
+
+|
+
+|
+
+|
+
+|
+
+126,78 |
+
+|
+
+|
+
+4 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Chef machiniste |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1 |
+
+|
+
+223,19 |
+
+223,19 |
+
+|
+
+188,61 |
+
+|
+
+|
+
+2 |
+
+|
+
+189,66 |
+
+|
+
+|
+
+160,32 |
+
+|
+
+|
+
+3 |
+
+|
+
+170,80 |
+
+|
+
+|
+
+144,60 |
+
+|
+
+|
+
+4 |
+
+|
+
+162,42 |
+
+|
+
+|
+
+|
+
+|
+
+Niveau II. B |
+
+Décorateur |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1 |
+
+244,14 |
+
+|
+
+244,14 |
+
+|
+
+220,04 |
+
+|
+
+|
+
+2 |
+
+207,47 |
+
+|
+
+|
+
+|
+
+187,56 |
+
+|
+
+|
+
+3 |
+
+186,52 |
+
+|
+
+|
+
+|
+
+168,70 |
+
+|
+
+|
+
+4 |
+
+177,09 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Niveau II. B |
+
+Ensemblier |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1 |
+
+|
+
+|
+
+219,00 |
+
+|
+
+|
+
+|
+
+|
+
+2 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+3 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+4 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Niveau III |
+
+Chef constructeur |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1 |
+
+|
+
+|
+
+289,20 |
+
+|
+
+|
+
+|
+
+|
+
+2 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+3 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+4 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Chef décorateur/ architecte décorateur |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1 |
+
+|
+
+|
+
+395,03 |
+
+|
+
+|
+
+|
+
+|
+
+2 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+3 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+4 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1 : salaire journalier pour un contrat inférieur à 5 jours dans le cadre des activités « phonogramme » ou « spectacle vivant promotionnel »   ; salaire journalier pour les activités « vidéogramme ».
+
+2 : salaire journalier pour un contrat de 5 jours dans le cadre des activités « phonogramme » ou « spectacle vivant promotionnel ».
+
+3 : salaire journalier pour un contrat de 10 jours par période de 21 jours dans le cadre des activités « phonogramme » ou « spectacle vivant promotionnel ».
+
+4 : salaire journalier pour un contrat de 15 jours par période de 30 jours dans le cadre des activités « phonogramme » ou « spectacle vivant promotionnel ». |
+
+(1) Arrêté du 24 mai 2013 portant extension d'un accord conclu dans le cadre de la convention collective nationale de l'édition phonographique : « (…) L'article 2 “ Salaires minima conventionnels applicables aux techniciens du spectacle et aux artistes interprètes ” est étendu sous réserve du respect du principe “ à travail égal, salaire égal ”.
+
+Cet accord est étendu sous réserve de l'application des dispositions de l'article L. 2241-9 du code du travail qui prévoient que la négociation annuelle sur les salaires vise également à définir et programmer les mesures permettant de supprimer les écarts de rémunération entre les femmes et hommes. »
+
+(2) La sous-annexe 2 relative au barème salarial est étendue sous réserve que la différence de rémunération entre salariés ayant la même qualification et accomplissant les mêmes tâches se fonde sur des critères objectifs et vérifiables en relation directe avec la valeur du travail effectué, conformément au principe « à travail égal, salaire égal » résultant des articles L. 2261-22, R. 2261-1 et L. 2271-1 du code du travail ainsi que des articles L. 3221-2, L. 3221-3 et L. 3221-4 du code du travail.
+
+(Arrêté du 17 février 2020 - art. 1)

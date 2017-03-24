@@ -1,0 +1,267 @@
+# Article sous-annexe 1
+
+Sous-annexe 1
+
+Classification des emplois de techniciens
+
+Filière |
+
+Niveau I |
+
+Niveau II |
+
+Niveau III |
+
+|
+
+|
+
+II. A |
+
+II. B |
+
+|
+
+Son |
+
+2e assistant son
+
+Technicien des instruments/ backliner
+
+Assistant son |
+
+Programmeur musical
+
+Régisseur son/ technicien son
+
+Monteur son
+
+Sonorisateur
+
+Preneur de son/ OPS |
+
+Illustrateur sonore
+
+Perchman/ perchiste
+
+1er assistant son
+
+Bruiteur
+
+Mixeur |
+
+Ingénieur du son |
+
+Image/ graphisme |
+
+Assistant : cadreur/ cameraman/ OPV
+
+Chauffeur de salle
+
+Rédacteur
+
+2e assistant : cadreur/ cameraman/ OPV
+
+Opérateur magnétoscope
+
+Opérateur magnétoscope ralenti
+
+Opérateur projectionniste
+
+Opérateur prompteur
+
+Opérateur régie vidéo
+
+Opérateur synthétiseur
+
+Animateur (vidéogramme d'animation) |
+
+Photographe
+
+Présentateur
+
+Illustrateur
+
+Technicien vidéo |
+
+1er assistant : cadreur/ cameraman/ OPV
+
+cadreur/ cameraman/ OPV |
+
+Chef OPV
+
+Ingénieur de la vision
+
+Directeur de la photo |
+
+Réalisation |
+
+Conseiller technique à la réalisation |
+
+2e assistant réalisateur
+
+Assistant réalisateur |
+
+Script
+
+1er assistant réalisateur
+
+Réalisateur artistique |
+
+Réalisateur |
+
+Régie |
+
+Aide de plateau/ assistant de plateau |
+
+Régisseur adjoint
+
+Régisseur
+
+Régisseur d'orchestre
+
+Régisseur de plateau/ chef de plateau |
+
+Régisseur général |
+
+|
+
+Production/ postproduction |
+
+Secrétaire de production
+
+Conseiller artistique de production
+
+Assistant du directeur de la production artistique
+
+Assistant de production
+
+Assistant monteur/ monteur adjoint
+
+Assistant de postproduction |
+
+Répétiteur
+
+Traducteur/ interprète
+
+Monteur
+
+Copiste |
+
+Coordinateur d'écriture (script editor)
+
+Documentaliste/ iconographe
+
+Directeur de la distribution artistique
+
+Chargé de production
+
+Chef monteur
+
+Monteur truquiste/ truquiste
+
+Directeur artistique de production
+
+Coordinateur/ directeur musical
+
+Administrateur de production |
+
+Directeur de production
+
+Directeur de postproduction/ chargé de postproduction |
+
+Maquillage/ coiffure |
+
+Assistant du coiffeur
+
+Assistant du maquilleur
+
+Assistant du styliste
+
+Maquilleur
+
+Coiffeur
+
+Habilleur
+
+Costumier |
+
+Coiffeur perruquier
+
+Chef costumier
+
+Styliste
+
+Chef coiffeur/ chef coiffeur Perruquier
+
+Chef maquilleur/ chef maquilleur posticheur
+
+Concepteur maquillage
+
+Concepteur coiffure |
+
+|
+
+|
+
+Lumière |
+
+|
+
+Technicien lumière
+
+Électricien
+
+Chef électricien
+
+Éclairagiste |
+
+|
+
+|
+
+Décoration/ machiniste |
+
+Assistant décorateur
+
+Assistant ensemblier
+
+Technicien de plateau
+
+Constructeur
+
+Accrocheur rigger |
+
+Sculpteur décorateur
+
+Machiniste
+
+Maquettiste staffeur
+
+Staffeur
+
+Menuisier
+
+Tapissier
+
+Accessoiriste
+
+Conducteur de groupe/ groupman
+
+Chef menuisier
+
+Chef peintre
+
+Chef staffeur
+
+Peintre décorateur
+
+Chef machiniste |
+
+Décorateur
+
+Ensemblier |
+
+Chef constructeur
+
+Chef décorateur/ architecte décorateur |
