@@ -26,545 +26,275 @@ et poids minimaux
 
 |
 
-ALOSES
+ALOSES |
 
-|
+Alosa spp. |
 
-Alosa spp.
+30 cm |
 
-|
+ANCHOIS |
 
-30 cm
+Engraulis encrasicolus |
 
-|
+12 cm |
 
-ANCHOIS
+BAR COMMUN |
 
-|
+Dicentrarchus labrax |
 
-Engraulis encrasicolus
+42 cm |
 
-|
+BAR MOUCHETE |
 
-12 cm
+Dicentrarchus punctatus |
 
-|
+30 cm |
 
-BAR COMMUN
+BARBUE |
 
-|
+Scophtalmus rhombus |
 
-Dicentrarchus labrax
+30 cm |
 
-|
+CABILLAUD |
 
-42 cm
+Gadus morhua |
 
-|
+42 cm |
 
-BAR MOUCHETE
+CARDINES |
 
-|
+Lepidorhombus spp. |
 
-Dicentrarchus punctatus
+20 cm |
 
-|
+CHAPON |
 
-30 cm
+Scorpaena scrofa |
 
-|
+30 cm |
 
-BARBUE
+CHINCHARDS |
 
-|
+Trachurus spp. |
 
-Scophtalmus rhombus
+15 cm |
 
-|
+CONGRE |
 
-30 cm
+Conger conger |
 
-|
+60 cm |
 
-CABILLAUD
+CORB |
 
-|
+Sciaena umbra |
 
-Gadus morhua
+35 cm |
 
-|
+DORADE GRISE |
 
-42 cm
+Spondyliosoma cantharus |
 
-|
+23 cm |
 
-CARDINES
+DORADE ROSE/ PAGEOT ROSE |
 
-|
+Pagellus bogaraveo |
 
-Lepidorhombus spp.
+23 cm |
 
-|
+DORADE ROYALE |
 
-20 cm
+Sparus aurata |
 
-|
+23 cm |
 
-CHAPON
+EGLEFIN |
 
-|
+Melanogrammus aeglefinus |
 
-Scorpaena scrofa
+30 cm |
 
-|
+ESPADON |
 
-30 cm
+Xiphias gladius |
 
-|
+170 cm (LJFL) * |
 
-CHINCHARDS
+FLET |
 
-|
+Platichthys flesus |
 
-Trachurus spp.
+20 cm |
 
-|
+GERMON |
 
-15 cm
+Thunus alalunga |
 
-|
+2 kg |
 
-CONGRE
+HARENG |
 
-|
+Clupea harengus |
 
-Conger conger
+20 cm |
 
-|
+LIEU NOIR |
 
-60 cm
+Pollachius virens |
 
-|
+35 cm |
 
-CORB
+LIEU JAUNE |
 
-|
+Pollachius pollachius |
 
-Sciaena umbra
+30 cm |
 
-|
+LINGUE |
 
-35 cm
+Molva molva |
 
-|
+63 cm |
 
-DORADE GRISE
+LINGUE BLEUE |
 
-|
+Molva dipterygia |
 
-Spondyliosoma cantharus
+70 cm |
 
-|
+LIMANDE |
 
-23 cm
+Limanda limanda |
 
-|
+20 cm |
 
-DORADE ROSE/ PAGEOT ROSE
+LIMANDE SOLE |
 
-|
+Microstomus kitt |
 
-Pagellus bogaraveo
+25 cm |
 
-|
+LOTTE |
 
-23 cm
+Lophius piscatorius |
 
-|
+50 cm |
 
-DORADE ROYALE
+MAIGRE |
 
-|
+Argyrosomus regius |
 
-Sparus aurata
+45 cm |
 
-|
+MAKAIRES BLANCS |
 
-23 cm
+Tetrapturus spp. |
 
-|
+168 cm (LJFL) * |
 
-EGLEFIN
+MAKAIRE BLEU |
 
-|
+Makaira nigricans |
 
-Melanogrammus aeglefinus
+251 cm (LJFL) * |
 
-|
+MAQUEREAUX |
 
-30 cm
+Scomber spp. |
 
-|
+20 cm |
 
-ESPADON
+MAQUEREAUX (mer du Nord) |
 
-|
+Scomber spp. |
 
-Xiphias gladius
+30 cm |
 
-|
+MERLAN |
 
-170 cm (LJFL) *
+Merlangius merlangus |
 
-|
+27 cm |
 
-FLET
+MERLU |
 
-|
+Merluccius merluccius |
 
-Platichthys flesus
+27 cm |
 
-|
+MOSTELLES |
 
-20 cm
+Phycis spp. |
 
-|
+30 cm |
 
-GERMON
+MULETS |
 
-|
+Mugil spp. |
 
-Thunus alalunga
+30 cm |
 
-|
+ORPHIES |
 
-2 kg
+Belone spp. |
 
-|
+30 cm |
 
-HARENG
+PLIE/ CARRELET |
 
-|
+Pleuronectes platessa |
 
-Clupea harengus
+27 cm |
 
-|
+ROUGETS |
 
-20 cm
+Mullus spp. |
 
-|
+15 cm |
 
-LIEU NOIR
+SAR COMMUN |
 
-|
+Diplodus sargus |
 
-Pollachius virens
+25 cm |
 
-|
+SARDINE |
 
-35 cm
+Sardina pilchardus |
 
-|
+11 cm |
 
-LIEU JAUNE
+SAUMON |
 
-|
+Salmo salar |
 
-Pollachius pollachius
+50 cm |
 
-|
+SOLES |
 
-30 cm
+Solea spp. |
 
-|
+24 cm |
 
-LINGUE
+THON ROUGE |
 
-|
+Thunnus thynnus |
 
-Molva molva
+30 kg ou 115 cm (longueur à la fourche) |
 
-|
+TRUITE DE MER |
 
-63 cm
+Salmo trutta |
 
-|
+35 cm |
 
-LINGUE BLEUE
+TURBOT |
 
-|
+Psetta maxima |
 
-Molva dipterygia
-
-|
-
-70 cm
-
-|
-
-LIMANDE
-
-|
-
-Limanda limanda
-
-|
-
-20 cm
-
-|
-
-LIMANDE SOLE
-
-|
-
-Microstomus kitt
-
-|
-
-25 cm
-
-|
-
-LOTTE
-
-|
-
-Lophius piscatorius
-
-|
-
-50 cm
-
-|
-
-MAIGRE
-
-|
-
-Argyrosomus regius
-
-|
-
-45 cm
-
-|
-
-MAKAIRES BLANCS
-
-|
-
-Tetrapturus spp.
-
-|
-
-168 cm (LJFL) *
-
-|
-
-MAKAIRE BLEU
-
-|
-
-Makaira nigricans
-
-|
-
-251 cm (LJFL) *
-
-|
-
-MAQUEREAUX
-
-|
-
-Scomber spp.
-
-|
-
-20 cm
-
-|
-
-MAQUEREAUX (mer du Nord)
-
-|
-
-Scomber spp.
-
-|
-
-30 cm
-
-|
-
-MERLAN
-
-|
-
-Merlangius merlangus
-
-|
-
-27 cm
-
-|
-
-MERLU
-
-|
-
-Merluccius merluccius
-
-|
-
-27 cm
-
-|
-
-MOSTELLES
-
-|
-
-Phycis spp.
-
-|
-
-30 cm
-
-|
-
-MULETS
-
-|
-
-Mugil spp.
-
-|
-
-30 cm
-
-|
-
-ORPHIES
-
-|
-
-Belone spp.
-
-|
-
-30 cm
-
-|
-
-PLIE/ CARRELET
-
-|
-
-Pleuronectes platessa
-
-|
-
-27 cm
-
-|
-
-ROUGETS
-
-|
-
-Mullus spp.
-
-|
-
-15 cm
-
-|
-
-SAR COMMUN
-
-|
-
-Diplodus sargus
-
-|
-
-25 cm
-
-|
-
-SARDINE
-
-|
-
-Sardina pilchardus
-
-|
-
-11 cm
-
-|
-
-SAUMON
-
-|
-
-Salmo salar
-
-|
-
-50 cm
-
-|
-
-SOLES
-
-|
-
-Solea spp.
-
-|
-
-24 cm
-
-|
-
-THON ROUGE
-
-|
-
-Thunnus thynnus
-
-|
-
-30 kg ou 115 cm (longueur à la fourche)
-
-|
-
-TRUITE DE MER
-
-|
-
-Salmo trutta
-
-|
-
-35 cm
-
-|
-
-TURBOT
-
-|
-
-Psetta maxima
-
-|
-
-30 cm
-
-|
+30 cm |
 
 (*) LJFL = longueur maxillaire inférieur-fourche.
 
@@ -592,123 +322,65 @@ Tailles minimales
 
 |
 
-ARAIGNEE DE MER
+ARAIGNEE DE MER |
+
+Maia squinado et Maja brachydactyla |
+
+12 cm |
+
+BOUQUET/ CREVETTE ROSE |
+
+Palaemon serratus |
+
+5 cm |
+
+CREVETTES (AUTRES QUE BOUQUET) |
+
+Crangon spp., Pandalus spp., Palaemon spp. (hors Palaemon serratus), Penaeus spp., Parapenaeus longirostris |
+
+3 cm |
+
+ETRILLE |
+
+Polybius henslowi et Necora puber |
+
+6,5 cm |
+
+HOMARD |
+
+Homarus gammarus |
+
+8,7 cm (LC) (*) |
+
+LANGOUSTE ROUGE |
+
+Palinurus spp. |
+
+11 cm (LC) (*) |
+
+LANGOUSTINE |
+
+Nephrops norvegicus |
+
+9 cm (LT) (*) |
+
+Queues de LANGOUSTINES |
 
 |
 
-Maia squinado et Maja brachydactyla
+4,6 cm |
 
-|
+TOURTEAU au nord du 48e parallèle Nord |
 
-12 cm
+Cancer pagurus |
 
-|
+14 cm |
 
-BOUQUET/ CREVETTE ROSE
+TOURTEAU au sud du 48e parallèle Nord |
 
-|
+Cancer pagurus |
 
-Palaemon serratus
-
-|
-
-5 cm
-
-|
-
-CREVETTES (AUTRES QUE BOUQUET)
-
-|
-
-Crangon spp., Pandalus spp., Palaemon spp. (hors Palaemon serratus), Penaeus spp., Parapenaeus longirostris
-
-|
-
-3 cm
-
-|
-
-ETRILLE
-
-|
-
-Polybius henslowi et Necora puber
-
-|
-
-6,5 cm
-
-|
-
-HOMARD
-
-|
-
-Homarus gammarus
-
-|
-
-8,7 cm (LC) (*)
-
-|
-
-LANGOUSTE ROUGE
-
-|
-
-Palinurus spp.
-
-|
-
-11 cm (LC) (*)
-
-|
-
-LANGOUSTINE
-
-|
-
-Nephrops norvegicus
-
-|
-
-9 cm (LT) (*)
-
-|
-
-Queues de LANGOUSTINES
-
-|
-
-|
-
-4,6 cm
-
-|
-
-TOURTEAU au nord du 48e parallèle Nord
-
-|
-
-Cancer pagurus
-
-|
-
-14 cm
-
-|
-
-TOURTEAU au sud du 48e parallèle Nord
-
-|
-
-Cancer pagurus
-
-|
-
-13 cm
-
-|
+13 cm |
 
 (*) LJFL = longueur maxillaire inférieur-fourche.
 
@@ -736,257 +408,131 @@ Tailles et poids minimaux
 
 |
 
-BUCCIN/ BULOT
+BUCCIN/ BULOT |
 
-|
+Buccinum undatum |
 
-Buccinum undatum
+4,5 cm |
 
-|
+CLOVISSE |
 
-4,5 cm
+Venerupis pullastra |
 
-|
+4 cm |
 
-CLOVISSE
+COUTEAUX |
 
-|
+Ensis spp., Pharus legumen, Solen spp. |
 
-Venerupis pullastra
+10 cm |
 
-|
+COQUE/ HENON |
 
-4 cm
+Cerastoderma edule |
 
-|
+3 cm |
 
-COUTEAUX
+COQUILLE St JACQUES |
 
-|
+Pecten maximus |
 
-Ensis spp., Pharus legumen, Solen spp.
+11 cm |
 
-|
+HUÎTRE CREUSE |
 
-10 cm
+Crassostrea gigas |
 
-|
+5 cm |
 
-COQUE/ HENON
+HUÎTRE PLATE |
 
-|
+Ostrea edulis |
 
-Cerastoderma edule
+6 cm |
 
-|
+MACTRE SOLIDE |
 
-3 cm
+Spisula solida |
 
-|
+2,5 cm |
 
-COQUILLE St JACQUES
+MOULE |
 
-|
+Mytilus edulis |
 
-Pecten maximus
+4 cm |
 
-|
+OLIVE DE MER/ TELLINE |
 
-11 cm
+Donax spp. et Tellina spp. |
 
-|
+2,5 cm |
 
-HUÎTRE CREUSE
+ORMEAUX |
 
-|
+Haliotis spp. |
 
-Crassostrea gigas
+9 cm |
 
-|
+OURSIN |
 
-5 cm
+Paracentrotus lividus |
 
-|
+4 cm (piquants exclus) |
 
-HUÎTRE PLATE
+OURSIN, région Bretagne |
 
-|
+Paracentrotus lividus |
 
-Ostrea edulis
+5,5 cm (piquants exclus) |
 
-|
+PALOURDE EUROPEENNE |
 
-6 cm
+Ruditapes decussatus |
 
-|
+4 cm |
 
-MACTRE SOLIDE
+PALOURDE JAPONAISE |
 
-|
+Ruditapes philipinarum |
 
-Spisula solida
+4 cm |
 
-|
+PALOURDE ROSE |
 
-2,5 cm
+Venerupis rhomboides |
 
-|
+4 cm |
 
-MOULE
+PALOURDE ROUGE/ VERNIS |
 
-|
+Callista spp. |
 
-Mytilus edulis
+6 cm |
 
-|
+PRAIRES/ CLAM |
 
-4 cm
+Venus verrucosa/ Mercenaria mercenaria |
 
-|
+4,3 cm |
 
-OLIVE DE MER/ TELLINE
+POULPES |
 
-|
+Octopus vulgaris et Eledone cirrhosa |
 
-Donax spp. et Tellina spp.
+750 g |
 
-|
+VANNEAUX/ PETONCLES |
 
-2,5 cm
+Chlamys spp. |
 
-|
+4 cm |
 
-ORMEAUX
+VENUS |
 
-|
+Spisula spp. |
 
-Haliotis spp.
-
-|
-
-9 cm
-
-|
-
-OURSIN
-
-|
-
-Paracentrotus lividus
-
-|
-
-4 cm (piquants exclus)
-
-|
-
-OURSIN, région Bretagne
-
-|
-
-Paracentrotus lividus
-
-|
-
-5,5 cm (piquants exclus)
-
-|
-
-PALOURDE EUROPEENNE
-
-|
-
-Ruditapes decussatus
-
-|
-
-4 cm
-
-|
-
-PALOURDE JAPONAISE
-
-|
-
-Ruditapes philipinarum
-
-|
-
-4 cm
-
-|
-
-PALOURDE ROSE
-
-|
-
-Venerupis rhomboides
-
-|
-
-4 cm
-
-|
-
-PALOURDE ROUGE/ VERNIS
-
-|
-
-Callista spp.
-
-|
-
-6 cm
-
-|
-
-PRAIRES/ CLAM
-
-|
-
-Venus verrucosa/ Mercenaria mercenaria
-
-|
-
-4,3 cm
-
-|
-
-POULPES
-
-|
-
-Octopus vulgaris et Eledone cirrhosa
-
-|
-
-750 g
-
-|
-
-VANNEAUX/ PETONCLES
-
-|
-
-Chlamys spp.
-
-|
-
-4 cm
-
-|
-
-VENUS
-
-|
-
-Spisula spp.
-
-|
-
-2,8 cm
-
-|
+2,8 cm |
 
 (*) LJFL = longueur maxillaire inférieur-fourche.
 
@@ -1016,341 +562,167 @@ Tailles et poids minimaux
 
 |
 
-ANCHOIS
+ANCHOIS |
 
-|
+Engraulis encrasicolus |
 
-Engraulis encrasicolus
+9 cm |
 
-|
+BAR COMMUN/ LOUP |
 
-9 cm
+Dicentrarchus labrax |
 
-|
+30 cm |
 
-BAR COMMUN/ LOUP
+CERNIER ATLANTIQUE |
 
-|
+Polyprion americanus |
 
-Dicentrarchus labrax
+45 cm |
 
-|
+CHAPON |
 
-30 cm
+Scorpanea scofra |
 
-|
+30 cm |
 
-CERNIER ATLANTIQUE
+CHINCHARDS |
 
-|
+Trachurus spp. |
 
-Polyprion americanus
+15 cm |
 
-|
+CONGRE |
 
-45 cm
+Conger conger |
 
-|
+60 cm |
 
-CHAPON
+CORB |
 
-|
+Sciaena umbra |
 
-Scorpanea scofra
+35 cm |
 
-|
+DORADE GRISE |
 
-30 cm
+Spondyliosoma cantharus |
 
-|
+23 cm |
 
-CHINCHARDS
+DORADE COMMUNE/ PAGEOT ROSE |
 
-|
+Pagellus bogaraveo |
 
-Trachurus spp.
+33 cm |
 
-|
+DORADE ROYALE |
 
-15 cm
+Sparus aurata |
 
-|
+23 cm |
 
-CONGRE
+MAIGRE |
 
-|
+Argyrosomus regius |
 
-Conger conger
+45 cm |
 
-|
+MAQUEREAUX |
 
-60 cm
+Scomber spp. |
 
-|
+18 cm |
 
-CORB
+MARBRE |
 
-|
+Lithognathus mormyrus |
 
-Sciaena umbra
+20 cm |
 
-|
+MERLU |
 
-35 cm
+Merluccius merluccius |
 
-|
+20 cm |
 
-DORADE GRISE
+MEROUS |
 
-|
+Epinephelus spp. |
 
-Spondyliosoma cantharus
+45 cm |
 
-|
+MOSTELLES |
 
-23 cm
+Phycis spp. |
 
-|
+30 cm |
 
-DORADE COMMUNE/ PAGEOT ROSE
+PAGEOT ACARNE |
 
-|
+Pagellus acarne |
 
-Pagellus bogaraveo
+17 cm |
 
-|
+PAGEOT ROUGE |
 
-33 cm
+Pagellus erythrinus |
 
-|
+15 cm |
 
-DORADE ROYALE
+PAGRE COMMUN |
 
-|
+Pagrus pagrus |
 
-Sparus aurata
+18 cm |
 
-|
+ROUGETS |
 
-23 cm
+Mullus spp. |
 
-|
+15 cm |
 
-ESPADON
+SAR COMMUN |
 
-|
+Diplodus sargus |
 
-Xiphias gladius
+23 cm |
 
-|
+SAR à museau pointu |
 
-90 cm (LJFL) (*) ou 10 kg de poids vif
+Diplodus puntazzo |
 
-|
+18 cm |
 
-MAIGRE
+SAR à tête noire |
 
-|
+Diplodus vulgaris |
 
-Argyrosomus regius
+18 cm |
 
-|
+SARDINE |
 
-45 cm
+Sardina pilchardus |
 
-|
+11 cm |
 
-MAQUEREAUX
+SOLES |
 
-|
+Solea spp. |
 
-Scomber spp.
+24 cm |
 
-|
+SPARAILLON |
 
-18 cm
+Diplodus annularis |
 
-|
+12 cm |
 
-MARBRE
+THON ROUGE |
 
-|
+Thunnus thynnus |
 
-Lithognathus mormyrus
-
-|
-
-20 cm
-
-|
-
-MERLU
-
-|
-
-Merluccius merluccius
-
-|
-
-20 cm
-
-|
-
-MEROUS
-
-|
-
-Epinephelus spp.
-
-|
-
-45 cm
-
-|
-
-MOSTELLES
-
-|
-
-Phycis spp.
-
-|
-
-30 cm
-
-|
-
-PAGEOT ACARNE
-
-|
-
-Pagellus acarne
-
-|
-
-17 cm
-
-|
-
-PAGEOT ROUGE
-
-|
-
-Pagellus erythrinus
-
-|
-
-15 cm
-
-|
-
-PAGRE COMMUN
-
-|
-
-Pagrus pagrus
-
-|
-
-18 cm
-
-|
-
-ROUGETS
-
-|
-
-Mullus spp.
-
-|
-
-15 cm
-
-|
-
-SAR COMMUN
-
-|
-
-Diplodus sargus
-
-|
-
-23 cm
-
-|
-
-SAR à museau pointu
-
-|
-
-Diplodus puntazzo
-
-|
-
-18 cm
-
-|
-
-SAR à tête noire
-
-|
-
-Diplodus vulgaris
-
-|
-
-18 cm
-
-|
-
-SARDINE
-
-|
-
-Sardina pilchardus
-
-|
-
-11 cm
-
-|
-
-SOLES
-
-|
-
-Solea spp.
-
-|
-
-24 cm
-
-|
-
-SPARAILLON
-
-|
-
-Diplodus annularis
-
-|
-
-12 cm
-
-|
-
-THON ROUGE
-
-|
-
-Thunnus thynnus
-
-|
-
-30 kg ou 115 cm (longueur à la fourche)
-
-|
+30 kg ou 115 cm (longueur à la fourche) |
 
 (*) LJFL = longueur maxillaire inférieur-fourche.
 
@@ -1378,53 +750,29 @@ Tailles minimales
 
 |
 
-CREVETTE ROSE DU LARGE
+CREVETTE ROSE DU LARGE |
 
-|
+Parapenaeus longirostris |
 
-Parapenaeus longirostris
+2 cm (LC) (*) |
 
-|
+HOMARD |
 
-2 cm (LC) (*)
+Homarus gammarus |
 
-|
+30 cm (LT) (*) |
 
-HOMARD
+LANGOUSTES |
 
-|
+Palinuridae |
 
-Homarus gammarus
+9 cm (LC) (*) |
 
-|
+LANGOUSTINE |
 
-30 cm (LT) (*)
+Nephrops norvegicus |
 
-|
-
-LANGOUSTES
-
-|
-
-Palinuridae
-
-|
-
-9 cm (LC) (*)
-
-|
-
-LANGOUSTINE
-
-|
-
-Nephrops norvegicus
-
-|
-
-7 cm (LT) (*)
-
-|
+7 cm (LT) (*) |
 
 (*) LJFL = longueur maxillaire inférieur-fourche.
 
@@ -1452,125 +800,65 @@ Tailles et poids minimaux
 
 |
 
-COQUE/ HENON
+COQUE/ HENON |
 
-|
+Cerastoderma edule |
 
-Cerastoderma edule
+2,7 cm |
 
-|
+COQUILLE SAINT-JACQUES |
 
-2,7 cm
+Pecten jacobeus |
 
-|
+10 cm |
 
-COQUILLE SAINT-JACQUES
+HUÎTRE CREUSE |
 
-|
+Crassostrea gigas |
 
-Pecten jacobeus
+6 cm |
 
-|
+HUÎTRE PLATE |
 
-10 cm
+Ostrea edulis |
 
-|
+6 cm |
 
-HUÎTRE CREUSE
+OURSIN |
 
-|
+Paracentrotus lividus |
 
-Crassostrea gigas
+pêché en mer, 5 cm (piquants exclus) |
 
-|
+OURSIN |
 
-6 cm
+Paracentrotus lividus |
 
-|
+pêché en étang, 3,5 cm (piquants exclus) |
 
-HUÎTRE PLATE
+PALOURDE EUROPEENNE |
 
-|
+Ruditapes decussatus |
 
-Ostrea edulis
+3,5 cm |
 
-|
+PALOURDES (AUTRES) |
 
-6 cm
+Venerupis spp., Polititapes aureus |
 
-|
+3 cm |
 
-OURSIN
+PRAIRES |
 
-|
+Venus spp. |
 
-Paracentrotus lividus
+2,5 cm |
 
-|
+TELLINES |
 
-pêché en mer, 5 cm (piquants exclus)
+Donax trunculus et Tellina spp. |
 
-|
-
-OURSIN
-
-|
-
-Paracentrotus lividus
-
-|
-
-pêché en étang, 3,5 cm (piquants exclus)
-
-|
-
-PALOURDE EUROPEENNE
-
-|
-
-Ruditapes decussatus
-
-|
-
-3,5 cm
-
-|
-
-PALOURDES (AUTRES)
-
-|
-
-Venerupis spp., Polititapes aureus
-
-|
-
-3 cm
-
-|
-
-PRAIRES
-
-|
-
-Venus spp.
-
-|
-
-2,5 cm
-
-|
-
-TELLINES
-
-|
-
-Donax trunculus et Tellina spp.
-
-|
-
-2,5 cm
-
-|
+2,5 cm |
 
 (*) LJFL = longueur maxillaire inférieur-fourche.
 
@@ -1588,17 +876,11 @@ III. - Mayotte
 
 Crustacés
 
-LANGOUSTES
+LANGOUSTES |
 
-|
+Palinurus spp. |
 
-Palinurus spp.
-
-|
-
-18 cm
-
-|
+18 cm |
 
 IV.-Saint-Pierre-et-Miquelon
 
